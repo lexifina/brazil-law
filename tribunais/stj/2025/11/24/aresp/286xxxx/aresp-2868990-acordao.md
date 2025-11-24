@@ -1,0 +1,72 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/11/2025 a 24/11/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PRESTAÇÃO JURISDICIONAL. NEGATIVA. INEXISTÊNCIA. HONORÁRIOS ADVOCATÍCIOS. BASE DE CÁLCULO. EXECUÇÃO. EXTINÇÃO. AUSÊNCIA DE TÍTULO EXECUTIVO. PROVEITO ECONÔMICO INESTIMÁVEL.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. No que tange à base de cálculo dos honorários advocatícios, a extinção da execução por ausência de título executivo não implica, necessariamente, a extinção do crédito subjacente, de modo que o benefício auferido pelo executado não pode ser quantificado, devendo ser considerado de valor inestimável. Precedentes.
+3. Agravo conhecido para negar provimento ao recurso especial.
+RELATÓRIO
+Trata-se de agravo interposto por HUGO SILVA FIGUEIREDO contra decis ão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+"APELAÇÃO CÍVEL - DIREITO PROCESSUAL - AÇÃO DE EXECUÇÃO - NULIDADE - AUSÊNCIA DE FUNDAMENTAÇÃO - AFASTADA - INDEFERIMENTO DA PETIÇÃO INICIAL - HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS - CRITÉRIOS DE FIXAÇÃO - PROVEITO ECONÔMICO INESTIMÁVEL - VALOR DA CAUSA - MANUTENÇÃO. 1. A fundamentação é condição indispensável para legitimação da decisão judicial no contexto do Estado Democrático de Direito, pois exige que o magistrado considere as normas integrantes do ordenamento jurídico e, necessariamente, enfrente os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada, concretizando o contraditório. 2. Atende o dever de fundamentação das decisões judiciais a sentença que fixa os honorários advocatícios sucumbenciais fazendo remissão aos critérios previstos no artigo 85 do CPC. 3. A regra geral e obrigatória é a de que os honorários sucumbenciais devem ser fixados no patamar de 10% a 20% do valor da condenação, segundo o parágrafo 2º do artigo 85, percentual que pode incidir, ainda, sobre o proveito econômico ou, não sendo possível mensurá-lo, sobre o valor atualizado da causa" (e-STJ fl. 1.592).
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, o recorrente alega, além de divergência jurisprudencial, violação dos arts. 7º, 8º, 85, § 2º, 489, § 1º, IV e VI, e 1.022, II, parágrafo único, II, do Código de Processo Civil.
+Assevera que o acórdão combatido incorreu em negativa de prestação jurisdicional ao não apreciar "a aplicação dos artigos 7º, 8º, 85, § 2º, e 827 do Código de Processo Civil, visto que no caso em tela, os honorários sucumbências deveriam ter sido arbitrados com base no proveito econômico, dado ao princípio da paridade entre as partes, a possibilidade de se auferir o proveito obtido com a extinção do feito executivo e pelo fato de que o valor da causa atualizado corresponde ao valor atualizado da dívida perseguida pela parte adversa" (e-STJ fls. 1.643/1.644).
+Pretende a fixação dos honorários advocatícios sobre o proveito econômico obtido.
+Sem as contrarrazões, foi negado seguimento ao recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PRESTAÇÃO JURISDICIONAL. NEGATIVA. INEXISTÊNCIA. HONORÁRIOS ADVOCATÍCIOS. BASE DE CÁLCULO. EXECUÇÃO. EXTINÇÃO. AUSÊNCIA DE TÍTULO EXECUTIVO. PROVEITO ECONÔMICO INESTIMÁVEL.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. No que tange à base de cálculo dos honorários advocatícios, a extinção da execução por ausência de título executivo não implica, necessariamente, a extinção do crédito subjacente, de modo que o benefício auferido pelo executado não pode ser quantificado, devendo ser considerado de valor inestimável. Precedentes.
+3. Agravo conhecido para negar provimento ao recurso especial.
+VOTO
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+No que tange ao defeito na prestação jurisdicional, a parte recorrente pretende o pronunciamento sobre "a aplicação dos artigos 7º, 8º, 85, § 2º, e 827 do Código de Processo Civil, visto que no caso em tela, os honorários sucumbências deveriam ter sido arbitrados com base no proveito econômico, dado ao princípio da paridade entre as partes, a possibilidade de se auferir o proveito obtido com a extinção do feito executivo e pelo fato de que o valor da causa atualizado corresponde ao valor atualizado da dívida perseguida pela parte adversa" (e-STJ fls. 1.643/1.644).
+Contudo, o Tribunal de origem indicou adequadamente os motivos que lhe formaram o convencimento, analisando de forma clara, precisa e completa as questões relevantes do processo e solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, como se vê do seguinte trecho:
+"(..)
+Examinando as alegações da parte embargante, verifica-se que, efetivamente, elas não são capazes de ensejar o acolhimento dos embargos de declaração, pois a questão abordada foi enfrentada e decidida, com a adoção dos fundamentos postos na decisão recorrida.
+Não há falar em omissão, uma vez que o acórdão decidiu de forma clara e expressa que os honorários advocatícios sucumbenciais, no caso, devem ser fixados sobre o valor da causa, nos seguintes termos:
+(..)
+Assim, inexiste contradição, omissão ou obscuridade no acórdão, mas apenas desfecho desfavorável aos interesses da parte embargante. Nesse cenário, caso se entenda que não foi aplicado corretamente dispositivo legal, entendimento jurisprudencial, orientação doutrinária ou que não houve a devida valoração da prova produzida, deve a parte embargante manejar o recurso próprio para desconstituição da decisão" (e-STJ fls. 1.624/1.626).
+Registra-se que o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pelas partes, mas apenas sobre aqueles capazes de, em tese, de algum modo, infirmar a conclusão adotada pelo órgão julgador.
+A motivação contrária ao interesse da parte, ou mesmo omissa em relação a pontos considerados irrelevantes pelo julgador, não autoriza o acolhimento dos embargos declaratórios.
+Não há falar, portanto, em prestação jurisdicional lacunosa ou deficitária apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão do recorrente.
+Nesse sentido:
+"CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO DE CONTRATO DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. CULPA DA VENDEDORA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. COMISSÃO DE CORRETAGEM. PRESCRIÇÃO. APLICAÇÃO DO PRAZO PRESCRICIONAL DECENAL. INCIDÊNCIA DA SÚMULA Nº 83 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há falar em ofensa aos arts. 489 e 1022 do CPC, porquanto todas as questões fundamentais ao deslinde da controvérsia foram apreciadas pelo Tribunal a quo, sendo que não caracteriza omissão ou falta de fundamentação a mera decisão contrária ao interesse da parte.
+2. As Turmas que compõem a Segunda Seção deste Superior Tribunal firmaram entendimento no sentido de que, nos casos de rescisão de contrato de compra e venda de imóvel por culpa do vendedor, é aplicável o prazo decenal contado a partir da resolução.
+3. Agravo interno não provido."
+(AgInt no AREsp 2.267.897/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe 6/12/2023 - grifou-se)
+No mais, o acórdão recorrido assim se pronunciou sobre a base de cálculo dos honorários advocatícios:
+"(..)
+No caso dos autos, a execução de título executivo extrajudicial ajuizada pelo apelado em desfavor do apelante foi extinta sem resolução de mérito, em razão da não apresentação do título original. Nesse cenário, não é possível aferir o proveito econômico obtido pelo apelante, pois não se decidiu que ele não era o devedor ou que o débito inexistia. Tanto é que a demanda executiva poderá ser novamente ajuizada pelo apelado, desde que sane o vício que ensejou o indeferimento da petição inicial" (e-STJ fl. 1.597).
+Firmadas essas premissas fáticas, insuscetíveis de alteração em razão da Súmula nº 7/STJ, verifica-se que o aresto combatido está alinhado à jurisprudência do Superior Tribunal de Justiça, consoante a qual, se a execução for extinta, porém os valores eventualmente devidos continuarem a existir e puderem ser cobrados por outras vias, o proveito econômico obtido pelo executado é considerado inestimável.
+A propósito:
+"DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. EXTINÇÃO DE EXECUÇÃO POR INEXIGIBILIDADE DO TÍTULO. PROVEITO ECONÔMICO INESTIMÁVEL. FIXAÇÃO POR EQUIDADE. ART. 85, § 8º, DO CPC. RECURSO DESPROVIDO.
+I. Caso em exame
+1. Agravo interno interposto por Green Metals Soluções Ambientais S.A. contra decisão monocrática do Ministro Antonio Carlos Ferreira que negou provimento ao recurso especial, sob o fundamento de conformidade do acórdão recorrido com a jurisprudência do STJ, notadamente quanto à aplicação do art. 85, § 8º, do CPC e à incidência das Súmulas n. 7 e 83 do STJ. Na origem, a ação de execução proposta por Flapa Mineração e Incorporações Ltda. foi extinta por ausência de título executivo válido, diante da inexistência de obrigação certa, líquida e exigível, em razão da falta de aceite nas notas fiscais apresentadas. A discussão no recurso especial referia-se à forma de fixação dos honorários advocatícios sucumbenciais, os quais foram arbitrados por equidade, e não em percentual sobre o valor da causa.
+II. Questão em discussão
+2. Há duas questões em discussão: (i) saber se a fixação dos honorários sucumbenciais em caso de extinção da execução por ausência de título executivo válido deve observar os percentuais previstos no art. 85, § 2º, do CPC; (ii) saber se, na hipótese, é aplicável a fixação por equidade, nos termos do art. 85, § 8º, do CPC, em razão de proveito econômico inestimável.
+III. Razões de decidir
+3. O STJ entende que a extinção da execução por ausência de título executivo não implica, necessariamente, a extinção do crédito subjacente, de modo que o benefício auferido pelo executado não pode ser quantificado, devendo ser considerado de valor inestimável.
+4. A jurisprudência desta Corte é pacífica no sentido de que, em tais hipóteses, é cabível a fixação dos honorários por equidade, conforme previsto no art. 85, § 8º, do CPC.
+5. A parte agravante, ao alegar violação dos §§ 2º e 8º do art. 85 do CPC, não logra afastar a jurisprudência consolidada do STJ sobre a matéria, incidindo, portanto, a Súmula n. 83 do STJ.
+IV. Dispositivo e tese
+6. Agravo interno desprovido.
+Tese de julgamento: "1. A extinção da execução por ausência de título executivo não implica, por si só, reconhecimento da inexistência do crédito subjacente, sendo o proveito econômico do executado considerado inestimável. 2. É legítima a fixação de honorários sucumbenciais por equidade, nos termos do art. 85, § 8º, do CPC, quando o processo é extinto sem resolução de mérito e sem redução ou extinção do crédito postulado. 3. A jurisprudência consolidada do STJ autoriza o arbitramento equitativo de honorários em hipóteses que não envolvem liquidação do direito material".
+Dispositivos relevantes citados: CPC/2015, art. 85, § 8º; CPC/2015, art. 803, I.
+Jurisprudência relevante citada: STJ, AgInt no REsp n. 2.109.226/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 15.4.2024; STJ, AgInt no AREsp n. 2.641.555/MT, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, julgado em 14.10.2024."
+(AgInt no REsp 2.051.763/MG, Rel. para acórdão Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, DJEN 5/6/2025 - grifou-se)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE RECURSAL. AFASTAMENTO. RECONSIDERAÇÃO DA DECISÃO. EXECUÇÃO DE CÉDULA DE CRÉDITO BANCÁRIO. JUNTADA DE VIA NÃO-NEGOCIÁVEL. INTIMAÇÃO PARA JUNTADA, SOB PENA DE INDEFERIMENTO DA INICIAL. INÉRCIA. EXTINÇÃO SEM RESOLUÇÃO DO MÉRITO. PROVEITO ECONÔMICO INESTIMÁVEL. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO POR EQUIDADE. ART. 85, § 8º, DO CPC/2015. POSSIBILIDADE. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL DESPROVIDO.
+1. "A falha induzida por informação equivocada prestada por sistema eletrônico de tribunal deve ser levada em consideração, em homenagem aos princípios da boa-fé e da confiança, para a aferição da tempestividade do recurso" (EAREsp 1.759.860/PI, Relatora Ministra LAURITA VAZ, CORTE ESPECIAL, DJe de 21/3/2022).
+2. Nos casos em que o acolhimento da pretensão não tenha correlação com o valor da causa ou não permita estimar eventual proveito econômico, os honorários de sucumbência devem ser arbitrados por apreciação equitativa, conforme disposto no § 8º do art. 85 do CPC/2015. Precedentes.
+3. Na hipótese, a extinção da execução decorreu do indeferimento da inicial pela ausência de juntada de título executivo idôneo. Como a dívida não foi declarada extinta ou inexistente, nem seu valor foi reduzido, não ficando inviabilizada a cobrança futura do débito, o proveito econômico deve ser considerado inestimável, impondo-se o arbitramento dos honorários de sucumbência por apreciação equitativa, nos termos do art. 85, § 8º, do CPC/2015.
+4. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial."
+(AgInt no AREsp 2.464.163/MA, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, REPDJe 23/5/2024, DJe 2/5/2024 - grifou-se)
+Logo, o acórdão recorrido não merece reforma.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Não cabe, na hipótese, a majoração dos honorários sucumbenciais prevista no art. 85, § 11, do Código de Processo Civil, pela ausência de prévia condenação do recorrente ao pagamento da verba.
+É o voto.
