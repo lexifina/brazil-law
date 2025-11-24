@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial pelo qual RUMO MALHA OESTE S.A. se insurgira contra o acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO assim ementado (fl. 56):
+AGRAVO DE INSTRUMENTO - CONSTITUCIONAL - PROCESSO CIVIL - REINTEGRAÇÃO DE POSSE - MALHA FERROVIÁRIA - CONFLITO AO EIXO CONCESSIONÁRIA "VERSUS" INVASORES - DESINTERESSE DO DNIT E DA ANTT - INCOMPETÊNCIA DA JUSTIÇA FEDERAL - AGRAVO DE INSTRUMENTO DESPROVIDO
+1 - Nos termos do r. "decisum" agravado, em demandas de mesma natureza, tanto ANTT, como DNIT, manifestaram desinteresse na participação da reintegração de posse vindicada.
+2 - Não havendo interesse federal imediato e não participando da lide os entes previstos no art. 109, inciso I, Lei Maior, ausente competência da Justiça Federal, para apreciação da possessória.
+3 - Não deve confundir o polo agravante, como concessionário de serviço público, os seus deveres, inerentes à conservação e obediência aos regramentos que envolvem resguardo de faixa de domínio, com a temática sobre a efetiva propriedade (estatal) do terreno invadido, pois aqueles preceitos são inerentes à própria concessão, ao passo que os fatos postos à apreciação orbitam, exclusivamente, em conflito privado (concessionária x invasores), portanto plena a competência estadual. Precedentes.
+4 - Improvimento ao agravo de instrumento.
+Os embargos de declaração opostos foram rejeitados (fls. 86/102).
+Nas razões de seu recurso, a parte recorrente afirma (f ls. 112/113):
+Apesar da Rumo ter demonstrado que é apenas uma Concessionária que zela pelos bens arrendados no contrato de concessão, e que esses bens são do Departamento Nacional de Infraestrutura de Transportes - "DNIT", como a autarquia apresentou uma petição informando não possuir interesse no feito, entendeu o Juízo de origem pela remessa dos autos à Justiça Estadual, o que desafiou a interposição de Agravo de Instrumento.
+A Recorrente interpôs recurso de Agravo de Instrumento, mas ficou determinada a manutenção do declínio de competência à justiça estadual, ante o desinteresse do DNIT e da ANTT na ação ajuizada pela Rumo, , negando provimento ao recurso interposto.
+ ..
+Ocorre que, tal entendimento não deve prosperar, sob inequívoca violação dos artigos 8º, inciso I e 22 da Lei 11.483/2007, 82, XVII e § 4º da Lei Federal nº 10.233/2001, artigos 3º e 29, I, da Lei nº 8.987/1995 e artigos 98 e 99, inciso I, do Código Civil, além da interpretação diversa de outros Tribunais Regionais Federais.
+A parte adversa não apresentou contrarrazões.
+O recurso foi inadmitido na origem (fls. 188/191 ), razão pela qual foi interposto o agravo em recurso especial ora examinado.
+É o relatório.
+A questão debatida nos autos foi afetada à Primeira Seção do Superior Tribunal de Justiça para ser decidida sob o rito de recursos repetitivos (Tema 1.384/STJ), e foi assim delimitada:
+"Estabelecer se a União, o DNIT e/ou a ANTT devem obrigatoriamente participar de ações possessórias ajuizadas por concessionárias de serviços públicos federais contra particulares que ocupam faixas de domínio de ferrovias ou rodovias federais, independentemente de sua manifestação de vontade, ou se a declaração de ausência de interesse jurídico por esses entes é suficiente para afastar a competência da Justiça Federal, deslocando o feito para a Justiça estadual" (REsps 2.195.089/RS e 2.215.194/SP, relator Ministro Gurgel de Faria).
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+O envio do recurso especial a esta Corte Superior deve ocorrer somente após o esgotamento da instância ordinária, formalizado com o novo julgamento pelo Tribunal de origem, quando então será possível examinar, no âmbito do STJ, as matérias jurídicas que eventualmente permanecerem controvertidas. Essa cautela também evita o fracionamento do recurso e previne eventual violação ao princípio da unicidade recursal, que veda a interposição simultânea ou sucessiva de recursos contra a mesma decisão.
+Ante o exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil (CPC), o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do mesmo CPC.
+Publique-se. Intimem-se.
+ EMENTA
