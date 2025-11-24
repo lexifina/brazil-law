@@ -1,0 +1,21 @@
+DECISÃO
+Em análise, recurso especial interposto pela UNIÃO contra acórdão do Tribunal Regional Federal da 4ª Região assim ementado (fls. 1.060-1.085):
+ADMINISTRATIVO E PROCESSUAL CIVIL. FRAUDE À EXECUÇÃO. ASSISTÊNCIA JUDICIÁRIA GRATUITA. HONORÁRIOS ADVOCATÍCIOS. COMPENSAÇÃO. POSSIBILIDADE.
+1. A publicação de editais na cautelar de protesto é suficiente para a ciência de terceiros, bastando para a caracterização de fraude nos atos de alienação de bens praticados pelo devedor a partir de então.
+2. Na hipótese de sucumbência recíproca, é cabível a compensação dos honorários advocatícios, independentemente de ser a parte beneficiária da justiça gratuita. Precedentes desta Corte e do STJ.
+3. Sentença mantida por seus próprios fundamentos.
+Embargos de declaração parcialmente acolhidos apenas para fins de prequestionamento, sem alteração do julgado (fl. 1.107-1.112).
+Nas razões do especial, a recorrente sustenta: i) violação ao art. 535, II, pela não apreciação de teses federais, apesar do provimento pró forma dos embargos; ii) ilegitimidade passiva da União, com inexistência de sucessão processual, pois houve dação em pagamento, permanecendo o Banco do Brasil na administração e representação dos créditos (arts. 295 e 358 do CC/2002; arts. 997 e 1.073 do CC/1916; arts. 1º, 4º, 5º, 16, 22 e 32 da MP 2.196-3/2001; art. 3º da Lei 10.437/2002; Portaria MF 389/2002; arts. 32 e 267, VI, do CPC/1973); iii) inexistência de fraude à execução ante a ausência de registro de penhora/protesto nas matrículas e prevalência das hipotecas, com ônus do exequente de provar má-fé (art. 659, § 4º, do CPC/1973; arts. 108, 109 e 113 do CC/2002; arts. 239 e 240 da Lei 6.015/1973); iv) nulidade das praças e arrematações por falta de intimação do credor hipotecário na agência correta (arts. 615, II, 698 e 247 do CPC/1973); v) impenhorabilidade dos bens gravados por cédula de crédito rural, com nulidade das penhoras e atos subsequentes (art. 69 do Decreto-Lei 167/1967; art. 648 do CPC/1973; art. 30, c, do Decreto-Lei 167/1967); e vi) insuficiência da publicidade por editais sem averbação, com uso do poder geral de cautela, destacando o ônus de registro (art. 240 da Lei 6.015/1973, e art. 798 do CPC/1973).
+Contrarrazões às fls. 1.141-1.166.
+Manifestação do Ministério Público Federal às fls. 1.198-1.202.
+É o relatório.
+Inicialmente, da análise dos autos, extrai-se que a ação declaratória de ineficácia de ato jurídico (2004.71.05.006003-8), ajuizada por OSCAR AMADEU BRAND e OUTROS, que deu origem ao recurso ora em análise, foi apensado e julgado conjuntamente ao processo 2004.71.05.003896-3 (ação declaratória de nulidade de penhora, de praça e de arrematação ocorridas na execução - ajuizada pelo Banco do Brasil S.A.).
+Nos autos do REsp 1.490.899/RS, oriundo da ação declaratória, o Ministro Relator, Og Fernandes, determinou a devolução dos autos ao Tribunal de Origem, em razão do decidido no julgamento do Recurso Especial 956.943/PR, submetido à sistemática do julgamento repetitivo - sendo o processo baixado definitivamente.
+Ainda, nota-se que no AREsp 1.705.552/RS, proveniente do acórdão de reapreciação do mérito, após determinação desta Corte de Justiça, houve homologação do pedido de desistência do Banco do Brasil .
+Diante das referidas movimentações processuais e, considerando o decurso do tempo e o tema versado no processo, determinei a intimação da parte requerente, UNIÃO, para se manifestar sobre o interesse recursal e o que entender de direito (fls. 1.205-1.207).
+A UNIÃO peticionou nos autos apontando a perda superveniente do interesse recursal, requerendo a homologação do pedido de desistência (fl. 1.211).
+O Código de Processo Civil dispõe que "o recorrente poderá, a qualquer tempo, sem a anuência do recorrido ou dos litisconsortes, desistir do recurso" (art. 998).
+Dessa forma, uma vez manifestada por procurador devidamente habilitado com poderes para desistir, é de rigor a homologação do pedido, com consequente óbice ao seu seguimento, ante a superveniente inexistência jurídica do recurso decorrente do petitório, formulado regularmente.
+Isso posto, nos termos dos arts. 998 do CPC; e 34, IX, do RISTJ, homologo o pedido de desistência da UNIÃO.
+Intimem-se.
+EMENTA
