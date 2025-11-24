@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/11/2025 a 24/11/2025, por unanimidade, conhecer do recurso e lhe dar provimento, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Daniela Teixeira, Nancy Andrighi, Humberto Martins e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. NULIDADE NA CITAÇÃO DE LITISCONSORTE. ANULAÇÃO PARCIAL DE SENTENÇA E REABERTURA DE PRAZO PARA DEFESA E PRODUÇÃO DE PROVAS APENAS EM FAVOR DE UM RÉU. PROSSEGUIMENTO DA LIQUIDAÇÃO EM RELAÇÃO AOS DEMAIS. INADMISSIBILIDADE. AGRAVO CONHECIDO E RECURSO ESPECIAL PROVIDO.
+1. Esta Corte firmou o entendimento segundo o qual o defeito ou a inexistência da citação opera-se no plano da existência da sentença, caracterizando-se como vício transrescisório que pode ser suscitado a qualquer tempo, mediante simples petição ou por meio de ação declaratória de nulidade.
+2. Ainda que o defeito correspondente à ausência de citação do litisconsorte passivo necessário tenha sido alegado tardiamente, tal circunstância não basta para configurar preclusão, tampouco para caracterizar a chamada "nulidade de algibeira", diante da gravidade do vício processual em questão.
+3. A sentença condenatória não pode ser anulada parcialmente em relação a um dos litisconsortes, com reabertura de prazo para defesa e produção de provas, permanecendo válida como título executivo perante dos demais requeridos.
+4. Agravo conhecido. Recurso especial conhecido e provido para anulação de todos os atos processuais a partir do reconhecimento de nulidade de citação.
+RELATÓRIO
+Trata-se de agravo interposto por LUÍS CARLOS FANTE, MARINA CANSAN FANTE E MICHELLE CANSAN FANTE contra a decisão que inadmitiu recurso especial fundado no art. 105, inciso III, alíneas a e c, da Constituição Federal, desafiando o acórdão do Tribunal de Justiça do Estado de Rondônia assim ementado (e-STJ, fls. 975-981):
+PROCESSUAL CIVIL E CIVIL. APELAÇÃO CÍVEL. RESCISÃO DE CONTRATO. NULIDADE DE CITAÇÃO EM FACE DE UM DOS REQUERIDOS. AUSÊNCIA DE INTERESSE RECURSAL. INADIMPLEMENTO DA OBRIGAÇÃO. PROVA EXCLUSIVAMENTE TESTEMUNHAL. IMPOSSIBILIDADE. QUITAÇÃO QUE DEVE SER COMPROVADA POR MEIO DE PROVA DOCUMENTAL.
+I. CASO EM EXAME Ação de rescisão contratual e restituição de valores, ante o não cumprimento da obrigação consistente na entrega de litros de vinho aos autores.
+II. QUESTÃO EM DISCUSSÃO 1) Analisar se uma vez anulado os atos processuais em face da nulidade de citação de um dos requeridos, o processo deve retornar à fase de conhecimento em relação a todos os demais devedores; 2) se a prova existente nos autos é suficiente a comprovar o cumprimento da obrigação pela requerida.
+III. RAZÕES DE DECIDIR 1. O reconhecimento de nulidade de citação de um dos devedores, não induz à nulidade dos atos processuais praticados em face dos demais devedores. 2. Referindo-se a sentença a apenas um dos requeridos, impõe-se o reconhecimento da ausência de interesse recursal dos demais. 3. A prova exclusivamente testemunhal não pode ser utilizada para comprovação da quitação da obrigação, mormente se desacompanhada de outros indícios de prova documental para a tal mister.
+IV. DISPOSITIVO 4. Recurso desprovido.
+Aduz-se no agravo que a decisão: (1) não atrai a Súmula 7/STJ, pois se pretende revaloração jurídica dos fatos já delineados, e não reexame probatório; (2) reconhecida a nulidade da citação de Michelle, impõe-se a reabertura da fase de conhecimento e do prazo defensivo para todos os réus, afastando a coisa julgada para Luís e Marina; (3) o STJ pode dirimir a correta aplicação do CPC, ainda que haja reflexos constitucionais; (4) houve negativa de vigência aos arts. 231, § 1º, 238, 239, 281, 502, 505 e 996 do CPC e dissídio jurisprudencial; (5) deve ser provido o agravo para destrancar o recurso especial.
+A contraminuta foi apresentada (e-STJ, fls. 1.066-1.070).
+É o relatório.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. NULIDADE NA CITAÇÃO DE LITISCONSORTE. ANULAÇÃO PARCIAL DE SENTENÇA E REABERTURA DE PRAZO PARA DEFESA E PRODUÇÃO DE PROVAS APENAS EM FAVOR DE UM RÉU. PROSSEGUIMENTO DA LIQUIDAÇÃO EM RELAÇÃO AOS DEMAIS. INADMISSIBILIDADE. AGRAVO CONHECIDO E RECURSO ESPECIAL PROVIDO.
+1. Esta Corte firmou o entendimento segundo o qual o defeito ou a inexistência da citação opera-se no plano da existência da sentença, caracterizando-se como vício transrescisório que pode ser suscitado a qualquer tempo, mediante simples petição ou por meio de ação declaratória de nulidade.
+2. Ainda que o defeito correspondente à ausência de citação do litisconsorte passivo necessário tenha sido alegado tardiamente, tal circunstância não basta para configurar preclusão, tampouco para caracterizar a chamada "nulidade de algibeira", diante da gravidade do vício processual em questão.
+3. A sentença condenatória não pode ser anulada parcialmente em relação a um dos litisconsortes, com reabertura de prazo para defesa e produção de provas, permanecendo válida como título executivo perante dos demais requeridos.
+4. Agravo conhecido. Recurso especial conhecido e provido para anulação de todos os atos processuais a partir do reconhecimento de nulidade de citação.
+VOTO
+O agravo é tempestivo e impugna, de maneira adequada, os fundamentos da decisão recorrida. Dele conheço, portanto, passando ao exame do recurso especial.
+Nas razões do apelo nobre (e-STJ, fls. 1.016-1.031), alega-se que o acórdão recorrido: (1) negou vigência aos arts. 238, 239, 281 e 231, § 1º, do CPC ao não anular todos os atos subsequentes e ao não reabrir o prazo de contestação para todos os réus; (2) reconheceu coisa julgada indevida para Luís e Marina, em afronta aos arts. 502 e 505 do CPC; (3) afastou a legitimidade recursal de terceiros prejudicados, em violação do art. 996 do CPC; (4) apresentou interpretação divergente em relação a precedentes de outros tribunais.
+Respeitado o douto entendimento adotado na origem, a conclusão destoa da jurisprudência dominante nesta Corte.
+Conforme anotado no acórdão recorrido, cinge-se a questão preliminar a averiguar se, uma vez anulados os atos processuais em face da nulidade de citação reconhecida em relação a um dos requeridos, o processo deve retornar à fase de conhecimento também em relação aos demais.
+Na dinâmica dos fatos, observa-se o findar da fase de conhecimento e início da liquidação. Contudo, reconhecida a nulidade de citação quanto a um dos réus na primeira fase, reabriu-se exclusivamente para ele o prazo para oferecer resposta e produzir provas. Vale dizer, manteve-se a sentença condenatória em relação aos demais, gerando situação inusitada: trâmite paralelo de liquidação de título executivo para dois litisconsortes e reabertura da fase de conhecimento para o terceiro.
+A contrariedade é evidente, pois na eventualidade de sucesso do litisconsorte ao qual se permitiu reabrir a discussão de mérito, estaria infirmado o título executivo que se liquida em relação aos demais.
+Tanto por isso que a orientação desta Corte é firme ao reconhecer que a nulidade de citação em relação a um dos réus determina a anulação de todos os atos processuais da fase de conhecimento, sem possibilidade de cisão.
+Nesse sentido:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE REINTEGRAÇÃO DE POSSE. POLO PASSIVO . DEMAIS OCUPANTES DO IMÓVEL. COMPOSSE. LITISCONSÓRCIO PASSIVO NECESSÁRIO. CITAÇÃO . AUSÊNCIA. NULIDADE. VÍCIO TRANSRESCISÓRIO. ALEGAÇÃO . SIMPLES PETIÇÃO. POSSIBILIDADE.
+ ..  6. A ausência da citação de litisconsorte passivo necessário enseja a nulidade da sentença. 7. Na linha da jurisprudência desta Corte, o vício na citação caracteriza-se como vício transrescisório, que pode ser suscitado a qualquer tempo, inclusive após escoado o prazo para o ajuizamento da ação rescisória, mediante simples petição, por meio de ação declaratória de nulidade (querela nullitatis) ou impugnação ao cumprimento de sentença . 8. Recurso especial provido.
+(REsp 1.811.718/SP, Data de Julgamento: 2/8/2022, TERCEIRA TURMA, DJe 5/8/2022 - sem destaques no original)
+Na mesma linha:
+RECURSO ESPECIAL - AÇÃO DE REINTEGRAÇÃO DE POSSE - BEM PÚBLICO - OCUPAÇÃO IRREGULAR - INEXISTÊNCIA DE NOTIFICAÇÃO PRÉVIA DE TODOS OS OCUPANTES DO IMÓVEL, BEM COMO AUSÊNCIA DE CITAÇÃO DE UM OCUPANTE DO IMÓVEL - TRIBUNAL A QUO QUE AFASTOU AS PRELIMINARES DE AUSÊNCIA DE PRESSUPOSTOS DA AÇÃO E DE NULIDADE POR FALTA DE CITAÇÃO DE OCUPANTE.INSURGÊNCIA DOS RÉUS.
+ ..  A ausência da citação de litisconsorte passivo necessário enseja a nulidade da sentença, nos termos do artigo 47 do CPC/73, correspondente ao artigo 115 do CPC/15  .. .
+(REsp 1.263.164/DF, Relator Ministro MARCO BUZZI, Julgamento: 22/11/2016, QUARTA TURMA, DJe 29/11/2016 - sem destaque no original)
+Por derradeiro, também não vinga o argumento de preclusão deduzido no acórdão recorrido, nomeadamente em função da natureza da nulidade em exame.
+A propósito:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO MONITÓRIA. AUSÊNCIA DE CITAÇÃO. NULIDADE.
+1. Ação monitória.
+2. Esta Corte firmou o entendimento segundo o qual o defeito ou a inexistência da citação opera-se no plano da existência da sentença, caracterizando-se como vício transrescisório que pode ser suscitado a qualquer tempo, mediante simples petição ou por meio de ação declaratória de nulidade ("querela nullitatis"). Precedentes.
+3. Ainda que o defeito correspondente à ausência de citação do litisconsorte passivo necessário tenha sido alegado tardiamente, tal circunstância não basta para configurar preclusão, tampouco para caracterizar a chamada "nulidade de algibeira", diante da gravidade do vício processual em questão.
+4. Recurso especial conhecido e provido.
+(REsp n. 2.187.458/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 24/3/2025, DJEN de 27/3/2025 - sem destaque no original)
+Nessas condições, CONHEÇO do agravo para DAR PROVIMENTO ao recurso especial a fim de reformar o acórdão recorrido e anular o processo a partir do reconhecimento de nulidade da citação da corré, com reabertura do prazo para a defesa a todos os litisconsortes e prosseguimento na dilação probatória para que nova sentença seja proferida. Por consequência, anula-se a liquidação iniciada apenas em relação a parte dos requerentes.
+É o voto.
+Previno que todos os temas abordados foram detidamente analisados, de modo que a interposição de recurso contra esta decisão com nítido intuito de buscar revisão do julgamento, invocando omissão ou contradição inexistente, poderá acarretar condenação às penalidades fixadas no art. 1.026, § 2º, do CPC.
