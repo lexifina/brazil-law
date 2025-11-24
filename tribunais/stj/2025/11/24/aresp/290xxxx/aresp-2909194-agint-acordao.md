@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/11/2025 a 24/11/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Daniela Teixeira, Nancy Andrighi, Humberto Martins e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. PEDIDO DE ESCLARECIMENTO/INTEGRAÇÃO SOBRE LIMITES DE HONORÁRIOS RECURSAIS. INADEQUAÇÃO DA VIA ELEITA. TEMA NÃO SUSCITADO EM EMBARGOS DE DECLARAÇÃO PRÉVIOS. INOVAÇÃO RECURSAL. PRECLUSÃO CONSUMATIVA. AGRAVO INTERNO NÃO CONHECIDO.
+1. Trata-se de agravo interno interposto contra decisão monocrática da Presidência que não conheceu do agravo em recurso especial por ausência de impugnação específica de todos os fundamentos da decisão de inadmissibilidade, notadamente as Súmulas n. 5 e 7 do STJ.
+2. O objetivo recursal é decidir se o agravo interno pode veicular pedido de esclarecimento/integração sobre a correta aplicação dos limites legais dos honorários recursais majorados na decisão monocrática.
+3. O agravo interno, instrumento vocacionado à reforma ou confirmação da decisão monocrática, não se presta a suprir obscuridade ou omissão, tampouco a integrar capítulos decisórios quando a parte não suscitou oportunamente, em embargos de declaração, a questão relativa aos limites legais da majoração de honorários recursais, operando-se a preclusão consumativa.
+4. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno interposto por TACLA INVESTIMENTOS DE BENS LTDA. (TACLA) contra decisão monocrática da Presidência deste STJ, que não conheceu do agravo em recurso especial, por ausência de impugnação específica de todos os fundamentos da decisão de inadmissibilidade do recurso especial (e-STJ, fls. 752/753).
+Nas razões do agravo interno, TACLA apontou que o agravo não se volta quanto ao não conhecimento do recurso especial, e busca apenas um esclarecimento quanto aos limites percentuais, previstos no art. 85, §§ 2º e 3º, do CPC, referente a majoração dos honorários advocatícios determinada na decisão monocrática (e-STJ, fls. 762-766).
+Houve apresentação de contrarrazões ao agravo interno por COMLINE"S COMERCIAL LTDA., JUDITE LUCIA ROHDEN e VALCIR ALOISIO KLEIN (COMLINE"S e outro), pugnando pelo não conhecimento do recurso e, subsidiariamente, pelo seu não provimento (e-STJ, fls. 785-790).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. PEDIDO DE ESCLARECIMENTO/INTEGRAÇÃO SOBRE LIMITES DE HONORÁRIOS RECURSAIS. INADEQUAÇÃO DA VIA ELEITA. TEMA NÃO SUSCITADO EM EMBARGOS DE DECLARAÇÃO PRÉVIOS. INOVAÇÃO RECURSAL. PRECLUSÃO CONSUMATIVA. AGRAVO INTERNO NÃO CONHECIDO.
+1. Trata-se de agravo interno interposto contra decisão monocrática da Presidência que não conheceu do agravo em recurso especial por ausência de impugnação específica de todos os fundamentos da decisão de inadmissibilidade, notadamente as Súmulas n. 5 e 7 do STJ.
+2. O objetivo recursal é decidir se o agravo interno pode veicular pedido de esclarecimento/integração sobre a correta aplicação dos limites legais dos honorários recursais majorados na decisão monocrática.
+3. O agravo interno, instrumento vocacionado à reforma ou confirmação da decisão monocrática, não se presta a suprir obscuridade ou omissão, tampouco a integrar capítulos decisórios quando a parte não suscitou oportunamente, em embargos de declaração, a questão relativa aos limites legais da majoração de honorários recursais, operando-se a preclusão consumativa.
+4. Agravo interno não conhecido.
+VOTO
+TACLA interpôs agravo interno contra a decisão monocrática da Presidência deste Tribunal Superior que não conheceu do agravo em recurso especial e que rejeitou os seus embargos de declaração opostos na sequência.
+Não se conheceu do agravo em recurso especial por ausência de impugnação específica aos fundamentos da decisão de inadmissibilidade, notadamente as Súmulas n. 5 e 7 do STJ.
+A referida decisão monocrática, ao final, determinou a majoração dos honorários advocatícios em 15% sobre o valor já arbitrado, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º (e-STJ, fl. 753) do art. 85 do CPC.
+Em seguida, a TACLA opôs embargos de declaração, sustentando obscuridade quanto à ausência de impugnação à Súmula n. 7 do STJ, sem indicar a qual das matérias do recurso especial o óbice se referia: a cláusula penal ou honorários advocatícios (e-STJ, fls. 757-759).
+O recurso foi rejeitado por ausência dos vícios do art. 1.022 do CPC, reiterando-se a deficiência da impugnação específica.
+No presente agravo interno, a TACLA não se insurge contra o cerne da decisão monocrática, que foi o não conhecimento do agravo em recurso especial, mas sim, expressamente, busca (..) uma correção imprescindível sobre o capítulo da decisão que majorou os honorários de sucumbência (e-STJ, fl.776).
+A finalidade declarada é obter a necessária integração do julgado para que não restem dúvidas sobre a correta aplicação dos limites legais (e-STJ, fl. 778) do percentual majorado, visando evitar uma infindável e desnecessária controvérsia no juízo de primeiro grau (e-STJ, fl.778).
+É imperioso, de início, examinar a adequação da via recursal eleita. A função precípua do agravo interno, nos termos do art. 1.021 do Código de Processo Civil e do art. 259 do Regimento Interno do Superior Tribunal de Justiça, é submeter ao órgão colegiado a revisão da decisão monocrática, impugnando-se especificamente os fundamentos que a sustentam, para que seja confirmada ou reformada.
+O agravo interno constitui o instrumento para manifestar o inconformismo e buscar a reforma da decisão, em observância ao princípio da colegialidade, e não para obter esclarecimentos ou a integração do julgado.
+A pretensão da TACLA, conforme delineado em suas razões, limita-se à obtenção de "integração do julgado" e "esclarecimento" acerca da correta aplicação dos limites legais à majoração da verba honorária. Tal intento, por sua natureza, visa a suprir uma suposta obscuridade ou omissão na decisão, o que se coaduna com o escopo exclusivo dos embargos de declaração, previstos no art. 1.022 do CPC.
+Neste caso, o mecanismo adequado para buscar a integração da decisão monocrática acerca da verba honorária era o anterior recurso de embargos de declaração.
+Contudo, a análise dos autos revela que a parte, ao opor os aclaratórios precedentemente, cingiu sua insurgência à alegada obscuridade da Súmula n. 7 do STJ, sem mencionar a questão do limite percentual dos honorários recursais.
+Dessa forma, a matéria suscitada no agravo interno configura uma indevida inovação recursal, a qual não pode ser conhecida em momento processual posterior.
+O agravo interno não se presta a suprir omissão da própria parte que deixou de alegar o vício no momento processual oportuno, qual seja, a interposição dos embargos de declaração.
+A utilização do agravo interno com o exclusivo propósito de obter esclarecimentos ou complementação, que não foram objeto dos anteriores embargos de declaração, evidencia a inadequação da via recursal e o desrespeito à preclusão consumativa.
+O agravo interno, ao buscar o mero esclarecimento sobre a limitação legal da majoração, sem impugnar os fundamentos basilares que levaram ao não conhecimento do recurso principal, torna-se incognoscível.
+Em conclusão, a jurisprudência desta Corte Superior é firme ao exigir a impugnação específica e a adequação do recurso à finalidade pretendida. Tendo a parte agravante se valido do agravo interno para obter integração do julgado, em matéria que não foi objeto de seus anteriores embargos de declaração, incorreu em vício processual insanável.
+Ante o exposto, com fundamento no art. 932, III, do CPC, e no art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça, NÃO CONHEÇO do agravo interno.
+É o voto.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação nos termos do art. 1.026, § 2º, do CPC.
