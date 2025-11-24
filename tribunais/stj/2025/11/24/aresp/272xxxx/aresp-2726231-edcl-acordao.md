@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/11/2025 a 24/11/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Nos termos do que dispõe o art. 1022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de embargos de declaração opostos contra acórdão assim ementado (fl. 654):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO À DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL NA CORTE DE ORIGEM.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do CPC/2015, devem ser exigidos os requisitos de admissibilidade na forma nele prevista, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A ausência de impugnação específica aos fundamentos da decisão da Corte de origem que não admitiu o recurso impede o conhecimento do agravo, nos termos do que dispõem os arts.
+932, inc. III, do CPC/2015 e 253, parágrafo único, inc. I, do RI/STJ (redação dada pela Emenda Regimental n. 22, 2016).
+3. Agravo interno não provido.
+A embargante sustenta que "O STJ também possui entendimento de que, havendo alteração de entendimento jurisprudencial, o novo posicionamento aplica-se aos recursos pendentes de análise, ainda que interpostos antes do julgamento que modificou a jurisprudência, inclusive em sede de embargos de declaração. No caso específico dos autos, o Supremo Tribunal Federal, por meio da ADI 5635, firmou entendimento vinculante sobre a matéria em debate. (..) No referido precedente vinculante, o Supremo Tribunal Federal decidiu que os depósitos compulsórios realizados ao FEEF têm natureza de ICMS e, por isso, deveriam se submeter à regra da não cumulatividade própria do tributo." (fls. 666-668). E acrescenta que "Diante disso, ainda que se mantenha a ratio da decisão originária originada no E.TJPE, é necessário resguardar a não cumulatividade do ICMS prevista pelo art. 155, §2º, I, da CRFB do art. 19 da LC 87/1996, em respeito à tese vinculante formada na ADI 5635. Por se tratar de precedente vinculante firmado pelo Pleno do STF em Ação Direta de Inconstitucionalidade, a determinação de observância da não cumulatividade envolvendo depósitos ao FEEF tem sido observada pela ampla jurisprudência do C. STF, inclusive em sede de Embargos de Declaração. (..) Logo, por essas razões, é cabível a oposição de embargos de declaração para adequação do caso ao precedente vinculante do STF para que se reconheça, no acórdão, o direito de a Embargante aplicar as regras de não cumulatividade do ICMS aos valores depositados no FEEF, assegurando, desta forma, a correta aplicação do direito e a observância à segurança jurídica e à isonomia processual." (fls. 669-671).
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Nos termos do que dispõe o art. 1022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+3. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Nos termos do que dispõe o art. 1022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+O acórdão embargado decidiu a controvérsia ao assentar que tendo a decisão de não admissão do recurso especial se fundado na ausência de violação dos arts. 489 e 1022 do CPC/2015, na incidência da Súmula 518/STJ e na incidência da Súmula 280/STF, a agravante deixou de impugnar no seu agravo em recurso especial, como de mister, este último fundamento (incidência da Súmula 280/STF). O agravo interno, então, teve provimento negado, forte nos arts. 932, inc. III, do CPC/2015 e 253, parágrafo único, inc. I, do RI/STJ (Redação dada pela Emenda Regimental n. 22, de 2016).
+Po is bem. Nos presentes embargos, a parte não sustenta a ocorrência de qualquer dos vícios autorizativos previsto no art. 1022 do CPC/2015, o que, de per si, já é motivo suficiente para seu não acolhimento. Mas além dessa questão, verifica-se que a parte pretende revisão do julgado com decisão de mérito, quando seu recurso especial sequer ultrapassou a barreira do conhecimento, o que, a bem de ver, é descabido.
+Outrossim, "A jurisprudência do STJ entende não ser possível o exame de fato novo suscitado exclusivamente na instância especial ante a ausência do requisito constitucional do prequestionamento e sob pena de supressão de instância (EDcl no AgInt no REsp 1.739.484/PE, rel. Ministro SÉRGIO KUKINA, Primeira Turma, julgado em 08/03/2021, DJe 11/03/2021)." (EDcl no AgInt nos EDcl no AREsp 2409665/MT, Rel. Min. Herman Benjamin, Segunda Turma, DJE de 19/4/2024).
+Finalmente, verifica-se que a referida ADI 5635, no Supremo Tribunal Federal, tem por objetivo questionar a Lei 7428/2016, do Estado do Rio de Janeiro, enquanto na hipótese dos autos discute-se legislação do Estado de Pernambuco.
+Assim, evidencia-se não ter ocorrido falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
