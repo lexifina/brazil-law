@@ -1,0 +1,49 @@
+DECISÃO
+Cuida-se de recurso especial interposto por SHOPPING ESTACAO GOIANIA EMPREENDIMENTOS E EVENTOS S/A, fundamentado na alínea "a" do permissivo constitucional, no intuito de reformar acórdão proferido pelo Tribunal de Justiça do Estado de Goiás, assim ementado (fl. 572, e-STJ):
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE NULIDADE DE CLÁUSULAS CONTRATUAIS. ESTABELECIMENTO COMERCIAL QUE NÃO SE CONFIGURA COMO SHOPPING CENTER. COBRANÇA RES SPERATA. INDEVIDA. OBRIGATORIEDADE DE DEVOLUÇÃO DE IMPORTÂNCIAS PAGAS A ESTE TÍTULO. HONORÁRIOS ADVOCATÍCIOS. MAJORAÇÃO.
+I. A exigência da res sperata é admitida tão somente em se tratando de locações de shopping center. Assim, o não enquadramento da apelante nesta condição, à época do contrato celebrado entre as partes, impõe a nulidade da cláusula que a estipulou.
+II. Declarada a ilegalidade da cláusula que prevê o pagamento da res sperata, faz jus a apelada à restituição da importância paga a esse título.
+III. Evidenciada a sucumbência recursal, impende majorar a verba honorária anteriormente fixada, conforme previsão do art. 85, § 11, do CPC.
+RECURSO DE APELAÇÃO CONHECIDO E DESPROVIDO.
+Opostos embargos declaratórios, que, após anulação do primeiro julgamento por esta Corte Superior (fls. 655-659, e-STJ), foram parcialmente acolhidos, sem efeitos infringentes, nos termos da seguinte ementa (fl. 686, e-STJ):
+EMBARGOS DE DECLARAÇÃO NA APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE NULIDADE DE CLÁUSULAS CONTRATUAIS. OMISSÃO. AUSÊNCIA DE MANIFESTAÇÃO EXPRESSA ACERCA DE UM DOS FUNDAMENTOS VENTILADOS NAS RAZÕES RECURSAIS. VÍCIO SANADO. ACÓRDÃO INTEGRADO SEM EFEITOS INFRINGENTES.
+I. Os embargos de declaração deverão ser utilizados para esclarecer obscuridade ou eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+II. Padece de omissão o julgado que deixa de apreciar e se manifestar expressamente sobre um dos fundamentos ventilados nas razões recursais, a ensejar o acolhimento dos aclaratórios para integrar a temática faltante, todavia, sem lhe atribuir efeito modificativo, nesse ponto.
+III. Com relação à autonomia da vontade das partes, consubstanciada no art. 54 da Lei nº 8.245/1991, não merece acolhida, porquanto, à época dos contratos celebrados antes de 2016, o embargado não se apresentava como shopping center, de modo que tal artigo não se aplica ao caso em tela.
+ACLARATÓRIOS CONHECIDOS E PARCIALMENTE ACOLHIDOS SEM EFEITO MODIFICATIVO.
+Nas razões de recurso especial (fls. 695-703, e-STJ), a parte recorrente aponta violação aos arts. 193 e 206, § 3º, I, do Código Civil, e 54 da Lei n. 8.245/91.
+Sustenta, em síntese: a) a ocorrência de prescrição trienal da pretensão de restituição dos valores pagos a título de res sperata, por se tratar de encargo acessório do contrato de locação, devendo ser declarada prescrita a cobrança dos valores pagos até 08/10/2015; b) a legalidade da cobrança da res sperata, com fundamento no art. 54 da Lei n. 8.245/91, que consagra a autonomia da vontade nas relações entre lojistas e empreendedores de shopping center, argumentando que o recorrido usufruiu de toda a infraestrutura disponibilizada; c) subsidiariamente, que a devolução dos valores deve se limitar ao período de 2012 a 2015, uma vez que o próprio Tribunal de origem reconheceu que o empreendimento recebeu o selo da ABRASCE em 2015, configurando-se, a partir de então, como shopping center.
+Não foram apresentadas contrarrazões, conforme certidão de fl. 712, e-STJ.
+Em juízo prévio de admissibilidade (fls. 736-738, e-STJ), admitiu-se o recurso, ascendendo os autos a esta Corte.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. A parte recorrente aponta violação ao art. 206, § 3º, I, do Código Civil, sustentando a ocorrência de prescrição trienal para a pretensão de restituição dos valores pagos a título de res sperata.
+A tese não pode ser conhecida por ausência de prequestionamento.
+A análise do acórdão da apelação (fls. 572-578, e-STJ) e dos acórdãos que julgaram os embargos de declaração (fls. 596-600 e 686-690, e-STJ) revela que a questão da prescrição trienal não foi, em nenhum momento, examinada pelo colegiado, que se limitou a analisar a natureza jurídica do empreendimento para fins de aferir a legalidade da cobrança da res sperata.
+Tampouco se pode cogitar de prequestionamento ficto, nos termos do art. 1.025 do CPC, pois para tanto seria indispensável que a parte recorrente tivesse provocado o Tribunal de origem a se manifestar sobre o tema via embargos de declaração e, persistindo a omissão, tivesse demonstrado efetiva violação ao art. 1.022 do CPC no recurso especial, especificamente quanto a esse ponto, o que não ocorreu. Nessa linha: AREsp n. 2.400.501/GO, relator Ministro Raul Araújo, Quarta Turma, julgado em 14/4/2025, DJEN de 25/4/2025; EDcl no AgInt nos EDcl no AREsp n. 2.599.793/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 25/8/2025, DJEN de 29/8/2025.
+A ausência de debate prévio sobre a norma federal tida por violada atrai a incidência do óbice da Súmula 211/STJ. A propósito:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. CERCEAMENTO DE DEFESA. INDEFERIMENTO DE PROVA ORAL. NECESSIDADE E PERTINÊNCIA NÃO DEMONSTRADAS. INEXISTÊNCIA DE VIOLAÇÃO AO ART. 373 DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. PRINCÍPIO DA MENOR ONEROSIDADE. INSUFICIÊNCIA DE BENS PENHORADOS PARA SATISFAÇÃO DO CRÉDITO. SÚMULA 7/STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL DESPROVIDO.  ..
+3. A alegação de inversão indevida do ônus da prova não foi debatida no acórdão recorrido, carecendo do requisito constitucional do prequestionamento, atraindo a incidência da Súmula 211/STJ.  ..
+(AREsp n. 2.956.986/PR, relator Ministro Raul Araújo, Quarta Turma, julgado em 22/9/2025, DJEN de 26/9/2025.)
+2. A recorrente alega violação ao art. 54 da Lei n. 8.245/91, defendendo a validade da cobrança da res sperata e, subsidiariamente, a limitação da condenação à restituição ao período de 2012 a 2015.
+A análise de tal argumento é inviável nesta instância.
+O Tribunal de origem, com base na análise do acervo fático-probatório, concluiu que o empreendimento não se configurava como shopping center à época da celebração dos contratos que ensejaram a condenação à devolução dos valores, tendo sido inserido formalmente nessa categoria somente em dezembro de 2014. A Corte estadual assentou (fl. 574, e-STJ):
+No presente feito, o primeiro contrato de locação foi firmado em 2012.
+Ademais, extrai-se dos autos que o empreendimento até então conhecido por "Feira da Estação" sofreu significativas modificações a partir de janeiro de 2011, com implementação de melhorias e migração das pequenas bancas para espaços físicos maiores com características e estrutura física de lojas.
+Em que pese a restruturação e expansão da infraestrutura, o empreendimento somente foi inserido na categoria de Shopping Center, recebendo o selo da ABRASCE - Associação Brasileira de Shopping Centers, em dezembro de 2014.
+Dessa forma, de todos os contratos entabulados com o apelado, a apelante apenas se apresenta como shopping center no contrato firmado pelo período de 01/03/2016 a 30/04/2021 (evento 1, arquivo 4), corroborando, a toda evidência, que não era considerada shopping center nas contratações pactuadas anteriormente.
+Assim sendo, ao tempo dos contratos de locação celebrados antes de 2016, não havia justificativa para cobrança da res esperata, o que importa na irretroatividade dos efeitos do certificado que elevou a categoria do empreendimento para Shopping Center para referendar a validade da cláusula que estipulou a cobrança.
+No novo julgamento dos embargos de declaração, realizado por determinação desta Corte, o Tribunal de origem integrou o acórdão para afastar expressamente a aplicação do art. 54 da Lei do Inquilinato, reforçando a premissa de que o empreendimento não se enquadrava no conceito legal à época dos contratos anteriores a 2016 (fl. 686, e-STJ):
+Com relação à autonomia da vontade das partes, consubstanciada no art. 54, da Lei nº 8.245/1991, não merece acolhida, porquanto à época dos contratos celebrados antes de 2016, o embargado não apresentava-se como shopping center, de modo que tal artigo não se aplica ao caso em tela.
+Desse modo, a alteração das conclusões do acórdão recorrido, seja para reconhecer a validade da cobrança em todo o período, seja para limitar a devolução ao período de 2012 a 2015, demandaria o reexame do conjunto fático-probatório dos autos para infirmar a premissa de que o estabelecimento não se caracterizava como shopping center antes de 2016. Tal providência é vedada em sede de recurso especial, nos termos das Súmulas 5/STJ e 7/STJ.
+Nesse mesmo sentido, já decidiu esta Quarta Turma:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA NÃO CONHECER DO RECURSO ESPECIAL. IRRESIGNAÇÃO RECURSAL DA RÉ.
+1. Violação ao artigo 1.022 do CPC não configurada. Acórdão estadual que enfrentou todos os aspectos essenciais à resolução da controvérsia de forma ampla e fundamentada, sem omissão ou obscuridade. Precedentes.
+2. Rever a conclusão do Tribunal de origem acerca da nulidade da cláusula que afastava a devolução da res sperata exige a incursão na seara probatória dos autos e o reexame de cláusulas contratuais, o que não é permitido nesta instância especial, nos termos das Súmulas 5 e 7 do STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.500.265/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 27/5/2024, DJe de 29/5/2024.)  grifou-se
+3. Ante o exposto, não conheço do recurso especial.
+Por conseguinte, nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
