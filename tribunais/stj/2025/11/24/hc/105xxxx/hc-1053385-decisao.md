@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de RENAN MARQUES FAGUNDES - condenado, em primeira instância, pelo crime de tráfico de drogas (art. 33, caput, da Lei n. 11.343/2006), à pena de 5 anos de reclusão, em regime inicial fechado (fl. 2) -, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, sob a alegação de demora para o julgamento da Apelação Criminal n. 1500356-61.2024.8.26.0621, que estaria conclusa para julgamento desde 30/5/20 25.
+O impetrante alega excesso de prazo no julgamento da apelação, afirmando paralisação do feito por mais de cinco meses e meio desde a conclusão para julgamento em 30/5/2025, sem contribuição da defesa e com o paciente preso, configurando constrangimento ilegal e violação do direito à razoável duração do processo.
+Requer a concessão da ordem para fazer cessar o constrangimento ilegal, determinando o julgamento da apelação em prazo razoável ou garantindo ao paciente o direito de aguardar o julgamento em liberdade (Processo n. 1500356-61.2024.8.26.0621, da Vara Criminal da comarca de Cruzeiro/SP).
+É o relatório.
+Na hipótese, não se constata a existência de flagrante constrangimento ilegal que autorize a concessão da ordem de habeas corpus.
+Ora, dizem nossos precedentes que o excesso de prazo deve ser aferido dentro dos limites da razoabilidade, considerando-se as circunstâncias excepcionais que venham a retardar o término da instrução criminal ou do processo, não se restringindo à simples soma aritmética de prazos processuais. Assim, devem ser sopesados o tempo de prisão provisória, as peculiaridades da causa, sua complexidade e outros fatores que eventualmente possam afetar o curso da ação penal. Por todos, colho estes da Sexta Turma: AgRg no RHC n. 132.777/AL, da minha relatoria, DJe 1º/12/2021; e RHC n. 140.433/RS, Ministro Antonio Saldanha Palheiro, DJe 10/3/2021.
+Além disso, a jurisprudência do Superior Tribunal de Justiça é firme em assinalar que a reprimenda estabelecida na sentença condenatória deve ser considerada para fins de análise de suposto excesso de prazo no julgamento da apelação. Sobre o tema, por exemplo, estes julgados: AgRg no HC n. 549.040/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 17/3/2020; HC n. 414.264/MG, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 1º/12/2017; e AgRg no HC 691.955/RN, Ministro João Otávio de Noronha, Quinta Turma, DJe 24/2/2022.
+Na hipótese em análise, o autos aportaram no Tribunal estadual em 23/5/2025, na mesma data teve despacho do Desembargador Relator encaminhando os autos ao órgão do Ministério Público para oferecimento das contrarrazões, o que ocorreu em 30/5/2025. Embora possa haver certo atraso na entrega da prestação jurisdicional, isso não têm o condão de revelar a existência de constrangimento ilegal.
+Além disso, o paciente não está impedido de usufruir de benefícios da execução penal, pois consta ter sido expedida a guia de execução provisória (fl. 71).
+A propósito, confira-se, ainda, este precedente: AgRg no HC n. 739.615/CE, Ministra Laurita Vaz, Sexta Turma, DJe 31/5/2022.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. ALEGAÇÃO DE EXCESSO DE PRAZO PARA JULGAMENTO DA APELAÇÃO. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. PRECEDENTES.
+Ordem denegada.
