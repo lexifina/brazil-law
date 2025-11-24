@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/11/2025 a 24/11/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Paulo Sérgio Domingues, Benedito Gonçalves, Sérgio Kukina e Regina Helena Costa votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+ADMINISTRATIVO. MILITAR TEMPORÁRIO. REINTEGRAÇÃO PARA TRATAMENTO DE SAÚDE. REMUNERAÇÃO. CABIMENTO.
+1. De acordo com a jurisprudência do STJ, o militar temporário, em se tratando de debilidade física durante o exercício de atividades castrenses, não pode ser licenciado, fazendo jus à reintegração aos quadros militares para tratamento médico-hospitalar adequado à incapacidade temporária, sendo-lhe assegurada durante esse período a percepção de soldo e demais vantagens remuneratórias. Precedentes.
+2. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto pela UNIÃO contra decisão em que dei provimento ao recurso especial da parte adversa para restabelecer a sentença de primeiro grau, na qual foi declarada a nulidade do ato de licenciamento e reconhecido à autora o direito de ser reintegrada ao Exército na condição de adida para tratamento médico, com o pagamento dos soldos.
+A parte agravante alega, em síntese, que, "na hipótese de o militar temporário necessitar de tratamento médico ainda após a desincorporação, este pode ser mantido em "ENCOSTAMENTO" à Organização Militar de origem, única e exclusivamente para fim de tratamento médico, não fazendo jus à percepção de vencimentos, nos termos do n. 14 do art. 3º, c/c art. 149, todos do Decreto n. 57.654/1966" (e-STJ fl. 654 ).
+É o relatório.
+EMENTA
+ADMINISTRATIVO. MILITAR TEMPORÁRIO. REINTEGRAÇÃO PARA TRATAMENTO DE SAÚDE. REMUNERAÇÃO. CABIMENTO.
+1. De acordo com a jurisprudência do STJ, o militar temporário, em se tratando de debilidade física durante o exercício de atividades castrenses, não pode ser licenciado, fazendo jus à reintegração aos quadros militares para tratamento médico-hospitalar adequado à incapacidade temporária, sendo-lhe assegurada durante esse período a percepção de soldo e demais vantagens remuneratórias. Precedentes.
+2. Agravo interno desprovido.
+VOTO
+O presente agravo não merece prosperar.
+Como assinalado na decisão ora agravada, quanto à reintegração para tratamento médico, as conclusões a que chegou a Corte de origem estão em descompasso com o entendimento deste Tribunal, no sentido de que se deve reintegrar militar temporário incapacitado, sendo que a incapacidade não precisa ser total, mas somente para os atos relacionados com a função militar, e independe de relação causal entre a incapacidade e o serviço militar, sendo-lhe assegurada a percepção de soldo e demais vantagens remuneratórias desde a data do indevido licenciamento. Nesse sentido:
+ADMINISTRATIVO. MILITAR TEMPORÁRIO. INCAPACIDADE PARCIAL. REINTEGRAÇÃO. POSSIBILIDADE. RELAÇÃO CAUSAL. DESNECESSIDADE.
+1. "O acórdão recorrido segue jurisprudência do STJ pela reintegração de militar temporário para fins de tratamento médico de moléstia que o torne temporariamente incapaz, independentemente de relação causal entre a essa e o serviço militar." (AgInt no AREsp 1736011/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 30/08/2021, DJe 02/09/2021).
+2. No caso, o direito à reintegração do militar era ainda mais evidente, pois, segundo o acórdão regional "o demandante apresenta uma lesão no joelho esquerdo, denominada derrame articular, CID M 23, a qual eclodiu à época da prestação do serviço do serviço militar, apresentando nexo causal com as atividades desempenhadas na caserna.".
+3. Hipótese em que a parte recorrida reitera fundamentos gerais que já tinham sido expostos no apelo especial, sem apresentar em concreto um único precedente que infirme a posição adotada na decisão impugnada, pelo que há de ser mantida a aplicação da Súmula 83 do STJ.
+4. Agravo interno não provido. (AgInt no REsp n. 1.659.351/PE, de minha relatoria, Primeira Turma, julgado em 25/4/2022, DJe de 27/4/2022.).
+PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. MILITAR TEMPORÁRIO. REINTEGRAÇÃO COMO ADIDO. MOLÉSTIA. DESNECESSIDADE DE CAUSA E EFEITO COM A ATIVIDADE CASTRENSE. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. O acórdão recorrido segue jurisprudência do STJ pela reintegração de militar temporário para fins de tratamento médico de moléstia que o torne temporariamente incapaz, independentemente de relação causal entre a essa e o serviço militar.
+2. Agravo interno não provido. (AgInt no AREsp n. 1.736.011/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 30/8/2021, DJe de 2/9/2021.).
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MILITAR TEMPORÁRIO. DEBILIDADE FÍSICA OU MENTAL ACOMETIDA DURANTE O EXERCÍCIO DAS ATIVIDADES CASTRENSES. REINTEGRAÇÃO. PAGAMENTO DA REMUNERAÇÃO. TRATAMENTO MÉDICO- HOSPITALAR. DIREITO. RELAÇÃO DE CAUSA E EFEITO COM O SERVIÇO PRESTADO. DISPENSA.
+1. Correto o decisum ao constatar que o entendimento firmado pelo Tribunal de origem não destoa da orientação jurisprudencial deste Superior Tribunal segundo a qual o militar temporário ou de carreira, no caso de debilidade física ou mental acometida durante o exercício de atividades castrenses, faz jus à reintegração e ao pagamento da remuneração, enquanto submetido a tratamento médico-hospitalar, a fim de se recuperar da incapacidade temporária (AgRg no REsp 1498108/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 14/4/2015, DJe 20/4/2015).
+2. Ainda na linha da nossa jurisprudência, o militar temporário acometido por debilidade física ou mental não definitiva não pode ser licenciado, fazendo jus à reintegração no quadro de origem para tratamento médico-hospitalar adequado à incapacidade temporária, como adido, dispensada a relação de causa e efeito da moléstia com o serviço prestado. (AgInt no REsp 1681542/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 27/2/2018, DJe 7/3/2018).
+3. Agravo interno não provido. (AgInt no AREsp n. 1.762.249/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 21/6/2021, DJe de 24/6/2021.).
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO MONOCRÁTICA. APLICAÇÃO DA SÚMULA N. 7/STJ. DESCABIMENTO. MILITAR TEMPORÁRIO. INCAPACIDADE TEMPORÁRIA. LICENCIAMENTO. IMPOSSIBILIDADE. REINTEGRAÇÃO PARA TRATAMENTO DE SAÚDE. REMUNERAÇÃO. CABIMENTO.
+1. O Tribunal local decidiu pela inexistência do direito à reforma, bem como à reintegração à Força na condição de adido para tratamento médico, porque o autor não é inválido e a moléstia de que se ressente não é decorrente da atividade militar. Assim, reconheceu o direito apenas à assistência médica, na condição de encostado, até a recuperação.
+2. No recurso especial, a discussão estabelecida limita-se à reintegração ao serviço para o tratamento com direito à remuneração.
+A instância ordinária não nega a condição física alegada, tampouco a assistência médica, mas entende lícito o licenciamento e o não pagamento da remuneração. O debate não envolve aspectos fáticos, descabendo a aplicação da Súmula n. 7/STJ.
+3. O militar temporário acometido de debilidade física ou mental não definitiva não pode ser licenciado, fazendo jus à reintegração ao quadro de origem para tratamento médico-hospitalar, como adido, bem como à percepção de soldo e demais vantagens remuneratórias desde a data do indevido licenciamento. Precedentes.
+4. Agravo interno provido para reconhecer ao autor o direito à reintegração ao Exército na condição de adido para tratamento médico, assegurado o recebimento das respectivas remunerações no período.
+(AgInt no AREsp n. 1.965.842/DF, relator Ministro Og Fernandes, Segunda Turma, julgado em 17/5/2022, DJe de 24/5/2022.).
+Por fim, embora não merecedor de acolhimento, o agravo interno, no caso, não se revela manifestamente inadmissível ou improcedente, razão pela qual não deve ser aplicada a multa do § 4º do art. 1.021 do CPC/2015.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
