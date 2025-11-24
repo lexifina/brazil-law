@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de pedido de uniformização de interpretação de lei formulado pelo Estado do Ceará em face de acórdão da Terceira Turma Recursal da Fazenda Pública do Estado do Ceará, sintetizado nos termos da seguinte ementa (fls. 1.110/1.111):
+EMENTA: RECURSO INOMINADO. AÇÃO DE COBRANÇA. SERVIDORA PÚBLICA ESTADUAL. PRETENSÃO AUTORAL DE OBTER PAGAMENTO DE DIFERENÇAS SALARIAIS DEVIDAS EM FUNÇÃO DE OMISSÃO ESTATAL QUANTO À REALIZAÇÃO DE AVALIAÇÃO DE DESEMPENHO E DE PROGRESSÃO FUNCIONAL. ASCENSÃO JÁ RECONHECIDA PELA ADMINISTRAÇÃO. MARCO INTERRUPTIVO. PRESCRIÇÃO CORRE PELA METADE DO PRAZO. INOCORRÊNCIA DE PAGAMENTO DE VALORES RETROATIVOS. ENRIQUECIMENTO ILÍCITO DO ENTE PÚBLICO. PRECEDENTES. REVOGAÇÃO DO ART. 43 DO ESTATUTO DOS SERVIDORES DO ESTADO DO CEARÁ PELA LEI Nº 12.913/99, CONSEQUENTEMENTE OS SERVIDORES NÃO FAZEM JUS AO REAJUSTE DE 5%. INAPLICABILIDADE DE EFEITOS RETROATIVOS AO ART. 3º DA EC Nº 113/21. RECURSO DO ESTADO DO CEARÁ PROVIDO EM PARTE. SENTENÇA REFORMADA EM PARTE.
+Alega o requerente que "a Terceira Turma Recursal da Fazenda Pública do Estado do Ceará afastou a prescrição das parcelas referentes aos interstícios das progressões de 2015 a 2021, sob o fundamento de que, pelo fato de ter ocorrido o reconhecimento do direito pela Administração do ano de 2020, restaria uma causa interruptiva da prescrição, quando esta já estava consumada".
+Aponta divergência com acórdão da Terceira Turma Recursal do Distrito Federal que, "em julgamento de caso análogo a este, firmou o entendimento de que o reconhecimento de direito pela Administração não induz renúncia tácita à prescrição, salvo a existência de lei específica para o caso, à luz do art. 1º do Decreto nº 20.910/32, art. 191 do Código Civil, e ao Tema nº 1.109 do Superior Tribunal de Justiça - em sentido oposto ao decidido pela supramencionada Turma Recursal".
+Requer "a reforma do acórdão recorrido, para que seja pronunciada a prescrição e extinta o processo com resolução do mérito, a teor do art. 487, inciso II do CPC".
+É o relatório.
+A Lei n. 12.153/2009, que dispõe sobre os Juizados Especiais da Fazenda Pública no âmbito dos Estados, do Distrito Federal, dos Territórios e dos Municípios, prevê, em seu artigo 18, a competência desta Corte para dirimir a divergência quando a questão controvertida for de direito material e houver divergência de interpretações da lei federal entre Turmas de diferentes Estados ou contrariedade com súmula do Superior Tribunal de Justiça:
+Art. 18. Caberá pedido de uniformização de interpretação de lei quando houver divergência entre decisões proferidas por Turmas Recursais sobre questões de direito material.
+§ 1º O pedido fundado em divergência entre Turmas do mesmo Estado será julgado em reunião conjunta das Turmas em conflito, sob a presidência de desembargador indicado pelo Tribunal de Justiça.
+§ 2º No caso do § 1º, a reunião de juízes domiciliados em cidades diversas poderá ser feita por meio eletrônico.
+§ 3º Quando as Turmas de diferentes Estados derem a lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade com súmula do Superior Tribunal de Justiça, o pedido será por este julgado.
+Na espécie, o requerente não demonstrou a existência de divergência e de similitude fático-jurídica entre os casos confrontados, nos termos do art. 1.029, § 1º, do CPC/2015 e do art. 255, § 1º, do RISTJ, aplicáveis por analogia, que exigem a realização do necessário cotejo analítico entre os julgados.
+Sobre o tema, cumpre trazer à baila os seguintes acórdãos da Primeira Seção desta Corte:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. COTEJO ANALÍTICO NÃO REALIZADO. CARÊNCIA DE DEMONSTRAÇÃO DA SIMILITUDE FÁTICA DOS CASOS CONFRONTADOS. SUPOSTA CONTRARIEDADE A JULGADO REPETITIVO. NÃO EQUIPARAÇÃO À OFENSA DE ENUNCIADO SUMULAR. NÃO CABIMENTO. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. Nos termos do art. 18 da Lei 12.153/2009, "caberá pedido de uniformização de interpretação de lei quando houver divergência entre decisões proferidas por Turmas Recursais sobre questões de direito material". No § 3º do mesmo dispositivo é estabelecida a competência do Superior Tribunal de Justiça para examinar pedidos de uniformização sobre controvérsias em que haja dissonância na interpretação da lei federal por turmas de diferentes estados, ou quando a decisão proferida estiver em contrariedade com súmula desta Corte.
+2. Conforme entendimento desta Corte, não se conhece do pedido de uniformização de interpretação de lei fundado em divergência jurisprudencial quando a parte requerente deixa de realizar o indispensável cotejo analítico entre os acórdãos confrontados, de modo a evidenciar a similitude fática das hipóteses comparadas.
+Precedentes.
+3. A indicação de suposta contrariedade a julgado repetitivo não se equipara à alegação de ofensa a enunciado da Súmula do STJ para fins de cabimento do pedido de uniformização de interpretação de lei.
+4. Agravo interno a que se nega provimento.
+(AgInt no PUIL n. 2.924/SP, relator Ministro Paulo Sérgio Domingues, Primeira Seção, julgado em 28/2/2024, DJe de 1/3/2024.)
+AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI,. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. AUSÊNCIA DE COTEJO ANALÍTICO.
+1. Dispõe o § 3º do art. 18 da Lei n. 12.153/2009 que caberá o Pedido de Uniformização de Interpretação de Lei para o STJ: "Quando as Turmas de diferentes Estados derem a lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade com súmula do Superior Tribunal de Justiça, o pedido será por este julgado".
+2. É pacifico o entendimento de que a simples transcrição de ementas e de trechos de julgados não é suficiente para caracterizar o cotejo analítico.
+3. Para demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, indicar a similitude fática e jurídica entre eles. Indispensável a transcrição de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar a interpretação legal divergente, o que não ocorreu no caso em análise. Precedentes.
+Agravo interno improvido.
+(AgInt no PUIL n. 2.667/SC, relator Ministro Humberto Martins, Primeira Seção, julgado em 8/3/2023, DJe de 13/3/2023.)
+De mais a mais, a questão em análise não demanda a interpretação de lei federal, mas sim a análise da legislação local, o que é incabível no exame do presente pedido de uniformização.
+Com efeito, "a exegese do art. 18, § 3º, da Lei n. 12.153, de 22 de dezembro de 2009 não pode permitir que o Superior Tribunal de Justiça opere como inexistente terceira instância para trato das questões fundadas em leis locais, usurpando competência dos Tribunais de Justiça e afastando-se da sua função de Corte constitucionalmente destinada à uniformização da interpretação da legislação federal" (AgInt no PUIL n. 3.431/PA, relator Ministro Francisco Falcão, Primeira Seção, julgado em 14/11/2023, DJe de 17/11/2023.)
+Nesse sentido, confiram-se:
+AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL. PROCESSUAL CIVIL. QUESTÃO DE FUNDO RESOLVIDA COM BASE EM LEGISLAÇÃO ESTADUAL. INVIABILIDADE DO INCIDENTE. AGRAVO INTERNO DESPROVIDO.
+1. A solução do presente caso passou pela interpretação da legislação estadual, o que torna inviável o conhecimento do pedido de uniformização de lei federal lastreado em contrariedade com súmula do Superior Tribunal de Justiça (art. 18, § 3º, da Lei 12.153/2009), já que o tema de fundo não se resume à exegese de lei federal.
+2. Agravo interno desprovido.
+(AgInt no PUIL n. 3.573/GO, relator Ministro Teodoro Silva Santos, Primeira Seção, julgado em 20/8/2024, DJe de 28/8/2024.)
+PROCESSUAL CIVIL - PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL - NÃO CONHECIMENTO - LEI ESTADUAL - SÚMULA 85/STJ - DECISÃO MANTIDA.
+1. O acórdão foi fundamentado em legislação estadual, o que impede o conhecimento do pedido de uniformização de lei federal com base em alegada contradição com decisões de Turmas dos Juizados Especiais da Fazenda Pública de outros Estados (art. 18, § 3º, da Lei 12.153/2009).
+2. Para o acolhimento da pretensão da parte que instaura o PUIL, necessária a demonstração da alegada divergência, com o devido cotejo analítico.
+3. Agravo interno desprovido.
+(AgInt no PUIL n. 3.262/CE, relator Ministro Afrânio Vilela, Primeira Seção, julgado em 17/9/2024, DJe de 23/9/2024.)
+Ante o exposto, não conheço do pedido de uniformização, nos termos do art. 34, XVIII, "a", do RISTJ.
+Publique-se.
+Intimem-se.
+EMENTA
+PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. ADMINISTRATIVO. AUSÊNCIA DE DEMONSTRAÇÃO DE SIMILITUDE FÁTICO-JURÍDICA ENTRE OS CASOS CONFRONTADOS. INTERPRETAÇÃO DE LEI LOCAL. INVIABILIDADE. PRECEDENTES. PEDIDO NÃO CONHECIDO.
