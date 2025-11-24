@@ -1,0 +1,77 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/11/2025 a 24/11/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Daniela Teixeira, Nancy Andrighi, Humberto Martins e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ADVOGADA SUBSCRITORA DO RECURSO ESPECIAL SEM PROCURAÇÃO NOS AUTOS. INTIMAÇÃO PARA REGULARIZAR A REPRESENTAÇÃO PROCESSUAL NÃO ATENDIDA. INCIDÊNCIA DA SÚMULA N. 115 DO STJ. ALEGAÇÃO DE DISPOSITIVO DA CONSTITUIÇÃO FEDERAL. INVIABILIDADE. OMISSÃO DO ACÓRDÃO EMBARGADO. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração constituem recurso de estritos limites processuais e destinam-se a suprir omissão, afastar obscuridade, eliminar contradição eventualmente existentes no julgado combatido, bem como corrigir erro material.
+2. No caso, o acórdão embargado não incorreu no vício apontado, tendo concluído, fundamentadamente, que é inexistente o recurso dirigido à instância superior desacompanhado da cadeia completa de procurações ou substabelecimentos à luz da Súmula n. 115 do STJ.
+3. Não é possível analisar, em recurso especial, violação de dispositivos da Constituição Federal, ainda que para fins de prequestionamento, sob pena de usurpação da competência do Supremo Tribunal Federal.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por JOSÉ JOAQUIM MARTINS NETO (JOSÉ JOAQUIM) contra acórdão de minha relatoria, assim ementado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ADVOGADA SUBSCRITORA DO RECURSO ESPECIAL SEM PROCURAÇÃO NOS AUTOS. INTIMAÇÃO PARA REGULARIZAR A REPRESENTAÇÃO PROCESSUAL NÃO ATENDIDA. APLICAÇÃO DO DISPOSTO NO ART. 76, § 2º, DO CPC. INAPLICABILIDADE DO ART. 1.017, § 5º, DO CPC ÀS CORTES SUPERIORES. INCIDÊNCIA DA SÚMULA N. 115 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Conforme o disposto no art. 76, § 2º, I, do CPC, não se conhece do recurso quando a parte recorrente descumpre a determinação para regularização da representação processual.
+2. Os requisitos genéricos extrínsecos de admissibilidade do REsp e do AREsp - tempestividade, preparo e regularidade formal -, por se tratar de matéria de ordem pública, são aferidos pelo STJ no momento da interposição do recurso, independentemente de provocação das partes e não se sujeitando à preclusão pro iudicato. Neste sentido, entre outros, vejam-se: AgInt nos EDcl no AREsp n. 1.554.590/BA, relator Ministro SÉRGIO KUKINA, Primeira Turma, DJe de 1º/3/2024; REsp n. 2.179.511/MG, relator Ministro FRANCISCO FALCÃO, Segunda Turma, DJEN 18/2/2025; e AgRg nos EDcl no REsp n. 1.175.564/SP, relator Ministro MARCO BUZZI, Quarta Turma, DJe de 17/11/2015.
+3. A dispensa de juntada de peças prevista no art. 1.017, § 5º, do CPC aplica-se à interposição do agravo de instrumento e está voltada à primeira e à segunda instâncias de jurisdição, não alcançando as instâncias superiores, diante da impossibilidade de acesso deste Tribunal Superior aos autos eletrônicos originais. Precedentes.
+4. É inexistente o recurso dirigido à instância superior desacompanhado da cadeia completa de procurações ou substabelecimentos à luz da Súmula n. 115 do STJ.
+5. Agravo interno não provido (e-STJ, fls. 272-273).
+Nas razões do presente inconformismo, JOSÉ JOAQUIM alegou a violação do art. 1.022, II, do CPC, indicando omissão do julgado acerca das seguintes questões: (1) a emissão de certidão pela Secretaria do Tribunal estadual reconhecendo a regularidade de sua representação processual; (2) a existência de procuração no processo eletrônico originário, com outorga de poderes ao advogado substabelecente, não sendo de se exigir nova juntada no momento da interposição do recurso especial, nos termos do que dispõe o art. 1.017, § 5º, do CPC; (3) que procedeu à correção do indigitado vício, em atendimento à intimação no âmbito desta Corte, após a oposição de seus embargos de declaração; e (4) por fim, requer o prequestionamento expresso do art. 5º, XXXV, LIV e LV, da Constituição Federal.
+Não foi apresentada impugnação.
+É o relatório.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ADVOGADA SUBSCRITORA DO RECURSO ESPECIAL SEM PROCURAÇÃO NOS AUTOS. INTIMAÇÃO PARA REGULARIZAR A REPRESENTAÇÃO PROCESSUAL NÃO ATENDIDA. INCIDÊNCIA DA SÚMULA N. 115 DO STJ. ALEGAÇÃO DE DISPOSITIVO DA CONSTITUIÇÃO FEDERAL. INVIABILIDADE. OMISSÃO DO ACÓRDÃO EMBARGADO. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração constituem recurso de estritos limites processuais e destinam-se a suprir omissão, afastar obscuridade, eliminar contradição eventualmente existentes no julgado combatido, bem como corrigir erro material.
+2. No caso, o acórdão embargado não incorreu no vício apontado, tendo concluído, fundamentadamente, que é inexistente o recurso dirigido à instância superior desacompanhado da cadeia completa de procurações ou substabelecimentos à luz da Súmula n. 115 do STJ.
+3. Não é possível analisar, em recurso especial, violação de dispositivos da Constituição Federal, ainda que para fins de prequestionamento, sob pena de usurpação da competência do Supremo Tribunal Federal.
+4. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração não comportam acolhimento.
+De acordo com a jurisprudência desta Corte, a contradição ou a obscuridade remediáveis por embargos de declaração são aquelas internas ao julgado embargado, em razão da desarmonia entre a fundamentação e as conclusões da própria decisão.
+Já a omissão que enseja o oferecimento de embargos de declaração consiste na falta de manifestação expressa sobre algum fundamento de fato ou de direito ventilado nas razões recursais e sobre o qual deveria manifestar-se o juiz ou o tribunal e que, nos termos do CPC, é capaz, por si só, de infirmar a conclusão adotada para o julgamento do recurso (arts. 1.022 e 489, § 1º, do CPC).
+Nas razões deste aclaratório, JOSÉ JOAQUIM alegou a violação do art. 1.022, II, do CPC, indicando omissão do julgado acerca das seguintes questões: (1) a emissão de certidão pela Secretaria do Tribunal estadual reconhecendo a regularidade de sua representação processual; (2) a existência de procuração no processo eletrônico originário, com outorga de poderes ao advogado substabelecente, não sendo de se exigir nova juntada no momento da interposição do recurso especial, nos termos do que dispõe o art. 1.017, § 5º, do CPC; (3) que procedeu à correção do indigitado vício, em atendimento à intimação no âmbito desta Corte, após a oposição de seus embargos de declaração; e (4) por fim, requer o prequestionamento expresso do art. 5º, XXXV, LIV e LV, da Constituição Federal.
+Contudo, sem razão.
+Há que se destacar que o acórdão embargado não foi obscuro, omisso ou contraditório nem tampouco apresentou erro material ao concluir, fundamentadamente, que, na espécie, incide o óbice da Súmula n. 115 do STJ, segundo a qual considera-se inexistente o recurso dirigido à instância superior desacompanhado da cadeia completa de procurações ou substabelecimentos.
+Isso, inclusive, é o que se denota dos seguintes trechos do voto proferido no julgamento do agravo interno, a saber:
+Segundo o disposto no art. 76, § 2º, I, do CPC, não se conhece do recurso quando a parte recorrente descumpre a determinação para regularização da representação processual.
+ ..
+Como salientado na decisão impugnada, o recurso especial foi subscrito por advogada que não possui procuração nos autos, Dra. Victoria Camargo Ribeiro, razão pela qual JOSÉ foi intimado, ainda no Tribunal estadual, a regularizar sua representação processual no prazo de 5 dias (e-STJ, fl. 103).
+No entanto, a determinação não foi cumprida, pois a parte, embora regularmente intimada para sanar o referido vício, não regularizou, limitando-se a apresentar à, e-STJ, fl. 108, apenas um substabelecimento, sem a procuração originária para o seu substabelecente, Dr. Alexandre Tourinho Zonis. Assim, não foi suficiente para completar a cadeia de representação outorgando poderes ao subscritor do recurso.
+Cumpre assinalar que os requisitos genéricos extrínsecos de admissibilidade do REsp e do AREsp - tempestividade, preparo e regularidade formal -, por se tratar de matéria de ordem pública, são aferidos pelo STJ no momento da interposição do recurso, independentemente de provocação das partes e não se sujeitando à preclusão pro iudicato. Nesse sentido, entre outros, vejam-se: AgInt nos EDcl no AREsp n. 1.554.590/BA, relator Ministro SÉRGIO KUKINA, Primeira Turma, DJe de 1º/3/2024; REsp n. 2.179.511/MG, relator Ministro FRANCISCO FALCÃO, Segunda Turma, DJEN 18/2/2025; e AgRg nos EDcl no REsp n. 1.175.564/SP, relator Ministro MARCO BUZZI, Quarta Turma, DJe de 17/11/2015.
+Sob esse enfoque, eventual análise da regularidade da representação pela Presidência do Tribunal de origem, não vincula o STJ quanto ao exame das condições de admissibilidade recursal, por se tratar de um juízo de duplo controle ou controle bifásico.
+Outrossim, é relevante salientar que a dispensa de juntada de procuração, prevista no art. 1.017, § 5º, do CPC, aplica-se à interposição do agravo de instrumento e está voltada à primeira e à segunda instâncias de jurisdição, não alcançando as instâncias superiores, diante da impossibilidade de acesso deste Tribunal Superior aos autos eletrônicos originais.
+Com esse entendimento, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PROCURAÇÃO DO SUBSCRITOR DO AGRAVO E DO APELO ESPECIAL. INTIMAÇÃO PARA REGULARIZAÇÃO. FALHA NÃO SUPRIDA OPORTUNAMENTE. SÚMULA 115/STJ. DECISÃO DA PRESIDÊNCIA MANTIDA.
+ ..
+2. Esta Corte já assentou o entendimento de que a dispensa da juntada de procuração em processos eletrônicos, prevista no art. 1.017, § 5º, do CPC/2015, não se estende ao recurso especial ou ao agravo, visto que o referido dispositivo é direcionado apenas à classe agravo de instrumento.
+ ..
+Agravo interno improvido.
+(AgInt no AREsp n. 2.256.022/RJ, relator Ministro HUMBERTO MARTINS, Terceira Turma, julgado em 11/9/2023, DJe de 13/9/2023).
+Incide à hipótese, destarte, a Súmula n. 115 do STJ, segundo a qual considera-se inexistente o recurso dirigido à instância superior desacompanhado da cadeia completa de procurações ou substabelecimentos (e-STJ, fls. 277-278).
+Há que se ressaltar, outrossim, que a intimação de JOSÉ JOAQUIM, no âmbito desta Corte (e-STJ, fl. 220), objetivou regularizar a sua representação processual a partir dos embargos de declaração opostos por meio da Petição de n. 00712159/2023 (e-STJ, fls. 215-218), bem como para a prática de atos processuais posteriores, não se lhe podendo atribuir o efeito retroativo defendido pelo ora embargante.
+Desse modo, cumpre asseverar que a mera veiculação de inconformismo com o resultado do julgamento, que a parte reputa lhe ter sido desfavorável, não é finalidade a que se presta a via eleita.
+A propósito, confiram-se os precedentes:
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS CUMULADA COM PEDIDOS DE OBRIGAÇÃO DE FAZER E COMPENSAÇÃO POR DANOS MORAIS. CONTRADIÇÃO. OMISSÃO. OBSCURIDADE. NÃO OCORRÊNCIA. REFORMA DO JULGADO. IMPOSSIBILIDADE.
+1. Ação de indenização por danos materiais cumulada com pedidos de obrigação de fazer e compensação por danos morais.
+2. Os embargos de declaração, a teor do art. 1.022 do CPC, constitui- se em recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão não podendo, portanto, serem acolhidos quando a parte embargante pretende, essencialmente, reformar o decidido.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp n. 1.524.835/SE, relatora Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 17/2/2020, DJe de 19/2/2020 -sem destaque no original)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE QUALQUER DOS VÍCIOS ELENCADOS NO ART. 1.022 DO CPC/2015. MERO INCONFORMISMO. IMPUGNAÇÃO DE DECISÃO ANTERIOR AO JULGAMENTO PROFERIDO NO AGRAVO INTERNO. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração somente são cabíveis quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+2. No caso concreto, não se constatam os vícios alegados pela parte embargante, que busca rediscutir matéria devidamente examinada pela decisão embargada, o que é incabível nos embargos declaratórios.
+3. "Os embargos de declaração devem ter como objeto apenas o decisum embargado, não se prestando para sanar eventual vício ocorrido em decisão judicial anterior, em face da ocorrência da preclusão.  ..  Nos termos do enunciado n.º 317 da Súmula do Supremo Tribunal, "São improcedentes os embargos declaratórios, quando não pedida a declaração do julgado anterior, em que se verificou a omissão" (EDcl nos EDcl no AgRg no RE nos EDcl no AgRg nos EDcl no REsp 1.267.160/PR, Rel. Ministra Laurita Vaz, Corte Especial, DJe de 30/8/2016).
+4. E mbargos de declaração rejeitados.
+(EDcl no AgInt no AREsp n. 1.427.815/SP, relator Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 17/2/2020, DJe de 20/2/2020 - sem destaques no original)
+Logo, é forçoso reconhecer que a parte pretende, na verdade, o rejulgamento da causa, finalidade que desborda das hipóteses de cabimento dos aclaratórios, previstas nos arts. 489 e 1.022 do CPC.
+Da violação do art. 5º, XXXV, LIV e LV, da Constituição Federal
+No ponto, a jurisprudência deste Tribunal Superior orienta que não cabe a apreciação de suposta ofensa a matéria de índole constitucional, ainda que para fins de prequestionamento, sob pena de usurpação da competência do Supremo Tribunal Federal.
+A propósito:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INTEMPESTIVIDADE. AGRAVO EM RECURSO ESPECIAL. PRAZO EM DOBRO. DEFENSORIA PÚBLICA. PRERROGATIVA. NÚCLEO DE PRÁTICA JURÍDICA. INVIABILIDADE. MATÉRIA CONSTITUCIONAL. ANÁLISE. INVIABILIDADE.
+ ..
+2. É intempestivo o agravo em recurso especial protocolizado após o prazo de 15 (quinze) dias, de acordo com o art. 1.003, § 5º, c/c art. 219, caput, do CPC/2015.
+3. A jurisprudência do Superior Tribunal de Justiça firmou entendimento no sentido de que, para a prerrogativa de contagem de prazos em dobro, o advogado deve integrar o quadro de assistência judiciária organizado e mantido pelo Estado, não se aplicando tal benefício aos núcleos de prática jurídica pertencentes às universidades particulares.
+4. Nos termos do art. 105, III, da Constituição Federal, não compete ao Superior Tribunal de Justiça o exame de dispositivos constitucionais, ainda que para fins de prequestionamento, sob pena de invasão da competência atribuída ao Supremo Tribunal Federal.
+5. Agravo interno não provido.
+(AgInt nos EDcl no AgInt no AREsp n. 1.855.149/DF, relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 3/10/2022, DJe de 10/10/2022 - sem destaque no original)
+Nessas condições, REJEITO os presentes embargos de declaração, nos termos acima explicitados.
+É o voto.
