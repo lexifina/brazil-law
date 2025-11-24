@@ -1,0 +1,32 @@
+DECISÃO
+Em análise, recurso especial interposto por MANOEL DE LEMOS BARROS NETO - SUCESSÃO E OUTROS contra acórdão assim ementado (fls. 1.563-1.564):
+APELAÇÃO. INTERVENÇÃO DO ESTADO NA PROPRIEDADE. PROCEDÊNCIA DO PEDIDO MEDIATO.
+REMESSA NECESSÁRIA. Obrigatoriedade. Inteligência do § 1º do artigo 28 do Decreto-lei n. 3.365/41. Valor fixado superior ao dobro do valor ofertado.
+DESAPROPRIAÇÃO. CORREÇÃO MONETÁRIA. Em tese, a atualização deverá incidir apenas sobre a parcela ainda não depositada pela expropriante, devendo também ser atualizados os depósitos realizados para preservar a simetria no momento das compensações. "In casu", o depósito integral da indenização ocorreu em julho de 2020, após a complementação do valor inicialmente fixado pelo juízo "a quo" e antes da efetiva imissão de posse da autora no imóvel, ocorrida em 16.05.2022. Hipótese em que a atualização pretendida pelos recorrentes é feita pela instituição financeira a partir da efetivação dos depósitos judiciais pela expropriante. Sentença reformada nesse capítulo.
+JUROS COMPENSATÓRIOS. Termo inicial para incidência. Ordem de imissão na posse. Motivo determinante para a aplicação dos juros compensatórios. Ressarcimento do proprietário pela perda antecipada do uso e gozo do bem expropriado. Índice ajustado para 6% a. a., nos termos do Tema 126 do STJ, após a sua revisão. Afastamento dos juros considerando que o valor da indenização já estava depositado no momento da imissão na posse.
+JUROS MORATÓRIOS. Aplicabilidade da Medida Provisória nº 2.183-53 de 2001. Inteligência do art. 15-B do Decreto-Lei nº 3.365/1941, incluído pela Medida Provisória nº 2.183-53 de 2001. Afastamento dos juros considerando que o valor da indenização já estava depositado no momento da imissão na posse.
+HONORÁRIOS ADVOCATÍCIOS. Base de cálculo. Incidência dos valores referentes aos juros compensatórios e moratórios. Súmula 131 do STJ. Não aplicável à hipótese dos autos. Consequência lógica da não incidência de referidos juros sobre o valor da indenização depositada nos autos antes da imissão da posse. Manutenção da sentença.
+RECURSO PARCIALMENTE PROVIDO.
+Os embargos de declaração foram rejeitados (fls. 1.656-1.660).
+Nas suas razões recursais, com fundamento no art. 105, III, a e c, da Constituição Federal, as partes recorrentes apontam violação aos arts. 15-A, 15-B, 27, § 1º, do Decreto 3.365/1941, alegando que (fls. 1.603-1.617):
+O objeto deste Recurso Especial versa especificamente sobre a incidência de juros compensatórios e moratórios, com a sua consequente inserção na base de cálculos dos honorários advocatícios, no âmbito de ações desapropriatórias, conforme disciplina dos artigos 15-A, 15-B e 27, § 1º, todos do Decreto-Lei 3.365/41, matéria que foi irrefutavelmente tratada pelas instâncias inferiores.
+ ..  considerando que o v. acórdão recorrido reconheceu que a incidência de juros compensatórios decorre justamente da necessidade de compensar o proprietário pela perda prematura do imóvel antes do recebimento total da indenização e que após a imissão provisória na posse só se permite o levantamento de 80% do valor depositado, devendo os juros compensatórios incidirem sobre os 20% remanescentes, porém, afastou a sua aplicação argumentando que a indenização já estava depositada no momento da imissão, os Recorrentes opuseram embargos de declaração visando eliminar a contradição.
+ ..
+A interpretação desse C. STJ em relação ao supramencionado dispositivo, especificamente em relação à base de cálculo dos juros moratórios, determina que deva ser a mesma dos juros compensatórios.
+É o relatório.
+Decido.
+Conforme se vê do teor da ementa supratranscrita, o Tribunal de origem, ao considerar que o valor indenizatório fora depositado em sua integralidade, afastou a incidência dos juros compensatórios e moratórios, bem como concluiu pelo não cabimento da incidência dessas verbas na base de cálculo dos honorários advocatícios.
+No entanto, as teses recursais merecem prosperar, na medida em que o acórdão recorrido destoa da jurisprudência deste STJ.
+A propósito:
+PROCESSUAL CIVIL E DIREITO ADMINISTRATIVO. RECURSO ESPECIAL. DESAPROPRIAÇÃO POR UTILIDADE PÚBLICA. INDENIZAÇÃO FIXADA EM VALOR SUPERIOR AO OFERTADO. DEPÓSITO INTEGRAL ANTES DA IMISSÃO PROVISÓRIA NA POSSE. BASE DE CÁLCULO DOS JUROS COMPENSATÓRIOS E MORATÓRIOS. CONCESSIONÁRIA DE SERVIÇO PÚBLICO. NÃO APLICAÇÃO DO REGIME DE PRECATÓRIOS. RECURSO PARCIALMENTE CONHECIDO E, NESSE EXTENSÃO, PROVIDO.
+1. A jurisprudência do STJ é firme no sentido de que, ainda que o valor da indenização tenha sido integralmente depositado antes da imissão provisória na posse, os juros compensatórios devem incidir sobre os 20% que permanecem indisponíveis ao expropriado, conforme o art. 33, § 2º, do Decreto-Lei n. 3.365/1941 (AgInt no AREsp n. 2.188.279/PA; AgInt no AREsp n. 2.099.631/GO).
+2. Os juros moratórios devem ter como base de cálculo os mesmos 20% indisponíveis, aplicando-se o art. 15-B do Decreto-Lei n. 3.365/1941, mesmo que o depósito integral tenha ocorrido previamente.
+3. No caso de desapropriação promovida por pessoa jurídica de direito privado, como a concessionária expropriante, os juros moratórios incidem a partir do trânsito em julgado, por não se sujeitarem ao regime de precatórios previsto no art. 100 da Constituição.
+4. Recurso parcialmente conhecido e, nessa extensão, provido (REsp n. 1.980.007/SP, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 13/8/2025, DJEN de 19/8/2025).
+Ademais, a teor da Súmula 131/STJ, "em desapropriação, os juros moratórios e compensatórios integram a base de cálculo dos honorários do advogado".
+Isso posto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para:
+a) determinar a incidência dos juros compensatórios, de 6% ao ano, sobre o valor não levantado pelo expropriado, a partir da data da imissão na posse;
+b) determinar a incidência dos juros de mora, nos termos do art. 15-B do Decreto-lei 3.365/1941 ("Nas ações a que se refere o art. 15-A, os juros moratórios destinam-se a recompor a perda decorrente do atraso no efetivo pagamento da indenização fixada na decisão final de mérito, e somente serão devidos à razão de até seis por cento ao ano, a partir de 1º de janeiro do exercício seguinte àquele em que o pagamento deveria ser feito, nos termos do art. 100 da Constituição");
+c) determinar, nos termos da Súmula 131/STJ, que os juros de mora e os juros compensatórios, integrem a base de cálculo dos honorários advocatícios.
+Intimem-se.
+EMENTA
