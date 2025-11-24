@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de VILSON STEFANES contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, no Agravo Interno Criminal n. 0002043-75.2025.8.16.0174, assim ementado (fls. 12-13):
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO INTERNO CRIMINAL. APELAÇÃO NÃO CONHECIDA POR OFENSA AO PRINCÍPIO DA DIALETICIDADE. REPRODUÇÃO DAS ALEGAÇÕES FINAIS. AGRAVO INTERNO CONHECIDO E NÃO PROVIDO.
+I. CASO EM EXAME
+1. Trata-se de agravo interno interposto contra decisão monocrática que não conheceu do recurso de apelação, fundamentando-se na violação ao princípio da dialeticidade, em razão de a defesa ter se limitado a reproduzir os argumentos das alegações finais, sem impugnar especificamente os fundamentos da sentença condenatória.
+1. A decisão monocrática, portanto, fundamentou-se no entendimento de que a apelação não apresentou razões de fato e de direito novas, configurando a ofensa ao princípio da dialeticidade, o que impediu o conhecimento do recurso.
+II. QUESTÕES EM DISCUSSÃO
+3. A questão em discussão consiste em saber se a decisão que não conheceu do recurso de apelação, em razão da ofensa ao princípio da dialeticidade, deve ser mantida.
+III. RAZÕES DE DECIDIR
+4. O recurso não merece provimento. O agravante não impugnou especificamente os fundamentos da sentença condenatória, limitando-se a reproduzir integralmente os argumentos das alegações finais.
+5. A jurisprudência é clara no sentido de que a simples reprodução de alegações finais em recurso de apelação caracteriza a violação do princípio da dialeticidade, impedindo o seu conhecimento.
+6. De acordo com o Regimento Interno do Tribunal de Justiça do Paraná, a falta de impugnação específica aos fundamentos da decisão recorrida justifica o não conhecimento do recurso, conforme disposto no artigo 182, XIX.
+IV. DISPOSITIVO E TESE
+7. Agravo interno conhecido e desprovido, mantendo a decisão que não conheceu do recurso de apelação criminal. Tese de julgamento: A mera reprodução dos argumentos contidos nas alegações finais em recurso de apelação, sem impugnação específica aos fundamentos da sentença, configura ofensa ao princípio da dialeticidade, resultando no não conhecimento do recurso.
+Consta nos autos que o paciente foi condenado à pena de 1 ano, 3 meses e 3 dias de detenção no regime inicial aberto, com suspensão da execução pelo prazo de 2 anos, por infração aos arts. 129, § 9º, 329, caput, e 331, todos do Código Penal.
+O agravo interno interposto pela defesa manteve a decisão monocrática que não conheceu da apelação criminal por ofensa ao princípio da dialeticidade, ao fundamento de que as razões recursais teriam reproduzido as alegações finais, sem impugnação específica dos fundamentos da sentença.
+Neste writ, a defesa sustenta a admissibilidade do habeas corpus em razão da tutela da liberdade de locomoção, apesar da existência de vias recursais ordinárias, e alega constrangimento ilegal decorrente do não conhecimento da apelação, afirmando que a mera reiteração de argumentos não constitui, por si só, óbice ao conhecimento do recurso.
+Aponta que a irresignação recursal esclareceu o desacerto da sentença e expôs motivos de fato e de direito para sua reforma, com indicação de error in judicando quanto à avaliação das provas de materialidade e autoria, de modo que a negativa de conhecimento impede a análise do mérito e prejudica a liberdade do paciente.
+Requer que o Tribunal de Justiça do Estado do Paraná conheça do recurso interposto e se pronuncie sobre o mérito arguido pela defesa.
+Indeferida a liminar e prestadas as informações, o Ministério Público Federal opinou pela concessão da ordem, em parecer assim sumariado (fl. 90):
+HABEAS CORPUS. RECURSO DE APELAÇÃO NÃO APRECIADO. PRINCÍPIO DA DIALETICIDADE RECURSAL. INOCORRÊNCIA. REITERAÇÃO DAS RAZÕES EXPENDIDAS NAS ALEGAÇÕES FINAIS. POSSIBILIDADE. CONFIGURADA NEGATIVA DE PRESTAÇÃO JURISDICIONAL. PARECER PELA CONCESSÃO DA ORDEM PARA DETERMINAR QUE O TRIBUNAL APRECIE O MÉRITO DA APELAÇÃO CRIMINAL, COMO ENTENDER DE DIREITO.
+É o relatório.
+A Quinta Turma do Superior Tribunal de Justiça firmou entendimento no sentido de ser inadequada a impetração de habeas corpus quando utilizado em substituição a recurso próprio.
+A teor do disposto no art. 105, II, "a", da CF/88, o recurso cabível contra acórdão que denega a ordem na origem é o recurso ordinário, enquanto que, consoante previsto no art. 105, III, da CF, contra acórdão que julga a apelação, o recurso em sentido estrito e o agravo em execução, cabe recurso especial.
+Nada impede, contudo, constatada a existência de ilegalidade flagrante, abuso de poder ou teratologia, a concessão de habeas corpus de ofício, nos termos do art. 654, § 2º, do Código de Processo Penal, o que ora passa-se a examinar.
+O Tribunal de Justiça não conheceu do recurso de apelação por entender que as razões expostas em sede de apelação eram exatamente as mesmas da petição de alegações finais, sem impugnar especificamente os fundamentos da sentença.
+Todavia, vejo que a apelação elaborada pela Defensoria Pública levantou as seguintes teses: i) a acusação não se desincumbiu da regra probatória no crime de lesão corporal, requerendo a absolvição do paciente ou a desclassificação do crime para a contravenção penal de vias de fato; ii) em relação à resistência, não houve dolo; o réu, que estava muito alterado, apenas se desvencilhou dos militares; iii) quanto ao desacato, não houve vontade consciente e voluntária de ofender a honra dos agentes públicos.
+Ora, como pontuou o Ministério Público Federal, "desde que as razões de apelação se mostrem claras, precisas e compreensíveis, e estejam presentes os requisitos de admissibilidade, não cabe desconhecer do recurso com base na reiteração dos fundamentos apresentados em alegações finais, notadamente em razão do efeito devolutivo da apelação" (fl. 93).
+Realmente, as teses apresentadadas pela defesa revelam-se compreensíveis, de modo que, ao negar a apreciação do mérito recursal, a Corte estadual incorreu em negativa de prestação judisdicional.
+Por fim, vale consignar que esta Corte Superior possui entendimento no sentido de que o fato de as razões recursais apresentarem conteúdo idêntico ao das alegações finais, por si só, não impede o conhecimento da apelação, mormente quando for possível depreender os fundamentos de fato e de direito da irresignação da parte.
+No ponto:
+PROCESSO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. NÃO CONHECIMENTO DO RECURSO DE APELAÇÃO. REITERAÇÃO DAS ALEGAÇÕES FINAIS. PRINCÍPIO DA DIALETICIDADE RECURSAL. REFLEXOS DISTINTOS. NÃO SOBREPOSIÇÃO DAS GARANTIAS INDIVIDUAIS. DEVIDO PROCESSO LEGAL. RAZÕES RECURSAIS COMPREENSÍVEIS. PRETENSÃO RECURSAL DE REFORMA DA SENTENÇA CONDENATÓRIA. ORDEM NÃO CONHECIDA. CONCESSÃO DE OFÍCIO.
+ ..
+2. O princípio da dialeticidade recursal, utilizada como fundamento para o não conhecimento do apelo defensivo, tem reflexos distintos quanto ao recurso de apelação e quanto aos recursos especial e extraordinário. Embora voluntários todos os recursos, o de apelação é livre, enquanto os destinados às instâncias superiores são vinculados.
+3. No âmbito dos recursos especial e extraordinário, o princípio da dialeticidade impõe ao recorrente a obrigatoriedade de rechaçar todos os fundamentos que esteiam o decisum que pretende reformar.
+4. No âmbito ordinário, o princípio da dialeticidade atua como modelador do princípio devolutivo, que submete tão-somente as matérias abordadas nas razões recursais à análise do Tribunal de origem, assegurando o exercício do contraditório pela parte contrária, na defesa dos seus interesses, em observância ao devido processo legal.
+5. A formalidade processual atua em razão do princípio da segurança e em favor do devido processo legal e não como limitador da garantia constitucional da ampla defesa.
+6. As razões expostas no recurso de apelação refletem o interesse de reforma da sentença condenatória e ensejam o conhecimento.
+7. Ordem não conhecida. Habeas corpus concedido de ofício para determinar a análise do mérito do recurso de apelação pelo Tribunal de origem, como entender de direito.
+(HC n. 396.238/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 19/9/2017, DJe de 27/9/2017.)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. INCÊNDIO E DANO QUALIFICADO. NULIDADE. RAZÕES DE APELAÇÃO. OFENSA AO PRINCÍPIO DA DIALETICIDADE. INOCORRÊNCIA. REITERAÇÃO DAS RAZÕES EXPENDIDAS NAS ALEGAÇÕES FINAIS. POSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência das Cortes Superiores é de que, mutatis mutandis, "as razões do recurso de apelação que reproduzem os argumentos lançados nas alegações finais não incorrem em deficiência da defesa técnica a atrair declaração de nulidade, máxime nas hipóteses em que a peça infirmou todos os fundamentos da sentença condenatória  ..  É que "o efeito devolutivo, tomado em profundidade, permite ao tribunal examinar aspectos ou tópicos não apreciados pelo juiz inferior: a profundidade do conhecimento do tribunal é a maior possível: pode levar em consideração tudo que for relevante para a nova decisão" (Ada Pellegrini Grinover et alii, Recursos no Processo Penal, São Paulo, RT, 1996, p. 52, nº 25; p. 156, nº 95)" (HC n. 105.897, relator Ministro MARCO AURÉLIO, relator para acórdão: Ministro LUIZ FUX, Primeira Turma, julgado em 13/9/2011, DJe-189 divulgado em 30/09/2011, publicado em 3/10/2011). Precedentes.
+2. Agravo regimental desprovido.
+(AgRg no REsp n. 1.550.399/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 14/9/2022, DJe de 21/9/2022.)
+Ante o exposto, não conheço do habeas corpus, mas concedo a ordem de ofício para determinar que a instância de origem prossiga no julgamento do apelo interposto, afastado o óbice processual eleito.
+Comunique-se.
+Publique-se.
+Intimem-se.
+EMENTA
