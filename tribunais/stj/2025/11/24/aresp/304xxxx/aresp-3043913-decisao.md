@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo interposto por DOUGLAS FERNANDES LOPES, em adversidade à decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, cuja ementa é a seguinte (e-STJ fls. 604):
+APELAÇÃO CRIMINAL - TRÁFICO DE DROGAS ILÍCITAS - MATERIALIDADE E AUTORIA DELITIVAS COMPROVADAS - DEPOIMENTOS DE AGENTES POLICIAIS - CREDIBILIDADE - CONDENAÇÃO MANTIDA - CIRCUSNTÂNCIA AGRAVANTE - UMA ÚNICA REINCIDÊNCIA - FRAÇÃO DE AUMENTO SUPERIOR A UM SEXTO - DESPROPORCIONALIDADE - MODULAÇÃO - NECESSIDADE. 01. Demonstradas a autoria e a materialidade do crime de tráfico de drogas, notadamente pelas declarações das testemunhas policiais, a condenação do réu é medida que se impõe. 02. Às declarações dos agentes policiais deve ser dada a mesma credibilidade que se dá ao depoimento de qualquer outra testemunha, porque a aceitabilidade de suas declarações está jungida à presunção de idoneidade moral de que gozam, salvo prova em contrário, razão pela qual suas palavras são aptas para a formação de um juízo de censurabilidade penal em desfavor do acusado. 03. À falta de previsão legal, a fração de alteração das reprimendas pelas agravantes e atenuantes não deve se afastar do limite mínimo de 1/6 previsto para as causas de aumento e diminuição, sob pena de se equipararem àquelas causas modificadoras
+Nas razões do recurso especial (e-STJ fls. 633/642), fundado na alínea "a" do permissivo constitucional, alega a parte recorrente violação do artigo 33 da Lei nº 11.343/06 e do artigo 386, inciso VII, do CPP. Sustenta a absolvição do acusado, tendo em vista a ausência de prova concreta para a condenação.
+Apresentadas contrarrazões (e-STJ fls. 646/652), o Tribunal a quo não admitiu o recurso especial (e-STJ fls. 687/688), tendo sido interposto o presente agravo (e-STJ fls. 695/699).
+O Ministério Público Federal, instado a se manifestar, opinou pelo não provimento do agravo (e-STJ fls. 736/743).
+É o relatório. Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+O recurso não merece acolhida.
+No presente caso, o Tribunal a quo, em decisão devidamente motivada, entendeu que, do caderno instrutório, emergiram elementos suficientemente idôneos de prova, colhidos nas fases inquisitorial e judicial, aptos a manter a condenação do acusado pelo delito de tráfico (e-STJ fls. 609/618 ).
+Assim, rever os fundamentos utilizados pela Corte de origem, para concluir pela absolvição, por ausência de prova concreta para a condenação, como requer a defesa, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula n. 7/STJ.
+Ante o exposto, com fundamento no art. 932, inciso III, do CPC, c/c o art. 253, parágrafo único, inciso II, alínea a, parte final, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Intimem-se
+EMENTA
