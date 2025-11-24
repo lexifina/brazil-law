@@ -1,0 +1,68 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/11/2025 a 24/11/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira, Marco Buzzi e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. AUSÊNCIA DE AFRONTA AOS ARTS. 489 E 1.022 DO CPC/2015. PROCEDIMENTO DE LAQUEADURA TUBÁRIA. AUSÊNCIA DE FALHA NA PRESTAÇÃO DO SERVIÇO . REEXAME DE PROVAS. INVIÁVEL (SÚM. 7/STJ). AGRAVO INTERNO DESPROVIDO.
+1. Não configura ofensa aos arts. 489 e 1.022 do CPC/2015 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pelo recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.
+2. No caso, o perito confirmou a realização do procedimento sem erro médico, afastando a alegação de falha na prestação de serviço. A revisão do entendimento demandaria reexame de fatos e provas, vedado pela Súmula 7/STJ.
+3. A incidência da Súmula 7/STJ também impede o conhecimento do recurso pela alínea "c" do permissivo constitucional, em razão da impossibilidade de análise de dissídio jurisprudencial.
+4. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por JANAINA LUZIA SOUZA DA SILVA contra decisão proferida por esta Relatoria (e-STJ, fls. 1.628-1.632), que conheceu do agravo para conhecer parcialmente do recurso especial e, nesta extensão, negar-lhe provimento.
+Nas razões do agravo interno (e-STJ, fls. 1.679-1.689), a agravante aduz que houve violação dos arts. 489 e 1.022 do CPC/2015; afirma a ocorrência de responsabilidade civil por falha no dever de informação em procedimento de laqueadura tubária que resultou em gravidez posterior não planejada, alegando violação aos artigos 10, § 1º, da Lei nº 9.263/1996 e 6º, III, do Código de Defesa do Consumidor, além de apontar a ocorrência de dissídio jurisprudencial. Aduz não haver a incidência da Súmula 7/STJ, uma vez que não reflete a particularidade da controvérsia apresentada.
+F oi apresentada impugnação (e-STJ, fls. 1.695-1.701).
+É o relatório.
+EMENTA
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. AUSÊNCIA DE AFRONTA AOS ARTS. 489 E 1.022 DO CPC/2015. PROCEDIMENTO DE LAQUEADURA TUBÁRIA. AUSÊNCIA DE FALHA NA PRESTAÇÃO DO SERVIÇO . REEXAME DE PROVAS. INVIÁVEL (SÚM. 7/STJ). AGRAVO INTERNO DESPROVIDO.
+1. Não configura ofensa aos arts. 489 e 1.022 do CPC/2015 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pelo recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.
+2. No caso, o perito confirmou a realização do procedimento sem erro médico, afastando a alegação de falha na prestação de serviço. A revisão do entendimento demandaria reexame de fatos e provas, vedado pela Súmula 7/STJ.
+3. A incidência da Súmula 7/STJ também impede o conhecimento do recurso pela alínea "c" do permissivo constitucional, em razão da impossibilidade de análise de dissídio jurisprudencial.
+4. Agravo interno desprovido.
+VOTO
+O recurso não merece prosperar, porquanto não foram apresentados argumentos aptos a modificar a decisão vergastada.
+Primeiramente, não se vislumbra a alegada violação dos arts. 489 e 1.022 do Código de Processo Civil de 2015, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, manifestando-se expressamente acerca dos temas necessários à integral solução da lide.
+Salienta-se, ademais, que esta Corte é pacífica no sentido de que não há omissão, contradição ou obscuridade no julgado quando se resolve a controvérsia de maneira sólida e fundamentada e apenas se deixa de adotar a tese do embargante.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ENCAMINHAMENTO DOS AUTOS À CONTADORIA JUDICIAL. DÚVIDA QUANTO AO VALOR DISCUTIDO. ACÓRDÃO EM PERFEITA CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação aos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. O acórdão recorrido encontra-se em perfeita harmonia com a jurisprudência do Superior Tribunal de Justiça no sentido de que é possível ao magistrado encaminhar os autos à contadoria para apurar se os cálculos estão em conformidade com o título em execução, consoante art. 524, § 2º, do CPC/2015. 3.
+Agravo interno desprovido.
+(AgInt no AREsp n. 2.604.512/PB, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 7/10/2024, DJe de 9/10/2024.)
+O Tribunal de origem, ao analisar a causa, consignou o seguinte excerto (e-STJ, fls. 262-264):
+Consoante relatado, alega a apelante que houve falha na prestação de serviços, uma vez que foi vítima de falta de informação acerca dos riscos da cirurgia de laqueadura, o que resultou em uma nova gestação de alto risco, pois a apelante possui saúde frágil, histórico de quatro gravidezes de alto risco, diabetes e hipertensão crônica.
+É cediço que a responsabilidade do hospital é, em tese, objetiva, lastreada no risco da atividade, amparada no artigo 14 do CDC, uma vez que se encaixa no conceito de fornecedor, bastando a demonstração da falha na prestação de serviços e a conexão com a lesão sofrida para ensejar a indenização.
+Por outro lado, a responsabilidade civil do médico é subjetiva, ou seja, para a sua configuração é imprescindível, em regra, a ocorrência dos seguintes fatores: ato ilícito praticado por ação ou omissão, dano, culpa e nexo de causalidade, conforme disposto no art. 927 cominado com o art. 186, ambos do Código Civil.
+Sobre a laqueadura tubária, a literatura médica indica que se trata de um procedimento de esterilização definitiva, que consiste no fechamento das tubas uterinas para impedir a descida do óvulo e a subida do espermatozoide.
+Trata-se de cirurgia relativamente simples, em que as trompas são cortadas e suas extremidades amarradas de tal forma que a passagem dos espermatozoides fica bloqueada.
+Importa salientar que, assim como todos os métodos contraceptivos, a laqueadura não tem possui eficácia 100%, existindo uma taxa mínima de falha 0,41%, que independe do paciente ou do médico. Assim, ainda que raro, a gravidez é possível após o procedimento, quando as trompas se recanalizam, ou seja, surge um novo canal na trompa que havia sido interrompida, permitindo a passagem dos espermatozoides ( https://g1. globo. com/bemestar/noticia/2019/10/29/ginecologista-explica-a-laqueadura-e-diz-se-e-possivel-engravidar-apos-a-cirurgia. ghtml , https://www. gov. br/saude/pt-br/assuntos/noticias/2022/outubro/laqueadura-tambem-e-indicada-quando-a-gestacao-coloca-a-mulher-em-risco )
+Assim, a gravidez após realização da laqueadura tubária não pode ser configurada falha médica, ainda que adotada por questão de saúde ou com a finalidade de planejamento familiar, tratando-se de caso fortuito, salvo quando comprovado o erro médico na realização do procedimento.
+(..)
+No caso, o perito confirmou a realização da laqueadura tubária, não indicando a existência de erro médico, o que afasta a alegação de falha na prestação de serviço.
+Nesse contexto, ainda que a apelante afirme que não foi devidamente cientificada quanto à possibilidade de falha no procedimento, além de ser conhecimento público que nenhum método contraceptivo é 100% infalível, não se afigura verossímil que alguém se submeta ao procedimento cirúrgico por vontade própria, sem antes instruir-se sobre os riscos, sobretudo com o histórico de saúde da autora (diabetes, hipertensão crônica e quatro gravidezes de risco). (Sem grifo no original).
+À vista disso, não obstante as razões deduzidas pela recorrente, as conclusões do acórdão recorrido resultam de exame minucioso do conjunto probatório, de sorte que a sua revisão pressuporia reanálise de fatos e provas, providência vedada na via do recurso especial ante o impedimento da Súmula 7/STJ.
+Nessa linha de intelecção e guardadas as devidas particularidades, destacam-se:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. RESTOS DE PLACENTA RETIDOS NO ÚTERO DA AGRAVANTE. RESPONSABILIDADE CIVIL DO MUNICÍPIO NÃO CONFIGURADA. ACÓRDÃO DO TRIBUNAL DE ORIGEM QUE, À LUZ DAS PROVAS DOS AUTOS, CONCLUIU PELA AUSÊNCIA DE ERRO MÉDICO E DE DANOS MORAIS A SEREM INDENIZADOS. SÚMULA 7/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+I. Segundo consignado no acórdão recorrido, à luz das provas dos autos, "a raspagem para eliminar totalmente os restos placentários não foi realizada porque os lóquios são sangramentos normais da contração uterina pós parto e, naquele momento, "o médico não tem como avaliar a existência de sangramento uma vez que os lóquios ainda estão presentes"", e que "não se configura em erro ou má prática médica a presença de restos placentários no pós parto; que, em tese, a não eliminação total dos restos placentários não decorre de uma conduta negligente ou imperita do médico". Concluiu, ainda, que "resta rechaçada a alegação de erro médico, tendo a sentença dado a adequada solução à lide, não devendo prosperar o recurso autoral". Assim, a alteração do entendimento do Tribunal de origem ensejaria, inevitavelmente, o reexame fático-probatório dos autos, procedimento vedado, pela Súmula 7 desta Corte.
+II. Agravo Regimental improvido.
+(AgRg no AREsp n. 710.462/RJ, relatora Ministra ASSUSETE MAGALHÃES, Segunda Turma, julgado em 6/8/2015, DJe de 20/8/2015.)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO ART. 535 DO CPC. AUSÊNCIA. ERRO MÉDICO. DANO MATERIAL. COMPROVAÇÃO. INEXISTÊNCIA. DANO MORAL. REVISÃO DO VALOR. SÚMULA 7/STJ.
+1. Não se constata violação ao art. 535 do CPC quando a col. Corte de origem dirime, fundamentadamente, todas as questões suscitadas em sede de apelação cível e de embargos declaratórios. Havendo manifestação expressa acerca dos temas necessários à integral solução da lide, ainda que em sentido contrário à pretensão da parte, fica afastada qualquer omissão, contradição ou obscuridade no julgado.
+2. O Tribunal de origem, apreciando as peculiaridades fáticas da causa, julgou improcedente o pedido de indenização por dano material deduzido em favor dos agravantes, tendo em vista a inexistência de comprovação do dano sofrido. A modificação do julgado, de forma a entender pela condenação em danos materiais, demandaria o reexame do conjunto fático-probatório dos autos, o que é incompatível com a via estreita do recurso especial, conforme dispõe a Súmula 7/STJ.
+3. A revisão do valor fixado a título de danos morais somente é possível em sede de recurso especial no caso em que o quantum for exorbitante ou ínfimo. Fora dessas hipóteses, incide a Súmula 7 do STJ, que dispõe: "A pretensão de simples reexame de prova não enseja recurso especial."
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 245.374/SP, relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 6/2/2014, DJe de 25/2/2014.)
+Por fim, pela divergência pretoriana, o recurso também não merece acolhida, na medida em que a incidência da Súmula n. 7/STJ também obsta o apelo nobre pela alínea "c" do permissivo constitucional.
+Nessa linha de intelecção, destaca-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LOCAÇÃO DE IMÓVEL NÃO RESIDENCIAL. DANO. PRETENSÃO RESSARCITÓRIA. ARTIGOS 489 E 1.022 DO CÓDIGO DE PROCESSO CIVIL. OMISSÃO. NÃO OCORRÊNCIA. ARTIGO 206 DO CÓDIGO CIVIL. PRESCRIÇÃO. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. LITISPENDÊNCIA. PRESSUPOSTA A FALTA DE IDENTIDADE ENTRE OS ELEMENTOS DE CADA AÇÃO. REEXAME VEDADO. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. CONDIÇÕES DA AÇÃO. TEORIA DA ASSERÇÃO. SÚMULA 83/STJ. NÃO PROVIDO.
+1. Não há falar-se em omissão ou falta de justificativa adequada nos casos em que o Tribunal de origem resolve a controvérsia na extensão da matéria devolvida.
+2. Não se admite o recurso especial quando a questão federal nele suscitada não foi enfrentada no acórdão recorrido. Incidem as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+3. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+4. A análise das condições da ação é aferida à luz da teoria da asserção, isto é, mediante a análise das alegações formuladas pelo autor na petição inicial, de modo que, demandando tais questões um exame mais aprofundado, essa medida implicará julgamento de mérito.
+Súmula 83/STJ.
+5. A incidência da Súmula n. 7 do STJ prejudica a análise do dissídio jurisprudencial acerca do mesmo tema. Precedentes.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.445.615/SP, relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 17/6/2024, DJe de 19/6/2024.)
+Com essas considerações, conclui-se que o recurso não merece prosperar.
+Diante do exposto, nego provimento ao agravo interno.
+É como voto.
