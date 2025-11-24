@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MUNICÍPIO DE JOINVILLE do acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA assim ementado (fl. 128):
+TRIBUTÁRIO. EXECUÇÃO FISCAL. EXTINÇÃO. RECURSO DO ENTE PÚBLICO. REDIRECIONAMENTO CONTRA O ESPÓLIO NÃO ADMITIDO. FALECIMENTO DO CONTRIBUINTE ANTERIOR À CITAÇÃO. PRECEDENTE VINCULANTE DO STJ. APLICAÇÃO DA PENALIDADE POR LITIGÂNCIA DE MÁ-FÉ. EXEGESE DOS ARTS. 80 E 81 DO CPC. AGRAVO INTERNO CONHECIDO E DESPROVIDO. DECISÃO MANTIDA.
+1. A razoável duração do processo (art. 4º do CPC), a primazia de julgamento de mérito (art. 139, II e IX do CPC), a adstrição aos prazos de apreciação dos recursos (art. 931 e art. 1.020 do CPC), são normas cogentes que impõem apreciação célere de recursos (art. 932 do CPC). Soma-se à consolidação do debate o autorizativo para julgamento monocrático, a teor do art. 132, XV, do Regimento Interno desta Corte.
+2. Inafastável o reconhecimento da ilegitimidade passiva e, por conseguinte, extinção da execucional aforada contra devedor falecido anteriormente à citação, a teor da Súmula 392, do Superior Tribunal de Justiça.
+3. É o posicionar da Quarta Câmara de Direito Público do TJSC: "O Fisco dá causa ao ajuizamento equivocado da execução quando deixa de usufruir dos mecanismos que a lei lhe assegura para consultar os dados dos contribuintes e, assim, identificar corretamente o sujeito passivo (art. 199, caput, do CTN), promovendo execução que visa à satisfação do crédito tributário em face de quem não detém legitimidade" (Apelação Cível nº 0902267-84.2014.8.24.0033, rel. Des. Odson Cardoso Filho, j. 18-8-2022).
+4. Deflagra-se evidenciada a conduta de má-fé do agravante ao agir de modo temerário pela reiterada interposição de recursos contra decisões lastreadas em posicionamento firmado pela Corte Superior, com idênticas alegações àquelas já amplamente refutadas, prejudicando o regular andamento processual e dando azo à penalidade ínsita nos arts. 80 e 81 do CPC.
+5. Recurso conhecido e desprovido. Decisão mantida. Honorários recursais incabíveis.
+Nas razões de seu recurso, a parte recorrente afirma (fl. 139) :
+A tese aqui discutida é a de que a ação executiva extinta em razão do falecimento do Executado ter ocorrido antes do ajuizamento sem ser do conhecimento do Município de Joinville, pode prosseguir em relação ao Espólio quando o lançamento constitutivo do crédito tributário tiver ocorrido em momento anterior ao falecimento do Executado.
+A parte adversa não apresentou contrarrazões.
+O recurso foi admitido na origem.
+É o relatório.
+A questão debatida nos autos foi afetada à Primeira Seção do Superior Tribunal de Justiça para ser decidida sob o rito de recursos repetitivos (Tema 1.393/STJ), e foi assim delimitada:
+"Definir se é possível prosseguir a execução fiscal contra o espólio ou os sucessores caso o executado venha a falecer sem ser citado." (REsps 2.237.254/SC e 2.227.141/SC, relatora Ministra Maria Thereza de Assis Moura).
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+O envio do recurso especial a esta Corte Superior deve ocorrer somente após o esgotamento da instância ordinária, formalizado com o novo julgamento pelo Tribunal de origem, quando então será possível examinar, no âmbito do STJ, as matérias jurídicas que eventualmente permanecerem controvertidas. Essa cautela também evita o fracionamento do recurso e previne eventual violação ao princípio da unicidade recursal, que veda a interposição simultânea ou sucessiva de recursos contra a mesma decisão.
+Ante o exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil (CPC), o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do mesmo CPC.
+Publique-se. Intimem-se.
+ EMENTA
