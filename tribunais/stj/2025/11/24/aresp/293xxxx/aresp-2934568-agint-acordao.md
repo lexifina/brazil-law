@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/11/2025 a 24/11/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DECISÃO DE ADMISSIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS. SÚMULA 7/STJ. IMPUGNAÇÃO GENÉRICA. DECISÃO MONOCRÁTICA MANTIDA. PROVIMENTO NEGADO.
+1. Para que o Superior Tribunal de Justiça (STJ) examine o recurso especial interposto, porém não admitido, é dever da parte recorrente, em seu agravo em recurso especial, desconstituir os fundamentos da decisão de admissibilidade, a qual não é formada por capítulos autônomos, mas por um único dispositivo.
+2. A falta de efetivo combate de um dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, segundo preceituam os arts. 253, I, do Regimento Interno do Superior Tribunal de Justiça e 932, III, do Código de Processo Civil.
+3. A afirmação de que o caso não demanda o reexame de fatos e de provas, ou a menção às razões expostas no recurso especial, não é suficiente para infirmar a incidência da Súmula 7/STJ. O entendimento deste Tribunal é o de que, para comprovar a inaplicabilidade do enunciado sumular em questão, a parte recorrente deve realizar o cotejo entre o acórdão recorrido e a tese recursal.
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por ARTHUR LUNDGREN TECIDOS S A CASAS PERNAMBUCANAS da decisão em que a Presidência do Superior Tribunal de Justiça não conheceu de seu agravo em recurso especial (fls. 335/336).
+A parte agravante afirma que impugnou todos os fundamentos da decisão que não admitiu seu recurso especial.
+Requer a reconsideração da decisão agravada ou a apreciação do recurso pelo órgão colegiado competente.
+A parte adversa não apresentou impugnação (fl. 355).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DECISÃO DE ADMISSIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS. SÚMULA 7/STJ. IMPUGNAÇÃO GENÉRICA. DECISÃO MONOCRÁTICA MANTIDA. PROVIMENTO NEGADO.
+1. Para que o Superior Tribunal de Justiça (STJ) examine o recurso especial interposto, porém não admitido, é dever da parte recorrente, em seu agravo em recurso especial, desconstituir os fundamentos da decisão de admissibilidade, a qual não é formada por capítulos autônomos, mas por um único dispositivo.
+2. A falta de efetivo combate de um dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, segundo preceituam os arts. 253, I, do Regimento Interno do Superior Tribunal de Justiça e 932, III, do Código de Processo Civil.
+3. A afirmação de que o caso não demanda o reexame de fatos e de provas, ou a menção às razões expostas no recurso especial, não é suficiente para infirmar a incidência da Súmula 7/STJ. O entendimento deste Tribunal é o de que, para comprovar a inaplicabilidade do enunciado sumular em questão, a parte recorrente deve realizar o cotejo entre o acórdão recorrido e a tese recursal.
+4. Agravo interno a que se nega provimento.
+VOTO
+Na origem, o TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS proferiu o acórdão assim ementado (fl. 236 ):
+APELAÇÃO. EMBARGOS À EXECUÇÃO FISCAL. PROCON. SANÇÃO PECUNIÁRIA. OFENSA AO DIREITO DO CONSUMIDOR. PROCESSO ADMINISTRATIVO REGULAR. MULTA APLICADA PELO PROCON. CRITÉRIOS DO ART. 57, CDC E PRINCÍPIOS DA RAZOABILIDADE E PROPORCIONALIDADE OBSERVADOS. MANUTENÇÃO DO V A L O R . D E S P R O V I M E N T O . M A J O R A Ç Ã O D O S HONORÁRIOS ADVOCATÍCIOS.
+I - O Procon é órgão integrante do Sistema Nacional de Defesa do Consumidor e possui competência para receber reclamações dos consumidores, instaurar processo administrativo e aplicar as punições previstas em leis. Se o processo administrativo cumpriu corretamente todas as etapas, descabido falar em ilegalidade.
+II - Os atos administrativos gozam de presunção de legitimidade e veracidade, somente podendo ser superados por prova robusta em sentido contrário. A má qualidade das imagens colacionadas ao processo administrativo não derrui a presunção de veracidade dos fatos declarados pelo fiscal do órgão protetivo. A declaração do fiscal, suficiente para sustentar a aplicação da penalidade, somente poderia ser desconsiderada na hipótese da autuada apelante ter produzido provas em sentido contrário, o que não ocorreu.
+III - Arbitrada a multa no processo administrativo instaurado pelo PROCON com observação aos critérios legais e os princípios da razoabilidade e proporcionalidade, e, ainda, atendidas as finalidades propostas pelo legislador, preservando o caráter educativo da medida, impositiva a manutenção do valor da multa imposta pelo órgão fiscalizador.
+IV - Apelo conhecido e desprovido.
+V - Honorários advocatícios majorados.
+A fim de que este Tribunal examine o recurso especial interposto, contudo inadmitido, é dever da parte interessada, nas razões de seu agravo em recurso especial, rebater os fundamentos da decisão de admissibilidade, apresentando argumentos suficientes para demonstrar o desacerto da decisão agravada.
+A falta de efetivo combate de um dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, consoante preceituam os arts. 253, I, do Regimento Interno do Superior Tribunal de Justiça e 932, III, do Código de Processo Civil (CPC).
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE INADMISSIBILIDADE. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182/STJ. INCIDÊNCIA.
+1. A jurisprudência do Superior Tribunal de Justiça entende ser necessária a impugnação dos fundamentos da decisão denegatória da subida do recurso especial para que se conheça do respectivo agravo.
+2. Como registrado na primeira oportunidade, a empresa agravante não infirma especificamente a tese de que o acórdão recorrido estaria em consonância com o entendimento deste STJ. Logo, a Súmula 182 desta Corte foi corretamente aplicada ao caso.
+3. Incumbiria à parte interessada apontar precedentes contemporâneos ou supervenientes aos referidos na decisão combatida, procedendo ao cotejo analítico entre eles.
+4. O disposto nos arts. 932, parágrafo único, e 1.029, § 3º, do Código de Processo Civil de 2015 não é aplicável na hipótese de incidência da Súmula 182 do Superior Tribunal de Justiça. Precedentes.
+5. Agravo interno a que se nega provimento.
+(Aglnt no AREsp n. 1.112.333/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 21/3/2019, DJe de 28/3/2019.)
+Neste caso, do agravo em recurso especial não se conheceu por deixar a parte recorrente de impugnar a decisão de admissibilidade relativamente à incidência da Súmula 7/STJ.
+Em nova análise do recurso interposto, constato que a parte agravante apenas rebateu com fórmulas genéricas a incidência da Súmula 7/STJ como óbice ao conhecimento do recurso especial, sem debater minimamente o seu não cabimento no caso concreto.
+A afirmação de que o caso não demanda o reexame de fatos e provas, ou a menção às razões expostas no recurso especial, não basta para infirmar a incidência da Súmula 7/STJ.
+Para este Tribunal, a fim de comprovar a inaplicabilidade do enunciado sumular em apreço, é necessário que a parte recorrente realize o cotejo entre o acórdão recorrido e a tese recursal, o que não foi feito no presente processo.
+Confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, TODOS OS FUNDAMENTOS DA DECISÃO QUE NÃO ADMITIU O RECURSO ESPECIAL. ART. 932, III, DO CPC/2015 E SÚMULA 182/STJ, POR ANALOGIA. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+II. Incumbe ao agravante infirmar, especificamente, todos os fundamentos da decisão que inadmitiu o Recurso Especial, demonstrando o seu desacerto, de modo a justificar o processamento do apelo nobre, sob pena de não ser conhecido o Agravo (art. 932, III, do CPC vigente). Nesse sentido: STJ, AgRg no AREsp 704.988/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 10/09/2015; EDcl no AREsp 741.509/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 16/09/2015; AgInt no AREsp 888.667/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 18/10/2016; AgInt no AREsp 895.205/PB, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 20/10/2016.
+III. No caso, por simples cotejo entre o decidido e as razões do Agravo em Recurso Especial verifica-se a ausência de impugnação específica de todos os fundamentos da decisão que, em 2º Grau, inadmitira o Especial, o que atrai a aplicação do disposto no art. 932, III, do CPC/2015 - vigente à época da publicação da decisão então agravada e da interposição do recurso -, que faculta ao Relator "não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida", bem como do teor da Súmula 182 do Superior Tribunal de Justiça, por analogia.
+IV. Na forma da jurisprudência "não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual" (STJ, AgInt no AREsp 1.067.725/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 20/10/2017).
+V. Agravo interno improvido.
+(AgInt no AREsp n. 1.223.898/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 21/3/2018, DJe 27/3/2018, sem destaques no original.)
+Está correta a decisão que não conheceu do recurso.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
