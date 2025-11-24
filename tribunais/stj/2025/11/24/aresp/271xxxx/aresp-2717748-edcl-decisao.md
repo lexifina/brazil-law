@@ -1,0 +1,20 @@
+DECISÃO
+VERONICA RAMOS BOZELO e BANCO BMG S.A. opõem embargos de declaração à decisão de fls. 667-670, que, ante o exposto, negou provimento ao agravo em recurso especial, majorou honorários e aplicou os óbices das Súmula n. 5 e 7 do STJ para afastar a discussão sobre violação dos arts. 186, 187 e 927 do CC, e da Súmula n. 282 do STF para não conhecer da alegada violação do art. 6º, VIII, do CDC.
+Em suas razões, a embargante aponta que há contradição quanto aos seguintes pontos: a) a decisão afirmou a necessidade de interpretação de cláusulas contratuais e reexame fático-probatório para analisar a violação dos arts. 186, 187 e 927 do CC, quando, segundo sustenta, a controvérsia seria a inexistência de contratação e ausência de manifestação de vontade; e b) a insurgência recursal não se limitaria a cláusulas, mas à própria ilicitude da conduta do banco, que teria imposto obrigação sem anuência.
+Alega também que há omissão em relação aos seguintes pontos: a) a decisão aplicou a Súmula n. 282 do STF ao art. 6º, VIII, do CDC, apesar de o tema ter sido suscitado desde a inicial, apelação, embargos no tribunal de origem e no recurso especial; e b) deixou de enfrentar de modo específico os dispositivos invocados, o que impediria a adequada solução da controvérsia.
+Requer o acolhimento dos embargos, com efeito infringente, para afastar as Súmula n. 5 e 7 do STJ e a Súmula n. 282 do STF, conhecer e dar provimento ao agravo em recurso especial, além do afastamento de multas, nos termos da Súmula n. 98 do STJ.
+As contrarrazões aos embargos foram apresentadas às fls. 681-683.
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a aclarar obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado.
+No presente caso, a parte aponta contradição quanto ao afastamento, por incidência das Súmula n. 5 e Súmula n. 7 do STJ, da análise da violação dos arts. 186, 187 e 927 do CC, afirmando que a controvérsia seria sobre inexistência de contratação e ausência de vontade, não exigindo reexame probatório.
+Na decisão de fls. 667-670, consta que o Tribunal de origem, soberano na análise das provas, assentou a ciência da autora acerca da natureza do contrato e a inexistência de vício de consentimento, de modo que a revisão demandaria interpretação de cláusulas contratuais e revolvimento do conjunto fático-probatório, incidindo as Súmula n. 5 e 7 do STJ. Assim, não há contradição a ser sanada.
+No que se refere à alegada omissão quanto à inversão do ônus da prova, art. 6º, VIII, do CDC, não há como acolher os embargos. Conforme consta na decisão impugnada, a questão infraconstitucional relativa à inversão do ônus probatório não foi objeto de debate no acórdão recorrido, atraindo a aplicação da Súmula n. 282 do STF.
+Observe-se (fl. 670):
+No recurso especial, a recorrente alega que a decisão impugnada deixou de garantir a inversão do ônus da prova em favor da consumidora, mesmo diante da hipossuficiência técnica e financeira da agravante e da verossimilhança de suas alegações.
+No entanto, a questão infraconstitucional relativa à inversão do ônus probatório não foi ob jeto de debate no acórdão recorrido. Caso, pois, de aplicação da Súmula n. 282 do STF.
+Desse modo, não há omissão que enseje o acolhimento dos embargos.
+A propósito, segundo orientação firmada pela Corte Especial do STJ, o recurso aclaratório possui finalidade integrativa e, portanto, não se presta à reforma do entendimento aplicado ou ao rejulgamento da causa (EDcl no AgRg no RE nos EDcl no AgRg nos EDcl no AREsp n. 1.571.819/RJ, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 25/8/2020, DJe de 28/8/2020).
+Dessa forma, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação do STJ foi analisada, não padecendo a decisão recor rida de vícios que autorizariam sua oposição (obscuridade, contradição, omissão e erro material).
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+ EMENTA
