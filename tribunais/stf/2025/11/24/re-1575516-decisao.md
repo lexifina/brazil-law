@@ -1,0 +1,33 @@
+DECISÃO: Trata-se de recurso extraordinário, com base no art. 102, III, “a”, da Constituição Federal, apresentado pelo Fundação Municipal De Saúde, em face do acórdão do Tribunal de Justiça do Estado do Piauí assim ementado:
+
+    “PROCESSUAL CIVIL E CONSTITUCIONAL – DIREITO À SAÚDE - RESPONSABILIDADE SOLIDÁRIA DOS ENTES FEDERATIVOS – FORNECIMENTO DE MEDICAMENTOS E INSUMOS - NECESSIDADE COMPROVADA – TEORIA DA RESERVA DO POSSÍVEL - INAPLICABILIDADE – RECURSO NÃO PROVIDO. 1. O entendimento acerca da responsabilidade solidária dos entes federativos pela prestação dos serviços de saúde já é matéria pacificada no âmbito, tanto do Supremo Tribunal Federal, quanto do Superior Tribunal de Justiça, podendo a ação ser proposta em face de quaisquer um deles. 2. A Constituição Federal, em seus artigos 6º, 23, inciso II, e 196, eleva a saúde a um direito social, estatuindo, ademais, ser competência comum da União, dos Estados, do Distrito Federal e dos Municípios o cuidado da saúde, direito de todos e dever do Estado. 3. Demonstrada a necessidade de medicamentos e insumos, deve o ente público proceder ao seu fornecimento, não podendo a chamada teoria da reserva do possível ser invocada, para o eximir de suas responsabilidades. 4. Sentença mantida. Pedido de reexame prejudicado.” (Apelação Cível (198) No 0811710-76.2020.8.18.0140, 4ª Câmara de Direito Público do Tribunal de Justiçado Estado do Piauí, Relator(A): Desembargador Raimundo Nonato da Costa Alencar, j. 09/03/2022)
+
+    Na minuta, sustenta-se violação dos arts. 196 e 198 da Constituição da República. Argumenta-se, em síntese, que o cumprimento da decisão deveria ser direcionado ao Estado do Piauí.
+
+    É o relatório.
+
+    Decido.
+
+    O recurso não comporta provimento.
+
+    Da análise dos autos, verifica-se que o entendimento acolhido no acórdão impugnado está alinhado à jurisprudência desta Suprema Corte, firmada no julgamento do RE 855.178-RG, paradigma do Tema 793 da repercussão geral, tendo sido fixada tese no sentido de que “Os entes da federação, em decorrência da competência comum, são solidariamente responsáveis nas demandas prestacionais na área da saúde, e diante dos critérios constitucionais de descentralização e hierarquização, compete à autoridade judicial direcionar o cumprimento conforme as regras de repartição de competências e determinar o ressarcimento a quem suportou o ônus financeiro”, razão pela qual não se verifica a alegada violação dos dispositivos constitucionais indicados nas razões recursais. Nesse sentido:
+
+    “CONSTITUCIONAL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO EM RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL RECONHECIDA. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. DESENVOLVIMENTO DO PROCEDENTE. POSSIBILIDADE. RESPONSABILIDADE DE SOLIDÁRIA NAS DEMANDAS PRESTACIONAIS NA ÁREA DA SAÚDE. DESPROVIMENTO DOS EMBARGOS DE DECLARAÇÃO. 1. É da jurisprudência do Supremo Tribunal Federal que o tratamento médico adequado aos necessitados se insere no rol dos deveres do Estado, porquanto responsabilidade solidária dos entes federados. O polo passivo pode ser composto por qualquer um deles, isoladamente, ou conjuntamente. 2. A fim de otimizar a compensação entre os entes federados, compete à autoridade judicial, diante dos critérios constitucionais de descentralização e hierarquização, direcionar, caso a caso, o cumprimento conforme as regras de repartição de competências e determinar o ressarcimento a quem suportou o ônus financeiro. 3. As ações que demandem fornecimento de medicamentos sem registro na ANVISA deverão necessariamente ser propostas em face da União. Precedente específico: RE 657.718, Rel. Min. Alexandre de Moraes. 4. Embargos de declaração desprovidos. (RE 855178 ED(Tema 793), Rel. Min. Edson Fachin, Pleno, DJe 16.4.2020).
+
+    A revisão das premissas adotadas pelo Tribunal de origem demandaria o revolvimento da moldura fática delineada, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Aplicação da Súmula nº 279/STF: “para simples reexame de prova não cabe recurso extraordinário” e “por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+
+    EMENTA: AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. DIREITO À SAÚDE. FORNECIMENTO DE TRATAMENTO MÉDICO E INSUMOS. SOLIDARIEDADE DOS ENTES FEDERADOS. TEMA 793 DA REPERCUSSÃO GERAL. ACÓRDÃO ASSEVERA QUE O TRATAMENTO ESTÁ PADRONIZADO PELO SUS; RECORRENTE SUSTENTA O INVERSO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 279/STF. 1. Cuida-se, na origem, de ação ordinária ajuizada por menor impúbere, diagnosticado com SÍNDROME DE WOLFHIRSCHHORN E AUTISMO, em que requer a condenação do Estado do Paraná na obrigação de fornecer o necessário atendimento à sua saúde, o qual precisa de tratamento de Fisioterapia Motora, Fonoterapia, Terapia Ocupacional e Estimulação Visual. 2. O Tribunal de origem manteve a competência da Justiça Estadual argumentando que o tratamento postulado pela parte autora (fisioterapia, terapia ocupacional, estimulação visual, psicologia e fonoaudiologia e fornecimento de insumos) “está expressamente previsto no Protocolo Clínico e Diretrizes Terapêuticas do Comportamento Agressivo como Transtorno do Espectro Autista (Portaria nº 324/2016 do Ministério da Saúde), segundo a qual é atribuição dos ESTADOS, do DISTRITO FEDERAL e dos MUNICÍPIOS”. 3. A argumentação recursal traz versão dos fatos diversa da exposta no acórdão, pois o recorrente sustenta que o tratamento médico pleiteado não está padronizado no âmbito do Sistema Único de Saúde. Incide, portanto, o óbice da Súmula 279 desta CORTE: Para simples reexame de prova não cabe recurso extraordinário. 4. No Agravo Interno, o Estado sustenta que o alto custo do serviço de home care impõe o deslocamento da causa para a Justiça Federal. Ocorre que tal linha de argumentação não consta do RE, constituindo indevida inovação recursal. 5. Agravo Interno a que se nega provimento. (RE 1431368 AgR, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe 04.10.2023)
+
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 24 de novembro de 2025.
+
+Ministro FLÁVIO DINO
+
+Relator
+
+Documento assinado digitalmente
