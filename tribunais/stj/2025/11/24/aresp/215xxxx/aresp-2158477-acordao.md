@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/11/2025 a 24/11/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. REINTEGRAÇÃO DE POSSE. PREJUDICIALIDADE EXTERNA. SUSPENSÃO. AUSÊNCIA DE INTERESSE DE AGIR. REEXAME DO CONJUNTO PROBATÓRIO E CLÁUSULA CONTRATUAL. IMPOSSIBILIDADE. SÚMULAS Nº 5/STJ E 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA.
+1. A revisão das conclusões da Corte de origem quanto à dependência entre a ação declaratória e a ação de reintegração de posse, a justificar a suspensão ou extinção da presente ação, demandaria o revolvimento do acervo fático-probatório dos autos e nova interpretação das cláusulas contratuais, procedimentos inviáveis ante a natureza excepcional da via eleita, conforme dispõe as Súmulas nºs 5 e 7/STJ.
+2. A aplicação da Súmula nº 7/STJ em relação ao recurso especial interposto pela alínea "a" do permissivo constitucional prejudica a análise da mesma matéria indicada no dissídio jurisprudencial.
+3. Agravo conhecido para não conhecer do recurso especial.
+RELATÓRIO
+Trata se de agravo interposto por JLM RESTAURANTE LTDA - EPP contra a decisão que inadmitiu o recurso especial.
+O apelo nobre, fundamentado nas alíneas "a" e "c" do permissivo constitucional, desafia acórdão do Tribunal de Justiça do Distrito Federal e Territórios assim ementado:
+"APELAÇÃO. CIVIL E PROCESSUAL CIVIL. AÇÃO DE REINTEGRAÇÃO DE POSSE. PRELIMINAR DE AUSÊNCIA DE INTERESSE DE AGIR AFASTADA. PRELIMINAR DE SUSPENSÃO DO FEITO REJEITADA. PREJUDICIALIDADE EXTERNA NÃO CONFIGURADA. ESBULHO POSSESSÓRIO. ART. 560 DO CPC. REQUISITOS DEMONSTRADOS. HONORÁRIOS. FIXAÇÃO EQUITATIVA. CABIMENTO. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+1. Trata-se de recurso de apelação interposto por JLM Restaurante Ltda. EPP contra sentença proferida pelo Juízo da 15ª Vara Cível de Brasília que, nos autos de ação de reintegração de posse ajuizada por Inframérica Concessionária do Aeroporto de Brasília S.A., julgou procedentes os pedidos deduzidos na petição inicial, "para determinar a reintegração da autora na posse dos imóveis descritos na inicial".
+2. Não exsurge dos autos a inadequação da via eleita, tendo em vista que os presentes autos versam sobre o exercício da posse, nos moldes do art. 560 e seguintes do CPC, e não acerca dos valores eventualmente devidos à Inframérica Concessionária do Aeroporto de Brasília S.A., ora apelada, por força do contrato entabulado entre as partes. Verifica-se, assim, o interesse de agir da parte autora, ora apelada, nos termos do art. 17 do CPC. Preliminar de ausência de interesse de agir, suscitada no apelo, afastada.
+3. Se o presente feito limita-se a discutir a posse sobre os imóveis que integram o contrato firmado entre as partes, nos moldes do art. 1.210, caput, do CC, nada referindo acerca de eventuais valores devidos pela apelante à concessionária, ora apelada, os quais são objeto de discussão no processo n. 0714582- 91.2020.8.07.0001, não há falar em prejudicialidade externa apta a autorizar a suspensão dos presentes autos sob o fundamento previsto no art. art. 313, inciso V, alínea "a", do CPC. Preliminar de suspensão do feito, suscitada no recurso, rejeitada.
+4. Nos termos do art. 560 do CPC, o possuidor tem direito a ser mantido na posse em caso de turbação e reintegrado em caso de esbulho. Cabe ao possuidor, na forma do art. 561, incisos I a III, do aludido diploma legal, provar: a) a sua posse; b) o esbulho praticado pelo réu; c) a data da turbação ou do esbulho; ed) a perda da posse, na ação de reintegração.
+5. Na espécie, a posse da parte autora, ora apelada, foi demonstrada por meio do negócio jurídico de cessão de uso de espaço aeroportuário apresentado ao ID 24954025, na qual figurou na qualidade de cedente. Observa-se, ainda, que a pretensão de reaver a posse configurou-se no dia 21/10/2020, porquanto, devidamente notificada, em 13/10/2020, para desocupar as áreas cedidas no prazo de 5 (cinco) dias úteis, nos estritos termos da cláusula 11.2.3 do contrato entabulado entre as partes, a apelante deixou de desocupar os imóveis, permanecendo na posse precária do bem até dezembro de 2020, data da desocupação efetiva.
+6. Logo, demonstrados, pela apelada, os requisito s previstos no art. 561 do CPC, a sua reintegração na posse dos aludidos imóveis é medida impositiva, razão pela qual se revela escorreita a r. sentença, ao julgar procedente o pedido deduzido na petição inicial.
+7. Se o arbitramento de honorários com base no valor da causa acarretar quantia exorbitante e em desacordo com as peculiaridades do feito, no qual sequer houve dilação probatória e a prolação da sentença ocorreu em pouco mais de 1 (um) ano após o ajuizamento da ação, ressaltando-se a média complexidade da celeuma, revela-se escorreita a fixação equitativa dos honorários advocatícios, consoante preconiza o art. 85, § 8º, do CPC, com o objetivo de evitar excessos e o enriquecimento indevido de qualquer das partes.
+8. Recurso conhecido e parcialmente provido." (e-STJ fls. 663/664)
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 714/729).
+No recurso especial (e-STJ fls. 735/744), a recorrente aponta a violação dos arts. 313, V, 485 e 520 do Código de Processo Civil.
+Sustenta, em síntese, dependência entre a ação declaratória e a ação de reintegração de posse, a justificar a suspensão ou extinção da presente ação.
+Nessa toada, defende a extinção da demanda, por inadequação da via eleita.
+Após a juntada das contrarrazões (e-STJ fls. 763/767), o recurso especial foi inadmitido na origem (e-STJ fls. 826/827), dando ensejo à interposição do presente agravo.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. REINTEGRAÇÃO DE POSSE. PREJUDICIALIDADE EXTERNA. SUSPENSÃO. AUSÊNCIA DE INTERESSE DE AGIR. REEXAME DO CONJUNTO PROBATÓRIO E CLÁUSULA CONTRATUAL. IMPOSSIBILIDADE. SÚMULAS Nº 5/STJ E 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA.
+1. A revisão das conclusões da Corte de origem quanto à dependência entre a ação declaratória e a ação de reintegração de posse, a justificar a suspensão ou extinção da presente ação, demandaria o revolvimento do acervo fático-probatório dos autos e nova interpretação das cláusulas contratuais, procedimentos inviáveis ante a natureza excepcional da via eleita, conforme dispõe as Súmulas nºs 5 e 7/STJ.
+2. A aplicação da Súmula nº 7/STJ em relação ao recurso especial interposto pela alínea "a" do permissivo constitucional prejudica a análise da mesma matéria indicada no dissídio jurisprudencial.
+3. Agravo conhecido para não conhecer do recurso especial.
+VOTO
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece acolhida.
+No que diz respeito a consequente necessidade de suspensão do feito em razão de prejudicialidade externa e a ausência do interesse de agir da parte adversa, as conclusões do tribunal de origem decorreram inquestionavelmente da análise da interpretação de cláusulas contratuais e do conjunto fático-probatório carreado aos autos, o que se pode aferir da leitura dos fundamentos do julgado atacado, ora colacionados na parte que interessa:
+"Como observado, não exsurge dos autos a inadequação da via eleita, tendo em vista que os presentes autos versam sobre o exercício da posse e, não, acerca dos valores eventualmente devidos à Inframérica Concessionária do Aeroporto de Brasília S.A., ora apelada, por força do contrato entabulado entre as partes.
+Dito de outro modo, como bem assentado na r. sentença, os presentes autos tem por escopo a proteção ao exercício livre e desembaraçado da posse pela autora, ora apelada, em decorrência de suposto esbulho possessório praticado pela apelante, nos estritos moldes do art. 1.210, caput, do Código Civil, e não a cobrança de eventuais valores vinculados ao contrato entabulado entre as partes.
+Logo, revelada a adequação da via eleita, não há falar em ausência de interesse de agir da parte autora, ora apelada.
+ ..
+Na hipótese, como já assentado anteriormente, tem-se que o presente feito limita-se a discutir a posse sobre os imóveis que integram o contrato firmado entre as partes, nos moldes do art. 1.210, caput, do CC, nada referindo acerca de eventuais valores devidos pela apelante à concessionária, ora apelada.
+Não há, pois, prejudicialidade externa apta a ensejar a suspensão da tramitação deste processo.
+Pontue-se, ainda, que consta dos autos notificação expedida pela parte autora, ora apelada, à apelante, informando-a acerca da resolução contratual, com base em suposto inadimplemento de valores anteriores ao contexto de pandemia e, portanto, não albergados pela ação declaratória n. 0714582-91.2020.8.07.0001.
+Não se revela cabível, nesses termos, a suspensão do presente feito.
+ ..
+É dizer, consta dos autos notificação da autora, ora apelada, à ré, informando-lhe sobre a resolução contratual, resultante, inclusive, de inadimplemento de valores anteriores ao contexto de pandemia, e concedendo prazo para desocupação voluntária em 5 (cinco) dias.
+ ..
+Dito de outro modo, se demonstrada, pela recorrida, a sua posse, o esbulho, ocorrido após o transcurso do prazo para desocupação voluntária do bem objeto do contrato, e a data de sua ocorrência, revela-se imperativa a sua reintegração na posse dos aludidos imóveis, nos termos do art. 560 e seguintes do CPC" (e-STJ fl. 667/669)
+Nesse contexto, não há como afastar a incidência das Súmulas nºs 5 e 7/STJ, visto que o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos e nova interpretação de cláusula contratual, procedimentos inviáveis ante a natureza excepcional da via eleita.
+Anota-se, ainda, que a aplicação da Súmula nº 7/STJ em relação ao recurso especial interposto pela alínea "a" do permissivo constitucional prejudica a análise da mesma matéria indicada no dissídio jurisprudencial.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, os honorários sucumbenciais fixados pelas instâncias ordinárias, devidos pelo ora recorrente, devem ser majorados para R$ 35.000,00 (trinta e cinco mil reais), atualizados desde o arbitramento na origem, observado o benefício da gratuidade da justiça, se for o caso.
+É o voto.
