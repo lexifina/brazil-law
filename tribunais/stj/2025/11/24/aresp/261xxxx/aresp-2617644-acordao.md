@@ -1,0 +1,103 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/11/2025 a 24/11/2025, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Ricardo Villas Bôas Cueva.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+Impedida a Sra. Ministra Nancy Andrighi.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. RESTITUIÇÃO E INDENIZAÇÃO. COMPATIBILIDADE DOS INSTITUTOS. OBRIGAÇÃO SOLIDÁRIA. ILEGITIMIDADE PASSIVA. NÃO CARACTERIZADA. TERMO INICIAL. JUROS DE MORA. CITAÇÃO. EXCESSO DE EXECUÇÃO. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Não viola os artigos 489 e 1.022 do Código de Processo Civil nem importa deficiência na prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, para decidir de modo integral a controvérsia posta.
+2. Na espécie, não houve violação dos artigos 489 e 1.022 do Código de Processo Civil, visto que agiu corretamente o tribunal de origem ao rejeitar os embargos de declaração por inexistir omissão, contradição, obscuridade ou erro material no acórdão atacado, ficando patente o intuito infringente da irresignação.
+3. Não há incompatibilidade entre os institutos da restituição e da indenização, haja vista que a primeira é forma de reparação pelos prejuízos ocasionados pelo ilícito.
+4. Na linha do que dispõem os artigos 264 e 275 do Código Civil, sendo devedor solidário, o recorrente, assim como os demais réus, é responsável pelo pagamento de toda a dívida.
+5. O termo inicial dos juros de mora na responsabilidade contratual é a citação.
+6. O recurso especial é inviável quando a modificação do acórdão recorrido demanda o reexame do conjunto fático-probatório dos autos, conforme dispõe a Súmula nº 7/STJ.
+7. Agravo conhecido para conhecer parcialmente do recurso especial e, nessa parte, negar-lhe provimento.
+RELATÓRIO
+Trata-se de agravo interposto por BANCO SANTANDER (BRASIL) S.A. contra decisão que inadmitiu seu recurso especial.
+O apelo extremo, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"AÇÃO DE RESTITUIÇÃO DE VALOR CUMPRIMENTO PROVISÓRIO DE SENTENÇA DECISÃO QUE REJEITOU A IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA E NÃO ACEITOU O SEGURO-GARANTIA COMO PAGAMENTO SOBREVINDA DE LIMINAR CONCEDIDA, NO ÂMBITO DO AGRAVO INTERNO INTERPOSTO PELO RECORRENTE CONTRA A DECISÃO DA PRESIDÊNCIA DESTE E. TRIBUNAL DE JUSTIÇA, QUE INADMITIU SEU RECURSO ESPECIAL, DETERMINANDO A SUSPENSÃO DA ORDEM DE PAGAMENTO PROFERIDA EM 1ª INSTÂNCIA PRETENSÃO DE REFORMA CABIMENTO EM PARTE - Com a referida decisão liminar, o seguro-garantia mostra-se suficiente para garantir o futuro adimplemento da obrigação - Alegações a respeito da impossibilidade de cumprimento da obrigação imposta que já foram trazidas e tratadas na formação do título executivo judicial - Reclamação a respeito do termo inicial para a contagem dos juros de mora, que defende ser da juntada do mandado de citação - Impossibilidade Forma de contagem apenas de prazos processuais - Inexistência do alegado excesso de execução, principalmente em razão da responsabilidade solidária imposta ao banco agravante. Multa do art. 523, §1º, do CPC elidida pela ordem de suspensão - Decisão reformada em parte - Recurso provido em parte, prejudicado o exame do agravo interno" (e-STJ fls. 212).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 234/237).
+No recurso especial (e-STJ fls. 239/257), o recorrente aponta a violação dos seguintes dispositivos legais com as respectivas teses:
+a) artigos 876 e 927 do Código Civil e art. 525, §1º, inciso II, do Código Civil - alega que a instância originária confundiu os institutos da restituição e da indenização, pois os valores, como foram transferidos a terceiros, só poderiam ser restituídos pelo recorrente depois que estes devolvessem o montante, o que configuraria sua ilegitimidade passiva para responder pela obrigação;
+b) artigos 405 e 884 do Código Civil e artigos 219, 502 e 525, §1º, do Código de Processo Civil - defende que houve excesso de execução porque os juros de mora deveriam ser calculados a partir da data da juntada do mandado nos autos, não da data da efetiva citação, houve incorreção da base de cálculo dos honorários advocatícios e lhe estariam sendo exigidas a totalidade das custas processuais, quando deveriam ser a metade;
+c) artigos 489, §1º, IV e 1.022 do Código de Processo Civil - sustenta que, mesmo após a oposição de aclaratórios, o Tribunal de origem não teria se pronunciado acerca da impossibilidade de restituição de valores pelo recorrente e, ainda, acerca do não reconhecimento de excesso de execução quanto à cobrança integral das custas pelo recorrido.
+Após a juntada de contrarrazões (e-STJ fls. 304/314), o recurso especial foi inadmitido (e-STJ fls. 317/319), dando ensejo à interposição do presente agravo.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. RESTITUIÇÃO E INDENIZAÇÃO. COMPATIBILIDADE DOS INSTITUTOS. OBRIGAÇÃO SOLIDÁRIA. ILEGITIMIDADE PASSIVA. NÃO CARACTERIZADA. TERMO INICIAL. JUROS DE MORA. CITAÇÃO. EXCESSO DE EXECUÇÃO. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Não viola os artigos 489 e 1.022 do Código de Processo Civil nem importa deficiência na prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, para decidir de modo integral a controvérsia posta.
+2. Na espécie, não houve violação dos artigos 489 e 1.022 do Código de Processo Civil, visto que agiu corretamente o tribunal de origem ao rejeitar os embargos de declaração por inexistir omissão, contradição, obscuridade ou erro material no acórdão atacado, ficando patente o intuito infringente da irresignação.
+3. Não há incompatibilidade entre os institutos da restituição e da indenização, haja vista que a primeira é forma de reparação pelos prejuízos ocasionados pelo ilícito.
+4. Na linha do que dispõem os artigos 264 e 275 do Código Civil, sendo devedor solidário, o recorrente, assim como os demais réus, é responsável pelo pagamento de toda a dívida.
+5. O termo inicial dos juros de mora na responsabilidade contratual é a citação.
+6. O recurso especial é inviável quando a modificação do acórdão recorrido demanda o reexame do conjunto fático-probatório dos autos, conforme dispõe a Súmula nº 7/STJ.
+7. Agravo conhecido para conhecer parcialmente do recurso especial e, nessa parte, negar-lhe provimento.
+VOTO
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+De início, no tocante à negativa de prestação jurisdicional, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+No caso, o Tribunal de Justiça manifestou-se expressamente quanto à restituição dos valores e ao pagamento das despesas processuais, conforme se verifica do seguinte trecho do acórdão:
+"(..) A reclamação apresentada pelo agravante com relação ao dever de restituir ou estornar o valor transferido fraudulentamente da conta da agravada (invocando sua ilegitimidade para responder ao cumprimento de sentença) é descabida.
+É parte legítima para responder pelo cumprimento de sentença aquele que consta como devedor (único ou solidário) do título executivo judicial, que no caso em exame, é o agravante.
+Extrai-se da sentença que compõe o título executivo judicial: "Desta forma, deverá ser condenada, solidariamente, na devolução à autora, dos valores indevidamente transferidos" (fls. 429 dos autos da ação principal).
+No relatório do acórdão proferido por esta C. 11ª Câmara de Direito Privado, no julgamento do recurso de apelação do banco agravante, consta: "Aduz, também, que a restituição do valor da transferência bancária espúria representaria obrigação impossível, pois o valor foi transferido, em algumas horas, ao Banco Bradesco e após ao Banco Plural, devendo a restituição do valor da TED seguir o caminho inverso, até que esteja disponibilizada a respectiva quantia ao apelante e este proceda à restituição à apelada." (fls. 652 dos autos principais) e do corpo do acórdão: "Por conseguinte, evidenciada in casu a falha em seu sistema de segurança respectivo, bem como afastada a hipótese de culpa concorrente, necessário que o banco apelante restitua à autora os valores correspondentes à operação financeira impugnada, tal como postulado na petição inicial, de forma a trazer a situação patrimonial da autora e de sua conta corrente ao status quo ante em relação aos atos fraudulentos negligenciados, obrigação essa plenamente possível de cumprimento pela instituição financeira recorrente, ao contrário do que afirma." (fls. 658 dos autos principais).
+Assim, as alegações do agravante em relação à sua responsabilidade são, na verdade, questões que já foram levantadas pela parte oportunamente e tratadas na sentença e no acórdão que constituem o título executivo judicial.
+O que realmente se verifica da pretensão recursal é a tentativa de rediscutir, em sede imprópria, o que já foi julgado, ao menos por este órgão colegiado. Por fim, a alegação de excesso de execução também não merece acolhida.
+(..) Sobre a alegação de que não foi considerada a sucumbência recíproca e de que as custas processuais não teriam sido repartidas, mais uma vez não assiste razão ao agravante,
+Desde a entrada em vigor do Código de Processo Civil de 2015, a sucumbência recíproca implica não mais compensação entre as verbas sucumbenciais, mas condenação das duas partes ao seu pagamento em relação à parte contrária.
+Além disso, o banco réu, como dito antes, é responsável solidariamente em relação à toda a condenação que lhe foi imposta no título executivo judicial, de modo que é responsável pela metade e não por 25% das custas" (e-STJ fls. 216/217 - grifou-se).
+Registra-se que o tribunal de origem se pronunciou acerca dos pontos levantados pela recorrente, mesmo que de modo breve, afastando os argumentos deduzidos que, em tese, seriam capazes de infirmar a conclusão adotada.
+Como se sabe, cabe ao julgador apreciar os fatos e as provas da demanda segundo seu livre convencimento, declarando, ainda que de forma sucinta, os fundamentos que o levaram a solucionar a lide.
+Não há falar, portanto, em existência de omissão apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+A esse respeito, os seguintes precedentes:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE CUSTEIO DE MEDICAMENTO (THIOTEPA). 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2. FUNDAMENTO SUFICIENTE NÃO ATACADO. SÚMULA 283/STF. 3. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. 4. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282/STF E 211/STJ. 5. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. O acórdão recorrido encontra-se em perfeita harmonia com a jurisprudência desta Corte no sentido de que, "embora se trate de fármaco importado ainda não registrado pela ANVISA, teve a sua importação excepcionalmente autorizada pela referida Agência Nacional, sendo, pois, de cobertura obrigatória pela operadora de plano de saúde" (REsp 1.923.107/SP, relatora ministra Nancy Andrighi, Terceira Turma, julgado em 10/8/2021, DJe 16/8/2021).
+3. Atentando-se aos argumentos trazidos pela recorrente e aos fundamentos adotados pela Corte estadual de que a ANVISA admite a importação do fármaco, verifica-se que estes não foram objeto de impugnação nas razões do recurso especial, e a subsistência de argumento que, por si só, mantém o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+4. A ausência de debate acerca do conteúdo normativo dos arts. 66 da Lei n. 6.360/1976 e 10, V, da Lei n. 6.437/1976, apesar da oposição de embargos de declaração, atrai os óbices das Súmulas 282/STF e 211/STJ.
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp 2.164.998/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se)
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE REGRESSO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DOS DEMANDADOS.
+1. Não há se falar em negativa de prestação jurisdicional, na medida em que o órgão julgador dirimiu todas as questões que lhe foram postas à apreciação, de forma clara e sem omissões, embora não tenha acolhido a pretensão da parte.
+2. Rever a conclusão do Tribunal de origem com relação à responsabilidade pelo ressarcimento dos valores pagos em reclamação trabalhista demandaria o reexame do conjunto fático-probatório dos autos e a interpretação de cláusulas contratuais, providencias que encontram óbice no disposto nas Súmulas 5 e 7 do STJ. Precedentes.
+3. Agravo interno desprovido."
+(AgInt nos EDcl no AREsp 2.135.800/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se)
+Nesse contexto, no que diz respeito à alegada negativa de prestação jurisdicional - violação do artigo 1.022 do CPC -, agiu corretamente o tribunal de origem ao rejeitar os embargos declaratórios por inexistir omissão, contradição, obscuridade ou erro material no acórdão embargado, ficando patente, em verdade, o intuito infringente da irresignação, que objetivava a reforma do julgado por via inadequada.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DEVOLUÇÃO DE PARCELAS PREVIDENCIÁRIAS. PREVIDÊNCIA PRIVADA. ENCERRAMENTO DO PLANO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. VIOLAÇÃO DO ART. 489 DO CPC/2015. INOCORRÊNCIA. REEXAME DE FATOS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. SÚMULAS 5 E 7/STJ. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. SÚMULA 7/STJ. DECISÃO MANTIDA.
+1. Ação de devolução de parcelas previdenciárias.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, inexiste a violação do art. 489 do CPC/15.
+4. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. A incidência das Súmulas 5 e 7/STJ prejudicam a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+7. Agravo interno não provido."
+(AgInt no AREsp 2.183.495/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 28/11/2022, DJe de 30/11/2022 - grifou-se)
+Em relação à alegada confusão entre os institutos da restituição e indenização e eventual ilegitimidade passiva do recorrente, como foi consignado no arresto de origem, trata-se de clara tentativa de rediscutir tese que havia sido refutada quando da fase de conhecimento, sobretudo no acórdão do recurso de apelação.
+Destaca-se que não há incompatibilidade entre os institutos, haja vista que a restituição é forma de reparação pelos prejuízos ocasionados pelo ilícito.
+Além disso, a tutela da sentença e do acórdão da fase de conhecimento possuem natureza condenatória, tendo sido instituída obrigação solidária entre os réus, dentre os quais o recorrente, de restituir os valores à parte autora, ora recorrida. Eis os termos do acórdão recorrido:
+"(..)
+Extrai-se da sentença que compõe o título executivo judicial: "Desta forma, deverá ser condenada, solidariamente, na devolução à autora, dos valores indevidamente transferidos." (fls. 429 dos autos da ação principal).
+(..)
+Além disso, o banco réu, como dito antes, é responsável solidariamente em relação à toda a condenação que lhe foi imposta no título executivo judicial, de modo que é responsável pela metade e não por 25% das custas" (e-STJ fls. 215/217 - grifou-se).
+Nesse contexto, na linha do que dispõem os artigos 264 e 275 do Código Civil, sendo devedor solidário, o recorrente, assim como os demais réus, é responsável pelo pagamento de toda a dívida, motivo pelo qual não merece acolhida a tese de que não teria legitimidade passiva, tampouco que só seria obrigado a restituir os valores depois que os demais codevedores devolvessem o montante, observando a cadeia de transações bancárias que foram efetuadas. Assim, também, no que respeita ao valor das despesas processuais.
+No que concerne aos juros de mora, o aresto recorrido está em consonância com a jurisprudência desta Corte, no sentido de que o termo inicial, tratando-se de responsabilidade contratual, é a data da citação e não da juntada do mandado de citação aos autos:
+"DIREITO CIVIL. AGRAVO INTERNO. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. RECURSO DESPROVIDO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que negou provimento ao agravo em recurso especial, com fundamento na incidência da Súmula n. 284 do STF, em ação de indenização por danos materiais e morais decorrente de falha na prestação de serviço de saúde.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se o valor da indenização por danos morais fixado pelo Tribunal de origem é desarrazoado ou desproporcional, e se o termo inicial dos juros de mora deve ser a partir da citação ou do arbitramento.
+III. Razões de decidir
+4. O Superior Tribunal de Justiça entende que a revisão do quantum indenizatório só é possível em casos de manifesta excessividade ou irrisoriedade, o que não se verifica no presente caso.
+5. A revisão do valor indenizatório pelo STJ é inviável, pois implicaria reexame de questões fático-probatórias, vedado pela Súmula n. 7 do STJ.
+6. Não demonstrada similitude fática entre os acórdãos confrontados, inviabilizado o conhecimento do dissídio jurisprudencial.
+7. Quanto ao termo inicial dos juros de mora, o acórdão recorrido seguiu a jurisprudência do STJ, que estabelece a data da citação como marco inicial em casos de responsabilidade contratual.
+IV. Dispositivo e tese
+8. Agravo interno desprovido.
+Tese de julgamento: "1. A revisão do quantum indenizatório por danos morais é possível apenas em casos de manifesta excessividade ou irrisoriedade. 2. O reexame do valor indenizatório pelo STJ é inviável quando implica reexame de questões fático-probatórias, conforme a Súmula n. 7 do STJ. 3. A ausência de similitude fática entre acórdãos inviabiliza o conhecimento do dissídio jurisprudencial. 4. Nos casos de responsabilidade contratual, os juros de mora incidem a partir da citação."
+Dispositivos relevantes citados: CF/1988, art. 105, III, c; CDC, arts. 6º, VIII, 14 e 34; CPC, art. 533, § 1º.Jurisprudência relevante citada: STJ, AgInt no AREsp n. 1.722.400/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 15.12.2020; STJ, AgInt no AREsp n. 1.900.623/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 15.3.2022".
+(AgInt no AREsp nº 2.755.614/BA, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 25/8/2025, DJEN de 28/8/2025 - grifou-se)
+No que respeita à afirmativa de que os valores apontados na planilha de cálculo apresentada pela recorrida consideraram como termo inicial a data do desembolso, alegada incongruência não pode ser analisada por esta Corte, pois demandaria o reexame dos fatos e das provas dos autos, o que encontra óbice na Súmula nº 7/STJ.
+Com essas considerações, não há como acolher a assertiva de que a base de cálculo sobre a qual incide o percentual da sucumbência está incorreto, nem tampouco entender pelo excesso de execução.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa parte, negar-lhe provimento.
+É o voto.
