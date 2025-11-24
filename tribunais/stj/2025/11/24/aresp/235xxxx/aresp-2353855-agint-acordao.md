@@ -1,0 +1,108 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/11/2025 a 24/11/2025, por unanimidade, dar parcial provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Marco Buzzi, João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE AFASTADA. COISA JULGADA AFASTADA. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. REQUISITOS. FORMAÇÃO DE GRUPO ECONÔMICO. INSUFICIÊNCIA. DETERMINAÇÃO DE RETORNO DOS AUTOS PARA A APLICAÇÃO DO DIREITO À ESPÉCIE. PARCIAL PROVIMENTO.
+1. Comprovada a ocorrência de feriado local, considera-se tempestivo o recurso especial interposto no prazo de 15 (quinze) dias úteis, nos termos dos artigos 219 e 1.003, §§ 5º e 6º, do Código de Processo Civil.
+2. A desconsideração da personalidade jurídica não se compraz com a mera formação de grupo econômico. Precedentes.
+3. É possível, excepcionalmente, deixar de aplicar o direito à espécie quando, para isso, for necessária a análise de matéria fática, com o retorno dos autos à origem.
+4. Agravo interno a que se dá parcial provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por SAMAM JEEP, SAMAM LOCADORA LTDA, SAMAM VEÍCULOS LTDA, SEVEL VEÍCULOS LTDA e SERIGY VEÍCULOS LTDA contra a seguinte decisão singular da minha lavra, em que neguei provimento ao agravo em recurso especial por entender intempestivo o recurso especial, à luz dos arts. 219 e 1.003, § 5º, do Código de Processo Civil, considerando a publicação do acórdão em 15/6/2022, a intimação em 20/6/2022, o termo inicial em 21/6/2022 e o termo final em 13/7/2022, tendo sido o especial interposto somente em 14/7/2022 (fls. 430-432):
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA - DECISÃO QUE JULGOU PROCEDENTE O PEDIDO DEDUZIDO NO INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA - COISA JULGADA AFASTADA - TRATANDO-SE DE RELAÇÃO JURÍDICA DE TRATO CONTINUADO E EXISTINDO SUSPEITA DA MODIFICAÇÃO NO ESTADO DE FATO OU DE DIREITO, POSSÍVEL REANALISAR A RESPONSABILIDADE - INCLUSÃO DAS EMPRESAS DO MESMO GRUPO ECONÔMICO NOS ATOS DE CONSTRIÇÃO JUDICIAL - POSSIBILIDADE - EMPRESAS PERTENCENTES AO MESMO GRUPO ECONÔMICO - TEORIA DA APARÊNCIA - NECESSIDADE DE GARANTIA DA EFETIVIDADE DO PROVIMENTO JURISDICIONAL - RECURSO CONHECIDO E DESPROVIDO.
+Alegou-se, no especial, violação dos artigos 337, §§ 1º e 4º, 489, § 1º, IV, 373, I, 505 do Código de Processo Civil, 50, § 4º, do Código Civil e 28 do Código de Defesa do Consumidor. O recurso especial, todavia, é irremediavelmente intempestivo.
+Colhe-se da decisão agravada que:
+"(..) o acórdão que julgou a Apelação Cível foi publicado em 15.06.2022 (quarta- eira), tendo, portanto, como iniciado o prazo recursal em 20.06.2022 (quarta-feira)  rectius segunda-feira , considerando o feriado de Corpus Christi em 16 de junho de 2022 (quinta-feira), e Ponto Facultativo determinado pelo Egrégio Tribunal de Justiça do Estado de Sergipe em 17 de Junho de 2022 (sexta-feira).
+Com a contagem de prazo, observa-se os Pontos Facultativos nos dias 24 de junho de (sexta-feira), e 29 de Junho de 2022 (quarta-feira), encerrando o prazo em 12 de julho de 2022.
+No entanto, o apelo excepcional só foi interposto em 14.07.2022, intempestivamente" (e-STJ, fl. 283).
+Os agravantes afirmam que o recurso especial é tempestivo, haja vista que o termo inicial do recurso não seria o dia 20 de junho de 2022, mas 21 de junho de 2022.
+Leiam-se as razões:
+"(..) ao considerar equivocadamente que a data da publicação do acórdão se deu no dia 15/06/2022 (quarta-feira), o primeiro dia da contagem do prazo se daria em 20/06/2022 (segunda-feira), em claro prejuízo à parte Recorrente, uma vez que houve equívoco na aplicação do que determina o art. 224, § 2º, do CPC/15, posto que, como dito, se a disponibilização se deu no dia 15/06/2022 (quarta-feira) e houve o feriado e ponto facultativo nos dias 16/06/2022 (quinta-feira) e 17/06/2022 (sexta-feira), naturalmente que a publicação somente se deu no dia útil subsequente, isto em 20/06/2022 (segunda-feira) e o início do prazo recursal em 21/06/2022 (terça-feira)" (e-STJ, fl. 296).
+Tem razão o recorrente quando afirma que houve equívoco em relação ao termo inicial para a interposição do recurso, o qual, todavia, mantém-se intempestivo.
+Os agravantes, de início, trouxeram a norma do Tribunal local que estabeleceu os dias em que não haveria expediente judicial (e-STJ, fls. 188/200).
+A partir da publicação do acórdão de origem e no que importa para o exame da tempestividade do recurso, não houve expediente nos dias 16, 17, 24 e 29 de junho de 2022.
+Publicado o acórdão, portanto, no dia 15 de junho de 2022, considera-se mesmo o primeiro dia útil como o da intimação, que foi segunda feira, dia 20 de junho, com início do prazo no dia 21 de junho, terça-feira.
+O termo final do prazo não é mesmo o dia 12 de julho de 2022, mas o dia 13 de julho de 2022, igualmente uma terça-feira, de sorte que o recurso especial interposto no dia 14 de julho é mesmo intempestivo, nos termos dos artigos 219 e 1.003, § 5º, do Código de Processo Civil.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
+Nas razões do presente agravo interno, as agravantes sustentam, em síntese, que a decisão agravada incorreu em error in judicando ao manter a intempestividade do recurso especial, porque desconsiderou feriado local em 8/7/2022 e pontos facultativos comprovados por portarias do Tribunal de Justiça de Sergipe, o que deslocaria o termo final para 14/7/2022, data em que o recurso especial foi interposto (fls. 437-444).
+Alegam tempestividade cabalmente demonstrada quando da interposição do especial, com juntada do calendário oficial e das portarias de suspensão de prazos, além de feriados nos dias 16, 17, 24 e 29/6/2022 e 8/7/2022.
+Defendem, ainda, o descabimento da multa do art. 1.021, § 4º, do Código de Processo Civil, por não se tratar de improcedência manifesta.
+Decorreu o prazo sem apresentação de impugnação (fl. 449).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE AFASTADA. COISA JULGADA AFASTADA. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. REQUISITOS. FORMAÇÃO DE GRUPO ECONÔMICO. INSUFICIÊNCIA. DETERMINAÇÃO DE RETORNO DOS AUTOS PARA A APLICAÇÃO DO DIREITO À ESPÉCIE. PARCIAL PROVIMENTO.
+1. Comprovada a ocorrência de feriado local, considera-se tempestivo o recurso especial interposto no prazo de 15 (quinze) dias úteis, nos termos dos artigos 219 e 1.003, §§ 5º e 6º, do Código de Processo Civil.
+2. A desconsideração da personalidade jurídica não se compraz com a mera formação de grupo econômico. Precedentes.
+3. É possível, excepcionalmente, deixar de aplicar o direito à espécie quando, para isso, for necessária a análise de matéria fática, com o retorno dos autos à origem.
+4. Agravo interno a que se dá parcial provimento.
+VOTO
+Têm razão os recorrentes quando afirmam a tempestividade do recurso especial.
+Os agravantes trouxeram, de fato, Portaria do Tribunal local na qual se dispõe acerca dos feriados locais no Estado de origem e em suas comarcas (fls. 188-200).
+Na referida Portaria (n. 426/2021), consta o dia 8 de julho como feriado estadual para as comemorações da emancipação política do Estado de Sergipe, o que foi desconsiderado tanto pela Presidência do Tribunal local quando pela decisão agravada, ao negar seguimento ao recurso especial e não prover o agravo que se seguiu ao referido juízo negativo de admissibilidade, respectivamente.
+Considerando, pois, o referido dia como feriado local e devidamente comprovado no momento da interposição do recurso especial, este é tempestivo quando interposto no dia 14 de julho de 2022, o qual passa a ser examinado.
+Os agravantes interpuseram recurso especial em face de acórdão com a seguinte ementa:
+AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA - DECISÃO QUE JULGOU PROCEDENTE O PEDIDO DEDUZIDO NO INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA - COISA JULGADA AFASTADA - TRATANDO-SE DE RELAÇÃO JURÍDICA DE TRATO CONTINUADO E EXISTINDO SUSPEITA DA MODIFICAÇÃO NO ESTADO DE FATO OU DE DIREITO, POSSÍVEL REANALISAR A RESPONSABILIDADE - INCLUSÃO DAS EMPRESAS DO MESMO GRUPO ECONÔMICO NOS ATOS DE CONSTRIÇÃO JUDICIAL - POSSIBILIDADE - EMPRESAS PERTENCENTES AO MESMO GRUPO ECONÔMICO - TEORIA DA APARÊNCIA - NECESSIDADE DE GARANTIA DA EFETIVIDADE DO PROVIMENTO JURISDICIONAL - RECURSO CONHECIDO E DESPROVIDO.
+Alegaram, na ocasião, violação dos artigos 337, §§ 1º e 4º, e 505, I, do Código de Processo Civil, 50 do Código Civil e 28 do Código de Defesa do Consumidor sob os argumentos de que o Tribunal local violou a coisa julgada aplicou indevidamente a desconsideração da personalidade jurídica no caso concreto.
+No que toca à coisa julgada, o Tribunal estadual concluiu que, "em se tratando de relação de trato continuado, bem como a possibilidade da prática de atos pelos sócios, há sempre a possibilidade de reavaliar a prática de confusão patrimonial, nos termos do artigo 505 do Código de Processo Civil" (fl. 138).
+A coisa julgada se verifica quando se repete ação idêntica a outra já transitada em julgado e, por ações idênticas, se entende aquelas em que constam as mesmas partes, causa de pedir e pedido.
+Havendo nova causa de pedir, não há identidade entre as ações, o que afasta o ocorrência de violação à coisa julgada.
+A propósito:
+RESPONSABILIDADE CIVIL. DANOS MORAIS. SEGUNDA AÇÃO MOVIDA CONTRA A EX-EMPREGADORA. CAUSA DE PEDIR DISTINTA. FATOS NOVOS E SUPERVENIENTES À PRIMEIRA DEMANDA E À TRANSAÇÃO ALI EFETIVADA. COISA JULGADA INEXISTENTE.
+Uma ação é igual à outra quando tem as mesmas partes, a mesma causa de pedir e o mesmo pedido - (art. 301, § 2º, do CPC).
+Distinta, na segunda demanda, a causa de pedir, não há falar em coisa julgada.
+Recurso especial não conhecido.
+(REsp n. 288.472/PB, relator Ministro Barros Monteiro, Quarta Turma, julgado em 20/9/2005, DJ de 7/11/2005, p. 287.)
+A desconsideração da personalidade, de outro lado, não se compraz com a simples formação de grupo econômico, permitindo o redirecionamento do cumprimento de sentença sem que haja o incidente de desconsideração da personalidade jurídica.
+Para que haja a desconsideração da personalidade jurídica, entretanto, é necessário o preenchimento dos requisitos legais específicos.
+A sentença que julgou procedente o pedido condenatório formulado pelo recorrido (fls.75-78) examinou acidente de trânsito entre o ora agravado e veículo pertencente a Fazenda Cana de Açúcar Taquari LTDA., sociedade empresária que faz parte do mesmo grupo econômico das empresas atingidas pela desconsideração em questão.
+Do relatório da sentença se constata:
+"(..) que no dia 09 de janeiro de 2013, se deslocava da cidade de Telha/se para Propriá/SE, pela rodovia 200/SE, quando colidiu na traseira do caminhão pertencente a empresa ora requerida. Aduz que foi socorrido por motoristas que vinham na mesma direção, por não haver ninguém dentro do veículo em que colidiu. Expõe que em decorrência do acidente sofreu fraturas tendo que ser submetidos a intervenções cirúrgicas e a tratamento para sua efetiva reabilitação" (fl. 76).
+E, de sua fundamentação, se colhe que:
+"(..) através do Registro Policial de Ocorrência (fl.15), bem como de todas as provas acostadas aos autos que o sinistro de fato ocorreu por culpa exclusiva do preposto da empresa ora ré. Ademais, afere-se dos autos que a empresa ré, embora devidamente citada, não compareceu a audiência de conciliação e nem tampouco cumpriu medida liminar determinada por este Juízo às fls.51/52.
+As provas documentais oferecidas foram eficazes para a formação do convencimento deste magistrado.
+É fato incontroverso que o preposto da empresa ré, dirigindo o caminhão pertencente a empresa, foi negligente ao não sinalizar a via onde se encontrava parado, ocasionando assim, o acidente onde restou o autor lesionado.
+A empresa, portanto, responde pelos danos, conforme dispõe o artigo 932 , III , do Código civil, dessa forma enxergo que a indenização por dano moral é medida certa e necessária" (fls. 76-77).
+Não houve, no caso dos autos, exame acerca de eventual relação de consumo, ainda que por equiparação, razão pela qual não pode esta Corte, por ausência de provocação e prequestionamento, concluir nesse sentido.
+A desconsideração da personalidade jurídica pelo direito comum, outrossim, exige a ocorrência de confusão patrimonial ou desvio de finalidade, não bastando a simples formação de grupo econômico ou a ausência de bens para a satisfação da dívida, nos termos do artigo 50 e parágrafos do Código Civil.
+A propósito:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. GRUPO ECONÔMICO. CONFUSÃO PATRIMONIAL. REQUISITOS NECESSÁRIOS. DECISÃO MONOCRÁTICA QUE ACOLHEU PRELIMINAR DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL E ERRO DE PREMISSA DE JULGAMENTO PELA CORTE LOCAL. AGRAVO INTERNO IMPROVIDO.
+I. Caso em exame1. Agravo interno interposto contra decisão monocrática que reconsiderou deliberação da Presidência do STJ, conheceu do agravo em recurso especial e deu-lhe provimento para cassar o acórdão embargado e o acórdão recorrido, determinando o retorno dos autos ao Tribunal de origem para rejulgamento da apelação à luz da jurisprudência do STJ.
+2. A decisão monocrática reconheceu a ausência de vício no preparo recursal, considerando o recolhimento em dobro e a dispensa do porte de remessa e retorno em autos eletrônicos, nos termos do art. 1007, § 3º, do CPC.
+3. A decisão também apontou negativa de prestação jurisdicional e erro de premissa de julgamento pelo Tribunal de origem, que não se manifestou sobre a alegação de que a empresa agravada teria deixado o grupo econômico antes da prestação de serviços e do ajuizamento da execução.
+4. A decisão destacou que a desconsideração da personalidade jurídica exige demonstração de abuso da personalidade jurídica, caracterizado por desvio de finalidade ou confusão patrimonial, não presumível pela mera existência de grupo econômico.
+II. Questão em discussão
+5. Há duas questões em discussão: (i) saber se o preparo recursal foi devidamente comprovado, considerando a dispensa do porte de remessa e retorno em autos eletrônicos; e (ii) saber se a desconsideração da personalidade jurídica pode ser decretada com base na mera existência de grupo econômico, sem demonstração de abuso da personalidade jurídica ou confusão patrimonial.
+III. Razões de decidir
+6. O preparo recursal foi considerado adequado, com recolhimento em dobro e dispensa do porte de remessa e retorno, conforme art. 1007, § 3º, do CPC.
+7. A desconsideração da personalidade jurídica é medida excepcional que exige comprovação de abuso da personalidade jurídica, caracterizado por desvio de finalidade ou confusão patrimonial, nos termos do art. 50 do Código Civil.
+8. A mera existência de grupo econômico não autoriza, por si só, a desconsideração da personalidade jurídica ou a solidariedade obrigacional entre empresas, conforme jurisprudência do STJ.
+9. A negativa de prestação jurisdicional foi reconhecida, pois o Tribunal de origem não analisou a alegação de que a empresa agravada teria deixado o grupo econômico antes da prestação de serviços e do ajuizamento da execução.
+IV. Dispositivo 10. Resultado do Julgamento: Agravo interno improvido.
+(AgInt nos EDcl no AgInt no AREsp n. 2.372.810/AM, relator Ministro Marco Buzzi, Quarta Turma, julgado em 13/10/2025, DJEN de 16/10/2025.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. AGRAVO DE INSTRUMENTO. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. PRESCRIÇÃO. REJEIÇÃO EM DECISÃO SANEADORA. RECORRIBILIDADE IMEDIATA. AGRAVO DE INSTRUMENTO (CPC, ART. 1.015, II). PRECLUSÃO. OCORRÊNCIA. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. GRUPO ECONÔMICO. ABUSO DA PERSONALIDADE JURÍDICA. CONFIGURAÇÃO. REEXAME. INVIABILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não há cerceamento de defesa quando o julgador, ao constatar nos autos a existência de provas suficientes para o seu convencimento, indefere pedido de produção de prova oral, tendo em vista que cabe ao juiz decidir sobre os elementos necessários à formação de seu entendimento, pois, como destinatário da prova, é livre para determinar as provas necessárias ou indeferir as inúteis ou protelatórias, motivadamente.
+2. "A abordagem da matéria relativa à prescrição em decisão interlocutória, sob a égide do CPC/2015, deve ser atacada por Agravo de Instrumento, sob pena de preclusão" (AgInt no REsp 1.931.519/SP, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 30/8/2021, DJe de 2/9/2021).
+3. Nos termos da jurisprudência desta Corte, a existência de grupo econômico não autoriza, por si só, a solidariedade obrigacional ou a desconsideração da personalidade jurídica, que somente é admitida quando ficar caracterizado desvio de finalidade ou confusão patrimonial (CC/2002, art. 50).
+4. No caso, o eg. Tribunal de Justiça concluiu que ficou comprovado que a sociedade agravante era utilizada de forma dolosa pelos sócios para prejudicar os investidores de fundos criados pela instituição financeira e por eles administrados por meio da captação e destinação indevida dos recursos dos investidores para a aquisição de títulos que beneficiavam tão somente o conglomerado, em prejuízo dos investidores, ficando caracterizado o abuso de personalidade por meio de desvio de finalidade. A reforma desse entendimento demandaria o reexame das provas dos autos, providência inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.089.776/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 7/4/2025, DJEN de 11/4/2025.)
+A Corte estadual, no caso concreto, manteve a desconsideração da personalidade jurídica sob o fundamento de que:
+"(..) conforme documentação adunada aos autos pelo exequente, nos autos de origem, a executada e as demais empresas apresentam os mesmos sócios diretores.
+É de conhecimento público que referidas empresas fazem parte do mesmo grupo empresarial e, portanto, estão sujeitas à aplicação da Teoria da Aparência, razão pela qual se mostra cabível o redirecionamento da execução.
+Sobre a notoriedade desta relação, registro, por oportuno, que na decisão combatida, o Magistrado, imbuído de prudência, explanou matérias de jornais eletrônicos, onde se dá conta da publicidade do referido grupo econômico.
+Observa-se ainda que todas as empresas outorgaram poderes aos mesmos causídicos com o fim de formularem sua Defesa.
+Diante de tudo o que foi relatado e considerando o vasto conjunto probatório adunado aos autos pela parte exequente, ora agravada, faz-se imperioso concluir que a Fazenda Cana de Açúcar Taquari se trata de uma empresa que não só faz parte do grupo econômico Samam, como também é uma empresa controlada pelo respectivo grupo" (e-STJ, fl. 138).
+Cabe à Corte de origem, portanto, reexaminar a questão, adstrita às alegações das partes e às questões que possa conhecer de ofício, e aplicar o direito cabível à espécie, atentando-se aos requisitos próprios da desconsideração da personalidade jurídica pelo direito comum ou, em havendo relação de consumo, nos termos do artigo 28 do Código de Defesa do Consumidor.
+Ressalte-se que é legítima a determinação de retorno dos autos por esta Corte Superior quando não for possível a aplicação do direito à espécie por deficiência no exame de questões fáticas pelas instâncias inferiores, imprescindíveis à solução da controvérsia.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. MEDIDAS EXECUTIVAS ATÍPICAS. ART. 139, IV, DO CPC/15. CONSTITUCIONALIDADE. ADI N. 5.941/DF. NECESSIDADE DE ESGOTAMENTO DAS DILIGÊNCIAS ORDINÁRIAS, INDÍCIOS DE OCULTAÇÃO DE PATRIMÔNIO E ADEQUAÇÃO DA MEDIDA, À LUZ DA PROPORCIONALIDADE E RAZOABILIDADE. RETORNO DOS AUTOS À ORIGEM PARA APLICAÇÃO DO ENTENDIMENTO JURISPRUDENCIAL. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça orienta-se no sentido de ser legítima a adoção de medidas executivas indiretas, com base no artigo 139, IV, do CPC/15, temporariamente, após o esgotamento dos meios ordinários e típicos, dada a subsidiariedade do instituto, sempre sob o crivo do contraditório e desde que o devedor possua indícios de ocultação de patrimônio, visto que o intuito é impedir a frustração voluntária do processo executivo e não a punição do devedor em decorrência da ausência de bens.
+2. É possível, excepcionalmente, deixar de aplicar o direito à espécie quando, para isso, depender de análise de matéria fática, com o retorno dos autos à origem.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.627.209/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 1/7/2024, DJe de 3/7/2024.)
+Não consta nos autos a petição inicial que provocou o incidente de desconsideração jurídica para que esta Corte Superior pudesse ao menos verificar se alegações da parte seriam aptas a conduzi-la.
+Em face do exposto, dou parcial provimento ao agravo interno para determinar o retorno dos autos ao Tribunal local a fim de que reexamine a questão, nos termos da fundamentação supra. Sucumbência ao final.
+É como voto.
