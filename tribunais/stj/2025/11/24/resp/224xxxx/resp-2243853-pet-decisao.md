@@ -1,0 +1,19 @@
+DECISÃO
+Examina-se requerimento de concessão de efeito suspensivo ao recurso especial formulado por MARIA DEIZE CAMILO JORGE.
+Alega a requerente, em síntese, que, na instância de origem, o processo encontra-se na fase de cumprimento provisório de sentença, em que pese inexistir na hipótese título líquido, certo e exigível. Refere que a execução provisória tem por objeto a demolição de muro divisório, medida que, caso determinada, poderá acarretar efeitos irreversíveis e tornar inócuo o resultado do julgamento a ser proferido em sede de recurso especial. Sustenta inexistir qualquer urgência em relação à demolição da estrutura, que permanece íntegra e não acarreta qualquer tipo de risco. Assinala que a parte adversa não apresentou orçamento detalhado acerca dos custos envolvidos na demolição do muro. Aduz estarem presentes os requisitos do fumus boni juris e do periculum in mora. Pede o acolhimento, com a suspensão do cumprimento provisório de sentença (e-STJ fls. 2.382-2.410).
+É O RELATÓRIO. DECIDE-SE.
+A concessão de efeito suspensivo a recurso especial depende da comprovação tanto do risco de dano grave, de difícil ou impossível reparação (periculum in mora), quanto da probabilidade de provimento do recurso (fumus boni juris), nos termos dos artigos 995, parágrafo único, e 1.029, § 5º, I, do CPC.
+Nesse sentido: AgRg na MC 18.414/RJ, Terceira Turma, DJe 5/10/2011; AgInt no TP 363/PE, Quarta Turma, DJe 10/5/2017; MC 15.726/SP, Primeira Turma, DJe 12/5/2010.
+Com efeito, a concessão da tutela provisória deve possuir caráter excepcional, ocorrendo sempre que necessário para impedir o perecimento do direito e a consequente inutilidade do provimento jurisdicional.
+Na hipótese sob julgamento, no entanto, a requerente não logrou êxito em comprovar os requisitos indispensáveis ao deferimento da tutela de urgência.
+A pura e simples possibilidade de prosseguimento da ação na instância de origem, em fase de cumprimento provisório de sentença, não basta para evidenciar o perigo na demora, uma vez que a legislação processual civil prevê a possibilidade de utilização de uma série de meios pelos quais a parte pode eventualmente se insurgir contra decisões que a afetarem no curso do procedimento.
+De qualquer modo, a alegação genérica de que poderão ser praticados atos processuais contrários aos interesses da requerente não basta para caracterizar o perigo na demora.
+Uma vez afastada a possibilidade de concessão do efeito suspensivo sob a ótica do periculum in mora, é desnecessário o exame da questão controvertida sob a perspectiva do fumus boni juris e da eventual viabilidade do recurso especial.
+Ressalva-se, por fim, a possibilidade de requerimento ao juízo competente em primeiro grau de jurisdição, que, sob todos os aspectos, está em melhores condições para apreciar os argumentos da requerente a respeito da ausência dos pressupostos necessários a eventual determinação de demolição do muro divisório.
+Forte nessas razões, INDEFIRO o pedido de concessão de efeito suspensivo ao recurso especial.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos artigos 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. REQUERIMENTO DE CONCESSÃO DE EFEITO SUSPENSIVO A RECURSO ESPECIAL. PERICULUM IN MORA E FUMUS BONI JURIS. REQUISITOS CUMULATIVOS. NÃO DEMONSTRAÇÃO.
+1. A concessão de efeito suspensivo a recurso especial ou agravo em recurso especial depende da presença cumulativa do risco de dano grave, de difícil ou impossível reparação (periculum in mora) decorrente da decisão recorrida e a da probabilidade de provimento do recurso (fumus boni juris), requisitos não presentes na espécie.
+2. Pedido indeferido.
