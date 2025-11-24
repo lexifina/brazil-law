@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo (fls. 409/417), manejado pelo Estado de Minas Gerais, desafiando decisão do Tribunal de Justiça do Estado de Minas Gerais, que negou seguimento ao recurso especial quanto ao Tema 1.191 deste STJ e não admitiu recurso especial com base nos seguintes fundamentos: (I) ausência de violação aos arts. 489 e 1.022 do CPC; e (II) aplicação da Súmula 283/STF quanto à alegação de ofensa ao art. 170 do CTN; e (III) nova incidência da Súmula 283/STF quanto às demais questões suscitadas no apelo nobre.
+Nas razões do agravo, a parte sustenta que: (I) "nenhuma das omissões e contradições apontadas foi sanada pelo r. acórdão recorrido, como se o precedente do Pretório Excelso tivesse solucionado estes pontos, o que NÃO ocorreu no julgamento do
+RE 593.849/MG" (fl. 414); (II) "equivoca-se a decisão agravada, também, ao aduzir que seu recurso especial não teria atacado os fundamentos das decisões guerreadas e, portanto, atrairia a incidência do enunciado n. 283, da Súmula do STF. Carece de sentido este argumento, porquanto o ente público, a todo tempo, demonstra que, ao contrário do consignado no acórdão recorrido, ele negou vigência ao art. 170 do CTN" (fl. 415); e (III) ainda sobre a Súmula 283/STF "quanto ao art. 5º, inciso XXXV da Constituição da República, o ente público Agravante evitou a todo custo invocá-la, justamente para não incorrer no óbice de admissão. Portanto, referindo-se o recurso, a todo tempo, aos equívocos do acórdão agravado, pugna por sua reforma" (fl. 417).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Do exame atento dos autos, nota-se que a parte agravante interpôs dois recursos de agravo em recurso especial contra a mesma decisão monocrática de fls. 344/348, conforme Petições de fls. 369/377e 409/417.
+Dessa forma, não é possível conhecer do segundo apelo, pois é firme o entendimento desta Corte no sentido de que "interpostos dois recursos pela mesma parte contra a mesma decisão, não se conhece daquele apresentado em segundo lugar" (AgRg no AREsp 191.042/RS, Relator Ministro João Otávio de Noronha, Terceira Turma, DJe de 25.06.2014).
+Isso porque, em razão do princípio da unirrecorribilidade recursal, para cada provimento judicial, admite-se apenas um recurso, ocorrendo a preclusão consumativa quanto ao que for deduzido posteriormente.
+Nesse sentido, destaca-se:
+PROCESSUAL CIVIL. IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA. INTERPOSIÇÃO DE SEGUNDO RECURSO DE MESMO TEOR. PRECLUSÃO CONSUMATIVA.
+1. Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. A teor do que dispõem o art. 1.021, § 1º, do CPC/2015 e a Súmula 182 do STJ, a parte deve infirmar, nas razões do agravo interno, todos os fundamentos da decisão atacada, sob pena de não ser conhecido o seu recurso.
+3. Hipótese em que a recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, os motivos da decisão ora agravada.
+4. Não merece conhecimento a segunda peça de agravo interno, de idêntico teor, tendo em vista que "a interposição de dois recursos pela mesma parte e contra a mesma decisão impede o conhecimento do segundo recurso, haja vista a preclusão consumativa e o princípio da unirrecorribilidade das decisões" (AgRg no REsp n. 1.508.048/PR, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/5/2015, DJe 22/6/2015).
+5. Agravos internos não conhecidos.
+(AgInt no AREsp 872.839/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, julgado em 24/04/2018, DJe 29/05/2018)
+ANTE O EXPOSTO, não conheço do agravo de fls. 409/417.
+Publique-se.
+EMENTA
