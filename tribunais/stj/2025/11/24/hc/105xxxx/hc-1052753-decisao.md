@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ADILSON OLIVEIRA DA ROSA, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul (n. 5178330-50.2025.8.21.7000).
+Consta dos autos que o paciente teve a prisão preventiva decretada, denunciado pela suposta prática dos crimes de tráfico de entorpecentes e organização criminosa.
+Contra a decisão, foi impetrada habeas corpus na origem. Contudo, o Tribunal estadual denegou a ordem, conforme a ementa a seguir (e-STJ fl. 156):
+HABEAS CORPUS. TRÁFICO DE ENTORPECENTES E ASSOCIAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. NÃO CONHECIMENTO DO WRIT QUANTO À MATERIALIDADE, INDÍCIOS DE AUTORIA, PREDICADOS PESSOAIS DO PACIENTE E SUA SITUAÇÃO DE SAÚDE. QUESTÕES RECENTEMENTE ANALISADAS PELO COLEGIADO, NO JULGAMENTO DO HABEAS CORPUS N. 5055010-60.2025.8.21.7000. RELATIVAMENTE AO PERICULUM LIBERTATIS, ARGUMENTAM AS IMPETRANTES QUE HÁ ELEMENTO NOVO A SER AVALIADO. ALEGAM QUE TOMARAM CONHECIMENTO DE QUE O PACIENTE POSSUÍA REGISTROS DE UM HOMÔNIMO EM SEUS ANTECEDENTES E QUE NÃO SE TRATA DE ACUSADO REINCIDENTE EM CRIMES GRAVES. A ALEGAÇÃO DE HOMÔNIMO, POR SI SÓ, NÃO AFASTA A CONTEMPORANEIDADE, PORQUE DEVERÁ SER AVALIADA DE FORMA DETALHADA, EM PRIMEIRA INSTÂNCIA, EM VISTA DA EXTREMA GRAVIDADE DOS DELITOS PELOS QUAIS O PACIENTE FOI DENUNCIADO, BEM COMO PELO FATO DE QUE ESTAVA FORAGIDO ATÉ 06/06/2025. PERMANECEM OS MOTIVOS PELOS QUAIS FOI DECRETADA A CUSTÓDIA PREVENTIVA DO PACIENTE, DEVENDO SER DENEGADA A ORDEM, NA PARTE EM QUE CONHECIDA. HABEAS CORPUS PARCIALMENTE CONHECIDO E DENEGADO.
+Na presente oportunidade, a defesa sustenta que o decreto constritivo seria desproporcional, genérico e careceria de fundamentação concreta, estando ausentes os requisitos do art. 312 do Código de Processo Penal.
+Afirma que o denunciado é primário, possui residência fixa, trabalho lícito, além de possuir filha recém-nascida que dele depende para sustento e cuidados, já que a mãe está com quadro de depressão.
+Sustenta que foi comprovado a existência de homônimo nos registros de antecedentes, que afastam a conclusão de reincidência e alteram substancialmente o panorama fático considerado na decisão anterior (e-STJ fl. 5).
+Aponta, ainda, a ausência de contemporaneidade da prisão, argumentando que, embora a preventiva tenha sido decretada em 9/7/2024, o paciente só foi capturado em 6/6/2025, período durante o qual não há registro de qualquer nova prática delitiva.
+Aduz não haver motivação idônea para afastar a aplicação de medidas cautelares alternativas, previstas no art. 319 do CPP, as quais seriam suficientes.
+Requer, liminarmente e no mérito, o relaxamento ou a revogação da prisão preventiva, expedindo-se alvará de soltura em favor do paciente, ainda que mediante a imposição de medidas cautelares diversas (e-STJ fl. 2/11).
+É o relatório. Decido.
+Não há como prosseguir a irresignação.
+No caso, o presente habeas corpus configura reiteração do HC 1.034.721/RS, registrado antes no sistema desta Corte, porquanto, o impetrante é o mesmo, apresenta o mesmo pedido e causa de pedir, além de ter sido impetrado perante o mesmo ato coator - acórdão no writ n. 5178330-50.2025.8.21.7000/RS.
+Cumpre destacar que "é pacífico o entendimento firmado nesta Corte de que não se conhece de habeas corpus cuja questão já tenha sido objeto de análise em oportunidade diversa, tratando-se de mera reiteração de pedido" (AgRg no HC n. 531.227/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 10/9/2019, DJe 18/ 9/2019).
+Nesse sentido:
+AGRAVO REGIMENTAL. HABEAS CORPUS. PRISÃO PREVENTIVA. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. MERA REITERAÇÃO DE PEDIDO (HC N.º 316.928/GO). INADMISSIBILIDADE. PRECEDENTES DESTA CORTE.
+1. Deve ser mantida por seus próprios fundamentos a decisão monocrática que negou seguimento ao writ, porquanto a questão relativa ao excesso de prazo na formação da culpa já foi objeto de apreciação por parte deste Tribunal Superior, quando da impetração do HC n.º 316.928/GO, de minha relatoria, cuja liminar foi indeferida em 24/2/2015 e cujo julgamento está designado para a data de 1º/9/2015.
+2. Agravo regimental improvido. (AgRg no RCD no HC n.º 329.224/GO, Relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 1º /9/2015, DJe 22/9/2015).
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.
+Intimem-se.
+EMENTA
