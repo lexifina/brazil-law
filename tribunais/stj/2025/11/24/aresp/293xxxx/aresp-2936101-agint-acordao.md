@@ -1,0 +1,90 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/11/2025 a 24/11/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE CONHECEU DO AGRAVO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+INSURGÊNCIA DA PARTE AUTORA.
+1. Na linha dos precedentes do STJ, os argumentos apresentados em momento posterior à interposição do recurso especial não são passíveis de conhecimento por importar inovação recursal, indevida em virtude da preclusão consumativa.
+2. Para que se configure o prequestionamento da matéria, há que se extrair do acórdão recorrido pronunciamento de tese jurídica em torno dos dispositivos legais tidos como violados, a fim de que se possa, nesta instância especial, definir se foi correta a interpretação conferida à legislação federal.
+3. Nos termo da jurisprudência desta Corte, não há como aferir eventual ofensa ao art. 373 do CPC sem que se verifique o conjunto probatório dos presentes autos. A pretensão de simples reexame de provas, além de escapar da função constitucional deste Tribunal, encontra óbice na Súmula 7/STJ.
+4. Agravo interno desprovido.
+RELATÓRIO
+Cuida-se de agravo interno interposto por MEIRYONE GUIMARÃES MIRANDA LEAL e TIAGO VIANA LEAL, contra decisão monocrática da lavra deste signatário que conheceu do agravo para não conhecer do recurso especial da ora insurgente.
+O apelo extremo Cuida-se de Agravo apresentado por MEIRYONE GUIMARAES MIRANDA LEAL e OUTRO à decisão que não admitiu seu Recurso Especial. O apelo, fundamentado no artigo 105, III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO , assim resumido:
+APELAÇÃO CÍVEL. IMOBILIÁRIO. REGIME DE CONSTRUÇÃO. PROVA UNILATERAL DO SUPERFATURAMENTO. CUSTOS DA OBRA E ANUÊNCIA EM ASSEMBLEIA DA COMISSÃO DE REPRESENTANTES, 1. TRATA-SE DE APELAÇÃO CÍVEL MANEJADA PELOS AUTORES EM FACE DE UMA SENTENÇA QUE, EMBORA RECONHECENDO A PRESCRIÇÃO TRIENAL, APRECIOU O MÉRITO E AS PROVAS DOS AUTOS, CULMINANDO NA IMPROCEDÊNCIA DO PEDIDO. 2. O CASO CONCRETO EM SI CONSISTE NUMA DEMANDA NA QUAL OS AUTORES, ORA APELANTES, BUSCANDO DESCONFIGURAR O REGIME DE CONSTRUÇÃO POR ADMINISTRAÇÃO, PRETENDEM A RESTITUIÇÃO DO QUE ASSEVERAM TEREM PAGADO A MAIOR, O QUE SEJA, UM VALOR FRUTO DE SUPERFATURAMENTO. 3. COM EFEITO, O DOCUMENTO JUNTADO PELOS APELANTES, COM O OBJETIVO DE CORROBORAR O SUPERFATURAMENTO QUE ALEGARAM, REVELA PROVA UNILATERAL, NÃO FOI PRODUZIDA DENTRO DO PROCESSO POR EXPERT IMPARCIAL DE CONFIANÇA DO JUÍZO, E SOB O CRIVO DOS PRINCÍPIOS DO CONTRADITÓRIO E AMPLA DEFESA, PELO QUE NÃO PODE SER ADMITIDO PARA ACOLHIMENTO DO PEDIDO. 4. ALÉM DISSO, O VALOR DE INTERESSE DOS AUTORES QUE O ATRELAM A IDÉIA DE SUPERFATURAMENTO, A RIGOR, ESTÁ NO BOJO DOS CUSTOS DA OBRA QUE TIVERAM A ANUÊNCIA, EM ASSEMBLEIA, DA COMISSÃO DE REPRESENTANTES, O QUE, À LUZ DA BOA-FÉ OBJETIVA, VINCULA OS AUTORES. 5. RECURSO DESPROVIDO.
+Os embargos de declaração opostos na origem foram rejeitados (fls. 1099-1104, e-STJ).
+Em seu recurso especial, a parte insurgente apontou, além do dissídio jurisprudencial, violação aos arts. 2º, 3º, §2º, 6º e 27, todos do CDC; 206, §3º, do CC e 373, I, do CPC.
+Sustentou, em síntese, que a relação dos autos, que envolve "contrato inicialmente apresentado como de construção por administração apresenta características típicas de incorporação direta, como a gestão direta das frações e dos valores pelos responsáveis pela obra, retirando dos adquirentes o poder de administração financeira do projeto" (fl. 1122, e-STJ) é de consumo. Assim, o prazo prescricional da pretensão indenizatória é o quinquenal, conforme previsto na legislação consumerista.
+Ademais, há, nos autos, provas que evidenciam superfaturamento e má-fé da parte contrária e a análise das provas deve observar a vulnerabilidade técnica e informacional do consumidor.
+Em decisão singular (fls. 1189-1195, e-STJ), conheceu-se do agravo para não conhecer do recurso especial, ante: a) ausência de prequestionamento das teses federais, com incidência das Súmulas 282/STF e 356/STF, bem como inexistência de cotejo analítico apto a demonstrar a divergência jurisprudencial; b) incidência da Súmula 7/STJ quanto à pretensão de reexame do acervo fático-probatório relativo ao alegado superfaturamento, o que também prejudicou o dissídio jurisprudencial.
+Daí o presente agravo interno (fls. 1199-1206, e-STJ), no qual a parte agravante sustenta violação ao artigo 1.022 do CPC por omissão do acórdão a quo quanto ao reconhecimento da relação de consumo e aplicação do prazo quinquenal do art. 27 do CDC; inaplicabilidade da Súmula 7/STJ por se tratar de valoração jurídica de fatos incontroversos; necessidade de reconhecimento da relação de consumo entre as partes e, por consequência, da prescrição quinquenal; e error in judicando na qualificação jurídica dos elementos de prova já constantes dos autos, inclusive quanto à gestão financeira direta pelas rés, emissão de boletos em nome das rés e inexistência de conta específica do condomínio, com distribuição adequada do ônus probatório (art. 373, I, do CPC).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE CONHECEU DO AGRAVO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+INSURGÊNCIA DA PARTE AUTORA.
+1. Na linha dos precedentes do STJ, os argumentos apresentados em momento posterior à interposição do recurso especial não são passíveis de conhecimento por importar inovação recursal, indevida em virtude da preclusão consumativa.
+2. Para que se configure o prequestionamento da matéria, há que se extrair do acórdão recorrido pronunciamento de tese jurídica em torno dos dispositivos legais tidos como violados, a fim de que se possa, nesta instância especial, definir se foi correta a interpretação conferida à legislação federal.
+3. Nos termo da jurisprudência desta Corte, não há como aferir eventual ofensa ao art. 373 do CPC sem que se verifique o conjunto probatório dos presentes autos. A pretensão de simples reexame de provas, além de escapar da função constitucional deste Tribunal, encontra óbice na Súmula 7/STJ.
+4. Agravo interno desprovido.
+VOTO
+O agravo interno não merece acolhida, porquanto os argumentos tecidos pela parte agravante são incapazes de infirmar a decisão objurgada, motivo pelo qual merece ser mantida na íntegra por seus próprios fundamentos.
+1. No presente agravo interno, a insurgente sustenta violação ao artigo 1.022 do CPC por omissão do acórdão a quo quanto ao reconhecimento da relação de consumo e aplicação do prazo quinquenal do art. 27 do CDC
+Todavia, tais alegações não foram suscitadas nas razões do recurso especial. Trata-se, portanto, de indevida inovação recursal, o que inviabiliza o conhecimento da matéria.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. IMPENHORABILIDADE DO SALÁRIO. RECURSO ESPECIAL. ALEGAÇÃO DE OFENSA AO MÍNIMO EXISTENCIAL. AGRAVO. TESE ACERCA DA IMPOSSIBILIDADE EM ABSOLUTO DA PENHORA. INOVAÇÃO RECURSAL. AGRAVO INTERNO NÃO CONHECIDO.
+1. Não é admissível o agravo interno em que se apresentam teses não expostas no recurso especial. Inovação recursal que impede o conhecimento do recurso.
+ ..
+4. Agravo interno não conhecido.
+(AgInt no REsp n. 1.989.365/PR, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 20/3/2023, DJe de 23/3/2023.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE COTAS CONDOMINIAIS EM FASE DE EXECUÇÃO CONTRA EMPRESA EM RECUPERAÇÃO JUDICIAL. SUSPENSÃO. DESCABIMENTO. VIOLAÇÃO AO ART. 1.022 DO CPC. AUSÊNCIA. ENTENDIMENTO DOMINANTE NESTA CORTE. SÚMULA 83/STJ. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. INOVAÇÃO EM AGRAVO INTERNO. IMPOSSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+4. Não se admite a adição, em sede de agravo interno, de teses não expostas no recurso especial, por importar em inadmissível inovação.
+5. Agravo interno a que se nega provimento.
+(AgInt no AgInt no AREsp n. 2.040.618/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 20/3/2023, DJe de 23/3/2023.)
+2. A parte insurgente apontou violação à lei federal ao argumento de que a relação dos autos, que envolve "contrato inicialmente apresentado como de construção por administração apresenta características típicas de incorporação direta, como a gestão direta das frações e dos valores pelos responsáveis pela obra, retirando dos adquirentes o poder de administração financeira do projeto" (fl. 1122, e-STJ) é de consumo. Assim, o prazo prescricional da pretensão indenizatória é o quinquenal, previsto na legislação consumerista.
+Nos termos da jurisprudência deste Tribunal Superior, "o conhecimento do recurso especial exige que a tese recursal e o conteúdo normativo apontado como violado tenham sido objeto de efetivo pronunciamento por parte do Tribunal de origem" (AgInt no AREsp n. 2.500.948/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 20/5/2024, DJe de 23/5/2024).
+Ou seja, prequestionamento significa pronunciamento fundamentado pelo órgão julgador sobre a controvérsia.
+No mesmo sentido, citam-se: AgInt nos EDcl no REsp n. 2.051.325/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 24/6/2024, DJe de 26/6/2024; AgInt no AREsp n. 2.277.360/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 12/6/2023, DJe de 19/6/2023; e, AgInt no REsp n. 1.973.165/TO, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 20/3/2023, DJe de 24/3/2023.
+É certo que não há necessidade de referência expressa ao dispositivo de lei para que se considere prequestionada a matéria, bastando que a questão jurídica debatida no recurso especial tenha sido enfrentada pelo acórdão recorrido.
+Trata-se do prequestionamento implícito: pronunciamento sobre a matéria, pelo órgão julgador, sem menção expressa ao dispositivo legal.
+Nesse sentido: AgInt nos EDcl no AREsp n. 2.195.310/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 23/9/2024, DJe de 26/9/2024; AgInt no AREsp n. 2.292.733/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 19/8/2024, DJe de 22/8/2024; AgInt nos EDcl no REsp n. 2.084.034/CE, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 24/6/2024, DJe de 27/6/2024; e, AgInt no REsp n. 2.037.732/AL, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 17/6/2024, DJe de 20/6/2024.
+Não se confunde, portanto, prequestionamento implícito com a mera alegação da matéria pela parte.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. DESAPROPRIAÇÃO POR INTERESSE SOCIAL, PARA FINS DE REFORMA AGRÁRIA. INTERVENÇÃO ANÔMALA DA UNIÃO NO PROCESSO. INTERESSE ECONÔMICO. INGRESSO ADMITIDO. NULIDADE DO PROCESSO. AUSÊNCIA DE INTIMAÇÃO PESSOAL. FALTA DE PREQUESTIONAMENTO. REVISÃO DE MATÉRIA FÁTICO- PROBATÓRIA. IMPOSSIBILIDADE. PREJUÍZO NÃO DEMONSTRADO.
+ ..
+6. Não configurado o prequestionamento implícito defendido nas razões de agravo interno, visto que não se trata de mera ausência de citação do dispositivo de lei federal no acórdão recorrido, mas sim de falta de manifestação sobre a própria tese recursal, tampouco se permite o reconhecimento do prequestionamento ficto previsto no art. 1.025 do CPC/2015, pois não se apontou violação do art. 1.022 do CPC/2015 nas razões do recurso especial, conforme exige a jurisprudência desta Corte de Justiça.
+ ..
+9. Agravo interno desprovido.
+(AgInt nos EDcl no AgInt no REsp n. 1.456.230/CE, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 23/9/2024, DJe de 27/9/2024.)
+Ademais, o reconhecimento do prequestionamento ficto (quando se considera prequestionada a matéria mesmo sem efetivo pronunciamento do órgão julgador), conforme jurisprudência deste STJ, somente é possível quando o recurso especial aponta violação ao art. 1.022 do CPC/15 e indica, de forma precisa, a ocorrência de vício no acórdão recorrido especificamente sobre a controvérsia.
+Ou seja, somente quando alegada e reconhecida eventual ofensa ao artigo 1.022 do CPC/15 é possível a aplicação do disposto no artigo 1.025 da norma processual (prequestionamento ficto).
+Nesse sentido: REsp n. 2.163.764/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 15/10/2024, DJe de 17/10/2024; AgInt no AREsp n. 2.528.396/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 2/9/2024, DJe de 4/9/2024; AgInt no REsp n. 1.863.790/PR, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 6/8/2024, DJe de 23/8/2024; e, AgInt no AREsp n. 2.397.511/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 17/6/2024, DJe de 19/6/2024.
+Na hipótese, o Tribunal de origem não emitiu pronunciamento a respeito da controvérsia trazida a esta Corte Superior, em que pese a oposição de embargos de declaração.
+Logo, inviável conhecer o recurso especial, pois ausente o requisito constitucional do prequestionamento, conforme óbice das Súmulas 282 e 356 do STF.
+Não há falar, igualmente, em prequestionamento ficto, pois não preenchidos os requisitos para aplicação do artigo 1.025 do CPC/15.
+3. A parte insurgente apontou ainda, vioolação ao art. 373, I, do CPC, ao argumento de que o acórdão recorrido desconsiderou as provas juntadas aos autos que evidenciariam superfaturamento e má-fé por parte das recorridas.
+No caso dos autos, após análise do acervo fático-probatório, o Tribunal local entendeu que a prova produzida nos autos não observou o contraditório e ampla defesa, motivo pelo qual não pôde ser considerada.
+É, aliás, o que se observa do seguinte excerto do acórdão guerreado (fl. 828, e-STJ):
+Data venia, andou bem a magistrada de primeiro grau ao julgar improcedente o pedido dos autores.
+Com efeito, o documento trazido pelos autores para corroborar o alardeado superfaturamento é uma prova unilateral, não foi produzida dentro do processo por Expert imparcial de confiança do Juízo sob o crivo do contraditório e da ampla defesa, pelo que não pode ser admitido para acolhimento do pedido. A propósito, na jurisprudência vide por todos:
+ ..
+Vale destacar o seguinte trecho da decisão constante no índice 659: "Diante do desinteresse das partes de produzirem outras provas, declaro finda a instrução processual" (fls. 1.025-1.027).
+Sendo assim, para afastar a afirmação contida no acórdão atacado no sentido de que o documento dos autos não é apto a comprovar a alegação da ora agravante, revelar-se-ia necessário o reexame das provas juntadas aos autos, providência vedada na via eleita, por força da Súmula 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSUAL CIVIL. OFENSA AO ARTIGO 1022, II, DO CPC. INOCORRÊNCIA. DENUNCIAÇÃO DA LIDE. INCIDÊNCIA DA SÚMULA 83/STJ. RESPONSABILIDADE CIVIL. ÔNUS DA PROVA. INCIDÊNCIA DA SÚMULA N. 7 DO STJ.
+1. O acórdão recorrido utilizou-se de fundamentação suficiente ao concluir no sentido da efetiva demonstração do fato (ou defeito) do serviço, e ao verificar, com base nas provas dos autos, a ocorrência de falha no fornecimento de segurança da consumidora, atingindo sua incolumidade física e patrimonial.
+2. O acórdão recorrido harmoniza-se à jurisprudência do STJ uma vez que "o entendimento desta Corte Superior é de que, em se tratando de relação de consumo, descabe a denunciação da lide, nos termos do art. 88 do Código de Defesa do Consumidor" (AgInt no AREsp 2.335.690/SP, Relator Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 11/9/2023, DJe de 19/9/2023). Súmula n. 83/STJ.
+3. Afastar a conclusão da origem de que o caso dos autos retrata relação de consumo demandaria evidente reexame das provas dos autos, o que encontra óbice na Súmula n. 7/STJ. Precedentes.
+4. Quanto à apontada violação do artigo 333, inciso I, do CPC/73 e do artigo 373, inciso I, do CPC/2015, em que sustenta que o recorrido não teria se desincumbido do ônus de provar suas alegações, também demanda o reexame de fatos e provas, o que é vedado, em recurso especial, pela Súmula n. 7 do STJ.
+Agravo interno improvido.
+(AgInt no AREsp n. 2.173.164/BA, relator Ministro Humberto Martins, Terceira Turma, julgado em 23/6/2025, DJEN de 26/6/2025.)  grifou-se
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO RECLAMO. INSURGÊNCIA DA RÉ.
+1. Violação ao artigo 1.022 do CPC/15 não configurada. Acórdão estadual que enfrentou todos os aspectos essenciais à resolução da controvérsia de forma ampla e fundamentada, sem omissão, contradição ou obscuridade. Consoante entendimento desta Corte, não importa negativa de prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pela parte recorrente, decidindo de modo integral a controvérsia posta. Precedentes.
+2. "A abordagem da matéria relativa à prescrição em decisão interlocutória, sob a égide do CPC/2015, deve ser atacada por Agravo de Instrumento, sob pena de preclusão." (AgInt no REsp n. 1.931.519/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 30/8/2021, DJe de 2/9/2021). Incidência da Súmula 83/STJ.
+3. Nos termo da jurisprudência desta Corte, não há como aferir eventual ofensa ao art. 373 do CPC/15 sem que se verifique o conjunto probatório dos presentes autos. A pretensão de simples reexame de provas, além de escapar da função constitucional deste Tribunal, encontra óbice na Súmula 7/STJ. Precedentes.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.575.962/PR, relator Ministro Marco Buzzi, Quarta Turma, julgado em 18/11/2024, DJe de 22/11/2024.)  grifou-se
+De rigor, portanto, a manutenção da decisão agravada.
+4. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
