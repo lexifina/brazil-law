@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/11/2025 a 24/11/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira, Marco Buzzi e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. RECONSIDERAÇÃO. AÇÃO DE REINTEGRAÇÃO DE POSSE. AUSÊNCIA DE COMPROVAÇÃO DO ASSENHORAMENTO. SÚMULA 7 DO STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL NÃO CONHECIDO.
+1. O Tribunal a quo asseverou que não houve a devida comprovação da posse anterior, visto que as provas colimadas nos autos demonstram inexistir ato de assenhoramento sobre o imóvel, situação que desautoriza a procedência do pedido de reintegração. A refo rma desse entendimento demandaria o reexame das provas dos autos, providência inviável em sede de recurso especial, nos termos da Súmula 7 deste Pretório.
+2. Agravo interno provido para conhecer do agravo em recurso especial. Recurso especial não conhecido.
+RELATÓRIO
+Trata-se de agravo interno interposto por CUSTÓDIO DOS SANTOS ARAÚJO contra decisão da Presidência do Superior Tribunal de Justiça (e-STJ, fls. 380-381), que não conheceu do agravo em recurso especial, em razão da respectiva intempestividade.
+Nas razões do agravo interno, a parte agravante requer a reconsideração da decisão agravada, alegando, para tanto, que protocolizou o recurso antes do prazo fatal previsto no sistema PJe.
+Foi apresentada impugnação. (e-STJ, fls. 408-413)
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. RECONSIDERAÇÃO. AÇÃO DE REINTEGRAÇÃO DE POSSE. AUSÊNCIA DE COMPROVAÇÃO DO ASSENHORAMENTO. SÚMULA 7 DO STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL NÃO CONHECIDO.
+1. O Tribunal a quo asseverou que não houve a devida comprovação da posse anterior, visto que as provas colimadas nos autos demonstram inexistir ato de assenhoramento sobre o imóvel, situação que desautoriza a procedência do pedido de reintegração. A refo rma desse entendimento demandaria o reexame das provas dos autos, providência inviável em sede de recurso especial, nos termos da Súmula 7 deste Pretório.
+2. Agravo interno provido para conhecer do agravo em recurso especial. Recurso especial não conhecido.
+VOTO
+O agravo interno merece ser provido para reconsiderar a decisão agravada, nos termos da jurisprudência consolidada pelo Superior Tribunal de Justiça, visto que "A falha induzida por informação equivocada prestada por sistema eletrônico de tribunal deve ser levada em consideração, em homenagem aos princípios da boa-fé e da confiança, para a aferição da tempestividade do recurso. Precedentes." (EAREsp 1.759.860/PI, relatora Ministra LAURITA VAZ, Corte Especial, julgado em 16/3/2022, DJe de 21/3/2022.)
+Passa-se ao exame do mérito recursal.
+Trata-se de agravo em recurso especial interposto por CUSTÓDIO DOS SANTOS ARAÚJO contra decisão que inadmitiu seu recurso especial, fundamentado no art. 105, inciso III, "a", da Constituição Federal, contra acórdão proferido pelo eg. Tribunal de Justiça do Estado do Maranhão, assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DE REINTEGRAÇÃO DE POSSE. INDEFERIMENTO. AUSÊNCIA DE COMPROVAÇÃO DO EXERCÍCIO DA POSSE. SENTENÇA MANTIDA.
+I - Para a tutela possessória, é imprescindível a comprovação do exercício da posse pelo autor, conforme disposto no art. 1.196 do Código Civil.
+II - Caso em que o apelante não comprovou ser o proprietário do imóvel, nem demonstrou o exercício anterior da posse. Provas testemunhais que revelaram que o apelante não exercia a posse efetiva do imóvel, o que impossibilita a procedência da ação de reintegração de posse.
+III - A apelada demonstrou ser a possuidora direta do imóvel, com atos de construção e melhorias na área ocupada, devendo ser mantida na posse do imóvel em razão da ausência de prova do domínio fático do bem pelo apelante.
+IV - Apelação conhecida e desprovida." (e-STJ, fl. 260)
+Foram opostos embargos de declaração, parcialmente acolhidos, sem efeitos infringentes, apenas para corrigir erro material no nome de testemunha.
+Em seu recurso especial, o recorrente alega violação dos seguintes dispositivos da legislação federal, com as respectivas teses:
+(i) art. 1.196 do Código Civil, pois houve a demonstração da posse, mesmo que não plena, mediante documentos e depoimentos que indicariam o exercício de poderes inerentes à propriedade, de modo que a negativa de proteção possessória teria desconsiderado o conceito legal de possuidor.
+(ii) art. 1.210 do Código Civil, pois o esbulho foi comprovado, sendo o recorrente titular do direito à reintegração na posse; a manutenção da improcedência afrontou a regra que assegura a restituição ao possuidor em caso de esbulho.
+Foram apresentadas contrarrazões (e-STJ, fls. 324-330).
+O recurso especial foi inadmitido na origem, dando ensejo à interposição do presente agravo.
+Decido.
+O agravante, em seu recurso especial, aduz o seguinte:
+"A fundamentação suscitada pelo Ilustre relator foi na contra mão das provas colacionadas nos autos. o texto legal ao conceituar posse é claro ao afirmar: Art. 1.196. Considera-se possuidor todo aquele que tem de fato o exercício, pleno ou não, de algum dos poderes inerentes à propriedade. o apelante, não perdeu o exercício dos poderes inerentes a propriedade. o texto legal diz: exercício pleno ou não, o recorrente provou nos autos que conservou o exercício não pleno. Acostou nos autos documentos que não deixaram duvida que tinha de fato o exercício (pleno ou não) de algum dos poderes da propriedade. isso foi confirmado no depoimento da testemunhal do recorrente, : que Morava la a sete anos atras, que o apelante sempre passava la, a primeira vez que passou la e perguntou se ele ( a testemunha) conhecia alguém que limpava terreno, que limpava o terreno e o apelante pagava.
+O apelante, conforme prova documental confirmada com a prova testemunhal demonstrou que exercia de fato do exercício, pleno ou não, de alguns dos poderes inerentes da propriedade.
+o C. acórdão malferiu lei federal, especificamente, o artigo 1210 do CC, o esbulho ficou amplamente prova. A apelada, se aproveitando de que o imóvel estava desabitado ( não abandonado), entrou na posse e colacionou aos autos simples recibo de compra e venda ( ID). A testemunhal confirma o esbulho ao afirmar: LÉA LÚCIA REIS FURTADO " que e morada da área, que mora desde 2010, que viu a dona diana na c onstrução da casa, que 2020 que conhecia diana, na construção da casa, que chegou a acompanhar a construção da casa, que não sabe quanto tempo durou a construção da casa, que não sabe de quem a dona diana comprou a casa.."
+A testemunhal da apelada JULIANO SOUSA GARCIA - " que a Diana procurou em julho de 2020 para construir uma casa para ela , na área que tinha comprado, que iniciou a construir a casa em julho de 2020, que tem registro fotográfico, que a Diana não acompanha a construção da casa, que já existia uma casa antiga, que construiu no lote em que ela comprou, que ficou 2 meses para construir a casa, que o seu custodia apareceu e disse que era o dono do lote e que era para parar com a construção, que ele falou para dona diana, que nao ccnheceu a pessoa que vendeu o terreno para dona Diana.."
+Conforme as provas colacionadas aos autos ficou configurado que a apelada violou o disposto no artigo,
+Art. 1.210. O possuidor tem direito a ser mantido na posse em caso de turbação, restituído no de esbulho, e segurado de violência iminente, se tiver justo receio de ser molestado.
+(..)
+Superada a discussão do esbulho, o recorrente passa a articular argumentos no tocante a demonstração da posse. Consta no autos o arcabouço probatório de que o recorrente demonstrou a posse do imóvel, inclusive, o imóvel estava Cercado e havia construção no mesmo. Data máxima vênia, mas o douto relator ao entender que o recorrente não demonstrou a posse do imóvel malferiu o dispoto no artigo art. 1.196 do Código Civil." (e-STJ, fl. 316-317)  g.n.
+Por outro lado, a Corte de origem asseverou que não houve a devida comprovação da posse, visto que as provas colimadas nos autos demonstram inexistir ato de assenhoramento pelo recorrente sobre o imóvel, situação que desautoriza a procedência dos pedidos. De fato, divisam-se os seguintes fundamentos extraídos do acórdão recorrido:
+No caso em apreço, não houve comprovação do requisito aludido, eis que as provas colimadas nos autos demonstraram inexistir ato de assenhoramento pelo apelante sobre o bem imóvel supostamente esbulhado, o que desautoriza a procedência dos pedidos.
+Ainda em sede postulatória, confessou na petição inicial ter permanecido afastado da posse do imóvel, o que teria decorrido da necessidade de realizar tratamento de saúde.
+Tal confissão, a princípio, sugeriu a ausência de pleno gozo e fruição do bem imóvel, o que a partir das provas realizadas nos autos foi confirmado.
+Isto, pois, as testemunhas ouvidas em juízo revelaram que o apelante não exercia a posse do bem ao tempo em que ocorrido o suposto ato de ocupação pela apelada.
+A testemunha Alrisvan Pontes Pereira afirmou que soube, através do próprio apelante, que esse "não tinha mais ido ao terreno, porque tinha feito uma operação" (02:50 - mídia de Id 34941362). Disse ainda que o apelante teria lhe oferecido o terreno para venda e que ao visitarem juntos o local, foi que o apelante tomou ciência da ocupação e de que já havia um imóvel edificado.
+A testemunha Cristiana da Rocha Oliveira relatou que residia desde o ano de 2010 na vizinhança do imóvel, mas nunca viu o apelante no local, desconhecendo que seria ele o dito proprietário do terreno (07:10 - mídia de 34941362).
+Finalmente, a testemunha Juliano Sousa Garcia disse em juízo ter sido responsável pela construção do imóvel edificado pela apelada na área em disputa, consignando que o local estava abandonado até que a apelada deu início à obra. Asseverou que levou quase 2 (dois) meses para concluir a obra e somente ao final é que o apelante compareceu no local, alegando ser o proprietário da área (10:20 - mídia de ID 34941362).
+Após apreciar detidamente as provas nos autos, percebo que o apelante não se desincumbiu de seu ônus probatório para demonstrar o efetivo exercício da posse ao tempo da ocupação promovida pela apelada. (fl. 263)
+Como se vê, cinge-se o pleito recursal a reanálise do contexto fático-probatório além de citar, de maneira genérica, artigos do Código Civil. Com efeito, impõe-se, no caso, a incidência da Súmula 7 do STJ, haja vista a vedação ao revolvimento de matéria atinente a provas. Nesse sentido:
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. REEXAME DE PROVAS. SÚMULAS 5 E 7/STJ.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+2. Não se admite o recurso especial quando a questão federal nele suscitada não foi enfrentada no acórdão recorrido. Incidem as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+3. Agravo interno a que se nega provimento."
+(AgInt no REsp 1456759/SC, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 21/11/2019, DJe 03/02/2020)  g.n.
+"PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NULIDADE DE CLÁUSULA ABUSIVA. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+2. No caso concreto, a análise das razões apresentadas pelos recorrentes quanto à existência de abusividade da cláusula contratual de seguro, bem como de venda casada demandaria o reexame da matéria fática, o que é vedado em sede de recurso especial.
+3. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1503980/PR, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 16/12/2019, DJe 19/12/2019)  g.n.
+Ante o exposto, dou provimento ao agravo interno para reconsiderar a decisão agravada e, em nova análise, conheço do agravo para não conhecer do recurso especial.
+Se houver nos autos a prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% (um por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do Có digo de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2.º e 3.º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+É como voto.
