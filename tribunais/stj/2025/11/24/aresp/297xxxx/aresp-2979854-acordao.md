@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/11/2025 a 24/11/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Daniela Teixeira, Nancy Andrighi, Humberto Martins e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ALTERAÇÃO CONTRATUAL. SURRECTIO. BOA-FÉ OBJETIVA. REEXAME DE PROVAS E INTERPRETAÇÃO CONTRATUAL. SÚMULAS 5 E 7 DO STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. A tese de violação da boa-fé objetiva pressupõe superar premissas fáticas fixadas na origem levando em conta a negociação pré-contratual e as cláusulas expressas de exclusão de responsabilidade, atraindo os óbices das Súmulas 5 e 7 do STJ.
+2. A ausência de comprovação adequada do dissídio jurisprudencial, conjugada com a incidência da Súmula 7/STJ, constitui óbice intransponível ao conhecimento do recurso especial.
+3. Agravo conhecido e recurso especial não conhecido.
+RELATÓRIO
+Trata-se de agravo interposto por ARMY ORGANIZAÇÃO DE SERVIÇOS PROFISSIONAIS LTDA. contra a decisão que inadmitiu recurso especial fundado no art. 105, inciso III, alínea c, da Constituição Federal, desafiando o acórdão do Tribunal de Justiça do Estado do Paraná assim ementado (e-STJ, fls. 4.472/4.481):
+APELAÇÃO CÍVEL - DIREITO CIVIL E PROCESSUAL CIVIL - AÇÃO DE COBRANÇA - CONTRATO DE PRESTAÇÃO DE SERVIÇO - MÃO DE OBRA TERCEIRIZADA - INADIMPLEMENTO CONTRATUAL RELATIVO A VERBAS RESCISÓRIAS DOS FUNCIONÁRIOS DA EMPRESA PRESTADORA - SENTENÇA DE IMPROCEDÊNCIA - APELO DA AUTORA - PEDIDO CONTRADITÓRIO DE REVISÃO CONTRATUAL POR ONEROSIDADE EXCESSIVA- AFRONTA AO PRINCÍPIO DA DIALETICIDADE - NÃO CONHECIMENTO TÓPICO - PAGAMENTO, PELA EMPRESA RÉ, DAS VERBAS RESCISÓRIAS DISCUTIDAS DESDE O INÍCIO DO NEGÓCIO JURÍDICO EM VOGA - INSTITUTO DA SURRECTIO - INAPLICABILIDADE - BOA-FÉ OBJETIVA INDEMONSTRADA - FASE PRÉ-CONTRATUAL A REVELAR DEBATES E ULTERIOR EXCLUSÃO DE RESPONSABILIZAÇÃO DA EMPRESA TOMADORA ACERCA DAS VERBAS RESCISÓRIAS - LEI N. 6.019/74, QUE AFASTA A CONFIGURAÇÃO DE RELAÇÃO EMPREGATÍCIA DO TOMADOR DE SERVIÇO --EXCEPCIONALIDADE A ENSEJAR INTERVENÇÃO DO ESTADO NO EXERCICIO DA ATIVIDADE ECONÔMICA NÃO INCIDENTE - HOMENAGEM AO PRINCÍPIO DA LIVRE INICIATIVA - HONORÁRIOS SUCUMBENCIAIS MAJORADOS - TEMA 1.059/STJ - RECURSO CONHECIDO EM PARTE E, NESTA EXTENSÃO, DESPROVIDO .
+Aduz-se no agravo que a decisão (1) aplicou indevidamente as Súmulas 5 e 7 do STJ, pois o recurso especial veiculou apenas dissídio jurisprudencial e revaloração de premissas fáticas incontroversas; (2) baseou-se exclusivamente na Súmula 7 do STJ, sem justificar a incidência da Súmula 5; (3) demandava uniformização sobre a surrectio, a partir de fatos reconhecidos pelo acórdão recorrido (aprovação por dois anos de planilhas com verbas rescisórias); (4) não tratava de interpretação contratual, razão pela qual a Súmula 5 não incidiria.
+É o relatório.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ALTERAÇÃO CONTRATUAL. SURRECTIO. BOA-FÉ OBJETIVA. REEXAME DE PROVAS E INTERPRETAÇÃO CONTRATUAL. SÚMULAS 5 E 7 DO STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. A tese de violação da boa-fé objetiva pressupõe superar premissas fáticas fixadas na origem levando em conta a negociação pré-contratual e as cláusulas expressas de exclusão de responsabilidade, atraindo os óbices das Súmulas 5 e 7 do STJ.
+2. A ausência de comprovação adequada do dissídio jurisprudencial, conjugada com a incidência da Súmula 7/STJ, constitui óbice intransponível ao conhecimento do recurso especial.
+3. Agravo conhecido e recurso especial não conhecido.
+VOTO
+O agravo é tempestivo e impugna de maneira adequada os fundamentos da decisão recorrida. Dele conheço, portanto, passando ao exame do recurso especial, que não prospera.
+Nas razões (e-STJ fls. 4.509/4.518), alega-se que o acórdão recorrido (1) contrariou o art. 105, inciso III, alínea c, da Constituição Federal, por divergir do entendimento do Tribunal de Justiça do Estado de São Paulo sobre a aplicação da surrectio em hipóteses análogas; (2) violou a boa-fé objetiva e o art. 113 do Código Civil, ao desconsiderar a legítima expectativa formada pela aprovação e pagamento, por dois anos, de planilhas e notas com verbas rescisórias.
+(1) Alegada violação à boa-fé objetiva e ao art. 113 do Código Civil
+Assentou-se na origem que a fase pré-contratual estabeleceu, de modo explícito, a exclusão das verbas rescisórias do preço e da responsabilidade da tomadora, com redação final das cláusulas 4.2 e 5.1.1 em termos amplos e inequívocos, após troca de minutas e ajustes solicitados.
+Com base nessa moldura, concluiu-se que não houve boa-fé objetiva capaz de gerar direito novo em favor da prestadora, porque qualquer aprovação administrativa de planilhas dissociada do contrato não poderia criar expectativa legítima contrária a regras expressas previamente pactuadas.
+Para infirmar esse fundamento e admitir que a conduta de pagamento por dois anos subverteria o texto contratual, ao contrário do alegado, seria necessário reinterpretar cláusulas e revolver a prova documental e testemunhal, atraindo o óbice das Súmulas 5 e 7 do STJ. Em outras palavras, a discussão sobre boa-fé objetiva, no contexto concreto delineado, está indissociável das premissas fáticas fixadas, que não podem ser superadas na via especial.
+Ademais, o acórdão recorrido acrescentou que as aprovações administrativas não afastam a legislação aplicável à terceirização, nem geram direito adquirido por práticas contrárias à pactuação expressa. Outrossim, registrou-se inadmissível presumir abdicação de direitos contratualmente fixados quando o próprio iter pré-contratual foi marcado por debate e ajuste explícito de exclusão da responsabilidade da tomadora sobre verbas rescisórias.
+Reconfigurar esse quadro para reconhecer a surrectio implica rediscutir os fatos e reinterpretar o contrato, providências vedadas pelas disposições sumulares supracitadas.
+Nesse sentido:
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRATO DE PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS. HONORÁRIOS CONTRATUAIS. ARBITRAMENTO JUDICIAL. JUROS MORATÓRIOS. INCIDÊNCIA DAS SÚMULAS 83, 5 E 7 DO STJ. AGRAVO INTERNO DESPROVIDO. I. CASO EM EXAME
+ ..  5. A pretensão de afastar cláusula contratual válida e eficaz exige reinterpretação de cláusulas contratuais e reexame do conjunto probatório, o que é vedado em recurso especial pelas Súmulas 5 e 7 do STJ  .. ..
+(AgInt no REsp n. 1.803.079/RS, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 12/8/2025, DJEN de 15/8/2025)
+Na mesma linha:
+AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. CONTRATO. CLÁUSULA CONTRATUAL. NULIDADE. NORMA JURÍDICA. VIOLAÇÃO. ALEGAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ARTIGOS 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 282/STF. SÚMULA Nº 211/STJ. REEXAME DE CLÁUSULAS CONTRATUAIS E DE PROVAS. INVIABILIDADE. SÚMULAS Nº 5 E Nº 7/STJ.
+ ..  5. A reforma do julgado demandaria interpretação de cláusulas contratuais e reexame do contexto fático-probatório, procedimentos vedados na estreita via do recurso especial, a teor das Súmulas nº 5 e nº 7/STJ.
+(AREsp n. 2.753.869/SC, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 18/8/2025, DJEN de 21/8/2025)
+(2) Sobre o alegado dissídio jurisprudencial
+A despeito do sustentado, pretensão recursal não atende aos requisitos específicos da alínea c.
+O acórdão recorrido firmou premissas fáticas claras: (i) negociação pré-contratual com ciência e ajuste expresso para excluir a responsabilidade da tomadora por verbas rescisórias (cláusulas 4.2 e 5.1.1); (ii) ausência de demonstração de boa-fé objetiva para constituição de direito pela surrectio; e (iii) incompatibilidade da cobrança com o arcabouço contratual e legal aplicável.
+Consoante adiantado, tais conclusões decorrem da análise de contrato, e-mails e prova testemunhal, tornando imprescindível o reexame do conjunto fático-probatório para infirmá-las, o que é vedado na via especial, inclusive quando a insurgência se ancora em dissídio.
+A propósito:
+AGRAVOS EM RECURSOS ESPECIAIS. AÇÃO INDENIZATÓRIA. DANO MORAL. QUANTIA ARBITRADA. IRRISORIEDADE. NÃO OCORRÊNCIA. REVISÃO. IMPOSSIBILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA Nº 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. ATROPELAMENTO. VIA FÉRREA. MORTE. VÍTIMA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OMISSÃO NÃO VERIFICADA. CULPA EXCLUSIVA DA VÍTIMA. NÃO COMPROVADA. REVISÃO DE PROVAS. SÚMULA Nº 7/STJ.
+ ..  6. A jurisprudência pacífica do Superior Tribunal de Justiça é no sentido de que a incidência da Súmula nº 7/STJ obsta a admissão do recurso por quaisquer das alíneas do permissivo constitucional  .. .
+(AREsp n. 2.958.971/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 29/9/2025, DJEN de 2/10/2025)
+De igual teor:
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EXECUÇÃO. IMPENHORABILIDADE. BEM DE FAMÍLIA. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE DEMONSTRAÇÃO ANALÍTICA. AGRAVO NÃO CONHECIDO.
+ ..  4. A ausência de comprovação adequada do dissídio jurisprudencial, conjugada com a incidência da Súmula 7/STJ, constitui óbice intransponível ao conhecimento do recurso especial  .. .
+(AREsp n. 2.799.001/SP, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 29/9/2025, DJEN de 2/10/2025)
+Sem o cotejo analítico demonstrando similitude fática entre os casos, a mera indicação de aresto do Tribunal de Justiça do Estado de São Paulo não supre o ônus de evidenciar divergência sobre o mesmo quadro de fatos e a mesma moldura contratual, o que impede o conhecimento da alínea c. Não bastasse isso, o fato é que, da forma como invocado o dissídio, não foram observados os requisitos formais exigidos ao desiderato.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. COMPROVAÇÃO DA DIVERGÊNCIA. AUSÊNCIA DA JUNTADA DO INTEIRO TEOR DO ACÓRDÃO PARADIGMA. VÍCIO INSANÁVEL.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele prevista, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A jurisprudência desta Corte, amparada no art. 1.043, § 4º, do Código de Processo Civil de 2015 e no art. 266, § 4º, do Regimento Interno do Superior Tribunal de Justiça, consolidou-se no sentido de que o recorrente, para comprovar a existência de dissídio em sede de embargos de divergência, deve proceder às seguintes providências:
+a) juntada de certidões; b) apresentação de cópias do inteiro teor dos acórdãos apontados como paradigmas; c) citação do repositório oficial autorizado ou credenciado no qual eles se achem publicados, inclusive em mídia eletrônica; e (d) reprodução de julgado disponível na rede mundial de computadores com a indicação da respectiva fonte.
+3. Na hipótese dos autos, a embargante deixou de juntar o inteiro teor do acórdão paradigma (ementa, acórdão, relatório, voto e certidão de julgamento). Dessa forma, não foi cumprida regra técnica do presente recurso, o que constitui vício substancial insanável e afasta a aplicabilidade do parágrafo único do art. 932 do CPC de 2015. Precedentes.
+4. Agravo interno não provido.
+(AgInt nos EAREsp n. 2.511.435/SP, relator Ministro Benedito Gonçalves, Primeira Seção, julgado em 11/6/2025, DJEN de 17/6/2025)
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em desfavor do recorrente, limitados a 20%, nos termos do art. 85, § 11, do CPC.
+É o voto.
+Previno que todos os temas abordados foram detidamente analisados, de modo que a interposição de recurso contra esta decisão com nítido intuito de buscar revisão do julgamento, invocando omissão ou contradição inexistente, poderá acarretar condenação às penalidades fixadas no art. 1.026, § 2º, do CPC.
