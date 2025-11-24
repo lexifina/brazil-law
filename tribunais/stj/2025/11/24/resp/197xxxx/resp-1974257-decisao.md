@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto por INSTITUTO NACIONAL DO SEGURO SOCIAL contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, no julgamento do Agravo de Instrumento n. 0042061-12.2019.8.26.0000, cuja ementa é a seguir transcrita (fl. 512):
+ACIDENTE DO TRABALHO - AGRAVO DE INSTRUMENTO - Correção monetária sobre débitos em atraso do INSS - Aplicação da orientação estabelecida no RE nº 870.947/SE (Tema 810 - Repercussão Geral) pelo C. Supremo Tribunal Federal - Pretensão da autarquia à aplicação da TR - Atualização monetária que deve seguir os seguintes parâmetros: IGPD-I de 05/1996 a 03/2006; INPC de 04/2006 a 06/2009; IPCA-E a partir de 30/06/2009 - LITIGÂNCIA DE MÁ-FÉ - Não configuração - Ausência de conduta temerária - Afastamento da multa aplicada - RECURSO PROVIDO.
+Posteriormente, houve juízo negativo de retratação, em razão do Tema n. 1.170/STF, nestes termos (fl. 591):
+ACIDENTE DO TRABALHO - JUÍZO DE CONFORMIDADE envolvendo o Tema nº 1170 do STF - Reapreciação da questão envolvendo o índice dos juros moratórios - Observação quanto à aplicação da Lei nº 11.960/09 com enfoque para as teses firmadas no Tema nº 810 do STF - Acórdão mantido.
+Irresignado, o recorrente interpôs recurso especial, com fulcro no art. 105, inciso III, alíneas a e c, da CF, no qual alega que houve, além de divergência jurisprudencial, violação dos arts . 502, 505, 509, § 4º, e 927, inciso III, do CPC, sob o argumento de que deve ser aplicada a TR como índice de correção monetária, sobretudo ante a existência de coisa julgada.
+Contrarrazões às fls. 609-616.
+Decisão de admissibilidade às fls. 617-619.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+O Tribunal de origem, no enfrentamento da matéria, concluiu (fl. 592, sem grifos no original):
+ ..
+Com efeito, conforme já decidido, não há que se falar em coisa julgada, pois, de acordo com entendimento desta Câmara, os índices e correção monetária são aqueles vigentes ao tempo da execução da obrigação.
+ ..
+Ao assim decidir, o acórdão recorrido se alinhou à jurisprudência deste Superior Tribunal de Justiça, no sentido de que não ofende a coisa julgada a adoção de índice de correção monetária ou juros, em fase de cumprimento de sentença, diverso daquele previsto no título executivo, devendo ser afastado o declarado inconstitucional.
+Na mesma linha:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. JUROS E CORREÇÃO MONETÁRIA. COISA JULGADA. TEMA N. 1.170 DO STF. APLICAÇÃO IMEDIATA. AGRAVO INTERNO DESPROVIDO.
+1. O STF julgou o Tema n. 1.170 da repercussão geral e estipulou ser "aplicável às condenações da Fazenda Pública envolvendo relações jurídicas não tributárias o índice de juros moratórios estabelecido no art. 1º-F da Lei n. 9.494/1997, na redação dada pela Lei n. 11.960/2009, a partir da vigência da referida legislação, mesmo havendo previsão diversa em título executivo judicial transitado em julgado".
+2. "A Primeira Seção do STJ, no julgamento do REsp 1.112.746/DF, afirmou que os juros de mora e a correção monetária são obrigações de trato sucessivo, que se renovam mês a mês, devendo, portanto, ser aplicadas no mês de regência a legislação vigente. Por essa razão, fixou-se o entendimento de que a lei nova superveniente que altera o regime dos juros moratórios deve ser aplicada imediatamente a todos os processos, abarcando inclusive aqueles em que já houve o trânsito em julgado e estejam em fase de execução. Não há, pois, nesses casos, que falar em violação da coisa julgada." (EDcl no AgRg no REsp 1.210.516/RS, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 25.9.2015)" (AgInt no REsp 1.967.170/RS, Ministro Herman Benjamin, Segunda Turma, DJe de 29/6/2022). Precedentes.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 2.186.900/RS, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 13/8/2025, DJEN de 19/8/2025.)
+PROCESSUAL CIVIL. EXECUÇÃO DE SENTENÇA. JUROS DE MORA. CORREÇÃO MONETÁRIA. MATÉRIAS DE ORDEM PÚBLICA. NATUREZA PROCESSUAL. APLICAÇÃO IMEDIATA AOS PROCESSOS EM CURSO. COISA JULGADA. NÃO VIOLAÇÃO.
+1. É firme o entendimento nesta Corte, no sentido de que "a aplicação de juros e correção monetária pode ser alegada na instância ordinária a qualquer tempo, podendo, inclusive, ser conhecida de ofício. A decisão nesse sentido não caracteriza julgamento extra petita, tampouco conduz à interpretação de ocorrência de preclusão consumativa, porquanto tais institutos são meros consectários legais da condenação" (AgInt no REsp 1.353.317/RS, Rel. Ministro Og Fernandes, Segunda Turma, DJe 9.8.2017).
+2. No que diz respeito aos juros de mora, a Corte Especial do Superior Tribunal de Justiça assentou a compreensão de que a alteração do art. 1º-F da Lei 9.494/1997, introduzida pela Medida Provisória 2.180-35/2001, tem aplicação imediata aos processos em curso, incidindo o princípio do tempus regit actum.
+3. Ainda na linha de nossa jurisprudência, "A Primeira Seção do STJ, no julgamento do REsp 1.112.746/DF, afirmou que os juros de mora e a correção monetária são obrigações de trato sucessivo, que se renovam mês a mês, devendo, portanto, ser aplicadas no mês de regência a legislação vigente. Por essa razão, fixou-se o entendimento de que a lei nova superveniente que altera o regime dos juros moratórios deve ser aplicada imediatamente a todos os processos, abarcando inclusive aqueles em que já houve o trânsito em julgado e estejam em fase de execução. Não há, pois, nesses casos, que falar em violação da coisa julgada." (EDcl no AgRg no REsp 1.210.516/RS, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 25.9.2015).
+4. Agravo Interno não provido.
+(AgInt no REsp n. 1.967.170/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 27/6/2022, DJe de 29/6/2022.)
+Incide, portanto, sobre a espécie, o verbete sumular n. 83 do STJ: "Não se conhece do recurso esp ecial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Cumpre anotar que o referido enunciado aplica-se também aos recursos interpostos com base na alínea a do permissivo constitucional (v.g.: AgRg no AREsp n. 354.886/PI, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 26/4/2016, DJe de 11/5/2016; AgInt no AREsp n. 2.453.438/PR, relator Ministro Herman Benjamin, Segunda Turma, julgado em 9/4/2024, DJe de 7/5/2024; AgInt no AREsp n. 2.354.829/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 3/6/2024, DJe de 6/6/2024).
+Ante o exposto, NEGO PROVIMENTO ao recurso especial.
+Deixo de majorar os honorários advocatícios por se tratar de acórdão proferido em agravo de instrumento na origem, no qual inexistiu fixação da referida verba.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. ACIDENTE DE TRABALHO. CORREÇÃO MONETÁRIA. MATÉRIA DE ORDEM PÚBLICA. NATUREZA PROCESSUAL. APLICAÇÃO IMEDIATA AOS PROCESSOS EM CURSO. INEXISTÊNCIA DE OFENSA À COISA JULGADA. ACÓRDÃO RECORRIDO EM SINTONIA COM O ENTENDIMENTO DESTA CORTE SUPERIOR. SÚMULA N. 83/STJ. RECURSO ESPECIAL CONHECIDO E DESPROVIDO.
