@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/11/2025 a 24/11/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Marco Buzzi, João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO CONTRA DECISÃO MONOCRÁTICA. PEDIDO DE MAJORAÇÃO DA VERBA HONORÁRIA. NÃO PREENCHIMENTO DOS REQUISITOS. RECURSO DESPROVIDO.
+1. De acordo com o posicionamento da Segunda Seção (Resp 1.539.725), é devida a majoração da verba honorária sucumbencial, na forma do artigo 85, parágrafo 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: (I) decisão recorrida publicada a partir de 18/3/2016, quando entrou em vigor o novo CPC; (II) recurso não conhecido integralmente ou não provido, singularmente ou pelo órgão colegiado competente; (III) condenação em honorários advocatícios desde a origem, no feito em que interposto o recurso, observados os limites estabelecidos nos parágrafos 2º e 3º do mesmo artigo.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por SILVIA APARECIDA FERREIRA ASTONI contra a decisão de fls. 556/557, de minha lavra, que negou provimento ao pedido de majoração da verba honorária feito pela agravante.
+Nas razões do agravo interno, alega a agravante, em síntese, que a decisão monocrática agravada deixou de fixar ou majorar os honorários de sucumbência, apesar de ter negado provimento ao recurso especial interposto pelo requerido, o que representaria, segundo sustenta, erro material passível de correção a qualquer tempo. Argumenta que há evidente dissociação entre a fundamentação e o dispositivo da decisão, o que justificaria sua retificação para garantir coerência e efetividade à prestação jurisdicional.
+Defende, ainda, que os honorários arbitrados nas instâncias ordinárias (R$ 1.000,00) são irrisórios e não atendem aos critérios legais estabelecidos pelo art. 85, §§ 2º e 11, do CPC, requerendo, assim, sua majoração. Sustenta que a verba honorária possui natureza de ordem pública e pode ser revista até mesmo de ofício, inclusive após o trânsito em julgado.
+Por fim, invoca o entendimento firmado no Tema Repetitivo n. 1.059/STJ para reforçar que a majoração dos honorários é devida sempre que o recurso for integralmente desprovido ou não conhecido, como no caso em exame, defendendo a reforma da decisão agravada para reconhecer e fixar adequadamente a verba honorária recursal.
+Não foram apresentadas contrarrazões ao agravo interno.
+É o relatório.
+EMENTA
+AGRAVO INTERNO CONTRA DECISÃO MONOCRÁTICA. PEDIDO DE MAJORAÇÃO DA VERBA HONORÁRIA. NÃO PREENCHIMENTO DOS REQUISITOS. RECURSO DESPROVIDO.
+1. De acordo com o posicionamento da Segunda Seção (Resp 1.539.725), é devida a majoração da verba honorária sucumbencial, na forma do artigo 85, parágrafo 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: (I) decisão recorrida publicada a partir de 18/3/2016, quando entrou em vigor o novo CPC; (II) recurso não conhecido integralmente ou não provido, singularmente ou pelo órgão colegiado competente; (III) condenação em honorários advocatícios desde a origem, no feito em que interposto o recurso, observados os limites estabelecidos nos parágrafos 2º e 3º do mesmo artigo.
+2. Agravo interno a que se nega provimento.
+VOTO
+Observo que os argumentos desenvolvidos pela agravante não infirmam as conclusões adotadas na decisão agravada, razão pela qual o presente recurso não merece prosperar.
+Em primeiro lugar, não há que se falar em arbitramento de honorários, uma vez que a sentença (fls. 272/274) já havia condenado o requerido ao pagamento de custas e honorários no valor de R$1.000,00 (mil reais). Em segunda instância, o Tribunal de origem negou provimento à apelação do requerido, mantendo a decisão de primeiro grau (fls. 343/350). Assim, não há que se falar em omissão ou erro material da decisão, uma vez que os honorários já haviam sido arbitrados.
+Quanto à possível majoração da verba honorária, também não assiste razão à agravante. Como sabido, de acordo com a jurisprudência dest a Corte, é devida a majoração da verba honorária sucumbencial, na forma do artigo 85, §11º, do Código de Processo Civil, quando estiverem presentes os seguintes requisitos, simultaneamente: (I) decisão recorrida publicada a partir de 18/3/2016, quando entrou em vigor o novo CPC; (II) recurso não conhecido integralmente ou não provido, singularmente ou pelo órgão colegiado competente; (III) condenação em honorários advocatícios desde a origem, no feito em que interposto o recurso, observados os limites estabelecidos nos parágrafos 2º e 3º do mesmo artigo.
+Nesse sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. RECURSOS ESPECIAIS PRINCIPAL E ADESIVO. NEGATIVA DE SEGUIMENTO DOS RECURSOS NA ORIGEM. INEXISTÊNCIA DE AGRAVO CONTRA A DECISÃO QUE NEGOU SEGUIMENTO AO RECURSO ESPECIAL PRINCIPAL. DESCABIMENTO DE ARESP QUANTO AO RECURSO ADESIVO. PREJUDICIALIDADE.
+1. Interposto recurso especial principal e adesivo, e sendo ambos inadmitidos na origem, fica prejudicado o recurso adesivo quando inexistente agravo contra decisão que negou seguimento ao recurso especial principal. Precedentes.
+2. De acordo com o posicionamento da Segunda Seção (Resp 1.539.725), é devida a majoração da verba honorária sucumbencial, na forma do artigo 85, parágrafo 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: (I) decisão recorrida publicada a partir de 18/3/2016, quando entrou em vigor o novo CPC; (II) recurso não conhecido integralmente ou não provido, singularmente ou pelo órgão colegiado competente; (III) condenação em honorários advocatícios desde a origem, no feito em que interposto o recurso, observados os limites estabelecidos nos parágrafos 2º e 3º do mesmo artigo.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.510.731/PR, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 11/5/2020, DJe de 18/5/20).
+No caso em testilha, os supracitados requisitos não foram preenchidos, já que a decisão recorrida foi publicada em 24.11.2014, antes de 18.3.2016 (data em que entrou em vigor o Código de Processo Civil de 2015), o que inviabiliza a majoração da verba honorária.
+Assim, não assiste razão à agravante, devendo a decisão agravada ser mantida.
+Em face do exposto, nos termos da fundamentação supra, nego provimento ao agravo interno.
+É como voto.
