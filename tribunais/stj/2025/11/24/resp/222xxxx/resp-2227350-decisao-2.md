@@ -1,0 +1,88 @@
+DECISÃO
+Trata-se de recurso especial interposto por Douglas Cirino da Silva contra acórdão da 5ª Câmara Criminal do Tribunal de Justiça do Estado do Paraná que negou provimento à apelação criminal (e-STJ fls. 950-970).
+O recorrente foi condenado, em primeiro grau, pelo delito previsto no art. 33, caput, da Lei nº 11.343/2006, praticado em 21/03/2024, à pena de 06 anos, 09 meses e 20 dias de reclusão, em regime inicial fechado, com 680 dias-multa. Foi decretado o perdimento do dinheiro apreendido, determinou-se a incineração da droga e a destruição dos objetos, e transferência do valor ao FUNAD (e-STJ fls. 698-723).
+O Tribunal de Justiça do Estado do Paraná manteve a condenação (e-STJ fls. 950-970). Fundamentou que havia fundadas razões para o ingresso domiciliar, diante de denúncia anônima corroborada por informação do Delegado da DENARC, da fuga do agente e do descarte de objeto na porta da residência, o que legitimou a atuação policial em crime permanente. Reputou idôneos e coerentes os depoimentos dos policiais, suficientes à demonstração da materialidade e autoria.
+Afirmou que a natureza e quantidade da droga apreendida (crack, 75g) justificaram a valoração negativa da circunstância judicial na pena-base, nos termos do art. 42 da Lei 11.343/2006, e reconheceu a agravante da reincidência com fração de 1/6. Afastou a incidência da causa de diminuição do art. 33, § 4º, da Lei 11.343/2006, em razão da reincidência, fixou o regime inicial fechado e manteve a prisão preventiva pela garantia da ordem pública.
+O recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, alegou violação dos arts. 157, caput e § 1º, 240, § 1º, 386, II e 386, VII, todos do Código de Processo Penal; do art. 59 do Código Penal; e do art. 42 da Lei nº 11.343/2006. Requereu a declaração de nulidade das provas por violação de domicílio, e a sua absolvição, nos termos dos arts. 386, II e 386, VII, do CPP.
+Subsidiariamente, requereu a fixação da pena-base no mínimo legal, com redução da fração de aumento pela reincidência para 1/8, o reconhecimento do tráfico privilegiado do art. 33, § 4º, da Lei 11.343/2006, a fixação de regime prisional mais brando, e o direito de recorrer em liberdade. Sustentou que não houve justa causa prévia ao ingresso domiciliar e que a denúncia anônima, desacompanhada de diligências prévias, e a mera fuga, não legitimam a mitigação da inviolabilidade de domicílio. No mérito, asseverou insuficiência probatória para a condenação e desproporcionalidade na exasperação da pena-base fundada na natureza e quantidade do entorpecente (75g de crack), pleiteando a aplicação do art. 33, § 4º, da Lei de Drogas, regime mais brando e recorrer em liberdade (e-STJ fls. 1116-1191).
+O Ministério Público manifestou-se pelo conhecimento do agravo e não conhecimento dos recursos especiais (e-STJ fls. 1243-1248), em parecer assim ementado:
+Recurso Especial e Agravo em Recurso especial. Tráfico de drogas. Violação de domicílio. Ilicitude das provas derivadas. Absolvição. Reexame do conjunto fático- probatório. Pena-base. Exasperação. Natureza e quantidade da droga. Súmula 83 do STJ. Parecer pelo conhecimento do agravo e não conhecimento dos recursos especiais.
+É o relatório.
+Decido.
+O recurso é tempestivo e está com a representação processual correta. O recorrente indicou os permissivos constitucionais que embasam o recurso e o dispositivo de lei federal supostamente violado, demonstrando pertinência na fundamentação.
+A jurisprudência desta Corte é firme no sentido de que o recurso especial não se presta à reapreciação de elementos fático-probatórios, devendo o recorrente delimitar com precisão os contornos jurídicos da tese invocada e demonstrar que sua análise prescinde de nova incursão nos fatos da causa, partindo das premissas fáticas já estabelecidas pelo acórdão recorrido.
+Para que o recurso especial ultrapasse o óbice previsto na Súmula n. 7 do STJ, é necessário que a controvérsia jurídica possa ser resolvida com base nas premissas fáticas já fixadas pelas instâncias ordinárias, sem necessidade de reexame do conjunto probatório. Alegações genéricas de ofensa à norma federal, dissociadas de uma demonstração clara de que os fatos relevantes para o deslinde da controvérsia estão devidamente consolidados no acórdão recorrido, não afastam a incidência da referida súmula.
+Ou seja, deve haver demonstração que a controvérsia se restringe à interpretação jurídica de normas; explicar que não há necessidade de revolvimento da moldura fática definida pelas instâncias ordinárias; e indicar precisamente quais premissas fáticas são imutáveis. Não basta alegar genericamente que a análise é jurídica ou interpretativa.
+No caso, o recorrente requer a absolvição por ausência de provas (art. 386, II e VII, do CPP). Afirma, ainda, que não pretende revolver provas, mas revalorar juridicamente fatos supostamente incontroversos, como a origem da informação policial, a dinâmica da abordagem, o local exato da apreensão da droga e a suficiência dos depoimentos policiais.
+Já a decisão recorrida pelo recurso especial reputou idôneos e coerentes os depoimentos dos policiais; registrou a apreensão de R$ 542,00 em notas trocadas, embalagens plásticas e lâminas de barbear; e concluiu pela suficiência probatória para a condenação.
+Nessa questão, as instâncias ordinárias são soberanas na avaliação dos fatos e das provas e chegar a conclusão diversa daquela encontrada na origem demandaria reexame de fatos e provas. Logo, a decisão das instâncias ordinárias no sentido de que houve suficiência probatória para a condenação é insuscetível de modificação nesta Corte.
+O pleito absolutório por insuficiência de provas demanda revisão da credibilidade e da coerência dos depoimentos policiais, do contexto da denúncia anônima corroborada e dos objetos apreendidos. A origem registrou expressamente que os depoimentos dos policiais foram coerentes, não havendo motivos para desacreditar suas declarações, e que a prova testemunhal, somada aos elementos materiais, é suficiente para a condenação. Alterar tais conclusões exigiria reexame da prova oral e documental, vedado pelo enunciado sumular.
+Em caso semelhante:
+DIREITO PENAL. AGRAVO REGIMENTAL. TRÁFICO DE DROGAS. REEXAME DE PROVAS. AGRAVO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão que conheceu de agravo para conhecer em parte do recurso especial e negar-lhe provimento, com aplicação das Súmulas n. 7 e 568, ambas do STJ, e da Súmula n. 284/STF.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se houve omissão na análise das provas e no prequestionamento das matérias federais;
+(ii) estabelecer se é cabível o reconhecimento do princípio da insignificância e a necessidade de revolvimento do conjunto probatório para afastar a condenação.
+III. RAZÕES DE DECIDIR
+3. A condenação se fundamentou nos vídeos e provas documentais produzidas em juízo. Para se concluir de modo diverso, seria necessário o revolvimento fático-probatório, vedado conforme Súmula n. 7 do STJ.
+4. Quanto às demais teses, o recurso especial não merece conhecimento porquanto a peça recursal deixou de indicar o correspondente dispositivo legal violado, atraindo o óbice da Súmula n. 284 do STF.
+IV. DISPOSITIVO E TESE
+5. Agravo regimental desprovido.
+Tese de julgamento: "1. A revisão de decisão condenatória por suposta insuficiência probatória é inviável em recurso especial diante da necessidade de reexame de provas, vedado pela Súmula 7/STJ. 2. A deficiência na indicação dos dispositivos legais violados impede o conhecimento do recurso especial, nos termos da Súmula 284/STF".
+Dispositivos relevantes citados: CP, art. 155, §4º, inciso IV.
+Jurisprudência relevante citada: STJ, REsp n. 2.092.193/MG, Rel. Min. Daniela Teixeira, Quinta Turma, julgado em 4/2/2025; STJ, AgRg no REsp n. 1.730.708/RO, rel. Min. Ribeiro Dantas, Quinta Turma, julgado em 2/10/2018.
+(AgRg no REsp n. 2.183.594/MG, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 3/9/2025, DJEN de 8/9/2025.) (grifei)
+Dessa forma, constata-se que o recurso especial, quanto ao pedido de absolvição por insuficiência de provas, veicula pretensão que pressupõe o reexame do conjunto fático-probatório fixado pelas instâncias ordinárias, o que atrai, de forma inequívoca, a incidência do enunciado da Súmula n. 7 do STJ.
+No que tange à alegação de licitude da prova obtida mediante ingresso em domicílio e à dosimetria da pena, por se tratar de matérias de direito, conheço do recurso especial e passo à análise.
+Quanto à alegada violação de domicílio, o acórdão recorrido consignou que a ação policial foi precedida de fundadas razões, em conformidade com o entendimento desta Corte Superior. Extrai-se dos autos que os policiais receberam denúncia anônima sobre tráfico de drogas, corroborada por informação do Delegado da DENARC. No local, avistaram o recorrente, cujas características correspondiam às da denúncia , que, ao notar a presença da viatura, dispensou um invólucro e empreendeu fuga para o interior da residência, sendo perseguido e abordado.
+Tal cenário, composto pela denúncia anônima qualificada, a fuga do suspeito ao avistar a polícia e o descarte de objeto suspeito, constitui a justa causa necessária para autorizar o ingresso dos agentes no domicílio sem mandado judicial, porquanto indica a ocorrência de situação de flagrante delito de crime de natureza permanente, como o tráfico de drogas. A decisão do Tribunal de origem está em harmonia com a jurisprudência desta Corte, que reconhece a legalidade da ação policial em circunstâncias análogas. Desse modo, não há que se falar em ilicitude das provas.
+Nesse sentido:
+DIREITO PENAL. AGRAVO REGIMENTAL. TRÁFICO DE DROGAS. BUSCA DOMICILIAR. RECURSO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu do recurso especial da defesa, mantendo acórdão prolatado pelo Tribunal de Justiça do Estado do Rio de Janeiro em revisão criminal que não afastou condenação por tráfico de drogas.
+2. O agravante alega que a condenação se baseou em prova ilicitamente obtida, argumentando que a denúncia anônima e a fuga não justificavam o ingresso policial em seu domicílio sem mandado judicial.
+3. A defesa também pleiteia o reconhecimento da atenuante da confissão espontânea e a aplicação do tráfico privilegiado, sustentando que atos infracionais anteriores não descaracterizam tal benefício.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a entrada forçada em domicílio, baseada em denúncia anônima e também a fuga do agravante, configuram prova ilícita, e se tal circunstância invalida a condenação por tráfico de drogas.
+5. Outra questão em discussão é a possibilidade de aplicação da atenuante da confissão espontânea e do tráfico privilegiado, considerando a quantidade de drogas apreendidas e o histórico do agravante.
+III. Razões de decidir
+6. A entrada no domicílio foi justificada por fundada denúncia e pela tentativa de fuga do agravante, configurando situação de flagrante delito, o que legitima a busca domiciliar sem mandado judicial.
+7. A quantidade de drogas e os materiais apreendidos indicam dedicação à atividade criminosa, afastando a aplicação do tráfico privilegiado.
+8. A confissão do agravante limitou-se à posse de drogas, sem reconhecimento da traficância, não atendendo aos requisitos para a atenuante da confissão espontânea, conforme a Súmula n. 630 do STJ.
+IV. Dispositivo e tese
+9. Agravo regimental desprovido.
+Tese de julgamento: "1. A tentativa de fuga do acusado ao avistar agentes policiais, acrescida de fundada denúncia sobre a prática do tráfico de drogas, justificam a entrada forçada em domicílio em situação de flagrante delito. 2. A dedicação à atividade criminosa afasta a aplicação do tráfico privilegiado. 3. A confissão espontânea exige o reconhecimento da traficância para aplicação da atenuante no crime de tráfico de drogas".
+Dispositivos relevantes citados: CPP, art. 157; CPP, art. 244; CF/1988, art. 5º, XI; Lei n. 11.343/06, art. 33, § 4º; CP, art. 65, III, "d".
+Jurisprudência relevante citada: STF, RE 603.616, Rel. Min. Gilmar Mendes; STJ, AgRg no REsp 1357182/MG, Rel. Min. Marco Bellizze; STJ, AgRg no AR Esp 2285331/RJ, Rel. Min. Joel Paciornik; STJ, AgRg no REsp 2.043.108/DF, Rel. Min. Sebastião Reis.
+(AgRg no AREsp n. 2.926.582/RJ, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/8/2025, DJEN de 29/8/2025.) (grifei)
+Em relação à dosimetria, a exasperação da pena-base foi devidamente fundamentada na natureza e quantidade da droga apreendida (75g de crack) em estrita observância ao art. 42 da Lei n. 11.343/2006, que confere preponderância a tais vetores. O acórdão recorrido está assim fundamentado (fls. 965):
+Nessa ótica, a natureza e a quantidade do entorpecente não só podem como devem ser utilizadas como parâmetro para aumentar a pena na primeira fase da dosimetria.
+Ademais, as circunstâncias da natureza e quantidade de droga, previstas na Lei Antitóxicos, consistem em um binômio e devem ser analisadas conjuntamente a fim de resguardar proporcionalidade e adequação.
+No caso concreto, conforme Auto de Exibição e Apreensão e Auto de Constatação Provisória de Droga (movs. 1.6 e 1.16), o apelante foi preso por guardar, para fins de comercialização, 01 (uma) pedra de pesando 75g (setenta e cinco gramas). crack,
+Logo, mostra-se justificada a valoração negativa da circunstância judicial em exame, pois além da natureza nociva e altamente viciante da referida substância, capaz de causar rápida dependência física e psíquica, constata-se que a quantidade do psicotrópico apreendido não é irrisória, evidenciando a maior reprovabilidade da conduta do agente.
+Igualmente, o afastamento da causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 foi justificado pela reincidência do recorrente, o que impede a concessão da benesse por ausência do preenchimento dos requisitos legais cumulativos, notadamente o da primariedade, conforme pacífico entendimento do Superior Tribunal de Justiça:
+DIREITO PENAL. AGRAVO REGIMENTAL. TRÁFICO DE DROGAS. TRÁFICO PRIVILEGIADO. AGRAVO NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu de habeas corpus, em que se pleiteava a absolvição por ausência de provas do crime de tráfico de drogas, a aplicação da causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, e a consequente redução da pena, fixação de regime prisional mais brando e substituição da pena privativa de liberdade por restritivas de direitos.
+2. O Tribunal de origem manteve a condenação pelo crime de tráfico de drogas e afastou a aplicação do tráfico privilegiado, considerando a reincidência do agravante e sua dedicação a atividades criminosas.
+II. Questão em discussão
+3. Há duas questões em discussão: (i) saber se há elementos suficientes para evidenciar a autoria e a materialidade do crime de tráfico de drogas, considerando a pequena quantidade de droga apreendida; e (ii) saber se o agravante faz jus à causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, que exige o preenchimento cumulativo de requisitos, como a primariedade e a não dedicação a atividades criminosas.
+III. Razões de decidir
+4. As instâncias ordinárias concluíram pela existência de elementos suficientes para evidenciar a autoria e a materialidade do crime de tráfico de drogas, destacando a dinâmica da apreensão da droga e do dinheiro, bem como os depoimentos dos policiais militares indicando o envolvimento do agravante com o tráfico.
+5. Para a configuração do tipo penal do art. 33 da Lei n. 11.343/2006, basta que o agente pratique qualquer dos verbos descritos no dispositivo, não sendo necessária a comprovação da mercancia da substância.
+6. Tendo as instâncias ordinárias demonstrado a autoria e materialidade delitiva, a alteração dessa conclusão demanda o reexame de prova, incompatível com o habeas corpus.
+7. A reincidência do agravante foi devidamente reconhecida pelas instâncias ordinárias, o que afasta a possibilidade de aplicação da causa de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006.
+IV. Dispositivo e tese
+8. Resultado do Julgamento: Agravo não provido.
+Tese de julgamento:
+1. A reincidência impede a concessão do benefício do tráfico privilegiado previsto no art. 33, § 4º, da Lei nº 11.343/2006.
+2. Para a configuração do tipo penal do art. 33 da Lei nº 11.343/2006, basta que o agente pratique qualquer dos verbos descritos no dispositivo, não sendo necessária a comprovação da mercancia da substância.
+Dispositivos relevantes citados: Lei nº 11.343/2006, art. 33, § 4º.
+Jurisprudência relevante citada: STJ, AgRg no AREsp 2.703.590/RJ, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 17.12.2024; STJ, AgRg no AREsp 2.701.222/SC, Rel. Min. Messod Azulay Neto, Quinta Turma, julgado em 05.08.2025.
+(AgRg no HC n. 981.894/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 9/9/2025, DJEN de 15/9/2025.) (grifei)
+Por fim, fixada a pena em patamar superior a 4 (quatro) anos de reclusão e sendo o réu reincidente, com valoração negativa das circunstâncias judiciais do art. 42 da Lei de Drogas, adequada a fixação do regime inicial fechado. Mantida a condenação e o regime prisional, fica prejudicada a análise do pleito de recorrer em liberdade.
+Ante o exposto, com fulcro no art. 255, § 4º, I e II, do Regimento Interno do STJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se.
+Intimem-se.
+EMENTA
