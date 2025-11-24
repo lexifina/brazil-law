@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/11/2025 a 24/11/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO RECURSO ESPECIAL. INTERPOSIÇÃO FORA DO PRAZO DE 15 DIAS ÚTEIS. AUSÊNCIA DE COMPROVAÇÃO, NO ATO DE INTERPOSIÇÃO, DE FERIADO LOCAL OU SUSPENSÃO DE EXPEDIENTE FORENSE DECORRENTE DE RECESSO FORENSE, NOS TERMOS DO ART. 1.003, § 6º, DO CPC/2015. AUSÊNCIA DE REGULARIZAÇÃO POSTERIOR. IRRELEVÂNCIA DE ALEGAÇÃO DE INTIMAÇÃO AUTOMÁTICA POSTERGADA PARA 23/01/2019 SEM COMPROVAÇÃO TEMPESTIVA. CONFIANÇA LEGÍTIMA NO SISTEMA JUDICIAL NÃO AFASTADA PELA EXIGÊNCIA LEGAL EXPRESSA. AGRAVO INTERNO DESPROVIDO.
+I CASO EM EXAME
+1. Agravo interno interposto contra decisão monocrática do Presidente do STJ que não conheceu de recurso especial por intempestividade, considerando a intimação do acórdão recorrido em 08/01/2019 e a interposição do recurso apenas em 12/02/2019, fora do prazo de 15 dias úteis, com ausência de comprovação, no ato de interposição, de feriado local ou suspensão de expediente forense decorrente de recesso forense.
+2. A agravante alega que a intimação automática se perfectibilizou somente em 23/01/2019, em razão do recesso forense, e invoca confiança legítima nas informações do sistema judicial.
+II QUESTÃO EM DISCUSSÃO
+3. Tempestividade do recurso especial. Necessidade de comprovação, no ato de interposição, de feriado local ou suspensão de expediente forense para prorrogação do prazo recursal. Possibilidade de regularização posterior e aplicação do princípio da confiança legítima.
+III RAZÕES DE DECIDIR
+4. O recurso especial é intempestivo, nos termos dos arts. 994, inciso VI, 1.003, § 5º, 1.029 e 219 do CPC/2015, pois interposto fora do prazo de 15 dias úteis.
+5. A comprovação de feriado local ou suspensão de expediente forense deve ser feita no ato de interposição do recurso, conforme o art. 1.003, § 6º, do CPC/2015, sendo impossível a regularização posterior.
+6. A alegação de intimação postergada para 23/01/2019 não se sustenta sem comprovação tempestiva, e a confiança legítima no sistema judicial não afasta a exigência legal expressa. Precedentes.
+IV DISPOSITIVO
+7. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão proferida pelo Presidente do Superior Tribunal de Justiça que negou seguimento ao recurso especial.
+A decisão da Presidência não conheceu do recurso especial por intempestividade. Constatou-se a intimação do acórdão recorrido em 08/01/2019 e a interposição do recurso apenas em 12/02/2019, fora do prazo de quinze dias úteis (CPC, arts. 994, inciso VI, 1.003, § 5º, 1.029 e 219).
+Registrou-se, ainda, a ausência de comprovação, no ato de interposição, de feriado local apto a prorrogar o prazo, em conformidade com o art. 1.003, § 6º, do Código de Processo Civil, cuja literalidade foi expressamente invocada: "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", o que "impossibilita a regularização posterior" (e-STJ fls. 644/645). Houve, também, majoração de honorários na forma do art. 85, § 11, do CPC (e-STJ fls. 645).
+No agravo interno, a agravante sustentou que não houve intimação em 08/01/2019. Defendeu que, por força do recesso forense, o prazo de "espera" do art. 5º, § 3º, da Lei nº 11.419/2006 ficou suspenso e a intimação automática somente se perfectibilizou em 23/01/2019, conforme certificado no sistema e-proc, sendo, por isso, tempestiva a interposição do recurso em 12/02/2019 (e-STJ fls. 648/654).
+Alegou, ainda, a confiança legítima nas informações do próprio sistema judicial, citando precedente que reputa justificável a boa-fé do advogado quando o serviço eletrônico do Tribunal indica termo final de prazo (e-STJ fls. 656/657).
+Na impugnação, a parte agravada afirmou que o recurso especial é intempestivo porque não houve comprovação, no ato da interposição, de feriado local ou recesso forense, como exige o art. 1.003, § 6º, do CPC (e-STJ fls. 663/666).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO RECURSO ESPECIAL. INTERPOSIÇÃO FORA DO PRAZO DE 15 DIAS ÚTEIS. AUSÊNCIA DE COMPROVAÇÃO, NO ATO DE INTERPOSIÇÃO, DE FERIADO LOCAL OU SUSPENSÃO DE EXPEDIENTE FORENSE DECORRENTE DE RECESSO FORENSE, NOS TERMOS DO ART. 1.003, § 6º, DO CPC/2015. AUSÊNCIA DE REGULARIZAÇÃO POSTERIOR. IRRELEVÂNCIA DE ALEGAÇÃO DE INTIMAÇÃO AUTOMÁTICA POSTERGADA PARA 23/01/2019 SEM COMPROVAÇÃO TEMPESTIVA. CONFIANÇA LEGÍTIMA NO SISTEMA JUDICIAL NÃO AFASTADA PELA EXIGÊNCIA LEGAL EXPRESSA. AGRAVO INTERNO DESPROVIDO.
+I CASO EM EXAME
+1. Agravo interno interposto contra decisão monocrática do Presidente do STJ que não conheceu de recurso especial por intempestividade, considerando a intimação do acórdão recorrido em 08/01/2019 e a interposição do recurso apenas em 12/02/2019, fora do prazo de 15 dias úteis, com ausência de comprovação, no ato de interposição, de feriado local ou suspensão de expediente forense decorrente de recesso forense.
+2. A agravante alega que a intimação automática se perfectibilizou somente em 23/01/2019, em razão do recesso forense, e invoca confiança legítima nas informações do sistema judicial.
+II QUESTÃO EM DISCUSSÃO
+3. Tempestividade do recurso especial. Necessidade de comprovação, no ato de interposição, de feriado local ou suspensão de expediente forense para prorrogação do prazo recursal. Possibilidade de regularização posterior e aplicação do princípio da confiança legítima.
+III RAZÕES DE DECIDIR
+4. O recurso especial é intempestivo, nos termos dos arts. 994, inciso VI, 1.003, § 5º, 1.029 e 219 do CPC/2015, pois interposto fora do prazo de 15 dias úteis.
+5. A comprovação de feriado local ou suspensão de expediente forense deve ser feita no ato de interposição do recurso, conforme o art. 1.003, § 6º, do CPC/2015, sendo impossível a regularização posterior.
+6. A alegação de intimação postergada para 23/01/2019 não se sustenta sem comprovação tempestiva, e a confiança legítima no sistema judicial não afasta a exigência legal expressa. Precedentes.
+IV DISPOSITIVO
+7. Agravo interno desprovido.
+VOTO
+O agravo interno é tempestivo, nos termos do art. 1.003, § 5º, do Código de Processo Civil.
+A análise dos argumentos recursais não indica, contudo, hipótese que resulte na reconsideração dos argumentos fáticos e jurídicos anteriormente lançados, motivo pelo qual mantenho a decisão agravada pelos fundamentos anteriormente expostos, os quais transcrevo para que passem a fazer parte da presente decisão (e-STJ fls. 644-645):
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n. os 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015. Mediante análise do recurso de DANA RAQUEL BARBARO, a parte Recorrente foi intimada do acórdão recorrido em 08/01/2019, sendo o recurso especial interposto somente em 12/02/2019. O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VI, c.c. os arts. 1.003, § 5.º, 1.029, e 219, caput, todos do Código de Processo Civil. A propósito, nos termos do § 6º do art. 1.003 do mesmo código, "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", o que impossibilita a regularização posterior. Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça. Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Com efeito, a legislação processual estabelece, no art. 932, III e IV, do Código de Processo Civil, a faculdade de o relator julgar monocraticamente recurso inadmissível ou, ainda, aplicar a jurisprudência consolidada deste Tribunal.
+Cuida-se de inovação legal que reflete a já consagrada jurisprudência deste Superior Tribunal de Justiça, no sentido de que: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema." (Súmula nº 568 do STJ, aprovada pela Corte Especial em 16/03/2016).
+No caso em tela, o então Presidente desta Corte Superior considerou o recurso intempestivo, porquanto a intimação do acórdão recorrido ocorreu em 08/01/2019 e a interposição do recurso se deu apenas em 12/02/2019, fora do prazo de quinze dias úteis (CPC, arts. 994, inciso VI, 1.003, § 5º, 1.029 e 219). Registrou-se, ainda, a ausência de comprovação, no ato de interposição, de feriado local apto a prorrogar o prazo, em conformidade com o art. 1.003, § 6º, do Código de Processo Civil.
+Sobre o tema, assim vem decidindo o Superior Tribunal de Justiça:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. FERIADO LOCAL. EXPEDIENTE FORENSE. SUSPENSÃO. DEMONSTRAÇÃO. DOCUMENTO IDÔNEO. AUSÊNCIA. FERIADO NO STJ. IRRELEVÂNCIA. RECURSO INTERPOSTO NA ORIGEM.
+1. É intempestivo o recurso especial protocolizado após o prazo de 15 (quinze) dias, de acordo com os art. 1.003, § 5º, e 219, caput, do Código de Processo Civil.
+2. Eventual documento idôneo apto a comprovar a ocorrência de feriado local ou a suspensão do expediente forense deve ser colacionado aos autos no momento de sua interposição, para fins de aferição da tempestividade do recurso, a teor do que dispõe o art. 1.003, § 6º, do Código de Processo Civil.
+3. Irrelevante a suspensão do expediente no Superior Tribunal de Justiça, tendo em vista que o recurso especial interposto é endereçado ao presidente do tribunal a quo, regendo-se o respectivo prazo, em matéria de recesso forense e feriados, pela legislação local.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.709.693/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 9/12/2024, DJEN de 16/12/2024.)
+Quanto ao tema, a Corte Especial do Superior Tribunal de Justiça, no julgamento do REsp 1.813.684/SP, firmou entendimento no sentido de que, na vigência do Código de Processo Civil, a comprovação da tempestividade recursal deve ser realizada no ato de interposição do recurso, não se aplicando as disposições previstas nos arts. 932, parágrafo único, e 1.029, § 3º, do Código de Processo Civil.
+A interpretação literal da norma expressa no art. 1.003, § 6º, do Código de Processo Civil, de caráter especial, sobrepõe-se a qualquer interpretação mais ampla que se possa conferir às disposições de âm bito geral insertas nos arts. 932, parágrafo único, e 1.029, § 3º, do citado diploma legal.
+Desse modo, não prosperam as alegações postas no presente recurso, as quais são incapazes de alterar os fundamentos da decisão impugnada.
+Ante o exposto, nego provimento ao agravo interno.
+Mantenho a decisão agravada quanto aos honorários.
+É o voto.
