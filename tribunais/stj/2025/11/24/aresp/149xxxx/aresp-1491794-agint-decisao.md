@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interno interposto por SCHARLAB BRASIL MATERIAL PARA LABORATÓRIO S.A. ou COMERCIAL GRAULAB LTDA. e OUTROS contra a decisão da Ministra Assusete Magalhães, por meio da qual conheceu do agravo para negar provimento ao recurso especial dirigido ao acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no Agravo de Instrumento n. 2159931-15.2017.8.26.0000, assim ementado (fl. 3136):
+AÇÃO CIVIL PÚBLICA - RESSARCIMENTO AO ERÁRIO POR ATO ILÍCITO - IMPRESCRITIBILIDADE - ART. 37, § 5º, DA CONSTITUIÇÃO FEDERAL - LEGITIMIDADE ATIVA DO MINISTÉRIO PÚBLICO E PASSIVA DAS EMPRESAS QUE EM CONLUIO COM LICITANTE PROVOCARAM PREJUÍZO AOS COFRES PÚBLICOS - AGRAVO DE INSTRUMENTO NÃO PROVIDO.
+Os embargos de declaração opostos ao julgado foram rejeitados (fls. 3167-3168).
+No recurso especial, fundamentado nas alíneas a e c da previsão constitucional, alegou-se a violação dos seguintes dispositivos:
+a) arts. 489, § 1º, inciso IV, e 1.022, inciso II e parágrafo único, inciso I, do CPC;
+b) arts. 485, incisos I e VI, e 487, inciso II, do CPC;
+c) arts. 1º, 2º e 3º da Lei n. 8.429/1992; e
+d) arts. 99 e 186 do CC.
+Sustenta-se, dentre outras questões, a ocorrência da prescrição quinquenal, uma vez que "a demanda de origem está longe de qualquer referência ao artigo 37, § 5º, da Constituição Federal, pois não se trata de hipótese de atos de improbidade administrativa, mas de ação de indenização ao erário decorrente de um ilícito civil" (fl. 3238).
+Não admitido pelo Tribunal de origem, seguiu-se a interposição de agravo em recurso especial.
+Nesta Corte Superior, a então Relatora proferiu decisão conhecendo do agravo para negar provimento ao recurso especial (fls. 3470-3476), com base nos seguintes fundamentos:
+a) não houve violação dos arts. 489, § 1º, inciso IV, e 1.022, inciso II e parágrafo único, inciso I, do CPC, pois "o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente" (fls. 3471-3472);
+b) a análise da pretensão recursal referente aos arts. 1º, 2º e 3º da Lei n. 8.429/1992 "revela que o recurso apresenta razões dissociadas do julgado recorrido" (fl. 3472);
+c) o entendimento do Tribunal de origem, quanto à prescrição, encontra-se em consonância com a jurisprudência do Superior Tribunal de Justiça, "segundo a qual é imprescritível a pretensão de ressarcimento ao erário, nos termos do art. 37, § 5º, da Constituição Federal" (ibidem);
+d) quanto à legitimidade ativa ad causam do Ministério Público, o acórdão recorrido está conformado ao disposto na Súmula n. 329/STJ;
+e) a reforma do julgado em relação à legitimidade passiva ad causam da parte ora agravante demandaria o revolvimento do quadro fático-probatório dos autos, providência inviável no âmbito do recurso especial (Súmula n. 7/STJ).
+Daí o presente agravo interno, no qual se requer a reconsideração da decisão agravada, com o provimento do recurso especial.
+Impugnação às fls. 3511-3519.
+É o relatório.
+Decido.
+O Supremo Tribunal Federal, ao julgar o Tema n. 899 do regime da repercussão geral, revisitou os Temas n. 666 e 897, consolidando o entendimento de que somente são imprescritíveis as ações de ressarcimento ao erário fundadas na prática de ato de improbidade administrativa doloso tipificado na Lei n. 8.429/1992.
+O julgado foi assim ementado:
+CONSTITUCIONAL E ADMINISTRATIVO. REPERCUSSÃO GERAL. EXECUÇÃO FUNDADA EM ACÓRDÃO PROFERIDO PELO TRIBUNAL DE CONTAS DA UNIÃO. PRETENSÃO DE RESSARCIMENTO AO ERÁRIO. ART. 37, § 5º, DA CONSTITUIÇÃO FEDERAL. PRESCRITIBILIDADE.
+1. A regra de prescritibilidade no Direito brasileiro é exigência dos princípios da segurança jurídica e do devido processo legal, o qual, em seu sentido material, deve garantir efetiva e real proteção contra o exercício do arbítrio, com a imposição de restrições substanciais ao poder do Estado em relação à liberdade e à propriedade individuais, entre as quais a impossibilidade de permanência infinita do poder persecutório do Estado.
+2. Analisando detalhadamente o tema da "prescritibilidade de ações de ressarcimento", este SUPREMO TRIBUNAL FEDERAL concluiu que, somente são imprescritíveis as ações de ressarcimento ao erário fundadas na prática de ato de improbidade administrativa doloso tipificado na Lei de Improbidade Administrativa - Lei 8.429/1992 (TEMA 897). Em relação a todos os demais atos ilícitos, inclusive àqueles atentatórios à probidade da administração não dolosos e aos anteriores à edição da Lei 8.429/1992, aplica-se o TEMA 666, sendo prescritível a ação de reparação de danos à Fazenda Pública.
+3. A excepcionalidade reconhecida pela maioria do SUPREMO TRIBUNAL FEDERAL no TEMA 897, portanto, não se encontra presente no caso em análise, uma vez que, no processo de tomada de contas, o TCU não julga pessoas, não perquirindo a existência de dolo decorrente de ato de improbidade administrativa, mas, especificamente, realiza o julgamento técnico das contas à partir da reunião dos elementos objeto da fiscalização e apurada a ocorrência de irregularidade de que resulte dano ao erário, proferindo o acórdão em que se imputa o débito ao responsável, para fins de se obter o respectivo ressarcimento.
+4. A pretensão de ressarcimento ao erário em face de agentes públicos reconhecida em acórdão de Tribunal de Contas prescreve na forma da Lei 6.830/1980 (Lei de Execução Fiscal).
+5. Recurso Extraordinário DESPROVIDO, mantendo-se a extinção do processo pelo reconhecimento da prescrição. Fixação da seguinte tese para o TEMA 899: "É prescritível a pretensão de ressarcimento ao erário fundada em decisão de Tribunal de Contas".
+(RE 636.886, Rel. Min. Alexandre de Moraes, Tribunal Pleno.)
+Desse modo, é necessário oportunizar ao Tribunal de origem a realização do juízo de conformação, sendo que, somente após a sua realização estará exaurida a instância ordinária.
+Com efeito, "deve ser prestigiado o escopo perseguido na legislação processual, isto é, a criação de mecanismo que oportunize às instâncias de origem o juízo de retratação/conformação na forma dos arts. 1.039 a 1.041 do CPC/2015" (EDcl no AgInt no REsp n. 1.974.797/DF, relator Ministro Francisco Falcão, Segunda Turma, julgado em 10/6/2024, DJe de 12/6/2024).
+Assim, devem os autos retornar à Corte de origem, para que proceda ao juízo de conformação em relação às Teses firmadas pelo Supremo Tribunal Federal nos Temas n. 666, 897 e 899.
+Ante o exposto, RECONSIDERO a decisão agravada, tornando-a sem efeito, e JULGO PREJUDICADA a análise do agravo em recurso especial e, com fundamento no art. 34, inciso XXIV, do Regimento Interno do Superior Tribunal de Justiça, DETERMINO a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que seja oportunizado o juízo de conformação, à luz das Teses firmadas pelo Supremo Tribunal Federal nos Temas n. 666, 897 e 899 do regime da repercussão geral, observadas as normas dos arts. 1.040 e 1.041 do Código de Processo Civil.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESSARCIMENTO AO ERÁRIO. PRESCRIÇÃO. TEMAS N. 666, 897 E 899 DA SISTEMÁTICA DA REPERCUSSÃO GERAL. JUÍZO DE CONFORMAÇÃO. REALIZAÇÃO. NECESSIDADE. EXAURIMENTO DA INSTÂNCIA ORDINÁRIA. DECISÃO AGRAVADA RECONSIDERADA PARA, TORNANDO-A SEM EFEITO, JULGAR PREJUDICADA A ANÁLISE DO AGRAVO EM RECURSO ESPECIAL, COM A DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM.
