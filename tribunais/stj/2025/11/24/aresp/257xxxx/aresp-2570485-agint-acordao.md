@@ -1,0 +1,100 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/11/2025 a 24/11/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Marco Buzzi, João Otávio de Noronha, Raul Araújo e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. JULGAMENTO "EXTRA PETITA". INEXISTÊNCIA. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7/ STJ. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 182/STJ. DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão monocrática que negou provimento a recurso.
+II. Razões de decidir
+2. A apreciação do pleito, dentro dos limites apresentados pelas partes, na petição inicial ou nas razões recursais, mesmo que não tenha havido requerimento expresso na parte relativa aos pedidos, não revela julgamento ultra ou extra petita.
+3. Ausente o enfrentamento da matéria pelo acórdão recorrido, mesmo após a oposição de embargos declaratórios, inviável o conhecimento do recurso especial, por falta de prequestionamento. Incidência da Súmula n. 211/STJ.
+4. O recurso especial não comporta exame de questões que impliquem revolvimento de elementos fático-probatórios dos autos (Súmula n. 7/STJ).
+5. Nos termos do art. 1.021, § 1º, do CPC, é inviável agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada. Incidência da Súmula n. 182/STJ.
+III. Dispositivo
+6. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno (fls. 337-348) interposto contra decisão desta relatoria, que negou provimento ao agravo nos próprios autos, mantendo a inadmissibilidade do recurso especial (fls. 329-333).
+Em suas razões, a parte alega que "o ven. acórdão recorrido, impugnado em recurso especial, julgando improcedente a ação rescisória e considerando válida a decisão da ação originária, incidiu na mesma violação dos citados dispositivos de lei federal (arts. 128 e 460), e, com maior gravidade, também o que dispõem os artigos 331, §2º, dos artigos 473 e 300 e do artigo 303, todos do CPC/73" (fl. 339).
+Afirma que "ao contrário do que entendeu a r. decisão, os temas colocados no recurso especial inadmitido, com destaque para o julgamento extra petita na ação originária, são absolutamente distintos do que foi apreciado no acórdão rescindendo. Não há, igualmente, na ação rescisória discussão sobre fatos e sobre provas da ação originária" (fl. 340).
+Sustenta que "a alegação da filiação socioafetiva, somente foi apresentada serodiamente, quando não lhe era mais permitido, de modo que o Juízo, ao designar audiência, "diante da alegação a respeito da paternidade sócioafetiva, fato controvertido nos autos" (da sentença, fls.50/54), cerceou o direito de ampla defesa das partes autoras, infringindo, assim, os artigos 331 e §2º, 473, 300 e art. 303, todos do CPC/73" (fl. 342).
+Aponta que "ficaram estabelecidos os limites da lide, não sendo possível, na ação em que o autor pede a nulidade de registro civil de assento de nascimento, o tribunal proferir sentença declaratória de relação jurídica de filiação por afetividade" (fl. 345).
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+A parte agravada apresentou impugnação (fls. 353-359), requerendo a majoração dos honorários advocatícios.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. JULGAMENTO "EXTRA PETITA". INEXISTÊNCIA. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7/ STJ. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 182/STJ. DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão monocrática que negou provimento a recurso.
+II. Razões de decidir
+2. A apreciação do pleito, dentro dos limites apresentados pelas partes, na petição inicial ou nas razões recursais, mesmo que não tenha havido requerimento expresso na parte relativa aos pedidos, não revela julgamento ultra ou extra petita.
+3. Ausente o enfrentamento da matéria pelo acórdão recorrido, mesmo após a oposição de embargos declaratórios, inviável o conhecimento do recurso especial, por falta de prequestionamento. Incidência da Súmula n. 211/STJ.
+4. O recurso especial não comporta exame de questões que impliquem revolvimento de elementos fático-probatórios dos autos (Súmula n. 7/STJ).
+5. Nos termos do art. 1.021, § 1º, do CPC, é inviável agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada. Incidência da Súmula n. 182/STJ.
+III. Dispositivo
+6. Agravo interno desprovido.
+VOTO
+A insurgência não merece acolhida.
+A parte não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (fls. 329-333):
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial sob o fundamento de que "o recurso especial, em rescisória, deve versar especificamente sobre a incidência dos dispositivos reguladores da ação, seus pressupostos e procedimento" (fls. 287-288).
+O acórdão recorrido encontra-se assim ementado (fl. 207):
+Ação rescisória de acórdão com base no art. 966, V, doo Código de Processo Civil, envolvendo a pretensão de desconstituição de assento de nascimento, impugnando a filiação, em que houve o reconhecimento espontâneo de paternidade - Alegação de julgamento incongruente, em desacordo com os limites do pedido (extra/citra petita), infringente dos arts. 128 e 460 do Código de Processo Civil revogado - Sentença de improcedência do pedido na primeira instância, confirmada em grau de reexame pelo colegiado - Inocorrência de nulidades - Presunção da validade e eficácia do ato - Arguição de dúvida fundada sobre o vínculo biológico de acordo com resultado dos exames hematológicos - Irrelevância - Avaliação de questão prejudicial sob a ótica preponderante da existência da relação socioafetiva para a solução do litígio - Legitimidade do critério judicial adotado - Ausência de vícios formais e/ou defeitos de vontade na formalização da declaração voluntária - Exame da espécie com base na teoria da asserção - Precedentes eloquentes do Superior Tribunal de Justiça - Princípios de direito: da mihi factum, dabo tibi ius e jura novit curia - Supremacia da coisa julgada - Improcedência da rescisória.
+Os primeiros embargos de declaração foram acolhidos e os demais rejeitados (fls. 222-224, 230-232, 249-252 e 261-264).
+Nas razões do recurso especial (fls. 266-277), interposto com fundamento no art. 105, III, "a", da CF, a parte recorrente alegou violação dos seguintes dispositivos legais:
+(a) arts. 128 e 460 do CPC/1973 (arts. 141 e 492 do CPC/2015), por julgamento extra petita, sustentando que "a questão da paternidade socioafetiva não fora suscitada nos autos, a não ser, pela ré, quando a instrução já estava concluída e a prova produzida indicar a impossibilidade da paternidade biológica" (fl. 268), e
+(b) arts. 300, 303, 331, § 2º, e 473 do CPC/1973, por cerceamento de defesa, destacando que "a alegação, pela ré, da filiação socioafetiva, somente foi apresentada serodiamente, quando não lhe era mais permitido, de modo que o Juízo, ao designar audiência, "diante da alegação a respeito da paternidade sócioafetiva, fato controvertido nos autos", cerceou o direito de ampla defesa das partes autoras" (fl. 269) e
+(c) art. 85 do CPC, por entender que "há que ser revista, data venia, determinação do acórdão recorrido de elevar o valor dado à causa para efeito da condenação dos Recorrentes no pagamento de honorários advocatícios sucumbenciais" (fl. 277).
+Afirma que, "quando o proveito econômico da demanda não pode ser mensurado, os honorários advocatícios da condenação devem ser fixados em percentual sobre o valor da causa atualizado, na forma do artigo 85 do CPC" (fl. 277).
+Acrescenta que "o ven. acórdão recorrido também deve ser reformado na parte em que alterou o valor da causa e impôs maiores ônus aos recorrentes, tanto de custas, quanto de honorários" (fl. 277).
+Contrarrazões apresentadas (fls. 282-286).
+No agravo (fls. 291-299), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (fls. 301-305).
+É o relatório.
+Decido.
+Na origem, trata-se de ação rescisória proposta em face de acórdão que negou provimento à apelação interposta contra sentença que julgara improcedente o pedido de desconstituição de assento de nascimento, fundado na inexistência de paternidade/filiação biológica. Em síntese, pretende a parte autora o reexame da matéria, a rescisão e a modificação do julgado, sob o argumento de violação de norma jurídica (art. 966, V, do CPC), ao fundamento de que a decisão rescindenda teria incorrido em julgamento extra ou citra petita (fls. 207-208).
+O acórdão recorrido afastou a tese de violação do princípio da congruência destacando que "isso porque, na espécie, apenas e tão somente houve o reconhecimento sob a rubrica de questão prejudicial incidente, lá, como fundamento decisório relevante à resolução do mérito e o decreto da improcedência da pretensão, - da ocorrência de relação de afeição entre o pai e a filha -, segundo os elementos probatórios, excluindo a falsidade do documento" (fl. 208).
+O colegiado acolheu parcialmente os embargos de declaração de RITA DE CÁSSIA ELMOR, readequando o valor da causa e ajustando os honorários advocatícios a 15% sobre a quantia equivalente ao benefício patrimonial indireto (fls. 222-224).
+O recurso especial não merece prosperar.
+A parte autora ajuizou ação rescisória com fundamento no art. 966, V, do CPC, sustentando que o acórdão rescindendo teria incorrido em julgamento extra petita, porquanto a controvérsia instaurada dizia respeito à inexistência de vínculo biológico entre a ré e o suposto genitor, mas a decisão rescindenda manteve o registro de filiação com base na socioafetividade.
+Entretanto o vício de julgamento extra petita ocorre quando a decisão judicial se baseia em fatos não deduzidos em juízo ou concede provimento diverso do que foi postulado, em manifesta afronta aos limites da demanda (CPC, arts. 141 e 492). Não se confunde, todavia, com a atribuição de fundamentação jurídica diversa aos fatos trazidos aos autos, em aplicação do princípio iura novit curia.
+No caso em exame, verifica-se que, embora a contestação tenha inicialmente invocado a filiação biológica, após a realização do exame de DNA, o acórdão rescindendo, ao reconhecer a manutenção do registro civil com base na paternidade socioafetiva, limitou-se a aplicar o direito à causa de pedir fática deduzida, não se caracterizando julgamento extra petita.
+Nesse sentido, o Superior Tribunal de Justiça tem reiteradamente afirmado que a apreciação do pleito, dentro dos limites apresentados pelas partes na petição inicial ou nas razões recursais, mesmo que não tenha sido expressamente manifestado no contexto estrito dos pedidos, não revela julgamento ultra ou extra petita.
+Nesse sentido, o seguinte precedente:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. JULGAMENTO "ULTRA/EXTRA PETITA". DECISÃO SURPRESA. REFORMATIO IN PEJUS INEXISTÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. FALTA DE PREQUESTIONAMENTO. DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão monocrática que negou provimento a recurso.
+II. Razões de decidir
+2. A apreciação do pleito, dentro dos limites apresentados pelas partes, na petição inicial ou nas razões recursais, mesmo que não tenha havido requerimento expresso na parte relativa aos pedidos, não revela julgamento ultra ou extra petita.
+3. Reconhecido que a solução da controvérsia se fundamentou em documentos devidamente submetidos ao contraditório pelas partes, não há que se acolher a alegação de violação ao princípio da não surpresa, à vedação da reformatio in pejus ou à ocorrência de julgamento ultra ou extra petita.
+ ..
+III. Dispositivo 7. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 2.569.581/SP, de minha relatoria, Quarta Turma, julgado em 24/2/2025, DJEN de 28/2/2025.)
+Além disso, a despeito de se tratar do mérito do acordão rescindendo, vale mencionar que, conforme "a orientação jurisprudencial do STJ, a retificação do registro de nascimento em ação negatória de paternidade exige a comprovação de vício de consentimento e a inexistência de vínculo socioafetivo  ..  5. Segundo o entendimento que prevaleceu no julgamento do REsp n. 1.873.495, pela Terceira Turma do STJ, relatora Ministra Nancy Andrighi, julgado em 22/4/2025, o afastamento das partes após a realização de exame de DNA não autoriza a desconstituição do registro de nascimento quando constatado que existiu entre elas vínculo socioafetivo durante o período de convivência" (REsp n. 1.842.705/PR, relator Ministro Humberto Martins, Terceira Turma, julgado em 16/6/2025, DJEN de 23/6/2025).
+Ademais, o conteúdo dos arts. 300, 303, 331, § 2º, e 473 do CPC/1973, não foi analisado pela Corte local. Incidente, portanto, no caso a Súmula n. 211/STJ por falta de prequestionamento.
+A insurgência contra a revisão do valor da causa não pode ser sustentada apenas com base no art. 85 do CPC, o qual não regula a matéria. Incidente, portanto, a Súmula n. 284/STF por deficiência na fundamentação recursal.
+Com relação aos honorários advocatícios, o TJSP concluiu que "cabível a readequação da importância fixada em caráter transitório na monocrática para os fins e efeitos da sua elevação ao equivalente à estimativa da avaliação do quinhão da herança (1/4 de R$ 279.172,10 = 69.793,02, no mês de outubro de 2022), benefício patrimonial reflexo e/ou proveito econômico indireto envolvido na pretensão desconstitutiva do assento de nascimento, com a consequente exclusão da filiação e dos direitos sucessórios e, por conseguinte, a acolhida do incidente, alterados os honorários advocatícios ora arbitrados em 15% sobre essa importância, ordenando a integralização da taxa judiciária (4%) e do depósito (5%), em 30 dias e, decorridos, com a inscrição do débito na dívida ativa estadual" (fl. 223).
+A jurisprudência desta Corte é firme no sentido de que a fixação dos honorários de sucumbência, sob a égide do CPC/2015, sujeita-se à "seguinte ordem de preferência: (I) primeiro, quando houver condenação, devem ser fixados entre 10% e 20% sobre o montante desta (art. 85, § 2º); (II) segundo, não havendo condenação, serão também fixados entre 10% e 20%, das seguintes bases de cálculo: (II. a) sobre o proveito econômico obtido pelo vencedor (art. 85, § 2º); ou (II. b) não sendo possível mensurar o proveito econômico obtido, sobre o valor atualizado da causa (art. 85, § 2º); por fim, (III) havendo ou não condenação, nas causas em que for inestimável ou irrisório o proveito econômico ou em que o valor da causa for muito baixo, deverão, só então, ser fixados por apreciação equitativa (art. 85, § 8º)" (REsp n. 1.746.072/PR, relator para acórdão Ministro Raul Araújo, Segunda Seção, julgado em 13/2/2019, DJe de 29/3/2019).
+No caso concreto, a procedência da presente rescisória teria como consequência a exclusão da parte ré da sucessão, com reflexos diretos sobre a partilha. O benefício econômico perseguido pelo autor, portanto, corresponde ao quinhão hereditário que a ré, mantida como filha, faria jus no inventário.
+Estando a decisão recorrida em conformidade com a jurisprudência desta Corte, incidem no caso as Súmulas n. 83 e 568 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+Trata-se, na origem, de ação rescisória proposta contra acórdão que manteve sentença de improcedência em pedido de anulação de registro de nascimento, fundado na inexistência de paternidade biológica. A parte autora alegou violação ao art. 966, V, do CPC, sustentando que a decisão rescindenda teria incorrido em julgamento extra ou citra petita, ao reconhecer vínculo de socioafetividade entre pai e filha.
+O Tribunal de origem afastou a tese, afirmando que a menção à relação afetiva ocorreu apenas como questão prejudicial relevante à solução do mérito, não configurando julgamento fora dos limites da demanda.
+Os embargos de declaração foram parcialmente acolhidos apenas para readequar o valor da causa e ajustar os honorários.
+Conforme destacado na decisão agravada, não prospera a alegação de julgamento extra petita nem de afronta aos arts. 128 e 460 do CPC/1973, pois o Tribunal, ao reconhecer a existência de vínculo de paternidade socioafetiva, não inovou na causa de pedir nem concedeu tutela diversa da pleiteada, mas apenas examinou questão prejudicial indispensável à solução do pedido de anulação do registro civil. A referência à socioafetividade não importou em nova declaração de filiação, e sim em fundamento jurídico do indeferimento da pretensão anulatória, diante das provas constantes dos autos que evidenciaram a existência de laços afetivos entre pai e filha. Assim, a decisão limitou-se a julgar improcedente o pedido de nulidade, nos estritos limites do que foi postulado, sem extrapolar os contornos da lide.
+Segundo a jurisprudência desta Corte, "a apreciação do pleito, dentro dos limites apresentados pelas partes, na petição inicial ou nas razões recursais, mesmo que não tenha havido requerimento expresso na parte relativa aos pedidos, não revela julgamento ultra ou extra petita" (AgInt nos EDcl no AREsp n. 2.648.370/PR, de minha relatoria, Quarta Turma, julgado em 30/6/2025, DJEN de 3/7/2025).
+Incidentes, portanto, as Súmulas n. 83 e 568 do STJ.
+A alegação de violação dos arts. 300, 303, 331, § 2º, e 473 do CPC/1973, não foi analisada pelo Tribunal de origem. Dessa forma, à falta de prequestionamento, incide a Súmula n. 211/STJ.
+Ainda que assim não fosse, para acolher as razões recursais e reconhecer a existência de ofensa aos referidos dispositivos, demandaria incursão no campo fático-probatório, providência vedada na via especial, conforme a Súmula n. 7 do STJ.
+Em obediência ao princípio da dialeticidade recursal e conforme previsto no art. 1.021, § 1º, do CPC/2015, "na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada".
+Quanto à insurgência em relação ao valor da causa, e por consequência, dos honorários advocatícios, a parte agravante não impugnou o fundamento de incidência da Súmula n. 284 do STF por deficiência na fundamentação recursal.
+Assim, tendo a recorrente deixado de rebater especificamente a decisão ora agravada, incide por analogia a Súmula n. 182/STJ no caso. Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO. AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. DECISÃO AGRAVADA. FUNDAMENTOS NÃO COMBATIDOS. ART. 1021, § 1º, DO CÓDIGO DE PROCESSO CIVIL/2015. ENUNCIADO 182 DA SÚMULA DO STJ. NÃO PROVIMENTO.
+1. Nos termos do art. 1021, § 1º, do Código de Processo Civil/2015 e da Súmula 182/STJ, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+2. Agravo interno a que se nega provimento.
+(AgInt no AgRg no Ag n. 1.155.777/PE, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 10/5/2016, DJe 18/5/2016.)
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+Nos termos da jurisprudência desta Corte, não haverá a majoração de honorários advocatícios prevista no art. 85, § 11, do CPC no julgamento de agravo interno e de embargos de declaração.
+É como voto.
