@@ -1,0 +1,23 @@
+DECISÃO
+Trago à apreciação o agravo regimental interposto por EVANDRO SANTOS DE MOURA contra a decisão, por mim proferida, em que indeferi liminarmente o writ impetrado em seu favor, conforme esta ementa (fl. 226):
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS E POSSE ILEGAL DE MUNIÇÕES DE USO PERMITIDO. PLEITO DE TRANCAMENTO DA AÇÃO PENAL. MEDIDA EXCEPCIONAL. NULIDADE. VIOLAÇÃO DE DOMICÍLIO. NÃO OCORRÊNCIA. FUNDADAS RAZÕES. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. INDICAÇÃO DE ELEMENTOS CONCRETOS QUE DENOTAM A NECESSIDADE DA CUSTÓDIA PARA A GARANTIA DA ORDEM PÚBLICA. QUANTIDADE DE DROGA APREENDIDA (1.726,6 G DE MACONHA; 10,1 G DE HAXIXE E 4 FRASCOS COM SEMENTES DE MACONHA) E MUNIÇÕES. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+Petição inicial indeferida liminarmente.
+Neste recurso, a defesa sustenta que a decisão agravada é genérica e abstrata, afirma omissão na análise de medidas cautelares diversas da prisão, ressalta a primariedade do agravante e que foi apreendida quantidade de droga não exorbitante.
+Ao final, requer o provimento do agravo regimental pela Sexta Turma, a fim de revogar a prisão preventiva mediante a aplicação de medidas alternativas previstas no 319 do Código de Processo Penal - CPP.
+O agravado foi intimado para apresentar contrarrazões ao agravo regimental de fls. 234/246, mas deixou transcorrer in albis seu prazo (fl. 267).
+Parecer do Ministério Público Federal, às fls. 270/273, opinando pelo desprovimento do agravo regimental.
+É o relatório.
+Razão assiste ao agravante, e a decisão deve ser reconsiderada.
+Por oportuno, o Juízo de primeiro grau decretou a prisão preventiva com base nos seguintes fundamentos (fls. 93/94 - grifo nosso):
+ ..
+Assentado o fumus comissi delicti, debruço-me sobre o eventual periculum in libertatis. E, a esse respeito, observo a necessidade de decretação da medida mais gravosa, eis que a preservação da ordem pública a impõe. Com efeito, a conduta delitiva do autuado é de acentuada gravidade e lesividade à saúde pública, considerando a apreensão de relevante quantidade de substância entorpecente, MAIS DE DOIS QUILOS de maconha, o que acresce reprovabilidade à sua conduta delitiva e denota o perigo gerado pelo seu estado de liberdade. Ademais, foram apreendidos, com o acusado petrechos (balança digital e sacos zip lock). Além disso, os policiais militares já possuíam informações de que havia traficância no local, e, ainda, foram apreendidas munições, o que denota dedicação a atos criminosos. (..) Ressalte-se, a esse respeito, que a quantidade da droga apreendida e a apreensão de petrechos e de munição, justificam a decretação de custódia cautelar (..)
+ ..
+No caso, a despeito de a segregação cautelar se encontrar devidamente justificada - quantidade de droga apreendida, petrechos e munições -, o crime foi perpetrado sem violência ou grave ameaça, não se extrai dos autos que o acusado integre organização criminosa, circunstâncias que firmam a possibilidade de substituição da prisão por cautelares diversas.
+As circunstâncias do caso evidenciam a necessidade de algum acautelamento da ordem pública; contudo, não se mostram aptas, em juízo de proporcionalidade, a embasar uma segregação corpórea.
+Importante salientar que, com o advento da Lei n. 12.403/2011, a prisão cautelar passou a ser, mais ainda, a mais excepcional das medidas, devendo ser aplicada somente quando comprovada a inequívoca necessidade, devendo-se sempre verificar se existem medidas alternativas à prisão adequadas ao caso concreto" (HC n. 305.905/SP, Relator Ministro de minha relatoria, Sexta Turma, julgado em 4/12/2014, DJe 17/12/2014) - (AgRg no RHC n. 210.080/RS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN 26/2/2025).
+Ante o exposto, reconsidero a decisão de fls. 226/229 e concedo a ordem de habeas corpus para revogar a prisão cautelar imposta ao paciente, devendo o magistrado aplicar as medidas alternativas à prisão, previstas no art. 319 do Código de Processo Penal, que entender mais adequadas aos fatos e à situação do réu, sem prejuízo da decretação da prisão provisória em caso de descumprimento de quaisquer das obrigações impostas por força das cautelares ou da superveniência de motivos concretos para tanto.
+Comunique-se, com urgência, ao Juízo competente.
+Publique-se.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. REVOGAÇÃO. QUANTIDADE DE DROGA APREENDIDA (1.726,6 G DE MACONHA; 10,1 G DE HAXIXE E 4 FRASCOS COM SEMENTES DE MACONHA) E 3 MUNIÇÕES. EXCEPCIONALIDADE. SUBSTITUIÇÃO POR MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. PROPORCIONALIDADE, SUFICIÊNCIA E ADEQUAÇÃO. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Reconsiderada a decisão agravada. Ordem concedida nos termos do dispositivo.
