@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial pelo qual a FAZENDA DO ESTADO DE SÃO PAULO se insurgira contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 140):
+TRIBUTÁRIO - MANDADO DE SEGURANÇA - ITCMD - Base de cálculo - Pretensão da Fazenda Pública Estadual ao reconhecimento da instauração de procedimento de arbitramento de valores, na forma do art. 11, da Lei nº 10.705/00 - Inocorrência - Previsão legal de arbitramento que não confere à Fazenda o poder de estabelecer, por decreto, parâmetro genérico e indistinto para o cálculo de ITCMD - Prevalência do único referencial previsto em Lei - Precedentes da Câmara - Sentença mantida - Apelo não provido e reexame necessário rejeitado.
+Os embargos de declaração opostos foram rejeitados (fls. 156/162).
+Nas razões de seu recurso especial, a parte ora agravante alega (fls. 173/174):
+Isso porque, se a base de cálculo prevista para o ITCMD incidente sobre bens imóveis é o valor venal, logo, a negativa da possibilidade de arbitramento implica a impossibilidade de lançamento do ITCMD com base no valor venal dos bens tributados, o que, ao fim e ao cabo, acarreta negativa de vigência do art. 38 do CTN.
+A parte adversa apresentou contrarrazões (fls. 187/19 0).
+O recurso não foi admitido (fls. 191/194), razão pela qual foi interposto o agravo em recurso especial ora examinado.
+É o relatório.
+A questão debatida nos autos foi afetada à Primeira Seção do Superior Tribunal de Justiça para ser decidida sob o rito de recursos repetitivos (Tema 1.371), e foi assim delimitada: "Definir se a prerrogativa do fisco de arbitrar a base de cálculo do ITCMD decorre diretamente do CTN ou está sujeita às normas específicas da Unidade da Federação" (ProAfR no REsp 2.175.094/SP, relatora Ministra Maria Thereza de Assis Moura, DJEN de 19/8/2025).
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+O envio do recurso especial a esta Corte Superior deve ocorrer somente após o esgotamento da instância ordinária, formalizado com o novo julgamento pelo Tribunal de origem, quando então será possível examinar, no âmbito do STJ, as matérias jurídicas que eventualmente permanecerem controvertidas. Essa cautela também evita o fracionamento do recurso e previne eventual violação ao princípio da unicidade recursal, que veda a interposição simultânea ou sucessiva de recursos contra a mesma decisão.
+Ante o exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil (CPC), após a publicação do acórdão dos recursos representativos de controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do mesmo CPC.
+Publique-se. Intimem-se.
+ EMENTA
