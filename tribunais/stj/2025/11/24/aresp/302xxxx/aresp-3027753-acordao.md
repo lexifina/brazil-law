@@ -1,0 +1,140 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/11/2025 a 24/11/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Daniela Teixeira, Nancy Andrighi, Humberto Martins e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO INIBITÓRIA. PLEITO DE ANÁLISE DE MATÉRIA CONSTITUCIONAL. DESCABIMENTO. PRECEDENTES. FUNDAMENTAÇÃO DEFICIENTE. ILAÇÕES GENÉRICAS. APLICAÇÃO DA SÚMULA N. 284 DO STF, POR ANALOGIA. CONCORRÊNCIA DESLEAL. DEMONSTRAÇÃO. REFORMA DO JULGADO. ANÁLISE DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO NOS MOLDES LEGAIS. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Consoante disposto no art. 105 da Carta Magna, o Superior Tribunal de Justiça não é competente para se manifestar sobre suposta violação de dispositivo constitucional, nem mesmo a título de prequestionamento.
+2. A alegada afronta à lei federal não foi demonstrada com clareza, caracterizando, dessa maneira, a ausência de fundamentação jurídica e legal, conforme previsto na Súmula n. 284 do STF.
+3. Alterar as conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula n. 7 do STJ.
+4. A não observância aos requisitos dos arts. 1.029, § 1º, do NCPC, e 255, §§ 1º e 2º, do Regimento Interno do Superior Tribunal de Justiça torna inadmissível o conhecimento do recurso com fundamento na alínea c do permissivo constitucional.
+5. Agravo conhecido para não conhecer do recurso especial.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por ANDRÉ SILVA VENTICINQUE, CRISTINA ATALLA FERREIRA, LEANDRO JUNGBLUT CORACINI, PAULO HENRIQUE SOPRANA, FERNANDA CABRAL BARBOSA PASSOS e FATTO CAPITAL - ASSESSOR DE INVESTIMENTO LTDA. (ANDRÉ e outros) contra decisão que negou seguimento ao seu apelo nobre anteriormente manejado.
+Foi apresentada contraminuta (e-STJ, fls. 1.718/1.722).
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial.
+O recurso especial, amparado no art. 105, III, a e c, da CF, foi interposto contra acórdão do Tribunal estadual assim ementado:
+EMENTA: APELAÇÃO CÍVEL. AÇÃO INIBITÓRIA. PRELIMINARES CONCORRÊNCIA DESLEAL IMPUTADA A EX-EMPREGADOS. USO DE INFORMAÇÕES SIGILOSAS. CAPTAÇÃO ILEGAL DE CLIENTES. EMPRESA CRIADA DO MESMO RAMO DA ATIVIDADE PREVIAMENTE EXERCIDA. SENTENÇA MANTIDA.
+1. Preliminar - a competência material da Justiça do Trabalho encontra-se estabelecida no art. 114 da CF/88, e está adstrita, em regra, à conciliação e julgamento dos dissídios individuais e coletivos resultantes dos contratos de trabalho, matéria que não se confunde com a dos autos, que versa sobre concorrência desleal.
+2. Preliminar - ilegitimidade passiva - são legítimos para figurar no pólo passivo da ação inibitória todos aqueles ex-funcionários banco apelado, com possível acesso lícito (ou não) às informações sigilosas, que começaram a exercer, em conjunto mediante a constituição de pessoa jurídica, ou individualmente na condição de autônomos, a atividade similar à da instituição financeira que anteriormente exerciam quando ainda vinculados.
+3 - Funcionários do Banco que obtiveram, em razão dos cargos que ocupavam, dados de 42.887 clientes, com total aplicado de aproximadamente 12 bilhões de reais, para posterior desligamento do emprego e abertura de empresa do mesmo ramo de atuação.
+3 - Configura concorrência desleal a constatação conjunta i) da captação ilegal de clientes com a utilização de informações cujo conhecimento a parte somente obteve acesso em razão do exercício pretérito de atividades laborais junto a outra pessoa jurídica concorrente, e ii) a criação de uma nova empresa pelos ex-funcionários, no mesmo ramo da atividade desempenhada pela concorrente.
+4 - Preliminares de incompetência absoluta da Justiça Comum e de ilegitimidade passiva arguidas pelos apelantes rejeitada à unanimidade. Apelação Cível não provida (e-STJ, fl. 1.457).
+Nas razões do seu inconformismo, ANDRÉ e outros alegaram ofensa aos arts. 175 da CF, 11, 373, I, 489, § 1º, II, III, IV, V e VI e 1.022, I e II, do NCPC, e 195 da Lei n. 9.279/1996, além de divergência jurisprudencial. Sustentaram que (1) o aresto recorrido foi omisso e desprovido de fundamentação, porque não se manifestou acerca das questões suscitadas; e (2) não foi indicada nenhuma conduta capaz de demonstrar a existência de prática de concorrência desleal.
+Foram apresentadas contrarrazões (e-STJ, fls. 1.660-1.670).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO INIBITÓRIA. PLEITO DE ANÁLISE DE MATÉRIA CONSTITUCIONAL. DESCABIMENTO. PRECEDENTES. FUNDAMENTAÇÃO DEFICIENTE. ILAÇÕES GENÉRICAS. APLICAÇÃO DA SÚMULA N. 284 DO STF, POR ANALOGIA. CONCORRÊNCIA DESLEAL. DEMONSTRAÇÃO. REFORMA DO JULGADO. ANÁLISE DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO NOS MOLDES LEGAIS. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Consoante disposto no art. 105 da Carta Magna, o Superior Tribunal de Justiça não é competente para se manifestar sobre suposta violação de dispositivo constitucional, nem mesmo a título de prequestionamento.
+2. A alegada afronta à lei federal não foi demonstrada com clareza, caracterizando, dessa maneira, a ausência de fundamentação jurídica e legal, conforme previsto na Súmula n. 284 do STF.
+3. Alterar as conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula n. 7 do STJ.
+4. A não observância aos requisitos dos arts. 1.029, § 1º, do NCPC, e 255, §§ 1º e 2º, do Regimento Interno do Superior Tribunal de Justiça torna inadmissível o conhecimento do recurso com fundamento na alínea c do permissivo constitucional.
+5. Agravo conhecido para não conhecer do recurso especial.
+VOTO
+O inconformismo, no entanto, não merece prosperar.
+Tema constitucional
+ANDRÉ e outros alegaram contrariedade ao art. 175 da CF.
+No entanto, tal assertiva é tese natimorta.
+A jurisprudência deste Tribunal Superior expõe que não cabe a apreciação de suposta ofensa a matéria constitucional, ainda que para fins de prequestionamento, sob pena de invasão da competência do Supremo Tribunal Federal.
+Nesse sentido, veja-se o julgado:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO RECEBIDO COMO AGRAVO REGIMENTAL. TEMPESTIVIDADE COMPROVADA. AUSÊNCIA DE PREQUESTIONAMENTO. MATÉRIA CONSTITUCIONAL.
+ ..
+3. Aplicam-se os óbices previstos nas Súmulas n. 282 e 356/STF quando as questões suscitadas no recurso especial não tenham sido debatidas no acórdão recorrido nem, a respeito, tenham sido opostos embargos declaratórios.
+4. O recurso especial não é sede própria para o exame de matéria constitucional.
+5. Embargos de declaração recebidos como agravo regimental, do qual se conhece para negar-lhe provimento.
+(EDcl no AREsp 168.842/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Terceira Turma, j. 16/9/2014, DJe 22/9/2014 - sem destaque no original)
+Da alegada existência de omissão e de ausência de fundamentação no aresto recorrido
+ANDRÉ e outros alegaram ofensa aos arts. 489, § 1º, II, III, IV, V e VI, e 1.022, I e II, do NCPC. Sustentaram que o aresto recorrido foi omisso e desprovido de fundamentação, porque não se manifestou acerca das questões suscitadas.
+Vale pontuar que, na via estreita do recurso especial, é exigível a demonstração inequívoca da ofensa ao dispositivo inquinado como violado, bem como a sua particularização, a fim de possibilitar o seu exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação de dispositivos infraconstitucionais tidos como contrariados ou a alegação genérica de ofensa a lei caracterizam deficiência de fundamentação, em conformidade com a Súmula n. 284 do STF: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+No presente caso, da leitura das razões do especial, verificou-se que ANDRÉ e outros não apresentaram argumentos claros e concatenados no tocante ao alegado, mas apenas ilações genéricas, pois se limitaram a asseverar que o aresto recorrido foi omisso e desprovido de fundamentação, porque não se manifestou acerca das questões suscitadas.
+Sobre o tema, vejam-se os precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. PENHORA. ALEGAÇÃO DE AFASTAMENTO. ALEGAÇÃO GENÉRICA DE OFENSA A DISPOSITIVO DE LEI FEDERAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL. REEXAME. IMPOSSIBILIDADE. VERBETES SUMULARES N. 7 E 83 DO SUPERIOR TRIBUNAL DE JUSTIÇA. APLICAÇÃO. NÃO PROVIDO.
+1. A jurisprudência desta Corte considera que quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284 do Supremo Tribunal Federal. Precedentes.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Verbete sumular n. 7 do Superior Tribunal de Justiça).
+3. "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida" (Enunciado da Súmula n. 83 desta Corte Superior).
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.931.592/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 12/9/2022, DJe de 19/9/2022 - sem destaque no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL C/C RESTITUIÇÃO DE VALORES. CONTRATO DE MÚTUO. 1. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. OMISSÃO. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. 2. TESE SOBRE INÉPCIA DA INICIAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULAS N. 283 E 284/STF. 3. PRESCRIÇÃO QUINQUENAL E TERMO INICIAL. SÚMULA N. 83/STJ. 4. ALEGAÇÃO DE EXCEÇÃO DO CONTRATO NÃO CUMPRIDO. SÚMULA N. 7/STJ. 5. AGIOTAGEM NÃO CARACTERIZADA. JUROS PACTUADOS NOS LIMITES LEGAIS. 6. MULTA DO ART. 1.021, § 4º, DO CPC/2015. NÃO CABIMENTO. 7. AGRAVO INTERNO DESPROVIDO.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos em relação aos quais o acórdão se fez omisso, contraditório ou obscuro. Incidência da Súmula 284 do STF.
+2. A ausência de impugnação específica sobre fundamento suficiente, que por si só, é capaz de manter a conclusão esposada no acórdão recorrido, configura deficiência na fundamentação e atrai a incidência das Súmulas 283 e 284 do STF.
+3. A cobrança de dívida líquida constante em instrumento particular sujeita-se ao prazo prescricional de 5 (cinco) anos, nos termos do art. 206, § 5º, I, do CC/2002. Termo inicial do prazo prescricional se dá no dia de pagamento da última parcela.
+4. Rever a conclusão esposada no acórdão recorrido, quanto à tese de exceção do contrato não cumprido, demandaria revolvimento do conjunto fático-probatório, o que encontra óbice na Súmula 7/STJ.
+5. Não está caracterizada a agiotagem, sendo o débito exigível, tendo em vista que a pactuação dos juros não ultrapassou o limite da taxa prevista em lei.
+6. Não merece ser acolhido o pedido de aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015, porquanto esta não é automática, não se tratando de mera decorrência lógica do desprovimento do agravo interno em votação unânime.
+7. Agravo interno desprovido.
+(AgInt no AREsp n. 2.107.815/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 15/8/2022, DJe de 18/8/2022 -sem destaque no original)
+Quanto à não demonstração de existência de concorrência desleal
+ANDRÉ e outros alegaram afronta ao art. 195 da Lei n. 9.279/1996. Sustentaram que não foi indicada nenhuma conduta capaz de demonstrar a existência de prática de concorrência desleal.
+Sobre o tema, a Corte local consignou:
+Ademais, restou sobejamente comprovada nos autos, a prática de atos por parte dos recorrentes que caracterizam concorrência desleal, tendo sido obtidas, ilicitamente, informações privilegiadas e sigilosas acerca de investimentos de mais de 42.000 (quarenta e dois mil) clientes, nas mais variadas praças.
+Todos os apelantes ocupavam postos de destaque na instituição recorrida, tendo à mão acesso rápido e descomplicado de dados sigilosos de seus clientes, como o tipo do investimento escolhido, tamanho do patrimônio investido, histórico de aportes e saques, informações confidenciais e que transcendem a meros dados cadastrais.
+Nesse contexto, a constituição da empresa Fatto Capital - Agente Autônomo de Investimento Ltda pelos apelantes, logo após seus desligamentos do Banco do Brasil, indicava uma iminente lesão aos interesses da instituição e de seus clientes, sendo bastante provável que os dados em questão fossem utilizados pela nova firma ou por alguns dos novos sócios para captar clientela considerável e com potencial de investimento consolidado.
+Aliado a isto, há comprovação de que o apelante André Silva Venticinque requisitou e obteve relação de clientes especiais do Banco do Brasil, para uso pessoal e para a nova empresa, com o fito de amealhar parte da clientela que anteriormente administrava no BB, atentando contra os princípios que permeiam a livre concorrência.
+ ..
+Assim, entendo que restou demonstrada a concorrência desleal na hipótese. Houve criação de uma nova empresa pelos ex-funcionários do banco recorrido, no mesmo ramo da atividade em referência, bem assim ficou demonstrada a captação ilegal de clientes, a partir do uso de informações acessíveis em razão do exercício prévio dos recorrentes no BB (e-STJ, fls. 1.449/1.450).
+Nesse contexto, conforme acima transcrito, o Tribunal estadual, soberano na análise do contexto fático-probatório, concluiu pela demonstração de concorrência desleal na hipótese, pois houve criação de uma nova empresa pelos ex-funcionários do BANCO DO BRASIL S.A. (BANCO), no mesmo ramo da atividade em referência, além de ter ficado comprovada a captação ilegal de clientes, a partir do uso de informações acessíveis em razão do exercício prévio dos recorrentes na instituição financeira.
+Por isso, conforme se nota, o TJPE assim decidiu com amparo no contexto fático-probatório da causa, de modo que a revisão do julgado, com o consequente acolhimento da pretensão recursal, demandaria, necessariamente, o reexame das provas, o que não se admite no âmbito do recurso especial, ante o óbice da Súmula n. 7 do STJ.
+Ilustrativamente:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. CONCORRÊNCIA DESLEAL E TRADE DRESS. NECESSIDADE DE PROVA PERICIAL. AUSÊNCIA DE PEDIDO PARA REALIZAÇÃO DE PERÍCIA. CONCORDÂNCIA EXPRESSA COM O JULGAMENTO IMEDIATO. DECISÃO DESFAVORÁVEL. PEDIDO POSTERIOR PARA REALIZAÇÃO DE PERÍCIA. COMPORTAMENTO CONTRADITÓRIO. OFENSA AO PRINCÍPIO DA BOA-FÉ OBJETIVA. AUSÊNCIA DE PREQUESTIONAMENTO. APLICAÇÃO DAS SÚMULAS 282 E 356 DO STF E SÚMULA 211 DO STJ. REEXAME DE PROVAS. SÚMULA 7 DO STJ.
+MANUTENÇÃO DO ACÓRDÃO RECORRIDO.
+1. Agravo interno interposto pela Confederação Brasileira de Futebol (CBF) contra decisão que negou provimento ao agravo em recurso especial, mantendo acórdão do Tribunal de Justiça do Estado do Rio de Janeiro (TJRJ) que julgou improcedente pedido de cessação de comercialização de camisas supostamente semelhantes aos uniformes da Seleção Brasileira de Futebol.
+2. Jurisprudência do STJ no sentido da indispensabilidade da prova técnica em casos que envolvem a verificação de concorrência desleal decorrente do uso indevido de conjunto-imagem de produtos.
+3. Agravante requereu apenas a produção de prova documental (pesquisa de opinião conduzida pelo IBOPE), renunciando expressamente à produção de outras provas ao declarar que a causa já estava madura para julgamento.
+4. A postura da recorrente de não requerer a produção da prova pericial e só manifestar interesse em realizá-la depois que o julgamento proferido foi a ela desfavorável configura, nitidamente, comportamento contraditório (venire contra factum proprium) e afronta o princípio da boa-fé objetiva.
+5.
+Jurisprudência desta Corte Superior é no sentido de que a parte não pode alegar cerceamento de defesa se, instada a se manifestar sobre as provas que pretendia produzir, nada requereu, pleiteando apenas o julgamento imediato da causa.
+6. A ausência de prequestionamento impede o conhecimento da questão pelo Superior Tribunal de Justiça.
+Incidência das Súmulas 282 e 356 do STF e Súmula 211 do STJ.
+7. Para rever as conclusões do acórdão recorrido e entender que a Adidas cometeu ato de concorrência desleal, seria necessário reexaminar as questões fáticas e probatórias, o que encontra óbice na Súmula 7 desta Corte Superior.
+8. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.478.496/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 1/9/2025, DJEN de 4/9/2025 - sem destaque no original)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APELAÇÃO. MARCA. PATENTE. CONCORRÊNCIA DESLEAL. NECESSIDADE DE ANÁLISE DE PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. DANO MORAL. QUANTUM INDENIZATÓRIO. REEXAME FÁTICO-PROBATÓRIO. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. A análise da pretensão recursal demandaria a incursão em aspectos fático-probatórios dos autos, atividade inviável em recurso especial, tendo em vista o óbice da Súmula n. 7 do STJ.
+2. A jurisprudência do Superior Tribunal de Justiça consolidou o entendimento de que os valores fixados a título de danos morais, porque arbitrados com fundamento no arcabouço fático-probatório carreado aos autos, só podem ser alterados em hipóteses excepcionais, quando constatada nítida ofensa aos princípios da razoabilidade e da proporcionalidade, mostrando-se irrisória ou exorbitante.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 2.779.338/SP, de minha relatoria, Terceira Turma, julgado em 25/8/2025, DJEN de 28/8/2025 - sem destaque no original)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. PROPRIEDADE INDUSTRIAL. VIOLAÇÃO DO ART. 1.022 DO CPC. INEXISTENTE. UTILIZAÇÃO INDEVIDA DE PROPRIEDADE INDUSTRIAL. CONCORRÊNCIA DESLEAL. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ. DANO MORAL IN RE IPSA. SÚMULA N. 83/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA.
+1. Em síntese, cuida-se de ação de obrigação de não fazer cumulada com indenização por danos materiais e morais, interposta em decorrência do uso de marca exclusiva.
+2. Não se reconhecem a omissão e a negativa de prestação jurisdicional quando há o exame, de forma fundamentada, de todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte. Ausência de violação do art. 1.022 do CPC.
+3. Insuscetível de revisão, nesta via recursal, o entendimento do Tribunal de origem que, com base nos elementos de convicção do autos, entendeu pela ocorrência de utilização indevida das propriedades industriais da agravada e pela prática de concorrência desleal, porquanto demanda a reapreciação de matéria fática, o que é obstado pela Súmula n. 7/STJ.
+4. É firme a jurisprudência desta Corte no sentido de que "o dano moral por uso indevido de marca deriva diretamente da prova que revele a existência de contrafação (dano moral in re ipsa), dispensando a prova de efetivo prejuízo" (AgInt no REsp n. 1537883/PR, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 15/8/2019, DJe 4/9/2019). Incidência da Súmula n. 83/STJ.
+5. Fica prejudicado o exame da divergência jurisprudencial quando a tese recursal já foi afastada na análise do recurso especial pela alínea "a" em razão da incidência do óbice da Súmula n. 7/STJ.
+Agravo interno improvido.
+(AgInt no AREsp n. 2.701.616/DF, relator Ministro Humberto Martins, Terceira Turma, julgado em 9/12/2024, DJEN de 12/12/2024 - sem destaque no original)
+Em relação à divergência jurisprudencial
+Por derradeiro, ANDRÉ e outros aduziram divergência jurisprudencial.
+Da análise do recurso interposto, é possível verificar que ANDRÉ e outros não cumpriram a tarefa no tocante ao dissídio interpretativo viabilizador do recurso especial, que não foi demonstrado nos termos exigidos pela legislação e pelas normas regimentais.
+Isso porque, além de indicar o dispositivo legal e transcrever os julgados apontados como paradigmas, é necessário realizar o cotejo analítico, demonstrando-se a identidade das situações fáticas e a interpretação diversa dada ao mesmo dispositivo legal, o que não ocorreu.
+Portanto, não foram preenchidos os requisitos dos arts. 1.029, § 1º, do NCPC, e 255 do RISTJ, o que inviabiliza o exame de dissídio interpretativo.
+A propósito, confiram-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DANO MORAL. DISSÍDIO JURISPRUDENCIAL. NÃO CONFIGURAÇÃO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional exige comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não se oferecendo como bastante a simples transcrição de ementas sem realizar o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 2.017.293/SC, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 29/8/2022, DJe de 31/8/2022 - sem destaque no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. ALEGAÇÃO DE INDEVIDA NEGATIVAÇÃO DO NOME DOS CONSUMIDORES EM ÓRGÃOS DE PROTEÇÃO AO CRÉDITO. PEDIDO INDENIZATÓRIO. FUNDAMENTAÇÃO DEFICIENTE QUANTO À ALEGADA VIOLAÇÃO AOS DISPOSITIVOS ELENCADOS. SÚMULA 284/STF. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIA NÃO COMPROVADO.
+1. A parte recorrente olvidou-se da indicação clara e inequívoca sobre como teria se dado a violação aos arts. 186 e 927 do CC/02 e art. 14 do CDC, o que caracteriza deficiência na fundamentação recursal. Assim, a fundamentação do recurso é deficiente, aplicando-se, por analogia, a Súmula 284 do Supremo Tribunal Federal.
+2. Rever a conclusão a que chegou o Tribunal local, acolhendo a tese da parte recorrente no sentido de que houve configuração de dano moral indenizável, pois a negativação dos nomes dos consumidores se deu de forma indevida, demandaria o revolvimento do acervo fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+3. O Tribunal de origem apesar de opostos embargos declaratórios pela parte Recorrente não se manifestou acerca dos mencionados argumentos, a demonstrar a ausência de prequestionamento da matéria, indispensável ao conhecimento do recurso especial. Incide, à espécie, o óbice da Súmula 211 do Superior Tribunal de Justiça.
+4. Divergência jurisprudencial deve ser demonstrada com a indicação das circunstâncias que identifiquem ou assemelhem os casos confrontados. A simples transcrição de ementas não é suficiente para a comprovação do dissídio. No caso, não houve o devido cotejo entre o acórdão recorrido e os paradigmas indicados.
+AGRAVO DESPROVIDO.
+(AgInt no AREsp n. 2.037.628/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 29/8/2022, DJe de 1º/9/2022 - sem destaque no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. AGRAVO DE INSTRUMENTO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. PREENCHIMENTO DOS REQUISITOS PARA INVERSÃO DO ÔNUS DA PROVA. CONSTATAÇÃO PELAS INSTÂNCIAS ORDINÁRIAS. REVISÃO. ÓBICE DA SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AGRAVO INTERNO DESPROVIDO.
+1. Conforme entendimento da Corte Especial do Superior Tribunal de Justiça, "a ausência de impugnação, no agravo interno, de capítulo autônomo e/ou independente da decisão monocrática do relator - proferida ao apreciar recurso especial ou agravo em recurso especial - apenas acarreta a preclusão da matéria não impugnada, não atraindo a incidência da Súmula 182 do STJ" (EREsp n. 1.424.404/SP, Rel. Ministro Luis Felipe Salomão, Corte Especial, julgado em 20/10/2021, DJe 17/11/2021).
+2. Não ficou configurada a violação aos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+3. No caso, concluindo o aresto impugnado pela presença dos elementos ensejadores à inversão do ônus da prova na espécie, descabe ao Superior Tribunal de Justiça rever o entendimento alcançado, pois se exige, para tanto, o reexame do conteúdo fático-probatório da causa, o que é vedado pela Súmula n. 7/STJ, no âmbito do recurso especial.
+4. Não se revela cognoscível a irresignação deduzida por meio da alínea c do permissivo constitucional, porquanto a recorrente não demonstrou a divergência nos moldes exigidos pelos arts. 1.029, § 1º, do CPC/2015 e 255, §§ 1º e 2º, do RISTJ. A mera transcrição de ementas e excertos, desprovida da realização do necessário cotejo analítico entre os arestos confrontados, mostra-se insuficiente para comprovar a divergência jurisprudencial ensejadora da abertura da via especial com esteio na alínea c do permissivo constitucional.
+5. O mero não conhecimento ou a improcedência do agravo interno não enseja a necessária imposição da multa prevista no art. 1.021, § 4º, do CPC/2015, tornando-se imperioso para tal que seja nítido o descabimento do recurso, o que não se verifica no caso concreto.
+6. Agravo interno desprovido.
+(AgInt no AREsp n. 2.092.111/GO, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 15/8/2022, DJe de 18/8/2022 -sem destaque no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. VIOLAÇÃO DO ART. 535 DO CPC/73. NÃO OCORRÊNCIA. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. AUSÊNCIA DE COTEJO ANALÍTICO. CORREÇÃO MONETÁRIA. SÚMULA 5 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não há violação do art. 535 do CPC/73 quando o eg. Tribunal estadual aprecia a controvérsia em sua inteireza e de forma fundamentada.
+2. Para a caracterização da divergência jurisprudencial, não basta a simples transcrição de ementas. Devem ser mencionadas e expostas as circunstâncias que identificam ou assemelham os casos confrontados, sob pena de não serem atendidos, como na hipótese, os requisitos previstos nos arts. 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ.
+3. Não é possível alterar o entendimento da Corte de origem quanto ao valor da correção monetária, mormente porque a referida análise foi realizada com base no instrumento contratual, incidindo, no ponto, a Súmula 5 do STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.005.410/MG, relator Ministro Raul Araújo, Quarta Turma, julgado em 15/8/2022, DJe de 26/8/2022 - sem destaque no original)
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Não obstante a aplicabilidade do NCPC, deixo de apreciar tema referente à majoração da verba honorária, porque já fixada no patamar legal máximo.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas no art. 1.026, § 2º, do NCPC.
+É o voto.
