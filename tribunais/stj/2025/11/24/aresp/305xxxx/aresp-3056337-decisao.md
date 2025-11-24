@@ -1,0 +1,28 @@
+DECISÃO
+Em análise agravo em recurso especial interposto contra a decisão que, na origem, inadmitiu o recurso especial, por inobservância ao art. 1.029 do CPC.
+O agravante foi condenado como incurso no artigo 33, caput, c/c artigo 40, inciso IV, ambos da Lei n. 11.343/06, às penas de 14 anos e 6 meses de reclusão, em regime inicial fechado, e de 1.450 dias-multa, no mínimo legal.
+O Tribunal de origem negou provimento à apelação defensiva (e-STJ fls. 4291-312) e rejeitou os embargos de declaração opostos pela defesa (e-STJ fls. 324-342).
+Contra referidos acórdãos, foram interpostos recurso especial e recurso extraordinário, em petição única, alegando-se negativa de vigência ao art. 386, II, V e VII, do CPP, ao argumento, em síntese, de que não pode a condenação se fundar tão somente nos depoimentos dos policiais militares, sem outras provas corroborativas, e ao art. 59 do CP, ante a fundamentação genérica para majoração da pena-base e imposição do regime inicial fechado (e-STJ fls. 344-354).
+O recurso especial foi inadmitido (e-STJ fls. 365-368) e interposto o presente agravo, no qual se sustenta que a interposição dos dois recursos em petição única não enseja, por si só, a inadmissibilidade do recurso especial e que deve ser aplicado o princípio da fungibilidade recursal (e-STJ fls. 372-375).
+O Ministério Público Federal oficiou pelo não conhecimento agravo, em parecer assim ementado (e-STJ fls. 518-519).
+PARECER AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. RECURSO ESPECIAL E EXTRAORDINÁRIO CUMULADOS EM PETIÇÃO ÚNICA. AUSÊNCIA DE REGULARIDADE FORMAL. PARECER PELO NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL.
+É o relatório.
+Decido.
+O agravo em recurso especial é tempestivo e infirmou os argumentos da decisão do Tribunal a quo, razão pela qual, nos termos do art. 253, parágrafo único, inciso II, do RISTJ, conheço do agravo e passo ao exame do recurso especial.
+O recurso especial, contudo, não comporta conhecimento, uma vez que ausente requisito de admissibilidade do referido recurso.
+Com efeito, a interposição, em única petição, das razões do recurso especial e do recurso extraordinário viola o disposto no art. 1.029 do CPC/2015, segundo o qual "O recurso extraordinário e o recurso especial, nos casos previstos na Constituição Federal, serão interpostos perante o presidente ou o vice-presidente do tribunal recorrido, em petições distintas que conterão:".
+A propósito, nesse sentido, confiram-se os seguintes arestos desta Corte de Justiça:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRINCÍPIO DA COLEGIALIDADE. SÚMULA N. 568/STJ. RECURSO ESPECIAL E RECURSO EXTRAORDINÁRIO EM UMA MESMA PETIÇÃO. IRREGULARIDADE FORMAL. CPC/73. AGRAVO DESPROVIDO.
+1. Não viola o princípio da colegialidade a decisão monocrática do relator, tendo em vista a possibilidade de submissão do julgado ao exame do órgão colegiado, mediante a interposição de agravo regimental.
+2. "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça". (Enunciado Administrativo 2/2016 do Plenário do Superior Tribunal de Justiça)
+3. Cumulação em uma única petição das razões do especial e do extraordinário caracteriza irregularidade formal, à luz dos artigos 541 do CPC/1973 e 28 da Lei 8.038/90.
+4. Agravo regimental desprovido. (AgRg no AREsp 708184 / RS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 6/8/2019, DJe 13/8/2019)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. INTERPOSIÇÃO SIMULTÂNEA, NA MESMA PETIÇÃO, DE RECURSO ESPECIAL E DE RECURSO EXTRAORDINÁRIO. AUSÊNCIA DE PREENCHIMENTO DE REQUISITO DE ADMISSIBILIDADE. INOBSERVÂNCIA DO DISPOSTO NO ART. 1.029, CAPUT, DO CÓDIGO DE PROCESSO CIVIL. AGRAVO REGIMENTAL DESPROVIDO.
+1. No caso dos autos, a interposição do recurso especial se deu de forma conjunta com a interposição do recurso extraordinário, na mesma petição.
+2. Nos termos do art. 1.029, caput, do Código de Processo Civil, "O recurso extraordinário e o recurso especial, nos casos previstos na Constituição Federal , serão interpostos perante o presidente ou o vice-presidente do tribunal recorrido, em petições distintas". Nota-se, na espécie, a existência de irregularidade formal no recurso especial, o que impede, pois, o seu conhecimento.
+3. Este Superior Tribunal de Justiça entende que "A interposição, em única petição, das razões do recurso especial e extraordinário viola o disposto no art. 1.029, § 6º, do CPC/2015, segundo o qual "O recurso extraordinário e o recurso especial, nos casos previstos na Constituição Federal, serão interpostos perante o presidente ou o vice-presidente do tribunal recorrido, em petições distintas"" e que "Trata-se, portanto, de irregularidade formal, haja vista o não preenchimento dos requisitos de admissibilidade do recurso" (AgRg no AR Esp n. 1.521.587/DF, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 11/2/2020, D Je de 14/2/2020).
+4. Agravo regimental desprovido. (AgRg no AREsp 2693919 / PR, relator Ministro Antônio Saldanha Palheiro, Sexta Turma, julgado em 20/3/2025, DJEN 28/3/2025)
+Por fim, não há que se falar em aplicação do princípio da fungibilidade recursal, pois esta pressupõe que sejam atendidos os requisitos de regularidade formal do recurso cabível, mas erroneamente não interposto.
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, "a", do Regimento Interno do STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
