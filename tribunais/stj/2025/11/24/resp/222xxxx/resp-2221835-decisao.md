@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MUNICÍPIO DE JOINVILLE do acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA assim ementado (fl. 129):
+AGRAVO INTERNO EM APELAÇÃO CÍVEL. EXECUÇÃO FISCAL. FEITO EXTINTO EM FACE DO ÓBITO DA DEVEDORA. ALEGAÇÃO DA MUNICIPALIDADE QUANTO À POSSIBILIDADE DE INCLUSÃO DO ESPÓLIO NO POLO PASSIVO DA DEMANDA. TESE RECHAÇADA. MORTE DA CONTRIBUINTE OCORRIDA ANTES DA CITAÇÃO. PRECEDENTES. RECURSO CONHECIDO E DESPROVIDO.
+"Conforme entendimento sedimentado pelo Superior Tribunal de Justiça, em incidente de recursos repetitivos, o redirecionamento da execução fiscal aos sucessores somente é admitido quando o falecimento do contribuinte ocorre depois da efetiva citação" (TJSC, Apelação Cível n. 0038660- 67.2004.8.24.0038, de Joinville, rel. Des. Jaime Ramos, Terceira Câmara de Direito Público, j. 03-07- 2018). (TJSC, Apelação Cível n. 0063004-44.2006.8.24.0038, de Joinville, rel. Des. Júlio César Knoll, Terceira Câmara de Direito Público, j. 20-08-2019).. (TJSC, Agravo Interno n. 0043411- 63.2005.8.24.0038, de Joinville, rel. Júlio César Knoll, Terceira Câmara de Direito Público, j. 12-05-2020).
+Nas razões de seu recurso, a parte recorrente afirma (fl. 140) :
+A tese aqui discutida é a de que a ação executiva extinta em razão do falecimento do Executado ter ocorrido antes do ajuizamento sem ser do conhecimento do Município de Joinville, pode prosseguir em relação ao Espólio quando o lançamento constitutivo do crédito tributário tiver ocorrido em momento anterior ao falecimento do Executado.
+A parte adversa não apresentou contrarrazões.
+O recurso foi admitido na origem.
+É o relatório.
+A questão debatida nos autos foi afetada à Primeira Seção do Superior Tribunal de Justiça para ser decidida sob o rito de recursos repetitivos (Tema 1.393/STJ), e foi assim delimitada:
+"Definir se é possível prosseguir a execução fiscal contra o espólio ou os sucessores caso o executado venha a falecer sem ser citado." (REsps 2.237.254/SC e 2.227.141/SC, relatora Ministra Maria Thereza de Assis Moura).
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+O envio do recurso especial a esta Corte Superior deve ocorrer somente após o esgotamento da instância ordinária, formalizado com o novo julgamento pelo Tribunal de origem, quando então será possível examinar, no âmbito do STJ, as matérias jurídicas que eventualmente permanecerem controvertidas. Essa cautela também evita o fracionamento do recurso e previne eventual violação ao princípio da unicidade recursal, que veda a interposição simultânea ou sucessiva de recursos contra a mesma decisão.
+Ante o exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil (CPC), o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do mesmo CPC.
+Publique-se. Intimem-se.
+ EMENTA
