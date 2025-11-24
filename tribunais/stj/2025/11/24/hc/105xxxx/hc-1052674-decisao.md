@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de VINICIUS SIMÕES DA SILVA contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul (HC n. 5278197-16.2025.8.21.7000/RS).
+Consta que o paciente foi denunciado pela suposta prática dos crimes de organização criminosa armada (art. 2º, § 2º, da Lei 12.850/2013) e lavagem de dinheiro (art. 1º da Lei 9.613/1998), sendo-lhe imputada atuação como gerente e tesoureiro do grupo criminoso, além de braço direito do líder, seu irmão.
+O Tribunal a quo denegou a impetração que lhe foi dirigida, em acórdão assim ementado (e-STJ fl. 14):
+DIREITO PENAL. HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA ARMADA E LAVAGEM DE DINHEIRO. PRISÃO PREVENTIVA. REQUISITOS PRESENTES. EXCESSO DE PRAZO NÃO CONFIGURADO. ORDEM DENEGADA.
+I. CASO EM EXAME:
+1. Habeas corpus impetrado em favor do paciente que se encontra preso preventivamente desde setembro de 2023, denunciado pela prática dos crimes de organização criminosa armada e lavagem de dinheiro, no âmbito da denominada "Operação Cantina", alegando excesso de prazo na formação da culpa e violação ao princípio da isonomia, uma vez que foi concedida liberdade provisória a corréu na mesma situação.
+II. QUESTÃO EM DISCUSSÃO:
+2. Há duas questões em discussão: (i) a legalidade da prisão preventiva do paciente; (ii) a existência de constrangimento ilegal por excesso de prazo na formação da culpa.
+III. RAZÕES DE DECIDIR:
+3. A soma das penas privativas de liberdade máximas cominadas aos crimes imputados ao paciente é superior a quatro (04) anos, permitindo a decretação da prisão preventiva, nos termos do art. 313, inciso I do Código de Processo Penal.
+4. Os documentos encartados aos expedientes vinculados a este remédio constitucional, somados aos demais elementos de convicção, demonstram a existência, hipoteticamente, dos crimes imputados e a autoria do paciente. Após extenso trabalho de investigação, averiguou-se que o paciente integra, em tese, núcleo da facção criminosa intitulada V7 dedicado à aplicação de extorsões na modalidade "Golpe dos Nudes" e à lavagem dos capitais obtidos com as práticas ilícitas. Segundo consta, o paciente era irmão do líder do grupo e atuava como gerente e tesoureiro da organização criminosa. Ademais, a extensão das atividades ilícitas desenvolvidas pela organização criminosa, o envolvimento de indivíduos recolhidos ao sistema penitenciário e a posição de gerência ocupada pelo paciente evidenciam sua especial periculosidade e o fundado receio de reiteração delitiva. Por conseguinte, a liberdade do paciente representaria risco concreto e inequívoco à garantia da ordem pública, fundamento da custódia cautelar, nos termos do art. 312, caput do CPP.
+5. É inviável a extensão dos efeitos da decisão que concedeu liberdade provisória ao corréu, pois este integrava o terceiro escalão do grupo criminoso, enquanto o paciente ocupava posição de comando ou gerência da organização.
+6. Não se configura constrangimento ilegal por excesso de prazo, considerando a complexidade da ação penal, que envolve 33 indivíduos denunciados e 25 fatos delituosos, não se revelando abusivo ou desproporcional o período de prisão cautelar.
+IV. DISPOSITIVO E TESE:
+7. Pedido improcedente.
+ORDEM DENEGADA.
+Nesta oportunidade, a defesa sustenta excesso de prazo na formação da culpa, destacando que o paciente está preso preventivamente desde setembro de 2023 (aproximadamente 26 meses) e que, após a resposta à acusação apresentada em 10/12/2024, apenas em 12/11/2025 se iniciou a instrução. Alega violação ao princípio da isonomia, por ter sido concedida liberdade ao corréu LUCAS MATHEUS SUBTIL GOMES em decisão de 6/9/2023, com fundamentos que considera aplicáveis ao ora paciente. Argumenta ausência de fundamentação concreta e contemporânea do suposto periculum libertatis, não havendo fatos novos ou atuais que indiquem risco de reiteração ou à ordem pública. Sustenta a desproporcionalidade do cárcere, reputando suficientes medidas cautelares menos onerosas, especialmente em delitos sem violência ou grave ameaça, e diante das condições pessoais favoráveis do paciente.
+Em liminar e no mérito, pede que a prisão preventiva seja revogada.
+É o relatório. Decido.
+Observa-se, de plano, a juntada incompleta do acórdão - que nestes autos está resumido à ementa, sem relatório, sem fundamentação, sem dispositivo, sem certidão de julgamento -, bem como a ausência das decisões então submetidas ao crivo da segunda instância, documentos necessários para o completo exame da legitimidade da medida cautelar extrema, bem como para contextualizar a tese de excesso de prazo.
+Assim, salvo melhor juízo, a atual formação do feito impede a plena compreensão da controvérsia. Sobre o tema, e sobre a responsabilidade pela correta instrução do writ, confiram-se os seguintes julgados, dentre inúmeros de igual teor:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. PRISÃO PREVENTIVA. REVISÃO NONAGESIMAL. AUSÊNCIA DE DADOS NOVOS A JUSTIFICAR A SEGREGAÇÃO. INIDONEIDADE POR FALTA DE MOTIVAÇÃO. MANUTENÇÃO DA PRISÃO PREVENTIVA. DEFICIÊNCIA DE INSTRUÇÃO. AUSÊNCIA DO DECRETO PRISIONAL ORIGINÁRIO. REVISÃO PERIÓDICA DA PRISÃO PREVENTIVA. SUFICIENTE ANÁLISE DA PRESENÇA DOS REQUISITOS DA CUSTÓDIA CORPORAL. FATOS NOVOS OU CONTEMPORÂNEOS. MOMENTO INICIAL DA IMPOSIÇÃO DA PRISÃO. EXCESSO DE PRAZO. INOVAÇÃO RECURSAL. SUPRESSÃO DE INSTÂNCIA NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. INEXISTÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+I -Esta Corte firmou orientação segundo a qual constitui ônus da defesa instruir os autos com os documentos necessários ao devido exame da quaestio, sob pena de não conhecimento do mandamus.
+II - No caso, a deficiente instrução dos autos impede a análise da aventada inidoneidade da decisão que manteve a segregação cautelar.
+Isto porque a defesa não juntou aos autos cópia da decisão que decretou a originariamente prisão preventiva, peça imprescindível à compreensão da controvérsia.
+(..)
+Agravo regimental desprovido.
+(AgRg no HC n. 730.759/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 10/5/2022, DJe de 19/5/2022)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS. NEGATIVA DO RECURSO EM LIBERDADE. IMPOSSIBILIDADE DE SUPERAÇÃO DA SÚMULA N. 691 DA SUPREMA CORTE. AUSÊNCIA DE TERATOLOGIA. HABEAS CORPUS INDEFERIDO LIMINARMENTE. AGRAVO REGIMENTAL DESPROVIDO.
+(..).
+3. Não há ilegalidade flagrante ou teratologia na decisão proferida pelo Desembargador Relator do writ originário, uma vez que, mantida na sentença condenatória a prisão preventiva do ora Agravante pelos fundamentos ressaltados na decisão primeva, competia à Defesa a juntada do decreto preventivo. A respectiva ausência, como decidido, inviabilizou a apreciação do pleito liminar deduzido no habeas corpus impetrado na origem, diante da instrução deficiente dos autos. Como se sabe, compete à Parte Impetrante a correta e completa instrução do mandamus.
+(..).
+5. Agravo regimental desprovido.
+(AgRg no HC n. 654.779/PE, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 13/4/2021, DJe de 29/4/2021 )
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM "HABEAS CORPUS". DECISÃO QUE INDEFERIU LIMINARMENTE O RECURSO. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS E LAVAGEM DE CAPITAIS. PRISÃO PREVENTIVA. RECORRER EM LIBERDADE. FUNDAMENTAÇÃO. SENTENÇA PENAL CONDENATÓRIA. AUSÊNCIA. INSTRUÇÃO DEFICIENTE. APRECIAÇÃO DA MOTIVAÇÃO PARA NEGATIVA DE RECORRER EM LIBERDADE. INVIABILIDADE.
+1. "Cabe apenas ao Julgador, verdadeiro destinatário das provas, a verificação de quais documentos entende como imprescindíveis para a análise das controvérsias suscitadas. Sendo, no caso, constatada a ausência de peças necessárias para a verificação do constrangimento alegado, correta a decisão que entendeu pela instrução deficitária do recurso ordinário em "habeas corpus"" (AgRg no RHC n. 100.336/RS, relatora Ministra LAURITA VAZ, Sexta Turma, julgado em 3/9/2019, DJe 16/9/2019).
+2. Agravo regimental desprovido.
+(AgRg no RHC 132.359/RJ, Rel. Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 8/9/2020, DJe 14/9/2020)
+"HABEAS CORPUS". PROCESSUAL PENAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO ILÍCITO DE DROGAS. IRREGULARIDADE DA PRISÃO EM FLAGRANTE. WRIT DEFICITARIAMENTE INSTRUÍDO. NÃO CONHECIMENTO. PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. MANUTENÇÃO DA CUSTÓDIA PELOS MESMOS FUNDAMENTOS. AUSÊNCIA DE PREJUDICIALIDADE. QUANTIDADE DE SUBSTÂNCIA ENTORPECENTE APREENDIDA. FUNDAMENTAÇÃO IDÔNEA. GARANTIA DA ORDEM PÚBLICA. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. INSUFICIÊNCIA, NO CASO. ORDEM PARCIALMENTE CONHECIDA E, NESSA EXTENSÃO, DENEGADA.
+1. O "habeas corpus" encontra-se deficitariamente instruído, não havendo como esclarecer, exatamente, em qual situação se deu a prisão em flagrante do Paciente, o que impede, no caso, a compreensão da controvérsia. Conforme o entendimento já consolidado nesta Corte, o procedimento do "habeas corpus" não permite a dilação probatória, exigindo prova pré-constituída das alegações, sendo ônus do impetrante trazê-la no momento da impetração. Precedentes.
+(..)
+6. "Habeas corpus" parcialmente conhecido e, nessa extensão, denegada a ordem.
+(HC 479.238/MS, Rel. Ministra LAURITA VAZ, Sexta Turma, julgado em 15/10/2019, DJe 25/10/2019)
+Com efeito, o habeas cor pus pressupõe prova pré-constituída do direito alegado, incumbindo à impetrante instruir o writ com todos os documentos necessários para a inteira compreensão da controvérsia posta e m julgamento.
+Ante o exposto, com base no art. 21 0 do RISTJ, indefiro liminarmente a petição inicial do presente habeas corpus.
+Intimem-se.
+EMENTA
