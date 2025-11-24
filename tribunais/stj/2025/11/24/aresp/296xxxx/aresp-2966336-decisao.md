@@ -1,0 +1,64 @@
+DECISÃO
+Trata-s e de agravo interposto pelo Município de Belém contra decisão que inadmitiu recurso especial, este, por sua vez, manejado com fundamento no art. 105, III, a, da Constituição Federal, desafiando o acórdão prolatado pelo Tribunal de Justiça do Pará assim ementado (e-STJ, fl. 538):
+APELAÇÃO CÍVEL. CIVIL E PROCESSUAL CIVIL.
+PRELIMINAR DE ILEGITIMIDADE ATIVA DA DEFENSORIA PÚBLICA REJEITADA.
+INDENIZAÇÃO DE AUXÍLIO MORADIA DECORRENTE DE DESAPROPRIAÇÃO. RECONHECIMENTO DE DIREITO A CORREÇÃO MONETÁRIA. MATÉRIA DE ORDEM PÚBLICA. IMPLÍCITO. VALOR DE INDENIZAÇÃO DEVE ACRESCIDO DE CORREÇÃO MONETÁRIA, VALOR DEVIDO DESDE 29.10.2009. SENTENÇA MANTIDA. RECURSO CONHECIDO E NEGADO PROVIMENTO.
+RECURSO DA DEFENSORIA PUBLICA NÃO CONHECIDO POR INTEMPESTIVIDADE.
+1) A Defensoria Pública possui legitimidade ativa para ingressar com Ação Civil Pública, conforme previsto no art. 5º da lei nº 11.448/2007;
+2) Acordo realizado entre particulares e o Poder Público para receber auxílio moradia pelo período de um ano ou até que fosse entregues as novas moradias. Prorroga-se no tempo desde 29.10.2009 sem a devida atualização monetária;
+3) Não merece acolhimento a tese da Apelante, tendo em vista que se trata de direito implícito a manter o valor monetário da moeda. Logo, in casu, correta a sentença que reconheceu o direito à correção monetária do valor do auxílio moradia;
+4) Recurso conhecido e não provido. Recurso da defensoria Pública não conhecido, intempestividade. À unanimidade.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 566-569).
+Nas razões do recurso especial (e-STJ, fls. 576-583), a parte recorrente apontou violação aos arts. 485, VI, do Código de Processo Civil/2015; 44, XI, da Lei Complementar 80/1994; e 10 do Decreto-Lei 3.365/1941, sustentando, em suma, a ilegitimidade ativa da Defensoria Pública para atuar como substituta processual na qualidade de autora de ação civil pública e o não cabimento do reajuste do valor do auxílio moradia, diante da ausência de previsão no acordo firmado.
+Nesse sentido, argumentou que nos acordos expropriatórios, o valor mensal do auxílio moradia foi expressamente pactuado e não há previsão contratual de atualização monetária, sendo indevido impor reajuste não previsto em lei ou na avença
+Contrarrazões às fls. 591-603 (e-STJ).
+O processamento do recurso especial teve o seguimento negado ante a incidência do art. 1.030, I, b, do CPC/2015 (Tema 607/STF) e foi inadmitido quanto às demais questões (e-STJ, fls. 614-617), o que ensejou a interposição do presente agravo (e-STJ, fls. 625-629).
+Brevemente relatado, decido.
+O Tribunal de origem, ao dirimir a controvérsia acerca do reajuste do valor do auxílio moradia, assim fundamentou (e-STJ, fls. 541-543, sem grifo no original):
+Devido processo legal de desapropriação X acordo
+O art. 5º do Decreto Lei nº 3365/41 disciplina a desapropriação com finalidade urbanística por utilidade pública em todo território nacional. A desapropriação é uma prerrogativa do Poder Público em áreas consideradas importantes para a execução de planos urbanísticos, como no caso em análise, em que se pretende realizar a macrodrenagem da Bacia da Estrada Nova.
+Conforme disposição legal, a desapropriação pode ocorrer por meio judicial ou por acordo extrajudicial:
+Art. 10. A desapropriação deverá efetivar-se mediante acordo ou intentar-se judicialmente, dentro de cinco anos, contados da data da expedição do respectivo decreto e findos os quais este caducará. (Vide Decreto-lei nº 9.282, de 1946)  https://www. planalto. gov. br/ccivil_03/decreto-lei/Del9282. htm
+Desta forma, verificando que o Município realizou acordo com os particulares no prazo de cinco anos a partir da data da expedição do Decreto Municipal n. 60.051, entendo que não merece prosperar a alegação de que foi supostamente inobservado o devido processo legal.
+Nesse sentido, a jurisprudência se manifesta:
+ ..
+Ademais, conforme dito na jurisprudência acima, o Poder Judiciário não pode revisar os termos do acordo legalmente realizado entre as partes, mas tão somente no que tange a possíveis nulidades.
+A correção monetária é um ajuste financeiro do valor da moeda brasileira, em relação às moedas que circulam em outros países e à inflação, que influencia no poder de compra da população A. correção monetária não reflete em aumento de riqueza, mas em ajuste de valor aquisitivo, mantendo o valor de mercado.
+No caso concreto, o acordo firmado entre as partes e o Município de Belém ocorreu em 29.10.2009, há quase 15 anos e não vem sendo corrigido monetariamente desde então, ressaltando que mesmo que não estivesse escrito de forma literal, trata-se de um pedido implícito, razão pela qual deve ser mantida a sentença a quo.
+Trata-se de matéria de ordem pública, que pode ser apreciada a qualquer momento pelo julgador, além de ter natureza acessória da própria indenização acordada.
+Nesse sentido:
+ ..
+Consoante dispõe o art. 322, §1º, do Código de Processo Civil, bem assim, entendimento doutrinário e a jurisprudência consolidada do c. STJ, a correção monetária se caracteriza como consectário legal da indenização, sendo, portanto, hipótese de pedido implícito.
+Ante o exposto, com base no parecer ministerial, NÃO CONHEÇO DO RECURSO DE APELAÇAO MOVIDO PELA DEFENSORIA PÚBLICA por intempestividade. CONHEÇO DO RECURSO DE APELAÇÃO CÍVEL INTERPOSTO PELO MUNICIPIO E NEGO-LHE PROVIMENTO, mantendo os demais termos da sentença atacada, de acordo com a fundamentação lançada ao norte. É como voto. P. R. I.
+A partir da análise da fundamentação acima transcrita, extrai-se que a Corte local reconheceu a incidência da correção monetária, pois, com base na legislação vigente e na jurisprudência dos tribunais, trata-se de uma mera recomposição da efetiva desvalorização da moeda pelo transcurso do tempo - que, na data do acórdão recorrido, contavam-se com quase 15 (quinze) anos desde quando o acordo foi firmado.
+De fato, a "correção monetária plena, por seu turno, é mecanismo mediante o qual se empreende a recomposição da efetiva desvalorização da moeda, com o escopo de se preservar o poder aquisitivo original, sendo certo que independe de pedido expresso da parte interessada, não constituindo um plus que se acrescenta ao crédito, mas um minus que se evita" (AgRg nos EREsp 1.149.594/RS, Rel. Ministro LUIZ FUX, CORTE ESPECIAL, julgado em 6/10/2010, DJe 8/11/2010.).
+Dessume-se, portanto, que o posicionamento adotado pelo Tribunal de origem encontra-se alinhado com a orientação jurisprudencial desta Superior Corte de Justiça, atraindo à espécie a incidência da Súmula nº 83/STJ.
+A propósito, confira-se (sem grifo no original):
+SERVIDOR PÚBLICO E PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. EXECUÇÃO DE SENTENÇA. JUROS DE MORA. CORREÇÃO MONETÁRIA. MATÉRIAS DE ORDEM PÚBLICA. NATUREZA PROCESSUAL. APLICAÇÃO IMEDIATA AOS PROCESSOS EM CURSO. PRECLUSÃO. NÃO OCORRÊNCIA. SÚMULA 83/STJ. ACÓRDÃO ANCORADO NO SUBSTRATO FÁTICO-PROBATÓRIO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+ ..
+2. "É firme o entendimento nesta Corte, no sentido de que "a aplicação de juros e correção monetária pode ser alegada na instância ordinária a qualquer tempo, podendo, inclusive, ser conhecida de ofício. A decisão nesse sentido não caracteriza julgamento extra petita, tampouco conduz à interpretação de ocorrência de preclusão consumativa, porquanto tais institutos são meros consectários legais da condenação" (AgInt no REsp 1353317/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 3/8/2017, DJe 9/8/2017)" (AgInt no REsp n. 1.967.170/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 27/6/2022, DJe de 29/6/2022).
+3. A desconstituição das premissas lançadas pelo acórdão de origem demandaria o reexame de matéria de fato, procedimento que, em sede especial, encontra óbice na Súmula 7/STJ.
+4. A análise da divergência jurisprudencial fica prejudicada se a tese sustentada esbarra em óbice de admissibilidade quando do exame do recurso especial pela alínea a do permissivo constitucional.
+5. Agravo interno não provido.
+(AgInt no AgInt no AREsp n. 2.514.937/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 24/2/2025, DJEN de 5/3/2025.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ALEGADA VIOLAÇÃO AOS ARTS. 141 E 492, AMBOS DO CPC. DISPOSITIVOS QUE NÃO AMPARAM A TESE RECURSAL. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. SÚMULA 284/STF. ALEGADA AFRONTA AO ART. 507 DO CPC. MODIFICAÇÃO DO ÍNDICE DE CORREÇÃO MONETÁRIA. ALEGADA PRECLUSÃO. INOCORRÊNCIA. CONSECTÁRIO LEGAL DA CONDENAÇÃO. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+2. "É firme o entendimento nesta Corte de que "a aplicação de juros e correção monetária pode ser alegada na instância ordinária a qualquer tempo, podendo, inclusive, ser conhecida de ofício. A decisão nesse sentido não caracteriza julgamento extra petita, tampouco conduz à interpretação de ocorrência de preclusão consumativa, porquanto tais institutos são meros consectários legais da condenação" (AgInt no REsp 1.353.317/RS, Rel. Ministro Og Fernandes, Segunda Turma, DJe 9.8.2017)" (AgInt no REsp n. 2.073.159/DF, relator Ministro Herman Benjamin, Segunda Turma, julgado em 13/11/2023, DJe de 18/12/2023).
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.161.199/SC, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, julgado em 28/10/2024, DJe de 4/11/2024.)
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. INOCORRÊNCIA. PARCELAMENTO DA LEI N. 11.941/2009. ATUALIZAÇÃO MONETÁRIA. INCIDÊNCIA DA TAXA SELIC. LEGITIMIDADE. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+III - A correção monetária plena é mecanismo mediante o qual se empreende a recomposição da efetiva desvalorização da moeda, com o escopo de se preservar o poder aquisitivo original, sendo certo que independe de pedido expresso da parte interessada, não constituindo um plus que se acrescenta ao crédito, mas um minus que se evita.
+ ..
+VI - Agravo Interno improvido.
+(AgInt no REsp n. 1.925.630/DF, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 9/8/2021, DJe de 12/8/2021.)
+TRIBUTÁRIO E PROCESSUAL CIVIL. CORREÇÃO MONETÁRIA. MECANISMO DE RECOMPOSIÇÃO. CONSECTÁRIO LEGAL. MATÉRIA DE ORDEM PÚBLICA NÃO SUJEITA À RECLUSÃO OU PEDIDO EXPRESSO. ANÁLISE DE OFÍCIO PELO MAGISTRADO. AUSÊNCIA DE REFORMATIO IN PEJUS.
+1. É sabido que a "correção monetária plena, por seu turno, é mecanismo mediante o qual se empreende a recomposição da efetiva desvalorização da moeda, com o escopo de se preservar o poder aquisitivo original, sendo certo que independe de pedido expresso da parte interessada, não constituindo um plus que se acrescenta ao crédito, mas um minus que se evita" (AgRg nos EREsp 1.149.594/RS, Rel. Ministro LUIZ FUX, CORTE ESPECIAL, julgado em 6/10/2010, DJe 8/11/2010.).
+2. Na hipótese, o entendimento firmado pela Corte de origem encontra respaldo na jurisprudência do STJ, segundo a qual a correção monetária e os juros de mora, como consectários legais da condenação principal, possuem natureza de ordem pública e podem ser analisados até mesmo de ofício pelo magistrado. Logo, não há falar em reformatio in pejus praticado pela Corte de origem, ao aplicar a previsão de correção monetária contida no art. 7º, §§ 2º e 3º, da Lei 4.357/64 à hipótese de extinção da ação decorrente do cancelamento de débitos fiscais por força de lei superveniente, ainda que não haja recurso da parte contrária.
+Agravo regimental improvido.
+(AgRg no Ag n. 1.397.973/SP, relator Ministro Humberto Martins, Segunda Turma, julgado em 13/10/2015, DJe de 20/10/2015.)
+Quanto ao requerimento da parte contrária para que seja imposta multa por litigância de má-fé, não há como acolhê-lo, porquanto, segundo a jurisprudência dominante desta Corte Superior, a interposição de recursos cabíveis não configura litigância de má-fé nem ato atentatório à dignidade da justiça, ainda que com argumentos reiteradamente refutados pelo Tribunal de origem ou sem alegação de fundamento novo (veja-se: EDcl no AgInt no AREsp n. 1.787.872/PR, relator Ministro Francisco Falcão, Segunda Turma, julgado em 21/6/2021, DJe de 25/6/2021).
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO. DESAPROPRIAÇÃO. INSURGÊNCIA QUANTO À ATUALIZAÇÃO DO VALOR DO AUXÍLIO MORADIA PACTUADO. MERO MECANISMO DE RECOMPOSIÇÃO. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. SÚMULA 83/STJ. MULTA POR LITIGÂNCIA DE MÁ-FÉ. NÃO CABIMENTO. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
