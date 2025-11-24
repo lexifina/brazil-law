@@ -1,0 +1,66 @@
+DECISÃO
+Cuida-se de recurso especial interposto por REGINA HELENA GONÇALVES PIRES e OUTROS, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS, assim ementado (fl. 1.389):
+PROCESSO CIVIL. APELAÇÃO CÍVEL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. LITISPENDÊNCIA. EXTINÇÃO SEM RESOLUÇÃO DO MÉRITO.
+1. A repetição de outra ação anteriormente ajuizada, com identidade de partes, de causas de pedir e de pedido caracteriza a litispendência.
+2. Reconhecida essa identidade, a providência judicial cabível é a extinção do processo sem resolução do mérito, nos termos do art. 485, inciso V, do Código de Processo Civil.
+3. Recurso não provido.
+Opostos embargos de declaração, foram acolhidos sem atribuição de efeitos infringentes, verbis (fl. 1.543):
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO. OCORRÊNCIA. AUSÊNCIA DE EFEITOS INFRINGENTES. EXPURGOS INFLACIONÁRIOS. COMPENSAÇÃO POR REAJUSTES GERAIS E ESPECÍFICOS. POSSIBILIDADE.
+1. Se há omissão no acórdão embargado, a complementação do julgado é medida que se impõe.
+2. É possível a compensação de créditos provenientes de expurgos inflacionários com os reajustes gerais ou específicos concedidos pelo Distrito Federal a fim de evitar o enriquecimento sem causa dos servidores públicos em detrimento do erário.
+3. O reajuste de 84,32% relativo ao Plano Collor está limitado ao período de vigência da Lei Distrital 117/90, nos termos da RCL 2627/STF.
+4. Recurso provido, sem atribuição de efeitos infringentes.
+As partes recorrentes apontam violação dos arts. 322, § 1º, 337, §§ 2º e 3º, 505, 507, 508, 509, § 4º, 535, VI, e 1.022, II, do Código de Processo Civil; do art. 103, § 3º, do Código de Defesa do Consumidor; dos arts. 368 e 369 do Código Civil; e do art. 1º da Lei n. 6.899/81.
+Contrarrazões às fls. 1.657-1.689.
+Admitido o recurso na origem, os autos vieram a esta Corte.
+É o relatório.
+A insurgência não prospera.
+De início, quanto à alegada violação do art. 1.022 do Código de Processo Civil tem-se, da leitura dos acórdãos recorridos, que o tribunal de origem analisou fundamentadamente as questões que lhe foram submetidas, examinando os pontos essenciais ao deslinde da controvérsia, não havendo falar em nulidade qualquer.
+A mera insatisfação com o conteúdo da decisão proferida não importa em violação do dispositivo legal supramencionado. Com efeito, o fato de o tribunal haver decidido o recurso de forma diversa da defendida nas razões recursais, elegendo fundamentos distintos daqueles propostos pelas partes, não configura omissão, contradição ou ausência de fundamentação. Nesse sentido: AgInt no AREsp n. 2.347.060/SP, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 12/8/2024, DJe de 15/8/2024; e AgInt no REsp n. 2.130.408/CE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 12/8/2024, DJe de 15/8/2024.
+O acórdão da apelação está fundamentado nestes termos (fl. 1.391):
+A controvérsia dos autos diz respeito à existência de litispendência.
+Ante a extinção do processo sem julgamento do mérito, os exequentes alegam que não há homogeneidade entre as causas de pedir e os pedidos, pois, na ação judicial n. 0013136- 95.2000.8.07.0001, o pedido restringe-se à obrigação de dar/pagar a reposição das perdas oriundas do Plano Collor no percentual de 84,32%, relativo ao IPC de março/1990, do período compreendido entre 1º/4 a 23/7/1990, sem qualquer menção à incorporação deste percentual aos vencimentos do servidor.
+Ressalte-se que neste processo a parte autora postula tão somente a incorporação em seu contracheque do valor atualizado e não implementado à época sobre a remuneração vigente nos meses de março, abril, maio e junho de 1990 (obrigação de fazer), dos seguintes percentuais, 84,32%, 39,80%, 2,87% e 28,44%.
+O executado indica que o requerimento dos outros autos é justamente a reposição das perdas oriundas do Plano Collor, nos percentuais de 84,32%, 39,80%, 2,87% e 28,44%, relativos aos IPC"s março, abril, maio e junho/1990, direito este assegurado pela Lei Distrital 38/89.
+Realmente, extrai-se dos pedidos da inicial que a pretensão de que seja fixada obrigação de pagar está inserida nesta ação atrelada à obrigação de fazer:
+(..)
+Como se vê, o recorrente nomeia a ação em análise como obrigação de fazer quanto aos direitos reconhecidos no título executivo coletivo genérico para traduzi-los em reconhecimento de VPNI, porém, pleiteia a efetiva implantação dos valores no contracheque no prazo de trinta dias.
+Assim, não há dúvidas da configuração de litispendência, não sobejando os argumentos do apelante que se discute apenas a incorporação formal dos percentuais no contracheque do servidor, uma vez que o pedido é amplo e não há implementação em holerite sem o dever do respectivo pagamento.
+Ato contínuo, o acórdão dos embargos de declaração está assim assentado (fls. 1.545-1.557):
+Conheço dos embargos, porquanto estão presentes os requisitos legais.
+Aduz a parte embargante omissão quanto às teses suscitadas em sua apelação sobre a limitação temporal da condenação objeto de cumprimento vinculada ao período de regência da Lei n. 38/1989 e a possibilidade ou não dos expurgos inflacionários de 39,80%, 2,87% e 28,44% serem compensados pelos reajustes de 30% e 81% fixados quando nos Decretos n.12.728/90 e n. 12.947/90.
+Da reanálise do recurso de apelação, constato que assiste razão aos embargantes e, de fato, o acórdão não contemplou essas teses em específico.
+Na verdade, a litispendência se operou unicamente quanto ao percentual de 84,32%, de modo que o édito combatido enfrentou o mérito relativo à compensação dos outros percentuais, bem como tratou da limitação temporal.
+Por essa razão, retifico o voto e passo a analisar especificamente as questões apontadas.
+(..)
+O STJ firmou duas teses, embora referente a percentuais de perdas distintos dos que são desta ação (Temas 475 e 476), no sentido de que a questão sobre a compensação com reajustes posteriores só poderia ser discutida na fase de conhecimento.
+Entretanto, posteriormente, foi se estabelecendo uma distinção dessas precedentes qualificados para outras hipóteses e, atualmente, o entendimento é pelo reconhecimento de que as perdas já foram compensadas com reajustes posteriores não ofende a coisa julgada e a determinação de pagamento caracterizaria uma duplicidade.
+Colham-se os julgados abaixo que demonstram a aplicação do julgado do colendo STJ para outros índices, nos termos delineados até aqui:
+(..)
+Como se vê, os julgados demonstram que a admissão da compensação não ofende a coisa julgada ou a segurança jurídica.
+Aliás, é mister consignar que deve ser realizada a compensação entre a recomposição salarial decorrente do Plano Collor com os reajustes de 30% e 81%, concedidos pelos Decretos n. 12.728/90 e n. 12.947/90, porquanto suprimiram as perdas sofridas pela não incidência dos expurgos inflacionários do período.
+Todavia, na apelação, os recorrentes defendem a impossibilidade de compensação com reajustes gerais e específicos antes do trânsito em julgado do título executivo sob o argumento de que, mutatis mutandis, o STJ assim o decidiu em sede de recurso repetitivo.
+Cumpre registrar, conforme demonstrado alhures, que o entendimento firmado por ocasião do julgamento do Recurso Especial n. 1.235.513/AL, sob a sistemática dos recursos repetitivos, mencionado pelos apelantes no recurso, foi objeto de distinguishing e sua aplicação ao caso concreto pressupõe contextualização.
+Na espécie, os percentuais que se visa compensar são decorrentes dos reajustes gerais ou específicos, concedidos pelo Distrito Federal às várias carreiras do funcionalismo público, em reposição da inflação ocorrida no ano de 1990.
+Nesse contexto, em virtude do presente caso não tratar de revisão geral anual, e, sim, de reposição inflacionária relativa ao ano de 1990, o entendimento firmado no Recurso Especial repetitivo n. 1.235.513/AL não se aplica à presente hipótese porque, como já dito, foi estabelecida a distinção do julgado.
+Malgrado o inconformismo dos apelantes, é possível compensar os reajustes referentes ao Plano Collor com os reajustes gerais ou específicos concedidos pelo Distrito Federal, pois esses reajustes foram conferidos justamente para reparar as perdas decorrentes de planos econômicos, sob pena de representar enriquecimento sem causa dos servidores públicos em detrimento do erário, situação vedada pelo ordenamento jurídico pátrio (art. 884 do CC).
+Impende registrar que esta egrégia Corte de Justiça vem se posicionando pela possibilidade de discussão da matéria na fase de cumprimento de sentença, sem que isso implique ofensa à coisa julgada, tendo em vista a compensação decorrer da Lei Distrital n. 117/1990.
+Ademais, a Lei n. 117, de 23/7/1990, que revogou a Lei n. 38/89, estabelecendo o sistema compensatório dos reajustes a serem deferidos com aqueles já incorporados à remuneração dos servidores pela lei anterior, disciplina a matéria nos artigos 1º e 2º:
+(..)
+Os apelantes almejam recomposição das perdas oriundas do Plano Collor nos percentuais de 84,32%, 39,80%, 2,87% e 28,44% relativas ao IPC de março, abril, maio e junho de 1990. Mesmo que aqui não se trate especificamente do percentual de 84,32% e sim dos demais, referidos expurgos inflacionários reconhecidos na sentença coletiva em liquidação que os requerentes/apelantes pretendem incorporar em seus proventos não são posteriores, mas anteriores à Lei Distrital n. 117/1990.
+Contudo, a sentença bem definiu o direito aos expurgos inflacionários até a vigência da Lei Distrital n. 117/1990 e confirma com julgados desta Corte, aos quais me filio. Destaco:
+(..)
+Ressalto que a questão também foi enfrentada pelo colendo STJ, que decidiu pelo reconhecimento do direito de compensação. Confira-se:
+(..)
+Quanto à defesa de impossibilidade de limitação temporal da condenação, também não assiste razão aos embargantes/apelantes.
+Os recorrentes alegam que o título executivo não limita os cálculos ao mês de julho de 1990. Defender que, posteriormente à sentença que limitou a condenação a 31.12.1990, sobreveio julgamento do REsp n. 849.557/DF, que afastou a limitação imposta. Assinalam a necessidade de reforma da sentença nesse ponto, sob pena de ofensa à coisa julgada.
+Não procedem às razões recursais nesse aspecto. Afinal, a sentença recorrida está em consonância com o entendimento firmado pelo Supremo Tribunal Federal no julgamento da Reclamação n. 2.627 ao definir que os reajustes relativos ao Plano Collor estariam limitados ao período de vigência da Lei Distrital 38/89, ou seja, só seria devido até julho de 1990 (data da entrada em vigor da Lei Distrital que revogou a Lei Distrital n. 38/89), conforme acórdão assim ementado:
+(..)
+Diante desses fundamentos, mantenho incólume o édito recorrido que reconheceu a limitação até 23/7/1990, permanecendo também irretocável no que se refere ao acolhimento da impugnação para reconhecer a compensação dos reajustes de 30% e 81% concedidos em virtude dos Decretos n. 12.728/90 e n. 12.947/90.
+A revisão das referidas premissas e conclusões a que chegou o tribunal de origem, calcadas em elementos fáticos e na interpretação da legislação local, esbarra nos óbices das Súmulas 7/STJ e 280/STF.
+De mais a mais, o acórdão recorrido está em conformidade com o entendimento desta Corte Superior firmado em feitos idênticos, no sentido de que "deve ser realizada a compensação na execução, considerando-se outros valores morais, tais como a probidade e a boa-fé, bem como a dificuldade de se conceber que, na satisfação de um direito, seja possibilitado o prejuízo da outra parte e o enriquecimento sem causa" (AgInt no REsp n. 2.134.027/DF, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 23/9/2024, DJe de 27/9/2024). No mesmo sentido: AgInt no AgInt no AREsp n. 2.170.578/DF, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 21/8/2023, DJe de 23/8/2023; AgInt no REsp n. 1.505.726/AL, relator Ministro Francisco Falcão, Segunda Turma, julgado em 29/8/2022, DJe de 31/8/202; e AgInt no AREsp n. 465.900/DF, relatora Ministra Regina Helena Costa, relator para acórdão Ministro Gurgel de Faria, Primeira Turma, julgado em 8/2/2018, DJe de 22/3/2018.
+Ante o exposto, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor das partes recorrentes, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Proce sso Civil. Deverão ser observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do dispositivo legal acima referido e, também, eventuais legislações extravagantes que tratem do arbitramento de honorários, bem como as hipóteses de concessão da gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. ALEGAÇÃO DE VIOLAÇÃO DO ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL. NÃO OCORRÊNCIA. INCIDÊNCIA DOS ÓBICES DAS SÚMULAS 7/STJ E 280/STF. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. RECURSO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
