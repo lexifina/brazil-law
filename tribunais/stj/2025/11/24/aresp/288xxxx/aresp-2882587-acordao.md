@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/11/2025 a 24/11/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Daniela Teixeira, Nancy Andrighi, Humberto Martins e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CITAÇÃO POR EDITAL. VALIDADE. NECESSIDADE DE ESGOTAMENTO DOS MEIOS DE LOCALIZAÇÃO DO RÉU (ART. 256, § 3º, DO CPC). INSUFICIÊNCIA DAS DILIGÊNCIAS. REANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. A controvérsia acerca da validade ou não da citação por edital, que se fundamenta na alegação de insuficiência do esgotamento das tentativas de localização do réu, demanda, para sua análise, o reexame do conjunto fático-probatório dos autos, para verificar a suficiência das diligências realizadas na origem.
+2. A revisão das premissas fáticas adotadas pelo Tribunal de origem, que concluiu pela validade da citação por edital em razão do esgotamento dos meios de localização do citando, esbarra no óbice da Súmula n. 7 do STJ.
+3. Agravo conhecido para não conhecer do recurso especial.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por Karine Rodrigues Cherubin (KARINE) contra decisão que inadmitiu seu apelo nobre manejado com fundamento na alínea a do inciso III do art. 105 da Constituição Federal contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado:
+AGRAVO DE INSTRUMENTO - AÇÃO COBRANÇA - INSURGÊNCIA DO AUTOR - DECISÃO QUE RECONHECEU A NULIDADE DE CITAÇÃO POR EDITAL DA RÉ - AFASTADA NULIDADE DA CITAÇÃO POR EDITAL - INTELIGÊNCIA DOS ARTIGOS 242, 246 E 256 DO CPC - DIVERSAS TENTATIVAS DE LOCALIZAÇÃO E CITAÇÃO - BUSCAS EM SISTEMAS DISPONÍVEIS - ESGOTAMENTO DOS MEIOS LOCALIZAÇÃO DO RÉU - POSSIBILIDADE - CITAÇÃO VÁLIDA - RECURSO CONHECIDO E PROVIDO. (e-STJ, fl. 54)
+Nas razões do agravo, KARINE apontou violação do art. 256, § 3º, do CPC, sustentando a nulidade da citação por edital, porquanto a medida é excepcional e somente válida quando esgotadas todas as diligências necessárias para localização do citando, inclusive requisições de endereços em cadastros de órgãos públicos e concessionárias.
+Houve apresentação de contraminuta por Complexo de Ensino Superior do Brasil Ltda. (UNIBRASIL), conforme, e-STJ, fls. 141-146.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CITAÇÃO POR EDITAL. VALIDADE. NECESSIDADE DE ESGOTAMENTO DOS MEIOS DE LOCALIZAÇÃO DO RÉU (ART. 256, § 3º, DO CPC). INSUFICIÊNCIA DAS DILIGÊNCIAS. REANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. A controvérsia acerca da validade ou não da citação por edital, que se fundamenta na alegação de insuficiência do esgotamento das tentativas de localização do réu, demanda, para sua análise, o reexame do conjunto fático-probatório dos autos, para verificar a suficiência das diligências realizadas na origem.
+2. A revisão das premissas fáticas adotadas pelo Tribunal de origem, que concluiu pela validade da citação por edital em razão do esgotamento dos meios de localização do citando, esbarra no óbice da Súmula n. 7 do STJ.
+3. Agravo conhecido para não conhecer do recurso especial.
+VOTO
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece ser conhecido.
+Da alegação de violação do art. 256, § 3º, do CPC e a incidência da Súmula n. 7/STJ
+A essência da irresignação de KARINE, representada pela Curadoria Especial, reside na alegação de que o acórdão proferido pelo TJPR teria vulnerado o disposto no art. 256, § 3º, do CPC, ao considerar válida a citação por edital sem o exaurimento das diligências necessárias à localização pessoal da citanda. KARINE argumenta que a interpretação da expressão "infrutíferas as tentativas de sua localização" é matéria puramente de direito, passível de análise em sede de recurso especial.
+Ocorre que, ao contrário do que sustenta KARINE, a aferição da suficiência ou insuficiência das diligências realizadas na instância ordinária para caracterizar o requisito do "local ignorado ou incerto" do citando, e consequentemente, a convalidação ou a nulidade da citação editalícia, demanda, invariavelmente, um profundo reexame do acervo fático-probatório dos autos.
+O Tribunal estadual, ao reformar a decisão de primeiro grau e dar provimento ao agravo de instrumento de UNIBRASIL, fundamentou sua conclusão em uma minuciosa análise das condutas processuais adotadas por ela para tentar localizar KARINE. Conforme explicitado no acórdão recorrido, o convencimento do TJPR se pautou na constatação de que foram realizadas "diversas tentativas infrutíferas de citação", inclusive na localidade inicialmente informada nos autos, onde a destinatária foi dada como "desconhecida" (e-STJ, fl. 56).
+Ademais, o acórdão fez questão de elencar o rol de consultas efetuadas em sistemas e órgãos cadastrais, abarcando SISBAJUD, RENAJUD, INFOJUD, SIEL, COPEL, SANEPAR, SERASA, INFOSEG e operadoras de telefonia, totalizando mais de 20 (vinte) diligências ao longo de aproximadamente cinco anos (e-STJ, fls. 57, 105).
+Nesse cenário, analisar em recurso especial as alegações de KARINE de irregularidade na citação por edital e ausência de esgotamento dos meios na tentativa de localizar o devedor, não dispensaria o revolvimento do conjunto fático probatório dos autos. A pretensão recursal de KARINE não se limita à mera interpretação da norma processual, mas exige a revaloração da prova fática produzida, culminando na verificação se o conjunto de mais de 20 diligências e consultas a diversos sistemas públicos e privados constitui, de fato, o exaurimento dos meios de localização, conforme a moldura legal imposta pelo art. 256, § 3º, do CPC.
+O Superior Tribunal de Justiça possui entendimento consolidado no sentido de que a reavaliação da premissa de que foram esgotadas as tentativas de localização do réu, para fins de citação por edital, pressupõe a incursão no contexto fático-probatório da demanda. Tal providência é vedada em recurso especial, conforme o enunciado da Súmula n. 7 desta Corte, que veda a pretensão de simples reexame de prova.
+Nesse sentido:
+DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO MONITÓRIA. CITAÇÃO POR EDITAL. NULIDADE. INEXISTÊNCIA. OFÍCIO. EXPEDIÇÃO. CADASTRO DE ÓRGÃOS PÚBLICOS. CONCESSIONÁRIAS DE SERVIÇOS PÚBLICOS. OBRIGATORIEDADE. AUSÊNCIA. RECURSO NÃO PROVIDO.
+ ..
+6. A análise do esgotamento das tentativas de localização do réu e da necessidade de expedição de ofícios a cadastros de órgãos públicos ou concessionárias de serviços públicos deverá ser realizada de forma casuística, considerando as particularidades de cada caso. Dessa forma, a decisão das instâncias ordinárias quanto à suficiência das diligências não pode ser revisada em recurso especial, nos termos da Súmula n. 7 do STJ.
+IV. Dispositivo e tese
+7. Recurso a que se nega provimento.
+Tese de julgamento: 1. A expedição de ofícios a cadastros públicos e concessionárias de serviços públicos antes da citação por edital não é obrigatória, mas uma possibilidade a ser avaliada pelo Magistrado.
+Dispositivos relevantes citados: CPC/2015, art. 256, § 3º; CPC/2015, art. 4º.
+Jurisprudência relevante citada: AgInt no AREsp 2.222.850/MG; AgInt no REsp 2.016.309/MT; REsp 1.971.968/DF.
+(REsp n. 2.152.938/DF, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 22/10/2024, DJe de 30/10/2024)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. REJEIÇÃO DE IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. CITAÇÃO POR EDITAL. ESGOTAMENTO DE TODAS AS TENTATIVAS DE LOCALIZAÇÃO DO ENDEREÇO DO DEVEDOR. SÚMULA 7 DO STJ. ART. 257, II, DO CPC. PUBLICAÇÃO EM JORNAL DE GRANDE CIRCULAÇÃO. NÃO OBRIGATÓRIA. CITAÇÃO PESSOAL DA CURADORIA ESPECIAL. NÃO OBRIGATORIEDADE PARA TODOS OS ATOS SEGUINTES. ART. 72, II, DO CPC. AGRAVO INTERNO NÃO PROVIDO.
+1. A citação por edital, por ser medida excepcional, somente é admitida depois de esgotadas as tentativas de localização do endereço do devedor, para fins de citação pessoal, pelos correios ou por oficial de justiça.
+2. Hipótese em que o conhecimento do Recurso encontra óbice na Súmula n. 7 do STJ, pois Tribunal local, atento ao conjunto fático-probatório, decidiu que é válida a citação por edital no presente cumprimento de sentença, uma vez que houve exaurimento dos meios tendentes à localização do endereço da parte executada.
+3. Consoante o art. 257, II, do Código de Processo Civil, é requisito da citação por edital a publicação na rede de computadores, no sítio do respectivo tribunal e na plataforma de editais do Conselho Nacional de Justiça. Segundo o parágrafo único do mesmo dispositivo, a publicação em jornal de ampla circulação ou por outros meios não é obrigatória.
+4. Por fim, modificar a conclusão do acórdão recorrido no sentido de que haveria nulidade do processo citatório, sendo que o próprio Tribunal admitiu terem sido feitas todas as diligências e cumprimento dos requisitos formais, ensejaria necessário reexame de matéria fático-probatória, o que é vedado em sede de recurso especial, a teor da Súmula 7, do STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.181.353/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 22/5/2023, DJe de 25/5/2023)
+Desse modo, a pretensão de KARINE, conforme delineada no presente apelo nobre, encontra óbice inafastável na Súmula n. 7 do STJ.
+Diante do exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação nos termos do art. 1.026, § 2º, do CPC.
+É o meu voto.
