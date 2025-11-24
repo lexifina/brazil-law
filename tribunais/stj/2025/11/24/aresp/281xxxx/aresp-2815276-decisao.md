@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MINISTÉRIO PÚBLICO FEDERAL da decisão que inadmitiu o recurso especial na origem dirigido contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO no julgamento do Processo n. 5016579-46.2024.4.04.0000/RS, assim ementado (fl. 98):
+AGRAVO DE INSTRUMENTO. REINTEGRAÇÃO DE POSSE. BENS OPERACIONAIS DA LINHA FÉRREA DA RFFSA. INTERESSE NA DEMANDA. DNIT. INOCORRÊNCIA.
+1. A competência do juízo federal define-se pela presença de uma das entidades elencadas no artigo 109, inciso I, da Constituição Federal.
+2. O DNIT manifestou desinteresse no feito.
+3. Agravo de instrumento improvido.
+Nas razões do recurso especial, a parte recorrente alega, em síntese (fls. 106-117): (i) afronta aos arts. 4º, 8º e 119 do Código de Processo Civil, diante do afastamento da autarquia da lide; (ii) afronta aos arts. 8º, inciso I e IV da Lei n. 11.483/2007, art. 82, incisos XII e XVII e § 4º, da Lei n. 10.233/2001. Objetivando "a reforma do acórdão recorrido, ante a natureza pública do bem e a impossibilidade de exercício de juízo discricionário pela administração no que concerne ao interesse do DNIT e da ANTT na sua preservação e, consequentemente, de atuar no presente feito, além do legítimo interesse do MPF na demanda a atrair a competência da Justiça Federal".
+Contrarrazões do DNIT (fls. 124-137).
+O recurso foi inadmitido na origem (fl. 142-148), o que ensejou a interposição do presente agravo (fls. 157-165).
+Contrarrazões do DNIT (fls. 171-177)
+É o relatório.
+Decido.
+Sobre a pretensão recursal, a Primeira Seção deste Tribunal Superior decidiu afetar os REsps n. 2.195.089/RS, 2.215.194/DF, relator Ministro Gurgel de Faria, Primeira Seção, à sistemática dos recursos repetitivos (Tema n. 1.384), com o fim de definir:
+Se a União, o DNIT e/ou a ANTT devem obrigatoriamente participar de ações possessórias ajuizadas por concessionárias de serviços públicos federais contra particulares que ocupam faixas de domínio de ferrovias ou rodovias federais, independentemente de sua manifestação de vontade, ou se a declaração de ausência de interesse jurídico por esses entes é suficiente para afastar a competência da Justiça Federal, deslocando o feito para a Justiça estadual.
+Outrossim, há determinação de suspensão de todos os processos em trâmite no território nacional que versem sobre a matéria afetada ao regime de recursos repetitivos, até que a questão da competência seja resolvida pelo Superior Tribunal de Justiça, exceto para a realização de atos considerados urgentes, a fim de evitar dano irreparável.
+Nesse contexto, esta Corte Superior tem firme orientação no sentido de que os recursos que tratam da mesma controvérsia devem aguardar o julgamento do paradigma representativo no Tribunal de origem, viabilizando, assim, o juízo de conformação.
+Com efeito, "deve ser prestigiado o escopo perseguido na legislação processual, isto é, a criação de mecanismo que oportunize às instâncias de origem o juízo de retratação/conformação na forma dos arts. 1.039 a 1.041 do CPC/2015" (EDcl no AgInt no REsp n. 1.974.797/DF, relator Ministro Francisco Falcão, Segunda Turma, julgado em 10/6/2024, DJe de 12/6/2024).
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que, se for o caso, o recurso especial deverá ser encaminhado para esta Corte Superior, para que aqui possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Ante o exposto, JULGO PREJUDICADO o agravo em recurso especial e, com fundamento no art. 34, inciso XXIV, do Regimento Interno do Superior Tribunal de Justiça, DETERMINO a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que seja oportunizado o juízo de conformação, à luz da tese fixada no Tema n. 1.384 do STJ/STF, observadas as normas dos arts. 1.040 e 1.041 do Código de Processo Civil.
+Advirto as partes, desde logo, de que a eventual interposição de agravo interno com o único propósito de rediscutir a determinação de sobrestamento do processo na origem para aguardar o julgamento do tema repetitivo, por ser manifestamente incabível fora da hipótese do art. 1.037, § 13, inciso II, do Código de Processo Civil, poderá ensejar a aplicação de multa, nos termos do art. 1.021, § 4º, do mesmo Código.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. AFETAÇÃO DA CONTROVÉRSIA AO REGIME DOS RECURSOS REPETITIVOS (TEMA N. 1.384 DO STJ). DETERMINAÇÃO DE SOBRESTAMENTO DOS PROCESSOS. PREJUDICADO O AGRAVO EM RECURSO ESPECIAL, COM A DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM.
