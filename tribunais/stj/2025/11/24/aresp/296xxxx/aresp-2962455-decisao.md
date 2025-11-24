@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial pelo qual a FAZENDA DO ESTADO DE SÃO PAULO se insurgira contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 109):
+DIREITO TRIBUTÁRIO. APELAÇÃO CÍVEL E REMESSA NECESSÁRIA. MANDADO DE SEGURANÇA. ITCMD. BASE DE CÁLCULO. 1. Ilegalidade do Decreto Estadual nº 55.002/2009 que, ao determinar nova redação ao parágrafo único do art. 16 do RITCMD (Decreto 46.655/02), acabou por alargar a base de cálculo do imposto. Exorbitância do poder regulamentar. Inteligência da Lei Estadual nº 10.705/2000. Alteração de base de cálculo e subsequente majoração de tributo que só pode ser realizada por meio de lei. Prevalência do valor de referência do IPTU. Incidência de valor de referência do IPTU, à míngua de evidência sobre o real valor de mercado do imóvel.
+2. Sentença de origem mantida. Remessa necessária e recurso voluntário desprovidos.
+Os embargos de declaração opostos foram rejeitados (fls. 132/137).
+Nas razões de seu recurso especial, a parte ora agravante alega (fl. 145):
+ ..  pois a única controvérsia da lide diz respeito ao aspecto quantitativo da regra-matriz de hipótese de incidência do ITCMD, qual seja, a possibilidade de revisão da base de cálculo do ITCMD por meio de regular processo administrativo de arbitramento.
+A parte adversa apresentou contrarrazões (fls. 163/172).
+O recurso não foi admitido (fls. 173/176 ), razão pela qual foi interposto o agravo em recurso especial ora examinado.
+É o relatório.
+A questão debatida nos autos foi afetada à Primeira Seção do Superior Tribunal de Justiça para ser decidida sob o rito de recursos repetitivos (Tema 1.371), e foi assim delimitada: "Definir se a prerrogativa do fisco de arbitrar a base de cálculo do ITCMD decorre diretamente do CTN ou está sujeita às normas específicas da Unidade da Federação" (ProAfR no REsp 2.175.094/SP, relatora Ministra Maria Thereza de Assis Moura, DJEN de 19/8/2025).
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+O envio do recurso especial a esta Corte Superior deve ocorrer somente após o esgotamento da instância ordinária, formalizado com o novo julgamento pelo Tribunal de origem, quando então será possível examinar, no âmbito do STJ, as matérias jurídicas que eventualmente permanecerem controvertidas. Essa cautela também evita o fracionamento do recurso e previne eventual violação ao princípio da unicidade recursal, que veda a interposição simultânea ou sucessiva de recursos contra a mesma decisão.
+Ante o exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil (CPC), após a publicação do acórdão dos recursos representativos de controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do mesmo CPC.
+Publique-se. Intimem-se.
+ EMENTA
