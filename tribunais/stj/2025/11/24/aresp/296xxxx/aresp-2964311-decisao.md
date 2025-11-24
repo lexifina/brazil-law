@@ -1,0 +1,68 @@
+DECISÃO
+Cuida-se de agravo interposto por UNIMED DE ARARAQUARA COOPERATIVA DE TRABALHO MÉDICO contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 299):
+APELAÇÃO. PLANO DE SAÚDE. Negativa de cobertura médica: aplicação do CDC e da Lei nº 9.656/98. Taxatividade do rol da ANS. Limitação contratual abusiva. Direito à saúde e boa-fé objetiva. Precedentes jurisprudenciais. Leis 14.307/22 e 14.454/22. Cobertura de tratamentos não constantes do rol. Excepcionalidade. Requisitos estabelecidos pelo STJ. Ausência de procedimento equivalente no rol. Violação de expectativas contratuais. Sentença parcialmente mantida. Recurso parcialmente provido.
+Rejeitados os embargos de declaração opostos (fls. 319-323; 914-917).
+No recurso especial, a parte recorrente alega que o acórdão estadual violou os arts. 10 do CPC e 10, §13, da Lei n. 9.656/1998.
+Aduz que " ..  durante o período de instrução do feito, não foi oportunizado a manifestação da Recorrente com a produção de prova pericial" (fls. 348-349).
+Sustenta, no mérito, que não há responsabilidade da operadora pelo fornecimento e custeio da Estação de Navegação Intraoperatória KIK2, pois não existe cobertura contratual, o item não consta do rol taxativo da Agência Nacional de Saúde Suplementar (ANS), não atende às Diretrizes de Utilização (DUT) aplicáveis ao caso e tampouco preenche os requisitos de cobertura extra-rol previstos no art. 10, § 13, da Lei n. 9.656/1998.
+Aponta divergência jurisprudencial com arestos desta Corte.
+Sem contrarrazões ao recurso especial (fl. 920).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 921-923), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo (fl. 938).
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+Com efeito, o Tribunal de origem analisou detidamente o recurso especial interposto, devendo a decisão de admissibilidade ser mantida.
+Da análise do acórdão recorrido, observa-se que o Tribunal de origem, ao dar parcial provimento à apelação, não emitiu juízo da valor acerca do art. 10 do CPC nem a alegação de decisão surpresa.
+Logo, não foi cumprido o necessário e indispensável exame da questão pela decisão atacada, apto a viabilizar a pretensão recursal da recorrente, a despeito da oposição dos embargos de declaração.
+Assim, incide no caso o enunciado da Súmula n. 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo".
+Nesse sentido, cito:
+1. A ausência de debate acerca dos dispositivos legais tidos por violados, a despeito da oposição de embargos declaratórios, inviabiliza o conhecimento da matéria na instância especial, por falta de prequestionamento. Incidência das Súmulas n. 211 do STJ.
+(AgInt nos EDcl no AREsp n. 1.433.979/SP, relator Ministro João Otávio de Noronha, Quarta Turma, DJEN de 17/2/2025.)
+3. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de aclaratórios, impede seu conhecimento, a teor da Súmula nº 211/STJ.
+(AgInt no AREsp n. 1.714.930/SC, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 20/12/2024.)
+2. Não se verifica o exame pelo Tribunal de origem, mesmo após a interposição dos embargos de declaração, da tese em torno da violação dos arts. 171 e 182 do Código Civil, razão pela qual incide, na espécie, a Súmula 211/STJ, ante a ausência do necessário prequestionamento viabilizador do recurso especial, requisito indispensável para o acesso às instâncias excepcionais.
+(AgInt no AREsp n. 2.713.012/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 13/11/2024.)
+Acrescente-se que, se o recorrente entendesse persistir algum vício no acórdão impugnado, imprescindível a alegação de violação do art. 1.022 do CPC quando da interposição do recurso especial com fundamento na alínea "a" do inciso III do artigo 105 da Constituição Federal, sob pena de incidir no intransponível óbice da ausência de prequestionamento.
+Nesse sentido, cito:
+1. O recurso especial não comporta conhecimento por ausência de prequestionamento dos dispositivos legais mencionados (artigos 47 e 54 do CDC, artigo 129 do Código Civil). O acórdão recorrido não analisou explicitamente tais dispositivos, e os agravantes não indicaram violação do art. 1.022 do CPC, o que inviabiliza o conhecimento do recurso especial, aplicando-se as Súmulas n. 211 do STJ e 282 do STF.
+(AgInt no REsp n. 2.114.449/SP, relator Ministro João Otávio de Noronha, Quarta Turma, DJe de 6/11/2024.)
+2. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de declaratórios, impede seu conhecimento, a teor da Súmula nº 211/STJ.
+3. Apesar de opostos embargos de declaração na origem, a recorrente não indicou a contrariedade ao artigo 1.022 do Código de Processo Civil, a fim de sanar eventual omissão.
+(AgInt no AREsp n. 2.370.076/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 12/9/2024.)
+Além disso, o acórdão de embargos de declaração registrou que "o acordão não foi omisso, pois o pedido de análise preliminar de cerceamento de defesa não foi objeto de pedido na apelação". Trata-se, pois, de inovação recursal, insuscetível de conhecimento nesta sede.
+No mérito, em relação à apontada ofensa ao art. 10, §13, da Lei 9.656/1998, e à divergência jurisprudencial suscitada, o recurso especial não merece prosperar porquanto encontra óbices nas Súmulas 7 e 83 do Superior Tribunal de Justiça.
+O Tribunal de origem decidiu a controvérsia em harmonia com a jurisprudência do STJ, sobre a possibilidade de, em determinadas hipóteses e atendidos os requisitos estabelecidos pela jurisprudência desta Corte no julgamento do EREsp nº 1.886.929/SP e também impostos pela Lei 14.454/22.
+A propósito, cito o seguinte precedente:
+CONSUMIDOR. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. AÇÃO DE OBRIGAÇÃO DE FAZER. BENEFICIÁRIO MENOR DE IDADE ACOMETIDO POR ENCEFALOPATIA CRÔNICA POR ASFIXIA PERINATAL GRAVE. INDICAÇÃO DE EQUIPAMENTOS NÃO LIGADOS A ATO CIRÚRGICO PARA AUXILIAR NO TRATAMENTO. RECUSA INDEVIDA DE COBERTURA. ROL DA ANS. TAXATIVIDADE. FLEXIBILIZAÇÃO EXCEPCIONAL. POSSIBILIDADE. JURISPRUDÊNCIA DA SEGUNDA SEÇÃO DO STJ E LEI 14.454/2022. SITUAÇÃO EXCEPCIONAL. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA
+DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.1. A Segunda Seção do STJ definiu os seguintes parâmetros para se reconhecer, em hipóteses excepcionais e restritas, a obrigação de a operadora de plano de saúde cobrir eventos e procedimentos não previstos no rol da ANS: "1 - o Rol de Procedimentos e Eventos em Saúde Suplementar é, em regra, taxativo; 2 - a operadora de plano ou seguro de saúde não é obrigada a arcar com tratamento não constante do Rol da ANS se existe, para a cura do paciente, outro procedimento eficaz, efetivo e seguro já incorporado à lista; 3 - é possível a contratação de cobertura ampliada ou a negociação de aditivo contratual para a cobertura de procedimento extrarrol; 4 - não havendo substituto terapêutico ou estando esgotados os procedimentos do Rol da ANS, pode haver, a título de excepcionalidade, a cobertura do tratamento indicado pelo médico ou odontólogo-assistente, desde que (i) não tenha sido indeferida expressamente pela ANS a incorporação do procedimento ao Rol da Saúde Suplementar; (ii) haja comprovação da eficácia do tratamento à luz da medicina baseada em evidências;
+(iii) haja recomendações de órgãos técnicos de renome nacionais (como Conitec e NatJus) e estrangeiros; e (iv) seja realizado, quando possível, o diálogo interinstitucional do magistrado com entes ou pessoas com expertise na área da saúde, incluída a Comissão de Atualização do Rol de Procedimentos e Eventos em Saúde Suplementar, sem deslocamento da competência do julgamento do feito para a Justiça Federal, ante a ilegitimidade passiva ad causam da ANS" (EREsp 1.886.929/SP, Relator Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 8/6/2022, DJe de 3/8/2022).2. A modificação da conclusão do Tribunal de origem sobre a presença dos critérios definidos pela Segunda Seção do STJ e pela Lei 14.454/2022, para mitigar a taxatividade do rol da ANS, implicaria o reexame dos fatos e das provas dos autos e a revisão das cláusulas contratuais, o que é inviável em recurso especial, a teor do que dispõem as Súmulas 5 e 7/STJ.3. O entendimento adotado no acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.4.
+Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.811.111/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 1/9/2025, DJEN de 8/9/2025.)
+Ademais, alterar o decidido no acórdão impugnado, no que se refere à imprescindibilidade do tratamento e à constatação do Tribunal de origem de que a UNIMED não apresentou procedimento substituto eficaz, exige o reexame de fatos e provas, o que é vedado, em recurso especial, pela Súmula n. 7 do STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+Por fim, observa-se que a recorrente limita-se a suscitar violação do art. 10, § 13, da Lei n. 9.656/1998 e do art. 10 do Código de Processo Civil, mas deixa de impugnar os fundamentos do acórdão recorrido no sentido da abusividade da cláusula limitativa e da obrigatoriedade de cobertura mínima à luz do Código de Defesa do Consumidor (boa-fé objetiva e função social do contrato; art. 51, IV e § 1º).
+Tais omissões atraem a incidência da Súmula n. 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Nesse sentido, cito:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA DE CIRURGIA PLÁSTICA REPARADORA COMPLEMENTAR À GASTROPLASTIA. DANOS MORAIS. SÚMULAS 282, 283, 284 E 356 DO STF E 7 DO STJ. FUNDAMENTOS INATACADOS. AUSÊNCIA DE PREQUESTIONAMENTO. REEXAME DE PROVAS. RECURSO NÃO PROVIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto por operadora de plano de saúde contra decisão que negou seguimento a recurso especial, o qual impugnava acórdão do Tribunal de Justiça do Estado de Pernambuco que reconheceu a abusividade da negativa de cobertura de cirurgia plástica reparadora complementar à gastroplastia e condenou a operadora ao pagamento de danos morais à segurada.
+II. QUESTÃO EM DISCUSSÃO
+2. Há três questões em discussão: (i) verificar se a matéria suscitada foi devidamente prequestionada no Tribunal de origem; (ii) analisar se o recurso especial enfrentou todos os fundamentos autônomos da decisão recorrida; e (iii) apurar se a pretensão recursal demanda reexame de fatos e provas, vedado pela Súmula 7 do STJ.
+III. RAZÕES DE DECIDIR
+3. A ausência de manifestação expressa do Tribunal de origem sobre o art. 19-I da Lei n. 8.080/1990, sem que tenham sido opostos embargos de declaração para suprir a omissão, atrai a incidência das Súmulas 282 e 356 do STF, impossibilitando o conhecimento da matéria.
+4. O recurso especial não impugnou especificamente o fundamento autônomo do acórdão recorrido que reconheceu a aplicabilidade do Código de Defesa do Consumidor e a nulidade da cláusula excludente de cobertura, o que configura deficiência recursal e impõe a incidência da Súmula 283 do STF.
+5. A tese recursal sobre a ausência de dano moral envolve a revisão das provas constantes dos autos, o que é vedado na via do recurso especial, conforme a Súmula 7 do STJ.
+6. O dissídio jurisprudencial não foi devidamente demonstrado, pois a parte recorrente não indicou o dispositivo legal interpretado de forma divergente nem realizou o confronto analítico entre os julgados, o que atrai a aplicação da Súmula 284 do STF.
+IV. DISPOSITIVO
+7. Agravo interno desprovido.
+(AgInt no AREsp n. 2.664.141/PE, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 28/4/2025, DJEN de 5/5/2025.)
+Por fim, diga-se que os mesmos óbices impostos à admissão do recurso pela alínea "a" do art. 105 da CF impedem a análise recursal pela alínea "c" do mesmo dispositivo constitucional, ficando prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica.
+É o que os seguintes julgados demonstram:
+XI - Prejudicado o exame do recurso especial interposto pela alínea c do permissivo constitucional, pois a inadmissão do apelo proposto pela alínea a por incidência de enunciado sumular diz respeito aos mesmos dispositivos legais e tese jurídica.
+(AgInt no AREsp n. 1.985.699/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 6/8/2024, DJEN de 23/12/2024.)
+5. É pacífico o entendimento desta Corte superior de que os mesmos óbices impostos à admissão do recurso pela alínea "a" do permissivo constitucional impedem a análise recursal pela alínea "c", ficando prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica.
+(AgInt no AREsp n. 2.683.103/PR, relator Ministro Humberto Martins, Terceira Turma, julgado em 9/12/2024, DJEN de 12/12/2024.)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 12% sobre o valor atualizado da causa.
+Publique-se. Intimem-se.
+ EMENTA
