@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO assim ementado (fl. 140):
+PREVIDENCIÁRIO. SALÁRIO-MATERNIDADE. TRABALHADORA RURAL. PRESCRIÇÃO QUINQUENAL. NÃO OCORRÊNCIA. INÍCIO RAZOÁVEL DE PROVA MATERIAL. AUSÊNCIA DE PROVA TESTEMUNHAL. INADMISSIBILIDADE. SENTENÇA ANULADA. RETORNO DOS AUTOS À ORIGEM PARA REGULAR PROCESSAMENTO E JULGAMENTO DO FEITO. APELAÇÃO DA PARTE AUTORA PROVIDA.
+1. 1. Sentença proferida sob a égide do CPC/2015. Remessa necessária incabível.
+2. No caso em tela, o requerimento administrativo foi indeferido em 23.01.2015 (ID 158965035, fl. 35). A ação foi ajuizada em 28.02.2019 (ID 158965034, fl. 15). Assim, não há que se falar em prescrição quinquenal.
+3. O benefício de salário-maternidade é devido à segurada especial que atender aos requisitos estabelecidos na Lei 8.213/91(art. 25, III) e no § 2º do art. 93 do Decreto 3.048/99. A demonstração do trabalho rural no prazo mínimo de 10 (dez) meses, ainda que descontínuos, deve ser comprovado mediante início razoável de prova material, corroborada com prova testemunhal, ou prova documental plena, inadmissível a prova exclusivamente testemunhal (STJ, Súmula 149; TRF-1ª. Região, Súmula 27).
+4. A autora postula o benefício de salário-maternidade em decorrência do nascimento de seu filho, ocorrido em 19.09.2013 - certidão de nascimento de fl. 19, na qual consta a qualificação profissional dos genitores como lavradores, e, com o propósito de comprovar a sua condição de trabalhadora rural, juntou os seguintes documentos: contrato de trabalho por prazo indeterminado, sem firma reconhecida; CPTS do companheiro e pai da criança, constando vários vínculos trabalhistas na atividade rural.
+5. Presente o início de prova material, a sentença deve ser anulada ante a impossibilidade da análise do mérito, tendo em vista que a prova testemunhal não chegou a ser produzida, uma vez que o MM. Juízo a quo entendeu suficiente a instrução do feito.
+6. Apelação da parte autora provida para anular a sentença e determinar o retorno dos autos ao Juízo de origem para produção de prova testemunhal e regular processamento e julgamento do feito.
+Os embargos de declaração opostos foram rejeitados (fl. 165).
+Em suas razões recursais, a parte recorrente aponta ofensa ao art. 1.022, II, do Código de Processo Civil (CPC), visto que "o Tribunal de origem rejeitou os embargos de declaração do INSS, recusando- se a sanar o vício apontado, sob o pálio de fundamentação genérica" (fl. 180).
+Alega também ter havido violação ao art. 1º do Decreto 20.910/1932 e afirma que, "considerando o lapso temporal (mais de 5 (cinco) anos) decorrido entre o termo inicial da prescrição (data do parto - 19-09-2013) e o pedido judicial (ocorrido em 28-02-2019), até porque, como foi dito acima, a contagem do prazo prescricional ficou suspensa por apenas 2 meses, tem-se por materializada a prescrição de todas as parcelas vindicadas pela parte autora a título de salário maternidade" (fl. 186).
+Não foram apresentadas contrarrazões.
+O recurso foi admitido (fl. 189).
+É o relatório.
+Assiste razão à parte recorrente.
+A alegada ofensa ao art. 1.022, II, do Código de Processo Civil tem por base suposta omissão do acórdão recorrido sobre o termo inicial do prazo prescricional quinquenal a partir do vencimento de cada uma das quatro parcelas do benefício vindicado. Afirma que o requerimento administrativo do benefício teria o condão apenas de suspender o prazo prescricional.
+Constato que, apesar de provocado, por meio dos embargos de declaração às fls. 151/158, o Tribunal de origem manteve-se silente sobre aquela matéria.
+Na oportunidade, o Tribunal de origem limitou-se a decidir que (fl. 137, sem grifos no original)
+ ..  nos benefícios de natureza previdenciária, de prestação continuada, ocorre prescrição apenas das parcelas vencidas em momento anterior aos 5 (cinco) anos que precederam o ajuizamento da ação, nos termos do entendimento cristalizado na Súmula 85 do Superior Tribunal de Justiça. Em se tratando de obrigações de trato sucessivo, "não ocorre a prescrição do fundo de direito, mas tão somente das parcelas vencidas antes do quinquênio que antecedeu a propositura da ação. Aplicável, à espécie, o verbete sumular n. 85/STJ." (AC 0023479-27.2008.4.01.9199/MG, Desembargador Federal João Luiz de Sousa, Segunda Turma, e-DJF1 03/10/2019 pag).
+No caso em tela, o requerimento administrativo foi indeferido em 23.01.2015 (ID 158965035, fl. 35). A ação foi ajuizada em 28.02.2019 (ID 158965034, fl. 15). Assim, não há que se falar em prescrição quinquenal.
+Para o Superior Tribunal de Justiça, presente algum dos vícios - omissão, contradição ou obscuridade -, e apontada a violação do art. 1.022 do CPC no recurso especial, deve ser anulado o acórdão proferido pelo Tribunal de origem ao examinar os embargos de declaração lá opostos, retornando-se os autos à origem para nova apreciação do recurso.
+A propósito, cito estes julgados:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. ACIDENTE DE TRÂNSITO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015 CONFIGURADA. ACÓRDÃO ESTADUAL OMISSO QUANTO A PONTO ESSENCIAL AO DESLINDE DA CONTROVÉRSIA. AGRAVO DESPROVIDO.
+1. Decisão atacada que deu provimento ao recurso especial da parte ora agravada para, reconhecendo violação ao art. 1.022 do CPC/2015, anular o acórdão que julgou os aclaratórios e determinar o retorno dos autos ao Tribunal de origem para novo julgamento dos embargos de declaração, como entender de direito, sanando a omissão reconhecida.
+2. Fica configurada a ofensa ao art. 1.022 do CPC/2015 quando o Tribunal a quo, apesar de devidamente provocado nos embargos de declaração, não se manifesta sobre tema essencial ao deslinde da controvérsia.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 1.914.275/PB, relator Ministro Raul Araújo, Quarta Turma, julgado em 28/6/2021, DJe de 9/8/2021.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. VIOLAÇÃO AO ART. 535 DO CPC/73 CONFIGURADA. OCORRÊNCIA DE OMISSÃO DE TEMA ESSENCIAL PARA DESLINDE DA CONTROVÉRSIA. AGRAVO INTERNO PROVIDO PARA DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL.
+1. Na hipótese de o eg. Tribunal local deixar de examinar questão nevrálgica ao desate do litígio, fica caracterizada a violação ao art. 535 do CPC/73.
+2. Reconhecida a existência de omissão essencial para o deslinde da controvérsia, deve-se determinar o retorno dos autos ao eg. Tribunal de origem para novo julgamento dos embargos de declaração, como entender de direito, sanando os vícios ora reconhecidos.
+3. Acolhida a alegada ofensa ao art. 535 do CPC/73, fica prejudicada a análise das demais teses trazidas no apelo nobre.
+4. Agravo interno provido para reconsiderar a decisão agravada e dar parcial provimento ao recurso especial e, reconhecendo a violação ao art. 535, II, do CPC/73, anular o v. acórdão de fls. 201/203, determinando o retorno dos autos ao eg. Tribunal a quo para promover novo julgamento dos embargos de declaração, como entender de direito.
+(AgInt no AREsp n. 218.092/RJ, relator Ministro Lázaro Guimarães - Desembargador Convocado do TRF da 5ª Região, Quarta Turma, julgado em 2/8/2018, DJe de 8/8/2018.)
+O provimento do recurso especial prejudica as demais matérias nele suscitadas.
+Ante o exposto, conheço do recurso especial e a ele dou provimento para reconhecer o vício de omissão e, assim, anular o acórdão de fls. 162/170, determinando o retorno dos autos à origem para novo exame dos embargos de declaração.
+Publique-se. Intimem-se.
+ EMENTA
