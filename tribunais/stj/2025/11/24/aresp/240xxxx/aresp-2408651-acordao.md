@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/11/2025 a 24/11/2025, por unanimidade, conhecer do recurso mas lhe negar provimento, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira, Marco Buzzi e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO DO CONSUMIDOR. RECURSO ESPECIAL. EMPRÉSTIMO CONSIGNADO. CONTRATAÇÃO POR MEIO DE CARTÃO DE CRÉDITO. INFORMAÇÃO ADEQUADA. RECURSO DESPROVIDO.
+1. O Tribunal de origem concluiu que a instituição financeira comprovou a regularidade do contrato, demonstrando que a consumidora tinha ciência da contratação do cartão de crédito e que este foi utilizado para saque em espécie.
+2. A modificação do entendimento do Tribunal de origem demandaria o revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, nos termos da Súmula 7 do STJ.
+3. Não se verifica negativa de prestação jurisdicional, pois o acórdão recorrido analisou de forma clara e fundamentada as questões relevantes do processo, ainda que em sentido contrário aos interesses da recorrente.
+4. Resultado do Julgamento: Recurso especial desprovido.
+RELATÓRIO
+Trata-se de recurso especial interposto por FRANCINEY MARTINS MENDES, com fundamento nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado do Maranhão (TJ-MA), assim ementado (e-STJ, fl. 497):
+PROCESSUAL CIVIL. AGRAVO INTERNO EM APELAÇÃO CÍVEL. EMPRÉSTIMO BANCÁRIO CONTRAÍDO PELA AGRAVANTE. COMPROVAÇÃO PELO BANCO AGRAVADO. SAQUE EFETUADO MEDIANTE CARTÃO DE CRÉDITO. DECISÃO QUE NEGA PROVIMENTO AO APELO. ATENDIMENTO À 4ª TESE FIXADA NO IRDR 5.836/2016. PRELIMINAR REJEITADA. MANUTENÇÃO DA DECISÃO. AGRAVO INTERNO IMPROVIDO. UNANIMIDADE.
+I - Não merecer acolhida a preliminar suscitada pela Recorrente, vez que o R Esp Nº 1.846.649 - MA, interposto contra decisão de mérito prolatada no IRDR Nº 53.983/2016 diz respeito exclusivamente à 1ª Tese ali fixada, sem qualquer referência à 4ª Tese, que subsidiou o julgamento monocrático do Apelo. Preliminar de nulidade do julgamento rejeitada.
+II - Deve ser mantida a decisão agravada quando o Agravo Interno não traz em suas razões qualquer argumento capaz de modificar o entendimento já firmado anteriormente, máxime quando o julgamento monocrático do recurso observou a linha de precedentes do Tribunal de Justiça do Estado do Maranhão no sentido de reconhecer a legitimidade dos descontos efetuados no contracheque da consumidora para pagamento de cartão de crédito consignado, uma vez demonstrada a adequada informação e a correta especificação das características do negócio contratado.
+III - Agravo interno improvido, à unanimidade.
+Nas razões do recurso especial, o recorrente aponta violação dos artigos 1.022, II, do CPC/2015, artigos 6º, III e IV, 39, V, 47, 51, IV, e 52, do CDC, além de divergência jurisprudencial.
+Sustenta omissão no acórdão recorrido "mesmo com a oposição de embargos, visto que os argumentos suscitados nos autos pela Recorrente não foram devidamente analisados com relação a decisão do superior Tribunal de Justiça, bem como o julgamento desta matéria em duas ações civis públicas, bem como à onerosidade excessiva e desvantagem atribuída ao consumidor". (e-STJ, fl. 671)
+Afirma a existência de divergência jurisprudencial no que concerne à "violação a diversos artigos do CDC, tais como o direito básico a informação, conforme prevê o art. 6º, incisos III e IV; violação ao art. 39, inciso V do CDC, pois o consumidor, com o pagamento apenas de um valor mínimo, fixado conforme o limite de sua margem, acaba pagando um valor até 5x mais que o solicitado; violação ao art. 47 do CDC, onde o pagamento mínino constitui cláusula abusiva contra o consumidor; viola o art. 51, inciso IV do CDC, posto que tem-se claro e evidente desequilíbrio contratual, haja vista a onerosidade excessiva imposta pelo banco; e por fim, violação ao art. 52 do CDC, eis que o consumidor não possui a clareza exata de quanto irá pagar e até quando irá pagar". (e-STJ, fls. 672-673)
+Acrescenta não ter sido cumprido o requisito jurisprudencial da existência de "informação adequada e clara sobre os diferentes produtos, especificando corretamente as características do contrato" (e-STJ, fl. 687), uma vez que" a intensão dos consumidores, assim como no presente caso, é a contratação de empréstimo consignado, vez que, além do depósito feito diretamente em conta bancária, a grande maioria nem mesmo utiliza o mencionado cartão, ou, se utiliza, não teve o devido esclarecimento de que este estaria vinculado ao empréstimo contratado". (e-STJ, fl. 691)
+Foram oferecidas contrarrazões (e-STJ, fls. 765/770).
+É o relatório.
+EMENTA
+DIREITO DO CONSUMIDOR. RECURSO ESPECIAL. EMPRÉSTIMO CONSIGNADO. CONTRATAÇÃO POR MEIO DE CARTÃO DE CRÉDITO. INFORMAÇÃO ADEQUADA. RECURSO DESPROVIDO.
+1. O Tribunal de origem concluiu que a instituição financeira comprovou a regularidade do contrato, demonstrando que a consumidora tinha ciência da contratação do cartão de crédito e que este foi utilizado para saque em espécie.
+2. A modificação do entendimento do Tribunal de origem demandaria o revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, nos termos da Súmula 7 do STJ.
+3. Não se verifica negativa de prestação jurisdicional, pois o acórdão recorrido analisou de forma clara e fundamentada as questões relevantes do processo, ainda que em sentido contrário aos interesses da recorrente.
+4. Resultado do Julgamento: Recurso especial desprovido.
+VOTO
+Assim o Tribunal de origem rejeitou as teses da recorrente de vulneração de orientações jurisprudenciais, onerosidade excessiva e ausência de informações adequadas prévias ao ato da contratação (e-STJ, fls. 499-501, grifei):
+Passando ao mérito, vejo que, ao contrário do alegado pela Agravante, as provas carreadas aos autos demonstram que a Instituição Financeira recorrida se desincumbiu do ônus de provar a regularidade do contrato questionado na demanda, evidenciando que a Recorrente celebrou o aludido mútuo e sacou a quantia que lhe foi disponibilizada por meio do cartão de crédito consignado.
+Ademais, como frisado no decisum agravado, a própria Agravante admitiu em sua inicial a contratação do mútuo junto ao Banco recorrido, residindo a controvérsia tão somente quanto à regularidade da operação por meio de cartão de crédito.
+Com efeito, de forma acertada e em consonância com a 4ª tese firmada pelo Plenário deste Egrégio Tribunal de Justiça quando do julgamento do IRDR 53.983/2016, o Magistrado a quo julgou improcedentes os pedidos formulados na inicial, considerando que a Recorrente, ao firmar o contrato em discussão, tinha pleno conhecimento de que se encontrava na condição de titular de cartão de crédito fornecido pelo Banco.
+ ..
+De tal forma, torna-se descabida a ilegalidade apontada pela Recorrente, pois é lícita a contratação de quaisquer modalidades de mútuo financeiro, desde que informadas suas características, conforme estabelecido pela 4ª Tese fixada pelo IRDR 53.983/2016, verbis:
+ ..
+Assim, reafirmo que a Recorrente, ao assinar o contrato objeto da lide, teve ciência plena da sua natureza, não cabendo o argumento de que foi induzida a erro pelo Banco recorrido, máxime quando há provas nos autos de que o cartão contestado foi utilizado para saque em espécie.
+Sobre o tema discutido, este Egrégio Tribunal de Justiça, com amparo em tese jurídica firmada no IRDR 53.983/2016, reiteradamente já decidiu:
+Inicialmente, observa-se que não se viabiliza o recurso especial pela indicada omissão na análise de requisitos jurisprudenciais ou da alegação de onerosidade excessiva , uma vez que, embora rejeitados os embargos de declaração, o Tribunal de origem indicou adequadamente os motivos que lhe formaram o convencimento, analisando de forma clara, precisa e completa as questões relevantes do processo e solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Consoante entendimento desta Corte, não importa negativa de prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pela recorrente, decidindo de modo integral a controvérsia posta, não sendo possível confundir o julgamento em desconformidade com os interesses da parte com negativa de prestação jurisdicional.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE ARBITRAMENTO DE HONORÁRIOS - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA NEGAR PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE DEMANDADA.
+1. Não se verifica ofensa ao artigo 1.022, II, do CPC, quando o Tribunal decide, de modo claro e fundamentado, as questões essenciais ao deslinde do feito. Ademais, não se deve confundir decisão contrária aos interesses da parte com negativa de prestação jurisdicional.
+2. Nos termos da jurisprudência do STJ, revogado imotivadamente o mandato judicial, é cabível o ajuizamento da ação de arbitramento para cobrar os honorários, de forma proporcional aos serviços até então prestados. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.695.384/MT, relator Ministro Marco Buzzi, Quarta Turma, julgado em 16/6/2025, DJEN de 24/6/2025, g.n.)
+AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA NEGAR PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE DEMANDANTE.
+1. Não se verifica ofensa aos artigos 11, 489 e 1.022, do CPC, quando o Tribunal decide, de modo claro e fundamentado, as questões essenciais ao deslinde do feito. Ademais, não se deve confundir decisão contrária aos interesses da parte com negativa de prestação jurisdicional.
+2. Verifica-se que o entendimento do Tribunal de piso está em consonância com a jurisprudência do STJ, no sentido de que é trienal o prazo prescricional da pretensão indenizatória por danos causados em razão da construção de usina hidrelétrica, tendo como termo a quo a data em que o titular do direito toma conhecimento inequívoco do fato e da extensão de suas consequências, nos termos do princípio da actio nata.
+2.1. Ademais, a pretensão de alterar as conclusões do órgão julgador acerca do momento em que houve o conhecimento inequívoco do fato esbarra no óbice da Súmula 7/STJ.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 2.083.325/BA, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/5/2025, DJEN de 29/5/2025, g.n.)
+Relativamente às teses de ausência de informação clara, especialmente no que concerne à operação de cartão de crédito, o acórdão recorrido, com a análise das provas produzidas nos autos, conforme acima transcrito, consignou expressamente que tais informações foram prestadas ao recorrente e que ele estava plenamente ciente de que também contratara o cartão de crédito, inclusive utilizado para o saque.
+Nesse contexto, a modificação de tal entendimento, nos termos em que pleiteado pela parte recorrente, demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+Ante o exposto, nego provimento ao recurso especial.
+Com fundamento no artigo 85, §11, do CPC, majoro de 10% para 11% os honorários advocatícios de sucumbência devidos pelo recorrente ao recorrido.
+É como voto.
