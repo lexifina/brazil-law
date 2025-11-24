@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/11/2025 a 24/11/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CONEXÃO. ART. 55 DO CPC. INEXISTÊNCIA. PRESTAÇÃO JURISDICIONAL. NEGATIVA. AFASTAMENTO. REEXAME DE PROVAS E CLÁUSULAS. FUNDAMENTAÇÃO DEFICIENTE. DIVERGÊNCIA JURISPRUDENCIAL. SÚMULAS NºS 5, 7/STJ E 284/STF.
+1. N a espécie, não houve violação dos artigos 489 e 1.022 do Código de Processo Civil, visto que agiu corretamente o tribunal de origem ao rejeitar os embargos de declaração por inexistir omissão, contradição, obscuridade ou erro material no acórdão atacado, ficando patente o intuito infringente da irresignação.
+2. A revisão das matérias referentes à conexão entre as execuções demandam a análise da interpretação de cláusulas contratuais e do conjunto fático-probatório, atraindo a incidência dos óbices das Súmulas nºs 5 e 7/STJ.
+3. Não sendo notória a divergência, e se nas razões de recurso especial não há indicação de qual dispositivo legal teria sido malferido, com a consequente demonstração da divergência de interpretação à legislação infraconstitucional, aplica-se, por analogia, o óbice contido na Súmula nº 284/STF, a inviabilizar o conhecimento do recurso pela alínea "c" do permissivo constitucional.
+4. Agravo conhecido para não conhecer do recurso especial.
+RELATÓRIO
+Trata-se de agravo interposto por José Paulo dos Santos contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de Santa Catarina, assim ementado:
+"AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. DECISÃO QUE RECONHECEU A PREVENÇÃO. INSURGÊNCIA DO EXEQUENTE.
+MÉRITO. EXECUÇÕES AJUIZADAS TENDO POR BASE TÍTULOS EXECUTIVOS DIVERSOS. CONEXÃO. REQUISITOS DO ART. 55, §2º, INC. II, CPC QUE NÃO SE FAZEM PRESENTES, NÃO HAVENDO POSSIBILIDADE DE DECISÕES CONFLITANTES. ADEMAIS, A ANÁLISE DA CONEXÃO FOI REALIZADA DE FORMA PREMATURA, SEM A PRÉVIA MANIFESTAÇÃO DA PARTE CREDORA, O QUE DEVE SER VISTO COM CAUTELA, DIANTE DA POSSÍVEL ALTERAÇÃO DA COMPETÊNCIA. DECISÃO REFORMADA.
+RECURSO PROVIDO." (e-STJ fl. 243-247).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 287-290).
+No recurso especial, o recorrente alega, além de divergência jurisprudencial, violação dos artigos 3º, 4º, 5º, 6º, 8º, 55, caput, §§ 1º, 2º, incisos I e II, e § 3º, 1.022, incisos I e II, e 1.025, todos do Código de Processo Civil.
+Sustenta, em síntese, que o acórdão recorrido (i) violou os princípios da boa-fé processual, da economia processual e da menor onerosidade ao devedor, ao não reconhecer a conexão entre as execuções; (ii) contradisse o artigo 55, caput, §§ 1º, 2º, incisos I e II, e § 3º, do CPC, ao afastar a conexão entre as execuções, mesmo diante de fato jurídico incontroverso (operação "mata-mata"); (iii) foi omisso e contraditório ao não apreciar integralmente os pedidos formulados no agravo de instrumento da recorrida, especialmente quanto à impossibilidade de considerar os embargos à execução como expediente uno.
+Após a juntada das contrarrazões (e-STJ fls. 325-343), o recurso especial não foi admitido na origem (e-STJ fls. 354-356), dando ensejo à interposição do presente agravo.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CONEXÃO. ART. 55 DO CPC. INEXISTÊNCIA. PRESTAÇÃO JURISDICIONAL. NEGATIVA. AFASTAMENTO. REEXAME DE PROVAS E CLÁUSULAS. FUNDAMENTAÇÃO DEFICIENTE. DIVERGÊNCIA JURISPRUDENCIAL. SÚMULAS NºS 5, 7/STJ E 284/STF.
+1. N a espécie, não houve violação dos artigos 489 e 1.022 do Código de Processo Civil, visto que agiu corretamente o tribunal de origem ao rejeitar os embargos de declaração por inexistir omissão, contradição, obscuridade ou erro material no acórdão atacado, ficando patente o intuito infringente da irresignação.
+2. A revisão das matérias referentes à conexão entre as execuções demandam a análise da interpretação de cláusulas contratuais e do conjunto fático-probatório, atraindo a incidência dos óbices das Súmulas nºs 5 e 7/STJ.
+3. Não sendo notória a divergência, e se nas razões de recurso especial não há indicação de qual dispositivo legal teria sido malferido, com a consequente demonstração da divergência de interpretação à legislação infraconstitucional, aplica-se, por analogia, o óbice contido na Súmula nº 284/STF, a inviabilizar o conhecimento do recurso pela alínea "c" do permissivo constitucional.
+4. Agravo conhecido para não conhecer do recurso especial.
+VOTO
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece prosperar.
+No tocante à negativa de prestação jurisdicional, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+No caso, o Tribunal de Justiça manifestou-se expressamente quanto à conexão entre as ações, conforme se verifica do seguinte trecho do acórdão:
+"Execuções ajuizadas tendo por base títulos executivos diversos. Conexão. Requisitos do art. 55, §2º, inc. II, CPC que não se fazem presentes, não havendo possibilidade de decisões conflitantes. Ademais, a análise da conexão foi realizada de forma prematura, sem a prévia manifestação da parte credora, o que deve ser visto com cautela, diante da possível alteração da competência." (e-STJ fl. 247)
+Não há falar, portanto, em existência de omissão apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+A esse respeito, os seguintes precedentes:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE CUSTEIO DE MEDICAMENTO (THIOTEPA). 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2. FUNDAMENTO SUFICIENTE NÃO ATACADO. SÚMULA 283/STF. 3. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. 4. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282/STF E 211/STJ. 5. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. O acórdão recorrido encontra-se em perfeita harmonia com a jurisprudência desta Corte no sentido de que, "embora se trate de fármaco importado ainda não registrado pela ANVISA, teve a sua importação excepcionalmente autorizada pela referida Agência Nacional, sendo, pois, de cobertura obrigatória pela operadora de plano de saúde" (REsp 1.923.107/SP, relatora ministra Nancy Andrighi, Terceira Turma, julgado em 10/8/2021, DJe 16/8/2021).
+3. Atentando-se aos argumentos trazidos pela recorrente e aos fundamentos adotados pela Corte estadual de que a ANVISA admite a importação do fármaco, verifica-se que estes não foram objeto de impugnação nas razões do recurso especial, e a subsistência de argumento que, por si só, mantém o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+4. A ausência de debate acerca do conteúdo normativo dos arts. 66 da Lei n. 6.360/1976 e 10, V, da Lei n. 6.437/1976, apesar da oposição de embargos de declaração, atrai os óbices das Súmulas 282/STF e 211/STJ.
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp 2.164.998/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se)
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE REGRESSO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DOS DEMANDADOS.
+1. Não há se falar em negativa de prestação jurisdicional, na medida em que o órgão julgador dirimiu todas as questões que lhe foram postas à apreciação, de forma clara e sem omissões, embora não tenha acolhido a pretensão da parte.
+2. Rever a conclusão do Tribunal de origem com relação à responsabilidade pelo ressarcimento dos valores pagos em reclamação trabalhista demandaria o reexame do conjunto fático-probatório dos autos e a interpretação de cláusulas contratuais, providencias que encontram óbice no disposto nas Súmulas 5 e 7 do STJ. Precedentes.
+3. Agravo interno desprovido."
+(AgInt nos EDcl no AREsp 2.135.800/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se)
+A modificação do acórdão recorrido demanda a reinterpretação de cláusulas contratuais, bem como o reexame do conjunto fático-probatório dos autos, providências vedadas em recurso especial pelas Súmulas nºs 5 e 7/STJ, respectivamente.
+Quanto à divergência jurisprudencial, o recurso não merece conhecimento, pois, nos termos dos arts. 1.029, § 1º, do Código de Processo Civil e 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça, a divergência jurisprudencial deve ser comprovada e demonstrada, em qualquer caso, com a transcrição dos trechos dos arestos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, o que não ocorreu na espécie. Não basta a simples transcrição de ementas e de parte dos votos sem que seja realizado o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+Além disso, não há como aferir eventual dissídio jurisprudencial sem que tenham os acórdãos recorrido e paradigma examinado o tema com enfoque na mesma legislação infraconstitucional.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS E TUTELA DE URGÊNCIA. 1. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO VIOLADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. 2. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. COTEJO ANALÍTICO NÃO EFETUADO. 3. FUNDAMENTAÇÃO DEFICIENTE. SÚMULAS 283 E 284/STF. 4. DANO MORAL. IN RE IPSA. REDUÇÃO DO QUANTUM INDENIZATÓRIO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA N. 7/STJ. 5. OFENSA A DISPOSITIVO CONSTITUCIONAL. INADEQUAÇÃO DA VIA ELEITA. 6. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, "a falta de indicação pela parte recorrente de qual o dispositivo legal teria sido violado ou objeto de interpretação jurisprudencial divergente implica em deficiência da fundamentação do recurso especial, incidindo o teor da Súmula 284 do STF, por analogia" (AgInt no REsp n. 1.351.296/MG, Relator Ministro Marco Buzzi, Quarta Turma, julgado em 9/9/2019, DJe 12/9/2019).
+2. A mera transcrição de ementas e excertos, desprovida da realização do necessário cotejo analítico entre os arestos confrontados, mostra-se insuficiente para comprovar a divergência jurisprudencial ensejadora da abertura da via especial com esteio na alínea c do permissivo constitucional. Incidência da Súmula 284/STF.
+(..)."
+(AgInt no AREsp 2.203.568/GO, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 5/12/2022, DJe de 7/12/2022)
+Torna-se patente, assim, a falta de fundamentação do apelo nobre, circunstância que atrai a incidência da Súmula nº 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixa-se de majorar os honorários sucumbenciais, nos termos do artigo 85, § 11, do CPC, tendo em vista que não foram arbitrados na origem.
+É o voto.
