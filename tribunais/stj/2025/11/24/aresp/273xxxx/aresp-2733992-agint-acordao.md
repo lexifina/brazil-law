@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/11/2025 a 24/11/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Marco Buzzi, João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. AÇÃO CAUTELAR DE ARRESTO. AUSÊNCIA DE INTERESSE. DÍVIDA QUE NÃO ESTAVA VENCIDA E NEM SE PROVOU O DESVIO DOS BENS DADOS EM GARANTIA. REEXAME. SÚMULAS N. 5 E 7/STJ. NÃO PROVIMENTO.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por COPASUL COOPERATIVA AGRÍCOLA SUL MATOGROSSENSE contra decisão singular da lavra do Ministro Presidente do STJ que não conheceu do agravo em recurso especial pelos seguintes fundamentos:
+a) incidência da Súmula 7/STJ no juízo de admissibilidade do recurso especial na origem;
+b) ausência de impugnação específica do referido fundamento, nos termos do art. 932, III, do Código de Processo Civil (CPC) e do art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça (RISTJ), com aplicação, por analogia, da Súmula 182/STJ (fls. 607-608).
+Nas razões do presente agravo interno, a agravante alega, em síntese, que o agravo em recurso especial impugnou adequadamente os fundamentos da inadmissão, sustentando que não há necessidade de reexame de fatos e provas, pois a controvérsia seria estritamente de direito; afirma violação dos arts. 11 e 18 do Decreto 167/1967, do art. 20, caput e parágrafo único, da Lei 492/1937, e dos arts. 4º e 507 do CPC; defende a existência de dissídio jurisprudencial; sustenta seu interesse de agir para resguardar bens dados em penhor pignoratício diante da colheita e remoção dos grãos sem consentimento; e aponta preclusão consumativa quanto à fixação de honorários, por ausência de embargos de declaração da parte adversa na sentença (fls. 612-649).
+Impugnação ao agravo interno às fls. 654-672 na qual a parte agravada alega que o agravo interno é inadmissível por não demonstrar que, no agravo em recurso especial, houve impugnação específica à aplicação da Súmula 7/STJ, atraindo a incidência da Súmula 182/STJ e dos arts. 1.021, § 1º, e 932, III, do CPC, bem como do art. 259, § 2º, do Regimento Interno do STJ; defende a manutenção da inadmissão por falta de cotejo analítico do dissídio, ausência de prequestionamento sobre honorários, além de reiterar o mérito: inexistência de interesse de agir na cautelar, pagamento integral no vencimento, e aplicação do princípio da causalidade para fixação de honorários.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. AÇÃO CAUTELAR DE ARRESTO. AUSÊNCIA DE INTERESSE. DÍVIDA QUE NÃO ESTAVA VENCIDA E NEM SE PROVOU O DESVIO DOS BENS DADOS EM GARANTIA. REEXAME. SÚMULAS N. 5 E 7/STJ. NÃO PROVIMENTO.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+2. Agravo interno a que se nega provimento.
+VOTO
+O inconformismo não merece acolhida.
+A recorrente manifestou agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+RECURSO ADESIVO DA PARTE AUTORA - AÇÃO CAUTELAR DE ARRESTO - CÉDULA RURAL PIGNORATÍCIA - QUITAÇÃO INTEGRAL - AUSÊNCIA DE INTERESSE DE AGIR - VENCIMENTO ANTECIPADO NÃO DEMONSTRADO - CONDENAÇÃO DA PARTE RÉ EM HONORÁRIOS ADVOCATÍCIOS E AO PAGAMENTO DE MULTA POR LITIGÂNCIA - INCABÍVEL - RECURSO CONHECIDO E NÃO PROVIDO.
+1. Discute-se no presente recurso: a) a ausência, ou não, do interesse de agir quanto ao ajuizamento da Ação Cautelar de Arresto; e b) a possibilidade, ou não, de condenação ao pagamento dos sucumbenciais e litigância de má-fé.
+2. O artigo 485, inciso VI, do CPC/2015, prevê que o Juiz não resolverá o mérito quando verificar a ausência de legitimidade ou de interesse processual.
+3. É sabido que o interesse processual ou interesse de agir é uma das condições da ação, devendo ser analisado sob o aspecto da necessidade de obtenção da tutela jurisdicional pleiteada e da adequação da via eleita para alcançar aquele fim.
+4. Como se sabe, o arresto é medida cautelar típica que visa a apreensão cautelar de bens do devedor, com a finalidade de garantir uma futura execução; contudo, no caso dos autos, não restou evidenciado qualquer inadimplência da parte ré, tampouco que não tinha intenção de efetuar o pagamento da dívida, tanto que prontamente o fez após o seu vencimento. Assim, correta a sentença ao reconhecer a perda de objeto em razão da ausência de interesse de agir.
+5. Considerando que não restou demonstrado o vencimento antecipado da dívida, bem como a ausência de interesse de agir da autora, não há que se falar em condenação da parte ré ao pagamento da pagamento dos ônus sucumbenciais, tampouco em litigância de má-fé.
+6. Apelação Cível conhecida e não provida.
+APELAÇÃO CÍVEL DA PARTE RÉ E DO SEU PATRONO - AÇÃO CAUTELAR DE ARRESTO - PRELIMINAR SUSCITADA EM CONTRARRAZÕES - INOVAÇÃO RECURSAL - REJEITADA - MÉRITO - PROCESSO EXTINTO SEM RESOLUÇÃO DO MÉRITO - HONORÁRIOS ADVOCATÍCIOS DEVIDOS PELA PARTE AUTORA - PRINCÍPIO DA CAUSALIDADE - LITIGÂNCIA DE MÁ-FÉ - NÃO CARACTERIZADA - RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+1. Discute-se, no presente recurso, a) a preliminar suscitada nas Contrarrazões de inovação recursal; b) no mérito, se são devidos honorários advocatícios sucumbenciais em ação extinta sem resolução de mérito, pela perda do seu objeto em razão da ausência de interesse de agir; e c) ocorrência de litigância de má- fé.
+2. Se a tese recursal foi deduzida em primeiro grau de jurisdição, não há que se falar em inovação recursal, devendo, portanto, o recurso ser conhecido. Preliminar rejeitada.
+3. Segundo o CPC/15, a sentença condenará o vencido a pagar ao vencedor as despesas que antecipou (art. 82, § 2º), bem como a pagar honorários ao advogado do vencedor (art. 85, caput).
+4. Em razão do princípio da causalidade, a perda superveniente do objeto não desobriga do ônus da sucumbência, sendo que os honorários caberá para "quem deu causa ao processo" (art. 85, § 10), de modo que, na hipótese, serão devidos pela parte autora.
+5. A fixação do valor dos honorários advocatícios em razão da sucumbência está sujeito aos critérios de valoração delineados no art. 85, §§ 2º e 8º, do Código de Processo Civil/15, sendo sua fixação ato do Juiz. Honorários fixados no importe de dez por cento (10%) do valor atualizado da causa, ex vi, do art. 85, § 2º, do CPC/15.
+6. Nos termos do art. 80, do CPC/15, considera-se litigante de má-fé aquele que: a) deduzir pretensão ou defesa contra texto expresso de lei ou fato incontroverso (inc. I); b) alterar a verdade dos fatos (inc. II); c) usar do processo para conseguir objetivo ilegal (inc. III); d) opuser resistência injustificada ao andamento do processo (inc. IV); e) proceder de modo temerário em qualquer incidente ou ato do processo (inc. V), e f) interpuser recurso com intuito manifestamente protelatório (inc. VII). Má-fé processual não evidenciada no caso.
+7. Apelação Cível conhecida e parcialmente provida.
+Alegou, na ocasião, violação dos artigos 11 e 18 do Decreto 167/67; 20 da Lei 492/37; e 4º do Código de Processo Civil, sob a alegação de que a tentativa de desvio de bens dados em garantia de cédula rural autorizava o manejo da cautelar de arresto, mormente quando inadimplente o devedor.
+Ainda que possível ultrapassar o juízo de conhecimento do agravo em recurso especial, não teria razão a recorrente.
+Diz-se isso porque o Tribunal local considerou que não havia interesse na propositura da cautelar de arresto por não ter havido o vencimento antecipado da dívida.
+Leia-se:
+"(..) apesar de ser uma ação cautelar de arresto de cunho preparatório para execução de um título extrajudicial, não houve, pelo que consta nos autos, o vencimento antecipado da dívida, sendo que, ocorrido o vencimento da dívida, o devedor fez a sua quitação integral. Como se sabe, o arresto é medida cautelar típica que visa a apreensão cautelar de bens do devedor, com a finalidade de garantir uma futura execução; contudo, no caso dos autos, não restou evidenciado qualquer inadimplência da parte ré, tampouco que não tinha intenção de efetuar o pagamento da dívida, tanto que prontamente o fez após o seu vencimento.
+Como ressaltou o Juízo a quo, "Evidencia-se, assim, a aparente desnecessidade de uma ação cautelar de arresto de bens destinada a garantir o pagamento de uma dívida cujo valor de quitação já foi depositado nos autos estando pendente apenas de levantamento pelo credor." (f. 279).
+Assim, em que pesem as alegações da parte recorrente, se a dívida sequer estava vencida quando da propositura da ação e houve o devido pagamento após o seu vencimento, correta a sentença ao reconhecer a perda de objeto em razão da ausência de interesse de agir" (e-STJ, fl. 368).
+Não há consignado no acórdão ou na sentença estaduais tentativa alguma de desvios dos bens dados em garantia, de modo que o reexame da causa esbarra mesmo nas disposições do verbete n. 7 da Súmula desta Casa.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
