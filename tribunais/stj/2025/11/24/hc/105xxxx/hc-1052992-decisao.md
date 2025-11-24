@@ -1,0 +1,14 @@
+DECISÃO
+O presente writ, impetrado em benefício de ANTONIO ADILSON DE OLIVEIRA JUNIOR - denunciado como incurso no crime de tráfico de drogas -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Habeas Corpus Criminal n. 2304461-34.2025.8.26.0000), não comporta processamento.
+Busca a impetração o reconhecimento da nulidade da busca pessoal, realizada sem fundada suspeita, ao argumento de que a mera afirmação de que se tratava de atitude suspeita, desacompanhada de qualquer elemento concreto, não é satisfatório para justificar a busca pessoal.
+Ocorre que, do atento exame dos autos, não se observa constrangimento ilegal capaz de justificar a superação do referido óbice.
+Com efeito, no que se refere à busca pessoal, o art. 240, § 2º, do Código de Processo Penal exige a ocorrência de fundada suspeita para que o procedimento persecutório esteja autorizado e, portanto, válido.
+A Sexta Turma desta Corte entende que a permissão para a revista pessoal - a qual se equipara à busca veicular - decorre de fundada suspeita devidamente justificada pelas circunstâncias do caso concreto de que o indivíduo esteja na posse de armas ou de outros objetos ou papéis que constituam corpo de delito, evidenciando-se a urgência de se executar a diligência (RHC n. 158.580/BA, Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 19/4/2022, DJe 25/4/2022).
+No caso, consta da decisão que homologou o flagrante que ao perceberem a presença da equipe policial, os indivíduos demonstraram nervosismo, o que despertou suspeita. Diante disso, a equipe efetuou o retorno para realizar abordagem. Nesse momento, o passageiro arremessou uma sacola ao solo (fl. 32 - grifo nosso).
+Assim, diante da conduta de dispensar uma sacola em via pública, entendo não haver qualquer ilegalidade ou abuso no procedimento, sendo a apreensão dos entorpecentes consequência legítima da atuação policial.
+Inclusive, no julgamento do HC n. 877.943/MS (DJe 15/5/2024), perante a Terceira Seção desta Corte Superior, o Ministro Rogerio Schietti Cruz destacou que há uma diferença jurídica de tratamento entre as buscas domiciliares e as buscas pessoais, o que justifica a adoção de um standard probatório um pouco menos rigoroso para as buscas pessoais. Sublinho que o caso paradigmático da Sexta Turma busca evitar o uso excessivo da busca pessoal, garantir a sindicabilidade da abordagem e evitar a repetição de práticas que reproduzem preconceitos estruturais arraigados na sociedade; premissas atendidas na espécie.
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE. BUSCA PESSOAL. FUNDADAS SUSPEITAS. EXISTÊNCIA. ARREMESSO DE SACOLA AO SOLO. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Petição inicial indeferida liminarmente.
