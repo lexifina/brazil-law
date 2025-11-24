@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/11/2025 a 24/11/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C COMPENSAÇÃO POR DANOS MORAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. REEXAME DE FATOS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE.
+1. Ação de obrigação de fazer c/c compensação por danos morais.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+4. Agravo interno não provido.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examina-se agravo interno interposto por UNIMED SAO GONCALO NITEROI SOC COOP SERV MED HOSP LTDA, contra decisão que conheceu do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Ação: obrigação de fazer c/c compensação por danos morais ajuizada por ESTELA LOBATO MAGALHAES, representada por sua curadora, por meio do qual sustenta suposta abusividade na negativa de cobertura de Hidroterapia, na forma da prescrição médica apresentada.
+Sentença: julgou parcialmente procedentes os pedidos contidos na inicial, confirmando a tutela de urgência e condenando a ré ao pagamento de R$ 5.000,00 a título de danos morais, além de custas e honorários advocatícios.
+Acórdão: negou provimento ao recurso de apelação, nos termos da seguinte ementa e-STJ fls. 1053- 1054):
+APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. PLANO DE SAÚDE. AUTORA PORTADORA DE RETARDO MENTAL GRAVE E PARALISIA INFANTIL (CID 10:F72 E G80). AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZATÓRIA POR DANOS MORAIS COM PEDIDO DE TUTELA DE URGÊNCIA, ESTA ÚLTIMA CONCEDIDA. SENTENÇA DE PARCIAL PROCEDÊNCIA CONDENANDO O RÉU/APELANTE A PROMOVER OS MEIOS NECESSÁRIOS ÀS SESSÕES DE HIDROTERAPIA INDIVIDUAL, BEM COMO INDENIZAÇÃO DE R$5.000,00 (CINCO MIL REAIS) A TÍTULO DE DANO MORAL. IRRESIGNAÇÃO DA OPERADORA DE SAÚDE. DESCABIMENTO. DIREITO À SAÚDE. DIREITO FUNDAMENTAL. RECUSA AO FORNECIMENTO DO TRATAMENTO IMPRESCINDÍVEL À PRESERVAÇÃO E MELHORIA DA SAÚDE DA AUTORA. CONDUTA ABUSIVA DE EXCLUSÃO DO CUSTEIO DO TRATAMENTO INDICADO PELO MÉDICO QUE ASSISTE A PACIENTE. INTELIGÊNCIA DA SÚMULA 340, DO E. T. J. R. J. CLÁUSULAS LIMITATIVAS OU OBSTATIVAS DAS OBRIGAÇÕES ASSUMIDAS PELAS SEGURADORAS DE SAÚDE QUE DEVEM SER INTERPRETADAS À LUZ DA BOA-FÉ, AINDA MAIS EM SE TRATANDO DE CONTRATOS DE ADESÃO, COMO O DOS AUTOS. RESOLUÇÃO RN Nº 539/2022, DA A. N. S. QUE INCLUIU, NO ROL DE COBERTURA OBRIGATÓRIA PARA AS OPERADORAS DE PLANOS DE SAÚDE, OS PROCEDIMENTOS QUE ENVOLVAM O TRATAMENTO DOS BENEFICIÁRIOS PORTADORES DE TRANSTORNOS GLOBAIS DO DESENVOLVIMENTO, SENDO A HIPÓTESE DOS AUTOS. PRECEDENTES DA CORTE SUPERIOR E DESTE T. J. E. R. J. NA HIPÓTESE DA PRESTAÇÃO DO SERVIÇO SER REALIZADA POR PROFISSIONAIS DE LIVRE ESCOLHA DO CONSUMIDOR, MESMO EXISTINDO REDE CREDENCIADA DISPONÍVEL, O REEMBOLSO DEVE SER NO LIMITE CONTRATUAL ATÉ QUE SEJA OFERTADO SERVIÇO EQUIVALENTE DENTRO DO CORPO ASSISTENCIAL. DANO MORAL CONFIGURADO. SÚMULA Nº 337, DO T. J. E. R. J. VALOR DA INDENIZAÇÃO QUE SE MOSTRA ADEQUADO, DIANTE DOS PRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE. SÚMULAS Nº 343, DO S. T. J. MÉTODO BIFÁSICO. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS RECURSAIS EM FAVOR DO PATRONO DA AUTORA/APELANTE EM MAIS 1% (UM POR CENTO) SOBRE O FIXADO PELO JUÍZO A QUO. ART. 85, § 11, DO C. P. C. RECURSO CONHECIDO E NÃO PROVIDO.
+Embargos de Declaração: opostos pela parte agravante, foram rejeitados.
+Decisão Unipessoal: conheceu do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Agravo interno: a parte agravante alega que não incidem as Súmulas 5 e 7 do STJ e que houve violação ao art. 1.022 do CPC, bem como dos o arts. 4º, III, da Lei nº 9.961/0010, e 10, da Lei 9.656/98. Traz questões relativas ao mérito do recurso especial. Requer, assim, o provimento do agravo para que seja determinado o processamento do recurso especial e apreciado o mérito.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C COMPENSAÇÃO POR DANOS MORAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. REEXAME DE FATOS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE.
+1. Ação de obrigação de fazer c/c compensação por danos morais.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+4. Agravo interno não provido.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+A decisão agravada conheceu do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento, nos termos da seguinte ementa (e-STJ fl. 1259):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C COMPENSAÇÃO POR DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. REEXAME DE FATOS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE 1. Ação de obrigação de fazer c/c compensação por danos morais. 2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração. 3. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis. 4. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
+Não obstante as alegações deduzidas neste recurso, verifica-se que a parte agravante não apresentou fundamentos novos ou específicos aptos a infirmar o entendimento adotado na decisão ora agravada.
+- Da violação do art. 1.022 do CPC
+Inicialmente, constata-se que o artigo 1.022 do CPC não foi violado, porquanto o acórdão recorrido não contém omissão, contradição ou obscuridade. Nota-se que o Tribunal de origem tratou de todos os temas oportunamente suscitados pelas partes, proferindo, a partir da conjuntura então cristalizada, a decisão que lhe pareceu mais coerente.
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt no AREsp 2.164.998/RJ, Terceira Turma, DJe 16/02/2023; AgInt no REsp 1.850.632/MT, Quarta Turma, DJe 08/09/2023; e AgInt no REsp 1.655.141/MT, Primeira Turma, DJe de 06/03/2024.
+Assim, o Tribunal de origem, embora tenha apreciado toda a matéria posta a desate, tratou das questões apontadas como omissas sob viés diverso daquele pretendido pela parte agravante, fato que não dá ensejo à interposição de embargos de declaração.
+- Da interpretação de cláusulas contratuais e do reexame de contexto fático-probatório (Súmulas 5 e 7/STJ)
+Impõe-se a manutenção dos fundamentos da decisão, à espécie, visto que a parte agravante deixou de demonstrar de que forma a análise do recurso especial prescindiria da interpretação das cláusulas do contrato objeto do recurso. Nesse sentido: AgInt no AREsp 2.417.625/RS, Terceira Turma, DJe de 28/2/2024 e AgInt no REsp 2.041.442/RN, Quarta Turma, DJe de 28/2/2024.
+De igual modo, a insurgência não afastou, de forma consistente, a incidência da Súmula 7/STJ, limitando-se a alegar, de maneira genérica, a inexistência de necessidade de reexame de fatos e provas e de interpretação de cláusulas contratuais, sem indicar de que modo os pressupostos fáticos indispensáveis ao julgamento já se encontravam delineados no acórdão recorrido.
+A decisão impugnada assenta, de modo claro, que a alteração do acórdão, "no que se refere às condições técnicas e pertinência do tratamento, à comprovação da eficácia e a obrigatoriedade de cobertura, exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ" (e-STJ fl. 1261).
+A jurisprudência desta Corte é firme no sentido de que "para que se considere adequadamente impugnada a Súmula n. 7/STJ, o agravo em recurso especial deve empreender um cotejo entre os fatos estabelecidos no acórdão recorrido e as teses recursais, mostrando em que medida estas não exigem a alteração do quadro fático delineado pelo Tribunal local, o que não se observa na alegação genérica de ser prescindível reexame de fatos e provas" (AgInt no AREsp 2.224.243/DF, Terceira Turma, DJe 30/10/2024).
+No mesmo sentido: AgInt no AREsp 2.385.441/MG, Quarta Turma, DJe 18/4/2024; AgInt no AREsp 2.225.910/RS, Quarta Turma, DJe 3/10/2024; AgInt no AREsp 2.630.267/RS, Terceira Turma, DJe 30/10/2024.
+Diante disso, deve ser mantido o entendimento adotado na decisão agravada, não merecendo reparos.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno.
