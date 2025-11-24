@@ -1,0 +1,71 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/11/2025 a 24/11/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Regina Helena Costa, Gurgel de Faria, Paulo Sérgio Domingues e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas omissões no julgado combatido, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de embargos de declaração opostos por Jofege Pavimentação e Construção Ltda. contra acórdão proferido pela Primeira Turma, assim ementado (fl. 2.226):
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTROVÉRSIA DIRIMIDA PELO TRIBUNAL A QUO MEDIANTE FUNDAMENTAÇÃO SUFICIENTE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA.
+1. Não ocorre ofensa aos arts. 489 e 1.022 do CPC quando a Corte de origem resolve, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos. Não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. Agravo interno não provido.
+Em suas razões, a parte embargante sustenta existência de omissão no acórdão recorrido, relativamente ao argumento de que a Corte de origem incorreu em negativa de prestação jurisdicional, porquanto não apreciou "os seguintes documentos: a) Cronograma inicial (página 46); b) Prova das datas em que os projetos foram recebidos; c) Medições; d) Todos os funcionários alocados na obra, incluindo o período; e) Relação de todos os equipamentos que estavam na obra à disposição; e f) Atas de reunião Não só. O fato de a perícia reconhecer que houve atraso na entrega dos projetos, existência de interferências, a mobilização da Agravante e o custo apurado (pelo Perito) entre os meses de setembro de 2014 e fevereiro de 2015" (fl. 2.241). Acrescenta que " a  valoração das provas não é ato discricionário" (fl. 2.242).
+A parte embargada apresentou impugnação às fls. 2.247/2.252.
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas omissões no julgado combatido, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi.
+4. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Não prospera a irresignação da parte embargante.
+De acordo com o previsto no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+Entretanto, no caso dos autos, não se verifica a existência de nenhum desses vícios, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Com efeito, no que diz respeito à pretensão da parte recorrente de se ver enfrentada a alegação de existência ou não de negativa de prestação jurisdicional no aresto proferido pela instância precedente, foi efetivamente analisada, porém, no sentido de se negar provimento ao apelo, em decorrência da adequada motivação do referido acórdão de origem.
+A propósito, confiram-se os seguintes trechos do decisório colegiado embargado (fls. fls. 1.853/1.861, grifo nosso):
+Com efeito, conforme constou do decisório singular, inexiste a alegada ofensa aos arts. 489 e 1.022 do CPC, na medida em que o Juízo a quo dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Nos termos da orientação jurisprudencial do Superior Tribunal de Justiça, tendo a Instância de origem se pronunciado de forma clara e precisa sobre as questões postas nos autos, assentando-se em fundamentos suficientes para embasar o decisum, como no caso concreto, não há falar em omissão no acórdão local, não se devendo confundir fundamentação sucinta com a ausência desta.
+Observa-se que o presente agravo destaca ponto das razões vertidas no recurso especial, segundo o qual o acórdão hostilizado deixou de se manifestar acerca do argumento de que não foram analisados os documentos anexados aos autos pela empresa recorrente, "porque em momento algum deixou a Recorrente de levar aos autos os documentos solicitados e existentes" (fl. 1.947). Por tal razão, aduz que "não houve o enfrentamento, valoração e a correta qualificação jurídica das provas produzidas, mas foi supostamente a falta de provas que justificou a manutenção da sentença" (fl. 2.180).
+Diante disso, importa trazer à colação os seguintes trechos do aresto proferido pelo TJRJ (fls. 1.853/1.861):
+Oportuno consignar que o artigo 370, do Código de Processo Civil atribui ao magistrado a tarefa de conduzir o processo, determinando as provas necessárias à instrução do feito e indeferindo diligências inúteis ou meramente protelatórias. Em princípio, pois, compete ao julgador a quo decidir acerca da necessidade de produção da postulada prova.
+E, analisando-se os documentos dos autos, verifica-se que, a toda evidência, a matéria técnica foi esgotada. Foram prestados os esclarecimentos solicitados, o que leva à conclusão de que os autos se encontram suficientemente instruídos, tornando desnecessária a realização de nova perícia.
+Ademais, não há que se interferir no entendimento do magistrado de primeiro grau quanto aos elementos que entende necessários ao seu convencimento.
+ ..
+A prova produzida obedeceu ao contraditório e ofereceu conclusão com base nos elementos dos autos, não exsurgindo fundamento suficiente para desconsiderá-la com base em irregularidades, cabendo ao julgador, no momento oportuno e por ser o destinatário da prova, dar o valor que entender adequado.
+O descontentamento da Autora com o laudo pericial não se erige em motivo para renovar a perícia. A homologação da perícia era de rigor e não se pode pretender reputá-la inconclusiva ou retirar validade à sua realização.
+Apesar de apresentar o inconformismo o alegante não pontou fundamentos válidos a desconstrução do resultado da perícia em juízo, sendo importante destacar que o perito informou que a perícia seria com base nos quesitos apresentados, assim como nos documentos juntados ao processo (fls. 1136/1137):
+APÓS ANALISAR OS QUESITOS APRESENTADOS EM FLS. 852 E 859, ESTE PERITO ACEITA OS VALORES JÁ PLEITEADOS EM FLS. 868 E 1009. O PERITO ESTUDARÁ TODOS OS DOCUMENTOS JUNTADOS AO PROCESSO E AGENDARÁ REUNIÕES (PREFERENCIALMENTE VIRTUAIS, COMO EXIGE O MOMENTO MUNDIAL) E VISTORIAS COM AS PARTES.
+Logo, diante da ciência da Autora Apelante acerca da informação do perito, não há que falar que não lhe foi solicitou qualquer documento complementar e, nesse contexto, não ficou configurado o cerceamento de defesa, razão pela qual se rejeita a p rel iminar apontada.
+b) - Ausência de fundamentação para indeferir a perícia
+Alega o Apelante que o juiz a quo ao indeferir a perícia, não justificou apropriadamente o motivo do indeferimento, ressaltando que a decisão deve ser reformada por não ter observado o artigo 480, do Código de Processo Civil.
+A teor do disposto no artigo 480, do Código de Processo Civil., o juiz poderá determinar a realização de nova perícia, de ofício ou a requerimento da parte, quando a matéria não lhe parecer suficientemente esclarecida.
+Todavia, verificando-se que o laudo produzido revela exame de fundo minucioso, com apreciação da matéria sob o prisma técnico, não sendo demonstrada qualquer irregularidade no proceder do expert, ou mesmo algum indício de desvirtuamento de conduta, aptos a macular o trabalho pericial, o indeferimento de nova perícia não caracteriza cerceamento de defesa.
+A conduta encontra fundamento no artigo 370, do Código de Processo Civil., o qual prevê que cabe ao juiz determinar as provas necessárias à instrução do processo, indeferindo as diligências inúteis ou meramente protelatórias. E, mais, não se vislumbra ausência de fundamentação no decisum, eis que não se pode confundir decisão concisa com decisão desprovida de fundamentos. Sendo assim, rejeita-se a preliminar arguida pela Apelante.
+ ..
+E, mais, a controvérsia diz respeito ao prejuízo suportado pela JOFEGE pelo suposto desequilíbrio contratual decorrente da inadimplência contratual. Entretanto, inexiste prova do quantum relativo aos prejuízos sofridos, com o suposto ressarcimento pelos danos causados, apenas alegações sem provas documentais robustas que o respalde.
+Outrossim, vislumbra-se que houve aditamento do contrato, conforme documento juntado e relatado pelo perito, o que não foi impugnado pela JOFEGE, entendendo-se que foi realizado esse aditamento para que pudesse haver um equilíbrio contratual entre as partes.
+Importante destacar que apesar de vasta documentação apresentada nos autos pela JOFEGE, tais documentos não se mostraram suficientes para comprovar os fatos alegados na exordial, apenas limitando-se a comprovar as intempéries ocorrida no contrato.
+Dessarte, observa-se pela fundamentação da decisão colegiada recorrida, integrada em embargos declaratórios, que a Corte estadual motivou adequadamente seu decisum, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, conforme já salientado na decisão ora agravada (especialmente às fls. 2.159/2.167). Afasta-se, assim, a alegada negativa de prestação jurisdicional, tão somente pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão da parte.
+Cumpre dizer que o Tribunal não fica obrigado a examinar todos os artigos de lei invocados no recurso, desde que decida a matéria questionada sob alicerce suficiente para sustentar a manifestação jurisdicional, sendo dispensável a análise dos dispositivos que pareçam para a parte significativos, mas que, para o julgador, senão irrelevantes, constituem questões superadas pelas razões de julgar, tal como ocorre na espécie.
+Dessa forma, não podem ser acolhidos embargos de declaração que, a pretexto de alegada omissão no julgado, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi. Nesse panorama, inexistente qualquer vício no acórdão embargado, conforme exige o art. 1.022 do CPC, impõe-se a rejeição do pleito integrativo.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE VÍCIOS NO JULGADO. MODIFICAÇÃO DAS RAZÕES RECURSAIS. IMPOSSIBILIDADE. PRECLUSÃO CONSUMATIVA.
+1. Os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão omissa, obscura ou contraditória. Não são destinados à adequação do decisum ao entendimento da parte embargante, nem ao acolhimento de pretensões que refletem mero inconformismo, e, menos ainda, à rediscussão de questão já resolvida. Precedentes.
+2. O instituto da preclusão consumativa veda a possibilidade de aditar razões a recurso já interposto. Precedentes.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp n. 2.342.294/SP, Relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 23/10/2023, DJe de 25/10/2023.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DA CONTROVÉRSIA. IMPOSSIBILIDADE. RECURSO REJEITADO.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na espécie.
+2. Não há que se cogitar da ocorrência de omissão e contradição, uma vez que a controvérsia foi examinada de forma satisfatória, mediante apreciação da disciplina normativa e do firme posicionamento jurisprudencial aplicável à hipótese dos autos.
+3. A argumentação apresentada pela parte embargante denota mero inconformismo e intuito de rediscutir a controvérsia, mas não se prestam os aclaratórios a esse fim.
+4. Incide a Súmu la 187/STJ quando a parte, devidamente intimada para sanar vício relativo ao recolhimento do preparo (art. 1.007, § 4º, do CPC), interpõe recurso contra o despacho de regularização e não realiza o recolhimento em dobro. Precedentes.
+5. Rever as matérias aqui alegadas acarretaria rediscutir entendimento já manifestado e devidamente embasado. Os embargos declaratórios não se prestam à inovação, à rediscussão da matéria tratada nos autos ou à correção de eventual error in judicando.
+6. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp n. 1.900.442/SC, Relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 18/9/2023, DJe de 20/9/2023.)
+ANTE O EXPOSTO, rejeitam-se os embargos declaratórios.
+É o voto.
