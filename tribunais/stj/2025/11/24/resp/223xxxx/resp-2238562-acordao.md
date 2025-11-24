@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/11/2025 a 24/11/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira, Marco Buzzi e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA C/C INDENIZATÓRIA. FRAUDE BANCÁRIA. DESCONTO INDEVIDO. INEXISTÊNCIA DE DANO MORAL IN RE IPSA. SÚMULA 83 DO STJ. RECURSO ESPECIAL DESPROVIDO.
+1. O agravante sustenta que houve imprudência da instituição financeira na aprovação de empréstimo consignado não contratado, com descontos indevidos em benefício previdenciário, caracterizando defeito na prestação do serviço e responsabilidade objetiva, o que implicaria o reconhecimento do dever de indenizar por ato ilícito, inclusive por dano moral in re ipsa, independentemente de culpa e de prova específica do abalo.
+2. "Nos termos da orientação firmada nesta Corte, a fraude bancária, ensejadora da contratação de empréstimo, por si só, não é suficiente para configurar o dano moral, havendo necessidade de estar aliada a circunstâncias agravantes. Precedentes" (AgInt no AREsp 2.149.415/MG, Relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe de 1º/6/2023).
+3. Estando o acórdão recorrido em consonância com a jurisprudência desta eg. Corte, o apelo nobre encontra óbice na Súmula 83/STJ.
+4. Recurso especial desprovido.
+RELATÓRIO
+Trata-se de recurso especial interposto por AFONSO DA SILVA SOBRINHO, fundamentado no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+AÇAO DECLARATÓRIA C.C. INDENIZATÓRIA CONTRATO EMPRÉSTIMO CONSIGNADO DESCONTO DE PARCELAS DO BENEFÍCIO PREVIDENCIÁRIO DANOS MATERIAIS DEVOLUÇÃO EM DOBRO DANOS MORAIS I- Sentença de procedência Apelo o banco réu II- Caracterizada relação de consumo Inversão do ônus da prova Não comprovação de que o autor contraiu o débito relativo ao contrato de empréstimo consignado objeto da ação Laudo pericial que concluiu pela falsidade da assinatura aposta no contrato Negligência do banco réu ao descontar do benefício previdenciário do autor parcelas de empréstimo por ele não contratado Falha na prestação de serviços As instituições bancárias respondem objetivamente pelos danos causados por fraudes ou delitos praticados por terceiros, porquanto tal responsabilidade decorre do risco do empreendimento, caracterizando-se como fortuito interno Orientação adotada pelo STJ em sede de recurso repetitivo REsp nº 1.199.782/PR Art. 1.036 do NCPC Súmula nº 479 do STJ Declaração de inexistência de relação jurídica entre as partes relativamente ao contrato de empréstimo consignado objeto da demanda III- Devida a restituição total dos valores indevidamente descontados do benefício previdenciário do autor Devolução que se dará em dobro, ante a ausência de engano justificável Art. 42, parágrafo único, do CDC IV- Dano moral não caracterizado A despeito da conduta do banco réu, inexistiram reflexos contundentes na vida do autor, uma vez que este não teve seu nome maculado e, ainda que tenha havido descontos em seu benefício previdenciário, o autor também se beneficiou do valor do contrato, não se verificando, assim, qualquer prejuízo a direito da personalidade Indenização indevida Condenação afastada V- Sentença parcialmente reformada Ação parcialmente procedente Sucumbência recíproca Apelo parcialmente provido. (e-STJ, fl. 387)
+Em seu recurso especial, o recorrente alega violação dos seguintes dispositivos da legislação federal, bem como divergência jurisprudencial, com as respectivas teses:
+(i) arts. 927 e 944 do Código Civil, pois teria havido indevida exclusão da indenização por danos morais, contrariando a regra de que a reparação se mede pela extensão do dano, devendo ser mantido o valor de R$ 10.000,00 fixado na sentença.
+(ii) art. 186 do Código Civil, porque a fraude bancária com falsificação de assinatura configuraria ato ilícito decorrente de negligência do fornecedor, impondo o dever de indenizar.
+(iii) art. 14, caput, e § 1º, da Lei 8.078/1990 (Código de Defesa do Consumidor), pois a prestação defeituosa de serviço bancário, com falha de segurança, caracteriza responsabilidade objetiva, sendo desnecessária a prova de culpa para a reparação dos danos morais.
+(iv) art. 6º, VI, da Lei 8.078/1990 (Código de Defesa do Consumidor), porque possui direito básico à efetiva reparação dos danos morais, afastando a tese de "mero dissabor".
+Contrarrazões às fls. 507-519, e-STJ.
+O recurso especial foi admitido na origem.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA C/C INDENIZATÓRIA. FRAUDE BANCÁRIA. DESCONTO INDEVIDO. INEXISTÊNCIA DE DANO MORAL IN RE IPSA. SÚMULA 83 DO STJ. RECURSO ESPECIAL DESPROVIDO.
+1. O agravante sustenta que houve imprudência da instituição financeira na aprovação de empréstimo consignado não contratado, com descontos indevidos em benefício previdenciário, caracterizando defeito na prestação do serviço e responsabilidade objetiva, o que implicaria o reconhecimento do dever de indenizar por ato ilícito, inclusive por dano moral in re ipsa, independentemente de culpa e de prova específica do abalo.
+2. "Nos termos da orientação firmada nesta Corte, a fraude bancária, ensejadora da contratação de empréstimo, por si só, não é suficiente para configurar o dano moral, havendo necessidade de estar aliada a circunstâncias agravantes. Precedentes" (AgInt no AREsp 2.149.415/MG, Relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe de 1º/6/2023).
+3. Estando o acórdão recorrido em consonância com a jurisprudência desta eg. Corte, o apelo nobre encontra óbice na Súmula 83/STJ.
+4. Recurso especial desprovido.
+VOTO
+O agravante sustenta que houve imprudência da instituição financeira na aprovação de empréstimo consignado não contratado, com descontos indevidos em benefício previdenciário, caracterizando defeito na prestação do serviço e responsabilidade objetiva, o que implicaria o dever de indenizar por ato ilícito, inclusive por dano moral in re ipsa, independentemente de culpa e de prova específica do abalo. Em contrapartida, extrai-se do acórdão proferido pelo eg. Tribunal de Justiça de São Paulo o seguinte:
+"Os danos morais, por sua vez, em que pese entendimento em sentido contrário, não restaram caracterizados.
+Os fatos narrados na inicial configuram-se como mero dissabor e aborrecimento cotidianos.
+A despeito da conduta do banco réu, inexistiram reflexos contundentes na vida do autor, uma vez que este não teve seu nome maculado e, ainda que tenha havido descontos em seu benefício previdenciário, o autor também se beneficiou do valor do contrato, não se verificando, assim, qualquer prejuízo a direito da personalidade.
+Neste aspecto, não se olvide que o autor não comprovou a ocorrência de prejuízo efetivo em razão dos descontos indevidos, não tendo havido qualquer reflexo na compensação de suas contas regulares.
+O dano moral, segundo a doutrina, é aquele que afeta o nome da pessoa, sua honra, dignidade, intimidade e imagem, causando dor moral e sofrimento.
+Nessas circunstâncias, o fato sofrido pela autora pode ser classificado como mero dissabor, insuficiente para caracterizar o dano moral.
+(..)
+Ausente prova de que a conduta do banco réu tenha ofendido direitos da personalidade do autor, não há que se falar em configuração de danos morais.
+De rigor, portanto, a reforma parcial da r. sentença, apenas para afastar a condenação do banco réu ao pagamento de indenização por danos morais. (e-STJ, fls. 391-395) -  g.n.
+Como se observa, exige-se a demonstração, caso a caso, de dano concreto, não se configurando, em hipóteses de fraude bancária, dano in re ipsa. Nesse mesmo sentido é o entendimento consolidado nesta Corte Superior. A propósito:
+"CIVIL. RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. DESCONTO INDEVIDO EM BENEFÍCIO DO INSS. INEXISTÊNCIA DE DANO MORAL IN RE IPSA. ACÓRDÃO ESTADUAL EM CONSONÂNCIA COM JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA 83/STJ. RECURSO ESPECIAL DESPROVIDO.
+1. "Nos termos da orientação firmada nesta Corte, a fraude bancária, ensejadora da contratação de empréstimo, por si só, não é suficiente para configurar o dano moral, havendo necessidade de estar aliada a circunstâncias agravantes. Precedentes" (AgInt no AREsp 2.149.415/MG, Relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe de 1º/6 /2023).
+2. No caso, o eg. Tribunal de Justiça, reformando parcialmente a sentença, deu parcial provimento à apelação da instituição financeira, ora agravada, para afastar sua condenação ao pagamento de danos morais à ora agravante, sob o fundamento de que, a despeito da conduta do banco réu e dos descontos no benefício previdenciário da autora no valor de R$ 96,54, não se verificou nenhum prejuízo a direito da personalidade, de modo que os fatos narrados na inicial configuram-se como mero dissabor e aborrecimento cotidianos.
+3. Estando o acórdão recorrido em consonância com a jurisprudência desta eg. Corte, o apelo nobre encontra óbice na Súmula 83/STJ.
+4. Recurso especial desprovido."
+(REsp n. 2.222.178/SP, relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 8/9/2025, DJEN de 15/9/2025.)  g.n.
+"AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO ORDINÁRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECURSO ESPECIAL. INSURGÊNCIA RECURSAL DA DEMANDANTE.
+1. De acordo com a jurisprudência desta Corte Superior, a fraude bancária, por si só, não é suficiente para configurar o dano moral, se mostrando necessária a presença de elementos quer comprovem que o ato extrapolou o mero aborrecimento, atingindo de forma significativa os direitos de personalidade da vítima.
+1.1. Rever as conclusões do Tribunal local acerca da ausência dos elementos ensejadores da responsabilidade civil, no caso concreto, apenas seria possível mediante o reexame do conjunto fático-probatório dos autos, providência que encontra óbice na Súmula 7 do STJ. Precedentes.
+2. Agravo interno desprovido."
+(AgInt no REsp n. 2.202.582/SP, relator Ministro MARCO BUZZI, Quarta Turma, julgado em 25/8/2025, DJEN de 1/9/2025.)  g.n.
+Nesse diapasão, o recurso especial encontra óbice na Súmula 83/STJ.
+Ante o exposto, nego provimento ao recurso especial.
+Se houver nos autos a prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos § § 2º e 3 º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+É como voto.
