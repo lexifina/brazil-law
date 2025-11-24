@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/11/2025 a 24/11/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL. AÇÃO DECLARATÓRIA DE PRESCRIÇÃO. PRÉVIA AÇÃO REVISIONAL. INTERRUPÇÃO. RETOMADA. TRÂNSITO EM JULGADO.
+1. Segundo a jurisprudência desta Corte Superior, a propositura de ação que impugne o débito representado em título extrajudicial interrompe a prescrição, a qual somente volta a correr após o trânsito em julgado da referida demanda. Precedentes.
+2. Agravo conhecido para conhecer do recurso especial e negar-lhe provimento.
+RELATÓRIO
+Trata-se de agravo interposto por TETSUO IWAMOTO (ESPÓLIO) e LEONILDA PAULINA IWAMOTO contra decisão que inadmitiu recurso especial.
+O apelo extremo, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"AÇÃO DECLARATÓRIA DE PRESCRIÇÃO Instrumento particular de compromisso de compra e venda, mútuo, pacto adjeto de hipoteca e outras avenças Improcedência Inocorrência de julgamento extra petita ou de negativa de prestação jurisdicional Pedido apreciado motivadamente, nos limites propostos pelas partes Prescrição quinquenal não consumada Na vigência do Código Civil de 1916, não havia limite quantitativo de fatos que interrompessem a prescrição, na forma do art. 172 do referido diploma Inocorrência de prescrição Sentença mantida Recurso desprovido, com majoração da verba honorária." (e-STJ fl. 674).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 944/945).
+Nas razões do recurso especial, a parte recorrente alega, além de divergência jurisprudencial, violação dos seguintes dispositivos, com as respectivas teses:
+(i) arts. 206, § 5º, I, e 2.028 do Código Civil - sob o argumento de que prazo prescricional aplicável é o quinquenal, uma vez que ainda não havia transcorrido mais de metade do prazo da lei anteior; e
+(iii) art. 202, IV, V e VI, do Código Civil - sustentando que a interrupção da prescrição somente pode ocorrer uma vez, o que teria ocorrido na data de pedido de habilitação do crédito na ação de inventário de TETSUO IWAMOTO.
+Sem as contrarrazões, o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL. AÇÃO DECLARATÓRIA DE PRESCRIÇÃO. PRÉVIA AÇÃO REVISIONAL. INTERRUPÇÃO. RETOMADA. TRÂNSITO EM JULGADO.
+1. Segundo a jurisprudência desta Corte Superior, a propositura de ação que impugne o débito representado em título extrajudicial interrompe a prescrição, a qual somente volta a correr após o trânsito em julgado da referida demanda. Precedentes.
+2. Agravo conhecido para conhecer do recurso especial e negar-lhe provimento.
+VOTO
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+No caso em análise, o Tribunal de Justiça entendeu pela inexistência de prescrição, ao considerar que o prazo prescricional de 5 anos foi interrompido e permaneceu suspenso até o trânsito em julgado da ação revisional, ocorrido em 21/11/2016, conforme se extrai do seguinte trecho do acórdão:
+"Trata-se de ação declaratória de prescrição do direito de ação para cobrança de saldo devedor em compromisso de compra e venda, mútuo, pacto adjeto de hipoteca e outras avenças.
+Para financiamento do imóvel adquirido pelos autores, as partes firmaram o contrato sub judice em 26/06/1998 (38/50), com vencimento inicial para a mesma data e final em 26/06/2008.
+Nos autos de medida cautelar inominada ajuizada em face do banco apelado, foi deferida liminar em 20/10/2000, para determinar a suspensão do leilão extrajudicial designado em razão do inadimplemento contratual (fls. 122/123), e em 15/07/2004, foram julgadas improcedentes a ação revisional principal e a referida medida cautelar (fls. 124/127), resultado mantido por este E. Tribunal ad quem em 10/11/2010 (fls. 129/133), e pelo Col. Superior Tribunal de Justiça em recurso especial no julgamento realizado em 21/11/2016 (fls. 139/140).
+Em 26/05/2002, faleceu o contraente Tetsuo Iwamoto (fls. 29), e seu espólio passou a ser representado pela coapelante Leonilda Paulina Iwamoto (fls. 30).
+O banco apelado contranotificou os apelantes em 07/08/2003, sobre a quitação das prestações vincendas a partir do falecimento do retro referido contraente, em razão do seguro prestamista de vida adjeto ao financiamento, com a ressalva de que permaneceriam em aberto as quantias inadimplidas entre o período de 29/07/1999 a 26/04/2002 (fls. 51).
+Em 22/10/2013, o banco apelado habilitou o saldo devedor do financiamento nos autos do inventário do espólio coapelante (fls. 52/57).
+Por decisão exarada em 25/11/2014, o juízo da Vara de Família e Sucessões em que tramita o inventário do espólio de Tetsuo Iwamoto indeferiu a habilitação do crédito, remetendo a discussão para as vias ordinárias, mas autorizou a reserva de bens, na forma do art. 1.018, parágrafo único, da Lei Adjetiva de 1973 (fls. 76/77).
+Insta esclarecer que o contrato em apreço foi celebrado em 1998, na vigência do Código Civil de 1916, sendo que o inadimplemento, a execução extrajudicial da hipoteca e o ajuizamento das ações cautelar e revisional da obrigação ocorreram sob sua égide, ao passo que o Código Civil de 2002 iniciou sua vigência, como cediço, somente em 11/01/2003.
+Daí porque aos fatos ocorridos antes dessa data aplicam-se as disposições da lei agora revogada, principalmente no que concerne à prescrição, porquanto se trata de instituto de direito material, sob pena de ofensa ao princípio constitucional da irretroatividade da lei. Resta incontroverso nos autos que o prazo prescricional aplicável é quinquenal, na forma do art. 206, §5º, inc. I, e por força do comando contido no art. 2.028 das disposições transitórias do Código Civil de 2002, uma vez que, no início da vigência desta não transcorrera mais da metade do prazo prescricional vintenário da lei anterior.
+O cerne da controvérsia diz respeito ao fato que possa ter interrompido a prescrição, para verificação ou não de seu transcurso.
+No revogado Código Beviláqua, as causas da interrupção da prescrição estavam disciplinadas no art. 172, que não continha limite quantitativo de fatos interruptivos. A interrupção poderia ocorrer tantas vezes quantas se verificassem seu fato gerador.
+Portanto, houve diversas interrupções da prescrição à época. A primeira, com o início da execução extrajudicial pelo banco credor. Após, com a propositura das ações cautelar e principal pelo coautor falecido, sendo que esta foi distribuída no ano 2000 (conforme se infere do ano de sua distribuição no número dos autos, às fls. 124/127). Eis o motivo pelo qual não se poderia decretar a prescrição com fulcro no art. 202, inc. IV do Código Civil vigente.
+Relativamente ao ajuizamento da ação revisional, a interrupção da prescrição ocorreu com base no art. 172, inc. V do Código Civil de 1916, e sua retomada não foi imediata, mas reiniciada do último ato judicial da demanda que interrompeu a prescrição, nos moldes do art. 173 da mesma lei, correspondentes ao art. 202, inc. VI e parágrafo único do Código Civil de 2003, que vigora até os dias atuais e, na hipótese em testilha, foi o julgamento do agravo contra decisão denegatória de recurso especial interposto nos autos da ação revisional em 21/11/2016 (fls. 139/140).
+(..)
+Dessarte, considerando que o banco réu se defendeu nas ações cautelar e revisional, conforme de depreende do relatório da sentença de fls. 124/127, e do acórdão de fls. 129/133, e que aquelas foram ajuizadas nos idos do ano 2000, quando a prescrição foi interrompida, e reiniciada ao menos depois de 21/11/2016, após deliberação do Col. STJ, não se cogita da perda do direito de ação contado desse último ato, por não terem transcorrido mais de 5 anos até os dias atuais, o que desautoriza o provimento judicial declaratório de prescrição." (e-STJ fls. 673/681 - grifou-se).
+Com efeito, o entendimento firmado no acórdão recorrido coaduna-se com a jurisprudência consolidada desta Corte Superior, no sentido de que a propositura de ação judicial que impugne o débito representado por título executivo configura causa interruptiva da prescrição, a qual somente volta a correr após o trânsito em julgado da referida demanda.
+Nesse sentido:
+"CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA PROPOSTA PELO RÉU DA DEMANDA (AÇÃO REVISIONAL DE CONTRATO DE MÚTUO). POSSIBILIDADE. DECISÃO JUDICIAL QUE HOMOLOGOU OS CÁLCULOS EM QUE CONSTA SALDO DEVEDOR MESMO APÓS A REVISÃO DO CONTRATO. TÍTULO COM FORÇA EXECUTIVA PARA AMBAS AS PARTES. CARÁTER DE DUPLICIDADE DA AÇÃO DECLARATÓRIA. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. INOCORRÊNCIA. AJUIZAMENTO DE AÇÃO REVISIONAL PELO DEVEDOR. INTERRUPÇÃO DO PRAZO ATÉ O TRÂNSITO EM JULGADO. PRECEDENTES DO STJ. RECURSO ESPECIAL NÃO PROVIDO.
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça do Rio de Janeiro que negou provimento ao agravo de instrumento, mantendo a decisão que rejeitou a impugnação ao cumprimento de sentença.
+2. A questão em discussão consiste em saber se a sentença que reconhece a existência de obrigação de pagar quantia constitui título executivo judicial, mesmo sem reconvenção, e se há prescrição da pretensão executória.
+3. A sentença que reconhece a existência de obrigação de pagar quantia constitui título executivo judicial, pois goza de certeza, liquidez e exigibilidade, conforme entendimento do STJ.
+4. A propositura de ação judicial interrompe o prazo prescricional, que só volta a fluir com o trânsito em julgado, não havendo prescrição no caso concreto.
+5. Recurso especial não provido."
+(REsp n. 2.111.090/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 8/9/2025, DJEN de 11/9/2025.)
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO AO RECLAMO INTERPOSTO PELA PARTE AGRAVADA. INSURGÊNCIA DA PARTE AGRAVANTE.
+1. De acordo com a jurisprudência desta Corte Superior, "A propositura de ação judicial que importe em impugnação do débito de cártula representativa do direito do credor é causa interruptiva da prescrição" (AgInt nos EDcl no AREsp 1.106.100/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 19.11.2018, DJe 22.11.2018). Incidência da Súmula 83 do STJ.
+2. Agravo interno desprovido."
+(AgInt nos EDcl no REsp n. 1.896.702/PR, relator Ministro Marco Buzzi, Quarta Turma, julgado em 28/8/2023, DJe de 31/8/2023)
+Portanto, considerando que a ação revisional tramitou desde o ano de 2000, com trânsito em julgado ocorrido em 21/11/2016, é a partir desta data que o prazo prescricional de cinco anos recomeça a fluir.
+Nesse contexto, mostra-se irrelevante a eventual habilitação do crédito no processo de inventário, uma vez que o prazo prescricional encontrava-se suspenso desde o ajuizamento da ação revisional, em 2000, reiniciando-se somente em 21/11/2016, data do trânsito em julgado. Conclui-se, assim, que não houve prescrição.
+Diante disso, o acórdão recorrido não merece reforma, por estar em consonância com a jurisprudência atual desta Corte.
+Ante o exposto, conheço do agravo para conhecer do recurso especial e negar-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados em 12% (doze por cento) sobre o valor da causa, os quais devem ser majorados para o patamar de 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+É o voto.
