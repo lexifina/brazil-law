@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CASU-UFMG CAIXA DE ASSISTÊNCIA À SAÚDE DA UNIVERSIDADE contra decisão que inadmitiu recurso especial com fundamento na ausência de violação dos arts. 489, § 1º, IV, 1.022, II do Código de Processo Civil, pela incidência das Súmulas n. 283 do STF e 7 do STJ.
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, foi interposto contra acórdão prolatado pelo Tribunal de Justiça do Estado de Minas Gerais em apelação nos autos de ação de obrigação de fazer.
+O julgado foi assim ementado (fl. 571):
+APELAÇÃO CÍVEL - AÇÃO DE OBRIGAÇÃO DE FAZER - ENOXAPARINA INJETÁVEL - RECUSA DE COBERTURA PELO PLANO DE SAÚDE - DANOS MORAIS - CARACTERIZADOS - QUANTUM INDENIZATÓRIO - RAZOABILIDADE E PROPORCIONALIDADE. "NAS HIPÓTESES EM QUE HÁ RECUSA INJUSTIFICADA DE COBERTURA POR PARTE DA OPERADORA DO PLANO DE SAÚDE PARA TRATAMENTO DO SEGURADO, CAUSANDO ABALO EMOCIONAL, FICA CARACTERIZADO DANO MORAL, POIS, NÃO SE TRATA DE MERO ABORRECIMENTO" (AGLNT NO AGLNT NO ARESP 1093958/CE). A INDENIZAÇÃO POR DANO MORAL DEVE SER ARBITRADA EM ATENÇÃO AOS PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE, E PARA EVITAR O ENRIQUECIMENTO INDEVIDO, NAS CIRCUNSTÂNCIAS DO CASO CONCRETO.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, alega a parte recorrente, violação dos seguintes artigos:
+a) 489, § 1º, IV e 1.022, II, do Código de Processo Civil e 20, parágrafo único da Lei de Introdução ao Direito Brasileiro, porquanto o acórdão recorrido não enfrentou todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador, inclusive, não se manifestou a respeito da licitude da limitação de cobertura para medicamentos de uso domiciliar;
+b) 373, I, do CPC e 186, 927, 884 do Código Civil, visto que a negativa de cobertura foi baseada em disposição legal e interpretação contratual legítima, não havendo comprovação de ato ilícito que justificasse a condenação por danos morais.
+Sustenta dissídio jurisprudencial, afirmando que o acórdão do TJMG, ao reconhecer ilicitude na negativa de fornecimento de enoxaparina de uso domiciliar e condenar em danos morais, divergiu da orientação consolidada do STJ que reputa lícita a exclusão de cobertura de medicamentos domiciliares não antineoplásicos, fora do rol da ANS e sem regime de home care, inclusive em casos envolvendo o Clexane (fls. 669-672, 687-693), por violação do art. 10, VI da Lei n. 9.656/1998. Indica diversos precedentes do STJ como paradigmas e requer a prevalência dessa interpretação para afastar a condenação (fl. 694).
+Requer o provimento do recurso para que se reconheça a licitude da negativa de cobertura para medicamento de uso domiciliar, reformando o acórdão recorrido e julgando improcedente o pedido de condenação por danos morais.
+É o relatório. Decido.
+O recurso não merece prosperar.
+A controvérsia diz respeito à ação de obrigação de fazer em que a parte autora pleiteou o fornecimento do medicamento Enoxaparina sódica e indenização por danos morais.
+Na sentença, o Juízo de primeiro grau julgou parcialmente procedentes os pedidos iniciais, confirmando a liminar deferida e tornando definitivos seus efeitos jurídicos, além de fixar honorários advocatícios em 10% do valor da causa.
+A Corte estadual reformou a sentença para condenar a ré ao pagamento de indenização por danos morais no valor de R$5.000,00, com correção monetária e juros de mora, além de alterar a sucumbência.
+I - Da preliminar de negativa de prestação jurisdicional
+Afasta-se a alegada ofensa aos arts. 489, § 1º, IV e VI, e 1.022, II, do CPC e 20, parágrafo único da Lei de Introdução ao Direito Brasileiro, visto que a Corte de origem examinou e decidiu, de modo claro, objetivo e fundamentado, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+Consta do acórdão que a sentença reconheceu a abusividade da conduta da operadora e a obrigação de fornecer enoxaparina, tendo apenas a autora apelado para pleitear danos morais.
+Consta do acórdão dos embargos de declaração ausência dos vícios do art. 1.022 do CPC, pois a sentença reconheceu a obrigatoriedade de fornecimento da enoxaparina e a operadora não interpôs apelação sobre esse ponto, razão pela qual a alegação de "uso domiciliar" e limitações contratual e legal não foi objeto de análise no acórdão embargado (fls. 656-657).
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+II - Danos morais
+A parte alega que não houve ilícito, inexistindo dano moral indenizável por risco de ocasionar enriquecimento indevido da parte adversa.
+O Tribunal de origem, ao fixar a indenização por dano moral em R$ 5.000,00, afirmou, com base no acervo probatório dos autos, que a recusa de cobertura gerou angústia e abalo emocional em gestante com histórico de abortamento superando o mero aborrecimento, e que o valor atende à proporcionalidade e razoabilidade, sem ocasionar o enriquecimento indevido da outra parte (fls. 574-578).
+Verifica-se que a Corte de origem analisou a controvérsia fundamentando-se em elementos fáticos e probatórios do caso concreto. Rever tal entendimento demandaria o reexame de provas, o que é incabível em recurso especial ante o óbice da Súmula n. 7 do STJ.
+III - Dissidio jurisprudencial
+Para a interposição de recurso especial fundado na alínea c do permissivo constitucional, é necessário o atendimento dos requisitos essenciais para a comprovação do dissídio pretoriano, conforme prescrições dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ, o que não ocorreu no caso.
+Isso porque não se aperfeiçoa o dissídio quando não prequestionado o dispositivo legal objeto da divergência. Registre-se que o STJ já decidiu no sentido de que "o óbice da ausência de prequestionamento impede a análise do dissenso jurisprudencial, porquanto inviável a comprovação da similitude das circunstâncias fáticas e do direito aplicado" (AgInt no AREsp n. 2.101.777/MG, relator Ministro Herman Benjamin, Segunda Turma, julgado em 10/10/2022, DJe de 4/11/2022).
+Está prejudicada, pois, a apreciação do dissídio jurisprudencial, tendo em vista a falta de prequestionamento da tese vinculada ao art. 10, VI da Lei n. 9.656/1998.
+IV - Conclusão
+Ante o exposto, nego provim ento ao agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+ EMENTA
