@@ -20,3 +20,5 @@ XVIII - mitigar as emissões de gases causadores de efeito estufa e de poluentes
 XIX - incentivar a produção e promover a competitividade no País e no mercado internacional, bem como atrair investimentos em infraestrutura ligada à indústria do hidrogênio de baixa emissão de carbono e seus derivados.
 XX - promover o aproveitamento econômico racional e sustentável do potencial para geração de energia elétrica no mar territorial, na plataforma continental, na zona econômica exclusiva ou em outros corpos hídricos sob domínio da União;
 XXI - incentivar a geração de energia elétrica a partir do aproveitamento de potencial energético offshore.
+XXII - promover e assegurar, em bases sustentáveis, a manutenção, modernização e expansão do aproveitamento racional do potencial hidroelétrico nacional, reconhecendo seu papel estruturante para a segurança energética, a modicidade tarifária e a integração entre as regiões do País;
+XXIII - maximizar o aproveitamento da produção nacional de gás natural.

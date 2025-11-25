@@ -1,0 +1,1 @@
+Art. 1º-A. A partir da entrada em vigor deste artigo, o poder concedente poderá prorrogar ou licitar os empreendimentos de geração de energia elétrica de usinas hidrelétricas com capacidade instalada superior a 50.000 kW (cinquenta mil quilowatts), outorgados antes de 11 de dezembro de 2003.
