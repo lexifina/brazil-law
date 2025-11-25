@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/11/2025 a 25/11/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. SISTEMA PENITENCIÁRIO FEDERAL. RENOVAÇÃO DE PERMANÊNCIA. IMPUGNAÇÃO DEFICIENTE. INOBSERVÂNCIA DOS ARTS. 932, III, DO CPC/2015, E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA 182/STJ. AUSÊNCIA DE COTEJO ESPECÍFICO ENTRE A DECISÃO DE INADMISSÃO E AS TESES RECURSAIS. ALEGAÇÃO GENÉRICA DE REVALORAÇÃO JURÍDICA. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por MARCIO RICARDO DE OLIVEIRA PIRROTTI contra a decisão, de minha lavra, assim ementada (fls. 144/145):
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. IMPUGNAÇÃO DEFICIENTE. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO E 253, PARÁGRAFO ÚNICO, CPC/2015, I, DO RISTJ. SÚMULA 182/STJ.
+Agravo em recurso especial não conhecido.
+Nesta via, o agravante sustenta que impugnou, de forma específica, todos os fundamentos da inadmissão, demonstrando que a questão envolve revaloração jurídica e não reexame fático-probatório. Alega que a controvérsia reside na qualificação jurídica dos fatos já estabelecidos, notadamente se os elementos apontados no acórdão recorrido são suficientes para justificar a prorrogação da permanência no SPF sem demonstração de contemporaneidade.
+Requer (fl. 156):
+1) a reconsideração, nos termos do art. 259 do RISTJ, da decisão que negou conhecimento Recurso Especial da defesa, merecendo ser conhecido e provido;
+2) caso contrário, a remessa deste agravo para a competente Turma, para que seja conhecido e provido o ARESP da defesa, reconhecidas as violações à lei federal, determinando-se o retorno do custodiado ao sistema prisional estadual, ante a ausência de fundamentação idônea e contemporânea para a renovação da permanência no Sistema Penitenciário Federal.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. SISTEMA PENITENCIÁRIO FEDERAL. RENOVAÇÃO DE PERMANÊNCIA. IMPUGNAÇÃO DEFICIENTE. INOBSERVÂNCIA DOS ARTS. 932, III, DO CPC/2015, E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA 182/STJ. AUSÊNCIA DE COTEJO ESPECÍFICO ENTRE A DECISÃO DE INADMISSÃO E AS TESES RECURSAIS. ALEGAÇÃO GENÉRICA DE REVALORAÇÃO JURÍDICA. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+Agravo regimental improvido.
+VOTO
+O agravo regimental não comporta provimento.
+O Tribunal Regional Federal da 1ª Região fundamentou a inadmissão do recurso especial exclusivamente na incidência da Súmula 7/STJ, ao argumento de que a modificação das premissas fáticas demandaria reexame do material fático-probatório. A defesa, no agravo em recurso especial, limitou-se a afirmar, de maneira genérica, que não se trata de revolvimento do acervo fático-probatório, mas de revaloração jurídica dos fatos já estabelecidos. Não foi realizado, contudo, o necessário cotejo analítico e pormenorizado entre o explicitado na decisão que não admitiu o recurso especial e as teses veiculadas no apelo nobre.
+A jurisprudência desta Corte Superior é firme no sentido de que a defesa deve explicitar de forma clara e objetiva como o acolhimento de sua pretensão recursal não demandaria o reexame fático-probatório vedado pela Súmula 7/STJ. No presente caso, o Tribunal Regional Federal, com base nos elementos constantes nos autos, concluiu pela adequação da renovação da permanência do agravante no Sistema Penitenciário Federal, considerando os indícios de que o preso permanece em posição de relevância dentro da organização criminosa Primeiro Comando da Capital, seu vasto histórico de sanções disciplinares e o empreendimento de fugas em 2013 e 2017, quando custodiado pela Polícia Penal do Paraná.
+A desconstituição dessas premissas fáticas estabelecidas pelo acórdão recorrido demandaria, inevitavelmente, o reexame do conjunto probatório dos autos, especialmente quanto à análise das informações constantes do Ofício n. 941/DEPPEN-GAB, expedido pela Diretoria-Geral da Polícia Penal do Estado do Paraná, que fundamentou a decisão de renovação. A defesa não demonstrou, de forma específica e pormenorizada, como seria possível afastar tais conclusões sem adentrar na análise do material fático-probatório, limitando-se a afirmações genéricas sobre revaloração jurídica.
+Nesse panorama, verifica-se que a decisão agravada aplicou corretamente a Súmula 182/STJ, porquanto o agravo em recurso especial não impugnou de forma específica, suficiente e pormenorizada todos os fundamentos empregados pela Corte de origem para não admitir o recurso especial, limitando-se a alegações genéricas sobre revaloração jurídica, sem demonstrar concretamente como seria possível acolher a pretensão recursal sem adentrar no reexame do conjunto fático-probatório dos autos.
+Ante o exposto , nego provimento ao agravo regimental.
