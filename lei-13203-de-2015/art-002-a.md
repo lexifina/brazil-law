@@ -1,0 +1,16 @@
+Art. 2º-A. Os titulares das usinas hidrelétricas participantes do MRE serão compensados pelos efeitos causados pelos empreendimentos hidrelétricos com prioridade de licitação e implantação indicados pelo Conselho Nacional de Política Energética (CNPE), nos termos do inciso VI do caput do art. 2º da Lei nº 9.478, de 6 de agosto de 1997, decorrentes:
+I - de restrições ao escoamento da energia em função de atraso na entrada em operação ou de entrada em operação em condição técnica insatisfatória das instalações de transmissão de energia elétrica destinadas ao escoamento; e
+II - da diferença entre a garantia física outorgada na fase de motorização e os valores da agregação efetiva de cada unidade geradora motorizada ao SIN, conforme critérios técnicos aplicados pelo poder concedente às demais usinas hidrelétricas.
+§ 1º Os efeitos decorrentes das restrições de que trata o inciso I do caput deste artigo serão calculados pela Aneel considerando a geração potencial de energia elétrica dos empreendimentos estruturantes caso não houvesse restrição ao escoamento da energia e o preço da energia no mercado de curto prazo no momento da restrição.
+§ 2º O cálculo da geração potencial de que trata o § 1º deste artigo, a ser feito pela Aneel, deverá considerar:
+I - a disponibilidade das unidades geradoras;
+II - a energia natural afluente, observada a produtividade cadastral; e
+III - a existência de restrições operativas, verificadas na operação real, associadas às características técnicas dos empreendimentos estruturantes.
+§ 3º Os efeitos decorrentes da diferença de que trata o inciso II do caput deste artigo serão calculados pela Aneel considerando:
+I - a diferença entre a garantia física outorgada e a agregação de cada unidade geradora motorizada ao SIN, a ser informada pela Empresa de Pesquisa Energética (EPE); e
+II - o preço da energia no mercado de curto prazo no período em que persistir a diferença de que trata o inciso I deste parágrafo.
+§ 4º A compensação de que trata o caput deste artigo, a ser promovida para todos os titulares das usinas hidrelétricas participantes do MRE na proporção dos montantes de energia assegurada fixados para as respectivas usinas, incluídas aquelas que foram qualificadas como empreendimentos estruturantes, deverá considerar a atualização do capital despendido, tanto pelo IPCA como pela taxa de desconto de que trata o § 2º do art. 1º desta Lei, e dar-se-á mediante extensão do prazo de outorga dos empreendimentos participantes do MRE, limitada a 7 (sete) anos, calculada com base nos valores dos parâmetros aplicados pela Aneel para as extensões decorrentes do inciso II do § 2º do art. 1º desta Lei, dispondo o gerador livremente da energia.
+§ 5º A extensão de prazo de que trata o § 4º deste artigo será efetivada:
+I - em até 90 (noventa) dias após a edição de ato específico pela Aneel que ateste o esgotamento dos efeitos apurados nos termos deste artigo; ou
+II - na data de término originalmente prevista para a outorga, caso essa data seja anterior ao esgotamento dos efeitos previstos no inciso I deste parágrafo.
+§ 6º A extensão de prazo de que trata o inciso II do § 5º deste artigo deverá incorporar estimativa dos efeitos previstos neste artigo até seus esgotamentos.
