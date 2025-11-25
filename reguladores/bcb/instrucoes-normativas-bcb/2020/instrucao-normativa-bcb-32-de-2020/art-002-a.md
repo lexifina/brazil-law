@@ -1,0 +1,2 @@
+Art. 2º-A Os participantes do Pix​ devem enviar as informações relativas às transações Pix liquidadas nos seus sistemas, de acordo com o formato especificado na mensagem TRCK.002, constante do Catálogo de Mensagens do SPI. (Incluído pela Instrução Normativa BCB nº 653, de 28/8/2025, produzindo efeitos a partir de 25/11/2025.)
+Parágrafo único. As informações do caput devem ser enviadas dentro do prazo especificado no Manual de Tempos do Pix. (Incluído pela Instrução Normativa BCB nº 653, de 28/8/2025, produzindo efeitos a partir de 25/11/2025.)
