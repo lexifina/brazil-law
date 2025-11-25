@@ -1,0 +1,51 @@
+DECISÃO
+Examina-se agravo interposto por ITAU SEGUROS S/A, ITAU UNIBANCO S.A contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 21/2/2025.
+Concluso ao gabinete em: 21/8/2025.
+Ação: de obrigação de não fazer c/c indenizatória ajuizada por JAIME REGUEIRA COSTA XAVIER e PEDRO DE SIQUEIRA XAVIER em face de ITAU SEGUROS S/A e ITAU UNIBANCO S/A, na qual requer o pagamento da indenização de seguro de vida tendo em vista a ocorrência do sinistro, a compensação por danos morais advindos da negativa de pagamento e a quitação do empréstimo realizado pelo de cujus.
+Sentença: julgou procedentes os pedidos.
+Acórdão: negou provimento às apelações interpostas por JAIME REGUEIRA COSTA XAVIER, PEDRO DE SIQUEIRA XAVIER e por ITAU SEGUROS S/A, ITAU UNIBANCO S.A, nos termos da seguinte ementa:
+APELAÇÕES CÍVEIS. CONSUMIDOR. SEGURO DE VIDA E SEGURO PRESTAMISTA. PRIMEIRO AUTOR ALEGANDO QUE SEU PAI CONTRATOU DOIS SEGUROS JUNTO AO BANCO RÉU, EM CASO DE FALECIMENTO, O PRIMEIRO, UM SEGURO DE VIDA, NO VALOR DE R$ 329.040,00, CUJO BENEFICIÁRIO SERIA O DEMANDANTE, E O SEGUNDO, UM SEGURO PRESTAMISTA, NO VALOR DE R$ 150.000,00, MAS APESAR DO ÓBITO DO GENITOR, A PARTE RÉ NÃO EFETUOU O PAGAMENTO DA INDENIZAÇÃO, E TAMBÉM NÃO QUITOU A QUANTIA DO SEGURO PRESTAMISTA, TENDO CONTINUADO A COBRAR DO ESPÓLIO AS PARCELAS DO EMPRÉSTIMO, SOB FUNDAMENTO DE QUE O SEGURADO HAVIA OMITIDO DOENÇA GRAVE PREEXISTENTE QUANDO DA CONTRATAÇÃO. PROCEDÊNCIA PARCIAL DOS PEDIDOS. INSURGÊNCIA DE AMBAS AS PARTES.
+SUPERIOR TRIBUNAL DE JUSTIÇA QUE POSSUI ENTENDIMENTO PACIFICADO NO SENTIDO DE QUE A SEGURADORA NÃO PODE RECUSAR PAGAMENTO DE INDENIZAÇÃO SECURITÁRIA SOB A ALEGAÇÃO DE DOENÇA PREEXISTENTE, SE NÃO EXIGIU A REALIZAÇÃO DE EXAMES MÉDICOS ANTES DA CONTRATAÇÃO OU NÃO COMPROVOU A MÁ-FÉ DO SEGURADO. SÚMULA Nº 609/STJ. INEXISTÊNCIA DE COMPROVAÇÃO DE PRÉVIA SOLICITAÇÃO DE EXAMES MÉDICOS, OU MESMO DE DECLARAÇÃO PESSOAL DE SAÚDE ASSINADA PELO SEGURADO, SENDO CERTO QUE TELAS GERADAS PELO SISTEMA INFORMATIZADO NÃO PODEM SERVIR COMO PROVA, VEZ QUE PRODUZIDAS DE FORMA UNILATERAL, SEM A OBSERVÂNCIA DOS PRINCÍPIOS CONSTITUCIONAIS DO CONTRADITÓRIO E DA AMPLA DEFESA.
+SEGURADO, QUE JÁ ERA IDOSO, E REALIZAVA ACOMPANHAMENTO MÉDICO DE DOENÇA CARDÍACA DESDE 2009, SOMENTE TENDO FIRMADO OS CONTRATOS EM 2021, E EMBORA O FALECIMENTO TENHA OCORRIDO EM 2022, NÃO PODE A MÁ-FÉ DE FORMA ALGUMA SER PRESUMIDA. NEGATIVA DE COBERTURA SECURITÁRIA QUE SE AFIGURA ILÍCITA, DEVENDO A PARTE RÉ EFETUAR O PAGAMENTO DA INDENIZAÇÃO DO SEGURO DE VIDA NO VALOR DE R$ 329.040,00. PARTE RÉ QUE DEVE SE ABSTER DE COBRAR DO ESPÓLIO A TOTALIDADE DO EMPRÉSTIMO PESSOAL FEITO PELO FALECIDO SEGURADO, POR FORÇA DO SEGURO PRESTAMISTA CONTRATADO, DANDO-SE POR QUITADO, ALÉM DE REEMBOLSAR TODOS OS VALORES PAGOS RELATIVOS ÀS PRESTAÇÕES DO EMPRÉSTIMO, VENCIDAS E VINCENDAS, DESDE 28/11/22 (DATA DE ACIONAMENTO DO SEGURO). REEMBOLSO QUE DEVE SE DAR NA FORMA SIMPLES, TENDO EM VISTA A AUSÊNCIA DE DEMONSTRAÇÃO DE MÁ-FÉ POR PARTE DA SEGURADORA, BEM COMO POR SE TRATAR DE ENGANO JUSTIFICÁVEL. JUROS DE MORA QUE INCIDEM NO PERCENTUAL DE 1% AO MÊS A PARTIR DA DATA DA CITAÇÃO DA SEGURADORA, VISTO TRATAR-SE DE EVENTUAL ILÍCITO CONTRATUAL (ART. 405/CC). RECUSA DE PAGAMENTO DA INDENIZAÇÃO SECURITÁRIA, EM MOMENTO JÁ DOLOROSO PELA PERDA DO PAI, QUE FOI CAPAZ DE CAUSAR OFENSA A DIREITO DA PERSONALIDADE DO DEMANDANTE. DANO IMATERIAL CONFIGURADO. QUANTUM INDENIZATÓRIO MANTIDO EM R$ 5.000,00, EM ATENÇÃO AO PRINCÍPIO DA RAZOABILIDADE E À VEDAÇÃO AO ENRIQUECIMENTO SEM CAUSA.
+DESPROVIMENTO DE AMBOS OS RECURSOS. (e-STJ fl. 493-495).
+Embargos de declaração: opostos por ITAU SEGUROS S/A, ITAU UNIBANCO S.A, foram rejeitados.
+Recurso especial: alega violação dos arts. 10, 489, § 1º, IV, 927, IV, 933 e 1.022, II, do CP, e 422, 757, 760, 765 e 766 do CC, do CC.
+Sustenta, em síntese:
+i) a negativa de prestação jurisdicional e a deficiência de fundamentação do acórdão recorrido ao não analisar adequadamente a má-fé do segurado;
+ii) o afastamento da obrigatoriedade de cobertura securitária, ante a má-fé do segurado ao omitir doença preexistente no momento da contratação do seguro; e
+iii) decisão surpresa pela condenação da indenização.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação dos arts. 489, 1.022 e 1.025 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação; ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca dos pontos supostamente omissos, de maneira que os embargos de declaração opostos pela parte recorrente, de fato, não comportavam acolhimento, visto que a insurgência atinente à suposta má-fé do segurado foi exaustivamente delineada pelo TJ/RJ.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação dos arts. 1.022 e 1.025 do CPC, incidindo, quanto ao ponto a Súmula 568/STJ.
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar, também, em violação do art. 489 do CPC, nos termos da Súmula 568/STJ (AgInt no AREsp 1.121.206/RS, 3ª Turma, DJe 01/12/2017; AgInt no AREsp 1.151.690/GO, 4ª Turma, DJe 04/12/2017).
+- Do reexame de fatos e provas
+No tocante à alegação de afastamento da obrigatoriedade de cobertura securitária, ante a má-fé do segurado ao omitir doença preexistente no momento da contratação do seguro, o acórdão recorrido assim se pronunciou:
+Como se sabe, o Superior Tribunal de Justiça possui entendimento pacificado no sentido de que a seguradora não pode recusar pagamento de indenização securitária sob a alegação de doença preexistente, se não exigiu a realização de exames médicos antes da contratação ou não comprovou a má-fé do segurado.
+(..)
+Na hipótese, inexiste comprovação de prévia solicitação de exames médicos, ou mesmo de declaração pessoal de saúde assinada pelo segurado, sendo certo que telas geradas pelo sistema informatizado não podem servir como prova, vez que produzidas de forma unilateral, sem a observância dos princípios constitucionais do contraditório e da ampla defesa.
+Ademais, o segurado, que já era idoso, realizava acompanhamento médico de doença cardíaca desde 2009, somente tendo firmado os contratos em 2021, e embora o falecimento tenha ocorrido em 2022, não pode a má-fé de forma alguma ser presumida.
+Logo, afigura-se ilícita a negativa de cobertura securitária, devendo a parte ré efetuar o pagamento da indenização do seguro de vida no valor de R$ 329.040,00. (e-STJ fls. 499-500).
+Dessa forma, alterar o decidido no acórdão impugnado, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7 do STJ.
+- Da divergência jurisprudencial
+Por fim, a incidência da Súmula 7 desta Corte acerca do argumento acima mencionado que se supõe divergente, impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República.
+A propósito: AgInt no AREsp 821337/SP, Terceira Turma, DJe de 13/03/2017 e AgInt no AREsp 964391/SP, Terceira Turma, DJe de 21/11/2016; AgInt no AREsp 1306436/RJ, Primeira Turma, DJe 02/05/2019; AgInt no AREsp 1343289/AP, Segunda Turma, DJe 14/12/2018; REsp 1665845/RS, Segunda Turma, DJe 19/06/2017.
+- Da existência de fundamento não impugnado
+Quanto à alegada decisão surpresa pela condenação da indenização, a parte agravante não impugnou o fundamento utilizado pelo TJ/RJ acerca da impossibilidade de presunção de má-fé do segurado, razão pela qual deve ser mantido o acórdão recorrido. Aplica-se, na hipótese, a Súmula 283/STF.
+Nesse sentido: AgInt no REsp 2.072.391/SP, Quarta Turma, DJe de 25/4/2024; e AgInt no REsp n. 2.013.576/SP, Terceira Turma, DJe de 11/4/2024.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em mais 3% (três por cento) sobre o valor da condenação, devidos pela parte recorrente.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE NÃO FAZER C/C INDENIZATÓRIA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. SÚMULA 7 DO STJ. PREJUDICADO. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF.
+1. Ação de obrigação de não fazer c/c indenizatória.
+2. É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+6. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+7. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
