@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto pelo MUNICÍPIO DE APARECIDA DE GOIÂNIA, contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal e no artigo 1.029 e seguintes do Código de Processo Civil, manejado contra acórdão do Tribunal de Justiça do Estado de Goiás, assim ementado (fl. 453):
+APELAÇÃO CÍVEL. AÇÃO DE DESAPROPRIAÇÃO. PRECATÓRIO. OFENSA O ART. 5º, XXIV, CF. LAUDO PERICIAL. PRECLUSÃO.
+I - Compulsando dos autos verifica-se que da decisão judicial que homologou o laudo pericial às fls. 215 (processo originário físico) não foi interposto nenhum recurso, motivo pelo qual torna-se preclusa sua insurgência nos moldes do art. 507 CPC/2015.
+II - Nesse contexto, o pleito de incidência de juros compensatórios a partir da expedição do precatório, também não merece guarida, devendo ser mantida a sentença que fixou os juros compensatórios da data que ocorreu a desocupação do imóvel desapropriado até o efetivo pagamento.
+III - No que concerne aos juros moratórios, verifica-se que a despeito do alegado das razões recursais, estes foram corretamente arbitrados na sentença guerreada, nos moldes pleiteados pelo apelante.
+IV - A correção monetária deve incidir a partir da data do laudo de avaliação do imóvel expropriado, segundo os índices aplicáveis à caderneta de poupança, por força do art. 1º-F, da Lei nº 9.494/1997, com a redação dada pela Lei nº 11.960/2009. APELAÇÃO CÍVEL CONHECIDA E PARCIALMENTE PROVIDA.
+Os embargos de declaração opostos pela parte recorrente foram rejeitados (fl. 490).
+Em seu recurso especial de fls. 498-519, a parte recorrente sustenta violação aos artigos 535, §3º, I, do Código de Processo Civil e ao artigo 15-A do Decreto-Lei nº 3.365/41.
+Nesse contexto, pontua que "a condenação do Município ao pagamento de indenização por meio diverso da via do precatório judicial, como é o caso, por exemplo, por meio de penhora on line ou sequestro de verbas, afronta diretamente os princípios constitucionais anteriormente citados" (fl. 510).
+Além disso, alega malferimento ao artigo 15-A do Decreto-Lei nº 3.365/41, sob alegação de que "o termo final dos juros compensatórios em ação de desapropriação deve incidir somente até data da expedição do precatório e não até a data do efetivo pagamento, conforme decidido na decisão combatida" (fl. 517).
+Nesse sentido, suscita que "estabelecer que o termo final da incidência dos juros compensatórios se dá com o efetivo pagamento, importa em flagrante violação ao artigo 15-A do Decreto Lei nº. 3.365/41" (fl. 517).
+O Tribunal de origem, às fls. 633-636, não admitiu o recurso especial, sob os seguintes fundamentos:
+Inicialmente, calha gizar que a remessa ao tribunal superior para o julgamento das demais questões somente é cabível quando já realizado o juízo de admissibilidade na origem, o que não é o caso. Pois bem. Exercido o juízo de retratação e adotado o posicionamento do Supremo Tribunal Federal, relativo ao Tema 865 da sistemática da repercussão geral, no sentido de que "No caso de necessidade de complementação da indenização, ao final do processo expropriatório, deverá o pagamento ser feito mediante depósito judicial direto se o Poder Público não estiver em dia com os precatórios", declaro prejudicado o recurso especial em epígrafe, nos termos do artigo 1.040, II, do CPC, quanto à alegação de violação ao art. 535, §3º, I, do CPC.
+Dito isso, quanto dispositivo remanescente, passo ao juízo de prelibação, que, neste caso, verifico ser negativo.
+Isso porque, a análise de eventual ofensa ao art. 15-A do Decreto-Lei n. 3.365/41 esbarra no óbice da Súmula n. 7 do Superior Tribunal de Justiça, uma vez que a conclusão sobre o acerto ou desacerto do acórdão vergastado demandaria sensível incursão no acervo fático-probatório dos autos, relativamente quanto ao termo final dos juros compensatórios. E isso, de forma hialina, impede o trânsito do recurso especial.
+Ante o exposto, julgo prejudicado o recurso especial, quanto à alegação de violação ao art. 535, §3º, I, do CPC, e deixo de admiti-lo nos demais termos delineados.
+Por outro lado, a parte agravante, às fls. 645-651, sustenta que "a matéria em questão não exige o reexame de fatos ou provas, mas apenas a adequada interpretação jurídica do art. 15-A do Decreto-Lei nº 3.365/41" (fl. 649).
+É o relatório.
+A insurgência não pode ser conhecida.
+A decisão monocrática que negou a subida do apelo raro, ora agravada, assentou-se na incidência do enunciado 7 da Súmula do STJ, diante da impossibilidade de reexame de fatos e provas na instância especial.
+Todavia, nota-se qu e em seu agravo, a parte recorrente olvidou em impugnar, de forma fundamentada, o argumento do decisum de inadmissibilidade, o qual, à míngua de impugnação específica e pormenorizada, permanece hígido, produzindo todos os efeitos no mundo jurídico.
+Assim, ao deixar de infirmar a fundamentação do juízo de admissibilidade realizado pelo Tribunal de origem, a parte agravante fere o princípio da dialeticidade e atrai a incidência da previsão contida nos artigos 932, inciso III, do Código de Processo Civil, e 253, parágrafo único, inciso I, do Regimento Interno do STJ, no sentido de que não se conhece de agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida". Nesse sentido:
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. A falta de efetivo combate de quaisquer dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, consoante preceituam os arts. 253, I, do Regimento Interno do Superior Tribunal de Justiça e 932, III, do Código de Processo Civil e a Súmula 182 do STJ.
+5. Agravo interno n ão provido.
+(AgInt no AREsp n. 2.419.582/SP, rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 14/3/2024)
+Ante o exposto, com fundamento no artigo 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil. Deverão ser observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do dispositivo legal acima referido, bem como eventuais legislações extravagantes que tratem do arbitramento de honorários e as hipóteses de concessão de gratuidade de justiça.
+Publique-se.
+Intime-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL QUE NÃO COMBATEU OS FUNDAMENTOS DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DOS ARTS. 932, III, DO CPC E 253, P. Ú, I, DO RISTJ. AGRAVO NÃO CONHECIDO.
