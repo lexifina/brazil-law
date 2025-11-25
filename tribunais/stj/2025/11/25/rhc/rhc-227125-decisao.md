@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de recurso em habeas corpus com pedido liminar interposto por HIGOR GABRIEL DOS SANTOS contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO.
+Consta dos autos que o recorrente foi preso em flagrante em 15/8/2025, custódia convertida em preventiva, pela suposta prática das condutas descritas nos arts. 33, caput, e 35, c/c o art. 40, VI, todos da Lei n. 11.343/2006, na forma do art. 69 do Código Penal.
+Aduz que a decisão que converteu o flagrante em preventiva carece de fundamentação concreta, violando o art. 93, IX, da Constituição Federal, por valer-se de gravidade abstrata e referências genéricas.
+Afirma que não há risco decorrente da liberdade demonstrado, sendo o recorrente primário, menor de 21 anos, com ocupação lícita e residência fixa, o que afasta a necessidade da medida extrema.
+Defende que a quantidade e a variedade de droga, isoladamente, não autorizam a prisão preventiva, exigindo-se elementos adicionais que evidenciem risco concreto à ordem pública.
+Entende que os delitos imputados não envolveram violência ou grave ameaça, permitindo a adoção de medidas cautelares diversas da prisão, nos termos do art. 319 do CPP.
+Pondera que não há demonstração de vínculo do recorrente com organização criminosa, sendo indevida a manutenção da custódia com base em suposições.
+Assevera que, considerando as condições pessoais e o exercício de atividade lícita, não está afastada, em tese, a causa de diminuição do art. 33, § 4º, da Lei n. 11.343/2006, o que reforça a desproporcionalidade da prisão preventiva.
+Relata que há afronta ao princípio da homogeneidade das prisões, pois, mesmo em eventual condenação, não se verifica imposição de regime inicial fechado nas circunstâncias narradas.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva e a substituição por medidas cautelares, com expedição de alvará de soltura.
+É o relatório.
+A prisão cautelar foi assim fundamentada, conforme transcrição parcial constante do voto condutor do acórdão impugnado (fl. 182, grifei):
+(..). Neste sentido, comporta acolhimento o pedido de decretação da prisão preventiva do acusado realizado pelo Ministério Público, com fundamento na garantia da ordem pública, nos termos do artigo 312 do Código de Processo Penal.
+Os depoimentos prestados pelos policiais responsáveis pela captura do flagranteado, o boletim de ocorrência, somados ao laudo preliminar de id 204638125, denotam, em linha de princípio, prova de materialidade e indícios suficientes de autoria ( fumus comissi delicti).
+Cita-se, inclusive, que quando ouvido em audiência de custódia, o autuado não soube explicar os motivos pelos quais teria adentrado no matagal identificado pela polícia militar no boletim de ocorrência, gerando a presunção de verossimilhança das declarações policiais de que o autuado seria faccionado e estaria atuando em conjunto com o menor na traficância nesta urbe, razão pela qual reputo que o material colhido é suficiente para configurar os indícios de autoria exigidos para esse momento processual.
+Em relação ao "periculum libertatis", observo a existência de indícios concretos de que a liberdade do flagranteado representa risco a garantia da ordem pública.
+O autuado foi apreendido com expressiva quantidade de drogas, inclusive de natureza variada, representadas por aproximadamente 2KG de maconha e 550g de cocaína, além de vários utensílios típicos do tráfico de entorpecentes, como mochila para armazenamento, balança de precisão para medição da droga e invólucros de plástico para embalagem.
+Trata-se, portanto, de conduta grave e que revela a periculosidade social do custodiado, justificando, por si só, a decretação da prisão preventiva a fim de acautelar a ordem pública, conforme prevê o enunciado 25 da TCCR/TJMT: (..).
+Por fim, ressalta-se que a exigência do artigo 313, inciso I, do Código de Processo Penal, também se faz presente, na medida em que a quantidade máxima de pena do crime imputado ao acusado ultrapassa o período de período de 04 anos.
+Ante o exposto:
+I. - HOMOLOGO o presente Auto de Prisão em Flagrante.
+II. - INDEFIRO o pedido da defesa, acolhendo a representação do "Parquet" para CONVERTER a prisão em flagrante de HIGOR GABRIEL DOS SANTOS, em prisão preventiva para garantia da ordem pública, já que se encontram presentes os requisitos do art. 312 do CPP. (Id. 321762873 - p. 89-94)
+A leitura do decreto prisional revela que a custódia cautelar está suficientemente fundamentada na necessidade de garantir a ordem pública, considerando a gravidade da conduta delituosa, pois, por ocasião da prisão em flagrante, houve a apreensão de aproximadamente 2 kg de maconha e 550 g de cocaína.
+Tal entendimento está alinhado com a jurisprudência consolidada do Superior Tribunal de Justiça, que reconhece que a quantidade, a natureza e a diversidade das substâncias entorpecentes apreendidas constituem fundamentos adequados para a decretação da prisão preventiva.
+Sobre o tema:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS. NEGATIVA DE AUTORIA. IMPOSSIBILIDADE DE APRECIAÇÃO NA VIA ELEITA. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DOS FATOS. NECESSIDADE DE RESGUARDAR A ORDEM PÚBLICA. FUNDAMENTAÇÃO SUFICIENTE. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A tese de negativa de autoria não comporta conhecimento, por demandar a reapreciação do conjunto fático-probatório dos autos, inadmissível na via do habeas corpus. Precedentes.
+2. Hipótese em que a prisão preventiva foi adequadamente fundamentada a partir da análise particularizada da situação fática dos autos, tendo sido amparada na especial gravidade do delito, evidenciada a partir da quantidade de substância entorpecente apreendida, o que justifica a custódia cautelar, nos termos da jurisprudência do Superior Tribunal de Justiça, como forma de resguardar a ordem pública.
+3. A suposta existência de condições pessoais favoráveis, por si só, não assegura a desconstituição da custódia antecipada, caso estejam presentes os requisitos autorizadores da custódia cautelar, como ocorre na hipótese em apreço.
+4. Agravo regimental não provido.
+(AgRg no HC n. 896.066/SP, relator Ministro Otávio de Almeida Toledo - Desembargador convocado do TJSP, Sexta Turma, julgado em 24/6/2024, DJe de 27/6/2024, grifei.)
+A apreensão de droga juntamente com apetrechos relacionados ao tráfico como faca, balança de precisão e embalagens também justificam a prisão preventiva consoante entendimento desta Corte Superior.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. APREENSÃO DE GRANDE QUANTIDADE DE DROGA, APETRECHOS E MUNIÇÕES PARA ARMA DE FOGO. FUNDAMENTAÇÃO IDÔNEA. ILEGALIDADE. AUSÊNCIA.
+1. Tendo o decreto prisional apresentado fundamentação concreta, evidenciada na apreensão de grande quantidade e variedade de drogas apreendidas, tratando-se de 1,5 kg de cocaína, 600 g de pasta base de cocaína e 600 g de crack, de apetrechos para o tráfico e de munições para armas de fogo, não há manifesta ilegalidade.
+2. Agravo regimental desprovido.
+(AgRg no RHC n. 197.008/SP, relator Ministro Jesuíno Rissato -Desembargador convocado do TJDFT -, Sexta Turma, julgado em 24/6/2024, DJe de 26/6/2024.)
+Além disso, eventuais condições pessoais favoráveis não garantem a revogação da prisão processual se estiverem presentes os requisitos da custódia cautelar, como no presente caso. No mesmo sentido: AgRg no HC n. 940.918/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 7/10/2024, DJe de 10/10/2024; e AgRg no HC n. 917.903/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 23/9/2024, DJe de 30/9/2024.
+Registre-se que, havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: AgRg no HC n. 801.412/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/3/2023, DJe de 13/3/2023; AgRg no HC n. 771.854/ES, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 6/3/2023, DJe de 9/3/2023.
+Por fim, quanto à alegada desproporcionalidade da prisão cautelar, "trata-se de prognóstico que somente será confirmado após a conclusão do julgamento da ação penal, não sendo possível inferir, nesse momento processual e na estreita via ora adotada, o eventual regime prisional a ser fixado em caso de condenação (e consequente violação do princípio da homogeneidade)" (AgRg no RHC n. 144.385/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/4/2021, DJe de 19/4/2021).
+Ante o exposto, nos termos do art. 34, XVIII, b, do Regimento Interno do Superior Tribunal de Justiça, nego provimento ao recurso em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
