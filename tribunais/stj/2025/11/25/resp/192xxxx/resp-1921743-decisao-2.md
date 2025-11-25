@@ -1,0 +1,52 @@
+DECISÃO
+Cuida-se de recurso especial interposto por LUIS FERNANDO DECANINI e OUTRO, com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL assim ementado (fl. 136):
+AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA - PRELIMINAR - NÃO CONHECIMENTO DO RECURSO POR VÍCIO NA REPRESENTAÇÃO PROCESSUAL - AUSÊNCIA DE PROCURAÇÃO - IRREGULARIDADE SANADA - PRELIMINAR AFASTADA - MÉRITO - DISCUSSÃO SOBRE CONSECTÁRIOS LEGAIS INCIDENTES SOBRE O CRÉDITO - IMPOSSIBILIDADE - COISA JULGADA - JUROS DE MORA ESTABELECIDOS NO TÍTULO EXEQUENDO - PRINCÍPIO DA FIDELIDADE DO TÍTULO - RECURSO CONHECIDO E DESPROVIDO. De acordo com a jurisprudência do Superior Tribunal de Justiça "a falta ou deficiência de representação processual nas instâncias ordinárias constitui vício sanável, admitindo-se, portanto, a sua posterior regularização". Sanado o vício na representação, nos moldes do que determina o artigo 76, do CPC/2015, deve ser rejeitada a preliminar de não conhecimento do recurso. A fase de cumprimento de sentença encontra limites estreitos no princípio da fidelidade do título, mormente em atenção à segurança jurídica e à estabilidade da coisa julgada. A questão relacionada aos consectários legais sobre a verba honorária já foi solucionada na sentença exequenda, não podendo ser rediscutida no cumprimento de sentença em razão da preclusão.
+Sem embargos de declaração.
+No presente recurso especial, a parte recorrente alega violação do art. 1.017, I, do CPC, defendendo que o agravo de instrumento não poderia ser conhecido pelo Tribunal local, diante de ausência de regular representação processual.
+Apresentadas as contrarrazões, sobreveio o juízo de admissibilidade positivo da instância de origem (fls. 311-314).
+É, no essencial, o relatório.
+A controvérsia recursal cinge-se a decidir sobre a possibilidade de regularização do vício de representação processual, por ausência de procuração, na interposição de agravo de instrumento.
+Há que se considerar que a análise do ponto controvertido não demanda o reexame de fatos e provas, uma vez que o acórdão recorrido delimitou a matéria sub judice e as teses conflitantes são eminentemente de direito.
+No caso concreto, o Tribunal de origem se pronunciou nos seguintes termos (fls. 138-140):
+Os agravados alegaram a existência de vício na representação processual, uma vez que não foi juntada procuração conferindo poderes à causídica que assinou o presente recurso, Dra. Luana Lima Teixeira.
+Com efeito, conforme estabelece o artigo 76, do CPC/2015 "Verificada a incapacidade processual ou a irregularidade da representação da parte, o juiz suspenderá o processo e designará prazo razoável para que seja sanado o vício".
+Portanto, o defeito relacionado à ausência de procuração à advogada que assinou o agravo é um vício sanável, sendo um dever do julgador oportunizar a regularização antes de proferir decisão terminativa, seja de extinção do feito sem julgamento do mérito, seja de não conhecimento do recurso.
+(..).
+No caso, uma vez alegada em contraminuta a existência do vício na representação processual do agravante (f. 31-45), houve a intimação do agravante para a regularização (f 125) e a correção do defeito (f. 126-127), de modo que deve ser julgado o mérito do recurso.
+Logo, afasto a preliminar.
+Os arts. 932 e 1.017 do CPC preconizam que:
+Art. 1.017. A petição de agravo de instrumento será instruída:
+I - obrigatoriamente, com cópias da petição inicial, da contestação, da petição que ensejou a decisão agravada, da própria decisão agravada, da certidão da respectiva intimação ou outro documento oficial que comprove a tempestividade e das procurações outorgadas aos advogados do agravante e do agravado
+§ 3º Na falta da cópia de qualquer peça ou no caso de algum outro vício que comprometa a admissibilidade do agravo de instrumento, deve o relator aplicar o disposto no art. 932, parágrafo único.
+art. 932.
+Parágrafo único. Antes de considerar inadmissível o recurso, o relator concederá o prazo de 5 (cinco) dias ao recorrente para que seja sanado vício ou complementada a documentação exigível.
+Somente se constata óbice ao conhecimento do recurso, quando a parte, intimada para sanar o vício, não o regulariza a tempo e modo, consoante legislação de regência.
+Desta feita, não há que se falar em violação da lei federal pelo acórdão recorrido, que adotou justamente a solução prevista no ordenamento pátrio
+Nesse sentido, cito os precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. NÃO COMPROVAÇÃO DO PAGAMENTO DO PREPARO NO ATO DE INTERPOSIÇÃO DO RECURSO. INTIMAÇÃO PARA REGULARIZAÇÃO COM RECOLHIMENTO EM DOBRO DAS CUSTAS. PRAZO TRANSCORRIDO IN ALBIS. SÚMULA N. 187 DO STJ. AUSÊNCIA DE PROCURAÇÃO OU DE CADEIA COMPLETA DE SUBSTABELECIMENTO DE PODERES AO SUBSCRITOR DOS EMBARGOS DE DIVERGÊNCIA. SÚMULA N. 115 DO STJ. DISPENSA DO ART. 1.017, § 5º, DO CPC. INAPLICABILIDADE AOS EMBARGOS DE DIVERGÊNCIA. ANÁLISE DE VIOLAÇÃO DE DISPOSITIVOS CONSTITUCIONAIS. NÃO CABIMENTO. USURPAÇÃO DA COMPETÊNCIA DO STF. AGRAVO INTERNO DESPROVIDO.
+1. Na hipótese de não comprovação do recolhimento do preparo no ato de interposição do recurso, o demandante será intimado para efetuá-lo em dobro, sob pena de consolidação da deserção do pleito recursal, conforme estabelece o art. 1.007, caput e § 4º, do CPC.
+2. "É deserto o recurso interposto para o Superior Tribunal de Justiça, quando o recorrente não recolhe, na origem, a importância das despesas de remessa e retorno dos autos" (Súmula n. 187 do STJ).
+3. Na hipótese de recurso interposto por advogado sem procuração nos autos, se a parte recorrente, instada a regularizar a representação processual, não o faz no prazo assinado, não se conhece do pleito recursal, de acordo com o art. 76, § 2º, I, c/c o art. 932, parágrafo único, do CPC de 2015.
+4. "Na instância especial é inexistente recurso interposto por advogado sem procuração nos autos" (Súmula n. 115 do STJ).
+5. A dispensa da juntada de procuração em processos eletrônicos, prevista no art. 1.017, § 5º, do CPC, não se estende aos embargos de divergência, destinando-se, exclusivamente, ao recurso de agravo de instrumento interposto em autos eletrônicos.
+6. Não cabe ao STJ manifestar-se sobre tema constitucional, ainda que para fins de prequestionamento, sob pena de usurpação da competência do STF.
+7. Agravo interno desprovido. (Grifei.)
+(AgInt nos EDcl nos EREsp n. 2.036.472/SP, rel. Ministro João Otávio de Noronha, Corte Especial, julgado em 12/11/2024, DJe de 19/11/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO NA VIGÊNCIA DO CÓDIGO DE PROCESSO CIVIL DE 2015. AUSÊNCIA DE PROCURAÇÃO. DESCUMPRIMENTO DA DETERMINAÇÃO DE REGULARIZAÇÃO DA REPRESENTAÇÃO PROCESSUAL. ART. 76, § 2º, INCISO I, DO CPC/2015. INAPLICABILIDADE DA EXCEÇÃO PREVISTA NO 1.017, § 5º, DO CPC/2015.
+1. Nos termos dos arts. 76, § 2º, I, e 932, parágrafo único, do CPC de 2015, não se conhece do recurso quando a parte, após intimada, não comprova a regularidade da sua representação processual no prazo estipulado. Precedentes.
+2. Embora o art. 1.017, § 5º, do CPC estabeleça a dispensa de juntada da procuração na esfera do processo eletrônico, essa norma incide apenas quanto ao conhecimento do agravo de instrumento destinado ao segundo grau de jurisdição. A exoneração do mencionado requisito não se aplica às hipóteses de interposição de recurso especial e dos demais recursos endereçados a órgãos que não possuem acesso aos autos eletrônicos originários. Precedentes.
+3. "A jurisprudência desta Corte entende que "a doença que acomete o advogado somente se caracteriza como justa causa, a ensejar a devolução do prazo, quando o impossibilita totalmente de exercer a profissão ou de substabelecer o mandato, circunstância não comprovada no caso" (AgInt no AREsp 1.534.425/MA, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe 26.3.2020).
+Agravo interno improvido. (Grifei.)
+(AgInt no AREsp n. 2.707.958/RJ, rel. Ministro Humberto Martins, Terceira Turma, julgado em 17/3/2025, DJe de 20/3/2025.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO MONOCRÁTICA. POSTERIOR RATIFICAÇÃO PELO COLEGIADO, EM JULGAMENTO DE AGRAVO INTERNO. AUSÊNCIA DE NULIDADE. PRECEDENTE. AUSÊNCIA DE PROCURAÇÃO DO SUBSCRITOR DO AGRAVO E DO RECURSO ESPECIAL. INTIMAÇÃO PARA REGULARIZAÇÃO. FALHA NÃO SUPRIDA OPORTUNAMENTE SÚMULA 115/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Consoante o entendimento do Superior Tribunal de Justiça, "a legislação processual (932 do CPC/15, c/c a Súmula 568 do STJ) permite ao relator julgar monocraticamente recurso inadmissível ou, ainda, aplicar a jurisprudência consolidada deste Tribunal. Ademais, a possibilidade de interposição de recurso ao órgão colegiado afasta qualquer alegação de ofensa ao princípio da colegialidade" (AgInt no AREsp 1.389.200/SP, Relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/3/2019, DJe de 29/3/2019).
+2. Interposto recurso por advogado sem procuração dos autos, dele não se pode conhecer, consoante o art. 76, § 2º, I, c/c o art. 932, parágrafo único, do CPC/2015, na hipótese em que a parte recorrente, instada a regularizar a representação processual, não a promove no prazo que para tanto lhe foi assinado. Incidência do enunciado n. 115 da Súmula do Superior Tribunal de Justiça.
+2.1. A ausência da cadeia completa de procurações impossibilita o conhecimento do recurso interposto para as instâncias superiores, sendo incabível a juntada posterior do instrumento procuratório, em virtude da preclusão consumativa.
+3. Não há falar em violação dos princípios da primazia do julgamento de mérito e da instrumentalidade das formas, considerando que o referido postulado foi observado na concessão de prazo para regularizar o vício. Contudo, a parte não observou o lapso, caracterizando a preclusão temporal.
+4. Agravo interno a que se nega provimento. (Grifei.)
+(AgInt no AREsp n. 2.611.799/RO, rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 11/11/2024, DJe de 13/11/2024.)
+Nos termos da Súmula n. 568/STJ: O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+Ante o exposto, conheço do recurso especial e nego-lhe provimento.
+Deixo de majorar os honorários recursais em razão da ausência de fixação da verba na origem.
+Publique-se. Intimem-se.
+ EMENTA
