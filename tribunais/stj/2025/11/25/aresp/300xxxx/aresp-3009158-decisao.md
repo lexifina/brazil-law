@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto por CONDOMÍNIO CARAÍBAS da decisão proferida pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, que não admitiu o recurso especial dirigido ao acórdão proferido no Agravo de Instrumento n. 5953414-44.2024.8.09.0029/GO.
+Na origem, foi determinada a expedição de mandado de reintegração de posse, com a desocupação da área sub judice e demolição das edificações nela situadas, no cumprimento de sentença de ação possessória proposta por CEMIG Geração e Transmissão S.A.
+O Tribunal de origem negou provimento ao agravo de instrumento para manter a decisão que deferiu a reintegração de posse, em acórdão assim ementado (fls. 98-99):
+DIREITO PROCESSUAL CIVIL E CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO DE REINTEGRAÇÃO DE POSSE. CUMPRIMENTO DE SENTENÇA. ALEGAÇÃO DE NULIDADE DA CITAÇÃO. ILEGITIMIDADE PASSIVA. AUSÊNCIA DE CITAÇÃO DE LITISCONSORTES. DESPROVIMENTO.  ..
+Os embargos de declaração foram rejeitados (fls. 144-154).
+Nas razões do recurso especial, a parte recorrente aduziu violação dos arts. 227 do CPC/1973 (art. 252 do CPC/2015); 231, § 3º, do CPC/1973 (art. 256, § 3º, do CPC/2015); 278, caput e parágrafo único, e 280, todos do CPC/2015; 47 do CPC/1973 (arts. 114 e 115, inciso I, do CPC/2015); e 1.022, inciso II, do CPC/2015, sustentando: (i) nulidade da citação por edital do réu Roberto Guimarães Mendes por ausência de esgotamento dos meios de localização e por não realização de citação por hora certa previamente deferida; (ii) necessidade de citação dos demais compossuidores, em litisconsórcio passivo necessário, com inoponibilidade da sentença aos condôminos não citados; e (iii) negativa de prestação jurisdicional, por omissões quanto à caracterização de "nulidade de algibeira" e ao litisconsórcio passivo necessário.
+Contrarrazões às fls. 261-266.
+Não admitido o recurso pelo Tribunal de origem (fls. 269-272), seguiu-se o presente agravo em recurso especial (fls. 278-311).
+É o relatório. Decido.
+O agravo não comporta conhecimento.
+O recurso especial foi inadmitido pelo Tribunal de origem em razão da incidência das Súmulas n. 284 do STF e 7 do STJ (fls. 269-272).
+Nas razões do agravo em recurso especial, embora tenha negado genericamente a incidência da Súmula n. 7 do STJ, a parte recorrente não logrou impugná-la de maneira específica e concreta, em relação a cada um dos pontos.
+No caso, para buscar afastar a incidência da Súmula n. 7 do STJ, deve a parte cotejar a moldura fática incontroversa do acórdão recorrido com as teses por ele suscitadas, demonstrando de que forma o seu exame prescindiria da análise de elementos probantes, o que não ocorreu. Nesse sentido, mutatis mutandis:
+ ..
+5. A impugnação da Súmula n. 7/STJ pressupõe estrutura argumentativa específica, indicando-se as premissas fáticas admitidas como verdadeiras pelo Tribunal de origem, a qualificação jurídica que lhe foi conferida e a apreciação jurídica que lhe deveria ter sido efetivamente atribuída. O recurso daí proveniente deveria se esmerar em demonstrar efetivamente que a referida súmula não se aplica ao caso concreto, e não simplesmente reiterar o recurso especial. (AgInt no AREsp n. 1.790.197/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 1º/7/2021.)
+Agravo interno improvido.
+(AgInt no AREsp n. 1.795.402/SP, relator Ministro Humberto Martins, Segunda Turma, julgado em 3/4/2023, DJe de 13/4/2023.)
+ ..
+4. Em nova análise do agravo interposto, tem-se que a parte agravante efetivamente não rebateu todos os fundamentos da decisão de inadmissão do recurso especial.
+5. Inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.770.082/SP, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF-5ª Região), Primeira Turma, julgado em 26/4/2021, DJe de 30/4/2021.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNADO DE FORMA ESPECÍFICA O FUNDAMENTO DA DECISÃO AGRAVADA. APLICAÇÃO DA SÚMULA N. 182 DO STJ. SÚMULA N. 7 DO STJ. INSURGÊNCIA GENÉRICA. HONORÁRIOS RECURSAIS. AFRONTA AO PRINCÍPIO DA DIALETICIDADE. AGRAVO INTERNO PARCIALMENTE CONHECIDO E DESPROVIDO.
+1. A parte Agravante, no agravo em recurso especial, deixou de impugnar, de forma específica, um dos fundamentos da decisão que não admitiu o recurso especial na origem, qual seja, o óbice previsto na Súmula n. 7 do STJ. Incidência da Súmula n. 182 do STJ.
+2. Conforme remansosa jurisprudência desta Corte, " a  impugnação da Súmula 7 do STJ pressupõe estrutura argumentativa específica, indicando-se as premissas fáticas admitidas como verdadeiras pelo Tribunal de origem, a qualificação jurídica por ele conferida e a apreciação jurídica que lhes deveria ter sido efetivamente atribuída.  ..  O Recurso daí proveniente deveria se esmerar não em simplesmente reiterar as razões do Recurso Especial ou os argumentos referentes ao mérito da controvérsia, mas em demonstrar efetivamente que a referida Súmula não se aplica ao caso concreto e que, portanto, seria desnecessário revolver o acervo fático-probatório dos autos para a análise da insurgência" (AgInt no AREsp n. 2.371.208/PB, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023).
+3. Ao final da peça recursal, a Recorrente limita-se em postular a exclusão dos honorários recursais sem antes apontar o equívoco da decisão recorrida. Não se indicam, conforme exige o princípio da dialeticidade, os pressupostos fáticos e jurídicos que, no caso, desautorizariam a majoração dos honorários advocatícios sucumbenciais, razão pela qual o pedido subsidiário é incognoscível.
+4. Agravo interno parcialmente conhecido e, nessa extensão, desprovido.
+(AgInt no AREsp n. 2.346.013/SP, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 19/8/2024, DJe de 22/8/2024.)
+Nesse panorama, verifico que deixou de ser observada a dialeticidade recursal (art. 932, inciso III, do CPC/2015). Por conseguinte, o agravo em recurso especial carece do indispensável pressuposto de admissibilidade atinente à impugnação adequada e concreta de todos os fundamentos empregados pela Corte a quo para não admitir o recurso especial, a atrair a incidência da Súmula n. 182 do STJ.
+Ante o exposto, com fundamento no art. 932 do CPC/2015, NÃO CONHEÇO do agravo em recurso especial.
+Por tratar-se, na origem, de recurso interposto contra decisão interlocutória, na qual não houve prévia fixação de honorários, não incide a regra do art. 85, § 11, do Código de Processo Civil.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REINTEGRAÇÃO DE POSSE. CUMPRIMENTO DE SENTENÇA. INADMISSÃO DO RECURSO ESPECIAL PELO TRIBUNAL DE ORIGEM. FUNDAMENTO. AUSÊNCIA DE IMPUGNAÇÃO. INCIDÊNCIA DA SÚMULA N. 182/STJ. AGRAVO NÃO CONHECIDO.
