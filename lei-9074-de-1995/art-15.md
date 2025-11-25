@@ -10,3 +10,21 @@ Art. 15. Respeitados os contratos de fornecimento vigentes, a prorrogação das 
 § 8º Os consumidores que exercerem a opção prevista neste artigo e no art. 16 desta Lei poderão retornar à condição de consumidor atendido mediante tarifa regulada, garantida a continuidade da prestação dos serviços, nos termos da lei e da regulamentação, desde que informem à concessionária, à permissionária ou à autorizada de distribuição local, com antecedência mínima de 5 (cinco) anos.
 § 9º Os prazos definidos nos §§ 4º e 8º deste artigo poderão ser reduzidos, a critério da concessionária, da permissionária ou da autorizada de distribuição local.
 § 10. Até 31 de dezembro de 2009, respeitados os contratos vigentes, será facultada aos consumidores que pretendam utilizar, em suas unidades industriais, energia elétrica produzida por geração própria, em regime de autoprodução ou produção independente, a redução da demanda e da energia contratadas ou a substituição dos contratos de fornecimento por contratos de uso dos sistemas elétricos, mediante notificação à concessionária de distribuição ou geração, com antecedência mínima de 180 (cento e oitenta) dias.
+§ 16. A antecedência mínima de que trata o § 8º poderá ser reduzida pelo poder concedente, conforme regulamento.
+§ 17. A redução dos limites de tensão e carga de que trata o § 3º, para atingir os consumidores atendidos em tensão inferior a 2,3 kV (dois inteiros e três décimos quilovolts):
+I - deverá observar o seguinte cronograma:
+a) até 24 (vinte e quatro) meses da entrada em vigor deste dispositivo para consumidores industriais e comerciais;
+b) até 36 (trinta e seis) meses da entrada em vigor deste dispositivo para os demais consumidores;
+II - deverá ser antecedida do atendimento aos seguintes requisitos:
+a) desenvolvimento e execução de plano de comunicação para conscientização dos consumidores quanto à opção de migração para o Ambiente de Contratação Livre (ACL);
+b) definição das tarifas aplicáveis aos consumidores dos Ambientes de Contratação Livre e Regulado, considerando a segregação de custos da distribuidora para atendimento de cada ambiente de contratação;
+c) regulamentação para o suprimento de última instância, inclusive no que se refere às condições econômicas e financeiras para a viabilidade e sustentabilidade dessa atividade, com a definição, entre outros:
+1. do responsável pela prestação do serviço de suprimento de última instância;
+2. dos consumidores com direito a essa forma de suprimento;
+3. das hipóteses em que esse suprimento será obrigatório;
+4. do prazo máximo desse suprimento;
+5. da eventual utilização temporária de energia de reserva para essa forma de suprimento;
+6. da eventual dispensa de lastro para a contratação; e
+7. da forma de cálculo e alocação de custos;
+d) elaboração de um produto padrão e do respectivo preço de referência, de modo a facilitar a comparação entre ofertas e promover maior transparência e simplicidade para os consumidores atendidos em baixa tensão;
+e) regulamentação do encargo de sobrecontratação ou de exposição involuntária das concessionárias e das permissionárias de serviço público de distribuição de energia elétrica, de que trata o art. 15-D desta Lei.
