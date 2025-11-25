@@ -1,0 +1,13 @@
+DECISÃO
+De início, observo que a concessão de pedido de extensão exige que o agente esteja na mesma situação fático-processual daquele já beneficiado, de forma que a motivação da decisão não seja de caráter exclusivamente pessoal, a teor do do art. 580 Código de Processo Penal.
+Compulsando os autos e os dados processuais desta Corte de Justiça, ressai dos fundamentos da decisão proferida no HC n. 975.232/MG, de minha relatoria, que beneficiou o corréu WESLEY DA SILVA MARIA, mediante a redução da causa de aumento prevista no art. 40, V, da Lei n. 11343/2006, de 2/3 para 1/5; que THALES DA SILVA MARIA, se encontra na mesma situação fático-processual (e-STJ, fls. 24/25), no que diz respeito à dosimetria da pena, o que autoriza a extensão dos efeitos da decisão proferida naqueles autos, conforme o art. 580 do Código de Processo Penal.
+Desse modo, passo ao novo cálculo da dosimetria de suas penas, observados os critérios adotados pelas instâncias singelas (e-STJ, fls. 144/149).
+1) Art. 33, caput, c/c o art. 40, V, ambos da LAD
+Na primeira fase, mantenho a pena-base em 8 anos e 9 meses de reclusão, e 875 dias-multa. Na segunda etapa, ausentes circunstâncias atenuantes e presente as agravantes do art. 61, I, e do art. 62, I, ambos do CP, mantenho o incremento em 1/3, ficando as sanções mantidas em 11 anos e 8 meses de reclusão, e 1.166 dias-multa. Na terceira fase, ausentes causas de diminuição de pena e incidente a majorante prevista no art. 40, V, da LAD, aplico a fração de 1/5, ficando as sanções fixadas em 14 anos de reclusão, e 1.399 dias-multa.
+2 ) Art. 35, caput, c/c o art. 40, V, ambos da LAD
+Na primeira fase, mantenho a pena-base em 5 anos, 7 meses e 15 dias de reclusão, e 886 dias-multa. Na segunda etapa, ausentes circunstâncias atenuantes e presente as agravantes do art. 61, I, e do art. 62, I, ambos do CP, mantenho o incremento em 1/3, ficando as sanções mantidas em 7 anos e 6 meses de reclusão, e 1.181 dias-multa. Na terceira fase, ausentes causas de diminuição de pena e incidente a majorante prevista no art. 40, V, da LAD, aplico a fração de 1/5, ficando as sanções fixadas em 9 anos de reclusão, e 1.417 dias-multa.
+Mantido o concurso material de crimes, as penas são somadas, ficando as reprimendas de THALES DA SILVA MARIA definitivamente estabilizadas em 23 anos de reclusão, além de 2.816 dias-multa.
+Ante o exposto, concedo a ordem, ex officio, para redimensionar as sanções de THALES DA SILVA MARIA a 23 anos de reclusão, além de 2.816 dias-multa, mantidos os demais termos de sua condenação.
+Comunique-se, com urgência, o Tribunal impetrado e o Juízo de primeiro grau.
+Publique-se.
+EMENTA
