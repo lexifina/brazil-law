@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo interno, com pedido de tutela provisória, interposto por VALÉRIA CUPELLO CORREA contra a decisão da Presidência desta Corte de Justiça (e-STJ fls. 238/239), que não conheceu do agravo em recurso especial em virtude da ausência de impugnação de todos os fundamentos da decisão agravada.
+Nas presentes razões, a agravante sustenta que, ao contrário do que foi consignado na decisão agravada, o seu recurso de agravo em recurso especial "impugnou frontal e especificamente a invocação da Súmula 7/STJ feita pelo Tribunal de origem, demonstrando que o acórdão a quo excedeu os limites do juízo de admissibilidade ao adentrar mérito (aplicando o óbice da Súmula 7) - o que é vedado - e colacionando precedentes do próprio STJ nesse exato sentido" (e-STJ flS. 246/247).
+Ao final, requer o provimento do agravo, bem como o empréstimo de efeito suspensivo ao recurso.
+Impugnação às e-STJ fls. 253/269.
+É o relatório.
+DECIDO.
+Em uma reanálise dos autos, observa-se que, de fato, houve a impugnação específica aos fundamentos da decisão agravada. Dessa forma, reconsidero a decisão proferida pela Presidência do Superior Tribunal de Justiça (e-STJ fls. 238/239), passando a um novo exame da irresignação.
+Trata-se de agravo contra a decisão que inadmitiu o recurso especial, fundamentado no artigo 105, III, alínea "a" da Constituição Federal, que se insurge contra o acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro assim ementado:
+"AGRAVO DE INSTRUMENTO. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZATÓRIA. DECISÃO AGRAVADA QUE INDEFERIU O PEDIDO DE ANTECIPAÇÃO DE TUTELA REQUERIDO PELA AUTORA ORA AGRAVANTE PARA QUE A INSTITUIÇÃO FINANCEIRA SUSPENDA A MODALIDADE DE DÉBITO AUTOMÁTICO EM C/C PARA PAGAMENTO DAS PARCELAS DE EMPRÉSTIMO SEM, CONTUDO, QUESTIONAR A TITULARIDADE NA CONTRATAÇÃO. APENAS ALEGA A VULNERABILIDADE ECONÔMICA E SOCIAL DA PESSOA IDOSA COM AS COBRANÇAS. NA HIPOTESE, NÃO SE AFIGURA LEGITIMA, A PRIMA FACIE, O CANCELAMENTO DESEJADO, SEM QUE HAJA QUALQUER GARANTIA DE PAGAMENTO DA DÍVIDA CONTRAÍDA E SEM INSTAURAÇÃO DO CONTRADITÓRIO. RECURSO QUE VISA QUESTIONAR A PRESENÇA DOS REQUISITOS AUTORIZADORES DA TUTELA DE URGÊNCIA. ARTIGO 300, DO CPC E O ACERTO DA DECISÃO AGRAVADA. DECISÃO QUE SE MANTÉM. SÚMULA Nº 59, TJ/RJ. RECURSO QUE SE NEGA PROVIMENTO." (e-STJ fl. 50).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 79/82).
+Nas razões do recurso especial, a recorrente sustenta a violação dos arts. 6º, IV, V, VIII, XI e XII; 14, caput, e §1º, II; 46, 47 e 51, VI e XV, do Código de Defesa do Consumidor, e dos arts. 1º, III e art. 230 da Constituição Federal, sustentando, em síntese, que o bloqueio realizado na sua conta seria manifestamente ilegal.
+C  ontrarrazões anexadas às e-STJ, fls. 110/114.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+Inicialmente, observa-se que compete ao Superior Tribunal de Justiça, em recurso especial, a análise da interpretação da legislação federal, motivo pelo qual se revela inviável invocar, nesta seara, a violação de dispositivos constitucionais, pois, como consabido, a matéria é afeta à competência do Supremo Tribunal Federal.
+Além disso, verifica-se que as matérias versadas nos dispositivos apontados como violados no recurso especial não foram objeto de debate pelas instâncias ordinárias, sequer de modo implícito, e, apesar de opostos embargos declaratórios, nada foi decidido acerca da matéria.
+A despeito disso, não foi alegada a violação do art. 1.022 do Código de Processo Civil, com a finalidade de sanar omissão porventura existente. Por esse motivo, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+A propósito:
+"(..) A ausência de debate no acórdão recorrido quanto ao tema suscitado no recurso especial evidencia a falta de prequestionamento, admitindo-se o prequestionamento ficto apenas na hipótese em que não sanada a omissão no julgamento de embargos de declaração e suscitada a ofensa ao art. 1.022 do NCPC no recurso especial, o que não é o caso dos autos" (AgInt no AREsp n. 1.834.881/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 17/10/2022, DJe de 19/10/2022).
+Paralelamente, "a jurisprudência do STJ, em atendimento ao disposto na Súmula nº 735/STF, entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo" (AREsp n. 2.870.801/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 25/8/2025, DJEN de 29/8/2025).
+A par disso, tendo o acórdão recorrido concluído pela ausência dos requisitos do art. 300 do Código de Processo Civil, é evidente que rever a conclusão do tribunal local revolvimento do acervo fático-probatório dos autos, procedimento inviável ante a natureza excepcional da via eleita, consoante disposto na Súmula nº 7/STJ.
+Por fim, deve ser sublinhado que a deficiência na fundamentação recursal ficou evidenciada, visto que a parte recorrente, além de apresentar argumentação divorciada das razões apresentadas pela Corte estadual, não especificou como o acórdão recorrido teria violado a legislação federal invocada, inviabilizando a compreensão da controvérsia posta nos autos.
+Assim, incidem, por analogia, as Súmulas nºs 283 e 284/STF.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DECLARATÓRIA. INDENIZAÇÃO. DANOS MORAIS E MATERIAIS. ILEGITIMIDADE PASSIVA. TEORIA DA ASSERÇÃO. INICIAL. ANÁLISE. SÚMULA Nº 83/STJ. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 282/STF. FUNDAMENTAÇÃO. DEFICIÊNCIA. SÚMULAS NºS 283 E 284/STF. ART. 1.021, § 4º, CPC/2015. MULTA NÃO AUTOMÁTICA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Nos termos da jurisprudência do Superior Tribunal de Justiça, as condições da ação, aí incluída a legitimidade, devem ser aferidas com base na teoria da asserção, isto é, à luz das afirmações deduzidas na petição inicial. Súmula nº 83/STJ.
+3. Ausente o prequestionamento, até mesmo de modo implícito, dos dispositivos apontados como violados no recurso especial, incide, por analogia, o disposto na Súmula nº 282 do Supremo Tribunal Federal.
+4. As questões de ordem pública, embora passíveis de conhecimento de ofício nas instâncias ordinárias, não prescindem, no estreito âmbito do recurso especial, do requisito do prequestionamento.
+5. Na hipótese, apesar de apontar o malferimento à legislação federal, o apelo extremo foi incapaz de evidenciar as ofensas aos dispositivos legais invocados. Nesse contexto, a fundamentação recursal é absolutamente deficiente, o que atrai a incidência dos óbices contidos nas Súmulas nºs 283 e 284/STF.
+6. A Segunda Seção decidiu que a aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015 não é automática, pois não se trata de mera decorrência lógica da rejeição do agravo interno. Precedente.
+7. Agravo interno não provido."
+(AgInt no AREsp 1.818.651/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 14/2/2022, DJe de 22/2/2022 - grifou-se)
+Ante o exposto, reconsidero a decisão da Presidência de e-STJ fls. 238/239 e, em novo exame, conheço do agravo para não conhecer do recurso especial, julgando, ainda, prejudicado o pedido de tutela provisória.
+Na hipótese, não cabe a majoração dos honorários sucumbenciais prevista no art. 85, § 11, do Código de Processo Civil, pois o recurso tem origem em decisão interlocutória, sem a prévia fixação de honorários.
+Publique-se.
+Intimem-se.
+EMENTA
