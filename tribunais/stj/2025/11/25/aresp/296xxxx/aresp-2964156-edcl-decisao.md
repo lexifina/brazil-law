@@ -1,0 +1,26 @@
+DECISÃO
+ANTONIO SILVA e IRANI FINI SILVA opõem embargos de declaração à decisão de fls. 1.311-1.315, que conheceu do agravo para conhecer parcialmente do recurso especial e deu-lhe parcial provimento, para afastar a multa do art. 1.026, § 2º, do Código de Processo Civil, mantendo, quanto ao mérito, o óbice da Súmula n. 7 do STJ em relação à alegada violação ao art. 1.238 do Código Civil.
+Em suas razões, a embargante sustenta que a decisão é omissa, pois não teria enfrentado a tese de revaloração jurídica de fato incontroverso, consistente em que o autor da usucapião, na qualidade de inventariante, vendeu o imóvel aos embargantes, o que seria incompatível com a posse com animus domini.
+Alega também que há contradição, porque, ao afastar a multa com base na Súmula n. 98 do STJ, reconheceu o propósito de prequestionamento, mas, ao mesmo tempo, aplicou a Súmula n. 7 do STJ e deixou de apreciar matéria de direito.
+Afirma que visa ao prequestionamento dos arts. 1.022, 139, I, 371, 428, II, do Código de Processo Civil, e 1.238 do Código Civil.
+Requer o acolhimento dos embargos para afastar o óbice da Súmula n. 7 do STJ e prosseguir na análise do mérito do recurso especial, reconhecendo violação ao art. 1.238 do Código Civil, com a improcedência da ação de usucapião e inversão dos ônus sucumbenciais.
+As contrarrazões aos embargos foram apresentadas às fls. 1.327-1.333, em que pleiteia a multa do art. 1.026, § 2º, do CPC, além da majoração dos honorários recursais.
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a aclarar obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado.
+No presente caso, a parte aponta omissão, ao argumento de que a decisão não teria apreciado a tese de revaloração jurídica de fato incontroverso, referente à venda do imóvel pelo autor da usucapião, na qualidade de inventariante, e à incompatibilidade desse ato com o animus domini.
+Na decisão de fls. 1.311-1.315, consta que a controvérsia sobre o art. 1.238 do Código Civil foi resolvida pela aplicação da Súmula n. 7 do STJ, porque a Corte estadual concluiu pela posse mansa e pacífica do recorrido com base em provas testemunhais e documentos, de modo que a alteração desse entendimento demandaria reexame do acervo probatório (fl. 1.314).
+Assim, não há omissão a ser sanada.
+No que se refere à alegada contradição quanto ao afastamento da multa do art. 1.026, § 2º, do Código de Processo Civil e à simultânea aplicação da Súmula n. 7 do STJ para obstar o mérito, não há como acolher os embargos.
+Conforme consta na decisão impugnada, foram reconhecidos os embargos na origem com "notório propósito de prequestionamento", aplicando-se a Súmula n. 98 do STJ para afastar a multa (fl. 1.315), sem que isso importe, automaticamente, o exame do mérito vedado pela Súmula n. 7.
+Observe-se (fl. 1.315):
+Embargos de declaração manifestados com notório propósito de prequestionamento não têm caráter protelatório.
+Desse modo, não há contradição que enseje o acolhimento dos embargos.
+A propósito, segundo orientação firmada pela Corte Especial do STJ, o recurso aclaratório possui finalidade integrativa e, portanto, não se presta à reforma do entendimento aplicado ou ao rejulgamento da causa (EDcl no AgRg no RE nos EDcl no AgRg nos EDcl no AREsp n. 1.571.819/RJ, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 25/8/2020, DJe de 28/8/2020).
+Dessa forma, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação do STJ foi analisada, não padecendo a decisão recorrida de vícios que autorizariam sua oposição (obscuridade, contradição, omissão e erro material).
+Quanto ao pedido de aplicação da multa do art. 1.026, § 2º, do CPC, formulado na impugnação aos embargos de declaração, registre-se que a simples oposição de embargos, ainda que não configurada nenhuma das hipóteses de cabimento, não enseja a incidência da penalidade quando não há a intenção protelatória (EDcl no AgInt nos EAREsp n. 2.157.279/RS, relator Ministro Marco Aurélio Bellizze, Segunda Seção, julgados em 14/11/2023, DJe de 17/11/2023).
+No caso, apesar da rejeição dos embargos de declaração, não está configurado, por ora, o intuito protelatório, razão pela qual é incabível a aplicação de multa.
+No que se refere ao pedido de majoração dos honorários recursais em razão do julgamento destes embargos de declaração, cumpre destacar que a interposição de agravo interno não inaugura instância, razão pela qual é inviável a majoração de honorários no julgamento de agravo interno e de embargos de declaração oferecidos pela parte cujo recurso não ultrapassou a fase de conhecimento ou foi desprovido (EDcl no AgInt no AREsp n. 437.263/MS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgados em 3/4/2018, DJe de 10/4/2018; e AgInt no AREsp n. 1.223.865/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/3/2018, DJe de 3/4/2018).
+Ante o exposto, rejeito os embargos de declaração.
+Advirto a parte de que a reiteração de embargos de declaração sobre a mesma matéria poderá ser considerada manifestamente protelatória, com imposição da multa de 2% sobre o valor atualizado da causa (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
+EMENTA
