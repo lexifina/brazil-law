@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por FUNDAÇÃO DOS ECONOMIÁRIOS FEDERAIS (FUNCEF) contra a decisão que inadmitiu o recurso especial com fundamento na incidência da Súmula n. 283 do STF, por não ter sido realizado o cotejo analítico e pela ausência de juntada do inteiro teor dos acórdãos paradigmas (fls. 1994-1999), por não ter sido demonstrada a similitude fática entre o acórdão recorrido e o acórdão paradigma, prejudicada a análise da divergência jurisprudencial (fls. 1994-1999).
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial foi interposto com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal Regional Federal da 4ª Região em apelação cível nos autos de ação ordinária.
+O julgado foi assim ementado (fls. 1682-1683).
+APOSENTADORIA COMPLEMENTAR. BASE DE CÁLCULO. CTVA. RESERVA MATEMÁTICA. AUSÊNCIA DE PREVISÃO CONTRATUAL. EQUILÍBRIO ATUARIAL. TERMO DE ADESÃO AO NOVO PLANO.
+1. Segundo entendimento  rmado na 2ª Seção deste Tribunal, a extensão de vantagens pecuniárias, de forma direta e automática, aos proventos de complementação de aposentadoria, independentemente de previsão de custeio para o respectivo plano de benefícios, não é compatível com o princípio do mutualismo inerente ao regime fechado de previdência privada. Assim, ausente previsão contratual de inclusão da rubrica CTVA - Complemento Transitório Variável de Ajuste na base de cálculo da contribuição para o plano de previdência complementar (custeio), a determinação de pagamento causaria desequilíbrio  nanceiro e atuarial no plano de benefícios, em prejuízo de toda a coletividade de participantes e assistidos.
+2. Ademais, comprovada a adesão voluntária ao Novo Plano, de natureza facultativa, com renúncia expressa aos direitos previstos no regramento anterior e quitação plena de eventuais diferenças, resta caracterizada a transação extrajudicial, qual somente poderia ser anulada mediante a comprovação de dolo, coação, ou erro essencial quanto à pessoa ou coisa controversa, a teor do disposto no art. 849 do CC/2002, o que não é o caso dos autos.
+Os embargos de declaração opostos foram decididos nestes termos (fls. 1741-1742):
+QUESTÃO DE ORDEM. ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO. AÇÃO PROPOSTA CONTRA A CEF E A FUNCEF . PEDIDO QUE NÃO SE RESTRINGE À ANÁLISE DAS REGRAS DA PREVIDÊNCIA COMPLEMENTAR. VERBAS DE NATUREZA SALARIAL. COMPETÊNCIA DA JUSTIÇA DO TRABALHO.
+1. A lide envolve a discussão quanto à de nição da natureza salarial da verba que compõem a remuneração do empregado, com re exos na complementação da aposentadoria.
+2. A causa de pedir principal engloba a de nição da natureza das verbas que compõem a remuneração do empregado, com re exos na complementação da aposentadoria, mediante o reconhecimento que rubrica integra a base de cálculo para a contribuição do plano do autor, de forma que a solução não se restringe à interpretação das regras da previdência complementar.
+3. A pretensão envolve essencialmente uma relação jurídica prévia, sendo a matéria afeta à relação de emprego, ainda que acarrete re exos no valor dos benefícios de responsabilidade da entidade de previdência privada.
+4. Ante a natureza eminentemente trabalhista da causa de pedir e dos pedidos em relação à empregadora, resta con gurada a competência da Justiça do Trabalho para conhecer e julgar a demanda.
+5. Solvida questão de ordem a  m de cassar o acórdão embargado e declarar de ofício a incompetência absoluta da Justiça Federal para conhecer e julgar a presente ação, com remessa à Justiça do Trabalho.
+Os embargos de declaração opostos foram rejeitados às fls. 1781-1782.
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação dos seguintes artigos:
+a) 113 do Código Civil, porque a interpretação conforme a boa-fé e o pacta sunt servanda impede a inclusão da CTVA quando ausente previsão no regulamento do plano;
+b) 4º do CPC/2015, pois a remessa dos autos à Justiça do Trabalho afronta a celeridade processual e a duração razoável do processo;
+c) 16, § 2, 18 da Lei Complementar n. 109/2001, porquanto a inscrição é facultativa e há necessidade de prévio custeio, vedando a inclusão de verbas sem custeio prévio no salário de participação;
+d) 6º da Lei Complementar n. 108/2001, visto que é vedado ao patrocinador assumir encargos adicionais além do plano de custeio, o que inviabiliza aporte relativo à CTVA sem previsão contratual.
+Sustenta que o Tribunal de origem divergiu da orientação do Superior Tribunal de Justiça quanto à competência da Justiça comum nas demandas de previdência complementar sem controvérsia trabalhista antecedente, indicando precedentes desta Corte que afirmam a competência do juízo comum em hipóteses semelhantes (fls. 1884-1885).
+Requer o provimento do recurso para reformar o acórdão recorrido para que se mantenham os autos na Justiça Federal e se afirme a impossibilidade de inclusão da CTVA na base de cálculo do plano sem prévio custeio.
+É o relatório. Decido.
+Cuida-se de ação proposta por DANIELLA LOPES DE MATOS em face da FUNDAÇÃO DOS ECONOMIÁRIOS FEDERAIS - FUNCEF e da CAIXA ECONÔMICA FEDERAL - CEF, objetivando a inclusão da rubrica CTVA na base de cálculo da contribuição para o plano de previdência complementar, com a consequente revisão do benefício.
+Em um primeiro momento, o Tribunal Regional Federal da 4ª Região negou provimento à apelação da autora, assentando a incompatibilidade da extensão automática da verba CTVA à complementação de aposentadoria sem previsão de custeio, em razão do princípio do mutualismo, a ausência de previsão contratual da rubrica no salário de contribuição e a validade da adesão voluntária ao Novo Plano, com renúncia expressa a direitos anteriores e quitação plena, reputando configurada transação extrajudicial não infirmada por vício de consentimento.
+Posteriormente, em embargos de declaração, a Turma suscitou questão de ordem para, com base na natureza da causa de pedir (discussão sobre a natureza salarial da CTVA recebida da empregadora, com reflexos no plano de previdência), reconhecer a incompetência absoluta da Justiça Federal, aplicando por analogia a Súmula n. 170 do STJ e remeter os autos à Justiça do Trabalho.
+Passo ao exame dos óbices ao conhecimento do recurso especial.
+O recurso não merece prosperar.
+I - Art. 113 do Código Civil, arts. 16 § 2º, 18 da Lei Complementar n. 109/2001, art. 6º da Lei Complementar n. 108/2001 e art. 4º do CPC
+Os artigos invocados não foram prequestionados no acórdão válido, uma vez que a discussão sobre eles ocorreu apenas na decisão posteriormente cassada, o que não satisfaz o requisito do prequestionamento para a interposição de recurso especial.
+Verifica-se, portanto, que tais dispositivos não foram objeto de análise pelo Tribunal de origem, atraindo o óbice da falta de prequestionamento e a incidência da Súmula n. 282 do STF, segundo a qual é inadmissível o recurso quando a questão federal suscitada não foi apreciada pela decisão recorrida, bem como da Súmula n. 211 do STJ, que dispõe ser inviável o recurso especial quanto à matéria não enfrentada pelo acórdão recorrido.
+Ademais, ainda que superado tal óbice, os artigos indicados não guardam pertinência com os fundamentos apresentados, o que conduz à aplicação da Súmula n. 284 do STF, diante da deficiência na fundamentação recursal. O STJ entende que o prequestionamento pressupõe efetivo debate e apreciação pelo acórdão recorrido, ainda que não haja menção expressa aos dispositivos invocados.
+Conclui-se, portanto, pela incidência conjunta dos óbices das Súmulas n. 282 e 284 do STF e n. 211 do STJ, o que impede o conhecimento do recurso especial.
+II - Dissídio jurisprudencial
+Uma vez reconhecido o óbice ao conhecimento do recurso especial pela alínea a do inciso III do art. 105 da Constituição Federal, não há como se examinar a alegada violação pela alínea c, uma vez que o não preenchimento dos pressupostos constitucionais de admissibilidade inviabiliza igualmente a análise da divergência jurisprudencial apontada.
+III - Conclusão
+Ante o exposto, nego provimento ao agravo.
+Deixo de majorar os honorários sucumbência ante a inexistência de prévia fixação pela instância de origem.
+Publique-se. Intimem-se.
+ EMENTA
