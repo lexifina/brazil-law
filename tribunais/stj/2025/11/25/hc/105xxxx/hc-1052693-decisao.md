@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de ROBSON TEIXEIRA MARQUES, condenado pelo crime de homicídio qualificado e corrupção de menores (Processo n. 0009565-31.2015.8.08.0012, da 4ª Vara Criminal da comarca de Cariacica/ES).
+O impetrante aponta como autoridade coatora a Primeira Câmara Criminal do Tribunal de Justiça do Espírito Santo, cujo acórdão, em 1º/10/2024, conheceu e deu parcial provimento aos recursos, mantendo a pena-base do homicídio e reconhecendo o concurso formal nos crimes de corrupção de menores, com penas finais, para o paciente, de 26 anos, 3 meses e 18 dias de reclusão (fls. 7/45).
+Alega constrangimento ilegal na exasperação da pena-base do crime de homicídio, afirmando ausência de insuficiência de fundamentação para adoção de fração mais gravosa para negativar três circunstâncias judiciais (fls. 3/4).
+Postula, ao final, seja concedida a ordem de habeas corpus, em favor de ROBSON TEIXEIRA MARQUES, para reformar o r. Acórdão, a fim de que, seja aplicada a fração de 1/6 (um sexto) da pena mínima, para cada circunstância negativa na exasperação da pena-base, tendo em vista ser critério estabelecido pelo Superior Tribunal de Justiça mais favorável ao paciente (fl. 5).
+É o relatório.
+O writ é inadmissível.
+O ato apontado como coator é acórdão colegiado de apelação criminal (fls 7/45), e a impetração veicula matéria típica de recurso especial - revisão do critério de exasperação da pena-base -, sem demonstração de flagrante ilegalidade, teratologia ou abuso de poder. O remédio constitucional não se presta a substituir a via recursal adequada, notadamente quando a questão suscitada demanda revisão de dosimetria fixada com base em elementos concretos apreciados pelas instâncias ordinárias, sob pena de indevida subversão do sistema recursal.
+Além disso, o acórdão enfrentou de modo expresso os fundamentos da pena-base e a proporcionalidade dos aumentos, destacando a premeditação, a violência exacerbada e a utilização de qualificadoras remanescentes como vetores judiciais negativos (fls. 25/26 e 42), com referências específicas às provas em consonância com a jurisprudência dominante neste Superior Tribunal de Justiça, pois a dosimetria da pena está inserida no âmbito de discricionariedade regrada do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos em situações excepcionais, quando malferida alguma regra de direito.
+Tal o contexto, obter conclusão inversa do acórdão atacado incorreria em indesejável revolvimento de fatos e provas, além de não evidenciar ilegalidade manifesta de pronta correção pela via estreita do habeas corpus.
+Indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO E CORRUPÇÃO DE MENORES. SUBSTITUTIVO DE RECURSO ESPECIAL. INADEQUAÇÃO DA VIA ELEITA. DOSIMETRIA DA PENA. EXASPERAÇÃO DA PENA-BASE. CRITÉRIO DE FRAÇÃO DE 1/6. DISCRICIONARIEDADE REGRADA DO JULGADOR. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
