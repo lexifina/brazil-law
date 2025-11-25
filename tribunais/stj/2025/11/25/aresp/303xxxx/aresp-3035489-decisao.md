@@ -1,0 +1,50 @@
+DECISÃO
+Cuida-se de Agravo apresentado por CERVEJARIA TRES LOBOS LTDA EM RECUPERACAO JUDICIAL à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+APELAÇÃO CÍVEL - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS - PRODUTO IMPRÓPRIO PARA CONSUMO - CONTAMINAÇÃO POR SUBSTÂNCIAS TÓXICAS PARA HUMANOS - DANO MORAL - CONFIGURAÇÃO - INDENIZAÇÃO DEVIDA - DANO MATERIAL - COMPROVAÇÃO - RESSARCIMENTO DEVIDO.
+- A AQUISIÇÃO DE PRODUTO DE GÊNERO ALIMENTÍCIO CONTENDO EM SEU INTERIOR SUBSTÂNCIAS TÓXICAS PARA HUMANOS, EXPÕE A PARTE ADQUIRENTE A RISCO CONCRETO DE LESÃO À SUA SAÚDE, SEGURANÇA E À PRÓPRIA VIDA, BEM COMO DÁ DIREITO À COMPENSAÇÃO POR DANO MORAL, DADA A OFENSA AO DIREITO FUNDAMENTAL À ALIMENTAÇÃO ADEQUADA, COROLÁRIO DO PRINCÍPIO DA DIGNIDADE DA PESSOA HUMANA.
+- O DANO MORAL DECORRE DA QUEBRA DE CONFIANÇA EM PRODUTO DE MARCA CONHECIDA, E DO SENTIMENTO DE VULNERABILIDADE E IMPOTÊNCIA DIANTE DA AQUISIÇÃO DE PRODUTO DE GÊNERO ALIMENTÍCIO INADEQUADO PARA O CONSUMO.
+- O VALOR DA INDENIZAÇÃO POR DANO MORAL DEVE ATENDER AOS PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE, UMA VEZ QUE NÃO PODEM SER ÍNFIMOS NEM DAR ENSEJO AO ENRIQUECIMENTO SEM CAUSA.
+- DEVE SER MANTIDO O VALOR DA INDENIZAÇÃO PELO DANO MORAL QUANDO A QUANTIA ARBITRADA ESTÁ AQUÉM DO MONTANTE FIXADO EM CASO SEMELHANTE.
+- COMPROVADO O PREJUÍZO MATERIAL SOFRIDO EM RAZÃO DE ACIDENTE DE CONSUMO, A PARTE CONSUMIDORA TEM DIREITO AO RESSARCIMENTO DA QUANTIA DESPENDIDA (fl. 664).
+Quanto à primeira controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação ao art. 373, I, do CPC, no que concerne à necessidade de reconhecimento da obrigação de o autor comprovar o nexo causal para a responsabilização civil, em razão da ausência de indicação do lote da cerveja consumida e da impossibilidade de prova de fato negativo pela ora recorrente, trazendo a seguinte argumentação:
+O direito não é baseado em suposições, mas em provas concretas sobre o alegado. A perícia realizada não foi capaz de determinar, de forma segura, a origem do quadro clínico da Recorrida, fato este também incontroverso e destacado em sentença, pelo que a condenação está baseada em meras suposições.
+Com isso, de maneira velada, houve a inversão do ônus da prova já que, não tendo a Recorrida demonstrado qual o lote consumido da cerveja Belorizontina, somado à impossibilidade de se determinar taxativamente a origem de seu quadro clínico, houve condenação com suporte em meras suspeitas.
+ ..
+Assim, cabia à Recorrida comprovar o lote da cerveja Belorizontina por si consumida, sendo impossível que a Recorrente prove que não se trata de bebida contaminada se aquela sequer indicou o lote.
+
+Em momento algum, no curso processual, foi imposto à Recorrente a prova de que a cerveja consumida pela Recorrida não se tratava de bebida contaminada.
+
+Tal prova seria, aliás, como já dito, de ônus excessivo, mormente com a justificativa do TJMG de que cabia à Recorrente comprovar que a cerveja consumida pela Recorrida não faz parte de lote contaminado quando, repita-se, esta nunca informou o lote adquirido.
+
+Portanto, sem que houvesse a inversão do ônus da prova, houve violação expressa ao contido no artigo 373, inciso I, do Código de Processo Civil, eis que a Recorrida é quem deveria comprovar o lote da cerveja Belorizontina consumida, bem como que este está inserido no rol dos lotes contaminados divulgado pelo Ministério da Agricultura e Pecuária (MAPA) de modo a demonstrar o nexo causal entre o consumo e sua enfermidade. (fls. 718-721).
+Quanto à segunda controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz negativa de aplicação adequada das regras sobre multa por embargos de declaração, no que concerne à necessidade de afastamento da multa aplicada por protelatoriedade, em razão de embargos voltados ao pré-questionamento de matéria e à discussão de vício no julgado.
+É o relatório.
+Decido.
+Quanto à primeira controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Com razão, porquanto, da análise do "Relatório de Ações: Cervejaria Backer", realizado pelo Ministério da Agricultura, Pecuária e Abastecimento (https://www. gov. br/agricultura/pt-br/assuntos/noticias/mapa-divulga-relatorio-final-das-acoes-na-cervejaria-backer), que é público e disponibilizado da rede mundial de computadores, é possível verificar que foi constatada a presença de glicol em diversos lotes de cerveja da parte requerida.
+ ..
+Registro, portanto, que basta a presença das substâncias mono e dietilenoglicol no alimento para colocar em risco a saúde e segurança do consumidor.
+No quadro de análises qualitativas e quantitativas de mono e dietilenoglicol nos lotes de cerveja da parte requerida, realizado pelo Ministério da Agricultura, Pecuária e Abastecimento, verifica-se que a parte autora, embora não tenha juntado o lote da cerveja consumida, juntou a nota fiscal comprovando a aquisição da cerveja "Belorizontina", e, lado outro, a parte ré não demonstrou que ela não corresponde ao lote contaminado, o que poderia ser facilmente por ela comprovado.
+Diante disso, como a parte ré não se desincumbiu desse ônus probatório que lhe competia, nos termos do art.373, II, do CPC, considerando as demais provas constantes nos autos, não é possível afastar a tese autoral de que a cerveja consumida pela parte autora é de um dos lotes contaminados.
+Isso, porque, no laudo pericial de ID9724185300, o perito concluiu que o quadro clínico gastrointestinal da parte autora iniciou dois dias após o consumo das cervejas (10/11/2019), com piora progressiva a partir de 16/11/2019, inclusive com repercussão respiratória, o que justificou a ocorrência de dispneia:
+ ..
+Diante disso, entendo que restou demonstrada a falha na fabricação e comercialização do produto adquirido pela parte autora.
+Como sabido, a responsabilidade do fabricante é objetiva.
+Desse modo, constatado o fato que gerou o dano proveniente da relação de consumo, caberá ao responsável a sua reparação, não havendo necessidade de o consumidor apresentar prova da culpa.
+Trata-se da aplicação da teoria do risco do negócio.
+Para essa teoria, toda pessoa que exerce alguma atividade cria um risco de dano para terceiros, devendo ser obrigado a repará-lo, caso ocorra, mesmo que sua conduta seja isenta de culpa.
+Com isso, o CDC visa proteger, de forma privilegiada, a parte mais fraca da relação de consumo.
+Por força disso, o fabricante responde, independentemente de culpa, por qualquer dano causado ao consumidor (fls. 668-672).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o reexame da premissa fixada pelo acórdão recorrido quanto ao ônus probatório das partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em Recurso Especial.
+Nesse sentido, o STJ já decidiu que "a análise sobre a verificação da distribuição do ônus probatório das partes pressupõe o reexame dos elementos fático-probatórios contidos nos autos, inclusive com o cotejamento de peças processuais, o que é inviável em sede de recurso especial, tendo em vista o óbice da Súmula 7/STJ" (AgInt no AREsp n. 2.490.617/PE, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 13/6/2024).
+Confiram-se ainda os seguintes julgados: AgInt no AREsp n. 2.575.962/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 22/11/2024; REsp n. 2.164.369/CE, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 8/11/2024; AgInt no AREsp n. 2.653.386/BA, relator Ministro Raul Araújo, Quarta Turma, DJe de 21/10/2024; AgInt no REsp n. 2.019.364/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 29/8/2024; EDcl no AgInt no AREsp n. 1.993.580/SP, relator Ministro Afrânio Vilela, Segunda Turma, DJe de 2/5/2024; AgInt no AREsp n. 1.867.210/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 13/10/2021.
+Quanto à segunda controvérsia, incide a Súmula n. 284/STF, tendo em vista que a parte recorrente deixou de indicar precisamente os dispositivos legais que teriam sido violados, ressaltando que a mera citação de artigo de lei na peça recursal não supre a exigência constitucional.
+Aplicável, por conseguinte, o enunciado da citada Súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: "A ausência de expressa indicação de artigos de lei violados inviabiliza o conhecimento do recurso especial, não bastando a mera menção a dispositivos legais ou a narrativa acerca da legislação federal, aplicando-se o disposto na Súmula n. 284 do STF". (AgInt no AREsp n. 1.684.101/MA, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 26.8.2020.)
+Na mesma linha: "Considera-se deficiente de fundamentação o recurso especial que não indica os dispositivos legais supostamente violados pelo acórdão recorrido, circunstância que atrai a incidência, por analogia, do enunciado nº 284 da Súmula do Supremo Tribunal Federal" (REsp n. 2.187.030/RS, Rel. ;Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 5/3/2025).
+Confiram-se ainda os seguintes julgados: ;AgInt no AREsp n. 2.663.353/SP, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJEN de 28/2/2025; AgInt no AREsp n. 1.075.326/SP, Rel. Ministro Paulo Sérgio Domingues, Primeira Turma, DJEN de 27/2/2025; AgRg no REsp n. 2.059.739/MG, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, DJEN de 24/2/2025; AgRg no AREsp n. 2.787.353/SP, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 17/2/2025; AgInt no AREsp n. 2.554.367/RS, Rel. Ministro Marco Aurélio Bellizze, Segunda Turma, DJEN de 23/12/2024; AgInt no AREsp n. 2.699.006/MS, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 20/12/2024.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
