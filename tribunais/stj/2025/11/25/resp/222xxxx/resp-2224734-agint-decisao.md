@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interno interposto contra decisão assim ementada (fl. 567e):
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. FALHA NA PRESTAÇÃO DE SERVIÇO. CONTA VINCULADA AO PASEP. PRAZO PRESCRICIONAL. TERMO INICIAL. CIÊNCIA INEQUÍVOCA DOS DESFALQUES (TEMA 1.150/STJ). IMPOSSIBILIDADE DE REVISÃO. SÚMULA 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+O agravante sustenta, em síntese, que a decisão agravada incorreu em equívoco ao deixar de reconhecer a violação ao art. 189 do Código Civil e ao Tema 1.150/STJ, praticada pelo Tribunal de origem, que teria presumido a ciência do titular com o saque dos valores mantidos em sua conta individual, em vez de exigir a comprovação efetiva dos desfalques.
+Aduz tratar-se, na espécie, de revaloração jurídica de fatos incontroversos, e não de reexame do conjunto fático-probatório, afastando, assim, a aplicação da Súmula 7/STJ.
+Sem impugnação.
+É o relatório. Passo a decidir.
+Verifica-se que, nos presentes autos, há discussão acerca de questão de direito afetada pela Primeira Seção do Superior Tribunal de Justiça como representativa da controvérsia, a ser julgada sob o rito dos recursos especiais repetitivos, nos termos dos arts. 1.036 e 1.037 do CPC/2015.
+As decisões de afetação nos autos do REsp 2.214.879/PE e REsp 2.214.864/PE, de relatoria da Ministra Maria Thereza de Assis Moura, delimitaram o Tema 1.387 da seguinte forma: "Definir se o saque integral dá início ao prazo prescricional da pretensão de reparação por falha na prestação do serviço, por saques indevidos, por desfalques, ou por ausência de aplicação dos rendimentos estabelecidos em conta individualizada do PASEP".
+Na oportunidade, houve a determinação de suspensão do processamento de todos os processos pendentes, individuais ou coletivos, que versem sobre a questão e tramitem no território nacional.
+Desse modo, encontrando-se o tema afetado à sistemática dos recursos especiais repetitivos, esta Corte orienta que os recursos que tratam da mesma controvérsia devem aguardar o julgamento do paradigma representativo sobrestados no Tribunal de origem, viabilizando, assim, o juízo de conformação, disciplinado pelos arts. 1.039 e 1.040 do CPC/2015.
+Nesse sentido: REsp 1.486.671/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 25/11/2014; AgRg no REsp 1.467.551/RS, Rel. Ministro Humberto Martins, Segunda Turma, DJe 9/9/2014.
+Ante o exposto, reconsidero a decisão agravada e julgo prejudicado o exame do presente recurso no presente momento processual e determino a devolução dos autos ao Tribunal a quo, com a respectiva baixa, para que, após a publicação do acórdão a ser proferido pelo Superior Tribunal de Justiça (Tema 1387/STJ), em observância aos artigos 1.039, 1.040, I e II, e 1.041 do CPC/2015: a) negue seguimento ao recurso, se a decisão recorrida coincidir com a orientação exarada pelo STJ; ou b) proceda ao juízo de retratação, na hipótese de o acórdão vergastado divergir da decisão sobre o tema.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. APLICABILIDADE DO CPC/2015. DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM. ART. 1.030, III, DO CPC/2015. JULGAMENTO DE TEMA AFETADO À SISTEMÁTICA DOS RECURSOS REPETITIVOS (TEMA 1387/STJ). DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM.
