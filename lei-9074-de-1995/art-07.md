@@ -1,4 +1,6 @@
 Art. 7º São objeto de autorização:
 I - a implantação de usinas termoelétricas de potência superior a 5.000 kW (cinco mil quilowatts) destinadas a uso exclusivo do autoprodutor e a produção independente de energia;
 II - o aproveitamento de potenciais hidráulicos de potência superior a 5.000 kW (cinco mil quilowatts) e igual ou inferior a 50.000 kW (cinquenta mil quilowatts) destinados a uso exclusivo do autoprodutor e a produção independente de energia.
-Parágrafo único. As usinas termelétricas referidas neste e nos arts. 5º e 6º não compreendem aquelas cuja fonte primária de energia é a nuclear.
+§ 1º As usinas termelétricas referidas neste e nos arts. 5º e 6º não compreendem aquelas cuja fonte primária de energia é a nuclear.
+§ 2º Usinas termelétricas a carvão, nacional ou importado, poderão antecipar seu descomissionamento, sem ônus, mediante solicitação à Aneel, que ficará responsável por operacionalizar a opção do agente termelétrico, desde que o requerimento seja apresentado com antecedência mínima de 6 (seis) meses da data pretendida para o descomissionamento ou para o início das obras de conversão.
+§ 3º Na hipótese de antecipação do descomissionamento conforme previsto no § 2º, se a usina termelétrica a carvão possuir contratos regulados vigentes, nos termos da Lei nº 10.848, de 15 de março de 2004, a Aneel deverá viabilizar o distrato dos referidos contratos, reconhecendo a exposição involuntária das distribuidoras se necessário.

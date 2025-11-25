@@ -16,5 +16,6 @@ XII - da defesa dos direitos e dos interesses dos povos indígenas.
 § 4º Além das hipóteses de que trata o caput deste artigo, é autorizada a destinação de recursos para:
 I - a disponibilização de linhas de financiamento a pessoas jurídicas e físicas localizadas em ente federativo em estado de calamidade pública, nos termos do art. 47-A desta Lei; e
 II - a gestão do Sistema Único de Assistência Social (Suas).
+III - (VETADO).
 § 5º Para fins desta Lei, as famílias elegíveis ao Programa Minha Casa, Minha Vida, instituído pela Lei nº 14.620, de 13 de julho de 2023, estão contempladas nos programas e projetos previstos no inciso IX do caput deste artigo.
 § 6º (VETADO).

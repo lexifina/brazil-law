@@ -1,1 +1,2 @@
 Art. 1º É instituída a Agência Nacional de Energia Elétrica - ANEEL, autarquia sob regime especial, vinculada ao Ministério de Minas e Energia, com sede e foro no Distrito Federal e prazo de duração indeterminado.
+Parágrafo único. A Aneel poderá instalar unidades administrativas regionais.

@@ -1,4 +1,4 @@
-Art. 12. É instituída a Taxa de Fiscalização de Serviços de Energia Elétrica, que será anual, diferenciada em função da modalidade e proporcional ao porte do serviço concedido, permitido ou autorizado, aí incluída a produção independente de energia elétrica e a autoprodução de energia.
+Art. 12. É instituída a Taxa de Fiscalização de Serviços de Energia Elétrica, que será anual, diferenciada em função da modalidade e proporcional ao porte do serviço concedido, permitido ou autorizado, aí incluída a produção independente de energia elétrica, a autoprodução de energia e a comercialização de energia.
 § 1º A taxa de fiscalização, equivalente a 0,4% (quatro décimos por cento) do valor do benefício econômico anual auferido pelo concessionário, permissionário ou autorizado, será determinada pelas seguintes fórmulas:
 I - TFg = P x Gu
 onde:
@@ -16,6 +16,11 @@ TFd = taxa de fiscalização da concessão de distribuição;
 Ed = energia anual faturada com o serviço concedido de distribuição, em megawatt/hora;
 FC = fator de carga médio anual das instalações de distribuição, vinculadas ao serviço concedido;
 Du = 0,4% (quatro décimos por cento) do valor unitário do benefício anual decorrente da exploração do serviço de distribuição.
+IV - TFc = MEV x Cu
+onde:
+TFc = taxa de fiscalização da autorizada de comercialização;
+MEV = montante anual de energia vendida ao consumidor final, em R$;
+Cu = 0,40% (quarenta centésimos por cento).
 § 2º Para determinação do valor do benefício econômico a que se refere o parágrafo anterior, considerar-se-á a tarifa fixada no respectivo contrato de concessão ou no ato de outorga da concessão, permissão ou autorização, quando se tratar de serviço público, ou no contrato de venda de energia, quando se tratar de produção independente.
 § 3º No caso de exploração para uso exclusivo, o benefício econômico será calculado com base na estipulação de um valor típico para a unidade de energia elétrica gerada.
 § 4º (VETADO).

@@ -13,7 +13,7 @@ V - estranhas ao objeto da concessão, permissão ou autorização, exceto nos c
 I - no atendimento a sistemas elétricos isolados;
 II - no atendimento ao seu mercado próprio, desde que seja inferior a 500 (quinhentos) GWh/ano e a totalidade da energia gerada seja a ele destinada;
 III - na captação, aplicação ou empréstimo de recursos financeiros destinados ao próprio agente ou a sociedade coligada, controlada, controladora ou vinculada a controladora comum, desde que destinados ao serviço público de energia elétrica, mediante anuência prévia da ANEEL, observado o disposto no inciso XIII do art. 3º da Lei nº 9.427, de 26 de dezembro de 1996, com redação dada pelo art. 17 da Lei nº 10.438, de 26 de abril de 2002, garantida a modicidade tarifária e atendido ao disposto na Lei nº 6.404, de 15 de dezembro de 1976.
-IV - no exercício como Supridor de Última Instância - SUI, conforme regulamento.
+IV - no exercício como Supridor de Última Instância - SUI, conforme ato do Poder Executivo.
 § 7º As concessionárias e as autorizadas de geração de energia elétrica que atuem no Sistema Interligado Nacional - SIN não poderão ser coligadas ou controladoras de sociedades que desenvolvam atividades de distribuição de energia elétrica no SIN.
 § 8º A regulamentação deverá prever sanções para o descumprimento do disposto nos §§ 5º, 6º e 7º deste artigo após o período estabelecido para a desverticalização.
 § 9º As concessões de geração de energia elétrica, contratadas a partir da Medida Provisória nº 144, de 11 de dezembro de 2003, terão o prazo necessário à amortização dos investimentos, limitado a 35 (trinta e cinco) anos, contado da data de assinatura do imprescindível contrato.

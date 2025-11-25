@@ -1,0 +1,1 @@
+Art. 4º-D. A partir da entrada em vigor deste artigo, a CCEE passará a ser denominada Câmara de Comercialização de Energia (CCEE), permanecendo válidas todas as disposições legais e infralegais anteriormente atribuídas à Câmara de Comercialização de Energia Elétrica.

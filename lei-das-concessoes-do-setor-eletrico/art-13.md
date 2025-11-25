@@ -1,3 +1,3 @@
-Art. 13. Na antecipação dos efeitos da prorrogação de que trata o art. 12, o poder concedente definirá, conforme regulamento, a tarifa ou receita inicial para os concessionários de geração, transmissão e distribuição.
-§ 1º A Aneel realizará revisão extraordinária das tarifas de uso dos sistemas de transmissão para contemplar a receita a que se refere o caput.
-§ 2º A Aneel procederá à revisão tarifária extraordinária das concessionárias de distribuição de energia elétrica, sem prejuízo do reajuste tarifário anual previsto nos contratos de concessão, para contemplar as tarifas a que se refere este artigo.
+Art. 13. Na antecipação dos efeitos da prorrogação de que trata o art. 12, o poder concedente definirá, conforme regulamento:
+I - a tarifa ou receita inicial para os concessionários de transmissão e distribuição;
+II - os pagamentos de quota anual à CDE e pela outorga para os empreendimentos de geração.

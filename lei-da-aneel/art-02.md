@@ -1,1 +1,1 @@
-Art. 2º A Agência Nacional de Energia Elétrica - ANEEL tem por finalidade regular e fiscalizar a produção, transmissão, distribuição e comercialização de energia elétrica, em conformidade com as políticas e diretrizes do governo federal.
+Art. 2º A Agência Nacional de Energia Elétrica - Aneel tem por finalidade regular e fiscalizar a produção, transmissão, distribuição, armazenamento e comercialização de energia elétrica, em conformidade com as políticas e diretrizes do governo federal.

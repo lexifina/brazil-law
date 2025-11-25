@@ -19,6 +19,7 @@ XIV - prover recursos para o custeio das isenções e do desconto de que tratam 
 XV - prover recursos para fins de modicidade tarifária no Ambiente de Contratação Regulada (ACR) por meio de créditos em favor das concessionárias e permissionárias de distribuição de energia elétrica;
 XVI - promover incentivo ao agrupamento de outorgas de que trata o art. 4º-E da Lei nº 9.074, de 7 de julho de 1995.
 XVIII - prover recursos para atendimento da subvenção econômica de que trata o § 16 deste artigo, destinada à modicidade tarifária relativa a consumidores atendidos por concessionárias do serviço público de distribuição de energia elétrica com mercado próprio anual inferior a 350 GWh (trezentos e cinquenta gigawatts-hora).
+XIX - (VETADO).
 § 1º Os recursos da CDE serão provenientes:
 I - das quotas anuais pagas por todos os agentes que comercializem energia com consumidor final, mediante encargo tarifário incluído nas tarifas de uso dos sistemas de transmissão ou de distribuição ou cobrado diretamente dos consumidores pela CCEE, conforme regulamento da Aneel;
 II - dos pagamentos anuais realizados a título de uso de bem público;
@@ -26,12 +27,15 @@ III - das multas aplicadas pela Aneel a concessionárias, a permissionárias e a
 IV - dos créditos da União de que tratam os arts. 17 e 18 da Lei nº 12.783, de 11 de janeiro de 2013.
 V - das quotas anuais pagas por concessionárias de geração de energia elétrica cuja obrigação esteja prevista nos respectivos contratos de concessão de que trata a lei resultante da conversão da Medida Provisória nº 1.031, de 23 de fevereiro de 2021;
 VI - (VETADO).
+IX - de pagamentos decorrentes do mecanismo concorrencial de que trata o art. 2º-F da Lei nº 13.203, de 8 de dezembro de 2015;
+X - de outros recursos destinados à modicidade tarifária, conforme regulamentação; e
+XI - do Encargo Complementar de Recursos para custeio das despesas definidas no inciso I do § 20 deste artigo.
 § 1º-A. É a União autorizada a destinar os recursos oriundos do pagamento de bonificação pela outorga de que trata o § 7º do art. 8º da Lei nº 12.783, de 11 de janeiro de 2013, à CDE, exclusivamente para cobertura dos usos de que tratam os incisos IX e X do caput deste artigo.
 § 1º-B. Os pagamentos de que tratam os incisos IX e X do caput são limitados à disponibilidade de recursos de que trata o § 1º-A, destinados a esse fim.
 § 1º-C. O ativo constituído de acordo com o inciso IX do caput é limitado à disponibilidade de recursos de que trata o § 1º-B, destinados a esse fim, vedados o repasse às quotas anuais e a utilização dos recursos de que trata o § 1º.
 § 1º-F. Aos recursos de que trata o § 1º deste artigo serão, excepcionalmente, acrescidos os recursos de que trata o art. 5º-B da Lei nº 9.991, de 24 de julho de 2000, conforme regulamento e sob a fiscalização da Aneel.
 § 1º-G. Fica a União autorizada a destinar recursos para a CDE, limitados a R$ 80.000.000,00 (oitenta milhões de reais), para o custeio de que trata o inciso XIV do caput deste artigo.
-§ 2º O montante a ser arrecadado em quotas anuais da CDE calculadas pela Aneel corresponderá à diferença entre as necessidades de recursos e a arrecadação proporcionada pelas demais fontes de que trata o § 1º.
+§ 2º O montante a ser arrecadado em quotas anuais da CDE calculadas pela Aneel corresponderá à diferença entre as necessidades de recursos e a arrecadação proporcionada pelas demais fontes de que trata o § 1º, observado o disposto nos §§ 18, 19 e 20.
 § 2º-A. O poder concedente deverá apresentar, conforme regulamento, até 31 de dezembro de 2017, plano de redução estrutural das despesas da CDE, devendo conter, no mínimo:
 I - proposta de rito orçamentário anual;
 II - limite de despesas anuais;
@@ -41,9 +45,9 @@ IV - instrumentos aplicáveis para que as despesas não superem o limite de cada
 § 3º-A. O disposto no § 3º aplica-se até 31 de dezembro de 2016.
 § 3º-B. A partir de 1º de janeiro de 2030, o rateio das quotas anuais da CDE deverá ser proporcional ao mercado consumidor de energia elétrica atendido pelos concessionários e pelos permissionários de distribuição e de transmissão, expresso em MWh.
 § 3º-C. De 1º de janeiro de 2017 até 31 de dezembro de 2029, a proporção do rateio das quotas anuais da CDE deverá ajustar-se gradual e uniformemente para atingir aquela prevista no § 3º-B.
-§ 3º-D. A partir de 1º de janeiro de 2030, o custo do encargo tarifário por MWh das quotas anuais da CDE pagas pelos consumidores atendidos em nível de tensão igual ou superior a 69 kV será 1/3 (um terço) daquele pago pelos consumidores atendidos em nível de tensão inferior a 2,3 kV.
-§ 3º-E. A partir de 1º de janeiro de 2030, o custo do encargo tarifário por MWh das quotas anuais da CDE pagas pelos consumidores atendidos em nível de tensão igual ou superior a 2,3 kV e inferior a 69 kV será 2/3 (dois terços) daquele pago pelos consumidores atendidos em nível de tensão inferior a 2,3 kV.
-§ 3º-F. De 1º de janeiro de 2017 até 31 de dezembro de 2029, o custo do encargo tarifário por MWh das quotas anuais da CDE deverá ajustar-se gradual e uniformemente para atingir as proporções previstas nos §§ 3º-D e 3º-E.
+§ 3º-D. A partir de 1º de janeiro de 2026, o custo do encargo tarifário por MWh das quotas anuais da CDE pagas pelos consumidores atendidos em nível de tensão igual ou superior a 69 kV será 50% (cinquenta por cento) daquele pago pelos consumidores atendidos em nível de tensão inferior a 2,3 kV.
+§ 3º-E. A partir de 1º de janeiro de 2026, o custo do encargo tarifário por MWh das quotas anuais da CDE pagas pelos consumidores atendidos em nível de tensão igual ou superior a 2,3 kV e inferior a 69 kV será 80% (oitenta por cento) daquele pago pelos consumidores atendidos em nível de tensão inferior a 2,3 kV.
+§ 3º-F. (Revogado).
 § 3º-G. A partir de 1º de janeiro de 2017, o consumidor beneficiado pela Tarifa Social de Energia Elétrica ficará isento do pagamento das quotas anuais da CDE.
 § 3º-H. Observado o disposto no § 3º-B deste artigo, o custo do encargo tarifário por megawatt-hora (MWh) das quotas anuais da CDE de que trata o inciso I do § 1º deste artigo deverá ser igual para os agentes localizados nos Estados de uma mesma região geográfica, a partir de 1º de janeiro de 2021.
 § 3º-I. A partir de 1º de janeiro de 2026, as famílias com renda mensal per capita superior a 1/2 (meio) e igual ou inferior a 1 (um) salário mínimo, desde que devidamente inscritas no Cadastro Único para Programas Sociais do Governo Federal (CadÚnico), terão isenção, em uma única unidade consumidora, do pagamento das quotas anuais da CDE para consumo mensal de até 120 kWh (cento e vinte quilowatts-hora).
@@ -68,3 +72,10 @@ II - deverá descontar, para cada beneficiário, o estoque de carvão mineral cu
 I - na verificação das diferenças tarifárias, serão consideradas as tarifas vigentes na data do processo tarifário da concessionária de serviço público de distribuição de energia elétrica com mercado próprio anual inferior a 350 GWh (trezentos e cinquenta gigawatts-hora);
 II - se houver mais de uma concessionária de serviço público de distribuição de energia elétrica em área adjacente e com mercado próprio anual superior a 700 GWh (setecentos gigawatts-hora) localizada na mesma unidade federativa, prevalecerá aquela com menor tarifa residencial; e
 III - a subvenção a que se refere o inciso XVIII do caput deste artigo será calculada no processo tarifário da concessionária de serviço público de distribuição de energia elétrica afetada.
+§ 18. A partir do Orçamento Anual da Conta de Desenvolvimento Energético de 2027, o valor total dos recursos arrecadados conforme os incisos I a V do § 1º será limitado à soma:
+I - do valor necessário para suportar anualmente o total das despesas referentes aos incisos I, II, III, XII, XIII e XVIII do caput, e ao art. 25 desta Lei; e
+II - do valor de cada uma das demais despesas consideradas no Orçamento Anual da CDE de 2025, atualizado pelo Índice Nacional de Preços ao Consumidor Amplo (IPCA), ou outro que o substituir.
+§ 19. Fica criado o Encargo de Complemento de Recursos para a Conta de Desenvolvimento Energético.
+§ 20. O encargo de que trata o § 19:
+I - será destinado a cobrir a diferença entre o valor orçado e o limite de que trata o inciso II do § 18 para o respectivo item de despesa; e
+II - terá seu pagamento operacionalizado por meio da redução de cada um dos benefícios custeados pela CDE na proporção de que trata o inciso I, conforme regulação da Aneel.
