@@ -1,0 +1,70 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS contra acórdão do Tribunal de Justiça estadual, que, nos autos do Agravo de Execução Penal nº 1.0000.24.233062-9/001, negou provimento ao recurso ministerial e manteve a decisão do Juízo da Execução que considerou como data-base para os benefícios da execução penal a data da prisão preventiva, ainda que interrompida por liberdade provisória, nos termos da seguinte ementa (e-STJ fl. 140):
+AGRAVO EM EXECUÇÃO - ALTERAÇÃO DA DATA-BASE - CABIMENTO - DATA DA PRIMEIRA PRISÃO - VIABILIDADE - CÔMPUTO DA PRISÃO CAUTELAR PARA PROGRESSÃO DE REGIME - CABIMENTO - 1. A data- base para marcar o termo inicial de novos benefícios da execução, em regra, deve ser a da última prisão do sentenciado. - 2. Em se tratando de execução que compreende uma única guia, a data-base para obtenção de benefícios deve corresponder à data da prisão provisória do sentenciado, computando-se o prazo da detração na apuração do requisito objetivo da progressão de regime. - 3. O período de prisão cautelar deve ser considerado na aferição do requisito objetivo para progressão de regime, para que não se configure excesso de execução. - 4. Deve ser descontado o período em que o sentenciado esteve solto, entre a concessão da liberdade provisória e o início de cumprimento da pena definitiva, para que se proceda ao cálculo do tempo de pena cumprida para a obtenção de benefícios na execução penal.
+A parte recorrente argumenta haver contrariedade aos arts. 42 do Código Penal e 387, § 2º, do Código de Processo Penal. Alega que, segundo entendimento predominante no Superior Tribunal de Justiça, o marco inicial da contagem do novo prazo aquisitivo do direito a eventuais benesses relativas à execução é o trânsito em julgado da sentença condenatória do delito praticado ou, então, a data da última prisão, sem prejuízo da detração do período de tempo em que o réu permaneceu preso provisoriamente.
+Assevera que, tratando-se de execução penal em que há uma única condenação, a data de eventual prisão provisória somente deve ser considerada como marco inicial para benefícios quando for ininterrupta, ou seja, quando o apenado permanecer preso provisoriamente de forma contínua até o trânsito em julgado da condenação, o que não ocorreu no caso dos autos.
+Sustenta que o instituto da detração penal prevista no artigo 387, § 2º, do Código de Processo Penal, não versa sobre fixação da data-base para a concessão de benefícios executórios, mas sim acerca da possibilidade de se estabelecer regime inicial menos severo em face da detração. Assim, conclui que a contagem da progressão de regime deve ser feita a partir da última data-base que corresponde à data da última prisão ininterrupta.
+O recurso foi admitido pela Corte de origem (e-STJ fls. 174-177).
+O Ministério Público Federal manifestou-se pelo provimento do recurso, nos termos da seguinte ementa (e-STJ fls. 187-191):
+Recurso especial. Execução Penal. I) Reeducando que, durante o curso da ação penal, teve a prisão preventiva revogada, sendo beneficiado com a liberdade provisória. II) Lapso temporal significativo entre a concessão da liberdade provisória e o início da execução definitiva. III) Tempo de prisão preventiva que deve ser conside- rado apenas para fins de detração penal. IV) A data da prisão preventiva (porque não ininter- rupta) não deve ser considerada como termo inicial para a obtenção de benefícios decorrentes da execução penal, mas sim a data da última prisão (prisão defini- tiva decorrente de sentença penal condenatória). V) Acórdão recorrido que dissentiu da jurisprudência. Parecer pelo provimento do recurso especial.
+É o relatório.
+Decido.
+O recurso é tempestivo e está com a representação processual correta. O recorrente indicou os permissivos constitucionais que embasam o recurso e o dispositivo de lei federal supostamente violado, demonstrando pertinência na fundamentação (não incidência da súmula n. 284 do STF).
+Observa-se, ainda, que o acórdão recorrido examinou expressamente a matéria arguida pelo recurso, cumprindo com a exigência do prequestionamento (não incidência da súmula 282 do STF), e apresentou fundamentos de cunho infraconstitucional (não incidência da súmula 126 do STJ), todos rebatidos nas razões recursais (não incidência da súmula 283 do STF).
+Acerca da controvérsia aqui trazida, assim se manifestou o Tribunal local (e-STJ fls. 141-147):
+ ..
+Em consulta ao Sistema Eletrônico de Execução Unificado (SEEU), verifica-se que o sentenciado cumpre pena total de 5 (cinco) anos, 8 (oito) meses e 17 (dezessete) dias de pena de reclusão, atualmente em regime fechado, pela prática do crime previsto no artigo 33, "caput", da Lei n. 11.343/06.
+A controvérsia, no caso em exame, cinge-se à definição da data base a ser considerada para a progressão de regime, bem como ao exame da possibilidade de se considerar o período em que o agente ficou preso provisoriamente no cálculo da pena cumprida para fins de progressão de regime.
+Considere-se que o sentenciado está em cumprimento de pena em razão de uma única condenação, não se observando a existência de causa alguma que interrompa o requisito objetivo necessário para a progressão de regime ou concessão do livramento condicional.
+Em ponderação, inexiste razão lógica ou jurídica para a desconsideração do período de prisão cautelar no cálculo de progressão de regime. Principalmente porque este lapso temporal deve ser considerado como pena efetivamente cumprida, nos exatos termos do artigo 42 do Código Penal
+ ..
+Se o tempo de prisão provisória é considerado como pena efetivamente cumprida, infere-se que deve, de igual forma, ser levado em conta no cálculo de progressão de regime, para que não se configure prejuízo ao sentenciado.
+ ..
+Caso se admitisse a desconsideração do período de prisão provisória na contagem do lapso necessário para a progressão de regime, isso implicaria agravamento da situação do réu que já fora beneficiado com a liberdade provisória.
+ ..
+Destaque-se, portanto, que o tempo de prisão provisória deve ser considerado não somente para fins de decréscimo do tempo de pena (detração), mas também para contagem do lapso necessário para obtenção de benefícios.
+ ..
+Em resumo do que se argumentou, tem-se que (i) por expressa determinação legal, o período de prisão provisória é considerado pena efetivamente cumprida; (ii) a prisão definitiva do sentenciado quando relativa ao mesmo e único delito, após o trânsito em julgado da sentença penal condenatória, não autoriza a desconsideração do período de prisão provisória para a obtenção de benefícios, por expressa previsão legal neste sentido; (iii) a data da prisão provisória deve ser considerada como data base.
+Nesse último ponto, fixada a data da primeira prisão como data base (09.12.2011), o período em que o sentenciado permaneceu preso provisoriamente deve ser detraído da pena definitiva antes que seja feito o cálculo da fração necessária à aquisição dos benefícios, e não decrescido da pena aplicada, para somente depois calcular a fração aplicável para verificação do alcance do requisito objetivo relativo ao lapso temporal.
+Impende consignar que o tempo em que o sentenciado esteve solto desde a concessão da liberdade provisória até o início do cumprimento da pena definitiva foi devidamente desconsiderado, porquanto fora lançada a interrupção do cumprimento da pena, conforme se infere a aba "eventos" do SEEU.
+Sendo assim, não tem razão o Ministério Público ao requerer que seja fixada como data base a data do cumprimento do último mandado de prisão.
+Extrai-se dos autos que o Recorrido foi preso provisoriamente em 09/12/2011, obtendo liberdade provisória em 17/09/2012, e somente voltou a ser preso, para o início do cumprimento da pena, em 27/04/2023.
+O TJMG entendeu que a data da primeira prisão provisória deveria ser a data-base para fins de progressão, desconsiderando que a prisão provisória não ocorreu de forma ininterrupta até o trânsito em julgado, havendo um lapso temporal significativo entre a concessão da liberdade provisória e o início da execução definitiva, o qual não pode ser contabilizado no atestado de pena, como argumentou o recorrente.
+Portanto, assiste razão ao recorrente ao sustentar que o tempo em que o sentenciado permaneceu preso provisoriamente durante a ação penal deve mesmo ser computado para efeito de detração da pena a ser cumprida (art. 42 do CP), mas a data da prisão preventiva, quando interrompida, não pode ser estabelecida como marco inicial para obtenção de benefícios executórios, pois se consideraria como pena cumprida um período em que o sentenciado, efetivamente, não cumpriu pena. Nessa hipótese, deve ser considerada como marco inicial a data da última prisão do apenado.
+A insurgência ministerial encontra guarida na jurisprudência desse STJ, firme no sentido de que o tempo de prisão provisória interrompida antes do início do cumprimento de pena definitiva deve ser considerado como pena cumprida apenas para fins de detração penal, na forma dos arts. 42 do CP e 387, § 2º, do CPP, mas não para fins de cálculo dos benefícios da execução penal (Cf. AgRg no REsp n. 2.155.199/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 6/5/2025, DJe de 9/5/2025).
+No mesmo sentido:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. EXECUÇÃO PENAL. DATA-BASE PARA CONCESSÃO DE BENEFÍCIOS. AGRAVO NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que denegou habeas corpus, mantendo a data da última prisão como data-base para concessão de benefícios na execução penal, mesmo com o agravante em livramento condicional.
+2. O agravante cumpria pena em livramento condicional quando foi preso em 14/2/2022, em decorrência de condenação superveniente, e alega que a data-base para novos benefícios deveria ser a data do último crime praticado, em 21/5/2014.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a data-base para concessão de benefícios na execução penal deve ser a data da última prisão ou a data do último crime praticado, após a unificação das penas.
+III. Razões de decidir
+4. A Terceira Seção do Superior Tribunal de Justiça pacificou o entendimento de que a unificação das penas não altera a data-base para concessão de novos benefícios, devendo ser considerada a data da última prisão ou da última infração disciplinar.
+5. No caso em análise, a última prisão do agravante ocorreu em 14/2/2022, sendo esta a data-base correta para a concessão de benefícios, conforme jurisprudência consolidada.
+6. A decisão agravada foi mantida por seus próprios fundamentos, não havendo argumentos novos que justifiquem a alteração do entendimento.
+IV. Dispositivo e tese
+7. Agravo regimental não provido.
+Tese de julgamento: "1. A data-base para concessão de benefícios na execução penal deve ser a data da última prisão ou da última infração disciplinar, mesmo após a unificação das penas. 2. A unificação das penas, por si só, não altera a data-base para concessão de novos benefícios".
+(AgRg no HC n. 784.692/MS, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 26/3/2025, DJEN de 2/4/2025.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. DATA-BASE PARA CONCESSÃO DE BENEFÍCIOS EXECUTÓRIOS. PRISÃO PREVENTIVA SEGUIDA DE LIBERDADE PROVISÓRIA. IMPOSSIBILIDADE DE CONSIDERAÇÃO COMO TERMO INICIAL. RECURSO DESPROVIDO.
+I. CASO EM
+EXAME 1. Agravo regimental interposto contra a decisão monocrática da Presidência do Superior Tribunal de Justiça que indeferiu liminarmente habeas corpus sob o fundamento de que o ato coator estava em conformidade com a jurisprudência do STJ. A defesa sustenta que a data da prisão preventiva (7/4/2017), ocorrida no contexto de prisão em flagrante, deve ser considerada como marco inicial para a concessão de benefícios executórios, independentemente da posterior soltura e instalação de tornozeleira eletrônica.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em determinar se a data da prisão preventiva deve ser considerada como termo inicial para a obtenção de benefícios executórios, mesmo após o acusado ter sido solto provisoriamente e submetido a monitoração eletrônica.
+III. RAZÕES DE DECIDIR
+3. A jurisprudência do Superior Tribunal de Justiça estabelece que a data- base para a progressão de regime deve ser a da última prisão efetiva, e não a da prisão preventiva inicial, quando o acusado foi posteriormente beneficiado com liberdade provisória.
+4. O entendimento das Turmas do STJ é firme no sentido de que considerar a data da prisão preventiva como termo inicial para benefícios executórios, em casos de soltura durante o curso do processo, implicaria em considerar como pena cumprida o período em que o réu esteve em liberdade provisória.
+5. A reiteração de pedidos de habeas corpus não é admitida quando a matéria já foi objeto de análise anterior pelo STJ.
+IV. DISPOSITIVO E TESE
+6. Recurso desprovido.
+Tese de julgamento: A data-base para a concessão de benefícios executórios deve ser a da última prisão ininterrupta, sendo que o período anterior à condenação em que o réu esteve preso preventivamente será computado para fins de detração penal, sem considerar como marco inicial o período em que o acusado esteve em liberdade provisória.
+Dispositivos relevantes citados: CPP, art. 387, § 2º.
+Jurisprudência relevante citada: STJ, AgRg no HC n. 717.953/MS, Rel. Min.
+Ribeiro Dantas, Quinta Turma, DJe 30/8/2022; STJ, AgRg no REsp n. 1.928.917/GO, Rel. Min. Laurita Vaz, Sexta Turma, DJe 20/4/2023;
+STJ, AgRg no HC n. 814.743/SC, Rel. Min. Jesuíno Rissato, Sexta Turma, DJe 30/8/2023; STJ, AgRg no HC n. 888.141/SC, Rel. Min. Teodoro Silva Santos, Sexta Turma, julgado em 5/3/2024, DJe 15/3/2024.
+(AgRg no HC n. 937.741/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 10/9/2024, DJe de 13/9/2024.)
+Ante o exposto, dou provimento ao recurso especial para determinar o retorno dos autos à origem a fim de que seja considerada a data da última prisão como marco temporal para obtenção de futuros benefícios.
+Publique-se.
+Intimem-se.
+EMENTA
