@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/11/2025 a 25/11/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. TRÁFICO DE DROGAS. PEDIDO DE APLICAÇÃO DA CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI N. 11.343/2006. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. ENVOLVIMENTO COM ORGANIZAÇÃO CRIMINOSA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. O reconhecimento da causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 exige que o agente não se dedique a atividades criminosas nem integre organização criminosa.
+2. Constatado pelas instâncias ordinárias, com base nas provas dos autos, que o réu se dedicava ao tráfico de drogas, possuía maus antecedentes e integrava organização criminosa estruturada, mostra-se inviável o reconhecimento do tráfico privilegiado.
+3. A pretensão de rediscutir a valoração das circunstâncias concretas do delito demandaria o reexame do conjunto fático-probatório, providência vedada na via especial, nos termos da Súmula 7/STJ.
+4. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por WELLINGTON DE ANDRADE GUIMARAES contra a decisão monocrática assim ementada (fls. 1.876/1.878):
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. PEDIDO DE APLICAÇÃO DO TRÁFICO PRIVILEGIADO. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. ORGANIZAÇÃO CRIMINOSA. REEXAME DE PROVAS. SÚMULA 7/STJ.
+Agravo conhecido para não conhecer do recurso especial.
+Nas razões, a defesa do agravante alega que, em síntese, a Súmula 7/STJ é inaplicável ao caso, pois a controvérsia versa sobre revaloração jurídica dos fatos já delineados pelas instâncias ordinárias, e não sobre reexame de provas. Pede o provimento do agravo regimental para que seja dado provimento ao recurso especial para reformar o v. acórdão recorrido e aplicar a causa de diminuição de pena prevista no art. 33, § 4º, da Lei nº 11.343/2006 em seu patamar máximo, com a consequente readequação do regime prisional e a substituição da pena privativa de liberdade por restritivas de direitos (fls. 1.900/1.907).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. TRÁFICO DE DROGAS. PEDIDO DE APLICAÇÃO DA CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI N. 11.343/2006. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. ENVOLVIMENTO COM ORGANIZAÇÃO CRIMINOSA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. O reconhecimento da causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 exige que o agente não se dedique a atividades criminosas nem integre organização criminosa.
+2. Constatado pelas instâncias ordinárias, com base nas provas dos autos, que o réu se dedicava ao tráfico de drogas, possuía maus antecedentes e integrava organização criminosa estruturada, mostra-se inviável o reconhecimento do tráfico privilegiado.
+3. A pretensão de rediscutir a valoração das circunstâncias concretas do delito demandaria o reexame do conjunto fático-probatório, providência vedada na via especial, nos termos da Súmula 7/STJ.
+4. Agravo regimental improvido.
+VOTO
+A decisão agravada deve ser mantida.
+O não conhecimento do recurso especial foi fundamentado da seguinte forma (fls. 1.877/1.878):
+De acordo com o acórdão recorrido (fls. 1.522/1.561), a fração do tráfico privilegiado em favor de Wellington foi afastada em razão da comprovada dedicação às atividades criminosas e dos maus antecedentes. O Tribunal de origem fundamentou sua decisão no fato de que ele admitiu praticar o tráfico há cerca de 3 meses, além de possuir condenação anterior por crime de trânsito. Ademais, foi considerada a expressiva quantidade de substância entorpecente "cocaína" apreendida em sua residência, circunstância que, segundo o julgado, indicava que o acusado fazia do tráfico ilícito um modo de vida, estando inserido em organização criminosa com divisão de tarefas, recebendo pagamento pelo transporte de drogas para abastecimento de "biqueira".
+De fato, a conclusão alcançada pela Corte a quo guarda consonância com a orientação jurisprudencial desta Corte, no sentido de que as circunstâncias concretas do delito indicam o envolvimento do agente com organização criminosa, autorização a modulação da fração no mínimo. Nesse sentido: AgRg no AREsp n. 2.237.299/RS, Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 16/6/2023.
+Assim, para se acolher a tese apresentada no recurso especial, para fazer incidir o art. 33, § 4º, da Lei n. 11.343/2006, como deseja, também seria imprescindível a incursão em aspectos de índole fático-probatória, medida essa inviabilizada na via eleita pela incidência do óbice constante na Súmula 7/STJ. Nesse sentido: HC n. 930.428/ES, Ministra Daniela Teixeira, Quinta Turma, DJEN 17/2/2025; AgRg no AREsp n. 2.797.186/MT, Ministro Joel Ilan Paciornik, Quinta Turma, DJEN 19/5/2025; e AgRg no HC n. 763.081/SP, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe 28/6/2023.
+Destaque-se, ainda, que fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do recurso especial pela alínea a do permissivo constitucional (EDcl no AgInt no AREsp n. 1.878.020/PR, Ministro Herman Benjamin, Segunda Turma, DJe de 25/4/2022).
+Por fim, o acórdão paradigma colacionado pela parte agravante refere-se a habeas corpus, que não é admitido pela jurisprudência desta Corte Superior, para fins de comprovação da divergência. A propósito: EDcl no AgRg nos EDv nos EREsp n. 1.737.258/PE, Terceira Seção, Ministro Joal Ilan Paciornick, DJe 23/4/2019.
+No caso dos autos, reafirmo que a Corte de origem não dissentiu do entendimento do Superior Tribunal de Justiça quanto à impossibilidade de reconhecimento do tráfico privilegiado quando as circunstâncias concretas do delito indicam envolvimento do agente com organização criminosa. Além dos precedentes citados, veja-se: AgRg no HC n. 1.023.326/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN 23/9/2 025.
+Logo, não há falar em ilegalidade na fundamentação lançada no acórdão; ao contrário, o entendimento adotado guarda perfeita harmonia com a orientação jurisprudencial consolidada nesta Corte.
+No mais, conforme igualmente consignado na decisão recorrida, inviável rever a convicção da Corte de origem, estabelecida a partir do exame dos elementos de fato e prova coligidos, ante a incidência da Súmula 7/STJ.
+Ante o exposto, nego provime nto ao agravo regimental.
