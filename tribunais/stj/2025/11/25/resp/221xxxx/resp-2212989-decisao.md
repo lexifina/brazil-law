@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de Recurso Especial interposto por IVETE BENEDITA MORSELLI, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO , assim ementado (e-STJ, fls. 263):
+"EMENTA: Locação Ação de rescisão contratual - Gratuidade de justiça Pessoa física Presunção relativa de veracidade da declaração de pobreza apresentada Exigência de documentos demonstrativos da impossibilidade de custear os autos que encontra respaldo no art. 99, §2º, do CPC e na jurisprudência Ausência de comprovação da atual situação financeira Indeferimento confirmado Agravo de instrumento improvido."
+Segundo a parte recorrente, o recurso preenche os requisitos necessários ao conhecimento e provimento.
+Intimada nos termos do art. 1.030,do Código de Processo Civil, a parte recorrida não se manifestou (e-STJ, fls. 286).
+É o relatório.
+DECIDO.
+O recurso especial é tempestivo e cabível, pois interposto em face de decisão que negou provimento ao recurso de apelação interposto na origem (art. 105, III, "a" e "c", da Constituição Federal).
+No presente processo, a parte afirma, em suma, que estão presentes os requisitos para o conhecimento e provimento de seu recurso.
+Ocorre, contudo, que a questão já foi enfrentada pela decisão recorrida, que analisou detidamente todas as questões ju rídicas postas.
+Para conhecer da controvérsia apresentada neste recurso, quanto à improcedência da concessão de gratuidade de justiça aos recorrentes, mostra-se necessário o revolvimento do acervo fático-probatório dos autos, procedimento incompatível com o entendimento firmado pela Súmula nº 7 deste Superior Tribunal de Justiça, que estabelece que: "A pretensão de simples reexame de prova não enseja recurso especial."
+De fato, presente a função uniformizadora do Recurso Especial, não se pode cogitar de seu emprego para a realização de rejulgamento do contexto fático-probatório, em atitude típica de revisão promovida por nova instância.
+Diante disso, é reiterada a jurisprudência desta Corte que assenta que "o reexame de fatos e provas (é) vedado em recurso especial pela Súmula nº 7 do STJ."(AgInt no REsp n. 2.151.760/SC, relator Ministro Humberto Martins, Terceira Turma, julgado em 9/12/2024, DJEN de 12/12/2024.)
+No mesmo sentido:
+CIVIL. PROCESSUAL CIVIL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. VÍCIOS. INEXISTÊNCIA. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. JUSTIÇA GRATUITA. SÚMULA N. 481/STJ. DEVEDORES SOLIDÁRIOS AVALISTAS. POSSIBILIDADE DE PROSSEGUIMENTO DA EXECUÇÃO. TEMA 855/STJ E SÚMULA N. 581/STJ. REEXAME DE CLÁUSULAS CONTRATUAIS E MATÉRIA FÁTICO-PROBATÓRIA. SÚMULAS N. 5 E 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL
+PREJUDICADA.
+1. Inexiste a alegada violação dos arts. 489 e 1.022 do CPC, uma vez que o Tribunal de origem se manifestou, de forma clara e fundamentada, quanto aos pontos alegados como omissos.
+2. Rever o entendimento do Tribunal de origem, com o objetivo de acolher a pretensão recursal de que a parte agravante não faz jus ao benefício da gratuidade de justiça, consoante documentação juntada aos autos, demandaria necessário revolvimento de matéria fática, o que é inviável em recurso especial, à luz do óbice contido na Súmula n. 7 desta Corte, assim enunciada: "A pretensão de simples reexame de prova não enseja recurso especial".
+3. O deferimento do pedido de assistência judiciária gratuita depende da demonstração pela pessoa jurídica, com ou sem fins lucrativos, de sua impossibilidade de arcar com as custas do processo (Súmula n. 481/STJ).
+4. A Segunda Seção do Superior de Justiça, no julgamento do Tema n. 885/STJ, firmou a tese no sentido de que "A recuperação judicial do devedor principal não impede o prosseguimento das execuções nem induz suspensão ou extinção de ações ajuizadas contra terceiros devedores solidários ou coobrigados em geral, por garantia cambial, real ou fidejussória, pois não se lhes aplicam a suspensão prevista nos arts. 6º, caput, e 52, inciso III, ou a novação a que se refere o art. 59, caput, por força do que dispõe o art. 49, § 1º, todos da Lei n. 11.101/2005".
+(R Esp n. 1.333.349/SP, relator Ministro Luis Felipe Salomão, Segunda Seção, julgado em 26/11/2014, DJe de 2/2/2015.)
+5. A Súmula n. 581/STJ reafirmou o entendimento no sentido de que "a recuperação judicial do devedor principal não impede o prosseguimento das ações e execuções ajuizadas contra terceiros devedores solidários ou coobrigados em geral, por garantia cambial, real ou fidejussória".
+6. A reforma do acórdão recorrido, com a finalidade de alterar seus fundamentos, demanda nova incursão no conjunto fático-probatório e na análise de cláusulas contratuais, esbarrando no óbice das Súmulas n. 5/STJ e 7/STJ.
+7. É pacífico o entendimento desta Corte superior de que os mesmos óbices impostos à admissão do recurso pela alínea "a" do permissivo constitucional impedem a análise recursal pela alínea "c", ficando prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica.
+Agravo conhecido.
+Recurso especial não conhecido.
+(AREsp n. 2.146.228/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 13/10/2025, DJEN de 16/10/2025.)
+Não há, portanto, dúvida acerca da inaptidão do recurso especial para promover a revisão do quadro fático-probatório, viabilizando reformar da compreensão firmada pela Corte de origem acima do tema.
+Não se quer dizer, contudo, que o debate do quadro fático não possa ser revisado nesta instância especial. Ao revés, é também pacífico o entendimento de que: "a revaloração jurídica de fatos e provas incontroversos delineados no acórdão impugnado afasta a aplicação da Súmula nº 7 do STJ na espécie." (AgInt no AREsp n. 1.742.678/MT, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 8/6/2021, DJe de 11/6/2021.)
+Cuida-se, contudo, de ônus imputado à parte recorrente, que não pode se limitar a afirmar que sua pretensão demanda apenas o reenquadramento fático à moldura legal pretendida, devendo, isto sim, evidenciar, objetivamente, que a análise fática estabilizada melhor se enquadra em outra forma jurídica.
+Daí porque este colegiado também tem afirmado, reiteradamente, que "No tocante às Súmulas nºs 5 e 7/STJ, não basta a parte sustentar genericamente a não aplicação dos óbices, sem explicitar, à luz do contexto fático delineado no acórdão e da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame fático-probatório ou da análise das cláusulas contratuais." (AgInt no AREsp n. 2.250.305/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 2/10/2023, DJe de 6/10/2023.)
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE RESCISÃO DE CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. INDENIZAÇÃO. DANOS MATERIAIS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A TODOS OS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, DO NCPC (ART. 544, § 4º, I, DO CPC/73). AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do NCPC (544, § 4º, I, do CPC/73), não impugna os fundamentos da respectiva inadmissibilidade (incidência das Súmulas n.ºs 5 e 7 do STJ e 284 do STF).
+3. Não basta para considerar "especificamente impugnados" os fundamentos da decisão recorrida a mera transcrição de súmulas ou reprodução de dispositivos legais violados. Necessário, além das indicações expressas e claras, a sua vinculação aos fatos tal como analisados pelo acórdão ou decisão para então, mediante enfrentamento dialético desse conjunto de permissivos constitucionais em face do exame soberano do material de cognição pela Corte estadual, se chegar ao almejado entendimento de que a classificação jurídica concluída não espelha o melhor direito ao caso.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.925.017/SC, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 5/9/2022, DJe de 8/9/2022.)
+No presente feito, o acolhimento da tese recursal demandaria inevitável revisão do quadro fático-probatório estabelecido na instância de origem, providência que, como visto, é inviável nesta sede.
+Ante o exposto, não conheço do recurso especial.
+Deixo de majorar os honorários recursais, posto que a providência é incabível na espécie.
+Publique-se. Intimem-se.
+EMENTA
