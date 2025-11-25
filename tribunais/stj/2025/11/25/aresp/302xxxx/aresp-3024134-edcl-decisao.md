@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por RICARDO RIBEIRO DOS SANTOS à decisão de fls. 483/484, que não conheceu do recurso.
+Sustenta a parte embargante:
+No caso em tela, o Embargante, ciente de seu ônus processual, protocolou a petição de fls. 478/480 justamente para comprovar a existência de suspensão de prazo no Tribunal de origem, o que, se acolhido, levaria à inequívoca conclusão pela tempestividade de seus recursos. Este era, portanto, o argumento central para afastar o óbice da intempestividade.
+Ressalta-se que nos andamentos processuais do PJe não aparece o "decorrido transcurso do prazo".
+A r. decisão embargada, entretanto, limitou-se a rejeitar a prova de forma genérica e conclusiva, afirmando que ela "não é suficiente". Tal assertiva, desacompanhada de qualquer justificação, viola o dever de fundamentação das decisões judiciais (art. 93, IX, da Constituição Federal).
+Nesse sentido, há que considerar o princípio da confiança e da boa-fé, pois se houve erro temporal, tal o foi por indução do sistema eletrônico de processo, não podendo ser imputado ao embargante, o equívoco na indicação do término, conforme extraímos do seguinte excerto desta egrégia corte superior:
+ ..
+A decisão é omissa, pois não esclarece por exemplo o motivo pelo qual a prova apresentada é considerada insuficiente, se o documento juntado não possuía fé pública, se referia-se a período diverso da contagem do prazo ou ainda se tratava-se de documento inadequado para o fim a que se destinava.
+A ausência dessas respostas deixa o Embargante no escuro quanto à real motivação do julgado, cerceando seu direito de compreender as razões do não conhecimento de seu pleito e, consequentemente, de impugna-las adequadamente.
+Não se pede aqui o reexame da prova, o que seria incabível, mas sim que se complete a decisão, explicitando os fundamentos pelos quais a prova de tempestividade, devidamente apresentada nos autos, foi considerada inidônea ou insuficiente. Sanar tal omissão é medida que se impõe para a garantia de uma prestação jurisdicional completa e fundamentada (fls. 489/490).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Conforme consignado na decisão embargada, que agora se repete, verifica-se que a parte recorrente foi intimada do acórdão recorrido em 15.04.2025, sendo o Recurso Especial interposto somente em 14.05.2025.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VI, c/c os arts. 1.003, § 5º, 1.029, e 219, caput, todos do Código de Processo Civil.
+Verifica-se, ainda, que a parte recorrente foi intimada da decisão agravada em 17.06.2025, sendo o Agravo somente interposto em 10.07.2025. O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VIII, c/c os arts. 1.003, § 5º, 1.042, caput, e 219, caput, todos do Código de Processo Civil.
+Nos termos do art. 1.003, § 6º, do CPC, bem como da QO no AREsp n. 2.638.376/MG, a parte foi intimada para comprovar, por documento idôneo, eventual suspensão, interrupção ou prorrogação do prazo para interposição do Recurso Especial e do Agravo. No entanto, não cumpriu a determinação, porquanto, colacionou um print na petição de fls. 478/480, o que não é suficiente para afastar a intempestividade dos recursos.
+Não se desconhece do entendimento de que "a falha induzida por informação equivocada prestada por sistema eletrônico de tribunal deve ser levada em consideração, em homenagem aos princípios da boa-fé e da confiança, para a aferição da tempestividade do recurso" (EAREsp n. 1.759.860/PI, Rel. Ministra LAURITA VAZ, Corte Especial, DJe 21.03.2022)
+Todavia, devem ser apresentados documentos aptos a comprovar a tempestividade do recurso, não servindo de tela ou imagens de páginas extraídas da internet e inseridas na petição, como pretende a parte.
+Outrossim, "a sugestão do sistema eletrônico não exonera o Recorrente do seu dever de conhecer e aplicar corretamente a legislação relativa à contagem dos prazos processuais" (AgRg nos EREsp n. 2.067.353/PB, Rel. Ministra Maria Isabel Gallotti, Corte Especial, DJe de 13.9.2024.)
+Mesmo porque o sistema do Tribunal a quo considera para a contagem dos prazos processuais as suspensões ocorridas naquela corte, que no caso, devem sempre ser comprovadas pela parte recorrente quando da apresentação dos recursos para este Superior Tribunal de Justiça, nos termos do que preceitua o art. 1.006, § 3º do CPC.
+Dessa forma, não há como afastar a intempestividade dos recursos.
+É cediço, também, que o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu. (AREsp 1592147/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 31.8.2020; AgInt no AREsp 1639930/RJ, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 3.8.2020; AgInt nos EDcl no AREsp 1342656/PR, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 7.5.2020.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 28.8.2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se.
+Intimem-se.
+ EMENTA
