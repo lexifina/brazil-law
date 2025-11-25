@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/11/2025 a 25/11/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS (2.152,20G DE CRACK E 905,68 G DE COCAÍNA). PLEITO PARA RECONHECIMENTO DO TRÁFICO PRIVILEGIADO. DEDICAÇÃO A ATIVIDADES CRIMINOSAS RECONHECIDA PELO TRIBUNAL DE ORIGEM. INVIABILIDADE DE ALTERAÇÃO. JURISPRUDÊNCIA DO STJ. SÚMULA 7/STJ. TESE DE VÍCIO DE CONTRADIÇÃO. VERIFICAÇÃO. INOCORRÊNCIA. CARÁTER PROTELATÓRIO. ADVERTÊNCIA.
+Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por Alisson Santos da Silva, contra o acórdão de fls. 2.829/2.830.
+Expõe o embargante que torna-se contraditório, concessa máxima vênia, esta Corte Superior ter consignado no tema 1.139 que inquéritos policiais não podem impedir o tráfico privilegiado, e ao mesmo tempo afastar a causa de diminuição de pena utilizando como premissa o mesmo argumento contido no inquérito policial (fl. 2847).
+Ao final, requer-se, pois, a declaração da r. decisão sob pena de violação aos artigos 619 do CPP e 1.022, I, do CPC c/c artigo 3º do CPP (dos quais resulta que os embargos de declaração servem para a eliminação de contradição dos provimentos judiciais).  ..  Ante o exposto, aplicando o tema 1.139 do STJ e comprovado documentalmente que Alisson Santos da Silva trabalha com carteira assinada e não se dedica a atividade criminosa, seja aplicado em seu favor a causa de diminuição de pena do Tráfico privilegiado (fl. 2848).
+Foi dispensada a oitiva da parte embargada.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS (2.152,20G DE CRACK E 905,68 G DE COCAÍNA). PLEITO PARA RECONHECIMENTO DO TRÁFICO PRIVILEGIADO. DEDICAÇÃO A ATIVIDADES CRIMINOSAS RECONHECIDA PELO TRIBUNAL DE ORIGEM. INVIABILIDADE DE ALTERAÇÃO. JURISPRUDÊNCIA DO STJ. SÚMULA 7/STJ. TESE DE VÍCIO DE CONTRADIÇÃO. VERIFICAÇÃO. INOCORRÊNCIA. CARÁTER PROTELATÓRIO. ADVERTÊNCIA.
+Embargos de declaração rejeitados.
+VOTO
+Embora o embargante tenha alegado a ocorrência de contradição no fundamento do acórdão, verifica-se que se trata de mero inconformismo da parte.
+Nos termos do acórdão embargado, fl. 2.830, a instância ordinária justificou o não reconhecimento da causa especial de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006, destacando que comprovada a dedicação a atividades criminosas por parte deste acusado, tanto que se mostrou como sendo o principal responsável pelo recebimento, guarda, preparo e disseminação de entorpecentes na comarca de Pará de Minas, inviável a incidência da benesse contida no § 4º do art. 33 da Lei de Tóxicos.
+À vista desses fundamentos específicos e devidamente referenciados, não se identifica o apontado vício de contradição a justificar integração do julgado, mas, sim, intento de rediscussão do mérito, providência incompatível com a estreita via dos embargos de declaração e com o art. 619 do Código de Processo Penal.
+O art. 619 do Código de Processo Penal estabelece que os embargos de declaração são cabíveis quando houver ambiguidade, obscuridade, contradição ou omissão na decisão judicial. No entanto, é importante ressaltar que os embargos de declaração não se prestam à revisão do mérito da decisão, mas sim à correção de eventuais vícios que possam comprometer a clareza ou a completude do julgado.
+Com efeito, os embargos declaratórios possuem fundamentação vinculada à presença de ambiguidade, obscuridade, contradição ou omissão a ser sanada ou, ainda, erro material a ser corrigido na decisão impugnada. Não constituem, pois, recurso de revisão da matéria discutida nos autos.
+Conforme destacado no precedente EDcl no AgRg no AREsp n. 2.201.983/SP, relatado pelo Ministro Messod Azulay Neto, da Quinta Turma, publicado no DJe de 4/7/2023, os embargos de declaração não são meio adequado para rediscutir o mérito da decisão, mas sim para esclarecer ou corrigir eventuais falhas formais.
+Objetivam os declaratórios, na verdade, a rediscussão dos fundamentos do acórdão embargado, finalidade imprópria na via recursal. A tentativa de utilizar os embargos de declaração para reanalisar o mérito da decisão embargada revela um desvio de finalidade, uma vez que tal recurso não se destina à revisão do conteúdo da decisão, mas sim à correção de vícios formais que possam comprometer sua clareza ou completude.
+A jurisprudência do Superior Tribunal de Justiça tem sido firme no sentido de que a oposição de embargos de declaração manifestamente improcedentes pode acarretar consequências processuais, como a certificação do trânsito em julgado e a baixa dos autos, visando evitar a utilização abusiva desse recurso e garantir a celeridade e a efetividade da prestação jurisdicional.
+Diante da manifesta improcedência dos aclaratórios, cumpre advertir a embargante de que a oposição de novos embargos de declaração (manifestamente improcedentes) ensejará a aplicação dos consectários delineados na jurisprudência desta Corte, a saber: baixa imediata dos autos com certificação do trânsito em julgado.
+Ante o exposto, rejeito os embargos de declaração.
