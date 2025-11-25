@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de WELLINGTON DA SILVA em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Depreende-se dos autos que a paciente se encontra preso preventivamente, denunciado pelo crime previsto no art. 121, §2º, II e IV do CP. Impetrou habeas corpus perante o Tribunal de origem que manteve a prisão preventiva decretada pelo Juízo de primeiro grau, entendendo hígidos os seus fundamentos (fls. 7-24).
+No presente writ, alega que o paciente estaria sofrendo constrangimento ilegal, diante da ausência de justa causa para decretação da prisão e dos requisitos do art. 312 do CPP. Alega, ainda, violação ao princípio da razoável duração do processo e a desproporção da medida extrema, que poderia ser substituída por uma medida cautelar diversa da prisão.
+Decisão de fls. 183-184 indeferiu o pedido de liminar.
+Informações prestadas às fls. 190-193 e 196-219.
+O Ministério Público Federal, em parecer de fls. 222-232, opinou pelo não conhecimento da ordem ou, caso conhecida, pela sua denegação .
+É  o  relatório. DECIDO.
+Inicialmente, destaco que se trata de habeas corpus substitutivo de recurso especial, razão pela qual, na pacífica jurisprudência desta Corte Superior, não deve ser conhecido.
+Contudo, passo a análise do pedido quanto à eventual concessão de habeas corpus de ofício.
+Na hipótese, a prisão preventiva encontra-se devidamente fundamentada em dados concretos extraídos dos autos, que demonstram a necessidade de encarceramento, notadamente se considerada a conduta perpetrada.
+Transcrevo, por oportuno, trecho do acórdão hostilizado (fls. 15):
+Noutro vértice, a alegação de suposto excesso de prazo para formação da culpa, também não prospera. A i. Defesa alega desídia do Estado e, consequentemente, excesso de prazo para formação da culpa, pois desrespeitado o princípio da razoável duração do processo.
+Contudo, conforme demonstrado pelo d. magistrado a quo a persecução penal segue seu curso regular, consideradas as especificidades do caso concreto.
+Posto isso, é certo que a ação penal deve observar o princípio da razoável duração do processo, entretanto, o juízo de razoabilidade deve se pautar no caso concreto e não na frieza da previsão legal dos prazos processuais.
+ ..
+Lado outro, nota-se que a prisão preventiva é a medida mais adequada ao caso e encontram-se presentes os requisitos previstos nos arts. 312 e 313, I, do Código de Processo Penal, bem como indícios suficientes de autoria e de materialidade, e, por esta mesma razão, descabida a concessão de qualquer outra medida cautelar, que não o cárcere.
+Isso porque, a análise dos autos permite concluir que a prisão cautelar encontra respaldo no caso concreto, devendo ser resguardada a ordem pública, a instrução criminal e a aplicação da lei penal, por constituírem fatores preponderantemente protegidos pela lei processual, principalmente em se tratando, como no caso, de crime hediondo dos mais repugnantes previstos no Direito Penal, cujo resultado põe fim ao bem mais precioso do ser humano a vida, não bastasse isso, seus autores apresentam audácia e violência cada vez mais assustadoras.
+Demais disso, em que pese a argumentação defensiva, nota-se que a decisão que decretou a prisão preventiva foi suficientemente fundamentada. Sopesou, em apertada síntese, o d. magistrado a quo, que no caso em tela estão presentes os requisitos para a prisão preventiva do averiguado. Isso porque, a prova da materialidade está demonstrada pelos documentos contidos no auto de prisão em flagrante delito e os indícios de autoria também estão presentes, eis que o autuado foi surpreendido cometendo o delito. Tudo isso recomenda o resguardo da ordem pública, da instrução processual e do cumprimento da lei penal. E mais, considerando as condições pessoais do averiguado, a natureza do delito e as circunstancias do fato, a liberdade provisória e as medidas cautelares diversas da prisão (previstas no artigo 319 do CPP) são, ao menos por ora, absolutamente inadequadas e insuficientes para o caso concreto analisado, razão pela qual, nos termos do artigo 282, c.c. artigo 310, II, do CPP, a conversão da prisão em flagrante em prisão preventiva mostra-se de rigor (fls. 73/74 dos autos nº 1504095-74.2025.8.26.0114)
+ ..
+Demais disso, o modus operandi supostamente praticado pelo grupo criminoso revelou intensa crueldade e frieza, a ascendente gravidade empregada nas etapas do iter criminis é assustadora. Os suspeitos planejaram o crime, enganaram e emboscaram a vítima a fim de ceifar sua vida, consumando o crime exatamente conforme pretendido.
+Restou evidenciado que as circunstâncias do fato foram devidamente analisadas, não havendo qualquer vício a ser sanado. Considerou-se, em especial, as circunstâncias do crime para fundamentar a prisão preventiva, não havendo qualquer ilegalidade.
+Tal entendimento encontra respaldo na jurisprudência deste Superior Tribunal de Justiça, conforme julgado:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GRAVIDADE CONCRETA. MODUS OPERANDI. NECESSIDADE DE FAZER CESSAR ATIVIDADES DE ORGANIZAÇÃO CRIMINOSA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, do CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+2. Na hipótese, o Juízo singular apontou a presença dos vetores contidos no art. 312 do Código de Processo Penal, com indicação de motivação suficiente e concreta para determinar a prisão preventiva do réu, ao destacar a gravidade concreta do delito imputado e o modus operandi empregado na ação delituosa, quando mencionou que o acusado, em tese, exerce papel de liderança em organização criminosa altamente estruturada e determinou a execução da vítima em contexto de disputa territorial entre grupos criminosos para a prática de crimes e contravenções.
+3. O Magistrado também respaldou o periculum libertatis com base na necessidade de interromper as atividades da organização criminosa supostamente liderada pelo acusado.
+4. Segundo a jurisprudência do STJ, o exame da alegação de ausência de contemporaneidade é feito não apenas com base no tempo entre os fatos e o decreto prisional como também pela permanência da cautelaridade ensejadora da medida. Mantidos os fundamentos do decreto prisional, centrado na gravidade da conduta e na necessidade de interromper as atividades do grupo criminoso, está atendido o requisito de contemporaneidade da medida.
+5. Por idênticos fundamentos, a adoção de medidas cautelares diversas não se prestaria a evitar o cometimento de novas infrações penais.
+6. Agravo regimental não provido (AgRg no RHC n. 213.770/RJ, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 1/7/2025, DJEN de 4/7/2025).
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. PRISÃO PREVENTIVA. MANUTENÇÃO DA DECISÃO. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que negou provimento ao recurso ordinário em habeas corpus, mantendo a prisão preventiva do agravante pela suposta prática de homicídio qualificado e ocultação de cadáver.
+2. A prisão preventiva foi decretada com base no modus operandi do crime e na evasão do distrito da culpa, visando garantir a aplicação da lei penal.
+3. O tribunal de origem manteve a prisão preventiva e denegou a ordem de habeas corpus.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a decisão que decretou a prisão preventiva está devidamente fundamentada e se há possibilidade de aplicação de medidas cautelares diversas da prisão.
+III. Razões de decidir
+5. A decisão que decretou a prisão preventiva está fundamentada em dados concretos que evidenciam a necessidade da prisão para garantia da ordem pública, considerando a forma cruel e o motivo torpe do crime.
+6. As graves circunstâncias do crime justificam a manutenção da prisão preventiva, não sendo cabível a aplicação de medidas cautelares diversas.
+7. O agravo regimental não apresentou novos argumentos capazes de alterar o entendimento anteriormente firmado.
+IV. Dispositivo e tese
+8. Agravo desprovido.
+Tese de julgamento: "1. A prisão preventiva pode ser mantida quando fundamentada em dados concretos que evidenciam a necessidade de garantir a ordem pública. 2. A ausência de novos argumentos no agravo regimental justifica a manutenção da decisão por seus próprios fundamentos".
+Dispositivos relevantes citados: Código Penal, art. 121, §2º, incisos I, III e IV; art. 211; art. 69.Jurisprudência relevante citada: STJ, AgRg no RHC 188.265/SP, Rel. Min. Daniela Teixeira, Quinta Turma, DJe 28/5/2024; STJ, AgRg no AREsp 2.173.224/RN, Rel. Min. Jesuíno Rissato, Sexta Turma, DJe 30/6/2023 (AgRg no RHC n. 205.667/RO, de minha relatoria, Quinta Turma, julgado em 17/12/2024, DJEN de 30/12/2024).
+Quanto ao alegado excesso de prazo, a defesa sequer indicou em que consistiria a ilegalidade. Deixou, portanto, de demonstrar a desídia do Juízo de 1º Grau. Ao contrário, o acórdão impugnado atestou a regularidade no andamento processual, o que afasta o reconhecimento da alegação.
+Por fim, quanto à desproporção da medida, não há plausibilidade na argumentação, uma vez que responde o paciente por crime de homicídio, havendo, portanto, clara possibilidade de lhe se r imputado o regime inicial fechado em caso de condenação. Ademais, a apresentação de argumentos meritórios não merece acolhida em sede de habeas corpus, que exige prova pré-constituída da ilegalidade.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
