@@ -1,0 +1,98 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/11/2025 a 25/11/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Joel Ilan Paciornik, Messod Azulay Neto, Maria Marluce Caldas e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito Processual Penal. Agravo Regimental NO RECURSO ESPECIAL. Reconhecimento de Pessoas. Formalidades do Art. 226 do CPP. Corroboração por Outras Provas. Agravo Regimental Improvido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de recurso especial, fundamentada no art. 255, § 4º, I, do Regimento Interno do STJ.
+2. A defesa alega a nulidade do reconhecimento do agravante, por ter sido realizado em desconformidade com o artigo 226 do Código de Processo Penal, sustentando que referido ato constitui a única prova utilizada para embasar a condenação.
+3. O agravante foi condenado, em primeira instância, pela prática de dois crimes de roubo majorado (art. 157, § 2º, II, c/c art. 29 e 69 do Código Penal), com pena total de 16 anos, 6 meses e 36 dias de reclusão, em regime inicial fechado, além de 126 dias-multa. A sentença foi mantida pelo Tribunal de Justiça.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se o reconhecimento do agravante, realizado sem a observância das formalidades do art. 226 do Código de Processo Penal, é nulo e se a condenação pode ser mantida com base em outras provas corroborativas.
+III. Razões de decidir
+5. O reconhecimento de pessoa realizado na fase policial, ainda que sem a observância das formalidades do art. 226 do CPP, não implica nulidade da prova, desde que corroborado por outros elementos probatórios colhidos sob o crivo do contraditório e da ampla defesa.
+6. No caso concreto, o reconhecimento realizado pelas vítimas foi corroborado por depoimentos firmes e coerentes prestados em juízo, que descreveram características físicas, vestimentas e comportamentos dos autores dos delitos, além de outros elementos probatórios, como a identificação da motocicleta utilizada nos crimes.
+7. A pretensão de absolvição por insuficiência de provas demandaria o reexame do conjunto fático-probatório, o que é vedado na via especial, conforme a Súmula 7/STJ.
+IV. Dispositivo e tese
+8. Resultado do Julgamento: Agravo regimental improvido.
+Tese de julgamento:
+1. O reconhecimento de pessoa realizado na fase policial, sem a observância das formalidades do art. 226 do Código de Processo Penal, não é nulo quando corroborado por outras provas colhidas sob o crivo do contraditório e da ampla defesa.
+2. A condenação pode ser mantida com base em conjunto probatório consistente, ainda que o reconhecimento realizado na fase inquisitiva não tenha seguido as formalidades legais.
+Dispositivos relevantes citados: CPP, art. 226; Súmula 7/STJ.
+Jurisprudência relevante citada: STJ, AgRg no HC 705.205/RJ, Min. Olindo Menezes, Sexta Turma, julgado em 13.09.2022; STJ, AgRg no HC n. 745.822/GO, Min. Ribeiro Dantas, Quinta Turma, julgado em 14/6/2022; STJ, AgRg no REsp 1.620.557/RS, Min. Antonio Saldanha Palheiro, Sexta Turma, julgado em 04.12.2024.
+RELATÓRIO
+Trata-se de agravo regimental interposto por CLAUDIONOR PEREIRA DA SILVA contra decisão de minha Relatoria que, fundamentada no art. 255, § 4º, I, do Regimento Interno do STJ, não conheceu do recurso especial. (e-STJ, fls. 456-461).
+A defesa alega, em síntese, que "a ilegalidade apontada no apelo nobre é manifesta e constatável de plano, sem a necessidade de reexaminar fatos e provas, bastando a revaloração jurídica do quadro fático incontroverso delineado pelas instâncias ordinárias, tendo em vista que a condenação do agravante foi confirmada exclusivamente com lastro em elementos inidôneos (reconhecimento ilegal)" (e-STJ, fl. 471).
+No mais, reitera os argumentos expendidos no recurso especial, no sentido de que o reconhecimento do recorrente é absolutamente nulo, em desacordo com o artigo 226 do Código de Processo Penal e com a jurisprudência atual deste Tribunal da Cidadania, sendo, inclusive, a única "prova" utilizada para fundamentar a condenação do agravante.
+Requer a reconsideração da decisão agravada (e-STJ, fls. 467-477).
+É o relatório.
+EMENTA
+Direito Processual Penal. Agravo Regimental NO RECURSO ESPECIAL. Reconhecimento de Pessoas. Formalidades do Art. 226 do CPP. Corroboração por Outras Provas. Agravo Regimental Improvido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de recurso especial, fundamentada no art. 255, § 4º, I, do Regimento Interno do STJ.
+2. A defesa alega a nulidade do reconhecimento do agravante, por ter sido realizado em desconformidade com o artigo 226 do Código de Processo Penal, sustentando que referido ato constitui a única prova utilizada para embasar a condenação.
+3. O agravante foi condenado, em primeira instância, pela prática de dois crimes de roubo majorado (art. 157, § 2º, II, c/c art. 29 e 69 do Código Penal), com pena total de 16 anos, 6 meses e 36 dias de reclusão, em regime inicial fechado, além de 126 dias-multa. A sentença foi mantida pelo Tribunal de Justiça.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se o reconhecimento do agravante, realizado sem a observância das formalidades do art. 226 do Código de Processo Penal, é nulo e se a condenação pode ser mantida com base em outras provas corroborativas.
+III. Razões de decidir
+5. O reconhecimento de pessoa realizado na fase policial, ainda que sem a observância das formalidades do art. 226 do CPP, não implica nulidade da prova, desde que corroborado por outros elementos probatórios colhidos sob o crivo do contraditório e da ampla defesa.
+6. No caso concreto, o reconhecimento realizado pelas vítimas foi corroborado por depoimentos firmes e coerentes prestados em juízo, que descreveram características físicas, vestimentas e comportamentos dos autores dos delitos, além de outros elementos probatórios, como a identificação da motocicleta utilizada nos crimes.
+7. A pretensão de absolvição por insuficiência de provas demandaria o reexame do conjunto fático-probatório, o que é vedado na via especial, conforme a Súmula 7/STJ.
+IV. Dispositivo e tese
+8. Resultado do Julgamento: Agravo regimental improvido.
+Tese de julgamento:
+1. O reconhecimento de pessoa realizado na fase policial, sem a observância das formalidades do art. 226 do Código de Processo Penal, não é nulo quando corroborado por outras provas colhidas sob o crivo do contraditório e da ampla defesa.
+2. A condenação pode ser mantida com base em conjunto probatório consistente, ainda que o reconhecimento realizado na fase inquisitiva não tenha seguido as formalidades legais.
+Dispositivos relevantes citados: CPP, art. 226; Súmula 7/STJ.
+Jurisprudência relevante citada: STJ, AgRg no HC 705.205/RJ, Min. Olindo Menezes, Sexta Turma, julgado em 13.09.2022; STJ, AgRg no HC n. 745.822/GO, Min. Ribeiro Dantas, Quinta Turma, julgado em 14/6/2022; STJ, AgRg no REsp 1.620.557/RS, Min. Antonio Saldanha Palheiro, Sexta Turma, julgado em 04.12.2024.
+VOTO
+A pretensão não merece êxito, na medida em que a parte agravante não apresentou argumentos capazes de modificar o entendimento anteriormente adotado, o qual submeto à apreciação do Colegiado.
+Conforme consignado na decisão agravada, o réu foi condenado, em primeira instância, pela prática de dois crimes previstos no art. 157, §2º, II, c/c o art. 29 e 69 do Código Penal. A pena para cada um deles resultou em 08 anos, 03 meses e 18 dias de reclusão, em regime inicial fechado, mais 63 dias-multa. Pela regra do concurso material a reprimenda totalizou 16 anos, 06 meses e 36 dias mais 126 dias-multa, estabelecido o regime inicial fechado (e-STJ, fls. 309-322).
+Irresignada, a defesa apelou, tendo o TJ/AL mantido intacta a sentença condenatória.
+No tocante à suscitada nulidade do reconhecimento fotográfico, colhe-se do aresto impugnado:
+"10. Conforme relatado, o apelante pretende a absolvição por ausência de provas para a condenação, alegando a inexistência de comprovação da autoria. Alega, ainda, a nulidade do reconhecimento de pessoa, por violação os requisitos previstos no art.
+226 do CPP. Subsidiariamente, postula a análise da dosimetria da pena e afastamento da majorante do uso de arma de fogo.
+11. Inicialmente, no que tange à arguição defensiva de nulidade do reconhecimento pessoal por inobservância das formalidades previstas no art. 226 do CPP, cumpre destacar que, ao firmar o Tema Repetitivo 1258 1 , o Superior Tribunal de Justiça sedimentou ser "desnecessário realizar o procedimento formal de reconhecimento de pessoas, previsto no art. 226 do CPP, quando não se tratar de apontamento de indivíduo desconhecido com base na memória visual de suas características físicas percebidas no momento do crime, mas, sim, de mera identificação de pessoa que o depoente já conhecia anteriormente".
+12. É certo que o reconhecimento pessoal, conforme previsto no art. 226 do Código de Processo Penal, deve seguir formalidades específicas, visando a evitar erros judiciários e garantir a segurança jurídica. No entanto, não se pode adotar uma postura excessivamente formalista a ponto de desconsiderar outros elementos probatórios idôneos e coerentes entre si, que conferem robustez à versão acusatória.
+Quanto ao tema, o Superior Tribunal de Justiça passou a mitigar a utilização do reconhecimento fotográfico ou pessoal na delegacia, sem atendimento dos requisitos legais, como única prova à denúncia ou condenação. Nesse sentido:
+(..)
+13. Dessa forma, compactuo com o entendimento de que o eventual descumprimento das formalidades previstas no art. 226 do Código de Processo Penal, no reconhecimento realizado na fase policial, não implica, por si só, a nulidade da prova.
+14. Nessas hipóteses, o reconhecimento passa a ser tratado como elemento testemunhal, de natureza subjetiva, cuja validade deve ser aferida à luz do conjunto probatório, especialmente quando confirmado sob o crivo do contraditório e da ampla defesa em juízo.
+15. No caso concreto, o reconhecimento feito pelas vítimas a partir das imagens captadas por câmeras de segurança não se deu de forma isolada. Pelo contrário, foi robustamente corroborado por depoimentos firmes e coerentes prestados em juízo, nos quais as testemunhas descreveram, com precisão, características físicas, vestimentas e comportamentos dos autores dos delitos, elementos estes que coincidem com as feições e condução do recorrente.
+16. A vítima Ronaldo Francisco Lima do Nascimento, referente ao crime ocorrido em , declarou que, por volta das 19h30, foi abordada por dois indivíduos em 25/11/2017 uma motocicleta Honda XRE de cor escura e sem placa (fls. 19/20). Ao lhe serem apresentadas imagens na delegacia e posteriormente em juízo, reconheceu os indivíduos que desceram do veículo como sendo os mesmos autores do roubo, reconhecimento este reiterado na audiência, conforme se verifica na mídia acostada à fl. 67.
+17. De modo semelhante, a vítima Juliano de Melo Silva Mostrado, em relação ao roubo praticado no dia 23/11/2017, relatou ter sido surpreendida por dois indivíduos em uma motocicleta XRE 300 de cor preta, armados. Ao ser exibido, em juízo, o vídeo constante às fls. 106 (o mesmo que lhe fora mostrado na fase policial) afirmou que reconheceu a motocicleta como sendo a utilizada na ação criminosa, bem como a vestimenta de um dos agentes (blusa preta e calça marrom).
+18. Apesar de não terem sido apresentadas imagens do exato momento do crime, a vítima confirmou, em ambas as fases, a participação dos indivíduos ali identificados.
+Ademais, o vínculo entre o apelante e o fato delituoso foi reforçado a partir da apreensão de seu irmão (posteriormente condenado nos autos n.º 0700956- 19.2017.8.02.0043 como partícipe) que, na ocasião, foi flagrado portando arma de fogo em um veículo.
+19. Conforme consignado na sentença (fl. 315), a testemunha Sebastião Emiliano da Silva declarou que, na mesma noite do crime que apreendeu o irmão do apelante, houve um assalto no bairro Palmeirão praticado por dois indivíduos em uma motocicleta XRE 300 de cor preta. O policial afirmou ter tomado conhecimento do fato e, no dia seguinte, deu início aos procedimentos investigativos que culminaram na identificação dos envolvidos.
+20. Verifica-se, portanto, que o reconhecimento das vítimas foi realizado de maneira categórica, sem qualquer direcionamento ou indução, e encontra respaldo em outros elementos probatórios constantes nos autos, inclusive nos testemunhos colhidos em juízo (mídia de fl. 267), sob o crivo do contraditório e da ampla defesa.
+21. Dessa forma, entendo que o reconhecimento pessoal realizado na fase extrajudicial, embora não formalizado nos exatos termos do art. 226 do CPP, não deve ser considerado inválido, tampouco suficiente para ensejar a absolvição, uma vez que foi ratificado em juízo e encontra amparo em um conjunto probatório consistente.
+22. De mais, não merece prosperar a pretensão absolutória deduzida pela defesa, pois a materialidade e a autoria delitivas restaram sobejamente demonstradas por meio do conjunto probatório colhido ao longo da instrução processual.
+23. Verificada a existência de provas suficientes para amparar a sentença recorrida, mantenho a condenação de primeiro grau em desfavor do recorrente." (e-STJ, fls. 393-396).
+Da leitura do trecho transcrito, verifica-se que a condenação do réu não se fundamentou exclusivamente no reconhecimento fotográfico realizado na fase inquisitiva, considerado nulo pela defesa. Conforme destacado no acórdão recorrido, além do reconhecimento efetuado pelas vítimas, houve corroboração por meio de depoimentos firmes e coerentes prestados em juízo, nos quais as testemunhas descreveram, com precisão, características físicas, vestimentas e comportamentos dos autores dos delitos  elementos que coincidem com as feições e o comportamento atribuídos ao recorrente. Uma das vítimas, inclusive, reconheceu a motocicleta como sendo a utilizada na ação criminosa, além da vestimenta de um dos acusados.
+Nesse contexto, não se verifica a apontada ofensa ao art. 226 do Código de Processo Penal.
+A corroborar esse entendimento, confiram-se os seguintes julgados desta Corte Superior:
+" ..
+1. "A jurisprudência desta Corte é firme no sentido de que é possível a utilização das provas colhidas durante a fase inquisitiva - reconhecimento fotográfico - para embasar a condenação, desde que corroboradas por outras provas colhidas em Juízo - depoimentos e apreensão de parte do produto do roubo na residência do réu, nos termos do art. 155 do Código de Processo Penal." (AgRg no HC 633.659/SP, Rel.
+Ministro NEFI CORDEIRO, Sexta Turma, julgado em 2/3/2021, DJe 5/3/2021).
+2. O reconhecimento da vítima não constituiu o único elemento de prova, sendo, na realidade, apenas um entre vários elementos, os quais são independentes do reconhecimento tido por viciado.
+3. Após o assalto e o envio de alertas entre os policiais, os acusados foram presos em flagrante. O recorrente MATHEUS DA SILVA ROSARIO tinha-se evadido para dentro de uma residência e lá foi preso em flagrante. Já CARLOS AUGUSTO DA CONCEIÇÃO NETO foi preso em flagrante, porque o veículo Jeep Renegade colidiu com uma árvore, momento no qual o policial conseguiu prendê-lo e colocá-lo dentro da viatura.
+4. Constatado que a condenação se encontra devidamente fundamentada nas provas colhidas nos autos, a pretensa revisão do julgado, com vistas à absolvição dos recorrentes, não se coaduna com a estreita via do habeas corpus, dada a necessidade de profundo reexame de fatos e provas.
+5. Agravo regimental improvido."
+(AgRg no HC n. 705.205/RJ, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 13/9/2022, DJe de 16/9/2022.)
+" ..
+1. O habeas corpus não se presta para a apreciação de alegações que buscam a absolvição do paciente ou a desclassificação da conduta, em virtude da necessidade de revolvimento do conjunto fático-probatório, o que é inviável na via eleita. Precedente.
+2. Esta Corte Superior inicialmente entendia que "a validade do reconhecimento do autor de infração não está obrigatoriamente vinculada à regra contida no art. 226 do Código de Processo Penal, porquanto tal dispositivo veicula meras recomendações à realização do procedimento, mormente na hipótese em que a condenação se amparou em outras provas colhidas sob o crivo do contraditório".
+3. Em julgados recentes, ambas as Turmas que compõe a Terceira Seção deste Superior Tribunal de Justiça alinharam a compreensão de que "o reconhecimento de pessoa, presencialmente ou por fotografia, realizado na fase do inquérito policial, apenas é apto, para identificar o réu e fixar a autoria delitiva, quando observadas as formalidades previstas no art. 226 do Código de Processo Penal e quando corroborado por outras provas colhidas na fase judicial, sob o crivo do contraditório e da ampla defesa".
+4. Dos elementos probatórios que instruem o feito, verifica-se que a autoria delitiva do crime de roubo não tem como único elemento de prova o reconhecimento fotográfico, o que gera distinguishing em relação ao acórdão paradigma da alteração jurisprudencial. Na hipótese, além de uma das vítimas ter reconhecido, sem dúvidas, o paciente, por meio de fotos, perante a autoridade policial, ele foi preso na Comarca de Catalão/GO, onde foi localizado o automóvel subtraído, o qual já se encontrava com as placas adulteradas. Outrossim, apesar de a outra vítima ter afirmado que não viu o rosto do réu no momento da prática delitiva, descreveu as características físicas do agente que a abordou no salão de beleza, devendo ser ressaltado que o paciente "tem extensas passagens policiais, pela prática de variada sorte de delitos.
+Notadamente, roubo, tráfico de drogas e homicídios (..) registro de atividades criminosas, antes e após a prática do crime ora sob investigação, sendo que, inclusive, foram presos em flagrante, em data posterior ao delito sob escrutínio".5. Agravo regimental não provido."
+(AgRg no HC n. 745.822/GO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 14/6/2022, DJe de 20/6/2022.)
+Ressalte-se, ademais, que, diante do contexto fático expressamente delineado no acórdão recorrido, a pretensão recursal, no sentido de absolver o acusado, por insuficiência de provas, demandaria o reexame do arcabouço fático-probatório, o que não é possível nesta via especial, em razão do óbice da Súmula 7/STJ.
+Nesse sentido:
+" ..
+3. O Superior Tribunal de Justiça possui a orientação de que "não há justificativa para se anular a sentença condenatória por eventual inobservância do procedimento de reconhecimento pessoal previsto no art. 226 do CPP quando há nos autos provas autônomas que comprovam a autoria" (AgRg no AREsp n. 2.585.787/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 27/8/2024, DJe de 30/8/2024).
+4. No caso, a tese referente à alegada nulidade das interceptações telefônicas por ausência de transcrição e as teses aventadas sobre a dosimetria da pena não foram objeto de debate pelo Tribunal de origem, não havendo nem sequer a oportuna provocação do exame das matérias por meio de embargos de declaração. Destarte, no ponto, tem incidência o óbice previsto nas Súmulas n. 282 e 356/STF.
+5. Agravo regimental desprovido."
+(AgRg no REsp n. 1.620.557/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 4/12/2024, DJEN de 9/12/2024, grifou-se.)
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
