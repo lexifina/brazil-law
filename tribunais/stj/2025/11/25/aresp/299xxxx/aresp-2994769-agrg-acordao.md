@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/11/2025 a 25/11/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. LATROCÍNIO. TESE DE ABSOLVIÇÃO POR INSUFICIÊNCIA PROBATÓRIA. ALEGADA CONDENAÇÃO BASEADA EM TESTEMUNHOS DE OUVIR DIZER. ACÓRDÃO RECORRIDO QUE APONTA CONJUNTO PROBATÓRIO ROBUSTO. REEXAME DE PROVAS. ÓBICE DA SÚMULA 7/STJ. INSURGÊNCIA QUE NÃO AFASTA O FUNDAMENTO DA DECISÃO AGRAVADA.
+1. A pretensão de absolvição por insuficiência de provas, sob o argumento de que a condenação se baseou exclusivamente em testemunhos indiretos, demanda o reexame do acervo fático-probatório, providência vedada em sede de recurso especial, nos termos da Súmula 7 do Superior Tribunal de Justiça, sobretudo quando as instâncias ordinárias, soberanas na análise da prova, concluíram pela existência de um conjunto probatório robusto, incluindo laudos periciais e depoimentos consistentes.
+2. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por BRUNO MARINHO DE SOUZA contra a decisão por mim proferida, por meio da qual conheci do agravo para não conhecer do recurso especial (fls. 496/498).
+Nas razões do presente recurso, a defesa sustenta o equívoco na aplicação da Súmula 7/STJ, argumentando que a análise do mérito do recurso especial não demanda reexame de fatos e provas, mas, sim, a revaloração jurídica de fatos incontroversos já delineados na sentença e no acórdão. Afirma que a própria decisão agravada e o acórdão de origem reconhecem que a condenação se fundamentou em depoimentos de testemunhas não oculares, o que, segundo a jurisprudência desta Corte, não seria suficiente para sustentar o decreto condenatório (fls. 504/515).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. LATROCÍNIO. TESE DE ABSOLVIÇÃO POR INSUFICIÊNCIA PROBATÓRIA. ALEGADA CONDENAÇÃO BASEADA EM TESTEMUNHOS DE OUVIR DIZER. ACÓRDÃO RECORRIDO QUE APONTA CONJUNTO PROBATÓRIO ROBUSTO. REEXAME DE PROVAS. ÓBICE DA SÚMULA 7/STJ. INSURGÊNCIA QUE NÃO AFASTA O FUNDAMENTO DA DECISÃO AGRAVADA.
+1. A pretensão de absolvição por insuficiência de provas, sob o argumento de que a condenação se baseou exclusivamente em testemunhos indiretos, demanda o reexame do acervo fático-probatório, providência vedada em sede de recurso especial, nos termos da Súmula 7 do Superior Tribunal de Justiça, sobretudo quando as instâncias ordinárias, soberanas na análise da prova, concluíram pela existência de um conjunto probatório robusto, incluindo laudos periciais e depoimentos consistentes.
+2. Agravo regimental improvido.
+VOTO
+A despeito dos argumentos veiculados no presente recurso, a insurgência não merece provimento.
+A decisão impugnada deve ser mantida pelo que nela se contém, tendo em conta que o agravante não logrou desconstituir seu fundamento, motivo pelo qual a trago ao Colegiado para ser confirmada.
+Conforme assentei na decisão monocrática, o pleito absolutório do recorrente encontra óbice na Súmula 7 desta Corte. O Tribunal de origem, após análise do conjunto probatório, concluiu, de forma fundamentada, pela existência de autoria e materialidade delitiva suficientes para a condenação, assentando que os depoimentos testemunhais, embora indiretos, eram coerentes, convergentes e corroborados por outros elementos, como laudos periciais.
+A matéria foi assim abordada na decisão ora agravada (fls. 497/498):
+ ..
+Como se vê, o Tribunal a quo, de forma fundamentada e com base nos elementos de prova constantes dos autos, concluiu pela existência de autoria e materialidade delitiva para a condenação do agravante. A convicção do julgador foi formada a partir de um conjunto probatório que entendeu robusto, incluindo laudos periciais e depoimentos testemunhais que, embora não oculares, forneceram elementos indiretos consistentes.
+Nesse contexto, a alteração da conclusão a que chegaram as instâncias ordinárias, para absolver o agravante por insuficiência de provas, demandaria, necessariamente, o reexame do acervo fático-probatório, providência vedada em sede de recurso especial, nos termos da Súmula 7/STJ. Nesse sentido:
+ ..
+Com efeito, a tese defensiva de que a análise pretendida se limitaria a uma mera revaloração jurídica da prova não prospera. A revaloração pressupõe a análise de fatos incontroversos para lhes atribuir novo enquadramento jurídico, o que não se confunde com a pretensão de rediscutir a suficiência e a robustez do conjunto probatório para, a partir de uma nova ponderação dos elementos, alcançar conclusão diversa daquela firmada pelas instâncias ordinárias.
+Alterar o entendimento do Tribunal de origem, que afirmou categoricamente que os depoimentos não se baseiam em meras conjecturas ou declarações de "ouvir dizer" (hearsay), mas sim em elementos que permitem concluir que o apelante ceifou a vida da vítima e que os depoimentos são coerentes e convergentes, no sentido de prova indireta, que se relacionam e apontam, com segurança, para a autoria delitiva do acusado (fl. 395), implicaria, inevitavelmente, uma nova e aprofundada incursão nos fatos e nas provas, o que é vedado a esta Corte Superior.
+A jurisprudência deste Tribunal é firme no sentido de que, se as instâncias ordinárias, com base nos elementos dos autos, concluem pela existência de provas suficientes para a condenação, a revisão de tal entendimento encontra óbice na Súmula 7/STJ.
+Ante o exposto, nego provimento ao agravo regimental.
