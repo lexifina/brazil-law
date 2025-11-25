@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por CYDNEBIO SOARES DE SOUZA à decisão de fls. 506/507, que não conheceu do recurso.
+Sustenta a parte embargante:
+O caso dos autos permeia sobre vício sanável de representação processual pelo qual o Tribunal em consonância ao princípio da primazia da resolução do mérito, concede a parte oportunidade de regularização para haja prosseguimento habitual do feito.
+Nesta toada, o prazo concedido por este Tribunal na fl. 486 baseado no art. 76 do CPC possui natureza não peremptória, ou seja, não é um prazo determinado por Lei, mas sim a critério discricionário pelo julgador que pode, opcionalmente, ser prorrogado ou modificado.
+No caso dos autos, foi concedido um único prazo de 5 (cinco) dias para que a parte apresentasse a cadeia de procurações e substabelecimentos que justificassem a representação processual. O prazo concedido decorreu, e houve intimação do Ministério Público Federal para que apresentasse manifestação no feito (fl. 492). Antes que o MPF apresentasse sua manifestação, a parte peticionou nos autos apresentando a cadeia de procurações e substabelecimentos e ainda identificou os I Ds nos processos das instâncias inferiores.
+ ..
+Assim a terminologia do "não poder" se mostra descabida, pois, na verdade, em tese, o Ministro Julgador em homenagem ao princípio da primazia da resolução do mérito e da natureza discricionária dos prazos não peremptórios, poderia conhecer da petição, mas não o fez em razão de livre convencimento acerca da preclusão do direito. Portanto, a contradição paira na possibilidade legal do Julgador apreciar petição intempestiva a comando judicial regido por prazo não peremptório, uma vez que não há vedação no códex processual para tanto.
+Logo, em sede embargos, antes da interposição de recurso de agravo interno, deve ser aclarado na decisão de que há possibilidade legal pela norma processual de apreciação de petição intempestiva quando referente a comando judicial de prazo não peremptório, que é o caso dos autos, tendo em vista a ausência de improrrogabilidade do prazo expressa no despacho. Assim, como sabido, os prazos não peremptórios seguem critério discricionário, ou seja, podem ser prorrogados ou alterados a arbítrio do julgador (fls. 511/512).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+No caso, a parte recorrente, no momento da interposição do recurso, não procedeu à juntada da cadeia completa de procuração e/ou substabelecimento conferindo poderes ao subscritor do Agravo e do Recurso Especial, Dr. MATHEUS CAMPOS BONFIM.
+Entretanto, o marco temporal de aplicação do Código de Processo Civil de 2015 é a intimação do decisum recorrido que, no presente caso, foi realizada após 18.3.2016, já sob a égide do novo códex processual.
+Assim, nos termos do Enunciado Administrativo n. 3 do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC", em observância ao princípio do tempus regit actum, ou seja, no presente caso aplicam-se as regras do Código de Processo Civil de 2015.
+Dessa forma, nos termos do art. 76 do Código de Processo Civil, foi intimada a parte recorrente para regularizar a representação processual, no prazo improrrogável de 5 (cinco) dias, sob pena de não conhecimento do recurso.
+Mesmo diante da intimação da parte para sanear o vício (fl. 486), não houve a devida regularização, porquanto, deixou o prazo transcorrer in albis (fl. 490).
+Cumpre esclarecer que a intimação da parte (fl. 486) ocorreu nos moldes dos artigos do Código de Processo Civil a seguir:
+Art. 76. Verificada a incapacidade processual ou a irregularidade da representação da parte, o juiz suspenderá o processo e designará prazo razoável para que seja sanado o vício.
+Art. 932. Incumbe ao relator:
+ ..
+Parágrafo único. Antes de considerar inadmissível o recurso, o relator concederá o prazo de 5 (cinco) dias ao recorrente para que seja sanado vício ou complementada a documentação exigível.
+Como se ver, não há qualquer irregularidade na referida intimação.
+Observe que o processo deve ser uma sequência de atos ordenados, com o propósito de servir à prestação jurisdicional. Por outro lado, a prestação jurisdicional não pode durar para sempre. O processo nasce direcionado a um fim e ao seu próprio fim. Não pode ser um instrumento de perseguição infinita do direito material. Portanto, a observância dos prazos constitui direito das partes, representa a garantia de segurança jurídica, bem como garante a característica temporal do processo.
+Nesse sentido, o prazo para a parte comprovar a regularidade representação processual era peremptório e não houve apresentação de justa causa para a sua reabertura. Assim, tendo sido encerrado o prazo sem a prática do ato, desaparece a possibilidade de praticá-lo. É o que se chama de preclusão e, no caso, temporal. Por esta razão, a petição de fls. 493/505 não foi aceita para fins de regularização da representação processual dos recursos.
+Além disso, o entendimento desta Corte é no sentido de que: "A regularização da representação processual após o prazo legal não é admitida, pois a preclusão temporal já se consumou." (AgRg no AREsp 2849942/BA, Rel. Ministro Ribeiro Dantas, Quinta Turma, DJEN 20/05/2025).
+Ressalta-se ainda que "O princípio da primazia do julgamento de mérito não tem o condão de isentar as partes da necessária observância dos requisitos de admissibilidade recursal, tampouco de afastar a sujeição delas aos efeitos da preclusão" (AgInt nos EDcl no AREsp 2604323/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe 16/10/2024).
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 28.8.2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se.
+Intimem-se.
+ EMENTA
