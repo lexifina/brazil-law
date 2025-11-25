@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de DAVI DIAS DA SILVA MOSCOSO, que cumpre pena nos autos da Execução Penal n. 7011279-83.2015.8.26.0050.
+A parte impetrante aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, que, em decisão monocrática, indeferiu a petição inicial do habeas corpus originário (HC n. 2227994-14.2025.8.26.0000). Consta, ainda, que o agravo regimental foi desprovido pela Quinta Câmara de Direito Criminal, mantendo-se o não conhecimento do writ.
+Alega constrangimento ilegal decorrente da homologação de falta disciplinar de natureza grave, em 12/11/2018, por suposta subversão à ordem e à disciplina, sem provas objetivas e com base apenas em relatos informais ou anônimos e depoimentos de agentes penitenciários. Sustenta que a decisão judicial se apoiou em premissas abstratas e não enfrentou os elementos do caso concreto.
+Defende que o não conhecimento do habeas corpus, sob o fundamento de indevida substituição do agravo em execução, impôs cerceamento de defesa, pois impediu a análise do mérito da ilegalidade relativa à perda dos dias remidos e à regressão de regime, ambas decorrentes da falta grave reconhecida sem a individualização da conduta. Afirma que, em hipóteses de flagrante ilegalidade, o habeas corpus é instrumento adequado, em conformidade com precedentes desta Corte Superior.
+No mérito, requer o provimento do writ, a fim de determinar ao Tribunal de Justiça do Estado de São Paulo que conheça do habeas corpus originário, enfrentando a ilegalidade apontada.
+É o relatório.
+Não há constrangimento ilegal a ser sanado no que se refere ao não conhecimento do habeas corpus impetrado na origem. A decisão proferida pelo Tribunal de Justiça paulista mostra-se irrepreensível, na medida em que, de fato, no âmbito do remédio heroico não cabe a análise de pleitos que demandem dilação probatória.
+Com efeito, rever o entendimento das instâncias de origem para afastar a falta grave imputada ao agravante demandaria, necessariamente, amplo revolvimento da matéria fático-probatória dos autos, procedimento que, à toda evidência, é incompatível com a estreita via do habeas corpus, consoante entendimento firmado por esta Corte Superior de Justiça (AgRg no HC n. 908.225/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 2/9/2024, DJe de 6/9/2024).
+No mesmo sentido: AgRg no AREsp n. 2.338.808/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/6/2023, DJe de 30/6/2023; e AgRg no HC n. 797.089/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 19/6/2023, DJe de 22/6/2023.
+Ante o exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. EXECUÇÃO PENAL. FALTA DISCIPLINAR DE NATUREZA GRAVE. SUBVERSÃO À ORDEM E À DISCIPLINA. FRAGILIDADE DAS PROVAS. NÃO CONHECIMENTO DO HABEAS CORPUS ORIGINÁRIO MANTIDO PELA INSTÂNCIA COLEGIADA. DETERMINAÇÃO DE ANÁLISE DO MÉRITO PELO TRIBUNAL A QUO. NECESSIDADE DE DILAÇÃO PROBATÓRIA. IMPOSSIBILIDADE NA ESTREITA VIA DO WRIT. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Inicial indeferida liminarmente.
