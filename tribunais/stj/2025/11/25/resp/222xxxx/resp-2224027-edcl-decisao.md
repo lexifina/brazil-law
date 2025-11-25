@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de Embargos de Declaração, opostos por Fernando Dalpiaz de Melo, a decisão de minha lavra, que, com fundamento no art. 255, § 4º , I, do RISTJ, conheceu e deu provimento ao recurso especial interposto pelo Banco do Brasil S/A. concluindo pela impossibilidade de extensão da carência para médicos residentes quando o contrato de financiamento estudantil já tenha ingressado na fase de amortização da dívida.
+Sustenta a parte embargante a existência de omissão porquanto a tese da aplicabilidade da teoria do fato consumado ao caso concreto, uma vez que "a desconstituição da situação consolidada implicaria em grave prejuízo ao Embargante, que, de boa-fé e amparado por decisão judicial, organizou sua vida financeira com base na prorrogação das cobranças e, inclusive, já finalizou a residência médica em fevereiro de 2025 e já retornou ao pagamento das parcelas mensais do FIES." (fl. 650).
+É o relatório. Decido.
+Com efeito, nos termos do art. 1.022 do CPC vigente, os Embargos de Declaração são cabíveis para "esclarecer obscuridade ou eliminar contradição", "suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento" e "corrigir erro material".
+No caso, ao que se tem dos autos, na origem, o embargante impetrou mandado de segurança, objetivando a implementação de carência estendida de contrato de financiamento estudantil (FIES), com a suspensão da exigência da amortização do financiamento durante o período da residência médica.
+Na primeira instância, a segurança foi concedida para a extensão da carência do FIES, suspendendo a cobrança das parcelas mensais do financiamento das parcelas enquanto durar o período de residência médica. O Tribunal Regional manteve integralmente a sentença.
+Dessa decisão, o Banco do Brasil S/A. interpôs recurso especial alegando, além de sua ilegitimidade passiva, a impossibilidade da extensão da carência pelo fato do contrato de financiamento já tinha ingressado na fase de amortização da dívida.
+Em suas contrarrazões ao recurso, o embargante invocou a teoria do fato consumado para manter os efeitos da decisão que suspendeu as prestações durante toda a residência, já integralmente cumprida, em respeito à segurança jurídica e à proteção da confiança.
+O recurso especial restou provido diante impossibilidade de extensão da carência em razão do contrato de financiamento estudantil já encontrar-se em fase de amortização da dívida.
+Dessa forma, ao que se se tem nos autos, a matéria da teoria do fato consumado não foi suscitada nas contrarrazões da apelação, sendo que sequer foi debatida pela Corte de origem. Cuida-se, portanto, de inovação recursal, razão pela qual a decisão não tinha o dever de se manifestar sobre ela.
+De fato, o Superior Tribunal de Justiça entende que não é possível suscitar, nesta instância especial , teses que não foram objeto de apreciação pela instância ordinária por meio de provocação pelos recursos cabíveis, por consistir inadmissível inovação recursal.
+Nesse sentido:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGADA VIOLAÇÃO AO ART. 489 DO CPC/2015. NÃO OCORRÊNCIA. MATÉRIA NÃO DEBATIDA NO ACÓRDÃO RECORRIDO. INOVAÇÃO RECURSAL EM SEDE DE RECURSO ESPECIAL. INVIABILIDADE. INOBSERVÂNCIA DA DETERMINAÇÃO CONTIDA NO ART. 166 DO CTN. NÃO OCORRÊNCIA. AGRAVO INTERNO PARCIALMENTE PROVIDO.
+1. Quanto à suposta violação ao art. 489 do CPC, verifica-se que a matéria apontada como omissa pela Fazenda Pública recorrente, mais especificamente no que tange à comprovação do ônus financeiro, não foi previamente apresentada nas contrarrazões da apelação, nem mesmo questionada em sede embargos de declaração, incorrendo em verdadeira inovação recursal.
+2. As razões do agravo interno devem ser parcialmente acolhidas. Não há descumprimento do art. 166 do CTN, uma vez que o acórdão dispôs expressamente que a restituição do indébito se limitará aos pagamentos efetivamente comprovados, em consonância com este Superior Tribunal de Justiça.
+3. Ainda que assim não fosse, uma vez reconhecido o direito à restituição do indébito tributário, como realizado pelo acórdão proferido na origem, nada obsta o adiamento da comprovação de assunção do ônus financeiro do tributo ou não repasse, ou mesmo da autorização consoante previsto no art. 166 do CTN.
+4. Agravo interno parcialmente provido.
+(AgInt no AREsp n. 2.762.238/DF, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 21/5/2025, DJEN de 27/5/2025.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. FUNDAMENTO CONSTITUCIONAL. ANÁLISE. INVIABILIDADE. PREQUESTIONAMENTO. AUSÊNCIA.
+1. A arguição da questão tida por omitida somente nos embargos de declaração e não nas contrarrazões de apelação, peça, no caso, sequer apresentada na origem, manifesta inovação recursal, situação em que o Superior Tribunal de Justiça entende não haver negativa de prestação jurisdicional. Precedentes.
+2. Examinada a matéria em debate sob o enfoque eminentemente constitucional, mostra-se inviável a análise da questão em sede de recurso especial, sob pena de usurpação da competência do STF.
+3. O reconhecimento do prequestionamento ficto de que trata o art. 1.025 do CPC/2015, na via do especial, exige a indicação e o reconhecimento pelo STJ de ofensa ao art. 1.022 do CPC/2015, especificamente quanto à questão que se pretende ver analisada, o que não se constata no caso presente.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.681.491/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 18/11/2024, DJe de 22/11/2024.)
+Diante do exposto, rejeito os embargos de declaração.
+Intime-se. Publique-se.
+EMENTA
