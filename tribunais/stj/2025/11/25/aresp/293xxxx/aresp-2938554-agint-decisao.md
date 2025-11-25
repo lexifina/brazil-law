@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo interno interposto contra decisão assim ementada (fl. 1005):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO NÃO CONHECIDO.
+A parte agravante alega, em síntese, que houve a impugnação específica ao óbice da Súmula 7/STJ, bem assim que o exame do recurso especial estaria prejudicado, em razão da existência de Repercussão Geral do Tema 1255 - RE 1.412.069.
+Com impugnação.
+É o relatório.
+Consigna-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Observa-se que existe matéria controvertida nos autos relativa aos critérios de fixação dos honorários, postulando-se pelo juízo de equidade.
+Ocorre que, em que pese o entendimento desta Corte exposto no julgamento do Tema 1076, é de se ressaltar que o Supremo Tribunal Federal reconheceu a existência de Repercussão Geral do Tema 1255 - RE n. 1.412.069 - Possibilidade da fixação dos honorários por apreciação equitativa (artigo 85, § 8º, do Código de Processo Civil) quando os valores da condenação, da causa ou o proveito econômico da demanda forem exorbitantes.
+O atual posicionamento desta Corte é no sentido de que qualquer irresignação que tenha por objeto questão afetada para julgamento segundo o rito dos recursos repetitivos ou da repercussão geral devem aguardar o julgamento do paradigma representativo no Tribunal de origem, viabilizando, assim, o juízo de conformação disciplinado pelos artigos 1.039 e 1.040 do CPC. Nesse sentido: AgInt no AgInt no REsp 1.603.061/SC, Rel. Min. Sérgio Kukina, Primeira Turma, DJe de 28/6/2017; AgInt no AREsp 1.557.653/PR, Rel. Min. Herman Benjamin, Segunda Turma, DJe de 14/5/2020; e RCD nos EDcl no REsp 1.480.838/RS, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe de 20/9/2019.
+Ante o exposto, reconsidero a decisão agravada para torná-la sem efeito e julgar prejudicado o exame do presente recurso nesse momento processual e determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa nesta Corte, para que, frente ao que decidido pela Excelsa Corte nos autos do RE n. 1.412.069 - RG (Tema n. 1.255), o apelo especial: a) tenha seguimento denegado na hipótese do acórdão recorrido coincidir com a orientação do STF; ou b) seja novamente examinado pelo Tribunal de origem, caso o aresto hostilizado divirja do entendimento firmado nesta Corte (arts. 1.039, 1.040, I e II, e 1.041 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. TEMA 1.255 DO STF. DECISÃO AGRAVADA RECONSIDERADA PARA, TORNANDO-A SEM EFEITO, JULGAR PREJUDICADA A ANÁLISE DO RECURSO ESPECIAL, COM A DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM.
