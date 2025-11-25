@@ -1,0 +1,2 @@
+Dispõe sobre a desestatização da empresa Centrais Elétricas Brasileiras S.A. (Eletrobras); altera as Leis nos 5.899, de 5 de julho de 1973, 9.991, de 24 de julho de 2000, 10.438, de 26 de abril de 2002, 10.848, de 15 de março de 2004, 13.182, de 3 de novembro de 2015, 13.203, de 8 de dezembro de 2015, 14.118, de 13 de janeiro de 2021, 9.648, de 27 de maio de 1998, e 9.074, de 7 de julho de 1995; e revoga dispositivos da Lei nº 3.890-A, de 25 de abril de 1961.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
