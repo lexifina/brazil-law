@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 19/11/2025 a 25/11/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Maria Marluce Caldas votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. OMISSÃO. VÍCIO NÃO CONSTATADO. TENTATIVA DE REDISCUSSÃO DE MATÉRIA JÁ JULGADA. EMBARGOS REJEITADOS.
+1. Os embargos de declaração possuem fundamentação vinculada. Dessa forma, para seu cabimento, é imprescindível a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal. Portanto, a mera irresignação com o entendimento apresentado na decisão, visando, assim, a reversão do julgado, não tem o condão de viabilizar a oposição dos aclaratórios.
+2. Neste caso, não se constatam os vícios alegados pelo embargante. Ao que se tem, a intenção destes aclaratórios é a de rediscutir a matéria já julgada, já que o provimento judicial contrariou os interesses do embargante. Esse, porém, não é o propósito dos aclaratórios.
+3. Embargos rejeitados.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos por CLEUTON GOMES PEREIRA contra acórdão da Quinta Turma assim ementado (e-STJ, fl. 1138):
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. DECISÃO DE PRONÚNCIA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. ALEGAÇÃO DE INSUFICIÊNCIA PROBATÓRIA. PRESENÇA DE INDÍCIOS DE AUTORIA. REVERSÃO DO JULGADO. NECESSIDADE DE REVOLVIMENTO DE FATOS E PROVAS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. A decisão de pronúncia tem natureza interlocutória e não encerra o processo de apuração dos crimes dolosos contra a vida. Também não se pode dizer que tal decisão encerra juízo a respeito da responsabilidade criminal do acusado, mas apenas atesta a presença de indícios suficientes para autorizar ou não a continuação do feito perante o Tribunal do Júri.
+2. Neste caso, a decisão de pronúncia não teve somente amparo em elementos informativos produzidos na fase pré-processual, mas também em provas judicializadas, sobretudo nos depoimentos prestados por testemunhas, que contrariaram a versão apresentada pelo agravante.
+3. Diante do quadro delineado pelas instâncias antecedentes, não é possível desconstituir as conclusões do Tribunal de origem sem verticalizada reincursão no conjunto probatório, providência não suportada pelos estreitos limites cognitivos do habeas corpus, conforme consolidada jurisprudência desta Corte.
+4. Agravo regimental não provido.
+Em suas razões alega omissão no julgado, que não teria se manifestado quanto à inadmissibilidade da prova indireta como fundamento para a pronúncia.
+Diante disso, requer o acolhimento destes embargos para sanar o vício apontado.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. OMISSÃO. VÍCIO NÃO CONSTATADO. TENTATIVA DE REDISCUSSÃO DE MATÉRIA JÁ JULGADA. EMBARGOS REJEITADOS.
+1. Os embargos de declaração possuem fundamentação vinculada. Dessa forma, para seu cabimento, é imprescindível a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal. Portanto, a mera irresignação com o entendimento apresentado na decisão, visando, assim, a reversão do julgado, não tem o condão de viabilizar a oposição dos aclaratórios.
+2. Neste caso, não se constatam os vícios alegados pelo embargante. Ao que se tem, a intenção destes aclaratórios é a de rediscutir a matéria já julgada, já que o provimento judicial contrariou os interesses do embargante. Esse, porém, não é o propósito dos aclaratórios.
+3. Embargos rejeitados.
+VOTO
+Como é de conhecimento, os embargos de declaração possuem fundamentação vinculada. Dessa forma, para seu cabimento, é necessária a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal.
+Conforme já mencionado, discute-se, neste habeas corpus, a insuficiência de elementos indiciários para autorizar a submissão do agravante a julgamento perante o Tribunal do Júri em razão da prática de crime doloso contra a vida. O embargante já foi condenado pelo Tribunal do Júri a 54 anos, 5 meses e 20 dias de reclusão. A sessão de julgamento ocorreu em 22 de março de 2022. A sentença foi confirmada pelo Tribunal de Justiça, que negou provimento ao recurso de apelação.
+Ao examinar as alegações de falta de amparo da decisão de pronúncia, o acórdão embargado ressaltou que as instâncias antecedentes apontaram que o ora embargante, mesmo preso, continuou a comandar o tráfico de drogas nos bairros Terra Vermelha, Normília, João Goulart, Barramares e Barra do Jucu. O corréu Jhonatan confirmou a participação no crime e deu detalhes sobre o modo de execução e sobre os motivos da ação que ceifou a vida das duas vítimas, levando o magistrado a concluir, a partir do cotejo entre os elementos informativos e as provas, pela viabilidade da acusação, decidindo pronunciar o réu.
+Assim, a questão apresentada nestes embargos foi adequadamente examinada e rechaçada, inexistindo vício a ser sanado pela via dos aclaratórios. O que se percebe é que, sob a alegação de vício autorizador da oposição de embargos, pretende-se em verdade, reabrir a discussão acerca dos temas já rechaçados, valendo-se, impropriamente dos embargos, que não se prestam ao reexame de matéria já apreciada, ainda que as conclusões tenham sido contrárias aos interesses da parte embargante, conforme entendimento jurisprudencial já pacificado nesta Corte Superior de Justiça.
+Ilustrativamente:
+EMBARGOS DE DECLARAÇÃO EM RECURSO ORDINÁRIO EM HABEAS CORPUS. ALEGAÇÃO DE OMISSÃO. INOCORRÊNCIA. EVIDENTE INTENÇÃO REDISCUTIR MATÉRIAS JÁ JULGADAS. EMBARGOS REJEITADOS.
+1. Os embargos de declaração são cabíveis quando houver ambiguidade, obscuridade, contradição ou omissão na decisão, nos termos do art. 619 do Código de Processo Penal - CPP.
+2. Não há falar em omissão, uma vez que foram explicitados de forma clara as razões de decidir do julgado, tendo o acórdão impugnado destacado que o trancamento de ação pena era medida excepcional. Consignou-se, ainda, no voto que "o Juízo da 1a Vara Criminal Federal, do Júri e das Execuções Penais da 1a Subseção Judiciária do Estado de São Paulo, ao proferir nova análise da defesa prévia por determinação do Tribunal ad quem, destacou que o procedimento administrativo fiscal fora concluído em 16/11/2007 com a constituição definitiva do crédito tributário e foi acostado aos autos do inquérito apenas em 16/11/2010, não havendo que se falar, portanto, que a ação policial utilizada para posterior oferecimento de denúncia contra os recorrentes pautou-se em informação protegida por sigilo. Como se vê, ao menos em tese, não se vislumbra ilicitude nas provas indicadas pela exordial acusatória. Desse modo, diante dos estreitos limites do rito, afigurar-se-ia prematuro determinar o trancamento da ação penal.
+3. Cabe destacar que não é a estreita via do habeas corpus a sede para incursões aprofundadas relativas ao conjunto probatório da ação penal, sobretudo quando apenas iniciada a instrução.
+4. O que se verifica, em verdade, é a nítida intenção do embargante, inconformado com o resultado do julgamento, em rediscutir a matéria apreciada e já decidida pela Quinta Turma. Embargos de declaração rejeitados. (EDcl na PET no RHC 75.532/SP, Rel. Ministro JOEL ILAN PACIORNIK, Quinta Turma, DJe 15/12/2017)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. LAVAGEM DE DINHEIRO. AUSÊNCIA DE INDICAÇÃO DOS FUNDAMENTOS NÃO IMPUGNADOS NA DECISÃO AGRAVADA. OMISSÃO. INEXISTÊNCIA DE VÍCIO NO JULGADO. REDISCUSSÃO DO ENTENDIMENTO. IMPOSSIBILIDADE. ACLARATÓRIOS REJEITADOS.
+1. Inexistindo no acórdão embargado qualquer dos vícios previstos no art. 619 do Código de Processo Penal que permitem o manejo dos aclaratórios, não há como esses serem acolhidos.
+2. Na espécie, inexiste a omissão apontada pela defesa, tendo o acórdão embargado apreciado a insurgência de forma clara e fundamentada, não sendo possível, em embargos de declaração, rediscutir o entendimento adotado, sequer para fins de prequestionamento.
+3. Caracteriza inovação recursal a pretensão de revolver a matéria decidida apresentando nova alegação suscitada apenas nos presentes embargos declaratórios.
+4. Embargos de Declaração rejeitados (EDcl no AgRg no AREsp 381.524/CE, Rel. Ministro JORGE MUSSI, Quinta Turma, DJe 1º/6/2018).
+Desse modo, não há que se falar em omissão, inexistindo o que ser reparado no acórdão embargado, devendo o inconformismo da parte ser manifestado no bojo do meio processual adequado.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+RELATOR
