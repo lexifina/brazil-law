@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por FRANCISCO DAS CHAGAS DA SILVA CAVALCANTE e JERONSO CAVALCANTE contra acórdão do Tribunal de Justiça do Estado do Piauí (HC n. 0761338-82.2025.8.18.0000).
+Consta que os recorrentes foram denunciados em 29/5/2015 pela suposta prática do crime de homicídio qualificado (art. 121, § 2º, II, do Código Penal). Em 02/09/2015, ao receber a denúncia, o Juízo de origem decretou a prisão preventiva dos acusados, destacando a gravidade concreta do fato, os indícios de autoria colhidos em sede policial e a evasão do local.
+Em 28/5/2018, diante da citação por edital e da não apresentação de defesa, o processo e o prazo prescricional foram suspensos com base no art. 366 do CPP.
+O cumprimento dos mandados ocorreu em 21/8/2025, após localização dos recorrentes no Estado do Ceará, com notícia de uso de identidades diversas.
+A defesa impetrou habeas corpus perante o Tribunal de Justiça do Estado do Piauí, alegando ausência de fundamentação concreta do decreto de prisão, falta de contemporaneidade e possibilidade de aplicação de medidas cautelares diversas da prisão.
+O Tribunal a quo denegou a ordem em acórdão assim ementado (e-STJ fls. 91/93):
+EMENTA: DIREITO PROCESSUAL PENAL. HABEAS CORPUS. PRISÃO PREVENTIVA. HOMICÍDIO QUALIFICADO. EVASÃO DO DISTRITO DA CULPA. FUNDAMENTAÇÃO IDÔNEA. GARANTIA DA ORDEM PÚBLICA, DA INSTRUÇÃO CRIMINAL E DA APLICAÇÃO DA LEI P E N A L . C O N T E M P O R A N E I D A D E D A C U S T Ó D I A . CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. INSUFICIÊNCIA. ORDEM DENEGADA.
+I. CASO EM EXAME
+1. Habeas Corpus com pedido liminar impetrado em favor de Francisco das Chagas da Silva Cavalcante e Jeronso Cavalcante, presos preventivamente pela suposta prática de homicídio qualificado (art. 121, §2º, II, do Código Penal), apontando como autoridade coatora o Juízo da 1ª Vara da Comarca de Esperantina/PI. A defesa sustenta ausência de fundamentação concreta do decreto de prisão, falta de contemporaneidade da custódia e possibilidade de aplicação de medidas cautelares diversas da prisão, requerendo, com isso, a revogação da prisão preventiva.
+II. QUESTÃO EM DISCUSSÃO
+2. Há três questões em discussão: (i) verificar se o decreto de prisão preventiva está suficientemente fundamentado em elementos concretos; (ii) avaliar se há ausência de contemporaneidade na decisão que decretou a prisão preventiva; (iii) analisar se é cabível a substituição da prisão por medidas cautelares diversas.
+III. RAZÕES DE DECIDIR
+3. A fundamentação da prisão preventiva baseia-se em dados concretos dos autos, como a gravidade do crime imputado (homicídio qualificado), a fuga dos acusados e o uso de identidades falsas, evidenciando risco à ordem pública, à instrução processual e à aplicação da lei penal (arts. 312 e 313, I, do CPP).
+4. A decisão que decretou a prisão não é genérica ou abstrata, mas apresenta elementos extraídos do contexto fático, como o modus operandi do crime e a periculosidade dos pacientes, reforçada por jurisprudência do STF e STJ.
+5. A alegação de ausência de contemporaneidade não se sustenta, pois a custódia preventiva foi decretada em momento compatível com a evasão dos acusados, e seu cumprimento apenas ocorreu anos depois em razão da fuga dos réus e da citação por edital, conforme previsão do art. 366 do CPP.
+6. A fuga prolongada e a alteração de identidade reforçam a necessidade da prisão cautelar, tornando ineficazes medidas alternativas previstas no art. 319 do CPP, dada a incapacidade de tais medidas de garantir a ordem pública e a efetividade do processo penal.
+7. A jurisprudência dominante do STJ afasta a aplicação de medidas cautelares em casos de crimes graves com risco concreto de reiteração delitiva e fuga, como o verificado nos autos.
+IV. DISPOSITIVO E TESE
+8. Ordem denegada. Tese de julgamento: "1. A prisão preventiva por homicídio qualificado é legítima quando fundamentada em elementos concretos que demonstrem risco à ordem pública, à instrução processual ou à aplicação da lei penal. 2. A contemporaneidade da prisão não se afasta quando o cumprimento da medida é postergado por fuga do réu. 3. A fuga prolongada e o uso de identidade falsa tornam inviável a substituição da prisão preventiva por medidas cautelares diversas."
+No presente recurso, a defesa sustenta a inidoneidade da fundamentação do decreto de prisão preventiva, por ser genérico e apoiado na gravidade abstrata, sem indicação de fatos concretos contemporâneos; a ausência de contemporaneidade da medida cautelar, diante do lapso entre os fatos e a decretação/execução da prisão; e a suficiência de medidas cautelares diversas da prisão.
+Requer a concessão liminar para expedição de alvará de soltura, com a posterior concessão definitiva da ordem.
+É o relatório. Decido.
+Verifico que as teses apresentadas no presente recurso ordinário já foram objeto de exame nesta Corte, nos autos do HC 1051722/PI, impetrado pelo mesmo advogado, em favor das mesmas partes, e contra o mesmo acórdão.
+A utilização do recurso cabível simultaneamente à utilização do writ substitutivo desvirtuou o ordenamento processual, por se tratar de mera reiteração, motivo pelo qual o presente recurso não pode prosseguir.
+Isto porque "embora o recurso ordinário em habeas corpus consista no meio próprio para a apreciação da irresignação, a defesa optou por impetrar, também, habeas corpus substitutivo, o qual primeiramente foi despachado nesta Corte. Desse modo, a tese idêntica não pode ser simultaneamente analisada em impetrações/interposições posteriores". (AgRg no RHC n. 103.808/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/11/2018, DJe 10/12/2018).
+Nesse ponto, cumpre salientar que, embora esta Corte entenda ser, de início, incabível o habeas corpus substitutivo de recurso, em homenagem ao princípio da ampla defesa, é de rigor o exame da insurgência, para verificar a existência de eventual constrangimento ilegal passível de ser sanado pela concessão da ordem, de ofício.
+No caso, a decisão proferida em 13/11/2025 não conheceu do habeas corpus, mas examinou detidamente as alegações da defesa, não constatando a existência de ilegalidade a ser sanada.
+Ante o exposto, nego seguimento ao presente recurso.
+Intimem-se.
+EMENTA
