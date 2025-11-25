@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em Sessão Virtual de 19/11/2025 a 25/11/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva, Sebastião Reis Júnior, Francisco Falcão, Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Maria Thereza de Assis Moura, Og Fernandes, Luis Felipe Salomão e Mauro Campbell Marques votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Presidente do STJ.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA. NÃO IMPUGNAÇÃO À FUNDAMENTAÇÃO DA DECISÃO AGRAVADA. SÚMULA 182/STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+2. A ausência de impugnação específica à fundamentação da decisão agravada impõe o não conhecimento do recurso. Incidência da Súmula 182/STJ.
+3. Agravo interno não conhecido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno, interposto pela PETROSUL DISTRIBUIDORA, TRANSPORTADORA E COMÉRCIO DE COMBUSTÍVEIS LTDA. - EM RECUPERAÇÃO JUDICIAL e pela LAIMA PARTICIPAÇÕES LTDA. - EM RECUPERAÇÃO JUDICIAL, contra a decisão de fls. 686/693e, assim ementada:
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AUSÊNCIA DE SIMILITUDE FÁTICO-JURÍDICA. EMBARGOS DE DIVERGÊNCIA INDEFERIDOS LIMINARMENTE.
+Sustentam as agravantes, em resumo, que "o não conhecimento de um recurso especial - que, repita-se, foi prontamente admitido pelo E. TJSP - devido ao lapso na apresentação de um mero documento de folha única representa excesso de rigorismo e afronta o princípio da instrumentalidade das formas amparado pelo artigo 277 do CPC (..) É evidente que não há nenhuma gravidade no equívoco pontual das Agravantes. É necessário relembrar que não foi o caso de não apresentação de nenhum documento de representação. Pelo contrário, as Agravantes apresentaram todos os documentos que outorgam poderes aos advogados integrantes da banca que patrocinava seus interesses no momento da interposição do recurso especial, restando tão somente a procuração outorgada à Dra. Camilla, advogada que assinou o pedido de recuperação judicial em 2019 (..) seguindo o racional do acórdão exarado pela 2ª Turma, de que "deve- se ter em mente que o processo não constitui um fim em si mesmo, e sim um instrumento para a realização do direito material", as Agravantes enfatizam a necessidade de apreciação do recurso especial, ainda mais devido ao fato de se tratar de tema de ordem pública - eis que o objeto do recurso não conhecido é tema central para o sucesso da recuperação judicial das Agravantes, qual seja, a constrição da sede e fábrica das empresas em recuperação judicial -, o pagamento dos credores das Embargantes" (fls. 704/706e).
+Requerem, por fim, "seja exercido o juízo de retratação pelo Ministro Relator, para que, considerando os fatos acima esclarecidos, reconsidere a Decisão Agravada com objetivo de que sejam acolhidos os embargos de divergência e, consequentemente, seja reconhecido o excesso de formalismo em relação ao documento de procuração concedendo poderes à Dra. Camilla. 23. Caso não exercida a retratação, as Agravantes requerem o conhecimento e provimento deste agravo interno para que o colegiado da Corte Especial do STJ reconheça a similitude dos acórdãos e deem provimento aos embargos de divergência opostos pelas ora Agravantes para que, na sequência, seja julgado o recurso especial interposto" (fl. 706e).
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA. NÃO IMPUGNAÇÃO À FUNDAMENTAÇÃO DA DECISÃO AGRAVADA. SÚMULA 182/STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+2. A ausência de impugnação específica à fundamentação da decisão agravada impõe o não conhecimento do recurso. Incidência da Súmula 182/STJ.
+3. Agravo interno não conhecido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Destaco, inicialmente, que o recurso foi interposto sob a vigência do Código de Processo Civil de 2015, razão por que deve ser observado o Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do Novo CPC".
+A decisão agravada indeferiu liminarmente os embargos de divergência, pela ausência de similitude entre os casos confrontados e pela incidência da Súmula 168/STJ.
+Ocorre que as ora agravantes, no agravo interno, não impugnaram a referida fundamentação, limitando-se a tecer alegações vagas, sobretudo quanto à questão de fundo, razão pela qual impõe-se a incidência da Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Em face do exposto, não conheço do agravo interno.
+É como voto.
