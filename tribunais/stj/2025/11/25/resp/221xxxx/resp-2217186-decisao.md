@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de recurso especial interposto por VIBRA ENERGIA S.A., com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, que julgou demanda relativa a ação de indenização.
+O julgado negou provimento ao recurso de apelação do recorrente nos termos da seguinte ementa (fl. 470):
+APELAÇÃO CÍVEL. TRANSPORTE. AÇÃO INDENIZATÓRIA. VALE-PEDÁGIO. PRELIMINAR DE
+ILEGITIMIDADE PASSIVA REJEITADA. PRESCRIÇÃO. INOCORRÊNCIA. PRAZO PRESCRICIONAL ÂNUO FIXADO NO ART. 18, DA LEI Nº 11.442/2007, NÃO APLICÁVEL AO CASO. APLICAÇÃO DO PRAZO PRESCRICIONAL DECENAL (ART. 205 DO CC). NO MÉRITO, DEMONSTRADA A EXISTÊNCIA DE PEDÁGIOS NAS RODOVIAS PELAS QUAIS A EMPRESA AUTORA TRANSITOU À ÉPOCA DA REALIZAÇÃO DOS FRETES. COMPROVADO O
+PAGAMENTO DE PEDÁGIOS E VALORES DESPENDIDOS NO CUMPRIMENTO DO CONTRATO
+DE TRANSPORTE. INADEQUADA A APLICAÇÃO DA TAXA SELIC AO VALOR DA CONDENAÇÃO. APLICABILIDADE DO ÍNDICE IGP-M. PRECEDENTES DESTA CORTE. MANUTENÇÃO DA DECISÃO RECORRIDA. PRELIMINARES REJEITADAS. NO MÉRITO, RECURSO DESPROVIDO, EM MONOCRÁTICA.
+Rejeitados os embargos de declaração opostos (fls. 520).
+No presente recurso especial, o recorrente alega violação ao artigo 406, CC já que o acórdão recorrido violou o dispositivo ao afastar a aplicação da taxa referencial do Sistema Especial de Liquidação e Custódia (SELIC) como único índice de atualização a partir da vigência do Código Civil de 2002, vedada a cumulação com outros índices de correção monetária. Defende a incidência da SELIC desde a citação, por se tratar de relação contratual reconhecida no acórdão (fls. 632-637, 643).
+Apresentadas as contrarrazões (fls. 665-668), sobreveio o juízo de admissibilidade positivo da instância de origem (fls. 672-673 ).
+É, no essencial, o relatório.
+A questão central discutida é quanto à aplicação da taxa SELIC, como índice de correção e juros.
+Ocorre que o STJ, após afetar a questão, recentemente a julgou a fim de uniformizar o tema.
+Veja-se a tese firmada:
+O art. 406 Código Civil de 2002, antes da entrada em vigor da Lei nº 14.905/2024, deve ser interpretado no sentido de que é a SELIC a taxa de juros de mora aplicável às dívidas de natureza civil, por ser esta a taxa em vigor para a atualização monetária e a mora no pagamento de impostos devidos à Fazenda Nacional. (Tema 1368)
+O julgado deixa claro que a Taxa citada é, atualmente, a única em vigor para a mora nos pagamentos de impostos federais, conforme previsto em legislação e os próprios bancos são vinculados à taxa SELIC.
+Assim, consolidou-se o entendimento que fixar juros civis de mora diferentes do parâmetro nacional viola o art. 406 do CC e causa impacto macroeconômico. A lei prevê que os juros moratórios civis sigam a mesma taxa aplicada à mora de impostos federais, no caso, a SELIC, garantindo harmonia entre obrigações públicas e privadas.
+Como esses índices oficiais são ajustados conforme a macroeconomia, o valor aplicado nas relações privadas não deve superar o nível básico definido para toda a economia.
+Nesse sentido, traz-se o acórdão paradigma:
+RECURSO ESPECIAL REPETITIVO. DIREITO CIVIL. TEMA 1368. INTERPRETAÇÃO DO ART. 406 DO CÓDIGO CIVIL. RELAÇÕES CIVIS. JUROS MORATÓRIOS. TAXA LEGAL. APLICAÇÃO DA SELIC. RECURSO PROVIDO.
+1. A questão em discussão consiste em saber se a taxa referencial do Sistema Especial de Liquidação e Custódia (SELIC) deve ser considerada para a fixação dos juros moratórios a que se referia o art. 406 do Código Civil antes da entrada em vigor da Lei nº 14.905/2024.
+2. A taxa SELIC é a única taxa atualmente em vigor para a mora no pagamento de impostos federais, conforme previsto em diversas legislações tributárias (Leis 8.981/95, 9.065/95, 9.250/95, 9.393/96, 10.522/2002, Decreto 7.212/2010, entre outras), possuindo também status constitucional a partir da Emenda Constitucional n. 113.
+3. Outra conclusão, levaria a um cenário paralelo em que o credor civil passaria a fazer jus a uma remuneração superior a qualquer aplicação financeira bancária, pois os bancos são vinculados à SELIC. Não há falar em função punitiva dos juros moratórios, eis que para isso existem as previsões contratuais de multa moratória, sendo a sua função apenas a de compensar o deságio do credor.
+Segundo o art. 404 do Código Civil, se os juros não cobrem o prejuízo, o juiz pode inclusive conceder indenização suplementar.
+4. Fixar juros civis de mora diferentes do parâmetro nacional viola o art. 406 do CC e causa impacto macroeconômico. A lei prevê que os juros moratórios civis sigam a mesma taxa aplicada à mora de impostos federais, garantindo harmonia entre obrigações públicas e privadas. Como esses índices oficiais são ajustados conforme a macroeconomia, o valor aplicado nas relações privadas não deve superar o nível básico definido para toda a economia.
+5. Nos temas 99, 112 e 113 fixados em recursos especiais repetitivos, a Primeira Seção desta Corte definiu as teses no sentido de ser a SELIC a taxa legal referenciada na redação original do art. 406 do Código Civil.
+6. A jurisprudência consolidada do Superior Tribunal de Justiça e do Supremo Tribunal Federal reconhece a validade da SELIC como índice de correção monetária e juros moratórios, aplicável às condenações cíveis em geral, conforme já decidido por esta Corte Especial em 2008, por ocasião do julgamento do EREsp 727.842/SP (Rel. Min. Teori Albino Zavascki, julgado em 8/9/2008 e publicado no DJe de 20/11/2008), e reafirmada em 2024 no julgamento do REsp 1.795.982/SP (Rel. p/ acórdão Min. Raul Araújo, julgado em 21/8/2024 e publicado no DJe de 22/10/2024), sendo este último confirmado pelo Supremo Tribunal Federal, ao desprover o RE 1.558.191/SP (Rel. Min. André Mendonça, Segunda Turma, Sessão Virtual de 05/09/2025 a 12/09/2025 e publicado no DJe de 08/10/2025).
+7. A SELIC, por englobar juros de mora e correção monetária, evita a cumulação de índices distintos, garantindo maior previsibilidade e alinhamento com o sistema econômico nacional.
+8. Tese para os fins do art. 1.040 do CPC/2015: Tema 1368. O art. 406 do Código Civil de 2002, antes da entrada em vigor da Lei nº 14.905/2024, deve ser interpretado no sentido de que é a SELIC a taxa de juros de mora aplicável às dívidas de natureza civil, por ser esta a taxa em vigor para a atualização monetária e a mora no pagamento de impostos devidos à Fazenda Nacional.
+9. Definição do caso concreto: Recurso especial provido.
+(REsp n. 2.199.164/PR, relator Ministro Ricardo Villas Bôas Cueva, Corte Especial, julgado em 15/10/2025, DJEN de 20/10/2025.)
+Portanto, tendo em vista que as instâncias ordinárias afastaram a aplicação da taxa SELIC, a fim de uniformizar às decisões relativas a matéria que envolva lei federal, há de se reformar o acórdão recorrido, para que se possa adequá-lo ao entendimento desta Corte.
+Ante o exposto, conheço do recurso e dou-lhe provimento a fim de reformar o acórdão guerreado para que seja aplicada a taxa SELIC como índice de correção e juros nos termos da fundamentação supra.
+Publique-se. Intimem-se.
+ EMENTA
