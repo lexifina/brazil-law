@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto por 7TH AVENUE LIVE & WORK com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Paraná em agravo de instrumento nos autos de execução de título extrajudicial.
+O julgado foi assim ementado (fl. 66):
+AGRAVO DE INSTRUMENTO. PROCESSO CIVIL. AÇÃO EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL. QUOTA CONDOMINIAL. DECISÃO QUE CONSIDEROU OS CRÉDITOS CONDOMINIAIS COMO DE NATUREZA EXTRACONCURSAL. ALEGAÇÃO DE QUE OS CRÉDITOS TÊM NATUREZA CONCURSAL - ACOLHIMENTO EM PARTE - OBSERVÂNCIA DO CONTIDO NO ARTIGO 49 DA LEI 11.101 /2005. DEVEM SER SUBMETIDOS AO JUIZO DA RECUPERAÇÃO JUDICIAL OS CRÉDITOS CONCURSAIS FORMADOS ATÉ A DATA DO PEDIDO DE RECUPERAÇÃO JUDICIAL (21/10/2019). PROSSEGUIMENTO DA EXECUÇÃO NO JUÍZO DE ORIGEM QUANTO AOS CRÉDITOS EXTRACONCURSAIS (POSTERIORES A OUTUBRO DE 2019). REFORMA PARCIAL DA DECISÃO. RECURSO PARCIALMENTE PROVIDO.
+1. Trata-se de Execução de Título Executivo Extrajudicial referente ao inadimplemento de quota condominial, relativa ao período de março de 2017 a outubro de 2021. Decisão que considerou o crédito condominial como de natureza extraconcursal. Pleito de reforma da decisão sob a alegação de que se trata de crédito concursal.
+2. Observância do atual entendimento do Superior Tribunal de Justiça no sentido que os créditos decorrentes de despesas condominiais inadimplidas deve observar o marco temporal contido no artigo 49, caput, da Lei 11.101.2005.
+3. Aplicação do Tema 1.051 do Superior Tribunal de Justiça "Para o fim de submissão aos efeitos da recuperação judicial, considera-se que a existência do crédito é determinada pela data em que ocorreu o seu fato gerador."
+4.Recurso parcialmente provido.
+Os autos vie ram conclusos para análise.
+O recurso especial possui como objeto questão submetida a julgamento afetado à sistemática dos recursos repetitivos, a saber: "definir se as despesas/débitos/cotas condominiais anteriores à recuperação judicial são considerados créditos extraconcursais ou concursais, à luz dos artigos 49 e 84 da Lei n. 11.101/2005" (REsps n. 2.206.633/PR, 2.203.524/RJ e 2.206.292/RJ).
+Dessa forma, para que seja observada a sistemática prevista nos arts. 1.040 e 1.041 do CPC, impõe-se a devolução dos autos ao Tribunal de origem, conforme dispõe o art. 256-L do RISTJ.
+Art. 256-L. Publicada a decisão de afetação, os demais recursos especiais em tramitação no STJ fundados em idêntica questão de direito:
+I - se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator;
+II - se ainda não distribuídos, serão devolvidos ao Tribunal de origem por decisão fundamentada do Presidente do STJ.
+Registre-se que, segundo a orientação jurisprudencial do STJ, o ato judicial que determina o sobrestamento e o retorno dos autos à Corte de origem a fim de que seja exercido o competente juízo de retratação/conformação (arts. 1.040 e 1.041 do CPC) não tem carga decisória, por isso é provimento irrecorrível.
+Nesse sentido: AgInt no REsp n. 1.140.843/PR, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 23/10/2018, DJe de 30/10/2018; AgInt nos EDcl nos EREsp n. 1.126.385/MG, relator Ministro Og Fernandes, Primeira Seção, julgado em 13/9/2017, DJe de 20/9/2017; AgInt no REsp n. 1.663.877/SE, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/8/2017, DJe de 4/9/2017; e AgInt no REsp n. 1.661.811/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 26/6/2018, DJe de 29/6/2018.
+Ante o exposto, determino a restituição dos autos ao Tribunal de origem a fim de que fiquem sobrestados até o julgamento definitivo da matéria submetida à sistemática dos recursos repetitivos (Tema n. 1.391) e eventual retratação prevista nos arts. 1.040, II, e 1.041 do CPC .
+Publique-se. Intimem-se.
+ EMENTA
