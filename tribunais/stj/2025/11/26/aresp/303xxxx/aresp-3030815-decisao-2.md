@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MARLI DE FÁTIMA SCHMID e OUTROS contra a decisão que inadmitiu o recurso especial por incidência da Súmula n. 7 do STJ.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial foi interposto com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro em apelação cível nos autos de ação de obrigação de fazer c/c ação indenizatória.
+O julgado foi assim ementado (fls. 1.176-1.177):
+APELAÇÃO CÍVEL. DIREITO CIVIL. RELAÇÃO DE CONSUMO. OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. TRANSPLANTE HEPÁTICO. SITUAÇÃO DE EMERGÊNCIA. PREENCHIMENTO DOS REQUISITOS ESTABELECIDOS PELA SEGUNDA SEÇÃO DO STJ (ERESPS 1.889.704/SP e 1.886.929/SP). RECUSA INDEVIDA. DANO MORAL IN RE IPSA. VERBA REPARATÓRIA ADEQUADA. INCIDÊNCIA DOS VERBETES SUMULARES Nº 209, 211, 339, 340 e 469 DO TJRJ E DOS ARTIGOS 35-C, I, DA LEI 9656/98, 4º, I E II, DA RN/ANS 259/11, 17 DA RN/ANS 465/21 E 1º DA RN/ANS 546/22. MANUTENÇÃO DA SENTENÇA.
+- Apela a ré, arguindo que o transplante hepático não consta no rol de procedimentos obrigatórios, conforme RN 428/17, da ANS, para requerer a improcedência do pedido ou a redução do valor fixado a título de danos morais; recorre a parte autora, pugnando pela majoração da verba reparatória para R$ 50.000,00.
+- Relação de natureza consumerista, a teor do disposto no verbete sumular nº 469, do TJRJ: "Aplica-se o Código de Defesa do Consumidor aos contratos de plano de saúde".
+- Necessidade incontroversa de o autor se submeter a um transplante de fígado, em decorrência de cirrose hepática, sob pena de violação ao princípio da dignidade da pessoa humana, haja vista a gravidade do caso, devidamente comprovada por laudo médico. Verbetes sumulares n.º 211 e n.º 340 do TJRJ.
+- Situação emergencial, com risco de morte ou dano irreparável ao paciente, sendo notória a gravidade de um diagnóstico de cirrose hepática, complicada por carcinoma, conforme laudos e exames adunados à inicial, o que torna ilegítima a recusa de cobertura, nos termos do disposto no art. 35-C, I, da Lei nº 9.656/98.
+- Logo, a cláusula nº 11, "d", do contrato de firmado entre as partes é abusiva e nula de pleno direito, nos termos do artigo 51, VI, do CDC.
+- Resolução Normativa n.º 465/2021 da ANS (que revogou a RN/ANS n.º 428/2017), em seu art. 17, que estabelece a obrigação de a operadora de saúde autorizar todos os procedimentos, nos exatos termos do art. 10 da Lei nº 9.656/98. - Resolução Normativa n.º 546/2022 da ANS que alterou a RN/ANS n.º 465/2021, para incluir o transplante hepático no rol básico de cobertura obrigatória no âmbito da saúde suplementar.
+- Assim, reputam-se preenchidos os requisitos estabelecidos pela Segunda Seção do STJ para o deferimento da cirurgia de transplante hepático ao autor (EREsps n. 1.889.704/SP e 1.886.929/SP, Relator Ministro Luis Felipe Salomão, Segunda Seção, julgados em 8/6/2022, DJe de 3/8/2022).
+- Consigne-se que o art. 4º, I E II, da RN/ANS n.º 259/11, obriga a operadora de saúde a garantir o atendimento em rede não conveniada, quando sua rede assistencial não ofereça o serviço ou procedimento solicitado, tal como nestes autos.
+- Quantum indenizatório (R$ 5.000,00) que se revela proporcional e razoável, uma vez que a tutela de urgência foi prontamente deferida, bem assim porque a demora para realização do procedimento decorreu da espera por doadores. Incidência dos verbetes sumulares nºs 209, 339 e 343 do TJRJ. Precedentes.
+DESPROVIMENTO DOS RECURSOS.
+Os embargos de declaração opostos foram desprovidos.
+No recurso especial, a parte aponta violação do art. 944 da Lei n. 10.406/2002, visto que o valor arbitrado a título de danos morais - R$ 5.000,00 - é irrisório diante da extensão do dano, devendo ser majorado à luz dos princípios da proporcionalidade e da razoabilidade.
+Requer o provimento do recurso para majorar a indenização por dano moral.
+É o relatório. Decido.
+A controvérsia diz respeito a ação de obrigação de fazer c/c ação indenizatória em que a parte autora pleiteou a autorização e o custeio do transplante hepático e dos procedimentos correlatos até o completo restabelecimento, além do pagamento de indenização por dano moral.
+A sentença confirmou a tutela de urgência até a data do óbito do autor e extinguiu o pedido de obrigação de fazer por perda superveniente do objeto. Considerou que o Rol da ANS e o caráter experimental do procedimento não impedem cobertura quando o tratamento é necessário e prescrito pelo médico em situação emergencial. Reconheceu o dano moral pela negativa e demora da autorização em contexto de doença grave, fixando em R$ 5.000,00.
+A Corte estadual manteve a sentença, não dando provimento aos recursos e majorando os honorários sucumbenciais para 20% sobre o valor da condenação em desfavor da parte ré.
+A parte recorrente afirma que o valor fixado a título de indenização por danos morais é desproporcional a extensão do dano, devendo ser alterado para R$ 50.000,00.
+Ressalta-se que o valor fixado pela instância ordinária a título de indenização por danos morais só é passível de revisão se for irrisório ou exorbitante, distanciando-se da devida prestação jurisdicional no caso concreto.
+Na espécie, o Tribunal de origem, apreciando o conjunto fático-probatório dos autos, concluiu que, na fixação do quantum indenizatório em R$ 5.000,00 foi proporcional e razoável, à vista da pronta concessão da tutela de urgência e da circunstância referente à demora na realização do procedimento decorrer da espera por doadores.
+Confira-se trecho do julgado (fl. 1.188):
+Assim, conclui-se que o valor arbitrado na sentença, a título de indenização por danos morais, R$ 5.000,00 (cinco mil reais), revela-se proporcional e razoável, após uma análise ponderada sobre as circunstâncias que permearam os fatos, devendo ser mantido, com fulcro no enunciado sumular nº 343 desta Corte de Justiça: "A verba indenizatória do dano moral somente será modificada se não atendidos pela sentença os princípios da proporcionalidade e da razoabilidade na fixação do valor da condenação."
+Assim, uma vez que não foi demonstrada a excepcionalidade capaz de ensejar revisão pelo STJ, o conhecimento do recurso especial implicaria reexame das questões fático-probatórias presentes nos autos, o que é inviável, conforme o enunciado da Súmula n. 7 desta Corte.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem em relação a parte autora.
+Publique-se. Intime-se.
+EMENTA
