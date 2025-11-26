@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de agravo interposto por ODILON FRANCISCO DE ARAUJO contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS cuja ementa guarda os seguintes termos (fls. 422-433):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. LOCALIZAÇÃO DE BENS DO DEVEDOR. PESQUISA. SISTEMA SNIPER. ELEMENTOS MÍNIMOS. ÊXITO DA MEDIDA. AUSÊNCIA. 1. Os sistemas conveniados ao Tribunal, tais como: Bacenjud, Renajud, Infojud e outros, têm a finalidade de integrar informações e proporcionar economia e maior celeridade nas demandas judiciais, uma vez que simplificam procedimentos de localização e constrição de bens. 2. Por outro lado, a tarefa de empreender diligências com o intuito de localizar bens, valores e direitos do devedor passíveis de penhora, compete, precipuamente, ao credor. 3. O princípio da cooperação não confere ao Poder Judiciário o dever de empreender, reiteradamente e de maneira injustificada, pesquisas nos sistemas conveniados com o intuito de localizar bens do devedor que possam ser penhorados. 4. O credor pode se valer de diversos mecanismos extrajudiciais para auxiliá-lo na pesquisa de bens em nome do devedor, não podendo deixar esse encargo sob a responsabilidade integral e exclusiva do Poder Judiciário. 5. É plausível que o agravante apresente elementos mínimos de que a medida pleiteada poderá obter êxito, ainda mais quando já foram realizadas outras tentativas de localização de bens e valores do devedor, mediante pesquisas aos sistemas conveniados, porém sem sucesso. 6. Recurso conhecido e não provido
+Sem embargos de declaração.
+Aduz, no mérito, que o acórdão contrariou as disposições contidas nos arts. 139, IV, e 773 do Código de Processo Civil.
+Não foram oferecidas contrarrazões ao recurso especial.
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 450-451), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo.
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A questão controvertida foi afetada para julgamento sob o rito dos recursos repetitivos: "Definir se, com esteio no art. 139, IV, do CPC/15, é possível, ou não, o magistrado, observando-se a devida fundamentação, o contraditório e a proporcionalidade da medida, adotar, de modo subsidiário, meios executivos atípicos." (Tema n. 1.137/STJ), o que impõe a suspensão do presente recurso perante o Tribunal de origem, até a publicação do acórdão paradigma, nos termos do art. 256-L, I, do RISTJ.
+A propósito, cito a ementa a proposta de afetação:
+PROPOSTA DE AFETAÇÃO - RITO DOS RECURSOS ESPECIAIS REPETITIVOS - TEMÁTICA - DIREITO PROCESSUAL CIVIL - EXECUÇÃO - POSSIBILIDADE, OU NÃO, DE ADOÇÃO DE MEIOS EXECUTIVOS ATÍPICOS. (Art. 139, IV, do CPC/15)
+1. Delimitação da controvérsia:1.1. Definir se, com esteio no art. 139, IV, do CPC/15, é possível, ou não, o magistrado, observando-se a devida fundamentação, o contraditório e a proporcionalidade da medida, adotar, de modo subsidiário, meios executivos atípicos. 2. RECURSO ESPECIAL AFETADO AO RITO DO ART. 1.036 CPC/2015.
+(ProAfR no REsp n. 1.955.539/SP, relator Ministro Marco Buzzi, Segunda Seção, julgado em 29/3/2022, DJe de 7/4/2022.)
+Diante disso, impõe-se a devolução dos autos ao Tribunal de origem para que aguardem o desfecho definitivo da controvérsia afetada, considerando que o entendimento a ser firmado no referido tema poderá influenciar, ainda que de forma parcial, na solução do presente recurso.
+No mesmo sentido, cito as seguintes decisões monocráticas: AgInt no AREsp 2840152, relator Ministro Raul Araújo, DJe 29.05.2025; AgInt no AREsp 2806356, relator Ministro João Otávio de Noronha, DJ de 16.5.2025; AREsp 2917456, relator Mnistra Nancy Andrigui, D Je 29.04.2025.
+Ante o exposto, determino a restituição dos autos ao Tribunal de origem, a fim de que fiquem sobrestados até o julgamento definitivo da matéria submetida à sistemática dos recursos repetitivos (Tema n. 1.137/STJ) e eventual retratação prevista nos arts. 1.040, II, e 1.041 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. BANCO DE DADOS. SNIPER. O MISSÃO. NÃO VERIFICADA. INUTILIDADE DA MEDIDA. VERIFICAÇÃO. SÚMULA N. 7/STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
