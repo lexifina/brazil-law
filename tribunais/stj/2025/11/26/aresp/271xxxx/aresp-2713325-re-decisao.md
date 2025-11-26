@@ -1,0 +1,49 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça que não conheceu do agravo em recurso especial.
+O julgado recorrido recebeu a seguinte ementa (fl. 374):
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. TUTELA ANTECIPADA. SUSPENSÃO DOS EFEITOS DE ARREMATAÇÃO EM LEILÃO ELETRÔNICO DE IMÓVEL. DECISÃO PROFERIDA EM TUTELA ANTECIPADA. NATUREZA PROVISÓRIA. AUSÊNCIA DE CAUSA DECIDIDA. SÚMULA 735 DO STF. INCIDÊNCIA. IMPOSSIBILIDADE DE REEXAME DE PROVAS. SÚMULA 7 DO STJ. (..)
+I. CASO EM EXAME
+1. Agravo interposto contra acórdão proferido pelo Tribunal de origem em agravo de instrumento.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em definir se é cabível recurso especial contra acórdão proferido na via da antecipação de tutela.
+III. RAZÕES DE DECIDIR
+3. A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que decisões proferidas em sede de tutela antecipada não configuram causa decidida, inviabilizando o conhecimento de recurso especial, conforme estabelecido na Súmula 735 do STF.
+4. O acórdão impugnado tem natureza precária e provisória, sendo suscetível de modificação na instância de origem, razão pela qual não se perfaz o requisito constitucional do exaurimento da jurisdição ordinária (art. 105, III, da CF/1988).
+5. Eventual revisão do entendimento do Tribunal de origem demandaria o reexame do conjunto fático-probatório dos autos, providência vedada em sede de recurso especial, nos termos da Súmula 7 do STJ.
+6. Agravo não conhecido.
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão impugnado, aos arts. 5º, LIV e LV, e 93, IX, da Constituição Federal.
+Nesse sentido, argumenta ter havido negativa de prestação jurisdicional, aliada à supressão do contraditório, o que configurou dupla violação constitucional. Aduz ter sido privada do direito de propriedade sem o devido processo legal.
+Requer, assim, a admissão e o provimento do recurso.
+É o relatório.
+2. No julgamento do paradigma vinculado ao Tema n. 339, o Supremo Tribunal Federal apreciou a seguinte questão:
+ ..  se decisão que transcreve os fundamentos da decisão recorrida, sem enfrentar pormenorizadamente as questões suscitadas nos embargos declaratórios, afronta o princípio da obrigatoriedade de fundamentação das decisões judiciais, nos termos do art. 93, IX, da Constituição Federal.
+Na ocasião, firmou-se a seguinte tese vinculante:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas.
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessária a apreciação de todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da Constituição Federal não está relacionada ao acerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso dos autos, foram apresentados, de forma satisfatória, os fundamentos da conclusão do acórdão recorrido, como se observa do seguinte trecho do referido julgado (fls. 375-377):
+No ordenamento jurídico brasileiro, a questão do cabimento de recursos contra decisões de natureza provisória tem sido objeto de pacificação jurisprudencial. Neste contexto, encontra-se a Súmula 735 do Supremo Tribunal Federal, que estabelece não caber recurso extraordinário contra acórdão que defere medida liminar.
+Ao examinarmos a natureza jurídica das decisões liminares, verificamos que estas se caracterizam pela precariedade e provisoriedade, sendo concedidas mediante cognição sumária, em um juízo de probabilidade, sem análise exaustiva do mérito da causa.
+Representam, portanto, uma antecipação provisória da tutela jurisdicional, passível de revogação ou modificação a qualquer tempo no curso do processo, quando da formação de um juízo mais aprofundado sobre a matéria controvertida.
+A ratio essendi da Súmula 735 do STF fundamenta-se justamente na incompatibilidade entre a natureza excepcional dos recursos dirigidos às cortes superiores e o caráter não definitivo das decisões liminares. Isso porque os recursos excepcionais destinam-se primordialmente à preservação da ordem jurídica e à uniformização da interpretação da lei, pressupondo, para tanto, o esgotamento da análise da questão nas instâncias ordinárias.
+Embora a referida súmula mencione expressamente apenas o recurso extraordinário, sua fundamentação lógico-jurídica transcende o instrumento recursal específico, alcançando a essência da relação entre decisões precárias e recursos de natureza excepcional. Desta forma, mostra-se plenamente razoável a extensão interpretativa deste entendimento aos agravos interpostos contra decisões liminares perante o Superior Tribunal de Justiça.
+A jurisprudência do próprio STJ tem se orientado neste sentido, consolidando o entendimento de que não cabe recurso especial contra acórdão que aprecia medida liminar. Esta orientação encontra respaldo não apenas na analogia com a Súmula 735 do STF, mas também nos princípios da celeridade e da economia processual, evitando o congestionamento das instâncias superiores com recursos contra decisões que, por sua natureza precária, ainda serão objeto de reanálise mais aprofundada no curso do próprio processo.
+(..)
+Diante do exposto, conclui-se que a orientação contida na Súmula 735 do STF, por seus fundamentos jurídicos, aplica-se por extensão aos agravos contra decisões liminares no âmbito do Superior Tribunal de Justiça, não sendo admissível, como regra, a utilização deste instrumento recursal para impugnar provimentos judiciais de natureza precária e provisória, ressalvadas apenas situações excepcionais de manifesta ilegalidade ou teratologia na decisão agravada, hipóteses em que o controle jurisdicional se impõe em caráter extraordinário para evitar dano irreparável ou de difícil reparação.
+No presente feito, observa-se que o a decisão recorrida foi proferida em sede de agravo de instrumento tirado contra decisão monocrática que tratou de tutela antecipatória, inexistindo elementos que indiquem a existência de ilicitude manifesta ou prejuízo inarredável.
+Ante o exposto, não conheço do agravo em recurso especial.
+Assim, fica inviabilizado o exame pretendido nesta insurgência.
+Com efeito, demonstrado que houve prestação jurisdicional compatível com a tese fixada pelo STF no Tema n. 339 sob o regime da repercussão geral, é inviável o prosseguimento do recurso extraordinário, que deve ter o seguimento negado.
+3. No tocante às demais alegações, nos termos do art. 102, § 3º, da Constituição Federal, o recurso extraordinário deve ser dotado de repercussão geral, requisito indispensável à sua admissão.
+Por sua vez, o STF já definiu que a discussão relativa ao preenchimento dos pressupostos de admissibilidade de recurso anterior, de competência de outro tribunal, não tem repercussão geral.
+Quando o STJ não analisar o mérito do recurso de sua competência, tal como verificado nestes autos, qualquer alegação do recurso extraordinário demandaria a rediscussão dos requisitos de admissibilidade do referido recurso, exigindo a apreciação dos dispositivos legais que versam sobre tais pressupostos.
+No Tema n. 181 do STF, a Suprema Corte afirmou que "a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional" (RE n. 598.365-RG, relator Ministro Ayres Britto, Tribunal Pleno, julgado em 14/8/2009, DJe de 26/3/2010).
+O entendimento em questão incide tanto em situações nas quais as razões do recurso extraordinário se referem ao não conhecimento do recurso anterior quanto naquelas em que as alegações se relacionam à matéria de fundo da causa.
+Essa conclusão foi adotada sob o regime da repercussão geral e é de aplicação obrigatória, devendo os tribunais, ao analisar a viabilidade prévia dos recursos extraordinários, negar seguimento àqueles que discutam questão à qual o Supremo Tribunal Federal não tenha reconhecido a existência de repercussão geral, nos termos do art. 1.030, I, a, do CPC.
+Como exemplos da aplicação do Tema n. 181 do STF em casos semelhantes, confiram-se: ARE n. 1.256.720-AgR, relator Ministro Dias Toffoli (Presidente), Tribunal Pleno, julgado em 4/5/2020, DJe de 26/5/2020; ARE n. 1.317.340-AgR, relatora Ministra Cármen Lúcia, Segunda Turma, julgado em 12/5/2021, DJe de 14/5/2021; ARE n. 822.158-AgR, relator Ministro Edson Fachin, Primeira Turma, julgado em 20/10/2015, DJe de 24/11/2015.
+Da mesma forma, o recurso extraordinário deve ter o seguimento negado por aplicação do Tema n. 181 do STF também nas hipóteses em que for alegada ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+4. Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário, ficando prejudicada a pretendida atribuição de efeito suspensivo.
+Vale registrar não ser cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC) contra decisões que negam seguimento a recurso extraordinário, conforme o § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. NÃO CONHECIMENTO DE RECURSO ANTERIOR, DE COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. REQUISITOS DE ADMISSIBILIDADE. DEBATE OU SUPERAÇÃO. IMPOSSIBILIDADE. TEMA N. 181 DO STF, SOB A SISTEMÁTICA DA REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
