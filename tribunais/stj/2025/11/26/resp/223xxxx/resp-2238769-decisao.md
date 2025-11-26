@@ -1,0 +1,48 @@
+DECISÃO
+Na origem, trata-se de ação de obrigação de fazer ajuizada contra o Município de Joinville, objetivando a concessão de vaga em creche municipal em período integral a menor.
+A sentença julgou procedente o pedido.
+O Tribunal de Justiça de Santa Catarina, em sede recursal, negou provimento ao agravo interno do Município, mantendo decisão monocrática que dera parcial provimento ao apelo da parte autora e condenar a municipalidade para "determinar que, não sendo fornecida a vaga em centro de educação infantil próximo a residência da menor ou local de trabalho dos pais, na distância máxima de 5km (cinco quilômetros), seja fornecido o transporte escolar gratuito pelo Município de Joinville, além de condenar o ente público ao pagamento de honorários advocatícios sucumbenciais, no valor de 500,00 (quinhentos reais), em favor da patrona da parte autora", nos termos da seguinte ementa (fl. 108):
+AGRAVO INTERNO EM APELAÇÃO CÍVEL. VAGA EM CRECHE MUNICIPAL. SENTENÇA QUE JULGOU PROCEDENTES OS PEDIDOS INAUGURAIS, SEM, CONTUDO, FIXAR HONORÁRIOS SUCUMBENCIAIS. PLEITO DE ARBITRAMENTO DA VERBA. RECURSO PARCIALMENTE PROVIDO, QUANTUM FIXADO EM R$500,00 (QUINHENTOS REAIS). REQUISIÇÃO DO ENTE PÚBLICO PARA MINORAÇÃO DO VALOR. INSUBSISTÊNCIA. QUANTIA FIXADA QUE LEVOU EM CONSIDERAÇÃO O CADERNO PROCESSUAL. MANUTENÇÃO DO PRONUNCIAMENTO MONOCRÁTICO. RECURSO CONHECIDO E DESPROVIDO.
+O recurso especial foi admitido (fls. 145-146).
+É o relatório. Decido.
+De início, é esta a letra do acórdão recorrido, transcrita no que interessa à espécie (fl. 106):
+ ..
+Cuida-se de agravo interno, interposto pelo Município de Joinville, contra decisão monocrática, de minha lavra, que fixou os honorários sucumbenciais em R$500,00 (quinhentos reais).
+ ..
+A demanda foi ajuizada diante da negativa do Município em fornecer a vaga em creche para a menor.
+Com a citação, o demandado se prontificou a matricular a infante.
+Não houve fixação de honorários na origem, motivo pelo qual foi requerido em sede recursal.
+No julgamento monocrático do apelo, foi fixado em R$500,00 (quinhentos reais), em conformidade com a jurisprudência desta Corte.
+O Município alega ser necessária a aplicação do redutor previsto no art. 90, §4º, do CPC.
+Ocorre que, na fixação do valor, já foi levado em conta o caderno processual, não cabendo a redução para o caso.
+ ..
+Desta forma, a verba honorária deve ser mantida, consoante a quantia aplicada nas demandas análogas, qual seja, em R$ 500,00 (quinhentos reais).
+Outrossim, "Esta Corte de Justiça, em causas dessa mesma natureza, tem reiteradamente arbitrado a verba honorária em R$ 500,00 (quinhentos reais), por considerar este valor como razoável para atender o trabalho realizado pelo causídico e, especialmente os critérios previstos no art. 85, §§ 2º e 8º, do Código de Processo Civil, considerando-se que a demanda tem um "valor inestimável" (Remessa Necessária Cível n. 0312280-76.2017.8.24.0005, de Balneário Camboriú, Rel. Des. Jaime Ramos).
+ ..
+Como visto, consoante se depreende do acórdão recorrido, entendeu a Corte Estadual, em razão das particularidades da lide, que os honorários advocatícios não poderiam ser reduzidos na forma do art. 90, §4º, do CPC, na medida em que o fato da matrícula do menor, após a citação, foi observado no momento da fixação dos honorários.
+Diante desse contexto, quanto à alegada violação ao art. 90, §4º, do CPC, para se deduzir de modo diverso do aresto recorrido - que afastou, com base nos elementos fáticos do caso concreto, e ao contrário do que ora se sustenta, que a redução dos honorários deu-se em razão da resistência do Município -, demandaria o reexame dos mesmos elementos probatórios já analisados, providência inadmissível, pela via estreita do recurso especial, ante o óbice do anunciado da Súmula n. 7/STJ.
+Nesse sentido, os julgados a seguir:
+PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO FISCAL. RECONHECIMENTO DA PROCEDÊNCIA DO PEDIDO POR PARTE DO MUNICÍPIO. HONORÁRIOS ADVOCATÍCIOS. APLICABILIDADE DO ART. 90, § 4º, DO CPC/2015. INSTITUTO DESTINADO A ESTIMULAR A SOLUÇÃO ANTECIPADA DA LIDE. PRETENSÃO RECURSAL QUE DEMANDA INCURSÃO NO CONTEXTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Cinge-se a controvérsia à aplicabilidade do art. 90, § 4º, do CPC/2015 ao caso dos autos.
+2. O art. 90, § 4º, do CPC/2015 insere em nosso ordenamento jurídico salutar medida de estímulo à solução célere e efetiva das demandas judiciais, beneficiando o réu com a redução da verba honorária pela metade, sempre que reconheça a procedência do pedido e cumpra integralmente a obrigação.
+3. A aplicação do dispositivo ao caso concreto não se coaduna com o espírito da norma, que visa estimular comportamento espontâneo e imediato do réu em favor do cumprimento do direito reconhecido, o que não foi verificado no caso dos autos.
+3. Hipótese em que o Tribunal de origem, ao dirimir a controvérsia, consignou: "Ainda que se reconheça a aplicabilidade em tese do art. 90, §4º, CPC, aos casos de reconh ecimento da procedência, considero que, no caso concreto, algumas particularidades prejudicam sua incidência à espécie, como a oposição de Embargos à execução. É que, a despeito da extinção do feito ter decorrido do cancelamento administrativo do crédito, ele só ocorreu bastante tempo depois da oposição de Embargos de Devedor pelo executado. Com efeito, o art. 90, §4º, CPC, é espécie de sanção premial voltada a estimular comportamentos que promovam a resolução antecipada da crise jurídica, evitando o prologando desnecessário da relação processual e prevenindo esforços das partes em juízo. Por isso, só fazem jus ao benefício as partes que pratiquem a conduta abdicativa de plano, reconhecendo o direito da parte adversa tão logo ela o afirme. Se este comportamento de renúncia ou de reconhecimento da procedência do pedido sobrevier muito tempo depois de a parte adversa ter afirmado seu direito, a vantagem processual pretendida com a instituição do benefício não se confirma e, por isso, a hipótese de incidência não se implementa" (fls. 230-231, e-STJ, grifou-se).
+4. Desta forma, para acolher a pretensão recursal, em detrimento da conclusão do Tribunal de origem, com o intuito de constatar o direito à redução da verba honorária pela metade, necessária a incursão no acervo fático-probatório dos autos, o que é vedado na via do Recurso Especial, ante o óbice da Súmula 7 do STJ.
+5. Agravo Interno não provido.
+(AgInt no AREsp n. 1.672.833/MG, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/9/2020, DJe de 5/10/2020.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COBRANÇA DE SEGURO OBRIGATÓRIO DPVAT. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. VALOR. REVISÃO. SÚMULAS 7 E 83 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. HONORÁRIOS RECURSAIS. MAJORAÇÃO RAZOÁVEL. AGRAVO NÃO PROVIDO.
+1. A Segunda Seção desta Corte Superior pacificou o entendimento de que o § 8º do art. 85, transmite regra excepcional, de aplicação subsidiária, em que se permite a fixação dos honorários sucumbenciais por equidade, para as hipóteses em que, havendo ou não condenação: (I) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (II) o valor da causa for muito baixo. Precedente: (REsp 1746072/PR, Rel. Ministra NANCY ANDRIGHI, Rel. p/ Acórdão Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 13/02/2019, DJe 29/03/2019).
+2. O reexame dos critérios fáticos levados em consideração para fixar os honorários advocatícios, em princípio, é inviável em sede de recurso especial, ante o teor da Súmula 7 do STJ.
+3. O dissídio jurisprudencial não foi devidamente demonstrado à míngua do indispensável cotejo analítico.
+4. Não se mostra excessiva a majoração dos honorários advocatícios em 15% sobre o valor já arbitrado nas instâncias ordinárias, na forma do art. 85, §11, do CPC/2015. Precedentes.
+5. Agravo interno não provido. (AgInt no AREsp n. 1.810.980/MT, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 21/2/2022, DJe de 25/2/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. EXECUÇÃO FISCAL. PENHORA. EMBARGO DE TERCEIRO. AUSÊNCIA DE PREQUESTIONAMENTO. QUESTÃO NÃO EXAMINADA SOB O ENFOQUE PRETENDIDO. SÚMULAS 282 DO STF E 211 DO STJ. ANÁLISE DA CAUSALIDADE E INCIDÊNCIA DA VERBA HONORÁRIA. MATÉRIAS QUE DEMANDAM O REEXAME FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS 7 E 83/STJ. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS EM AGRAVO INTERNO. NÃO CABIMENTO. AGRAVO INTERNO IMPROVIDO.
+1. O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial, inclusive para as matérias de ordem pública.
+2. Segundo a jurisprudência do Superior Tribunal de Justiça, firmada no enunciado da Súmula 303/STJ, a parte que deu causa à oposição dos embargos de terceiro é quem deverá arcar com o pagamento dos honorários sucumbenciais.
+2.1. A alteração das conclusões adotadas pela Corte de origem quanto à análise da causalidade e à incidência da verba honorária demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto no enunciado sumular n. 7 deste Tribunal Superior, por ambas as alíneas do permissivo constitucional.
+3. A jurisprudência desta Corte Superior veda a majoração dos honorários recursais no julgamento de agravo interno.
+4. Agravo interno improvido.
+(AgInt no AREsp n. 2.819.751/BA, relator Ministro Marco Aurélio Bellizze, Segunda Turma, julgado em 18/6/2025, DJEN de 26/6/2025.)
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial, nos te rmos da fundamentação.
+Publique-se. Intimem-se.
+EMENTA
