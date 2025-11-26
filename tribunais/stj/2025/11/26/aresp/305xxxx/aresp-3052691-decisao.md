@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CAIXA SEGURADORA S.A. contra decisão que inadmitiu seu recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"AGRAVO DE INSTRUMENTO AÇÃO DECLARATÓRIA DE QUITAÇÃO DE SALDO DEVEDOR POR INVALIDEZ PERMANENTE C.C. REPETIÇÃO DE INDÉBITO DEFERIDA A TUTELA PROVISÓRIA DE URGÊNCIA PARA DETERMINAR A SUSPENSÃO DA COBRANÇA DAS PARCELAS REFERENTES AO FINANCIAMENTO IMOBILIÁRIO SOB PENA DE MULTA DE R$1.000,00, LIMITADA A R$40.000,00 INSURGÊNCIA DA PARTE RÉ - DESCABIMENTO PROBABILIDADE DO DIREITO E PERIGO DE DANO OU RISCO AO RESULTADO ÚTIL DO PROCESSO EVIDENCIADOS (ART. 300 DO CPC) DECISÃO MANTIDA." (e-STJ, fl. 258)
+Os embargos de declaração opostos por CAIXA SEGURADORA S.A. foram rejeitados (e-STJ, fls. 276-279).
+Em seu recurso especial, o recorrente alega violação dos seguintes dispositivos da legislação federal, com as respectivas teses:
+(i) art. 1.022, II, do Código de Processo Civil, pois o acórdão foi omisso ao não se manifestar sobre a alegada ilegitimidade da seguradora para suspender a cobrança das parcelas do financiamento, sustentando que apenas a Caixa Econômica Federal pode realizar tal suspensão, o que caracteriza negativa de prestação jurisdicional.
+Contrarrazões às fls. 284-290.
+O recurso especial foi inadmitido na origem, dando ensejo à interposição do presente agravo.
+É o Relatório. Passo a decidir.
+No tocante à suposta negativa de prestação jurisdicional, tendo em vista as omissões alegadas, não assiste razão à parte recorrente.
+Com efeito, da análise acurada dos autos, verifica-se que o Tribunal a quo apreciou todas as questões levadas à sua análise, mormente, aquela relativas à legitimidade da seguradora para suspender a cobrança das parcelas do financiamento, conforme se afere dos seguintes excertos do aresto objurgado:
+"In casu, nada obstante o alegado pelo embargante, não se verifica a ocorrência de omissão, contradição ou obscuridade conforme suscitado.
+Com efeito, a decisão agravada decidiu apenas sobre a antecipação dos efeitos da tutela, uma vez que presentes a probabilidade do direito e o perigo de dano ao resultado útil do processo, nada decidindo acerca da legitimidade ou responsabilidade da agravante acerca da suspensão das parcelas.
+No caso, a questão deve ser enfrentada primeiramente pelo juízo de origem, uma vez que este E. Tribunal estava impossibilitado de realizar esta análise no agravo de instrumento, sob pena de recurso per saltum.
+Ora, o simples fato de ser divergente o entendimento da embargante não basta para o acolhimento do recurso, devendo ser manifestado o inconformismo pelas vias adequadas." (e-STJ fl. 278)
+Conforme o acima transcrito, constata-se que as questões relevantes, submetidas a julgamento, foram devidamente enfrentadas pelo Tribunal de origem.
+Assim, conforme restou asseverado no decisum impugnado, não se vislumbra a alegada negativa de prestação jurisdicional, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas. De fato, inexiste qualquer deficiência de fundamentação, omissão, obscuridade ou contradição no aresto recorrido, porquanto o Tribunal local, malgrado não ter acolhido os argumentos suscitados pela parte recorrente, manifestou-se expressamente acerca dos temas necessários à integral solução da lide.
+É indevido conjecturar-se acerca da deficiência de fundamentação ou da existência de omissão, de obscuridade ou de contradição no julgado apenas porque decidido em desconformidade com os interesses da parte. No mesmo sentido, podem ser mencionados os seguintes julgados: : EDcl no AgInt no REsp n. 2.114.250/MG, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 4/2/2025, DJEN de 6/3/2025; REsp n. 2.086.697/SP, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 24/2/2025, DJEN de 5/3/2025; EDcl no AgInt na Rcl n. 45.542/SP, Relator Ministro JOÃO OTÁVIO DE NORONHA, SEGUNDA SEÇÃO, julgado em 18/2/2025, DJEN de 24/2/2025; e EDcl no AgInt nos EDcl nos EREsp n. 1.859.857/PR, Relator Ministro MAURO CAMPBEL L MARQUES, CORTE ESPECIAL, julgado em 25/2/2025, DJEN de 12/3/2025.
+Diante do exposto, conheço do agravo para negar provimento ao recurso especial.
+E, quanto ao ônus da sucumbência recursal, deixo de majorar os honorários advocatícios na forma do art. 85, §11, do CPC/2015, posto que o recurso especial tem origem em agravo de instrumento.
+Publique-se.
+EMENTA
