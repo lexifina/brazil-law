@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual PROCOAT PINTURAS TECNICAS LTDA se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado (fl. 53):
+TRIBUTÁRIO. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ- EXECUTIVIDADE. ICMS NAS BASES DE CÁLCULO DE PIS-PASEP E COFINS. NECESSIDADE DE DILAÇÃO PROBATÓRIA.
+1. A exceção de executividade dispensa a garantia do Juízo e é meio de defesa de caráter excepcional, restringindo-se o objeto nos termos da súmula 393 do Superior Tribunal de Justiça:  A  exceção de pré- executividade é admissível na execução  scal relativamente às matérias conhecíveis de ofício que não demandem dilação probatória.
+2. É pací ca a jurisprudência deste Tribunal no sentido de que o excesso de execução, representado pela inclusão do ICMS nas bases de cálculo da contribuição para o PIS e da COFINS, necessita dilação probatória, incabível na via da exceção de pré-executividade (TRF4, Segunda Turma, AG 50131151920214040000, 18out.2021).
+Os embargos de declaração foram rejeitados (fls. 89/91).
+Nas razões de seu recurso especial, a parte alega violação aos arts. 485, IV, § 3º, e 803, II, parágrafo único, do Código de Processo Civil (CPC), bem como à Súmula 393 do Superior Tribunal de Justiça (STJ). Vincula as seguintes teses: (i) a exceção de pré-executividade deve ser conhecida para exame de nulidade do título e de pressupostos processuais sem necessidade de dilação probatória; e (ii) a inclusão do Imposto sobre Circulação de Mercadorias e Serviços (ICMS) na base de cálculo do Programa de Integração Social (PIS) e da Contribuição para o Financiamento da Seguridade Social (COFINS) acarretaria inexigibilidade e iliquidez das certidões de dívida ativa (CDAs).
+Sustenta que a nulidade prevista no art. 803, II, parágrafo único, do CPC deve ser pronunciada pelo juiz, de ofício ou a requerimento da parte, independentemente de embargos à execução, de modo que a exceção de pré-executividade é cabível para reconhecer, sem dilação probatória, nulidade do título e vícios de constituição e desenvolvimento do processo executivo.
+A parte adversa apresentou contrarrazões (fls. 115/124).
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+Na origem cuida-se de agravo de instrumento voltado ao reconhecimento da admissibilidade da exceção de pré-executividade na execução fiscal.
+Relativamente às alegações de nulidade, a parte recorrente defende o cabimento da exceção de pré-executividade diante da desnecessidade de dilação probatória para comprovar a ilegalidade da inclusão do ICMS na base de cálculo do PIS e da COFINS.
+Quanto ao ponto o Tribunal de origem decidiu nestes termos (fl. 66):
+Conforme destacado pelo Juízo de origem, a verificação da efetiva incidência de ICMS na base de cálculo das contribuições para PIS-PASEP e COFINS é questão que demanda exame aprofundado, incompatível com os limites restritos da exceção de executividade. É pacífica a jurisprudência deste Tribunal no sentido de que o excesso de execução, representado pela inclusão do ICMS nas bases de cálculo da contribuição para o PIS e da COFINS, necessita dilação probatória, incabível na via da exceção de pré-executividade.
+Consoante o enunciado da Súmula 393 do STJ, "a exceção de pré-executividade é admissível na execução fiscal relativamente às matérias conhecíveis de ofício que não demandem dilação probatória".
+Como se observa, o Tribunal de origem, após a análise das circunstâncias fáticas da causa, concluiu pela incompatibilidade da exceção de pré-executividade com o pleito da agravante em virtude da necessidade de dilação probatória para analisar a tese de nulidade do débito tributário diante da inclusão do ICMS na base de cálculo do PIS e da COFINS.
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide no presente caso a Súmula 7 do STJ - "a pretensão de simples reexame de prova não enseja recurso especial".
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
