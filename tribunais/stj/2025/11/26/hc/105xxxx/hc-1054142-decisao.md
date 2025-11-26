@@ -1,0 +1,87 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de LORRAN DE OLIVEIRA BENTO, no qual aponta como autoridade coatora o Tribunal de Justiça do Estado do Rio de Janeiro, que negou provimento ao agravo em execução penal defensivo, nos termos do acórdão assim ementado:
+"EMENTA: EXECUÇÃO PENAL. AGRAVO DEFENSIVO. LIVRAMENTO CONDICIONAL. AUSÊNCIA DE REQUISITO SUBJETIVO. HISTÓRICO DE VIOLAÇÕES NA PAD. FALTA DE COMPROMETIMENTO COM A RESSOCIALIZAÇÃO. RECURSO DESPROVIDO.
+I. Caso em exame
+1. Agravo interposto pela defesa contra decisão que indeferiu o pedido de livramento condicional, sob fundamento de ausência de requisito subjetivo.
+2. O apenado cumpre pena de 22 anos, 09 meses e 12 dias de reclusão por três crimes de roubo, tendo progredido para o regime aberto na modalidade de prisão albergue domiciliar (PAD).
+II. Questão em discussão
+3. A questão em discussão consiste em saber se o apenado preenche os requisitos subjetivos para concessão do livramento condicional, considerando seu histórico de descumprimentos e ausência de atividades ressocializadoras.
+III. Razões de decidir
+4. O apenado violou reiteradamente o sistema de monitoramento eletrônico desde a concessão da PAD, conforme histórico de violações.
+5. O bom comportamento carcerário deve ser avaliado de forma ampla, considerando todo o histórico prisional, conforme Tema Repetitivo nº 1161 do STJ.
+6. A ausência de atividades laborativas ou educacionais demonstra falta de comprometimento com a ressocialização.
+7. A decisão está devidamente fundamentada e compatível com os objetivos da pena, sendo desarrazoada a concessão do benefício neste momento.
+IV. Dispositivo
+9. Recurso desprovido.
+Dispositivos relevantes citados: CP, art. 83, parágrafo único; LEP, arts. 112, 123; STJ, Tema Repetitivo nº 1161." (e-STJ, fl. 10).
+Neste writ, a Defensoria Pública sustenta constrangimento ilegal suportado pelo paciente em razão de ter sido indeferido o livramento condicional, não obstante os requisitos legais terem sido preenchidos. Aduz que a negativa se fundamentou em "supostas violações de monitoramento não submetidas ao contraditório, não analisadas em PAD e não reconhecidas como falta grave." (e-STJ, fl. 3).
+Argumenta, com base na Súmula n. 533/STJ, que, "se nem falta grave pode ser reconhecida sem PAD, muito menos se pode negar benefício executório (livramento condicional) com base em fatos não formalizados." (e-STJ, fl. 4).
+Requer, ao final: (i) a declaração de nulidade do acórdão e da decisão da Vara de Execuções Penais, por violação aos arts. 5º, LIV e LV, da CR/1988, à Súmula 533/STJ, e ao art. 83 do CP, bem como aos princípios do contraditório, ampla defesa e devido processo legal; (ii) o reconhecimento do preenchimento do requisito subjetivo, considerando o atestado de comportamento carcerário excepcional, a ausência de faltas graves, a inexistência de PAD e de qualquer elemento concreto de prognose negativa; (iii) a imediata concessão do livramento condicional.
+É o relatório.
+Decido.
+Inicialmente, cumpre reiterar a orientação pacificada por esta Corte - HC n. 535.063/SP, Terceira Seção, relator Ministro Sebastião Reis Junior, julgado em 10/6/2020, DJe de 25/8/2020 - e pelo Supremo Tribunal Federal - AgRg no HC n. 180.365/PB, Primeira Turma, relatora Ministra Rosa Weber, julgado em 27/3/2020, DJe de 2/4/2020; AgRg no HC n. 147.210/SP, Segunda Turma, relator Ministro Edson Fachin, julgado em 30/10/2018, DJe de 20/2/2020 -, no sentido de que o habeas corpus não se presta a substituir o recurso próprio previsto no ordenamento jurídico.
+A utilização do writ como sucedâneo recursal, portanto, impõe o seu não conhecimento, ressalvada a possibilidade de concessão da ordem de ofício quando constatada a existência de flagrante ilegalidade ou de nulidade absoluta capaz de gerar manifesto constrangimento ilegal.
+Assim, afastada a possibilidade de conhecimento do writ por se tratar de substitutivo recursal, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade que justifique a concessão da ordem, de ofício.
+Nos termos dos arts. 83 do Código Penal, 112 e 131 da Lei de Execuções Penais, para a concessão do benefício em questão, deve o apenado preencher os requisitos de natureza objetiva (fração de cumprimento da pena) e subjetiva (comportamento satisfatório durante a execução da pena, bom desempenho no trabalho que lhe foi atribuído e aptidão para prover ao próprio sustento de maneira lícita).
+Sobre os requisitos subjetivos, a jurisprudência deste Superior Tribunal de Justiça entende que são fundamentos inidôneos ao indeferimento do benefício a gravidade abstrata do delito praticado, a longa pena a cumprir e a impossibilidade da chamada progressão per saltum de regime prisional.
+Ilustrativamente:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. LIVRAMENTO CONDICIONAL. REQUISITO SUBJETIVO. APTIDÃO PARA VOLTAR À SOCIEDADE. DEMONSTRAÇÃO. PROVA. FALTA GRAVE EM 2022. TEMA REPETITIVO 1.161. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. A jurisprudência deste Superior Tribunal de Justiça é a de que a gravidade do delito, a longa pena a cumprir e a impossibilidade da chamada progressão per saltum de regime prisional não são fundamentos idôneos para o indeferimento do livramento condicional.
+ ..
+5. Agravo regimental a que se nega provimento." (AgRg no HC n. 848.978/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 18/12/2023, DJe de 21/12/2023.)
+No caso concreto, o Tribunal de origem confirmou a decisão que havia indeferido o livramento condicional, às seguintes considerações:
+"Compulsando os autos, verifica-se que o agravante, em cumprimento de regime aberto, na modalidade de prisão albergue domiciliar (PAD), desde 21/01/2024, vem reiteradamente violando o sistema de monitoramento eletrônico (Cf. histórico de violações, fls. 20/31).
+Assim, de fato, necessária maior precaução para não se frustrar os objetivos da pena.
+Conforme a tese firmada no Tema Repetitivo nº 1161 pela Terceira Seção do Egrégio STJ em julgamento de análise de concessão do benefício de livramento condicional, o bom comportamento durante a execução da pena deve considerar todo o histórico prisional, não se limitando ao período de 12 meses.
+Logo, a meu sentir, a decisão do Juízo Executório não comporta qualquer ajuste, pois, demonstrado que, de fato, o apenado descumpriu benefícios outrora concedido.
+Assim, o histórico prisional do agravante demonstra que ele ainda não está apto para ser reinserido na sociedade. Logo, conquanto a transcrição de ficha disciplinar aponte o índice de comportamento "excepcional", certo é que, no caso concreto, isso se mostra insuficiente, pois a análise do requisito subjetivo não se limita ao não cometimento de faltas no período de 12 meses, mas exige um bom comportamento carcerário durante toda a execução da pena.
+ ..
+Assim, não favorece o juízo de probabilidade de encontrar-se o agravante, neste momento, apto a ser inserido no meio social através do livramento condicional, tornando-se necessário um período de prova maior, que favoreça uma indicação de que o benefício atenderá a finalidade da pena, sem interrupções. A concessão do livramento condicional poderia, inclusive, servir de estímulo para a prática de novo delito.
+Verifica-se, portanto, que, no caso como o dos autos, os critérios objetivos para a concessão da benesse pleiteada devem caminhar em consonância com condições pessoais que demonstram que o apenado não voltará a delinquir, conforme preceitua o art. 83, parágrafo único, do CP.
+O legislador objetivou que os benefícios da execução penal se prestam como instrumento para se medir a responsabilidade do sentenciado. Este, por conseguinte, deve demonstrar comportamento sociável no decorrer do cumprimento da pena que lhe foi imposta, estando, enfim, preparado para um retorno à sociedade, demonstrando responsabilidade suficiente para não faltar à confiança.
+O simples cumprimento do prazo exigido na lei não autoriza o deferimento da benesse ao apenado.
+Ressalto, em acréscimo, que o apenado não apresenta registro de atividades laborativas ou educacionais, o que demostra ausência de senso de responsabilidade e autocrítica quando relacionado ao caráter ressocializador da pena.
+Assim, verifica-se que o agravante não ostenta condições pessoais que façam presumir que não voltará a delinquir." (e-STJ, fls. 12-14).
+Da leitura do trecho acima transcrito, observa-se que o Tribunal de origem manteve o indeferimento do benefício ao paciente com base em fundamento inidôneo, evidenciado pelo histórico de violações do sistema de monitoramento eletrônico quando em cumprimento de regime mais brando.
+Com efeito, a Terceira Seção desta Corte Superior, na sessão do dia 24/5/2023, firmou tese no sentido de que " a  valoração do requisito subjetivo para concessão do livramento condicional - bom comportamento durante da execuç ão da pena (art. 83, inciso III, alínea "a", do Código Penal) - deve considerar todo o histórico prisional, não se limitando ao período de 12 meses referido na alínea "b" do mesmo inciso III do art. 83 do Código Penal." (Tema n. 1.161).
+Oportunamente, confira-se a ementa desse julgado:
+"PENAL. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. LIVRAMENTO CONDICIONAL. FALTA GRAVE. ÚLTIMOS 12 MESES. REQUISITO OBJETIVO. BOM COMPORTAMENTO. REQUISITO SUBJETIVO. AUSÊNCIA DE LIMITAÇÃO TEMPORAL. AFERIÇÃO DURANTE TODO O HISTÓRICO PRISIONAL. TESE FIRMADA. CASO CONCRETO. NÃO PREENCHIMENTO DOS REQUISITOS. RECURSO PROVIDO.
+1. Recurso representativo de controvérsia. Atendimento ao disposto no art. 1036 e seguintes do Código de Processo Civil e da Resolução n. 8/2008 do STJ.
+2. Delimitação da controvérsia: definir se o requisito objetivo do livramento condicional consistente em não ter cometido falta grave nos últimos 12 meses (art. 83, III, "b", do CP, inserido pela Lei Anticrime) limita a valoração do requisito subjetivo (bom comportamento durante a execução da pena, alínea "a" do referido inciso).
+3. Tese: a valoração do requisito subjetivo para concessão do livramento condicional - bom comportamento durante da execução da pena (art. 83, inciso III, alínea "a", do Código Penal) - deve considerar todo o histórico prisional, não se limitando ao período de 12 meses referido na alínea "b" do mesmo inciso III do art. 83 do Código Penal.
+4. No caso concreto, o recorrido não preenche os requisitos para a obtenção do livramento condicional, diante da prática de falta grave, considerada pelo juízo da execução como demonstrativa de irresponsabilidade e indisciplina no cumprimento de pena.
+5. Recurso especial provido." (REsp n. 1.970.217/MG, deste relator, Terceira Seção, julgado em 24/5/2023, DJe de 1/6/2023).
+Seguem essa linha de raciocínio, os seguintes precedentes:
+"AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL INDEFERIDO. AUSÊNCIA DO REQUISITO SUBJETIVO. HISTÓRICO PRISIONAL CONTURBADO. FUNDAMENTAÇÃO IDÔNEA. ALTERAÇÃO DAS CONCLUSÕES DAS INSTÂNCIAS ORDINÁRIAS. INCURSÃO APROFUNDADA NA SEARA FÁTICO-PROBATÓRIA. INCOMPATIBILIDADE COM A VIA ELEITA. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. Recebida a notícia do cometimento de falta grave no decorrer do cumprimento da pena em regime aberto, a jurisprudência desta Corte autoriza a regressão cautelar de regime pelo Juízo das Execuções.
+2. A decisão agravada negou provimento ao recurso ordinário consignando que o apenado possui conturbado histórico prisional tendo o acórdão destacado expressamente a falta de requisito subjetivo necessário à concessão do benefício, em virtude de diversas faltas disciplinares cometidas pelo paciente, incluindo rompimento de tornozeleira eletrônica e ausências injustificadas, tendo o juízo considerado que o comportamento do paciente não demonstrava a ressocialização necessária para a concessão do benefício.
+3. A desconstituição do que ficou assentado pelas instância ordinárias implica reexame aprofundado do conjunto fático-probatório, providência totalmente incompatível com os estreitos limites da via eleita, que é caracterizada pelo rito célere e cognição sumária.
+4. Agravo regimental desprovido." (AgRg no RHC n. 213.081/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 17/6/2025, DJEN de 26/6/2025.)
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. FALTA GRAVE. TEMA N. 1.161. AGRAVO REGIMENTAL IMPROVIDO.
+1. "A valoração do requisito subjetivo para concessão do livramento condicional - bom comportamento durante a execução da pena (art. 83, inciso III, alínea "a", do Código Penal) - deve considerar todo o histórico prisional, não se limitando ao período de 12 meses referido na alínea "b" do mesmo inciso III do art. 83 do Código Penal." Tema n. 1.161 do STJ.
+2. No caso dos autos, o indeferimento do livramento condicional ocorreu em razão da ausência do requisito subjetivo, considerando, para tanto, o histórico prisional do agravante, que registra fuga em menos de 3 anos da análise do benefício.
+3. Agravo regimental improvido." (AgRg no HC n. 924.847/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 18/6/2025, DJEN de 26/6/2025.)
+"AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. AUSÊNCIA DO REQUISITO SUBJETIVO. HISTÓRICO PRISIONAL CONTURBADO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO DESPROVIDO.
+1. O art. 83, III, do Código Penal não prevê limitação temporal para fins de análise do requisito subjetivo para concessão da progressão de regime, cabendo ao magistrado verificar todo o período do cumprimento de pena. Tema repetitivo n. 1.161/STJ.
+2. No caso, o agravante cometeu falta grave no decorrer da execução, pois praticou novo delito em 2019, enquanto cumpria pena em regime aberto, o que caracteriza fundamentação idônea para o indeferimento do benefício.
+3. Agravo regimental improvido." (AgRg no RHC n. 210.970/SP, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 21/5/2025, DJEN de 26/5/2025.)
+"DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. MANUTENÇÃO DO INDEFERIMENTO PELA CORTE DE ORIGEM. HISTÓRICO PRISIONAL. TEMA N. 1.161/STJ. FALTA GRAVE RECENTE. AUSÊNCIA DO REQUISITO SUBJETIVO. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que indeferiu liminarmente o processamento da petição inicial por falta de manifesta ilegalidade. O agravante cometeu faltas disciplinares de natureza grave durante o cumprimento da pena, sendo a última em 21/11/2021, o que motivou o indeferimento do pedido de livramento condicional.
+II. Questão em discussão
+2. A discussão consiste em saber se a prática de faltas graves durante a execução da pena impede a concessão do livramento condicional, considerando o histórico prisional do reeducando.
+III. Razões de decidir
+3. A jurisprudência desta Corte estabelece que a valoração do requisito subjetivo para concessão do livramento condicional deve considerar todo o histórico prisional, não se limitando ao período de 12 (doze) meses.
+4. A prática de faltas graves recentes demonstra a ausência do requisito subjetivo necessário para a concessão do benefício, conforme entendimento consolidado no Tema repetitivo n. 1.161.
+5. Não há ilegalidade no indeferimento do pedido de livramento condicional quando o histórico prisional do apenado evidencia mau comportamento carcerário.
+IV. Dispositivo e tese
+6. Agravo regimental não provido.
+Tese de julgamento: 1. A valoração do requisito subjetivo para concessão do livramento condicional deve considerar todo o histórico prisional. 2. A prática de faltas graves impede a concessão do livramento condicional por evidenciar a ausência do requisito subjetivo exigido durante a execução da pena.
+Dispositivos relevantes citados: Código Penal, art. 83, III, "a" e "b".
+Jurisprudência relevante citada: STJ, REsp 1.970.217/MG, Rel. Min. Ribeiro Dantas, Terceira Seção, julgado em 24.05.2023; STJ, AgRg no HC 763.755/SP, Rel. Min. Jesuíno Rissato, Sexta Turma, julgado em 07.03.2023." (AgRg no HC n. 958.730/PR, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 19/3/2025, DJEN de 25/3/2025.)
+Vale ressaltar que, embora o paciente tenha cumprido o requisito temporal para o benefício, o magistrado define sua convicção pela livre apreciação da prova, analisando os critérios subjetivos, in casu, o histórico prisional desfavorável do apenado.
+Ademais, o "atestado de boa conduta carcerária não assegura o livramento condicional ou a progressão de regime ao apenado que cumpriu o requisito temporal, pois o Juiz não é mero órgão chancelador de documentos administrativos e pode, com lastros em dados concretos, fundamentar sua dúvida quanto ao bom comportamento durante a execução da pena" (AgRg no HC n. 572.409/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 2/6/2020, DJe de 10/6/2020).
+Nesse contexto, não verifico a ocorrência de flagrante ilegalidade na decisão impugnada.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
