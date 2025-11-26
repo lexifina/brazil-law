@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto pela LELALEX COMÉRCIO DE ROUPAS LTDA. - ME, fundado na alínea "a" do permissivo constitucional, contra acórdão assim ementado:
+Embargos de Declaração em Apelação cível. Direito tributário. Ação anulatória de débito fiscal. Sentença de improcedência dos pedidos autorais. Acórdão que confirmou a sentença. Embargos de declaração do ente estadual no qual alega omissão quanto ao capítulo de honorários de sucumbência tanto na sentença quanto no acórdão. Recurso ao qual se dá provimento. Acolhimento. Vício de omissão na fixação de honorários sucumbenciais. Pedido implícito do capítulo acessório de sucumbência. Matéria de ordem púbica que pode ser revisada em qualquer tempo e em qualquer grau de jurisdição. Efeitos infringentes. Provimento dos Embargos.
+Os embargos de declaração opostos pela empresa recorrente foram rejeitados.
+Nas razões recursais, a empresa aponta violação ao art. 85, §§ 3º, II, 8º e 11 do CPC, sustentando: (i) nulidade do acórdão por negativa de prestação jurisdicional; (ii) ilegalidade na fixação dos honorários advocatícios no julgamento da apelação, sob os seguintes fundamentos: (a) o percentual de 15% excede o limite previsto no § 3º, II, do referido artigo; (b) não houve arbitramento na instância de origem que justificasse a majoração em grau recursal; (c) diante do elevado proveito econômico, os honorários deveriam ser fixados por equidade.
+Apresentadas as contrarrazões, o Tribunal de origem admitiu o recurso especial e determinou a remessa dos autos.
+Passo à análise.
+Como relatado, a insurgência recursal dirige-se à parte do acórdão que, originariamente, fixou honorários advocatícios em desfavor da recorrente, no percentual de 15%, com a seguinte fundamentação:
+A decisão deve ser parcialmente reformada, somente no capítulo acessório.
+Com efeito, da análise das razões dos aclaratórios do Fisco estadual, assiste-lhe razão quanto à alegação de que não houve fixação de sucumbência na sentença, tampouco reconhecimento à majoração de honorários recursais, tendo em vista a sucumbência total do contribuinte, parte apelante.
+Compulsando os autos, vejo que o Juízo a quo se equivocou em considerar a demanda em apreço como mandado de segurança, o que lhe fez incorrer no erro da inaplicabilidade de honorários de sucumbência por força da vedação constante no artigo 25 da Lei 12.016/09.
+O capítulo de honorários de sucumbência se afigura como pedido implícito (art. 322, §1º do CPC) e é matéria de ordem pública deduzível em qualquer tempo.
+Logo, com razão o Embargante quanto ao direito à fixação de honorários sucumbenciais e, também, a respectiva majoração em razão da interposição recursal inexitosa do contribuinte Autor, ora Embargado.
+Isto posto, dou provimento aos embargos de declaração para fixar honorários de 15% de sucumbência, já considerada a majoração recursal, mantendo-se, no mais, o teor decisório assentado no acórdão.
+Por ocasião do julgamento dos embargos de declaração, a Corte estadual acrescentou que:
+no tocante à alegação de que não foi observado o art. 85, §3º, II, do CPC, tampouco assiste-lhe razão. Isso porque, do mesmo modo, também ficou esclarecido que o percentual de 15% fixado no acórdão, já abrangia a majoração decorrente da interposição do recurso, o que permite concluir que o patamar legal estabelecido entre oito e dez por cento, em relação à primeira instância, foi devidamente respeitado.
+Por fim, é cediço que os honorários equitativos somente são aplicáveis quando se trata de valor da causa que represente valor irrisório, inestimável ou excessivo, o que não é a hipótese, eis que apontado na monta de R$ 379.126,18.
+Pois bem.
+Considerando que as teses da parte recorrente, relativas à quantificação dos honorários advocatícios fixados no acórdão recorrido, foram devidamente apreciadas pelo Colegiado local, afasto a alegação de negativa de prestação jurisdicional e passo ao exame do mérito.
+Inicialmente, verifico que o caso não se enquadra no Tema 1.255 do STF, pois, ao atingir apenas a segunda faixa do art. 85, § 3º, do CPC, não configura demanda de valor econômico exorbitante. Por essa razão, rejeito o pedido de arbitramento por equidade.
+Prosseguindo, nos termos dos arts. 85, §§ 3º, II, e 11 do CPC, para condenações ou proveitos econômicos superiores a 200 salários mínimos, os honorários devem ser fixados entre 8% e 10%, limite que também deve ser observado na majoração em grau recursal.
+Assim, o percentual de 15% fixado no acórdão recorrido excede o teto legal.
+Ademais, conforme entendimento da Corte Especial, a majoração prevista no § 11 do art. 85 do CPC somente é cabível quando presentes, cumulativamente: (a) decisão recorrida publicada após 18/03/2016; (b) recurso não conhecido integralmente ou desprovido; e (c) prévia condenação em honorários na origem. Precedentes: AgInt nos EAREsp 762075/MT, Corte Especial, DJe 07/03/2019; EDcl no AgInt nos EDcl no AREsp 1586755/RS, Terceira Turma, DJe 25/03/2021; AgInt nos EDcl no REsp 1774402/RJ, Primeira Turma, DJe 14/12/2020.
+No caso, não houve condenação anterior que justificasse a majoração na apelação.
+Dessa forma, os honorários referentes à segunda faixa devem ser fixados no mínimo legal de 8%, ante a ausência de indicação, no acórdão recorrido, de circunstância judicial que justifique a adoção de percentual maior.
+Ante o exposto, com fundamento no art. 255, § 4º, II e III, do RISTJ, DOU PARCIAL PROVIMENTO ao recurso especial para, no caso, fixar os honorários advocatícios nos percentuais mínimos previstos no art. 85, § 3º, incisos I e II, do CPC  10% e 8%, respectivamente  , a incidir sobre o valor atualizado dos créditos tributários impugnados na ação anulatória.
+Publique-se. Intimem-se.
+EMENTA
