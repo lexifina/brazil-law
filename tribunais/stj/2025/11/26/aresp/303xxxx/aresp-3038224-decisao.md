@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo interposto por COLAÇO MARTINS COMÉRCIO DE COMBUSTÍVEIS LTDA. contra decisão de inadmissão de seu recurso especial, o qual foi interposto, com base na alínea "a" do permissivo constitucional, para impugnar acórdão do Tribunal Regional Federal da 5ª Região assim ementado (e-STJ fls. 2.063/2.064):
+TRIBUTÁRIO. AÇÃO ANULATÓRIA DE CRÉDITO TRIBUTÁRIO. ERRO MATERIAL NO PREENCHIMENTO DA DIPJ. LAUDO PERICIAL. ALTERAÇÃO DOS VALORES APÓS A APRESENTAÇÃO DOS DOCUMENTOS CORRETOS. HONORÁRIOS ADVOCATÍCIOS INDEVIDOS. PRINCÍPIO DA CAUSALIDADE. APELAÇÃO PARCIALMENTE PROVIDA.
+1. Trata-se de apelação interposta pela Fazenda Nacional em face de sentença que, em ação anulatória de crédito tributário, julgou procedentes os pedidos formulados na inicial.
+2. A Apelante argumenta que o auto de infração é regular, uma vez que a Apelada impugnou o lançamento alegando que a sua DIPJ do exercício 2012, ano-calendário 2011, continha "erro material" na informação prestada à Receita Federal, pois não foi informado o custo do período. Ato contínuo, a autoridade fiscalizadora solicitou ao contribuinte em 07/02/2018 alguns documentos, e, quando da entrega dos documentos foi constatado pelo auditor fiscal responsável que os livros Diários enviados à fiscalização, foram somente arquivados na Junta Comercial do Estado do Ceará em 11 de janeiro de 2016, portanto em data posterior à emissão do auto de infração, de modo que não há como se assegurar a veracidade das informações.
+3. Foi elaborado laudo pericial, no qual se concluiu "que os custos das mercadorias vendidas, principal questão do processo e objetivo da perícia, foi comprovada, por meio da apresentação das notas fiscais de compra e das relações de compras, a regularidade dos valores contabilizados".
+4. Destarte, a despeito da juntada intempestiva de documentação e manifestação mencionada pela Apelante, em nome do princípio da verdade real, deve ser tal valor efetivamente considerado sob pena de enriquecimento sem causa. Nesse quadro, saliente-se que o trabalho pericial está revestido de metodologia adequada e foi elaborado por profissional de alta capacidade técnica e equidistante em relação às partes e resta corroborado na prova documental acostada nos autos.
+5. Mostra-se escorreita, por conseguinte, a sentença nesse ponto.
+6. Quanto à condenação em honorários advocatícios, por outro lado, a situação é diferente. Com efeito, consoante se vê do laudo pericial "os elementos constantes dos autos não contemplam informações no ano-calendário 2011. Entretanto, foram obtidos pela Perícia, com a colaboração do Sr. Assistente Técnico da parte Autora, informações que possibilitem identificar os custos realizados no período". "Conforme informado no item anterior, não há condições de apurar o lucro real da Autora a partir dos elementos constantes dos autos".
+7. De acordo com as respostas transcritas, a relação de compras e as notas fiscais apenas foram entregues depois, pelo Sr. Assistente Técnico da parte Apelada. Diante de tais circunstâncias, o lançamento incorreto se deu por "erro material" da própria Apelada, que não forneceu os documentos necessários para a correta apuração dos valores.
+8. Assim, pelo princípio da causalidade, que visa a assegurar que a parte que causou o litígio e, consequentemente, a necessidade de intervenção judicial, suporte os custos decorrentes da sua demanda, a Fazenda Nacional não deve ser condenada aos honorários advocatícios (PROCESSO: 08138010720174058300, APELAÇÃO/REMESSA NECESSÁRIA, DESEMBARGADOR FEDERAL EDILSON PEREIRA NOBRE JUNIOR, 4ª TURMA, JULGAMENTO: 27/08/2019; PROCESSO: 08013745220204058500, APELAÇÃO CÍVEL, DESEMBARGADOR FEDERAL ROGÉRIO DE MENESES FIALHO MOREIRA, 3ª TURMA, JULGAMENTO: 22/04/2021).
+9. Apelação parcialmente provida para decotar da condenação imposta à Apelante a obrigação de pagar honorários advocatícios sucumbenciais à Apelada.
+Embargos de declaração rejeitados (e-STJ fls. 2.097/2.101).
+No seu recurso especial, a parte indica a violação dos arts. 85 e 1.022, II, do CPC.
+Aduz, preliminarmente, que o julgado padeceria de omissão, pois (e-STJ fls. 2.121/2.122):
+(..) tendo o Acórdão afirmado que os documentos necessários à elucidação do caso teriam sido apresentados somente na fase pericial, a recorrente ofertou embargos declaratórios, demonstrando que omisso o julgado, uma vez tais documentos foram apresentados ainda na fase fiscalizatória, e a prova documental de tal fato dormita dos autos, consoante se vê do ID 4058100.20405704, págs. 7-10, onde o fiscal atesta o recebimento dos documentos, comenta que, para a venda, é necessário que a contribuinte tivesse de fato os custos de aquisição e demais despesas, mas simplesmente ignora a documentação, por ter, o livro, sido registrado na JUCEC após o início da fiscalização.
+No mérito, argumenta, em resumo, que a responsabilidade pelo ajuizamento da execução fiscal, em valor incorreto, caberia à Fazenda Pública, razão pela qual deveria ser condenada, de acordo com o princípio da causalidade, em honorários advocatícios de sucumbência.
+Contrarrazões às e-STJ fls. 2.148/2.151.
+Recurso especial inadmitido, com base na inocorrência de omissão e no óbice da Súmula 7 do STJ (e-STJ fls. 2.153/2.157).
+Decisão de inadmissão agravada (e-STJ fls. 2.170/2.177).
+Sem contraminuta.
+Passo a decidir.
+A irresignação não merece prosperar.
+Ao atribuir a responsabilidade pelo ajuizamento da execução fiscal para fins de sucumbência, assim se manifestou o Tribunal de origem (e-STJ fl. 2.061):
+De acordo com as respostas transcritas (da perícia judicial), a relação de compras e as notas fiscais apenas foram entregues depois, pelo Sr. Assistente Técnico da parte Apelada.
+Diante de tais circunstâncias, o lançamento incorreto se deu por "erro material" da própria Apelada, que não forneceu os documentos necessários para a correta apuração dos valores.
+Assim, pelo princípio da causalidade, que visa a assegurar que a parte que causou o litígio e, consequentemente, a necessidade de intervenção judicial, suporte os custos decorrentes da sua demanda, a Fazenda Nacional não deve ser condenada aos honorários advocatícios (PROCESSO: 08138010720174058300, APELAÇÃO/REMESSA NECESSÁRIA, DESEMBARGADOR FEDERAL EDILSON PEREIRA NOBRE JUNIOR, 4ª TURMA, JULGAMENTO: 27/08/2019).
+Essa fundamentação foi complementada quando do julgamento dos embargos de declaração (e-STJ fl. 2.098):
+(..) inexiste erro no acórdão embargado, visto que a própria perícia constatou que "a relação de compras e notas fiscais" foram entregues apenas depois, pelo assistente técnico da embargante, de modo que o lançamento incorreto se deu por "erro material" da própria embargante.
+Ademais, se nos próprios autos judiciais não existiam elementos que contemplassem informações dos custos da empresa do ano-calendário de 2011, com mais razão é se presumir que também não existiam tais informações no bojo do procedimento administrativo correspondente.
+Conforme se observa, não há omissão no julgado.
+A questão concernente à suficiência, ou não, das informações prestadas pelo contribuinte na via administrativa foi clara e suficientemente examinada pelo Tribunal de origem. O inconformismo da parte, no ponto, releva discordância com o próprio conteúdo do acórdão, não com suposta falta de análise bastante da controvérsia.
+De outro lado, impossível rever o juízo de fato exarado pela Corte a quo no sentido da efetiva atribuição da responsabilidade pelo ajuizamento da demanda, segundo o princípio da causalidade, pois implicaria a incursão no conjunto probatório dos autos, providência vedada pela Súmula 7 do STJ.
+À guisa de mera ilustração:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ART. 489, §1º, IV, DO CPC/2015. VIOLAÇÃO. INEXISTÊNCIA. HONORÁRIOS DE SUCUMBÊNCIA. PRESENÇA DE CAUSALIDADE. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+1. Não há violação dos arts. 489 e 1.022 do CPC/2015 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+2. À luz do princípio da causalidade, aquele que deu causa à instauração do processo deve responder pela verba honorária de sucumbência.
+3. "A pretensão de simples reexame de prova não enseja recurso especial" (Súmula 7 do STJ).
+4. Hipótese em que a Corte de origem se manifestou, de maneira clara e fundamentada, ao consignar expressamente ser do Judiciário o equívoco na efetivação de penhora não requerida na execução fiscal, sendo certo, ainda, que o conhecimento do recurso especial encontra óbice na Súmula 7 do STJ, uma vez que os embargos à execução foram extintos por ausência de interesse de agir, sem que se pudesse imputar a causalidade ao exequente.
+5. Agravo interno desprovido.
+(AgInt no AREsp 1.364.626/PE, de minha relatoria, PRIMEIRA TURMA, julgado em 14/05/2019, DJe 12/06/2019).
+Ante o exposto, com base no art. 253, parágrafo único, II, "a" e "b", do RISTJ, CONHEÇO do agravo para CONHECER EM PARTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Sem honorários recursais, pois ausente condenação da parte agravante, nas instâncias ordinárias, em verba honorária.
+Publique-se. Intimem-se.
+EMENTA
