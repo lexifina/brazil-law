@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MUNICÍPIO DE SÃO PAULO, fundado na alínea "a" do permissivo constitucional, contra acórdão assim ementado:
+Agravo de instrumento. Execução de título extrajudicial. Despesas condominiais. Arrematação de imóvel. Inconformismo do Município de São Paulo. Crédito tributário. Pretensão de incidência de correção monetária e juros até o efetivo levantamento. Não acolhimento. Correção monetária e juros que devem incidir até a data do depósito judicial, passando, a partir de então, a ser encargo da instituição financeira responsável. Exegese da Súmula nº 179 do STJ e da tese fixada no Recurso Especial Repetitivo nº 1.348.640/RS. Decisão mantida. Agravo de instrumento desprovido.
+Os embargos de declaração foram rejeitados.
+Nas razões recursais, o ente público aponta violação dos arts. 489, § 1º, e 1.022 do CPC, 111, I, 151, II, e 130, parágrafo único, do CTN e dos arts. 5º e 9º, § 4º, da LEF.
+Sustenta, em preliminar, que o acórdão recorrido padece de omissão, por não ter se manifestado acerca da revisão do entendimento adotado no julgamento do REsp 1348640/RS, bem como da nova tese firmada no âmbito do Tema 677 do STJ.
+No mérito, defende que os créditos de IPTU incidentes sobre o imóvel arrematado devem ser atualizados conforme os índices de correção monetária e juros moratórios previstos na legislação local para o pagamento do tributo em atraso, até o momento do levantamento da quantia depositada.
+Não foram apresentadas contrarrazões.
+O Tribunal de origem admitiu o recurso especial, determinando a remessa dos autos à instância superior.
+Na origem, os autos versam sobre agravo de instrumento interposto pelo município recorrente contra decisão do juízo de primeiro grau que indeferiu o pedido de atualização dos créditos de IPTU até o levantamento dos valores depositados, efetuados em razão da arrematação do imóvel nos autos da execução de despesas condominiais.
+O TJSP negou provimento ao recurso, com a seguinte fundamentação:
+Consoante se extrai da análise dos autos, a pretensão do Município de São Paulo, ora agravante, diz respeito exclusivamente à incidência de juros de mora de 1% e correção monetária pelos índices do IPCA sobre o crédito tributário até a data do levantamento, nos termos da Lei Municipal nº 13.275, de 04/01/2002, e não até a data da arrematação ou do depósito judicial do valor pago pelo arrematante.
+Ocorre que há entendimento jurisprudencial já pacificado no sentido de que a instituição depositária é responsável, a partir do depósito judicial, pelo pagamento da correção monetária e dos juros e, no caso concreto, isso vale para o produto da arrematação do imóvel gerador das despesas condominiais.
+Essa é a orientação contida na Súmula nº 179 do Colendo Superior Tribunal de Justiça, segundo a qual "O estabelecimento de crédito que recebe dinheiro, em depósito judicial, responde pelo pagamento da correção monetária relativa aos valores recolhidos".
+No Recurso Especial nº 1.348.640/RS, julgado sob o rito dos recursos representativos de controvérsias, também restou definido, in verbis:
+ ..
+E, como se pode notar, a mencionada interpretação não faz diferença entre a natureza do crédito depositado judicialmente, se tributário ou não, considerando, inclusive, tratar-se de dívida proveniente de sub-rogação no preço da arrematação.
+Nesse sentido tem decido este Egrégio Tribunal de Justiça do Estado de São Paulo:
+ ..
+Objetivamente inviável, por conseguinte, a reforma da respeitável decisão ora agravada.
+Por ocasião do julgamento dos embargos de declaração, a Corte estadual acrescentou:
+Em outras palavras, não obstante a natureza tributária do crédito perseguido pelo Município embargante, trata-se de dívida que será sub-rogada no preço da arrematação, cujo valor já se encontra depositado judicialmente nos autos. Isso quer dizer que o crédito tributário a ser sub-rogado deve ser mesmo atualizado somente até a data do depósito do valor da arrematação. A partir deste momento, a atualização é exclusiva do valor depositado e fica a cargo da instituição financeira.
+Não se ignora que a tese adotada no Recurso Especial nº 1.348.640/RS, julgado sob o rito dos recursos representativos de controvérsias, foi revisada, e que o Tema nº 677 do Colendo Superior Tribunal de Justiça passou a ter a seguinte redação, in verbis:
+ ..
+Não obstante, inaplicável a nova redação do Tema nº 677 ao caso dos autos, tendo em vista que o valor decorrente da arrematação do imóvel fora depositado judicialmente a título de pagamento, e não para fins de garantia do juízo ou resultante de penhora de ativos financeiros da executada.
+Pois bem.
+Inicialmente, não se verifica ofensa aos arts. 489, § 1º, e 1.022 do CPC/2015 quando o Tribunal de origem se manifesta de forma fundamentada sobre as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos. Cumpre destacar que o julgamento desfavorável ao interesse da parte não se confunde com negativa ou ausência de prestação jurisdicional. Nesse sentido, confiram -se: AgInt no REsp 1.949.848/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 13/12/2021, DJe 15/12/2021; AgInt no AREsp 1.901.723/PE, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 07/12/2021, DJe 10/12/2021; AgInt no REsp 1.813.698/MG, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 06/12/2021, DJe 09/12/2021; AgInt no AREsp 1.860.227/RS, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 22/11/2021, DJe 10/12/2021.
+Feita essa consideração, observa-se que, quanto à omissão apontada, não há falar em negativa de prestação jurisdicional, uma vez que a fundamentação constante do acórdão recorrido é clara ao consignar que o entendimento firmado no julgamento do Tema 677 do STJ se refere a depósitos realizados em garantia ou decorrentes de penhora de ativos financeiros, não se aplicando, portanto, aos depósitos efetuados para fins de pagamento de arrematação.
+Ora, ainda que o recorrente considere insuficiente ou equivocada a fundamentação adotada pelo Tribunal, tal circunstância não configura ausência de manifestação capaz de comprometer a validade do acórdão recorrido.
+No que tange ao juízo de reforma, o recurso especial não supera o juízo de admissibilidade.
+Isso porque, em primeiro lugar, os dispositivos indicados  arts. 111, I, 151, II, e 130, parágrafo único, do CTN, bem como os arts. 5º e 9º, § 4º, da LEF  não foram objeto de análise no acórdão recorrido, tampouco suscitados nos embargos de declaração, razão pela qual o recurso especial carece do requisito do prequestionamento, nos termos da Súmula 282 do STF.
+Além disso, o fundamento adotado pelo acórdão recorrido quanto à inaplicabilidade do Tema 677 do STJ ao caso concreto não foi especificamente impugnado nas razões recursais, atraindo, por conseguinte, o óbice ao conhecimento previsto na Súmula 283 do STF.
+Ante o exposto, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO (art. 255, § 4º, I e II, do RISTJ).
+Publique-se. Intimem-se.
+EMENTA
