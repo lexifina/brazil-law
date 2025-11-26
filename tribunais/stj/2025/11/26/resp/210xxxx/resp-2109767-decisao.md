@@ -1,0 +1,64 @@
+DECISÃO
+Trata-se de recurso especial interposto por ESPÓLIO DE EDI SILIPRANDI, com fundamento na alínea "a" do permissivo constitucional, em face de acórdão prolatado pelo Tribunal de Justiça do Estado do Paraná, assim ementado (fls. 205/213, e-STJ):
+MANDADO DE SEGURANÇA. CUMPRIMENTO DE SENTENÇA. DEFINIÇÃO DO ÔNUS PELO PAGAMENTO DE EMOLUMENTOS DE CARTÓRIO. DECISÃO IMPUGNADA QUE RECONHECEU A RESPONSABILIDADE DOS EXEQUENTES PELO PAGAMENTO DOS EMOLUMENTOS REFERENTES ÀS ANOTAÇÕES E LEVANTAMENTOS DA INDISPONIBILIDADE DOS BENS. MANDADO DE SEGURANÇA IMPETRADO POR AGENTE DELEGADA. REFORMA DA DECISÃO PROCEDIDA EM AGRAVO DE INSTRUMENTO INTERPOSTO PELO AGENTE DE OUTRO OFÍCIO. OBSERVÂNCIA DO PRINCÍPIO DA CAUSALIDADE. PARTE EXECUTADA QUE DEIXOU DE INDICAR BENS PASSÍVEIS DE PENHORA DURANTE O TRÂMITE PROCESSUAL. INDICAÇÃO DO IMÓVEL À PENHORA APENAS APÓS DETERMINAÇÃO DE INDISPONIBILIDADE. ÔNUS DO PAGAMENTO DOS EMOLUMENTOS QUE DEVE RECAIR SOBRE OS EXECUTADOS. EXTENSÃO DOS EFEITOS DO ACÓRDÃO À IMPETRANTE. MESMA SITUAÇÃO DE FATO. SEGURANÇA JURÍDICA. DIREITO LÍQUIDO E CERTO VIOLADO.
+SEGURANÇA CONCEDIDA.
+Opostos embargos de declaração (fls. 233/246, e-STJ), esses foram rejeitados (fls. 286/292, e-STJ).
+Nas razões do recurso especial (fls. 298/321, e-STJ), o recorrente aponta violação seguintes arts.:
+(i) arts. 489 e 1.022 do CPC, alegando persistência de omissão e deficiência de fundamentação, sobretudo quanto à inadequação do mandado de segurança e quanto à legitimidade ativa da impetrante
+(ii) art. 5º, II, da Lei 12.016/2009, sustentando que o mandado de segurança seria incabível por existir recurso próprio.
+(iii) arts. 18 e 485, VI, do CPC, afirmando ilegitimidade ativa da impetrante para a impetração.
+Contrarrazões às fls. 327/336, e-STJ.
+Admitido o recurso especial (fls. 345/348, e-STJ), os autos ascenderam a esta Corte.
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1. Inicialmente, não há falar em negativa de prestação jurisdicional (arts. 489 e 1.022 do CPC). O acórdão recorrido examinou expressamente as questões controvertidas, destacando, ao rejeitar os embargos de declaração, que (fl. 290, e-STJ):
+Cabe reconhecer, portanto, que foram plenamente explicitadas as razões pelas quais este órgão Julgador entendeu pela concessão da segurança, apresentando fundamentos suficientes para tal, e enfrentando expressamente as questões postas.
+O Tribunal também consignou que:
+Tendo em vista que a situação fática posta no Mandado de Segurança era idêntica à hipótese do Agravo de Instrumento 0031740-23.2021.8.16.0000 (mas tendo como requerentes agentes delegados de registros diferentes), tem-se que seria absolutamente injustificada a concessão de tratamento diverso aos agentes delegados na mesma situação, em razão de uma tecnicalidade processual, ferindo a isonomia e a celeridade processual.
+Ademais, verifica-se que a parte embargante está, de forma clara, pretendendo a rediscussão de matéria já decidida no Acórdão recorrido, o que é vedado em sede de embargos de declaração.
+Desse modo, a Corte estadual: a) registrou a identidade fática entre o agravo de instrumento e o mandado de segurança; b) explicou a necessidade de estender à impetrante os efeitos do julgamento anterior; c) enfrentou a tese de utilização indevida do mandado de segurança; d) esclareceu que não houve qualquer omissão relevante.
+Não é demais lembrar a orientação desta Corte no sentido de que o julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, nem a indicar todos os dispositivos legais suscitados, quando tenha encontrado motivação satisfatória para dirimir o litígio. Nesse sentido, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. SUFICIÊNCIA. AGRAVO DE INSTRUMENTO INTERPOSTO CONTRA DECISÃO QUE PÔS TERMO À EXECUÇÃO. INAPLICABILIDADE DO PRINCÍPIO DA FUNGIBILIDADE, PORQUANTO NÃO HÁ DÚVIDA A RESPEITO DO RECURSO ADEQUADO. AGRAVO NÃO PROVIDO.
+1. Não há violação aos arts. 489 e 1.022 do Código de Processo Civil de 2015, tendo em vista que o v. acórdão recorrido, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente, decidindo integralmente a controvérsia.
+2. A interposição de agravo de instrumento contra sentença que extingue processo de execução configura erro grosseiro e inviabiliza a aplicação do princípio da fungibilidade recursal. Precedentes.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1520112/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 04/02/2020, DJe 13/02/2020)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. OMISSÃO. INEXISTÊNCIA. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. ENTENDIMENTO NO SENTIDO DA AUSÊNCIA DE NOVAÇÃO. MERO PARCELAMENTO DA DÍVIDA. SÚMULAS 5 E 7/STJ. APLICAÇÃO. AGRAVO INTERNO DESPROVIDO.
+1. Inexistem omissões ou mesmo contradição a serem sanadas no julgamento estadual, portanto inexistentes os requisitos para reconhecimento de ofensa aos arts. 10, 489, § 1º, IV e VI, e 1.022 do CPC/2015 do novo CPC. O acórdão dirimiu a controvérsia com base em fundamentação sólida, sem tais vícios, o que não se confunde com omissão ou contradição, tendo em vista que apenas resolveu a celeuma em sentido contrário ao postulado pela parte insurgente. Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas apenas a declinar as razões de seu convencimento motivado, como de fato ocorre nos autos.
+ ..  3. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp 1445088/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/12/2019, DJe 19/12/2019)
+Assim, não se verifica qualquer violação aos arts. 489 e 1.022 do CPC/2015, pois as matérias impugnadas foram efetivamente apreciadas, inexistindo omissão, contradição ou deficiência de fundamentação a justificar o manejo do especial sob tal fundamento.
+2. A tese de que haveria substituição de recurso próprio por mandado de segurança (art. 5º, II, da Lei 12.016/2009) não prospera. O acórdão recorrido deixou claro que (fls. 210/211, e-STJ):
+Não há dúvidas de que a situação da agente delegada ora impetrante é a mesma do agente delegado do 2º Registro de Imóveis de Pato Branco, Leonardo Luiz Selbach, e de que, especialmente ante o provimento do agravo de instrumento por ele interposto, deve ser reconhecido o direito líquido e certo da Agente Delegada do 1º Registro de Imóveis de Pato Branco, Renata da Costa Luz Pacheco Moutinho, ao recebimento dos emolumentos.
+Necessário, portanto, o reconhecimento do direito da impetrante à concessão da segurança, pelos mesmos fundamentos já adotados no Agravo de Instrumento 0031740-23.2021.8.16.0000.
+ ..  Há que se determinar, portanto, a extensão à impetrante dos efeitos do AI pagamento dos emolumentos0031740-23.2021.8.16.0000, para reconhecer que o ônus do para a averbação e o levantamento da indisponibilidade dos bens deve recair sobre os executados, os quais motivaram a determinação de indisponibilidade.
+A própria Corte estadual observou que a atuação teve como objetivo evitar tratamento desigual entre agentes delegados em situação idêntica, o que justifica o manejo da via mandamental na hipótese concreta.
+Além disso, esta Corte apenas admite mandado de segurança quando o ato judicial impugnado é teratológico, ou a medida é necessária para impedir violação manifesta a direito líquido e certo. Precedentes: AgRg no MS: 28496 DF 2022/0085576-0, Relator.: Ministro HUMBERTO MARTINS, Data de Julgamento: 12/09/2023, CE - CORTE ESPECIAL, Data de Publicação: DJe 15/09/2023; AgInt no RMS: 72001 SC 2023/0278508-8, Relator.: Ministro MARCO BUZZI, Data de Julgamento: 27/11/2023, T4 - QUARTA TURMA, Data de Publicação: DJe 30/11/2023 e AgInt no RMS: 73768 SC 2024/0218363-3, Relator.: Ministro MARCO BUZZI, Data de Julgamento: 21/10/2024, T4 - QUARTA TURMA, Data de Publicação: DJe 25/10/2024.
+No caso concreto, o Tribunal estadual reconheceu que a impetrante se encontrava na mesma situação já julgada pelo Agravo de Instrumento de n. 0031740-23.2021.8.16.0000, de modo que apenas determinou a extensão necessária dos efeitos.
+Não se trata, portanto, de utilização do mandado de segurança como sucedâneo recursal, mas de adequação do julgado para assegurar tratamento isonômico, nos exatos termos da fundamentação do acórdão.
+A incidência do art. 5º, II, da Lei 12.016/2009 depende da existência de recurso apto a corrigir a violação alegada pela impetrante, o que não se verifica no caso concreto.
+Logo, não há violação ao dispositivo invocado.
+3. Também não prospera a tese de ilegitimidade ativa da impetrante (arts. 18 e 485, VI, do CPC). O acórdão recorrido afirmou expressamente que (fl. 210, e-STJ):
+Não há dúvidas de que a situação da agente delegada ora impetrante é a mesma do agente delegado do 2º Registro de Imóveis de Pato Branco, Leonardo Luiz Selbach, e de que, especialmente ante o provimento do agravo de instrumento por ele interposto, deve ser reconhecido o direito líquido e certo da Agente Delegada do 1º Registro de Imóveis de Pato Branco, Renata da Costa Luz Pacheco Moutinho, ao recebimento dos emolumentos.
+A discussão submetida ao mandado de segurança diz respeito diretamente ao direito da impetrante de receber emolumentos pelo serviço registral.
+Trata-se, portanto, de direito próprio, e não de pleito em nome alheio, conforme já reconhecido nos autos do REsp: 1674651 PR 2017/0134039-3, Relator.: Ministra ASSUSETE MAGALHÃES, Data de Publicação: DJ 17/09/2019.
+Consequentemente, não há violação aos arts. 18 e 485, VI, do CPC.
+4. Por fim, impende observar que o recurso, nos moldes em que formulado, pretende rediscutir: (i) quem deu causa ao registro de indisponibilidade; (ii) se o exequente esgotou meios de localização de bens; (iii) se a indisponibilidade era medida cabível; (iv) se houve culpa do executado; (v) se a decisão do juiz foi manifestamente ilegal.
+Tais temas envolvem reexame do conjunto probatório, o que é vedado pela Súmula 7/STJ, considerando que o acórdão recorrido, com base na prova dos autos, afirmou que (fl. 211, e-STJ): "Em observância ao princípio da causalidade, tem-se, portanto, que a parte executada deu causa a indisponibilidade promovida pelo Juízo, ante a prática de conduta omissiva, uma vez que injustificadamente protelou a indicação do bem passível de penhora, o que ensejou no posterior pedido de cancelamento da indisponibilidade".
+Modificar essa conclusão demandaria revolvimento fático-probatório, o que é inviável nesta via, conforme previsão da Súmula 7/STJ, veja-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO IDE NDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. REEXAME DE FATOS E PROVAS. INADMISSIBIL REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ.
+1. Ação de indenização por danos materiais e morais.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. Agravo interno no agravo em recuso especial não provido.
+(STJ - AgInt no AREsp: 2043553 SP 2021/0399276-4, Data de Julgamento: 03/10/2022, T3 - TERCEIRA TURMA, Data de Publicação: DJe 05/10/2022)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DANOS MORAIS E ESTÉTICOS. CIRURGIA ESTÉTICA. ERRO MÉDICO CONSTATADO. REEXAME DAS CONCLUSÕES ORIGINÁRIAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. QUANTUM INDENIZATÓRIO. REVISÃO. ÓBICE DA SÚMULA 7/STJ. REVALORAÇÃO DA PROVA. AFASTAMENTO. HONORÁRIOS SUCUMBENCIAIS. REVISÃO. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. Nos termos da jurisprudência desta Corte Superior, não há como afastar as premissas fáticas e probatórias estabelecidas pelas instâncias ordinárias, soberanas em sua análise, pois, na via estreita do recurso especial, a incursão em tais elementos esbarraria no óbice do enunciado 7 da Súmula do Superior Tribunal de Justiça.
+2. A pretensão recursal é de alterar as conclusões sobre os fatos e provas do processo, para alcançar resultado favorável na demanda. Isso nada mais é do que o revolvimento do que já foi soberanamente julgado pelas instâncias ordinárias. O Superior Tribunal de Justiça, pela via extraordinária do recurso especial, não é terceira instância revisora e, portanto, não pode rejulgar a prova, como quer o agravante. As alegações de ofensa à lei federal, no caso, atreladas a essa descabida pretensão, encontram óbice intransponível na Súmula 7/STJ.
+3. Agravo interno improvido.
+(STJ - AgInt no AREsp: 2202903 DF 2022/0279336-4, Relator.: MARCO AURÉLIO BELLIZZE, Data de Julgamento: 03/04/2023, T3 - TERCEIRA TURMA, Data de Publicação: DJe 10/04/2023)
+5. Ante o exposto, com fulcro no art. 932 do CPC/2015 c/c Súmula 568/STJ, nego provimento ao recurso especial.
+Descabida a majoração de honorários advocatícios sucumbenciais, nos termos do art. 85, § 11, do CPC/2015, na medida em que não houve fixação de tal verba na origem.
+Publique-se.
+Intimem-se.
+EMENTA
