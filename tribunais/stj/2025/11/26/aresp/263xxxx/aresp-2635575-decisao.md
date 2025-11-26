@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interposto por FELIPE COSTA contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANSTINS que não admitiu o recurso especial com fundamento na Súmula n. 7, STJ .
+O agravante foi condenado pelo crime previsto no art. 155, do Código Penal, a uma pena de 01 (um) ano e 02 (dois) meses de reclusão, em regime aberto, além do pagamento de 29 dias-multa (fls. 261-270)
+Interposta apelação, a sentença de 1º grau foi mantida (fls. 334-335).
+Em sede de recurso especial, o réu aduz violação aos arts. 59 e 68 do Código Penal, alegando indevida majoração da pena-base quanto ao vetor conduta social.
+Decisão de fls. 371-375 inadmitiu o recurso, reconhecendo incidência da Súmula n. 7, STJ.
+Em agravo de fls. 384-395, alega o recorrente a inaplicabilidade da Súmula n. 7, STJ, uma vez que não seria necessária a reanálise dos fatos ou provas, mas somente do
+direito aplicado. Pugna, ao final, pelo conhecimento e provimento do agravo para que, no
+mérito, seja provido o recurso especial.
+Contraminuta em agravo especial constante das fls. 399-406.
+O Ministério Público Federal ofertou parecer às fls. 420-428 .
+É o relatório. DECIDO.
+Entendo que, no agravo, o recorrente rechaçou os fundamentos de inadmissão do apelo especial.
+Todavia, o recurso especial não deve ser conhecido, uma vez que, como bem fundamentado pela Corte de origem, a impossibilidade de seguimento do recurso se deu com base na incidência da Súmula n. 7, STJ.
+Observo, no ponto, que, no que concerne à Súmula n. 7, STJ, embora a jurisprudência do Superior Tribunal de Justiça admita a revaloração das premissas fáticas no âmbito do recurso especial, não basta a mera alegação de que a pretensão visa tão somente ao reenquadramento jurídico dos fatos. Incumbe à parte demonstrar, de forma cuidadosa, que os fatos, tal qual descritos no acórdão recorrido, reclamam solução jurídica diversa daquela que fora aplicada pelo julgador. A propósito:
+"É entendimento desta Corte Superior que, "inadmitido o recurso especial com base na Súm. 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível" (AgInt no AREsp n. 600.416/MG, Segunda Turma, rel. Min. Og Fernandes, DJe 18/11/2016)" (AgRg no AREsp n. 2.153.967/TO, Sexta Turma, Rel. Min. Jesuíno Rissato - Desembargador Convocado do TJDFT, DJe de 23/6/2023);
+"Para afastar a aplicação da Súmula n. 7 do STJ, não é bastante a mera afirmação de sua não incidência, devendo a parte apresentar argumentação suficiente a fim de demonstrar que, para o STJ mudar o entendimento da instância de origem sobre a questão suscitada, não é necessário reexame de fatos e provas da causa" (AgRg no AREsp n. 1.713.116/PI, Quinta Turma, Rel. Min. João Otávio de Noronha, DJe de 8/8/2022).
+Busca o recorrente pronunciamento em relação à valoração negativa da conduta social.
+O Tribunal de Justiça se debruçou sobre a matéria no acórdão, conforme trecho seguinte (fls. 326-327):
+Pois bem. A circunstância judicial "conduta social" deve ser entendida como o papel do réu na comunidade, família, trabalho, escola e vizinhança. Diz respeito à avaliação do comportamento do agente no convívio social, familiar e laboral, perante a coletividade em que está inserido.
+No caso em apreço, a testemunha Hellyerbeth Francisco Melo asseverou em juízo "que já teve diversas ocorrências envolvendo o réu". (..) Que as diversas ocorrências envolvem crime contra o patrimônio, sendo bastante conhecido pela Polícia Civil pela prática crimes. Que já  agrou o réu em outra oportunidade, quando ele tinha praticado um crime de furto de bicicleta."
+Ademais, consta ainda que o recorrente é usuário de drogas, tendo sido apreendido consigo também o entorpecente conhecido como maconha, e ele mesmo ter a rmando em seu interrogatório na delegacia (evento 1, pág. 52, do IP) ter feito uso do mesmo, bem como constar a informação de ser desempregado e não estudar, apesar da pouca idade (19 anos), demonstrando comportamento incompatível com o cidadão comum perante a sociedade.
+Tais evidências, por si sós, são aptas e su cientes a demonstrar o comportamento inadequado do Réu na sociedade, autorizando o magistrado a valorar negativamente a conduta social.
+Observa-se que houve fundamentação por parte do Tribunal de origem, não havendo, portanto, que se falar em ilegalidade. A decisão respeitou os parâmetros desta Corte Superior, não havendo irregularidade a ser sanada.
+Considerando que fundamentou a negativação na percepção social do acusado, inclusive citando o dito por testemunha ouvida no processo, o entendimento do Tribunal de Justiça vai ao encontro da jurisprudência desta Corte Superior:
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. VALORAÇÃO NEGATIVA DA CONDUTA SOCIAL. UTILIZAÇÃO DE DEPOIMENTOS DE TESTEMUNHAIS. INEXISTÊNCIA DE VIOLAÇÃO DO PRINCÍPIO DA PRESUNÇÃO DE INOCÊNCIA. NÃO CONHECIMENTO DO WRIT E AGRAVO REGIMENTAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto pela Defensoria Pública do Estado de Sergipe contra decisão que não conheceu do habeas corpus impetrado em favor de Itamar dos Santos, condenado pelo crime de violação de domicílio qualificada (art. 150, §1º, do Código Penal) à pena de 6 meses de detenção, em regime inicial aberto. A defesa sustentou ilegalidade na dosimetria da pena, especialmente quanto à valoração negativa da conduta social, baseada em condenações anteriores e fundamentos genéricos. A decisão agravada manteve o não conhecimento do habeas corpus substitutivo de recurso próprio, negando também a concessão de ordem de ofício.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se a valoração negativa da conduta social do paciente, fundamentada em depoimentos testemunhais acerca de sua reputação como pessoa envolvida com crimes e consumo de drogas, violou o princípio da presunção de inocência; (ii) estabelecer se havia flagrante ilegalidade que autorizasse a concessão de habeas corpus de ofício.
+III. RAZÕES DE DECIDIR
+3. A jurisprudência consolidada do Superior Tribunal de Justiça inadmite o habeas corpus como substitutivo de recurso próprio, salvo em casos de flagrante ilegalidade. A concessão de habeas corpus de ofício exige a verificação, de plano, de flagrante ilegalidade que comprometa a liberdade de locomoção, o que inexiste nos autos.
+4. A valoração negativa da conduta social com base em depoimentos que indicam comportamento social inadequado - prática de furtos e consumo de drogas - não configura violação do princípio da presunção de inocência e à Súmula 444 do STJ, pois deixou de basear-se em inquéritos policiais ou ações penais em andamento. Esse vetor está ligado à percepção da sociedade sobre o réu e, no caso, há evidências racionais de que ele é considerado uma pessoa com comportamento inadequado.
+5. O entendimento da Corte é no sentido de que a inserção social do agente, aferida por testemunhos e não por antecedentes criminais, pode ser legítima para justificar a exasperação da pena-base.
+IV. DISPOSITIVO E TESE
+6. Agravo regimental desprovido.
+Teses de julgamento: (a) Descabido o uso de habeas corpus como substitutivo de recurso próprio, salvo em casos de flagrante ilegalidade. (b) a concessão de habeas corpus de ofício exige demonstração inequívoca de flagrante ilegalidade. (c) a conduta social do agente pode ser valorada negativamente com base em elementos concretos extraídos de depoimentos testemunhais sobre seu comportamento social, sem configurar violação do princípio da presunção de inocência e da Súmula 444 dessa Corte de Justiça.
+(AgRg no HC n. 950.571/SE, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 11/6/2025, DJEN de 18/6/2025.)
+Deste modo, rever a conclusão a que soberanamente chegou o Tribunal de origem importaria revolvimento do conjunto fático-probatório, o que é vedado pela Súmula n. 7, STJ.
+Por fim, convém acentuar que o Superior Tribunal de Justiça não é terceira instância revisora ou Corte de apelação sucessiva. O recurso especial é excepcional, de fundamentação vinculada, com forma e conteúdo próprios, que se destina a atribuir a adequada interpretação e uniformização da lei federal, e não ao rejulgamento da causa, à moda de recurso ordinário ou de apelação, sob pena de se tornar uma terceira instância recursal.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial, nos termos do art. 253, parágrafo único, inciso II, alínea a, do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se.  Intimem-se.
+EMENTA
