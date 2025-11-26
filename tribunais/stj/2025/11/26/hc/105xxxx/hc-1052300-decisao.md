@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de MARAYSA DE FATIMA BATISTA APOLINARIO, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que a paciente foi condenada à pena de 8 anos e 10 meses de reclusão, em regime semiaberto, mais pagamento de 1.283 dias-multa, como incursa no art. 33, caput, e 35, caput, c.c o 40, VI, da Lei n. 11.343/2006.
+Em sede recursal, o Tribunal de origem negou provimento ao apelo defensivo e acolheu o da acusação para exasperar a pena-base, sem reflexos na sanção final, bem como para fixar o regime inicial fechado para o início do cumprimento da pena reclusiva.
+Transitada em julgada a sentença penal condenatória, determinou-se a expedição de mandado de prisão para cumprimento da pena.
+Inconformada, a defesa impetrou prévio writ no Tribunal de origem, que declinou a competência e encaminhou os autos para exame por esta Corte Superior (e-STJ, fl. 577)
+Da análise da inicial, requer, o impetrante, em síntese, a imediata suspensão do mandado de prisão emitido ilegalmente de forma automática após o trânsito em julgado, assim como seja reconhecido o redutor do art. 33, § 4º, da Lei n. 11.343/2006 na fração máxima e seja detraído, para fins de estabelecimento do modo prisional, o período em que a paciente permaneceu em prisão domiciliar.
+É o relatório.
+Decido.
+Inicialmente, cumpre anotar que o Supremo Tribunal Federal e o Superior Tribunal de Justiça pacificaram a orientação de que o habeas corpus não pode ser utilizado como sucedâneo do recurso próprio constitucionalmente previsto, menos ainda como substitutivo de revisão criminal, admitindo-se o seu conhecimento apenas nas hipóteses excepcionais de flagrante ilegalidade (STF, HC 109.956, relator Ministro Marco Aurélio, 1.ª Turma, julgado em 07/08/2012, DJe 11/09/2012, e, mais recentemente, HC 224.801- AgR/SP, 2ª Turma, relator Ministro André Mendonça, julgado em 21/02/2024, DJe 15/04/2024; STJ, HC 535.063/SP, relator Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 10/06/2020, DJe 25/08/2020).
+No mesmo sentido, os recentes julgados das Turmas Criminais desta Corte reforçam a inviabilidade de habeas corpus manejado para desconstituir decisão transitada em julgado em substituição à revisão criminal:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. TRÂNSITO EM JULGADO. COMPETÊNCIA DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que indeferiu liminarmente habeas corpus, sob o fundamento de que o writ foi utilizado como substitutivo de revisão criminal, em situação na qual não se configurou a competência originária do Superior Tribunal de Justiça.
+2. Fato relevante. O agravante alegou indevido bis in idem na dosimetria da pena, em razão da consideração da quantidade de droga apreendida (151kg de maconha) na primeira e terceira fases da aplicação da pena. Requereu nova dosimetria com aplicação do redutor do art. 33, § 4º, da Lei nº 11.343/2006.
+ ..
+III. Razões de decidir
+4. O habeas corpus não pode ser conhecido quando utilizado como substitutivo de revisão criminal, em razão do trânsito em julgado da decisão condenatória das instâncias de origem, conforme o art. 105, I, "e", da Constituição Federal, que limita a competência do Superior Tribunal de Justiça ao processamento e julgamento de revisões criminais de seus próprios julgados.
+5. Não há flagrante ilegalidade na dosimetria da pena que justifique a concessão de ordem de ofício, considerando que os argumentos apresentados pelo agravante foram devidamente analisados na decisão agravada.
+IV. Dispositivo e tese
+6. Resultado do Julgamento: Agravo regimental não provido.
+ ..
+(AgRg no HC n. 1.028.771/CE, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 22/10/2025, DJEN de 29/10/2025.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Esta Corte, em diversas ocasiões, reconheceu a impossibilidade de impetração de habeas corpus concomitante à interposição de recurso especial ou em substituição à revisão criminal.
+2. Revela-se inviável, notadamente diante da incompetência deste Superior Tribunal, analisar habeas corpus substitutivo de revisão criminal. Sem descurar de sua importância na defesa da liberdade de locomoção, a crescente quantidade de impetrações que, antes, deveriam ser examinadas em instâncias diversas, está prejudicando as funções constitucionais desta Corte, em detrimento da eficácia do apelo especial, o que enfraquece a delimitação de teses para a uniformidade e a previsibilidade do sistema jurídico.
+3. Conforme a compreensão desta Corte Superior, "a concessão da ordem de ofício é de iniciativa exclusiva do julgador, quando se deparar com flagrante ilegalidade em procedimento de sua competência" (AgRg no AREsp n. 2.565.957/TO, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 9/9/2024, DJe de 11/9/2024), o que não se verifica na hipótese.
+4. Agravo regimental não provido.
+(AgRg no HC n. 940.391/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 19/3/2025, DJEN de 24/3/2025.)
+No caso concreto, a defesa pretende rediscutir fundamentos da condenação já confirmada em apelação, sem utilização da via adequada da revisão criminal, buscando, por meio do writ, contornar a coisa julgada, o que não é admissível (e-STJ, fls. 7-12).
+A competência deste Superior Tribunal para apreciar habeas corpus contra atos de Tribunais locais decorre do art. 105, I, c, da Constituição da República, que dispõe:
+"Compete ao Superior Tribunal de Justiça: I - processar e julgar, originariamente: ( ) c) os habeas corpus, quando o coator ou paciente for qualquer das pessoas mencionadas na alínea a; quando o coator for Tribunal sujeito à sua jurisdição; ou quando o paciente estiver constrangido por ato de Ministro de Estado ou do Tribunal de Contas da União."
+No ponto, o ato coator indicado é o acórdão da 16ª Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo, que, em julgamento virtual, negou provimento ao apelo defensivo e deu parcial provimento ao recurso ministerial para fixar o regime inicial fechado, mantendo a pena em 8 anos e 10 meses de reclusão. A inicial noticia a expedição de mandado de prisão após o trânsito e veicula teses de dosimetria - reconhecimento do redutor do art. 33, § 4º, da Lei 11.343/2006, na fração máxima, e detração do período em prisão domiciliar desde 02/12/2022 -, com reflexos executórios.
+Nesse quadro, compete a este Tribunal Superior o exame do habeas corpus na medida em que se impugna decisão emanada do Tribunal de origem. Não se evidencia, todavia, ilegalidade flagrante apta a ensejar concessão de ordem, uma vez que a fixação do regime inicial fechado e a manutenção da pena foram devidamente fundamentadas, inexistindo teratologia ou manifesta violação à lei federal que autorize mitigação da via estreita do habeas corpus (e-STJ, fls. 7-12).
+Por outro lado, as alegações dirigidas a ato singular do juízo de primeiro grau - notadamente a expedição automática de mandado de prisão após o trânsito, sem reavaliação da necessidade da custódia e sem fundamentação concreta - não se submetem, originariamente, à competência do STJ, devendo ser apreciadas, em primeiro lugar, pelo Tribunal local, sob pena de negativa de prestação jurisdicional.
+Ante o exposto, não conheço do habeas corpus. Contudo, concedo, de ofício, a ordem para determinar que o Tribunal de Justiça do Estado de São Paulo examine, como entender de direito, os pontos do Habeas Corpus n. 2355000-04.2025.8.26.0000 relativos a atos singulares não apreciados, decidindo-os sob o enfoque em que foram apresentados.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
