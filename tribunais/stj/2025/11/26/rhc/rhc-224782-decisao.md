@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, interposto por JULIO CESAR GABRIEL PAULANI, no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que denegou o habeas corpus de origem.
+O recorrente teve a prisão temporária convertida em preventiva pela suposta prática do delito de tentativa de homicídio qualificado.
+Também é noticiado que recorrente e um amigo (Cado) estavam conversando a respeito de um churrasco quando, supostamente, o recorrente teria atacado a vítima com uma faca no pescoço. Teria perseguido o ofendido para lhe dar outros golpes, o que foi evitado porque Cado teria se escondido embaixo de um carro.
+O Ministério Público ofereceu denúncia pela prática do crime previsto no artigo 121, §2º, incisos II e IV, c. c artigo 14, inciso II, do Código Penal e requereu a instauração de incidente de insanidade mental e a conversão da prisão temporária em preventiva.
+Nesse contexto, sustenta o recorrente que é portador de transtornos mentais e que deveria cumprir a sua reprimenda em estabelecimento destinado a inimputáveis, enfatizando a ilegalidade da prisão pela patologia mental citada, bem como porque com a instauração do incidente de insanidade mental pelo juízo de piso ex officio e sua demora, seria necessária a soltura do acusado.
+Requer o provimento do recurso para a substituição da custódia cautelar por prisão domiciliar e tratamento ambulatorial.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso (fls. 120-122).
+É o relatório.
+A prisão preventiva reveste-se de caráter excepcional, sendo admissível apenas quando devidamente demonstrada sua imprescindibilidade para a preservação da ordem pública, a garantia da regularidade da instrução criminal ou a asseguração da eficácia da aplicação da lei penal, nos termos do art. 312 do CPP.
+O decreto prisional foi assim fundamentado (fls. 25-27):
+ ..
+Os elementos constantes dos autos indicam, com razoável segurança, o envolvimento do investigado no crime em apuração, cuja natureza é revestida de significativa gravidade. Os indícios apontados, ainda em sede de cognição sumária, demonstram a plausibilidade da medida excepcional adotada. Mas isso não é tudo. Os fatos apontados são extremamente graves, na medida em que o suspeito tentou matar Cado por motivo fútil e com emprego de recurso em dificultou a defesa da vítima, mediante golpe de faca, somente não se consumando seu intento homicida por circunstâncias alheias a sua vontade.
+Ademais, há fundado receio que o investigado comprometa a colheita de provas, sobretudo diante de sua conduta após o fato, notadamente a fuga do local e a situação de foragido até o cumprimento do mandato.
+Tais circunstâncias não apenas reforçam a necessidade da custódia como também sinalizam o risco concreto de evasão e de interferência indevida na instrução.
+Nesse cenário, a custódia cautelar revela-se medida necessária na espécie, sendo imprescindível para garantir a ordem pública, haja vista a gravidade concreta da conduta praticada pelo acusado. Também imperiosa para a regularidade da instrução criminal e para a futura aplicação da lei penal, nos termos do art. 312 do CPP, até mesmo diante do seu modus operandi.
+Ante todo o exposto,  ..  CONVERTO A PRISÃO TEMPORÁRIA DE JULIO CESAR GABRIEL PAULANI em PRISÃO PREVENTIVA, para a garantia da ordem pública, por conveniência da instrução criminal e adequada aplicação da lei penal. Expeça-se o competente mandado de prisão.
+ ..
+Como se vê, a prisão preventiva foi decretada com base em decisão fundamentada, para garantir a ordem pública, tendo em vista a extrema gravidade concreta da conduta evidenciada pelo modus operandi consubstanciado em golpes de faca contra a vítima, que só não veio a óbito por ter conseguido se esconder debaixo de um carro, ou seja, por circunstâncias alheias a sua vontade.
+A fuga do recorrente após o fato e a situação de foragido até o cumprimento do mandato prisional trazem receio de risco de evasão e interferência indevida na instrução, sendo a prisão também imperiosa para regularidade da instrução criminal e aplicação da lei penal.
+Com efeito, esta Corte Superior possui orientação no sentido de que a gravidade concreta do delito imputado e a periculosidade do agente, evidenciadas no modus operandi empregado, são circunstâncias aptas a justificar a prisão preventiva para a garantia da ordem pública. Nesse entendimento:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIO DUPLAMENTE QUALIFICADO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. PERICULOSIDADE DO AGENTE. GRAVIDADE CONCRETA. RÉU QUE SE MANTEVE FORAGIDO DURANTE VÁRIOS ANOS. SEGREGAÇÃO DEVIDAMENTE JUSTIFICADA PARA A GARANTIA DA ORDEM PÚBLICA E APLICAÇÃO DA LEI PENAL. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. RECURSO NÃO PROVIDO.
+ ..
+4. Esta Corte possui jurisprudência consolidada no sentido de que "a gravidade concreta da conduta, reveladora do potencial elevado grau de periculosidade do Agente e consubstanciada na alta reprovabilidade do modus operandi empregado na empreitada delitiva, é fundamento idôneo a lastrear a prisão preventiva, com o intuito de preservar a ordem pública". (AgRg no HC n. 687.840/MS, Rel. Ministra Laurita Vaz, Sexta Turma, julgado em 13/12/2022, DJe 19/12/2022).
+ ..
+9. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 939.735/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 30/10/2024, DJe de 5/11/2024.)
+Igualmente, a fuga do distrito da culpa configura justificativa válida para a manutenção da medida extrema, " n esse sentido, "Esta Corte Superior possui entendimento consolidado acerca da manutenção da custódia preventiva diante da periculosidade do acusado, evidenciada pela fuga no momento da abordagem, demonstrando total desinteresse na aplicação da lei penal" (HC n. 512.663/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 6/8/2019, DJe 13/8/2019)" (AgRg no HC n. 822.136/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 30/5/2023, DJe de 5/6/2023).
+Por fim, em relação à inimputabilidade do recorrente, extrai-se do acórdão que, até o momento, não foi juntado aos autos laudo médico pericial, embora o recorrente alegue ser portador de transtornos mentais, como esquizofrenia (CID-10 F20.0) e transtorno afetivo bipolar.
+Neste sentido, consignou-se que a revogação da prisão preventiva para a imediata submissão a tratamento ambulatorial ou prisão domiciliar, baseada apenas na suspeita de inimputabilidade e antes da perícia, seria prematura, especialmente diante da gravidade concreta da conduta praticada.
+Ademais, a questão da inimputabilidade do acusado demanda revolvimento fático probatório, o que é vedado na via estreita do writ, em razão do seu rito célere e desprovido de dilação probatória.
+Nesse sentido:
+HABEAS CORPUS . ROUBO CIRCUNSTANCIADO (ARTIGO 157, § 2º, INCISO II, DO CÓDIGO PENAL). PRETENDIDA CONVERSÃO DO JULGAMENTO EM DILIGÊNCIA. MAGISTRADO DE ORIGEM QUE TERIA DEIXADO DE APRECIAR PEDIDO DA DEFESA PARA QUE FOSSEM ANEXADOS AOS AUTOS DOCUMENTOS REPUTADOS INDISPENSÁVEIS PARA A REALIZAÇÃO DO INCIDENTE DE INSANIDADE MENTAL DO RÉU. LAUDO PERICIAL QUE TERIA SIDO JUNTADO AOS AUTOS NA FASE DE ALEGAÇÕES FINAIS. ALEGADA OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA. AUSÊNCIA DE DOCUMENTAÇÃO COMPROBATÓRIA DA SUPOSTA MÁCULA. NECESSIDADE DE PROVA PRÉ-CONSTITUÍDA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+ .. .
+1. A alegada inimputabilidade do réu, o que ensejaria a pretendida absolvição, é questão que demanda aprofundada análise de provas, providência vedada na via estreita do remédio constitucional, em razão do seu rito célere e desprovido de dilação probatória.
+2. No processo penal brasileiro vigora o princípio do livre convencimento, em que o julgador, desde que de forma fundamentada, pode decidir pela condenação, não cabendo na angusta via do habeas corpus o exame aprofundado de prova no intuito de reanalisar as razões e motivos pelos quais as instâncias anteriores formaram convicção pela prolação de decisão repressiva em desfavor do paciente.
+3. Ordem denegada. (HC 175994/RJ, Relator Ministro JORGE MUSSI, Quinta Turma, Data do Julgamento 02/10/2012, DJe 09/10/2012)
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
