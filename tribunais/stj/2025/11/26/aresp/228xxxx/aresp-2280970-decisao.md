@@ -1,0 +1,59 @@
+DECISÃO
+Cuida-se de agravo interposto por BANCO DA AMAZONIA S.A. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO AMAZONAS cuja ementa guarda os seguintes termos (fl. 119):
+"EMENTA: APELAÇÃO CÍVEL. PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CÉDULA DE CRÉDITO BANCÁRIO. AUSÊNCIA DE CITAÇÃO. PRESCRIÇÃO DA PRETENSÃO EXECUTIVA. PARTE EXECUTADA NÃO LOCALIZADA. DEMORA NÃO IMPUTÁVEL AO JUDICIÁRIO. PROCESSO EXTINTO COM RESOLUÇÃO DO MÉRITO. SENTENÇA CONFIRMADA. RECURSO NÃO PROVIDO.
+- Comprovado o transcurso do prazo de mais de 3 (três) anos desde o vencimento da obrigação - lapso para o ajuizamento da execução com base em cédula de crédito bancário -, sem que houvesse a citação válida da parte Executada, não podendo a demora, no caso, ser imputada aos mecanismos do poder judiciário, deve ser mantido o reconhecimento da prescrição da pretensão executiva no caso concreto, por falta imputável ao ora Apelante, que não adotou, no prazo oportuno, meios para que o ato de citação fosse realizado, na forma estipulada pelo regramento processual civil.
+- Recurso conhecido e não provido. "
+Rejeitados os embargos de declaração opostos (fls. 178-181).
+No recurso especial, o recorrente alega que o acórdão contrariou a Súmula n. 106/STJ e as disposições contidas nos artigos 10, 485, III e § 1º, e 487, parágrafo único, do Código de Processo Civil.
+Sustenta, em síntese, que não houve abandono da causa nem inércia capaz de justificar a extinção do processo, pois sempre adotou todas as providências necessárias para o regular andamento do feito, sendo a demora na citação exclusivamente imputável ao próprio Poder Judiciário.
+Aduz, ainda, violação do art. 10 do CPC, ao argumento de que foi surpreendido com sentença de extinção sem prévia intimação para manifestação, caracterizando decisão surpresa, embora a legislação determine que prescrição, decadência ou abandono da causa somente podem ser reconhecidos após oportunizado o contraditório.
+Aponta divergência jurisprudencial com arestos de outros tribunais e desta Corte.
+Sem contrarrazões ao recurso especial (fl. 216).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 224-226), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo (fl. 396).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+- Da violação da Súmula n. 106/STJ. Súmula n. 518/STJ. Súmula n. 7/STJ
+De início, não comporta conhecimento alegações de afronta ou negativa de
+vigência a súmula, visto não se enquadrar no conceito de lei federal para interposição de recurso especial.
+A título exemplificativo:
+2. Não é possível a abertura da instância especial por suposta violação a súmulas, por não se enquadrarem no conceito de lei federal, previsto no art. 105, III, "a", da Constituição Federal.
+(AgInt no AREsp n. 2.325.850/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 18/8/2023.)
+Ressalte, inclusive, que a reiterada jurisprudência do STJ quanto ao descabimento de recurso especial fundado em alegada violação de verbete sumular conduziu à formulação do enunciado n. 518/STJ: "Para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula".
+Ademais, ainda que ultrapassado o referido óbice, o Tribunal de origem concluiu que a prescrição se consumou porquanto a citação não foi efetivada por culpa exclusiva da exequente, ora recorrente, afastando a aplicação da Súmula n. 106/STJ, já que não houve demora imputável ao Judiciário.
+É o que se extrai dos seguintes trechos (fls. 121-124):
+"Estabelecida a premissa aplicável ao caso em apreço, pela análise dos autos é evidente que a parte Autora/Apelante não promoveu a citação da parte Ré no prazo prescrito pela Lei Processual Civil, nem tampouco propiciou elementos para que a tornasse possível, ao contrário do que é alegado em suas razões recursais.
+A propósito, conquanto tivesse o feito executivo sido ajuizado dentro do prazo trienal (20/02/2015) e a decisão que ordenou a citação ter sido exarada em 09/04/2015 (fl. 52), verifica-se que a prescrição não foi interrompida, vez que a citação não restou efetivada, sobretudo, por desídia exclusiva do Autor, que não obteve sucesso na localização dos Executados - situação esta que perdura até os dias atuais -, sobrevindo a prescrição.
+Veja-se que a parte Apelante alega, também, que a procrastinação na realização da citação do devedor deve ser atribuída à máquina judiciária.
+Da análise dos autos, no entanto, é possível evidenciar que a morosidade na citação ocorreu por desídia da parte Exequente em promover a formalização do ato, especialmente quando já transcorridos vários anos, após decorrer o prazo prescricional, sem que a citação tenha sido levada a efeito, em face da não localização dos Executados, não se podendo considerar os procedimentos realizados pela Parte Autora como diligências úteis, daí advindo a caracterização de inércia que conduz ao reconhecimento da prescrição.
+Nesse contexto, vale reiterar a assertiva contida no despacho (fl. 66), a qual perfilho, na qual o Magistrado a quo lembrava que "o dever de fornecer o endereço é do autor da demanda, conforme a legislação pertinente".
+ ..
+Dessa forma, não há falar em morosidade do mecanismo do judiciário e, em consequência, em aplicação do enunciado sumular n. 106 do STJ, se a demora na citação se configurou justamente pela dificuldade do autor em encontrar os devedores.
+Nessa esteira, merece destaque os fundamentos da sentença de embargos de declaração (fls. 104-105), os quais encampo:
+"(..) ao contrário do que afirma o embargante, não se aplica ao caso a Súmula nº 106 do STJ, pois a demora na citação não decorreu por "motivos inerentes ao mecanismo da Justiça", nem é "imputável exclusivamente ao serviço judiciário", vez que todos os pedidos formulados pelo exequente foram deferidos (art. 240, § 3º, do CPC)."
+Em que pese as tentativas de localização pela ora Apelante, a busca pelo endereço dos executados, ora Apelados, ultrapassa a razoabilidade, não se mostrando cabível que se movimente o sistema judiciário por vários anos para a simples localização da parte. Ademais, a demora na realização da citação é imputável exclusivamente à parte autora, de modo a se afastar a interrupção da prescrição prevista no art. 240, §1.º, do CPC e o respectivo efeito retroativo."
+Assim, alterar o decidido no acórdão recorrido no que se refere à atribuição de responsabilidade pela demora na citação exige o reexame de fatos e provas, procedimento que é vedado pelo óbice contido na Súmula n. 7/STJ.
+Nesse sentido, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CONTRATO PARTICULAR DE CONFISSÃO DE DÍVIDA. PRESCRIÇÃO MATERIAL RECONHECIDA DE OFÍCIO PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE CITAÇÃO. NÃO INTERRUPÇÃO DO PRAZO PRESCRICIONAL. CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE SUPERIOR. INÉRCIA. MATÉRIA DE PROVA. SÚMULA 7/STJ. AUSÊNCIA DE SIMILITUDE FÁTICA. RECURSO NÃO PROVIDO.
+1. "É consequência inarredável das normas de regência que não há interrupção da prescrição (i) se a citação ocorre depois da implementação do prazo prescricional, salvo demora imputável à administração judiciária (§ 3.º do art. 240 do CPC/2015); ou, mesmo antes, (ii) se a citação não obedece a forma da lei processual" (EAREsp 1.294.919/PR, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 05/12/2018, DJe de 13/12/2018)" (AgInt no AREsp 455.146/RN, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 24/08/2020, DJe de 15/09/2020).
+2. Concluindo o Tribunal de origem pela falha exclusiva do exequente e inexistência de demora inerente ao Poder Judiciário, a modificação desse entendimento exige o reexame de matéria fática, inviável em sede de recurso especial (Súmula 7/STJ).
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.731.734/PR, relator Ministro Raul Araújo, Quarta Turma, julgado em 9/8/2021, DJe de 31/8/2021.)
+- Da violação dos artigos 10, 485, III e § 1º, e 487, parágrafo único, do Código de Processo Civil. Súmula n. 7/STJ.
+Com efeito, o Tribunal de origem, ao negar provimento à apelação, com base no amplo exame dos fatos e das provas acostadas aos autos, consignou que não houve decisão surpresa, pois o recorrente foi previamente intimado e se manifestou sobre a prescrição, de modo que a extinção do feito observou o contraditório e a ampla defesa, in verbis (fl. 124):
+"Por fim, extrai-se da leitura da peça recursal, ao versar acerca da necessidade de intimação prévia e pessoal (arts. 487, parágrafo único, e 485, II, e III, § 1º, ambos do CPC) e quanto à vedação à decisão surpresa (art. 10, do CPC), o Apelante fundamenta suas razões no sentido de que não foi dada ao Banco a oportunidade de se manifestar sobre a extinção do feito em decorrência da prescrição. Entretanto, tal premissa encontra-se equivocada, porquanto após o despacho (fls. 72-73) que tratou justamente do princípio da não-surpresa, a parte foi intimada e, de fato, se manifestou quanto à respectiva tese levantada (fls. 74-77), razão por que também não merecem prosperar tais matérias recursais.
+Por estas razões, uma vez não perfectibilizada a citação válida durante o prazo prescricional do título, o despacho que a determina resta desprovido de eficácia interruptiva, de modo que a prescrição, que não teve seu fluxo afetado, consumou-se durante o desenvolvimento da relação processual."
+Confira-se, ainda, excerto do acórdão que julgou os embargos de declaração (fl. 180):
+"Em segundo lugar, no que toca à decisão surpresa, o Embargante aduz omissão quanto ao fato de que a sentença de extinção foi proferida sem intimação prévia da Recorrente, porquanto foi feita bem anteriormente, não servindo de subsídio para, futuramente, sem prévia intimação, ser utilizada para fins de extinção.
+De plano, constato que tal alegativa não corresponde com a realidade, considerando que houve, de fato, a intimação do Embargante, o qual se manifestou acerca da tese de prescrição levantada (fls. 72-73 e 74-77), conforme, inclusive, foi ventilado no acórdão embargado.
+Ademais, o fato do Embargante vislumbrar ter sido a intimação realizada "bem anteriormente" à sentença, não infirma sua utilização para fins de extinção, como equivocadamente sustenta, sendo despiciendo nova intimação para tratar da mesma matéria.
+Com efeito, além de não explicar sequer o motivo pelo qual entende que não serviria de subsídio a intimação anteriormente realizada - o que de per si torna insubsistente tal assertiva -, há que se ressaltar que, no lapso temporal que dista entre a manifestação da parte e a sentença, acima citadas, não houve nenhuma movimentação de relevo capaz de justificar eventual perda de eficácia do despacho para evitar a decisão surpresa. "
+Dessa forma, a revisão da conclusão adotada pelo Tribunal de origem quanto à inexistência de decisão surpresa e à efetiva intimação prévia do recorrente, demandaria o reexame de fatos e provas, procedimento que é vedado pelo óbice contido na Súmula n. 7/STJ.
+- Da divergência jurisprudencial
+A incidência da Súmula n. 7 do STJ quanto à interposição pela alínea "a " do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+- Honorários recursais
+Deixo de condenar em honorários recursais em razão da ausência de fixação da verba na origem (EDcl no AgInt no REsp n. 1.910.509/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe de 4/11/2021).
+Publique-se. Intime-se.
+ EMENTA
