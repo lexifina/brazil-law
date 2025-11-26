@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pela RAIZEN ENERGIA S.A. contra decisão de minha lavra, proferida às e-STJ fls. 1.105/1.111, em que: conheci do recurso especial da FAZENDA NACIONAL e dei-lhe provimento para denegar a segurança; e, com base no art. 253, parágrafo único, II, "a" e "b", do RISTJ, conheci do agravo de RAIZEN ENERGIA S.A. INCORPORADOR DO RAÍZEN ARARAQUARA AÇÚCAR E ÁLCOOL LTDA. para conhecer parcialmente do recurso especial e, nessa extensão, neguei-lhe provimento.
+A embargante sustenta nulidade absoluta da decisão monocrática e dos atos processuais a partir da interposição dos recursos especial e extraordinário da União, por ausência de intimação para apresentação de contrarrazões, em violação do art. 1.030 do CPC e dos princípios do contraditório, ampla defesa e isonomia.
+No mérito, aponta omissão quanto aos requisitos de admissibilidade do recurso especial fazendário, afirmando óbice da Súmula 283 do STF, porque o acórdão recorrido se assentou em fundamentos constitucionais autônomos não abrangidos pelo apelo especial, além da inadequação da via eleita para debater matéria constitucional.
+Alega, ainda, omissão quanto ao distinguishing entre o Tema 1.048 do STF e a contribuição da agroindústria prevista no art. 22-A da Lei n. 8.212/1991, defendendo a aplicação da ratio do Tema 69 do STF para excluir o ICMS da base de cálculo da CPRB.
+Passo a decidir.
+Os embargos de declaração têm por escopo sanar decisão judicial em que haja obscuridade, contradição, omissão ou erro material. Ainda, excepcionalmente, podem ser atribuídos efeitos modificativos ao recurso integrativo.
+Na hipótese, de fato, verifica-se que a empresa embargante não foi intimada para apresentar contrarrazões quando da interposição do recurso especial e DO recurso extraordinário pela Fazenda Nacional.
+Conforme o entendimento desta Corte Superior, a intimação do recorrido para a apresentação de contrarrazões corresponde à observância do princípio do contraditório, de modo que, apenas na hipótese de desprovimento da insurgência, por inexistir situação de prejuízo à parte não ouvida, há que se reconhecer a validade da decisão proferida sem a realização daquela providência.
+Essa orientação foi até mesmo estabelecida no julgamento dos Temas 376 e 377, que possuem o seguinte teor:
+A intimação da parte agravada para resposta é procedimento natural de preservação do princípio do contraditório, nos termos do art. 527, V, do CPC. (..) A dispensa do referido ato processual ocorre tão-somente quando o relator nega seguimento ao agravo (art. 527, I), uma vez que essa decisão beneficia o agravado, razão pela qual conclui-se que a intimação para a apresentação de contrarrazões é condição de validade da decisão que causa prejuízo ao recorrente.
+Nesse sentido, cito ainda:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. PRODUÇÃO ANTECIPADA DE PROVAS. APELAÇÃO PROVIDA SEM PRÉVIA CITAÇÃO DO RÉU PARA CONTRARRAZÕES. VIOLAÇÃO AO CONTRADITÓRIO. RETORNO DOS AUTOS PARA REGULAR CITAÇÃO. DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que negou provimento a recurso.
+II. Questão em discussão
+2. É pacífica a jurisprudência desta Corte no sentido de que "a intimação da parte agravada para resposta é procedimento natural de preservação do princípio do contraditório  .. . A dispensa do referido ato processual ocorre tão-somente quando o relator nega seguimento ao agravo (art. 527, I), uma vez que essa decisão beneficia o agravado" (REsp n. 1.148.296/SP, relator Ministro Luiz Fux, Corte Especial, julgado em 1/9/2010, DJe de 28/9/2010).
+III. Dispositivo
+3. Agravo interno desprovido.
+(AgInt no REsp 1979222/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 17/3/2025, DJEN de 25/3/2025).
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 1973. APLICABILIDADE. EMBARGOS DE DIVERGÊNCIA PROVIDOS. ART. 557, § 1º-A, DO CPC. INTIMIÇÃO DO AGRAVO PARA APRESENTAR RESPOSTA. NECESSIDADE. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 1973.
+II - A Corte Especial, no julgamento do REsp 1.148.296/SP, submetido ao regime previsto no art. 543-C do Código de Processo Civil, firmou o entendimento no sentido de que, no caso de aplicação do art. 557, § 1º-A, do mesmo diploma, é indispensável a prévia intimação do agravado para apresentar resposta ao agravo de instrumento.
+III - O Agravante não apresenta, no regimental, argumentos suficientes para desconstituir a decisão agravada.
+IV - Agravo Regimental improvido.
+(AgRg nos EREsp 819562/SP, relatora Ministra Regina Helena Costa, Primeira Seção, julgado em 22/2/2018, DJe de 28/2/2018).
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. AUSÊNCIA DE INTIMAÇÃO DO AGRAVADO PARA RESPOSTA. OBRIGATORIEDADE. NULIDADE. TEMA JULGADO EM RECURSO REPRESENTATIVO DE CONTROVÉRSIA.
+1. A intimação da parte agravada para resposta é procedimento natural de preservação do princípio do contraditório, nos termos do art. 527, V, do CPC.
+2. A dispensa do referido ato processual ocorre tão somente quando o relator nega seguimento ao agravo (art. 527, I), uma vez que essa decisão beneficia a agravada, razão pela qual se conclui que a intimação para apresentar contrarrazões é condição de validade da decisão que causa prejuízo aos recorrentes. Precedente: Recurso Especial Representativo de Controvérsia: REsp 1.148.296/SP, Rel. Ministro Luiz Fux, Corte Especial, julgado em 1º.9.2010, DJe 28.9.2010
+3. Embora a parte tenha se insurgido contra orientação firmada sob o regime do art. 543-C do CPC, deixo de aplicar multa de 10% sobre o valor da causa, conforme o art. 557, § 2º, do mesmo diploma legal, uma vez que ocorreu a inversão da sucumbência, no âmbito do STJ.
+4. Agravo Regimental não provido.
+(AgRg no REsp 1506408/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 19/3/2015, DJe de 6/4/2015).
+PROCESSUAL CIVIL - AGRAVO DE INSTRUMENTO - DECISÃO DE PROVIMENTO LIMINAR PELO RELATOR COM BASE NO ART. 557, § 1º-A, DO CPC - AUSÊNCIA DE INTIMAÇÃO DA PARTE AGRAVADA PARA RESPOSTA - VIOLAÇÃO AO PRINCÍPIO DO CONTRADITÓRIO.
+1. Embargos de divergência opostos pelo ESTADO DO RIO GRANDE DO SUL contra acórdão proferido pela Primeira Turma desta Corte, com objetivo de uniformizar a jurisprudência da Primeira Seção no tocante à necessidade ou não de intimação do recorrido como condição de validade da decisão monocrática do relator que dá provimento a agravo de instrumento.
+2. "A intimação do recorrido para apresentar contra-razões é o procedimento natural de preservação do princípio do contraditório, previsto em qualquer recurso, inclusive no de agravo de instrumento (CPC, art. 527, V). Justifica-se a sua dispensa quando o relator nega seguimento ao agravo (art. 527, I), já que a decisão vem em benefício do agravado. Todavia, a intimação para a resposta é condição de validade da decisão monocrática que vem em prejuízo do agravado, ou seja, quando o relator acolhe o recurso, dando-lhe provimento (art. 557, § 1º-A). Nem a urgência justifica a sua falta: para situações urgentes há meios específicos e mais apropriados, de "atribuir efeito suspensivo ao recurso (art. 558), ou deferir, em antecipação da tutela, total ou parcialmente, a pretensão recursal" (CPC, art. 525, III). " (EREsp 1038844, Rel. Min. Teori Albino Zavascki, Primeira Turma, DJ 20.10.2008).
+Embargos de divergência providos.
+(EREsp 882119/RS, relator Ministro Humberto Martins, Primeira Seção, julgado em 13/5/2009, DJe de 25/5/2009).
+Desse modo, deve ser aberto prazo pra RAIZEN ENERGIA S.A., RAIZEN ARARAQUARA AÇÚCAR E Á LCOOL LTDA. apresentar suas contrarrazões aos recursos especial de e-STJ fls. 679/692 e extraordinário de e-STJ fls. 653/677, interpostos pela Fazenda Nacional.
+Fica prejudicada a análise das irresignações remanescentes, inclusive do recurso especial da FAZENDA NACIONAL.
+Ante o exposto, ACOLHO os embargos de declaração, com a atribuição do excepcional efeito modificativo, para anular a decisão de e-STJ fls. 1.105/1.111 e determinar a intimação de RAIZEN ENERGIA S.A., RAIZEN ARARAQUARA AÇÚCAR E ÁLCOOL LTDA., a fim de lhe abrir prazo para apresentar contrarrazões ao recurso especial e ao recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
