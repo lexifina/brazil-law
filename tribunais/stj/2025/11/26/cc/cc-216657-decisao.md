@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de conflito negativo de competência entre o JUÍZO DE DIREITO DA 1ª VARA CÍVEL DE SANTA BÁRBARA D"OESTE/SP, ora suscitante, e o JUÍZO DA VARA DO TRABALHO DE SANTA BÁRBARA D"OESTE/SP, ora suscitado.
+O conflito de competência diz respeito à impetração de mandado de segurança no qual se apontou, como autoridade coatora, o Procurador de Justiça do Estado de São Paulo, objetivando que se abstenha de "praticar qualquer ato que possa vir a reduzir, alterar ou cessar o pagamento do adicional recebido em decorrência do serviço adicional de fiscalização de trânsito, em faze dos ora associados" (e-STJ fl. 19).
+Inicialmente, o writ foi impetrado perante o Juízo laboral que declinou da competência para a Justiça comum (e-STJ fls. 8/10) que, por sua vez, suscitou o presente conflito negativo de competência (e-STJ fls. 5/6).
+O MPF ofereceu parecer entendendo que a competência para o julgamento do presente mandado de segurança seria da Justiça Estadual (e-STJ fls. 25/29).
+Passo a decidir.
+Nos termos do art. 34, XXII, do Regimento Interno do Superior Tribunal de Justiça, o relator poderá "decidir o conflito de competência quando for inadmissível, prejudicado ou quando se conformar com tese fixada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento firmado em incidente de assunção de competência, a súmula do Superior Tribunal de Justiça ou do Supremo Tribunal Federal, a jurisprudência dominante acerca do tema ou as confrontar".
+Esta Corte firmou o entendimento de que a competência para o processamento e o julgamento do mandado de segurança é estabelecida em razão da função ou da categoria funcional da autoridade indicada como coatora, sendo certo que a matéria tratada na impetração, a natureza do ato impugnado ou a pessoa do impetrante são dados irrelevantes.
+Nesse sentido:
+AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. MANDADO DE SEGURANÇA IMPETRADO POR SERVIDOR PÚBLICO TEMPORÁRIO CONTRA ATO DE SECRETÁRIO ESTADUAL. COMPETÊNCIA DA JUSTIÇA COMUM.
+1. A competência para o processo e julgamento do mandado de segurança é estabelecida pelo critério ratione auctoritatis, sendo irrelevante a matéria tratada na impetração, a natureza do ato impugnado ou a pessoa do impetrante.
+2. Proposta a ação mandamental por servidor público contratado nos termos do art. 37, IX, da CF, contra ato do Secretário da Saúde do Estado de São Paulo, ao propósito de discutir suposto direito líquido e certo ao recebimento de licença-prêmio, firmada está a competência da Justiça Comum Estadual para o deslinde da causa. 3. A Justiça Laboral, com a nova redação dada pela Emenda Constitucional 45/2004 ao inc. IV do art. 114 da Constituição Federal, é competente para o julgamento dos mandados de segurança que tratem tão somente de matéria sujeita à sua jurisdição, o que não é o caso dos autos.
+4. Agravo regimental a que se nega provimento. (AgRg CC 132.156/SP, Rel. Min. OG FERNANDES, Primeira Seção, DJe de 3/9/2014.)
+PROCESSO CIVIL. CONFLITO DE COMPETÊNCIA. MANDADO DE SEGURANÇA IMPETRADO CONTRA DIRIGENTE DE SUBSIDIÁRIA DE SOCIEDADE DE ECONOMIA MISTA FEDERAL. COMPETÊNCIA DA JUSTIÇA FEDERAL.
+1. Esta Corte firmou entendimento segundo o qual o critério para se estabelecer a competência para o julgamento do mandado de segurança é definido em razão da função ou da categoria funcional da autoridade indicada como coatora (ratione auctoritatis). Nessa senda, mostra-se despicienda a matéria versada na impetração, a natureza do ato impugnado ou a pessoa do impetrante.
+2. No caso, figura no polo passivo do mandamus a sociedade anônima Liquigás, subsidiaria direta da Petrobras (sociedade de economia mista federal), que, em tese, exerce função federal delegada, porquanto suas atribuições decorrem e são, em princípio, controladas diretamente pelo poder estatal ao qual estão vinculadas. Precedentes.
+3. Conflito conhecido para declarar competente a Justiça Federal.
+(CC n. 150.945/SP, relator Ministro Og Fernandes, Primeira Seção, julgado em 13/9/2017, DJe de 20/9/2017, sem destaque no original.)
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. MANDADO DE SEGURANÇA CONTRA ATO DE PRESIDENTE DE AUTARQUIA FEDERAL.  .. . CONFLITO DE COMPETÊNCIA CONHECIDO PARA DECLARAR A COMPETÊNCIA DO JUÍZO FEDERAL SUSCITADO. AGRAVO INTERNO DO INEP DESPROVIDO.
+1. A competência para conhecer e processar Mandado de Segurança encontra-se expressamente delimitada na CF/1988, e é aferida a partir da categoria funcional da autoridade apontada como coatora; assim, no conflito entre Justiça Estadual e Federal, ela é absoluta quando se tratar de writ impetrado contra Autoridade Federal, ou no exercício de delegação federal.
+ ..
+4. Agravo Interno do INEP desprovido. (AgInt CC 150.371/DF, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, Primeira Seção, DJe de 9/6/2020).
+No presente caso, em se tratando de mandado de segurança impetrado contra ato atribuído ao Procurador de Justiça do Estado de São Paulo, é certo a competência da Justiça Estadual para processar e julgar o feito.
+Ante o exposto, nos termos do art. 34, XXII, do RISTJ, CONHEÇO DO CONFLITO para declarar a competência do JUÍZO DE DIREITO DA 1ª VARA CÍVEL DE SANTA BÁRBARA D"OESTE/SP, ora suscitante.
+Publique-se. Intimem-se.
+EMENTA
