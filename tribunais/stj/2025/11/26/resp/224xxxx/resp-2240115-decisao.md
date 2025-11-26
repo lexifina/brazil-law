@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS, com fundamento na alínea "a" do permissivo constitucional, no qual se insurge contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim ementado (fls. 1.59 8-1.626):
+"APELAÇÃO CRIMINAL - JÚRI - HOMICÍDIO QUALIFICADO - DECISÃO MANIFESTAMENTE CONTRÁRIA À PROVA DOS AUTOS - INOCORRÊNCIA - CONDENAÇÃO MANTIDA - CIRCUNSTÂNCIAS JUDICIAIS - CULPABILIDADE - ANÁLISE EQUIVOCADA - CONSEQUÊNCIAS DO CRIME DESFAVORÁVEIS - PENAS-BASE REDUÇÃO - NECESSIDADE - CIRCUNSTÂNCIAS AGRAVANTES NA SEGUNDA FASE DA DOSIMETRIA DAS PENAS - CRITÉRIO DE AUMENTO".
+Os embargos de declaração foram rejeitados.
+Em suas razões recursais, a parte recorrente aponta violação dos arts. 3º, 315, § 2º, II e VI, e 619 do CPP; 61, I e II, "e" e "f", do CP; e 1.022, II, do CPC. Aduz para tanto, em síntese, que: (I) o acórdão recorrido conteria omissão quanto aos argumentos do Parquet, além de estar fundamentado de maneira deficiente; e (II) cada agravante deveria elevar a pena-base na fração de 1/6, cumulativamente, na segunda etapa da dosimetria da pena.
+Sem contrarrazões, o recurso especial foi admitido na origem (fls. 1.673-1.675).
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo provimento do recurso (fls. 1.688-1.693).
+É o relatório.
+Decido.
+Inicialmente, não vislumbro ofensa aos arts. 315 e 619 do CPP, tampouco ao art. 1.022 do CPC, pois o Tribunal de origem se pronunciou sobre todos os aspectos relevantes para a definição da causa. Ressalte-se que o julgador não é obrigado a rebater, um a um, todos os argumentos das partes, bastando que resolva a situação que lhe é apresentada sem se omitir sobre os fatores capazes de influir no resultado do julgamento.
+O acerto ou desacerto do desfecho a que chegou o Tribunal local é matéria que diz respeito ao mérito da causa, mas não ao cabimento dos aclaratórios ou à existência de fundamentação decisória. A parte recorrente pode, é claro, discordar da solução encontrada pelo aresto impugnado, mas isso não significa que careça ele da devida fundamentação. A propósito:
+"RECURSOS ESPECIAIS. PENAL E PROCESSUAL PENAL. CRIME CONTRA A ADMINISTRAÇÃO AMBIENTAL. NULIDADE LAUDO TÉCNICO. PROVA ILÍCITA. FISCALIZAÇÃO AMBIENTAL. POSSIBILIDADE. CERCEAMENTO DE DEFESA. INDEFERIMENTO DE PRODUÇÃO DE PROVA PERICIAL. FUNDAMENTOS IDÔNEOS. POLICIAIS TESTEMUNHAS DE ACUSAÇÃO. POSSIBILIDADE. AUSÊNCIA DE PREJUÍZO. SUSPENSÃO DO PROCESSO. INDEPENDÊNCIA ENTRE ESFERAS. DESNECESSIDADE. VIOLAÇÃO DO ART. 619 DO CPP. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 69-A, CAPUT E § 1º, DA LEI N. 9.605/1998. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO. SÚMULA 83/STJ.
+ ..
+5. Não há violação do art. 619 do CPP, pois o Tribunal de origem enfrentou, de forma fundamentada, as irresignações recursais, adotando, contudo, solução jurídica contrária aos interesses da recorrente, não havendo falar, assim, em negativa de prestação jurisdicional. Precedentes.
+ ..
+9. Recursos especiais parcialmente conhecidos e, nessa extensão, desprovidos".
+(REsp n. 1.947.718/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 3/9/2024, DJe de 6/9/2024.)
+" ..
+5. Não há falar de violação ao art. 619 do CPP, pois não houve omissão do aresto objurgado quanto à pena do crime de lavagem de capitais, senão decisão contrária ao interesse do recorrente, que não configura negativa de prestação jurisdicional.
+6. Agravo regimental desprovido".
+(AgRg no AREsp n. 2.392.558/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 6/8/2024, DJe de 9/8/2024.)
+A respeito da dosimetria da reprimenda, vale anotar que sua individualização é uma atividade vinculada a parâmetros abstratamente cominados na lei, sendo, contudo, permitido ao julgador atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, às Cortes Superiores é possível, apenas, o controle da legalidade e da constitucionalidade na dosimetria.
+O simples fato de o recorrente discordar da pena final imposta na origem, entendendo cabível montante superior, não é suficiente para viabilizar o conhecimento do recurso especial, para o que seria necessária a demonstração específica de uma ilicitude cometida pelo Tribunal local no procedimento dosimétrico, o que não foi feito no recurso especial.
+Nesse contexto, não sendo o caso de manifesta ilegalidade ou arbitrariedade, é inadmissível às Cortes Superiores a revisão dos critérios adotados na dosimetria da pena. Outrossim, para infirmar a conclusão do Tribunal estadual seria necessário revolver o contexto fático-probatório dos autos, providência vedada na via especial, conforme o teor da Súmula 7/STJ. A propósito:
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO. PRETENSÃO ACUSATÓRIA DE AUMENTAR O QUANTUM DE ELEVAÇÃO DA PENA POR CADA CIRCUNSTÂNCIA NEGATIVA. INEXISTÊNCIA DE ILEGALIDADE FLAGRANTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. A dosimetria da pena é uma atividade vinculada a parâmetros abstratamente cominados na lei, sendo, contudo, permitido ao julgador atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, às Cortes Superiores é possível, apenas, o controle da legalidade e da constitucionalidade na dosimetria.
+2. Não sendo o caso de manifesta ilegalidade ou arbitrariedade, é inadmissível às Cortes Superiores a revisão do quantum de exasperação atribuído na origem a cada circunstância desfavorável ao réu.
+3. Agravo regimental desprovido".
+(AgRg no AREsp n. 1.968.026/GO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 22/3/2022, DJe de 25/3/2022.)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO TRIPLAMENTE QUALIFICADO, FURTO E OCULTAÇÃO DE CADÁVER. DOSIMETRIA. PENA-BASE. VALORAÇÃO NEGATIVA DA CULPABILIDADE, CIRCUNSTÂNCIAS E CONSEQUÊNCIAS DO CRIME. ELEMENTOS QUE EXTRAPOLAM O TIPO PENAL. FUNDAMENTAÇÃO IDÔNEA. AUSÊNCIA DE ILEGALIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Esta Corte tem entendido que a dosimetria da pena só pode ser reexaminada em recurso especial quando se verificar, de plano, a ocorrência de erro ou ilegalidade, o que não se constata na hipótese em que o Tribunal de origem destacou fundamentação idônea para a valoração negativa das circunstâncias judiciais relativas à culpabilidade, circunstâncias e consequências do crime, destacando fundamentos que não integram o tipo penal.
+2. Inexistente erro ou ilegalidade na dosimetria da pena aplicada ao agravante, a desconstituição do entendimento firmado pelas instâncias ordinárias que, diante das peculiaridades do caso concreto, destacaram fundamentação idônea para majorar a pena-base do recorrente, incide à espécie o enunciado n. 7 da Súmula/STJ, verbis: "A pretensão de simples reexame de prova não enseja recurso especial".
+3. Agravo regimental desprovido".
+(AgRg no AREsp n. 1.598.714/SE, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 23/6/2020, DJe de 29/6/2020.)
+Ante o exposto, com fundamento no art. 255, § 4º, I e II, do Regimento Interno do STJ, conheço em parte do recurso especial e, nesta extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
+ EMENTA
