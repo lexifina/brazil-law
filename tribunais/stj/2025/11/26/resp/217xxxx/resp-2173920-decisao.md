@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DO PARANÁ contra acórdão proferido pelo TJPR assim ementado:
+AGRAVO DE INSTRUMENTO. DIREITO PREVIDENCIÁRIO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA CONTRA A FAZENDA PÚBLICA. PRESCRIÇÃO DA PRETENSÃO EXECUTIVA. INOCORRÊNCIA. PEDIDO DE SUSPENSÃO DO FEITO FORMULADO PELO PRÓPRIO DEVEDOR PARA FINS DE COMPOSIÇÃO AMIGÁVEL. FATO QUE REFREOU O IMPLEMENTO DA PRESCRIÇÃO NO CASO CONCRETO. INCIDÊNCIA DO PRINCÍPIO DA CONFIANÇA E DA ESPECIALIDADE. APLICAÇÃO DA LEI Nº 13.140/15. JURISPRUDÊNCIA DO COLEGIADO. EFICÁCIA HORIZONTAL DOS. PRECEDENTES. APLICAÇÃO DO PRINCÍPIO DA ISONOMIA: CASOS IGUAIS MERECEM SOLUÇÕES IGUAIS. DEVER DE RESPEITO AOS POSTULADOS DE ESTABILIDADE, COERÊNCIA E INTEGRIDADE DA JURISPRUDÊNCIA. (ART.926, CPC). DECISÃO MANTIDA. RECURSO DESPROVIDO.
+Os embargos de declaração foram rejeitados.
+A parte recorrente alega violação dos arts. 10, 489, § 1º, IV e VI, 523, 524, §§ 3º e 5º, 534, 927, III, e 1.022, II, do CPC, dos arts. 197 a 202 do Código Civil, do art. 1º do Decreto n. 20.910/1932 e do art. 34 da Lei n. 13.140/2015.
+Alega a nulidade do acórdão recorrido, ao argumento de que não foram sanados os vícios de integração suscitados nos embargos de declaração.
+Quanto ao mérito, sustenta que, iniciado o prazo da prescrição da pretensão executória com o trânsito em julgado da sentença coletiva, a execução individual só veio a ter início após o decurso do prazo prescricional, não havendo como se afastar a tese firmada no Tema 880 do STJ ou incluir a controvérsia no âmbito da modulação de efeitos desta decisão.
+Defende que os prazos prescricionais das obrigações de fazer e das obrigações de pagar são independentes e que a interrupção do primeiro não impede o decurso do segundo, de modo que o início do cumprimento de sentença coletiva pelo sindicato em desfavor do ESTADO, na parte relativa à obrigação de dar, não interferiu no prazo prescricional para a propositura das execuções individuais de obrigação de pagar presentes na sentença coletiva.
+Afirma, também, "o entendimento de que o caso atraiu a incidência da Lei de Mediação (Lei n. 13.140/2015) não resiste à constatação de que não houve a instauração de procedimento judicial ou extrajudicial formal de mediação".
+Apresentadas as contrarrazões, o Tribunal de origem admitiu o recurso especial, determinando a subida dos autos.
+Passo a decidir.
+O apelo nobre se origina de agravo de instrumento interposto pelo ESTADO contra decisão em cumprimento individual de sentença coletiva que indeferiu a impugnação do ente federado, afastando a alegação de prescrição da pretensão executória.
+O Tribunal paranaense, apesar de reconhecer a existência da orientação jurisprudencial firmada pela sistemática dos recursos repetitivos (Tema 880 do STJ), afirmou não ser possível a sua aplicação ao caso concreto em face de peculiaridade verificadas nos autos.
+Consignou que, transitada em julgado a sentença coletiva e iniciada a execução individual, não seria possível o reconhecimento da prescrição. Sustentou, quanto a isso, os seguintes fundamentos:
+(i) a impossibilidade de decurso do prazo prescricional enquanto pendente procedimento de autocomposição instaurado no âmbito do processo judicial, atraindo a aplicação do art. 34 da Lei n. 13.140/2015;
+(ii) a proteção da boa-fé e da confiança legítima a ensejar efeito suspensivo da prescrição às determinações de suspensão da ação de execução pelo legitimado extraordinário da sentença coletiva.
+Opostos embargos de declaração, foram eles rejeitados.
+Pois bem.
+De início, cumpre registrar que a jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que não incorre em negativa de prestação jurisdicional o acórdão que, mesmo sem ter examinado individualmente cada um dos argumentos trazidos pelo vencido, adota fundamentação suficiente para decidir de modo integral a controvérsia, apenas não acolhendo a tese defendida pelo recorrente.
+Da análise do julgado recorrido, verifica-se que o Tribunal de origem se manifestou, de maneira clara e fundamentada, acerca de todas as questões relevantes para a solução da controvérsia.
+Como relatado, fundamentou a sua conclusão pela ausência de decurso do prazo prescricional em razão de diversas hipóteses de suspensão decorrentes dos atos praticados durante o curso da execução pelo legitimado extraordinário da sentença coletiva, seja em razão da determinação da Lei n. 13.140/2015 no seu art. 34, seja em razão dos atos praticados pela executada não poderem ser desconsiderados sem a desvalorização da confiança legítima a garantir os interesses dos exequentes.
+Dessa forma, inexiste vício de integração no acórdão a ensejar violação do art. 1.022 do CPC/2015.
+Como descrito acima, a Corte a quo consignou que, transitada em julgado a sentença coletiva e iniciada a execução individual, não seria possível o reconhecimento da prescrição.
+Sustentou, quanto a isso, dois fundamentos autônomos e capazes de, sozinhos, dar sustentação à conclusão pela inexistência de prescrição:
+(i) a impossibilidade de decurso do prazo prescricional enquanto pendente procedimento de autocomposição instaurado no âmbito do processo judicial, atraindo a aplicação do art. 34 da Lei n. 13.140/2015;
+(ii) a proteção da boa-fé e da confiança legítima a ensejar efeito suspensivo da prescrição às determinações de suspensão da ação de execução pelo legitimado extraordinário da sentença coletiva.
+O recurso especial, no entanto, deixou de rebater alguns desses fundamentos.
+Apesar de ter defendido a independência entre os prazos prescricionais das obrigações de fazer e de pagar, de ter afirmado não se verificar a interrupção ou suspensão do prazo prescricional pelo início do cumprimento de sentença coletiva pelo sindicato e de ter defendido que a suspensão decorrente do art. 34 da Lei n. 13.140/2015 demanda rito especial em processo administrativo de autocomposição, esses fundamentos não são suficientes para infirmar as demais razões de decidir do Tribunal de origem postas no acórdão recorrido, notadamente o referente à proteção da boa-fé objetiva, o que atrai a aplicação do óbice das Súmulas 283 e 284 do STF ao caso concreto.
+Ante o exposto, com base no art. 255, § 4º, I e II, do RISTJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa parte, NEGO-LHE PROVIMENTO.
+Publique-se. intimem-se.
+EMENTA
