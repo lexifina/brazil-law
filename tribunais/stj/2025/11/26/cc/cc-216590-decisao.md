@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de conflito negativo de competência entre o Juízo de Direito da 3ª Vara Criminal de Araçatuba-SP, suscitante, e o Juízo Federal da 8ª Vara Criminal de São Paulo - SJ/SP, suscitado.
+Os autos tratam da definição da competência para processar persecução penal.
+Consta dos autos que foi instaurado inquérito policial para apurar, em tese, o crime de perseguição previsto no artigo 147-A do Código Penal, ocorrido a partir de maio de 2022. Nesse procedimento, figura como vítima o Delegado de Polícia Carlos Henrique Cotait e como investigado Patrick César da Silva Brito. Conforme a portaria inaugural, após a atuação do Delegado em inquérito anterior que apurava o crime de extorsão, o investigado Patrick passou a persegui-lo de forma reiterada e permanente, em momentos distintos, enviando mensagens de ameaças e ofensas, além de conversas fabricadas de WhatsApp, perturbando a tranquilidade da vítima, de seus familiares e colegas. A conduta praticada pelo suspeito foi tipificada no art. 147-A do Código Penal.
+O Juízo de Direito da 3ª Vara Criminal de Araçatuba-SP, acolhendo manifestação do Ministério Público do Estado de São Paulo, declinou da competência.
+O Juízo Federal da 8ª Vara Criminal de São Paulo - SJ/SP declinou da competência para o Juízo de Direito da 3ª Vara Criminal da Comarca de Araçatuba - SP. A decisão fundamentou-se no entendimento de que, embora existam indícios de elementos de internacionalidade, o caso não configura hipótese de competência da Justiça Federal, pois o crime investigado não está previsto em tratado internacional que imponha ao país o compromisso de reprimi-lo.
+Em seguida, o Juízo de Direito da 3ª Vara Criminal de Araçatuba-SP suscitou conflito de competência. Alegou que há elementos suficientes e seguros para demonstrar a natureza transnacional do delito, pois o investigado estava em território estrangeiro (Sérvia) quando enviou as mensagens de ameaças, cujos efeitos ocorreram em território nacional (Brasil).
+Nesta instância, o Ministério Público Federal manifestou-se pelo conhecimento do conflito, para declarar competente o Juízo de Direito da 3ª Vara Criminal de Araçatuba-SP, suscitante.
+É o relatório.
+Decido.
+Cumpre registrar, inicialmente, que este conflito negativo de competência deve ser conhecido, porquanto se trata de incidente estabelecido entre juízes vinculados a tribunais diversos, nos termos do art. 105, inciso I, alínea d, da Constituição da República, razão pela qual passo ao seu exame.
+Segundo a jurisprudência consolidada nesta Corte, a definição da competência da Justiça Federal não se dá apenas pelo fato de a conduta criminosa ultrapassar as fronteiras nacionais, na hipótese em que o delito é perpetrado por meio da internet. É necessário, também, que o Brasil tenha firmado convenção ou tratado internacional que estabeleça o compromisso específico de combater criminalmente esse tipo de infração.
+In casu, embora o delito tenha sido cometido em ambiente virtual, o cri me previsto no art. 147-A do Código Penal não está entre os crimes tipificados pela Convenção de Budapeste, a qual o Brasil é signatário.
+Diante da ausência de previsão específica para o crime de perseguição, não se configura o compromisso internacional necessário para atrair a competência da Justiça Federal, devendo o caso ser julgado pela Justiça Estadual.
+Confiram-se as seguintes decisões monocráticas: CC n. 214.218, Ministro Joel Ilan Paciornik, DJEN de 05/08/2025; CC n. 213.810, Ministro Joel Ilan Paciornik, DJEN de 05/08/2025;CC n. 207.190, Ministro Sebastião Reis Júnior, DJe de 13/09/2024.
+Ante o exposto, conheço do conflito para declarar a competência do Juízo de Direito da 3ª Vara Criminal de Araçatuba-SP, suscitante.
+Comunique-se. Publique-se.
+Cientifique-se o Ministério Público Federal e, oportunamente, encaminhem-se os autos ao Juízo competente.
+EMENTA
