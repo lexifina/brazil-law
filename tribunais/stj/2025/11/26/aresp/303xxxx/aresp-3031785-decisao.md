@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo contra a decisão que inadmitiu o recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL, com fundamento na alínea "a" do permissivo constitucional, em oposição a acórdão proferido pelo respectivo Tribunal de Justiça, assim ementado:
+"RECURSO EM SENTIDO ESTRITO. TRÁFICO DE DROGAS. INSURGÊNCIA MINISTERIAL. PRISÃO EM FLAGRANTE HOMOLOGADA. CONCEDIDA A LIBERDADE PROVISÓRIA.
+PERICULUM LIBERTATIS NÃO CONFIGURADO. AGENTE PRIMÁRIO, CUJO DELITO OBJETO DA AÇÃO PENAL NÃO ENVOLVE VIOLÊNCIA OU GRAVE AMEAÇA CONTRA A PESSOA. PRECEDENTES. DECISÃO MANTIDA.
+RECURSO DESPROVIDO." (e-STJ, fl. 40)
+No recurso especial inadmitido, o recorrente aponta violação ao art. 312, caput, do Código de Processo Penal e pleiteia a reforma do acórdão para reconhecer a presença do periculum libertatis, afirmando que a significativa quantidade e variedade de drogas apreendidas, somadas à apreensão de balança de precisão, evidenciam a participação do recorrido em organização criminosa e a necessidade da prisão preventiva (e-STJ, fls. 69-75).
+Sustenta, em sequência, que as condições subjetivas favoráveis do recorrido não afastam a segregação cautelar, porquanto a periculosidade estaria demonstrada pelos elementos concretos do caso, impondo a decretação da prisão para garantia da ordem pública (e-STJ, fls. 75-78).
+Ao final, requer o provimento do recurso especial para decretar a prisão preventiva do recorrido (e-STJ, fls. 78).
+O recurso especial foi inadmitido na origem (e-STJ, fls. 93-95), ao que se seguiu a interposição do presente agravo (e-STJ, fls. 96).
+Remetidos os autos a esta Corte Superior, o Ministério Público Federal manifestou-se pelo desprovimento do agravo (e-STJ, fls. 135-138).
+É o relatório.
+Decido.
+O agravo impugna adequadamente os fundamentos da decisão agravada, devendo ser conhecido. Passo, portanto, ao exame do recurso especial propriamente dito.
+Inicialmente, vale lembrar que a prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, desde que presentes prova da existência do crime e indícios suficientes de autoria e de perigo gerado pelo estado de liberdade do imputado.
+Ao deliberar sobre a custódia cautelar do acusado, o Tribunal de origem concluiu que:
+"Entendo, contudo, que não comporta reforma o decisum, uma vez que, diferente do alegado pelo Parquet, ausentes os pressupostos legais previstos na lei penal adjetiva, in verbis:
+ ..
+Trata-se de agente primário (4.1), o qual não possui sequer ocorrências policiais pretéritas. O delito, em tese, praticado, não envolve violência ou grave ameaça. Somado a isso, não foi apreendida arma de fogo ou quaisquer materiais bélicos, que, por ventura, implicasse a necessidade de acautelamento da ordem pública.
+Para a caracterização do periculum libertatis, nesse caso, seria necessário outros elementos que não se encerrem na mera apreensão de quantidade razoável de drogas, questão que se confunde com a própria tipicidade do ilícito.
+Nesse sentido, precedentes que apontam quantidades de drogas até superiores a da casuística, em que se entendeu pela ausência do requisito previsto no art. 312 do CPP ou, mesmo, pela desproporcionalidade da prisão preventiva:
+ ..
+Com a vênia do entendimento do órgão ministerial, sua preocupação em relação à gravidade do delito e a gravidade das circunstâncias de seu cometimento se confundem com aquelas do legislador ao criar o próprio tipo penal, lembrando que o recorrido já respondem à ação penal visando à sua responsabilização pela conduta apurada.
+Eventual juízo acerca da gravidade do fato não se confunde com a evidência de periculum libertatis pela garantia da ordem pública; a gravidade do fato é matéria cristalizada na capitulação do delito e nos juízos a tal respeito realizados no curso do processo (sumário e exauriente, sendo o caso), que dizem com a viabilidade e a aplicação futura de maior reprimenda consonante com o fato e suas circunstâncias.
+A gravidade do fato, singularizada na imputação e na prova ainda a ser angariada, em suma, não se trata de questão que passará ignorada, será levada em consideração no momento oportuno; a decretação de segregação cautelar, por sua vez, nada tem a ver com tal circunstância.
+Com efeito, o entendimento do eg. STJ é no sentido da insuficiência, para a decretação da prisão, de menção à mera gravidade em abstrato do delito ou à comoção social gerada pelo fato e à necessidade se dar uma resposta à criminalidade:  .. " (fls. 37-38, destaquei)
+Como se vê, o Tribunal de origem, soberano na análise da matéria fática, destacou não estarem preenchidos os requisitos autorizadores da custódia cautelar, e concluiu que a adoção de medidas cautelares diversas da prisão seriam suficientes no caso em apreço. Com efeito, para se desconstituir o entendimento construído pela Corte Estadual e acolher a tese de que estariam preenchidos os requisitos necessários a viabilizar a prisão preventiva, seria necessário revolvimento de todo o conjunto fático-probatório para apreciar as peculiaridades do caso concreto. Tal medida, como se sabe, é inviável em sede de recurso especial, o que atrai a incidência da Súmula 7/STJ.
+A propósito:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PROCESSUAL PENAL. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. REVOGAÇÃO PELO TRIBUNAL DE ORIGEM. DESNECESSIDADE DA PRISÃO. SUFICIÊNCIA DAS MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. REVISÃO DO JULGAMENTO. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não obstante a gravidade concreta da conduta, na qual houve a apreensão de significativa quantidade de drogas, a Corte de origem analisou integralmente o quadro fático e, considerando a primariedade do Recorrido e as demais circunstâncias pessoas favoráveis, compreendeu que seria suficiente para acautelar a ordem pública, no caso concreto, a adoção de medidas cautelares diversas da prisão.
+2. Constatada, pelo Tribunal de origem, a desnecessidade da prisão preventiva ante a suficiência da aplicação de medidas cautelares diversas, a alteração do resultado do julgamento exigiria reexame fático-probatório, o que não é possível no recurso especial, conforme se extrai da Súmula n. 7/STJ.
+3. Agravo regimental desprovido".
+(AgRg no REsp n. 1.967.698/RS, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 8/2/2022, DJe de 15/2/2022.)
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS E PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. PRISÃO PREVENTIVA. DECRETAÇÃO. AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A prisão preventiva é uma medida excepcional, de natureza cautelar, que autoriza o Estado, observadas as balizas legais e demonstrada a absoluta necessidade, a restringir a liberdade do cidadão antes de eventual condenação com trânsito em julgado (art. 5º, LXI, LXV, LXVI e art. 93, IX, da CF).
+2. Para a privação desse direito fundamental da pessoa humana, é indispensável a demonstração da existência da prova da materialidade do crime, da presença de indícios suficientes da autoria e do perigo gerado pelo estado de liberdade do imputado, bem como a ocorrência de um ou mais pressupostos do artigo 312 do CPP.
+3. No presente caso, verifica-se que a Corte de origem determinou a revogação da prisão preventiva, ante a ausência de fundamentação idônea para a demonstração da necessidade da garantia da ordem pública. Assim, acolher o pedido da acusação no sentido de se decretar a prisão preventiva do acusado, exigiria, invariavelmente, a análise dos requisitos elencados nos artigos. 312 e 313 do CPP, a demandar revolvimento do acervo fático-probatório delineado nos autos, providência que não encontra espaço em recurso especial, em razão da vedação da Súmula n. 7/STJ.
+4. Agravo r egimental não provido".
+(AgRg no AREsp n. 1.846.479/PI, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/12/2021, DJe de 13/12/2021.)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "b", do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
