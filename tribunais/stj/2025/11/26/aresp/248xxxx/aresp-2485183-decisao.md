@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que não admitiu o recurso especial pelo qual RUMO MALHA SUL S.A se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado (fl. 114):
+ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. AGRAVO INTERNO. REINTEGRAÇÃO DE POSSE. FERROVIA. PROVA DOCUMENTAL DA FAIXA DE DOMÍNIO DE FERROVIA E ESTUDO TÉCNICO DE RISCO. SUSPENSÃO TEMPORÁRIA DO FEITO. PORTARIA CONJUNTA Nº 08/2022. COMPARTILHAMENTO DE RESPONSABILIDADES DE APRESENTAÇÃO DE RELATÓRIOS.
+1. A suspensão se deu com fulcro em recomendação deste Tribunal, por interpretação da Portaria Conjunta n. 08/2022, do Corregedor Regional da Justiça Federal da 4ª Região e da Coordenadora do Sistema de Conciliação deste Tribunal, que aconselhou a suspensão dos processos de reintegração de posse concernentes a ocupações da faixa de domínio da Ferrovia Malha Sul, enquanto não instruídos com prova documental da faixa de domínio e estudo técnico de risco.
+2. Hipótese em que não se encontram presentes as exclusões constantes do § 2º do art. 1º da referida Portaria, eis que não se trata de hipótese em que reste configurado grave risco ao meio ambiente, à saúde ou à segurança das pessoas ou ao serviço de transporte ferroviário, demonstrado por laudo técnico, também não se tratando de ocupação nova ou não consolidada, ou que envolva a realização direta do direito constitucional à moradia.
+3. Por analogia ao disposto no art. 313, § 4º, do CPC, aplica-se a suspensão do processo por 1 ano, após o que caberá ao juízo verificar se ainda persiste a hipótese de suspensão do processo, prevista na Portaria Conjunta nº 08/2022.
+4. A obrigação de apresentação de relatórios e informações sobre os imóveis objeto de invasões é solidária entre a Concessionária e a ANTT, devendo haver o compartilhamento de responsabilidades, nos termos da Portaria Conjunta n 08/2022.
+Não foram opostos embargos de declaração.
+Nas razões de seu recurso especial, a parte recorrente alega violação dos arts. 71 do Decreto-Lei 9.760/1946, 8º, I e II, da Lei 11.483/2007, 98 e 99, I, do Código Civil e 3º e 29, I, da Lei 8.987/1995.
+Sustenta que a suspensão do processo por um ano, determinada pelo Tribunal de origem, mantém e prolonga o esbulho possessório em bem público federal destinado à operação ferroviária, contrariando o dever legal de proteção, de fiscalização e de garantia da continuidade e da segurança do serviço público.
+Afirma que, sendo o imóvel área pública operacional da União, cuja invasão já teria sido comprovada nos autos, a suspensão viola normas que asseguram a tutela imediata do patrimônio público e o exercício de suas atribuições legais, além de gerar riscos à segurança dos ocupantes e da operação ferroviária e prejuízos econômicos relevantes.
+Argumenta, ainda, que a Portaria Conjunta 8/2022 do Tribunal Regional Federal da 4ª Região possui caráter apenas recomendatório e não pode se sobrepor ao regime jurídico dos bens públicos nem impedir a reintegração possessória já devidamente instruída.
+Requer o provimento do recurso especial.
+A parte adversa não apresentou contrarrazões (fl. 142).
+O recurso não foi admitido, razão pela qual foi interposto o agravo em recurso especial ora em análise.
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+Trata-se de agravo de instrumento interposto de decisão que suspendeu o trâmite da ação de reintegração/manutenção de posse relativa à ocupação da faixa de domínio da Ferrovia Malha Sul, com fundamento na Portaria Conjunta 8/2022 do Tribunal Regional Federal da 4ª Região, condicionando o prosseguimento à apresentação de prova documental da faixa de domínio e estudo técnico de risco.
+O Tribunal de origem, ao julgar o agravo interno em agravo de instrumento, deu provimento ao recurso, conheceu do agravo de instrumento e a ele deu parcial provimento para suspender o processo pelo prazo de um ano, por analogia ao art. 313, § 4º, do Código de Processo Civil (CPC), mantendo a orientação de suspensão enquanto não houvesse prova documental da faixa de domínio e estudo técnico de risco.
+Da leitura dos autos, constata-se que a parte recorrente, em seu recurso especial, visa a impugnar acórdão proferido em agravo de instrumento, recurso esse interposto em razão de decisão interlocutória por meio da qual o Juízo de primeiro grau indeferiu o requerimento de antecipação da tutela final.
+Não é possível conhecer do recurso quanto ao ponto em razão da natureza precária da decisão impugnada.
+Incide no presente caso, por analogia, o óbice da Súmula 735 do Supremo Tribunal Federal (STF).
+Nessa mesma linha se pronunciou a Primeira Turma deste Tribunal:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO CONTRA DECISÃO INTERLOCUTÓRIA QUE INDEFERIU A TUTELA DE URGÊNCIA. DISCUSSÃO QUE NECESSARIAMENTE ALCANÇA O DEBATE DA QUESTÃO MERITÓRIA DOS AUTOS. INCIDÊNCIA DA SÚMULA 735/STF. PROVIMENTO NEGADO.
+1. Nos termos da Súmula 735 do Supremo Tribunal Federal, "não cabe recurso extraordinário contra acórdão que defere medida liminar", orientação que se estende às decisões que apreciam pedido de antecipação de tutela, aplicando-se, por analogia, ao recurso especial.
+2. A análise realizada em liminar ou antecipatória de tutela, na mera aferição dos requisitos de perigo da demora e de relevância jurídica, ou de verossimilhança e fundado receio de dano, respectivamente, não acarreta, por si só, o esgotamento das instâncias ordinárias, requisito indispensável à inauguração da instância especial conforme a previsão constitucional.
+3. Este Tribunal Superior admite o afastamento do enunciado sumular em questão nas hipóteses em que a concessão, ou não, da medida liminar e o deferimento, ou não, da antecipação de tutela caracterizar ofensa direta à lei federal que regulamenta esses institutos, desde que se revele prescindível a interpretação das normas que dizem respeito ao mérito da causa, o que não é o caso dos autos.
+4. O presente caso trata do efetivo debate acerca da interpretação dos arts. 44 e 61, § 3º, da Lei 9.430/1996, o que evidencia a incidência do óbice da Súmula 735/STF, uma vez que, enquanto não advier sentença de mérito, não se consideram exauridas as instâncias ordinárias.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.894.762/PE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 18/9/2023, DJe de 20/9/2023.)
+E mesmo se assim não fosse, os arts. 71 do Decreto-Lei 9.760/1946, 8º, I e II da Lei 11.483/2007, 98 e 99, I, do Código Civil e 3º e 29, I, da Lei 8.987/1995 não foram apreciados pelo Tribunal de origem, e não foram opostos embargos de declaração com o objetivo de sanar eventual omissão da questão de direito controvertida.
+A falta de enfrentamento no acórdão recorrido da matéria objeto do recurso impede o acesso à instância especial por não ter sido preenchido o requisito constitucional do prequestionamento.
+Incidem no presente caso, por analogia, as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
