@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de recurso especial interposto por ESTADO DO TOCANTINS com fundamento no art. 105, III, da Constituição Federal.
+Na origem, a Fazenda Pública ajuizou execução fiscal, visando à cobrança de crédito tributário de empresa contribuinte. Deu-se, à causa, o valor de R$ 841.123,99 (oitocentos e quarenta e um mil cento e vinte e três reais e noventa e nove centavos).
+O sócio-administrador apresentou exceção de pré-executividade, na qual alegou sua ilegitimidade passiva. O juízo da execução fiscal acolheu a tese, extinguindo o feito, sem resolução de mérito, em relação ao referido sócio.
+O agravo de instrumento interposto pela Fazenda Pública foi não conhecido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS. O referido acórdão foi assim ementado, in verbis:
+DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ- EXECUTIVIDADE. ILEGITIMIDADE PASSIVA DO SÓCIO- ADMINISTRADOR. INOVAÇÃO RECURSAL. NÃO CONHECIMENTO.
+I. CASO EM EXAME
+1. Trata-se de Agravo de Instrumento interposto pelo Estado do Tocantins contra decisão do Juízo da 1ª Vara Cível de Porto Nacional/TO, que acolheu a Exceção de Pré-Executividade apresentada por sócio da empresa executada, reconhecendo sua ilegitimidade passiva ad causam e julgando extinta a execução  scal em relação a ele, sem resolução de mérito, com fundamento no artigo 485, inciso VIII, do Código de Processo Civil (CPC). A Fazenda Pública Estadual foi condenada ao pagamento de honorários advocatícios nos percentuais mínimos estabelecidos no artigo 85, § 3º, incisos I e II, do CPC.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) de nir se a certidão do O cial de Justiça, que constatou a inatividade da empresa no seu domicílio  scal, seria su ciente para caracterizar dissolução irregular e autorizar o redirecionamento da execução  scal ao sócio- administrador; e (ii) averiguar se a tese sustentada pelo Estado do Tocantins no agravo caracteriza inovação recursal, impedindo sua análise em segundo grau.
+III. RAZÕES DE DECIDIR
+3. O agravo de instrumento tem caráter secundum eventum litis, sendo limitada sua apreciação ao exame do acerto ou desacerto da decisão agravada, sem análise de questões não discutidas na
+instância inferior, sob pena de supressão de instância e violação ao princípio do duplo grau de jurisdição.
+4. Nos autos da Exceção de Pré-Executividade, a ilegitimidade passiva do sócio foi reconhecida com base na ausência de noti cação no processo administrativo, o que comprometeu a validade da Certidão da Dívida Ativa (CDA). Não houve sustentação da tese de dissolução irregular da empresa para fundamentar o redirecionamento da execução.
+5. O Estado do Tocantins, ao interpor o agravo, inovou recursalmente ao apresentar, pela primeira vez, o argumento de que a dissolução irregular da empresa legitimaria a inclusão do sócio no polo passivo da execução. Tal alegação não foi suscitada na impugnação à Exceção de Pré-Executividade nem apreciada na decisão agravada.
+6. A inovação recursal impede a análise da tese pelo Tribunal, conforme entendimento consolidado nos tribunais superiores, sendo vedado o conhecimento de matéria nova em sede de agravo de instrumento, salvo em hipóteses excepcionais, não veri cadas no caso concreto.
+IV. DISPOSITIVO E TESE 7. Agravo de Instrumento não conhecido. Tese de julgamento:
+1. Con gura inovação recursal a apresentação, em agravo de instrumento, de fundamento não suscitado na instância originária, inviabilizando sua análise pelo Tribunal, sob pena de supressão de instância.
+2. A caracterização de dissolução irregular da empresa como fundamento para o redirecionamento da execução  scal ao sócio- administrador deve ser arguida e apreciada no juízo de primeiro grau, não podendo ser introduzida apenas em sede recursal.
+Não foram opostos embargos de declaração.
+O ESTADO DO TOCANTINS alega violação do art. 1.015, parágrafo único, sustentando, em síntese, que o agravo de instrumento deve ser conhecido quando a decisão interlocutória versar sobre exclusão ou inclusão de partes no processo e que não houve inovação recursal, pois a tese de dissolução irregular decorre de fato já constante dos autos, sendo mera qualificação jurídica de fato preexistente.
+Adiante, aponta violação do art. 135, III, do Código Tributário Nacional (CTN), argumentando, em suma, que a dissolução irregular configura infração à lei e autoriza o redirecionamento da execução fiscal ao sócio-administrador, independentemente de sua participação no processo administrativo. Acrescenta que a certidão do Oficial de Justiça que atesta a não localização da empresa no domicílio fiscal é suficiente para presumir dissolução irregular e legitimar o redirecionamento da execução ao sócio-gerente.
+Por fim, suscita dissídio jurisprudencial.
+Contrarrazões apresentadas às fl. 57-71.
+Parecer do Ministério Público Federal às fls. 85-88 pelo não conhecimento do recurso.
+É o relatório. Decido.
+O Superior Tribunal de Justiça tem entendido pela impossibilidade, em sede de agravo de instrumento, de análise de questão que não foi apreciada pelo juízo de origem, a qual não pode ser objeto de deliberação pela instância ad quem, sob pena de supressão de instância e ofensa ao duplo grau de jurisdição.
+Confiram-se os julgados:
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. ASIA MOTORS DO BRASIL. REDIRECIONAMENTO CONTRA A ACIONISTA KIA MOTORS INCORPORATION, SUCESSORA DE ASIA MOTORS CORPORATION INCORPORATION. DISSOLUÇÃO IRREGULAR SUPERVENIENTE À CITAÇÃO DA DEVEDORA ORIGINAL. FUNDAMENTOS RELACIONADOS À DEMONSTRAÇÃO DA RESPONSABILIDADE TRIBUTÁRIA. VIOLAÇÃO DOS ARTS. 458 E 535 DO CPC/1973. ARGUMENTAÇÃO GENÉRICA. INOVAÇÃO RECURSAL. SÚMULA 284/STF. AGRAVO DE INSTRUMENTO INTERPOSTO DIRETAMENTE NO TRIBUNAL A QUO, CONTRA A AUTORIZAÇÃO PARA REDIRECIONAMENTO. SUPRESSÃO DE INSTÂNCIA. VIOLAÇÃO DO ART. 16 DA LEI 6.830/1980 CONFIGURADA.
+(..)
+23. Repita-se que não se discute que a decisão que autoriza o redirecionamento é interlocutória e, portanto, pode ser atacada por Agravo de Instrumento. Não é esse o tema em debate.
+24. O que se discute é se a parte prejudicada pela decisão pode banalizar a hierarquia judicial, saltando as instâncias para submeter suas razões diretamente ao Tribunal competente, sem jamais ter provocado o juízo a quo (supressão de instância). Esse tratamento é flagrantemente desigual, pois somente uma das partes teria esse poder de submeter suas razões diretamente ao Tribunal.
+25. A rejeição dessa tese, acrescenta-se, implica abertura de precedente perigosíssimo, viabilizando tumulto insuperável na tramitação de Recursos nas Cortes de origem. Por analogia, em Ação de Conhecimento pelo rito ordinário, a parte demandada poderia se insurgir contra a ordem de citação por meio de Agravo de Instrumento, para defender diretamente no Sodalício local suposta ilegitimidade passiva ou até mesmo a improcedência do pedido (por prescrição), sem jamais ter deduzido suas razões no juízo de primeiro grau.
+26. Tal prática não deve ser tolerada pela jurisprudência, inexistindo justificativa apta a, mesmo em caráter de exceção, admitir o bypass inadmissível utilizado pela KIA Motors Corporation. FUNDAMENTO DE INVERSÃO DO ÔNUS DE PROVA. NORMAS DE RESPONSABILIDADE TRIBUTÁRIA E EMPRESARIAL. APLICABILIDADE,
+CONSOANTE A LEI DE EXECUÇÕES FISCAIS
+27. Com o provimento do Recurso em relação à tese de violação do art. 16 da Lei 6.830/1980, fica prejudicada a análise dos demais temas veiculados no apelo nobre.
+CONCLUSÃO
+28. Recurso Especial parcialmente conhecido, apenas em relação à tese de violação do art. 16 da LEF, e, nesse ponto, provido.
+(REsp n. 1.428.953/BA, relator Ministro Og Fernandes, relator para acórdão Ministro Herman Benjamin, Segunda Turma, julgado em 6/6/2023, DJe de 30/6/2023.) (Grifos não constam no original)
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. IMPOSSIBILIDADE DE O TRIBUNAL ANALISAR QUESTÃO AINDA NÃO APRECIADA PELO JUÍZO NATURAL. SUPRESSÃO DE INSTÂNCIA. INOVAÇÃO RECURSAL. DESCABIMENTO. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. No caso, verifica-se que o entendimento esposado pelo Tribunal de origem, no julgamento do agravo de instrumento, está em consonância com a pacífica jurisprudência do Superior Tribunal de Justiça assente no sentido da impossibilidade de análise de questão que ainda não foi apreciada pelo juízo de origem, a qual não pode ser objeto de deliberação pela instância ad quem, sob pena de supressão de instância e ofensa ao duplo grau de jurisdição. Súmula 83/STJ.
+2. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp n. 1.692.724/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 2/9/2024, DJe de 13/9/2024.) (Grifos não constam no original)
+No caso, verifica-se que a irresignação do recorrente acerca de que não houve inovação recursal e que a dissolução irregular da empresa já constava nos autos, vai de encontro às convicções do julgador a quo, que, com lastro no conjunto probatório constante dos autos, decidiu que o Estado "inovou recursalmente ao apresentar, pela primeira vez, o argumento de que a dissolução irregular da empresa legitimaria a inclusão do sócio no polo passivo da execução".
+Dessa forma, para rever tal posição e interpretar os dispositivos legais indicados como violados, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+Quanto ao art. 135 do CTN apontado como violado, verifica-se que a matéria constante de tal regramento não foi ventilada no acórdão recorrido, o que impede o exame das teses do recorrente, pela falta do devido prequestionamento, incidindo o teor da Súmula n. 282/STF.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
