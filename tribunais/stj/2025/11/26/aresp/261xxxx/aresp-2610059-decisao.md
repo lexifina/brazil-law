@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual VIDA EM GRAOS COMERCIO E INDUSTRIA DE PRODUTOS ALIMENTICIOS, IMPORTACAO E EXPORTACAO LTDA se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 76):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. CITAÇÃO POSTAL. Carta entregue no endereço apontado na CDA como da residência do contribuinte. Aviso de recebimento assinado por terceiro. Citação válida. Inteligência do artigo 8º, incisos I e II, da Lei 6.830/80. Precedentes do Col. STJ e desta Câmara. Decisão mantida. Recurso improvido.
+Não foram opostos embargos de declaração.
+A parte recorrente alega violação do art. 238 do Código de Processo Civil (CPC), por entender que a citação realizada por carta com aviso de recebimento assinado por terceiro é nula, pois não houve ciência de sua parte sobre a existência do processo, o que tornaria inválidos os atos posteriores.
+Requer o provimento do recurso especial.
+A parte adversa apresentou contrarrazões (fls. 108/111).
+O recurso não foi admitido, razão pela qual foi interposto o agravo ora examinado.
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+Na origem, trata-se de execução fiscal ajuizada pelo ESTADO DE SÃO PAULO visando à cobrança de crédito tributário de ICMS. A controvérsia gira em torno da validade da citação postal realizada no endereço da empresa executada, VIDA EM GRÃOS COMÉRCIO E INDÚSTRIA DE PRODUTOS ALIMENTÍCIOS LTDA, especialmente quanto à sua regularidade diante da assinatura do aviso de recebimento por terceiro.
+O TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, ao analisar a validade da citação, assim decidiu (fls. 77/78):
+No caso, a citação é válida, pois a carta foi enviada ao endereço constante na CDA, não havendo necessidade que seja entregue pessoalmente ao executado, mas que seja entregue no endereço indicado, cumprindo a sua finalidade.
+De fato, na execução fiscal, a citação postal é a regra, devendo "A verificação da regularidade do procedimento citatório deve levar em conta as seguintes premissas: a) os contribuintes têm o dever de informar ao Fisco o seu domicílio, bem como eventuais alterações; b) a citação no processo de Execução Fiscal, ao contrário do que se dá no processo de conhecimento, não opera efeitos preclusivos quanto ao direito de defesa, já que o prazo dos Embargos do Executado só começa a correr a partir da penhora; e c) não se pode premiar o contribuinte que não age de forma diligente." (STJ, REsp 910.581/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 19/04/2007, DJe 04/03/2009).
+Com isso, sedimentou-se no Superior Tribunal de Justiça o entendimento de que "presume-se válida a citação postal quando encaminhada a carta citatória ao endereço do imóvel e recebido o Aviso de Recebimento, sem ressalvas, por terceiro devidamente identificado" (AREsp 1603443/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 04/02/2020, DJe 27/02/2020).
+Observo que, no presente caso, o Tribunal de origem analisou a controvérsia em consonância com o entendimento desta Corte Superior, segundo o qual, "na citação realizada via Correios com aviso de recebimento (AR) na execução fiscal, não é exigida a pessoalidade da citação, tampouco a assinatura do próprio executado no AR, sendo suficiente a comprovação inequívoca de que a correspondência foi entregue no endereço do executado" (REsp 2.174.870/MG, relator Ministro Francisco Falcão, Segunda Turma, julgado em 4/2/2025, DJEN de 10/2/2025).
+No mesmo sentido:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. CITAÇÃO POR CARTA. AVISO DE RECEBIMENTO. ENTREGA NO ENDEREÇO E RECEBIMENTO POR TERCEIROS. VALIDADE. AUSÊNCIA DE PREQUESTIONAMENTO DO ARTS. 1º, §1º, E 61 DA LEI N. 8.934/1994. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 282/STF. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. INADEQUADA AO CASO CONCRETO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regi me recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015 para o agravo interno.
+II - É pacífico o entendimento no Superior Tribunal de Justiça segundo o qual a citação postal, com aviso de recebimento, é válida se entregue no endereço correto do executado, mesmo que recebida por terceiros.
+III - É entendimento pacífico desta Corte que a ausência de enfrentamento da questão objeto da controvérsia pelo tribunal a quo impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula n. 282 do Supremo Tribunal Federal.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+(AgInt nos EDcl no REsp n. 2.035.574/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 24/4/2023, DJe de 26/4/2023.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. CITAÇÃO POR CARTA. AVISO DE RECEBIMENTO. ENTREGA NO ENDEREÇO E RECEBIMENTO POR TERCEIROS. VALIDADE. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+1. A jurisprudência do STJ consolidou-se no sentido de que a citação postal, com aviso de recebimento, é válida se entregue no endereço correto do executado, mesmo que recebida por terceiros.
+2. Caso em que, em cumprimento de sentença, a Corte local atestou ser válida a citação postal entregue no endereço correto do réu, ainda que recebida por terceiros, destacando inexistir prova de que a signatária da correspondência, à época da diligência, não integrava os quadros de funcionários ou representantes comerciais da empresa.
+3. Divergir do aresto recorrido para entender que a correspondência foi entregue em endereço diverso e recebida por pessoa que não compunha os quadros de funcionários da empresa implica reexame do acervo fático-probatório dos autos (Súmula 7 do STJ).
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 1.864.070/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 14/2/2022, DJe de 18/2/2022.)
+Ante o exposto, conheço do agravo para conhecer do recurso especial e a ele negar provimento.
+Publique-se. Intimem-se.
+EMENTA
