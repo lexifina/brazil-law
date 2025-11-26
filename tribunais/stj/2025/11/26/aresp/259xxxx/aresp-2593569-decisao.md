@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual ANILCE DE FATIMA BONFIM se insurgira, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS assim ementado (fl. 255):
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE MULTA ADMINISTRATIVA COM PEDIDO DE TUTELA DE URGÊNCIA. FATO CONSTITUTIVO DO DIREITO AUTORAL NÃO COMPROVADO. PEDIDO INICIAL IMPROCEDENTE. HONORÁRIOS RECURSAIS FIXADOS.
+1. A formalização e o registro adequado de contratos são elementos cruciais na validação de transações financeiras, especialmente aquelas entre familiares.
+2. No presente caso, a ausência de qualquer registro formal do contrato de empréstimo suscita dúvidas quanto à existência real e à efetiva natureza da avença.
+3. A falta de documentação que respalde a alegação de empréstimo enfraquece substancialmente a posição da parte autora, em conformidade com o que prescreve o inciso I, do artigo 373, do Código de Processo Civil, tornando, assim, forçosa a improcedência dos pedidos iniciais.
+4. Ante o desprovimento do recurso, devem os honorários advocatícios serem majorados, nos termos do § 11º do art. 85 do CPC.
+APELAÇÃO CÍVEL CONHECIDA E DESPROVIDA.
+A parte recorrente alega que, no acórdão recorrido, foram contrariados o art. 373, I, do Código de Processo Civil (CPC) e os arts. 74, 81 e 82 do Código Tributário estadual.
+Sustenta que não houve doação, e sim empréstimo, de maneira que não haveria fato gerador para cobrança do imposto nem para a correspondente multa.
+A parte adversa apresentou contrarrazões (fls. 288/300).
+O recurso não foi admitido, razão pela qual foi interposto o agravo ora examinado.
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+O recurso especial tem como uma de suas características a fundamentação vinculada, o que significa dizer que ele está restrito a situações em que um dispositivo legal é violado ou a ele se dá interpretação divergente.
+A consequência disso é o dever, a ser observado por todos os que se utilizam do recurso em questão, de indicar, de forma clara e direta, não apenas as normas violadas ou interpretadas de modo diferente, mas também como se deu essa violação ou como a lei deveria ser interpretada.
+No presente caso, a parte, além de indicar diversos dispositivos de legislação local cuja análise não é da competência do Superior Tribunal de Justiça (STJ), não demonstrou de que modo teria ocorrido, no acórdão impugnado, a violação aos dispositivos legais citados nas razões recursais.
+Há deficiência de fundamentação no recurso especial, motivo pelo qual incide no ponto, por analogia, a Súmula 284 do Supremo Tribunal Federal (STF), e dessa parte do recurso não é possível conhecer.
+Ademais, assim decidiu o Tribunal de origem (fls. 253/263):
+Em assim sendo, diante dos elementos apresentados nos autos, constata-se que a parte autora ingressou com a ação buscando a anulação de uma cobrança de Imposto sobre a Transmissão Causa Mortis e Doação (ITCMD), alegando um equívoco do contabilista quanto à natureza da transação realizada por sua genitora em 2009. Segundo a argumentação, o que foi classificado como uma doação seria, na realidade, um empréstimo ou mútuo.
+No entanto, ao analisar as provas disponíveis, observa-se que a requerente não conseguiu cumprir o ônus que lhe cabia, conforme estabelece o artigo 373, inciso I, do Código de Processo Civil. A ausência de evidências que comprovem a natureza do empréstimo torna desafiador para a parte autora sustentar sua alegação de que a transação em questão não se configurou como uma doação.
+ ..
+Dessarte, in casu, ao analisarmos as provas apresentadas pela Recorrente, observamos uma notória fragilidade que compromete a credibilidade da alegação. Documentos imprecisos e a ausência de elementos que respaldem a existência de uma verdadeira relação de empréstimo contribuem para a incerteza sobre a veracidade da narrativa apresentada. A robustez probatória é essencial para convencer o julgador da validade da pretensão, e, no caso em análise, a fragilidade probatória fortalece a manutenção da decisão inicial.
+Em virtude da falta de demonstração satisfatória do empréstimo, instaura-se uma incerteza que permeia a verdadeira natureza da transação. A dúvida razoável que surge diante da escassez de provas não permite a conclusão segura de que a transação foi, de fato, um empréstimo. Nesse contexto, a prudência judicial recomenda a manutenção da decisão inicial, que interpretou a transação como uma doação, respaldando-se na falta de elementos que sustentem a tese oposta.
+Portanto, incumbia à parte autora apresentar de forma adequada e convincente a evidência de que a transação em questão não se tratava de uma doação, mas sim de um contrato de empréstimo entre ascendente e descendente. Essa demonstração seria essencial para desconstituir o débito tributário estabelecido pela autuação fiscal. Contudo, diante da ausência de registro formal do contrato de empréstimo nos autos, torna-se inevitável a improcedência dos pedidos iniciais, como bem explanado pelo magistrado sentenciante.
+A Corte estadual evidenciou que, em virtude da fragilidade das provas apresentadas, não há elementos suficientes para concluir que o caso em questão é de empréstimo, o que descaracterizaria a incidência do imposto.
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ) - "a pretensão de simples reexame de prova não enseja recurso especial".
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, a ele negar provimento.
+Majoro em 10% (dez por cento), em desfavor da parte recorrente, o valor de honorários sucumbenciais já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos no § 2º desse dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
