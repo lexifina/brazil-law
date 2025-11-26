@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de pedido de uniformização de interpretação de lei apresentado por MARLUCE CATERINGER LEAL, contra a "decisão da Turma Recursal dos Juizados da Fazenda Pública que não conheceu do recurso de agravo de instrumento interposto em face da decisão de primeiro grau que julgou improcedente os cálculos do exequente, ora recorrido, e homologou os cálculos da executada, ora recorrida." (e-STJ fl. 116).
+Nas razões, diz: "a decisão da Douta Turma Recursal de Muriaé contraria o precedente qualificado do STJ - Tema Repetitivo nº 988- logo, o recurso cabível para enfrentamento da decisão é o Pedido de Uniformização de Lei. E por contrariar precedente qualificado do STJ, fixa-se a competência desta Corte para apreciar o presente pedido" (e-STJ fl. 117).
+Acrescenta: "a questão posta é se a disposição do art. 4º da Lei 12.153/09, deve ser mitigada, assim como procedido pelo STJ no Tema 988, na fase de cumprimento de sentença. Observa-se que a admissibilidade do Agravo de Instrumento na fase de cumprimento de decisão contra as decisões que não põe fim a fase de execução encontra respaldo na lógica do microsistema do Juizado da Fazenda Pública, isto porque a legislação prevê a recorribilidade das decisões cautelares ou antecipatórias, ou seja decisões que conferem o mérito em juízo rarefeito, no caso que estas impliquem em danos" (e-STJ fl. 120).
+Passo a decidir.
+Dispõem os arts. 18, §§ 1º, 2º e 3º, e 19 da Lei n. 12.153/2009:
+Art. 18. Caberá pedido de uniformização de interpretação de lei quando houver divergência entre decisões proferidas por Turmas Recursais sobre questões de direito material.
+§ 1º O pedido fundado em divergência entre Turmas do mesmo Estado será julgado em reunião conjunta das Turmas em conflito, sob a presidência de desembargador indicado pelo Tribunal de Justiça.
+§ 2º No caso do § 1º, a reunião de juízes domiciliados em cidades diversas poderá ser feita por meio eletrônico.
+§ 3º Quando as Turmas de diferentes Estados derem a lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade com súmula do Superior Tribunal de Justiça, o pedido será por este julgado.
+Art. 19. Quando a orientação acolhida pelas Turmas de Uniformização de que trata o § 1º do art. 18 contrariar súmula do Superior Tribunal de Justiça, a parte interessada poderá provocar a manifestação deste, que dirimirá a divergência.
+Consoante previsto nos referidos dispositivos, bem como no art. 67,
+parágrafo único, VIII-A do RISTJ, o pedido de interpretação de lei submetido ao crivo do Superior Tribunal de Justiça, no âmbito dos Juizados Especiais da Fazenda Pública, somente é cabível - em questão de direito material - em três hipóteses: (i) quando as Turmas Recursais dos Juizados Especiais de Fazenda Pública de diferentes Estados derem, à lei federal, interpretações divergentes; (ii) quando a decisão proferida estiver em
+contrariedade com súmula do STJ; (iii) quando a Turma de Uniformização contrariar súmula desta Corte.
+No caso, a parte requerente limita-se a afirmar que a decisão questionada contraria o precedente qualificado do STJ firmado no Tema Repetitivo n. 988, situação que não se enquadra nas hipóteses acima estabelecidas.
+Note-se que o pedido de uniformização não é o instrumento destinado ao exame de suposta divergência com a jurisprudência desta Corte, ainda que firmada em sede de recurso especial repetitivo. Nesse sentido:
+AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. DIVERGÊNCIA COM ENTENDIMENTO JURISPRUDENCIAL NÃO SUMULADO. AUSÊNCIA DE PREVISÃO LEGAL. IMPOSSIBILIDADE
+1. Nos termos dos arts. 18 e 19 da Lei 12.153/2009 cabe Pedido de Uniformização de Interpretação de Lei quando houver divergência entre decisões proferidas por Turmas Recursais sobre questões de direito material; quando as Turmas de diferentes Estados derem à lei federal interpretações divergentes; ou quando a decisão proferida contrariar súmula do Superior Tribunal de Justiça.
+2. No caso dos autos, a Turma de Uniformização do Sistema dos Juizados Especiais não julgou o mérito da questão, porque não conheceu do Pedido de Uniformização a ela dirigido. Não houve, portanto, análise do art. 257, § 7º, do CTB pela Turma de Uniformização do Sistema dos Juizados Especiais, de modo que não é cabível o Pedido de Uniformização no Superior Tribunal de Justiça.
+3. Ademais, a jurisprudência do Superior Tribunal de Justiça entende que o Pedido de Uniformização de Jurisprudência nos Juizados Especiais da Fazenda Pública é admissível somente quanto há afronta a súmula do Superior Tribunal de Justiça.
+4. Agravo Interno não provido. (AgInt no PUIL 1.941/SP, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 29/06/2021, DJe 1º /07/2021).
+Ante o exposto, com base no art. 34, XVIII, "a", do RISTJ, NÃO CONHEÇO do pedido de uniformização.
+Publique-se. Intimem-se.
+EMENTA
