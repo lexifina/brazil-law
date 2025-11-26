@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO assim ementado (fl. 252):
+PREVIDENCIÁRIO. APELAÇÃO. remessa necessária não conhecida. REVISÃO DA RENDA MENSAL INICIAL. SENTENÇA TRABALHISTA. decadência. auxílio-alimentação. verba salarial. honorários advocatícios. fixação na fase de liquidação. custas e taxa judiciária. isenção.
+1. Não está sujeita à remessa necessária a sentença proferida na vigência do CPC/2015 quando restar evidenciado que a condenação não excederá 1.000 (mil) salários mínimos (art. 496 , § 3º, I).
+2. O STJ reafirmou sua jurisprudência, há muito consolidada, no sentido de que "o marco inicial da fluência do prazo decadencial, previsto no caput do art. 103 da Lei n. 8.213/1991, quando houver pedido de revisão da renda mensal inicial (RMI) para incluir verbas remuneratórias recebidas em ação trabalhista nos salários de contribuição que integraram o período básico de cálculo (PBC) do benefício, deve ser o trânsito em julgado da sentença na respectiva reclamatória." (STJ - REsp: 1947419 RS 2021/0057650-8, Data de Julgamento: 24/08/2022, S1 - PRIMEIRA SEÇÃO, Data de Publicação: DJe 30/08/2022).
+3. A sentença trabalhista reconheceu a natureza salarial do auxílio-alimentação pago em pecúnia, conforme o entendimento sedimentado do STJ, durante o período contratual da autora, e a paridade com os servidores da ativa, determinando o restabelecimento do pagamento. Precedentes.
+4. Com o reconhecimento do direito na justiça trabalhista, o INSS deve revisar a aposentadoria por tempo de contribuição da autora, incluindo no cálculo do salário de benefício os valores referentes ao auxílio-alimentação, com efeitos financeiros a contar da DIB e pagamento das diferenças devidas, observada a prescrição quinquenal.
+5. Os juros e correção monetária incidentes sobre os valores atrasados serão aplicados nos termos do Manual de Cálculos da Justiça Federal que já abrange tanto o entendimento do Supremo Tribunal Federal no julgamento do RE 870.947 (Tema 810) quanto do Superior Tribunal de Justiça no julgamento dos REsp 1.495.146/MG, 1.492.221/PR e 1.495.144/RS (Tema 905), bem como a Emenda Constitucional nº 113/2021.
+6. Os honorários advocatícios serão fixados quando da liquidação do julgado, nos termos do artigo 85, § 3º c/c 4º, II, e § 11 do CPC/2015, observados os termos da Súmula 111 do STJ.
+7. O INSS é isento de custas e taxa judiciária devidas à União na Justiça Federal de primeiro e segundo graus, de acordo com o art. 4º, inciso I, da Lei 9.289/96 e art. 8º, § 1º, da Lei 8.620/93.
+8. Apelação conhecida e parcialmente provida.
+Os embargos de declaração opostos foram rejeitados nestes termos (fl. 311):
+PREVIDENCIÁRIO. EMBARGOS DE DECLARAÇÃO. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. REVISÃO DA RENDA MENSAL INICIAL. SENTENÇA TRABALHISTA. SALÁRIOS DE CONTRIBUIÇÃO LIMITADOS AO TETO. FALTA DE INTERESSE DE AGIR. DIFERENÇAS APURADAS NA FASE DE LIQUIDAÇÃO DE SENTENÇA. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC.
+1. O art. 1.022 do Código de Processo Civil determina que são cabíveis os embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade ou eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento e corrigir erro material.
+2. Não há, no julgado, qualquer dos vícios do art. 1.022 do CPC. O voto condutor, com clareza e sem contradições, destacou que a sentença trabalhista reconheceu a natureza salarial do auxílio-alimentação pago em pecúnia, conforme o entendimento sedimentado do STJ, durante o período contratual da autora, e a paridade com os servidores da ativa, determinando o restabelecimento do pagamento.
+3. Nos termos do art. 135, da Lei 8.213/1991, os salários-de-contribuição utilizados no cálculo do salário-de-benefício serão considerados respeitando-se os limites mínimo e máximo vigentes no Regime Geral de Previdência Social nos meses a que se referirem. Por outro lado, o direito reconhecido na sentença trabalhista, como reconhecido, produz efeitos na seara previdenciária.
+4. A apuração de eventuais diferenças deverá ocorrer quando da liquidação de sentença.
+5. Embargos de declaração conhecidos e não providos.
+Em suas razões recursais, a parte recorrente aponta ofensa aos arts. 489, § 1º, IV, e 1.022, II, do Código de Processo Civil (CPC), "pois o acórdão recorrido, ao negar-se a se pronunciar sobre a matéria posta nos embargos de declaração, uma vez que somente decidiu não ser o caso de embargos de declaração, gera violação a disposição legal" (fl. 324).
+Alega também ter havido violação aos arts. 33 da Lei 8.213/1991 e 28, § 5º da Lei 8.212/1991, "ao ignorar a impossibilidade de se tomarem valores superiores ao teto do salário-de-contribuição (previsto no art 28, § 5º da Lei 8.212/91) nos meses em que esse valor de salário-de-contribuição será revisado em decorrência da coisa julgada formada em reclamação trabalhista, e ao ignorar, também, a impossibilidade de que o salário-de-benefício resulte superior ao teto do salário-de-benefício (previsto no art. 33 da Lei 8.213/91). O acórdão recorrido não observou que os salários-de-contribuição já estavam no valor máximo ("teto") na ocasião da concessão, antes de qualquer revisão" (fl. 329).
+A parte adversa apresentou contrarrazões (fls. 377/384).
+O recurso foi admitido (fl. 399).
+É o relatório.
+De início, observo que inexiste a alegada violação do art. 1.022 e do art. 489, § 1º, IV, do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, tendo o Tribunal de origem apreciado fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade.
+Consoante se depreende da análise do acórdão recorrido, o Tribunal de origem, de modo expresso, fundamentado e coeso, concluiu que (fl. 310, sem grifos no original):
+ ..
+Nos termos do art. 135, da Lei 8.213/1991, os salários-de-contribuição utilizados no cálculo do salário-de-benefício serão considerados respeitando-se os limites mínimo e máximo vigentes no Regime Geral de Previdência Social nos meses a que se referirem. Por outro lado, o direito reconhecido na sente nça trabalhista produz efeitos na seara previdenciária.
+Assim, embora o recorrente afirme que os salários de contribuição foram limitados ao teto e que a revisão não causará qualquer impacto na RMI, a autora deve ter garantido o direito à revisão e a apuração de eventuais diferenças deverá ocorrer na fase de liquidação de sentença.
+É importante destacar que julgamento diverso do pretendido, como neste caso, não implica ofensa aos dispositivos de lei invocados.
+Quanto à questão de fundo, destaco que, para o Superior Tribunal de Justiça, é inadmissível o recurso especial que apresenta razões dissociadas do quadro fático e das premissas jurídicas expostos no acórdão recorrido. É o caso dos autos.
+No caso em exame, o Tribunal de origem consignou que os salários-de-contribuição utilizados no cálculo do salário-de-benefício serão considerados respeitando-se os limites mínimo e máximo vigentes nos meses a que se referirem.
+Contudo, nas razões recursais, a parte recorrente limita-se a sustentar a impossibilidade de se tomarem valores superiores ao teto do salário-de-contribuição nos meses em que esse valor de salário-de-contribuição for revisado em decorrência da coisa julgada trabalhista e de que o salário-de-benefício resulte superior ao teto do salário-de-benefício, bem como que os salários-de-benefício já estavam no valor máximo por ocasião da concessão do benefício, antes de qualquer revisão, de modo que não poderiam ser maiores que os valores já lançados originalmente, apresentando, assim, razões dissociadas das premissas jurídicas expostas no acórdão recorrido.
+Por essa razão, incide no presente caso, por analogia, o enunciado 284 da Súmula do Supremo Tribunal Federal (STF), que estabelece: "é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Nessa mesma direção:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL  .. . RAZÕES RECURSAIS DISSOCIADAS DO JULGADO. SÚMULA 284/STF.
+ ..
+3. É inadmissível o recurso especial que apresenta razões dissociadas do quadro fático e das premissas jurídicas expostos no acórdão recorrido. Incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.").
+ ..
+7. Agravo interno conhecido parcialmente para, na parte conhecida, negar-se-lhe provimento.
+(AgInt nos EDcl no AREsp n. 1.700.429/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 26/4/2021, DJe de 29/4/2021, sem destaques no original.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. CONVÊNIO. MODERNIZAÇÃO DA GUARDA MUNICIPAL. EXECUÇÃO. NÃO COMPROVAÇÃO. RESSARCIMENTO. MUNICÍPIO. INTIMAÇÃO ELETRÔNICA DA SENTENÇA. DEFICIÊNCIA NA FUNDAMENTAÇÃO. RAZÕES DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO. APLICAÇÃO DA SÚMULA N. 284 DO STF.
+ ..
+III - A jurisprudência do Superior Tribunal de Justiça, é firme no sentido de que se o recorrente apresenta razões dissociadas dos fundamentos adotados pelo acórdão recorrido, o recurso especial é deficiente na sua fundamentação, o que atrai a aplicação por analogia da Súmula n. 284 do STF.
+ ..
+VIII - Agravo interno improvido.
+(AgInt no REsp n. 1.806.873/PE, relator Ministro Francisco Falcão, Segunda Turma, julgado em 23/11/2020, DJe de 25/11/2020, sem destaques no original.)
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, a ele nego provimento.
+Publique-se. Intimem-se.
+ EMENTA
