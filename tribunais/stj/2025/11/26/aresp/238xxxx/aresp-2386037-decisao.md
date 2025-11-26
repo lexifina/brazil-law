@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interposto por DANIELLE RAMOS GAUNA contra decisão que inadmitiu seu recurso especial, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"APELAÇÃO - AÇÃO DE CONSIGNAÇÃO EM PAGAMENTO - Contrato de financiamento para aquisição de imóvel com alienação fiduciária em garantia - Sentença de improcedência - Manutenção - Cabimento - Autora que deixou de purgar a mora no prazo de 15 (quinze) dias após sua intimação pessoal - Contrato de financiamento imobiliário celebrado em 2019 após a entrada em vigor da Lei 13.465/2017 que alterou o diploma legal nº 9.514/97 - Impossibilidade de purgação da mora - Exercício do direito de preferência após consolidação da propriedade - Possibilidade - Inteligência do artigo 27, § 2ºB, da Lei nº 9.514/97- Precedentes desta C. 14ª Câmara nesse sentido - Sentença de improcedência dos pedidos mantida - RECURSO NÃO PROVIDO." (fls. 262)
+Nas razões do recurso especial, a parte alega violação aos arts. 26-A, §§ 1º e 2º, da Lei 9.514/1997; 27, § 2º-B, da Lei 9.514/1997; 26, § 5º, da Lei 9.514/1997, sustentando em síntese, que:
+(a) foi indevidamente afastada a possibilidade de purgação da mora até a averbação da consolidação da propriedade fiduciária, o que justificaria a consignação proposta antes desse marco, com a consequente convalidação do contrato;
+(b) o acórdão interpretou de forma restritiva o regime pós-Lei 13.465/2017, admitindo apenas o direito de preferência após a consolidação, quando ainda se permite a purgação até a averbação da consolidação;
+(c) tendo havido tentativa de pagamento conforme a lei antes da averbação, a mora foi purgada e o contrato devia ter sido considerado convalidado, impondo a reforma para admitir a consignação em pagamento.
+Foram apresentadas contrarrazões às fls. 282/294.
+É o relatório.
+No caso, a questão de direito objeto do recurso especial foi afetada à SEGUNDA SEÇÃO como representativa de controvérsia a ser julgada sob o rito dos recursos repetitivos (Tema 1.288), nos termos dos arts. 1.036 e 1.037 do CPC/2015. Confira-se, a propósito, a ementa da proposta de afetação:
+PROPOSTA DE AFETAÇÃO NO RECURSO ESPECIAL. RITO DOS RECURSOS REPETITIVOS. IMÓVEL. ALIENAÇÃO FIDUCIÁRIA. LEI Nº 9.514/1997. EXECUÇÃO EXTRAJUDICIAL. CREDOR FIDUCIANTE. CONSOLIDAÇÃO DA PROPRIEDADE. PURGAÇÃO DA MORA. IMPOSSIBILIDADE. VIGÊNCIA. LEI Nº 13.465/2017. ALTERAÇÕES INCORPORADAS. DIREITO DE PREFERÊNCIA.
+1. Delimitação da controvérsia: definir se a alteração introduzida pela Lei nº 13.465/2017 ao art. 39, II, da Lei nº 9.514/97 tem aplicação restrita aos contratos celebrados sob a sua vigência, não incidindo sobre os contratos firmados antes da sua entrada em vigor, ainda que constituída a mora ou consolidada a propriedade em momento posterior ao seu início de vigência.
+2. Recurso especial afetado ao rito dos artigos 1.036 e seguintes do CPC.
+(ProAfR no REsp n. 2.126.726/SP, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 15/10/2024, DJe de 18/10/2024, g.n.)
+Houve também determinação de suspensão dos recursos especiais e agravos em recurso especial em segunda instância e/ou no STJ que versem sobre a mesma matéria, nos termos do art. 1.037, II, do CPC/2015.
+Nesse contexto, em observância à economia processual e ao art. 256-L do RISTJ, os recursos que tratam da mesma controvérsia no STJ devem aguardar, no Tribunal de origem, a solução da questão, viabilizando, assim, o juízo de conformação, atualmente disciplinado pelos arts. 1.039 e 1.040 do CPC/2015.
+Cumpre destacar que, em conformidade com o art. 1.041, § 2º, do CPC/2015, apenas após essas providências é que o recurso especial, se for o caso, deverá ser reencaminhado a este Tribunal Superior, independentemente de ratificação, para análise das demais questões jurídicas nele suscitadas que eventualmente não fiquem prejudicadas pela conformidade do acórdão recorrido com a decisão sobre o tema repetitivo ou pelo novo pronunciamento do Tribunal de origem.
+Diante do exposto, determino a remessa dos autos ao Tribunal de origem, com a respectiva baixa, a fim de que, nos termos dos arts. 1.039 e 1.040 do CPC/2015, após o julgamento do tema de recurso repetitivo:
+i) negue-se seguimento ao recurso especial no caso de o acórdão recorrido coincidir com a tese firmada sobre o aludido tema; ou
+ii) proceda-se a novo exame da matéria, no órgão prolator da decisão v ergastada, na hipótese desta última divergir da referida tese.
+Publique-se.
+EMENTA
