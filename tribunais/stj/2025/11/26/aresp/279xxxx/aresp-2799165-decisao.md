@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual o INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVÁVEIS - IBAMA se insurgira, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra o acórdão do Tribunal Regional Federal da 1ª Região assim ementado (fl. 359):
+AMBIENTAL. ADMINISTRATIVO. CONSTITUCIONAL AGRAVO DE INSTRUMENTO. EXCEÇÃO DE PRÉ- EXECUTIVIDADE. AUTO DE INFRAÇÃO. PROCESSO ADMINISTRATIVO. INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVÁVEIS (IBAMA). ALEGAÇÕES FINAIS. INTIMAÇÃO EDITALÍCIA. AMPLA DEFESA. CONTRADITÓRIO. INOBSERVÂNCIA. CONSTITUIÇÃO FEDERAL. LEI N. 9.784/1999.
+1. A exceção de pré-executividade, embora não prevista em lei, tem sido admitida em nosso ordenamento jurídico nos casos de matérias de ordem pública ou de nulidades absolutas  como as condições da ação, os pressupostos processuais, a decadência, a prescrição, entre outras  , bem como quando o juiz possa, de ofício, conhecer da matéria aventada diante de prova inequívoca do alegado e desde que isso não implique em dilação probatória.
+2. Nesse sentido a orientação jurisprudencial do STJ, firmada no julgamento do REsp 1.104.900/ES  realizado na sistemática dos recursos repetitivos (rel. ministra Denise Arruda, 1ª Seção, DJe 1º/4/2009)  e nos termos do enunciado 393 da Súmula /STJ.
+3. Precedentes jurisprudências desta Corte Regional.
+4. O artigo 2º da Lei 9.784/99 prevê que a Administração Pública obedecerá, dentre outros princípios, ao da legalidade, finalidade, motivação, razoabilidade, proporcionalidade, moralidade, ampla defesa, contraditório, segurança jurídica, interesse público e eficiência, norma que é materialização de previsões constitucionais, como a contida no artigo 5º, inciso LV, da Constituição da República.
+5. Sendo certo e conhecido o domicílio do ora agravante, é nula a notificação editalícia. Embora o processo administrativo tenha ocorrido de forma regular até a fase de apresentação das alegações finais, o autuado foi notificado para apresentá-las por meio de edital injustificadamente. As demais notificações do processo ocorreram por AR. Tal impropriedade gerou prejuízo concreto à defesa do autuado, na medida em que este não apresentou suas alegações finais.
+6. Agravo de Instrumento provido.
+Os embargos de declaração opostos foram rejeitados (fls. 389/400).
+A parte recorrente alega violação ao art. 1.022 do Código de Processo Civil (CPC) em razão da negativa de prestação jurisdicional diante da rejeição dos embargos declaratórios que buscavam prequestionar a incidência do art. 122 do Decreto 6.514/2008, dispositivo regulamentador da Lei 9.605/1998, norma especial que, segundo defende, prevalece sobre a Lei 9.784/1999, conforme seu art. 69.
+Argumenta que a notificação por edital era válida sob a redação então vigente do decreto, não havendo nulidade sem demonstração de efetivo prejuízo.
+No mérito, afirma que o acórdão recorrido contrariou o art. 70, §§ 3º e 4º, da Lei 9.605/1998 e o art. 122 do Decreto 6.514/2008, além de divergir de precedentes do Superior Tribunal de Justiça (STJ) sobre a especialidade do processo sancionador ambiental.
+Requer o provimento do recurso para se anular o acórdão que rejeitou os embargos de declaração, a fim de se sanar a omissão quanto à legislação federal indicada; ou, no mérito, pede o reconhecimento da legalidade da intimação por edital.
+A parte adversa apresentou contrarrazões (fls. 446/458).
+O recurso não foi admitido, razão pela qual foi interposto o agravo ora examinado.
+É o relatório.
+A questão debatida nestes autos foi analisada pelo Superior Tribunal de Justiça quando do julgamento dos Recursos Especiais 2.154.295/RS e 2.163.058/SC, sob o rito de recursos repetitivos, oportunidade em que foi firmada a seguinte tese quanto ao Tema 1.329:
+"No âmbito do procedimento administrativo para apuração das infrações ao meio ambiente e imposição das respectivas sanções, a intimação por edital para apresentação de alegações finais, prevista na redação original do art. 122, parágrafo único, Decreto 6.514/2008, somente acarretará nulidade dos atos posteriores caso a parte demonstre a existência de efetivo prejuízo para a defesa, inclusive no momento prévio ao recolhimento de multa" (relator Ministro Afrânio Vilela, DJe de 21/10/2025).
+De acordo com o disposto no art. 34, XXIV, do Regimento Interno do Superior Tribunal de Justiça, em situações em que o recurso versa sobre a mesma controvérsia objeto de recursos representativos de controvérsia já julgados, os autos devem retornar ao Tribunal de origem para que seja providenciado o juízo de conformação:
+Art. 34. São atribuições do relator:
+ ..
+XXIV - determinar a devolução ao Tribunal de origem dos recursos especiais fundados em controvérsia idêntica àquela já submetida ao rito de julgamento de casos repetitivos para adoção das medidas cabíveis.
+Ressalto que a Primeira Seção desta Corte Superior tem posicionamento consolidado de não ser "necessário aguardar o trânsito em julgado para a aplicação do paradigma firmado em recurso repetitivo ou com repercussão geral" (AgInt no PUIL 1.494/RS, relator Ministro Herman Benjamin, Primeira Seção, DJe de 9/9/2020).
+Ante o exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do Código de Processo Civil.
+Publique-se. Intimem-se.
+EMENTA
