@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial por ausência de violação do art. 489, § 1º, do CPC, e pela incidência das Súmulas n. 83 do STJ e 284 do STF (fls. 166-171).
+O acórdão recorrido está assim ementado (fl. 114):
+AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO - AÇÃO ORDINÁRIA DE RESCISÃO DE CONTRATO C/C PEDIDO DE DEVOLUÇÃO DE VALOR PAGO E DE INDENIZAÇÃO POR DANOS MORAIS - REJEIÇÃO DE PREJUDICIAL DE DECADÊNCIA/PRESCRIÇÃO - ATO JUDICIAL NÃO RECORRÍVEL VIA AGRAVO DE INSTRUMENTO - HIPÓTESE NÃO PREVISTA NO ROL RESTRITO DO ART. 1.015 DO NOVO CPC - RECURSO INCABÍVEL/INADMISSÍVEL - ARGUMENTAÇÕES QUE NÃO INFIRMAM O DECISUM - DECISÃO MONOCRÁTICA MANTIDA - INAPLICABILIDADE DA MULTA PREVISTA NO ART. 1021, § 4º, DO NOVO CPC - RECURSO CONHECIDO E DESPROVIDO.
+I- O art. 1.015 do Código de Processo Civil de 2015 apresenta um rol restrito de hipóteses de cabimento do agravo de instrumento, de sorte que as decisões interlocutórias que não se encontram ali previstas, como a ora atacada, não são impugnáveis via este recurso.
+II - A irrecorribilidade por meio de agravo de instrumento, no caso vertente, não traz prejuízo irreparável aos interesses do agravante, uma vez que, não se amoldando às hipóteses de cabimento do art. 1015 do CPC, a questão não preclui e poderá ser, oportuna e eventualmente, arguida em preliminar de apelação (art. 1009 §1º CPC). VIDO.
+III. Não havendo nenhum fato novo que importasse na mudança de convencimento do relator, é de ser mantida a decisão agravada, pelos seus próprios fundamentos.
+IV. Não sendo o agravo interno manifestamente improcedente, inaplicável a multa prevista no art. 1021, § 4º, do novo Código de Processo Civil.
+Os embargos de declaração opostos foram rejeitados (fls. 136-142).
+No recurso especial (fls. 144-149), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte recorrente apontou, além do dissídio jurisprudencial, violação dos arts. 487, II, 489, §1º, VI, e 1.015, II, do CPC e 26, II, do CDC.
+Sustentou que a decisão que rejeita a alegação de decadência configura decisão de mérito e, portanto, é passível de impugnação por meio de agravo de instrumento.
+Aduziu que, ao manter a rejeição da prejudicial de decadência sob o fundamento de inexistência de conteúdo reformável de imediato, o acórdão afronta diretamente o entendimento consolidado pelo STJ, comprometendo o direito à ampla defesa e ao devido processo legal, ao restringir o acesso à via recursal adequada.
+Foram apresentadas contrarrazões, nas quais o recorrido requer a aplicação da multa prevista no art. 1.021, §4º, do CPC (fls. 163-164).
+No agravo (fls. 173-178), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foi oferecida contraminuta (fls. 182-183).
+Juízo negativo de retratação (fl. 185).
+É o relatório.
+Decido.
+Inexiste afronta ao art. 489, §1º, VI, do CPC quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+O Tribunal de origem, com base nos fatos e nas provas dos autos, assim se pronunciou (fls. 122-123):
+ ..  Em que pese a argumentação da agravante, não restou demonstrado no presente caso a urgência necessária ao imediato julgamento das questões abordadas na decisão agravada, pela inutilidade de seu conhecimento em eventual recurso da apelação ou contrarrazões, sendo inviável a mitigação da taxatividade do rol do art. 1.015 do CPC.
+Ao contrário do que alega a agravante, decisão objeto de agravo, que rejeitou a prejudicial de decadência/prescrição, não envolve mérito, a se inserir na hipótese do inciso II do art. 1.015, do CPC.
+ ..  Portanto, não há que se falar que a decisão que rejeita prejudicial de decadência seja parcial de mérito, pois a teor do disposto no art. 487, caput, inciso II, do Código de Processo Civil, a questão da decadência só implica em decisão de mérito quando é reconhecida, dado que somente neste caso é que se terá uma decisão terminativa, que encerra a discussão sobre o mérito propriamente dito. Só caberá agravo a esse respeito contra a decisão que acolher a decadência ou prescrição de um dos pedidos e o feito houver de prosseguir relativamente aos demais.
+Para o caso concreto, o recurso é inadmissível, visto que a decisão atacada não é recorrível neste momento processual, inexistindo, por fim, risco ou ato irremediável a que a parte esteja sujeita; tampouco inutilidade de conhecimento em apelação, até porque não se sabe se a parte recorrente sairá perdedora.
+Desse modo, não assiste razão à parte, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente a seus interesses, não incorrendo em nenhum dos vícios elencados no art. 489 do CPC.
+No mérito, o Tribunal de origem consignou que a decisão que rejeita a alegação de decadência ou prescrição não se enquadra nas hipóteses do art. 1.015 do CPC, podendo ser rediscutida em sede de apelação, sem prejuízo à parte.
+Nesse contexto, a Corte estadual decidiu em conformidade com a jurisprudência consolidada desta Corte Superior, que entende ser taxativo o rol do art. 1.015 do CPC, admitindo-se a interposição de agravo de instrumento apenas nas hipóteses nele expressamente previstas, ressalvadas situações excepcionais de urgência decorrente da inutilidade do julgamento da questão no recurso de apelação. A propósito:
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. AGRAVO DE INSTRUMENTO. CABIMENTO. HIPÓTESES. ART. 1.015 DO CPC. ROL TAXATIVO MITIGADO. TEMA Nº 988/STJ. URGÊNCIA. INEXISTENTE. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+ ..  3. A jurisprudência do Superior Tribunal de Justiça é no sentido de que o rol do art. 1.015 do CPC é de taxatividade mitigada, admitindo a interposição de agravo de instrumento quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação. (Tema nº 988/STJ). Precedentes.
+4. No caso, o tribunal de origem concluiu que a insurgência da agravante não se reveste de urgência e, portanto, não enseja a mitigação da taxatividade do rol do art. 1.015 do CPC.
+5. É inviável rever o entendimento firmado pelas instâncias ordinárias sem a análise dos fatos e das provas da causa, o que atrai a incidência da Súmula nº 7/STJ.
+6. Agravo conhecido para conhecer do recurso especial e negar-lhe provimento.
+(AREsp n. 2.875.324/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 1/9/2025, DJEN de 5/9/2025.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. AGRAVO DE INSTRUMENTO. IMPUGNAÇÃO IMEDIATA DE DECISÕES INTERLOCUTÓRIAS NÃO PREVISTAS NOS INCISOS DO ART. 1.015 DO CPC/2015. EXCEPCIONALIDADE DA IMPUGNAÇÃO FORA DAS HIPÓTESES PREVISTAS EM LEI. REQUISITOS. TRIBUNAL APLICOU A TEORIA DA TAXATIVIDADE MITIGADA E CONCLUIU PELA INEXISTÊNCIA DE PREVISÃO LEGAL E DE URGÊNCIA. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A Corte Especial, por ocasião de julgamento de recurso especial repetitivo, consolidou o entendimento de que o rol do artigo 1.015 do CPC de 2015 é de taxatividade mitigável, admitindo-se a interposição de agravo de instrumento quando verificada a urgência decorrente da inutilidade do julgamento da questão somente no recurso de apelação (REsp 1.704.520/MT, Rel. Ministra NANCY ANDRIGHI, CORTE ESPECIAL, DJe de 19/12/2018).
+2. No caso, o Tribunal Estadual aplicou o precedente qualificado do STJ acerca da taxatividade mitigada do rol do art. 1.015 do CPC/2015 e não conheceu do agravo de instrumento, em razão da inexistência de previsão legal e de urgência para ensejar referida mitigação.
+3. O entendimento adotado no acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.761.764/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 14/4/2025, DJEN de 25/4/2025.)
+Inafastável a Súmula n. 83 do STJ quanto ao ponto, que se aplica tanto aos recursos interpostos com base na alínea "a" quanto àqueles fundamentados pela alínea "c" do permissivo constitucional.
+Ante o exposto, NEGO PROVIMENTO ao agravo em recurso especial. Deixo de aplicar a multa pleiteada, uma vez que a agravante apenas exerceu seu direito de petição, o que não constitui ato protelatório que enseje sanção processual, tampouco se evidencia, até o momento, conduta maliciosa ou temerária a justificar punição.
+Publique-se e intimem-se.
+EMENTA
