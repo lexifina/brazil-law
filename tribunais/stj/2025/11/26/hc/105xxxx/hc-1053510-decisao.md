@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de JOHN LENNON SANTOS ALVES apontando como autoridade coatora o Tribunal de Justiça do Estado do Espírito Santo.
+Consta dos autos que o paciente foi denunciado e condenado em primeiro grau pelos crimes de tráfico de drogas e associação para o tráfico (autos nº 0009689-66.2019.8.08.0014).
+No presente writ, sustenta a defesa a ocorrência de excesso de prazo no julgamento da apelação criminal (paciente preso cautelarmente por 6 anos, com apelação pendente de julgamento por mais de 2 anos).
+Aponta, ainda, que "em relação as apreensões de drogas realizadas, o paciente encontrava- se preso, sem absolutamente nenhum domínio do que ocorria na realidade externa aos muros do presídio, não sendo absolutamente nenhuma carga de droga de sua propriedade. Muito pelo contrário, nos autos existem réus que foram presos em situação real de traficância e nesse momento encontram-se soltos aguardando o deslinde do feito " (e-STJ fl. 13).
+Requer, em liminar, a expedição de alvará de soltura. No mérito, pleiteia a concessão da ordem para reconhecer o excesso de prazo no julgamento da apelação criminal e o reconhecimento, em relação ao paciente, de ausência de materialidade delitiva do crime de tráfico de drogas.
+É o relatório. Decido.
+De início, o observa-se que o pleito de reconhecimento de excesso de prazo no julgamento da apelação criminal e da ausência de materialidade delitiva do crime de tráfico de drogas não foram examinados pela Corte de origem, o que impede o conhecimento dos temas diretamente neste Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+Desse modo, "como os argumentos apresentados pela Defesa não foram examinados pelo Tribunal de origem no acórdão ora impugnado, as matérias não podem ser apreciadas por esta Corte nesta oportunidade, sob pena de indevida supressão de instância" (AgRg no HC n. 820.927/RJ, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 11/9/2023, DJe de 14/9/2023.).
+No mesmo sentido, é entendimento da Corte Maior que " o  exaurimento da instância recorrida é, como regra, pressuposto para ensejar a competência do Supremo Tribunal Federal, conforme vem sendo reiteradamente proclamado por esta Corte (HC 129.142, Rel. Min. MARCO AURÉLIO, Rel. p/ Acórdão Min. ALEXANDRE DE MORAES Primeira Turma, DJe de 10/8/2017; RHC 111.935, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 30/9/2013; HC 97.009, Rel. p/ Acórdão: Min. TEORI ZAVASCKI, Tribunal Pleno, DJe de 4/4/2014; HC 118.189, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 24/4/2014)". (HC n. 179.085, Rel. Ministro Marco Aurélio, Primeira Turma, julgado em 05/08/2020, DJe 25/09/2020).
+Ante o exposto, indefiro liminarmente o presente habeas corpus.
+Intimem-se.
+EMENTA
