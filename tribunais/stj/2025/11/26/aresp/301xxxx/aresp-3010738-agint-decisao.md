@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interno manejado pelo ESTADO DE RONDÔNIA contra decisão proferida pela Presidência desta Corte Superior, constante às e-STJ fls. 985/986, que não conheceu do agravo em recurso especial por falta de impugnação específica de todos os fundamentos da decisão agravada, particularmente, a incidência da Súmula 7 do STJ.
+Em síntese, a parte agravante sustenta que combateu tal fundamento.
+Impugnação às e-STJ fls. 1.000/1.004.
+Passo a decidir.
+Exerço o juízo de retratação.
+De fato, a parte impugna a aplicação do óbice previsto na Súmula 7 do STJ, alegando que o recurso especial visa somente a verificação de omissão sobre o exame da presença de requisitos para a concessão de isenção fiscal, o que não exigiria reexame fático-probatório.
+Ademais, esclarece que o recurso especial limita-se à hipótese da alínea "a" do inciso III do art. 105 da Constituição Federal.
+Logo, deve ser reconsiderada a decisão agravada, prosseguindo-se na análise do recurso.
+Atendidos os pressupostos próprios, conheço do agravo e passo ao exame do recurso especial, que desafia acórdão assim ementado (e-STJ fl. 738):
+Agravo de instrumento. Tributário. Exceção de pré-executividade. Execução fiscal. Isenção fiscal. ICMS sobre ativo fixo imobilizado. Inconstitucionalidade do art. 1º do Decreto n. 10.663/2003. Efeito ex nunc. Incidente n. 0806869-59.2020.
+Considerando o efeito ex nunc conferido à declaração de inconstitucionalidade do art. 1º do Decreto n. 10.663/2003 e que instituiu isenção tributária, a invalidade da norma não atinge situações jurídicas e econômicas consolidadas na vigência da norma autorizativa.
+A não observância da norma de isenção de ICMS vigente à época das operações tributárias torna inexequível o título que trata da cobrança do imposto sobre a circulação de mercadorias e serviço em relação à importação e a entrada interestadual de bem ou mercadoria, sem similar no mercado interno deste Estado, destinado ao ativo fixo ou imobilizado de estabelecimento industrial ou agropecuário.
+Agravo de instrumento provido.
+Os embargos de declaração opostos pelo ente estadual foram rejeitados e, os da ora recorrida, acolhidos para a fixação de honorários de sucumbência (e-STJ fls. 845/849).
+No recurso especial (e-STJ fls. 859/868), a parte recorrente aponta violação dos art. 489, § 1º, IV, e do art. 1.022, II, do CPC, bem como do art. 179 do CTN. Em síntese, alega: "o órgão colegiado entendeu não haver vício na decisão, promovendo-se a sua manutenção sem a análise dos requisitos necessários à concessão da isenção, sequer tendo o segundo acórdão mencionado os demais requisitos legais" (e-STJ fls. 864/865).
+Acrescenta: "a violação ao art. 179 do CTN, além de prequestionada por força do art. 1.025 do CPC, não implica na necessidade de o Superior Tribunal de Justiça ter de se debruçar sobre a legislação estadual" (e-STJ fl. 866).
+Contrarrazões apresentadas.
+Pois bem.
+Na origem, cuida-se de agravo de instrumento interposto pela ora recorrida contra decisão que, na execução fiscal, rejeitou sua exceção de pré-executividade por entender não incidir isenção de ICMS.
+O Tribunal deu provimento ao recurso nos seguintes termos (e-STJ fls. 735/737):
+No que respeita à norma de isenção de ICMS vigente à época das operações tributárias, o Tribunal Pleno, no julgamento da arguição de inconstitucionalidade 0806869-59.2020, com efeito ex nunc, declarou a inconstitucionalidade do artigo 1º do Decreto 10.663/2003, que estabelece hipótese de isenção do imposto sobre a circulação de mercadorias e serviço em relação à importação e a entrada interestadual de bem ou mercadoria, sem similar no mercado interno de Rondônia e destinado ao ativo fixo ou imobilizado de estabelecimento industrial ou agropecuário, isso considerando o descompasso com os artigos 150, §6º e 155, inciso XII, da Constituição Federal.
+A propósito, a ementa do julgado:
+ ..
+Portanto, foi considerado que a Constituição Federal, no seu artigo 155, §2º, XII, g, dispõe que a isenção, ou não incidência, salvo determinação em contrário na legislação, será concedida por lei complementar, que regulará a forma como as isenções, incentivos e benefícios fiscais serão concedidos e revogados, mediante deliberação dos Estados e do Distrito Federal.
+Desse modo, em relação a ICMS, a isenção fiscal concedida por meio do Decreto N. 10.663/2003, sem prévia aprovação do CONFAZ e sem a edição de lei complementar, vulnerou os artigos 150, §6º e 155, inciso XII, alínea g, da Constituição Federal, que estabelece que qualquer subsídio ou isenção, redução de base de cálculo, concessão de crédito presumido, anistia ou remissão, relativos a impostos, taxas ou contribuições, só poderá ser concedido mediante lei específica, federal, estadual ou municipal, que regule exclusivamente as matérias acima enumeradas ou o correspondente tributo ou contribuição, sem prejuízo do disposto no artigo 155, § 2.º, XII, g, da Constituição Federal.
+Ademais, a jurisprudência do Supremo Tribunal Federal é no sentido de ser inviável a concessão de benefício fiscal por ato normativo secundário, como no caso do decreto expedido pelo Poder Executivo:
+ ..
+Anote-se, pela pertinência, que não se ignora que a LCE n. 160/2017 implantou novo regime para concessão de incentivos fiscais de ICMS. Contudo, não se derrogou a exigência de submissão do convênio celebrado no âmbito do CONFAZ à edição de Lei Complementar.
+Torna-se imperioso observar que a inconstitucionalidade foi reconhecida com efeitos ex nunc.
+Desse modo, a declaração de invalidade da norma não deve atingir situações jurídicas e econômicas consolidadas na vigência de norma autorizativa, sobretudo em razão da presunção de legitimidade dessas normas e à luz dos princípios da boa-fé e da segurança jurídica.
+Nesse sentido, o Supremo Tribunal Federal tem decidido reiteradamente:
+ ..
+No caso em comento, trata-se de Decreto de 2003 e que vigorou por mais de uma década até ser revogado pelo Decreto n. 22.721/2018. Como citado no acórdão que declarou a inconstitucionalidade do artigo 1º do Decreto n. 10.663/2003, com efeito ex nunc ocorreu a "cicatrização da inconstitucionalidade" e a necessidade de se resguardar a segurança jurídica e a boa-fé, de modo a não alcançar a isenção concedida com o Decreto n. 10.663/2003.
+Com efeito, a Certidão de Dívida Ativa n. 20190200119723 executada, por não ter sido observada norma de isenção de ICMS vigente à época das operações tributárias, torna inexequível o título que trata da cobrança do imposto sobre a circulação de mercadorias e serviço em relação à importação e a entrada interestadual de bem ou mercadoria, sem similar no mercado interno desse Estado e destinado ao ativo fixo ou imobilizado de estabelecimento industrial ou agropecuário.
+Ante o exposto, considerando o efeito ex nunc da declaração de inconstitucionalidade n. 0806869-59.2020, bem como a jurisprudência do Supremo Tribunal Federal, dou provimento ao agravo e, por consequência, reformo a sentença que determinou o prosseguimento da instrumento execução da Certidão de Dívida Ativa 20190200119723 .
+Inicialmente, no capítulo dedicado à alegada afronta ao art. 1.022 do CPC/2015, embora o ente estadual alegue, genericamente, existir omissão sobre a verificação da observância dos requisitos da isenção, não explica o motivo pelo qual o benefício teria sido afastado, tampouco qual foi o requisito específico não atendido, o que revela a deficiência de sua fundamentação, nos termos da Súmula 284 do STF.
+Sobre o art. 179 do CTN, a rigor, as razões do recurso especial não apontam propriamente ofensa à norma. Somente trazem argumentação relacionada à omissão acima mencionada sem, contudo, apontar, precisamente, a contrariedade ao dispositivo, o que evidencia a deficiência de fundamentação (Súmula 284 do STF).
+Nesse contexto, também não houve impugnação do fundamento do Tribunal de origem segundo o qual a isenção foi reconhecida pelo próprio ente estadual, de forma que as razões estão dissociadas da fundamentação consignada no acórdão recorrido. Inteligência da Súmula 284 do STF.
+Ademais, o acórdão recorrido não tratou do merecimento da isenção, mas, apenas, sobre a validade da norma que a concedeu, de maneira que há manifesta ausência de prequestionamento, a atrair a aplicação da Súmula 211 do STJ, quando os conteúdos dos preceitos legais tidos por violados não são examinados na origem, mesmo após opostos embargos de declaração.
+Ante o exposto, RECONSIDERO a decisão impugnada e, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
