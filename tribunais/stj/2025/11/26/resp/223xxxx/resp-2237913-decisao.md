@@ -1,0 +1,39 @@
+DECISÃO
+Examina-se recurso especial interposto por MICHEL DE JESUS BORGES, fundamentado nas alíneas "a" e "c" do permissivo constitucional, contra acórdão proferido pelo TJ/MT.
+Recurso especial interposto em: 10/7/2025.
+Concluso ao Gabinete em: 14/11/2025.
+Ação: de rescisão contratual c/c devolução de quantias pagas e compensação de danos morais, ajuizada por MICHEL DE JESUS BORGES, em desfavor de JM EMPREENDIMENTOS IMOBILIARIOS LTDA e OUTRAS, em virtude de contrato de compra e venda de imóvel firmado entre as partes.
+Sentença: julgou procedentes os pedidos, a fim de declarar rescindido o contrato particular de compromisso de compra e venda de imóvel, bem como para condenar JM EMPREENDIMENTOS IMOBILIARIOS LTDA e OUTRAS à restituição dos valores pagos pelo autor, em parcela única, com o decote no máximo de 25% (vinte e cinco por cento) do valor pago, a ser corrigido a contar do pagamento de cada parcela, excetuando-se o valor da corretagem.
+Acórdão: deu provimento à apelação interposta por MICHEL DE JESUS BORGES, a fim de reformar parcialmente a sentença para: (i) declarar devido o valor atribuído à causa na inicial; (ii) determinar a restituição integral das parcelas pagas pelo autor, isto é, sem a retenção de valores a qualquer título; e (iii) majorar os danos morais para a quantia de R$ 10.000,00 (dez mil reais); e deu parcial provimento à apelação interposta por JM EMPREENDIMENTOS IMOBILIARIOS LTDA e OUTRAS, a fim de determinar que a restituição das parcelas quitadas seja corrigida e acrescida de juros legais a partir dos respectivos desembolsos, e não do vencimento das parcelas como determinou o juízo de origem. O acórdão foi assim ementado:
+DIREITO CIVIL E DO CONSUMIDOR. APELAÇÃO CÍVEL. COMPRA E VENDA DE IMÓVEL EM LOTEAMENTO. ATRASO NA ENTREGA DA INFRAESTRUTURA. RESCISÃO CONTRATUAL POR CULPA DA VENDEDORA. RESTITUIÇÃO INTEGRAL DOS VALORES PAGOS. DANO MORAL. CLÁUSULA PENAL. PARCIAL PROVIMENTO DE AMBOS OS RECURSOS.
+I. CASO EM EXAME
+1. Ação de rescisão contratual cumulada com devolução de quantias pagas, proposta por comprador cessionário de lote em empreendimento imobiliário, em face das empresas responsáveis pelo loteamento. Sentença julgou procedente o pedido para rescindir o contrato de compra e venda e condenar solidariamente as rés à restituição dos valores pagos, com retenção de até 25%, além de fixar indenização por danos morais em R$ 6.000,00. Apelações interpostas pelo autor, buscando a devolução integral das parcelas, afastamento da retenção de corretagem e majoração da indenização moral, e pelas rés, requerendo modificação no termo inicial dos juros, possibilidade de retenções e parcelamento da restituição.
+II. QUESTÃO EM DISCUSSÃO
+2. Há cinco questões em discussão: (i) definir se é devida a devolução integral das parcelas pagas pelo comprador diante do inadimplemento contratual das rés; (ii) estabelecer se é cabível a retenção de valores a título de comissão de corretagem; (iii) determinar a possibilidade de aplicação da cláusula penal prevista no contrato em favor do comprador; (iv) analisar o cabimento da dedução de valores referentes a IPTU e fruição do imóvel; (v) definir o termo inicial de correção monetária e juros sobre os valores restituíveis.
+III. RAZÕES DE DECIDIR
+3. O descumprimento contratual por parte das rés, consubstanciado no não fornecimento da infraestrutura essencial do loteamento, configura inadimplemento que autoriza a resolução do contrato, nos termos da jurisprudência do STJ e dos princípios da função social do contrato e da boa-fé objetiva.
+4. Reconhecida a culpa exclusiva das rés, impõe-se a restituição integral das parcelas pagas, conforme preceitua a Súmula 543 do STJ, afastando-se a retenção de qualquer percentual, inclusive de valores relativos à comissão de corretagem, diante da ausência de contratação direta entre o cessionário e os intermediadores.
+5. A cláusula penal prevista unicamente para o inadimplemento do adquirente deve ser aplicada, por equidade, também em favor do consumidor, como parâmetro de indenização pelo inadimplemento do fornecedor, em respeito à boa-fé objetiva, função social do contrato e art. 47 do CDC.
+6. Caracterizado o dano moral decorrente da frustração do objeto contratual, revela-se adequado majorar a indenização para R$ 10.000,00, observando critérios de proporcionalidade e razoabilidade.
+7. É indevida a dedução de valores pagos a título de IPTU e fruição do imóvel, uma vez que o autor não exerceu posse útil em virtude da ausência de infraestrutura, não configurando uso econômico do bem.
+8. A restituição das parcelas deve ocorrer de forma imediata e em parcela única, sendo inaplicável a pretensão de parcelamento, conforme Súmula 543 do STJ.
+9. A correção monetária incide desde o desembolso de cada parcela, e os juros legais de 1% ao mês também devem incidir a partir do desembolso, conforme jurisprudência consolidada do STJ.
+IV. DISPOSITIVO E TESE
+10. Recursos parcialmente providos (e-STJ fls. 582-583).
+Embargos de declaração: opostos por MICHEL DE JESUS BORGES, foram parcialmente acolhidos para suprir a omissão quanto à aplicação da cláusula penal, condenando as rés ao pagamento de multa contratual em favor do autor, no importe de 10% (dez por cento) sobre o valor atualizado da causa; e para suprir a omissão relativa à majoração dos honorários advocatícios, fixando-os em 15% (quinze por cento) sobre o valor da condenação. Também opostos por JM EMPREENDIMENTOS IMOBILIARIOS LTDA e OUTRAS, foram parcialmente acolhidos para determinar que, quanto à restituição dos valores pagos pelo comprador, os juros de mora incidam somente a partir do trânsito em julgado da decisão.
+Recurso especial de MICHEL DE JESUS BORGES: sustenta que o Tema 1.002/STJ é inaplicável na espécie, uma vez que a rescisão contratual deu-se por culpa das vendedoras, e não por iniciativa do comprador. Defende que a incidência dos juros de mora a partir do trânsito em julgado ocorre exclusivamente nas hipóteses em que a resolução do contrato é pleiteada por iniciativa do promitente comprador.
+RELATADO O PROCESSO, DECIDE-SE.
+- Ausência de indicação do dispositivo legal
+O recorrente alega que o Tema 1.002/STJ é inaplicável na espécie, tendo em vista que a rescisão não teria se dado por iniciativa do comprador. Deixa de indicar, todavia, qual dispositivo legal foi violado pelo acórdão recorrido.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1.029, § 1º, do CPC e 255, §§ 1º e 2º, do RISTJ.
+Forte nessas razões, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados em desfavor do recorrente na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+DIREITO CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL C/C DEVOLUÇÃO DE QUANTIAS PAGAS E COMPENSAÇÃO DE DANOS MORAIS. INDICAÇÃO DO DISPOSITIVO LEGAL VIOLADO. AUSENTE. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação de rescisão contratual c/c devolução de quantias pagas e compensação de danos morais, em virtude de contrato de compra e venda de imóvel firmado entre as partes.
+2. O recurso especial não pode ser conhecido quando a indicação expressa do dispositivo legal violado está ausente.
+3. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+4. Recurso especial não conhecido.
