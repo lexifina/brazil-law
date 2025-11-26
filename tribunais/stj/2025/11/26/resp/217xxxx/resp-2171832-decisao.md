@@ -1,0 +1,57 @@
+DECISÃO
+Cuida-se de recurso especial interposto por FRUTÍCULA SPC COMÉRCIO, IMPORTAÇÃO E EXPORTAÇÃO LTDA - EIRELI, fundamentado nas alíneas a e c do permissivo constitucional, no intuito de reformar acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 900-904, e-STJ):
+AÇÃO DE COBRANÇA Compra e venda de mercadoria - Exportação e Importação Carregamento de frutas provindo da Itália Recebimento da mercadoria Questionamento a respeito da qualidade do produto Decisão que determinou a comprovação de notificação da vendedora a respeito na época dos fatos Sem demonstração Ônus que cumpria ao comprador - Sentença mantida.
+Recurso não provido.
+Opostos embargos de declaração, foram rejeitados nos termos dos acórdãos de fls. 914-918 e 1081-1084, e-STJ.
+Nas razões de recurso especial (fls. 920-967, e-STJ), aponta a parte recorrente ofensa aos seguintes dispositivos: caput e § único do art. 192, art. 371, incisos I e II do caput e incisos I e II do § único do art. 1.022 c.c. os incisos II, IV e VI do § 1º do art. 489, art. 1.025, todos do CPC; arts. 224, 244, 405, 406, 476 e 477 do CC.
+Sustenta, em síntese: negativa de prestação jurisdicional e fundamentação deficiente (arts. 1.022 e 489 do CPC); nulidade por documentos em língua estrangeira sem tradução juramentada (art. 192 do CPC e art. 224 do CC); exceção do contrato não cumprido e inadimplemento qualitativo na entrega dos kiwis cat. 1 (arts. 244, 476 e 477 do CC); aplicação da taxa SELIC como juros moratórios (art. 406 do CC), vedada a cumulação com correção monetária (Temas 99 e 112/STJ), além de afronta ao Tema 176/STJ; termo inicial dos juros de mora na citação (art. 405 do CC); e dissídio jurisprudencial específico sobre tais pontos.
+Contrarrazões apresentadas às fls. 1057-1074, e-STJ.
+Encaminhado os autos para reapreciação da decisão à luz da decisão proferida sob o regime de recursos repetitivos (fls. 1075-1076, e-STJ), o acórdão foi mantido pelo colegiado.
+Em juízo de admissibilidade (fls. 1106-1108, e-STJ), admitiu-se o recurso, ascendendo os autos a esta Corte.
+É o relatório. Decido.
+A irresignação procede em parte.
+1. A recorrente alega violação aos incisos I e II do § único do art. 1.022 c.c. os incisos II, IV e VI do § 1º do art. 489, art. 1.025, todos do CPC, sob o fundamento de que o acórdão recorrido deixou de analisar as alegações de: a. desembaraço aduaneiro de alhos importados em meados do ano de 2011 não tem nenhuma relação com os fatos e documentos produzidos nos autos; e b. inobservância da jurisprudência invocada pela recorrente em relação à aplicação da Taxa Selic para os consectários de mora diante da ausência de prévio acordo entre as partes, em observância artigo 406 do CC e aos Temas Repetitivos nº 99 e 112 do Superior Tribunal de Justiça, bem como o termo inicial de sua incidência por força da previsão do artigo 405 do mesmo diploma legal.
+1.1. Conforme se extrai do acórdão que julgou os embargos de declaração (fls. 914-918, e-STJ), o Tribunal estadual manifestou-se expressamente sobre os pontos tidos por omissos e contraditórios.
+Partindo-se de que a negociação havida entre as partes é incontroversa e que o deslinde da causa dependia da comprovação de que os produtos estavam contaminados com fungo, ônus do qual, segundo o acórdão, a recorrente não se desincumbiu, é evidente que a menção equivocada a outra negociação havida entre as partes não tem o condão de modificar o resultado do julgamento.
+Tem-se, assim, que a Corte de origem enfrentou as questões suscitadas, embora com resultado contrário ao pretendido pela recorrente.
+O mero inconformismo com a fundamentação adotada não configura vício de omissão ou contradição apto a ensejar a nulidade do julgado.
+Nesse sentido:
+AGRAVO INTERNO. RECURSO ESPECIAL. INDENIZAÇÃO. DANO MORAL. OMISSÃO. NÃO CONFIGURAÇÃO. INFORME PUBLICITÁRIO. INTUITO DIFAMATÓRIO. ATO ILÍCITO. DEVER DE INDENIZAR. RECONHECIMENTO. REVISÃO. IMPOSSIBILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA N.º 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL
+1. Não se reconhecem a omissão e negativa de prestação jurisdicional quando há o exame, de forma fundamentada, de todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte.
+2. A reanálise do entendimento de que caracterizado o dano moral indenizável, fundamentado nos fatos e provas dos autos, esbarra no óbice da Súmula n.º 7 do STJ.
+3. Não evidenciada a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.037.830/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 26/6/2023, DJe de 28/6/2023.)
+Neste ponto, portanto, o recurso especial não deve ser conhecido.
+1.2. Em relação aos índices de juros e atualização que devem incidir sobre o débito, dou por prejudico o argumento de negativa de prestação jurisdicional, pois abaixo será analisado o mérito da questão.
+2. No que tange à violação dos arts. 244, 371, 476 e 477 do CC e 192, caput, § único, e 371 do CPC, notadamente no que insiste na necessidade de tradução juramentada dos documentos estrangeiros e no acolhimento da tese de que se aplica ao caso a exceção do contrato não cumprido, o recurso também não comporta recebimento.
+2.1. Com efeito, quando a recorrente reconhece o negócio de compra e venda, restou totalmente desnecessária a tradução dos documentos apresentados pela recorrida para comprovar o negócio firmado entre as partes.
+Ademais, a recorrente não alegou que os documentos em língua estrangeira eram incompreensíveis, o que afasta a necessidade de tradução, conforme entendimento desta Corte:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. AÇÃO MONITÓRIA. DOCUMENTO REDIGIDO EM LÍNGUA ESTRANGEIRA DESACOMPANHADO DA RESPECTIVA TRADUÇÃO JURAMENTADA (ARTS. 162 E 192 DO CPC). TERMOS DE FÁCIL COMPREENSÃO. POSSIBILIDADE. ALTERAÇÃO. REEXAME. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Diante das circunstâncias do caso concreto, se o documento comprobatório do direito da parte contiver informações relevantes e de fácil compreensão, é possível o exame de documento redigido em língua estrangeira pelo juízo da instrução, mesmo que desacompanhado de tradução. Incidência da Súmula n. 83 do STJ.
+2. Rever o entendimento do tribunal de origem acerca da facilidade de compreensão de documento estrangeiro demanda o reexame do acervo fático-probatório dos autos, o que é vedado em recurso especial, ante a incidência do óbice da Súmula n. 7 do STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.474.819/MG, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 19/8/2024, DJe de 22/8/2024.)
+Portanto, incide a Súmula 83 do STJ, a qual estabelece que "não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida." Alias, "conforme jurisprudência pacífica desta Corte, o óbice da Súmula n. 83 do STJ aplica-se tanto aos recursos interpostos com fundamento em dissídio jurisprudencial, quanto aos amparados em violação de dispositivo de lei federal." (AgRg no AREsp n. 2.739.795/RJ, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 22/4/2025, DJEN de 29/4/2025.)
+2.2. Por sua vez, a presença da exceção do contrato não cumprido foi afastada pelo acórdão recorrido, sob o fundamento de que a recorrente não se desincumbiu do ônus de provar a contaminação das frutas por fungo.
+Derruir as conclusões contidas no decisum e acolher a pretensão recursal ensejaria o necessário revolvimento das provas constantes dos autos, providência vedada em sede de recurso especial, ante o óbice estabelecido pela Súmula 7/STJ.
+Mais uma vez, nesses ponto o recurso especial não pode ser conhecido.
+3. Por fim, alegou a recorrente a ofensa aos arts. 405 e 406 do CC, bem como do Tema 99 do STJ quando o acórdão afastou a pretensão de aplicar a taxa SELIC como índice de reajuste do valor da condenação, mantendo a correção monetária e os juros de mora de 1% ao mês, conforme fixado na sentença (fls. 797-799, e-STJ).
+Todavia, ao assim decidir, o Tribunal de origem contrariou jurisprudência pacífica do STJ, que entende que, quanto ao índice aplicável aos juros quando não forem convencionados ou quando o forem sem taxa estipulada, será aplicada a Selic, deduzida da atualização monetária.
+Aliás, em recente alteração do art. 406 do Código Civil, promovida pela Lei n. 14.905/2024, com início de produção dos efeitos no dia 27/8/2024 (60 dias após a data da publicação, ocorrida em 28/6/2024), foi incluído o § 1º que, na mesma linha do entendimento jurisprudencial do STF e do STJ, passou a prever, de forma expressa, que "os juros serão fixados de acordo com a taxa legal", que "corresponderá à taxa referencial do Sistema Especial de Liquidação e de Custódia (Selic), deduzido o índice de atualização monetária de que trata o parágrafo único do art. 389 deste Código".
+A propósito:
+DIREITO CIVIL. RECURSO ESPECIAL. JUROS E CORREÇÃO MONETÁRIA. APLICAÇÃO DA TAXA SELIC. RECURSO PROVIDO.
+I. CASO EM EXAME
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça do Estado de Santa Catarina em apelação nos autos de ação revisional de contrato bancário, que afastou a aplicação da taxa Selic e determinou a incidência de correção monetária pelo INPC e juros moratórios de 1% ao mês.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se, na ausência de convenção ou estipulação de taxa, os juros de mora devem ser substituídos pela taxa Selic, conforme a atual redação do art. 406 do Código Civil, sem cumulação com outro índice de correção monetária.
+III. RAZÕES DE DECIDIR
+3. A recente alteração do art. 406 do Código Civil, promovida pela Lei n. 14.905/2024, estabelece que os juros serão fixados de acordo com a taxa legal, que corresponde à taxa Selic, deduzido o índice de atualização monetária.
+4. A decisão do Tribunal de origem contraria a atual previsão legal e a jurisprudência do STJ, que determina a aplicação exclusiva da taxa Selic como índice substitutivo, sem cumulação com outro índice de correção monetária.
+IV. DISPOSITIVO E TESE
+5. Recurso provido para reformar o acórdão recorrido e determinar a aplicação exclusiva da taxa Selic como índice substitutivo.
+Tese de julgamento: "1. Na ausência de convenção ou estipulação de taxa, os juros de mora devem ser substituídos pela taxa Selic, conforme a atual redação do art. 406 do Código Civil. 2. A taxa Selic não deve ser cumulada com outro índice de correção monetária, pois já abrange a atualização monetária em sua incidência."
+(REsp n. 2.194.074/SC, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 24/3/2025, DJEN de 28/3/2025.)
+Nesse ponto, é o caso de acolher parcialmente a pretensão do recorrente, apenas para determinar que a atualização monetária observe o índice do art. 389, parágrafo único, do CC e os juros moratórios sejam calculados na forma estabelecida no art. 406, § 1º, do CC.
+4 . Do exposto, conheço parcialmente do recurso especial e, nessa extensão, dá-se parcial provimento, apenas para determinar que a atualização monetária observe o índice do art. 389, parágrafo único, do CC e os juros moratórios sejam calculados na forma estabelecida no art. 406, § 1º, do CC.
+EMENTA
