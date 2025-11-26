@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de embargos de declaração, opostos por RAFAEL PEREIRA LOBO, contra decisão de fls. 92-97, que negou provimento ao recurso em habeas corpus.
+Sustenta a parte embargante a existência de contradição no decisum ao argumento de que não postulou a extensão de habeas corpus concedidos pelo Tribunal local, mas sim a aplicação, por identidade de motivos, da própria decisão de primeiro grau que revogou as prisões preventivas de todos os corréus, com base no art. 580 do Código de Processo Penal (CPP).
+Argumenta que os corréus vinculados aos mesmos fatos 36 e 37 da denúncia tiveram expedição de alvarás de soltura e retirada de monitoramento eletrônico (ação penal nº 0023758-45.2023.8.16.0013, movimentos nº 2076, nº 2083 e nº 2086), o que evidenciaria identidade de situações fático-processuais.
+Afirma que pleiteou, portanto, a revogação da prisão preventiva por identidade de motivos, e não a extensão de decisões proferidas em habeas corpus distintos no Tribunal local.
+Requer o acolhimento dos embargos para sanar o apontado vício de contradição, com a consequente revogação da prisão preventiva por identidade de motivos.
+É o relatório.
+Embora não haja a contradição apontada pela defesa, uma vez que a decisão impugnada esclareceu devidamente o motivo pelo qual o ora embargante não deve se beneficiar dos efeitos da decisão de primeiro grau - a situação de foragido do réu.
+Nesse sentido, consta da decisão que indeferiu pedido de revogação da prisão preventiva (fls. 27-28):
+Não obstante o requerente alegue que não estão presentes os requisitos para a manutenção de sua prisão e que é merecedor da extensão dos efeitos da decisão que revogou a prisão dos coautores por se encontrar na mesma situação fático processual dos demais beneficiados, entendo que o ora requerente se encontra foragido, não havendo indicação de domicílio certo, sendo que o mandado de prisão expedido em seu desfavor até a presente data não foi cumprido. Diante disso, verifica-se a existência de elementos concretos que indicam maior gravidade da conduta, sendo a prisão necessária para a manutenção da ordem pública e para assegurar a aplicação da lei penal.
+ ..
+Nessas condições, não havendo alteração no panorama processual e fático, imperiosa a manutenção de sua segregação provisória, sem prejuízo de futura revogação na hipótese de comprovação do perecimento dos fundamentos da prisão preventiva.
+Presentes os fundamentos da prisão preventiva, resta evidenciada a impossibilidade de aplicação ou ineficácia da aplicação de qualquer das medidas cautelares diversas da prisão (CPP, art. 282, §6º). 3. Diante do exposto, indefiro o pedido de revogação da prisão preventiva"
+Verifica-se do extrato acima que o magistrado indeferiu o pedido de extensão dos efeitos da decisão que revogou a prisão dos coautores em razão de o embargante encontrar-se foragido, sem indicação de domicílio certo e com mandado de prisão expedido em seu favor até o momento não cumprido.
+Nesse contexto, a fuga do distrito da culpa configura justificativa válida para a manutenção da medida extrema: "Esta Corte Superior possui entendimento consolidado acerca da manutenção da custódia preventiva diante da periculosidade do acusado, evidenciada pela fuga no momento da abordagem, demonstrando total desinteresse na aplicação da lei penal" (HC n. 512.663/SP, Relator Min. RIBEIRO DANTAS, Quinta Turma, julgado em 06/08/2019, DJe 13/08/2019)" (AgRg no HC n. 822.136/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 30/5/2023, DJe de 5/6/2023).
+Assim, presentes os requisitos do art. 312, a imposição da prisão preventiva é medida de rigor, independentemente de condições pessoais favoráveis do agente, mostrando-se inadequadas medidas cautelares diversas do art. 319, quando a custódia provisória apresentar fundamentação concreta.
+Nesse sentido, " a  presença de condições pessoais favoráveis não impede a imposição da prisão preventiva, quando presentes os requisitos legais" (AgRg no HC n. 990.311/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/4/2025, DJEN de 30/4/2025).
+Ademais, "tendo sido exposta de forma fundamentada e concreta a necessidade da prisão, revela-se incabível sua substituição por outras medidas cautelares mais brandas" (AgRg no HC n. 965.960/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/3/2025, DJEN de 10/3/2025).
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
+Intimem-se.
+EMENTA
