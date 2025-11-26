@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DA PARAÍBA, fundado na alínea "a" do permissivo constitucional, contra acórdão assim ementado:
+ADMINISTRATIVO E PROCESSUAL CIVIL - Remessa necessária - Ação Anulatória de Débito Fiscal - ICMS - Empresa optante do regime de tributação do simples nacional - Levantamento financeiro do crédito tributário pela técnica de auditoria "Conta Mercadorias" - Impossibilidade - Sentença mantida - Desprovimento.
+- A técnica de auditoria "Conta Mercadorias", em consonância com o entendimento deste Tribunal de Justiça, não deve ser aplicada para a Fiscalização de empresas optantes do Simples Nacional, porquanto se afigura incompatível com a sistemática estabelecida pela LC nº123/06 (Estatuto Nacional da Microempresa e da Empresa de Pequeno Porte), que não permite a utilização da margem de lucro presumido para fins de constituição da presunção juris tantum de omissão de receitas.
+- A aplicação, na hipótese, da alíquota máxima estadual do ICMS em detrimento do maior percentual constante na alíquota do Simples Nacional, não se justifica, uma vez que, a Lei Complementar n. 123/2006 prevê, em seu art. 39, §2º, que, "no caso em que o contribuinte do Simples Nacional exerça atividades incluídas no campo de incidência do ICMS e do ISS e seja apurada omissão de receita de que não se consiga identificar a origem, a autuação será feita utilizando a maior alíquota prevista nesta Lei Complementar (..)".
+Nas razões recursais, o ente público aponta violação aos arts. 1.022 do Código de Processo Civil e 34 da Lei Complementar n. 123/2006.
+Sustenta, em síntese, que: (i) o acórdão recorrido é nulo, em razão da negativa de prestação jurisdicional; e (ii) a apuração de omissão de receitas pela técnica de auditoria aplicada à "Conta Mercadoria", prevista na legislação estadual, é igualmente aplicável às microempresas e às empresas de pequeno porte, por ser compatível com a LC n. 123/2006.
+Não foram apresentadas contrarrazões.
+O Tribunal de origem admitiu o recurso especial e determinou a remessa dos autos.
+Passo a decidir.
+Na origem, cuidam os autos de ação anulatória de débito fiscal.
+O magistrado de primeiro grau julgou o pedido procedente.
+Na sequência, o TJPB, ao examinar a remessa necessária, manteve a sentença com a seguinte fundamentação:
+No presente caso, conforme já relatado, o demandante ajuizou a presente demanda, objetivando a nulidade do crédito tributário consubstanciado no débito fiscal constituído no Processo Administrativo Fiscal nº 1363992017-1, sob o fundamento de que seria optante do Simples Nacional, não lhe sendo aplicável a técnica da Conta Mercadorias - Lucro Presumido.
+O contribuinte enquadrado como SIMPLES NACIONAL recolhe o tributo devido sobre o faturamento, conforme estabelece o art. 18, §3º, da Lei Complementar nº 123/06:
+ ..
+Assim, a técnica de auditoria "Conta Mercadorias", em consonância com o entendimento deste Tribunal de Justiça, não deve ser aplicada para a Fiscalização de empresas optantes do Simples Nacional, porquanto se afigura incompatível com a sistemática estabelecida pela LC nº123/06 (Estatuto Nacional da Microempresa e da Empresa de Pequeno Porte), que não permite a utilização da margem de lucro presumido para fins de constituição da presunção juris tantum de omissão de receitas.
+Confira-se o entendimento do nosso Tribunal de Justiça sobre o tema:
+ ..
+Não obstante, de acordo com o que se constata nos documentos apresentados (ID 27680168), a partir do auto de infração n. 93300008.09.00002092/2017-56, observa-se a utilização da referida técnica na apuração do crédito devido, de modo que correta a sentença ao desconstituir o débito tributário fiscal, em razão da incompatibilidade da referida técnica com a condição de optante do Simples Nacional.
+A aplicação, na hipótese, da alíquota máxima estadual do ICMS em detrimento do maior percentual constante na alíquota do Simples Nacional, não se justifica, uma vez que, a Lei Complementar n. 123/2006 prevê, em seu art. 39, §2º, que, "no caso em que o contribuinte do Simples Nacional exerça atividades incluídas no campo de incidência do ICMS e do ISS e seja apurada omissão de receita de que não se consiga identificar a origem, a autuação será feita utilizando a maior alíquota prevista nesta Lei Complementar (..)".
+Por último, ressalto que a Lei Complementar nº 123/06 é posterior ao RICMS/PB, além de dispor sobre matéria de conteúdo especial e, ainda, é hierarquicamente superior ao Regulamento. Sendo assim, deve a LC nº 123/06 prevalecer sobre o RICMS/PB, naquilo em que este se mostrar incompatível com a Lei.
+Pois bem.
+No capítulo relativo à alegada violação ao art. 1.022 do Código de Processo Civil, embora o recorrente sustente que o acórdão recorrido incorre em omissão, não especifica quais questões teriam deixado de ser devidamente apreciadas pelo Tribunal de origem, tampouco demonstra sua relevância para o desfecho da controvérsia. Tal deficiência de fundamentação atrai a incidência da Súmula 284 do Supremo Tribunal Federal.
+No que tange ao mérito recursal, o recurso especial igualmente não ultrapassa o juízo de admissibilidade.
+Isso porque o art. 34 da Lei Complementar n. 123/2006, ainda que mencionado nos embargos de declaração, não foi objeto de análise efetiva no acórdão recorrido, o que evidencia a ausência de prequestionamento, nos termos da Súmula 211 do Superior Tribunal de Justiça.
+Além disso, o fundamento adotado pelo Tribunal de origem  no sentido de que a aplicação da alíquota máxima do ICMS sobre a receita, supostamente omitida, afronta o art. 39, § 2º, da LC n. 123/2006  não foi especificamente combatido nas razões recursais, o que configura deficiência na impugnação, conforme entendimento consolidado na Súmula 283 do STF.
+Ante o exposto, NÃO CONHEÇO do recurso especial (art. 255, § 4º, I, do RISTJ).
+Considerando a existência de prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
