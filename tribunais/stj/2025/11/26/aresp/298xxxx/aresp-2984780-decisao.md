@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo SINDICATO DOS AGENTES COMUNITARIOS DE SAÚDE DO ESTADO DO RIO GRANDE DO SUL - SINDACS contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, que inadmitiu o recurso especial manejado em face de acórdão assim ementado (fl. 270):
+APELAÇÃO CÍVEL. SERVIDOR PÚBLICO MUNICIPAL. AÇÃO CIVIL PÚBLICA. MUNICÍPIO DE VANINI. AGENTES COMUNITÁRIOS DE SAÚDE. PISO SALARIAL. EMENDA CONSTITUCIONAL Nº 120/2022. LEI MUNICIPAL Nº 1.920/2022.
+1. A Lei Municipal nº 1.566/22, editada em 19/07/2022, fixou o vencimento básico do cargo de Agente Comunitário de Saúde do Município de Vanini em R$ 2.424,00, equivalente a dois salários mínimos da época, em cumprimento ao piso nacional estabelecido pela EC nº 120/2022, com efeitos retroativos a 06/05/2022.
+2. Tendo em vista que o Sindicato autor não se desincumbiu do ônus que lhe competia (art. 373, inciso I, do CPC), alegando genericamente que o piso não foi implementado de forma integral e que os valores atrasados não sofreram atualização, sem a devida demonstração, o julgamento de improcedência da ação era solução que se impunha.
+APELO DESPROVIDO.
+Os embargos de declaração opostos foram desacolhidos (fls. 342-345).
+Nas razões do recurso especial (fls. 354-366), interposto com base no art. 105, inciso III, alíneas a e c, da Constituição Federal, a parte agravante aponta, além de divergência jurisprudencial, violação dos arts. 98, 99, caput, §§ 1º, 2º e 7º, e 101, § 1º, do Código de Processo Civil, dos arts. 1º e 5º da Lei n. 1.060/1950 e do art. 5º, inciso LXXIV, da Constituição Federal, sustentando que:
+A questão da gratuidade judiciária, portanto, foi suficientemente enfrentada, consequentemente prequestionada a matéria e preenchido tal requisito para o trânsito do presente recurso, portanto.
+ ..
+Os Nobres Desembargadores Estaduais, no julgamento do acórdão vergastado, deixaram de aplicar a Lei da AJG e o Código de Processo Civil vigente no que tange à questão da hipossuficiência econômica da parte demandada, ora recorrente. Negaram vigência aos artigos 1º e 5º da Lei 1.060/50 artigo 98 do Novo Código de Processo Civil - 13.105/20015, bem como ao artigo 99, caput, §1º e 2º, também do CPC/2015, portanto.
+ ..
+A gratuidade de justiça pleiteada encontra fundamento no art. 5º, LXXIV, da Constituição Federal, que assegura o direito à assistência jurídica gratuita àqueles que comprovem insuficiência de recursos.
+ ..
+ ..  a concessão do benefício da assistência Judiciária Gratuita busca tutela aos direitos do profissional, já que os substituídos não possuem rendimentos que possam dispor a cobrir encargos judiciais sob a pena de preterir mantença familiar, tudo conforme previsão nas Leis n.º 7.510/1986, 1.060/1950 e 5.584/1970 c/c o entendimento constante na Súmula nº 219, item III, do TST.
+Reitera-se, o recorrido é entidade sindical que possui a função social de representar em juízo os trabalhadores hipossuficientes, conforme expressamente consignado no art. 14 da Lei nº 5.584/70. Indeferir essa pretensão, implicaria tolher o acesso do sindicato ao Poder Judiciário, o que não pode ser admitido, diante do soberano preceito constitucional do livre acesso à justiça.
+Em face do exposto, resta comprovada a hipossuficiência econômica do Sindicato e a necessidade de deferimento do pedido de gratuidade de justiça. A presente manifestação reitera o pleito formulado em sede recursal, requerendo seja reformada a decisão que indeferiu o benefício, deferindo-se o direito à assistência judiciária gratuita, com a consequente dispensa do pagamento das custas processuais e demais despesas, por medida de JUSTIÇA.
+Diante da renda comprovada nos autos, máxima vênia, os supramencionados artigos de Lei deveriam ter sido aplicados pelos Colendos Julgadores diante da evidente carência financeira da parte demandada. E não foram.
+Ao final, requer o provimento do recurso especial.
+Sem contrarrazões (fl. 423), o recurso foi inadmitido na origem (fls. 426-429).
+Às fls. 468-470, o Ministério Público Federal opina pelo conhecimento do agravo para não conhecer do recurso especial.
+É o relatório.
+Decido.
+Preenchidos os pressupostos para o conhecimento do agravo, prossegue-se na análise do recurso especial.
+A irresignação não merece conhecimento.
+De início, observa-se que a via do recurso especial, destinada a uniformizar a interpretação do direito federal infraconstitucional, não se presta à análise da alegação de ofensa a dispositivo da Constituição da República. Confira-se: AgInt no AREsp n. 2.298.562/PR, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 4/12/2023, DJe de 11/12/2023; AgInt no AREsp n. 2.085.690/PR, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 13/11/2023, DJe de 17/11/2023. Desse modo, não merece ser conhecido o recurso quanto à alegada ofensa do art. 5º da Constituição Federal.
+Com relação aos artigos legais considerados violados, verifica-se que o Tribunal de origem, apesar da oposição de embargos de declaração, não apreciou o pedido de gratuidade da justiça, motivo pelo qual está ausente o necessário prequestionamento, nos termos da Súmula n. 211 do STJ.
+Além disso, o recurso especial não trouxe a alegação de afronta do art. 1.022 do Código de Processo Civil, a fim de que fosse constatada a eventual omissão por parte da Corte de origem, indispensável, inclusive, para fins de configuração do prequestionamento ficto de matéria estritamente de direito, nos termos do art. 1025 do Estatuto Processual. A propósito:
+PROCESSUAL CIVIL. ADMINISTRATIVO. RESERVA DE VAGAS. AVALIAÇÃO DE HETEROIDENTIFICAÇÃO. MANDADO DE SEGURANÇA. VIA INADEQUADA À IMPUGNAÇÃO. DEFICIÊNCIA RECURSAL. AUSÊNCIA DE PREQUESTIONAMENTO. DIVERGÊNCIA NÃO COMPROVADA. INCIDÊNCIA DA SÚMULA N. 283/STF. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+ ..
+V - Lado outro, por simples cotejo entre as razões do recurso especial e os fundamentos do acórdão recorrido, observa-se que a tese recursal, contida no art. 50, III, da Lei n. 9.784/1999, nem sequer implicitamente foi apreciada pelo Tribunal de origem, não obstante terem sido opostos embargos de declaração, para tal fim.
+VI - Por essa razão, à falta do indispensável prequestionamento, não pode ser conhecido o recurso especial, no ponto, incidindo o teor da Súmula n. 211 do STJ ("inadmissível recurso especial quanto à questão que, a despeito da oposição dos embargos declaratórios, não foi apreciado pelo Tribunal a quo"). Nesse sentido: AgInt no AREsp n. 1.172.051/SP, relator Ministro Ricardo Villas Vôas Cueva, Terceira Turma, DJe de 23/3/2018).
+VII - Acrescente-se que, se a parte recorrente entendesse persistir algum vício no acórdão impugnado, imprescindível a alegação de violação do art. 1.022 do CPC, por ocasião da interposição do recurso especial, sob pena de incidir no intransponível óbice da ausência de prequestionamento. Assim, à mingua de prequestionamento, inviável a apreciação da aludida tese recursal.
+ ..
+X - Agravo interno improvido.
+(AgInt no REsp 2.113.842, relator Ministro Francisco Falcão, Segunda Turma, julgado em 27/5/2024, DJe 29/5/2024.)
+Ora, essa tese não foi suscitada pela parte recorrente no momento oportuno, constituindo inovação ocorrida na oposição dos embargos de declaração. Portanto, inexiste omissão em razão de o Tribunal de origem não ter sobre ela se manifestado.
+Além disso, por essa razão, o tema carece do necessário prequestionamento, nos termos da Súmula n. 211 do STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"). Nesse sentido: AgInt no AREsp n. 2.160.959/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 9/10/2023, DJe de 16/10/2023; AgInt no REsp n. 1.366.628/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 26/6/2023, REPDJe de 04/09/2023, DJe de 30/6/2023.
+Por fim, quanto à divergência jurisprudencial, de se registrar que a análise do dissídio fica prejudicada em razão da aplicação da Súmula n. 211 do STJ, vez que também pressupõe o regular prequestionamento da controvérsia. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. DISSÍDIO. NÃO INDICAÇÃO DO DISPOSITIVO LEGAL COM INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE PREQUESTIONAMENTO DO TEMA. INVIABILIDADE. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO.
+ ..
+8. A ausência de prequestionamento do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da CRFB. Precedentes.
+ ..
+10. Agravo interno não provido.
+(AgInt no AREsp n. 2.771.260/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 7/4/2025, DJEN 10/4/2025.)
+Ante o exposto, com fulcro no art. 253, parágrafo único, inciso II, alínea a, do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Advirto as partes, desde logo, de que a eventual interposição de agravo interno, declarado manifestamente inadmissível ou improcedente, ou de embargos de declaração, manifestamente protelatórios, poderá ensejar a aplicação de multa, nos termos, respectivamente, do § 4º, e do § 2º, ambos do Código de Processo art. 1.021, art. 1.026, Civil.
+Em atenção ao disposto no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado (fl. 269), respeitados os limites estabelecidos nos §§ 2º e 3º d o mesmo artigo, bem como eventual concessão da gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO MUNICIPAL. PISO SALARIAL IMPLEMENTADO. VIOLAÇÃO DE DISPOSITIVO DA CONSTITUIÇÃO. INADEQUAÇÃO DA VIA ELEITA. CONTEÚDO NORMATIVO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 211 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
