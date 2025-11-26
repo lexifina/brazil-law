@@ -1,0 +1,44 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por MARAZUL NEGÓCIOS IMOBILIÁRIOS LTDA., contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em Recurso especial interposto em: 18/10/2024.
+Concluso ao gabinete em: 17/9/2025.
+Ação: cobrança, em fase de cumprimento de sentença, ajuizada por CONDOMÍNIO TURÍSTICO DE GUARAPARI, em face de MARCELO SILVEIRA NETTO.
+Decisão interlocutória: indeferiu a substituição do executado MARCELO SILVEIRA NETTO pela parte agravante MARAZUL NEGÓCIOS IMOBILIÁRIOS LTDA., uma vez que não participou da fase de conhecimento do processo, violando o disposto no art. 779 do CPC.
+Acórdão: deu provimento ao Agravo de Instrumento interposto por CONDOMÍNIO TURÍSTICO DE GUARAPARI, nos termos da seguinte ementa:
+"AGRAVO DE INSTRUMENTO - AÇÃO DE COBRANÇA EM FASE DE CUMPRIMENTO DE SENTENÇA - DÍVIDAS CONDOMINIAIS - OBRIGAÇÃO PROPTER REM - PREVISÃO NO EDITAL DO LEILÃO - RESPONSABILIDADE DO ARREMATANTE - VIOLAÇÃO À COISA JULGADA - NÃO OCORRÊNCIA - RECURSO PROVIDO.
+1. Trata-se de cumprimento de sentença ajuizado pelo Agravante em face do antigo proprietário do imóvel objetivando o recebimento dos débitos condominiais, já reconhecidos em sentença. Todavia, no curso da demanda, o bem foi levado à hasta pública em outro processo, sendo adquirido pela ora Agravada.
+2. Não obstante a referida empresa não tenha participado da fase de conhecimento, a adquirente é parte legítima para figurar no polo passivo do cumprimento de sentença, sendo este o recente posicionamento adotado pelas Terceira e Quarta Turmas do Superior Tribunal de Justiça.
+3. A obrigação de pagamento das taxas condominiais possui natureza propter rem, razão pela qual deve ser exigida de quem consta na matrícula do imóvel como seu proprietário.
+4. Entende-se, portanto, que a obrigação condominial é dotada de ambulatoriedade, conforme disposto no art. 1.345 do CC, in verbis: "o adquirente de unidade responde pelos débitos do alienante, em relação ao condomínio, inclusive multa e juros moratórios".
+5. Entendeu o Superior Tribunal de Justiça que a medida não viola a Coisa Julgada, o Contraditório e a Ampla Defesa, vez que, se o próprio imóvel gerador das despesas constitui garantia ao pagamento da dívida, o proprietário do imóvel pode ter seu bem penhorado no bojo de ação de cobrança, já em fase de cumprimento de sentença, mesmo que não tenha figurado no polo passivo da fase de conhecimento.
+6. Especificamente sobre o instituto da coisa julgada, é possível que seus efeitos afetem terceiros que não participaram de sua formação, como ocorre, exatamente, na hipótese de alienação da coisa ou do direito litigioso, havendo previsão expressa no novo Código de Processo Civil, em seu art. 109, § 3º: "estendem-se os efeitos da sentença proferida entre as partes originárias ao adquirente ou cessionário".
+7. Recurso conhecido e provido." (e-STJ fls. 2985-2986)
+Embargos de Declaração: opostos, por MARAZUL NEGÓCIOS IMOBILIÁRIOS LTDA., foram rejeitados.
+Recurso especial: alega violação dos arts. 489, II, § 1º, IV, V, VI, 908, § 1º, 1.022, II, CPC, 1.345, CC, bem como dissídio jurisprudencial. Além de negativa de prestação jurisdicional, sustenta que: i) o TJ/ES não tratou em nenhum momento da questão de que, no caso de adjudicação ou alienação, os créditos que recaem sobre o bem, inclusive os de natureza propter rem, sub-rogam-se sobre o respectivo preço, observada a ordem de preferência, conforme art. 908, § 1º, CPC; e, ii) não se permite a substituição processual na fase de cumprimento de sentença, uma vez que no caso de adjudicação ou alienação, os créditos que recaem sobre o bem, inclusive os de natureza propter rem, sub- rogam-se sobre o respectivo preço, observada a ordem de preferência; e, iii) a parte recorrente é terceira de boa-fé e a arrematação é forma originária de aquisição, devendo o bem, portanto, integrar o patrimônio dela livre e desembaraçado de quaisquer ônus; e, iv) em se tratando de créditos anteriores à perfectibilização da arrematação do imóvel, recai a responsabilidade pelo débito sobre o anterior proprietário (MARCELO SILVEIRA NETTO), sendo a parte recorrente, arrematante, (MARAZUL NEGÓCIOS IMOBILIÁRIOS LTDA.) ilegítima para figurar no polo passivo da presente ação de cobrança ajuizada em 25/08/2011, por dizer respeito a débitos constituídos e vencidos antes da arrematação 18/08/2021.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, Terceira Turma, DJe de 2/2/2018 e AgInt no AREsp 1.089.677/AM, Quarta Turma, DJe de 16/2/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca da obrigação da parte agravante em responder pelo débito, porque, inclusive, previsto em edital, bem como acerca do exame pelo juízo da execução do valor pago pela arrematação, de maneira que os embargos de declaração opostos pela parte recorrente, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da violação do art. 489 do CPC
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+- Da fundamentação deficiente
+Os argumentos invocados pela parte agravante não demonstram como o acórdão recorrido violou o art. 1.345, CC, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere ao fato de que "relativamente ao repasse do montante de R$ 120.206,09 pelo juízo da arrematação do imóvel para a conta judicial vinculada ao cumprimento de sentença originário (processo nº 0007586- 46.2011.8.08.0021), tal questão não influencia na legitimidade passiva da parte agravante, motivo pelo qual a suficiência do valor penhorado nos autos em que realizada arrematação (processo nº 0009834-39.2012.8.08.0024) e repassado ao juízo de origem para saldar o débito executado deve ser objeto de análise pelo Juízo da Execução", bem como de que "o edital de praça previu expressamente a existência de débitos condominiais do imóvel, tendo a parte agravante plena ciência da matéria, devendo, portanto, responder pela obrigação", exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1.029, § 1º do CPC/2015 e 255, § 1º, do RISTJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CUMPRIMENTO DE SENTENÇA. AGRAVO DE INSTRUMENTO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação de cobrança.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+5. O reexame de fatos e provas em recurso especial é inadmissível.
+6. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+7. Agravo conhecido. Recurso especial conhecido em parte e, nessa extensão, não provido.
