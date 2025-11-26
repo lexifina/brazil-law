@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por RIO METALÚRGICA S.A. contra decisão que inadmitiu seu recurso especial, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo eg. Tribunal de Justiça do Estado de Santa Catarina, assim ementado:
+"AGRAVO DE INSTRUMENTO. FALÊNCIA. HABILITAÇÃO DE CRÉDITO. SENTENÇA DE IMPROCEDÊNCIA. RECONHECIMENTO DA DECADÊNCIA. INSURGÊNCIA DO REQUERENTE. TRÂNSITO EM JULGADO DA SENTENÇA QUE RECONHECEU O CRÉDITO, POSTERIOR À ENTRADA EM VIGOR DA LEI N. 14.112/2020. IRRELEVÂNCIA. POSSIBILIDADE DE RESERVA MESMO ANTES DO TRÂNSITO EM JULGADO DA SENTENÇA, QUE APENAS RECONHECE O CRÉDITO. TERMO INICIAL DO PRAZO DECADENCIAL DE 3 ANOS (ART. 10, §1º DA LEI N. 11.101/2005) A CONTAR DA VIGÊNCIA DA LEI N. 14.112/2020. DECRETO DE FALÊNCIA PROFERIDO ANTES DA LEI. PRECEDENTES. DECISÃO ESCORREITA. RECURSO CONHECIDO E DESPROVIDO." (e-STJ, fls. 55)
+Os embargos de declaração foram rejeitados (e-STJ, fls. 80-81).
+Em seu recurso especial, o recorrente alega violação dos seguintes dispositivos da legislação federal, com as respectivas teses:
+(i) art. 1.022 do Código de Processo Civil, pois teria havido omissão quanto ao enfrentamento da aplicabilidade conjunta do art. 6º, § 1º, e do art. 10, § 10, da Lei 11.101/2005 para definir o termo inicial da decadência, caracterizando negativa de prestação jurisdicional.
+(ii) art. 10, § 10, da Lei 11.101/2005, pois o termo inicial da decadência para habilitação retardatária deveria ser o trânsito em julgado da decisão que constitui o crédito, e não a decretação da falência ou a vigência da Lei 14.112/2020, já que antes disso o crédito seria ilíquido ou inexistente como título executivo.
+(iii) art. 6º, § 1º, da Lei 11.101/2005, pois, ao permitir o prosseguimento de ações de quantias ilíquidas após a falência, o dispositivo indicaria que o prazo decadencial não deveria correr antes da liquidação e do trânsito em julgado, sob pena de impor ônus desproporcional ao credor e inviabilizar a habilitação.
+Não foram ofertadas contrarrazões.
+O recurso especial foi inadmitido na origem, dando ensejo à interposição do presente agravo.
+É o relatório. Passo a fundamentar e decidir.
+O recurso não merece prosperar.
+Inicialmente, rejeita-se a alegada violação aos arts. 489, § 1º, V, e 1.022, ambos do Código de Processo Civil, uma vez que o Tribunal de origem analisou os pontos essenciais ao deslinde da controvérsia, dando-lhes robusta e devida fundamentação.
+Sobre esse ponto, impende salientar que a remansosa jurisprudência desta eg. Corte é no sentido de que não há omissão, contradição ou obscuridade no julgado quando se resolve a controvérsia de maneira sólida e fundamentada e apenas se deixa de adotar a tese do embargante. Nesse sentido, destacam-se os recentes julgados:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. IMPENHORABILIDADE DO BEM DE FAMÍLIA. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA. DOCUMENTOS JUNTADOS AOS AUTOS. AFASTAMENTO DAS CONCLUSÕES. REEXAME FÁTICO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Não há ofensa aos arts. 1.022, parágrafo único, I e II, e 489, § 1º do CPC, quando o tribunal de origem decide, de modo claro, objetivo e fundamentado, as questões essenciais ao deslinde da controvérsia, embora sem acolher a tese do insurgente.
+(..)
+7. Agravo interno desprovido."
+(AgInt no REsp n. 2.038.626/PR, relator MINISTRO JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 12/2/2025, DJEN de 17/2/2025, g.n.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA REQUERENTE.
+1. As questões postas à discussão foram dirimidas pelo órgão julgador de forma suficientemente ampla, fundamentada e sem omissões, portanto, deve ser afastada a alegada violação aos artigos 489 e 1.022 do CPC/15. Precedentes.
+(..)
+3. Agravo interno desprovido."
+(AgInt no AREsp n. 2.508.561/SP, relator MINISTRO MARCO BUZZI, Quarta Turma, julgado em 31/3/2025, DJEN de 4/4/2025, g.n.)
+No caso em testilha, acerca do prazo decadencial para habilitação retardatária e do termo a quo de contagem do prazo, o Tribunal de origem se manifestou no seguinte sentido (fls. 52-53):
+"Observa-se que a parte interessada pode habilitar seu crédito na falência, de forma retardatária, no prazo decadencial de 3 (três) anos, prazo esse, inserido pela Lei n. 14.112/2020, que se inicia na data da publicação da sentença que decretar a falência da empresa. Esse é o critério objetivo exigido do interessado na habilitação a ser respeitado, não havendo na lei de regência qualquer escusa de demora na prolação de títulos judiciais ou condicionantes voltadas à reabertura do prazo.
+Abstrai-se dos autos, contudo, que a falência envolvendo as empresas agravadas foi decretada antes da entrada em vigor da lei reformadora, sobressaindo, assim, dúvidas quanto ao início da contagem do prazo: se da sentença de quebra ou da publicação da Lei n. 14.112/2020. Firmou-se, assim, entendimento jurisprudencial de que deveria se dar da data da publicação da lei reformadora. Nesse sentido:
+(..)
+Por conta desses parâmetros, sendo que lei revogadora entrou em vigência em 27-1-2021 e a data do ajuizamento do pedido de habilitação de crédito se deu em 19-3-2024, ultrapassado o prazo de 3 (três) anos dado pela lei como decadencial para se valer o recorrente em judicializar sua pretensão.
+Oportuno destacar que o fato do crédito ser ilíquido no momento da entrada em vigor da Lei n. 14.112/2020, eis que ainda pendia de trânsito em julgado, em nada altera a conclusão exarada. Isso porque a decadência atinge não somente os pedidos de habilitação como também os de reserva de crédito. Nestes termos, " ..  ainda que não houvesse liquidez no crédito epigrafado, isto, é, ainda que ao tempo da publicação da sentença de falência, estivesse em discussão na Justiça especializada o crédito em si, melhor sorte não assistiria ao titular para evitar a incidência da decadência no caso. Isso porque o art. 10, § 10, da Lei 11.101/2005 prevê a extinção pelo decurso do prazo trienal não somente do direto de habilitar o crédito, mas também do direito de reservar o crédito. A reserva do crédito na falência se presta justamente a prevenir situações de créditos ilíquidos ou ainda incertos, de modo a evitar que, uma vez liquidados ou certificados, restassem inadimplidos. Cuida-se, sem dúvida, de aplicação do conhecido brocardo latino segundo o qual dormientibus non succurrit jus (O Direito não socorre aos que dormem)." (TJCE. Habilitação de crédito n. 0211488-83.2024.8.06.0001. 1ª Vara Empresarial, de Recuperação de Empresas e de Falências do Estado do Ceará do Tribunal de Justiça do Ceará. Sentença proferida em 26.06.2024)."
+A leitura da decisão recorrida revela que não houve violação aos artigos 10, § 10, e 6º, § 1º, da Lei 11.101/2005, uma vez que o acórdão adotou o entendimento desta Corte Superior sobre a questão em debate.
+Sobre o tema, cumpre destacar que, com as alterações na Lei 11.101/2025 trazidas pela Lei 14.112/2020, as habilitações de crédito nas falências devem ser realizadas no prazo de até 3 anos da data em que decretada a quebra, sob pena de decadência, nos termos do art. 10, § 10, da Lei 11.101/2005.
+O art. 5º, caput, da Lei 14.112/2020 determina que a lei incida sobre os processos pendentes, de forma que o direito ao pedido de habilitação de crédito poderia perecer com a entrada da nova lei, caso a quebra tenha sido determinada antes da vigência da mencionada lei.
+Assim, no caso das falências decretadas antes da vigência da Lei nº 14.112/2020, o prazo a que alude o artigo 10, § 10, da Lei nº 11.101/2005, deve ter como termo inicial a data de entrada em vigor da Lei nº 14.112, isto é, 23.1.2021.
+Nesse sentido:
+"RECURSO ESPECIAL. EMPRESARIAL. FALÊNCIA. HABILITAÇÃO DE CRÉDITO. DECADÊNCIA. PRAZO TRIENAL. TERMO INICIAL. INTELIGÊNCIA DO ARTIGO 10, § 10, DA LEI Nº 11.101/2005.
+1. A questão controvertida resume-se a definir qual o termo inicial do prazo trienal para habilitação de crédito nas hipóteses em que a falência foi decretada antes da vigência da Lei nº 14.112/2020.
+2. Antes das alterações promovidas na Lei de Falência em 2020, era possível promover a habilitação retardatária do crédito até o encerramento da recuperação judicial ou da falência.
+3. A Lei nº 14.112/2020 introduziu o artigo 10, § 10, na Lei nº 11.101/2005, o qual estabeleceu o prazo de 3 (três) anos, a contar da data em que decretada a quebra, para o ajuizamento das habilitações e pedidos de reserva de crédito, sob pena de decadência.
+4. No caso das falências decretadas antes da vigência da Lei nº 14.112/2020, o prazo a que alude o artigo 10, § 10, da Lei nº 11.101/2005 deve ter como termo inicial a data de entrada em vigor da Lei nº 14.112/2020.
+5. Recurso especial provido"
+(REsp n. 2.110.265/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/9/2024, DJe de 27/9/2024.)
+No caso, como o pedido de habilitação ocorreu em 05/02/2024, verifica-se que transcorrido o prazo decadencial, de modo que de rigor o reconhecimento da decadência.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
