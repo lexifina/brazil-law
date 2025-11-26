@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interno interposto pelas SENDAS DISTRIBUIDORA S.A. contra decisão da Presidência desta Corte que não conheceu do agravo em recurso especial em razão da ausência de impugnação especificada dos fundamentos da decisão de prelibação.
+A parte agravante alega, como questão de ordem, a necessidade de aguardar-se o julgamento dos recursos especiais submetidos à sistemática dos repetitivos que devem apreciar a controvérsia submetida a julgamento pelo presente recurso especial.
+No mérito, defende a impugnação especificada dos fundamentos da decisão de prelibação, especialmente a aplicação do óbice da Súmula 282 do STJ.
+Passo a decidir.
+A Primeira Seção, por meio de acórdão publicado em 18/8/2025, decidiu submeter à sistemática dos recursos repetitivos o julgamento da seguinte controvérsia jurídica: "determinar se a cobrança do ICMS-DIFAL nas operações interestaduais destinadas a consumidor final contribuinte do imposto estava devidamente regulamentada pela Lei Complementar n. 87/1996 (Lei Kandir), antes da entrada em vigor da Lei Complementar n. 190/2022", cadastrada como Tema 1.369 do STJ.
+Foram selecionados como representativos os Recursos Especiais 2025997/DF e 2133933/DF, os dois sob a relatoria do eminente Ministro Afrânio Vilela.
+Na mesma ocasião, o Colegiado determinou a suspensão do processamento de todos os processos, individuais ou coletivos, que tratem da mesma matéria, desde que tenham sido objeto de interposição de recurso especial ou de agravo em recurso especial na segunda instância, ou que estejam em tramitação no Superior Tribunal de Justiça.
+Encontrando-se o tema afetado à sistemática dos repetitivos, esta Corte Superior orienta que os recursos que tratam da mesma controvérsia devem aguardar o julgamento do paradigma representativo no Tribunal de origem, viabilizando, assim, o juízo de conformação disciplinado pelo art. 1.040 do CPC.
+A esse respeito, confiram-se os seguintes precedentes: EDcl no REsp 1456224/MS, relator Ministro Humberto Martins, Segunda Turma, DJe de 5/2/2016; AgRg no AgRg no AREsp 552103/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe de 28/11/2014; e AgRg no AREsp 153829/PI, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 23/5/2012. Nesse mesmo sentido, as seguintes decisões monocráticas: REsp 1588019/GO, relatora Ministra Regina Helena Costa, DJe de 17/3/2016; e REsp 1533443/RS, relator Ministro Benedito Gonçalves, DJe de 17/3/2016.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que os autos poderão ser encaminhados para esta Corte Superior, para que aqui possam ser analisadas as questões jurídicas suscitadas por ambas as partes e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Ante o exposto:
+(i) RECONSIDERO a decisão da Presidência de e-STJ fls. 947/948, tornando-a sem efeitos;
+(ii) DETERMINO a devolução dos autos à Corte de origem, com a respectiva baixa, para que, após a publicação do acórdão a ser proferido no regime dos recursos repetitivos (Tema 1.369 do STJ), em observância ao art. 1.040 do CPC: a) negue seguimento ao recurso, se a decisão recorrida coincidir com a orientação emanada pelo STJ; ou b) proceda ao juízo de retratação, na hipótese de o acórdão vergastado divergir da decisão sobre o tema repetitivo.
+Publique-se. Intimem-se.
+EMENTA
