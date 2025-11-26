@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de JORGE IVANES BUTZKE contra acórdão da 7ª Câmara Criminal do Tribunal de Justiça do Rio Grande do Sul, na Apelação n. 5000197-76.2015.8.21.0164/RS.
+Em seu arrazoado, o impetrante alega que a condenação do paciente foi baseada unicamente em reconhecimento realizado na fase inquisitorial que não seguiu as formalidades do art. 226 do Código de Processo Penal.
+Requer que seja reconhecida a ilegalidade do reconhecimento e a anulação de todas as provas que dele derivaram.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade que autorize a concessão da ordem de ofício.
+Em julgados recentes, ambas as Turmas que compõe a Terceira Seção deste Superior Tribunal de Justiça alinharam a compreensão de que "o reconhecimento de pessoa, presencialmente ou por fotografia, realizado na fase do inquérito policial, apenas é apto, para identificar o réu e fixar a autoria delitiva, quando observadas as formalidades previstas no art. 226 do Código de Processo Penal e quando corroborado por outras provas colhidas na fase judicial, sob o crivo do contraditório e da ampla defesa" (HC 652.284/SC, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/04/2021, DJe 03/05/2021).
+Segundo se observa do acórdão a quo, a Corte estadual afastou a apontada nulidade decorrente da inobservância ao art. 226 do Código de Processo Penal, salientando, ainda, que o édito condenatório foi baseado em outros elementos de prova desassociados do reconhecimento. Consoante exposto no acórdão, " a nódina a alegação de violação às recomendações contidas na precitada norma, pois apreendida parte da res (sapato da marca West Coast) na residência de Jorge e o telefone celular nº 51-84346008 - IME135353702111060 na residência de Adriano, telefone esse que era monitorado pelos agentes policiais em operação diversa, que demonstrou, através da localização por meio da Estação Rádio Base - ERB de Três Coroas, a sua utilização nos dias 11 e 12 de maio de 2015, local em que ocorreu o roubo." (e-STJ, fl. 12).
+Verifica-se, assim, que, ainda que tivessem sido desobedecidas as formalidades do art. 226 do Código de Processo Penal, é indubitável a autoria delitiva do paciente, em cuja residência foram encontrados os sapatos e outros bens subtraídos.
+Dentro desse contexto, não há ilegalidade a ser reconhecida na espécie.
+Diante do exposto, não conheço do habeas corpus.
+Publique-se. Intime-se.
+EMENTA
