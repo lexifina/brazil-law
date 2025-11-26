@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto por PORTUS INSTITUTO DE SEGURIDADE SOCIAL, com fundamento na alínea "a" do permissivo constitucional, em face de acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 28/34, e-STJ):
+Agravo de instrumento - Ação revisional de suplementação de pensão por morte - Contrato de previdência privada - Cumprimento de sentença - Pedido de suspensão da execução em razão da intervenção federal - Indeferimento da suspensão do cumprimento de sentença - Decisão mantida.
+Não há o que tirar ou acrescentar à fundamentação do que foi decidido quanto ao inconformismo da agravante com a r. decisão agravada que rejeitou à tese oferecida pela executada de suspensão da demanda em razão da intervenção federal e manteve o prosseguimento da execução.
+Agravo desprovido.
+Nas razões do recurso especial (fls. 36/48, e-STJ), a recorrente aponta violação dos artigos 6º da Lei 6.024/74, 45 e 62, da Lei Complementar n. 109/01, diante da necessidade de suspensão das ações por se encontrar a entidade de previdência sob intervenção federal.
+Contrarrazões às fls. 51/53, e-STJ.
+É o relatório.
+Decide-se.
+A irresignação não merece prosperar.
+1. Conforme registrado em julgamento realizado no âmbito desta Quarta Turma, a PORTUS celebrou acordo, intermediado pela Câmara de Conciliação da Administração Federal (CCAF) da AGU, que pôs fim à situação de insolvência e permitiu a manutenção dos beneficiários no único plano de complementação de aposentadoria administrado pela PORTUS.
+Confira-se a ementa do referido julgado:
+AGRAVO INTERNO. PREVIDÊNCIA COMPLEMENTAR. PROCESSUAL CIVIL. PLANO DE BENEFÍCIOS DA ENTIDADE PORTUS. INTERVENÇÃO E LIQUIDAÇÃO DE ENTIDADE DE PREVIDÊNCIA COMPLEMENTAR. INSTITUTOS DIVERSOS. A DECRETAÇÃO DA LIQUIDAÇÃO EXTRAJUDICIAL DA ENTIDADE DE PREVIDÊNCIA PRIVADA OU DE PLANO DE BENEFÍCIOS IMPLICA SUSPENSÃO DAS AÇÕES E EXECUÇÕES INICIADAS SOBRE DIREITOS E INTERESSES RELATIVOS AO ACERVO E VENCIMENTO ANTECIPADO DAS OBRIGAÇÕES. MERA INTERVENÇÃO. SOBRESTAMENTO DA EXECUÇÃO POR PRAZO ILIMITADO. DESARRAZOABILIDADE.
+1. No caso, consta dos autos que: a) A autarquia federal Superintendência Nacional de previdência Complementar, em 22 de agosto de 2011, decretou a intervenção federal, em ato administrativo (portaria) que desde então vem sendo renovado; b) A entidade previdenciária, ora recorrente, que administra um único plano de benefícios, depositou em Juízo o crédito incontroverso dos recorridos e ofereceu impugnação, em outubro de 2007, afirmando excesso de execução - antes da decretação da intervenção.
+2. Conforme precedentes das duas Turmas de direito privado do STJ, a teor do art. 49, I, da Lei Complementar n. 109, a decretação da liquidação extrajudicial é que produzirá, de imediato, o efeito de suspender "ações e execuções iniciadas sobre direitos e interesses relativos ao acervo da entidade liquidanda".
+3. No caso, houve "apenas" decretação de intervenção que, como admitido pela própria recorrente no recurso especial, é situação regida pelo art. 62 da Lei Complementar n. 109/2001, estabelecendo que aplicam-se à intervenção e à liquidação das entidades de previdência complementar, no que couber, os dispositivos da legislação sobre a intervenção e liquidação extrajudicial das instituições financeiras, cabendo ao órgão regulador e fiscalizador as funções atribuídas ao Banco Central do Brasil.
+4. Por um lado, após a interposição do recurso especial, a entidade previdenciária, como reconhecido no presente recurso, celebrou, no ano de 2020, acordo mediado pela Câmara de Conciliação da Administração Federal (CCAF) da Advocacia-Geral da União (AGU) para equacionamento da solvência do único plano de benefícios administrado, a indicar a perda do objeto do recurso especial. Por outro lado, ainda que assim não fosse, a questão recairia no óbice da Súmula 7/STJ, pois a Corte local, desde o já distante ano de 2016, entendeu que, no caso concreto, não seria justificável manter sobrestada a execução, e também pontuando que, mesmo aplicando a Lei n. 6.024/1974, invocada pela agravante, não poderia haver a suspensão da exigibilidade das obrigações por tempo indeterminado, mas apenas durante o período de intervenção que não excederá a seis meses o qual, por decisão do Banco Central do Brasil, poderá prorrogado uma única vez, até o máximo de outros seis meses (artigo 4º da Lei número 6.024/74)"; "todavia, a intervenção tinha sido decretada "em 22 de agosto de 2011 (fls.09), o que impossibilita o acolhimento do pedido, em razão da superação do período anual de suspensão (máximo) e da impossibilidade de conceder à Executada privilégio não previsto na norma de extensão".
+5. Agravo interno não provido.
+(AgInt no REsp n. 1.631.261/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 27/5/2022.)
+Descabe, assim, falar em suspensão do presente feito.
+2. Ante o exposto, nega-se provimento ao recurso especial.
+Por fim, não havendo fixação de honorários sucumbenciais pelas instâncias ordinárias, inaplicável a majoração prevista no art. 85, § 11, do NCPC.
+Publique-se.
+Intimem-se.
+EMENTA
