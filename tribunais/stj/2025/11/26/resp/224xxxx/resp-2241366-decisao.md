@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de recurso especial interposto por ALZIRA NAINÁ VENTRE RHEIN, fundamentado nas alíneas a e c do permissivo constitucional, no intuito de reformar acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 663, e-STJ):
+APELAÇÃO Plano de Saúde Ação de Obrigação de Fazer c/c Reparação de Danos Morais Negativa de custeio de internação por não cumprimento de carência Sentença de procedência Inconformismo da ré, alegando a legitimidade da cobrança, a impossibilidade de cobertura, a inexistência de conduta ilícita e a inocorrência dos danos morais; subsidiariamente, postulando a redução do valor da indenização por danos morais Descabimento Situação de emergência em que se encontrava a autora, sendo aplicável, portanto, a norma prevista no artigo 35-C, inciso II, da Lei nº 9.656/98, a qual determina a não observância do período de carência acenado pela ré, posto que claramente abusivo Danos morais configurados Fixação da indenização por danos morais que não comporta redução Recurso desprovido.
+Opostos embargos de declaração, foram rejeitados nos termos do acórdão de fls. 676-678, e-STJ.
+Nas razões de recurso especial (fls. 682-691, e-STJ), aponta a parte recorrente ofensa aos seguintes dispositivos legais:
+(i) artigos 489, § 1º, IV; 1.022, II, do Código de Processo Civil; e 93, IX, da Constituição Federal, sob a alegação da existência de omissão e negativa de prestação jurisdicional no acórdão recorrido;
+(ii) artigo 1.007, § 2º, do CPC, aduzindo a ocorrência de deserção, eis que "a apelação interposta pela ré foi acompanhada de preparo referente apenas ao valor da indenização por danos morais (R$ 10.000,00), omitindo-se quanto ao valor da obrigação de fazer (internação médica custeada), cujo valor comprovadamente documentado é de R$ 103.140,93"; e
+(iii) artigo 85, §§ 2º e 11; do CPC, defendendo, em suma, que a base de cálculo para a fixação dos honorários advocatícios deve ser o valor total da condenação, incluindo os valores cumulados do pagamento de indenização e da obrigação de fazer.
+Contrarrazões apresentadas às fls. 696-709, e-STJ.
+Em juízo de admissibilidade (fls. 716-717, e-STJ), admitiu-se o recurso pela alínea a e inadmitiu-se pela alínea c, ascendendo os autos a esta Corte quanto à parte admitida.
+É o relatório. Decido.
+A irresignação merece prosperar em parte.
+1. De início, com relação à existência de violação aos arts. 489, § 1º, e 1.022, II, do CPC, a pretensão recursal merece provimento.
+Este Superior Tribunal de Justiça reconhece a ocorrência de negativa de prestação jurisdicional quando a corte de origem, a despeito da oposição de embargos de declaração, omite-se a respeito de ponto essencial ao deslinde da controvérsia.
+Nesse sentido, confira-se: AgRg no AgRg no Ag 930.009/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 02/02/2017, DJe 14/02/2017; AgInt no AREsp 951.186/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 15/12/2016, DJe 01/02/2017.
+Alega a parte recorrente que o acórdão impugnado restou omisso acerca dos seguintes pontos: a) ausência de reconhecimento da deserção da apelação da ré; b) quanto ao valor da condenação, se estariam incluídos os valores relativos ao pagamento da indenização por danos morais e da obrigação de fazer; e c) quanto à falta de definição da base de cálculo dos honorários sucumbenciais, com incidência sobre a obrigação de fazer economicamente aferível.
+O Tribunal de origem, quando do julgamento dos embargos de declaração, consignou apenas que (fls. 677-678, e-STJ):
+A pretensão da embargante não encontra amparo no artigo 1.022 do Código de Processo Civil.
+A decisão em epígrafe não pode ser rotulada de omissa, pois enfrentou as questões suscitadas no recurso submetido à apreciação do colegiado, sendo oportuno relembrar, também, que o órgão julgador não está obrigado a debater ou rebater, ponto por ponto, as razões das partes, colhendo delas apenas o que é relevante para fundamentar o julgado e até as despreza de todo, sem que se increpe nulidade, "ius novit curia" (In RJTJESP 79/223 e 225). (..).
+O que persegue a embargante, na verdade, é o reexame da decisão de fls. 662/668, o que, obviamente, é inadmissível, a teor do que dispõe o já citado artigo 1.022 do Estatuto Adjetivo.
+No caso em tela, apesar das questões terem sido expressamente apontadas como omissas, o Tribunal local, ao julgar os embargos de declaração, entendeu, apenas, que a matéria objeto da controvérsia foi devida e suficientemente enfrentada pelo acórdão embargado.
+De fato, o Tribunal de origem, mesmo provocado por embargos de declaração, não apreciou, nem sequer implicitamente, as teses relativas: a) à ausência de reconhecimento da deserção da apelação da ré; b) ao valor da condenação, se estariam incluídos os valores relativos ao pagamento da indenização por danos morais e da obrigação de fazer; e c) à falta de definição da base de cálculo dos honorários sucumbenciais, com incidência sobre a obrigação de fazer economicamente aferível.
+A manifestação acerca das referidas questões, ainda que para delas não conhecer ou para rechaça-las, de forma fundamentada, é necessária para a correta prestação jurisdicional - inclusive para possibilitar eventual acesso às instâncias superiores, se for o caso.
+Observa-se, ainda, ser inviável a aplicação do artigo 1.025 do CPC, a fim de, reconhecida a omissão no acórdão recorrido, conhecer, diretamente no âmbito desta Corte Superior, por não se tratar de matéria exclusivamente de direito.
+Imperioso, portanto, o reconhecimento da violação ao art. 1.022, II, do CPC/2015 (antigo art. 535, inc. II, do CPC/1973), como ale gado pela parte ora recorrente.
+Diante o acolhimento do apelo especial nessa parte, resta prejudicada a análise dos demais dispositivos apontados como violados.
+2. Do exposto, com fulcro no art. 932 do NCPC c/c Súmula 568 do STJ, dá-se parcial provimento ao recurso especial, a fim de cassar a decisão proferida em sede de embargos de declaração, determinando que outra seja proferida, sanando-se a omissão apontada.
+Publique-se.
+Intimem-se.
+EMENTA
