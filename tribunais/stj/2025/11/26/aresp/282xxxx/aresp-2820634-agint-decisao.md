@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interno interposto contra decisão da Presidência do STJ, que não conheceu do agravo em recurso especial (fls. 1.246-1.247).
+Em suas razões (fls. 1.251-1.261), a parte agravante alega que a petição de agravo em recurso especial impugnou especificamente os fundamentos da decisão que inadmitiu seu recurso especial quanto às Súmulas n. 7/STJ e 83/STJ, inexistindo ofensa à dialeticidade recursal e à Súmula n. 182/STJ.
+Ao final, pede a reconsideração da decisão ou a apreciação do agravo pelo Colegiado.
+A parte agravada apresentou impugnação (fls. 1.290-1.294).
+É o relatório.
+Da análise das razões expostas no agravo em recurso especial (fls. 1.190-1.213), observa-se que a parte recorrente atacou especificamente os fundamentos da decisão proferida pelo Tribunal local.
+Assim, mostra-se inaplicável o óbice da Súmula n. 182/STJ, motivo pelo qual reconsidero a decisão da Presidência e passo a novo exame do agravo em recurso especial.
+O acórdão recorrido está assim ementado (fl. 1.008):
+APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. ALEGAÇÃO DE EXCESSO NA EXECUÇÃO. CONTRATO DE FINANCIAMENTO IMOBILIÁRIO. SENTENÇA DE PROCEDÊNCIA PARCIAL, AFASTANDO A POSSIBILIDADE DE CAPITALIZAÇÃO DOS JUROS. Irresignação da embargada, alegando a ocorrência de prescrição. Aplicável ao caso concreto do prazo decenal. Termo inicial que é a data da quitação da última parcela do financiamento. Verificada a prática de juros compostos no contrato firmado. Prática vedada à época da celebração do contrato, em 1994, nos termos do artigo 4º do Decreto nº 22.626/33 (Lei da Usura). Aplicabilidade do referido diploma legal ao caso em tela, conforme entendimento do STJ, pois as entidades de previdência complementar fechadas não se equiparam às instituições financeiras. Não há que se falar em impossibilidade de nulidade das cláusulas contratuais da apelante, visto que o contrato é disciplinado pelas normas gerais e contratuais dispostas no Código Civil. Correto o reconhecimento da sucumbência recíproca, ante a sucumbência de ambas as partes. Manutenção da sentença. DESPROVIMENTO DO RECURSO.
+Os embargos de declaração foram desprovidos (fl. 1.078).
+Nas razões do recurso especial (fls. 1.094-1.143), fundamentado no art. 105, III, "a", da CF, a parte recorrente apontou ofensa aos seguintes dispositivos legais:
+(i) arts. 489, § 1º, IV e VI, e 1.022 do CPC, considerando-se que a pretensão da parte recorrida possui caráter revisional, não se tratando mera ação de repetição de indébito, omitindo-se a Corte local quanto à natureza jurídica da lide,
+(ii) arts. 205, 206 e 2.028 do Código Civil, alegando que, por se tratar de ação revisional, o termo inicial do prazo prescricional deve ser contado da assinatura do contrato pelo aderente e não da data em que deveria ter sido paga a última parcela do financiamento, não sendo o caso de reexame de fatos e provas porquanto as datas constam expressamente do teor do acórdão do recurso de apelação, e
+(iii) arts. 138, 166, 205, 206, 354, 421-A e 422 do CC, e 1º, 17, 68 e 71 da LC 109/2001, pois a qualificação da recorrente como entidade fechada de previdência complementar atrai a regulamentação especial, permitindo-lhe o procedimento de capitalização de juros, alinhado com a Tabela Price.
+Inexiste afronta aos arts. 489, § 1º, IV e VI, e 1.022 do CPC quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+Quanto à natureza jurídica da pretensão da parte recorrida, a Corte local assim se pronunciou (fls. 1080-1081):
+Com efeito, o julgado recorrido observou que se trata de contrato com prestações de trato sucessivo, em que se discute o financiamento imobiliário, ao contrário do que pretende fazer crer a embargante, quando aduz que a pretensão dos embargados possui caráter revisional, não havendo que se falar em termo inicial da contagem da assinatura do pacto, nem tampouco em ocorrência da prescrição.
+Desse modo, não há falar em negativa de prestação jurisdicional, vício de fundamentação ou violação dos arts. 489 e 1.022 do CPC.
+Quanto aos arts. 205, 206 e 2.028 do CC, a peça recursal não esclareceu de que forma tais dispositivos teriam sido violados, tampouco como dariam amparo a qualquer tese recursal, não servindo para tal propósito a citação genérica de normas, sem argumentação clara e associada às razões de decidir do aresto impugnado.
+Limitando-se a parte recorrente a afirmar ofensa a dispositivos de lei sem, contudo, demonstrar a suposta violação ou a correta interpretação, há evidente deficiência na fundamentação, fazendo incidir a Súmula n. 284 do STF.
+Relativamente aos arts.138, 166, 205, 206, 354, 421-A e 422 e 1º, 17, 68 e 71 da LC 109/2001, observa-se que nenhum deles guarda pertinência temática com os assuntos ventilados.
+Como se sabe, a admissibilidade do recurso especial exige a clareza na indicação dos artigos de lei federal supostamente violados, bem como a explanação precisa da medida em que o acórdão recorrido teria afrontado cada um desses dispositivos, sob pena de incidência da Súmula n. 284/STF.
+Ante o exposto, RECONSIDERO a decisão da Presidência desta Corte para CONHECER do agravo em recurso especial e NEGAR-LHE PROVIMENTO.
+M antida a majoração de honorários aplicada pela decisão agravada.
+Publique-se e intimem-se.
+ EMENTA
