@@ -1,0 +1,80 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio impetrado em favor de DOUGLAS AGOSTINHO DA SILVA, HEITOR CHAGAS VIANA e LUIZ LEONARDO SOUZA DE LIMA, apontando como autoridade coautora o Tribunal de Justiça do Estado do Rio de Janeiro.
+Consta dos autos que os pacientes foram condenados da seguinte forma:
+DOUGLAS AGOSTINHO DA SILVA como incurso nas sanções do art. 35 da Lei n. 11.343/2006, à pena de 5 anos de reclusão, em regime inicial semiaberto, e 1.000 dias-multa.
+LUIZ LEONARDO SOUZA DE LIMA e HEITOR CHAGAS VIANA como incursos nas penas do art. 35 c/c art. 40, VI da Lei n. 11.343/2006, às penas de 6 anos de reclusão, em regime inicial semiaberto, e pagamento de 1.200 dias-multa.
+Inconformada, a defesa interpôs recurso de apelação, que foi parcialmente provido para redimensionar a pena dos pacientes LUIZ LEONARDO SOUZA DE LIMA e HEITOR CHAGAS VIANA para 4 anos e 8 meses de reclusão, em regime inicial semiaberto, e 933 dias-multa e do paciente DOUGLAS AGOSTINHO DA SILVA para 4 anos de reclusão, em regime aberto, e 800 dias-multa.
+Neste writ a defesa sustenta, em suma, excesso de pena, destacando que a vetorial culpabilidade foi valorada de forma desfavorável mediante fundamentação inidônea, porque utilizada argumentação inerente ao tipo penal.
+Ao final, requer a correção da dosimetria da pena com o decote do aumento decorrente da análise desfavorável da culpabilidade na primeira fase da dosimetria da pena.
+Em manifestação às fls. 286-288 (e-STJ), o Ministério Público Federal opina pela concessão da ordem.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Inicialmente, convém destacar que a individualização da pena é uma atividade em que o julgador está vinculado a parâmetros abstratamente cominados pela lei, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, ressalvadas as hipóteses de manifesta ilegalidade ou arbitrariedade, é inadmissível às Cortes Superiores a revisão dos critérios adotados na dosimetria da pena.
+A pena-base dos pacientes foi assim dosada na sentença:
+"Quanto ao acusado LUIZ LEONARDO SOUZA DE LIMA, vulgo "LÉO PILOTO":
+A culpabilidade do acusado, aferível no caso concreto, revela merecer reprimenda mais severa do que o habitual. Os motivos do crime são desconhecidos. As circunstâncias e consequências do delito são as próprias da espécie. Os autos indicam que Luiz Leonardo tem personalidade voltada para a prática de crimes. Sua conduta social é censurável. Seus antecedentes são ruins. Por tais motivos, fixo-lhe a pena-base em 04 anos de reclusão e pagamento de 800 dias-multa, sendo cada dia-multa à razão de 1/30 do salário mínimo vigente ao tempo dos fatos.
+ ..
+Quanto ao acusado HEITOR CHAGAS VIANA, vulgo "CABEÇA":
+A culpabilidade do acusado, aferível no caso concreto, revela merecer reprimenda mais severa do que o habitual. Os motivos do crime são desconhecidos. As circunstâncias e consequências do delito são as próprias da espécie. Os autos indicam que Heitor tem personalidade voltada para a prática de crimes. Sua conduta social é censurável. Seus antecedentes são ruins. Por tais motivos, fixo-lhe a pena-base em 04 anos de reclusão e pagamento de 800 dias-multa, sendo cada dia-multa à razão de 1/30 do salário mínimo vigente ao tempo dos fatos.
+ ..
+Quanto ao acusado DOUGLAS AGOSTINHO DA SILVA, vulgo "DODÔ":
+A culpabilidade do acusado, aferível no caso concreto, revela merecer reprimenda mais severa do que o habitual. Os motivos do crime são desconhecidos. As circunstâncias e consequências do delito são as próprias da espécie. Os autos indicam que Douglas Agostinho tem personalidade voltada para a prática de crimes que envolvem entorpecentes. Sua conduta social é censurável. Seus antecedentes são ruins. Por tais motivos, fixo-lhe a pena-base em 04 anos de reclusão e pagamento de 800 dias-multa, sendo cada dia-multa à razão de 1/30 do salário mínimo vigente ao tempo dos fatos." (e-STJ, fls. 199-203)
+A seu turno, o Tribunal de origem assim refez:
+2) Quanto ao apelante Luiz Leonado Souza de Lima, vulgo "Léo Piloto" (art. 35, caput c/c o art. 40, VI, ambos da Lei nº 11.343/2006).
+ ..
+Pois bem, em razões recursais a defesa se insurgiu quanto a fixação da pena-base pugnando por sua aplicação no mínimo legal.
+Razão assiste, em parte, à defesa.
+Com efeito, os vetores personalidade e conduta social devem ser decotados da pena-base, pois, não fundamentados em elementos concretos pelo magistrado na sentença de acordo com o livre convencimento motivado. Quanto à culpabilidade esta possui relação com o grau de reprovabilidade da conduta e, sendo essa fundamentação idônea para justificar a exasperação da pena-base, não há ilegalidade em sua consideração. No que se refere aos antecedentes, deve ser sopesado, haja vista a FAC acostada no doc. 2560 apontar uma condenação com trânsito em julgado (anotação nº 01) por crime de associação ao tráfico de drogas.
+Todavia, considerando a presença de duas circunstâncias judiciais, a saber, culpabilidade e maus antecedentes, a elevação aplicada na fração de 1/3, se mostra adequada e suficiente, razão pela qual, mantenho a pena-base no patamar de 04 anos de reclusão e 800 dias-multa.
+3) Quanto ao apelante Heitor Chagas Viana, vulgo "Cabeça" (art. 35, caput, c/c o art. 40, VI, ambos da Lei nº 11.343/2006).
+ ..
+Pois bem, em razões recursais a defesa se insurgiu quanto a fixação da pena-base pugnando por sua aplicação no mínimo legal.
+Razão assiste, em parte, à defesa.
+Com efeito, os vetores personalidade e conduta social devem ser decotados da pena-base, pois, não fundamentados em elementos concretos pelo magistrado na sentença de acordo com o livre convencimento motivado. Quanto à culpabilidade esta possui relação com o grau de reprovabilidade da conduta e, sendo essa fundamentação idônea para justificar a exasperação da pena-base, não há ilegalidade em sua consideração. No que se refere aos antecedentes, deve ser sopesado, haja vista a FAC acostada no doc. 2590 apontar duas condenações com trânsito em julgado (anotações nº 01 e 03) por crimes de tráfico de drogas.
+Todavia, considerando a presença de duas circunstâncias judiciais, a saber, culpabilidade e maus antecedentes, a elevação aplicada na fração de 1/3, se mostra adequada e suficiente, razão pela qual, mantenho a pena-base no patamar de 04 anos de reclusão e 800 dias-multa.
+ ..
+11) Quanto ao apelante Douglas Agostinho da Silva, vulgo "Dodô" (art. 35, caput, da Lei nº 11.343/2006).
+ ..
+Pois bem, em razões recursais a defesa se insurgiu quanto a fixação da pena-base pugnando por sua aplicação no mínimo legal.
+Razão assiste, em parte, à defesa.
+Com efeito, os vetores personalidade e conduta social devem ser decotados da pena-base, pois, não fundamentados em elementos concretos pelo magistrado na sentença de acordo com o livre convencimento motivado. Quanto à culpabilidade esta possui relação com o grau de reprovabilidade da conduta e, sendo essa fundamentação idônea para justificar a exasperação da pena-base, não há ilegalidade em sua consideração. No que se refere aos antecedentes, deve ser sopesado, haja vista a FAC acostada no doc. 2614 apontar uma condenação com trânsito em julgado (anotação nº 03) por crimes de associação ao tráfico de drogas.
+Todavia, considerando a presença de duas circunstâncias judiciais, a saber, culpabilidade e maus antecedentes, a elevação aplicada na fração de 1/3, se mostra adequada e suficiente, razão pela qual, mantenho a pena-base no patamar de 04 anos de reclusão e 800 dias-multa." (e-STJ, fls. 143-151)
+Como cediço, "não existe critério matemático obrigatório para a fixação da pena-base. Pode o magistrado, consoante a sua discricionariedade motivada, aplicar a sanção básica necessária e suficiente à repressão e prevenção do delito, pois as infinitas variações do comportamento humano não se submetem, invariavelmente, a uma fração exata na primeira fase da dosimetria" (AgRg no HC 563.715/RO, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 15/9/2020, DJe 21/9/2020).
+Adotado o sistema trifásico pelo legislador pátrio, na primeira etapa do cálculo, a pena-base será fixada conforme a análise das circunstâncias do art. 59 do Código Penal. Tratando-se de condenado por delitos previstos na Lei de Drogas, o art. 42 da referida norma estabelece a preponderância dos vetores referentes a quantidade e a natureza da droga, assim como a personalidade e a conduta social do agente sobre as demais elencadas no art. 59 do Código Penal.
+Na hipótese, o Tribunal de origem manteve o aumento da pena-base em 1 ano devido pela análise desfavorável da culpabilidade e dos antecedentes.
+Sobre o tema, registra-se que a culpabilidade deve ser entendida como o juízo de reprovabilidade da conduta, ou seja, o menor ou maior grau de censura do comportamento do réu, não se tratando de verificação da ocorrência dos elementos da culpabilidade, para que se possa concluir pela prática ou não de delito.
+No caso em análise, as instâncias ordinárias limitaram-se a analisar a vetorial culpabilidade como reprovabilidade da conduta, deixando de mencionar elementos concretos que demonstrassem o maior grau de censura do comportamento dos pacientes a justificar a elevação da reprimenda. Destarte, a negativação da culpabilidade deve ser afastada.
+Nesse sentido:
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. CIRCUNSTÂNCIAS JUDICIAIS. CULPABILIDADE E CONSEQUÊNCIAS DO CRIME. FUNDAMENTAÇÃO GENÉRICA. ILEGALIDADE. QUANTIDADE DE DROGAS. ART. 42 DA LEI 11.343/2006. CAUSA DE DIMINUIÇÃO DO TRÁFICO PRIVILEGIADO. FRAÇÃO MÁXIMA. ORDEM CONCEDIDA.
+I. CASO EM EXAME
+1. Habeas corpus impetrado visando à revisão da dosimetria da pena aplicada ao paciente, condenado por tráfico de drogas. A defesa sustenta ilegalidade na valoração negativa das circunstâncias judiciais e na aplicação da causa de diminuição prevista no art. 33, § 4º, da Lei 11.343/2006, além de pedir a substituição da pena privativa de liberdade por restritivas de direitos.
+II. QUESTÃO EM DISCUSSÃO
+2. Há três questões em discussão: (i) se a valoração negativa das circunstâncias judiciais de culpabilidade e consequências do crime foi adequadamente fundamentada; (ii) se a quantidade de drogas pode ser utilizada para exasperar a pena-base e afastar a aplicação da causa de diminuição do tráfico privilegiado; e (iii) se a pena privativa de liberdade pode ser substituída por restritivas de direitos.
+III. RAZÕES DE DECIDIR
+3. A valoração negativa da culpabilidade e das consequências do crime foi realizada com fundamentação genérica, o que contraria a jurisprudência do STJ, que exige elementos concretos e específicos para justificar a exasperação da pena (AgRg no HC n. 644.672/SP).
+4. A quantidade de drogas pode ser utilizada para a exasperação da pena-base, conforme previsto no art. 42 da Lei 11.343/2006, porém, não pode ser utilizada novamente para afastar a aplicação do tráfico privilegiado, salvo quando acompanhada de outros elementos que indiquem habitualidade delitiva.
+5. O paciente, sendo primário e sem outros elementos que demonstrem envolvimento com atividades criminosas habituais, faz jus à aplicação da causa de diminuição de pena na fração máxima de 2/3, conforme a jurisprudência consolidada desta Corte (AgRg no HC n. 842.630/SC).
+6. Diante da primariedade e das circunstâncias favoráveis, a pena privativa de liberdade deve ser substituída por restritivas de direitos, nos termos do art. 44 do Código Penal.
+IV. ORDEM CONCEDIDA PARA REDIMENSIONAR A PENA DO PACIENTE PARA 1 ANO E 8 MESES DE RECLUSÃO, MAIS 166 DIAS-MULTA, EM REGIME INICIAL ABERTO, SUBSTITUÍDA A PENA PRIVATIVA DE LIBERDADE POR DUAS RESTRITIVAS DE DIREITOS.
+(HC n. 877.547/ES, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 22/10/2024, DJe de 29/10/2024, grifou-se.)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. REVISÃO CRIMINAL. DOSIMETRIA. PENA-BASE. CULPABILIDADE. CONDUTA SOCIAL. DEFEITO DE FUNDAMENTAÇÃO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. "No tocante à dosimetria da pena, a revisão criminal tem cabimento restrito, apenas admitida quando, após a sentença, forem descobertas novas provas que demonstrem eventual equívoco do juízo sentenciante, ou na ocorrência de flagrante ilegalidade" (AgRg no AREsp n. 2.530.824/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 19/3/2024, DJe de 5/4/2024.).
+2. Na análise das circunstâncias judiciais, a culpabilidade deve ser considerada desfavorável quando presentes elementos concretos que caracterizem maior desvalor da conduta, excedendo os aspectos inerentes ao próprio tipo penal. A sentença, entretanto, não demonstrou a maior reprovabilidade, pois baseada na fundamentação genérica de que "o acusado atuava em organização criminosa, ostentando patente dolo e consciência da ilicitude de suas condutas criminosas", o que decorre da própria natureza do delito.
+3. Consoante a jurisprudência sedimentada nesta Corte Superior, a conduta social constitui o comportamento do réu na comunidade, ou seja, entre a família, parentes e vizinhos. Não se vincula ao próprio fato criminoso, mas à inserção do agente em seu meio social (REsp 1.405.989/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, Rel. p/ Acórdão Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 18/8/2015, DJe 23/9/2015). A conduta social não pode ser avaliada negativamente sob o argumento de que o delito foi praticado dolosamente ou de que "as provas acostadas ao feito demonstram que o réu não se ajusta minimamente às regras da vida em sociedade".
+4. Agravo regimental a que se nega provimento.
+(AgRg no REsp n. 2.124.267/RN, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/6/2024, DJe de 21/6/2024, grifou-se.)
+Passo à nova dosimetria da pena dos pacientes
+LUIZ LEONARDO SOUZA DE LIMA e HEITOR CHAGAS VIANA (art. 35 c/c art. 40, VI da Lei n. 11.343/2006)
+Na primeira fase, mantida a análise desfavorável dos antecedentes e afastada a valoração negativa da culpabilidade, fixo a pena-base 1/6 acima do mínimo legal, em 3 anos e 6 meses de reclusão e 800 dias-multa.
+Na segunda fase não pesam circunstâncias agravantes ou atenuantes, permanecendo a pena no mesmo patamar.
+Na terceira fase fica mantido o aumento da pena em 1/6 pela causa de aumento do art. 40, VI da Lei 11.343/2006, totalizando a reprimenda 4 anos e 1 mês de reclusão e 933 dias-multa.
+Mantém-se o regime inicial semiaberto.
+DOUGLAS AGOSTINHO DA SILVA (art. 35 da Lei n. 11.343/2006)
+Na primeira fase, mantida a análise desfavorável dos antecedentes e afastada a valoração negativa da culpabilidade, fixo a pena-base 1/6 acima do mínimo legal, em 3 anos e 6 meses de reclusão e 800 dias-multa.
+Na segunda fase não pesam circunstâncias agravantes ou atenuantes, permanecendo a pena no mesmo patamar.
+Inexistem causas de aumento ou diminuição da pena, de modo que a pena definitiva se estabelece em 3 anos e 6 meses de reclusão e 800 dias-multa.
+Mantém-se o regime inicial aberto.
+Ante o exposto, não conheço do habeas corpus. Contudo, concedo a ordem, de ofício, a fim afastar a análise desfavorável da culpabilidade na primeira fase da dosimetria da pena, redimensionando a pena das pacientes LUIZ LEONARDO SOUZA DE LIMA e HEITOR CHAGAS VIANA para 4 anos e 1 mês de reclusão e 933 dias-multa e do paciente DOUGLAS AGOSTINHO DA SILVA para 3 anos e 6 meses de reclusão e 800 dias-multa.
+Publique-se. Intimem-se.
+EMENTA
