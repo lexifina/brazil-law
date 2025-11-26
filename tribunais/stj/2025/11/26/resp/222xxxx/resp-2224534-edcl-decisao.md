@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por HOMERO TADEU JUFFO FONTES contra decisão, de minha lavra, em que dei parcial provimento ao recurso especial da FAZENDA NACIONAL, "para julgar improcedente a ação de repetição de indébito, com a inversão dos ônus sucumbenciais fixados nas instâncias ordinárias" (e-STJ fl. 917).
+A parte embargante sustenta a ocorrência de omissão no julgado, afirmando: (i) impossibilidade de revisão do lançamento por aplicação retroativa de nova interpretação fazendária, em violação do art. 103, II, do CTN (eficácia normativa somente 30 dias após a publicação) e do art. 146 do CTN (vedação à revisão por erro de direito); e (ii) extinção do crédito tributário relativo ao ano-calendário de 1997 por decadência (art. 156, V, c/c o art. 150, § 4º, do CTN), reconhecida pelo CARF, o que tornaria suficiente e integral o pagamento de 30/11/2009 e impediria a exigência do suposto "resíduo".
+Requer o acolhimento dos embargos para sanar as omissões, com efeitos modificativos, a fim de não conhecer ou negar provimento ao recurso especial da Fazenda Nacional, por inaplicabilidade do Tema 1.187 do STJ ao caso concreto.
+Intimada, a parte embargada não apresentou impugnação (e-STJ fl. 940).
+Passo a decidir.
+Nos termos do art. 1.022 do CPC, são admitidos embargos de declaração quando houver obscuridade, contradição, omissão e erro material na decisão.
+No caso, não ocorreu nenhum dos vícios supracitados.
+As alegações da parte embargante, na realidade, manifestam seu inconformismo com o provimento do apelo nobre da Fazenda Nacional, com base em julgamento firmado em recurso repetitivo.
+No entanto, o desiderato de rediscutir a causa sem a presença dos requisitos exigidos pela norma de regência é inadmissível em sede de embargos declaratórios.
+Nesse sentido, transcrevo precedente desta Corte Superior:
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NA AÇÃO RESCISÓRIA. IMPUGNAÇÃO AO VALOR DA CAUSA. VÍCIOS DE FUNDAMENTAÇÃO. INEXISTÊNCIA. REDISCUSSÃO DO JULGADO. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos declaratórios são cabíveis quando houver omissão, contradição ou obscuridade no acórdão embargado, ou ainda para correção de erro material, na dicção do art. 1.022 do CPC vigente, algo inexistente no caso concreto.
+2. A pretensão aclaratória tem por objeto apenas os vícios constantes no julgado embargado, não servindo para sanar eventual falha de fundamentação existente em decisão anterior, diante da ocorrência de preclusão. Nesse sentido: EDcl no AgRg no RE no AgRg no AREsp 1.212.307/PE, Rel. Min. Maria Thereza de Assis Moura, Corte Especial, DJe 6/2/2019.
+3. No caso, o acórdão embargado limitou-se a não conhecer do agravo interno, uma vez que a parte deixou de impugnar, de maneira especificada, os fundamentos da decisão agravada. Todavia, a embargante ignora que o agravo interno por ela manejado não foi conhecido, pretendendo o reexame de questões atinentes ao próprio mérito da impugnação ao valor da causa, o que não se admite no presente momento processual.
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt na AR 5.848/RJ, Relator Ministro Og Fernandes, Primeira Seção, julgado em 14/05/2019, DJe 30/05/2019).
+De todo modo, convém assinalar que, embora a parte embargante defenda a impossibilidade de revisão do lançamento por aplicação retroativa de nova interpretação fazendária, dessume-se do recurso que o que a parte pleiteia é confrontar posicionamento administrativo que foi resolvido com base em recurso julgado pela sistemática dos recursos repetitivos.
+Na decisão ora embargada, ficou claro que a Primeira Seção desta Corte, no julgamento do Tema repetitivo 1.187 do STJ, de relatoria do Min. Herman Benjamin, dirimiu a controvérsia e decidiu que a redução dos juros de mora em 45% deve ser aplicada, após a consolidação da dívida, sobre o próprio montante devido originalmente, "faltando amparo legal para que a exclusão de 100% da multa de mora e de ofício implique exclusão proporcional dos juros de mora, sem que a lei assim o tenha definido de modo expresso. Como se vê, exegese em sentido contrário, além de ampliar o sentido da norma restritiva, esbarra na tese fixada em recurso repetitivo do STJ, instaurando, em consequência, indesejável insegurança jurídica no meio social".
+Nesse ponto, consoante o decidido, o acórdão recorrido destoou do entendimento desta Corte de Justiça, razão pela qual foi acolhido o recurso fazendário para julgar improcedente a ação de repetição de indébito.
+Ademais, quanto aos argumentos da embargante, no que se refere à alegação de que haveria decisão parcialmente favorável proferida no âmbito do CARF, depreende-se dos autos, inclusive do próprio recurso do contribuinte, que ele desistiu do recurso administrativo para fins de adesão aos termos da Lei n. 11.941/2009, em que houve confissão irretratável da dívida questionada perante o órgão colegiado fazendário.
+Nesse cenário, coube à contribuinte, à época, optar entre a adesão aos termos do parcelamento previsto na Lei n. 11.941/2009, com a desistência do processo administrativo em curso, e a continuação do trâmite do feito perante o CARF, fic ando claro que, no caso, escolheu aderir ao programa , devendo arcar com as consequências jurídicas dessa opção.
+Por fim, sopesando a boa-fé objetiva, não considero esses primeiros
+aclaratórios como flagrantemente procrastinatórios, motivo pelo qual deixo de aplicar a multa processual correspondente.
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+ EMENTA
