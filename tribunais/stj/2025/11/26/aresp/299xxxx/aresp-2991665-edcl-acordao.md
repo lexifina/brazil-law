@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Carlos Pires Brandão, Og Fernandes, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. AGRAVO REGIMENTAL NÃO CONHECIDO. SÚMULA N. 182/STJ. OMISSÃO. INEXISTÊNCIA. MERO INCONFORMISMO COM O RESULTADO DO JULGAMENTO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração, nos termos do art. 619 do Código de Processo Penal, supõem defeitos na mensagem do julgado, em termos de ambiguidade, omissão, contradição ou obscuridade, isolada ou cumulativamente.
+2. No caso, o embargante ignora o óbice ao conhecimento do agravo regimental antecedente e, a título de omissão no acórdão embargado, reafirma não ser o caso de incidência dos óbices de inadmissão do apelo nobre. Tal situação revela a ausência de omissão no julgado embargado e o mero inconformismo com o resultado do julgamento.
+3. "É defeso a esta Corte Superior de Justiça levar a efeito exame de pretensa afronta a dispositivos constitucionais em sede de recurso especial, mesmo com o fito de prequestionamento, sob pena de usurpação da competência do Supremo Tribunal Federal" (EDcl nos EDcl no AgRg nos EDcl no AREsp n. 2.466.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 3/9/2025, DJEN de 9/9/2025).
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de embargos de declaração opostos por ELCIMAR SERAFIM DE SOUZA contra o acórdão de e-STJ fls. 402/406, por meio do qual a Sexta Turma não conheceu do agravo regimental anteriormente interposto, nos termos da seguinte ementa (e-STJ fl. 402):
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. AUSÊNCIA DE IMPUGNAÇÃO ADEQUADA DA DECISÃO QUE NEGOU SEGUIMENTO AO RECURSO ESPECIAL. AGRAVO REGIMENTAL EM QUE INCIDE O MESMO SÚMULA N. 182/STJ. ÓBICE. INVIABILIDADE DE EXAME DO RECURSO. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. O recorrente não atacou suficientemente os fundamentos do provimento jurisdicional que negou seguimento ao recurso especial, o que atraiu o óbice da Súmula n. 182/STJ.
+2. No agravo regimental, as razões recursais incidem no mesmo vício, porquanto não impugnam especificamente o fundamento da decisão monocrática proferida no Superior Tribunal de Justiça, atraindo, outra vez, o óbice da Súmula n. 182/STJ.
+3. Agravo regimental não conhecido.
+Nestes embargos, a defesa, a título de omissão no acórdão embargado, sustenta que "está explícito no Agravo de Instrumento manejado contra a decisão que denegou seguimento ao Recurso Especial que não houve qualquer violação às Súmulas 07 ou 83 do STJ" (e-STJ fl. 410).
+Aduz que "demonstrou em seu recurso conduzido à essa Corte que sua tese está em perfeita harmonia com a jurisprudência desse Tribunal, inclusive citando como precedentes o HC n. 256.989/ES de relatoria do Ministro Jorge Mussi, da Quinta Turma, publicado no DJe 5/2/2014 e também o REsp 1765673/SP de relatoria do Ministro Sebastião Reis Júnior, dessa Sexta Turma, julgado em 26/05/2020 e publicado no DJe 29/05/2020" (e-STJ fl. 411), e que "não haverá revisão de provas, mas apenas avaliar se a conduta apontada pelo Ministério Público é típica ou não" (e-STJ fl. 414).
+Requer, ao final, o acolhimento dos embargos para sanar a omissão apontada ou, "para fins de reconhecimento de eventual recurso perante a instância superior,  ..  seja reconhecida a violação aos seguintes dispositivos legais e constitucionais: artigo 386, inciso VII, do Código de Processo Penal, diante da insuficiência de provas para a condenação; artigo 619 do Código de Processo Penal, pela omissão no acórdão recorrido; artigo 5º, incisos LIV e LVII, da Constituição Federal, que asseguram o devido processo legal, o contraditório, a ampla defesa e a presunção de inocência; e, ainda, artigo 93, inciso IX, da Constituição Federal, que impõe ao julgador o dever de fundamentar suas decisões, com enfrentamento de todos os argumentos relevantes suscitados pelas partes" (e-STJ fl. 416).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. AGRAVO REGIMENTAL NÃO CONHECIDO. SÚMULA N. 182/STJ. OMISSÃO. INEXISTÊNCIA. MERO INCONFORMISMO COM O RESULTADO DO JULGAMENTO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração, nos termos do art. 619 do Código de Processo Penal, supõem defeitos na mensagem do julgado, em termos de ambiguidade, omissão, contradição ou obscuridade, isolada ou cumulativamente.
+2. No caso, o embargante ignora o óbice ao conhecimento do agravo regimental antecedente e, a título de omissão no acórdão embargado, reafirma não ser o caso de incidência dos óbices de inadmissão do apelo nobre. Tal situação revela a ausência de omissão no julgado embargado e o mero inconformismo com o resultado do julgamento.
+3. "É defeso a esta Corte Superior de Justiça levar a efeito exame de pretensa afronta a dispositivos constitucionais em sede de recurso especial, mesmo com o fito de prequestionamento, sob pena de usurpação da competência do Supremo Tribunal Federal" (EDcl nos EDcl no AgRg nos EDcl no AREsp n. 2.466.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 3/9/2025, DJEN de 9/9/2025).
+4. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+O recurso não prospera.
+Como se sabe, os embargos de declaração, nos termos do art. 619 do Código de Processo Penal, supõem defeitos na mensagem do julgado, em termos de ambiguidade, omissão, contradição ou obscuridade, isolada ou cumulativamente.
+Essa é a vocação legal do recurso, sempre enfatizada nos precedentes desta Corte, como se depreende do aresto a seguir:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO CONSTATADA QUANTO AO PEDIDO DE SUBSTITUIÇÃO DA PENA POR RESTRITIVAS DE DIREITOS. EMBARGOS PARCIALMENTE PROVIDOS.
+1. O reconhecimento de violação do art. 619 do CPP pressupõe a ocorrência de omissão, ambiguidade, contradição ou obscuridade tais que tragam prejuízo à defesa e não pode ser confundida com o mero inconformismo da parte com a conclusão alcançada pelo julgador, que, a despeito das teses aventadas, lança mão de fundamentação idônea e suficiente para a formação do seu livre convencimento.
+2. Nos aclaratórios em exame, a ré é primária, não tem antecedentes e a pena privativa de liberdade a ela imposta não supera 4 anos de reclusão. Imperiosa a substituição da privação de liberdade por restritivas de direito, nos termos do art. 33, § 2º, "c", do Código Penal.
+3. Embargos de declaração parcialmente providos.
+(EDcl no AgRg no AREsp n. 2.375.490/RN, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 16/9/2025, DJEN de 23/9/2025, grifei.)
+No caso em tela, não se faz presente nenhum dos citados defeitos.
+Com efeito, o acórdão aqui agravado foi absolutamente claro ao consignar que o ora embargante, quando da interposição do agravo em recurso especial, deixou de atacar adequadamente os fundamentos do provimento jurisdicional que negou seguimento ao recurso especial - Súmulas n. 7 e 83/STJ - o que atraiu a incidência da Súmula n. 182/STJ, sendo que, nas razões do agravo regimental anteriormente interposto, limitou-se a reafirmar não ser o caso de incidência dos óbices à admissão do apelo nobre, sem se preocupar em demonstrar que, nas razões do agravo do recurso especial, teria efetiva mente atacado os fundamentos da decisão agravada, nos moldes preconizados por esta Corte, de maneira a ensejar o destrancamento do recurso especial, circunstância que novamente atraiu o óbice da Súmula n. 182/STJ e impediu o conhecimento do agravo regimental.
+Neste recurso, o embargante ignora o óbice ao conhecimento do agravo regimental antecedente, e, a título de omissão no acórdão embargado, reafirma não ser o caso de incidência das Súmulas n. 7 e 83/STJ, pretendendo, por vias transversas, o exame de mérito de recurso especial no qual se pretendeu o reconhecimento da atipicidade da conduta imputada ao recorrente - art. 140, § 3º, do Código Penal.
+Tal situação, a toda evidência, revela mero inconformismo com o resultado do julgamento e que a pretensão do recorrente, embora justa, não se coaduna com a via eleita.
+Lado outro, deve-se destacar que " é  defeso a esta Corte Superior de Justiça levar a efeito exame de pretensa afronta a dispositivos constitucionais em sede de recurso especial, mesmo com o fito de prequestionamento, sob pena de usurpação da competência do Supremo Tribunal Federal " (EDcl nos EDcl no AgRg nos EDcl no AREsp n. 2.466.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 3/9/2025, DJEN de 9/9/2025).
+Ante o exposto, rejeito os embargos declaratórios.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
