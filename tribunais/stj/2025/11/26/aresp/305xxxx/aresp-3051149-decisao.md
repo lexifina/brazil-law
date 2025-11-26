@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BANCO DO BRASIL S/A contra decisão que inadmitiu seu recurso especial, fundamentado no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo eg. Tribunal de Justiça do Estado de Goiás, assim ementado:
+"DIREITO CIVIL. APELAÇÃO CÍVEL. EMBARGOS À MONITÓRIA. SEGURO PRESTAMISTA. VALOR TOTAL DO EMPRÉSTIMO FINANCIADO. PREVISÃO CONTRATUAL. QUITAÇÃO TOTAL DA DÍVIDA. MANUTENÇÃO DA SENTENÇA.
+I. CASO EM EXAME
+1. Trata-se de apelação cível interposta por banco contra sentença que julgou procedentes embargos à monitória opostos por espólio, reconhecendo a quitação de dívida em razão de seguro prestamista. O banco argumenta pagamento parcial do sinistro e existência de débito residual.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em definir se a indenização do seguro prestamista quitou integralmente a dívida, ou se restou saldo devedor após o pagamento parcial do sinistro.
+III. RAZÕES DE DECIDIR
+3. O seguro prestamista, contrato acessório, visa garantir a quitação de dívida em caso de sinistro, até o limite do capital segurado. A indenização limita-se ao valor do interesse segurado, no momento do sinistro, e ao limite máximo da apólice, salvo em caso de mora do segurador (CC/2002, arts. 757 e 781).
+4. A cláusula primeira, parágrafo quarto, das Cláusulas Gerais do Contrato de Abertura de Crédito Rotativo, previu o valor total do empréstimo "PARÁGRAFO QUARTO - O VALOR SOLICITADO PELO MUTUÁRIO SERÁ ACRESCIDO DO IMPOSTO SOBRE OPERAÇÕES DE CRÉDITO, CAMBIO, SEGURO E TITULO OU VALORES MOBILIÁRIOS - IOF CONSTITUINDO ASSIM, O VALOR TOTAL DO EMPRÉSTIMO FINANCIADO" (movimentação 1).
+IV. DISPOSITIVO E TESE
+5. Recurso desprovido. Sentença mantida.
+"1. A indenização do seguro prestamista limita-se ao valor do capital segurado, podendo cobrir parte ou a totalidade da dívida.
+2. Contrato prestamista com cláusula de valor total do empréstimo financiado."
+Dispositivos relevantes citados: CPC, art. 487, I; CPC, art. 85, § 2º; CPC, art. 85, § 11; CC/2002, arts. 757, 781; CDC, art. 3º, caput e § 2º. Jurisprudências relevantes citadas: STJ - REsp: 1705315 RS 2017/0124741-0, Relator: Ministra MARIA ISABEL GALLOTTI, Data de Julgamento: 12/09/2023, T4 - QUARTA TURMA, Data de Publicação: DJe 19/09/2023; REsp n. 1.876.762/MS, relatora Ministra Nancy Andrighi, relator para acórdão Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 1/6/2021, DJe de 30/6/2021; TJGO, Apelação Cível 5325555-46.2018.8.09.0051, Rel. Des(a). DESEMBARGADOR ITAMAR DE LIMA, 3ª Câmara Cível, julgado em 02/07/2024, DJe de 02/07/2024." (e-STJ, fls. 391-392)
+Os embargos de declaração foram rejeitados (e-STJ, fls. 420/428).
+Em seu recurso especial, o recorrente alega violação dos seguintes dispositivos da legislação federal, com as respectivas teses:
+(i) art. 1.022 do Código de Processo Civil, pois teria havido omissão do acórdão quanto à análise da aplicação dos arts. 85, §§ 2º, 8º e 10, do Código de Processo Civil e dos precedentes citados, configurando negativa de prestação jurisdicional que impediria o prequestionamento da matéria.
+(ii) art. 373, I, do Código de Processo Civil, porque teria sido desconsiderado que o autor/recorrente comprovaria o fato constitutivo do direito de cobrança do saldo residual, já que a indenização do seguro prestamista seria parcial e não teria quitado toda a dívida.
+(iii) art. 85, § 10, do Código de Processo Civil, pois deveria ter sido aplicado o princípio da causalidade para afastar a condenação em honorários do recorrente, uma vez que a parte recorrida teria dado causa ao ajuizamento da ação pela inadimplência.
+(iv) art. 85, § 8º, do Código de Processo Civil, porque a fixação dos honorários sucumbenciais sobre o valor atualizado da causa, em 13%, seria exorbitante e deveria ter sido reduzida por equidade, à luz dos princípios da razoabilidade e proporcionalidade.
+Foram apresentadas contrarrazões (e-STJ, fls. 530/546).
+O recurso especial foi inadmitido na origem, dando ensejo à interposição do presente agravo.
+É o Relatório. Passo a decidir.
+Da análise dos autos, verifica-se que o colendo Tribunal de origem não obstante provocado, deixou de examinar questão essencial ao deslinde da controvérsia, a respeito da tese de que a fixação dos honorários sucumbenciais sobre o valor atualizado da causa, em 13%, seria exorbitante e deveria ter sido reduzida por equidade, bem como sobre a alegação de que o autor/recorrente comprovou o direito de cobrança do saldo residual, tendo em vista que a indenização limita-se ao valor do capital segurado, que no caso, não teria quitado toda a dívida.
+Frise-se que a cláusula contratual mencionada no acórdão recorrido nada fala sobre o limite do capital segurado e ou o valor da indenização, mas apenas sobre o montante total do empréstimo, que incluiria o imposto sobre operações de crédito, cambio, seguro e titulo ou valores mobiliários - IOF.
+Com efeito, a eg. Corte de origem quedou-se inerte no exame de questões relevante para o deslinde da controvérsia e que, na via estreita do recurso especial, não poderia ser analisada de plano, mormente em razão da impossibilidade de incursão no acervo fático-probatório dos autos e de interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+Ademais, o conhecimento do recurso especial exige a manifestação da instância ordinária acerca da questão de direito suscitada. Recusando-se a Corte de origem a se manifestar sobre o tema federal, fica obstaculizado o acesso à instância extrema, cabendo à parte vencida invocar, como no caso, a infringência ao art. 1.022 do Código de Processo Civil, a fim de anular o v. acórdão recorrido para que seja suprida a omissão existente.
+Confiram-se, por oportuno, os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA DEMANDADA.
+1. Conforme a jurisprudência desta Corte, a matéria contida no art. 6º da LINDB possui cunho eminentemente constitucional, pois consiste em mera reprodução do art. 5º, XXXVI, da CF/88, o que inviabiliza o conhecimento do apelo nobre nesse ponto, sob pena de usurpação de competência do Supremo Tribunal Federal. Precedentes.
+2. A ausência de enfrentamento dos arts. 421, 422, 473, ambos do CC; 373, I, do NCPC, pelo Tribunal de origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, não havendo falar em prequestionamento ficto dada a não interposição do reclamo pela violação ao art. 1.022, do NCPC. Incidência da Súmula 211 do STJ. Precedentes. 2.1. Ademais, o Tribunal de origem, com amparo em cláusulas contratuais, assentou ser abusiva a rescisão unilateral do contrato de plano de saúde. Assim, é inviável derruir essas conclusões em sede de recurso especial, ante a incidência da Súmula 5 do STJ. 2.2. O recurso especial não constitui via adequada para a análise de eventual ofensa a Resoluções, Portarias ou Instruções Normativas, por não estarem tais atos normativos inseridos no conceito de lei federal, nos termos do art. 105, III, a, da Constituição Federal.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1555054/PE, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 31/08/2020, DJe 04/09/2020)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. DANO MORAL. CARACTERIZAÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. TESE DO ESPECIAL. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2. O Tribunal de origem concluiu que a parte não comprovou os danos morais e assim qualificou os fatos como mero aborrecimento. Alterar esse entendimento demandaria o reexame das provas, o que é vedado em recurso especial.
+3. A simples indicação dos dispositivos legais tidos por violados, sem enfrentamento do tema pelo acórdão recorrido, obsta o conhecimento do especial, por falta de prequestionamento, a teor da Súmula n. 211 do STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 1621397/MG, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 24/08/2020, DJe 28/08/2020)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, c, do RISTJ, conheço do agravo para dar provimento ao recurso especial, anulando-se o v. acórdão proferido em sede de embargos declaratórios e determinando-se, por conseguinte, que outro seja proferido e, assim, sanada a omissão aqui verificada.
+Publique-se.
+EMENTA
