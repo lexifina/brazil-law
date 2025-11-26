@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por THIARLEN RAFAEL GONÇALVES MADUREIRA DA SILVA SANTOS contra acórdão proferido pelo Tribunal de Justiça de Minas Gerais.
+Consta dos autos que o recorrente foi preso em flagrante no dia 20/09/2025 pela suposta prática do crime de uso de documento falso (art. 304 do Código Penal), após ter apresentado documento supostamente adulterado durante abordagem policial. A prisão em flagrante foi convertida em preventiva sob fundamento da garantia da ordem pública e da existência de mandado de prisão preventiva expedido em 2020, em outro processo, relacionado a crime de homicídio.
+A defesa impetrou habeas corpus perante a Corte estadual, que denegou a ordem, nos termos da seguinte ementa (e-STJ fl. 154):
+EMENTA: HABEAS CORPUS - ARTIGO 304 DO CÓDIGO PENAL - PRISÃO PREVENTIVA - REVOGAÇÃO - INVIABILIDADE - PRESENÇA DOS REQUISITOS CONSTANTES DOS ARTS. 312 E 313 DO CPP - MANDADO DE PRISÃO PENDENTE HÁ MAIS DE QUATRO ANOS - CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO - ORDEM DENEGADA.
+- Não acarreta constrangimento ilegal a manutenção da custódia cautelar do paciente quando existem nos autos elementos concretos indicando a necessidade da manutenção da medida extrema como forma de garantia da ordem pública e da aplicação da lei penal.
+- Correta a decretação da prisão preventiva que leva em consideração a necessidade da segregação para a conveniência da instrução criminal e para assegurar a aplicação da lei penal, tendo em vista que o paciente apresentou documento falso à autoridade policial com o intuito de se furtar ao cumprimento de mandado de prisão em aberto há mais de quatro anos.
+Alega que a prisão preventiva é ilegal por estar fundamentada apenas na remissão a decisão anterior, sem que tenha havido motivação própria e contemporânea, em violação ao art. 315, caput e §1º, do Código de Processo Penal. Sustenta que a decisão que manteve a prisão limitou-se a encampar os fundamentos da conversão da prisão em flagrante, sem analisar os novos argumentos defensivos, o que contraria o art. 315, §2º, IV, do mesmo diploma legal.
+Argumenta que o mandado de prisão em aberto, expedido há mais de quatro anos, não demonstra risco atual e concreto, o que compromete a contemporaneidade exigida para a segregação cautelar, conforme jurisprudência do Supremo Tribunal Federal e do Superior Tribunal de Justiça. Destaca que a utilização de documento falso, embora reprovável, não representa risco atual à ordem pública, tampouco demonstra reiteração delitiva.
+Defende que a prisão cautelar viola os princípios da homogeneidade e da proporcionalidade, considerando que a pena prevista para o crime de uso de documento falso pode ser substituída por restritivas de direitos ou cumprida em regime aberto, em razão da primariedade técnica, da ausência de antecedentes e da residência fixa do recorrente.
+Menciona que a manutenção da prisão cautelar sem elementos atuais e individualizados constitui antecipação de pena, em descompasso com o art. 5º, incisos LIV, LXVI e LVII, da Constituição Federal, bem como com o art. 7º, item 5, da Convenção Americana de Direitos Humanos.
+Aduz, ainda, que o juiz de primeiro grau utilizou indevidamente fatos relacionados a outro processo (homicídio) para justificar a prisão no presente feito, violando o princípio da fundamentação individualizada e a autonomia dos processos penais.
+Diante disso, requer, em liminar e no mérito, a revogação da prisão preventiva ou, alternativamente, substituí-la por medidas cautelares diversas.
+É o relatório. Decido.
+Busca-se, no presente recurso, a revogação da prisão preventiva do recorrente.
+Oco rre que, conforme extraídas do endereço eletrônico do Tribunal de origem, em 17/11/2025, o juízo processante revogou a custódia cautelar do réu, momento em que foi expedio o alvará de soltura em seu favor.
+Nesse contexto, fica sem objeto o pedido contido na inicial.
+Ante o exposto, julgo prejudicado o presente recurso ordinário em habeas corpus.
+Intimem-se.
+EMENTA
