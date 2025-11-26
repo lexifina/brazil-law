@@ -1,0 +1,67 @@
+DECISÃO
+Trata-se de agravo interposto por DINORA FERREIRA DOS SANTOS contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS, que não admitiu recurso especial, fundado nas alíneas "a" e "c" do permissivo constitucional, o qual desafia acórdão assim ementado (e-STJ fls. 344/345):
+DIREITO DO CONSUMIDOR. APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C REPETIÇÃO DE INDÉBITO E INDENIZAÇÃO POR DANOS MORAIS. COBRANÇA INDEVIDA. AUSÊNCIA DE PROVA MÍNIMA DO DÉBITO OU DA NEGATIVAÇÃO. IMPROCEDÊNCIA. DESPROVIMENTO.
+I. CASO EM EXAME
+1. Apelação cível interposta contra sentença que julgou improcedente pedido de declaração de inexistência de débito, repetição de indébito e indenização por danos morais, em razão da suposta cobrança indevida de conta de energia elétrica de responsabilidade de antiga locatária do imóvel da autora.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se há elementos suficientes nos autos para reconhecer a cobrança indevida e a consequente responsabilidade da concessionária por eventuais danos causados à consumidora.
+III. RAZÕES DE DECIDIR
+3. Ausência de interesse recursal no pedido de justiça gratuita, uma vez que tal benesse já foi deferida pelo juízo de origem, estendendo- se a todos os graus de jurisdição, na forma do art. 98, § 1º, VIII, do CPC.
+4. A inversão do ônus da prova no âmbito consumerista não exime o consumidor de demonstrar minimamente os fatos constitutivos do seu direito.
+5. Não há nos autos prova do suposto acordo imposto à consumidora ou de negativação de seu nome nos cadastros de proteção ao crédito (SPC/SERASA).
+6. Não cabe a prova de fato negativo ao réu, conforme entendimento da jurisprudência pátria.
+IV. DISPOSITIVO E TESE
+8. Apelação cível conhecida em parte e, na extensão conhecida, desprovida.
+Tese de julgamento: "A inversão do ônus da prova no direito do consumidor não exime o consumidor de demonstrar minimamente os fatos constitutivos de seu direito, sendo inviável a condenação do fornecedor quando inexistente prova de cobrança indevida ou negativação do nome do consumidor".
+Dispositivos relevantes citados: CPC, arts. 98, § 1º, VIII, 85, § 11; CDC, arts. 2º, 3º, 6º, VIII.
+Jurisprudência relevante citada: STJ, AgInt no AgInt no AREsp 1931196/MS, Rel. Min. Marco Aurélio Bellizze, 3ª Turma, j. 27.06.2022; STJ, AgInt no REsp 1922757/PR, Rel. Min. Luis Felipe Salomão, 4ª Turma, j. 09.08.2021; STJ, AgInt no AREsp 2271223/SP, Rel. Min. Raul Araújo, 4ª Turma, j. 22.05.2023.
+Embargos de declaração rejeitados (e-STJ fls. 449/458).
+No recurso especial obstaculizado, às e-STJ fls. 364/396, a parte recorrente apontou, além de dissídio pretoriano, violação dos arts. 1.022 e 1.025 do CPC, ao argumento de que o acórdão recorrido teria deixado de apreciar adequadamente as provas e entendido que "não é necessária a manifestação explícita sobre os dispositivos suscitados para fins de prequestionamento" (e-STJ fl. 376).
+No mérito, sustenta que o Tribunal a quo, ao afastar a aplicação automática da inversão do ônus da prova e condicioná-la à demonstração, ainda que mínima, dos fatos constitutivos do direito da consumidora, contrariou os arts. 6º, VIII, do CDC e 373 do CPC.
+Contrarrazões às e-STJ fls. 433/437.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem (e-STJ fls. 477/480).
+Passo a decidir.
+Considerando que os fundamentos da decisão de inadmissibilidade foram devidamente atacados (e-STJ fls. 484/511), é o caso de examinar o recurso especial.
+Em relação à alegada ofensa do art. 1.022 do CPC, cumpre destacar que, ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação, motivo pelo qual não se constata violação dos preceitos apontados.
+Consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater um a um todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DESAPROPRIAÇÃO. JULGAMENTO ULTRA PETITA. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, A DECISÃO AGRAVADA. SÚMULA 182/STJ. ALEGADA VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. INCONFORMISMO. AGRAVO INTERNO PARCIALMENTE CONHECIDO, E, NESSA EXTENSÃO, IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+ ..
+IV. Não há falar, na hipótese, em violação aos arts. 489, § 1º, IV, e 1.022, II, do CPC/2015, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão proferido em sede de Embargos de Declaração apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+V. Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, EDcl no REsp 1.816.457/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/05/2020; AREsp 1.362.670/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 31/10/2018; REsp 801.101/MG, Rel. Ministra DENISE ARRUDA, PRIMEIRA TURMA, DJe de 23/04/2008.
+VI. Agravo interno parcialmente conhecido, e, nessa extensão, improvido.
+(AgInt no AREsp n. 2.084.089/RO, Relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 12/9/2022, DJe de 15/9/2022.)
+No caso, o Tribunal de origem decidiu integralmente a controvérsia, nos seguintes termos (e-STJ fls. 348/353):
+13 O cerne do recurso reside na (in)existência de cobrança indevida de valores pela concessionária ré, a qual, segundo a consumidora, teria ensejado o aceite de um acordo extrajudicial imposto pela parte ré para o pagamento de serviço utilizado pela antiga inquilina da autora/apelante.
+14 Nesse momento, cumpre salientar que a relação jurídica estabelecida entre as partes é nitidamente de consumo, com base nas definições de consumidor, fornecedor e produto dispostas nos arts. 2º e 3º da Lei 8.078/90: "Art. 2º. (..)".
+15 Todavia, embora cabível a inversão do ônus da prova com base na legislação consumerista, tal circunstância, por si só, não exime a consumidora de demonstrar, ainda que minimamente os fatos constitutivos do seu direito, conforme precedentes do Superior Tribunal de Justiça: "(..)".
+16 No caso dos autos, conquanto a causa de pedir da demanda envolva suposta cobrança de débito no valor de R$ 266,52 (duzentos e sessenta e seis reais e cinquenta e dois centavos), o qual ensejou um acordo extrajudicial imposto de forma forçosa pela concessionária demandada a ser pago em 04 (quatro) parcelas de R$ 66,63 (sessenta e seis reais e sessenta e três centavos), a cliente não apresentou provas tanto da cobrança em questão quanto da alegada transação firmada com a apelada para parcelar o valor tido por devido.
+17 Em verdade, verifico que a consumidora se limitou a anexar faturas de energia do imóvel já em seu nome (fls. 34-41), bem como colacionou termo de ajuste de faturamento (fl. 42) emitido pela concessionária demandada para pessoa estranha à lide (Cristiane Maria dos Santos).
+18 Dessa forma, quanto ao suposto acordo extrajudicial firmado com a parte ré, não há nos autos prova da sua cobrança ou inscrição da cliente nos cadastros de proteção ao crédito, sequer havendo comprovação da existência da dívida no valor de R$ 266,52 (duzentos e sessenta e seis reais e cinquenta e dois centavos).
+19 Não obstante isso, com base nas faturas de fls. 36-39, verifico que a concessionária incluiu, nas cobranças já dirigidas à apelante, a recuperação de consumo de energia da época da antiga inquilina do imóvel, conforme documento de fl. 42.
+20 Todavia, como na inicial a pretensão indenizatória advém de suposto acordo extrajudicial imposto à cliente, o qual teria resultado em 4 (quatro) parcelas de R$ 66,63 (sessenta e seis reais e sessenta e três centavos), não há como alterar a causa de pedir da demanda, de ofício, para reconhecer a falha na prestação dos serviços da concessionária demandada com base na inclusão de valores oriundos de recuperação de energia de terceiros nas cobranças encaminhas à proprietária do bem.
+ ..
+24 Em consequência disso, considerando que a consumidora não demonstrou minimamente que a parte ré efetuou a cobrança tida por indevida ou a anotação de seu nome no SPC/SERASA, bem como considerando não ser possível atribuir ao fornecedor a comprovação de fato negativo (não realização da conduta que lhe é imputada), entendo não ter ocorrido falha na prestação de serviços a justificar eventual reparação material ou moral.
+O acórdão integrativo, por seu turno, assim dispôs (e-STJ fls. 455/456):
+17 Desse modo, não verifico a ocorrência de omissão na análise da distribuição do ônus probatório, uma vez que, apesar de reconhecida a possibilidade da inversão do ônus da prova nos termos do art. 6º, VIII, do CDC, houve a consignação na fundamentação do acórdão de que tal benesse, por si só, não eximiria a consumidora de demonstrar, ainda que minimamente, os fatos constitutivos do seu direito, senão vejamos: "(..)".
+18 Ademais, cumpre salientar que a fundamentação do voto não apresenta qualquer vício que impeça o acesso às instâncias superiores, pois, para fins de prequestionamento, consoante art. 1.025 do CPC, não há necessidade de que o Tribunal a quo se manifeste acerca dos dispositivos suscitados para tanto, consagrando-se, assim, o prequestionamento ficto.
+Da leitura dos acórdãos, observa-se que a Corte local, ao apreciar o conjunto probatório constante dos autos, concluiu que a parte autora, ora recorrente, não se desincumbiu de provar minimamente o fato constitutivo de seu direito, ônus do qual a consumidora não se exime, ainda que reconhecida a possibilidade de inversão da carga probatória.
+Essa conclusão está em perfeita harmonia com a jurisprudência sedimentada desta Corte Superior, circunstância que atrai a incidência da Súmula 83 do STJ.
+Ademais, a modificação do julgado demandaria necessária incursão no acervo fático-probatória, providência inviável em sede de recurso especial, de acordo com o que dispõe a Súmula 7 do STJ.
+Nesse sentido:
+CONSUMIDOR . AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESTITUIÇÃO DE INDÉBITO C/C REPARAÇÃO DE DANOS. ATRASO NA ENTREGA DO IMÓVEL. INVERSÃO DO ÔNUS DA PROVA. AUSÊNCIA DE MÍNIMA PROVA DO DIREITO DO AUTOR. REEXAME DE FATOS E PROVAS. SÚMULA N. 7/STJ.
+1. Nos termos da jurisprudência pacífica do STJ, apesar de o art. 6º, VIII, do CDC prever a inversão do ônus da prova para facilitação da defesa, a aplicação do Código de Defesa do Consumidor não exime o autor do ônus de apresentar prova mínima dos fatos constitutivos de seu direito. Precedentes.
+2. Hipótese em que o Tribunal de origem consignou que a parte autora não se desincumbiu do encargo de provar, minimamente, o fato constitutivo do seu direito. Rever tal conclusão requer, necessariamente, o reexame de fatos e provas, o que é vedado a esta Corte, em recurso especial, por esbarrar no óbice da Súmula n. 7/STJ.
+Agravo interno improvido.
+(AgInt no AREsp n. 2.298.281/RJ, relator Ministro Humberto Martins, Terceira Turma, julgado em 20/11/2023, DJe de 22/11/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO. RELAÇÃO CONSUMERISTA. INCIDÊNCIA DA SÚMULA 7/STJ. PROVIMENTO NEGADO.
+1. É aplicável o enunciado da Súmula 7/STJ quando não é possível, da análise dos fatos e das provas dos autos, vislumbrar a existência de nexo de causalidade, apto a legitimar a pretensão indenizatória.
+2. A natureza consumerista da relação não exime o autor de comprovar minimamente as alegações deduzidas, não havendo violação ao art. 373, I, do CPC, quando a parte não o faça.
+3. Agravo interno a que se nega provimento.
+(AgInt no AgInt no AREsp n. 2.187.042/RJ, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 12/8/2024, DJe de 19/8/2024.)
+Por fim, constata-se que o recorrente não demonstrou com precisão em que medida teria o acórdão recorrido vulnerado o art. 1.025 do CPC.
+A simples alegação de afronta a dispositivos de lei, desprovida de fundamentação que demonstre a maneira como eles foram violados pelo Tribunal de origem, manifesta deficiência na fundamentação do recurso especial, atraindo a incidência da Súmula 284 do STF.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a" e "b", do RISTJ, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, ne ssa extensão, NEGAR-LHE PROVIMENTO.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração de tal verba, em desfavor da parte recorrente, em 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
