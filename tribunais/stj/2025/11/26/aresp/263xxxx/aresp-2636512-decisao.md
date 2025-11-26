@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial pelo qual DIMED S/A - DISTRIBUIDORA DE MEDICAMENTOS se insurgira contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE CATARINA de fls. 362/372, assim ementado:
+TRIBUTÁRIO. RECOLHIMENTO DE ICMS-DIFAL. AQUISIÇÃO DE BENS DE USO E CONSUMO POR CONTRIBUINTE HABITUAL DO IMPOSTO. DISTINÇÃO EM RELAÇÃO AO TEMA N. 1.093 DO STF. TESE QUE ABRANGEU APENAS AS OPERAÇÕES INTERESTADUAIS DESTINADAS A CONSUMIDOR FINAL NÃO CONTRIBUINTE. POSSIBILIDADE DE JULGAMENTO MONOCRÁTICO, NOS TERMOS DO ART. 132, XV, DO REGIMENTO INTERNO DESTA CORTE. AGRAVO INTERNO DESPROVIDO POR NÃO TRAZER ELEMENTOS APTOS A DESCONSTITUIR A DECISÃO UNIPESSOAL. APLICAÇÃO DA MULTA DO ART. 1.021, § 4º, DO CPC.
+Os embargos de declaração opostos foram rejeitados (fls. 404/412).
+Nas razões de seu recurso especial, a parte ora agravante alega (fl. 427):
+Antes da edição da Lei Complementar nº 190/2022, a Lei Complementar nº 87/96 não continha elementos suficientes a embasar a exigência do DIFAL na aquisição de uso e consumo ou destinados ao ativo fixo de consumidores finais contribuintes da exação, já que esta deixou de tratar sobre a definição de elementos essenciais do tributo como fato gerador, base de cálculo e contribuinte.
+A parte adversa apresentou contrarrazões (fls. 508/535).
+O recurso não foi admitido, razão pela qual foi interposto o agravo em recurso especial ora em análise.
+É o relatório.
+A questão debatida nos autos foi afetada à Primeira Seção do Superior Tribunal de Justiça para ser decidida sob o rito de recursos repetitivos (Tema 1.369), e foi assim delimitada:
+"Definir se a cobrança de ICMS-DIFAL em operações interestaduais destinadas a consumidor final contribuinte do imposto estava suficientemente disciplinada na Lei Complementar n. 87/1996 (Lei Kandir), antes da entrada em vigor da Lei Complementar n. 190/2022" (REsp 2.133.933/DF e REsp 2.025.997/DF, relator Ministro Afrânio Vilela).
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+O envio do recurso especial a esta Corte Superior deve ocorrer somente após o esgotamento da instância ordinária, formalizado com o novo julgamento pelo Tribunal de origem, quando então será possível examinar, no âmbito do STJ, as matérias jurídicas que eventualmente permanecerem controvertidas. Essa cautela também evita o fracionamento do recurso e previne eventual violação ao princípio da unicidade recursal, que veda a interposição simultânea ou sucessiva de recursos contra a mesma decisão.
+Ante o exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil (CPC), após a publicação do acórdão dos recursos representativos de controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do mesmo CPC.
+Publique-se. Intimem-se.
+ EMENTA
