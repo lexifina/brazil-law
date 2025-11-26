@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso em habeas corpus com pedido de liminar interposto por HIGOR QUADROS MARTINS contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul (HC n. 5285128-35.2025.8.21.7000).
+Infere-se dos autos a prisão cautelar do ora recorrente, desde 4/9/2025, pela suposta prática de crime tipificado no art. 157, §§ 2º, inciso II, e 2º-A, inciso I, do Código Penal.
+Impetrado prévio writ na origem, a ordem foi denegada, em acórdão assim ementado (e-STJ fl. 56):
+HABEAS CORPUS. ROUBO MAJORADO PELO CONCURSO DE AGENTES E EMPREGO DE ARMA BRANCA. PRISÃO PREVENTIVA. PRESENTES FUNDAMENTOS PARA A PRISÃO.
+Presentes prova da materialidade e indícios suficientes de autoria do paciente no crime, cometido em circunstâncias que demonstram a maior audácia e periculosidade social dos agentes, tratando-se de delitos que causam enorme intranquilidade social. Assim, justificada a prisão preventiva para a garantia da ordem pública, bem como por conveniência da instrução criminal, garantindo que possa a vítima depor livremente em juízo, sem risco de coação e constrangimento, e realizar o reconhecimento dos réus. Logo, incabível a substituição por medidas cautelares diversas. A prisão preventiva não implica em ofensa ao princípio constitucional da presunção de inocência, pois tem natureza cautelar e é recepcionada pela CF (artigo 5º, inciso LXI). A primariedade e eventuais predicados pessoais favoráveis não afastam os requisitos da prisão preventiva. Não cabe, na via estreita do habeas corpus, apreciação de alegação de inocência ou nulidade que demande análise aprofundada da prova, como as circunstâncias da prisão em flagrante, que devem ser objeto da instrução processual e apreciação na sentença. Eventual nulidade do flagrante, por si só, não tem o condão de contaminar o decreto de prisão preventiva, atendendo esse os requisitos legais. Alegada violência policial quando da prisão deve ser objeto da devida apuração na sede própria, não afastando, por si só, a presença dos requisitos da prisão preventiva. Ausente constrangimento ilegal.
+ORDEM DENEGADA.
+No presente recurso, alega a defesa nulidade absoluta da prisão em flagrante, realizado dois dias após a consumação do delito. Afirma, ainda, que a abordagem não ocorreu no momento do crime ou em perseguição imediata, mas sim com resultado de uma diligência investigativa. Ausentes as hipóteses previstas no art. 302 do Código de Processo Penal.
+Aduz, também, que a prisão preventiva é genérica e abstrata, pois "não foi demonstrada a existência de fatos concretos e atuais que indiquem o risco real e iminente à sociedade ou que o Paciente, primário e com residência fixa, efetivamente colocará em risco a colheita da prova, sendo insuficiente a mera suposição para justificar a medida extrema" (e-STJ fl. 49).
+Acrescenta que houve violência e tortura por parte dos policiais, sendo ilegal a custódia.
+Defende a aplicação de medidas cautelares alternativas.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva. Subsidiariamente, postula a aplicação de medidas cautelares diversas da prisão, previstas no art. 319 do CPP.
+É o relatório.
+Decido.
+Preliminarmente, no que se refere à alegada agressão policial e possível nulidade da prisão, o entendimento do Superior Tribunal de Justiça é de que " a  comprovação a respeito da ocorrência ou não das alegadas agressões policiais é matéria que demanda incursão no contexto fático-probatório, providência incabível na via ora trilhada (AgRg no HC n. 669.316/PR, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 8/6/2021, DJe de 14/6/2021)" - AgRg no RHC n. 188.040/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 8/4/2024, DJe de 11/4/2024.
+No caso, consta do acórdão recorrido que foi determinada a expedição de ofício para apuração e medidas cabíveis (e-STJ fl. 39).
+De mais a mais, "com a superveniência de decretação da prisão preventiva, ficam prejudicadas as alegações de ilegalidade da segregação em flagrante, tendo em vista a formação de novo título ensejador da custódia cautelar" (HC n. 429.366/PR, de minha relatoria, Quinta Turma, DJe de 16/11/2018).
+E, quanto à legalidade da prisão preventiva, não obstante as razões declinadas, observo que o recorrente não juntou aos autos cópia da decisão que decretou a prisão preventiva, o que, a toda evidência, impede o exame da tese suscitada.
+Ressalte-se que o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto à parte interessada.
+Nesse sentido, segue a jurisprudência desta Corte:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. ROUBO DUPLAMENTE MAJORADO. PRISÃO PREVENTIVA. INSTRUÇÃO DEFICIENTE. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO DESPROVIDO.
+1. A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+2. O rito do habeas corpus demanda prova documental pré- constituída do direito alegado pela defesa, de modo que a ausência de peça essencial ao deslinde da controvérsia impede o exame sobre as alegações.
+3. No c aso, não é possível analisar a viabilidade do pleito deduzido, na medida em que os autos foram mal instruídos, pois o impetrante não colacionou aos autos a cópia do decreto de prisão preventiva, o que impossibilita o exame do constrangimento ilegal alegado.
+4. Agravo regimental desprovido.
+(AgRg no RHC n. 197.085/DF, relator Ministro Jesuíno Rissato, Desembargador Convocado do TJDFT, Sexta Turma, julgado em 6/8/2024, DJe de 8/8/2024.)
+Diante do exposto, não conheço do recurso em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
