@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO assim ementado (fl. 467):
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. CERTIDÃO DE REGULARIDADE FISCAL. FGTS. DÉBITOS IMPUGNADOS POR RECURSO ADMINISTRATIVO. SUSPENSÃO DE EXIGIBILIDADE. QUITAÇÃO COMPROVADA. REMESSA NECESSÁRIA E APELAÇÕES DESPROVIDAS.
+1. Remessa Necessária e Apelações interpostas pela União e pela CEF em face de r. sentença que, nos autos de Mandado de Segurança, julgou procedente o pedido e concedeu a segurança pretendida para reconhecer a suspensão de exigibilidade de débitos da impetrante junto ao FGTS e, por conseguinte, que as autoridades impetradas abstenham-se de recusar a emissão da certidão de regularidade do FGTS da impetrante em decorrência desses débitos.
+2. Afastada a preliminar de inadequação da via eleita suscitada pela CEF, uma vez que a impetração almeja questionar a regularidade de processos administrativos para apuração de créditos do FGTS e reconhecer a suspensão de exigibilidade em razão da impugnação e quitação desses débitos. Desse modo, a solução da controvérsia posta não reclama maior dilação probatória além da prova documental acostada já acostada à petição inicial.
+3. Rejeitada também a tese de ilegitimidade passiva aventada pela CEF, considerando que o objeto da impetração é justamente a emissão de certidão de regularidade fiscal do FGTS, providência essa que recai sobre a Empresa Pública Federal, nos termos do art. 7º, inciso V, da Lei nº 8.036/90.
+4. As hipóteses de suspensão de exigibilidade do crédito tributário, arroladas no art. 151 do CTN, são aplicáveis às obrigações relativas ao FGTS, de modo que os débitos impugnados por recurso administrativos não deverão ser considerados na verificação de regularidade fiscal da empresa. Precedente: TRF - 2ª Região. Terceira Turma Especializada. AC. REEX nº 0180687-41.2016.4.02.5101. Rel. Desembargador Federal THEOPHILO ANTONIO MIGUEL FILHO. Julgado em 05/04/2019. DJe 10/04/2019.
+5. No caso em exame, é fato incontroverso nos autos que os débitos referentes aos processos administrativos nº 46215.006.061/2012-16 (NFGC 100.239.447) e 46215.006.062/2012 (NFGC 506.583.724) foram questionados por recursos administrativos interpostos pela impetrante, o que implica na suspensão de exigibilidade dos referidos créditos relativos ao FGTS, ao menos até o encerramento do processo administrativo, nos termos do art. 151, inciso III, do CTN.
+6. Além disso, os débitos atinentes aos processos administrativos nº 46215.006058/2012-94 (AI nº 22943137), 46215.006059/2012-39 (AI nº 22943129) e 46261.5006060/2012- 63 (AI nº 22943145) foram efetivamente quitados pela impetrante, como faz prova os comprovantes anexados aos autos.
+7. Conclui-se, portanto, que os débitos relacionados aos processos administrativos questionados no presente mandamus não podem servir de óbice para que a impetrante obtenha a certidão de regularidade fiscal relativa às obrigações com o FGTS, impondo-se a manutenção da bem lançada sentença por seus próprios fundamentos.
+8. Remessa Necessária e Apelações que se negam provimento.
+Os embargos de declaração opostos foram rejeitados (fls. 542/544).
+A parte recorrente alega ter havido violação aos seguintes dispositivos legais pelos motivos descritos em seguida:
+(1) arts. 489, § 1º, IV, e 1.022, inciso II, do Código de Processo Civil porque "o acórdão que julgou o recurso da União foi omisso quanto aos temas suscitados pela recorrente, o que deu causa à interposição dos embargos de declaração, em que se requereu a análise expressa dos dispositivos de lei suscitados anteriormente" (fl. 567);
+(2) art. 1 º da Lei 12.016/2009 pois "foi equivocada a via eleita pela demandante/recorrente, pois não caberia, para discussão ora em questão na estreita via do mandado de segurança." (fl. 568) e
+(3) "não há neste feito elementos probatórios suficientes que permitam aferir a ilegalidade dos débitos, de modo que se faz necessária a dilação probatória que se mostra incompatível com a via do mandado de segurança." (fl. 569).
+Requer o provimento de seu recurso.
+A parte adversa apresentou contrarrazões (fls. 581/588).
+O recurso foi admitido (fls. 594/595).
+É o relatório.
+Nas razões do recurso especial, relativamente ao art. 1.022 do Código de Processo Civil, a parte recorrente alegou o seguinte, como exposto no relatório acima (fl. 567):
+o acórdão que julgou o recurso da União foi omisso quanto aos temas suscitados pela recorrente, o que deu causa à interposição dos embargos de declaração, em que se requereu a análise expressa dos dispositivos de lei suscitados anteriormente.
+Dessa parte do recurso não é possível conhecer porque não foram indicados os pontos sobre os quais o julgador deveria ter se manifestado, restringindo-se a alegações genéricas. As razões recursais são deficientes, o que inviabiliza a compreensão da controvérsia.
+No presente caso, por analogia, incide a Súmula 284 do Supremo Tribunal Federal (STF).
+No acórdão recorrido, o Tribunal de origem decidiu que (fls. 465/466 - sem destaque no original):
+5. Aplicabilidade das hipóteses de suspensão de exigibilidade do crédito tributário - art. 151 do CTN
+O art. 151 do CTN regula as hipóteses de suspensão de exigibilidade do crédito tributário, nos seguintes termos:
+Art. 151. Suspendem a exigibilidade do crédito tributário:
+I - moratória;
+II - o depósito do seu montante integral;
+III - as reclamações e os recursos, nos termos das leis reguladoras do processo tributário administrativo;
+IV - a concessão de medida liminar em mandado de segurança.
+V - a concessão de medida liminar ou de tutela antecipada, em outras espécies de ação judicial; (Incluído pela Lcp nº 104, de 2001)
+VI - o parcelamento. Parágrafo único. O disposto neste artigo não dispensa o cumprimento das obrigações assessórios dependentes da obrigação principal cujo crédito seja suspenso, ou dela conseqüentes.
+Apesar de o citado dispositivo referir-se taxativamente apenas ao crédito tributário, a jurisprudência pátria é firme no sentido de ser aplicável também ao crédito não tributário, por analogia, diante da ausência de lei específica para tratar do tema.
+Precedente desta Corte Regional no mesmo sentido:
+REMESSA NECESSÁRIA E RECURSO DE APELAÇÃO. MANDADO DE SEGURANÇA. LEGITMIDADE AD CAUSAM DO SUPERINTENDENTE REGIONAL DA CAIXA ECONÔMICA FEDERAL. RECURSO ADMINISTRATIVO. SUSPENSÃO DA EXIGIBILIDADE DE CRÉDITOS DE FGTS. CERTIFICADO DE REGULARIDADE DO FGTS. 1. A legitimidade do Superintendente Regional da Caixa Econômica Federal para responder a esta ação mandamental decorre do fato de a CEF ser a pessoa jurídica responsável pela gestão do FGTS, com atribuição para a emissão do respectivo certificado de regularidade. 2. Os débitos de FGTS notificados que estiverem sob impugnação em recurso administrativo não deverão ser considerados na verificação da regularidade do empregador e, assim, não devem impedir a expedição de certificado de regularidade do FGTS (Circular da CEF nº 393/2006). Precedente citado: AC 0500165- 90.2015.4.20.5102, TRF-2, Quarta Turma, Rel. Desembargador Federal Ferreira Neves, disponibilizado em 23/002/2018. 3. Desprovidos a remessa necessária e o recurso de apelação interposto pela CAIXA ECONÔMICA FEDERAL. (TRF - 2ª Região. Terceira Turma Especializada. AC. REEX nº 0180687-41.2016.4.02.5101. Rel. Desembargador Federal THEOPHILO ANTONIO MIGUEL FILHO. Julgado em 05/04/2019. D Je 10/04/2019).
+No caso em exame, é fato incontroverso nos autos que os débitos referentes aos processos administrativos nº 46215.006.061/2012-16 (NFGC 100.239.447) e 46215.006.062/2012 (NFGC 506.583.724) foram questionados por recursos administrativos interpostos pela impetrante, o que implica na suspensão de exigibilidade dos referidos créditos relativos ao FGTS, ao menos até o encerramento do processo administrativo, nos termos do art. 151, inciso III, do CTN (Evento 1, OUT15 e OUT16).
+Apesar do erro material na indicação dos números dos autos de infração, tal como constatado na sentença, isso não retira a validade da impugnação administrativa do crédito e, por consequência, também não é capaz de afastar a suspensão de exigibilidade.
+6. Prova de quitação apresentada pelo contribuinte
+Prosseguindo, denota-se que os débitos atinentes aos processos administrativos nº 46215.006058/2012-94 (AI nº 22943137), 46215.006059/2012-39 (AI nº 22943129) e 46261.5006060/2012- 63 (AI nº 22943145) foram efetivamente quitados pela impetrante, como faz prova os comprovantes anexados aos autos (Evento 1, OUT10 a OUT12).
+7. Conclui-se, portanto, que os débitos relacionados aos processos administrativos questionados no presente mandamus não podem servir de óbice para que a impetrante obtenha a certidão de regularidade fiscal relativa às obrigações com o FGTS, impondo-se a manutenção da bem lançada sentença por seus próprios fundamentos.
+Na peça recursal, todavia, a parte recorrente não se insurge contra aqueles fundamentos, limitando-se a afirmar, em síntese, que a presente discussão não é cabível em sede de mandado de segurança.
+Incide no presente caso, por analogia, a Súmula 283 do Supremo Tribunal Federal, segundo a qual "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
