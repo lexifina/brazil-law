@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de recurso especial interposto por FAZENDA NACIONAL, com base na alínea a do permissivo constitucional, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (e-STJ, fl. 28):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. ENTIDADE HOSPITALAR. SEM FINS LUCRATIVOS. ATENDIMENTO AO SUS. BACENJUD. IMPOSSIBILIDADE NO CASO CONCRETO.
+Considerando a especificidade da finalidade filantrópica do hospital executado - com prestação de serviços através do SUS - correta a decisão que indeferiu o pedido de penhora via SISBAJUD dos ativos financeiros da entidade, ainda que a lei permita a penhora pela via do SISBAJUD e o caso em apreço não se encaixe à exatidão nas hipóteses legais de impenhorabilidade.
+Opostos embargos de declaração, o aresto recorrido foi integralizado pela seguinte ementa (e-STJ, fl. 33):
+EMBARGOS DE DECLARAÇÃO. ART. 1.022 CPC.
+Embargos de declaração rejeitados, porque ausentes quaisquer das hipóteses do art. 1.022 do CPC.
+Nas razões do recurso especial, a recorrente alega violação aos arts. 489, § 1º, IV, 591, 612, 620, 648, 649, 655, 655-A e 1.022, II, parágrafo único, II, do CPC/2015; 111, 184, e 185-A do CTN; e 30 da Lei 6.830/1980.
+Aponta omissão no julgado recorrido.
+Sustenta a possibilidade de penhora, via BACENJUD, dos ativos financeiros da instituição hospitalar recorrida.
+Destaca que "o art. 649, IX, do CPC reconhece como absolutamente impenhoráveis os recursos públicos recebidos por instituições privadas para aplicação compulsória em saúde, não estando incluídas as verbas recebidas por entidade hospitalar em pagamento de serviços prestados a segurados de planos de saúde ou particulares" (e-STJ, fl. 41).
+Sendo assim, requer o provimento do presente recurso especial.
+Decisão de admissibilidade à fl. 51 (e-STJ).
+Brevemente relatado, decido.
+De início, é importante ressaltar que o recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, sendo, desse modo, aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativo a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Preliminarmente, em relação à ofensa aos arts. 489 e 1.022 do CPC/2015, do exame das razões recursais, constata-se que a insurgente não logrou êxito em demonstrar a violação aos dispositivos legais citados, limitando-se à apresentar alegações genéricas acerca de possível negativa de prestação jurisdicional.
+Nesse caso, a jurisprudência do Superior Tribunal de Justiça reconhece deficiência na argumentação apta a atrair a aplicação da Súmula 284/STF.
+A esse respeito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. TRIBUTÁRIO. COFINS-IMPORTAÇÃO. AUSÊNCIA DE VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CÓDIGO DE PROCESSO CIVIL. SÚMULA 284/STF. ADICIONAL DE ALÍQUOTA DE 1% (UM POR CENTO). ART. 8º, § 21, DA LEI Nº 10.865/2004. MEDIDAS PROVISÓRIAS Nº 774/2017 E Nº 794/2017. PERDA DE EFICÁCIA DA MP Nº 774/2017. RETOMADA DA EFICÁCIA DA NORMA ORIGINÁRIA. NÃO CARACTERIZAÇÃO DE REPRISTINAÇÃO. AGRAVO INTERNO DESPROVIDO.
+1. A alegação genérica de violação aos artigos 489 e 1.022 do Código de Processo Civil, desacompanhada da demonstração clara e específica dos vícios que acometeriam o acórdão recorrido e de como tal omissão ou contradição influenciaria o resultado do julgamento, atrai a incidência, por analogia, do óbice da Súmula 284 do Supremo Tribunal Federal, que impede o conhecimento do recurso por deficiência de fundamentação.
+2. A jurisprudência consolidada do Superior Tribunal de Justiça firmou-se no sentido de que a perda de eficácia da Medida Provisória nº 774/2017, em razão de sua revogação pela Medida Provisória nº 794/2017, não configurou repristinação da alíquota adicional de 1% da COFINS - Importação, prevista no § 21 do art. 8º da Lei nº 10.865/2004, mas sim a simples retomada da eficácia da norma originária, que havia sido suspensa temporariamente.
+3. Agravo Interno a que se nega provimento.
+(AgInt no REsp n. 2.142.262/SC, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, julgado em 13/8/2025, DJEN de 18/8/2025.)
+PROCESSO CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC. FALTA DE ESPECIFICAÇÃO DOS PONTOS OMITIDOS. SÚMULA N. 284 DO STF. RECEITA PROVENIENTE DO ALUGUEL DE IMÓVEL PRÓPRIO. INCIDÊNCIA DO PIS/COFINS. DECISÃO RECORRIDA DE ACORDO COM JURISPRUDÊNCIA DO STJ. SÚMULA N. 83 DO STJ. RECURSO NÃO CONHECIDO.
+1. Recurso especial interposto contra acórdão do Tribunal Regional Federal da 4ª Região que negou provimento à apelação em mandado de segurança, mantendo a exigência da contribuição ao PIS/PASEP e da COFINS sobre receitas de locação e venda de imóveis próprios.
+2. Falta de especificação dos pontos do acórdão recorrido com omissão, contradição, obscuridade ou erro material. Aplicação da Súmula n. 284 do STF.
+3. O entendimento do acórdão recorrido está em consonância com a jurisprudência do STJ, que considera que as receitas de locação e venda de imóveis integram o conceito de faturamento para fins de incidência do PIS e da COFINS. Aplicação da Súmula n. 83 do STJ.
+4. Recurso especial não conhecido.
+(REsp n. 1.639.981/PR, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 18/6/2025, DJEN de 26/6/2025.)
+No que se refere à questão de mérito, o Tribunal de origem, em voto divergente, assim se manifestou (e-STJ, fl. 26):
+Ao indeferir o pedido de penhora via SISBAJUD dos ativos financeiros, a decisão agravada consignou que "Ainda que a lei permita a penhora Sisbajud e o caso em apreço não se encaixe à exatidão nas hipóteses legais de impenhorabilidade, há de ser levado em consideração que o hospital possui convênio com o Sistema Único de Saúde (SUS) e constitui em uma das poucas, se não a única, forma de atendimento da população da região de Cruz Alta, especialmente a mais carente" (48.1).
+Os precedentes desta Corte reconhecem a possibilidade de se afastar a penhora sobre os ativos financeiros de hospitais quando estes consistirem em entidades sem fins lucrativos e prestarem atendimento através de convênio com o Sistema Público de Saúde (SUS):
+ ..
+Assim, considerando a especificidade do caso, uma vez que reconhecida a finalidade filantrópica da executada e a prestação de serviços através do SUS, cumpre manter a decisão que indeferiu o pedido de penhora via SISBAJUD dos ativos financeiros da entidade.
+Ante o exposto, voto por negar provimento ao agravo de instrumento.
+Do excerto acima transcrito, depreende-se que a Corte originária entendeu que, aos hospitais vinculados ao SUS, nos quais os recursos são destinados compulsoriamente à área da saúde pública, deve ser aplicado o princípio da menor onerosidade do devedor, a fim de reconhecer a impenhorabilidade dos ativos financeiros.
+De fato, a conclusão acolhida pela instância originária está em harmonia com a orientação jurisprudencial do STJ, conforme se verifica do citado precedente:
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. NOMEAÇÃO DE BENS À PENHORA. ORDEM LEGAL. BLOQUEIO DE ATIVOS FINANCEIROS. INDEFERIMENTO. POSSIBILIDADE. MENOR ONEROSIDADE. PREJUÍZO E INVIABILIDADE DE FUNCIONAMENTO DO HOSPITAL VINCULADO AO SUS CONSTATADO NA ORIGEM. AGRAVO INTERNO DESPROVIDO.
+1. A Corte Especial do Superior Tribunal de Justiça, no julgamento do Tema 425, vinculado ao Recurso Especial repetitivo 1.184.765/PA, da relatoria do Min. LUIZ FUX, firmou o entendimento de que a utilização do Sistema BACENJUD, no período posterior à vacatio legis da Lei 11.382/2006 (21.1.2007), prescinde do exaurimento de diligências extrajudiciais, por parte do exequente, a fim de se autorizar o bloqueio eletrônico de depósitos ou de aplicações financeiras.
+2. Isso, aliado ao entendimento da 1a. Seção desta Corte de Justiça, no julgamento do Tema 291, vinculado ao Recurso Especial repetitivo 1.337.790/PR, da relatoria do Min. HERMAN BENJAMIN, firmou a orientação de que cumpre ao devedor fazer a nomeação de bens à penhora observando a ordem legal estabelecida no art. 11 da LEF, incumbindo-lhe demonstrar, se for o caso, a necessidade de afastá-la, não sendo suficiente a mera invocação genérica do art. 620 do CPC.
+3. Contudo, no presente caso, o Tribunal de origem, consignou que o devedor é um hospital vinculado ao SUS, recebendo recursos do governo para a consecução de suas finalidades na área da saúde, de forma que o bloqueio de ativos financeiros existentes em seu nome poderá implicar a inviabilidade de seu financiamento, pois a consequente indisponibilidade de recursos necessários ao gerenciamento da atividade hospitalar acarretará prejuízos ao já precário funcionamento do sistema de saúde hoje disponível à população, em especial de baixa renda (fls. 68).
+4. Verifica-se, assim, que o afastamento da ordem legal da penhora está suficientemente demonstrada, pois acarretaria prejuízos ao próprio funcionamento do sistema de saúde, em especial à população de baixa renda, e esta foi a conclusão do Tribunal de origem, não cabendo, nesta seara, a modificação do julgado.
+5. Agravo Interno da FAZENDA NACIONAL desprovido.
+(AgInt no REsp n. 1.350.333/RS, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 20/4/2017, DJe de 4/5/2017.)
+Ante o exposto, conheço em parte o recurso especial para , nessa extensão, negar-lhe provimento.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. OMISSÃO. DEFICIÊNCIA NA ARGUMENTAÇÃO. SÚMULA 284/STF. EXECUÇÃO FISCAL. ENTIDADE HOSPITALAR SEM FINS LUCRATIVOS. ATENDIMENTO AO SUS. PENHORA. PRINCÍPIO DA MENOR ONEROSIDADE AO DEVEDOR. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, DESPROVIDO.
