@@ -1,0 +1,89 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto por MARLI SOARES RAMOS contra acórdão prolatado, por unanimidade, pela 6ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios no julgamento de apelação, assim ementado (fl. 844e):
+APELAÇÃO. PASEP. VALORES DESFALCADOS. RESSARCIMENTO. TEMA 1.150 DO STJ. PRESCRIÇÃO DECENAL. TERMO INICIAL. CIÊNCIA INEQUÍVOCA. SAQUE. SENTENÇA MANTIDA.
+1. No julgamento do Tema 1.150, sob a sistemática dos recursos repetitivos, o Superior Tribunal de Justiça fixou as seguintes teses: "(..) ii) a pretensão ao ressarcimento dos danos havidos em razão dos desfalques em conta individual vinculada ao Pasep se submete ao prazo prescricional decenal previsto pelo artigo 205 do Código Civil; e iii) o termo inicial para a contagem do prazo prescricional é o dia em que o titular, comprovadamente, toma ciência dos desfalques realizados na conta individual vinculada ao Pasep".
+2. Conforme definido pelo STJ, e à luz da teoria da actio nata, o prazo prescricional tem início na data em que a parte toma ciência do saldo existente na conta, o que, na hipótese, ocorreu no momento em que foi realizado o saque.
+3. Recurso conhecido e desprovido.
+Opostos embargos de declaração, foram rejeitados (fls. 907/911e).
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa aos dispositivos a seguir relacionados, alegando-se, em síntese, que:
+i) Arts. 189, 20 5 e 206 do Código Civil - Deve-se afastar a ocorrência da prescrição, porquanto a correta interpretação da Teoria da Actio Nata indica o surgimento da pretensão quando verificada a ciência inequívoca da violação do direito subjetivo, tanto em conteúdo, quanto em extensão. Assim, tendo em vista que no momento do saque não foi entregue qualquer demonstrativo ou extrato da conta, a fim de demonstrar certeza de que o valor disponibilizado corresponderia ao depositado ao longo dos anos, deve-se reformar o acórdão recorrido.
+Em juízo de retratação (fls. 1.054/1.060e), assim decidiu o tribunal de origem (fl. 1.078e):
+DIREITO CIVIL E PROCESSUAL CIVIL. APELAÇÃO CÍVEL. CONTA VINCULADA AO PASEP. SAQUE DE VALORES. CIÊNCIA INEQUÍVOCA DOS DESFALQUES. PRESCRIÇÃO DECENAL. TEMA 1.150/STJ. JUÍZO DE RETRATAÇÃO. INOCORRÊNCIA DE DIVERGÊNCIA COM O PRECEDENTE QUALIFICADO. MANUTENÇÃO DO ACÓRDÃO.
+I. CASO EM EXAME
+1. Apelação cível interposta por MARLI SOARES RAMOS contra sentença que julgou extinto o processo, com resolução de mérito, com fundamento no art. 487, II, do CPC, reconhecendo a prescrição da pretensão de ressarcimento por desfalques em conta vinculada ao PASEP. O acórdão n. 1951688 manteve a sentença por unanimidade, reconhecendo que o prazo prescricional decenal teve início na data do saque, ocorrido em 20/5/2009. Opostos embargos de declaração para correção de erro material quanto aos honorários, estes foram acolhidos. Posteriormente, os autos retornaram à Turma para juízo de retratação, nos termos do art. 1.030, II, do CPC, à luz do julgamento do Tema 1.150 do STJ.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em verificar se o acórdão recorrido diverge das teses fixadas pelo STJ no julgamento do Tema 1.150, especialmente quanto ao termo inicial da prescrição para pleito de ressarcimento de valores subtraídos de conta vinculada ao Pasep.
+III. RAZÕES DE DECIDIR
+3. O STJ, ao julgar o Tema 1.150, fixou que a pretensão ao ressarcimento de danos por desfalques em conta vinculada ao Pasep submete-se ao prazo prescricional decenal do art. 205 do CC, e que o termo inicial é a data em que o titular toma ciência inequívoca do prejuízo.
+4. O acórdão recorrido observou essa orientação, adotando expressamente a teoria da actio nata para reconhecer que a ciência inequívoca dos desfalques se deu em 20/5/2009, data em que a autora realizou o saque e teve acesso ao extrato da conta.
+5. A própria apelante reconheceu que recebeu valor irrisório e se conformou com o saldo na ocasião, o que confirma a efetiva ciência do alegado prejuízo naquela data.
+6. Assim, não se constata divergência entre o acórdão recorrido e o precedente repetitivo, razão pela qual é incabível o juízo de retratação.
+IV. DISPOSITIVO E TESE
+7. Juízo de retratação rejeitado. Acórdão mantido.
+Com contrarrazões (fls. 1.037/1.046e), o recurso foi admitdo (fls. 1.110/1.111e).
+O Ministério Público Federal manifestou-se às fls. 1.129/1.135e.
+Feito breve relato, decido.
+Nos termos do art. 932, III, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, mediante decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+- Do Benefício da Justiça Gratuita
+Inicialmente, defiro o pedido de justiça gratuita requerido, a fim de viabilizar a análise do recurso especial interposto na origem sem o recolhimento do preparo, porquanto, consoante o art. 99, § 3º, do CPC, presume-se verdadeira a alegação de insuficiência feita por pessoa física. Contudo, ressalto que a concessão da gratuidade da justiça possui efeitos ex nunc.
+Espelhando esse entendimento:
+AGRAVO INTERNO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ADMINISTRATIVO. IMPROBIDADE. GRATUIDADE DE JUSTIÇA. DEFERIMENTO. EFEITOS EX NUNC. RETROAÇÃO. IMPOSSIBILIDADE.
+1. "O Superior Tribunal de Justiça adota o entendimento de que o benefício da gratuidade da justiça pode ser formulado a qualquer tempo e, caso deferido, produzirá efeitos ex nunc, operando efeitos somente para o futuro e não retroagindo para abarcar atos pretéritos. (AREsp n. 2.849.808/MG, Relator Ministro Moura Ribeiro, Terceira Turma, julgado em 14/4/2025, DJEN de 23/4/2025).
+2. Agravo não provido.
+(AgInt no AgInt nos EDcl no AREsp n. 2.386.190/SP, relator Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, j. 18/8/2025, DJEN de 22/8/2025 - destaque meu.)
+DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS. PAGAMENTO DE HONORÁRIOS EM DESCONFORMIDADE COM O CONTRATO. OMISSÕES. INOCORRÊNCIA. GRATUIDADE DA JUSTIÇA. EFEITOS EX NUNC. ALEGAÇÃO DE SENTENÇA EXTRA PETITA. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA N. 283 DO STF. MÁ-FÉ DA CONTRATADA E DECADÊNCIA ADMINISTRATIVA. NECESSIDADE DE REEXAME DE PROVAS E CLÁUSULAS CONTRATUAIS. SÚMULAS N. 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+2. O benefício da gratuidade da justiça pode ser requerido em qualquer fase do processo, mas seus efeitos são ex nunc, não alcançando encargos processuais anteriores à data de sua concessão.
+ ..
+7. Agravo interno não provido.
+(AgInt no AREsp n. 2.744.558/SC, relator Ministro TEODORO SILVA SANTOS, SEGUNDA TURMA, j. 20/8/2025, DJEN de 29/8/2025 - destaque meu.)
+- Da Alegação de Violação aos Arts. 189, 205 e 206 do CC
+Nos termos do art. 1.041, caput, do CPC, verifico ser desnecessária a interposição de novo Recurso Especial quando restar mantido o acórdão recorrido, após a fase do art. 1.040, II, do CPC.
+No mais, destaco o entendimento adotado por esta Corte Superior no sentido da necessidade de complementar-se as razões recursais tão somente nas hipóteses em que há acréscimo de fundamento no reexame de matéria repetitiva.
+Espelhando essa compreensão:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. PRINCÍPIO DA NÃO-SURPRESA. VIOLAÇÃO. INOCORRÊNCIA. JUÍZO DE CONFORMIDADE. RETRATAÇÃO QUANTO À TESE ENTÃO ADOTADA. UTILIZAÇÃO DE NOVO FUNDAMENTO PARA MANTER O RESULTADO DO JULGAMENTO. NOVA IMPUGNAÇÃO. NECESSIDADE.
+1. O indeferimento de pedido com base na ilegitimidade passiva do requerido não caracteriza violação do princípio da não surpresa (art. 10 do CPC/2015), visto que não há apreciação de questão nova, mas tão somente exame de preliminar de mérito concernente às condições da ação, inerente, portanto, ao julgamento do pedido apresentado.
+2. A retratação exercida em sede de juízo de conformidade com precedente vinculante substitui o acórdão originário, ocasionando a perda de objeto do recurso especial então interposto, de modo que a utilização de fundamento diverso para manter o julgamento da causa deve ser impugnada por novo recurso. Precedentes.
+3. Hipótese em que o colegiado local, em sede de juízo de conformação, retratou-se quanto à tese acerca dos limites subjetivos da lide então adotada quando do julgamento do agravo de instrumento, vindo a manter o resultado do julgamento com outro fundamento, de que a associação impetrante seria de caráter genérico, não representando categoria específica e, por isso, não estaria contemplada pelo Tema 1.119 do STF, fundamento que não veio a ser impugnado por novo recurso.
+4. Agravo interno desprovido.
+
+(AgInt no REsp n. 2.097.176/RJ, relator Ministro GURGEL DE FARIA, PRIMEIRA TURMA, j. 20/5/2024, DJe de 27/5/2024 - destaque meu.)
+PROCESSUAL CIVIL. JUÍZO DE RETRATAÇÃO. NOVO FUNDAMENTO NÃO ATACADO. SÚMULAS 283 E 284/STF.
+1. Não se olvida o entendimento do STJ de que, se o Tribunal a quo mantiver o aresto recorrido na fase de retratação, porém com o acréscimo de algum fundamento, não será necessária a interposição de um segundo Recurso Especial, mas deverá ser assegurado à parte o direito de complementar as razões recursais para a impugnação do novo item.
+2. Apesar de devidamente intimado do referido acórdão que rejeitou a retratação, o recorrente não atualizou o Recurso Especial para infirmar o novo argumento. Com efeito, em petição às fls. 529-521, e-STJ, a parte manifestou ciência do julgado e requereu apenas a remessa dos autos ao STJ, o que acarreta a preclusão do aludido direito.
+3. O fundamento referido é apto, por si só, para manter o decisum combatido e não foi atacado pela parte insurgente. Ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo, aplicam-se, por analogia, as Súmulas 284 e 283 do STF.
+4. Agravo Interno não provido.
+
+(AgInt no REsp n. 1.863.991/RJ, relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, j. 11/9/2023, DJe de 21/9/2023 - destaque meu.)
+No caso, o tribunal de origem manteve o entendimento adotado na primeira decisão, motivo pelo qual não há falar em necessidade de complementação das razões recursais.
+Nas razões do Recurso Especial, aponta-se ofensa aos arts. 189. 205 e 206 do Código Civil, alegando-se, em síntese, a necessidade de afastamento da ocorrência da prescrição, porquanto a correta interpretação da Teoria da Actio Nata indica o surgimento da pretensão quando verificada a ciência inequívoca da violação do direito subjetivo, tanto em conteúdo, quanto em extensão.
+Acerca do tema, a Corte a qua, após minucioso exame dos elementos fáticos contidos nos autos, consignou ter ocorrido ciência inequívoca dos desfalques realizados na conta PASEP em 20.5.2009, motivo pelo qual a pretensão restou prescrita, nos seguintes termos (fls. 845/846e):
+Cinge-se a controvérsia recursal a aferir a ocorrência da prescrição da pretensão da autora/apelante, relativa aos desfalques em sua conta vinculada ao Pasep.
+ ..
+Na hipótese, a apelante defende que o termo inicial da prescrição decenal ocorreu em 17/12/2020, data em que recebeu os extratos detalhados do Pasep (ID 63665500).
+Todavia, conforme definido pelo STJ, e à luz da teoria da actio nata, o prazo prescricional tem início na data em que a parte toma ciência do saldo existente na conta, o que, na hipótese, ocorreu quando foi realizado o saque, em 20/5/2009, conforme demonstrado no extrato anexado ao ID 63665500.
+ ..
+Desse modo, considerando que a ciência inequívoca dos desfalques realizados na conta Pasep ocorreu em 20/5/2009, é de se concluir que a pretensão de ressarcimento do apelante foi fulminada pela prescrição em 20/5/2019, porquanto não observado o prazo prescricional de 10 anos previsto no art. 205 do Código Civil. (destaque meu)
+Do confronto entre a insurgência recursal e a fundamentação adotada pelo tribunal de origem pode-se defluir tanto a possibilidade de mera revaloração de premissas nas quais o acórdão recorrido esteja assentado, quanto a incidência do óbice constante na Súmula n. 7/STJ, segundo a qual, a pretensão de simples reexame de prova não enseja recurso especial.
+In casu, a análise da pretensão recursal - afastamento da ocorrência de prescrição - a fim de revisar o entendimento adotado pela Corte a qua - a ciência inequívoca dos desfalques realizados na conta PASEP se deu em 20.5.2009, motivo pelo qual a pretensão da Parte Recorrente restou prescrita - demanda o necessário revolvimento de matéria fática, o que é inviável em recurso especial, à luz do óbice contido no mencionado verbete sumular.
+Nesse sentido:
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS. DIFERENÇA DE DEPÓSITO EM CONTA PASEP. TEMA N. 1.150 DO STJ. INÍCIO DA CONTAGEM DO PRAZO PRESCRICIONAL DECENAL. NECESSÁRIO REEXAME FÁTICO-RPOBATÓRIO. ÓBICE DA SÚMULA N. 7 DO STJ. PRECEDENTE.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A Primeira Seção, no julgamento do REsp n. 1.895.936/TO, vinculado ao Tema n. 1.150 dos recursos repetitivos, fixou o seguinte entendimento: "i) o Banco do Brasil possui legitimidade passiva ad causam para figurar no polo passivo de demanda na qual se discute eventual falha na prestação do serviço quanto à conta vinculada ao Pasep, saques indevidos e desfalques, além da ausência de aplicação dos rendimentos estabelecidas pelo Conselho Diretor do referido programa; ii) a pretensão ao ressarcimento dos danos havidos em razão dos desfalques em conta individual vinculada ao Pasep se submete ao prazo prescricional decenal previsto pelo art. 205 do Código Civil; e iii) o termo inicial para a contagem do prazo prescricional é o dia em que o titular, comprovadamente, toma ciência dos desfalques realizados na conta individual vinculada ao Pasep". Nesse sentido: REsp n. 1.895.936/TO, relator Ministro Herman Benjamin, Primeira Seção, DJe de 21/9/2023.
+3. Na espécie, a Corte de origem consignou que a autora teve ciência do evento danoso na ocasião da retirada dos valores da sua conta PASEP, em razão de sua passagem à aposentadoria, em 07/01/1998, momento em que, nos termos do Tema n. 1.150/STJ, tem início a contagem do prazo prescricional decenal. Assim, reconheceu a ocorrência da prescrição, pois a ação somente foi ajuizada em 16/10/2021, ou seja, mais de 23 anos após a ciência do evento danoso. Logo, para rever as conclusões do acórdão ora recorrido, seria imprescindível o reexame do conjunto fático-probatório dos autos, providência vedada em recurso especial, nos termos da Súmula n. 7/STJ.
+4. Agravo interno não provido.
+
+(AgInt no REsp n. 2.184.577/DF, relator Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, j. 9/6/2025, DJEN de 12/6/2025 - destaque meu.)
+PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. AÇÃO ORDINÁRIA. RECOMPOSIÇÃO DO SALDO DE CONTA BANCÁRIA VINCULADA AO PASEP. TEMA N. 1.150 DO STJ. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. SÚMULA N. 7 DO STJ
+I - Na origem, trata-se de ação ordinária objetivando a recomposição do saldo de conta vinculada ao PASEP, em razão da não aplicação dos índices de correção monetária e dos juros devidos e do não recolhimento dos importes que deveriam ter sido efetivamente nela recolhidos. Na sentença, os pedidos foram julgados improcedentes. No Tribunal a quo, a sentença foi mantida.
+II - A Primeira Seção, no julgamento do REsp n. 1.895.936/TO, vinculado ao Tema n. 1.150 dos recursos repetitivos, fixou o seguinte entendimento: "i) o Banco do Brasil possui legitimidade passiva ad causam para figurar no polo passivo de demanda na qual se discute eventual falha na prestação do serviço quanto à conta vinculada ao Pasep, saques indevidos e desfalques, além da ausência de aplicação dos rendimentos estabelecidas pelo Conselho Diretor do referido programa; ii) a pretensão ao ressarcimento dos danos havidos em razão dos desfalques em conta individual vinculada ao Pasep se submete ao prazo prescricional decenal previsto pelo art. 205 do Código Civil; e iii) o termo inicial para a contagem do prazo prescricional é o dia em que o titular, comprovadamente, toma ciência dos desfalques realizados na conta individual vinculada ao Pasep." Nesse sentido: REsp n. 1.895.936/TO, relator Ministro Herman Benjamin, Primeira Seção, julgado em 13/9/2023, DJe de 21/9/2023.
+III - Na hipótese dos autos, a Corte de origem, às fls. 620-622, consignou expressamente que a autora, ora agravante, teve ciência do evento danoso na ocasião da retirada dos valores da sua conta PASEP, em razão de sua passagem à aposentadoria, em 31/3/1998, momento em que, nos termos do Tema n. 1.150/STJ, tem início a contagem do prazo prescricional decenal. Assim, reconheceu a ocorrência da prescrição, dado que a ação somente foi ajuizada em 3/11/2021, ou seja, mais de 23 anos após a ciência do evento danoso.
+Neste contexto, observa-se que, para rever as conclusões do acórdão ora recorrido, seria imprescindível o reexame do conjunto fático-probatório dos autos, providência vedada em recurso especial, nos termos da Súmula n. 7/STJ.
+IV - Agravo interno improvido.
+
+(AgInt no REsp n. 2.184.637/DF, relator Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, j. 9/4/2025, DJEN de 14/4/2025 - destaque meu.)
+Nos termos do art. 85, §§ 2º e 11, de rigor a majoração, para 12% (doze por cento), dos honorários anteriormente fixados (fls. 610e e 847e), restando suspensa sua exigibilidade, nos termos do art. 98, § 3º, do Código de Processo Civil de 2015.
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Especial.
+Publique-se e intimem-se.
+EMENTA
