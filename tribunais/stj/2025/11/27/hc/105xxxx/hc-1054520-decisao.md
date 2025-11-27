@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de ANDERSON FERNANDO TOMASEL, contra julgado proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA (Revisão Criminal nº 5057518-43.2025.8.24.0000/SC).
+Consta dos autos que o paciente foi condenado à pena de 12 (doze) anos, 8 (oito) meses e 13 (treze) dias de reclusão, em regime inicial fechado, pela prática da conduta tipificada no art. 157, §2º, incisos I e II, do Código Penal.
+Ajuizada a revisão criminal perante o Tribunal de origem, foi julgada improcedente.
+Neste habeas corpus, a defesa busca o reconhecimento da nulidade da condenação do paciente.
+Sustenta, em apertada síntese, que "o reconhecimento fotográfico foi realizado em total desrespeito e inobservância ao procedimento do artigo 226 e seguintes do CPP, além de imprestável, contaminou a memória das vítimas" (fl. 5).
+Requer, liminarmente, "suspender os efeitos da condenação imposta ao paciente nos autos da Ação Penal, determinando-se a imediata expedição de alvará de soltura em seu favor"; no mérito, "seja reconhecida a nulidade do reconhecimento fotográfico e, por consequência, de todos os atos dele decorrentes, absolvendo-se o paciente da imputação que lhe foi feita, com fundamento no art. 386, VII, do Código de Processo Penal, por não existir prova suficiente para a condenação" (fl. 17).
+É o relatório. DECIDO.
+A controvérsia consiste em se buscar o reconhecimento da nulidade da condenação do paciente.
+No entanto, o presente habeas corpus foi impetrado contra uma revisão criminal de condenação com trânsito em julgado.
+Das razões expostas, contudo, o que se verifica é que sequer se enquadrariam nos parâmetros da revisão criminal, por ausência de seus pressupostos, quais sejam, os requisitos do art. 621, incisos, do Código de Processo Penal:
+Art. 621. A revisão dos processos findos será admitida:
+I - quando a sentença condenatória for contrária ao texto expresso da lei penal ou à evidência dos autos;
+II - quando a sentença condenatória se fundar em depoimentos, exames ou documentos comprovadamente falsos;
+III - quando, após a sentença, se descobrirem novas provas de inocência do condenado ou de circunstância que determine ou autorize diminuição especial da pena. (grifei)
+Segundo a origem, não seria a hipótese de flagrante ilegalidade no caso concreto (fls. 62-63):
+ ..  Como se vê, a decisão colegiada analisou detidamente não apenas o reconhecimento fotográfico e pessoal, mas todo o conjunto probatório constante dos autos, incluindo os depoimentos das vítimas prestados tanto na fase investigativa quanto na fase judicial, sob o crivo do contraditório. O Tribunal expressamente consignou que a condenação do acusado não se fundou exclusivamente em elementos colhidos na fase investigativa, mas decorreu da análise conjunta das provas indiciárias e das provas produzidas sob o contraditório durante a instrução processual.  ..
+Portanto, tanto quanto assentado pelo representante do Parquet, a questão relacionada à autoria e materialidade já foi analisada de maneira exaustiva pelo Colegiado durante o trâmite do feito originário, de modo que não se pode, agora, renovar o pleito buscando solução diversa daquela outrora adotada. Cabia, sim, fosse o caso, recorrer aos Tribunais Superiores; jamais, contudo, servir como base para um pedido revisional.
+O que se vê, então, é que, a despeito do alegado, o que o revisando quer é reviver uma discussão já enfrentada, apenas adicionando alguns novos argumentos que poderiam ter sido facilmente expostos na ação originária; ou, caso expostos, tenham sido rejeitados por essa Corte. Ora, aceitar isso criaria um ciclo infinito, possibilitando sempre nova argumentações, a fim de fazer a Corte se debruçar novamente sobre o tema. É justamente por isso que o instituto da preclusão consumativa vige em nosso ordenamento jurídico.
+Relevante anotar, quanto à aventada nulidade invocada acerca do reconhecimento fotográfico e as formalidades exigidas, sabidamente a revisão criminal também não se presta à simples reanálise de questões já decididas, especialmente quando o pedido se fundamenta apenas em eventual mudança jurisprudencial, conforme entendimento já sedimentado pelo Superior Tribunal de Justiça: "Novo entendimento jurisprudencial, firmado após o trânsito em julgado da condenação, ainda que mais benéfico ao réu, não autoriza, por si só, a revisão do édito condenatório" (STJ, AgRg no HC n. 804.414/SC, rel. Ministra Laurita Vaz, j. em 24/4/2023).
+Nesse contexto, deve-se reforçar que o art. 5º, XL, da Constituição Federal assegura a retroatividade da lei penal mais benéfica, mas não estende essa prerrogativa a alterações jurisprudenciais, as quais, caso admitidas, comprometeriam a segurança jurídica.
+Por fim, reforça-se, não houve qualquer circunstância fática nova apta implicar na necessidade de modificação do julgado, apenas uma nova tentativa de alterar o consignado no acórdão, nomeando como "revisão criminal", o que não passa de uma nova forma de apelação.  ..
+Diante disso, o writ não deve ser conhecido, pois foi, ao fim, utilizado como substituto de um recurso especial em revisão criminal ou mesmo uma tentativa de nova revisão criminal em um Tribunal Superior.
+Conforme o artigo 105, inciso I, alínea "e", da Constituição Federal, compete a este STJ, originariamente e somente, "as revisões criminais e as ações rescisórias de seus julgados".
+Nessa linha:
+ ..  Na hipótese, a condenação transitou em julgado em 31/5/2023. Dessa forma, o presente writ seria sucedâneo de revisão criminal, sendo esta Corte incompetente para o processamento do pleito revisional.  ..  Agravo regimental desprovido (AgRg no HC n. 861.867/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/9/2024, DJe de 6/9/2024.)
+De todo modo, não verifico a presença de teratologia ou coação ilegal que desafie a concessão da ordem, nos termos do § 2º do artigo 654 do Código de Processo Penal.
+Ante o exposto, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
