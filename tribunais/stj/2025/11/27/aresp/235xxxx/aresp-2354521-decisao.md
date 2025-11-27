@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual a FAZENDA DO ESTADO DE SÃO PAULO se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 249):
+Apelação Cível. Ação de desapropriação em fase de execução. Saldo remanescente de precatório atingido pela moratória constitucional do art. 33 do ADCT. Embargos opostos pela FESP rejeitados. Invocação de nova matéria nas razões recursais, relacionada à nulidade da execução por suposta ausência de memória de cálculo. Não conhecimento do recurso, neste ponto, por configurar inovação recursal. Teses de prescrição e da necessidade de expedição de novo precatório. Descabimento. Coisa julgada Questões rechaçadas no bojo do Agravo de Instrumento n. 2151729-83.2016.8.26.0000. Correção monetária. Aplicação dos indexadores vigentes na data de cada um dos depósitos efetuados, segundo a orientação jurisprudencial daquela época. Precedentes deste E. Tribunal de Justiça. Definição, ademais, do índice do IPC de janeiro de 1989, no percentual de 70,28%, conforme r. decisões proferidas anteriormente nos autos, restando preclusa a pretensão de afastar a sua aplicação. Recurso não conhecido em parte e, no que lhe remanesce, desprovido.
+Não foram opostos embargos de declaração.
+A parte recorrente alega violação ao art. 1.022, II, do Código de Processo Civil (CPC), pois o Tribunal de origem não enfrentou diversos pontos essenciais para a solução da controvérsia.
+Sustenta ter ocorrido ofensa ao art. 496, I, do CPC e ao art. 100, § 1º, da Constituição Federal, ao argumento de que a expedição do precatório discutido é prematura e inconstitucional, porque a execução contra a Fazenda Pública exige o trânsito em julgado. Assim, pede o provimento do recurso para assegurar o efeito suspensivo da apelação e impedir a expedição do precatório.
+A parte adversa não apresentou contrarrazões (fls. 286).
+O recurso não foi admitido (fls. 288/290), razão pela qual foi interposto o agravo ora examinado.
+O Ministério Público Federal manifestou-se pelo prosseguimento do feito (fls. 335/340).
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+O presente recurso especial tem origem em embargos à execução opostos pela FAZENDA DO ESTADO DE SÃO PAULO (FESP), no bojo de ação de desapropriação em fase de execução, em que se alegou prescrição, excesso de execução e a necessidade de expedição de novo precatório. A sentença rejeitou integralmente os embargos à execução. Em grau recursal, o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO não conheceu de parte da apelação por inovação recursal e, no mérito remanescente, negou provimento ao recurso.
+Para o Superior Tribunal de Justiça, é inadmissível o recurso especial que apresenta razões dissociadas do quadro fático e das premissas jurídicas expostos no acórdão recorrido. É o caso dos autos.
+Nesse contexto, é necessário expor brevemente a sequência processual. A FESP opôs embargos à execução, os quais foram julgados improcedentes pelo Juízo de primeiro grau (fls. 130/135). Contra essa decisão, ela interpôs apelação (fls. 138/165), que foi recebida por aquele Juízo apenas no efeito devolutivo (fl. 166). Inconformada, opôs embargos de declaração, que foram rejeitados pelo magistrado (fl. 222), ocasião em que se determinou a remessa da apelação ao Tribunal estadual. A FESP, então, insurgiu-se especificamente contra o não recebimento da apelação no duplo efeito por meio do agravo de instrumento 2151796-48.2016.8.26.0000 (fl. 224), ao qual foi negado provimento.
+A leitura das razões do presente recurso especial demonstra que a insurgência é dirigida contra essa decisão do agravo de instrumento, e não contra o acórdão proferido na apelação. Para ilustrar, transcrevo trechos da própria fundamentação recursal (fls. 274, 277 e 280):
+Dessa forma, seria de rigor o recebimento da apelação em ambos os efeitos. Isso, porque, em se tratando de execução por quantia certa contra a Fazenda Pública, cujo cumprimento depende da expedição de precatório (ou requisição de pequeno valor), e que, ademais, deve ser efetivada sempre com observância ao princípio da supremacia do interesse público, verifica se ser inadmissível a inscrição do crédito antes do trânsito em julgado da ação de execução, nos termos do parágrafo 1 º, do art. 100, da Lei Maior e artigo 475, inciso I, do CPC de 1973 (atual 496, do NCPC).
+ ..
+Desse modo, é impensável deixar de atribuir efeito suspensivo ao recurso de apelação, pois estar-se-ia admitindo a execução provisória contra a Fazenda Pública, de parte controversa da condenação, erro que não se pode incorrer por ofender norma federal e constitucional. Daí, porque, a apelação apresentada no bojo dos embargos à execução deveria ser, necessariamente, recebida no duplo efeito, vale dizer, devolutivo e suspensivo.
+ ..
+Assim, deve o processo executivo ser suspenso até o transito em julgado da fase de execução, conquanto não ser possível a execução provisória contra a Fazenda Pública, após o advento da Emenda Constitucional 30/2000. Daí a necessidade de reforma do v. Acórdão.
+Além disso, o acórdão recorrido limitou-se a examinar questões relativas à prescrição, à impossibilidade de rediscutir matéria acobertada pela coisa julgada e à correção dos critérios de atualização monetária aplicados. Em nenhum momento foram enfrentadas questões relativas à necessidade de atribuição de efeito suspensivo à apelação ou à vedação de execução provisória contra a Fazenda Pública, justamente porque tais pontos estavam sendo discutidos no agravo de instrumento interposto pela própria parte recorrente.
+Diante desse descompasso, o recurso especial foi interposto contra o acórdão equivocado. As razões recursais não impugnam os fundamentos efetivamente adotados pelo Tribunal de origem, mas sim aqueles constantes do julgamento do agravo de instrumento.
+Por essa razão, incide no presente caso, por analogia, o enunciado 284 da Súmula do Supremo Tribunal Federal (STF), que estabelece: "é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Nessa mesma direção:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL  .. . RAZÕES RECURSAIS DISSOCIADAS DO JULGADO. SÚMULA 284/STF.
+ ..
+3. É inadmissível o recurso especial que apresenta razões dissociadas do quadro fático e das premissas jurídicas expostos no acórdão recorrido. Incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.").
+ ..
+7. Agravo interno conhecido parcialmente para, na parte conhecida, negar-se-lhe provimento.
+(AgInt nos EDcl no AREsp n. 1.700.429/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 26/4/2021, DJe de 29/4/2021, sem destaques no original.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. CONVÊNIO. MODERNIZAÇÃO DA GUARDA MUNICIPAL. EXECUÇÃO. NÃO COMPROVAÇÃO. RESSARCIMENTO. MUNICÍPIO. INTIMAÇÃO ELETRÔNICA DA SENTENÇA. DEFICIÊNCIA NA FUNDAMENTAÇÃO. RAZÕES DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO. APLICAÇÃO DA SÚMULA N. 284 DO STF.
+ ..
+III - A jurisprudência do Superior Tribunal de Justiça, é firme no sentido de que se o recorrente apresenta razões dissociadas dos fundamentos adotados pelo acórdão recorrido, o recurso especial é deficiente na sua fundamentação, o que atrai a aplicação por analogia da Súmula n. 284 do STF.
+ ..
+VIII - Agravo interno improvido.
+(AgInt no REsp n. 1.806.873/PE, relator Ministro Francisco Falcão, Segunda Turma, julgado em 23/11/2020, DJe de 25/11/2020, sem destaques no original.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
