@@ -1,0 +1,46 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC) interposto por CAIXA DE PREVIDENCIA DOS FUNCS DO BANCO DO BRASIL contra decisão que não admitiu seu recurso especial.
+O apelo extremo, fundamentado no art. 105, III, alínea "a", do permissivo constitucional, desafiou acórdão proferido pelo Tribunal de Justiça do Estado de Alagoas, assim ementado (fl. 860, e-STJ):
+APELAÇÕES CÍVEIS. AÇÃO DE ENTREGA DE COISA IMÓVEL C/C OBRIGAÇÃO DE FAZER E INDENIZAÇÃO, CONVERTIDA EM RESCISÃO DO CONTRATO. PRIMEIRA APELAÇÃO (PÁGS. 793/797) - CONTRATO DE EMPRÉSTIMO DE FINANCIMENTO IMOBILIÁRIO. TESE DE IMPOSSIBILIDADE DE RESTITUIÇÃO DOS VALORES PAGOS. RESPONSABILIDADE DO AUTOR DE PAGAR O EMPRÉSTIMO. NÃO ACOLHIMENTO. NO QUE SE REFERE À EXISTÊNCIA DO DÉBITO E DE REGULAR RELAÇÃO CONTRATUAL ENTRE AS PARTES, NÃO SE DESINCUMBIU, POIS, DO SEU ÔNUS PROBATÓRIO A APELANTE. AO CONTRÁRIO, A DEMANDADA ALEGA QUE O FINANCIAMENTO NÃO FOI AUTORIZADO ANTE A AUSÊNCIA DOS DOCUMENTOS NECESSÁRIOS PARA CONCESSÃO. INDENIZAÇÃO POR DANOS MATERIAIS, COM DEVOLUÇÃO EM DOBRO DOS VALORES DESCONTADOS INDEVIDAMENTE NOS PROVENTOS DA PARTE AUTORA. INCIDÊNCIA DO CDC. RECURSO CONHECIDO E NÃO PROVIDO. SEGUNDA APELAÇÃO (PÁGS. 802/810) - ALEGAÇÕES GENÉRICAS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA QUANTO AOS FUNDAMENTOS DA SENTENÇA. VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE. RECURSO NÃO CONHECIDO. IMPERIOSA MANUTENÇÃO DA SENTENÇA. HONORÁRIOS RECURSAIS FIXADOS. RECURSO DA RÉ CAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL CONHECIDO E NÃO PROVIDO. RECURSO DOS RÉUS GASTÃO CORREIA LAURINDO DE CERQUEIRA JÚNIOR E CRISTIANE ALICE DE OLIVEIRA NÃO CONHECIDO. DECISÃO UNÂNIME.
+Opostos embargos declaratórios, foram rejeitados, nos termos do acórdão de fls. 927-936, e-STJ.
+Nas razões de recurso especial (fls. 939-947, e-STJ), a parte recorrente aponta violação aos arts. 489, § 1º, IV, e 477, § 2º, II, do CPC.
+Sustenta, em síntese, que o acórdão recorrido incorreu em omissão (negativa de prestação jurisdicional) ao não se manifestar sobre a prova da efetiva celebração do contrato de empréstimo imobiliário por meio de escritura pública, argumento que, se acolhido, afastaria a condenação à restituição em dobro dos valores descontados.
+Contrarrazões apresentadas às fls. 997-1008, e-STJ.
+Em juízo de admissibilidade (fls. 1029-1034, e-STJ), negou-se o processamento do recurso especial, dando ensejo ao presente agravo (fls. 1039-1045, e-STJ).
+Contraminuta apresentada às fls. 1085-1094, e-STJ.
+É o relatório.
+Decido.
+A insurgência não merece prosperar.
+1. A recorrente sustenta que o Tribunal de origem, mesmo após a oposição de embargos declaratórios, teria se omitido quanto à tese de que o contrato de empréstimo fora legalmente celebrado, o que afastaria a ilicitude dos descontos e, por conseguinte, a condenação à restituição em dobro.
+A alegação de negativa de prestação jurisdicional, contudo, não se sustenta.
+O Tribunal de origem, ao julgar a apelação, apreciou de forma clara e fundamentada a controvérsia acerca da existência do contrato e da legitimidade das cobranças. O acórdão recorrido baseou-se expressamente nos fundamentos da sentença, que, por sua vez, destacou a própria alegação da PREVI, em manifestação anterior nos autos (fls. 463/502), de que o financiamento não fora concedido por ausência de documentos.
+Consta do voto condutor do acórdão de apelação (fl. 871, e-STJ):
+Como bem consignou o Magistrado sentenciante, no que se refere à existência do débito e de regular relação contratual entre as partes, não se desincumbiu, pois, do seu ônus probatório a apelante. Ao contrário, a demandada alega que o financiamento não foi autorizado ante a ausência dos documentos necessários para concessão.
+Portanto, a Corte de origem apresentou fundamentação suficiente para a solução da controvérsia, enfrentando a questão da existência do contrato com base nos elementos e, inclusive, nas próprias alegações da recorrente ao longo do processo.
+A adoção de tese jurídica contrária aos interesses da parte não configura omissão, ainda que não refutados todos os seus argumentos. Com efeito, o julgador não está obrigado a responder a todas as alegações ou a ater-se aos fundamentos indicados pelas partes, tampouco a analisar um a um os dispositivos legais invocados, quando já encontrou motivo suficiente para fundamentar a decisão. Nesse sentido:
+DIREITO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE CUMULADA COM COBRANÇA. CLÁUSULA DE CONVENÇÃO DE CONDOMÍNIO. ABUSIVIDADE. ACÓRDÃO RECORRIDO EM PERFEITA HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. CORREÇÃO MONETÁRIA E JUROS DE MORA. MATÉRIA DE ORDEM PÚBLICA. FIXAÇÃO DE OFÍCIO. POSSIBILIDADE. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO NÃO PROVIDO. ..
+5. O julgador não está obrigado a responder a todas as questões suscitadas pelas partes quando já tenha encontrado motivo suficiente para proferir a decisão, devendo apenas enfrentar as questões capazes de infirmar a conclusão adotada.
+IV. AGRAVO INTERNO DESPROVIDO.
+(AgInt nos EDcl no AREsp n. 2.702.809/GO, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Terceira Turma, julgado em 24/2/2025, DJEN de 28/2/2025.)
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE OMISSÃO. INOCORRÊNCIA. ART. 1.022 DO CPC. MULTA CONTRATUAL. VALOR SUPERIOR À OBRIGAÇÃO PRINCIPAL. POSSIBILIDADE. PROPORCIONALIDADE RECONHECIDA PELO TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE DE REEXAME DE CLÁUSULAS CONTRATUAIS E FATOS. SÚMULAS 5 E 7 DO STJ.
+1. A jurisprudência do Superior Tribunal de Justiça se consolidou no sentido de que o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. Com efeito, não há necessidade de resposta a cada afirmação específica. (AgRg no AREsp n. 2.322.113/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 6/6/2023, DJe de 12/6/2023.)  ..
+(AgInt no AREsp n. 2.762.821/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 12/5/2025, DJEN de 16/5/2025.)
+Portanto, não há vício de fundamentação a ser sanado.
+2. Afastada a alegada ofensa ao art. 489, § 1º, IV, do CPC, a análise dos demais dispositivos apontados como violados revela óbices intransponíveis.
+No que tange à suposta violação ao art. 477, § 2º, II, do CPC, o recurso padece de manifesta deficiência de fundamentação. O referido dispositivo legal disciplina a hipótese de esclarecimentos a serem prestados por perito judicial. Confira-se:
+Art. 477. O perito protocolará o laudo em juízo, no prazo fixado pelo juiz, pelo menos 20 (vinte) dias antes da audiência de instrução e julgamento.  ..
+§ 2º O perito do juízo tem o dever de, no prazo de 15 (quinze) dias, esclarecer ponto:
+I - sobre o qual exista divergência ou dúvida de qualquer das partes, do juiz ou do órgão do Ministério Público;
+II - divergente apresentado no parecer do assistente técnico da parte.
+A controvérsia dos autos, contudo, versa sobre a existência ou não de um contrato de financiamento e a legitimidade de descontos em folha, matéria eminentemente documental. O Tribunal de origem fundamentou sua decisão na ausência de prova documental, como se extrai do seguinte trecho (fl. 872, e-STJ):
+No que concerne à inexistência do débito e de regular relação contratual entre as partes, a demandada não juntou aos autos qualquer comprovação de que a parte autora, de fato, firmou relação jurídica com a ré, não se desincumbindo, pois, do seu ônus probatório, ou seja, qualquer documento que justificasse a cobrança mensal exposta nas folhas de pagamento. Ao contrário, a demandada alega que o financiamento não foi autorizado ante a ausência dos documentos necessários para concessão.
+A manifesta dissociação entre a norma invocada, que trata de prova pericial, e os fundamentos fáticos e jurídicos do acórdão, centrados na prova documental, atrai a incidência do óbice da Súmula 284/STF, por analogia. Nesse sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. OFENSA AO ART. 4º, V, DA LEI 4.595/64. DISPOSITIVO DISSOCIADO DA TESE RECURSAL. SÚMULA 284/STF. VIOLAÇÃO DO ART. 3º DA RESOLUÇÃO 3.695/2009 DO CMN E DO ART. 6º DA RESOLUÇÃO 4.790/2020 DO BANCO CENTRAL. NÃO CABIMENTO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Incide a Súmula 284 do STF quando, na fundamentação recursal, se alega violação de dispositivo legal, cujo conteúdo jurídico é dissociado da tese defendida no recurso especial.
+2. O STJ consolidou o entendimento de que é incabível a análise de recurso especial que tenha por fundamento violação a resoluções, instruções normativas, portarias, circulares, regulamentos ou regimentos internos dos Tribunais, por não estarem tais atos normativos compreendidos na expressão "Lei Federal", constante da alínea "a" do inciso III do art. 105 da Constituição Federal.
+3. Recurso especial não conhecido.
+(REsp n. 2.226.727/DF, relator Ministro Raul Araújo, Quarta Turma, julgado em 22/9/2025, DJEN de 26/9/2025.)
+3. Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento .
+Por conseguinte, nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
