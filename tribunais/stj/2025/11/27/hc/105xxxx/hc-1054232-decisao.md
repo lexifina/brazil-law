@@ -1,0 +1,11 @@
+DECISÃO
+O presente writ, impetrado em benefício de GABRIEL DE ARAUJO BRAGA - condenado como incurso no crime de tráfico de drogas -, apontando-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO (Apelação Criminal n. 0803812-12.2025.8.19.0042), não comporta processamento.
+Busca a impetração a absolvição do paciente na ação penal que tramitou perante o Juízo de Direito da 2ª Vara Criminal da comarca de Petrópolis/RJ, ao argumento de que houve invasão de domicílio, pois não houve a comprovação de qualquer indicativo de crime em curso antes da entrada forçada (fl. 9), além de nulidade da suposta confissão informal e extrajudicial, obtida sem a prévia e obrigatória advertência quanto ao direito ao silêncio (Aviso de Miranda), violando a garantia da não autoincriminação (fl. 15).
+Ocorre que, além de se tratar de writ utilizado como espécie de segunda apelação criminal, o que é inadmissível, inexiste ilegalidade flagrante que justifique a superação do óbice constatado, pois a Corte estadual, em conformidade com a jurisprudência deste STJ, destacou que a entrada dos policiais no imóvel foi autorizada pela sogra do paciente (fls. 33 e 20).
+Ademais, é assente nesta Corte Superior de Justiça que a eventual omissão da autoridade policial qu anto ao esclarecimento sobre o direito ao silêncio constitui nulidade relativa, dependendo da comprovação de efetivo prejuízo (AgRg no RHC n. 205.127/RJ, Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 27/8/2025).
+Por fim, desconstituir as conclusões obtidas pelas instâncias ordinárias demandaria indesejável revolvimento de fatos e provas, providência incompatível com a via estreita do habeas corpus.
+Indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. WRIT UTILIZADO COMO SEGUNDA REVISÃO CRIMINAL. UTILIZAÇÃO INDEVIDA DA AÇÃO CONSTITUCIONAL. INADMISSIBILIDADE. BUSCA DOMICILIAR. ENTRADA AUTORIZADA PELA SOGRA. REVOLVIMENTO DE FATOS E PROVAS. IMPOSSIBILIDADE. AVISO DE MIRANDA. NULIDADE RELATIVA. PRINCÍPIO PAS DE NULLITÉ SANS GRIEF. PARTE QUE NÃO LOGROU DEMONSTRAR PREJUÍZO. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
