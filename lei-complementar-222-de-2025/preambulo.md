@@ -1,0 +1,2 @@
+Dispõe sobre condições e limites para a concessão, a ampliação ou a prorrogação de incentivos fiscais ao esporte pela União, pelos Estados, pelo Distrito Federal e pelos Municípios; altera a Lei nº 14.260, de 8 de dezembro de 2021; e revoga a Lei nº 11.438, de 29 de dezembro de 2006 (Lei de Incentivo ao Esporte).
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei Complementar:
