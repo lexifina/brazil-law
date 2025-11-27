@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de Agravo apresentado por SCF COMPANHIA ADMINISTRADORA DE BENS à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO, assim resumido:
+DIREITO PROCESSUAL CIVIL - DECISÃO TERMINATIVA QUE NÃO CONHECEU DE APELAÇÃO CÍVEL POR DESERÇÃO - BASE DE CÁLCULO DO PREPARO - VALOR DO PROVEITO ECONÔMICO PRETENDIDO - CORRESPONDE AO VALOR DA AÇÃO QUE SE PRETENDE RESTAURAR - AGRAVO INTERNO QUE SE NEGA PROVIMENTO - DECISÃO MANTIDA.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 1º da Lei Estadual nº 11.404/1996, no que concerne à correta indexação da base de cálculo do preparo recursal, que deve ser o valor da causa, e não o valor do proveito econômico, trazendo a seguinte argumentação:
+No caso em tela, o v. acórdão recorrido - data vênia - partiu da premissa equivocada de que teria sido verificada a insuficiência do valor do preparo recursal em virtude de não ter tomado como base de cálculo o beneficio econômico buscado, QUANDO, EM VERDADE, a Lei n.º 11.404/96 não prevê nenhuma forma de cálculo de custas considerando o valor do proveito econômico.
+Ao contrário, estabelece expressamente, em seu artigo 1º, que "as custas devidas nos processos judiciais e os emolumentos cobrados pelos Serviços Notarial e de Registro são fixados na proporção do valor da causa, segundo a natureza do feito ou de acordo com a espécie de recurso ou do ato praticado, conforme tabela fixada nos termos da legislação estadual em vigor".
+Como visto acima, a Lei n.º 11.404/96 não prevê qualquer forma de cálculo de custas considerando o valor do proveito econômico almejado. Ao contrário, estabelece expressamente, em seu artigo 1º (fls. 773-774).
+É o relatório.
+Decido.
+Quanto à controvérsia, incide a Súmula n. 280/STF, aqui aplicada por analogia, porquanto não é cabível a interposição de Recurso Especial alegando ofensa de dispositivo de lei estadual.
+Nesse sentido: "Inviável a análise da pretensão veiculada no recurso especial, por demandar análise de legislação local, atraindo a incidência da Súmula 280 do STF, por analogia" (AgInt no AREsp n. 2.446.030/DF, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 12/3/2025, DJEN de 20/3/2025).
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 2.695.128/RJ, relator Ministro Sérgio Kukina, Primeira Turma, DJEN de 21/3/2025; AgInt no AREsp n. 2.743.939/RS, relator Ministro Francisco Falcão, Segunda Turma, DJEN de 18/3/2025; AgInt no AREsp n. 2.551.694/MG, relator Ministro Marco Aurélio Bellizze, Segunda Turma, DJEN de 26/2/202; AgInt no AREsp n. 2.651.418/PB, relator Ministro Teodoro Silva Santos, Segunda Turma, DJEN de 25/2/2025; AgInt no REsp n. 2.112.937/DF, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJEN de 21/2/2025; AgRg no AREsp n. 2.625.875/AL, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 26/2/2025; AREsp n. 2.738.314/DF, relatora Ministra Daniela Teixeira, Quinta Turma, DJEN de 13/2/2025; AgInt no AREsp n. 2.656.958/SC, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 20/12/2024; AgInt no AREsp n. 2.301.850/DF, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 22/8/2024.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
