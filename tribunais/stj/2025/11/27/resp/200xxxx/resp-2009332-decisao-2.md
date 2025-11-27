@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por FABIO BORGES PEREIRA contra a decisão do Tribunal de Justiça de São Paulo que inadmitiu recurso especial, apresentado contra o acórdão exarado no julgamento da Apelação Criminal n. 0013030-93.2014.8.26.0590.
+O Ministério Público Federal apresentou parecer opinando pelo desprovimento do recurso (fls. 2.262/2.265).
+É o relatório.
+O agravo é inadmissível.
+Inicialmente, esclareço que a decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos, inclusive de forma específica, suficiente e pormenorizada, não sendo suficientes meras alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência do óbice da Súmula 182/STJ (AgRg nos EDcl no AREsp n. 2.985.942/MA, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 16/9/2025, DJEN de 25/9/2025).
+No caso, o Tribunal de origem inadmitiu o recurso especial pelos seguintes fundamentos: 1) inadequação do recurso especial para veicular matéria constitucional; 2) deficiência de fundamentação - Súmula 284/STF; 3) ausência de demonstração formal da divergência e de cotejo analítico; e 4) incidência da Súmula 7/STJ (fls. 2.171/2.173). Todavia, a parte agravante, nas razões do agravo em recurso especial (fls. 2.194/2.202), não impugnou, de maneira específica, a íntegra da decisão de inadmissão.
+Em específico: 1) quanto à inadequação do recurso especial para matérias constitucionais, o agravante apenas reiterou a tese de ofensa ao art. 5º, LV, da Constituição Federal (fl. 2.200), mantendo hígido o fundamento da origem; 2) quanto à deficiência de fundamentação (Súmula 284/STF), limitou-se a afirmar genericamente que a admissibilidade está presente e que todos os fatos foram devidamente expostos, sem demonstrar, de modo concreto, a observância dos requisitos do art. 1.029 do Código de Processo Civil (fl. 2.196); 3) quanto ao dissídio jurisprudencial, não demonstrou o cumprimento dos requisitos do art. 1.029, § 1º, do Código de Processo Civil e do art. 255, § 1º, do RISTJ e 4) quanto à incidência da Súmula 7/STJ, não demonstrou, mediante argumentação concreta, a possibilidade de acolhimento da tese recursal mediante mera revaloração das premissas fáticas fixadas no acórdão recorrido.
+Por conseguinte, aplica-se, à hipótese dos autos, o art. 932, inciso III, do Código de Processo Civil, c/c o art. 3º do Código de Processo Penal, e a Súmula 182/STJ por analogia.
+Ante o exposto, não conheço do agravo em recurso especial (arts. 932, III, do CPC/2015, e 253, parágrafo único, I, do RISTJ).
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO DEFICIENTE DOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015, E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA 182/STJ.
+Agravo não conhecido.
