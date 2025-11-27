@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de Agravo apresentado por AMIL ASSISTENCIA MEDICA INTERNACIONAL S.A. à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+APELAÇÃO Plano de saúde Ação de cobrança buscando o ressarcimento das despesas médico-hospitalares desembolsadas pelo autor Negativa fundada na autonomia do hospital no qual internado o autor para estabelecer as cobranças Negativa abusiva Inexistência de justificativa plausível para não pagamento Autonomia hospitalar que não afasta o dever de reembolso contratualmente garantido Reembolso devido.
+DANOS MORAIS Não verificados Situação que não caracterizou constrangimento ou violação à honra subjetiva ou objetiva do autor, caracterizando-se como dissabor e aborrecimento cotidiano.
+HONORÁRIOS ADVOCATÍCIOS Fixados por equidade Valor da condenação expressivo Observância do Tema 1076 do STJ e da norma cogente prevista no art. 85, § 8º, do CPC Descabida fixação de honorários por equidade se há condenação em valor econômico considerável Honorários readequados conforme parâmetros do art.
+85, §2º, do CPC Sentença parcialmente reformada.
+RECURSO DO AUTOR PARCIALMENTE PROVIDO. RECURSO DA RÉ IMPROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação aos arts. 12, VI, da Lei nº 9.656/1998; e 421, parágrafo único, do Código Civil, no que concerne à necessidade de afastamento do custeio integral fora da rede credenciada, com reconhecimento de que o reembolso, em hipóteses excepcionais, deve observar os limites contratuais do produto, em razão de o acórdão ter determinado custeio integral do tratamento realizado fora da rede credenciada, trazendo a seguinte argumentação:
+Em suma, resta mais que comprovado que foram violados de morte tanto o art. 12, inciso VI, da Lei 9.656/98, que trata especificamente dos negócios jurídicos de plano de saúde, quanto o art. 421, p. ú, do CC, que consagra o Princípio da Liberdade Contratual de modo geral. (fl. 226)
+
+Aponta-se que o acórdão, ao analisar as questões trazidas, determinou que a Recorrente deve custear de forma integral o tratamento quando realizado fora da rede credenciada. (fl. 226)
+
+Todavia, cabe salientar que o custeio se dá de duas formas distintas: (a) o custeio direto, que ocorre na própria rede credenciada; (b) reembolso, que se dá quando o plano custeio tratamento fora da rede credenciada, por urgência ou emergência, sendo que, neste último caso, pela norma extraída do artigo 12, VI, da Lei 9.656/98, o reembolso se dará nos limites do contrato firmado entre as partes. (fls. 226-227)
+
+A limitação do reembolso é baseada no argumento de que o consumidor tem direito aquilo que contratou, assim, deve-se respeitar a liberdade contratual disposta nos artigos 4213, impedindo que a Operadora de Saúde seja condenada para além daquilo que está sendo remunerada. Assim, se se pretende a parte se valer de profissional da rede não credenciada, deve ser por ela custeada e não pela recorrente. (fl. 227)
+
+Ora, conforme exaustivamente trazido na defesa da ora Recorrente, ela somente está obrigada a custear aquele percentual de valor pré-estabelecido em contrato ou, alternativamente, aquele fixado pela tabela de honorários médicos, disponível para acesso livre das partes. (fl. 227)
+
+Daí porque, a prevalecer o v. aresto impugnado restará ferido, de forma palmar, o citado artigo 12, inciso VI, da Lei 9.656/98, porquanto, ao determinar que seja realizado o custeio integral daquilo que não tem obrigação de custear pelas regras contratuais e legais. (fls. 227-228)
+
+Assim, é certo que o provimento recursal é medida que se impõe como necessária a fim de resguardar norma prescrita em legislação federal e o ordenamento jurídico como todo. (fl. 228)
+
+Imperioso, portanto, que o presente recurso seja acolhido para que o v. aresto, com a devida vênia, aprecie a presente controvérsia à luz dos citados dispositivos legais e reforme o acórdão atacado, para determinar que caso haja a prestação de serviço fora da rede credenciada, o custeio se dê de forma parcial. (fl. 230)
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Centrado nesses parâmetros, dado o caráter consumerista na relação aqui tratada, aplicável as regras da Lei nº 8.078/90, consoante o teor da Súmula 608 do Superior Tribunal de Justiça: "Súmula 608: Aplica-se o Código de Defesa do Consumidor aos contratos de plano de saúde, salvo os administrados por entidades de autogestão." Sob essa ótica, deve-se interpretar as cláusulas contratuais de maneira mais favorável ao consumidor, caracterizando-se abusivas aquelas que o coloquem em desvantagem exagerada ou que sejam incompatíveis com a boa- fé e a equidade, em observância aos artigos 47 e 51, IV, do aludido diploma.
+A cláusula 5ª do contrato dispõe expressamente acerca de cobertura de eventos relacionados à área de oncologia (item 24), tanto em relação a serviços médicos como hospitalares (fl. 122). Isso significa que a doença pela qual fora acometido o paciente estava abrangida pelo plano de saúde por ele contratado, fato que sequer sofreu impugnação por parte da operadora.
+Além disso, as cláusulas 10ª e 11ª asseguram o direito de reembolso das quantias despendidas referente aos tratamentos com cobertura garantida pela contratação (fls. 123/124). Diante disso, uma vez comprovados os gastos, não encontra qualquer respaldo a postura da requerida ao negar o reembolso devido ao consumidor.
+Sequer há justificativa detalhada acerca da negativa de ressarcimento, mas mera alegação de autonomia do hospital para proceder às cobranças que entender necessárias. Tal fato, no entanto, sob nenhuma circunstância se mostra apto a afastar, em relação à operadora do plano de saúde contratado, o dever de reembolso dos valores mencionados.
+Centrado nesses parâmetros, tenho que a negativa de reembolso total do valor expedida pela ré afigura-se abusiva e ilegal, afrontando os princípios da boa-fé objetiva e da função social do contrato na medida em que limita de forma unilateral o próprio objeto do contrato, cujo objetivo é garantir o acesso do beneficiário a tratamento de saúde adequado e de qualidade (fls. 213/214).
+Assim, incidem as Súmulas n. 5 e 7 do STJ, porquanto a pretensão recursal demanda reexame de cláusulas contratuais e reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas n. 5 e 7 do Superior Tribunal de Justiça)" (AgInt no AREsp n. 2.243.705/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 20/10/2023).
+Confiram-se ainda os seguintes julgados: AgInt no AREsp n. 2.446.415/SP, relator Ministro Humberto Martins, Terceira Turma, DJEN de 20/3/2025; REsp n. 2.106.567/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 5/3/2025; AgInt no AREsp n. 2.572.293/RS, relator Ministro Benedito Gonçalves, Primeira Turma, DJEN de 13/12/2024; AgInt no AgInt no AREsp n. 2.560.748/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 22/11/2024; REsp n. 1.851.431/SC, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJe de 7/10/2024; REsp n. 1.954.604/MG, relator Ministro Francisco Falcão, Segunda Turma, DJe de 21/3/2024; AgInt no REsp n. 1.995.864/PB, relator Ministro Raul Araújo, Quarta Turma, DJe de 20/10/2023.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
