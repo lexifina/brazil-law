@@ -1,0 +1,28 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por MARILUCIA JAIME contra decisão que inadmitiu recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 7/6/2025.
+Concluso ao gabinete em: 29/10/2025.
+Ação: indenizatória c/c compensação por danos morais, ajuizada por MARILUCIA JAIME, em face de CAIXA SEGURADORA S/A e ALEXANDER DA MOTTA BRUM, na qual requer o pagamento da cobertura securitária pelos danos físicos do imóvel e a reparação de danos materiais e compensação por danos morais, com responsabilização solidária do responsável técnico.
+Sentença: julgou parcialmente procedentes os pedidos, para: i) condenar os requeridos, solidariamente, ao pagamento de danos materiais no valor de R$ 67.031,09 (sessenta e sete mil e trinta e um reais e nove centavos); ii) condenar a requerida CAIXA SEGURADORA S/A à compensação por danos morais no valor de R$ 15.000,00 (quinze mil reais); iii) condenar o requerido ALEXANDER DA MOTTA BRUM à compensação por danos morais no valor de R$ 5.000,00 (cinco mil reais).
+Acórdão: deu parcial provimento ao recurso de apelação interposto por CAIXA SEGURADORA S/A e negou provimento ao recurso de apelação interposto por ALEXANDER DA MOTTA BRUM, nos termos da seguinte ementa:
+EMENTA: APELAÇÃO CÍVEL - AÇÃO INDENIZATÓRIA - PREJUDICIAL DE MÉRITO - PRESCRIÇÃO - REJEITADA - VÍCIOS CONSTRUTIVOS - CONSTATADOS - SEGURO HABITACIONAL OBRIGATÓRIO - RESPONSABILIDADE DA EMPRESA SEGURADORA E DO RESPONSÁVEL TÉCNICO - EVIDENCIADAS - DANOS MATERIAIS - QUANTUM INDENIZATÓRIO - REDUÇÃO - DANOS MORAIS - SEGURADORA - MINORAÇÃO.
+I. A pretensão indenizatória pela existência de vício construtivo está sujeita ao prazo prescricional decenal, previsto no art. 205 do CPC.
+II. Constando-se que os danos ocasionados no imóvel sub judice são oriundos de vícios construtivos, é cabível a responsabilização do responsável técnico pelos danos materiais e morais sofridos pela autora.
+III. Segundo o entendimento jurisprudencial do STJ "no contrato de seguro habitacional obrigatório vinculado ao SFH, a exclusão da responsabilidade da seguradora deve ficar limitada aos vícios decorrentes de atos praticados pelo próprio segurado ou do uso e desgaste natural e esperado do bem, uma vez que a expectativa do mutuário é receber o bem imóvel próprio e adequado ao uso a que se destina, não sendo compatível com a garantia de segurança esperada pelo segurado a exclusão de cobertura dos vícios de construção"(AgInt no AREsp n. 2.182.210/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023).
+IV. A indenização por danos materiais exige prova concreta da respectiva ocorrência, não podendo ser presumida. Hipótese em que restaram comprovados parcialmente os danos materiais requeridos.
+V. É evidente o dano moral experimentado pela autora que teve sua residência prejudicada pelos vícios construtivos e pela recusa indevida do seguro habitacional obrigatório.
+VI. Na fixação do quanto indenizatório, deve-se atentar para as circunstâncias dos fatos e das partes, evitando o enriquecimento ilícito, mas proporcionando à vítima uma satisfação e ao ofensor um desestímulo à prática de condutas abusivas. Hipótese em que o valor da indenização por danos morais decorrente de negativa irregular de seguro habitacional deve ser minorado. (e-STJ fl. 791)
+Embargos de Declaração: opostos por MARILUCIA JAIME, foram rejeitados.
+Recurso especial: alega violação dos arts. 411, III, 412, 1.013, § 1º, e 1.014 do CPC. Afirma que a impugnação do documento relativo ao custo de mão de obra apenas em razões de apelação configura inovação recursal vedada. Aduz que a ausência de impugnação específica em primeiro grau torna autêntico o documento e lhe confere força probante quanto às declarações nele constantes. Argumenta que o tribunal somente pode apreciar questões suscitadas e discutidas no processo e que alegações de fato em apelação exigem prova de força maior para não terem sido deduzidas anteriormente.
+Decisão de admissibilidade do TJ/MG: inadmitiu o recurso especial em razão do seguinte fundamento:
+i) incidência da Súmula 7 do STJ, por demandar reexame de fatos e provas.
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante aduz que o recurso especial não requer reexame de provas, pois veicula matérias exclusivamente de direito.
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade do óbice da Súmula 7/STJ, pois não individualiza qualquer aspecto fático incontroverso entre as partes ou expressamente reconhecido no voto do acórdão recorrido que permita concluir pela desnecessidade de revolvimento probatório.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem.
+Nesse sentido: AgInt no AREsp 2.292.265/SP, Terceira Turma, DJe 18/8/2023, e AgInt no AREsp 2.335.547/SP, Quarta Turma, DJe 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+ EMENTA
