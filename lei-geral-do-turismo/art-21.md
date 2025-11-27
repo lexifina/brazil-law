@@ -14,6 +14,8 @@ V - casas de espetáculos e equipamentos de animação turística;
 VI - organizadores, promotores e prestadores de serviços de infraestrutura e de locação de equipamentos, fornecedores de produtos e serviços relacionados com o turismo e montadoras de feiras de negócios, exposições e eventos;
 VII - locadoras de veículos para turistas; e
 VIII - prestadores de serviços especializados na realização e promoção das diversas modalidades dos segmentos turísticos, inclusive atrações turísticas e empresas de planejamento, bem como a prática de suas atividades.
+IX - taxistas regularmente inscritos nos Municípios;
+X - cooperativas de táxis.
 § 2º Para efeitos do caput e do § 1º deste artigo, a relação de atividades poderá ser ampliada, prevendo novas hipóteses de cadastramento, desde que seja de interesse turístico e estabelecidas por meio de regulamento editado pelo Ministro de Estado do Turismo.
 § 3º Será permitida a inclusão, no cadastro do Ministério do Turismo para prestação de serviços turísticos, dos serviços sociais autônomos que prestem serviços turísticos, tais como de hospedagem, locação de veículos e agenciamento turístico.
 § 4º Os produtores rurais ou agricultores familiares, desde que prestem serviços turísticos, nos termos do caput ou do § 1º deste artigo, poderão cadastrar-se no Ministério do Turismo, mesmo que o façam na condição de pessoa física.
