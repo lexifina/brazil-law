@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por EDUARDO LIMA DE ARAUJO à decisão de fls. 614/615, que não conheceu do recurso.
+Sustenta a parte embargante:
+Todavia, não obstante tal reconhecimento expresso, deixou de conhecer do Agravo Interno interposto, sob o fundamento de que a parte recorrente teria incorrido em erro grosseiro ao manejar modalidade recursal diversa, concluindo, destarte, pelo não conhecimento do recurso. Ocorre, entretanto, que, à luz do artigo 619 do Código de Processo Penal, evidencia-se manifesta contradição na decisão hostilizada, porquanto, de um lado, admite-se a adequação do agravo interno como instrumento recursal próprio e cabível contra decisão monocrática, e, de outro, indefere-se o processamento do recurso efetivamente manejado, sem que se tenha enfrentado o ponto nuclear suscitado pela defesa, qual seja, a impossibilidade técnica de cadastramento, no sistema eletrônico, da classe denominada Agravo Interno em feitos criminais.
+ ..
+Entretanto, não houve qualquer enfrentamento probatório acerca do ponto expressamente suscitado pela defesa, qual seja, a limitação imposta pelo próprio sistema eletrônico do Processo Judicial Eletrônico do Superior Tribunal de Justiça, que, à época do protocolo, impossibilitava a seleção da classe denominada Agravo Interno em feitos de natureza penal, restando ao patrono apenas a utilização de opção que resultou em enquadramento distinto (fl. 620/621).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 619 do Código de Processo Penal, os Embargos de Declaração destinam-se a retirar ambiguidade, esclarecer obscuridade, eliminar contradição e suprir omissão existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, conforme já consignado na decisão ora embargada, que agora se repete, que o agravo previsto no art. 1.042 do novo CPC destina-se a atacar decisões do Tribunal de origem que não admitem recurso especial ou extraordinário e, conforme estabelece o art. 1.021 do mesmo código, contra decisão proferida pelo relator caberá agravo interno para o respectivo órgão colegiado .
+A interposição equivocada de recurso quando há expressa disposição legal e inexiste dúvida objetiva constitui manifesto erro grosseiro. Portanto, é inaplicável ao caso o princípio da fungibilidade, que pressupõe dúvida objetiva a respeito do recurso a ser interposto, inexistência de erro grosseiro e observância do prazo do recurso correto, o que não ocorre na espécie.
+Nesse sentido:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DO PRESIDENTE DO STJ QUE NÃO CONHECEU DO RECURSO ESPECIAL. INTERPOSIÇÃO DE AGRAVO EM RECURSO ESPECIAL PREVISTO NO ART. 1.042 DO CPC. ERRO GROSSEIRO. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. INAPLICABILIDADE. AGRAVO INTERNO CONHECIDO E NÃO PROVIDO.
+1. Conforme jurisprudência pacífica deste Superior Tribunal de Justiça, "nos termos do artigo 1.021 do Código de Processo Civil de 2015, o recurso cabível para impugnar a decisão proferida pelo relator é o agravo interno, dirigido ao respectivo órgão colegiado, e não o agravo previsto no artigo 1.042 do referido diploma processual". (AgInt na Pet 13.567/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 7/12/2020, DJe 17/12/2020).
+2. Configura erro grosseiro a interposição do agravo previsto no art. 1.042, do Código de Processo Civil, ao invés do agravo interno, previsto no art. 1.021, tornando inaplicável a fungibilidade recursal.
+3. Agravo interno não provido (Agint nos Edcl no Agint no Resp 1878703/PB, Rel. Ministro Afrânio Vilela, SegundaTurma, DJe 11.09.2024)
+PROCESSUAL PENAL. PET NO AGRAVO EM RECURSO ESPECIAL. AGRAVO FUNDADO NO ART. 1.042/CPC CONTRA DECISÃO DA PRESIDÊNCIA DO STJ QUE INADMITIU AGRAVO EM RECURSO ESPECIAL. ERRO GROSSEIRO. IMPOSSIBILIDADE DE APLICAÇÃO DO PRINCÍPIO DA FUNGIBILIDADE RECURSAL. AGRAVO NÃO CONHECIDO.
+1. Em atenção aos princípios da taxatividade e da singularidade, o único recurso adequado contra a decisão sobre o primeiro juízo de admissibilidade é o agravo em recurso especial, à inteligência do art. 1.042 do CPC/2015, que deverá ser dirigida ao Presidente ou
+Vice-Presidente do Tribunal de origem (AgInt no Ag 1434107/TO, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/06/2019, DJe 25/06/2019).
+2. Agravo regimental não conhecido. (PET no AREsp 1425651/SP, Rel. Ministro Nefi Cordeiro, Sexta Turma, DJe 16.03.2020)
+No mais, é cediço que o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu. (AREsp 1592147/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 31.8.2020; AgInt no AREsp 1639930/RJ, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 3.8.2020; AgInt nos EDcl no AREsp 1342656/PR, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 7.5.2020.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 28.8.2019.
+Assim, não há irregularidade sanável por meio dos presentes Embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição ou omissão.
+Ante o exposto, rejeito os Embargos de Declaração.
+Publique-se.
+Intimem-se.
+ EMENTA
