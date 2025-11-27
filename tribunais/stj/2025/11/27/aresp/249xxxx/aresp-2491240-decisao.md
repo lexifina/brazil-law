@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo apresentado por INSTITUIÇÃO EDUCACIONAL MATOGROSSENSE - IEMAT para impugnar decisão que não admitiu seu recurso especial, interposto com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra o acórdão do Tribunal de Justiça de Mato Grosso assim ementado (e-STJ, fls. 274-275):
+RECLAMAÇÃO CONTRA ACÓRDÃO DA TURMA RECURSAL - RECURSO INOMINADO NÃO CONHECIDO - TESE DE MÉRITO NÃO ANALISADA - VIOLAÇÃO A JULGADOS DO STJ NÃO CONFIGURADA - SUCEDÂNEO DE RECURSO - IMPROCEDÊNCIA.
+A Reclamação Constitucional, tal como prevista no art. 988 do CPC, é medida de caráter excepcional destinada a preservar a competência do Tribunal ou mesmo garantir a autoridade das suas decisões, não serve como sucedâneo de recurso.
+Nas razões do recurso especial (e-STJ, fls. 303-337), a parte agravante sustentou a nulidade do acórdão, uma vez que não teria sido intimada da decisão que rejeitou os embargos de declaração opostos perante a Corte de origem.
+Alegou a incompetência da Justiça estadual, porque a controvérsia envolveria contrato de financiamento estudantil (FIES), com interesse e participação necessária da União, do FNDE e do agente financeiro, havendo cláusula de eleição de foro e relação jurídica obrigacional complexa que exige litisconsórcio passivo necessário.
+Defendeu que o processo deve ser suspenso em razão da existência da Ação Civil Pública n. 1005518-09.2016.8.11.0002, proposta pelo Centro Acadêmico XII de Agosto (CADAM), que trata da mesma matéria, invocando o precedente repetitivo REsp 1.110.549/RS (Tema 60/STJ) e o Tema 675/STF para evitar decisões contraditórias e resguardar a segurança jurídica.
+Afirmou violação ao art. 4º da Lei 10.260/2001, aos arts. 1º, 5º e 6º da Lei 9.870/1999, aos arts. 31 e 36, X, da Lei 12.529/2011 e ao art. 884 do Código Civil, sustentando a legalidade da cobrança da diferença não coberta pelo Fundo de Financiamento Estudantil (FIES) pela instituição de ensino, a autonomia das instituições privadas na fixação de mensalidades e a vedação ao enriquecimento sem causa, além de afirmar que o acórdão recorrido excluiu seu direito de ver apreciada lesão e ameaça a direito e contrariou a ordem econômica.
+Indicou divergência jurisprudencial, sustentando, de um lado, que o acórdão recorrido julgou improcedente a reclamação e manteve entendimento pela inexigibilidade da cobrança de valores residuais não financiados pelo Fundo de Financiamento Estudantil (FIES) e pela condenação em danos morais; e, de outro, apontou julgados paradigmas que reconhecem a legalidade da cobrança direta ao aluno da parcela não coberta pelo FIES e que afastam a indenização moral em hipóteses de mera controvérsia contratual.
+Sem contrarrazões (e-STJ, fls. 472-474).
+O recurso não foi admitido, razão pela qual foi interposto o agravo ora examinado (e-STJ, fls. 480-481).
+Brevemente relatado, decido.
+O recurso especial não deve ser conhecido.
+Constata-se que o presente recurso especial foi interposto contra acórdão proferido em reclamação, que, por sua vez, foi ajuizada contra acórdão de Turma Recursal de Juizado Especial, com fulcro na Resolução STJ/GP n. 3, de 2016.
+Conforme o entendimento jurisprudencial desta Corte Superior, é incabível recurso especial contra acórdão que julga a reclamação fundada na Resolução STJ/GP n. 3, de 2016, hipótese não prevista no art. 105, inciso III, da Constituição da República (sem grifo no original):
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. RECLAMAÇÃO. ACÓRDÃO TURMA RECURSAL. SUCEDÂNEO RECURSAL. ALEGAÇÃO GENÉRICA DE OFENSA A DISPOSITIVO DE LEI FEDERAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. NÃO INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL VIOLADO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO DO ART. 4º, DA LEI N. 10.260/2001, 1º, 5º E 6º, DA LEI N. 9.870/1999, 31 E 36, X, DA LEI N. 12.529/2011 E 884 DO CÓDIGO CIVIL. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 282/STF. DIVERGÊNCIA JURISPRUDENCIAL. PREJUDICADA. ÓBICES DE ADMISSIBILIDADE. RECURSO ESPECIAL. DECISÃO PROFERIDA POR ÓRGÃO DE SEGUNDO GRAU DOS JUIZADOS ESPECIAIS. SÚMULA N. 203 DO SUPERIOR TRIBUNAL DE JUSTIÇA. INCIDÊNCIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+IX - Não cabe recurso especial contra acórdão que julga a reclamação fundada na Resolução STJ/GP n. 3, de 07.04.2016, hipótese não prevista no art. 105, inciso III, da Constituição da República, o que justifica a incidência, por analogia, da Súmula 203/STJ.
+ ..
+XII - Agravo Interno improvido.
+(AgInt no REsp n. 2.033.087/MT, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 14/8/2023, DJe de 16/8/2023.)
+PROCESSUAL CIVIL. RECLAMAÇÃO. DECISÃO DE TURMA RECURSAL DOS JUIZADOS ESPECIAIS. DESPROVIMENTO DO AGRAVO INTERNO MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de Reclamação ajuizada por Estado de Rondônia contra Acórdão proferido pela Turma Recursal do Estado de Rondônia. No Tribunal a quo, foi julgada extinta a reclamação, sem resolução do mérito.
+II - Mediante análise do recurso de Estado de Rondônia, verifica-se que o recurso não merece prosperar por ser manifestamente incabível, a esta Corte, o julgamento de recurso especial interposto contra decisão de Turma Recursal dos Juizados Especiais, por ausência de previsão no art. 105, III, da Constituição Federal. (AgInt no AREsp 1445120/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 24/4/2020; AgInt no REsp 1796788/MG, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 22/8/2019.)
+III - Dessa forma, conforme dispõe a Súmula n. 203 do STJ, "não cabe recurso especial contra decisão proferida por órgão de segundo grau dos Juizados Especiais".
+IV - Agravo interno improvido.
+(AgInt no AREsp n. 2.232.963/RO, relator Ministro Francisco Falcão, Segunda Turma, julgado em 15/5/2023, DJe de 17/5/2023.)
+Incide, assim, a Súmula n. 203/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DIREITO ADMINISTRATIVO E DIREITO PROCESSUAL CIVIL. FIES. RECLAMAÇÃO AJUIZADA CONTRA ACÓRDÃO DE TURMA RECURSAL. RECURSO ESPECIAL. NÃO CABIMENTO. INCIDÊNCIA DA SÚMULA N. 203/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
