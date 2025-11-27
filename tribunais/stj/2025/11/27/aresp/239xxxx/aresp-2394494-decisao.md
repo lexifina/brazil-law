@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC) interposto por JOSE ROBERTO ZANONI contra decisão que não admitiu seu recurso especial.
+O apelo extremo, fundamentado na alínea "a" do permissivo constitucional, desafiou acórdão proferido pelo Tribunal de Justiça do Estado do Espírito Santo, assim ementado (fl. 330, e-STJ):
+APELAÇÃO CÍVEL. PROCESSO CIVIL. EMBARGOS À EXECUÇÃO. NULIDADE DA CITAÇÃO NA AÇÃO DE EXECUÇÃO. ARGUIÇÃO DA NULIDADE QUE NÃO SE TRADUZ EM COMPARECIMENTO ESPONTÂNEO. ADVOGADOS SEM PODER ES PARA CITAÇÃO QUE SOMENTE SUSCITARAM A NULIDADE. SUPRIMENTO DA CITAÇÃO A PARTIR DA OPOSIÇÃO DOS EMBARGOS À EXECUÇÃO. SENTENÇA ANULADA. RECURSO CONHECIDO E PROVIDO.
+1. Conforme orientação firmada pela Corte Especial do c. STJ, "o peticionamento nos autos por advogado destituído de poderes especiais para receber citação não configura comparecimento espontâneo apto a suprir tal necessidade" (EREsp 1709915/CE).
+2. Caso concreto em que os Advogados da parte executada, sem poderes especiais para receberem citação, compareceram aos autos da ação de execução apenas para arguir a nulidade da citação, nulidade esta que foi reconhecida pelo Juiz.
+3. Comparecimento espontâneo, na espécie, que é considerado como a data da propositura dos embargos à execução.
+4. Votos vencidos com conclusão de que a arguição da nulidade, por si só, já bastaria para suprir a citação e, pois, para configurar o comparecimento espontâneo.
+5. Sentença anulada.
+6. Recurso conhecido e provido, por maioria de votos.
+Opostos embargos declaratórios, foram rejeitados, nos termos do acórdão de fls. 387-392, e-STJ.
+Nas razões de recurso especial (fls. 397-409, e-STJ), a parte recorrente aponta violação ao art. 239, § 1º, do Código de Processo Civil.
+Sustenta, em síntese, que o comparecimento espontâneo dos recorridos aos autos da execução para arguir a nulidade da citação, por meio de petição com conteúdo de exceção de pré-executividade ou ato concreto de defesa, supre a falta do ato citatório, independentemente de o advogado possuir poderes especiais para receber citação. Argumenta que, dessa forma, o prazo para oposição dos embargos à execução iniciou-se naquela data, tornando intempestivos os embargos opostos meses depois.
+Contrarrazões apresentadas às fls. 417-433, e-STJ.
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, dando ensejo ao presente agravo (fls. 462-479, e-STJ).
+Contraminuta apresentada às fls. 485-496, e-STJ.
+É o relatório.
+Decido.
+A insurgência merece prosperar.
+1. A controvérsia reside em definir se o peticionamento nos autos da execução por advogado sem poderes especiais para receber citação, com a finalidade específica de arguir a nulidade do ato citatório, configura comparecimento espontâneo apto a deflagrar o prazo para a oposição de embargos à execução, nos termos do art. 239, § 1º, do CPC.
+O Tribunal de origem, ao reformar a sentença, entendeu que tal ato não supre a citação, apoiando-se na tese de que o peticionamento nos autos por advogado destituído de poderes especiais para receber citação não configura comparecimento espontâneo.
+Contudo, o acórdão recorrido realizou leitura equivocada da jurisprudência desta Corte Superior.
+De fato, a Corte Especial do STJ pacificou que o mero peticionamento sem poderes específicos não configura comparecimento espontâneo. Todavia, o mesmo precedente estabeleceu que a prática de ato de defesa supre a falta de citação, independentemente de poderes especiais. Confira-se a ementa do julgado:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. COMUNICAÇÃO NOS AUTOS DE AGRAVO DE INSTRUMENTO INTERPOSTO. AUSÊNCIA DE PODERES PARA RECEBER CITAÇÃO NO INSTRUMENTO PROCURATÓRIO. COMPARECIMENTO ESPONTÂNEO. NÃO CONFIGURAÇÃO. ENTENDIMENTO CONSOLIDADO NO SUPERIOR TRIBUNAL DE JUSTIÇA. EMBARGOS DE DIVERGÊNCIA ACOLHIDOS.
+1. O Superior Tribunal de Justiça possui entendimento consolidado de que, em regra, o peticionamento nos autos por advogado destituído de poderes especiais para receber citação não configura comparecimento espontâneo apto a suprir tal necessidade. Precedentes: AgRg no AREsp 410.070/PR, Rel. Ministra Eliana Calmon, Segunda Turma, DJe 3/12/2013; AgRg no Ag 1.176.138/MS, Rel. Ministro Raul Araújo, Quarta Turma, DJe 6/11/2012; AgRg no Ag 1.144.741/MG, Rel. Ministra Isabel Gallotti, Quarta Turma, DJe 27/8/2012; AgRg no REsp 1.256.389/SP, Rel. Ministro João Otávio de Noronha, Terceira Turma, DJe 9/10/2014; REsp 648.202/RJ, Rel. Ministro Carlos Alberto Menezes Direito, Terceira Turma, DJ 11/4/2005; AgRg no REsp 1.468.906/RJ, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 1º/9/2014; AgInt no AREsp 47.435/GO, Rel. Ministro Lázaro Guimarães (Desembargador convocado do TRF 5ª Região), Quarta Turma, DJe 16/4/2018; AgInt no AREsp 993.298/MT, Rel. Ministro Marco Buzzi, Quarta Turma, DJe 25/4/2018.
+2. É que, na forma da orientação pacificada, se configura o comparecimento espontâneo do réu com: "a) a juntada de procuração com poderes especiais, desde que possível o acesso aos autos do processo; e b) a apresentação de embargos ou exceção de pré-executividade, ainda que não outorgados poderes especiais ao advogado para receber a citação". Mas, não perfaz tal comparecimento espontâneo: "a) o peticionamento nos autos por advogado destituído de poderes especiais para receber a citação e sem a apresentação de defesa; b) o peticionamento para informar a adesão a programa de parcelamento do débito tributário; e c) a carga dos autos por advogado sem poderes específicos para receber citação não supre a ausência do referido ato" (REsp 1.165.828/RS, Rel. Ministra Regina Helena Costa, Primeira Turma, julgado em 7/3/2017, DJe 17/3/2017).  ..
+(EREsp n. 1.709.915/CE, relator Ministro Og Fernandes, Corte Especial, julgado em 1/8/2018, DJe de 9/8/2018.)
+No caso, é incontroverso que os executados compareceram aos autos em 04/02/2019 juntando petição na qual "suscitaram a nulidade da citação" (fl. 330, e-STJ). Tal ato possui natureza jurídica de exceção de pré-executividade, pois visa combater matéria de ordem pública antes da penhora. Assim, atrai a ressalva prevista no precedente da Corte Especial.
+A jurisprudência desta Corte mantém-se nesse sentido, conforme reafirmado em julgados da Terceira e Quarta Turmas:
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. VALIDADE DE CITAÇÃO. ESPÓLIO. COMPARECIMENTO ESPONTÂNEO. AGRAVO NÃO CONHECIDO.  ..
+3. A jurisprudência pacificada do STJ considera que o comparecimento espontâneo do réu, por meio de embargos ou exceção de pré-executividade, dispensa a necessidade de poderes especiais para receber a citação.
+(AREsp n. 2.834.380/RS, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 29/9/2025, DJEN de 2/10/2025.)
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. CITAÇÃO POSTAL DE PESSOA FÍSICA. COMPARECIMENTO ESPONTÂNEO. AGRAVO PARCIALMENTE PROVIDO.  ..
+5. O comparecimento espontâneo do réu ao processo supre a nulidade da citação, conforme o art. 239, § 1º, do CPC, iniciando-se a contagem do prazo recursal a partir desse comparecimento.  ..
+(AgInt no AREsp n. 2.316.743/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 26/5/2025, DJEN de 2/6/2025.)
+Portanto, ao peticionar em 04/02/2019 arguindo nulidade, os recorridos compareceram espontaneamente ao processo, demonstrando ciência inequívoca da demanda e exercendo defesa. O prazo para embargos à execução iniciou-se nessa data, conforme previsto no art. 239, § 1º, do CPC. A oposição dos embargos apenas em 12/06/2019 revela manifesta intempestividade, impondo-se o restabelecimento da sentença.
+2. Ante o exposto, conheço do agravo para conhecer do recurso especial e dar-lhe provimento, a fim de restabelecer a sentença que reconheceu a intempestividade dos embargos à execução.
+Publique-se. Intimem-se.
+EMENTA
