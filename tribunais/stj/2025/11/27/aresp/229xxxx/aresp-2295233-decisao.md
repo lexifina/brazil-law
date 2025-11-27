@@ -1,0 +1,48 @@
+DECISÃO
+Cuida-se de agravo interposto por NUTRISEARA - COMERCIO DE SUBPRODUTOS DE ORIGEM ANIMAL LTDA, e JOSÉ ANTÔNIO FERNANDES MOREIRA contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO cuja ementa guarda os seguintes termos (fls. 223-224):
+ADMINISTRATIVO. CONTRATOS BANCÁRIOS. EMBARGOS À EXECUÇÃO. APLICAÇÃO DO CDC. LEGITIMIDADE ATIVA. TAXA DE JUROS REMUNERATÓRIOS. LIQUIDEZ E CERTEZA. DOCUMENTOS INSUFICIENTES. CAPITALIZAÇÃO MENSAL. COMISSÃO DE PERMANÊNCIA. TARIFAS DE CADASTRO, VISTORIA E GRAVAMES. TEMA 958 STJ.
+1. Ausente a constatação de onerosidade excessiva e da teoria da imprevisão. Há óbice à inversão do ônus da prova, quando não há ratificação da hipossuficiência do devedor, tampouco da plausibilidade da tese defendida. Não ocorre cerceamento de defesa, quando trata de questões de direito há muito tempo conhecidas e examinadas pelo Poder Judiciário.
+2. A origem de recurso pecuniário advinda ou não de repasse de crédito do BNDES é irrelevante para definir a legitimidade no polo ativo da demanda de execução do contrato de financiamento firmado entre a devedora e a CEF.
+3. Se os documentos que instruem a inicial da execução são suficientemente claros quanto ao valor do débito principal, aos encargos aplicáveis e à evolução do débito que resultou no valor executado, estão preenchidos os requisitos de liquidez e certeza do título previsto no art. 28 §2º I e II da Lei nº 10.931/04. A teor do disposto no art. 801 do CPC, verificada a ausência de documentos indispensáveis ao ajuizamento da execução, deve ser determinado que a parte exequente apresente os documentos, no prazo de 15 dias, sob pena de indeferimento.
+4. Por ausência de pactuação no instrumento juntado na execução, aplica-se a taxa média de mercado, divulgada pelo Bacen, praticada nas operações da mesma espécie, salvo se a taxa cobrada for mais vantajosa para o devedor, na mesma linha do Tema 233 firmado pelo STJ e da Súmula 530.
+5. A capitalização mensal pactuada também está expressamente prevista na relação entre a taxa mensal e a anual contratadas consoante decisões recentes do colendo Superior Tribunal de Justiça. Precedentes.
+6. Não há ilegalidade ou abusividade na utilização da variação da CDI na composição da comissão de permanência enquanto fator eleito pelos contratantes para acompanhar as variações do mercado financeiro. Precedentes.
+7. Abusividade da cláusula que prevê a cobrança de ressarcimento de serviços prestados por terceiros, sem a especificação do serviço a ser efetivamente prestado. Abusividade da cláusula que prevê o ressarcimento pelo consumidor da comissão do correspondente bancário, em contratos celebrados a partir de 25/02/2011, data de entrada em vigor da Res.-CMN 3.954/2011, sendo válida a cláusula no período anterior a essa resolução, ressalvado o controle da onerosidade excessiva. Validade da tarifa de avaliação do bem dado em garantia, bem como da cláusula que prevê o ressarcimento de despesa com o registro do contrato, ressalvadas a abusividade da cobrança por serviço não efetivamente prestado, e a possibilidade de controle da onerosidade excessiva, em cada caso concreto.
+Os embargos de declaração opostos pelos recorrentes foram acolhidos em parte, nos seguintes termos (fl. 260):
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. REDISCUSSÃO DO MÉRITO.
+1. A retificação do acórdão por meio de embargos de declaração só tem cabimento na hipótese de inexatidão material, omissão, contradição ou obscuridade.
+2. Os embargos declaratórios não servem ao objetivo de rediscutir o mérito da causa.
+3. O julgador não está obrigado a se manifestar sobre todas as teses levantadas pelas partes, bastando que os fundamentos utilizados tenham sido suficientes para embasar a decisão.
+4. O entendimento adotado por nova posição da Corte Especial do STJ, no julgamento do R Esp n. 1.061.530, submetido à sistemática dos recursos repetitivos, é no sentido de que "O reconhecimento da abusividade nos encargos exigidos no período da normalidade contratual (juros remuneratórios e capitalização) descaracteriza a mora." (Tema STJ nº 28)
+No recurso especial, os recorrentes alegam que o acórdão recorrido violou os arts. 396 e 397 do Código Civil, pois - segundo afirmam - o fato abusivo que implicou na inadimplência contratual não foi praticado pelo devedor, o que descaracteriza a mora, bem como que a obrigação não era positiva e liquida, razão pela qual o devedor não poderia ser constituído em mora.
+Sem contrarrazões ao recurso especial.
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 285-288), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo .
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+Com efeito, o Tribunal de origem analisou detidamente o recurso especial interposto, devendo a decisão de admissibilidade ser mantida por seus próprios fundamentos.
+Cuida-se, na origem, de embargos à execução nos quais foi alegada a existência de vícios no título executivo, bem como de excesso no valor cobrado. O Tribunal, em essência, manteve o entendimento de que havia excessos no valor cobrado pela instituição financeira, em função de práticas vedadas pelo ordenamento jurídico.
+Verifica-se que, em relação à apontada ofensa aos arts. 396 e 397 do Código Civil e à divergência jurisprudencial suscitada, o recurso especial não merece prosperar porquanto encontra óbice nas Súmulas 5, 7 e 83, todas do Superior Tribunal de Justiça.
+De fato, o Tribunal de origem decidiu a controvérsia em harmonia com a jurisprudência do STJ. A propósito, cito o seguinte precedente:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO MONITÓRIA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO AGRAVO. INSURGÊNCIA RECURSAL DA PARTE REQUERIDA.
+1. Reconsiderada a decisão monocrática anteriormente proferida, porquanto analisando o agravo em recurso especial percebe-se que foram impugnados todos os fundamentos da decisão agravada.
+2. As questões postas em discussão foram dirimidas pelo Tribunal de origem de forma suficiente, fundamentada e sem omissões, devendo ser afastada a alegada omissão e negativa de prestação jurisdicional.
+3. Derruir a conclusão do acórdão recorrido, que entendeu pela comprovação do fato constitutivo do direito do autor, demandaria o reexame das provas dos autos, providência vedada em sede de recurso especial, ante o óbice estabelecido pela Súmula 7/STJ. Precedentes.
+4. Os juros de mora e a correção monetária, em ação monitória, incidem a partir do vencimento da obrigação consubstanciada em dívida líquida e com vencimento certo. Precedentes. Incidência da Súmula 83/STJ.
+4.1. Derruir as conclusões a que chegou o Tribunal de origem e acolher a pretensão recursal, no sentido de desqualificar a mora ex re como sendo in persona, ensejaria o necessário revolvimento das provas constantes dos autos, providência vedada em sede de recurso especial, ante o óbice estabelecido pela Súmula 7/STJ. Precedentes.
+5. Agravo interno provido para reconsiderar a decisão de fls. 657/659, e-STJ. Agravo conhecido para negar provimento ao recurso especial.
+(AgInt nos EDcl no AREsp n. 2.366.728/MS, relator Ministro Marco Buzzi, Quarta Turma, DJe de 2/5/2024.)
+Ademais, o Tribunal de origem concluiu no sentido de que eventuais abusos não descaracterizam a mora, embora devam ser extirpados e que, no caso concreto, os excessos não causaram impacto significativo no saldo devedor, não havendo fundamento para a descaracterização da mora.
+Desse modo, afastar o referido entendimento para concluir no sentido de que a mora não se caracterizou no caso concreto, como pretende o recorrente, demandaria o reexame das cláusulas do contrato, o que encontra óbice, mais uma vez, nas Súmulas 5 e 7/STJ.
+Por fim, os recorrentes pleiteiam que se analise a divergência jurisprudencial apontada. Isso, contudo, não se mostra possível, pois os mesmos óbices impostos à admissão do recurso pela alínea "a" do art. 105 da CF impedem a análise recursal pela alínea "c" do mesmo dispositivo constitucional, ficando prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica.
+É o que os seguintes julgados demonstram:
+XI - Prejudicado o exame do recurso especial interposto pela alínea c do permissivo constitucional, pois a inadmissão do apelo proposto pela alínea a por incidência de enunciado sumular diz respeito aos mesmos dispositivos legais e tese jurídica.
+(AgInt no AREsp n. 1.985.699/SP, relator Ministro Francisco Falcão, Segunda Turma, DJEN de 23/12/2024.)
+5. É pacífico o entendimento desta Corte superior de que os mesmos óbices impostos à admissão do recurso pela alínea "a" do permissivo constitucional impedem a análise recursal pela alínea "c", ficando prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica.
+(AgInt no AREsp n. 2.683.103/PR, relator Ministro Humberto Martins, Terceira Turma, DJEN de 12/12/2024.)
+Assim, não tendo a parte agravante trazido fundamento ou fato novo a ensejar a alteração do referido entendimento, a negativa de provimento ao presente recurso é medida que se impõe.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 12% sobre a parcela do crédito embargado e confirmado (fls. 238).
+Publique-se. Intime-se.
+ EMENTA
