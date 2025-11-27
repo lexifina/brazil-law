@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de FLAVIO DE JESUS, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC nº 2275755-41.2025.8.26.0000).
+A defesa sustenta constrangimento ilegal decorrente da inércia do Juízo de origem em apreciar pedido, protocolado em 07/10/2025, de elaboração de cálculo de pena atualizado com aplicação da detração penal relativa ao recolhimento domiciliar noturno e aos finais de semana, cumprido rigorosamente de 17/10/2021 a 20/03/2025 bem como da expedição de mandado de prisão em 13/10/2025.
+Requer, em liminar, a suspensão dos efeitos do mandado de prisão, com a imediata expedição de contramandado de prisão ou salvo-conduto até o julgamento do writ; no mérito, a concessão da ordem para reconhecer o constrangimento ilegal e determinar ao Juízo da execução o cálculo da detração penal referente ao período de recolhimento domiciliar (17/10/2021 a 20/03/2025), nos moldes do Tema 1155/STJ, com retificação do cálculo da pena e, se for o caso, declaração de extinção da punibilidade ou adequação do regime prisional.
+Pedido de liminar indeferido (fls. 50-51).
+As informações foram prestadas às fls. 54-61 e fls. 65-78.
+O Ministério Público Federal manifestou-se, às fls. 82-87, pelo não conhecimento do habeas corpus.
+É o relatório. DECIDO.
+A presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida. A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Também não vislumbro a presença de coação ilegal que desafie a concessão da ordem de ofício, em observância ao § 2º do artigo 654 do Código de Processo Penal.
+Da leitura dos autos, verifica-se que o Tribunal de Justiça não analisou o mérito da controvérsia, qual seja, detração da pena referente ao período de recolhimento domiciliar. Na realidade, infere-se que o pedido foi sequer deduzido perante a instância de origem, ao menos no acórdão que instruiu os presentes autos.
+Assim, ausente manifestação do Tribunal sobre a questão de fundo também ora vindicada, incabível a análise do presente habeas corpus, porquanto está configurada a absoluta supressão de i nstância quanto ao ponto debatido, ficando impedida esta Corte de proceder à sua análise.
+O Superior Tribunal de Justiça entende que:
+"como é de conhecimento, matéria não apreciada pelo Tribunal de origem inviabiliza a análise por esta Corte Superior, sob pena de incorrer em indevida supressão de instância e violação dos princípios do duplo grau de jurisdição e devido processo legal, mesmo em caso de suposta nulidade absoluta." (AgRg no HC n. 813.772/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/4/2023, DJe de 3/5/2023).
+Ainda nesse sentido: AgRg no HC n. 804.815/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/4/2023, DJe de 19/4/2023; AgRg no HC n. 813.293/PB, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 25/4/2023, DJe de 28/4/2023; e AgRg nos EDcl na PET no REsp n. 1.908.093/PR, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 11/4/2023, DJe de 18/4/2023.
+Vale ressaltar, ademais, que esta Corte Superior de Justiça pacificou o entendimento de que:
+"o prequestionamento das teses jurídicas constitui requisito de admissibilidade da via, inclusive em se tratando de matérias de ordem pública, sob pena de incidir em indevida supressão de instância e violação da competência constitucionalmente definida para esta Corte" (AgRg nos EDcl no REsp n. 1.955.005/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 17/4/2023, DJe de 24/4/2023).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
