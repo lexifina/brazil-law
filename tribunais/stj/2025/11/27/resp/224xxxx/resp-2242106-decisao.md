@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial manejado pelo Instituto Nacional do Seguro Social - INSS, com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 26):
+AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. TEMA 1018. APLICAÇÃO EM CASO DE REAFIRMAÇÃO DA DER. RECURSO DESPROVIDO.
+1. A parte exequente tem direito às parcelas do benefício judicial, concedido mediante reafirmação da DER, até a data anterior à DER do benefício mais vantajoso concedido administrativamente no curso da ação, o qual optou por permanecer recebendo.
+2. O reconhecimento deste direito não implica desaposentação, nos exatos termos da fundamentação adotada no julgamento do Tema 1018 do STJ, que se deu posteriormente à tese firmada pelo STF sob o Tema 503, não havendo, portanto, violação ao art. 18, § 2º, da Lei n.º 8.213/91 ou ao art. 927, III, do CPC.
+3. Agravo interno ao qual se nega provimento.
+A parte recorrente aponta violação aos arts. 927, III, 1.022, II, do CPC, e 18, § 2º, da Lei n. 8.213/1991. Sustenta que teria havido omissão no julgado e que "quando há a reafirmação da DER para a concessão judicial do benefício, como ocorre na hipótese em apreço, conclui-se que o indeferimento administrativo na 1ª DER estava correto, não se aplicando a tese firmada no Tema 1.018 do STJ" (fl. 31).
+Sem contrarrazões (fl. 34).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+No caso em questão, inexistem omissão, contradição, obscuridade ou erro material, uma vez que, pela leitura do inteiro teor do acórdão embargado, depreende-se que este apreciou devidamente a matéria em debate e analisou de forma exaustiva, clara e objetiva as questões relevantes para o deslinde da controvérsia.
+No voto condutor do acórdão recorrido, o Tribunal afirmou ser aplicável a tese firmada no Tema 1.018/STJ aos casos em que houve reafirmação da DER, conforme o seguinte excerto (fls. 24):
+Não vejo motivo agora para modificar tal entendimento, nem mesmo diante dos argumentos versados no agravo interno, já refutados nos termos da fundamentação supra, e os quais, por si só, não logram desconstituir as razões que amparam a decisão adotada.
+O mero inconformismo da parte recorrente com a solução adotada não enseja sua reforma, notadamente quando os fundamentos legais foram expressamente analisados e considerados insuficientes para alterar o resultado do julgamento.
+O enunciado do Tema 1018 não fez qualquer restrição à aplicação da tese ao caso de benefício judicial concedido mediante reafirmação da DER.
+Mesmo nos casos de reafirmação da DER, a parte autora necessitou de provimento judicial que lhe assegurasse o reconhecimento de tempo de contribuição determinante para a concessão do benefício e que foi desconsiderado pela decisão administrativa de indeferimento.
+Com relação aos arts. 18, § 2º, da Lei n. 8.213/1991 e 927, III, do CPC, nota-se que os referidos dispositivos legais não contém comando capaz de sustentar a tese recursal e infirmar o juízo formulado pelo acórdão recorrido, de maneira que se impõe ao caso concreto a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."). Por oportuno, destacam-se os seguintes precedentes: AgInt no REsp n. 2.154.627/PE, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 30/9/2024, DJe de 3/10/2024; AgInt no AREsp n. 2.288.113/DF, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 23/9/2024, DJe de 27/9/2024; AgInt no AREsp n. 2.524.167/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 12/8/2024, DJe de 15/8/2024.
+ANTE O EXPOSTO, conheço em parte do recurso especial e, na parte conhecida, nego-lhe provimento.
+Publique-se.
+EMENTA
