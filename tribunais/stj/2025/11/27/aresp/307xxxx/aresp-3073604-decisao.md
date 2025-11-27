@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de Agravo apresentado por FLORI DA SILVA VITT à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim resumido:
+DIREITO CIVIL. APELAÇÃO CÍVEL. AÇÃO INDENIZATÓRIA. ACIDENTE DE TRÂNSITO. RESPONSABILIDADE CIVIL. PROVA TESTEMUNHAL. LITIGÂNCIA DE MÁ-FÉ. PARCIAL PROVIMENTO DO RECURSO.
+Quanto à controvérsia, a parte recorrente aduz violação aos arts. 80, incisos II e III, e 81 do CPC/2015, no que concerne à necessidade de restabelecimento da condenação por litigância de má-fé e aplicação da multa do art. 81, em razão da negativa genérica e deliberada de participação no acidente de trânsito apesar de robusta prova nos autos, trazendo a seguinte argumentação:
+A sentença de 1º grau, com base em robusto conjunto probatório  boletim de ocorrência, depoimento de testemunha presencial, vídeo, fotos e declarações prestadas por informante da própria parte ré  reconheceu a tentativa deliberada dos réus de alterar a verdade dos fatos, negando por completo sua participação em acidente de trânsito cuja culpa ficou inequivocamente demonstrada nos autos.
+Com base nisso, o juízo de origem aplicou multa por litigância de má-fé (art.
+81, CPC) e revogou a gratuidade de justiça, expressamente fundamentando a decisão com base nos incisos II e III do art. 80 do CPC, que tratam da alteração dolosa da verdade dos fatos e do uso do processo para objetivo ilegal.
+Entretanto, o acórdão recorrido reformou parcialmente a sentença, afastando a condenação por litigância de má-fé com o seguinte fundamento:  .. .
+Contudo, a questão jurídica controvertida é saber se a negativa genérica de fatos sabidamente verdadeiros  posteriormente refutada de forma objetiva e inequívoca  configura litigância de má-fé à luz dos arts. 80 e 81 do CPC. (fl. 145).
+ ..
+No caso, os réus negaram por completo sua participação no acidente, mesmo após o autor identificar o veículo, apresentar boletim de ocorrência, vídeos e testemunha ocular. O acórdão admite, inclusive, que houve comprovação da culpa da ré Letícia. Ora, negar fatos já comprovados nos autos, com objetivo de protelar o andamento do processo e impedir o êxito da parte contrária, é justamente o que define a litigância de má-fé.
+O acórdão recorrido, portanto, violou a norma jurídica contida nos artigos 80, II e III, e 81 do CPC, ao não aplicar a penalidade mesmo diante de conduta dolosa e deliberadamente obstrutiva do processo. (fl. 146).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Referentemente à condenação da parte ré nas penas da litigância de má-fé, entendo que a sentença mereça reforma no ponto, haja vista não vislumbrar conduta que se amolda às hipóteses do artigo 81 do Código de Processo Civil, porquanto a parte ré, por meio da Defensoria Pública do Estado, apenas exerceu seu direito de defesa (fl. 139).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o reexame da premissa fixada pelo acórdão recorrido quanto à existência ou não de má-fé na conduta do litigante exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em Recurso Especial.
+Nesse sentido, o STJ já decidiu que "incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à existência ou não de má-fé na conduta do litigante exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em recurso especial" (REsp n. 2.167.205/SP, relator Ministro Francisco Falcão, Segunda Turma, DJEN de 13/12/2024).
+Confiram-se ainda os seguintes precedentes: AgInt nos EDcl no AREsp n. 2.563.993/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 14/11/2024; AgInt no AREsp n. 2.505.321/DF, relator Ministro Humberto Martins, Terceira Turma, DJe de 15/8/2024; AgInt no AREsp n. 2.179.308/SP, relator Ministro Afrânio Vilela, Segunda Turma, DJe de 15/8/2024; AgInt no AREsp n. 2.450.482/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 29/5/2024; AgInt no REsp n. 2.095.784/BA, relator Ministro Marco Buzzi, Quarta Turma, DJe de 25/4/2024; AgInt no REsp n. 2.069.929/MG, relator Ministro Raul Araújo, Quarta Turma, DJe de 1/12/2023; AgInt no REsp n. 2.073.178/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 28/9/2023; EDcl no AgInt nos EDcl no REsp n. 1.898.156/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 29/9/2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
