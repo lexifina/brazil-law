@@ -1,0 +1,80 @@
+DECISÃO
+Trata-se de agravo interposto por ROGERIO BENONI DA COSTA, em adversidade à decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Estado de Santa Catarina, cuja ementa é a seguinte (e-STJ fls. 146):
+APELAÇÃO CRIMINAL. CRIME DE ESTELIONATO (ART. 171, CAPUT, DO CÓDIGO PENAL). SENTENÇA CONDENATÓRIA. RECURSO DA DEFESA. PRELIMINAR. PLEITO DE REMESSA DOS AUTOS AO MINISTÉRIO PÚBLICO PARA EVENTUAL OFERECIMENTO DE ACORDO DE NÃO PERSECUÇÃO PENAL (ART. 28-A DO CPP). BENEFÍCIO ANALISADO (E RECHAÇADO) PELA PEÇA ACUSATÓRIA. FACULDADE DO MINISTÉRIO PÚBLICO, COMO TITULAR DA AÇÃO PENAL, EM OFERECER O ACORDO DE NÃO PERSECUÇÃO PENAL. ENTENDIMENTO DE QUE NÃO CABE AO PODER JUDICIÁRIO DETERMINAR AO MINISTÉRIO PÚBLICO QUE OFERTE O ACORDO DE NÃO PERSECUÇÃO PENAL. ADEMAIS, MINISTÉRIO PÚBLICO QUE SE MANIFESTOU COM JUSTIFICATIVA IDÔNEA PELO NÃO OFERECIMENTO DO ACORDO, TENDO EM VISTA A HABITUALIDADE DELITIVA DO RÉU. PRELIMINAR AFASTADA. MÉRITO. PRETENDIDA ABSOLVIÇÃO COM BASE NA ATIPICIDADE MATERIAL DA CONDUTA E AUSÊNCIA DE DOLO. MATERIALIDADE E AUTORIA DEVIDAMENTE COMPROVADAS. CONFISSÃO EXTRAJUDICIAL DO ACUSADO CORROBORADA PELAS DECLARAÇÕES FIRMES E COERENTES DA TESTEMUNHA PRESENCIAL. CONJUNTO PROBATÓRIO HARMÔNICO E SEGURO. CONDENAÇÃO MANTIDA. TESE DE APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. INVIABILIDADE. VALOR DA RES SUPERIOR A 10% DO SALÁRIO MÍNIMO VIGENTE À ÉPOCA DOS FATOS. CONDUTA ARDILOSA E PREMEDITADA. REPROVABILIDADE ACENTUADA. PRECEDENTES DO TJSC. TIPICIDADE FORMAL E MATERIAL RECONHECIDA. SENTENÇA CONDENATÓRIA MANTIDA. PEDIDO DE AFASTAMENTO DA PENA DE MULTA. IMPOSSIBILIDADE. PENA DE APLICAÇÃO COGENTE, PREVISTA NO PRECEITO SECUNDÁRIO DA NORMA PENAL. EVENTUAL MODULAÇÃO DA EXIGIBILIDADE A SER APRECIADA NA FASE EXECUTÓRIA, MEDIANTE DEMONSTRAÇÃO DE HIPOSSUFICIÊNCIA ECONÔMICA. PRECEDENTES DO STJ. RECURSO CONHECIDO E DESPROVIDO.
+Nas razões do recurso especial (e-STJ fls. 149/157), fundado na alínea a do permissivo constitucional, alega a parte recorrente violação do artigo 28-A do CPP. Sustenta a possibilidade da celebração do acordo de não persecução penal - ANPP, uma vez que a recusa baseou-se em elementos que ferem a presunção de inocência.
+Apresentadas contrarrazões (e-STJ fls. 158/162), o Tribunal a quo não admitiu o recurso especial (e-STJ fls. 163/164), tendo sido interposto o presente agravo (e-STJ fls. 166/173).
+O Ministério Público Federal, instado a se manifestar, opinou pelo não provimento do recurso especial (e-STJ fls. 195/200).
+É o relatório. Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+O recurso não merece acolhida.
+No presente caso, em cota à denúncia, o Ministério Público, ao se manifestar sobre o ANPP, opinou contrariamente ao seu oferecimento, conforme consignado pelo Tribunal de origem (e-STJ fs. 142):
+O ANPP (acordo de não persecução penal), conforme o artigo 28-A do Código de Processo Penal, constitui uma faculdade do Ministério Público, não um dever. Assim, a decisão de não oferecê-lo é discricionária e deve ser pautada nas circunstâncias do caso concreto.
+No presente caso, o Ministério Público, em cota à denúncia, fundamentou adequadamente sua escolha ao assim dizer (evento 1, DENUNCIA1):
+Registra-se que embora a pena mínima cominada em abstrato ao crime descrito na denúncia permita a oferta do acordo de não persecução penal e a a suspensão condicional do processo, a conduta criminal habitual e retirada por parte do denunciado, revelada por meio dos antecedentes criminais do Ev. 4 e inúmeros registros policiais constantes do seu cadastro no SISP, impedem a proposição dos referidos benefícios.
+Portanto, não há qualquer ilegalidade ou insuficiência na fundamentação da decisão, que respeitou os critérios legais para a não oferta do acordo.
+Ora, conforme leitura acima, o Ministério Público, ao não oferecer o acordo de não persecução penal, entendeu que a conduta criminal habitual e reiterada por parte do envolvido impede a proposição do referido benefício.
+Dessa forma, a recusa foi devidamente motivada, não cabendo ao Poder Judiciário intervir.
+É que o acordo de não persecução penal não constitui direito subjetivo do investigado, podendo ser proposto pelo Ministério Público conforme as peculiaridades do caso concreto e quando considerado necessário e suficiente para a reprovação e a prevenção da infração penal.
+Dessa forma, no caso, não há qualquer ilegalidade a ser sanada, uma vez que o Ministério Público se manifestou pela ausência de interesse na celebração do acordo, tendo em vista que esse não seria suficiente para reprovação do crime..
+Nessa linha, os seguintes jugados:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. ACORDO DE NÃO PERSECUÇÃO PENAL. SÚMULA 83/STJ. AGRAVO DESPROVIDO. I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão que inadmitiu recurso especial, fundamentando-se na Súmula 83 do STJ, em razão de acórdão do Tribunal Regional Federal da 4ª Região que negou provimento à apelação, indeferindo o pedido de remessa dos autos à instância recursal do Ministério Público Federal para reconsideração da negativa de oferta de Acordo de Não Persecução Penal. II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se a negativa de oferta de Acordo de Não Persecução Penal pelo Ministério Público pode ser reconsiderada em sede de recurso especial, mesmo diante da aplicação da Súmula 83 do STJ. III. RAZÕES DE DECIDIR
+3. A jurisprudência do Superior Tribunal de Justiça estabelece que a possibilidade de oferecimento do acordo de não persecução penal é conferida exclusivamente ao Ministério Público, não constituindo direito subjetivo do investigado.
+4. A Súmula 83 do STJ impede o conhecimento do recurso especial quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida, aplicando-se também ao permissivo do artigo 105, inciso III, alínea a, da Constituição Federal.
+5. A decisão agravada encontra amparo na jurisprudência consolidada do STJ, autorizando o julgamento de forma monocrática, nos termos do art. 255, § 4º, II, do RISTJ. IV. DISPOSITIVO E TESE
+6. Agravo regimental desprovido.
+Tese de julgamento: "1. A possibilidade de oferecimento do acordo de não persecução penal é conferida exclusivamente ao Ministério Público, não constituindo direito subjetivo do investigado. 2. A Súmula 83 do STJ impede o conhecimento do recurso especial quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida".
+Dispositivos relevantes citados: CF/1988, art. 105, III, a; CPP, art. 28-A; RISTJ, art. 255, § 4º, II. Jurisprudência relevante citada: Súmula 83/STJ. (AgRg no AREsp n. 2.367.937/SC, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 19/8/2025, DJEN de 25/8/2025.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. RECURSO ESPECIAL. ACORDO DE NÃO PERSECUÇÃO PENAL. INEXISTÊNCIA DE DIREITO SUBJETIVO. DISCRICIONARIEDADE DO MINISTÉRIO PÚBLICO. AGRAVO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que negou provimento ao recurso especial, mantendo a negativa do Ministério Público em oferecer acordo de não persecução penal, sob os fundamentos de que não há direito subjetivo ao acordo, e de que a recusa foi justificada pela prática de novo crime pelo agravante.
+II. Questão em discussão
+2. As questões em discussão consistem em saber: a) se o recurso especial poderia ter sido objeto de decisão monocrática; b) se o acordo de não persecução penal constitui direito subjetivo do réu; e c) se há incompatibilidade entre o art. 28-A, § 2º, inciso II, do Código de Processo Penal, e o princípio da presunção de inocência.
+III. Razões de decidir
+3. Não há óbice ao julgamento monocrático do recurso especial na hipótese de a pretensão contrariar a jurisprudência consolidada do Superior Tribunal de Justiça, conforme autorizado pelo Regimento Interno desta Corte 4. O entendimento consolidado do Superior Tribunal de Justiça é de que não há direito subjetivo ao acordo de não persecução penal, cabendo ao Ministério Público avaliar a conveniência e a suficiência do ajuste para a reprovação e a prevenção do crime.
+5. O controle judicial da negativa do acordo deve se restringir à verificação da legalidade da decisão ministerial, não podendo o Judiciário impor a celebração do acordo.
+6. A recusa ao acordo foi justificada pela prática de novo crime pelo agravante, nos termos do art. 28-A, § 2º, II, do Código de Processo Penal.
+7. Inviável a análise sobre a alegada incompatibilidade entre o art. 28-A, § 2º, inciso II, do Código de Processo Penal, e o princípio da presunção de inocência, haja vista a ausência de prequestionamento.
+IV. Dispositivo e tese
+7. Agravo regimental parcialmente conhecido e, nessa extensão, desprovido.
+Tese de julgamento: "1. Não há direito subjetivo ao acordo de não persecução penal, cabendo ao Ministério Público a avaliação de sua conveniência. 2. O controle judicial da negativa do acordo deve se restringir à verificação da legalidade da decisão ministerial. 3.
+Não se admite inovação recursal em sede de agravo regimental."
+Dispositivos relevantes citados: CPP, art. 28-A, § 2º, II.
+Jurisprudência relevante citada: STJ, REsp 2.182.445/RN, Rel. Min. Ribeiro Dantas, Quinta Turma, julgado em 13/5/2025; STJ, AgRg no RHC 185.308/DF, Rel. Min. Jesuíno Rissato, Sexta Turma, julgado em 26/2/2024. (AgRg no REsp n. 2.050.673/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 5/8/2025, DJEN de 14/8/2025.)
+PROCESSUAL PENAL. RECURSO ESPECIAL. ACORDO DE NÃO PERSECUÇÃO PENAL (ANPP). REJEIÇÃO DE DENÚNCIA. IMPOSSIBILIDADE. FACULDADE DO MINISTÉRIO PÚBLICO. AUSÊNCIA DE DIREITO SUBJETIVO DO INVESTIGADO. INEXIGIBILIDADE DE NOTIFICAÇÃO PRÉVIA. POSSIBILIDADE DE REMESSA DOS AUTOS AO ÓRGÃO SUPERIOR, EM CASO DE RECUSA IMOTIVADA. VIOLAÇÃO DOS ARTS. 28-A, CAPUT E § 14, E 395, II e III DO CÓDIGO DE PROCESSO PENAL. Recurso provido nos termos do dispositivo. (REsp n. 2.085.112/BA, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 1/7/2025, DJEN de 7/7/2025.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. ACORDO DE NÃO PERSECUÇÃO PENAL. REQUISITOS E PRECLUSÃO. AGRAVO IMPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que negou provimento a recurso em habeas corpus, no qual se alegava constrangimento ilegal pela ausência de oferecimento do Acordo de Não Persecução Penal (ANPP) aos agravantes, sem motivação idônea.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a recusa do Ministério Público em oferecer o ANPP, fundamentada na insuficiência da medida para reprovação e prevenção do crime, configura constrangimento ilegal.
+3. A questão também envolve a análise da preclusão pela defesa não ter requerido, no momento oportuno, o reexame pelo órgão competente da recusa no oferecimento do ANPP.
+III. Razões de decidir
+4. A recusa do Ministério Público em oferecer o ANPP foi devidamente fundamentada, destacando a gravidade dos fatos e a insuficiência da medida para reprovação e prevenção do crime.
+5. A defesa não utilizou o procedimento previsto no art. 28-A, § 14, do CPP no momento processual oportuno, o que caracteriza preclusão.
+6. O ANPP não constitui direito subjetivo do investigado, sendo uma faculdade do Ministério Público, que deve ser exercida conforme as peculiaridades do caso concreto.
+7. O simples preenchimento dos requisitos necessários para o oferecimento do Acordo de Não Persecução Penal - ANPP não obriga o Ministério Público a oferecer o acordo, apenas permite ao Parquet a opção, devidamente fundamentada, entre denunciar o acusado ou realizar o acordo.
+IV. Dispositivo e tese
+7. Agravo regimental improvido.
+Tese de julgamento: "1. A recusa do Ministério Público em oferecer o ANPP, quando fundamentada na insuficiência da medida para reprovação e prevenção do crime, não configura constrangimento ilegal. 2. A defesa deve requerer o reexame da recusa do ANPP no momento processual oportuno, sob pena de preclusão. 3. O ANPP é uma faculdade do Ministério Público, não constituindo direito subjetivo do investigado".
+Dispositivos relevantes citados: CPP, art. 28-A. Jurisprudência relevante citada: STJ, AgRg no REsp 2047673/TO, Rel. Min. Reynaldo Soares da Fonseca, DJe 06/03/2023; STJ, AgRg no REsp n. 2.006.770/RN, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/9/2022, DJe de 19/9/2022. (AgRg no RHC n. 208.931/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 1/7/2025, DJEN de 4/7/2025.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. INOVAÇÃO RECURSAL. PRINCÍPIO DA COLEGIALIDADE NÃO VIOLADO. ACORDO DE NÃO PERSECUÇÃO PENAL (ANPP). RECUSA FUNDAMENTADA. AUSÊNCIA DE DIREITO SUBJETIVO DO RÉU. AGRAVO PARCIALMENTE CONHECIDO E IMPROVIDO.
+I. CASO EM EXAME
+1.
+Agravo regimental interposto contra decisão que negou provimento ao recurso especial, sustentando a possibilidade de celebração de Acordo de Não Persecução Penal (ANPP) em caso de tráfico de drogas de pequena monta.
+II. QUESTÃO EM DISCUSSÃO
+2. Há três questões em discussão: (i) verificar se houve inovação recursal; (ii) definir se a decisão monocrática proferida com fundamento na Súmula n. 568 do STJ viola o princípio da colegialidade; e (iii) verificar se a recusa do Ministério Público em oferecer o ANPP, ainda que em face de ré primária e sem antecedentes, configura ilegalidade passível de correção judicial.
+III. RAZÕES DE DECIDIR
+3. O agravo regimental, embora tempestivo e com impugnação da decisão agravada, deve ser parcialmente conhecido, pois veicula causa de pedir e pedido não contidos no recurso especial, qual seja, reanálise da condenação diante de julgado do STF a respeito do art. 28 da Lei de drogas 4. A decisão monocrática do relator, com base na Súmula 568 do STJ, não viola o princípio da colegialidade, pois admite a interposição de agravo regimental para análise pelo colegiado, conforme jurisprudência consolidada do STJ.
+5. O Acordo de Não Persecução Penal (ANPP), previsto no art. 28-A do Código de Processo Penal, não constitui direito subjetivo do investigado, sendo uma faculdade do Ministério Público, condicionada ao preenchimento dos requisitos legais e à análise de necessidade e suficiência para a reprovação e prevenção do crime no caso concreto.
+6. No caso em exame, a recusa do Ministério Público, referenda pelo órgão superior, em celebrar o acordo foi devidamente fundamentada.
+7. A jurisprudência é pacífica no sentido de que, em regra, o Poder Judiciário não pode impor ao Ministério Público a obrigação de oferecer o ANPP, salvo em hipóteses de manifesta ilegalidade ou ausência de fundamentação na recusa, o que não ocorreu no caso concreto.
+IV. DISPOSITIVO E TESE
+8. Agravo regimental parcialmente conhecido e improvido.
+Tese de julgamento: "1. O Acordo de Não Persecução Penal (ANPP) não constitui direito subjetivo do investigado, sendo uma faculdade do Ministério Público. 2. A recusa fundamentada do Ministério Público em oferecer o ANPP não configura constrangimento ilegal. 3. O Poder Judiciário não pode impor ao Ministério Público a obrigação de oferecer o ANPP, salvo em casos de manifesta ilegalidade ou ausência de fundamentação na recusa. 4. A decisão monocrática do relator, com base na Súmula 568 do STJ, não viola o princípio da colegialidade, pois admite a interposição de agravo regimental para análise pelo colegiado, conforme jurisprudência consolidada do STJ.
+5. Não cabe inovação recursal em agravo regimental".
+Dispositivos relevantes citados: CPP, art. 28-A.
+STJ, Jurisprudência relevante citada: AgRg no HC n. 978.688/SP, Rel. Min> Reynaldo Soares da Fonseca, Quinta Turma, j. em . 18/2/2025 (AgRg no AREsp n. 2.430.310/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 1/7/2025, DJEN de 4/7/2025.)
+Ante o exposto, com fundamento no art. 932, inciso VIII, do Código de Processo Civil, c/c o art. 253, parágrafo único, inciso II, alínea b, do RISTJ, e na Súmula n. 568/STJ, conheço do agravo para negar provimento ao recurso especial.
+Intimem-se.
+EMENTA
