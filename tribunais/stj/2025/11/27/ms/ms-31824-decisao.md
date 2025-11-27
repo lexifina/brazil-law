@@ -1,0 +1,26 @@
+DECISÃO
+Em análise, mandado de segurança impetrando por POLYANA CAMYLA CARNEIRO VIEIRA contra ato imputado ao MINISTRO DE ESTADO DA EDUCAÇÃO, à REITORA DO CENTRO DE ENSINO SUPERIOR PINHAS LTDA. - FAPI e do REPRESENTANTE DA COORDENADORIA DO PROGRAMA UNIVERSIDADE PARA TODOS (PROUNI) DO CENTRO UNIVERSITÁRIO DE PINHAS - FAPI consistente no ato que decretou o encerramento da bolsa de estudos integral recebida pela impetrante através do Programa Universidade para todos - PROUNI.
+A impetrante sustenta, em síntese, que é beneficiária do PROUNI desde fevereiro deste ano, ocasião em que apresentou à Universidade a documentação comprobatória de sua hipossuficiência econômica e do cumprimento dos demais requisitos legais. Relata que, em maio, foi surpreendida com a abertura de procedimento de revisão da bolsa, o qual foi encerrado em junho de 2025, com a conclusão pela sua manutenção.
+Afirma, ainda, que, novamente em julho, recebeu e-mail notificando o encerramento da bolsa, sob o fundamento de descumprimento de requisitos, e alega que o ato administrativo foi praticado sem a observância do devido processo legal, do contraditório e da ampla defesa.
+Assevera que o cancelamento contraria os próprios objetivos do PROUNI, ressaltando que foi "perfeitamente honesta ao declarar que cursou seu ensino médio no Colégio SESC - São José" e que tinha a convicção, embora equivocada, de tratar-se de instituição integrante da rede pública de ensino (fl. 28).
+Pede a concessão de medida liminar para que, até o julgamento final do mandado de segurança, a Universidade se abstenha de exigir o pagamento das mensalidades do curso de Medicina. Ao final, pede a concessão da segurança.
+Às fls. 151/152, o MM. juiz da 21ª Vara Federal Cível da Seção Judiciária do Distrito Federal declinou da competência em favor deste Superior Tribunal de Justiça em razão da presença do Ministro de Estado da Educação no polo passivo do writ.
+É o relatório.
+Passo a decidir.
+A impetrante se insurge contra o ato que decretou o encerramento da bolsa de estudos integral no Programa Universidade para Todos - PROUNI.
+Nos termos do art. 105, I, b, da Constituição Federal, compete ao Superior Tribunal de Justiça o processamento e o julgamento de mandados de segurança impetrados contra atos da própria Corte, de Ministros de Estado, de Comandantes da Marinha, do Exército e da Aeronáutica.
+Por sua vez, o § 3º do art. 6º da Lei n. 12.016/2009 estabelece que a autoridade coatora é aquela "que tenha praticado o ato impugnado ou da qual emane a ordem para a sua prática".
+No caso, o ato apontado como coator, consistente no cancelamento da bolsa do PROUNI, insere-se no âmbito das atribuições da Secretaria de Educação Superior do Ministério da Educação, nos termos do art. 2º, do Decreto n. 5493/2005, que regulamenta a Lei n. 11.096/2005, que instituiu o Programa Universidade para Todos: "Art. 2º - O ProUni será implementado por intermédio da Secretaria de Educação Superior d o Ministério da Educação".
+Já decidiu a Primeira Seção deste Superior Tribunal de Justiça:
+AGRAVO REGIMENTAL NO MANDADO DE SEGURANÇA. ADMINISTRATIVO. PROUNI. PROCESSO SELETIVO. ILEGITIMIDADE PASSIVA DO MINISTRO DE ESTADO DA EDUCAÇÃO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Narra a exordial, ter o impetrante se submetido ao Exame Nacional do Ensino Médio em outubro de 2014, tendo feito inscrição no Programa Nacional Universidade Para Todos de 2015. Como primeira opção de bolsa integral escolheu o curso de engenharia química e, como segunda, engenharia civil, ambos ofertados pela Universidade de Salvador - UNIFACS.
+2. Aprovado apenas para a segunda alternativa, quedou-se inerte na efetivação de sua matrícula por acreditar que ainda lhe restaria a possibilidade de ser convocado em sua primeira opção, por meio de lista de espera.
+3. Como já sedimentado no âmbito desta Corte, a legitimidade para figurar no pólo passivo do mandamus é da autoridade que detém atribuição para adoção das providências tendentes a executar o ato combatido e não daquele responsável pela edição da norma geral e abstrata.
+4. A Lei n. 11.096/2005, que instituiu o Programa Universidade para Todos - ProUni, destinado à concessão de bolsas de estudo em cursos de graduação, foi regulamentada pelo Decreto n. 5.493/2005 - que conferiu à Secretaria de Educação Superior do Ministério da Educação - SESu - competência para implementar e conduzir inteiramente o processo seletivo de candidatos.
+5. Em casos análogos, envolvendo discussão acerca dos critérios para seleção de candidatos à bolsa do ProUni, a Primeira Seção já se posicionou pela ilegitimidade passiva do Ministro de Estado da Educação. Nessa linha, citam-se os seguintes julgados: Precedentes da Primeira Seção: MS 14242 / DF, rel. Ministra Eliana Calmon, DJe 18/6/2009; MS 13280 / DF, rel. Ministro Herman Benjamin, DJe 19/12/2008.
+6. Agravo regimental não provido.
+(AgRg no MS n. 21.656/DF, relator Ministro Mauro Campbell Marques, Primeira Seção, julgado em 13/5/2015, DJe de 19/5/2015).
+Isso posto, indefiro liminarmente o mandado de segurança, sem julgamento de mérito.
+Determino, por conseguinte, a remessa dos autos ao juiz da 21ª Vara Federal Cível da Seção Judiciária do Distrito Federal para o prosseguimento do exame do writ em relação às autoridades apontadas como coatoras sem prerrogativa de foro nesta Corte.
+Intimem-se.
+EMENTA
