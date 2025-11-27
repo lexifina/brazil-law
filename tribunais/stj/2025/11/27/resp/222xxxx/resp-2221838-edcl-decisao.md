@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Fazenda do Estado De São Paulo contra decisum singular, de fls. 104/113, que negou provimento ao seu recurso especial sob o fundamento de que, nos termos do art. 85, § 7º, do CPC, tendo a ora embargante apresentado "impugnação ao cumprimento de sentença da parte ora recorrida,  ..  são cabíveis honorários executivos" (fl. 112).
+Em suas razões, a parte embargante aduz que a decisão impugnada padece de omissão "quanto ao julgamento do Tema de Repetitivos nº 1.190 e modulação de efeitos nele determinada" (fl. 117). Isso porque, nesse precedente (fls. 117/118):
+ ..  foi decidido que, apresentada impugnação e sendo ela rejeitada, são devidos honorários pelo poder público executado. No entanto, houve modulação de efeitos para estabelecer que tal entendimento apenas se aplica aos incidentes de cumprimento de sentença ajuizados após o seu (do Tema 1.190) julgamento.
+Em outras palavras: ao ser realizada a modulação de efeitos, ficou decidido que, para os incidentes de cumprimento de sentença ajuizados antes do julgamento do Tema de Repetitivos 1.190, continua aplicável a Súmula 519/STJ, segundo a qual, "na hipótese de rejeição da impugnação ao cumprimento de sentença, não são cabíveis honorários advocatícios".
+Esse enunciado sumular se coadunava com o entendimento do STJ anterior ao julgamento do Tema 1.190 segundo o qual eram devidos honorários no cumprimento de sentença contra a Fazenda Pública submetidos ao regime de RPV. Nesse cenário, como o simples cumprimento de sentença já acarretava o pagamento de honorários, não era possível impor novo pagamento da verba pela simples rejeição integral de eventual impugnação apresentada.
+Daí defender que, " n o presente caso, o Tema 1.190 não pode ser aplicado em virtude da modulação de efeitos nele realizada, segundo a qual o entendimento nele fixado só alcança os cumprimentos de sentença ajuizados após o seu julgamento, o que não é o caso dos presentes autos" (fl. 118).
+A parte embargada apresentou impugnação às fls. 129/135.
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão do decisum atacado ou, ainda, para corrigir erro material.
+Entretanto, no caso dos autos, não se verifica a existência de nenhum desses vícios, pois a decisão enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Com efeito, restou devidamente consignado que a hipótese dos autos versa acerca da fixação de honorários executivos, na forma do art. 85, § 7º, do CPC, como decorrência de o subjacente cumprimento de sentença promovida pela parte embargante ter sido impugnada pela Fazenda Pública.
+Dito de outra forma, é dissociada do caso em tela as considerações suscitadas pela parte ora embargante acerca da eventual impossibilidade de fixação de honorários advocatícios de sucumbência em virtude da rejeição da impugnação apresentada em cumprimento de sentença.
+Nesse panorama, inexistente omissão no julgado embargado, conforme exige o artigo 1.022 do CPC, impõe-se a rejeição dos presentes embargos de declaração. A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIAL AUSÊNCIA. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS REJEITADOS.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para eliminar a obscuridade, contradição ou suprir a omissão existente no julgado, além da correção de erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes. A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+3. Não constatados os vícios indicados no art. 1.022, devem ser rejeitados os embargos de declaração, por consistirem em mero inconformismo da parte.
+(EDcl no REsp n. 1.978.532/SP, relator Ministro Afrânio Vilela, Segunda Turma, DJe de 15/3/2024.)
+ANTE O EXPOSTO, rejeito os embargos de declaração.
+Publique-se.
+EMENTA
