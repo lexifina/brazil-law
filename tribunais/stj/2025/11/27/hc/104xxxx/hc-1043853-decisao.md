@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de DANILO MICHAEL DA SILVA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DE SÃO PAULO, assim ementado (fl. 88):
+Execução penal - Falta grave - Reeducando do regime fechado que possui indevidamente máquina artesanal para execução de tatuagens - Conduta passível de ser considerada, tanto como incitação ou participação em movimento para subverter a ordem ou a disciplina (art. 50, I, da LEP), quanto possuir instrumento capaz de ofender a integridade física de outrem (Art. 50, III, da LEP), ou ainda mera desobediência a ordem genérica contida na Portaria SAP n. 106/2014 (art. 50, VI, c. c. V, ambos da LEP) - Comprovação da conduta pela prova oral -art. 39, Admissibilidade
+É de rigor o reconhecimento da falta grave, na hipótese de existir acervo probatório incriminador, ainda que integrado apenas por declarações orais, corroborada pela confissão espontânea do reeducando, apontando no sentido de que o condenado possuir máquina artesanal para execução de tatuagens, uma vez que se cuida de conduta passível de ser considerada, tanto como incitação ou participação em movimento para subverter a ordem ou a disciplina (art. 50, I, da LEP), quanto possuir instrumento capaz de ofender a integridade física de outrem (Art. 50, III, da LEP), ou ainda mera desobediência a ordem genérica contida na Portaria SAP n. 106/2014 (art. 50, VI, c.c. art. 39, V, ambos da LEP).
+Execução Penal Falta grave Reeducando do sistema fechado Perda de até 1/3 dos dias remidos e por remir, e interrupção da contagem do prazo para obtenção de benefícios diversos do indulto e da comutação de penas
+O cometimento de falta grave pelo reeducando do sistema fechado gera consequências de ordem, tanto administrativa, quanto processual. Sob o prisma administrativo, a constatação sujeitará o reeducando às sanções disciplinares previstas na LEP. Sob a perspectiva processual, na medida em que o reeducando já se encontra cumprindo pena no sistema fechado, descabe a regressão de regime. A infração disciplinar de natureza grave acarreta, todavia, invariavelmente: a) a interrupção e, portanto, o reinício da contagem do prazo para obtenção de benefícios diversos do indulto e da comutação de penas; b) a perda de até 1/3 dos dias remidos e por remir. Justifica- se, ainda, que aludida perda ocorra em seu máximo, se a falta grave se revestir de alta reprovabilidade, seja por corresponder a própria conduta à prática de novo crime, seja por seu potencial nocivo para a perpetração de ilícitos, participação na criminalidade organizada ou subversão da disciplina prisional.
+Encontra-se o paciente cumprindo pena privativa de liberdade.
+O TJ/SP homologou sindicância administrativa que reconheceu a prática de falta disciplinar de natureza grave, por posse, em unidade prisional, de material capaz de ofender a integridade física de outrem, consistente em máquina de tatuagem artesanal.
+A defesa sustenta, em suma, que a hipótese não se configura, porquanto não demonstrada a materialidade da falta grave e ausente a comprovação pericial da potencialidade lesiva do objeto apreendido, pleiteando a desclassificação para falta média prevista no II, art. 45, do Regimento Interno Padrão das Unidades Prisionais do Estado de São Paulo.
+Aduz, ainda, que a confecção do exame pericial é indispensável quando há vestígios, requerendo, liminarmente e no mérito, a desclassificação da conduta do paciente para falta disciplinar de natureza média.
+Indeferida a liminar e prestadas as informações, manifestou-se o Ministério Público Federal nos termos da seguinte ementa (fl. 115):
+Processo penal. Habeas corpus. Pleito de revisão de reconhecimento de falta grave (posse de máquina artesanal para execução de tatuagens).
+1. De todo inadequado HC ao c. STJ, substitutivo de recurso próprio. Ausente flagrante ilegalidade, o writ não tem como ser conhecido.
+2. Ainda que não tenha sido realizada perícia na máquina artesanal, de se ver que presente agulha em sua composição, ou seja, objeto com potencial lesivo, o que se adéqua à conduta prevista no inc. III do art. 50 da LEP, falta grave; ter-se-ia sempre desobediência a ordem vigente no estabelecimento, o que é igualmente falta grave, nos termos do inc. VI do art. 50 em comento c.c. inc. V do art. 39 da LEP.
+3. Pelo não conhecimento e, caso conhecido, pela denegação da ordem.
+É o relatório.
+A Quinta Turma do Superior Tribunal de Justiça firmou entendimento no sentido de ser inadequada a impetração de habeas corpus quando utilizado em substituição a recurso próprio.
+A teor do disposto no art. 105, II, a, da CF/88, o recurso cabível contra acórdão que denega a ordem na origem é o recurso ordinário, enquanto que, consoante previsto no art. 105, III, da CF, contra acórdão que julga a apelação, o recurso em sentido estrito e o agravo em execução, cabe recurso especial.
+Nada impede, contudo, constatada a existência de ilegalidade flagrante, abuso de poder ou teratologia, a concessão de habeas corpus de ofício, nos termos do art. 654, § 2º do CPP, o que se passa a examinar.
+Acerca da controvérsia aqui trazida, assim se manifestou o Tribunal local (fls. 90-91):
+ ..  A apreensão de máquina artesanal para execução de tatuagens corresponde a falta grave, uma vez que se se cuida de conduta passível de ser considerada, tanto como incitação ou participação em movimento para subverter a ordem ou a disciplina (art. 50, I, da LEP), quanto possuir instrumento capaz de ofender a integridade física de outrem (Art. 50, III, da LEP), ou ainda mera desobediência a ordem genérica contida na Portaria SAP n. 106/2014 (art. 50, VI, c.c. art. 39, V, ambos da LEP).
+ ..
+Não há falar, portanto, em desclassificação para falta de natureza média, ao passo que o lastro probatório torna certa a responsabilidade do agravado pelo cometimento de falta disciplinar grave. No caso concreto, o melhor enquadramento dá-se pelo fato de possuir indevidamente instrumento capaz de ofender a integridade física de outrem, violando, assim, os arts. 50, III, c.c. 39, II e V, ambos da Lei de Execuções Penais.
+De rigor, pois, o reconhecimento da prática de falta classificada como grave, nos termos do art. 50, III, da LEP. ..
+De início, a tese referente à ausência de realização de perícia não foi previamente enfrentada pelo Tribunal estadual, inviabilizando o seu exame nesta via (e sede), sob pena de indevida supressão de instância.
+No mais, encontra-se o entendimento acima transcrito, em destaque - a apreensão de máquina artesanal para execução de tatuagens corresponde a falta grave -, em consonância com a jurisprudência desta egrégia Corte, não havendo falar-se em ilegalidade. A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. OFENSA À DIALETICIDADE. SÚMULA N. 182/STJ. REALIZAÇÃO DE TATUAGEM EM UNIDADE PRISIONAL. FALTA DISCIPLINAR GRAVE. DESCLASSIFICAÇÃO PARA FALTA MÉDIA OU LEVE. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. PRECEDENTES. PERDA DOS DIAS REMIDOS. PERCENTUAL MÁXIMO DE 1/3. FUNDAMENTAÇÃO IDÔNEA. NATUREZA ESPECIALMENTE GRAVE DA CONDUTA. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+2. A jurisprudência desta Corte entende configurar falta grave a realização de tatuagem no interior unidade prisional. Precedentes.
+3. Conforme orientação jurisprudencial emanada por esta Corte, afastar o reconhecimento da falta grave, ou até mesmo a sua desclassificação para falta de natureza média ou leve, demandaria o reexame de matéria fático-probatória, inadmissível na via estreita do habeas corpus. Precedentes.
+4. Quanto à perda dos dias remidos no patamar de 1/3 (um terço), o máximo previsto em lei, considerando ter sido ressaltada, na decisão de origem, a natureza da infração e as circunstâncias da conduta praticada pelo apenado, encontra-se devidamente justificada.
+Precedentes.
+5. Agravo regimental não provido.
+(AgRg no HC n. 916.118/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 2/9/2024, DJe de 4/9/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. TATUAGEM. FALTA GRAVE. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência desta Corte entende configurar falta grave a realização de tatuagem no interior de estabelecimento prisional. Precedentes.
+2. Agravo regimental desprovido.
+(AgRg no HC n. 786.129/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 29/5/2023, DJe de 31/5/2023.)
+Não há, portanto, flagrante ilegalidade que justifique a concessão de habeas corpus de ofício.
+Diante do exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
