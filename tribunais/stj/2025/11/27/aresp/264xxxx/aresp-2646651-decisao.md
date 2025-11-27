@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de agravo interposto por OESTE PROJETOS AMBIENTAIS LTDA e MARELY LEBRE ROSA contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO cuja ementa guarda os seguintes termos (fls. 456/457):
+RECURSO DE APELAÇÃO CÍVEL - MONITÓRIA - EMBARGOS MONITÓRIOS - REVISÃO - CÉDULA DE CRÉDITO BANCÁRIO - ENCARGOS MORATÓRIOS - COMISSÃO DE PERMANÊNCIA CUMULADA COM ENCARGOS MORATÓRIOS - IMPOSSIBILIDADE - PRECEDENTES - SUCUMBÊNCIA RECÍPROCA - PROCEDÊNCIA PARCIAL DOS EMBARGOS MORATÓRIOS. 1. Não se cogita de nulidade da sentença, se o tema pode ser examinado pela instância revisora, na forma do disposto no artigo 1.013, § 1º, do Código de Processo Civil, segundo o qual a apelação devolverá ao Tribunal o conhecimento da matéria impugnada e que "serão, porém, objeto de apreciação e julgamento pelo tribunal todas as questões suscitadas e discutidas no processo, ainda que não tenham sido solucionadas, desde que relativas ao capítulo impugnado". 2. Nos termos das Súmulas 30, 294, 296 e 472 do Superior Tribunal de Justiça, é ilegal a cobrança da comissão de permanência cumulada com encargos moratórios.
+Recurso especial apresentado (fls. 460/469), no qual alega, em síntese: (i) necessidade de reconhecimento da taxa legal de juros moratórios em 1% ao mês, nos termos do art. 406 do Código Civil, art. 161, § 1º, do CTN e Enunciado 20 da I Jornada de Direito Civil; (ii) aplicação do Decreto-Lei n. 22.626/1933 como norma especial que limita juros compensatórios convencionais a 2% ao mês, excetuados os contratos de mútuo; (iii) observância do art. 591 do Código Civil apenas para operações de mútuo; (iv) imposição de limites aos juros convencionais à luz dos arts. 421 e 422 do Código Civil e da Emenda Constitucional n. 40/2003.
+Foram oferecidas contrarrazões ao recurso especial (fls. 498/503).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 504/509), reconhecendo a intempestividade, o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo.
+Decisão da Presidência desta Corte não conhecendo do recurso, por intempestividade, reiterando o entendimento do Tribunal de origem quando do juízo negativo de admissibilidade (fls. 589/590).
+Embargos de declaração contra a decisão da Presidência desta Corte (fls. 593/597).
+Embargos acolhidos (fl. 604), superando a controvérsia quanto à tempestividade.
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+O acórdão do Tribunal de origem está em consonância com a jurisprudência consolidada desta Corte. Ao dar provimento parcial à apelação, aplicou, em subsunção direta, o entendimento fixado no Tema Repetitivo 52 do STJ, como se segue:
+A cobrança de comissão de permanência - cujo valor não pode ultrapassar a soma dos encargos remuneratórios e moratórios previstos no contrato - exclui a exigibilidade dos juros remuneratórios, moratórios e da multa contratual
+Em relação às demais alegações, verifico que são todas referentes à revisão de contratos de mútuo, para as quais o Tribunal de origem, de igual modo, tão somente aplicou os entendimentos fortemente estabelecidos pelo STJ, não havendo que se falar em ofensa à legislação federal.
+Neste sentido:
+Tema Repetitivo 24 - As instituições financeiras não se sujeitam à limitação dos juros remuneratórios estipulada na Lei de Usura (Decreto 22.626/33), Súmula 596/STF.
+Tema Repetitivo 25 - A estipulação de juros remuneratórios superiores a 12% ao ano, por si só, não indica abusividade.
+Tema Repetitivo 26 - São inaplicáveis aos juros remuneratórios dos contratos de mútuo bancário as disposições do art. 591 c/c o art. 406 do CC/02.
+Como se percebe, não se trata de situação submetida à legislação consumerista, tendo o acórdão recorrido aplicado o arcabouço normativo correto no deslinde da controvérsia.
+Ademais, não se pode, no bojo do recurso especial, adentrar às especificidades do contrato, papel já desempenhado pelas instâncias inferiores, sob pena desrespeito ao papel constitucional do STJ, conforme dispõe as súmulas 5 e 7, deste Tribunal, conforme precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO REVISIONAL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE AGRAVANTE.
+1. A Segunda Seção do STJ, ao julgar o Recurso Especial Repetitivo n. 1.061.530/RS, no tocante aos juros remuneratórios, consignou o seguinte: "a) As instituições financeiras não se sujeitam à limitação dos juros remuneratórios estipulada na Lei de Usura (Decreto 22.626/33), Súmula 596/STF; b) A estipulação de juros remuneratórios superiores a 12% ao ano, por si só, não indica abusividade; c) São inaplicáveis aos juros remuneratórios dos contratos de mútuo bancário as disposições do art. 591 c/c o art. 406 do CC/02; d) É admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada art. 51, §1º, do CDC) fique cabalmente demonstrada, ante às peculiaridades do julgamento em concreto" (REsp 1061530/RS, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 22/10/2008, DJe 10/03/2009).
+1.1 Reformar o acórdão recorrido, no tocante à existência de abusividade da taxa de juros remuneratórios pactuada, demandaria o necessário reexame de fatos e provas, bem como a interpretação de cláusulas contratuais, práticas vedadas nesta sede especial a teor das Súmulas 5 e 7 do STJ.
+2. A comissão de permanência, cujo valor não pode ser maior do que a soma dos encargos remuneratórios e moratórios, exclui a possibilidade de cobrança de outros encargos da mora no período de inadimplência contratual. Incidência do enunciado contido na Súmula 83/STJ.
+3. Conforme entendimento jurisprudencial consolidado por este Superior Tribunal de Justiça, o reconhecimento da abusividade dos encargos cobrados no período da normalidade contratual traz, como consectário lógico, a descaracterização da mora do devedor.
+Incidência do enunciado contido na Súmula 83/STJ.
+4. Agravo interno desprovido. (STJ, AgInt no AREsp 1447398/RS, Rel. Min. Marco Buzzi, Quarta Turma, DJe em 15.08.2019).
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro em 2% os honorários fixados no Tribunal de origem em desfavor dos agravantes, observada a proporção ali estabelecida (fl. 455).
+Publique-se. Intime-se.
+ EMENTA
