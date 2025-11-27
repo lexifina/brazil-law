@@ -1,0 +1,66 @@
+DECISÃO
+Trata-se de recurso especial manejado por Jocelito Altair Carvalho com fundamento no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 90):
+AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. CONSECTÁRIOS LEGAIS. COISA JULGADA. TEMAS N.º 810 E 1.170 DO SUPREMO TRIBUNAL FEDERAL. PRESSUPOSTO FÁTICO DIVERSO.
+1. A iniciativa da parte, extemporânea de exigência de eventual parcela remanescente do débito, é incompatível à ausência de impugnação oportuna ao ato judicial de extinção do processo.
+2. Quando o título judicial não diferiu a definição dos consectários legais para a fase do cumprimento de sentença, devem ser observados os índices que foram estabelecidos na decisão que transitou em julgado, sob pena de violação à coisa julgada.
+3. A tese fixada no Tema n.º 1.170 do Supremo Tribunal Federal é no sentido de esclarecer que o trânsito em julgado de sentença que tenha fixado percentual de juros moratórios não impede a observância de alteração legislativa futura.
+4. Não se retira da interpretação da tese que foi fixada no Tema n.º 810 do Supremo Tribunal a autorização para flexibilização da coisa julgada a não ser pelo meios de impugnação próprios previstos na legislação processual.
+Opostos embargos declaratórios, foram parcialmente acolhidos (fls. 160/165).
+A parte recorrente aponta, além de dissídio jurisprudencial, violação aos arts. 322, 926, III, 1.022, II, do CPC, 31, da Lei n. 10.741/2003, e 41-A, da Lei n. 8.213/1991. Sustenta ter havido negativa de prestação jurisdicional no julgamento dos embargos de declaração, "uma vez que deixou de apreciar pontos essenciais à resolução da controvérsia, inviabilizando o necessário prequestionamento para a interposição do presente Recurso Especial" (fl. 172).
+Aduz que (fl. 176):
+ ..  o v. acórdão recorrido contraria disposição expressa da legislação, notadamente o §1º do art. 322 do Código de Processo Civil. Isso porque os juros de mora e a correção monetária constituem matéria de ordem pública, conforme previsto nesse dispositivo legal, e, portanto, não se submetem aos efeitos da coisa julgada, como equivocadamente entendeu o acórdão impugnado.
+Com efeito, os consectários legais (juros e correção monetária) não estão vinculados aos limites objetivos da coisa julgada, pois não integram propriamente o pedido ou a causa de pedir. Ao contrário, inserem-se na cláusula rebus sic stantibus, justamente por se tratarem de efeitos legais automáticos da condenação, cuja aplicação decorre da lei, independentemente de expressa menção no pedido inicial.
+Ademais, conforme já demonstrado, a decisão recorrida deixou de observar os entendimentos consolidados pelo Supremo Tribunal Federal e pelo Superior Tribunal de Justiça nos Temas 810, 1.170, 1.361 e 289 do STF, bem como no Tema 905 do STJ, todos com repercussão geral ou caráter repetitivo. Tal omissão configura flagrante violação ao disposto no art. 927, inciso III, do Código de Processo Civil, que impõe a obrigatoriedade de observância dessas teses pelos juízes e tribunais.
+Alega que (fl. 177):
+ ..  ao declarar a inconstitucionalidade do art. 1º-F da Lei 9.494/97 quanto à utilização da TR como índice de atualização monetária, o Supremo Tribunal Federal conferiu a esse entendimento aplicabilidade geral, inclusive às ações ainda pendentes de julgamento, com o objetivo de assegurar a uniformidade das decisões judiciais e preservar a segurança jurídica.
+defende que (fl. 178):
+Com o trânsito em julgado desse tema em 03/03/2020, e posteriormente do Tema 1170 em 12/12/2023, restou consolidado que a aplicação dos consectários definidos no Tema 810  que reconheceu a inconstitucionalidade da TR desde junho de 2009  não configura violação à coisa julgada, uma vez que a decisão possui eficácia retroativa (ex tunc), atingindo inclusive os processos em curso.
+Argumenta que (fl. 186):
+No caso em tela, diversamente da hipótese tratada no Tema 289 do STJ, postula- se o pagamento de parcela que não poderia ter sido reivindicada anteriormente, pois decorre da definição, pelo Supremo Tribunal Federal, da inconstitucionalidade da correção monetária pela TR. A execução complementar ora proposta busca o adimplemento de valores que não puderam ser liquidados à época da execução originária, justamente porque não havia definição quanto ao índice de atualização aplicável, questão decidida somente com o julgamento do Tema 810/STF.
+Dessa forma, não se trata de valores já executados ou incluídos na fase anterior, mas sim de débito remanescente, cuja exigibilidade surgiu apenas após o trânsito em julgado da decisão proferida no leading case pelo STF, razão pela qual não se cogita de renúncia tácita.
+Ou seja, de acordo com o referido tema, antes de proceder com a extinção do processo de execução, deve-se obrigatoriamente ser intimada a parte para se manifestar quanto a eventual renúncia a crédito remanescente, vedada a presunção de renúncia tácita, pois após a extinção da execução seria defeso reabri-la.
+Aduz, ainda, que (fl. 152):
+A jurisprudência também é clara ao distinguir o que foi decidido no Tema 289 das hipóteses de diferenças surgidas em razão de modificação posterior do entendimento jurisprudencial vinculante, como é o caso da atualização monetária com base no IPCA-E em substituição à TR.
+A própria Corte Superior, ao julgar o AREsp 2189937/PR, por meio do Min. Gurgel de Faria, reafirmou que o Tema 289 não se aplica de forma extensiva às hipóteses de cumprimento complementar de sentença fundado em tese posterior dos Tribunais Superiores (como o Tema 810), especialmente em casos de títulos que diferiram a definição dos índices para momento posterior ao julgamento definitivo da controvérsia.
+Sem contrarrazões.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não comporta êxito.
+Na forma da jurisprudência desta Corte, "é deficiente a fundamentação do recurso especial em que a alegação de violação ao art. 1.022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão tornou-se omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284/STF" (AgInt no AREsp 1.805.328/MT, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 13/8/2021).
+Nesse mesmo sentido:
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 1.022 DO CPC. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. PENSÃO POR MORTE. INVALIDEZ ANTES DA MAIORIDADE. MANUTENÇÃO DA DEPENDÊNCIA. POSSIBILIDADE. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A jurisprudência desta Corte considera que quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284, do Supremo Tribunal Federal.
+III - Esta Corte possui entendimento no sentido de que faz jus à pensão por morte o beneficiário que, após a maioridade, manteve o direito à pensão devido à invalidez, haja vista que a incapacidade foi estabelecida antes de completar 21 anos, sem que houvesse a ruptura do vínculo de dependência.
+IV - A Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+V - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno improvido.
+(AgInt no REsp 1.838.289/PR, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 23/6/2021) - Grifo nosso
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO RECORRIDO. OMISSÃO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. FUNDAMENTO CONSTITUCIONAL INATACADO. SÚMULA 126/STJ.
+1. É deficiente a assertiva genérica de violação do art. 1.022 do CPC/2015, configurada quando o jurisdicionado não expõe objetivamente os pontos supostamente omitidos pelo Tribunal a quo e não comprova ter questionado as suscitadas falhas nos embargos de declaração. Incidência da Súmula 284/STF
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.768.968/DF, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 1º/7/2021) - Grifo nosso
+Destarte, considerando-se que a parte recorrente apenas alegou genericamente a existência de afronta ao art. 1.022, I e II, do CPC, sem, contudo, indicar de forma clara, precisa e congruente quais seriam os vícios não sanados pelo Tribunal de origem a despeito da oposição de embargos de declaração, incide na espécie a Súmula 284/STF
+No mérito, debate-se pedido de execução complementar para o pagamento das diferenças apuradas com base na aplicação do Tema n. 810/STF.
+O Juízo de primeiro grau, em sede de execução de sentença, indeferiu o pedido de reativação do processo para prosseguimento da parcela relacionada ao índice de correção monetária após o julgamento do Tema n. 810/STF.
+Na espécie, o Tribunal de origem, com base no conjunto probatório dos autos, ao solucionar a controvérsia, adotou as seguintes razões de decidir (fl. 87/28):
+O INSS apresentou prova da implementação do benefício (evento 50, CONBAS1) e juntou cálculo do valor que entende devido (evento 52, CALC2). O segurado concordou com os valores (evento 56, PET1), e em 26/06/2015 foi expedida a ordem de pagamento (evento 67, REQPAGAM1), cujo pagamento ocorreu em 16/11/2016 (evento 90, DEMTRANSF1). Em 30/11/2016 foi proferida sentença extintiva (evento 96, SENT1), que transitou em julgado em 12/03/2017 (evento 107, origem). Como foi visto, não foi diferida a fixação dos consectários para a fase executiva, razão pela qual é necessário observar a coisa julgada em relação à matéria.
+Nesse passo, cabe atentar para o que dispõe o artigo 507 do Código de Processo Civil (CPC):
+É vedado à parte discutir, no curso do processo, as questões já decididas a cujo respeito se operou a preclusão.
+Acerca da matéria lecionam Nelson Nery Júnior e Rosa Maria Andrade Nery:
+A preclusão indica a perda da faculdade processual, pelo seu não uso dentro do prazo peremptório previsto pela lei (preclusão temporal), ou, pelo fato de já havê-la exercido (preclusão consumativa), ou, ainda, pela prática de ato incompatível com aquele que se pretende exercitar no processo (preclusão lógica) (CPC Comentado e legislação processual civil extravagante em vigor, 3 ed., São Paulo. RT. 1997, p. 686).
+A preclusão, portanto, ocorre quando a parte, tendo a oportunidade de se manifestar, deixa de fazê-lo, assumindo postura incompatível com a inconformidade que depois vem a alegar.
+Deveras, o título executivo não diferiu a definição dos consectários legais para o cumprimento de sentença, razão pela qual a execução complementar, mediante a aplicação de índices diversos do que foi estabelecido, ainda que em razão do posterior julgamento do Tema 810 pelo Supremo Tribunal Federal, não pode prosseguir, haja vista ter se operado a preclusão, bem como em razão da necessidade de se observar o que foi decidido no título que transitou em julgado.
+Esta Corte possui entendimento no sentido de distinguir o Tema 289 do STJ com a situação em que haja determinação de diferimento da controvérsia sobre os consectários legais da condenação para a fase executiva.
+Confira-se, o seguinte julgado, da minha relatoria:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. EXECUÇÃO DE SENTENÇA. SUSPENSÃO DA MARCHA PROCESSUAL PARA AGUARDAR O JULGAMENTO DO TEMA 810/STF. QUESTÃO REFERENTE AOS CONSECTÁRIOS LEGAIS DIFERIDA. POSSIBILIDADE.
+1. Segundo tese firmada no REsp n. 1.143.471/PR ( Tema n. 289/STJ ), "A renúncia ao crédito exequendo remanescente, com a consequente extinção do processo satisfativo, reclama prévia intimação, vedada a presunção de renúncia tácita".
+2. Hipótese em que o cumprimento de sentença permaneceu suspenso, aguardando a definição do Tema 810 pelo Supremo Tribunal Federal, e ficou diferida a questão relativa aos consectários legais, inexistindo, nos autos, certificação quanto ao cumprimento definitivo da obrigação estabelecida no título executivo.
+3. Caso concreto que apresenta claro o distinguishing da tese firmada no REsp n. 1.143.471/PR, que trata da reabertura da execução após a prolação de sentença extintiva.
+4. Agravo interno provido para conhecer e negar provimento ao recurso especial do INSS.
+(AgInt no REsp n. 2.029.411/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 1/3/2024.)
+No caso, afirmou-se que o segurado concordou com os valores da execução e que não houve diferimento dos consectários decorrentes do Tema 810 para a fase de cumprimento da sentença.
+Assim , o acórdão recorrido está em harmonia com o entendimento firmado neste Superior Tribunal.
+ANTE O EXPOSTO, conheço em parte do recurso especial para, nessa extensão, negar-lhe provimento.
+Publique-se.
+EMENTA
