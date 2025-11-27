@@ -1,0 +1,74 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, não conhecer do agravo regimental.
+Os Srs. Ministros Maria Marluce Caldas e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+Ausentes, justificadamente, os Srs. Ministros Ribeiro Dantas e Joel Ilan Paciornik.
+EMENTA
+Direito Processual PENAL. Agravo Regimental. Impugnação específica dos fundamentos da decisão agravada. Súmula 182 do STJ. Agravo regimental não conhecido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu do agravo em recurso especial, com fundamento na ausência de impugnação específica dos fundamentos da decisão de inadmissibilidade, aplicando-se a Súmula n. 182, STJ.
+2. O agravante foi condenado pelo crime previsto no art. 33, caput, c/c art. 40, inciso V, da Lei 11.343/2006, à pena de 7 anos e 7 dias de reclusão, em regime semiaberto, e 700 dias-multa. O Tribunal de Justiça do Estado do Rio Grande do Sul, em apelação, redimensionou a pena para 6 anos, 4 meses e 17 dias de reclusão, em regime semiaberto, e 640 dias-multa, mantendo a negativa do tráfico privilegiado.
+3. A defesa interpôs recurso especial alegando violação aos arts. 59 do Código Penal e 33, § 4º, da Lei 11.343/2006. A Segunda Vice-Presidência do Tribunal de origem inadmitiu o recurso especial com fundamento na Súmula n. 83, STJ. No agravo em recurso especial, a decisão monocrática consignou que, para afastar a incidência da Súmula n. 83, STJ, seria necessário demonstrar, com precedentes contemporâneos ou supervenientes, a divergência da jurisprudência do Superior Tribunal de Justiça ou a inaplicabilidade dos julgados citados na decisão de inadmissibilidade. Constatou-se que o agravante não realizou o cotejo analítico necessário, citando apenas julgados sem demonstrar contemporaneidade, razão pela qual aplicou-se a Súmula n. 182, STJ.
+4. No agravo regimental, a defesa reafirma a tese de aplicação da causa de diminuição prevista no art. 33, § 4º, da Lei 11.343/2006, argumentando que o afastamento do redutor careceria de base legal e que não haveria prova de dedicação criminosa.
+II. Questão em discussão
+5. A questão em discussão consiste em saber se o agravo regimental apresentou argumentos específicos e suficientes para afastar a aplicação da Súmula n. 182, STJ, e permitir o conhecimento do agravo em recurso especial.
+III. Razões de decidir
+6. A ausência de impugnação específica dos fundamentos da decisão monocrática, que aplicou a Súmula n. 83, STJ, atrai a incidência da Súmula n. 182, STJ, que impede o conhecimento do agravo regimental.
+7. A jurisprudência consolidada do Superior Tribunal de Justiça considera que a Súmula n. 83, STJ, aplica-se tanto aos recursos especiais interpostos pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+8. A mera alegação de inaplicabilidade da Súmula n. 83, STJ, desacompanhada da demonstração de que os precedentes citados na decisão de inadmissibilidade estariam superados ou seriam inaplicáveis ao caso, não satisfaz o requisito da impugnação específica previsto no art. 932, inciso III, do Código de Processo Civil e no art. 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça.
+IV. Dispositivo e tese
+9. Resultado do Julgamento: Agravo regimental não conhecido.
+Tese de julgamento:
+1. Precedentes de Corte regional não são aptos a afastar a incidência da Súmula n. 83 do STJ. 2. Cabia ao recorrente, em atenção ao princípio da dialeticidade, demonstrar especificamente o desacerto da decisão monocrática para ser conhecido.
+Dispositivos relevantes citados:CPC, art. 932, III; Regimento Interno do STJ, art. 253, parágrafo único, I; Lei 11.343/2006, art. 33, § 4º; Código Penal, art. 59.
+Jurisprudência relevante citada:STJ, AgRg no HC 752.579/BA, Rel. Min. João Batista Moreira, Quinta Turma, julgado em 03.07.2023; STJ, AgRg no HC 777.246/MG, Rel. Min. Laurita Vaz, Sexta Turma, julgado em 20.04.2023.
+RELATÓRIO
+Trata-se de agravo regimental interposto por KLEISON ARLETO DE MOURA contra decisão monocrática que não conheceu do agravo em recurso especial por ausência de impugnação específica dos fundamentos da decisão de inadmissibilidade, com aplicação da Súmula n. 182, STJ (fls. 696-700).
+O agravante foi condenado pelo crime previsto no art. 33, caput, c/c art. 40, inciso V, da Lei 11.343/2006, à pena de 7 (sete) anos e 7 (sete) dias de reclusão, em regime semiaberto, e 700 dias-multa (fls. 367-373).
+O TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, em apelação, redimensionou a pena para 6 (seis) anos, 4 (quatro) meses e 17 (dezessete) dias de reclusão, em regime semiaberto, e 640 dias-multa, mantendo a negativa do tráfico privilegiado (fls. 598-601).
+A defesa interpôs recurso especial alegando violação aos arts. 59 do Código Penal e 33, § 4º, da Lei 11.343/2006. A Segunda Vice-Presidência do Tribunal de origem inadmitiu o recurso especial com fundamento na Súmula n. 83, STJ (fls. 629-634).
+No agravo em recurso especial, a decisão monocrática consignou que, para afastar a incidência da Súmula n. 83, STJ, seria necessário demonstrar, com precedentes contemporâneos ou supervenientes, a divergência da jurisprudência do SUPERIOR TRIBUNAL DE JUSTIÇA ou a inaplicabilidade dos julgados citados na decisão de inadmissibilidade. Constatou-se que o agravante não realizou o cotejo analítico necessário, citando apenas julgados sem demonstrar contemporaneidade, razão pela qual aplicou-se a Súmula n. 182, STJ (fls. 696-700).
+No agravo regimental ora em exame, protocolado em 3 de novembro de 2025, a defesa sustenta a tempestividade recursal e, no mérito, reafirma a tese de aplicação da causa de diminuição prevista no art. 33, § 4º, da Lei 11.343/2006, argumentando que o afastamento do redutor careceria de base legal e que não haveria prova de dedicação criminosa (fls. 705-714).
+É o relatório.
+EMENTA
+Direito Processual PENAL. Agravo Regimental. Impugnação específica dos fundamentos da decisão agravada. Súmula 182 do STJ. Agravo regimental não conhecido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu do agravo em recurso especial, com fundamento na ausência de impugnação específica dos fundamentos da decisão de inadmissibilidade, aplicando-se a Súmula n. 182, STJ.
+2. O agravante foi condenado pelo crime previsto no art. 33, caput, c/c art. 40, inciso V, da Lei 11.343/2006, à pena de 7 anos e 7 dias de reclusão, em regime semiaberto, e 700 dias-multa. O Tribunal de Justiça do Estado do Rio Grande do Sul, em apelação, redimensionou a pena para 6 anos, 4 meses e 17 dias de reclusão, em regime semiaberto, e 640 dias-multa, mantendo a negativa do tráfico privilegiado.
+3. A defesa interpôs recurso especial alegando violação aos arts. 59 do Código Penal e 33, § 4º, da Lei 11.343/2006. A Segunda Vice-Presidência do Tribunal de origem inadmitiu o recurso especial com fundamento na Súmula n. 83, STJ. No agravo em recurso especial, a decisão monocrática consignou que, para afastar a incidência da Súmula n. 83, STJ, seria necessário demonstrar, com precedentes contemporâneos ou supervenientes, a divergência da jurisprudência do Superior Tribunal de Justiça ou a inaplicabilidade dos julgados citados na decisão de inadmissibilidade. Constatou-se que o agravante não realizou o cotejo analítico necessário, citando apenas julgados sem demonstrar contemporaneidade, razão pela qual aplicou-se a Súmula n. 182, STJ.
+4. No agravo regimental, a defesa reafirma a tese de aplicação da causa de diminuição prevista no art. 33, § 4º, da Lei 11.343/2006, argumentando que o afastamento do redutor careceria de base legal e que não haveria prova de dedicação criminosa.
+II. Questão em discussão
+5. A questão em discussão consiste em saber se o agravo regimental apresentou argumentos específicos e suficientes para afastar a aplicação da Súmula n. 182, STJ, e permitir o conhecimento do agravo em recurso especial.
+III. Razões de decidir
+6. A ausência de impugnação específica dos fundamentos da decisão monocrática, que aplicou a Súmula n. 83, STJ, atrai a incidência da Súmula n. 182, STJ, que impede o conhecimento do agravo regimental.
+7. A jurisprudência consolidada do Superior Tribunal de Justiça considera que a Súmula n. 83, STJ, aplica-se tanto aos recursos especiais interpostos pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+8. A mera alegação de inaplicabilidade da Súmula n. 83, STJ, desacompanhada da demonstração de que os precedentes citados na decisão de inadmissibilidade estariam superados ou seriam inaplicáveis ao caso, não satisfaz o requisito da impugnação específica previsto no art. 932, inciso III, do Código de Processo Civil e no art. 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça.
+IV. Dispositivo e tese
+9. Resultado do Julgamento: Agravo regimental não conhecido.
+Tese de julgamento:
+1. Precedentes de Corte regional não são aptos a afastar a incidência da Súmula n. 83 do STJ. 2. Cabia ao recorrente, em atenção ao princípio da dialeticidade, demonstrar especificamente o desacerto da decisão monocrática para ser conhecido.
+Dispositivos relevantes citados:CPC, art. 932, III; Regimento Interno do STJ, art. 253, parágrafo único, I; Lei 11.343/2006, art. 33, § 4º; Código Penal, art. 59.
+Jurisprudência relevante citada:STJ, AgRg no HC 752.579/BA, Rel. Min. João Batista Moreira, Quinta Turma, julgado em 03.07.2023; STJ, AgRg no HC 777.246/MG, Rel. Min. Laurita Vaz, Sexta Turma, julgado em 20.04.2023.
+VOTO
+A questão central do presente agravo regimental consiste em verificar se a defesa impugnou especificamente os fundamentos da decisão monocrática agravada, nos termos exigidos pelo art. 1.021, § 1º, do Código de Processo Civil e pela Súmula n. 182, STJ.
+A decisão monocrática de fls. 696-700 foi expressa ao indicar o fundamento para o não conhecimento do agravo em recurso especial. Consignou-se que, inadmitido o recurso especial pela Segunda Vice-Presidência do Tribunal de origem com base na Súmula n. 83, STJ, incumbiria ao agravante demonstrar, com precedentes contemporâneos ou supervenientes aos mencionados na decisão de inadmissibilidade, que a orientação jurisprudencial do SUPERIOR TRIBUNAL DE JUSTIÇA seria diversa ou que os julgados citados não se aplicariam ao caso concreto. A decisão registrou, de forma inequívoca, que o agravante não cumpriu esse ônus, limitando-se a citar julgados sem realizar o cotejo analítico exigido e sem demonstrar a contemporaneidade dos precedentes invocados.
+O agravo regimental, contudo, não enfrenta esse fundamento específico. A peça recursal volta-se exclusivamente ao mérito da causa de diminuição do art. 33, § 4º, da Lei 11.343/2006, reiterando argumentos sobre a ausência de prova de dedicação criminosa e transcrevendo precedentes acerca da aplicação do tráfico privilegiado. Não há, em momento algum, tentativa de demonstrar que o equívoco da decisão agravada quanto ao fundamento de não impugnação da Súmula n. 83, STJ.
+A jurisprudência desta Corte é firme no sentido de que a ausência de impugnação específica dos fundamentos da decisão agravada atrai a incidência da Súmula n. 182, STJ, segundo a qual é inviável o agravo que deixa de atacar especificamente os fundamentos da decisão agravada. Quando o recurso especial é inadmitido com base na Súmula n. 83, STJ, a impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida, demonstrando que outro é o entendimento jurisprudencial desta Corte.
+Nesse sentido, confira-se precedente da Quinta Turma:
+DIREITO PROCESSUAL CIVIL. AGRAVO REGIMENTAL. PRINCÍPIO DA DIALETICIDADE. RECURSO NÃO CONHECIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu do agravo em recurso especial, com fundamento no art. 932, inciso III, do CPC e do art. 253, parágrafo único, I, do Regimento Interno desta Corte.
+2. O Tribunal de origem inadmitiu recurso especial interposto pelos recorrentes, que se opunham ao acórdão que negou provimento a recurso em sentido estrito contra decisão de primeiro grau que suspendeu temporariamente o direito à habilitação para conduzir veículo automotor, aplicando a medida cautelar do art. 278-A, § 2º, do Código de Trânsito Brasileiro.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se o agravo regimental apresentou argumentos específicos e suficientes para afastar a aplicação do art. 932, inciso III, do CPC e do art. 253, parágrafo único, I, do Regimento Interno desta Corte e, assim, permitir o conhecimento do agravo em recurso especial.
+III. Razões de decidir
+4. Precedentes de Corte regional não são aptos a afastar a incidência da Súmula 83, STJ.
+5. Cabia ao ora recorrente, em atenção ao princípio da dialeticidade, demonstrar especificamente o desacerto da decisão monocrática.
+IV. Dispositivo e tese
+6. Agravo regimental improvido Tese de julgamento: "1. Precedentes de Corte regional não são aptos a afastar a incidência da Súmula 83 do STJ. 2. Cabia ao ora recorrente, em atenção ao princípio da dialeticidade, demonstrar especificamente o desacerto da decisão monocrática para ser conhecido. ".
+Dispositivos relevantes citados: Código de Trânsito Brasileiro, art. 278-A, § 2º.Jurisprudência relevante citada: STJ, AgRg no HC 752.579/BA, Rel. Min. João Batista Moreira, Quinta Turma, julgado em 03.07.2023; STJ, AgRg no HC 777.246/MG, Rel. Min. Laurita Vaz, Sexta Turma, julgado em 20.04.2023.
+(AgRg no AREsp n. 2.904.808/PR, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 19/8/2025, DJEN de 27/8/2025.)
+No caso concreto, o agravante não trouxe elementos aptos a desconstituir o fundamento específico da decisão monocrática. Limitou-se a reiterar a tese de mérito sobre o tráfico privilegiado, sem enfrentar a questão processual que motivou o não conhecimento do agravo em recurso especial. Essa postura caracteriza deficiência na dialeticidade recursal, impedindo o conhecimento do presente agravo regimental.
+Registre-se que a jurisprudência consolidada desta Corte Superior considera que a Súmula n. 83, STJ, aplica-se tanto aos recursos especiais interpostos pela alínea "a" quanto pela alínea "c" do permissivo constitucional. A mera alegação de inaplicabilidade do verbete sumular, desacompanhada da demonstração de que os precedentes citados na decisão de inadmissibilidade estariam superados ou seriam inaplicáveis ao caso, não satisfaz o requisito da impugnação específica previsto no art. 932, inciso III, do Código de Processo Civil e no art. 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça.
+Ante o exposto, NÃO CONHEÇO do agravo regimental.
+É o voto.
