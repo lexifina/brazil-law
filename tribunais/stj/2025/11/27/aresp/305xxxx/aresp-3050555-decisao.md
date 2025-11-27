@@ -1,0 +1,32 @@
+DECISÃO
+Agrava-se de decisão que não admitiu recurso especial interposto com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Norte, assim ementado:
+DIREITO PENAL. APELAÇÃO RIMINAL. TRÁFICO DE DROGAS. MATERIALIDADE E AUTORIA COMPROVADAS. APLICAÇÃO DO REDUTOR DO ART. 33, § 4º, DA LEI DE DROGAS AO RÉU PRIMÁRIO, EM PATAMAR MÁXIMO. MANUTENÇÃO DO REGIME FECHADO (RÉ REINCIDENTE). CONHECIMENTO E PARCIAL PROVIMENTO.
+I. CASO EM EXAME
+Apelação criminal interposta contra sentença condenou os acusados pela prática do crime de tráfico de drogas (art. 33, caput, da Lei nº 11.343/2006). Os apelantes pleiteiam: (i) a absolvição da ré por insuficiência probatória; (ii) o reconhecimento do tráfico privilegiado para o réu com a aplicação da minorante no patamar de 2/3; e (iii) a fixação do regime inicial semiaberto para a ré.
+II. QUESTÃO EM DISCUSSÃO
+Há três questões em discussão: (i) definir se há insuficiência probatória quanto à autoria da ré; (ii) estabelecer se é cabível a aplicação da causa de diminuição de pena do tráfico privilegiado na fração de 2/3, em favor do réu; e (iii) determinar se é possível a fixação de regime inicial mais brando para a ré.
+III. RAZÕES DE DECIDIR
+Os depoimentos dos policiais civis, dotados de fé pública e prestados sob o crivo do contraditório, revelam-se suficientes à condenação quando corroborados por outros elementos, conforme entendimento pacificado pelo STJ. Presentes os requisitos do art. 33, § 4º, da Lei de Drogas, e ausentes motivos para a redução em patamar menos benéfico, é cabível a redução da pena na fração máxima de 2/3. Inviável a fixação de regime mais brando diante da reincidência
+IV. DISPOSITIVO E TESE
+Recurso parcialmente provido. (e-STJ fls. 404/405)
+A defesa aponta a violação do art. 386, VII do CPP e 33, § 2º do CP. Sustenta que inexistem provas seguras para a condenação da recorrente e que a reincidência não pode ser usada como fundamento para o agravamento do regime prisional.
+Contrarrazões às e-STJ fls. 431/444.
+Manifestação do Ministério Público Federal pelo não provimento do recurso às e-STJ fls. 496/505.
+É o relatório. Decido.
+A irresignação não prospera.
+Os elementos existentes nos autos informam que a recorrente foi condenada à pena de 5 anos e 9 meses de reclusão pela prática do crime do art.33 da Lei n. 11.343/2006.
+A defesa alega que inexistem provas seguras para a condenação da recorrente.
+A tese defensiva não pode ser apreciada na via do recurso especial, isso porque cabe ao aplicador da lei, em instância ordinária, fazer um cotejo fático e probatório a fim de analisar a existência de provas suficientes a absolver, condenar ou desclassificar a imputação feita ao acusado. Óbice do enunciado n.º 7 da Súmula deste STJ (ut, AgInt no AREsp n. 1.265.017/DF, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 24/5/2018).
+No caso, consta do acórdão que "existem provas diversas a embasar a materialidade e a autoria delitiva acerca de Keliane Cabral, tais como o Auto de Prisão em Flagrante (Id. 29011580), o auto de exibição e apreensão (Id. 29011580 - Pág. 19), as imagens de Id. 29011580 - Pág. 21), o laudo de exame químico-toxicológico (ID 29011945), sem prejuízo da prova oral colhida na instrução processual, com destaque para o depoimento do policial civil Ricardo Castro (Id. 29011979)." (e-STJ fl. 411)
+No que se refere ao regime prisional, também sem razão a defesa, isso porque considerado o quantum da pena aplicada - 5 anos e 9 meses de reclusão - e a reincidência da recorrente, o regime fechado é, de fato, o que se revela adequado. Confira-se:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. NULIDADES. INTERROGATÓRIO POR VIDEOCONFERÊNCIA. MATÉRIA JÁ ANALISADA PELO SUPERIOR TRIBUNAL DE JUSTIÇA NO HC N. 509.746/SP. AUSÊNCIA DE ENTREVISTA PRÉVIA E ANTECIPADA COM A DEFESA TÉCNICA. INOCORRÊNCIA. PRECLUSÃO. NÃO COMPROVAÇÃO DE PREJUÍZO. MINORANTE. IMPOSSIBILIDADE. REINCIDÊNCIA. REGIME INICIAL FECHADO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A alegação de nulidade do interrogatório encontra-se prejudicada, porquanto idêntico pedido já foi analisado nos autos do HC n. 509.746/SP, oportunidade em que a ordem foi denegada.
+2. O reconhecimento de eventual nulidade por deficiência de defesa técnica exige a comprovação de prejuízo, consoante o postulado pas de nullité sans grief, consagrado no art. 563 do Código de Processo Penal e na Súmula n. 523 do Supremo Tribunal Federal, segundo a qual, "no processo penal, a falta da defesa constitui nulidade absoluta, mas a sua deficiência só o anulará se houver prova de prejuízo para o réu", o que não ocorreu na hipótese.
+3. Na hipótese, além da preclusão da pretensão, não logrou o réu demonstrar o prejuízo suportado em razão de não lhe ter sido oportunizado, na audiência virtual, entrevista prévia e reservada com a defesa, uma vez que o causídico foi constituído por ele, que se encontrava em liberdade, situação apta a demonstrar que lhe foi assegurado acesso amplo e antecipado com a defesa técnica escolhida, não havendo que se falar em nulidade.
+4. De acordo com o disposto no art. 33, § 4º, da Lei de Drogas, o agente poderá ser beneficiado com a redução de 1/6 (um sexto) a 2/3 (dois terços) da pena, desde que seja, cumulativamente, primário e portador de bons antecedentes e não se dedique a atividades criminosas nem integre organização criminosa.
+5. No caso, a minorante foi afastada com base na presença de condenações judiciais com trânsito em julgado, que ensejaram o reconhecimento da reincidência.
+6. "Não há ilegalidade na fixação do regime inicial fechado quando apontado dado fático suficiente a indicar a maior reprovabilidade da conduta - na espécie, a reincidência do agravante -, ainda que o quantum da pena tenha sido inferior a oito anos (art. 33, § 3º, do CP)" (AgRg no AREsp n. 831.035/SP, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 30/6/2016, DJe 3/8/2016).
+7. Agravo regimental desprovido, mantida a decisão agravada. (AgRg no REsp n. 1.835.378/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 18/9/2023, DJe de 20/9/2023.)
+Diante do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "a", parte fina l, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
