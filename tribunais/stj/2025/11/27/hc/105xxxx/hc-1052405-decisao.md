@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, impetrado em nome de MICHAEL BURCART - condenado por latrocínio a 28 anos, 9 meses e 18 dias de reclusão, e 14 dias-multa -, apontando como ato coator o acórdão proferido pelo Tribunal de Justiça de São Paulo (fls. 85/95 - Revisão Criminal n. 2263746-47.2025.8.26.0000).
+A impetração busca a revisão da dosimetria - referente à condenação proferida na Ação Penal n. 0000407-59.2017.8.26.0309 (fls. 70/74, da 3ª Vara Criminal da comarca de Jundiaí/SP) -, com:
+a) fixação da pena-base no mínimo legal, ou redução da exasperação para 1/6, sustentando haver somente uma circunstância negativamente valorada para o delito, a exasperação da pena quedou-se demasiadamente excessiva, uma vez que foi aplicada a fração de 1/5 para o crime (fl. 4);
+b) redução da fração da agravante da reincidência para 1/6, aduzindo não haver justificativa para aumento maior do que o de 1/6 (fl. 10); e
+c) incidência da causa de diminuição de pena da participação de menor importância, em 1/3, infirmando que sua participação ficou restrita a "dar carona" para os demais corréus, não realizando, dessa forma, nenhum ato executório ou nenhuma manobra que contribuísse decisivamente para a realização do crime (fl. 11).
+Sem pedido liminar.
+É o relatório.
+Inicialmente, registra-se que se trata de impetração destinada a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias (HC n. 905.771/GO, de minha relatoria, Sexta Turma, DJEN de 16/9/2025), e não se verifica a ocorrência de flagrante constrangimento ilegal apto a subsidiar a superação do óbice nas fases segunda e terceira da dosimetria, pois:
+a) quanto à agravante da reincidência, reconheceu-se a multirreincidência e manteve-se o aumento em 1/5, ressaltando-se que seria possível o patamar superior, na terça parte, mas ausente recurso ministerial, conservou-se o índice da sentença (fl. 25); e
+b) rejeitou-se o pleito de participação de menor importância, destacando-se que o agravante não teve atuação secundária, mas essencial à execução e consumação do crime - com presença ativa nas agressões e amarração da vítima, condução dos deslocamentos e saque efetivado com o cartão subtraído -, afastando de modo categórico a tese defensiva (fls. 25/26), conclusão cuja alteração demandaria indevido reexame probatório na via estreita do habeas corpus.
+Entretanto, há ilegalidade na fração de aumento da primeira fase da dosimetria, que foi exasperada em razão da negativação dos antecedentes em 1/5 - considerando apenas uma condenação (fl. 23) - sem fundamentação específica para a modulação da fração de 1/6 sobre a pena mínima ou de 1/8 sobre a diferença entre as reprimendas máxima e mínima.
+Necessário, então, redimensionar a pena: na primeira fase, mantida a negativação dos antecedentes, exaspera-se a pena-base em 1/6 do mínimo, fixando-a em 23 anos e 4 meses de reclusão, e 11 dias-multa. Na segunda fase, mantida a agravante da reincidência em 1/5, tem-se a reprimenda em 28 anos de reclusão e 13 dias-multa. Na terceira fase, sem alteração (fl. 93), resultando a pena definitiva em 28 anos de reclusão, e 13 dias-multa.
+Finalmente, considerando a pena corporal fixada, não há ilegalidade na fixação do regime fechado.
+Em razão disso, concedo liminarmente a ordem, em parte, a fim de redimensionar a pena imposta ao paciente para 28 anos de reclusão, e 13 dias-multa, mantido o regime inicial fechado, referente à condenação proferida na Ação Penal n. 0000407-59.2017.8.26.0309, da 3ª Vara Criminal da comarca de Jundiaí/SP.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. LATROCÍNIO. DOSIMETRIA. UTILIZAÇÃO INDEVIDA DO WRIT. REVISÃO DA CONDENAÇÃO MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. MAUS ANTECEDENTES. EXASPERAÇÃO DA PENA-BASE. MODULA ÇÃO DA FRAÇÃO. AUSÊNCIA DE FUNDAMENTAÇÃO ESPECÍFICA. REINCIDÊNCIA. MANUTENÇÃO DA FRAÇÃO. MULTIRREINCIDÊNCIA. PARTICIPAÇÃO DE MENOR IMPORTÂNCIA. ATUAÇÃO ESSENCIAL. REEXAME PROBATÓRIO INVIÁVEL. PENA REDIMENSIONADA. CONSTRANGIMENTO PARCIAL EVIDENCIADO.
+Ordem liminarmente concedida, em parte, nos termos do dispositivo.
