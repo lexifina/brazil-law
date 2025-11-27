@@ -1,0 +1,34 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por RICARDO CANEDO CAVALCANTI contra decisão que inadmitiu recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 13/6/2025.
+Concluso ao gabinete em: 11/9/2025.
+Ação: cumprimento de sentença, ajuizada por PLANO PLANEJAMENTO LOTEAMENTO LTDA, em face do agravante, na qual requer o cumprimento da obrigação de pagar e a adjudicação das salas comerciais penhoradas.
+Decisão interlocutória: rejeitou a impugnação à penhora e deferiu a adjudicação dos imóveis penhorados.
+Acórdão: negou provimento ao agravo de instrumento interposto pelo agravante, nos termos da seguinte ementa:
+DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. INSURGÊNCIA QUANTO A AVALIAÇÃO E PENHORA DE BENS IMÓVEIS. REGULARIDADE DOS PROCEDIMENTOS. ADVOGADO QUE ATUA EM CAUSA PRÓPRIA. INTIMAÇÃO VERIFICADA PELA CIÊNCIA REGISTRADA NO PJE. OBSERVÂNCIA DO PROCEDIMENTO PREVISTO NO ART. 870 E SEGUINTES DO CÓDIGO DE PROCESSO CIVIL. NÃO CARACTERIZADA QUAISQUER HIPÓTESES QUE AUTORIZE NOVA AVALIAÇÃO (ART. 873 DO CPC). DECISÃO MANTIDA. RECURSO CONHECIDO E DESPROVIDO. (e-STJ fl. 60)
+Embargos de Declaração: opostos pelo agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 838, 872, 873, 875, 876, e 1.022 do CPC, bem como dissídio jurisprudencial. Afirma que há vícios no auto/termo de penhora por ausência de descrição adequada dos bens e de seus atributos essenciais. Aduz que o laudo/mandado de avaliação não observa os requisitos legais e impõe a realização de nova avaliação, inclusive com desmembramento quando cabível. Argumenta que é admissível nova avaliação por erro do avaliador, majoração/diminuição do valor ou fundada dúvida judicial. Assevera que os atos de expropriação devem respeitar a ordem legal de penhora e avaliação, com as correspondentes intimações. Além da negativa de prestação jurisdicional, sustenta que não houve intimação do executado acerca do pedido de adjudicação dos bens penhorados.
+RELATADO O PROCESSO, DECIDE-SE.
+- Do reexame de fatos e provas
+Observa-se que o TJ/RN, após analisar o acervo probatório reunido nos autos, concluiu:
+Verifica-se que os atos constritivos foram realizados conforme ordem explicitada na decisão agravada, a saber: foi "deferida a penhora ( ), oportunidade em que se determinou aNum. 82790991 avaliação dos imóveis e, na sequência, foi lavrado o Auto de Penhora ( )". Num. 103955039 Ou seja, não houve qualquer inversão processual. Igualmente, não há que se falar em nulidade de intimação quanto à referida avaliação, pois, sendo o executado advogado e atuando em causa própria, foi regularmente intimado da penhora e da avaliação Intimação (10664632). dos imóveis, conforme se verifica na aba de expedientes do PJE -
+Quanto à pretensão de nova avaliação, não vislumbro nas alegações recursais razões que a justifique, considerando que a insurgência sobre o quantum indicado pelo Oficial de Justiça funda-se em suposta valorização diante de supostas benfeitorias que o executado teria realizado nos bens, todavia, o executado, quando intimado da avaliação, não compareceu para, quiçá, apontar e fazer constar supostas benfeitorias.
+Conforme registrado pela julgadora originária, "a despeito de ter sido regularmente intimado, tendo ciência de que os imóveis estão fechados e mesmo assim não comparecer para permitir a avaliação, o executado agiu de má-fé, tentando, nesta oportunidade, valer-se da própria torpeza para suscitar uma nulidade a qual ele próprio tentou dar causa, mas que não ocorreu".
+Com isso, não se estabelece, no caso, a hipótese apontada pelo recorrente como hábil a determinar uma nova avaliação, ou mesmo outra prevista no art. 873 do Código de Processo Civil, a saber:
+(..) Pontualmente, a pretensão do recorrente para que ocorra uma nova avaliação é infundada, não havendo indício concreto de erro na avaliação feita pelo Oficial de Justiça ou dolo em sua atuação, que consta suficiente e devidamente circunstanciada nos autos - id id 89558845 dos autos principais. Por outro lado, não emerge do juízo lançado em primeiro grau de jurisdição dúvida sobre o valor atribuído ou aferição de mudança nos valores atribuídos aos bens.
+Desse modo, tendo em vista que o agravante não demonstra qualquer irregularidade no procedimento de avaliação e penhora dos bens descritos nos autos, reputo acertada a ordem de adjudicação proferida na decisão agravada.(e-STJ, fls. 62-63)
+Portanto, alterar o decidido no acórdão impugnado, acerca da regularidade da penhora e sua avaliação, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7 do STJ.
+- Da divergência jurisprudencial
+A comprovação da divergência jurisprudencial demanda que a parte recorrente realize uma análise comparativa detalhada entre o acórdão recorrido e o paradigma, de modo a identificar as semelhanças entre as situações de fato e a existência de interpretações jurídicas diferentes sobre o mesmo dispositivo legal, além de observar os requisitos formais, consoante previsão dos arts. 1.029, § 1º, do CPC, e 255, §§ 1º e 3º, do RISTJ.
+No entanto, neste recurso, não se constata a presença dos elementos essenciais necessários para comprovar a existência do dissídio, o que inviabiliza a análise da divergência jurisprudencial. Nesse sentido: AgInt no AREsp 2.396.088/PR, Terceira Turma, DJe de 22/11/2023, e AgInt no AREsp 2.334.899/SP, Quarta Turma, DJe de 7/12/2023.
+Ademais, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente, também impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgInt no AREsp n. 821.337/SP, Terceira Turma, DJe de 13/03/2017 e AgInt no AREsp n. 964.391/SP, Terceira Turma, DJe de 21/11/2016.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. DISSÍDIO PREJUDICADO.
+1. Cumprimento de sentença.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+4. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+5. Agravo conhecido. Recurso especial não conhecido.
