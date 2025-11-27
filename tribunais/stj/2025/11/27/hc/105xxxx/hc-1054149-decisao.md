@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de ADIEL DOS SANTOS SILVA - atualmente segregado no regime fechado por decisão de regressão cautelar (fl. 2) -, em que a defesa aponta como autoridade coatora a Segunda Câmara Criminal do Tribunal de Justiça do Estado de Mato Grosso do Sul, que, em 18/11/2025, rejeitou embargos de declaração (Embargos de Declaração no Agravo de Execução Penal n. 1605151-94.2025.8.12.0000/50000).
+Em síntese, o impetrante alega negativa de prestação jurisdicional, por omissão e contradição do acórdão no julgamento do agravo e do acórdão nos embargos de declaração, ao não enfrentar o impacto da decisão que "acolheu a justificativa" e substituiu o monitoramento eletrônico por condições de tratamento sobre as faltas preexistentes usadas para fundamentar a regressão cautelar.
+Sustenta que a regressão cautelar foi mantida com base em fatos pretéritos já "justificados" judicialmente, sem revogação ou superação explícita da decisão anterior, violando segurança jurídica, confiança legítima e devido processo legal, e configurando indevida dupla penalização pelos mesmos eventos.
+Afirma que eventuais novas faltas relativas ao descumprimento das condições de tratamento poderiam, por si só, ser analisadas; contudo, o acórdão não distinguiu adequadamente esses eventos das violações anteriores já sopesadas, perpetuando fundamentação legalmente questionável.
+Em caráter liminar, pede a suspensão dos efeitos do acórdão proferido nos embargos de declaração, com o restabelecimento imediato do regime semiaberto, mediante reinstalação do monitoramento eletrônico ou outras condições, até o julgamento definitivo do writ.
+No mérito, requer a anulação do acórdão nos embargos de declaração, para novo julgamento que sane a omissão e a contradição sobre a reavaliação dos fatos, e que seja proferida decisão devidamente fundamentada sobre o agravo; alternativamente, pede a reforma do acórdão do agravo para restabelecer o regime semiaberto, por ilegalidade da regressão (fls. 2/10).
+É o relatório.
+A concessão de ordem de habeas corpus demanda demonstração da ilegalidade, ônus que recai sobre a parte impetrante, a quem cumpre instruir o feito com a prova pré-constituída de suas alegações.
+In casu, verifico, de plano, a inviabilidade do presente writ.
+O Tribunal local manteve a regressão de regime aos seguintes fundamentos (fl. 91):
+Consta nos autos da execução da pena informações de 79 violações ao monitoramento eletrônico (mov. 390.1), dois rompimentos da tornozeleira eletrônica e total descumprimento das condições substitutivas concedidas na decisão de mov. 414.1.
+Sendo assim, é certo que a regressão cautelar para o regime fechado e a expedição de mandado de prisão se fizeram necessárias, até mesmo porque não consta que o agravante procurou a tempo qualquer autoridade ou o juízo da execução para apresentar justificativa para o descumprimento reiterado do monitoramento ou mesmo comprovação de sua noticiada internação.
+Há nesta Corte Superior o firme entendimento de que, praticada a falta grave pelo sentenciado, é cabível a regressão cautelar do regime prisional sem a oitiva prévia do condenado, que somente é exigida na regressão definitiva ao regime mais severo (AgRg nos EDcl no HC n. 526.328/RJ, Ministro Jorge Mussi, Quinta Turma, DJe 16/3/2020), e de que não há constrangimento ilegal na determinação do Juízo da execução de regressão cautelar de regime sem que tenha havido condenação definitiva pela prática de novo fato delituoso (AgRg no HC n. 518.567/TO, Ministro Jorge Mussi, Quinta Turma, DJe 25/10/2019).
+Além disso, admite-se a regressão de regime para qualquer dos regimes mais rigorosos, conforme dispõe, por analogia, o art. 118 da Lei de Execução Penal (AgRg no HC n. 644.900/SP, Ministra Laurita Vaz, Sexta Turma , DJe 5/5/2021).
+No caso, a instância a quo determinou a regressão cautelar de regime diante da indicação de faltas relacionadas ao monitoramento eletrônico, não havendo falar, assim, em constrangimento ilegal.
+Ante o exposto, indefiro liminarmente a petição inicial.
+Publique-se.
+EMENTA
+HABEAS CORPUS. PRÁTICA DE FALTA GRAVE. REGRESSÃO PER SALTUM. POSSIBILIDADE. ART. 118 DA LEP. PRECEDENTE.
+Petição inicial indeferida liminarmente.
