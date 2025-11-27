@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo manejado por M R De Oliveira Lima Ltda. contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça da Paraíba, assim ementado (fl. 144):
+PROCESSUAL CIVIL e TRIBUTÁRIO - Agravo interno em agravo de instrumento - Ação de execução fiscal - Insurreição contra decisão que rejeitou exceção de pré-executividade - Alegação de nulidade da CDA - Legalidade do título - Presunção de veracidade e legitimidade atribuída à CDA - Elementos necessários constantes no título - Requisitos do artigo 202 do CTN c/c artigo 2º, §§5º E 6º da LEF - Requisitos atendidos - Inexistência de irregularidade - Manutenção da decisão combatida - Desprovimento.
+- A presunção relativa de liquidez e certeza que goza a CDA somente pode ser ilidida através de demonstração inequívoca, consoante parágrafo único do art. 3º da Lei 6.830/80 e artigo 204 do Código Tributário Nacional.
+- Da análise da CDA ora questionada, à luz da legislação de regência, é possível concluir que o título executivo extrajudicial em exame não padece de nulidade insanável, mas, em verdade, preenche todos os requisitos de regularidade formal.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 202, III, do CTN e 2º, §5º, da LEF. Sustenta, em síntese, que a CDA padece de nulidade, tendo em vista que "o Excepta não se desincumbiu do seu dever legal de indicar, na CDA, "a origem e natureza do crédito, men cionada ESPECIFICAMENTE a disposição da lei em que seja fundado"" (fl. 178).
+Foram ofertadas contrarrazões às fls. 188/192.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, destaca-se a seguinte fundamentação adotada pelo Tribunal de origem ao decidir a controvérsia (fl. 146):
+A despeito de não indicar expressamente as alíneas ou parágrafos da incursão legal, não verifico prejuízo ao executado, considerando que este tomou ciência do auto de infração, do qual se pode inferir a descrição do fato de forma pormenorizada, não merecendo amparo à sua alegação deduzida no presente agravo interno de que houve "afronta aos princípios constitucionais da ampla defesa e do contraditório".
+Nesse contexto, vejo que a presunção dc certeza e liquidez do título não foi afastada pelo fundamento de que não contem, especificamente, a disposição da lei em que está fundada a dívida, já que não constam em quais alíneas do art. 106 do RICMS está incursa a executada e o fundamento legal da dívida consignada no título executivo.
+Pelos elementos constantes nos autos, extrai-se que à executada foi oportunizado o prévio processo administrativo tributário, em que o autuado tem ciência da transgressão que lhe foi imputada e da penalidade aplicada, bem como concedido o direito de defesa e contraditório.
+Logo, tinha como apresentar defesa sobre a infração específica apontada, inexistindo irregularidade formal da CDA sobre os elementos que pudessem inviabilizar sua defesa. Cabe registrar, mais uma vez, que a CDA faz referência ao dispositivo onde se fundamenta a infração, bem como a número de processo administrativo aberto contra a parte ora apelada, não havendo que se falar em irregularidade.
+Nesse contexto, a alteração das premissas adotadas pela Corte de origem acerca da regularidade da CDA, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. IMPOSTO SOBRE PROPRIEDADE DE VEÍCULO AUTOMOTOR - IPVA. CONCLUSÃO DO ACÓRDÃO CUJA REVISÃO DEPENDE DO REEXAME DE PROVAS. INADMISSIBILIDADE.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015 - CPC/2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. No que se refere à tese de nulidade da Certidão de Dívida Ativa - CDA, o conhecimento do recurso encontra óbice na Súmula 7 do STJ, pois, sem reexame fático-probatório, não há como se revisar o acórdão recorrido, o qual concluiu pela inexistência de vícios no título executivo. Precedentes.
+3. Quanto à responsabilidade pelo pagamento dos débitos do imposto, a Súmula 7 do STJ também impede o conhecimento do especial, na medida em que, sem reexame do acervo probatório, não há como se alterar a conclusão do órgão julgador a quo, segundo a qual: "embora o apelante afirme que vendeu o veículo a terceiro, não há nenhuma prova, nenhum indício mesmo (só a alegação), de que isso tenha realmente ocorrido".
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.516.470/PE, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 26/8/2024, DJe de 28/8/2024.)
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
