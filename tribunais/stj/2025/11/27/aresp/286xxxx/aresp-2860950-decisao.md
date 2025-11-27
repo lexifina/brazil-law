@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo MUNICÍPIO DE NOVA ALVORADA DO SUL, contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul (fls. 777-782), assim ementado:
+APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA - AGENTE DE CONTROLE DE ENDEMIAS - ADICIONAL DE INCENTIVO FINANCEIRO - VERBA FEDERAL ENDEREÇADA AOS MUNICÍPIOS - REPASSE OBRIGATÓRIO AO SERVIDOR QUE EXERCE A FUNÇÃO ESPECIFICADA - RECURSO DESPROVIDO. (fl. 778)
+Os embargos de declaração opostos pelo recorrente, às fls. 788-790 e 825-827, foram acolhidos sem efeitos infringentes (fls. 813-817 e 843-847, respectivamente), para sanar erro material.
+Em seu recurso especial, às fls. 853-858, alega violação aos arts. 489, § 1º, IV e 1.022, parágrafo único, II, do CPC.
+Sustenta, em síntese, que "a despeito da oposição dos embargos de declaração, o Tribunal de origem não se manifestou "sobre a redação do §3º do artigo 5º-A do Decreto Estadual nº 10.500/2001, o qual dispõe expressamente que o adicional cobrado na presente ação não é destinado diretamente ao trabalhado." (fl. 857).
+Contrarrazões às fls. 866-872.
+O Tribunal de origem inadmitiu o apelo nobre, às fls. 886-872, pelas seguintes razões, in verbis:
+Quanto à alegação de ofensa aos arts. 489, § 1º, IV e 1.022, parágrafo único II do CPC, observa-se que os acórdãos recorridos estão devidamente fundamentados, tendo havido o enfrentamento das questões e argumentos relevantes para a decisão do mérito, com a indicação clara e precisa dos elementos de fato e de direito que levaram às conclusões do julgado.
+Nesse prisma, nota-se que a parte sustenta a existência omissão e consequente violação dos referidos dispositivos no argumento de que o Tribunal não se manifestou expressamente acerca da redação do §3º do artigo 5º-A do Decreto Estadual nº 10.500/2001, o qual dispõe expressamente que o adicional cobrado na presente ação não é destinado diretamente ao trabalhado.
+Argumenta a parte recorrente que ficou demonstrada a omissão quanto aos pontos citados, não havendo o enfrentamento que seriam de fundamentais relevância, situação que entende ser apta para modificar o julgado.
+Sobre tais pontos, o Tribunal de Justiça corrigiu erro material, fazendo constar no acórdão recorrido, que se trata de incentivo Estadual, com incidência do Decreto Estadual nº 10.500/2001, art. 5º-A, interpretado em conjunto com as Portarias 674/GM/2003, 648/GM/2006, 650/GM/2006 e 2.488/GM/2011 do Ministério da Saúde, sem alteração do resultado, conforme trechos dos acórdãos a seguir transcritos:
+ ..
+Em assim sendo, o recurso é na verdade inadmissível por óbice imposto pela Súmula 83 do Superior Tribunal de Justiça. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO RESCISÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE AUTORA. 1. No caso dos autos, o julgador apreciou a lide nos termos em que fora proposta, examinando detidamente o acervo probatório dos autos, adotando fundamentação clara e suficiente a amparar a improcedência do pedido. Nesse contexto, não há falar em violação ao art. 1022 do CPC/15. Com efeito, o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional. (..) 5. Agravo interno desprovido (AgInt no AREsp n. 2.252.454/RJ, relator Ministro Marco Buzzi, Quarta Turma, julgado em 8/5/2023, DJe de 11/5/2023 - destacamos).
+ ..
+De outra feita, ainda que o Acórdão não houvesse sido motivado nos exatos termos do que fora proposto pela parte recorrente, esquadrinhando toda e cada uma das razões por ela utilizada, o que importa é que o Órgão julgador tenha dado a fundamentação para o seu decidir, de forma suficiente para o deslinde da controvérsia e nos moldes do princípio do livre convencimento motivado ou da persuasão racional, que rege as decisões judiciais.
+É, aliás, o que continua afirmando o STJ, a despeito da entrada em vigor do CPC de 2015 e do que consta em seu art. 489, § 1º. Nesse norte:
+ ..
+No agravo em recurso especial, às fls. 908-912, a parte alega, resumidamente, que se "mostra precioso realizar, o distinguishing do julgado utilizado pelo Tribunal de piso para justificar a aplicação da sumula 83/ STJ", porquanto, "in casu, o Tribunal de Justiça do Estado do Mato Grosso do Sul não apenas volta a consubstanciar decisão em portarias federias que não regulamentam o incentivo de natureza estadual, como deixa de analisar por completo dispositivo expressa na legislação estadual que veda a procedência da demanda." (sic, fl. 911)
+Contraminuta, às fls. 920-926, pela manutenção da decisão agravada por seus próprios fundamentos.
+É o relatório.
+A insurgência não poder ser conhecida.
+Verifica-se que não foi impugnada a fundamentação da decisão agravada, porquanto a parte não infirmou, de maneira efetiva, os argumentos utilizados para inadmissão de seu recurso especial.
+Em verdade, a Corte de origem, no tocante à suposta violação aos arts. 489, § 1º, IV, 1.022, parágrafo único, II, do CPC, assentou que:
+i- o acórdão recorrido não carece de fundamentação, visto ter o órgão julgador motivado suficientemente sua conclusão, enfrentando as questões relevantes e necessárias para o deslinde de controvérsia, na forma do entendimento desta Corte superior (Súmula 83/STJ).
+ii- o erro material foi corrigido, passando a constar no acórdão que "que se trata de incentivo Estadual, com incidência do Decreto Estadual nº 10.500/2001, art. 5º-A, interpretado em conjunto com as Portarias 674/GM/2003, 648/GM/2006, 650/GM/2006 e 2.488/GM/2011 do Ministério da Saúde, sem alteração do resultado" (fl. 898).
+Constata-se, contudo, que não houve a impugnação efetiva aos fundamentos do julgado ora combatido, pois a parte deixou de rebater, de modo específico, os argumentos que sustentaram a inadmissão do recurso especial, limitando-se a apresentar alegações genéricas e superficiais acerca da inaplicabilidade dos óbices apontados pela Corte de origem e a reproduzir as razões do apelo nobre, sem, contudo, demostrar qualquer desacerto da decisão que não o admitiu.
+Acrescente-se que o agravo em recurso especial tem por objetivo desconstituir a decisão de inadmissão de recurso especial e, por isso, é imprescindível o enfrentamento preciso de todas as premissas jurídicas nela lançadas com o fim de demonstrar o seu desacerto, o que não foi feito no presente caso. Logo, a fundamentação da decisão agravada, à míngua de impugnação específica e pormenorizada, permanece hígida, produzindo todos os efeitos no mundo jurídico.
+E, assim, ao deixar de combater todas as razões que levaram o Tribunal a quo a não admitir o recurso especial, fere-se o princípio da dialeticidade, atraindo a incidência da previsão contida nos artigos 932, inciso III, do Código de Processo Civil, e 253, parágrafo único, inciso I, do Regimento Interno do STJ, no sentido de que não se conhece de agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Nesse sentido:
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+4. A falta de efetivo combate de quaisquer dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, consoante preceituam os arts. 253, I, do Regimento Interno do Superior Tribunal de Justiça e 932, III, do Código de Processo Civil e a Súmula 182 do STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.419.582/SP, rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 14/3/2024, sem grifos no original).
+Ante o exposto, com fundamento no artigo 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL QUE NÃO COMBATEU OS FUNDAMENTOS DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DOS ARTS. 932, III, DO CPC E 253, P.Ú, I, DO RISTJ. AGRAVO NÃO CONHECIDO.
