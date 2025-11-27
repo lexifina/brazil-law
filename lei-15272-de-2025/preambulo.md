@@ -1,0 +1,2 @@
+Altera o Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), para dispor sobre as circunstâncias que recomendam a conversão da prisão em flagrante em preventiva, sobre a coleta de material biológico para obtenção e armazenamento do perfil genético do custodiado e sobre os critérios para aferição da periculosidade do agente para concessão de prisão preventiva, inclusive quando da audiência de custódia.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
