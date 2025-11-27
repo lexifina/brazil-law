@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de embargos de declaração (fls. 1138-1141) opostos por RIO BRANCO ALIMENTOS S.A. à decisão da lavra deste Relator (fls. 1130-1135), que não conheceu do agravo em recurso especial interposto em seu desfavor por ENEGISA MINAS RIO - DISTRIBUIDORA DE ENERGIA S.A., por ausência de impugnação específica aos fundamentos da decisão de inadmissibilidade proferida pelo Tribunal de origem, incidindo a Súmula n. 182 do Superior Tribunal de Justiça, à luz do art. 932, inciso III, do Código de Processo Civil. Eis a ementa do aresto ora embargado (fl. 1130):
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. MINUTA QUE NÃO INFIRMA ESPECIFICAMENTE UM DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DAS SÚMULAS N. 5 e 7 DO STJ. AUSÊNCIA DE IMPUGNAÇÃO CONCRETA. SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
+Em suas razões (fls. 1138-1140), a parte embargante sustenta a existência de erro material na decisão ora impugnada, visto que esta tratou o feito como mandado de segurança para afastar a necessidade de majoração dos honorários advocatícios, quando se cuida, em verdade, de ação ordinária de cobrança.
+Afirma a embargante, assim, a necessidade de majoração dos honorários recursais, nos termos do art. 85, parágrafo 11, do Código de Processo Civil, destacando o fato de que o Tribunal de origem já fixara honorários em seu favor.
+Pugna, ao final, pelo acolhimento de seus aclaratórios para o fim de reconhecer o erro material/omissão e majorar os honorários sucumbenciais em grau recursal, na forma do art. 85, parágrafo 11, do Código de Processo Civil (fls. 1140-1141).
+Regularmente intimada, a parte ora embargada - ENERGISA MINAS RIO - DISTRIBUIDORA DE ENERGIA S.A. - apresentou impugnação aos presentes embargos de declaração (fls. 1145-1146).
+É o relatório.
+Decido.
+Assiste razão à embargante.
+Com efeito, na parte dispositiva da decisão ora impugnada (fls. 1130-1135), por meio da qual este Relator concluiu por não conhecer do agravo em recurso especial intentado pela parte para ora embargada, constou a equivocada afirmação de que não deveria ser fixados, na espécie, honorários advocatícios, por se tratar o presente feito de mandado de segurança.
+Ocorre que, como bem destacado pela ora embargante, a ação que deu origem aos presentes autos tem natureza de ação ordinária de cobrança, motivo pelo qual, o não conhecimento do referido agravo atrai a incidência da norma legal insculpida no art. 85, § 11, do Código de Processo Civil.
+Impõe-se, assim, sanar o erro material indicado, de modo a suprimir da decisão de fls. 1130-1135 seu parágrafo final, no qual restara equivocadamente consignado o seguinte: " s  em honorários advocatícios, consoante o da e as art. 25 Lei n. 12.016/2009 Súmulas n. 512 do STF  ..  e n. 105 do STJ  .. " (fl. 1135).
+Em substituição ao referido excerto, deve constar da decisão embargada a seguinte determinação:
+"Em atenção ao disposto no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado na origem (fl. 897), respeitados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, bem como eventual concessão da gratuidade de justiça".
+Ante o exposto, ACOLHO os presentes embargos de declaração para, sanando o erro material apontado, nos termos da fundamentação supra, majorar a condenação da parte agravante, ora embargada, ao pagamento da verba honorária advocatícia sucumbencial, em 10% (dez por cento) do total do valor já fixado na origem a tal título, observando-se não apenas os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC, como a eventual concessão dos benefícios da gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. ERRO MATERIAL. CONFIGURAÇÃO. NATUREZA DA DEMANDA. AÇÃO ORDINÁRIA DE COBRANÇA. NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL. NECESSIDADE DE MAJORAÇÃO DA VERBA HONORÁRIA SUCUMBENCIAL. ART. 85, § 11, DO CPC. EMBARGOS DE DECLARAÇÃO ACOLHIDOS.
