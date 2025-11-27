@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS do acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado (fls. 298/299):
+PREVIDENCIÁRIO. REMESSA OFICIAL. AUSÊNCIA DE INTERESSE RECURSAL. DECADÊNCIA. REVISÃO. INOCORRÊNCIA. REVISÃO DA RENDA MENSAL INICIAL DA APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. CABIMENTO. TEMPO ESPECIAL. AGENTES NOCIVOS. RECONHECIMENTO. FRENTISTA. HIDROCARBONETOS. CONSECTÁRIOS LEGAIS. CORREÇÃO MONETÁRIA. JUROS DE MORA. HONORÁRIOS ADVOCATÍCIOS. MAJORAÇÃO.
+1. Ainda que ilíquida, a condenação não alcançará o patamar previsto no artigo 496, § 3º, do CPC/2015; portanto, inaplicável a remessa necessária.
+2. Não se conhece da apelação nos pontos em que não há interesse recursal.
+3. De acordo com o Superior Tribunal de Justiça, quando há pedido de revisão administrativa antes de transcorridos dez anos da data da concessão do benefício, o termo inicial do prazo decadencial deve ser a data de ciência do indeferimento da revisão (REsp 1630262/PR, Rel. Ministro OG FERNANDES, 2ª Turma, julgado em 28/11/2017, D Je 05/12/2017)
+4. Comprovada a exposição do segurado a agente nocivo, na forma exigida pela legislação previdenciária aplicável à espécie, possível reconhecer-se a especialidade da atividade laboral por ele exercida.
+5. Em se tratando de periculosidade decorrente da exposição a substâncias inflamáveis e explosivas, o reconhecimento da especialidade da atividade decorre da sujeição do segurado à ocorrência de acidentes e explosões que podem causar danos irreversíveis à saúde e à integridade física.
+6. Os riscos ocupacionais gerados pela exposição a agentes químicos, especialmente hidrocarbonetos, não requerem a análise quantitativa de concentração ou intensidade máxima e mínima no ambiente de trabalho, dado que são caracterizados pela avaliação qualitativa.
+7. Preenchidos os requisitos legais, tem o segurado direito à revisão da aposentadoria por tempo de contribuição, com o cálculo que for mais favorável, a contar da data de entrada do requerimento administrativo.
+8. A correção monetária das parcelas vencidas dos benefícios previdenciários será calculada conforme a variação do IGP-DI de 05/96 a 03/2006, e do INPC, a partir de 04/2006.
+9. Os juros de mora devem incidir a contar da citação (Súmula 204 do STJ), na taxa de 1% (um por cento) ao mês, até 29 de junho de 2009. A partir de 30 de junho de 2009, os juros moratórios serão computados, uma única vez (sem capitalização), segundo percentual aplicável à caderneta de poupança.
+10. A partir de 9/12/2021, para fins de atualização monetária e juros de mora, deve ser observada a redação dada ao artigo 3º da EC 113/2021, a qual estabelece que haverá a incidência, uma única vez, até o efetivo pagamento, do índice da taxa referencial do Sistema Especial de Liquidação e de Custódia (Selic), acumulado mensalmente.
+11. Aplica-se em favor da parte autora a majoração prevista no artigo 85, § 11, desse diploma, observados os ditames dos §§ 2º a 6º quanto aos critérios e limites estabelecidos.
+Os embargos de declaração opostos foram rejeitados (fls. 326/330).
+Nas razões de seu recurso especial, a parte recorrente alega (fl. 343) :
+Por todo o exposto, uma vez demonstrada contrariedade à Lei Federal (Lei 8.213/1991, art. 103; Código Civil, art. 207), o INSS requer seja o seu recurso conhecido e provido, a fim de que haja a reforma do acórdão regional, para reconhecer a decadência no caso concreto.
+A parte adversa não apresentou contrarrazões (fl. 418).
+O recurso foi admitido na origem (fls. 424/425 ).
+É o relatório.
+A questão debatida nos autos foi afetada à Primeira Seção do Superior Tribunal de Justiça para ser decidida sob o rito de recursos repetitivos (Tema 1.370/STJ ), e foi assim delimitada:
+"Interpretação do art. 103, caput, I e II, da Lei n. 8.213/1991 à luz das redações introduzidas pela Lei n. 10.839/2004 e a Lei n. 13.846/2019, de modo a aferir a existência, ou não, de prazos de decadência distintos e autônomos para revisar (i) o ato de concessão e (ii) o ato de deferimento ou indeferimento de pedido administrativo de revisão de benefícios previdenciários." (REsps 2.205.049/RS, 2.178.138/SC e 2.225.369/RS, relator Ministro Gurgel de Faria).
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+O envio do recurso especial a esta Corte Superior deve ocorrer somente após o esgotamento da instância ordinária, formalizado com o novo julgamento pelo Tribunal de origem, quando então será possível examinar, no âmbito do STJ, as matérias jurídicas que eventualmente permanecerem controvertidas. Essa cautela também evita o fracionamento do recurso e previne eventual violação ao princípio da unicidade recursal, que veda a interposição simultânea ou sucessiva de recursos contra a mesma decisão.
+Ante o exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil (CPC), o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do mesmo CPC.
+Publique-se. Intimem-se.
+ EMENTA
