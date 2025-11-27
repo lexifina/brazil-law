@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de WALTER DE SOUZA ALVES JUNIOR no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Agravo em Execução n. 016867-18.2025.8.26.0576).
+Consta dos autos que a defesa interpôs agravo em execução contra decisão em que o Juízo da execução indeferiu a substituição das condições do sursis penal por multa. O Tribunal de origem negou provimento ao recurso, nos termos de acórdão assim ementado (e-STJ fl. 6):
+DIREITO PENAL. AGRAVO DE EXECUÇÃO PENAL. CONDIÇÕES DO SURSIS. PEDIDO JULGADO IMPROCEDENTE.
+I. Caso em exame
+1. Recurso de agravo de execução penal interposto por Walter De Souza Alves Junior da decisão que indeferiu a substituição das condições do sursis por multa. O agravante reside e trabalha em Angola e pleiteia a substituição das condições impostas por pena de multa ou comparecimento periódico por videoconferência.
+II. Questão em discussão
+2. A questão em discussão consiste na possibilidade de substituição das condições do sursis impostas na sentença transitada em julgado por outras, como pena de multa ou comparecimento periódico por videoconferência.
+III. Razões de decidir
+3. O pedido de substituição das condições do sursis não encontra respaldo legal, pois o rol do artigo 66 da Lei de Execução Penal é taxativo quanto à competência do Juízo da Execução Criminal.
+4. Os documentos apresentados pelo agravante também não comprovam que ele continua trabalhando no local indicado, tornando inviável a pretensão.
+IV. Dispositivo e tese
+5. Recurso desprovido.
+6. Tese de julgamento: "1. A interposição de recurso de agravo de execução penal não possui efeito suspensivo. 2. O Juízo da Execução não pode modificar o título executivo judicial."
+Legislação citada: LEP, art. 197; CP, art. 78, § 2º.
+Na presente impetração, a defesa alega que "a iminente revogação do sursis se dará por fundamentos que não mais correspondem à realidade", pois, "conforme se demonstrará na origem através de petição própria, o Paciente já possui visto de trabalho e contrato devidamente renovados", sendo que "a revogação do benefício com base em um quadro fático desatualizado é um ato manifestamente ilegal" (e-STJ fl. 3).
+Acrescenta que, "como consequência dessa revogação ilegal, será expedido um mandado de prisão para o início do cumprimento de uma pena em regime aberto, o que viola de forma direta o Princípio da Homogeneidade, ao impor uma medida cautelar (prisão) infinitamente mais gravosa que o próprio regime de cumprimento da pena (aberto)" (e-STJ fl. 3).
+Diante dessas considerações, requer "o deferimento da medida liminar  ..  para suspender os efeitos do acórdão e impedir a revogação do sursis e a expedição de mandado de prisão", e, "ao final, a concessão em definitivo da ordem de Habeas Corpus, para cassar a decisão da Autoridade Coatora e determinar que o juízo de origem reaprecie o pedido de flexibilização das condições do sursis, considerando as novas provas documentais" (e-STJ fl. 4).
+É o relatório.
+Decido.
+Não é possível conhecer da impetração.
+Inicialmente, transcrevo os fundamentos expostos pelo Tribunal de origem para negar provimento ao agravo em execução defensivo (e-STJ fls. 7/8):
+ ..  conforme se depreende dos autos, o agravante foi condenado como incurso na pena do artigo 147 do Código Penal, a cumprir, em regime inicial aberto, 01 (um) mês e 05 (cinco) dias de detenção; tendo-lhe sido concedido o sursis, por 02 (dois) anos, mediante o cumprimento as condições previstas no artigo 78, § 2º, "a", "b" e "c", do Código Penal.
+O agravante quer agora a substituição das condições impostas por pena de multa ou comparecimento periódico por videoconferência.
+Sucede, no entanto, que o pedido por ele formulado, no sentido de substituir as condições do sursis, impostas na sentença transitada em julgado por outra, não encontra respaldo legal. Isto porque, o rol do artigo 66 da Lei de Execução Penal é taxativo, quando estabelece a competência do Juízo da Execução Criminal.
+Note-se que ao Juízo da Execução é vedado, em razão da própria natureza jurídica da execução penal, modificar o título executivo judicial.
+Ademais, em consulta aos autos da Execução nº 0011226-49.2025.8.26.0576, observa-se que os documentos juntados pelo agravante não comprovam que ele continua trabalhando no local indicado.
+O documento de fls. 66/72, datado de 10 de outubro de 2019, aponta as condições de contratação da empresa Cimenfort, e assim descreve: "Duração do Contrato: 3 meses, prorrogável por até 3 anos (36 meses). De acordo com a duração do visto de trabalho", enquanto o documento de fls. 73/79, intitulado como "CONTRATO DE TRABALHO POR TEMPO DETERMINADO A TERMO CERTO", datado de 10 de maio de 2023, da AGROGENEA ANGOLA LTDA, descreve que: "O Contrato será renovado automaticamente por sucessivos e iguais períodos de 03 (três) meses, até o limite de 36 (trinta e seis) meses, salvo se alguma das Partes informar a outra da caducidade do contrato com, pelo menos, 15 (quinze) dias úteis de antecedência, ou se as Autoridades Angolanas recusarem a renovação do competente visto". Não foi comprovado que o contrato permanece renovado. E, conforme a cópia do visto do agravante (cf. fl. 80), o documento possuía validade até 12/05/2024.
+Logo, a pretensão do agravante era mesmo inviável.
+Da leitura do acórdão impugnado, verifica-se que não condiz com a realidade dos auto a alegação de que "a fundamentação utilizada pelo Tribunal para negar o pedido foi estritamente factual e temporal, baseando-se em duas premissas: (i) a ausência de prova da renovação do contrato de trabalho e (ii) o fato de que o visto de trabalho do Paciente estava expirado desde 12/05/2024" (e-STJ fls. 2/3).
+Com efeito, o primeiro fundamento utilizado pela Corte estadual para negar provimento ao recurso não tem base factual nem temporal, estando relacionado à conclusão de que ao Juízo da Execução é vedado modificar o título executivo judicial quanto às condições do sursis nele estabelecidas. Tal fundamento possui natureza autônoma e jurídica, não sendo impactado pela eventual alteração do quadro fático.
+Ainda que assim não fosse, a alegada demonstração de que o paciente já possui visto e contrato de trabalho renovados ainda não foi submetida à análise das instâncias ordinárias, de forma que não pode o Superior Tribunal de Justiça analisar o tema, sob pena de incorrer em indevida supressão de instância.
+Com efeito, ante a falta de manifestação do colegiado estadual sobre a matéria, percebe-se a incompetência desta Corte Superior para seu processamento e julgamento, já que inexiste, no ponto, ato a ser imputado à autoridade coatora, nos termos do art. 105, I, c, e II, a, da Constituição Federal, bem como do art. 13, I, b, do Regimento Interno do Superior Tribunal de Justiça (RISTJ).
+Nesse sentido:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIMES DE ROUBOS CIRCUNSTANCIADOS E ASSOCIAÇÃO CRIMINOSA. NULIDADE DAS INVESTIGAÇÕES REALIZADAS NA FASE INQUISITORIAL E INÉPCIA DA DENÚNCIA PELA AUSÊNCIA DE JUSTA CAUSA. TESES NÃO DEBATIDAS PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não obstante os esforços do agravante, a decisão deve ser mantida por seus próprios fundamentos.
+2. A tese de reconhecimento de inépcia da denúncia por ausência de justa causa em razão das referidas ilegalidades, bem como a pretensão de reconhecimento das nulidades na fase inquisitorial, sob o ângulo explicitado pela defesa, não foram objeto de análise pelo Tribunal a quo. Dessa forma, esta Corte Superior de Justiça está impedida de pronunciar-se diretamente sobre a matéria, sob pena de atuar em indevida supressão de instância 3. Ademais, registra-se que "a orientação desta Corte preconiza que "eventuais máculas na fase extrajudicial não tem o condão de contaminar a ação penal, dada a natureza meramente informativa do inquérito policial." (AgRg no AREsp 898.264/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 7/6/2018, DJe 15/6/2018)" (AgRg no AREsp 1.489.936/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 6/4/2021).
+4. Agravo regimental desprovido.
+(AgRg no HC n. 794.135/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 5/6/2023, DJe de 9/6/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA. TRÁFICO DE DROGAS. INÉPCIA DA DENÚNCIA. TRANCAMENTO DA AÇÃO PENAL. SUPRESSÃO DE INSTÂNCIA.
+1. Não debatidas nas instâncias ordinárias as matérias aqui trazidas, fica esta Corte impedida de se manifestar sobre tais questões, sob pena de indevida supressão de instância.
+2. Agravo regimental desprovido.
+(AgRg no HC n. 795.469/CE, relator Ministro Jesuíno Rissato, Desembargador Convocado do TJDFT, Sexta Turma, julgado em 7/2/2023, DJe de 10/2/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO DUPLAMENTE QUALIFICADO. INÉPCIA DA DENÚNCIA. TESE NÃO EXAMINADA PELA CORTE A QUO. SUPRESSÃO DE INSTÂNCIA. PRONÚNCIA. AFASTAMENTO DA QUALIFICADORA DO MOTIVO TORPE. IMPOSSIBILIDADE. COMUNICABILIDADE AO CORRÉU QUE TINHA CIÊNCIA DA MOTIVAÇÃO E A ELA ADERIU. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Verifica-se que a Corte de origem não examinou a alegação de inépcia da denúncia ante a falta de indicação do credor da dívida. Logo, inviável o acolhimento da pretensão, sob pena de indevida supressão de instância.
+2. A jurisprudência do STJ assentou que a motivação do crime não é elementar do crime e que, por ser uma circunstância pessoal, não se comunica automaticamente aos coautores. Entretanto, poderá o coacusado responder por homicídio qualificado nos casos em que tiver conhecimento acerca do móvel do crime e a ele haja aderido, como na hipótese.
+5. Agravo regimental não provido.
+(AgRg no HC n. 759.325/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 14/11/2022, DJe de 24/11/2022.)
+Por fim, não se constata a presença de manifesto constrangimento ilegal apto a ensejar a concessão da ordem de ofício para se determinar a suspensão dos efeitos do acórdão impugnado e impedir, de antemão, a eventual revogação do sursis e a expedição de mandado de prisão, como pretende o impetrante , não tendo o Juízo da execução nem mesmo se manifestado sobre as teses defensivas, repita-se. Ressalte-se que não foi sequer acostada aos presentes autos a decisão na qual o magistrado indeferiu a substituição das condições do sursis penal, antes da alegada alteração do quadro fático.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
