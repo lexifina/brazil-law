@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de habeas corpus, impetrado em nome de GESSICA JANE DE SOUZA HOLSBACK - condenada por tráfico de drogas (464,4 kg de maconha - fls. 353/354), receptação e adulteração de sinal identificador de veículo automotor a 13 anos, 4 meses e 3 dias de reclusão, e 890 dias-multa -, apontando como ato coator o acórdão de apelação criminal proferido pelo Tribunal de Justiça de Mato Grosso do Sul (fls. 19/35).
+A impetração busca a absolvição em relação aos crimes de receptação e adulteração de sinal identificador de veículo automotor - referente à condenação proferida na Ação Penal n. 0900219-39.2024.8.12.0033 (fls. 39/55, da Vara Única da comarca de Eldorado/MS) -, sustentando decisão manifestamente contrária às provas dos autos e ausência de dolo nos delitos de receptação e adulteração, por ser a paciente mera passageira, sem conduzir ou adquirir o veículo, e sem ciência da origem ilícita (fls. 15/17).
+Sem pedido liminar.
+É o relatório.
+O writ é inadmissível, uma vez que se trata de impetração destinada a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias (HC n. 905.771/GO, de minha relatoria, Sexta Turma, DJEN de 16/9/2025), e não se verifica a ocorrência de flagrante constrangimento ilegal apto a subsidiar a superação do óbice, pois, afastar a conclusão do Tribunal estadual que, no julgamento da apelação, manteve a condenação pelos delitos de receptação e adulteração de sinal identificador de veículo automotor - ao fundamento de que os depoimentos policiais são idôneos e harmônicos; a paciente foi encontrada na posse direta do veículo produto de ilícito e utilizado para transportar expressiva quantidade de drogas; e de que não se admite a desclassificação para receptação culposa quando as circunstâncias revelam ciência da origem ilícita do bem (fls. 357/363) - demandaria reexame probatório, inviável na via estreita do habeas corpus.
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS; RECEPTAÇÃO; ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR. DOSIMETRIA. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. UTILIZAÇÃO INDEVIDA DO WRIT. INVIABILIDADE. FORMULAÇÃO DE PRETENSÕES INFUNDADAS. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Inicial indeferida liminarmente.
