@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS do acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO assim ementado (fls. 596/597):
+PREVIDENCIÁRIO. REGIME GERAL. REVISÃO DE APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. CONVERSÃO DE TEMPO ESPECIAL EM COMUM. AUTOR SOLICITA REVISÃO DO BENEFÍCIO. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. PERÍODO ALEGADAMENTE ESPECIAL DE 20/8/1982 A 4/4/2011. EXPOSIÇÃO A RUÍDO E AGENTES QUÍMICOS. PERÍODO DE 01/01/2008 A 04/04/2011. FUNÇÕES ADMINISTRATIVAS EM PARTE DO PERÍODO. ATIVIDADE ESPECIAL ENTRE 1982 E 1989 CONFORME ANEXO II AO DECRETO Nº 83.080/79. TEMPO DE CONTRIBUIÇÃO AUMENTADO PARA 37 ANOS, 11 MESES E 23 DIAS. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+1. Apelação interposta por autor contra sentença que extinguiu o processo sem julgamento de mérito em relação a dois períodos específicos. Autor busca reconhecimento de tempo especial entre 20/8/1982 e 4/4/2011. Quanto aos períodos cujos pedidos de reconhecimento de tempo especial foram extintos sem julgamento de mérito (entre 1978 e 1982), já foram considerados da forma pedida neste processo, por ocasião do trâmite do processo administrativo.
+2. O benefício original foi concedido com tempo de contribuição de 35 anos, 4 meses e 28 dias. Autor alega exposição a ruído e agentes químicos nesse período, conforme PPP apresentado.
+3. PPP juntado pelo autor indica exposição a ruído e agentes químicos. A sentença considerou que a multiplicidade de tarefas, predominantemente administrativas, enfraqueceu a tese de exposição habitual e permanente.
+4. O autor esteve exposto a níveis de ruído específicos em diferentes períodos. Apenas o período de 1/1/2008 a 4/4/2011 excedeu os limites de tolerância, mas a natureza das tarefas administrativas contraria a caracterização da exposição como habitual e permanente.
+5. Quanto aos agentes químicos, situação semelhante é observada. Funções administrativas não configuram exposição nociva habitual e permanente.
+6. Para o período entre 20/8/1982 e 22/1/1989, as atividades descritas no PPP são consideradas especiais conforme os decretos anteriores à Lei nº 8.213/91, 2 anos, 6 meses e 25 dias ao tempo de contribuição.
+7. O novo tempo de contribuição do autor, após a revisão, é de 37 anos, 11 meses e 23 dias. O INSS deve recalcular a RMI e pagar as diferenças desde 2/12/2017, observando prescrição quinquenal. Revisão da RMI e pagamento das diferenças. Correção das diferenças será pelo INPC até 8/12/2021 e pela SELIC a partir de 9/12/2021, conforme a Emenda Constitucional nº 113.
+8. Honorários advocatícios fixados no mínimo sobre o valor da condenação, excluindo parcelas vencidas após a sentença, conforme Súmula 111 do STJ.
+9. Apelação conhecida e parcialmente provida.
+Os embargos de declaração opostos foram rejeitados (fls. 633/638).
+Nas razões de seu recurso especial, a parte recorrente alega (fl. 653) :
+Por todo o exposto, uma vez demonstrada a violação ao art. 103 da Lei nº 8.213/91 e ao art. 207 do Código Civil, requer-se o provimento do presente recurso para reformar o acórdão recorrido a fim de que seja declarada a decadência do direito à revisão do benefício.
+A parte adversa apresentou contrarrazões (fls. 655/671).
+O recurso foi admitido na origem (fl. 677 ).
+É o relatório.
+A questão debatida nos autos foi afetada à Primeira Seção do Superior Tribunal de Justiça para ser decidida sob o rito de recursos repetitivos (Tema 1.370/STJ ), e foi assim delimitada:
+"Interpretação do art. 103, caput, I e II, da Lei n. 8.213/1991 à luz das redações introduzidas pela Lei n. 10.839/2004 e a Lei n. 13.846/2019, de modo a aferir a existência, ou não, de prazos de decadência distintos e autônomos para revisar (i) o ato de concessão e (ii) o ato de deferimento ou indeferimento de pedido administrativo de revisão de benefícios previdenciários." (REsps 2.205.049/RS, 2.178.138/SC e 2.225.369/RS, relator Ministro Gurgel de Faria).
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+O envio do recurso especial a esta Corte Superior deve ocorrer somente após o esgotamento da instância ordinária, formalizado com o novo julgamento pelo Tribunal de origem, quando então será possível examinar, no âmbito do STJ, as matérias jurídicas que eventualmente permanecerem controvertidas. Essa cautela também evita o fracionamento do recurso e previne eventual violação ao princípio da unicidade recursal, que veda a interposição simultânea ou sucessiva de recursos contra a mesma decisão.
+Ante o exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil (CPC), o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do mesmo CPC.
+Publique-se. Intimem-se.
+ EMENTA
