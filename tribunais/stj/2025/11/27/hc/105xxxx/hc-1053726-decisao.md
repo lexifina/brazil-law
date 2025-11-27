@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus, impetrado em nome de CLAYTON ESPIRITO SANTO DA PAIXAO - condenado por roubo simples a 4 anos de reclusão e 10 dias-multa -, apontando como ato coator o acórdão de apelação criminal proferido pelo Tribunal de Justiça de São Paulo (fls. 6/14).
+A impetração busca a revisão da dosimetria e o abrandamento do regime prisional - referente à condenação proferida na Ação Penal n. 1510133-51.2025.8.26.0228 (fls. 30/39), da 32ª Vara Central Criminal da comarca de São Paulo/SP -, aos seguintes argumentos:
+a) ilegalidade na fixação do regime inicial fechado, sustentando que a pena aplicada é de exatos 4 (quatro) anos, no mínimo legal, sem agravantes, sem causas de aumento, e com reconhecimento (implícito) da confissão espontânea (fl. 3); e
+b) necessidade de incidência da atenuante da menoridade relativa, aduzindo que o paciente nasceu em 01/06/2004, e o fato ocorreu em 13/04/2025, tendo 20 anos deidade à época (fl. 3).
+É o relatório.
+Inicialmente, registra-se que se trata de impetração destinada a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias (HC n. 905.771/GO, de minha relatoria, Sexta Turma, DJEN de 16/9/2025), e não se verifica a ocorrência de flagrante constrangimento ilegal apto a subsidiar a superação do óbice quanto à dosimetria da pena, pois o Tribunal estadual, no julgamento da apelação, afastou a tese de erro na dosimetria quanto às atenuantes, ao fundamento de que as atenuantes da menoridade relativa e da confissão espontânea não têm o condão de reduzir a reprimenda aquém do mínimo, nos termos da Súmula 231 do colendo Superior Tribunal de Justiça (fl. 12), em consonância com o entendimento desta Corte Superior (Súmula 231/STJ).
+Entretanto, há ilegalidade na fixação do regime inicial fechado, uma vez que, a despeito de não se verificar ilegalidade na fundamentação do agravamento do regime - em razão da gravidade concreta do delito, destacando que o paciente atacou uma mulher indefesa quando embarcava em um veículo no estacionamento de um shopping center, conduta altamente repreensível que revela periculosidade e exige afastamento completo do meio social (fls. 13/14) -, tem-se que não se mostra proporcional à fixação do regime fechado.
+Então, considerando a pena imposta (4 anos de reclusão), primariedade (fl. 12) e gravidade concreta do delito (fl. 13), o paciente faz jus a iniciar o cumprimento de pena no regime inicial semiaberto.
+Em razão disso, concedo liminarmente a ordem, em parte , apenas para fixar o regime inicial semiaberto, referente à condenação proferida na Ação Penal n. 1510133-51.2025.8.26.0228, da 32ª Vara Central Criminal da comarca de São Paulo/SP.
+Intime-se o Ministério Público estadual.
+P ublique-se.
+EMENTA
+PENAL. HABEAS CORPUS. ROUBO SIMPLES. DOSIMETRIA. REVISÃO DE CONDENAÇÃO MANTIDA NAS INSTÂNCIAS ORDINÁRIAS. UTILIZAÇÃO INDEVIDA DO WRIT. ATENUANTES. INCIDÊNCIA NÃO REDUTIVA ABAIXO DO MÍNIMO LEGAL. SÚMULA 231/STJ. REGIME INICIAL. GRAVIDADE CONCRETA. PROPORCIONALIDADE. ADEQUAÇÃO AO SEMIABERTO. CONSTRANGIMENTO PARCIAL EVIDENCIADO.
+Ordem liminarmente concedida, em parte, nos termos do dispositivo.
