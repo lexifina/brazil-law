@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de habeas corpus, impetrado em nome de BRAULIO FILGUEIRA ALVES LOPES - na execução de condenação da pena de 28 anos, 6 meses e 22 dias de reclusão, atualmente em regime semiaberto (fls. 2/8), em razão de condenações por roubos circunstanciados, homicídio simples e disparo de arma de fogo -, apontando como ato coator o acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios (fls. 10/17 - Agravo em Execução Penal n. 0736440-11.2025.8.07.0000).
+A impetração busca afastar a alteração da data-base dos cálculos da execução e a regressão de regime - referente aos Autos n. 0145582-44.2005.8.07.0015 (fls. 99/100, da Vara de Execuções das Penas em Regime Aberto do Distrito Federal) -, sustentando que, embora tenha ocorrido crime doloso no curso da execução, tal crime não se traduziu em falta grave, uma vez que esta não restou reconhecida, tendo sido fulminada pela prescrição (fl. 6).
+Sem pedido liminar.
+É o relatório.
+O writ é inadmissível, uma vez que se trata de medida substitutiva de recurso próprio, o que afasta a competência desta Corte Superior para análise do pleito (AgRg no HC n. 978.148/SP, Ministro Og Fernandes, Sexta Turma, DJEN de 7/7/2025), e não se verifica a ocorrência de flagrante constrangimento ilegal apto a subsidiar superação do óbice, pois o Tribunal estadual, no julgamento do agravo em execução penal, manteve a regressão para o regime semiaberto e afastou a alegação de alteração indevida da data-base, ao fundamento de que, embora a falta grave correlata ao novo crime tenha prescrito, a superveniência de nova condenação autoriza regressão de regime e fixação de novo marco objetivo, com base no art. 118 da Lei de Execução Penal, sendo inaplicável o Tema repetitivo n. 1.006, que trata de unificação de penas sem reconhecimento de novos efeitos executórios (fls. 11/16), em consonância com a expressa previsão legal (art. 118 da Lei n. 7.210/1984).
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publiqu e-s e.
+EMENTA
+EXECUÇÃO PENAL. HABEAS CORPUS. DATA-BASE. PRESCRIÇÃO DA FALTA GRAVE. NOVA CONDENAÇÃO. ART. 118 DA LEP. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL MANIFESTO.
+Inicial indeferida liminarmente.
