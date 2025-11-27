@@ -1,0 +1,109 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Maria Marluce Caldas e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+Ausentes, justificadamente, os Srs. Ministros Ribeiro Dantas e Joel Ilan Paciornik.
+EMENTA
+Direito Processual Penal. Agravo Regimental. Nulidade por ausência de formulário de cadeia de custódia. Associação para o tráfico de drogas. Súmula 7 do STJ. Agravo regimental não provido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que conheceu do agravo em recurso especial e não conheceu do recurso especial.
+2. O agravante foi condenado, em primeiro grau, à pena de 11 anos e 1 mês de reclusão e 1.050 dias-multa, em regime inicial fechado, pelos crimes previstos nos arts. 261 do Código Penal e 35, combinado com o art. 40, inciso I, da Lei n. 11.343/2006. O Tribunal Regional Federal da 3ª Região reduziu as penas para 6 anos e 5 meses de reclusão e 933 dias-multa, fixando regime inicial semiaberto.
+3. No recurso especial, a defesa alegou nulidade por cerceamento de defesa, ante a ausência de juntada do Formulário de Cadeia de Custódia do aparelho celular apreendido, com violação aos arts. 158-A a 158-F e 564, incisos IV e V, do Código de Processo Penal. Subsidiariamente, pleiteou absolvição quanto ao art. 35 da Lei n. 11.343/2006 por insuficiência de provas da estabilidade e permanência exigidas pelo tipo penal.
+4. A decisão monocrática manteve a aplicação da Súmula n. 7 do Superior Tribunal de Justiça, por entender que ambas as teses demandariam reexame do conjunto fático-probatório.
+5. No agravo regimental, o agravante sustenta que as matérias versam sobre questões de direito e revaloração jurídica de fatos incontroversos. Requer provimento do agravo para reformar a decisão monocrática, permitir o conhecimento do recurso especial e prover para absolver do art. 35 ou reconhecer nulidade por ausência do Formulário de Cadeia de Custódia. Pede, subsidiariamente, concessão de habeas corpus de ofício.
+II. Questão em discussão
+6. Há duas questões em discussão: (i) saber se a ausência do Formulário de Cadeia de Custódia da prova digital configura nulidade processual, independentemente da demonstração de prejuízo; e (ii) saber se há demonstração concreta de estabilidade e permanência do vínculo associativo para subsunção ao tipo penal previsto no art. 35 da Lei n. 11.343/2006.
+III. Razões de decidir
+7. A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que a quebra da cadeia de custódia não configura invariavelmente causa de nulidade processual, estando relacionada à eficácia e confiabilidade da prova. A nulidade exige demonstração de prejuízo concreto, nos termos do art. 563 do Código de Processo Penal, que consagra o princípio "pas de nullité sans grief".
+8. Eventuais irregularidades na guarda de prova devem ser analisadas pelo juízo ao lado dos demais elementos produzidos na instrução criminal, para decidir se a prova questionada ainda pode ser considerada confiável.
+9. No caso concreto, não houve demonstração pela defesa de elementos aptos a indicar adulteração ou contaminação da prova digital. A alegação limita-se à ausência formal do Formulário de Cadeia de Custódia, sem apontar qualquer circunstância que desacredite a preservação da prova ou que indique prejuízo efetivo.
+10. A condenação pelo crime de associação para o tráfico foi fundamentada em amplo conjunto probatório, incluindo depoimentos policiais, perícia no GPS, conversas e mídias extraídas dos aparelhos celulares, além de anotações sobre rotas e despesas da aeronave. A revisão dessa conclusão demandaria reexame fático-probatório, vedado pela Súmula n. 7 do Superior Tribunal de Justiça.
+11. O agravo regimental não trouxe elementos novos capazes de infirmar os fundamentos da decisão monocrática, limitando-se a reiterar os argumentos já apresentados no recurso especial.
+12. Não há flagrante ilegalidade ou constrangimento ilegal que justifique a concessão de habeas corpus de ofício.
+IV. Dispositivo e tese
+13. Resultado do Julgamento: Agravo regimental não provido.
+Tese de julgamento:
+Dispositivos relevantes citados:CPP, arts. 158-A a 158-F, 563 e 564, incisos IV e V; Lei n. 11.343/2006, art. 35; Súmula n. 7 do STJ.
+Jurisprudência relevante citada:STJ, AgRg no HC 943.895/PR, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 03.09.2025; STJ, AgRg no AREsp 2.775.047/PR, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 01.04.2025; STJ, AgRg no REsp 2.141.983/SC, Rel. Min. Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 26.02.2025.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ANDRE LUIZ ARRUDA ACOSTA contra decisão monocrática que conheceu do agravo em recurso especial e não conheceu do recurso especial.
+O agravante foi condenado, em primeiro grau, à pena de 11 (onze) anos e 1 (um) mês de reclusão e 1.050 (mil e cinquenta) dias-multa, em regime inicial fechado, pelos crimes dos arts. 261 do Código Penal e 35, combinado com o art. 40, inciso I, da Lei n. 11.343/2006. O Tribunal Regional Federal da 3ª Região reduziu as penas para 6 (seis) anos e 5 (cinco) meses de reclusão e 933 (novecentos e trinta e três) dias-multa, fixando regime inicial semiaberto (fls. 2074-2091).
+Interposto recurso especial, a Vice-Presidência do Tribunal Regional Federal da 3ª Região inadmitiu o recurso especial, aplicando a Súmula n. 7 do Superior Tribunal de Justiça (fls. 2274-2293).
+No agravo em recurso especial, a defesa sustentou nulidade por cerceamento de defesa, ante a ausência de juntada do Formulário de Cadeia de Custódia do aparelho celular apreendido, com violação aos arts. 158-A a 158-F e 564, incisos IV e V, do Código de Processo Penal. Subsidiariamente, pleiteou absolvição quanto ao art. 35 da Lei n. 11.343/2006 por insuficiência de provas da estabilidade e permanência exigidas pelo tipo penal (fls. 2295-2305).
+A decisão monocrática manteve a aplicação da Súmula n. 7 do Superior Tribunal de Justiça, por entender que ambas as teses demandariam reexame do conjunto fático-probatório.
+Interpõe, então, agravo regimental (fls. 2438-2452).
+O agravante sustenta que as matérias versam sobre questões de direito e revaloração jurídica de fatos incontroversos. Quanto à nulidade, argumenta que a exigência do Formulário de Cadeia de Custódia decorre dos arts. 158-A a 158-F do Código de Processo Penal, constituindo vício formal essencial que prescinde de demonstração de adulteração material. Invoca precedentes da Quinta Turma no sentido da inadmissibilidade da prova digital quando quebrada a cadeia de custódia, com ônus estatal de comprovar integridade. Quanto à associação para o tráfico, afirma inexistência de demonstração concreta de estabilidade e permanência, citando precedentes que exigem prova do vínculo associativo estável. Requer provimento do agravo para reformar a decisão monocrática, permitir o conhecimento do recurso especial e prover para absolver do art. 35 ou reconhecer nulidade por ausência do Formulário de Cadeia de Custódia. Pede, subsidiariamente, concessão de habeas corpus de ofício.
+EMENTA
+Direito Processual Penal. Agravo Regimental. Nulidade por ausência de formulário de cadeia de custódia. Associação para o tráfico de drogas. Súmula 7 do STJ. Agravo regimental não provido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que conheceu do agravo em recurso especial e não conheceu do recurso especial.
+2. O agravante foi condenado, em primeiro grau, à pena de 11 anos e 1 mês de reclusão e 1.050 dias-multa, em regime inicial fechado, pelos crimes previstos nos arts. 261 do Código Penal e 35, combinado com o art. 40, inciso I, da Lei n. 11.343/2006. O Tribunal Regional Federal da 3ª Região reduziu as penas para 6 anos e 5 meses de reclusão e 933 dias-multa, fixando regime inicial semiaberto.
+3. No recurso especial, a defesa alegou nulidade por cerceamento de defesa, ante a ausência de juntada do Formulário de Cadeia de Custódia do aparelho celular apreendido, com violação aos arts. 158-A a 158-F e 564, incisos IV e V, do Código de Processo Penal. Subsidiariamente, pleiteou absolvição quanto ao art. 35 da Lei n. 11.343/2006 por insuficiência de provas da estabilidade e permanência exigidas pelo tipo penal.
+4. A decisão monocrática manteve a aplicação da Súmula n. 7 do Superior Tribunal de Justiça, por entender que ambas as teses demandariam reexame do conjunto fático-probatório.
+5. No agravo regimental, o agravante sustenta que as matérias versam sobre questões de direito e revaloração jurídica de fatos incontroversos. Requer provimento do agravo para reformar a decisão monocrática, permitir o conhecimento do recurso especial e prover para absolver do art. 35 ou reconhecer nulidade por ausência do Formulário de Cadeia de Custódia. Pede, subsidiariamente, concessão de habeas corpus de ofício.
+II. Questão em discussão
+6. Há duas questões em discussão: (i) saber se a ausência do Formulário de Cadeia de Custódia da prova digital configura nulidade processual, independentemente da demonstração de prejuízo; e (ii) saber se há demonstração concreta de estabilidade e permanência do vínculo associativo para subsunção ao tipo penal previsto no art. 35 da Lei n. 11.343/2006.
+III. Razões de decidir
+7. A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que a quebra da cadeia de custódia não configura invariavelmente causa de nulidade processual, estando relacionada à eficácia e confiabilidade da prova. A nulidade exige demonstração de prejuízo concreto, nos termos do art. 563 do Código de Processo Penal, que consagra o princípio "pas de nullité sans grief".
+8. Eventuais irregularidades na guarda de prova devem ser analisadas pelo juízo ao lado dos demais elementos produzidos na instrução criminal, para decidir se a prova questionada ainda pode ser considerada confiável.
+9. No caso concreto, não houve demonstração pela defesa de elementos aptos a indicar adulteração ou contaminação da prova digital. A alegação limita-se à ausência formal do Formulário de Cadeia de Custódia, sem apontar qualquer circunstância que desacredite a preservação da prova ou que indique prejuízo efetivo.
+10. A condenação pelo crime de associação para o tráfico foi fundamentada em amplo conjunto probatório, incluindo depoimentos policiais, perícia no GPS, conversas e mídias extraídas dos aparelhos celulares, além de anotações sobre rotas e despesas da aeronave. A revisão dessa conclusão demandaria reexame fático-probatório, vedado pela Súmula n. 7 do Superior Tribunal de Justiça.
+11. O agravo regimental não trouxe elementos novos capazes de infirmar os fundamentos da decisão monocrática, limitando-se a reiterar os argumentos já apresentados no recurso especial.
+12. Não há flagrante ilegalidade ou constrangimento ilegal que justifique a concessão de habeas corpus de ofício.
+IV. Dispositivo e tese
+13. Resultado do Julgamento: Agravo regimental não provido.
+Tese de julgamento:
+1. A quebra da cadeia de custódia não configura invariavelmente causa de nulidade processual, estando relacionada à eficácia e confiabilidade da prova, sendo necessária a demonstração de prejuízo concreto para a declaração de nulidade. 2. A revisão de decisão que reconhece a estabilidade e permanência do vínculo associativo para o tráfico de drogas, após exame do conjunto probatório pelas instâncias ordinárias, demanda reexame fático-probatório, vedado pela Súmula n. 7 do Superior Tribunal de Justiça.
+Dispositivos relevantes citados:CPP, arts. 158-A a 158-F, 563 e 564, incisos IV e V; Lei n. 11.343/2006, art. 35; Súmula n. 7 do STJ.
+Jurisprudência relevante citada:STJ, AgRg no HC 943.895/PR, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 03.09.2025; STJ, AgRg no AREsp 2.775.047/PR, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 01.04.2025; STJ, AgRg no REsp 2.141.983/SC, Rel. Min. Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 26.02.2025.
+VOTO
+Verifico a tempestividade do agravo regimental, interposto em 03.11.2025, dentro do prazo quinquenal previsto no art. 258 do Regimento Interno do Superior Tribunal de Justiça, computado da publicação da decisão monocrática em 27.10.2025.
+Passo ao exame.
+O agravo regimental não merece provimento.
+Primeiramente, quanto à alegada nulidade pela ausência do Formulário de Cadeia de Custódia da prova digital, o entendimento consolidado nesta Corte Superior afasta a tese defensiva.
+A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que a quebra da cadeia de custódia não configura invariavelmente causa de nulidade processual, mas está relacionada à eficácia e confiabilidade da prova. A nulidade exige demonstração de prejuízo concreto, nos termos do art. 563 do Código de Processo Penal, que consagra o princípio pas de nullité sans grief.
+Nessa linha, a Sexta Turma decidiu que eventuais irregularidades na guarda de prova devem ser analisadas pelo juízo ao lado dos demais elementos produzidos na instrução criminal, a fim de decidir se a prova questionada ainda pode ser considerada confiável. Somente após essa confrontação, caso não encontre sustentação na prova cuja cadeia foi violada, pode o magistrado retirá-la dos autos ou declará-la nula.
+Na hipótese dos autos, o Tribunal Regional Federal da 3ª Região expressamente consignou a inexistência de evidências concretas de adulteração ou contaminação dos dados extraídos do aparelho celular, destacando a presunção de fé pública dos atos periciais e a inexistência de indicativos técnicos de violação. O acórdão recorrido rejeitou a preliminar de nulidade por indeferimento de prova e por suposta quebra da cadeia de custódia, invocando a discricionariedade do juiz para indeferir provas impertinentes, a ausência de prejuízo e a inexistência de qualquer indicação técnica de adulteração nos laudos (fls. 2049-2052).
+A orientação recente da Quinta Turma reforça essa compreensão:
+Direito processual penal. Agravo regimental. Cadeia de custódia.
+Prova digital. Ordem concedida de ofício. agravo desprovido.
+I. Caso em exame
+1. Agravo regimental interposto pelo Ministério Público do Estado do Paraná contra decisão que concedeu habeas corpus de ofício para anular provas extraídas de celular apreendido, em razão de violação da cadeia de custódia.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se houve violação da cadeia de custódia das provas digitais extraídas do celular apreendido, comprometendo sua integridade e confiabilidade.
+III. Razões de decidir
+3. A autoridade policial manuseou o celular do corréu, confrontando-o a respeito do seu conteúdo, extraindo prints de conversas por aplicativos e elaborando relatório antes do encaminhamento ao Instituto de Criminalística, comprometendo a fidedignidade da prova.
+4. A quebra da cadeia de custódia foi constatada, pois não foram adotados procedimentos que assegurassem a idoneidade e a integridade dos dados extraídos.
+5. O ônus de comprovar a integridade e confiabilidade das provas cabe ao Estado, não sendo possível presumir a veracidade das alegações estatais sem a devida documentação da cadeia de custódia.
+IV. Dispositivo e tese
+6. Agravo regimental desprovido.
+Tese de julgamento: "1. A quebra da cadeia de custódia de provas digitais compromete sua fidedignidade e integridade. 2. O Estado tem o ônus de comprovar a integridade e confiabilidade das provas apresentadas. 3. A ausência de documentação da cadeia de custódia torna a prova inadmissível no processo penal".
+Dispositivos relevantes citados: CPP, arts. 158-A e seguintes.
+Jurisprudência relevante citada: STJ, AgRg no RHC 143.169/RJ, Rel. Min. Messod Azulay Neto, Rel. p/ Acórdão Min. Ribeiro Dantas, Quinta Turma, julgado em 07.02.2023, DJe de 02.03.2023.
+(AgRg no HC n. 943.895/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 3/9/2025, DJEN de 8/9/2025.)
+No caso concreto, não houve demonstração pela defesa de elementos aptos a indicar adulteração ou contaminação da prova digital. A alegação limita-se à ausência formal do Formulário de Cadeia de Custódia, sem apontar qualquer circunstância que desacredite a preservação da prova ou que indique prejuízo efetivo. As instâncias ordinárias reconheceram a integridade dos dados e a idoneidade dos procedimentos periciais.
+Nesse contexto, rever a conclusão alcançada pelo Tribunal Regional Federal da 3ª Região demandaria necessariamente o reexame do conjunto fático-probatório dos autos, especialmente quanto à alegada demonstração da integridade da prova e da ausência de prejuízo. Incide, portanto, o óbice da Súmula n. 7 desta Corte Superior.
+No tocante à pretensão absolutória quanto ao crime de associação para o tráfico, a tese igualmente esbarra na vedação ao reexame probatório.
+O Tribunal Regional Federal da 3ª Região concluiu, após minuciosa análise do acervo probatório, pela existência de estabilidade e permanência do vínculo associativo entre o agravante e demais envolvidos no tráfico transnacional de drogas. O acórdão fundamentou-se em depoimentos policiais, perícia no GPS, conversas e mídias extraídas dos aparelhos celulares, além de anotações sobre rotas e despesas da aeronave PT-WKZ (fls. 2052-2058).
+A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que, para a subsunção da conduta ao tipo previsto no art. 35 da Lei n. 11.343/2006, é necessária a demonstração concreta da estabilidade e da permanência da associação criminosa. Contudo, uma vez reconhecidos esses elementos pelas instâncias ordinárias, após exame do conjunto probatório, a revisão dessa conclusão demanda inevitável reexame fático-probatório, vedado pela Súmula n. 7 do Superior Tribunal de Justiça.
+A propósito, confiram-se precedentes recentes desta Quinta Turma:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. NULIDADE DO ACESSO A DADOS DE CELULAR. PROVAS SUFICIENTES. ABSOLVIÇÃO. IMPOSSIBILIDADE. PENA-BASE E REGIME PRISIONAL. FUNDAMENTOS CONCRETOS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O consentimento para o acesso ao celular foi dado voluntariamente pelo corréu, afastando a ilicitude das provas obtidas.
+2. As provas testemunhais, os dados extraídos do celular e a confissão da recorrente são suficientes para a condenação por tráfico de drogas.
+3. No caso, o animus associativo e a estabilidade do vínculo foram demonstrados pelas instâncias ordinárias, sobretudo pela divisão de tarefas, período em que se iniciou a associação e a logística do transporte e da distribuição do entorpecente.
+4. A revisão dos fundamentos do julgado a fim de absolver a acusada exigiria reexame de fatos e provas, o que é vedado em recurso especial, conforme a Súmula n. 7 do STJ.
+5. A pena-base foi corretamente exasperada devido à intermunicipalidade do tráfico, demonstrando maior reprovabilidade da conduta.
+6. Não há ilegalidade na fixação de regime inicial fechado à ré condenada a pena de 8 anos de reclusão, se houve registro de circunstância judicial desfavorável (art. 59 do CP), nos termos do art. 33, § 3º, do CP.
+7. Agravo regimental não provido.
+(AgRg no AREsp n. 2.775.047/PR, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 1/4/2025, DJEN de 7/4/2025.)
+No mesmo sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DIREITO PENAL E PROCESSUAL PENAL. TRÁFICO DE DROGAS. PRETENSÃO ABSOLUTÓRIA. REDUTORA DO TRÁFICO PRIVILEGIADO. REVOLVIMENTO PROBATÓRIO. IMPOSSÍBILIDADE. SÚMULA N. 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. No caso dos autos a condenação do réu e a negativa de aplicação da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 tiveram como fundamento as circunstâncias do caso concreto, notadamente a sua prisão em flagrante na posse de 1 (uma) porção de crack, com massa bruta total de 23,72 g (vinte e três gramas e setenta e dois decigramas), o encontro, na residência, de 08 (oito) aparelhos de celular, uma balança de precisão, além de R$ 478,00 (quatrocentos e setenta e oito reais) em espécie, além da dedicação a atividades criminosas.
+2. Rever as conclusões a que chegaram as instâncias ordinárias, a fim de reconhecera insuficiência de provas para a condenação, bem como do envolvimento do acusado com o tráfico de drogas, exigiria aprofundado revolvimento probatório, juízo que encontra óbice na Súmula n. 7 do Superior Tribunal de Justiça. Precedentes.
+3. Agravo regimental não provido.
+(AgRg no REsp n. 2.141.983/SC, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 26/2/2025, DJEN de 6/3/2025.)
+Destaco que o agravo regimental limitou-se a reiterar os argumentos já apresentados no recurso especial, sem trazer elementos novos capazes de infirmar os fundamentos da decisão monocrática. A impugnação, embora formalmente direcionada à aplicação da Súmula n. 7 do Superior Tribunal de Justiça, não logra demonstrar que as questões suscitadas possam ser resolvidas sem incursão no acervo probatório fixado pelas instâncias ordinárias.
+Quanto ao ped ido subsidiário de concessão de habeas corpus de ofício, não vislumbro a presença de flagrante ilegalidade ou constrangimento ilegal que justifique a atuação excepcional desta Corte Superior.
+A condenação está lastreada em fundamentação idônea e em amplo conjunto probatório, conforme reconhecido pelo Tribunal Regional Federal da 3ª Região. A dosimetria da pena foi adequadamente fundamentada e as circunstâncias judiciais valoradas com base em elementos concretos dos autos. Não se verifica teratologia ou manifesta ilegalidade que autorizem a concessão da ordem de ofício.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
