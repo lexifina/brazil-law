@@ -1,0 +1,122 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pelo MUNICÍPIO DE PEDRAS DE MARIA DA CRUZ em contra acordão prolatado pela 7ª Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 747e):
+EMENTA: APELAÇÃO CÍVEL - ADMINISTRATIVO - AÇÃO DE INDENIZAÇÃO POR PERDAS E DANOS MORAIS E MATERIAIS - DEMORA NA REALIZAÇÃO DO PARTO - ÓBITO DA CRIANÇA - DEFICIÊNCIA NA PRESTAÇÃO DO SERVIÇO COMPROVADA PERICIALMENTE - RESPONSABILIZAÇÃO SOLIDÁRIA DOS ENTES MUNICIPAIS - IMPERÍCIA - NEXO CAUSAL - DANO MORAL: QUANTIFICAÇÃO - DANOS MATERIAIS: AUSÊNCIA DE COMPROVAÇÃO - DISTRIBUIÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. I - Constatada por perícia judicialmente realizada sob o crivo do contraditório a negligência dos agentes municipais quando da realização do parto que culminou na morte do bebê, inevitável a responsabilização do correspondente ente público pelos danos experimentos pela parturiente. II - O arbitramento do montante indenizatório a título de danos morais deve amparar-se, dentre outros aspectos, nas condições do ofensor, bem como nos prejuízos sofridos pela vítima, sendo fixado em observância aos critérios da razoabilidade e da proporcionalidade, de modo que não seja irrisório e sequer fonte de enriquecimento sem causa, atingindo-se sua finalidade punitiva e pedagógica. III - Os danos materiais devem ser robustamente comprovados para que haja o reconhecimento da pertinência do dever de indenizar a tal título. IV - Em caso de sucumbência recíproca, as partes devem ser condenadas ao pagamento dos ônus sucumbenciais proporcionalmente, nos termos do art. 86 do CPC/2015.
+Opostos embargos de declaração, foram rejeitados (fls. 810e).
+Com amparo no art. 105, III, a e c, da Constituição da República, além de divergência jurisprudencial, aponta-se ofensa aos dispositivos a seguir relacionados, alegando-se, em síntese, que:
+(i) Arts. 186 e art. 927 do Código Civil: Inexistência de nexo causal direto entre a atuação do Município recorrente e o óbito fetal, visto que a negligência foi atribuída ao Hospital Municipal de Januária, sendo comprovada a atuação diligente do Município de Pedras de Maria da Cruz, o que descaracteriza o ato ilícito (fls. 851-854);
+(ii) Art. 37, §6º da Constituição Federal: Exigência de nexo causal para a responsabilidade objetiva e pelo rompimento desse nexo por fato de terceiro, sendo comprovada a atuação eficiente e diligente do recorrente (fls. 851-854);
+(iii) Art. 14, §4º, do Código de Defesa do Consumidor: O acórdão desconsiderou a natureza subjetiva da responsabilidade médica como obrigação de meio e impor condenação sem a necessária demonstração de culpa, visto que os agentes de saúde do Município recorrente agiram diligentemente no encaminhamento da gestante. (fls. 854/855e).
+(iv) Art. 1.026, § 1º e § 2º do CPC: A multa por embargos de declaração é indevida dada a ausência de caráter manifestamente protelatório (fls. 855/856e).
+Com contrarrazões (fls. 860/867e), o recurso foi inadmitido (fls. 872/875e).
+O Ministério Público Federal manifestou-se às fls. 898/903e
+Feito breve relato, decido.
+Nos termos do art. 932, III, do Código de Processo Civil de 2015, combinado com o art. 253, I, do Regimento Interno desta Corte, incumbe ao Relator não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+- Da Violação aos Arts. 186 e art. 927 do Código Civil
+Nas razões do Recurso Especial, aponta-se ofensa aos Arts. 186 e art. 927 do Código Civil, alegando-se, em síntese existência de nexo causal direto entre a atuação do Município recorrente e o óbito fetal, visto que a negligência foi atribuída ao Hospital Municipal de Januária(fls. 851-854).
+Acerca do tema, a Corte a qua, após minucioso exame dos elementos fáticos contidos nos autos, consignou (fls. 756/767e):
+Como alhures destacado, a fim de avaliar a apontada responsabilidade por omissão no atendimento hospitalar da gestante, os autos retornaram à instância de piso para realização de perícia no conjunto probatório.
+ ..
+Como bem salientado pela d. sentenciante, restou comprovado no caderno processual que os médicos, tanto no Hospital do Município de Pedras de Maria da Cruz quanto no Hospital do Município de Januária, se omitiram, tendo agido de forma negligente ao prestar o atendimento à autora, bem como ao não ofertarem os cuidados necessários para aferir com exatidão quais seriam os procedimentos médicos a serem adotados em face do quadro apresentado pela autora entre os dias 18/11/2016 e 21/11/2016.
+Como visto, a perícia realizada sob o crivo do contraditório, comprova, de forma imparcial e idônea, a existência de omissão quando do atendimento prestado à parturiente, gerando, assim, o resultado morte de seu filho. Além disso, o laudo pericial foi claro e categórico no apontar que a negligência ocorreu tanto por parte dos médicos que atenderam a requerente no Município de Januária quanto do que a atendeu aos 21/11/2016 no Município de Pedras de Maria da Cruz.
+Nessa toada, possível concluir que os representantes dos entes públicos requeridos foram negligentes, diria até imperitos, tendo em vista que, pelos exames médicos feitos no pré-natal e pela perda do tampão mucoso, afrontaram as técnicas e recomendações médicas ao não realizarem de pronto a cesariana
+Do confronto entre a insurgência recursal e fundamentação adotada pelo tribunal de origem pode-se defluir tanto a possibilidade de mera revaloração de premissas nas quais o acórdão recorrido esteja assentado, quanto a incidência do óbice constante na Súmula n. 7/STJ, segundo a qual, a pretensão de simples reexame de prova não enseja recurso especial.
+In casu, a análise da pretensão recursal para negar a responsabilidade do município a fim de revisar o entendimento adotado pela Corte a qua quanto à responsabilidade do recorrente demanda necessário revolvimento de matéria fática, o que é inviável em recurso especial, à luz do óbice contido no mencionado verbete sumular.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DANO MORAL. CONTAMINAÇÃO POR PESTICIDA. DDT. LEGITIMIDADE PASSIVA DA UNIÃO. ABSORÇÃO DOS AGENTES DA SUCAM NOS QUADROS DA FUNASA. PRECEDENTES. RESPONSABILIDADE CIVIL. ACÓRDÃO DO TRIBUNAL A QUO ANCORADO NO SUBSTRATO FÁTICO-PROBATÓRIO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 7/STJ.
+1. Na origem, cuida-se de ação de procedimento ordinário ajuizada em face da União e da Fundação Nacional de Saúde - Funasa, com o fim de obter reparação pelos danos morais decorrentes de contaminação por pesticidas utilizados pelo autor no combate a agentes endêmicos.
+2. Esta Corte Superior de Justiça sedimentou entendimento no sentido de que tanto a União como a Funasa detêm legitimidade para figurar no polo passivo de demandas como a em análise, uma vez que a Fundação absorveu em seus quadros os agentes de saúde pública atuantes na Superintendência de Campanhas de Saúde Pública - Sucam.
+3. Verifica-se que o dever de indenizar decorreu da análise dos elementos fático-probatórios dos autos. Dessarte, a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, a fim de afastar a responsabilidade da agravante pelos danos ocasionados à parte autora, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.747.591/DF, relator Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, j. 17.3.2025, DJEN 21/3/2025.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. RESPONSABILIDADE CIVIL. CULPA EXCLUSIVA DA VÍTIMA NÃO CONFIGURADA. DEVER DE INDENIZAR. CONSTATAÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA 7/STJ. REDUÇÃO DA QUANTIA INDENIZATÓRIA. INVIABILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. No caso, o Tribunal estadual consignou expressamente não haver elementos nos autos para reconhecer a culpa exclusiva da vítima ou de terceiros no que concerne ao evento danoso em questão.
+2. Diante desse contexto, o acolhimento das teses veiculadas nas razões do recurso especial - centralizadas na alegação de culpa exclusiva da vítima ou de terceiros, com vistas ao afastamento da responsabilidade civil da parte recorrente, em confronto com as conclusões obtidas pela Corte estadual - não prescindiria do reexame de circunstâncias fático-probatórias da causa, o que não se admite no âmbito do recurso especial, ante o óbice da Súmula 7 do Superior Tribunal de Justiça.
+3. Relativamente ao montante fixado a título de indenização por danos morais, nos termos da jurisprudência deste Superior Tribunal, o valor estabelecido pelas instâncias ordinárias pode ser revisto apenas nas hipóteses em que a condenação se revelar irrisória ou exorbitante, distanciando-se dos padrões de razoabilidade, o que não se evidencia no caso. Incidência da Súmula 7/STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.657.315/MS, relator Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA TURMA, j. 30.4.2025, DJEN 8.5.2025.)
+- Da Violação à norma constitucional
+A insurgência concernente a exigência de nexo causal para a responsabilidade objetiva não pode ser conhecida no que tange à alegada violação ao Art. 37, §6º da Constituição da República.
+Isso porque o recurso especial possui fundamentação vinculada, destinando-se a garantir a autoridade e a aplicação uniforme da lei federal, não constituindo, portanto, instrumento processual destinado a examinar possível ofensa a norma constitucional, ainda que para efeito de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal, insculpida no art. 102, III, da Constituição da República.
+Destaco, na mesma esteira, o precedente assim ementado:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA QUE ERIGIU O ÓBICE DA SÚMULA N. 315 DO STJ, PARA INDEFERIMENTO LIMINAR DOS EMBARGOS DE DIVERGÊNCIA. QUESTÃO ACERCA DA APONTADA VIOLAÇÃO AO ART. 1.022 DO CPC QUE FOI EFETIVAMENTE ANALISADA PELO ACÓRDÃO EMBARGADO. ÓBICE AFASTADO. AUSÊNCIA, NO ENTANTO, DE DEMONSTRAÇÃO DE DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE DISSIDÊNCIA DE TESES JURÍDICAS. CASUÍSMO. ANÁLISE DE NORMA CONSTITUCIONAL. VIA IMPRÓPRIA. AGRAVO INTERNO PARCIALMENTE PROVIDO, PARA AFASTAR A INCIDÊNCIA DA SÚMULA N. 315 DO STJ, MAS MANTIDO O INDEFERIMENTO LIMINAR DOS EMBARGOS DE DIVERGÊNCIA POR FUNDAMENTAÇÃO DIVERSA.
+ ..
+4. A controvérsia foi resolvida com base em interpretação e aplicação de legislação infraconstitucional, sendo descabida, na via do recurso especial ou dos embargos de divergência, a análise de eventual ofensa a preceito constitucional, ainda que para fins de prequestionamento, sob pena de usurpação de competência do Supremo Tribunal Federal, estabelecida no art. 102, inciso III, da Constituição Federal. Precedentes.
+ ..
+(AgInt nos EAREsp n. 1.902.364/SC, Relatora Ministra LAURITA VAZ, CORTE ESPECIAL, j. 22.08.2023, DJEN 30.08.2023 - destaque meu)
+Ademais, ao tratar da questão concernente à responsabilidade civil do Estado, o tribunal de origem adotou fundamento constitucional suficiente para sustentar o acórdão recorrido, nos seguintes termos (fls. XXXXe):
+Sobre a responsabilidade das pessoas jurídicas de direito público, dispõe o art. 37, § 6º, da CR/88, que:
+Art. 37. A administração pública direta e indireta de qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios obedecerá aos princípios de legalidade, impessoalidade, moralidade, publicidade e eficiência e, também, ao seguinte: (..)
+§ 6º - As pessoas jurídicas de direito público e as de direito privado prestadoras de serviços públicos responderão pelos danos que seus agentes, nessa qualidade, causarem a terceiros, assegurado o direito de regresso contra o responsável nos casos de dolo ou culpa.
+No que tange à responsabilidade do Estado, conclui-se inicialmente que sempre responderá objetivamente (sem a necessidade de aferição de culpa) por atos praticados por seus agentes que causem danos a terceiros.
+Apesar disso, não houve a interposição de recurso extraordinário, circunstância que atrai o óbice da Súmula n. 126 desta Corte segundo a qual "é inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário".
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. ACÓRDÃO RECORRIDO. PRINCÍPIO DA UNICIDADE RECURSAL. FUNDAMENTO CONSTITUCIONAL. INCIDÊNCIA DA SÚMULA 126/STJ. PROVIMENTO NEGADO.
+ ..
+2. O Tribunal a quo decidiu a questão com base em fundamento constitucional autônomo no acórdão recorrido (princípio da unicidade sindical) e não houve a interposição do devido recurso extraordinário dirigido ao Supremo Tribunal Federal, o que atrai a incidência da Súmula 126 do Superior Tribunal de Justiça (STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no AgInt no AREsp n. 2.341.522/MA, Relator Ministro PAULO SÉRGIO DOMINGUES, PRIMEIRA TURMA, julgado em 19.08.2024, DJe de 23.08.2024 - destaque meu).
+PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDORES PÚBLICOS. ASSISTENTE SOCIAL. CARGA HORÁRIA SEMANAL. ACÓRDÃO RECORRIDO COM BASE EM FUNDAMENTOS CONSTITUCIONAL E INFRACONSTITUCIONAL. NÃO INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. INCIDÊNCIA DA SÚMULA N. 126 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. O acórdão impugnado, quanto à tese de aplicação do art. 5.º-A da Lei n. 8.662/1993, além da fundamentação infraconstitucional, está assentado em fundamento constitucional autônomo e suficiente, por si só, para dar suporte à conclusão do Tribunal de origem (contrariedade ao dispositivo constitucional que dispõe acerca da competência privativa do Presidente da República para propor projeto de lei relativo ao regime jurídico dos servidores, violando a legalidade e a isonomia). A parte recorrente, no entanto, deixou de interpor recurso extraordinário. Nesse contexto, incide o comando da Súmula n. 126 do STJ.
+2. Agravo interno desprovido.
+(AgInt no REsp n. 2.129.922/SE, Relator Ministro TEODORO SILVA SANTOS, SEGUNDA TURMA, julgado em 09.09.2024, DJe de 11.09.2024).
+- Da Violação ao Art. 14, §4º, do Código de Defesa do Consumidor
+Acerca da ofensa ao Art. 14, §4º, do Código de Defesa do Consumidor, em razão de ter desconsiderado a natureza subjetiva da responsabilidade médica como obrigação de meio e impor condenação sem a necessária demonstração de culpa, verifico que a insurgência carece de prequestionamento, porquanto não analisada pelo tribunal de origem.
+Com efeito, o requisito do prequestionamento pressupõe o prévio debate da questão, à luz da legislação federal indicada, com emissão de juízo de valor acerca dos dispositivos apontados como violados, e, no caso, não foi examinada, ainda que implicitamente, a alegação concernente à responsabilidade médica à luz do Código do Consumidor.
+Dessarte, aplicável, por analogia, o enunciado da Súmula n. 282 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada"), consoante os seguintes julgados:
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. SÚMULAS 282 E 356 DO STF. INCIDÊNCIA. CUMPRIMENTO DE SENTENÇA. TERMO INICIAL DO PRAZO PRESCRICIONAL. PROVIMENTO NEGADO.
+(..)
+2. A ausência de enfrentamento no acórdão recorrido da matéria impugnada, objeto do recurso, impede o acesso à instância especial por faltar o requisito constitucional do prequestionamento.
+Incidência, por analogia, das Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+(..)
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.036.100/RN, relator Ministro PAULO SÉRGIO DOMINGUES, PRIMEIRA TURMA, j. 23.06.2025, DJEN 27.06.2025)
+PROCESSUAL CIVIL. JUÍZES CLASSISTAS. PARCELA AUTÔNOMA DE EQUIVALÊNCIA. JUROS DE MORA. TERMO INICIAL. COISA JULGADA. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA N. 284 DO STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. ANÁLISE DE SUPOSTA VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. NÃO CONHECIMENTO.
+(..)
+III - Sobre a alegada violação dos arts. 5º, 11, 89, 99 e 296 do CPC, verifica-se que, no acórdão recorrido, não foi analisado o conteúdo dos dispositivos legais, nem foram opostos embargos de declaração para tal fim, pelo que carece o recurso do indispensável requisito do prequestionamento. Incidência das Súmulas 282 e 356 do STF.
+(..)
+VI - Recurso especial não conhecido.
+(REsp n. 2.195.614/CE, Relator Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, j. 30.04.2025, DJEN de 07.05.2025)
+Sublinhe-se, por oportuno, que a exigência do prequestionamento se impõe mesmo em relação às matérias de ordem pública, na linha do precedente deste Tribunal Superior, assim ementado:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PRESCRIÇÃO. OMISSÃO. NÃO OCORRÊNCIA. MATÉRIA ALHEIA AOS EMBARGOS DE DIVERGÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. OBSCURIDADE. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284 DO STF. CARÁTER PROTELATÓRIO. RECONHECIMENTO. EMBARGOS DECLARATÓRIOS REJEITADOS COM APLICAÇÃO DE MULTA.
+(..)
+2. As matérias de ordem pública, mesmo passíveis de conhecimento de ofício pelas instâncias ordinárias, necessitam estar devidamente prequestionadas para ensejar o debate no âmbito do STJ.
+(..)
+5. Embargos de declaração rejeitados com aplicação de multa.
+(EDcl no AgInt nos EREsp n. 1.946.950/PA, Relator Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, j. 21.08.2024, DJEN 26.08.2024)
+- Dos Embargos de Declaração para fins de Prequestionamento
+No caso, verifico que o acórdão recorrido está em confronto com orientação desta Corte segundo a qual embargos de declaração manifestados com notório propósito de prequestionamento não têm caráter protelatório (Súmula n. 98/STJ).
+Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO REJEITADOS PELO TRIBUNAL DE ORIGEM. MULTA DO ART. 1.026, § 2º, DO CPC. AFASTAMENTO. SÚMULA 98/STJ.
+1. Na forma da jurisprudência do STJ, "para que se configure o prequestionamento, não basta que o recorrente devolva a questão controvertida para o Tribunal, em suas razões recursais. É necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a eles vinculada, interpretando-se a sua aplicação ou não, ao caso concreto" (AgInt no REsp n. 1.890.753/MA, relatora Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe de 6/5/2021).
+2. Hipótese em que, embora a Corte estadual não tenha feito expressa remissão ao art. 1.026, § 2º, do CPC, da leitura do acórdão que rejeitou os embargos de declaração observa-se que a multa aplicada à parte ora agravada decorreu da compreensão de que seriam eles protelatórios.
+3. ""Nos termos da jurisprudência já consolidada desta Corte, a análise do recurso especial não esbarra no óbice previsto na Súmula 7, do STJ, quando se exige somente a revaloração jurídica das circunstâncias fático-probatórias contidas nos autos" (AgInt no REsp 1723943/PR, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 17/9/2019, DJe 24/9/2019)" (AgInt no REsp n. 1.393.985/RN, relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 2/12/2019).
+4. Uma vez evidenciado que os embargos de declaração tinham precípua finalidade de prequestionamento, incide na espécie a Súmula 98/STJ.
+Nesse sentido: AREsp n. 1.267.283/MG, relator Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 26/10/2022.
+5. Agravo interno desprovido.
+(AgInt no REsp n. 2.092.282/RS, relator Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, j. 26.2.2024, DJEN 1.3.2024 - destaque meu)
+PROCESSUAL CIVIL. AGRAVO INTERNO. MULTA EM EMBARGOS DE DECLARAÇÃO. INTUITO PREQUESTIONADOR. ART. 1.026, § 2º, DO CPC. AFASTAMENTO.
+1.Trata-se de Agravo Interno contra decisão que entendeu incidente a Súmula 7/STJ, em causas em que se pretende desconstituir multa protelatória aplicada em primeiros Embargos de Declaração com o fim de prequestionamento.
+2. As decisões apontadas no sentido de relativizar a Súmula 7/STJ, para revalorar os fatos da causa com o fim de enquadramento na Súmula 98/STJ, tem recebido abrigo no Superior Tribunal de Justiça.
+3. Os Embargos de Declaração visaram buscar melhores subsídios para a interposição dos excepcionais recursos. Afastado, portanto, o caráter protelatório e consequentemente a multa.
+4 Agravo Interno provido para dar parcial provimento ao Recurso Especial.
+(AgInt nos EDcl no AREsp n. 2.084.362/RS, relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, j. 13/2/2023, DJEN 17.2.2023.)
+- Do Dissídio Jurisprudencial
+Quanto à interposição do recurso especial com base no dissídio jurisprudencial, verifico que há mera indicação da alínea c do permissivo constitucional pela parte recorrente, não se desincumbindo do seu ônus de: i) indicar ao menos um acórdão paradigma em relação ao qual estaria caracterizado o dissídio jurisprudencial; ii) apresentar certidão, cópia ou citar repositório de jurisprudência; e iii) realizar o cotejo analítico entre os casos confrontados.
+Assim, não pode ser conhecido o recurso, nesse ponto, porquanto a deficiência em sua fundamentação inviabiliza a abertura da instância especial, por força do óbice constante da Súmula n. 284 do Supremo Tribunal Federal, aplicável por analogia nesta Corte, segundo a qual "é inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Espelhando tal compreensão:
+TRIBUTÁRIO. PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. RECONHECIMENTO DO PEDIDO PELA FAZENDA NACIONAL. HONORÁRIOS ADVOCATÍCIOS. DESCABIMENTO. ARTS. 18 E 19 DA LEI N. 10.522/2002. PRECEDENTES.
+(..)
+3. É inviável o conhecimento do recurso pela alínea c do permissivo constitucional na hipótese em que aplicado óbice ao conhecimento pela alínea a do permissivo constitucional, bem como quando a parte recorrente não realiza o cotejo analítico entre os julgados confrontados, sendo insuficiente a simples transcrição de ementas, ante a ausência de comprovação da divergência jurisprudencial nos moldes previstos nos arts. 1.029, § 1º, do CPC, e 255, § 1º, do RISTJ. Precedentes.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.428.399/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, j. 13.5.2024, DJEN 16.5.2024)
+PROCESSUAL CIVIL. ADMINISTRATIVO. CONTRATO TEMPORÁRIO. DEFICIÊNCIA RECURSAL. AUSÊNCIA DE PREQUESTIONAMENTO. DIVERGÊNCIA NÃO COMPROVADA. INCIDÊNCIA DA SÚMULA N. 211/STJ. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+(..)
+V - Ademais, não foi comprovada a divergência jurisprudencial, uma vez que não foi cumprido nenhum dos requisitos previstos nos arts. 1.029, § 1º, do CPC, e 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça. Nesse sentido: "Não se conhece de recurso especial interposto pela divergência jurisprudencial quando esta não esteja comprovada nos moldes dos arts. 541, parágrafo único, do CPC/73 (reeditado pelo art. 1.029, § 1º, do NCPC), e 255 do RISTJ. Precedentes" (AgInt no AREsp 1.615.607/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020).
+(..)
+VIII - Agravo interno improvido.
+(AgInt no AREsp n. 2.611.993/PE, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, j. 13.11.2024, DJEN 18.11.2024)
+Assim, tratando-se de recurso sujeito ao Código de Processo Civil de 2015, considerada a fundamentação apresentada e, embora caracterizada a hipótese de parcial provimento do recurso, resta impossibilitado o redimensionamento da verba honorária anteriormente arbitrada porquanto caracterizada hipótese de sucumbência mínima da parte recorrida, nos termos do art. 86, parágrafo único, do Código de Processo Civil de 2015.
+Posto isso, com fundamento nos arts. 932, III e V, do Código de Processo Civil de 2015 e 34, XVIII, a e c, e 255, I e III, do RISTJ, CONHEÇO PARCIALMENTE do Recurso Especial e, nessa extensão, DOU-LHE PARCIAL PROVIMENTO, para afastar a multa aplicada pelo tribunal de origem.
+Publique-se e intimem-se.
+EMENTA
