@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de JIE ZHANG - presa preventivamente e denunciada pela suposta prática de lavagem de capitais, organização criminosa e estelionato qualificado por fraude eletrônica (Processo n. 1500193-79.2022.8.26.0515 - fls. 282/324) -, em que a defesa aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que denegou a ordem no Habeas Corpus Criminal n. 2279293-30.2025.8.26.0000 (fls. 33/41 ).
+Alega-se constrangimento ilegal em razão da ausência dos requisitos previstos no art. 312 do CPP, de modo que a custódia não estaria suficientemente fundamentada em elementos concretos e contemporâneos, pois os fatos seriam de 2022.
+Aponta-se nulidade por incompetência superveniente do juízo da comarca de Rosana/SP, que decretou a custódia cautelar, uma vez que o juízo da capital não ratificou os atos praticados pelo primeiro.
+Aduz-se que os crimes não foram cometidos mediante violência ou grave ameaça. Ressalta-se as condições pessoais favoráveis e a suficiência de medidas cautelares alternativa ao cárcere.
+Sustenta-se que a p aciente é mãe de duas crianças que necessitam de seus cuidados.
+Requer-se, liminarmente e no mérito, a revogação da custódia cautelar ou a substituição por prisão domiciliar.
+Este processo foi a mim distribuído por prevenção do HC n. 1.040.633/SP.
+É o relatório.
+Inicialmente, com relação à falta de contemporaneidade e à nulidade por incompetência do juízo, observo que o acórdão impugnado não se manifestou a respeito. Assim, a análise das alegações importaria indevida supressão de instância, de modo que o writ não pode ser conhecido quanto aos pontos.
+No tocante ao fundamento utilizado para o decreto de prisão, não diviso o alegado constrangimento, pois o decreto preventivo evidenciou (fls. 295/296 e 304 - grifo nosso):
+ ..
+Conforme se pode extrair do quanto produzido em sede investigatória, existem nos autos elementos relevantes de que, em tese, YAO JI, XIANGGUO LI, LIN CHEN, JIE ZHANG, JIE WANG e RICARDO DE MORAES DAFFRE integram organização criminosa complexa e especializada na prática de estelionato e lavagem de capitais.
+Tal grupo criminoso, pelo que se apurou até o momento, teria sido responsável por um gigan tesco número de estelionatos, produzindo, portanto, vultosos prejuízos a um sem número de vítimas.
+A título exemplificativo, segundo foi apurado, as oito contas que receberam os valores ilicitamente obtidos em detrimento da vítima Itacolomy (segundo a denúncia, R$ 25.677.04) foram utilizadas para milhares de outras transações financeiras típicas de outros estelionatos, totalizando mais de R$ 1.500.000,00 (um milhão e quinhentos mil reais) em apenas sete dias (fls. 650 e 689/690).
+ ..
+Os investigados JIE ZHANG, JIE WANG, LIN CHEN, XIANGGUO LI, YAO JI e RICARDO DE MORAES DAFFRE são possivelmente o núcleo duro da organização criminosa, atuando no aliciamento dos correntistas, dissimulação da origem ilícita, manipulação de empresas de fachada, movimentação das contas até a sua reintegração entre outros, cada qual com sua respectiva atribuição dentro de uma estrutura ordenada e com tarefas específicas .
+ ..
+A Corte local manteve a segregação cautelar, afastando a alegação mandamental, nos seguintes termos (fls. 40/41 - grifo nosso):
+ ..
+Em consulta ao sistema informatizado deste E. Tribunal (DIPOL) apurou-se que todos os pacientes são primários e não registram antecedentes.
+De início, a documentação acostada aos autos não se mostrou apta a comprovar, de modo peremptório, a imprescindibilidade de que a paciente JIE ZHANG seja posta em liberdade para que possa cuidar dos filhos menores, os quais, conforme se verifica, estão sendo assistidos pelos avós.
+Outrossim, diante do panorama evidenciado nos autos, em que pese a primariedade dos pacientes, afigura-se necessária e adequada a manutenção de suas custódias cautelares com vistas à garantia da ordem pública e da ordem econômica, devendo ser ressaltado, ainda, a gravidade concreta dos delitos imputados, consistente em estelionato, lavagem de dinheiro e participação em sofisticada organização criminosa, cujos elementos coligidos nos autos apontam se tratar de uma estrutura organizada e estável, com divisão de tarefas e mecanismos avançados para ocultação de valores.
+Ressalta-se, ainda, que os pacientes teriam causado prejuízo estimado aproximado em meio bilhão de reais, onerando múltiplos indivíduos em inúmeros estados da federação por meio de golpes eletrônicos, elementos esses que, em seu conjunto, evidenciam a periculosidade por eles apresentada e a insuficiência da aplicação de medidas cautelares diversas da prisão.
+ ..
+No caso dos autos, ficou devidamente demonstrado o risco concreto de reiteração delitiva, pois, conforme afirmado pelas instâncias ordinárias, a paciente supostamente integrava organização criminosa destinada à aplicação de golpes mediante fraude eletrônica, que movi mentou vultosas quantias financeiras e atingiu diversas vítimas e vário s estados da federação. Isso demonstra o risco ao meio social e a necessidade da custódia para a garantia da ordem pública.
+Quanto ao pedido de substituição da custódia por prisão domiciliar, registre-se que o CPP (com as alterações promovidas pela Lei n. 13.769/2018) passou a prever a substituição da prisão preventiva por domiciliar à mulher gestante, mãe ou responsável por crianças ou pessoas com deficiência, desde que não tenha cometido crime com violência ou grave ameaça e o delito não tenha sido cometido o crime contra seu filho ou dependente, facultando, ainda, a aplicação de medidas cautelares (arts. 318-A e 318-B do CPP).
+Na hipótese, verifica-se que a paciente se enquadra nos termos definidos no art. 318-A do CPP, pois JIE ZHANG é responsável por dois filhos menores (documentos às fls. 73/74), não sendo caso de crime pra ticado mediante violência ou grave ameaça ou contra seu filho ou dependente.
+Em razão disso, concedo liminarmente a ordem, em parte, para substituir a prisão preventiva imposta à paciente, no Processo n. 1500193-79.2022.8.26.0515, da Vara Única da comarca e Foro de Rosana/SP, por prisão domiciliar, com monitoração eletrônica, sem prejuí zo da fixação de outras medidas cautelares, a critério do Juízo a quo.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. ESTELIONATO ELETRÔNICO. PARTICIPAÇÃO EM ORGANIZAÇÃO CRIMINOSA. LAVAGEM DE DINHEIRO. PRISÃO PREVENTIVA. AUSÊNCIA DE CONTEMPORANEIDADE. NULIDADE POR INCOMPETÊNCIA DO JUÍZO. MATÉRIAS NÃO DEBATIDAS PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. FUNDAMENTAÇÃO. GRAVIDADE CONCRETA DAS CONDUTAS DELITIVAS. RISCO DE REITERAÇÃO DELITIVA. GARANTIA DA ORDEM PÚBLICA. PRETENSÃO DE SUBSTITUIÇÃO POR PRISÃO DOMICILIAR. MÃE RESPONSÁVEL POR CRIANÇAS MENORES DE IDADE. CRIMES NÃO PRATICADOS MEDIANTE VIOLÊNCIA OU GRAVE AMEAÇA OU CONTRA SEUS DESCENDENTES. POSSIBILIDADE.
+Ordem liminarmente concedida, em parte, nos termos do dispositivo.
