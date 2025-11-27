@@ -1,0 +1,49 @@
+DECISÃO
+Cuida-se  de  conflito de  c ompetência  instaurado  entre  o  JUÍZO FEDERAL DA 1A VARA CÍVEL E CRIMINAL DE RONDONÓPOLIS - SJ/MT e o JUÍZO DE DIREITO DA 2A VARA CÍVEL DE ALTO ARAGUAIA - MT.
+Inicialmente,  o  JUÍZO DE DIREITO DA 2A VARA CÍVEL DE ALTO ARAGUAIA - MT  declinou  de  sua  competência  em  razão  dos  seguintes  fundamentos  (fls .  17-18):
+Compulsando os autos, verifica-se a hipótese de declinação de competência para o juízo da Justiça Federal, conforme a seguir demonstrado.
+No que dispõe o artigo 109, I, da Constituição Federal, compete à Justiça Federal julgar as causas em que figure como parte a União, suas autarquias ou empresas públicas federais, ressalvadas as exceções expressamente previstas no citado dispositivo. Trata-se de regra de competência absoluta, cujo fundamento é garantir a especialização e uniformização das decisões judiciais envolvendo entes federais, em razão de sua natureza jurídica e interesses públicos envolvidos.
+No caso em apreço, a parte autora objetiva a limitação dos descontos sob o fundamento do significativo comprometimento de sua renda frente às obrigações pactuadas, cujo polo passivo é composto exclusivamente pela Caixa Econômica Federal.
+Registra-se que a jurisprudência do STJ admite a competência da Justiça Estadual quando houver concurso de credores, o que não se verifica no caso concreto, pois, conforme mencionado alhures, a demanda foi proposta apenas em face da empresa pública federal, razão pela qual deve ser declarada a incompetência deste juízo.
+ ..
+Posto isso, com base na motivação supra, DECLINO DA COMPETÊNCIA para julgar e processar o feito e determino a imediata remessa dos autos à Subseção Judiciária de Rondonópolis/MT.
+Remetidos  os  autos,  o  JUÍZO FEDERAL DA 1A VARA CÍVEL E CRIMINAL DE RONDONÓPOLIS - SJ/MT  suscitou  o  presente  conflito,  defendendo  que  (fls.  25-31):
+Trata-se de ação ordinária, ajuizada por EDISIO DAVID ANICEZIO em face da CAIXA ECONÔMICA FEDERAL. A parte autora alega ser beneficiária do BPC/LOAS e encontrar-se em situação de superendividamento, em virtude da retenção integral de seus rendimentos mensais por parte da instituição financeira, decorrente de contrato de cheque especial.
+ ..
+O caso em comento cinge-se ao fato de o juízo da 2ª Vara da Comarca de Alto Araguaia/MT declarar-se incompetente para processar e julgar o feito, determinando a remessa dos autos à Subseção Judiciária de Rondonópolis/MT, sob a justificativa de que, sendo a Caixa Econômica Federal a única credora da demanda, aplicar-se-ia a competência da Justiça Federal.
+Todavia, uma análise mais aprofundada dos elementos constantes dos autos revela que tal assertiva não se sustenta integralmente.
+O art. 109, I, da Constituição da República (CF/88) estabelece que a Justiça Federal é competente para processar e julgar as causas em que a União, entidade autárquica ou empresa pública federal forem interessadas na condição de autoras, rés, assistentes ou oponentes, exceto as de falência, as de acidente de trabalho e as sujeitas à Justiça Eleitoral e à Justiça do Trabalho.
+O termo "falência" no texto constitucional refere-se a todos os procedimentos infraconstitucionais destinados ao tratamento das dívidas de um devedor com patrimônio líquido negativo, ou seja, abrange todos os procedimentos de natureza concursal.
+Nesse diapasão, o Código de Processo Civil (CPC) dispõe no art. 45, I, que os autos devem ser remetidos ao Juízo Federal competente se nele intervier a União, suas empresas públicas, entidades autárquicas e fundações, ou conselho de fiscalização de atividade profissional, exceto as ações de recuperação judicial, falência, insolvência civil e acidente de trabalho.
+Cuida-se aqui justamente de exceção à regra, porquanto o superendividamento equivale à insolvência civil, cuja competência para processar e julgar tais ações em que haja interesse da União, de entidade autárquica ou de empresa pública federal é da justiça estadual, conforme já decidiu o Supremo Tribunal Federal no Recurso Extraordinário (RE) 678162, com repercussão geral (Tema 859), senão vejamos:
+A insolvência civil está entre as exceções da parte final do artigo 109, I, da Constituição da República, para fins de definição da competência da Justiça Federal.
+Assim, o mesmo entendimento deve ser aplicado ao caso destes autos.
+Com efeito, em razão do caráter concursal dos processos de superendividamento do consumidor pessoa natural instituído pela Lei nº 14.181/2021, a competência para julgar os casos de superendividamento deve ser da Justiça Comum Estadual, não havendo motivo para deslocar processos para a Justiça Federal, ainda que uma das partes seja ente federal e ainda que figure como credora apenas a Caixa Econômica Federal.
+ ..
+Deste modo, à luz do tema 859 do STF, dada a natureza concursal das questões que envolvem superendividamento e por envolver matéria de insolvência civil, a competência será da Justiça Estadual para processar a julgar a lide independentemente da presença de entidade federal no polo passivo da ação.
+DISPOSITIVO
+Pelos fundamentos expendidos, REJEITO o declínio e suscito o CONFLITO NEGATIVO DE COMPETÊNCIA, nos termos do art. 66, parágrafo único, do CPC.
+Parecer  do  Ministério Público Federal,  às  fls.  72-75,  opinando  pela competência do JUÍZO FEDERAL DA 1A VARA CÍVEL E CRIMINAL DE RONDONÓPOLIS - SJ/MT.
+É,  no  essencial,  o  relatório.
+Com  fundamento  na  orientação  contida  na  Súmula  n.  568/STJ,  procedo  ao  julgamento  monocrático  do  conflito,  tendo  em  vista  a  existência  de  precedentes  acerca  da  questão  ora  discutida  e  a  necessidade  de  se  reduzirem  as  pautas  já  bastante  numerosas  da  Segunda  Seção.
+De início, conheço do presente conflito de competência, porquanto envolve Juízos vinculados a Tribunais distintos, nos moldes do art. 105, inciso I, alínea "d", da Constituição Federal.
+Cuida-se, na origem, de ação de limitação de descontos com base na Lei do Superendividamento interposta por EDISIO DAVID ANICEZIO contra a CAIXA ECONÔMICA FEDERAL, objetivando a limitação dos descontos efetuados no contracheque do autor.
+Nos termos do art. 109, inciso I, da Constituição Federal, compete à Justiça Federal processar e julgar "as causas em que a União, entidade autárquica ou empresa pública federal forem interessadas na condição de autoras, rés, assistentes ou oponentes, exceto as de falência, as de acidentes de trabalho e as sujeitas à Justiça Eleitoral e à Justiça do Trabalho".
+No caso específico das ações relativas à repactuação de dívidas por superendividamento, a mencionada regra só pode ser excepcionada quando o polo passivo for composto por vários credores, ainda que um ente federal figure entre eles, ocasião em que a competência será da Justiça estadual.
+Considerando que o caso dos autos não se enquadra na mencionada exceção, uma vez que não há concurso de credores entre instituições financeiras diversas e que o polo passivo é integrado apenas pela Caixa Econômica Federal, deve ser reconhecida a competência da Justiça Federal para o processamento e julgamento do feito.
+A propósito, confira-se precedente:
+PROCESSO CIVIL. AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. JUÍZO COMUM ESTADUAL E JUIZADO ESPECIAL FEDERAL. AÇÃO FUNDADA NA LEI DO SUPERENDIVIDAMENTO. LEI 14.181/2021. POLO PASSIVO COMPOSTO APENAS PELA CAIXA ECONÔMICA FEDERAL. AUSÊNCIA DE CONCURSO DE CREDORES. COMPETÊNCIA DA JUSTIÇA FEDERAL. ART. 109, I, DA CONSTITUIÇÃO FEDERAL.
+1. O art. 109, I, da CF define que é da competência da Justiça Federal o julgamento de demandas que tiverem a União, entidade autárquica ou empresa pública federal como interessadas, autoras, rés, oponentes ou assistentes, salvo as causas relativas à falência, acidentes do trabalho e as de competência da Justiça Eleitoral e da Justiça do Trabalho. Essa regra, portanto, comporta exceção - em razão da matéria - em relação às causas de falência, assim como ocorre nas demandas de repactuação de dívidas por superendividamento, quando o polo passivo é composto por vários credores, ainda que seja parte ou interessado ente federal, situação que atrai a competência da Justiça Estadual.
+2. Na hipótese de não haver, na demanda, o concurso de credores entre instituições financeiras diversas e existindo o interesse de ente federal, deve incidir o art. 109, I, da CF, com o estabelecimento da competência da Justiça Federal.
+3. Agravo interno não provido.
+(AgInt no CC n. 208.152/SP, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 3/12/2024, DJEN de 6/12/2024, grifo meu.)
+No mesmo sentido está o parecer do parquet federal (fls. 74-75):
+No que pertine à repactuação de dívidas por superendividamento, todavia, a jurisprudência dessa Corte Superior de Justiça, seguindo a tese firmada pelo Supremo Tribunal Federal no RE 678162 (tema 859), reconhece a competência da justiça estadual para julgar as demandas que tratem de insolvência civil ou equivalentes, ainda que seja parte ente federal, em razão das peculiaridades existentes no referido instituto, tais como o processo concursal, que ensejam a atuação de um juízo universal.
+No presente caso, entretanto, a demanda foi deduzida apenas em face da Caixa Econômica Federal.
+Em casos tais, a Segunda Seção desse Superior Tribunal de Justiça, por unanimidade, firmou entendimento no sentido de que, ausente o concurso de credores e existindo o interesse de ente federal, deve incidir a regra geral do art. 109, I, da CF, com o estabelecimento da competência da Justiça Federal.
+ ..
+Por todo o exposto, o Ministério Público Federal manifesta-se pela competência do Juízo Federal da 1ª Vara Cível e Criminal de Rondonópolis-SJ/MT.
+Ante o exposto, conheço do conflito para declarar a competência do JUÍZO FEDERAL DA 1A VARA CÍVEL E CRIMINAL DE RONDONÓPOLIS - SJ/MT.
+Comunique-se aos juízos suscitante e suscitado a presente decisão.
+Publique-se.  Intimem-se.
+EMENTA
