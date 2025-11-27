@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o JUÍZO FEDERAL DA 19ª VARA CÍVEL DE SÃO PAULO/SP, o suscitante, e o JUÍZO FEDERAL DA 16ª VARA CÍVEL DA SJ/DF, o suscitado, para processar e julgar o cumprimento de sentença deflagrado pelo MUNICÍPIO DE ITACAJÁ - TO em face da União.
+O Juízo suscitante declarou-se incompetente, sob o fundamento de que, "o exequente optou por ajuizar o cumprimento de sentença em face da União Federal no Distrito Federal, não sendo cabível o declínio de competência para esta Seção Judiciária" (fl. 33).
+O Ministério Público Federal, em seu parecer, opinou pela decretação de competência ao juízo suscitado.
+É o relatório. Decido.
+O presente conflito objetiva determinar a competência para processamento de cumprimento individual de sentença coletiva promovido em face da União.
+O entendimento deste Tribunal Superior é pacífico no sentido de reconhecer a faculdade de ajuizamento da ação no Distrito Federal quando o objeto constituir demanda movida contra a União, nos termos do art. 109, §2º da Constituição Federal.
+Nesse sentido:
+PROCESSUAL CIVIL. CONFLITO NEGATIVO DE COMPETÊNCIA. CUMPRIMENTO DE SENTENÇA CONTRA A UNIÃO. APLICAÇÃO DO ARTIGO 109, §2º, DA CF. PRECEDENTE DA PRIMEIRA SEÇÃO. CONFLITO CONHECIDO PARA DECLARAR COMPETENTE O JUÍZO SUSCITADO (JUÍZO FEDERAL DA 20ª VARA DO DISTRITO FEDERAL-SJ/DF)
+(CC n. 214.798/CE, relatora Ministra Maria Thereza de Assis Moura, Primeira Seção, julgado em 14/10/2025, DJEN de 17/10/2025.)
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUIZES VINCULADOS A TRIBUNAIS DIVERSOS. CUMPRIMENTO DE SENTENÇA COLETIVA CONTRA A UNIÃO (DIFERENÇAS RELATIVAS AO FUNDEF). AJUIZAMENTO NO DISTRITO FEDERAL. POSSIBILIDADE. § 2º DO ART. 109 DA CONSTITUÇÃO FEDERAL. MÁXIMA EFETIVIDADE DO DISPOSITIVO CONSTITUCIONAL. DISTINGUISHING EM RELAÇÃO AO RESP N. 1.243.887/PR, CORTE ESPECIAL, DJE 12/12/2011, PROCESSADO SOB O REGIME DO ART. 543-C DO CPC/1973. SUPERAÇÃO DO ENTENDIMENTO FIRMADO NO RESP N. 1.991.739/GO, SEGUNDA TURMA DESTA CORTE, DJE 19/12/2022. CONFLITO CONHECIDO PARA DECLARAR A COMPETÊNCIA DO JUÍZO SUSCITADO.
+ ..
+4. O caso dos autos, contudo, possui peculiaridade que o distingue do precedente obrigatório da Corte Especial no recurso repetitivo REsp 1.243.887/PR, visto que o cumprimento de sentença aqui tratado foi manejado contra a União, havendo autorizativo no § 2º do art. 109 da Constituição Federal no sentido de que as causas intentadas contra a União poderão ser aforadas no Distrito Federal, além das hipóteses de aforamento no domicílio do autor, onde houver ocorrido o ato ou fato que deu origem à demanda ou onde esteja situada a coisa.
+5. Dessa forma, pode o exequente optar por ajuizar no Distrito Federal o cumprimento de sentença coletiva contra a União, nos termos do § 2º do art. 109 da Constituição Federal, entendimento que milita a favor da máxima efetividade do dispositivo constitucional, além de ampliar/facilitar o acesso à justiça pelo credor da União.
+6. Superado o entendimento firmado no REsp n. 1.991.739/GO, Segunda Turma desta Corte, de minha relatoria, DJe 19/12/2022, ocasião em que, em caso similar, aferiu-se a competência para o processamento da execução individual de sentença coletiva contra a União apenas sob a perspectiva do REsp repetitivo 1.243.887/PR e dos dispositivos legais alegados pelo recorrente, além da limitação própria do recurso especial que não realizou, como se está a fazer no presente feito, o distinguishing entre o referido precedente obrigatório e o autorizativo do § 2º do art. 109 da Constituição Federal que elenca o Distrito Federal como opção conferida a quem litiga contra a União.
+7. Conflito de competência conhecido para declarar competente o Juízo Federal da 17ª Vara Cível de Brasília SJ/DF (suscitado).
+(CC n. 199.938/SP, relator Ministro Mauro Campbell Marques, Primeira Seção, julgado em 11/10/2023, DJe de 17/10/2023.)
+Ante o exposto, com base no art. 34, XXII, do RISTJ, conheço do conflito para declarar a competência d a 16ª VARA CÍVEL DE BRASÍLIA SJ/DF .
+Publique-se. Intimem-se.
+EMENTA
