@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu o recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE ANULAÇÃO DE ESCRITURA DE COMPRA E VENDA DE IMÓVEL CUMULADA COM REINTEGRAÇÃO DE POSSE E RESSARCIMENTO DE DANOS AJUIZADA EM FACE DA COMPRADORA, DA IRMÃ DO AUTOR, BEM COMO DO TITULAR DO REGISTRO DE IMÓVEIS. TESE AUTORAL NO SENTIDO DE QUE A VENDEDORA ESTAVA COM SUA CAPACIDADE DE DISCERNIMENTO GRAVEMENTE AFETADA NO MOMENTO DA VENDA, BEM COMO QUE A ASSINATURA APOSTA NA ESCRITURA É FALSA. SENTENÇA DE IMPROCEDÊNCIA. INCONFORMISMO DA PARTE AUTORA. DOCUMENTOS ANEXADOS AOS AUTOS QUE NÃO PERMITEM SE CONCLUIR QUE A ASSINATURA É FALSA, BEM COMO QUE A FALECIDA VENDEDORA NÃO POSSUIA CAPACIDADE DE DISCERNIMENTO PARA DECIDIR PELA VENDA DO BEM. AUTOR QUE NÃO CUMPRIU O ÔNUS DE PROVAR O FATO CONSTITUTIVO DO SEU DIREITO, VISTO QUE NÃO REQUEREU A PRODUÇÃO DAS PROVAS NECESSÁRIAS PARA TANTO. MANUTENÇÃO DA SENTENÇA DE IMPROCEDÊNCIA. Recurso conhecido e não provido.
+Nas razões de recurso especial, a parte agravante alega violação do art. 272, §§ 2º e 5º, do Código de Processo Civil. Sustenta nulidade do processo em razão da falta de intimação em nome dos advogados indicados.
+Assim posta a questão, verifico que o recurso especial não dispensa o reexame de prova. O agravante afirma que determinada comunicação processual não foi feita em nome do advogado indicado. A respeito dessa premissa fática, porém, confira-se o seguinte trecho do acórdão recorrido (fl. 1913):
+Inicialmente cumpre analisar a preliminar de nulidade de intimação suscitada. Na petição anexada às fls. 951, o autor anexa um substabelecimento, com reserva de poderes, requerendo que as futuras publicações fossem direcionadas aos patronos Moema Morcillo da Costa e Matheus Vidal Rocha. A intimação a respeito do ato ordinató rio de fls. 1378, foi enviada para a Dra. Moema Morcillo da Costa, conforme documento de fls. 1392, razão pela qual é válida.
+Não há como afastar essas conclusões em recurso especial, consoante dispõe a Súmula 7 do STJ.
+Ressalte-se que dos autos não se conclui com clareza que o pedido foi expresso quanto à necessidade da intimação no nome de ambos os advogados.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
+EMENTA
