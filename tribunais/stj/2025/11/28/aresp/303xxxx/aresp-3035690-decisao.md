@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto por MAICON JEFFERSON CORSO contra decisão proferida pelo Tribunal de Justiça do Estado do Paraná que inadmitiu recurso especial interposto com fundamento nas alíneas "a" e "c" do permissivo constitucional em oposição a acórdão proferido no julgamento da Apelação n. 000157-50.2024.8.16.0095, assim ementado (e-STJ fl. 74):
+DIREITO PENAL E PROCESSUAL PENAL. EXECUÇÃO PENAL. RECURSO DE AGRAVO. DECISÃO DE PRIMEIRO GRAU QUE INDEFERIU O PEDIDO DE DETRAÇÃO PENAL DO TEMPO EM QUE O APENADO CUMPRIU PENA EM PRISÃO DOMICILIAR E DETERMINOU A UNIFICAÇÃO DE PENAS COM A FIXAÇÃO DE REGIME FECHADO. INSURGÊNCIA DEFENSIVA. 1. ALEGAÇÃO DE NULIDADE ANTE A AUSÊNCIA DE INTIMAÇÃO PRÉVIA DA DEFESA. NÃO OCORRÊNCIA. AUSÊNCIA DE PREVISÃO LEGAL E DE DEMONSTRAÇÃO DE PREJUÍZO. 2. DETRAÇÃO PENAL DO TEMPO EM QUE O APENADO CUMPRIU PENA EM PRISÃO DOMICILIAR. INVIABILIDADE. INTERSTÍCIO TEMPORAL JÁ COMPUTADO COMO PENA CUMPRIDA DURANTE A EXECUÇÃO. 3. POSSIBILIDADE DE FIXAÇÃO DO REGIME PRISIONAL FECHADO. APENADO REINCIDENTE. POSSIBILIDADE DA FIXAÇÃO DE REGIME PRISIONAL MAIS GRAVOSO DO QUE A QUANTIDADE DE PENA REMANESCENTE PERMITE. RECURSO CONHECIDO E NÃO PROVIDO.
+No apelo nobre, o ora agravante alegou, em síntese (e-STJ fl. 99):
+Nessa linha, ao contrário do que sustenta a respeitável egrégia 5ª Câmara Criminal do Tribunal de Justiça do Estado do Paraná, a defesa entende que o período de prisão domiciliar deve ser descontado da reprimenda final, indo, portanto, de encontro com o entendimento do juízo singular.
+E a lógica é simples: a medida cautelar aqui discutida impede a locomoção do indivíduo e por consequência caso não computado esbarra-se no bis in idem no cumprimento da sanção penal. Ademais, o as hipóteses previstas no art. 42 do Código Penal não consubstanciam um rol taxativo, refutando o alegado no acórdão em cotejo.
+Ou seja, entende-se que a medida diversa da prisão a qual impediu a acautelada de sair de casa após o anoitecer e em dias não úteis assemelha-se ao cumprimento de pena em regime prisional semiaberto. Logo, não se diverge que a restrição da liberdade decorre notadamente da circunstância de o agente ser obrigado a recolher-se, igual premissa deve permitir a detração do tempo de aplicação daquela limitação cautelar, assim onde existe a mesma razão fundamental, aplica-se a mesma regra jurídica.
+O Superior Tribunal de Justiça, nos casos em que há a configuração dos requisitos do art. 312 do Código de Processo Penal, admite que a condenação em regime semiaberto produza efeitos antes do trânsito em julgado da sentença (prisão preventiva compatibilizada com o regime carcerário do título prisional). Nessa perspectiva, mostra-se incoerente impedir que a medida cautelar aplicada no caso em tela não seja computada para detração.
+Assim, a defesa entende que é descabida a justificativa emanada no acórdão em questão, principalmente no que tange a "inexistência de previsão legal". Isto porque, atualmente o SUPREMO TRIBUNAL FEDERAL já pacificou posicionamento de que o recolhimento domiciliar noturno (presente no caso em tela) pode configurar o instituto da detração penal, vez que há de maneira efetiva restrição à sua liberdade.
+Ao final, pugnou para que fosse "CONHECIDO e PROVIDO integralmente o presente Recurso Especial, no sentido de reconhecer o período em que o apenado cumpriu medidas cautelares diversas da prisão como pena cumprida (período compreendido entre 17 de dezembro de 2013 até a data de 12 de maio de 2014 dos autos nº 0001209- 04.2014.8.16.0095, por ser medida de extrema justiça e correta aplicação da lei" (e-STJ fl. 107).
+Contrarrazões apresentadas.
+Inadmitido, seguiu o recurso por meio deste agravo.
+O Ministério Público Federal opinou nos termos do parecer assim ementado (e-STJ fl. 205):
+PENAL. PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. DETRAÇÃO. RECURSO ESPECIAL COM FUNDAMENTO NO ARTIGO 105, III, "A" E "C", DA CF. REFORMA DE DECISÃO QUE INADMITIU RECURSO ESPECIAL. IMPROCEDÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO. SÚMULA Nº 182/STJ. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER PELO DESPROVIMENTO DO RECURSO.
+É o relatório.
+Decido.
+Preenchidos os requisitos de admissibilidade do agravo, passo ao exame do recurso especial.
+Todavia, não há como conhecer da tese defensiva.
+Isso, porque o Tribunal de origem, acerca da questão, afirmou que (e-STJ fl. 80, grifei):
+Quanto ao restante das alegações defensivas, em que busca a detração da pena relativa ao período em que o sentenciado permaneceu em prisão domiciliar e a manutenção do regime semiaberto, não merecem prosperar.
+Requer a Defesa a detração penal do período em que permaneceu em prisão domiciliar, entre 17/12/2013 e 12/05/2014.
+No entanto, não se vislumbra a ocorrência de qualquer desacerto na decisão que indeferiu referido pleito. Isso porque, o tempo de prisão domiciliar ora reclamado pelo agravante já fora devidamente computado em seu favor como pena efetivamente cumprida.
+Consta dos autos executórios que na data de 17/12/2013 foi realizada audiência admonitória (mov. 1.11, SEEU), momento em que o réu foi informado sobre as consequências de descumprir as condições impostas na sentença condenatória, o que evidencia que a prisão domiciliar foi cumprida durante a execução da pena, motivo que inviabiliza a concessão da detração.
+Ocorre que o recorrente não impugnou especificamente, no apelo extremo, esse fundamento do acórdão atacado, o que embaraça a compreensão da controvérsia, sendo forçoso o reconhecimento do óbice da Súmula n. 284/STF.
+Nesse sentido:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIME DE FURTO. PRINCÍPIO DA INSIGNIFICÂNCIA. REINCIDÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO. DEFICIÊNCIA NA FUNDAMENTAÇÃO QUE PREJUDICA A COMPREENSÃO DA CONTROVÉRSIA. SÚMULA 284/STF. AGRAVO NÃO CONHECIDO.
+1. A falta de impugnação específica de todos fundamentos utilizados na decisão agravada atrai a incidência do enunciado da Súmula 284 do Supremo Tribunal Federal, por analogia.
+2. Agravo regimental não conhecido. (AgRg no REsp 1608750/MG, relator Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 20/10/2016, DJe 9/11/2016.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
