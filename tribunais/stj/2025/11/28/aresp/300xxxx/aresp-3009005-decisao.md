@@ -1,0 +1,72 @@
+DECISÃO
+Trata-se de agravo manifestado pelo autor, pessoa física, contra a decisão que não admitiu o seu recurso especial, interposto em face de acórdão assim ementado (fl. 389):
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÍVIDA C/C INDENIZATÓRIA POR DANOS MATERIAIS E MORAIS. SENTENÇA DE PARCIAL PROCEDÊNCIA. RECURSO DA PARTE AUTORA. DANO MORAL. INVALIDAÇÃO DO CONTRATO DE EMPRÉSTIMO CONSIGNADO QUE NÃO ENSEJA, POR SI SÓ, DANO MORAL. AUSÊNCIA DE COMPROVAÇÃO DO ABALO SUPOSTAMENTE SOFRIDO. TESE FIRMADA PELO GRUPO DE CÂMARAS DE DIREITO CIVIL DESTA CORTE NO JULGAMENTO DO IRDR N. 5011469-46.2022.8.24.0000. PEDIDO DE CONDENAÇÃO DA PARTE RÉ AO PAGAMENTO DA INTEGRALIDADE DOS ÔNUS SUCUMBENCIAIS PREJUDICADO. HONORÁRIOS ADVOCATÍCIOS RECURSAIS EM FAVOR DA PARTE APELADA. DESPROVIMENTO DO RECURSO. HIPÓTESE QUE AUTORIZA A MAJORAÇÃO PREVISTA NO ART. 85, § 11, DO CÓDIGO DE PROCESSO CIVIL. PRESENÇA CUMULATIVA DOS REQUISITOS FIXADOS PELO SUPERIOR TRIBUNAL DE JUSTIÇA. EXIGIBILIDADE SUSPENSA. PARTE APELANTE BENEFICIÁRIA DA JUSTIÇA GRATUITA. ART. 98, § 3º, DO CÓDIGO DE PROCESSO CIVIL. RECURSO CONHECIDO E DESPROVIDO.
+Foram rejeitados os embargos de declaração opostos a esse acórdão.
+No recurso especial, alega-se que o acórdão recorrido contrariou os artigos 186, 187, 927 e 944 do Código Civil (CC/2002) porque, ignorando o princípio da reparação integral do dano, deixou de reconhecer o direito do autor de ver reparado o dano de ordem moral, decorrente de indevidos descontos de sua remuneração (benefício previdenciário), os quais foram realizados com base em contrato (empréstimo pessoal consignado) fraudulento, declarado inexistente pela justiça estadual.
+Iniciando, anoto que aborrecimentos triviais, constrangimentos comuns do dia a dia, dissabores normais e próprios do convívio social, transtornos toleráveis, contratempos característicos do conflito natural que emana das relações humanas não são suficientes para originar dano moral indenizável. Eis precedentes que ilustram esse entendimento:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DANO MORAL. MERO ABORRECIMENTO. SÚMULA 83/STJ. OFENSA À HONRA. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. É pacífica a jurisprudência desta Corte no sentido de que os aborrecimentos comuns do dia a dia, os meros dissabores normais e próprios do convívio social não são suficientes para originar danos morais indenizáveis. Incidência da Súmula 83/STJ.  .. .
+3. Agravo regimental não provido.
+(AgRg no AREsp 604.582/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 10/11/2015, DJe de 7/12/2015).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO MANTIDA. MERO ABORRECIMENTO. DANO MORAL. NÃO OCORRÊNCIA. REEXAME FÁTICO-PROBATÓRIO. ENUNCIADO 7 DA SÚMULA DO STJ. ENTENDIMENTO ADOTADO NESTA CORTE. VERBETE 83 DA SÚMULA DO STJ.
+1. O Tribunal de origem, com base nos fatos e provas dos autos, concluiu pela ocorrência de mero dissabor, afastando o dano moral.  .. .
+2. O Tribunal de origem julgou nos moldes da jurisprudência pacífica desta Corte. Incidente, portanto, o enunciado 83 da Súmula do STJ.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 432.443/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 18/02/2014, DJe 06/03/2014)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. ENVIO DE CARTÃO DE CRÉDITO SEM SOLICITAÇÃO DO CONSUMIDOR. AUSÊNCIA DE NEGATIVAÇÃO OU COBRANÇA INDEVIDA. DANOS MORAIS NÃO CONFIGURADOS. MERO ABORRECIMENTO. AGRAVO DESPROVIDO.
+1. É pacífica a jurisprudência desta Corte no sentido de que os aborrecimentos comuns do dia a dia, os meros dissabores normais e próprios do convívio social não são suficientes para originar danos morais indenizáveis. Incidência da Súmula 83/STJ.  .. .
+3. Agravo interno não provido.
+(AgInt no REsp 1655212/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 19/02/2019, DJe 01/03/2019)
+Importante acentuar também que, para a configuração do dever de indenizar o dano de índole moral, exige-se a comprovação da repercussão na esfera dos direitos da personalidade, ainda que se trate de fraude em operação bancária (empréstimo, financiamento) ou de saque/desconto indevido em conta corrente. A ver:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL. RESPONSABILIDADE CIVIL. SAQUE INDEVIDO EM CONTA CORRENTE. VALOR ÍNFIMO. RESSARCIMENTO DA QUANTIA. ABALO À HONRA NÃO DEMONSTRADO. DANO MORAL. NÃO CONFIGURAÇÃO. ACÓRDÃO RECORRIDO. CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ. INCIDÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência do STJ é no sentido de que, ausente o abalo à honra, não há que se falar em indenização por danos morais por saque indevido em conta corrente, posteriormente restituído, porquanto não se trata de dano in re ipsa. No caso, o acórdão recorrido está em conformidade com a orientação jurisprudencial do STJ. Incidência da Súmula 83/STJ.
+2. Agravo interno não provido.
+(AgInt no AREsp 1622003/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 26.10.2020)
+BANCÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DECLARATÓRIA E INDENIZATÓRIA. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO NO RECURSO ESPECIAL. SÚMULA 283/STF. DANOS MORAIS. FRAUDE BANCÁRIA. AFASTAMENTO. SÚMULA 83/STJ. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão estadual atrai, por analogia, o óbice da Súmula 283 do STF.
+2. "Nos termos da orientação firmada nesta Corte, a fraude bancária, ensejadora da contratação de empréstimo, por si só, não é suficiente para configurar o dano moral, havendo necessidade de estar aliada a circunstâncias agravantes. Precedentes" (AgInt no AREsp 2.149.415/MG, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 1º/6/2023).
+3. O Tribunal de origem concluiu que não houve fraude bancária nem prova de falha na prestação de serviço. Para alterar tais conclusões e acolher a tese de responsabilização deduzida no presente recurso, seria necessário o revolvimento de aspectos fáticos e provas dos autos, providência vedada em sede de recurso especial, a teor da Súmula 7/STJ. Precedentes.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 2.015.216/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 18/8/2025, DJEN de 22/8/2025.)
+RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS. BENEFÍCIO PREVIDENCIÁRIO. DESCONTO NÃO AUTORIZADO. ENTIDADE ASSOCIATIVA. COMPROVAÇÃO DO DANO SOFRIDO. NECESSIDADE. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Nos termos da orientação firmada no Superior Tribunal de Justiça, o desconto não autorizado em benefício previdenciário decorrente de contratação irregular com entidade associativa não é suficiente, por si só, para a caracterização do dano moral, havendo necessidade de estar aliada a circunstâncias agravantes. Precedentes.
+2. A modificação das conclusões tomadas pelas instâncias ordinárias demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, a teor do enunciado da Súmula nº 7/STJ.
+3. Recurso especial não provido.
+(REsp n. 2.207.199/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 19/5/2025, DJEN de 23/5/2025.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE FAZER COM PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA AUTORA.
+1. "A fraude bancária, ensejadora da contratação de empréstimo consignado, por si só, não é suficiente para configurar o dano moral, havendo necessidade de estar aliada a circunstâncias agravantes". (AgInt no AREsp n. 2.157.547/SC, relator Ministro Raul Araújo, Quarta Turma, julgado em 12/12/2022, DJe de 14/12/2022.).
+1.1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+1.2. Encontrando-se o aresto de origem em sintonia à jurisprudência consolidada nesta Corte, a Súmula 83 do STJ serve de óbice ao processamento do recurso especial, tanto pela alínea "a" como pela alínea "c" do permissivo constitucional.
+2. Agravo interno desprovid o.
+(AgInt no AREsp n. 2.291.548/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 5/6/2023, DJe de 14/6/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITOS CUMULADA COM DANOS MORAIS. DESCONTO INDEVIDO. BENEFÍCIO PREVIDENCIÁRIO. DANO MORAL INEXISTENTE. MERO ABORRECIMENTO. SÚMULA 83 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. A caracterização do dano moral exige a repercussão na esfera dos direitos da personalidade.
+2. Nessa perspectiva, a fraude bancária, ensejadora da contratação de empréstimo consignado, por si só, não é suficiente para configurar o dano moral, havendo necessidade de estar aliada a circunstâncias agravantes.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.157.547/SC, relator Ministro Raul Araújo, Quarta Turma, julgado em 12/12/2022, DJe de 14/12/2022.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CARTÃO DE CRÉDITO COM RESERVA DE MARGEM CONSIGNÁVEL. CONTRATAÇÃO ILEGÍTIMA. COBRANÇA INDEVIDA. DANOS MORAIS. INEXISTÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ.DECISÃO MANTIDA.
+1. Segundo a jurisprudência desta Corte Superior, a mera cobrança indevida de débitos ou o simples envio de cartão de crédito ao consumidor não geram danos morais. Precedentes.
+2. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7/STJ).
+3. No caso concreto, para alterar a conclusão do Tribunal de origem e reconhecer a existência de dano moral por causa de cobranças indevidas no cartão de crédito com reserva de margem consignável, seria imprescindível nova análise da matéria fática, inviável em recurso especial.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.110.525/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 29/8/2022, DJe de 31/8/2022.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITOS. RESTITUIÇÃO DE VALORES E INDENIZAÇÃO POR DANOS MORAIS. DESCONTO INDEVIDO. VALOR ÍNFIMO. DANO MORAL INEXISTENTE. MERO ABORRECIMENTO. CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. RECURSO DESPROVIDO.
+1. Esta Corte Superior entende que "a caracterização do dano moral exige que a comprovação do dano repercuta na esfera dos direitos da personalidade. A fraude bancária, nessa perspectiva, não pode ser considerada suficiente, por si só, para a caracterização do dano moral" (AgInt nos EDcl no AREsp 1.669.683/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 23/11/2020, DJe de 30/11/2020).
+2. O Tribunal de origem concluiu que o desconto indevido de R$ 70,00 (setenta reais) no benefício previdenciário da agravante não acarretou danos morais, considerando que foi determinada a restituição do valor, que a instituição financeira também foi vítima de fraude e que não houve inscrição do nome da agravante em cadastros de proteção ao crédito, de modo que ficou configurado mero aborrecimento.
+3. "A jurisprudência desta Corte entende que, quando a situação experimentada não tem o condão de expor a parte a dor, vexame, sofrimento ou constrangimento perante terceiros, não há falar em dano moral, uma vez que se trata de mero aborrecimento ou dissabor, mormente quando a falha na prestação de serviços, embora tenha acarretado aborrecimentos, não gerou maiores danos ao recorrente, como ocorreu na presente hipótese" (AgInt no AREsp 1.354.773/MS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 02/04/2019, DJe de 24/04/2019).
+4. Agravo interno desprovido.
+(AgInt nos EDcl no REsp n. 1.948.000/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 23/5/2022, DJe de 23/6/2022.)
+No caso, a sentença, para afastar o pedido de condenação da ré - instituição financeira - ao pagamento de indenização por danos morais, assinalou a ausência de "fundamento calcado em abalo moral concreto" (fl. 336) e alertou que, não obstante o reconhecimento da inexistência de relação jurídica válida entre as partes litigantes, tal pedido veio apoiado em argumentos genéricos, faltando demonstração de prejuízo diferente do mero dissabor.
+Confirmando a sentença, a Corte revisora acrescentou (fl. 386):
+Ora, neste caso, mesmo que invalidada a relação contratual entre as partes, mostra-se inviável cogitar um abalo moral indenizável, pois uma insatisfação pessoal da parte, por si só, à míngua de outros elementos, não pode ser erigida à categoria de dano moral. Por conseguinte, não vislumbro nenhuma ocorrência que possa ser tipificada como lesiva aos direitos da personalidade e, portanto, indenizável, o que impõe o não acolhimento do pedido de reparação em razão de danos morais.
+A meu ver, a compreensão das instâncias ordinárias não diverge da jurisprudência do Superior Tribunal de Justiça (STJ), acima demonstrada. Incide, assim, a Súmula 83/STJ.
+Ademais, penso que a reforma do acórdão recorrido demandaria reexame de matéria fática, o que é inviável em recurso especial. Nessa direção:
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. AÇÃO. DANOS MORAIS. AUSÊNCIA DE PROVA DO ABALO À HONRA. REEXAME FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. DECISÃO MANTIDA PELOS PRÓPRIOS FUNDAMENTOS.
+1. O suporte jurídico que lastreou o acórdão ora hostilizado emergiu da análise de fatos e provas pelas instâncias ordinárias. Rever os fundamentos que ensejaram esse entendimento exigiria reapreciação da situação fática, o que é vedado em sede de recurso especial, a teor da Súmula 7 do Superior Tribunal de Justiça.
+2. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 347.831/RS, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/3/2014, DJe 25/3/2014)
+Assim, aplica-se ao ponto, também, a Súmula 7/STJ.
+Em face do exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do artigo 85, § 11, do Código de Processo Civil (CPC/2015), majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da representação processual da agravada, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, ficando sob condição suspensiva a exigibilidade dessa obrigação em caso de beneficiário da gratuidade da Justiça.
+Intimem-se.
+EMENTA
