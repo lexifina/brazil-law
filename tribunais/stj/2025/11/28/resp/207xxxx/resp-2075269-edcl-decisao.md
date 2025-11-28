@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ADDSON ROBERTO FILGUEIRA DE MELO, em face da decisão monocrática de fls. 1143/1148 (e-STJ), de lavra deste signatário, que, amparada nas Súmulas 07 do STJ e 283 e 284 do STF, negou provimento ao reclamo.
+Em suas razões, o embargante aduz as mesmas razões anteriormente apresentadas, insurgindo-se, assim, com o desfecho da demanda.
+Requer, assim, a concessão de efeitos infringentes.
+Sem impugnação.
+É o relatório.
+Decido.
+Os aclaratórios não merecem acolhida.
+1. Não há, na hipótese, qualquer mácula prevista no art. 1.022 do CPC/2015 a ser sanada, porquanto todas as questões levantadas foram pontual e fundamentamente rechaçadas.
+Do relatório da decisão embargada, é possível extrair nitidamente as três súplicas:
+Sustenta, em síntese, que: a) como pode ser observado na transcrição da cláusula no acórdão, não há qualquer obrigação de que para acionamento do seguro com o objetivo de substituir a construtora seja necessária uma formalização pelos adquirentes; b) necessidade de inversão da cláusula penal moratória em favor do consumidor; e, c) ocorrência de danos morais.
+E, da fundamentação, verifica-se que as três insurgências foram individualmente apreciadas e afastadas:
+A irresignação não merece prosperar.
+1. A questão ora controvertida restou assim decidida pela Corte Regional:
+Deveras, no tocante ao atraso na obra, já explanado que: "(..) Deveras, entre a data inicialmente prevista para a entrega do imóvel, em 30/04/14, as diversas datas reprogramadas e não cumpridas até a presente data, sem que a obra reste concluída, compreende-se um atraso de mais de 4 anos. Entretanto, em janeiro de 2015, os autores instauraram junto ao MP de Pernambuco um procedimento administrativo (nº IC 010/14-17), anuindo a um Termo de Ajustamento de Conduta, em fevereiro do mesmo ano, no qual a construtora Saint Enton comprometeu-se a entregar a obra, sendo concedida prorrogação de prazo, não sendo a CAIXA parte, embora fosse notificada para prestar esclarecimentos. A referida prorrogação de prazo foi por mais 365 dias, findando em outubro de 2016. Assim, durante o prazo de prorrogação, evidentemente a CAIXA não poderia ter promovido a substituição da construtora, não podendo ser responsabilizada pelo atraso decorrente desse acordo. Em audiência ocorrida na data de 17/06/2016, a CEF, a pedido dos mutuários, deu início ao procedimento de substituição da construtora em questão, cumprindo, quando devidamente acionada, com a responsabilidade que lhe cabia."
+Assim, o atraso na obra é de responsabilidade da construtora, que não honrou com os prazos estabelecidos no TAC, prorrogação, aliás, que contou com a anuência dos mutuários.
+O arcabouço probatório apresentado aos autos comprova constante diligenciamento da CAIXA no sentido de "substituição", nos limites de sua responsabilidade, da Construtora. Não há que se falar em imediatismo na escolha e na execução de uma obra, ainda mais com o envolvimento de uma Empresa Pública que atua em defesa do interesse social.
+Conforme se depreende dos autos, foram os próprios moradores do empreendimento que acionaram o MPPE para reclamar do atraso na entrega do imóvel e, ao fazê-lo, e tendo sido firmado acordo consubstanciado no TAC referido, se submetem aos seus termos, pois lhe deram causa. Verifica-se que a ação é movida contra a Caixa, que não participou do Termo de Ajustamento firmado apenas com a Construtora Saint Enton.
+Observa-se, a partir da leitura do trecho acima transcrito, que toda a conclusão da controvérsia pelo Tribunal local foi delineada exclusivamente do contexto fático-probatório vivenciado no caso em concreto, a partir do análise do contrato, do termo de ajustamento de conduta e do comportamento das partes envolvidas.
+Por conseguinte, a alteração das premissas adotadas pela Corte de origem, inerente à eventual mora considerável da instituição financeira em cumprir suas atribuições para promover a substituição da construtora, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. SISTEMA FINANCEIRO DE HABITAÇÃO. INDENIZAÇÃO. VÍCIOS DE CONSTRUÇÃO. ILEGITIMIDADE PASSIVA DA CAIXA ECONÔMICA FEDERAL. MERO AGENTE FINANCEIRO. SÚMULAS 5 E 7 DO STJ. COMPETÊNCIA DA JUSTIÇA ESTADUAL. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. "A questão da legitimidade passiva da CEF, na condição de agente financeiro, em ação de indenização por vício de construção, merece distinção, a depender do tipo de financiamento e das obrigações a seu cargo, podendo ser distinguidos, a grosso modo, dois gêneros de atuação no âmbito do Sistema Financeiro da Habitação, isso a par de sua ação como agente financeiro em mútuos concedidos fora do SFH (1) meramente como agente financeiro em sentido estrito, assim como as demais instituições financeiras públicas e privadas (2) ou como agente executor de políticas federais para a promoção de moradia para pessoas de baixa ou baixíssima renda." (REsp 1163228/AM, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 09/10/2012, DJe 31/10/2012).
+2. A análise da pretensão recursal sobre a alegada responsabilidade do agente financeiro pela execução da obra demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos da Súmula 7 do STJ.
+3. Agravo interno não provido."
+(AgInt no AREsp 1.456.292/PE, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/08/2019, DJe de 23/08/2019)
+2. Melhor sorte não socorre os recorrentes quanto ao pedido de inversão da cláusula penal.
+No ponto, assim deliberou a Corte Regional:
+Em audiência ocorrida na data de 17/06/2016, a CEF, a pedido dos mutuários, deu início ao procedimento de substituição da construtora em questão, cumprindo, quando devidamente acionada, com a responsabilidade que lhe cabia.
+Assim, verifica-se que não há ato ilícito da ré que possa gerar indenização por danos morais, pois o atraso na obra é de responsabilidade da construtora, que não honrou com os prazos estabelecidos no TAC, prorrogação, aliás, que contou com a anuência dos mutuários.
+Pelo mesmo motivo descabe falar-se na inversão da cláusula penal para pagamento de multa de 2% e dos juros de 1% com base no valor do contrato, desde a data prevista para a entrega até a efetiva entrega das chaves.
+Primeiro, verifica-se que o comportamento da Caixa estava condicionado ao cumprimento do termo de ajuste de conduta, que contou com a anuência dos mutuários. Logo, rever o entendimento do tribunal de origem acerca das premissas firmadas com base na análise do instrumento contratual e do acervo fático-probatório dos autos atrai a incidência das Súmulas n. 5 e 7 do STJ (AgInt no AREsp n. 2.676.370/MT, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 8/9/2025, DJEN de 11/9/2025). Segundo, porque esse fundamento não foi afastado nas razões do recurso.
+Por tais motivos, incidem, aqui, as Súmulas 07 do STJ e, ainda, 283 e 284 do STF.
+3. Para a jurisprudência do STJ, "o simples inadimplemento contratual em razão do atraso na entrega do imóvel não é capaz, por si só, de gerar dano moral indenizável. Entretanto, sendo considerável o atraso, alcançando longo período de tempo, pode ensejar o reconhecimento de dano extrapatrimonial" (AgInt nos EDcl no AREsp 676.952/RJ, Relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 27/3/2023, DJe de 3/4/2023).
+No caso concreto, o Tribunal de origem analisou as provas para concluir pela inexistência de danos morais indenizáveis. Alterar esse entendimento demandaria o reexame probatório, inviável em recurso especial, nos termos da Súmula 07 do STJ.
+4. Ante o exposto, nego provimento ao recurso especial.
+Não há, portanto, qualquer vicissitude a ser sanada.
+2. Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
