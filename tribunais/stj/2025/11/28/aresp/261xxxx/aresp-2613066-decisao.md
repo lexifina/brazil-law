@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por Companhia Coreano Brasileira de Pelotização - KOBRASCO com fundamento no art. 105, III, a, da Constituição Federal, para impugnar acórdão proferido pela Quarta Câmara Cível do Tribunal de Justiça do Estado do Espirito Santo, assim ementado (e-STJ, fl. 1.134):
+AGRAVO DE INSTRUMENTO. MATÉRIA JÁ TRATADA NO AGRAVO DE INSTRUMENTO N º 024100907757. IMPOSSIBILIDADE DE COMPENSAÇÃO TRIBUTÁRIA POR MEIO DE MEDIDA LIMINAR RECONHECIDA POR ESTA CORTE. REDISCUSSÃO. IMPOSSIBILIDADE. EXIGIBILIDADE DO CRÉDITO SUSPENSA ADMINISTRATIVAMENTE. RECURSO CONHECIDO E IMPROVIDO.
+1- No presente Agravo de Instrumento a recorrente pretende modificação da decisão do magistrado a quo através da qual restou consignado que a matéria relativa à inscrição no CADIN e dos atos de cobrança do crédito tributário já teriam sido tratados no Agravo de Instrumento nº 024100907757, além de ressaltar que o crédito aqui discutido está com sua exigibilidade suspensa.
+2- Na ocasião do julgamento do Agravo de instrumento interposto pelo Estado do Espírito Santo contra a decisão proferida em 15 de novembro de 2009, que teria determinado a suspensão da exigibilidade do crédito referente à CDA nº 1721/2009, esta e. Quarta Câmara manteve a exigibilidade do crédito tributário diante da impossibilidade de ser admitida a compensação tributária por meio de medida liminar.
+3- Pela análise dos documentos juntados aos autos e das próprias alegações da parte, verifico que a matéria aqui discutida já teria sido tratada no Agravo de Instrumento nº 024100907757, além de não verificar comportamento contraditório do Estado já que teria suspendido administrativamente a exigibilidade do débito aqui tratado.
+4 Recurso conhecido e improvido.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 1.168-1.183).
+Nas razões do recurso especial (e-STJ, fls. 1.186-1.200), a insurgente apontou violação ao art. 313, V, a, do CPC/2015; e aos arts. 174, 475, 476 e 477 do Código Civil.
+Alegou que "em observância ao art. 313, inciso V, alínea "a", do CPC, é imperioso que seja determinado ao Estado que se abstenha de incluir o débito discutido no CADIN e tomar quaisquer medidas tendentes à sua cobrança, diante da pendência da análise, pela Procuradoria do Estado do Espírito Santo, do requerimento solicitando a quitação do auto de infração nº 1.998.129-1 com saldo credor próprio de ICMS" (e-STJ, fl. 1.196).
+Argumentou que "apesar de ter reconhecido a suspensão da exigibilidade do débito, o v. acórdão recorrido manteve a permissão para que o Estado incorra em atos de cobrança, com a inclusão do débito no CADIN" (e-STJ, fl. 1.197).
+Sustentou que, ao permitir a adoção da aludida medida contraditória, o acórdão recorrido incorreu em violação ao princípio de proibição ao comportamento próprio contraditório, na medida em que reconheceu a suspensão da exigibilidade do débito, mas manteve a permissão para que o Estado incorra em atos de cobrança, com a inclusão do débito no CADIN.
+Contrarrazões às fls. 1.208-1.218 (e-STJ).
+O processamento do apelo especial não foi admitido pela Corte de origem ante o entendimento de ausência de violação aos artigos indicados e pela incidência da Súmula n. 7 deste Superior Tribunal (e-STJ, fls. 1.219-1.222), o que ensejou a interposição do presente agravo (e-STJ, fls. 1.223-1.241).
+Brevemente relatado, decido.
+O recurso especial não merece ser conhecido.
+No que concerne à alegada violação ao art. 313, V, a, do CPC/2015, nota-se que, não obstante a oposição dos embargos declaratórios, a Corte de origem não enfrentou a questão, deixando de cumprir o requisito indispensável do prequestionamento.
+Em verdade, o prequestionamento ocorre quando a causa tiver sido decidida à luz da legislação federal indicada, com emissão de juízo de valor acerca dos respectivos dispositivos legais, interpretando-se sua aplicação ou não ao caso concreto, e o seu descumprimento obsta o conhecimento do recurso especial pela incidência da Súmula n. 211/STJ.
+Ilustrativamente (sem grifo no original):
+PROCESSUAL CIVIL E ADMINISTRATIVO. PENSÃO POR MORTE. COMPLEMENTAÇÃO. MATÉRIA CONSTITUCIONAL. REEXAME. INVIABILIDADE. ANÁLISE DE LEI LOCAL. IMPOSSIBILIDADE. PREQUESTIONAMENTO. AUSÊNCIA.
+1. O Tribunal de origem, com apoio nas disposições da Emenda Constitucional nº 103/2019 , entendeu incabível a complementação da pensão por morte, aplicando ao caso o art. 37, § 15, da Constituição Federal. A revisão dessa fundamentação não compete ao STJ em sede de recurso especial.
+2. Ainda que fosse possível superar tal questão, a análise das alegações da recorrente seria inviabilizada pela Súmula 280 do STF, por demandar a análise de direito local, notadamente no ponto em que a pretensão recursal se fundamenta na Lei Estadual n. 4.819/1958 e na Lei Complementar Estadual n. 200/1974.
+3. Há manifesta ausência de prequestionamento, a atrair a aplicação da Súmula 211 do STJ, quando o Tribunal de origem não emite juízo de valor sobre a tese relacionada ao dispositivo de lei supostamente violado, mesmo após opostos embargos de declaração.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.812.052/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 12/8/2025, DJEN de 21/8/2025.)
+Quanto ao alegado comportamento contraditório, a irresignação não viceja.
+Isso porque a Corte de origem, à luz das provas dos autos, apontou a inexistência do comportamento contraditório.
+Veja-se (e-STJ, fl. 1.133):
+Ademais, não observo o alegado comportamento contraditório do Estado, tendo em vista informação constante da própria decisão do magistrado primevo segundo a qual "conforme informado pelo Estado na fl. 847, o débito tributário em discussão encontra-se com a exigibilidade suspensa".
+Assim, pela análise dos documentos juntados aos autos e das próprias alegações da parte, verifico que a matéria aqui discutida já teria sido tratada no Agravo de Instrumento nº 024100907757, além de não verificar comportamento contraditório do Estado já que teria suspendido administrativamente a exigibilidade do débito aqui tratado.
+Mais adiante, quando do julgamento dos embargos declaratórios, o órgão colegiado rechaçou a tese de comportamento contraditório, assim se pronunciando (e-STJ, fl. 1.182):
+Observo, ainda, que não há a contradição alegada, já que não obstante a exigibilidade ter sido mantida no julgamento do Agravo de Instrumento nº 024100907757, o próprio Estado, independentemente da manifestação judicial, ou seja, administrativamente, suspendeu a exigibilidade do débito tributário:
+Assim, pela análise dos documentos juntados aos autos e das próprias alegações da parte, verifico que a matéria aqui discutida já teria sido tratada no Agravo de Instrumento nº 024100907757, além de não verificar comportamento contraditório do Estado já que teria suspendido administrativamente a exigibilidade do débito aqui tratado.
+Ora, tendo a Corte de origem, à luz das provas coligidas aos autos, se pronunciado pela inexistência de comportamento contraditório, é defeso a este Superior Tribunal proceder ao revolvimento do acervo fático-probatório com a finalidade de alcançar conclusão diversa. Incide, portanto, o enunciado da Súmula n. 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. 1. ART. ART. 313, V, A, DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ. 2. COMPORTAMENTO CONTRADITÓRIO. PRETENSÃO RECURSAL QUE DEMANDA O REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ. 3. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
