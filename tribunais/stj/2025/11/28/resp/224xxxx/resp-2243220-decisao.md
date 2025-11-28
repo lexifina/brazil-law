@@ -1,0 +1,82 @@
+DECISÃO
+Trata-se de recurso especial interposto por JOSIAS PAIVA INÁCIO com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO, assim ementado (fl. 200):
+PROCESSO CIVIL. APELAÇÃO NÃO CONHECIDA. CUMPRIMENTO DE SENTENÇA. DECISÃO QUE HOMOLOGOU CÁLCULOS DA CONTADORIA DO JUIZO SEM EXTINGUIR O PROCESSO. INTERPOSIÇÃO DE APELAÇÃO NO LUGAR DO AGRAVO DE INSTRUMENTO. NÃO CABIMENTO. INEXISTÊNCIA DE DÚVIDA OBJETIVA.
+1. Recurso de apelação interposto em face da decisão que homologou os cálculos apresentados pela Contadoria do Juízo e determinou a expedição de requisição para o pagamento dos valores apurados pelo contador.
+2. Em se tratando de decisão que não colocou fim ao processo, o recurso cabível seria o agravo de instrumento, conforme se depreende do teor do parágrafo único do art. 1.015 do CPC/15.
+3. A jurisprudência do STJ sempre inadmitiu a aplicação do princípio da fungibilidade recursal no caso de erro grosseiro, o que se verifica no caso em tela, vez que o impetrante interpôs apelação em fase de decisão interlocutória, cujo recurso cabível encontra-se claramente definido pelo CPC/2015, não havendo que se falar na existência de dúvida objetiva.
+4. Apelação do impetrante não conhecida.
+Embargos de declaração rejeitados (fls. 212-216).
+Contra referido acórdão fora interposto o REsp n. 1.966.371/MG, ao qual foi dado provimento, reconhecendo a violação do artigo 1.022 do CPC/15, determinando o retorno do feito à origem para sanar omissões apontadas no apelo nobre.
+O novo acórdão proferido pelo Tribunal Regional Federal da 1ª Região ficou ementado nos seguintes termos (fl. 521):
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. DEVOLUÇÃO PELO E. STJ. ACÓRDÃO ANTERIOR ANULADO. REANÁLISE DOS EMBARGOS DE DECLARAÇÃO. CONTRADIÇÃO. VÍCIO NÃO VERIFICADO. EMBARGOS REJEITADOS.
+I - O colendo Superior Tribunal de Justiça - STJ deu provimento ao Recurso Especial interposto pela parte exequente, ora embargante, e determinou o retorno dos autos à esta Corte Regional para novo julgamento dos embargos de declaração, objetivando a manifestação específica acerca da inexistência de erro grosseiro na interposição de recurso de apelação em fase da decisão que julga a impugnação ao cumprimento de sentença.
+II - Nos termos do art. 1.022 do Código de Processo Civil - CPC, cabem embargos de declaração para suprir omissão, esclarecer obscuridade e eliminar contradição, bem como para correção de erro material.
+Pertinente observar, outrossim, que a contradição que autoriza a oposição de embargos de declaração é aquela verificada internamente ao julgado, e não a constatada entre os argumentos apresentados pelas partes e os fundamentos adotados no acórdão.
+III - No caso dos autos, o acórdão embargado não padece de qualquer vício que autorize a oposição de embargos de declaração, porquanto declinado fundamento claro e suficiente, por si só, para a solução da demanda.
+IV - Se a parte embargante não concorda com a conclusão a que esta 2ª Turma chegou por ocasião do julgamento do apelo, deve interpor os recursos cabíveis, dirigidos às instâncias superiores, para tentar obter a reforma do acórdão, que, repita-se, não é possível na via dos embargos de declaração.
+V - Embargos de declaração rejeitados.
+A parte recorrente aponta dissídio jurisprudencial, além de violação aos artigos abaixo relacionados, sob os seguintes argumentos (fls. 538-552):
+(a) Arts. 489, §1º, IV; 1.022, II; e 1.025, do CPC/2015 - Alega negativa de prestação jurisdicional, afirmando que o Tribunal não enfrentou pontos essenciais ao rejulgar os embargos de declaração, especialmente quanto à inexistência de erro grosseiro e à falta de dúvida objetiva que afastaria a fungibilidade recursal. Invoca também o prequestionamento ficto previsto no art. 1.025.
+(b) Art. 203, §1º, do CPC/2015 - Sustenta que a decisão que determina a expedição do requisitório e o arquivamento imediato da execução tem natureza de sentença, pois extingue o processo, motivo pelo qual o recurso adequado seria a apelação. Afirma que, nas execuções contra a Fazenda Pública, o procedimento se encerra com a ordem de pagamento e cita precedente que reconhece natureza de sentença quando há homologação dos cálculos, expedição do requisitório e encerramento da fase executiva.
+(c) Art. 203, §1º, do CPC/2015 e princípio da fungibilidade - Alega divergência jurisprudencial sobre a natureza da decisão e a possibilidade de fungibilidade, argumentando que a decisão é ambígua, pois apreciou a impugnação ao cumprimento de sentença, determinou a expedição do requisitório e ordenou o arquivamento. Cita precedente que admite a fungibilidade quando o equívoco decorre de atos judiciais ou cartorários.
+Sem contrarrazões .
+Juízo positivo de admissibilidade às fls. 563-564.
+O Ministério Público Federal opinou pelo parcial conhecimento e provimento do recurso especial (fls. 582-592).
+É o relatório. Passo a decidir.
+Consigne-se que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade conforme nele previsto, nos termos do Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, afasta-se a alegada violação do artigo 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+Da mesma forma, afasta-se a alegada afronta ao artigo 489, § 1º, IV, do CPC/2015, pois o acórdão impugnado ampara-se em fundamentação jurídica suficiente, que condiz com a resolução do conflito de interesses apresentado pelas partes, havendo pertinência entre os fundamentos e a conclusão do que foi decidido. A aplicação do direito ao caso, ainda que através de solução jurídica diversa da pretendida por um dos litigantes, não induz negativa ou ausência de prestação jurisdicional.
+Quanto à questão de fundo, registra-se que de acordo com a jurisprudência desta Corte Superior, "se houve homologação dos cálculos, ordem para expedição dos ofícios requisitórios e expresso encerramento da fase de cumprimento de sentença, proferiu-se sentença. O art. 203, § 1º, do CPC/2015 caracteriza essa decisão como o "pronunciamento por meio do qual o juiz  ..  põe fim à fase cognitiva do procedimento comum, bem como extingue a execução". E, se é de sentença que se trata, o recurso cabível é a Apelação (art. 1.009 do CPC//2015)" (REsp 1.855.034/PA, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, julgado em 03/03/2020, D Je 18/05/2020, grifei).
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO CIVIL. VIOLAÇÃO AO ART. 1.022 DO CPC NÃO CONSTATADA. DECISÃO QUE, AO HOMOLOGAR OS CÁLCULOS E ORDENAR A EXPEDIÇÃO DOS PRECATÓRIOS, ENCERRA A FASE DE CUMPRIMENTO DE SENTENÇA, É CARACTERIZADA COMO SENTENÇA, SENDO IMPUGNÁVEL POR MEIO DE RECURSO DE APELAÇÃO. INAPLICABILIDADE DO PRINCÍPIO DA FUNGIBILIDADE RECURSAL EM RAZÃO DE ERRO GROSSEIRO. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE SUPERIOR. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Tendo a Corte de origem motivado adequadamente a sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, não há que se afirmar omissão do julgado apenas pelo fato deste não ter correspondido ao postulado pela parte insurgente.
+1.1. Na hipótese, o Tribunal de origem, ao manter o posicionamento da decisão monocrática anterior, pronunciou-se acerca das questões necessárias para infirmar a conclusão adotada, atendo-se aos argumentos recursais que lhe foram submetidos para apreciação.
+1.2. O princípio da fungibilidade nem sequer foi suscitado nas razões do agravo interno interposto, não sendo possível alegar, na via eleita, omissão do julgado quanto a matéria que nem chegou a ser submetida à reapreciação pelo colegiado de origem.
+2. Quanto ao mérito, a decisão proferida nos autos do cumprimento de sentença, ao acolher os pedidos formulados, homologou os cálculos, ordenou a expedição dos precatórios respectivos e, ao final, determinou o arquivamento do processo com baixa na distribuição.
+2.1. Com efeito, o Superior Tribunal de Justiça possui firme orientação jurisprudencial no sentido que se, "se houve homologação dos cálculos, ordem para expedição dos ofícios requisitórios e expresso encerramento da fase de cumprimento de sentença, trata-se de sentença, que, na forma do art. 203, § 1º, do CPC/2015, é o "pronunciamento por meio do qual o juiz  ..  põe fim à fase cognitiva do procedimento comum, bem como extingue a execução". E, se é de sentença que se trata, o recurso cabível é a Apelação" (REsp n. 1.855.034/PA, relator Ministro Herman Benjamin, Segunda Turma, julgado em 3/3/2020, DJe de 18/5/2020), configurando erro grosseiro a interposição do agravo de instrumento, não amparado pelo princípio da fungibilidade recursal.
+3. Agravo interno desprovido (AgInt no AREsp n. 2.824.168/AL, relator Ministro Marco Aurélio Bellizze, Segunda Turma, julgado em 14/5/2025, DJEN de 20/5/2025.)
+PROCESSUAL CIVIL. O RECURSO CORRETO CONTRA A DECISÃO QUE HOMOLOGA CÁLCULO E DETERMINA A EXPEDIÇÃO DE RPV É A APELAÇÃO.
+1. Entende esta Corte Superior que "o recurso cabível contra a decisão que homologa os cálculos e determina a expedição de requisição de pequeno valor ou precatório, declarando extinta a execução, é o de apelação" (REsp n. 1.902.533/PA, relator Ministro Og Fernandes, Segunda Turma, julgado em 18/5/2021, DJe de 24/5/2021).
+2. Agravo interno provido (AgInt no AREsp n. 2.074.532/PA, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 29/8/2022, DJe de 5/9/2022.)
+No caso, entretanto, o Tribunal de origem concluiu que ainda não houve extinção da execução. Confira-se (fls. 195-197, grifei):
+De início, importante salientar que o impetrante interpôs recurso de apelação contra a decisão que homologou os cálculos apresentados pela Contadoria do Juízo e determinou a expedição da requisição para pagamento dos valores apurados às fls. 213/216.
+Todavia, referida decisão que apreciou a impugnação ao cumprimento de sentença de fls. 202/206, não extinguiu o processo ou a fase executiva, possuindo, pois, natureza de decisão interlocutória e não de sentença, à luz do art. 203, §§ 1º e 2º do CPC/2015:
+ ..
+E, nesse caso, o art. 1.015 do CPC/2015 é taxativo ao dispor que o recurso cabível em face de decisões interlocutórias proferidas na fase de liquidação de sentença ou de cumprimento de sentença no processo de execução é o agravo de instrumento, verbis:
+"Art. 1.015. Cabe agravo de instrumento contra as decisões interlocutórias que versarem sobre:
+I - tutelas provisórias;
+II- mérito do processo;
+III - rejeição da alegação de convenção de arbitragem;
+IV - incidente de desconsideração da personalidade jurídica;
+V - rejeição do pedido de gratuidade da justiça ou acolhimento do pedido de sua revogação;
+VI- exibição ou posse de documento ou coisa;
+VII - exclusão de litisconsorte;
+VIII - rejeição do pedido de limitação do litisconsórcio;
+o IX - admissão ou inadmissão de intervenção de terceiros;
+X - concessão, modificação ou revogação do efeito suspensivo aos embargos à execução;
+XI - redistribuição do ônus da prova nos termos do art. 373, 4 1";
+XII - (VETADO);
+XIII - outros casos expressamente referidos em lei.
+Parágrafo único. Também caberá agravo de instrumento contra decisões interlocutórias proferidas na fase de liquidação de sentença ou de cumprimento de sentença, no processo de execução e no processo de inventário. (sem grifos no original)
+Assim, em se tratando de decisão que não pôs fim ao processo, o recurso cabível seria o agravo de instrumento, conforme se depreende do teor do parágrafo único do art. 1.015 do CPC/2015.
+Importante salientar que a jurisprudência do STJ sempre inadmitiu a aplicação do princípio da fungibilidade recursal no caso de erro grosseiro, o que se verifica no caso em tela, vez que o impetrante interpôs apelação em face de decisão interlocutória, cujo recurso cabível encontra-se claramente definido pelo CPC/2015, não havendo que se falar na existência de dúvida objetiva.
+Dessa forma, a irresignação recursal do impetrante/apelante encontra-se em desconformidade como o parágrafo único do art. 1.015 do CPC/2015, o que impede o conhecimento do recurso interposto às fls. 226/229.
+Como se vê, o acórdão recorrido se encontra em conformidade com a jurisprudência desta Corte Superior segundo a qual a decisão que resolve impugnação ao cumprimento de sentença e extingue a execução deve ser atacada por meio de recurso de apelação, enquanto aquela que julga o mesmo incidente, mas sem extinguir a fase executiva, deve ser combatida por meio de agravo de instrumento.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. HOMOLOGAÇÃO DOS CÁLCULOS. ORDEM DE EXPEDIÇÃO DE RPV. RECURSO CABÍVEL: APELAÇÃO. PRECEDENTES.
+1. No caso, em nova análise, evidencia-se que o Juiz na origem apenas resolveu um incidente na fase de execução de sentença, sem por fim a execução. Assim, diante da natureza interlocutória, a ele se aplica a regra de recorribilidade das interlocutórias prevista no art. 1.015, Parágrafo Único, do CPC/15.
+3. Agravo interno provido (AgInt no AREsp 2.569.918/MA, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 6/5/2025, REPDJEN de 23/5/2025, DJEN de 13/05/2025).
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. DECISÃO QUE EXTINGUE A EXECUÇÃO. RECURSO CABÍVEL. APELAÇÃO. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ. PROVIMENTO NEGADO.
+1. Inexiste a alegada violação aos arts. 489 e 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, segundo se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade. Destaca-se que julgamento diverso do pretendido, como neste caso, não implica ofensa aos dispositivos de lei invocados.
+2. A decisão que resolve impugnação ao cumprimento de sentença e extingue a execução deve ser atacada em recurso de apelação, enquanto aquela que julga o mesmo incidente, mas sem extinguir a fase executiva, deve ser combatida por meio de agravo de instrumento. Inviabilidade da incidência do princípio da fungibilidade recursal por se tratar de erro grosseiro.
+3. Agravo interno a que se nega provimento (AgInt no AgInt no AREsp n. 1.943.657/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 29/4/2024, DJe de 3/5/2024.)
+Assim, não é possível a incidência do princípio da fungibilidade recursal, por se tratar de erro grosseiro. Nesse sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. DECISÃO EXTINGUINDO O FEITO. RECURSO CABÍVEL. APELAÇÃO.
+1. Não há violação do art. 1.022 do CPC/2015 quando o Tribunal de origem se manifesta de forma clara, coerente e fundamentada sobre as teses relevantes à solução do litígio.
+2. Segundo a jurisprudência do STJ, "a decisão que resolve Impugnação ao Cumprimento de Sentença e extingue a execução deve ser combatida por meio de Apelação, enquanto aquela que julga o mesmo incidente, mas sem extinguir a fase executiva, por meio de Agravo de Instrumento. É firme, também, o entendimento de que, em ambas as hipóteses, não é aplicável o princípio da fungibilidade recursal" (REsp 1.803.176/SP, rel. Ministro HERMAN BENJAMIN, Segunda Turma, julgado em 09/05/2019, DJe 21/05/2019). Precedentes.
+3. A conformidade do acórdão recorrido com a jurisprudência desta Corte Superior enseja a aplicação do óbice de conhecimento estampado na Súmula 83 do STJ.
+4. Agravo interno desprovido (AgInt no REsp n. 2.011.707/PR, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 12/12/2022, DJe de 27/1/2023.)
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. CUM PRIMENTO DE SENTENÇA. DECISÃO QUE HOMOLOGOU CÁLCULOS DA CONTADORIA DO JUIZO SEM EXTINGUIR O PROCESSO. RECURSO CABÍVEL. AGRAVO DE INSTRUMENTO. PRINCÍPIO DA FUNGIBILIDADE. INAPLICABILIDADE. PRECEDENTES. RECURSO ESPECIAL NÃO PROVIDO.
