@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo interposto por LUCIA DALVA MOREIRA DE SOUSA contra decisão que não admitiu recurso especial manejado, com base na alínea "a" do inciso III do art. 105 da Constituição Federal, contra acórdão assim ementado (fl. 50):
+AGRAVO INTERNO INTERPOSTO EM FACE DE DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO RECURSO DE AGRAVO DE INSTRUMENTO. DECISÃO AGRAVADA QUE INDEFERIU A PRODUÇÃO DE PROVA PERICIAL. HIPÓTESE NÃO CONTEMPLADA NO ROL DO ARTIGO 1.015 DO CPC. AUSÊNCIA DE URGÊNCIA. DECISÃO ORA AGRAVADA INTERNAMENTE QUE SE ENCONTRA DEVIDAMENTE FUNDAMENTADA. AUSÊNCIA DE ELEMENTOS NO AGRAVO INTERNO QUE INFIRMEM A DECISÃO MONOCRÁTICA. MANUTENÇÃO DA DECISÃO GUERREADA. RECURSO CONHECIDO E NÃO PROVIDO.
+Os embargos de declaração opostos foram rejeitados (fls. 68-70).
+Nas razões do recurso especial, a parte recorrente alega, em síntese, que o acórdão recorrido violou os arts. 357, 369, 370 e 464, todos do Código de Processo Civil de 2015.
+Sustenta violação do art. 357 do CPC/2015 por ausência de saneamento do feito, afirmando que não foram delimitadas as questões de fato e de direito sobre as quais recairia a atividade probatória, o que impediria a adequada instrução e justificaria a intervenção desta Corte para determinar a prolação de despacho saneador.
+Aduz afronta aos arts. 369 e 370, todos do CPC/2015, com fundamento em cerceamento de defesa, porquanto requereu a produção de prova pericial contábil e de avaliação do imóvel, demonstrando sua pertinência e necessidade, e a decisão indeferiu provas sem fundamentação específica.
+Defende ofensa ao art. 464 do CPC/2015, afirmando que as questões técnicas relativas ao valor real do imóvel e ao correto valor da dívida demandam conhecimento especializado, indispensável à solução da controvérsia, de modo que o indeferimento da perícia implicaria prejuízo à busca da verdade e à ampla defesa.
+Argumenta, ainda, que incide a tese da taxatividade mitigada do art. 1.015 do CPC/2015 (Tema 988), ante a urgência decorrente da inutilidade do julgamento da questão apenas em apelação, porque o processo pode ser sentenciado sem a produção de prova considerada essencial pela recorrente, o que justificaria o conhecimento do agravo de instrumento na origem.
+A não admissão do recurso na origem ensejou a interposição do presente agravo.
+Decorreu o prazo sem apresentação de impugnação.
+Assim delimitada a questão, satisfeitos os requisitos de admissibilidade do agravo, dele conheço, passando à análise do recurso especial.
+O recurso não merece prosperar.
+Originariamente, trata-se de tutela antecipada requerida em caráter antecedente visando suspender leilão extrajudicial de imóvel, sob o fundamento de vícios no edital, descrição incompleta do bem, ausência de avaliação prévia e divergência quanto ao valor da dívida, com pedidos de nulidade dos leilões, nova avaliação judicial e, subsidiariamente, restituição da diferença entre o valor do imóvel e o valor da dívida.
+A decisão interlocutória indeferiu a produção de prova pericial contábil e de avaliação do imóvel.
+O Tribunal de origem conheceu e negou provimento ao agravo interno, destacando que a decisão saneadora que indeferiu a perícia não se enquadra no rol do art. 1.015 do CPC, não havendo urgência para a mitigação prevista no Tema 988, mantendo o não conhecimento do agravo de instrumento. Confira-se:
+Constata-se que a agravante pretende ver a matéria já decidida novamente julgada, eis que repete os argumentos trazidos à baila no agravo de instrumento. Com efeito, o recurso deve ser conhecido e não provido, como se verá a seguir.
+A decisão agravada apreciou de forma clara a questão. Tanto é assim que ressalta que a decisão saneadora que deixa de delimitar as questões sobre as quais recairá a atividade probatória e que indefere a produção de prova pericial não foi contemplada em nenhum dos incisos do rol constante do artigo 1.015 do Código de Processo Civil, não havendo urgência a justificar a mitigação da taxatividade do rol do referido artigo para admitir a interposição do agravo de instrumento na hipótese.
+Destacou-se, ainda, a aplicabilidade da tese firmada pelo Superior Tribunal de Justiça, por ocasião do julgamento dos REsp nº 1.696.396 e R Esp nº 1.704.520, paradigmas do Tema nº 988, a respeito da "taxatividade mitigada", no presente caso concreto, haja vista que não se verifica hipótese de urgência a justificar a sua excepcional admissibilidade.
+Portanto, a decisão agravada se encontra devidamente fundamentada, sendo que o julgamento se deu conforme jurisprudência no sentido do não cabimento do recurso de agravo de instrumento, como bem destacou a própria decisão agravada. Sendo assim, a hipótese é de não conhecimento do recurso de agravo de instrumento, o que autoriza o julgamento monocrático, conforme disposição legal prevista no artigo 932, III, do CPC, não se justificando a alteração da decisão recorrida  ..  (fl. 51).
+Quanto à alegada violação do art. 1.015 do CPC/2015, verifica-se que o Tribunal de origem decidiu a questão em consonância com o entendimento consolidado na jurisprudência do Superior Tribunal de Justiça, uma vez que, embora de taxatividade mitigável, o rol do art. 1.015 do CPC/2015 é exaustivo não admitindo agravo de instrumento contra decisão interlocutória sobre produção de prova, salvo quando houver urgência decorrente da inutilidade do julgamento da questão no recurso de apelação, o que não se verifica no caso concreto. Confiram-se:
+DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. PRODUÇÃO ANTECIPADA DE PROVA. CABIMENTO DE RECURSO. RECURSO DESPROVIDO.
+I. Caso em exame
+1. Agravo de instrumento interposto contra decisão que deferiu a produção antecipada de prova pericial de engenharia, com base nos arts. 381 e 382 do CPC, em ação ajuizada por companhia seguradora para demonstrar erro de projeto e/ou execução em sinistro envolvendo pilares de concreto de uma ponte.
+2. O Tribunal de Justiça não conheceu do agravo de instrumento, fundamentando que o rol do art. 1.015 do CPC é exaustivo e não contempla agravo contra decisões interlocutórias sobre produção de prova, salvo indeferimento total da produção pleiteada.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se é cabível agravo de instrumento contra decisão interlocutória que defere a produção antecipada de prova pericial, à luz da tese de taxatividade mitigada do art. 1.015 do CPC.
+III. Razões de decidir
+4. O rol do art. 1.015 do CPC é exaustivo, embora de taxatividade mitigável, não admitindo agravo de instrumento contra decisão interlocutória sobre produção de prova, salvo em casos de indeferimento total.
+5. A tese de taxatividade mitigável permite agravo de instrumento apenas quando houver urgência decorrente da inutilidade do julgamento da questão no recurso de apelação, o que não se verifica no caso concreto.
+6. A decisão recorrida está alinhada ao entendimento do Superior Tribunal de Justiça, que não admite agravo de instrumento em situações que não apresentem urgência.
+IV. Dispositivo 7. Recurso desprovido.
+(AREsp n. 1.916.434/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 29/9/2025, DJEN de 2/10/2025.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS, ESTÉTICOS, BIOLÓGICOS E MATERIAIS. ERRO MÉDICO. VIOLAÇÃO DO ART. 1.022 DO NCPC. INOCORRÊNCIA. AGRAVO DE INSTRUMENTO. ART. 1.015 DO NCPC. TAXATIVIDADE MITIGADA. CASO CONCRETO. PRODUÇÃO DE PROVA. AGRAVO INCABÍVEL.
+1. Inexistem omissão, contradição ou obscuridade, vícios elencados no art. 1.022 do NCPC, sendo forçoso reconhecer que a pretensão recursal ostentava caráter nitidamente infringente, visando rediscutir matéria que já havia sido analisada pelo acórdão vergastado.
+2. O rol do art. 1.015 do NCPC é de taxatividade mitigada, viabilizando-se o manejo de agravo de instrumento na hipótese em que evidenciada a urgência oriunda da inutilidade da questão em apelação.
+3. A decisão interlocutória que versa sobre a substituição do perito não enseja agravo de instrumento.
+4. Recurso especial não provido.
+(REsp n. 2.199.822/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 7/4/2025, DJEN de 10/4/2025.)
+Alterar a conclusão a que chegou o Tribunal de origem, no que se refere à ausência de urgência a justificar a mitigação da taxatividade do rol do referido artigo para admitir a interposição do agravo de instrumento na hipótese, demandaria, necessariamente, o reexame de fatos e provas, inviável em recurso especial, a teor do disposto na Súmula 7/STJ.
+Quanto ao mais, verifico que os arts. 357, 369, 370 e 464, todos do Código de Processo Civil/2015, supostamente violados, não foram objeto de discussão no Tribunal de origem, em virtude do não conhecimento do agravo de instrumento, o que inviabiliza o conhecimento do recurso especial, nesse aspecto, por falta de prequestionamento, a teor das Súmulas 282 e 356 do STF.
+Em face do exposto, conheço do agravo e não conheço do recurso especial.
+Intimem-se.
+EMENTA
