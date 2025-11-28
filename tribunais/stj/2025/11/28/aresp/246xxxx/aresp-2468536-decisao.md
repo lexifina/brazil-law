@@ -1,0 +1,77 @@
+DECISÃO
+Trata-se de recursos especiais que se insurgem contra os acórdãos proferidos pelo Tribunal de Justiça do Estado de São Paulo (TJSP) em relação a cada um dos agravos internos interpostos pelos réus diante do indeferimento da gratuidade judiciária, cujas ementas tem as seguintes redações:
+Agravo de Excel (fl. 11.998):
+AGRAVO INTERNO contra decisão que indeferiu o pedido de gratuidade processual e determinou o recolhimento do preparo em apelação. Ausência de fato ou fundamento sólido e suficiente para a alteração do decidido. Pedido de diferimento de custas: descabimento. Não se aplica, na espécie, o disposto no artigo 23-B da Lei nº 14.230/21, tendo em vista que a decisão agravada e os outros recursos foram interpostos antes da vigência da nova legislação. Inteligência do art. 14 do CPC/15 que preserva os atos jurídicos praticados. RECURSO DESPROVIDO.
+Agravo de Francisco (fl. 12.041):
+AGRAVO INTERNO contra decisão que indeferiu o pedido de gratuidade processual e determinou o recolhimento do preparo em apelação. Ausência de fato ou fundamento sólido e suficiente para a alteração do decidido. AGRAVO DESPROVIDO.
+Agravo de Aluísio (fl. 12.273):
+AGRAVO INTERNO contra decisão que indeferiu o pedido de gratuidade processual e determinou o recolhimento do preparo em apelação. Ausência de fato ou fundamento sólido e suficiente para a alteração do decidido. AGRAVO DESPROVIDO.
+Os embargos de declaração opostos foram rejeitados (fls. 12053/12057, 12.287/12.290).
+Nas razões de seu recurso especial às fls. 12.205/12.219, a Excel Comunicação Integrada Ltda. alega violação dos arts. 10, 1.022, I, e 98, § 5º, do Código de Processo Civil (CPC), além do art. 23-B da Lei de Improbidade Administrativa (LIA).
+Sustenta obscuridade e omissão no enfrentamento dos documentos apresentados e dos pedidos subsidiários de redução, rateio e parcelamento do preparo, além da prolação de decisão surpresa.
+Aponta a possibilidade de concessão de gratuidade parcial, restrita ao preparo da apelação, diante do valor extremamente elevado e da inatividade empresarial desde 2014, impedindo o exercício do direito de recorrer.
+Pede a dispensa do preparo no recurso especial, tratando-se o art. 23-B da LIA de norma processual de aplicação imediata, que afasta adiantamento de custas, preparo e despesas nas ações de improbidade.
+Nas razões de seu recurso especial às fls. 12.083/12.105, Francisco Pereira de Sousa alega violação dos arts. 3º, 98, § 1º, VIII, 99, §§ 2º e 3º, 489, § 1º, e 1.022, parágrafo único, II, do CPC, 6º da LINDB e 23-B e 23, § 5º, da LIA.
+Sustenta omissão e fundamentação genérica no acórdão que indeferiu a gratuidade, estabelecendo o art. 23-B da LIA o diferimento no pagamentos das custas.
+Assevera que, como pessoa natural, sua declaração de hipossuficiência goza de presunção, enfatizando perceber renda mensal no valor de R$ 2.200,00.
+Finaliza dizendo da prescrição intercorrente, por ter decorrido prazo superior a quatro anos entre o ajuizamento da ação e a prolação da sentença.
+Nas razões do seu recurso às fls. 12.297/12.313, Aloisio Ribeiro da Cruz alega violação dos 489, § 1º, inciso IV, e 1.022, II, 1.025, 98 e 99, §§ 3º e 4º, do Código de Processo Civil.
+Sustenta a negativa de prestação jurisdicional e a deficiência de fundamentação acerca dos elementos econômico-financeiros por ele demonstrados a justificar o benefícios da gratuidade judiciária.
+Afirma que, como pessoa natural, apresentou documentação idônea e goza da presunção de hipossuficiência, sendo indevido o indeferimento da gratuidade sem análise acurada da condição econômica diante do elevado valor do preparo 3.000 UFESPs ou R$ 87.270,00.
+Argumenta que os elementos suscitados nos embargos de declaração devem ser considerados prequestionados diante da manutenção da omissão.
+Finaliza dizendo da utilização de razões padronizadas e genéricas, sem individualizar rendimentos, bens e despesas, o que inviabiliza o exame da gratuidade e do diferimento de preparo em apelação.
+Foram apresentadas contrarrazões às fls. 12.128/12163 (recurso de Francisco), 12.223/12.251 (recurso de Excel), e 12.331/12.362 (recurso de Aluísio).
+Os recursos não foram admitidos na origem (fls. 12379/12382,12383/12384 e 12388/12389), razão da interposição dos agravos ora examinados.
+É o relatório.
+As decisões de admissibilidade foram suficientemente refutadas nas petições de agravo e, por isso, passo ao exame dos três recursos especiais.
+Os recursos especiais devolvem, em suma, as seguintes questões: (a) negativa de prestação jurisdicional; (b) possibilidade de concessão de gratuidade parcial, restrita ao preparo da apelação, diante do valor extremamente elevado do preparo e da inatividade empresarial desde 2014, impedindo o exercício do direito de recorrer; (c) dispensa do preparo consoante o art. 23-B da LIA; (d) prescrição intercorrente.
+Supero a alegação de negativa de prestação jurisdicional, ressaltando que, no mérito, os recursos especiais merecem provimento no tocante à gratuidade judiciária.
+Primeiramente, solidificou-se nesta Corte Superior a compreensão de que o art. 23-B da LIA, inserido pela Lei 14.230/2021, restringe-se aos autores da ação por improbidade, não se podendo, assim, reconhecer a sua afronta, máxime o acórdão ter claramente afastado a sua incidência com base no isolamento dos atos processuais, pois o recurso foi interposto ainda antes da Lei 14.230/2021.
+Por outro lado, e aqui limito-me ao recurso interposto por Francisco, as questões ligadas ao mérito ou prejudiciais a ele, notadamente a relativa à prescrição, deverão ser examinadas quando do julgamento dos recursos de apelação, não se podendo agora sobre elas avançar por manifesta ausência de prequestionamento.
+Por isso, do recurso especial de Francisco conheço apenas em parte.
+No tocante à gratuidade, razão assiste a todos os recorrentes.
+Em relação à Excel, a corré alegou estar em inatividade desde 2014 e, segundo se extrai dos fundamentos do acórdão, a informação foi devidamente comprovada, já que o Tribunal local não a contrasta, senão alega não influir no deferimento do benefício.
+A propósito, assim se manifestou o acórdão recorrido (fl. 12.006):
+ ..  não há, de fato, prova inequívoca de que a apelante Excel Comunicação Integrada Ltda. não esteja em condições de suportar os encargos processuais, ainda que momentaneamente, de modo a autorizar a concessão da benesse legal. Com efeito, a mera declaração de inatividade, por si só, não é suficiente para comprovar a hipossuficiência econômico-financeira da apelante Excel. Não obstante os documentos de fls. 8404/8414, não se verifica dos autos que a apelante Excel Comunicação Integrada Ltda. tenha sido liquidada de fato, nem se evidencia que da liquidação não tenha sido aferido qualquer ativo, sobretudo quanto aos valores indicados no documento de fls. 1088/1092.
+Houvesse a liquidação da sociedade, os ativos teriam sido transferidos, pois voltada à quitação das obrigações contraídas e divisão do remanescente, deixando a sociedade de existir por deliberação dos sócios após a prestação de contas (realização do ativo, pagamento do passivo e rateio das sobras).
+Assim, estando inativa e não possuindo bens declarados, não se poderia mais exigir da parte a evidenciar a sua situação de precariedade financeira.
+O valor do preparo, ademais, é bastante relevante, exigindo-se dos recorrentes a disponibilidade de quase R$ 90.000,00, valor que representaria um quinto do capital social da empresa, que, ademais, encontra-se inativa, elementos de convicção relevantes à concessão do benefício pretendido.
+No tocante aos demais corréus, o Tribunal local não indeferiu o pedido de gratuidade com base em elementos concretos constantes nos autos, ao menos isso não se colhe dos fundamentos do aresto.
+Utilizou-se da mesma fundamentação em relação aos demais demandados, no sentido de que não se teria evidenciado a necessidade do benefício.
+Francisco, relembro, alegou receber mensalmente o aluguel de um imóvel, no valor de R$ 2.200,00/mês, e que os bens constantes das declarações de imposto de renda acostadas estariam indisponibilizados por decisão judicial.
+Já em relação a Aluísio, como já afirmei, limitou-se o aresto a confirmar decisão monocrática que analisou mais detidamente apenas a situação da sociedade empresária, não havendo fundamento concreto com base no qual o postulante não faria jus ao benefício, senão a afirmação de que o requerente teria um padrão de vida acima da média nacional.
+Permito-me reeditar, integralmente, os fundamentos do acórdão que negou provimento ao seu agravo (fls. 12.265/12.266):
+Todavia, a pretensão do agravante foi indeferida em decisão monocrática proferida pela Nobre Desembargadora Relatora às fls. 8416 a 8418 mediante os seguintes fundamentos:
+"Vistos.
+Em que pesem as alegações dos apelantes, não há falar-se em concessão dos benefícios da assistência judiciária gratuita, diferimento no pagamento das custas e despesas processuais no presente caso concreto ou mesmo na possibilidade de pagamento do valor mínimo de preparo recursal.
+Segundo o § 3º do artigo 99 do CPC, presume-se verdadeira a alegação de insuficiência deduzida exclusivamente por pessoa natural.
+Entretanto, se o julgador verificar situação não autorizadora do benefício, poderá negar o pedido, independentemente da provocação da parte contrária, em consonância também com o disposto no artigo 5º, LXXIV, da Constituição Federal.
+A despeito das alegações dos apelantes Ali Sami El Kadri, Aloísio Ribeiro da Cruz e Francisco Pereira de Souza, no caso, os documentos carreados aos autos não se mostram capazes de revelar estado de hipossuficiência financeira, para fins de concessão da benesse da gratuidade processual.
+É bem verdade que a lei não exige que a parte seja miserável, contudo, os rendimentos percebidos pelo apelante, longe de serem apenas razoáveis, estão acima da média nacional, não implicando que o custeio das despesas processuais seja prejudicial à subsistência deles e da família.
+ ..
+No mais, vê-se que o indeferimento do benefício decorre de análise da situação específica de todos os apelantes e é resultado do convencimento motivado do juiz. Assim, intimem-se os apelantes Ali Sami El Kadri, Aloísio Ribeiro da Cruz, Francisco Pereira de Souza e Excel Comunicação Integrada Ltda. para que comprovem o recolhimento do preparo, no prazo de 05 dias, sob pena de deserção. Int"
+Em que pesem os argumentos do agravante, não se verifica fato ou fundamento sólido e suficiente para a alteração do decidido que deve ser mantido por seus próprios fundamentos.
+Ressalte-se, ademais, que o agravante cinge-se a reiterar a tese de que não reúne condições financeiras para arcar com o pagamento do preparo recursal, limitando-se a afirmar seus rendimentos, bens e despesas, o que só demonstra um padrão de vida acima da média nacional, a corroborar o acerto da decisão ora agravada.
+O recorrente, em reforço à necessidade do benefício, afirma ter juntado declaração de IRPF, extratos bancários e extratos de cartão de crédito a evidenciar uma vida modesta, a percepção de rendimento anual em torno de R$ 40.000,00, a propriedade de imóvel financiado no valor de R$ 239.184,70, uma moto ano 2006 e valores em conta em torno de R$ 5.000,00, além de cotas de empresa inativa.
+O Ministério Público a atuar em segunda instância opinou pela concessão do benefício e pelo provimento do recurso, enfatizando precedente desta Corte Superior (fls. 12.360/12.361):
+A respeito, por ocasião da emissão de parecer por esta Procuradoria de Justiça, consignou-se o seguinte:
+Aloísio Ribeiro da Cruz, Francisco Pereira de Sousa e Excel Comunicação Integrada Ltda.-Me requereram o deferimento de assistência judiciária gratuita em suas apelações, deduzindo os respectivos argumentos.
+Aloísio Ribeiro da Cruz e Francisco Pereira de Sousa apresentaram declaração de insubsistência econômica, bem como afirmaram que a impossibilidade de pagamento da taxa judiciária relativa ao preparo sem comprometimento da subsistência própria e de familiares, sendo que o pedido do primeiro foi instruído também com cópia de declarações de renda.
+(..)
+Os pedidos merecem acolhimento.
+O valor do preparo, considerando o patamar máximo fixado na legislação estadual, realmente é elevado e pode comprometer a subsistência das pessoas naturais, ora Apelantes. Em favor de ambos milita a presunção decorrente do § 3º do art. 99 do Código de Processo Civil.
+(..)
+Assim, esta Procuradoria de Justiça manifesta- se pelo deferimento dos pedidos de gratuidade dos Apelantes indicados, limitada ao preparo das apelações interpostas, como permite o § 5º do art. 98 do Código de Processo Civil.
+A situação de hipossuficiência financeira para fins de concessão do benefício da gratuidade não pode se limitar à análise da condição econômica do interessado. Há de ser visto o montante da taxa judiciária (ou outro encargo processual) a ser recolhido e se tal valor pode impactar significativamente o orçamento familiar e colocar em risco a subsistência do núcleo doméstico.
+No caso, o Recorrente apresentou seus rendimentos - que foram considerados pelo acórdão recorrido como acima da média nacional - e afirmou que o pagamento da taxa judiciária para preparo do apelo poderia comprometer a subsistência familiar, o que pode efetivamente ocorrer.
+Por tais razões, anteriormente nos posicionamos pela concessão do benefício, em primazia à presunção legal estabelecida pelo art. 99, § 3º, do Código de Processo Civil, que não foi infirmada por qualquer outro elemento constante dos autos, como é assente na jurisprudência dessa e. Corte de Justiça:
+PROCESSUAL CIVIL. JUSTIÇA GRATUITA. FAIXA DE RENDA MENSAL. CRITÉRIO ABSTRATO. INADMISSIBILIDADE.
+1. É assente na jurisprudência do STJ que a simples declaração de hipossuficiência da pessoa natural, ainda que dotada de presunção iuris tantum, é suficiente ao deferimento do pedido de gratuidade de justiça quando não ilidida por outros elementos dos autos.
+2. Esta Corte Superior rechaça a adoção única de critérios abstratos, como faixa de renda mensal isoladamente considerada, uma vez que eles não representam fundadas razões para denegação da justiça gratuita.
+3. Agravo interno desprovido. (AgInt no R Esp 1836136/PR, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 04/04/2022, D Je 12/04/2022)
+A ausência de fundamentação do acórdão recorrido pautada em elementos concretos a fazer derruir a presunção de impossibilidade de arcar com as custas processuais que decorre da declaração de hipossuficiência econômica, somada ao bastante elevado valor do preparo, corrobora o direito à gratuidade judiciária.
+O fato de a parte possuir um padrão superior à uma pretensa média nacional não evidencia que ela possa solver quase R$ 100.000,00 apenas com o preparo de um dos recursos interpostos.
+Não é razoável exigir de quem ganha R$ 2.200,00 mensais de aluguel ou de quem ganha pouco mais de R$ 3.000,00, possuindo um imóvel no valor de R$ aproximadamente R$ 230.000,00, que dele se desfaça para pagar R$ 87.000,00 relativos ao preparo de uma apelação.
+Ante o exposto, conheço dos agravos e dou provimento aos recursos especiais de Aluísio e Excel e conheço do agravo para conhecer em parte do recurso especial de Francisco e dar a ele provimento, deferindo o pedido de gratuidade judiciária aos recorrentes e determinando o retorno dos autos ao Tribunal para o exame dos recursos interpostos, independentemente do preparo.
+Publique-se. Intimem-se.
+EMENTA
