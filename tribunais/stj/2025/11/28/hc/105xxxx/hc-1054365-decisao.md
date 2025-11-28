@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de GUILHERME BORGES FERREIRA, definitivamente condenado pela prática de roubo majorado (art. 157, § 2º, II, e § 2º-A, I, do Código Penal) à pena de 10 anos, 10 meses e 19 dias de reclusão, em regime inicial fechado, e 26 dias-multa (fls. 2/3), em razão de reforma de sentença absolutória em apelação criminal.
+Aponta-se como autoridade coatora o Tribunal de Justiça de São Paulo, que, em 17/11/2025, indeferiu a Revisão Criminal n. 2259076-63.2025.8.26.0000.
+Alega-se nulidade do reconhecimento fotográfico por violação do procedimento do art. 226 do Código de Processo Penal, com sugestionamento da vítima e exposição prévia a imagens, sendo o reconhecimento o único elemento de autoria, sem provas autônomas corroborativas.
+Sustenta-se a fragilidade da materialidade e da autoria, uma vez que não houve apreensão de arma ou objetos subtraídos, e a vítima teria demonstrado incerteza em juízo quanto ao reconhecimento, inclusive com divergência objetiva relativa a tatuagens nas mãos do paciente.
+Pede-se, em liminar e no mérito, a nulidade do reconhecimento fotográfico e a absolvição do paciente.
+Estes autos foram a mim distribuídos por prevenção.
+É o relatório.
+O writ não merece ir adiante.
+No caso, não há excepcionalidade que autorize a impetração de habeas corpus especialmente porque o acórdão que julgou improcedente a revisão criminal é passível de recurso próprio, cujo prazo permanece em curso.
+Afirmou o Tribunal local que, ausente contrariedade à prova dos autos ou afronta ao texto expresso da lei penal, não se verifica hipótese de cabimento da revisão criminal, sendo inadmissível utilizá-la como sucedâneo de apelação (fl. 15).
+Expôs, ademais, que a condenação se fundamenta em provas consistentes, incluindo boletim de ocorrência, autos de reconhecimento, relatório de investigação e depoimentos de vítima e de policiais, corroborando a autoria e materialidade do delito.
+Destacou que o reconhecimento fotográfico foi considerado válido, uma vez que a vítima reconheceu o réu de forma segura e reiterada, tanto na fase policial quanto em juízo, descrevendo com precisão suas características e conduta durante o crime.
+Mencionou que o álibi apresentado pela defesa foi devidamente refutado, por ausência de prova idônea que comprovasse a presença do réu em local diverso no momento do crime. Concluiu que o reconhecimento não foi o único fato a sustentar a condenação, a qual restou amparada por outros elementos de prova.
+Por fim, o acórdão revisional reforçou os argumentos expostos na apelação quanto às alegadas divergências relacionadas às tatuagens, consignando que o auto de qualificação registra marcas exatamente compatíveis com a descrição feita pela vítima à época dos fatos, inexistindo discrepância ou nulidade no reconhecimento; ao contrário, mantém plena correspondência com o conjunto probatório.
+A propósito, ao decidir o HC n. 1.023.119/SP, impetrado em favor do paciente e contra o acórdão da apelação, considerando o mesmo contexto exposto pelo Tribunal local, ponderei que, apesar do questionamento acerca da validade do procedimento de reconhecimento de pessoas, a vítima conseguiu individualizar o autor do delito com a indicação de traços distintivos, confirmando isso em juízo.
+Dessa forma, a prévia descrição pela vítima das características físicas do acusado e da dinâmica dos fatos, torna induvidosa a autoria delitiva, o que gera distinguishing em relação ao acórdão paradigma da alteração jurisprudencial, o HC n. 598.886/SC, da relatoria do e. Ministro Rogério Schietti Cruz (AgRg no REsp n. 2.104.223/RJ, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 18/3/2024).
+Com efeito, o acórdão ora combatido está em consonância com o entendimento consolidado desta Corte Superior de que a revisão criminal não pode ser utilizada para que a parte provoque a rediscussão de questões de mérito, fundada na mera irresignação quanto ao provimento jurisdicional obtido (AgRg no AREsp n. 2.459.771/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 15/2/2024).
+Portanto, a revisão criminal não se presta a reapreciar provas já analisadas, mas sim para sanar erro técnico ou injustiça na condenação, sendo necessário apresentar prova nova para justificar sua propositura, o que não ocorreu na hipótese (AgRg no HC n. 958.616/MG, Ministro Ribeiro Dantas, Quinta Turma, DJEN 25/2/2025).
+Por essas razões, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PROCESSO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL EM REVISÃO CRIMINAL JULGADA IMPROCEDENTE. DESCABIMENTO. ROUBO MAJORADO. PRETENSÃO DE ABSOLVIÇÃO. ILICITUDE DA PROVA. HIPÓTESES DO ART. 621 DO CPP NÃO CONFIGURADAS. REDISCUSSÃO DE TEMAS ANTECEDENTES DA CAUSA. SEGUNDA APELAÇÃO. IMPOSSIBILIDADE. INEXISTÊNCIA DE ILEGALIDADE MANIFESTA.
+Writ indeferido liminarmente.
