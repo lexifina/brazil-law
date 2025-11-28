@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pela Petroball Distribuidora de Petróleo Ltda contra decisão assim ementada (fl. 850):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. NÃO IMPUGNAÇÃO ESPECÍFICA A TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. EXIGÊNCIA DOS ARTIGOS 932, III, DO CPC/2015 E 253, PARÁGRAFO ÚNICO, I, DO RI /STJ (REDAÇÃO DADA PELA EMENDA REGIMENTAL N. 22, 2016). AGRAVO NÃO CONHECIDO.
+A embargante sustenta que a decisão foi omissa quanto ao fato que foi apresentado tópico específico no Agravo em Recurso Especial da Embargante para afastar a aplicação da Súmula nº 280/STF ao caso concreto. Acrescenta que a discussão trazida no recurso especial decorre única e exclusivamente da violação a dispositivos de lei federal, não demandando o exame do direito local, afastando o óbice da Súmula nº 280/STF, o que foi demonstrado no Agravo em Recurso Especial da Embargante.
+É o relatório. Decido.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Na hipótese dos autos, como bem analisado no decisum de fls. 850-852, o acórdão embargado adotou fundamentação adequada, não padecendo de qualquer omissão, ao decidir que:
+ ..  a decisão de inadmissibilidade do recurso especial contém a seguinte fundamentação: (a) não violação aos artigos 489 e 1.022 do código de processo civil; (b) incidência da Súmula n. 7 /STJ no que tange aos arts. 927, IV, do CPC e 142 do CTN; (c) incidência da Súmula n. 280/STF, considerando que o acórdão está fundamentado na Lei Estadual nº 6.374/1989, e 31, inciso II, § 2º, item 7, do RICMS/SP - Decreto Estadual n. 45.490/2000.
+Contudo, em que pese os argumentos apresentados no agravo para rebater os fundamentos lançados na decisão que inadmitiu o recurso especial não foram suficientes para impugnar, especialmente, o item c, em observância ao princípio da dialeticidade, o que acarreta o não conhecimento do agravo.
+Por esta razão, não há irregularidade sanável por meio dos presentes embargos, pois toda a matéria apta à apreciação do STJ foi analisada, não padecendo o decisum embargado dos vícios que autorizariam sua oposição (obscuridade, contradição, omissão e erro material).
+Ademais, a Corte Especial do STJ firmou o entendimento de que "o recurso aclaratório possui finalidade integrativa e, portanto, não se presta à reforma do entendimento aplicado ou ao rejulgamento da causa, conforme pretende o embargante quanto à apontada contradição no julgado" (EDcl no AgRg no RE nos EDcl no AgRg nos EDcl no AREsp n. 1.571.819/RJ, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, DJe de 28/8/2020).
+Portanto, a toda evidência, a parte embargante, não conformado com o acórdão embargado a seu desfavor, pretende meramente o reexame do mérito da causa, providência incompatível com o presente recurso.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ALEGADA OMISSÃO DA DECISÃO EMBARGADA. VÍCIO NÃO CONFIGURADO. EMBARGOS REJEITADOS.
