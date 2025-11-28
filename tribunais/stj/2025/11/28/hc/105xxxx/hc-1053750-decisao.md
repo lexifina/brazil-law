@@ -1,0 +1,8 @@
+DECISÃO
+VALDECIR DE CARVALHO, acusado por homicídio qualificado, alega ser vítima de constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, que manteve a prisão preventiva, a qual pretende seja revogada nesta oportunidade.
+Entretanto, constato que as alegações da defesa vieram desacompanhadas de cópia de documento essencial que permitisse o exame fidedigno da controvérsia, como por exemplo, a cópia integral da decisão primeva que decretou a constrição cautelar, embora tenha sido juntada a que manteve a prisão.
+A possibilidade de se impetrar habeas corpus, destituído de qualquer formalidade essencial, não se traduz na desnecessidade de instruí-lo com os documentos essenciais que permitam avaliar a existência ou não de constrangimento ilegal. Nesse sentido é pacífica a orientação desta Corte (AgRg no HC n. 285.578/AM, relator Ministro Marco Aurélio Bellizze, DJe 2/5/2014).
+Ainda que se considere apenas a discussão sobre o excesso de prazo, a decisão constritiva é essencial, porque o paciente, ao que tudo indica, permaneceu foragido por longo período, situação que dificulta a escorreita instrução criminal. A decisão que decretou a prisão, portanto, mostra-se documento essencial para a avaliação desse fato.
+À vista do exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus. Registro que nada impede a defesa que impetre novo habeas corpus, desde que devidamente instruído.
+Publique-se e intimem-se.
+EMENTA
