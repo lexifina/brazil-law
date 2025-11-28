@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de agravo interposto por Y F L contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fls. 518):
+CIVIL. PLANO DE SAÚDE. TEA. PRESCRIÇÃO DO FÁRMACO NABIX. MEDICAMENTO DE USO DOMICILIAR. DESNECESSIDADE DE APLICAÇÃO AMBULATORIAL OU HOSPITALAR. NATJUS QUE, ADEMAIS, ACUSA AUSÊNCIA DE RECOMENDAÇÃO PELA CONITEC, TAMPOUCO EVIDÊNCIA CIENTÍFICA DE SUPERIORIDADE AO MÉTODO TRADICIONAL. AUSÊNCIA DE OBRIGATORIEDADE DE COBERTURA.
+O medicamento prescrito, não quimioterápico, é de uso domiciliar, cuja aplicação e utilização dispensa qualquer acompanhamento hospitalar e pode atualmente ser obtido com maior facilidade, já que teve sua importação autorizada pela ANVISA, inclusive de forma direta pelo próprio interessado. Logo, reformulando entendimento anterior deste Relator em relação ao medicamento à base de canabidiol, não se vislumbra a alegada abusividade na cláusula contratual que veda a cobertura para fornecimento de medicamento de uso domiciliar, pois, em princípio, foi redigida em conformidade com o disposto no art. 10, inciso VI, da Lei n.º 9.656/1998.
+Recurso improvido.
+Rejeitados os embargos de declaração opostos (fls. 613-621).
+No recurso especial, o recorrente alega que o acórdão contrariou as disposições contidas nos artigos 51, IV, e § 1º, II, do Código de Defesa do Consumidor e 10, § 13, I, e 35-F da Lei nº 9.656/98 (com a redação dada pela Lei nº 14.454/22).
+Sustenta, em síntese, que a recusa da operadora em fornecer o medicamento à base de canabidiol é abusiva e ilegal, pois esvazia o objeto do contrato de plano de saúde. Argumenta que, mesmo sendo de uso domiciliar, o tratamento é essencial para a doença coberta pelo plano e que a Lei nº 14.454/2022 garante a cobertura de terapias com eficácia comprovada, ainda que fora do rol da ANS.
+Foram oferecidas contrarrazões ao recurso especial (fls.630-644.).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls.655-657 ), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 670-678).
+Parecer do Ministério Público Federal ( fls.694-697).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Da análise dos autos, verifica-se que a parte autora, diagnosticada com Transtorno do Espectro Autista (CID 10 F.84), ajuizou ação de obrigação de fazer visando compelir a operadora de plano de saúde a fornecer medicamento à base de canabidiol para uso domiciliar, conforme prescrição médica.
+O pedido foi julgado improcedente em primeira instância, e a sentença foi mantida pelo TJ/SP, sob o fundamento de que o art. 10, VI, da Lei nº 9.656/1998 autoriza a exclusão da cobertura de medicamentos para tratamento domiciliar.
+No recurso especial, como dito, o recorrente alega violação de dispositivos do Código de Defesa do Consumidor e da Lei nº 9.656/1998, com as alterações promovidas pela Lei nº 14.454/2022, sustentando, em síntese, a obrigatoriedade da cobertura.
+Não obstante os fundamentos invocados, entendo que o acórdão proferido pelo egrégio Tribunal de origem encontra-se em plena consonância com a jurisprudência atual no âmbito do Superior Tribunal de Justiça, incidindo, na hipótese, o óbice da Súmula nº 83/STJ.
+A Segunda Seção do Superior Tribunal de Justiça, em julgamento de relevo sobre a matéria, firmou o entendimento de que é lícita a exclusão, na Saúde Suplementar, do fornecimento de medicamentos para tratamento domiciliar, ressalvadas as exceções dos antineoplásicos orais, da medicação assistida (home care) e dos fármacos incluídos no rol da Agência Nacional de Saúde Suplementar (ANS) para essa finalidade específica.
+Nesse sentido, o seguinte precedente:
+"É lícita a exclusão, na Saúde Suplementar, do fornecimento de medicamentos para tratamento domiciliar, isto é, aqueles prescritos pelo médico assistente para administração em ambiente externo ao de unidade de saúde, salvo os antineoplásicos orais (e correlacionados), a medicação assistida (home care) e os incluídos no rol da Agência Nacional de Saúde Suplementar (ANS) para esse fim. Interpretação dos arts. 10, VI, da Lei nº 9.656/1998 e 19, § 1º, VI, da RN-ANS nº 338/2013 (atual art. 17, parágrafo único, VI, da RN-ANS nº 465/2021)".(AgInt nos EREsp 1.895.659/PR, Rel. Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 29/11/2022, DJe de 9/12/2022).
+Ademais, a Terceira Turma deste Tribunal, ao analisar a questão já sob a égide do § 13 do art. 10 da Lei nº 9.656/1998 (incluído pela Lei nº 14.454/2022), concluiu que a nova regra, que permite a cobertura de tratamentos não listados no rol da ANS, não afasta as exceções de cobertura expressamente previstas nos incisos do caput do mesmo artigo, como é o caso do fornecimento de medicamento para uso domiciliar (inciso VI).
+Recentemente, a Terceira Turma reafirmou esse entendimento ao julgar casos específicos sobre a cobertura de medicamentos à base de canabidiol para uso domiciliar, como se observa nos julgamentos do REsp 2.173.999/SC, REsp 2.181.464/RJ e REsp 2.182.344/RJ, em 17/06/2025.
+A Quarta Turma também segue a mesma linha, conforme decisões monocráticas em casos análogos (REsp 2.213.863/RJ, Rel. Ministro Antonio Carlos Ferreira, DJe 27/6/2025; REsp 2.206.228/PA, Rel. Ministro Raul Araújo, DJe 5/6/2025; AREsp 2.580.102/RJ, Rel. Ministra Maria Isabel Gallotti, DJe 3/10/2024).
+No caso concreto, o Tribunal de origem, ao decidir pela ausência de obrigatoriedade de cobertura do medicamento pleiteado, alinhou-se perfeitamente à jurisprudência pacífica deste Superior Tribunal de Justiça, o que atrai a incidência da Súmula nº 83/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 15% sobre o valor atualizado da causa.
+Publique-se. Intime-se.
+ EMENTA
