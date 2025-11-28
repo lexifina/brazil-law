@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial pelo qual o INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS se insurgira contra o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO, assim ementado:
+EMENTA: APELAÇÃO CÍVEL. AÇÃO ACIDENTÁRIA. INSS. APOSENTADORIA POR INVALIDEZ. REVISÃO. REESTABELECIMENTO. CORRAÇÃO MONETÁRIA. JUROS DE MORA. RECURSO CONHECIDO E PROVIDO.
+1) Conquanto exista a possibilidade de o INSS convocar os segurados aposentados por invalidez para realização de perícias periódicas, a teor do que dispõe os artigos 43, §4º, e 101, da Lei nº 8.213/91, a fim de verificar se as condições incapacitantes, porventura, se modificaram, é entendimento consolidado do Superior Tribunal de Justiça que, concedido judicialmente beneficio previdenciário ou acidentário, é necessário ingresso com nova ação judicial para a sua revisão.
+2) Na hipótese, deve ser restabelecida a aposentadoria por invalidez acidentária da apelante, julgando-se procedente o pedido autoral, desde a indevida cessação, confirmando-se a tutela de urgência.
+3) Deverá a autarquia pagar as parcelas vencidas com correção monetária pelo INPC  indexador previsto na Lei 8.213/91 (art. 41-A)-, nos termos da tese fixada no julgamento do Recurso Especial n.º 1.495.146/MG, submetido à sistemática de julgamento de recursos repetitivos do Superior Tribunal de Justiça (Tema 905), e juros de mora de acordo com a remuneração da caderneta de poupança, após 30 de junho de 2009, na forma do art. 1º-F da Lei nº 9.494/97, com as alterações introduzidas pela Lei nº 11.960/09.
+4) Por se tratar de condenação ilíquida, os honorários advocatícios deverão ser fixados apenas em liquidação/execução, em conformidade ao disposto no artigo 85, § 4º, inciso II, do Código de Processo Civil.
+5) Recurso conhecido e provido.
+Os embargos de declaração opostos foram rejeitados (fls. 236/244).
+Nas razões de seu recurso especial, a parte agravante alega (fl. 251):
+A tese adotada pelo Egrégio Tribunal de Justiça do Espirito Santo no acórdão vergastado é de que somente com o ajuizamento de outra ação judicial pode o INSS buscar a revisão de beneficio por incapacidade concedido em processo anterior, não lhe cabendo fazer isso na via administrativa, mesmo que a perícia médica constate a reversão da incapacidade laboral.
+O INSS sustenta tese oposta de que a Lei Federal (Lei n.º 8.213/1991, art. 101) lhe confere essa prerrogativa independente de o beneficio ter sido concedido judicialmente, o que é, inclusive, referendado pela interpretação de vários tribunais brasileiros.
+A parte adversa não apresentou contrarrazões.
+O recurso foi inadmitido na origem (fls. 266/269), razão pela qual foi interposto o agravo em recurso especial ora examinado.
+Petição às fls. 289/291 requerendo o sobrestamento.
+É o relatório.
+A questão debatida nos autos foi afetada à Primeira Seção do Superior Tribunal de Justiça para ser decidida sob o rito de recursos repetitivos (Tema 1. 157), e foi assim delimitada:
+"Definir a possibilidade - ou não - de cancelamento na via administrativa, após regular realização de perícia médica, dos benefícios previdenciários por incapacidade, concedidos judicialmente e após o trânsito em julgado, independentemente de propositura de ação revisional" (REsps 1.985.189/SP e 1.985.190/SP, de relatoria do Ministro Herman Benjamin ).
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+O envio do recurso especial a esta Corte Superior deve ocorrer somente após o esgotamento da instância ordinária, formalizado com o novo julgamento pelo Tribunal de origem, quando então será possível examinar, no âmbito do STJ, as matérias jurídicas que eventualmente permanecerem controvertidas. Essa cautela também evita o fracionamento do recurso e previne eventual violação ao princípio da unicidade recursal, que veda a interposição simultânea ou sucessiva de recursos contra a mesma decisão.
+Ante o exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil (CPC), após a publicação do acórdão dos recursos representativos de controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do mesmo CPC.
+Publique-se. Intimem-se.
+EMENTA
