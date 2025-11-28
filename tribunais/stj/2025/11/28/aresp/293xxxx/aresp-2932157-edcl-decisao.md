@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Eduardo Braun Welter à decisão monocrática que conheceu do agravo para não conhecer do recurso especial (fls. 960/962).
+A defesa opôs os presentes embargos aduzindo, em síntese, que o recurso especial indicou expressamente o art. 302, § 3º, do Código de Trânsito Brasileiro, como norma violada.
+Sustenta que a decisão monocrática omitiu a apreciação de que o recurso não pretendia nova valoração fática, mas apenas a revaloração jurídica dos fatos reconhecidos pelo próprio Tribunal de origem (fl. 971).
+Aponta, também, que há omissão quanto à divergência jurisprudencial sobre o tema (fl. 972), o que teria levado a erro material na aplicação da Súmula 83 do STJ, que pressupõe uniformidade jurisprudencial inexistente no caso concreto (fl. 972).
+No mais, insiste que deve ser afastado o dolo no caso, diante da aplicação do princípio da especialidade previsto no artigo 302 do Código de Trânsito Brasileiro (fl. 977).
+Ao final, requer o conhecimento e o provimento dos embargos, a fim de sanar as omissões, contradições e o erro material identificados, afastando os óbices reconhecidos no recurso especial, para que seja determinado o seu processamento (fls. 969/979).
+É o relatório.
+Como é sabido, nos termos do comando normativo insculpido no art. 619 do CPP, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou ambiguidades eventualmente existentes no provimento judicial.
+Inicialmente, em relação à alegada indicação expressa do art. 302, § 3º, do CTB como norma violada, a questão foi devidamente analisada na decisão, tendo ficado consignado que tampouco a mera citação de artigo de lei na peça recursal supre a exigência constitucional de demonstração específica da violação legal alegada (fl. 961).
+Portanto, não tendo a defesa exposto como demonstrou, especificamente, no recurso especial a violação alegada, mantém-se o óbice insculpido na Súmula 284/STF.
+Da mesma forma, não houve omissão na decisão acerca do argumento da defesa de que pretendia apenas a revaloração jurídica. Nesse ponto, disse a decisão (fls. 961/962):
+No mais, pretende o recorrente a desclassificação dos fatos para a modalidade culposa e o afastamento do dolo eventual, sustentando a inadequação da pronúncia por homicídios dolosos.
+Contudo, a pretensão esbarra, inequivocamente, no óbice da Súmula 7/STJ.
+O Tribunal de origem, soberano na análise das provas, declinou fundamentação convincente quanto ao enquadramento jurídico da conduta, registrando que há indicativos não apenas de que o recorrente conduzia seu veículo com a capacidade psicomotora alterada em razão da influência de álcool, mas também de que, em razão disso, transitava na contramão de uma rodovia federal (fls. 821/825).
+Constou ainda do acórdão que o recorrente trafegou por mais de 10 km (dez quilômetros) pela contramão de direção, valendo ressaltar que o trecho em questão era dotado de mureta no meio da pista que media, aproximadamente, um metro de altura, ou seja, seria muito difícil, para não dizer impossível, que o recorrente não percebesse que estava trafegando na contramão (fls. 821/825).
+A conclusão fática da origem é a de que há elementos indicativos da suposta prática de homicídios dolosos contra a vida, a demandar a submissão das teses de desclassificação, de afastamento do dolo eventual ou mesmo do cúmulo material ao Conselho de Sentença, sob pena de usurpação de competência constitucional dos jurados.
+A reversão desse entendimento, para acolher a tese defensiva de desclassificação para a modalidade culposa, demandaria inevitável revolvimento do contexto fático-probatório, inviabilizado pela Súmula 7/STJ.
+Ou seja, o Tribunal de origem, soberano na análise fático-probatória, entendeu pela suficiência de elementos aptos a manter a pronúncia por homicídios dolosos. A reversão desse entendimento demanda inevitável revolvimento do contexto fático-probatório, inviabilizado pela Súmula 7/STJ.
+Verifica-se que o decisum trouxe os fatos reconhecidos pelas instâncias ordinárias e registrou que, a partir da situação fática descrita, foram trazidos indicativos da prática de homicídios dolosos contra a vida (fl. 962), de maneira que, para se concluir de forma diversa, seria necessário o revolvimento do contexto fático-probatório, inviabilizado pela Súmula 7/STJ(fl. 962).
+Por fim, quanto ao suposto erro material na aplicação da Súmula 83 do STJ, registro que a decisão de inadmissibilidade feita pela origem não vincula a análise por esta Corte, sendo que não foi apontado o óbice da Súmula 83/STJ na decisão que não conheceu do recurso especial, tornando-se, portanto, descabido o debate.
+Logo, verifica-se que não há omissão, contradição e, tampouco, erro material na decisão, porquanto contém ampla, suficiente e clara fundamentação.
+Em verdade, o que se percebe é que a defesa pretende apenas rediscutir a causa, não sendo tal medida cabível em embargos de declaração (EDcl no AgRg no HC n. 731.003/MS, Ministro Jesuíno Rissato (DesembargadorConvocado do TJDFT), Sexta Turma, DJe 17/2/2023).
+Não há razão, assim, para se acolher os presentes embargos.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM AGRAVO EM RECURSO ESPECIAL. ART. 619 DO CÓDIGO DE PROCESSO PENAL. ALEGAÇÃO DE OMISSÃO, CONTRADIÇÃO E ERRO MATERIAL. INEXISTÊNCIA. PRETENSÃO DE REDISCUSSÃO DA CAUSA. DESCABIMENTO.
+1. Nos termos do comando normativo insculpido no art. 619 do CPP, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou ambiguidades eventualmente existentes no provimento judicial.
+2. Em relação à alegada indicação expressa do art. 302, § 3º, do CTB como norma violada, a questão foi devidamente analisada na decisão, tendo ficado consignado que tampouco a mera citação de artigo de lei na peça recursal supre a exigência constitucional de demonstração específica da violação legal alegada (fl. 961).
+3. Verifica-se que o decisum trouxe os fatos reconhecidos pelas instâncias ordinárias e registrou que, a partir da situação fática descrita, foram trazidos indicativos da prática de homicídios dolosos contra a vida (fl. 962), de maneira que, para se concluir de forma diversa, seria necessário o revolvimento do contexto fático-probatório, inviabilizado pela Súmula 7/STJ(fl. 962).
+4. Por fim, quanto ao suposto erro material na aplicação da Súmula 83 do STJ, registro que a decisão de inadmissibilidade feita pela origem não vincula a análise por esta Corte, sendo que não foi apontado o óbice da Súmula 83/STJ na decisão que não conheceu do recurso especial, tornando-se, portanto, descabido o debate.
+5. Não há razão para se acolherem os presentes embargos, pois, em verdade, pretende-se apenas rediscutir a causa. E, como é sabido, tal medida não é cabível em embargos de declaração.
+6. Embargos de declaração rejeitados.
