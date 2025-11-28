@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por RNR QUADROS ELÉ TRICOS LTDA, NAIRA LÚCIA DA SILVA RECH e RENATO NAIM RECH contra decisão singular de minha lavra na qual se conheceu do agravo para negar provimento ao recurso especial, assentando, em síntese: (i) inexistência de negativa de prestação jurisdicional, porque a questão relativa à incidência do CDI foi devidamente enfrentada pelo Tribunal de origem, com pronunciamento fundamentado, ainda que contrário à pretensão dos agravantes; (ii) o acórdão recorrido, quanto ao ponto, reflete a jurisprudência desta Corte Superior quanto à possibilidade de pactuação de encargos moratórios e remuneratórios que contenham o CDI; e (iii) quanto à alegada "relação de subsidiariedade" e "grupo econômico", incidência, por analogia, da Súmula 284 do Supremo Tribunal Federal, pois o aresto recorrido nada tratou sobre formação de grupo econômico (fls. 929-931).
+Nas razões do seu recurso, a parte embargante alega, em síntese, que:
+Afirma existir erro de premissa fática, equiparável a erro material, porque a decisão embargada teria partido do pressuposto equivocado de que o Tribunal de Justiça de Santa Catarina "enfrentou devidamente" a incidência do CDI, quando, segundo sustenta, a Corte local não teria somado a taxa fixa (20,27% a.a.) ao CDI (14,06% a.a.) para cotejar com a média de mercado (fls. 934-936).
+Alega omissão, por não ter a decisão enfrentado o argumento central de que a comparação exigida pelo Tema 28/STJ deveria considerar a taxa efetivamente cobrada (taxa fixa  CDI), em confronto com a média do Banco Central e as peculiaridades do caso (fls. 935-936).
+Sustenta contradição interna, pois a decisão teria validado o método do TJSC, que não somaria os encargos, e, ao mesmo tempo, afirmado que o acórdão "reflete a jurisprudência desta Corte Superior", que exigiria a análise do encargo total (fl. 936).
+Decorreu o prazo sem apresentação de impugnação.
+Assim delimitada a questão, passo a decidir.
+A decisão embargada enfrentou coerentemente as questões postas a julgamento, no que foi pertinente e necessário, exibindo fundamentação clara e suficiente, razão pela qual não merece reparo algum, conforme se depreende de seus próprios fundamentos, a seguir transcritos:
+Com efeito, a decisão embargada foi clara no sentido de que "o acórdão recorrido quanto ao ponto, reflete a jurisprudência desta Corte Superior no sentido da possibilidade de pactuação de encargos moratórios e remuneratórios que contenham o CDI na sua composição, uma vez que não há obstáculo legal à estipulação dos encargos financeiros em contratos bancários com base no CDI, acrescido de juros remuneratórios".
+Importa esclarecer, não se exige do julgador a análise de todos os argumentos das partes, a fim de expressar o seu convencimento. O pronunciamento acerca dos fatos controvertidos encontra-se objetivamente fixado nas razões da decisão embargada, motivo pelo qual rejeito a alegação de omissão no julgado. A propósito, confira-se:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ART. 1.022 DO CPC. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE, ERRO MATERIAL. AUSÊNCIA.
+1. Os embargos de declaração, conforme dispõe o art. 1.022 do CPC, destinam-se a suprir omissão, afastar obscuridade, eliminar contradição ou corrigir erro material existente no julgado, o que não ocorre na hipótese em apreço.
+
+3. O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida.
+4. Embargos de declaração rejeitados. (EDcl no AgRg nos EREsp 1.483.155/BA, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, julgado em 15/6/2016, DJe 3/8/2016)
+Assim, não demonstrada efetivamente a existência de nenhum dos vícios previstos no art. 1.022 do CPC, conclui-se que a pretensão da parte embargante é unicamente o rejulgamento da causa, finalidade à qual não se presta a via eleita.
+Nesse sentido, veja-se o seguinte precedente:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA. MERO INTUITO DE REJULGAMENTO DA LIDE. AUSÊNCIA DA OMISSÃO QUE ENSEJARIA A INTERPOSIÇÃO DO RECURSO INTEGRATIVO. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas no acórdão embargado, já que não são cabíveis para provocar novo julgamento da lide.
+2. Não há que se confundir decisão contrária aos interesses da parte e negativa de prestação jurisdicional, nem fundamentação sucinta com ausência de fundamentação. Precedentes.
+3. Embargos de declaração rejeitados. (EDcl no AgRg nos EREsp 1.213.226/SC, Rel. Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 24/10/2016, DJe 22/11/2016)
+Em face do exposto, rejeito os embargos de declaração.
+Intimem-se.
+EMENTA
