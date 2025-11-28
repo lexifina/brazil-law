@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de RENAN WILLIAN DA SILVA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Agravo em Execução Penal n. 0026670-26.2025.8.26.0996).
+Consta dos autos que o Juízo das execuções determinou a realização de exame criminológico antes da apreciação do pedido de progressão ao regime semiaberto formulado em benefício do paciente (e-STJ fls. 57/59).
+Inconformada, a defesa agravou, tendo o Tribunal de origem negado provimento ao recurso, em acórdão assim ementado (e-STJ fls. 19/20):
+DIREITO PENAL. AGRAVO EM EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. EXAME CRIMINOLÓGICO. RECURSO DESPROVIDO.
+I. Caso em Exame
+Agravo em execução penal interposto contra decisão que condicionou a análise do pedido de progressão do regime fechado para o semiaberto à realização de exame criminológico.
+II. Questão em Discussão
+2. A questão em discussão consiste na necessidade de prévia submissão do reeducando a exame criminológico para progressão de regime, conforme nova redação do art. 112, §1º, da LEP, promovida pela Lei nº14.843/2024.
+III. Razões de Decidir
+3. A Lei nº 14.843/2024 tornou obrigatória a realização de exame criminológico para progressão de regime. Disposição legal de natureza processual penal, com aplicabilidade imediata, conforme entendimento majoritário das Câmaras Criminais deste Eg. TJSP. Precedentes. 4. A dispensa do exame somente é possível, mediante decisão fundamentada, em caso de pedido de progressão do regime semiaberto para o aberto, ou, independentemente do grau da progressão, no caso de crimes sem violência ou grave ameaça e não hediondos ou equiparados a hediondos, tendo em vista a atual carência de disponibilidade de equipe multidisciplinar nas unidades prisionais. Permanece obrigatório o exame, contudo, nos crimes violentos, com grave ameaça, hediondos ou equiparados a hediondos, e, ainda, nos demais casos em que o Magistrado entender que a situação peculiar do agente justifique a sua realização, quer pela personalidade do agente ou pelos antecedentes. Aplicação do entendimento firmado pelo C. Órgão Especial deste Eg. TJSP no Incidente de Arguição de Inconstitucionalidade nº 0016337-93.2025.8.26.0000. 5. No caso em análise, o reeducando cumpre pena pela prática de crime de roubo, cometido com violência ou grave ameaça, e almeja a progressão do regime fechado para o semiaberto. Necessária realização do exame para averiguar se houve adequada assimilação da terapêutica prisional pelo reeducando, a fim de que possa dar continuidade ao cumprimento de sua reprimenda em regime de menor vigilância estatal.
+IV. Dispositivo e Tese
+6. Recurso desprovido.
+Tese de julgamento: 1. A exigência do exame criminológico é obrigatória para progressão de regime na hipótese em que o reeducando praticou crime violento, com grave ameaça, hediondo ou equiparado a hediondo e pleiteia a progressão do regime fechado para o semiaberto. 2. A realização do exame é medida prudente para análise do mérito do reeducando.
+Neste writ, a parte impetrante afirma que o apenado possui bom comportamento carcerário.
+Requer, inclusive liminarmente, seja deferido ao paciente a progressão de regime prisional.
+É o relatório.
+Decido.
+A questão posta a deslinde refere-se à necessidade de realização do exame criminológico para a progressão ao regime semiaberto.
+Com a nova redação dada ao art. 112 da Lei n. 7.210/1984 pela Lei n. 10.792/2003, suprimiu-se a realização de exame criminológico como expediente obrigatório, mantendo-se apenas como requisitos legais o cumprimento de determinada fração da pena aplicada e o bom comportamento carcerário, a ser comprovado pelo diretor do estabelecimento.
+Confira-se:
+Art. 112. A pena privativa de liberdade será executada em forma progressiva com a transferência para regime menos rigoroso, a ser determinada pelo juiz, quando o preso tiver cumprido ao menos 1/6 (um sexto) da pena no regime anterior e ostentar bom comportamento carcerário, comprovado pelo diretor do estabelecimento, respeitadas as normas que vedam a progressão.
+Contudo, a despeito de o exame não ser requisito obrigatório para a progressão do regime prisional, em hipóteses excepcionais, os Tribunais Superiores vêm admitindo a sua realização para a aferição do mérito do apenado.
+Segundo esse entendimento, o magistrado de primeiro grau, ou mesmo o tribunal, diante das circunstâncias do caso concreto, pode determinar a realização da referida prova técnica para a formação de seu convencimento.
+Tal entendimento foi consolidado no enunciado da Súmula n. 439 do Superior Tribunal de Justiça:
+Admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada.
+O tema também foi objeto da Súmula Vinculante n. 26 do Supremo Tribunal Federal:
+Para efeito de progressão de regime no cumprimento de pena por crime hediondo, ou equiparado, o juízo da execução observará a inconstitucionalidade do art. 2º da Lei n. 8.072, de 25 de julho de 1990, sem prejuízo de avaliar se o condenado preenche, ou não, os requisitos objetivos e subjetivos do benefício, podendo determinar, para tal fim, de modo fundamentado, a realização de exame criminológico.
+A imposição de exame criminológico foi justificada pelo Magistrado de primeira instância da seguinte forma (e-STJ fls. 57/58):
+Com razão o Ministério Público.
+No caso dos autos, verifica-se que o sentenciado praticou crime grave, cometido com violência ou grave ameaça à pessoa e possui considerável pena por cumprir.
+Além disso, cometeu faltas disciplinares de natureza média e grave (novo delito durante o regime aberto) no curso do cumprimento da pena, demonstrando ausência de senso de responsabilidade e não assimilação da terapêutica penal que lhe é aplicada.
+Por ser um benefício da execução penal em que ocorre o abrandamento da vigilância direta do apenado, torna-se imprescindível a realização de exame criminológico para se aferir cumprimento do requisito subjetivo.
+E mais, o atestado do bom comportamento carcerário, não é vinculativo do Juízo, que deve apreciar o mérito da pretensão considerando os demais aspectos subjetivos do sentenciado, além de que, não serve como fator indicativo da readaptação social, o que reforça a necessidade da avaliação criminológica.
+Dessa forma, para análise do mérito da progressão de regime, torna-se indispensável a realização do exame criminológico, pois é patente que não se pode submeter a sociedade ao risco de o sentenciado poder atentar novamente contra a segurança pública, mostrando-se, neste caso, necessária sua realização para atestar se o executado preenche todos os requisitos (objetivo e subjetivo) para a obtenção das benesses, atendendo- se ao interesse público.
+Como se vê, o Tribunal estadual levou em conta a falta disciplinar de natureza grave (novo delito durante o cumprimento do regime aberto), o que, segundo a jurisprudência do Superior Tribunal de Justiça, constitui fundamentação idônea para negar a progressão de regime e determinar a realização de exame criminológico.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. NECESSIDADE DE REALIZAÇÃO DE EXAME CRIMINOLÓGICO. FUNDAMENTAÇÃO IDÔNEA. FALTA GRAVE. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. ALTERAÇÃO DE ENTENDIMENTO. REVOLVIMENTO FÁTICO-PROBATÓRIO. VIA IMPRÓPRIA. RECURSO DESPROVIDO.
+1. Não é vedado ao órgão julgador determinar a submissão do apenado ao exame criminológico, desde que o faça de maneira fundamentada, em estrita observância à garantia de motivação das decisões judiciais, expressa no art. 93, IX, da Constituição da República, bem como à própria previsão do art. 112, § 1º, da Lei de Execução Penal: "A decisão será sempre motivada e precedida de manifestação do Ministério Público e do defensor."
+2. Referido entendimento é objeto da Súmula n. 439/STJ ("admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada.").
+3. A jurisprudência desta Corte firmou-se no sentido de que a gravidade abstrata dos delitos praticados, a longa pena a cumprir e a probabilidade de reincidência, por não serem elementos concretos relacionados ao comportamento do sentenciado durante a execução da pena, não justificam a determinação de realização de exame criminológico para aferir o preenchimento do requisito subjetivo para concessão de benefícios executórios.
+4. A Corte Local decidiu em conformidade com o posicionamento adotado por este Tribunal Superior, eis que determinou a realização do exame criminológico com base em fundamentação idônea, relativa ao histórico prisional conturbado do reeducando, o qual ostenta a prática de três faltas graves, a última delas em tempo recente, sendo que a fuga foi perpetrada em 29/8/2007, logo após ser beneficiado com a progressão ao regime semiaberto, com captura apenas em 15/2/2015, ocasião em que foi preso em flagrante, portando arma ilegal, de numeração suprimida.
+5. O remédio constitucional não é o mecanismo próprio para a análise de questões que exijam o exame do conjunto fático-probatório em razão da incabível dilação probatória que seria necessária.
+6. Agravo regimental desprovido.
+(AgRg no HC n. 923.091/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 16/10/2024, DJe de 22/10/2024.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. DETERMINAÇÃO DO TRIBUNAL A QUO PARA SUBMISSÃO DO APENADO A EXAME CRIMINOLÓGICO. HISTÓRICO PRISIONAL CONTURBADO. COMETIMENTO DE FALTAS DISCIPLINARES DE NATUREZA GRAVE. FUNDAMENTAÇÃO IDÔNEA. FALTA REABILITADA. INDIFERENÇA. POSSIBILIDADE DE ANALISAR TODO O PERÍODO. PRECEDENTES DESTA CORTE. CONSTRANGIMENTO ILEGAL AUSENTE. Agravo regimental improvido. (AgRg no HC n. 755.408/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 12/12/2022, DJe de 14/12/2022.)
+Ante o exposto, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
