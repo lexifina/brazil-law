@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de Habeas Corpus impetrado em favor de JORGE GABRIEL LOPES GOMES em que se aponta como ato coator a decisão monocrática de Desembargador do TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ que indeferiu o pedido de liminar formulado no HC n. 0629084-81.2025.8.06.0000.
+Consta dos autos a prisão preventiva do paciente, decorrente da suposta prática dos delitos capitulados no art. 33, caput, da Lei n. 11.343/2006 e no art. 2º, caput, da Lei n. 12.850/2013.
+Em suas razões, sustenta o impetrante a ocorrência de constrangimento ilegal, porquanto a custódia preventiva está amparada em fundamentos genéricos, sem individualização da conduta e sem demonstração de perigo atual, além de se apoiar em elementos pretéritos, o que evidencia a ausência de contemporaneidade dos motivos da prisão.
+Alega que não há suporte fático para presumir fuga ou evasão do distrito da culpa, pois a mera pendência de cumprimento de mandado não comprova que o paciente se furtou ao processo, inexistindo demonstração concreta de risco à aplicação da lei penal.
+Argumenta que foram desconsideradas alternativas menos gravosas, pois há residência fixa e condições pessoais favoráveis, e não houve exposição de motivos idôneos para a não aplicação de medidas cautelares diversas, as quais se revelam suficientes ao caso.
+Defende que é cabível a substituição da prisão preventiva por domiciliar, porque o paciente é homem e único responsável pelos cuidados do filho de 9 (nove) anos, em virtude do falecimento da genitora, inexistindo outro familiar apto a assumir o encargo, com comprovações nos autos.
+Expõe que há nulidade na decretação da prisão por juízo que se declarou incompetente, em violação ao juiz natural, o que torna inválidos os atos decisórios restritivos de liberdade praticados por autoridade sem competência.
+Requer, assim, liminarmente e no mérito, a revogação da prisão cautelar, ainda que mediante a aplicação de medidas cautelares alternativas não prisionais, ou sua substituição pela prisão domiciliar.
+É o relatório.
+Decido.
+O writ não merece prosperar.
+A matéria aqui suscitada é também objeto do HC n. 1.046.953/CE.
+Constata-se, assim, a inadmissível reiteração, consoante o entendimento do Superior Tribunal de Justiça. Vejam-se os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. MERA REITERAÇÃO DE WRIT ANTERIORMENTE IMPETRADO. PLEITO DE REVISÃO DE MATÉRIA ANTERIORMENTE JULGADO POR ESTA CORTE EM SEDE DE HABEAS CORPUS. COMPETÊNCIA DA SUPREMA CORTE. RECURSO IMPROVIDO.
+1. "Constatado que o presente writ é mera reiteração de outro habeas corpus manejado nesta Corte, já que verificado se tratar do mesmo paciente e que há identidade de causas de pedir e de pedidos, não há como dar curso à impetração." (AgRg no HC n. 397.789/BA, relator Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, DJe de 13/6/2017.) 2. Na espécie, compete ao Supremo Tribunal Federal, em sede de recurso ordinário, rever anterior decisão desta Corte Superior proferido em sede do remédio constitucional do habeas corpus, a teor do art. 102, II, "a", da Constituição Federal.
+3. Agravo regimental improvido. (AgRg no HC n. 746.274/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 27.6.2022.)
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. PENAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO ILÍCITO DE DROGAS. PEDIDO DE SUSTENTAÇÃO ORAL. INADMISSIBILIDADE. TESE DE AUSÊNCIA DE MATERIALIDADE E INDÍCIOS DE AUTORIA DELITIVA. NECESSIDADE DE INCURSÃO APROFUNDADA NO CONJUNTO FÁTICO-PROBATÓRIO. INVIABILIDADE DE ANÁLISE NO ÂMBITO DO WRIT. PRISÃO PREVENTIVA. REITERAÇÃO DO PLEITO FORMULADO NO RHC N. 158.405/SC. AGRAVANTE LARISSA: INSURGÊNCIA CONTRA AS MEDIDAS CAUTELARES IMPOSTAS. INSTRUÇÃO DEFICIENTE. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+3. No RHC n. 158.405/SC, foi formulada idêntica pretensão em favor do Agravante, tendo sido parcialmente conhecido o recurso ordinário e, nessa extensão, desprovido. O habeas corpus, portanto, é mera reiteração de pedido anterior, em que há identidade de partes, de pedido e de causa de pedir, além de impugnarem ambos o mesmo acórdão e a mesma matéria.
+ ..
+5. Agravo regimental desprovido. (AgRg nos EDcl no HC n. 730.077/SC, Rel. Ministra Laurita Vaz, Sexta Turma, DJe de 31.5.2022.)
+Ademais, não há como reconhecer a presença de manifesta ilegalidade quanto à matéria relativa à incompetência do juízo de primeiro grau, pois, do que consta dos autos, não foi apreciada no acórdão impugnado, o que impede a manifestação desta Corte sobre a questão, sob pena de indevida supressão de instância. Confira-se, a propósito, os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. INSURGÊNCIA CONTRA ACÓRDÃO TRANSITADO EM JULGADO. MANEJO DO WRIT COMO REVISÃO CRIMINAL. DESCABIMENTO. DOSIMETRIA. SUPRESSÃO DE INSTÂNCIA. PEDIDO NÃO CONHECIDO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O habeas corpus foi impetrado contra acórdão já transitado em julgado. Diante dessa situação, o writ não deve ser conhecido, pois foi manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte.
+2. Não há manifesta ilegalidade na dosimetria a reclamar a concessão da ordem, pois a tese suscitada não foi analisada pela Corte local, motivo pelo qual incabível o exame de tal questão, de forma originária, por este Sodalício, sob pena de indevida supressão de instância.
+3. Agravo regimental não provido. (AgRg no HC n. 888.166/SP, Rel. Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, DJe de 21.6.2024.)
+PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL EM HABEAS CORPUS. FUNGIBILIDADE RECURSAL. TRÁFICO DE DROGAS. BUSCA DOMICILIAR. FALTA DE JUSTA CAUSA. BIS IN IDEM NA DOSIMETRIA. APLICAÇÃO DE REGIME MAIS BRANDO. MATÉRIAS NÃO APRECIADAS NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. WRIT ORIGINÁRIO NÃO CONHECIDO. CONDENAÇÃO TRANSITADA EM JULGADO. CABIMENTO DE REVISÃO CRIMINAL. AUSÊNCIA DE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Petição recebida como agravo regimental, em homenagem ao princípio da fungibilidade, tendo em vista ausência de previsão legal de pedido de reconsideração. Precedentes.
+2. As teses suscitadas pela defesa (violação de domicílio, bis in idem na dosimetria da pena e necessidade de alteração do regime prisional) não foram objeto de exame no acórdão impugnado, o que impede o conhecimento dos temas diretamente por este Tribunal Superior, sob pena de indevida supressão de instância.
+3. Não há ilegalidade na decisão do Tribunal de origem que não conheceu do writ originário manejado como substitutivo de revisão criminal. Isso porque a impetração de habeas corpus após o trânsito em julgado da condenação e com a finalidade de desconstituir sentença condenatória definitiva é indevida, sobretudo quando a análise das teses constantes do writ substitutivo demandam revolvimento fático-probatório.
+4 . Agravo regimental desprovido. (RCD no HC n. 904.224/AM, Rel. Ministro Ribeiro Dantas, Quinta Turma, DJe de 13.6.2024.)
+Ainda nesse sentido: AgRg no HC n. 818.823/SP, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 22.6.2023; AgRg no HC n. 899.551/SC, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 29.4.2024; AgRg no HC n. 897.496/MS, Rel. Ministro Messod Azulay Neto, Quinta Turma, DJe de 23.4.2024; AgRg no HC n. 879.253/SP, Rel. Ministro Teodoro Silva Santos, Sexta Turma, DJe de 21.3.2024; AgRg no HC n. 882.227/RJ, Rel. Ministro Teodoro Silva Santos, Sexta Turma, DJe de 18.32024.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente Habeas Corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
+ EMENTA
