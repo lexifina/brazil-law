@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de conflito de competência suscitado na ação de cobrança ajuizada por Ysla Kallena Macedo e Medeiros em desfavor do Centro Médico Metropolitano Ltda SCP e do Município de Ipanguaçu - RN.
+A ação foi aviada perante o Juízo de Direito do Juizado Especial Cível, Criminal e da Fazenda Pública de Ipanguaçu - RN que declinou da competência para a Justiça do Trabalho por entender que "no caso em apreço, a natureza das verbas postuladas revela-se típica de contrato de trabalho regido pela Consolidação das Leis do Trabalho, o que reforça, sobremaneira, a competência especializada da Justiça do Trabalho para a cognição da matéria" (fls. 34-36).
+Recebidos os autos, o Juízo da Vara do Trabalho de Assu - RN, igualmente, reconheceu a incompetência para o feito e suscitou o presente Conflito, nos seguintes termos (fls. 44-45):
+Compulsando os autos, vejo que a presente demanda se trata de ação de cobrança ajuizada pelo sócio participante em face do sócio ostensivo em razão do não pagamento de valores decorrentes de uma sociedade em conta de participação (vide fl. 17).
+A sociedade em conta de participação tem previsão nos artigos 991 a 996 do CC/02 e é espécie do gênero sociedade despersonificada, possuindo em seu quadro societário duas modalidades de sócios, quais sejam, os sócios ocultos (também chamados de participantes) e os sócios ostensivos.
+Nesse contexto, as ações que envolvem a cobrança de valores de um sócio participante em face do sócio ostensivo, decorrente da mencionada sociedade, são de competência da Justiça Comum e não da Justiça do Trabalho.
+Oportuno registrar que na petição inicial a autora não requer a nulidade do negócio empresarial atinente à sociedade em conta de participação, tampouco pretende que seja reconhecido o vínculo empregatício entre si e a ré CENTRO MEDICO METROPOLITANO LTDA SCP.
+Nesse sentido, a própria autora, após ser intimada pelo Juiz de Direito a se manifestar acerca da "incompetência deste Juízo em razão das matérias trabalhista discutida nos autos" (fl. 29), afirma categoricamente às fls. 30/31 que "a presente demanda não versa sobre vínculo empregatício ou qualquer outro tema de natureza estritamente trabalhista. A controvérsia trazida aos autos refere-se exclusivamente ao não pagamento da contraprestação pelos serviços médicos efetivamente prestados pelo requerente".
+Logo, evidente que a autora não suscita qualquer irregularidade /fraude relativa à sociedade em conta de participação instituída, não existindo, portanto, pedido de nulidade contratual.
+Assim sendo, entendo que compete à Justiça Comum processar e julgar a presente demanda.
+Instado a se manifestar, o Ministério Público Federal opinou pela competência do Juízo da Vara do Trabalho de Assu - RN (fls. 101-107).
+É o relatório. Decido.
+Inicialmente, acentuo que o Conflito comporta conhecimento, porquanto se trata de controvérsia instaurada entre Juízes vinculados a Tribunais distintos, consoante o disposto no art. 105, I, d, da Magna Carta.
+Compulsando a peça exordial (fls. 4-10), verifica-se tratar-se de demanda, no qual a autora sustenta que foi contratada pelo Município de Ipanguaçu - RN, por intermédio do Centro Médico Metropolitano Ltda SCP, para prestar serviços médicos, na função de médico clínico, em 25/7/2023. Aduz, ainda, que ficaram pendentes de pagamento, os meses de setembro a dezembro/2024, no valor total de R$ 48.000,00 (quarenta e oito mil reais).
+Em petição, a fls. 31-32, a autora defende que "a presente demanda não versa sobre vínculo empregatício ou qualquer outro tema de natureza estritamente trabalhista. A controvérsia trazida aos autos refere-se exclusivamente ao não pagamento da contraprestação pelos serviços médicos efetivamente prestados pela requerente".
+Objetiva, na presente ação o recebimento do valor correspondente ao período de setembro a dezembro de 2024, devidamente corrigidos.
+Com efeito, conforme consta nos autos, não há discussão sobre direitos trabalhistas nos moldes a atrair a competência da Justiça do trabalho, mas de obrigação de natureza civil, decorrente de contrato de prestação de serviços médicos, sendo competente, pois, a Justiça Estadual.
+Nesse sentido, mutatis mutandis:
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇAS ESTADUAL E DO TRABALHO. AÇÃO DE COBRANÇA. VALORES SUPOSTAMENTE DEVIDOS PELA PRESTAÇÃO DE SERVIÇOS DE TRANSPORTE EM AUTOMÓVEL DE PROPRIEDADE DO AUTOR. ÍNDOLE CIVIL DA DEMANDA. EMENDA CONSTITUCIONAL Nº 45/04. RELAÇÃO DE TRABALHO. NÃO CARACTERIZAÇÃO. COMPETÊNCIA. JUSTIÇA ESTADUAL.
+1. Mesmo com a ampliação da competência da Justiça do Trabalho em decorrência da alteração da expressão "relação de emprego" para "relação de trabalho", a Emenda Constitucional nº 45/04 não retirou a atribuição da Justiça estadual para processar e julgar ação alusiva a relações contratuais de caráter eminentemente civil, diversa da relação de trabalho.
+2. A competência ratione materiae define-se pela natureza jurídica da controvérsia, delimitada pelo pedido e pela causa de pedir.
+3. A presente ação de cobrança objetiva compelir o Município réu a pagar diferenças contratuais, não adimplidas espontaneamente, decorrentes da prestação de serviços de transporte em veículo de propriedade do autor.
+Observa-se que não há, na petição inicial, qualquer pretensão de natureza trabalhista, como adicionais, férias, décimo terceiro ou FGTS, mas apenas o pagamento de duas parcelas de R$ 1.500,00 (mil e quinhentos reais) cada, tal como previsto no próprio contrato celebrado.
+4. Assim, não há relação de trabalho, no caso, mas simples obrigação de natureza civil, decorrente de contrato de prestação de serviços de transporte.
+5. Conflito de competência conhecido para declarar competente o Juízo de Direito da Vara Cível de Jaguarari/BA, o suscitante.
+(CC n. 117.722/BA, relator Ministro Castro Meira, Primeira Seção, julgado em 23/11/2011, DJe de 2/12/2011.)
+No mesmo sentido, monocraticamente: CC n. 216.840/RN, relator Ministro Afrânio Vilela, DJEN de 22/10/2025.
+Ante o exposto, com fundamento no art. 34, XXII, do RISTJ, conheço do presente conflito e declaro competente o Juízo de Direito do Juizado Especial Cível, Criminal e da Fazenda Pública de Ipanguaçu - RN.
+Publique-se. Intimem-se.
+EMENTA
