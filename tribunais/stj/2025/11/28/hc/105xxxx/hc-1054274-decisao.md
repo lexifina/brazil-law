@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de TIBIRIÇA INDIA DE ALVES DE CASTRO contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA no julgamento do Recurso em Sentido Estrito n. 0000113-20.1993.8.05.0022.
+Extrai-se dos autos que a paciente foi pronunciada, em 4/7/2008, por sentença proferida pelo Juízo da Vara Crime, Júri e Execuções Penais da Comarca de Barreiras/BA, como incursa nas sanções do art. 121, § 2º, I e IV, c/c o art. 29, do Código Penal - CP (homicídio qualificado pela torpeza e pelo emprego de recurso que dificultou a defesa do ofendido).
+Irresignada, a defesa interpôs recurso em sentido estrito, contudo, a Segunda Câmara Criminal do Tribunal de Justiça do Estado da Bahia, em sessão de julgamento realizada no ano de 2010, negou provimento ao recurso, conforme o acórdão assim ementado (fl. 18):
+"RECURSO CRIMINAL EM SENTIDO ESTRITO. HOMICÍDIO QUALIFICADO (ART. 121, § 2º, II E IV, C/C ART. 29, AMBOS DO CP). MATERIALIDADE E INDÍCIOS DE AUTORIA SUFICIENTEMENTE CORROBORADOS. AUSÊNCIA DE CERTEZA IRRESTRITA QUANTO AO FATO E À AUTORIA. IN DUBIO PRO SOCIETATE. - Trata-se a decisão de pronúncia de juízo de probabilidade, é dizer, de mera admissão da acusação. Prescinde, portanto, de plena convicção quanto à autoria do crime doloso contra a vida. Destarte, havendo provas seguras quanto à materialidade delitiva e elementos indicativos da autoria, a pronúncia é medida que se impõe. RECURSO CONHECIDO E IMPROVIDO."
+Neste writ, a defesa se insurge contra a pronúncia, sob o argumento de ausência de provas da participação da paciente nos fatos imputados.
+Argumenta que a convicção do julgador está indevidamente baseada em presunção e ilegitimamente justificada no princípio in dubio pro societate.
+Ressalta a ilegitimidade da pronúncia amparada em elementos indiciários, observado o comando do art. 155 do Código de Processo Penal - CPP, assim como em meros testemunhos de "ouvi dizer".
+Relata a designação de sessão plenária do Tribunal do Júri para o dia 24/11/2025, a partir das 9h.
+Requer o deferimento de medida liminar para suspender a sessão prevista para 24/11/2025, bem como a concessão da ordem para despronunciar a paciente nos autos da Ação Penal n. 0000113-20.1993.8.05.0022.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça.
+Ademais, a possibilidade de análise da matéria para eventual concessão da ordem de ofício não se mostra adequada no presente caso.
+A presente impetração traz pedido idêntico ao formulado no HC n. 1.054.230/BA, ainda em trâmite perante esta Corte Superior, e em ambos se ataca acórdão do Tribunal de Justiça do Estado da Bahia no Recurso em Sentido Estrito n. 0000113-20.1993.8.05.0022 .
+Assim, diante de inadmissível reiteração de pedidos, resta obstaculizado o conhecimento deste mandamus, reservada a análise da controvérsia aos autos da primeira impetração.
+Nesse sentido:
+AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. FEMINICÍDIO QUALIFICADO E ABORTO PROVOCADO POR TERCEIRO TENTADOS. RECURSO ORDINÁRIO INTERPOSTO SEM PROCURAÇÃO. DEFICIÊNCIA NÃO SANADA EM SEDE DE AGRAVO REGIMENTAL. IMPOSSIBILIDADE DE SUPERAÇÃO DO ÓBICE PARA CONHECIMENTO DA MATÉRIA DE OFÍCIO. INEFICÁCIA DE EVENTUAL REGULARIZAÇÃO. OBJETO DO RECURSO QUE CONSISTE EM MERA REITERAÇÃO DE IMPETRAÇÃO ANTERIOR. PRISÃO DOMICILIAR PARA TRATAMENTO DE SAÚDE. AUSÊNCIA DE DEMONSTRAÇÃO DE ALTERAÇÃO QUE JUSTIFIQUE NOVO JULGAMENTO. AGRAVO REGIMENTAL QUE SE LIMITA A REPETIR AS ALEGAÇÕES PRÉVIAS. PRINCÍPIO DA DIALETICIDADE. INOBSERVÂNCIA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Hipótese na qual não consta dos autos procuração outorgada ao patrono do agravante, o que, nos termos do enunciado n. 115 da Súmula desta Corte, torna inexistente o recurso. Ademais, embora apontada a ausência na decisão ora atacada, não houve a regularização com a interposição do agravo regimental.
+2. Embora a jurisprudência desta Corte admita, em homenagem aos princípios da economia processual e da primazia da decisão de mérito, o afastamento, de ofício, de eventual ilegalidade patente, ou a concessão de prazo para a regularização do pressuposto de admissibilidade, nos termos do art. 76, caput, e art. 932, parágrafo único, do Código de Processo Civil, não é cabível, no caso, a apreciação do mérito do recurso, e também seria inócua a regularização do feito, eis que as alegações ora apresentadas consistem em mera reiteração de recurso prévio (RHC 185348/SP), cujo provimento foi negado em 11/9/2023 - ou seja, em data recente.
+3. "A mera reiteração de pedido, que se limita a reproduzir, sem qualquer inovação de fato e/ou de direito, os mesmos fundamentos subjacentes a postulação anterior, torna inviável o próprio conhecimento da ação de habeas corpus". (AgRg no HC n. 190.293, Rel. Min. Celso de Mello, julgado em 20/10/2020, DJe 19/11/2020).
+4. Ademais, o agravante se limitou a reproduzir as razões do recurso ordinário, sem impugnar especificamente a decisão agravada.
+Todavia, " ..  a jurisprudência deste Superior Tribunal de Justiça orienta que o princípio da dialeticidade exige da parte a demonstração específica do desacerto da fundamentação no decisum atacado. Precedentes" (AgRg no HC n. 752.579/BA, Rel. Ministro JOÃO BATISTA MOREIRA (Desembargador Convocado do TRF1), Quinta Turma, DJe de 3/7/2023).
+5. Agravo não conhecido .
+(AgRg no RHC n. 186.154/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 17/10/2023, DJe de 27/10/2023.)
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
