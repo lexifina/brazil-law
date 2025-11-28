@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Messod Azulay Neto e Maria Marluce Caldas votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+Ausentes, justificadamente, os Srs. Ministros Ribeiro Dantas e Joel Ilan Paciornik.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. RECURSO ESPECIAL INADMITIDO PELO ÓBICE DA SÚMULA 7/STJ. INCIDÊNCIA DA SÚMULA N. 182/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A falta de impugnação específica e pormenorizada dos fundamentos técnicos utilizados na decisão agravada, notadamente o óbice da Súmula 7/STJ, atrai a incidência do enunciado sumular n. 182 desta Corte Superior.
+2. Ademais, para afastar a incidência da Súmula 7/STJ, não basta sustentar, genericamente, que a matéria seria apenas jurídica; é indispensável demonstrar, à luz das premissas fáticas do acórdão recorrido e da tese recursal, que a análise não depende do reexame de provas, o que não ocorreu na espécie.
+3. Agravo regimental não provido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ANGEL ARNALDO SANCHES MARTINEZ contra decisão que, com fundamento no art. 21-E, V, c/c o art. 253, parágrafo único, I, do RISTJ, e na Súmula 182/STJ, não conheceu do agravo em recurso especial, considerando a ausência de impugnação específica a todos os fundamentos da decisão de inadmissibilidade do recurso especial, notadamente a incidência da Súmula 7/STJ.
+Nas razões do presente recurso, a defesa sustenta: (i) o cabimento do agravo regimental nos termos do art. 1.021 do CPC c/c arts. 258 e 259 do RISTJ; (ii) violação ao princípio da dialeticidade, ao argumento de que o agravo em recurso especial teria infirmado todos os fundamentos da decisão de inadmissão, mas que a decisão agravada não indicou quais teses seriam deficientes ou pretenderiam revolver fatos e provas; (iii) que a controvérsia não demanda reexame de matéria fático-probatória, mas apenas revaloração jurídica, afastando a incidência da Súmula 7/STJ; (iv) que o Tribunal de origem contrariou o art. 33, § 4º, da Lei n. 11.343/2006, por afastar o tráfico privilegiado com base exclusivamente na quantidade e no acondicionamento da droga, sem demonstrar dedicação a atividades criminosas ou integração a organização criminosa, e sem adequada fundamentação, em ofensa ao art. 93, IX, da Constituição.
+Requer a reconsideração para que seja conhecido e provido o agravo em recurso especial, com o consequente processamento e provimento do recurso especial; subsidiariamente, pleiteia a submissão do agravo regimental ao órgão colegiado.
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. RECURSO ESPECIAL INADMITIDO PELO ÓBICE DA SÚMULA 7/STJ. INCIDÊNCIA DA SÚMULA N. 182/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A falta de impugnação específica e pormenorizada dos fundamentos técnicos utilizados na decisão agravada, notadamente o óbice da Súmula 7/STJ, atrai a incidência do enunciado sumular n. 182 desta Corte Superior.
+2. Ademais, para afastar a incidência da Súmula 7/STJ, não basta sustentar, genericamente, que a matéria seria apenas jurídica; é indispensável demonstrar, à luz das premissas fáticas do acórdão recorrido e da tese recursal, que a análise não depende do reexame de provas, o que não ocorreu na espécie.
+3. Agravo regimental não provido.
+VOTO
+O agravo regimental não comporta provimento.
+Da análise dos autos, verifica-se que a decisão agravada não conheceu do agravo em recurso especial, assentando a ausência de impugnação específica ao óbice de inadmissibilidade do recurso especial reconhecido na origem, consubstanciado na Súmula 7/STJ, à luz do art. 932, III, do CPC e do art. 253, parágrafo único, I, do RISTJ, com suporte em julgado da Corte Especial que exige a impugnação integral de todos os fundamentos da decisão de inadmissão (e-STJ fls. 531/532).
+Não obstante, nas razões do agravo regimental (e-STJ fls. 536/539), a parte agravante limitou-se a afirmar, genericamente, o cabimento do agravo regimental e a existência de dialeticidade nas razões do AREsp, além de sustentar que a controvérsia não demanda revolvimento fático-probatório e de reiterar a tese meritória relativa ao art. 33, § 4º, da Lei n. 11.343/2006 e ao art. 93, IX, da Constituição, sem demonstrar, de forma efetiva, concreta e pormenorizada, em que medida o agravo em recurso especial teria, de fato, atacado o específico óbice aplicado pela decisão de inadmissibilidade, qual seja, a incidência da Súmula 7/STJ.
+De fato, não basta ao agravante "sustentar genericamente que a matéria seria apenas jurídica, sem explicitar, à luz da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame de provas" (AgRg no AREsp n. 1.677.886/MS, relatora Ministra Laurita Vaz, Sexta Turma, D Je de 3/6/2020.)
+Com efeito , " i nadmitido o recurso especial por incidência do óbice da Súmula n. 7 do STJ, a alegação genérica de que não se pretende o reexame de fatos e provas é insuficiente, ainda que feita breve menção à tese sustentada, quando ausente o devido cotejo das premissas fáticas do acórdão proferido na origem" (AgRg no AREsp n. 2.532.335/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 27/11/2024, DJEN de 2/12/2024).
+Assim, como tem reiteradamente decidido esta Corte, os recursos devem impugnar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. Não são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do agravo ou do recurso especial, tampouco a insistência no mérito da controvérsia.
+Nesse contexto, portanto, em igual entendimento ao exposto na decisão agravada, conclui-se inafastável a incidência, por analogia, do verbete sumular n. 182/STJ, que assim dispõe:
+É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+A propósito:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. INCIDÊNCIA DA SÚMULA 182/STJ. AGRAVO REGIMENTAL DESPROVIDO. I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão que não conheceu do agravo em recurso especial, com fundamento na incidência da Súmula 182 do Superior Tribunal de Justiça, diante da ausência de impugnação específica a todos os fundamentos que sustentaram a inadmissão do recurso especial, notadamente o óbice decorrente da Súmula 83/STJ. O agravante sustenta ter observado o princípio da dialeticidade recursal e reitera os fundamentos de mérito relativos à soberania dos veredictos do Tribunal do Júri, pleiteando o provimento do agravo regimental para o processamento e acolhimento do recurso especial. II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em determinar se o agravo em recurso especial interposto pelo agravante atacou de forma específica e suficiente todos os fundamentos que embasaram a decisão de inadmissibilidade do recurso especial, condição indispensável para o seu conhecimento, conforme a Súmula 182/STJ. III. RAZÕES DE DECIDIR
+3. O agravo em recurso especial não impugnou de forma específica e suficiente todos os fundamentos da decisão agravada, limitando-se a contestar apenas parte dos óbices apontados, sem infirmar, notadamente, o fundamento relacionado à Súmula 83/STJ, o que atrai a incidência da Súmula 182/STJ e impede o conhecimento do recurso.
+4. A jurisprudência consolidada do Superior Tribunal de Justiça exige, para o conhecimento do agravo em recurso especial, que a parte impugne todos os fundamentos da decisão de inadmissibilidade, por se tratar de decisão una e incindível, não comportando a separação em capítulos autônomos.
+5. A mera reafirmação de argumentos de mérito, relativos à soberania dos veredictos e à inexistência de decisão manifestamente contrária à prova dos autos, não supre a exigência de impugnação específica dos fundamentos técnicos que obstaram o seguimento do recurso especial.
+6. Inexistindo a necessária impugnação de todos os fundamentos, mantém-se a decisão agravada que não conheceu do agravo em recurso especial. IV. DISPOSITIVO E TESE
+7. Agravo regimental desprovido.
+Tese de julgamento:
+A ausência de impugnação específica e suficiente a todos os fundamentos que motivaram a inadmissibilidade do recurso especial, especialmente quando fundados na Súmula 83 do STJ, atrai a incidência da Súmula 182 do STJ e impede o conhecimento do agravo em recurso especial.
+A decisão que inadmite recurso especial constitui unidade incindível, exigindo-se do recorrente impugnação integral de seus fundamentos, sob pena de não conhecimento do agravo.
+A reafirmação de razões de mérito não supre a necessidade de impugnação específica dos fundamentos técnicos que obstam o processamento do recurso especial.
+(AgRg no AREsp n. 2.834.125/PA, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 10/6/2025, DJEN de 16/6/2025.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DESCAMINHO. PRINCÍPIO DA INSIGNIFICÂNCIA. AGRAVO NÃO CONHECIDO ANTE A FALTA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA MANTIDA. IMPUGNAÇÃO TARDIA. PRECLUSÃO. AGRAVO REGIMENTAL DESPROVIDO. I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão que não conheceu do agravo em recurso especial, sob o argumento de que a parte agravante não impugnou especificamente todos os fundamentos da decisão recorrida. II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se a parte agravante impugnou de forma efetiva, concreta e pormenorizada todos os fundamentos da decisão que inadmitiu o recurso especial, conforme exigido pelo art. 932, inciso III, do CPC e pelo art. 253, parágrafo único, inciso I, do Regimento Interno do STJ. III. RAZÕES DE DECIDIR
+3. A decisão agravada foi mantida porque a parte agravante não impugnou os óbices das Súmulas n. 7 e n. 83 do STJ, conforme exigido para o conhecimento do agravo em recurso especial.
+4. A impugnação deve ser realizada no momento da interposição do agravo previsto no artigo 1.042 do CPC, sob pena de preclusão consumativa, não sendo suficiente a tentativa de refutação apenas no agravo regimental.
+5. A Corte Especial do STJ já assentou que a decisão de inadmissibilidade do recurso especial exige impugnação específica de todos os fundamentos da decisão que não admitiu o recurso especial na origem. IV. DISPOSITIVO E TESE
+6. Agravo regimental desprovido.
+Tese de julgamento: "1.A parte agravante deve impugnar de forma efetiva, concreta e pormenorizada todos os fundamentos da decisão que inadmitiu o recurso especial. 2. A impugnação deve ocorrer no momento da interposição do agravo previsto no artigo 1.042 do CPC, sob pena de preclusão consumativa."
+Dispositivos relevantes citados: CPC, art. 932, III; CPC, art. 1.042; RISTJ, art. 253, parágrafo único, I.
+Jurisprudência relevante citada: STJ, Súmula 182; STJ, Súmula 7;
+STJ, Súmula 83.
+(AgRg no AREsp n. 2.809.707/MS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 20/5/2025, DJEN de 26/5/2025.)
+Diante do exposto, nego provimento ao agravo regimental.
+É como voto.
