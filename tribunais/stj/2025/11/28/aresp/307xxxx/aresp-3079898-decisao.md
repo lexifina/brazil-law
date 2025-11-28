@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu o recurso especial interposto em face de acórdão assim ementado:
+AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. DIREITO PRIVADO NÃO ESPECIFICADO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CONCESSÃO DE GRATUIDADE JUDICIÁRIA. CABIMENTO. AUSÊNCIA DE ELEMENTOS NOVOS, CAPAZES DE ALTERAR A CONVICÇÃO ANTES FIRMADA. DECISÃO MONOCRÁTICA MANTIDA. AGRAVO INTERNO DESPROVIDO.
+Nas razões de recurso especial, a parte agravante alega violação dos arts. 6º, 8º, 11, 489, 1015, 1021 e 1022 do Código de Processo Civil. Sustenta que o acórdão é desprovido de fundamentos e que não deveria ter sido deferido o benefício da justiça gratuita em favor da parte ora agravada.
+Assim posta a questão, observo que o acórdão recorrido se manifestou de forma suficiente e motivada sobre o tema em discussão nos autos. Ademais, não está o órgão julgador obrigado a se pronunciar sobre todos os argumentos apontados pelas partes, a fim de expressar o seu convencimento. No caso em exame, o pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido. Afasto, pois, a alegada violação dos arts. 11, 489 e 1022 do CPC.
+O tema de que cuida o art. 1015 do CPC não foi objeto de consideração e debate pelo acórdão recorrido. Ausente o prequestionamento, é inviável o recurso especial quanto ao ponto, segundo a Súmula 282/STF, aplicável à espécie.
+Quanto ao mais, verifico que o recurso especial não dispensa o reexame de prova. O agravante afirma que a agravada tem condições de arcar com as custas do processo, de modo que é incabível o deferimento do benefício da justiça gratuita. A respeito dessa premissa fática, porém, confira-se o seguinte trecho do acórdão recorrido (fl. 64):
+(..) conforme já explicitado na decisão recorrida, ao consultar a Declaração de Imposto de Renda do agravado - exercício 2022 - percebe-se que não existe patrimônio em nome do executado, apenas os rendimentos decorrentes do pagamento de seu salário, sendo o total de seus rendimentos tributáveis a importância de R$ 81.301,98. Desse modo, de fato, considerando a renda bruta auferida, esta supera 5 salários mínimos, tendo como parâmetro o ano de 2021. Contudo, a benesse já havia sido deferida anteriormente com base nos contracheques acostados pelo executado, avaliando-se, em conjunto, os rendimentos líquidos percebidos. Desse modo, de fato, considerando a renda bruta auferida, esta supera 5 salários mínimos, tendo como parâmetro o ano de 2021. Contudo, a benesse já havia sido deferida anteriormente com base nos contracheques acostados pelo executado, avaliando-se, em conjunto, os rendimentos líquidos percebidos.
+Atenta-se, ainda, para a jurisprudência desta Corte sobre a possibilidade de considerar, para concessão do benefício da gratuidade judiciária, os rendimentos líquidos da pessoa física, associados a ausência de patrimônio vultoso:
+(..)
+Além disso, verifica-se que - tratando-se de pessoa física - existe presunção de veracidade da declaração de hipossuficiência.
+(..)
+Logo, inexistindo prova em contrário, a manutenção da decisão é o único caminho a ser tr ilhado.
+Nesse passo, considerando que a parte agravante não apresentou novos fatos, bem como novas alegações/teses em seu agravo interno, limitando-se a repetir o que já havia dito nas razões apresentadas no agravo de instrumento, o desprovimento do recurso é medida impositiva.
+Não há como afastar essas conclusões em recurso especial, consoante dispõe a Súmula 7 do STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
+EMENTA
