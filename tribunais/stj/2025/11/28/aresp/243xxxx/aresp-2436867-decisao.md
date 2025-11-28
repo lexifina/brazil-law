@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de agravo interposto por ELVIRA ALVES contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL cuja ementa guarda os seguintes termos (fls. 503-504):
+APELAÇÃO CÍVEL. AÇÃO DE REINTEGRAÇÃO DE POSSE. PEDIDO DE INCLUSÃO NO POLO PASSÍVO DA SUCESSÃO DE DEOTILIO. INDEFERIMENTO QUE DEVE SER MANTIDO. IMPROCEDÊNCIA RATIFICADA. REINTEGRAÇÃO DE POSSE. NÃO COMPROVADO O EXERCÍCIO DA POSSE ANTERIOR, TAMPOUCO O ESBULHO, IMPÕE-SE A IMPROCEDÊNCIA DO PEDIDO INICIAL DA AÇÃO, POIS NÃO PREENCHIDOS OS REQUISITOS DO ART. 561 DO CPC/15. APELAÇAO DESPROVIDA.
+Sem embargos de declaração.
+Aduz, no mérito, que o acórdão contrariou as disposições contidas nos artigos 485, VI, 450, 560, 561 e 926 do Código de Processo Civil e 1.200, 1.202 e 1.210 do Código C ivil.
+Sustenta, em síntese, que deveria haver o chamamento da sucessão para compor o polo passivo e que se comprovaram os requisitos para configuração da reintegração de posse.
+Sem contrarrazões ao recurso especial.
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 549-555), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo.
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Cinge-se a controvérsia a saber se caberia a inclusão do espólio do Sr. Deotilo Amancio Clemente no polo passivo da demanda e se foram cumpridos os requisitos que autorizam a reintegração de posse.
+De início, do tópico preliminar que pleiteia a inclusão do espólio no polo passivo da demanda, percebe-se que a recorrente não indicou dispositivo legal violado, limitando-se a fundamentos genéricos. Incide, portanto, a Súmula n. 284/STF. Nesse sentido, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TRIBUTÁRIO. CARÊNCIA DE APONTAMENTO DE DISPOSITIVO DE LEI FEDERAL VULNERADO PELO JULGAMENTO DA SEGUNDA INSTÂNCIA. SÚMULA 284/STF. AGRAVO INTERNO DESPROVIDO.
+1. É sabido que, "nos termos da jurisprudência do Superior Tribunal de Justiça, o especial é recurso de fundamentação vinculada, não lhe sendo aplicável o brocardo iura novit curia e, portanto, ao relator, por esforço hermenêutico, não cabe extrair da argumentação qual dispositivo teria sido supostamente contrariado a fim de suprir deficiência da fundamentação recursal, cuja responsabilidade é inteiramente do recorrente" (AgInt no AREsp n. 2.025.474/MS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 10/10/2022, DJe de 17/10/2022).
+2. A citação no recurso especial do artigo de lei federal malferido deve ser clara e precisa, o que não ocorreu no julgado em apreciação. Há referências a dispositivos legais na petição, contudo não fica claro qual foi desrespeitado no julgamento. Nesse cenário, é, de fato, hipótese de aplicação da Súmula 284/STF. 3. Agravo interno desprovido. (AgInt no AREsp n. 2.692.483/SP, relator Ministro Marco Aurélio Bellizze, Segunda Turma, julgado em 26/2/2025, DJEN de 6/3/2025. Grifo meu.)
+Outrossim, no que tange à alegação de violação ao art. 926 do Código de Processo Civil, aplicável também a mesma súmula supracitada, ainda que em outra hipótese, tendo em vista que a recorrente tão somente cita o dispositivo em suas razões, olvidando-se de fundamentar o motivo pelo qual o dispositivo teria sido violado. Nesse sentido, cito:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. INOCORRÊNCIA. IRPJ E CSLL. JUROS SOBRE DEPÓSITOS JUDICIAIS. INCIDÊNCIA. TEMA N. 504/STJ. PIS E COFINS. TEMA N. 1.237/STJ. IRPJ E CSLL SOBRE OS JUROS MORATÓRIOS APLICADOS SOBRE CRÉDITOS TRIBUTÁRIOS FEDERAIS, ESTADUAIS E MUNICIPAIS NÃO CORRIGIDOS PELA SELIC. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 282/STF. ALEGAÇÃO GENÉRICA DE OFENSA A DISPOSITIVO DE LEI FEDERAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..  V - A jurisprudência desta Corte considera que quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284 do Supremo Tribunal Federal.  ..
+(AgInt no REsp n. 2.199.332/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 30/6/2025, DJEN de 5/8/2025.)
+Ademais, alterar o decidido no acórdão impugnado, no que se refere ao cumprimento dos requisitos legais que admitem a concessão da reintegração de posse, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ. Nesse sentido, confira-se:
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REINTEGRAÇÃO DE POSSE. INADMISSÃO DO RECURSO ESPECIAL. AUSÊNCIA DE DEMONSTRAÇÃO DOS REQUISITOS DA TUTELA POSSESSÓRIA. INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ. IMPOSSIBILIDADE DE REEXAME DE FATOS E PROVAS. AGRAVO NÃO CONHECIDO.
+ ..  4. O acórdão recorrido concluiu, com base no conjunto probatório, que não houve demonstração suficiente da posse, do esbulho, da data do esbulho e da perda da posse, requisitos exigidos para a concessão da tutela possessória, conforme do CPC. art. 561
+5. A pretensão dos agravantes exige o reexame de fatos e provas, especialmente no tocante à validade de suposto contrato de comodato e à alegação de posse mansa e. pacífica, o que atrai a incidência da Súmula 7 do STJ
+7. A jurisprudência desta Corte é pacífica no sentido de que a revaloração jurídica de fatos incontroversos é admitida, mas não se verifica, no caso concreto, demonstração suficiente, pela parte recorrente, de que se trata de mera subsunção jurídica, e não de reexame de prova.
+(AREsp n. 2.959.664/RS, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 13/10/2025, DJEN de 16/10/2025. Grifo meu.)
+Por fim, a incidência da Súmula n. 7 do STJ quanto à interposição pela alínea "a" do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para R$ 1.500,00 (fl. 502), observada a concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+ EMENTA
