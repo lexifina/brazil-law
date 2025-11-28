@@ -1,0 +1,16 @@
+DECISÃO
+DENIS ALBERTO GANDOLPHO opõe embargos de declaração à decisão de fls. 503-507, que negou provimento ao agravo em recurso especial, com majoração dos honorários, aplicando, em síntese, os óbices das Súmulas n. 282 e 356 do STF quanto à ausência de prequestionamento dos arts. 14 e 43, § 3º, do Código de Defesa do Consumidor, e arts. 186 e 927 do Código Civil; das Súmulas n. 5 e 7 do Superior Tribunal de Justiça quanto ao reexame de cláusulas contratuais e matéria fática relacionado aos arts. 373, II, do Código de Processo Civil, e 6º, VIII, do Código de Defesa do Consumidor; e da Súmula n. 518 do Superior Tribunal de Justiça quanto à impossibilidade de alegar violação a enunciado sumular.
+Em suas razões, a embargante sustenta que houve omissão, porque a decisão não se manifestou sobre a afetação do Tema 1264 e a consequente necessidade de suspensão do processo, destacando que o pedido principal trata do reconhecimento da prescrição do débito.
+Requer o acolhimento dos embargos para sanar a omissão e suspender o processo até o julgamento do Tema 1264.
+As contrarrazões aos embargos foram apresentadas às fls. 518-521.
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a aclarar obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado.
+No presente caso, a parte aponta omissão, por ausência de manifestação acerca da suspensão do processo em razão da afetação pelo Tema 1264, sustentando que o pedido principal versa sobre prescrição do débito e que a tese repetitiva exigiria a suspensão.
+Contudo, na decisão de fls. 503-507, consta que o agravo em recurso especial foi desprovido por razões de admissibilidade, com: (i) incidência das Súmulas n. 282 e 356 do STF quanto à falta de prequestionamento dos arts. 14 e 43, § 3º, do Código de Defesa do Consumidor, e 186 e 927 do Código Civil; (ii) aplicação das Súmulas n. 5 e 7 do Superior Tribunal de Justiça para afastar pretensão de reexame de cláusulas e provas sobre os arts. 373, II, do Código de Processo Civil, e 6º, VIII, do Código de Defesa do Consumidor; e (iii) não conhecimento por afronta à Súmula n. 518 do Superior Tribunal de Justiça quando indicada a Súmula n. 479 do Superior Tribunal de Justiça como violada.
+Assim, não há omissão a ser sanada.
+A alegação de suspensão com base no Tema 1264 não foi indicada nas razões do recurso especial sintetizadas na decisão embargada (fls. 503-507), que tratou de violação aos arts. 14 e 43, § 3º, do Código de Defesa do Consumidor, 186 e 927 do Código Civil, 373, II, do Código de Processo Civil, 6º, VIII, do Código de Defesa do Consumidor, e da Súmula n. 479 do Superior Tribunal de Justiça, além da divergência sobre cobrança administrativa de dívida prescrita.
+A ausência de prévia suscitação específica sobre a suspensão por tema repetitivo impede reconhecer omissão na decisão de admissibilidade, que se limitou à aplicação de óbices formais.
+Dessa forma, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação do STJ foi analisada, não padecendo a decisão recorrida de vícios que autorizariam sua oposição (obscuridade, contradição, omissão e erro material).
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
