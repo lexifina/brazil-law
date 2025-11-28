@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BRADESCO SAÚDE S.A. contra a decisão que inadmitiu o recurso especial com fundamento na ausência de ofensa ao art. 1.022 do CPC e na ausência de violação do art. 12, VI, da Lei n. 9.656/1998.
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Não foi apresentada contraminuta.
+O recurso especial foi interposto com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo em agravo de instrumento nos autos de ação de obrigação de fazer.
+O julgado foi assim ementado (fl. 137):
+AGRAVO DE INSTRUMENTO. AÇÃO DE OBRIGAÇÃO DE FAZER. CUMPRIMENTO DE SENTENÇA. Decisão que determinou o pagamento das notas fiscais apresentadas pela agravada. Insurgência da operadora de plano de saúde. Não acolhimento. Ausência de demonstração de que os documentos apresentados pela exeqüente sejam irregulares. Pagamento devido. Decisão mantida. Recurso desprovido.
+Os embargos de declaração opostos foram decididos nestes termos (fl. 161):
+EMBARGOS DE DECLARAÇÃO. PRETENDIDA REDISCUSSÃO DE MATÉRIA APRECIADA POR OCASIÃO DO JULGAMENTO DE RECURSO INTERPOSTO PELA EMBARGANTE. Alegação de omissão do acórdão. Não acolhimento. Manifestação clara de inconformismo com o v. Acórdão que não se resolve por meio de embargos de declaração. Instrumento processual que tem incidência, tão só, quanto às inconsistências internas do julgamento, para o fim de completá-las, harmonizá-las, esclarecê-las ou afastar erro material. Prequestionamento. Descabimento. Mero inconformismo. Inexistência de vícios do art. 1.022 do CPC. Embargos rejeitados.
+No recurso especial, a parte aponta violação dos seguintes artigos:
+a) 1.022, II, do CPC, porque o acórdão recorrido foi omisso quanto ao prazo de 30 dias para reembolso de despesas previsto no art. 12, VI, da Lei n. 9.656/1998, mesmo após a oposição de embargos de declaração;
+b) 12, VI, da Lei n. 9.656/1998, visto que o acórdão recorrido determinou o reembolso no prazo de 5 dias, em desrespeito ao prazo legal de 30 dias após a entrega da documentação necessária.
+Requer o provimento do recurso para que seja reformado o acórdão recorrido, determinando-se a observância do prazo legal de 30 dias para reembolso das despesas.
+Não foram apresentadas contrarrazões.
+É o relatório. Decido.
+O recurso não merece prosperar.
+A controvérsia diz respeito a agravo de instrumento interposto contra decisão que determinou o pagamento das notas fiscais apresentadas pela agravada no prazo de 5 dias, sob pena de multa.
+A Corte estadual manteve a decisão, entendendo que não houve demonstração de irregularidade nos documentos apresentados pela agravada e que o pagamento era devido.
+I - Art. 1.022, II, do CPC
+A recorrente alega que o Tribunal deixou de se manifestar quanto ao prazo determinado pelo Juízo de origem para o reembolso, tendo sido concedido 5 dias, quando a legislação indica o prazo de 30 dias para reembolso.
+O Tribunal manteve a decisão agravada, afirmando tratar-se de execução de título extrajudicial em que houve descumprimento da condenação de custeio de internação do beneficiário, concluindo ter sido adequado o prazo concedido para cumprimento.
+Afasta-se a alegada ofensa ao art. 1.022, II, do CPC, visto que a Corte de origem examinou e decidiu, de modo claro, objetivo e fundamentado, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+II - Art. 12, VI, da Lei 9.656/1998
+A recorrente alega violação do art. 12, VI, da Lei n. 9.656/1998, em que há previsão de 30 dias para análise da documentação e reembolso, sendo ilegal a determinação do Juízo de origem de cumprimento em prazo inferior, de 5 dias.
+Ocorre que se trata de caso de falta de prequestionamento e de incidência das Súmulas n. 282 do STF e 211 do STJ.
+Registre-se que o prequestionamento significa a prévia manifestação do tribunal de origem, com emissão de juízo de valor, acerca da matéria referente ao dispositivo de lei federal apontado como violado.
+Trata-se de pressuposto recursal indispensável para o acesso à instância especial. A ausência de enfrentamento da questão objeto da controvérsia impede o acesso à instância especial e o conhecimento do recurso especial, nos termos da Súmula n. 282 do STF ("É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada") e da Súmula n. 356 do STF ("O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento").
+O Superior Tribunal de Justiça considera preenchido o requisito do prequestionamento quando o tribunal a quo efetivamente debate acerca da matéria inserta no dispositivo de lei federal, ainda que não mencione explicitamente seu número (AgInt no AREsp n. 1.767.078/DF, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/9/2022, DJe de 29/9/2022; e AgInt no AREsp n. 2.010.772/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 12/9/2022, DJe de 19/9/2022).
+Trata-se do chamado prequestionamento implícito.
+Esta Corte também admite o prequestionamento ficto, nos termos do art. 1.025 do CPC, exigindo que, opostos embargos de declaração na origem, seja constatada a existência de vício do art. 1.022 do CPC, devidamente apontada nas razões do recurso especial (AgInt no AREsp n. 1.984.895/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 3/10/2022, DJe de 5/10/2022; AgInt no AREsp n. 1.646.573/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 3/10/2022, DJe de 14/10/2022; e AgInt nos EDcl no AREsp n. 2.151.655/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 24/10/2022, DJe de 28/10/2022).
+No caso, após detida análise dos autos, não se verifica, a despeito da oposição de embargos declaratórios, o preenchimento do requisito do prequestionamento da tese recursal relativa à ofensa ao art. 12, VI, da Lei n. 9.656/1998, ainda que de forma implícita. Incidem, pois, na espécie as Súmulas n. 211 do STJ e 282 do STF.
+Consoante entendimento jurisprudencial do STJ, não há incompatibilidade entre a inexistência de ofensa ao art. 1.022 do CPC de 2015 e a falta de prequestionamento, com incidência das Súmulas n. 211 do STJ e 282 do STF em relação às teses invocadas pela parte agravante que não são debatidas pela corte a quo por concluir serem suficientes para a solução da controvérsia outros fundamentos utilizados pelo colegiado. Nesse sentido: AgInt no AREsp n. 1.234.093/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/4/2018, DJe de 3/5/2018; e AgInt no AREsp n.1.173.531/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 20/3/2018, DJe de 26/3/2018.
+A Corte estadual concluiu ser adequado o prazo concedido por se tratar de cumprimento de obrigação imposta em sentença, devendo a recorrente realizar o custeio conforme determinado. Soberana na análise de cláusulas contratuais e dos fatos e provas dos autos, solucionou a controvérsia, concluindo serem suficientes aqueles recibos apresentados pela beneficiária.
+Confira-se trecho da decisão (fls. 138-139):
+Consta dos autos que a agravante foi condenada a custear a internação e tratamento da enfermidade que acomete o filho da autora, ora agravada, sob pena de multa diária no valor de R$1.000,00, limitado ao montante de R$100.000,00, além de pagar indenização por danos morais, no valor de R$10.000,00 (autos nº 1020993-35.2019.8.26.0405).
+Diante do descumprimento da obrigação imposta, a autora promoveu o cumprimento de sentença, com o objetivo de obter o reembolso das despesas por ela custeadas com o tratamento.
+Após a operadora manifestar sua discordância de pagamento quanto às notas fiscais apresentadas pela agravada (fls. 67/73 dos autos originários), sobreveio a r. decisão agravada (fls. 104 dos autos originários), que consignou:
+"Vistos. O comprovante de pagamento é o próprio recibo da clinica, salvo o executado tenha provas de que se trata de recibo inidôneo. Proceda o executado o pagamento das notas fiscais apresentadas, no prazo de 5 dias, improrrogáveis, sob pena da multa já fixada. Intime-se"
+A agravante alega que não houve negativa de reembolso, mas apenas solicitação de envio de documentação complementar.
+Todavia, o inconformismo não merece provimento.
+Com efeito, o título executivo judicial foi expresso em determinar que a operadora agravante custeasse a internação e tratamento do filho da autora, ausente qualquer imposição de envio de documentação complementar, como pretende a recorrente.
+A agravada apresentou as notas fiscais e termos de quitação emitidos pela clínica em que o paciente se encontra internado, acompanhados de relatórios médicos (fls. 33/38), não havendo a agravante demonstrado qualquer indício de irregularidade da referida documentação, ônus do qual não se desincumbiu.
+Portanto, de rigor a satisfação da obrigação pela agravante, sob pena de aplicação da multa anteriormente fixada, nos termos da r. decisão agravada.
+Assim, o Tribunal concluiu que não cabia à recorrente, no momento de cumprimento de sentença, a análise documental do reembolso, estando presentes os documentos suficientes ao cumprimento do determinado em sentença, cabendo à recorrente o custeio no prazo judicial indicado.
+Portanto, o prazo objeto da pretensão recursal não se confunde com prazo para análise e reembolso administrativo, não havendo prequestionamento neste ponto quanto ao art. 12, VI, da Lei n. 9.656/1998, o que atrai a incidência das Súmulas n. 211 do STJ e 282 do STF.
+III - Conclusão
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e negar-lhe provimento.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
+ EMENTA
