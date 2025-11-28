@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que não admitiu o recurso especial pelo qual o BANCO SANTANDER BRASIL S/A se insurgira contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl . 635):
+APELAÇÃO - EMBARGOS À EXECUÇÃO FISCAL - ISS - Serviços bancários - Taxatividade da Lista Anexa à LC nº 56187 - Interpretação extensiva para adequar a hipótese de incidência tributária à nomenclatura adotada pela instituição bancária contribuinte. STF /RE 1.111.234/PR - TEMA 132/STJ. Necessidade de manter a correlação dos serviços congêneres prestados à tipificação fiscal - Exigibilidade sobre parte dos valores - Multa que deve recair tão somente sobre os valores devidos. Recurso da Municipalidade desprovido e parcialmente provido o do embargante.
+Os embargos de declaração opostos foram rejeitados (fls. 654/658).
+Em suas razões, a parte agravante requer o conhecimento do agravo a fim de que seja determinado o processamento do recurso especial.
+A parte adversa não apresentou contraminuta.
+É o relatório.
+Da irresignação não é possível conhecer visto que a parte agravante não refutou adequadamente a decisão agravada.
+O Tribunal de origem não admitiu o recurso especial sob os seguintes fundamentos: (a) ausência de violação ao art. 1.022 do Código de Processo Civil (CPC); e (b) incidência do enunciado 7 da Súmula do Superior Tribunal de Justiça (STJ).
+Confiram-se estes trechos da decisão de admissibilidade (fls. 716/717):
+Trata-se de recurso especial interposto às fls. 639/661, com fundamento no artigo 105, inciso III, alínea "a", da Constituição da República, por indicada violação aos seguintes artigos de lei federal: 369, 1022 e 1025 do Código de Processo Civil e ao item 15 da Lista de Serviços Anexa à Lei Complementar nº 116/03.
+Por primeiro, não se verifica a apontada ofensa ao art. 1022 do Código de Processo Civil, haja vista que as questões trazidas à baila pelo recorrente foram todas apreciadas pelo venerando acórdão atacado, nos limites em que expostas. Deve observar-se ainda, conforme entendimento do Col. Superior Tribunal de Justiça, como "inexistente a alegada violação do art. 1.022 do NCPC (art. 535 do CPC-73), pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. Nos termos da jurisprudência pacífica do STJ, "o magistrado não é obrigado a responder todas as alegações das partes se já tiver encontrado motivo suficiente para fundamentar a decisão, nem é obrigado a ater-se aos fundamentos por elas indicados" (REsp 684.311/RS, Rel. Min. CASTRO MEIRA, Segunda Turma, julgado em 4/4/2006, DJ 18/4/2006, p. 191), como ocorreu na hipótese em apreço" (REsp. 1.612.670/RS, Rel. Min. HUMBERTO MARTINS, DJe de 01/07/2016). Nesse sentido: AREsp 1.711.436/SP, Rel. Min. FRANCISCO FALCÃO, DJe de 18/11/2020.
+ ..
+Ademais, no que tange ao enquadramento dos serviços bancários a fim de se verificar a ocorrência do fato gerador do ISS, bem como ao alegado cerceamento de defesa, ressalte-se que busca o recorrente o reexame dos elementos fáticos que serviram de base à decisão recorrida, o que importaria em nova incursão no campo fático, objetivo divorciado do âmbito do recurso o especial de acordo com a Súmula 7 do Superior Tribunal de Justiça.
+Da leitura do agravo em recurso especial, constata-se que a parte agravante asseverou que não incidia neste caso o enunciado 7 da Súmula do STJ, mas não impugnou a ausência de violação ao art. 1.022 do CPC.
+O objetivo do agravo em recurso especial é o de desconstituir a decisão de inadmissão do recurso especial, sendo, por isso, imprescindível a impugnação específica de todos os fundamentos nela lançados com o fim de demonstrar o seu desacerto, o que, como se vê, não foi feito no presente caso.
+Dessa forma, por faltar impugnação pertinente, aplico ao presente caso, por analogia, a Súmula 182 do Superior Tribunal de Justiça, segundo a qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Na mesma linha:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO A TODOS OS FUNDAMENTOS ADOTADOS PELA DECISÃO LOCAL QUE INADMITIU O RECURSO ESPECIAL. SÚMULA N. 182/STJ. INCIDÊNCIA.
+1. É inviável o agravo que deixa de atacar, de modo específico e individualizado, todos os fundamentos adotados pelo Tribunal de origem para inadmitir o recurso especial. Incidência da Súmula n. 182 do STJ. Nesse sentido: EAREsp n. 701.404/SC, Corte Especial, Relator para acórdão Min. Luis Felipe Salomão, DJe de 30/11/2018.
+2. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 2.798.476/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 22/9/2025, DJEN de 26/9/2025.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO AGRAVO EM RECURSO ESPECIAL. NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO. RECURSO ESPECIAL INADMITIDO. ART. 932, III, DO CPC/2015; E SÚMULA 182/STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. O Tribunal de origem inadmitiu o recurso especial, em face da ausência de afronta a dispositivo legal e da consonância do acórdão recorrido com jurisprudência do STJ. O agravo em recurso especial interposto deixou de apresentar impugnação específica à consonância do acórdão recorrido com jurisprudência do STJ, não sendo provido por decisão da Presidência do Superior Tribunal de Justiça.
+2. Diante da ausência de impugnação específica dos fundamentos da decisão agravada, deve ser mantida a decisão que deixou de conhecer do agravo em recurso especial, em razão da aplicação do disposto no art. 932, III, do CPC/2015; e na Súmula 182/STJ.
+3. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 2.832.206/SP, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 17/9/2025, DJEN de 22/9/2025.)
+Ante o exposto, não conheço do agravo em recurso especial.
+Majoro em 10% (dez por cento), em desfavor da parte recorrente, o valor de honorários sucumbenciais já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos no § 2º desse dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
