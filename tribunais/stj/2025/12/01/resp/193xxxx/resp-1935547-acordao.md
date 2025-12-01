@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 25/11/2025 a 01/12/2025, por unanimidade, dar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Marco Buzzi, João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. REVISÃO. RENDA MENSAL INICIAL. EXPURGOS INFLACIONÁRIOS. INCIDÊNCIA. IMPOSSIBILIDADE. EQUILÍBRIO FINANCEIRO E ATUARIAL DO PLANO DE BENEFÍCIOS.
+1. No regime fechado de previdência privada, é inviável a incidência dos expurgos inflacionários na revisão dos proventos de complementação de aposentadoria, de forma a evitar o desequilíbrio financeiro e atuarial do plano de benefícios.
+2. A incidência de correção monetária em reserva de poupança, com o acréscimo dos expurgos inflacionários, restringe-se às hipóteses em que o filiado desliga-se definitivamente da entidade fechada de previdência privada, não se aplicando aos casos em que o filiado já aufere os benefícios complementares estipulados no contrato. Precedentes.
+3. Recurso especial a que se dá provimento.
+RELATÓRIO
+Trata-se de recurso especial interposto em face de acórdão assim ementado:
+PREVIDÊNCIA PRIVADA - APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA EM FACE DA REFER DE REAJUSTES A MENOR DE SUPLEMENTAÇÕES DE APOSENTADORIA EM RAZÃO DE PLANOS ECONÔMICOS DE 1987, 1989, 1990 E 1991 JULGADA IMPROCEDENTE - CONSIDEROU O JUÍZO A QUO QUE A SÚMULA 289 DO STJ QUE DISPÕE SOBRE A RESTITUIÇÃO DAS PARCELAS PAGAS A PLANO DE PREVIDÊNCIA PRIVADA DEVE SER OBJETO DE CORREÇÃO PLENA, É APLICÁVEL QUANDO HÁ O ROMPIMENTO DEFINITIVO DO VÍNCULO CONTRATUAL DO PARTICIPANTE, QUE SEQUER CHEGOU A AUFERIR BENEFÍCIO COMPLEMENTAR - LAUDO PERICIAL ATUARIAL QUE CONCLUIU TER HAVIDO DESCUMPRIMENTO POR PARTE DA FUNDAÇÃO RÉ DO PRÓPRIO REGULAMENTO DO PLANO DE BENEFICÍO, REAJUSTANDO AS SUPLEMENTAÇÕES DE APOSENTADORIA POR ÍNDICES INFERIORES AOS DA INFLAÇÃO DA ÉPOCA - CONDENAÇÃO DA PARTE RÉ A PAGAR AOS AUTORES AS DIFERENÇAS APURADAS EM LAUDO PERICIAL ATUARIAL SOBRE AS SUPLEMENTAÇÕES DE APOSENTADORIA, CONDENANDO A PARTE RÉ AO PAGAMENTO DE DESPESAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS DE 10% DO VALOR DA CONDENAÇÃO - REFORMA DA SENTENÇA.
+DÁ-SE PROVIMENTO AO RECURSO.
+Embargos de declaração rejeitados (fls. 1.051-1.066).
+Alega a recorrente, em suma, dissídio jurisprudencial e violação aos arts. 42 da Lei 6.435/1977 e 3º da Lei Complementar 109/2001, sob o argumento de que não deve incidir correção monetária, com os acréscimo dos expurgos inflacionários, sobre os proventos de complementação de aposentadoria, sob de pena de ensejar o desequilíbrio financeiro e atuarial do plano de benefícios.
+Contrarrazões às fls. 1.185-1.1215.
+É o relatório.
+EMENTA
+RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. REVISÃO. RENDA MENSAL INICIAL. EXPURGOS INFLACIONÁRIOS. INCIDÊNCIA. IMPOSSIBILIDADE. EQUILÍBRIO FINANCEIRO E ATUARIAL DO PLANO DE BENEFÍCIOS.
+1. No regime fechado de previdência privada, é inviável a incidência dos expurgos inflacionários na revisão dos proventos de complementação de aposentadoria, de forma a evitar o desequilíbrio financeiro e atuarial do plano de benefícios.
+2. A incidência de correção monetária em reserva de poupança, com o acréscimo dos expurgos inflacionários, restringe-se às hipóteses em que o filiado desliga-se definitivamente da entidade fechada de previdência privada, não se aplicando aos casos em que o filiado já aufere os benefícios complementares estipulados no contrato. Precedentes.
+3. Recurso especial a que se dá provimento.
+VOTO
+Verifico que o pedido deduzido na petição inicial e acolhido pelo acórdão recorrido consiste na alteração do critério de reajuste dos proventos de complementação de aposentadoria previstos no regulamento do plano de benefícios, mediante a aplicação dos expurgos inflacionários verificados no período de janeiro de 1989 a março de 1991, pretensão que, em razão da ausência de prévia formação de fonte de custeio, contraria o entendimento de ambas as Turmas que compõem a Segunda Seção deste Tribunal.
+Com efeito, consolidou a jurisprudência deste Tribunal orientação no sentido de que a incidência de correção monetária em reserva de poupança, com o acréscimo dos expurgos inflacionários, restringe-se às hipóteses em que o filiado desliga-se definitivamente da entidade fechada de previdência privada, não se aplicando na hipótese dos autos, na qual os autores da ação já auferem os benefícios complementares que são corrigidos pelos índices estipulados no contrato.
+Nesse sentido, entre muitas outras, cito a seguinte ementa de acórdão proferido em caso recente pela Segunda Seção:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. CIVIL. PREVIDÊNCIA PRIVADA. COMPLEMENTAÇÃO DE APOSENTADORIA. RENDA MENSAL INICIAL. REVISÃO. EXPURGOS INFLACIONÁRIOS. INCIDÊNCIA. IMPOSSIBILIDADE. FONTE DE CUSTEIO. AUSÊNCIA. SÚMULA Nº 289/STJ. INAPLICABILIDADE. RESERVA DE POUPANÇA. RESGATE. NÃO OCORRÊNCIA. VÍNCULO CONTRATUAL. MANUTENÇÃO. NORMA CONSTITUCIONAL. PREQUESTIONAMENTO. INADMISSIBILIDADE.
+1. A Segunda Seção deste Tribunal Superior firmou o entendimento de que a Súmula nº 289/STJ aplica-se somente nos casos em que há o desligamento (rompimento definitivo do vínculo contratual) do participante com a entidade de previdência privada, a exemplo do resgate da reserva de poupança, ou seja, não incide nas hipóteses de permanência do assistido na mesma entidade, como se dá no recebimento da aposentadoria complementar ou na migração de planos de benefícios.
+2. Não é admissível a revisão da renda mensal inicial dos proventos da aposentadoria suplementar para fazer incidir os expurgos inflacionários no lugar dos índices de atualização pactuados, sobretudo se forem idôneos, em virtude da ausência de fonte de custeio e de previsão nos cálculos atuariais para a formação da reserva garantidora.
+3. É possível, com base na Súmula nº 168/STJ, inadmitir embargos de divergência quando a jurisprudência desta Corte estiver no mesmo sentido do acórdão embargado.
+4. Não cabe ao Superior Tribunal de Justiça, em recurso especial, o exame de eventual ofensa a dispositivo da Constituição Federal, ainda que para o fim de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal.
+5. Agravo interno não provido.
+(AgInt nos ERESP Nº 1.082.463/DF, Segunda Seção, Relator Ministro Ricardo Villas Bôas Cueva, DJ 1.2.2019)
+Acrescento que os cálculos atuariais para a formação da reserva matemática necessária ao pagamento dos benefícios contratados são efetivados a partir das contribuições de participantes e assistidos, que, acumuladas sob o regime de capitalização ao longo de toda a relação contratual, têm a finalidade de lastrear o pagamento dos benefícios contratados, não havendo, pois, como determinar o pagamento das obrigações assumidas, sem a prévia formação da fonte de custeio.
+Assim, a reserva matemática do fundo necessário ao custeio dos benefícios do plano ao qual aderiu o autor da ação deve ser previamente constituída a partir de critérios atuariais observados durante toda a relação contratual, de modo a permitir a apuração do benefício de complementação de aposentaria.
+Não se trata, pois, de admitir ou não a alteração de índices de reajuste dos proventos complementares estabelecidos no plano de benefícios, mas de mera constatação de que essa pretensão não se compatibiliza com os princípios e regras do regime fechado de previdência complementar.
+Em face do exposto, dou provimento ao recurso especial para restabelecer a
+sentença de fls. 882-884, que julgou improcedentes os pedidos formulados na petição inicial.
+É como voto.
