@@ -1,0 +1,30 @@
+DECISÃO
+PEDRO HENRIQUE DA SILVA SANTOS agrava da decisão que não admitiu o recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (Apelação Criminal n. 1.0000.24.474194-8/001).
+Consta dos autos que o ora agravante foi condenado, pela prática do delito previsto no art. 33, caput, da Lei n. 11.343/2006, à pena de 2 anos e 6 meses de reclusão, mais multa, em regime aberto.
+Nas razões do recurso especial, a defesa aponta a violação dos arts. 59 e 68 do CP e 42 da Lei n. 11.343/2006, sob a tese de que a fração usada para reduzir a pena não respeitou os critérios legais, diante da ínfima quantidade de entorpecentes apreendidos e da ausência de outros fundamentos para fixá-la em patamar diverso do máximo legal.
+O recurso especial foi inadmitido durante o juízo prévio de admissibilidade realizado pelo Tribunal de origem, com fulcro nos óbices processuais das Súmulas n. 7 e 83 do STJ, o que ensejou a interposição deste agravo.
+O Ministério Público Federal opinou pelo conhecimento do agravo e provimento do especial (fls. 390-394).
+Decido.
+I. Admissibilidade
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada, motivos pelos quais passo à análise do recurso especial.
+II. Causa de diminuição de pena pelo tráfico privilegiado
+Para a aplicação da minorante prevista no § 4º do art. 33 da Lei de Drogas, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa nem se dedique a atividades delituosas. Isso porque a razão de ser da causa especial de diminuição de pena é justamente punir com menor rigor o pequeno traficante.
+A propósito, confira-se o seguinte trecho de voto deste Superior Tribunal: "Como é cediço, o legislador, ao instituir o referido benefício legal, teve como objetivo conferir tratamento diferenciado aos pequenos e eventuais traficantes, não alcançando, assim, aqueles que fazem do tráfico de entorpecentes um meio de vida" (HC n. 437.178/SC, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 11/6/2019).
+No caso em análise, as instâncias originárias modularam a aplicação da redutora, sob os seguintes fundamentos (fls. 316-317):
+Lado outro, entendo que Pedro Henrique faz jus à aplicação da minorante do art. 33, §4º, da Lei 11.343/06, vez que preenchidos os requisitos legais.
+Ora, conforme já demonstrado, o acusado é primário e de bons antecedentes e não há nos autos nenhuma prova de que se dedique a atividades criminosas ou integre organização criminosa. Neste ponto, destaco que não desconsidero os depoimentos prestados pelos policiais militares (P Je mídias). Entretanto, não é possível verificar a quanto tempo ele vinha se dedicando à venda de entorpecentes. Sendo assim, pelos motivos transcritos alhures, reduzo as penas em 1/2 (metade), diante da quantidade e natureza da droga apreendida, quantum justo e razoável, de acordo com os princípios da proporcionalidade e individualização da pena, restando a reprimenda do acusado concretizada em 02 (dois) anos e 06 (seis) meses de reclusão e pagamento de 250 (duzentos e cinquenta) dias-multa, em seu valor unitário mínimo.
+Segundo o excerto acima, pode-se inferir que o patamar usado para aplicação da minorante do tráfico privilegiado, em 1/2, se deu com base na quantidade e na natureza da droga bem como no fato de o recorrente supostamente conhecido pelos policiais, pelo comércio ilícito de entorpecentes.
+No que tange ao quantum de redução de pena, faço lembrar que tanto a Quinta quanto a Sexta Turmas deste Superior Tribunal firmaram o entendimento de que, considerando que o legislador não estabeleceu especificamente os parâmetros para a escolha da fração de redução de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, devem ser consideradas, para orientar o cálculo da minorante, as circunstâncias judiciais previstas no art. 59 do Código Penal, sobretudo o disposto no art. 42 da Lei de Drogas.
+Entretanto, considero que os fundamentos exarados não se mostram idôneos uma vez que a quantidade de entorpecentes não é significativa - 22,13 g de cocaína. Além disso, a menção genérica, sem referência a procedimentos formais, ou investigações prévias, não são suficientes para indicar que o réu seria conhecido pelo tráfico de entorpecentes e, portanto, para impactar na reprimenda.
+Assim, reduzo a pena no patamar máximo (2/3).
+Realizo, portanto, nova dosimetria.
+III. Dosimetria
+Na primeira e na segunda fases, as instâncias originárias não valoraram circunstâncias negativas, tampouco agravantes ou atenuantes, motivo pelo qual a reprimenda foi fixada em 5 anos de reclusão.
+Na terceira fase, aplicado o redutor do art. 33, § 4º, da Lei n. 11.343/2006, emprego a fração de 2/3 para diminuir a reprimenda. Consequentemente, estabeleço a sanção do recorrente em 1 ano e 8 meses de reclusão, mais 180 dias-multa.
+Fixo o regime inicial aberto, nos termos do art. 33, § 2º, "c", e § 3º, do Código Penal, com observância também do preconizado pelo art. 42 da Lei n. 11.343/2006.
+Por fim, entendo que a favorabilidade das circunstâncias mencionadas evidencia que a substituição da sanção se mostra medida socialmente recomendável, de acordo com o art. 44, III, do Código Penal, de maneira que deve a ordem ser concedida também para determinar a substituição da reprimenda privativa de liberdade por duas restritivas de direitos, as quais deverão ser estabelecidas pelo Juízo das Execuções Criminais, à luz das peculiaridades do caso concreto.
+IV. Dispositivo
+À vista do exposto, conheço do agravo para dar provimento ao recurso especial e aplicar a minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006, no patamar de 2/3 e readequar a reprimenda imposta ao réu para 1 ano e 8 meses de reclusão, em regime aberto, mais 180 dias-multa. Substituo a sanção por duas restritivas de direitos.
+Comunique-s e, com urgência, o inteir o teor desta decisão às instâncias ordinárias, para as providências cabíveis.
+Publique-se e intimem-se.
+EMENTA
