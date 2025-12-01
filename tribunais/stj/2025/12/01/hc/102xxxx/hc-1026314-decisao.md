@@ -1,0 +1,18 @@
+DECISÃO
+DIEGO HENRIQUE DA SILVA alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Paraná no Agravo em Execução n. 4001890-03.2024.8.16.0014.
+A defesa pretende, em síntese, que seja concedida a ordem para realizar a detração da pena do período em que o paciente teve sua liberdade restringida provisoriamente, com a finalidade de alterar o regime inicial de cumprimento de sanção fixado em sentença penal condenatória, do fechado para o semiaberto.
+Em consulta ao sistema informatizado do Superior Tribunal de Justiça, verifico que a pretensão defensiva já foi rejeitada por esta Corte no julgamento do HC n. 963.636/PR (grifei):
+DECISÃO
+O paciente alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo na Apelação n. 0015866-92.2017.8.16.0014, em que, mantida sua condenação "pela prática dos crimes tipificados nos artigos 180, §§ 1º e 2º, em concurso material (artigo 69) com o crime do artigo 158, § 1º, todos do Código Penal" (fl. 9), foi dado parcial provimento ao apelo defensivo para redimensionar a pena ao patamar de "08 (oito) anos e 04 (seis) meses de reclusão, além de 23 (vinte e três) dias-multa" (fl. 25).
+Pleiteia a defesa " s eja concedida liminarmente a ordem para que esse Superior Tribunal de Justiça realize ex-officio a detração da pena por se tratar de direito do Paciente ou ordene que o Tribunal ou Juízo de Execução de pena para que realize a detração de pena" (fl. 6). (grifei)
+ .. .
+Na hipótese, verifica-se que a sentença transitou em julgado, tendo sido o processo arquivado definitivamente, de modo que o writ constitui substitutivo de revisão criminal. Todavia, consoante disposto no art. 624, § 2º, do Código de Processo Penal, " a s revisões criminais serão processadas e julgadas:  ..  Nos Tribunais de Justiça ou de Alçada, o julgamento será efetuado pelas câmaras ou turmas criminais, reunidas em sessão conjunta, quando houver mais de uma, e, no caso contrário, pelo tribunal pleno" (destaquei).
+Logo, qualquer pronunciamento imediato desta Corte Superior quanto ao pleito vindicado pelo impetrante seria precoce, além de implicar a subversão da essência do remédio heroico e no alargamento inconstitucional de sua competência para julgamento de habeas corpus. Dessarte, mostra-se indevida a subversão do sistema recursal.
+Não fosse isso, observo que consta no acórdão proferido pelo Tribunal de Justiça do Estado do Paraná - TJPR no Agravo em Execução n. 4001890-03.2024.8.16.0014, ora apontado como ato coator, o seguinte (fls. 7-13):
+Dessa forma, tendo em vista a possibilidade de realização da detração penal em sede executória e observando a ausência de análise do mérito da questão pelo Magistrado lá atuante, de rigor o retorno dos autos à origem para que o Julgador da Execução promova os cálculos necessários e, acaso cabível, altere o regime prisional inicial do agravante, pena de supressão de instância.
+10. EX POSITIS, VOTO pelo CONHECIMENTO e PARCIAL PROVIMENTO do recurso, para determinar que o Magistrado da Execução promova a detração penal do sentenciado e, acaso cabível, altere o meio carcerário inicial fixado (grifos no original).
+Ademais, o acórdão do Tribunal de Justiça do Estado do Paraná apontado como ato coator determinou que o Juízo da Vara de Execuções Penais da Comarca de Londrina - PR realize a detração da pena e, se for o caso, altere o regime inicial de cumprimento da reprimenda fixado na sentença penal condenatória.
+Portanto, nem sequer existe a coação ilegal alegada.
+À vista do exposto, não conheço do habeas corpus.
+Publique-se e intimem-se.
+EMENTA
