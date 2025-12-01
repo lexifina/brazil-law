@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 25/11/2025 a 01/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Marco Buzzi, João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO  INTERNO.  AGRAVO  EM  RECURSO  ESPECIAL.  CIVIL. AÇÃO DE COBRANÇA. SEGURO DPVAT. TERMO INICIAL. CIÊNCIA INEQUÍVOCA.  REEXAME  DE  MATÉRIA  FÁTICO-PROBATÓRIA.  SÚMULA  7  DO  STJ.  AGRAVO  INTERNO  NÃO  PROVIDO.
+1.  Não  cabe,  em  recurso  especial,  reexaminar  matéria  fático-probatória  (Súmula  n.  7/STJ).
+2.  Agravo  interno  a  que  se  nega  provimento.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  contra  decisão  de  fls.  724/729,  de  minha  relatoria,  na  qual  neguei  provimento  ao  agravo  em  recurso  especial,  diante da ausência de negativa de prestação jurisdicional e incidência da Súmula  7  do  Superior  Tribunal  de  Justiça.
+Em  suas  razões ,  a parte  agravante  sustenta  que  a modificação do julgado não depende de análise de prova ou de matéria fática, sendo necessário apenas aplicar o entendimento do STJ ao caso concreto.
+Afirma que "a prescrição foi declarada em razão do transcurso do tempo entre o acidente e o ajuizamento da ação e a ausência de tratamento médico, cujas premissas ferem a tese definida no Recurso Repetitivo nº 1.388.030-MG, que é clara no sentido de que o prazo prescricional nas ações do Seguro DPVAT por invalidez permanente começa fluir invariavelmente da ciência inequívoca da invalidez, que deve ser atestada por um documento médico específico, não sendo dado ao julgador adotar uma outra data de forma subjetiva, como ocorreu no julgamento do apelo" (fl. 735).
+Argumenta que "o termo inicial do prazo prescricional deve ser a ciência inequívoca da invalidez, comprovada por documento médico específico, indicando como marco o laudo pericial de 11/11/2022" (fl. 736).
+Impugnação  às  fls.  742/744.
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO.  AGRAVO  EM  RECURSO  ESPECIAL.  CIVIL. AÇÃO DE COBRANÇA. SEGURO DPVAT. TERMO INICIAL. CIÊNCIA INEQUÍVOCA.  REEXAME  DE  MATÉRIA  FÁTICO-PROBATÓRIA.  SÚMULA  7  DO  STJ.  AGRAVO  INTERNO  NÃO  PROVIDO.
+1.  Não  cabe,  em  recurso  especial,  reexaminar  matéria  fático-probatória  (Súmula  n.  7/STJ).
+2.  Agravo  interno  a  que  se  nega  provimento.
+VOTO
+Observa-se que  a  parte  agravante  não  trouxe  argumentos  novos  capazes  de  infirmar  os  fundamentos  que  embasaram  a  decisão  agravada,  senão vejamos.
+Analisando as  razões  do agravo interno, verifico que o  recorrente  defende, em síntese,  que a prescrição foi reconhecida com base em critérios subjetivos (tempo entre o acidente e a propositura da ação e ausência de tratamento médico), sem fixar a data da ciência inequívoca da invalidez por documento médico específico.
+Como  constou  na  decisão  agravada,  cuida-se de ação de cobrança de seguro DPVAT, a qual foi extinta com resolução do mérito em razão do reconhecimento da prescrição.
+A Corte local, ao analisar as provas apresentadas, destacou que, além do intervalo de quase quatorze anos entre o acidente e a propositura da ação, o autor já possuía conhecimento prévio de sua condição clínica, o que seria incompatível com a alegação de desconhecimento da invalidez. Confira-se a fundamentação do acórdão (fls. 478/482):
+Cinge-se a controvérsia recursal em aferir se a pretensão de receber indenização por invalidez permanente veiculada pelo autor/apelado estaria prescrita, tendo em vista o lapso temporal entre o acidente de trânsito ocorrido em 08/12/2007, e o ajuizamento da presente ação em 06/04/2021.
+Entendo que sim.
+Da leitura conjunta dos arts. 189 e 206, § 3º, incs. V e IX, do CC, depreende- se que a pretensão de reparação civil, e de cobrança do seguro obrigatório, prescreverá em três anos, a contar da data de violação do direito do ofendido.
+Não desconheço o posicionamento firmado pelo Superior Tribunal de Justiça através das súmulas 278 e 573, e no julgamento dos Temas Repetitivos nº 668 e 875 (REsp 1.388.030/MG), que consagraram a ciência inequívoca da invalidez permanente como termo inicial do prazo prescricional para o ajuizamento de ação indenizatória, todavia, entendo que as particularidades do presente caso impedem sua aplicação indistinta.
+Isso porque os permissivos em questão refletem a teoria da actio nata, que privilegia resguardar os interesses do sujeito titular de direito ofendido, garantindo-lhe uma maior flexibilização no cômputo do prazo prescricional, para assim promover maior isonomia e segurança jurídica entre as partes, ao passo que não poderia, jamais, ser utilizado com intuito diverso.
+Significa dizer que o sujeito vitimado não poderia se valer de tais preceitos para tentar alargar ainda mais a elasticidade temporal que lhe fora garantida, de forma desarrazoada e sem o amparo dos elementos probatórios pertinentes e robustos, posto que tal medida daria ensejo à uma verdadeira insegurança jurídica.
+Acerca do tema, Humberto Theodoro Júnior esclarece:
+(..)
+É justamente o que acontece no presente caso, pois verifica-se que o autor, ora apelado, visando receber indenização do seguro DPVAT em virtude de acidente de trânsito que narra ter ocorrido em 08/12/2007, ajuizou ação em 04/06/2021, alegando uma invalidez permanente que pretendia comprovar através de perícia médica a ser realizada no curso da instrução processual.
+Conquanto os prontuários médicos colacionados aos eDocs. 29.1 a 29.5 e 30.2 a 305 (origem) indiquem que o ora recorrido, de fato, foi submetido à cirurgia para reparar fratura na metáfise distal do fêmur e joelho direito à época do sinistro, não apontam a necessidade, e nem a efetiva realização de um tratamento médico ou fisioterápico posterior à alta hospitalar, e tampouco informam sobre eventuais sequelas perenes decorrentes da lesão, dando a entender que a moléstia havia sido completamente corrigida.
+Até porque, repito, o autor/apelado não trouxe elementos probatórios aptos a demonstrar que após a referida cirurgia, precisou passar por tratamento médico prolongado ao longo dos anos, o que corrobora o entendimento de uma prévia estabilização da lesão, e consequentemente da preambular noção de sua realidade clínica.
+Realmente, não é crível que em um interregno de quase quatorze anos o demandante não tenha tomado conhecimento de uma possível invalidez, para só agora vir questionar sua existência.
+Além disso, é de se observar que a primeira perícia médica realizada em juízo (eDoc. 57.1 - origem), no dia 10/11/2021, consignou a impossibilidade de se proceder ao exame físico, uma vez que o periciado havia sido submetido a uma cirurgia no joelho direito menos de dez dias antes do feito.
+Não se pode olvidar que a referida intervenção cirúrgica não foi noticiada ao juízo, e que não há maiores informações sobre o que deu azo à ela, se seria um novo acidente, ou uma consequência do que ocorreu em 2007.
+Se atrelada ao um outro sinistro omitido, tem-se, por óbvio, que as conclusões alcançadas pelo perito nos laudos de eDocs. 57.1, 103.2 e 115.1 (origem), não poderiam ser imputadas como resultado específico e imediato daquele primeiro acidente, já que as lesões analisadas poderiam ter causas distintas.
+Por sua vez, é certo que a relação entre a cirurgia e o ocorrido em 2007 também corrobora com a tese de que o autor/recorrido já possuía conhecimento prévio de sua condição clínica, e do quadro de invalidez, e mesmo assim deixou de exercer seu direito de ação oportunamente, como manda a lei.
+Diante desse contexto, e considerando a impossibilidade de se aplicar a teoria da ao caso, sob pena de promover flagrante insegurança jurídica, a ausência de actio nata provas sobre eventual tratamento, bem como o gritante intervalo de quatorze anos entre o acidente descrito e o ajuizamento da demanda indenizatória, entendo que a pretensão do autor/apelado estaria, de fato, prescrita.
+Sendo assim, tenho que a sentença deve ser reformada, a fim de reconhecer a prescrição da pretensão autoral e, consequentemente, extinguir o feito com resolução do mérito, nos termos do art. 487, inc. II, do CPC, invertendo o ônus sucumbencial em desfavor do autor/apelado, com fito no princípio da causalidade.
+Por derradeiro, resta prejudicada a análise do recurso de apelação 02, interposto pelo autor Diones Ricardo dos Santos ao eDoc. 135.1 (origem).
+3. Forte nesses fundamentos, dou provimento à apelação 01 (Recurso da ré , a fim de reformar a sentença para reconhecer a prescrição Mapfre Seguros Gerais S.A) da pretensão autoral e, consequentemente, extinguir o feito com fulcro no art. 487, inc. II, do CPC, e inverto o ônus sucumbencial contra a parte autora, com honorários que arbitro em 10% sobre o valor da causa, observada a gratuidade da justiça anteriormente concedida.
+Por conseguinte, resta prejudicada a análise da apelação 02 (Recurso do autor Diones Ricardo dos Santos).
+É como voto.
+Conforme ressaltado na decisão singular, alterar a conclusão a que chegou o Tribunal de origem, no que se refere ao termo inicial em que o autor teve ciência inequívoca da invalidez permanente, demandaria o reexame de todo o acervo fático-probatório dos autos, o que é vedado a esta Corte, nos termos da Súmula n. 7/STJ. Nesse sentido:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SFH. COBERTURA SECURITÁRIA. INVALIDEZ PERMANENTE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. APRECIAÇÃO DAS QUESTÕES RELEVANTES DA LIDE. AUSÊNCIA DE AFRONTA AOS ARTS. 489 E 1.022 DO CPC/2015. PRESCRIÇÃO. FATO GERADOR. ARESTO IMPUGNADO CONFORME A JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83/STJ. CIÊNCIA DA INCAPACIDADE LABORAL. REEXAME DO CONJUNTO FÁTICOPROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+ ..
+2. Conforme a pacífica jurisprudência desta Corte Superior, o cômputo do prazo ânuo de prescrição das pretensões do segurado/mutuário, contra a seguradora, começa a correr da data em que o segurado teve ciência inequívoca da incapacidade laboral, podendo essa data ser considerada como a da concessão da aposentadoria.
+3. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83/STJ).
+4. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fáticoprobatório dos autos (Súmula n. 7 do STJ).
+5. No caso concreto, para alterar as conclusões da Corte local, a fim de concluir que a parte agravada teve ciência inequívoca da incapacidade laboral em outra data, seria necessário reexame da matéria fática.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.188.682/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 12/12/2022, DJe de 15/12/2022)
+Ademais, c om relação ao apontado dissídio jurisprudencial, ressalte-se que não se pode conhecer de recurso especial interposto com fundamento no art. 105, III, "c", da Constituição Federal, se não estiver comprovado nos moldes do art. 1029, § 1º, do Código de Processo Civil/2015. Vale destacar que as circunstâncias fáticas e as peculiaridades diferem em cada caso, o que inviabiliza, em regra, o recurso especial interposto pela divergência jurisprudencial, que se funda em premissa fático-probatória e, particularmente, no caso concreto em que os fatos e provas dos autos não se revelam análogos aos dos paradigmas.
+Em  face  do  exposto,  nego  provimento  ao  agravo  interno.
+É  como  voto.
