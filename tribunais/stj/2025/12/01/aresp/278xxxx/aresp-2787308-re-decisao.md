@@ -1,0 +1,52 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça que, mantendo a decisão de fls. 710-713, negou provimento ao agravo interno a seguir protocolado.
+O julgado recorrido está assim ementado (fl. 760):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DO AGRAVANTE.
+1. Não se conhece da alegada violação do artigo 1.022 do CPC /15, quando a causa de pedir recursal se mostra genérica, sem a indicação precisa dos pontos considerados omissos, contraditórios, obscuros ou que não receberam a devida fundamentação, sendo aplicável a Súmula 284 do STF.
+2. A modificação das conclusões das instâncias ordinárias demandaria necessariamente o reexame de fatos e provas, o que é vedado em recurso especial, nos termos da Súmula 7 do STJ.
+3. Agravo interno desprovido.
+Os embargos de declaração opostos na sequência foram rejeitados (fls. 792-798).
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão impugnado, aos arts. 5º, XXXV, LIV e LV, e 93, IX, da Constituição Federal.
+Nesse sentido, argumenta ter havido negativa de prestação jurisdicional, pois os dispositivos legais invocados representariam teses supostamente ignoradas desde a primeira instância, em violação a princípios constitucionais.
+Requer, assim, a admissão e o provimento do recurso.
+É o relatório.
+2. No julgamento do paradigma vinculado ao Tema n. 339, o Supremo Tribunal Federal apreciou a seguinte questão:
+ ..  se decisão que transcreve os fundamentos da decisão recorrida, sem enfrentar pormenorizadamente as questões suscitadas nos embargos declaratórios, afronta o princípio da obrigatoriedade de fundamentação das decisões judiciais, nos termos do art. 93, IX, da Constituição Federal.
+Na ocasião, firmou-se a seguinte tese vinculante:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas.
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessária a apreciação de todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da Constituição Federal não está relacionada ao acerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso dos autos, foram apresentados, de forma satisfatória, os fundamentos da conclusão do acórdão recorrido, como se observa do seguinte trecho do referido julgado (fls. 762-763):
+1. Inicialmente, no tocante à apontada violação aos artigos 489 e 1022 do CPC/2015, deve ser ressaltado que no recurso especial há somente alegação genérica de negativa de prestação jurisdicional, sem especificação das teses que supostamente deveriam ter sido analisadas pelo acórdão recorrido. Ante a deficiente fundamentação do recurso neste ponto, incide a Súmula 284 do STF.
+(..)
+2. Quanto à decretação de nulidade do processo de habilitação, a Corte de origem adotou os seguintes fundamentos (fls. 158/160, e-STJ):
+O deslinde da questão trazida à análise deste Colegiado reclama que se analise a tramitação dos autos originários junto ao juízo a quo.
+O que se verifica é que a ação de Habilitação de Créditos movida por Antonio Augusto Alves foi distribuída em 30/06/2010.
+A tramitação dos referidos autos evidencia que o escritório representado pelo ora agravante teve intensa atuação, desde o início, na defesa dos interesses do Sr. Antonio, conforme se extrai das diversas peças juntadas aos autos, notadamente no tocante à busca da determinação do exato valor dos créditos a que seu cliente tinha direito.
+Ademais, após a sentença que habilitou os créditos do Sr. Antonio em face da massa falida ora agravada, index 520 dos originários, prolatada em 12/07/2018, o recorrente permaneceu mantendo intensa atuação, inclusive requerendo a expedição dos mandados de pagamento em seu favor e no de seu cliente, o que somente veio a ser deferido em 26/11/2019, index 573 (originários).
+Ocorre que o ora recorrente deixou de comunicar ao juízo a quo que, em 20/10/2014 e, portanto, antes mesmo da sentença de (sic) deferiu a habilitação dos créditos, seu cliente havia falecido, conforme Certidão de Óbito de index 603 (originários).
+O que se verifica, desta forma, é que a partir de 20/10/2014, a ação originária tramitou com o polo ativo esvaziado, em razão do óbito do autor.
+Tal tramitação é, por óbvio, irregular, uma vez que, com o óbito da parte autora, deve haver a suspensão do processo, com o chamamento, do espólio ou dos sucessores, para integrarem o polo ativo da demanda. Nesse sentido, a expressa previsão artigos 110 e 313, I, §1º 2 §2º, II, do CPC:
+(..)
+Ao contrário da expressa previsão acima, o que se verifica é que o processo seguir seu regular curso, sendo impositivo reconhecer que o advogado, ora agravante, atuou de forma indevida e irregular no processo, a partir da data do óbito do de cujus, tendo em vista a extinção do mandado de index 251 (originários), em razão do óbito de seu constituinte.
+Impositivo, da mesma forma, observar que se mostra, no mínimo, questionável a forma de atuação do agravante nos autos originários, tendo em vista que, por óbvio, nenhum contato foi mantido por ele com seu cliente, sequer para lhe comunicar acerca dos atos praticados pelo ora recorrente, ou mesmo para comunicar acerca da sentença que havia habilitado o Sr. Antonio nos créditos da massa falida.
+A alegação de dificuldade de comunicação com o autor, em razão das tentativas frustradas de contatos telefônicos, index 605 dos originários, é por demais pueril, tendo em vista que a ausência de comunicação com o autor se deu, por óbvio, desde 20/10/2014.
+Nesta esteira, nada obstante as lamentáveis questões envolvendo problemas de saúde com os familiares do recorrente, inegável que este dispunha, perfeitamente, de adequada forma de localização de seu cliente, uma vez que o contrato de index 542 dos originários mencionava, com clareza, o endereço do Sr. Antonio, localização na qual ainda residiam seus sucessores quando da cessão de créditos realizada após o óbito.
+Mostra-se inadmissível que o processo tramite, por 05 (cinco) anos, sem que o advogado faça qualquer contato com seu cliente, e mais ainda, atue despido de legitimidade, em razão da extinção do mandado a ele conferido.
+Desta forma, impositiva a anulação de todos os atos praticados no processo a partir de 20/10/2014, em razão do óbito do Sr. Antonio, a uma, porque não existe processo judicial sem autor, e a duas, porque ilegítima a atuação do ora recorrente, tendo em vista que, com o óbito do autor, extinguiu-se o mandado por este concedido ao ora recorrente, devendo ser regularizado o polo ativo da demanda.
+Dessa forma, reexaminar o entendimento da instância inferior demandaria revolvimento de matéria fático-probatória, inadmissível no apelo especial, por óbice da Súmula 7/STJ.
+Assim, fica inviabilizado o exame pretendido nesta insurgência.
+Com efeito, demonstrado que houve prestação jurisdicional compatível com a tese fixada pelo STF no Tema n. 339 sob o regime da repercussão geral, é inviável o prosseguimento do recurso extraordinário, que deve ter o seguimento negado.
+3. No tocante às demais alegações, nos termos do art. 102, § 3º, da Constituição Federal, o recurso extraordinário deve ser dotado de repercussão geral, requisito indispensável à sua admissão.
+Por sua vez, o STF já definiu que a discussão relativa ao preenchimento dos pressupostos de admissibilidade de recurso anterior, de competência de outro tribunal, não tem repercussão geral.
+Quando o STJ não analisar o mérito do recurso de sua competência, tal como verificado nestes autos, qualquer alegação do recurso extraordinário demandaria a rediscussão dos requisitos de admissibilidade do referido recurso, exigindo a apreciação dos dispositivos legais que versam sobre tais pressupostos.
+No Tema n. 181 do STF, a Suprema Corte afirmou que "a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional" (RE n. 598.365-RG, relator Ministro Ayres Britto, Tribunal Pleno, julgado em 14/8/2009, DJe de 26/3/2010).
+O entendimento em questão incide tanto em situações nas quais as razões do recurso extraordinário se referem ao não conhecimento do recurso anterior quanto naquelas em que as alegações se relacionam à matéria de fundo da causa.
+Essa conclusão foi adotada sob o regime da repercussão geral e é de aplicação obrigatória, devendo os tribunais, ao analisar a viabilidade prévia dos recursos extraordinários, negar seguimento àqueles que discutam questão à qual o Supremo Tribunal Federal não tenha reconhecido a existência de repercussão geral, nos termos do art. 1.030, I, a, do CPC.
+Como exemplos da aplicação do Tema n. 181 do STF em casos semelhantes, confiram-se: ARE n. 1.256.720-AgR, relator Ministro Dias Toffoli (Presidente), Tribunal Pleno, julgado em 4/5/2020, DJe de 26/5/2020; ARE n. 1.317.340-AgR, relatora Ministra Cármen Lúcia, Segunda Turma, julgado em 12/5/2021, DJe de 14/5/2021; ARE n. 822.158-AgR, relator Ministro Edson Fachin, Primeira Turma, julgado em 20/10/2015, DJe de 24/11/2015.
+Da mesma forma, o recurso extraordinário deve ter o seguimento negado por aplicação do Tema n. 181 do STF também nas hipóteses em que for alegada ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+4. Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Vale registrar não ser cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC) contra decisões que negam seguimento a recurso extraordinário, conforme o § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. NÃO CONHECIMENTO DE RECURSO ANTERIOR, DE COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. REQUISITOS DE ADMISSIBILIDADE. DEBATE OU SUPERAÇÃO. IMPOSSIBILIDADE. TEMA N. 181 DO STF, SOB A SISTEMÁTICA DA REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
