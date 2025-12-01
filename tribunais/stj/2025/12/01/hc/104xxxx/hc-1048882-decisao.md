@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de DENIS ISAQUE TORQUATO CAMILO contra ato coator do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO (Agravo em Execução n. 5021746-46.2024.8.19.0500).
+Consta dos autos que o paciente foi condenado a uma pena total de 8 (oito) anos, dez (dez) meses e 20 (vinte) dias de reclusão.
+A defesa requereu a remição de parte da pena em razão da aprovação parcial no ENEM, que foi deferido. Inconformado, o Ministério Público interpôs agravo em execução, que foi provido.
+Neste writ, a defesa sustenta a ilegalidade do acórdão e a interpretação, no seu entender, equivocada, da Resolução n. 391/2021 do CNJ.
+Aduz que "não há exigência de nota mínima para caracterizar a participação válida para fins de remição" (fl. 6).
+Assere que a participação do apenado no exame, obtendo nota razoável diante das circunstâncias na qual se encontra, pode ser ainda entendido como prática social educativa não escolar.
+Informa que o paciente "Mantém comportamento excepcional, recebeu diversos elogios da SEAP e participou de múltiplos cursos profissionalizantes e acadêmicos. É preso disciplinado, estudioso e empenhado em sua ressocialização, o que reforça a pertinência da remição ora pleiteada" (fl. 9).
+Afirma que o indeferimento da remição gera grave constrangimento ilegal ao paciente.
+Requer, inclusive liminarmente, a concessão da medida para restabelecer a decisão da VEP que reconheceu a remição de 20 (vinte) dias pela aprovação no ENEM/2023, a expedição de ofício para o recálculo da pena, com a inclusão dos dias remidos e as repercussões de direito. Ao final, requer a concessão definitiva da ordem, confirmando a liminar e reconhecendo, em caráter definitivo, o direito do paciente à remição da pena pela aprovação no ENEM/2023.
+Liminar indeferida, às fls. 41-43.
+As informações foram prestadas, às fls. 46-49 e 54-61.
+O Ministério Público Federal manifestou-se pela denegação da ordem de habeas corpus, no parecer de fls. 66-70.
+É o relatório. DECIDO.
+A Terceira Seção, no âmbito do HC n. 535.063/SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/6/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC n. 180.365/PB, de relatoria da Ministra Rosa Weber, julgado em 27/3/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Nesse sentido:
+ ..  A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.  ..  (AgRg no HC n. 908.122/MT, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 27/8/2024, DJe de 2/9/2024.)
+ ..  O habeas corpus não é conhecido quando impetrado em substituição a recurso próprio, salvo em caso de flagrante ilegalidade, conforme jurisprudência pacífica do STJ e do STF.  ..  (AgRg no HC n. 935.569/SP, de minha relatoria, Quinta Turma, julgado em 3/9/2024, DJe de 10/9/2024.)
+Em homenagem ao princípio da ampla defesa, contudo, necessário o exame da insurgência, a fim de se verificar eventual constrangimento ilegal passível de ser sanado pela concessão da ordem, de ofício.
+A controvérsia consiste em buscar o restabelecimento da decisão da VEP, que reconheceu a remição de 20 (vinte) dias pela aprovação no ENEM/2023.
+Para ilustrar, a decisão do juiz (fl. 30):
+Vale dizer, em caso de aprovação no ENEM (Exame Nacional do Ensino Médio), a remição pode totalizar 100 (cem) dias  base de cálculo: 1200 horas divididas por 12 .
+Na espécie, o apenado restou aprovado somente em uma área dos campos de conhecimento, qual seja, ciências da natureza (seq. 42.2), sendo certo que para obter aprovação no ENEM, o apenado precisa tirar no mínimo 450 pontos em cada uma das áreas do conhecimento e mínimo de 500 pontos na redação.
+De acordo com os princípios da proporcionalidade e razoabilidade, assim como o esforço demonstrado pelo apenado estuda só, independente do ensino oficial, o caminho mais judicioso é dar relevância à aprovação parcial.
+Assim, considerando 5 (cinco) campos de conhecimento avaliados no ENEM, cumpre salientar que a aprovação em cada um deles deve corresponder a 20 (vinte) dias de remição.
+Considerando que o apenado foi aprovado em uma área do conhecimento, com base no art. 126, §5º, da LEP e Resolução n. 391, de 10 de maio de 2021, do Conselho Nacional de Justiça, DECLARO remidos 20 (vinte) dias do apenado do total da pena. Venha o cálculo de pena atualizado. (grifei)
+Já o acórdão (fls. 21-28):
+ ..  16. Logo, somente é possível a concessão do benefício quando o apenado, efetivamente, for aprovado no ENCCEJA ou ENEM, pois, só assim, será possível presumir que houve o estudo por conta própria e, consequentemente, fazer jus à remição.
+17. Não estão cumpridos os requisitos legais quando há aprovação parcial no exame, por ofensa ao texto expresso da resolução e por não revelar a proficiência apta a presumir que houve o estudo por conta própria.
+18. É certo que, em regra, a remição pelo estudo independe do grau de aproveitamento do reeducando, pois trata-se de atividade que visa a sua ressocialização e reintegração social. No entanto, esta regra não se aplica para o estudo por conta própria, pois a efetiva aprovação é o único meio de auferir a ocorrência da atividade educacional de modo a permitir a remição.  ..
+21. In casu, o documento acostado aos autos anota que o agravado obteve a pontuação exigida em apenas uma das cinco áreas de conhecimento do ENEM, de modo que não restou integralmente aprovado e, por consequência, não faz jus ao benefício de remição previsto no artigo 3º, parágrafo único, da Resolução 391/21 do CNJ. Salienta-se que não cabe no caso, a remição parcial ante a aprovação em somente uma das áreas de conhecimento.
+22. Assim, merece reforma a decisão agravada para revogar a remição concedida.
+23. Pelo exposto, oriento o voto no sentido de DAR PROVIMENTO ao recurso ministerial, para reformar a decisão recorrida de modo a revogar a remição pela aprovação parcial no ENEM. (grifei)
+Ora, a Resolução n. 391/2021, CNJ, que revogou a anterior Recomendação n. 44/2013, determina que a aprovação nos exames que certificam a conclusão do ensino fundamental ou médio (Encceja ou outros) e aprovação no Enem, será considerada como base de cálculo para fins de cômputo das horas visando à remição da pena.
+Assim, esta alteração de redação silenciou sobre a possibilidade de remição em caso de aprovação parcial no Enem, bem como sobre sua aplicação aos casos em que o reeducando possuía a formação anterior.
+Não por outro motivo, no julgamento do EREsp n. 1.979.591/SP, de minha relatoria, a Terceira Seção deste Superior Tribunal de Justiça fixou o entendimento de que é possível a remição, mesmo nos casos de aprovação parcial no Enem ou em bis in idem, exatamente o que se pleiteia no writ.
+Eis a ementa do julgado:
+EXECUÇÃO PENAL. EMBARGOS DE DIVERGÊNCIA. PROCESSO PENAL. REMIÇÃO DE PENA. APROVAÇÃO NO EXAME NACIONAL DO ENSINO MÉDIO. APÓS CONCLUSÃO DO ENSINO MÉDIO. POSSIBILIDADE DE CONCESSÃO DA BENESSE. EMBARGOS DE DIVERGÊNCIA PROVIDOS.
+1. O Exame Nacional de Certificação de Competências de Jovens e Adultos - ENCCEJA é a avaliação de âmbito nacional própria para a certificação do aproveitamento do conteúdo programático do ensino médio e do ensino fundamental àqueles que atingiram a idade de quinze anos (para o nível fundamental) ou dezoito anos (para o nível médio). Diferentemente do ENEM, o ENCCEJA não se presta, por si só, ao ingresso no ensino superior.
+2. No caso dos autos, minha posição externada no julgamento do HC n. 786.844, foi no sentido de que o paciente não faria jus à remição pelo estudo individual, uma vez que, conforme ressaltado pelo agravante, ao iniciar o cumprimento da pena, o agravado já havia concluído o ensino médio. Naquela oportunidade, o fundamento adotado era o de que a finalidade da remição pelo estudo não é simplesmente diminuir o tempo de encarceramento da pessoa presa, mas, facilitar a sua reintegração social por meio do aprendizado de novos conhecimentos.
+3. Contudo, no julgamento do precitado HC n.º 786.844, realizado em agosto desta ano de 2023, restou consignado pela Quinta Turma deste STJ, por maioria de votos, a possibilidade de remição da pena na hipótese em exame, ou seja, mesmo após a conclusão do ensino médio e ainda que o sentenciado tenha obtido o diploma de curso superior antes do início do cumprimento da pena, como é o caso dos autos.
+4. Em sendo assim, submeto os presentes embargos de divergência a esta Terceira Seção, para que se defina a posição deste colegiado em relação ao tema e se estabilize a jurisprudência desta Corte, de forma a se atender ao dever cooperativo de coerência enunciado pelo art. 926 do CPC.
+Embargos de divergência providos (EREsp n. 1.979.591/SP, Terceira Seção, de minha relatoria, DJe de 13/11/2023).
+Aqui, consta que o paciente teria obtido a aprovação parcial no Enem/2023 (fl. 15), razão pela qual a ordem deve ser acolhida.
+Ante o exposto, não conheço do habeas corpus. Concedo a ordem, de ofício, para restabelecer a decisão do juiz da execução, que reconheceu a possibilidade de remição no caso concreto.
+Intime-se, com urgência, a origem para o cumprimento.
+Publique-se. Intimem-se.
+EMENTA
