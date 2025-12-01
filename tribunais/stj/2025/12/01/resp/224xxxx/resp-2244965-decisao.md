@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto por MATHEUS DE BRITO MONTEIRO contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS, no julgamento da Apelação Criminal n. 0707860-65.2025.8.07.0001, assim ementado (fls. 553-555):
+DIREITO PENAL E PROCESSUAL PENAL. APELAÇÃO CRIMINAL. TRÁFICO DE DROGAS. ABSOLVIÇÃO IMPOSSIBILIDADE. AUTORIA E MATERIALIDADE COMPROVADAS. DESCLASSIFICAÇÃO INVIABILIDADE. INTENÇÃO DE DIFUSÃO ILÍCITA CONFIGURADA PELA SITUAÇÃO FLAGRANCIAL.AFASTAMENTO DA VALORAÇÃO NEGATIVA DA CONDUTA SOCIAL. CRIME PRATICADO DURANTE A EXECUÇÃO DA PENA. CRITÉRIO DE AUMENTO NA PRIMEIRA FASE DA DOSIMETRIA. RECURSO CONHECIDO E NÃO PROVIDO.
+I. CASO EM EXAME
+Apelação interposta pela Defesa contra sentença que condenou o réu pelo crime de tráfico de drogas tendo em vista que restaram comprovadas a autoria e a materialidade do delito.
+II. QUESTÃO EM DISCUSSÃO
+Há quatro questões em discussão: (i) verificar se há insuficiência de provas que justifique a absolvição do réu; (ii) analisar a possibilidade de desclassificação da conduta para o artigo 28 da Lei de Drogas; (iii) definir a validade da valoração negativa da conduta social; e, (iv) aferir a legalidade do critério de aumento adotado na dosimetria da pena.
+III. RAZÕES DE DECIDIR
+A prova dos autos, composta por depoimentos firmes e coerentes de policiais, corroborados por laudos periciais e demais elementos colhidos sob contraditório, comprova a materialidade e a autoria do crime de tráfico de drogas imputado ao réu.
+Se a palavra dos policiais tem fé pública e, mostra-se harmônica e coerente, mantém-se a condenação.
+A versão de que o entorpecente se destinaria ao consumo próprio é contrariada pela quantidade e modo de acondicionamento da droga e pelo comportamento suspeito do acusado que empreendeu fuga e dispensou a substância ilícita.
+O fato de o réu praticar o crime durante o cumprimento de pena por delito anterior justifica a exasperação da pena-base em razão da conduta social negativa.
+Em relação à fração aplicável para valorar negativamente as circunstâncias judiciais na primeira etapa da dosimetria, a jurisprudência desta Turma entende como razoável a majoração em 1/8 (um oitavo) sobre o intervalo das penas em abstrato.
+IV. DISPOSITIVO 8. Recurso conhecido e não provido.
+Consta dos autos que o recorrente foi condenado, em primeira instância, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006 (tráfico de drogas), à pena de 08 (oito) anos e 06 (seis) meses de reclusão, em regime inicial fechado, além de 750 (setecentos e cinquenta) dias-multa (fls. 555, 563-567).
+Nas razões do recurso especial, a parte recorrente aponta violação ao art. 59 do Código Penal. Sustenta, em síntese, que o critério de aumento da pena-base utilizado pelo Tribunal a quo, qual seja: fração de 1/8 (um oitavo) sobre o intervalo entre as penas mínima e máxima, é desproporcional e carece de fundamentação concreta.
+Requer a revisão da dosimetria para que seja aplicada a fração de 1/6 (um sexto) sobre a pena mínima para a circunstância judicial desfavorável (fls. 606-609).
+Contrarrazões apresentadas às fls. 619-621.
+O recurso especial foi admitido às fls. 627-629.
+O Ministério Público Federal manifestou-se pelo não conhecimento do recurso especial ou, caso conhecido, pelo seu desprovimento (fls. 640-647).
+É o relatório. Decido.
+Preenchidos os requisitos formais, passo ao exame do recurso especial.
+A controvérsia cinge-se à fração de exasperação aplicada na primeira fase da dosimetria da pena. O recorrente defende a aplicação da fração de 1/6 (um sexto) sobre o mínimo legal, enquanto o acórdão recorrido ratificou a utilização de 1/8 (um oitavo) incidente sobre o intervalo de pena em abstrato.
+Do exame do acórdão recorrido, verifica-se que o Tribunal de Justiça do Distrito Federal e dos Territórios manteve a valoração negativa da circunstância judicial referente à conduta social, fundamentada no fato de o agente ter praticado o novo delito enquanto cumpria pena por condenação anterior. Para quantificar esse aumento, a Corte local aplicou o critério de proporcionalidade de 1/8 (um oitavo) calculado sobre o intervalo entre as penas mínima e máxima cominadas ao tipo penal (fls. 565-566).
+Com efeito, acerca do tema, sabe-se que a individualização da pena exige que o julgador examine com acuidade os elementos fáticos, sopesando os critérios do art. 59 do Código Penal para aplicar, de forma fundamentada, a reprimenda necessária e suficiente à reprovação do crime. Essa atividade, contudo, não se submete a esquemas matemáticos rígidos ou tarifados.
+Sobre a fixação da pena na primeira fase da dosimetria, inexiste na legislação penal brasileira um critério matemático obrigatório. A jurisprudência desta Corte Superior consolidou-se no sentido de que a ponderação das circunstâncias judiciais insere-se no âmbito da discricionariedade vinculada do julgador, o qual não está adstrito a frações predeterminadas, desde que apresente fundamentação idônea e observe o princípio da proporcionalidade.
+Nesse contexto, a fixação da pena-base admite a utilização de diferentes parâmetros, seja a fração de 1/6 (um sexto) sobre a pena mínima, seja a de 1/8 (um oitavo) calculado sobre o intervalo entre os limites mínimo e máximo da sanção em abstrato. Ambos os critérios são considerados válidos por este Superior Tribunal de Justiça, inexistindo direito subjetivo do réu à adoção exclusiva da fração que lhe for mais favorável, quando a escolha da instância ordinária estiver devidamente motivada.
+A propósito do tema, confiram-se os seguintes precedentes: AgRg no HC n. 869.676/MT, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 11/4/2024; AgRg no HC n. 718.681/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 30/8/2022; e AgRg no HC n. 820.316/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 19/06/2023, DJe de 23/06/2023.
+No caso concreto, nota-se que o acórdão recorrido aplicou o entendimento dominante desta Corte Superior.
+Ao contrário do sustentado pela defesa, a utilização da fração de 1/8 sobre o intervalo da pena para a circunstância judicial desfavorável (conduta social) constitui parâmetro razoável e amplamente aceito na jurisprudência, não denotando desproporcionalidade ou ilegalidade flagrante que justifique a intervenção excepcional desta instância uniformizadora.
+A decisão do Tribunal de origem, portanto, encontra-se em perfeita sintonia com a orientação deste Superior Tribunal de Justiça, o que atrai a incidência da Súmula 568/STJ, segundo a qual o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+Ante o exposto, conheço do recurso especial e nego-lhe provimento, mantendo integralmente o acórdão recorrido.
+Publique-se. Intimem-se.
+EMENTA
