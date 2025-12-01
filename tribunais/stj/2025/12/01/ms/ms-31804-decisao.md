@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de mandado de segurança, com pedido de liminar, impetrado por dois advogados contra ato da 19ª Câmara de Direito Privado do Tribunal de Justiça de São Paulo, visando suspender os efeitos de decisão que lhes aplicou multa por litigância de má-fé no processo n. 1043469-39.2024.8.26.0002.
+Alegam ser cabível o mandamus, citando jurisprudência do STJ sobre atuação de advogado como terceiro prejudicado e sobre a excepcionalidade que autoriza mandado de segurança contra ato judicial em caso de ilegalidade manifesta e de aplicação indevida de penalidades previstas nos arts. 79 e 80 do CPC.
+Quanto aos fatos de origem, afirmam que foram contratados por Ane Priscila Bezerra para ajuizar ação contra a empresa Ativos S.A., visando declaração de inexistência de débito e indenização. Sustentam que a cliente não forneceu os documentos exigidos pelo juízo  especialmente procuração com firma reconhecida  apesar das reiteradas solicitações.
+Assim, o magistrado teria julgado improcedente a ação e condenado os advogados, pessoalmente, em multa por litigância de má-fé.
+Os impetrantes afirmam que não obtiveram proveito econômico algum e que não têm histórico de demandas predatórias no tribunal. Reforçam que, segundo a jurisprudência do STJ, a multa por má-fé se dirige à parte, jamais ao advogado, devendo eventual penalidade ser afastada, transferida à parte autora ou reduzida ao mínimo legal (1%), conforme art. 81 do CPC.
+Alegam ainda que a multa aplicada possui valor excessivo, desproporcional ao valor da causa (R$ 10.000,00), e que há risco iminente de constrição patrimonial, motivo pelo qual requerem liminar para suspender qualquer ato executivo decorrente da decisão.
+Ao final, pedem a concessão definitiva da segurança para cancelar a multa ou sua redução.
+É o relatório. Decido.
+O presente mandado de segurança traz o mesmo objeto e está fundado nos mesmos argumentos do MS 31.669, cujo resultado foi a determinação de remessa dos autos ao Tribunal de Justiça do Estado de São Paulo, vez que a competência para o processamento e julgamento era daquele Tribunal. Ou seja, neste writ praticamente repete-se ipsis literis os fundamentos do MS 31.669, ressalvado apenas o seguinte: naquele os impetrantes visavam a impugnação de decisão do Juízo da 10ª Vara Cível do Foro Regional II - Santo Amaro da Comarca de São Paulo/SP, enquanto neste, apresentam como ato coator decisão de indeferimento da petição inicial em mandado de segurança (MS n. 2252738-73.2025.8.26.0000), no TJ-SP (fls. 13-15).
+Nada obstante, os argumentos desenvolvidos na inicial não dizem nada sobre o MS n. 2252738-73.2025.8.26.0000, pois como afirmado no parágrafo anterior, voltam-se exclusivamente à impugnação da a multa por má-fé que receberam no juízo de origem, qual seja, 10ª Vara Cível do Foro Regional II - Santo Amaro, tal como no MS 31.669-STJ.
+Essa situação, por si, já levaria ao indeferimento da inicial, na forma do art. 330, III, do CPC.
+Contudo, a sorte do presente feito será a mesma do MS n. 31.669.
+Com efeito, nos termos do art. 105, I, b, da Constituição Federal, compete ao Superior Tribunal de Justiça processar e julgar os mandados de segurança impetrados contra atos de Ministros de Estado, dos Comandantes das Forças Armadas ou do próprio STJ.
+No caso em apreço, o impetrante busca impugnar decisão da 19ª Câmara de Direito Privado do Tribunal de Justiça de São Paulo.
+Assim, a apreciação do presente mandamus encontra óbice na Súmula n. 41 do Superior Tribunal de Justiça, que dispõe:
+O Superior Tribunal de Justiça não tem competência para processar e julgar, originariamente, mandado de segurança contra ato de outros tribunais ou dos respectivos órgãos.
+Ante o exposto, declino da competência para processar e julgar o presente mandado de segurança e determino a remessa dos autos ao Tribunal de Justiça do Estado de São Paulo, para que adote as providências que entender cabíveis.
+Advirto o reclamante de que a proposição de incidentes manifestamente improcedentes ou destituídos de fundamentação jurídica adequada poderá ensejar a aplicação das penalidades previstas na legislação processual civil, inclusive multa por litigância de má-fé, nos termos do art. 80 do CPC.
+Publique-se. Intimem-se.
+EMENTA
