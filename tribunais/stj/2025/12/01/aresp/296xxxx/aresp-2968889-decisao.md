@@ -1,0 +1,43 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto pela UNIÃO, com fundamento na incidência  da Súmula  7 deste STJ, anotando ser despiciendo o exame da violação ao art. 1. 022 do CPC.
+Em suas razões recursais, a parte agravante sustenta o preenchimento dos requisitos de admissibilidade do recurso especial.
+Contraminuta apresentada.
+É o relatório.
+Passo a decidir.
+Atendidos os pressupostos de conhecimento do agravo, passo à análise do recurso especial interposto com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+ADMINISTRATIVO E DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. RAV. TTN. COISA JULGADA ENTRE A AÇÃO COLETIVA 0002767-94.2001.01.3400 (2001.34.00.002765-2) E MANDADO DE SEGURANÇA INDIVIDUAL AFASTADA. AUSÊNCIA DE TRÍPLICE IDENTIDADE ENTRE AS AÇÕES.
+1. Enquanto o pleito formulado no mandado de segurança individual denegado teve por fundamento a irredutibilidade salarial e a isonomia de tratamento entre a RAV paga a técnicos e auditores, a ação coletiva, por sua vez, buscou o pagamento das diferenças de acordo com o teto previsto na MP 831/95, com base na avaliação realizada pela administração. Não havendo a tríplice identidade entre as ações, prevista no artigo 337, §2º, do CPC (mesmas partes, mesma causa de pedir e mesmo pedido), não há reprodução de ação anteriormente ajuizada, devendo ser afastado o reconhecimento da coisa julgada.
+2. Agravo de instrumento provido (fl. 82).
+Os embargos de declaração foram parcialmente providos apenas para fins de prequestionamento.
+Em suas razões recursais, a parte recorrente aponta violação ao art. 1.022, II, do CPC, argumentando que o acórdão recorrido não se manifestou acerca dos dispositivos legais apontados como violados.
+Alega ofensa aos arts. 95 e 97 da Lei 8.078/1990, art. 19 da Lei 12.016/2009 e aos arts. 337, VII, 485, §3º, 502, 508, 535, VI e 966, IV, todos do CPC.
+Defende que a decisão denegatória de mérito no mandado de segurança forma coisa julgada integral, impedindo o exequente de pleitear direitos patrimoniais na ação coletiva. Alega que a decisão do Tribunal a quo não considerou a tríplice identidade entre as ações e que a execução de título judicial oriundo de ação coletiva não fica automaticamente preclusa pela existência de coisa julgada formada em ação individual anterior.
+De início, cumpre destacar que a parte recorrente não demonstra, de forma clara, qual seria o ponto omisso, contraditório ou obscuro do acórdão recorrido, bem como a sua importância para o deslinde da controvérsia, o que atrai a aplicação do óbice da Súmula 284 do STF, aplicável, por analogia, no âmbito desta Corte.
+Com efeito, "a alegação de afronta ao art. 1.022 do CPC, de forma genérica, sem a efetiva demonstração de omissão do acórdão recorrido no exame de teses imprescindíveis para o julgamento da lide, impede o conhecimento do recurso especial, ante a deficiência na fundamentação (Súmula 284 do STF)" (AgInt no AREsp n. 1.740.605/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+No mais, o Tribunal de origem deu provimento a agravo de instrumento por considerar que as diferenças fundamentais entre as ações coletiva e individual impedem a configuração da coisa julgada. Vejamos:
+Inicialmente, cumpre destacar a distinção entre as ações coletiva e individual movidas pelos exequentes.
+Embora ambas tenham como objeto a busca pelo pagamento de diferenças a título de RAV, os fundamentos e os termos dos provimentos jurisdicionais almejados apresentam distinções significativas.
+Na ação coletiva, o pleito centrou-se na condenação da União ao pagamento da RAV, respeitando o limite máximo previsto pela legislação aplicável e considerando avaliações individuais dos substituídos.
+Em contrapartida, o mandado de segurança individual fundamentou-se primordialmente nos princípios de isonomia salarial e irredutibilidade de vencimentos, visando assegurar o pagamento da RAV em seu limite máximo, com um enfoque particularizado nos direitos e situação individual do impetrante.
+Ademais, a ocorrência de coisa julgada material exige a identidade entre três elementos: partes, causa de pedir e pedido.
+A verificação dos autos indica que não existe uma identidade plena entre as ações, sobretudo no que tange à causa de pedir e aos pedidos formulados, o que impede a configuração de coisa julgada.
+É imperativo reconhecer que, apesar da similaridade temática (RAV), as fundamentações e objetivos dessas ações divergem, refletindo abordagens processuais distintas diante de um mesmo contexto fático-legal.
+Por fim, ressalta-se que a execução de título judicial oriundo de ação coletiva não fica automaticamente preclusa pela existência de coisa julgada formada em ação individual anterior. Isso se deve, especialmente, quando as demandas, embora relacionadas pelo objeto (RAV), divergem em seus fundamentos e finalidades.
+A jurisprudência tende a salvaguardar o direito de execução derivado de ações coletivas, entendendo que essas representam interesses supraindividuais ou coletivos, os quais não podem ser plenamente satisfazidos ou prejudicados por ações individuais precedentes, cujos contornos específicos e objetivos limitados não abarcam a totalidade dos interesses defendidos na ação coletiva (fl. 80).
+Em sede de julgamento de embargos de declaração, o órgão julgador acrescentou:
+O acórdão embargado analisou detidamente a questão da identidade entre as ações individual e coletiva, expondo de forma clara as distinções existentes entre elas, tanto em relação aos seus fundamentos (isonomia e irredutibilidade no mandado de segurança; base na MP 831/95 e nas avaliações individuais na ação coletiva) quanto aos seus objetivos específicos.
+A fundamentação adotada foi suficiente e adequada para afastar a alegação de coisa julgada, tendo sido expressamente reconhecida a ausência da necessária tríplice identidade. Uma vez afastada a própria existência da coisa julgada, tornava-se despicienda a análise de sua eficácia preclusiva, que pressupõe, logicamente, a configuração do instituto.
+Não há omissão quando o tribunal adota fundamento que torna prejudicada a análise de questão subordinada.
+Quanto à cláusula resolutiva do acordo, embora expressamente suscitada nas contrarrazões ao agravo, sua aplicação estava condicionada ao reconhecimento da coisa julgada.
+Ao afastar fundamentadamente a existência desta última, o acórdão implicitamente afastou também a incidência da cláusula resolutiva, em raciocínio lógico que dispensa maiores digressões (fls. 112-113).
+Como se vê, a alteração da conclusão do Tribunal a quo, para acolher a pretensão recursal acerca dos limites da coisa julgada, sob o viés pretendido pela parte recorrente, ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7 do STJ.
+Nesse sentido: "É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial"" (AgInt no AREsp n. 1.964.284/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+Nesse mesmo sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. INTERPRETAÇÃO. POSSIBILIDADE. COISA JULGADA. OFENSA. REEXAME DE PROVA. IMPOSSIBILIDADE.
+1. De acordo com a jurisprudência do STJ, "não viola a coisa julgada a interpretação do título judicial conferida pelo magistrado, para definir seu alcance e extensão, observados os limites da lide" (AgInt no AREsp 1696395/RJ, Relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 18/12/2020.
+2. Hipótese em que o acolhimento da pretensão recursal, a fim de reconhecer a eventual ofensa à coisa julgada na interpretação do título judicial pelas instâncias de origem, demandaria a incursão no conjunto fático-probatório, providência que esbarra no óbice da Súmula 7 do STJ.
+3. Agravo interno desprovido (AgInt no AREsp n. 2.133.628/PR, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 22/11/2022, DJe de 20/12/2022).
+Isso posto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo, para nã o conhecer do recurso especial.
+Sem condenação em honorários advocatícios recursais, tendo em vista que o agravo em recurso especial origina-se de acórdão proferido em julgamento de agravo de instrumento, no qual não houve a fixação de honorários advocatícios sucumbenciais.
+Intimem-se.
+ EMENTA
