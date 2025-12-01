@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 25/11/2025 a 01/12/2025, por unanimidade, dar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. ART. 1.021, § 2º, DO CPC. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. OMISSÃO. INEXISTÊNCIA. PENHORA DE DINHEIRO. VALOR IRRISÓRIO. PEDIDO DE LEVANTAMENTO. IMPROCEDÊNCIA. REEXAME. SÚMULA N. 7/STJ.
+1. Afasta-se a aplicação do art. 932, III, do Código de Processo Civil e da Súmula n. 182/STJ, quando as razões do agravo em recurso especial impugnam de forma específica todos os fundamentos da decisão que nega seguimento ao apelo extremo.
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, ainda que de forma sucinta, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. No caso, o Tribunal de origem rejeitou o pedido de levantamento da penhora em dinheiro, formulado com base no art. 836 do CPC, porque a quantia constrita possui utilidade para a satisfação do crédito exequendo, apesar de ser de pequena monta em comparação com o valor da obrigação. A reforma desse entendimento encontra óbice na Súmula n. 7/STJ.
+4. A incidência da Súmula n. 7/STJ prejudica o exame do dissídio jurisprudencial.
+5 . Agravo interno provido para, em novo julgamento, conhecer do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por MARCUS VINICIUS EL-HUAICK e outros contra decisão da Presidência do STJ, que não conheceu do agravo em recurso especial, com fundamento no art. 932, III, do Código de Processo Civil e na Súmula n. 182/STJ.
+Em suas razões (e-STJ fls. 262/270), os agravantes alegam que, nas razões do agravo em recurso especial, impugnaram especificamente todos os fundamentos da decisão que negou seguimento ao apelo extremo, notadamente o relativo ao óbice da Súmula n. 7/STJ.
+Sem impugnação (e-STJ fl. 275).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. ART. 1.021, § 2º, DO CPC. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. OMISSÃO. INEXISTÊNCIA. PENHORA DE DINHEIRO. VALOR IRRISÓRIO. PEDIDO DE LEVANTAMENTO. IMPROCEDÊNCIA. REEXAME. SÚMULA N. 7/STJ.
+1. Afasta-se a aplicação do art. 932, III, do Código de Processo Civil e da Súmula n. 182/STJ, quando as razões do agravo em recurso especial impugnam de forma específica todos os fundamentos da decisão que nega seguimento ao apelo extremo.
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, ainda que de forma sucinta, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. No caso, o Tribunal de origem rejeitou o pedido de levantamento da penhora em dinheiro, formulado com base no art. 836 do CPC, porque a quantia constrita possui utilidade para a satisfação do crédito exequendo, apesar de ser de pequena monta em comparação com o valor da obrigação. A reforma desse entendimento encontra óbice na Súmula n. 7/STJ.
+4. A incidência da Súmula n. 7/STJ prejudica o exame do dissídio jurisprudencial.
+5 . Agravo interno provido para, em novo julgamento, conhecer do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+VOTO
+A irresignação merece prosperar.
+Nova leitura das razões do agravo em recurso especial às e-STJ fls. 200/217 permite notar que os ora recorrentes impugnaram especificamente todos os fundamentos da decisão que negou seguimento ao apelo (e-STJ fls. 188/190), em especial o relativo ao óbice da Súmula n. 7/STJ.
+Não há, portanto, suporte fático para a aplicação da regra do art. 932, III, do CPC, também prevista na Súmula n. 182/STJ.
+Ante o exposto, com fundamento no art. 1.021, § 2º, reconsidero a decisão da Presidência (e-STJ fls. 253/254) para permitir nova apreciação do agravo em recurso especial.
+Trata-se de agravo interposto contra a decisão que negou seguimento ao recurso especial.
+O apelo extremo, fundamentado no art. 105, III, "a" e "c", da Constituição Federal, impugna acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"AGRAVO DE INSTRUMENTO. Execução de título extrajudicial. Decisão agravada que rejeitou a impugnação à penhora manejada, mantendo o bloqueio efetivado nos ativos financeiros. Inconformismo dos coexecutados. Sem razão. Não há demonstração cabal da impenhorabilidade da quantia bloqueada. Pedido de desbloqueio feito também alegando se tratar de valor ínfimo, nos termos do artigo 836, caput do Código de Processo Civil. Inaplicabilidade. Quantia que, mesmo pequena frente ao débito, será utilizada para amortizar a dívida. A recuperação judicial da devedora principal não acarreta suspensão da execução em relação aos que garantem o pagamento do débito. Incidência da Súmula nº 581 do STJ. A constrição mantida recai sobre bem de sócio e não da empresa em recuperação judicial. Decisão mantida na íntegra. Efeito suspensivo revogado. Recurso não provido." (e-STJ fl. 117)
+Embargos de declaração rejeitados (e-STJ fls. 129/132).
+Nas razões do apelo nobre, a parte recorrente aponta violação dos arts. 836 e 1.022, II, do Código de Processo Civil, além de dissídio jurisprudencial.
+Sustenta, na primeira tese, que o acórdão recorrido incorreu em omissão, pois não teria se manifestado sobre argumentos essenciais ao deslinde da controvérsia, notadamente sobre a existência de cláusula de exoneração de garantia no plano de recuperação judicial da devedora principal e sobre a aplicação do art. 836 do CPC diante da penhora de valor manifestamente irrisório.
+Defende, em seguida, a violação do art. 836 do Código de Processo Civil, ao argumento de que a constrição do valor de R$ 3.317,94 (três mil, trezentos e dezessete reais e noventa e quatro centavos) é ínfima e desproporcional em face do montante total da execução, que ultrapassa R$ 3.600.000,00 (três milhões e seiscentos mil reais). Assevera que tal penhora não propicia utilidade substancial ao credor e impõe sacrifício desnecessário ao devedor.
+Por fim, aduz a existência de divergência jurisprudencial com julgado do Tribunal de Justiça do Estado de Minas Gerais, que, em situação fática análoga, teria conferido interpretação diversa ao art. 836 do CPC, determinando a liberação de quantia bloqueada por considerá-la irrisória frente ao valor do débito executado.
+Contrarrazões às fls. e-STJ 172/187.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O recurso especial não merece prosperar.
+De início, afasta-se a alegada ofensa ao art. 1.022 do Código de Processo Civil. A parte recorrente aponta omissão do Tribunal de origem quanto a dois pontos: a suspensão da execução em virtude da recuperação judicial da devedora principal e a tese de penhora de valor irrisório.
+Contudo, da atenta leitura do acórdão recorrido, verifica-se que a Corte estadual se manifestou de forma clara e fundamentada sobre ambas as questões, ainda que em sentido contrário aos interesses dos recorrentes.
+No que tange à recuperação judicial, o Tribunal a quo rechaçou expressamente o pedido de suspensão ou extinção do feito, consignando que a obrigação dos garantidores subsiste de forma autônoma. O aresto é categórico ao afirmar que "a recuperação judicial da devedora principal não acarreta a suspensão da execução em relação aos que garantem o pagamento do débito", fundamentando sua conclusão na jurisprudência pacífica desta Corte, consolidada na Súmula n. 581/STJ (e-STJ fl. 122).
+Da mesma forma, a alegação de penhora ínfima, fundada no art. 836 do CPC, foi diretamente enfrentada e repelida. O acórdão consignou, de modo explícito, que, "embora pequeno frente ao débito, o valor constrito será utilizado para amortizar a quantia devida", concluindo pela inaplicabilidade do referido dispositivo legal ao caso concreto (e-STJ fl. 123).
+Inexiste, portanto, qualquer vício a ser sanado pela via dos embargos de declaração, que não se prestam à rediscussão do mérito.
+Não há falar, portanto, em existência de omissão apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte. A esse respeito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE CUSTEIO DE MEDICAMENTO (THIOTEPA). 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2. FUNDAMENTO SUFICIENTE NÃO ATACADO. SÚMULA 283/STF. 3. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. 4. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282/STF E 211/STJ. 5. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+(..)
+5. Agravo interno a que se nega provimento." (AgInt no AREsp 2.164.998/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se)
+Quanto ao mérito propriamente dito, concernente à violação do art. 836 do CPC, a pretensão recursal encontra óbice intransponível na Súmula n. 7 desta Corte.
+O Tribunal de origem, soberano na análise do acervo fático-probatório, concluiu que o valor bloqueado, embora represente fração minoritária da dívida, possui utilidade para a satisfação, ainda que parcial, do crédito exequendo. Rever tal entendimento  para, em sentido oposto, classificar a penhora como irrisória e inútil ao processo executivo  demandaria, inevitavelmente, o reexame de fatos e provas, notadamente a comparação entre o valor constrito e o montante total do débito, bem como a análise de sua relevância para a amortização da dívida. Tal proceder, contudo, é vedado em sede de recurso especial.
+A incidência da Súmula n. 7/STJ prejudica, pela mesma razão, a análise do dissídio jurisprudencial, pois as particularidades fáticas de cada caso impedem a demonstração da similitude necessária ao cotejo analítico entre os julgados.
+Ante o exposto, dou provimento ao agravo interno para reconsiderar a decisão da Presidência (e-STJ fls. 253/254) e, em novo julgamento, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Não se aplica o disposto no art. 85, § 11, do Código de Processo Civil, porque o acórdão recorrido tem origem em incidente no cumprimento de sentença, sem prévia fixação de honorários.
+É o voto.
