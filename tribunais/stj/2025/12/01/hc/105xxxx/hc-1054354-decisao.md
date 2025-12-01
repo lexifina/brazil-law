@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus i mpetrado em nome de WELSON DAVID MOREIRA ESTEVAO DE OLIVEIRA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ, que denegou a ordem (HC n. 0629179-14.2025.8.06.0000) (fls. 14/24).
+Extrai-se dos autos que o paciente foi preso preventivamente em 11/8/2025 e denunciado pela sup osta prática dos delitos de posse e porte ilegal de arma de fogo com numeração suprimida e receptação (Processo n. 0202283-69.2025.8.06.0300 do 4º Núcleo Regional de Custódia e das Garantias - Sede em Caucaia/CE - fls. 89/100).
+Neste writ, bu sca o impetrante a revogação da prisão cautelar imposta ao paciente, aos argumentos de ausência de fundamentação concreta e contemporânea para o decreto de prisão preventiva; crime praticado sem violência ou grave ameaça à pessoa; primariedade e suficiência de medidas cautelares alternativas.
+É o relatório.
+Ocorre que, da análise dos autos, em especial da decisão que decretou a segregação cautelar, o Magistrado logrou demonstrar fundamentação adequada, uma vez que o acusado foi preso haja vista ter efetuado disparo de arma de fogo no interior de um imóvel onde iria acorrer um evento, sendo flagrado em seguida portando uma pistola calibre 09 mm (numeração suprimida), um revolver calibre 32, e munições diversas, que o acusado afirmou a composição policial que no local estava havendo uma festa de simpatizantes da facção "MASSA CARCERÁRIA", sendo apreendido com o acusado: 31 munições calibre 32; 1 revolver calibre 32; 65 munições 9 mm; 2 carregadores de pistola; 1 munição calibre 38 e 4 estojos de 9 mm, conform e auto de apresentação e apreensão de página 7 (fl. 94 - grifo nosso), a denotar a gravidade concreta das condutas delitivas .
+Nesse sentido, confira-se a jurisprudência deste Superior Tribunal: AgRg no HC n. 984.484/RS, de minha relatoria, Sexta Turma, julgado em 14/4/2025, DJEN de 25/4/2025; e AgRg no HC n. 937.370/RJ, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 16/10/2024, DJe de 23/10/2024.
+Afora isso, é entendimento desta Casa que as condições favoráveis do paciente, por si sós, não impedem a manutenção da prisão cautelar quando devidamente fund amentad a; e que é ina plicável medida cautelar alternativa quando as circunstâncias evidencia m que as providências menos gravosas seriam insuficientes para a manutenção da ordem pública.
+Assim, não há a coação ilegal descrita na inicial.
+Em face do expo sto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. POSSE E PORTE ILEGAL DE ARMA DE FOGO COM NUMERAÇÃO SUPRIMIDA . RECEPTAÇÃO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. GRAVIDADE CONCRETA DAS CONDUTAS DELITIVAS . GARANTIA DA ORDEM PÚBLICA. PRECEDENTES. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Inicial indeferida liminarmente.
