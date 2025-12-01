@@ -1,0 +1,81 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de ANTONIO HELIO ALVES DE SOUZA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS no julgamento do Desaforamento Criminal n. 5607135-63.2025.8.09.0021.
+Extrai-se dos autos que o paciente foi pronunciado como incurso nas penas do art. 121, § 2º, incisos I e IV, do Código Penal - CP.
+O Tribunal de origem indeferiu pedido de desaforamento do julgamento pelo Tribunal do Júri, designado para o dia 28/8/2025, nos termos do acórdão que restou assim ementado (fls. 30/31):
+"DIREITO PROCESSUAL PENAL. DESAFORAMENTO CRIMINAL. JÚRI. IMPARCIALIDADE. AUSÊNCIA DE PROVAS. PEDIDO INDEFERIDO.
+I. CASO EM EXAME
+1. Trata-se de pedido de desaforamento do julgamento pelo Tribunal do Júri de réu pronunciado por homicídio duplamente qualificado, na Comarca de Caçu. O requerente sustentou o interesse da ordem pública e dúvida sobre a imparcialidade do Júri, em razão da grande repercussão dos fatos na região e da pequena dimensão demográfica da cidade. Foi perseguida a imediata suspensão do rito escalonado do Júri em sede liminar, mas o pedido foi indeferido.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se as alegações de grande repercussão do crime e de pequena dimensão demográfica da cidade, sem provas concretas, são suficientes para justificar o desaforamento do julgamento, por dúvida sobre a imparcialidade do Júri ou interesse da ordem pública.
+III. RAZÕES DE DECIDIR
+3. O desaforamento consiste em medida excepcional, cabível apenas se comprovados inequivocamente fatos que o justifiquem.
+4. As informações prestadas pelo magistrado de origem ratificaram a inexistência de comoção social que influenciaria os jurados e a aptidão das autoridades locais para garantir a ordem e a segurança.
+5. A presunção de que a ampla publicidade do caso poderá comprometer o julgamento isento não é suficiente para autorizar o desaforamento.
+6. A mera presunção de parcialidade dos jurados, sem provas concretas, é insuficiente para o desaforamento criminal, sendo as alegações genéricas.
+IV. DISPOSITIVO E TESE
+7. O pedido é conhecido e indeferido.
+8. Tese de julgamento:
+"1. O desaforamento criminal é medida excepcional que exige prova concreta de comprometimento da imparcialidade do Júri ou do interesse da ordem pública. 2. A mera alegação de grande repercussão do crime ou de pequena dimensão demográfica da comarca, sem demonstração de fatos objetivos que comprovem a parcialidade dos jurados, é insuficiente para justificar o desaforamento. 3. A suposta comoção social não se acolhe para fins de desaforamento, por ser situação natural em fatos dessa espécie."
+Dispositivos relevantes citados: CPP, arts. 427, 428; RITJGO, art. 244, § 1º.
+Jurisprudências relevantes citadas: TJGO, Desaforamento de Julgamento, 5109656-04.2025.8.09.0097; TJGO, Desaforamento Criminal 5647543- 11.2024.8.09.0093; TJGO, Desaforamento Criminal 5714765-64.2024.8.09.0038."
+No presente writ, a defesa sustenta a ilegalidade no indeferimento do pedido de desaforamento, porquanto o acórdão objurgado teria desconsiderado a existência de fundada dúvida sobre a imparcialidade dos jurados, exigindo uma prova concreta que a legislação processual penal não impõe.
+Ressalta que a pequena população da Comarca de Caçu/GO e a comoção social atestada pela autoridade policial configurariam elementos objetivos que comprometem a imparcialidade do julgamento.
+Requer, em liminar e no mérito, a concessão da ordem para que seja declarada a nulidade da sessão de julgamento pelo Tribunal do Júri e da respectiva sentença condenatória, determinando-se o desaforamento do julgamento da ação penal para outra comarca.
+Liminar indeferida às fls. 70/72.
+O Ministério Público Federal opinou pelo não conhecimento do habeas corpus, conforme parecer de fls. 80/83.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça.
+Todavia, considerando as alegações expostas na inicial, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal que justifique a concessão da ordem de ofício.
+O Tribunal de origem indeferiu o pedido de desaforamento mediante os seguintes fundamentos:
+"O desaforamento consiste numa medida excepcional, prevista nos arts. 427 e 428, ambos do Código de Processo Penal, destinada a deslocar a competência do processo de crime doloso contra a vida para outra Comarca, geralmente mais próxima, quando assim o reclamar o interesse da ordem pública ou quando houver dúvidas sobre a imparcialidade do Júri ou a respeito da segurança pessoal do acusado.
+ ..
+Consoante previsão legal citada, o desaforamento do juízo natural do julgamento da causa é possível, porém, apenas se comprovado inequivocamente fato que o justifique, em especial as informações do Juiz.
+No caso dos autos, a magistrado em suas informações (mov. 10, fls. 30/32) ratificou que "Não há notícia de que no decorrer o trâmite processual a população de Caçu foi tomada por uma comoção social diante da ocorrência do crime de homicídio e que esse fato influenciaria os jurados no julgamento. O fato da cidade de Caçu ser de pequena dimensão demográfica não impede a realização do júri. Por fim, ressalta-se que a Comarca de Caçu é composta pelas cidades de Caçu, Itarumã e Aparecida do Rio Doce e a lista de jurados para o ano de 2025 é composta por 145 cidadãos não só da cidade de Caçu, mas também de Itarumã e Aparecida do Rio Doce e que a lista composta obedeceu de forma rigorosa os ditames do Código de Processo Civil, como também os 25 jurados e os 5 jurados suplentes sorteados para participarem da reunião do mês de agosto. Ainda acrescentou que "as autoridades locais estão aptas a garantir a ordem e a segurança durante o procedimento".
+Ademais, as informações apresentadas pelo requerente não demonstram de forma efetiva que a imparcialidade dos jurados estará comprometida. A presunção de que a ampla publicidade do caso poderá comprometer o julgamento isento não é suficiente para autorizar o desaforamento.
+Dessarte, os argumentos apresentados pelo requerente não evidenciam que sua integridade física está em risco ou que o julgamento imparcial está comprometido. Válido mencionar também que não se acolhe suposta comoção social para fins de desaforamento, porquanto seja situação natural em fatos dessa espécie.
+De fato, não se constatam as causas determinantes autorizadoras da medida, previstas nos artigos 427 e 428 do Código de Processo Penal: o interesse da ordem pública o reclamar; dúvida sobre a imparcialidade do Júri; risco à segurança pessoal do acusado ou em razão de comprovado excesso de serviço, em que o julgamento não puder ser feito no prazo de 6 (seis) meses, contado do trânsito em julgado da pronúncia.
+Conclui-se, portanto, que não há nos autos comprovação de que a exposição do caso geraria, ainda que minimamente, desconfiança sobre o Conselho de Sentença, que será formado na sessão de julgamento, com as recusas permitidas em lei.
+ ..
+Portanto, não comprovado o risco à segurança do requerente, tampouco a influência capaz de comprometer a imparcialidade dos jurados, não há se falar em desaforamento." (fls. 27/30)
+Inicialmente, em matéria penal, é certo que a competência deve ser estabelecida nos termos do art. 70 do Código de Processo Penal - CPP, sendo o local da consumação do delito, via de regra, o competente para o processamento e julgamento do feito.
+Entretanto, nos processos constitucionalmente atribuídos ao julgamento pelo Tribunal do Júri, o art. 427 do CPP prevê, excepcionalmente, a possibilidade de alteração da competência inicialmente fixada em razão do lugar da infração, sendo permitido o desaforamento do feito em apenas três hipóteses, quais sejam: interesse da ordem pública; dúvida sobre a imparcialidade do júri; ou dúvida sobre a segurança pessoal do acusado.
+No caso dos autos, a defesa sustenta haver necessidade de desaforamento em razão da dúvida sobre a imparcialidade dos jurados, ante a comoção social gerada pelo fato, especialmente considerando a pequena população da Comarca de Caçu/GO.
+Quanto à alegação de existência de dúvida sobre a imparcialidade dos jurados, é certo que somente se verifica possível a alteração do juiz natural da causa, com o desaforamento, quando a situação ficar demonstrada de forma concreta, não bastando para tal conclusão a alegação de se tratar de cidade pequena e o crime ter gerado comoção social.
+No caso dos autos, o Tribunal de origem concluiu que não restou demonstrado, de forma efetiva, que a imparcialidade dos jurados estaria comprometida.
+Nesse contexto, tendo o Tribunal de origem considerado que não estão presentes os requisitos que autorizam o desaforamento, resta inadmissível o afastamento de tal conclusão por esta Corte Superior, tendo em vista que tal demanda acarretaria em incursão fático-probatória inviável em sede de habeas corpus.
+A propósito, confiram-se os seguintes julgados:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. 1. PEDIDO DE DESAFORAMENTO. PARCIALIDADE DO JÚRI. AUSÊNCIA DE ELEMENTO EMPÍRICO. IMPOSSIBILIDADE DE REEXAME DOS FATOS E PROVAS. 2. VÍTIMA MUITO QUERIDA. CIDADE PEQUENA. COMOÇÃO DOS HABITANTES. ELEMENTOS ABSTRATOS. 3. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. A fundamentação declinada pela Corte local para indeferir o pedido de desaforamento encontra-se em consonância com a jurisprudência desta Corte Superior, que é no sentido de que a simples presunção de parcialidade, sem qualquer embasamento empírico, não é suficiente para a adoção da medida excepcional do desaforamento de competência.
+- Para desconstituir as conclusões das instâncias ordinárias a respeito da ausência de comprometimento da imparcialidade dos jurados, seria necessário o revolvimento dos fatos e das provas dos autos, o que, como é de conhecimento, não é cabível na via estreita do mandamus.
+2. Oportuno registrar que os elementos apresentados pelo agravante como indicativos de parcialidade do júri, consistentes no fato de a vítima ser querida na cidade, de se tratar de cidade pequena e de o crime ter gerado comoção entre os habitantes revela situação ordinária e comum na maioria dos municípios com poucos habitantes, sendo, portanto, demasiadamente genérico para autorizar o deslocamento do julgamento.
+3. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 792.237/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/2/2023, DJe de 13/2/2023.)
+PROCESSO PENAL. PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO E FRAUDE PROCESSUAL. JÚRI. ART. 427 DO CPP. PEDIDO DE DESAFORAMENTO. INDEFERIMENTO. COMPROMETIMENTO DA IMPARCIALIDADE DOS JURADOS NÃO VERIFICADA. ALTERAÇÃO DE ENTENDIMENTO DO TRIBUNAL DE ORIGEM. EXAME APROFUNDADO DO CONTEXTO FÁTICO-PROBATÓRIO DOS AUTOS. NECESSIDADE. MATÉRIA INCABÍVEL NA VIA ELEITA. CONSTRANGIMENTO ILEGAL. NÃO OCORRÊNCIA. WRIT NÃO CONHECIDO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. Nos termos do art. 427 do CPP, se o interesse da ordem pública o reclamar ou houver dúvida sobre a imparcialidade do júri ou a segurança pessoal do acusado, o Tribunal, a requerimento do Ministério Público, do assistente, do querelante ou do acusado ou mediante representação do juiz competente, poderá determinar o desaforamento do julgamento para outra comarca da mesma região, onde não existem aqueles motivos, preferindo-se as mais próximas.
+3. A mera presunção de parcialidade dos jurados em razão da divulgação dos fatos e da opinião da mídia é insuficiente para o deferimento da medida excepcional do desaforamento da competência.
+4. Para rever o entendimento do Tribunal de origem de que não existem os requisitos que autorizam o desaforamento, seria necessário o exame aprofundado do contexto fático-probatório, inviável neste via eleita.
+5. Habeas corpus não conhecido.
+(HC n. 492.964/MS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 3/3/2020, DJe de 23/3/2020.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DESAFORAMENTO. TRIBUNAL DO JÚRI. MODIFICAÇÃO EPISÓDICA DA REGRA DE COMPETÊNCIA TERRITORIAL PARA O JULGAMENTO POPULAR. NÃO COMPROVAÇÃO DE PARCIALIDADE DO JÚRI. MERAS ILAÇÕES. INEXISTÊNCIA DE MOTIVOS RELEVANTES QUE COMPROMETAM O JULGAMENTO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos do art. 70 do Código de Processo Penal, em regra, a competência para julgamento das infrações penais é determinada pelo lugar em que se consumou o delito. Há, entretanto, situações em que a própria lei autoriza o deslocamento da competência, com o escopo de proteger princípios caros ao processo e à ordem jurídica vigente.
+2. No rito do julgamento pelo Tribunal do Júri, o desaforamento encontra disciplina nos arts. 427 e 428 do Código de Processo Penal, possibilitando a modificação episódica da regra de competência territorial para o julgamento popular.
+3. Por força de regramento legal, nos casos de interesse da ordem pública, de dúvidas acerca da imparcialidade do júri, de necessidade de segurança pessoal do acusado ou de excesso de serviço no foro original, desloca-se o julgamento do acusado em Plenário para outra comarca que esteja livre dos vícios apontados.
+4. No caso concreto, o Tribunal de origem deixou bem registrado que a parcialidade do júri não é uma realidade. Não houve a comprovação de nenhum motivo relevante que comprometa o julgamento popular.
+5. A desconstituição do disposto pelas instâncias de origem, entendendo pelo não preenchimento dos requisitos legais do desaforamento, é inadmissível na angusta via do habeas corpus, ante a imperiosa necessidade de revolvimento do conteúdo fático-probatório.
+6. Agravo regimental desprovido.
+(AgRg no HC n. 654.613/RJ, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 5/10/2021, DJe de 8/10/2021.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. NOVOS ARGUMENTOS PARA DESCONSTITUIR O DECISUM UNIPESSOAL. AUSÊNCIA. HOMICÍDIO QUALIFICADO. DESAFORAMENTO. DÚVIDA QUANTO À PARCIALIDADE DOS JURADOS. FALTA DE COMPROVAÇÃO. JURISPRUDÊNCIA CONSOLIDADA. REVOLVIMENTO FÁTICO-PROBATÓRIO. VIA INIDÔNEA. AGRAVO NÃO PROVIDO.
+1. É assente nesta Corte Superior que o agravo regimental deve trazer novos argumentos ou documentos inéditos capazes de infirmar a decisão agravada, sob pena de manutenção do decisum pelos próprios fundamentos.
+2. Nos termos do art. 427 do Código de Processo Penal, se o interesse da ordem pública o reclamar ou se houver dúvida sobre a imparcialidade do Tribunal do Júri ou sobre a segurança pessoal do réu, o órgão colegiado de segundo grau poderá determinar a modificação da comarca para o julgamento, onde não subsistam tais motivos.
+3. A eventual repercussão do crime na localidade, a costumeira movimentação dos parentes das vítimas e a divulgação dos fatos pela mídia são atitudes corriqueiras em hipóteses de delitos de maior gravidade, de modo que não justificam, per se, o desaforamento da sessão em Plenário.
+4. A natureza urgente do habeas corpus exige prova pré-constituída das alegações e não comporta dilação probatória. A ausência de instrução dos autos com elementos documentais capazes, concreta e especificamente, de demonstrar o efetivo perigo de imparcialidade do Conselho de Sentença ou o risco à integridade da acusada impede a concessão da ordem pugnada pelos impetrantes.
+5. Para rever a conclusão taxativa das instâncias ordinárias de inexistência dos requisitos para o desaforamento pretendido, seria necessário o exame aprofundado do contexto fático-probatório, providência que não se coaduna com a via eleita. Precedentes.
+6. Agravo não provido.
+(AgRg no HC n. 627.631/PB, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 3/8/2021, DJe de 12/8/2021.)
+Ausente, portanto, qualquer constrangimento que justifique a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
