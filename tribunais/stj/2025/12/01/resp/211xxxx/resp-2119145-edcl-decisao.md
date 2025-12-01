@@ -1,0 +1,16 @@
+DECISÃO
+Em análise, embargos de declaração opostos contra decisão monocrática por mim proferida, que determinou a conversão do agravo em recurso especial em recurso especial.
+A parte embargante sustenta que a decisão embargada merece reparo, pois "A r. decisão não especificou quais são os requisitos legais e regimentais que a Embargante descumpriu no que tange ao Dissídio Jurisprudencial." (fl. 1012).
+A parte embargada apresentou impugnação aos embargos de declaração (fls. 1020-1024).
+É o relatório.
+Os Embargos de Declaração constituem recurso de rígidos contornos processuais, exigindo-se, para seu acolhimento, os pressupostos legais de cabimento.
+Conforme se depreende do art. 1.022 do Código de Processo Civil, os embargos de declaração não servem à reforma do julgado e não permitem a rediscussão da matéria, pois seu objetivo é introduzir o estritamente necessário para eliminar obscuridade, contradição, erro material e/ou suprimir omissão.
+Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes (realizado na minuta e contraminuta recursais) ou sobre o qual deveria se manifestar de ofício.
+A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão.
+Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+De fato, assiste razão ao embargante. Da análise dos autos, verifica-se que a decisão embargada apresenta vício de omissão, pois deixou de especificar que houve ausência de cotejo analítico.
+O dissídio jurisprudencial viabilizador do recurso especial pela alínea c do permissivo constitucional não foi demonstrado nos moldes legais, pois, entre os acórdãos trazidos à colação, não há o necessário cotejo analítico que comprove a similitude fática e jurídica, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1029, §1º do CPC e 255, § 1º, do RISTJ.
+Para a caracterização da divergência, nos termos do art. 1.029, § 1º, do CPC e do art. 255, §§ 1º e 2º, do RISTJ, exige-se, além da transcrição de acórdãos tidos por discordantes, a indicação de dispositivo legal supostamente violado, a realização do cotejo analítico do dissídio jurisprudencial invocado, com a necessária demonstração de similitude fática entre o aresto impugnado e os acórdãos paradigmas, assim como a presença de soluções jurídicas diversas para a situação, sendo insuficiente, para tanto, a simples transcrição de ementas, como no caso. Nesse sentido: AgInt no AREsp n. 1.235.867/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 17/5/2018, DJe 24/5/2018; AgInt no AREsp n. 1.109.608/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 13/3/2018, DJe 19/3/2018; REsp n. 1.717.512/AL, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/4/2018, DJe 23/5/2018.
+Isso posto, acolho os embargos de declaração, sem efeitos infringentes, para complementar a decisão de fls. 1003-1007.
+Intime-se.
+EMENTA
