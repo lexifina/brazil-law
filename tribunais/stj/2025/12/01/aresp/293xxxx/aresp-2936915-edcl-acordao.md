@@ -1,0 +1,112 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 25/11/2025 a 01/12/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira, Marco Buzzi e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos por MEDICAL SUTURE COMÉRCIO DE MATERIAL HOSPITALAR LTDA. contra acórdão proferido por esta colenda Quarta Turma, assim ementado (e-STJ, fl. 418):
+"AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. RESPONSABILIDADE CIVIL. INSTITUIÇÃO FINANCEIRA. PAGAMENTO FRAUDULENTO. AUSÊNCIA DE DEVER DE CUIDADO DA CONSUMIDORA. INEXISTÊNCIA DE FALHA NA PRESTAÇÃO DO SERVIÇO. SÚMULA 7/STJ. INVERSÃO DO ÔNUS DA PROVA. NÃO AUTOMÁTICA. SÚMULA 83/STJ. RECURSO ESPECIAL DESPROVIDO.
+1. O Tribunal de Justiça do Estado do Rio de Janeiro, com base no acervo fático-probatório, concluiu pela inexistência de falha na prestação de serviços por parte da instituição financeira, uma vez que o pagamento fraudulento decorreu da ausência de dever de cuidado da consumidora, que não observou as incongruências nas informações do boleto emitido fora dos canais oficiais, rompendo o nexo causal nos termos do art. 14, § 3º, II, do CDC.
+2. A modificação do entendimento do acórdão recorrido demandaria o revolvimento do suporte fático-probatório dos autos, o que encontra óbice na Súmula 7 do Superior Tribunal de Justiça.
+3. A inversão do ônus da prova, nos termos do Código de Defesa do Consumidor, não é automática, dependendo da análise judicial sobre a verossimilhança das alegações e a hipossuficiência do consumidor, conforme pacífica jurisprudência do STJ, atraindo a incidência da Súmula 83/STJ.
+4. Agravo conhecido para negar provimento ao recurso especial."
+Em suas razões (e-STJ, fls. 428-431), a embargante sustenta, em síntese, que:
+(i) O acórdão incorreu em omissão ao aplicar a Súmula 7 do Superior Tribunal de Justiça, porque o recurso especial não pretenderia revolver provas, mas apenas revalorar juridicamente fatos incontroversos, consistentes no pagamento de boleto fraudado por meio do sistema bancário do recorrido.
+(ii) O acórdão foi omisso ao não apreciar que a fraude bancária se enquadraria como fortuito interno, inerente aos riscos da atividade, atraindo a responsabilidade objetiva da instituição financeira e a aplicação da Súmula 479 do Superior Tribunal de Justiça.
+(iii) O acórdão deixou, ainda, de enfrentar o argumento de que o banco não atuaria como mero interveniente do pagamento, pois emitiu o boleto objeto da fraude, deixando de assegurar a proteção dos dados, com os mecanismos preventivos em sua plataforma.
+(iv) O acórdão foi omisso ao asserir que a inversão do ônus da prova não é automática, sem analisar a hipossuficiência técnica da consumidora e a verossimilhança das alegações, diante do domínio exclusivo do banco sobre seus sistemas de segurança, emissão de boletos, autenticação e controle de fraudes.
+(v) O acórdão deixou de verificar que o banco não se desincumbiu do ônus de provar a inexistência de defeito no serviço ou a culpa exclusiva de terceiro, ônus que lhe competia à luz do regime de responsabilidade aplicável.
+Requer, ao final, sejam sanados os vícios apontados, com a reconsideração da decisão embargada ou sua reforma pela Turma Julgadora.
+Não foi apresentada impugnação (e-STJ, fl. 436).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre a qual se devia pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como corrigir erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+Sobre os temas elencados nos presentes aclaratórios, esta Quarta Turma assim se pronunciou:
+"No caso, o eg. TJ-RJ, com arrimo no acervo fático-probatório carreado aos autos, confirmando a sentença, concluiu que não houve falha na prestação de serviços por parte da instituição financeira, pois o pagamento fraudulento ocorreu por ausência do dever de cuidado da ora recorrente. A título elucidativo, transcreve-se o seguinte excerto do v. acórdão estadual (e-STJ, fls. 263-264):
+"Analisando detidamente o acervo probatório, verifica-se que, de fato, o boleto de índex 11727129 menciona como beneficiária a empresa credora, e como pagadora a ora autora, além de constar o valor do documento compatível com a dívida. Contudo, no comprovante de pagamento (índex 11727726) aparece como beneficiária Pagar. ME pagamentos, e como avalista Idaza Distribuidora de Petróleo, pessoas totalmente estranhas à relação jurídica originária.
+Nesse quesito, impõe observar que, antes de permitir o pagamento dos boletos, o Banco repassa ao pagador, para prévia conferência, as informações que constarão no comprovante. Ou seja, poderia a apelante, antes mesmo de realizar o pagamento, identificar as incongruências nas informações e suspeitar do golpe, notadamente porque é pessoa jurídica que trabalha com atividades comerciais, sendo expressivo o valor do pagamento, o que, por si só, deveria impor redobrado dever de cuidado. Assim, percebe-se que, efetivamente, deixou a consumidora, ora apelante, de exercer o seu dever de cuidado.
+Mas não é só.
+Além das informações de conferência do boleto (incongruências) indicarem a fraude, as provas dos autos não comprovam a tese da apelante de que o boleto falsificado lhe foi encaminhado pela credora, por e-mail. Conforme se infere do e-mail de índex 11727130, a empresa credora (Abbott) mandou o  passo a passo  para emissão de boleto no Banco Santander, e não no Bradesco, de sorte que não se comprovou, na presente ação, a origem do documento fraudado. Assim, também por este motivo não há como se acolher a pretensão reparatória.
+Ademais, embora a recorrente afirme que houve vazamento de informações, como se trata de pessoa jurídica, seus dados são de fácil acesso a terceiros, o que, por óbvio, facilita a fraude ora perpetrada. Assim, as provas dos autos não conduzem à conclusão de que tenha havido vazamento de informações de forma a responsabilizar o réu.
+Com efeito, o golpe sofrido pela autora é conhecido, vem sendo divulgado pela mídia há alguns anos e é praticado por quadrilhas especializadas. Em regra, a responsabilidade por operações fraudulentas é objetiva, representando caso fortuito interno, consoante entendimento constante da súmula 479 do STJ:
+ ..
+Todavia, no caso dos autos, a prática de estelionato ocorreu fora do controle do réu, não tendo a autora adotado as cautelas necessárias, eis que efetuou o pagamento de boleto sem observar o correto procedimento indicado pela credora, e sem se assegurar se o remetente era o próprio Banco. (o boleto era para ser emitido no Banco Santander, o que se comprova por meio da resposta de e-mail de índex 11727130 e do boleto verdadeiro de índex 11727127)
+Assim, conclui-se que o fato relatado na inicial decorreu do próprio comportamento da consumidora, como acertadamente entendeu o magistrado sentenciante, o que rompe o nexo causal, nos termos do art. 14, § 3º, II do CDC." (g.n.)
+Como visto, o acórdão afastou a responsabilidade objetiva do banco ao concluir que a fraude ocorreu devido ao comportamento da consumidora, que não observou o dever de cuidado ao realizar o pagamento de um boleto emitido fora dos canais oficiais. O documento fraudado apresentava incongruências nas informações, com beneficiário e avalista estranhos à relação jurídica originária, o que deveria ter feito a consumidora suspeitar do golpe.
+Ademais, o acórdão destacou que, sendo a consumidora uma pessoa jurídica, seus dados são facilmente acessíveis a terceiros, o que facilita a fraude, não havendo provas de vazamento de informações que pudessem responsabilizar o banco. Assim, o nexo causal foi rompido, nos termos do art. 14, § 3º, II, do CDC, não havendo falha na prestação do serviço por parte do banco.
+Nesse contexto, na análise do acórdão recorrido, observa-se que não houve falha na prestação do serviço bancário. Ressalta-se que a modificação de tal entendimento lançado no v. acórdão recorrido, nos moldes em que ora postulada, demandaria o revolvimento de suporte fático-probatório dos autos, o que encontra óbice na Súmula 7 do Superior Tribunal de Justiça.
+(..)
+Quanto à tese de necessidade de inversão do ônus da prova, o Tribunal de origem entendeu que, "mesmo nas relações de consumo, é necessária a demonstração do nexo de causalidade e do dano. Em que pese ser presumidamente vulnerável, não há como se afastar do consumidor o encargo de produzir prova mínima quanto aos fatos que alega, conforme disposto no art. 373, I, do CPC/2015" (e-STJ, fl. 262).
+Nesse contexto, a conclusão do v. acórdão recorrido está em consonância com a pacífica jurisprudência do Superior Tribunal de Justiça, no sentido de que a simples aplicação do Código de Defesa do Consumidor não impõe a inversão do ônus da prova, uma vez que não é automática, cabendo ao magistrado a análise das alegações de verossimilhança de seus argumentos e de hipossuficiência, conceitos intrinsecamente ligados ao conjunto fático-probatório dos autos delineado nas instâncias ordinárias. A propósito:
+(..)
+O entendimento adotado no acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ
+Impende consignar que "A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial alegado" (AgInt no AREsp 2.598.236/SP, Relator Ministro MARCO BUZZI, Quarta Turma, julgado em 17/3/2025, DJEN de 24/3/2025)." (e-STJ, fls. 421-425)
+Logo, está nítido o propósito da parte embargante de rediscutir temas que foram devidamente apreciados, o que, contudo, não é cabível na via estreita dos embargos de declaração. Nesse sentido:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. INEXISTÊNCIA. CARÁTER PROTELATÓRIO. RECON HECIMENTO. EMBARGOS REJEITADOS COM IMPOSIÇÃO DE MULTA.
+1. Inexistentes as hipóteses do art. 535 do CPC, não merecem acolhida os embargos de declaração.
+2. Os embargos de declaração não se prestam à manifestação de inconformismo ou à rediscussão do julgado.
+3. Embargos de declaração rejeitados, com imposição de multa fixada em 1% (um por cento) do valor da causa."
+(EDcl nos EDcl nos EDcl no AgRg no AgRg no AREsp 453.117/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 16/12/2014, DJe 02/02/2015)
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 535 DO CPC. REDISCUSSÃO DE QUESTÕES DE MÉRITO. IMPOSSIBILIDADE. CARÁTER MERAMENTE PROTELATÓRIO. APLICAÇÃO DA MULTA DO ART. 538, PARÁGRAFO ÚNICO, DO CPC.
+1. Revelam-se improcedentes os embargos declaratórios em que as questões levantadas traduzem inconformismo com o teor da decisão embargada, pretendendo rediscutir matérias já decididas, sem demonstrar omissão, contradição ou obscuridade (art. 535 do CPC).
+2. É nítido o intuito protelatório do recurso, dando ensejo à aplicação da penalidade prevista no art. 538, parágrafo único, do CPC, à razão de 1% do valor corrigido da causa. 3. Embargos de declaração rejeitados."
+(EDcl no AgRg nos EREsp 545.285/RS, PRIMEIRA SEÇÃO, Relator o Ministro TEORI ALBINO ZAVASCKI, DJU de 1º.8.2006)
+"PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS. OMISSÃO, CONTRADIÇÃO E OBSCURIDADE. INEXISTÊNCIA. CARÁTER INFRINGENTE DA PRETENSÃO. ANÁLISE DE QUESTÕES DE ORDEM CONSTITUCIONAL. INVIABILIDADE.
+1. Inexiste irregularidade a ser elucidada na via dos embargos de declaração se o acórdão embargado manifesta-se de modo claro e objetivo quanto à matéria submetida à apreciação da Corte.
+2. O reexame de matéria já apreciada com a simples intenção de propiciar efeitos infringentes ao decisum impugnado é incompatível com a função integrativa dos embargos declaratórios.
+3. Em sede de recurso especial, é inviável ao Superior Tribunal de Justiça analisar ou decidir questões de ordem constitucional.
+4. Embargos de declaração rejeitados."
+(EDcl no AgRg no Ag 1.035.101/MS, QUARTA TURMA, Relator o Ministro JOÃO OTÁVIO DE NORONHA, DJe de 28.10.2008)
+"EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO REGIMENTO NO RECURSO ESPECIAL - AÇÃO DE COBRANÇA - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE REJEITOU OS PRIMEIROS ACLARATÓRIOS OPOSTOS. IRRESIGNAÇÃO DA REQUERIDA.
+1. Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o artigo 1.022 do NCPC.
+2. No caso, não se constata o vício alegado pelo embargante, que busca rediscutir matéria devidamente examinada pela decisão embargada referente à deserção da apelação interposta na origem, o que é incabível nos embargos declaratórios.
+3. Sob a égide do Código de Processo Civil de 1973, a jurisprudência desta Corte consolidou o entendimento de que a comprovação do recolhimento das custas processuais deve se dar no momento do protocolo do respectivo recurso, não cabendo posterior juntada de comprovante. Precedentes da Corte Especial e da Segunda Seção deste Tribunal.
+4. Embargos de declaração rejeitados."
+(EDcl nos EDcl no AgInt no AgRg no REsp 1545154/GO, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 02/10/2018, DJe 11/10/2018)
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE QUALQUER DOS VÍCIOS ELENCADOS NO ART. 1.022 DO CPC/2015. MERO INCONFORMISMO. HONORÁRIOS RECURSAIS DEVIDOS. ART. 85, § 11, DO CPC/2015.
+1. Os embargos de declaração são cabíveis somente quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+2. No caso concreto, não se constatam os vícios alegados pela parte embargante, que busca rediscutir matéria devidamente examinada pela decisão embargada, o que é incabível nos embargos declaratórios.
+3. No julgamento do EREsp n. 1 .539.725/DF (DJe 19/10/2017), a SEGUNDA SEÇÃO concluiu que o Colegiado poderá arbitrar, no agravo interno, a verba honorária recursal omitida pelo relator por ocasião da decisão monocrática.
+4. Apesar de o agravo em recurso especial ter sido interposto na vigência do CPC/2015, a decisão que negou provimento ao referido recurso, bem como o acórdão que desproveu o respectivo agravo interno, permaneceram silentes a respeito da aplicação do art. 85, § 11, do referido diploma processual, o que permite a fixação de honorários recursais nesta etapa.
+5. Embargos de declaração rejeitados, com majoração dos honorários sucumbenciais."
+(EDcl no AgInt no AREsp 1241259/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 20/09/2018, DJe 27/09/2018)
+Ademais, os vícios a que se refere o artigo 1.022 do CPC são aqueles que recaem sobre ponto que deveria ter sido decidido e não o foi, e não sobre os argumentos utilizados pelas partes, de modo que não há falar em omissão simplesmente pelo fato de as alegações deduzidas não terem sido acolhidas pelo órgão julgador. A propósito, na parte que interessa:
+"AGRAVO REGIMENTAL. AÇÃO DE SOBREPARTILHA. ALEGAÇÃO, NAS RAZÕES DE RECURSO ESPECIAL, DE VIOLAÇÃO AOS ARTIGOS 458, II E 535, II, DO CPC. INEXISTÊNCIA.  ..
+1. Não há que se falar em nulidade do acórdão por omissão, se este examinou e decidiu os pontos relevantes e controvertidos da lide e apresentou os fundamentos nos quais sustentou as conclusões assumidas.
+ .. "
+(AgRg no AREsp 37.045/GO, QUARTA TURMA, Rel. Ministro LUIS FELIPE SALOMÃO, julgado em 5/3/2013, DJe 12/3/2013)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. 1. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. 2. MEDIDA CAUTELAR DE ARRESTO. PERICULUM IN MORA NÃO CONFIGURADO. MODIFICAÇÃO DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. SÚMULA 7/STJ. 3. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS ACÓRDÃOS EVIDENCIADA PELA APLICAÇÃO DA SÚMULA 7/STJ. 4. AGRAVO INTERNO DESPROVIDO.
+1. Havendo a apreciação pelo Tribunal de origem de todas as matérias suscitadas pelas partes, não há que se falar em violação do art. 1.022 do CPC/2015.
+2. Para modificar a conclusão do acórdão recorrido, que manteve o indeferimento do pedido de arresto cautelar dos bens dos recorridos em razão da ausência de comprovação do periculum in mora, seria imprescindível o reexame de todo o conjunto fático-probatório dos autos, procedimento inviável na via do especial (Súmula 7/STJ).
+3. Nos termos da jurisprudência desta Corte Superior, a incidência da Súmula 7/STJ impede o exame do recurso especial em relação ao dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão recorrido, tendo em vista a situação fática de cada caso concreto.
+4. Agravo interno desprovido."
+(AgInt no AREsp 1043856/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 12/09/2017, DJe 15/09/2017)
+"ADMINISTRATIVO. CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. INTERVENÇÃO DO ESTADO NA PROPRIEDADE. DESAPROPRIAÇÃO DIRETA. ALEGAÇÃO DE APOSSAMENTO ADMINISTRATIVO. PRETENSÃO INDENIZATÓRIA DE DANOS MORAIS. DIREITO DE CULTO AOS MORTOS. VIOLAÇÃO A DIREITO DA PERSONALIDADE. DESNECESSIDADE DE PRODUÇÃO DE PROVA. AUTONOMIA DA PESSOA JURÍDICA. DISTINÇÃO DA PESSOA DOS SÓCIOS. INTRANSMISSIBILIDADE DO DIREITO. CARÊNCIA DE LEGITIMIDADE PARA A CAUSA.
+1. O mero julgamento da causa em sentido contrário aos interesses e à pretensão de uma das partes não caracteriza a ausência de prestação jurisdicional tampouco viola o art. 1.022 do CPC/2015. Jurisprudência do Superior Tribunal de Justiça.
+2. A regra que veda o comportamento contraditório ("venire contra factum proprio") aplica-se a todos os sujeitos processuais, inclusive os imparciais. Não é aceitável o indeferimento de instrução probatória e sucessivamente a rejeição da pretensão por falta de prova.
+3. A pessoa jurídica não tem legitimidade para demandar a pretensão de reparação por danos morais decorrentes de aventada ofensa ao direito de culto aos antepassados e de respeito ao sentimento religioso em favor dos seus sócios.
+4. Trata-se de direito da personalidade e, portanto, intransmissível, daí por que incabível a dedução em nome próprio de pretensão reparatória de danos morais alheios.
+5. Recurso especial não provido."
+(REsp 1649296/PE, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 05/09/2017, DJe 14/09/2017)
+"ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO À SAÚDE. FORNECIMENTO DE MEDICAMENTOS. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. SÚMULA 7/STJ. HIPÓTESE EM QUE A FAZENDA PÚBLICA FOI CONDENADA EM HONORÁRIOS DE ADVOGADO, FIXADOS, PELO TRIBUNAL DE ORIGEM, SEM DEIXAR DELINEADAS CONCRETAMENTE, NO ACÓRDÃO RECORRIDO, AS CIRCUNSTÂNCIAS A QUE SE REFEREM AS ALÍNEAS DO § 3º DO ART. 20 DO CPC/73. INADMISSIBILIDADE DO RECURSO ESPECIAL, EM FACE DA INCIDÊNCIA DAS SÚMULAS 7/STJ E 389/STF. AGRAVO INTERNO IMPROVIDO.
+ ..
+III. Não há falar, na hipótese, em violação aos arts. 489 e 1.022 do CPC/2015, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão proferido em sede de Embargos de Declaração apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+ ..
+IX. Agravo interno improvido."
+(AgInt no AREsp 1046644/MS, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 05/09/2017, DJe 11/09/2017)
+"AGRAVO INTERNO. INTERPOSIÇÃO SOB A ÉGIDE DO CPC/2015. AÇÃO DE COBRANÇA. DEPÓSITO JUDICIAL. ATUALIZAÇÃO PELO SALÁRIO MÍNIMO. VIOLAÇÃO DO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. CONTRADIÇÃO. INEXISTÊNCIA.
+1. Considera-se improcedente a arguição de ofensa ao art. 1.022, I, do CPC/2.015 quando o decisum se pronuncia, de forma motivada e suficiente, sobre os pontos relevantes e necessários ao deslinde da controvérsia.
+2. A contradição que autoriza a oposição dos embargos é aquela interna ao julgado, existente entre a fundamentação e a conclusão.
+3. Agravo interno desprovido."
+(AgInt nos EDcl no AREsp 187.905/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 09/08/2016, DJe 19/08/2016)
+Impende ressaltar que, "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte" (AgRg no Ag 56.745/SP, Relator o eminente Ministro CESAR ASFOR ROCHA, DJ de 12.12.1994). Nesse sentido, confiram-se os seguintes julgados: REsp 209.345/SC, Relator o eminente Ministro JOÃO OTÁVIO DE NORONHA, DJ de 16.5.2005; REsp 685.168/RS, Relator o eminente Ministro JOSÉ DELGADO, DJ de 2.5.2005.
+É evidente, pois, a ausência de omissão, obscuridade ou contradição apta a amparar a oposição dos aclaratórios na hipótese vertente.
+Diante do exposto, rejeitam -se os embargos de declaração.
+É como voto.
