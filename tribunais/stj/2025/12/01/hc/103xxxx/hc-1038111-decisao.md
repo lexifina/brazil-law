@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ADALTO OLIVEIRA MOURA ROCHA contra acórdão do TRIBUNAL DE JUSTIÇA DE SÃO PAULO.
+Consta dos autos que o paciente encontra-se preso preventivamente pela suposta prática dos crimes de associação criminosa e estelionato praticado por meio de fraudes eletrônicas.
+No presente writ, sustenta a defesa que não estão presentes os requisitos do art. 312 do Código de Processo Penal, aventando, ainda, a possibilidade de aplicação de medidas cautelares diversas da prisão previstas no art. 319 do CPP.
+Ressalta que o acusado ostenta condições pessoais favoráveis, e é "pai de três filhos menores, conforme certidões de nascimento anexo. O paciente é o provedor da família, seus três filhos menores e esposa dependem do seu trabalho" (fl. 15).
+Requer, liminarmente e no mérito, a revogação da prisão preventiva, expedindo-se o competente alvará de soltura, ainda que com a imposição de medidas cautelares alternativas à prisão.
+Indeferida a liminar (fls. 36-38), foram prestadas as informações solicitadas (fls. 43-65).
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus (fls. 70-79).
+É o relatório.
+A Quinta Turma do Superior Tribunal de Justiça firmou entendimento no sentido de ser inadequada a impetração de habeas corpus quando utilizado em substituição a recurso próprio.
+A teor do disposto no art. 105, II, a, da CF/88, o recurso cabível contra acórdão que denega a ordem na origem é o recurso ordinário, enquanto que, consoante previsto no art. 105, III, da CF, contra acórdão que julga a apelação, o recurso em sentido estrito e o agravo em execução, cabe recurso especial. Nada impede, contudo, constatada a existência de ilegalidade flagrante, abuso de poder ou teratologia, a concessão de habeas corpus de ofício, nos termos do art. 654, §2º do CPP, o que ora passa-se a examinar.
+A prisão preventiva reveste-se de caráter excepcional, sendo admissível apenas quando devidamente demonstrada sua imprescindibilidade para a preservação da ordem pública, a garantia da regularidade da instrução criminal ou a asseguração da eficácia da aplicação da lei penal, nos termos do art. 312 do Código de Processo Penal.
+A decisão que decretou a prisão cautelar, transcrita no acórdão impugnado, está calcada nas seguintes razões de decidir:
+ ..
+Trata-se de crimes graves, cuja pena máxima dos delitos denunciados é superior a 04 anos, sendo, por si só, já suficiente ao preenchimento do requisito previsto no art. 313, I, CPP. Ademais, não se pode deixar de considerar a gravidade em concreto dos crimes imputados aos acusados e as peculiaridades do caso, as quais estão a indicar a presença do periculum libertatis a autorizar a imposição da custódia cautelar, já que, segundo consta os acusados tem agido reiteradamente para a prática das fraudes, se passando por funcionários, sócios ou administradores de diversas empresas para realizar novas compras e obter vultosa vantagem financeira em prejuízo de empresas, pois, além do significativo prejuízo patrimonial causado à empresa vítima, superior a dois milhões e quinhentos mil reais, os elementos dos autos apontam que há potencial lesivo da associação criminosa para o sistema econômico como um todo, considerando a possibilidade de vitimização de múltiplas empresas em todo o território estadual.
+Assim, o interesse público na repressão eficaz aos crimes investigados transcende a mera tutela do patrimônio individual da empresa vítima, alcançando a proteção do sistema econômico nacional e a preservação da segurança jurídica das relações comerciais desenvolvidas através de meios eletrônicos.
+A prisão cautelar dos acusados se mostra necessária não só como garantia da ordem pública, mas por conveniência da instrução criminal, considerando-se que pode influenciar na colheita de provas, assegurando a efetividade da instrução criminal, além de assegurar a aplicação da lei penal eventualmente imposta aos acusados.
+As medidas cautelares trazidas pela lei nº 12.403/11 não se mostram adequadas no caso em tela, diante da gravidade do crime e por conta das circunstâncias do fato, nos termos do artigo 282, II, em sua nova redação, diante da especialização técnica e da estrutura organizacional permanente demonstrada, que tornam ineficazes a aplicação de medidas cautelares diversas da prisão.
+ ..
+Como se vê, a prisão preventiva foi decretada mediante fundamentação idônea, para a garantia da ordem pública e aplicação da lei penal, considerando a gravidade dos delitos em tese praticados - estelionato eletrônico (art. 171, § 2º-A, do CP), por trinta e duas vezes, e associação criminosa (art. 288, caput, do CP) -, evidenciada no modus operandi.
+Com efeito, esta Corte Superior possui orientação no sentido de que a gravidade concreta do delito imputado e a periculosidade do agente, evidenciadas no modus operandi empregado, são circunstâncias aptas a justificar a prisão preventiva para a garantia da ordem pública. Nesse entendimento:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIO DUPLAMENTE QUALIFICADO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. PERICULOSIDADE DO AGENTE. GRAVIDADE CONCRETA. RÉU QUE SE MANTEVE FORAGIDO DURANTE VÁRIOS ANOS. SEGREGAÇÃO DEVIDAMENTE JUSTIFICADA PARA A GARANTIA DA ORDEM PÚBLICA E APLICAÇÃO DA LEI PENAL. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. RECURSO NÃO PROVIDO.
+ ..
+4. Esta Corte possui jurisprudência consolidada no sentido de que "a gravidade concreta da conduta, reveladora do potencial elevado grau de periculosidade do Agente e consubstanciada na alta reprovabilidade do modus operandi empregado na empreitada delitiva, é fundamento idôneo a lastrear a prisão preventiva, com o intuito de preservar a ordem pública". (AgRg no HC n. 687.840/MS, Rel. Ministra Laurita Vaz, Sexta Turma, julgado em 13/12/2022, DJe 19/12/2022).
+ ..
+9. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 939.735/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 30/10/2024, DJe de 5/11/2024.)
+Vale destacar, ainda, que " a  presença de condições pessoais favoráveis não impede a imposição da prisão preventiva, quando presentes os requisitos legais" (AgRg no HC n. 990.311/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/4/2025, DJEN de 30/4/2025).
+Desse modo, "tendo sido exposta de forma fundamentada e concreta a necessidade da prisão, revela-se incabível sua substituição por outras medidas cautelares mais brandas" (AgRg no HC n. 965.960/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/3/2025, DJEN de 10/3/2025).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
