@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto por ANDERSON BASTOS DE ANDRADE contra decisão de fls. 309-313, que inadmitiu o recurso especial com fundamento na Súmula n. 7 do Superior Tribunal de Justiça.
+O recorrente foi condenado pelo juízo de primeiro grau, como incurso no art. 163, parágrafo único, III, do Código Penal, à pena de 6 meses de detenção, em regime inicial aberto, e 10 dias-multa, substituída por pena restritiva de direitos.
+Interposta apelação pela defesa, restou desprovida, mantendo-se a condenação.
+No recurso especial, sustenta-se violação dos arts. 163, parágrafo único, III, do Código Penal, e 368, III, do Código de Processo Penal, aduzindo não comprovado o dolo específico e, portanto, a atipicidade da conduta, bem como dissídio jurisprudencial, por ter sido interposto com fundamento nas alíneas "a" e "c" do art. 105, III, da Constituição Federal.
+No agravo em recurso especial, a parte sustenta que a controvérsia é de direito, relativa à exigência de dolo específico para a configuração do dano qualificado ao patrimônio público, não havendo necessidade de revolvimento probatório.
+O agravo busca a reforma da decisão que inadmitiu o recurso especial, visando seu processamento pelo Superior Tribunal de Justiça.
+Contraminuta apresentada (fls. 321-328).
+O Ministério Público Federal manifestou-se pelo desprovimento, nos termos da seguinte ementa (fl. 377):
+ARESP. PENAL E PROCESSO PENAL. CRIME DE DANO. PLEITO DE ABSOLVIÇÃO. AUSÊNCIA DE DOLO ESPECÍFICO. NECESSIDADE DE REEXAME DE FATOS E DE PROVAS. APLICAÇÃO DA SÚMULA Nº 7/STJ.
+- A impugnação da defesa não merece acolhida, em face da aplicação da decisão que deixou de admitir o recurso especial.
+- Parecer pelo DESPROVIMENTO do agravo em recurso especial
+É o relatório.
+O recurso especial foi inadmitido, sob o fundamento de que incide o óbice previsto na Súmula n. 7 do Superior Tribunal de Justiça.
+Atendidos os requisitos de admissibilidade, inclusive a impugnação formal da decisão agravada, passa-se ao exame do recurso especial.
+Na análise do recurso especial, destaca-se o entendimento firmado pela Corte local (fls. 264-266):
+O Excelentíssimo Senhor Desembargador CARMO ANTÔNIO (Relator) - A materialidade está comprovada pelos documentos constantes dos autos, especialmente pelo laudo de exame pericial de danos, que atestou o rompimento da tornozeleira eletrônica. A autoria, por sua vez, está estabelecida pela prova testemunhal produzida em juízo, notadamente pelo depoimento do policial civil Izaias Freitas de Lima, cujas declarações, coerentes e harmônicas com os demais elementos de prova, atribuem ao apelante a prática do fato delituoso. Ademais, a confissão do apelante em juízo reforça a comprovação da autoria.  ..
+O tipo penal de dano qualificado descreve como crime a conduta de "destruir, inutilizar ou deteriorar coisa alheia, se o crime é cometido contra o patrimônio da União, Estado, Município, empresa concessionária de serviços públicos ou sociedade de economia mista" (CP, art. 163, parágrafo único, III), sendo apenado com detenção, de 6 (seis) meses a 3 (três) anos, e multa. Assim, quanto à tipicidade, tem-se que a conduta praticada se amolda ao núcleo dos tipos penais supracitados, sendo certo que não se identificam causas excludentes de ilicitude ou de culpabilidade a ensejar absolvição.
+Especificamente no que toca à tese defensiva de fragilidade do conjunto probatório, a condenação não se baseou exclusivamente nos elementos colhidos em sede inquisitorial, mas, notadamente, no depoimento prestado em juízo por agente de segurança pública que participou diretamente dos fatos, cuja narrativa é circunstanciada e harmônica com os demais elementos probatórios. Dessa forma, diferentemente do que se afirmou no apelo, a sentença está amparada em provas produzidas sob o crivo do contraditório judicial, não havendo contrariedade ao disposto no art. 155 do CPP, o qual dispõe que "o juiz formará sua convicção pela livre apreciação da prova produzida em contraditório judicial, não podendo fundamentar sua decisão exclusivamente nos elementos informativos colhidos na investigação, ressalvadas as provas cautelares, não repetíveis e antecipadas".
+A palavra de policial, é válido destacar, possui validade e a força probante, quando prestados em juízo, sob a fé do cargo, e em consonância com as demais provas coligidas, tal como ocorreu na espécie. Veja o entendimento do STJ a respeito do tema:  ..
+Analisando detidamente os argumentos colacionados no acórdão, caminho no sentido de que desconstituir o julgado, com o objetivo de absolver o recorrente por ausência de dolo específico, não encontra amparo na via eleita, tendo em vista que demandaria o revolvimento do conjunto fático-probatório, atividade reservada às instâncias ordinárias e inviável no âmbito do Superior Tribunal de Justiça, em sede de recurso especial, em razão do óbice previsto na Súmula n. 7/STJ.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO E LATROCÍNIO. ABSOLVIÇÃO E DESCLASSIFICAÇÃO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. CONTINUIDADE DELITIVA INAPLICÁVEL. AGRAVO REGIMENTAL DESPROVIDO.  ..  2. Alterar a conclusão a que chegaram as instâncias ordinárias e decidir pela desclassificação do delito ou absolvição dos agravantes demandaria revolvimento do acervo fático-probatório dos autos, procedimento que encontra óbice na Súmula 7/STJ.  ..
+(AgRg no AREsp n. 2.002.341/TO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 19/4/2022, DJe de 27/4/2022).
+Assim, modificar o entendimento firmado pelas instâncias ordinárias, com o propósito de reverter a conclusão da Corte local, esbarra no óbice previsto na Súmula n. 7 do Superior Tribunal de Justiça.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
