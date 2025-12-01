@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de mandado de segurança, sem pedido de liminar, proposto por Antônio Prestes de Paula Junior e outros contra o Ministro da Defesa, visando que impetrado realize o "pagamento das parcelas pretéritas da reparação estipulada na Portaria do Ministério da Justiça nº 3.313/2009, decorrente da condição de anistiado, reconhecida ao falecido militar, corrigidos monetariamente e acrescidos de juros de lei" (fls. 14).
+Houve intimação para comprovação de prévio requerimento administrativo (fls. 42-43).
+Os impetrantes não juntaram qualquer documento recente, argumentando que o pagamento deveria ter sido feito de ofício (fls. 47-55).
+O despacho de fls. 66 admitiu a impetração, diante da aparente presença de reconhecimento de valor devido.
+As informações não foram prestadas.
+O MPF ofertou parecer pela denegação da ordem (fls. 78-79).
+Foi retirado o pedido de informações, apresentadas às fls. 91-103.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Para justificar o interesse processual, é imprescindível visualizar pretensão resistida, inexistente na situação aqui avaliada. A necessidade da prestação jurisdicional "fundamenta-se na premissa de que a jurisdição tem de ser encarada como última forma de solução de conflito" (JR. DIDIER. Fredie. Curso de Direito Processual Civil. V.1. Salvador: Juspodivm. 2007. p. 177).
+Ainda no dizer da doutrina:
+"Essa condição da ação assenta-se na premissa de que, tendo embora o Estado o interesse no exercício da jurisdição (função indispensável para manter a paz e a ordem na sociedade), não lhe convém acionar o aparato judiciário sem que dessa atividade se possa extrair algum resultado útil. É preciso, pois, sob esse prisma, que, em cada caso concreto, a prestação jurisdicional solicitada seja necessária e adequada".
+Repousa a necessidade de tutela jurisdicional na possibilidade de obter satisfação do alegado direito sem a intercessão do Estado - ou porque a parte contrária se nega a satisfazê-lo, sendo vedado ao autor o uso da autotutela, ou porque a própria lei exige que determinados direitos só possam ser exercidos mediante prévia declaração judicial (são as chamadas ações constitutivas necessárias ..)" (CINTRA, Antonio Carlos de Araújo, GRINOVER, Ada Pellegrini, DINAMARCO, Cândido Rangel. Teoria Geral do Processo. 19ª Edição. São Paulo: Malheiros. 2003. p. 259).
+No caso em apreço, tal como dito nas decisões anteriores, a exordial "não vem instruída com qualquer documento demonstrando ter havido prévia provocação da Administração para se pronunciar sobre o pedido. O extrato de fls. 37 apresenta andamentos do ano de 2023 e nele nem sequer é possível identificar o teor da solicitação que foi encaminhada" (fl. 42).
+Mesmo que se argumente a prática de ofício do ato, como consequência da concessão da anistia, a prévia e específica provocação da Administração é condição necessária para o uso racional e eficiente da tutela jurisdicional, a fim de que se configura real conflito para composição judicial.
+Em outra perspectiva, os impetrantes também carecem de direito líquido e certo, isto é, não há demonstração prefacial, mediante prova documental, de que há omissão da autoridade impetrada, o Ministro da Defesa, relativa ao crédito mencionado em documento datado do ano de 2011 (fls. 36).
+Ao contrário, os poucos documentos que acompanham a inicial indicariam o atraso de pagamento, providência que em regra é de incumbência de órgãos de execução e de gestão de pessoal da força, não estando submetidos à alçada da autoridade impetrada que justificaria a competência deste Pretório.
+Na lição da doutrina, o "Direito líquido e certo é o que se apresenta manifesto na sua existência, delimitado na sua extensão e apto a ser exercitado no momento da impetração. Por outras palavras, o direito invocado, para ser amparável por mandado de segurança, há de vir expresso em norma legal e trazer em si todos os requisitos e condições de sua aplicação ao impetrante: se sua existência for duvidosa, se sua extensão ainda não estiver delimitada, se seu exercício depender de situações e fatos ainda indeterminados, não rende ensejo à segurança, embora possa ser defendido por outros meios judiciais" (MEIRELLES, Hely Lopes; WALD, Arnoldo; MENDES, Gilmar Ferreira. Mandado de segurança e ações constitucionais. 37. ed. São Paulo: Malheiros, 2016. p 38).
+Embora a inicial apresente documentação apontando ser devida determinada quantia de valores vencidos, nada vincula tal inércia à autoridade coatora, repita-se, de modo a justificar a jurisdição originária deste STJ, na linha do quanto exposto nas informações de fls. 91-103.
+Nesse cenário, os impetrantes deverão buscar as vias ordinárias de cobrança perante a primeira instância.
+ANTE O EXPOSTO, nos termos do art. 485, VI do CPC e do art. 212 do RISTJ, denego a segurança sem resolver o mérito.
+Sem honorários nos termos do art. 25 da Lei 12.016/2009.
+Custas já recolhidas (fls. 39).
+EMENTA
