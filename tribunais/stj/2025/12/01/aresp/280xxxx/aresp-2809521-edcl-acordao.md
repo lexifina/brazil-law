@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 25/11/2025 a 01/12/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Regina Helena Costa, Gurgel de Faria, Paulo Sérgio Domingues e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+SERVIDOR PÚBLICO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas omissões no julgado combatido, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de embargos de declaração opostos pelo Distrito Federal contra acórdão que negou provimento ao agravo interno no agravo em recurso especial, nos seguintes termos (fls. 819/820):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. REAJUSTE. DISPONIBILIDADE FINANCEIRA E ORÇAMENTÁRIA. DIREITOS SUBJETIVOS DO SERVIDOR. EXCEÇÃO. CONFLITO ENTRE LEI LOCAL E LEI FEDERAL. COMPETÊNCIA DO STF. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA.
+1. Afasta-se a ofensa aos arts. 489, § 1º, IV e VI, e 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. " A jurisprudência do Superior Tribunal de Justiça se firmou no sentido de que os limites orçamentários previstos na Lei de Responsabilidade Fiscal, no que se refere às despesas com pessoal do ente público, não podem servir de fundamento para o não cumprimento de direitos subjetivos do servidor, sobretudo na hipótese de despesas provenientes de decisão judicial. Precedentes" (REsp n. 1.517.625/AL, Relator Ministro Og Fernandes, Segunda Turma, julgado em 1/10/2019, DJe de 9/10/2019.)
+3. "A Emenda Constitucional 45/2004 modificou a alínea b do art. 105, III, para atribuir ao STJ apenas os casos em que se julgar válido ato de governo local contestado em face de lei federal, restando a competência acerca do confronto entre lei local e lei federal conferida ao Supremo Tribunal Federal (art. 102, III, d, da CF/88" (AgRg no AREsp n. 194.353/RJ, Relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 24/5/2016, DJe de 7/6/2016).
+4. Agravo interno não provido.
+A parte embargante defende que "o v. acórdão embargado, ao confirmar a decisão monocrática, incorreu em omissão sobre o ponto nevrálgico da argumentação do Distrito Federal, reiterada expressamente no agravo interno. A tese central do ente público não se limita a invocar genericamente os limites da Lei de Responsabilidade Fiscal como óbice ao cumprimento de um direito subjetivo do servidor. O cerne da questão, sobre o qual o acórdão se omitiu, é que as normas da LRF (arts. 15, 16, 17 e 21) e o art. 169, § 1º, da Constituição Federal impõem uma condição suspensiva para a produção de efeitos financeiros por leis que criam despesa continuada. Em outras palavras, o argumento é que a Lei Distrital n. 5.195/2013, embora válida, era ineficaz nos exercícios de 2015 a 2021, de modo que o direito subjetivo ao recebimento das parcelas naquelas datas jamais se aperfeiçoou. Não se trata de descumprir um direito existente, mas de demonstrar que o direito não se constituiu plenamente por ausência de um requisito legal de eficácia" (fls. 837/838).
+Ressalta que "não há direito subjetivo ao pagamento do reajuste nos exercícios em que inexistiu previsão orçamentária. Ora, condenar o Poder Público ao pagamento retroativo de um reajuste que não pôde ser aplicado por falta de dotação orçamentária - fato que o próprio STF reconhece como impeditivo - cria uma contradição e anula o propósito das normas da LRF (arts. 15, 16, 17 e 21) e do art. 169, § 1º, da CRFB/88, cuja função é, precisamente, impedir a oneração do erário sem a respectiva receita" (fls. 830/840).
+A parte embargada apresentou manifestação (fls. 844/848).
+É o relatório.
+EMENTA
+SERVIDOR PÚBLICO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas omissões no julgado combatido, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi.
+4. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Não prospera a irresignação da parte recorrente.
+De acordo com o previsto no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+Entretanto, no caso dos autos, não se verifica a existência de nenhum desses vícios, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Com efeito, ficou devidamente consignado que, além do entendimento adotado pelo Tribunal de origem, no que se refere aos limites da Lei de Responsabilidade Fiscal em relação ao cumprimento de direitos subjetivos do servidor estar em consonância com a jurisprudência desta Corte, não cabe ao STJ analisar conflito entre lei local e lei federal, isso porque "a Emenda Constitucional 45/2004 modificou a alínea b do art. 105, III, para atribuir ao STJ apenas os casos em que se julgar válido ato de governo local contestado em face de lei federal, restando a competência acerca do confronto entre lei local e lei federal conferida ao Supremo Tribunal Federal (art. 102, III, , da CF/88)" (AgRg no AREsp n. 194.353/RJ, Relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 24/5/2016, DJe de 7/6/2016).
+Dessa forma, não podem ser acolhidos embargos de declaração que, a pretexto de alegada omissão no julgado, traduzem, na verdade, o inconformismo da parte com o decisum tomado, buscando rediscutir o que decidido já foi. Nesse panorama, inexistente vício no aresto embargado, conforme exige o art. 1.022 do CPC, impõe-se a rejeição do pleito integrativo.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. CONTRADIÇÃO E OMISSÃO. VÍCIOS NÃO CONFIGURADOS. PROPÓSITO DE MODIFICAÇÃO DO JULGAMENTO. MEIO IMPRÓPRIO.
+1. Os embargos de declaração, conforme dispõe o art. 1.022 do CPC/2015, destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material.
+2. Não se identifica, no recurso, qualquer ponto sobre o qual era necessária manifestação, mas apenas a discordância da parte com a solução apresentada no julgamento e seu propósito de modificação.
+3. Por contradição entende-se coexistência de afirmações em desacordo no mesmo julgado, gerando ilogicidade ao texto. Mas desse problema não se ressente o julgado.
+4. Embargos de declaração rejeitados, com aplicação de multa de 1% (um porcento) sobre o valor atualizado da causa.
+(EDcl no AgInt nos EAREsp n. 666.334/RS, Rel. Ministro Og Fernandes, Primeira Seção, julgado em 22/8/2018, DJe de 28/8/2018.)
+ANTE O EXPOSTO, rejeitam-se os embargos de declaração.
+É o voto.
