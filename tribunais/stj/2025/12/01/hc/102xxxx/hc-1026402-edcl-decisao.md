@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pela defesa de SANDRA DOS SANTOS MACEDO contra acórdão deste Relator que não conheceu do habeas corpus impetrado por ela.
+Nas razões deste recurso, alega a defesa dela que houve omissão, obscuridade e contradição no julgamento anterior. Em síntese, ela alega que o objeto do habeas corpus não coincide com o do recurso anteriormente apresentado.
+É o relatório. DECIDO.
+Presentes os pressupostos de admissibilidade, conheço dos embargos.
+No mérito, é o caso de rejeitar o recurso apresentado pela defesa da embargante porque ausente omissão.
+Como constou da decisão embargada, a condenação da embargante foi amplamente analisada em vários níveis do Judiciário, quer pelo aspecto fático-probatório, quer pelo aspecto jurídico.
+Ela foi condenada pelo Juízo da 10ª Vara Federal da Seção Judiciária do Distrito Federal, na ação penal n. 0026431- 42.2010.4.01.3400, pela prática do delito previsto no art. 313-A do Código Penal, à pena privativa de liberdade de 6 anos e 8 meses de reclusão, além de 20 dias-multa, a ser cumprida em regime inicial semiaberto (fls. 1274-1280).
+A defesa interpôs apelação ao Tribunal Regional Federal da 1ª Região, que deu provimento parcial ao recurso para redimensionar a pena para 3 anos e 3 meses de reclusão e 20 dias-multa, mantendo-se os demais termos da condenação (fls. 1356-1386).
+Interposto recurso especial, este não foi admitido na origem.
+Aviado agravo em recurso especial, tombado no Superior Tribunal de Justiça como ARESP 2649871- DF, foi conhecido para não conhecer do recurso especial.
+O respectivo agravo regimental também não foi provido, com trânsito em julgado certificado em 3 de setembro de 2025 (fl. 1467, ARESP 2649871-DF).
+Findado isso, foi impetrado habeas corpus, ação autônoma, para discutir sobre a fixação da pena, ou seja, algo que foi objeto de atenção por parte do Judiciário, durante o trâmite regular do processo, por várias vezes.
+Isso, por si só, já revelava o uso abusivo do habeas corpus, mas isso restou confirmado com a constatação de que o que se pretendeu tratar aqui era repetição daquilo que havia sido tratado no julgamento do AREsp 2649871-DF.
+Na referida impetração sustentou-se que houve violação ao art. 59 do Código Penal na fixação da pena-base, apontando que as circunstâncias e consequências do crime foram indevidamente valoradas de forma negativa. Argumentou-se que o prejuízo causado à Previdência Social, no valor de R$ 18.918,27, não extrapola as elementares do tipo penal e que o meio de execução do delito não se revestiu de sofisticação suficiente para justificar a elevação da pena-base. Afirmou-se que o regime inicial semiaberto seria desproporcional, considerando que a pena foi fixada abaixo de 4 anos, a paciente não é reincidente e as circunstâncias judiciais são majoritariamente favoráveis.
+Precisamente isso que se discutiu durante a tramitação regular do processo.
+Destaco abaixo trechos do julgamento do agravo em recurso especial que evidenciam isso:
+"Trata-se de agravo em recurso especial interposto por SANDRA MACEDO PALHARO contra decisão da Vice Presidência do Tribunal de Justiça do Distrito Federal que inadmitiu o recurso especial interposto com base no art. 105, inciso III, alínea "a" da Constituição Federal, fundamentado na incidência do enunciado da Súmula 7/STJ, a qual veda o reexame do conjunto-fático probatório na instância extraordinária.
+O recurso especial foi interposto contra acórdão, não unânime, do Tribunal de origem, o qual deu parcial provimento ao apelo defensivo para reduzir a pena para 3 anos e 3 meses de reclusão, em regime inicial semiaberto, como incursa no artigo 313-A, do Código Penal (fls. 1359-1360).
+A parte recorrente alegou violação ao artigo 59, do Código Penal, e ao final requereu o provimento do recurso especial para o afastamento da valoração negativa das consequências e das circunstâncias do crime, fixando-se a pena-base no mínimo legal (fls. 1382-1386)."
+"O recurso não deve ser conhecido.
+No ponto, adoto o bem lançado parecer do Ministério Público Federal (fl 1432):
+O recurso não pode ser conhecido, porque foi interposto sem que tenha havido o esgotamento da instância de origem, haja vista que a decisão não foi unânime e deveriam ter sido opostos embargos infringentes. De acordo com a Súmula nº 207 do STJ, "é inadmissível recurso especial quando cabíveis embargos infringentes contra o acórdão proferido no tribunal de origem".
+Conforme é sabido, a hipótese constitucional de cabimento do recurso especial exige o esgotamento das vias ordinárias como pressuposto para sua interposição. Nos autos em epígrafe, a decisão recorrida foi proferida em grau de apelação, por maioria de votos, sendo desfavorável ao réu, o que ensejaria, antes, a oposição de embargos infringentes (inteligência do art. 609, parágrafo único, do CPP).
+Destaco também trecho do próprio agravo regimental interposto pela defesa da embargante com a mesma finalidade acima:
+"De fato, o voto vogal (divergente) do Desembargador Federal Wilson Alves de Souza foi mais benéfico para a acusada, porque afastou o sopesamento negativo não apenas sobre a personalidade do agente, mas também sobre as consequências do crime. Observe-se:"
+"É de registrar, todavia, que o recurso especial pugna pelo afastamento dos dois vetores que se mantiveram negativamente avaliados após o julgamento da apelação - circunstâncias e consequências do delito, enquanto a divergência identificada foi mais restrita, cingindo-se apenas a um destes vetores (avaliação das consequências do crime)."
+"Por fim, no que se refere às consequências do delito, admite-se que o montante do pre- juízo causado, se considerável, pode justificar a elevação da pena-base. Todavia, no caso concreto, verifica-se que este não foi significativo (R$ 18.918,27), de modo a extrapolar as ele- mentares do tipo. Na linha do quanto sustentado no voto vencido, "não se pode dizer que se afiguram graves as consequências do delito. Dado o valor desviado, verifico que as "consequências do crime" são aquelas comuns à espécie delitiva, independentemente de o prejudicado ser os cofres da Previdência Social."
+O escopo do habeas corpus anteriormente impetrado pela defesa da embargante, sem dúvida, é reabrir a discussão sobre pontos já tratados nos referidos recursos.
+Não é para isso que se presta esse writ, como constou da decisão embargada, que não foi omissa, contraditória ou obscura.
+Rejeito, portanto, os embargos de declaração.
+EMENTA
