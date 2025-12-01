@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por WALISON MARABA MALTA contra a decisão do Tribunal de Justiça do Estado de São Paulo que inadmitiu recurso especial apresentado contra o acórdão exarado no julgamento da Apelação Criminal n. 1509478-52.2024.8.26.0604 (fls. 249/264).
+O Ministério Público Federal apresentou parecer opinando pelo conhecimento e não provimento do agravo e, caso acolhido, pelo não provimento do recurso especial (fls. 396/400).
+É o relatório.
+O agravo é inadmissível.
+Inicialmente, esclareço que a decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos, inclusive de forma específica, suficiente e pormenorizada, não sendo suficientes meras alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência do óbice da Súmula 182/STJ (AgRg nos EDcl no AREsp n. 2.985.942/MA, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 16/9/2025, DJEN de 25/9/2025).
+Ao que se observa, o Tribunal de origem inadmitiu o apelo nobre pelos seguintes fundamentos: 1) incidência da Súmula 283/STF, por não terem sido infirmados todos os fundamentos autônomos do acórdão recorrido; 2) incidência da Súmula 284/STF, por deficiência de fundamentação do recurso especial; 3) ausência de demonstração formal e de cotejo analítico do dissídio jurisprudencial, nos termos do art. 1.029, § 1º, do Código de Processo Civil e do art. 255, § 1º, do RISTJ; e 4) incidência da Súmula 7/STJ, por pretensão de reexame de fatos e provas (fls. 353/356).
+Todavia, a parte agravante, nas razões do agravo em recurso especial, não impugnou, de maneira específica, a íntegra da decisão de inadmissão.
+Alega que há violação dos arts. 157, caput e § 1º, e 564, IV, do Código de Processo Penal, e que o acórdão do Tribunal de Justiça do Estado de São Paulo está em desacordo com a legislação federal e com a jurisprudência dos Tribunais Superiores.
+Argumenta que o recurso especial ataca os fundamentos do acórdão recorrido nas "laudas 7/16" e que as razões da insurgência são claras, indicando a nulidade da abordagem desmotivada.
+Sustenta que o dissídio jurisprudencial foi demonstrado de forma adequada, com cotejo analítico em fls. 296/302 e juntada de cópia integral do paradigma (fls. 305/332), pleiteando, ainda, a aplicação do art. 1.029, § 3º, do Código de Processo Civil para eventual correção de vício formal.
+Defende que não busca reavaliação de provas, mas mera aplicação da lei aos fatos delineados no acórdão recorrido.
+No caso, permanecem não impugnados, de forma concreta, os seguintes fundamentos da decisão agravada:
+1) Súmula 283/STF - o agravo não individualiza, com precisão, onde o recurso especial enfrentou todos os fundamentos autônomos do acórdão recorrido, notadamente o suporte alternativo que valida a intervenção policial "ainda que" não houvesse admissão prévia do transporte de drogas; limita-se a referências genéricas às "laudas 07/16", sem correlação pontual com cada fundamento;
+2) Súmula 284/STF - subsiste a deficiência de fundamentação, pois, embora se mencionem os arts. 157 e 564, IV, do Código de Processo Penal, não se explicita, de modo específico, qual formalidade essencial teria sido violada nem se demonstra a suficiência do comando normativo para anular o feito nas circunstâncias fixadas pelas instâncias ordinárias;
+3) dissídio jurisprudencial - o agravo não supera a exigência formal do art. 1.029, § 1º, do Código de Processo Civil e do art. 255, § 1º, do RISTJ, pois, conquanto alegue a juntada de cópia do paradigma, não indica o repositório oficial ou a fonte e não realiza cotejo analítico apto a demonstrar a similitude fática à luz das premissas fixadas no acórdão impugnado; e
+4) Súmula 7/STJ - a insurgência, sob o rótulo de "revaloração jurídica", procura substituir premissas fáticas do acórdão (insulfilm, local de intensa atividade de tráfico, gesto de manuseio, contato preliminar e admissão de transporte de pinos), o que evidencia a necessidade de reexame do conjunto probatório, vedado na via especial.
+Por conseguinte, aplica-se, à hipótese dos autos, o art. 932, inciso III, do Código de Processo Civil, c/c o art. 3º do Código de Processo Penal, e a Súmula 182/STJ por analogia.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. IMPUGNAÇÃO DEFICIENTE. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015, E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA 182/STJ.
+Agravo em recurso especial não conhecido.
