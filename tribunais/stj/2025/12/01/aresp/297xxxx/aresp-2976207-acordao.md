@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 25/11/2025 a 01/12/2025, por unanimidade, conhecer do recurso e lhe dar parcial provimento, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Daniela Teixeira, Nancy Andrighi, Humberto Martins e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE ARBITRAMENTO DE HONORÁRIOS ADVOCATÍCIOS. RESCISÃO UNILATERAL DE CONTRATO DE PRESTAÇÃO DE SERVIÇOS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OCORRÊNCIA. OMISSÃO SOBRE TESE RELEVANTE. TERMOS DE QUITAÇÃO. VIOLAÇÃO DO ART. 1.022 DO CPC. RETORNO DOS AUTOS. DEMAIS TESES PREJUDICADAS. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+1. Ação de arbitramento de honorários advocatícios ajuizada por sociedade de advogados contra instituição financeira, em virtude de rescisão unilateral de contrato de prestação de serviços. Sentença de procedência parcialmente reformada pelo Tribunal estadual para majorar os honorários.
+2. Configura-se violação do art. 1.022 do Código de Processo Civil quando o Tribunal de origem, instado por embargos de declaração sobre questão relevante para o julgamento da causa, mantém-se silente ou oferece resposta genérica.
+3. Prejudicadas as demais teses recursais (julgamento extra petita e violação de normas de direito material), cuja análise depende do prévio exame completo da matéria fática pelo Tribunal de origem.
+4. Agravo conhecido para dar parcial provimento ao recurso especial.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por BANCO BRADESCO S.A. (BRADESCO) contra decisão que inadmitiu seu recurso especial.
+Inconformado, BRADESCO interpôs recurso especial com fundamento no art. 105, III, alínea a, da Constituição Federal, apontando violação dos arts. (1) 141, 489, § 1º, IV, 492 e 1.022, I e II, do Código de Processo Civil, por negativa de prestação jurisdicional, em virtude da omissão em analisar a tese de quitação integral dos serviços e a natureza do contrato, bem como por julgamento extra petita; e (2) 22, § 2º, da Lei n. 8.906/94, e 421 e 421-A do Código Civil, por desrespeito à autonomia da vontade e ao contrato vigente entre as partes, que previa as formas de remuneração.
+O Tribunal mato-grossense inadmitiu o recurso com base na ausência de violação do art. 1.022 do CPC e na incidência das Súmulas 7 e 83 do STJ (e-STJ, fls. 1.044 a 1.052).
+BRADESCO interpôs o presente agravo (e-STJ, fls. 1.053 a 1.069), no qual reitera os argumentos do apelo e impugna os fundamentos da decisão de inadmissibilidade.
+Foi apresentada contraminuta (e-STJ, fls. 1.101 a 1.115).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE ARBITRAMENTO DE HONORÁRIOS ADVOCATÍCIOS. RESCISÃO UNILATERAL DE CONTRATO DE PRESTAÇÃO DE SERVIÇOS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OCORRÊNCIA. OMISSÃO SOBRE TESE RELEVANTE. TERMOS DE QUITAÇÃO. VIOLAÇÃO DO ART. 1.022 DO CPC. RETORNO DOS AUTOS. DEMAIS TESES PREJUDICADAS. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+1. Ação de arbitramento de honorários advocatícios ajuizada por sociedade de advogados contra instituição financeira, em virtude de rescisão unilateral de contrato de prestação de serviços. Sentença de procedência parcialmente reformada pelo Tribunal estadual para majorar os honorários.
+2. Configura-se violação do art. 1.022 do Código de Processo Civil quando o Tribunal de origem, instado por embargos de declaração sobre questão relevante para o julgamento da causa, mantém-se silente ou oferece resposta genérica.
+3. Prejudicadas as demais teses recursais (julgamento extra petita e violação de normas de direito material), cuja análise depende do prévio exame completo da matéria fática pelo Tribunal de origem.
+4. Agravo conhecido para dar parcial provimento ao recurso especial.
+VOTO
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida. CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que merece ser provido parcialmente.
+No recurso especial interposto com fundamento no art. 105, III, a, da CF, BRADESCO apontou violação dos arts. (1) 489, § 1º, IV, e 1.022, I e II, do CPC, alegando negativa de prestação jurisdicional, pois o acórdão foi omisso quanto a análise dos termos de quitação anualmente firmados e a real natureza do contrato, que não seria exclusivamente de êxito; (2) 141 e 492 do CPC, sustentando a ocorrência de julgamento extra petita, pois a decisão teria extrapolado o pedido inicial ao afastar cláusulas contratuais sem que houvesse pedido de revisão ou nulidade; e (3) 22, § 2º, da Lei nº 8.906/94, 421 e 421-A do Código Civil, pela violação da autonomia da vontade e do princípio pacta sunt servanda, ao arbitrar honorários quando existia contrato prevendo as formas de remuneração.
+(1) Da negativa de prestação jurisdicional
+Assiste razão ao BRADESCO quanto a alegada violação do art. 1.022 do CPC.
+BRADESCO sustenta que o Tribunal de Justiça do Estado de Mato Grosso, mesmo instado por meio de embargos de declaração, deixou de se manifestar sobre tese fundamental para a sua defesa, qual seja, a existência de termos de quitação que comprovariam o pagamento integral dos serviços prestados por GALERA MARI E ADVOGADOS ASSOCIADOS S.S. (GALERA MARI), o que impediria o arbitramento de novos honorários.
+Ao analisar os embargos de declaração opostos, o Tribunal mato-grossense limitou-se a afirmar que não havia vícios no acórdão e que a pretensão de BRADESCO era de rediscussão do mérito, consignando que se tratava de mero inconformismo com o resultado desfavorável (e-STJ, fls. 927 a 934). No entanto, não enfrentou especificamente o argumento relativo ao alcance e à validade dos termos de quitação juntados aos autos, questão nodal para o correto deslinde da controvérsia.
+A ausência de manifestação sobre ponto essencial, devidamente suscitado pela parte, configura negativa de prestação jurisdicional. Ao analisar os embargos do Bradesco, anoto que o TJMT não refutou as alegações do banco no sentido de que haveria obscuridade e contradição no acórdão recorrido quanto às disposições contratuais e termos de quitação.
+Dessa forma, constatada a omissão do Tribunal de origem sobre ponto essencial para a resolução da lide, é de rigor o reconhecimento da violação do art. 1.022 do CPC, com a consequente anulação do acórdão dos embargos de declaração.
+(2) Das demais teses recursais
+Ficam prejudicadas as demais teses veiculadas no recurso especial, relativas ao julgamento extra petita e à violação das normas de direito material, cuja análise dependeria do prévio e completo exame da matéria fática pelo Tribunal de origem, o que se dará após o saneamento da omissão ora reconhecida.
+Nessas condições, CONHEÇO do agravo para DAR PARCIAL PROVIMENTO ao recurso especial de BANCO BRADESCO S.A. (BRADESCO) a fim de anular o acórdão proferido no julgamento dos embargos de declaração (e-STJ, fls. 927 a 934) e determinar o retorno dos autos ao Tribunal de Justiça do Estado de Mato Grosso para que profira novo julgamento, sanando a omissão apontada, como entender de direito.
+É o voto.
