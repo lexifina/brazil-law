@@ -1,0 +1,25 @@
+DECISÃO
+EDSON FERRARI DE OLIVEIRA alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina (Revisão Criminal n. 5060074-18.2025.8.24.0000).
+Consta dos autos que o paciente foi condenado pela prática do crime de tráfico de drogas.
+A defesa pleitei a "a concessão do presente writ com o fim de Reconhecer Reconhecimento da quebra da cadeia de custódia, com base no artigo 158-B do CP. Bem como a ilicitude das provas colhidas em decorrência dessa violação (artigo 157 CPP e art. 5º, LVI, da Constituição da República) e consequentemente a absolvição do acusado por falta de provas" (fl. 15).
+Não houve pedido de liminar.
+O Ministério Público Federal manifestou-se pelo não conhecimento da impetração.
+Decido.
+Segundo a defesa, houve quebra da cadeia de custódia da prova, porque "não consta nos autos qualquer documento que informe a apreensão de sacolas plásticas, as quais guardavam a droga, conforme narrado pelos policiais" (fl. 10).
+Em que pesem os argumentos despendidos pelo impetrante, entendo que não lhe assiste razão.
+Consoante o disposto no art. 158-A do CPP, "Considera-se cadeia de custódia o conjunto de todos os procedimentos utilizados para manter e documentar a história cronológica do vestígio coletado em locais ou em vítimas de crimes, para rastrear sua posse e manuseio a partir de seu reconhecimento até o descarte".
+Doutrinariamente, a cadeia de custódia da prova tem sido conceituada como um "método por meio do qual se pretende preservar a integridade do elemento probatório e assegurar sua autenticidade em contexto de investigação e processo" (PRADO, Geraldo. A cadeia de custódia da prova no processo penal. 2. ed. Rio de Janeiro: Marcial Pons, 2021, p. 162).
+Gustavo Badaró, por sua vez, leciona que "a cadeia de custódia em si deve ser entendida como a sucessão encadeada de pessoas que tiveram contato com a fonte de prova real, desde que foi colhida, até que seja apresentada em juízo" (A cadeia de custódia e sua relevância para a prova penal. In: SIDI, Ricardo; LOPES, Anderson B. Temas atuais da investigação preliminar no processo penal. Belo Horizonte: D"Plácido, 2018, p. 254). Essa sucessão encadeada, quando registrada, materializa a prova da cadeia de custódia da prova.
+No caso, a Corte estadual esclareceu que "os objetos apreendidos constam individualizados e discriminados no boletim de ocorrência (doc. 2, fl. 3, do inquérito policial)" (fl. 78). Consignou, na sequência, que " a  citada apreensão também é confirmadas pelo auto de exibição e apreensão (doc. 2, fl. 13, do inquérito policial)" (fl. 78).
+Fez menção, ainda, ao fato de que " o  laudo provisório atestou tratar-se de maconha o material apresentado" e de que, "especialmente quanto ao entorpecente, foi determinado o encaminhamento para a perícia técnica" (fl. 78).
+Em seguida, pontuou (fl. 79):
+Sobreveio o laudo definitivo, segundo o qual foram periciadas "6 porções compactadas de erva, acondicionadas individualmente em embalagem de plástico vermelho, apresentando massa bruta de 1.962,8g", identificada como maconha (doc. 39 da ação penal).
+Como se vê, o volume de entorpecentes periciados (peso/quantidade) são absolutamente semelhantes, de maneira que inexiste mínimo indício capaz de desacreditar a preservação da prova produzida.
+É bem verdade que, de acordo com o acervo probatório, o revisionando, durante a fuga, teria dispensado, em dois momentos, sacolas plásticas - nas quais, posteriormente, foram localizadas as drogas. Também, não se ignora que, de acordo com as imagens acerca dos itens apreendidos constantes no BO (doc. 2, fls. 5-7, do inquérito policial), não constam as citadas sacolas plásticas.
+No entanto, diante da coerência do acervo probatório produzido (consoante trecho do julgamento da apelação criminal destacado acima), bem como a harmonia em relação às apreensões, entende-se que tal peculiaridade (ausência de apreensão das sacolas plásticas) não enseja qualquer dúvida razoável a respeito do "caminho" das drogas apreendidas, até porque, consoante já pontuado, o volume do entorpecente mostrou-se semelhante ao longo de todo o trâmite da fase indiciária.
+Inclusive, segundo trecho do relato extrajudicial do policial Paulo Joel Leocadio Hetman Buzato, "fui atrás dele, nisso eu consegui ver, bem nítido, ele tirando do bolso da jaqueta um volume e jogando no chão, na hora eu só vi que era uma sacola plástica, que tinha alguma coisa vermelha dentro, mas não parei para ver o volume, continuei seguindo atrás dele." (doc. 10 da apelação criminal), o que, inclusive, se coaduna com a fotografia da apreensão já destacada  grifei .
+Assim, porque, ao que tudo indica, foi devidamente assegurada a autenticidade e a credibilidade dos elementos probatórios no contexto da investigação, não identifico a apontada violação dos arts. 158 e seguintes do CPP, tampouco o apontado constrangimento ilegal de que estaria sendo vítima o paciente.
+Fica, portanto, mantida inalterada a condenação a ele imposta.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, denego a ordem.
+Publique-se e intimem-se.
+EMENTA
