@@ -1,0 +1,15 @@
+DECISÃO
+O presente habeas corpus, impetrado em favor de MAX THIAGO DE MENEZES, contra ato coator do TRIBUNAL DE JUSTIÇA DE MATO GROSSO DO SUL, que, nos autos do Agravo em Execução n. 0006453-31.2011.8.12.0029, negou provimento ao recurso, mantendo o indeferimento do livramento condicional (Execução n. 0006453-31.2011.8.12.0029, da 1ª Vara de Execução Penal da comarca de Campo Grande/MS), não merece processamento.
+A defesa requer a concessão do livramento condicional alegando, em síntese, o preenchimento do requisito objetivo do livramento condicional e a inexistência de óbice subjetivo, pois as faltas graves são antigas e já sancionadas por regressão, perda de remição e alteração da data-base, não podendo seus efeitos perpetuar para negar benefícios executórios; afirma que a última falta grave ocorreu em 8/6/2017 e, à data do acórdão, já ultrapassados mais de três anos.
+É o relatório.
+In casu, verifico, de plano, a inviabilidade do presente writ.
+Primeiramente, verifica-se que o acórdão hostilizado data de 2020. Houve, portanto, extenso lapso temporal até o ajuizamento do presente remédio constitucional, descaracterizando o seu uso previsto legalmente para os casos em que alguém sofra ou se ache na iminência de sofrer violência ou coação ilegal em sua liberdade de ir e vir.
+Ademais, o requisito previsto no art. 83, III, b, do Código Penal, inserido pela Lei n. 13.964/2019, consistente no fato de o sentenciado não ter cometido falta grave nos últimos 12 meses, é pressuposto objetivo para a concessão do livramento condicional e não limita a valoração do requisito subjetivo necessário ao deferimento do benefício, inclusive quanto a fatos ocorridos antes da entrada em vigor da Lei Anticrime.
+Nesse sentido, a valoração do requisito subjetivo para concessão do livramento condicional - bom comportamento durante da execução da pena (art. 83, inciso III, alínea "a", do Código Penal) - deve considerar todo o histórico prisional, não se limitando ao período de 12 meses referido na alínea "b" do mesmo inciso III do art. 83 do Código Penal (Tema 1.161/STJ).
+No caso, conforme consta dos autos, o pedido de livramento condicional foi indeferido em razão da prática de 5 faltas graves durante o cumprimento da pena, motivo pelo qual, apesar do cumprimento do requisito objetivo, as instâncias ordinárias não consideraram preenchido o requisito subjetivo (fl. 16). Chegar a conclusão diversa quanto ao mérito subjetivo do paciente para a obtenção do benefício demandaria o reexame de matéria fático-probatória, providência inadmissivel na via eleita.
+Vale destacar que a última falta grave praticada se deu em 8/6/2017 (fl. 21), apenas 3 anos antes do ato tido como coator - 14/7/2020.
+Ante o exposto, indefiro liminarmente a petição inicial.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. REQUISITO SUBJETIVO. DECISÃO CALCADA EM FATOS OCORRIDOS DURANTE O CUMPRIMENTO DA PENA. TEMA 1.161/STJ. FUNDAMENTAÇÃO VÁLIDA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Petição inicial indeferida liminarmente.
