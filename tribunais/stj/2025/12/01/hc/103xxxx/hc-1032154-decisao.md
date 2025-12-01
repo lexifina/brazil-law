@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de MAIK WESLEY FIGUEIREDO VIANA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO RIO DE JANEIRO.
+Nas razões (fls. 2-8), narrou que, desde o dia 15 de abril de 2025, está preso pela prática, em tese, das infrações penais previstas no art. 158, §1º do Código Penal e no art. 4º, alínea "a", da Lei 1.521/51. Argumentou que a prisão preventiva é desnecessária. Apontou que tem predicados pessoais favoráveis e que são cabíveis cautelares diversas. Relatou que o Tribunal de origem denegou habeas corpus. Pediu a concessão de ordem para lhe conferir liberdade.
+Neguei a liminar (fls.134-135).
+Dispensadas as informações (fl. 146), o Ministério Público Federal opinou pelo não conhecimento e denegação da ordem (fls. 148-150).
+Nas fls. 153-160, o impetrante alegou que o feito, na origem, ainda não conta com sentença e que há excesso de prazo.
+É o relatório. DECIDO.
+A impetração investe contra acórdão proferido em habeas corpus. Substitui, pois, recurso próprio, o que lhe inviabiliza o conhecimento.
+A 3ª Seção, no HC 535.063/SP, de relatoria do Ministro Sebastião Reis Junior, julgado em 10/6/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/3/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+No caso, não há circunstância excepcional que recomende superar esse entendimento.
+A decisão que decretou a prisão preventiva trouxe o seguinte enredo do fato (fls. 127-129):
+"Infere-se dos autos que o réu vem ameaçando as vítimas e, após busca e apreensão realizada em seu endereço, foram apreendidas diversas armas de fogo, munições e dispositivos eletrônicos. Em sede distrital, o investigado ficou em silêncio. Frise-se que o acusado está sendo acusado por extorsão contra as vítimas com a utilização de arma de fogo e ameaças graves, havendo, inclusive, relatos de que o investigado teria desferido uma cabeçada no marido da vítima e mencionado a frase "quer ver eu te matar aqui", suspeitando que as vítimas teriam noticiado o suposto crime à Polícia. Além disso, há relatos de que a vítima teria deixado sua residência por medo de ser assinada pelo investigado".
+Em sequência, depois de mencionar a hipótese do art. 313, inciso I, do Código de Processo Penal, bem como de descrever a existência de materialidade e de indícios de autoria, o Juízo de primeiro grau, em decisão mantida pelo acórdão, destacou a necessidade de garantia da ordem pública e da instrução criminal.
+Assim, o decreto preventivo realçou a periculosidade social do paciente e a gravidade concreta do fato, extraídas, por exemplo, da apreensão de inúmeras armas e munições e das ameaças realizadas, com arma de fogo, contra a vítima, caso procurasse a autoridade policial.
+Esse proceder conta com o endosso de precedentes desta 5ª Turma, dos quais, para ilustrar, cita-se o seguinte: "A jurisprudência desta Corte admite a custódia preventiva como meio idôneo à garantia da ordem pública, notadamente diante de modus operandi revelador de periculosidade, ainda que presentes condições pessoais favoráveis" (AgRg no RHC n. 223.212/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/10/2025, DJEN de 14/10/2025.).
+De outro aspecto, a constatação de que teria ameaçado a vítima para que não noticiasse o fato à polícia demonstra que, em liberdade, o paciente teria o potencial de interferir na instrução criminal, o que, igualmente, recomenda a segregação.
+A esse respeito:
+"A notícia de perturbação causada pelo agente no curso da persecução penal tolhendo, de qualquer forma, a atuação da testemunha em sua ampla liberdade de prestar declarações acerca dos fatos em apuração, é motivo sobejo para a decretação da prisão preventiva para conveniência da instrução criminal".
+(AgRg no HC n. 872.139/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/8/2024, DJe de 10/9/2024.).
+No mais, "A existência de condições pessoais favoráveis não inviabiliza a prisão preventiva quando presentes os requisitos do art. 312 do Código de Processo Penal" (AgRg no RHC n. 215.613/MG, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 20/8/2025, DJEN de 26/8/2025.).
+Por fim, em atenção à petição de fls. 153- 160, o próprio impetrante noticiou que a instrução já se encerrou e o feito está em fase de alegações finais, o que demonstra que, a rigor, não se pode cogitar de excesso de prazo (Súmula nº 52, STJ).
+Ante o exposto, não conheço do habeas corpus, nos termos do art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intime-se.
+EMENTA
