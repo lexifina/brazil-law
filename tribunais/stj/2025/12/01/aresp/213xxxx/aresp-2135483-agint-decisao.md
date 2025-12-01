@@ -1,0 +1,15 @@
+DECISÃO
+Em análise, agravo interno interposto por CANOPUS ADMINISTRADORA DE CONSÓRCIOS S.A contra decisão que conheceu do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Argumenta a parte agravante, em síntese (fl. 310):
+A controvérsia jurídica nos presentes autos é exatamente a mesma discutida no RE 1.355.870/MG (Tema 1.153 da Repercussão Geral): A legitimidade passiva do credor fiduciário para figurar como responsável tributário pelo IPVA incidente sobre veículo objeto de alienação fiduciária. Conforme facilmente se denota da petição inicial, no caso concreto, a CANOPUS foi indevidamente incluída como coobrigada em CDA referente a débitos de IPVA sobre o veículo FIAT STRADA WORKING, Placa PWH-1945, cuja posse e uso estavam exclusivamente com o devedor fiduciante, JOSÉ BATISTA RIBEIRO, que adquiriu o bem com o crédito de consórcio e transferiu a propriedade fiduciária à CANOPUS como garantia do contrato.
+Houve impugnação da parte agravada (fls. 330-333).
+É o relatório.
+Passo a decidir.
+Exercendo o juízo de retratação facultado pelo art. 1.021, § 2º, do CPC e 259 do RISTJ, bem como considerando os argumentos trazidos pela parte agravante, reconsidero a decisão agravada e passo a novo exame da questão trazida no recurso especial.
+Em análise dos autos, quanto à controvérsia devolvida ao conhecimento desta Corte Superior, verifico que o Supremo Tribunal Federal firmou a seguinte tese jurídica no Tema 1.153/RG: "É inconstitucional a eleição do credor fiduciário como contribuinte ou responsável tributário do Imposto sobre a Propriedade de Veículos Automotores (IPVA) incidente sobre veículo alienado fiduciariamente, ressalvada a hipótese da consolidação de sua propriedade plena sobre o bem".
+Além disso, a Suprema Corte "modulou os efeitos da decisão (arts. 8º e 927, § 3º, do Código de Processo Civil, e arts. 20 e 21 da Lei de Introdução às Normas do Direito Brasileiro), para que a tese produza efeitos ex nunc, a contar da publicação da ata de julgamento do mérito, ressalvadas as hipóteses de ações judiciais e de processos administrativos pendentes de conclusão até o marco temporal epigrafado".
+Nesse contexto, nos termos do art. 1.040, II, do CPC/2015, publicado o acórdão paradigma, o órgão que proferiu o acórdão recorrido, na origem, reexaminará o processo anteriormente julgado, se o acórdão recorrido contrariar a orientação do tribunal superior.
+Cumpre destacar que, em conformidade com o art. 1.041, § 2º, do CPC/2015, apenas após essas providências é que o recurso especial, se for o caso, deverá ser reencaminhado a este Tribunal Superior, independentemente de ratificação, para análise das demais questões jurídicas nele suscitadas que eventualmente não fiquem prejudicadas pela conformidade do acórdão recorrido com a decisão sobre o tema repetitivo ou pelo novo pronunciamento do Tribunal de origem.
+Isso posto, reconsidero a decisão de fls. 261-265 e determino a devolução do presente feito ao Tribunal de origem, com a devida baixa nesta Corte, para que sejam observados o procedimento dos arts. 1.040 e 1.041 do CPC/2015.
+Intimem-se.
+ EMENTA
