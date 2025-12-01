@@ -1,0 +1,10 @@
+DECISÃO
+O art. 44 do Regimento Interno do Superior Tribunal de Justiça (RISTJ) estabelece as linhas gerais de atuação da Comissão Gestora de Precedentes, Jurisprudência e Ações Coletivas no auxílio aos Ministros da Corte nas atividades de afetação e de julgamento de recursos especiais repetitivos.
+Especificamente nesta fase anterior à distribuição do recurso, cabe à Comissão desenvolver trabalho de inteligência a fim de identificar matérias com "potencial de repetitividade ou com relevante questão de direito, de grande repercussão social, aptas a serem submetidas ao Superior Tribunal de Justiça, sob a sistemática dos recursos repetitivos" (inciso VII).
+Neste caso, o propósito recursal consiste :
+Definir se o uso exclusivo do imóvel comum pelo ex-cônjuge que nele permanece, quando os filhos do casal também residem no local sob sua guarda, enseja obrigação de indenizar o coproprietário alijado, a título de aluguel.
+Levando-se em conta o cumprimento dos requisitos próprios de admissibilidade deste agravo (tempestividade, regularidade de representação e impugnação específica), e ressaltando que o seu provimento, com a finalidade de melhor exame do especial, não significa antecipação de julgamento do feito, o qual passará pela análise de sua admissibilidade para eventual julgamento de mérito (AgInt no Recurso Especial n. 1.704.551/SP, Terceira Turma, relatora Ministra Nancy Andrighi, DJe de 19/12/2018), determino sua conversão em recurso especial.
+Informo que foram selecionados, para tal fim, os seguintes processos que versam sobre a mesma questão jurídica: Agravos em Recurso Especial n. 3.073.360/SP e 3. 085.342/PR.
+À vista do exposto, com base no art. 44 do RISTJ e na delegação prevista na Portaria STJ/GP n. 797, de 24 de outubro de 2025, determino a abertura de vista dos autos ao Ministério Público Federal e a intimação das partes para que, no prazo comum de 15 dias, se manifestem a respeito da admissibilidade deste recurso especial como representativo da controvérsia, nos termos do art. 256-B, II, do RISTJ.
+Publique-se.
+ EMENTA
