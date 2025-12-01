@@ -1,0 +1,82 @@
+DECISÃO
+Cuida-se de agravo interno interposto por PEDRO ENRIQUE ZWAAL, em face da decisão monocrática de fls. 818-819, e-STJ, proferida pelo Ministro Presidente desta Corte, que não conheceu do agravo em razão da incidência da Súmula 182 do STJ.
+Opostos embargos de declaração (fls. 822-827, e-STJ), esses foram rejeitados pela decisão de fls. 835-837, e-STJ.
+Irresignado, o insurgente interpõe agravo interno (fls. 842-853, e-STJ), argumentando, em síntese, ter impugnado de forma clara e objetiva o óbice da súmula 83 do do STJ.
+Impugnação às fls. 855-861, e-STJ.
+Ante as razões expendidas no agravo interno, reconsidero a decisão monocrática anteriormente proferida, em relação à incidência da Súmula 83 do STJ, e passo, novamente, à análise da insurgência extraordinária.
+Depreende-se dos autos que a recorrente interpôs agravo em recurso especial, em face de decisão denegatória de seguimento ao recurso especial (fls. 754-758, e-STJ).
+O apelo nobre, interposto com fundamento no art. 105, inciso III, alíneas "a" e "c" da Constituição Federal, desafia acórdão prolatado pelo Egrégio Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 631, e-STJ):
+APELAÇÃO. EMBARGOS À EXECUÇAÕ. PRESCRIÇÃO. CÉDULA DE CRÉDITO BANCÁRIO. DEMORA NA CITAÇÃO. GARANTIA FIDEJUSSÓRIA. A súmula 106 do STJ estabelece que, "proposta a ação no prazo fixado para o seu exercício, a demora na citação, por motivos inerentes ao mecanismo da justiça, não justifica o acolhimento da arguição de prescrição ou decadência". A garantia da Cédula de Crédito Bancário poderá ser fidejussória ou real, sendo disciplinada pela Lei 10.931/04, aplicáveis as disposições da legislação comum ou especial que não forem com ela conflitantes.
+Opostos embargos de declaração (fls. 640-647, e-STJ), foram rejeitados nos termos do acórdão de fls. 674-678, e-STJ.
+Nas razões de recurso especial (fls. 683-712, e-STJ), aponta a parte recorrente ofensa aos seguintes dispositivos: art. 1.022, II, c/c art. 489, § 1º, IV, e art. 1.025 do CPC; caput e inciso I do art. 202 do Código Civil; §§ 2º, 3º e 4º do art. 219 do CPC/1973; art. 887 do Código Civil.
+Sustenta, em síntese: negativa de prestação jurisdicional pela falta de enfrentamento de questões relevantes (arts. 1.022, II, 489, § 1º, IV, e 1.025, CPC); prescrição da pretensão executiva por citação válida após o prazo legal, com inaplicabilidade da Súmula 106/STJ (art. 202, I, CC; art. 219, §§ 2º-4º, CPC/1973); nulidade da garantia fidejussória prestada em instrumento apartado à Cédula de Crédito Bancário, por violação ao princípio da literalidade (art. 887, CC); e dissídio jurisprudencial (alínea c) quanto à interrupção da prescrição e à aplicação da Súmula 106/STJ.
+Em juízo de admissibilidade (fls. 754-758, e-STJ), negou-se o processamento do recurso especial, dando ensejo ao presente agravo (fls. 761-777, e-STJ).
+Contraminuta apresentada às fls. 801-804, e-STJ.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. Alega o recorrente violação aos arts. 1.022 e 489, § 1º, IV, do CPC, ao argumento de deficiência na fundamentação em razão de omissão e obscuridade no acórdão recorrido, não sanadas quando do julgamento dos embargos de declaração.
+Sustenta que o acórdão fora omisso sobre a análise específica da tese de que a demora na citação não decorreu de motivos inerentes ao mecanismo da justiça, mas de indiligência do exequente; bem como sobre a nulidade da garantia fidejussória prestada em instrumento apartado à Cédula de Crédito Bancário, com a necessária diferenciação entre fiança e aval, e o exame dos argumentos e precedentes invocados (fls. 693-700, e-STJ).
+Razão não lhe assiste, no ponto.
+Não se vislumbram os alegados vícios, pois o órgão julgador dirimiu a controvérsia de forma ampla e fundamentada, conforme se infere às fls. 634-635, e-STJ:
+Examinando os autos, constato que a ação foi ajuizada em de novembro de 2012. Desde então, a parte exequente diligenciou a citação da parte executada.
+Em 13 de agosto de 2013 promoveu-se a citação da Sra. Graciela Enriqueta Moreno, cuja legitimidade restou afastada na sentença, por ter prestado apenas a vênia conjugal, não se comprometendo como codevedora da obrigação de seu cônjuge e, em novembro de 2019 foi promovida citação do seu esposo, o ora Apelante Pedro Enrique Zwaal.
+A meu ver, não se configurou a inércia da parte credora, nem transcorreu o prazo para o reconhecimento da prescrição. A parte exequente, em todo o curso do processo, demonstrou diligência na tentativa de citação da parte apelante, cuja não concretização se deu por motivos alheios à sua vontade.
+Sobre o tema, a Súmula 106 do STJ estabelece que "proposta a ação no prazo fixado para o seu exercício, a demora na citação, por motivos inerentes ao mecanismo da justiça, não justifica o acolhimento da arguição de prescrição ou decadência".
+Tal como bem ressaltado pelo magistrado, "Cogitar-se diversamente equivaleria a premiar o devedor que se oculta da citação e, com tal comportamento, torna seu débito inexigível".
+Dispõe o art. 30 da lei Nº 10.931/04, que dispõe sobre o patrimônio de afetação de incorporações imobiliárias, Letra de Crédito Imobiliário, Cédula de Crédito Imobiliário, Cédula de Crédito Bancário, que "a constituição de garantia da obrigação representada pela Cédula de Crédito Bancário é disciplinada por esta Lei, sendo aplicáveis as disposições da legislação comum ou especial que não forem com ela conflitantes".
+A garantia da Cédula de Crédito Bancário poderá ser fidejussória ou real, neste último caso constituída por bem patrimonial de qualquer espécie, disponível e alienável, móvel ou imóvel, material ou imaterial, presente ou futuro, fungível ou infungível, consumível ou não, cuja titularidade pertença ao próprio emitente ou a terceiro garantidor da obrigação principal, consoante a literalidade do art. 31 da Lei 10.931/04.
+Neste contexto, inexiste a nulidade da garantia fidejussória prestada pelo Apelante, na modalidade de fiança. (fls. 634-635, e-STJ)
+Foram feitas expressas menções à prescrição e à aplicação da Súmula 106/STJ, bem como à validade da garantia fidejussória (fls. 634-635 e 676-678, e-STJ).
+Como se vê, não se vislumbra omissão ou obscuridade, porquanto o acórdão restou devida e suficientemente fundamentado sobre as questões necessárias ao deslinde da controvérsia, não havendo falar em ofensa aos referidos dispositivos.
+Inexiste, portanto, violação aos artigos 1.022 e 489, § 1º, IV, do CPC, visto que a matéria fora apreciada pelo Tribunal de origem, cuja fundamentação foi clara e suficiente para o deslinde da controvérsia.
+Ademais, a orientação desta Corte é no sentido de que o julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, nem a indicar todos os dispositivos legais suscitados, quando tenha encontrado motivação satisfatória para dirimir o litígio, como ocorrera na hipótese.
+2. A parte insurgente sustenta que se operou a prescrição da pretensão executiva por citação válida após o prazo legal, com inaplicabilidade da Súmula 106/STJ, no caso sub judice.
+O Tribunal de origem, ao analisar a questão, assim decidiu (fls. 633-634, e- STJ):
+No presente caso, a parte apelada busca a execução de uma cédula de crédito bancário, em relação à qual se aplicam as normas do direito cambial, conforme disposto no artigo 44 da Lei 10.931/2004. Em casos de execução de título de crédito, o prazo para configurar a prescrição das ações cambiais é trienal, contado a partir do vencimento do título, conforme o artigo 70 da Lei Uniforme de Genebra (LUG), aprovada pelo Decreto nº 57.663/1966.
+Examinando os autos, constato que a ação foi ajuizada em de novembro de 2012. Desde então, a parte exequente diligenciou a citação da parte executada.
+Em 13 de agosto de 2013 promoveu-se a citação da Sra. Graciela Enriqueta Moreno, cuja legitimidade restou afastada na sentença, por ter prestado apenas a vênia conjugal, não se comprometendo como codevedora da obrigação de seu cônjuge e, em novembro de 2019 foi promovida citação do seu esposo, o ora Apelante Pedro Enrique Zwaal.
+A meu ver, não se configurou a inércia da parte credora, nem transcorreu o prazo para o reconhecimento da prescrição. A parte exequente, em todo o curso do processo, demonstrou diligência na tentativa de citação da parte apelante, cuja não concretização se deu por motivos alheios à sua vontade.
+Sobre o tema, a Súmula 106 do STJ estabelece que "proposta a ação no prazo fixado para o seu exercício, a demora na citação, por motivos inerentes ao mecanismo da justiça, não justifica o acolhimento da arguição de prescrição ou decadência".
+Tal como bem ressaltado pelo magistrado, "Cogitar-se diversamente equivaleria a premiar o devedor que se oculta da citação e, com tal comportamento, torna seu débito inexigível".
+Com efeito, para derruir as conclusões contidas no decisum recorrido e acolher o inconformismo recursal, no sentido de afastar a ocorrência da prescrição na hipótese, segundo as razões vertidas no apelo extremo, seria imprescindível o revolvimento dos elementos fático-probatórios, providência que esbarra no óbice da Súmula 7 desta Corte.
+Ademais, o entendimento do Tribunal de origem, no ponto, encontra-se em harmonia com a jurisprudência do STJ, o que atrai a incidência do teor da Súmula 83 desta Corte, a impedir o conhecimento do recurso por ambas as alíneas do permissivo constitucional.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. PRESCRIÇÃO. DEMORA NA CITAÇÃO. ALEGAÇÃO DE INÉRCIA DA PARTE EXEQUENTE. NÃO CONFIGURAÇÃO. REVISÃO DAS CONCLUSÕES DO ARESTO RECORRIDO. INCIDÊNCIA DA SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da Súmula 106/STJ, "proposta a ação no prazo fixado para o seu exercício, a demora na citação, por motivos inerentes ao mecanismo da justiça, não justifica o acolhimento da arguição de prescrição ou decadência".
+2. No caso em estudo, a Corte de origem rejeitou a alegação de prescrição suscitada pela parte executada, consignando expressamente que a demora na citação não foi decorrente da conduta da exequente. Diante desse contexto, para alterar a conclusão do Tribunal de origem e acolher a pretensão recursal com vistas a atribuir à exequente a responsabilidade pela demora na citação da executada, reconhecendo a prescrição da pretensão executiva, é imprescindível o reexame do conjunto fático-probatório dos autos, o que não é admitido, no âmbito do recurso especial, conforme a Súmula 7/STJ.
+ ..
+5. Agravo interno desprovido.
+(AgInt no AREsp 1781578/DF, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/06/2021, DJe 25/06/2021)
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. PRESCRIÇÃO INTERCORRENTE. NÃO OCORRÊNCIA. REVISÃO DO JULGADO. IMPOSSIBILIDADE. INCIDÊNCIA DO ENUNCIADO N.º 7/STJ.
+1. Conforme a jurisprudência do Superior Tribunal de Justiça, incide a prescrição intercorrente, nos processos regidos pelo CPC/73, quando o exequente permanece inerte por prazo superior ao de prescrição do direito material vindicado.
+2. Na hipótese dos autos, o tribunal de Justiça afastou qualquer desídia da parte exequente.
+3. Rever o entendimento adotado pelo Tribunal de Justiça acerca da prescrição, especialmente, quanto à inércia do recorrido, demandaria reexame das provas colhidas nos autos, o que é inviável nesta via recursal, conforme o óbice previsto no Enunciado n.º 7 do Superior Tribunal de Justiça.
+4. Nos termos do Enunciado n.º 106/STJ, "proposta a ação no prazo fixado para o seu exercício, a demora na citação, por motivos inerentes ao mecanismo da justiça, não justifica o acolhimento da arguição de prescrição ou decadência".
+5. No caso em estudo, a Corte de origem rejeitou a alegação de prescrição suscitada pela parte executada, consignando expressamente que a demora na citação não foi decorrente da conduta da exequente.
+6. Não apresentação de argumentos novos capazes de infirmar os fundamentos
+que alicerçaram a decisão agravada.
+7. AGRAVO INTERNO CONHECIDO E DESPROVIDO.
+(AgInt no REsp n. 1.854.503/PR, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 25/10/2021, DJe de 3/11/2021.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. 1. QUESTÃO DE ORDEM PÚBLICA. IMPRESCINDÍVEL O PREENCHIMENTO DO REQUISITO DO PREQUESTIONAMENTO. 2. PRAZO PRESCRICIONAL. ATRASO NA CITAÇÃO QUE NÃO PODE SER IMPUTADO AO EXEQUENTE. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. 3. ERRO MATERIAL NO CÁLCULO DA PRESCRIÇÃO. INDEVIDA INOVAÇÃO RECURSAL. 4. MULTA POR LITIGÂNCIA DE MÁ-FÉ. INAPLICABILIDADE. 5. MAJORAÇÃO DEHONORÁRIOS RECURSAIS. DESCABIMENTO. 6. AGRAVO DESPROVIDO.
+1. Em relação à alegada exceção de incompetência, verifica-se não estar prequestionada a matéria, razão pela qual incide na espécie a Súmula n. 282 e 356/STF.
+1.2. De acordo com o entendimento jurisprudencial do Superior Tribunal de Justiça, nem mesmo as questões de ordem pública dispensam o prévio debate pela instância de origem acerca das teses recursais.
+2. Nos termos do enunciado n. 106 da Súmula do Superior Tribunal de Justiça, "proposta a ação no prazo fixado para o seu exercício, a demora na citação, por motivos inerentes ao mecanismo da Justiça, não justifica o acolhimento da arguição de prescrição ou decadência".
+2.1. A reforma do entendimento estadual, para concluir que a demora na citação seria imputável à parte exequente, é providência que demanda o reexame de fatos e provas, o que é vedado na via extraordinária, em virtude do óbice contido no verbete sumular n. 7 desta Corte.
+3. Quanto à ocorrência de erro material no cálculo da prescrição, trata-se de verdadeira inovação recursal. Portanto, inviável a análise do tema por esta Corte.
+4. Conforme entendimento desta Corte Superior, a interposição de recursos cabíveis não implica "litigância de má-fé nem ato atentatório à dignidade da justiça, ainda que com argumentos reiteradamente refutados pelo Tribunal de origem ou sem alegação de fundamento novo" (REsp n. 1.953.212/RJ, Relatora Ministra Nancy Andrighi, em 26/10/2021, DJe 3/11/2021).
+5. Tendo havido arbitramento de honorários recursais na decisão monocrática que conhece do agravo para não conhecer do recurso especial, não se mostra possível nova majoração dessa verba no acórdão que não conhece ou nega provimento ao subsequente agravo interno.
+6. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 2.059.512/TO, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 27/6/2022, DJe de 29/6/2022.)
+3. Por fim, insta salientar que encontra-se prejudicado o conhecimento do recurso pela alínea "c", haja vista que a incidência da Súmula 7 do STJ impede o exame da divergência jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão a quo, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a instância ordinária.
+Nesse sentido:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE ANULAÇÃO DE ATOS PROCESSUAIS SUPERVENIENTES À PENHORA. VIOLAÇÃO DO ART. 535 DO CPC/73. INEXISTÊNCIA. AUSÊNCIA DE REPRESENTAÇÃO PROCESSUAL. AUSÊNCIA DE INTIMAÇÃO DO LAUDO DE AVALIAÇÃO DO IMÓVEL PENHORADO, BEM COMO DO DIA, HORA E LOCAL DA ALIENAÇÃO. ARREMATAÇÃO DO IMÓVEL POR PREÇO VIL. SÚMULA Nº 7 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AGRAVO INTERNO NÃO PROVIDO COM APLICAÇÃO DE MULTA.
+ ..
+5. Dissídio jurisprudencial não demonstrado uma vez que é pacífica a jurisprudência desta Corte no sentido de que a incidência da Súmula nº 7 do STJ, relativamente à alínea a, impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto com base na qual a Corte de origem deu solução à causa.
+ ..
+7. Agravo interno não provido, com imposição de multa.
+(AgInt no REsp 1587058/MT, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 20/02/2018, DJe 12/03/2018)
+4. Do exposto, dou provimento ao agravo interno para reconsiderar a decisão de fls. 818-819, e-STJ, e, em nova análise do agravo em recurso especial, dele conhecer para, de plano, negar provimento ao recurso especial e, com base no art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) o valor dos honorários sucumbenciais fixados pelo Tribunal de origem.
+Publique-se.
+Intimem-se.
+EMENTA
