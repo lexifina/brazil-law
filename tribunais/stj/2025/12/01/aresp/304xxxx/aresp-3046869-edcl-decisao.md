@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por ZABA EQUIPAMENTOS INDUSTRIAIS LTDA à decisão de fls. 434/435, que não conheceu do recurso.
+Sustenta a parte embargante:
+A r. decisão embargada (e-STJ Fl. 434) afirma que a representação processual estaria irregular, mesmo após intimação para saneamento, aplicando o óbice da Súmula 115/STJ com base na análise das procurações de fls. 299. Contudo, tal conclusão parte de uma premissa fática manifestamente equivocada, configurando um clássico error in facti.
+A omissão é patente: a decisão ignorou por completo a petição, tempestivamente protocolada, na qual a Embargante, em estrito cumprimento à determinação judicial, juntou a cadeia de substabelecimento integral, outorgando plenos poderes à advogada subscritora do recurso.
+Ao deixar de analisar um documento que já constava nos autos e que sanava por completo o vício apontado, a decisão tornou letra morta a própria intimação para regularização. A aplicação da Súmula 115/STJ, nesse contexto, é manifestamente indevida, pois se fundamenta em um "defeito" que, na realidade fática e processual dos autos, já não existia (fls. 442/443).
+Alega ainda:
+A decisão aponta que o preparo foi recolhido de forma simples, e não em dobro, aplicando a pena máxima de deserção. Novamente, a decisão padece de vício.
+É fato que o recolhimento foi feito de forma simples. Contudo, a aplicação automática e imediata da pena de deserção, sem conceder uma última oportunidade para a complementação, ignora a teleologia da norma e viola frontalmente o procedimento estabelecido no Código de Processo Civil.
+O recolhimento simples, embora incompleto, evidencia a inequívoca boa-fé da Embargante. A finalidade do art. 1.007, § 4º, do CPC não é criar uma armadilha processual, mas sim garantir o efetivo pagamento das custas. A sanção de deserção é a ultima ratio, aplicável apenas quando a parte, intimada, permanece inerte (fl. 443).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+No caso, a parte recorrente, no momento da interposição do recurso, não procedeu à juntada da cadeia completa de procuração e/ou substabelecimento conferindo poderes à subscritora do Agravo e do Recurso Especial, Dra. ANDRESSA PAOLA AVELLEDA KNAPP.
+Entretanto, o marco temporal de aplicação do Código de Processo Civil de 2015 é a intimação do decisum recorrido que, no presente caso, foi realizada após 18.3.2016, já sob a égide do novo códex processual.
+Assim, nos termos do Enunciado Administrativo n. 3 do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC", em observância ao princípio do tempus regit actum, ou seja, no presente caso aplicam-se as regras do Código de Processo Civil de 2015.
+Dessa forma, nos termos do art. 76 do Código de Processo Civil, foi intimada a parte recorrente para regularizar a representação processual, no prazo improrrogável de 5 (cinco) dias, sob pena de não conhecimento do recurso.
+Mesmo diante da intimação da parte para sanear o vício, não houve a devida regularização, porquanto as procurações juntadas às fls. 296 e 431 não conferem poderes à subscritora dos recursos.
+Registre-se, que ao contrário do alegado, não há nos autos qualquer substabelecimento, tampouco cadeia de substabelecimentos, que outorgue poderes à referida subscritora.
+Dessa forma, o recurso não foi devida e oportunamente regularizado, incidindo, na espécie, o disposto na Súmula n. 115/STJ.
+Quanto ao preparo, conforme consignado na decisão ora embargada, que agora se repete, verifica-se que o Recurso Especial não foi instruído com a guia de custas devidas LTDA ao STJ e o respectivo comprovante de pagamento.
+Ademais, foi percebido, no TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, haver essa irregularidade o recolhimento do preparo, razão pela qual houve a intimação da parte recorrente, com fundamento no art. 1.007, § 4º, do Código de Processo Civil, para realizar, no prazo de 5 (cinco) dias, o recolhimento em dobro do preparo, sob pena de não conhecimento do recurso.
+Embora regularmente intimada para efetuar o recolhimento em dobro, a parte o fez de forma simples, não regularizando o preparo de forma adequada, em descumprimento ao disposto no art. 1.007, § 4º, do Código de Processo Civil.
+Cumpre esclarecer que intimada a parte nos termos do art. 1.007, § 4º do CPC, não há previsão para que uma nova intimação seja realizada. Logo se a parte foi intimada na origem e não providenciou a devida regularização, não há como dar nova oportunidade de sanar o óbice. Correta, portanto, a aplicação da Súmula n. 187 deste Tribunal, julgando deserto o recurso.
+É cediço, também, que o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu. (AREsp 1592147/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 31.8.2020; AgInt no AREsp 1639930/RJ, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 3.8.2020; AgInt nos EDcl no AREsp 1342656/PR, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 7.5.2020.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 28.8.2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se.
+Intimem-se.
+ EMENTA
