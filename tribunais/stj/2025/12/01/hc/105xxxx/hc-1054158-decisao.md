@@ -1,0 +1,12 @@
+DECISÃO
+ALEXANDRE ROSSMANN DE SOUZA alega sofrer coação ilegal diante de acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, prolatado no Agravo em Execução n. 8001081-31.2025.8.21.0026/RS.
+A pedido do Ministério Público, foi cassada a decisão do Juiz da VEC que havia concedido ao apenado o trabalho externo, sob o fundamento de que o sentenciado não teria cumprido 1/6 da pena. A Defensoria Pública sustenta que o requisito objetivo do art. 37 da LEP é dispensável para apenados que iniciam o cumprimento da pena em regime semiaberto. Aduz que o fato de a execução ser provisória não impede a concessão do benefício.
+Requer, por isso, o restabelecimento da decisão do juízo das execuções.
+Decido.
+A execução penal é regida pelo princípio da legalidade. As regras do regime semiaberto, cumprido em colônia agrícola, industrial ou estabelecimento similar estão previstas no art. 35 do CP.
+Não houve declaração de inconstitucionalidade do art. 37 do CP, que permanece vigente no sistema jurídico, de modo que a "LEP regulariza o trabalho externo do seguinte modo: Art. 37. A prestação de trabalho externo, a ser autorizada pela direção do estabelecimento, dependerá de aptidão, disciplina e responsabilidade, além do cumprimento mínimo de 1/6 (um sexto) da pena" (AgRg no HC n. 936.665/CE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/10/2024, DJe de 29/10/2024).
+É possível o avanço para a pronta solução do habeas corpus, pois o acórdão recorrido está em consonância com a jurisprudência desta Corte, "a qual exige o cumprimento de 1/6, inclusive, para apenados que iniciaram a pena no regime semiaberto" (AgRg no HC n. 853.617/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 30/10/2023, DJe de 8/11/2023.)
+Deveras, "A concessão da saída temporária para o trabalho externo do preso em cumprimento de pena definitiva em regime inicialmente semiaberto depende do cumprimento de requisitos objetivos e subjetivos a serem avaliados pelo Juízo das Execuções no curso do cumprimento da pena. 2. O entendimento desta Corte Superior é no sentido de que, à luz do disposto no art. 123, inciso II, da Lei de Execução Penal, o condenado deve atender ao requisito do prazo mínimo de cumprimento da pena, mesmo nos casos de condenados em regime inicial semiaberto" (AgRg no HC n. 761.151/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/3/2023, DJe de 17/3/2023).
+À vista do exposto, denego o habeas corpus, in limine.
+Publique-se e intimem-se.
+EMENTA
