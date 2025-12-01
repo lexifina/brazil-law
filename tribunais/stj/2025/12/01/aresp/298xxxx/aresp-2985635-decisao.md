@@ -1,0 +1,64 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por EMPREMAX - INCORPORACAO IMOBILIARIA E PARTICIPACOES LTDA, VERA CRISTINA DAS NEVES ARRUDA, com fundamento na ausência de violação ao art. 1.022 do CPC/2015 e da incidência  da Súmula  7 do STJ.
+Em suas razões recursais, a parte agravante sustenta o preenchimento dos requisitos de admissibilidade do recurso especial, pois o aresto violou os arts. 10, 373, I, e 1022, I e II, do CPC/2015 e o art. 135, III, do CTN.
+Assevera, ainda, que a decisão recorrida incorreu em negativa de prestação jurisdicional, bem como alega ser indevida aplicação isolada da Súmula 435/STJ para responsabilização pessoal de sócia, sem demonstração dos requisitos do art. 135, III, do CTN (fls. 411-412). Por fim, pugna pela inaplicabilidade da Súmula 7/STJ, por se tratar de revaloração jurídica de fatos incontroversos.
+Contraminuta apresentada.
+É o relatório.
+Passo a decidir.
+I - Da negativa de prestação jurisdicional
+Quanto à apontada violação ao art. 1.022, do CPC/2015, a agravante alega alega a existência de vício a ser sanado, sob o fundamento de que, ao não prover os embargos de declaração, o acórdão recorrido se manteve omisso quanto a questão acerca da controvérsia (fls. 371-385):
+ ..  30. Contudo, o v. Acórdão do Agravo de Instrumento deixou de se manifestar a respeito da nulidade da r. decisão agravada, por afronta às garantias da segurança jurídica, do contraditório, da ampla defesa e do devido processo legal, tendo em vista que não oportunizada a manifestação da empresa Recorrente acerca do pedido de redirecionamento da execução, baseada na presunção de encerramento irregular.
+31. O v. Acórdão também foi omisso em relação ao enfrentamento das provas trazidas pelos Recorrentes para afastar a presunção de encerramento irregular.
+32. De fato, o v. Acórdão incorreu em evidente contradição ao omitir-se diante das provas constantes nos autos. Embora não tenha negado a existência de diversos elementos e evidências que impedem a pretensão dos Recorrentes, fundamentou sua decisão exclusivamente na certidão do oficial de justiça, que apenas constatou a ausência da empresa no endereço fiscal. No entanto, não aprofundou a análise das provas contrárias, que sequer foram devidamente enfrentadas, especialmente considerando que o morador Mario, que supostamente negou que fosse aquela a sede social, é esposo da sócia e ex-integrante dos quadros sociais.
+33. As omissões incorridas pelo julgado foram objeto de embargos de declaração, opostos para que restasse analisada a situação peculiar dos Recorrentes no presente caso, inclusive para fins de prequestionamento. A despeito disto, tais embargos, como relatado, foram rejeitados pelo E. Tribunal local, não obstante encontrar-se plenamente caracterizados os vícios a que alude o artigo 1.022, I e II, do Código de Processo Civil.
+É certo que não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+Da análise dos autos, todavia, denota-se que a Corte a quo dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, consignando (fls. 345-353):
+ ..  Cuida-se de execução fiscal (Processo nº 1500536-24.2016.8.26.0309) ajuizada em 05/10/2016 pelo Município de Jundiai em face de Empremax Incorporação Imobiliária e Participações Ltda., visando a cobrança de créditos relativos a ISS, Taxa de Fiscalização para Licença, de Localização e Funcionamento e Manut. Cadastro Fins Tributários dos exercícios de 2013 e 2014, no valor de R$ 284.203,20.
+Foi expedida carta para citação da empresa executada, sendo que o Aviso de Recebimento retornou com a informação: "Não procurado" e "Ausente" (fl. 13).
+Em 04/05/2018 e 12/06/2018 o exequente requereu o sobrestamento do feito pelo prazo de 120 dias, em razão de acordo de parcelamento dos débitos tributários.
+Em 26/06/2018 o exequente requereu a juntada das certidões em que constam o pagamento dos débitos, referentes às certidões de dívida ativa n.º 615976/2014, 620314/2014 e 567665/2013.
+Em 22/08/2018 foi deferido o requerimento de suspensão do feito.
+Em 29/09/2021 o exequente informou o descumprimento do acordo para pagamento parcelado dos débitos tributários, referentes às certidões de dívida ativa nº. 587.947/2013, 587.948/2013, 587.949/2013, 587.950/2013 e 623.484/2014 (fls. 34/39)
+As tentativas de citação da empresa executada por Oficial de Justiça, nos meses de fevereiro e maio de 2022, restaram infrutíferas (fls. 53 e 71).
+Em 14/09/2023 a empresa executada compareceu nos autos informando que "em observância aos deveres de probidade e lealdade processual, a executada esclarece que não possui bens passíveis de penhora, pois não é proprietária ou titular de qualquer bem móvel ou imóvel, suscetível de constrição judicial para fins de garantir ou satisfazer a execução em curso" (fl. 65)
+O exequente requereu a inclusão da sócia Vera Cristina das Neves Arruda no polo passivo da execução (fl. 82/83).
+Sobreveio a r. decisão agravada que deferiu o pedido "para redirecionamento da execução e inclusão em seu polo passivo do(s) sócio(s) por si indicado(s)". Opostos embargos de declaração pela empresa executada, que não foram conhecidos, diante da ausência de interesse recursal da pessoa jurídica (fl. 384).
+ ..  Conquanto o mero inadimplemento da obrigação não implique a responsabilidade solidária da sócia para responder pelas dívidas tributárias da pessoa jurídica, no caso dos autos a insolvência é confessada nos autos, afinal a executada declarou não possuir bens ou direitos para garantia do juízo.
+Por outro lado, como já remarcado, a empresa não foi localizada no endereço cadastral (AR e certidão do Oficial de Justiça negativos), tampouco naquele registrado na alteração contratual, fruto de alteração do endereço da sede (fls. 71).
+Aliás, os documentos que supostamente indicariam a citação da empresa no apartamento residencial (fls. 7) apenas reforçam a percepção de que ela ali não mais está situada. Embora o morador Mario, que negou fosse aquela a sede social, seja esposo da sócia e ex-integrante dos quadros sociais, a primeira não apresentou documento que demonstrasse estivesse domiciliada naquela localidade.
+Em outras palavras, fosse o domicílio da sócia e ela não teria dificuldades em apresentar faturas de consumo em que registrado o endereço em discussão.
+Por outro lado, a apresentação de declaração do IRPJ, sem que exista mínima movimentação, não se presta a demonstrar, com todas as vênias, que a empresa esteja em atividade, cumprindo os objetivos sociais.
+Não veio aos autos prova documental da aludida atividade, sobretudo escrituração que demonstre, de modo efetivo, atos de comércio na área em que se ativa.
+ ..  Assim, em tese, há indícios suficientes do alegado encerramento irregular das atividades da empresa, no sentido de que não se encontra estabelecida no endereço fiscal (Súmula 435, do STJ), de maneira que o redirecionamento deverá ser mantido, ressalvado o direito de discussão da matéria por meio de embargos à execução, em que permitida ampla produção de provas sobre a efetiva continuidade das atividades da executada.
+Como se vê, a negativa de prestação jurisdicional não restou configurada.
+Ademais, o mero inconformismo com o julgamento contrário à pretensão da parte não caracteriza falta de prestação jurisdicional, isso porque a fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada.
+Vale lembrar que, mesmo à luz do art. 489 do CPC, o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pela parte, mas apenas sobre aqueles capazes de, em tese, infirmar a conclusão adotada pelo órgão julgador.
+Assim, inexiste violação ao art. 1.022 do CPC/2015.
+Quanto ao mérito, o recurso especial não merece conhecimento. Explico.
+II - Da incidência da Súmula 7 do STJ
+Ademais, quanto à alegada violação aos arts. 10, 373, I, do CPC/2015 e ao art. 135, III, do CTN, verifica-se que a controvérsia envolveu a própria aferição de dissolução irregular e a suficiência dos respectivos indícios (não localização, insolvência confessada, insuficiência de IRPJ sem movimentação), o que demandou a análise, por parte do Tribunal a quo, da documentação acostada nos autos, levando em consideração os fatos e circunstâncias relacionados à matéria.
+É certo que o espectro de cognição do recurso especial não é amplo e ilimitado, como nos recursos comuns, mas, ao invés, é restrito aos lindes da matéria jurídica delineada pelas instâncias ordinárias.
+Portanto, observa-se que a alteração da conclusão do Tribunal a quo, cuja premissa foi firmada com base em prova pré-constituída, ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7 do STJ.
+A propósito :
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. ENCERRAMENTO IRREGULAR DA SOCIEDADE. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. INVIABILIDADE. INCIDÊNCIA DA SÚMULA 83 DO STJ. EXTINÇÃO DA PERSONALIDADE JURÍDICA , ABUSO DA PERSONALIDADE JURÍDICA OU SUPOSTA DISSOLUÇÃO IRREGULAR DA SOCIEDADE EMPRESÁRIA. REVISÃO DE QUADRO FÁTICO-PROBATÓRIO. SÚMULA Nº 7 STJ. RECURSO NÃO CONHECIDO.
+I. Caso em exame
+1. Agravo em Recurso Especial interposto contra decisão que inadmitiu o recurso especial, alegando a parte agravante que o recurso preenche os requisitos necessários ao conhecimento e provimento.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se é possível a revisão do quadro fático-probatório estabelecido na instância de origem para acolher a tese recursal de desconsideração da personalidade jurídica e dissolução irregular da sociedade empresária.
+III. Razões de decidir
+3. O encerramento irregular da sociedade, por si só, não autoriza a desconsideração da personalidade jurídica, conforme jurisprudência do STJ, o que atrai a incidência da Súmula 83.
+4. No caso, o exame das alegações relativas à extinção da personalidade jurídica , ao abuso da personalidade jurídica e à suposta dissolução irregular da sociedade empresária exige a investigação do conjunto fático-probatório dos autos..
+IV. Dispositivo 5. Agravo não conhecido.
+(AREsp n. 2.796.768/MG, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 29/9/2025, DJEN de 2/10/2025. - grifo nosso)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ALEGADA OFENSA AOS ARTS. 489, § 1º, E 1.022 DO CPC. NÃO OCORRÊNCIA. REDIRECIONAMENTO AO SÓCIO-GERENTE. DISSOLUÇÃO IRREGULAR VERIFICADA. REVISÃO. INCIDÊNCIA DA SÚMULA 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Inexistência de vícios que imponham a anulação do acórdão recorrido. O Tribunal de origem enfrentou todas as questões relevantes apresentadas com fundamentos suficientes, tendo assinalado seu entendimento sobre a ocorrência da dissolução irregular a despeito da existência de sentença de dissolução judicial.
+2. A jurisprudência desta Corte Superior de Justiça firmou-se no sentido de que é necessária a realização do ativo e do passivo para que seja extinta regulamente a sociedade, de modo a afastar a dissolução irregular e a responsabilização pelo art. 135, III, do CTN.
+3. No caso concreto, embora o acórdão recorrido tenha reconhecido a existência de sentença judicial que decreta a dissolução da empresa, não constatou comprovação da realização do ativo e pagamento do passivo, de modo a extinguir regularmente a empresa e afastar a dissolução irregular.
+4. Irresignação do recorrente que vai de encontro às convicções do julgador a quo, que tiveram como lastro o conjunto fático-probatório constante dos autos. Inviável a análise da pretensão veiculada no recurso especial, por demandar o reexame do contexto fático-probatório dos autos, atraindo a incidência da Súmula 7 do STJ.
+5. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 2.158.382/RJ, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 18/6/2025, DJEN de 26/6/2025. - grifo nosso)
+Em vista disso: "É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial"" (AgInt no AREsp n. 1.964.284/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+Isso posto, com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Sem condenação em honorários advocatícios recursais, tendo em vista que o agravo em recurso especial origina-se de acórdão proferido em julgamento de agravo de instrumento, no qual não houve a fixação de honorários advocatícios sucumbenciais.
+Intimem-se.
+EMENTA
