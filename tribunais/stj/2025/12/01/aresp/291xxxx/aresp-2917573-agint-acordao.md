@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 25/11/2025 a 01/12/2025, por unanimidade, nao conhecer do agravo interno, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. APLICAÇÃO. RECURSO NÃO CONHECIDO.
+1. A ausência de impugnação específica dos fundamentos da decisão agravada inviabiliza o conhecimento do agravo interno, nos termos do art. 1.021, § 1º, do Código de Processo Civil (CPC). Incidência da Súmula 182 do Superior Tribunal de Justiça (STJ).
+2. Para refutar a incidência da Súmula 182/STJ, deve-se demonstrar, no agravo interno, que nas razões do agravo em recurso especial foram impugnados todos os fundamentos da decisão de admissibilidade do recurso especial.
+3. Agravo interno de que não se conhece.
+RELATÓRIO
+Trata-se de agravo interno interposto por GABRIELA RICORDI BAZIN da decisão da Presidência do Superior Tribunal de Justiça de fls. 3.194/3.195 que não conheceu de seu agravo em recurso especial porque não foram impugnados todos os fundamentos de inadmissão do recurso especial.
+Nas razões de seu recurso, a parte recorrente requer a reconsideração da decisão agravada ou a apreciação do recurso pelo órgão colegiado competente.
+A parte adversa apresentou impugnação (fls. 3.226/3.229 e 3.232/3.239).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. APLICAÇÃO. RECURSO NÃO CONHECIDO.
+1. A ausência de impugnação específica dos fundamentos da decisão agravada inviabiliza o conhecimento do agravo interno, nos termos do art. 1.021, § 1º, do Código de Processo Civil (CPC). Incidência da Súmula 182 do Superior Tribunal de Justiça (STJ).
+2. Para refutar a incidência da Súmula 182/STJ, deve-se demonstrar, no agravo interno, que nas razões do agravo em recurso especial foram impugnados todos os fundamentos da decisão de admissibilidade do recurso especial.
+3. Agravo interno de que não se conhece.
+VOTO
+O recurso especial foi interposto do acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 3.047):
+Processual Civil Comprovação da ruptura e extinção do vínculo mantido entre o correquerido Reuel Adimar Lopes e a UNITAU Extinção da ação, sem julgamento de mérito em relação ao referido corréu que se impõe, com fundamento no artigo 485, VI do CPC. Apelação Cível Ação civil pública ajuizada pelo Ministério Público Universidade de Taubaté - UNITAU Questionamento direcionado à contratação de servidores sob regime da CLT para ocupar empregos públicos na autarquia municipal e ao reenquadramento da função temporária de "auxiliar de ensino" como emprego público de "auxiliar docente", nos termos da Lei Complementar municipal nº 118/2005, alterada pela Lei Complementar municipal nº 133/2005 Manutenção da r. sentença de parcial procedência que se impõe Coexistência de regimes estatutário e celetista Ausência de vício Alteração introduzida pela EC 19/1998 que suprimiu o regime jurídico único previsto no caput do artigo 39 da Constituição Federal Suspensão do dispositivo por força da Medida Cautelar deferida pelo STF em 2007, com efeito ex nunc, mantendo em vigor as normas editadas durante a vigência, restando pendente o julgamento definitivo da ADI 2135 Submissão ao regime celetista Cabimento Hipótese similar à julgada constitucional pelo E. STF nos autos da ADI 5615 Reenquadramento previsto no artigo 4º, §7º da LCM 118/2005 Inconstitucionalidade reconhecida pelo C. Órgão Especial na ADI nº 0002853-41.2007.8.26.0000 Recursos desprovidos. Recursos desprovidos e extinta a ação, sem julgamento de mérito, em relação ao corréu Reuel Adimar Lopes.
+Na decisão recorrida, não se conheceu do agravo em recurso especial por deixar a parte agravante de impugnar a decisão de admissibilidade relativamente à ausência de afronta a dispositivo legal, Súmula 7/STJ e Súmula 280/STF.
+Em seu agravo interno, a parte recorrente alega que (fls. 3.210/3.211):
+Ao tratar -se da violação do Direito, explica-se que seguindo os princípios que regem as condutas judiciais, em ênfase o princípio da efetividade e o da segurança jurídica, os Direitos da Sra. Gabriela estão sendo marginalizados. Esclarece que o princípio da efetividade fora desfalcado no jurídico, pois não existiu garantia acerca do alcance da justiça, tão pouco esteve presente o princípio da segurança jurídica, que insiste na aplicabilidade da norma de fora coerente, de modo a proporcionar a segurança jurídica.
+O ordenamento deixa claro ""accessoriium sequitur suum principale"", ou seja, a obrigação acessória segue a mesma sorte da principal inexistindo meio de divergir a pauta que chegou ao STJ com a necessidade das verbas rescisórias.
+Como se vê, a parte agravante, no recurso ora examinado, igualmente não refuta as razões expostas na decisão que visa impugnar, repetindo o vício anteriormente detectado, isso porque a parte não impugnou a decisão de admissibilidade relativamente à ausência de afronta a dispositivo legal, Súmula 7/STJ e Súmula 280/STF.
+É devida a aplicação ao caso em questão da Súmula 182/STJ, segundo a qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+A fim de rebater a decisão que não conheceu de seu recurso porque não rebatidos todos os fundamentos da decisão de admissibilidade, é dever da parte agravante demonstrar, no agravo interno, de forma clara e objetiva, que no agravo em recurso especial ela impugnou toda a decisão que não havia admitido seu recurso especial, proferida pelo Tribunal de origem - o que não ocorreu.
+É importante registrar, ainda, que o recurso de agravo, tanto aquele previsto no art. 1.042 do Código de Processo Civil (CPC) como o dito regimental ou interno previsto no art. 1.021, § 1º, do mesmo CPC, objetiva desconstituir os fundamentos que impediram o processamento do recurso especial; o recurso não comporta seguimento sem essa providência.
+Ante o exposto, não conheço do agravo interno.
+É o voto.
