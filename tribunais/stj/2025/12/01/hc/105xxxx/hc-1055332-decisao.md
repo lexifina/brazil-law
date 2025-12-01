@@ -1,0 +1,13 @@
+DECISÃO
+GUSTAVO TOMIA DIAS alega sofrer constrangimento ilegal diante de decisão proferida pelo Tribunal de Justiça do Estado de São Paulo na Apelação n. 1500605- 90.2025.8.26.0616.
+A defesa requer, em liminar e no mérito, seja garantido ao paciente o direito de apelar em liberdade, diante da incompatibilidade, em seu entender, entre a prisão preventiva e a condenação em primeiro grau ao cumprimento de pena no regime aberto.
+O caso comporta julgamento antecipado, visto que a solução da controvérsia se encontra pacificada no âmbito desta Corte.
+Depreende-se dos autos que o paciente foi condenado, em primeiro grau, à pena de 6 anos e 5 meses de reclusão, mais multa, em regime inicial fechado, pela suposta prática do crime descrito no art. 158, § 1º, do Código Penal. Naquela ocasião, a prisão preventiva foi mantida.
+Inconformada, a defesa interpôs recurso de apelação perante o Tribunal estadual, que deu parcial provimento a apelo para reduzir a reprimenda adequar o regime inicial de cumprimento de pena para o semiaberto, mas manteve a prisão preventiva. Transcrevo, no que interessa:
+Destarte, a reprimenda resta fixada definitivamente em 3 (três) anos e 8 (oito) meses de reclusão e pagamento de 8 (oito) dias-multa.
+Quanto ao regime de cumprimento de pena, em que pese a primariedade do réu, nos termos do art. 33, §§ 2º e 3º, do Código Penal, fixo o o regime semiaberto, somando-se ao quantum de pena alcançado a fixação da pena-base acima do mínimo legal ante a aguda culpabilidade da conduta do réu, o que faz despontar a periculosidade do agente e recomendar, de conseguinte, a imposição do regime prisional mais gravoso para o início do desconto da pena corporal, como sinal de maior reprovabilidade de sua conduta, ressaltando a gravidade concreta do delito de extorsão circunstanciada pelo concurso de pessoas, sendo imprescindível o maior rigor do Estado a fim de coibir a prática de nefasta conduta que hodiernamente tanto assola a sociedade.
+Com efeito, é sólida a orientação deste Superior Tribunal de que "não há incompatibilidade entre a manutenção da prisão cautelar e a fixação do regime semiaberto para o inicial cumprimento de pena" (AgRg no HC n. 779.532/SP, Rel. Ministra Laurita Vaz, 6ª T., DJe de 19/12/2022).
+No mesmo sentido: "É pacífico o entendimento deste Tribunal Superior no sentido de que a manutenção da prisão preventiva pelo juiz sentenciante é compatível com a fixação do regime semiaberto, desde que ocorra a devida adequação da segregação cautelar com o regime estabelecido pela sentença condenatória" (AgRg no HC n. 783.309/SC, Rel. Ministro Ribeiro Dantas, DJe 16/2/2023).
+À vista do exposto, denego a ordem, in limine.
+Publique-se e intimem-se.
+EMENTA
