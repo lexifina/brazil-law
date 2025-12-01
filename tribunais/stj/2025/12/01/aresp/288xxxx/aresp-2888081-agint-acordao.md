@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 25/11/2025 a 01/12/2025, por unanimidade, dar parcial provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira, Marco Buzzi e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SÚMULA 182/STJ. INAPLICABILIDADE. RECONSIDERAÇÃO. CERCEAMENTO DE DEFESA. INDEFERIMENTO DE PRODUÇÃO DE PROVAS. RETORNO À INSTÂNCIA DE ORIGEM. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+1. O pedido administrativo de prorrogação da dívida consta dos autos, o que evidencia a alegada violação ao art. 1.022 do CPC.
+2. A decisão que indefere a produção de provas essenciais e julga improcedente o pedido por ausência de provas configura cerceamento de defesa, conforme precedentes do STJ.
+3. Agravo interno provido para, em novo exame, conhecer do agravo e dar parcial provimento ao recurso especial, a fim de anular o acórdão e a sentença, determinando o retorno dos autos à instância de origem para viabilizar a instrução processual e a realização das provas requeridas.
+RELATÓRIO
+Trata-se de agravo interno interposto por EVANDRO BACHINI contra decisão da Presidência do Superior Tribunal de Justiça (e-STJ, fls. 557-558), que não conheceu do seu agravo, em virtude da ausência de impugnação específica dos fundamentos da decisão de inadmissibilidade do recurso especial, especialmente no tocante à aplicação da Súmula 7/STJ.
+Em suas razões, a parte agravante sustenta que procedeu à devida impugnação da incidência da Súmula 7/STJ e reitera que a análise pleiteada não demanda nenhum reexame de fatos e provas. Requer, assim, a reconsideração da decisão agravada ou sua reforma pela Turma julgadora.
+Intimada, a parte agravada não apresentou impugnação (e-STJ, fl. 573).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SÚMULA 182/STJ. INAPLICABILIDADE. RECONSIDERAÇÃO. CERCEAMENTO DE DEFESA. INDEFERIMENTO DE PRODUÇÃO DE PROVAS. RETORNO À INSTÂNCIA DE ORIGEM. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+1. O pedido administrativo de prorrogação da dívida consta dos autos, o que evidencia a alegada violação ao art. 1.022 do CPC.
+2. A decisão que indefere a produção de provas essenciais e julga improcedente o pedido por ausência de provas configura cerceamento de defesa, conforme precedentes do STJ.
+3. Agravo interno provido para, em novo exame, conhecer do agravo e dar parcial provimento ao recurso especial, a fim de anular o acórdão e a sentença, determinando o retorno dos autos à instância de origem para viabilizar a instrução processual e a realização das provas requeridas.
+VOTO
+Afiguram-se relevantes as alegações expendidas pela parte recorrente, de modo que, com base no art. 259 do RISTJ, reconsidera-se a decisão ora recorrida e passa-se ao exame do recurso.
+Trata-se de agravo interposto por EVANDRO BACHINI contra decisão que inadmitiu seu recurso especial, fundamentado no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"Apelação - Ação declaratória de nulidade de cláusulas contratuais, com pedido de prorrogação do prazo de vencimento - Cédulas rurais - Sentença de improcedência - Recurso - Preparo insuficientemente recolhido - Concessão de prazo para complementação das custas recursais, sob pena de inscrição na dívida ativa - Cerceamento de defesa inocorrente - Ausência de impugnação específica dos fatos deduzidos na inicial que não conduz a que se deva reputá-los verdadeiros - Taxa de juros aplicada em consonância com aquelas praticadas no mercado financeiro - Extorsividade não observada - Capitalização legalmente permitida - Art. 5º do Decreto-Lei nº 167/67 - Enunciado nº 93 da súmula de jurisprudência do STJ - Previsão contratual - Ausente ilegalidade ou abusividade a dar ensejo à descaracterização da mora - Comissão de permanência de acordo com os enunciados nº 294, 296 e 472 do STJ, porquanto isolada e à taxa de mercado - Alongamento de dívida originada de crédito rural que depende da comprovação do preenchimento dos requisitos legais e normativos, notadamente o pleito administrativo após a colheita e até a data fixada para o vencimento das operações, consoante o Manual do Crédito Rural, o que não se verifica nos autos - Sentença mantida - Recurso desprovido, com determinação." (fl. 396)
+Os embargos de declaração foram rejeitados.
+Em seu recurso especial, o recorrente alega violação dos seguintes dispositivos da legislação federal, com as respectivas teses:
+(i) arts. 1.022 e 489 do Código de Processo Civil, pois teria havido negativa de prestação jurisdicional e erro material não corrigido nos embargos de declaração, especialmente quanto à existência de pedido administrativo prévio de prorrogação do débito rural, o que reclamaria integração do julgado;
+(ii) tese de cerceamento de defesa, porquanto teria sido indeferida a produção de prova pericial contábil e testemunhal necessária para demonstrar anatocismo e a incapacidade de pagamento decorrente de frustração de safra/receitas, o que, segundo sustenta, inviabilizaria o julgamento antecipado;
+(iii) arts. 341, 344, 355 e 400 do Código de Processo Civil, pois, sendo o banco revel, teriam de ser presumidas verdadeiras as alegações fáticas da inicial, com julgamento antecipado em favor do autor, reconhecendo-se as frustrações de safra/receitas e o direito ao alongamento do débito;
+(iv) art. 14 da Lei 4.829/65 (Política de Crédito Rural), combinado com o Manual de Crédito Rural, porque o alongamento compulsório do crédito rural seria direito do mutuário diante de frustração de safra/dificuldade de comercialização, e o acórdão teria negado vigência a tal disciplina normativa;
+(v) art. 5º do Decreto-Lei 167/1967 e Súmula 93 do Superior Tribunal de Justiça, pois a capitalização mensal de juros em cédula de crédito rural somente seria admissível se expressamente pactuada, o que não se verificaria nas cédulas em discussão;
+(vi) tese de descaracterização da mora, uma vez que a cobrança de encargos indevidos/excessivos e a discussão sobre cláusulas contratuais teriam afastado a mora debendi, conforme precedentes do Superior Tribunal de Justiça;
+(vii) parágrafo único do art. 5º do Decreto-Lei 167/1967, porque seria inadmissível a cobrança de comissão de permanência em cédulas de crédito rural, limitando-se os encargos de mora ao acréscimo de 1% ao ano, em dissídio com precedente do Superior Tribunal de Justiça;
+(viii) art. 85, §§ 2º e 8º, do Código de Processo Civil, por suposta fixação de honorários sucumbenciais em descompasso com os critérios legais de proporcionalidade e razoabilidade, o que reclamaria revisão.
+Foram apresentadas contrarrazões (e-STJ, fls. 320-344).
+O recurso especial foi inadmitido na origem, dando ensejo à interposição do presente agravo.
+Em relação à alegada violação do art. 1.022, III, do Código de Processo Civil, o agravante sustenta erro material do Tribunal de Justiça do Estado de São Paulo ao afirmar a ausência de pedido administrativo de prorrogação da dívida.
+E razão lhe assiste, pois tal documento foi juntado aos autos, às fls. 164/178.
+Com efeito, a correção de erro não se confunde com reexame de provas e, porque comprovada a existência do documento nos autos, a alegação de violação do art. 1.022 do Código de Processo Civil vai acolhida neste particular.
+Além disso, a Corte de origem concluiu que o magistrado, enquanto destinatário da prova, não está obrigado a deferir a produção de prova quando entender desnecessário.
+Confira-se trecho do acórdão recorrido (fls. 398-399):
+"Convém, aliás, realçar que o juiz, destinatário da prova, deve indeferir sua produção e as diligências impertinentes e inúteis, ou meramente protelatórias, nos termos do art. 370, parágrafo único, do CPC, posto que a ele incumbe o poder-dever de velar pela rápida solução do litígio.
+ ..
+A matéria é exclusivamente de direito, sendo suficiente a prova documental para deslinde do litígio, restando despicienda a perícia e a prova testemunhal, inexistente motivo para declaração de nulidade da r. sentença, a qual preencheu todos os requisitos do art. 489 do CPC."
+Na sentença, assim foi decidido, sobre produção probatória (fl. 205):
+"Demais disso, ao compulsar os autos, verifica-se que a premissa deduzida na exordial refere-se ao abuso das cláusulas contratuais, sendo matéria estritamente de direito. Portanto, cabe ao Juiz conferir as regras contratuais, eventual abuso e o próprio cálculo matemático já produzido.
+Desnecessária, para essa tarefa, eventual perícia contábil. Pontuo, sob outro aspecto processual, que a prova pericial, embora de grande valia, nem sempre é necessária."
+Contudo, as instâncias de origem não analisaram pedido trazido nestes autos desde a petição inicial, qual seja o de alongamento da dívida rural sob o argumento de que preenchidos os requisitos legais. Consequentemente, não justificaram, quanto a tal pretensão, o indeferimento do pedido de produção de provas (para evidenciar a frustração de safras e a capacidade de pagamento).
+Também houve conclusão pela improcedência dos pedidos por falta de provas após a denegação da produção probatória (pericial contábil para apurar anatocismo).
+Assim, ao negar a produção de prova e, ainda, ao desconsiderar as alegações da recorrente sobre o preenchimento dos requisitos necessários ao reconhecimento do direito ao alongamento da dívida originada de crédito rural, a Corte de origem acabou por cercear-lhe o direito de defesa.
+Nesse sentido:
+"RECURSOS ESPECIAIS. AÇÃO DE INDENIZAÇÃO. DANOS MATERIAIS E MORAIS. ADMINISTRAÇÃO E GESTÃO DE FUNDO DE INVESTIMENTO. MAXIDESVALORIZAÇÃO DO REAL. MUDANÇA DA POLÍTICA CAMBIAL. MÁ GESTÃO DO FUNDO. REQUERIMENTO DE PRODUÇÃO PROBATÓRIA. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA.
+1. Ação de indenização por danos materiais e morais em que se alega que as expressivas perdas decorreram de má gestão dos fundos de investimentos derivativos vinculados ao dólar, além de omissão de informações aos investidores dos riscos assumidos.
+2. Requerimento dos réus para produção de prova oral e pericial, bem como expedição de ofício ao Banco Central, para comprovação de suas alegações acerca da ciência dos investidores a respeito dos riscos assumidos e dos lucros que obtiveram nos meses anteriores, precisamente em decorrência do tipo de aplicação de risco, e para a demonstração da composição da carteira de investimentos e o enquadramento dos ativos.
+3. Esta Corte já firmou posicionamento no sentido de que configura cerceamento de defesa a decisão que, a despeito de pedido de produção probatória, julga de forma antecipada o pedido improcedente com fundamento na ausência de provas.
+4. Acolhimento da preliminar de cerceamento de defesa, para anular a sentença e determinar o retorno dos autos à origem a fim de que sejam produzidas as provas requeridas pelos réus.
+5. Recursos especiais parcialmente providos."
+(REsp 1119445/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, Rel. p/ Acórdão Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 24/09/2019, DJe 25/11/2019)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL E DO CONSUMIDOR. AÇÃO DE REVISÃO DE CONTRATO IMOBILIÁRIO. PROCESSUAL CIVIL. PRODUÇÃO DE PROVAS NECESSÁRIAS PARA O EXAME DA CONTROVÉRSIA. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA. OCORRÊNCIA. PROVIMENTO DO RECURSO. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL PROVIDO.
+1. Há cerceamento de defesa quando o juiz indefere a realização de prova oral e pericial, requeridas oportuna e justificadamente pela parte autora, com o fito de comprovar suas alegações, e o pedido é julgado improcedente por falta de provas. Precedentes.
+2. Agravo interno provido para, reconsiderando a decisão agravada, dar provimento ao recurso especial."
+(AgInt no REsp 1763342/RN, Rel. Min. Raul Araújo, QUARTA TURMA, julgado em 30/05/2019, DJe 21/06/2019)
+Assim, a decisão do Tribunal de Justiça do Estado de São Paulo que rechaçou o cerceamento de defesa, afirmando a suficiência da prova documental, é de ser reavaliada sob a perspectiva da necessidade de prova técnica para questões não apreciadas, como o alegado preenchimento dos requisitos para o alongamento da dívida e a comprovação de fenômenos agrícolas.
+Diante do exposto, dá-se provimento ao agravo interno para, em novo exame, conhecer do agravo e dar parcial provimento ao recurso especial, para anular o r. acórdão e a r. sentença, determinando o retorno dos autos à instância de origem, a fim de viabilizar a instrução processual e a realização das provas requeridas.
+É como voto.
