@@ -1,0 +1,20 @@
+DECISÃO
+Marcos Antonio de Queiroz opõe embargos de declaração à decisão, de minha lavra, que não conheceu do pedido de revisão criminal, assim ementada (fl. 63):
+PROCESSO PENAL. REVISÃO CRIMINAL. HOMICÍDIO CULPOSO. DOSIMETRIA. MAJORANTE DO ART. 121, § 4º, DO CP. REGIME PRISIONAL. NÃO CONFIGURAÇÃO DAS HIPÓTESES DO ART. 621 DO CPP. MERO INCONFORMISMO. UTILIZAÇÃO DA REVISÃO CRIMINAL COMO NOVO RECURSO. DESCABIMENTO. PRECEDENTES.
+Revisão criminal não conhecida.
+Alega, em síntese, que não houve manifestação expressa sobre a desproporcionalidade do critério aritmético utilizado na dosimetria da pena-base (fração de 1/3 por vetorial), o que configuraria a desproporcionalidade manifesta autorizadora da revisão (fl. 71).
+Também assevera que a decisão embargada deixou de analisar a impossibilidade jurídica da aplicação da majorante do art. 121, § 4º, do Código Penal, uma vez que o réu não possui qualificação técnica profissional, ponto que teria sido ignorado ao se validar a decisão rescindenda (fls. 71 e 73/74 ).
+Menciona que há erro de fato, vinculando-o ao não enfrentamento dos pontos acima, sem individualizar trecho específico do decisum (fl. 71).
+Pugna, assim, pela supressão do vício apontado (fl. 75).
+É o relatório.
+Os aclaratórios são manifestamente improcedentes.
+A decisão embargada foi clara e suficiente ao delimitar que a revisão criminal não se confunde com uma nova apelação e que a rediscussão da dosimetria ou da incidência de majorantes demanda violação frontal do texto legal ou erro teratológico, o que não se verificou na espécie (fls. 64/66).
+Quanto à alegação de omissão sobre o critério de aumento da pena-base, a decisão enfrentou o tema ao consignar expressamente que  a s alegações de  ..  e de desproporcionalidade no quantum de aumento da pena-base traduzem mero inconformismo com os critérios de julgamento adotados na decisão rescindenda  ..  o que não se confunde com contrariedade ao texto expresso da lei (fl. 65). Ao concluir que a via revisional era inadequada para reexaminar a discricionariedade vinculada do julgador na escolha das frações, tornou-se despicienda a análise aritmética detalhada proposta pela defesa, uma vez que a premissa para tal exame (o cabimento da revisão) foi afastada.
+No que tange à majorante do art. 121, § 4º, do Código Penal, a decisão tampouco foi omissa. Consignou-se que a decisão rescindenda (AREsp n. 2.567.315/GO) analisou a questão e concluiu, no exercício da jurisdição desta Corte Superior, que a conduta descrita nos autos se amoldava à inobservância de regra técnica. O decisum ora embargado foi taxativo ao afirmar que o fato de a conclusão da decisão desta Corte ter divergido da interpretação conferida pelo Tribunal de origem ou pelo Ministério Público  ..  não configura violação da lei ou erro judiciário, mas sim o exercício da própria atividade jurisdicional de interpretação da norma federal (fl. 65).
+Depreende-se, pois, que o embargante busca, sob o pretexto de sanar vícios inexistentes, a alteração do resultado do julgamento para fazer prevalecer a sua tese jurídica, finalidade estranha à via dos aclaratórios. Se a parte discorda dos fundamentos adotados, deve manejar o recurso próprio para manifestar sua insurgência, não sendo os embargos de declaração o meio adequado para o reexame da causa.
+A esse respeito: EDcl no REsp n. 2.004.455/PR, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, julgado em 6/11/2025, DJEN de 12/11/2025; EDcl no AgRg no REsp n. 2.215.748/RS, relatora Ministra Maria Marluce Caldas, Quinta Turma, julgado em 7/10/2025, DJEN de 14/10/2025; e EDcl no AgRg no AREsp n. 2.392.745/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 21/5/2024, DJe de 27/5/2024.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM REVISÃO CRIMINAL. ALEGAÇÃO DE OMISSÃO. INEXISTÊNCIA. REDISCUSSÃO DO MÉRITO. DESCABIMENTO. PRETENSÃO DE EFEITOS INFRINGENTES. IMPOSSIBILIDADE.
+Embargos de declaração rejeitados.
