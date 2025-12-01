@@ -1,0 +1,24 @@
+DECISÃO
+LUIS ANDRE SILVA DA SILVA alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul no HC n. 5246033-95.2025.8.21.7000, que manteve sua prisão preventiva.
+A defesa busca a revogação da custódia provisória do paciente, ainda que com a imposição de cautelares diversas, por reputar carente de fundamentação idônea o decreto preventivo e ausentes os requisitos do art. 312 do CPP.
+Indeferida a liminar e prestadas as informações, o Ministério Público Federal opinou pelo não provimento do recurso.
+Decido.
+Infere-se dos autos que o insurgente foi preso em flagrante, em 25/8/2025, pela suposta prática do delito de tráfico de drogas, por haver sido surpreendido na posse de 10,40 g de crack.
+O Juízo de origem decretou a prisão preventiva em decisão assim fundamentada (fls. 15-16, destaquei):
+Diante da análise dos requisitos e das hipóteses de decretação da prisão preventiva previstos nos arts. 312 e 313 do CPP, entendo que a mesma merece ser decretada, uma vez que, presente prova da materialidade e indícios de autoria ("fumus comissi delicti") segundo se extrai dos autos.
+A segregação cautelar do representado também se faz necessária para a garantia da ordem pública ("periculum libertatis" do agente), haja vista que, ao que tudo indica atuava como entregador de droga (tele-entrega), consoante informação fornecida à Polícia.
+O flagrado possui diversos antecedentes policiais (fl. 31, evento 1, OUT2), inclusive foi indiciado por homicídio recentemente nos autos 5007697-33.2025.8.21.0007 (fl. 3, evento 3, CERTANTCRIM1). Ademais a quantidade de droga apreendida permite um enorme fracionamento das porções de crak.
+Consoante recente decisão do Egrégio TJRS, embora o flagrado seja primário e sem antecedentes, a gravidade do fato, a potencialidade lesiva da droga apreendida e os indícios de atuação voltada à traficância evidenciam risco à ordem pública e inviabilizam a aplicação de medidas alternativas, conforme art. 282, §6º, do CPP.
+O Tribunal de origem ratificou a decisão de primeiro grau.
+A jurisprudência desta Corte Superior é firme em assinalar que, para submeter alguém à prisão cautelar, é cogente a fundamentação concreta, sob as balizas do art. 312 do CPP.
+Apoiado nessas premissas, verifico que se mostram suficientes as razões invocadas nas instâncias de origem para embasar a ordem de prisão do acusado, porquanto contextualizaram, em dados dos autos, a necessidade cautelar de sua segregação.
+Com efeito, o Juízo singular apontou a presença dos vetores contidos no art. 312 do Código de Processo Penal, em especial o risco de reiteração delitiva, em razão da existência de diversos antecedentes policiais, havendo sido o acusado indiciado por homicídio recentemente, bem como o modus operandi, "haja vista que, ao que tudo indica atuava como entregador de droga (tele-entrega), consoante informação fornecida à Polícia" (fl. 15, grifei).
+Essas circunstâncias revelam a periculosidade do agente e o risco de reiteração delitiva, dada a aparente habitualidad e da conduta, situação que, por si só, na linha da orientação que tem sido adotada por esta Corte, justifica a custódia cautelar.
+De fato, "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (RHC n. 108.629/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 11/6/2019 ).
+Além disso: "A jurisprudência desta Corte Superior é firme ao asseverar que, nas hipóteses em que a quantidade e/ou a natureza das drogas apreendidas e outras circunstâncias do caso revelem a maior reprovabilidade da conduta investigada, tais dados são bastantes para demonstrar a gravidade concreta do delito e, por conseguinte, justificar a custódia cautelar para a garantia da ordem pública" (AgRg no HC n. 652.004/MT, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 22/4/2021, destaquei).
+Concluo, então, haver sido demonstrada a exigência cautelar justificadora da manutenção da prisão preventiva do acusado .
+Por idênticos fundamentos, (art. 282, I, do Código de Processo Penal), a adoção de medidas cautelares diversas não se prestaria a evitar o cometimento de novas infrações penais.
+A propósito: "Tendo sido exposta de forma fundamentada e concreta a necessidade da prisão, revela-se incabível sua substituição por outras medidas cautelares mais brandas" (HC n. 745.982/MS, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 22/9/2022).
+À vista do exposto, nego provimento ao recurso em habeas corpus.
+Publique-se e intimem-se.
+EMENTA
