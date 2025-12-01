@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por IGREJA UNIVERSAL DO REINO DE DEUS contra a decisão monocrática de fls. 1311-1318, e-STJ, proferida por este signatário, que não conheceu do agravo (art. 1.042 do CPC/2015) interposto pela ora embargante.
+Em suas razões (fls. 1321-1325, e-STJ), a insurgente sustenta que a decisão embargada restou omissa, "ao fundamentar a r. decisão embargada no AgInt no AREsp n. 2.707.221/SP e no AgInt nos EDcl no AREsp n. 2.308.134/MA, sem, contudo, identificar os fundamentos determinantes e a similitude fática entre o presente caso concreto e os paradigmas invocados, limitando-se a transcrever as ementas dos julgados"(fl. 1322, e-STJ).
+Afirma que tais precedentes não se aplicam ao presente caso concreto por inexistência de similitude fática.
+Alega que os embargos de declaração foram opostos na origem contra a decisão que não conheceu do recurso especial, a fim de possibilitar a manifestação expressa do TJRJ a respeito de matéria eventualmente a ser ventilada em sede recursal a fim de evitar nulidade processual por supressão de instância.
+Impugnação ofertada às fls. 1.332-1.334, e-STJ, após o decurso do prazo, conforme certificado à fl. 1.330, e-STJ.
+É o breve relatório do necessário.
+Decido.
+Os embargos de declaração não merecem acolhimento, visto que a embargante não demonstrou a existência de vício a macular o julgado, possuindo o recurso nítido caráter infringente.
+1. Com efeito, nos estreitos lindes do artigo 1.022 do CPC/2015, o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontráveis em decisão, ou acórdão, não podendo ser utilizado como instrumento para a rediscussão do julgado.
+Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. AÇÃO REVISIONAL. SUPLEMENTAÇÃO DE APOSENTADORIA. VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE DE EXAME PELO STJ. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015 NÃO CONFIGURADA. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. INOVAÇÃO RECURSAL. EXTENSÃO DE VANTAGENS PECUNIÁRIAS OU REAJUSTES SALARIAIS. INCOMPATIBILIDADE. PRINCÍPIO DO MUTUALISMO. SÚMULA 83/STJ. DISSÍDIO PREJUDICADO. AGRAVO INTERNO DESPROVIDO.
+1. Inviável a análise de ofensa aos dispositivos constitucionais, ainda que para fins de prequestionamento, sob pena de usurpação da competência reservada à Corte Suprema.
+2. Não ficou configurada a violação dos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+3. A ausência de demonstração, nas razões do recurso especial, de como os dispositivos de lei federal foram ofendidos caracteriza deficiência na fundamentação, a ensejar o não conhecimento do recurso. Incidência da Súmula 284 do STF.
+4. A alegação de ofensa aos arts. 9º, 444, 468 da CLT; e 4º, III, 39, XIII, 51, IV, do Código de Defesa do Consumidor não foi deduzida previamente nas razões da apelação interposta, constituindo, portanto, inovação recursal, sendo inviável sua análise, ante o instituto da preclusão consumativa.
+5. Tendo o acórdão recorrido decidido em consonância com a jurisprudência desta Casa, incide, na hipótese, o enunciado n. 83 da Súmula do Superior Tribunal de Justiça, que abrange os recursos especiais interpostos com amparo nas alíneas a e/ou c do permissivo constitucional. Precedentes.
+6. Razões recursais insuficientes para a revisão do julgado.
+7. Agravo interno desprovido.
+(AgInt no REsp 1787260/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/05/2019, DJe 31/05/2019)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE QUALQUER DOS VÍCIOS PREVISTOS NO ART. 1.022 DO CPC/2015. REITERAÇÃO DE ARGUMENTOS DEVIDAMENTE EXAMINADOS. MERO INCONFORMISMO. CARÁTER PROTELATÓRIO. EMBARGOS DE DECLARAÇÃO REJEITADOS, COM ELEVAÇÃO DE MULTA.
+1. Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+2. No caso concreto, não se constatam os vícios alegados pela parte embargante, que busca rediscutir matérias devidamente examinadas e rejeitadas pela decisão embargada, o que é incabível no âmbito dos embargos declaratórios.
+3. A nova reiteração, pela parte embargante, de argumentos expressa e suficientemente examinados no acórdão embargado sobreleva o intuito manifestamente protelatório, ensejando a majoração da multa na forma prevista pelo art. 1.026, § 3º, do CPC/2015.
+4. Embargos de declaração rejeitados, com elevação da multa para o equivalente a 10% (dez por cento) sobre o valor da causa atualizado. Condicionada a interposição de qualquer outro recurso ao depósito prévio da pena.
+(EDcl nos EDcl nos EDcl no AgInt no AgInt no AREsp 1286419/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 20/05/2019, DJe 23/05/2019)
+No caso, não se conheceu do agravo (art. 1.042 do CPC/2015) interposto pela ora embargante em razão de sua intempestividade, pois, inobstante a ciência da referida decisão pelos representantes das partes em 04/06/2024, somente em 27/08/2024, após a rejeição de seguidos embargos de declaração opostos (fls. 1.105-1.106 e 1.125, e-STJ), a ora embargante interpôs o agravo em recurso especial de fls. 1.131-1.134, e-STJ, fora, portanto, do prazo de 15 (quinze) dias úteis previstos nos art. 994, inciso VIII, c/c os arts. 1.003, § 5º, 1.042, caput e 219, caput, todos do CPC/2015.
+Ressaltou-se, na oportunidade, o entendimento consolidado pela jurisprudência desta Corte no sentido de que embargos de declaração opostos contra decisão que não admite o recurso especial são manifestamente incabíveis e não interrompem o prazo recursal, tendo sido citados, a título exemplificativo, neste sentido, os julgados referidos nos embargos de declaração, a saber: AgInt no AREsp n. 2.707.221/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 10/2/2025, DJEN de 14/2/2025; e AgInt no AREsp 1.710.213/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 17/6/2024, DJe de 21/6/2024.
+Outrossim, não há falar em "extrema necessidade de oposição dos embargos de declaração" para possibilitar a manifestação da Corte de origem a respeito da portaria aplicável em relação ao valor das custas.
+Isso porque, o Juízo de admissibilidade do recurso especial é bifásico, de modo que qualquer pronunciamento (ou silêncio) do Tribunal de origem não vincula esta Corte Superior, a quem compete analisar, em definitivo, o preenchimento dos requisitos de admissibilidade do recurso especial.
+Ou seja, ainda que a Corte de origem não tivesse emitido qualquer pronunciamento sobre as custas, a matéria poderia ser apreciada por este STJ, pois relativa à admissibilidade do recurso especial - cujo exame, em definitivo, é feito neste Tribunal Superior.
+Não prospera, portanto, a alegação de "necessidade de esgotamento da instancia ordinária sob pena violação à regra de vedação de supressão de instância" (fl. 1323 e-STJ).
+No mais, a decisão foi devidamente fundamentada, e restou devidamente demonstrada a aplicação dos precedentes ao caso.
+Assim, inexistindo qualquer mácula a ser sanada, advirta-se, desde já, que a interposição de novos aclaratórios poderá ser apenada com multa.
+2. D o exposto, rejeito os embargos de declaração.
+Publique-se.
+Intimem-se.
+EMENTA
