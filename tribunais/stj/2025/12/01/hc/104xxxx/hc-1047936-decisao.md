@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de MIGUEL ACIOL VELEDA DA SILVA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL no processamento do Recurso em Sentido Estrito n. 5027470-36.2023.8.21.0039.
+Extrai-se dos autos que o paciente foi preso preventivamente em 26/1/2022 e posteriormente pronuncia do pela suposta prática do crime de homicídio qualificado. A defesa interpôs recurso em sentido estrito  Rese em outubro de 2023, o qual ainda se encontra pendente de julgamento pelo Tribunal de origem.
+No presente writ, a defesa sustenta:
+a) nulidade da decisão de pronúncia porque fundamentada exclusivamente em elementos de informação colhidos na fase inquisitorial;
+b) excesso de prazo da prisão preventiva, considerando que não há previsão de julgamento do recurso em sentido estrito interposto pela defesa.
+c) a custódia do paciente vem sendo mantida de forma automática e reiterada, não sendo revisada com a profundidade necessária a cada 90 dias, nos termos do art. 316, parágrafo único, do CP.
+d) o corréu Pierre Jonatas Daitx vem recebendo benefícios que foram negados ao paciente, como saídas temporárias para frequentar cursos e participar de celebrações religiosas, além da prisão domiciliar.
+Ressalta a suficiência das medidas cautelares alternativas à prisão.
+Requer, em liminar , a revogação da prisão preventiva imposta ao paciente, com eventual imposição de medida cautelar alternativa ou, subsidiariamente, que se determine ao TJRS o imediato julgamento do recurso em sentido estrito ou, ainda, a colocação do paciente em prisão domiciliar. No mérito, busca a concessão da ordem para que seja reconhecida a nulidade da pronúncia ou, subsidiariamente, a confirmação da liminar pleiteada.
+Liminar indeferida (fls. 2090/2091).
+Informações prestadas (fls. 2097/2150 e 2151/2155).
+Parecer do Ministério Público Federal  MPF pela denegação da ordem.
+Petição da defesa com considerações acerca do parecer ministerial (fls. 2162/2171).
+É o relatório.
+Decido.
+Insurge-se a defesa contra a demora do TJRS em julgar o recurso em sentido estrito interposto contra a pronúncia, o que tem prolongado a prisão preventiva.
+Prejudicado o argumento de nulidade da pronúncia por falta de embasamento em prova judicializada, haja vista que tal discussão deve ser travada em sede de recurso em sentido estrito (vide item 5.2 das razões recursais, fl. 1635), cuja demora no julgamento ora se insurge, não cabendo a esta Corte Superior se adiantar nesse debate, em supressão de instância.
+Para contexto, o paciente foi pronunciado pela prática, em concurso de pessoas, de homicídio qualificado de duas vítimas. De acordo com a denúncia, coube ao paciente transportar as vítimas até o local da execução, sendo os disparos de arma de fogo deflagrados pelo corréu Rodrigo William Vidal de Souza (fls. 60).
+Não foi possível verificar no site do TJRS se houve alguma movimentação recente no Rese, haja vista que a chave informada não está condizente (fl. 2101).
+Preso preventivamente desde 26/01/2022, o curso da ação penal se deu em tempo razoável em primeiro grau, considerando-se que são quatro os réus, tendo a decisão de pronúncia sido proferida em 28/08/2023 (fl. 80).
+Pelo extrato de consulta processual do Rese, o processo foi distribuído no Tribunal a quo há mais de 02 anos, em 23/10/2023. Muito celeremente foi apresentado parecer ministerial (26/10/2023), mas desde então o andamento processual está paralisado, tendo havido apenas remanejamentos de acervo.
+Portanto, não há como deixar de reconhecer que há demora excessiva pela instância precedente, impossibilitando a previsão quanto à data de eventual julgamento pelo Júri.
+Neste sentido:
+HABEAS CORPUS. PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. TESE DE EXCESSO DE PRAZO DA CUSTÓDIA E PARA A FORMAÇÃO DA CULPA. DEMORA EXCESSIVA CONFIGURADA. OFENSA AO PRINCÍPIO DA RAZOABILIDADE. ORDEM DE HABEAS CORPUS CONCEDIDA.
+1. O princípio constitucional disposto no art. 5.º, inciso LXXVIII, da Constituição da República, acrescido pela Emenda Constitucional n.º 45/2004, preconiza que "a todos, no âmbito judicial e administrativo, são assegurados a razoável duração do processo e os meios que garantam a celeridade de sua tramitação".
+2. A jurisprudência desta Corte entende que os prazos indicados para a consecução da instrução criminal servem apenas como parâmetro geral, pois variam conforme as peculiaridades de cada processo, à luz do princípio da razoabilidade.
+3. No caso, o Paciente está preso preventivamente desde o dia 27/11/2015 - ou seja, há aproximadamente 4 (quatro) anos -, sem qualquer previsão de julgamento pelo Tribunal do Júri, pois, desde 26/01/2017, os autos estão tramitando no Tribunal de Justiça do Estado do Rio de Janeiro em razão da interposição de recurso em sentido estrito pela acusação, que somente foi julgado em 30/04/2019 (mais de dois anos após a remessa dos autos à segunda instância) e desde 06/05/2019 o feito está concluso ao Desembargador Relator para a lavratura do acórdão, o que demonstra a evidente ofensa ao princípio da razoabilidade em razão do excesso de prazo da custódia cautelar e para a formação da culpa.
+Precedentes.
+4. Ordem de habeas corpus concedida para revogar a prisão preventiva do Paciente, se por outro motivo não estiver preso, advertindo-o da necessidade de permanecer no distrito da culpa e atender aos chamamentos judiciais, sem prejuízo de nova decretação de prisão provisória, por fato superveniente a demonstrar a necessidade da medida ou da fixação de medidas cautelares alternativas (art. 319 do Código de Processo Penal), desde que de forma fundamentada.
+(HC n. 465.422/RJ, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 5/11/2019, DJe de 26/11/2019.)
+Esta situação autoriza mitigar o enunciado da Súmula n. 21 do STJ, conforme precedentes:
+RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. EXCESSO DE PRAZO. PACIENTE PRESO CAUTELARMENTE HÁ MAIS DE 6 (SEIS) ANOS. CONSTRANGIMENTO ILEGAL EVIDENCIADO. SENTENÇA DE PRONÚNCIA. DESAFORAMENTO HÁ UM ANO SEM NOTÍCIA DE ENCAMINHAMENTO AO NOVO JUÍZO. SÚMULA N.º 21 DO STJ. MITIGAÇÃO. PRINCÍPIOS DA RAZOABILIDADE E DA DURAÇÃO RAZOÁVEL DO PROCESSO. RECURSO PROVIDO.
+1. O Réu pronunciado em 25/07/2014, está preso preventivamente desde 22/11/2012, ou seja, há mais de 6 (seis) anos, sem perspectiva de julgamento no Tribunal do Júri. Assim, em que pese a gravidade dos fatos apurados na ação penal e a presença de diversos incidentes que influenciaram significativamente no prolongamento do feito, constata-se excesso de prazo na formação da culpa.
+2. É certo que a teor da Súmula n.º 21 desta Corte, "pronunciado o réu, fica superada a alegação do constrangimento ilegal da prisão por excesso de prazo na instrução". Tal entendimento, porém, deve ser mitigado, à luz do Princípio da Razoabilidade, em se considerando que não pode o réu permanecer preso cautelarmente, de forma indefinida, no aguardo do julgamento do mérito, como na espécie.
+3. Após a sentença de pronúncia, o Ministério Público pleiteou o desaforamento do processo, sendo deferido o pedido em 16/05/2018 e, até a presente data, não houve impulsionamento do feito tampouco informação sobre a remessa dos autos ao novo Juízo competente.
+4. É de se reconhecer, portanto, que a demora injustificada configura, sem dúvidas, afronta ao Princípio da Duração Razoável do Processo, previsto no art. 5.º, inciso LXXVII, da Constituição da República, acrescido pela Emenda Constitucional n.º 45/2004 ("a todos, no âmbito judicial e administrativo, são assegurados a razoável duração do processo e os meios que garantam a celeridade de sua tramitação").
+5. Recurso ordinário em habeas corpus provido para revogar a prisão preventiva do Recorrente, se por outro motivo não estiver preso, advertindo-o da necessidade de permanecer no distrito da culpa e atender aos chamamentos judiciais, sem prejuízo de nova decretação de prisão provisória, por fato superveniente a demonstrar a necessidade da medida ou da fixação de medidas cautelares alternativas (art. 319 do Código de Processo Penal), desde que de forma fundamentada.
+(RHC n. 105.114/AL, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 4/6/2019, DJe de 14/6/2019.)
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. EXCESSO DE PRAZO PARA SENTENCIAR O PROCESSO. MITIGAÇÃO DO VERBETE N. 52 DA SÚMULA DO STJ. CONSTRANGIMENTO ILEGAL CONFIGURADO. HABEAS CORPUS CONCEDIDO.
+1. Há demora irrazoável e injustificada para o julgamento da ação penal, quando o paciente, segregado desde 10/12/2013, já tendo apresentado alegações finais, estando o processo pendente de julgamento há mais de um ano após o fim da instrução, sem previsão de quando será sentenciada a ação penal, admitindo-se, neste caso, a mitigação do verbete n. 52 da Súmula do STJ.
+2. Habeas corpus concedido,para soltura do paciente, face o constrangimento ilegal da prisão por excesso de prazo para julgamento da ação penal.
+(HC n. 347.757/SP, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 5/4/2016, DJe de 18/4/2016.)
+A elevada gravidade do crime e a reincidência do paciente recomendam que ele permaneça monitorado.
+Isso posto, nos termos do art. 34, XX, c/c art. 203, II, o Regimento Interno do STJ, não conheço do habeas corpus, mas concedo a ordem de ofício para revogar a prisão preventiva, a ser substituída por monitoramento eletrônico, cuja restrição espaço-temporal deverá ser definida pelo juízo de primeiro grau (Ação Penal n. 5004575-18.2022.8.21.0039).
+Publique-se.
+Intimem-se.
+EMENTA
