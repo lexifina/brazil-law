@@ -1,0 +1,22 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por MUNICÍPIO DE ITAGUAI, no qual se insurge contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+Apelação Cível. Ação indenizatória. Responsabilidade Civil. Acidente no viaduto construído pela MRS Logística S/A. Omissão do ente na fiscalização da obra. Sentença de procedência parcial, condenando os réus a indenizar o autor por dano moral no valor de R$ 30.000,00 (trinta mil reais). Existência do nexo de causalidade entre a conduta dos réus e os danos experimentados pelo requerente. Ausência de causas excludentes de responsabilidade (art. 37, §6º, da CR). Quantum estabelecido em observância às particularidades do caso concreto e aos princípios da razoabilidade e da proporcionalidade. Correção, de ofício, não que diz com os consectários legais. Recursos desprovidos. (fl. 647)
+Os embargos de declaração opostos foram rejeitados (fls. 708/714).
+Em suas razões recursais, a parte agravante sustenta o preenchimento dos requisitos de admissibilidade do recurso especial, argumentando a ofensa aos arts. 489, § 1º, IV e VI, e 1.022, I e II, do CPC, por insuficiência de fundamentação e omissões não sanadas nos embargos de declaração. Aponta violação do art. 944 do Código Civil, afirmando que o quantum indenizatório por danos morais é excessivo, contrariando a extensão do dano, a razoabilidade e a proporcionalidade.
+Sem contraminuta.
+É o relatório.
+Passo a decidir.
+Na origem, o Juízo de 1º Grau condenou solidariamente MRS e Município ao pagamento de R$ 30.000,00 (trinta mil reais) por danos morais decorrentes de acidente de trânsito ocorrido em viaduto construído pela MRS, no Município de Itaguaí.
+Com efeito, "a alegação de afronta ao art. 1.022 do CPC, de forma genérica, sem a efetiva demonstração de omissão do acórdão recorrido no exame de teses imprescindíveis para o julgamento da lide, impede o conhecimento do recurso especial, ante a deficiência na fundamentação (Súmula 284 do STF)" (AgInt no AREsp n. 1.740.605/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+No caso, quanto à alegada ofensa aos arts. 489, § 1º, IV e VI, e 1.022, I e II, do CPC, a parte recorrente não demonstra, de forma clara, qual seria o ponto omisso, contraditório ou obscuro do acórdão recorrido, bem como a sua importância para o deslinde da controvérsia, o que atrai a aplicação do óbice da Súmula 284 do STF, aplicável, por analogia, no âmbito desta Corte.
+No mérito, a alteração da conclusão do Tribunal a quo, acerca da observância aos princípios da razoabilidade e da proporcionalidade na fixação da indenização, ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7 do STJ.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO. RESPONSABILIDADE CIVIL. ACIDENTE AUTOMOBILÍSTICO. MORTE. DANOS MORAIS. VALOR DA CONDENAÇÃO. OBSERVÂNCIA AOS PRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE. MODIFICAÇÃO DO QUANTUM INDENIZATÓRIO. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA N. 7/STJ.
+1. Na origem, cuida-se de ação de procedimento ordinário ajuizada em desfavor do Estado do Espírito Santo, ora agravante, com o fim de obter reparação pelos danos morais decorrentes do falecimento de familiar dos autores, ocorrido após acidente automobilístico que envolveu veículo de propriedade do ente público.
+2. Em regra, não é cabível na via especial a revisão do montante que foi estipulado pelas instâncias ordinárias a título de indenização por danos morais, ante a impossibilidade de reanálise de fatos e provas por este Sodalício, conforme o óbice previsto na Súmula n. 7/STJ.
+3. A jurisprudência deste Superior Tribunal de Justiça admite, somente em caráter excepcional, que o quantum arbitrado seja alterado caso se mostre irrisório ou exorbitante, em clara afronta aos princípios da razoabilidade e da proporcionalidade, o que não se verifica na espécie.
+4. Agravo interno não provido (AgInt no AREsp 2.603.479/ES, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 19/9/2024).
+Isso posto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo, para não conhecer d o recurso especial.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+ EMENTA
