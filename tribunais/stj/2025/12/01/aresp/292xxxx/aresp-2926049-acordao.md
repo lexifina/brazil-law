@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 25/11/2025 a 01/12/2025, por unanimidade, conhecer do recurso e lhe dar provimento, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE IMISSÃO NA POSSE. IMÓVEL ADQUIRIDO POR TERCEIRO. CONTRATO DE LOCAÇÃO EM VIGOR. INADEQUAÇÃO DA VIA ELEITA. APLICAÇÃO DO ART. 5º DA LEI Nº 8.245/1991. AÇÃO DE DESPEJO. MEIO ADEQUADO. PRECEDENTES.
+1. O adquirente de imóvel locado sub-roga-se nos direitos e deveres do locador original e, ainda que denuncie o contrato de locação, a via processual adequada para reaver a posse direta do bem é a ação de despejo, nos termos do art. 5º da Lei nº 8.245/1991.
+2. Agravo conhecido. Recurso especial conhecido e provido.
+RELATÓRIO
+Trata-se de agravo interposto por AMANDA CAVALCANTE DE MELO e ALAN NELIO CAVALCANTI DE MELO contra decisão que inadmitiu recurso especial.
+O apelo extremo, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios assim ementado:
+"APELAÇÃO E AGRAVO INTERNO. DIREITO PROCESSUAL CIVIL. CONTRATO DE LOCAÇÃO POR PRAZO INDETERMINADO. VENDA DO IMÓVEL. AÇÃO DE IMISSÃO NA POSSE. ALEGAÇÃO DE INADEQUAÇÃO DA VIA ELEITA. REJEIÇÃO. PROCEDÊNCIA DO PEDIDO. LUCROS CESSANTES. CABIMENTO.
+1. A ação de imissão de posse deve ser utilizada como medida judicial por quem faz jus e está privado da posse de bem imóvel. Sobre o tema, cabe mencionar o Enunciado 487 da Súmula do STF, que determina: "será deferida a posse a quem, evidentemente, tiver o domínio, se com base neste for ela disputada".
+2. Se não existe qualquer relação locatícia entre o atual proprietário do imóvel e os requeridos, uma vez que foram devidamente notificados sobre o não interesse em manter o imóvel locado, a ação de imissão na posse é o instrumento cabível para reaver o imóvel.
+3. O julgamento de procedência do pedido, na ação de imissão de posse ou reivindicatória, de natureza real, pressupõe a prova da propriedade do imóvel, bem como a impossibilidade de ingresso na posse em face de ato de terceiro que o ocupa. Tendo o autor demonstrado ser legítimo proprietário do imóvel, bem como, não havendo prova, por parte do réu, de que o exercício da posse lhe seria legítimo, há que ser concedido o pleito de imissão de posse.
+4. O uso e gozo de bem por quem não é seu legítimo proprietário ou possuidor de boa-fé gera direito àquele que efetivamente detém a propriedade do bem de se ver indenizado por lucros cessantes, correspondentes ao valor do aluguel mensal do imóvel.
+5. Apelo não provido. Agravo interno prejudicado" (e-STJ fl. 384).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 459/465).
+No recurso especial (e-STJ fls. 481/489), os recorrentes alegam a violação do art. 5º da Lei nº 8.245/1991. Sustentam que a ação adequada para reaver o imóvel em casos de aquisição de imóvel locado é a ação de despejo, não servindo para esse propósito a ação de imissão de posse.
+Foram apresentadas contrarrazões ao recurso especial (e-STJ fls. 499/518).
+O recurso especial foi inadmitido (e-STJ fls. 524/525), dando ensejo à interposição do presente agravo (e-STJ fls. 529/538).
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE IMISSÃO NA POSSE. IMÓVEL ADQUIRIDO POR TERCEIRO. CONTRATO DE LOCAÇÃO EM VIGOR. INADEQUAÇÃO DA VIA ELEITA. APLICAÇÃO DO ART. 5º DA LEI Nº 8.245/1991. AÇÃO DE DESPEJO. MEIO ADEQUADO. PRECEDENTES.
+1. O adquirente de imóvel locado sub-roga-se nos direitos e deveres do locador original e, ainda que denuncie o contrato de locação, a via processual adequada para reaver a posse direta do bem é a ação de despejo, nos termos do art. 5º da Lei nº 8.245/1991.
+2. Agravo conhecido. Recurso especial conhecido e provido.
+VOTO
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência merece prosperar.
+A controvérsia central consiste em definir a via processual adequada para a retomada da posse direta, pelo adquirente, de imóvel que se encontrava locado ao tempo da alienação.
+O Tribunal de origem, por maioria, entendeu ser cabível a ação de imissão na posse, sob o fundamento de que, uma vez notificados os locatários sobre o desinteresse na continuidade da locação, o vínculo locatício se encerrou, tornando a posse dos recorrentes injusta. Conforme o voto condutor: "inexistindo contrato de locação em vigor, a ação de imissão na posse é o instrumento cabível para reaver o imóvel, objeto da lide" (e-STJ fl. 390).
+De início, afasta-se a incidência da Súmula nº 7/STJ. A própria decisão recorrida e o acórdão que a fundamenta partem da premissa fática de que havia um contrato de locação vigente quando da alienação do imóvel ao ora recorrido, como se extrai do voto vencido: "de acordo com a r. sentença, o imóvel estava alugado aos Apelantes ao tempo em que foi alienado ao Apelado" (e-STJ fl. 393).
+A questão posta no recurso especial não requer a alteração desse quadro fático, mas, sim, a definição da qualificação jurídica correta para tal situação, ou seja, qual a ação cabível diante desse fato incontroverso. Trata-se, portanto, de revaloração jurídica, o que afasta o óbice sumular.
+A jurisprudência deste Superior Tribunal de Justiça é consolidada no sentido de que, nos casos de aquisição de imóvel locado, a ação própria para a retomada do bem pelo adquirente é a de despejo, conforme expressa determinação do art. 5º da Lei nº 8.245/1991. O referido dispositivo legal estabelece que: "Seja qual for o fundamento do término da locação, a ação do locador para reaver o imóvel é a de despejo".
+A alienação do imóvel durante a vigência do contrato de locação não extingue automaticamente a relação locatícia, operando-se a sub-rogação do adquirente na posição do antigo locador.
+Dessa forma, ainda que o novo proprietário opte por denunciar o contrato, nos termos do art. 8º da mesma lei, a ação judicial para efetivar a desocupação do inquilino continua sendo a de despejo. O manejo da ação de imissão na posse, de natureza petitória, revela-se, portanto, inadequado para esse fim, pois a posse do locatário, nesse contexto, não é injusta, mas amparada por uma relação jurídica locatícia preexistente, cujo desfazimento e retomada do bem seguem rito próprio.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APELAÇÃO CÍVEL. AÇÃO DE IMISSÃO DE POSSE. SENTENÇA QUE EXTINGUIU O FEITO SEM RESOLUÇÃO DO MÉRITO POR FALTA DE INTERESSE DE AGIR E VIA ELEITA INADEQUADA. AÇÃO DE DESPEJO. VIA ADEQUADA. AQUISIÇÃO DE IMÓVEL ALUGADO. LEGITIMIDADE PARA A PROPOSITURA DA AÇÃO. VIOLAÇÃO DO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. VIOLAÇÃO DOS ARTS. 5º E 8º DA LEI N. 8.245/1991 e 485, VI, DO CPC. AUSÊNCIA. AGRAVO INTERNO PARCIALMENTE PROVIDO.
+1. Inexiste ofensa ao art. 1.022 do CPC quando a corte de origem examina e decide, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+2. Na aquisição do imóvel alugado, não há, de antemão, a ruptura do contrato de locação, que continua válido com a subrogação do comprador nos direitos e deveres do locador originário.
+3. Cabe ao adquirente do imóvel alugado, ao assumir a posição do antigo proprietário, decidir se quer denunciar o contrato, consoante dispõe a lei de locações ou dar continuidade à relação locatícia, na posição do antigo locador.
+4. Partindo-se da premissa que não há ruptura do contrato de locação com a aquisição do imóvel por terceiro, o novo proprietário poderá reaver a posse direta do bem por meio do ajuizamento da ação de despejo.
+5. A ação adequada para reaver o imóvel em casos de aquisição de imóvel alugado é a ação de despejo, não servindo para esse propósito a ação de imissão de posse, nos termos do art. 5º e 8º da Lei n. 8.245/1991.
+6. Agravo interno parcialmente provido" (AgInt no REsp 1.803.777/PA, Relator Ministro JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 14/10/2024, DJe de 16/10/2024 - grifou-se).
+"RECURSO ESPECIAL. LOCAÇÃO. AÇÃO DE IMISSÃO DE POSSE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. BEM IMÓVEL LOCADO. ALIENAÇÃO. CONTRATO DE LOCAÇÃO. DENÚNCIA PELO ADQUIRENTE. POSSIBILIDADE. ART. 8º DA LEI Nº 8.245/1991. RETOMADA DO BEM. PRETENSÃO. AÇÃO DE DESPEJO. VIA ADEQUADA. ART. 5º DA LEI Nº 8.245/1991.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Na origem, cuida-se de ação de imissão de posse proposta por adquirente de imóvel alugado , que pretende, após a denúncia do contrato de locação, reaver a posse direta do bem.
+3. As questões controvertidas no presente recurso podem ser assim resumidas: (i) se o acórdão recorrido padece de vício de nulidade por negativa de prestação jurisdicional e (ii) qual é a via processual adequada para a retomada da posse direta pelo adquirente de imóvel objeto de contrato de locação: ação de imissão de posse ou ação de despejo.
+4. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+5. A alienação do imóvel durante a relação locatícia não rompe a locação, que continuará tendo existência e validade, de modo que o adquirente que assume a posição do antigo proprietário tem o direito de denunciar o contrato se assim desejar ou de permanecer inerte e sub-rogar-se nos direitos e deveres do locador, dando continuidade à relação locatícia.
+6. O adquirente de imóvel locado tem direito de denunciar o contrato de locação na forma do art. 8º da Lei nº 8.245, mas só poderá reaver a posse direta do imóvel mediante o ajuizamento da ação de despejo, nos termos do art. 5º da mesma lei, sob pena de malferir o direito de terceiro que regularmente ocupa o bem.
+7. A ação adequada para reaver o imóvel em casos de aquisição de imóvel locado é a ação de despejo, não servindo para esse propósito a ação de imissão de posse.
+8. Recurso especial provido" (REsp 1.864.878/AM, Relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 30/8/2022, DJe de 5/9/2022 - grifou-se).
+"Imissão de posse. Bem adjudicado ocupado por inquilino. Necessidade de ação de despejo.
+1. Afirmando o Acórdão recorrido que o bem adjudicado está ocupado por inquilino, o desmancho do contrato de locação dar-se-á por ação de despejo, incabível a imissão de posse.
+2. Recurso especial não conhecido" (REsp 265.254/SP, Relator Ministro CARLOS ALBERTO MENEZES DIREITO, Terceira Turma, julgado em 30/5/2001, DJ de 20/8/2001, p. 461. - grifou-se).
+Verifica-se, portanto, que o acórdão recorrido está em manifesta dissonância com a jurisprudência desta Corte Superior, o que impõe a sua reforma. O voto vencido proferido no Tribunal de origem, aliás, aplicou com precisão o entendimento aqui consolidado, citando expressamente o REsp 1.864.878/AM (e-STJ fl. 394).
+A inadequação da via eleita configura ausência de interesse de agir, uma das condições da ação, o que acarreta a extinção do processo sem resolução de mérito, nos termos do art. 485, VI, do Código de Processo Civil.
+Ante o exposto, conheço do agravo para conhecer e dar provimento ao recurso especial, a fim de reformar o acórdão recorrido e, em consequência, julgar extinto o processo, sem resolução de mérito, por inadequação da via eleita.
+Em razão da modificação do julgado e do princípio da sucumbência, inverto os ônus sucumbenciais fixados na origem (e-STJ fl. 393). Assim, condeno a parte autora, ora recorrida, ao pagamento das custas processuais e dos honorários advocatícios em favor do patrono dos réus, os quais fixo em 12% (doze por cento) sobre o valor atualizado da causa, nos termos do art. 85, §§ 2º e 11, do CPC, observada a gratuidade judiciária, se for o caso.
+É o voto.
