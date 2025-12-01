@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 25/11/2025 a 01/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Marco Buzzi, João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PENHORA. EMBARGOS DE TERCEIRO. IMÓVEL FRAUDE À EXECUÇÃO. AUSÊNCIA DE DEMONSTRAÇÃO DE MÁ-FÉ. REEXAME DE PROVAS. SÚMULA 7 DO STJ.
+1. É pacífico nesta Corte que, não havendo registro da penhora, compete ao exequente fazer prova da má-fé do terceiro adquirente (Súmula 375, STJ).
+2. No caso, a revisão da conclusão do acórdão recorrido, que afastou a fraude à execução em razão da ausência de demonstração de má-fé do adquirente, exigiria reexame do acervo fático-probatório, providência vedada pela Súmula 7 d o STJ.
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por CONSTRUA - CONTRUÇÕES CIVIS LTDA em face de decisão da minha lavra, na qual neguei provimento ao agravo em recurso especial manejado pela parte.
+Na decisão, às fls. 411-413, entendi que o recurso especial interposto pela parte encontra óbice na Súmula 7 desta Corte, uma vez que demanda o reexame de fatos e provas.
+No agravo interno, às fls. 417-425, a agravante alega que "o recurso especial interposto pela agravante não objetiva o reexame do conjunto fático-probatório mas sim a correta aplicação do direito federal aos fatos incontroversos" (fl. 421).
+Não houve apresentação de impugnação, conforme certidão à fl. 429.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PENHORA. EMBARGOS DE TERCEIRO. IMÓVEL FRAUDE À EXECUÇÃO. AUSÊNCIA DE DEMONSTRAÇÃO DE MÁ-FÉ. REEXAME DE PROVAS. SÚMULA 7 DO STJ.
+1. É pacífico nesta Corte que, não havendo registro da penhora, compete ao exequente fazer prova da má-fé do terceiro adquirente (Súmula 375, STJ).
+2. No caso, a revisão da conclusão do acórdão recorrido, que afastou a fraude à execução em razão da ausência de demonstração de má-fé do adquirente, exigiria reexame do acervo fático-probatório, providência vedada pela Súmula 7 d o STJ.
+3. Agravo interno a que se nega provimento.
+VOTO
+Cuida-se, na origem, de embargos de terceiro opostos pelo agravado, Leandro Porto, em face da agravante, Construa - Construções Civis LTDA.
+Em primeira instância, os embargos foram julgados procedentes. Interposta apelação pela agravante, o Tribunal de Justiça do Estado do Paraná negou provimento ao recurso, por entender que não houve demonstração de fraude à execução na aquisição do imóvel pelo embargante, ora agravado. Transcrevo:
+No caso em tela, a apelante para evidenciar o conluio do apelado/adquirente posterior com a fraude à execução asseverou que o embargante não foi capaz de provar as alegações expostas na exordial. Mencionou que, não foi juntado qualquer comprovante de pagamento pelo imóvel; tampouco comprovante de que houve intermediação de corretor para aquisição do imóvel; incongruência entre a declaração ao fisco e a constante na escritura de compra e venda e da atuação do mesmo procurador do apelado e dos executados.
+De outro turno, o apelado reafirmou sua condição de terceiro de boa-fé, aduzindo que o fato da não apresentação dos comprovantes de pagamento da negociação ou do corretor e das informações dissonantes entre a declaração de imposto e renda com a escritura pública não tem condão de infirmar a higidez da negociação. Afirmou, também que a procuração para que o patrono representasse os interesses do apelado foi outorgado somente em 03/2021, no momento do recebimento da intimação oriunda dos autos de execução.
+De fato a juntada dos comprovantes de pagamento do imóvel e da intermediação do corretor, evidenciaria com maior clareza a condição de boa-fé do apelado/adquirente posterior.
+Ocorre que, diante da ausência de tais documentos, o meio de prova requerido pelo apelante/requerido foi a apresentação da DIRPF do embargante para aferir sua possibilidade financeira para aquisição do imóvel.
+Em análise dos documentos 46.2 à 46.7, verifica-se que o apelado tinha numerário suficiente no ano de 2018. Tal numerário foi suprimido conjecturando a sua utilização para aquisição do imóvel em 2019. Evidencia-se também que o imóvel sub judice foi declaração do ano de 2019 nos itens bens e direito. Por fim, destaca-se que as declarações de ajuste original, ou seja, não houve qualquer retificação delas.
+Logo, vislumbrado que o apelado detinha condições financeiras para aquisição do imóvel sub judice.
+No tocante as divergências entre a declaração de imposto de renda e da escritura pública de compra e venda se trata de mera irregularidade tributário, restando, insuficiente para a caracterização de fraude à execução.
+Também é incapaz de configurar a fraude à execução a atuação do procurador do apelado, eis que iniciou seu patrocínio somente em 09/04/2021. Outrossim, no histórico de substabelecimento nos autos 0017610-02.2016.8.16.0130 não consta o nome do causídico como procurador dos executados, vejamos:
+ ..
+Desta feita, o conteúdo probatório apresentado foi insuficiente para demonstrar que o apelado participou no conluio para fraudar a execução, ou seja, caberia a apelante/requerida comprovar o liame do adquirente posterior com os executados e a Sra. Natalia na transação imobiliária com intenção de fraudar à execução, seja, na oitiva de testemunha da Sra. Natália Suelen Costa e Silva, na oitiva dos executados Sr. Manoel Queiroz da Silva e esposa, documentos que comprovasse vínculo entre eles entre outros. Logo, careceu a requerida no ônus que lhe cabia.
+Diante do acórdão, a agravante interpôs recurso especial, que não foi admitido pelo Tribunal local. Eis então que foi interposto agravo em recurso especial, ao qual neguei provimento, na decisão agravada de fls. 411-413, por entender que há óbice da Súmula 7 desta Corte.
+Em que pesem os argumentos da agravante, entendo que perquirir se houve ou não má-fé do agravado na aquisição do imóvel objeto dos embargos de terceiro demandaria o reexame do acervo probatório dos autos, notadamente da escritura pública e da declaração de imposto de renda do embargante/agravado, referenciados no acórdão.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - EMBARGOS DE TERCEIROS - DECISÃO MONOCRÁTICA QUE CONHECEU PARCIALMENTE DO AGRAVO E, NESSA EXTENSÃO, NÃO CONHECEU DO RECURSO ESPECIAL. INSURGÊNCIA RECURSAL DO DEMANDADO.
+1. É incabível a interposição de agravo contra decisão que nega seguimento ao apelo nobre, na hipótese em que a matéria tenha sido julgada em harmonia com tese definida em recurso repetitivo, sendo cabível o agravo interno perante o Tribunal local, não sendo admitida a aplicação do princípio da fungibilidade recursal.
+2. Rever a conclusão do acórdão recorrido quanto à inexistência de fraude à execução demandaria o reexame do conjunto fático e probatório dos autos, providência que encontra óbice no disposto na Sumula 7 do STJ. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.463.232/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/8/2024, DJe de 29/8/2024.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. FRAUDE À EXECUÇÃO. REGISTRO DA PENHORA. AUSÊNCIA. SÚMULA 375/STJ. PROVA DA MÁ-FÉ DO TERCEIRO ADQUIRENTE. NECESSIDADE. ÔNUS DO EXEQUENTE. AGRAVO INTERNO DESPROVIDO.
+1. De acordo com a pacífica jurisprudência do Superior Tribunal de Justiça, cristalizada na Súmula 375, "O reconhecimento da fraude à execução depende do registro da penhora do bem alienado ou da prova de má-fé do terceiro adquirente". E mais, nos termos da tese firmada pela Corte Especial do STJ, em sede de julgamento de recurso especial repetitivo, "inexistindo registro da penhora na matrícula do imóvel, é do credor o ônus da prova de que o terceiro adquirente tinha conhecimento de demanda capaz de levar o alienante à insolvência" (REsp 956.943/PR, Rel. p/ acórdão Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, julgado em 20/08/2014, DJe de 1º/12/2014).
+2. Trata-se de compreensão lógica, aprimorada pelos textos normativos que a consagram, de que não há razoabilidade em exigir-se de terceiro interessado na aquisição de um bem imóvel o enorme sacrifício de, antes da compra, percorrer o País buscando obter, nos inúmeros foros cíveis, trabalhistas e federais, certidões negativas acerca de eventual existência de ação que possa reduzir à insolvência o proprietário daquele imóvel a ser adquirido. Muito mais sensato e fácil é se exigir que o próprio credor eventualmente interessado na penhora ou adjudicação de imóvel pertencente a seu devedor promova, na respectiva matrícula imobiliária, o acautelador registro de sua pretensão ou constrição sobre o bem, de modo a dar amplo conhecimento a terceiros.
+3. Por isso, esta Corte Superior, mesmo no sistema legal anterior à Lei 8.953/94, já entendia depender a caracterização de fraude à execução, quando o credor não efetuara a singela cautela do registro imobiliário da penhora ou de outra pretensão reipersecutória, da prova de que o terceiro adquirente tinha plena ciência da situação de insolvência do alienante, não sendo cabível presunção de má-fé do adquirente a título oneroso. Precedentes.
+4. Na hipótese, é incontroversa a inexistência de registro imobiliário da penhora ou mesmo de averbação acerca da existência da execução, de modo que, para se alterar a conclusão a que chegou o eg. Tribunal de Justiça, de que o exequente não comprovou a alegada má-fé dos terceiros adquirentes, seria necessária a reanálise do acervo fático-probatório dos autos, o que esbarra nos óbices das Súmulas 7 e 375, ambas do STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.796.400/GO, relator Ministro Raul Araújo, Quarta Turma, julgado em 8/8/2023, DJe de 22/8/2023.)
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
