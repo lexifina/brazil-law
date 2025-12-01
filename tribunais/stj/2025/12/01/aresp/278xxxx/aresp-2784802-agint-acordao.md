@@ -1,0 +1,71 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 25/11/2025 a 01/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO PROCESSUAL CIVIL E EMPRESARIAL. AGRAVO INTERNO. FALÊNCIA. NULIDADE DE ARREMATAÇÃO. ÓBICES SUMULARES E PREQUESTIONAMENTO. AGRAVO INTERNO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto contra decisão monocrática que negou provimento ao agravo em recurso especial por incidência das Súmulas n. 282, 283 e 284 do STF e 211 do STJ.
+2. A controvérsia diz respeito a agravo de instrumento, em processo de falência, que discutiu a nulidade de arrematação de imóvel, o prazo para impugnação e a natureza jurídica do recorrente na relação processual.
+3. A Corte a quo manteve a decisão que considerou o recorrente credor da massa falida, reputou intempestiva a impugnação à arrematação, aplicou o art. 143 da Lei n. 11.101/2005 e assentou que, anulada a primeira praça por fraude, o recorrente deve habilitar seu crédito no processo falimentar.
+II. QUESTÃO EM DISCUSSÃO
+4. Há duas questões em discussão: (i) saber se incidem as Súmulas n. 283 e 284 do STF quando o recurso especial não rebate os fundamentos autônomos do acórdão recorrido; e (ii) saber se há prequestionamento, ainda que implícito, do art. 105, caput, do Código de Processo Civil, para o fim de afastar as Súmulas n. 282 do STF e 211 do STJ.
+III. RAZÕES DE DECIDIR
+5. O agravo interno não prospera porque o recurso especial não infirmou os dois fundamentos autônomos do acórdão  nulidade da arrematação e necessidade de habilitação do crédito  , incidindo as Súmulas n. 283 e 284 do STF.
+6. Não há prequestionamento do art. 105, caput, do Código de Processo Civil, pois a matéria não foi debatida no acórdão recorrido nem nos embargos de declaração, sendo aplicável, assim, as Súmulas n. 282 do STF e 211 do STJ.
+7. Não é o caso de prequestionamento implícito, pois a Corte de origem não emitiu juízo de valor sobre a tese apresentada pela parte recorrente.
+8. A alegação de condição de terceiro interessado não supera os fundamentos determinantes fixados pela Corte de origem sobre a nulidade da arrematação e a necessidade de habilitação do crédito no processo falimentar.
+IV. DISPOSITIVO E TESE
+9. Agravo interno desprovido.
+Tese de julgamento: "1. Incidem as Súmulas n. 283 e 284 do STF quando o recurso especial não combate especificamente os fundamentos autônomos suficientes do acórdão recorrido. 2. Sem prévio enfrentamento da matéria federal pela Corte de origem, a despeito da oposição de embargos de declaração para tal finalidade, é inviável o recurso especial por ausência de prequestionamento, aplicando-se as Súmulas n. 282 do STF e 211 do STJ. 3. O prequestionamento implícito não se verifica quando a matéria não é apreciada e solucionada pelo Tribunal de origem, ou seja, quando não houve emissão de juízo de valor sobre a tese suscitada".
+Dispositivos relevantes citados: Lei n. 11.101/2005, art. 143, caput; Código de Processo Civil, arts. 903, § 2º, 105, caput, e 1.022.
+Jurisprudência relevante citada: STF, Súmulas n. 282, 283, 284; STJ, Súmula n. 211; STJ; AgInt no AREsp n. 1.767.078/DF, relator Ministro Marco Buzzi, quarta turma, julgado em 26/9/2022; STJ; AgInt no AREsp n. 2.010.772/RS, relator Ministro Ricardo Villas Bôas Cueva, terceira turma, julgado em 12/9/2022; STJ; AgInt no AREsp n. 2.407.762/SP, relator Ministro Mauro Campbell Marques, segunda turma, julgado em 22/4/2024; STJ; AgInt no REsp n. 2.121.389/DF, relator Ministro Marco Aurélio Bellizze, terceira turma, julgado em 10/6/2024.
+RELATÓRIO
+Trata-se de agravo interno interposto por CARLOS RENÉ CARVALHO PINHEIRO contra a decisão de fls. 185-188, que negou provimento ao agravo em recurso especial, em razão da incidência dos óbices das Súmulas n. 283 e 284 do STF (falta de impugnação dos principais fundamentos do acórdão e deficiência de fundamentação) e das Súmulas n. 282 do STF e 211 do STJ (ausência de prequestionamento quanto ao art. 105, caput, do CPC).
+Alega que não incidem as Súmulas n. 283 e 284 do STF, porque todos os fundamentos do acórdão foram impugnados, distinguindo fundamentos autônomos e capítulos, e que as razões do recurso especial são claras e suficientes à compreensão da controvérsia.
+Sustenta a inaplicabilidade das Súmulas n. 282 do STF e 211 do STJ, afirmando existir prequestionamento implícito da matéria relativa ao art. 105, caput, do CPC, com exame adequado da questão jurídica sobre a validade do substabelecimento, sem necessidade de indicação numérica expressa, afastando a necessidade de invocação do art. 1.022 do CPC.
+Afirma que o Tribunal a quo equivocou-se ao considerar o agravante credor da massa falida e a impugnação intempestiva, pois, na qualidade de terceiro interessado, se aplica o prazo de 10 dias do art. 903, § 2º, do CPC, e não o prazo de 48 horas do art. 143, caput, da Lei n. 11.101/2005.
+Requer a reconsideração da decisão monocrática ou a remessa para julgamento colegiado.
+As contrarrazões não foram apresentadas, conforme as certidões de fls. 203-205.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL E EMPRESARIAL. AGRAVO INTERNO. FALÊNCIA. NULIDADE DE ARREMATAÇÃO. ÓBICES SUMULARES E PREQUESTIONAMENTO. AGRAVO INTERNO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto contra decisão monocrática que negou provimento ao agravo em recurso especial por incidência das Súmulas n. 282, 283 e 284 do STF e 211 do STJ.
+2. A controvérsia diz respeito a agravo de instrumento, em processo de falência, que discutiu a nulidade de arrematação de imóvel, o prazo para impugnação e a natureza jurídica do recorrente na relação processual.
+3. A Corte a quo manteve a decisão que considerou o recorrente credor da massa falida, reputou intempestiva a impugnação à arrematação, aplicou o art. 143 da Lei n. 11.101/2005 e assentou que, anulada a primeira praça por fraude, o recorrente deve habilitar seu crédito no processo falimentar.
+II. QUESTÃO EM DISCUSSÃO
+4. Há duas questões em discussão: (i) saber se incidem as Súmulas n. 283 e 284 do STF quando o recurso especial não rebate os fundamentos autônomos do acórdão recorrido; e (ii) saber se há prequestionamento, ainda que implícito, do art. 105, caput, do Código de Processo Civil, para o fim de afastar as Súmulas n. 282 do STF e 211 do STJ.
+III. RAZÕES DE DECIDIR
+5. O agravo interno não prospera porque o recurso especial não infirmou os dois fundamentos autônomos do acórdão  nulidade da arrematação e necessidade de habilitação do crédito  , incidindo as Súmulas n. 283 e 284 do STF.
+6. Não há prequestionamento do art. 105, caput, do Código de Processo Civil, pois a matéria não foi debatida no acórdão recorrido nem nos embargos de declaração, sendo aplicável, assim, as Súmulas n. 282 do STF e 211 do STJ.
+7. Não é o caso de prequestionamento implícito, pois a Corte de origem não emitiu juízo de valor sobre a tese apresentada pela parte recorrente.
+8. A alegação de condição de terceiro interessado não supera os fundamentos determinantes fixados pela Corte de origem sobre a nulidade da arrematação e a necessidade de habilitação do crédito no processo falimentar.
+IV. DISPOSITIVO E TESE
+9. Agravo interno desprovido.
+Tese de julgamento: "1. Incidem as Súmulas n. 283 e 284 do STF quando o recurso especial não combate especificamente os fundamentos autônomos suficientes do acórdão recorrido. 2. Sem prévio enfrentamento da matéria federal pela Corte de origem, a despeito da oposição de embargos de declaração para tal finalidade, é inviável o recurso especial por ausência de prequestionamento, aplicando-se as Súmulas n. 282 do STF e 211 do STJ. 3. O prequestionamento implícito não se verifica quando a matéria não é apreciada e solucionada pelo Tribunal de origem, ou seja, quando não houve emissão de juízo de valor sobre a tese suscitada".
+Dispositivos relevantes citados: Lei n. 11.101/2005, art. 143, caput; Código de Processo Civil, arts. 903, § 2º, 105, caput, e 1.022.
+Jurisprudência relevante citada: STF, Súmulas n. 282, 283, 284; STJ, Súmula n. 211; STJ; AgInt no AREsp n. 1.767.078/DF, relator Ministro Marco Buzzi, quarta turma, julgado em 26/9/2022; STJ; AgInt no AREsp n. 2.010.772/RS, relator Ministro Ricardo Villas Bôas Cueva, terceira turma, julgado em 12/9/2022; STJ; AgInt no AREsp n. 2.407.762/SP, relator Ministro Mauro Campbell Marques, segunda turma, julgado em 22/4/2024; STJ; AgInt no REsp n. 2.121.389/DF, relator Ministro Marco Aurélio Bellizze, terceira turma, julgado em 10/6/2024.
+VOTO
+A irresignação não reúne condições de prosperar.
+A controvérsia diz respeito a agravo de instrumento, em processo de falência, que discutiu a nulidade de arrematação de imóvel, o prazo para impugnação e a natureza jurídica do agravante na relação processual.
+A Corte a quo manteve a decisão que considerou o agravante credor da massa falida, reputou intempestiva a impugnação à arrematação, aplicou o art. 143 da Lei n. 11.101/2005 e assentou que, anulada a primeira praça por fraude, o agravante deve habilitar seu crédito no processo falimentar.
+Sobreveio recurso especial, em que o recorrente alegou violação do art. 143, caput, da Lei n. 11.101/2005, do art. 903, § 2º, do CPC, e do art. 105, caput, do CPC, defendendo sua condição de terceiro interessado, o prazo de 10 dias para impugnação e a validade do substabelecimento outorgado ao seu advogado.
+Nas razões do agravo interno, sustenta a inaplicabilidade das Súmulas n. 283 e 284 do STF, porque teria impugnado todos os fundamentos do acórdão dentro dos capítulos recorridos e porque suas razões seriam suficientes e claras. Também afirma a inaplicabilidade das Súmulas n. 282 do STF e 211 do STJ, por existir prequestionamento implícito quanto ao art. 105, caput, do CPC, com exame da validade do substabelecimento.
+Conforme consta na decisão agravada, o acórdão estadual assentou dois fundamentos determinantes: (i) o recorrente não é arrematante, pois a arrematação foi anulada por fraude; e (ii) para reaver o valor pago, deve se habilitar como credor da massa falida, atraindo a regra do art. 143 da Lei n. 11.101/2005.
+O recurso especial limitou-se a afirmar a condição de terceiro interessado e o prazo de 10 dias do art. 903, § 2º, do CPC, sem infirmar especificamente os fundamentos acima. Daí a incidência das Súmulas n. 283 e 284 do STF, por ausência de ataque aos fundamentos autônomos suficientes do acórdão e por deficiência de fundamentação capaz de permitir a exata compreensão da controvérsia.
+Assim, não obstante as alegações apresentadas neste agravo interno sobre a inaplicabilidade das Súmulas n. 283 e 284 do STF, permanece hígido o juízo de que os principais fundamentos do acórdão não foram rebatidos. O argumento de que o recorrente seria terceiro interessado, por si só, não supera os pilares do acórdão quanto à nulidade da arrematação e à necessidade de habilitação do crédito no processo falimentar, razão pela qual se mantém a conclusão da decisão agravada.
+De igual modo, não prospera o recurso no que se refere à alegada existência de prequestionamento implícito acerca do art. 105, caput, do CPC.
+A decisão agravada registrou que a matéria não foi objeto de debate no acórdão recorrido nem nos embargos de declaração, hipótese típica de aplicação das Súmulas n. 282 do STF e 211 do STJ. Para viabilizar eventual conhecimento do tema em recurso especial, caberia suscitar violação do art. 1.022 do CPC, o que não ocorreu. Ausente o indispensável prequestionamento, a manutenção do óbice é medida que se impõe.
+Saliento que, em que pese seja desnecessária a menção explícita ao número do dispositivo legal, considera-se preenchido o requisito do prequestionamento quando o tribunal de origem se manifesta acerca da matéria inserta no dispositivo de lei federal apontado como violado (AgInt no AREsp n. 1.767.078/DF, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/9/2022, DJe de 29/9/2022; e AgInt no AREsp n. 2.010.772/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 12/9/2022, DJe de 19/9/2022).
+Vale ressaltar ainda que não é o caso de prequestionamento implícito, visto que, além de não abordar expressamente a norma infraconstitucional indicada no recurso especial, a Corte a quo não emitiu juízo de valor sobre o tema apresentado pela parte recorrente.
+A esse respeito, confira-se o seguinte precedente desta Corte:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DEINSTRUMENTO. CUMPRIMENTO DE SENTENÇA. OCORRÊNCIA DEPREQUESTIONAMENTO FICTO E OBSERVÂNCIA DE DIVERGÊNCIANOTÓRIA. PRETENSÃO POR CORRETA QUALIFICAÇÃO JURÍDICA DOCONTEXTO FÁTICO-PROBATÓRIO. DEPÓSITO EM GARANTIA DO JUÍZO.ATUAÇÃO QUE NÃO AFASTA OS CONSECTÁRIOS DA MORA DODEVEDOR. APLICAÇÃO DE ENTENDIMENTO DO SUPERIOR TRIBUNALDE JU STIÇA. ACOLHIMENTO DO PLEITO. MANUTENÇÃO DA DECISÃOAGRAVADA. AGRAVO INTERNO DESPROVIDO.
+1. Consoante orientação do Superior Tribunal de Justiça, "somente se poderáentender pelo prequestionamento implícito quando a matéria tratada no dispositivolegal for apreciada e solucionada pelo Tribunal de origem, de forma que se possa reconhecer qual norma direcionou o decisum objurgado" (AgInt no AREsp n. 2.407.762/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 22/4/2024, DJe de 25/4/2024).
+ ..
+5. Agravo interno desprovido.
+(AgInt no REsp n. 2.121.389/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 10/6/2024, DJe de 13/6/2024, destaquei.)
+Nesse contexto, a tese de que o exame da validade do substabelecimento teria ocorrido de forma implícita não elide a necessidade de prévio enfrentamento da questão federal pelo Tribunal de origem, tampouco substitui o manejo de embargos de declaração para provocar o pronunciamento específico. A decisão agravada bem destacou essa exigência, confirmando a incidência dos óbices sumulares.
+Portanto, a parte agravante não logrou êxito em demonstrar situação superveniente que justificasse a alteração da decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
