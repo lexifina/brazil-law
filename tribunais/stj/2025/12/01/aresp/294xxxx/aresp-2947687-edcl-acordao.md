@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 25/11/2025 a 01/12/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE E ERRO MATERIAL NÃO VERIFICADOS. MATÉRIA DE ORDEM PÚBLICA. CONHECIMENTO. IMPOSSIBILIDADE.
+1. Ausentes quaisquer dos vícios ensejadores dos embargos de declaração, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir omissão, afastar obscuridade, eliminar contradição ou corrigir erro material, mas, sim, reformar o julgado por via inadequada.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por NEWE SEGUROS S.A. ao acórdão que conheceu do agravo para conhecer em part e do recurso especial e, nessa extensão, negar-lhe provimento (e-STJ fls. 305/310).
+Nas presentes razões, a embargante defende que "(..) o pedido de reanálise da primeira negativa de pagamento da indenização não suspende o prazo prescricional" (e-STJ fl. 316).
+Sem impugnação (e-STJ fl. 323).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE E ERRO MATERIAL NÃO VERIFICADOS. MATÉRIA DE ORDEM PÚBLICA. CONHECIMENTO. IMPOSSIBILIDADE.
+1. Ausentes quaisquer dos vícios ensejadores dos embargos de declaração, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir omissão, afastar obscuridade, eliminar contradição ou corrigir erro material, mas, sim, reformar o julgado por via inadequada.
+2. Embargos de declaração rejeitados.
+VOTO
+Não prospera a inconformidade veiculada nos presentes aclaratórios.
+De fato, a decisão embargada não padece de nenhum dos vícios ensejadores dos declaratórios enumerados no art. 1.022 do Código de Processo Civil: obscuridade, contradição, omissão ou erro material.
+Conforme já disposto, o tribunal local assim consignou:
+"(..)
+Portanto, primeiro deve ser analisado se e quando o segurado efetivamente tomou conhecimento da negativa do pagamento da indenização securitária, e se o aviso do sinistro (apto a suspender a prescrição) foi formalizado dentro do prazo legal.
+Nesse passo, importante considerar que: (i) os eventos climáticos alegados pelo Autor iniciaram com o período de chuva excessiva de setembro até outubro de 2021, seguido de severa e prolongada estiagem; (ii) a carta negativa datada de 01/dezembro/2021 foi encaminhada à corretora de seguros , que recebeu informação do encerramento do processo de regulação do sinistro por e-mail enviado em 17/dezembro/2021 ; (iii) além do laudo final juntado pela Ré ao mov. 30.14, respeitante à vistoria feita em 29/11/2021, o Autor colacionou outro laudo final referente à vistoria realizada em 20/02/2022 havendo em ambos a menção do sinistro nº 1000100029299; (iv) a petição inicial também foi instruída com e-mails trocados entre a corretora de seguros e a Ré, constando que esta, após ser questionada sobre o processo do segurado/autor, informou àquela em 22/11/2022 que "O processo de sinistro em referência permanece em análise"; (v) a presente demanda foi proposta em 02/fevereiro/2023.
+Assim, havendo a regulação do sinistro (registrado sob nº1000100029299) perante a seguradora, ocorreu a suspensão do prazo prescricional, nos moldes da súmula 229 do Superior Tribunal de Justiça, prazo que torna a correr após o segurado ter ciência da decisão administrativa da seguradora sobre o não pagamento da indenização securitária, não sendo hábil para tanto a negativa administrativa datada de 01/12/2021 e o e-mail enviado em 17/12/2021. Isso porque os demais documentos juntados pelo Autor demonstram que houve continuidade da regulação do sinistro, tanto que a última vistoria realizada pela Ré ocorreu em 20/02/2022, sendo que embora tenha sido cobrada pela corretora a carta resposta concernente ao mencionado laudo, não há documentos nesse sentido nos autos.
+Nessa conjuntura, impõe-se reconhecer que não decorreu o prazo prescricional, verificando-se que no próprio corpo da contestação foi reproduzido parcialmente o laudo referente à vistoria datada de 20/02/2022.
+(..)
+Logo, como não há comprovação da ciência inequívoca do segurado acerca da decisão da regulação administrativa do sinistro com laudo final de vistoria feita em 20/02/2022, não há que se falar em prescrição" (e-STJ fls. 137/139).
+Desse modo, rever a conclusão do acórdão recorrido de que não há falar em prescrição, tendo em vista a inexistência de comprovação da ciência inequívoca do segurado acerca da decisão administrativa do sinistro com laudo final da vistoria, demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inviável ante a natureza excepcional da via eleita, a teor do disposto na Súmula nº 7/STJ.
+Ademais, verifica-se que o acórdão recorrido está em consonância com a jurisprudência desta Corte Superior.
+A propósito:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. COBERTURA SECURITÁRIA. PRESCRIÇÃO. PRAZO ÂNUO. TERMO A QUO. DATA DA CIÊNCIA DA INVALIDEZ. SUSPENSÃO DO PRAZO. PEDIDO ADMINISTRATIVO. AÇÃO DE EXIBIÇÃO DE DOCUMENTOS. INTERRUPÇÃO.
+1. Nos termos do artigo 206, § 1º, II, do Código Civil de 2002 é ânuo o prazo prescricional para exercício da pretensão indenizatória do segurado em face do segurador.
+2. O termo inicial do prazo prescricional, na ação de indenização, é a data em que o segurado teve ciência inequívoca do caráter permanente da invalidez. Precedentes.
+3. Segundo a jurisprudência sumulada desta Corte Superior, o pedido do pagamento de indenização à seguradora suspende o prazo de prescrição até que o segurado tenha ciência da decisão (Súmula n. 229, SEGUNDA SEÇÃO, julgado em 08/09/1999, DJ 08/10/1999).
+4. De acordo com a jurisprudência desta Corte, o ajuizamento da ação cautelar de exibição de documentos, interrompe o prazo prescricional para o manejo da demanda principal.
+5. Agravo interno não provido" (AgInt no REsp 1.482.595/SP, Relator Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 11/5/2020, DJe de 13/5/2020).
+"PROCESSO CIVIL. AGRAVO INTERNO. RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃO AGRAVADA. SEGURO DE VIDA. SINISTRO OCORRIDO NA VIGÊNCIA DA APÓLICE CONTRATADA. LEGITIMIDADE RECONHECIDA. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. TESE DO RECURSO ESPECIAL QUE DEMANDA REEXAME DE CLÁUSULAS CONTRATUAIS E DE CONTEXTO FÁTICO E PROBATÓRIO DOS AUTOS. SÚMULAS Nº 5 E 7/STJ. PRESCRIÇÃO. TERMO INICIAL. CIÊNCIA INEQUÍVOCA DA INVALIDEZ. PEDIDO DE PAGAMENTO. SUSPENSÃO DO PRAZO ATÉ CIÊNCIA DA DECISÃO. SÚMULAS 229 E 278, DO STJ.
+1. As razões do agravo interno não enfrentam adequadamente o fundamento da decisão agravada.
+2. Como destinatário final da prova, cabe ao magistrado, respeitando os limites adotados pelo Código de Processo Civil, a interpretação da produção probatória, necessária à formação do seu convencimento. Revisão do entendimento esbarraria no óbice contido na Súmula nº 7/STJ.
+3. A tese defendida no recurso especial, no tocante à ilegitimidade passiva, demanda reexame de cláusulas contratuais e do contexto fático e probatório dos autos, vedados pelas Súmulas nº 5 e 7/STJ.
+4. Nos termos das Súmulas nº 229 e 278, desta Corte, "o termo inicial do prazo prescricional, na ação de indenização, é a data em que o segurado teve ciência inequívoca da incapacidade laboral" e "o pedido do pagamento de indenização à seguradora suspende o prazo de prescrição até que o segurado tenha ciência da decisão."
+5. Agravo interno a que se nega provimento" (AgInt no REsp 1.656.712/SC, Relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 21/11/2017, DJe de 29/11/2017).
+Nesse contexto, ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição ou corrigir os erros materiais, mas, sim, reformar o julgado por via inadequada.
+Confira-se:
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. ALEGAÇÃO DE PUBLICIDADE ENGANOSA. INFORMAÇÃO FALSA. AFRONTA À BOA-FÉ. FABRICAÇÃO E COMERCIALIZAÇÃO, NO ANO DE 2015, DE DUAS VERSÕES DO VEÍCULO "IX 35" ANO-MODELO 2015/2016. PRIMEIRA VERSÃO NÃO FOI FABRICADA NO ANO DE 2016. CONSUMIDORES LESADOS EM RAZÃO DA FALSA PUBLICIDADE. INDUÇÃO A ERRO. PRINCÍPIOS DA BOA-FÉ E DA ETICIDADE. SUBTRAÇÃO DAS EXPECTATIVAS LEGÍTIMAS DOS CONSUMIDORES. OBRIGAÇÃO DE FAZER. PUBLICAÇÃO EM DOIS JORNAIS DE GRANDE CIRCULAÇÃO DA PARTE DISPOSITIVA DO ACÓRDÃO EXARADO PELO TRIBUNAL DE ORIGEM. INDENIZAÇÃO PELOS DANOS MATERIAIS DECORRENTES DA DESVALORIZAÇÃO DO VEÍCULO. AFIRMAÇÃO. DANO MORAL INDIVIDUAL E COLETIVO. NÃO CONFIGURAÇÃO. OBRIGAÇÃO DE NÃO FAZER. ABSTENÇÃO DE OFERTA DE AUTOMÓVEIS SOB A DENOMINAÇÃO DE MODELO DO PRÓXIMO ANO SEM QUE O VEÍCULO SEJA FABRICADO E PRODUZIDO NO ANO MENCIONADO. MULTA MONITATÓRIA EM CASO DE DESCUMPRIMENTO. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA 83 DO STJ. APLICAÇÃO. PRETENSÃO QUE EXIGE O REVOLVIMENTO DO CONJUNTO FÁTICO E PROBATÓRIO DOS AUTOS. SÚMULA 7 DO STJ. INCIDÊNCIA. AGRAVO INTERNO NÃO PROVIDO. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA. EMBARGOS REJEITADOS.
+1. Inexistindo omissão, obscuridade, contradição ou erro material, cumpre registrar que os embargos de declaração não se não são via adequada para a insurreição que vise a reforma do julgamento.
+2. Embargos de declaração rejeitados" (EDcl no AgInt no AREsp 1.588. 036/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 24/8/2020, DJe 31/8/2020).
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
