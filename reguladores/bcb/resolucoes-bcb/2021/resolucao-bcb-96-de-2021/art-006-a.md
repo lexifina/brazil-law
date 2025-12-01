@@ -1,0 +1,2 @@
+Art. 6º-A Na contratação de instrumentos de pagamento pós-pagos, a instituição deve facultar ao titular da conta a opção de pelo menos três datas de vencimento da fatura, com uma diferença mínima de sete dias entre elas. (Incluído, a partir de 1º/7/2024, pela Resolução BCB nº 365, de 21/12/2023.)
+Parágrafo único. O disposto no caput não se aplica às contas de pagamento pós-pagas cujos contratos prevejam pagamento da fatura mediante consignação em folha de pagamento. (Incluído, a partir de 1º/7/2024, pela Resolução BCB nº 365, de 21/12/2023.)

@@ -1,0 +1,7 @@
+Art. 11-C. A instituição emissora de instrumento de pagamento pós-pago deve enviar ao titular da conta, por meio de canais eletrônicos, de forma gratuita, notificações com informações sobre: (Incluído, a partir de 1º/7/2024, pela Resolução BCB nº 365, de 21/12/2023.)
+I - o vencimento da fatura, com pelo menos dois dias de antecedência da data de vencimento, incluindo esclarecimentos de que o não pagamento do valor total da fatura resulta na cobrança de juros e encargos; (Incluído, a partir de 1º/7/2024, pela Resolução BCB nº 365, de 21/12/2023.)
+II - as consequências do eventual não pagamento do valor obrigatório da fatura e do atraso no pagamento, bem como orientações para acesso às informações referidas no inciso II do art. 11-B, a partir do dia útil imediatamente posterior à data de vencimento da fatura; (Incluído, a partir de 1º/7/2024, pela Resolução BCB nº 365, de 21/12/2023.)
+III - o início de eventual parcelamento do saldo do crédito rotativo e da fatura correspondente; e (Incluído, a partir de 1º/7/2024, pela Resolução BCB nº 365, de 21/12/2023.)
+IV - o início da cobrança da tarifa de anuidade, após eventual período de isenção da cobrança, se houver, com pelo menos um mês de antecedência contado da data de início da cobrança. (Incluído, a partir de 1º/7/2024, pela Resolução BCB nº 365, de 21/12/2023.)
+CAPÍTULO VI
+DOS PROCEDIMENTOS DE​ ENCERRAMENTO DA CONTA DE PAGAMENTO

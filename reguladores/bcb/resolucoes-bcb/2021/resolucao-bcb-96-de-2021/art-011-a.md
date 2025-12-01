@@ -1,0 +1,1 @@
+Art. 11-A. Para fins de pagamento da fatura da conta de pagamento pós-paga, o valor total da fatura deve aparecer inicialmente como opção de pagamento padrão nas opções de liquidação, inclusive em eventual campo a ser preenchido no documento de cobrança ou na forma de pagamento. (Incluído, a partir de 1º/7/2024, pela Resolução BCB nº 365, de 21/12/2023.)
