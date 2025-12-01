@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de agravo interposto por JACY VALERIO GOMES contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS cuja ementa guarda os seguintes termos (fl. 1.050):
+DIREITO PREVIDENCIÁRIO E PROCESSUAL CIVIL. APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. PREVIDÊNCIA COMPLEMENTAR. SUPLEMENTAÇÃO DE APOSENTADORIA. DISTRIBUIÇÃO DE SUPERÁVIT. PAGAMENTO DE BENEFÍCIO MÍNIMO. LEGALIDADE. RECURSO DESPROVIDO.
+- O benefício mínimo de R$500,00 foi devidamente aprovado pelo Conselho Deliberativo da VALIA e pela Secretaria da Previdência Complementar, de acordo com o regulamento do plano de previdência, não havendo ilegalidade na sua instituição.
+- A destinação de parte do superávit técnico para a complementação de benefícios inferiores a R$500,00 visa proteger os assistidos de menor renda e foi aprovada pelos órgãos competentes, em conformidade com o art. 20 da Lei Complementar n. 109/01.
+- A metodologia de cálculo da distribuição do superávit também foi submetida à aprovação do Conselho Deliberativo e da Secretaria da Previdência Complementar, observando o equilíbrio atuarial, inexistindo qualquer irregularidade.
+- Não foi demonstrado qualquer prejuízo ao apelante decorrente da metodologia de distribuição adotada, sendo tal procedimento respaldado pela jurisprudência do Tribunal. - Sentença mantida.
+Acolhidos os embargos de declaração opostos pelo recorrente (fls. 1.079-1.083).
+No recurso especial, alega a parte recorrente que o acórdão contrariou as disposições contidas nos artigos 19 e 20, §3º, da LC n. 109/2001, além do art. 46 da Lei 6.435/1977.
+Sustenta que a criação e manutenção do "benefício mínimo" de R$ 500,00 apenas para quem recebe suplementação inferior a esse valor viola a isonomia e o caráter sinalagmático da relação contratual da previdência complementar, promovendo indevida "redistribuição de renda" dentro de plano fechado.
+Afirma ser indevida a cobrança de contribuição previdenciária sobre parcela decorrente da distribuição do superávit técnico, pois tais valores não integram o custeio dos benefícios.
+Alega que deve ser declarada a ilegalidade da incidência contributiva da VALIA sobre a suplementação para cálculo do percentual devido a título de superávit, com a apuração sobre o valor bruto da suplementação, sem descontos.
+Aponta divergência jurisprudencial.
+Foram oferecidas contrarrazões ao recurso especial (fls.1.143-1.156).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 1.162-1.164), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 1.311-1.323).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+O Tribunal de origem concluiu no sentido de que a instituição do benefício mínimo e a metodologia de distribuição do superávit são legais conforme o Regulamento do Plano e o Estatuto da entidade, aprovados pelos órgãos competentes, como se pode depreender do seguinte trecho extraído do acórdão recorrido (fls. 1.053-1.055):
+Em relação à regra do benefício mínimo, assim dispõe o art.36 §9º e §10 do Regulamento do Plano de Benefício Definido:
+"§9º - O valor mensal das suplementações  não poderá ser inferior a R$500,00  §10 - O disposto no parágrafo 9º  sendo devidos a partir desta aprovação"
+O pagamento do benefício mínimo foi devidamente aprovado pelo Conselho Deliberativo e pela Secretaria da Previdência Complementar, ausente, portanto, qualquer ilegalidade.  a metodologia de cálculo da distribuição do superávit foi devidamente submetida ao Conselho Deliberativo da demandada e aprovada pela Secretaria da Previdência Complementar
+Ainda, dispõe o art. 25 do Estatuto da Valia: "Art. 25 - É princípio fundamental  que o eventual superavit técnico  seja utilizado de acordo com a orientação do Conselho Deliberativo da VALIA, mediante autorização do órgão governamental competente. (fls. 1.053-1.055)
+Afastar o referido entendimento para concluir no sentido de que o benefício mínimo e a forma de distribuição do superávit seriam ilegais, como pretende o recorrente, demandaria o reexame das cláusulas do contrato, o que encontra óbice na Súmula 5/STJ.
+O Tribunal de origem concluiu no sentido de que não houve demonstração de prejuízo ao apelante e que o acervo probatório é suficiente, dispensada a prova pericial, como se pode depreender do seguinte trecho extraído do acórdão recorrido (fl. 1.055-1.057):
+Por fim, há de se frisar que não se vislumbra que o Apelante teria direito à respectiva complementação ao tempo da concessão dos benefícios, tampouco que referida metodologia tenha prejudicado-o.  Uma vez que o acervo probatório encartado aos autos mostra-se suficiente ao deslinde da questão posta em juízo, mostra-se despicienda a abertura da fase de instrução processual para a produção de prova pericial.  não foi demonstrado qualquer prejuízo à parte autora. (fls. 1.055-1.057)
+Afastar o referido entendimento para concluir no sentido de que houve prejuízo ao recorrente e irregularidade na metodologia de distribuição do superávit, como pretende o recorrente, demandaria o reexame do material fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+O Tribunal de origem concluiu no sentido de que a legalidade do benefício mínimo e da metodologia de distribuição do superávit decorre da conformidade com cláusulas do Regulamento e do Estatuto, além de inexistir prova de prejuízo ao recorrente e ser desnecessária a instrução pericial, como se pode depreender do seguinte trecho extraído do acórdão recorrido (fl. 1.053-1.057):
+Em relação à regra do benefício mínimo, assim dispõe o art.36 §9º e §10 do Regulamento do Plano de Benefício Definido  O pagamento do benefício mínimo foi devidamente aprovado pelo Conselho Deliberativo e pela Secretaria da Previdência Complementar  a metodologia de cálculo da distribuição do superávit foi devidamente submetida ao Conselho Deliberativo  Ainda, dispõe o art. 25 do Estatuto da Valia  Por fim, há de se frisar que não se vislumbra que o Apelante teria direito à respectiva complementação  tampouco que referida metodologia tenha prejudicado-o  o acervo probatório  mostra-se suficiente  mostra-se despicienda  a produção de prova pericial  não foi demonstrado qualquer prejuízo à parte autora. (fls. 1.053-1.057)
+Desse modo, considerando a fundamentação do acórdão objeto do recurso especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática-probatória e interpretação das cláusulas contratuais, procedimentos vedados a esta Corte, em razão dos óbices das Súmulas n. 5 e 7/STJ.
+A incidência da Súmula n. 7 do STJ quanto à interposição pela alínea "a" do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 15% sobre o valor atualizado da causa, observada eventual concessão de gratuidade de justiça.
+Publique-se. Intime-se.
+ EMENTA
