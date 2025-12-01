@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de PAULA REGINA DE CALDAS ANDRADE BARACIOLI contra o ato coator proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que negou provimento ao Agravo em Execução Penal n. 0000248-20.2025.8.26.0509 mantendo a detração penal apenas do período de recolhimento noturno (Execução Criminal n. 0001500- 92.2024.8.26.0509, DEECRIM 2ª RAJ - Araçatuba/SP).
+A defesa alega, em síntese, que, ao capitular o art. 319, V, do CPP, nas regras da medida cautelar diversa da prisão no alvará de soltura da paciente, o Juiz condicionou a paciente à regra prevista no artigo e inciso supracitado, devendo a interpretação ser feita nesse sentido, computando-se, assim, as horas do recolhimento noturno e nos dias de folga também (fl. 14).
+Aduz que, caso não seja esse o entendimento da colenda Turma, subsidiariamente, requer-se que seja adotado o intervalo de 20h às 6h como parâmetro razoável e proporcional para o cálculo da detração da paciente, considerando a omissão do Juízo de origem em especificar o horário de recolhimento (fl. 23).
+Ao final, requer que seja concedida a ordem liminarmente para que seja retificado o cálculo, acrescendo as horas referentes aos dias de folga, para a correta aplicação do Tema 1155 do STJ, computando-se assim o tempo que a Paciente ficou em Liberdade Provisória com medidas cautelares, para fins de detração da pena, e com a consequente redução máxima de sua pena (fl. 39 - grifo nosso).
+Liminar indeferida (fls. 231/232).
+Informações prestadas às fls. 237/246.
+O Ministério Público Federal manifestou-se pela denegação da ordem (fls. 251/254).
+É o relatório.
+Conforme se verifica do ato coator, a decisão tão somente fixou a medida cautelar referente ao recolhimento noturno, que se encontra disposta no artigo 319, inciso V, do Código de Processo Penal, mesmo inciso em que há a previsão da medida cautelar de recolhimento durante os dias de folga (fl. 45).
+Dessa forma, não há falar em detração pelos dias de folga, uma vez que tal medida não foi aplicada no caso, mas apenas recolhimento noturno.
+Nesse mesmo sentido foi a manifestação do Subprocurador-Geral da República João Heliofar de Jesus Villar (fls. 253/254 - grifo nosso):
+ ..
+Apesar da clareza do Tema Repetitivo nº 1155 do STJ quanto à metodologia de cálculo e ao reconhecimento da detração de períodos de recolhimento noturno e nos dias de folga, é crucial observar que essa tese pressupõe que a medida cautelar, em sua integralidade (recolhimento noturno e nos dias de folga), tenha sido efetivamente imposta pela decisão judicial originária.
+No caso em análise, tanto o Juízo da Execução quanto o Tribunal de Justiça do Estado de São Paulo, ao examinarem a controvérsia sobre a detração, foram uníssonos em sua constatação fática de que a medida cautelar imposta à paciente se restringiu ao recolhimento domiciliar noturno, sem extensão explícita ou implícita aos dias de folga.
+A Corte estadual foi enfática ao registrar que "a decisão tão somente fixou a medida cautelar referente ao recolhimento noturno". O Juízo de primeira instância já havia calculado a detração considerando as horas noturnas de todos os dias do período (inclusive finais de semana e feriados), mas não as horas integrais dos dias de folga, justamente porque a medida imposta era apenas o recolhimento noturno.
+Desse modo, o cerne da questão não reside na forma de cálculo da detração - matéria pacificada pelo Tema 1155 -, mas sim na existência ou não de uma restrição de liberdade referente aos dias de folga imposta à paciente pelo juízo de conhecimento. Conforme as decisões das instâncias ordinárias, essa restrição específica não foi determinada. O fato de o artigo 319, inciso V, do CPP prever ambas as modalidades ("noturno e nos dias de folga") não implica automaticamente que ambas foram aplicadas se a decisão judicial, ao citar o dispositivo, especificou ou foi interpretada no sentido de aplicar apenas uma parte da medida cautelar.
+Como efeito, no presente caso, as instâncias de origem não descumpriram o Tema 1155 do STJ, mas sim aplicaram-no com base na interpretação da medida cautelar que de fato foi imposta à paciente. Não há ilegalidade a ser reparada, pois a paciente já teve o período de recolhimento noturno devidamente detraído, e a ausência da detração dos dias de folga decorre da ausência de imposição original dessa modalidade de restrição da liberdade, e não de erro no cálculo ou interpretação do precedente vinculante. Admitir o pedido da impetrante seria criar uma medida cautelar que não foi imposta, em vez de corrigir uma ilegalidade na sua execução.
+III
+Diante do exposto, o Ministério Público Federal manifesta-se pela denegação da ordem.
+  No mais, quanto ao pedido de adoção do intervalo de 20h às 6h para o cálculo da detração da paciente, verifico que o Tribunal de origem não se manifestou sobre o tema, de modo que não pode ser conhecido originariamente pelo Superior Tribunal de Justiça, sob pena de supressão de instância.
+A propósito: AgRg no HC n. 866.974/SP, Ministro Antonio Saldanha Palheiro,
+Sexta Turma, DJe de 21/12/2023; e AgRg no HC n. 862.828/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe de 13/3/2024.
+Ante o exposto, conheço parcialmente do habeas corpus e, nessa extensão, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. DETRAÇÃO DE MEDIDA CAUTELAR. RECOLHIMENTO DOMICILIAR NOTURNO. AUSÊNCIA DE IMPOSIÇÃO EXPRESSA DE RECOLHIMENTO NOS DIAS DE FOLGA. TEMA 1.155/STJ. INTERVALO UTILIZADO PARA O CÁLCULO DA DETRAÇÃO. SUPRESSÃO DE INSTÂNCIA.
+Habeas corpus parcialmente conhecido e, nessa extensão, denegada a ordem.
