@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de recurso especial interposto pelo INSTITUTO DE ASSISTÊNCIA À SAÚDE DOS SERVIDORES PÚBLICOS DO ESTADO DO RIO GRANDE DO SUL, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim ementado (fl. 562):
+APELAÇÃO CÍVEL. DIREITO PREVIDENCIÁRIO. IPE-SAÚDE. ASSISTÊNCIA À SAÚDE. PLANO DE SAÚDE. DISPENSAÇÃO DE IMPLANTE VALVAR AÓRTICO TRANSCATETER - TAVI. HONORÁRIOS ADVOCATÍCIOS.
+Ainda que proposta em face de plano de saúde dos servidores do Estado, que não tem finalidade lucrativa, pertinente a fixação dos honorários advocatícios de sucumbência mediante critério equitativo, como previsto no artigo 85, § 2º e § 8º, do CPC, nos moldes do que se vem admitindo naquelas causas ajuizadas em face do Estado, lato sensu, para compeli-lo ao cumprimento do seu dever constitucional de prestar os meios de que necessita o cidadão desvalido para a proteção de sua saúde. Em um e outro caso, o valor saúde, inestimável, prepondera em relação ao aspecto econômico. Equidade, todavia, que, a partir da introdução do § 8º-A no artigo 85 do CPC pela Lei 14.365/2022, encontrou limites que não têm como ser simplesmente ignorados na cena judicial. Reforma da sentença para fixação dos honorários advocatícios em 10% sobre o valor atribuído à causa atualizado, em conformidade com o artigo 85, § 2º, do CPC.
+APELAÇÃO PARCIALMENTE PROVIDA.
+A parte recorrente sustenta que "descabe a fixação de verba honorária em percentual sobre o valor da causa ou da prestação vindicada, não se aplicando o art. 85, §3º, do CPC. As demandas de saúde têm natureza peculiar, devendo os honorários advocatícios serem arbitrados por apreciação equitativa, na forma do art. 85, §8º, do CPC" (fl. 579).
+Contrarrazões às fls. 592-593.
+Admitido o recurso na origem, os autos vieram a esta Corte.
+É o relatório.
+A insurgência merece prosperar.
+A Primeira Seção do Superior Tribunal de Justiça, ao julgar os recursos especiais n. 2.166.690/RN e 2.169.102/AL, submetidos ao rito dos repetitivos, firmou a seguinte tese vinculante: "nas demandas em que se pleiteia do Poder Público a satisfação do direito à saúde, os honorários advocatícios são fixados por apreciação equitativa, sem aplicação do art. 85, § 8º-A, do CPC" (Tema 1.313/STJ).
+Confira-se a ementa do julgado:
+Administrativo e processo civil. Tema 1.313. Recurso especial representativo de controvérsia. Honorários sucumbenciais. Sistema Único de Saúde - SUS e Assistência à saúde de servidores. Prestações em saúde - obrigações de fazer e de dar coisa. Arbitramento com base no valor da prestação, do valor atualizado da causa ou por equidade.
+I. Caso em exame
+1. Tema 1.313: recursos especiais (REsp ns. 2.166.690 e 2.169.102) afetados ao rito dos recursos repetitivos, para dirimir controvérsia relativa ao arbitramento de honorários advocatícios de sucumbência em decisões que ordenam o fornecimento de prestações de saúde no âmbito do SUS.
+II. Questão em discussão
+2. Saber se, nas demandas em que se pleiteia do Poder Público o fornecimento de prestações em saúde, os honorários advocatícios devem ser fixados com base no valor da prestação ou do valor atualizado da causa (art. 85, §§ 2º, 3º e 4º, III, CPC), ou arbitrados por apreciação equitativa (art. 85, parágrafo 8º, do CPC).
+III. Razões de decidir
+3. Não é cabível o arbitramento com base no valor do procedimento, medicamento ou tecnologia. A prestação em saúde não se transfere ao patrimônio do autor, de modo que o objeto da prestação não pode ser considerado valor da condenação ou proveito econômico obtido. Dispõe a Constituição Federal que a "saúde é direito de todos e dever do Estado" (art. 196). A ordem judicial concretiza esse dever estatal, individualizando a norma constitucional. A terapêutica é personalíssima - não pode ser alienada, a título singular ou mortis causa.
+4. O § 8º do art. 85 do CPC dispõe que, nas causas de valor inestimável, os honorários serão fixados por apreciação equitativa.
+É o caso das prestações em saúde. A equidade é um critério subsidiário de arbitramento de honorários. Toda a causa tem valor - é obrigatório atribuir valor certo à causa (art. 291 do CPC) -, o qual poderia servir como base ao arbitramento. Os méritos da equidade residem em corrigir o arbitramento muito baixo ou excessivo e em permitir uma padronização, especialmente nas demandas repetitivas.
+5. O § 6º-A do art. 85 do CPC impede o uso da equidade, "salvo nas hipóteses expressamente previstas no § 8º deste artigo". Como estamos diante de caso de aplicação do § 8º, essa vedação não se aplica.
+6. O § 8º-A, por sua vez, estabelece patamares mínimos para a fixação de honorários advocatícios por equidade. A interpretação do dispositivo em questão permite concluir que ele não incide nas demandas de saúde contra o Poder Público. O arbitramento de honorários sobre o valor prejudicaria o acesso à jurisdição e a oneraria o Estado em área na qual os recursos já são insuficientes.
+IV. Dispositivo e tese
+7. Tese: Nas demandas em que se pleiteia do Poder Público a satisfação do direito à saúde, os honorários advocatícios são fixados por apreciação equitativa, sem aplicação do art. 85, § 8º-A, do CPC.
+8. Caso concreto: negado provimento ao recurso especial.
+______
+Dispositivos relevantes citados: art. 85, §§ 2º, 3º, 4º, III, 6º-A, 8º e 8º-A, do CPC.
+Jurisprudência relevante citada: STF, tema 1.255, RE 1.412.069, Rel. Min. André Mendonça, julgado em 9/8/2023; STJ, Tema 1.076; AgInt no AREsp n. 2.577.776, Rel. Min. Francisco Falcão, Segunda Turma, julgado em 19/8/2024; AgInt no AREsp n. 1.719.420/RJ, Rel. Min. Sérgio Kukina, Primeira Turma, julgado em 12/6/2023; AgInt no REsp n. 2.050.169, Rel. Min. Mauro Campbell Marques, Segunda Turma, julgado em 25/9/2023; AgInt no REsp n. 1.808.262, Rel. Min. Herman Benjamin, Segunda Turma, julgado em 8/5/2023; EDcl nos EDcl no AgInt no REsp n. 1.807.735, Rel. Min. Regina Helena Costa, Primeira Turma, julgado em 5/12/2022; AgInt no REsp n. 1.862.632/SP, Rel. Min. Afrânio Vilela, Segunda Turma, julgado em 19/8/2024; AgInt no REsp n. 2.140.230, Rel. Min. Francisco Falcão, Segunda Turma, julgado em 19/8/2024.
+(REsp n. 2.169.102/AL, de minha relatoria, Primeira Seção, julgado em 11/6/2025, DJEN de 16/6/2025).
+Desse modo, estando o acórdão recorrido em desconformidade com a jurisprudência vinculante desta Corte Superior, firmada sob a sistemática dos recursos repetitivos, o recurso especial há de ser provido.
+Pelo exposto, com fundamento no art. 255, §4º, III, do RISTJ, dou provimento ao recurso especial para determinar o retorno dos autos ao Tribunal de origem, a fim de que promova novo exame acerca da verba honorária, observando-se o critério da equidade, sem aplicação do art. 85, § 8º-A, do CPC, nos termos do Tema 1.313/STJ.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. DIREITO À SAÚDE. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO POR EQUIDADE. TEMA 1.313/STJ. ACÓRDÃO RECORRIDO EM DESCONFORMIDADE COM A JURISPRUDÊNCIA VINCULANTE DESTA CORTE SUPERIOR. RECURSO ESPECIAL PROVIDO.
