@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 25/11/2025 a 01/12/2025, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Marco Buzzi, João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. REPRODUÇÃO DAS RAZÕES DO RESP. ART. 1.021, §1º, DO CÓDIGO DE PROCESSO CIVIL. SÚMULA 182/STJ. APLICAÇÃO POR ANALOGIA. DECISÃO MANTIDA.
+1. Nos termos do art. 1.021, § 1º, do Código de Processo Civil/2015 e da Súmula 182/STJ, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+2. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno interposto por MINHA VAIDADE COMÉRCIO DE PRODUTOS DE BELEZA LTDA contra decisão singular da lavra do Ministro Presidente do STJ que não conheceu do recurso, pelos seguintes fundamentos: a) manifestamente intempestivo o recurso especial, pois a parte foi intimada do acórdão recorrido em 7.10.2024 e o recurso foi interposto apenas em 29.10.2024, ultrapassado o prazo de 15 dias úteis (arts. 994, VI, 1.003, § 5º, 1.029 e 219 do Código de Processo Civil); b) a parte foi regularmente intimada para comprovar suspensão, interrupção ou prorrogação do prazo e quedou-se inerte; c) aplicação do art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça para não conhecer do agravo em recurso especial (fls. 64 4-645, com referência à certificação de inércia quanto aos vícios: fl. 641).
+Nas razões do presente agravo interno, a parte agravante alega, em síntese, que a decisão agravada incorreu em erro ao reconhecer a intempestividade do recurso especial, pois em 28.10.2024 houve suspensão de prazos em razão do Dia do Servidor Público, com fundamento na Portaria STJ/GP n. 2, de 4.1.2024, e em atos do Tribunal de Justiça de São Paulo, de modo que o termo final ocorreu em 29.10.2024, data em que o recurso foi protocolado. Sustenta que, diante da comprovação da suspensão, deve ser reconsiderada a decisão para processamento do agravo em recurso especial e, eventualmente, do próprio recurso especial, citando julgados desta Corte que afastam intempestividade quando demonstrada justa causa ou suspensão de prazos (fls. 656-657).
+Decorreu o prazo sem apresentação de impugnação (fl. 685).
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. REPRODUÇÃO DAS RAZÕES DO RESP. ART. 1.021, §1º, DO CÓDIGO DE PROCESSO CIVIL. SÚMULA 182/STJ. APLICAÇÃO POR ANALOGIA. DECISÃO MANTIDA.
+1. Nos termos do art. 1.021, § 1º, do Código de Processo Civil/2015 e da Súmula 182/STJ, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+2. Agravo interno não conhecido.
+VOTO
+De plano, verifico que o agravo interno interposto não merece ser conhecido, uma vez que a agravante não atacou especificamente nenhum dos fundamentos da decisão agravada.
+A decisão ora agravada não conheceu do agravo em recurso especial por intempestividade do recurso especial, registrando que a parte foi intimada em 7.10.2024 e interpôs o recurso em 29.10.2024, além de consignar que houve intimação para comprovação de eventual suspensão, interrupção ou prorrogação de prazo e que a parte quedou-se inerte, razão pela qual não seria possível afastar a intempestividade, aplicando-se o art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça (fls. 644-645; certificação de inércia: fl. 641).
+Nas razões do agravo interno, contudo, a parte agravante não apresentou um argumento voltado a atacar objetiva e integralmente os fundamentos da decisão agravada, se limitando a aduzir que houve suspensão de prazos no dia 28.10.2024, com base em atos normativos do Superior Tribunal de Justiça e do Tribunal de Justiça de São Paulo, e que, por isso, o recurso teria sido tempestivo. Não enfrentou especificamente o fundamento relativo à sua inércia diante da intimação para comprovar a suspensão, interrupção ou prorrogação do prazo processual certificada nos autos.
+Logo, apesar da intimação específica de fls. 637 e 640, furtou-se a parte agravante de fazer prova do feriado local, recesso, paralisação ou interrupção do expediente forense, conforme exigido pelo art. 1.003, § 6º, do CPC, no momento oportuno e por documento idôneo.
+Assim, a absoluta falta de impugnação da decisão agravada enseja o não conhecimento do agravo interno, na linha do entendimento jurisprudencial pacífico desta Corte. Nesse sentido é o EREsp n. 1.424.404/SP (relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 20/10/2021, DJe de 17/11/2021).
+Imperioso concluir, portanto, que a exigência constante do art. 1.021, § 1º, do Código de Processo Civil não foi cumprida, o que conduz à inviabilidade do agravo interno, como ensina o art. 932, III, do mesmo Diploma e o enunciado 182 da Súmula do STJ.
+Em face do exposto, não conheço do agravo interno.
+É como voto.
