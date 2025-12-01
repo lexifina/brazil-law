@@ -1,0 +1,18 @@
+DECISÃO
+Em análise, recurso especial interposto por MUNICIPIO DE ITAITUBA contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO assim ementado:
+CONSTITUCIONAL. TRIBUTÁRIO. FUNDO DE PARTICIPAÇÃO DOS MUNICÍPIOS - FPM. RETENÇÃO DOS RECURSOS ATRIBUÍDOS AOS MUNICÍPIOS. LIMITES QUANTITATIVOS. NÃO FIXAÇÃO PELA CONSTITUIÇÃO FEDERAL. LEI  9.639/1998. ADESÃO A PARCELAMENTO INSTITUÍDO PELA LEI 12.810/2013. BLOQUEIO DO FPM DE VALORES PARA QUITAÇÃO DAS PRESTAÇÕES. CABIMENTO. JUSTIÇA GRATUITA.
+1. Ainda que vedada a retenção dos recursos atribuídos aos municípios, nos termos do disposto no art. 160, parágrafo único, da constituição federal, não se vislumbra impedimento a que a união condicione a entrega de tais recursos à regularização de débitos do ente federativo junto ao governo federal e suas autarquias, bem como ao atendimento do gasto mínimo em ações e serviços públicos de saúde (art. 198, § 2º, II e III, da Constituição Federal).
+2. Embora a constituição federal não tenha fixado limites quantitativos para o condicionamento da entrega de recursos, a Lei nº 9.639/1998, ao dispor sobre amortização e parcelamento de dívidas oriundas de contribuições sociais e outras importâncias devidas ao Instituto Nacional do Seguro Social - INSS, previu a possibilidade de os Municípios amortizarem suas dívidas oriundas de contribuições sociais mediante o emprego de 9% do montante do FPM, vislumbrando-se ainda, previsão no sentido de que o município poderá, mensalmente, comprometer até quinze pontos percentuais da receita corrente líquida municipal (art. 1º e § 4º do art. 5º).
+3. No caso em tela, ao aderir ao parcelamento instituído pela Lei nº 12.810/2013, o Município concordou que, nos casos de inadimplência, haverá a retenção de valores para sua quitação no FPM do Município, sem observância dos limites percentuais para a retenção do fpm estabelecidos pela Lei nº 9.639/1998, aplicáveis somente se estiver vigente acordo de parcelamento de dívida fiscal assinado pelo município na forma desta lei.
+4. A Lei nº 9.289/1996 dispõe: "Art. 4º são isentos de pagamento de custas: I - a União, os Estados, os Municípios, os Territórios Federais, o Distrito Federal e as respectivas autarquias e fundações."
+5. recurso de apelação não provido. (fls. 319/320)
+Nas razões recursais, a parte recorrente sustenta, em síntese, violação aos arts. 98, § 1º, e 99, § 2º, do CPC.
+Contrarrazões não apresentadas.
+É o relatório.
+Passo a decidir.
+Conforme jurisprudência do STJ, para que se configure o prequestionamento, é necessário que a causa tenha sido decidida à luz dos dispositivos legais apontados como contrariados, interpretando-se a sua aplicação ou não, ao caso concreto. Nesse contexto, "a simples indicação de dispositivos e diplomas legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento" (AgInt nos EDcl no AREsp n. 2.263.247/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 4/12/2023, DJe de 7/12/2023).
+No caso, os dispositivos legais apontados como violados não foram objeto de análise pelo Tribunal de origem, nem sequer de modo implícito, tampouco foram opostos embargos de declaração com o objetivo de sanar eventual omissão. Ausente, portanto, o requisito do prequestionamento, incidem, no ponto, as Súmulas 282 e 356 do STF, por analogia.
+Isso posto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+ EMENTA
