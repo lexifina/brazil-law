@@ -1,0 +1,16 @@
+DECISÃO
+1. Trata-se de recurso extraordinário (fls. 1.040-1.060) interposto contra acórdão no qual foi estabelecido que operou a decadência para revisar o ato concessivo da anistia, pois a Portaria individual n. 1.907, que concedeu a anistia ao impetrante, data de 14/7/2004, e a Portaria n. 3.037, que anulou a primeira, foi editada em 30/11/2012.
+Às fls. 1.090-1.091 o recurso foi sobrestado em razão do reconhecimento, pelo Supremo Tribunal Federal, da repercussão geral acerca da matéria no Tema n. 8 39 do STF.
+Com a finalização do julgamento da controvérsia relativa ao Tema n. 839 do STF, foram os autos encaminhados ao órgão prolator do acórdão recorrido para eventual juízo de retratação, nos termos do art. 1.040, II, do CPC (fl. 1.093).
+O órgão julgador exerceu o juízo de retratação em acórdão assim ementado (fls. 1.106-1.107):
+CONSTITUCIONAL E ADMINISTRATIVO. MANDADODE SEGURANÇA. ANULAÇÃO DE ANISTIA POLÍTICACONFERIDA COM BASE NA PORTARIA N. 1.104/1964. JUÍZO DE RETRATAÇÃO EXERCIDO EM RAZÃO DOTEMA N. 839 DO STF. DECADÊNCIA AFASTADA. AUSÊNCIA DE OUTROS FUNDAMENTOSIMPUGNANDO A ANULAÇÃO DA ANISTIA.
+1. Trata-se de processo devolvido pela Vice-Presidência do STJ para análise de hipótese de retratação, conforme previsã odo art. 1.030, II, do CPC/2015.
+2. O Supremo Tribunal Federal, no julgamento do Recurso. Extraordinário n. 817.338-RG/DF, submetido à sistemática da repercussão geral, paradigma do Tema 839, fixou a seguinte tese: "No exercício do seu poder de autotutela, poderá a Administração Pública rever os atos de concessão de anistia a cabos da Aeronáutica com fundamento na Portaria nº 1.104/1964, quando se comprovar a ausência de ato com motivação exclusivamente política, assegurando-se ao anistiado, em procedimento administrativo, o devido processo legal e a não devolução das verbas já recebidas".
+3. Em razão do referido julgado, o Superior Tribunal de Justiça adequou a sua jurisprudência e passou a denegar a ordem em casos como tais, ao fundamento de que, "de acordo com a orientação do Pretório Excelso, ocorrendo violação direta do art. 8º da ADCT, é possível a anulação do ato de anistia pela administração pública, mesmo quando decorrido o prazo decadencial contido na Lei n. 9.784/1999" (MS 19.070/DF, rel. p/ acórdão Ministro Og Fernandes, Primeira Seção, D Je de ). Precedentes. 27/3/2020
+4. O impetrante não questiona, à exceção da decadência, outros vícios que eventualmente pudessem contaminar o processo administrativo de anulação da anistia. Logo, é imperativa a aplicação do Tema n. 839, a fim de afastar a decadência e julgar válida anulação da anistia.
+5. Juízo de retratação exercido em relação aos acórdãos de fls.5.984/995 e 1.032/1.035, para torná-los sem efeito. Segurança denegada.
+É o relatório.
+2. Conforme se verifica dos autos, com o exercício do juízo de retratação, o entendimento do órgão recorrido encontra-se em consonância com o entendimento do Supremo Tribunal Federal em sede de repercussão geral.
+3. Ante o exposto, tendo em vista que a parte recorrente alcançou seu objetivo e não versando o recurso outras questões, fica prejudicado o recurso extraordinário de fls. 1.040-1.060, em razão da perda superveniente de objeto.
+Publique. Intimem-se.
+ EMENTA
