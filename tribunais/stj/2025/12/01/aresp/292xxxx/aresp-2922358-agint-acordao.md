@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 25/11/2025 a 01/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÕES DECLARATÓRIA, DE EXECUÇÃO E DE COBRANÇA. PREQUESTIONAMENTO. SÚMULA 282/STF. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULA 5/STJ. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ.
+1. A ausência de prequestionamento impede que o recurso especial seja admitido.
+2. A interpretação de cláusulas contratuais e a reapreciação de fatos e provas constituem providências vedadas em recurso especial.
+3. Agravo interno não provido.
+RELATÓRIO
+Examina-se agravo interno interposto por COOPERATIVA DOS AGRICULTORES DA REGIÃO DE ORLÂNDIA - CAROL contra decisão que conheceu do agravo para não conhecer do recurso especial.
+Ação: i) cautelar e (ii) declaratória, ajuizadas pela agravante em face de BANCO SANTOS E OUTROS, com o objetivo de compensar valores devidos em razão de operações contratadas de forma simulada; (iii) execução ajuizada por SANTOS CREDIT YIELD FUNDO DE INVESTIMENTO FINANCEIRO em face da agravante, relativas às cédulas de crédito bancário ns. 148369-001 e 150290-001; e (iv) de cobrança, ajuizada pela MASSA FALIDA DO BANCO SANTOS em face da agravante, em razão do inadimplemento de contratos de câmbio.
+Sentença: julgou parcialmente procedentes os pedidos, para: i) reconhecer o pagamento das operações de câmbio diretamente às instituições financeiras estrangeiras dos ACCs e tornar definitivas as liminares; ii) declarar a inexigibilidade dos créditos das cédulas nº 148369-001 e nº 150290-001, cedidas em fraude ao SANTOS CREDIT YIELD FUNDO DE INVESTIMENTO FINANCEIRO; iii) reconhecer a possibilidade de compensação dos créditos da COOPERATIVA - CAROL, em operações casadas a CDBs e debêntures da SANTOSPAR, no montante de R$ 19.959.604,35 (dezenove milhões novecentos e cinquenta e nove mil seiscentos e quatro reais e trinta e cinco centavos); e, após a compensação, condenar a COOPERATIVA - CAROL ao pagamento de R$ 9.985.585,83 (nove milhões novecentos e oitenta e cinco mil quinhentos e oitenta e cinco reais e oitenta e três centavos).
+Acórdão recorrido: (i) não conheceu da apelação interposta pela MASSA FALIDA DE PROCID INVEST PARTICIPAÇÕES E NEGÓCIOS S/A e condenou-a ao pagamento de multa por litigância de má-fé; (ii) deu provimento às apelações interpostas pelas MASSAS FALIDAS DO BANCO SANTOS S/A E DO SANTOS CREDIT YIELD FUNDO DE INVESTIMENTO RENDA FIXA CRÉDITO PRIVADO, afastando a possibilidade de compensação de créditos e débitos entre as partes; e (iii) julgou prejudicada a apelação interposta pela agravante.
+Embargos de declaração: opostos por SANTOS CREDIT YIELD FUNDO DE INVESTIMENTO RENDA FIXA CRÉDITO PRIVADO, foram acolhidos para correção de erro material, reconhecendo-se a procedência do recurso de apelação interposto por ela e determinando o prosseguimento da execução; e (ii) interpostos por MASSA FALIDA DO BANCO SANTOS S/A, foram acolhidos para sanar omissão quanto à redistribuição dos ônus sucumbenciais, reconhecendo que a agravante foi vencida em sua totalidade.
+Decisão unipessoal: conheceu do agravo para não conhecer do recurso especial interposto pela agravante, devido (i) à ausência de prequestionamento e (ii) à incidência das Súmulas 5 e 7 do STJ.
+Agravo interno: alega que os óbices das Súmulas 282/STF e 5 e 7 do STJ são inaplicáveis, uma vez que houve o prequestionamento e por se tratar, apenas, da definição jurídica sobre simulação, fraude, desconsideração da personalidade e compensação. Traz questões relativas ao mérito do recurso especial. Requer, assim, o provimento do agravo para que seja determinado o processamento do recurso especial e apreciado o mérito.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÕES DECLARATÓRIA, DE EXECUÇÃO E DE COBRANÇA. PREQUESTIONAMENTO. SÚMULA 282/STF. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULA 5/STJ. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ.
+1. A ausência de prequestionamento impede que o recurso especial seja admitido.
+2. A interpretação de cláusulas contratuais e a reapreciação de fatos e provas constituem providências vedadas em recurso especial.
+3. Agravo interno não provido.
+VOTO
+A decisão impugnada não conheceu do recurso especial em razão (i) da ausência de prequestionamento e (ii) da incidência das Súmulas 5 e 7 do STJ.
+Do exame da insurgência apresentada pela agravante, verifica-se inexistir motivo apto a conduzir à reforma do julgado.
+- Da ausência de prequestionamento
+Conforma assinalado na decisão agravada, o acórdão recorrido não se manifestou acerca do conteúdo normativo dos artigos 50, 113, 145, 166, 167, 168, parágrafo único, 422 do CC e 39, I, do CDC (dispositivos legais apontados como violados), de modo que a insurgência, quanto às matérias, esbarra, de fato, no óbice da Súmula 282/STF.
+- Da interpretação de cláusulas contratuais e do reexame de fatos e provas
+As conclusões do acórdão recorrido acerca da impossibilidade de compensação decorreram do exame do conteúdo fático- probatório da demanda e da interpretação de cláusulas contratuais.
+Com efeito, os julgadores de segundo grau, a partir dos elementos constantes dos autos: (i) destacaram que a compensação não era juridicamente viável pois não atendia aos requisitos de liquidez, certeza e reciprocidade; (ii) reconheceram que as operações realizadas pelo Banco Santos e suas coligadas eram marcadas por fraudes e simulações, conforme apurado em relatório do Banco Central do Brasil, circunstâncias que comprometeram a validade e a confiabilidade dos créditos e débitos envolvidos e, consequentemente, impedindo a compensação; (iii) apontaram que os créditos e débitos pertenciam a pessoas jurídicas distintas, mesmo que integrassem o mesmo grupo econômico (a ausência de identidade entre credor e devedor impossibilita a compensação); e (iv) afirmaram que a compensação poderia prejudicar terceiros, especialmente os credores das massas falidas envolvidas (isto é, o contexto falimentar obsta a compensação postulada).
+Destarte, afigurando-se imprescindível, para a reforma do julgado, a reanálise de cláusulas contratuais e o revolvimento de matérias de fato e de prova, há de se reconhecer que a insurgência esbarra nos óbices das Súmulas 5 e 7 do STJ.
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno.
