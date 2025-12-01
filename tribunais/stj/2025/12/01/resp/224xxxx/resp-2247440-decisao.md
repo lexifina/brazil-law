@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de agravo interposto por ALTENES ROGERIO VENTURINI, DARLI APARECIDA BENTO VENTURINI e JEFFERSON BENTO VENTURINI contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ cuja ementa guarda os seguintes termos (fls. 949-963):
+APELAÇÕES CÍVEIS (1) E (2). EMBARGOS À EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. "INSTRUMENTO PARTICULAR DE CONFISSÃO DE DÍVIDA COM GARANTIA DE PENHOR". SENTENÇA. PARCIAL PROCEDÊNCIA. INSURGÊNCIA DE AMBAS AS PARTES.
+1.APELAÇÃO (1) DOS EMBARGANTES. CLÁUSULA PENAL. MULTA COMPENSATÓRIA ESTABELECIDA EM 50% SOBRE A DÍVIDA APURADA, CORRIGIDA MONETARIAMENTE. ALEGAÇÃO ABUSIVIDADE E PLEITO DE REDUÇÃO. PARCIAL ACOLHIMENTO. MONTANTE MANIFESTAMENTE EXCESSIVO, PARA ALÉM DO CUMPRIMENTO PARCIAL DA OBRIGAÇÃO. POSSIBILIDADE DE REDUÇÃO DA MULTA COMPENSATÓRIA (CC, ART. 413) COMO FORMA DE MANTER O EQUILÍBRIO CONTRATUAL E EVITAR O ENRIQUECIMENTO SEM CAUSA. MULTA REDUZIDA PARA 20% (VINTE POR CENTO). PRECEDENTES.
+2. APELAÇÃO (2) DA EMBARGADA. . HONORÁRIOS 2.1 ADVOCATÍCIOS CONTRATUAIS. CONTRAPARTIDA A EVENTUAL ATIVIDADE EXERCIDA PELO CAUSÍDICO EM MOMENTO ANTERIOR AO AJUIZAMENTO DA AÇÃO (CC, ART. 389, 395 E 404). ATUAÇÃO EXTRAJUDICIAL NÃO COMPROVADA. ABUSIVIDADE CARACTERIZADA. COBRANÇA INDEVIDA. PRECEDENTES. . 2.2 AFASTADO. DESNECESSIDADE DE PREQUESTIONAMENTO. MENÇÃO EXPRESSA DOS DISPOSITIVOS DE LEI SUSCITADOS. INTELIGÊNCIA DO ART. 1.025 DO CPC.
+3. ÔNUS DE SUCUMBÊNCIA. SENTENÇA PARCIALMENTE REFORMADA. REDISTRIBUIÇÃO DESSES ÔNUS ENTRE AS PARTES, OBSERVADOS OS GANHOS E PERDAS DE CADA QUAL.
+4. HONORÁRIOS ADVOCATÍCIOS RECURSAIS. INTELIGÊNCIA DO ART. 85, § 11, DO CPC: 4.1. PARCIAL PROVIMENTO DA APELAÇÃO (1) DOS EMBARGANTES, QUE INVIABILIZA A MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS SUCUMENCIAIS DO PATRONO DA EMBARGADA. 4.2. NÃO PROVIMENTO DA APELAÇÃO (2) DA EMBARGADA, QUE ENSEJA A MAJORAÇÃO DA VERBA HONORÁRIA SUCUMBENCIAL DEVIDA AO PATRONO DOS EMBARGANTES. APELAÇÃO (1) CONHECIDA E PARCIALMENTE PROVIDA. APELAÇÃO (2) CONHECIDA E NÃO PROVIDA.
+Rejeitados os embargos de declaração opostos (fls. 983-989).
+No recurso especial, a parte recorrente aduz que o acórdão recorrido contrariou os arts. 85, § 2º, e 86, do Código de Processo Civil, bem como os arts. 51, § 1º, III, e 52, § 1º, do Código de Defesa do Consumidor, ao fixar honorários sucumbenciais de forma híbrida, mesclando critérios de base de cálculo e distribuição de despesas processuais, o que resulta em percentual efetivo inferior ao mínimo legal e em parâmetro não previsto em lei. Sustenta que os honorários devem observar exclusivamente um dos critérios do art. 85, § 2º, sem incidência do art. 86 sobre a verba honorária. Afirma, ainda, que, reconhecida a natureza consumerista da relação, a multa contratual deve ser limitada a 2%, e que o acórdão, ao reduzir o percentual de 50% para 20% com fundamento civilista, desconsiderou a disciplina específica do CDC, que presume abusiva a vantagem exagerada e impõe teto de 2% para multa de mora (fls. 996-1. 004).
+Foram oferecidas contrarrazões ao recurso especial (fls. 1.021-1.028).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 1.029-1.031), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 1.047-1.055).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade, verifico que as razões veiculadas pela parte agravante mostram-se relevantes, razão pela qual o presente agravo deve ser convertido em recurso especial, a fim de possibilitar um melhor exame da controvérsia.
+Ante o exposto, dou provimento ao agravo para determinar a sua conversão em recurso especial.
+À Coordenadoria para as providências cabíveis.
+Publique-se. Intimem-se.
+ EMENTA
