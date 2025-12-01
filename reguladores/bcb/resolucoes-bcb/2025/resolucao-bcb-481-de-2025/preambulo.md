@@ -1,0 +1,4 @@
+8-7 - Licença para Capacitação RESOLUÇÃO BCB Nº 481, DE 4 DE JUNHO DE 2025
+Institui o Posto de Controle do Banco Central do Brasil – PCBC, para armazenamento de informações classificadas em grau de sigilo e acesso a essas informações, e aprova o seu regulamento.
+O Comitê de Governança, Riscos e Controles – GRC do Banco Central do Brasil, em sessão realizada em 4 de junho de 2025, com base no art. 11, caput, inciso XIII, alínea “a”, e no art. 139, caput, inciso III, alínea “a”, do Regimento Interno do Banco Central do Brasil, e tendo em vista o disposto na Lei nº 12.527, de 18 de novembro de 2011, no Decreto nº 7.724, de 16 de maio de 2012, no Decreto nº 7.845, de 14 de novembro de 2012, na Instrução Normativa GSI/PR nº 2, de 5 de fevereiro de 2013, na Norma Complementar nº 01/IN02/NSC/GSI/PR, de 27 de junho de 2013, na Instrução Normativa nº 33, de 4 de março de 2024, da Controladoria-Geral da União, e no Voto 152/2025–GRC, de 4 de junho de 2025,
+R E S O L V E :
