@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de SAMUEL MARQUES FRANCISCO - condenado pelo delito do art. 33, caput, da Lei n. 11.343/2006 -, em que a defesa aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, que, em 25/3/2021, deu parcial provimento à apelação para redimensionar a pena do paciente para 5 anos de reclusão e 500 dias-multa, mantendo o regime inicial fechado (Apelação Criminal n. 1500071-87.2019.8.26.0542).
+O impetrante alega nulidade da dosimetria por ter sido aplicada de forma coletiva e padronizada aos corréus, sem individualização da pena, em violação do art. 5º, XLVI, da Constituição Federal e do art. 59 do Código Penal, com indevida presunção negativa de conduta social e "personalidade".
+Sustenta o cabimento do tráfico privilegiado (art. 33, § 4º, da Lei n. 11.343/2006), por ser o paciente primário, sem antecedentes, não integrar organização criminosa e não se dedicar à atividade ilícita.
+Requer o reconhecimento da nulidade absoluta da sentença por ausência de individualização da pena; subsidiariamente, o reconhecimento do tráfico privilegiado com redução máxima; redimensionamento da pena com afastamento das majorações indevidas de conduta social e personalidade; fixação de regime mais brando, conforme art. 33, § 2º, do Código Penal; e o recolhimento do mandado de prisão (Processo n. 1500071-87.2019.8.26.0542, da 1ª Vara Judicial da comarca de Santana de Parnaíba/SP).
+É o relatório.
+O habeas corpus foi manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte.
+Sobre o tema, há precedentes do Superior Tribunal de Justiça e do Supremo Tribunal Federal, como por exemplo, AgRg no HC n. 561.185/SP, da minha relatoria, Sexta Turma, DJe 16/3/2020; AgRg no HC n. 459.677/RS, Ministro Ribeiro Dantas, Quinta Turma, DJe 10/3/2020; HC n. 193.451, Relator p/ o acórdão Ministro Alexandre de Moraes, Primeira Turma, DJe 14/4/2021; e RHC n. 186.497 AgR, Ministra Rosa Weber, Primeira Turma, DJe 7/12/2020.
+Segundo, consoante jurisprudência desta Corte Superior, o não cabimento do writ substitutivo de revisão criminal é corroborado quando o impetrante não indica que as razões de pedir estão previstas em alguma das hipóteses do art. 621 do CPP, como no presente caso (HC n. 829.748/GO, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 11/12/2023).
+No tocante à revisão da dosimetria, diz a jurisprudência do Superior Tribunal de Justiça que, nos autos de habeas corpus, somente é permitida nas hipóteses de falta de fundamentação concreta ou quando a sanção aplicada é notoriamente desproporcional e irrazoável diante do crime cometido (HC n. 489.166/SP, de minha relatoria, Sexta Turma, DJe 10/6/2020), e nenhuma dessas situações é verificada no caso em apreço.
+Na espécie, o julgador, dentro de sua discricionariedade juridicamente vinculada, proferiu decisão concretamente motivada e atrelada às particularidades fáticas do caso concreto e subjetivas do agente do crime. Nenhum acréscimo adveio em razão de circunstância judicial não justificada, mesmo porque a pena-base foi fixada no mínimo legal.
+Ademais, as circunstâncias dos autos demonstraram à dedicação a atividades criminosas, o que justifica o afastamento da causa de redução pelo tráfico privilegiado.
+Já quanto ao regime prisional, verifico a existência de manifesta ilegalidade a justificar a concessão da ordem de ofício.
+De acordo com a Súmula 719/STF, a imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea, o que não ocorreu no caso dos autos. Assim, tratando-se de paciente primário, com circunstâncias judiciais favoráveis e, em razão da pena aplicada, adequado, nos termos do art. 33, § 2º, b, do Código Penal, o regime semiaberto.
+Ante o exposto, não conheço do habeas corpus. Concedo a ordem de ofício, para fixar o regime inicial semiaberto ao paciente.
+Comunique-se.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. SUCEDÂNEO DE REVISÃO CRIMINAL. NÃO CONHECIMENTO. DOSIMETRIA. AUSÊNCIA DE ILEGALIDADE. REGIME PRISIONAL MAIS GRAVOSO. GRAVIDADE ABSTRATA. IMPOSSIBILIDADE. MANIFESTO CONSTRANGIMENTO ILEGAL.
+Habeas corpus não conhecido. Ordem concedida de ofício , nos termos do dispositivo.
