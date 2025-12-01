@@ -5,3 +5,4 @@ III - a universalidade do atendimento aos alunos matriculados na rede pública d
 IV - a participação da comunidade no controle social, no acompanhamento das ações realizadas pelos Estados, pelo Distrito Federal e pelos Municípios para garantir a oferta da alimentação escolar saudável e adequada;
 V - o apoio ao desenvolvimento sustentável, com incentivos para a aquisição de gêneros alimentícios diversificados, produzidos em âmbito local e preferencialmente pela agricultura familiar e pelos empreendedores familiares rurais, priorizando as comunidades tradicionais indígenas e de remanescentes de quilombos;
 VI - o direito à alimentação escolar, visando a garantir segurança alimentar e nutricional dos alunos, com acesso de forma igualitária, respeitando as diferenças biológicas entre idades e condições de saúde dos alunos que necessitem de atenção específica e aqueles que se encontram em vulnerabilidade social.
+VII - a garantia de acesso a água potável.

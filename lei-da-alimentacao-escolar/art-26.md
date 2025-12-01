@@ -6,5 +6,7 @@ II - pelos Municípios, Secretarias de Educação dos Estados e do Distrito Fede
 I - omissão na prestação de contas, conforme definido pelo seu Conselho Deliberativo;
 II - rejeição da prestação de contas;
 III - utilização dos recursos em desacordo com os critérios estabelecidos para a execução do PDDE, conforme constatado por análise documental ou de auditoria.
+IV - (VETADO).
 § 3º Em caso de omissão no encaminhamento das prestações de contas, na forma do inciso I do caput, fica o FNDE autorizado a suspender o repasse dos recursos a todas as escolas e polos presenciais do sistema UAB da rede de ensino do respectivo ente federado.
 § 4º O gestor, responsável pela prestação de contas, que permitir, inserir ou fizer inserir documentos ou declaração falsa ou diversa da que deveria ser inscrita, com o fim de alterar a verdade sobre os fatos, será responsabilizado na forma da lei.
+§ 5º (VETADO).

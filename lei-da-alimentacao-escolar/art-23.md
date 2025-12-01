@@ -1,1 +1,3 @@
 Art. 23. Os recursos financeiros repassados para o PDDE serão destinados à cobertura de despesas de custeio, manutenção e de pequenos investimentos, que concorram para a garantia do funcionamento e melhoria da infraestrutura física e pedagógica dos estabelecimentos de ensino.
+§ 1º Os recursos financeiros de que trata o caput deste artigo poderão ser empregados na implementação de estruturas e serviços de saneamento básico nas escolas.
+§ 2º O emprego de recursos de que trata o § 1º deste artigo pode ocorrer inclusive em caráter emergencial, com vistas a garantir o pleno funcionamento das estruturas e dos serviços em saneamento básico.
