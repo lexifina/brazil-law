@@ -1,0 +1,85 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 25/11/2025 a 01/12/2025, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Moura Ribeiro.
+Os Srs. Ministros Daniela Teixeira, Nancy Andrighi, Humberto Martins e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. VIOLAÇÃO DO ART. 1.022 DO NCPC. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL NÃO DEMONSTRADAS. OFENSA A COISA JULGADA. REVISÃO. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. RECURSO ESPECIAL CONHECIDO, EM PARTE, E, NESSA EXTENSÃO, NÃO PROVIDO.
+1. Inexistentes as hipóteses do art. 1.022, II, do NCPC (art. 535 do CPC/1973), não merecem acolhimento os embargos de declaração que têm nítido caráter infringente.
+2. Os embargos de declaração não se prestam à manifestação de inconformismo ou à rediscussão do julgado.
+3. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula n. 7 do STJ.
+4. Agravo conhecido para conhecer em parte do recurso especial e negar-lhe provimento.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por DOM BOSCO EMPREENDIMENTOS IMOBILIÁRIOS S.A. - SPE (DOM BOSCO EMPREENDIMENTOS) contra decisão que não admitiu seu apelo nobre manejado com fundamento no art. 105, III, alínea a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Distrito Federal e Territórios, assim ementado:
+AGRAVO DE INSTRUMENTO E AGRAVO INTERNO. DIREITO PROCESSUAL CIVIL. PRELIMINAR DE NÃO CONHECIMENTO DO AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. REJEIÇÃO. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. TERMO FINAL. AVERBAÇÃO DA CARTA DE HABITE-SE. NECESSÁRIA OBSERVÂNCIA DA NORMA INDIVIDUALIZADA POSTA NO TÍTULO EXECUTIVO JUDICIAL. REJULGAMENTO DA LIDE EM FASE DE CUMPRIMENTO DE SENTENÇA. IMPOSSIBILIDADE. RECURSOS CONHECIDOS. AGRAVO DE INSTRUMENTO DESPROVIDO. AGRAVO INTERNO PREJUDICADO.
+1. Exposto, no agravo interno, o fato e o direito e formulado pedido de modificação do provimento judicial desfavorável aos interesses da parte agravante com ataque aos fundamentos da decisão agravada, atendido está o requisito da impugnação específica para a cognição do recurso. Preliminar de não conhecimento do agravo interno rejeitada.
+2. É claro o acórdão exequendo ao indicar a data de averbação da Carta de Habite-se como termo final para incidência da multa aplicada pelo atraso na entrega da unidade. Não há excesso de execução na cobrança de valor em que contabilizada parcela vencida anteriormente à data de averbação desse documento, o qual atesta a conclusão da obra e sua conformidade com as normas vigentes.
+3. Não há ofensa à coisa julgada formada nos autos do processo coletivo se a quantia em execução está conforme a cálculo que observa os parâmetros estabelecidos no título executivo judicial transitado em julgado. Ademais, inaceitável admitir manobras processuais que visem a alterar o acórdão exequendo. 4. 4. Recursos conhecidos. Agravo de Instrumento não provido. Agravo Interno prejudicado (e-STJ, fl. 445 - com destaques no original).
+Foi apresentada contraminuta.
+Nas razões de seu apelo nobre interposto com base no art. 105, III, alínea a, da CF, alegou (1) violação do art. 1.022, II do CPC ao sustentar omissão quanto ao disposto nos arts. 502, 503, 504, 505, 507 e 508 do CPC no que concerne a coisa julgada; e (2) violação dos arts. 502, 503, 504, I, 505, 507 e 508 do CPC ao aduzir ofensa a coisa julgada ao desconsiderar a parte dispositiva do acórdão e manter a sentença.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. VIOLAÇÃO DO ART. 1.022 DO NCPC. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL NÃO DEMONSTRADAS. OFENSA A COISA JULGADA. REVISÃO. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. RECURSO ESPECIAL CONHECIDO, EM PARTE, E, NESSA EXTENSÃO, NÃO PROVIDO.
+1. Inexistentes as hipóteses do art. 1.022, II, do NCPC (art. 535 do CPC/1973), não merecem acolhimento os embargos de declaração que têm nítido caráter infringente.
+2. Os embargos de declaração não se prestam à manifestação de inconformismo ou à rediscussão do julgado.
+3. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula n. 7 do STJ.
+4. Agravo conhecido para conhecer em parte do recurso especial e negar-lhe provimento.
+VOTO
+Agravo em recurso especial cabível, pois interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial.
+O inconformismo, no entanto, não merece prosperar.
+(1) Da ausência de omissão ou fundamentação
+Não merece respaldo a assertiva de que o v. acórdão não teria se manifestado sobre a coisa julgada, uma vez que o Tribunal local, no julgamento dos aclaratórios, consignou:
+Da leitura das razões expostas, noto não prosperar a alegação da embargante de omissão, porque, concretamente, foram devidamente tecidas no acórdão embargado (Id 64350869), de modo conexo e compreensível, as razões pelas quais a coisa julgada formada nos autos do processo coletivo determina a aplicação da data da averbação do Habite-se - não a data de sua expedição - como termo final para incidência da multa que se busca executar no processo de referência.
+A toda evidência, carece de respaldo a alegação de omissão, pois todo o contexto fático da lide em questão foi analisado de acordo com o cotejo das provas relevantes e rechaçadas as alegações da embargante no acórdão. Em verdade, verifico que a embargante não concorda com a conclusão a que chegou o acórdão embargado e pretende, sob a alegação de vício de omissão inexistente, demonstrar a sua irresignação com os seus fundamentos e alterar o seu conteúdo, o que não se pode admitir.
+A fundamentação sobre os temas consta na decisão colegiada objurgada. Não foram, mais uma vez, invocados motivos que se prestariam a justificar qualquer outra decisão, de modo que não se sustenta a alegação de omissão capaz de afiançar a oposição de embargos de declaração (e-STJ, fl. 566 - sem destaques no original).
+Dessa forma, não há que se falar em negativa de prestação jurisdicional, pois o tribunal de origem decidiu a matéria controvertida de forma fundamentada, ainda que contrariamente aos interesses da parte.
+Assim, constata-se que não há quaisquer dos vícios elencados no art. 1.022 do NCPC.
+Sobre o tema, confira-se o seguinte julgado:
+AGRAVO INTERNO NO RECURSO ESPECIAL. ARTS. 489 E 1022 DO CPC/2015. AUSÊNCIA DE VIOLAÇÃO. SUFICIÊNCIA NA FUNDAMENTAÇÃO. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO CONTRATUAL CUMULADA COM PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS. AUSÊNCIA DE COMPROVAÇÃO DOS FATOS CONSTITUTIVOS DO DIREITO DO AUTOR. REVISÃO DO JULGADO. IMPOSSIBILIDADE. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. Não ficou configurada a violação ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia.
+O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. A revisão da conclusão alcançada pelo colegiado estadual (quanto à regularidade da cobrança realizada pelo banco recorrido, em virtude da existência do débito oriundo de dois distintos contratos de financiamentos) demandaria o revolvimento do acervo fático-probatório dos autos, o que é defeso dada a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+3. No que diz respeito à divergência jurisprudencial, o Superior Tribunal de Justiça firmou entendimento de que a incidência da Súmula n. 7/STJ impede o exame do recurso no que tange à alínea c do inciso III do art. 105 da Constituição Federal, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+4. Agravo interno improvido.
+(AgInt no REsp n. 2.022.899/MA, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 28/11/2022, DJe de 30/11/2022)
+(2) Do revolvimento do arcabouço fático-probatório
+Em relação a alegada violação dos arts. 502, 503, 504, I, 505, 507 e 508 do CPC, no que concerne a coisa julgada, o Tribunal local julgou nos seguintes termos:
+No caso, pretende o agravante a reforma de decisão que rejeitou a impugnação ao cumprimento de sentença ao considerar não a data de emissão, mas de averbação do Habite-se. Alega violação a coisa julgada e que o acórdão proferido na ação coletiva negou provimento ao recurso de apelação, mantendo a sentença, de forma que deve prevalecer tão somente o dispositivo indicado no referido acórdão, que negou provimento a apelação interposta e manteve inalterada a sentença.
+Contudo, não merece acolhimento a pretensão do agravante.
+Transitou em julgado o Acórdão n. 1362980, proferido pela e. 3ª Turma Cível deste Tribunal de Justiça, que, na análise do processo coletivo, fixou expressamente como termo final para incidência da multa por atraso na entrega da unidade a data da averbação da carta de Habite-se.
+Explico.
+O processo coletivo em que proferido o julgado ora em fase de cumprimento individual de sentença coletiva foi ajuizado por IBEDEC - Instituto Brasileiro de Estudo e Defesa das Relações de Consumo em desfavor do ora agravante e POUPEX - Associação de Poupança e Empréstimo (processo n. 0037441-89.2013.8.07.0001).
+A sentença julgou parcialmente procedentes os pedidos, com dispositivo assim redigido (Id 177006838, p. 13 do processo de referência):
+ ..
+Opostos embargos de declaração, foram acolhidos e o novo dispositivo da sentença passou a ter a seguinte redação (Id 177006839, p. 4 do processo de referência):
+ ..
+Interposto recuso de apelação pela parte autora e recurso adesivo pela parte ré, a eles foi negado provimento, conforme Acórdão n. 1362980, proferido pela e. 3ª Turma Cível, assim ementado (Id 177006842, p. 2 do processo de referência):
+ ..
+O evidente descompasso entre o dispositivo da sentença e a ementa do acórdão foi apontado pela parte autora em sede de embargos de declaração, os quais, todavia, foram rejeitados pelo Acórdão n. 1404121 (Id 177006843 do processo de referência).
+Dessa forma, ainda que o voto condutor do acórdão tenha negado provimento às apelações interpostas, é cristalino ter transitado em julgado o Acórdão n. 1362980, que expressamente consignou em sua ementa " Comprovada nos autos a data da averbação da Carta de Habite-se, este deve ser considerado o termo final para a incidência da multa recaída sobre o atraso na entrega da unidade, haja vista que, a partir dessa data o imóvel se encontra disponível para o comprador" (Id 177006842, p. 2 do processo de referência). Considerar de modo diverso equivaleria a acolher, pela via oblíqua, os embargos de declaração opostos pela parte autora no bojo da ação coletiva, o que obviamente não pode ser admitido.
+Assim, a coisa julgada formada nos autos do processo coletivo determina a aplicação da data da averbação do Habite-se - não a data de sua expedição - como termo final para incidência da multa que se busca executar.
+No caso, considerando que a Carta de Habite-se foi averbada em 25/2/2013, conforme Av-5 da matrícula n. 285.685 do 3º CRI (Id 177006837 do processo de referência), não há que se falar em excesso de execução quanto à parcela com vencimento para 28/1/2013, porque dita prestação está inserida na período sobre que estabeleceu clara disciplina o acórdão proferido no recurso de apelação interposto contra a sentença exarada na ação coletiva.
+Apenas como reforço argumentativo, friso ser a data da averbação da carta de habite-se o marco usualmente adotado por esta e. 1ª Turma Cível como termo final para o atraso da entrega de imóvel, como se percebe pela leitura das seguintes ementas:
+ ..
+Por fim, friso não ser relevante para a solução da presente demanda a conclusão alcançada pela e. 6ª Turma Cível no bojo do agravo de instrumento n. 0741388-64.2023.8.07.0000, a uma, por não se tratar de entendimento vinculante; a duas, porque, naqueles autos, foi reconhecido o excesso de execução relativamente às parcelas vencidas em 28/3/2013 e 30/4/2013 (Id 57600462 dos autos n. 0741388-64.2023.8.07.0000), as quais se fizeram exigíveis - ambas - após a data tanto de emissão quanto de averbação da Carta de Habite-se - recordo, nesse ponto, que ditos eventos remontam, respectivamente, às datas de 18/12/2012 e 25/2/2013, conforme Av-5 da matrícula n. 285.274 do 3º CRI (Id 145745461 dos autos n. 0722589-44.2022.8.07.0020).
+Nesse contexto, as considerações aduzidas em relação à data de emissão e de averbação do Habite-se não tiveram relevância na solução da controvérsia posta nos autos acima mencionados, uma vez que as parcelas questionadas venceram posteriormente à data da emissão e de averbação da Carta de Habite-se. Portanto, diversa a situação em exame no caso concreto.
+Se afigura válido nos presentes autos o questionamento acerca da exigibilidade da parcela vencida em 28/1/2013, tendo em vista a controvérsia existente acerca do termo final a ser considerado para incidência de multa: se a data de expedição ou de averbação, visto que a mencionada prestação venceu em data posterior à expedição da Carta de Habite-se (datada de 18/12/2012), mas anterior à averbação ocorrida em 25/2/2013 (Av-5 da matrícula n. 285.685 do 3º CRI - Id 177006837 do processo de referência).
+Assim, não merece reparos a decisão de primeira instância quando rejeita a impugnação ao cumprimento de sentença por não haver excesso de execução tendo em vista que os exequentes obedeceram aos parâmetros indicados no acórdão transitado em julgado (e-STJ, fls. 437/443 - sem destaques no original).
+Desse modo, para se chegar a conclusão diversa da que chegou o eg. Tribunal local, seria inevitável o revolvimento do arcabouço fático-probatório, procedimento sabidamente inviável na instância especial por incidir a Súmula n. 7 do STJ: A pretensão de simples reexame de prova não enseja recurso especial.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO NO RECURSO ESPECIAL. APELAÇÃO. AÇÃO DE REPARAÇÃO DE DANOS. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. PARTICIPAÇÃO DE SÓCIA. POSSIBILIDADE. DANO MORAL. QUANTUM INDENIZATÓRIO. REEXAME FÁTICO-PROBATÓRIO. SÚMULA Nº 7 DO STJ. AGRAVO NÃO PROVIDO.
+1. No caso concreto, a análise das razões apresentadas pela parte recorrente, quanto a existência de cerceamento de defesa e de ofensa a coisa julgada, demandaria o revolvimento do conjunto fático-probatório, o que é vedado em recurso especial.
+2. Rever as conclusões quanto a participação da sócia no evento danoso demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula nº 7 do STJ.
+3. A lei não fixa valores ou critérios para a sua quantificação que, entretanto, deve ter assento na regra do art. 944 do CC. Por isso, esta Corte tem se pronunciado reiteradamente que o valor de reparação do dano moral deve ser arbitrado em montante que desestimule o ofensor a repetir a falta, sem constituir, de outro lado, enriquecimento indevido para a vítima.
+4. Agravo desprovido.
+(AgInt no AREsp n. 2.942.045/SP, de minha relatoria, Terceira Turma, julgado em 13/10/2025, DJEN de 16/10/2025.)
+AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. COISA JULGADA. NÃO OCORRÊNCIA. REVISÃO. SÚMULA Nº 7/STJ. LEVANTAMENTO DE VALORES. INDEFERIMENTO. PODER GERAL DE CAUTELA.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, ainda que de forma sucinta, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. O recurso especial é inviável quando a modificação do acórdão recorrido demanda o reexame do conjunto fático-probatório dos autos, conforme dispõe a Súmula nº 7/STJ.
+3. No poder geral de cautela, é cabível o indeferimento do levantamento de valores para evitar prejuízo ao resultado final do processo.
+4. Agravo conhecido para conhecer em parte do recurso especial e negar-lhe provimento.
+(AREsp n. 2.733.595/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 15/9/2025, DJEN de 18/9/2025)
+Nessas condições, CONHEÇO do agravo para CONHECER EM PARTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Inaplicável ao caso a majoração de honorários advocatícios.
+Por fim, advirta-se que eventual recurso interposto contra este julgado estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º, e 1.026, § 2º).
+É o voto.
