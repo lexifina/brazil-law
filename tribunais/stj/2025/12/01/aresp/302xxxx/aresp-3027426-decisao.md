@@ -1,0 +1,28 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu recurso especial interposto por POSTO CHAMPAGNAT LTDA, em razão da incidência da Súmula  7 deste STJ e na impossibilidade de análise, em recurso especial, de violação de atos normativos infralegais.
+Argumenta  a  parte agravante,  em  síntese,  que:
+ ..  a matéria arguida no Recurso em comento cinge-se, unicamente, à inobservância a violação do artigo 3º do Decreto Federal nº 2.181/1997 e o artigo 57 da lei nº 8.078/1990 (Código de Defesa do Consumidor), além de destoar do entendimento deste Colendo Sodalício, apontados no momento da interposição do Recurso Especial.
+ ..
+Neste aspecto, válido registrar que, in casu, não há que se falar em incidência da Súmula nº. 07 deste colendo Superior Tribunal de Justiça, uma vez que a hipótese vertente não necessita de reexame da matéria fático-probatória.
+Não se busca o reexame de fatos e provas, mas tão somente, o exame da matéria de direito, no que diz respeito a usurpação da competência do judiciário para apreciar e julgar as relações consumeristas (fl. 637).
+Impugnação da parte agravada pelo improvimento do recurso.
+É o relatório.
+Passo a decidir.
+Nos termos do art. 932, III, do CPC e do Enunciado da Súmula 182/STJ, as alegações deduzidas pela parte agravante são insuficientes para serem consideradas como impugnação aos fundamentos da decisão agravada, notadamente em relação à incidência da Súmula  7/STJ e a impossibilidade de análise, em recurso especial, de violação de atos normativos infralegais.
+Consoante pacífica jurisprudência desta Corte, "são insuficientes para considerar como impugnação aos fundamentos da decisão que inadmite o recurso especial na origem: meras alegações genéricas sobre as razões que levaram à negativa de seguimento, o combate genérico e não específico e a simples menção a normas infraconstitucionais, feita de maneira esparsa e assistemática no corpo das razões do agravo em recurso especial" (AgInt no AREsp n. 2.146.906/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 9/11/2022, DJe de 11/11/2022).
+Especificamente quanto à Súmula 7/STJ, importa consignar que "não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual" (STJ, AgInt no AREsp 1.067.725/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 20/10/2017).
+Convém pontuar que a abertura de tópico/parágrafo próprio destinado a impugnar o óbice, por si só, não se mostra suficiente à efetiva impugnação, não eximindo a parte do dever de demonstrar de forma efetiva, no caso da Súmula 7/STJ, como seria possível modificar o entendimento firmado pelas instâncias ordinárias sem nova análise do conjunto fático-probatório, deixando claro quais fatos foram devidamente consignados no acórdão recorrido.
+A propósito:
+PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. PERSEGUIÇÃO, TORTURA OU PRISÃO DURANTE O REGIME MILITAR. PEDIDOS IMPROCEDENTES. NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO RECORRIDA. INCIDÊNCIA DA SÚMULA N. 7/STJ.
+I - Na origem, trata-se de ação em que se pleiteia a indenização por danos materiais e morais decorrentes de perseguição, tortura ou prisão durante o regime militar. Na sentença, julgaram-se os pedidos improcedentes pela ocorrência da prescrição. No Tribunal a quo, a sentença foi reformada para afastar a prescrição e julgar os pedidos improcedentes. Mediante análise dos autos, verifica-se que a decisão inadmitiu o recurso especial com base na incidência da Súmula n. 7/STJ. Entretanto, a parte agravante deixou de impugnar especificamente o referido óbice.
+II - São insuficientes para considerar como impugnação aos fundamentos da decisão que inadmite o recurso especial na origem: meras alegações genéricas sobre as razões que levaram à negativa de seguimento, o combate genérico e não específico e a simples menção a normas infraconstitucionais, feita de maneira esparsa e assistemática no corpo das razões do agravo em recurso especial.
+III - Incumbe à parte, no agravo em recurso especial, atacar os fundamentos da decisão que negou seguimento ao recurso na origem. Não o fazendo, é correta a decisão que não conhece do agravo nos próprios autos.
+IV - Agravo interno improvido (AgInt no AREsp n. 2.096.513/DF, relator Ministro Francisco Falcão, Segunda Turma, julgado em 13/3/2023, DJe de 16/3/2023).
+PROCESSUAL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE INADMISSIBILIDADE. NÃO IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. MANUTENÇÃO DA APLICAÇÃO DA SÚMULA N. 182 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Os recursos devem impugnar especificamente os fundamentos da decisão cuja reforma é pretendida, não sendo suficientes alegações genéricas nem a reiteração dos argumentos referentes ao mérito da controvérsia.
+2. Mantém-se a aplicação analógica da Súmula n. 182 do STJ quando não há impugnação efetiva, individualizada, específica e fundamentada de todos os fundamentos da decisão que inadmite recurso especial.
+3. Agravo interno desprovido (AgInt no AREsp n. 2.117.661/BA, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 24/10/2022, DJe de 26/10/2022).
+Isso posto, com fundamento no art. 34, XVIII, a, c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Sem condenação em honorários advocatícios recursais, tendo em vista o atingimento, na origem, dos limites percentuais previstos no art. 85, § 3º, do CPC.
+Intimem-se.
+ EMENTA
