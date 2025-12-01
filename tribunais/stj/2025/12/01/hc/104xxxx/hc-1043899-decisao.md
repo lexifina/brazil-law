@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de ALBINO MOSCARDE NETO PAGNAM, no qual aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Agravo de Execução Penal n. 0003704-18.2020.8.26.0520).
+Consta dos autos que "No dia 21/07/2018, na Penitenciária I de Potim-SP, durante o procedimento de contagem nominal dos sentenciados do raio 02, cela 01,  ..  um agente penitenciário escutou forte batida na parede do raio com a radial.  .. , o paciente se apresentou e informou que tinha sido ele quem teria chutado a parede, dizendo "fui eu mesmo e daí  Qual o problema  Vai fazer o que  Bati e bato de novo. Eu estou com muito ódio de todos e já era, pode sair daqui  .. " (fl.4).
+O Juízo de Direito do DEECRIM classificou a conduta como falta disciplinar de natureza média.
+Inconformado, o Ministério Público Estadual interpôs recurso, que foi provido, cassando a decisão e reconhecendo a falta como de natureza grave.
+Neste writ, a defesa sustenta o cabimento do presente habeas corpus, uma vez que, no seu entender, a decisão é manifestamente ilegal, causando no paciente, patente constrangimento ilegal.
+Alega que tal reconhecimento gerou prejuízos irreparáveis na execução da pena do paciente, pois ocasionou a interrupção do cálculo para benefícios legais e, ainda, perda de dias remidos.
+Argumenta que "a conduta do paciente não se amolda em nenhuma falta, contudo, se é para enquadrá-lo em uma, que seja a de falta média, pois a conduta do paciente não repercutiu qualquer consequência a ensejar o reconhecimento de falta grave" (fl. 7).
+Requer, inclusive liminarmente, a concessão da ordem de habeas corpus, para reconhecer a suposta ilegalidade da decisão que classificou como grave a falta de natureza média, anulando-se todos os efeitos desta decisão na execução do paciente.
+Liminar indeferida, às fls. 57-59.
+As informações foram prestadas, às fls. 65-68; 71-79.
+O MPF se manifestou pelo não conhecimento do habeas corpus, às fls. 81-82.
+É o relatório. DECIDO.
+O Superior Tribunal de Justiça entende ser inviável a utilização do habeas corpus como sucedâneo de recurso próprio, previsto na legislação, impondo-se o não conhecimento da impetração. Nesse sentido: AgRg no HC n. 933.316/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20 /8/2024, DJe de 27/8/2024 e AgRg no HC n. 749.702/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/2/2024, DJe de 29/2/2024.
+Em atenção ao disposto no art. 647-A do CPP, verifico que o julgado impugnado não possui ilegalidade flagrante que permita a concessão da ordem de ofício, conforme se depreende da fundamentação a ser exposta a seguir.
+Cinge-se a matéria a verificar a legalidade de imposição de falta grave.
+No presente caso, da análise dos elementos informativos constantes dos autos, não restou verificada a flagrante ilegalidade a legitimar a atuação deste Tribunal.
+Primeiramente, verifica-se que as instâncias ordinárias, após regular processo administrativo disciplinar, com as garantias do contraditório, da ampla defesa e do devido processo legal, impuseram em desfavor do paciente infração disciplinar de natureza grave.
+No tocante ao pleito de absolvição ou desclassificação, observa-se que as instâncias ordinárias assentaram que restou devidamente comprovada a prática da infração disciplinar, após ampla análise dos fatos e provas produzidos nos autos.
+Conforme exposto no acórdão " ..  restou devidamente comprovado que a conduta do agravado caracterizou sim desrespeito aos funcionários, isso porque, se dirigiu a eles sem cortesia, educação, com raiva, sem qualquer motivo aparente, em total desrespeito aos servidores que estavam cumprindo suas tarefas, colocando em risco, toda a segurança do estabelecimento prisional" (fl. 12).
+Dos autos, portanto, não se afere qualquer flagrante ilegalidade.
+A falta grave foi devidamente fundamentada em análise provas, de forma que não há como se afastar ou mesmo desclassificar a imputação disciplinar na hipótese pelo Superior Tribunal de Justiça na via do habeas corpus.
+Nesse contexto, para modificar as decisões das instâncias ordinárias para absolver ou desclassificar a falta imputada ao paciente, seria necessária a aprofundada incursão no acervo fático-probatório produzido no processo disciplinar, providência, sabidamente, inviável na via estreita do habeas corpus ou do seu recurso ordinário, remédio de rito célere e que não admite dilação probatória.
+Nesse sentido:
+ ..  1- O Superior Tribunal de Justiça consolidou entendimento no sentido de ser "desnecessária a realização de audiência de justificação para homologação de falta grave, se ocorreu a apuração da falta disciplinar em regular procedimento administrativo, no qual foi assegurado, ao reeducando, o contraditório e ampla defesa, inclusive com a participação da defesa técnica" (HC n. 333.233/SP, Relator Ministro FELIX FISCHER, Quinta Turma, DJe 6/11/2015).
+2- O apenado, ao ser interrogado administrativamente, foi "ouvido na presença de Defensor da FUNAP, de modo que foi possibilitado exercer amplamente seu direito de defesa, tanto o é que sustentou sua justificativa para o ato, de modo que a defesa esteve atuante e presente em todos os momentos necessários do PAD, inclusive nas aludidas oitivas testemunhais.
+3- A prova oral produzida, consistente em declarações coesas dos agentes de segurança penitenciária se mostraram suficientes para a caracterização da falta como grave (..). A Jurisprudência é pacífica no sentido de inexistir fundamento o questionamento, a "priori", das declarações de servidores públicos, uma vez que suas palavras se revestem, até prova em contrário, de presunção de veracidade e de legitimidade,  ..  (HC n.º 391.170/SP, Rel. Min. NEFI CORDEIRO, julgado em 1º/8/2017, publicado em 7/8/2017).
+4- "O habeas corpus não é meio adequado para afastar as conclusões das instâncias ordinárias a respeito da materialidade da falta grave imputada ao ora agravante e, consequentemente, desclassificar a falta imputada como grave por média, diante da impossibilidade de exame aprofundado de provas"  ..  (AgRg no HC 560.935/SC, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 09/06/2020, DJe 23/06/2020).
+5- A análise de que o fato praticado configura ou não infração disciplinar administrativa, seja de natureza leve, média ou grave, demanda o revolvimento do conteúdo fático-probatório dos autos, o que é inadmissível na via eleita.
+6- Agravo regimental não provido (AgRg no HC n. 885.403/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1/7/2024, DJe de 3/7/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. DESOBEDIÊNCIA. FALTA GRAVE. PEDIDO DE ABSOLVIÇÃO POR AUSÊNCIA DE PROVA. NECESSIDADE DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS.
+1. A não obediência às ordens recebidas dos agentes da unidade prisional constitui falta grave.
+2. Para modificar a decisão de origem, a fim de absolver o paciente em relação à falta disciplinar, seria necessário o reexame do acervo fático-probatório, providência inviável na via estreita do habeas corpus.
+3. Agravo regimental não provido (AgRg no HC n. 899.739/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 19/8/2024, DJe de 23/8/2024.)
+Também a esse respeito: AgRg no HC n. 817.562/RS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 30/6/2023; AgRg no HC 812.438/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 29/6/2023; HC n. 704.718/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 23/5/2023; e AgRg no HC 811.106/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 22/6/2023.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
