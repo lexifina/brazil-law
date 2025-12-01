@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 25/11/2025 a 01/12/2025, por unanimidade, acolher parcialmente os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Marco Buzzi, João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. HONORÁRIOS DE SUCUMBÊNCIA. MÁ-FÉ. NECESSIDADE. PRINCÍPIO DA SIMETRIA. RECONSIDERAÇÃO. OMISSÃO E CONTRADIÇÃO. INEXISTÊNCIA.
+1. Em ação civil pública, só haverá condenação em honorários advocatícios sucumbenciais se comprovada má-fé, nos termos do art. 18 da Lei n. 7.347/1985. Esse entendimento se aplica, por simetria, tanto para o autor quanto para o réu.
+2. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+3. Embargos de declaração parcialmente acolhidos.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por SINDICATO DOS PROFISSIONAIS DA EDUCAÇÃO DO MUNICÍPIO DE GOIANA PE e OUTRO contra acórdão assim ementado (fls. 518-519):
+DIREITO DO CONSUMIDOR. RECURSO ESPECIAL. EMPRÉSTIMOS CONSIGNADOS. ATRASO NO PAGAMENTO DOS VENCIMENTOS PELA ADMINISTRAÇÃO PÚBLICA. MORA DOS CONSUMIDORES NÃO CONFIGURADA. JUROS E MULTA NÃO PASSÍVEIS DE COBRANÇA AOS MUTUÁRIOS. AUSÊNCIA DE MÁ-FÉ DO CREDOR. COBRANÇA BASEADA EM INTERPRETAÇÃO CONTRATUAL. DANOS MORAIS NÃO CONFIGURADOS. REPETIÇÃO SIMPLES DO INDÉBITO, POR MODULÇÃO.
+1. Ação civil pública ajuizada por sindicatos de servidores públicos municipais contra instituição financeira que passou a efetuar descontos diretamente na conta corrente dos servidores, relativos a parcelas vencidas de empréstimos consignados, acrescidas de juros e multa, em razão do atraso no pagamento dos vencimentos pelo ente público.
+2. Embora seja certo que há mora em relação ao direito do banco de receber o valor das prestações na data aprazada, no caso, dadas as circunstâncias, ela deve ser imputada à instituição pagadora. Com efeito, foi esta que descumpriu sua obrigação de pagar tempestivamente a remuneração dos servidores, deduzir do respectivo valor a prestação mensal e repassá-la ao credor, depositando, em seguida, o saldo na conta corrente do servidor.
+3. Não tendo sido demonstrado prejuízo concreto à esfera extrapatrimonial dos consumidores, deve ser afastada a condenação por danos morais presumidos.
+4. A Corte Especial do STJ, ao julgar os EREsp 1.413.542/RS, fixou a tese de que a devolução em dobro do indébito, prevista no art. 42, parágrafo único, do CDC, exige a demonstração de conduta contrária à boa-fé objetiva, superando o entendimento até então prevalecente na Segunda Seção quanto à necessidade de configuração de má- fé do credor. Houve, porém, a modulação de efeitos da decisão, quanto às relações jurídicas exclusivamente privadas, para alcançar apenas os casos de desconto indevido ocorrido após a publicação do seu acórdão (em 30/3/2021).
+5. No caso, além de a cobrança dizer respeito a dívida vencida validamente assumida pelo mutuário, tendo o erro consistido apenas na definição do responsável pela mora, a restituição em dobro também não se justifica, porque cabível a modulação determinada no EREsp 1.413.542/RS. Assim, impõe-se a reforma do acórdão recorrido para determinar a repetição simples do indébito, por não ter sido atestada a conduta de má- fé da instituição financeira, que, diante da existência de dívida vencida e não paga, baseou sua conduta na interpretação de cláusulas contratuais.
+6. Recurso especial parcialmente provido.
+Nas razões do seu recurso, a parte embargante alega que há omissão quanto à análise dos requisitos de admissibilidade do recurso especial, defendendo a incidência das Súmulas 5 e 7 do Superior Tribunal de Justiça e a impossibilidade de conhecimento do apelo, por exigir reexame de fatos, provas e cláusulas contratuais.
+Aduz contradição em virtude do afastamento da condenação do Banco do Brasil à devolução em dobro dos valores indevidamente descontados, afirmando indevida aplicação da modulação dos efeitos dos EREsp 1.413.542/RS como se a relação fosse "exclusivamente privada", quando haveria relação com prestação de serviços públicos.
+Defende contradição e julgamento extra petita quanto ao afastamento dos danos morais, porque o recurso especial do Banco não teria deduzido causa de pedir relativa à inexistência de danos morais presumidos, e o acórdão teria inovado ao usar fundamento não invocado.
+Argumenta impossibilidade de fixação de honorários sucumbenciais em ação civil pública, à luz do art. 18 da Lei 7.347/1985, pleiteando o afastamento da sucumbência recíproca imposta.
+Impugnação aos embargos de declaração às fls. 562-565 na qual a parte embargada alega que não há omissão ou contradição, pretendendo a parte embargante mero rejulgamento da causa.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. HONORÁRIOS DE SUCUMBÊNCIA. MÁ-FÉ. NECESSIDADE. PRINCÍPIO DA SIMETRIA. RECONSIDERAÇÃO. OMISSÃO E CONTRADIÇÃO. INEXISTÊNCIA.
+1. Em ação civil pública, só haverá condenação em honorários advocatícios sucumbenciais se comprovada má-fé, nos termos do art. 18 da Lei n. 7.347/1985. Esse entendimento se aplica, por simetria, tanto para o autor quanto para o réu.
+2. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+3. Embargos de declaração parcialmente acolhidos.
+VOTO
+Os presentes embargos devem prosperar em parte, tão somente com relação aos honorários de sucumbência.
+De fato, a jurisprudência do STJ reconhece que, em ação civil pública, só haverá cond enação em honorários advocatícios sucumbenciais se comprovada má-fé, nos termos do art. 18 da Lei n. 7.347/1985. Esse entendimento se aplica, por simetria, tanto para o autor quanto para o réu. A saber:
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO COLETIVA AJUIZADA POR SINDICATO COMO SUBSTITUTO PROCESSUAL. CONDENAÇÃO AO PAGAMENTO DE HONORÁRIOS ADVOCÁTICIOS. ART. 18 DA LEI 7.347/1985. DESCABIMENTO. AUSÊNCIA DE MÁ-FÉ. AGRAVO INTERNO DESPROVIDO. 1. A jurisprudência do STJ é a de que, em ações coletivas, não é cabível a condenação do autor em honorários advocatícios sucumbenciais, na forma do art. 18 da Lei 7.347/1985. O referido entendimento deve ser aplicado tanto para o autor - Ministério Público, entes públicos e demais legitimados para a propositura da Ação Civil Pública - quanto para o réu, em obediência ao princípio da simetria. Precedentes. 2. Agravo interno desprovido.
+(AgInt no REsp n. 2.189.372/TO, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 10/9/2025, DJEN de 18/9/2025.)
+AÇÃO CIVIL PÚBLICA. ART. 18 DA LEI N. 7.347/85. IMPOSSIBILIDADE DE ADIANTAMENTO DE CUSTAS PELO AUTOR. CONDENAÇÃO AO PAGAMENTO. INVIABILIDADE. 1. Em se tratando de ação civil pública, a parte autora só pode ser condenada ao pagamento de honorários advocatícios e de despesas processuais em caso de comprovada má-fé. 2. Recurso especial parcialmente conhecido e provido.
+(REsp n. 999.003, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 2/3/2010, DJE de 15/3/2010.)
+Desse modo, os presentes embargos devem ser acolhidos para se excluir do acórdão impugnado a referência à fixação de honorários de sucumbência.
+No mais, observo que a decisão embargada enfrentou coerentemente as questões postas a julgamento, no que foi pertinente e necessário, exibindo fundamentação clara e suficiente, razão pela qual não merece nenhum outro reparo, conforme se depreende de seus próprios fundamentos.
+Não há falar em incidência dos óbices das Súmulas 5 e 7/STJ na hipótese, uma vez que os aspectos fáticos e probatórios da lide descritos na sentença e no acórdão estadual foram suficientes para examinar o recurso especial.
+Ademais, não se constata contradição quanto à aplicação da modulação de efeitos definida nos EREsp 1.413.542/RS. A controvérsia dos autos envolve contratos bancários privados com consumidores, não havendo nenhuma discussão quanto à prestação de serviços públicos.
+Tampouco se verifica decisão "extra petita", no que diz respeito ao afastamento dos danos morais, porque esse foi um pedido expresso da parte ora embargada nas razões do seu recurso especial (fls. 444-445).
+Em face do exposto, acolho parcialmente os embargos de declaração tão somente para afastar a condenação a honorários de sucumbência a ambas as partes.
+É como voto.
