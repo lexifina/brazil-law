@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de EUNICE RIBEIRO DA SILVA contra acórdão que denegou a ordem ao writ originário e manteve a prisão preventiva da paciente.
+Consta dos autos que a paciente teve a prisão preventiva decretada, bem como foi denunciada pela prática do crime descrito no art. 2º, §§ 2º, 3º e 4º, inc. I, IV e V, da Lei nº 12.850/2013, por suposta atuação em organização criminosa autodenominada "Comando Vermelho". Em sede de habeas corpus, o Tribunal de origem denegou a ordem, mantendo a prisão cautelar.
+No presente writ, o impetrante sustenta negativa de autoria e inexistência de requisitos para a prisão preventiva, afirmando que a fundamentação seria genérica e lastreada na gravidade abstrata do delito e ausência de fatos contemporâneos para prisão.
+Aponta condições pessoais favoráveis da paciente (residência fixa, trabalho lícito e bons antecedentes) e o fato de ser mãe solo de dois filhos menores de dezoito anos que necessitam de seus cuidados, defendendo assim pela possibilidade de substituição da preventiva por medidas cautelares do art. 319 do Código de Processo Penal (CPP).
+Requer, liminarmente e no mérito, a revogação da prisão preventiva do paciente com ou sem imposição de medidas cautelares diversa da prisão.
+A liminar foi indeferida (fls. 121-125).
+Foram prestadas informações (fls. 131-210; 215-284).
+O Ministério Público Federal manifestou-se pela denegação da ordem (fls. 287-291).
+É o relatório.
+DECIDO.
+Cumpre destacar que a Quinta Turma do Superior Tribunal de Justiça firmou entendimento no sentido de ser inadequada a impetração de habeas corpus quando utilizado em substituição a recurso próprio.
+A teor do disposto no art. 105, II, a, da CF/88, o recurso cabível contra acórdão que denega a ordem na origem é o recurso ordinário, enquanto que, consoante previsto no art. 105, III, da CF, contra acórdão que julga a apelação, o recurso em sentido estrito e o agravo em execução, cabe recurso especial. Nada impede, contudo, constatada a existência de ilegalidade flagrante, abuso de poder ou teratologia, a concessão de habeas corpus de ofício, nos termos do art. 654, §2º do CPP, o que ora passa-se a examinar.
+Primeiramente, não se conhece das alegações relativas à autoria e materialidade, pois, no procedimento do habeas corpus, não se permite a produção de provas, já que essa ação constitucional deve ter por objetivo sanar ilegalidade verificada de plano, não se fazendo possível aferir a materialidade e a autoria delitiva quando controversas.
+No mais, não obstante a excepcionalidade que é a segregação cautelar da liberdade antes do trânsito em julgado da sentença penal, reveste-se de legalidade a medida extrema quando baseada em elementos objetivos, nos termos do art. 312 do CPP.
+A decisão que decretou a prisão preventiva restou assim fundamentada (fls. 105-108):
+ ..
+Pois bem. Quanto ao pleito de prisão preventiva, de análise esmerada dos autos, como também de exame do art. 312, do CPP, bem como de verificação da doutrina e jurisprudência pátrias, sobretudo dos Tribunais Superiores, observo presentes os pressupostos da prisão preventiva - o fumus comissi delicti (fumus boni iuris), em relação aos mencionados representados, consubstanciados na prova da materialidade do crime e na existência de indícios suficientes de autoria do delito de integrar a perigosa organização criminosa Comando Vermelho, assim como o fundamento da prisão preventiva da garantia da ordem pública - o periculum libertatis (periculum in mora), ressaltando-se que há perigo gerado pelo estado de liberdade dos ora representados, segundo as provas apresentadas nos autos no momento, em um juiÍo perfunctório.
+ ..
+Nessa toada, ressalte-se, como já dito, que estão presentes, in casu, o fundamento da prisão preventiva da garantia da ordem pública - periculum libertatis -, observando-se o modus operandi na prática do crime, havendo, dessarte, fortes indícios, outrossim, de prática, pelos investigados, do delito de integrar a organização criminosa Comando Vermelho, facção esta de extrema periculosidade e que dispensa maiores apresentações, o que evidencia a extrema periculosidade real dos mencionados investigados, a elevada gravidade concreta do delito, bem como indicativos concretos de que, em liberdade, os referidos representados voltarão a praticar delitos, afetando severamente a ordem pública e a paz social, não cabendo, outrossim, a substituição da prisão preventiva em questão por medidas cautelares diversas da prisão, uma vez que não seriam bastantes para impedir eventual reiteração criminosa, em virtude do exposto.
+ ..
+Pelo exposto, corroborado pelo parecer Ministerial constante do ID 116953203, deferimos o pleito de prisão preventiva de ID 113345922 e DECRETAMOS A PRISÃO PREVENTIVA de:
+ ..
+6. EUNICE RIBEIRO DA SILVA, RG: 4033052;
+ ..
+Verifica-se que a prisão preventiva foi decretada mediante fundamentação idônea para garantia da ordem pública, lastreada na gravidade concreta da conduta imputada, considerando que a paciente supostamente integra organização criminosa autodenominada Comando Vermelho.
+Com efeito, conforme entendimento consolidado no âmbito desta Corte Superior, constitui fundamentação apta a justificar, de modo concreto, a prisão preventiva, a bem da ordem pública, a necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa. Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA. EXCESSO DE PRAZO PARA O JULGAMENTO DO APELO. NÃO CONFIGURADO. PRISÃO PREVENTIVA. GRAVIDADE DO FATO. GARANTIA DA ORDEM PÚBLICA. RECURSO NÃO PROVIDO.
+1. A jurisprudência desta Corte Superior é firme no sentido de que as penas impostas na sentença condenatória devem ser consideradas para fins de análise de suposto excesso de prazo no processamento da apelação. No caso, levando-se em conta a pena total imposta ao agravante (6 anos, 2 meses e 19 dias de reclusão), não se verifica, por ora, o excesso de prazo no julgamento do recurso.
+2. Na hipótese, após investigação no bojo da "Operação Turfe", concluiu-se que o acusado integrou organização criminosa voltada para o tráfico transnacional de cocaína, em posição de destaque, sendo um dos líderes e corresponsável pela logística de importação da droga no Brasil e garantia a segurança dos negócios do grupo em território paraguaio. A jurisprudência pacífica do Supremo Tribunal Federal, seguida por esse Superior Tribunal de Justiça, entende-se que "a necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa enquadra-se no conceito de garantia da ordem pública, constituindo fundamentação cautelar idônea e suficiente para a prisão preventiva".
+3. Agravo regimental não provido.
+(AgRg no HC n. 904.049/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 24/6/2024, DJe de 1/7/2024.)
+Destaque-se, de outro lado, que o fato de o acusado possuir condições pessoais favoráveis, por si só, não impede a decretação de sua prisão preventiva, consoante pacífico entendimento deste Superior Tribunal de Justiça. Nesse sentido: AgRg no HC n. 865.097/SE, Rel. Min. Ribeiro Dantas, Quinta Turma, j. em 18/12/2023, DJe de 20/12/2023.
+Assim, " h avendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública" (AgRg no HC 955834 / GO, relator Ministro Og Fernandes, Sexta Turma, julgado em 12/02/2025, DJEN 18/02/2025).
+Por fim, em que pese a alegação de que a paciente possui filhos com 16 e 13 anos , observa-se a ausência do preenchimento do requisito objetivo do art. 318, VI, do CPP, que restringe a concessão às mães de filhos menores de 12 anos, à luz do precedente vinculante do STF (HC coletivo nº 143.641/SP).
+Não há, portanto, flagrante ilegalidade que justifique a concessão de habeas corpus de ofício.
+Ante exposto, não conheço o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
