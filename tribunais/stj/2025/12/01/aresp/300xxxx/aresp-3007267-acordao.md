@@ -1,0 +1,72 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 25/11/2025 a 01/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira, Marco Buzzi e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RESCISÃO CONTRATUAL. INCAPACIDADE DA PARTE. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. COMPREENSÃO LÓGICO-SISTEMÁTICA DOS FATOS, FUNDAMENTOS E PEDIDOS DA PETIÇÃO INICIAL. PROVIMENTO JURISDICIONAL ADSTRITO AO PEDIDO. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO EM RECURSO ESPECIAL CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
+1. Afasta-se a alegação de julgamento extra petita quando o provimento jurisdicional decorre de uma compreensão lógico-sistemática dos fatos e fundamentos expostos na petição inicial, entendido como aquilo que se pretende com a instauração da demanda. No caso, o provimento jurisdicional exarado pelo Tribunal Local está adstrito aos pedidos formulados na inicial da ação ajuizada pela ora agravada.
+2. O entendimento adotado no acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+3. Agravo conhecido. Recurso especial desprovido.
+RELATÓRIO
+Trata-se de agravo contra decisão que inadmitiu recurso especial, interposto por BANCO DIGIMAIS S.A com fulcro na alínea "a" do permissivo constitucional, objetando-se decisão, tomada pelo eg. Tribunal de Justiça do Estado de Minas Gerais, em acórdão assim ementado (fls. 296/303):
+APELAÇÃO CÍVEL - AÇÃO ANULATÓRIA DE NEGÓCIO JURÍDICO C/C DANOS MORAIS - NULIDADE DA SENTENÇA - VÍCIO EXTRA PETITA - NÃO OCORRÊNCIA - AGENTE INCAPAZ - COMPROVAÇÃO - DANOS MORAIS - NÃO CONFIGURAÇÃO.
+- O juiz decidirá o mérito nos limites propostos pelas partes, sendo-lhe vedado conhecer de questões não suscitadas a cujo respeito a lei exige iniciativa da parte (CPC, art. 141).
+- É nulo o negócio jurídico celebrado por pessoa absolutamente incapaz (art. 166, I, do Código Civil).
+- Dano moral é o que atinge aspectos constitutivos da identidade do indivíduo, a exemplo do seu corpo, do seu nome, da sua imagem e de sua aparência. A indenização pelo dano moral, mesmo não tendo suficiência para apagar o abalo experimentado pela vítima, pelo menos, servirá como um paliativo compensatório.
+- A cobrança indevida, sem outras repercussões, não dá causa à indenização por danos morais.
+Em seu recurso especial (fls. 296/303), o recorrente alega violação dos seguintes dispositivos de lei federal, com as respectivas teses:
+(i) arts. 141 e 492, ambos do Código de Processo Civil. Sustenta que inexiste nos presentes autos pedido de restituição de valores referentes às parcelas pagas. Sustentou que o acórdão manteve essa condenação, por entender ser consequência da rescisão contratual. Afirma haver julgamento extra petita na condenação à restituição das parcelas adimplidas pela parte recorrida.
+(ii) arts. 368, 369 e 586, todos do Código Civil. Assevera que mesmo com a nulidade reconhecida no contrato, deve haver restituição do principal mutuado ao banco para recompor o status quo, pois, a recorrida recebeu os valores do empréstimo. Sustenta que, existindo créditos recíprocos entre as partes, é imperiosa a compensação entre o valor mutuado e as parcelas pagas.
+Não foram ofertadas contrarrazões.
+Em juízo prévio de admissibilidade, o eg. TJ-MG inadmitiu o apelo nobre, dando ensejo ao presente agravo.
+Não foi oferecida contraminuta.
+É o relatório.
+EMENTA
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RESCISÃO CONTRATUAL. INCAPACIDADE DA PARTE. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. COMPREENSÃO LÓGICO-SISTEMÁTICA DOS FATOS, FUNDAMENTOS E PEDIDOS DA PETIÇÃO INICIAL. PROVIMENTO JURISDICIONAL ADSTRITO AO PEDIDO. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO EM RECURSO ESPECIAL CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
+1. Afasta-se a alegação de julgamento extra petita quando o provimento jurisdicional decorre de uma compreensão lógico-sistemática dos fatos e fundamentos expostos na petição inicial, entendido como aquilo que se pretende com a instauração da demanda. No caso, o provimento jurisdicional exarado pelo Tribunal Local está adstrito aos pedidos formulados na inicial da ação ajuizada pela ora agravada.
+2. O entendimento adotado no acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+3. Agravo conhecido. Recurso especial desprovido.
+VOTO
+Extrai-se dos autos que, na origem, ARACELE CLÁUDIA ALVES BARRETO, representada por sua curadora MARIA GELMA ALVES DE ALCÂNTARA, alegou ser pessoa interditada desde 01/08/2005 e ter recebido cobranças de contrato de compra e financiamento de veículo celebrado em seu nome, o que seria inviável sem participação da curadora. Propôs ação anulatória de negócio jurídico cumulada com pedido de danos morais e tutela antecipada para suspensão de cobranças contra BANCO DIGIMAIS S/A, afirmando a nulidade do contrato por incapacidade civil e requerendo indenização.
+A sentença julgou parcialmente procedentes os pedidos para declarar a nulidade da cédula de crédito bancário, determinar o retorno ao status quo ante com a devolução das prestações descontadas da conta da autora e o retorno de eventuais valores creditados ao banco, fixando correção monetária e juros, e distribuindo a sucumbência de forma recíproca. Afastou a indenização por danos morais por ausência de ato ilícito e de negativação do nome da autora (fls. 200-205).
+O acórdão rejeitou a preliminar de nulidade por vício extra petita, por entender que a restituição seria consequência da anulação do negócio, aplicou o Código de Defesa do Consumidor às instituições financeiras (Súmula 297 do Superior Tribunal de Justiça), confirmou a declaração de nulidade com retorno das partes à situação anterior ao contrato e negou a indenização por danos morais por falta de prova de descontos ou negativação; ao final, negou provimento aos recursos, fixou honorários recursais em R$ 3.500,00 e suspendeu a exigibilidade para a autora em razão da gratuidade (fls. 274-280).
+A insurgência da recorrente não merece prosperar.
+No caso, o eg. TJ-MG, com arrimo no acervo fático-probatório carreado aos autos, rejeitou a alegação de julgamento extra petita, conforme, v. acórdão do qual se transcreve o seguinte excerto:
+"No caso, na petição inicial, a autora pediu a declaração de nulidade de contrato firmado com o banco réu, sendo certo que a restituição de valores pagos por esse contrato é uma consequência da anulação do negócio jurídico.
+Assim, pelo que se vê, a juíza de 1º grau decidiu a lide nos limites em que foi proposta, analisando de forma clara e coerente as teses sustentadas na petição inicial, pelo que não há vício extra petita na sentença.
+(..)
+Dito isso, a pretensão do réu/2º apelante não procede, pois a declaração de nulidade do contrato enseja o retorno das partes à situação anterior à assinatura do contrato, algo que pressupõe a restituição de eventuais valores pagos.
+De mais a mais, eventuais valores pagos pela autora serão apurados e provados em liquidação de sentença, podendo ser apurado, inclusive, nenhum saldo a ser restituído." (fls. 274/280).
+Da leitura dos excertos ora transcrito, não se infere ofensa aos referidos dispositivos legais, na medida em que o provimento jurisdicional exarado pelo eg. TJ-MG está adstrito aos pedidos formulado na inicial da ação ajuizada pela ora agravada. Cumpre ressaltar que, consoante orientação desta Corte, a interpretação das pretensões levadas a juízo demanda análise lógico-sistêmica das manifestações das partes, sendo que a identificação pelo julgador de pedidos, ainda que implícitos, nas petições não enseja violação ao princípio da adstrição ou congruência.
+Posto isso, a restituição dos valores adimplidos pela recorrida é consequência lógica da rescisão contratual, o que está em conformidade com o direito posto. Logo, não houve decisão que extrapolasse os limites do princípio da congruência.
+Nesse sentido, colhem-se os seguintes julgados:
+"RECURSO ESPECIAL - AÇÃO CONDENATÓRIA C/C PEDIDO DECLARATÓRIO PROPOSTA POR CESSIONÁRIA DE CONTRATO FIRMADO PARA A CONSTRUÇÃO DE GASODUTO/OLEODUTO - RECONVENÇÃO JULGADA PARCIALMENTE PROCEDENTE ANTE O DESCUMPRIMENTO DO DEVER DE COOPERAÇÃO COM AS EMPREITEIRAS - CONDENAÇÃO DA AUTORA/RECONVINDA PELOS PREJUÍZOS PROVOCADOS. IRRESIGNAÇÃO DAS PARTES. (..)
+2. Não se pode reputar de extra petita a deliberação judicial que interpreta de forma ampla os pleitos formulados pelas partes, pois o pedido é o que se pretende com a instauração da demanda e se extrai da interpretação lógico-sistemática da petição inicial/reconvenção. (..)
+C. Conclusão Recursos especiais conhecidos em parte e, na extensão, desprovidos."
+(REsp n. 2.006.681/RJ, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 7/2/2023, DJe de 31/3/2023)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TRATAMENTO MÉDICO-HOSPITALAR. CUMPRIMENTO DE SENTENÇA. ART. 489 DO CÓDIGO DE PROCESSO CIVIL DE 2015. VIOLAÇÃO. NÂO OCORRÊNCIA. JULGAMENTO EXTRA PETITA. NÃO CONFIGURAÇÃO. EFEITOS DA COISA JULGADA. REEXAME. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA Nº 7/STJ.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. O Superior Tribunal de Justiça entende que os pedidos formulados pelos recorrentes devem ser analisados a partir de uma interpretação lógico-sistemática, não podendo o magistrado se esquivar da análise ampla e detida da relação jurídica posta em exame.
+3. Não há falar em julgamento extra petita se a controvérsia foi decidida nos limites delineados na petição inicial.
+4. A jurisprudência desta Corte Superior é pacífica no sentido de que a revisão das conclusões do tribunal de origem acerca da existência ou não de coisa julgada demandaria o revolvimento do contexto fático-probatório dos autos, procedimento que encontra óbice no disposto na Súmula nº 7/STJ.
+5. Agravo interno não provido."
+(AgInt no AREsp n. 2.012.919/SP, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 6/3/2023, DJe de 10/3/2023)
+"AGRAVO INTERNO. RECURSO ESPECIAL. DECISÃO EXTRA PETITA. NÃO CONFIGURADA. NULIDADE PROCESSUAL. AUSÊNCIA DE PREJUÍZO. NÃO PROVIMENTO.
+1. "O julgador não viola os limites da causa quando reconhece os pedidos implícitos formulados na inicial, não estando restrito apenas ao que está expresso no capítulo referente aos pedidos, sendo-lhe permitido extrair da interpretação lógico-sistemática da peça inicial aquilo que se pretende obter com a demanda, aplicando o princípio da equidade" (AgInt no AREsp 1587128/MG, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 30/3/2020, DJe de 2/4/2020).
+2. A jurisprudência do Superior Tribunal de Justiça orienta-se no sentido de que a declaração da nulidade do ato processual está condicionada à demonstração de efetivo prejuízo (pas de nullité sans grief).
+3. Agravo interno a que se nega provimento."
+(AgInt no REsp n. 1.981.341/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 13/3/2023, DJe de 16/3/2023)
+"PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE CONTRATO DE COMPRA E VENDA DE IMÓVEL. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. PROVIMENTO JURISDICIONAL DECORRENTE DE COMPREENSÃO LÓGICO-SISTEMÁTICA DOS FATOS E FUNDAMENTOS DA PETIÇÃO INICIAL. NOME DA AÇÃO QUE NÃO CONDICIONA A PRESTAÇÃO JURISDICIONAL. DECISÃO DE ACORDO COM A JURISPRUDÊNCIA DESTA CORTE. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Afasta-se a alegação de julgamento extra petita quando o provimento jurisdicional decorre de uma compreensão lógico-sistemática dos fatos e fundamentos expostos na petição inicial, entendido como aquilo que se pretende com a instauração da demanda.
+2. Nos termos da jurisprudência desta Corte, "O nome ou título da ação utilizado pelo autor, na inicial, não conduz nem tampouco condiciona a atividade jurisdicional, a qual está adstrita tão somente à causa de pedir e ao pedido, de sorte que não há falar em julgamento extra petita quando a controvérsia é decidida pelo magistrado nos limites do que foi proposto, independentemente do nome dado à petição inicial". (AgInt no REsp n. 1.799.830/AC, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 19/11/2019, DJe de 6/12/2019.)
+3. Estando a decisão de acordo com a jurisprudência desta Corte, o recurso especial encontra óbice na Súmula 83/STJ, que incide pelas alíneas "a" e "c" do permissivo constitucional.
+4. Agravo interno desprovido."
+(AgInt nos EDcl no AREsp n. 2.035.025/RR, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 15/8/2022, DJe de 26/8/2022)
+Nesse contexto, verifica-se que o entendimento esposado no v. acórdão recorrido está em consonância com a pacífica jurisprudência do Superior Tribunal de Justiça, circunstância que atrai a incidência da Súmula 83/STJ.
+Quanto à insurgência de que deve haver restituição do principal mutuado ao banco para recompro o status quo ante, a sentença assim conferiu o direito à compensação. In verbis:
+"Ante o exposto, JULGO PARCIALMENTE PROCEDENTES os pedidos iniciais para declarar a nulidade da cédula de crédito bancário firmada entre as partes, constante em ID 8714813043, impondo-se o retorno à situação anterior à contratação, com a devolução de todas as prestações descontadas de conta da autora, bem como o retorno de eventuais os valores recebidos a título de empréstimo ao banco réu." (fls. 200/205).
+Ou seja, o ponto recorrido, em verdade, já está decidido no sentido apontado pelo recorrente, o que revela a ausência de interesse recursal.
+Com estas considerações, conclui-se que o apelo não merece prosperar.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil de 2015, majoro os honorários advocatícios devidos à parte agravada em 10% sobre o valor já fixado pelas instâncias ordinárias.
+É o voto.
