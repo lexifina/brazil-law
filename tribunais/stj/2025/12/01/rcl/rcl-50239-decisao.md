@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de reclamação constitucional proposta em face da decisão do TJSP que inadmitiu o recurso especial ao fundamento de que o acórdão recorrido está em conformidade com o Tema n. 1.061 do STJ.
+A parte autora afirma que, ao consultar os extratos referentes ao benefício previdenciário que recebe, verificou descontos mensais decorrentes de contratos de empréstimo consignado que nega ter celebrado, no montante total aproximado de R$ 12.622,68.
+Nada obstante, segundo narra, o Juízo primeiro julgou improcedentes os pedidos, já que a autora não comprovara a inexistência da contratação, afastando a aplicação da inversão do ônus da prova. Além disso, o Tribunal de Justiça manteve a sentença no julgamento da apelação, bem como obstou o trânsito do recurso especial com base no art. 1.030, I, b, do CPC.
+Sustenta a reclamante que houve ofensa à autoridade do precedente qualificado fixado no Tema n. 1.061 do STJ. Alega ainda que a negativa da inversão do ônus da prova resultou em tumulto processual e indevida improcedência da ação, justificando a utilização da via reclamatória para assegurar a autoridade das decisões desta Corte (art. 988, I e II, do CPC).
+Requer a concessão da tutela de urgência para suspender o andamento da ação originária e impedir o trânsito em julgado.
+Formula pedido final de cassação da sentença e do acórdão com reconhecimento da inexistência da relação jurídica com a instituição financeira, repetição de indébito em dobro (Tema n. 929 do STJ) e indenização por danos morais no valor de R$ 5.000,00.
+É o relatório. Decido.
+Trata-se de reclamação constitucional objetivando a cassação de acórdão proferido nos Autos n. 1012248-89.2024.8.26.0664, em tramite no TJSP, bem como o reconhecimento de suposta afronta ao entendimento firmado pelo STJ no Tema 1.061, referente à distribuição do ônus da prova na hipótese de impugnação de assinatura em contratos bancários.
+Examinando os autos, verifica-se que a presente reclamação está sendo utilizada apenas como mero sucedâneo recursal.
+Registre-se que a reclamação constitucional não se presta como meio de revisão ou reforma de decisão judicial para adequá-la a entendimento firmado em recurso repetitivo, mormente quando a própria instância de origem expressamente aplicou o precedente invocado.
+Nesse sentido:
+AGRAVO INTERNO NA RECLAMAÇÃO. CONTROLE DE APLICAÇÃO DE ENTENDIMENTO FIRMADO EM RECURSO ESPECIAL REPETITIVO. SUCEDÂNEO RECURSAL.
+INADEQUAÇÃO DA VIA ELEITA. INDEFERIMENTO DA INICIAL. AGRAVO DESPROVIDO.
+1. É incabível reclamação para controle, no caso concreto, da aplicação de entendimento firmado pelo Superior Tribunal de Justiça em recurso especial repetitivo.
+2. Não se admite a utilização da reclamação constitucional como sucedâneo recursal ou com finalidade rescisória. Aplicação da Súmula n. 734 do STF por analogia.
+3. Agravo interno desprovido. (AgInt na Rcl n. 43.547/RR, relator Ministro João Otávio de Noronha, Segunda Seção, julgado em 14/2/2023, DJe de 17/2/2023.)
+Ademais, a Corte Especial, ao julgar a Rcl n. 36.476/SP, assentou que a reclamação constitucional não é instrumento adequado para controle, no caso concreto, da aplicação de entendimento firmado pelo STJ em recursos especiais repetitivos.
+Portanto, trata-se de reclamação manifestamente inadmissível.
+Embora não se possa admitir a presente reclamação, tal fato não isenta a parte dos deveres estabelecidos no art. 77 do CPC, entre eles o de expor os fatos em juízo conforme a verdade. Como esse dever de veracidade tem por sujeito passivo o próprio Estado-Juiz, sua consumação ocorre logo que o ato é praticado.
+Observa-se que, no caso concreto, a premissa fática narrada na inicial  a de que a instância de origem teria afastado a inversão do ônus da prova em favor da consumidora, ora reclamante  é falsa.
+Em várias passagens consta a mesma alegação. Observe-se (fls. 3 e 4):
+ ..  haja vista a parte autora não ter se desincumbido de fazer prova de suas alegações, aplicando a inversão do ônus da prova em desfavor a consumidora e em contrariedade a afetação de Recursos Repetitivos Tema 1.061/STJ.
+ ..  subtraindo da consumidora a devida aplicação para a inversão do ônus da prova, como previsto na afetação de Recursos Repetitivos (Tema 1.061/STJ), Art. 6.º, VIII do CDC e Art. 373, § 1.º, do CPC  ..
+Ocorre que do julgamento na origem ficou sustentado pelo juízo que a parte autora, esta reclamante, "NÃO TER SE DESINCUMBIDO DE FAZER PROVA DE SUAS ALEGAÇÕES", condição manifestamente diversa do que foi decidido por esta Superior Corte de Justiça na AFETAÇÃO DE RECURSOS REPETITIVOS, TEMA 1.061.
+ ..
+Como se percebe, o Tribunal de origem no julgamento de apelação, veio negando a inversão do ônus da prova, em total ofensa ao entendimento firmado por esta Superior Corte de Justiça.
+Isso ainda se repetiu às fls. 5, 6 e 9 da referida peça, todas contendo a assertiva de que a inversão do ônus da prova foi negada à consumidora ora reclamante.
+Contudo, a documentação juntada pela própria reclamante demonstra que a sentença, mantida pelo acórdão do TJSP, expressamente reconheceu a incidência da inversão do ônus da prova, assentando que, tratando-se de relação de consumo, cabia à instituição financeira demonstrar a regularidade da contratação, consignando que "a existência e validade da contratação restou devidamente comprovada, consoante documentos dos autos". Confiram-se trechos das decisões judiciais a respeito:
+- SENTENÇA (fl. 116):
+No caso em tela, tratando-se de relação de consumo e havendo pelo lado da parte autora a hipossuficiência caracterizada pela diminuição da capacidade comprobatória, ocasionada pela ausência ou dificuldade de obtenção de dados ou informações que possam balizar a avaliação a respeito da natureza, da utilidade, da abrangência e consequências da relação de consumo que se estabeleceu (Al 345.896.4/9, J. G. Jacobina Rabello), cabia à parte ré demonstrar cabalmente a regularidade dos seus atos. E a existência e validade da contratação que deu origem ao débito restou devidamente comprovada, consoante documentos de p. 196 e seguintes.
+Inclusive, o Juízo primeiro grau reconheceu a litigância de má-fé da parte autora, ora reclamante, pelo mesmo ato que ora se analisa (fl. 120):
+Assim, o réu comprovou devidamente que o negócio jurídico efetivamente existiu e foi devidamente contratado pela autora. Comprovou a origem da dívida e a regularidade do débito, não existente ato ilícito imputável à parte ré. Por tudo isso, tenho que a parte autora alterou a verdade dos fatos violando os deveres das partes de exporem os fatos em juízo conforme a verdade, em nítida tentativa de se enriquecer ilicitamente, pois na inicial afirmou que "não há contrato" (p.02), vindo em seguida a falar que "não tenho lembrança", tudo como o escopo de aproveitar eventual lapso da ré..
+Dessa forma, condeno a autora na multa de 10% sobre o valor da causa (art. 81, caput, CPC), em favor do réu.
+- ACÓRDÃO (fl. 132):
+Na peculiaridade dos Autos, a Autora afirma que não contratou o empréstimo referente ao Contrato indicado, negando ter firmado a relação jurídica.
+De outro lado, o Banco-Réu demonstrou, de forma satisfatória, ônus processual atendido (Artigo 373, II do Código de Processo Civil), a manifestação inequívoca e consciente de vontade da Requerente em contratar o referido empréstimo, através de Contrato eletronicamente firmado.
+Vale dizer: a regra probatória do Tema n. 1.061 do STJ foi aplicada, na medida em que o ônus recaiu sobre o banco, que se desincumbiu de demonstrar a autenticidade da contratação, razão pela qual o pedido da consumidora foi julgado improcedente.
+A mesma constatação decorre da decisão que inadmitiu o recurso especial, a qual foi explícita ao afirmar que o acórdão recorrido está em conformidade com o precedente repetitivo, por ter atribuído à instituição financeira o ônus da prova e reconhecido a regularidade da contratação (fl. 142).
+Constata-se, portanto, a ocorrência da litigância de má-fé, nos termos do art. 80, II, do CPC, pois a conduta caracteriza alteração deliberada da verdade dos fatos, com o objetivo de obter rediscussão de mérito por via processual inadequada, bastando, para a condenação, a constatação objetiva da falsidade da narrativa. A propósito:
+A verdade a que o legislador faz referência não é aquela absoluta, filosófica ou científica. Nem mesmo aquela verdade a ser atingida ao fim do processo, que servirá de base à decisão judicial  .. . O legislador refere-se àquela verdade sabida, isto é, aquela que a parte efetivamente sabia ou devia saber. (BUENO, Cassio Scarpinella. Comentários ao Código de Processo Civil., 1. ed. 2. tiragem, p. 426.)
+Portanto, a reclamante deve pagar multa por litigância de má-fé de 8% sobre o valor atualizado da causa, nos termos do art. 81, caput, do CPC, a ser revertida em favor da parte reclamada.
+Como não ocorreu a triangulação da relação processual, não há falar em prejuízos ou despesas (art. 81, caput, do CPC), razão pela qual a condenação restringe-se apenas à multa.
+Ademais, ressalto que a multa imposta por ato atentatório à dignidade da Justiça ou por litigância de má-fé não é acobertada pelos beneficiários da justiça gratuita, devendo ser executada no Juízo de origem.
+Ante o exposto, indefiro liminarmente a reclamação e condeno a reclamante por litigância de má-fé, impondo-lhe multa de 8% sobre o valor atualizado da causa (art. 81, caput , CPC).
+Publique-se. Intimem-se.
+EMENTA
