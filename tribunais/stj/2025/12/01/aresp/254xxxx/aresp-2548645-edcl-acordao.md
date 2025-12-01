@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 25/11/2025 a 01/12/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Marco Buzzi, João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. OMISSÃO. OBSCURIDADE. CONTRADIÇÃO. INEXISTÊNCIA.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por MAURO DO NASCIMENTO DE ALMEIDA contra acórdão assim ementado (fl. 826):
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ARTS. 489 E 1.022 DO CPC. OMISSÃO. INEXISTÊNCIA. 1. O acórdão recorrido analisou todas as questões necessárias ao deslinde da controvérsia, não se configurando ausência de fundamentação na prestação jurisdicional. 2. Agravo interno a que se nega provimento.
+Nas razões do seu recurso, a parte embargante alega negativa de prestação jurisdicional, afirmando que a decisão embargada não examinou os pontos do agravo interno, especialmente a omissão do acórdão estadual quanto ao envio de minuta de contrato de intermediação da embargada ao embargante e à sequência de atos e provas anexadas, temas suscitados nos embargos de declaração na origem. Afirma violação dos arts. 489, § 1º, IV, e 1.022, II, do Código de Processo Civil, requerendo o acolhimento dos embargos para exame dos pontos e, por consequência, o processamento do recurso especial para anular o acórdão recorrido e determinar o retorno dos autos à origem para exame das questões omissas (fls. 818-823).
+Decorreu o prazo sem apresentação de impugnação (fl. 837).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. OMISSÃO. OBSCURIDADE. CONTRADIÇÃO. INEXISTÊNCIA.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+2. Embargos de declaração rejeitados.
+VOTO
+Os presentes embargos não merecem prosperar.
+A decisão embargada enfrentou coerentemente as questões postas a julgamento, no que foi pertinente e necessário, exibindo fundamentação clara e suficiente, razão pela qual não merece reparo algum, conforme se depreende de seus próprios fundamentos, a seguir transcritos:
+"Opostos embargos de declaração, foram rejeitados às fls. 572-590. Novos embargos de declaração, opostos pelo recorrente, rejeitados às fls. 616-635.  A Corte local, ao analisar os embargos de declaração, afastou a existência de vício no acórdão e asseverou que o recorrente buscava tão somente a rediscussão da matéria. De forma semelhante, o Tribunal estadual rejeitou os novos embargos de declaração opostos pelo agravante e aplicou multa de 1% (um por cento) sobre o valor da causa originária, nos termos do art. 1.026, § 2º, do CPC." (fl. 829)
+"Com efeito, o Tribunal de origem apreciou as questões deduzidas, decidindo de forma clara e conforme sua convicção com base nos elementos de prova que entendeu pertinentes. Se a decisão não correspondeu à expectativa da parte, não deve por isso ser imputado vício ao julgado. Portanto, não estão configurados os vícios de omissão, contradição ou obscuridade, razão pela qual não há que falar em violação aos arts. 489 e 1.022 do Código de Processo Civil." (fl. 829)
+Ademais, não se exige do julgador a análise de todos os argumentos das partes, a fim de expressar o seu convencimento. O pronunciamento acerca dos fatos controvertidos encontra-se objetivamente fixado nas razões da decisão embargada, motivo pelo qual rejeito a alegação de omissão no julgado.
+A propósito, confira-se:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ART. 1.022 DO CPC. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE, ERRO MATERIAL. AUSÊNCIA.1. Os embargos de declaração, conforme dispõe o art. 1.022 do CPC, destinam-se a suprir omissão, afastar obscuridade, eliminar contradição ou corrigir erro material existente no julgado, o que não ocorre na hipótese em apreço.  3. O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida. 4. Embargos de declaração rejeitados. (EDcl no AgRg nos EREsp 1.483.155/BA, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, julgado em 15/6/2016, DJe 3/8/2016)
+Assim, não demonstrada efetivamente a existência de nenhum dos vícios previstos no art. 1.022 do CPC, conclui-se que a pretensão da parte embargante é unicamente o rejulgamento da causa, finalidade à qual não se presta a via eleita.
+Nesse sentido, veja-se o seguinte precedente:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA. MERO INTUITO DE REJULGAMENTO DA LIDE. AUSÊNCIA DA OMISSÃO QUE ENSEJARIA A INTERPOSIÇÃO DO RECURSO INTEGRATIVO. EMBARGOS REJEITADOS. 1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas no acórdão embargado, já que não são cabíveis para provocar novo julgamento da lide. 2. Não há que se confundir decisão contrária aos interesses da parte e negativa de prestação jurisdicional, nem fundamentação sucinta com ausência de fundamentação. Precedentes. 3. Embargos de declaração rejeitados. (EDcl no AgRg nos EREsp 1.213.226/SC, Rel. Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 24/10/2016, DJe 22/11/2016)
+Em face do exposto, rejeito os embargos de declaração.
+É como voto.
