@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por LUIS FELIPE BARBOSA SILVA, com fundamento no art. 1.042 do Código de Processo Civil, contra decisão da Presidência da Seção de Direito Criminal do Tribunal de Justiça do Estado de São Paulo que negou seguimento e não admitiu recurso especial.
+O agravante foi condenado pela prática do crime previsto no art. 155, § 4º, incisos I e II, do Código Penal, por três vezes, em continuidade delitiva, à pena de 5 (cinco) anos, 5 (cinco) meses e 10 (dez) dias de reclusão, em regime inicial fechado, e 40 (quarenta) dias-multa (fls. 229-236).
+O Tribunal de Justiça deu parcial provimento à apelação defensiva para reduzir a pena total para 3 (três) anos, 3 (três) meses e 6 (seis) dias de reclusão e 16 (dezesseis) dias-multa, mantendo o regime inicial fechado (fls. 327-338).
+No recurso especial, a defesa alegou violação aos arts. 33 e 65, inciso III, alínea d, do Código Penal, postulando o reconhecimento da atenuante da confissão espontânea com compensação integral pela agravante da reincidência e a fixação de regime inicial menos gravoso (fls. 348-355).
+A decisão agravada possui dois segmentos distintos. Quanto ao Tema 585 do Superior Tribunal de Justiça, a Presidência do Tribunal de origem negou seguimento ao recurso especial, por estar o acórdão recorrido em conformidade com os recursos especiais repetitivos n. 1.931.145/SP e n. 1.947.845/SP, aplicando o art. 1.030, inciso I, alínea b, do Código de Processo Civil. No mais, não admitiu o recurso especial por ausência de fundamentação necessária, assentando que não foram atacados todos os argumentos do acórdão recorrido, com incidência da Súmula n. 283/STF (fls. 369-371).
+Nas razões do agravo, a defesa sustenta que o recurso especial foi devidamente fundamentado, indicando violação aos arts. 33 e 65, inciso III, alínea d, do Código Penal, razão pela qual a decisão de inadmissão estaria incorreta. Postula o provimento do agravo para admitir e, ao final, prover o recurso especial (fls. 376-381).
+O Ministério Público Federal opinou pelo desprovimento do agravo em recurso especial, sustentando a manutenção da decisão de inadmissão com fundamento na Súmula n. 283/STF (fls. 412-414).
+É o relatório. DECIDO.
+A questão inaugural reside na adequação da via recursal.
+A decisão de origem possui natureza dúplice: de um lado, negou seguimento ao recurso especial quanto ao Tema 585 com base no art. 1.030, inciso I, alínea b, do Código de Processo Civil; de outro, não admitiu o restante do recurso especial por ausência de fundamentação suficiente e incidência da Súmula n. 283/STF.
+O agravo em recurso especial ataca tão somente o segundo segmento da decisão, que se apoiou na ausência de fundamentação suficiente do recurso especial.
+Verifico, todavia, a incidência da Súmula n. 182, STJ. O princípio da dialeticidade recursal impõe ao agravante o ônus de impugnar, de forma específica, todos os fundamentos autônomos da decisão agravada. A decisão de inadmissibilidade do recurso especial forma um todo indivisível, e a permanência de um único fundamento não impugnado é suficiente para mantê-la.
+Compulsando as razões do agravo, constato que a defesa limitou-se a sustentar, de forma genérica, que o recurso especial estaria devidamente fundamentado porque indicou violação aos arts. 33 e 65, inciso III, alínea d, do Código Penal. Deixando de demonstrar que o recurso especial teria contestado todas as razões suficientes para a fixação do regime inicial fechado para o cumprimento da pena.
+A Quinta Turma tem aplicado com rigor o requisito da dialeticidade em agravos em recurso especial. Nesse sentido, confira-se o seguinte precedente:
+DIREITO PENAL. AGRAVO REGIMENTAL. RECURSO ESPECIAL. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu do agravo em recurso especial, visando à aplicação da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+2. O agravante foi condenado por delitos previstos nos arts. 33, § 1º, inciso II, 34, e 35 da Lei n. 11.343/2006, com pena de 11 anos e 10 meses de reclusão e 2.483 dias-multa. Em apelação, o Tribunal local absolveu o agravante do crime de posse de maquinário e exasperou a pena pelo crime do art. 35, caput, da mesma lei.
+3. O recurso especial foi inadmitido com base nas Súmulas n. 7 e 83 do STJ, e a decisão agravada não conheceu do agravo em recurso especial por falta de dialeticidade.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se o agravo regimental deve ser provido para reformar a decisão monocrática e conhecer do agravo em recurso especial, aplicando a causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+III. Razões de decidir
+5. A decisão impugnada analisou de forma fundamentada os pontos apresentados e concluiu pela impossibilidade de conhecimento do agravo em recurso especial por falta de dialeticidade, uma vez que o agravante não enfrentou adequadamente os fundamentos da decisão recorrida.
+6. A aplicação da Súmula n. 182 do STJ foi correta, pois o agravante limitou-se a reproduzir os mesmos argumentos do recurso especial inadmitido, sem impugnar de forma específica e concreta os fundamentos da decisão recorrida.
+7. Mesmo que o agravo fosse conhecido, o recurso especial não poderia ser conhecido devido à incidência da Súmula n. 83 do STJ, que impede o reconhecimento da causa especial de diminuição de pena no patamar máximo de 2/3.
+IV. Dispositivo e tese
+8. Agravo regimental não provido.
+Tese de julgamento: "1. O princípio da dialeticidade recursal exige que os recursos impugnem de forma específica e concreta os fundamentos da decisão recorrida. 2. A reprodução dos mesmos argumentos do recurso especial inadmitido, sem impugnação específica, atrai a aplicação da Súmula n. 182 do STJ. 3. A incidência da Súmula n. 83 do STJ impede o conhecimento do recurso especial quanto à causa especial de diminuição de pena no patamar máximo de 2/3".
+Dispositivos relevantes citados: Lei n. 11.343/2006, art. 33, § 4º.
+Jurisprudência relevante citada: STJ, AgRg no HC 804.533/PE, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe 17/03/2023; STJ, AgRg no HC 659.003/SP, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, DJe 30/03/2023.
+(AgRg no AREsp n. 2.422.751/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 12/8/2025, DJEN de 20/8/2025.)
+Quanto à fixação do regime inicial fechado, o acórdão recorrido fundamentou-se expressamente na reincidência específica do agravante e nos maus antecedentes, circunstâncias judiciais desfavoráveis do art. 59 do Código Penal que justificam a imposição de regime mais gravoso. O recurso especial não impugnou especificamente esse fundamento relativo aos maus antecedentes e à reincidência específica como justificadores do regime fechado, limitando-se a invocar o princípio da proporcionalidade de forma genérica.
+A ausência de enfrentamento de fundamentos autônomos suficientes para manter a decisão recorri da atrai inexoravelmente a aplicação da Súmula n. 283/STF, aplicada por analogia aos recursos especiais: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Ante o exposto, com fulcro no art. 253, parágrafo único, inciso I, do Regimento Interno do STJ, não conheço do agravo em recurso especial, nos termos da fundamentação retro.
+Publique-se. Intimem-se.
+EMENTA
