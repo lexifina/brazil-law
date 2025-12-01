@@ -1,0 +1,22 @@
+DECISÃO
+Em análise, embargos de declaração opostos por FISCHER S/A - AGROINDÚSTRIA contra decisão que não conheceu do agravo em recurso especial haja vista que a parte recorrente deixou de interpor agravo interno em relação à aplicação da sistemática dos recursos repetitivos, no caso, o Tema 1.182 deste STJ.
+A parte embargante alega, em síntese, a existência de omissão na decisão recorrida (fls. 4255-4262):
+ ..  Por todo o exposto, demonstradas as omissões incorridas pela r. decisão embargada, que não conheceu do Agravo em Recurso Especial com base em precedentes inaplicáveis ao caso vertente, na medida em que a matéria veiculada em Recurso Especial pela Embargante é absolutamente autônoma em relação à matéria julgada no Tema Repetitivo n. 1182, mostra-se de rigor o conhecimento e acolhimento dos presentes embargos de declaração, para que seja o presente Agravo em Recurso Especial conhecido e provido perante esta C. Turma, com a consequente apreciação do mérito em debate (tese subsidiária, relativa ao direito à recomposição extemporânea da reserva de incentivos fiscais para deixar de tributar os incentivos fiscais sub judice).
+Impugnação da parte embargada pela rejeição dos embargos.
+É o relatório.
+Passo a decidir.
+Nos termos do que dispõe o art. 1022 do CPC/2015, cabem embargos de declaração contra decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de ser manifestar sobre algum ponto do pedido das partes (realizado na minuta e contraminuta recursais).
+Devem ser limitados os efeitos dos embargos declaratórios, servindo, precipuamente, à correção de vícios formais, da qual decorra o aprimoramento da decisão.
+No caso, a decisão embargada consignou (fls. 4246-4251):
+ ..  Cumpre observar, todavia, que o recurso especial teve seguimento negado com fundamento no art. 1.030, I, b, e art. 1.040, I, do CPC/2015, considerando a consonância do acórdão de origem com o definido no Tema 1.182/STJ, julgado sob a sistemática dos recursos repetitivos; e inadmitido com fulcro no art. 1.030, V, do CPC /2015, quanto aos demais fundamentos do recurso especial.
+ ..  Com efeito, considerando as razões apresentados pela parte recorrente, de rigor a interposição, necessariamente, de dois recursos: o agravo do art. 1.042 do CPC/2015 (para discutir a inadmissão do recurso com base no art. 1.030, V, do CPC) e o agravo interno, nos termos do art. 1.030, § 2º, do CPC (para impugnar a decisão que negou seguimento ao recurso especial com amparo no art. 1.030, I, do CPC).
+Contudo, verifico que a parte recorrente deixou de interpor agravo interno em relação à aplicação da sistemática dos recursos repetitivos, no caso, o Tema 1.182 deste STJ, o que inviabiliza o conhecimento do Recurso Especial ou do Agravo do art. 1.042 do CPC.
+Com efeito, "em cenários fático-processuais como o do caso em tela, em que o apelo nobre passa por juízo de admissibilidade híbrido na origem - inadmissão e negativa de seguimento, conforme art. 1.030, incisos I e V, do Código de Processo Civil -, a jurisprudência deste Sodalício entende ser necessária a interposição de ambos os recursos cabíveis, quais sejam, Agravo em Recurso Especial e Agravo Interno, sob pena de não conhecimento do primeiro, caso não manejado o segundo" (AREsp 2.794.340, Ministro Teodoro Silva Santos, DJEN de 19/12/2024).
+Assim, a interposição de recurso diverso do previsto expressamente em lei torna-o manifestamente incabível, o que afasta, inclusive, o princípio da fungibilidade recursal, uma vez que não há dúvida objetiva acerca do recurso cabível.
+Observa-se, portanto, que o decisum enfrentou, com fundamentação suficiente, a necessidade de interposição simultânea de agravo interno (art. 1.030, § 2º, CPC/2015) e AREsp (art. 1.042, CPC/2015) em hipóteses de admissibilidade híbrida, conforme a jurisprudência consolidada
+Assim, não há vício formal no decisum.
+Conforme jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: AgInt no AREsp 2.372.143/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 21/11/2023; EDcl no REsp 1.816.457/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/5/2020.
+Isso posto, rejeito os embargos de declaração.
+Intimem-se.
+EMENTA
