@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão assim ementada (fl. 193):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO DO NÃO ART. 1.022 CPC/2015. OCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO DO DISPOSITIVO TIDO POR VIOLADO. AUSÊNCIA DE SÚMULA 211/STJ. COMANDO NORMATIVO NO DISPOSITIVO INDICADO. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL. EXAME PREJUDICADO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+Nas razões dos embargos, a parte sustenta que: (i) "A violação ao artigo 85, §2º, do CPC está implícita no teor do acórdão do TJPR e, assim, há pré-questionamento. Afirmar o contrário é um erro de premissa fática" (fl. 207); (ii) a decisão é contraditória, tendo em vista que, "pela Súmula 284/STF não se admite o recurso pela falta de compreensão da controvérsia e no presente caso a controvérsia foi compreendida, tanto que se entendeu que o §2º do artigo 85 do CPC não contém comando normativo capaz de sustentar a tese deduzida pelo Recorrente" (fl. 208); (iii) "a decisão é obscura, pois trata a tese do Recorrente como algo inadmissível quando, em verdade, a tese está de acordo com o entendimento do STJ" (fl. 210).
+Requer o acolhimento dos embargos para sanar os vícios indicados.
+Com impugnação às fls. 221-225.
+É o relatório. Passo a decidir.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Analisando as razões apresentadas pela parte embargante, verifica-se que inexiste qualquer vício a ser sanado no julgado embargado, uma vez que a decisão consignou expressamente que: (i) afasta-se a alegada violação do artigo 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia; (ii) no que diz respeito ao artigo §2º do art. 85 do CPC/2015, verifica-se que, a despeito da oposição dos embargos de declaração, não houve juízo de valor por parte da Corte de origem, incidindo ao caso a Súmula 211/STJ; (iii) os embargos de declaração opostos na origem não buscaram sanar eventual vício relativo à aplicação do aludido dispositivo legal; (iv) o referido artigo não contém comando normativo capaz de sustentar a tese deduzida e infirmar a validade dos fundamentos do acórdão recorrido. Aplica-se à hipótese a Súmula 284/STF; (v) prejudicialidade do dissídio jurisprudencial.
+Diante da ausência de demonstração das hipóteses de cabimento, a rejeição dos embargos de declaração é medida que se impõe.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CONTRADIÇÃO E OBSCURIDADE. VÍCIOS NÃO CONFIGURADOS. EMBARGOS DE DECLARAÇÃO REJEITADOS.
