@@ -1,0 +1,35 @@
+DECISÃO
+Em análise, recurso especial interposto por TOMÁS SILVEIRA GUIMARÃES contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO assim ementado:
+PROCESSUAL CIVIL. TRIBUTÁRIO. PARCELAMENTO DO DÉBITO NO PRAZO DE IMPUGNAÇÃO. ALEGAÇÃO DE INDUZIMENTO AO ERRO. JULGAMENTO DO STJ EM SEARA DE RECURSO REPETITIVO. POSSIBILIDADE DE DISCUSSÃO ACERCA DOS ASPECTOS JURÍDICOS. REVISÃO DE ASPECTOS FÁTICOS. VÍCIO DE CONSENTIMENTO. AUSÊNCIA DE COMPROVAÇÃO. CONFISSÃO DA DÍVIDA. RECURSO DESPROVIDO.
+Os embargos de declaração foram rejeitados.
+Nas razões recursais, o recorrente sustenta divergência jurisprudencial e violação aos arts. 489, § 1º, IV e VI, e 1.022, II, e parágrafo único, do CPC/2015 e 8º da Lei 9.250/1995, alegando omissão sobre os seguintes pontos (fl. 235):
+a) que as despesas com planos de saúde gastas pelo embargante se encontram no bojo dos contratos da sociedade da qual é sócio (Natal Veículos Ltda.), com as prestadoras de serviços de assistência à saúde, sendo tais valores reembolsados à empresa, sobejando, assim, o direito de deduzir para fins de emposto de renda os valores pagos dessa forma;
+b) a impossibilidade de o débito cobrado constar como pendência em desfavor do ora Recorrente, pois ainda não havia escoado o prazo de 30 (trinta) dias para pagamento ou impugnação ao lançamento, tal fato capaz de induzir o contribuinte a erro e realizar o parcelamento da dívida.
+Afirma, também, que "não subsiste motivo para a cobrança das deduções "supostamente indevidas" discriminadas na Notificação de Lançamento, eis que os pagamentos realizados pela empresa relativos ao plano de saúde do Recorrente, e devidamente reembolsados pelo último em favor da sociedade, podem ser deduzidos de seu imposto de renda" (fl. 236).
+Aduz que, "quando a pessoa jurídica paga o plano de saúde para seus funcionários e diretores, e estes últimos retornam o valor com ele e seus dependentes para a empresa, restando inconteste que a pessoa física assumiu o ônus do encargo e, portanto, é credor do direito de realizar a dedução na sua Declaração de Ajuste Anual do IRPF" (fl. 236).
+Contrarrazões apresentadas.
+É o relatório.
+Passo a decidir.
+Quanto à apontada violação aos arts. 489, § 1º, IV, e 1.022, II, parágrafo único, II, do CPC, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, consignando (fl.186):
+Da análise da documentação apresentada é possível verificar que a notificação de lançamento encaminhada pela administração fazendária (ID. n.º 4058400.13554042, pág. 41) apresentou de forma clara a informação de que caso não concordasse com a cobrança, poderia o contribuinte apresentar impugnação, no prazo de 30 (trinta) dias.
+E ainda, no julgamento de embargos de declaração, a Corte de origem assim se manifestou sobre a matéria dos autos (fl. 219):
+Acrescenta o embargante que foi induzido ao erro de que o prazo para impugnar administrativamente o lançamento já havia transcorrido . Tal argumento restou devidamente rechaçado ao ser consignado que " a notificação de lançamento encaminhada pela administração fazendária (ID. n.º 4058400.13554042, pág. 41) apresentou de forma clara a informação de que caso não concordasse com a cobrança, poderia o contribuinte apresentar impugnação, no prazo de 30 (trinta) dias", não sendo possível imputar à administração tributária o erro alegado.
+Como se vê, a negativa de prestação jurisdicional não restou configurada.
+Por outro lado, a fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada.
+Vale lembrar que, mesmo à luz do art. 489 do CPC, o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pela parte, mas apenas sobre aqueles capazes de, em tese, infirmar a conclusão adotada.
+Assim, inexiste violação aos arts. 489, § 1º, IV, e 1.022, II, parágrafo único, II, do CPC.
+Quanto à análise do art. 8º da Lei 9.250/1995, a matéria não foi objeto de exame pelas instâncias ordinárias, mesmo após o julgamento dos embargos de declaração.
+Assim, em razão da falta do indispensável prequestionamento, não pode ser conhecido o Recurso Especial, incidindo o teor da Súmula 211 deste STJ: "inadmissível recurso especial quanto à questão que, a despeito da oposição dos embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. ART. 927, III, DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. DISSÍDIO JURISPRUDENCIAL NÃO REALIZADO. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. A jurisprudência desta Corte já se firmou no sentido de que "não há incompatibilidade entre a inexistência de ofensa ao art. 1.022 do CPC/2015 e a ausência de prequestionamento, com a incidência do enunciado n. 211 da Súmula do STJ, quanto às teses invocadas pela parte recorrente, que, entretanto, não são debatidas pelo Tribunal local, por entender suficientes para a solução da controvérsia outros argumentos utilizados pelo colegiado" (AgInt no AREsp n. 2.536.934/BA, relator Ministro Francisco Falcão, Segunda Turma, julgado em 19/8/2024, DJe de 21/8/2024).
+2. A despeito da oposição de embargos de declaração, não foi configurado o prequestionamento exigido para o recurso especial, nos termos do enunciado n. 211 da Súmula do STJ.
+ ..
+4. Agravo interno não provido (AgInt no AREsp n. 2.578.117/RN, Relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, julgado em 7/10/2024, DJe de 14/10/2024).
+Quanto ao prequestionamento ficto, a jurisprudência desta Corte firmou-se no sentido de que "o  art. 1025 do CPC/2015 condiciona o prequestionamento ficto ao reconhecimento por esta Corte de omissão, erro, omissão, contradição ou obscuridade, ou seja, pressupõe o provimento do recurso especial por ofensa ao art. 1022 do CPC/2015, com o reconhecimento da negativa de prestação jurisdicional sobre a matéria" (AgInt no AREsp n. 2.528.396/RS, Relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 2/9/2024, DJe de 4/9/2024).
+Por fim, "assinale-se, também, o não cabimento do Recurso Especial com base no dissídio jurisprudencial, pois as mesmas razões que inviabilizaram o conhecimento do apelo, pela alínea a , servem de justificativa quanto à alínea c do permissivo constitucional" (AgInt no AREsp 2.320.819/RJ, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 2/10/2023, DJe de 5/10/2023).
+Isso posto, com fundamento no art. 255, § 4º, I e II, do RISTJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+ EMENTA
