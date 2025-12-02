@@ -1,0 +1,28 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por DELTA AIR LINES INC, no qual se insurge contra acórdão do Tribunal Regional Federal da 1ª Região, assim ementado:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AÇÃO DE RITO COMUM. MULTA POR DESCUMPRIMENTO DE OBRIGAÇÃO ACESSÓRIA AUTÔNOMA. DENÚNCIA ESPONTÂNEA. INAPLICABILIDADE.
+1. Dispõe o art. 138 do Código Tributário Nacional que a responsabilidade tributária é excluída pela denúncia espontânea, acompanhada, se for o caso, do pagamento do tributo, quando seu montante depender de apuração e não foi ainda iniciado procedimento administrativo ou medida de fiscalização.
+2. A jurisprudência do Superior Tribunal de Justiça e deste Tribunal se firmou no sentido de que não se aplica o instituto da denúncia espontânea aos casos de descumprimento de obrigação acessória autônoma. Precedentes.
+3. Apelação não provida.
+Os embargos de declaração foram parcialmente acolhidos, sem efeitos modificativos, para suprir omissão quanto ao voto de qualidade no Conselho Administrativo de Recursos Fiscais (CARF) e à aplicação do art. 112 do CTN .
+Em suas razões recursais, a parte agravante sustenta o preenchimento dos requisitos de admissibilidade do recurso especial, pois pretende a revaloração das provas, e não seu reexame, alegando ofensa ao art. 112 do CTN, pois a adoção do voto de qualidade (art. 25, § 9º, do Decreto 70.235/1972), nega vigência à regra in dubio pro reo na interpretação de leis que definem infrações e cominam penalidade.
+Contraminuta não apresentada.
+É o relatório.
+Passo a decidir.
+No caso, o recurso especial tem origem em mandado de segurança no qual a impetrante busca afastar multa por descumprimento de obrigação acessória aduaneira, alegando, inicialmente, denúncia espontânea, e, em seguida, a ilegalidade do voto de qualidade no CARF, por violação ao art. 112 do CTN
+O Tribunal de origem registrou que houve empate pela 3ª Turma da Câmara Superior de Recursos Fiscais do CARF, decidido pelo voto de qualidade do Presidente, revertendo a decisão anterior favorável ao contribuinte. Consignou que o art. 112 do CTN é regra de interpretação de leis que definem infrações ou cominam penalidades, e não critério de desempate de decisões colegiadas.
+A propósito, os seguintes trechos do acórdão que julgou os embargos de declaração (fls. 624-626):
+Não é o caso, também, de se reconhecer violação ao art. 112 do Código Tributário Nacional. O auto de infração vem ao mundo jurídico com a presunção de legalidade e legitimidade, mas pode ser desconstituído pelo contribuinte por meio de impugnação ou recurso. Em sendo mantido no âmbito administrativo, ainda que mediante voto de qualidade do presidente do órgão, deve-se concluir que não foi desconstituído o ato e não que existe dúvida a respeito de sua exigibilidade.
+Como bem decidido no âmbito do Superior Tribunal de Justiça, o dispositivo encerra critério de julgamento e não critério de desempate (AREsp 1.752.053/RJ, Rel. Ministro Herman Benjamin, DJe 2.3.2021).
+No âmbito deste Tribunal, a Sétima e Oitava Turmas já decidiram a matéria em mais de uma oportunidade, concluindo pela legalidade do voto de qualidade do presidente da turma recursal, nos termos previstos no art. 54 do Regimento Interno do CARF.
+ ..
+Dessa forma, não é o caso de se reconhecer nulidade no julgamento proferido na esfera administrativa.
+ ..
+O Superior Tribunal de Justiça também tem decidido pela legitimidade do duplo voto do presidente do CARF, pela inaplicabilidade do art. 112 do Código Tributário Nacional à hipótese, e, ainda, pela impossibilidade de a nova lei gerar efeitos aos casos já julgados na esfera administrativa.
+Com efeito, não procede a tese de ilegalidade do voto de qualidade, sustentada sob alegação de contrariedade ao art. 112 do CTN, pois, na forma da jurisprudência do STJ:
+"a norma constante no art. 112 do CTN não consiste em critério de desempate de decisões colegiadas, mas, sim, em critério de interpretação do julgador ao proferir decisões. Trata-se de institutos diversos, disciplinando fatos diversos" (AREsp 1.752.053/RJ, Rel. Ministro Herman Benjamin, DJe 2.3.2021). Na mesma linha: REsp 2.013.035/PR, Rel. Ministra Assusete Magalhães, DJe 1º. 8.2022. Em relação à votação dúplice, esta Corte Superior entende que "a cumulação do voto ordinário com o voto de qualidade não representa nenhuma irregularidade. (..) A celeuma em torno da interpretação que se dá ao dispositivo é de absoluta desnecessidade, na medida em que sabemos ser possível a duplicidade de votos quando a lei assim permite, embora constitua-se como regra o só voto do presidente de um colegiado como voto de desempate, conclusão a que se chega quando assim está explicitado ou no silêncio da legislação" (RE 966.930/DF, Rel. Ministra Eliana Calmon, Segunda Turma, DJe 12.9.2007) (AgInt no AREsp n. 2.156.518/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 3/4/2023, DJe de 14/4/2023).
+Portanto, deve ser desprovido o recurso especial, com fundamento na orientação contida na Súmula 83/STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida", aplicável também para interposição de recurso pela alínea a do permissivo constitucional, nos termos da jurisprudência desta Corte.
+Isso posto, com fundamento no art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo, para negar provimento ao recurso especial.
+Sem condenação em honorários advocatícios, nos termos do art. 25 da Lei 12.016/2009 e do enunciado da Súmula 105/STJ.
+Intimem-se.
+ EMENTA
