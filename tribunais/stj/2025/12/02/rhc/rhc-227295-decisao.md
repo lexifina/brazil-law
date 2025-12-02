@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de recurso em habeas corpus com pedido liminar interposto por MIRELLE INÁCIA FERREIRA SOBRINHO contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS.
+Consta dos autos que a recorrente foi presa preventivamente em 4/9/2025, pela suposta prática da conduta descrita nos arts. 33 e 35 da Lei n. 11.343/2006.
+A recorrente sustenta que a decisão que manteve a prisão preventiva carece dos requisitos do art. 312 do CPP, pois se apoiou na gravidade genérica do fato e na garantia da ordem pública sem demonstrar o periculum libertatis atual.
+Afirma que as sete transferências bancárias apontadas, no total de R$ 7.000,00, não evidenciam periculosidade acentuada nem risco de reiteração delitiva.
+Assevera que é primária, possui residência fixa e trabalho lícito, circunstâncias pessoais que revelam menor necessidade da medida extrema.
+Defende que a manutenção da prisão afronta o princípio da homogeneidade, por se mostrar mais gravosa do que eventual regime aplicável em caso de condenação.
+Entende suficiente a aplicação das medidas cautelares diversas do cárcere, previstas no art. 319 do CPP, como monitoramento eletrônico, comparecimento periódico em juízo e proibição de contato com os demais investigados.
+Pondera que houve violação do princípio da isonomia, pois a corré está em liberdade provisória e ambas foram apontadas como participantes no mesmo contexto fático, devendo incidir o art. 580 do CPP.
+Relata que o acórdão recorrido reconheceu a ocorrência de equívoco procedimental quanto à prevenção entre Câmaras no julgamento do habeas corpus da corré, sustentando que a decisão, ainda que proferida por órgão incompetente, teria estabelecido um paradigma que não poderia ser desconsiderado.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva, com expedição de alvará de soltura. Subsidiariamente, a substituição por medidas do art. 319 do CPP.
+É o relatório.
+Em relação aos fundamentos para a manutenção da custódia cautelar, o pedido não pode ser apreciado. A matéria ora suscitada foi objeto do HC n. 1.040.263/GO.
+Constata-se, assim, a inadmissível reiteração de pedido, pois não é possível obter nova análise sobre o mesmo caso nesta instância, observados os limites que norteiam o exercício da jurisdição.
+Esse é o sentido da jurisprudência do Superior Tribunal de Justiça (grifei):
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PRONÚNCIA TRANSITADA EM JULGADO. EXCESSO DE LINGUAGUEM. PRECLUSÃO. REITERAÇÃO DE PEDIDOS. MATÉRIA JÁ ANALISADA EM HABEAS CORPUS ANTERIOR. AGRAVO DESPROVIDO.
+1. O presente habeas corpus, distribuído em 7/2/2024, constitui mera reiteração do pedido formulado no HC 815846, de minha relatoria, não conhecido em 13/7/2023, isso porque há identidade de partes e da causa de pedir, impugnando os dois feitos o mesmo acórdão (Agravo regimental no HC 5012307-33.2022.8.08.0000).
+ ..
+3. Assim, esta Corte já proferiu decisão acerca da irresignação da defesa, motivo pelo qual é incabível um novo pronunciamento.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 888.335/ES, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/5/2024, DJe de 15/5/2024.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS NÃO CONHECIDO. REITERAÇÃO DE PEDIDOS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O MESMO FIM. ABSOLVIÇÃO QUANTO AO ART. 35 DA LEI N. 11.343/2006. SUPERVENIÊNCIA DE EXTINÇÃO DA PUNIBILIDADE PELO JUÍZO DA EXECUÇÃO. PERDA DO OBJETO. APLICAÇÃO DA CAUSA REDUTORA DA LEI DE DROGAS. REPETIÇÃO DE PRETENSÃO ANTERIOR JÁ ANALISADA PELO STJ. INADMISSIBILIDADE. PRECEDENTES.
+Agravo regimental parcialmente conhecido e, nessa extensão, improvido.
+(AgRg no HC n. 867.760/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 2/9/2024, DJe de 6/9/2024.)
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO HABEAS CORPUS. REITERAÇÃO DE PEDIDO. POSTULAÇÃO INDEFERIDA NO ÂMBITO DO SUPREMO TRIBUNAL FEDERAL. IMPOSSIBILIDADE DE CONHECIMENTO DO WRIT. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A reiteração de pedido veiculado e denegado em impetração anterior torna inviável o conhecimento do habeas corpus. Contra essa decisão, a parte interpôs simultaneamente agravo regimental e impetrou habeas corpus perante o Supremo Tribunal Federal, onde, em espectro mais amplo, o relator assinalou a possibilidade de retroação da norma que altera as condições de procedibilidade da ação penal por crime de estelionato, mas consignou que, pela leitura dos autos, se observava que as vítimas demonstraram inequívoca intenção de ver iniciado o processo, a evidenciar a impropriedade do pedido.
+2. Caracterizada a indevida reiteração do pedido denegado no HC n. 748.052/SP e refutado o argumento de patente ilegalidade perante o Supremo Tribunal Federal (HC n. 228.361/SP), não é possível processar o habeas corpus para empreender outra análise sobre o mesmo tema.
+3. Agravo regimental não provido.
+(AgRg no AgRg no HC n. 819.396/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 5/12/2023, DJe de 11/12/2023.)
+Por outro lado, o deferimento do pedido de extensão requer que a parte solicitante esteja na mesma situação fático-processual da já favorecida, assegurando que a motivação da decisão não seja exclusivamente pessoal, conforme o art. 580 do Código de Processo Penal.
+Quanto ao pedido de extensão, assim constou do acórdão impugnado (fls. 132-133, grifei):
+No caso em apreço, embora seja incontroverso o concurso de agentes (primeiro requisito), pois ambas as acusadas foram presas conjuntamente pela suposta prática dos mesmos crimes, necessário examinar com maior acuidade os demais requisitos.
+Verifico que, embora a paciente e a corré tenham sido presas nas mesmas circunstâncias temporais e espaciais, as condutas a elas imputadas apresentam distinções relevantes que afastam a identidade fático-jurídica necessária à extensão pretendida.
+Emerge dos elementos informativos coligidos, que a paciente Mirelle Inácia Ferreira Sobrinho em tese realizou 7 transferências financeiras totais no valor de R$ 7.000,00, sendo 5 delas para conta de Jefferson de Araújo, totalizando R$ 4.200,00 (janeiro, março, junho e julho/2024) e 2 para a conta de Bruna Mikaelli totalizando R$ 2.800,00 (junho e julho/2024).
+Também se extrai da denúncia que a paciente supostamente integraria o grupo de "varejistas" da organização, sendo esposa e ajudadora de Rogério Santos de Carvalho (também denunciado), que teria movimentado R$ 18.250,00 e atuava na parte de arrecadação e distribuição dos valores dentro do grupo criminoso.
+Já Viviane Alencar Dantas, embora também investigada pode suposta atuação como "varejista", não teria transferido valor algum, se resumindo a apuração de sua conduta ao fato de ter contato com Marciano da Silva Vidigal via mensagens telefônicas, tentado apagar diálogos e em tese buscar e armazenar maconha para Marciano. Também não foi achada na posse de alarmante quantidade de entorpecentes.
+Essa diferenciação nas condutas imputadas é relevante e suficiente para afastar a identidade de situações fático-jurídicas, pois cada uma das acusadas apresenta grau de envolvimento e forma de participação distintos na suposta empreitada criminosa.
+Ademais, importante destacar que as decisões sobre a prisão preventiva foram tomadas em processos distintos. A prisão preventiva da paciente foi decretada nos autos nº 5805720-97.2024.8.09.0085, com pedido de revogação protocolado no processo nº 5728603-93.2025.8.09.0085. Já a prisão preventiva da corré Viviane Alencar consta nos autos nº 5718588-65.2025.8.09.0085, com pedido de revogação nos autos nº 5705367-15.
+Esta separação processual indica que a juíza de origem procedeu à análise individualizada de cada situação, considerando as peculiaridades e elementos probatórios específicos relativos a cada uma das acusadas.
+Assim, não há se falar em revogação da prisão preventiva da paciente com base no artigo 580 do CPP, por extensão dos efeitos da decisão proferida no habeas corpus nº 5721795-72.2025.8.09.0085, tendo em vista que a situação das duas acusadas é completamente diferente.
+A despeito das alegações defensivas, não se constatou similitude fático-processual entre a recorrente e a corré beneficiada, sobretudo porque a acusada se destaca pelas operações financeiras a ela atribuídas, consistentes em sete transferências que totalizaram R$ 7.000,00, circunstância que a insere no núcleo varejista e revela vínculo direto com outro investigado que teria movimentado R$ 18.250,00. A corré Viviane, por sua vez, não realizou transações bancárias, sendo-lhe imputados apenas contatos por mensagens, tentativa de apagar diálogos e eventual busca e guarda de maconha, sem apreensão de quantidade relevante. Ademais, ressaltou o Tribunal que as custódias de ambas foram examinadas em processos distintos.
+Ante o exposto, nos termos do art. 34, XVIII, b, do Regimento Interno do Superior Tribunal de Justiça, nego provimento ao recurso em habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
