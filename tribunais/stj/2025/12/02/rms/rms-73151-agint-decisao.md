@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo interno interposto pelo Ministério Público Federal contra decisão de fls. 372-375 que deu provimento ao recurso em mandado de segurança do Instituto de Previdência do Estado do Rio Grande do Sul - IPERGS para determinar que, em sede de execução de sentença contra a Fazenda Púbica, a Taxa Selic incida apenas sobre o valor do débito principal.
+O agravante pugna pela reforma do decisum, sustentando que, no caso, a discussão transcende a análise do anatocismo infraconstitucional, centrando-se, na verdade, na interpretação direta de um dispositivo constitucional (art. 3º da EC n. 113/21), que expressamente consta do acórdão estadual objeto do recurso ordinário.
+Impugnação às fls. 28-33.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, observa-se que merece acolhida a argumentação apresentada pelo agravante.
+Ante o exposto, dou provimento ao agravo interno para, exercendo o juízo de retratação, tornar sem efeito a decisão de fls. fls. 372-375 (art. 259, § 6º do RISTJ, combinado com o § 2º do artigo 1.021 do CPC/2015).
+Com efeito, o Supremo Tribunal Federal (STF), em sede de Repercussão Geral, afetou o tema relativo à forma de incidência da Taxa SELIC, em que se discute à luz do artigo 3º da Emenda Constitucional n.º 113/2021 se a metodologia de atualização dos débitos contra a Fazenda Pública, com a incidência da taxa SELIC, deve ou não abranger o valor consolidado da dívida (principal corrigido acrescido de juros (Leading Case, RE n. 1.516.074/TO, Relator Ministro Alexandre de Moraes, Virtual-RG, 8/11/2024).
+Embora a afetação da matéria ao regime da repercussão geral não determine o sobrestamento dos recursos que versem sobre a mesma controvérsia  como no caso presente  , ambas as Turmas da Primeira Seção do Superior Tribunal de Justiça têm adotado, em situações análogas, a devolução dos autos à origem, como medida de economia processual e para prevenir decisões conflitantes entre o Supremo Tribunal Federal e esta Corte.
+Nesse contexto, a solução definitiva deve ocorrer após o julgamento do recurso extraordinário afetado (REsp n. 2.164.890, Min. Paulo Sérgio Domingues, DJe de 12/11/2024). No mesmo sentido: AgInt no RMS n. 76.219/RS, Ministro Francisco Falcão, DJEN de 10/11/2025; RMS n. 76.546/RS, Ministra Maria Thereza de Assis Moura, DJEN de 14/10/2025.
+Diante do exposto, determino a remessa dos autos ao Tribunal de origem, com a devida baixa, para que, após a publicação do acórdão referente ao Tema n. 1.349 do Supremo Tribunal Federal, realize o juízo de adequação, nos termos dos arts. 1.040 e 1.041 do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
