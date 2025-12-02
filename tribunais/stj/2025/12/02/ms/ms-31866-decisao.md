@@ -1,0 +1,20 @@
+DECISÃO
+Em análise, mandado de segurança impetrado pela ASSOCIAÇÃO BRASILEIRA DE RESÍDUOS E MEIO AMBIENTE - ABREMA contra ato do Órgão Especial do Tribunal de Justiça do Estado de Goiás, consubstanciado na decisão proferida nos Agravos Internos na Suspensão de Liminar nº 5322109-88.2025.8.09.0051.
+A parte impetrante sustenta, em síntese, que:
+a) "A teratologia da decisão reside em sua aptidão de, sob o pretexto de resguardar a ordem e a economia pública, chancelar uma ilegalidade de longa data que, na verdade, é a causadora de um risco iminente de colapso social e ambiental, o qual é superior ao eventual risco de desorganização administrativa alegado, o qual restou desprovido de comprovação" (fl. 7);
+b) "O ato coator, ao manter a suspensão da liminar da ACP, autoriza tacitamente a continuidade de uma atividade que, por ausência de licenciamento válido, se enquadra na descrição do crime ambiental previsto no artigo 60 da Lei nº 9.605/98 (Operar estabelecimento ou serviço potencialmente poluidor sem licença)" (fl. 8);
+c) "A tese da grave lesão à economia pública, articulada pelo Município Impetrado, constitui uma falácia administrativa que se desfaz diante dos próprios documentos acostados aos autos, os quais demonstram que o custo da ilegalidade que o Município se propôs a manter era, na verdade, superior ao custo da solução legal exigida" (fl. 8);
+d) "O Supremo Tribunal Federal, em precedente vinculante (RE 658171 AgR), já consolidou que a insuficiência orçamentária não pode ser arguida para justificar o descumprimento de deveres constitucionais" (fl. 10);
+e) "O Órgão Especial do E. TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, através do incidente de suspensão ora questionado, permitiu que o lixão operasse sob a premissa de busca por regularização, enquanto, no controle concentrado de constitucionalidade (ADI), havia vedado as normas que tornavam essa regularização possível. A omissão em enfrentar esta contradição, que anula o resultado útil da própria suspensão, configura, também, a teratologia judicial que autoriza a via do Mandado de Segurança" (fl. 13).
+Ao final, requer:
+a) A concessão da MEDIDA LIMINAR inaudita altera pars, para que seja imediatamente suspensa a eficácia do acórdão proferido pelo Órgão Especial do Tribunal de Justiça do Estado de Goiás (Evento 87 da Suspensão de Liminar nº 5322109-88.2025.8.09.0051), que rejeitou os Embargos de Declaração da Impetrante, e, consequentemente, seja cassada a suspensão parcial dos efeitos da decisão liminar exarada nos Eventos 63 e 70 da Ação Civil Pública nº 5606393 - 79.2024.8.09.0051, restabelecendo-se integralmente a ordem de interdição progressiva do aterro sanitário de Goiânia.
+ ..
+e) Ao final, no mérito, seja CONCEDIDA A SEGURANÇA pleiteada, confirmando- se a liminar, e reconhecendo a teratologia, ilegalidade flagrante e abuso de poder do ato coator, para, em definitivo, cassar o acórdão proferido pelo Órgão Especial do Tribunal de Justiça do Estado de Goiás (Evento 87 da Suspensão de Liminar nº 5322109-88.2025.8.09.0051), restabelecendo-se plenamente os efeitos da decisão liminar proferida nos Eventos 63 e 70 da Ação Civil Pública nº 5606393- 79.2024.8.09.0051, e assegurando-se o direito líquido e certo da Impetrante e da coletividade a um meio ambiente ecologicamente equilibrado, à saúde pública e à observância da legalidade (fls. 15-16).
+É o relatório. Decido.
+A pretensão é manifestamente incabível.
+Nos termos do art. 105, I, a, da Constituição Federal, é atribuição deste Superior Tribunal processar e julgar, originariamente, os mandados de segurança impetrados "contra ato de Ministro de Estado, dos Comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal".
+Além disso, nos termos da Súmula 41/STJ, "o Superior Tribunal de Justiça não tem competência para processar e julgar, originariamente, mandado de segurança contra ato de outros tribunais ou dos respectivos órgãos".
+Ante o exposto, com fundamento nos arts. 10 da Lei 12.016/2009 e 212 do
+RISTJ, indefiro liminarmente o Mandado de Segurança.
+Intimem-se.
+EMENTA
