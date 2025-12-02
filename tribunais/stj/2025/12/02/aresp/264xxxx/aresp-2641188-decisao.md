@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual CASA DA MOEDA DO BRASIL CMB se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO assim ementado (fl. 443):
+TRIBUTÁRIO. APELAÇÕES CÍVEIS. AÇÃO DE COBRANÇA. NATUREZA TRIBUTÁRIA. PRESTAÇÃO DE SERVIÇO PÚBLICO. INSTALAÇÃO E MANUTENÇÃO DO SISTEMA DE CONTROLE DE PRODUÇÃO DE BEBIDAS - SICOBE. ART. 58-T DA LEI Nº 10.833/2003, INCLUÍDO PELA LEI Nº 11.827/2008, INSTRUÇÃO NORMATIVA RFB Nº 869/2008. NATUREZA DA EXAÇÃO. TAXA EM RAZÃO DO EXERCÍCIO DO PODER DE POLÍCIA. ART. 77 DO CTN. JURISPRUDÊNCIA DO STJ. ILEGITIMIDADE AD CAUSAM. MATÉRIA DE ORDEM PÚBLICA. CASA DA MOEDA DO BRASIL. EMPRESA PÚBLICA FEDERAL. ENTE PRIVADO. IMPOSSIBILIDADE. CAPACIDADE ATIVA TRIBUTÁRIA. DESTINATÁRIA DO RESSARCIMENTO. DESPROVIMENTO. HONORÁRIOS DE SUCUMBÊNCIA. EQUIPARAÇÃO FAZENDA PÚBLICA. INCIDÊNCIA ART. 85, §3º DO CPC. ADEQUAÇÃO. PARCIAL PROVIMENTO.
+1. A jurisprudência do STJ pacificou o entendimento de que "o valor cobrado como ressarcimento pela utilização do Sistema de Controle de Produção de Bebidas (SICOBE) tem natureza tributária, na modalidade taxa, de maneira que suas alíquota e base de cálculo não poderiam ter sido fixadas por ato infralegal". (STJ, AgInt nos EDcl no AREsp 1.700.429/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 29/04/2021)
+2. Detendo a exação natureza jurídica de taxa em razão do exercício do poder de polícia, remanesce a competência e a capacidade tributária ativa à União Federal, de modo que cabe à Receita Federal a sua arrecadação, fiscalização e respectiva cobrança.
+3. Embora o art. 7º do CTN permita à delegação da capacidade tributária ativa para outros entes públicos, tal hipótese legal não é extensível às pessoas jurídicas de direito privado, notadamente à Casa da Moeda do Brasil, empresa pública federal, nos moldes do art. 1º da Lei n.º 5.895/73, não detendo, assim, legitimidade ativa para figurar no polo ativo da demanda de cobrança.
+4. Sendo a Casa da Moeda do Brasil equiparada à Fazenda Pública, aplica-se o art. 85, §§ 3º e 4º do CPC.
+5. Desprovimento da apelação da parte autora e parcial provimento da apelação da parte ré.
+Os embargos de declaração foram rejeitados (fl. 485).
+A parte agravante requer o provimento de seu recurso.
+A parte adversa apresentou contraminuta (fls. 602/608).
+É o relatório.
+Da irresignação não é possível conhecer, pois a parte agravante não refutou adequadamente a decisão agravada.
+O recurso especial não foi admitido porque o acórdão recorrido estaria alinhado à orientação do Superior Tribunal de Justiça (STJ), segundo a qual o valor cobrado como ressarcimento pela utilização do Sistema de Controle de Produção de Bebidas (SICOBE) tem natureza tributária, na modalidade taxa, de maneira que suas alíquota e base de cálculo não poderiam ter sido fixadas por ato infralegal - no caso, o Ato Declaratório do Executivo RFB 61/2008.
+Na ocasião, foi aplicado o enunciado 83 da Súmula deste Tribunal.
+O Superior Tribunal de Justiça possui o entendimento de que, inadmitido o recurso especial em razão de divergência entre a pretensão recursal e sua jurisprudência, a parte recorrente deve, obrigatoriamente, apresentar julgados deste Tribunal contemporâneos ou supervenientes aos mencionados na decisão de admissibilidade, realizando o cotejo analítico entre eles. Ou, a depender do caso, pode ainda demonstrar que a questão tratada no processo em nada se assemelha àquelas citadas na decisão agravada.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMPRÉSTIMO COMPULSÓRIO. ELETROBRÁS. JUROS REMUNERATÓRIOS E MORATÓRIOS. IMPUTAÇÃO DE PAGAMENTO. INADMISSÃO COM FUNDAMENTO NA SÚMULA 83 DO STJ. AUSÊNCIA DE INDICAÇÃO DE PRECEDENTE CONTEMPORÂNEO OU POSTERIOR. NECESSIDADE DE REEXAME PROBATÓRIO. INADMISSIBILIDADE.
+ ..
+2. Na hipótese em que o recurso especial não é admitido com apoio na Súmula 83 do STJ, na impugnação recursal, devem-se apontar julgados deste Tribunal Superior contemporâneos ou supervenientes em sentido contrário aos precedentes indicados na decisão de inadmissão, ou indicar a distinção entre os casos julgados. Precedentes.
+3. No caso dos autos, o julgado da Segunda Turma invocado para a inadmissão do especial externa que "a parcela referente aos juros remuneratórios reflexo s, inconfundível com os juros moratórios, compõe o principal do débito exequendo, de modo a ensejar, na imputação de pagamento, a aplicação do art. 354 do CC/2002" (REsp n. 1.810.639/PR, relator Ministro Herman Benjamin, Segunda Turma, julgado em 16/6/2020, DJe de 18/9/2020), mas a parte recorrente não aponta nenhum precedente que, tratando da mesma situação fático-jurídica, tenha chegado à outra conclusão.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.336.038/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 2/10/2023, DJe de 4/10/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE INADMISSIBILIDADE. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182/STJ. INCIDÊNCIA.
+1. A jurisprudência do Superior Tribunal de Justiça entende ser necessária a impugnação dos fundamentos da decisão denegatória da subida do recurso especial para que se conheça do respectivo agravo.
+2. Como registrado na primeira oportunidade, a empresa agravante não infirma especificamente a tese de que o acórdão recorrido estaria em consonância com o entendimento deste STJ. Logo, a Súmula 182 desta Corte foi corretamente aplicada ao caso.
+3. Incumbiria à parte interessada apontar precedentes contemporâneos ou supervenientes aos referidos na decisão combatida, procedendo ao cotejo analítico entre eles.
+4. O disposto nos arts. 932, parágrafo único, e 1.029, § 3º, do Código de Processo Civil de 2015 não é aplicável na hipótese de incidência da Súmula 182 do Superior Tribunal de Justiça. Precedentes.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.112.333/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 21/3/2019, DJe de 28/3/2019.)
+No mesmo sentido, entre outros: AgInt nos EDcl no AREsp 1.842.229/PR, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 2/5/2023, DJe de 11/5/2023; AgInt no AREsp 2.190.005/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 29/5/2023, DJe de 26/6/2023; AgInt nos EDcl no AREsp 2.271.129/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 15/5/2023, DJe de 17/5/2023; eAgInt no AREsp 1.902.574/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 28/3/2022, DJe de 4/4/2022.
+Em seu agravo em recurso especial, contudo, a parte não trouxe argumentação idônea a indicar que o óbice em questão teria sido mal aplicado pela instância ordinária, pois limitou-se a reiterar o mérito da causa, sem trazer julgados desta Corte em sentido contrário aos precedentes indicados na decisão de inadmissão.
+Nesse contexto, em razão de o agravo não superar o juízo de admissibilidade, incide no presente caso, a impedir seu conhecimento, o óbice da Súmula 182/STJ, aplicável por analogia.
+Ante o exposto, não conheço do agravo em recurso especial.
+Majoro em 10% (dez por cento), em desfavor da parte recorrente, o valor de honorários sucumbenciais já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º desse mesmo dispositivo.
+Publique-se. Intimem-se.
+ EMENTA
