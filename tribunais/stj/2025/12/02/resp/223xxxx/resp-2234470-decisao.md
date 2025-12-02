@@ -1,0 +1,36 @@
+DECISÃO
+Em análise, recurso especial interposto por MARCOS QUIRINO PASSOS contra acórdão proferido pelo TJDFT, assim ementado:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. REQUISIÇÃO DE PEQUENO VALOR - RPV. LEI DISTRITAL Nº 6.618/2020. APLICAÇÃO. IMPOSSIBILIDADE. IRRETROATIVIDADE. SITUAÇÃO CONSOLIDADA ANTES DO INÍCIO DA VIGÊNCIA DA NORMA INVOCADA. DECISÃO MANTIDA.
+1. A Lei Distrital nº 6.618/2020, de iniciativa parlamentar, alterou para 20 salários mínimos as obrigações consideradas de pequeno valor a serem pagas pelo Distrito Federal e suas entidades de administração indireta.
+2. O Supremo Tribunal Federal, em decisão do Tribunal Pleno, publicada no dia 12/7/2024, por ocasião do julgamento do RE nº 1491414, de relatoria do em. Min. Flavio Dino, declarou a constitucionalidade da Lei Distrital nº 6.618/2020.
+3. Tal entendimento foi reafirmado em recente acórdão também do Tribunal Pleno da Suprema Corte (RE nº 1.496.204), o qual ensejou a seguinte tese no Tema de Repercussão Geral nº 1.326, in verbis: "A iniciativa legislativa para definição de obrigações de pequeno valor para pagamento de condenação judicial não é reservada ao chefe do Poder Executivo".
+4. O artigo 5º, inciso XXXVI, da Constituição Federal, preceitua que a lei não prejudicará o direito adquirido, o ato jurídico perfeito e a coisa julgada.
+5. Em consonância com o mandamento constitucional, tem-se o art. 6º, § 1º, da Lei de Introdução às Normas do Direito Brasileiro (Lei nº 12.376/2010), segundo o qual a lei em vigor terá efeito imediato e geral, respeitados o ato jurídico perfeito, o direito adquirido e a coisa julgada.
+6. Independente da declaração de constitucionalidade da lei distrital em questão, em respeito ao entendimento fixado pelo e. Supremo Tribunal Federal (Tema n.º 792), considerando a data do trânsito em julgado do título judicial executado em 11/3/2020, o teto aplicável, na hipótese em exame, é o de 10 (dez) salários mínimos para a RPV, uma vez que a Lei Distrital nº 5.475/2015, que elevou para 40 (quarenta) salários mínimos o valor máximo das obrigações de pequeno valor, foi declarada inconstitucional pelo Conselho Especial deste eg. Tribunal (ADI 2015.00.2.014329-8), de maneira que permaneceu vigente a legislação anterior, a Lei Distrital nº 3.624/2005, cujo art. 1º, caput, disciplina o valor máximo das obrigações de pequeno valor a serem pagas pelo Distrito Federal e pela Administração Pública Direta e Indireta em 10 (dez) salários mínimos.
+7. Agravo de Instrumento conhecido e não provido (fls. 79-80).
+Os embargos declaratórios opostos ao referido acórdão foram rejeitados.
+Nas razões do recurso especial, aponta violação do art. 1.022, II, do CPC, por ser omisso o acórdão, além de ofensa aos arts. 6º da LINDB e 14 do CPC, ao argumento de que "as Leis são criadas para que, em regra, sejam aplicadas imediatamente, a partir da data de sua criação, nos processos em curso, contudo, não podem retroagir de modo a modificar as decisões consolidadas. In casu, deve ser aplicada a Lei nº 6.618/2020 em vigor, visto que o processo ainda está em curso e sequer houve decisão anterior que versasse sobre a mesma matéria, incidindo, na espécie, o afrontado art. 14 do CPC" (fl. 160).
+Contrarrazões às fls. 214-220.
+É o relatório.
+Quanto à apontada violação ao art. 1.022 do CPC, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+No caso, o Tribunal a quo dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, consignando que (fls. 83-85):
+Todavia, a norma invocada não pode incidir no presente caso, uma vez que a questão deve ser resolvida a partir da definição da norma legal aplicável à data do trânsito em julgado do título executivo.
+O artigo 5º, inciso XXXVI, da Constituição Federal, preceitua que a lei não prejudicará o direito adquirido, o ato jurídico perfeito e a coisa julgada.
+Em consonância com o mandamento constitucional, tem-se o art. 6º, § 1º, da Lei de Introdução às Normas do Direito Brasileiro (Lei nº 12.376/2010), segundo o qual a lei em vigor terá efeito imediato e geral, respeitados o ato jurídico perfeito, o direito adquirido e a coisa julgada.
+Ante a tese firmada em precedente vinculante do e. STF, o Conselho Especial deste eg. TJDFT decidiu que as normas que versam sobre os parâmetros para satisfação das obrigações de pequeno valor teriam aplicação imediata, dada a natureza processual.
+ ..
+O precedente não excepciona a hipótese de aplicação de normas mais benéficas ao credor, a exemplo da lei que eleva o montante máximo das Requisições de Pequeno Valor. Ao contrário, a tese firmada dispõe expressamente sobre "lei disciplinadora da submissão de crédito ao sistema de execução via precatório", lei em sentido amplo, e não apenas a superveniente que reduz o teto das obrigações de pequeno valor.
+Independente da declaração de constitucionalidade da lei distrital em questão, em respeito ao entendimento fixado pelo e. Supremo Tribunal Federal (Tema n.º 792), considerando a data do trânsito em julgado do título judicial executado em 11/3/2020 (ID 170844990, pág. 66, na origem), o teto aplicável, na hipótese em exame, é o de 10 (dez) salários mínimos para a RPV.
+Como se vê, a fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada, inexistindo omissão a ser sanada.
+Quanto ao mais, o Tribunal de origem decidiu a matéria controvertida mediante análise de legislação local, qual seja, as Leis Distritais 3.624/2005 e 6.618/2020.
+Com efeito, o exame da pretensão recursal perpassa necessariamente pela análise de direito local, o que faz incidir, por analogia, o óbice constante da Súmula 280 do Supremo Tribunal Federal ("por ofensa a direito local não cabe recurso extraordinário").
+Nesse sentido:
+PROCESSUAL CIVIL. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. REQUISIÇÃO DE PEQUENO VALOR. OFENSA AO ART. 1.022 DO CPC/2015. PRINCÍPIOS PREVISTOS NO ART. 6º DA LINDB. DIREITO ADQUIRIDO. NATUREZA CONSTITUCIONAL. JULGAMENTO AFETO AO SUPREMO TRIBUNAL FEDERAL. ANÁLISE DE LEI LOCAL. SÚMULA N. 280/ STF. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+(..).
+IV - Ademais, verifica-se que a questão controvertida nos autos foi solucionada, pelo Tribunal de origem, com fundamento em leis locais, in casu, a Lei distrital n. 6.618/20. Logo, torna-se inviável, em recurso especial, o exame da matéria nele inserida, diante da incidência, por analogia, do enunciado n. 280 da Súmula do STF, que dispõe: "Por ofensa a direito local não cabe recurso extraordinário.
+" Nesse sentido: AgInt no AREsp 1.304.409/DF, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 31/8/2020, DJe 4/9/2020; AgInt no REsp 1.184.981/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 22/6/2020, DJe 30/6/2020; EDcl no AgInt no AREsp 1.506.044/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 24/8/2020, DJe 9/9/2020.
+V - Agravo interno improvido.
+(AgInt no AREsp n. 2.109.382/DF, relator Ministro Francisco Falcão, Segunda Turma, julgado em 20/3/2023, DJe de 24/3/2023, grifos acrescidos).
+Isso posto, conheço do recurso especial para negar-lhe provimento.
+Publique-se. Intime-se.
+EMENTA
