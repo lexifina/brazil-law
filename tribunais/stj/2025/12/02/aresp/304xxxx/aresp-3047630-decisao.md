@@ -1,0 +1,66 @@
+DECISÃO
+Cuida-se de agravo interposto por ESPÓLIO DE ARMANDO CONDE e TRECCHINA PARTICIPACOES S.A. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fls. 1.253-1.261):
+APELAÇÃO. Ação de arbitramento com pedido de indenização por ato ilícito. Corretagem. Sentença de procedência. Inconformismo da parte ré. Preliminares. Prescrição. Rejeição. Lapso temporal não transcorrido. Ilegitimidade passiva, por alegação de nulidade do contrato de cessão de crédito. Rejeição. Impossibilidade de beneficiar-se, a parte ré, da própria torpeza. Falta de interesse processual. Inocorrência. Demanda adequada para o caso de inadimplemento contratual. Mérito. Comissão de corretagem devida. Demonstração de resultado útil dos serviços prestados para a conclusão do negócio jurídico intermediado. Sentença mantida. Recurso não provido.
+Rejeitados os embargos de declaração (fls. 1.346-1.351).
+No recurso especial, a parte recorrente aduz, no mérito, que o acórdão contrariou as disposições contidas nos artigos 5º, 502, 503 e 1.014 do CPC e 206, 421 e 725 do CC.
+Sustenta, em síntese, ausência de inovação recursal, violação da coisa julgada e do pacta sunt servanda, ilegitimidade de parte (TRECCHINA), nulidade de cessão de créditos, prescrição, ausência de benefício da própria torpeza e não ser devida comissão de corretagem.
+Foram oferecidas contrarrazões ao recurso especial (fls. 1.369-1.411).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 1.413-1.414), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 1.431-1.469).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Cuida-se de insurgência do recorrente acerca de inovação recursal, coisa julgada, pacta sunt servanda, ilegitimidade de parte, nulidade de cessão de créditos, prescrição, benefício da própria torpeza e pagamento de comissão a corretor.
+Do reexame de fatos e provas e d a interpretação de cláusulas contratuais
+Nas razões do recurso especial, a recorrente alega ausência de inovação recursal, nulidade de cessão de crédito, e não ter tentado se beneficiar da própria torpeza.
+Além disso, sustenta violação dos arts. 502 e 503 do CPC, sob o argumento de que o acórdão recorrido teria desconsiderado decisão judicial transitada em julgado que declarou a nulidade do contrato de cessão de créditos entre Trecchina e Armando Conde.
+Defende ilegitimidade de ser parte e marco inicial da prescrição distinto do definido pelo tribunal.
+Sobre os pontos, o tribunal concluiu que restou caracterizada tal inovação, porquanto a questão da nulidade não foi discutida antes da fase recursal.
+A propósito, cito:
+O cerne da defesa da apelante é a alegação de que os títulos da cessão de crédito são nulos, em virtude de decisão anterior transitada em julgado (autos nº 1051111-36.2019.8.26.0100).
+No entanto tal conduta viola a disposição do artigo 1.014 do Código de Processo Civil, o qual dispõe que "as questões de fato não propostas no juízo inferior poderão ser suscitadas na apelação, se a parte provar que deixou de fazê-lo por motivo de força maior", em patente vedação à inovação recursal, corolário dos princípios da lealdade, boa-fé e cooperação processuais (artigos 5º e 6º do Código de Processo Civil).
+Do exame da contestação apresentada pela Trecchina Participações S/A, não há qualquer situação excepcional, autorizadora de nova alegação na fase recursal.
+O argumento utilizado na contestação para justificar a ilegitimidade passiva era de que, mesmo com a cessão de crédito da venda dos imóveis, a empresa nunca se obrigou perante as autoras ou assumiu qualquer dívida perante elas. Em nenhum momento a parte ré discute a questão da nulidade.
+O argumento sobre a nulidade da cessão de créditos (que se deu por comprovação de falsificação de assinatura) é suscitado pela Trecchina Participações S/A somente na apelação, em uma tentativa de se beneficiar alegando sua própria torpeza. Tal ato é rechaçado pelo artigo 5º do Código de Processo Civil, no qual está disposto que: "Aquele que de qualquer forma participa do processo deve comportar-se de acordo com a boa-fé" (fls. 1.255-1.256).
+Sobre o tema, o STJ entende que é vedado rever, nesta Corte, o entendimento do Tribunal de origem acerca da caracterização de inovação recursal, bem como acerca da tentativa de se beneficiar da própria torpeza:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM RESTITUIÇÃO DE VALORES. RECURSO ESPECIAL INTERPOSTO COM ERRO NA QUALIFICAÇÃO DA PARTE. PRINCÍPIO DA INSTRUMENTALIDADE DAS FORMAS. VÍCIO SANÁVEL. APELAÇÃO NÃO CONHECIDA NA ORIGEM POR OFENSA AO PRINCÍPIO DA DIALETICIDADE E INOVAÇÃO RECURSAL. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+1. É possível superar erro material na qualificação da parte, quando, pelo contexto da petição, é inequívoca a identificação do verdadeiro recorrente e não há prejuízo à defesa da parte adversa.
+2. Rever a conclusão do Tribunal estadual, que não conheceu da apelação por entender haver violação do princípio da dialeticidade e inovação recursal, demande reexame de fatos e provas, providência vedada em sede de recurso especial, nos termos da Súmula 7/STJ.
+3. Agravo conhecido para não conhecer do recurso especial.
+(AREsp n. 2.801.299/GO, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 20/10/2025, DJEN de 23/10/2025.)
+ ..  2. O Tribunal de origem, a partir da análise dos elementos fático-probatórios, concluiu que inexiste direito de regresso da agravante, pois: a) "havido o reconhecimento da ilicitude na conduta da autora, com indevida utilização do instituto da terceirização, bem como expressa imposição da responsabilidade solidária das reclamadas, justamente por conta da conduta irregular praticada" (fl. 2306); b) a agravada não pode se beneficiar de sua própria torpeza; c) o reembolso não se conforma à boa-fé objetiva nem se compreende nos riscos do negócio assumido pela ré; e d) a própria agravada firmou acordo com os reclamantes, arcando com parte da condenação. Rever tais conclusões implicaria o reexame de provas e fatos e a interpretação de cláusulas contratuais, providências descabidas no âmbito do recurso especial. Incidência das Súmulas n. 5 e 7 desta Corte Superior. (AgInt no AREsp n. 2.454.963/SP, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 21/10/2024, DJe de 25/10/2024.)
+Ademais, no que diz respeito à prescrição, é inviável o reexame das premissas fáticas para alterar o termo inicial da prescrição, como pretende a recorrente, sob o argumento de que teria começado em momento diverso:
+CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL C/C RESTITUIÇÃO DE VALORES E INDENIZAÇÃO POR DANOS MORAIS. PRESCRIÇÃO DECENAL. ARTS. 189, 199, I, E 205 DO CÓDIGO CIVIL. CONDIÇÃO SUSPENSIVA. MARCO INICIAL. LEI N.º 9.372/2013. ALEGAÇÕES DE violação doS ARTS. 489, § 1º, IV, E 1.022 DO CPC. INOCORRÊNCIA. REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. O acórdão recorrido examinou adequadamente as questões suscitadas, não havendo omissão, obscuridade ou contradição (arts. 489, § 1º, IV, e 1.022 do CPC).
+2. A definição do marco inicial da prescrição e a constatação de condição suspensiva válida dependem da análise das circunstâncias fáticas e do conjunto probatório, providência vedada na via especial (Súmula 7/STJ).
+3. Correta a aplicação do art. 205 do Código Civil: o prazo prescricional não corre enquanto pendente impedimento jurídico ou condição suspensiva para exercício do direito, conforme reconhecido pelo Tribunal de origem, que considerou suspensa a contagem até a edição da Lei n.º 9.372/2013 e atos administrativos posteriores.
+4. Jurisprudência desta Corte Superior pacífica no sentido de que a revisão das premissas fáticas fixadas pelas instâncias ordinárias para alterar o termo inicial da prescrição é inviável em recurso especial.
+5. Agravo conhecido para negar provimento ao recurso especial.
+(AREsp n. 2.689.720/GO, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 20/10/2025, DJEN de 23/10/2025.)
+Por fim, modificar a conclusão da origem acerca da ilegitimidade de parte vai de encontro à Súmula 7:
+ ..  4. A questão da ilegitimidade ativa foi resolvida com base na análise dos documentos apresentados nos autos, como termos de cessão e radiografias contratuais, sendo reconhecida a legitimidade ativa da maioria dos autores, exceto daqueles que não comprovaram vínculo contratual. Alterar essa conclusão demandaria reexame de provas e fatos, o que é vedado pelas Súmulas 5 e 7/STJ. (AREsp n. 2.747.598/SC, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 20/10/2025, DJEN de 23/10/2025.)
+Portanto, alterar o decidido no acórdão impugnado, no que se refere à inovação recursal, ao comportamento processual, à legitimidade e à prescrição, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+No que diz respeito à alegada violação do pacta sunt servanda (art. 421, CC) e do art. 725 do CC (pagamento da comissão ao corretor), a recorrente aduz que o acórdão recorrido desconsiderou cláusula do contrato celebrado.
+Contudo, a incidência da Súmula 5 veda o reexame de cláusulas e interpretação contratual.
+Desse modo, considerando a fundamentação do acórdão objeto do recurso especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fático-probatória e interpretação das cláusulas contratuais, procedimentos vedados a esta Corte, em razão dos óbices das Súmulas n. 5 e 7/STJ.
+Súmula n. 83 do STJ
+N o que diz respeito à alegada tese de prescrição, com relação à comissão de corretagem decorrente de inadimplemento contratual, o acórdão recorrido se encontra em conformidade com o entendimento do STJ, no sentido de que o prazo aplicável é decenal.
+A propósito, cito:
+Não há o que se falar em prescrição.
+Conforme entendimento jurisprudencial, o prazo prescricional para ação indenizatória fundada em descumprimento de obrigação contratual é de 10 anos, nos termos do artigo 205 do Código Civil.
+Tal prazo começa a ser contado a partir do dia de inadimplemento, e não pela data de celebração do contrato. Segundo o princípio da actio nata, disposto no artigo 189 do Código Civil,o prazo prescricional correrá a partir do momento em que for possível, em tese, propor a ação, qual seja, a data em que afrontado o direito. (fl. 1.257)
+No caso em tela, o pagamento da comissão estava atrelado à construção do empreendimento. No entanto, por decisão judicial anterior autos de nº 1017163-55.2016.8.26.0053, o terreno foi cedido à municipalidade, tornando impossível o cumprimento da obrigação. É nesse momento que o direito da parte autora é afrontado. Portanto, não há prescrição, tendo em vista que a decisão judicial foi proferida no dia 05 de abril de 2019 caracteriza-se como o termo inicial para a contagem do prazo prescricional. (fl. 1.258)
+Sobre o tema, o STJ:
+PROCESSUAL CIVIL. AGRAVOS EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR VÍCIOS CONSTRUTIVOS. PROGRAMA MINHA CASA, MINHA VIDA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURAÇÃO. RESPONSABILIDADE SOLIDÁRIA DAS EMPRESAS. CADEIA DE CONSUMO. TEORIA DA APARÊNCIA. VÍCIOS CONSTRUTIVOS RECONHECIDOS COM BASE EM PROVA PERICIAL. SÚMULAS 5 E 7/STJ. DANO MORAL CONFIGURADO. QUANTUM INDENIZATÓRIO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. SUCUMBÊNCIA. SÚMULA 326/STJ. PRESCRIÇÃO E DECADÊNCIA. PRAZO DECENAL. SÚMULA 83/STJ. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE SIMILITUDE FÁTICA E DE COTEJO ANALÍTICO. MATÉRIA CONSTITUCIONAL. INVIABILIDADE. AGRAVOS CONHECIDOS PARA NÃO CONHECER DOS RECURSOS ESPECIAIS.
+ ..
+7. Tratando-se de responsabilidade contratual, aplica-se o prazo prescricional decenal do art. 205 do CC, afastando-se a prescrição trienal e a decadência do art. 26 do CDC. Entendimento pacífico desta Corte (Súmula 83/STJ).
+8. Para configurar dissídio jurisprudencial é necessário haver o cotejo analítico e similitude fática, o que não se verificou na espécie (art. 1.029, § 1º, CPC e art. 255 do RISTJ).
+9. Questões de índole constitucional não se examinam em recurso especial, por fugir à competência desta Corte (art. 102, III, da CF).
+10. Agravos conhecidos para não conhecer dos recursos especiais.
+(AREsp n. 2.669.461/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 20/10/2025, DJEN de 23/10/2025.)
+Dessarte, estando o acórdão recorrido em sintonia com o entendimento dominante deste Tribunal, aplica-se, ao caso, o entendimento consolidado na Súmula 83/STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Honorários recursais
+Deixo de majorar os honorários, visto que já foram fixados na origem no patamar máximo de 20% (fl. 1.261).
+Publique-se. Intimem-se.
+ EMENTA
