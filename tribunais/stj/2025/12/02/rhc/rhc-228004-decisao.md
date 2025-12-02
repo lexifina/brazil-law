@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto por PEDRO LUCAS DE SA MORAIS contra o acórdão proferido pelo Tribunal de Justiça do Ceará que denegou o Habeas Corpus criminal n. 0629775-95.2025.8.06.0000, mantendo a prisão preventiva do recorrente imposta pelo Juízo de Direito da Vara de Delitos de Organizações Criminosas da Comarca de Fortaleza, pela suposta prática dos crime de tráfico de drogas, posse ilegal de arma de fogo de uso restrito e organização criminosa.
+Neste recurso, a defesa alega o excesso de prazo na formação da culpa
+Requer, assim, o provimento do recurso para revogar a prisão preventiva, com a concessão da liberdade provisória; subsidiariamente, a substituição por outras medidas cautelares.
+É o relatório.
+Consta dos autos que a prisão preventiva do recorrente foi decretada para garantia da ordem pública e prevenção do risco de reiteração delitiva, diante da expressiva quantidade de entorpecentes apreendidos - 385 g de crack, 680 g de cocaína e 3.000 g de maconha -, bem como da apreensão de uma pistola calibre .9mm, 12 munições e uma balança de precisão. Soma-se a tais circunstâncias a reincidência específica do acusado pelo crime de tráfico de drogas.
+Verifica-se que a decretação da custódia cautelar está devidamente fundamentada em análise individualizada do contexto fático-probatório, evidenciando risco concreto de reiteração delitiva, especialmente diante dos antecedentes criminais do recorrente, que ostenta condenação transitada em julgado.
+Feita essa primeira avaliação, passo a análise do excesso de prazo na formação da culpa. Verifica-se que o paciente foi preso em flagrante em 26/6/2025, tendo a prisão sido homologada e convertida em preventiva no dia seguinte. Em 17/7/2025, o juízo declinou a competência, remetendo os autos à Vara de Organizações Criminosas. A denúncia foi oferecida em 15/08/2025 e recebida em 28/8/2025, ocasião em que se manteve a prisão preventiva. O paciente foi citado em 4/9/2025 e apresentou resposta à acusação em 29/9/2025. Por fim, a audiência de instrução foi designada para 19/3/2026 (fl. 94).
+Assim, à luz da movimentação processual acima descrita, não se constata o excesso de prazo alegado pela defesa. A aferição dessa matéria não pode se apoiar em critérios aritméticos rígidos, devendo considerar o conjunto do procedimento, não havendo qualquer desídia pelas Instância ordinárias.
+Nesse sentido: AgRg no RHC n. 204.509/BA, Ministro Og Fernandes, Sexta Turma, DJEN 18/2/2025.
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+Publique- se.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. POSSE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. ORGANIZAÇÃO CRIMINOSA. PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. RISCO CONCRETO DE REITERAÇÃO DELITIVA. FUNDAMENTAÇÃO INDIVIDUALIZADA. QUANTIDADE EXPRESSIVA DE ENTORPECENTES E APREENSÃO DE ARMA E MUNIÇÕES. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. AUSÊNCIA DE DESÍDIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Recurso em habeas corpus improvido.
