@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de DIEGO FERREIRA SOUZA FRANCA - condenado pelo crime de tráfico de drogas majorado -, apontando-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal n. 1500647-64.2021.8.26.0557).
+Neste writ, a defesa sustenta ser cabível a desclassificação do crime de tráfico de drogas para a conduta de posse de entorpecente para consumo pessoal, ao argumento de que não há qualquer elemento probatório que demonstre o intuito de comercialização da droga apreendida. Pelo contrário, a quantidade, a forma de acondicionamento e a ausência de outros indícios (dinheiro trocado, anotações, balança de precisão, movimentação típica de comércio etc.) revelam tratar-se de posse destinada exclusivamente ao consumo próprio (fl. 21).
+Postula, ao final, a reanálise do presente caso, a fim de que seja promovida a desclassificação da conduta para o delito previsto no art. 28 da Lei n. 11.343/2006 (fl. 22).
+É o relatório.
+Da análise dos autos verifica-se que a pretensão não merece acolhimento.
+Ocorre que a via eleita foi indevidamente utilizada como espécie de revisão criminal - em especial tendo a apelação criminal sido julgada em 12/7/2022 -, como forma de revisar a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, pois tal conduta termina por contribuir para o acúmulo de processos neste Superior Tribunal sem solução definitiva e desvirtua a finalidade do writ (AgRg no HC n. 918.369/SC, de minha relatoria, Sexta Turma, DJe de 24/9/2024; e HC n. 790.078/SC, Ministra Daniela Teixeira, Quinta Turma, DJEN de 17/12/2024).
+No caso, o Tribunal de origem entendeu estar configurado o crime de tráfico de drogas, afastando o pedido de desclassificação, apontando que as denúncias anônimas, o local dos fatos, conhecido ponto de tráfico, a diligência policial, a tentativa de fuga da abordagem, a apreensão de vários pinos de cocaína em poder do acusado e da adolescente e as circunstâncias da prisão, tudo a denotar a finalidade de traficância (fl. 31), em conformidade com farta jurisprudência do Superior Tribunal de Justiça.
+Ademais, obter conclusão inversa da adotada pelas instâncias ordinárias ensejaria profundo revolvimento fático probatório, providência indesejável na via estreita do habeas corpus.
+Em face do exposto, indefiro liminarmente a petição inicial.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. CARTA DE PRESO. TRÁFICO DE DROGAS MAJORADO. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. UTILIZAÇÃO INDEVIDA DO WRIT. APELAÇÃO CRIMINAL JULGADA EM 12/7/2022. DESCLASSIFICAÇÃO DO DELITO PARA A CONDUTA DE POSSE DE DROGAS DESTINADA AO CONSUMO PRÓPRIO. INVIABILIDADE. CIRCUNSTÂNCIAS QUE DENOTAM A TRAFICÂNCIA A DESPEITO DA POUCA QUANTIDADE DE DROGA APREENDIDA (2,140 G DE COCAÍNA). CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
