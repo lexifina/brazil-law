@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por DORVAL JUNIO CARNEIRO DE MATTOS, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO AMAZONAS no julgamento do HC n. 0010502-02.2025.8.04.9001.
+Extrai-se dos autos que o recorrente foi condenado à pena de 28 anos, 11 meses e 2 dias de reclusão, pela prática dos crimes tipificados nos arts. 121, § 2º, I e IV, parte final, e 288-A do Código Penal - CP, tendo sido expedido mandado de prisão para a execução provisória da pena.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem nos termos do acórdão que restou assim ementado:
+"DIREITO PROCESSUAL PENAL. HABEAS CORPUS. TRIBUNAL DO JÚRI. EXECUÇÃO PROVISÓRIA DA PENA. CONDENAÇÃO SUPERIOR A 15 ANOS DE RECLUSÃO. REGRAMENTO DO ART. 492, I, "E", DO CPP. APLICAÇÃO IMEDIATA. CONDIÇÕES PESSOAIS E SAÚDE DO PACIENTE NÃO AFASTAM A LEGALIDADE DA CUSTÓDIA. ORDEM DENEGADA.
+I. CASO EM EXAME
+1. Habeas corpus impetrado com o objetivo de revogar a prisão do paciente, decretada com base na condenação imposta pelo Tribunal do Júri, com fundamento no art. 492, I, "e", do CPP. A defesa alegou: (i) irretroatividade da norma, (ii) ausência de fundamentação, (iii) inimputabilidade do réu atestada por laudo pericial, (iv) contrariedade da decisão dos jurados à prova dos autos e (v) condições pessoais favoráveis, além de requerer, subsidiariamente, a prisão domiciliar por razões de saúde.
+II. QUESTÃO EM DISCUSSÃO
+2. Há cinco questões em discussão: (i) saber se a execução provisória da pena nos termos do art. 492, I, "e", do CPP, ofende o princípio da presunção de inocência; (ii) saber se a norma possui natureza penal mista e, portanto, vedada a sua retroatividade; (iii) saber se há ilegalidade na custódia do paciente à luz de laudo que atesta inimputabilidade; (iv) saber se a decisão do júri pode ser revista por meio de habeas corpus; e (v) saber se a condição clínica do paciente autoriza a concessão de prisão domiciliar.
+III. RAZÕES DE DECIDIR
+3. O Supremo Tribunal Federal, no julgamento do Tema 1.068 da Repercussão Geral (RE 1.235.340/SC), fixou o entendimento de que a soberania dos veredictos do Tribunal do Júri autoriza a imediata execução da condenação, independentemente do total da pena aplicada.
+4. O art. 492, I, "e", do CPP, introduzido pela Lei nº 13.964/2019, permanece válido e eficaz, não tendo sido declarado inconstitucional. O Superior Tribunal de Justiça entende que sua aplicação não viola o princípio da irretroatividade da lei penal mais gravosa.
+5. A alegação de inimputabilidade foi submetida ao crivo do Conselho de Sentença, que não acolheu a tese da defesa, não cabendo ao habeas corpus revisitar o mérito da decisão soberana do júri.
+6. O habeas corpus não é via adequada para a análise de contrariedade à prova dos autos ou para o reexame de elementos fáticos.
+7. As condições pessoais do paciente, embora relevantes, não impedem a execução provisória da pena quando fundada na condenação proferida por júri popular.
+8. A prisão domiciliar exige comprovação de extrema debilidade e de impossibilidade de tratamento no sistema prisional. No caso, os elementos constantes dos autos não demonstram tal inviabilidade.
+IV. DISPOSITIVO E TESE
+Habeas corpus conhecido e denegado.
+9. Tese de julgamento: "1. A soberania dos veredictos do Tribunal do Júri autoriza a execução provisória da pena, independentemente do total da pena aplicada. 2. A norma do art. 492, I, "e", do CPP possui natureza processual e é plenamente aplicável aos casos em curso, mesmo que iniciados antes da vigência da Lei nº 13.964/2019. 3. A análise de inimputabilidade rejeitada pelo júri não pode ser revista por habeas corpus. 4. Condições pessoais ou estado de saúde que não configurem extrema debilidade ou inviabilidade de tratamento não autorizam a substituição por prisão domiciliar."
+Dispositivos relevantes citados: CF/1988, arts. 5º, XXXVIII e XL; CPP, arts. 492, I, "e", 593, III, "d" e 318, II.
+Jurisprudência relevante citada: STF, RE 1.235.340/SC, Rel. Min. Luiz Fux, Plenário, j. 11.03.2021; STJ, AgRg no RHC 185.559/MG, Rel. Min. Messod Azulay Neto, 5ª Turma, j. 12.08.2024; STJ, AgRg no HC 873.214/TO, Rel. Min. Ribeiro Dantas, 5ª Turma, j. 17.06.2024." (fls. 204/205)
+Nas razões do presente recurso, sustenta ofensa à presunção de inocência em razão da expedição de mandado de prisão para a execução provisória da pena.
+Alega ser portador de doença mental grave e considerado plenamente incapaz, conforme Laudo Técnico emitido pela Secretaria de Estado de Administração Penitenciária - SEAP, atestando a sua inimputabilidade.
+Afirma que necessita de acompanhamento psiquiátrico e que foi reconhecida a ausência de estrutura da unidade prisional para a manutenção da sua custódia.
+Requer, assim, a concessão da liberdade ou a substituição da prisão por domiciliar, com ou sem aplicação de medidas cautelares diversas.
+É o relatório.
+Decido.
+A irresignação não merece acolhida.
+Com efeito, o Supremo Tribunal Federal, em 12/9/2024, ao julgar o RE 1.235.340/SC, em regime de repercussão geral, por maioria de votos, firmou o entendimento de que a soberania dos vereditos autoriza a execução imediata da pena aplicada pelo Tribunal do Júri, independentemente do quantum da reprimenda fixada - Tema n. 1.068.
+Desse modo, não se cogita de ilegalidade decorrente da determinação de cumprimento imediato da pena imposta. Nesse sentido:
+AGRAVO REGIMENTAL DO MINISTÉRIO PÚBLICO CONTRA DECISÃO DE CONCESSÃO LIMINAR DA ORDEM DE HABEAS CORPUS. EXECUÇÃO PROVISÓRIA DE PENA IMPOSTA PELO TRIBUNAL DO JÚRI. PENA SUPERIOR A 15 ANOS DE RECLUSÃO. ART. 492, I, E DO CPP. ALTERAÇÃO PROMOVIDA PELA LEI N. 13.964/2019 (PACOTE ANTICRIME). APLICABILIDADE IMEDIATA. ENTENDIMENTO DO STF. TEMA 1.068 DA REPERCUSSÃO GERAL. QUANTUM DA PENA. IRRELEVÂNCIA.
+1. A jurisprudência do Supremo Tribunal Federal, em diversas oportunidades, tem declarado a nulidade das decisões que afastam a aplicação do art. 492, I, e, do Código de Processo Penal, por violação da Súmula Vinculante 10 e da cláusula de reserva de Plenário, pois tal afastamento configura controle difuso de constitucionalidade que demanda a manifestação do órgão pleno ou do órgão especial.
+2. A jurisprudência recente do Superior Tribunal de Justiça já vinha se alinhando ao entendimento do STF, aplicando a execução imediata da pena imposta pelo Tribunal do Júri. Precedentes.
+3. No julgamento do RE n. 1.235.340/SC (Tema 1.068 da Repercussão Geral), finalizado em 12/9/2024, o STF deu interpretação conforme à Constituição ao art. 492 do CPP, excluindo o limite mínimo de 15 anos para a execução da condenação imposta pelo Tribunal do Júri, firmando a tese de que a soberania dos veredictos autoriza a imediata execução da pena, independentemente do total da pena aplicada.
+4. Diante do posicionamento vinculante do STF e da recente orientação do STJ, torna-se inviável a concessão de habeas corpus que contrarie tais precedentes, devendo-se aplicar imediatamente a prisão ao réu condenado pelo Tribunal do Júri.
+5. Agravo regimental provido.
+(AgRg no HC n. 788.126/SC, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), relator para acórdão Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 27/9/2024.)
+De outra parte, verifica-se que a Corte estadual não analisou a tese relativa à inimputabilidade do paciente, por entender que a matéria "é típica de recurso de apelação  ..  e demanda o reexame aprofundado do conjunto fático-probatório, o que é inviável na via do writ" (fls. 211/212), o que obsta a análise da alegação por esta Corte, tendo em vista que "a análise originária de matéria não enfrentada pelas instâncias ordinárias configura supressão de instância" (AgRg no HC n. 1.024.826/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 9/9/2025, DJEN de 15/9/2025).
+Quanto ao pedido de conversão da prisão em domiciliar, entendeu o Tribunal local que "não há nos autos elementos que atestem que o paciente não está recebendo as medicações necessárias ou que seu quadro de saúde se agravou de tal forma que a manutenção da custódia implique em risco iminente à sua vida ou integridade física, de maneira que não possa aguardar o devido processo de execução da pena" (fl. 212). A revisão de tal entendimento demandaria o exame aprofundado de todo o conjunto fático-probatório, procedimento este incompatível com ação constitucional de rito célere e de cognição sumária da via eleita.
+Ante o exposto, com fulcro no art. 34, XVIII, "b" , do Regimento Interno do Superior Tribunal de Justiça - RISTJ , nego provimento ao recurso em habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
