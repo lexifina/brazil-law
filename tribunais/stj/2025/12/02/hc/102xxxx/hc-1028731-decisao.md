@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de DANILO FERREIRA DANTAS no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO MATO GROSSO (HC n. 1023647- 53.2025.8.11.0000).
+Consta dos autos que o paciente está preso preventivamente pela suposta prática dos delitos de tráfico de drogas, associação para o tráfico, e associação criminosa. A impetrante sustenta que o paciente foi preso preventivamente em 07 de agosto de 2024, no contexto da Operação Reprise II, por decisão do Juízo da Vara Única de Arenápolis/MT. Em 23 de maio de 2025, a prisão preventiva foi reavaliada e mantida, sendo indeferida a revogação em 15 de julho de 2025.
+Alega que há excesso de prazo não imputável à Defesa, pois a custódia já supera 12 (doze) meses sem audiência de instrução e julgamento designada, com paralisação provocada por recurso ministerial.
+Assevera a ausência de fundamentação idônea e contemporânea da preventiva, pois a manutenção apoiou-se em gravidade abstrata e em ações /inquéritos sem fatos novos.
+Afirma que a prisão cautelar é mais gravosa do que o provável resultado útil, violando os princípios da homogeneidade e proporcionalidade.
+Defende a suficiência de medidas cautelares do art. 319 do Código de Processo Penal.
+Requer, liminarmente e no mérito, a concessão da ordem para revogar a prisão do paciente, com, ou sem, a aplicação das medidas cautelares do art. 319 do Código de Processo Penal.
+Alternativamente, pugna pela determinação de imediata designação de audiência de instrução e julgamento em prazo razoável e de reavaliação fundamentada da necessidade da prisão.
+O pedido liminar foi indeferido às fls. 440/442, por meio de decisão da lavra do Ministro Otávio de Almeida Toledo.
+Informações prestadas às fls. 440/460.
+O Ministério Público Federal manifestou-se às fls. 475/485, opinando pelo não conhecimento do writ e, caso conhecido, pela denegação da ordem.
+É o relatório.
+DECIDO.
+A ordem deve ser denegada.
+Esta Corte - HC n. 535.063/SP, Terceira Seção, relator Ministro Sebastião Reis Junior, julgado em 10/6/2020, DJe de 25/8/2020 - e o Supremo Tribunal Federal - AgRg no HC n. 180.365/PB, Primeira Turma, relatora Ministra Rosa Weber, julgado em 27/3/2020, DJe de 02/4/2020, e AgRg no HC n. 147.210/SP, Segunda Turma, relator Ministro Edson Fachin, julgado em 30/10/2018, DJe de 20/2/2020 - pacificaram a orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+No caso em tela, o recurso cabível contra acórdão do Tribunal de origem que denega a ordem no habeas corpus é o recurso ordinário, consoante dispõe o art. 105, II, "a", da Constituição Federal.
+Assim, a fim de que não se desvirtue a finalidade dessa garantia constitucional, o habeas corpus não pode ser utilizado como substituto de recurso próprio.
+No caso, o Juízo de primeiro grau, ao manter decretar a prisão preventiva do paciente, ressaltou o seguinte (fls. 81/84):
+Com efeito, em uma acurada análise dos elementos constantes nos autos, verifico que os fundamentos adotados na decisão que decretou a prisão preventiva permanecem incólumes, não sendo infirmados por qualquer elemento no processo. Nessa linha, observa-se que a custódia cautelar dos réus está calcada na constatação dos pressupostos da materialidade e dos indícios suficientes de autoria, bem como do requisito relativo à necessidade da garantia da ordem pública, nos termos do artigo 312 do Código Penal. A decisão que decretou a prisão preventiva do denunciado foi calcada no manifesto risco de reiteração delitiva, uma vez que os réus respondem ou foram condenados em outros processos criminais.
+(..)
+Em relação ao denunciado Danilo Ferreira Dantas, consta nos sistemas da justiça que ele responde a outros processos, inclusive por tráfico de drogas (1000924-30.2023.8.11.0026 e 1000936- 10.2024.8.11.0026), o que revela sua reiterada vinculação com a prática de infrações penais.
+O Tribunal de origem, por sua vez, assim manteve a segregação cautelar (fls. 12/24):
+Observa-se que os autos contam com 09 (nove) denunciados, representados por patronos distintos, com interposição de vários pedidos e recurso em sentido estrito, eventual elastério na conclusão da instrução criminal é plenamente justificável e razoável.
+Analisando os autos, com as informações disponíveis, observo que não há, qualquer curso estranho ou possuidor de atrasos, sendo que o próprio impetrante trouxe informações pertinentes ao presente habeas corpus, evidenciando que os prazos e procedimentos vieram sendo respeitados pelo juízo de origem.
+(..)
+Tem-se que a segregação cautelar do paciente foi baseada na necessidade de se garantir a ordem pública, destacando o juízo tido como autoridade coatora, a vida pretérita do paciente, constando que o paciente não é iniciante na prática delituosa, ostentando antecedentes pela prática de delitos da mesma espécie. Dessa forma, plenamente legitima a decisão que determinou a prisão preventiva do paciente, diante da presença dos requisitos do artigo 312 do Código de Processo Penal.
+Dos excertos transcritos, concluo que, ao contrário do que alega a Defesa, a prisão preventiva foi suficientemente fundamentada pelas instâncias ordinárias, tendo sido ressaltada a gravidade concreta da conduta do paciente, evidenciada a partir da sua participação ativa no contexto da organização criminosa, voltada ao tráfico de drogas e ao comércio ilegal de armas de fogo e o risco de reiteração delitiva.
+Tal circunstância demonstra a periculosidade do agente e é apta a justificar a segregação cautelar para garantia da ordem pública.
+Com efeito,
+(a) jurisprudência desta Corte Superior é firme ao asseverar que, nas hipóteses em que a quantidade das drogas apreendidas e outras circunstâncias do caso revelem a maior gravidade do tráfico, tais dados são bastantes para demonstrar a periculosidade social do réu e a necessidade de garantir a ordem pública, ante o fundado receio de reiteração delitiva (RHC n. 193.876/PR, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/4/2024, DJe de 30/4/2024).
+Exemplificativamente:
+PEDIDO DE RECONSIDERAÇÃO. RECEBIMENTO COMO AGRAVO REGIMENTAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. QUANTIDADE EXPRESSIVA DE DROGA. MEDIDAS CAUTELARES DO ART. 319 DO CPP. SUBSTITUIÇÃO. INVIABILIDADE. DESPROVIMENTO.
+1. Apresentada fundamentação idônea para a prisão cautelar, consistente na gravidade concreta da conduta, evidenciada na expressiva quantidade de entorpecente (270 gramas de cocaína), não há falar-se em ilegalidade.
+2. "Havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão (art. 319 do CPP). Precedentes." (AgRg no HC n. 781.094/GO, relator Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Sexta Turma, julgado em 24/4/2023, DJe de 27/4/2023.)
+3. Agravo regimental desprovido.
+(RCD no HC n. 891.933/RJ, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 22/4/2024, DJe de 25/4/2024).
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. QUANTIDADE E VARIEDADE DA DROGA APREENDIDA. MEDIDAS CAUTELARES DIVERSAS. IMPOSSIBILIDADE. CONDIÇÕES FAVORÁVEIS. IRRELEVÂNCIA IN CASU. AUTORIA. NEGATIVA. FLAGRANTE. NULIDADE. SUPRESÃO DE INSTÂNCIA.
+(..)
+2. No caso, a prisão preventiva está justificada, pois, segundo a decisão que a impôs, o agravante foi flagrado em posse de grande quantidade e variedade de substância entorpecente, a saber, aproximadamente 318g (trezentos e dezoito gramas) de crack e 422g (quatrocentos e vinte e dois gramas) de maconha, além de uma balança de precisão. Dessarte, está evidenciada a sua periculosidade e a necessidade da segregação como forma de acautelar a ordem pública.
+(..)
+6. Agravo regimental desprovido.
+(AgRg no RHC n. 192.110/BA, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 15/4/2024, DJe de 18/4/2024).
+AGRAVO REGIMENTAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS (500 G DE COCAÍNA). PRISÃO PREVENTIVA. MATERIALIDADE E AUTORIA. GRAVIDADE CONCRETA. QUANTIDADE DE DROGA APREENDIDA. GARANTIA DA ORDEM PÚBLICA. PRECEDENTES. PERICULOSIDADE CONCRETA. AUSÊNCIA DE FUNDAMENTOS CAPAZES DE INFIRMAR A DECISÃO IMPUGNADA.
+Agravo regimental improvido.
+(AgRg no RHC n. 178.381/GO, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 15/5/2023, DJe de 18/5/2023).
+Nessa esteira, não pode prosperar o argumento de motivação genérica para a decretação da custódia preventiva do paciente, uma vez que a decisão encontra amparo em elementos concretos extraídos dos autos originais, a partir de investigações consolidadas realizadas pela polícia que foram capazes de identificar, de forma individualizada, a responsabilidade de cada um dos envolvidos dentro da organização criminosa.
+Outrossim, a suposta existência de condições pessoais favoráveis, por si sós, não asseguram a desconstituição da custódia antecipada, caso estejam presentes os requisitos autorizadores da custódia cautelar, como ocorre no caso. A propósito: AgRg no HC n. 894.821/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 13/5/2024, DJe de 15/5/2024; AgRg no HC n. 850.531/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/11/2023, DJe de 17/11/2023.
+Quanto à alegação de excesso de prazo na instrução processual, os argumentos da Defesa não merecem acolhida, tendo em vista que, diante das especificidades do caso em apreço, o feito segue seu trâmite regular na instância ordinária, não se verificando violação ao princípio da razoável duração do processo.
+Como bem destacado no acórdão recorrido, "observa-se que os autos contam com 09 (nove) denunciados, representados por patronos distintos, com interposição de vários pedidos e recurso em sentido estrito, eventual elastério na conclusão da instrução criminal é plenamente justificável e razoável".
+Ainda que assim não fosse, esta Corte Superior possui julgados afirmando que "eventual excesso de prazo deve ser analisado à luz do princípio da razoabilidade, sendo permitido ao Juízo, em hipóteses excepcionais, ante as peculiaridades da causa, a extrapolação dos prazos previstos na lei processual penal, já que tal aferição não resulta de simples operação aritmética". (HC 230.323/TO, Rel. Ministro Marco Aurélio Belizze, Quinta Turma, julgado em 22/05/2012, Dje 12/06/2012).
+Desse modo, não havendo que se falar em ilegalidade manifesta e tendo sido concretamente demonstrada a necessidade da prisão preventiva nos autos, não se mostra suficiente a aplicação de medidas cautelares mais brandas, nos termos do art. 282, inciso II, do Código de Processo Penal.
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
