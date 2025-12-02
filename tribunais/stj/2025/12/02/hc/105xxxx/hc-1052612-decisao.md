@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de HADASSA IRINEU ALVES, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ no julgamento da Apelação Criminal n. 0216095-76.2023.8.06.0001.
+Extrai-se dos autos que a paciente foi condenada à pena de 8 anos e 3 meses de reclusão, no regime inicial fechado, além do pagamento de 277 dias-multa, pela prática do crime tipificado no art. 2º, § 2º, da Lei n. 12.850/2013.
+O Tribunal de origem deu parcial provimento à apelação interposta pela paciente, para reduzir a pena ao patamar de 7 anos e 3 meses de reclusão, por acórdão assim ementado:
+"PENAL E PROCESSO PENAL. APELAÇÃO CRIMINAL. RECURSOS DA DEFESA. ORGANIZAÇÃO CRIMINOSA ARMADA (ART. 2º, § 2º E § 3º, DA LEI Nº 12.850/2013 PARA O RÉU DANILO SOUSA RIOS E ART. 2º, § 2º, DA LEI Nº 12.850/2013 PARA OS RÉUS ANTÔNIO ALISSON LIMA BRANDÃO E HADASSA IRINEU ALVES). 1. PRELIMINAR. PLEITO COMUM DE NULIDADE PELA QUEBRA DE CADEIA DE CUSTÓDIA. NÃO CABIMENTO. ANÁLISE DOS DADOS AUTORIZADOS MEDIANTE ORDEM JUDICIAL. INEXISTÊNCIA DE FATOS CONCRETOS APTOS A EVIDENCIAR QUE OS DADOS EXTRAÍDOS A PARTIR DO TELEFONE MÓVEL NÃO SÃO DIGNOS DE CONFIANÇA. AUSÊNCIA DO CÓDIGO QUE NÃO GERA A IMPRESTABILIDADE DE PROVAS. NÃO COMPROVAÇÃO DE PREJUÍZO. PRECEDENTES STJ E TJCE.
+2. MÉRITO.
+2.1. PLEITO DE ABSOLVIÇÃO DO DELITO DE INTEGRAR ORGANIZAÇÃO CRIMINOSA, ANTE A SUPOSTA INSUFICIÊNCIA DE PROVAS DE MATERIALIDADE E DE AUTORIA DELITIVA. NÃO ACOLHIMENTO. PROVAS DOS AUTOS SUFICIENTES À COMPROVAÇÃO DO CRIME IMPUTADO. DADOS LEGITIMAMENTE EXTRAÍDOS DE APARELHO QUE EVIDENCIAM QUE OS ACUSADOS INTEGRAM A ORGANIZAÇÃO CRIMINOSA MASSA CARCERÁRIA. DEPOIMENTOS FIRMES E COESOS DAS TESTEMUNHAS DE ACUSAÇÃO. CONDENAÇÃO MANTIDA.
+2.2. PEDIDO DE RESTITUIÇÃO DOS BENS QUE FORAM APREENDIDOS DURANTE O CURSO PROCESSUAL. IMPOSSIBILIDADE. NÃO COMPROVAÇÃO INEQUÍVOCA DA PROPRIEDADE, DA ORIGEM LÍCITA E DA AUSÊNCIA DE USO COMO INSTRUMENTO DO CRIME. POSSIBILIDADE DE PERDIMENTO. PRECEDENTES.
+2.3. DOSIMETRIA DA PENA. PLEITO DE REFORMA DA 1ª FASE PARA AFASTAR A NEGATIVAÇÃO DAS CIRCUNSTÂNCIAS JUDICIAIS E REDUZIR A PENA AO MÍNIMO LEGAL. PARCIAL ACOLHIMENTO. CIRCUNSTÂNCIAS JUDICIAIS ACERTADAMENTE NEGATIVADAS. FUNDAMENTAÇÃO IDÔNEA. MODIFICAÇÃO APENAS DA FRAÇÃO UTILIZADA PARA 1/8 (UM OITAVO) DO INTERVALO ENTRE AS PENAS EM ABSTRATO. MANUTENÇÃO DA INCIDÊNCIA DA MAJORANTE DO §2º DO ART. 2º DA LEI N. 12.850/13. MAJORANTE DE ORGANIZAÇÃO CRIMINOSA ARMADA QUE INDEPENDE DA VONTADE INDIVIDUAL DO INTEGRANTE DA FACÇÃO. CONSUMAÇÃO QUANDO OS AGENTES ADEREM À PARTICIPAÇÃO EM FACÇÃO QUE FAZ EMPREGO DE ARMA DE FOGO EM SUAS ATUAÇÕES. PENA MAJORADA NA FRAÇÃO DE  (METADE) QUE NÃO MERECE REPROCHE. NECESSIDADE DE REDIMENSIONAMENTO DAS PENAS DEFINITIVAS, EM CONSONÂNCIAR COM O PARECER DA PGJ. REGIME FECHADO MANTIDO. 2.4. PLEITO DE RELAXAMENTO DA PRISÃO PREVENTIVA E DA PRISÃO DOMICILIAR. INVIABILIDADE. NECESSIDADE DE INTERROMPER OU REDUZIR AS ATIVIDADES DA ORGANIZAÇÃO. PRECEDENTES. RECURSOS CONHECIDOS E PARCIALMENTE PROVIDOS.
+I. CASO EM EXAME
+1. Cuidam os autos de Recursos Apelação Criminal interpostos por Antônio Alisson Lima Brandão, Danilo Sousa Rios e Hadassa Irineu Alves, objurgando sentença (fls. 1.932/1.984, integrada pelo julgamento dos aclaratórios de fls. 2.565/2.567) proferida pelo Juízo da Vara de Delitos de Organizações Criminosas da Comarca de Fortaleza, que condenou os réus nos seguintes termos: Danilo Sousa Rios a uma pena de 09 (nove) anos e 07 (sete) meses e 15 (quinze) dias de reclusão e 322 (trezentos e vinte e dois) dias-multa, em regime inicial fechado, pela prática do delito previsto no art. 2º, §§2º e 3º, da Lei 12.850/13; Antônio Alisson Lima Brandão a um pena de 09 (nove) anos e 07 (sete) meses e 15 (quinze) dias de reclusão e 322 (trezentos e vinte e dois) dias-multa, em regime inicial fechado, pela prática dos delito previsto no art. 2º, §2º, da Lei 12.850/13; e Hadassa Irineu Alves a uma pena de 08 (oito) anos e 03 (três) meses de reclusão e 277 (duzentos) dias-multa, sendo o valor do dia-multa 1/30 do salário mínimo à época do crime, em regime inicial fechado, pela prática do delito previsto no art. 2º, §2º, da Lei 12.850/13.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em: i) a analisar a ocorrência de quebra de cadeia de custódia; ii) verificar se há elementos probatórios suficientes à condenação pela prática do crime de integrar organização criminosa; e iii) revisão da dosimetria da pena dos réus.
+III. RAZÕES DE DECIDIR
+3. Tese comum de nulidade pela quebra de cadeia de custódia:
+
+7. Assim, impõe-se o conhecimento e parcial provimento dos recursos interpostos no sentido de redimensionar as penas dos réus: (i) Danilo Sousa Rios para 8 (oito) anos, 6 (seis) meses e 12 (doze) dias de reclusão, além do pagamento de 246 (duzentos e quarenta e seis) dias-multa, no regime inicial fechado para cumprimento de pena; (ii) Antônio Alisson Lima Brandão para 8 (oito) anos, 6 (seis) meses e 12 (doze) dias de reclusão, além do pagamento de 246 (duzentos e quarenta e seis) dias-multa, no regime inicial fechado para cumprimento de pena; e (iii) Hadassa Irineu Alves para 7 (sete) anos, 3 (três) meses e 211 (duzentos e onze) dias- multa, no regime inicial fechado para cumprimento de pena, mantendo os demais termos da sentença vergasta.
+IV. DISPOSITIVO E TESE
+8. Recursos conhecidos e parcialmente providos. Penas redimensionadas".
+No presente writ, a defesa busca a fixação do regime inicial semiaberto, em virtude da pena ser inferior a 8 (oito) anos.
+A liminar foi indeferida por decisão de fls. 174/177.
+O Ministério Público Federal elaborou parecer que recebeu o seguinte sumário:
+"Processo penal. Habeas corpus. Crime da Lei 12.850/2013. Pleito de fixação de regime prisional mais brando.
+1. É admitida a fixação de regime prisional mais gravoso do que o indicado com base apenas na quantidade de pena aplicada quando valorada negativamente circunstância judicial, conforme prevê o art. 33, §3º, do CP.
+2. Pela denegação da ordem" (fl. 182).
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça.
+Ademais, não se verifica a existência de constrangimento ilegal a justificar a concessão da ordem de ofício.
+Consta do voto condutor do julgado atacado:
+"Em que pese as penas definitivas tenham sido fixadas em patamar inferior a 8 (oito) anos, e imponha, portanto, em tese, o regime inicial de execução da pena como o semiaberto para réus não reincidentes (como é o caso do apelante), verifica-se que as circunstâncias não lhe são favoráveis (§3º do art. 33), o que o enquadra na alínea "a", a qual determina o regime fechado" (fl. 146).
+Como visto, "a manutenção do regime inicial fechado é justificada pelo reconhecimento de circunstância judicial desfavorável, conforme entendimento consolidado do STJ" (AgRg no AREsp n. 2.844.878/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 21/10/2025, DJEN de 28/10/2025).
+A corroborar esse posicionamento:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS IMPETRADO APÓS O TRÂNSITO EM JULGADO. SUBSTITUTIVO DE REVISÃO CRIMINAL. INADMISSIBILIDADE. TRÁFICO DE DROGAS (203 PORÇÕES DE CRACK). RECONHECIMENTO DA MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. REGIME PRISIONAL FECHADO. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. MOTIVAÇÃO VÁLIDA. PRECEDENTES DESTA CORTE SUPERIOR. CONSTRANGIMENTO ILEGAL AUSENTE.
+1. A jurisprudência estabelece que não se deve conhecer do writ que se volta contra acórdão já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese em que não há, no âmbito do Superior Tribunal de Justiça, julgamento de mérito passível de revisão criminal em relação a essa condenação.
+2. Em relação à dedicação a atividades criminosas, mostra-se inviável o amplo reexame de fatos e provas nos autos de habeas corpus, por tratar-se de remédio constitucional de cognição sumária.
+3. Quanto ao regime prisional fechado, a jurisprudência desta Corte Superior entende que a presença de uma única circunstância judicial desfavorável é suficiente para justificar a imposição de regime carcerário mais gravoso.
+4. Agravo regimental improvido.
+(AgRg no HC n. 1.029.988/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 15/10/2025, DJEN de 21/10/2025.)
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
