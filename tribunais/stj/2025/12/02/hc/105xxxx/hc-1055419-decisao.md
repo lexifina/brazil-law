@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de Habeas Corpus impetrado em favor de JORDALIA CRISTINA AMARAL HOFFMANN em que se aponta como ato coator o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS assim ementado:
+AGRAVO EM EXECUÇÃO - NOVO JULGAMENTO DIANTE DE DETERMINAÇÃO DO STJ - RECURSO MINISTERIAL - INDULTO - DECRETO PRESIDENCIAL N. 11.302/2022 - PRELIMINARES - NÃO CONHECIMENTO POR INADEQUAÇÃO DA VIA ELEITA - REJEIÇÃO - INCONSTITUCIONALIDADE INCIDENTAL NÃO RECONHECIDA - MÉRITO - REQUISITOS NÃO PREENCHIDOS - REVOGAÇÃO DO BENEFÍCIO. Nos termos do art. 579 do Código de Processo Penal, "salvo a hipótese de má-fé, a parte não será prejudicada pela interposição de um recurso por outro". O indulto é prerrogativa exclusiva do Presidente da República (CF/1988, art. 84, XII), cabendo-lhe definir seus requisitos e alcance, conforme reconhecido pelo Supremo Tribunal Federal no julgamento da ADI 5874. A análise judicial do indulto deve restringir-se à verificação do cumprimento dos requisitos normativos, sendo vedada a inovação por parte do magistrado, conforme pacificado pelo Superior Tribunal de Justiça. Conforme jurisprudência do STJ, "o indulto natalino é vedado a apenados reincidentes, conforme o art. 12 do Decreto n. 11.3 02/2022" (AgRg no HC n. 976.379/GO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 18/6/2025, DJEN de 26/6/2025.)
+Consta dos autos que foi cassada pelo Tribunal a quo a decisão que havia concedido indulto à paciente com base no Decreto n. 11.302/2022.
+Em suas razões, sustenta a impetrante a ocorrência de constrangimento ilegal, porquanto a revogação do indulto decorreu de interpretação indevida do art. 12 do Decreto n. 11.302/2022, dispositivo dirigido apenas ao juízo de conhecimento, e não ao juízo da execução.
+Alega que o art. 5º do Decreto n. 11.302/2022 prevê a concessão do indulto aos condenados por crimes com pena máxima em abstrato não superior a 5 (cinco) anos, sem vedação expressa à reincidência para análise pelo juízo da execução, estando a paciente enquadrada nessas condições.
+Argumenta que o Poder Judiciário deve limitar-se à verificação objetiva dos requisitos fixados no decreto presidencial, sendo vedada a criação de impedimentos não previstos e a interpretação extensiva de restrições, por se tratar de competência privativa do Presidente da República, razão pela qual o acórdão incorreu em ilegalidade ao negar o benefício.
+Defende que, para além da inadequação do fundamento utilizado, a aplicação do art. 12 ao juízo da execução esvazia a própria disciplina do art. 11 do Decreto n. 11.302/2022, cuja lógica pressupõe exame executório das penas unificadas e do cumprimento de eventuais crimes impeditivos, o que reforça a competência do juízo da execução para reconhecer o direito ao indulto quando preenchidos os requisitos objetivos.
+Requer, em suma, o restabelecimento do indulto concedido em primeiro grau.
+É o relatório.
+Decido.
+A Terceira Seção do STJ, no julgamento do HC n. 535.063/SP, firmou entendimento de que não cabe Habeas Corpus substitutivo de recurso próprio, impondo-se o não conhecimento da impetração, salvo quando constatada alguma teratologia no ato judicial impugnado (Rel. Ministro Sebastião Reis Júnior, DJe de 25.8.2020).
+Assim, passo à análise das razões da impetração a fim de verificar se há flagrante ilegalidade que justifique a concessão do writ de ofício.
+Na espécie, consta do Voto condutor do acórdão impugnado a seguinte fundamentação quanto à controvérsia apresentada:
+Não obstante o afastamento da fundamentação utilizada no mérito do acórdão do doc. n. 18, a agravada, salvo melhor juízo, não faz jus ao indulto, com fulcro em disposição do Decreto n. 11.302/22 e em conformidade com a jurisprudência do próprio STJ.
+No caso dos autos, observa-se que a reeducanda ostenta condenações diversas, sendo reincidente na prática delitiva.
+ ..
+Desse modo, havendo a presença da circunstância legal da reincidência no caso, de modo que a referida guia de execução em exame não se trata de condenação primária, entendo que não há como ser mantida a decisão que concedeu o indulto natalino previsto no Decreto n. 11.302/22, diante da ausência do preenchimento do requisito objetivo para concessão da benesse (fls. 20-22).
+Segundo entendimento firmado nesta Corte, o art. 12 do Decreto n. 11.302/2022 veda a concessão de indulto a apenado reincidente.
+Nesse sentido, os seguintes julgados: AgRg no HC n. 874.924/SC, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 14.2.2024; AgRg no HC n. 849.060/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 5.10.2023; HC n. 850.501, Rel. Ministro Reynaldo Soares da Fonseca, DJe de 04.09.2023; RHC n. 180.857, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 02.08.2023; RHC n. 179.348/SP, Rel. Ministro Ribeiro Dantas, DJe de 24.4.2023; HC n. 805.648/SP, Rel. Ministro Ribeiro Dantas, DJe de 7.3.2023.
+Nessa linha, o entendimento do Tribunal a quo está em conformidade com a jurisprudência do STJ.
+Conclui-se, assim, que no caso em análise não há manifesta ilegalidade a ensejar a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente Habeas Corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
