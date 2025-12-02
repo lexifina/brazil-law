@@ -1,0 +1,65 @@
+DECISÃO
+
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ANDRÉ LUIZ ATHAYDE LEME, apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, na Apelação Criminal n. 1500794-04.2020.8.26.0306.
+Consta dos autos que o paciente foi condenado à pena de 1 ano, 4 meses e 10 dias de detenção, em regime inicial semiaberto, pela prática do crime tipificado no art. 34, caput, da Lei n. 9.605/1998. A condenação decorreu da pesca de 15kg de peixes mediante utilização de petrechos não permitidos (redes de espera com distância inferior à regulamentar.
+Inconformada, a Defesa interpôs recurso de apelação, ao qual o Tribunal de origem negou provimento, mantendo integralmente a sentença condenatória, conforme a seguinte ementa (fl. 17):
+APELAÇÃO CRIMINAL - CRIME AMBIENTAL - PESCA ILEGAL (art. 34, caput, Lei nº 9.605/98) - Pretendida absolvição por insuficiência probatória - Impossibilidade - Materialidade e autoria delitivas suficientemente comprovadas  ..  Inaplicabilidade do princípio da insignificância - Condenação mantida - Pena e regime bem fixados frente à reincidência do acusado - Sentença irreparável. Recurso desprovido.
+No presente writ, a Defesa alega, em síntese, a atipicidade material da conduta pela incidência do princípio da insignificância.
+Sustenta que a quantidade de pescado é ínfima (13kg divididos entre dois agentes) e que a pesca tinha caráter de subsistência.
+Argumenta que a reincidência do paciente não é específica e decorre de crimes patrimoniais antigos, o que não deveria obstar a aplicação da bagatela.
+Subsidiariamente, pugna pela alteração do regime prisional.
+Requer, liminarmente e no mérito, o reconhecimento da atipicidade ou, subsidiariamente, a readequação do regime de cumprimento de pena.
+É  o  relatório.
+Decido.
+É consolidada a jurisprudência deste Superior Tribunal de Justiça no sentido de que a prerrogativa do relator para julgar monocraticamente o habeas corpus e o respectivo recurso não é afastada pelas normas regimentais que preveem a oitiva prévia do Ministério Público Federal (arts. 64, III, e 202 do RISTJ), notadamente quando a matéria se conforma com o entendimento dominante desta Corte (AgRg no HC n. 856.046/SP, de relatoria do Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 24/10/2023, DJe de 30/10/2023).
+Inicialmente, cumpre registrar que o presente habeas corpus foi impetrado contra acórdão do Tribunal de origem já transitado em julgado. Nesse cenário, não se deve conhecer do presente writ, manejado como substitutivo de revisão criminal, em hipótese em que não se inaugurou a competência desta Corte.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. ATO APONTADO COMO COATOR TRANSITADO EM JULGADO. INCOMPETÊNCIA DO STJ. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. DOIS FURTOS EM CONTINUIDADE DELITIVA. REINCIDÊNCIA ESPECÍFICA. MAUS ANTECEDENTES. INSIGNIFICÂNCIA NÃO CONFIGURADA. AGRAVO NÃO PROVIDO.
+1. A competência do STJ para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados. A defesa busca, diretamente perante esta Corte Superior, a desconstituição do trânsito em julgado da apelação. Assim, não há como conhecer da impetração, por não ser o STJ o órgão competente para examinar o pleito.
+2. Ademais, não há flagrante ilegalidade na espécie, uma vez que o acórdão combatido atuou em consonância com a jurisprudência desta Corte Superior ao rejeitar a aplicação do princípio da insignificância.
+3. A análise das circunstâncias que permeiam a prática ilícita - dois crimes com mesmo modus operandi, na mesma data -, somada à dupla reincidência específica e aos maus antecedentes do réu, impede, nos termos da jurisprudência desta Corte Superior, o reconhecimento da atipicidade da conduta. Precedentes 4. Agravo não provido.
+(AgRg no HC n. 1.014.903/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 1/10/2025, DJEN de 6/10/2025; grifamos.)
+De qualquer modo, verifica-se que não há, na hipótese, manifesta ilegalidade a reclamar a concessão da ordem de ofício.
+A defesa pretende, por meio deste remédio constitucional, após o trânsito em julgado da condenação, o reconhecimento da atipicidade material da conduta.
+A jurisprudência desta Corte Superior consolidou-se no sentido de que a aplicação do princípio da insignificância exige a presença simultânea de quatro vetores: (a) a mínima ofensividade da conduta do agente, (b) a nenhuma periculosidade social da ação, (c) o reduzidíssimo grau de reprovabilidade do comportamento e (d) a inexpressividade da lesão jurídica provocada.
+No caso em apreço, a sentença condenatória afastou a aplicação do princípio da insignificância, destacando a multirreincidência do paciente (fls. 28/29; grifamos):
+Em patrulhamento, os policiais militares ambientais avistaram os acusados armando rede a menos de 150m entre elas, o que é proibido, mesmo para profissionais como eles. Foi encontrado com eles 15kg de peixe. Frise-se que o desconhecimento da lei é inescusável e os acusados são pessoas inseridas em seu contexto social e cultural, sendo pescadores, logo, não poderia desconhecer as regras da sua prática, ainda que amadora, estando, assim, presente a potencial consciência da ilicitude cometida. Ademais, o uso dos petrechos (a rede, no caso), é suficiente para caracterizar a pesca, não havendo necessidade de efetiva captura do peixe, que constituiria mero exaurimento da conduta. Sobre o assunto:
+ ..
+Saliente-se ainda que não se aplica ao caso o princípio da insignificância, considerando que os acusados são multirreincidentes, o que afasta os requisitos da mínima reprovabilidade do ato praticado e da ausência de periculosidade social da ação necessários para o reconhecimento da insignificância da conduta:
+ ..
+Logo, a conduta não está acobertada por causa excludente de tipicidade, ilicitude ou culpabilidade, restando bem caracterizada a prática do delito.
+O Tribunal de origem, por sua vez, afastou a aplicação do princípio da bagatela com a seguinte fundamentação:
+In casu, a prova oral ainda é corroborada pelo laudo pericial, que atestou a eficácia das redes de pesca (fls. 108/112). Como se vê da prova coligida, não restam dúvidas de que os acusados foram os responsáveis pela pesca ilegal descrita na denúncia.
+E descabe aqui aquilatar eventual ausência de comprovação de dano efetivo ao meio ambiente, porquanto se trata de crime de perigo abstrato, razão pela qual também não há que se falar em aplicação do princípio da insignificância.
+Com efeito, o objeto jurídico tutelado pelo ipo legal é a fauna aquática, como desdobramento da proteção do próprio ecossistema constitucionalmente protegido pelo art. 225, da Constituição Federal. A pesca deve ser executada sempre em locais, épocas e de modo que não afete o equilíbrio ambiental, havendo restrição imposta pelos órgãos ambientais quando a proteção se faça necessária à preservação da fauna aquática.
+Enfim, a aplicação da pena se faz necessária para atingir sua finalidade de prevenção geral positiva, para que não se banalize a pesca predatória, em prejuízo do equilíbrio do ecossistema.
+Absolver os réus por reconhecer que suas condutas são um indiferente penal constituiria, por que não dizer, espécie de "carta branca" à extinção acelerada da fauna aquática. A demonstração da prova, portanto, é farta e convergente ao demonstrar a prática delitiva descrita pela acusação, de modo que a manutenção da condenação pela prática do crime previsto no art. 34, caput, da Lei nº 9.605/98 é desenlace tecnicamente adequado e juridicamente conforme.
+Como se observa, as instâncias ordinárias afastaram o reconhecimento do princípio da insignificância no crime de pesca ilegal com base nos elementos concretos do caso.
+De se ressaltar, ainda, que o crime em questão possui natureza formal, sendo o perigo presumido, razão pela qual a captura de espécimes é mero exaurimento da conduta, sendo desnecessário perquirir se houve a efetiva produção de dano.
+Ademais, trata-se de pesca predatória com petrechos proibidos (redes de espera em desacordo com as normas de distanciamento), o que, somado à reincidência, reforça a ofensividade da conduta e o desvalor da ação, independentemente da quantidade de pescado apreendido, uma vez que o crime do art. 34 da Lei n. 9.605/98 é formal e de perigo abstrato.
+Nesse sentido:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME AMBIENTAL. ART. 34 DA LEI N. 9.605/1998. NATUREZA FORMAL. APREENSÃO DE ESPÉCIME AQUÁTICO. PRESCINDIBILIDADE. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. INVIABILIDADE. HABITUALIDADE DELITIVA. AGRAVO REGIMENTAL DESPROVIDO.
+1. O entendimento do Tribunal de origem está em consonância com a jurisprudência desta Corte, que é firme no sentido de que o crime do art. 34 da Lei 9.605/1998 é de natureza formal, prescindindo da realização do resultado naturalístico, assim, a consumação independe da apreensão de espécime aquático.
+2. Não é aplicável o princípio da insignificância à conduta de realizar pesca com a utilização de petrechos proibidos, como ocorreu no presente caso, tendo em vista o risco que esta conduta representa para todo o ecossistema aquático, independentemente da quantidade de espécimes efetivamente apreendidas ou não.
+3. Outrossim, como ressaltado pelas instâncias ordinárias, a pesca não foi realizada de forma episódica e amadora, a impossibilitar o reconhecimento da atipicidade material da ação ou a sua irrelevância penal. Precedente.
+4. Agravo regimental desprovido.
+(AgRg no AgRg no AREsp n. 2.098.649/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 26/9/2023, DJe de 3/10/2023.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME AMBIENTAL. PESCA PROIBIDA. UTILIZAÇÃO DE PETRECHOS. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Para a aplicação do princípio da bagatela, há necessidade de se considerar algumas condições, tais como (a) a mínima ofensividade da conduta do agente, (b) a ausência de periculosidade social da ação, (c) o baixo grau de reprovabilidade do comportamento e (d) a inexpressividade da lesão jurídica provocada.
+2. O acórdão recorrido está em consonância com a jurisprudência desta Corte Superior no sentido de que não é aplicável o princípio da insignificância à conduta de realizar pesca com a utilização de petrechos proibidos no exercício de pesca profissional. Precedentes.
+3. O presente recurso não apresenta argumentos capazes de desconstituir os fundamentos que embasaram a decisão ora impugnada, de modo que merece ser integralmente mantida.
+4. Agravo regimental não provido.
+(AgRg no AREsp n. 2.610.605/AL, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 30/10/2024, DJe de 6/11/2024.)
+Portanto, não há ilegalidade flagrante a ser sanada, uma vez que o afastamento da insignificância justifica-se pela acentuada reprovabilidade da conduta.
+Quanto à tese de que a reincidência do paciente não é específica e decorre de crimes patrimoniais antigos, o que não deveria obstar a aplicação da bagatela, esclareço que a matéria não foi objeto de debate e deliberação pelo Tribunal de Justiça do Estado de São Paulo. Assim, não pode esta Corte examinar originariamente o tema, sob pena de indevida supressão de instância.
+Por fim, não obstante a pena final cominada ao réu seja 1 ano, 4 meses e 10 dias de detenção, a presença da reincidência impede a fixação do regime aberto para o cumprimento da pena, nos termos do art. 33, § 2º, "b", e § 3º, do Código Penal.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EMBRIAGUEZ AO VOLANTE. REGIME INICIAL SEMIABERTO. REINCIDENTE. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR PENA RESTRITIVA DE DIREITOS NEGADA. REINCIDÊNCIA E MEDIDA SOCIALMENTE NÃO RECOMENDÁVEL. FUNDAMENTAÇÃO IDÔNEA. AGRAVO IMPROVIDO.
+1. Os requisitos para a imposição do regime aberto constam no art. 33, §§ 2º e 3º, do Código Penal; a saber: ausência de reincidência, condenação por período igual ou inferior a 4 anos e inexistência de circunstâncias judiciais desfavoráveis. Na espécie, sendo o agravante reincidente e havendo sido a pena fixada em 6 meses de detenção, o regime inicial semiaberto é o adequado para o cumprimento da sanção, nos termos do art. 33, § 2º, do CP.
+2. Conforme o art. 44, § 3º, do CP, se o condenado for reincidente, o juiz poderá aplicar a substituição, desde que, em face de condenação anterior, a medida seja socialmente recomendável e a reincidência não se tenha operado em virtude da prática do mesmo crime.
+3. Em que pese não se tratar de reincidente específico, constitui fundamento idôneo para o indeferimento da substituição da pena a reincidência do réu em crime doloso e o fato de a medida não ser socialmente recomendável.
+4. Agravo regimental improvido.
+(AgRg no AREsp n. 2.599.559/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 17/6/2025, DJEN de 26/6/2025.)
+Ante o exposto, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
