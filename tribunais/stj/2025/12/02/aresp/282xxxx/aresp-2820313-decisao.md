@@ -1,0 +1,62 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual o MUNICÍPIO DE UBERABA se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS assim ementado (fl. 378):
+EMENTA: APELAÇÃO CÍVEL. REEXAME NECESSÁRIO NÃO CONHECIDO (ART. 496, III, CPC). RESPONSABILIDADE CIVIL EXTRACONTRATUAL. MUNICÍPIO DE UBERABA. ACIDENTE EM VIA PÚBLICA. SEQUELAS GRAVES DE NATUREZA IRREVERSÍVEL. DANOS MORAIS E ESTÉTICOS. VALOR DA INDENIZAÇÃO. CONSECTÁRIOS LEGAIS. ALTERAÇÃO DE OFÍCIO. POSSIBILIDADE. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+1. A sentença que condena a Fazenda Pública Municipal ao pagamento de valor inferior a 100 (cem) salários mínimos, não está sujeita ao reexame necessário (art. 496, § 3º, III, do Código de Processo Civil).
+2. A fixação do valor da indenização a título de danos morais deve ter por base os princípios da razoabilidade e da proporcionalidade, levando-se em consideração, ainda, a finalidade de compensar o ofendido pelo constrangimento indevido que lhe foi imposto e, por outro lado, desestimular o responsável pela ofensa a praticar atos semelhantes no futuro.
+3. Considerando as circunstâncias do caso concreto, em que o acidente de trânsito causou à autora graves sequelas de natureza irreversível, deve ser majorada a indenização fixada na sentença a título de dano moral puro; noutro giro, em relação aos danos estéticos, o valor arbitrado deve ser mantido, porque condizente com os danos causados.
+4. Conforme entendimento firmado pelo Supremo Tribunal Federal em sede de repercussão geral (Tema 810) e pelo Superior Tribunal de Justiça em recurso repetitivo (Tema 905), nas condenações impostas à Fazenda Pública de natureza administrativa em geral, incide, a partir da vigência da Lei nº 11.960/09, correção monetária pelo IPCA-E e juros moratórios pelo índice de remuneração da caderneta de poupança. Após a promulgação da Emenda Constitucional nº 113/2021 (08/12/2021) aplica-se apenas a taxa Selic, que é composta pela soma do índice que reflete a correção monetária e os juros moratórios.
+5. O termo inicial dos juros moratórios, nas hipóteses de responsabilidade civil extracontratual, deve corresponder à data do evento danoso, nos termos da Súmula nº 54, do Superior Tribunal de Justiça.
+6. O Superior Tribunal de Justiça firmou entendimento no sentido de que, os consectários legais, por constituírem matéria de ordem pública, podem ser fixados ou alterados de ofício, sem que se configure reformatio in pejus.
+Os embargos de declaração opostos foram rejeitados (fls. 408/411).
+A parte recorrente alega:
+(1) violação dos arts. 489, § 1º, IV, 1.022, I e II, e 1.025 do Código de Processo Civil (CPC), ao argumento de que houve negativa de prestação jurisdicional, porque o Tribunal de origem teria permanecido omisso quanto aos parâmetros utilizados para a quantificação da indenização e sobre a alegada culpa concorrente da vítima;
+(2) ofensa aos arts. 8º do CPC e 884 do Código Civil (CC), sustentando que o valor fixado a título de danos morais é exorbitante, violando os princípios da proporcionalidade e da razoabilidade, o que ensejaria o enriquecimento sem causa da parte adversa.
+Requer o provimento do recurso.
+A parte adversa apresentou contrarrazões (fls. 435/443).
+O recurso não foi admitido, razão pela qual foi interposto o agravo ora examinado.
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+Na origem, trata-se de ação ordinária ajuizada pela parte ora agravada visando ao recebimento de indenização por danos materiais, morais e estéticos decorrentes de acidente sofrido em via pública. A controvérsia gira em torno do valor arbitrado a título de danos morais, questionando-se a proporcionalidade e a razoabilidade do montante majorado pela instância de origem.
+Inexiste a alegada violação dos arts. 489 e 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade.
+A parte recorrente sustentou haver omissão no acórdão recorrido no tocante aos parâmetros utilizados na fixação do valor da indenização, e que há necessidade de minoração do valor da compensação em observância aos princípios da razoabilidade e da proporcionalidade, bem como no tocante à vedação ao enriquecimento ilícito (arts. 8º do CPC e 884 do Código Civil ).
+Ao analisar o teor das alegadas omissões, constato que a irresignação da parte recorrente está relacionada a matérias já devidamente examinadas no acórdão recorrido por ocasião do julgamento dos embargos de declaração, visto que o Tribunal de origem, de modo expresso, fundamentado e coeso, assim decidiu (fls. 409/411):
+I - DO OBJETO DO RECURSO
+Conforme jurisprudência do Superior Tribunal de Justiça, a solução integral da controvérsia, de maneira suficientemente fundamentada, não caracteriza ofensa à norma acima mencionada.
+O embargante sustenta a existência de omissão, argumentando que o acordão não explicitou os parâmetros utilizados para fixação do valor da indenização por danos morais, que foram majorados em patamar excessivo, sem considerar o grau de responsabilidade dos envolvidos, importando em enriquecimento ilícito.
+Razão não lhe assiste, porquanto a questão atinente à fixação dos danos morais, notadamente quanto às balizas e circunstâncias consideradas para majoração do quantum arbitrado na sentença, foi devidamente apreciada no acórdão, confira-se:
+ ..
+A questão devolvida a esta instância recursal cinge-se em verificar se os valores fixados na sentença a título de indenização por danos morais e estéticos decorrentes de acidente ocorrido em via pública estão em consonância com as circunstâncias do caso concreto.
+Depreende-se que a apelante sofreu acidente enquanto transitava em via pública, em razão da existência de depressão na pista decorrente de obras municipais para implantação do sistema BRT.
+De acordo com o laudo pericial, o acidente provocou trauma crâneo encefálico, que culminou em sequelas irreversíveis: perda da visão do olho direito; perda da audição no ouvido esquerdo; sequela cognitiva (esquecimentos e cefaleias frequentes) e lesões de estrutura da face, ambas de ordem média.
+Diante da gravidade dessas lesões, vislumbro que a quantia arbitrada na sentença a título de danos morais (R$ 15.000,00) não se apresenta suficiente para compensar o sofrimento, dor e angústia causados à apelante em razão do sinistro.
+Assim, face às circunstâncias do caso concreto, fixo a indenização por danos morais em R$ 90.000,00 (noventa mil reais), valor que atende ao caráter dúplice da indenização e aos princípios da razoabilidade e proporcionalidade.
+ ..
+Consigno, por fim, que, face à gravidade das lesões sofridas pela vítima do acidente de trânsito, o valor fixado não importa em enriquecimento ilícito.
+Assim, não há falar-se em omissão.
+Destarte, em se verificando que não há qualquer vício a ser sanado no julgado embargado, mas mero inconformismo do embargante com a decisão que lhe foi desfavorável, a rejeição dos embargos de declaração é medida que se impõe.
+O Tribunal de origem entendeu que a majoração dos danos morais foi devidamente fundamentada, tendo apreciado expressamente os critérios de fixação com base na gravidade das sequelas irreversíveis (perda de visão e audição) atestadas no laudo pericial, considerando o valor condizente com a razoabilidade e a proporcionalidade, afastando, assim, a existência de vício de omissão.
+É importante destacar que julgamento diverso do pretendido, como neste caso, não implica ofensa aos dispositivos de lei invocados.
+Ao debater os parâmetros da fixação da indenização, o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS decidiu que (fls. 380/381):
+I - DO OBJETO DO RECURSO
+A questão devolvida a esta instância recursal cinge-se em verificar se os valores fixados na sentença a título de indenização por danos morais e estéticos decorrentes de acidente ocorrido em via pública estão em consonância com as circunstâncias do caso concreto.
+Depreende-se que a apelante sofreu acidente enquanto transitava em via pública, em razão da existência de depressão na pista decorrente de obras municipais para implantação do sistema BRT.
+De acordo com o laudo pericial, o acidente provocou trauma crâneo encefálico, que culminou em sequelas irreversíveis: perda da visão do olho direito; perda da audição no ouvido esquerdo; sequela cognitiva (esquecimentos e cefaleias frequentes) e lesões de estrutura da face, ambas de ordem média.
+Diante da gravidade dessas lesões, vislumbro que a quantia arbitrada na sentença a título de danos morais (R$ 15.000,00) não se apresenta suficiente para compensar o sofrimento, dor e angústia causados à apelante em razão do sinistro.
+Assim, face às circunstâncias do caso concreto, fixo a indenização por danos morais em R$ 90.000,00 (noventa mil reais), valor que atende ao caráter dúplice da indenização e aos princípios da razoabilidade e proporcionalidade.
+Em relação aos danos estéticos, as fotografias acostadas à inicial demonstram a existência de edemas, escoriações - que não possuem caráter permanente -, além de cicatriz no couro cabeludo, não havendo demonstração das sequelas atuais decorrentes das cirurgias, mas apenas a indicação, no laudo pericial, de que as lesões na face são de ordem média.
+Assim, não vislumbro motivos para majorar o valor arbitrado na sentença, isto é, R$ 30.000,00 (trinta mil reais), porque condizente com os danos causados.
+O Tribunal de origem reconheceu que os valores d as indenizações deveriam refletir a gravidade das lesões sofridas, com base na análise do conjunto fático-probatório formado pelo laudo pericial e pelas fotografias juntadas aos autos, especialmente a comprovação de trauma crânioencefálico com sequelas irreversíveis e lesões faciais de ordem média, o que justificou a majoração do dano moral e a manutenção do valor fixado a título de dano estético.
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ) - "a pretensão de simples reexame de prova não enseja recurso especial".
+Para esta Corte de Justiça, é possível a revisão, na instância especial, do quantum fixado a título indenização por danos morais nas hipóteses em que ficar configurada a irrisoriedade ou a exorbitância, o que, concluo, não é o caso dos autos, visto que a condenação se mostra razoável, dadas as peculiaridades da demanda.
+Nesse sentido, cito o seguinte julgado:
+ADMINISTRATIVO. AGRAVO INTERNO. TRANSPORTE COLETIVO. QUEDA DE PASSAGEIRO. RESPONSABILIDADE OBJETIVA. FATO DE TERCEIRO. FORTUITO INTERNO. PRECEDENTES DO STJ. INDENIZAÇÃO POR DANO MORAL. REVISÃO DO QUANTUM. SUCUMBÊNCIA. REDIMENSIONAMENTO. SÚMULA 7/STJ.
+ ..
+2. Em regra, não é cabível na via especial a revisão do montante que foi estipulado pelas instâncias ordinárias, ante a impossibilidade de reanálise de fatos e provas por este Sodalício, conforme o óbice previsto na Súmula 7/STJ. Nessa linha de raciocínio, ressalte-se que a jurisprudência do STJ admite, somente em caráter excepcional, que o quantum arbitrado seja alterado caso se mostre irrisório ou exorbitante, em clara afronta aos princípios da razoabilidade e da proporcionalidade, o que não se verifica na espécie.
+ ..
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.090.303/CE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 26/6/2023, DJe de 29/6/2023.)
+Assim, no ponto, a inversão do julgado, de modo a acolher a tese defendida no recurso especial, demandaria, necessariamente, o revolvimento do conjunto fático-probatório, o que é vedado nesta instância ante o óbice da Súmula 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
