@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO, fundado no art. 105, III, a, da Constituição Federal, contra o acórdão do Tribunal de Justiça local exarado no julgamento do Agravo de Execução Penal n. 1032732-97.2024.8.11.0000, assim ementado (fls. 498/500):
+EMENTA DIREITO PENAL E PROCESSUAL PENAL. AGRAVO EM EXECUÇÃO PENAL. EXECUÇÃO DE PENAS POR CRIMES DE NATUREZAS DISTINTAS. PROGRESSÃO DE REGIME PRISIONAL. CÁLCULO INDIVIDUALIZADO DAS FRAÇÕES. POSSIBILIDADE. RESPEITO À NATUREZA DAS INFRAÇÕES E À INDIVIDUALIZAÇÃO DA PENA. RECURSO DESPROVIDO.
+I. Caso em exame:
+1. Agravo em Execução Penal interposto pelo Ministério Público do Estado de Mato Grosso contra decisão proferida pelo Juízo da 3ª Vara Criminal da Comarca de Juína-MT, que determinou a aplicação de frações distintas para fins de progressão de regime com base na natureza dos crimes executados, rejeitando a tese ministerial de incidência de fração única (2/5 para progressão e 2/3 para livramento condicional) sobre a totalidade da pena imposta ao apenado, cuja pena unificada totaliza 26 anos, 10 meses e 20 dias de reclusão.
+II. Questão em discussão:
+2. A questão em discussão consiste em definir se, na hipótese de execução unificada de penas decorrentes de crimes comuns e de crime hediondo com resultado morte, deve ser a fração única sobre a totalidade da pena para fins de progressão de regime e livramento condicional, ou se devem ser observadas as frações legais individualizadas conforme a natureza de cada crime.
+III. Razões de decidir:
+3. O art. 112 da Lei de Execução Penal, com redação dada pela Lei nº 13.964/2019, estabelece frações distintas para progressão de regime conforme a natureza do crime, a reincidência e a gravidade do delito, não prevendo a aplicação de percentual único sobre penas unificadas.
+4. A aplicação de fração única mais gravosa, sem distinção entre crimes comuns e hediondos, afronta o princípio da individualização da pena (CF, art. 5º, XLVI), ao equiparar o tratamento de infrações com gravidades distintas.
+5. A metodologia de cálculo do Sistema Eletrônico de Execução Unificado (SEEU), regido pelas Resoluções CNJ nº 223/2016 e nº 280/2019, adota frações individualizadas para cada condenação, em consonância com a legalidade estrita e a proporcionalidade.
+6. A unificação das penas não autoriza a aplicação de fração única, devendo ser observadas as características específicas de cada condenação para o cálculo da progressão de regime.
+7. A adoção de cálculo individualizado evita prolongamento indevido da execução penal e onerosidade excessiva ao sistema prisional, alinhando-se à política nacional de desencarceramento promovida pelo Conselho Nacional de Justiça.
+8. A aplicação da fração de 40% sobre a totalidade da pena acarretaria o cumprimento de 10 anos, 9 meses e 27 dias para fins de progressão, enquanto o cálculo individualizado exige apenas 9 anos, 8 meses e 11 dias, representando diferença de 1 ano, 1 mês e 15 dias de cumprimento a mais, em afronta à legalidade estrita e ao direito do apenado à correta execução de sua pena. IV. Dispositivo e tese:
+9. Recurso desprovido.
+Tese de julgamento:
+"O art. 112 da LEP impõe a aplicação de frações distintas para progressão de regime, conforme a natureza de cada crime e a condição pessoal do apenado, vedada a aplicação de fração única sobre a totalidade da pena unificada."
+"A individualização do cálculo da pena é imperativo constitucional e deve observar os princípios da legalidade, da proporcionalidade e da razoabilidade."
+"A unificação das penas não afasta a necessidade de cumprimento dos requisitos objetivos de forma separada, respeitando-se as peculiaridades de cada condenação."
+"A aplicação de fração única mais gravosa sobre todas as penas unificadas, independentemente da natureza dos crimes, implica restrição indevida ao direito do apenado e contraria a política de desencarceramento."
+Dispositivos relevantes citados: CF/1988, art. 5º, XLVI; LEP, art. 112; Resolução CNJ nº 223/2016; Resolução CNJ nº 280/2019.
+Jurisprudências relevantes citadas: (REsp n. 2.048.662/SC, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 17/12/2024, DJEN de 23/12/2024.); (N.U 1009114-89.2025.8.11.0000, CÂMARAS ISOLADAS CRIMINAIS, ORLANDO DE ALMEIDA PERRI, Primeira Câmara Criminal, Julgado em 22/04/2025, Publicado no DJE 25/04/2025); (N.U 1003593-66.2025.8.11.0000, CÂMARAS ISOLADAS CRIMINAIS, HELIO NISHIYAMA, Quarta Câmara Criminal, Julgado em 05/03/2025, Publicado no DJE 07/03/2025).
+A parte recorrente alega violação dos arts. 111 e 112 da Lei n. 7.210/1984, sustentando que, após a unificação das penas, deve haver aplicação de fração única sobre a pena total para fins de progressão de regime e livramento condicional.
+Afirma que a execução, nos termos do art. 111, deve considerar a pena total unificada, sem segmentação por natureza dos delitos, e que, reconhecida a reincidência e havendo crime hediondo, impõe-se aplicar 2/5 para a progressão e 3/5 para o livramento sobre a pena unificada (fls. 527/533).
+Nesse contexto, registra que a decisão proferida pela Corte de origem incorre em manifesta violação aos arts. 111 e 112 da Lei de Execução Penal, ao admitir que, mesmo após a unificação das penas, sejam aplicadas frações legais distintas sobre cada condenação individualmente considerada (fl. 529).
+Contrarrazões apresentadas (fls. 537/546).
+O recurso foi admitido na origem (fls. 547/548).
+Instado a se manifestar na condição de custos legis, o Ministério Público Federal opina pelo desprovimento do recurso especial, destacando a possibilidade de cálculo diferenciado das frações de progressão quando há execução unificada de crimes comuns e hediondos, com precedentes do Superior Tribunal de Justiça (fls. 558/560).
+É o relatório.
+Com razão o parecerista. De fato, a insurgência não merece acolhida.
+Ora, embora a reincidência, enquanto condição pessoal ostentada pelo apenado, irradie efeitos no requisito objetivo dos benefícios executórios em relação a todas as condenações, tal circunstância não impede a realização de cálculo diferenciado para progressão de regime e livramento condicional quando houver execução simultânea de penas derivadas de crimes comuns e hediondos ou equiparados:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. CRIME COMUM E CRIME HEDIONDO. CÁLCULO DIFERENCIADO. AUSÊNCIA DE COMBINAÇÃO DE LEIS. AGRAVO DESPROVIDO.
+1. O art. 112 da Lei de Execução Penal previa como requisito objetivo o cumprimento da fração de 1/6 (um sexto) da pena no regime anterior, para os condenados por crimes comuns (primários ou reincidentes). Já para os condenados por crimes hediondos, a Lei n. 8.072/1990, em seu art. 2º, § 2º, estabelecia as frações de 2/5 (para os réus primários) e 3/5 (para os reincidentes).
+2. O art. 19 da Lei n. 13.964/2019 revogou expressamente o art. 2º, § 2º, da Lei n. 8.072/1990, de modo que a progressão de regime passou a ser regida pela Lei de Execução Penal, com a nova redação dada ao art. 112, que introduziu novos percentuais a depender da natureza do crime.
+3. A jurisprudência deste Tribunal tem o entendimento de que não há combinação de leis na aplicação da progressão de regime em 40% (quarenta por cento) para o crime hediondo ou equiparado, sem reincidência específica, nos termos do art. 112, inciso V, da Lei de Execução Penal (incluído pela Lei n. 13.964/2019), e na manutenção da fração de 1/6 (um sexto) para o crime comum, praticado antes da referida alteração.
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.424.617/MT, Ministro Ribeiro Dantas, Quinta Turma, julgado em 6/2/2024, DJe de 15/2/2024).
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO SIMULTÂNEA DE PENAS POR CRIMES COMUM E EQUIPARADO A HEDIONDO. ELABORAÇÃO DE CÁLCULO DIFERENCIADO, COM APLICAÇÃO DO COEFIENTE DE 1/6 (UM SEXTO) PARA O CRIME COMUM E 2/5 (DOIS QUINTOS) PARA O DELITO EQUIPARADO A HEDIONDO, POR SE TRATAR DE REINCIDENTE GENÉRICO. AGRAVO REGIMENTAL DESPROVIDO.
+1. O art. 112 da LEP previa como requisito objetivo o cumprimento da fração de 1/6 (um sexto) da pena no regime anterior para os condenados por crimes comuns (primários ou reincidentes). Já para os condenados por crimes hediondos, a Lei n. 8.072/1990, em seu art. 2º, § 2º, estabelecia as frações de 2/5 (para os réus primários) e 3/5 (para os reincidentes).
+2. No caso dos autos, o recorrido ostenta uma condenação pela prática de tráfico de drogas (crime equiparado a hediondo) e outra por homicídio qualificado privilegiado (crime comum), ambas anteriores ao Pacote Anticrime. Em hipóteses tais, deve ser levada em conta a reincidência, mas respeitando-se os patamares aplicáveis para os crimes comuns e para os delitos hediondos, tal como fez o Tribunal a quo.
+3. O entendimento jurisprudencial sinaliza apenas que, consistindo a reincidência em condição pessoal, uma vez adquirida pelo sentenciado, influi sobre o requisito objetivo dos benefícios executórios em relação a todas as suas condenações, o que não impede, de modo algum, muito menos contradiz, a realização de cálculo diferenciado para progressão de regime e livramento condicional quando houver execução simultânea de penas derivadas de crimes comuns e hediondos ou equiparados.
+4. Agravo regimental desprovido.
+(AgRg no REsp n. 2.020.475/MT, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 14/8/2023, DJe de 16/8/2023).
+Ante o exposto, acolhendo o parecer, nego provimento ao recurso especial.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. EXECUÇÃO PENAL. CRIMES DE NATUREZAS DISTINTAS (HEDIONDO E COMUM). PROGRESSÃO DE REGIME PRISIONAL. CÁLCULO DIFERENCIADO. POSSIBILIDADE. PRECEDENTES DESTA CORTE. PARECER ACOLHIDO.
+Recurso especial improvido.
