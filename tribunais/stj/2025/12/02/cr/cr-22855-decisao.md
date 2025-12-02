@@ -1,0 +1,6 @@
+DECISÃO
+Cuida-se de Carta Rogatória por meio da qual a Justiça portuguesa (Tribunal Judicial da Comarca de Leiria - Juízo Local Criminal das Caldas da Rainha - Juiz 1) solicita que se proceda à notificação de João Luiz Ferreira Júnior para eventualmente, no prazo de 20 (vinte) dias, requerer a abertura da instrução e apresentar sua contestação, bem como tomar conhecimento da audiência de julgamento referente ao Processo 125/20.6GBCLD, designada para o dia 25 de fevereiro de 2026, às 9h30min.
+A presente comissão foi autuada no Superior Tribunal de Justiça em 19 de novembro de 2025. Consoante a Portaria Interministerial 501/2012, que dispõe sobre a tramitação da Carta Rogatória, nela deverá constar o prazo mínimo de designação de audiência nos seguintes termos: " ..  (i) 90 (noventa) dias, quando se tratar de matéria penal; e (ii) 180 (cento e oitent a) dias, quando se tratar de matéria cível".
+Considerando-se que, devido aos trâmites inerentes às Cartas Rogatórias, não será possível notificar o interessado para o cumprimento da diligência em tempo hábil, determino a devolução dos autos à Justiça rogante (art. 216-X do RISTJ) por intermédio da autoridade central competente, independentemente do trânsito em julgado e sem prejuízo da reapresentação com nova data.
+Publique-se.
+EMENTA
