@@ -1,0 +1,42 @@
+DECISÃO
+PRISCILLA KARINA VITOR KOERICH alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul no Recurso em Habeas Corpus n. 70086476380.
+Consta dos autos que a paciente pela suposta prática dos delitos previstos nos arts. 171, § 3º, 272, 273, 275 e 299, todos do Código Penal e 2º, § 4º, III e V, da Lei n. 12.850/2013.
+Sustenta a defesa que a fundamentação para o recebimento da denúncia e a rejeição da tese de ausência de justa causa é inidônea, porquanto inexistem indícios mínimos de autoria em relação à recorrente, que à época dos fatos narrados não exercia o cargo descrito na peça acusatória.
+Requer o trancamento da ação penal por manifesta ausência de justa causa.
+Sem liminar, o Ministério Público Federal opinou pelo desprovimento do recurso ordinário.
+Decido.
+I. Ausência de justa causa para a ação penal
+Dispôs o acórdão (fls. 201-202):
+Diversamente do quanto alegado nas razões de impetração, a ausência de justa causa ao processamento da ação penal face à paciente não exsurge a modo evidente.
+Os impetrantes precisaram analisar a literalidade da denúncia em cotejo com os elementos cognitivos produzidos no curso da investigação para alcançarem o juízo valorativo de "ausência de justa causa". Outrossim, impende anotar que esse juízo valorativo alcançado pelos impetrantes acerca da ausência de justa causa foi obtido sem o crivo do contraditório.
+Nessa equação, presente a limitada cognição possível em sede de habeas corpus, de plano, é possível indicar ao menos 2 (dois) óbices instransponíveis à eventual chancela do quanto alegado pelos impetrantes, a saber -
+a) impossibilidade desta Corte analisar material probatório para corroborar juízo valorativo da parte - ausência de justa causa ao processamento da ação penal -, notadamente quando esse juízo valorativo finca-se em uma análise subjetiva do material probatório, sem o crivo do contraditório;
+b) impossibilidade desta Corte proceder ao suprimento do contraditório, ensejando o seu exercício nestes autos, para daí analisar o material probatório e julgar a higidez ou não desse juízo valorativo de "ausência de justa causa" face à paciente.
+Vale gizar, ao tempo dos fatos que lhe são imputados, se a paciente exercia formal ou informalmente o cargo de Gerente Corporativo de Saúde Animal - tendo poder de comando nas fraudes praticadas -, isso é fato que não prescinde de dilação probatória à sua elucidação, sendo infactível sonegar-se do órgão ministerial o exercício desse direito que lhe é assegurado constitucionalmente.
+Outrossim, quanto à suficiência dos indícios de autoria ao processamento da ação penal face à paciente, não se pode olvidar que o órgão julgador, quando do recebimento da denúncia, realiza juízo de prelibação acerca dos elementos cognitivos que a embasam - dada a restrição cognitiva inerente a esse momento processual. Por isso, na deflagração da ação penal, prepondera o interesse coletivo, aplicando-se o princípio do in dubio pro societate.
+Destarte, presentes a complexidade dos fatos veiculados na ação penal de origem - inclusa a relação interpessoal existente de fato entre os corréus e as atribuições realmente exercidas por cada um dentro do Grupo BRF -, e os estritos limites de cognição do mandamus, anoto que a denúncia encontra-se alicerçada em elementos cognitivos que amparam o processamento da ação penal face à paciente. Como já referido, nesta fase incipiente do processo de origem, é desnecessária uma fundamentação exauriente para o prosseguimento do feito.
+Conforme reiterada jurisprudência desta Corte Superior, o trancamento do processo em habeas corpus, por ser medida excepcional, somente é cabível quando ficarem demonstradas, de maneira inequívoca e a um primeiro olhar, a atipicidade da conduta, a absoluta falta de provas da materialidade do crime e de indícios de autoria ou a existência de causa extintiva da punibilidade, situações estas que não constato caracterizadas na espécie.
+Com relação à inexistência de justa causa, faço lembrar que um juízo de mérito sobre a materialidade e a autoria delitivas demandaria o exame das provas eventualmente colhidas ao longo da instrução criminal, o que é inviável na via estreita da ação constitucional, dada a necessidade de dilação probatória.
+Nesse sentido:
+ ..
+2. Tendo o magistrado singular atestado que os elementos de convicção constantes dos autos não afastariam a autoria do delito atribuído à recorrente na denúncia, e consignado que as demais matérias suscitadas pela defesa se refeririam ao mérito e dependeriam de dilação probatória, não se constata qualquer eiva na decisão, pois atende, nos limites que lhe são próprios, o preceito contido no artigo 93, inciso IX, da Constituição Federal.
+TRANCAMENTO DA AÇÃO PENAL. FALTA DE JUSTA CAUSA. ARREPENDIMENTO EFICAZ. NECESSIDADE DE DILAÇÃO PROBATÓRIA. VIA INADEQUADA. DESPROVIMENTO DO RECLAMO.
+ ..
+2. Estando a decisão impugnada em total consonância com o entendimento jurisprudencial firmado por este Sodalício, não há falar em trancamento da ação penal, pois, de uma superficial análise dos elementos probatórios contidos no presente mandamus, não se vislumbra estarem presentes quaisquer das hipóteses que autorizam a interrupção prematura da persecução criminal por esta via, já que seria necessário o profundo estudo das provas, as quais deverão ser oportunamente valoradas pelo juízo competente.
+3. Recurso improvido.
+(RHC n. 47.291/RS, Rel. Ministro Jorge Mussi, 5ª T., DJe 19/8/2014, grifei.)
+ ..
+1. O trancamento da ação penal por meio do habeas corpus só é cabível quando houver comprovação, de plano, da ausência de justa causa, seja em razão da atipicidade da conduta supostamente praticada pelo acusado, seja da ausência de indícios de autoria e materialidade delitivas, ou ainda da incidência de causa de extinção da punibilidade.
+2. É afastada a inépcia quando a denúncia preencher os requisitos do art. 41 do CPP, com a individualização da conduta do réu, descrição dos fatos e classificação dos crimes, de forma suficiente para dar início à persecução penal na via judicial, bem como para o pleno exercício da defesa.
+3. O reconhecimento da inexistência de justa causa para a ação penal exigiria aprofundamento probatório, o que é inadmissível na via estreita do presente writ.
+4. Recurso ordinário em habeas corpus improvido.
+(RHC n. 19.549/ES, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 17/3/2015)
+No caso concreto, como se infere do acórdão, a denúncia aponta condutas à paciente vinculadas à sua suposta atuação como Gerente Corporativa de Saúde Animal na BRF, atribuindo-lhe, em conjunto com outros acusados, poder de comando sobre fraudes sanitárias e adulterações no composto Premix, utilizado em rações. Consta na inicial acusatória que, mesmo sem contato direto com a execução das irregularidades, sua inserção na estrutura decisória da empresa lhe conferiria responsabilidade pelo direcionamento das práticas imputadas.
+Entretanto, a defesa sustenta que a recorrente apenas assumiu a referida função após a data do último fato narrado na denúncia - ocorrido em 20/3/2018 - passando a exercer o cargo apenas em 1º/5/2018, o que esvaziaria o nexo entre sua atuação e as condutas imputadas.
+Esse dado, contudo, exige análise técnica e contextualizada de provas documentais e eventualmente testemunhais quanto à real extensão das atribuições exercidas pela paciente antes de sua promoção formal, notadamente para se aferir se, mesmo em outro posto hierárquico, já integrava ou influenciava as decisões corporativas relacionadas às irregularidades narradas.
+Ademais, o juízo da origem, ao receber a denúncia, expressamente reconheceu a presença de elementos indiciários mínimos extraídos do inquérito policial - como troca de e-mails, autos de infração e depoimentos - que, a seu ver, justificam a imputação e autorizam o prosseguimento da persecução penal. A denúncia, nesse contexto, não pode ser tida como inepta ou temerária de imediato .
+Dessa forma, não se configura hipótese de trancamento precoce da ação penal, porquanto as alegações defensivas, embora relevantes, não evidenciam, de plano, a manifesta ausência de justa causa. A via eleita, por sua estreita cognição, revela-se inadequada para aferição exauriente da pertinência da imputação, cujo juízo definitivo deverá ser reservado ao momento processual oportuno, mediante regular instrução probatória.
+II. Dispositivo
+À vista do exposto, nego provimento ao recurso.
+Pu blique-se e intimem-se.
+EMENTA
