@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Ministério Público Federal, com fundamento no artigo 105, III, alínea a, da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fls. 163/164e):
+PROCESSUAL CIVIL E ADMINISTRATIVO. PROCESSO ADMINISTRATIVO. ILEGITIMIDADE PASSIVA DA AUTORIDADE APONTADA COMO COATORA. EXTINÇÃO DO FEITO SEM RESOLUÇÃO DO MÉRITO.
+1. Mandado de segurança impetrado visando obter provimento jurisdicional que determine à autoridade coatora, Gerente da Central Regional de Analise de Benefício para Atendimento das Demandas Judiciais da Superintendência Regional Sudeste I - CEAB/DJ/SRI, a apreciação de recurso administrativo.
+2. Os recursos interpostos contra decisões do Instituto Nacional do Seguro Social - INSS são submetidos à apreciação do Conselho de Recursos do Seguro Social, atualmente vinculado ao Ministério da Economia.
+3. No caso, o processo foi encaminhado ao CRPS para julgamento anteriormente à propositura do mandamus, não se encontrando pendente de apreciação/movimentação no âmbito do Instituto Nacional do Seguro Social.
+4. Inaplicabilidade da teoria da encampação, tendo em vista a vinculação do Conselho de Recursos da Previdência Social ao Ministério da Economia e não ao Instituto Nacional do Seguro Social.
+5. Processo extinto sem resolução do mérito, por ilegitimidade passiva da autoridade coatora apontada na inicial, nos termos do artigo 485, VI, do CPC. Prejudicada a apelação.
+No recurso especial, o recorrente alega violação do art. 6º, § 3º, da Lei 12.016/2009, sustentando que a autoridade coatora é o Gerente do INSS, responsável pelo encaminhamento do processo ao Conselho de Recursos da Previdência Social e pela execução de sua decisão.
+Ademais, aponta ofensa aos arts. 49 e 59, § 1º, da Lei 9.784/1999, afirmando que o acórdão não observou os prazos máximos de 30 dias para decisão após instrução e para julgamento de recurso administrativo.
+Outrossim, indica violação do art. 41-A, § 5º, da Lei 8.213/1991, ao argumento de que o prazo legal de 45 dias para o primeiro pagamento, contado da apresentação da documentação necessária, foi desconsiderado pelo Tribunal de origem.
+Sem contrarrazões.
+Juízo positivo de admissibilidade (fls. 185/190e).
+Parecer do Ministério Público Federal pelo provimento (fls. 203/207e).
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+No presente caso, o Tribunal de origem, ao apreciar apelação em mandado de segurança, extinguiu o processo, sem resolução do mérito, por ilegitimidade passiva da autoridade apontada como coatora. A Corte fundamentou a decisão no fato de que os recursos contra decisões do INSS são apreciados pelo Conselho de Recursos do Seguro Social (CRSS), órgão vinculado ao Ministério da Economia, não integrante da estrutura do INSS, e de que o processo já havia sido encaminhado ao CRPS antes da impetração. Confira-se:
+Os recursos interpostos contra decisões do Instituto Nacional do Seguro Social INSS são submetidos à apreciação do Conselho de Recursos do Seguro Social, por meio das Juntas de Recursos, atualmente vinculado ao Ministério da Economia, organismo este que não integra a estrutura do INSS.
+No caso, o mandado de segurança foi impetrado contra ato do Gerente da Central Regional de Analise de Benefício para Atendimento das Demandas Judiciais da Superintendência Regional Sudeste I - CEAB/DJ/SRI, visando compeli-lo a analisar o recurso administrativo interposto contra decisão administrativa de indeferimento de benefício assistencial pleiteado pela impetrante.
+Da análise dos autos, verifica-se que em 27/02/2023 o processo foi encaminhado ao Conselho de Recursos da Previdência Social para julgamento, de modo que, ocorrida em 26/4/2023, no momento da propositura da ação mandamental, o processo não se encontrava pendente de apreciação/movimentação no Instituto Nacional do Seguro Social.
+Anote-se não ser possível aplicar-se a teoria da encampação, tendo em vista a vinculação do CRPS ao Ministério da Economia e não ao Instituto Nacional do Seguro Social.
+
+Neste contexto, ainda que por fundamentação diversa da adotada pela sentença, deve ser reconhecida a ilegitimidade passiva do Gerente da Central Regional de Analise de Benefício para Atendimento das Demandas Judiciais da Superintendência Regional Sudeste I - CEAB/DJ/SRI para a demanda.
+Verifica-se, a partir da leitura do acórdão recorrido, que a fundamentação adotada quanto à inexistência de pendência de apreciação ou movimentação do processo administrativo no âmbito do INSS no momento da propositura do mandado de segurança não foi especificamente impugnada nas razões do recurso especial. Diante da ausência de impugnação específica, mantêm-se hígidos os fundamentos da decisão recorrida, suficientes, por si sós, para amparar o resultado do julgamento proferido pelo Tribunal de origem, o que torna inadmissível o recurso que não os combate de forma direta. Incide, na espécie, a Súmula 283/STF.
+Por fim, quanto à alegada ofensa aos arts. 49 e 59, § 1º, da Lei 9.784/1999 e art. 41-A, § 5º, da Lei 8.213/1991, observa-se que a matéria não foi objeto de apreciação pelo acórdão recorrido, inexistindo, portanto, o necessário prequestionamento, o que obsta o conhecimento do recurso especial, nos termos da Súmula 282 do STF.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF.. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 282/STF. RECURSO NÃO CONHECIDO.
