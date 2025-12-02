@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão assim ementada (fl. 3822):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. REQUISITOS DE ADMISSIBILIDADE. NÃO PREENCHIMENTO. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E NÃO PROVIDO.
+Nas razões dos embargos, a parte sustenta a existência de omissão quanto aos seguintes aspectos fáticos trazidos nas razões recursais (fls. 3838-3839):
+- a oposição dos Embargos à Execução Fiscal se deu em virtude da intimação da ora Embargada, nos autos da Execução, acerca da determinação judicial EXPRESSA para a oposição dos competentes Embargos, nos termos do artigo 16 da Lei nº 6.830/80;
+- outra alternativa não restou à ora Embargante diante da determinação que foi exarada na Execução Fiscal e por força do que preceitua o artigo 16, III da Lei nº 6.830/80. Tivesse a Embargante deixado de seguir tal determinação, a Execução Fiscal de origem teria prosseguimento, inclusive com a determinação para pagamento da dívida ou leilão dos bens imóveis penhorados, nos moldes dos artigos 18 e 19 da Lei nº 6.830/80;
+- a determinação para suspensão da Execução Fiscal somente veio a ser proferida em 22.05.2015, por força de decisão no bojo da Anulatória nº 0001814- 23.2010.8.12.0055, que assim determinou (documento às fls. 351 dos autos digitais e 294 dos autos físicos). Daí porque, na data da oposição dos presentes Embargos (12/2010), não havia qualquer determinação que impedisse a Embargante de seguir com a apresentação de sua defesa. Tratou-se, portanto, de inequívoco cumprimento da determinação judicial exarada na Execução Fiscal nº 0001168-47.2009.8.12.0055.
+Acrescenta a existência de "omissão no tocante ao art. 85, caput e § 2º do CPC, pois se mostra relevante à análise da violação aos arts. 1.022 e 489 do CPC, no que se refere aos princípios da proporcionalidade e da razoabilidade" (fl. 3841).
+Requer o acolhimento dos aclaratórios, para que sejam supridas as omissões apontadas.
+Com impugnação às fls. 3851-3859 .
+É o relatório. Passo a decidir.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Analisando as razões apresentadas pela parte embargante, verifica-se que inexiste qualquer vício a ser sanado no julgado, uma vez que a decisão embargada conheceu do agravo para conhecer em parte do recurso especial e, nessa extensão, negou-lhe provimento, concluindo que (fls. 3826-3828):
+A propósito, considerado o delineamento fático descrito pelo órgão julgador, segundo o qual, a execução fiscal foi ajuizada em 2009, a ação anulatória foi ajuizada em 2010 e os embargos à execução fiscal foram opostos em 2011, não se pode atribuir ao Estado do Mato Grosso do Sul a responsabilidade pelo pagamento dos honorários advocatícios de sucumbência fixados nos embargos do devedor, à luz do princípio da causalidade, uma vez que não foi responsável pela instauração do processo.
+Isso porque a parte então executada deveria providenciar, na ação anulatória, a suspensão do crédito tributário em cobrança e, de consequência, a suspensão do processo executivo; todavia, por ter optado pela oposição de embargos à execução, em litispendência com a ação anulatória, foi a única responsável pela instauração do processo.
+ ..
+Nessa parte, portanto, o recurso especial não pode ser conhecido, ainda mais se considerado o fato de o art. 16, inc. III, da Lei n. 6.830/1980, não prequestionado, não ter comando normativo apto à eventual alteração do acórdão recorrido. Observância das Súmulas 211 do STJ e 282 e 284 do STF.
+ ..
+No caso, embora o processo tenha sido extinto sem julgamento do mérito, nota-se que a sentença equiparou o valor da causa dos embargos à execução (à época, de R$ 5.966.943,31) ao proveito econômico auferido pela parte embargante e os arbitrou nos percentuais mínimos das faixas estabelecidas nos incisos do § 3º do art. 85 do CPC /2015; vide (fls. 2303/2308; e 2320).
+ ..
+De fato, tendo em vista os embargos à execução terem sido extintos sem julgamento de mérito, não se poderia ter equiparado o valor da causa ao proveito econômico obtido com a ação; todavia, o inciso III do § 4º do art. 85 do CPC/2015 estabelece que, em qualquer das hipóteses do § 3º, "não havendo condenação principal ou não sendo possível mensurar o proveito econômico obtido, a condenação em honorários dar-se-á sobre o valor atualizado da causa", ao tempo em que a fixação do percentual de honorários observou as faixas iniciais dos incisos do § 3º, em consonância com as disposições do § 6º, segundo as quais: "os limites e critérios previstos nos §§ 2º e 3º aplicam-se independentemente de qual seja o conteúdo da decisão, inclusive aos casos de improcedência ou de sentença sem resolução de mérito".
+Nesse cenário, em que os honorários foram arbitrados no mínimo legal, não há como se entender que o órgão julgador a quo os teria arbitrado de forma desproporcional.
+Diante da ausência de demonstração das hipóteses de cabimento, a rejeição dos embargos de declaração é medida que se impõe.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. VÍCIO NÃO CONFIGURADO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
