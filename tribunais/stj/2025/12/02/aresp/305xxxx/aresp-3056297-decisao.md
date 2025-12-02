@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo apresentado por Fundação Nacional de Saúde (FUNASA) contra decisão que inadmitiu o recurso especial por ela interposto, com fundamento no art. 105, III, a e c, da Constituição Federal, para impugnar o acórdão proferido pelo Tribunal Regional Federal da 3ª Região assim ementado (e-STJ, fl. 286):
+APELAÇÃO CÍVEL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. LIMITAÇÃO TERRITORIAL. NÃO CABIMENTO. RECURSO PROVIDO.
+1. O exequente é parte legítima para promover o cumprimento individual de sentença, ainda que domiciliado em outra localidade, diversa da Seção Judiciária em que proferida a sentença coletiva.
+2. Ao julgar o RE nº 1.101.937 (Tema 1.075 da Repercussão Geral), o Supremo Tribunal Federal considerou inconstitucional o art. 16 da Lei nº 7.347/1985, alterado pela Lei nº 9.494/1997, firmando a tese de que não se pode restringir os efeitos condenatórios de demandas coletivas, limitando o rol dos beneficiários da decisão por meio de um critério territorial de competência.
+3. O Superior Tribunal de Justiça fixou a tese, sob a sistemática dos recursos repetitivos prevista no art. 543-C do Código de Processo Civil de 1973, de que "a liquidação e a execução individual de sentença genérica proferida em ação civil coletiva pode ser ajuizada no foro do domicílio do beneficiário, porquanto os efeitos e a eficácia da sentença não estão circunscritos a lindes geográficos, mas aos limites objetivos e subjetivos do que foi decidido, levando-se em conta, para tanto, sempre a extensão do dano e a qualidade dos interesses metaindividuais postos em juízo (arts. 468, 472 e " (R Esp nº 1.243.887/PR, Corte Especial, Relator Ministro474, CPC e 93 e 103, CDC) Luis Felipe Salomão, j. em 19/10/2011, DJe de 12/12/2011).
+4. A sentença proferida na ação coletiva nº 0005019- 15.1997.4.03.6000 não restringiu o direito do reajuste aos servidores localizados ou residentes no Estado do Mato Grosso do Sul, não havendo dúvida, portanto, do direito da exequente em promover o cumprimento individual de sentença em seu domicílio, ainda que localizado em estado diverso ao qual pertence a Seção Judiciária que prolatou o título executivo.
+5. Apelação provida.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 383-388).
+Nas razões recursais (e-STJ, fls. 395-403), a parte recorrente suscitou, além de divergência jurisprudencial, violação aos arts. 485, V e VI, 489, § 1º, 502, 535, § 8º, e 1.022, II e parágrafo único, todos do CPC.
+Defendeu a negativa de prestação jurisdicional, tendo em vista a persistente omissão sobre pontos fundamentais para a resolução da controvérsia.
+Quanto à ilegitimidade suscitada, sustentou violação do art. 16 da Lei n. 7.347/1985, defendendo que o Tema n. 1.075/STF é inaplicável ao caso dos autos, por ser este superveniente ao ajuizamento da ação civil pública (ACP) e o seu correspondente trânsito em julgado.
+Aduziu, ainda, que o único mecanismo constitucional apto à desconstituição da coisa julgada é a ação rescisória, não se podendo aplicar à situação o entendimento firmado no Tema n. 1.075/STF de forma retroativa em desrespeito aos limites da coisa julgada, como entende o Supremo Tribunal Federal no Tema n. 733.
+Por fim, asseverou que a ação civil pública executada foi ajuizada com pedido limitado pelo autor da ação, motivo pelo qual não haveria como o magistrado daquela ação conceder efeitos maiores do que os que foram postulados pela parte.
+Contrarrazões às fls. 436-439 (e-STJ).
+O processamento do apelo especial não foi admitido pela Corte de origem (e-STJ, fls. 440-447), o que ensejou a interposição do presente agravo, o qual impugna, de forma específica, os fundamentos da decisão agravada (e-STJ, fls. 448-462).
+Não foi apresentada contraminuta.
+Em seguida, os autos foram alçados a esta Corte Superior.
+Brevemente relatado, decido.
+No que diz respeito à negativa de prestação jurisdicional, a recorrente aduz que o acórdão deixou de se manifestar sobre ponto relevante para o desfecho da controvérsia, qual seja, a legitimidade do recorrido para pleitear o cumprimento individual da sentença coletiva, destacando, no ponto, que "os servidores que formalizaram acordos administrativos, como no caso destes autos, foram expressamente excluídos do alcance do título executivo judicial" (e-STJ, fl. 397).
+Sobre isso, no julgamento dos embargos de declaração, a Corte Regional se recusou a examinar a questão, mencionando que "trata-se de matéria nova que deverá ser levada ao conhecimento e análise do juízo a quo" (e-STJ, fl. 387).
+A conclusão apresentada, contudo, não deve prevalecer, porquanto a ilegitimidade ativa é matéria de ordem pública, que pode ser alegada a qualquer tempo nas instâncias ordinárias, não podendo o Colegiado de origem se recusar a examiná-la.
+Nesse sentido, vejam-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. HOMOLOGAÇÃO DOS CÁLCULOS TRANSITADOS EM JULGADO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. LEGITIMIDADE. NÃO PRECLUSÃO. CONCLUSÃO DO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS, PELA ILEGITIMIDADE ATIVA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO INTERNO IMPROVIDO.
+ ..
+2. Consoante a orientação jurisprudencial do STJ, a legitimidade das partes, por constituir uma das condições da ação, perfaz questão de ordem pública e pode ser alegada a qualquer tempo e grau de jurisdição ou mesmo declarada de ofício.
+3. Inviável a análise da pretensão veiculada no recurso especial, por demandar o reexame do contexto fático-probatório dos autos, atraindo a incidência da Súmula 7 do STJ.
+ ..
+5. Agravo interno improvido.
+(AgInt no AREsp n. 2.696.621/MA, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 30/4/2025, DJEN de 7/5/2025, sem grifos no original.)
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA. VIOLAÇÃO DOS ARTS. 489, § 1º, IV, e 1.022, II, DO CPC. INEXISTÊNCIA. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283 DO STF. ILEGITIMIDADE ATIVA. MATÉRIA DE ORDEM PÚBLICA. AUSÊNCIA DE PRECLUSÃO NAS INSTÂNCIAS ORDINÁRIAS. PROVIMENTO NEGADO.
+1. Verifica-se inexistir a alegada violação dos arts. 489, § 1º, IV, e 1.022, II, do CPC, pois a prestação jurisdicional havia sido dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. Destaca-se que julgamento diverso do pretendido, como neste caso, não implica ofensa aos dispositivos de lei invocados.
+2. A ausência de impugnação a fundamento que, por si só, respalda o resultado do julgamento proferido pela Corte de origem impede a admissão do recurso especial. Incidência no presente caso da Súmula 283 do Supremo Tribunal Federal (STF).
+3. Nos termos da jurisprudência do STJ, "as matérias de ordem pública (e.g. prescrição, decadência, condições da ação, pressupostos processuais, consectários legais, incompetência absoluta, impenhorabilidade, etc) não se sujeitam à preclusão, podendo/devendo ser apreciadas a qualquer momento e de ofício nas instâncias ordinárias" (REsp 1.809.145/DF, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 19/5/2020, DJe de 27/5/2020).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.583.922/MA, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 14/10/2024, DJe de 21/10/2024, sem grifos no original.)
+Por essa razão, a ausência de pronunciamento judicial sobre matéria de ordem pública suscitada pela recorrente nos embargos de declaração configura negativa da prestação jurisdicional, tornando impositivo o retorno dos autos à origem para reapreciação dos aclaratórios.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial a fim de, reconhecida a violação do art. 1.022 CPC/2015, determinar ao Tribunal de origem que realize novo julgamento dos embargos de declaração, devendo se pronunciar, como entender de direito, sobre a relevante questão que lhe foi submetida pela parte embargante.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. CUMPRIMENTO DE SENTENÇA COLETIVA. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. LEGITIMIDADE ATIVA. MATÉRIA DE ORDEM PÚBLICA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL CONSTATADA. OMISSÃO VERIFICADA. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
