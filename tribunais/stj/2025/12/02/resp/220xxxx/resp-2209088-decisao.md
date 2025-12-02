@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de recurso especial interposto por ESPÓLIO DE EURICO FERREIRA DA CUNHA, com fundamento na alínea "a" do permissivo constitucional, no intuito de reformar acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 273, e-STJ):
+APELAÇÃO - EMBARGOS DE TERCEIRO - NULIDADE DECISÃO - IMPEDIMENTO JUDICIAL - PROPRIEDADE - ÔNUS DA PROVA - MÁ FÉ. Para que seja declarada a ineficácia de negócio jurídico, em razão de fraude à execução, necessária a demonstração da coexistência de dois requisitos, quais sejam, que ao tempo da alienação esteja em curso uma ação, com citação válida, e que a alienação no curso da demanda seja capaz de reduzir o devedor à insolvência. Além dos requisitos objetivos expressamente previstos em lei, a jurisprudência tem exigido um terceiro requisito, este de natureza subjetiva, tornando-se imprescindível a prova de que o adquirente do bem tinha ou poderia ter conhecimento da existência de demanda idônea a reduzir o vendedor à insolvência, tutelando desta forma a boa-fé de terceiro. Na hipótese de bem alienado a filha dos executados, poucos dias após o trânsito em julgado da sentença condenatória, é de se presumir a intenção de frustrar o direito de crédito dos terceiros. V.V. Inexistindo omissão ou carência de fundamentação, não há nulidade da sentença. São procedentes os embargos de terceiro, se provado que foi lançado impedimento sobre bem que não pertence ao executado. Somente após o registro do impedimento judicial é que se pode falar em fraude à execução, salvo se aquele que a alegar provar que o terceiro atuava de má-fé.
+Opostos seguidos embargos de declaração pelo ora recorrente (fls. 293-305 e 315-318, e-STJ), os primeiros foram rejeitados (fls. 308-312, e-STJ) sendo os segundos acolhidos, contudo, sem modificação do julgamento, conforme acórdão de fls. 332-338, e-STJ.
+Nas razões de recurso especial (fls. 403-445, e-STJ), aponta a parte recorrente ofensa aos seguintes dispositivos: artigos 1.022, inciso II, e 792, inciso IV; ambos do CPC/2015.
+Sustenta, em síntese: (a) preliminarmente, a ocorrência de negativa de prestação jurisdicional por omissões não sanadas em sede de embargos de declaração e essenciais à análise da caracterização de fraude à execução, sobretudo com relação aos seguintes pontos: (i) a meação de 50% do bem em favor da executada, haja vista constar dos autos efetiva demonstração de que o veículo alienado à filha da executada, pertence ao marido desta, tendo inclusive sido lançado no rol de bens descritos pela executada na declaração de imposto de renda; (ii) a necessidade de comprovação do pagamento pela recorrida do preço do veículo na alegada alienação, sob pena de caracterizar doação fraudulenta, já que apenas a tradição do bem não é suficiente para a configuração da compra e venda, o que afastaria a afirmada aquisição de boa-fé; e (iii) a existência de condenação anterior da mãe da recorrida em ação de cobrança, agora em fase de cumprimento de sentença, capaz de reduzir a devedora à insolvência; e (b) no mérito, a necessidade de reconhecimento de fraude à execução diante do vínculo familiar, ausência de prova de pagamento, trânsito em julgado anterior e transferência formal posterior ao início do cumprimento de sentença.
+Contrarrazões apresentadas às fls. 454-466, e-STJ.
+Em juízo de admissibilidade (fls. 470-471, e-STJ), admitiu-se o recurso, ascendendo os autos a esta Corte.
+É o relatório.
+Decide-se.
+A irresignação merece prosperar, em parte, no que diz respeito à apontada negativa de prestação jurisdicional.
+1. Conforme relatado, o recorrente alega a existência de omissão no acórdão recorrido em relação às seguintes alegações:
+(i) 50% do veículo pertencia à executada (Maria Thereza), por meação;
+(ii) a comprovação da venda alegada demandaria a comprovação do pagamento pela adquirente, não sendo suficiente a tradição do bem; e,
+(iii) já existia, desde 2009, condenação capaz de reduzir a devedora (Maria Thereza) à insolvência.
+Em relação aos itens (i) e (iii) acima, tais fatos foram expressamente considerados no acórdão recorrido (fls. 277-278 e 279 e-STJ), não havendo falar em omissão.
+Todavia, verifica-se que, de fato, não houve análise pelo Tribunal local sobre a alegação de necessidade de comprovação do pagamento pela recorrida do preço do veículo na alegada alienação, sob pena de caracterizar doação fraudulenta, já que apenas a tradição do bem não é suficiente para a configuração da compra e venda, o que afastaria a afirmada aquisição de boa-fé.
+Nesse contexto, esta Corte tem entendimento no sentido de que deve ser acolhida a preliminar de negativa de prestação jurisdicional quando houver deficiência na prestação jurisdicional realizada na origem, em razão de omissão a respeito de ponto relevante para o deslinde do feito.
+Nesse sentido, confira-se:
+EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. OMISSÃO. OBSCURIDADE. CONTRADIÇÃO. EXISTÊNCIA.
+1. Não havendo o Tribunal de origem apreciado as matérias suscitadas nos embargos de declaração opostos pela ora embargante, configurada está a ofensa ao artigo 1.022 do Código de Processo Civil, a impor o retorno dos autos à origem para complementar a devida prestação jurisdicional.
+2. Embargos de declaração acolhidos com efeitos modificativos.
+Decisão e acórdão proferidos por esta Corte anulados.
+(EDcl no AgInt no AREsp 1.624.710/MS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 07/06/2021, DJe 09/06/2021)  grifou-se
+RECURSO ESPECIAL. DIREITO CIVIL. AÇÃO DE COMPENSAÇÃO POR DANOS MATERIAIS E MORAIS. SERVIÇOS ADVOCATÍCIOS. ADVOGADO CREDENCIADO A SINDICATO. ATUAÇÃO NEGLIGENTE. DISCUSSÃO SOBRE A POSSIBILIDADE DE RESPONSABILIZAÇÃO SOLIDÁRIA DO CAUSÍDICO E DA ENTIDADE SINDICAL. OMISSÃO. EXISTÊNCIA. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM PARA NOVO JULGAMENTO.
+ ..
+3. No caso dos autos, o Tribunal de origem deixou de se manifestar sobre alegações fundamentais ao deslinde da controvérsia, sendo imperativa a cassação do acórdão recorrido.
+4. Recurso especial conhecido e provido, com o retorno dos autos à Corte de origem.
+(REsp 1908213/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 18/05/2021, DJe 20/05/2021)  grifou-se
+Destaca-se a relevância da questão na medida em que o acórdão está fundamentado no entendimento daquele Tribunal de que "havendo prova de aquisição do veículo pela embargante em data anterior ao ajuizamento da execução, não há que se cogitar da existê ncia de fraude, ainda que as partes envolvidas sejam parentes" (fl. 337 e-STJ).
+Portanto, a tese do insurgente, de que seria necessária a comprovação do pagamento, além da mera tradição, está diretamente relacionada à ratio decidendi do acórdão, devendo ser enfrentada.
+Impõe-se, assim, o retorno dos autos para que o órgão competente realize novo julgamento dos embargos de declaração, com a devida apreciação das matérias alegadas pela parte então embargante.
+2. Ante o reconhecimento da negativa de prestação jurisdicional e a necessidade de retorno dos autos à Corte local para correção do vício inferido - omissão - fica prejudicada a análise das demais questões veiculadas no recurso especial.
+3. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, dá-se parcial provimento ao recurso especial, a fim de cassar os acórdãos proferidos em sede de embargos de declaração, determinando que outro seja proferido, sanando-se a omissão acima verificada.
+Acolhida a insurgência, não há falar em majoração de honorários (AgInt nos EAREsp 762.075/MT, Corte Especial, DJe 07/03/2019). Ademais, determinado novo julgamento na origem, descabe qualquer análise, nesta fase, acerca da distribuição dos ônus sucumbenciais.
+Publique-se.
+Intimem-se.
+EMENTA
