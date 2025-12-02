@@ -1,0 +1,22 @@
+DECISÃO
+Em análise, recurso especial interposto por INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS RENOVAVEIS contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado:
+PROCESSUAL CIVIL. EXECUÇÃO. PRECATÓRIO. CASAN. PRECEDENTES DO STF. EXCESSO DE EXECUÇÃO. INEXISTÊNCIA.
+Os embargos de declaração foram rejeitados.
+Nas razões recursais, a parte recorrente sustenta, em síntese, violação ao art. 1.022, II, e parágrafo único, II, do CPC/2015, sustentando que "a r. decisão foi omissa quanto às alegações do IBAMA que tange à natureza jurídica da CASAN e inaplicabilidade do regime de precatórios previsto no art. 100 da CF/88 e rito especial de cumprimento de sentença expresso no art. 534 e seguintes do CPC, assim como negou vigência ao art. 173, §1º, da CF/88" (fl. 350).
+Contrarrazões apresentadas.
+É o relatório.
+Passo a decidir.
+Com relação à alegada violação ao art. 1.022, II, e parágrafo único, II, do CPC/2015, não há nulidade por omissão no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, consignando que (fls. 294-296):
+Ao apreciar o pedido de concessão do efeito suspensivo ao agravo de instrumento, considerei, no que diz com a adoção do regime de precatórios, a jurisprudência do Supremo Tribunal Federal no sentido de que não é aplicado às sociedades de economia mista que executam atividades em regime de concorrência ou que tenham o objetivo de distribuir lucros entre seus acionistas (RE 599628 e RE 627242 AgR). No caso, há o reconhecimento de que parte do capital e, de fato, privado, seja diretamente em percentual bastante reduzido, seja em razão da composição da CELESC, sua acionista.
+Observei, todavia, que o STF, por decisão monocrática do Ministro Ricardo Lewandowski, reconheceu que a tese da CASAN, de sujeição ao regime dos precatórios, estaria em consonância com as decisões preferidas pelo STF nas ADP Fs apontadas como paradigmas. Nessa medida, vi relevância na pretensão da parte agravante em ver suspensa a decisão agravada até o exame do agravo de instrumento pelo colegiado.
+Mantenho aquela orientação, tendo em conta a especificidade das decisões proferidas pelo Ministro Ricardo Lewandowski na Rcl 42388 MC/SC, D Je-264, publicado em 05/11/2020, e na Rcl 45615 MC/MS, D Je-031, publicado em 19/02/2021.
+Não vejo relevância, por outro lado, no que toca à correção monetária, pois a pretensão recursal destoa da orientação no sentido de que se trata, da mesma sorte que os juros de mora, de consectários legais da condenação principal, possuindo natureza de ordem pública (AgInt no AR Esp 1585827/MT, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 10/03/2020, D Je 17/03/2020). Os valores executados, ainda, estão de acordo com os critérios definidos no Manual de Cálculos da Justiça Federal.
+Ante o exposto, voto por dar parcial provimento ao agravo de instrumento.
+E ainda, em sede de julgamento de embargos de declaração, o Tribunal a quo fundamentou que "O entendimento no sentido atribuir-se à CASAN o regime dos precatórios fundou-se em julgados específicos do Supremo Tribunal Federal. Nas Rcls 42388 MC/SC e 45615 MC/MS, o STF reconheceu a tese de que CASAN está sujeita ao regime dos precatórios, em consonância com as ADP Fs 114, 387, 275, 513 e 556. O fundamento da decisão, assim, é a orientação específica do STF a respeito do regime de execução da CASAN".
+Portanto, inexiste violação ao art. 1.022, II, e parágrafo único, II, do CPC/2015.
+Conforme jurisprudência deste STJ, "não se verifica a alegada violação do art. 1.022 do CPC/2015, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. O Tribunal estadual apreciou fundamentadamente a controvérsia, não padecendo o julgado de nenhum erro, omissão, contradição ou obscuridade" (AgInt no AREsp n. 1.776.359/DF, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 19/8/2024, DJe de 22/8/2024).
+Isso posto, com fundamento no art. 255, § 4º,II, do RISTJ, conheço do r ecurso especial e, nessa extensão, nego-lhe provimento
+Sem condenação em honorários advocatícios recursais, tendo em vista que o agravo em recurso especial origina-se de acórdão proferido em julgamento de agravo de instrumento, no qual não houve a fixação de honorários advocatícios sucumbenciais.
+Intimem-se.
+ EMENTA
