@@ -1,0 +1,97 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO E PROCESSUAL CIVIL. APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL NA ORIGEM. TEMA 958. AUSÊNCIA DE PREVISÃO LEGAL DE RECURSO OU AÇÃO NO SUPREMO TRIBUNAL FEDERAL. PROFESSORA MUNICIPAL. EDUCAÇÃO BÁSICA. READEQUAÇÃO DA CARGA HORÁRIA. ATIVIDADES EXTRACLASSE: SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. RECURSO EXTRAORDINÁRIO COM AGRAVO NÃO CONHECIDO.
+
+Relatório
+
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado da Terceira Turma Recursal da Fazenda Pública de São Luiz Gonzaga/RS:
+
+    “RECURSO INOMINADO. TERCEIRA TURMA RECURSAL DA FAZENDA PÚBLICA. SERVIDOR PÚBLICO. MAGISTÉRIO. MUNICÍPIO DE SÃO LUIZ GONZAGA. LEI FEDERAL Nº 11.738/2008. HORA-ATIVIDADE. JULGAMENTO DO RE Nº 936.790/SC (TEMA 958). INDENIZAÇÃO PELO DESCUMPRIMENTO DA RESERVA DE 1/3 DA CARGA HORÁRIA. DIREITO EVIDENCIADO. 1. A Suprema Corte, no julgamento do RE nº 936.790/SC, sob o regime da repercussão geral (Tema 958), reconheceu a validade da norma geral que fixa a reserva mínima de carga horária para atividades extraclasse. 2. No âmbito do Município de São Luiz Gonzaga, destaca-se que a Lei Municipal nº 5.073/2011 (Plano de Carreira do Magistério) prevê a reserva de 20% da carga horária para realização de atividades extraclasse, em desacordo da norma prevista na Lei Federal. 3. Dessa forma, prospera a pretensão da autora para que seja observado pelo ente municipal, o cumprimento da reserva de 1/3 da carga horária do professor para realização da hora-atividade, bem como do pagamento decorrente da inobservância da reserva de 1/3 da carga horária, com base no custo da hora-aula paga ao professor. 4. Por fim, não merece prosperar a pretensão da parte autora acerca do descumprimento integral por parte do Município das horas atividades no período de regime suplementar. No ponto, cumpre salientar que a compensação da reserva do 1/5 previsto na Lei Municipal, será objeto do cumprimento de sentença, o que levará em consideração, ainda, os períodos em que não houve exercício de função docente em sala de aula, bem como descontados os valores já adimplidos administrativamente. 5. Sentença de procedência mantida por seus próprios fundamentos. RECURSOS INOMINADOS DESPROVIDOS” (fl. 8, e-doc. 159).
+
+    Os embargos de declaração opostos foram rejeitados (e-doc. 185).
+
+    2. No recurso extraordinário, o agravante alega ter a Turma Recursal de origem contrariado o art. 18 e o inc. I do art. 30 da Constituição da República. Argumenta que “a carga horária do professor, ou de qualquer outro servidor público, deve ser cumprida no local de trabalho no qual ele assina o ponto e no desempenho das atribuições do seu cargo” (fl. 7, e-doc. 194).
+
+    3. O recurso extraordinário teve o seguimento negado pela aplicação do Tema 958 da repercussão geral e foi inadmitido pela incidência das Súmulas ns. 280, 282 e 356 do Supremo Tribunal Federal (e-doc. 205).
+
+    4. No agravo interposto contra a inadmissibilidade do recurso extraordinário, o agravante sustenta haver “expressa contrariedade ao disposto nos artigos 18, 30, I, ambos da Constituição Federal” (fl. 4, e-doc. 24).
+
+    Assinala que, “no atual entendimento da jurisprudência, basta que seja possível apontar que o assunto se desenvolveu na instância anterior que já se realiza a figura do prequestionamento implícito, um exemplo eficaz de prequestionamento” (fl. 3, e-doc. 214).
+
+    Salienta haver “prequestionamento implícito, e consequente, quando o Tribunal de origem, ao mesmo tempo em que se pronuncia sobre a questão, ou justifica-se para não se manifestar diretamente, resolve por cautela não mencionar o artigo da Constituição Federal ou da lei violada. Essa negativa, que nem sempre é tão explícita, pode ser percebida na palavra, no pedaço de uma frase, sendo reveladora – e suficiente –, do esforço para configurar-se o prequestionamento” (fls. 3-4, e-doc. 214).
+
+    Ressalta que “o artigo 30 da Constituição Federal delimitou a competência dos municípios, em diferentes matérias, sendo atribuída competência municipal para legislar sobre assuntos de interesse local. Estando o Poder Público Municipal apto a legislar sobre seus servidores de maneira genérica, pode também legislar naquilo que diz respeito aos seus servidores” (fl. 5, e-doc. 214).
+
+    Enfatiza que “o Recurso Extraordinário interposto reúne todas as condições de admissibilidade, não afrontando a súmula 280 e o Tema 958 do STF” (fl. 13, e-doc. 214).
+
+    Pede o provimento deste recurso extraordinário com agravo.
+
+    5. Em 7.12.2023, a Presidência do Supremo Tribunal Federal determinou a devolução do processo à origem, para que fosse observado o Tema 1.218 da repercussão geral (e-doc. 220).
+
+    6. Em 17.10.2025, o Desembargador Primeiro Vice-Presidente do Tribunal de Justiça do Rio Grande do Sul, no juízo de retratação do Tema 1.218 da repercussão geral, ao fundamento de que, “no caso, contudo, discute-se a distribuição da carga horária destinada à interação com os alunos e o período do professor fora da sala de aula, bem como a reserva de 1/3 da carga horária aos membros do magistério para horas de atividade, questões que não guardam relação com o aludido paradigma” (fl. 2, e-doc. 231).
+
+    7. Estes autos eletrônicos vieram-me conclusos, em 25.11.2025, por livre distribuição (e-doc. 234).
+
+    Apreciada a matéria trazida na espécie, DECIDO.
+
+    8. Cumpre afastar o fundamento da decisão agravada referente à ausência de prequestionamento, por ter sido a matéria objeto do recurso extraordinário impugnada nos embargos de declaração opostos contra o acórdão recorrido, em conformidade com o disposto no art. 1.025 do Código de Processo Civil.
+
+    A superação desse óbice jurídico, entretanto, é insuficiente para o acolhimento da pretensão do agravante.
+
+    9. O Desembargador Primeiro Vice-Presidente do Tribunal de Justiça do Rio Grande do Sul aplicou o Tema 958 da repercussão geral e, nos termos do inc. I do art. 1.030 do Código de Processo Civil, negou seguimento ao recurso extraordinário, nestes termos:
+
+    “O Supremo Tribunal Federal, no RE 936.790/SC (TEMA 958), em sede de repercussão geral, assentou que ‘É constitucional a norma geral federal que reserva fração minima de um terço da carga horária dos professores da educação básica para dedicação às atividades extraclasse’ (...).
+
+    Conforme visto, a decisão está de acordo com o aludido paradigma e o recurso esbarra nos óbices supracitados, razão pela qual é de ser negado seguimento ao recurso e não é de ser admitido quanto às demais questões” (fls. 2 e 8, e-doc. 205).
+
+    No julgamento da Questão de Ordem no Agravo de Instrumento n. 760.358, Relator o Ministro Gilmar Mendes, assentou-se não caber recurso ou outro instrumento processual para este Supremo Tribunal contra decisão pela qual se aplica a sistemática da repercussão geral na origem:
+
+    “Questão de Ordem. Repercussão Geral. Inadmissibilidade de agravo de instrumento ou reclamação da decisão que aplica entendimento desta Corte aos processos múltiplos. Competência do Tribunal de origem. Conversão do agravo de instrumento em agravo regimental. 1. Não é cabível agravo de instrumento da decisão do tribunal de origem que, em cumprimento do disposto no § 3º do art. 543-B, do CPC, aplica decisão de mérito do STF em questão de repercussão geral. 2. Ao decretar o prejuízo de recurso ou exercer o juízo de retratação no processo em que interposto o recurso extraordinário, o tribunal de origem não está exercendo competência do STF, mas atribuição própria, de forma que a remessa dos autos individualmente ao STF apenas se justificará, nos termos da lei, na hipótese em que houver expressa negativa de retratação. 3. A maior ou menor aplicabilidade aos processos múltiplos do quanto assentado pela Suprema Corte ao julgar o mérito das matérias com repercussão geral dependerá da abrangência da questão constitucional decidida. 4. Agravo de instrumento que se converte em agravo regimental, a ser decidido pelo tribunal de origem” (Plenário, DJe 3.12.2009).
+
+    Essa orientação jurisprudencial foi acolhida pela legislação processual vigente, na qual, nos termos do § 2º do art. 1.030 e do caput do art. 1.042 do Código de Processo Civil, previsto o agravo interno como recurso cabível contra decisão da Presidência do Tribunal ou Turma Recursal de origem pela qual se aplica a sistemática da repercussão geral para inadmitir, negar seguimento ou concluir prejudicado o recurso extraordinário. Confiram-se, por exemplo, os seguintes julgados:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO: SÚMULA N. 287 DO SUPREMO TRIBUNAL FEDERAL. APLICAÇÃO DE REPERCUSSÃO GERAL NA ORIGEM: TEMAS 182, 339 E 660. FALTA DE PREVISÃO LEGAL DE RECURSO OU AÇÃO JUDICIAL NO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE PREQUESTIONAMENTO: SÚMULAS NS. 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. IMPOSSIBILIDADE DE ANÁLISE DE MATÉRIA INFRACONSTITUCIONAL E REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. INVIABILIDADE DE CONCESSÃO DE HABEAS CORPUS DE OFÍCIO: AUSÊNCIA DE TERATOLOGIA OU CONSTRANGIMENTO ILEGAL MANIFESTO. AGRAVO REGIMENTAL DESPROVIDO” (ARE n. 1.514.281-AgR, Relatora a Ministra Cármen Lúcia, Primeira Turma, DJe 23.10.2024).
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DECISÃO MISTA. ERRO GROSSEIRO. NÃO CABIMENTO DE AGRAVO CONTRA A PARTE DA DECISÃO DO JUÍZO DE ORIGEM NA QUAL SE APLICA A SISTEMÁTICA DA REPERCUSSÃO GERAL. ART. 1.042, CAPUT, DO CÓDIGO DE PROCESSO CIVIL. DEVER DE IMPUGNAR TODOS OS FUNDAMENTOS DA DECISÃO DO TRIBUNAL DE ORIGEM QUE INADMITE O RECURSO EXTRAORDINÁRIO. INOBSERVÂNCIA. INCIDÊNCIA DA SÚMULA 287 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO IMPROVIDO. I – Conforme o art. 1.042, caput, do Código de Processo Civil – CPC, não cabe agravo contra decisão fundada na aplicação de entendimento firmado em regime de repercussão geral. II – Configura erro grosseiro a interposição do agravo, previsto no art. 1.042 do CPC, contra a parte da decisão do Juízo de origem que negou seguimento ao recurso extraordinário, nos termos do art. 1.030, I, do CPC, uma vez que o agravo interno é o recurso cabível para impugnar o referido ato decisório, conforme disposto no art. 1.030, § 2º, do CPC. III – É deficiente a fundamentação do agravo cujas razões não atacam especificadamente todos os fundamentos da decisão do Juízo de origem que não admite o recurso extraordinário. Incidência da Súmula 287/STF. IV – Agravo ao qual se nega provimento” (ARE n. 1.554.549-AgR, Relator o Ministro Cristiano Zanin, Primeira Turma, DJe 10.9.2025).
+
+    “DIREITO PROCESSUAL CIVIL. APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL PELO TRIBUNAL DE ORIGEM. INTERPOSIÇÃO DE NOVO RECURSO EXTRAORDINÁRIO CONTRA O ACÓRDÃO PROFERIDO EM JUÍZO DE RETRATAÇÃO. NÃO CABIMENTO. DECISÃO RECORRIDA ALINHADA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO QUE NÃO MERECE CONHECIMENTO. AGRAVO NÃO PROVIDO. 1. A jurisprudência desta Suprema Corte é no sentido de que não é cabível novo recurso para o Supremo Tribunal Federal contra a aplicação da sistemática da repercussão geral (arts. 1.036 a 1.040 do CPC) pelo Tribunal de origem. 2. Nos termos do art. 1.030, § 2º, do CPC, o agravo interno na origem é recurso próprio à impugnação de decisão que aplica entendimento firmado em regime de repercussão geral, não sendo cabível a interposição do agravo previsto no art. 1.042, do Código de Processo Civil. 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita. 4. Agravo interno conhecido e não provido” (ARE n. 1.429.914-AgR, Relator o Ministro Flávio Dino, Primeira Turma, DJe 6.5.2024).
+
+    A jurisprudência consolidada deste Supremo Tribunal é no sentido de que “o agravo em recurso extraordinário é incognoscível quando veicula insurgência contra a aplicação da sistemática da repercussão geral na origem, ex vi dos artigos 1.042 e 1.030, § 2º, do Código de Processo Civil” (ARE n. 1.370.824-ED-AgR, Relator o Ministro Luiz Fux, Plenário, DJe 20.5.2022).
+
+    Como não foi interposto agravo interno, previsto no § 2º do art. 1.030 do Código de Processo Civil, nada mais há a ser apreciado nesta sede recursal sobre a aplicação do Tema 958 da repercussão geral na origem.
+
+    10. No juízo negativo de admissibilidade recursal, a Presidência do Tribunal de Justiça do Rio Grande do Sul inadmitiu o recurso extraordinário, concluindo que, “no caso, o Órgão julgador reconheceu a constitucionalidade do artigo 2º, § 4º, da Lei nº 11.738/2008, o que está de acordo com o aludido paradigma [Tema 958 da repercussão geral], e decidiu com base na legislação municipal, de modo que a reapreciação da questão encontra óbice na Súmula 280 do Supremo Tribunal Federal, segundo a qual ‘por ofensa a direito local não cabe recurso extraordinário’” (fl. 3, e-doc. 205).
+
+    A Turma Recursal de origem dirimiu a controvérsia infraconstitucional sobre a readequação da carga horária de professora da rede pública municipal, com os seguintes fundamentos:
+
+    “No âmbito do Município de São Luiz Gonzaga, destaca-se que a Lei Municipal nº 5.073/2011 (Plano de Carreira do Magistério) prevê a reserva de 20% da carga horária para realização de atividades extraclasse, em desacordo da norma prevista na Lei Federal.
+
+    Dessa forma, deve ser observado pelo ente municipal, o cumprimento da reserva de 1/3 da carga horária do professor para realização da hora-atividade, bem como do pagamento decorrente da inobservância da reserva de 1/3 da carga horária para a atividade extraclasse, com base no custo da hora-aula paga ao professor” (fls. 5-6, e-doc. 159).
+
+    Como assinalado na decisão agravada, para rever as decisões das instâncias do Juizado Especial seria necessário reexame da legislação infraconstitucional aplicável ao processo (Lei municipal n. 5.073/2011 e Lei federal n. 11.738/2008). A alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário. Incide, na espécie vertente, a Súmula n. 280 do Supremo Tribunal Federal. Assim, por exemplo:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. MAGISTÉRIO. EDUCAÇÃO BÁSICA. JORNADA DE TRABALHO. PAGAMENTO DE HORAS DE ATIVIDADE EXTRACLASSE. INDENIZAÇÃO. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n. 1.420.286-AgR, Relatora a Ministra Cármen Lúcia, Primeira Turma, DJe 19.4.2023).
+
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. MAGISTÉRIO. JORNADA DE TRABALHO. HORAS EXTRAS. LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. OFENSA REFLEXA. FATOS E PROVAS. REEXAME. IMPOSSIBILIDADE. PRECEDENTES. AGRAVO INTERNO DESPROVIDO. 1. O recurso extraordinário é instrumento de impugnação de decisão judicial inadequado para a análise de matéria infraconstitucional local, bem como para a valoração e exame minucioso do acervo fático-probatório engendrado nos autos (Súmulas 279 e 280 do STF). 2. Agravo interno desprovido, com imposição de multa de 5% (cinco por cento) do valor atualizado da causa (artigo 1.021, § 4º, do CPC), caso seja unânime a votação. 3. Honorários advocatícios majorados ao máximo legal em desfavor da parte recorrente, caso as instâncias de origem os tenham fixado, nos termos do artigo 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º e a eventual concessão de justiça gratuita” (ARE n. 1.359.991-AgR, Relator o Ministro Luiz Fux, Plenário, DJe 25.3.2022).
+
+    “Agravo regimental em recurso extraordinário. 2. Direito administrativo. Jornada de trabalho de professor de educação física. Conflito aparente de normas. Impossibilidade de análise de legislação local. Ofensa reflexa à Constituição Federal. Incidência do Enunciado 280 da Súmula desta Corte. 3. Ausência de argumentos suficientes para infirmar a decisão agravada. 4. Agravo regimental a que se nega provimento” (RE n. 647.059-AgR, Relator o Ministo Gilmar Mendes, Segunda Turma, DJe 27.3.2012).
+
+    No julgamento dos Embargos de Declaração opostos contra o Recurso Extraordinário com Agravo n. 1.343.477-RG, Tema 1.179 da repercussão geral, Relator o Ministro Luiz Fux, este Supremo Tribunal reafirmou que matéria referente à organização da jornada de trabalho e distribuição das atividades a serem exercidas pelos professores da educação básica é infraconstitucional, como se tem na seguinte passagem do voto do Relator:
+
+    “O acórdão hostilizado, ao contrário do alegado pela parte embargante, enfrentou os argumentos trazidos nas razões do recurso extraordinário, ao demonstrar que as matérias relativas ao cálculo do piso salarial devido aos professores da rede de educação básica, ante a fixação de jornada inferior a 40 (quarenta) horas semanais e a distribuição da carga horária dentro e fora de sala de aula, demandariam a análise da legislação infraconstitucional e local aplicável (Lei Federal 11.738/2008 e Lei 1.367/2011 do Município de Miracema), e foram decididas com apoio no conjunto fático-probatório dos autos, a atrair os óbices das Súmulas 279 e 280 do Supremo Tribunal Federal, consoante inúmeros precedentes colacionados por ocasião da decisão embargada.
+
+    As alegações do Município embargante, de que o vício reconhecido pelo Tribunal de origem nas disposições da Lei Municipal 1.367/2011 teria sido corrigido pelas Leis Municipais 1.615/2015 e 1.808/2018, as quais mantiveram a jornada de 25 horas semanais, ‘com resguardo de 1/3 para atividade de planejamento, ou seja, exercendo 16,6 horas em sala de aula e 8,3 horas de atividade de planejamento’, não alteram a conclusão desta Corte pela ausência de vocação constitucional e, por conseguinte, de inexistência de repercussão geral, do tema alusivo à legalidade dos cálculos efetuados pelos Municípios no cumprimento da Lei 11.738/2008” (Plenário, DJe 28.7.2022).
+
+    Comprovados os óbices jurídicos impeditivos da admissibilidade do recurso, nada há a prover em relação às alegações do agravante.
+
+    11. Pelo exposto, não conheço do presente recurso extraordinário com agravo (inc. III do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal), e condeno a parte sucumbente, nesta instância recursal, ao pagamento de honorários advocatícios majorados em 10%, percentual que se soma ao fixado na origem, obedecidos os limites dos §§ 2º, 3º e 11 do art. 85 do Código de Processo Civil.
+
+    Anote-se que eventual recurso manifestamente inadmissível contra esta decisão demonstraria apenas inconformismo e resistência em pôr termo a processos que se arrastam em detrimento da eficiente prestação jurisdicional.
+
+    Publique-se.
+
+    Brasília, 2 de dezembro de 2025.
+
+Ministra CÁRMEN LÚCIA
+
+Relatora
