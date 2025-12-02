@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por DOUGLAS BIELESKI DA SILVA contra decisão do Tribunal de origem que inadmitiu o recurso especial por ausência de prequestionamento (Súmulas n. 282 e 356 do STF e 211 do STJ).
+Nas razões do presente agravo em recurso especial, argumenta a defesa que o recurso especial deveria ter sido admitido, sustentando que o prequestionamento está implícito nos autos.
+Requer o provimento do recurso, com a consequente repercussão jurídica.
+Impugnação apresentada às fls. 324-325.
+Parecer do Ministério Público Federal opinando pelo não conhecimento do agravo em recurso especial, nos termos da seguinte ementa (fl. 338):
+AGRAVO EM RECURSO ESPECIAL. AGRAVO QUE NÃO REBATEU ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA Nº 182 DO STJ. NÃO CONHECIMENTO.
+- Na espécie, incide a Súmula nº 182 dessa Augusta Corte Superior, eis que as razões expendidas nas peças recursais não rebatem especificamente os argumentos apresentados na decisão agravada para obstar o seguimento do recurso especial.
+- No caso, ao buscar afastar a incidência das Súmulas 282 e 356 do STF, o agravante sustentou que o prequestionamento "está implícito nos autos" (fl. 318), deixando, contudo, de demonstrar o efetivo debate da matéria no acórdão objeto do recurso especial.
+- No mais, "prevalece neste Superior Tribunal que o prequestionamento implícito somente se configura quando há o efetivo debate da matéria, embora não haja expressa menção aos dispositivos violados" situação não verificada nos presentes autos (AgRg no AREsp n. 2.123.235/RJ, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 22/8/2022).
+- Parecer pelo não conhecimento do agravo.
+É o relatório.
+Como relatado, o recurso especial foi inadmitido por ausência de prequestionamento (Súmulas n. 282 e 356 do STF e 211 do STJ).
+Porém, as razões do agravo em recurso especial não enfrentam, de modo suficiente, o fundamento referido, não bastando para tanto que a parte recorrente o mencione, pois, para atendimento do princípio da dialeticidade, devem ser demonstradas, de modo específico e concreto, quais seriam as razões pelas quais a decisão recorrida deveria ser reformada.
+Vale esclarecer que o prequestionamento é um requisito de admissibilidade do recurso especial, traduzindo-se na necessidade de que tenha havido expresso debate, pelo tribunal de origem, da matéria que se pretende submeter ao tribunal superior, conforme elucidam as Súmulas n. 282 e 356 do STF e 211 do STJ. Por isso, não tendo sido tratada as teses defensivas no acórdão recorrido e não provocado o pronunciamento daquela Corte em embargos de declaração, não se poderia, de fato, conhecer do recurso especial , mesmo que a matéria seja considerada de ordem pública (AgRg no AREsp n. 2.487.930/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 8/10/2024, DJe de 16/10/2024.
+Como se constata, a efetiva impugnação dos funda mentos que levaram o Tribunal de origem a inadmitir o recurso especial exigia o expresso e efetivo enfrentamento de cada um dos respectivos fundamentos, sem o que não se pode cogitar do desacerto da decisão agravada.
+Aplica-se, em consequência, a conclusão prevista na Súmula n. 182 do STJ, que estabelece ser "inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". A propósito: AgRg no AREsp n. 2.706.517/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 15/10/2024, DJe de 23/10/2024; AgRg no AREsp n. 2.564.761/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 16/10/2024, DJe de 22/10/2024; AgRg no AREsp n. 2.126.667/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 15/10/2024, DJe de 18/10/2024; AgRg no AREsp n. 2.262.869/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/6/2024, DJe de 25/6/2024.
+Por fim, registro que, n  os termos do art. 932, III, do CPC, incumbe monocraticamente ao relator "não conhecer de recurso  ..  que não tenha impugnado especificamente os fundamentos da decisão recorrida", hipótese amparada também pelo art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO SUFICIENTE. SÚMULA N. 182 DO STJ. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
