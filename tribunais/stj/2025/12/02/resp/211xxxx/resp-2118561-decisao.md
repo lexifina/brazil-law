@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo CENTRO EDUCACIONAL RENASCER e OUTRO, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurgem contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado (fl. 633):
+TRIBUTÁRIO. PRESCRIÇÃO INTERCORRENTE. REPETIÇÃO DE INDÉBITO. FGTS. HONORÁRIOS ADVOCATÍCIOS. PRINCÍPIO DA CAUSALIDADE.
+1. Tratando-se de cobrança de parcelas de FGTS em atraso, ou seja, débitos de natureza não tributária, descabe a repetição de indébito de valores eventualmente adimplidos, conforme artigo 882 do CC.
+2. Conforme o princípio da causalidade, aquele que deu causa à propositura da demanda ou à instauração de incidente processual deve responder pelas custas processuais e pelos honorários advocatícios sucumbenciais.
+3. Por força do princípio da causalidade, é defeso a condenação da exequente em custas processuais, taxas judiciárias e honorários advocatícios de sucumbência, quando a razão de extinção da execução fiscal se der pela prescrição intercorrente, pois, nessa hipótese, não foi a Fazenda a responsável pelo ajuizamento da ação executiva, nem pela não localização do devedor ou de seus bens (AgInt no REsp 1929415/SC, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 22/09/2021).
+Não foram opostos embargos de declaração.
+Nas razões de seu recurso, a parte recorrente sustenta ter ocorrido violação dos arts. 489, § 1º, IV, e 1.022, parágrafo único, II, do Código de Processo Civil (CPC) e 882 do Código Civil (CC). Alega o seguinte:
+(1) ocorrência de negativa de prestação jurisdicional - "Em que pese a apelante tenha expressamente requerido a manifestação quanto à indicação da data em que ocorreu a prescrição intercorrente, para fins de determinar a restituição dos valores pagos indevidamente, o acórdão manteve o fundamento de ser irrelevante a fixação do marco inicial da prescrição" (fl. 643); e
+(2) que "o presente caso não versa de uma obrigação cível, pois se está diante de uma execução fiscal. Nesta hipótese, a prescrição intercorrente extingue a própria obrigação jurídica, razão pela qual o pagamento de dívida pública prescrita é indevido, ensejando a sua repetição, sob pena de enriquecimento ilícito do erário público" (fl. 644).
+Requer a reforma do acórdão recorrido "para dar provimento à apelação interposta em face da sentença que reconheceu a prescrição intercorrente nos autos de execução fiscal nº 0000501- 91.2002.8.16.0056 sem, contudo, fixar o temo inicial prescricional" (fl. 645).
+A parte adversa não apresentou contrarrazões (fl. 653).
+O recurso foi admitido (fl. 656).
+É o relatório.
+Quanto à apontada violação do art. 1.022 do CPC, considerando que não houve a necessária oposição de embargos de declaração para provocar o Tribunal de origem a esclarecer obscuridade, eliminar contradição ou suprir omissão, o exame da alegada nulidade do julgado se encontra inviabilizado em razão do óbice contido na Súmula 284 do Supremo Tribunal Federal (STF), aplicado por analogia.
+Nesse mesmo sentido: AgInt nos EDcl nos EDcl no AREsp 1.794.204/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/6/2021, DJe de 25/6/2021; e AgInt no REsp 1.367.247/PR, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 27/9/2016, DJe de 6/10/2016.
+Inexiste a alegada violação do art. 489, § 1º, IV, do CPC, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia.
+É importante ressaltar que julgamento diverso do pretendido, como no presente caso, não implica ofensa ao dispositivo de lei invocado.
+O art. 882 do CC não foi apreciado pelo Tribunal de origem, e não foram opostos embargos de declaração com o objetivo de sanar eventual omissão da questão de direito controvertida.
+A falta de enfrentamento no acórdão recorrido da matéria objeto do recurso impede o acesso à instância especial por não ter sido preenchido o requisito constitucional do prequestionamento.
+Incidem no presente caso, por analogia, as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+Para que se configure o prequestionamento, não basta que a parte recorrente devolva a questão controvertida para o Tribunal. É necessário que a causa seja decidida à luz da legislação federal indicada, bem como que seja exercido juízo de valor sobre o dispositivo legal indicado e a tese recursal a ele vinculada, interpretando-se sua incidência ou não no caso concreto.
+Ausente pronunciamento do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO sobre o ponto, caberia, inicialmente, suscitá-lo em embargos de declaração. Mantida a omissão, deveria a parte interessada deduzir a nulidade do julgamento por violação do art. 1.022 do CPC. Isso não foi feito no caso dos autos.
+É importante destacar o seguinte aspecto: "Há distinção quanto à análise das teses de ausência de prestação jurisdicional (art. 489 do CPC) e de nulidade por vício de omissão (art. 1.022 do CPC), sendo inviável a adoção de prequestionamento ficto quando invocada apenas a primeira alegação" (AgInt no REsp n. 1.948.439/MG, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 23/10/2023, DJe de 25/10/2023).
+Ante o exposto, conheço em parte do recurso especial e, nessa extensão, a ele nego provimento.
+Majoro em 10% (dez por cento), em desfavor da parte recorrente, o valor de honorários sucumbenciais já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos no § 2º desse dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
