@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL contra decisão de fls. 138/142, em que neguei provimento ao recurso especial, porquanto ausente a omissão apontada e ao entendimento de que é necessária a oitiva do apenado no reconhecimento de falta grave que gera regressão definitiva de regime prisional.
+Consta dos autos que o agravado, no curso da execução penal, praticou falta grave. O magistrado singular regrediu o regime para fechado, alterou a data-base e declarou a perda proporcional dos dias remidos. Posteriormente, o Tribunal de origem cassou parte da decisão, determinando a realização de audiência de justificação e a apreciação do requerimento de comutação.
+No presente agravo regimental, o Parquet repisa os argumentos expendidos no apelo especial, quanto à ocorrência de omissão e a prescindibilidade da audiência de justificação, tendo em vista a existência de sentença penal condenatória que apurou a materialidade e autoria do crime correspondente à falta grave cometida.
+Aduz que " ..  a prolação de sentença condenatória - como ocorre na espécie - dispensa a realização de instrução específica sobre a infração disciplinar ou audiência de justificação prévia" (fl. 150).
+Requer, assim, a reconsideração da decisão agravada ou a submissão do recurso ao órgão colegiado.
+É o relatório.
+Decido.
+O agravo regimental merece provimento.
+Compulsando melhor os autos, verifico que o Tribunal de origem concluiu pela impossibilidade do reconhecimento da falta grave, devido à ausência da audiência de justificação, ainda que exista sentença criminal condenatória correspondente. Cito (fls. 48/50):
+"Prosseguindo, durante o curso da execução da pena, sobreveio notícia da prática de novo delito pelo apenado (SEEU - mov. 196 e 198), tendo o juízo da execução reconhecido a prática de falta grave, nos seguintes termos:
+ ..
+Dispõe o artigo 118 da Lei de Execução Penal que o reconhecimento de falta de natureza grave, que importe na regressão de regime, fica condicionado à oitiva do apenado em audiência de justificativa.
+O STF, no julgamento do RE n.º 776823/RS, em 07.12.2020, assentou o seguinte entendimento, em repercussão geral (Tema 758): "O reconhecimento de falta grave consistente, na prática, de fato definido como crime doloso no curso da execução penal dispensa o trânsito em julgado da condenação criminal no juízo do conhecimento, desde que a apuração do ilícito disciplinar ocorra com observância do devido processo legal, do contraditório e da ampla defesa, podendo a instrução em sede executiva ser suprida por sentença criminal condenatória que verse sobre a materialidade, a autoria e as circunstâncias do crime correspondente à falta grave."
+ ..
+Nesse contexto, tendo em vista que a conduta do apenado, em tese, pode configurar falta grave, indispensável a realização de audiência de justificação, conforme previsão legal, a fim de garantir a ampla defesa e o contraditório.
+Desse modo, é o caso de cassar a decisão proferida na origem, determinando ao juízo a designação de audiência de justificativa para apuração da falta grave, bem como para apreciação do requerimento de comutação formulado pelo agravante, frente a ausência de decisão fundamentada, analisando as particularidades do caso concreto, sob pena de supressão de instâncias."
+Contudo, inexiste óbice ao aproveitamento de sentença proferida no processo penal de conhecimento, após regular instrução criminal, com observância do contraditório e da ampla defesa, pelo Juízo da execução penal para o reconhecimento de falta grave.
+Nesse sentido, colaciono o seguinte precedente:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. HOMOLOGAÇÃO DE FALTA GRAVE. PRÁTICA DE NOVO CRIME. CONDENAÇÃO. INEXISTÊNCIA DE PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR. RE 972.598/RS. REPERCUSSÃO GERAL. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A Corte Constitucional, no julgamento do RE n. 972.598 RG/RS, sob a sistemática da repercussão geral, firmou o entendimento de que a oitiva do condenado pelo Juízo da Execução Penal, em audiência de justificação realizada na presença do defensor e do Ministério Público, afasta a necessidade de prévio Procedimento Administrativo Disciplinar (PAD), assim como supre eventual ausência ou insuficiência de defesa técnica no PAD instaurado para apurar a prática de falta grave durante o cumprimento da pena (Tema 941/STF).
+2. No caso em análise, o agravante cometeu falta de natureza grave, consubstanciada na prática de novo crime, tendo sido condenado em ação penal, não havendo, assim, necessidade de instauração de PAD.
+3. Nos termos da Súmula n. 526/STJ, o reconhecimento de falta grave decorrente do cometimento de fato definido como crime doloso no cumprimento da pena prescinde do trânsito em julgado de sentença penal condenatória no processo penal instaurado para apuração do fato (Terceira Seção, julgado em 13/5/2015, DJe 18/5/2015).
+4. Agravo regimental não provido.
+(AgRg no REsp n. 1.984.418/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 29/3/2022, DJe de 31/3/2022.)
+Destaca-se, ainda, que "O reconhecimento de falta grave decorrente de fato definido como crime doloso no cumprimento da pena prescinde do trânsito em julgado de sentença penal condenatória, conforme entendimento consolidado na Súmula 526 do STJ" (AREsp n. 2.459.633/BA, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 4/2/2025, DJEN de 14/2/2025).
+Ante o exposto, com fundamento no art. 258, § 3º, do Regimento Interno do Superior Tribunal de Justiça, dou provimento ao agravo regimental para reconsiderar a decisão agravada e dar parcial provimento ao recurso especial, restabelecendo a falta grave reconhecida pelo magistrado da origem.
+Publique-se. Intimem-se.
+EMENTA
