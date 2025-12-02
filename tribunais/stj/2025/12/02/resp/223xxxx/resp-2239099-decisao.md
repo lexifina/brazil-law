@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS, com fundamento no art. 105, III, a e c, da Constituição da República, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DE MINAS GERAIS que, em sede de apelação criminal, manteve a possibilidade de o réu, condenado pelo Tribunal do Júri, recorrer em liberdade.
+O recorrido foi condenado pelo Conselho de Sentença pelo crime previsto no artigo 121, §2º, incisos II e IV, c/c artigo 14, inciso I, artigo 18, inciso I e artigo 61, inciso I, todos do Código Penal a pena de 15 (quinze) anos de reclusão. Ainda assim, o Tribunal de origem concedeu ao acusado o direito de recorrer em liberdade, afastando a determinação de execução imediata da condenação prevista no art. 492, I, e, do Código de Processo Penal, sob o argumento de que não seria possível aplicar a norma a fatos ocorridos antes da Lei n. 13.964/2019 e que não estariam configurados requisitos da prisão preventiva.
+O Ministério Público sustenta violação do art. 492, I, e, do CPP, bem como divergência jurisprudencial, afirmando que a execução imediata da condenação imposta pelo Tribunal do Júri decorre da soberania dos veredictos e possui natureza processual, aplicando-se imediatamente a processos em curso. Requer a cassação do acórdão recorrido, para que seja determinado o imediato início da execução da pena.
+É o relatório. DECIDO.
+Pretende o recurso a imposição de prisão cautelar imediata pela condenação do Conselho de Sentença.
+Ocorre que, após a interposição do presente recurso, sobreveio o trânsito em julgado definitivo da condenação, conforme certificado nos autos. A decisão condenatória tornou se imutável e indiscutível na via ordinária e extraordinária, o que impede o prosseguimento do presente recurso.
+Verifica se, portanto, hipótese de perda superveniente do objeto, porque ausente o interesse recursal. A jurisprudência do Superior Tribunal de Justiça é consolidada no sentido de que, sobrevindo o trânsito em julgado da condenação, fica esvaziada a utilidade do recurso especial, uma vez que não é mais possível modificar o comando condenatório.
+O interesse recursal é pressuposto de admissibilidade indispensável e deve persistir até o julgamento definitivo. Extinto o interesse jurídico e processual, impõe se o não conhecimento.
+Diante do trânsito em julgado certificado, não subsiste utilidade na prestação jurisdicional requerida, o que impõe o não conhecimento do apelo.
+Ante o exposto, julgo prejudicado o recurso especial, em razão da perda superveniente do objeto, decorrente do trânsito em julgado definitivo da condenação.
+Publique se. Intimem se.
+EMENTA
