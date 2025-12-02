@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por WICKBOLD & NOSSO PÃO INDÚSTRIAS ALIMENTÍCIAS LTDA da decisão de fls. 595/602, na qual conheci do agravo para conhecer parcialmente do seu recurso especial e, nessa extensão, negar-lhe provimento.
+A parte embargante requer:
+a) Seja sanada a contradição referente à questão do prequestionamento, esclarecendo a razão pela qual a r. decisão embargada diverge do entendimento exarado pelo acórdão do Tribunal a quo sobre a suficiência do prequestionamento da matéria;
+b) Seja suprida a omissão quanto à tese da ora Embargante de que a aplicação do Art. 394-A, §3º da CLT por analogia não implica reexame de matéria fático-probatória (Súmula 7/STJ), mas sim uma qualificação jurídica da situação imposta pela Lei nº 14.151/2021;
+c) Seja suprida a omissão na análise da impugnação específica da Agravante sobre a aplicação da Súmula 283/STF, esclarecendo por que sua argumentação sobre a existência de previsão legal para a compensação não foi considerada suficiente para afastar a alegação de instituição de benefício sem lei;
+d) Seja suprida a omissão referente à tese da aplicação analógica do Art. 394-A, §3º da CLT para qualificar a situação como "gravidez de risco" e, por consequência, gerar o direito ao salário-maternidade e à compensação, explicando por que este argumento jurídico específico não foi acolhido ou como se harmoniza com o Tema 1.290/STJ, permitindo a devida compreensão da decisão sobre a integralidade da tese da Agravante. (fls. 612/613).
+A parte adversa não apresentou impugnação (fl. 622).
+É o relatório.
+A questão debatida nos autos foi analisada pelo Superior Tribunal de Justiça quando do julgamento dos Recursos Especiais 2.160.674/RS e 2.153.347/PR, sob o rito de recursos repetitivos, oportunidade em que foram firmadas as seguintes teses quanto ao Tema 1.290:
+"a) Nas ações em que empregadores buscam recuperar valores pagos a empregadas gestantes afastadas do trabalho durante a pandemia de COVID-19, a legitimidade passiva ad causam recai sobre a Fazenda Nacional, e não sobre o INSS;
+b) Os valores pagos às empregadas gestantes afastadas, inclusive às que não puderam trabalhar remotamente, durante a emergência de saúde pública da pandemia de COVID-19, possuem natureza jurídica de remuneração regular, a cargo do empregador, não se configurando como salário-maternidade para fins de compensação" (relator Ministro Gurgel de Faria, DJe de 14/2/2025).
+No que diz respeito à determinação de sobrestamento de processo em julgamento de embargos de declaração, a jurisprudência desta Corte Superior é no sentido de que, "havendo julgamento pelo órgão colegiado de matéria submetida à sistemática da repercussão geral, o recurso integrativo deve ser acolhido, com efeitos modificativos, para anular o acórdão embargado, determinando-se a devolução dos autos ao Tribunal de origem para que seja promovido o juízo de conformação" (EDcl no AgInt no REsp 1.933.253/RS, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 18/3/2022).
+Nesse mesmo sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO. MILITAR INATIVO. LICENÇA ESPECIAL. CONVERSÃO EM PECÚNIA. MATÉRIA AFETADA À SISTEMÁTICA DOS RECURSOS REPETITIVOS. RESPS 1.925.192/RS, 1.925.193/RS e 1.928.910/RS (TEMA 1.109/STJ). RETORNO DOS AUTOS DO PROCESSO, SOBRESTANDO-OS NO TRIBUNAL DE ORIGEM. EMBARGOS DE DECLARAÇÃO ACOLHIDOS.
+1. Os embargos de declaração, nos termos do art. 1.022 do Código de Processo Civil, são cabíveis quando há obscuridade, contradição, omissão ou erro material no julgado. Em hipóteses excepcionais, a jurisprudência do Superior Tribunal de Justiça permite que a eles se empreste efeitos infringentes.
+2. A questão debatida nos autos, qual seja, a "definição acerca da ocorrência, ou não, de renúncia tácita da prescrição, como prevista no art. 191 do Código Civil, quando a Administração Pública, no caso concreto, reconhece o direito pleiteado pelo interessado", encontra-se afetada à Primeira Seção desta Corte Superior, aguardando o julgamento dos REsps 1.925.192/RS, 1.925.193/RS e 1.928.910/RS, de relatoria do Ministro Sérgio Kukina, sob o rito dos recursos repetitivos (Tema 1.109 /STJ).
+3. Embargos de declaração acolhidos, com a determinação de retorno dos autos ao Tribunal de origem para que o órgão julgador a quo realize juízo de conformação com a tese firmada pelo STJ.
+(EDcl no AgInt no AREsp n. 2.035.653/RJ, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 27/5/2024, DJe de 7/6/2024.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. TEMA AFETADO. SISTEMÁTICA DOS RECURSOS REPETITIVOS. SOBRESTAMENTO.
+1. Os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material.
+2. Nos casos em que há discussão acerca de matéria submetida à sistemática do julgamento repetitivo ou da repercussão geral, o recurso integrativo deve ser acolhido para que, atribuindo-se-lhe efeitos modificativos, seja anulado o acórdão embargado e determinada a remessa dos autos à instância de origem, a fim de que se viabilize o juízo de conformação, hoje disciplinado nos arts. 1.040 e 1.041 do CPC/2015.
+3. Hipótese em que o tema relativo à inadmissão da restituição administrativa do indébito na via judicial, sendo indispensável a observância do regime constitucional de precatórios, nos termos do art. 100 da Constituição Federal, foi afetado a julgamento sob o rito repercussão geral (Tema 1.262).
+4. Embargos acolhidos, com a atribuição de efeitos infringentes.
+(EDcl no AgInt no AREsp n. 2.237.579/PR, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023.)
+E d e acordo com o disposto no art. 34, XXIV, do Regimento Interno do Superior Tribunal de Justiça, em situações em que o recurso versa sobre a mesma controvérsia objeto de recursos representativos de controvérsia já julgados, os autos devem retornar ao Tribunal de origem para que seja providenciado o juízo de conformação:
+Art. 34. São atribuições do relator:
+ ..
+XXIV - determinar a devolução ao Tribunal de origem dos recursos especiais fundados em controvérsia idêntica àquela já submetida ao rito de julgamento de casos repetitivos para adoção das medidas cabíveis.
+Ante o exposto, torno sem efeito a decisão proferida às fls. 595/602, julgo prejudicados os presentes embargos de declaração e determino a devolução dos autos ao TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO a fim de que proceda nos termos do art. 1.040 e seguinte do mesmo CPC.
+Publique-se. Intimem-se.
+EMENTA
