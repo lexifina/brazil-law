@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo apresentado por Banco do Brasil S.A. para impugnar decisão que não admitiu seu recurso especial, interposto com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra o acórdão do Tribunal de Justiça do Estado do Ceará assim ementado (e-STJ, fl. 298):
+Direito Processual Civil. Recurso de Apelação Cível. Ação de Indenização por danos materiais e morais. Diferença de valores na conta vinculada ao PASEP. Prescrição inocorrente. princípio da actio nata. Prazo que flui a partir do momento em que a parte toma ciência inequívoca da ocorrência da irregularidade na sua conta vinculada do PASEP (Tema nº 1.150), quando do recebimento do extrato ou das microfilmagens. Retorno dos autos à vara de origem para o devido processamento e julgamento do litígio. Recurso conhecido e provido. Sentença cassada.
+No recurso especial (e-STJ, fls. 362-374), a parte recorrente alegou violação dos arts. 487, II, do Código de Processo Civil e 205 do Código Civil, sustentando a necessidade de reconhecer a prescrição decenal com termo inicial na data do saque/aposentadoria, com extinção do feito com resolução do mérito pela ocorrência da prescrição, em observância ao Tema 1.150 do Superior Tribunal de Justiça (e-STJ, fls. 368-369).
+Sustentou ofensa aos arts. 932, V, c, e 985, I, do Código de Processo Civil, afirmando que o acórdão recorrido deixou de observar entendimento firmado em precedente qualificado (Tema 1.150/STJ), motivo pelo qual deveria ter sido reformado em sede recursal nos termos das atribuições do relator.
+Indicou a necessidade de sobrestamento do feito em razão da afetação do Tema 1.300 do STJ, que trata do ônus da prova sobre lançamentos a débito nas contas do PASEP .
+Afirmou a ocorrência de dissídio jurisprudencial, indicando acórdão paradigma do Tribunal de Justiça do Distrito Federal e dos Territórios para evidenciar divergência quanto ao termo inicial da prescrição (data do saque em relação à data de acesso a extratos/microfilmagens) em ações relativas ao PASEP.
+Contrarrazões apresentadas (e-STJ, fls. 396-402).
+O recurso não foi admitido, razão pela qual foi interposto o agravo ora examinado (e-STJ, fls. 403-408).
+Contraminuta às fls. 424-431 (e-STJ).
+Brevemente relatado, decido.
+Nos presentes autos, há debate sobre matéria afetada à Primeira Seção do Superior Tribunal de Justiça, aguardando julgamento sob o rito dos recursos repetitivos, Tema 1.387, vinculado aos Recursos Especiais ns. 2.214.879/PE e 2.214.864/PE, de relatoria da Ministra Maria Thereza de Assis Moura.
+A questão de direito está delimitada nos seguintes termos: "Definir se o saque integral dá início ao prazo prescricional da pretensão de reparação por falha na prestação do serviço, por saques indevidos, por desfalques, ou por ausência de aplicação dos rendimentos estabelecidos em conta individualizada do PASEP."
+Verifica-se, igualmente, que foi determinada a suspensão dos processos pendentes (art. 1.037, II, do CPC).
+Nesse contexto, em observância ao princípio da eficiência e ao regime jurídico-processual do CPC/2015, bem como ao disposto no art. 256-L do RISTJ, determino a devolução dos autos à Corte de origem, com a respectiva baixa, a fim de que, após a publicação dos acórdãos paradigmas, seja realizado o juízo de conformação previsto nos arts. 1.039, caput, e 1.040 do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO E DIREITO CIVIL. RECURSO ESPECIAL. REPRESENTATIVO DE CONTROVÉRSIA. CONTAS INDIVIDUALIZADAS DO PASEP. SAQUES INDEVIDOS E OUTRAS DIFERENÇAS. TERMO INICIAL DA PRESCRIÇÃO. SAQUE INTEGRAL E ENCERRAMENTO DA CONTA INDIVIDUALIZADA. MATÉRIA AFETADA AO RITO DOS RECURSOS REPETITIVOS. TEMA 1.387/STJ. DETERMINADA A DEVOLUÇÃO DOS AUTOS À CORTE DE ORIGEM.
