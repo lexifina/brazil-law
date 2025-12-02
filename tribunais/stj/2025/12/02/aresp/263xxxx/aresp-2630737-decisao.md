@@ -1,0 +1,49 @@
+DECISÃO
+Cuida-se de agravo interposto por CCISA 14 INCORPORADORA LTDA. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 285):
+AÇÃO REVISIONAL DE CONTRATO DE AQUISIÇÃO DE IMÓVEL COM FINANCIAMENTO.
+INSURGÊNCIA CONTRA A SENTENÇA QUE INDEFERIU PEDIDO PARA SUBSTITUIR O ÍNDICE IGP-M-FGV PELO IPCA, DIANTE DO DRÁSTICO DESCOLAMENTO DOS PERCENTUAIS APRESENTADOS PELO IGP-M EM COMPARAÇÃO COM OUTROS ÍNDICES QUE MELHOR RETRATAM A EVOLUÇÃO INFLACIONÁRIA NO PERÍODO ASSINALADO NOS AUTOS.
+CONSIDERAÇÃO DE QUE SE TRATA DE SITUAÇÃO EXCEPCIONAL QUE TRAZ A POSSIBILIDADE DE REVISÃO DE CLÁUSULAS CONTRATUAIS QUE ACARRETEM EXCESSIVA ONEROSIDADE COM RUPTURA DO EQUILÍBRIO ECONÔMICO DAS PRESTAÇÕES.
+APLICAÇÃO DO INCISO V, DO ART. 6º DO CDC, E ART. 317, COMBINADO COM O ART. 478, AMBOS DO CÓDIGO CIVIL. FLEXIBILIZAÇÃO DO PRINCÍPIO DA FORÇA OBRIGATÓRIA DO CONTRATO ("PACTA SUNT SERVANDA").
+RECURSO PARCIALMENTE PROVIDO.
+Rejeitados os embargos de declaração opostos (fls. 309-312).
+No recurso especial, a recorrente alega que o acórdão contrariou as disposições contidas nos artigos 317, 421, parágrafo único, 422 e 478, do Código Civil; 6º, V, do CDC; 46 da Lei n. 10.931/2004; e 1º da Lei n. 4.864/1965.
+Sustenta, em síntese, que o Tribunal de origem substituiu o índice IGP-M, expressamente pactuado, pelo IPCA, sem a presença dos requisitos legais para a revisão contratual, restringindo indevidamente a liberdade de contratar e afastando o princípio da força obrigatória dos contratos.
+Argumenta que a mera elevação do IGP-M não caracteriza fato imprevisível nem onerosidade excessiva, inexistindo desproporção manifesta ou vantagem extrema, sendo indevida a aplicação dos arts. 317 e 478 do CC e do art. 6º, V, do CDC.
+Aduz, ainda, que a decisão afrontou o art. 421, parágrafo único, e o art. 422 do CC, ao desconsiderar os princípios da intervenção mínima e da boa-fé objetiva, bem como os arts. 46 da Lei n. 10.931/2004 e 1º da Lei n. 4.864/1965, que autorizam a utilização de índices de correção monetária nos contratos imobiliários, requerendo o restabelecimento do IGP-M como indexador contratual.
+Sem contrarrazões ao recurso especial (fl. 336).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 337-338), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo (fl. 355).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A irresignação não merece prosperar.
+Com efeito, o Tribunal de origem, com base no amplo exame dos fatos e das provas acostadas aos autos, concluiu que a aplicação do IGP-M, durante o período da pandemia, gerou onerosidade excessiva, por ter apresentado elevação muito superior a outros índices inflacionários, ocasionando desequilíbrio contratual em prejuízo do consumidor.
+É o que se extrai dos seguintes trechos (fls. 288-291):
+Ocorre que, como tem sido veiculado em toda mídia, o IGP-M-FGV, por conter em sua composição de preços variações da cotação cambial e preços de commodities com cotação no mercado internacional, descolou-se sensivelmente dos demais índices, que tais como o IPCA refletem a inflação média de itens escolhidos de forma mais difusa e que impactam mais diretamente na vida do consumidor médio.
+É certo que não se espera que a variação dos percentuais medidos pelos índices inflacionários se opere de maneira simétrica, sendo natural a discrepância dentre um mesmo período, mas não é menos certo que o IGP-M-FGV apresentou no período consignado nos autos disparidade de tal ordem que não pode se enquadrar numa mera e previsível oscilação própria dessa sistemática.
+Assinale-se que no caso concreto há relação de consumo entre as partes de modo que é perfeitamente possível invocar o disposto no inciso V do art. 6º do Código de Defesa do Consumidor, o qual dispõe ser direito básico do consumidor "V - a modificação das cláusulas contratuais que estabeleçam prestações desproporcionais ou sua revisão em razão de fatos supervenientes que as tornem excessivamente onerosas".
+Vê-se que na relação de consumo basta a onerosidade excessiva que ocasiona a desproporção excessiva entre as prestações independentemente das qualificadoras de evento extraordinário e imprevisível previstos no Código Civil.
+Mas mesmo que não se tratasse de relação de consumo, a interpretação conjunta dos artigos 3171 e 4782 do Código Civil autorizaria a revisão contratual, uma vez que a desproporção dos índices assumiu tal dimensão que configura fato extraordinário e imprevisível dentre as circunstâncias verificadas.
+ ..
+A questão toda recebeu indiscutível e recente reforço com a decisão da própria Fundação Getúlio Vargas, autora do IGP-M, de criar um índice para medir aluguéis, O IVAR Índice de Variação de Aluguéis Residenciais, em evidente reconhecimento de que o IGP-M não se presta para apurar a inflação em determinados segmentos da economia.
+Em assim sendo, a posição anteriormente assumida no sentido de preservar o pacta sunt servanda e desde que com a observância de determinados requisitos contratuais, deve ceder a essa realidade.
+Ante o exposto, meu voto dá parcial provimento ao recurso para prover o recurso e reformar a respeitável sentença, com a determinação de recálculo das prestações devidas de junho de 2021 a julho de 2022 com substituição pelo índice do IPCA, com a compensação dos valores pagos a maior para pagamento e quitação das parcelas vincendas.
+Assim, alterar o decidido no acórdão impugnado, no que se refere à caracterização da onerosidade excessiva decorrente da aplicação do índice IGP-M no contrato de promessa de compra e venda e à substituição do indexador pelo IPCA, exige a análise das cláusulas contratuais e o reexame do conjunto fático-probatório dos autos, providências vedadas em recurso especial, nos termos das Súmulas 5 e 7/STJ.
+Nesse sentido, cito: AREsp n. 2.564.885, Ministra Maria Isabel Gallotti, DJe de 23/09/2024.
+Confira-se, ainda:
+CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. LOCAÇÃO DE LOJA EM SHOPPING CENTER. SUPERVENIÊNCIA DA PANDEMIA DECORRENTE DO COVID-19. SITUAÇÃO EXCEPCIONAL. APLICAÇÃO DA TEORIA DA IMPREVISÃO. REVISÃO DAS DISPOSIÇÕES CONTRATUAIS, POR ONEROSIDADE EXCESSIVA. REEXAME DAS PROVAS DOS AUTOS. DESCABIMENTO. INCIDÊNCIA DAS SÚMULAS N. os 5 E 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Segundo o entendimento da Terceira Turma, assentado no julgamento do REsp n.º 2.032.878/GO, relatora Ministra NANCY ANDRIGHI, julgado aos , D Je de 18/4/2023 , "a situação de pandemia não constitui, por si só,20/4/2023 justificativa para o inadimplemento da obrigação, mas é circunstância que, por sua imprevisibilidade, extraordinariedade e por seu grave impacto na situação socioeconômica mundial, não pode ser desprezada pelos contratantes, tampouco pelo Poder Judiciário. Desse modo, a revisão de contratos paritários com fulcro nos eventos decorrentes da pandemia não pode ser concebida de maneira abstrata, mas depende, sempre, da análise da relação contratual estabelecida entre as partes, sendo imprescindível que a pandemia tenha interferido de forma substancial e prejudicial na relação negocial".
+2. Na espécie, conforme pontuou o Tribunal estadual, a partir da análise das particularidades do caso, a pandemia do coronavírus configurou evento de força maior, a justificar a rescisão antecipada do contrato por parte da locatária, com base na aplicação da teoria da imprevisão, com o abatimento de parte da penalidade avençada. 3. A revisão da conclusão do acórdão recorrido, com o consequente acolhimento da pretensão recursal - no sentido de manter o valor originário da multa pelo descumprimento contratual -, exigiria o reexame do acervo fático-probatório da causa, o que não se admite em âmbito de recurso especial, ante os óbices das Súmulas n. os 5 e 7 do STJ. 4. Agravo interno não provido.
+(AgInt no REsp n. 2.094.662/PR, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 24/6/2024, DJe de 26/6/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REVISÃO DE CONTRATO. PANDEMIA. TRIBUNAL DE ORIGEM DECIDIU PELA AUSÊNCIA DE DESPROPORÇÃO DO VALOR LOCATÍCIO. REQUISITOS REVISIONAIS NÃO OBSERVADOS. JURISPRUDÊNCIA DO STJ. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. SIMILITUDE FÁTICA. AUSÊNCIA. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO.
+1. Ação de revisão de contrato.
+2. Esta Corte Superior tem se manifestado no sentido de que a pandemia da Covid-19 configura, em tese, evento imprevisível e extraordinário, apto a possibilitar a revisão contratual com fundamento nas Teorias da Imprevisão (arts. 317 do CC) e da Onerosidade Excessiva (art. 478 do CC), desde que preenchidos os demais requisitos legais. Precedentes.
+3. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+4. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+5. Ademais, a incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.480.157/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 13/5/2024, DJe de 15/5/2024.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 12% sobre o valor atualizado da causa.
+Publique-se. Intimem -se.
+ EMENTA
