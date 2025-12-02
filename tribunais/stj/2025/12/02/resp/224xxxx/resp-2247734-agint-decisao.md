@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de agravo interno interposto por LIDERANÇA LIMPEZA E CONSERVAÇÃO LTDA. contra decisão monocrática de minha relatoria que negou provimento ao agravo em recurso especial (fls. 2.047-2.051).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO cuja ementa guarda os seguintes termos (fls. 1.965-1.966):
+APELAÇÃO CÍVEL. AÇÃO REGRESSIVA. RECLAMATÓRIA TRABALHISTA. RESPONSABILIDADE SUBSIDIÁRIA.
+1. Descabe, nesta esfera cível, debater a responsabilidade da CEF já reconhecida como subsidiária na ação trabalhista com trânsito em julgado e, portanto, imutável e abarcada pela preclusão.
+2. A responsabilidade subsidiária possui caráter acessório ou suplementar, pressupondo uma ordem a ser observada na qual o devedor subsidiário só pode ser acionado nos casos em que a dívida não tenha sido totalmente adimplida pelo devedor principal, ou, nos casos em que há previsão contratual expressa na avença tida pelas partes. Precedentes.
+3. O pagamento pela CEF dos encargos decorrentes da ação trabalhista e relativos ao contrato, em razão da responsabilidade subsidiária estabelecida na Súmula nº 331/TST, também descrita no art. 121, § 2º, da Lei nº 14.133/21, ocorre somente nos casos em que a devedora principal não tenha adimplido a dívida, quando caberia o exame de eventual falha na fiscalização.
+4. Cumpre destacar que tanto o art. 455 da CLT, quanto o art. 121, caput, da Lei n. 14.133/21 são expressos no sentido de que o contratado é responsável pelos encargos trabalhistas, previdenciários, fiscais e comerciais resultantes da execução do contrato. Portanto, a credora em eventual ação de regresso seria a Administração Pública e não a contratada.
+5. No caso dos autos, a obrigação foi adimplida pela contratada, devedora principal, não havendo disposição contratual no sentido do ressarcimento de eventuais condenações, e, portanto, descabe o acionamento do devedor subsidiário ou o ressarcimento de quaisquer valores pagos em decorrência da ação trabalhista.
+6. Por diligência, a fim de viabilizar o acesso às instâncias superiores, explicito que a decisão não contraria, nem nega vigência às disposições legais/constitucionais prequestionadas pelas partes.
+7. Recurso de Apelação provido.
+Os embargos de declaração opostos foram rejeitados (fls. 1.983-1.984).
+A agravante sustenta negativa de prestação jurisdicional, visto que o acórdão recorrido não teria enfrentado a tese sobre a responsabilidade civil da Caixa Econômica Federal (tomadora de serviços) pelo desvio de função imposto a empregado terceirizado, questão suscitada nos embargos de declaração e relevante para a solução da lide, o que configuraria violação ao artigo 1.022 do Código de Processo Civil e nulidade nos termos do artigo 1.013, §3º, inciso IV, do mesmo diploma.
+Argumenta, ainda, que a controvérsia é estritamente jurídica, envolvendo a interpretação dos artigos 58, III, 66 e 67 da Lei n. 8.666/1993 e dos artigos 422, 927, 932, III, e 934 do Código Civil, de modo que não incide a Súmula n. 7/STJ, porquanto se pretende apenas a revaloração jurídica de fatos já fixados pelas instâncias ordinárias.
+Quanto ao dissídio jurisprudencial, afirma ter cumprido os requisitos dos artigos 1.029, §1º, do Código de Processo Civil e 255 do Regimento Interno do Superior Tribunal de Justiça, com indicação de julgados paradigmas, reprodução de fundamentos e cotejo analítico, destacando acórdão em que se reconheceu a responsabilidade civil do banco por desvio de função de terceirizado, apesar da coisa julgada trabalhista, com condenação ao pagamento de R$ 119.599,12, evidenciando similitude fática e solução jurídica divergente.
+Requer o provimento do agravo interno, para o conhecimento do recurso especial e seu processamento, com afastamento da Súmula n. 7/STJ, ou, subsidiariamente, a submissão ao colegiado e o retorno dos autos ao tribunal de origem para saneamento da negativa de prestação jurisdicional.
+A agravada apresentou contraminuta (fls. 2.069-2.082).
+É, no essencial, o relatório.
+Cinge-se a controvérsia a definir se a pretensão de ressarcimento fundada em ilícito contratual e boa-fé objetiva, por uso indevido de mão de obra terceirizada, pode ser apreciada e acolhida na esfera cível independentemente do regime de responsabilidade subsidiária fixado na Justiça do Trabalho, ou se prevalece a orientação de que, tendo a devedora principal adimplido a condenação trabalhista e inexistindo cláusula de ressarcimento, não há ação regressiva/indenizatória contra o tomado.
+Após atenta análise dos autos, verifica-se que a matéria merece melhor exame, sem prejuízo de futuro reexame dos pressupostos de admissibilidade recursal.
+Ante o exposto, torno sem efeito a decisão de fls. 2.047-2.051 e julgo prejudicado o agravo interno.
+Determino a autuação do agravo como recurso especial, nos termos do art. 34, XVI, do RISTJ.
+À Coordenadoria para as providências cabíveis.
+Publique-se. Intimem-se.
+ EMENTA
