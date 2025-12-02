@@ -1,0 +1,56 @@
+DECISÃO
+Cuida-se de agravo interposto por ELIANE DE OLIVEIRA SANTOS e SIVONALDO FERREIRA DOS SANTOS contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 166):
+"Ação de rescisão de contrato particular de compromisso de compra e venda de imóvel, cumulada com pedidos de devolução de valores e de pagamento de multa - Procedência parcial da pretensão, rejeitado o pedido referente à multa - Reconhecimento pelos apelantes da validade da citação efetuada em outro processo envolvendo as mesmas partes - Ato citatório que se deu nos mesmos moldes na presente ação - Tese de nulidade da citação prejudicada, sob pena de incidência da conduta em abuso de direito pela contrariedade do princípio ético de regência do sistema positivo, nemo potest venire contra factum proprium (a ninguém é dado contrariar os seus próprios atos) - Enfrentamento pelo juízo singular, todavia, da tese suscitada pelos apelantes - Contrato claro sobre o imóvel objeto da transação, o qual deveria estar completamente livre e desembaraçado de quaisquer ônus - Venda a terceiro com a posterior alienação fiduciária a instituição financeira - Ausência de inserção no contrato a respeito da utilização deste bem somente a título de garantia do negócio jurídico - Inadimplemento caracterizado - Culpa exclusiva dos réus/vendedores - Cabimento da devolução da entrada - Incognoscibilidade da questão atrelada à multa diante da rejeição expressa do pedido na origem - Falta de interesse recursal - Manutenção da disciplina da sucumbência imposta aos réus em razão do decaimento ínfimo e da aplicação do princípio da causalidade - Sentença mantida - Recurso conhecido, em parte, e não provido."
+Rejeitados os embargos de declaração opostos (fls. 212-215).
+No recurso especial, o recorrente alega que o acórdão contrariou as disposições contidas nos artigos 238 e 239 do Código de Processo Civil, porquanto porquanto reconheceu como válida citação realizada em endereço no qual já não residiam e recebida por terceiro não identificado, apesar da prova documental de mudança de domicílio e do prejuízo decorrente da revelia e da impossibilidade de apresentação de contestação.
+Aponta divergência jurisprudencial com arestos de outros tribunais.
+Foram oferecidas contrarrazões ao recurso especial (fls. 241-280).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 288-290), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo (fl. 327).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A irresignação não merece prosperar.
+Inicialmente, afasto a alegação de negativa de prestação jurisdicional e ausência de fundamentação.
+Com efeito, o Tribunal de origem, com base no amplo exame dos fatos e das provas acostadas aos autos, concluiu que a citação foi regular, porquanto realizada nos mesmos moldes de diligência anterior havida entre as mesmas partes e expressamente reputada válida pelos próprios réus, aplicando-se, na hipótese, o princípio nemo potest venire contra factum proprium, bem como assentou que a procedência da demanda não decorreu da revelia, mas do convencimento formado a partir da análise do mérito, inexistindo prejuízo ao exercício da ampla defesa, razão pela qual manteve a sentença nos seus exatos termos.
+É o que se extrai dos seguintes trechos (fl. 167):
+"Por primeiro, verifica-se que nos autos do processo de cobrança n. 1002586-87.2020.8.26.0229, envolvendo as mesmas partes, foi efetuada a citação na Avenida Santana, 1.990, Jardim Golden Park Residence, Hortolândia/SP, constando terceiro como recebedor das cartas, págs. 32/33, tendo os apelantes afirmado a validade desta citação na apelação, pág. 137.
+E, na espécie, efetuada a citação nos mesmos moldes no presente feito, págs. 42/43, prejudicada a tese de nulidade do ato citatório, ainda que recebida a carta por terceiro, sob pena de incidência da conduta em abuso de direito pela contrariedade do princípio ético de regência do sistema positivo, nemo potest venire contra factum proprium (a ninguém é dado contrariar os seus próprios atos).
+No mais, a despeito do reconhecimento da regularidade da citação na sentença, o juízo singular acabou enfrentando os argumentos deduzidos pelos apelantes no sentido de que o imóvel objeto da venda não se confunde com aquele constante do contrato, condição aceita pelos compradores/apelados, servindo apenas para garantia do negócio.
+Nesse sentido, prevalece o entendimento firmado na origem no aspecto de que o contrato foi claro sobre o objeto da transação, - lote de terreno n. 22-A, da quadra W, resultado da subdivisão do lote n. 22, da mesma quadra, do loteamento denominado Jardim Novo Cambuí -, constando da cláusula I que os apelantes eram legítimos proprietários e possuidores deste bem, o qual se encontrava completamente livre e desembaraçado de quaisquer ônus, págs. 11/12, de modo que, comprovada a venda a terceiro, com a subsequente alienação fiduciária à Caixa Econômica Federal, pág.18, ficou mesmo caracterizado o inadimplemento contratual por parte dos vendedores, inclusive porque não inserida qualquer cláusula no contrato informando o ajuste suscitado por eles."
+Confira-se, ainda, excerto do acórdão que julgou os embargos de declaração (fl. 214):
+"Ainda, deve ser observado o fato de que a procedência da ação não se fundou exclusivamente na revelia, mas sim, e acima de tudo, no convencimento do juízo acerca dos fatos narrados na inicial, como bem consignado na sentença, pág. 100, tendo o juízo singular analisado os argumentos suscitados pelos embargantes, inexistindo qualquer prejuízo à defesa deles, entendimento mantido no acórdão embargado, ocasião em que foi avaliada, igualmente, a tese defensiva:"
+Assim, o entendimento acima firmado encontra respaldo na jurisprudência desta Corte, que veda à parte o comportamento contraditório - princípio do venire contra factum proprium.
+Nesse sentido, cito:
+PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. ALEGAÇÃO GENÉRICA. DEFICIÊNCIA DA FUNDAMENTAÇÃO. SÚMULA 284/STF. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. JUROS REMUNERATÓRIOS. LIMITAÇÃO. POSSIBILIDADE. COMPORTAMENTO CONTRADITÓRIO. VEDAÇÃO LEGAL. AGRAVO INTERNO DESPROVIDO.
+ .. .
+4. "É firme, no âmbito do STJ, a compreensão de que é vedado o comportamento contraditório (venire contra factum proprium), a impedir que a parte, após praticar ato em determinado sentido, venha a adotar comportamento posterior contraditório" (AgInt nos EDcl no R Esp 1.759.517/SP, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 5/9/2022, DJe de 12/9/2022).
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.624.542/RS, relator MINISTRO RAUL ARAÚJO, QUARTA TURMA, julgado em 4/3/2024, DJe de 11/3/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SIMULAÇÃO. NULIDADE. DOLO. MÁ-FÉ. RECONHECIMENTO NA ORIGEM. IMPOSSIBILIDADE. PRIVILEGIAR. COMPORTAMENTO CONTRADITÓRIO. VENIRE CONTRA FACTUM PROPRIUM. REVISÃO. INCIDÊNCIA. SÚMULA Nº 7/STJ. ENRIQUECIMENTO ILÍCITO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 282/STF.
+ .. .
+4. Tendo o tribunal de origem afastado a possibilidade de declarar a nulidade do negócio jurídico em virtude do dolo praticado pelo recorrente, não há como acolher a pretensão recursal sem o revolvimento das circunstâncias fáticas dos autos, procedimento vedado devido ao óbice da Súmula nº 7/STJ.
+5. A jurisprudência do Superior Tribunal de Justiça é firme quanto à aplicação dos princípios da segurança jurídica e da boa-fé objetiva, bem como da vedação ao comportamento contraditório (venire contra factum proprium), a impedir que a parte, após praticar ato em determinado sentido, venha a adotar comportamento posterior e contraditório.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 1.981.356/MG, relator MINISTRO RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 22/8/2022, DJe de 26/8/2022.)
+Incide, in casu, a Súmula n. 83/STJ.
+Ademais, alterar o decidido no acórdão impugnado, no que se refere à premissa de que a citação no presente feito teria ocorrido "nos mesmos moldes" daquela realizada em outro processo entre as partes, demanda a reavaliação das circunstâncias concretas de cada ato citatório, inclusive quanto ao endereço efetivo, ao recebimento por terceiro e à ciência dos recorrentes, o que importa no reexame de fatos e provas, providência vedada em recurso especial, nos termos da Súmula n. 7/STJ.
+A propósito, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO. INSURGÊNCIA RECURSAL DO EMBARGANTE.
+1. A parte agravante refutou, nas razões do agravo em recurso especial, a deficiência de cotejo analítico, não incidindo, portanto, o óbice da Súmula 182/STJ.
+2. Nos termos do entendimento desta Corte, a validade da citação de pessoa física pelo correio está vinculada à entrega da correspondência registrada diretamente ao destinatário, cuja assinatura deve constar do aviso de recebimento, sob risco de nulidade do ato.
+2.2. Na hipótese, o Tribunal a quo consignou que não houve comprovação de que o recorrente residisse em local distinto daquele informado nos autos quando da citação. Para alterar tais conclusões, seria necessário o reexame do contexto fático-probatório dos autos, providência vedada pela Súmula 7/STJ.
+2.3. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+3. Agravo interno provido para reconsiderar a decisão da Presidência e, de plano, conhecer do agravo para negar provimento ao recurso especial.
+(AgInt no AREsp n. 2.328.911/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 4/9/2023, DJe de 8/9/2023.)
+Por último, está prejudicado o recurso especial pela alegação de divergência jurisprudencial, pois a incidência do óbice das Súmulas 7 e 83 do STJ à interposição pela alínea "a" do permissivo constitucional conduz à incognoscibilidade recursal também no tocante à alínea "c".
+A propósito, cito:
+CIVIL E CONSUMIDOR. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. OMISSÃO INEXISTENTE. SÚMULA N. 7/STJ. SÚMULA N. 83/STJ. DECISÃO MANTIDA.
+(..)
+4. É firme a jurisprudência desta Corte de que a Súmula 83/STJ não se aplica apenas aos recursos especiais interpostos com fundamento na alínea "c" do art. 105, III, da CF, sendo aplicável também aos recursos fundados na alínea "a".
+Agravo interno improvido.
+(AgInt no AREsp n. 2.234.376/RJ, relator Ministro Humberto Martins, Terceira Turma, julgado em 27/11/2023, DJe de 30/11/2023)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 12% sobre o valor atualizado da condenação, observada eventual concessão da gratuidade de justiça.
+Publique-se. Intime-se.
+ EMENTA
