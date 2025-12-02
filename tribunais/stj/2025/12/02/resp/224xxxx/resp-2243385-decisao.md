@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, inc. III, "a", da Constituição Federal, contra acórdão proferido pelo TRF4 assim ementado (fl. 939):
+PROCESSO CIVIL E TRIBUTÁRIO. AÇÃO RESCISÓRIA. CABIMENTO. EXCLUSÃO DO ICMS DA BASE DE CÁLCULO DO PIS E DA COFINS. RE 574.706. TEMA 69. MODULAÇÃO DE EFEITOS.
+1- Reconhece-se o cabimento de ação rescisória para adequar decisão que contrariou entendimento fixado pelo Supremo Tribunal Federal, por ocasião da modulação de julgamento proferido em sede de Repercussão Geral (RE 574.706), desde que respeitado o prazo previsto na legislação processual em vigor;
+2. Conforme entendimento firmado pela Suprema Corte, é devida a exclusão do ICMS destacado em notas fiscais da base de cálculo do PIS e da COFINS a partir de 15/03/2017, ressalvadas as ações judiciais e administrativas protocoladas até a data da sessão em que proferido o julgamento;
+3. Ação rescisória julgada procedente para adequar o acórdão deste Tribunal à modulação de efeitos efetivada em sede de embargos de declaração.
+A recorrente alega violação do art. 85, caput, do CPC/2015, sob os seguintes argumentos: a) a matéria a que se refere o presente recurso envolve a definição do cabimento de honorários advocatícios em sede de ação rescisória proposta com fundamento em ofensa a norma jurídica, ofensa essa caracterizada pela discrepância entre a decisão rescindenda e precedente vinculante do STF; b) a condenação da parte vencida ao pagamento de honorários advocatícios é um imperativo de ordem legal, que somente pode ser afastado por força de lei; c) na espécie, a ação rescisória proposta pela União consubstancia o único instrumento jurídico possível para obter o bem jurídico pretendido, sendo que a inexistência de outros meios processuais para alterar a situação jurídica estabelecida entre as partes torna nítida a aplicabilidade da regra geral, prevista no mencionado dispositivo legal.
+Com contrarrazões.
+Juízo positivo de admissibilidade à fl. 1052.
+É o relatório. Passo a decidir.
+Consigna-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele prevista, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, evidencia-se que, no que diz respeito ao art. 85, caput, do CPC/2015 e à tese a ele vinculada, não houve juízo de valor por parte da Corte de origem, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se ao caso a Súmula 282/STF.
+Outrossim, no que diz respeito à alegação de ofensa ao art. 85, caput, do CPC/2015, a pretensão é ainda inadmissível porque a recorrente não impugnou o fundamento do acórdão recorrido segundo o qual a condenação da parte contrária em sucumbência não é possível "(..) não apenas em decorrência da limitação da alteração aos parâmetros temporais, tão somente, mas, especialmente, porque esta se deu por força de posterior interpretação da Suprema Corte, de forma que a autora da demanda originária estava amparada em entendimento consolidado, tanto que o resultado lhe foi favorável." (fl. 938). Essa situação enseja a aplicação da Súmula 283/STF.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO DO DISPOSITIVO TIDO POR VIOLADO. SÚMULA 282/STF. ACÓRDÃO COM FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. RECURSO ESPECIAL NÃO CONHECIDO.
