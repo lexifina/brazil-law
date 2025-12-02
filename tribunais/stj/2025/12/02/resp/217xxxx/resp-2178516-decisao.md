@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso especial interposto por JONATHAN DA SILVA RODRIGUES, fundamentado no art. 105, inciso III, alínea "a", da Constituição da República, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais proferido no julgamento da Apelação Criminal n. 1.0000.23.277952-0/001.
+Consta nos autos que o recorrente foi condenado como incurso no art. 33, caput, da Lei 11.343/2006, c/c o art. 61, inciso I, do Código Penal, à pena de 7 (sete) anos, 3 (três) meses e 15 (quinze) dias de reclusão, em regime inicial fechado, e ao pagamento de 729 (setecentos e vinte e nove) dias-multa.
+Irresignada, insurgiu-se a Defesa. O Tribunal de origem, por unanimidade, deu parcial provimento ao recurso apenas para redimensionar a pena do réu para 6 (seis) anos de reclusão e 620 (seiscentos e vinte) dias-multa, mantido o regime inicial fechado.
+Os subsequentes embargos de declaração opostos pela Defesa foram rejeitados.
+Nas razões do recurso especial, sustenta-se contrariedade aos arts. 157, caput e § 1º; 240, caput e § 2º, e 244, todos do Código de Processo Penal. Alega-se que a legitimidade da busca pessoal não se sustenta quando fundamentada exclusivamente em denúncias anônimas ou na percepção subjetiva dos agentes policiais; e que elementos como a aparência do indivíduo ou um suposto nervosismo não constituem, por si sós, elementos concretos que satisfaçam a exigência legal de fundada suspeita e justa causa.
+Requer-se, ao final, que seja reconhecida a ilicitude da busca pessoal, com a consequente absolvição do recorrente.
+O recurso especial foi admitido às fls. 563-566.
+Contrarrazões às fls. 558-560.
+O Ministério Público Federal manifestou-se às fls. 579-583, opinando pelo parcial conhecimento do recurso e, nessa extensão, pelo não provimento da insurgência.
+É o relatório.
+Decido.
+No caso concreto, o Tribunal de origem reconheceu a regularidade da diligência que resultou na apreensão de drogas em posse do recorrente , ressaltando os seguintes aspectos (fls. 482-483):
+A defesa arguiu a preliminar de nulidade da busca pessoal do acusado, por entender que o motivo da revista pessoal teria sido exclusivamente a mudança de direção do recorrente quando da visualização da guarnição.
+É cediço que, diferentemente da busca e apreensão domiciliar, a busca pessoal independe de mandado judicial, podendo ser realizada no rol de dos casos previstos no art. 240, §1º, do Código de Processo Penal, estabelecendo o §2º do referido artigo que:
+(..)
+O disposto no art. 240, §2º, do Código de Processo Penal não estabelece o que é "fundada suspeita", ficando a critério discricionário do agente policial avaliar a situação. Não está se dizendo que o policial possa agir de forma arbitrária, mas que é permitido realizar a diligência quando se convencer que há indício da pratica de crime, o que é o caso dos autos.
+No caso em exame, conforme verifico do Auto de Prisão em Flagrante Delito, do Boletim de Ocorrência e da prova testemunhal produzida em juízo, os policias militares, durante a operação realizada na Praça da Upa Ressaca, em razão de denúncia anônima (DDU 4080223C - fls. 51/52) de que naquele local estava ocorrendo o tráfico de drogas, visualizaram o acusado no meio da praça, tendo ele ao avistá-los se esquivado e guardado algo em sua boca, que, após a abordagem policial, restou constatado que se tratava de dois pinos de cocaína, além das drogas (dez pinos) e dinheiro que foram encontrados na bolsa que portava.
+Além disso, próximo ao ponto onde o acusado foi visto inicialmente, foi achada uma mochila contendo pinos de cocaína e buchas de maconha, além de uma arma de fogo municiada, que foram arrecadados.
+Logo, entendo não haver ilegalidade no procedimento policial e consequente licitude dos elementos probatórios colhidos, pois a busca pessoal se deu com base em fundadas suspeitas de que o acusado estava praticando o crime de tráfico de drogas, não só pelo seu comportamento, como também por estar ele em local indicado na denuncia anônima de que estava ocorrendo o comércio ilegal de entorpecentes, como relatado pelos policiais em juízo.
+Assim, a atitude dos policiais foi adequada às determinações do art. 240, §2º, do Código de Processo Penal. (..)
+De acordo com o art. 244 do Código de Processo Penal, a busca pessoal poderá ser realizada, independente de mandado judicial, nas hipóteses de prisão em flagrante ou quando houver suspeita de que o agente esteja na posse de arma proibida ou de objetos ou papéis que constituam corpo de delito ou, ainda, quando a medida for determinada no curso de busca domiciliar.
+A propósito, nas palavras do Ministro GILMAR MENDES, se um agente do Estado não puder realizar abordagem em via pública a partir de comportamentos suspeitos do alvo, tais como fuga, gesticulações e demais reações típicas, já conhecidas pela ciência aplicada à atividade policial, haverá sério comprometimento do exercício da segurança pública (RHC n. 229.514/PE, julgado em 28/8/2023) (AgRg no HC n. 854.674/AL, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/10/2023, DJe de 25/10/2023).
+Logo, é valida a prova colhida quando há elementos objetivos que indiquem estar o agente possivelmente ocultando a prática de algo ilícito.
+A "fundada suspeita" a que alude o art. 244 do CPP constitui um juízo de probabilidade, que deve ser lastreado em elementos objetivos e concretos que sinalizem a ocorrência de um ilícito.
+No caso em exame, a partir do quadro fático delineado pelo Tribunal de origem (cuja revisão é inviável no âmbito do recurso especial, devido à necessidade de aprofundada análise de provas), verifica-se que a busca pessoal ocorreu porque, durante a operação realizada em uma praça, a partir de denúncia anônima, os agentes visualizaram o acusado, o qual, ao avistá-los, esquivou-se e guardou algo em sua boca, constatando-se, após a abordagem policial, tratar-se de dois pinos de cocaína. Tal circunstância amolda-se perfeitamente ao conceito de justa causa. Destaca-se que a situação é distinta daquela amparada em denúncias genéricas ou na mera percepção subjetiva dos agentes de segurança.
+Mutatis mutandis:
+DIREITO PROCESSUAL PENAL. RECURSO ESPECIAL. TRÁFICO DE DROGAS. PLEITO DE NULIDADE DA ABORDAGEM POLICIAL. FUNDADAS RAZÕES PARA A BUSCA PESSOAL. JUSTA CAUSA CONFIGURADA. ACUSADO FOI VISTO ENTREGANDO ALGO A OUTRO INDIVÍDUO EM LOCAL CONHECIDO PELA PRÁTICA DE NARCOTRÁFICO E, AO PERCEBER A PRESENÇA DA VIATURA, TENTOU MUDAR DE DIREÇÃO PARA EVITAR A POLÍCIA. ILEGALIDADE NÃO DEMONSTRADA. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULAS 83 E 7/STJ. RECURSO ESPECIAL DESPROVIDO.
+I. CASO EM EXAME
+1. Recurso especial interposto por Emanuel Rodrigues Geraldo contra acórdão do Tribunal de Justiça do Estado do Paraná que manteve a condenação do recorrente pelo crime de tráfico de drogas. A defesa sustenta a nulidade das provas obtidas em razão de alegada ilegalidade da abordagem policial.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão:
+(i) verificar a legalidade da abordagem e busca pessoal realizadas pelos policiais com base em fundada suspeita;
+(ii) avaliar se a revisão da decisão impugnada demandaria reexame de matéria fático-probatória, o que é vedado em sede de recurso especial.
+III. RAZÕES DE DECIDIR
+3. O Tribunal de origem concluiu que a abordagem policial foi motivada por fundada suspeita, com base em comportamento suspeito do recorrente, que foi flagrado entregando algo a outro indivíduo em local conhecido pela prática de narcotráfico e, ao perceber a presença da viatura, tentou mudar de direção para evitar a polícia.
+4. A fundada suspeita justifica a realização da busca pessoal, conforme o art. 244 do Código de Processo Penal, especialmente diante das circunstâncias concretas narradas, que indicavam possível flagrante delito.
+5. A jurisprudência do STJ reconhece que alterações de comportamento, como fuga ou tentativas de evasão ao avistar policiais, associadas a outros elementos contextuais, configuram justa causa para abordagem e busca pessoal (AgRg no HC n. 845.453/SP e AgRg no RHC n. 186.219/GO).
+6. A pretensão de reverter as conclusões do Tribunal de origem quanto à configuração da justa causa para a abordagem e à legalidade das provas obtidas exigiria reexame do acervo fático-probatório, o que é vedado em recurso especial, conforme a Súmula 7/STJ.
+7. O entendimento adotado pelo acórdão recorrido está em harmonia com a jurisprudência consolidada do STJ sobre o tema, atraindo a incidência da Súmula 83/STJ. IV. RECURSO ESPECIAL DESPROVIDO.
+(REsp n. 2.154.905/PR, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 18/2/2025, DJEN de 25/2/2025; grifamos.)
+Desse modo, estando o acórdão recorrido em consonância com a jurisprudência do Superior Tribunal de Justiça, incide a Súmula n. 568/STJ, segundo a qual o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
