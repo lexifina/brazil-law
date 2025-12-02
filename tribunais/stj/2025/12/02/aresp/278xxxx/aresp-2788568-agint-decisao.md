@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interno interposto contra decisão que não conheceu do agravo em recurso especial, em razão da ausência de impugnação específica à decisão de admissibilidade proferida pela Corte de origem.
+O agravante alega, em síntese, que, nas razões do agravo em recurso especial, impugnou de forma específica os fundamentos de inadmissibilidade adotados pelo Tribunal de origem, especialmente quanto à incidência das Súmulas 7 e 83 do STJ, o que, em seu entendimento, deveria ensejar a admissão do recurso especial interposto.
+Com impugnação.
+É o relatório. Passo a decidir.
+Em melhor análise, observa-se que a argumentação apresentada pela parte agravante merece acolhida, razão pela qual reconsidero a decisão de fls. 1862-1863e e procedo novo exame da questão.
+O BANCO INTERAMERICANO DE DESENVOLVIMENTO interpôs agravo contra decisão da Corte de origem que não admitiu o recurso especial. O apelo nobre obstado enfrenta acórdão, assim ementado:
+PROCESSUAL CIVIL. AÇÃO POPULAR. INTERVENÇÃO DO MINISTÉRIO PÚBLICO. NECESSIDADE. 1. É nula a sentença proferida em autos de ação popular em que não foi oportunizada a intervenção do Ministério Público.
+Embargos de declaração rejeitados.
+No recurso especial, o recorrente alega violação dos arts. 1.022, II, e 489, § 1º, incisos I a IV, do CPC/2015, ao sustentar que a Corte de origem deixou de se manifestar sobre pontos essenciais ao deslinde da controvérsia, notadamente quanto à intimação do Ministério Público Federal em momento oportuno e à ocorrência da prescrição da pretensão do recorrido, matérias que poderiam influir no resultado do julgamento.
+Aduz, ainda, divergência jurisprudencial e ofensa aos arts. 6º, § 4º, e 7º, I, "a", da Lei n. 4.717/65 (Lei de Ação Popular), ao argumentar que a intimação do Ministério Público Federal somente seria necessária quando do recebimento da petição inicial. No caso concreto, sustenta que, tendo a inicial sido indeferida liminarmente, era desnecessária a intimação prévia do órgão ministerial antes da prolação da sentença de indeferimento.
+Por fim, afirma violação aos arts. 21 da Lei n. 4.717/65 e 487, II, do CPC/2015, ao afastar-se a alegação de prescrição, por entender que a ação foi ajuizada após o transcurso do prazo de cinco anos do suposto ato lesivo.
+Com contrarrazões.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Neste recurso, o recorrente busca, entre outras questões, a anulação do acórdão proferido pela Corte de origem em sede de embargos de declaração, sustentando violação ao art. 1.022 do CPC, pois persistiriam omissões relevantes não supridas pelo órgão julgador.
+Conforme se verifica dos autos, o recorrente expressamente requereu, em contrarrazões à apelação (fls. 925-929e), manifestação acerca da ocorrência de prescrição da pretensão veiculada na ação popular. Diante da ausência de pronunciamento sobre o ponto no acórdão de apelação, o agravante opôs embargos de declaração, buscando que a Corte regional sup risse a omissão (fl. 1586e). Todavia, os embargos de declaração foram rejeitados sem que o Tribunal de origem enfrentasse a matéria suscitada, persistindo a omissão apontada.
+A controvérsia apresenta relação lógico-jurídica direta com a pretensão deduzida na ação e revela-se imprescindível à adequada prestação jurisdicional.
+A ausência de manifestação sobre questão necessária à resolução integral da demanda configura violação ao artigo 1.022 do CPC, enseja a anulação do acórdão proferido em sede de embargos de declaração e torna indispensável o rejulgamento dos aclaratórios. A propósito: AgInt no REsp 1.394.325/RJ, Rel. Min. Herman Benjamin, Segunda Turma, DJe 30/11/2016; AgRg no REsp 1.221.403/RS, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 23/8/2016; AgRg no REsp 1.407.552/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 3/3/2016.
+Ante o exposto, dou provimento ao agravo interno, para, em juízo de retratação, tornar sem efeito a decisão anteriormente proferida, e conheço do agravo para dar provimento ao recurso especial, para declarar a nulidade do acórdão proferido em sede de embargos de declaração, determinando que a Corte de origem profira novo julgamento, suprindo os vícios apontados.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO ART. 1.022, II, DO CPC. OMISSÃO CARACTERIZADA. RECURSO ESPECIAL PROVIDO.
