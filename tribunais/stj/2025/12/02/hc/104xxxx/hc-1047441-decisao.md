@@ -1,0 +1,71 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de RAFAEL RODRIGUES DE JESUS em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA.
+Consta dos autos que o paciente foi condenado, como incurso nas sanções do art. 129, § 3º, do Código Penal, a 4 anos e 6 meses de reclusão no regime inicialmente semiaberto.
+Interposta apelação, o recurso defensivo foi parcialmente provido para afastar as circunstâncias judiciais negativas, fixando a pena-base no mínimo legal, ficando a pena definitiva estabelecida em 4 anos de reclusão, mantidos os demais termos da condenação.
+A impetrante sustenta a existência de constrangimento ilegal em decorrência do reconhecimento da agravante da reincidência, a despeito de não ter sido realizado debate sobre o tema no Plenário do Júri, o que contraria a jurisprudência do Superior Tribunal de Justiça.
+Alega que estão presentes os requisitos da figura privilegiada da lesão corporal, prevista no art. 129, § 4º, do Código Penal, devendo a pena ser reduzida na fração máxima de 1/3.
+Requer, liminarmente, o reconhecimento das ilegalidades apontadas, suspendendo-se os efeitos da condenação até o julgamento final do writ. No mérito, pugna pela concessão da ordem para que seja afastada a agravante da reincidência, bem como seja reconhecido o privilégio, com o redimensionamento da pena e a consequente fixação do regime aberto.
+Indeferida a liminar, o Ministério Público manifestou-se pelo não conhecimento, mas concessão do habeas corpus para excluir a incidência da agravante da reincidência.
+É o relatório.
+O Superior Tribunal de Justiça entende ser inviável a utilização do habeas corpus como sucedâneo de recurso próprio, previsto na legislação, impondo-se o não conhecimento da impetração.
+Sobre a questão, confiram-se os seguintes julgados desta Corte Superior:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE. ABSOLVIÇÃO IMPETRAÇÃO DE HABEAS CORPUS NA FLUÊNCIA DO PRAZO PARA A INTERPOSIÇÃO DE RECURSOS NA ORIGEM. IMPOSSIBILIDADE.
+1. "O writ foi manejado antes do dies ad quem para a interposição da via de impugnação própria na causa principal, o recurso especial. Dessa forma, a impetração consubstancia inadequada substituição do recurso cabível ao Superior Tribunal de Justiça, não se podendo excluir a possibilidade de a matéria ser julgada por esta Corte na via de impugnação própria, a ser eventualmente interposta na causa principal" (AgRg no HC n. 895.954/DF, relator Ministro Otávio de Almeida Toledo - Desembargador Convocado do TJSP, Sexta Turma, julgado em 12/8/2024, DJe de 20/8/2024.)
+2. Agravo regimental desprovido.
+(AgRg no HC n. 939.599/SE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 23/10/2024, DJe de 28/10/2024 - grifo próprio.)
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. CONDENAÇÃO TRANSITADA EM JULGADO. IMPOSSIBILIDADE DE UTILIZAÇÃO DO HABEAS CORPUS COMO SUCEDÂNEO DE REVISÃO CRIMINAL. AGRAVO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto por Pablo da Silva contra decisão monocrática que não conheceu de habeas corpus, com base no entendimento de que o habeas corpus foi utilizado em substituição a revisão criminal. O agravante foi condenado a 1 ano de reclusão, com substituição da pena por restritiva de direitos, pela prática de furto (art. 155, caput, CP). A defesa pleiteou a conversão da pena restritiva de direitos em multa, alegando discriminação com base na condição financeira do paciente.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se é cabível o conhecimento do habeas corpus utilizado em substituição à revisão criminal; e (ii) estabelecer se a escolha da pena restritiva de direitos, em vez de multa, configura discriminação por condição financeira.
+III. RAZÕES DE DECIDIR
+3. O habeas corpus não é admitido como substituto de revisão criminal, conforme a jurisprudência consolidada do STJ e do STF, ressalvados casos de flagrante ilegalidade.
+4. Não houve demonstração de ilegalidade evidente na escolha da pena restritiva de direitos, sendo esta compatível com a natureza do crime e as condições pessoais do condenado.
+IV. DISPOSITIVO E TESE
+5. Agravo regimental desprovido.
+Tese de julgamento:
+1. O habeas corpus não pode ser utilizado como substituto de revisão criminal, salvo em casos de flagrante ilegalidade.
+2. A escolha de pena restritiva de direitos, em substituição à privativa de liberdade, não configura discriminação por condição financeira, desde que adequadamente fundamentada.
+Dispositivos relevantes citados: Código Penal, art. 155; STJ, AgRg no HC 861.867/SC; STF, HC 921.445/MS.
+(AgRg no HC n. 943.522/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 22/10/2024, DJe de 4/11/2024 - grifo próprio.)
+Portanto, não se pode conhecer da impetração.
+Em atenção ao disposto no art. 647-A do CPP, verifico que o julgado impugnado possui ilegalidade flagrante que permite a concessão da ordem de ofício, conforme se depreende da fundamentação a ser exposta a seguir.
+Assim constou do acórdão (fls. 55-56):
+Na segunda fase da dosimetria, foi reconhecida a agravante da reincidência, em razão de condenação anterior transitada em julgado nos autos n. 0010966-40.2015.8.24.0038.
+O recorrente objetiva a exclusão da referida agravante, sob o argumento de que a reincidência não foi objeto de debates durante a Sessão do Tribunal do Júri.
+Contudo, a reincidência possui natureza objetiva, prescindindo de valoração pelos jurados e podendo ser reconhecida diretamente pelo Juízo. Com efeito, "o reconhecimento da agravante da reincidência não depende do impulso da Acusação, tornando desnecessária a sua menção nos debates" (Apelação Criminal n. 5046509-43.2020.8.24.0038, rel. Des. Norival Acácio Engel, j. em 29- 04-2025).
+ ..
+Portanto, reputa-se adequada a aplicação da agravante da reincidência, a qual se compensa com a atenuante da confissão espontânea, reconhecida na sentença, razão pela qual fica a pena intermediária estabelecida em 4 anos de reclusão.
+ ..
+Indo adiante, o recorrente aduz a necessidade do reconhecimento da forma privilegiada do crime, pois agiu sob o domínio de violenta emoção, após injusta provocação da vítima.
+Segundo o art. 129, § 4º, do CP, "Se o agente comete o crime impelido por motivo de relevante valor social ou moral ou sob o domínio de violenta emoção, logo em seguida a injusta provocação da vítima, o juiz pode reduzir a pena de um sexto a um terço".
+Na fase policial, Sérgio Luiz Gonçalves relatou que a vítima chegou à residência de Germano visivelmente alterada, sob efeito de álcool e drogas, e iniciou um desentendimento ao pedir cigarro. Diante da negativa, passou a xingar os presentes e ameaçá-lo, dizendo que o faria engolir um microfone. Em seguida, o réu chegou ao local, ouviu os insultos e, após breve troca de palavras, foi visto agredindo a vítima. Afirmou que o réu pediu que ele não se envolvesse e que a vítima estava debilitada fisicamente.
+Em juízo, Germano da Graça declarou que a vítima chegou à sua residência pedindo cigarro e, diante da negativa, solicitou dinheiro para comprar. Ao também receber recusa, passou a proferir xingamentos e ofensas, de modo que pediu para ele se retirasse, pois não queria confusão em sua casa. Nesse momento, o réu, que escutava a discussão da rua, aproximou-se e também pediu que a vítima se afastasse. Afirmou que a vítima passou então a insultar o réu e, logo em seguida, ambos se envolveram em agressão física na via pública, em frente à residência. Germano afirmou não ter presenciado o desfecho da briga, mas confirmou que os xingamentos antecederam imediatamente a reação do apelante.
+É cediço que "a configuração da lesão corporal privilegiada exige que o acusado atue motivado por relevante valor social, moral ou dominado pela violenta emoção. Nesta última hipótese, a reação deve ocorrer logo em seguida à injusta provocação da vítima" (Apelação Criminal n. 5003161-71.2020.8.24.0006, rel. Des. Sidney Eloy Dalabrida, j. em 30-04-2025).
+Como se pode ver, a prova testemunhal indica que a vítima proferiu xingamentos e ofensas, mas não há descrição concreta da natureza ou intensidade dessas palavras, tampouco qualquer elemento que demonstre que o réu foi tomado por emoção violenta a ponto de perder o controle. A testemunha Germano apenas referiu que houve insultos, sem especificar o conteúdo, o tom ou a repercussão emocional sobre o réu. Não há qualquer indicativo de abalo psicológico profundo, súbito e irresistível, para caracterização do privilégio.
+ ..
+Portanto, ausente demonstração concreta de que o réu foi dominado por violenta emoção, e não havendo especificidade quanto à provocação sofrida, não se reconhece a forma privilegiada do crime.
+Observa-se que o Tribunal de origem concluiu por manter a incidência da agravante da reincidência, tendo em vista que seria de natureza objetiva, prescindindo de deliberação dos jurados.
+Entretanto, a incidência da agravante não foi questão efetivamente debatida no Plenário do Tribunal do Júri e, por conseguinte, não poderia ter sido considerada na individualização da pena pelo Juiz Presidente, como se infere da redação do art. 492, I, b, do CPP.
+Esse entendimento não está em consonância com a jurisprudência do Superior Tribunal de Justiça, segundo a qual somente devem incidir na dosimetria da pena as circunstâncias agravantes e atenuantes que tenham sido objeto dos debates no Plenário do Tribunal do Júri:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO CONSUMADO E HOMICÍDIO TENTADO. INCIDÊNCIA DA AGRAVANTE DA REINCIDÊNCIA. NECESSIDADE DE DEBATE EM PLENÁRIO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O STJ tem decidido que, nos termos do art. 492, I, "b", do CPP, somente poderão ser consideradas pelo Juiz presidente, na formulação da dosimetria penal, as agravantes e atenuantes alegadas e debatidas em plenário, entendimento aplicável, inclusive, em relação à agravante prevista no art. 61, I, do CP.
+2. Agravo regimental não provido.
+(AgRg no HC n. 933.941/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 11/12/2024, DJEN de 16/12/2024.)
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. IMPUGNAÇÃO DEFICIENTE. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015, E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA 182/STJ. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. VIOLAÇÃO DOS ARTS. 385 E 492, I, B, DO CPP. HOMICÍDIO. TRIBUNAL DO JÚRI. PLEITO DE RESTABELECIMENTO DA AGRAVANTE PREVISTA NO ART. 61, II, F, DO CP. TRIBUNAL QUE DECOTOU A AGRAVANTE POR NÃO ESTAR DESCRITA NA DENÚNCIA E POR NÃO TER SIDO QUESITADA AOS JURADOS. DESNECESSIDADE. DEBATE EM PLENÁRIO SUFICIENTE. RECONHECIMENTO PELO JUIZ TOGADO. PRECEDENTES.
+1. Agravo regimental interposto contra a decisão que não conheceu do agravo em recurso especial da defesa e contra a decisão que deu provimento ao recurso especial da acusação.
+2. A decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos (EAREsp n. 831.326/SP, Rel. p/ acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018), inclusive de forma específica, suficiente e pormenorizada (AgRg no AREsp n. 1.234.909/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 2/4/2018).
+2.1. No caso, a defesa do agravante não impugnou todos os fundamentos da decisão que inadmitiu o recurso especial na origem.
+3. É cediço neste Sodalício que no procedimento do Tribunal do Júri, após a reforma promovida pela Lei n. 11.689/2008, as agravantes e atenuantes passaram a ser reconhecidas diretamente pelo juiz togado, sem necessidade de indagação aos jurados, bastando que sejam debatidas em plenário.
+3.1. No caso, a agravante relativa à coabitação foi sustentada pela acusação, conforme Ata da Sessão de Julgamento, razão pela qual correto o restabelecimento de sua incidência.
+4. Agravo regimental desprovido.
+(AgRg no REsp n. 1.946.263/RJ, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 18/9/2023, DJe de 21/9/2023.)
+Por outro lado, no tocante ao homicídio privilegiado, o Tribunal de origem afastou a figura com suporte nas provas dos autos, indicando que a prova oral não dava subsídio suficiente para concluir no que consistiriam os insultos proferidos pela vítima e em que medida teria impactado o ânimo do paciente, a fim de alicerçar a ação dominada por violenta emoção.
+Nesse mesmo sentido, ressaltou o Ministério Público Federal (fl. 782):
+Da leitura dos trechos supracitados, afasta-se, de plano, a possibilidade de aplicação da figura privilegiada da lesão corporal, pois não comprovado o elemento subjetivo do tipo, qual seja, o domínio de violenta emoção. Acerca do tema, a doutrina e a jurisprudência deste Tribunal da Cidadania são uníssonas ao estabelecer que o "domínio da violenta emoção" não se confunde com a mera influência ou com um estado de ira ou irritação passageira.
+Assim, " n o tocante ao reconhecimento do homicídio privilegiado, na espécie, o Tribunal local constatou a existência de provas em consonância com a conclusão dos jurados, no sentido que o paciente NÃO agiu sob o domínio de violenta emoção, logo em seguida a injusta provocação da vítima. Diante dessa situação, não há como se infirmar esse entendimento sem o reexame fático-probatório - inviável em habeas corpus -, e sem afronta à soberania dos veredictos (AgRg no HC n. 671.316/SC, relator Ministro JESUÍNO RISSATO (Desembargador convocado do TJDFT), Quinta Turma, julgado em 28/9/2021, DJe de 5/10/2021)" (AgRg no HC n. 737.744/PE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 14/11/2022, DJe de 18/11/2022.)
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus, porém concedo a ordem de ofício para determinar que o Tribunal de origem individualize novamente a pena aplicada ao paciente, observando-se os termos desta decisão.
+Comunique-se, com urgência, ao Tribunal de origem e ao Juízo de primeiro grau.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
