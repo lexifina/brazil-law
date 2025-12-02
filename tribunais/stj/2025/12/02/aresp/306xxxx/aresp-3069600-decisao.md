@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da ausência de violação dos arts. 489, § 1º, IV, e 1.022, II, do CPC (fls. 1.772-1.775).
+O acórdão recorrido encontra-se assim ementado (fl. 1.652):
+AGRAVO DE INSTRUMENTO - TUTELA DE URGÊNCIA - CONCESSÃO - REQUISITOS. Deve ser concedida a tutela de urgência quando, a um exame próprio da fase inicial, as alegações do autor se mostrarem verossímeis e quando, se não concedida a tutela, houver fundado receio de dano irreparável ou de difícil reparação para o postulante.
+Os embargos de declaração foram rejeitados (fls. 1.725-1.729).
+Nas razões do recurso especial (fls. 1.732-1.740), interposto com fundamento no art. 105, III, "a", da CF, a parte recorrente alegou violação dos arts. 489, § 1º, IV, e 1.022, II, do CPC, diante de omissão do Tribunal a quo na análise de todos argumentos deduzidos no agravo de instrumento, no qual alegado (fls. 1.733-1.734):
+(i) a extrapolação da tutela de urgência deferida aos próprios contornos da lide que versa sobre o pleito de acesso interno para manutenção do sistema de abastecimento de água (passagem por via interna em propriedade privada e não pela via pública, que seria mais distante) e pedido de averbação no cartório imobiliário do direito de passagem de aqueduto - caixa d"água e encanamentos e). A tutela deferida impediu a construção no imóvel como um todo e não apenas na área pequena do imóvel em que ocupam o aqueduto e encanamentos;
+(ii) O alegado atentado ao objeto litigioso decorreria de construções novas realizadas no imóvel. Contudo, comprovou-se que as "alterações" (capina/roça e marcação com piquetes) foram realizadas pelo proprietário do lote e não pela loteadora (que desde a entrega do loteamento ao Município) não possui mais ingerência sobre a área;
+(iii) Ausência de qualquer prova nos autos sobre o alegado perigo de que as obras realizadas pelo dono do imóvel (capina e demarcação co m piquetes) afetassem o abastecimento de água no condomínio vizinho;
+(iv) Ausência de atentado, pois a Agravante, que é parte na demanda, não procedeu com violação alguma de qualquer direito discutido nos autos;
+(v) A Agravante não poderia responder por atos de terceiro, ainda que a alienação dos lotes tenha se dado posteriormente ao ajuizamento da demanda (com comprovação nos autos da informação plena dada pelo loteadora ao terceiro, tanto da passagem do aqueduto, que é aparente, quando da ação e liminar deferida pelo Juízo). A norma do art. 109 do CC não respalda a responsabilidade civil por atos de terceiro, imposta pela r. decisão agravada. A norma mencionada acarreta apenas a extensão da coisa julgada ao terceiro adquirente de direito já litigioso quando da alienação. Não há neste caso solidariedade por ato ilícito eventualmente causado por terceiro;
+(vi) A multa cominada ultrapassa os limites do art. 81 e por ato que só pode ser causado por terceiro e não pela parte;
+(vii) Na demanda não se discute sobre o direito de passagem do aqueduto e encanamentos. A discussão é sobre registrabilidade do direito de passagem/direito de vizinhança e sobre se há direito em impor ao vizinho a passagem interna, quando há uma passagem por via pública que dá acesso ao sistema. Portanto, eventual violação quanto ao sistema de aqueduto, alteração do sistema, caso seja realizado por terceiro, constitui ato próprio, decorrente do direito de construção, que nada tem a ver com a discussão posta nos autos;
+(viii) A medida deferida de registrar nas matrículas dos imóveis a existência dos gravames deveria especificar a localização e trajeto dos encanamentos, conforme dirimido em perícia, não impugnada pelas partes, devendo se limitar a decisão de impedimento de construção a essa área.
+No agravo (fls. 1.779-1.783), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (fls. 1.788-1805).
+É o relatório.
+Decido.
+No caso, o Tribunal de origem manteve a tutela de urgência proposta em desfavor da agravante "para determinar que a requerida e eventuais terceiros suspendam quaisquer construções no imóvel litigioso até decisão final da lide ou ulterior deliberação do Juízo, sob pena de multa diária no importe de R$ 1.000,00 (mil reais) até o limite de R$ 50.000,00 (cinquenta mil reais), sem prejuízo de outras medidas assecuratórias ou equivalentes" (fl. 1.653).
+Para tanto, a Corte a quo se valeu dos seguintes fundamentos (fls. 1.656-1.657):
+No caso em análise, tais requisitos se fazem presentes.
+Busca a parte autora com a presente ação assegurar o acesso ao sistema de abastecimento de águas do condomínio através da rua Colibril.
+Alega que a parte ré deu início a alterações nos espaços utilizados pelos aquedutos e caixa d"água sem noticiar as obras nos autos, acrescentando que a intenção da requerida é alterar o curso dos dutos de água e promover a sua substituição por outros.
+Essas alegações mostram-se, a uma análise própria desta fase, verossímil, especialmente pelo fato de que a alteração no aqueduto poderá interferir no abastecimento de agua da parte autora.
+Por consequência, deve ser mantida a decisão que determinou a suspensão de construção no imóvel litigioso.
+Ressalta-se, ainda, que a anotação no registro do imóvel tem o intuito de dar conhecimento a terceiros de boa-fé que possam se interessar pela aquisição do imóvel, com base no principio da publicidade.
+Além do mais, não há óbice para que tal medida seja deferida pelo Juízo, não havendo prejuízo ao agravante, uma vez que, mesmo com a existência dos gravames, poderá dispor de seus bens.
+Na ocasião, a parte opôs embargos de declaração suscitando a tese de sua ilegitimidade, no sentido de:
+i) "a embargante, renovando o sustentado em vista de 48 horas concedida pelo juízo a quo, alegou e comprovou que os 3 (três) lotes sobre os quais estaria ocorrendo a alegada intervenção para alterar o curso de encanamento de aqueduto aparente (canos atravessando uma área total de mais de 5.000m2, protegidos pelo direito de vizinhança que estipula limitações semelhantes à servidão), haviam sido alienados à TJG Empreendimentos Imobiliários Ltda., única autora da alegada intervenção construtiva" (fl. 1.699);
+ii) "tendo alienado os lotes, não poderia neles intervir para alterar o curso de encanamento sobre eles existente" (fl. 1.699); e
+iii) "a embargante não deve responder por fatos e atos de terceiro, presumindo- se ser ela responsável solidária por atos e fatos praticados, ou que possam vir a sê-los, pela adquirente possuidora e dona dos lotes e da obra, no caso a TJG Empreendimentos Imobiliários Ltda, que não é parte nestes autos" (fl. 1.701).
+Nesse cenário, a Corte local rejeitou o recurso, considerando que "busca a parte embargante o reexame da questão decidida, com a prevalência do entendimento por ela esposado, visando modificar a decisão recorrida, o que não é próprio do recurso de embargos de declaração" (fl. 1.728)
+Desse modo, não há falar em ofensa aos arts. 489, § 1º, IV , e 1.022, II, do CPC quando, apesar de opostos embargos de declaração, a parte deixou de indicar expressamente nas razões do seu recurso a tese de necessário enfrentamento de suas matérias de defesa.
+Além disso, incide, por analogia, a Súmula n. 735 do STF, segundo a qual "não cabe recurso extraordinário contra acórdão que defere medida liminar".
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+EMENTA
