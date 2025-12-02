@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC), interposto por NATALY INES DOS SANTOS, contra decisão que não admitiu recurso especial.
+O apelo extremo, fundamentado nas alíneas a e c do permissivo constitucional, desafiou acórdão proferido pelo TRIBUNAL DE JUSTIÇA DE PERNAMBUCO, assim ementado (fls. 225-226, e-STJ):
+DIREITO PROCESSUAL CIVIL. APELAÇÃO. SEGURO DPVAT. CORREÇÃO MONETÁRIA. TABELA ENCOGE. SUBSTITUIÇÃO PELO IGP-M REJEITADA. HONORÁRIOS ADVOCATÍCIOS. EQUIDADE. PROPORCIONALIDADE, RAZOABILIDADE E DIGNIDADE PROFISSIONAL. MANUTENÇÃO. RECURSO IMPROVIDO. 1. À luz da Súmula 580 do STJ, A correção monetária nas indenizações do seguro DPVAT por morte ou invalidez, prevista no § 7º do art. 5º da Lei n. 6.194/1974, redação dada pela Lei n. 11.482/2007, incide desde a data do evento danoso; 2. À alteração do índice de correção monetária para o IGP-M não possui respaldo legal, sendo a tabela ENCOGE o indexador adotado por esta Corte que melhor reflete a desvalorização da moeda; 3. Quanto aos honorários advocatícios, nas causas em que o proveito econômico for inestimável ou Irrisório, ou ainda, quando o valor da causa for muito baixo, os honorários serão arbitrados por apreciação equitativa. Inteligência do art. 85, § 8º, do CPC; 4. Na hipótese, houve condenação em valor considerado irrisório, o que atraiu a fixação da verba honorária por equidade; 5. Recurso a que se nega provimento, pois o montante de R$ 500,00 fixado na sentença é capaz de assegurar a remuneração digna do profissional, mesmo porque o processo ostenta baixa complexidade e foi ajuizado há pouco mais de 1 (um) ano.
+Opostos embargos de declaração, foram rejeitados nos termos do acórdão de fl. 264-271, e-STJ.
+Nas razões de recurso especial (fls. 281-291, e-STJ), aponta a parte recorrente ofensa aos seguintes dispositivos: art. 5º, § 7º, da Lei n. 6.194/1974; art. 85, § 8º e § 8º-A, do CPC.
+Sustenta, em síntese: aplicação do IGP-M como índice de correção monetária das indenizações do seguro DPVAT, em substituição à Tabela ENCOGE; e violação ao art. 85, § 8º e § 8º-A, do CPC, por fixação de honorários por equidade sem observância dos valores recomendados pelo Conselho Seccional da OAB, em contexto de proveito econômico irrisório.
+Contrarrazões apresentadas às fls. 308-310, e-STJ.
+Em juízo de admissibilidade (fls. 311-314, e-STJ), negou-se o processamento do recurso especial, dando ensejo ao presente agravo (fls. 315-331, e-STJ).
+Contraminuta apresentada às fls. 334-336, e-STJ.
+É o relatório.
+Decido.
+1. Verifica-se que o recurso especial abrange matéria afetada pela Corte Especial para o julgamento sob a sistemática dos recursos repetitivos, a saber: Tema Repetitivo 1388, que irá definir a necessidade de observância dos parâmetros mínimos estabelecidos no art. 85, § 8º-A, do CPC, quando da fixação dos honorários advocatícios por apreciação equitativa.
+Dessa forma, impõe-se a devolução dos autos ao eg. Tribunal de origem para que seja observada a sistemática prevista nos arts. 1.040 e 1.041 do CPC, com a aplicação do entendimento a ser firmado no referido tema repetitivo.
+Por fim, con soante orientação jurisprudencial desta Corte, o ato judicial que determina o sobrestamento e o retorno dos autos à Corte de origem, a fim de se exercitar o competente juízo de retratação/conformação (arts. 1.040 e 1.041 do CPC) não possui carga decisória, por isso se trata de provimento irrecorrível.
+Sobre o tema: AgInt no REsp 1140843/PR, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 23/10/2018, DJe de 30/10/2018, AgInt nos EDcl nos EREsp 1.126.385/MG, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, DJe de 20/09/2017; AgInt no REsp 1663877/SE, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/08/2017, DJe de 04/09/2017; AgInt no REsp 1661811/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 26/06/2018, DJe de 29/06/2018.
+2. Do exposto, determino a restituição dos autos ao Tribunal de origem, devendo ser realizada a devida baixa nesta Corte Superior, para oportuna aplicação do Tema 1388 e eventual retratação prevista nos arts. 1.040, II, e 1.041, ambos do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
