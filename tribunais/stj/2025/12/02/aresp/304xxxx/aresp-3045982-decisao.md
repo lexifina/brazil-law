@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de Agravo apresentado por BANCO DO BRASIL SA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO, assim resumido:
+AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. INDEFERIMENTO DE PROVA PERICIAL. HIPÓTESES DO ART. 1.015 DO CPC. INAPLICABILIDADE. TAXATIVIDADE MITIGADA. NÃO CONFIGURAÇÃO. PODER INSTRUTÓRIO DO JUIZ. CERCEAMENTO DE DEFESA NÃO CARACTERIZADO. RECURSO DESPROVIDO.
+1) A tese da taxatividade mitigada (Tema 988 do STJ) não se aplica ao caso concreto, uma vez que o indeferimento da produção de prova pericial não configura hipótese excepcional de recorribilidade imediata.
+2) O juiz é o destinatário da prova, cabendo-lhe avaliar sua pertinência e necessidade à instrução processual, conforme dispõe o art. 370 do CPC, inexistindo cerceamento de defesa quando indeferida prova desnecessária ou protelatória.
+3) O julgamento monocrático, nos termos do art. 932, III, do CPC, é plenamente cabível quando se trata de recurso manifestamente inadmissível.
+4) Não havendo elementos capazes de infirmar a decisão monocrática, impõe-se a manutenção do decisum recorrido. 5) Agravo interno conhecido e desprovido. (fl. 45)
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz violação aos arts. 369 e 373, II do CPC, no que concerne à necessidade de reconhecimento do cerceamento de defesa decorrente do indeferimento de prova pericial essencial, em razão de a demanda exigir avaliação técnica dos documentos do PASEP não suprível por simples cálculo aritmético, trazendo a seguinte argumentação:
+Somente um profissional com a capacitação técnica necessária é capaz de aferir os índices aplicados, ou seja, se foi aplicado o índice de correção monetária nos termos da legislação pertinente, dentro das datas estabelecidas pelo Conselho Diretor. Dessa forma, o que se pretende demonstrar é que somente um perito, nomeado pelo judicial e com expertise relacionada à temática em questão, após analisar os documentos apresentados, poderá informar quais índices deveriam ser aplicados em quais períodos específicos, nos termos da legislação, e se o Banco observou tais determinações legislativas. Portanto, para que o juízo possa embasar assertivamente seu julgamento, é impreterível a averiguação acerca das controvérsias da lide. (fl. 96)
+
+Ainda, a prova pericial tem a finalidade de perquirir se os saldos debitados das contas individuais do PASEP são efetivamente transferidos ao respectivo titular da conta, seja por saque, transferência ou através da folha de pagamento, revestindo-se, ou não, de legalidade, sendo incontroversa a sua necessidade. (fl. 96)
+
+Considerando que o ônus da prova é da parte requerida, o direito de defesa suscitado pelos recorrentes merece ser prestigiado, nos termos do disposto no art. 373, II, do CPC. Dessa forma, o indeferimento de meio de prova hábil a confirmar, ao menos em cognição sumária, a alegação da parte, caracteriza o cerceamento de defesa, com ofensa ao art. 369, do CPC. (fl. 96)
+
+Assim, o acórdão recorrido violou os referidos dispositivos ao impedir que a instituição financeira, ora recorrente, produza as provas necessárias para conseguir demonstrar a legalidade em suas condutas e afastar as alegações autorais. (fl. 102)
+
+Neste sentido, é evidente que a manutenção do indeferimento da perícia configurará flagrante cerceamento do direito de defesa do Banco uma vez que trata de medida imprescindível para demonstrar a legalidade das condutas adotadas pela instituição. (fl. 102)
+
+Também, cabe ressaltar que a realização da medida requerida está revestida da urgência necessária que prevê o Tema 988/STJ, uma vez que presente o perigo de dano ou risco ao resultado útil do processo ante a possibilidade de eventual anulação da sentença pelo cerceamento de defesa, que traria prejuízos para ambas as partes e morosidade processual. (fl. 102)
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+A matéria devolvida a este colegiado consiste na possibilidade de interposição de agravo de instrumento contra decisão que indefere pedido de produção de prova pericial, bem como na eventual ocorrência de cerceamento de defesa.
+Após detida análise dos autos, concluo que o recurso não merece provimento, pelas razões que passo a expor.
+O indeferimento da prova pericial não se encaixa nas situações excepcionais que permitem a interposição de agravo de instrumento, conforme delimitado pelo Superior Tribunal de Justiça no Tema 988.
+Cumpre destacar que o juiz é o destinatário da prova, cabendo a ele avaliar sua necessidade para a instrução processual. Nos termos do art. 370 do CPC, o magistrado pode indeferir provas que considere desnecessárias ou meramente protelatórias, como ocorreu no presente caso.
+Por fim, o agravante não apresentou argumentos capazes de afastar a fundamentação da decisão monocrática. A mera discordância quanto ao mérito da decisão não justifica sua reforma (fl. 51).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à necessidade ou não de dilação probatória demandaria o reexame do acervo fático-probatório juntado aos autos, o que não é possível em sede de recurso especial.
+Nesse sentido: "Para prevalecer a pretensão em sentido contrário à conclusão das instâncias ordinárias, que entenderam não ser preciso maior dilação probatória, seria necessária a revisão do conjunto fático-probatório dos autos, o que é inviável nesta instância especial por força da Súmula nº 7/STJ". (AgInt no AREsp n. 2.541.210/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 20/12/2024.)
+Na mesma linha: "XI - Para acolhimento da pretensão recursal, seria necessário o revolvimento de fatos e provas, a fim de compreender pela necessidade da produção probatória sobre os específicos fatos alegados como essenciais à demonstração da tese sustentada pela parte recorrente, mas que foram descartados para o deslinde da controvérsia pelo julgador a quo. XII - Não cabe, assim, o conhecimento da pretensão recursal, porque exigiria a revisão de juízo de fato exarado pelas instâncias ordinárias sobre o alegado cerceamento da produção probatória, o que é inviável em recurso especial. Incidência do Enunciado Sumular n. 7/STJ". (AgInt no REsp n. 2.031.543/PA, relator Ministro Francisco Falcão, Segunda Turma, DJEN de 9/12/2024.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 2.714.570/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJEN de 20/2/2025; AgInt no AREsp n. 2.542.388/MG, relator Ministro Raul Araújo, Quarta Turma, DJEN de 20/12/2024; AgInt no AREsp n. 2.683.088/MG, relator Ministro João Otávio de Noronha, Quarta Turma, DJEN de 29/11/2024; e AgInt no AREsp n. 2.578.737/RS, relator Ministro Teodoro Silva Santos, Segunda Turma, DJe de 25/10/2024.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
