@@ -1,0 +1,8 @@
+DECISÃO
+Petição n. 1.160.030/2025 (e-STJ, fls. 210-212): manifestando-se espontaneamente nos autos, a impetrante/recorrente Fabiane Mantelo Lopes, após esclarecer que "a ação mandamental foi interposta com o objetivo de assegurar o direito líquido e certo  ..  à nomeação e posse no cargo de Professor Nível III, para o qual obteve aprovação dentro do número de vagas previsto no Edital nº 007/2022", informou que, "durante a tramitação deste recurso, a pretensão que motivou a impetração foi satisfeita pela via administrativa", tendo em vista que "a Administração Pública procedeu à sua nomeação para o cargo almejado". Diante disso, defende que, "com a nomeação, o provimento jurisdicional buscado neste recurso perdeu utilidade e necessidade, esvaziando o objeto da lide e configurando a perda superveniente do interesse de agir, na modalidade interesse recursal".
+Brevemente relatado, decido.
+Preliminarmente, registro o equívoco na autuação deste recurso ordinário, tendo em vista que a interposição foi realizada no exclusivo interesse da impetrante Fabiane Mantelo Lopes, conforme esclarecido na própria petição recursal (e-STJ, fl. 171). Não há, portanto, interesse recursal a justificar a inclusão do também impetrante Bruno de Carvalho Rodrigues como recorrente.
+Quanto ao fato superveniente informado pela única recorrente, impositivo o reconhecimento de que, em decorrência da nomeação, houve a perda do interesse recursal, conforme por ela próprio admitido, razão pela qual julgo prejudicado o recurso ordinário de fls. 170-175 (e-STJ).
+Por não haver necessidade de se aguardar o decurso do prazo recursal, cuide a Coordenadoria de, tão logo publicada esta decisão, certificar o trânsito em julgado e providenciar a baixa dos autos à origem.
+Publique-se.
+EMENTA
