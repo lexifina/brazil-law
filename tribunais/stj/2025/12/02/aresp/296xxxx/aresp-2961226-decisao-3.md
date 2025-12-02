@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo interposto por THIAGO LUIS DE OLIVEIRA contra decisão do Presidente da Seção de Direito Criminal do Tribunal de Justiça do Estado de São Paulo, que inadmitiu recurso especial manejado contra acórdão proferido na Apelação Criminal n. 0009002-32.2011.8.26.0576, em virtude do óbice da Súmula n. 7 desta Corte Superior de Justiça (fls. 4.543-4.5 45).
+O agravo não comporta conhecimento, pois manifestamente intempestivo.
+No caso, conforme consta na certidão de fl. 4.562, a decisão que inadmitiu o recurso especial foi disponibilizada em 03/02/2023 (sexta-feira), considerando publicada no primeiro dia útil seguinte - 06/02/2023 (segunda-feira). Nesse contexto, o prazo de 15 (quinze) dias findou-se em 22/02/2023 (primeiro dia útil seguinte). Entretanto, o agravo em recurso especial somente foi protocolado em 30/04/2023, quando já exaurido o prazo para a sua interposição.
+Dessa forma, o agravo é intempestivo, uma vez que interposto fora do prazo de 15 (quinze) dias corridos, nos termos do art. 994, inciso VIII, c/c o art. 1.003, § 5.º, todos do Código de Processo Civil, bem como o art. 798 do Código de Processo Penal.
+Ilustrativamente:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. PRAZO RECURSAL DE 15 DIAS. ADVOGADOS DISTINTOS. PRAZO EM DOBRO. ARTIGO 229 DO CPC. INAPLICABILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Nos termos da orientação desta Casa, "não se aplica, na esfera penal, a contagem do prazo em dobro na hipótese de litisconsortes com advogados diferentes, prevista no art. 229 do Código de Processo Civil vigente (art. 191 do CPC/73). Precedentes" (AgRg no REsp n. 1.694.714/MT, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 8/9/2020, DJe 15/9/2020) (REsp n. 2.049.643/DF, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 12/9/2023, DJe de 29/9/2023). Precedentes: AgRg no AREsp n. 2.284.834/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/6/2023, DJe de 26/6/2023; AgRg no AREsp n. 2.067.427/MG, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/6/2022, DJe de 21/6/2022; AgRg no AREsp n. 1.572.992/RO, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 20/2/2020, DJe de 5/3/2020.
+2. O agravo em recurso especial é manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias corridos, nos termos do art. 994, inciso VIII, c/c os arts. 1.003, § 5º e 1.042, todos do CPC, e no art. 798, do CPP.
+3. Agravo regimental não provido. (AgRg no AREsp n. 2.460.241/ES, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 12/3/2024, DJe de 21/3/2024.)
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
