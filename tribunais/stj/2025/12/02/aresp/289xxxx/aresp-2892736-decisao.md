@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interposto por JOSE ROBSON SILVA DE LIMA contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS que não admitiu o recurso especial.
+O recorrente foi condenado nas instâncias ordinárias como incurso nas sanções do art. 121, § 2º, II e IV, do Código Penal, à pena de 16 anos e 6 meses de reclusão, em regime fechado (fls. 771-783).
+Opostos embargos declaratórios, esses foram rejeitados (fls. 812 - 818).
+A Defesa interpôs recurso especial com fundamento no art. 105, inciso III, "a", da Constituição, para alegar afronta ao art. 593, inciso III, "d" e §3º, do Código de Processo Penal, além do artigo 121, §1º e 2º, incisos II e IV, do Código Penal (fls. 822 - 855).
+Inadmitido o recurso na origem por incidência da Súmula n. 7, STJ (fls. 870 - 871), sobreveio o agravo (fls. 879 - 892).
+Contraminuta ao agravo (fls. 898 - 901).
+O Ministério Público Federal opinou pelo não conhecimento do recurso (fls. 934 - 937).
+Foi reconsiderada a decisão da Presidência do STJ que não havia conhecido do agravo em recurso especial, determinando a distribuição do feito (fls. 924).
+É o relatório. DECIDO.
+Tendo em vista os argumentos apresentados pela parte agravante para refutar os fundamentos da decisão de admissibilidade da origem, conheço do agravo e passo a examinar o recurso especial.
+Nas razões do recurso especial, a Defesa pleiteia, em síntese, cassação da decisão do júri popular e submissão a novo julgamento, ao considerar que a decisão é manifestamente contrária à prova dos autos.
+Para delimitar a controvérsia, colaciono excertos elucidativos do acórdão (fls. 775-780):
+"Saliente-se, por oportuno, que decisão manifestamente contrária à prova dos autos é aquela que se divorcia de maneira inequívoca das evidências, não havendo de se cogitar tal hipótese quando os jurados, amparados no conjunto probatório, optam por uma das versões trazidas no corpo do processo.
+ ..
+De uma análise detida dos autos do presente recurso de apelação, não identifico flagrante incompatibilidade entre o veredicto proferido pelos jurados e as provas contidas nos autos. De fato, a condenação restou devidamente demonstrada nos autos pela Acusação e reconhecida pelo corpo de jurados, quando da resposta à respectiva quesitação.
+Assim, a Defesa e a Acusação elaboraram suas teses, a segunda, pugnando pela condenação, ao sustentar que o réu cometeu o crime de homicídio. Portanto, o Conselho de Sentença, por maioria, escolheu uma entre as duas teses, no caso dos presentes autos, a da Acusação.
+Vale consignar que a hipótese de anulação do julgamento em tela deve ser vista com cautela, a fim de se evitar invasão do mérito decidido pelo Conselho de Sentença por parte do Tribunal togado, até porque se exige que a decisão recorrida se apresente inteiramente divorciada da prova existente no processo, o que significa dizer, contrario sensu, que não cabe anulação do julgamento quando o veredicto se baseia em fundamentos plausíveis de interpretação da prova.
+Assim, não acolho as preliminares alegadas.
+ ..
+Em que pese a alegação da Defesa de que o apelante não cometeu o crime de homicídio, tal alegação fora confrontada pelos depoimentos, revelando que teria sido o apelante que teria praticado o crime em comento.
+ ..
+As provas existentes nos autos serviram para formar o convencimento dos jurados quanto a uma das teses sustentadas, proferindo o veredicto, em razão do princípio da íntima convicção, no sentindo de afastar a tese de negativa de autoria.
+Como se observa, as provas produzidas no inquérito foram corroboradas em Juízo, não havendo o que falar em legítima defesa.
+Alternativamente, o Apelante requer que seja submetido a novo júri para apreciação e reconhecimento do homicídio privilegiado, nos termos do artigo 121, § 1º do Código Penal.
+O caderno processual mostra que o depoimentos prestados pelas testemunhas são harmônicos entre si, não havendo divergências relevantes sobre os fatos imputados ao acusado, até porque condizentes com as declarações esboçadas em solo policial.
+Percebe-se, que as qualificadoras de que o crime foi cometido por motivação fútil e mediante utilização de meio que dificultou ou tornou impossível a defesa do ofendido foram reveladas pela prova produzida, especialmente na narrativa das testemunhas.
+Nessa linha, denota-se a existência de provas nos autos que foram suficientes para convencer os jurados de que o apelante foi o autor do crime de homicídio qualificado, por motivação fútil e mediante utilização de meio que dificultou ou tornou impossível a defesa do ofendido.
+Assim, a decisão dos jurados não foi manifestamente contrária à prova dos autos, não havendo o que se falar em nulidade do julgamento.
+ .. "
+Para alterar a conclusão do acórdão impugnado, como pretende o agravante, seria imprescindível reexaminar as circunstâncias fáticas do caso, providência inviável em sede de recurso especial, conforme dispõe a Súmula n. 7, STJ: "a pretensão de simples reexame de prova não enseja recurso especial.".
+No ponto, foi o parecer do Ministério Público Federal (e-STJ, fls. 936,937):
+"Nesse contexto, para infirmar tais conclusões, e decidir que o veredicto se deu contrariamente ao acervo probatório vertido nos autos, haveria necessidade de reexame probatório, providência vedada nesta sede diante do teor do enunciado n. 7, da Súmula dessa Corte Superior. Nesse sentido:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. PRONÚNCIA. ART. 413 DO CPP. EXCESSO DE LINGUAGEM. INEXISTÊNCIA. INDICAÇÃO DO LASTRO PROBATÓRIO MÍNIMO PARA A PRONÚNCIA. RECONHECI- MENTO DA LEGÍTIMA DEFESA E AFASTAMENTO DA QUALIFICADORA DO MOTIVO FÚTIL. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL NÃO PRO- VIDO. 1. A jurisprudência desta Corte de Justiça proclama, por meio da sua Terceira Seção, que não se configura o alegado excesso de linguagem quando, por ocasião da prolação da decisão de pronúncia, o magistrado se refere às provas constantes dos autos para verificar a ocorrência da materialidade e a presença de indícios suficientes de autoria, aptos a ensejar o julgamento do feito pelo Tribunal do Júri. Além disso, para o exame da ocorrência de excesso de linguagem, é necessário contextualizar o trecho tido por viciado pela parte, para averiguar se, de fato, a instância a quo ultrapassou os limites legais que lhe são impostos a fim de que não usurpe a competência do Tribunal Po- pular. Precedentes. 4. Na hipótese, não há que se falar nem em excesso de linguagem, nem em pronúncia baseada no princípio in dubio pro societate, pois o Magistrado de primeiro grau agiu dentro das balizas previstas no art. 413 do CPP e demonstrou a existência de lastro probatório a evidenciar a plausibilidade da acusação. 5. As instâncias ordinárias, com base nas provas dos autos, enten- deram não estar plenamente demonstrada a legítima defesa e não ser manifestamente improcedente a qualificadora do motivo fútil. Dessa forma, rever a conclusão acima demandaria o reexame de provas, conduta obstada pela Súmula n. 7 do STJ. 6. Agravo regimental não provido. (AgRg nos E Dcl no AR Esp n. 2.429.189/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 4/6/2024, D Je de 13/6/2024- grifou-se.)."
+Ant e o exposto, conheço do agravo para nã o conhecer do recurso especial, com base no artigo 253, parágrafo único, inciso II, "a", do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
