@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial pelo qual JBS S/A e SEARA ALIMENTOS LTDA. se insurgiram contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS de fls. 700/714, assim ementado:
+EMENTA: APELAÇÃO CÍVEL - MANDADO DE SEGURANÇA - DIFERENCIAL DE ALÍQUOTA DO ICMS (DIFAL) - CONSUMIDOR FINAL CONTRIBUINTE DO IMPOSTO - INCONSTITUCIONALIDADE DECLARADA PELO STF (ADI Nº 5.469 E RE Nº 1.287.019) - NECESSIDADE DE EDIÇÃO DE LEI COMPLEMENTAR PARA EXIGIBILIDADE - ENQUADRAMENTO AO CASO CONCRETO - IMPOSSIBILIDADE - CRIAÇÃO DE NOVA BASE DE CÁLCULO DO DIFERENCIAL DE ALÍQUOTA - VIOLAÇÃO DO PRINCÍPIO DA LEGALIDADE TRIBUTÁRIA - INEXISTÊNCIA - EXIGÊNCIA DE LEI COMPLEMENTAR - DESNECESSIDADE - DESPROVIMENTO DO RECURSO.
+- O Diferencial de Alíquota devido em razão das operações e prestações de serviço interestaduais entre contribuintes do ICMS, para uso, consumo e ativo imobilizado do contribuinte adquirente, não foi objeto do Tema 1.093 da Repercussão Geral, permanecendo inalterada a sua exigibilidade.
+- O legislador estadual, ao editar o Decreto nº 46.930, de 30/12/2015, que introduziu o § 8º no art. 43 do RICMS/MG c/c o art. 1º, VII, do citado regulamento, não criou nova base de cálculo do ICMS, não se cogitando da ilegalidade de sua cobrança.
+- Recurso improvido.
+Os embargos de declaração opostos foram rejeitados (fls. 744/750).
+Nas razões de seu recurso especial, as partes ora agravantes alegam (fl. 872):
+Dessa forma, está demonstrada a evidente a relevância das questões de direito federal infraconstitucional existente na matéria tratada nos autos, pois os efeitos advindos da questão também impactam as esferas jurídicas, econômicas e sociais da parcela dos contribuintes que sofreram cobranças de DIFAL antes da vigência da Lei Complementar nº 190/2022, sendo necessário que este E. STJ estabeleça a exata delimitação da matéria.
+A parte adversa apresentou contrarrazões (fls. 897/923).
+O recurso não foi admitido, razão pela qual foi interposto o agravo em recurso especial ora em análise.
+É o relatório.
+A questão debatida nos autos foi afetada à Primeira Seção do Superior Tribunal de Justiça para ser decidida sob o rito de recursos repetitivos (Tema 1.369), e foi assim delimitada:
+"Definir se a cobrança de ICMS-DIFAL em operações interestaduais destinadas a consumidor final contribuinte do imposto estava suficientemente disciplinada na Lei Complementar n. 87/1996 (Lei Kandir), antes da entrada em vigor da Lei Complementar n. 190/2022" (REsp 2133933/DF e REsp 2025997/DF, relator Ministro AFRÂNIO VILELA).
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+O envio do recurso especial a esta Corte Superior deve ocorrer somente após o esgotamento da instância ordinária, formalizado com o novo julgamento pelo Tribunal de origem, quando então será possível examinar, no âmbito do STJ, as matérias jurídicas que eventualmente permanecerem controvertidas. Essa cautela também evita o fracionamento do recurso e previne eventual violação ao princípio da unicidade recursal, que veda a interposição simultânea ou sucessiva de recursos contra a mesma decisão.
+Ante o exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil (CPC), após a publicação do acórdão dos recursos representativos de controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do mesmo CPC.
+Publique-se. Intimem-se.
+ EMENTA
