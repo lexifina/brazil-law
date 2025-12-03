@@ -1,0 +1,80 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar, impetrado em favor de DORIVAL ESTIVAL, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal nº 1500049-83.2019.8.26.0233), nos termos da seguinte ementa (fl. 12):
+DIREITO PENAL. APELAÇÃO CRIMINAL. LESÃO CORPORAL GRAVE. PARCIAL PROVIMENTO. I. Caso em Exame. Dorival Estival, Lincoln Augusto Leme e Matheus Giovane Henrique foram condenados a 3 anos e 6 meses de reclusão e a indenizar a vítima em 10 salários-mínimos por ofenderem a integridade corporal de Luiz Carlos Ernesto, causando-lhe lesões corporais de natureza grave. II. Questão em Discussão 2. A questão em discussão consiste em (i) verificar a possibilidade de absolvição dos réus sob a alegação de legítima defesa e (ii) avaliar a proporcionalidade da pena aplicada. III. Razões de Decidir. A tese de legítima defesa foi afastada, pois, ainda que o ofendido tenha desferido um soco inicial em um dos réus, ficou devidamente demonstrado que os acusados agiram de forma excessiva, não observando o uso moderado dos meios necessários para repelir a agressão. A pena base, fixada no triplo do mínimo legal, deve ser reduzida para 02 anos. Se por um lado as circunstâncias citadas pelo Juízo de origem justificam a fixação da pena base acima do mínimo legal, por outro não se pode desconsiderar, em benefício dos réus, o comportamento da vítima durante o entrevero. Afinal, foi o ofendido quem primeiro se utilizou de agressão física, pois, até aquele momento, existia apenas discussão e bravatas entre os envolvidos. Por outro lado, fica mantido o regime inicial semiaberto. Conquanto se trate de indivíduos primários, a violência empregada não só afastou a vítima de sua atividade laboral por mais de cinco anos, como também a obrigou a se submeter a três intervenções cirúrgicas, apresentando debilidade permanente de membro inferior direito. Eventual imposição de regime mais brando poderá passar a indesejada sensação de impunidade. IV. Dispositivo e Tese. Recurso parcialmente provido. Tese de julgamento: 1. A legítima defesa não se aplica quando há excesso na reação. 2. A pena deve ser proporcional à gravidade das lesões, mas levando-se em consideração o comportamento da vítima.
+Consta dos autos que o paciente foi condenado como incurso no art. 129, § 1º, do Código Penal, a 3 anos e 6 meses de reclusão, em regime inicial semiaberto, além de ser condenado ao pagamento de indenização à vítima, no montante equivalente a 10 salários mínimos.
+Houve interposição de recurso de apelação pela defesa, o qual foi parcialmente provido para reduzir a pena a 2 anos e 4 meses, mantendo-se, contudo, o regime semiaberto, além da multa arbitrada originalmente.
+Sustenta a defesa que o paciente faz jus à alteração do regime de pena para o aberto, porquanto é portador de circunstâncias favoráveis, bem como porque inexistem elementos que justifiquem a manutenção de regime mais gravoso. Destaca que o paciente é primário, de bons antecedentes e não ostenta periculosidade, o que o habilitaria ao regime mais brando.
+Afirma que o paciente é portador de transtorno depressivo recorrente, transtorno de ansiedade generalizada e transtorno esquizofrênico do tipo depressivo, sendo que o regime aberto possibilitará o acompanhamento clínico contínuo, bem como favorecerá sua reinserção social e contribuíra para a prevenção da reincidência e para a pacificação social.
+Requer, em liminar e no mérito, a substituição do regime de cumprimento de pena para o aberto. De forma subsidiária, pretende a substituição pela prisão domiciliar humanitária, ou seja determinado o início do cumprimento de pena em regime semiaberto harmonizado, com monitoramento eletrônico, a fim de compatibilizar a execução penal com a condição clínica do paciente.
+A liminar foi indeferida (fl. 69-71) e as informações foram prestadas (fls. 103-107).
+O Ministério Público Federal manifestou-se pelo não conhecimento do mandamus, caso contrário, pela sua denegação. Eis a ementa (fl. 103):
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. CRIME DE LESÃO CORPORAL GRAVE. VIOLÊNCIA EXACERBADA. CONSEQUÊNCIAS DO DELITO: DEBILIDADE PERMANENTE E AFASTAMENTO LABORAL POR MAIS DE CINCO ANOS. REGIME INICIAL SEMIABERTO. FUNDAMENTAÇÃO IDÔNEA PARA FIXAÇÃO DE REGIME MAIS GRAVOSO. CIRCUNSTÂNCIAS DO CRIME VALORADAS NEGATIVAMENTE. PRECEDENTES DO STJ. PARECER PELA DENEGAÇÃO DA ORDEM.
+É o relatório.
+DECIDO.
+A Quinta Turma do Superior Tribunal de Justiça firmou entendimento no sentido de ser inadequada a impetração de habeas corpus quando utilizado em substituição a recurso próprio.
+A teor do disposto no art. 105, II, a, da CF/88, o recurso cabível contra acórdão que denega a ordem na origem é o recurso ordinário, enquanto, consoante previsto no art. 105, III, da CF, o recurso cabível contra acórdão que julga apelação, recurso em sentido estrito e agravo em execução é o recurso especial.
+Nada impede, contudo, a concessão de habeas corpus de ofício quando constatada a existência de ilegalidade flagrante, abuso de poder ou teratologia, nos termos do art. 654, §2º, do CPP, o que ora passa-se a examinar.
+Visa a impetrante, em suma, à fixação de regime mais brando ao paciente.
+A questão foi assim tratada no acórdão impugnado (fls. 18-22):
+Passo à análise da dosimetria da pena, que foi realizada da seguinte forma:
+(..) Os réus não possuem antecedentes criminais tendo agredido, todos eles, de forma violenta a vítima; não há motivos para as reprimendas serem diversas.
+O ofendido foi severamente agredido enquanto estava no solo, com socos e chutes que o levaram a grave fratura na perna que o deixou afastado do serviço não só por 30 dias, mas, segundo disse, até o início de agosto de 2024, ou seja, por mais de 05 anos, sendo cristalino o prejuízo à sua vida cotidiana, sem que fale no prejuízo financeiro, visto que o ofendido é servidor público e, afastado por saúde, certamente deixou de aferir inúmeros benefícios. Além disso, sequelas existem até os dias de hoje, sendo de se imaginar o prejuízo sofrido pelo ofendido, obrigado a conviver com as consequência de um covarde ato,
+Assim, a pena base é fixada em 03 anos de reclusão, aos três réus.
+ ..
+A violência afasta o benefício do artigo 44, do CP, e as circunstâncias judiciais absolutamente desfavoráveis são suficientes à não recomendação do sursis.
+Do mesmo modo, tenho que delito tão bárbaro, praticado de forma absolutamente covarde, merece efetiva punição, e isso somente se alcança com o regime semiaberto, que fixo nos moldes do artigo 33, parág. 3º, do CP.
+Apesar de concordar com os argumentos do Juízo de origem, creio que o aumento inicial se mostrou desproporcional ao caso concreto.
+Vale ressaltar que o fato de a vítima permanecer afastada de suas atividades habituais por mais de trinta dias já serviu para fins de classificação da conduta. Ocorre que o afastamento das atividades laborais se deu por mais de 05 (cinco) anos, uma vez que o ofendido somente retornou ao trabalho em agosto de 2024, conforme informado em audiência, o que evidentemente extrapola as consequências previstas pelo legislador quando da escolha do preceito secundário da norma.
+Mas não só isso.
+Luiz Carlos relatou que ainda caminha com dificuldade e passa por acompanhamento médico, indicando que não está totalmente recuperado e bem provável que nunca esteja.
+Neste sentido, vale ressaltar que a classificação da lesão como sendo de natureza grave não se deu apenas pelo afastamento das atividades habituais por mais de trinta dias (Art. 129, §1º, inciso I, do Código Penal) como também pela debilidade permanente de membro inferior direito (artigo 129, §1º, inciso III, do Código Penal), o que evidentemente aumenta o grau de reprovabilidade da conduta e justifica o incremento da pena base.
+ ..
+Em razão de tais circunstâncias, a pena base é reduzida de 03 para 02 anos de reclusão.
+ ..
+No mais, apesar da quantidade de reprimenda aplicada, o regime inicial semiaberto deve ser mantido, pois a aplicação do regime mais brando poderá levar à indesejada sensação de impunidade.
+Não custa recordar que não se tratou apenas de afastar a vítima de suas atividades habituais, pois o ofendido necessitou passar por ao menos três intervenções cirúrgicas (dezembro de 2018, janeiro de 2019 e julho de 2019 vide descrição de fls. 368) e, ainda assim, carrega as consequências das agressões sofridas, tendo o expert consignado em seu lado a debilidade do membro inferior direito (tópico discussão e conclusão de fls. 368).
+Vale dizer: a violência empregada pelos agentes e as consequências para a vítima se revelaram demasiadamente graves, de modo que é preciso impor sanção penal que se faça realmente sentir, sob pena de a reprimenda não atingir sua finalidade, tanto especial quanto geral.
+Nos termos do art. 33, §§ 1º, 2º e 3º, do CP, para a fixação do regime inicial de cumprimento de pena, o julgador deverá observar a quantidade da reprimenda aplicada, a reincidência ou não do agente, e a eventual existência de circunstâncias judiciais desfavoráveis.
+Assim, apesar de o montante da sanção - inferior a 4 anos de reclusão - admitir, em tese, a fixação do regime inicial aberto, a presença de circunstância judicial desfavorável (consequências do delito, decorrente da debilidade permanente do membro inferior direito e afastamento da vítima do trabalho por mais de 5 anos), que implicou o aumento da pena-base, é fundamento válido para a imposição de regime prisional mais gravoso, no caso o semiaberto, nos termos do art. 33, § 2º, c, e § 3º, do CP.
+A propósito, menciono:
+DIREITO PENAL. AGRAVO REGIMENTAL. REGIME INICIAL DE CUMPRIMENTO DE PENA. REINCIDÊNCIA E CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu do agravo em recurso especial, em razão da incidência da Súmula n. 83 do STJ, referente à fixação de regime inicial semiaberto para condenado reincidente com circunstâncias judiciais desfavoráveis.
+2. A defesa pleiteia o afastamento da Súmula n. 83 do STJ, argumentando que os precedentes indicados são inaplicáveis ao caso em análise.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a fixação de regime inicial semiaberto para cumprimento de pena, em razão de reincidência e circunstâncias judiciais desfavoráveis, viola o art. 33, § 3º, do Código Penal.
+III. Razões de decidir
+4. A jurisprudência do STJ estabelece que o regime inicial de cumprimento de pena não está vinculado, de forma absoluta, ao quantum da pena, podendo ser fixado em regime mais gravoso em razão de circunstâncias judiciais desfavoráveis e reincidência.
+5. A decisão agravada está em consonância com o entendimento predominante do STJ, que autoriza a fixação do regime semiaberto mesmo para penas inferiores a quatro anos, quando há circunstâncias judiciais negativas.
+6. A defesa não demonstrou a desarmonia do julgado ou a ausência de entendimento pacificado sobre a matéria, não afastando a incidência da Súmula n. 83 do STJ.
+IV. Dispositivo e tese
+7. Agravo desprovido.
+(AgRg no AREsp n. 2.796.410/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 18/2/2025, DJEN de 25/2/2025.)
+DIREITO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DOSIMETRIA DA PENA. TRÁFICO DE DROGAS. RECURSO IMPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão que deu provimento ao recurso especial da defesa, aplicando a redutora do §4º do art. 33 da Lei 11.343/2006 na fração de 2/3, fixando o regime inicial semiaberto e mantendo a impossibilidade de substituição da pena privativa de liberdade por restritiva de direitos.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se a circunstância judicial negativa do art. 42 da Lei 11.343/2006 pode ser afastada, permitindo a fixação do regime prisional aberto e a substituição da pena privativa de liberdade por restritiva de direitos.
+III. RAZÕES DE DECIDIR
+3. A natureza e quantidade da droga apreendida são fatores preponderantes na fixação da pena-base, conforme o art. 42 da Lei 11.343/2006, justificando a exasperação da reprimenda na primeira fase dos cálculos.
+4. A análise desfavorável do art. 42 da Lei 11.343/2006, em razão da natureza e a quantidade da droga apreendida, constitui fundamento idôneo para justificar a imposição de regime prisional mais grave, segundo o quantum da sanção aplicada, bem como para afastar a substituição da pena corporal por restritiva de direitos.
+IV. DISPOSITIVO E TESE
+5. Agravo regimental improvido.
+Tese de julgamento: "1. A natureza e quantidade da droga apreendida constituem fundamentos idôneos para justificar a imposição de regime prisional mais gravoso e o afastamento da substituição da pena privativa de liberdade por restritiva de direitos. 2. A análise desfavorável do art. 42 da Lei 11.343/2006 constitui fundamento idôneo para justificar a imposição de regime prisional mais grave, segundo o quantum da sanção aplicada, bem como para afastar a substituição da pena corporal por restritiva de direitos". (AgRg no REsp n. 2.221.220/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 17/9/2025, DJEN de 23/9/2025.)
+Noutro ponto, verifica-se que as questões trazidas à discussão no presente habeas corpus, sobre a substituição pela prisão domiciliar humanitária, ou a determinação do início do cumprimento de pena em regime semiaberto harmonizado, com monitoramento eletrônico, a fim de compatibilizar a execução penal com a condição clínica do paciente, não foram analisadas pelo Tribunal de origem, o que obsta o conhecimento da matéria por esta Corte Superior, sob pena de supressão de instância.
+Assim, a ausência de prévia manifestação da Corte de origem sobre os temas discutidos no mandamus inviabiliza seu conhecimento pelo Superior Tribunal de Justiça, porquanto estar-se-ia atuando em patente afronta à competência constitucional reconhecida a esta Corte, nos termos do art. 105 da Carta Magna.
+Nesse sentido:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS.
+TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DE PENA. EXTENSÃO DE BENEFÍCIO CONCEDIDO A CORRÉ. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+I. CASO EM EXAME 1. Agravo regimental interposto por Guilherme Santos Viola da Silva contra decisão monocrática da egrégia Presidência desta Corte que indeferiu liminarmente o habeas corpus impetrado em seu favor. O paciente foi condenado à pena de 4 anos, 7 meses e 9 dias de reclusão, em regime semiaberto, pelo crime previsto no art. 33 da Lei n. 11.343/2006. A defesa pleiteia a incidência da causa de diminuição de pena do tráfico privilegiado, sob o argumento de que a corré obteve tal benefício na apelação criminal.
+II. QUESTÃO EM DISCUSSÃO 2. Há duas questões em discussão: (i) definir se o pleito de reconhecimento do tráfico privilegiado pode ser analisado diretamente pelo Superior Tribunal de Justiça, sem prévio exame pelo Tribunal de origem; e (ii) estabelecer se a extensão do benefício concedido à corré poderia ser analisada por esta Corte.
+III. RAZÕES DE DECIDIR 3. O conhecimento da matéria pelo Superior Tribunal de Justiça configura indevida supressão de instância, pois a questão referente à aplicação do tráfico privilegiado ao paciente não foi objeto de deliberação pelo Tribunal de origem.
+4. A análise do pedido de extensão de benefício concedido a corré compete ao órgão jurisdicional que proferiu a decisão favorável, não cabendo ao Superior Tribunal de Justiça examinar a questão originariamente.
+5. A jurisprudência desta Corte é firme no sentido de que a extensão dos efeitos de decisão favorável a corréu não ocorre de forma automática e deve ser analisada pela instância competente, levando-se em conta as particularidades de cada acusado.
+IV. AGRAVO REGIMENTAL DESPROVIDO.
+(AgRg no HC n. 978.258/SC, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 18/3/2025, DJEN de 24/3/2025.)
+Não há, portanto, flagrante ilegalidade que justifique a concessão de habeas corpus de ofício.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
