@@ -1,0 +1,44 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por MASTER ELETRÔNICA DE BRINQUEDOS LTDA contra decisão que inadmitiu o recurso especial, fundado na alínea a do inciso III do art. 105 da Constituição Federal, em desafio a acórdão prolatado pelo Tribunal de Justiça de Pernambuco, assim ementado (fl. 368-368, e-STJ):
+APELAÇÃO CÍVEL. DIREITO CIVIL. LEI DO IN QUILINATO. CERCEAMENTO DE DEFESA NÃO CONFIGURADO. LOCAÇÃO DE IMÓVEL NÃO RESIDENCIAL. AÇÃO RENOVATÓRIA. SEGURO CONTRA INCÊNDIO. CONTRATAÇÃO NÃO COMPROVADA PELA LOCATÁRIA. DESCUMPRIMENTO CONTRATUAL. RESCISÃO DEVIDA. 1. Descabe alegação de cerceamento de defesa quando resta comprovado nos autos, que devidamente intimada para se manifestar acerca de provas, a parte autora, pugnou expressamente pelo julgamento antecipado da lide. 2. Deixando a locatária de comprovar a contratação do seguro contra incêndio firmado em contrato de locação não residencial, devidamente formalizado entre as partes, nos termos do art. 71, Il, da Lei 8.245/91, impõe-se o desfazimento da locação, requerida na reconvenção e a improcedência da ação renovatória de locação. 3. Apelo não provido. Julgamento unânime.
+Nas razões de recurso especial (fls. 380-384, e-STJ), a parte recorrente sustentou violação aos seguintes dispositivos:
+a) arts. 370, 373, II, 374, II, e 412, do CPC, afirmando que houve indevida desconsideração de fatos incontroversos e que o seguro contra incêndio teria sido comprovado;
+b) arts. 51 e 71 da Lei 8.245/1991 (Lei do Inquilinato), aduzindo que foram atendidos os requisitos para a renovatória e que o "exato cumprimento do contrato" estaria demonstrado.
+Em sede de juízo provisório de admissibilidade, o Tribunal local inadmitiu o recurso especial (fls. 411-413, e-STJ), o que ensejou o manejo do presente agravo (fls. 416-419, e-STJ), buscando destrancar o processamento daquela insurgência.
+É o relatório.
+Decido.
+O presente recurso não merece prosperar.
+1. No que tange à alegada ofensa aos arts. 370, 373, II, 374, II, e 412, do CPC e arts. 51 e 71 da Lei 8.245/1991 (Lei do Inquilinato), a parte sustentou que foram atendidos os requisitos para a renovatória; que o "exato cumprimento do contrato" estaria demonstrado; que houve indevida desconsideração de fatos incontroversos e que o seguro contra incêndio teria sido comprovado.
+Todavia, o Tribunal de origem, soberano na apreciação dos fatos e provas, consignou o seguinte (e-STJ, fl. 372):
+Os documentos de fis. 147/148 se referem mero Estudo de Proposta de Seguro que foi formalizado no dia 23/02/2016, ou seja, cinco dias antes do término da vigência do contrato de locação, cujo termo final estava previsto para 28/02/2016, e, inclusive, foi formalizada, após ajuizamento da presente demanda, cuja distribuição ocorreu em 24/04/2015.
+Ademais, comprovante de pagamento do suposto seguro, às fis. 149, trata-se de simples recibo emitido por um corretor de seguro, no qual consta observação de que suposta contratação está condicionada inspeção no local de risco aceitação da seguradora.
+Segundo art. 758 do Código Civil, contrato de seguro prova-se com exibição da apólice ou do bilhete do seguro, e, na falta deles, por documento comprobatório do pagamento do respectivo prêmio, que não restou comprovado nos autos.
+Portanto, resta patente ocorrência de infração contratual na medida em que não restou comprovada contratação do seguro contra incêndio determinada na cláusula 12 do contrato de locação firmado entre as partes, com as respectivas alterações estabelecidas no termo aditivo.
+Assim, tenho que autora não se desincumbiu do seu ônus de comprovar os fatos constitutivos de seu direito, nos termos do art. 373, |, do Código de Processo Civil, destarte, impõe-se desfazimento da locação requerido na reconvenção, teor do art. 9º, Il, da Lei 8.245/91.
+Com efeito, não há que se rediscutir, em sede de recurso especial, a distribuição do ônus da prova, ou se os requisitos da ação renovatória foram, ou não, preenchidos. Isso porque a Jurisprudência do STJ entende que não há como aferir eventual ofensa ao art. 373 do CPC/2015 sem que se verifique o conjunto probatório dos presentes autos, o que encontra óbice na Súmula 7 do STJ.
+Nesse sentido:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO POR DANO MORAL. ACIDENTE FERROVIÁRIO. MORTE. ART. 1.022 DO NCPC. INOCORRÊNCIA DE FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284 DO STF. INAPLICABILIDADE. ART. 343 DO NCPC. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ QUANTO A INVERSÃO DO ÔNUS PROBATÓRIO E A ALEGADA CULPA EXCLUSIVA DA VÍTIMA, QUE NÃO FOI RECONHECIDA. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. AGRAVO INTERNO PARCIALMENTE NÃO PROVIDO.
+(..)
+3. Nos termos do art. 373, I e II, do NCPC, incumbe ao autor o ônus da prova quanto ao fato constitutivo do direito alegado, ao passo que cabe ao réu o ônus de demonstrar a ocorrência de algum fato impeditivo, modificativo ou extintivo do direito do autor.
+4. Não é possível reverter a conclusão do Tribunal estadual, para acolher a pretensão recursal, a respeito do ônus probatório, pois essa providência demandaria o revolvimento dos fatos da causa. Incidência da Súmula nº 7 do STJ.
+(..)
+8. Agravo interno parcialmente provido.
+(AgInt no AREsp 1644649/RJ, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 24/08/2020, DJe 27/08/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE ADIMPLEMENTO CONTRATUAL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO AGRAVO. INSURGÊNCIA DA PARTE DEMANDANTE.
+1. A ausência de indicação do dispositivo de lei violado ou de interpretação controvertida caracteriza deficiência da fundamentação recursal. Incidência, por analogia, da Súmula 284 do STF.
+2. Conforme entendimento desta Corte, não há como aferir eventual ofensa ao art. 373 do CPC/15, sem incursão no conjunto probatório dos presentes autos. Incidência da Súmula 7/STJ.
+3. Rever as conclusões a que chegou a Corte de origem quanto à ausência dos documentos aptos a comprovar a relação jurídica entre as partes, bem como fato constitutivo de direito, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula 7 desta Corte.
+4. Nos termos da jurisprudência deste STJ, ausente a comprovação documental do negócio jurídico alegado pelo autor, não ha falar em extinção sem julgamento de mérito, mas sim em improcedência da ação, uma vez que, no procedimento ordinário, vocacionado à ampla produção de provas, é possível alcançar-se o mérito da questão em face de outros elementos probatórios produzidos nos autos. Precedentes.
+5. Agravo interno desprovido.
+(AgInt no AREsp 1560693/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 29/06/2020, DJe 03/08/2020)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO RENOVATÓRIA. CONTRATO DE ALUGUEL COMERCIAL. 1. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA 283 DO STF. 2. AUSÊNCIA DOS REQUISITOS LEGAIS PARA RENOVAÇÃO DO CONTRATO DE ALUGUEL. REVISÃO DO JULGADO QUE IMPLICA NO REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 7 DESTA CORTE. 3. OFENSA AO ART. 557 DO CPC/1973. DECISÃO MONOCRÁTICA. NÃO OCORRÊNCIA. 4. INTERPOSIÇÃO DA APELAÇÃO APÓS O TÉRMINO DO EXPEDIENTE BANCÁRIO. JUNTADA DO PREPARO NO PRIMEIRO DIA ÚTIL SUBSEQUENTE. POSSIBILIDADE. INCIDÊNCIA DA SÚMULA 484/STJ. 5. AGRAVO IMPROVIDO.
+1. Não havendo impugnação expressa dos fundamentos do acórdão recorrido no tocante ao fato de que foi dada a oportunidade para que se providenciasse a substituição da fiadora, o que foi feito pela agravante, mostra-se inviável o processamento do especial, ante o óbice da Súmula 283 do STF.
+2. Revela-se inviável alterar o entendimento da Corte estadual que, analisando o conjunto fático-probatório dos autos, concluiu pela ausência de requisitos legais para a renovação do contrato de aluguel, tendo em vista o óbice da Súmula 7 do STJ.
+3. "A confirmação de decisão unipessoal do Relator pelo órgão colegiado sana eventual violação ao art. 557 do CPC" (AgRg no ARESP n. 391.844/MS, Relatora Ministra Nancy Andrighi, DJe 28/3/2014).
+4. "Admite-se que o preparo seja efetuado no primeiro dia útil subsequente, quando a interposição do recurso ocorrer após o encerramento do expediente bancário."
+(Súmula n. 484 do STJ). (AgRg no AREsp 776.005/RS, Rel. Ministro Antonio Carlos Ferreira, DJe 11/3/2016) 5. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.432.992/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 18/8/2016, DJe de 30/8/2016.)
+2. Do exposto, com fundamento no art. 932 do Código de Processo Civil c/c Súmula 568/STJ, conheço do agravo para negar provimento ao recurso especial.
+Por fim, tendo em vista a fixação dos honorários sucumbenciais no percentual máximo estabelecido no § 2º do art. 85 do CPC, deixo de majorá-los nesta oportunidade.
+Publique-se. Intimem-se.
+EMENTA
