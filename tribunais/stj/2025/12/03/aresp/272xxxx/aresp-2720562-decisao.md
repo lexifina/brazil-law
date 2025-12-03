@@ -1,0 +1,73 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/2015) interposto por MOPP MULTSERVIÇOS LTDA (EM RECUPERAÇÃO JUDICIAL) contra decisão que negou seguimento a recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal.
+O apelo extremo, a seu turno, desafia acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 585 e-STJ):
+AÇÃO REGRESSIVA - Ação regressiva de condenação subsidiária desembolsada em reclamação trabalhista - Encargos trabalhistas devidos pela empregadora terceirizada - Exegese do artigo 71 da Lei nº 8.666/1993 - Direito da Administração ao reembolso - Crédito extraconcursal - Sentença trabalhista proferida em data posterior à decretação da recuperação judicial da devedora originária - Apelação não provida.
+Em face da decisão proferida no AREsp n. 2.271.812-SP, por este signatário, o Tribunal de origem realizou novo julgamento dos embargos declaração, em acórdão assim ementado (fls. 751 e-STJ):
+EMBARGOS DE DECLARAÇÃO - Interposição fundada no artigo 1.022 do Código de Processo Civil - Alegação de obscuridade - Alegação de contradição - Alegação de omissão - Caráter infringente - Prequestionamento - Reconhecimento dos reclamos e consequente integração do julgado - Acolhimento dos embargos com efeito modificativo, para esclarecimentos que constarão no corpo do acórdão.
+AÇÃO REGRESSIVA - Ação regressiva de condenação subsidiária desembolsada em reclamação trabalhista - Encargos trabalhistas devidos pela empregadora terceirizada - Exegese do artigo 71 da Lei nº 8.666/1993 - Direito da Administração ao reembolso - Crédito extraconcursal - Aplicação do Tema nª 1.051 do Superior Tribunal de Justiça - Apelação da requerida não provida.
+Em suas razões de recurso especial (fls. 758-863 e-STJ), a parte recorrente aponta violação aos seguintes dispositivos legais:
+(i) artigos 489, §1º, IV e VI e 1.022 do Código de Processo Civil, alegando a existência de omissão e negativa de prestação jurisdicional no acórdão recorrido acerca da matéria suscitada nos embargos de declaração; e
+(ii) artigos 47, 49, 59 da Lei n. 11.105/2005; 346, III, e 349 do Código Civil, sustentando, em suma, que tanto o contrato de trabalho quanto os valores pleiteados na inicial são datados anteriormente ao pedido de recuperação judicial, impondo-se a sua classificação como crédito concursal.
+Alegou, ainda, a existência de dissídio jurisprudencial.
+Contrarrazões às fls. 866-877 e-STJ.
+Em sede de juízo provisório de admissibilidade (fls. 878-880 e-STJ), o Tribunal de origem inadmitiu o recurso especial, sob os seguintes fundamentos: a) inexistência de violação aos arts. 489 e 1.022 do CPC/2015; b) aplicação do óbice da Súmula 7/STJ; e c) no tocante a alínea "c" do art. 105 da Constituição Federal, a parte recorrente deixou de atender aos requisitos previstos nos art. 1.029, § 1º, do CPC/15 e no art. 255 do RISTJ.
+Daí o agravo (fls. 883-903 e-STJ), buscando destrancar o processamento daquela insurgência, no qual a parte insurgente refuta os óbices aplicados pela Corte estadual.
+Contraminuta às fls. 906-911 e-STJ.
+É o relatório.
+Decide-se.
+O presente recurso merece prosperar em parte.
+1. De início, afasta-se a alegação de negativa de prestação jurisdicional. Não se verifica ofensa aos artigos 489 e 1022 do CPC/15 quando o Tribunal decide, de modo claro e fundamentado, as questões essenciais ao deslinde do feito. Ademais, não se deve confundir decisão contrária aos interesses da parte com negativa de prestação jurisdicional.
+Alega a parte recorrente que o acórdão impugnado permaneceu omisso quanto "à sujeição do crédito à recuperação Judicial, diante da hipótese de pagamento em sub-rogação, onde crédito sub-rogado deveria manter os ônus e bônus do crédito original".
+Todavia, conforme trecho a seguir citado, o Tribunal local tratou expressamente da questão jurídica. Confira-se (fls. 753-754 e-STJ):
+O Município de Sorocaba cobra de Mopp Multiserviços Ltda, nesta ação de regresso, a importância de R$ 22.945,37 desembolsada em condenação subsidiária que sofreu na Reclamação Trabalhista nº 0010120-61.2017.5.15.0003, que tramitou perante o digno Juízo da 1ª Vara do Trabalho de Sorocaba, ajuizada pela funcionária terceirizada Geisebel de Fatima Ferreira Galvão. Condenação sofrida por força de contrato de prestação de serviços firmado entre as partes e com base no artigo 71 da Lei Federal nº 8.666/1993 (fls 1/5, 315/319, 384/405 e 438).
+Ação julgada procedente. E bem resolvida.
+A obrigação da empresa apelante exsurge clara das disposições contratuais, assim também das imposições legais.
+Conforme estabelecido pelo artigo 71 da Lei nº 8.666/1993, o contratado é responsável pelos encargos trabalhistas, previdenciários, fiscais e comerciais resultantes da execução do contrato (com meu grifo).
+Patente o direito da Administração ao reembolso pela quitação do débito de responsabilidade da ré.
+Quanto à aplicabilidade do plano de recuperação judicial, de fato, cabível a aplicação do Tema nº 1.051 do Superior Tribunal de Justiça: Para o fim de submissão aos efeitos da recuperação judicial, considera-se que a existência do crédito é determinada pela data em que ocorreu o seu fato gerador.
+Nos termos do artigo 49 da Lei nº 11.101/2005, todos os créditos existentes na data do pedido, ainda que não vencidos, estão sujeitos aos efeitos da recuperação judicial, com as ressalvas legais.
+O processamento da recuperação judicial foi deferido em 22/07/2016 (fls. 499/502). Ao que consta da ação trabalhista que a Municipalidade busca reembolso, a ex-empregada foi admitida em 10/04/2015 (fls. 10), a rescisão trabalhista indireta ocorreu no dia 19/01/2017 (fls. 12), e o pagamento foi realizado pela Municipalidade em 17/12/2019.
+Não se ignoram os efeitos da sub-rogação do artigo 346 do Código Civil, mas o marco temporal para qualificação do crédito na recuperação judicial deve verificar o nascimento do direito em si.
+O fato gerador do crédito discutido nestes autos constituiu-se com o pagamento da dívida trabalhista pela Municipalidade, pois foi a partir desse momento que nasceu o direito ao ressarcimento perante a parte ré.
+Como visto, as teses da insurgente foram apreciadas pelo Tribunal a quo, que as afastou apontando os fundamentos jurídicos para tal.
+Não há que se falar, portanto, em omissão, sendo certo que os embargos de declaração não se constituem via própria para rejulgamento da causa, não havendo espaço para análise de inconformismo quanto ao entendimento adotado.
+Nesse sentido: REsp 1432879/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/10/2018, DJe 19/10/2018; EDcl nos EDcl no REsp 1641575/RJ, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 25/09/2018, DJe 01/10/2018; EDcl no AgInt no REsp 1666792/ES, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 19/04/2018, DJe 22/05/2018; AgInt no AREsp 1179480/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 27/02/2018, DJe 06/03/2018; AgInt no REsp 1598364/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/08/2017, DJe 22/08/2017; EDcl no AgInt no AREsp 471.597/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 06/06/2017, DJe 20/06/2017.
+Afasta-se, portanto, a alegada violação aos artigos 489 e 1.022 do CPC/15.
+2. No mérito, por outro lado, o recurso merece prosperar.
+Cinge-se a pretensão recursal à verificação acerca da natureza concursal do crédito objeto da presente ação de regresso.
+Com efeito, para fins de submissão do crédito à recuperação judicial, nos termos do art. 49, caput, da Lei nº 11.101/2005, esta Corte Superior fixou orientação, em sede se recurso especial repetitivo (tema 1051), no sentido de que a existência do crédito é definida a partir de seu fato gerador, independentemente de posterior declaração em sentença ou sub-rogação.
+Nesse sentido:
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PRESTAÇÃO JURISDICIONAL. NEGATIVA. AUSÊNCIA. EMPRESARIAL. RECUPERAÇÃO JUDICIAL. CRÉDITO. DÍVIDA TRABALHISTA. FATO GERADOR DA OBRIGAÇÃO. PAGAMENTO POSTERIOR. SUB-ROGAÇÃO. IRRELEVÂNCIA. NATUREZA CONCURSAL
+DO CRÉDITO.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. Nos termos da iterativa jurisprudência desta Corte, consolidada no julgamento de recurso repetitivo, para o fim de submissão aos efeitos da recuperação judicial, considera-se que a existência do crédito é determinada pela data em que ocorreu o seu fato gerador.
+3. A sub-rogação, em regra, não extingue a relação obrigacional, ocorrendo apenas a substituição do polo ativo, com o mesmo objeto e sujeito passivo. Assim, transmite-se o crédito originário, do credor primitivo para o terceiro que paga, por força do adimplemento.
+4. Para o fim de submissão aos efeitos da recuperação judicial, o que importa é a data do fato gerador do crédito. É irrelevante que o pagamento com sub-rogação tenha se dado após o pedido de recuperação judicial.
+5. Na hipótese dos autos, o fato ge rador do crédito é anterior ao pedido de recuperação judicial, tratando-se de crédito concursal. O fato de o crédito ter sido objeto de pagamento com sub-rogação não altera sua classificação.
+6. Agravo conhecido para dar provimento ao recurso especial.
+(AREsp n. 2.716.994/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 15/9/2025, DJEN de 18/9/2025.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO REGRESSIVA. RECUPERAÇÃO JUDICIAL. CRÉDITOS TRABALHISTAS. FATOS GERADORES ANTERIORES AO PEDIDO DE RECUPERAÇÃO JUDICIAL. DECISÃO EM SENTIDO CONTRÁRIO AO DA JURISPRUDÊNCIA DO STJ. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL PROVIDO.
+1. "O crédito derivado de atos praticados em período anterior ao pedido de recuperação judicial, concursal, portanto, deve-se submeter à forma de satisfação preconizada perante o Juízo universal, a despeito de a decisão condenatória eventualmente ter sido proferida em momento posterior" (AgInt no CC 172.671/PR, Relator Ministro Raul Araújo, Segunda Seção, julgado em 30/3/2021, DJe de 19/4/2021).
+2. Hipótese em que, a despeito de a constituição do crédito ter ocorrido após o deferimento da recuperação judicial, os fatos geradores ocorreram em momento anterior, de forma que, no caso, há que se submeter o crédito trabalhista aos ditames do Plano de Recuperação Judicial.
+3. Agravo interno provido. Recurso especial provido, a fim de submeter o crédito, que possui natureza concursal, ao Plano de Recuperação Judicial.
+(AgInt no REsp n. 1.977.587/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 19/3/2024, DJe de 22/3/2024.)  grifou-se
+RECURSO ESPECIAL. EMPRESARIAL. RECUPERAÇÃO JUDICIAL. CRÉDITO TRABALHISTA. PRESTAÇÃO DE SERVIÇOS ANTERIOR AO PEDIDO. CRÉDITO CONCURSAL. PAGAMENTO POSTERIOR. SUB-ROGAÇÃO. IRRELEVÂNCIA.
+1. A questão controvertida resume-se a definir o marco para sujeição do crédito objeto de pagamento com sub-rogação para o fim de submissão aos efeitos da recuperação judicial.
+2.A sub-rogação, em regra, não extingue a relação obrigacional, ocorrendo apenas a substituição do polo ativo, com os mesmos objeto e sujeito passivo. Assim, transmite-se o crédito originário, do credor primitivo para o terceiro que paga, por força do adimplemento.
+3. Para o fim de submissão aos efeitos da recuperação judicial, o que importa é a data do fato gerador do crédito. É irrelevante que o pagamento com sub-rogação tenha se dado após o pedido de recuperação judicial.
+4. Na hipótese dos autos, o fato gerador do crédito, a prestação de serviços, é anterior ao pedido de recuperação judicial, tratando-se de crédito concursal. O fato de o crédito ter sido objeto de pagamento com sub-rogação não altera sua classificação.
+5. Recurso especial provido.
+(REsp n. 2.108.103/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 13/8/2024, DJe de 28/8/2024.)  grifou-se
+PROCESSUAL CIVIL E FALIMENTAR. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO REGRESSIVA DE DÉBITO TRABALHISTA. RECUPERAÇÃO JUDICIAL. CRÉDITO CONCURSAL. FATO GERADOR ANTERIOR. SUBMISSÃO AO PLANO DE RECUPERAÇÃO. TESE FIXADA EM RECURSO ESPECIAL REPETITIVO. TEMA N.º 1.051. ACÓRDÃO RECORRIDO EM DISSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A Segunda Seção do Superior Tribunal de Justiça, ao julgar o REsp 1.843.332/RS (Rel. Ministro Ricardo Villas Bôas Cueva, DJe 17/12/2020), representativo de controvérsia, firmou a tese repetitiva (Tema n.º 1.051) segundo a qual para o fim de submissão aos efeitos da recuperação judicial, considera-se que a existência do crédito é determinada pela data em que ocorreu o seu fato gerador.
+2. No REsp 1.843.332/RS, ficou assentado que a existência do crédito, para o fim de verificar sua submissão aos efeitos da recuperação judicial da devedora, é determinada pela data de seu fato gerador, não dependendo de sentença que o declare ou o quantifique, tampouco de seu trânsito em julgado, bastando tão somente a ocorrência do fato gerador, conforme aconteceu na presente hipótese, que se trata de crédito trabalhista constituído anteriormente ao pedido recuperacional.
+3. Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 2.029.634/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 20/11/2023, DJe de 22/11/2023.)
+No caso em tela, consoante se depreende da fundamentação do acórdão recorrido, os fatos que deram origem à condenação trabalhista são anteriores ao pedido de recuperação judicial, "deferido em 22/07/2016". Já o pagamento realizado pelo novo credor, ora recorrido, deu-se em "17/12/2019", muito tempo depois do ajuizamento do pedido.
+Dessa forma, de acordo com a jurisprudência acima mencionada, deve ser acolhida a pretensão recursal, para reconhecer a submissão do crédito discutido à recuperação judicial, em razão de sua natureza concursal.
+Nesse mesmo sentido, as seguintes decisões monocráticas proferidas por Ministros integrantes da Segunda Seção desta Corte Superior: AREsp 2.594.495-SP, Rel. Min. RICARDO VILLAS BÔAS CUEVA, DJEN 11/03/2025; e AREsp 2.596.869-SP, Rel. Min. NANCY ANDRIGHI, DJEN 06/12/2024.
+3. Do exposto, com fulcro no artigo 932 do NCPC c/c Súmula 568 do STJ, conhece-se do agravo para dar parcial provimento ao recurso especial, a fim de reconhecer a submissão dos créditos objeto da presente demanda aos efeitos da recuperação judicial.
+Custas e honorários advocatícios pela parte recorrida, estes últimos fixados em 10% (dez por cento) sobre o valor corrigido da causa, nos termos do artigo 85, § 2º, do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
