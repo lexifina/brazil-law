@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo nos próprios autos contra decisão que inadmitiu o recurso especial por incidência da Súmula n. 7 do STJ (fls. 248-250).
+O acórdão recorrido está assim ementado (fl. 168):
+Falência do Banco Santos. Decisão que manteve a reserva de crédito postulada por credores (escritórios de advocacia) enquanto se apura o valor e a natureza dos créditos, observando que deve ser afastada a pretensão dos credores, eis que a matéria já foi examinada em precedente que decidiu que o crédito decorrente de verba honorária devida pela massa falida deve ser submetido à classificação prevista no art. 83, da Lei n. 11.101/2005.
+Inconformismo de um dos credores. Não acolhimento. Não acolhimento. O tema devolvido já foi examinado por esta C. Câmara Julgadora, nos autos da mesma falência, daí a razão para a adoção de idêntica solução, como reconhecido no decisum . A conciliação dos diversos julgados sobre o tema (classificação dos honorários sucumbenciais fixados após a quebra) deve ser realizada para reconhecer a natureza alimentar do crédito, equiparando-o ao trabalhista, sujeito, portanto, às mesmas regras que lhe são impostas, com exceção da retroação do valor à data da quebra, pois, para esse fim, reconhecida sua roupagem extraconcursal, seu valor deve ser contemporâneo à fixação. Rejeição do pleito subsidiário, para adoção do salário mínimo vigente na data do pagamento, uma vez que o trato diferenciado ao agravante implicaria violação ao princípio da paridade entre os credores. Decisão mantida. Recurso desprovido.
+No recurso especial (fls. 191-205), fundamentado no art. 105, III, "a", da CF, a parte recorrente aponta violação dos arts. 83, 84, caput e IV, da Lei n. 11.101/2005.
+Sustenta, em síntese, que "o rol de créditos extraconcursais previsto em tal norma possui caráter exemplificativo, abarcando todo e qualquer crédito constituído após o decreto falimentar, ainda que ele não se adeque perfeitamente às específicas previsões dos incisos daquela regra legal" (fl. 201).
+Suscita o caráter extraconcursal dos créditos.
+Foram apresentadas contrarrazões (fls. 216-224).
+No agravo (fls. 253-266), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foi oferecida contraminuta (fls. 270-278).
+Juízo negativo de retratação (fl. 290).
+Nesta Corte, o MPF se manifestou pelo desprovimento do agravo (fls. 308-311).
+É o relatório.
+Decido.
+A insurgência não merece prosperar.
+Com efeito, extraem-se as seguintes razões de decidir do aresto impugnado (fls. 174-186):
+ ..  Pelo que se depreende dos autos da falência, o crédito do agravante tem lastro em título judicial constituído após a quebra ( vide acórdão datado de novembro de 2021 e copiado a fls. 26/79), ocasião em que foi fixada verba honorária no valor de R$ 500.000,00.
+O agravantes requer seja reconhecida a natureza extraconcursal desse crédito, com enquadramento no art. 84, IV, da Lei n. 11.101/2005, em vez da classificação no concurso de credores, de acordo com o art. 83, I, que trata do privilegio conferido aos créditos trabalhistas.
+Esse privilégio deriva da natureza alimentar dos honorários sucumbenciais, conforme jurisprudência pacífica do C. STJ, consagrada em tese fixada no tema repetitivo 637, que foi assim enunciada: "os créditos resultantes de honorários advocatícios têm natureza alimentar e equiparam-se aos trabalhistas para efeito de habilitação em falência, seja pela regência do Decreto-lei n. 7.661/1945, seja pela forma prevista na Lei n. 11.101/2005, observado o limite de valor previsto no artigo 83, inciso I, do referido Diploma Legal".
+A verba honorária decorrente da imposição do ônus da sucumbência surge no momento de sua fixação, isto é, quando da prolação da sentença ou do julgamento colegiado do recurso que arbitra honorários advocatícios.
+ ..  Assim é que, conforme jurisprudência consolidada na C. Superior, os honorários sucumbenciais têm a natureza de crédito alimentar e equiparam-se aos trabalhistas, sendo certo que se constituem quando de sua fixação.
+Para além dessa classificação, pertinente pontuar a distinção entre credores da falência e credores da massa, para definir o tratamento, se concursal ou extraconcursal, da verba honorária (sucumbência) arbitrada após o decreto de falência.
+ ..  Com essa contextualização, em relação ao crédito de honorários sucumbenciais fixados após a quebra, três são os caminhos possíveis, a saber: (1) o crédito é concursal, tem natureza alimentar e pode ser equiparado ao trabalhista, devendo ser pago com precedência, nos termos do art. 83, I, da Lei n. 11.101/2005; (2) o crédito é extraconcursal, equipara- se às custas das demandas em que vencida a massa (art. 84, IV) ou resulta de ato jurídico válido, praticado após a decretação da falência (art. 84, V), devendo ser pago antes dos concursais; e (3) o crédito é extraconcursal, mas seu pagamento deve ocorrer junto com os credores trabalhistas, nos termos do art. 83, I.
+ ..  Dessa forma, a conciliação dos diversos julgados sobre o tema deve ser realizada, aproximadamente, na linha do decidido no AI 2040765-81.2020.8.26.0000, acima citado, para reconhecer a natureza alimentar do crédito, equiparando-o ao trabalhista, sujeito, portanto, às mesmas regras que lhe são impostas, com exceção da retroação do valor à data da quebra, pois, para esse fim, reconhecida sua roupagem extraconcursal, seu valor deve ser contemporâneo à fixação.
+ ..  Portanto, os honorários sucumbenciais fixados em demanda na qual vencida a massa falida devem ser pagos junto com os credores trabalhistas, nos termos do art. 83, I, da Lei n. 11.101/2005, pelo seu valor na data de sua fixação, mas observado o valor do salário mínimo da data da quebra, para fins da limitação legal.
+Assim , rever os fundamentos do aresto impugnado e sopesar as razões recursais esbarra no óbice da Súmula n. 7 do STJ, ante a necessidade de revolvimento do conjunto fático-probatório dos autos.
+Diante do exposto, NEGO PROVIMENTO ao agravo em recurso especial.
+Publique-se e intimem-se.
+EMENTA
