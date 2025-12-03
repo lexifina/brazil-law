@@ -1,0 +1,82 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 27/11/2025 a 03/12/2025, por unanimidade, denegar o habeas corpus, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Carlos Pires Brandão, Og Fernandes, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. DECADÊNCIA DO DIREITO DE REPRESENTAÇÃO. EXTINÇÃO DA PUNIBILIDADE. ORDEM DENEGADA.
+I. Caso em exame
+1. Habeas corpus impetrado em favor de paciente condenada à pena de 2 anos, 8 meses e 20 dias de reclusão, em regime semiaberto, além do pagamento de 24 dias-multa, pela prática do delito previsto no art. 171, caput, do Código Penal, apontando como autoridade coatora o Tribunal de Justiça do Estado de Santa Catarina.
+2. A defesa sustenta constrangimento ilegal, alegando a decadência do direito de representação pelo ofendido e requerendo o reconhecimento da extinção da punibilidade.
+3. O Ministério Público manifestou-se pela rejeição da tese de decadência, considerando que a vítima tomou ciência do golpe em 5/5/2021 e manifestou o direito de representação em 15/9/2021, dentro do prazo legal de 6 meses previsto no art. 38 do Código de Processo Penal.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se houve decadência do direito de representação pelo ofendido, considerando a alegação de erro material na data do termo de declaração e a tempestividade da manifestação de vontade da vítima.
+III. Razões de decidir
+5. A tese de decadência do direito de representação não foi debatida pelo Tribunal de origem, o que impede a análise pelo Superior Tribunal de Justiça, sob pena de supressão de instância.
+6. Ainda que assim não fosse, os documentos dos autos demonstram que a vítima manifestou o direito de representação dentro do prazo legal de 6 meses, conforme previsto no art. 38 do Código de Processo Penal.
+7. O erro material na data do termo de declaração foi devidamente esclarecido pelo Ministério Público, não havendo prejuízo à defesa ou ilegalidade a ser reconhecida.
+IV. Dispositivo e tese
+8. Ordem denegada.
+Tese de julgamento:
+1. A manifestação do direito de representação pelo ofendido deve observar o prazo de 6 meses previsto no art. 38 do Código de Processo Penal, contado a partir do conhecimento da autoria delitiva.
+2. Erro material na data do termo de declaração não invalida a manifestação de vontade do ofendido, desde que esclarecido nos autos e não haja prejuízo à defesa.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de habeas corpus com pedido liminar impetrado em benefício de IDIONE FERNANDA NADALETTI no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA (Apelação Criminal n. 5001409-90.2022.8.24.0007).
+Depreende-se dos autos que a paciente foi condenada à pena de 2 anos, 8 meses e 20 dias de reclusão, em regime semiaberto, além do pagamento de 24 dias-multa, pela prática do delito previsto no art. 171, caput, do Código Penal.
+Interposta apelação pela defesa, o Tribunal de Justiça de origem negou provimento ao recurso, em acórdão assim ementado (e-STJ fls. 75/76):
+APELAÇÕES CRIMINAIS. CRIMES DE ESTELIONATOS E E DE VIOLAÇÃO DE SIGILO FUNCIONAL. SENTENÇA CONDENATÓRIA. RECURSOS DAS DEFESAS. PRELIMINARES. ALEGADO PELA DEFESA DA RÉ IDIONE A DECADÊNCIA DO DIREITO DE REPRESENTAÇÃO EM RELAÇÃO AO ESTELIONADO COMETIDO CONTRA A VÍTIMA VANDERLEY E NULIDADE PROCESSUAL EM RAZÃO DO NÃO OFERECIMENTO DO ACORDO DE NÃO PERSECUÇÃO PENAL. TESES NÃO SUBMETIDAS A APRECIAÇÃO DO JUÍZO A QUO E SEQUER ARGUIDAS NAS ALEGAÇÕES FINAIS. PRECLUSÃO. ANÁLISE DO PLEITO PREJUDICADA. NÃO CONHECIMENTO. ALEGADO TAMBÉM POR IDIONE A NULIDADE DO PROCESSO POR QUEBRA DA INCOMUNICABILIDADE ENTRE AS TESTEMUNHAS DE ACUSAÇÃO. INOCORRÊNCIA. SUPOSTO PREJUÍZO NÃO VERIFICADO. EIVA RECHAÇADA. SUSTENTADA NULIDADE PROCESSUAL POR LUCAS POR CERCEAMENTO DE DEFESA EM RAZÃO DA NÃO REALIZAÇÃO DE DILIGÊNCIA REQUERIDA. PROVIDÊNCIA QUE PODERIA TER SIDO REALIZADA PELA PRÓPRIA DEFESA E JUNTADA AOS AUTOS CASO FOSSE DO SEU INTERESSE. ADEMAIS, NULIDADE ALEGADA PERANTE O JUÍZO DE PISO E DEVIDAMENTE AFASTADA. REJEIÇÃO. ANULAÇÃO DO PROCESSO REQUERIDA POR LUCAS EM RAZÃO DE NÃO LHE TER SIDO OFERTADO ACORDO DE NÃO PERSECUÇÃO PENAL. INOCORRÊNCIA. REQUISITOS DO ART. 28-A DA LEI PROCESSUAL PENAL NÃO PREENCHIDOS. CRIMES COMETIDOS EM CONCURSO FORMAL. SOMA DAS PENAS QUE ULTRAPASSA O LIMITE DE QUATRO ANOS. IMCOMPETÊNCIA DO JUÍZO SUSTENTADA POR LUCAS PARA PROCESSAR E JULGAR O CRIME PREVISTO NO ART. 325, § 2º, DO ESTATUTO REPRESSIVO. NÃO OCORRÊNCIA. INCIDÊNCIA DA SÚMULA 53 DO SUPERIOR TRIBUNAL DE JUSTIÇA. MÉRITO. PLEITO ABSOLUTÓRIO FORMULADO POR AMBOS OS RÉUS. IMPOSSIBILIDADE. MATERIALIDADE E AUTORIA DOS CRIMES DE ESTELIONATOS DEVIDAMENTE COMPROVADAS. PLEITO DE ABSOLVIÇÃO INVIÁVEL. VANTAGEM ILÍCITA E DOLO DOS ACUSADOS DEVIDAMENTE COMPROVADOS. PEDIDO DE RECONHECIMENTO DA ATIPICIDADE DA CONDUTA POR CONSTITUIR MERO ILÍCITO CIVIL. IMPOSSIBILIDADE. VANTAGEM ILÍCITA AUFERIDA PELOS AGENTES, QUE CAUSAM PREJUÍZOS PATRIMONIAIS ÀS VÍTIMAS. CRIME DE VIOLAÇÃO DE SIGILO FUNCIONAL QUALIFICADO, IGUALMENTE, CONFIGURADO. CONDENAÇÕES MANTIDAS. DOSIMETRIA. REQUERIDA POR IDIONE A EXCLUSÃO DOS VETORES CULPABILIDADE E CONSEQUÊNCIAS DO CRIME. IMPOSSIBILIDADE. PENAS-BASES CORRETAMENTES EXASPERADAS COM FUNDAMENTAÇÃO IDÔNEA. REPRIMENDA CORRETAMENTE FIXADA E MANTIDA. ATENUANTE DA ALÍNEA "B" DO INC. III DO ART. 65 DO CP. APLICABILIDADE QUE NÃO SE AFIGURA POSSÍVEL. AUSÊNCIA DE ESPONTANEIDADE DA RÉ EM REPARAR O DANO. REQUERIDA PELA DEFESA DE IDIONE O RECONHECIMENTO DA PARTICIPAÇÃO DE MENOR IMPORTÂNCIA (ART. 29 DO CP). INVIABILIDADE. RÉ QUE PARTICIPOU ATIVAMENTE DA PRÁTICA DELITIVA. COAUTORIA DEVIDAMENTE COMPROVADA. REQUERIDA POR LUCAS A APLICAÇÃO DA CONTINUIDADE DELITIVA. IMPOSSIBILIDADE. CRIMES COMETIDOS COM DESÍGNIOS AUTÔNOMOS. HABITUALIDADE DELITIVA QUE NÃO SE CONFUNDE COM O INSTITUTO DO CRIME CONTINUADO. CONCURSO MATERIAL MANTIDO. REQUERIDA PELA RÉ A ALTERAÇÃO DO REGIME PRISIONAL. INVIABILIDADE. REGIME SEMIABERTO MANTIDO EM OBSERVÂNCIA AO ART. 33, § 3º, DO CP. SUBSTITUIÇÃO POR RESTRITIVAS DE DIREITOS. INVIABILIDADE. BENESSE QUE ENCONTRA ÓBICE NO INC. III DO ART. 44 DO CP. PENA PRIVATIVA DE LIBERDADE QUE É MAIS ADEQUADA AO CASO. PEDIDO AFASTADO. REQUERIDA POR LUCAS A CONCESSÃO DO DIREITO DE RECORRER EM LIBERDADE. INVIABILIDADE. ACUSADO PRESO DURANTE TODA INSTRUÇÃO PROCESSUAL. FATOS CONFIRMADOS NA SENTENÇA. REQUISITOS ENSEJADORES DA PRISÃO PREVENTIVA QUE PERMANECEM HÍGIDOS. SEGREGAÇÃO CAUTELAR MANTIDA. MEDIDAS CAUTELARES FIXADAS À RÉ QUE AINDA SE MOSTRAM NECESSÁRIAS PARA FINS DE APLICAÇÃO DA LEI PENAL, CONFORME DISPOSTO NO ART. 282, INC. I, DO CÓDIGO DE PROCESSO PENAL. RECURSOS DESPROVIDOS.
+Daí o presente writ, no qual sustenta a defesa constrangimento ilegal, haja vista ter ocorrido a decadência do direito de representação pelo ofendido, devendo ser reconhecida a extinção da punibilidade.
+Afirma que "no dia 17/05/2021, a suposta vítima efetuou o registro da ocorrência, indicando como data do fato o dia 31/03/2021, haja vista ter sido o dia em que realizou o primeiro pagamento da negociação entabulada para a compra do veículo. O prazo para entrega do automóvel se encerrou em 05/05/2021" (e-STJ fl. 5).
+Alega que "o termo de declaração por onde se consignou oficialmente o interesse na representação (Anexo 3) é datado de 23/11/2020" (e-STJ fl. 5).
+Assevera que " a  questão discutida no presente writ, contudo, versa sobre a impossibilidade de constatação da tempestividade da representação cri- mina, por desídia exclusiva do próprio aparato repressivo estatal, que não se atentou à correta indicação da data da declaração prestada pelo ofendido, es- vaziando-se por absoluto qualquer possibilidade de defesa da Paciente quanto ao ponto" (e-STJ fl. 7).
+Em decisão monocrática de e-STJ fls. 551/554, compreendi pela inadmissibilidade de conhecimento do writ, tendo em vista a interposição de recurso especial pela defesa contra o mesmo acórdão aqui impugnado, qual seja, o de julgamento do recurso de apelação.
+O entendimento fora mantido no julgamento perante a Sexta Turma desta Corte Superior (e-STJ fls. 578/582).
+Contudo, em decisão monocrática, o em. Ministro Nunes Marques do Supremo Tribunal Federal, concedeu a ordem nos autos do HC n. 258.259/SC, para afastar o óbice ao conhecimento e determinar a análise deste mandamus.
+É  o  relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. DECADÊNCIA DO DIREITO DE REPRESENTAÇÃO. EXTINÇÃO DA PUNIBILIDADE. ORDEM DENEGADA.
+I. Caso em exame
+1. Habeas corpus impetrado em favor de paciente condenada à pena de 2 anos, 8 meses e 20 dias de reclusão, em regime semiaberto, além do pagamento de 24 dias-multa, pela prática do delito previsto no art. 171, caput, do Código Penal, apontando como autoridade coatora o Tribunal de Justiça do Estado de Santa Catarina.
+2. A defesa sustenta constrangimento ilegal, alegando a decadência do direito de representação pelo ofendido e requerendo o reconhecimento da extinção da punibilidade.
+3. O Ministério Público manifestou-se pela rejeição da tese de decadência, considerando que a vítima tomou ciência do golpe em 5/5/2021 e manifestou o direito de representação em 15/9/2021, dentro do prazo legal de 6 meses previsto no art. 38 do Código de Processo Penal.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se houve decadência do direito de representação pelo ofendido, considerando a alegação de erro material na data do termo de declaração e a tempestividade da manifestação de vontade da vítima.
+III. Razões de decidir
+5. A tese de decadência do direito de representação não foi debatida pelo Tribunal de origem, o que impede a análise pelo Superior Tribunal de Justiça, sob pena de supressão de instância.
+6. Ainda que assim não fosse, os documentos dos autos demonstram que a vítima manifestou o direito de representação dentro do prazo legal de 6 meses, conforme previsto no art. 38 do Código de Processo Penal.
+7. O erro material na data do termo de declaração foi devidamente esclarecido pelo Ministério Público, não havendo prejuízo à defesa ou ilegalidade a ser reconhecida.
+IV. Dispositivo e tese
+8. Ordem denegada.
+Tese de julgamento:
+1. A manifestação do direito de representação pelo ofendido deve observar o prazo de 6 meses previsto no art. 38 do Código de Processo Penal, contado a partir do conhecimento da autoria delitiva.
+2. Erro material na data do termo de declaração não invalida a manifestação de vontade do ofendido, desde que esclarecido nos autos e não haja prejuízo à defesa.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+A matéria questionada neste writ cinge-se à alegada decadência do direito de representação. No ponto, o Tribunal de origem assim se manifestou (e-STJ fl. 13):
+A defesa de Idione pugna, em preliminar, pela decadência do direito de representação em relação ao estelionato supostamente cometido contra a vítima Vanderley Tonial e a nulidade do processo em razão do não oferecimento do acordo de não persecução penal.
+Sem maiores delongas, as prejudiciais sequer devem ser conhecidas, uma vez que a defesa em nenhuma oportunidade durante a instrução levantou essa questão, além disso ao final da instrução foram apresentadas as alegações finais pelo Ministério Público e pela apelante, não havendo, nessa oportunidade, qualquer insurgência quanto à nulidade ora apontada. Desse modo, entendo que a aventada nulidade processual foi atingida pelo instituto da preclusão.
+Verifico que a tese deduzida pela defesa, qual seja, a decadência do direito de representação, não foi debatida pelo Tribunal de origem, o que impede esta Casa de examinar o tema, sob pena de incorrer em indevida supressão de instância.
+Ainda que assim não fosse, verifico que as alegações da defesa não guardam pertinência com os demais documentos dos autos.
+Embora a impetração tenha trazido a cópia do termo de declaração da vítima (documento de e-STJ fls. 547/548), em que há a manifesta declaração de vontade em representar os fatos, a defesa pretende trazer dúvidas quanto à data em que o documento foi confeccionado
+Para tanto, afirma que no início do documento está indicada a data de 23/11/2020, ocasião em que sequer havia sido praticada a conduta a ser investigada.
+Ocorre que o erro material contido na data do documento de e-STJ fls. 547/548 já havia sido devidamente esclarecido pelo Ministério Público do Estado de Santa Catarina quando da apresentação das contrarrazões ao recurso de apelação interposto pela defesa. Vejamos (e-STJ fls. 166/168):
+II. PRELIMINARES
+A - Do pleito de extinção da punibilidade pela decadência do direito de representação relacionado à vítima Vanderley Tonial.
+1. A preliminar NÃO merece acolhimento.
+2. Segundo se verifica dos autos, no dia 17/5/2021, a vítima Vanderley Tonial formalizou o registro do Boletim de Ocorrência nº 00613.2021.0007913 (fls. 79/80, INQ6, evento 1), informando que no dia 31/3/2021 efetuou a compra de um veículo, negócio intermediado pela recorrente Idione, pelo valor de R$ 34.200,00 (trinta e quatro mil e duzentos reais).
+3. Naquela data (31/3/2021), a vítima efetuou o pagamento dovalor de R$ 4.000,00 (quatro mil reais), referente ao negócio, conforme comprovante de transferência bancária juntado na fl. 33 do INQ26, evento 1), sendo o recebedor do crédito o réu Lucas. A vítima promoveu o pagamento de outros valores (comprovantes às fls. 26/32, INQ26), com a promessa da entrega do veículo em 5/5/2021, como declarou no boletim de ocorrência. Assim, a vítima só se apercebeu que caíra em um golpe (vindo a saber quem foi o autor do fato) após o dia 5/5/2021, quando o veículo não lhe foi entregue.
+4. Ou seja, no caso em apreço, para fins de contagem do prazo decadencial, deve ser levada em consideração o momento em que a vítima tomou consciência de que havia sido enganada, que caíra num golpe, o que se perfectibilizou com o não recebimento do veículo na data estipulada: 5/5/2021.
+5. Estabelecido o marco temporal, verifica-se que, quando registrou o boletim de ocorrência (em 17/5/2021), a vítima informou que "deseja decidir posteriormente sobre o direito de representação ou queixa, estando ciente de que o prazo para oferecer a representação ou a queixa é de 06 (seis) meses, contados da data do fato ou da data em que vier a saber quem é o autor do fato" (grifo nosso).
+6. A autoridade policial, ao colher as declarações da referida vítima, consignou expressamente no termo que ela "DESEJA EXERCER O DIREITO DE REPRESENTAÇÃO", conforme Termo de Declaração das fls. 21/22 do INQ26, evento 1 do IP. A partir daí constata-se evidente equívoco material na data indicada no termo de declaração - 23 de novembro de 2020 -, porquanto a informação obtida após consutla ao SISP comprova que a vítima foi ouvida na Delegacia de Polícia de Chapecó no dia 15/9/2021:
+ ..
+7. A própria leitura do termo de declaração da vítima deixa claro que o mês em que as declarações foram prestadas pela vítima é o mês de setembro de 2021:
+ ..
+8. Assim, tendo conhecimento que caíra num golpe somente em em 5/5/2021, e sendo ouvida em 15/9/2021, manifestando no termo o direito de representação, conforme documentado acima, não há falar em decadência do direito de representação exercido pela vítima Vanderley Tonial, porquanto exercido dentro do prazo legal de 6 meses.
+Da atenta leitura das informações contidas na peça processual elaborada pelo Ministério Público do Estado de Santa Catarina, verifica-se que as alegações no pedido de habeas corpus estão dissociadas dos documentos que compuseram os autos do processo criminal.
+Conforme, se depreende do trecho acima transcrito, entre a data do conhecimento da autoria delitiva (5/5/2021) e a data em que houve a representação da vítima (15/9/2021) não transcorreu prazo superior ao previsto no art. 38 do CPP, qual seja: 6 meses.
+Conclui-se, portanto, que a defesa, ao afirmar a impossibilidade de se aferir a data em que ocorreu a representação da vítima, permite-se apresentar realidade fática totalmente diversa daquela contida nos autos do processo criminal.
+Desse modo, não há qualquer ilegalidade a ser reconhecida neste mandamus.
+Ante o exposto, denego a ordem de habeas corpus.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
