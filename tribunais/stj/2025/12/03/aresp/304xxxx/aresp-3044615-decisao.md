@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial por ausência de violação do art. 1.022, II, do CPC (fls. 609-610).
+O acórdão recorrido está assim ementado (fl. 557):
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS. INSCRIÇÃO EM CADASTRO RESTRITIVO DE CRÉDITO. SENTENÇA DE IMPROCEDÊNCIA.
+RECURSO DA AUTORA. ALEGADA INEXIGIBILIDADE DO DÉBITO. SUBSISTÊNCIA. NOTAS FISCAIS SEM COMPROVAÇÃO DE ENTREGA DOS PRODUTOS. PROVAS TESTEMUNHAIS QUE INDICAM CONFUSÃO PATRIMONIAL E OPERACIONAL ENTRE AS EMPRESAS LITIGANTES. IMPOSSIBILIDADE DE SE AFERIR A DINÂMICA EXATA DO NEGÓCIO QUE ENSEJOU A EMISSÃO DAS NOTAS E TAMPOUCO SE HOUVE EFETIVA ENTREGA DAS MERCADORIAS DISCIRIMINADAS. QUEBRA POSTERIOR DA AFFECTIO SOCIETATIS. SOLUÇÃO DA LIDE NORTEADA PELO CRITÉRIO DO ÔNUS DA PROVA. AUTORA QUE LOGROU COMPROVAR A INCLUSÃO DE SEU NOME EM CADASTRO DESABONADOR. ÔNUS DA PROVA DE FATO NEGATIVO QUE NÃO PODE SER IMPOSTO À AUTORA. MERA EMISSÃO DE NOTAS FISCAIS QUE NÃO CONSTITUI PROVA SUFICIENTE PARA A EXIGIBILIDADE DA DÍVIDA. INSCRIÇÃO INDEVIDA. ATO ILÍCITO CONFIGURADO. DANO MORAL PRESUMIDO (IN RE IPSA). SÚMULA 30 DO GRUPO DE CÂMARAS DE DIREITO CIVIL DESTA CORTE. REFORMA DA SENTENÇA QUE SE IMPÕE. DECLARADA A INEXIGIBILIDADE DO DÉBITO. CONDENAÇÃO DA RÉ AO PAGAMENTO DE INDENIZAÇÃO POR DANOS MORAIS.
+READEQUAÇÃO DOS ÔNUS SUCUMBENCIAIS.
+RECURSO CONHECIDO E PROVIDO.
+Os embargos de declaração opostos foram rejeitados (fls. 573-577).
+No recurso especial (fls. 582-590), interposto com fundamento no art. 105, III, "a", da CF, a parte recorrente apontou ofensa do art. 1.022, II, do CPC.
+Alegou que o acórdão recorrido teria sido omisso quanto à análise das provas que demonstram o inequívoco recebimento das mercadorias mencionadas nas notas fiscais impugnadas pela agravada, destacando, em especial, os registros contábeis desta que evidenciam a entrada das referidas mercadorias.
+Sustentou, ainda, que haveria provas robustas de que a agravada, além de manter relações comerciais com a agravante, efetivamente recepcionou as mercadorias representadas pelas notas fiscais ora controvertidas.
+Foram apresentadas contrarrazões (fls. 601-608).
+No agravo (fls. 612-619), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foi oferecida contraminuta (fls. 621-623).
+Juízo negativo de retratação (fl. 624).
+É o relatório.
+Decido.
+Inexiste afronta ao art. 1.022, II, do CPC quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+O Tribunal de origem, com base nos fatos e nas provas dos autos, assim se pronunciou (fls. 554-555):
+ ..  Nesse contexto, restou demonstrado nos autos, de forma inequívoca, que ambas as empresas eram compostas, à época dos fatos, por sócios em comum, compartilhavam o mesmo espaço físico para as suas atividades empresariais e aparentemente atuavam de forma integrada na comercialização das mercadorias.
+A propósito, ambos os depoimentos colhidos em juízo - do informante arrolado pela autora e da testemunha arrolada pela ré - confirmam que ambas as litigantes aparentemente se tratavam da mesma empresa, de modo que as vendas eram realizadas através da empresa autora, a quem os produtos eram repassados por meio de notas fiscais emitidas pela ré, como parte de uma estratégia operacional do grupo empresarial, em decorrência de vantagens fiscais. Importa consignar, ainda, que as mercadorias ficavam em estoque de terceira empresa (evento 93, VIDEO1 e evento 93, VIDEO2).
+Dessa forma, há indícios veementes de confusão patrimonial e operacional entre as sociedades, considerando que suas operações financeiras e comerciais eram conduzidas de maneira conjunta.
+Ademais, diante desse contexto fático, especialmente em razão do compartilhamento do espaço físico, da atuação conjunta nas vendas, da comunhão de funcionários e clientes, bem como da posterior dissolução da affectio societatis, não é possível precisar, a partir do acervo probatório, a dinâmica exata das negociações que culminaram na emissão das notas fiscais questionadas.
+ ..  No tocante à comprovação da entrega, impende destacar que não se pode exigir da autora/apelante a produção de prova de fato negativo. Assim, cabia à parte ré/apelada a demonstração inequívoca da concretização das operações comerciais alegadas, mediante a apresentação de elementos probatórios aptos a evidenciar a efetiva entrega dos produtos, tais como comprovantes de recebimento devidamente assinados.
+A esse respeito, é entendimento consolidado que a simples existência de nota fiscal desacompanhada de aceite ou assinatura não constitui prova suficiente para atestar a entrega das mercadorias.
+ ..  Destarte, a existência de uma relação comercial pretérita entre as partes, somada à eventual gestão compartilhada dos negócios, não constitui elemento probatório suficiente para afirmar, de forma categórica, que as mercadorias discriminadas nas notas fiscais impugnadas foram efetivamente entregues à apelante.
+Portanto, a insuficiência de lastro probatório acerca da entrega das mercadorias impõe a reforma da sentença, devendo ser reconhecida a inexigibilidade do débito em questão, ante a ausência de substrato probatório que legitime sua cobrança.
+Extrai-se ainda do acórdão dos embargos de declaração (fl. 574):
+ ..  Isso porque, sustenta a parte embargante, em síntese, a existência de omissão quanto à análise de prova documental, em especial no que se refere ao canhoto da nota fiscal firmado pela parte autora. Alega que tal documento constituiria prova suficiente da manifestação de vontade do devedor em receber a mercadoria, anuir com o preço pactuado e aceitar o prazo de vencimento estipulado. Argumenta, ainda, que, mesmo ausente nos autos o comprovante formal de entrega das mercadorias, bastaria a existência de qualquer elemento inequívoco que evidenciasse a anuência da parte autora à obrigação assumida, do que se presumiria, de forma implícita, a efetiva recepção dos bens.
+Contudo, a decisão embargada mostrou-se clara e fundamentada ao examinar os autos, reconhecendo a presença de indícios de confusão patrimonial e operacional entre as sociedades envolvidas. Ademais, destacou expressamente que a mera existência de nota fiscal, desacompanhada de aceite formal ou assinatura da parte destinatária, não se revela prova suficiente para comprovar a efetiva entrega das mercadorias.
+Desse modo, não assiste razão à parte, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente a seus interesses, não incorrendo em nenhum dos vícios previstos no art. 1.022 do CPC.
+Ademais, a modificação do entendimento firmado no acórdão impugnado, no tocante à comprovação da entrega das mercadorias, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo em recurso especial.
+Publique-se e intimem-se.
+EMENTA
