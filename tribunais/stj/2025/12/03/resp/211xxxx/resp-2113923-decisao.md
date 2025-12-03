@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se de recurso especial interposto por VESTAS DO BRASIL ENERGIA EOLICA LTDA, com fun damento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO assim ementado (fls. 279/280):
+TRIBUTÁRIO. PROCESSO CIVIL. MANDADO DE SEGURANÇA VALOR ADUANEIRO PARA FINS DE TRIBUTAÇÃO NA IMPORTAÇÃO. SERVIÇO DE CAPATAZIA. INTEGRA A BASE DE CÁLCULO DOS TRIBUTOS DEVIDOS NA OPERAÇÃO. POSSIBILIDADE. TEMA 1.014 DO STJ. RECURSO ESPECIAL REPETITIVO. PRESUNÇÃO DE CONSTITUCIONALIDADE DAS LEIS. PRELIMINAR AFASTADA.
+1. Apelação a desafiar sentença, que denegou a segurança pleiteada, objetivando afastar a exigibilidade do recolhimento do Imposto de Importação calculado com a inclusão das despesas incorridas depois da chegada do navio no porto brasileiro, reconhecendo a ilegalidade do art. 4º, §3º, da IN SRF 327/03, id. 4058100.21690132.
+2. O recorrente, alega, em síntese, 1) preliminarmente, levanta a possibilidade de arguição de inconstitucionalidade; 2) violação do princípio da legalidade (arts. 150, I e 146, III, alínea "a", ambos da Constituição Federal, haja vista a indevida ampliação da base de cálculo do Imposto de Importação através de Instrução Normativa; 3) violação ao previsto no art. 153, I, da CF, que outorga competência à União para instituir imposto sobre importações - fato gerador como sendo a entrada do bem em território nacional; 4) violação a IN SRF nº 327/03, pois o Imposto sobre Importação recai sobre a nacionalização de produtos estrangeiros - definição do conceito de importação o que ocorre com o registro da respectiva declaração junto à repartição estrangeira (art. 23 do DL 37/66); 5) negativa de vigência aos arts. 96, 97, 98 e 99, do CTN, §1º, do art. 40, da Lei 12.815/2013 e art. 77 e 79, do Decreto 6.759/09; e art. 8º, item 2, do Acordo Geral sobre Tarifas Aduaneiras e Comércio - GATT (Decreto 1.355/94); 6) no mérito, o direito líquido e certo, para recolher o imposto de importação, IPI e PIS/COFINS - importação, sem a inclusão dos serviços de capatazia na sua base de cálculo, diante da inconstitucionalidade e ilegalidade do § 3º do art. 4º da Instrução Normativa nº 327/2003; 7) que o entendimento decidido no Tema 1.014 do STJ não enfrentou as Notas Interpretativas do AVA, em seu comentário 9.1, o qual diz, expressamente, que não devem ser incluídos no valor aduaneiro os gastos de descarregamento incorridos após a importação - ou seja, após o ingresso da mercadoria no território nacional; ao final,7) pede subsidiariamente ausência de modulação od efeitos da aplicação do tema 1014, o que afronta o art. 924, §3º do CPC e os arts. 23 e 24, ambos da LINDB, pugnou pelo reconhecimento do direito à compensação dos tributos recolhidos indevidamente nos últimos cinco anos, atualizados pela Selic, que ocorrerá após o trânsito em julgado, na via administrativa e conforme legislação vigente, id. 23658422.
+3. Afasta-se a alegação de inconstitucionalidade deduzida na preliminar pela parte apelante, tendo em vista que a referida controvérsia, adstrita ao Tema 1.014 do STJ - "inclusão de serviços de capatazia na composição do valor aduaneiro", é matéria asas discutida no âmbito do STJ e reconhecida nos julgados desta Corte Regional, não logrando a recorrente em suas alegações desconstituir a presunção de constitucionalidade das leis e dos atos do Poder Público, que deriva da noção da separação e harmonia entre os Poderes (art. 2º, CF), como se verifica do seguinte aresto: REsp 1799306 / RS, Rel. Ministro Gurgel de Faria, julgado em 11/03/2020, DJe 19/05/2020. Rejeito, portanto, a preliminar.
+4. Cinge-se a questão quanto a legalidade da inclusão de serviços de capatazia na composição do valor aduaneiro.
+5. A despeito da bem elaborada e defensável tese liberatória construída pelos doutos causídicos, as razões recursais colidem com o estabelecido no enunciado do Tema 1.014, firmado pelo STJ em sede de recurso especial sob o rito dos repetitivos, cuja decisão é vinculante para esta Corte Regional, nos termos do art. 927, inc. III, do CPC:
+Tema 1.014: "Os serviços de capatazia estão incluídos na composição do valor aduaneiro e integram a base de cálculo do imposto de importação."
+6. Neste sentido o seguinte precedente: (AgInt no AgInt no REsp 1617785/SC, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 24/08/2020, DJe 27/08/2020). Confira-se, precedente desta Turma: (PROCESSO Nº: 0812047-14.2018.4.05.8100 - APELAÇÃO CÍVEL, Rel. Des. Fed. convocado Raimundo Alves de Campos Júnior, julgado em 29/09/2022)
+7. Apelação desprovida.
+Os embargos de declaração opostos foram rejeitados (fls. 332/335).
+A parte recorrente alega ter havido violação aos seguintes dispositivos legais pelos motivos descritos em seguida:
+(1) "Ante as novas alterações legislativas, as Recorrentes entendem que a publicação do Decreto n. 11.090/22 e da IN n. 2090/2022 no curso da ação caracteriza a ,superveniência de fato constitutivo de seu direito consoante o que estabelece o artigo 493 do CPC". (fl. 348);
+(2) arts. 96, 97, 98 e 99 do CTN, 40, §1º da Lei 12.815/2013; 77 e 79 do Decreto Federal 6.759/09; 8º, item 2, do GATT (Decreto 1.355/94) pois "resta demonstrada a assertividade da argumentação trazida pelas Recorrentes, inclusive pela alteração legislativa (Decreto n. 11.090/2022) e revogação da IN 327, para expressamente reconhecer a exclusão das despesas com capatazia no porto de destino da base de cálculo do Imposto de Importação, evidenciando a real possiblidade de superação do precedente firmado no Tema 1.014 do STJ, cujos embargos de declaração opostos poderão ser recebidos com efeitos infringentes também impactando positivamente no presente feito." (fl. 354);
+(3) "Outrossim, o entendimento formulado no já citado Tema 1.014 deste E. STJ não enfrentou as Notas Interpretativas do AVA, em seu comentário 9.1, o qual diz, expressamente, que não devem ser incluídos no valor aduaneiro os gastos de descarregamento incorridos após a importação - ou seja, após o ingresso da mercadoria no território nacional" (fl. 354)
+(3) arts. 924, § 3º, CPC e os arts. 23 e 24, da LINDB pela ausência de modulação de efeitos do Tema 1.014 (fls. 355/356).
+Requer o provimento de seu recurso.
+A parte adversa apresentou contrarrazões (fls. 429/444).
+O recurso foi admitido (fl. 464).
+É o relatório.
+A argumentação acerca das alterações legislativas ocorridas em 2022 não deve prosperar uma vez que não foi alegada no momento oportuno, uma vez que o acórdão da apelação foi assinado em 26/05/2023 (fl. 293) ocorrendo a preclusão consumativa; trata-se de inovação recursal.
+A propósito, cito os seguintes julgados desta Corte Superior:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM PEDIDO INDENIZATÓRIO. CONTRATO DE CONCESSÃO COMERCIAL. VEÍCULO AUTOMOTOR. AGRAVO EM RECURSO ESPECIAL. FINALIDADE. DESTRANCAMENTO DO RECURSO ESPECIAL. ÚNICA TESE DE OMISSÃO. ANÁLISE. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+3. O agravo em recurso especial não é via adequada para inovar no processo, incluindo-se teses novas, não suscitadas no recurso especial que lhe precedeu.
+ ..
+5. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 1.991.712/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 26/8/2024, DJe de 28/8/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. CONTRIBUIÇÃO SINDICAL. SERVIDORES PÚBLICOS ESTATUTÁRIOS. POSSIBILIDADE. VIGÊNCIA DA LEI 13.467/2017. INOVAÇÃO RECURSAL. PROVIMENTO NEGADO.
+ ..
+2. A supressão da compulsoriedade da contribuição sindical, tratada na Lei 13.467/2017, somente foi suscitada em agravo interno, o que impede o trânsito nesta instância especial por se tratar de inovação recursal.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.700.874/SC, minha relatoria, Primeira Turma, julgado em 27/5/2024, DJe de 7/6/2024.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO REGRESSIVA. ART. 120 DA LEI 8.213/1991. PRAZO PRESCRICIONAL. ART. 1º DO DECRETO 20.910/1932. DISCUSSÃO SOBRE O TERMO INICIAL. INOVAÇÃO RECURSAL. PRECLUSÃO CONSUMATIVA.
+ ..
+3. A jurisprudência do STJ firmou-se no sentido de que ocorre a preclusão consumativa quando a matéria ventilada em Agravo Regimental constitui inovação recursal em relação ao Recurso Especial. Nesse sentido: AgRg no AREsp 11.095/SP, Rel. Ministro Castro Meira, Segunda Turma, DJe 29.11.2012; AgRg no AREsp 231.214/MG, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 26.11.2012; AgRg no AREsp 180.724/SE, Rel. Ministro Humberto Martins, Segunda Turma, DJe 25.10.2012; AgRg no Resp 1.156.078/PR, Rel. Ministro Arnaldo Esteves Lima, Primeira Turma, DJe 14.11.2012.
+4. Agravo Regimental não provido.
+(AgRg no REsp n. 1.436.790/SC, relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 8/10/2019, DJe de 25/10/2019.)
+Os arts. artigos 96, 97, 98, 99, do Código Tributário Nacional; 924, § 3º, CPC e os arts. 23 e 24, da LINDB não foram apreciados pelo Tribunal de origem nem foram objeto dos embargos de declaração apresentados.
+A falta de enfrentamento no acórdão recorrido da matéria objeto do recurso impede o acesso à instância especial por não ter sido preenchido o requisito constitucional do prequestionamento.
+Incidem no presente caso, por analogia, as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+O recurso especial tem como uma de suas características a fundamentação vinculada, sendo imprescindível que em suas razões sejam apontados os dispositivos de lei que teriam sido violados pelo acórdão recorrido, com a indicação, de forma clara e direta, da interpretação que se entende deva ser dada à norma, não bastando a mera citação dos dispositivos de lei.
+Neste caso, no que se refere à alegação de violação dos artigos 40, §1º da Lei 12.815/2013; 77 e 79 do Decreto Federal 6.759/09; 8º, item 2, do GATT (Decreto 1.355/94), a parte recorrente não fez sua indicação acompanhada de argumentação específica sobre o modo como foram violados, assim, há deficiência de fundamentação, razão pela qual incide no ponto, por analogia, a Súmula 284 do Supremo Tribunal Federal e dessa parte do recurso não é possível conhecer.
+No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. ALEGAÇÃO DE ERRO NOS CÁLCULOS DE CORREÇÃO MONETÁRIA E JUROS MORATÓRIOS. ADEQUAÇÃO DA MEMÓRIA DE CÁLCULO AO TÍTULO JUDICIAL EXECUTIVO. SÚMULA 7/STJ. REEXAME DE MATÉRIA FÁTICA. SÚMULA 284/STF. DEFICIÊNCIA NA FUNDAMENTAÇÃO.
+ ..
+3. O recorrente não enfrentou especificamente os fundamentos da decisão agravada, limitando-se a apresentar argumentação genérica sobre a suposta violação legal, o que atrai a incidência da Súmula 284 do Supremo Tribunal Federal, por analogia, em razão da deficiência na fundamentação do Recurso.
+4. A jurisprudência do STJ é pacífica no sentido de ser inadmissível o Recurso Especial quando o agravante não demonstra de forma adequada e específica o equívoco na decisão que não admitiu o Recurso, conforme princípio da dialeticidade.
+ ..
+6. Agravo Interno não provido.
+(AgInt no AREsp n. 2.409.038/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 14/3/2024, DJe de 7/5/2024, sem destaque no original.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ALEGAÇÃO GENÉRICA DE OFENSA A DISPOSITIVO DE LEI FEDERAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. CONSELHO PROFISSIONAL. ANUIDADE. REGULAR CONSTITUIÇÃO DO CRÉDITO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 07/STJ. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. INADEQUADA AO CASO CONCRETO.
+ ..
+II - Revela-se deficiente a argumentação quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284, do Supremo Tribunal Federal.
+ ..
+VII - Agravo Interno improvido.
+(AgInt no REsp n. 1.921.863/RS, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 22/3/2021, DJe de 25/3/2021, sem destaque no original.)
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
