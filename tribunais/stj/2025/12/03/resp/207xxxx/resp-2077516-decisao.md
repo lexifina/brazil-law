@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso especial interposto por AGORA CORRETORIA DE TÍTULOS E VALOS MOBILIÁRIOS S/A e BANCO BRADESCO S/A fundamentado no art. 105, III, "a" e "c", da CF, interposto contra acórdão assim ementado (fl. 642):
+APELAÇÃO - AÇÃO DE RESCISÃO CONTRATUAL E RESTITUIÇÃO DE VALORES CUMULADA COM PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS - CONTRATO DE INTERMEDIAÇÃO E SUBCUSTÓDIA - Operações de compra e venda - Autora que realizava, por meio de mandatário, as negociações pela corretora corré em mesa de operação ou home broker - Ação julgada improcedente - Recurso da autora - Preliminar - Cerceamento de defesa - Inocorrência - Inutilidade do meio de prova oral - Mérito - Inexistência de elementos que permitam concluir pela má prestação dos serviços por parte da corré corretora - Mandatário da autora que atuava junto ao preposto da corretora na tomada de decisões - Sentença que emprestou solução adequada à lide - Honorários advocatícios majorados - Recurso da autora improvido.
+RECURSO ADESIVO - Honorários sucumbenciais - Arbitramento por equidade - Tema que não pode discutido em sede de recurso adesivo, não se vislumbrando o parcial decaimento da parte em relação ao objeto da ação, imprescindível para conhecimento do apelo na forma adesiva - Inteligência do artigo 997, parágrafo 1º, do CPC - Recurso adesivo não conhecido.
+Os embargos de declaração foram rejeitados (fls. 682-687).
+Em suas razões (fls. 753-774), a parte recorrente aponta dissídio jurisprudencial e a violação dos seguintes dispositivos legais:
+(i) arts. 85, §§ 2º e 8º, do CPC, por terem sido mantidos " .. os honorários sucumbenciais fixados na origem pelo juízo de equidade, embora o valor da causa não seja baixo, irrisório ou inestimável" (fl. 757).
+(ii) art. 85, § 11, do CPC, "no ponto em que majorou a verba devida aos patronos dos recorrentes em razão da sucumbência recursal da recorrida sem se atentar ao limite mínimo de 10% sobre o valor da causa" (fl. 757).
+(iii) art. 997 do CPC, "uma vez que deixou de conhecer do recurso de apelação adesivo interposto pelos recorrentes, embora tenha conhecido a apelação principal" (fl. 757).
+Contrarrazões apresentadas (fls. 796-800).
+O recurso foi admitido na origem.
+É o relatório.
+Decido.
+No que diz respeito às alegações atinentes ao valor da condenação em honorários, a tese e o conteúdo normativo de tais dispositivos não foram apreciados pelo Tribunal a quo, apesar da oposição de embargos declaratórios. Isso porque o recurso adesivo da parte recorrente não foi conhecido e a matéria não foi, portanto, devolvida à apreciação da Corte.
+No ponto relativo ao conhecimento do recurso adesivo, a Corte local decidiu pela inadmissibilidade do recurso adesivo interposto pela parte vencedora para discutir honorários, sob o fundamento de ausência de decaimento, nos seguintes termos (fls. 649-650):
+Quanto ao recurso adesivo interposto pelos réus, o cerne é estabelecer se deve ser aplicada a regra do artigo 85, §2º, do Código de Processo Civil, ou se deve ser mantido o arbitramento por equidade.
+A parte ré requer sua majoração em percentual calculado sobre o proveito econômico almejado pela autora que, no caso, é de R$11.352.264,84 (fls. 585 e 594) ou, alternativamente, em valor que melhor remunere o trabalho realizado (fls. 595).
+Todavia, tenho que questão não pode ser tratada em sede de recurso adesivo.
+Com efeito, dispõe o artigo 997, parágrafo 1º, do CPC que "Sendo vencidos autor e réu, ao recurso interposto por qualquer deles poderá aderir o outro."
+O requisito para o conhecimento do recurso adesivo é o decaimento parcial das partes. Ocorre que as requeridas não decaíram na ação movida pela autora. A demanda foi julgada improcedente.
+O tema exclusivo do recurso adesivo é a fixação da verba honorária sucumbencial, que pertence aos patronos, e não à parte. Assim, os patronos, e mesmos as requeridas, poderiam discutir o tema em sede de apelação caso proposta na forma do caput do artigo 997 do Diploma Processual vigente. Todavia, decorrido o prazo para interposição de recurso, o uso da via escolhida (recurso adesivo) é menos amplo, admitindo apenas a discussão de questões em que efetivamente vencida(s) a(s) recorrente(s).
+A jurisprudência desta Corte, interpreta a sucumbência recíproca como material, vinculada ao interesse recursal, admitindo o recurso adesivo, mesmo que o objetivo seja unicamente a majoração da verba indenizatória ou dos honorários fixados na sentença.
+O interesse recursal, nessa hipótese, não decorre da sucumbência total ou parcial, mas da insatisfação da parte com o montante estabelecido na origem. Da mesma forma, é pacífico o entendimento de que a parte e seu advogado possuem legitimidade concorrente para recorrer visando à majoração dos honorários advocatícios.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO REVISIONAL DE CONTRATO BANCÁRIO - DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO AO RECURSO DA PARTE ADVERSA. INSURGÊNCIA DO REQUERIDO.
+1. Nos termos do artigo 500 do CPC/1973, é requisito para o cabimento do recurso adesivo a sucumbência recíproca, entendida como a existência de interesse das partes em obter a reforma da decisão impugnada, ou seja, a existência de sucumbência material, não apenas formal. Precedente da Corte Especial.
+2. Consoante a jurisprudência deste Tribunal, tem interesse em recorrer a parte que busca majoração dos honorários advocatícios.
+3. No caso em tela, a casa bancária interpôs, em face da sentença de improcedência do pedido autoral, recurso de apelação buscando a majoração da verba honorária, ao que se seguiu apelo adesivo dos autores. Uma vez conhecido o recurso principal, impõe-se o conhecimento do adesivo. Precedente.
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 364.820/DF, relator Ministro Marco Buzzi, Quarta Turma, julgado em 27/2/2018, DJe de 2/3/2018.)
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE COBRANÇA DE HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. VIOLAÇÃO DO ART. 1.022 DO NCPC. NÃO CONFIGURADA. RECURSO ADESIVO PARA MAJORAÇÃO DOS HONORÁRIOS. INTERESSE RECURSAL E LEGITIMIDADE DA PARTE. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO FIRMADO NESTA CORTE. SÚMULA Nº 568 DO STJ. CONTRATO DE PRESTAÇÃO DE SERVIÇOS. HONORÁRIOS AD EXITUM. REVOGAÇÃO DO MANDATO ANTES DO FINAL DA AÇÃO. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. SÚMULAS NºS 5 E 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Ausência de violação do art. 23 da Lei nº 8.906/94 em virtude dos óbices das Súmulas nºs 5 e 7 do STJ, porque inviável o reexame das conclusões do TJDFT quanto a existência de cláusula de êxito apenas se houvesse o acompanhamento até o final da ação.
+3. Inexistem os vícios elencados no art. 1.022 do NCPC, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente, visando rediscutir matéria que já foi analisada. A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+4. A jurisprudência do STJ é tranquila no sentido de que, apesar de os honorários advocatícios constituírem direito autônomo do advogado, não se exclui da parte a legitimidade concorrente para discuti-los. Art. 23 da Lei nº 8.906/94. Precedentes.
+5. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+6. Agravo interno não provido.
+(AgInt no REsp n. 1.714.481/DF, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 19/10/2020, DJe de 22/10/2020.)
+Ante o exposto, DOU PROVIMENTO ao recurso especial para anular o acórdão recorrido no ponto em que deixou de conhecer o recurso adesivo da parte recorrente, determinando o retorno dos autos ao Tribunal de origem, a fim de que seja conhecido e apreciado o recurso adesivo, como entender de direito.
+Publique-se e intimem-se.
+ EMENTA
