@@ -1,0 +1,71 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 27/11/2025 a 03/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+DIREITO PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. POSSE DE ARMA DE FOGO DE USO RESTRITO E ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO. BUSCA DOMICILIAR. VALIDADE. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DOS DELITOS. PRISÃO DOMICILIAR. DESCABIMENTO. SITUAÇÃO EXCEPCIONALÍSSIMA.
+1. O ingresso na residência da recorrente foi legitimado pela configuração de situação de flagrante, em razão da natureza permanente dos crimes imputados, posse ilegal de arma de fogo e adulteração de sinal identificador de veículo automotor, excepcionando a exigência de mandado judicial.
+2. A análise da alegada violação de domicílio deve ser realizada durante a instrução processual em juízo, em cognição plena, sendo inviável o revolvimento fático-probatório no rito célere do habeas corpus.
+3. A decisão que decretou a prisão preventiva está devidamente fundamentada, com base em dados concretos, nos termos do art. 312 do Código de Processo Penal, considerando a gravidade concreta dos delitos imputados e a existência de outros feitos em andamento, evidenciando a necessidade da prisão para evitar a reiteração delitiva.
+4. As condições pessoais favoráveis da recorrente, como primariedade e residência fixa, não são suficientes para revogar a prisão preventiva, considerando os elementos que recomendam a manutenção da custódia cautelar.
+5. A concessão de prisão domiciliar foi indeferida com base no art. 318-A do Código de Processo Penal, considerando a situação excepcionalíssima de que os crimes foram praticados no interior da residência, convertida em local de risco à ordem pública e à integridade dos filhos menores.
+6. Recurso em habeas corpus improvido.
+RELATÓRIO
+Trata-se de recurso em habeas corpus interposto em favor de ANA BEATRIZ RODRIGUES DE SOUSA contra acórdão proferido pelo Tribunal de Justiça do Estado do Estado de Pernambuco (Habeas Corpus n. 0000380-80.2025.8.17.9901).
+Consta dos autos que a recorrente foi presa em flagrante em 26/7/2025, com posterior conversão em prisão preventiva, pela suposta prática das condutas descritas no art. 16, caput, da Lei n. 10.826/2003 e art. 311, § 2º, III, do Código Penal.
+A defesa alega a ilegalidade no ingresso na residência da recorrente, sem mandado judicial ou fundadas razões, questionando a alegada autorização da moradora para a entrada da equipe policial (fl. 118).
+Aduz que a decisão que decretou a prisão preventiva não apresenta motivação idônea, não tendo sido demonstrada a presença dos requisitos que autorizam a medida cautelar extrema (fls. 118/119).
+Salienta que a prisão foi decretada com base em argumentos genéricos e sem que se tenha mencionado a periculosidade da recorrente (fl. 118).
+Sustenta que a recorrente é primária, possui residência fixa e é a responsável exclusiva por dois filhos menores de 12 anos, o que atrai a necessidade de concessão de prisão domiciliar (fl. 119).
+Requer o provimento do recurso, com a revogação da prisão preventiva ou, subsidiariamente, a concessão da prisão domiciliar, nos termos do art. 318-A, do Código de Processo Penal.
+Intimado, o Ministério Público Federal apresentou parecer opinando pelo desprovimento do recurso em habeas corpus (fls. 135/145).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. POSSE DE ARMA DE FOGO DE USO RESTRITO E ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO. BUSCA DOMICILIAR. VALIDADE. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DOS DELITOS. PRISÃO DOMICILIAR. DESCABIMENTO. SITUAÇÃO EXCEPCIONALÍSSIMA.
+1. O ingresso na residência da recorrente foi legitimado pela configuração de situação de flagrante, em razão da natureza permanente dos crimes imputados, posse ilegal de arma de fogo e adulteração de sinal identificador de veículo automotor, excepcionando a exigência de mandado judicial.
+2. A análise da alegada violação de domicílio deve ser realizada durante a instrução processual em juízo, em cognição plena, sendo inviável o revolvimento fático-probatório no rito célere do habeas corpus.
+3. A decisão que decretou a prisão preventiva está devidamente fundamentada, com base em dados concretos, nos termos do art. 312 do Código de Processo Penal, considerando a gravidade concreta dos delitos imputados e a existência de outros feitos em andamento, evidenciando a necessidade da prisão para evitar a reiteração delitiva.
+4. As condições pessoais favoráveis da recorrente, como primariedade e residência fixa, não são suficientes para revogar a prisão preventiva, considerando os elementos que recomendam a manutenção da custódia cautelar.
+5. A concessão de prisão domiciliar foi indeferida com base no art. 318-A do Código de Processo Penal, considerando a situação excepcionalíssima de que os crimes foram praticados no interior da residência, convertida em local de risco à ordem pública e à integridade dos filhos menores.
+6. Recurso em habeas corpus improvido.
+VOTO
+Inicialmente, em relação à nulidade da busca domiciliar realizada, extrai-se do acórdão recorrido a seguinte dinâmica dos fatos (fl. 95 - grifo nosso):
+No caso, a atuação policial teve início após denúncias sobre movimentação suspeita de motocicletas possivelmente clonadas. Durante a abordagem, constatou-se a adulteração dos veículos em posse da paciente, que, de forma voluntária, informou possuir arma de fogo em sua residência e franqueou o acesso aos policiais (Id. 210954310, autos originários).
+Ficou, assim, evidenciada a existência de justa causa para a diligência, afastando a alegada violação de domicílio.
+Verifica-se que o ingresso dos policiais na residência da paciente foi legitimado pela configuração de situação de flagrante, em razão da natureza permanente dos crimes imputados  posse ilegal de arma de fogo e adulteração de sinal identificador de veículo automotor. Conforme entendimento consolidado dos tribunais superiores, tais hipóteses excepcionam a exigência de mandado judicial para ingresso em domicílio.
+Verifica-se que o ingresso da equipe policial na residência da recorrente foi precedida de (i) denúncia acerca da movimentação suspeita de motocicletas clonadas; (ii) abordagem da recorrente, ocasião em que se constatou a adulteração do veículo que estava em sua posse; e (iii) autorização para o ingresso em seu domicílio.
+Não há como, à luz dos argumentos utilizados pelo Tribunal de Justiça e nesta fase ainda inicial da ação penal, entender pela nulidade da busca realizada, já que, para se concluir pela autorização - ou não - do ingresso no domicílio, imperioso imiscuir-se nas provas que, ao que parece, ainda não foram produzidas.
+Dito de outro modo, neste momento processual e com as informações até então presentes nos autos, não se verifica de plano a ausência de justa causa para o ingresso no domicílio, em razão de indícios prévios e situação de flagrante criminal.
+De se destacar que o feito se encontra em sua fase instrutória, devendo a tese de violação de domicílio no momento da prisão em flagrante ser analisada durante a instrução processual em juízo, em cognição plena (AgRg no HC n. 788.956/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 11/10/2023).
+Registre-se, ainda, que, para desconstituir a convicção do Tribunal local de que o ingresso no domicílio teria se dado de modo diverso, imprescindível seria o revolvimento fático-probatório dos autos, providência inviável de se promover no rito célere e estreito do habeas corpus ou do recurso que lhe faz as vezes.
+Em relação aos fundamentos utilizados para a decretação da prisão preventiva, a decisão foi fundamentada da seguinte forma (fls. 72/73 - grifo nosso):
+Volvendo-me ao caso concreto, vislumbro que tanto a materialidade quanto os inícios de autoria se encontram presentes, eis que a autuada foi presa ao sair de casa, momento em que estava pilotando uma moto com sinais de adulteração, sendo que, após, a própria autuada informou possuir armas de fogo (9 mm), munição, além de duas outras motos, também irregulares, já possuindo outros feitos em andamento, não merecendo guarida, neste momento, a sua alegação de que outros dois casais teriam estado em sua casa e deixando as armas, munições e motos. Assim, encontro presente o fumus delicti comissi.
+O entendimento das instâncias originárias está em consonância com a jurisprudência do Superior Tribunal de Justiça, que admite a prisão preventiva mediante decisão devidamente fundamentada e com base em dados concretos, nos termos do art. 312 do Código de Processo Penal.
+E, no caso, para além da gravidade concreta dos delitos imputados, foi considerada a existência de outros feitos em andamento, o que evidencia a necessidade da prisão também para evitar a reiteração delitiva.
+Destaco a esse respeito:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. PRISÃO PREVENTIVA. TRÁFICO DE DROGAS. REITERAÇÃO DELITIVA. QUANTIDADE E NATUREZA DAS DROGAS. GRAVIDADE CONCRETA. RISCO À ORDEM PÚBLICA. RECURSO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu do habeas corpus, no qual se pleiteava a revogação da prisão preventiva de acusado por suposto tráfico de drogas.
+2. A defesa alega que o agravante é primário, possui bons antecedentes e residência fixa, argumentando que a quantidade e variedade das drogas não devem ser critérios absolutos para a manutenção da custódia cautelar.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a prisão preventiva do agravante deve ser mantida, considerando a quantidade e variedade das drogas apreendidas, bem como a alegação de primariedade e bons antecedentes.
+III. Razões de decidir
+4. A decisão agravada foi mantida, pois a quantidade e a variedade das drogas, associadas à forma de acondicionamento, evidenciam a gravidade concreta dos fatos e a necessidade do encarceramento provisório, conforme o art. 312 do CPP.
+5. A existência de outra ação penal em curso contra o agravante reforça a necessidade de manutenção da prisão preventiva para resguardar a ordem pública.
+6. A jurisprudência desta Corte é firme no sentido de que a preservação da ordem pública justifica a prisão preventiva quando há reiteração delitiva.
+7. Condições pessoais favoráveis, como primariedade e residência fixa, não são suficientes para revogar a prisão preventiva sempre que houver elementos que recomendam a manutenção da custódia cautelar.
+IV. Dispositivo e tese
+8. Agravo regimental desprovido.
+Tese de julgamento: "1. A quantidade e a variedade das drogas apreendidas podem justificar a manutenção da prisão preventiva, sempre que remanescer dos fatos a periculosidade social do agente.
+2. A existência de outra ação penal em curso reforça a necessidade de prisão preventiva para resguardar a ordem pública. 3. Condições pessoais favoráveis não são suficientes para revogar a prisão preventiva quando há elementos que recomendam a manutenção da custódia cautelar".
+Dispositivos relevantes citados: CPP, art. 312; CPP, art. 319.
+Jurisprudência relevante citada: STJ, AgRg no AREsp 2451465, Quinta Turma, Rel. Min.  Nome do Ministro , DJe 13/08/2024; STJ, AgRg no HC 996627, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe 04/07/2025.
+(AgRg no HC n. 948.503/AM, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 19/8/2025, DJEN de 26/8/2025 - grifo nosso).
+Além disso, as condições subjetivas favoráveis do acusado, por si sós, não impedem a prisão cautelar, caso se verifiquem presentes os requisitos legais para a decretação da segregação provisória (AgRg no RHC n. 218.197/DF, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 3/9/2025, DJEN de 9/9/2025).
+Por fim, também não se mostra viável a concessão de prisão domiciliar, já que os crimes foram praticados no interior da residência, onde, ao que parece, a recorrente reside com os filhos menores. No ponto (fl. 98):
+Também não se justifica a substituição por prisão domiciliar. Os crimes foram praticados no interior da residência, convertida em local de risco à ordem pública e à integridade dos filhos menores, tornando inviável presumir que o ambiente doméstico ofereça condições de proteção adequada.
+A respeito do tema, cumpre informar que em 27/11/2019, a Terceira Seção desta Corte Superior de Justiça decidiu, por maioria, que, além das duas exceções previstas no art. 318-A do Código de Processo Penal à concessão de prisão domiciliar (crime praticado mediante violência ou grave ameaça e crime perpetrado contra seus descendentes), é possível que, em situações excepcionalíssimas, seja negada a prisão domiciliar à mulher presa que esteja gestante, em estado puerperal, e que seja mãe de criança (menor até 12 anos incompletos) ou de pessoa com deficiência.
+No caso em análise, observo que o Tribunal de Justiça indeferiu o pedido de substituição da custódia cautelar por prisão domiciliar, com base no art. 318-A do Código de Processo Penal, afirmando que restou comprovada situação excepcionalíssima, pois os crimes foram praticados no interior da residência em que a recorrente reside com os filhos menores.
+Por fim, é certo que a regra do art. 318-A do Código de Processo Penal não constitui salvo-conduto para todas as situações envolvendo mulheres grávidas ou com filhos menores de 12 anos. No caso em análise, considerando suas especificidades, entendo que a ré não faz jus à prisão domiciliar, pois, em tese, praticou o crime no local em que reside com os filhos, inclusive, expondo os menores à risco concreto diante da manutenção de arma em seu interior.
+No mesmo sentido, confiram-se os seguintes julgados desta Corte Superior de Justiça: AgRg no HC n. 945.138/SP, Rel. Min. Messod Azulay Neto, Quinta Turma, DJe de 11/12/2024; e AgRg no HC n. 911.749/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 21/5/2024, DJe de 29/5/2024.
+Ante o exposto, nego provimento ao recurso em habeas corpus.
