@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de agravo interposto por MB MECANICA LTDA. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS cuja ementa guarda os seguintes termos (fl.153):
+EMENTA: APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA - DÉBITO VINCULADO A CRÉDITO DECORRENTE CAPITAL DE GIRO - VALOR DA DÍVIDA - DEMONSTRATIVO DO DÉBITO, COM BASE EM EXTRATOS - SENTENÇA REFORMADA. - Se as alegações das partes e os elementos constantes dos autos evidenciam a existência da contratação de Capital de Giro entre os Litigantes, assim como da dívida cobrada, não se revela necessária a juntada, pelo Banco Requerente, do respectivo Instrumento contratual assinado pela Contratante.
+Sem embargos de declaração.
+No recurso especial, alega a parte recorrente que houve violação do art. 373 do CPC, sob o argumento de que o Tribunal de origem teria mantido a cobrança de suposta dívida bancária sem a juntada do contrato que lhe daria suporte, substituindo-o por documentos que, segundo afirma, seriam incapazes de comprovar a relação jurídica. Sustenta que o acórdão recorrido teria presumido a existência da dívida a partir de extratos e outros documentos "genéricos", em afronta ao ônus probatório imposto ao autor da ação de cobrança.
+Aduz que a decisão estadual contrariou as disposições contidas no art. 373, I, do CPC, ao dispensar a apresentação do instrumento contratual e admitir a cobrança com base em documentos que não demonstrariam, de forma específica, a origem, os termos e a evolução da dívida bancária. Assevera que o Tribunal mineiro teria incorrido em indevida valoração probatória, presumindo fatos não comprovados e admitindo cobrança de contrato não apresentado.
+Aponta divergência jurisprudencial com arestos de outros tribunais e desta Corte, afirmando que o STJ exige a comprovação mínima do contrato para legitimar ação de cobrança, e que a responsabilidade pelo ônus da prova recai sobre quem alega o fato constitutivo do direito.
+Sem contrarrazões ao recurso especial.
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls.195-196), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo.
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Sem razão a parte recorrente, pois o recurso especial não reúne condições de admissibilidade.
+De início, incide, na espécie, o óbice da Súmula n. 7/STJ, porquanto a pretensão recursal demanda o reexame do acervo fático-probatório que embasou o acórdão recorrido. O Tribunal mineiro assentou a existência da contratação, a efetivação do depósito e a evolução da dívida com base em extratos bancários, documentos de titularidade da recorrida e na ausência de impugnação específica quanto às movimentações descritas (fls. 157-160). A modificação dessas premissas implica revolvimento de provas, vedado na via estreita do art. 105, III, da Constituição Federal.
+Ademais, aplica-se, por analogia, a Súmula n. 283/STF, pois subsiste fundamento autônomo e suficiente não impugnado no apelo nobre. O acórdão expressamente consignou que, "ao aceitar o serviço e receber o valor disponibilizado em sua conta, a Postulada inequivocamente consentiu com a operação" (fl. 157), premissa não enfrentada de forma específica pelo recorrente. A jurisprudência deste Tribunal Superior é pacífica no sentido de que a falta de impugnação de fundamento bastante à manutenção do julgado impede o conhecimento do recurso especial.
+Ressalte-se, por oportuno, que a discussão relativa à distribuição do ônus probatório (art. 373 do CPC) foi solucionada a partir de elementos fáticos extraídos dos documentos juntados aos autos, circunstância que, mais uma vez, evidencia a impossibilidade de revisão do julgado sem revolvimento de provas.
+Nesse sentido, cito:
+ ..  Modificar a conclusão do Tribunal de origem, soberano quanto à análise da necessidade ou não de se produzir outras provas além daquelas já produzidas, demandaria o reexame do contexto fático-probatório dos autos, providência vedada em recurso especial tendo em vista o óbice da Súmula nº 7/STJ (STJ - REsp: 1666108 PR 2017/0081341-9, Relator.: Ministro RICARDO VILLAS BÔAS CUEVA, Data de Julgamento: 23/03/2021, T3 - TERCEIRA TURMA, Data de Publicação: DJe 25/03/2021).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de majorar os honorários visto que já foram fixados na origem no patamar máximo de 20% (fl.166).
+Publique-se. Intimem -se.
+ EMENTA
