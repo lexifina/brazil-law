@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial por inexistência de afronta aos arts. 11, 489, § 1º, e 1.022 do CPC, ausência de demonstração de ofensa aos demais dispositivos legais apontados e incidência da Súmula n. 7 do STJ (fls. 568-570).
+O acórdão recorrido encontra-se assim ementado (fl. 476):
+AÇÃO DECLARATÓRIA C/C INDENIZATÓRIA POR DANOS MORAIS - Impugnação exclusivamente quanto à numeração dos contratos e aos valores do apontamento - Ônus probatório desincumbido pelo réu - Art. 373, II, CPC - Diferença no valor inscrito no órgão de proteção ao crédito que decorre da incidência dos encargos de inadimplemento cujas contratações vieram demonstradas - Ausência de alegação de quitação - Regularidade da inscrição no cadastro de inadimplentes, que não viola o art. 43, § 1º do CDC - Exercício regular de direito - Art. 188, I, CC - IMPROCEDÊNCIA MANTIDA - RECURSO DESPROVIDO.
+Os embargos de declaração foram rejeitados (fls. 543-545).
+Nas razões do recurso especial (fls. 481-524), fundamentado no art. 105, III, "a", da CF, a parte recorrente alegou violação dos seguintes dispositivos legais:
+(i) arts. 11, 489, § 1º, e 1.022 do CPC, aduzindo omissão do acórdão recorrido quanto à tese de insuficiência da documentação produzida unilateralmente pelo recorrido para justificar os apontamentos em cadastro de inadimplentes, e
+(ii) arts. 4º, 6º, 7º, 14, 39, 42, 43, 71, 72 e 73 do CDC e 373 do CPC, sustentando, em suma, que "quem afirma ter um crédito, mas não apresenta documentos que corresponda ao título e, tampouco, comprova o inadimplemento, não pode ter como lícitos apontamentos apresentados nessas condições, posto que lhe falta lastro e credibilidade" (fl. 513).
+Defende ainda que "os apontamentos se apresentam ilícitos, pois, ainda que se considere que o réu poderia constituir um título para si, o modo como foram apontados o foram com afronta às disposições dos artigos 43, parágrafo 1º c/c artigo 73 do CDC, que em razão do dano in re ipsa, reclamam a reparação autorizada pelos artigos 186, 187, 927 do CC/02, e, ademais, o apontamento sem ressalva dos pagamentos reclamam, ainda, as disposições dos artigos 42, CDC e 940 do CC/02, eis que a conduta lesiva aqui, restou óbvia" (fl. 501).
+No agravo (fls. 573-593), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 596-606.
+É o relatório.
+Decido.
+Não há falar em vício de fundamentação ou negativa de prestação jurisdicional quando os fundamentos adotados pelo Tribunal de origem bastam para justificar a conclusão do acórdão, não estando o julgador obrigado a rebater todos os argumentos suscitados pela parte.
+O TJSP enfrentou a questão controvertida e concluiu fundamentadamente que "o conjunto fático-probatório contido nos autos confirma a legitimidade dos débitos questionados, de modo que as restrições creditícias lançadas não constituem ato ilícito, mas exercício regular de direito (art. 188, I, CC1), não se verificando vício do serviço e, por consequência, ausente o dever de indenizar" (fl. 479). Consignou que (fls. 477-479):
+ ..  incontroversa a contratação dos cartões de crédito que embasam os apontamentos alegadamente irregulares  ..
+ ..  os apontamentos junto a cadastro de proteção ao crédito impugnadas na presente demanda são as seguintes:
+ ..
+Com relação à primeira, já tendo sido baixada (fl. 319), carece o autor de interesse de agir para o pleito de inexigibilidade do débito.
+Com relação às demais, desincumbiu-se o réu de seu ônus probatório (art. 373, II, CPC), observando que não estão configurados os pressupostos do art. 6º, inc. VIII, do CDC, devendo ser considerada a prova documental apresentada pelo apelado porque a única hipótese, para o caso dos autos, da demonstração de suas alegações.
+O contrato de nº 002527281160000 refere-se ao cartão de crédito nº 5275. xxxx. xxxx.8006 e as faturas demonstram que era constantemente utilizado pelo autor, que, a partir de janeiro de 2020 (vencimento em 26.12.2019), deixou de quitar a prestação mensal, iniciando a incidência de encargos rotativos no período (vide, especialmente, fls. 273/282).
+Já o contrato de nº 000000131336372, cujas telas sistêmicas encontram-se às fls. 293/311, refere-se a uma operação de empréstimo contratada em 18/11/2019 para pagamento em doze parcelas, das quais houve o inadimplemento da que se venceu inicialmente em 20/12/2019, configurada suficiente correspondência entre o valor apontado e aquele não pago (R$ 1.716,28) com incidência dos encargos contratuais.
+A rigor, inexiste alegação de quitação e muito menos prova do pagamento dos débitos vencidos e que foram inscritos, não havendo como se declarar a inexigibilidade pretendida apenas por causa de diferenças que decorrem da própria incidência dos encargos remuneratórios contratados em caso de inadimplemento.
+Aliás, inexistindo negativa dos débitos, não se pode presumir que o autor tenha sido prejudicado pela ausência de correspondência ou de violação ao art. 43, § 1º do CDC, porque os apontamentos contêm informação adequada e suficiente a situação de inadimplemento das obrigações contratadas.
+Destarte, o conjunto fático-probatório contido nos autos confirma a legitimidade dos débitos questionados, de modo que as restrições creditícias lançadas não constituem ato ilícito, mas exercício regular de direito (art. 188, I, CC1), não se verificando vício do serviço e, por consequência, ausente o dever de indenizar.
+Desse modo, não assiste razão à parte agravante, visto que o Tribunal a quo decidiu de forma fundamentada a matéria controvertida nos autos, ainda que contrariamente a seus interesses, não incorrendo em nenhum dos vícios previstos nos arts. 489 e 1.022 do CPC.
+Ademais, no presente contexto, a revisão da conclusão do Tribunal de origem  acerca da existência de contratação, da suficiência das provas produzidas pela instituição financeira, da comprovação da legitimidade dos débitos questionados e da adequação das informações constantes dos apontamentos desabonadores  demandaria o revolvimento de fatos e provas, inviável nesta via recursal a teor da Súmula n. 7 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Deferida a gratuidade da justiça na instância de origem, deve ser observada a regra do § 3º do art. 98 do CPC.
+Publique-se e intimem-se.
+EMENTA
