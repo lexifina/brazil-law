@@ -1,0 +1,69 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 27/11/2025 a 03/12/2025, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Carlos Pires Brandão.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ESTELIONATO MAJORADO. IMPETRAÇÃO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. SÚMULA N. 691/STF. AUSÊNCIA DE ILEGALIDADE FLAGRANTE OU TERATOLOGIA. FATOS NOVOS SUPERVENIENTES. NOVOS ATOS JUDICIAIS. ANÁLISE. IMPOSSIBILIDADE. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática da Presidência que indeferiu liminarmente o habeas corpus, com fundamento no enunciado da Súmula n. 691/STF.
+2. O agravante sustenta a necessidade de mitigação do verbete sumular, alegando a ocorrência de teratologia na ação penal de origem, bem como a superveniência de fatos novos que comprovariam o cerceamento absoluto de defesa e o agravamento da situação processual.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em verificar se a decisão monocrática que indeferiu a liminar no Tribunal de origem é manifestamente ilegal ou teratológica e se os fatos novos supervenientes autorizam a superação da Súmula n. 691/STF.
+III. RAZÕES DE DECIDIR
+4. A jurisprudência desta Corte Superior é pacífica no sentido do não cabimento de habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, salvo nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade.
+5. No caso, a decisão que indeferiu a liminar no Tribunal Regional Federal não se mostra flagrantemente ilegal, pois as teses de atipicidade da conduta e de cerceamento de defesa pela DPU confundem-se com o próprio mérito da impetração originária, ainda pendente de julgamento, não se vislumbrando a excepcionalidade apta a superar o óbice sumular.
+6. Os fatos novos supervenientes, referentes a novas decisões proferidas na ação penal (determinação de bloqueio de acesso do réu aos autos) e na ação cível (extinção do feito prejudicial), constituem novos atos judiciais. Tais atos não foram objeto de análise pelo Tribunal de origem no writ impugnado, não podendo ser apreciados originariamente por esta Corte Superior, sob pena de indevida supressão de instância.
+IV. DISPOSITIVO
+7. Agravo regimental não provido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por LUIZ GUSTAVO DA ROCHA contra decisão monocrática da Presidência desta Corte (fls. 107/109), que indeferiu liminarmente o habeas corpus impetrado.
+O habeas corpus originário foi impetrado em favor próprio, apontando como ato coator a decisão de Desembargador do Tribunal Regional Federal da 1ª Região que indeferiu o pedido de liminar formulado no HC n. 1034685-74.2025.4.01.0000. Naquela impetração, buscava-se o trancamento da Ação Penal n. 1039879-11.2023.4.01.3400, alegando-se, em síntese, a atipicidade material da conduta (ausência de vantagem ilícita) e o cerceamento de defesa (atuação deficiente da Defensoria Pública da União - DPU).
+A decisão monocrática ora agravada aplicou o óbice da Súmula n. 691 do Supremo Tribunal Federal, por entender que a matéria não foi examinada no mérito pelo Tribunal de origem e que a situação dos autos não apresentava excepcionalidade a justificar a prematura intervenção desta Corte Superior.
+No presente agravo regimental (fls. 112/116), o agravante sustenta a necessidade de mitigação da Súmula 691/STF, alegando a ocorrência de teratologia e flagrante ilegalidade. Reitera os argumentos de cerceamento de defesa pela DPU, que teria postulado a aplicação de medida de segurança em conflito com a tese de absolvição plena da autodefesa, e a atipicidade material da conduta.
+Informa, ainda, a ocorrência de Fato Novo Superveniente, que configuraria cerceamento absoluto de defesa: uma decisão proferida pelo Juízo da 12ª Vara Federal Criminal do Distrito Federal, nos autos da ação penal, que teria bloqueado totalmente o acesso do agravante (réu) aos autos, determinado a exclusão de suas petições de autodefesa e o proibido de peticionar novamente.
+Subsequentemente, o agravante protocolou duas novas petições (fls. 122/124 e fls. 146/148). Na primeira, informa que o TRF1 indeferiu seu pedido de reconsideração (baseado no Fato Novo 1) sem fundamentação. Na segunda, informa a ocorrência de outro Fato Novo: a extinção, sem resolução do mérito, do Processo Cível n. 1001671-55.2023.4.01.3400, que discutia seu direito à pensão (prejudicial externa da ação penal).
+Ao final, requer o provimento do agravo regimental para que, reformando-se a decisão monocrática e superando-se a Súmula 691/STF, seja deferida a medida liminar para suspender o curso da Ação Penal n. 1039879-11.2023.4.01.3400.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ESTELIONATO MAJORADO. IMPETRAÇÃO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. SÚMULA N. 691/STF. AUSÊNCIA DE ILEGALIDADE FLAGRANTE OU TERATOLOGIA. FATOS NOVOS SUPERVENIENTES. NOVOS ATOS JUDICIAIS. ANÁLISE. IMPOSSIBILIDADE. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática da Presidência que indeferiu liminarmente o habeas corpus, com fundamento no enunciado da Súmula n. 691/STF.
+2. O agravante sustenta a necessidade de mitigação do verbete sumular, alegando a ocorrência de teratologia na ação penal de origem, bem como a superveniência de fatos novos que comprovariam o cerceamento absoluto de defesa e o agravamento da situação processual.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em verificar se a decisão monocrática que indeferiu a liminar no Tribunal de origem é manifestamente ilegal ou teratológica e se os fatos novos supervenientes autorizam a superação da Súmula n. 691/STF.
+III. RAZÕES DE DECIDIR
+4. A jurisprudência desta Corte Superior é pacífica no sentido do não cabimento de habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, salvo nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade.
+5. No caso, a decisão que indeferiu a liminar no Tribunal Regional Federal não se mostra flagrantemente ilegal, pois as teses de atipicidade da conduta e de cerceamento de defesa pela DPU confundem-se com o próprio mérito da impetração originária, ainda pendente de julgamento, não se vislumbrando a excepcionalidade apta a superar o óbice sumular.
+6. Os fatos novos supervenientes, referentes a novas decisões proferidas na ação penal (determinação de bloqueio de acesso do réu aos autos) e na ação cível (extinção do feito prejudicial), constituem novos atos judiciais. Tais atos não foram objeto de análise pelo Tribunal de origem no writ impugnado, não podendo ser apreciados originariamente por esta Corte Superior, sob pena de indevida supressão de instância.
+IV. DISPOSITIVO
+7. Agravo regimental não provido.
+VOTO
+Presentes os requisitos de admissibilidade, conheço do recurso interposto.
+No mérito, a pretensão recursal não merece acolhimento.
+Conforme reiterada jurisprudência desta Corte e do Supremo Tribunal Federal, aplica-se o enunciado da Súmula n. 691 do STF, que veda a impetração de habeas corpus contra decisão monocrática de Relator que indefere o pedido liminar em writ impetrado no Tribunal de origem, sob pena de indevida supressão de instância.
+O Superior Tribunal de Justiça tem admitido, excepcionalmente, a superação de referido óbice nos casos em que a decisão impugnada se revela manifestamente ilegal, teratológica ou patentemente desarrazoada, o que, contudo, não se verifica na hipótese.
+No caso em apreço, a decisão agravada analisou a impetração e concluiu, de forma acertada, pela ausência de tal excepcionalidade.
+As teses centrais da impetração, relativas à suposta atipicidade material da conduta (por ausência de vantagem ilícita) e ao cerceamento de defesa (decorrente da atuação da DPU), foram as mesmas submetidas ao Tribunal Regional Federal da 1ª Região no HC n. 1034685-74.2025.4.01.0000.
+A autoridade apontada como coatora, ao indeferir a liminar pleiteada na origem (fls. 9/12), realizou um exame de cognição sumária e afastou a plausibilidade jurídica prima facie das alegações.
+Naquela oportunidade, entendeu que a análise sobre a existência de excludente de ilicitude (estado de necessidade) ou sobre o direito do paciente aos valores recebidos (atipicidade) é matéria que depende do reexame da prova, a ser dirimida pelo Juízo de Primeiro Grau. Afastou, ainda, a alegação de deficiência da defesa, registrando que a DPU atuou com diligência nos autos. Assim consignando (fl. 12):
+A imputação refere a possível prática do delito de estelionato e, ao contrário do que sustenta o Impetrante, não se ressente de justa causa. É que a inicial acusatória se encontra acompanhada da prova documental dos fatos que refere.
+Inquirir sobre se o Paciente agiu ou não sob o pálio da excludente do estado de necessidade ou se possuía ou não direito a receber os valores tidos por indevidamente pagos pela Câmara dos Deputados a título de pensão é matéria que depende do reexame da prova e deve ser dirimida pelo Juiz de Primeiro Grau, ao ensejo do julgamento da ação penal.
+Afasto, por outro lado, a alegação de deficiência da defesa. A Defensoria Pública da União, regularmente nomeada para patrocinar a Defesa do Paciente, tem se manifestado com diligência (cf. as petições vistas nos I Ds 1979244159, 1996442154, 2046749174, 2134284213), tendo oferecido resposta a acusação e solicitado a instauração de incidente de insanidade mental do ora Paciente.
+4. Pelo exposto, INDEFIRO a liminar.
+Desse modo, a decisão do TRF1 não se revela, de plano, teratológica ou manifestamente ilegal, não se enquadrando nas exceções que autorizam a superação do óbice sumular. A pretensão do agravante de ver analisadas tais matérias, que ainda se encontram pendentes de julgamento de mérito no Tribunal a quo, implicaria indevida supressão de instância.
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO CONTRA LIMINAR INDEFERIDA NO HC IMPETRADO NA CORTE DE ORIGEM. SÚMULA 691/STF. TRANCAMENTO DA AÇÃO PENAL. MEDIDA EXCEPCIONAL. AUSÊNCIA DE TERATOLOGIA OU FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+- Como registrado na decisão ora impugnada, que nesta oportunidade se confirma, a jurisprudência do Superior Tribunal de Justiça, na esteira da Súmula 691 do Supremo Tribunal Federal, aplicável por analogia, entende que não cabe habeas corpus contra decisão que indefere liminar na origem.
+- No caso dos autos, tampouco se constata flagrante ilegalidade, abuso de poder ou teratologia, inviabilizando-se a superação do referido enunciado (AgRg no HC n. 266.011/SP, Relatora Ministra LAURITA VAZ, Quinta Turma, julgado em 11/4/2013, DJe 17/4/2013).
+-- Isso porque a decisão monocrática proferida pelo Tribunal local indeferindo a liminar está em consonância com a jurisprudência dessa Corte Superior, no sentido de que o trancamento da persecução penal ou de inquérito policial, em sede de habeas corpus, constitui medida excepcional, somente admitida quando restar demonstrado, sem a necessidade de exame do conjunto fático-probatório, a atipicidade da conduta, a ocorrência de causa extintiva da punibilidade ou a ausência de indícios suficientes da autoria ou prova da materialidade.
+-- Não configurada hipótese excepcional de flagrante ilegalidade que justifique a superação da Súmula n. 691 do Supremo Tribunal Federal, resulta incabível a presente impetração.
+-- As questões suscitadas pela defesa serão tratadas oportunamente pela instância de origem, por ocasião do julgamento de mérito do mandamus, sem o qual esta Corte fica impedida de apreciar o alegado constrangimento ilegal, sob pena de incorrer em indevida supressão de instância.
+- Agravo regimental não provido.
+(AgRg no HC n. 749.765/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/8/2022, DJe de 8/8/2022.)
+No que tange aos Fatos Novos Supervenientes, trazidos no bojo deste agravo regimental e nas petições subsequentes (fls. 122/124 e fls. 146/148), a situação é ainda mais clara.
+O agravante informa sobre (1) uma nova decisão proferida na Ação Penal n. 1039879-11.2023.4.01.3400 que teria bloqueado seu acesso aos autos e proibido seu peticionamento, e (2) a sentença proferida na Ação Cível n. 1001671-55.2023.4.01.3400 que extinguiu o feito prejudicial.
+Ocorre que tais fatos constituem novos atos judiciais, proferidos por autoridades distintas (Juízo da 12ª Vara Criminal e Juízo da 18ª Vara Cível), e que, por razões óbvias, não foram objeto de análise pelo Tribunal Regional Federal da 1ª Região no bojo do HC n. 1034685-74.2025.4.01.0000, que é o ato coator original impugnado neste writ.
+A apreciação originária desses novos atos por esta Corte Superior, como fundamento para afastar a Súmula 691/STF, configuraria manifesta e dupla supressão de instância. As supostas ilegalidades neles contidas devem ser impugnadas pelas vias processuais adequadas perante o Tribunal de origem, seja por meio de recurso próprio (no caso cível) ou pela impetração de novo habeas corpus (no caso criminal).
+Dessa forma, na ausência de argumento relevante que infirme as razões consideradas no julgado ora agravado, que está em sintonia com a jurisprudência desta Corte Superior de Justiça, deve ser mantida a decisão impugnada.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
