@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de agravo interno interposto por CAP-CONSTRUTORA LTDA contra decisão proferida pela Presidência desta Corte (e-STJ, fls. 754-757), que conheceu do agravo para não conhecer do recurso especial, com fundamento na incidência da Súmula 7/STJ para a revisão da base de cálculo dos honorários advocatícios sucumbenciais.
+Em suas razões recursais, a parte defende que "não há que se falar em reexame de fatos e provas nesse sentido, haja vista que a iliquidez dos honorários se extrai do próprio acórdão, se tratando, pois, de matéria de direito e aplicação da orientação jurisprudencial exarada pelo Colendo Superior Tribunal de Justiça no TEMA 1.076", além da comprovação da divergência jurisprudencial.
+Impugnação não apresentada (e-STJ, fl. 772).
+É o relatório. Decido.
+Assiste razão à parte agravante, motivo pelo qual, reconsidero a decisão agravada e passo a analisar novamente o recurso:
+Trata-se de agravo em recurso especial interposto por CAP-CONSTRUTORA LTDA contra decisão que inadmitiu seu recurso especial, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo eg. Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+"APELAÇÃO CÍVEL - EMBARGOS À EXECUÇÃO - PRELIMINAR DE NÃO CONHECIMENTO DO RECURSO - AUSÊNCIA DE INTERESSE RECURSAL - INOCORRÊNCIA - EXCESSO DE EXECUÇÃO RECONHECIDO - ABUSIVIDADE DOS ENCARGOS - RECÁLCULO DA DÍVIDA - ÔNUS DE SUCUMBÊNCIA - HONORÁRIOS ADVOCATÍCIOS - PERCENTUAL SOBRE O PROVEITO ECONÔMICO OBTIDO - ART. 85, § 2º, CPC. A parte detém legitimidade para interpor recurso de apelação visando a majoração dos honorários de sucumbência arbitrados em favor de seu advogado, sendo patente o seu interesse recursal. O arbitramento dos honorários de sucumbência em percentual sobre o valor do proveito econômico obtido atende aos parâmetros legais traçados pelo art. 85, § 2º dos CPC." (e-STJ, fls. 375)
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 416-417).
+Em seu recurso especial, o recorrente alega violação do art. 85, §§ 2º e 8º, do Código de Processo Civil, pois a fixação dos honorários sobre "o valor a ser decotado da execução" seria indevida quando o proveito econômico estivesse ilíquido e não mensurável no momento, devendo a base de cálculo ser o valor atualizado da causa, em conformidade com a ordem de vocação e com o Tema 1.076 do Superior Tribunal de Justiça.
+Foram ofertadas contrarrazões (e-STJ, fls. 711-722).
+O recurso especial foi inadmitido na origem, dando ensejo à interposição do presente agravo.
+É o relatório. Passo a decidir.
+A Corte Especial fixou as seguintes teses para o Tema 1.076 dos Recursos Repetitivos:
+"i) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória nesses casos a observância dos percentuais previstos nos §§ 2º ou 3º do artigo 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa.
+ii) Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo."
+(REsp n. 1.850.512/SP, relator Ministro OG FERNANDES, CORTE ESPECIAL, DJe de 31/5/2022)
+Como visto, segundo a posição desta Corte, é subsidiária a aplicação do art. 85, § 8º, do CPC/2015, apenas possível quando, havendo ou não condenação ou proveito econômico, for ele irrisório ou inestimável e o valor da causa for baixo, ou seja, na ausência de qualquer das hipóteses do § 2º do mesmo dispositivo.
+Cumpre destacar que o § 6º do mesmo artigo orienta que os limites e critérios previstos no § 2º aplicam-se independentemente do conteúdo da decisão, "inclusive aos casos de improcedência ou de sentença sem resolução de mérito".
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE BUSCA E APREENSÃO. HONORÁRIOS ADVOCATÍCIOS. REVISÃO. SÚMULA Nº 7/STJ. NÃO INCIDÊNCIA. APRECIAÇÃO EQUITATIVA. IMPOSSIBILIDADE. LIMITES LEGAIS. NÃO OBSERVÂNCIA. VALOR IRRISÓRIO. MAJORAÇÃO. POSSIBILIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O Tribunal Superior de Justiça tem afastado o óbice da Súmula nº 7/STJ, para rever a verba honorária arbitrada nas instâncias ordinárias, quando verifica que o julgador se distanciou dos critérios legais e dos limites da razoabilidade para fixá-la em valor irrisório.
+3. O § 8º do art. 85 do CPC/2015 se aplica somente quando o valor da causa é muito baixo e, além disso, seja irrisório ou inestimável o proveito econômico experimentado. Caso contrário, os honorários advocatícios devem
+ser arbitrados a partir do valor da causa ou do proveito econômico experimentado, com obediência aos limites impostos pelo § 2º do art. 85 do CPC/2015, os quais se aplicam, inclusive, nas decisões de improcedência e quando houver julgamento sem resolução do mérito.
+4. Agravo interno não provido.
+(AgInt no AREsp 1.187.650/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 24/04/2018, DJe de 30/04/2018)
+Conforme a entendimento desta Corte Superior, em caso de condenação ou de proveito econômico não irrisórios, devem ser eles a base de cálculo dos honorários, mesmo que sejam apurados em liquidação de sentença, porquanto mensuráveis.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. CONTRATO DE ABERTURA DE CRÉDITO E NOTA PROMISSÓRIA A ELE VINCULADA. AUSÊNCIA DE LIQUIDEZ. SÚMULAS 233 E 258/STJ. MUDANÇA JURISPRUDENCIAL. APLICAÇÃO AOS PROCESSOS EM CURSO. PRECEDENTES. ACOLHIMENTO DA EXCEÇÃO DE PRÉ-EXECUTIVIDADE. HONORÁRIOS SUCUMBENCIAIS. VERBA A CARGO DO EXEQUENTE. SÚMULA 83/STJ. PRETENSÃO DE ALTERAÇÃO DA BASE DE CÁLCULO DA VERBA HONORÁRIA SUCUMBENCIAL. DESCABIMENTO. SÚMULA 83/STJ. HONORÁRIOS RECURSAIS. MAJORAÇÃO INDEVIDA. AGRAVO INTERNO DESPROVIDO.
+1. Apesar de rejeitados os embargos de declaração, a matéria em exame foi suficientemente enfrentada pela segunda instância, que sobre ela emitiu pronunciamento de forma fundamentada.
+2. Este Superior Tribunal de Justiça possui orientação jurisprudencial consolidada no sentido de que o contrato de abertura de crédito, ainda que acompanhado de extrato de conta corrente, não pode ser considerado título executivo, nos termos da previsão contida na Súmula 233/STJ.
+3. A nota promissória vinculada ao contrato de abertura de crédito perde a sua autonomia em virtude da iliquidez do título que a originou, não se prestando, portanto, para embasar a execução, a teor da Súmula n. 258 deste Tribunal.
+4. A alteração jurisprudencial no âmbito desta Corte de Justiça se aplica imediatamente aos processos em curso, sendo possível a retroatividade do novo entendimento jurisprudencial por não se tratar de modificação normativa.
+5. Consoante entendimento vigente nesta Casa, os honorários de sucumbência devem ser impostos ao exequente quando for acolhida a objeção de pré-executividade para extinguir o procedimento executivo.
+6. Nos termos da jurisprudência do STJ, havendo o acolhimento da exceção de pré-executividade, o proveito econômico equivalerá ao montante do débito executado, que deve servir de parâmetro para o cálculo dos honorários de sucumbência.
+7. Sendo mensurável, ainda que somente em liquidação, os honorários sucumbenciais devem ser fixados com base no valor da condenação ou do proveito econômico obtido pela parte vencedora.
+8. A jurisprudência deste Superior Tribunal se firmou no sentido de que não haverá majoração de honorários no julgamento de agravo interno que teve seu recurso não conhecido integralmente ou desprovido.
+9. Agravo interno desprovido."
+(AgInt no AgInt nos EDcl no AREsp n. 2.452.234/PR, relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/5/2024, DJe de 29/5/2024.)
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. HONORÁRIOS SUCUMBENCIAIS. FIXAÇÃO SOBRE O VALOR DA CONDENAÇÃO. FUTURA LIQUIDAÇÃO. POSSIBILIDADE. PLANO DE SAÚDE. OBRIGAÇÃO DE FAZER MENSURÁVEL. PRECEDENTES.
+1. O fato de o valor da condenação depender de futura liquidação, por si só, não impede que a verba honorária a tome como parâmetro, em especial quando sopesado o entendimento firmado no âmbito da Segunda Seção no sentido de escalonar a fixação dos honorários, de modo que a condenação se sobressai com relação ao proveito econômico, o valor da causa e à luz da equidade. Exegese do REsp n. 1.746.072/PR, relator para acórdão Ministro Raul Araújo, Segunda Seção, DJe de 29/3/2019.
+2. Em situações idênticas à dos autos, são reiterados os julgados de que a obrigação de fazer que determina o custeio de tratamento médico por parte das operadoras de planos de saúde tem cunho econômico aferível e, portanto, é base para fixação da condenação.
+Agravo interno improvido."
+(AgInt nos EDcl no REsp n. 1.987.698/SC, relator Ministro HUMBERTO MARTINS, TERCEIRA TURMA, julgado em 13/12/2023, DJe de 15/12/2023.)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 20, § 4º DO CPC/73. HONORÁRIOS ADVOCATÍCIOS FIXADOS EM PERCENTUAL SOBRE VALOR DE CONDENAÇÃO QUE DEPENDE DE FUTURA LIQUIDAÇÃO. CRITÉRIO DE EQUIDADE. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. A Primeira Seção desta Corte Superior entende que, vencida a Fazenda Pública, a fixação dos honorários não está adstrita aos limites percentuais de 10% e 20%, podendo ser adotado como base de cálculo o valor dado à causa ou à condenação, nos termos do art. 20, § 4º, do CPC/1973, ou mesmo um valor fixo, devendo ser fixados os honorários de acordo com a apreciação equitativa do juiz (REsp 1.155.125/MG, Rel. Min. CASTRO MEIRA, DJe 6.4.2010).
+2. À luz do CPC/1973, este Tribunal considera que o fato do valor da condenação em concreto depender de futura liquidação, por si só, não impede que a verba honorária a tome como parâmetro.
+3. No caso concreto, à míngua de qualquer vislumbre de que os honorários fixados são exorbitantes ou ínfimos, rever o juízo de equidade aplicado pelo Tribunal a quo encontra óbice na Súmula 7/STJ.
+4. Agravo interno não provido."
+(AgInt no REsp n. 1.928.509/SP, relator Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 19/10/2021, DJe de 21/10/2021.)
+No caso dos autos, a ação de embargos à execução, ao final, foi julgada parcialmente procedente, a fim de reconhecer o excesso de execução e determinar o recálculo do valor executado, com limitação de juros e encargos moratórios.
+A sentença foi proferida em 2023, após o início da vigência do CPC/2015 (18/3/2016), e os honorários advocatícios foram fixados em 10% sobre o valor a ser decotado da execução.
+Destaca-se que o valor devido a título de honorários não será irrisório diante do elevado valor histórico do débito executado, objeto da limitação alcançada, o qual superava R$ 870.000,00 (oitocentos e setenta mil reais), em 2013, segundo petição inicial dos embargos à execução, e superaria R$ 4.000.000,00 (quatro milhões de reais) em valores atualizados, segundo informado em contrarrazões de recurso especial pelo banco recorrido.
+Desse modo, constatada a conformidade entre o acórdão recorrido e a jurisprudência desta Corte, é inviável o provimento do recurso especial, nos termos da Súmula 83/STJ.
+Diante do exposto, em reconsideração, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do CPC/2015, majoro os honorários advocatícios devidos pela parte recorrente, de 11% para 12% sobre o valor atualizado do débito executado.
+Publique-se.
+EMENTA
