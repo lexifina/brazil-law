@@ -1,0 +1,69 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo DEPARTAMENTO ESTADUAL DE TRANSITO DO ESTADO DE SANTA CATARINA - DETRAN/SC, com respaldo na alínea "a" do permissivo constitucional, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, assim ementado (e-STJ fl. 111):
+DIREITO ADMINISTRATIVO. APELAÇÃO E REEXAME NECESSÁRIO. MANDADO DE SEGURANÇA. INFRAÇÃO DE TRÂNSITO. INSTAURAÇÃO DE PROCESSO ADMINISTRATIVO. APLICAÇÃO DA PENALIDADE DE SUSPENSÃO DO DIREITO DE DIRIGIR. ALEGADA AUSÊNCIA DE NOTIFICAÇÃO DAS SANÇÕES APLICADAS. DECISÃO A QUO ANULATÓRIA DO PROCESSO ADMINISTRATIVO DEFLAGRADO. INSURGÊNCIA DO ENTE ESTATAL. NÃO ACOLHIMENTO. AVISO DE RECEBIMENTO DEVOLVIDO COM A INFORMAÇÃO " NÃO PROCURADO". TENTATIVAS DE NOTIFICAÇÃO NÃO ESGOTADAS. NOTIFICAÇÃO, POR EDITAL, DESCABIDA, NO CASO CONCRETO. APLICABILIDADE DA SÚMULA 312 DO SUPERIOR TRIBUNAL DE JUSTIÇA. OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA. PROCESSO ADMINISTRATIVO ANULADO. PENALIDADE DESCONSTITUÍDA. SENTENÇA CONCESSIVA DA ORDEM MANTIDA. RECURSO E REEXAME CONHECIDOS E DESPROVIDOS.
+Embargos de declaração rejeitados (e-STJ fls. 124/129).
+Em suas razões, a parte recorrente aponta violação dos seguintes dispositivos legais:
+(a) art. 282, § 1º, do CTB, sustentando que o registro "não procurado" evidencia o regular cumprimento, pela Administração, do dever de expedição da notificação, sendo a frustração imputável ao próprio infrator, revelando-se indevida a exigência de detalhamento das tentativas de entrega realizadas pelos Correios;
+(b) art. 489, § 1º, VI, do CPC, alegando que o Tribunal de origem deixou de aplicar o precedente obrigatório firmado no PUIL 372/SP, limitando-se a qualificá-lo como mera orientação, sem indicar distinção ou superação, incorrendo em deficiência de fundamentação e violando o dever de observância aos precedentes; e
+(c) art. 281 do CPC, afirmando que, ainda que reconhecido vício na notificação, a nulidade deveria restringir-se ao ato específico, preservando-se a instauração válida e autônoma do processo administrativo.
+Contrarrazões às e-STJ fls. 139/142.
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 143/146.
+Passo a decidir.
+No caso dos autos, o Tribunal de origem manteve a sentença que concedeu a segurança. Confiram-se os seguintes excertos do acórdão (e-STJ fls. 107/109):
+ ..
+Como visto, a controvérsia que rendeu ensejo à impetração gravita em torno da legalidade -- ou não -- do processo administrativo do qual derivou a suspensão do direito de dirigir por parte do impetrante.
+Desde logo, pondero, que bem andou o diligente Magistrado singular ao conceder a ordem. Confira-se, a propósito, a alentada fundamentação de que se serviu (evento 35, SENT1):
+ ..
+In casu, a notificação de instauração do processo de suspensão do direito de dirigir foi encaminhada pelos correios ao endereço "rua do Galdino, 34, casa, Alto Baú, CEP 89110-000, Gaspar/SC" (evento 1, PROCADM6, p. 13), que diverge do endereço que o autor afirma ser seu, quer seria " rua do Galdino, 34, casa, Alto Baú, CEP 88320-000, Ilhota/SC" (evento 1, END4).
+A divergência sugere alguma erro no endereçamento da notificação. Não é possível, no entanto, averiguar se este realmente é o caso, já que não foi juntado aos autos o cadastro Renach do autor, com o endereço declarado para autarquia de trânsito.
+Assim, diante da ausência de mais informações, deve prevalecer, ao menos por ora, a presunção de legalidade do ato da administração pública quanto ao ponto.
+No mais, verifico que a correspondência retornou com o motivo indicado como "não procurado".
+No caso, o agente dos correios foi até o endereço do condutor em três ocasiões diferentes para entrega a notificação, porém não encontrou o notificando. Vale frisar, que nesses casos o carteiro deixa junto à caixa de correio do destinatário a comunicação da existência da missiva dando ciência do prazo para sua retirada junto à Agência dos Correios. Entretanto, pode observar que após a três tentativas de entrega da correspondência, o polo ativo sequer foi buscá-la na agência dos Correios, tanto que aquela empresa fez constar, a expressão não procurado.
+Diante disto, a autoridade notificou o condutor por meio de edital publicado em 18.04.2024 (evento 1, PROCADM6, p. 14).
+Ademais, quanto à notificação do ato punitivo, verifico que o respectivo AR não foi juntado aos autos do processo administrativo. Conforme declarado nos respectivos autos: "Considerando que por problemas técnicos dos Correios não foi possível disponibilizar a imagem de recebimento do A.R ou outras informações de entrega, foi expedido Edital nº 4778/2024  (evento 1, PROCADM6 )."
+Desta feita, não há informações nos autos do processo administrativo se a entrega foi sequer tentada, se o AR retornou ao remetente e por qual motivo, o que torna impossível o mínimo controle da legalidade do ato. Nessas circunstâncias, igualmente, também não é possível afirmar se a notificação por edital é justificada ou não.
+Nesse sentido:
+ ..
+Assim, tenho que deve ser afastada a presunção de legalidade da notificação do ato punitivo, diante da obscuridade em relação à realização do ato.
+Aqui reside o fumus boni iuris.
+O periculum in mora, por sua vez, é claro, pois a suspensão do direito de dirigir repercute no dia a dia de qualquer pessoa, em especial no Brasil, país carente de transporte público de qualidade.
+Ante o exposto, DEFIRO o pedido de tutela de urgência requerida e determino que o réu suspenda os efeitos do PA nº 9139/2024 que lhe impôs a penalidade de suspensão de sua CNH.
+Ademais, em melhor análise, verifico que, embora a notificação de instauração tenha retornado ao remetente com o motivo indicado como "não procurado", o respectivo Aviso de Recebimento (AR) retornou sem a indicação das tentativas de entrega.
+Com efeito (evento 1, PROCADM6, p. 13):
+ ..
+Não ficou evidenciado, portanto, o esgotamento das tentativas de notificação, conforme determina a lei. Com efeito, sem a indicação de data e horário das tentativas de notificação, é impossível para este juízo controlar a legalidade do ato administrativo. Assim, a notificação de instauração também deve ser considerada inválida.
+ ..
+Desse modo, a concessão da segurança é a medida de rigor. (destaquei).
+Pois bem.
+De fato, in casu, o impetrante/apelado não foi devidamente cientificado da decisão administrativa do Detran/SC, tampouco foi-lhe oportunizada a possibilidade de recorrer ou de apresentar qualquer forma de defesa.
+Está positivada, então, ofensa aos princípios constitucionais do contraditório e da ampla defesa, tal como enunciado pelo art. 5º, inc. LV, da Constituição da República: "aos litigantes, em processo judicial ou administrativo, e aos acusados em geral são assegurados o contraditório e ampla defesa, com os meios e recursos a ele inerentes".
+Sobre o assunto, da vertente doutrinária, colijo:
+ ..
+Outrossim, a Súmula 312 do Superior Tribunal de Justiça assinala que "no processo administrativo para imposição de multa de trânsito, são necessárias as notificações da autuação e da aplicação da pena decorrente da infração", preceito este não reverenciado no caso vertente.
+Julgados recentes desta Câmara chancelam tal intelecção. Ei-los:
+ ..
+E de outros Órgão julgadores desta Corte de Justiça trago a lume novos arestos:
+ ..
+Diante desse contexto é de ser mantida incólume a sentença concessiva da ordem.
+Por fim, em sede de reexame necessário, nada há na sentença que reclame correção.
+ANTE O EXPOSTO, voto no sentido de conhecer do recurso e da remessa e negar-lhes provimento.
+Nota-se, pelos trechos acima transcritos, que o Tribunal de origem concluiu pela invalidade das notificações de instauração e de imposição da penalidade ao fundamento de que: (i) não teria havido demonstração do esgotamento das tentativas de entrega; (ii) o Aviso de Recebimento teria retornado sem a indicação de datas e horários das diligências realizadas; e (iii) a ausência de tais elementos inviabilizaria o controle da legalidade do ato, afastando a presunção de legitimidade administrativa.
+Tal compreensão, contudo, não se harmoniza com a orientação firmada por esta Corte Superior no PUIL 372, cuja ementa é a seguinte:
+PROCESSUAL CIVIL E ADMINISTRATIVO. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. JUIZADO ESPECIAL DA FAZENDA PÚBLICA. CÓDIGO DE TRÂNSITO BRASILEIRO. AUTO DE INFRAÇÃO. NOTIFICAÇÃO. REMESSA POSTAL. AVISO DE RECEBIMENTO. PREVISÃO LEGAL. AUSÊNCIA. CERCEAMENTO DE DEFESA E OFENSA AO CONTRADITÓRIO. DESCARACTERIZAÇÃO. SÚMULA 312 DO STJ. VIOLAÇÃO. INEXISTÊNCIA.
+1. De acordo com o art. 18, § 3º, da Lei n. 12.153/2009, o mecanismo de uniformização de jurisprudência e de submissão das decisões das Turmas Recursais ao crivo do Superior Tribunal de Justiça, no âmbito dos Juizados Especiais da Fazenda Pública, restringe-se a questões de direito material, quando as Turmas de diferentes Estados derem a lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade com súmula do Superior Tribunal de Justiça.
+2. Em observância ao princípio insculpido no art. 5º, LV, da Constituição Federal, o Código de Trânsito Brasileiro determina que a autoridade de trânsito deve expedir a notificação do cometimento da infração no prazo de até 30 (trinta), caso o condutor não seja cientificado no local do flagrante, para fins de defesa prévia (art.
+280, VI, e 281 do CTB), bem como acerca da imposição da penalidade e do prazo para a interposição de recurso ou recolhimento do valor da multa (art. 282).
+3. A legislação especial é imperativa quanto à necessidade de garantir a ciência do infrator ou responsável pelo veículo da aplicação da penalidade, seja por remessa postal (telegrama, sedex, cartas simples ou registrada) ou "qualquer outro meio tecnológico hábil" que assegure o seu conhecimento, mas não obriga ao órgão de trânsito à expedição da notificação mediante Aviso de Recebimento (AR).
+4. Se o CTB reputa válidas as notificações por remessa postal, sem explicitar a forma de sua realização, tampouco o CONTRAN o fez, não há como atribuir à administração pública uma obrigação não prevista em lei ou, sequer, em ato normativo, sob pena de ofensa aos princípios da legalidade, da separação dos poderes e da proporcionalidade, considerando o alto custo da carta com AR e, por conseguinte, a oneração dos cofres públicos.
+5. O envio da notificação, por carta simples ou registrada, satisfaz a formalidade legal e, cumprindo a administração pública o comando previsto na norma especial, utilizando-se, para tanto, da Empresa de Correios e Telégrafos - ECT (empresa pública), cujos serviços gozam de legitimidade e credibilidade, não há se falar em ofensa ao contraditório e à ampla defesa no âmbito do processo administrativo, até porque, se houver falha nas notificações, o art. 28 da Resolução n. 619/16 do Contran prevê que "a autoridade de trânsito poderá refazer o ato, observados os prazos prescricionais".
+6. Cumpre lembrar que é dever do proprietário do veículo manter atualizado o seu endereço junto ao órgão de trânsito e, se a devolução de notificação ocorrer em virtude da desatualização do endereço ou recusa do proprietário em recebê-la considera-se-á válida para todos os efeitos (arts. 271 § 7º, e 282 § 1º, c/c o art. 123, § 2º, do Código de Trânsito).
+7. Além do rol de intimações estabelecido no art. 26, § 3º, da Lei 9.784/99 ser meramente exemplificativo, a própria lei impõe em seu art. 69 que "os processos administrativos específicos continuarão a reger-se por lei própria, aplicando-se-lhes apenas subsidiariamente os preceitos desta Lei".
+8. O critério da especialidade "tem sua razão de ser na inegável idéia de que o legislador, quanto cuidou de determinado tema de forma mais específica, teve condições de reunir no texto da lei as regras mais consentâneas com a matéria disciplinada" (MS 13939/DF, Relator Ministro ARNALDO ESTEVES LIMA, Órgão Julgador S3 - TERCEIRA SEÇÃO, DJe 09/11/2009).
+9. Da interpretação dos arts. 280, 281 e 282 do CTB, conclui-se que é obrigatória a comprovação do envio da notificação da autuação e da imposição da penalidade, mas não se exige que tais expedições sejam acompanhadas de aviso de recebimento.
+10. Pedido de uniformização julgado improcedente.
+(PUIL n. 372/SP, relator Ministro Gurgel de Faria, Primeira Seção, julgado em 11/3/2020, DJe de 27/3/2020.).
+Observa-se que, o referido PUIL firmou entendimento no sentido de que: i) não há exigência legal de que as notificações previstas no CTB sejam enviadas com Aviso de Recebimento (AR); ii) é suficiente a comprovação do envio da correspondência por remessa postal, carta simples ou registrada, não sendo imprescindível a prova do efetivo recebimento pelo condutor; iii) não se pode impor à Administração ônus formal não previsto no CTB nem em ato normativo do CONTRAN, sob pena de violação aos princípios da legalidade e da separação dos poderes; e iv) a devolução da correspondência com anotações como "não procurado" não afasta a presunção de validade do ato, sobretudo porque é dever do proprietário manter atualizado seu endereço junto ao órgão executivo de trânsito.
+Assim, tendo sido demonstrado o envio das notificações ao endereço informado, e não havendo exigência legal de AR, tampouco de comprovação minuciosa das tentativas de entrega, não subsiste a declaração de nulidade reconhecida pelo Tribunal de origem, que se mostra em confronto com o entendimento firmado por esta Corte Superior.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial para, reformando o acórdão recorrido, reconhecer a validade das notificações realizadas no processo administrativo, tanto a de instauração quanto a de imposição da penalidade, na forma da jurisprudência do STJ, restabelecendo a sanção aplicada ao ora recorrido, se por outro motivo não tenha sido desconstituída.
+Publique-se. Intimem-se.
+EMENTA
