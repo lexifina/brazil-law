@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ESPÓLIO DE GERALDO DE CASTRO RIBEIRO contra decisão que inadmitiu seu recurso especial, fundamentado no art. 105, inciso III, alínea "a" da Constituição Federal, contra acórdão proferido pelo eg. Tribunal de Justiça do Estado de Mato Grosso, assim ementado:
+"DIREITO PROCESSUAL CIVIL. AGRAVO REGIMENTAL. RECURSO CONTRA DECISÃO MONOCRÁTICA. PRAZO PARA MANIFESTAÇÃO SOBRE DECLARAÇÕES FINAIS. INTEMPESTIVIDADE NÃO CONFIGURADA. ANULAÇÃO DE SENTENÇA CITRA PETITA. RETORNO DOS AUTOS À ORIGEM. CABIMENTO. RECURSO NÃO PROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto visando à reforma de decisão monocrática que manteve o provimento de apelo em favor da parte agravada e negou provimento aos embargos de declaração. A decisão agravada considerou tempestiva a manifestação da agravada sobre as últimas declarações do inventariante.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se a contagem do prazo deve considerar a ciência eletrônica registrada em 10/08/2023 ou a intimação realizada pela Secretaria em 15/08/2023; (ii) verificar se a sentença impugnada deve ser anulada por citra petita, ante a ausência de análise de argumentos e pedidos apresentados na manifestação tempestiva da parte agravada.
+III. RAZÕES DE DECIDIR
+3. O artigo 1.021 do CPC prevê que o agravo interno serve para submeter decisão monocrática ao crivo do colegiado, mas não para repetir os fundamentos já decididos.
+4. A jurisprudência é pacífica no sentido de que, em caso de dúvida sobre a contagem de prazo devido a procedimentos judiciais conflitantes, deve prevalecer a interpretação que não prejudique a parte, preservando o contraditório e a ampla defesa.
+5. A intimação realizada pela Secretaria em 15/08/2023 prevalece como marco inicial do prazo, sendo tempestiva a manifestação apresentada em 04/09/2023.
+6. A nulidade da sentença está configurada por julgamento citra petita, já que não analisou os pedidos e argumentos contidos na manifestação apresentada pela parte agravada, violando o princípio dispositivo e o art. 492 do CPC.
+7. A anulação da sentença é necessária para garantir o julgamento completo e efetivo do mérito, conforme precedentes do STJ e Tribunais Estaduais.
+IV. DISPOSITIVO E TESE 8. Recurso não provido. Tese de julgamento:
+1. A intimação realizada pela Secretaria do Juízo prevalece como marco inicial da contagem do prazo quando houver dúvida gerada por duplicidade de intimações.
+2. Sentenças proferidas citra petita devem ser anuladas para assegurar o julgamento integral dos pedidos deduzidos pelas partes.
+Dispositivos relevantes citados: CPC, arts. 492, 637, 932, V, 1.011, I, e 1.021. Jurisprudência relevante citada:
+  STJ, REsp 1447514/PR, Rel. Min. Herman Benjamin, Segunda Turma, j. 05.10.2017, DJe 16.10.2017;
+  TJMT, AgInt no AI nº 1015578-42.2019.8.11.0000, Rel. Dirceu dos Santos, Terceira Câmara de Direito Privado, j. 29.01.2020;
+  TJMT, N.U 0002285-10.2016.8.11.0038, Segunda Câmara de Direito Público e Coletivo, Rel. Anglizey Solivan de Oliveira, j. 03.12.2024, DJE 12.12.2024." (e-STJ, fls. 3.887-3.888)
+Os embargos de declaração foram rejeitados.
+Em seu recurso especial, o recorrente alega violação do art. 5º da Lei 11.419/2006, pois teria havido negativa de vigência ao regime especial de intimação eletrônica pelo portal, devendo prevalecer a ciência registrada no PJe como termo inicial do prazo quando houver duplicidade com publicação no Diário de Justiça eletrônico.
+Foram ofertadas contrarrazões (e-STJ, fls. 4.077-4.090).
+O recurso especial foi inadmitido na origem, dando ensejo à interposição do presente agravo.
+É o relatório. Passo a decidir.
+O recurso especial deve ser provido.
+No caso dos autos, o Tribunal de origem reformou a sentença que havia considerado intempestiva a impugnação às últimas declarações prestadas pela inventariante, apresentada em 4/9/2023, "uma vez que considerou a data de 14/08/2023 como o marco inicial para contagem do prazo, com base na ciência eletrônica do advogado em 10/08/2023, de modo que o prazo de 15 (quinze) dias úteis teve início no dia útil subsequente à data de ciência, portanto, em 14/08/2023, encerrando-se em 01/09/2023" (e-STJ, fl. 3.923).
+O fundamento do acórdão recorrido consistiu na preservação da ampla defesa e o do contraditório diante de atos processuais contraditórios capazes de gerar dúvida objetiva sobre o termo inicial do prazo, em vez da distinção sobre as modalidades de intimação, considerando que, "em que pese o advogado que patrocina a ora agravada, Dr. Evandro Carlos do Vale tenha registrado ciência em 10/08/2023, certo é que, em 15/08/2023, a Secretaria impulsionou o feito, nos termos da Portaria nº. 001/2019/GAB, a fim de intimar a parte ora agravada para se manifestar sobre as últimas declarações" (e-STJ, fls. 3.924-3.927).
+Entretanto, essa conclusão é divergente do entendimento desta Corte Superior, firmado no sentido de que, no caso de duplicidade de intimações, no Portal Eletrônico e também no Diário de Justiça Eletrônico, em datas diversas, deve prevalecer a intimação realizada no Portal Eletrônico, a fim de garantir a previsibilidade e segurança objetivas acerca de qual delas deva prevalecer, evitando-se confusão e incerteza na contagem dos prazos processuais peremptórios.
+A propósito:
+"DIREITO PROCESSUAL. EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. PROCESSO JUDICIAL ELETRÔNICO. DUPLICIDADE DE INTIMAÇÕES: PUBLICAÇÃO NO DIÁRIO DA JUSTIÇA ELETRÔNICO E POR PORTAL ELETRÔNICO (LEI 11.419/2006, ARTS. 4º E 5º). PREVALÊNCIA DA INTIMAÇÃO PELO PORTAL ELETRÔNICO. RECURSO CONHECIDO E PROVIDO.
+1. A Lei 11.419/2006 - Lei do Processo Judicial Eletrônico - prevê dois tipos de intimações criados para atender à evolução do sistema de informatização dos processos judiciais. A primeira intimação, tratada no art. 4º, de caráter geral, é realizada por publicação no Diário da Justiça Eletrônico; e a segunda, referida no art. 5º, de índole especial, é feita pelo Portal Eletrônico, no qual os advogados previamente se cadastram nos sistemas eletrônicos dos Tribunais para receber a comunicação dos atos processuais.
+2. Embora não haja antinomia entre as duas formas de intimação previstas na Lei, ambas aptas a ensejar a válida intimação das partes e de seus advogados, não se pode perder de vista que, caso aconteçam em duplicidade e em diferentes datas, deve ser garantida aos intimados a previsibilidade e segurança objetivas acerca de qual delas deve prevalecer, evitando-se confusão e incerteza na contagem dos prazos processuais peremptórios.
+3. Assim, há de prevalecer a intimação prevista no art. 5º da Lei do Processo Eletrônico, à qual o § 6º do art. 5º atribui status de intimação pessoal, por ser forma especial sobre a genérica, privilegiando-se a boa-fé processual e a confiança dos operadores jurídicos nos sistemas informatizados de processo eletrônico, bem como garantindo-se a credibilidade e eficiência desses sistemas.
+Caso preponderasse a intimação por forma geral sobre a de feitio especial, quando aquela fosse primeiramente publicada, é evidente que o advogado cadastrado perderia o prazo para falar nos autos ou praticar o ato, pois, confiando no sistema, aguardaria aquela intimação específica posterior.
+4. Embargos de divergência conhecidos e providos, afastando-se a intempestividade do recurso especial."
+(EAREsp 1663952/RJ, Rel. Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 19/05/2021, DJe 09/06/2021)
+No mesmo sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL - PROCESSO JUDICIAL ELETRÔNICO - DUPLICIDADE DE INTIMAÇÕES - PREVALÊNCIA DA INTIMAÇÃO PELO PORTAL ELETRÔNICO - ORIENTAÇÃO DA CORTE ESPECIAL - EARESP 1.663.952/RJ - INSURGÊNCIA DO AGRAVANTE.
+1. A orientação jurisprudencial do Superior Tribunal de Justiça é no sentido de que, havendo a duplicidade das intimações eletrônicas previstas na Lei nº 11.419/2006 - pelo Diário de Justiça eletrônico (DJe) e pelo portal eletrônico -, deve prevalecer, para efeito de contagem de prazos processuais, a intimação que tiver sido realizada no portal eletrônico. (EAREsp 1.663.952/RJ, Corte Especial, DJe de 09/6/2021) Precedentes da Segunda Seção.
+2. Agravo interno desprovido.
+(AgInt nos EDcl no AgInt nos EREsp n. 1.827.489/RJ, relator Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 3/9/2024, DJe de 5/9/2024.)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. REPRESENTAÇÃO PROCESSUAL IRREGULAR NO RECURSO ESPECIAL NÃO SANEADA TEMPESTIVAMENTE. PRECLUSÃO. CONHECIMENTO INVIÁVEL. INTIMAÇÃO NO DIÁRIO DE JUSTIÇA ELETRÔNICO. VALIDADE. DISPENSA DA JUNTADA DE CÓPIA DE PROCURAÇÃO CONSTANTE DE AUTOS ELETRÔNICOS ORIGINÁRIOS (ART. 1.017, § 5º, DO CPC/2015). INAPLICABILIDADE. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. MAJORAÇÃO PELO NÃO CONHECIMENTO DO RECURSO. INTERESSE RECURSAL AUSENTE. AGRAVO INTERNO CONHECIDO PARCIALMENTE E, NESSA EXTENSÃO, DESPROVIDO.
+1. Inexistência de antinomia entre os dois tipos de intimação previstos na Lei 11.419/2006 - Lei do Processo Judicial Eletrônico -, publicação no Diário de Justiça Eletrônico e no Portal Eletrônico, ambas formas válidas de intimação das partes (EAREsp 1.663.952/RJ, Rel. Ministro RAUL ARAÚJO, CORTE ESPECIAL, DJe de 09/06/2021).
+2. Nos termos do artigo 76, § 2º, I, do Código de Processo Civil de 2015, não se conhece do recurso quando a parte recorrente descumpre a determinação para a tempestiva regularização da representação processual.
+3. Segundo entendimento desta Corte, "a dispensa da juntada de procuração em processos eletrônicos, prevista no art. 1.017, § 5º, do CPC/2015, não se estende ao recurso especial ou ao agravo contra a sua inadmissibilidade, porquanto a aplicação do referido dispositivo é específica da classe processual "agravo de instrumento"" (AgInt nos EDcl no AREsp 1.704.046/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe de 03/03/2021).
+4. Interesse recursal ausente quanto à pretensão de afastamento da majoração de honorários advocatícios condicionada à prévia fixação, circunstância inexistente.
+5. Agravo interno conhecido parcialmente e, nessa extensão, desprovido."
+(AgInt no REsp n. 1.959.104/RJ, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/2/2022, DJe de 14/3/2022)
+Desse modo, constada a divergência com a jurisprudência desta Corte, é impositivo o provimento do recurso especial.
+Diante do exposto, conheço do agravo para dar provimento ao recurso especial, a fim de restabelecer a sentença, quanto à intempestividade da impugnação apresentada pela parte ora recorrida às últimas declarações prestadas pela parte inventariante.
+Publique-se.
+EMENTA
