@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interno manejado pelo Município de Joinville, desafiando decisão de fls. 114/119, que negou provimento ao agravo em recurso especial, sob o fundamento de que o acórdão recorrido está em consonância com a jurisprudência desta Corte, razão porque não merece reparos.
+A parte agravante, em suas razões, sustenta, em resumo, que é inaplicável ao caso as Súmulas 7/STJ, e 83/STJ.
+Aponta, ainda, a necessidade de suspensão do feito, haja vista a afetação do tema.
+Sem impugnação.
+É o necessário relatório.
+Melhor compulsando os autos, exercendo o juízo de retratação facultado pelos arts. 1.021, § 2º, do CPC e 259, § 3º, do RISTJ, reconsidero a decisão agravada, tornando-a sem efeito, passando novamente à análise do recurso (fls. 87/97):
+Trata-se de recurso especial interposto por Município de Joinville, com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, assim ementado (fl. 84):
+DIREITO TRIBUTÁRIO. AGRAVO INTERNO. EXECUÇÃO FISCAL. RECURSO DO MUNICÍPIO. SOBRESTAMENTO DO FEITO. REPRESENTATIVO N. 24 DESTA CORTE. INAPLICABILIDADE. REDIRECIONAMENTO CONTRA O ESPÓLIO NÃO ADMITIDO. FALECIMENTO DO CONTRIBUINTE ANTERIOR À CITAÇÃO. DESPROVIMENTO.
+I. CASO EM EXAME
+1. Agravo Interno objetivando a reforma de monocrática que manteve a extinção da execução fiscal em razão do falecimento do executado.
+II. QUESTÃO EM DISCUSSÃO
+2. Sobrevém inconformismo consistente em decidir se (i) cabível o sobrestamento do recurso, por tratar de controvérsia de caráter repetitivo idêntica à formada pelo Grupo de Representativos n. 24 do TJSC e (ii) possível a extinção da execucional aforada contra devedor falecido anteriormente à citação.
+III. RAZÕES DE DECIDIR
+3. Inafastável o reconhecimento da ilegitimidade passiva e, por conseguinte, extinção da execucional pelo falecimento do devedor antes da citação, a teor da Súmula n. 392 do Superior Tribunal de Justiça.
+IV. DISPOSITIVO E TESE
+4. Recurso conhecido e desprovido.
+Nas razões do recurso especial, a parte agravante pugna, preliminarmente, que seja sobrestado o recurso "por tratar de matéria idêntica ao REsp 0905386-67.2016.8.24.0038, com potencial de admissão como representativo da controvérsia" (fl. 97).
+Aponta violação ao art. 131, III, do CTN, sustentando, em suma, que "a ação executiva extinta em razão do falecimento do Executado ter ocorrido antes do ajuizamento sem ser do conhecimento do Município, pode prosseguir em relação ao Espólio quando o lançamento tiver ocorrido em momento anterior ao falecimento do Executado" (fl. 9 3).
+Sem contrarrazões.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Na espécie, a questão de fundo trazida a debate no especial diz respeito a "definir se é possível prosseguir a execução fiscal contra o espólio ou os sucessores caso o executado venha a falecer sem ser citado".
+Ocorre que essa matéria foi afetada pela Primeira Seção do STJ ao rito dos recursos especiais repetitivos (REsps ns. 2.237.254/SC e 2.227.141/SC Rel. Min. Maria Thereza de Assis Moura- Tema 1.393), mostrando-se conveniente, em observância ao princípio da economia processual e à própria finalidade do CPC, determinar o retorno dos autos à origem, onde ficarão sobrestados até a publicação do acórdão a ser proferido nos autos do recurso representativo da controvérsia.
+Confira-se, a propósito, esclarecedor precedente desta Corte:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. TEMA 1.190/STJ AFETADO. DEVOLUÇÃO DOS AUTOS À ORIGEM.
+1. A presente controvérsia envolve a discussão de tema afetado ao rito dos Recursos Especiais Repetitivos: "Possibilidade de fixação de honorários advocatícios sucumbenciais em cumprimento de sentença contra a Fazenda Pública, independentemente de existência de impugnação à pretensão executória, quando o crédito estiver sujeito ao regime da Requisição de Pequeno Valor - RPV" (ProAfR no REsp 2.031.118/SP, Rel. Min. Herman Benjamin, Primeira Seção, DJe 27.4.2023).
+2. Em tal circunstância, deve ser prestigiado o escopo perseguido na legislação processual, isto é, a criação de mecanismo que oportunize às instâncias de origem o juízo de retratação na forma dos arts. 1.040 e seguintes do CPC/2015, conforme o caso.
+3. "Mostra-se conveniente, em observância ao princípio da economia processual e à própria finalidade do CPC/2015, determinar o retorno dos autos à origem, onde ficarão sobrestados até a publicação do acórdão a ser proferido nos autos dos recursos representativos da controvérsia. (..) Embargos de declaração acolhidos, com efeitos infringentes, para tornar sem efeito as decisões anteriores, com a restituição dos autos ao Tribunal de origem, para que lá se observe o iter delineado nos arts. 1.040 e 1.041 do CPC/2015." (EDcl nos EDcl no AgInt no AREsp 1.666.390/RS, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 8.4.2021) 4. Embargos de Declaração acolhidos para tornar sem efeito as decisões anteriores e determinar a devolução dos autos ao Tribunal de origem, com a devida baixa, para que lá se observem as regras dos arts. 1.040 e seguintes do Código Processual Civil de 2015 após a publicação do acórdão do respectivo recurso excepcional representativo da controvérsia.
+(EDcl no AgInt no REsp n. 2.055.294/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/9/2023.)
+Ressalte-se que, nos termos do art. 256-L, I, do RISTJ: "Publicada a decisão de afetação, os demais recursos especiais em tramitação no STJ fundados em idêntica questão de direito: I - se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator".
+Observa-se, ainda, que, de acordo com o artigo 1.041, § 2º, do referido diploma legal, "quando ocorrer a hipótese do inciso II do caput do art. 1.040 e o recurso versar sobre outras questões, caberá ao presidente ou ao vice-presidente do Tribunal recorrido, depois do reexame pelo órgão de origem e independentemente de ratificação do recurso, sendo positivo o juízo de admissibilidade, determinar a remessa do recurso ao tribunal superior para julgamento das demais questões", cuja diretriz metodológica, por certo, deve alcançar também aqueles feitos que já tenham ascendido a este STJ.
+ANTE O EXPOSTO, julgo prejudicada a análise do recurso e determino a devolução dos autos, com a respectiva baixa, ao Tribunal de origem, onde, nos termos dos arts. 1.040 e 1.041 do CPC, deverá ser realizado o juízo de conformação ou a manutenção do acórdão local frente ao que vier a ser decidido por este Superior Tribunal de Justiça sobre o Tema 1.393 .
+Publique-se.
+EMENTA
