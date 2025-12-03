@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 27/11/2025 a 03/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Carlos Pires Brandão, Og Fernandes, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DECISÃO DA PRESIDÊNCIA QUE INDEFERIU LIMINARMENTE O WRIT. POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO. POSSE OU PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. TRÁFICO DE DROGAS. CONDENAÇÃO TRANSITADA EM JULGADO. HABEAS CORPUS SUBSTITUTIVO. IMPOSSIBILIDADE. PEDIDOS ABSOLUTÓRIOS. NECESSIDADE DE REVOLVIMENTO DE FATOS E PROVAS. AGRAVO REGIMENTAL DESPROVIDO.
+1. A decisão monocrática deve ser mantida pelos seus próprios fundamentos.
+2. O Superior Tribunal de Justiça, de longa data, vem buscando fixar balizas para a racionalização do uso do habeas corpus, visando a garantia não apenas do curso natural das ações ou revisões criminais mas também da efetiva priorização do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+3. No caso, a condenação do agravante transitou em julgado, de maneira que não se deve conhecer do writ que pretende a desconstituição do acórdão proferido pela Corte local, olvidando-se a parte de ajuizar a necessária revisão criminal antes de inaugurar a competência deste Tribunal Superior acerca da c ontrovérsia.
+4. Ademais, não se vislumbra ilegalidade flagrante apta a ser sanada na presente via, ainda que mediante a eventual concessão de habeas corpus de ofício. E, ainda que assim não fosse, a pretensão defensiva de absolvição demandaria incursão em elementos de fatos e provas, o que é vedado em âmbito de habeas corpus.
+5. Agravo regimental desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por DONIZETE GUSTAVO MARTINS contra decisão da Presidência desta Corte Superior que indeferiu liminarmente o habeas corpus.
+Consta dos autos que o agravante foi absolvido da denúncia que lhe imputava a prática dos delitos previstos nos arts. "12, 16, caput, e 16, § 1º, inciso IV, todos da Lei n. 10.826/03 e na forma do artigo 70 do Código Penal, bem como 33, caput, da Lei n. 11.343/06, todos na forma do artigo 69, daquele mesmo Estatuto Repressor, com fundamento no artigo 386, inciso VII, do Código de Processo Penal" (e-STJ fl. 145).
+O Ministério Público interpôs apelação perante o Tribunal de origem, o qual proveu o recurso para condenar o agravante à pena de 9 anos e 4 meses de reclusão, em regime inicial fechado, e multa, como incurso nos arts. "12, 16, caput e 16, § 1º, IV, todos da Lei nº 10.826/03 e na forma do artigo 70 do Código Penal e 33, caput, da Lei nº. 11.343/06, todos na forma do artigo 69 daquele mesmo Estatuto Repressor" (e-STJ fl. 164).
+Eis a ementa do julgado (e-STJ fls. 144/145):
+APELAÇÃO. TRÁFICO DE DROGAS, POSSE ILEGAL DE MUNIÇÕES DE USO RESTRITO E DE ARMA DE FOGO COM NUMERAÇÃO SUPRIMIDA e POSSE IRREGULAR DE MUNIÇÕES DE USO PERMITIDO. Réu absolvido em primeiro grau. Insurgência da acusação almejando a condenação, nos termos da denúncia. Materialidade e autoria, porém, comprovadas. Relatos seguros e coesos dos policiais civis, que aprenderam significativa quantidade de drogas variadas (maconha, haxixe e cocaína, inclusive na forma de "crack"), além de armamento em "casa bomba" de responsabilidade do réu, isso após delação anônima. Posse ilegal de arma de fogo e munições. Laudo pericial atestando a potencialidade lesiva e a supressão da numeração do artefato. Crimes de perigo presumido ou de mera conduta. Inconformismo procedente. Condenação de rigor. Pena-base acima do piso diante do tráfico em face de circunstância adversa representada pela considerável quantidade, variedade e nocividade de parte das drogas apreendidas denotando dolo exacerbado, consoante artigo 42 da Lei nº. 11.343/06. Concurso formal aplicado diante dos crimes previstos no Estatuto do Desarmamento, tal como propugnado pelo Ministério Público. Quadro adverso colidente com o privilégio descrito no artigo 33, § 4º, da mesma Lei Extravagante, bem como com a substituição da corporal, providência também inadmissível ante do montante da sanção, peculiaridades ainda a justificar a imposição do regime inicial fechado. Recurso provido.
+No habeas corpus, a defesa alegou que não teria sido apontados elementos suficientes que demonstrassem a prática dos crimes pelo agravante, de modo que deveria ser absolvido.
+O habeas corpus foi indeferido liminarmente (e-STJ fls. 169/170).
+Daí o presente agravo regimental, no qual a defesa reitera os argumentos apresentados na inicial do habeas corpus, em especial a ausência de elementos concretos para fundamentar a condenação do agravante.
+Requer, assim, o conhecimento e provimento do agravo regimental para que o agravante seja absolvido.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DECISÃO DA PRESIDÊNCIA QUE INDEFERIU LIMINARMENTE O WRIT. POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO. POSSE OU PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. TRÁFICO DE DROGAS. CONDENAÇÃO TRANSITADA EM JULGADO. HABEAS CORPUS SUBSTITUTIVO. IMPOSSIBILIDADE. PEDIDOS ABSOLUTÓRIOS. NECESSIDADE DE REVOLVIMENTO DE FATOS E PROVAS. AGRAVO REGIMENTAL DESPROVIDO.
+1. A decisão monocrática deve ser mantida pelos seus próprios fundamentos.
+2. O Superior Tribunal de Justiça, de longa data, vem buscando fixar balizas para a racionalização do uso do habeas corpus, visando a garantia não apenas do curso natural das ações ou revisões criminais mas também da efetiva priorização do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+3. No caso, a condenação do agravante transitou em julgado, de maneira que não se deve conhecer do writ que pretende a desconstituição do acórdão proferido pela Corte local, olvidando-se a parte de ajuizar a necessária revisão criminal antes de inaugurar a competência deste Tribunal Superior acerca da c ontrovérsia.
+4. Ademais, não se vislumbra ilegalidade flagrante apta a ser sanada na presente via, ainda que mediante a eventual concessão de habeas corpus de ofício. E, ainda que assim não fosse, a pretensão defensiva de absolvição demandaria incursão em elementos de fatos e provas, o que é vedado em âmbito de habeas corpus.
+5. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+A decisão monocrática deve ser mantida pelos seus próprios fundamentos.
+Isso porque, o Superior Tribunal de Justiça, de longa data, vem buscando fixar balizas para a racionalização do uso do habeas corpus, visando a garantia não apenas do curso natural das ações ou revisões criminais mas também da efetiva priorização do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+Nessa linha, esta Corte, em diversas ocasiões, já assentou a impossibilidade de impetração de habeas corpus em substituição à revisão criminal, quando já transitada em julgado a condenação do réu, posicionando-se no sentido de que " n ão deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (HC n. 730.555/SC, relator Ministro Olindo Menezes, Desembargador convocado do TRF 1ª Região, Sexta Turma, julgado em 9/8/2022, DJe de 15/8/2022).
+Nesse mesmo sentido, os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO DUPLAMENTE MAJORADO TENTADO. INSURGÊNCIA CONTRA ACÓRDÃO TRANSITADO EM JULGADO. MANEJO DO WRIT COMO REVISÃO CRIMINAL. DESCABIMENTO. ILEGALIDADE FLAGRANTE NÃO DEMONSTRADA. REPRIMENDA INFERIOR A QUATRO ANOS. PENA-BASE FIXADA NO MÍNIMO LEGAL. REGIME MAIS GRAVOSO. POSSIBILIDADE. GRAVIDADE CONCRETA DA CONDUTA EVIDENCIADA. REFORMATIO IN PEJUS. NÃO OCORRÊNCIA. EFEITO DEVOLUTIVO AMPLO DO RECURSO DE APELAÇÃO. BIS IN IDEM. SUPRESSÃO DE INSTÂNCIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não deve ser conhecido o writ que se volta contra acórdão já transitada em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Precedentes da Quinta e Sexta Turmas do Superior Tribunal de Justiça.
+ ..
+6. Agravo regimental desprovido.
+(AgRg no HC n. 751.156/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 9/8/2022, DJe de 18/8/2022, grifei.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. TRÁFICO DE DROGAS. ACÓRDÃO TRANSITADO EM JULGADO. DOSIMETRIA. SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. INADMISSIBILIDADE. AUMENTO DA PENA-BASE. ELEVADA QUANTIDADE DE DROGAS. PROPORCIONALIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+Agravo regimental não conhecido.
+(AgRg no HC n. 751.137/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 2/8/2022, DJe de 4/8/2022, grifei.)
+No caso, a condenação do agravante transitou em julgado, de maneira que não se deve conhecer do writ que pretende a desconstituição do acórdão proferido pela Corte local, olvidando-se a parte de ajuizar a necessária revisão criminal antes de inaugurar a competência deste Tribunal Superior acerca da controvérsia.
+Ademais, não se vislumbra ilegalidade flagrante apta a ser sanada na presente via, ainda que mediante a eventual concessão de habeas corpus de ofício. E, ainda que assim não fosse, a pretensão defensiva de absolvição demandaria incursão em elementos de fatos e provas, o que é vedado em âmbito de habeas corpus.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
