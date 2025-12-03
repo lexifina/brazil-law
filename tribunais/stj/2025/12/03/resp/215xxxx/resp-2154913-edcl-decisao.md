@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por LENILDA MOREIRA, LUIZA TERESA SOBRAL, MARIA TERESA BADDINI, MARTA BEATRIZ GUREVITZ CUNHA, OLINDO JOSE NEGRIS BOROTO, RITA DE CASSIA LOURENZEM VIGINOTTI e VERA MARIS DE OLIVEIRA contra decisão monocrática de minha relatoria que conheceu em parte do recurso especial interposto pelas ora embargantes e, nessa extensão, negou-lhe provimento (fls. 695-702).
+A parte embargante alega que a decisão seria contraditória, uma vez que (fl. 709):
+ ..  de um lado, afirma-se que o acórdão recorrido não padeceria de qualquer omissão, sob o argumento de que todas as matérias teriam sido examinadas; de outro, deixa-se de conhecer parte do Recurso Especial, sob o fundamento de que a questão relativa à "responsabilidade civil da CEF pelos atos ilícitos por ela cometidos" não foi apreciada pelo Tribunal " (fl. 707) e seria omissa "à sistemática processual vigente, notadamente da regra contida no art. 1.025 do CPC.
+Requer a reforma da decisão embargada.
+Os embargados apresentaram impugnação às fls. 719-721 e 722-732.
+É, no essencial, o relatório.
+Nos termos do art. 1.022 do CPC, os embargos de declaração destinam-se a corrigir erro material, esclarecer obscuridade, eliminar contradição ou suprir omissão existente na decisão embargada.
+No caso em exame, inexistem vícios no julgado.
+Não há contradição na decisão embargada, porquanto o reconhecimento de que a decisão do Tribunal de origem não violou os arts. 1.022 489 cinge-se aos pontos que haviam sido devolvidos ao tribunal pelo recurso, e não a matérias que, não tendo sido objeto do recurso, foram contestadas somente em embargos de declaração. Da mesma forma, tampouco há que se falar em omissão, pois a decisão embargada, de forma clara e expressa, consignou que (fl. 700)
+ ..  o presente recurso especial decorre que de agravo contra a decisão que excluiu a CEF e que, na origem, havia sido interposto pela FUNCEF. Na petição do agravo, afirmou a FUNCEF que os autores "se insurgem contra a cobrança das contribuições extraordinárias referentes ao Equacionamento dos déficits ocorrido no plano previdenciário complementar, requerendo sejam tais cobranças declaradas ilegais, bem como a devolução dos valores já pagos" (fls. 6). No recurso, afirmou que a CEF era legitimada porque "no presente caso a discussão refere-se à modificação/alteração do plano de benefício, decorrente de resultado deficitário no plano e consequente equacionamento" (fl. 7).
+Em tais condições, tem-se que o acórdão recorrido aplicou corretamente o Tema 936 do STJ, que firmou a seguinte tese:
+I - A patrocinadora não possui legitimidade passiva para litígios que envolvam participante/assistido e entidade fechada de previdência complementar, ligados estritamente ao plano previdenciário, como a concessão e a revisão de benefício ou o resgate da reserva de poupança, em virtude de sua personalidade jurídica autônoma.
+II - Não se incluem no âmbito da matéria afetada as causas originadas de eventual ato ilícito, contratual ou extracontratual, praticado pelo patrocinador.
+Ressalte-se que a questão relativa à suposta prática de ato ilícito por parte da patrocinadora não era objeto do agravo originariamente interposto pela CEF, e nem sequer há elementos para saber se tal alegação consta da causa de pedir na ação originária.
+De toda sorte, para efeito do presente processo, resta evidenciado que não houve pronunciamento do Tribunal de origem acerca de tal fato, somente suscitado pela ora recorrente em sede de embargos de declaração, de modo que, a rigor, não houve prequestionamento de tais matérias.
+De fato, a jurisprudência do STJ tem entendido que quando a alegação de violação dos dispositivos legais somente é suscitada em embargos de declaração, o caso é de pós-questionamento, que não enseja o conhecimento do recurso especial.
+Observa-se, portanto, que, na verdade, a parte embargante não se conforma com a decisão embargada e, ainda neste momento, pleiteia novo julgamento da demanda. Todavia, os embargos de declaração não são a via adequada para se buscar o rejulgamento da causa.
+A propósito, cito:
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PRETENSÃO DE PARCELAMENTO DO DÉBITO EXEQUENDO. IMPOSSIBILIDADE. INEXISTÊNCIA DOS VÍCIOS ENSEJADORES À OPOSIÇÃO DOS DECLARATÓRIOS. EMBARGOS REJEITADOS
+1. Nos termos do que dispõe o art. 1.022 do CPC/2015, os embargos de declaração são cabíveis apenas quando amparados em suposta omissão, contradição, obscuridade ou erro material na decisão embargada, não se caracterizando via própria ao rejulgamento da causa.
+2. Na hipótese, o acórdão embargado encontra-se suficientemente fundamentado, em relação à aplicabilidade dos arts. 805 e 916, § 7º, do CPC, seja em relação à alínea a do permissivo constitucional seja em relação à alínea c.
+3. Embargos de declaração rejeitados. (EDcl no REsp n. 1.891.577/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 2/9/2022.)
+No mesmo sentido, cito: EDcl no AgInt no AREsp n. 1.896.238/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 25/3/2022; EDcl no AgInt no AREsp n. 1.880.896/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 26/5/2022.
+A pretensão de rediscutir matéria devidamente abordada e decidida no julgado embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via eleita. Portanto, é evidente que os presentes embargos são incabíveis, pois veiculam pretensão exclusivamente infringente do julgado, sem o propósito específico de sanar obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
