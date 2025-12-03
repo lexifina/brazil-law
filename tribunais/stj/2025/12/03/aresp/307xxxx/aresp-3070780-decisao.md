@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por LUCIANA SOARES LOPES contra decisão que inadmitiu o recurso especial, fundado na alínea c do inciso III do art. 105 da Constituição Federal, em desafio a acórdão prolatado pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 55, e-STJ):
+AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. ALIENAÇÃO FIDUCIÁRIA. AÇÃO DE BUSCA E APREENSÃO. AFASTADA A ARGUIÇÃO DO BANCO EM CONTRARRAZÕES, DE SUPRESSÃO DE INSTÂNCIA. MORA. REGULARIDADE DA NOTIFICAÇÃO. TEMA 1132, DO STJ: EM AÇÃO DE BUSCA E APREENSÃO FUNDADA EM CONTRATOS GARANTIDOS COM ALIENAÇÃO FIDUCIÁRIA (ART. 2º, § 2º, DO DECRETO-LEI N. 911/1969), PARA A COMPROVAÇÃO DA MORA, É SUFICIENTE O ENVIO DE NOTIFICAÇÃO EXTRAJUDICIAL AO DEVEDOR NO ENDEREÇO INDICADO NO INSTRUMENTO CONTRATUAL, DISPENSANDO-SE A PROVA DO RECEBIMENTO, QUER SEJA PELO PRÓPRIO DESTINATÁRIO, QUER POR TERCEIROS.
+ENCARGOS DA NORMALIDADE. AUSÊNCIA DE ABUSIVIDADE. MORA CARACTERIZADA. UNÂNIME. NEGARAM PROVIMENTO AO RECURSO.
+Nas razões de recurso especial (fls. 58-66 e 67-71, e-STJ), a parte recorrente sustentou violação aos arts. 6º, 46, 47, 51, IV, § 1º, III, e 52, I a III, do Código de Defesa do Consumidor e art. 28, § 1º, I, da Lei nº 10.931/04, alegando ofensa ao dever de informação e transparência na pactuação de capitalização diária de juros sem indicação da taxa diária aplicável, com consequente abusividade dos encargos da normalidade e necessidade de descaracterização da mora.
+Apontou, ainda, divergência jurisprudencial.
+Em sede de juízo provisório de admissibilidade, o Tribunal local inadmitiu o recurso especial (fls. 82-85, e-STJ), o que ensejou o manejo do presente agravo (fls. 88-93, e-STJ), buscando destrancar o processamento daquela insurgência.
+É o relatório.
+Decido.
+O presente recurso não merece prosperar.
+1. No caso, o Tribunal de origem limitou-se a manter a decisão liminar de busca e apreensão e afirmou que a tese de capitalização diária dos juros não foi objeto da ação revisional. Confira, a seguir, o que constou do acórdão recorrido (e-STJ, fl. 52):
+Na hipótese, insurge-se LUCIANA SOARES LOPES contra a decisão monocrática proferida nos seguintes termos: Concedo a gratuidade para fins de exame do presente recurso.
+Relativamente à constituição em mora do devedor nas ações de busca e apreensão, dispõe art. 2º, §2º, do DecretoLei nº 911/69 1 (alterado pela Lei nº 13.043/14), que a mora decorrerá do simples vencimento do prazo para pagamento e poderá ser comprovada por carta registrada com aviso de recebimento, sendo dispensada que a assinatura do aviso seja do próprio devedor. Tal matéria foi objeto de recente exame pela Corte Superior, tendo sido fixada a seguinte tese: Tema 1132, do STJ: Em ação de busca e apreensão fundada em contratos garantidos com alienação fiduciária (art. 2º, § 2º, do Decreto-Lei n. 911/1969), para a comprovação da mora, é suficiente o envio de notificação extrajudicial ao devedor no endereço indicado no instrumento contratual, dispensando-se a prova do recebimento, quer seja pelo próprio destinatário, quer por terceiros.
+No caso dos autos, a instituição financeira credora acosta prova da remessa de notificação extrajudicial para o endereço fornecido pelo devedor quando da contratação (evento 1, NOT7), não possuindo o condão de afastar sua suficiência o fato de ter sido RECEBIDA POR TERCEIRO ESTRANHO AO FEITO ou de não ter sido entregue ao destinatário pelo motivo "AUSENTE" ou "MUDOU-SE". Assim, comprovado o envio da notificação para o endereço indicado no instrumento contratual, tem-se por cumprida a formalidade exigida.
+(..)
+Complemento a decisão, que em demanda revisional, a tese sobre a capitalização de juros, não foi objeto, embora sejam demandas que tramitam concomitantemente. Nessa linha, estando sendo submetido o contrato, ao exame do Poder Judiciário, em demanda revisional, não cabe a parte apresentar teses diversas, de abusividade contratual. Admitir essa postura seria perpetrar a discussão sobre os termos da contratação, além de desenvolver uma cultura do descumprimento dos negócios jurídicos, sob a alegação de abusividade, e ainda pior, usando do Poder Judiciário para prática dessa conduta, gerando insegurança jurídica, tornando os atos sempre controvertidos.
+Desse modo, tendo em vista que a questão foi decidida com base em fundamento diverso dos dispositivos suscitados pela insurgente, resta caracterizada a deficiência na fundamentação do apelo extremo no que tange à violação aos arts. 6º, 46, 47, 51, IV, § 1º, III, e 52, I a III, do Código de Defesa do Consumidor e art. 28, § 1º, I, da Lei nº 10.931/04, pois apresenta razões dissociadas do que foi decidido pelo acórdão recorrido, circunstância atrativa do óbice contido na Súmula 284/STF.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INCIDENTE DE HABILITAÇÃO DE CRÉDITO EM INVENTÁRIO. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. FUNDAMENTOS DO ACÓRDÃO RECORRIDO NÃO IMPUGNADOS. RAZÕES RECURSAIS DISSOCIADAS DOS FUNDAMENTOS DO JULGADO ATACADO. APLICAÇÃO DAS SÚMULAS 283 E 284 DO SUPREMO TRIBUNAL FEDERAL. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ. AGRAVO NÃO PROVIDO.
+(..)
+3. É inadmissível o inconformismo por deficiência na fundamentação quando as razões do recurso estão dissociadas do decidido no acórdão recorrido. Aplicação da Súmula 284 do Supremo Tribunal Federal.
+4. O entendimento adotado pelo acórdão recorrido está em harmonia com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1616899/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 20/04/2020, DJe 04/05/2020)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. VIOLAÇÃO DE SÚMULA. DESCABIMENTO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. RAZÕES DISSOCIADAS DO ACÓRDÃO RECORRIDO. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF.
+1. A interposição de recurso especial não é cabível quando ocorre violação de súmula ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+2. Ausentes os vícios do art. 535 do CPC, rejeitam-se os embargos de declaração.
+3. Quando a parte apresenta razões dissociadas do que foi decidido pelo Tribunal de origem, incide a Súmula n. 284 do STF ante a impossibilidade de compreensão da controvérsia.
+4. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+5. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp 970.977/MT, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 27/02/2018, DJe 02/03/2018)
+2. Do exposto, com fundamento no art. 932 do Código de Processo Civil c/c Súmula 568/STJ, conheço do agravo para negar provimento ao recurso especial.
+Por fim, não havendo fixação de honorários sucumbenciais pelas instâncias ordinárias, inaplicável a majoração prevista no art. 85, § 11, do CPC.
+Publique-se. Intimem-se.
+EMENTA
