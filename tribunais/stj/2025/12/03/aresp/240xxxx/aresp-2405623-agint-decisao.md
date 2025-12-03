@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interno interposto pelo SINDICATO DOS SERVIDORES PÚBLICOS FEDERAIS EM SAÚDE, TRABALHO, PREVIDÊNCIA E AÇÃO SOCIAL DO ESTADO DO PARANÁ (SINDPREVS/PR), da decisão em que conheci do agravo para não conhecer do seu recurso especial em razão dos óbices das Súmulas 282 e 284 do STF e 7 do STJ.
+A parte agravante rebate os óbices aplicados e requer o sobrestamento do recurso.
+A parte adversa não apresentou impugnação (fl. 577).
+É o relatório.
+Diante das alegações da parte agravante, reconsidero a decisão agravada.
+O recurso especial foi interposto contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado (fls. 171/172):
+ADMINISTRATIVO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA PROFERIDA EM AÇÃO COLETIVA. PRESCRIÇÃO. OCORRÊNCIA. AUSÊNCIA DE CAUSA INTERRUPTIVA.
+1. Nos termos do Decreto n. 20.910/32, o prazo prescricional para demandar em juízo em face da Fazenda é de 5 anos. Com o trânsito em julgado da ação de conhecimento, inicia-se novo prazo de 5 anos para a pretensão executória. Isso porque, a execução prescreve no mesmo prazo de prescrição da ação (Súmula 150 do STF).
+2. No caso dos autos, o trânsito em julgado da ação coletiva nº 5023480-26.2017.4.04.7000 (90.00.06441-4/PR) ocorreu em 02/12/2016. Ausente causa interruptiva do prazo prescricional, é a partir do trânsito em julgado da fase de conhecimento que passa a correr o prazo prescricional para o ajuizamento da execução.
+Nas razões de seu recurso especial, a parte ora agravante alega (fl. 251 ):
+a) o Cumprimento de Sentença Coletivo já estava instaurado conforme decisão expressa do juízo de primeiro grau transcrita alhures, tornando sem efeito qual quer novo pedido do ora recorrente nesse sentido, uma vez que já instaurado;
+b) o prazo prescricional de 5 anos previsto no Decreto n. 20.910/32 e na Súmula 150 do STF, no presente caso, deve ser contado da data da decisão que determinou a distribuição dos cumprimentos de sentença individual por dependência ou ainda da data da ciência inequívoca pelos beneficiários da decisão, conforme dispositivos de lei federal, especialmente do CPC, e conforme já decidido por outros Tribunais.
+A questão debatida nos autos foi afetada à Corte Especial do Superior Tribunal de Justiça para ser decidida sob o rito de recursos repetitivos (Tema 1.033), e foi assim delimitada: "interrupção do prazo prescricional para pleitear o cumprimento de sentença coletiva, em virtude do ajuizamento de ação de protesto ou de execução coletiva por legitimado para propor demandas coletivas" (REsps 1.801.615/SP e 1.774.204/RS, relator Ministro Raul Araújo, DJEN de 30/10/2019 ).
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+O envio do recurso especial a esta Corte Superior deve ocorrer somente após o esgotamento da instância ordinária, formalizado com o novo julgamento pelo Tribunal de origem, quando então será possível examinar, no âmbito do STJ, as matérias jurídicas que eventualmente permanecerem controvertidas. Essa cautela também evita o fracionamento do recurso e previne eventual violação ao princípio da unicidade recursal, que veda a interposição simultânea ou sucessiva de recursos contra a mesma decisão.
+Ante o exposto, reconsidero a decisão agravada e determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil (CPC), após a publicação do acórdão dos recursos representativos de controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do mesmo CPC.
+Publique-se. Intimem-se.
+ EMENTA
