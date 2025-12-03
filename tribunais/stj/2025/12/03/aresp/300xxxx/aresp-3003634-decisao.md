@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC, art. 1.042) interposto contra decisão que inadmitiu o recurso especial sob os seguintes fundamentos: (a) inviabilidade de arguir ofensa a artigo da Constituição, (b) aplicação das Súmulas n. 282 e 356 do STF e 7 do STJ e (c) falta de comprovação do dissídio jurisprudencial (fls. 843-847).
+O acórdão recorrido está assim ementado (fls. 681-683):
+DIREITO CIVIL, CONSUMERISTA E PROCESSUAL CIVIL. APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL. CIRURGIA PLÁSTICA. OBRIGAÇÃO DE RESULTADO. DANOS ESTÉTICOS E MATERIAIS. NEGLIGÊNCIA NO ACOMPANHAMENTO PÓS-OPERATÓRIO. INDENIZAÇÃO DEVIDA. DENUNCIAÇÃO DA LIDE. CONTRATO DE SEGURO RESCINDIDO POR INADIMPLÊNCIA. SENTENÇA MANTIDA.
+I. Caso em exame
+1. Recurso de apelação interposto por cirurgião plástico contra sentença proferida pelo Juízo da 2ª Vara Cível da Comarca de Rolim de Moura, que julgou procedente a pretensão indenizatória formulada pela parte consumidora e improcedente a denunciação da lide em relação à empresa seguradora. O apelante foi condenado ao pagamento de R$ 22.500,00 a título de ressarcimento por danos materiais, além das custas e honorários advocatícios.
+II. Questão em discussão
+2 . As questões suscitadas consistem em:
+(i) analisar a alegação de inépcia da inicial e de julgamento extra petita;
+(ii) verificar a existência de cerceamento de defesa e perda superveniente do objeto;
+(iii) examinar a responsabilidade do apelante pelos danos materiais decorrentes de cirurgias plásticas malsucedidas;
+(iv) avaliar a procedência da denunciação à lide da seguradora Mapfre Seguros.
+III. Razões de decidir
+3. Inépcia da inicial e julgamento extra petita: Não configurados. A petição inicial indicou de forma clara o pedido e a causa de pedir, não havendo alteração do pedido ao longo da instrução. O juízo a quo julgou a pretensão nos exatos termos em que foi formulada, não se verificando julgamento extra petita.
+4. Cerceamento de defesa e perda superveniente do objeto: As alegações de cerceamento de defesa, especialmente quanto à necessidade de produção de prova pericial, não prosperam, pois o conjunto probatório dos autos (fotos, exames laboratoriais e trocas de mensagens) foi suficiente para a formação do convencimento do magistrado. Também não se verifica a perda superveniente do objeto, pois não há provas de que o tratamento requerido já tenha sido realizado ou que a necessidade tenha cessado.
+5. Responsabilidade do cirurgião plástico: Configurada. O médico cirurgião plástico assume uma obrigação de resultado. No caso, restou demonstrado que o procedimento cirúrgico resultou em deformidades estéticas na paciente, conforme fotos e exames laboratoriais que indicam, também, infecção bacteriana (mycobacterium spp). Além disso, as trocas de mensagens entre a paciente e a secretária do médico revelam conduta negligente no acompanhamento pós-operatório, caracterizando a falha no dever de cuidado e vigilância médica. A responsabilidade foi corretamente imputada ao recorrente.
+6. Denunciação da lide - Cobertura securitária: Improcedente. O contrato de seguro firmado entre o apelante e a Mapfre Seguros estava rescindido por inadimplência no pagamento do prêmio antes da ocorrência do sinistro. Consoante o art. 763 do Código Civil, o segurado inadimplente não tem direito à indenização securitária. A rescisão contratual foi devidamente comprovada nos autos, e o apelante não produziu prova contrária.
+IV. Dispositivo e tese
+7. Recurso de apelação desprovido.
+Tese de julgamento:
+1."A responsabilidade civil do cirurgião plástico é de resultado, cabendo-lhe comprovar que o insucesso no procedimento decorreu de causa excludente de sua responsabilidade, sendo devida a indenização por danos materiais no caso de falha comprovada."
+2. "O contrato de seguro rescindido por inadimplência do pagamento do prêmio afasta a responsabilidade da seguradora, nos termos do art. 763 do Código Civil, impedindo o direito à cobertura securitária."
+Dispositivos relevantes citados: CC, arts. 186, 422, 763; CDC, art. 14, § 4º; CPC, art. 373, II.
+Jurisprudência relevante citada: TJ-DF, 0719256-20.2017.8.07.0001; TJ-RS, 5001017-84.2016.8.21.0027; TJ-RO, 7000550-50.2020.8.22.0012.
+Os embargos de declaração foram rejeitados (fls. 714-736).
+Nas razões do recurso especial (fls. 738-764), interposto com base no art. 105, III, "a" e "c", da CF, a parte recorrente apontou dissídio jurisprudencial e violação dos seguintes dispositivos:
+(i) arts. 141 e 492 do CPC, alegando julgamento ultra petita/extra petita, ao condenar em indenização por danos materiais e ressarcimento sem pedido específico na inicial, que visava apenas o custeio de tratamento (30 sessões de oxigenoterapia) não realizado),
+(ii) arts. 5º, LV, da CF, 14, § 4º, do CDC e 951 do CC, por entender existir cerceamento de defesa, por ausência de perícia médica em matéria técnica, com responsabilização subjetiva de profissional liberal fundada apenas em fotos e mensagens,
+(iii) Súmula n. 616 do STJ e dissídio jurisprudencial quanto à cobertura securitária, pois a perda por inadimplência sem prévia notificação seria indevida, além disso, a denunciação da lide supriria a comunicação do sinistro.
+Foram oferecidas contrarrazões (fls. 838-841).
+O agravo (fls. 849-861) afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (fls. 866-869).
+É o relatório.
+Decido.
+No que se refere ao art. 5º, LV, CF, compete ao STJ velar pela aplicação uniforme da legislação infraconstitucional, não se conhecendo, portanto, do recurso especial que sustente ofensa à Constituição, sob pena de usurpação da competência do STF (art. 102, III, da CF).
+A alegada violação da Súmula n. 616 do STJ, não comporta análise no recurso, pois, de acordo com a Súmula n. 518/STJ, "Para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula".
+A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento.
+O Tribunal de origem, ao analisar o recurso de apelação, não fez menção aos arts. 141 e 492 do CPC, indicado nas razões recursais, conforme se infere do voto condutor do acórdão recorrido.
+Assim, incidentes no caso as Súmulas n. 282 e 356 do STF.
+Ainda que assim não o fosse, o TJRO afirmou que, "em sua peça exordial ,  ter a autora/apelante pleiteado o custeio de seu tratamento de oxigenoterapia, antes mesmo de ser citado o ora apelante, cumpriu com a determinação do juízo de emenda à petição inicial, especificando o valor da causa em R$ 22.500,00, sendo este o valor do referido tratamento, mostrando-se óbvio, portanto, que sua pretensão é de custeio/ressarcimento dos valores atinentes a tal tratamento médico reparatório", concluindo que (fl. 674):
+Assim, não há que se falar em inépcia da inicial, porquanto possível dela se extrair o pedido e a causa de pedir, também não havendo que se cogitar de julgamento extra petita, tendo em vista que o pronunciamento do juízo contemplou exatamente o que fora pleiteado na peça exordial, conforme pode ser conferido no dispositivo alhures transcrito.
+A alteração do decidido pelo Colegiado implicaria reavaliação fático-probatória, atraindo a Súmula n. 7/STJ.
+A Corte estadia, ao analisar as provas constantes dos autos, entendeu que não ocorreu cerceamento de defesa. Confira-se o seguinte excerto (fls. 677-678):
+Pois bem. Em se tratando de pretensão de responsabilização civil por dano moral decorrente de suposto médico, há necessidade de ser aferida a conduta do profissional que prestou o atendimento à apelante para fim de se averiguar o elemento volitivo na modalidade culpa, nos termos do artigo 14, §4º, do CDC, ainda que se trate a cirurgia estética de obrigação de resultado.
+No caso em análise, há nos autos vasto material probatório a evidenciar a conduta negligente do profissional médico ora apelante, sendo que, além dos registros fotográficos apontados na r. sentença (id. 25598201), que demonstram preocupante quadro infeccioso na mama esquerda da apelada após diversos procedimentos cirúrgicos mal sucedidos, realizados pelo recorrente, inclusive com duas extrações e recolocações da próteses mamária, há comprovação documental (exame de cultura  antibiograma - id. 25598206) da infecção bacteriana (mycobacterium spp) na mama esquerda.
+Soma-se a isso, ainda, extensa e chocante troca de mensagens entre a apelada e a secretária do apelante (identificada como contato Apaz Operatório "Ruana"), contemplando considerável interregno (cerca de 1 ano - agosto/2021 a agosto/2022), donde se extrai que a apelada residia no município de Cacoal , sendo que o acompanhamento in loco era feito raríssimas vezes. Na maioria das ocasiões, a apelada encaminhava fotografias e solicitava orientações de dita secretária, a qual lhe repassava, por vezes, orientações equivocadas ou, até mesmo, desprovidas de maior suporte científico.
+A título de exemplo, no dia 2/3/2022, quando já se encontrava acometida do quadro infeccioso há cerca de dois meses, tal secretária orientou a "colocar açúcar" na ferida infectada, tendo escrito "Rosenilda, além da rifocina e colágenase o Dr. orientou a colocar açúcar, é muito bom para ajudar na cicatrização!". Posteriormente, no dia 5/3/2022, indagou a recorrida "Você tá colocando rifocina, pomada e o açúcar ".
+Noutra situação, no dia 11/3/2022, a mesma secretária orientou a apelada a "pesquisar na internet formas de substituir os carboidratos por outras fontes de nutrientes mais saudáveis". Já no dia 19/3/2022, a recorrida tenta marcar consulta com o profissional médico, informando à secretaria "É pra o Dr. Heberti ver meu peito.. Ruana um ficou reto, sem nada".
+ ..
+Menos ainda há que se cogitar em perda superveniente do objeto da ação, assertiva esta que parte de mera presunção por parte do apelante, no sentido de que "provavelmente" a apelada não mais necessita do pretendido tratamento médico reparatório.
+Não há conclusão a se chegar, no presente feito, diversa daquela à qual chegou o douto julgador de primeira instância, porquanto notório o liame entre os persistentes danos sofridos pela parte apelada e a conduta negligente do profissional médico apelante no período posterior aos mencionados procedimentos cirúrgicos.
+A Corte local rejeitou a alegação de cerceamento de defesa, afirmando a suficiência das provas documentais e a desnecessidade de perícia, nos seguintes termos: "as alegações de cerceamento de defesa, especialmente quanto à necessidade de produção de prova pericial, não prosperam, pois o conjunto probatório dos autos (fotos, exames laboratoriais e trocas de mensagens) foi suficiente para a formação do convencimento do magistrado." (fl . 682). A alteração do decidido pelo Colegiado implicaria reavaliação fático-probatória dos autos, atraindo a Súmula n. 7/STJ.
+Quanto à divergência jurisprudencial, a decisão igualmente deve ser mantida, uma vez que, nos termos da reiterada jurisprudência desta Corte, os óbices aplicados impedem o exame do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC, majoro em 20% o valor atualizado dos honorários advocatícios arbitrados na origem em favor do patrono da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
