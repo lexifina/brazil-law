@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interno interposto por MARIVALDA DE OLIVEIRA BENTES (fls. 791-817) contra a decisão monocrática de fls. 774-776, que julgou "parcialmente procedente a impugnação, a fim de limitar o quantum debeatur ao valor nominal da portaria de anistia", fixando a verba honorária, em favor da UNIÃO, no valor de R$ 5.000,00 (cinco mil reais).
+Nas razões do recurso, a parte aduz que incidem juros e correção monetária sobre os valores retroativos previstos na portaria de anistia, nos termos do que ficou decidido no julgamento do RE 553.710/DF (Tema 394). Pugna pela reforma da decisão agravada no ponto, bem com o pela condenação da UNIÃO ao pagamento de honorário sucumbenciais, afastando aqueles fixados em seu favor.
+Impugnação da UNIÃO às fls. 833-849.
+Nas petições de fls. 854-882 e 1055-1063, a exequente pleiteia sejam definidos os índices de correção monetária e as taxas de juros aplicáveis, bem como o envio dos autos à Coordenadoria de Processamentos de Feitos em Execução Judicial para apuração do valor controverso.
+É o relatório. Decido.
+Em juízo de retratação, consoante o disposto no § 2º do art. 1.021 do Código de Processo Civil de 2015, verifica-se o desacerto da decisão agravada, razão pela qual de rigor sua reconsideração em relação à matéria objeto do agravo interno.
+Com efeito, o Supremo Tribunal Federal assentou, no julgamento do RE 553.710/DF (Tema 394), submetido à sistemática da repercussão geral, que "o direito à percepção de correção monetária e juros legais, no pagamento da reparação econômica prevista na portaria de anistia, independe de expresso pronunciamento judicial." (AgInt na ImpExe na ExeMS n. 14.441/DF, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, DJe de 28/9/2021.). Nesse mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NA EXECUÇÃO EM MANDADO DE SEGURANÇA. ADMINISTRATIVO. ANISTIA POLÍTICA. PAGAMENTO DE INDENIZAÇÃO RETROATIVA. INCIDÊNCIA DE CORREÇÃO MONETÁRIA E JUROS DE MORA. POSSIBILIDADE. EFICÁCIA VINCULATIVA DA TESE FIRMADA PELO SUPREMO TRIBUNAL FEDERAL, EM SEDE DE REPERCUSSÃO GERAL, NO JULGAMENTO DO RE 553.710/DF (TEMA 394). TERMO INICIAL DOS CONSECTÁRIOS LEGAIS. A PARTIR DO SEXAGÉSIMO PRIMEIRO DIA, CONTADOS DA PUBLICAÇÃO DA PORTARIA ANISTIADORA. APLICAÇÃO AOS ANISTIADOS POLÍTICOS DOS MESMOS ÍNDICES UTILIZADOS PARA AS CONDENAÇÕES JUDICIAIS REFERENTES A SERVIDORES PÚBLICOS. NÃO INCIDÊNCIA DA TAXA SELIC. PAGAMENTO IMEDIATO DOS VALORES RETROATIVOS DEVIDOS, SEM SUBMISSÃO AO REGIME DE PRECATÓRIOS. CONSONÂNCIACOM A ORIENTAÇÃO VERSADA NO TEMA 394. MULTA PREVISTA NO ART. 1.021, § 4º, DO CPC. NÃO CABIMENTO. AGRAVO PARCIALMENTE PROVIDO.
+1. O Supremo Tribunal Federal assentou, no julgamento do RE 553.710/DF (Tema 394), submetido à sistemática da repercussão geral, que o direito à percepção de correção monetária e juros legais, no pagamento da reparação econômica prevista na portaria de anistia, independe de expresso pronunciamento judicial.
+(..)
+6. Agravo interno parcialmente provido.
+(AgInt na ExeMS n. 13.249/DF, relator Ministro Ribeiro Dantas, Terceira Seção, DJe de 28/11/2023).
+PROCESSUAL CIVIL. AGRAVO INTERNO NA IMPUGNAÇÃO NA EXECUÇÃO EM MANDADO DE SEGURANÇA. ADMINISTRATIVO. ANISTIA POLÍTICA. PAGAMENTO DE INDENIZAÇÃO RETROATIVA. INCIDÊNCIA DE CORREÇÃO MONETÁRIA E JUROS DE MORA. CABIMENTO. EFICÁCIA VINCULATIVA DA TESE FIRMADA PELO SUPREMO TRIBUNAL FEDERAL, EM SEDE DE REPERCUSSÃO GERAL, NO JULGAMENTO DO RE 553.710/DF (TEMA 394). TERMO INICIAL DESSES CONSECTÁRIOS LEGAIS. A PARTIR DO SEXAGÉSIMO PRIMEIRO DIA, CONTADOS DA PUBLICAÇÃO DA PORTARIA ANISTIADORA. LITIGÂNCIA DE MÁ-FÉ CARACTERIZADA. MULTA DEVIDA. AGRAVO IMPROVIDO.
+1. O Supremo Tribunal Federal assentou, no julgamento do RE 553.710/DF (Tema 394), submetido à sistemática da repercussão geral, que o direito à percepção de correção monetária e juros legais, no pagamento da reparação econômica prevista na portaria de anistia, independe de expresso pronunciamento judicial.
+2. O termo inicial a ser considerado, para cada um dos consectários legais, é a partir do sexagésimo primeiro dia, contados da publicação da portaria anistiadora, o que encontra amparo, inclusive, na disposição contida no art. 12, § 4º, da Lei nº 10.559/2002.
+3. Evidenciada a tentativa de alterar a verdade dos fatos, resta caracterizada a litigância de má-fé, sujeitando a UNIÃO ao pagamento de multa de 1% (um por cento) do valor corrigido da causa, nos termos dos arts. 80, II, e 81, caput, do CPC.
+4. Agravo interno improvido.
+(AgInt na ImpExe na ExeMS n. 13.806/DF, relator Ministro Sérgio Kukina, Primeira Seção, DJe de 23/5/2022).
+Dessa forma, devem ser incluídos os juros de mora e correção monetária ao valor que consta na portaria anistiadora.
+Considerando que na impugnação à execução a UNIÃO, subsidiariamente, insurgiu-se contra os cálculos da parte exequente, passo a fixar os critérios a serem observados.
+ÍNDICES DE CORREÇÃO MONETÁRIA E DE JUROS DE MORA
+Quanto aos índices de correção monetária e de juros de mora, frise-se que eles devem seguir os seguintes critérios:
+Índice de correção monetária a ser aplicada: IPCA-E (Tema 905/STJ e Tema 810/STF); a partir da data de publicação da EC n.º 113/2021, taxa Selic.
+Índice de juros a ser aplicado: até junho/2009, 0,5% ao mês; de julho/2009 até a data da EC n. 113/2021, remuneração oficial da caderneta de poupança. A partir da data de publicação da referida emenda, taxa Selic.
+DIES A QUO DOS CONSECTÁRIOS LEGAIS
+O termo inicial a ser considerado, para cada um dos consectários legais (correção monetária e juros de mora), "é a partir do sexagésimo primeiro dia, contados da publicação da portaria anistiadora, o que encontra amparo, inclusive, na disposição contida no art. 12, § 4º, da Lei nº 10.559/2002." (AgInt na ImpExe na ExeMS n. 15.126/DF, relatora Ministra Assusete Magalhães, Primeira Seção, DJe de 8/11/2023.).
+Nesse mesmo sentido: AgInt na ImpExe na ExeMS n. 11.859/DF, relator Ministro Ribeiro Dantas, Terceira Seção, DJe de e AgInt na ImpExe na ExeMS n. 17/8/2023 20.256/DF, relator Ministro Sérgio Kukina, Primeira Seção, DJe de . No caso 19/8/2022 em tela, a portaria anistiadora foi publicada em 19 de dezembro de 2002.
+CONCLUSÃO
+Ante o exposto, nos termos do § 2º do art. 1.021 do Código de Processo Civil, reconsidero a decisão de fls. 774-776, restando prejudicado o agravo interno de fls. 791-817, para julgar improcedente a impugnação à execução e, via de consequência, afastar a condenação da exequente.
+Remetam-se os autos à Coordenadoria de Processamento de Feitos em Execução Judicial para liquidação do julgado com base nos seguintes critérios:
+Base de Cálculo do Principal: Valor nominal estabelecido na Portaria 789, de 03 de junho de 2003, do Ministro de Estado da Justiça, devendo ser deduzida a parcela incontroversa requisitada por meio do Prc 4977/DF.
+Índice de Correção Monetária a ser aplicada: IPCA-E (Tema 905/STJ e Tema 810/STF); a partir da data de publicação da EC n. 113/2021, taxa Selic.
+Termo Inicial da Correção Monetária: 61º dia contados da publicação da portaria anistiadora.
+Termo Final da Correção Monetária: Efetivo pagamento do precatório.
+Índice de Juros a serem aplicados: até junho/2009, 0,5% ao mês; de julho/2009 até a data da EC n. 113/2021, remuneração oficial da caderneta de poupança. A partir da data de publicação da referida emenda, taxa Selic.
+Termo Inicial dos Juros: 61º dia contados da publicação da portaria anistiadora.
+Termo final dos Juros: Expedição do precatório.
+Deixo de fixar honorários de sucumbência, em razão do julgamento do Tema 1.232/STJ, oportunidade em que foi fixada a seguinte tese jurídica: "Nos termos do art. 25 da Lei n. 12.016/2009, não se revela cabível a fixação de honorários de sucumbência em cumprimento de sentença proferida em mandado de segurança individual, ainda que dela resultem efeitos patrimoniais a serem saldados dentro dos mesmos autos.".
+Após, as partes deverão ser intimadas acerca das informações prestadas pela CPEX, inde pendentemente de nova conclusão. Havendo concordância, tácita ou expressa das partes, elabore-se minuta de requisição de pagamento, com destaque de honorários advocatícios contratuais, se for o caso. Sendo necessário, fica autorizada a abertura de vista pela secretaria para solicitar documentação adicional.
+Na sequência, intimem-se as partes e o MPF acerca do inteiro teor do requisitório a ser expedido, nos termos do art. 7º, § 6º, da Resolução CNJ n. 303/2019, no prazo comum de 5 (cinco) dias. Não havendo manifestação ou indicação de erro material ou outra inconsistência, remeta-se a requisição para assinatura e posterior apresentação ao Presidente desta Corte.
+Publique-se. Intimem-se.
+ EMENTA
