@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo nos próprios autos, interposto por MAURICIO BRASILINO LEITE FILHO e JOSEANE RAQUEL JANSEN BRASILINO LEITE, contra decisão que inadmitiu o recurso especial em razão da incidência das Súmulas n. 282 e 356 do STF e 7 do STJ (fls. 844-845).
+O acórdão recorrido encontra-se assim ementado (fl. 740):
+APELAÇÃO CÍVEL. AÇÃO MONITÓRIA. CÉDULA DE CRÉDITO BANCÁRIO. SENTENÇA QUE JULGOU PARCIALMENTE PROCEDENTES OS EMBARGOS MONITÓRIOS. RECURSO DE AMBAS AS PARTES RECURSO DA PARTE DEMANDADA. ALEGAÇÃO DE ILIQUIDEZ DO CRÉDITO E SUJEIÇÃO DA DÍVIDA AO PLANO DE RECUPERAÇÃO JUDICIAL DA DEVEDORA PRINCIPAL. APELANTES QUE FIGURAM COMO AVALISTAS NA CÉDULA DE CRÉDITO BANCÁRIO. PRESERVAÇÃO DE SUAS OBRIGAÇÕES. INTELIGÊNCIA DO ART. 49, §1º, DA LEI 11.101/2005. POSSIBILIDADE DE PROSSEGUIMENTO CONTRA OS COOBRIGADOS. JULGAMENTO ANTECIPADO. CERCEAMENTO DE DEFESA. PROVA PERICIAL. DESNECESSIDADE. AÇÃO MONITÓRIA FUNDADA ESSENCIALMENTE EM PROVAS DOCUMENTAIS. ANÁLISE DE ABUSIVIDADES CONTRATUAIS QUE INDEPENDE DE PROVA TÉCNICA. RECURSO ADESIVO. INCIDÊNCIA DO CERTIFICADO DE DEPÓSITO INTERBANCÁRIO COMO CORREÇÃO MONETÁRIA. HIPÓTESE QUE NÃO CUMPRE A FINALIDADE DO CDI, QUE SERVE COMO ÍNDICE DE REFLEXÃO DE REMUNERAÇÃO DAS INSTITUIÇÕES FINANCEIRAS, NÃO REFLETINDO A DESVALORIZAÇÃO DA MOEDA. ILEGALIDADE CONSTATADA. PRECEDENTES DA CORTE DE CIDADANIA E DESTE TRIBUNAL. MANUTENÇÃO DA SENTENÇA QUE SE IMPÕE. RECURSO DA PARTE RÉ. PLEITO DE REDISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS FIXADOS NA ORIGEM. ACOLHIMENTO PARCIAL. AFASTAMENTO DO CDI QUE POSSUI IMPACTO SOBRE O VALOR DA DÍVIDA. HONORÁRIOS ADVOCATÍCIOS RECURSAIS INCABÍVEIS. REDIMENSIONAMENTO DA SUCUMBÊNCIA QUE IMPEDE A MAJORAÇÃO DO ESTIPÊNDIO. RECURSO DA PARTE EMBARGANTE CONHECIDO E PARCIALMENTE PROVIDO. RECURSO DA PARTE DEMANDANTE CONHECIDO E DESPROVIDO.
+Os embargos de declaração foram rejeitados (fls. 751-755).
+Nas razões do recurso especial (fls. 759-768), interposto com fundamento no art. 105, III, "a", da CF, a parte recorrente alegou que o acórdão recorrido "violou o Art. 700 do CPC ao admitir como prova escrita documentos unilaterais incapazes de conferir certeza e liquidez ao crédito" (fl. 767).
+No agravo (fls. 847-854), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (fls. 857-860).
+É o relatório.
+Decido.
+Apesar da oposição dos aclaratórios, a tese de que não é possível admitir como prova escrita documentos unilaterais incapazes de conferir certeza e liquidez ao crédito não foi debatida pelo Tribunal a quo, visto que não invocada na origem. Assim, ausente o prequestionamento, deve incidir no caso a Súmula n. 211/STJ.
+Ainda que se considerasse implicitamente prequestionada a matéria, para afastar o entendimento das instâncias originárias a respeito da suficiência para a solução da controvérsia da documentação que instrui o feito, seria imprescindível a revisão do contexto fático-probatório dos autos, o que é vedado pela Súmula n. 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC, MAJORO os honorários advocatícios devidos pela parte agravante em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+ EMENTA
