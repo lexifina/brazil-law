@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por HAPVIDA ASSISTÊNCIA MÉDICA S/A contra decisão que inadmitiu seu recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo eg. Tribunal de Justiça do Estado da Bahia, assim ementado:
+"AGRAVO DE INSTRUMENTO. AÇÃO DECLARATÓRIA DE EXTINÇÃO CONTRATUAL C/C COM PEDIDO LIMINAR E INDENIZAÇÃO. PLANO DE SAÚDE. LIMINAR CONCEDIDA PARA SUSPENDER COBRANÇAS CONTROVERTIDAS. ALEGAÇÃO DE QUE AS COBRANÇAS SE REFEREM A PERÍODO POSTERIOR AO TÉRMINO DO CONTRATO. EVIDENCIADA VEROSSIMILHANÇA E RISCO DA DEMORA EM FAVOR DO AGRAVADO. PRESENTES OS REQUISITOS PARA CONCESSÃO DA MEDIDA LIMINAR NO PRIMEIRO GRAU. MANUTENÇÃO DA DECISÃO RECORRIDA. NEGADO PROVIMENTO AO RECURSO." (e-STJ, fls. 290-291)
+Não foram opostos embargos de declaração.
+Em seu recurso especial, o recorrente alega violação dos seguintes dispositivos da legislação federal, com as respectivas teses:
+(i) art. 300 do Código de Processo Civil, pois não teriam sido demonstrados os requisitos cumulativos da tutela de urgência (probabilidade do direito e perigo de dano), além de que a medida antecipatória poderia afrontar o § 3º do dispositivo ao implicar risco de irreversibilidade dos efeitos da decisão;
+(ii) arts. 369 e seguintes do Código de Processo Civil, porque teria havido má valoração da prova e desrespeito às regras de produção e valoração probatória, o que justificaria a revaloração das provas em sede especial;
+(iii) art. 4º da Lei 9.961/2000, uma vez que teria sido ignorada a competência e a regulação da Agência Nacional de Saúde Suplementar (ANS) sobre rescisão de contratos coletivos, inclusive quanto à validade de cláusulas contratuais alinhadas às normas setoriais;
+(iv) art. 51 e art. 54, §§ 3º e 4º, do Código de Defesa do Consumidor, pois as cláusulas de rescisão e multa, redigidas de forma clara e com destaque, não seriam abusivas nem colocariam o consumidor em desvantagem exagerada, de modo que a manutenção da liminar teria contrariado tais dispositivos;
+(v) arts. 104 e 422 do Código Civil, porque os requisitos de validade do negócio jurídico e o dever de boa-fé contratual teriam sido observados, impondo-se o respeito às cláusulas pactuadas (aviso prévio de 60 dias e multa rescisória), de modo que a decisão teria desconsiderado a força obrigatória do contrato; e
+(vi) alínea "c" do art. 105, III, da Constituição Federal (dissídio jurisprudencial), alegando divergência quanto à possibilidade de revaloração da prova em recurso especial e quanto à interpretação da validade de cláusulas de rescisão e multa em planos coletivos de saúde.
+Foram apresentadas contrarrazões (e-STJ, fls. 480-496).
+O recurso especial foi inadmitido na origem, dando ensejo à interposição do presente agravo.
+É o Relatório. Passo a decidir.
+Segundo entendimento desta Corte, a superveniência de sentença que abranja ou prejudique a matéria também tratada por anterior decisão interlocutória implica perda do objeto dos recursos contra esta última interpostos, pois, no caso de irresignação, a parte deverá interpor recurso contra a referida sentença. Nesse sentido:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. SUPERVENIÊNCIA DE SENTENÇA. PERDA DE OBJETO DO AGRAVO DE INSTRUMENTO. OCORRÊNCIA NO CASO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS COM EFEITOS MODIFICATIVOS.
+1. "A superveniência de sentença no processo principal não conduz, necessariamente, à perda do objeto do Agravo de Instrumento contra decisão interlocutória do mesmo processo, devendo-se considerar em cada caso, o teor da decisão interlocutória agravada e o conteúdo da sentença para o fim de se verificar a prejudicialidade" (AgInt no REsp n. 1.68.788/SP, Segunda Turma).
+2. Constata-se a perda de objeto de recurso oriundo de agravo de instrumento que deliberou sobre prescrição quando a matéria é tratada na sentença, permitindo à parte devolvê-la ao tribunal de origem novamente.
+3. Embargos de declaração acolhidos com efeitos modificativos, para anular o acórdão embargado e declarar a perda de objeto dos embargos de divergência."
+(EDcl no AgInt nos EREsp n. 1.415.744/SC, Relator Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, julgado em 27/9/2022, DJe de 6/10/2022.)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. 1. DECISÃO INTERLOCUTÓRIA QUE NÃO CONHECEU DA EXCEÇÃO DE INCOMPETÊNCIA. RECURSO ESPECIAL CONTRA O ACÓRDÃO DO AGRAVO DE INSTRUMENTO. SUPERVENIÊNCIA DE SENTENÇA QUE NOVAMENTE ANALISA A ALEGADA INCOMPETÊNCIA DO JUÍZO E A RECHAÇA. RECURSO ESPECIAL PREJUDICADO. 2. AGRAVO DESPROVIDO.
+1. Tendo sido prolatada sentença nos autos da ação indenizatória, ocasião na qual foi reafirmada a competência do Juízo de origem para o julgamento da demanda em questão, resta prejudicado o recurso especial interposto contra o acórdão do agravo de instrumento confirmatório da decisão interlocutória que também tratou do tema. Assim, caso a agravante pretenda continuar questionando a competência do juízo, deverá fazê-lo por meio de recurso apresentado contra a sentença, e não mais por intermédio do agravo de instrumento, eis que houve a perda do objeto.
+2. Agravo regimental desprovido."
+(AgRg no AREsp 709.332/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 03/05/2016, DJe de 13/05/2016)
+No caso dos autos, o agravo de instrumento originário do recurso especial foi interposto contra decisão interlocutória relativa à tutela provisória, consistente na suspensão de cobranças controvertidas relativamente a contrato de saúde entre as partes.
+Entretanto, sobreveio sentença de procedência da ação, prolatada em 18/7/2025, ainda sem trânsito em julgado, na qual foi confirmada a tutela provisória, declarando inexigíveis as cobranças efetuadas.
+Desse modo, pela perda superveniente do objeto do agravo de instrumento originário, fica prejudicado o conhecimento do recurso especial e, por isso, do agravo contra sua inadmissão, nos termos do art. 932, III, do CPC/2015.
+Diante do exposto, não conheço do agravo em recurso especial.
+Publique-se.
+EMENTA
