@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por NAZIH TAHA GHUNEIM LTDA. contra decisão da minha lavra, proferida às e-STJ fls. 156/161, em que conheci do agravo para não conhecer do recurso especial, em face de aplicação das Súmulas 735 do STF e 7 do STJ.
+A embargante sustenta omissão e contradição na decisão que conheceu do agravo para não conhecer do recurso especial, por aplicar indevidamente a Súmula 735 do STF e a Súmula 7 do STJ, ao tratar o acórdão recorrido como decisão provisória de tutela de urgência, quando, na verdade, se trata de decisão interlocutória terminativa que deferiu medida de arresto cautelar antes da citação, com natureza satisfativa e sem necessidade de posterior confirmação.
+Afirma que há hipótese de mitigação do verbete 735, pois a medida cautelar ofenderia diretamente a lei federal, notadamente o art. 300 do CPC e o art. 7º da Lei n. 6.830/1980, que exigem, para a adoção de medidas prévias à citação na execução fiscal, a não localização do devedor por não possuir domicílio ou por dele se omitir, o que não teria sido demonstrado; além disso, a decisão teria presumido o periculum in mora, em desacordo com a legislação.
+Sem impugnação (e-STJ fl. 179).
+Passo a decidir.
+Nos termos do art. 1.022 do CPC, os embargos de declaração têm por escopo sanar decisão judicial em que haja obscuridade, contradição, omissão ou erro material.
+No caso, não ocorreu nenhum dos vícios supracitados.
+Verifica-se que a omissão alegada, na realidade, manifesta o inconformismo do recorrente com o desfecho da decisão recorrida, sendo certo que eventual reforma do julgado embargado não condiz com a natureza integrativa dos aclaratórios, mormente levando em conta que o acórdão recorrido foi proferido em sede de agravo de instrumento provido, para deferir a antecipação da tutela requerida, com o fim de determinar a indisponibilidade imediata dos bens da empresa redirecionada, circunstância hábil a autorizar a aplicação da Súmula 735 do STF.
+Ressaltou-se, ainda, que esta Corte de Justiça admite a mitigação do Enunciado 735 do STF, especificamente nas hipóteses em que a própria medida importe em ofensa direta à lei federal que disciplina a tutela provisória (art. 273 do CPC/1973 ou art. 300 do CPC/2015), como quando houver norma proibitiva da concessão dessa medida.
+Além disso, a decisão embargada consignou que a desconstituição do entendimento adotado pelo acórdão recorrido demandaria, induvidosamente, o revolvimento do arcabouço probatório, providência incompatível com a via do recurso especial em virtude do óbice da Súmula 7 do STJ.
+Em atenção às alegações da embargante, destaco que a medida de arresto cautelar tem caráter provisório e precário, de garantia temporária, visando preservar bens para assegurar o resultado útil do processo, e, nessa perspectiva, o recurso interposto contra seu deferimento atrai a aplicação da Súmula 735 do STF.
+Ponderados esses elementos, constato que a insurgência da embargante não diz respeito a eventual deficiência de fundamentação do julgado, mas à interpretação que lhe foi desfavorável, possuindo (aquela) caráter meramente infringente e, por isso, sendo de inviável acolhimento no âmbito restrito dos embargos de declaração.
+Por fim, advirto a recorrente de que a oposição de embargos de declaração manifestamente protelatórios pode ensejar a aplicação da multa prevista no § 2º do art. 1.026 do CPC .
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
