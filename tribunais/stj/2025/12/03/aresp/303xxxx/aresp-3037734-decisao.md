@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu o recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO CÍVEL. AÇÃO ANULATÓRIA C/C RESTITUIÇÃO DE VALORES E INDENIZAÇÃO POR DANO MORAL. CONTRATO DE CONSÓRCIO. PRELIMINAR DE REVOGAÇÃO DA JUSTIÇA GRATUITA REJEITADA. RELAÇÃO DE CONSUMO CONFIGURADA. ERRO SUBSTANCIAL NÃO CARACTERIZADO. RESCISÃO UNILATERAL DO CONSUMIDOR. RESTITUIÇÃO PARCIAL DOS VALORES. EXCLUSÃO DA TAXA DE ADESÃO E SEGURO. INCLUSÃO DO FUNDO DE RESERVA. CLÁUSULA PENAL AFASTADA. DEVOLUÇÃO APÓS O ENCERRAMENTO DO GRUPO. SUCUMBÊNCIA RECÍPROCA RECONHECIDA. RECURSO PARCIALMENTE PROVIDO. UNANIMIDADE.
+1. A concessão da justiça gratuita presume-se verdadeira quando alegada por pessoa natural, nos termos do art. 99, § 3º, do CPC, especialmente quando a parte é assistida pela Defensoria Pública.
+2. Aplica-se o Código de Defesa do Consumidor aos contratos de consórcio, conforme Súmula 297 do STJ.
+3. Não se caracteriza erro substancial quando o contrato apresenta informações claras sobre a natureza do negócio jurídico, afastando a alegação de falha no dever de informação.
+4. Na rescisão unilateral do contrato de consórcio pelo consumidor, é devida a restituição dos valores pagos, excluindo-se a taxa de adesão e o seguro, mas incluindo-se o fundo de reserva.
+5. A cobrança de cláusula penal em contrato de consórcio está condicionada à demonstração de prejuízo ao grupo pela administradora, conforme entendimento do STJ.
+6. A devolução dos valores deve ocorrer em até 30 dias após o encerramento do grupo consorcial, seguindo jurisprudência do STJ.
+7. Reconhecida a sucumbência recíproca, as custas e honorários advocatícios devem ser repartidos entre as partes, nos termos do art. 86 do CPC.
+8. Recurso conhecido e parcialmente provido. Unanimidade.
+Nas razões de recurso especial, a parte agravante alega violação dos arts. 371; 489, § 1º, IV; e 1022 do Código de Processo Civil. Afirma que o acórdão recorrido é omisso e desprovido de fundamentos. Sustenta que o Tribunal de origem deixou de analisar todas as provas produzidas no curso da instrução processual.
+Assim posta a questão, observo que o acórdão recorrido se manifestou de forma suficiente e motivada sobre o tema em discussão nos autos. Ademais, não está o órgão julgador obrigado a se pronunciar sobre todos os argumentos apontados pelas partes, a fim de expressar o seu convencimento. No caso em exame, o pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido. Afasto, pois, a alegada violação dos arts. 489 e 1022 do CPC.
+Quanto ao mais, verifico que o recurso especial não dispensa o reexame de prova. O agravante afirma que a prova oral produzida demonstra a nulidade do contrato, pois o consumidor foi levado a erro em razão da deficiência das informações prestadas pelo fornecedor. A respeito dessa premissa fática, porém, confira-se o seguinte trecho do acórdão recorrido (fl. 329):
+Na espécie, o que se observa é que temos, de um lado, a parte contratante aduzindo que celebrou contrato de consórcio, mas que lhe teria sido assegurado que a contemplação seria realizada imediatamente após o pagamento da primeira parcela do consórcio. E, de outro lado, tem-se a administradora contratada, que sustenta que a parte tinha plena ciência dos termos do negócio jurídico realizado e que não realizou a promessa aduzida.
+Infere-se que foi acostado aos autos o instrumento contratual (fls. 101/136) que demonstra tratar-se de proposta de adesão consórcio. Nesse modelo de negócio, em síntese, há a reunião de pessoas com interesse em bem comum, contribuindo mensalmente de modo a propiciar, mediante regras específicas (sorteio e lance), a contemplação de alguns integrantes, periodicamente, à aquisição do bem ou serviço.
+Há diversas passagens em destaque no documento referindo que se trata de consórcio e que a fornecedora não dá garantia de data de contemplação, tendo o consumidor assinado o instrumento consentindo com o teor. Frise-se que há uma ressalva com esses dizeres em letras garrafais e vermelhas "NÃO HÁ GARANTIA DE DATA DE CONTEMPLAÇÃO", rente à assinatura do consumidor.
+Assim, não é pertinente a alegação da parte autora de que adquiriu a cota esperando a contemplação após o adimplemento da primeira parcela do consórcio.
+Não há como afastar essas conclusões em recurso especial, consoante dispõe a Súmula 7 do STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
+EMENTA
