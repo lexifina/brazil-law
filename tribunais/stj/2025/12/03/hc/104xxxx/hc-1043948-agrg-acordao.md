@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 27/11/2025 a 03/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Carlos Pires Brandão, Og Fernandes, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA E FALSIFICAÇÃO DE PAPEIS PÚBLICOS. PRISÃO PREVENTIVA. EXCESSO DE PRAZO PARA FORMAÇÃO DA CULPA. NÃO CONFIGURADO. INSTRUÇÃO ENCERRADA COM BREVIDADE. SÚMULA N. 52/STJ. AUTOS CONCLUSOS HÁ MENOS DE TRÊS MESES. AGRAVO DESPROVIDO.
+1. A aferição da existência do excesso de prazo impõe a observância ao preceito inserto no art. 5º, LXXVIII, da Constituição Federal. A aferição da violação dessa garantia constitucional não se realiza de forma puramente matemática. Reclama, ao contrário, um juízo de razoabilidade, no qual devem ser sopesados não só o tempo da prisão provisória mas também as peculiaridades da causa, sua complexidade, bem como quaisquer fatores que possam influir na tramitação da ação penal.
+2. No caso, o ora agravante foi preso em flagrante, no dia 13/11/2024, sendo oferecida e recebida a denúncia em 17/12/2024. Citados pessoalmente, " a pós a apresentação das resposta à acusação pelas defesa, no dia 23 de abril de 2025, o recebimento foi mantido, designando audiência de instrução para o dia 15/7/2025". A instrução criminal foi encerrada nesse dia, atraindo a incidência do enunciado da Súmula n. 52/STJ. Ainda que assim não fosse, iniciada a fase para a apresentação das alegações finais, a última peça foi apresentada em 3/9/2025, ocasião em que os autos foram conclusos para s entença.
+3. Assim, não há falar-se em excesso de prazo, pois o processo teve regular andamento na origem, com celeridade no encerramento da instrução, já tendo sido apresentadas as alegações finais dos cinco acusados, estando os autos concluso para sentença a menos de três meses, o que afasta, por ora, a ocorrência de excesso de prazo para a formação da culpa.
+4. Soma-se a isso o fato de não haver manifesta desproporcionalidade no lapso transcorrido desde a efetivação da custódia cautelar até o presente momento, mormente se tratando de imputação pela suposta prática dos delitos de organização criminosa e falsificação de papéis públicos.
+5. Agravo regimental desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por ANDRE FERREIRA DA SILVA contra decisão em que deneguei a ordem e que foi assim relatada:
+Trata-se de habeas corpus com pedido liminar impetrado em favor de ANDRE FERREIRA DA SILVA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 2278255-80.2025.8.26.0000).
+Depreende-se dos autos que o paciente encontra-se preso preventivamente e foi denunciado pela prática, em tese, dos crimes previstos no art. 2º, caput, da Lei n. 12.850/2013 e art. 293, § 1º, inciso I, na forma do art. 69, ambos do Código Penal.
+O Tribunal de origem denegou a ordem (e-STJ fls. 7/15):
+EMENTA: DIREITO PENAL. HABEAS CORPUS. EXCESSO DE PRAZO. ORDEM DENEGADA. I. Questão em Discussão 1. A questão em discussão consiste em determinar se há excesso de prazo na prisão preventiva do paciente, configurando constrangimento ilegal. II. Razões de Decidir 2. A prisão preventiva é fundamentada na gravidade concreta do delito e nos indícios suficientes de autoria, além das condições pessoais do paciente, que ostenta maus antecedentes. 3. Não há elementos que indiquem demora injustificada no processo, que já conta com instrução criminal encerrada, conforme Súmula nº 52 do STJ. III. Dispositivo e Tese 4. Ordem denegada.
+Daí o presente writ, no qual a defesa se insurge apenas quanto ao excesso de prazo para julgamento do feito e, por conseguinte, da prisão cautelar que perdura desde 13/11/2024.
+Requer, liminarmente e no mérito, a expedição de alvará de soltura. Subsidiariamente, pleiteia a substituição da prisão preventiva por medida cautelar diversa.
+No presente agravo, alega a defesa que a "fundamentação adotada no decisum impugnado ignora que a instrução processual foi encerrada em 3/9/2025, de modo que transcorreram mais de trinta dias sem qualquer movimentação útil, o que revela mora injustificada do juízo de origem e afronta direta ao art. 5º, LXXVIII, da Constituição Federal, bem como ao art. 7º, item 5, da Convenção Americana sobre Direitos Humanos" (e-STJ fls. 87/88).
+Reitera, no mais, as alegações originárias.
+Requer, por fim, a reconsideração da decisão ou o seu enfrentamento pelo colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA E FALSIFICAÇÃO DE PAPEIS PÚBLICOS. PRISÃO PREVENTIVA. EXCESSO DE PRAZO PARA FORMAÇÃO DA CULPA. NÃO CONFIGURADO. INSTRUÇÃO ENCERRADA COM BREVIDADE. SÚMULA N. 52/STJ. AUTOS CONCLUSOS HÁ MENOS DE TRÊS MESES. AGRAVO DESPROVIDO.
+1. A aferição da existência do excesso de prazo impõe a observância ao preceito inserto no art. 5º, LXXVIII, da Constituição Federal. A aferição da violação dessa garantia constitucional não se realiza de forma puramente matemática. Reclama, ao contrário, um juízo de razoabilidade, no qual devem ser sopesados não só o tempo da prisão provisória mas também as peculiaridades da causa, sua complexidade, bem como quaisquer fatores que possam influir na tramitação da ação penal.
+2. No caso, o ora agravante foi preso em flagrante, no dia 13/11/2024, sendo oferecida e recebida a denúncia em 17/12/2024. Citados pessoalmente, " a pós a apresentação das resposta à acusação pelas defesa, no dia 23 de abril de 2025, o recebimento foi mantido, designando audiência de instrução para o dia 15/7/2025". A instrução criminal foi encerrada nesse dia, atraindo a incidência do enunciado da Súmula n. 52/STJ. Ainda que assim não fosse, iniciada a fase para a apresentação das alegações finais, a última peça foi apresentada em 3/9/2025, ocasião em que os autos foram conclusos para s entença.
+3. Assim, não há falar-se em excesso de prazo, pois o processo teve regular andamento na origem, com celeridade no encerramento da instrução, já tendo sido apresentadas as alegações finais dos cinco acusados, estando os autos concluso para sentença a menos de três meses, o que afasta, por ora, a ocorrência de excesso de prazo para a formação da culpa.
+4. Soma-se a isso o fato de não haver manifesta desproporcionalidade no lapso transcorrido desde a efetivação da custódia cautelar até o presente momento, mormente se tratando de imputação pela suposta prática dos delitos de organização criminosa e falsificação de papéis públicos.
+5. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+A irresignação não merece prosperar.
+Insta consignar que a aferição da existência do excesso de prazo impõe a observância ao preceito inserto no art. 5º, LXXVIII, da Constituição Federal, que assim dispõe:
+A todos, no âmbito judicial e administrativo, são assegurados a razoável duração do processo e os meios que garantam a celeridade de sua tramitação.
+Não obstante, a aferição da violação à garantia constitucional acima referida não se realiza de forma puramente matemática. Reclama, ao contrário, um juízo de razoabilidade, no qual devem ser sopesados não só o tempo da prisão provisória mas também as peculiaridades da causa, sua complexidade, bem como quaisquer fatores que possam influir na tramitação da ação penal.
+Depreende-se dos autos que o ora agravante foi preso em flagrante, no dia 13/11/2024, sendo oferecida e recebida a denúncia em 17/12/2024. Citados pessoalmente, " a pós a apresentação das resposta à acusação pelas defesa, no dia 23 de abril de 2025, o recebimento foi mantido, designando audiência de instrução para o dia 15/7/2025" (e-STJ fl. 52).
+A instrução criminal foi encerrada no dia da audiência de instrução, o que atrai a incidência do enunciado da Súmula n. 52, "encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo" (TERCEIRA SEÇÃO, julgado em 17/9/1992, DJ 24/9/1992, p. 16.070).
+Ainda que assim não fosse, iniciada a fase para a apresentação das alegações finais, a última peça foi apresentada em 3/9/2025, ocasião em que os autos foram conclusos para sentença.
+Desse modo, considerados os dados acima referidos, não há falar-se em excesso de prazo, pois o processo teve regular andamento na origem, com celeridade no encerramento da instrução, já tendo sido apresentadas as alegações finais dos cinco acusados, estando os autos concluso para sentença há menos de três meses, o que afasta, por ora, a ocorrência de excesso de prazo para a formação da culpa.
+Soma-se a isso o fato de não haver manifesta desproporcionalidade no lapso transcorrido desde a efetivação da custódia cautelar até o presente momento, mormente se tratando de imputação pela suposta prática dos delitos de organização criminosa e falsificação de papéis públicos.
+Diante de todo o exposto, nego provimento ao agravo regimental.
+É o voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
