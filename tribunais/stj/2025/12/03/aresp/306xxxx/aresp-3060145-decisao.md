@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo interposto por Notre Dame Intermédica Saúde S/A contra decisão proferida pelo Tribunal de Justiça do Estado de São Paulo que não admitiu recurso especial por entender que o acórdão recorrido apreciou tutela provisória em cognição sumária adstrita ao art. 300 do CPC, incidindo a Súmula 735 do Supremo Tribunal Federal, adotada pelo Superior Tribunal de Justiça, o que afasta o cabimento do recurso especial para reexame de decisão liminar/antecipatória (fls. 328-330).
+Nas razões do presente agravo em recurso especial, a parte agravante alega, em síntese, que a decisão ora recorrida incorreu em equívoco ao aplicar a Súmula 735 do STF, por ser enunciado destinado ao recurso extraordinário e não ao recurso especial, sustentando que a matéria versada decorre de lei federal (art. 300 do CPC) e, por isso, é passível de exame pelo STJ (fls. 341-343).
+Sustenta que os precedentes utilizados na decisão agravada não guardam identidade com o caso concreto, motivo pelo qual não seriam aplicáveis (fl. 342).
+Aduz, por fim, que não incidem, no caso, os óbices das Súmulas 5 e 7 do STJ (fls. 342-343).
+Decorreu o prazo sem apresentação de impugnação (fl. 347).
+Assim posta a questão, passo a decidir.
+O recurso não merece prosperar.
+Nos termos do art. 932, inciso III, do Código de Processo Civil e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida.
+Considerando todos os fundamentos da decisão que não admitiu o recurso especial acima relatados, observo que a parte, nas razões do seu agravo em recurso especial, deixou de rebatê-los devidamente, porquanto se limitou a defender, em linhas gerais, a inaplicabilidade da Súmula 735 do STF ao recurso especial, a alegada disparidade dos precedentes citados e a inexistência de incidência das Súmulas 5 e 7 do STJ (fls. 341-343).
+Observa-se que a incidência da Súmula 735 do STF, adotada pelo STJ para afastar o cabimento do recurso especial voltado ao reexame de decisão liminar em tutela de urgência, não foi objetivamente impugnada, pois a agravante não apresentou precedentes atuais desta Corte afastando o entendimento consolidado, nem demonstrou distinguishing específico quanto ao caráter provisório e não definitivo do pronunciamento recorrido, que está circunscrito aos requisitos do art. 300 do CPC (fls. 328-330). As alegações de não aplicação das Súmulas 5 e 7 do STJ são dissociadas do único fundamento empregado na decisão de inadmissibilidade.
+Registre-se que a impugnação da decisão agravada há de ser específica, de maneira que, não admitido o recurso especial, a parte recorrente deve explicitar os motivos pelos quais não incidem os óbices apontados, sob pena de vê-los mantidos.
+Assim, em respeito ao princípio da dialeticidade, os recursos devem ser fundamentados, sendo necessária a impugnação específica a todos os pontos analisados na decisão recorrida, sob pena de não conhecimento do recurso, por ausência de cumprimento dos requisitos previstos no art. 932, III, do Código de Processo Civil de 2015 e pela aplicação analógica da Súmula 182 do STJ.
+Em face do exposto, não conheço do agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos § § 2º e 3º do referido dispositivo legal.
+Intimem-se.
+EMENTA
