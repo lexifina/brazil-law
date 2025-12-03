@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo interposto pela ré, instituição financeira, contra a decisão que não admitiu o seu recurso especial, apresentado em face de acórdão assim ementado (fl. 209):
+APELAÇÃO CÍVEL - AÇÃO REVISIONAL - SENTENÇA DE PARCIAL PROCEDÊNCIA DOS PEDIDOS INICIAIS - INCONFORMISMO DA INSTITUIÇÃO FINANCEIRA - JUROS REMUNERATÓRIOS - ABUSIVIDADE EVIDENCIADA - TAXAS MENSAIS E ANUAIS QUE SUPERAM UMA VEZ E MEIA A MÉDIA APURADA PELO BACEN ENTRE AS INSTITUIÇÕES ATUANTES NO MERCADO DE CRÉDITO - NECESSIDADE DE LIMITAÇÃO À TAXA MÉDIA DE MERCADO - SENTENÇA MANTIDA - RECURSO CONHECIDO E DESPROVIDO.
+Rejeitaram-se os embargos de declaração opostos a esse acórdão.
+No recurso especial, são discutidos os critérios utilizados para aferição de abusividade na pactuação de taxa de juros remuneratórios em contrato bancário.
+Anoto que o Superior Tribunal de Justiça (STJ) afetou, para julgamento segundo o rito dos casos repetitivos, os recursos especiais 2.227.276-AL, 2.227.844-RS, 2.227.280-PR e 2.227.287-MG, com a finalidade de uniformizar o entendimento a respeito da seguinte controvérsia: "I) suficiência ou não da adoção das taxas médias de mercado divulgadas pelo Banco Central do Brasil ou de outros critérios previamente definidos como fundamento exclusivo para a aferição da abusividade dos juros remuneratórios em contratos bancários; II) (in)admissibilidade dos recursos especiais interpostos para a rediscussão das conclusões dos acórdãos recorridos quanto à abusividade ou não das taxas de juros remuneratórios pactuadas, quando baseadas em aspectos fáticos da contratação" (Tema 1.378-STJ).
+A par da afetação, foi determinada a suspensão dos recursos especiais e dos agravos em recurso especial, os quais estejam tramitando no STJ ou nas instâncias ordinárias e discutam idêntica questão jurídica, nos termos do artigo 1.037, inciso II, do Código de Processo Civil (CPC/2015).
+Assim, impõe-se o retorno dos autos à Corte de origem, onde ficarão sobrestados até a publicação da tese repetitiva.
+Em face do exposto, determino a devolução dos autos ao Tribunal de origem, com baixa no STJ, para aguardo do julgamento dos recursos especiais acima referidos, observando-se as regras dos artigos 1.039 a 1.041 do CPC/2015.
+Intimem-se.
+EMENTA
