@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de ação rescisória proposta por CREUZA TOLEDO em causa própria, objetivando rescindir o acórdão proferido em outra ação rescisória, de n. 0075072-27.2019.8.19.0000, julgada pelo Órgão Especial do Tribunal de Justiça do Estado do Rio de Janeiro.
+A autora afirma que o acórdão proferido na primeira rescisória teria deixado de desconstituir o acórdão originário (da 14ª Câmara Cível do TJRJ), que reformara sentença favorável em ação originalmente movida pela associação ré (SOPRECAM), relativa à cobrança de taxas de manutenção. Sustenta que o acórdão da rescisória teria violado diretamente dispositivos constitucionais (art. 5º, II e XX) e precedentes obrigatórios do STJ e do STF que impedem a cobrança de taxas de associação de moradores sem adesão voluntária.
+Alega ainda que o STJ e o STF não analisaram o mérito dos recursos extremos por razões formais, de modo que caberia ao STJ processar a presente ação rescisória ("rescisória da rescisória"), porque o acórdão rescindendo foi proferido pelo Órgão Especial do TJRJ. Afirma, portanto, que o STJ é o Tribunal competente.
+Requer a tutela provisória para suspender os efeitos do acórdão rescindendo, alegando risco de dano grave em razão da execução já em andamento.
+É o relatório. Decido.
+A Constituição Federal estabelece as hipóteses de competência originária do Superior Tribunal de Justiça e nela não há previsão para processamento e julgamento de ação rescisória de acórdão proferido por tribunal de justiça, ainda que tal acórdão tenha sido proferido em ação rescisória originária. Observa-se que, segundo dispõe o art. 105, I, e, da Constituição Federal, compete ao Superior Tribunal de Justiça processar e julgar, originariamente, as ações rescisórias dos seus julgados.
+E, de acordo com a jurisprudência do STJ, é cabível o ajuizamento de ação rescisória com a finalidade de desconstituir acórdão proferido em anterior demanda rescisória. Contudo, tal não altera as regras de competência constitucionais.
+Não se pode deixar de mencionar que não se admite ação rescisória como sucedâneo recursal , tendo lugar apenas nos casos em que a transgressão à lei é flagrante. Ademais, o processo tende a um fim, não comportando a perpetuação indefinida de meios de impugnação. O ordenamento jurídico se orienta pelos princípios da segurança jurídica, da estabilidade e definitividade das decisões judiciais, repelindo tentativas de reabertura indefinida da mesma controvérsia.
+Ressalte-se que o caso não reclama a intimação da parte autora para a providência prevista no art. 968, § 5º, do CPC (emenda da petição inicial), já que a hipótese não se enquadra nos incisos do referido dispositivo.
+Ante o exposto, declaro a incompetência do Superior Tribunal de Justiça para processar e julgar a presente ação rescisória.
+Remetam-se os autos ao Tribunal de Justiça do Estado do Rio de Janeiro após a baixa nos registros do STJ.
+Publique-se. Intimem-se.
+EMENTA
