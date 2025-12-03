@@ -1,0 +1,84 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC), interposto por FUNDAÇÃO DE CRÉDITO EDUCATIVO - FUNDACRED, contra decisão que não admitiu recurso especial.
+O apelo extremo, fundamentado na alínea "a" e "c" do permissivo constitucional, desafiou acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 1063):
+APELAÇÃO CÍVEL. ENSINO PRIVADO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PRECRIÇÃO INTERCORRENTE. PRESCRIÇÃO CONFIGURADA. DESCABIMENTO DE FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS.
+- NO CASO DOS AUTOS, DEVE SER OBSERVADA A REGRA DE DIREITO INTERTEMPORAL PREVISTA NO ARTIGO 2.028 DO CÓDIGO CIVIL DE 2002, QUE REDUZ O PRAZO PRESCRICIONAL DE VINTE PARA CINCO ANOS. ISSO PORQUE, QUANDO DA ENTRADA EM VIGOR DO CÓDIGO CIVIL, EM 12.01.2003, NÃO HAVIA TRANSCORRIDO MAIS DA METADE DO PRAZO DE VINTE ANOS ESTABELECIDO NO CÓDIGO CIVIL DE 1916. PORTANTO, O PRAZO PRESCRICIONAL A SER OBSERVADO É O QUINQUENAL, COM BASE NO ARTIGO 206, I, DO CÓDIGO CIVIL.
+- O SUPERIOR TRIBUNAL DE JUSTIÇA, NO RITO DO INCIDENTE DE ASSUNÇÃO DE COMPETÊNCIA (IAC 1/STJ), FIRMOU A TESE DE QUE O TERMO INICIAL DA CONTAGEM DA PRESCRIÇÃO INTERCORRENTE, NA VIGÊNCIA DO CPC/1973, É A DATA SEGUINTE AO TÉRMINO DO PRAZO JUDICIAL DE SUSPENSÃO DA EXECUÇÃO, OU O PRAZO DE UM ANO PREVISTO PELA LEI Nº 6.830/80, CASO NÃO TENHA HAVIDO ESTIPULAÇÃO DE PRAZO PELO JUÍZO. NO CASO CONCRETO, NÃO TENDO HAVIDO ESTIPULAÇÃO DE PRAZO DA SUSPENSÃO DO FEITO, TEM-SE QUE O PRAZO PRESCRICIONAL VOLTOU A FLUIR APÓS UM ANO DA SUSPENSÃO DO FEITO.
+- NA ESPÉCIE, VERIFICADA A INÉRCIA DO EXEQUENTE POR PRAZO SUPERIOR AO DA PRESCRIÇÃO DO DIREITO MATERIAL (CINCO ANOS), SENDO CASO DE CONFIRMAR A PRESCRIÇÃO INTERCORRENTE.
+- CONSOANTE ENTENDIMENTO FIRMADO NO IRDR Nº 70076146703, JULGADO PELA 4ª. TURMA DESTE TRIBUNAL, MOSTRA-SE DESNECESSÁRIA A PRÉVIA INTIMAÇÃO PESSOAL DO EXEQUENTE PARA DAR ANDAMENTO AO FEITO EXECUTIVO PARA FINS DE RECONHECIMENTO DA PRESCRIÇÃO INTERCORRENTE.
+- DESCABIDA A FIXAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS NA ESPÉCIE, TENDO EM VISTA QUE HOUVE EXTINÇÃO DA DEMANDA POR PRESCRIÇÃO INTERCORRENTE.
+- ANTE O PRINCÍPIO DA CAUSALIDADE, NÃO SE JUSTIFICA A IMPOSIÇÃO DE SUCUMBÊNCIA AO EXEQUENTE QUE, FRUSTRADO NO SEU DIREITO DE CRÉDITO EM RAZÃO DO RECONHECIMENTO DA PRESCRIÇÃO INTERCORRENTE, NÃO PODE SER PENALIZADO PELOS ÔNUS DE DEMANDA A QUE NÃO DEU CAUSA. ORIENTAÇÃO FIRMADA PELO STJ, CONSOANTE EARESP N. 1.854.589/PR.
+À UNANIMIDADE, DERAM PARCIAL PROVIMENTO AO APELO.
+Opostos embargos declaratórios (fls. 1070-1078), foram rejeitados, nos termos do acórdão de fls. 1104-1109.
+Nas razões de recurso especial (fls. 1117-1136), a parte recorrente aponta violação aos arts. 1022, II, 489, §1º, IV e VI, 278, 507, 14 do CPC, 267, §1º, 791, III, do CPC/1973, e 6º da LINDB, além de divergência jurisprudencial.
+Sustenta, em síntese: a) omissão acerca das questões levantadas em sede de embargos de declaração; b) a preclusão lógica quanto a alegação de prescrição intercorrente; c) afronta ao princípio da irretroatividade das normas processuais, sendo necessária a prévia intimação da parte antes da decretação da prescrição, conforme o CPC/1973.
+Contrarrazões apresentadas às fls. 1148-1171.
+Em juízo de admissibilidade (fls. 1174-1181), negou-se o processamento do recurso especial, dando ensejo ao presente agravo (fls. 1190-1196).
+Contraminuta às fls. 1200-1207.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. De início, no que tange à violação ao art. 1.022, II, e 489, §1º, IV e VI, do CPC, o recorrente se limitou a indicar a omissão do acórdão quanto às questões suscitadas, mas sem discriminar os pontos efetivamente omissos, contraditórios ou obscuros sobre os quais tenha incorrido o acórdão impugnado.
+Consequentemente, não se pode conhecer do recurso quando as alegações que fundamentam o apelo extremo são genéricas, incidindo, por analogia, a Súmula 284/STF.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO DA DECISÃO RECORRIDA. SÚMULA 284/STF. COBERTURA SECURITÁRIA. INOPONIBILIDADE DE RESTRIÇÃO CONTRATUAL SEM DESTAQUE À PARTE CONTRÁRIA. SÚMULAS 283/STF E 5 E 7 STJ. PRECLUSÃO. CONHECIMENTO DE MATÉRIA DE ORDEM PÚBLICA (PRESCRIÇÃO) OBJETO DE PRÉVIA DECISÃO NÃO IMPUGNADA. IMPOSSIBILIDADE. PRECEDENTES. AGRAVO DESPROVIDO. 1. A alegação de omissão não prescinde da indicação do vício do acórdão recorrido por ocasião do exame das questões (fáticas ou jurídicas) ou das teses desenvolvidas em torno dos dispositivos legais arrolados, não sendo suficiente a indicação abstrata da pretensão de prequestionamento, sob pena de incidência da Súmula 284/STF. (..) 4. Agravo interno desprovido. (AgInt no AREsp 1352510/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 03/12/2018, DJe 06/12/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE COBRANÇA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DO DEMANDADO. 1. Não se conhece da alegada violação do art. 1022 do CPC/2015, quando a causa de pedir recursal se mostra genérica, sem a indicação precisa dos pontos considerados omissos, contraditórios, obscuros ou que não receberam a devida fundamentação, sendo aplicável a Súmula 284 do STF. Precedentes. (..) 4. Agravo interno desprovido. (AgInt no AREsp 1702142/GO, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 07/12/2020, DJe 16/12/2020)
+2. O recorrente aponta violação aos arts. 278 e 507 do CPC, aduzindo a ocorrência da preclusão lógica para arguir a prescrição intercorrente, visto que a recorrida não o fez na primeira oportunidade de se manifestar nos autos.
+No ponto, o Tribunal de origem, soberano na análise do conjunto fático-probatório, concluiu pela configuração da prescrição intercorrente no caso. Confira-se (fls. 1058-1059):
+Do exame pormenorizado dos autos, verifica-se que, após a citação da executada, a parte exequente requereu, em 19/09/2002, a suspensão do feito pelo prazo de 90 dias (evento 3, PROCJUDIC2 página 43), o que foi deferido pelo juízo de origem (evento 3, PROCJUDIC2 página 44).
+Intimada para dizer do seu interesse no prosseguimento do feito (evento 3, PROCJUDIC2 página 46), a parte exequente requereu o seu arquivamento, em 09/06/2003 (evento 3, PROCJUDIC2 página 49), o que foi deferido em 10/07/2003 (evento 3, PROCJUDIC2 página 50).
+Em 16/07/2009, a parte exequente veio aos autos postular o desarquivamento dos autos (evento 3, PROCJUDIC3 páginas 2 e 3).
+Como se vê, o feito permaneceu arquivado, de 10/07/2003 a 16/07/2009.
+(..)
+No caso concreto, em não tendo havido estipulação de prazo da suspensão do feito, tem-se, segundo o entendimento sufragado pelo Superior Tribunal de Justiça, retro transcrito, que o prazo prescricional voltou a fluir após um ano da suspensão do feito, ou seja, a partir de 10/07/2004.
+Observa-se, pois, que o credor permaneceu inerte por prazo superior ao da prescrição do direito material (quinquenal), contados a partir de 10/07/2004, haja vista que determinado o arquivamento do feito, sem prazo estipulado, em 10/07/2003.
+Assim, tem-se que a pretensão do exequente restou fulminada pela prescrição intercorrente em 10/07/2009, antes, pois, do pedido de desarquivamento do feito manejado no evento 3, PROCJUDIC3 páginas 2 e 3, em 16/07/2009.
+É certo que, para derruir as conclusões do acórdão recorrido e acolher o inconformismo recursal, em especial quanto a ocorrência da preclusão lógica, exigiria a análise do acervo fático-probatório dos autos, providencia vedada em sede de recurso especial, ante o óbice da Súmula 7 do STJ.
+Precedentes:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REQUISITOS DO ART. 1.022 E INCISOS DO CPC DE 2015. OMISSÃO CONSTATADA. EMBARGOS DE DECLARAÇÃO ACOLHIDOS SEM EFEITO MODIFICATIVO.
+1. Depreende-se do artigo 1.022, e seus incisos, do novo Código de Processo Civil que os embargos de declaração são cabíveis quando constar, na decisão recorrida, obscuridade, contradição, omissão em ponto sobre o qual deveria ter se pronunciado o julgador, ou até mesmo as condutas descritas no artigo 489, parágrafo 1º, que configurariam a carência de fundamentação válida. Não se prestam os aclaratórios ao simples reexame de questões já analisadas, com o intuito de meramente dar efeito modificativo ao recurso.
+2. No presente caso, houve omissão no acórdão embargado no tocante à análise do indeferimento do pedido de justiça gratuita pelo Tribunal a quo. A conclusão da Corte Estadual sobre a ocorrência da preclusão lógica não pode ser revista pelo STJ pois demandaria, necessariamente, reexame de matéria fático - probatória, o que é vedado em razão do óbice da Súmula 7 do STJ.
+3. Embargos de declaração acolhidos a fim de sanar omissão, sem efeitos modificativos. (EDcl no AgInt no AREsp n. 1.308.955/DF, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 19/2/2019, DJe de 26/2/2019.) (grifa-se)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO AGRAVO, ANTE A SUA INTEMPESTIVIDADE. INSURGÊNCIA DA PARTE AGRAVANTE.
+(..)
+2. A teoria menor da desconsideração da personalidade jurídica pode ser aplicada quando a personalidade jurídica representa um obstáculo ao ressarcimento de prejuízos causados aos consumidores.
+Precedentes.
+2.1. A "revisão de decisão que aplica a teoria menor da desconsideração da personalidade jurídica é inviável em recurso especial, em razão da vedação ao reexame de fatos e provas pela Súmula n. 7 do STJ." (AgInt no AREsp n. 2.586.973/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 24/2/2025, DJEN de 27/2/2025.).
+(..)
+3. Agravo interno provido para reconsiderar a decisão singular da Presidência e, de plano, conhecer do agravo para negar provimento ao apelo extremo. (AgInt no AREsp n. 2.674.831/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/5/2025, DJEN de 29/5/2025.) (grifa-se)
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO INTERCORRENTE. DILIGÊNCIAS INFRUTÍFERAS. RECURSO DESPROVIDO. I. CASO EM EXAME
+(..)
+3. Outra questão em discussão é se a análise do acervo fático-probatório para verificar a ocorrência de prescrição intercorrente esbarra no óbice da Súmula 7 do STJ. III. RAZÕES DE DECIDIR
+4. A jurisprudência do STJ estabelece que diligências infrutíferas não suspendem o prazo da prescrição intercorrente, sendo necessária a efetiva constrição de bens do devedor.
+5. A revisão do entendimento do Tribunal de origem sobre a prescrição intercorrente demandaria reexame de fatos e provas, o que é vedado pela Súmula 7 do STJ.
+IV. AGRAVO INTERNO DESPROVIDO. (AgInt no AREsp n. 2.736.679/MS, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Terceira Turma, julgado em 17/2/2025, DJEN de 20/2/2025.)
+3. Não merece acolhida a irresignação quanto à apontada violação aos arts. 267, §1º, 791, III, do CPC/1973, 14 do CPC e 6º da LINDB, ao argumento de afronta ao princípio da irretroatividade das normas processuais, pois necessária a prévia intimação da parte antes da decretação da prescrição, conforme preceitua o CPC/1973.
+No ponto, a Corte local asseverou que o recorrente foi intimado para se manifestar acerca da prescrição intercorrente. Confira-se (fls. 1060):
+Por outro lado, é necessária dar-se vista ao exequente anteriormente à extinção por prescrição, o que, contudo, foi oportunizado no feito, face ao despacho do evento 58, DESPADEC1, afastando-se, outrossim, eventual decisão surpresa.
+Consequentemente, observa-se que não haver nulidade por falta de prévia intimação do exequente, ora recorrente, antes de o juízo de primeira instância reconhecer a ocorrência da prescrição intercorrente ao caso.
+Ressalte-se que o Tribunal a quo aplicou o entendimento desta Corte Superior firmado no Tema IAC 1 (REsp n. 1.604.412/SC):
+RECURSO ESPECIAL. INCIDENTE DE ASSUNÇÃO DE COMPETÊNCIA. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PRESCRIÇÃO INTERCORRENTE DA PRETENSÃO EXECUTÓRIA. CABIMENTO. TERMO INICIAL. NECESSIDADE DE PRÉVIA INTIMAÇÃO DO CREDOR-EXEQUENTE. OITIVA DO CREDOR. INEXISTÊNCIA. CONTRADITÓRIO DESRESPEITADO. RECURSO ESPECIAL PROVIDO.
+1. As teses a serem firmadas, para efeito do art. 947 do CPC/2015 são as seguintes: 1.1 Incide a prescrição intercorrente, nas causas regidas pelo CPC/73, quando o exequente permanece inerte por prazo superior ao de prescrição do direito material vindicado, conforme interpretação extraída do art. 202, parágrafo único, do Código Civil de 2002.
+1.2 O termo inicial do prazo prescricional, na vigência do CPC/1973, conta-se do fim do prazo judicial de suspensão do processo ou, inexistindo prazo fixado, do transcurso de um ano (aplicação analógica do art. 40, § 2º, da Lei 6.830/1980).
+1.3 O termo inicial do art. 1.056 do CPC/2015 tem incidência apenas nas hipóteses em que o processo se encontrava suspenso na data da entrada em vigor da novel lei processual, uma vez que não se pode extrair interpretação que viabilize o reinício ou a reabertura de prazo prescricional ocorridos na vigência do revogado CPC/1973 (aplicação irretroativa da norma processual). 1.4. O contraditório é princípio que deve ser respeitado em todas as manifestações do Poder Judiciário, que deve zelar pela sua observância, inclusive nas hipóteses de declaração de ofício da prescrição intercorrente, devendo o credor ser previamente intimado para opor algum fato impeditivo à incidência da prescrição.
+2. No caso concreto, a despeito de transcorrido mais de uma década após o arquivamento administrativo do processo, não houve a intimação da recorrente a assegurar o exercício oportuno do contraditório.
+3. Recurso especial provido. (REsp n. 1.604.412/SC, relator Ministro Marco Aurélio Bellizze, Segunda Seção, julgado em 27/6/2018, DJe de 22/8/2018.) (grifa-se)
+Assim, verifica-se que não houve aplicação retroativa do Código de Processo Civil de 2015 no presente caso, sendo realizado o cálculo da prescrição com fulcro no disposto no item 1.1 do Tema IAC 1 do STJ.
+No mais, é certo que, para derruir as conclusões do acórdão recorrido e acolher o inconformismo recursal, a fim de reconhecer a inocorrência da prescrição intercorrente, seria necessário promover o revolvimento do acervo fático-probatório dos autos, providencia vedada em sede de recurso especial, ante o óbice da Súmula 7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO RECLAMO. INSURGÊNCIA DA AGRAVANTE.
+1. A jurisprudência do Superior Tribunal de Justiça firmou o entendimento de que o reconhecimento da prescrição intercorrente exige a comprovação da inércia e desídia do exequente.
+1.1 Avaliar se houve desídia do exequente capaz de permitir a ocorrência de prescrição intercorrente demanda o revolvimento de matéria fático-probatória, providência vedada pela Súmula 7/STJ.
+2. Os óbices das Súmulas 83 e 7 do STJ impedem o exame do recurso especial interposto tanto pela alínea "a" quanto pela "c".
+3. Agravo interno desprovido. (AgInt no AREsp n. 2.241.358/GO, relator Ministro Marco Buzzi, Quarta Turma, julgado em 4/3/2024, DJe de 7/3/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015 NÃO CONFIGURADA. PRESCRIÇÃO INTERCORRENTE. NÃO INCIDÊNCIA. AUSÊNCIA DE INÉRCIA DO CREDOR. PREMISSAS FÁTICAS E PROBATÓRIAS. REEXAME INVIÁVEL. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Segundo orientação jurisprudencial vigente no Superior Tribunal de Justiça, não há falar em omissão, contradição, obscuridade ou erro material, nem em deficiência na fundamentação, quando a decisão recorrida está adequadamente motivada com base na aplicação do direito considerado cabível ao caso concreto, pois o mero inconformismo da parte com a solução da controvérsia não configura negativa de prestação jurisdicional.
+2. No caso, observa-se a consonância da decisão recorrida com a jurisprudência desta Corte Superior, no sentido de que o reconhecimento da prescrição intercorrente exige a comprovação da inércia e da desídia do exequente. Incidência da Súmula 83/STJ.
+3. Na espécie, rever o entendimento da Corte local - acerca da inexistência dos requisitos para o reconhecimento da prescrição intercorrente e de que a exequente promoveu as devidas diligências para o regular andamento do feito - demandaria o reexame do conjunto fático-probatório, o que encontra óbice na Súmula 7/STJ.
+4. Agravo interno desprovido. (AgInt no AREsp n. 2.595.147/SE, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 26/8/2024, DJe de 28/8/2024.)
+Portanto, incide os óbices dispostos n as Súmulas 7 e 83/STJ.
+4. Do exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de aplicar o § 11 do art. 85 do CPC, tendo em vista que não foram arbitrados honorários advocatícios na origem.
+Publique-se.
+Intimem-se.
+EMENTA
