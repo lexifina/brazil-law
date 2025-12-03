@@ -1,0 +1,31 @@
+DECISÃO
+Examina-se agravo em recurso especial, interposto por BANCO DO BRASIL SA, contra decisão que inadmitiu recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em Recurso Especial interposto em: 31/7/2025.
+Concluso ao Gabinete em: 13/11/2025.
+Ação: de reparação por danos materiais e compensação por danos morais, ajuizada por OLGA MARIA CHIMINAZO TOLEDO em face do agravante, em virtude de falha na prestação de serviços bancários.
+Acórdão: deu provimento à apelação interposta pela parte agravada, nos termos da seguinte ementa:
+APELAÇÃO - AÇÃO INDENIZATÓRIA - GOLPE DA "FALSA CENTRAL DE ATENDIMENTO" - INSTITUIÇÃO FINANCEIRA - FALHA DE SEGURANÇA - FORTUITO INTERNO - CARACTERIZAÇÃO - SÚMULA 479 DO STJ - APLICAÇÃO - RESPONSABILIZAÇÃO DA INSTITUIÇÃO FINANCEIRA - DEVOLUÇÃO DE VALORES - NECESSIDADE - DANOS MORAIS CONFIGURADOS - QUANTUM INDENIZATÓRIO - RAZOABILIDADE E PROPORCIONALIDADE. O fornecedor de produtos e serviços responde objetivamente pelos danos decorrentes da falha no serviço, nos termos do art. 14 do Código de Defesa do Consumidor. Nos termos da jurisprudência uníssona do STJ, as instituições financeiras respondem objetivamente pelos danos gerados por fortuito interno relativo a fraudes e delitos praticados por terceiros no âmbito de operações bancárias. A instituição financeira deve ser responsabilizada pela falha na prestação de serviços decorrente não apenas da fragilização dos dados do consumidor, mas também por não ter adotado qualquer prática capaz de minar ou dificultar a atuação dos terceiros estelionatários na prática do golpe. Não tendo a instituição financeira requerida comprovado a culpa exclusiva do consumidor pelas transações realizadas em sua conta bancária por um terceiro fraudador, dever ser anulado os negócios jurídicos, com a condenação da instituição financeira ao ressarcimento do consumidor pelos prejuízos sofridos. Transações indevidamente realizadas na conta bancária do consumidor, que importam em considerável decréscimo patrimonial, causam desespero, angústia e insegurança, enfim, abalo emocional e psicológico, evento que não pode ser interpretado como simples transtorno ou aborrecimento, possuindo verdadeira aptidão para abalar o equilíbrio emocional, dando ensejo à configuração de dano moral. O quantum indenizatório de dano moral deve ser fixado em termos razoáveis, pelo que não deve ser arbitrado em patamar capaz de ensejar a ideia de enriquecimento imotivado da vítima, tampouco em montante inexpressivo a ponto de não retribuir o mal causado pela ofensa, impondo-se observar o grau de culpa, as circunstâncias em que se encontra o ofendido e a capacidade econômica do ofensor.
+(e-STJ Fl. 216)
+Embargos de declaração: opostos pelo agravante, foram rejeitados.
+Decisão de admissibilidade do TJ/MG: inadmitiu o recurso especial do agravante em razão dos seguintes fundamentos:
+i) incidência da Súmula 7/STJ, considerando as particularidades citadas à e-STJ Fls. 297-298, sobretudo quanto à ausência de culpa exclusiva da vítima e existência de confissão; e
+ii) incidência da Súmula 83 do STJ no que tange à responsabilidade objetiva da instituição financeira, ante ao julgado citado.
+Agravo em recurso especial: nas razões do presente recurso, o agravante alega, em síntese, que:
+i) estão preenchidos os requisitos de admissibilidade recursal;
+ii) foi comprovada a ausência de falha na prestação de serviços, devendo ser afastada a Súmula 7/STJ à hipótese;
+iii) houve efetiva negativa de prestação jurisdicional; e
+iv) a Súmula 83/STJ não se aplica à espécie, tendo em vista a ausência de similitude fática com a hipótese dos autos e, ainda, a existência de julgado do TJDFT que diverge do entendimento aplicado.
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que o agravante não demonstrou, de maneira consistente, a inaplicabilidade dos seguintes fundamentos:
+i) incidência da Súmula 7/STJ, considerando as particularidades citadas à e-STJ Fls. 297-298, sobretudo quanto à ausência de culpa exclusiva da vítima e existência de confissão; e
+ii) incidência da Súmula 83 do STJ no que tange à responsabilidade objetiva da instituição financeira, ante ao julgado citado.
+Nesse passo, o agravante limitou-se a tecer alegações meramente genéricas acerca dos referidos óbices, deixando, pois, de demonstrar o efetivo desacerto da decisão.
+É firme o entendimento desta Corte no sentido de que, inadmitido o recurso especial pela incidência do enunciado n. 7/STJ, incumbe à parte interessada demonstrar, de forma específica e consistente, a desnecessidade de revolvimento do contexto fático- probatório dos autos. Nesse sentido: AgInt nos EDcl no AREsp n. 2.189.780/SP, Terceira Turma, DJe de 31/3/2023; AgInt no AREsp n. 2.199.998/SP, Quarta Turma, DJe de 10/3/2023; AgInt no AREsp n. 2.144.317/RS, Quarta Turma, DJe de 16/2/2023.
+Frise-se ainda que, quanto à Súmula 7/STJ, não basta a mera alegação de que a hipótese prescinde de reexame de provas, alegando a parte agravante genericamente ser a questão de direito ou requerer a revaloração ou a correta aplicação da legislação que entende violada.
+Especificamente quanto à Súmula 83/STJ, a sua impugnação deve ser demonstrada com a indicação de precedentes relativos à tese defendida, contemporâneos ou supervenientes aos referidos na decisão agravada, e com o devido cotejo analítico e similitude fática ao caso tratado nos autos, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior, o que não houve na espécie.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC, majoro em 1% os honorários fixados anteriormente.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
