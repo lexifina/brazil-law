@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 27/11/2025 a 03/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. TRÁFICO DE DROGAS. REINCIDÊNCIA ESPECÍFICA. GARANTIA DA ORDEM PÚBLICA. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que indeferiu liminarmente habeas corpus, no qual se pleiteava a revogação da prisão preventiva pela prática do crime de tráfico de drogas.
+2. Fato relevante. O agravante foi preso preventivamente com 11,79g de crack, fracionados em 61 porções, além de R$ 715,00 em espécie e objetos utilizados para preparo de entorpecentes. A decisão agravada fundamentou a prisão na garantia da ordem pública, considerando a reincidência específica do agravante e o modus operandi.
+3. As decisões anteriores. A defesa alegou ausência de fundamentação na decisão que decretou a prisão preventiva, condições pessoais favoráveis do agravante e que a prisão não pode ser utilizada como antecipação de pena. O habeas corpus foi indeferido liminarmente, e o agravo regimental busca a reconsideração ou revogação da prisão preventiva.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a prisão preventiva do agravante, fundamentada na garantia da ordem pública, na reincidência específica e no modus operandi, é válida e atende aos requisitos legais.
+III. Razões de decidir
+5. A prisão preventiva foi fundamentada em elementos concretos, como a quantidade e o fracionamento da droga apreendida, a presença de objetos utilizados para preparo de entorpecentes e a quantia em dinheiro sem comprovação de origem lícita, indicando risco à ordem pública.
+6. A reincidência específica do agravante, já condenado anteriormente por tráfico de drogas, demonstra contumácia delitiva e periculosidade concreta, justificando a necessidade da prisão preventiva.
+7. A decisão agravada está em consonância com a jurisprudência do Superior Tribunal de Justiça, que reconhece a habitualidade criminosa como fundamento para a prisão preventiva visando à garantia da ordem pública.
+IV. AGRAVO DESPROVIDO.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Matheus Barboza de Sousa contra decisão monocrática de fls. 38-40 que indeferiu liminarmente o habeas corpus.
+Na petição inicial, a defesa sustentou que o paciente se encontra preso preventivamente pela suposta prática do crime de tráfico, com 11,79g de substância entorpecente. Alega que a decisão que decretou a prisão preventiva carece de fundamentação. Afirma que o paciente possui condições pessoais favoráveis. Sustenta que a prisão preventiva não pode se transformar em antecipação de pena. Requereu, em sede de pedido liminar e no mérito, a concessão de liberdade provisória ao paciente, ou, alternativamente, a concessão de prisão domiciliar (fls. 2-8).
+O habeas corpus foi indeferido liminarmente (fls. 38-40).
+No agravo regimental, argumenta que os elementos apontados não são suficientes para justificar a prisão cautelar. Alega que a quantidade de entorpecente apreendida é ínfima e incapaz de demonstrar risco concreto à ordem pública, ressaltando que a circunstância de estar fracionada não autoriza a presunção de comercialização em larga escala, especialmente porque não houve flagrante de venda, tampouco apreensão de usuários no local, mas apenas suposição policial. Quanto à quantia em dinheiro apreendida, afirma que não é incompatível com a realidade de qualquer trabalhador informal e, portanto, não pode, por si só, sustentar o decreto prisional. Diante disso, requer a reconsideração da decisão agravada ou, subsidiariamente, o provimento do presente recurso, a fim de revogar a prisão preventiva (fls. 44-49).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. TRÁFICO DE DROGAS. REINCIDÊNCIA ESPECÍFICA. GARANTIA DA ORDEM PÚBLICA. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que indeferiu liminarmente habeas corpus, no qual se pleiteava a revogação da prisão preventiva pela prática do crime de tráfico de drogas.
+2. Fato relevante. O agravante foi preso preventivamente com 11,79g de crack, fracionados em 61 porções, além de R$ 715,00 em espécie e objetos utilizados para preparo de entorpecentes. A decisão agravada fundamentou a prisão na garantia da ordem pública, considerando a reincidência específica do agravante e o modus operandi.
+3. As decisões anteriores. A defesa alegou ausência de fundamentação na decisão que decretou a prisão preventiva, condições pessoais favoráveis do agravante e que a prisão não pode ser utilizada como antecipação de pena. O habeas corpus foi indeferido liminarmente, e o agravo regimental busca a reconsideração ou revogação da prisão preventiva.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a prisão preventiva do agravante, fundamentada na garantia da ordem pública, na reincidência específica e no modus operandi, é válida e atende aos requisitos legais.
+III. Razões de decidir
+5. A prisão preventiva foi fundamentada em elementos concretos, como a quantidade e o fracionamento da droga apreendida, a presença de objetos utilizados para preparo de entorpecentes e a quantia em dinheiro sem comprovação de origem lícita, indicando risco à ordem pública.
+6. A reincidência específica do agravante, já condenado anteriormente por tráfico de drogas, demonstra contumácia delitiva e periculosidade concreta, justificando a necessidade da prisão preventiva.
+7. A decisão agravada está em consonância com a jurisprudência do Superior Tribunal de Justiça, que reconhece a habitualidade criminosa como fundamento para a prisão preventiva visando à garantia da ordem pública.
+IV. AGRAVO DESPROVIDO.
+VOTO
+O agravo regimental é tempestivo e indicou os fundamentos da decisão recorrida, razão pela qual deve ser conhecido.
+No entanto, não verifico elementos suficientes para alterar a decisão proferida, cuja conclusão deve ser mantida pelos seus próprios fundamentos (fls. 38-39):
+ ..  Com efeito, considerando as circunstâncias em que praticado o delito, tendo em vista a quantidade de droga apreendida (total de 11,79 gramas de crack fl. 48 dos autos de conhecimento), sua natureza altamente nociva, a forma de fracionamento (total de 61 porções fl. 13) o dinheiro apreendido em espécie, cuja origem lícita não se logrou comprovar (R$ 715,00 fl. 13), além de objetos tipicamente utilizados para o preparo dos entorpecentes (faca e lâmina fl. 13), a manutenção da prisão preventiva era mesmo de rigor.
+ ..  No mais, pontue-se que eventuais condições pessoais favoráveis inexistentes in casu não impedem a decretação da prisão preventiva, tampouco têm força para ensejar a revogação da ordem, ainda mais quando presentes os motivos autorizadores da custódia, como na espécie. Isso porque há registro nos autos do inquérito policial de que o paciente já foi condenado pela prática do delito de tráfico de drogas (fls. 208/210), sendo reincidente específico, o que indica contumácia delitiva e, via de consequência, peri culosidade.
+A prisão não foi motivada em elementos genéricos ou fundamentações destoadas do caso concreto. Com efeito, depreende-se que o modus operandi (fracionamento da droga, apreensão de dinheiro em espécie sem comprovação de origem lícita, petrechos para particionamento de entorpecente) e a reiteração delitiva, mesmo diante da condenação por tráfico em outro processo, foram determinantes para a manutenção da prisão.
+Em que pese a irresignação do recorrente, a decisão impugnada pontuou corretamente que a prisão preventiva preencheu os requisitos legais.
+No caso em comento, a existência do crime e os indícios de autoria foram demonstrados, notadamente pela apreensão de entorpecentes fracionados na posse do agravante, em conjunto com petrechos comumente utilizados no tráfico (faca, lâmina, dinheiro em espécie).
+Por sua vez, a periculosidade em concreto do agravante é extraída da reincidência específica, haja vista a condenação anterior com trânsito em julgado por tráfico de drogas.
+Nesse sentido, colhe-se entendimentos similares do Superior Tribunal de Justiça:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. TRÁFICO DE DROGAS. CONDENAÇÃO. NEGATIVA DO RECURSO EM LIBERDADE. PRISÃO PREVENTIVA. REINCIDÊNCIA ESPECÍFICA. GARANTIA DA ORDEM PÚBLICA. AGRAVO DESPROVIDO.  ..  A prisão preventiva está fundamentada em dados concretos que evidenciam a necessidade de encarceramento provisório, especialmente devido ao fundado receio de reiteração criminosa, uma vez que o agravante é reincidente específico. 5. A jurisprudência desta Corte sustenta que a contumácia delitiva justifica a prisão cautelar para a garantia da ordem pública.  ..  (AgRg no HC n. 1.005.336/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 9/9/2025, DJEN de 15/9/2025.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. REITERAÇÃO DELITIVA DO AGENTE. GARANTIA DA ORDEM PÚBLICA. RECURSO IMPROVIDO.  ..  A prisão preventiva está fundamentada na garantia da ordem pública, considerando a reiterada atividade delitiva do agente na traficância. 5. A aplicação de medidas cautelares diversas da prisão é inviável, pois a habitualidade criminosa do agente indica que a ordem pública não estaria acautelada com a sua soltura.  ..  (AgRg no RHC n. 216.087/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 3/9/2025, DJEN de 8/9/2025.)
+Com isso, conclui-se que o recurso deixa de apresentar argumentos novos capazes de alterar o entendimento anteriormente firmado, razão pela nego provimento ao agravo regimental.
+É o voto.
