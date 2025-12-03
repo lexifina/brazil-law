@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de conflito negativo de competência suscitado pelo Juízo da 3ª Vara do Trabalho de Itabuna-BA em face do do Juízo de Direito da Vara dos Feiros de Relação de Consumo, Cíveis e Comerciais de Itororo-BA, nos autos da ação movida por Valmira Nascimento dos Santos contra o Município de Firmino Alves, objetivando a condenação do ente público ao pagamento de verbas trabalhistas e danos morais pelo falecimento de seu esposo "Marcelo Santos da Silva".
+A ação foi aforada perante a Justiça Comum Estadual que declinou da competência para a Justiça Especializada.
+Por sua vez, o Juízo da 3ª Vara do Trbalho de Itabuna-BA suscitou o presente conflito de competência.
+Estando os autos devidamente instruídos com as informações necessárias para julgamento, dispenso a oitiva das autoridades em conflito, nos termos do art. 197 do Regimento Interno desta Corte.
+Desnecessária a oitiva do Ministério Público Federal (art. 951, parágrafo único, do CPC/2015).
+É o relatório. Decido.
+O Supremo Tribunal Federal, nos autos do RE 1.288.440 (DJe de 28/08/2023), julgado sob o rito da repercussão geral, firmou a tese, correspondente ao Tema 1.143, in verbis:
+A Justiça Comum é competente para julgar ação ajuizada por servidor celetista contra o Poder Público, em que se pleiteia parcela de natureza administrativa, modulando-se os efeitos da decisão para manter na Justiça do Trabalho, até o trânsito em julgado e correspondente execução, os processos em que houver sido proferida sentença de mérito até a data de publicação da presente ata de julgamento.
+No caso dos autos, o de cujus foi contratado para a função de motorista, é a pretensão da parte autora é o pagamento de horas extras e outras verbas de natureza trabalhista. Assim, tratando-se portanto de verbas de natureza celetista, o que atrai a aplicação do entendimento sufragado no Tema 1.143 do STF, forçoso reconhecer a competência da Justiça Laboral.
+Ademais, o Superior Tribunal de Justiça firmou seu entendimento no sentido de considerar que a competência para processar e julgar a ação deve ser determinada em função do pedido e da causa de pedir, constantes da petição inicial.
+Acerca do assunto, destaco os seguintes precedentes:
+CONFLITO DE COMPETÊNCIA - DEMANDA REPARATÓRIA DE DANOS MORAIS AFORADA PELO EMPREGADOR EM FACE DE SINDICATO - PEDIDO E CAUSA DE PEDIR - NATUREZA CÍVEL DA DEMANDA - COMPETÊNCIA DA JUSTIÇA COMUM FEDERAL.
+1. O Superior Tribunal de Justiça é competente para o conhecimento e processamento do presente incidente, pois apresenta controvérsia acerca do exercício da jurisdição entre juízos vinculados a Tribunais diversos, nos termos do artigo 105, I, "d", da Constituição Federal.
+2. A competência para o julgamento da causa se define em função da natureza jurídica da questão controvertida, delimitada pelo pedido e sua causa de pedir. Precedentes.
+2.1. A discussão subjacente ao conflito consiste na declaração do juízo competente para o processar e julgar ação reparatória por danos morais aforada pelo empregador - empresa pública federal - em face de sindicato em razão de alegadas ofensas à imagem, realizadas na mídia, circunstância que atrai a competência da Justiça Comum Federal para exame da causa.
+3. Conflito conhecido para declarar a competência da 1ª Vara Federal de Pouso Alegre/MG.
+(CC n. 199.890/MG, relator Ministro Marco Buzzi, Segunda Seção, julgado em 22/11/2023, DJe de 27/11/2023.)
+CONFLITO NEGATIVO DE COMPETÊNCIA. FORNECIMENTO DE MEDICAMENTO E DANOS MORAIS. AÇÃO PROPOSTA CONTRA PLANO DE SAÚDE E CONTRA O MUNICÍPIO. NATUREZA DA RELAÇÃO LITIGIOSA. PEDIDO E CAUSA DE PEDIR. DIREITO PÚBLICO. COMPETÊNCIA DE UMA DAS TURMAS DA PRIMEIRA SEÇÃO.
+1. De acordo com o caput do art. 9º do RISTJ, a competência das Seções e das respectivas Turmas é fixada em função da natureza da relação jurídica litigiosa.
+2. O § 1º do art. 9 do RISTJ estabelece que compete à Primeira Seção processar e julgar os feitos relativos à "responsabilidade civil do Estado" e ao "direito público em geral" (incisos VIII e XIV). Por outro lado, no inciso XIV do § 2º do mesmo artigo, consta que cabe à Segunda Seção processar e julgar questões atinentes a "direito privado em geral ".
+3. Segundo a jurisprudência pacífica desta Corte, a competência tem por critério geral de fixação a razão do pedido e a causa de pedir trazidos na exordial, não importando os contornos posteriores decorrentes de provas ou alegações recursais.
+4. A controvérsia em apreço decorre de ação de obrigação de fazer cumulada com danos morais, visando ao fornecimento de medicamento/tratamento oncológico e ao pagamento de indenização, proposta contra o Instituto Curitiba de Saúde e o Município de Curitiba. Portanto, observa-se que a "natureza da relação jurídica litigiosa" é de direito público, apesar de se tratar de recurso especial interposto apenas pela entidade prestadora de serviços de plano de saúde, criada com personalidade jurídica de direito privado, com a finalidade de discutir direito contratual.
+Conflito conhecido para declarar a competência da Segunda Turma do STJ.
+(CC n. 184.525/DF, relator Ministro Humberto Martins, Corte Especial, julgado em 19/4/2023, DJe de 4/5/2023.)
+A partir da análise da petição inicial, é possível verificar que o pedido principal consiste no recebimento de verbas de natureza trabalhista. Conclui-se, portanto, que tanto o pedido quanto a causa de pedir da ação não encerram discussão de natureza administrativa, razão pela qual compete à Justiça do Trabalho processá-la e julgá-la.
+Ante o exposto, com fundamento no art. 34, XXII, do RISTJ, conheço do presente conflito e declaro competente o Juízo da 3ª Vara do Trabalho de Itabuna-BA para prosseguir no julgamento.
+Publique-se. Intimem-se.
+EMENTA
