@@ -1,0 +1,15 @@
+DECISÃO
+ALEX JÚNIOR PIRES DA COSTA alega sofrer coação ilegal diante de acórdão do Tribunal de Justiça do Estado de São Paulo, denegatório do Habeas Corpus n. 2336196-85.2025.8.26.0000.
+O paciente cumpre pena 24 anos, 9 meses e 11 dias e iniciou a execução em 7/2/2020. Segundo a defesa, foi determinada a realização de exame criminológico sem fundamentação idônea para fins de análise do pedido de progressão de regime.
+A impetrante explica que a última falta grave ocorreu em 26/7/2016, o paciente possui comportamento atual satisfatório, estuda, trabalha e possui significativo tempo de remição. Defende o cabimento do habeas corpus diante do impacto direto no direito de locomoção.
+Requer o afastamento da exigência de exame criminológico e a progressão ao semiaberto.
+Decido.
+O Tribunal de origem não decidiu a controvérsia, considerou que "o habeas corpus merece ser indeferido in limine, diante da inadequação do meio eleito" (fl. 15).
+Assim, nos termos do art. 105 da CF, o "exame pelo Superior Tribunal de Justiça de matéria que não foi apreciada pelas instâncias ordinárias enseja indevida supressão de instância, com explícita violação da competência originária para o julgamento de habeas corpus" (AgRg no HC 563.878/MG, Rel. Ministro João Otávio de Noronha, 5ª T., DJe 10/0/2021).
+Deveras, a "ausência de manifestação da Corte local acerca das alegações  ..  impede sua apreciação pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância" (AgRg no HC n. 822.409/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 28/8/2023, DJe de 1/9/2023).
+Entretanto, identifico a negativa de prestação jurisdicional.
+Se a defesa não interpôs agravo em execução e a decisão que determinou o exame criminológico já transitou em julgado, o remédio constitucional seria o único instrumento de que a defesa dispõe para afastar eventual ilegalidade atentatória ao direito de locomoção do apenado. Ressalto que:
+ ..  "é bem verdade que o STJ não mais tem admitido a impetração de habeas corpus, quando substitutivo de recursos próprios. Todavia, tal posicionamento não tem o condão subtrair do magistrado a verificação quanto à existência de ilegalidade flagrante, caso em que deverá conceder habeas corpus de ofício. Inteligência do art. 654, § 2º, do CPP"(HC n. 301.883/SP, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 23/10/2014, DJe 10/11/2014). 3. Agravo a que se nega provimento. Ordem concedida de ofício, tão somente para determinar que o Tribunal de Justiça do Estado de São Paulo aprecie o mérito do habeas corpus originário como entender de direito  ..  (AgRg no HC 561.747/SP, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 4/8/2020).
+À vista do exposto, não conheço do habeas corpus, mas concedo a ordem, in limine, para determinar ao Tribunal de Justiça de origem que aprecie, uma vez não interposto agravo em execução pela defesa, a existência de flagrante ilegalidade na decisão do Juiz da VEC que determinou a realização do exame criminológico para fins de análise da progressão de regime.
+Publique-se e intimem-se.
+EMENTA
