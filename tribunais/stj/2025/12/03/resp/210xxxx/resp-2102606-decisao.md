@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de recurso especial, interposto por MÁRCIO ROSA, com fundamentado nas alíneas "a" e "c" do permissivo constitucional, no intuito de reformar o acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 305, e-STJ):
+AÇÃO COM PEDIDO DE EXIBIÇÃO DE DOCUMENTOS - HONORÁRIOS ADVOCATÍCIOS - Pretensão de reforma parcial da sentença para majoração dos honorários advocatícios devidos ao patrono da parte vencedora - Cabimento parcial - Hipótese em que o valor de R$ 500,00 é insuficiente para remunerar condignamente o trabalho desenvolvido pelo patrono da autora - Aplicação do artigo 85, §8º do Código de Processo Civil, a fim de majorar os honorários, mediante um juízo de equidade, para R$ 1.000,00 RECURSO PROVIDO EM PARTE.
+Nas razões do especial (fls. 314-332, e-STJ), o recorrente aponta, além do dissídio jurisprudencial, violação do art. 85, §§ 2º, 8º, 8º-A e 10º do CPC/15. Sustenta, em síntese, que os honorários advocatícios devem observar os valores recomendados pelo Conselho Seccional da OAB, conforme § 8º do art. 85 do CPC.
+Contrarrazões às fls. 443-457, e-STJ, e após decisão de admissão do recurso especial (fls. 458-460, e-STJ), os autos ascenderam a esta egrégia Corte de Justiça.
+É o relatório.
+Decide-se.
+1. Discute-se no apelo nobre a "necessidade de observância dos parâmetros mínimos estabelecidos no art. 85, § 8º-A, do CPC, quando da fixação dos honorários advocatícios por apreciação equitativa" - controvérsia afetada pela Segunda Seção desta Corte à sistemática de recursos especiais repetitivos, cadastrado como Tema 1388.
+Ademais, foi determinada a suspensão da tramitação dos recursos especiais e agravos em recurso especial, nas instâncias ordinárias ou nesta Corte Superior, que discutam idêntica questão jurídica, nos termos do art. 1.037, II, do CPC/2015.
+Dessa forma, impõe-se a devolução dos autos ao eg. Tribunal de Origem para que seja observada a sistemática prevista nos arts. 1.040 e 1.041 do CPC/15, conforme determinação prevista no art. 256-L do Regimento Interno desta Corte Superior.
+Por fim, registre-se que, segundo a orientação jurisprudencial desta Corte, o ato judicial que determina o sobrestamento e o retorno dos autos à Corte de origem, a fim de que seja exercido o competente juízo de retratação/conformação (arts. 1.040 e 1.041 do CPC/2015) não possui carga decisória, por isso se trata de provimento irrecorrível.
+Nesse sentido: EDcl nos EDcl no AREsp n. 2.273.881/RS, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, julgado em 13/8/2025, DJEN de 18/8/2025; AgInt no AREsp n. 2.147.654/SP, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 12/8/2025, DJEN de 15/8/2025; AgInt no REsp n. 2.188.433/DF, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 19/5/2025, DJEN de 23/5/2025; AgInt nos EDcl no AREsp n. 2.452.236/RO, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 19/8/2024, DJe de 23/8/2024.
+2. Ante o exposto, determina-se a restituição dos autos à origem, devendo ser realizada a devida baixa nesta Corte Superior, até o julgamento definitivo da matéria submetida à sistemática dos recursos repetitivos (Tema 1388) e eventual retratação prevista nos arts. 1.040, inc. II, e 1.041, ambos do CPC/15.
+Publique-se.
+Intimem-se.
+EMENTA
