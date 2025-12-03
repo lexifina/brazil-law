@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MAURÍCIO SÉRGIO CHRISTIANO contra a decisão que inadmitiu o recurso especial por não ter sido demonstrada a violação dos arts. 48 da Lei n. 8.245/1991, bem como pela incidência da Súmula n. 7 do STJ (fls. 642-643).
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Contraminuta de ESPÓLIO DE MAURO DE JESUS E SANDRA MARCIA MEROTO DE JESUS, em que sustentam a incidência das Súmulas 283 e 284 do STF, bem como da Súmula n. 7 do STJ, além da ausência de violação ao art. 48 da Lei n. 8.245/1 991.
+O recurso especial foi interposto com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo em apelação nos autos de ação anulatória de deliberação em assembleia condominial.
+O julgado foi assim ementado (fl. 461):
+CONDOMÍNIO. Preliminar de nulidade da sentença. Rejeição. Locação por temporada por meio da plataforma "Airbnb". Possibilidade. A locação de imóvel residencial por curtos períodos de tempo por meio de plataformas digitais deve ser enquadrada no conceito de locação para temporada do artigo 48 da Lei n. 8.245/91, de modo que, para impedi-la, ao menos em tese, a proibição deve, no mínimo, constar expressamente na convenção do condomínio, para cuja alteração exige-se o quórum especial de 2/3 de todos os condôminos aptos a deliberar, na forma do artigo 1.351 do Código Civil, ou outro mais qualificado constante da própria convenção. Sentença de procedência que anulou a proibição da locação e declarou indevidas as multas aplicadas aos condôminos. Manutenção. Recursos não providos.
+Não foram opostos embargos de declaração.
+No recurso especial interposto, a parte aponta a violação do seguinte artigo:
+b) 48 da Lei n. 8.245/1991, pois a assembleia apenas teria interpretado e confirmado proibição de locações com finalidade comercial já prevista na convenção, não demandando quórum qualificado.
+Sustenta que o acórdão recorrido divergiu do entendimento do STJ no AREsp n. 1552838-8 (rel. Min. Paulo de Tarso Sanseverino.)
+Requer o provimento do recurso, seja admitido para conhecimento e recebimento, reforme o acórdão recorrido para julgar improcedentes os pedidos iniciais e inverter os ônus sucumbenciais.
+É o relatório. Decido.
+I - Da violação ao artigo 48 da Lei 8.245/91 e do dissídio jurisprudencial
+O agravante sustenta que a assembleia apenas teria interpretado e confirmado proibição de locações com finalidade comercial já prevista na convenção, não demandando quórum qualificado.
+Sustenta, também, dissídio jurisprudencial.
+Não se ignora que a celeuma foi discutida neste Superior Tribunal de Justiça no REsp. n. 1.819.075/RS, tendo transitado em julgado e a jurisprudência desta Corte se firmado pela possibilidade de restrição de uso da propriedade à finalidade residencial.
+No caso, conforme relatado, a questão quanto à possibilidade de locação por curto período foi objeto de discussão no condomínio ora agravante, tendo os condôminos presentes decidido pela proibição, contudo, a sentença considerou inválida a alteração na convenção do condomínio, pois desrespeitado o quórum mínimo necessário, afirmando que apenas dez dos cinquenta e dois condôminos estavam presentes na assembleia.
+A decisão foi pautada na exigência de quórum especial de 2/3 de todos os condôminos aptos a deliberar, na forma do artigo 1.351 do Código Civil. Logo, não há a violação ao artigo 48 da Lei 8.245/91 e não há divergência jurisprudencial.
+Conforme fundamentação da decisão recorrida, o acórdão não divergiu do entendimento proferido por esta Corte, mas concluiu que a assembleia não observou o quórum necessário à alteração da convenção do condomínio. Isto é, a Corte local, após a análise dos fatos e provas levados aos autos, concluiu pela irregularidade da assembleia.
+A revisão da conclusão adotada na origem é medida que encontra veto na Súmula n. 7/STJ, por demandar necessário reexame de fatos e provas.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE NÃO FAZER - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO RECLAMO. INSURGÊNCIA DO AUTOR.
+1. A Corte local, após a análise dos fatos e provas levados aos autos, concluiu pela regularidade da assembleia. A revisão da conclusão adotada na origem é medida que encontra veto na Súmula 7/STJ, por demandar necessário reexame de fatos e provas. Precedente.
+2. Esta Corte Superior já firmou orientação no sentido de que "Embora aparentemente lícita, essa peculiar recente forma de hospedagem não encontra, ainda, clara definição doutrinária, nem tem legislação reguladora no Brasil, e, registre-se, não se confunde com aquelas espécies tradicionais de locação, regidas pela Lei 8.245/91, nem mesmo com aquela menos antiga, genericamente denominada de aluguel por temporada (art. 48 da Lei de Locações)". Precedentes.
+2.1. O STJ consolidou o entendimento de que, havendo previsão na convenção do condomínio acerca da sua finalidade residencial, os próprios condôminos podem deliberar em assembleia, para permitir - ou não - a utilização das unidades condominiais para fins de hospedagem atípica, por intermédio de plataformas digitais ou outra modalidade de oferta.
+3. Agravo interno desprovido. (AgInt no AREsp n. 2.487.300/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 29/4/2024, DJe de 26/6/2024.)
+AGRAVO INTERNO. EMBARGOS DE DECLARAÇÃO. RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE OBRIGAÇÃO DE NÃO FAZER. CONTRATO DE LOCAÇÃO. EDIFÍCIO RESIDENCIAL. LOCAÇÃO FRACIONADA. HOSPEDAGEM ATÍPICA. USO NÃO RESIDENCIAL. CONTRARIEDADE À CONVENÇÃO DE CONDOMÍNIO. PRECEDENTES. DECISÃO MANTIDA. RECURSO NÃO PROVIDO.
+1. O direito de o proprietário condômino usar, gozar e dispor livremente do seu bem imóvel, nos termos dos arts. 1.228 e 1.335 do Código Civil de 2002 e 19 da Lei 4.591/64, deve harmonizar-se com os direitos relativos à segurança, ao sossego e à saúde das demais múltiplas propriedades abrangidas no Condomínio, de acordo com as razoáveis limitações aprovadas pela maioria de condôminos, pois são limitações concernentes à natureza da propriedade privada em regime de condomínio edilício.
+2. Existindo na Convenção de Condomínio regra impondo destinação residencial, mostra-se indevido o uso das unidades particulares que, por sua natureza, implique o desvirtuamento daquela finalidade residencial (CC/2002, arts. 1.332, III, e 1.336, IV).
+3. Nos termos da jurisprudência desta Corte, a exploração econômica de unidades autônomas mediante locação por curto ou curtíssimo prazo, caracterizadas pela eventualidade e pela transitoriedade, não se compatibiliza com a destinação exclusivamente residencial atribuída ao condomínio réu. Precedentes da Terceira e Quarta Turmas do STJ.
+4. Agravo interno a que se nega provimento. (AgInt nos EDcl no REsp n. 1.933.270/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 6/3/2023, DJe de 10/3/2023.)
+Incidem, portanto, os óbices da Súmula n. 7 e n. 83 do STJ.
+II - Conclusão
+Ante o exposto, nego provimento ao agravo.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 15% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+ EMENTA
