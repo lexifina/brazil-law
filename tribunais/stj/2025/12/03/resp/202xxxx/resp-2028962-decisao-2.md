@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto por VITOR GILMAR LOPES DA SILVA contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL que inadmitiu recurso especial apresentado contra acórdão proferido na Apelação Criminal n. 5000245-81.2018.8.21.0147/RS, assim ementado (fls. 1493-1494):
+APELAÇÃO. HOMICÍDIO QUALIFICADO CONSUMADO (TRÊS VEZES) E TENTADO (UMA VEZ). CONDENAÇÃO PELO TRIBUNAL DO JÚRI. PRELIMINARES DE NULIDADE NA FORMAÇÃO DO CONSELHO DE SENTENÇA E POR INOVAÇÃO EM PLENÁRIO. NÃO OCORRÊNCIA. PRETENSÃO DE SUBMISSÃO DOS RÉUS A NOVO JÚRI. IMPOSSIBILIDADE. INOCORRÊNCIA DE DECISÃO MANIFESTAMENTE CONTRÁRIA À PROVA DOS AUTOS. AUSÊNCIA DAS HIPÓTESES DO ART. 593, III, DO CPP. APLICAÇÃO DA PENA. VERIFICAÇÃO DE ERRO OU INJUSTIÇA. PENAS REDUZIDAS. SENTENÇA PARCIALMENTE REFORMADA.
+1. PRELIMINAR DE NULIDADE NA FORMAÇÃO DO CONSELHO DE SENTENÇA. Impedimento ou suspeição de jurado não demonstrado. Ausência de irresignação da defesa, que não manifestou objeção válida quanto à seleção dos jurados em plenário, nos termos do art. 571, VIII, do CPP. Nulidade que deve ser arguida no momento oportuno, pena de sucumbir à preclusão temporal. Vedação à chamada "nulidade de algibeira". Precedentes. O reconhecimento de nulidade exige a comprovação do prejuízo. Jurado que teria visto um dos réus em jogo no dia do fato e não na cena do crime. Circunstância que atuaria em favor, e não contra a defesa, na tentativa desta de demonstrar eventual álibi invocado pelo réu. Aplicação do princípio do não prejuízo.
+2. PRELIMINAR DE NULIDADE POR INOVAÇÃO EM PLENÁRIO. Não ocorrência. Juntada pelo Ministério Público de representação policial pela decretação da prisão preventiva em processo diverso, antes da sessão plenária, no prazo legal, sem oportuna insurgência defensiva, à época. Surpresa não demonstrada. Réu que já estava preso pelo presente processo. Alegação do órgão da acusação que não teria o condão de, nas circunstâncias, influenciar o ânimo dos jurados. Ocorrência de preclusão, conforme disposto no art. 572, III, do CPP.
+3. DECISÃO MANIFESTAMENTE CONTRÁRIA À PROVA DOS AUTOS. Afastamento. Decisão que encontra respaldo na prova produzida, aderindo ao menos a uma das versões existentes no contexto probatório. Respeito à soberania dos veredictos. Jurados que deliberaram segundo a sua íntima convicção. Condenação mantida.
+4. APLICAÇÃO DA PENA. Verificado erro ou injustiça. Circunstâncias do art. 59 do CP erroneamente valoradas. Penas redimensionadas.
+APELOS DEFENSIVOS PARCIALMENTE PROVIDOS, PARA O EFEITO ÚNICO DE REDIMENSIONAR E, ASSIM, REDUZIR AS PENAS APLICADAS.
+Os embargos de declaração opostos foram desacolhidos (fls. 1524-1525).
+Consta dos autos que a parte agravante foi condenada à pena total de 44 (quarenta e quatro) anos de reclusão, em regime inicial fechado, pela prática de três crimes de homicídio qualificado por motivo torpe e um crime de homicídio qualificado tentado por motivo torpe (fls. 1491-1491).
+No recurso especial, a defesa alegou violação aos arts. 252, II, 448, § 2º, e 593, III, alíneas "a" e "d", e 155, todos do Código de Processo Penal. Sustentou nulidade por impedimento de jurado e inovação em plenário, bem como ser a decisão dos jurados manifestamente contrária à prova dos autos.
+Requer, ao final, a absolvição e, subsidiariamente, a anulação do julgamento para novo júri (fls. 1542-1543).
+Concomitantemente, o Ministério Público também interpôs Recurso Especial contra o acórdão proferido pelo Tribunal de origem (fls. 1524-1525), o qual restou admitido (fls. 1602-1612).
+Contrarrazões apresentadas às fls. 1591-1598.
+O recurso especial não foi admitido (fls. 1615-1624), razão pela qual foi interposto o agravo ora examinado (fls. 1631-1644).
+O Ministério Público Federal manifestou-se pelo não conhecimento do agravo em recurso especial (fls. 1662-1669).
+É o relatório. Decido.
+O exame do presente recurso encontra-se prejudicado.
+Verifica-se que no julgamento do Recurso Especial interposto pelo Ministério Público foi proferida decisão no sentido de anular o acórdão proferido no julgamento dos Embargos de Declaração na origem, determinando o retorno dos autos ao Tribunal de Justiça do Estado do Rio Grande do Sul para que sejam supridas as omissões apontadas pelo Parquet.
+Assim, a anulação do acórdão integrativo dos embargos de declaração implica a reabertura da jurisdição na instância ordinária, o que torna insubsistente, por ora, a ratificação dos fundamentos do acórdão recorrido, podendo haver alteração no julgado que impacte diretamente as teses defensivas ou a própria dosimetria da pena.
+Nesse contexto, é firme o entendimento de que, determinada a anulação do acórdão dos embargos de declaração para novo julgamento na origem, resta prejudicada a análise do recurso especial interposto pela outra parte, devendo-se aguardar a nova integração do julgado.
+Ante o exposto, julgo prejudicado o recurso.
+Publique-se. Intimem-se.
+EMENTA
