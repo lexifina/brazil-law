@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 27/11/2025 a 03/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. EXTORSÃO. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DO DELITO E AMEAÇAS DE MORTE. MODUS OPERANDI REVELADOR DE ACENTUADA PERICULOSIDADE. CONDIÇÕES PESSOAIS FAVORÁVEIS IRRELEVANTES. INSUFICIÊNCIA DE MEDIDAS CAUTELARES DIVERSAS. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática que denegou habeas corpus no qual a defesa pleiteava a substituição da prisão preventiva por medidas cautelares diversas, alegando desproporcionalidade da custódia.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em definir se a prisão preventiva do agravante, acusado de extorsão mediante grave ameaça, inclusive de morte, deve ser mantida ou substituída por medidas cautelares alternativas diante da alegada ausência de gravidade concreta e de condições pessoais favoráveis.
+III. RAZÕES DE DECIDIR
+3. A prisão preventiva exige fundamentação idônea, baseada em elementos concretos que demonstrem sua necessidade para a garantia da ordem pública, da instrução criminal ou da aplicação da lei penal.
+4. O decreto prisional evidencia gravidade concreta do crime, praticado com ameaças de morte e exigência de vultosa quantia, revelando modus operandi intimidatório e risco à ordem pública.
+5. A periculosidade do agente está demonstrada pelas circunstâncias da conduta, que envolvem não apenas ameaça isolada, mas insistência e atuação conjunta com supostos comparsas.
+6. Condições pessoais favoráveis, como primariedade, bons antecedentes e residência fixa, não afastam a prisão quando presentes fundamentos cautelares previstos no art. 312 do CPP.
+7. Medidas cautelares diversas da prisão mostram-se insuficientes, diante da gravidade dos fatos e da ameaça concreta à vítima, conforme reiterada jurisprudência do STJ.
+8. O agravo regimental não trouxe argumentos novos ou aptos a infirmar os fundamentos da decisão agravada, razão pela qual deve prevalecer o entendimento anteriormente firmado.
+IV. DISPOSITIVO E TESE
+9. Recurso desprovido.
+Tese de julgamento: "1. A gravidade concreta do delito de extorsão, evidenciada por ameaças de morte e pelo modus operandi violento, justifica a manutenção da prisão preventiva. 2. Condições pessoais favoráveis não afastam a segregação cautelar quando presentes elementos que revelam acentuada periculosidade. 3. Medidas cautelares diversas da prisão não são aplicáveis quando demonstrada sua insuficiência diante das circunstâncias do crime."
+RELATÓRIO
+Trata-se de agravo regimental contra decisão monocrática denegatória de habeas corpus.
+Em suas razões, o agravante sustenta inexistir "gravidade suficiente para estabelecer uma acentuada periculosidade  ..  na medida em que a denúncia descreve um único, isolado e individual ato extorsivo na modalidade simples (art. 158 caput do CP) sem a prática de violência real contra a vítima ou emprego de arma de fogo (e-STJ, fls. 67-68), mesmo diante da existência de uma relação comercial prévia reconhecida desde 2020" (fl. 132). Considera que "a ameaça de morte apontada pela decisão agravada é circunstância aliada à própria tipologia penal da conduta" (fl. 132), o que tornaria a custódia uma medida desproporcional. Ressalta que os precedentes invocados tratam de "indivíduos faccionados e integrantes de organizações criminosas altamente estruturadas que ainda ostentavam importante histórico criminal; o que não se aplica ao agravante" (fl. 134).
+Busca a reconsideração para aplicar ao agravante medidas cautelares diversas da prisão preventiva.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. EXTORSÃO. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DO DELITO E AMEAÇAS DE MORTE. MODUS OPERANDI REVELADOR DE ACENTUADA PERICULOSIDADE. CONDIÇÕES PESSOAIS FAVORÁVEIS IRRELEVANTES. INSUFICIÊNCIA DE MEDIDAS CAUTELARES DIVERSAS. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática que denegou habeas corpus no qual a defesa pleiteava a substituição da prisão preventiva por medidas cautelares diversas, alegando desproporcionalidade da custódia.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em definir se a prisão preventiva do agravante, acusado de extorsão mediante grave ameaça, inclusive de morte, deve ser mantida ou substituída por medidas cautelares alternativas diante da alegada ausência de gravidade concreta e de condições pessoais favoráveis.
+III. RAZÕES DE DECIDIR
+3. A prisão preventiva exige fundamentação idônea, baseada em elementos concretos que demonstrem sua necessidade para a garantia da ordem pública, da instrução criminal ou da aplicação da lei penal.
+4. O decreto prisional evidencia gravidade concreta do crime, praticado com ameaças de morte e exigência de vultosa quantia, revelando modus operandi intimidatório e risco à ordem pública.
+5. A periculosidade do agente está demonstrada pelas circunstâncias da conduta, que envolvem não apenas ameaça isolada, mas insistência e atuação conjunta com supostos comparsas.
+6. Condições pessoais favoráveis, como primariedade, bons antecedentes e residência fixa, não afastam a prisão quando presentes fundamentos cautelares previstos no art. 312 do CPP.
+7. Medidas cautelares diversas da prisão mostram-se insuficientes, diante da gravidade dos fatos e da ameaça concreta à vítima, conforme reiterada jurisprudência do STJ.
+8. O agravo regimental não trouxe argumentos novos ou aptos a infirmar os fundamentos da decisão agravada, razão pela qual deve prevalecer o entendimento anteriormente firmado.
+IV. DISPOSITIVO E TESE
+9. Recurso desprovido.
+Tese de julgamento: "1. A gravidade concreta do delito de extorsão, evidenciada por ameaças de morte e pelo modus operandi violento, justifica a manutenção da prisão preventiva. 2. Condições pessoais favoráveis não afastam a segregação cautelar quando presentes elementos que revelam acentuada periculosidade. 3. Medidas cautelares diversas da prisão não são aplicáveis quando demonstrada sua insuficiência diante das circunstâncias do crime."
+VOTO
+O agravo regimental deve trazer argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão recorrida pelos próprios fundamentos.
+No que interessa, assim dispôs a decisão agravada (fls. 126/127):
+A prisão preventiva institui-se sob requisitos rigorosos, e é admitida apenas nas hipóteses taxativas da legislação processual e quando não visualizado outro meio hábil de assegurar a aplicação da lei penal, a manutenção da ordem pública e econômica e o adequado fluxo dos atos de investigação e instrução.
+A medida cautelar foi decretada nos seguintes termos
+Trata-se, em tese, de crime grave - extorsão mediante grave ameaça, evidenciando a gravidade concreta da ação e a periculosidade do agente.
+A prática do delito em análise é por demais gravosa, uma vez que compreende ameaças, inclusive de morte. Segundo o depoimento da vítima, Cleber teria ido até o local onde estava a vítima na parte da manhã, informando que a vítima deveria dar R$100.000,00 em 10 dias, caso isso não acontecesse iriam vir matá-lo. Por voltas das 13 horas o suspeito foi até a casa da vitima, entrou no pátio e disse que haviam mais pessoas com ele, que teriam vindo para pegar o dinheiro, senão tivesse iam fazer uma maldade com o declarante. Salienta-se que a existência de condições pessoais favoráveis, tais como a eventual primariedade, bons antecedentes, residência fixa, trabalho licito, conduta abonada, entre outros, não é suficiente para determinar a liberdade provisória, mormente quando constatado, a partir das circunstâncias, que a decretação da prisão é devida, como no caso. Nota-se, portanto, o imenso abalo à ordem pública diante da prática delituosa que, ao que parece, vem sendo cometida pelo representado e prováveis comparsas, quando se verifica que não mede esforços para extorquir alta quantia em dinheiro da vítima, objetivando reparar divida existente com a aplicação de juros vultuosos. No mais, é de ser garantida, do mesmo modo, a aplicação da lei penal, considerando que flagrado poderá, inclusive, impedir a devida aplicação dos procedimentos inerentes ao caso em comento. Também não há falar em prejuizo à presunção de inocência e tampouco em antecipação de pena, porquanto a prisão preventiva não possui a função de antecipar eventuais efeitos condenatórios, mas, tão somente, de afastar o agente do convívio social. Logo, diante das circunstâncias do fato e das condições pessoais do flagrado, impõe-se a segregação cautelar para a garantia da ordem pública.
+Como se ve , a custo"dia preventiva foi decretada sob fundamento adequado, por circunstâncias que vão além da mera descrição dos crimes imputados e de sua gravidade, destacando-se a excepcional violência empregada, incluindo ameaças de morte.
+A constrição cautelar impõe-se pela gravidade concreta da prática criminosa, causadora de grande intranquilidade social, revelada no modus operandi do delito e diante da acentuada periculosidade do acusado, evidenciada na propensão à prática delitiva e conduta violenta. Confira-se: AgRg no HC n. 687.840/MS, relatora Ministra Laurita Vaz, julgado em 13/12/2022, DJe de 19/12/2022.
+"A presença de condições pessoais favoráveis não tem o condão de, por si só, garantir a liberdade ao acusado, quando há, nos autos, elementos hábeis que autorizam a manutenção da medida extrema nos termos do art. 312 do CPP." (AgRg no RHC n. 208.446/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/3/2025, DJEN de 10/3/2025).
+Por fim, "São inaplicáveis quaisquer medidas cautelares alternativas previstas no art. 319 do CPP, uma vez que as circunstâncias do delito evidenciam a insuficiência das providências menos graves." (AgRg no HC n. 969.199/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 5/3/2025, DJEN de 11/3/2025).
+Ante o exposto, denego o habeas corpus.
+Não vislumbro motivo para conclusão diversa.
+A periculosidade do agente está demonstrada pela excepcional violência, incluindo, mas não se limitando às ameaças de morte dirigidas à vítima. Com efeito, o decreto preventivo ressaltou também o "imenso abalo à ordem pública diante da prática delituosa que, ao que parece, vem sendo cometida pelo representado e prováveis comparsas, quando se verifica que não mede esforços para extorquir alta quantia em dinheiro da vítima, objetivando reparar dívida existente com a aplicação de juros vultuosos."
+Portanto, "a prisão preventiva foi corretamente mantida em virtude da gravidade concreta dos fatos, demonstrada pelo modus operandi empregado nos crimes de extorsão e pela ameaça concreta à ordem pública, conforme decisão fundamentada do Tribunal de origem." (RHC n. 201.403/CE, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 15/10/2024, DJe de 11/11/2024)
+Uma vez que o agravante não apresentou teses jurídicas diversas que permitam analisar o caso sob ótica diferente, posto que não há como acolher agravo regimental que não busca desconstituir o fundamento da decisão atacada, conforme acórdão proferido no AgRg no HC N. 751.492/CE, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 9/8/2022, DJe de 15/8/2022.
+Ante o exposto - os fundamentos do recurso não desautorizam as bases da decisão recorrida -, nego provimento ao agravo regimental.
+É o voto.
