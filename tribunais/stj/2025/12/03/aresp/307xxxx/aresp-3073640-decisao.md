@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravo interposto por CANAL COMPANHIA DE SECURITIZAÇÃO contra decisão proferida pela Presidência da Seção de Direito Privado do Tribunal de Justiça do Estado de São Paulo (e-STJ, fls. 841-843) que negou seguimento ao recurso especial apresentado, com base na conformidade do acórdão recorrido com tese firmada no julgamento do Tema 243 dos Recursos Repetitivos, sobre a configuração de fraude à execução.
+Nas razões do presente agravo, a parte agravante defende a existência de deficiência de fundamentação do acórdão recorrido e revisão dos requisitos necessários para configuração de fraude à execução, nos termos do precedente qualificado firmado.
+É o relatório. Decido.
+Segundo a orientação jurisprudencial desta Corte Superior, é incabível a interposição do agravo em recurso especial contra decisão denegatória de seguimento do recurso especial, fundamentada na conformidade do acórdão recorrido com tese firmada em recurso repetitivo e proferida após a vigência do CPC/2015 (18/3/2016), pois o único recurso cabível é o agravo interno dirigido ao próprio Tribunal de origem, nos termos dos arts. 1.030, § 2º, e 1.042, caput, do CPC/2015 (v.g. AREsp 959.991/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/8/2016, DJe 26/8/2016; AgInt no AREsp 1.053.970/DF, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 25/4/2017, DJe 12/5/2017; e AgInt no AREsp 982.074/PR, Rel. MINISTRA MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 25/10/2016, DJe 17/11/2016).
+Desse modo, considerando que a decisão agravada foi objeto de intimação em 6/6/2025 (e-STJ, fl. 844) e está fundamentada na conformidade do acórdão recorrido com precedente firmado em julgamento de recurso repetitivo, não é possível o conhecimento do presente agravo sobre a configuração de fraude à execução, tópico da negativa de seguimento do recurso especial.
+Diante do exposto, não conheço do agravo em recurso especial.
+Com supedâneo no art. 85, § 11, do CPC/2015, majoro os honorários advocatícios devidos pela parte recorrente, de 15% para 16% sobre o valor atualizado da causa.
+Publique-se.
+EMENTA
