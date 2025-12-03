@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo interposto pela União de decisão que inadmitiu na origem seu recurso especial, manifestado com fundamento no art. 105, III, a e c, da Constituição da República, contra acórdão do Tribunal Regional Federal da 4ª Região.
+Narram os autos que Adriano Riboldi interpôs o subjacente agravo de instrumento contra decisão do Juízo de primeiro grau que, em cumprimento de sentença movido pela União para fim de cobrança de valores recebidos por força de decisão judicial reformada por esta Corte Superior, entendeu intempestiva a alegação de nulidade do cumprimento de sentença e rejeitou integralmente os argumentos tecidos pelo executado.
+Referido agravo de instrumento foi provido nos termos da ementa que segue (fl. 52):
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXCEÇÃO DE PRÉ- EXECUTIVIDADE. DEVOLUÇÃO DE PARCELAS RECEBIDAS POR FORÇA DE DECISÃO QUE ANTECIPA OS EFEITOS DA TUTELA POSTERIORMENTE REVOGADA. INEXISTÊNCIA DE DECISÃO TRANSITADA EM JULGADO. PROVIMENTO.
+1. Considerando que não há decisão transitada em julgado que expressamente tenha determinado a devolução de valores; e de que está presente a boa-fé objetiva da parte a inviabilizar a devolução de tais quantias, impõe-se a extinção do cumprimento de sentença.
+2. Agravo de instrumento provido.
+A esse julgado foram opostos embargos de declaração, os quais restaram parcialmente acolhidos, sem efeitos modificativos (fls. 58/64).
+No recurso inadmitido, sustenta a parte agravante que o Tribunal a quo "contrariou/deu equivocada interpretação aos artigos 300, 302, 520, I, 525 e 927, § 1º, todos do Código de Processo Civil" (fl. 68).
+Nesse fio, alega que (fl. 73):
+Não há óbice  ..  à liquidação do valor devido pela parte autoral nos próprios autos, em razão da revogação da tutela de urgência e, consequentemente, diante do resultado da demanda originária, de improcedência e inversão dos ônus sucumbenciais, medida que efetiva o princípio da celeridade e economia processuais, já que da decisão de improcedência surge a responsabilidade objetiva da demandante que se perfaz no dever de indenizar à União pelos prejuízo que a execução da tutela de urgência causaram-lhe, independentemente de apuração do boa-fé ou não, bem como da natureza alimentar dos valores auferidos em clara violação às disposições constitucionais aplicáveis, sob pena de violar-se os dispositivos em comento.
+Também afirma que "diferentemente do entendimento adotado pelo acórdão recorrido, a jurisprudência no Superior Tribunal de Justiça é no sentido de ser possível a cobrança de valores recebidos em função de liminares por fim revogadas, inclusive pelas mesmas razões que levaram a Corte a fixar a tese do Tema 692" (fl. 75).
+Defende, outrossim, que é (fls. 75/76):
+ ..  descabia ao recorrido pretender rediscutir nos autos o an debeatur (existência da dívida), eis que tal questão deveria ter sido suscitada em sede de impugnação ao cumprimento de sentença, estando a matéria acobertada pela preclusão lógica (art. 223 e 507, ambos do Código de Processo Civil).
+Notadamente, é na impugnação que o devedor deve suscitar toda matéria de defesa (princípio da eventualidade), aí incluída a eventual inexequibilidade ou inexigibilidade da obrigação, na forma do art. 525 do Código de Processo Civil:
+ ..
+Portanto, considerando que o recorrido deixou de se insurgir em relação ao título executivo, conformou-se tacitamente com a pretensão executória, caracterizando a preclusão lógica.
+Dessa forma, somente caberia ao recorrido arguir novas nulidades supervenientes à impugnação, na forma do § 11 do art. 525 do Código de Processo Civil:
+ ..
+Portanto, conforme bem apontou a decisão monocrática do Tribunal Regional (ev 2), o suposto vício arguido somente após a arrematação do veículo penhorado nos autos constitui flagrante hipótese de nulidade de algibeira:
+ ..
+Por outro lado, eventual nulidade deveria ter sido suscitada pelo devedor na primeira oportunidade que teve pra falar nos autos, sob pena de preclusão, conforme art. 278 do Código de Processo Civil:
+ ..
+Já nas razões do agravo, aduz que os pressupostos de admissibilidade do apelo nobre estão preenchidos, mormente porque a controvérsia é exclusivamente de direito, o que afasta a incidência da Súmula 7/STJ.
+Contraminuta às fls. 94/96.
+Em 28/9/2025 o em. Ministro Presidente do STJ proferiu decisão unipessoal não conhecendo do agravo em recurso especial (fls. 102/103), contra a qual foi manejado agravo interno (fls. 109/111), pendente de apreciação.
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Considerando-se que os pressupostos de admissibilidade do agravo em recurso especial encontram-se presentes, nos termos do art. 1.021, § 2º, do CPC, reconsidero a decisão de fls. 102/103 e ,nesse diapasão, examino o próprio apelo nobre.
+Pois bem.
+Extrai-se do acórdão recorrido que o Sodalício regional deu provimento ao agravo de instrumento, para extinguir o cumprimento de sentença promovido pela União a partir dos seguintes fundamentos: (a) inexiste título executivo judicial contendo determinação de devolução dos valores buscados pela União; (b) é nula a execução desprovida de título executivo; (c) tais questões, de ordem pública, podem ser apreciadas a qualquer tempo e grau de jurisdição, inclusive de ofício; (d) o silêncio da parte executada, nessa hipótese, não convalida a execução. Confira-se (fl. 50):
+Não vislumbro razões para conclusão diversa, motivo pelo qual estou votando para dar provimento ao agravo de instrumento para extinguir o cumprimento de sentença, considerando a inexistência de decisão transitada em julgado que expressamente tenha determinado a devolução de tais valores assim como a boa-fé objetiva da parte.
+Também por oportuno, veja-se o seguinte trecho do voto condutor do acórdão dos embargos de declaração, in verbis (fls. 61/62):
+A alegação ofensa ao duplo grau de jurisdição não merece acolhida. A matéria envolvendo a ausência de título executivo relaciona-se com o pressuposto processual de validade da execução. Por essa razão, pode ser conhecida em qualquer grau de jurisdição, e inclusive de ofício pelo tribunal. Nesse sentido:
+ ..
+Consignou também o STJ, no referido acórdão, que as matérias de ordem pública sujeitam-se aos efeitos da preclusão consumativa apenas quando já objeto de decisão anterior, o que não ocorreu no presente caso. Não há, portanto, falar em ofensa ao art. 507 do CPC.
+Tampouco se justifica manter o curso da execução sob o fundamento de que o executado aceitou tacitamente a execução. O art. 803, I, do CPC prevê que a execução é nula quando o título executivo for inexigível. Nesse contexto, o silêncio ou aceitação tácita do executado não convalida a ausência do título.
+Independentemente, portanto, de o executado ter se submetido à execução por determinado tempo, a ausência de título executivo válido compromete a própria existência legítima do processo executivo.
+Em que pese a referência ao art. 302 do CPC, o acórdão destacou que na ausência de determinação expressa quanto à necessidade de devolução dos valores recebidos por força de tutela antecipada deferida, é necessária a propositura de ação própria, pela ausência de título executivo.
+(Grifos nossos)
+Nesse diapasão, verifica-se que o fundamento central do acórdão recorrido - ausência de preclusão acerca da inexistência do título executivo judicial, por se tratar de um pressuposto processual e, portanto, de ordem pública, - não foi especificamente impugnado pela União nas razões do apelo especial, pois ali foi suscitada questão diversa, a saber, a ocorrência da preclusão da matéria concernente à eventual (i)existência de dívida - o chamando an debeatur.
+Corrobora tal conclusão o fato de que no julgamento dos embargos declaratórios a própria Corte de origem consignou a necessidade da propositura de ação própria de cobrança, pela ausência de título executivo, ou seja, em nenhum momento se disse que a dívida imputada à parte recorrida não existiria ou não poderia ser cobrada.
+Destarte, incidem na espécie as Súmulas 283 e 284/STF.
+Impende acrescentar, de toda sorte, que para se afastar a premissa adotada pelo Tribunal a quo, no sentido de que a questão concernente à inexistência de título executivo judicial não foi objetivo de anterior apreciação judicial - situação que afasta a alegada preclusão pro judicato -, seria necessário o reexame de matéria fático-probatória, o que esbarra na vedação a que alude a Súmula 7/STJ.
+Lado outro, para a abertura da via especial, requer-se o prequestionamento, ainda que implícito, da matéria infraconstitucional. A exigência tem como desiderato principal impedir a condução a est e Superior Tribunal de questões federais não debatidas no Tribunal de origem, a teor das Súmulas 282/STF e 211/STJ.
+Calha ressaltar que, na forma da jurisprudência do STJ, "para que se configure o prequestionamento, não basta que o recorrente devolva a questão controvertida para o Tribunal, em suas razões recursais. É necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a eles vinculada, interpretando-se a sua aplicação ou não, ao caso concreto" (AgInt no REsp n. 1.890.753/MA, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 6/5/2021).
+In casu, a Turma Julgadora não emitiu nenhum juízo de valor acerca da tese trazida à baila do recurso especial, concernente à eventual inexistência de óbice à liquidação do valor devido pela parte recorrida nos próprios autos da ação principal, o que atrai o óbice da Súmula 211/STJ.
+Para além disso, os dispositivos de lei federal apontados como malferidos não possuem comando normativo específico capaz de amparar essa tese recursal, motivo pelo qual, nesse ponto, também incide a já mencionada Súmula 284/STF.
+ANTE O EXPOSTO, em juízo de retratação, nos termos do art. 1.021, § 2º, do CPC, reconsidero a decisão de fls. 102/103 a fim de conhecer do agravo para não conhecer do recurso especial. Prejudicado o agravo interno de fls. 109/111.
+Publique-se.
+EMENTA
