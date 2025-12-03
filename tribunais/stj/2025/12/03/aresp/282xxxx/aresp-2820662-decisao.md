@@ -1,0 +1,22 @@
+DECISÃO
+Agrava-se de decisão que não admitiu recurso especial interposto com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Pará, assim ementado:
+APELAÇÃO CRIMINAL. DIRIGIR VEÍCULO AUTOMOTOR SOB EFEITO DE ÁLCOOL(ART. 306, § 1º, I E II DA LEI Nº 9.503/97). REFORMA DA SENTENÇA. IMPROCEDENTE. . AnalisandoDA ABSOLVIÇÃO POR INSUFICIÊNCIA DE PROVAS. TESE REJEITADA as provas constantes nos autos, constata-se a inobservância do dever de cuidado, caracterizado pela imprudência, restando configurada pelo desrespeito do motorista do veículo automotor HEMERSON MHILLER MONTEIRO DOS SANTOS no crime tipificado no art. 306, § 1º, I e II, da Lei nº 9.503/97, ao dirigir veículo automotor sob efeito de álcool. No tocante aos crimes dessa natureza o Superior Tribunal de Justiça alinhavou entendimento que "o depoimento dos policiais militares que flagraram o acusado conduzindo veículo automotor com sinais claros de embriaguez constitui meio idôneo a amparar a condenação. " Precedentes.
+REDIMENSIONAMENTO DA PENA APLICADA. NÃO ACOLHIMENTO. O quantum aplicado foi racional e proporcional ao caso concreto, não merecendo qualquer correção a ser feita. Uma vez que persistindo uma circunstância negativa contra o réu, deve a pena-base ser estabelecida acima do mínimo legal, entendimento da Súmula 23 deste E. Tribunal de Justiça. Recurso CONHECIDO e IMPROVIDO. (e-STJ fls. 252/253)
+A defesa aponta a violação do art. 386, III do CPP e 59 do CP. Sustenta as seguintes teses: i) ausência de provas para a condenação e; ii) inidoneidade do fundamento utilizado para exasperar a pena-base.
+Contrarrazões às e-STJ fls. 320/325.
+Manifestação do Ministério Público Federal pelo não conhecimento do agravo às e-STJ fls. 374/376.
+É o relatório. Decido.
+A irresignação não prospera.
+Os elementos existentes nos autos informam que o recorrente foi condenado à pena de 1 ano de detenção, substituída a reprimenda corporal por restritiva de direitos, pelo cometimento do crime do art. 306, § 1º, I e II, da Lei n. 9.503/1997.
+A defesa se insurge contra a condenação do recorrente alegando que não há nos autos provas seguras para a condenação.
+A tese defensiva não pode ser apreciada na via do recurso especial, isso porque cabe ao aplicador da lei, em instância ordinária, fazer um cotejo fático e probatório a fim de analisar a existência de provas suficientes a absolver, condenar ou desclassificar a imputação feita ao acusado. Óbice do enunciado n.º 7 da Súmula deste STJ (ut, AgInt no AREsp n. 1.265.017/DF, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 24/5/2018).
+Ainda nessa mesma linha:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EMBRIAGUEZ AO VOLANTE. PROVA DA ALTERAÇÃO DA CAPACIDADE PSICOMOTORA PARA DIRIGIR VEÍCULO AUTOMOTOR. DESNECESSIDADE. CONDENAÇÃO BASEADA NAS PROVAS PRODUZIDAS NOS AUTOS. ABSOLVIÇÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. O crime previsto no art. 306 da Lei n. 9.503/1997 é de perigo abstrato, não se exigindo mais para sua tipificação, posteriormente à edição das Leis n. 11.705/2008 e 12.760/2012, a prova da alteração da capacidade psicomotora do agente.
+2. Se a condenação do agente baseou-se nos elementos probatórios produzidos nos autos, particularmente nos depoimentos dos policiais responsáveis pela abordagem, a revisão das conclusões a que chegaram as instâncias ordinárias encontra óbice na Súmula n. 7 do STJ.
+3. Agravo regimental desprovido. (AgRg no AREsp n. 1.873.064/TO, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 3/8/2021, DJe de 6/8/2021.)
+Quanto ao art. 59 do CP, igualmente sem razão a defesa, isso porque o fato do recorrente agredir os agentes públicos (e-STJ fl. 173), revela um plus de reprovabilidade na conduta e autoriza a exasperação da pena. Nessa linha: AgRg no AREsp n. 2.148.001/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/9/2022, DJe de 4/10/2022 e AgRg no HC n. 604.542/AC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 3/8/2021, DJe de 12/8/2021.
+É importante salientar que a exasperação da pena-base é válida sempre que fundamentada em elementos concretos que extrapolam o tipo penal.
+Diante do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "a", parte final, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
