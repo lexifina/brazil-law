@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "a", da CF, interposto contra acórdão assim ementado (fls. 955-956):
+EMENTA - APELAÇÃO CÍVEL E AGRAVO RETIDO - AGRAVO RETIDO CONHECIDO E DESPROVIDO - PRELIMINAR DE FALTA DE INTERESSE DE AGIR - AFASTADA - MÉRITO - RESCISÃO CONTRATUAL - REINTEGRAÇÃO DE POSSE - ANULAÇÃO DE ESCRITURA PÚBLICA - CONDENAÇÃO DE CLÁUSULA PENAL - DANO MORAL - MULTA POR EMBARGOS PROTELATÓRIOS AFASTADA - RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+1. A luz do CPC/73 a reconvenção apresentada dentro da contestação, em capítulo próprio e devidamente destacada. Mera irregularidade, uma vez que o próprio art. 299 do CPC/73 não prevê nenhum tipo de nulidade.
+2. 2. Trata-se de ação de rescisão de contrato de compra e venda c/c reintegração na posse dos lotes n. 40, 41, 42 e 43 (matrículas n. 13, 14, 825 e 1.612), em razão do inadimplemento contratual, bem com a anulação da escritura de compra e venda referente ao lote n. 42 (matrícula 825). Ambas as partes cometeram ato ilícito - princípio da exceptio non adimpleti contractus - art. 1.092 do CC/16. Tratando-se de contrato bilateral e sinalagmático, não tendo a parte cumprido com sua obrigação, não pode exigir o cumprimento da obrigação da outra. As provas acostadas nos autos, indicam que os lotes rurais estão na posse do litisconsorte passivo Jairo de Souza Vieira. A rescisão contratual deve ser reconhecida em relação aos lotes 40, 41 e 43.
+3. O contrato de compra e venda registrado no competente cartório de registro de imóveis tem natureza de direito real. Imóvel adquirido de boa-fé e, por isso, não devendo ser atingindo pela rescisão contratual. A anulação de escritura pública averbada na matrícula 825 (lote 42) é improcedente.
+4. Reintegração de posse afastada, pelo fato de que restou demostrado que Eunício e Marileida não exercem mais a posse sobre os imóveis objeto da ação.
+5. A cláusula penal decorre de relação contratual, de modo que os juros de mora de 1% ao mês (art. 406, CC c/c art. 161, § 1º, CTN), fluem a partir da data da citação, (art. 405, CC), e correção monetária pela variação do IGPM-FGV, a partir da data do inadimplemento contratual.
+6. O inadimplemento de contrato, por si só, não acarreta dano moral, que pressupõe ofensa anormal à personalidade.
+7. Afastada aplicação de multa no percentual de 1% sobre o valor atualizado da causa por não vislumbrar caráter protelatório aos embargos de declaração.
+8. Recurso conhecido e parcialmente provido.
+Os embargos de declaração foram rejeitados (fls. 1016-1018).
+Em suas razões (fls. 1025-1054), a parte recorrente aponta violação dos seguintes dispositivos legais:
+(i) art. 475 do CC, alegando que a resolução do contrato impõe o retorno integral ao status quo ante, de modo que os compradores devem indenizar a fruição dos imóveis 40, 41 e 43 durante todo o período em que exerceram a posse, inclusive antes do inadimplemento (fls. 1030-1036),
+(ii) art. 1.022, II, do CPC, aduzindo negativa de prestação jurisdicional quanto ao pedido de aplicação exclusiva da Taxa SELIC na restituição fixada na reconvenção (fls. 1041-1045), e
+(iii) art. 406 do CC, asseverando que houve indevida fixação de juros de 1% (um por cento) ao mês cumulados com correção pelo IGP-M na restituição, defendendo a incidência exclusiva da Taxa SELIC como taxa legal de juros moratórios (fls. 1045-1053).
+Contrarrazões apresentadas (fls. 1070-1091).
+O recurso foi admitido na origem.
+É o relatório.
+Inexiste afronta ao art. 1.022 do CPC quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+De fato, em relação à tese de aplicação da taxa SELIC, o Tribunal de origem assim se manifestou (fl. 1021):
+Com relação à cláusula penal, acompanhou-se o voto da Desª Elisabeth Rosa Baisch, a qual considerou a inexistência de prova da fruição do bem, após o inadimplemento, não há se falar em reforma da sentença, devendo ser mantida apenas a condenação dos Requeridos (Eunício de Jesus Silva e Marileida da Cruz Vargas) ao pagamento de cláusula penal (cláusula 6ª) referente a 10% do valor do contrato, com incidência de juros de mora de 1% ao mês (art. 406, CC c/c art. 161, § 1º, CTN), a partir da data da citação, (art. 405, CC), e correção monetária pela variação do IGPM-FGV, a partir da data do inadimplemento contratual, o qual ocorreu em em 05/04/1997 (súmula 43, STJ).
+Desse modo, não assiste razão à parte, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente a seus interesses, não incorrendo em nenhum dos vícios previstos no art. 1.022 do CPC.
+No tocante à alegada violação do art. 475 do Código Civil, o recurso merece acolhida.
+A Corte de origem indeferiu a pretensão indenizatória pela utilização do imóvel ao fundamento de que "as demais provas juntadas não permitem concluir se os Requeridos realmente chegaram a usufruir dos imóveis após o inadimplemento" (fl. 967).
+Tal fundamentação está conforme a orientação jurisprudencial consolidada nesta Corte Superior. Isso porque "a cláusula penal, consistente na retenção de percentual sobre o valor das prestações pagas, visa, entre outras coisas, ao ressarcimento do promitente vendedor pela utilização do imóvel durante o período em que o contrato foi cumprido (REsp 963.073/DF, Rel. Ministro Sidnei Beneti, Rel. p/ Acórdão Ministra Nancy Andrighi, Terceira Turma, julgado em 22.03.2011, DJe 16.04.2012). Por outro lado, caso o promissário comprador continue na posse do bem após a mora, será devida, ao credor, indenização por perdas e danos, a título de aluguéis, o que não se confunde com a pena convencional" (AgRg no REsp n. 1.179.783/MS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 19/4/2016, DJe de 26/4/2016.).
+"Com efeito, a fixação de indenização, a título de aluguel, durante o tempo de ocupação do imóvel, é decorrência natural da rescisão de contrato. Configurar-se-ia enriquecimento sem causa se o devedor recebesse as parcelas pagas sem proceder à indenização por todo o tempo em que ficara na posse do imóvel após o período de inadimplência" (AgRg no REsp n. 1.179.783/MS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 19/4/2016, DJe de 26/4/2016.)
+No mesmo sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL C/C PEDIDO DE REINTEGRAÇÃO DE POSSE E INDENIZAÇÃO POR PERDAS E DANOS. CUMULAÇÃO. CLÁUSULA PENAL COMPENSATÓRIA. TAXA DE OCUPAÇÃO DO IMÓVEL. POSSIBILIDADE. RECURSO ESPECIAL CONHECIDO E PROVIDO.
+ ..
+7. A taxa de ocupação não guarda relação direta com a rescisão contratual, mas com os benefícios que auferiu o ocupante pela fruição do bem, razão pela qual não foi incluída no cálculo prévio que prefixou as perdas e danos na cláusula penal compensatória.
+8. A indenização pelo tempo de fruição do imóvel, configura-se como um custo extraordinário que vai além daquele que naturalmente se espera quando se trata de rescisão contratual causada por uma das partes, o que justifica que a contratante faça jus à cumulação da multa fixada na cláusula penal com a taxa de ocupação.
+9. A indenização pelo tempo de utilização do imóvel tem natureza jurídica de aluguéis e se justifica pela vedação ao enriquecimento sem causa. Por isso, a indenização pelo tempo de fruição do bem deve basear-se no valor de aluguel do imóvel em questão e o promissário vendedor deve receber pelo tempo de permanência do comprador desistente.
+ ..
+(REsp n. 2.024.829/SC, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 7/3/2023, DJe de 10/3/2023.)
+Ou seja, a cláusula penal compensatória pré-fixa as perdas e danos ocorridas até o descumprimento contratual. Por outro lado, a taxa de ocupação é devida em razão de a permanência no imóvel após o inadimplemento não ter sido pré-fixada e, portanto, ser exigível sob pena de enriquecimento sem causa.
+No presente caso, a Corte de origem fixou que não há prova da ocupação após o inadimplemento, motivo pelo qual rever tal conclusão fática encontra óbice na Súmula n. 7/STJ e as conclusões jurídicas às quais chegou com base em tais pressupostos de fato vão ao encontro da jurisprudência desta Corte a atrair incidência da Súmula n. 83/STJ.
+Quanto à violação do art. 406 do CC, porém, assiste razão à parte recorrente.
+O acórdão recorrido determinou a incidência cumulativa de juros de mora de 1% ao mês e correção monetária pelo IGP-M. Entretanto, a Corte Especial do STJ, no julgamento do REsp n. 1.795.982/SP, pacificou o entendimento de que a taxa de juros moratórios a que se refere o art. 406 do Código Civil é a SELIC, a qual não pode ser cumulada com qualquer outro índice.
+CIVIL. RECURSO ESPECIAL. INTERPRETAÇÃO DO ART. 406 DO CÓDIGO CIVIL. RELAÇÕES CIVIS. JUROS MORATÓRIOS. TAXA LEGAL. APLICAÇÃO DA SELIC. RECURSO PROVIDO.
+1. O art. 406 do Código Civil de 2002 deve ser interpretado no sentido de que é a SELIC a taxa de juros de mora aplicável às dívidas de natureza civil, por ser esta a taxa "em vigor para a atualização monetária e a mora no pagamento de impostos devidos à Fazenda Nacional".
+ ..
+8. Recurso especial provido.
+(REsp n. 1.795.982/SP, relator Ministro Luis Felipe Salomão, relator para acórdão Ministro Raul Araújo, Corte Especial, julgado em 21/8/2024, DJe de 23/10/2024.)
+Havendo entendimento dominante acerca do tema, aplica-se ao caso o enunciado da Súmula n. 568/STJ.
+Ante o exposto, DOU PARCIAL PROVIMENTO ao agravo para determinar que a atualização do débito objeto da condenação na reconvenção observe exclusivamente a taxa SELIC, a partir da citação, vedada a cumulação com outros índices de correção monetária.
+Publique-se e intimem-se.
+EMENTA
