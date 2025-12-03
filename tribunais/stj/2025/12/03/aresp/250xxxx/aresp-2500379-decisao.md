@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da incidência da Súmula n. 7 do STJ e da ausência de comprovação do dissídio jurisprudencial (fls. 259-261).
+O acórdão recorrido encontra-se assim ementado (fl. 191):
+Ação Declaratória de Revisão de Cláusulas Contratuais. Contrato de venda e compra de imóvel (lote). Cerceamento de defesa. Inocorrência. Desnecessária a produção de prova pericial contábil. Irregularidade na correção das parcelas que seria aferível mediante mero cálculo aritmético. Preço ajustado para ser quitado em parcelas. Incidência de juros e de correção monetária que é inerente ao contrato para pagamento a prazo. Ausente prova de descumprimento contratual pela Ré. Não verificada qualquer abusividade no caso em tela. Pretendida substituição do índice IGP-M, adotado pelas partes ao celebrar o contrato, pelo índice IPC- A. Índice IGP-M que é legal e não cabe ser revisto, no caso, pois foi livremente negociado pelas partes. Precedentes do STJ e desta E. 3ª Câmara de Direito Privado. Sentença de improcedência mantida. Honorários sucumbenciais majorados para 15% do valor da causa (art. 85, § 11, do CPC), observada a Justiça gratuita deferida ao Autor. Recurso não provido. Trata-se de ação declaratória de revisão de cláusulas contratuais, julgada improcedente pela r. sentença de págs. 135/138, cujo relatório adoto, complementada pela r. decisão de pág. 145, com condenação do Autor ao pagamento das custas, despesas processuais e honorários advocatícios, estes arbitrados em 10% sobre o valor da causa, observada a Justiça gratuita a ele concedida (pág. 66).
+Os embargos de declaração foram acolhidos em parte (fls. 209-214) e estão assim ementados:
+Embargos de declaração. Omissão. Existência à luz do disposto no artigo 1.022 do Código de Processo Civil/15. Capitalização de juros cuja insurgência não foi objeto de análise, agora efetivada e afastada. Embargos acolhido em parte, com efeito unicamente integrativo, considerado como efetivado o prequestionamento.
+Nas razões do recurso especial (fls. 216-232), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte recorrente alegou dissídio jurisprudencial entre o decidido pelo TJSP e decisão do TJMG, além de violação dos arts. 5º da Medida Provisória n. 2.170-36 de 23.08.2021 e 28, § 1º, da Lei n. 9.069/1995, pois "julgando da forma como julgou, ou seja, admitindo a aplicação da Tabela Price e, por conseguinte, a prática da capitalização de juros no contrato firmado com a recorrida, que não é instituição financeira integrante do Sistema Financeiro Nacional, o v. acórdão hostilizado contraria frontalmente o citado artigo" (fl. 229).
+No agravo (fls. 264-274), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta presentada (fls. 277-281).
+É o relatório.
+Decido.
+O Tribunal de origem entendeu que (fl. 191):
+Não verificada qualquer abusividade no caso em tela. Pretendida substituição do índice IGP-M que é legal e não cabe ser revisto, no caso, pois foi livremente negociado pelas partes. Precedentes do STJ e desta E. 3ª Câmara de Direito Privado.
+E ainda (fl. 211):
+Não obstante, quanto à forma de amortização dos juros, ressalta-se que a aplicação da Tabela Price é admitida. Confira-se, nesse sentido, o seguinte julgado deste Tribunal de Justiça:
+"(..) a utilização da Tabela Price não é vedada. Mesmo em se tratando de juros compostos, não significa prática usurária e, muito menos, exploração do devedor. Não se provou, de outra sorte, que signifique mesmo prática de anatocismo.
+Modificar o entendimento do acórdão impugnado quanto à legalidade da utilização da tabela price, nesta hipótese, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor das Súmulas n. 5 e 7 do STJ.
+Por fim, esta Corte tem entendimento no sentido de que a incidência das Súmulas n. 5 e 7 do STJ impede o exame do dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo, observada a gratuidade de justiça concedida.
+Publique-se e intimem-se.
+EMENTA
