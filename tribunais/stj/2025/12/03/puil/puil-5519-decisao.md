@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de pedido de uniformização de interpretação de lei, manejado por MARIA ROSARIA DALLA COSTA FLORES, com fulcro no art. 18, § 3º, da Lei n. 12.153/2009, contra acórdão prolatado pela Terceira Turma Recursal da Fazenda Pública do TJFRS assim ementado (e-STJ fl. 528):
+RECURSO INOMINADO. TERCEIRA TURMA RECURSAL DA FAZENDA PÚBLICA. MUNICÍPIO DE SÃO MARTINHO DA SERRA. SERVIDOR PÚBLICO. AUXILIAR DE SERVIÇOS GERAIS.
+PERCEPÇÃO DO ADICIONAL DE INSALUBRIDADE EM GRAU MÁXIMO. PAGAMENTO RETROATIVO A DATA DE ELABORAÇÃO DO LAUDO TÉCNICO.
+REMUNERAÇÃO INFERIOR AO SALÁRIO MÍNIMO. INOCORRÊNCIA. SÚMULA VINCULANTE Nº 16 DO STF. SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. RECURSO INOMINADO DESPROVIDO.
+A parte requerente aduz, em síntese, que o aresto combatido diverge do julgado proferido pela Turma Nacional de Uniformização, pois "a existência de laudo técnico administrativo válido anterior já atestando a insalubridade (mesmo em grau menor) é suficiente para afastar a presunção de salubridade e permitir o pagamento retroativo do adicional devido, inclusive com possível majoração posterior mediante confirmação pericial judicial" (e-STJ fl. 17).
+Passo a decidir.
+Dispõem os arts. 18, §§ 1º, 2º e 3º , e 19 da Lei n. 12.153/2009:
+Art. 18. Caberá pedido de uniformização de interpretação de lei quando houver divergência entre decisões proferidas por Turmas Recursais sobre questões de direito material.
+§ 1º O pedido fundado em divergência entre Turmas do mesmo Estado será julgado em reunião conjunta das Turmas em conflito, sob a presidência de desembargador indicado pelo Tribunal de Justiça.
+§ 2º No caso do § 1º, a reunião de juízes domiciliados em cidades diversas poderá ser feita por meio eletrônico.
+§ 3º Quando as Turmas de diferentes Estados derem a lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade com súmula do Superior Tribunal de Justiça, o pedido será por este julgado.
+Art. 19. Quando a orientação acolhida pelas Turmas de Uniformização de que trata o § 1º do art. 18 contrariar súmula do Superior Tribunal de Justiça, a parte interessada poderá provocar a manifestação deste, que dirimirá a divergência.
+Consoante previsto nos referidos dispositivos, bem como no art. 67, parágrafo único, VIII-A, do RISTJ, o pedido de interpretação de lei submetido ao crivo do Superior Tribunal de Justiça, no âmbito dos Juizados Especiais da Fazenda Pública, somente é cabível - em questão de direito material - em três hipóteses: (i) quando as Turmas Recursais dos Juizados Especiais de Fazenda Pública de diferentes Estados derem a lei federal interpretações divergentes; (ii) quando a decisão proferida estiver em contrariedade com súmula do STJ; (iii) quando a Turma de Uniformização contrariar súmula desta Corte.
+Feito esse registro, tenho que o presente pedido não deve ser conhecido.
+Conforme a jurisprudência do STJ, deve-se demonstrar a divergência mediante: juntada de certidão ou de cópia autenticada do acórdão paradigma, ou, em sua falta, da declaração pelo advogado da autenticidade del as; citação de repositório oficial, autorizado ou credenciado, em que o acórdão divergente foi publicado; cotejo analítico, com a transcrição dos trechos dos votos nos quais se funda a divergência, além da demonstração das circunstâncias que identificam ou que assemelham os casos confrontados.
+A propósito:
+PROCESSO CIVIL E ADMINISTRATIVO. INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. ART. 18, § 3º, DA LEI N. 12.153/2009. JUIZADO ESPECIAL. FAZENDA PÚBLICA. SERVIDOR.MAGISTÉRIO ESTADUAL. PROMOÇÃO. PRESCRIÇÃO. DISSÍDIO NÃO COMPROVADO. INOBSERVÂNCIA DE REQUISITOS FORMAIS.
+1. Nos termos do artigo 12, § 4º do Provimento nº 7/2010 do Conselho Nacional de Justiça, para a comprovação do Incidente de Uniformização de Jurisprudência faz-se necessária a realização da prova da divergência "mediante certidão, cópia do julgado ou pela citação do repositório de jurisprudência, oficial ou credenciado, inclusive em mídia eletrônica, em que tiver sido publicada a decisão divergente, ou seja, pela reprodução de julgado disponível na internet, com indicação da respectiva fonte, mencionando, em qualquer caso, as circunstâncias que identifiquem ou assemelhem os casos confrontados".
+2. Na espécie, o agravante não se desincumbiu do ônus de realizar o necessário cotejo analítico entre os julgados postos em confronto, o que impede o conhecimento do incidente. 3. Agravo regimental não provido. (AgRg na Pet 10.598/AC, Relator Ministro BENEDITO GONÇALVES, S1 - PRIMEIRA SEÇÃO Data do Julgamento 22/10/2014, DJe 29/10/2014).
+Na espécie, a requerente não apresentou precedentes das Turmas Recursais dos Juizados Especiais da Fazenda Pública de diferentes unidades federadas, tampouco indicou afronta à súmula desta Corte.
+Ante o exposto, com base no art. 34, XVIII, "a", do RISTJ, NÃO CONHEÇO do pedido de uniformização.
+Publique-se. Intimem-se.
+EMENTA
