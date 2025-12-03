@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo manejado pelo Loteamento Jardim Pérola Paulista - Borborema SPE Ltda. contra decisão q ue não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 687):
+AÇÃO INDENIZATÓRIA Autorização para realização de loteamento em terreno localizado no Município de Borborema - Anulação do ato administrativo - Risco do negócio Decreto já julgado válido no processo nº 1000120-92.2018.8.26.0067 - Configurado cerceamento do direito de defesa da empresa autora, uma vez que requereu expressamente a produção de provas relevantes para o deslinde da causa - Recurso provido.
+Opostos embargos declaratórios, foram rejeitados (fls. 702/704).
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 369 e 1.022 do CPC; 43, 186, 187 e 927 do CC. Sustenta que: (I) o acórdão recorrido padece de contradição; e (II) o Município agravado deve ser responsabilizado pelos danos apontados na peça vestibular, ressaltando que "a ilicitude praticada pela Recorrida é representada através da constatação de nítido venire contra factum proprium." (fl. 716).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não prospera.
+No tocante ao tema relacionado aos danos alegados, não cabe falar em ofensa ao art. 1.022 do CPC. Isso porque, nos termos da jurisprudência do Superior Tribunal de Justiça, a contradição sanável por meio dos embargos de declaração é aquela interna ao julgado embargado - por exemplo, a incompatibilidade entre a fundamentação e o dispositivo da própria decisão. Em outras palavras, o parâmetro da contrariedade não pode ser externo, como outro acórdão, ato normativo ou prova. Confiram-se, a propósito, os seguintes precedentes: AgInt no AgInt no AREsp n. 2.411.608/SP, relator Ministro Gurgel de Faria, Primeira Turma,, DJe de 27/5/2024; EDcl no AgInt nos EDcl no REsp n. 1.698.201/CE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJe de 20/5/2024; EDcl no REsp n. 1.469.545/SC, relator Ministro Afrânio Vilela, Segunda Turma, DJe de 29/2/2024.
+Quanto ao mais, nota-se que o acórdão recorrido anulou a sentença de piso a fim de que sejam produzidas as provas requeridas nos autos. Confira-se (fls. 691/692):
+De fato, há indícios de que a empresa teria recebido aval inicial do Município de Borborema, seja pela concessão de licenças ambientais, seja pela aprovação do projeto de loteamento apresentado ao Departamento de Engenharia da Prefeitura.
+Contudo, ao final, entendeu adequadamente o Poder Público pela não aprovação do empreendimento (ou por sua anulação), tendo em vista a existência de uma pedreira ao lado do terreno a ser utilizado para a realização do loteamento.
+Nota-se, assim, que não há mesmo qualquer dúvida quanto à validade e adequação do decreto municipal que "anulou" ou "não aprovou" o referido loteamento.
+Apesar disso, há indícios de que o poder público deu sinais à empresa autora no sentido de que aprovaria o loteamento. Basta verificar os documentos de fls. 25/30 que se referem ao pedido de autorização para loteamento, sendo seguido de aprovação pelo Departamento de Engenharia e, após, pela concessão de licenças ambientais para a implantação do empreendimento no local.
+Nesse contexto, há que se verificar se os atos praticados pelo Município eram preparatórios de eventual aprovação ou se, de fato, constituíram-se em comportamento de quem viria a aprovar o loteamento.
+Por isso, tem razão a apelante ao sustentar que teria havido cerceamento no seu direito de defesa, pois o feito foi julgado antecipadamente, sem que nenhuma prova tenha sido produzida.
+Para aferir exatamente qual o comportamento da Municipalidade, era necessária a instrução do processo, o que não ocorreu.
+Nesse contexto, nota-se que o Tribunal de origem, por entender necessária a retomada da fase instrutória do processo, não apreciou a controvérsia com enfoque nos arts. 43, 186, 187 e 927 do CC; e 369 do CPC. Assim, não se conhece da insurgência, nesse ponto, ante a falta do necessário prequestionamento.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
