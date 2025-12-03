@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de MARCIA CRISTIANE GULIN, contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado (fls. 9-10):
+ ..
+RECURSO DE APELAÇÃO MARCIA CRISTIANE GULIN. ESTELIONATO (ART. 171, CAPUT, DO CÓDIGO PENAL) PRATICADO 6X. SENTENÇA CONDENATÓRIA. RECURSO DEFENSIVO. PRELIMINAR - ALEGAÇÃO DE NULIDADE EM DECORRÊNCIA DE DEFICIÊNCIA DE DEFESA TÉCNICA. RÉU DEVIDAMENTE ASSISTIDO POR DEFENSOR, EXERCENDO PLENAMENTE O CONTRADITÓRIO E AMPLA DEFESA. DESCONTENTAMENTO COM A ESTRATÉGIA ADOTADA PELO ANTIGO PATRONO QUE NÃO CARACTERIZA DEFICIÊNCIA DE DEFESA TÉCNICA. ADEMAIS, TRATA-SE DE NULIDADE RELATIVA, QUE DEPENDE DE DEMONSTRAÇÃO, DE FORMA CONCRETA, DE PREJUÍZO OCASIONADO. EXEGESE DA SÚMULA 523/STF. PREJUÍZO NÃO DEMONSTRADO. PRELIMINAR AFASTADA. MÉRITO - PLEITO DE ABSOLVIÇÃO EM RAZÃO DA AUSÊNCIA DE DOLO. MATERIALIDADE E AUTORIA DO DELITO DEVIDAMENTE DEMONSTRADOS. CONJUNTO PROBATÓRIO ROBUSTO QUE EVIDENCIA O DOLO DA ACUSADA NA PRÁTICA DO DELITO DE ESTELIONATO. DELITO PERPETRADO EM CO-AUTORIA. PALAVRA DA VÍTIMA QUE TEM RELEVÂNCIA PROBATÓRIA AINDA MAIS QUANDO ALIADA ÀS DEMAIS PROVAS PRODUZIDAS. CONDENAÇÃO MANTIDA. DOSIMETRIA - REQUER O RECONHECIMENTO DO CONCURSO FORMAL DO ART. 70 DO CÓDIGO PENAL. IMPOSSIBILIDADE. RÉ PRATICOU NUMEROSAS CONDUTAS. RECURSO CONHECIDO E DESPROVIDO.
+Consta dos autos que o Tribunal de origem, ao julgar as apelações interpostas por MARCIA CRISTIANE GULIN e por DIONIVAN PIRES DE OLIVEIRA, manteve integralmente a sentença condenatória que os condenou pelo crime de estelionato (art. 171, caput, do Código Penal), por seis vezes, na forma do art. 69 do mesmo diploma, fixando idênticas penas de 8 anos e 3 meses de reclusão, em regime inicial fechado, e 84 dias-multa.
+A defesa informa que, após o trânsito em julgado, o Juízo da 12ª Vara Criminal de Curitiba expediu mandado de prisão, sem que, até o momento da impetração, tivesse sido expedida a carta de guia para início da execução penal.
+No presente writ, o impetrante sustenta que é competência do Juízo da Execução, nos termos do art. 66, III, f, da Lei de Execução Penal, decidir sobre incidentes da execução, destacando que a paciente pretende formular pedido de prisão domiciliar humanitária, o que está obstado pela ausência de expedição da guia de execução.
+Requer liminarmente a suspensão do mandado de prisão expedido até que o Juízo competente aprecie o pedido a ser formulado na execução penal. No mérito, requer a concessão da ordem para suspender o início do cumprimento da pena e determinar ao Juízo de origem a imediata expedição da guia de execução penal.
+É o relatório.
+DECIDO.
+Verifica-se que o habeas corpus foi impetrado contra decisão monocrática do juízo de primeiro grau, não tendo havido o devido exaurimento da instância antecedente, uma vez que o Tribunal de origem sequer foi acionado para tratar do tema, o que obsta o conhecimento da impetração .
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO CONTRA DECISÃO DE DESEMBARGADOR QUE INDEFERIU LIMINARMENTE O HC IMPETRADO NA CORTE DE ORIGEM. AUSÊNCIA DE EXAURIMENTO DAS INSTÂNICAS ORDINÁRIAS E DE MANIFESTAÇÃO SOBRE O MÉRITO DO PEDIDO. SUPRESSÃO DE INSTÂNCIA. INTERPOSIÇÃO SIMULTÂNEA DE HABEAS CORPUS E APELAÇÃO. OFENSA AO PRINCÍPIO DA UNIRRECORRIBILIDADE RECURSAL. AUSÊNCIA DE PATENTE ILEGALIDADE NA DECISÃO QUE INDEFERIU LIMINARMENTE A IMPETRAÇÃO. AGRAVO REGIMENTAL IMPROVIDO.
+1. A competência do STJ para examinar habeas corpus, na forma do art. 105, I, "c", da CF, somente é inaugurada quando a decisão judicial atacada tiver sido proferida por Tribunal, o que implica na exigência de exaurimento prévio da instância ordinária, com manifestação do órgão colegiado. Precedentes do STJ. Situação em que o habeas corpus aqui impetrado se volta contra decisão monocrática de Relator.
+2. Não se revela teratológica a decisão do Desembargador Relator do habeas corpus impetrado na Corte de origem por entender que "o habeas corpus não deve ser utilizado como via substitutiva de recursos previstos em lei, no caso a apelação criminal, até porque a utilização do writ como sucedâneo de recurso próprio avilta o princípio do amplo contraditório, porque suprimidas as etapas previstas para o recurso cabível".
+3. A ausência de prévia deliberação sobre o mérito da controvérsia pelas instâncias ordinárias impede a manifestação desta Corte a respeito do tema, sob pena de indevida supressão de instância.
+ ..
+5. Agravo regimental desprovido.
+(AgRg no HC n. 947.602/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 4/11/2024, DJe de 6/11/2024.)  grifei
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
