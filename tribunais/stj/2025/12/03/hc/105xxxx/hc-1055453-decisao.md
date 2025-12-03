@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de PEDRO HENRIQUE MOREIRA AMANCIO contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que denegou a ordem lá impetrada.
+O paciente teve prisão preventiva decretada pela suposta prática do delito de tráfico de drogas.
+Sustenta a defesa que a decisão que manteve o cárcere do réu é desproporcional e padece de fundamentação idônea, pois invoca expressões genéricas como "garantia da ordem pública" e "perigo de reiteração delitiva", sem indicar elementos concretos que demonstrem tais risco e a mera referência à gravidade abstrata do tráfico de drogas não basta para justificar prisão cautelar.
+Requer, liminarmente e no mérito, a revogação da prisão do paciente, facultando-se a aplicação de medidas cautelares diversas (art. 319 do CPP).
+É o relatório.
+A Quinta Turma do Superior Tribunal de Justiça firmou entendimento no sentido de ser inadequada a impetração de habeas corpus quando utilizado em substituição a recurso próprio.
+A teor do disposto no art. 105, II, a, da CF/88, o recurso cabível contra acórdão que denega a ordem na origem é o recurso ordinário, enquanto, consoante previsto no art. 105, III, da CF, o recurso cabível contra acórdão que julga apelação, recurso em sentido estrito e agravo em execução é o recurso especial.
+Nada impede, contudo, a concessão de habeas corpus de ofício quando constatada a existência de ilegalidade flagrante, abuso de poder ou teratologia, nos termos do art. 654, §2º, do CPP, o que ora se passa a examinar.
+A prisão preventiva justifica-se apenas quando devidamente demonstrada sua imprescindibilidade para a preservação da ordem pública, a garantia da regularidade da instrução criminal ou a asseguração da eficácia da aplicação da lei penal, nos termos do art. 312 do Código de Processo Penal.
+O decreto prisional foi assim fundamentado (fl. 67-68):
+ ..
+Conforme narrado pelos Guardas Municipais que apresentaram a ocorrência, o indiciado foi avistado em atitudes suspeitas na via pública, portando uma bolsa. Ao perceber que seria abordado, empreendeu fuga, sendo perseguido e alcançado no interior de um matagal. Em sua posse foram localizadas 92 porções de cocaína, 48 porções de crack, 17 porções de maconha, R$ 49,00 em dinheiro e um aparelho celular (Laudo de fls. 16/21).
+Diante dos fatos, foi dada voz de prisão ao indiciado, que foi conduzido à Delegacia de Polícia, onde a autoridade policial ratificou a prisão em flagrante, considerando a quantidade de substância entorpecentes apreendidas e os demais elementos indicativos da prática do tráfico.
+Presentes os requisitos do artigo 312 do Código de Processo Penal, a prisão preventiva se mostra necessária para garantia da ordem pública, diante da gravidade concreta dos fatos, da natureza e quantidade das substâncias apreendidas, e do risco de reiteração delitiva.
+O crime de tráfico de drogas é equiparado a hediondo, nos termos do artigo 5º, inciso XLIII, da Constituição Federal, e é punido com pena máxima superior a quatro anos, o que autoriza a decretação da prisão preventiva, conforme o artigo 313, inciso I, do CPP.
+Ademais, o indiciado é reincidente específico, circunstância que impede, neste momento, a aplicação do § 4º do artigo 33 da Lei nº 11.343/2006, que prevê causa de diminuição de pena para o agente primário, de bons antecedentes e não envolvido com organizações criminosas.
+As medidas cautelares diversas da prisão não se mostram suficientes para conter a reiteração delitiva e assegurar a paz social, sendo a prisão cautelar a medida que melhor se amolda ao caso.
+Diante do exposto, converto a prisão em flagrante em prisão preventiva de PEDRO HENRIQUE MOREIRA AMANCIO, nos termos dos artigos 312 e 313, I, do Código de Processo Penal.
+Expeça-se o competente mandado de prisão preventiva.
+Verifica-se que a prisão preventiva foi decretada mediante fundamentação idônea, pela natureza e quantidade de drogas apreendidas (17 porções de Cannabis sativa L, vulgarmente conhecida como "maconha", com peso líquido aproximado de 9,9g, 92 porções de cocaína, com peso líquido aproximado de 121,4g e 48 porções de cocaína, na forma de "crack", com peso líquido aproximado de 13,0g (fl. 84), o que evidencia a gravidade concreta do delito, bem como pela reincidência específica do paciente.
+Nos casos de prisão em flagrante por tráfico de drogas, a conversão em prisão preventiva pode ser decretada quando a gravidade concreta da conduta se evidencia em fatores como a quantidade e a natureza da substância apreendida, a forma de acondicionamento ou a presença de instrumentos destinados à comercialização, circunstâncias que revelam maior potencial lesivo da conduta e indicam periculosidade do agente, ultrapassando a mera gravidade abstrata do delito.
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. CRIMES DE TRÁFICO DE DROGAS E ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO. ALEGAÇÃO DE INOCÊNCIA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. GRANDE QUANTIDADE DE DROGAS. INDÍCIOS DE ENVOLVIMENTO REITERADO. GRAVIDADE CONCRETA DA CONDUTA. SEGREGAÇÃO DEVIDAMENTE JUSTIFICADA PARA A GARANTIA DA ORDEM PÚBLICA. DESPROPORÇÃO EM RELAÇÃO À POSSÍVEL PENA A SER APLICADA. PROGNÓSTICO INVIÁVEL. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. RECURSO NÃO PROVIDO.
+ .. .
+4. Ademais, "É pacífico o entendimento no sentido de que as circunstâncias fáticas do crime, como a quantidade apreendida, a variedade, a natureza nociva dos entorpecentes, a forma de acondicionamento, entre outros aspectos, podem servir de fundamentos para o decreto prisional quando evidenciarem a periculosidade do agente e o efetivo risco à ordem pública, caso permaneça em liberdade."(AgRg no HC n. 787.386/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/12/2022, DJe 19/12/2022).
+ ..
+7. Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando evidenciada a sua insuficiência para acautelar a ordem pública.
+8. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 957.245/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 12/2/2025, DJEN de 18/2/2025.)
+Ainda, esta Corte Superior firmou orientação no sentido de que a prisão preventiva poderá ser decretada ante o risco concreto de reiteração delitiva, evidenciada na presença de maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo ações penais em andamento, porquanto indicativos de periculosidade. Veja-se:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. RÉU CONDENADO POR ROUBO MAJORADO. NEGATIVA DE RECURSO EM LIBERDADE. FUNDAMENTAÇÃO. PERICULOSIDADE DO AGENTE. REITERAÇÃO DELITIVA. SEGREGAÇÃO DEVIDAMENTE JUSTIFICADA PARA A GARANTIA DA ORDEM PÚBLICA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. RECURSO NÃO PROVIDO.
+ ..
+3. Conforme pacífica jurisprudência desta Corte, "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (RHC n. 107.238/GO, Relator Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 26/2/2019, DJe 12/3/2019). Prisão preventiva, no caso vertente, devidamente justificada para a garantia da ordem pública, nos termos do art. 312 do CPP, visando frear a reiteração delitiva.
+ ..
+7. Agravo regimental a que se nega provimento. (AgRg no RHC n. 187.651/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/9/2024, DJe de 12/9/2024.)
+Quando presentes os requisitos do art. 312 do CPP, a imposição da prisão preventiva é medida de rigor, independentemente de condições pessoais favoráveis do agente, mostrando-se inadequadas medidas cautelares diversas do art. 319, quando a custódia provisória apresentar fundamentação concreta.
+Nesse sentido, " a  presença de condições pessoais favoráveis não impede a imposição da prisão preventiva, quando presentes os requisitos legais" (AgRg no HC n. 990.311/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/4/2025, DJEN de 30/4/2025).
+Ademais, "tendo sido exposta de forma fundamentada e concreta a necessidade da prisão, revela-se incabível sua substituição por outras medidas cautelares mais brandas" (AgRg no HC n. 965.960/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/3/2025, DJEN de 10/3/2025).
+Por fim, é descabida a alegação de desproporcionalidade da prisão cautelar, com base em futura e hipotética condenação a ser cumprida em regime mais brando, haja vista que o juízo só poderá dosar a pena e fixar o respectivo regime após o encerramento da instrução criminal. Não é possível antecipar tal análise em habeas corpus, por se exigir prévia produção de prova.
+Não há, portanto, flagrante ilegalidade que justifique a concessão da ordem de ofício.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
