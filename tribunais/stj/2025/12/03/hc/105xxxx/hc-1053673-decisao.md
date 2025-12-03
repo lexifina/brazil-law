@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de LUIZ JUMES, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DE SANTA CATARINA, que negou provimento ao agravo regimental interposto contra decisão que denegou a ordem no habeas corpus originário (n. 5083886-89.2025.8.24.0000/SC), impetrado, por sua vez, contra acórdão do referido Tribunal de Justiça nos autos do recurso de apelação n. 0000959-31.2019.8.24.0011/SC.
+Consta dos autos que o paciente foi condenado à pena de 2 anos e 8 meses de reclusão, em regime inicial semiaberto, e 21 dias-multa, pela prática do crime previsto no art. 333, caput, do Código Penal. A apelação defensiva foi conhecida e desprovida pelo Tribunal de origem, que manteve a condenação e a dosimetria. Os embargos de declaração foram rejeitados. O recurso especial não foi admitido por ausência de prequestionamento e por conformidade com a jurisprudência. O agravo em recurso especial interposto perante esta Corte (AREsp n. 2563124/SC) restou desprovido e transitou em julgado.
+O habeas corpus impetrado no TJSC não foi conhecido monocraticamente e o agravo interno interposto foi desprovido, ao fundamento de inadequação da via estreita para revolvimento probatório e ausência de flagrante ilegalidade.
+No presente writ, a impetrante sustenta nulidade das mensagens obtidas por "prints" do WhatsApp Web, por quebra da cadeia de custódia e ausência de perícia, afirmando que a condenação se apoia exclusivamente em capturas de tela não autenticadas e sem identificação do número de origem, além de contradições nos depoimentos. Registra, ainda, que o celular do paciente teria sido furtado antes dos fatos e que não houve diligências para confirmar autoria e autenticidade das mensagens.
+Requer liminarmente a suspensão do processamento da Ação Penal n. 0000959-31.2019.8.24.0011 e da iminente expedição de mandado de prisão até o julgamento definitivo do writ. No mérito, requer a concessão da ordem para declarar a nulidade e desentranhar as mensagens obtidas por print do WhatsApp Web, reconhecer a ilicitude das provas e absolver o paciente por ausência de prova válida; subsidiariamente, afastar a valoração negativa dos antecedentes, substituir a pena por restritivas de direitos e fixar o regime inicial aberto.
+É o relatório.
+O acórdão proferido no AREsp n. 2563124/SC, interposto contra decisão do Tribunal de origem que inadmitiu o REsp interposto contra o recurso de apelação n. 0000959-31.2019.8.24.0011/SC, transitou em julgado em 22/10/2025.
+Em que pese o presente habeas corpus tenha por objeto a decisão do TJSC que não conheceu do writ anterior, verifica-se que, em verdade, pretende rediscutir matéria já definitivamente apreciada e acobertada pela coisa julgada, já decidida nos autos da referida ação penal.
+Assim, ainda que se indique como ato coator decisão que não conheceu de habeas corpus anterior, subsiste o caráter substitutivo de recurso próprio (recurso ordinário, recurso especial, agravo em execução ou revisão criminal), porquanto o que se busca é, em última análise, desconstituir decisão judicial transitada em julgado, o que não se admite na via estreita do habeas corpus.
+Com efeito, nos termos da jurisprudência desta Corte, não deve ser conhecido o writ que se volta contra acórdão proferido por Tribunal estadual já transitado em julgado.
+Nesse sentido, cito, ainda, os seguintes precedentes:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO CONHECIMENTO. TRÂNSITO EM JULGADO DA CONDENAÇÃO. SUPRESSÃO INSTÂNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu do habeas corpus, impetrado contra acórdão do Tribunal de origem já transitado em julgado.
+2. O agravante pleiteia a extinção da punibilidade pela decadência do crime-fim tributário, com base no princípio da consunção, ou, subsidiariamente, a aplicação do princípio da insignificância, reconhecendo a atipicidade material do comportamento.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se é possível a impetração de habeas corpus no Superior Tribunal de Justiça contra acórdão transitado em julgado, como substitutivo de revisão criminal.
+4. Outra questão é saber se há possibilidade de concessão de habeas corpus para declarar a extinção da punibilidade ou aplicar o princípio da insignificância, diante do trânsito em julgado da decisão condenatória.
+III. Razões de decidir
+5. O Superior Tribunal de Justiça não possui competência para processar e julgar habeas corpus contra acórdão transitado em julgado, uma vez que a competência se restringe à revisão criminal de seus próprios julgados.
+6. A decisão agravada não apresenta teratologia ou coação ilegal que justifique a concessão da ordem de habeas corpus.
+7. A jurisprudência do STJ estabelece que nulidades absolutas ou falhas no acórdão impugnado devem ser arguidas em momento oportuno, sujeitando-se à preclusão temporal.
+8. A Corte de origem não se pronunciou sobre os temas expostos na impetração, impedindo o STJ de se debruçar sobre as matérias, sob pena de supressão de instância.
+IV. Dispositivo e tese
+9. Agravo regimental não provido.
+Tese de julgamento: "1. O STJ não possui competência para processar e julgar habeas corpus contra acórdão transitado em julgado, sendo a revisão criminal o meio adequado. 2. Nulidades absolutas ou falhas devem ser arguidas em momento oportuno, sujeitando-se à preclusão temporal. 3. O STJ não pode se debruçar sobre matérias não apreciadas pela Corte de origem, sob pena de supressão de instância."
+Dispositivos relevantes citados: CF/1988, art. 105, I, "e"; CPP, art. 654, § 2º. Jurisprudência relevante citada: STJ, HC 288.978/SP, Sexta Turma, Rel. Min. Sebastião Reis Júnior, Rel. para acórdão Min. Rogerio Schietti Cruz, DJe 21/5/2018; STJ, AgRg no HC 486.185/SP, Quinta Turma, Rel. Min. Jorge Mussi, DJe 07/05/2019; STF, AgRg no HC 134.691/RJ, Primeira Turma, Rel. Min. Alexandre de Moraes, DJe 1º/8/2018.
+(AgRg no HC n. 916.691/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 12/3/2025, DJEN de 19/3/2025; grifos acrescidos.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ATO APONTADO COMO COATOR TRANSITADO EM JULGADO. MATÉRIA NÃO EXAMINADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. REVISÃO CRIMINAL. AÇÃO AUTÔNOMA CABÍVEL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. "A impetração de habeas corpus, após o trânsito em julgado da condenação e com a finalidade de reconhecimento de eventual ilegalidade na colheita de provas, é indevida e tem feições de revisão criminal" (AgRg nos EDcl no HC n. 633.625/AC, Rel. Ministro João Otávio de Noronha, 5ª T., DJe de 8/8/2022).
+2. É vedada a inauguração, em habeas corpus, de tese defensiva não alegada e não debatida na via ordinária.
+3. A competência do STJ para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados. A defesa busca, diretamente perante esta Corte Superior, a desconstituição do trânsito em julgado da apelação, a fim de que seja reconhecida a nulidade das buscas veicular e pessoal ou que a pena do réu seja readequada. Não há como conhecer da impetração, por não ser o STJ o órgão competente para examinar o pleito. Ademais, a tese de ilicitude das buscas não foi previamente examinada pelas instâncias ordinárias, outra razão para obstar sua apreciação por este Tribunal Superior, a fim de não incidir em supressão de instância.
+4. Agravo regimental não provido.
+(AgRg no HC n. 939.672/SC, relator Ministro Rogério Schietti Cruz, Sexta Turma, julgado em 16/10/2024, DJe de 23/10/2024; grifos acrescidos.)
+Por fim, como o habeas corpus foi impetrado nesta Corte após o trânsito em julgado do acórdão que julgou definitivamente a questão que se busca rediscutir, tem-se por inviável o seu conhecimento, inexistindo ilegalidade flagrante a ser sanada, especialmente quando a questão é coberta pelo manto da coisa julgada e da preclusão e não há indicação de incidência de alguma das hipóteses previstas no art. 621 do Código de Processo Penal.
+Ante o exposto, não conheço d o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
