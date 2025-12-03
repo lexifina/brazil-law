@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo interposto por APP ADMINISTRAÇÃO PATRIMONIAL SA contra decisão que inadmitiu o recurso especial pelos seguintes fundamentos: (a) inexistência de negativa de prestação jurisdicional, e (b) incidência da Súmula n. 7/STJ (fls. 1.152-1.154).
+O acórdão recorrido encontra-se assim ementado (fl. 1.025):
+APELAÇÃO - EMBARGOS DE TERCEIROS - COEXECUTADOS QUE ADQUIRIRAM A ESTATAL CTU EM MARÇO DE 2000 E A ALIENARAM EM DEZEMBRO DO MESMO ANO, LOGO APÓS O AJUIZAMENTO DA AÇÃO PELO CREDOR, EM PATENTE FRAUDE À EXECUÇÃO - EMPRESA QUE PASSOU, AINDA, POR OUTRAS ALTERAÇÕES SOCIETÁRIAS EM CURTO ESPAÇO DE TEMPO, PARA ENTÃO SEREM ADQUIRIDAS PELOS EMBARGANTES EM 2005, APÓS A DECISÃO DE DESCONSIDERAÇÃO DA PERSONALIDADE JURIDICA, OCORRIDA EM 2004 - PESSOAS FÍSICAS QUE NÃO COMPROVAM QUE DETINHAM RENDA A ÉPOCA PARA ADQUIRIREM AS QUOTAS DA EMPRESA PRIVATIZADA, ÔNUS QUE LHES COMPETIA, ART. 373, I, DO CPC - MODULAÇÃO, ENTRETANTO, EM RESPEITO AOS PRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE - PENHORA DE QUOTAS LIMITADA AO VALOR DA OBRIGAÇÃO EM MARÇO DE 2002, COM DEDUÇÃO DO MONTANTE OBTIDO COM A ARREMATAÇÃO DE IMÓVEIS DOS DEVEDORES - SALDO REMANESCENTE EM MARÇO DE 2002 PASSÍVEL DE ATUALIZAÇÃO PELA TABELA PRÁTICA DO TRIBUNAL, AFASTADOS OS JUROS MORATÓRIOS - RECURSO PARCIALMENTE PROVIDO.
+Os embargos de declaração foram rejeitados (fls. 1.066-1.073).
+Nas razões do recurso especial (fls. 1080-1.090), interposto com fundamento no art. 105, III, "a", da CF, a parte recorrente alegou violação dos seguintes dispositivos legais:
+(i) art. 1.022, II, do CPC, por negativa de prestação jurisdicional, apontando que "em razão do desfecho do v. acórdão aqui recorrido, que limitou a penhora das cotas, foram opostos embargos de declaração, para que fosse sanada a omissão quanto à ausência de pedido nesse sentido" (fl. 1.086),
+(ii) arts. 141 e 492 do CPC, afirmando que "em não tendo havido qualquer pedido nesse sentido (limitação do alcance da penhora, ante, a . algum possível excesso), seja nos próprios embargos de terceiro manejados, seja no recurso de apelação dos Recorridos, houve julgamento ultra petita, eis que foi dado aos Recorridos resultado acima de suas pretensões, tendo sido concedido mais do que foi de fato pedido" (fl. 1.088), e
+(iii) art. 874, I, do CPC, sustentando que "nos embargos de terceiro os Recorridos não poderiam arguir o excesso de penhora. Primeiro porque não seria a via adequada. Segundo porque eventual pedido de limitação dos efeitos da penhora, eventual alegação/pedido de reconhecimento de excesso de penhora, somente seria cabível em momento futuro e oportuno, ou seja, após a avaliação dos bens constritos/cotas penhoradas" (fl. 1.089).
+No agravo (fls. 1.157-1.169), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (fls. 1.198-1.208).
+É o relatório.
+Decido.
+Inexiste afronta ao art. 1.022 do CPC quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+O Tribunal de origem assim se manifestou (fl. 1.072):
+E a modulação fora determinada a fim de se evitar enriquecimento sem causa, sendo inadmissível venha o exequente a apossar-se do correspondente da dívida em cotas da empresa privatizada, olvidando-se de abater o valor recebido com arrematação de imóveis performatada em 2002.
+Inocorre julgamento ultra petita, quando os autores dos embargos de terceiro pugnam pelo afastamento integral da penhora de cotas e essa foi limitada ao valor devido, uma vez que quem pede mais, pede menos, a maiori, ad minus .
+Desse modo, não assiste razão à parte, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente a seus interesses, não incorrendo em nenhum dos vícios previstos no art. 1.022 do CPC.
+Não há falar em julgamento ultra petita. Ao decidir a demanda, o TJSP afastou motivadamente a aplicação da tese indicada pelo recorrente (fl. 1.072).
+A própria delimitação constante do acórdão evidencia a natureza restritiva da providência, nos seguintes termos: "limita-se a penhora de quotas até o montante correspondente ao valor da execução para março de 2002, deduzido do montante de R$ 1,8 milhão, referente à arrematação de imóveis ocorrida à época, sendo o saldo remanescente corrigido pela Tabela Prática do Tribunal desde então, afastados os juros moratórios, permitida, ainda, a atualização do valor das quotas pelo mesmo fator de atualização" (fls. 1030 e 1031). Não há condenação em quantidade superior, nem em objeto diverso, mas adequação da constrição à medida do crédito, contida no espectro do pedido de afastamento da penhora.
+A apreciação do pleito, dentro dos limites apresentados na petição inicial ou nas razões recursais, mesmo que não tenha sido expressamente requerida na parte relativa aos pedidos, não revela julgamento ultra ou extra petita. Nesse sentido, o seguinte precedente:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. JULGAMENTO "ULTRA/EXTRA PETITA". DECISÃO SURPRESA. REFORMATIO IN PEJUS INEXISTÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. FALTA DE PREQUESTIONAMENTO. DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão monocrática que negou provimento a recurso.
+II. Razões de decidir
+2. A apreciação do pleito, dentro dos limites apresentados pelas partes, na petição inicial ou nas razões recursais, mesmo que não tenha havido requerimento expresso na parte relativa aos pedidos, não revela julgamento ultra ou extra petita.
+3. Reconhecido que a solução da controvérsia se fundamentou em documentos devidamente submetidos ao contraditório pelas partes, não há que se acolher a alegação de violação ao princípio da não surpresa, à vedação da reformatio in pejus ou à ocorrência de julgamento ultra ou extra petita.
+ ..
+III. Dispositivo 7. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 2.569.581/SP, de minha relatoria, Quarta Turma, julgado em 24/2/2025, DJEN de 28/2/2025.)
+A parte recorrente aponta negativa de vigência ao art. 874, I, do CPC, dispositivo legal que disciplina o seguinte:
+Art. 874. Após a avaliação, o juiz poderá, a requerimento do interessado e ouvida a parte contrária, mandar:
+I - reduzir a penhora aos bens suficientes ou transferi-la para outros, se o valor dos bens penhorados for consideravelmente superior ao crédito do exequente e dos acessórios;
+Entretanto, ao aduzir violação à referida norma, a recorrente assevera a inadequação da via eleita, que não guarda qualquer relação com o dispositivo legal tido por afrontado.
+Além disso, a providência adotada no aresto impugnado não dependia de avaliação prévia das cotas, pois não se tratou de verificar se "o valor dos bens penhorados é consideravelmente superior ao crédito", hipótese típica do art. 874, I, do CPC. O que houve foi a delimitação da própria obrigação executada, com abatimento do valor já obtido em arrematação anterior e definição dos critérios de atualização. Trata-se de técnica de conformação do título e da execução ao quantum debeatur, e não de "redução da penhora após avaliação". O acórdão apenas fixou a base temporal (março/2002), a dedução objetiva (R$ 1,8 milhão) e o regime de atualização, sem substituir ou antecipar qualquer ato de avaliação do bem penhorado (fls. 1.030-1.031).
+Neste contexto, observa-se que o referido dispositivo de lei possui comando legal dissociado das razões recursais a ele relacionadas, o que impossibilita a compreensão da controvérsia arguida nos autos, ante a deficiência na fundamentação recursal. Incidente, portanto, a Súmula n. 284/STF.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
