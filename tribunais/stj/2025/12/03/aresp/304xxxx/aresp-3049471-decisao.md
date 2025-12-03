@@ -1,0 +1,43 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto pelo MUNICÍPIO DE NATAL, com fundamento na incidência  da Súmula  83 deste STJ e na ausência de violação do art. 1022 do CPC.
+Em suas razões recursais, a parte agravante sustenta o preenchimento dos requisitos de admissibilidade do recurso especial.
+Contraminuta apresentada.
+É o relatório.
+Passo a decidir.
+Atendidos os pressupostos de conhecimento do agravo, passo à análise do recurso especial, interposto com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Norte, assim ementado:
+DIREITO PROCESSUAL CIVIL. APELAÇÃO EM AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. SENTENÇA DE IMPROCEDÊNCIA DOS PLEITOS À EXORDIAL. ALEGAÇÃO DE ÓBITO POR FALTA DE LEITO DE UTI. NÃO TRANSFERÊNCIA PARA UNIDADE DE TERAPIA INTENSIVA. QUE PERMANECEU EM SITUAÇÃODE CUJUS INADEQUADA DE TRATAMENTO. OMISSÃO ESTATAL VERIFICADA. DEVER DE INDENIZAR CARACTERIZADO. DANO MORAL. VALOR ARBITRADO QUE DEVE OBSERVÂNCIA AOS PRINCÍPIOS DA RAZOABILIDADE E PROPORCIONALIDADE. RECURSO CONHECIDO E PROVIDO (fl. 451).
+Os embargos de declaração foram rejeitados.
+Em suas razões recursais, a parte recorrente alega violação do art. 1.022, I, do CPC, apontando contradição persistente, não sanada nos embargos de declaração.
+Afirma que o acórdão recorrido teria indicado, na fundamentação, nexo causal apenas em relação ao Estado do Rio Grande do Norte, mas condenou também o Município de Natal sem demonstrar o nexo causal específico quanto ao ente municipal.
+O recurso especial tem origem em ação de indenização por danos morais, proposta em razão do falecimento da genitora da autora, após demora na disponibilização de leito de Unidade de Terapia Intensiva (UTI).
+O Tribunal de origem deu provimento à apelação para reformar a sentença de improcedência do pedido, condenando, solidariamente, o Município de Natal e o Estado do Rio Grande do Norte ao pagamento da indenização por danos morais. Vejamos:
+Cinge-se o mérito do presente apelo na análise da sentença que julgou improcedente a pretensão autoral que objetivava indenização por dano moral de R$ 30.000,00 (trinta mil reais), em razão da morte da Sra. Francisca Meire dos Passos Aquino em decorrência da demora no fornecimento de leito de UTI e precária prestação médica.
+ ..
+Ao analisar a responsabilidade do ESTADO DO RIO GRANDE DO NORTE e do MUNICÍPIO DE NATAL, observa-se a presença dos elementos conduta, dano e nexo causal.
+Embora suas manifestações sustentem a ausência de nexo causal - única hipótese que poderia afastar sua responsabilização -, as provas acostadas aos autos indicam o contrário.
+Inequívoco o dano decorrente da morte da Sra. Francisca Meire dos Passos Aquino, mãe da autora da ação.
+A conduta (ação/omissão) pode ser resumida na falha em fornecer os tratamentos e encaminhamentos médicos indicados em tempo hábil. Quanto ao nexo de causalidade, resta claro, de acordo com os encaminhamentos médicos, que a paciente precisava de uma vaga de leito de UTI, contudo, não obteve e faleceu.
+Ainda que não seja possível afirmar categoricamente que um ou ambos esses fatores foram determinantes para a morte da paciente, dizer o contrário também não é possível. Todavia, sabe-se que o leito de UTI era necessário, tendo em vista as solicitações da equipe médica, cuja expertise não está em discussão.
+Portanto, a demora em fornecer os cuidados necessários aumentou o risco de morte da paciente, o que, infelizmente, terminou por acontecer.
+Assim, tem-se que o Estado não logrou êxito em demonstrar a inexistência de nexo de causalidade entre sua conduta e o dano, razão pela, considerando a responsabilidade objetiva determinada pela Constituição Federal, é obrigada a reparar os danos.
+ ..
+Assim, em que pese o entendimento firmado pelo magistrado a quo, vale ressaltar que o médico desde o dia 13/10/2017 solicitou a internação em leito de UTI, o que até a data do falecimento (18/10/20217) não havia ocorrido, restando caracterizada a desídia do Poder Público em assegurar o direito à vida e à saúde da enferma.
+Ademais, importante mencionar que no supracitado dia 13 de outubro, a equipe médica da UPA, solicitou vaga de UTI para a paciente, não obtendo qualquer êxito no pleito. Assim, munida do laudo médico preenchido pelo Dr. Romero M. Catão, CRM 6483, a parte autora procurou assistência na Defensoria Pública do Estado, no dia 16 de outubro de 2017, a fim de que fosse solicitada uma vaga em UTI, que tramitou perante a 4º Vara da Fazenda Pública de Natal, sob o número processual: 0847752-42.2017.8.20.5001.
+Obtendo deferimento no pleito, mas obstado pela demora do Estado em transferir para um leito de UTI, no dia 18 de outubro de 2017 a demandante retornou à sede da Defensoria Pública do Estado para que realizassem o pedido de bloqueio contra o Estado do RN, pela morosidade em cumprir a decisão judicial prolatada no referido processo.
+É sabido que o profissional da saúde não pode assegurar a reabilitação do paciente, porém, a omissão em garantir um digno atendimento ao cidadão que se encontra em estado de saúde fragilizado pode acarretar o óbito, o que, de fato, ocorrera no presente caso.
+Assim, entendo que não prospera a pretensão do ente estatal em afastar sua responsabilidade, pois, conforme precedentes, em casos de óbito por omissão do Poder Público, patenteada a responsabilidade do ente público diante da inobservância do seu dever específico de proteção e garantia da vida e da saúde, razão pela qual deve ser provimento o recurso da parte autora, com a consequente reforma da sentença de primeiro grau de jurisdição.
+No tocante ao dano moral, este decorre da angústia, dor, sentimentos dolorosos pelos quais passou o autor, diante dos fatos ocorridos que culminaram na perda de sua genitora (fls. 453-460).
+Em sede de julgamento de embargos de declaração, a Corte de origem assim se manifestou:
+No caso dos autos, não vislumbro a alegada deficiência apontada pela Recorrente, porquanto o Acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Vejamos trecho do acórdão objurgado:
+Ao analisar a responsabilidade do ESTADO DO RIO GRANDE DO NORTE e do MUNICÍPIO DE NATAL, observa-se a presença dos elementos conduta, dano e nexo causal. Embora suas manifestações sustentem a ausência de nexo causal - única hipótese que poderia afastar sua responsabilização -, as provas acostadas aos autos indicam o contrário. Inequívoco o dano decorrente da morte da Sra. Francisca Meire dos Passos Aquino, mãe da autora da ação. A conduta (ação/omissão) pode ser resumida na falha em fornecer os tratamentos e encaminhamentos médicos indicados em tempo hábil. Quanto ao nexo de causalidade, resta claro, de acordo com os encaminhamentos médicos, que a paciente precisava de uma vaga de leito de UTI, contudo, não obteve e faleceu. Ainda que não seja possível afirmar categoricamente que um ou ambos esses fatores foram determinantes para a morte da paciente, dizer o contrário também não é possível. Todavia, sabe-se que o leito de UTI era necessário, tendo em vista as solicitações da equipe médica, cuja expertise não está em discussão. Portanto, de morte daa demora em fornecer os cuidados necessários aumentou o risco paciente, o que, infelizmente, terminou por acontecer (..)".
+Diante da insurgência da Embargante, vislumbro que a oposição do recurso tem o objetivo de rediscutir a matéria já decidida no corpo da decisão embargada, sendo, a meu entender, desnecessário repisá-la no julgamento dos presentes Embargos de Declaração (fl. 483).
+Quanto à apontada violação ao art. 1.022, I, do CPC, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+Com efeito, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma ampla e fundamentada, suficiente para respaldar a conclusão alcançada.
+Como se vê, a negativa de prestação jurisdicional não restou configurada.
+Vale lembrar que, mesmo à luz do art. 489 do CPC, o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pela parte, mas apenas sobre aqueles capazes de, em tese, infirmar a conclusão adotada.
+Assim, inexiste violação ao art. 1.022, I, do CPC.
+Isso posto, com fundamento no art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo, para negar provimento ao recurso especial.
+Sem condenação em honorários advocatícios recursais em razão da ausência de fixação de honorários advocatícios sucumbenciais pela Corte de origem.
+Intimem-se.
+ EMENTA
