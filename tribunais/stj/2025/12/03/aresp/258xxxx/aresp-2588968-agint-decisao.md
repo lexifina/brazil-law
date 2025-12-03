@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interno interposto contra decisão da Presidência do STJ, que não conheceu do agravo em recurso especial (fls. 569-570).
+Os embargos de declaração foram desprovidos (fls. 585-587).
+Em suas razões (fls. 591-604), a parte agravante alega que impugnou de forma expressa e detalhada o fundamento adotado pelo Tribunal local de que seria aplicável a Súmula n. 83/STJ.
+Ao final, pede a reconsideração da decisão ou a apreciação do agravo pelo Colegiado.
+A parte agravada não apresentou impugnação (fls. 608).
+É o relatório.
+Assiste razão à parte recorrente, motivo pelo qual reconsidero a decisão da Presidência e passo a novo exame do agravo em recurso especial.
+O acórdão recorrido está assim ementado (fl. 413):
+APELAÇÕES CÍVEIS. AÇÃO DE RESOLUÇÃO DE CONTRATO DE COMPRA E VENDA C/C REINTEGRAÇÃO DE POSSE C/C LIMINAR DE PERDAS E DANOS. EXTINÇÃO DA AÇÃO PRINCIPAL E IMPROCEDÊNCIA DA RECONVENÇÃO. RECURSOS DE AMBAS AS PARTES.
+APELO DA AUTORA. AVENTADA PRECLUSÃO DA DESNECESSIDADE DE NOTIFICAÇÃO PREMONITÓRIA. INSUBSISTÊNCIA. ART. 31, § 1º, DA LEI 6.766/79. AUSÊNCIA DE PRESSUPOSTO DE CONSTITUIÇÃO E DESENVOLVIMENTO VÁLIDO E REGULAR DO PROCESSO. QUESTÃO DE ORDEM PÚBLICA. NOTIFICAÇÃO NÃO REALIZADA NOS MOLDES LEGAIS. CITAÇÃO QUE NÃO SUPRE O VÍCIO.
+RECURSO DO RÉU. ALEGADO PREJUÍZO COM O INADIMPLEMENTO CONTRATUAL. AUSÊNCIA DE PROVAS. REPETIÇÃO DE INDÉBITO. INAPLICABILIDADE DO ART. 42 DO CDC. CONDENAÇÃO POR LITIGÂNCIA DE MÁ-FÉ. PRETENSÃO INACOLHIDA.
+SENTENÇA MANTIDA. FIXAÇÃO DE HONORÁRIOS RECURSAIS. RECURSOS DESPROVIDOS.
+Os embargos de declaração foram rejeitados (fls. 441-444).
+Nas razões do recurso especial (fls. 456-472), fundamentado no art. 105, III, "a" e "c", da CF, a parte recorrente apontou dissídio jurisprudencial e ofensa aos seguintes dispositivos legais:
+(i) arts. 32 e 49 da Lei n. 6.766/1979, sob o argumento de que os referidos dispositivos legais permitem a constituição em mora do devedor nos contratos de promessa de compra e venda de imóveis por notificação postal com aviso de recebimento, e
+(ii) arts. 502, 503, 504, 505, 506, 507, 508 e 1.022 do CPC, alegando que o Juiz de Primeiro Grau, ao sanear o feito, decidiu que a notificação prévia não poderia ser considerada pré-requisito para a constituição em mora, o que não poderia ter sido posteriormente modificado em razão da estabilidade alcançada pela decisão saneadora.
+Sustentou a parte recorrente, por fim, que o acórdão contraria entendimento desta Corte, expresso nos autos do REsp n. 1.745.407/SP, em que se decidiu que a notificação postal com aviso de recebimento seria suficiente para a constituição em mora do promitente comprador inadimplente.
+No que se refere à ofensa ao art. 1.022 do CPC, a parte recorrente se ateve a formular alegação genérica de violação desse dispositivo, sem demonstrar de forma específica em que consistiu o vício cometido pelo Tribunal de origem.
+Assim, diante da fundamentação recursal deficiente, que impede a exata compreensão da controvérsia, incide a Súmula n. 284/STF.
+Para afastar o entendimento das instâncias originárias a respeito da validade ou não da notificação premonitória remetida pela parte recorrente à parte recorrida, seria imprescindível a revisão do contexto fático-probatório dos autos, o que é vedado pela Súmula n. 7/STJ.
+Isso porque a controvérsia não se limita a decidir se é válida ou não a constituição em mora do devedor mediante notificação postal com aviso de recebimento, considerando-se que a parte recorrida, desde a contestação, já alegava vícios intrínsecos no documento (fl. 115):
+Ademais, a notificação juntada não faz prova de qualquer informação de mora ao Réu, pois, não descreveu qualquer detalhe de valores ou mesmo a que referiam se estes.
+O argumento foi reiterado nas contrarrazões ao recurso especial (fls. 509) e na contraminuta ao agravo em recurso especial (fl. 554).
+Portanto, além de se apurar se é válida ou não a notificação via postal, faz-se necessário também se verificar se os requisitos intrínsecos do documento (indicação do valor devido e planilha de composição dos cálculos) estavam ou não presentes, o que demanda reexame de prova, inviável em sede de recurso especial.
+Quanto à alegação de ofensa aos arts. 502, 503, 504, 505, 506, 507 e 508 do CPC, a peça recursal não esclareceu de que forma tais dispositivos teriam sido violados, tampouco como dariam amparo a qualquer tese recursal, não servindo para tal propósito a citação genérica de normas, sem argumentação clara e associada às razões de decidir do aresto impugnado.
+É que os dispositivos legais em questão se referem ao trânsito em julgado da sentença ou da decisão parcial de mérito (art. 356, § 3º, CPC) e não de uma decisão interlocutória, a exemplo da decisão saneadora, que não transita em julgado, mas apenas adquire estabilidade (art. 357, § 1º, do CPC), de modo que caberia à parte recorrente deduzir os fundamentos pelos quais entende que a estabilidade de que trata o art. 357, § 1º, do CPC deveria ser equiparada à coisa julgada.
+Limitando-se a parte recorrente a afirmar ofensa a dispositivos de lei sem, contudo, demonstrar a suposta violação ou a correta interpretação, há evidente deficiência na fundamentação, fazendo incidir a Súmula n. 284 do STF.
+O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige indicação do dispositivo legal objeto de interpretação divergente, bem como demonstração do dissídio, mediante verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e realização de cotejo analítico entre elas, nos termos definidos pelos arts. 255, §§ 1º e 2º, do RISTJ e 1.029, § 1º, do CPC, ônus dos quais a parte agravante não se desincumbiu, na medida em que não referiu em seu cotejo analítico se no caso apresentado como paradigma havia também a discussão quanto aos requisitos intrínsecos do documento por meio do qual se efetivou a notificação postal.
+Além disso, "consoante iterativa jurisprudência desta Corte, a incidência da Súmula 7 do STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso" (AgInt no REsp 181.234 5/AM, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 18/11/2019, DJe 21/11/2019).
+Ante o exposto, RECONSIDERO a decisão da Presidência desta Corte para CONHECER do agravo em recurso especial e NEGAR-LHE PROVIMENTO, mantida a majoração em honorários aplicada pela decisão agravada.
+Publique-se e intimem-se.
+EMENTA
