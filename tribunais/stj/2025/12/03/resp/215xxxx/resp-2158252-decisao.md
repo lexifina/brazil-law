@@ -1,0 +1,55 @@
+DECISÃO
+Cuida-se de recurso especial, interposto por INTEGRA BRASIL TRANSPORTES LTDA, com amparo nas alíneas "a" e "c" do permissivo constitucional, no intuito de reformar acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado (fl. 246, e-STJ):
+APELAÇÃO CÍVEL - AÇÃO REGRESSIVA - SEGURO DE RESPONSABILIDADE CIVIL OBRIGATÓRIO DO TRANSPORTADOR RODOVIÁRIO DE CARGA (RCTR-C) - SENTENÇA DE IMPROCEDÊNCIA. 1. PRELIMINAR DE CERCEAMENTO DE DEFESA - ALEGADA NECESSIDADE DE PRODUÇÃO DE PROVA DOCUMENTAL E ORAL - NÃO ACOLHIMENTO - PROVA CONSTANTE DOS AUTOS SUFICIENTE À SOLUÇÃO DO MÉRITO. 2. SEGURO DE DO TRANSPORTADOR - AUSENCIA DE PRÉVIA AVERBAÇÃO DA CARGA SINISTRADA - DESCUMPRIMENTO DAS CONDIÇÕES ESTABELECIDAS NO CONTRATO - INDENIZAÇÃO INDEVIDA - SENTENÇA MANTIDA E HONORÁRIOS MAJORADOS.
+Recurso conhecido e desprovido.
+Nas razões do especial (fls. 268-279, e-STJ), a insurgente alega dissídio jurisprudencial e violação aos arts. 369 do CPC/2015 e 5º, LV, da CF/1988.
+Sustentou a existência de cerceamento de defesa em razão do indeferimento da produção de provas pela ora recorrente.
+Apresentadas contrarrazões (fls. 285-293, e-STJ), o apelo extremo foi admitido na origem.
+É o relatório.
+Decide-se.
+A irresignação não merece acolhimento.
+1. De inicio, cumpre asseverar não ser atribuição desta Corte a análise de contrariedade a dispositivos constitucionais, sob pena de usurpação da competência do STF, razão pela qual é incabível o exame da alegada afronta ao art. 5º, LV da Constituição Federal.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. USO INDEVIDO DE MARCA. OFENSA A DISPOSITIVO CONSTITUCIONAL. INADEQUAÇÃO DA VIA RECURSAL ELEITA. COMPETÊNCIA DO STF. NULIDADE DO ACÓRDÃO. AUSÊNCIA DE FUNDAMENTAÇÃO. AUSÊNCIA DE INTERESSE E INOVAÇÃO RECURSAL. DECISÃO ULTRA PETITA. PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. DANOS MATERIAIS E MORAIS. DISPOSITIVO LEGAL VIOLADO. AUSÊNCIA DE INDICAÇÃO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. AGRAVO DESPROVIDO.
+1. "Compete ao Superior Tribunal de Justiça, em sede de recurso especial, a análise da interpretação da legislação federal, motivo pelo qual se revela inviável invocar, nesta seara, a violação de dispositivos constitucionais, porquanto matéria afeta à competência do STF (art. 102, inciso III, da Constituição Federal)" (AgRg no AREsp n. 359.463/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/2/2015, DJe 3/3/2015).
+ ..
+5. Agravo regimental desprovido.
+(AgRg no AREsp 842.987/SP, Terceira Turma, Rel. Ministro MARCO AURÉLIO BELLIZZE, julg ado em 7/4/2016, DJe 14/4/2016).
+2. A insurgente aponta violação ao art. 369 do CPC/15, ao argumento de que o decisum atacado indeferiu a produção de provas acarretando cerceamento de defesa.
+No particular, ao rejeitar a preliminar de cerceamento de defesa, o Tribunal estadual deixou assente que (fls. 247- 254):
+(..) é de se rejeitar a preliminar de cerceamento de defesa, ventilada ao argumento de que teria havido óbice à produção de prova documental e testemunhal, com a qual tencionava a apelante comprovar a sistemática do seguro e da averbação das cargas.
+Com efeito, a solução da controvérsia, tal como entendeu o juízo monocrático, passa pela análise das cláusulas contratuais firmadas entre as partes para que se possa aquilatar, em vista da incontroversa averbação da carga em momento posterior ao sinistro, se a hipótese seria ou não de isenção de responsabilidade da seguradora. Ademais, de referir que não consta da causa de pedir a tese de surrectio ou de que era admitida entre as partes a averbação diária das cargas, independentemente do horário do embarque, devendo o exame da cobertura securitária ser interpretado de forma restritiva (CC, art. 757), por se tratar de relação paritária, submetida aos ditames do Código Civil.
+Anote-se que a pretensão da transportadora apelante, nesse aspecto preliminar, seria demonstrar como era o das averbações, ao argumento de que o trato entre as partes seria diverso, e de que o modus operandi costume das partes poderia fazer com que se aceitasse a cobertura do sinistro ocorrido antes da averbação.
+Enfatize-se, todavia, que a tese deixa de ter relevância, a partir da constatação de que não se tratava de fato controvertido. Isso porque a tese em foco claramente não constou da petição inicial, tampouco da réplica, consoante se extrai com nitidez do tópico denominado "V. DA PROCEDÊNCIA DA DEMANDA -AVERBAÇÃO DA CARGA":
+ ..
+Referido trecho da réplica apenas assinala a alegação de que as averbações eram feitas de forma automática pelo sistema, sem qualquer menção à tese de que as partes costumassem proceder de forma diversa do pactuado, admitindo entre si a possibilidade de averbação da carga após a ocorrência do sinistro.
+Na realidade, o primeiro momento em que a parte apelante suscita a tese da é no âmbito dos surrectio embargos declaratórios opostos em face da sentença (mov. 51.1 - p.04/05), alegação essa, logo em seguida, transplantada para o recurso de apelação sob a forma de cerceamento de defesa.
+Anote-se que, mesmo à ocasião do requerimento de produção de prova testemunhal, a parte se limitou a postular a produção probatória ao argumento de que pretendia levar ao conhecimento do juízo "a sistemática do seguro e da averbação de cargas que era realizada entre as partes" (mov. 39.1 - p.02).
+Nessa perspectiva, considerando que, durante o trâmite procedimental anterior à sentença, não houve efetiva alegação da tese de aplicação da surrectio, configura-se fato exterior aos limites objetivos da demanda e, como tal, incapaz de reabrir a instrução probatória, dada a irrelevância ao julgamento do mérito.
+Destarte, diante dos fundamentos lançados, não há dúvida da insubsistência da tese de cerceamento de defesa ventilada no apelo.
+Com efeito, observa-se que as conclusões atingidas pela instância subjacente se deu com base no acervo fático-probatório dos autos, de modo que rever as aludidas premissas demandaria, inexoravelmente, a revisão do substrato fático dos autos, providência vedada pelo óbice da Súmula 7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. NÃO REALIZAÇÃO DE AUDIÊNCIA DE CONCILIAÇÃO E DE SUSTENTAÇÃO ORAL. CERCEAMENTO DE DEFESA NÃO CONFIGURADO. LIVRE CONVENCIMENTO DO MAGISTRADO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. TEMA DECIDIDO COM BASE EM LEI ESTADUAL. SÚMULA 280 DO STF. PRAZO PARA CUMPRIMENTO DA OBRIGAÇÃO A SER DEFINIDO EM CUMPRIMENTO DE SENTENÇA. FUNDAMENTOS DO ACÓRDÃO RECORRIDO NÃO IMPUGNADOS. SÚMULAS 283 E 284/STF. AGRAVO DESPROVIDO.
+1. A jurisprudência desta Corte é no sentido de que, "Havendo julgamento antecipado da lide (CPC, art. 330), não há nulidade do processo por ausência da audiência de conciliação prevista no art. 331, CPC" (AgRg no REsp 736.550/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/5/2011, DJe de 24/5/2011).
+2. Não há cerceamento de defesa quando o julgador, ao constatar nos autos a existência de provas suficientes para o seu convencimento, indefere pedido de produção de prova, cabendo ao juiz decidir, motivadamente, sobre os elementos necessários à formação de seu entendimento, pois, como destinatário da prova, é livre para determinar as provas necessárias ou indeferir as inúteis ou protelatórias.
+3. A modificação do entendimento lançado no v. acórdão recorrido, quanto à suficiência das provas acostadas aos autos, demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+4. A controvérsia foi decidida pelo eg. Tribunal de origem com base na interpretação de lei local (Lei Estadual), circunstância que impede o exame da matéria em sede de recurso especial. Aplicação, por analogia, da Súmula 280 do STF.
+5. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido atrai o óbice da Súmula 283 do STF.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.934.041/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 25/4/2022, DJe de 23/5/2022.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO ANULATÓRIA CUMULADA COM PERDAS E DANOS. VIOLAÇÃO AO ART. 535 DO CPC/1.973. INEXISTÊNCIA. VULNERAÇÃO AO ART. 431-A DO CPC/1.973. CONFIGURAÇÃO DE PREJUÍZO. MODIFICAÇÃO DO ACÓRDÃO RECORRIDO. SÚMULA 7/STJ. CERCEAMENTO DE DEFESA. REEXAME DE PROVAS.
+1. Inexiste violação ao artigo 535 do CPC/1.973 quando, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+2. "O acolhimento de questão preliminar implica a prejudicialidade da análise meritória do pedido formulado; não denega prestação jurisdicional, em conseqüência, o órgão julgador que, nesta hipótese, deixa de apreciar as questões de mérito suscitadas" (REsp 382.904/PR, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 30/8/2002, DJ 21/10/2002, p. 365).
+3. Na hipótese dos autos, observa-se que a Corte local analisou suficientemente a demanda e acolheu a preliminar de cerceamento de defesa, com a consequente anulação da sentença e reabertura da fase instrutória. Assim, não procedem os argumentos sobre a existência de omissão dos artigos de lei indicados como violados, a presença de contradição e obscuridade no julgado e a falta de fundamentação.
+4. O acórdão proferido pela Corte local também acolheu a preliminar de cerceamento em razão de outro fundamento autônomo, qual seja, a falta de designação de audiência para sanar incongruências e omissões no laudo pericial apresentados nos autos.
+5. O acolhimento da pretensão recursal acerca da ausência de prejuízo (pas de nulité sans grife) demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos do enunciado da Súmula 7 do STJ.
+6. Não há falar em preclusão, pois, antes da prolação da sentença, a parte recorrida apresentou petição requerendo expressamente a nulidade da perícia e do respectivo laudo.
+7. Agravo interno não provido.
+(AgInt no REsp n. 1.507.905/MT, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 16/2/2017, DJe de 23/2/2017.)
+Inafastável, portanto, o óbice da Súmula 7 desta Corte.
+Ademais, na forma do entendimento jurisprudencial do STJ, a incidência do referido enunciado impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem.
+3. Do exposto, não conheço do recurso especial.
+Por conseguinte, nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
