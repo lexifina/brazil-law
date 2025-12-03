@@ -1,0 +1,30 @@
+DECISÃO
+Em análise, recurso especial interposto por INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO assim ementado:
+DIREITO PREVIDENCIÁRIO. APELAÇÃO CÍVEL. TEMPO DE SERVIÇO ESPECIAL. RUÍDO E HIDROCARBONETOS. EXPOSIÇÃO A AGENTES NOCIVOS. CRITÉRIOS DE CORREÇÃO MONETÁRIA E JUROS DE MORA. PROVIMENTO PARCIAL.
+Os embargos de declaração foram rejeitados.
+Sustenta a parte INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS, em síntese: i) negativa de prestação jurisdicional, por violação ao art. 1.022 do CPC/2015 e ii) reforma do acórdão, por indevido reconhecimento de tempo especial em períodos com indicação genérica dos agentes químicos que estariam presentes no ambiente de trabalho, sem nenhuma informação sobre a composição química desses agentes, sendo impossível fazer-se a prova exigida nos arts. 57 e 58 da Lei 8.213/91.
+É o relatório.
+Passo a decidir.
+Quanto à apontada violação aos arts. 489, § 1º, IV, e 1.022, II, parágrafo único, II, do CPC, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, consignando que:
+"O INSS também aduz equívoco no julgado fundado na alegação de que o Juízo a quo teria reconhecido o labor especial em período no qual houve indicação genérica de submissão a hidrocarbonetos, em especial o óleo mineral.
+Ao verificar o quadro anexo à sentença, donde constam os agentes nocivos em que se baseou o magistrado para prolação da sentença, bem como os respectivos períodos a que se referem a cada lapso temporal em que foi reconhecida a prestação de serviço especial, concluo que a alegação do INSS não merece acolhimento, pois expressamente discriminados os compostos químicos em razão dos quais se reconheceu o labor especial, vejamos:
+ ..
+Ressalte-se, especialmente em relação ao óleo mineral, que o aludido agente nocivo consta expressamente na Lista Nacional de Agentes Cancerígenos para Humanos (LINACH) no grupo 1, onde se encontram discriminados os agentes sabidamente causadores de câncer em humanos.
+É bem certo que a Turma Nacional de Uniformização dos Juizados Especiais Federais (TNU), reunida em sessão no dia 17 de agosto de 2018, decidiu que a presença no ambiente de trabalho de agentes cancerígenos constantes da Lista Nacional de Agentes Cancerígenos para Humanos (LINACH) é suficiente para a comprovação de efetiva exposição do trabalhador, dando direito a contagem de tempo especial para fins de previdenciários e, com isso, firmou a tese (tema 170) de que "a redação do art. 68, § 4º, do Decreto nº 3.048/99 dada pelo Decreto nº 8.123/2013 pode ser aplicada na avaliação de tempo especial de períodos a ele anteriores, incluindo-se, para qualquer período: (1) desnecessidade de avaliação quantitativa; e (2) ausência de descaracterização pela existência de EPI (Equipamento de Proteção Individual)".
+Pelo exposto, o apelo do INSS também não merece provimento nesse ponto".
+Como se vê, a negativa de prestação jurisdicional não restou configurada.
+Por outro lado, a fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada.
+Assim, inexiste violação aos arts. 489, § 1º, IV, e 1.022, II, parágrafo único, II, do CPC.
+Quanto ao mais, o Tribunal de origem consignou expressamente que "ao verificar o quadro anexo à sentença, donde constam os agentes nocivos em que se baseou o magistrado para prolação da sentença, bem como os respectivos períodos a que se referem a cada lapso temporal em que foi reconhecida a prestação de serviço especial, concluo que a alegação do INSS não merece acolhimento, pois expressamente discriminados os compostos químicos em razão dos quais se reconheceu o labor especial".
+Assim, alterar as conclusões do Tribunal de origem para reformar o acórdão recorrido quanto à suficiência da descriminação dos compostos químicos em razão dos quais se reconheceu o labor especial, demandaria necessariamente nova incursão no conjunto fático-probatório, esbarrando no óbice da Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL. ÓLEOS E GRAXAS. HIDROCARBONETOS. MENÇÃO GENÉRICA. REVOLVIMENTO DE MATÉRIA FÁTICA. IMPOSSIBILIDADE.
+1. A menção genérica ao termo "óleos e graxas" e "hidrocarbonetos" não permite concluir que o trabalho foi exercido em condições especiais, seja porque é insuficiente para identificar se o elemento é potencialmente nocivo à saúde, seja porque inviabiliza a especificação do tipo de avaliação necessária: quantitativa ou qualitativa (TNU, PEDILEF 5001319-31.2018.4.04.7115/RS, Relator Juiz Federal Fabio de Souza Silva, j. em junho/2022).
+2. No caso, a Corte Regional, examinando as provas dos autos, entendeu que os "óleos e graxas" aos quais estava submetida a parte não conteriam os agentes nocivos na forma da legislação aplicável à espécie, notadamente por não atingir a quantidade necessária para assim caracterizar a especialidade da atividade.
+3. Apenas com a revisão da matéria fático-probatória seria possível aferir exatamente a espécie de "óleos e graxas" ou "hidrocarbonetos" aos quais teria sido exposto o recorrente para verificar se se enquadravam como agentes nocivos e, nesse caso, se a aferição da especialidade seria pelo método qualitativo ou quantitativo, o que é inviável por força da Súmula 7 do STJ.
+4. Agravo interno não provido. (AgInt no REsp n. 1.999.964/PE, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 23/10/2023, DJe de 27/10/2023.)
+Isso posto, com fundamento no art. 255, § 4º, I e II, do RISTJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+EMENTA
