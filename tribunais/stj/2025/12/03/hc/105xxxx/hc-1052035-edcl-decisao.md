@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de embargos de declaração (Petição n. 1.160.915/2025) opostos por ANDRE BONNY à decisão da lavra deste Relator (fls. 126/127), em que foi concedida liminarmente a ordem para redimensionar a pena, a seguir ementada:
+PENAL. HABEAS CORPUS. FURTO SIMPLES. DOSIMETRIA. REVISÃO DA CONDENAÇÃO MANTIDA NAS INSTÂNCIAS ORDINÁRIAS. UTILIZAÇÃO INDEVIDA DO WRIT. NEGATIVAÇÃO DOS ANTECEDENTES COM BASE EM AÇÃO EM CURSO. INCIDÊNCIA DA SÚMULA 444/STJ. REDIMENSIONAMENTO DA PENA. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem liminarmente concedida, nos termos do dispositivo.
+Sustenta o embargante a necessidade de sanar erro material quanto à segunda fase da dosimetria, porque a atenuante da confissão espontânea (art. 65, III, d, do CP) foi aplicada como majoração de 1/6, quando deveria reduzir a pena no mesmo patamar. Requer a retificação do cálculo para fixar a pena definitiva em 1 ano, 1 mês e 23 dias de reclusão e 11 dias-multa (fls. 134/135).
+É o relatório.
+Os presentes embargos comportam acolhimento, isso porque, diferentemente do que consta na decisão hostilizada - em que a pena foi aumentada pela incidência da atenuante da confissão: na primeira fase, mantida a negativação apenas do vetor circunstâncias do crime (fl. 35), tem-se a pena-base aumentada em 1/8 da diferença entre a pena máxima e mínima, fixando-a em 1 ano, 4 meses e 15 dias de reclusão, e 13 dias-multa. Na segunda fase, mantida a incidência da atenuante da confissão em 1/6 (fl. 37), passando a reprimenda para 1 ano, 7 meses e 7 dias de reclusão, e 15 dias-multa (fl. 127) -, a confissão espontânea impõe redução da pena intermediária, nos termos do art. 65, III, d, do CP, e não majoração.
+Assim, considerando a pena-base já readequada pela decisão embargada - em 1 ano, 4 meses e 15 dias de reclusão, e 13 dias-multa (fl. 127) -, a correta aplicação da atenuante da confissão em 1/6 conduz à pena intermediária e definitiva de 1 ano, 1 mês e 23 dias de reclusão e 11 dias-multa, sem alterações na terceira fase (fl. 134).
+Em razão disso, acolho os presentes aclaratórios, atribuindo-lhes efeitos modificativos, para corrigir erro material na decisão de fls. 126/127 e redimensionar a reprimenda definitiva imposta ao paciente para 1 ano, 1 mês e 23 dias de reclusão, e 11 dias-multa, mantido o regime inicial semiaberto, na Ação Penal n. 0022293-82.2022.8.12.0001, da 2ª Vara Criminal da comarca de Campo Grande/MS.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. FURTO SIMPLES. INSURGÊNCIA CONTRA A DECISÃO QUE CONCEDEU LIMINARMENTE A ORDEM. ALEGAÇÃO DE ERRO MATERIAL NA DOSIMETRIA (INCORRETA APLICAÇÃO DA ATENUANTE DA CONFISSÃO ESPONTÂNEA COMO ACRÉSCIMO DE 1/6). PENA CORRIGIDA.
+Embargos de declaração acolhidos nos termos do dispositivo.
