@@ -1,0 +1,23 @@
+DECISÃO
+MARCOS AUGUSTO DE LIMA MENDONCA agrava da decisão que inadmitiu o recurso especial que interpôs, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do  Tribunal de Justiça do Estado do Amazonas  na Apelação  n.  0721230-03.2022.8.04.0001.
+Nas razões do especial, o recorrente apontou a violação dos arts. 59 e 70 do CP, 303, § 2º, da Lei n. 9.503/1997 e 619 do CPP. Requereu o reconhecimento das seguintes teses: "a nulidade da dosimetria por omissão quanto à atenuante da primariedade; a falha na fundamentação do concurso formal; a violação ao art. 619 do CPP" (fl. 589), esta última atrelada, além da dosimetria, à alegada omissão em razão da "não análise da aplicação do princípio da insignificância à segunda vítima (com lesões não especificadas)" (fl. 585). Subsidiariamente, postulou "que se reconheça a admissibilidade do recurso apenas para fins de interrupção da prescrição" (fl. 589).
+O Tribunal de origem não admitiu o recurso, em decorrência da Súmula n. 7 do STJ.
+Neste agravo, a parte alega que "a insurgência da defesa é exclusivamente de direito, notadamente sobre a correta interpretação de normas constitucionais e infraconstitucionais aplicáveis ao crime de trânsito imputado ao Agravante" (fls. 629-630). Ainda, com relação ao mérito, aponta violação da jurisprudência do STJ quanto à incidência do art. 303 do CTB e afirma contrariedade a dispositivo não delineado no especial (art. 386, III, do CPP).
+Decido.
+O agravo é tempestivo, mas não infirmou adequadamente as motivações lançadas na decisão de inadmissibilidade do recurso especial, razão pela qual não merece conhecimento.
+No caso em exame, a Corte local não admitiu o recurso pelos seguintes motivos (fls. 613, grifei):
+No entanto, o prosseguimento do recurso especial encontra obstáculo em razão da Súmula 07/STJ, pois a pretensão recursal visa desconstituir a conclusão sobre as premissas fáticas e probatórias estabelecidas pelas instâncias inferiores, o que não é permitido na via do recurso especial, uma vez que o Superior Tribunal de Justiça não atua como terceira instância revisora, não podendo rejulgar a prova.
+A parte, contudo, não rebateu a contento o fundamento da inadmissão do especial, uma vez que se limitou a afirmar, de forma genérica, que é desnecessário o reexame probatório e que as matérias haviam sido prequestionadas.
+Deveras, o agravante deve expor, com particularidade, a inexistência de óbices para o conhecimento do especial, ao evidenciar a tese jurídica que se pretende ver examinada e ao colacionar trechos do acórdão que demonstram que a matéria foi analisada sob o viés pretendido.
+Nessa perspectiva: "A jurisprudência desta Corte é assente no sentido de que, para afastar a incidência da Súmula 182/STJ, não basta a impugnação genérica dos fundamentos da decisão agravada, é necessário que a contestação seja específica e suficientemente demonstrada". (AgInt no AREsp n. 867.735/SE, Rel. Ministro Humberto Martins, 2ª T., DJe 10/8/2016, destaquei).
+Para impugnar satisfatoriamente o óbice da Súmula n. 7 do STJ - aplicado ao caso -, o agravante deveria demonstrar que, no recurso especial, evidenciou a tese jurídica que pretendia ver examinada, a partir das premissas fático-probatórias do acórdão recorrido. Saliento que são insuficientes assertivas genéricas de que a apreciação do recurso não demanda reexame de provas.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXIGÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. A teor do § 1.º do art. 1.021 do Código de Processo Civil, aplicável por força do art. 3.º do Código de Processo Penal, dispõe- se que "na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada".
+2. Não basta a mera afirmação em sentido oposto ao óbice, com argumentos que se contrapõem a qualquer decisão que se funde no conteúdo do Enunciado n.º 7 da Súmula do Superior Tribunal de Justiça, deve-se particularizar o fundamento de inadmissão, na medida da admissibilidade, sob pena de vê-lo mantido.
+3. Agravo regimental não conhecido.
+(AgRg no AREsp n. 1.575.387/SP, Rel. Ministra Laurita Vaz, 6ª T., DJe 21/2/2020, grifei)
+Portanto, o agravante não se desincumbiu do ônus de expor, integral, específica e detalhadamente, os motivos de fato e de direito por que entende incorreta a decisão agravada, a atrair, à espécie, a Súmula n. 182 do STJ, segundo a qual "É inviável o agravo do art. 1.021, § 1º, do novo CPC que deixa de atacar especificamente todos os fundamentos da decisão agravada".
+À vista do exposto, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se  e  intimem-se.
+EMENTA
