@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de DJONATAN DA SILVA NUNES, no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO RIO DE JANEIRO.
+O paciente foi preso em flagrante em 10/3/2025, pela suposta prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006, convertido o flagrante em prisão preventiva.
+A defesa alega a ausência dos requisitos autorizadores previstos no art. 312 do CPP, afirmando, ainda, que houve cerceamento de defesa, em razão da realização do interrogatório de forma virtual, bem como sem a prévia comunicação da administração prisional ao Juízo ou ciência à defesa e ao MP, prejudicando o contraditório e a ampla defesa.
+Aponta, ainda, excesso de prazo, pois o paciente permanece preso há mais de 7 meses e 7 dias (217 dias).
+Requer, liminarmente e no mérito, a revogação da prisão preventiva ou a sua substituição pelas medidas cautelares do art. 319 do CPP.
+É o relatório.
+DECIDO.
+A Quinta Turma do Superior Tribunal de Justiça firmou entendimento no sentido de ser inadequada a impetração de habeas corpus quando utilizado em substituição a recurso próprio.
+A teor do disposto no art. 105, II, a, da CF/88, o recurso cabível contra acórdão que denega a ordem na origem é o recurso ordinário, enquanto que, consoante previsto no art. 105, III, da CF, contra acórdão que julga a apelação, o recurso em sentido estrito e o agravo em execução, cabe recurso especial. Nada impede, contudo, constatada a existência de ilegalidade flagrante, abuso de poder ou teratologia, a concessão de habeas corpus de ofício, nos termos do art. 654, §2º do CPP, o que ora passa-se a examinar.
+Inicialmente, quanto ao argumento de excesso de prazo, verifica-se que a questão não foi previamente debatida pelo Tribunal local, não podendo ser apreciada diretamente nesta Corte, sob pena de indevida supressão de instância.
+A prisão preventiva reveste-se de caráter excepcional, sendo admissível apenas quando devidamente demonstrada sua imprescindibilidade para a preservação da ordem pública, garantia da regularidade da instrução criminal e/ou asseguração da aplicação da lei penal, nos termos do art. 312 do CPP.
+O decreto prisional foi assim fundamentado (fls. 52-53):
+ ..  a Folha de Antecedentes Criminais, assim como a Ficha de Antecedentes Infracionais acostada aos autos nesta oportunidade, atesta que o flagranteado tem reiterado na prática criminosa, inclusive o custodiado é reincidente e a jurisprudência já sedimentou o entendimento de que a reiteração na prática criminosa é motivo suficiente para constituir gravame à ordem pública, justificando a decretação da prisão preventiva.
+Frise-se, ainda, que foi encontrado com o flagranteado farta quantidade de entorpecente (2.090,80 gramas de cocaína); além de um rádio transmissor, uma balança de precisão e material para endolação de drogas, o que denota uma maior reprovabilidade de sua conduta e distância de eventual aplicação da minorante prevista no artigo 33, § 4º, da Lei 11.343/06.
+Ainda, a prisão do flagranteado merece ser mantida para a conveniência da instrução criminal, diante do fato que as testemunhas/vítimas, por certo, sentir-se-ão amedrontadas em prestar depoimento estando este em liberdade. Ademais, é necessário para a conveniência de todo processo, que a instrução criminal seja realizada de maneira lisa, equilibrada e imparcial, na busca da verdade real, interesse maior não somente da acusação mas, sobretudo, do flagranteado.
+Por fim, a segregação preventiva também se justifica pelo fato de não haver qualquer comprovação de que o flagranteado exerça atividade laborativa lícita e que possua residência fixa, o que demonstra que a concessão da liberdade provisória em favor deste, neste momento, irá cabalmente de encontro à segurança de aplicação da Lei Penal e à própria efetividade da ação penal a ser deflagrada. Há que se garantir a finalidade útil do processo penal, que é proporcionar ao Estado o exercício do seu direito de punir, aplicando a sança devida a quem é considerado autor de infração penal. ..
+Como visto, configura-se idônea a decretação (e manutenção) da custódia processual, porquanto apreendida quantidade expressiva de droga (2.090,80 gramas de cocaína), petrechos frequentemente utilizados no comércio ilegal, além da reiteração delitiva.
+O Supremo Tribunal Federal já concluiu que "mostra-se idônea a segregação cautelar fundada na garantia da ordem pública, quando demonstrada a periculosidade social do agente evidenciada pela quantidade, variedade e natureza da droga apreendida" (HC n. 210.563 AgR, relator Nunes Marques, Segunda Turma, julgado em 9/5/2022, DJe 6/6/2022)" (AgRg no HC n. 972.161/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 5/3/2025, DJEN de 11/3/2025).
+Ainda, " a  jurisprudência desta Corte admite a prisão preventiva para garantir a ordem pública quando o agente ostenta reincidência e outras ações penais em curso, denotando periculosidade e risco de reiteração delitiva." (AgRg no HC n. 993.992/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 14/5/2025, DJEN de 19/5/2025).
+Diante da motivação retro, são inaplicáveis quaisquer medidas cautelares alternativas previstas no art. 319 do CPP, uma vez que as circunstâncias esposadas no decreto em apreço evidenciam a insuficiência das providências menos gravosas.
+Por fim, em relação à alegação de cerceamento de defesa, extrai-se do acórdão (fls. 36-37):
+Sobre a audiência de instrução e julgamento, também não se observa qualquer irregularidade que possa levar à sua anulação.
+A decisão nela proferida se deu de forma fundamentada, ainda que suscinta, se alicerçou em dados concretos e não merece qualquer ajuste, principalmente porque não se observa prejuízo para a defesa técnica.
+A falta de veículo que pudesse fazer o transporte do paciente é justificativa idônea para a realização do interrogatório por meio virtual.
+O prejuízo, ora alegado pela Defesa, não foi por ela demonstrado, de forma objetiva, com apoio em provas. O paciente teve a oportunidade de se entrevistar com a defesa técnica antes do interrogatório, o que assegura, de forma satisfatória o exercício da ampla defesa (TJRJ - habeas corpus nº 0032295-22.2022.8.19.0000 - Oitava Câmara Criminal - Relatora: Des. Suely Lopes Magalhães - Data do julgamento: 26/10/2022).
+Não se observa, assim, ilegalidade a ser corrigida por meio do presente habeas corpus, permanecendo hígidos os motivos que ensejaram a medida excepcional.
+A Corte de origem afastou a ilegalidade e entendeu que não houve cerceamento de defesa, uma vez que a falta de veículo da SEAP que pudesse fazer o transporte do paciente foi considerada justificativa idônea para a realização do interrogatório por meio virtual, na forma do Artigo 185, parágrafo 2º, inciso II, do Código de Processo Penal.
+Além do mais, não houve prejuízo para a defesa técnica, pois o paciente teve a oportunidade de se entrevistar com a Defesa de forma virtual, reservadamente, momentos antes da audiência, assegurando-se o exercício da ampla defesa. Assim, não há qualquer irregularidade a ser sanada.
+Nesse sentido:
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. JULGAMENTO VIRTUAL. SUSTENTAÇÃO ORAL. CERCEAMENTO DE DEFESA. RECURSO NÃO PROVIDO.
+1. A regulamentação do julgamento virtual no âmbito dos tribunais, desde que assegure às partes a possibilidade de apresentar memoriais e realizar sustentação oral por meio digital, não viola os princípios do contraditório e da ampla defesa.
+2. A exigência de motivação declarada para oposição ao julgamento virtual, prevista em norma regimental, é considerada razoável e visa evitar o uso protelatório do direito de oposição, não configurando cerceamento de defesa.
+3. A jurisprudência do STJ é pacífica no sentido de que a mera oposição à forma virtual de julgamento não é suficiente para configurar cerceamento de defesa ou nulidade processual, especialmente quando não demonstrado prejuízo concreto.
+4. No caso, os agravantes não justificaram adequadamente a necessidade de sustentação oral, e todos os argumentos foram analisados pela Turma Julgadora, sem prejuízo ao direito de defesa.
+5. Incidência da Súmula n. 83 do Superior Tribunal de Justiça.
+6. Agravo não provido. (AREsp 2743891/SP, Relator Ministro Moura Ribeiro, Terceira Turma, Data do julgamento 13/10/2025, DJe 17/10/2025)
+Não há, portanto, flagrante ilegalidade que justifique a concessão da ordem de habeas corpus de ofício.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
