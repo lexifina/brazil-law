@@ -1,0 +1,19 @@
+DECISÃO
+CHINA CONSTRUCTION BANK (BRASIL) BANCO MÚLTIPLO S.A. opõe embargos de decl aração à decisão d e fls. 178-183, que conheceu do agravo para conhecer em parte do recurso especial e, nessa extensão, deu parcial provimento para determinar a devolução dos autos ao Tribunal de origem a fim de que seja realizada a adequação do julgado conforme a jurisprudência do STJ.
+Em suas razões, a embargante sustenta que houve omissão, porque a decisão teria reformado o acórdão estadual com base em causa de pedir e pedidos não formulados no recurso especial de impenhorabilidade do único bem por reversão da renda de locação para moradia.
+Requer o conhecimento e o provimento dos embargos de declaração para sanar a omissão apontada e para fins de prequestionamento.
+Não foram apresentadas contrarrazões aos embargos (fl. 200).
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a aclarar obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado.
+No presente caso, a parte aponta omissão quanto ao alegado julgamento fora dos limites da causa de pedir, afirmando vulneração aos arts. 141, 492, do CPC, e 93, IX da CF.
+Na decisão de fls. 178-183, consignou-se que o acórdão recorrido concluiu pela possibilidade de constrição da totalidade do bem indivisível já que garantida a quota-parte do coproprietário, afastando hipótese de inobservância do instituto do bem de família. No recurso especial, apontou-se violação ao art. 1º da Lei n. 8.009/1990 e à Súmula n. 486 do STJ, defendendo-se a impenhorabilidade do bem de família, ainda que locado a terceiros.
+Registrou-se a impossibilidade de análise de súmula em sede de recurso especial e, quanto ao dispositivo legal, reconheceu-se que o acórdão recorrido divergiu da jurisprudência do STJ, segundo a qual a penhora de parte de imóvel caracterizado como bem de família somente é admissível se o desmembramento for possível sem sua descaracterização.
+Como o tribunal de origem afastou a proteção do bem de família apenas por ter garantido a quota-parte do coproprietário, determinou-se a devolução dos autos à origem a fim de que a Corte estadual - competente para examinar os fatos e provas atinentes à configuração ou não de bem de família para eventual impenhorabilidade - proceda a novo julgamento, afastando-se a premissa de possibilidade de penhora de fração do bem indivisível.
+Ressalte-se que a argumentação apresentada no recurso especial implica necessariamente a análise sobre a possibilidade de reconhecimento da impenhorabilidade do imóvel como bem de família, o que pressupõe, por sua natureza, a verificação da admissibilidade ou não da constrição da totalidade do bem indivisível.
+Ao determinar o retorno dos autos ao Tribunal de origem para reexame da controvérsia sob essa perspectiva, a decisão não incorreu em omissão ou alegada extrapolação, pois apenas reconheceu a necessidade de análise da matéria fática pertinente à incidência da Lei n. 8.009/1990, nos moldes da jurisprudência consolidada desta Corte Superior.
+Assim, não há omissão a ser sanada.
+A propósito, segundo orientação firmada pela Corte Especial do STJ, o recurso aclaratório possui finalidade integrativa e, portanto, não se presta à reforma do entendimento aplicado ou ao rejulgamento da causa (EDcl no AgRg no RE nos EDcl no AgRg nos EDcl no AREsp n. 1.571.819/RJ, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 25/8/2020, DJe de 28/8/2020).
+Dessa forma, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação do STJ foi analisada, não padecendo a decisão recorrida de vícios que autorizariam sua oposição (obscuridade, contradição, omissão e erro material).
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+ EMENTA
