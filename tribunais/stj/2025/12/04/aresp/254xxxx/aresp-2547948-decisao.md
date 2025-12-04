@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual SANTANDER LEASING S.A. ARRENDAMENTO MERCANTIL se insurgira, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO assim ementado (fl 173):
+Apelação Cível. Embargos à Execução Fiscal. Sentença de improcedência, que reconheceu a legitimidade da instituição financeira como devedora de IPVA de automóvel objeto de arrendamento mercantil. Apelo do banco embargante. Entendimento do Superior Tribunal de Justiça de que nas operações de leasing ou arrendamento mercantil a instituição financeira, como possuidora indireta do veículo, é responsável solidária pelo pagamento do IPVA, podendo figurar no polo passivo da Execução Fiscal. Nulidade da CDA. Inocorrência. Desnecessidade de inclusão do corresponsável na certidão. Individualização do veículo que se fez por meio da inclusão do RENAVAM. Inexistência de prova de fato negativo, considerando-se que a transferência de propriedade do veículo é de fácil comprovação. Entidade financeira que não comprova os fatos constitutivos do seu direito, segundo o ônus previsto no artigo 373, I do CPC. Baixa do gravame que não é suficiente para elidir a responsabilidade tributária. Precedentes. Sentença que se prestigia. Recurso desprovido.
+Os embargos de declaração foram rejeitados (fl 192).
+A parte recorrente aponta violação aos arts. 130, 131, I, e 134 do Código Tributário Nacional (CTN), aos arts. 1.267 e 1.228 do Código Civil e ao art. 134, parágrafo único, do Código de Trânsito Brasileiro (CTB).
+Afirma ser parte ilegítima na demanda, pois, após a baixa do gravame, a responsabilidade é exclusiva do atual proprietário.
+A parte adversa apresentou contrarrazões (fls. 221/238).
+O recurso não foi admitido, o que ensejou a interposição de agravo.
+É o relatório.
+O Supremo Tribunal Federal (STF), no julgamento do Recurso Extraordinário 1.355.870/MG, fixou a seguinte tese quanto ao Tema 1.153:
+"É inconstitucional a eleição do credor fiduciário como contribuinte ou responsável tributário do Imposto sobre a Propriedade de Veículos Automotores (IPVA) incidente sobre veículo alienado fiduciariamente, ressalvada a hipótese da consolidação de sua propriedade plena sobre o bem" (relator Ministr Luiz Fux, DJe de 14/10/2025).
+Conforme os arts. 1.040 e 1.041 do Código de Processo Civil, publicado o acórdão paradigma submetido ao regime de repercussão geral ou de recursos especiais repetitivos, o Tribunal de origem deve negar seguimento aos recursos e encaminhá-los para retratação do órgão colegiado, a fim de que haja o alinhamento das teses ou a manutenção da decisão divergente.
+Ante o exposto, determino a devolução dos autos à instância de origem, com a devida baixa nesta Corte Superior, para que, nos termos dos arts. 1.040 e 1.041 do Código de Processo Civil, seja realizado o juízo de conformação à luz do que decidiu o Supremo Tribunal Federal quanto ao Tema 1.153.
+Publique-se. Intimem-se.
+EMENTA
