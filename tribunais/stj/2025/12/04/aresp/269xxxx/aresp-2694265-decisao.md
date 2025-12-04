@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por KASSIO SANTOS DE LIRA contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA que inadmitiu o recurso especial.
+Consta dos autos que o agravante foi condenado pelo Tribunal do Júri da Comarca de Feira de Santana - BA à pena de 16 anos e 3 meses de reclusão em regime inicial fechado, pela prática de homicídio qualificado, conforme o art. 121, § 2º, IV, do Código Penal (fls. 497-504).
+Interposto recurso pela defesa, o Tribunal de origem reconheceu a fundamentação inidônea para a valoração negativa da conduta social e do comportamento da vítima, redimensionando a pena definitiva para 13 anos e 9 meses de reclusão, mantendo inalterados os demais termos da sentença (fls. 583-607).
+Em recurso especial, a defesa sustentou a ocorrência de violação do art. 59 do Código Penal, alegando que a valoração negativa das circunstâncias judiciais foi indevida, especialmente quanto à personalidade do agente, circunstâncias e consequências do crime (fls. 631-639). O recurso foi fundamentado na alínea a do inciso III do art. 105 da Constituição Federal, buscando a fixação da pena-base no mínimo legal.
+O recurso especial foi inadmitido às fls. 652-663, ao fundamento de afronta à Súmula n. 7 do STJ.
+Nas razões do presente agravo, a defesa argumenta que a questão discutida não envolve reexame fático-probatório, mas sim a revaloração das circunstâncias judiciais, o que não encontra óbice na referida súmula (fls. 666-673).
+O Ministério Público Federal manifestou-se pelo desprovimento do agravo, nos termos da seguinte ementa (fl. 703):
+AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. DOSIMETRIA. VALORAÇÃO NEGATIVA DA CULPABILIDADE, DAS CIRCUNSTÂNCIAS E CONSEQUÊNCIAS DO DELITO. RECONHECIMENTO DE MAJORANTE DO EMPREGO DE ARMA DE FOGO. AFASTAMENTO. INVIABILIDADE. FUNDAMENTAÇÃO CONCRETA E IDÔNEA. PRETENSÃO QUE DEMANDA REEXAME FÁTICO-PROBATÓRIO. SÚMULA N.º 7/STJ. PELO DESPROVIMENTO DO AGRAVO.
+É o relatório.
+O agravo é tempestivo e estão presentes os demais pressupostos recursais, razão pela qual passa-se à análise do recurso especial.
+Quanto à alegada violação do art. 59 do Código Penal, no que diz respeito às circunstâncias judiciais da personalidade do agente, circunstâncias e consequências do crime, o Tribunal de origem fundamentou a dosimetria da pena do agravante nos seguintes termos (fls. 599-603):
+Outrossim, no que tange à personalidade do agente, como não se ignora, a jurisprudência do Superior Tribunal de Justiça entende ser desnecessário o laudo técnico para a mensuração negativa da referida moduladora, desde que exista elementos concretos nos autos, acerca da insensibilidade, desonestidade e modo de agir do criminoso para a consumação do delito.
+ ..
+Nesse sentido, in casu, vê-se que o Juízo primevo apresentou fundamentação idônea para a valoração negativa da circunstância judicial da personalidade do agente, diante da utilização de elementos concretos extraídos dos autos, aptos a indicar o desvio de caráter do Apelante, em que pese a ausência de laudo técnico realizado por profissional multidisciplinar, eis que, apenas 03 (três) dias após ser posto em liberdade provisória, o Recorrente praticou novo delito de homicídio, em razão de a vítima não aceitar abrigá-lo em sua casa, o que, inclusive, resultou na revogação da concessão da liberdade provisória, restabelecendo a prisão preventiva do Apelante.
+Em relação às circunstâncias do crime, cumpre destacar que esta refere-se à maior ou menor gravidade do crime em razão do modus operandi empreendido pelo agente.
+Nesse contexto, vislumbra-se que a fundamentação apresentada pela Magistrada, para a valoração negativa da referida circunstância judicial, é concreta e idônea, visto que efetivamente evidenciou aspectos mais reprováveis do modus operandi delitivo contra a vítima e que não se afiguram inerentes ao próprio tipo penal, consistente no fato de o ora Apelante ter praticado o crime em plena luz do dia, uma vez que a vítima tinha acabado de chegar da escola e ido "empinar pipa", fato que sequer o intimidou na consecução criminosa, verificando o maior grau de reprovabilidade da conduta.
+ ..
+No mesmo sentido, no tocante às consequências do crime, a fundamentação apresentada pela Magistrada, para a valoração negativa, também verifica-se como firme e idônea, consoante o entendimento do Superior Tribunal de Justiça, que, em casos análogos, julgou como adequada a exasperação da pena-base em razão da valoração negativa da circunstância judicial das consequências do crime, especialmente quando a vítima é menor, confira-se:  ..
+Como se observa, houve fundamentação concreta para a valoração negativa da personalidade do agente, circunstâncias e consequências do crime, pois o Tribunal de origem apontou dados concretos e específicos do caso em apreço.
+O fato de o agravante haver praticado homicídio três dias após ser posto em liberdade, pelos motivos expostos, demonstram a personalidade voltada ao crime. Do mesmo modo, as circunstâncias em que se deram o crime, conforme fundamentado (à luz do dia enquanto a vítima, menor de idade, "empinava pipa") permitem a imposição de sanção mais grave.
+Em relação às consequências do crime, do mesmo modo, ficou devidamente fundamentada, ante a menoridade da vítima.
+De fato, as circunstâncias apontadas no acórdão estadual não são simples considerações genéricas, mas elementos concretos do caso e não inerentes ao tipo penal, aptos a demonstrar a maior gravidade da conduta individualizada do agravante, motivo pelo qual não se constata nenhuma ilegalidade na majoração da pena-base.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME CONTRA O SISTEMA FINANCEIRO NACIONAL. OBTENÇÃO FRAUDULENTA DE FINANCIAMENTO. PENA-BASE. EXASPERAÇÃO JUSTIFICADA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A dosimetria da pena somente é passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade.
+2. Na sentença, mantida pelo Tribunal de origem, foram observadas as circunstâncias relacionadas no art. 59 do Código Penal e analisadas de forma desfavorável a culpabilidade e as consequências do crime com lastro em dados concretos dos autos, não inerentes ao tipo penal, o que justifica a mais severa individualização da pena.
+ ..
+6. Agravo regimental não provido.
+(AgRg no HC 697.300/RS, relator Ministro Rogerio Schietti, Sexta Turma, julgado em 22/3/2022, DJe de 28/3/2022.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL. POSSE ILEGAL DE ARMA DE FOGO. JULGAMENTO MONOCRÁTICO. SÚMULA N.º 568/STJ. DOSIMETRIA. CIRCUNSTÂNCIAS DO CRIME. FUNDAMENTAÇÃO CONCRETA. LEGALIDADE. REINCIDÊNCIA. AUSÊNCIA DE BIS IN IDEM. INSTITUTO PENAL PLENAMENTE COMPATÍVEL COM A ORDEM JURÍDICO-CONSTITUCIONAL. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não há nenhum impedimento para a análise monocrática do recurso especial quando há entendimento dominante acerca do tema no Superior Tribunal de Justiça. Este procedimento está amparado na legislação processual pátria e é ratificado pelo Enunciado Sumular n.º 568 desta Corte Superior.
+2. Não há ofensa ao art. 59 do Código Penal se as instâncias ordinárias majoram a pena-base com amparo em fundamentos concretos, não inerentes ao tipo penal abstrato, e que demonstram a maior censurabilidade da conduta. No caso, o fato de o armamento ilícito destinar-se especificamente à prática de inúmeras outras condutas delitivas autoriza a exasperação da sanção.
+ ..
+4. Agravo regimental desprovido.
+(AgRg no REsp 1.760.185/RS, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 28/3/2019, DJe de 23/4/2019.)
+Ademais, ante a presença de fundamentação idônea, não se verifica ilegalidade apta a justificar a revisão da dosimetria da pena em recurso especial. Na verdade, o juízo de proporcionalidade da sanção está fundamentado em detida análise dos fatos e provas pela instâncias ordinárias, cujo reexame encontra óbice na Súmula n. 7 do STJ.
+A propósito:
+PENAL. AGRAVO EM RECURSO ESPECIAL. TENTATIVA DE HOMICÍDIO. DOSIMETRIA DA PENA . PENA-BASE. FUNDAMENTAÇÃO ADEQUADA. PERSONALIDADE E CIRCUNSTÂNCIAS DO CRIME. AUSÊNCIA DE ILEGALIDADE . REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+1. Estando bem fundamentada a valoração negativa dada à personalidade e às circunstâncias do crime, não há falar em ilegalidade na dosimetria no presente caso .
+2. A análise da pretensão recursal requer o reexame do acervo fático-probatório. Aplicação da Súmula 7/STJ.
+3. Agravo regimental improvido.
+(AgRg no AREsp n. 349.038/DF, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 6/5/2014, DJe de 23/5/2014.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO TRIPLAMENTE QUALIFICADO, FURTO E OCULTAÇÃO DE CADÁVER. DOSIMETRIA. PENA-BASE. VALORAÇÃO NEGATIVA DA CULPABILIDADE, CIRCUNSTÂNCIAS E CONSEQUÊNCIAS DO CRIME. ELEMENTOS QUE EXTRAPOLAM O TIPO PENAL. FUNDAMENTAÇÃO IDÔNEA. AUSÊNCIA DE ILEGALIDADE . INCIDÊNCIA DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Esta Corte tem entendido que a dosimetria da pena só pode ser reexaminada em recurso especial quando se verificar, de plano, a ocorrência de erro ou ilegalidade, o que não se constata na hipótese em que o Tribunal de origem destacou fundamentação idônea para a valoração negativa das circunstâncias judiciais relativas à culpabilidade, circunstâncias e consequências do crime, destacando fundamentos que não integram o tipo penal.
+2. Inexistente erro ou ilegalidade na dosimetria da pena aplicada ao agravante, a desconstituição do entendimento firmado pelas instâncias ordinárias que, diante das peculiaridades do caso concreto, destacaram fundamentação idônea para majorar a pena-base do recorrente, incide à espécie o enunciado n. 7 da Súmula/STJ, verbis: "A pretensão de simples reexame de prova não enseja recurso especial".
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.598.714/SE, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 23/6/2020, DJe de 29/6/2020.)
+ ..  6. A alteração da dosimetria da pena nesta Corte só é efetivada diante da ocorrência de ilegalidade flagrante, não ocorrida na espécie, sob pena de revaloração de fatos e provas e incidência da Súmula n. 7 do Superior Tribunal de Justiça - STJ.
+7. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.223.252/RS, Relator Ministro Joel Ilam Paciornik, Quinta Turma, julgado em 13/6/2023, DJe de 16/6/2023.)
+ ..  2. Uma vez constatado que a maioria das circunstâncias judiciais foram consideradas desfavoráveis (a culpabilidade, a conduta social, a personalidade, os motivos, as circunstâncias e as consequências do crime) - sobretudo diante do caso concreto, que se lastreou em denúncia envolvendo organização criminosa integrada por grupos de criminosos especializados em furtos e roubos de veículos, adulteração de placas de chassis, bem como da falsificação de documentos públicos -, não há como esta Corte simplesmente se imiscuir no juízo de proporcionalidade feito pelas instâncias de origem, para, a pretexto de ofensa aos princípios da proporcionalidade e da individualização da pena, reduzir a pena-base estabelecida ao acusado, haja vista o óbice contido na Súmula n. 7 do STJ.
+3. Agravo regimental não provido.
+(AgRg no AREsp n. 1.603.877/PB, relator Ministro Rogerio Schiett, Sexta Turma, julgado em 1º/6/2021, DJe de 9/6/2021.)
+Ante o exposto, conheço do agravo e nego provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
