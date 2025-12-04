@@ -1,0 +1,22 @@
+Solução de Consulta Disit/SRRF06 nº 6032, de 27 de novembro de 2025
+Assunto: Imposto sobre a Renda de Pessoa Jurídica - IRPJ
+LUCRO PRESUMIDO. SERVIÇOS HOSPITALARES. PERCENTUAL DE PRESUNÇÃO. AMBIENTE DE TERCEIRO. SOCIEDADE EMPRESÁRIA.
+Para fins de aplicação do percentual de presunção de 8% (oito por cento) sobre a receita bruta auferida no período de apuração pela pessoa jurídica, com vistas à determinação da base de cálculo do IRPJ, consideram-se serviços hospitalares aqueles que se vinculam às atividades desenvolvidas pelos hospitais, voltados diretamente à promoção da saúde, prestados pelos estabelecimentos assistenciais de saúde que desenvolvem as atividades previstas nas atribuições 1 a 4 da Resolução RDC Anvisa nº 50, de 2002. Desse conceito estão excluídas as simples consultas médicas, que não se identificam com as atividades prestadas no âmbito hospitalar, mas nos consultórios médicos.
+O regime do art. 15, § 1º, III, "a" , da Lei nº 9.249, de 1995, alcança sociedades que se utilizam da estrutura de terceiro, desde que elas sejam organizadas sob a forma de sociedade empresária, de fato e de direito, com efetivo elemento empresarial, que obedeçam às normas da Anvisa, e que o ambiente onde seja prestado o serviço possua alvará da vigilância sanitária estadual ou municipal, em decorrência do disposto no Parecer SEI nº 7.689/2021/ME.
+Para que uma sociedade de profissionais seja considerada uma sociedade empresária de fato, basta que cumpra com os requisitos estabelecidos no art. 966 da Lei nº 10.406, de 2002.
+SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 36, DE 19 DE ABRIL DE 2016, À SOLUÇÃO DE CONSULTA COSIT Nº 29, DE 18 DE MARÇO DE 2021, E À SOLUÇÃO DE CONSULTA COSIT Nº 247, DE 23 DE OUTUBRO DE 2023
+Dispositivos Legais: Lei nº 9.249, de 26 de dezembro de 1995, art. 15, caput, § 1º, inciso III, alínea "a" ; Instrução Normativa RFB nº 1.700, de 14 de março de 2017, art. 33, §§ 1º, inciso II, alínea "a", 3º e 4º; Parecer SEI nº 7.689/2021/ME; Resolução RDC Anvisa nº 50, de 21 de fevereiro de 2002.
+Assunto: Contribuição Social sobre o Lucro Líquido - CSLL
+LUCRO PRESUMIDO. SERVIÇOS HOSPITALARES. PERCENTUAL DE PRESUNÇÃO. AMBIENTE DE TERCEIRO. SOCIEDADE EMPRESÁRIA.
+Para fins de aplicação do percentual de presunção de 12% (doze por cento) sobre a receita bruta auferida no período de apuração pela pessoa jurídica, com vistas à determinação da base de cálculo da CSLL, consideram-se serviços hospitalares aqueles que se vinculam às atividades desenvolvidas pelos hospitais, voltados diretamente à promoção da saúde, prestados pelos estabelecimentos assistenciais de saúde que desenvolvem as atividades previstas nas atribuições 1 a 4 da Resolução RDC Anvisa nº 50, de 2002. Desse conceito estão excluídas as simples consultas médicas, que não se identificam com as atividades prestadas no âmbito hospitalar, mas nos consultórios médicos.
+O regime do art. 20 em conjunto com o art. 15, § 1º, III, "a" , da Lei nº 9.249, de 1995, alcança sociedades que se utilizam da estrutura de terceiro, desde que elas sejam organizadas sob a forma de sociedade empresária, de fato e de direito, com efetivo elemento empresarial, que obedeçam às normas da Anvisa, e que o ambiente onde seja prestado o serviço possua alvará da vigilância sanitária estadual ou municipal, em decorrência do disposto no Parecer SEI nº 7.689/2021/ME.
+Para que uma sociedade de profissionais seja considerada uma sociedade empresária de fato, basta que cumpra com os requisitos estabelecidos no art. 966 da Lei nº 10.406, de 2002.
+SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 36, DE 19 DE ABRIL DE 2016, À SOLUÇÃO DE CONSULTA COSIT Nº 29, DE 18 DE MARÇO DE 2021, E À SOLUÇÃO DE CONSULTA COSIT Nº 247, DE 23 DE OUTUBRO DE 2023
+Dispositivos Legais: Lei nº 9.249, de 26 de dezembro de 1995, art. 15, caput e § 1º, III, "a" e § 2º, e art. 20; Instrução Normativa RFB nº 1.700, de 14 de março de 2017, art. 34, § 2º; Parecer SEI nº 7.689/2021/ME; Resolução RDC Anvisa nº 50, de 21 de fevereiro de 2002
+Assunto: Processo Administrativo Fiscal
+INEFICÁCIA PARCIAL.
+Não produz efeitos a questão formulada em desacordo com os procedimentos e requisitos estabelecidos nos Capítulos II e III e sem a descrição precisa e completa do fato a que se referir ou sem os elementos necessários à sua solução.
+Dispositivos Legais: Instrução Normativa RFB nº 2.058, de 9 de dezembro de 2021, art. 27, I e XI.
+[arquivo anexo: SC SRRF06-Disit nº 6.032-2025.pdf]
+HELDER GERALDO MIRANDA DE OLIVEIRA
+Chefe da Divisão
