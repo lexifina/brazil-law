@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de ADRIANO GONÇALVES AMARAL - condenado à pena total de 27 anos, 6 meses e 2 dias de reclusão, em execução na Ação n. 5000110-20.2010.8.27.2722 -, em que a defesa aponta como autoridade coatora a Primeira Câmara Criminal do Tribunal de Justiça do Tocantins, que, em 28/10/2025, deu provimento ao Agravo em Execução Penal, determinando a realização de exame criminológico e restabelecendo o regime mais gravoso (Agravo em Execução Penal n. 0014144-29.2025.8.27.2700).
+Em síntese, o impetrante alega constrangimento ilegal decorrente da cassação da progressão ao semiaberto, com retorno ao regime fechado, por exigência de exame criminológico sem motivação concreta, em afronta à boa conduta carcerária certificada e ao cumprimento do requisito objetivo em 6/7/2025.
+Sustenta que a obrigatoriedade de exame criminológico inserida pela Lei n. 14.843/2024 configura novatio legis in pejus e não pode retroagir para alcançar condenações anteriores, em respeito ao art. 5º, XL, da Constituição Federal e ao art. 2º do Código Penal.
+Afirma que o exame criminológico, para fatos anteriores à Lei n. 14.843/2024, somente pode ser exigido com fundamentação concreta extraída do histórico prisional recente, nos termos da Súmula 439 do Superior Tribunal de Justiça; a gravidade abstrata dos delitos, a longa pena a cumprir e a ausência de faltas recentes não autorizam a medida.
+Aduz que a decisão colegiada amparou-se apenas em fundamentos genéricos e na nova lei, sem indicar elementos individualizados do período de execução, caracterizando excesso na execução e reformatio in pejus.
+Em caráter liminar, pede o afastamento do retorno ao regime fechado e a manutenção da decisão de primeiro grau que concedeu a progressão ao semiaberto, com dispensa de exame criminológico.
+No mérito, requer a cassação do acórdão coator e o restabelecimento da progressão ao semiaberto sem exigência de exame criminológico (Processo n. 5000110-20.2010.8.27.2722, da 3ª Vara Criminal da comarca de Araguaína/TO) - (fls. 2/23).
+É o relatório.
+A concessão de ordem de habeas corpus demanda demonstração da ilegalidade, ônus que recai sobre a parte impetrante, a quem cumpre instruir o feito com a prova pré-constituída de suas alegações.
+In casu, verifico, de plano, a viabilidade do presente writ.
+A Sexta Turma desta Corte, no RHC n. 200.670/GO, de minha relatoria, DJe de 23/8/2024, decidiu que a exigência de realização de exame criminológico, para toda e qualquer progressão de regime, nos termos da Lei n. 14.843/2024, constitui novatio legis in pejus, pois incrementa requisito, tornando mais difícil alcançar regimes prisionais menos gravosos à liberdade. A retroatividade dessa norma se mostra inconstitucional, diante do art. 5º, XL, da Constituição Federal, e ilegal, nos termos do art. 2º do Código Penal.
+Ademais, esta Corte possui entendimento sumulado de que se admite o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada (Súmula 439/STJ).
+É assente na jurisprudência do Superior Tribunal de Justiça que não há constrangimento ilegal na exigência de exame criminológico, mesmo após a edição da Lei n. 10.792/2003, desde que fundamentada a decisão na gravidade concreta do delito ou em dados concretos da própria execução (AgRg no HC n. 302.033/SP, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 16/9/2014). Na mesma linha, HC n. 523.840/MG, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 29/10/2019; e AgRg no HC n. 562.274/SP, Ministro Felix Fischer, Quinta Turma, DJe 28/5/2020.
+No entanto, nem a gravidade abstrata dos crimes cometidos, nem a longa pena a cumprir, ou ainda a reincidência, são fatores que indicam a necessidade da perícia, é o que se depreende da leitura destes precedentes, por exemplo: HC n. 620.368/SP, Ministra Laurita Vaz, Sexta Turma, DJe 2/12/2020; AgRg no HC n. 702.817/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 19/11/2021; e HC n. 436.653/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 26/3/2018.
+É nítida a existência de ilegalidade na espécie, a ponto de justificar a concessão da ordem, pois não foram indicados elementos concretos da execução para impor a realização de exame criminológico, mas apenas menção à retroatividade da lei nova (fls. 27/29).
+Necessário afastar a ilegalidade.
+Ante o exposto, concedo liminarmente a ordem para restaurar a decisão de primeiro grau que concedeu a progressão de regime (fls. 54/57).
+Comunique-se.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. IMPOSIÇÃO DE EXAME CRIMINOLÓGICO. GRAVIDADE ABSTRATA DOS CRIMES PELOS QUAIS O APENADO CUMPRE PENA E LONGA PENA A ADIMPLIR. FUNDAMENTAÇÃO INIDÔNEA. PRECEDENTES. LEI N. 14.843/2024. NOVATIO LEGIS IN PEJUS. IMPOSSIBILIDADE DE APLICAÇÃO RETROATIVA. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem concedida liminarmente, nos termos do dispositivo.
