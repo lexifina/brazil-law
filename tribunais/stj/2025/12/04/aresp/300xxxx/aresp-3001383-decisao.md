@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interposto por Claudio Alberto Chatack contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, inciso III, alíneas "a", da CF, contra acórdão proferido pelo Tribunal Regional Federal da 2ª Região, assim ementado (fl. 131):
+EMENTA: DIREITO PROCESSUAL CIVIL. APELAÇÃO CÍVEL. AÇÃO PELO PROCEDIMENTO COMUM. FUNDO DE GARANTIA DO TEMPO DE SERVIÇO (FGTS). ATUALIZAÇÃO MONETÁRIA. SUBSTITUIÇÃO DA TAXA REFERENCIAL (TR) POR OUTRO ÍNDICE. IMPOSSIBILIDADE. TEMA 731/STJ. ADI 5090/STF. HONORÁRIOS ADVOCATÍCIOS MAJORADOS. APELAÇÃO DESPROVIDA.
+I. CASO EM EXAME
+1. Apelação interposta contra sentença que julgou improcedente o pedido formulado na exordial, sob o fundamento de que: (a) a matéria em discussão já foi objeto de pronunciamento definitivo pelo Supremo Tribunal Federal, conforme ADI 5090/DF, em decisão com efeitos prospectivos, não alcançando, portanto, a recomposição de saldo de conta de FGTS em substituição à TR concernente a período pretérito; e, (b) a remuneração da conta vinculada de FGTS da parte autora, estabelecida pela Taxa Referencial como forma de atualização monetária, à época, observou a disciplina própria a ela aplicável, conforme já manifestado pelo STJ no julgamento do Tema Repetitivo 731 (R Esp 1614874/SC). O apelante pleiteia a substituição do índice de correção sob a alegação de que a TR não reflete adequadamente as perdas inflacionárias.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) a possibilidade de substituição da TR como índice de correção monetária dos saldos das contas vinculadas ao FGTS; e (ii) a adequação da condenação em honorários advocatícios.
+III. RAZÕES DE DECIDIR
+3. O FGTS possui natureza financeira e suas contas vinculadas são atualizadas pela TR, conforme previsão legal no art. 13 da Lei nº 8.036/1990 e no art. 12, inc. I, da Lei nº 8.177/1991. A jurisprudência do Superior Tribunal de Justiça, no Tema 731, firmou entendimento de que é vedado ao Poder Judiciário substituir a TR por outro índice, dado que a sua utilização é imposta por lei.
+4. O Poder Judiciário não pode substituir o índice de correção monetária fixado por lei, sob pena de violar o princípio da separação dos poderes, consagrado no art. 2º da Constituição Federal.
+5. A decisão do Supremo Tribunal Federal na ADI 5090, de 12/06/2024, manteve a TR como parte da remuneração das contas vinculadas ao FGTS, determinando que, nos anos em que a remuneração for inferior ao índice oficial de inflação (IPCA), caberá ao Conselho Curador do FGTS determinar a forma de compensação. Não há, portanto, autorização para substituir a TR por outro índice.
+6. Modulação dos efeitos decidida pelo STF na ADI 5090 impede a revisão de períodos anteriores à publicação da ata, reforçando a impossibilidade de substituição da TR para recomposição de perdas inflacionárias retroativas.
+7. Considerando que o pedido de substituição da TR por outro índice não encontra amparo na legislação vigente ou na jurisprudência do STF e STJ, a sentença que julgou improcedente o pedido deve ser mantida.
+8. Não há sucumbência recíproca, pois os pedidos autorais foram integralmente rejeitados, devendo ser mantida a condenação do autor ao pagamento integral dos honorários advocatícios.
+IV. DISPOSITIVO E TESE
+9. Apelação desprovida.
+10. Honorários advocatícios majorados em 1% (um por cento).
+11. Tese de julgamento: a) É vedada a substituição da Taxa Referencial (TR) como índice de correção dos depósitos do FGTS por outro índice, conforme disposição legal e entendimento consolidado no STJ e STF; b) A decisão do STF na ADI 5090, de 12/06/2024, manteve a TR como índice da remuneração do FGTS, determinando que o Conselho Curador do FGTS deverá determinar a forma de compensação, caso a remuneração seja inferior ao índice oficial de inflação (IPCA), mas sem permitir a substituição do índice legalmente previsto; e c) A decisão do STF na ADI 5090, que atribui efeitos ex nunc à determinação de complementação da remuneração do FGTS pelo IPCA, aplica-se apenas ao período posterior à publicação da ata de julgamento, não autorizando a recomposição de perdas inflacionárias em período anterior à aludida publicação; d) Não há sucumbência recíproca quando todos os pedidos do autor são rejeitados, devendo ser mantida a condenação integral em honorários advocatícios.
+Dispositivos relevantes citados: Lei nº 8.036/1990, art. 13; Lei nº 8.177/1991, art. 12, I; Lei nº 8.660/1993, art. 7º; CPC/2015, art. 85, §2º, §11 e art. 98, §3º.
+Jurisprudência relevante citada: STF, ADI nº 5090/DF, Rel. Min. Luís Roberto Barroso, Red. p/ o acórdão Min. Flávio Dino, j. 12/06/2024; STF, RE nº 442634 AgR, Rel. Min. Gilmar Mendes, DJ 30/11/2007; STF, RE nº 200844 AgR, Rel. Min. Celso de Mello, DJ 16/08/2002; STJ, R Esp nº 1.614.874/SC, Tema 731, Rel. Min. Benedito Gonçalves; TRF-3, Recurso Inominado Cível 0013795- 25.2021.4.03.6303, Rel. Juiz Federal Rodrigo Zacharias, julgado em 20.09.2024.
+Nas razões do recurso especial, a agravante alega que o Autor e Réu são parcialmente vencedores e perdedores, ocorrendo então a sucumbência recíproca, nos termos do artigo 86 do CPC/15.
+Com contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Tendo a parte insurgente impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial.
+No que tange a alegação de que o Autor e Réu são parcialmente vencedores e vencidos e, portanto, seria o caso de aplicação de sucumbência recíproca entre as partes, nos termos do artigo 86 do CPC/15, de acordo com o entendimento deste Superior Tribunal de Justiça, a revisão do quantitativo em que autor e réu decaíram do pedido, para fins de aferição de sucumbência recíproca ou mínima, implica reexame de matéria fático-probatória.
+Assim, rever a conclusão do Tribunal local acerca da aferição de sucumbência recíproca, demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inviável ante a natureza excepcional da via eleita, consoante disposto na Súmula nº 7/STJ.
+A propósito:
+PROCESSUAL CIVIL. FGTS. REDIRECIONAMENTO. PRAZO PRESCRICIONAL. ARE 709.212/DF. ART. 21 DO CPC/1973. PROPORCIONALIDADE DA SUCUMBÊNCIA. SÚMULA 7/STJ.
+1. Seguindo recente entendimento firmado pelo STF, no julgamento, com repercussão geral, do ARE 709.212/DF, Rel. Ministro Gilmar Mendes, conclui-se que a prescrição da Ação para cobrança do FGTS é de cinco anos.
+2. A reforma da conclusão para determinar que houve sucumbência recíproca depende de revolvimento fático-probatório a ensejar a manutenção dos ônus sucumbenciais anteriormente fixados (Súmula 7/STJ).
+3. Recurso Especial não conhecido.
+(REsp n. 1.696.604/ES, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/12/2018.)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FGTS. JUROS PROGRESSIVOS. ALEGAÇÃO DE OFENSA AO ART. 13 DA LEI 8.036/90. NECESSIDADE DE EXAME DA RESOLUÇÃO 134/2010 DO CONSELHO DE JUSTIÇA FEDERAL. IMPOSSIBILIDADE, EM SEDE DE RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. SUCUMBÊNCIA RECÍPROCA. IMPOSSIBILIDADE DE REVISÃO, EM SEDE DE RECURSO ESPECIAL, DE FATOS E PROVAS. SÚMULA 7/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+III. Segundo a jurisprudência desta Corte, em sede de Recurso Especial é vedada a apreciação do quantitativo em que autor e réu saíram vencedores ou vencidos, na demanda, bem como da proporção em que cada parte foi sucumbente, em relação ao pedido inicial, por ensejar o revolvimento de matéria eminentemente fática, a atrair o óbice do enunciado sumular 7/STJ. Precedentes: STJ, EDcl no REsp 1.486.808/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 03/02/2015; AgRg no AREsp 608.564/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 03/02/2015.
+IV. Agravo Regimental improvido.
+(AgRg no AREsp n. 669.038/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 29/2/2016.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial, com fundamento no artigo 932, III, do CPC/2015, combinado com os artigos 34, XVIII, a, e 255, I, do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. FUNDO DE GARANTIA DO TEMPO DE SERVIÇO (FGTS). ATUALIZAÇÃO MONETÁRIA. SUCUMBÊNCIA RECÍPROCA. HONORÁRIOS ADVOCATÍCIOS. INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
