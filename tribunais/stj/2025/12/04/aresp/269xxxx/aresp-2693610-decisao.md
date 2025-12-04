@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BRUNO LIRA DOS SANTOS contra decisão do Tribunal de origem que inadmitiu o recurso especial pelos seguintes fundamentos (fls. 542-545):
+Verifico que o reclamo é inadmissível diante da existência de óbice processual.
+Com efeito, a contrariedade à Constituição Federal (fls. 408) somente deveria ser objeto de recurso extraordinário, não sendo preenchido, desse modo, o pressuposto objetivo da adequação. Importante salientar o entendimento firmado pelo Colendo Superior Tribunal de Justiça1:
+
+Outrossim, o recurso especial não pode ser admitido com base no dissídio jurisprudencial, uma vez que ausentes as condições exigidas pelo Código de Processo Civil, pelo Regimento Interno do Superior Tribunal de Justiça e pela própria Constituição Federal.
+A última parte do artigo 1.029, § 1º, bem como do artigo 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça, dispõem que o recorrente deverá em qualquer caso, mencionar as circunstâncias que identifiquem ou assemelhem os casos confrontados, o que não foi observado.
+
+Por fim, incide ao caso a Súmula nº 7 do Superior Tribunal de Justiça, que dispõe: A pretensão de simples reexame de prova não enseja recurso especial, ou seja, não é possível emitir um juízo de valor sobre a questão de direito federal sem antes apurar os elementos de fato.
+Nas razões do presente agravo em recurso especial, a defesa defende que o debate trazido à baila não importa no reexame de matéria fático-probatória, não se aplicando o enunciado da Súmula n. 7 do STJ.
+Aduz, ainda, que na apresentação do recurso especial houve a perfeita demonstração da similitude dos casos paradigmas com o caso sub judice.
+Requer o provimento do recurso, com a consequente repercussão jurídica.
+Impugnação apresentada.
+Parecer do Ministério Público Federal opinando pelo conhecimento do agravo e não conhecimento do recurso especial (fls. 585-594).
+É o relatório.
+A conclusão da instância de origem pelo não conhecimento do recurso deve ser mantida.
+O recurso especial tem como objetivo a absolvição do recorrente, ao fundamento de que os fundamentos utilizados no acórdão não são aptos a comprovar os requisitos de estabilidade e permanência, necessários para a configuração do delito do art. 35 da Lei de Drogas.
+A pretensão, contudo, não se resume à mera aplicação do direito aos aspectos fáticos delineados no acórdão recorrido, pois o acolhimento do recurso especial dependeria do reexame aprofundado das provas.
+No caso, portanto, incide a Súmula n. 7 do STJ, uma vez que "a pretensão de simples reexame de prova não enseja recurso especial".
+O papel definido pela Constituição Federal para o Superior Tribunal de Justiça na apreciação do recurso especial não é o de promover um terceiro exame da questão posta no processo, limitando-se à apreciação de questões de direito, viável apenas quando não houver questionamentos que envolvam os fatos e as provas do processo.
+Por isso, quando não puder ser utilizado com a finalidade exclusiva de garantir a uniformidade da interpretação da lei federal, analisada abstratamente, não se pode conhecer do recurso especial, que não se presta à correção de alegados erros sobre a interpretação fático-processual alcançada pelas instâncias ordinárias.
+Esse é o pacífico sentido da jurisprudência deste Superior Tribunal (AgRg no AREsp n. 2.479.630/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 16/9/2024, DJe de 18/9/2024; e AgRg no REsp n. 2.123.639/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 27/5/2024, DJe de 3/6/2024).
+Outrossim, quanto à deficiência de comprovação do dissídio jurisprudencial, apesar das alegações defensivas, tem-se que a parte agravante não conseguiu refutar a referida deficiência, pois deixou de comprovar que o realizou, contrapondo o paradigma indicado e o caso dos autos para demonstrar a semelhança entre as circunstâncias e a aplicação de teses divergentes.
+Nesse sentido: AgRg no AREsp n. 2.096.679/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 6/3/2023, DJe de 9/3/2023; e AgRg no AREsp n. 2.247.257/PA, relator Ministro Jesuíno Rissato - Desembargador convocado do TJDFT, Sexta Turma, julgado em 20/2/2024, DJe de 23/2/2024.
+No caso, além da inobservância dos requisitos dos arts. 1.029, § 1º, do Código de Processo Civil e 255, §§ 1º e 2º, do Regimento Interno do Superior Tribunal de Justiça, não ficou comprovada a similitude fática entre o acórdão paradigma e o acórdão recorrido.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. COMPROVAÇÃO DA DIVERGÊNCIA. AUSÊNCIA DA JUNTADA DO INTEIRO TEOR DO ACÓRDÃO PARADIGMA. INDICAÇÃO DO DIÁRIO DA JUSTIÇA ELETRÔNICO E DO SITE DO STJ. INSUFICIÊNCIA. VÍCIO SUBSTANCIAL. INAPLICABILIDADE DO PARÁGRAFO ÚNICO DO ART. 932 DO CPC. JURISPRUDÊNCIA CONSOLIDADA. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça está consolidada no sentido de que: (a) a certidão de julgamento compõe o inteiro teor do acórdão, não se admitindo, para comprovação da divergência, julgado dela desacompanhado; (b) a referência ao site do Tribunal (www.stj.jus.br) não é suficiente para substituir a juntada do inteiro teor do acórdão paradigma, sendo necessária a indicação de link específico que leve diretamente ao inteiro teor do julgado; (c) a menção ao Diário da Justiça em que publicado o aresto divergente não atende às exigências formais para comprovação do dissídio jurisprudencial, ante a ausência de inteiro teor do acórdão naquela fonte; e (d) a inobservância desses requisitos constitui vício substancial, o que afasta a aplicação do parágrafo único do art. 932 do CPC.
+2. Agravo interno desprovido.
+(AgInt nos EREsp n. 1.943.393/AM, relator Ministro João Otávio de Noronha, Segunda Seção, julgado em 30/4/2024, DJe de 6/5/2024.)
+Como se constata, a efetiva impugnação dos fundamentos que levaram o Tribunal de origem a inadmitir o recurso especial exigiria o expresso e efetivo enfrentamento de cada um dos respectivos fundamentos, sem o que não se pode cogitar do desacerto da decisão agravada.
+Aplica-se, em consequência, a conclusão prevista na Súmula n. 182 do STJ, que estabelece ser "inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". A propósito: AgRg no AREsp n. 2.706.517/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 15/10/2024, DJe de 23/10/2024; AgRg no AREsp n. 2.564.761/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 16/10/2024, DJe de 22/10/2024; AgRg no AREsp n. 2.126.667/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 15/10/2024, DJe de 18/10/2024; AgRg no AREsp n. 2.262.869/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/6/2024, DJe de 25/6/2024.
+Por fim, registro que, nos termos do art. 932, III, do Código de Processo Civil, incumbe monocraticamente ao relator "não conhecer de recurso inadmissível", hipótese amparada também pelo art. 253, parágrafo único, II, a, do Regimento Interno do Superior Tribunal de Justiça.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
