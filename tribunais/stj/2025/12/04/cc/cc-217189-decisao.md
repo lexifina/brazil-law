@@ -1,0 +1,21 @@
+DECISÃO
+Examina-se conflito negativo de competência entre o JUÍZO DE DIREITO DA 4ª VARA CÍVEL DE SANTOS - SP, suscitante, e o JUÍZO DE DIREITO DA 10ª VARA CÍVEL DE LONDRINA - PR, suscitado.
+Ação: rescisão contratual c/c devolução de valores ajuizada por JOSÉ ANTONIO BARBOSA ROQUE em face de HARD ROCK BRAZIL GERENCIAMENTO DE HOTÉIS LTDA. e HRH ILHA DO SOL EMPREENDIMENTOS IMOBILIÁRIOS SPE S/A.
+Manifestação do Juízo de Londrina - PR: reconheceu a abusividade da cláusula de eleição de foro, por não guardar pertinência com o domicílio das partes ou com o local da obrigação, e declinou da competência para o foro do domicílio do autor, com fundamento nos arts. 63 §§1º e 5º, do CPC e 101 do CDC.
+Manifestação do Juízo de Santos - SP: suscitou o presente conflito de competência, ao argumento de que é inviável o reconhecimento de ofício da incompetência relativa.
+Parecer do MPF: opinou pela competência do juízo suscitado.
+RELATADO O PROCESSO, DECIDO.
+Conheço do conflito, porquanto envolve juízos vinculados a Tribunais diversos, nos moldes do art. 105, I, "d", da Constituição Federal.
+A Segunda Seção desta Corte firmou orientação no sentido de que a nova redação do art. 63, §1º, bem como o §5º, do CPC - que condicionam a validade da cláusula de eleição de foro à pertinência com o domicílio de uma das partes ou com o local da obrigação, e que qualificam como abusivo o ajuizamento de ação em juízo aleatório, autorizando a declinação de ofício - somente se aplicam às ações distribuídas após a entrada em vigor da Lei 14.879/2024, ocorrida em 4/6/2024. (CC 206.933/SP, DJe 13/2/2025). Tal marco decorre da interpretação conjugada dos arts. 14 e 43 do CPC.
+Na hipótese, a ação originária do presente conflito foi ajuizada em 3/5/2024 (e-STJ, fl. 17), ou seja, antes da vigência da Lei 14.879/2024. Por essa razão, é inaplicável a nova disciplina legal que autoriza o reconhecimento de ofício da incompetência em hipóteses de abusividade da cláusula de eleição de foro.
+Assim, a solução do conflito deve observar o regime jurídico vigente antes da mencionada alteração legislativa. Segundo a jurisprudência então consolidada, em relações de consumo: (i) a competência é absoluta em favor do consumidor quando demandado; e (ii) quando o consumidor ajuíza a ação, a competência é relativa, podendo escolher entre seu domicílio, o domicílio do réu, o foro de eleição ou o cumprimento da obrigação. Nessas situações, aplica-se a Súmula 33 do STJ, que veda a declaração de ofício da incompetência relativa. Nesse sentido: CC 212.411/SP, Segunda Seção, DJe 15/9/2025 e CC 213.670/SC, Segunda Seção, DJe 18/8/2025.
+Logo, tendo o consumidor exercido legitimamente sua opção pelo foro de eleição contratual, é inviável o declínio de ofício, impondo-se a prorrogação da competência do juízo perante o qual a ação foi distribuída, qual seja, o juízo suscitado.
+Forte nessas razões, CONHEÇO do conflito para declarar a competência do JUÍZO DE DIREITO DA 10ª VARA CÍVEL DE LONDRINA - PR.
+Publique-se. Intime-se. Oficiem-se.
+EMENTA
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA NEGATIVO. AÇÃO DE RESCISÃO CONTRATUAL C/C DEVOLUÇÃO DE VALORES. RELAÇÃO DE CONSUMO. DEMANDA DISTRIBUÍDA ANTES DA VIGÊNCIA DA LEI 14.879/2024. ART. 63, §§ 1º e 5º do CPC. INAPLICABILIDADE. COMPETÊNCIA TERRITORIAL RELATIVA. IMPOSSIBILIDADE DE DECLINAÇÃO DE OFÍCIO. SÚMULA 33/STJ. LIBERDADE DE ESCOLHA DO FORO PELO CONSUMIDOR AUTOR. COMPETÊNCIA DO JUÍZO SUSCITADO.
+1. A nova redação dos §§ 1º e 5º do art. 63 do CPC, que autoriza o reconhecimento de ofício da incompetência em hipóteses de abusividade do foro de eleição, somente se aplica às ações distribuídas após a vigência da Lei 14.879/2024.
+2. A ação originária do conflito foi ajuizada antes da entrada em vigor da Lei 14.879/2024, circunstância que invalida o declínio da competência pelo juízo suscitado.
+3. Consoante a jurisprudência dominante antes da alteração legislativa, o consumidor tem a possibilidade de escolher onde ajuizará sua ação, pois é uma faculdade pertencente somente àquela pessoa física ou jurídica destinatária final do bem ou serviço na relação de consumo.
+4. A incompetência relativa não pode ser reconhecida de ofício. Súmula 33/STJ.
+5 . Conflito de competência conhecido. Estabelecida a competência do JUÍZO DE DIREITO DA 10ª VARA CÍVEL DE LONDRINA - PR.
