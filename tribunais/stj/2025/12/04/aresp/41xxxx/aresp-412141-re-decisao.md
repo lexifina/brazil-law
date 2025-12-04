@@ -1,0 +1,36 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça que recebeu a seguinte ementa (fl. 236):
+AGRAVO INTERNO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. INSTRUMENTO PARTICULAR DE CONFISSÃO DE DÍVIDA ASSINADO POR DUAS TESTEMUNHAS.
+1. "A assinatura das testemunhas instrumentárias somente expressa a regularidade formal do instrumento particular, sendo que eventual irregularidade, nesse ponto, não enseja, por si só, a invalidade do contrato ou do documento" (AgInt no REsp n. 1.608.498/RS, relator Ministro Raul Araújo, QUARTA TURMA, DJe de 27/3/2023). Precedentes.
+2. Excepcionalmente, quando a certeza acerca da existência do ajuste celebrado pode ser obtida por outro meio idôneo, ou no próprio contexto do autos, a exigência da assinatura de duas testemunhas no documento particular pode ser mitigada. Precedentes. 3. Agravo interno a que se nega provimento.
+Os embargos de declaração opostos na sequência foram rejeitados (fls. 276-277).
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão impugnado, ao art. 93, IX, da Constituição Federal.
+Nesse sentido, argumenta ter havido deficiência de fundamentação, uma vez que o acórdão recorrido não examinou a tese acerca da existência de impedimento legal à atuação da testemunha instrumentária, o que influenciaria de modo detemrinante o julgamento.
+Requer, assim, a admissão e o provimento do recurso extraordinário.
+É o relatório.
+2. No julgamento do paradigma vinculado ao Tema n. 339, o Supremo Tribunal Federal apreciou a seguinte questão:
+ ..  se decisão que transcreve os fundamentos da decisão recorrida, sem enfrentar pormenorizadamente as questões suscitadas nos embargos declaratórios, afronta o princípio da obrigatoriedade de fundamentação das decisões judiciais, nos termos do art. 93, IX, da Constituição Federal.
+Na ocasião, firmou-se a seguinte tese vinculante:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas.
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessária a apreciação de todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da CF não está relacionada ao acerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso dos autos, foram apresentados, de forma satisfatória, os fundamentos da conclusão do acórdão recorrido, como se observa do seguinte trecho do referido julgado (fls. 239-240):
+Trata-se de agravo interno contra decisão de minha relatoria na qual, reconsiderando a decisão de fls. 176/177, neguei provimento ao agravo, por entender que, no caso, em razão da possibilidade de atestar a validade da avença por outros meios idôneos, a exigibilidade da assinatura de duas testemunhas no contrato pode ser mitigada.
+A parte, em suas razões, alega que "não se trata apenas de aferir o requisito formal de duas testemunhas, mas sim da necessidade de observar o inciso V, do artigo 228, do Código Civil, e reconhecer a inviabilidade do título para fins de execução, pela assinatura do cônjuge da agravada como testemunha - o que compromete a própria validade do instrumento e implica em nulidade da execução em questão".
+ ..
+O recurso não merece prosperar.
+Com efeito, o Tribunal de origem, ao apreciar a questão relativa à validade do contrato, assim se manifestou:
+"A lei processual civil, de forma muito clara atribui força executiva ao "documento particular assinado pelo devedor e por duas testemunhas".
+A cópia do título que aparelha a execução está encartada às folhas 22/24. Dele se extrai que o contrato de confissão de dívida foi efetivamente assinado pelos agravantes, como também foi assinado por duas testemunhas. De fato, depreende- se que o contrato é dotado de certeza, liquidez e exigibilidade, porquanto previamente estabelecidos o prazo de pagamento, a forma, o valor e os encargos devidos. No que concerne à alegação de nulidade do título, ao argumento de que uma das testemunhas seria marido da exequente, não merece prosperar.
+No presente caso, não se aplica a vedação prevista no art. 228, do Código Civil, por ser de natureza processual, de sorte que concerne à admissibilidade de testemunha em juízo, não sendo aplicável às testemunhas instrumentais, que cumprem função de convalidação de determinados negócios jurídicos. O que prevalece, para o caso, é exatamente o art. 221, do Código Civil, que não exige qualquer testemunha para que a confissão de dívida em documento particular seja considerada válida e eficaz, diferentemente do art. 135 do Código anterior.
+Assim, não havendo qualquer dúvida, no caso, de que o instrumento particular é válido e eficaz, basta para que seja considerado título executivo, a presença de duas testemunhas, requisito meramente formal. E a lei processual não faz qualquer restrição tocante à qualificação pessoal destas.
+Assim sendo, ante à inaplicabilidade da restrição do artigo 228, do Código Civil, às testemunhas instrumentárias e perfeitamente válida a confissão de dívida, não há como negar-lhe o caráter de título executivo extrajudicial, ainda que uma das duas testemunhas fosse, na época, marido da credora" (e-STJ fls. 80/81)
+Verifica-se, portanto, que a conclusão foi no sentido de que não há dúvidas de que o instrumento particular é válido e eficaz, e que o requisito das duas testemunhas, no caso, seria meramente formal, ante a possibilidade de se atestar a higidez do título pelos demais elementos constantes no ato.
+Sobre o tema, a atual jurisprudência do Superior Tribunal de Justiça permite, quando por outros meios puder ser atestada a validade da avença, a mitigação da exigência da assinatura de duas testemunhas no contrato, uma vez que a assinatura das testemunhas instrumentárias se destina a exprimir regularidade formal ao instrumento particular, não evidenciando conhecimento acerca do negócio jurídico propriamente dito.
+Assim, fica inviabilizado o exame pretendido nesta insurgência.
+Com efeito, demonstrado que houve prestação jurisdicional compatível com a tese fixada pelo STF no Tema n. 339 sob o regime da repercussão geral, é inviável o prosseguimento do recurso extraordinário, que deve ter o seguimento negado.
+3. Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Vale registrar não ser cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC) contra decisões que negam seguimento a recurso extraordinário, conforme disposto no § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
