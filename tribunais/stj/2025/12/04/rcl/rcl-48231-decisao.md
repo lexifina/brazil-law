@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se da Reclamação n.º 48231-SP ajuizada por Abatedouro de Aves Califórnia Ltda e Antônio Mário Zancaner Paoli contra decisão monocrática do Desembargador Presidente da Seção de Direito Privado do eg. Tribunal de Justiça do Estado de São Paulo que não conheceu de agravo em recurso especial interposto contra decisão que não conheceu do agravo interno em face de decisão denegatória de recurso especial (fls. 66-68).
+É o relatório.
+Passo a decidir.
+A reclamação deve ser indeferida liminarmente.
+Deveras, na origem, contra a decisão denegatória de recurso especial fundada na tese de que não restou devidamente comprovado o dissenso jurisprudencial, na esteira de precedentes desta e. Corte Superior e nos termos exigidos pelo art. 1.029, §1º, do CPC, a parte reclamante manejou agravo interno ao invés de agravo em recurso especial, em evidente erro grosseiro, o que, inclusive, afasta a aplicação do princípio da fungibilidade recursal.
+Com efeito, convém destacar que o Código de Processo Civil, no art. 1.030, dispõe que cabe o Agravo em Recurso Especial (AREsp), estatuído no art. 1.042, contra a decisão do presidente ou do vice-presidente do tribunal recorrido que inadmitir recurso extraordinário ou recurso especial, salvo quando fundada na aplicação de entendimento firmado em regime de repercussão geral ou em julgamento de recursos repetitivos, quando o recurso cabível será o de Agravo Interno (AgInt) prescrito no art. 1.021, de modo a esgotar a instância e permitir o manejo da reclamação prevista no art. 988, § 5º, II, do mesmo Diploma Legal.
+Em outros termos, a nova sistemática prevista no atual Código de Processo Civil prevê que, em face da decisão da Presidência do Tribunal a quo que inadmite recurso especial, cabem alternativamente dois diferentes recursos:
+a) Agravo em Recurso Especial (AREsp), quando a decisão não for fundada na aplicação de entendimento firmado em julgamento de recursos repetitivos (art. 1.042, primeira parte).
+b) Agravo Interno (AgInt) quando a decisão for fundada na aplicação de entendimento firmado em julgamento de recursos repetitivos, dirigido ao próprio Tribunal a quo (art. 1.021, do CPC, cc o art. ), visando esgotar a instância ordinária e permitir o manejo da reclamação prevista no art. 988, § 5º, II, do CPC.
+No caso em comento, a decisão do Tribunal a quo, inadmitindo o recurso especial, não teve por fundamento a incidência de tese firmada em julgamento de recurso repetitivos, mas sim a inobservância do requisito previsto no art. 1.029, §1º, do CPC (falta de comprovação do dissenso jurisprudencial), caso em que a parte ora reclamante deveria manejar agravo em recurso especial, e não o agravo interno, como ocorreu (fls. 48-53), em evidente erro grosseiro.
+Ante o exposto, com fundamento no art. 932, inc. VIII, do CPC e no art. 34, XVIII, "a", do RISTJ, indefiro liminarmente a Reclamação.
+Publique-se.
+EMENTA
