@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por GEOVANE GONCALVES DE SOUZA contra decisão do Tribunal de origem que inadmitiu o recurso especial por entender que a pretensão demandaria reexame de provas, conforme as vedações das Súmulas n. 7 e n. 83 do STJ.
+Nas razões do agravo, a defesa argumenta que o recurso especial deveria ter sido admitido, uma vez que se trata de discussão eminentemente jurídica, sem adentrar no aspecto probatório ou reexame de fatos (fls. 1.388-1.412).
+A parte recorrente aborda, ainda, aspectos relacionados ao mérito da causa, quanto a ausência de provas para condenação e reitera questões deduzidas no bojo das razões de recurso especial.
+Requer o provimento do agravo para conhecimento do recurso especial e a consequente repercussão jurídica.
+Manifestação do Ministério Público opinando pelo não provimento do do agravo em recurso especial, às fls. 1434-1438.
+É o relatório.
+A conclusão da instância de origem no sentido da inadmissibilidade do recurso deve ser mantida.
+O recurso especial tem como objetivo a modificação da decisão colegiada do Tribunal de origem, com pleito de absolvição do recorrente quanto ao delito de associação para o tráfico, art. 35, caput, da Lei n. 11.343/2006.
+Articula a defesa que não haveria elementos suficientes para a condenação do recorrente, entendendo ausente a existência de prova contundente em relação ao vínculo associativo entre o agravante e os demais acusados.
+A pretensão, contudo, não se resume à mera aplicação do direito aos aspectos fáticos delineados no acórdão recorrido, pois o acolhimento do recurso especial dependeria de reanálise das premissas fáticas e probatórias já fixadas pelas instâncias ordinárias, em especial, para absolvição por ausência de provas e quanto ao vínculo associativo do recorrente e demais corréus.
+No caso, portanto, incide a Súmula n. 7 do STJ, uma vez que "a pretensão de simples reexame de prova não enseja recurso especial".
+O papel definido pela Constituição Federal para o Superior Tribunal de Justiça na apreciação do recurso especial não é o de promover um terceiro exame da questão posta no processo, limitando-se à apreciação de questões de direito, viável apenas quando não houver questionamentos que envolvam os fatos e as provas do processo.
+Por isso, quando não puder ser utilizado com a finalidade exclusiva de garantir a uniformidade da interpretação da lei federal, analisada abstratamente, não se pode conhecer do recurso especial, que não se presta à correção de alegados erros sobre a interpretação fático-processual alcançada pelas instâncias ordinárias.
+Esse é o pacífico sentido da jurisprudência deste Superior Tribunal, como exemplificam os seguintes precedentes: AgRg no REsp n. 2.150.805/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 1/7/2025, DJEN de 4/7/2025; AgRg no AREsp n. 2.828.086/MS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 18/6/2025, DJEN de 25/6/2025; AgRg no AREsp n. 2.835.035/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 17/6/2025, DJEN de 26/6/2025; AgRg no AREsp n. 2.719.789/GO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/5/2025, DJEN de 20/5/2025; AgRg no AREsp n. 2.530.799/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 21/5/2024, DJe de 23/5/2024; AgRg no AREsp n. 2.406.002/MS, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 3/10/2023, DJe de 11/10/2023.
+Por fim, registro que, n  os termos do art. 932, III, do Código de Processo Civil, incumbe monocraticamente ao relator "não conhecer de recurso inadmissível", hipótese amparada também pelo art. 253, parágrafo único, II, a, do Regimento Interno do Superior Tribunal de Justiça
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
