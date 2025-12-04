@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de LAYENE VITORIA SOARES LIMA, apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, nos autos do HC n. 2337629-27.2025.8.26.0000.
+Consta dos autos que a paciente foi condenada à pena de 5 anos de reclusão, em regime inicial semiaberto, e ao pagamento de 500 dias-multa, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006, por transportar aproximadamente 3,448 kg de maconha em concurso de agentes. O Juízo singular negou o direito de recorrer em liberdade, com manutenção da prisão preventiva e determinação de compatibilização com o regime semiaberto.
+Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem (fls. 13-21).
+Neste writ , o impetrante sustenta que há incompatibilidade entre a prisão preventiva e o regime semiaberto fixado na sentença, o que configuraria constrangimento ilegal.
+Argumenta que o decreto constritivo carece de fundamentação concreta quanto ao risco à ordem pública, apoiando-se em gravidade em abstrato do delito e na mera prolação da sentença.
+Defende que a paciente é primária, menor de 21 anos, possui residência fixa e confessou o delito, circunstâncias que recomendam a substituição por medidas cautelares diversas.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva da paciente.
+É o relatório. Decido.
+Inicialmente, saliento que é consolidada a jurisprudência deste Superior Tribunal de Justiça no sentido de que a prerrogativa do relator para julgar monocraticamente o habeas corpus e o respectivo recurso não é afastada pelas normas regimentais que preveem a oitiva prévia do Ministério Público Federal (arts. 64, III, e 202 do RISTJ), notadamente quando a matéria se conforma com o entendimento dominante desta Corte (AgRg no HC n. 856.046/SP, de relatoria do Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 24/10/2023, DJe de 30/10/2023).
+Assim, passo a analisar diretamente o pedido formulado na insurgência.
+O acórdão impugnado está assim fundamentado (fls. 16-19; sem grifos no original):
+Inicialmente, consigna-se que a idoneidade da prisão preventiva da paciente nos autos da ação penal nº. 1501320-26.2025.8.26.0425 já foi objeto de exame anterior pela C. Câmara Criminal no bojo do HC nº. 2225509-41.2025.8.26.0000, "writ" em que denegada a ordem, por unanimidade, em julgamento concluído aos 7 de agosto p.p.
+Feito esse esclarecimento, verifica-se que, na r. sentença condenatória, embora tenha mantido a prisão preventiva da paciente, o n. magistrado "a quo" determinou a compatibilização entre o cárcere cautelar e o regime intermediário, ordenando sua transferência para unidade prisional adequada, salvo necessidade de permanência no regime fechado por conta de feito diverso, de modo que não demonstrado o cabimento de reparos quanto ao tópico, especificamente questionado na impetração (págs. 12/25).
+Acresça-se que, para além desse aspecto atinente à adequação da prisão preventiva, destacou a autoridade impetrada a necessidade de manutenção do encarceramento em razão da gravidade concreta da conduta (condenação por transporte rodoviário de mais de 3 quilogramas de maconha), não se vislumbrando, destarte, possibilidade de imediata alteração do entendimento, até porque, segundo consta do decisório impugnado, a increpada permaneceu presa durante toda a instrução.
+ ..
+Cumpre salientar, ademais, que, além da determinação para tanto, já houve efetiva compatibilização entre a custódia cautelar e o modo de execução da pena a ser cumprida em regime semiaberto, situação que apenas reforça a conclusão quanto à inexistência de coação ilegal passível de reparo na via.
+Em suma, não se constata flagrante constrangimento, teratologia, falta de fundamentação, tampouco desproporcionalidade na manutenção da medida constritiva extrema, destacando-se que a providência encontra respaldo em reiterados julgados do Superior Tribunal de Justiça.
+Cumpre destacar que a legalidade da segregação cautelar da paciente já foi reconhecida pela Sexta Turma desta Corte Superior nos autos do HC n. 1.026.984/SP, tendo em vista, em especial, a gravidade concreta da conduta, evidenciada pela grande quantidade de droga apreendida (aproximadamente 3,448 kg de maconha).
+Ao negar à ré o direito de recorrer em liberdade, o Juízo singular reafirmou que a natureza e a gravidade concreta do delito - tráfico de mais de 3,4 kg de maconha, transportada por rodovia, em alta velocidade e com fuga que culminou em acidente de trânsito -, evidenciam a acentuada periculosidade social das acusadas e o potencial de reiteração criminosa (fl. 47).
+Com efeito, a manutenção da custódia cautelar no momento da sentença condenatória, quando o acusado permaneceu preso durante toda a instrução criminal, não requer fundamentação exaustiva, sendo suficiente a permanência dos motivos que levaram à decretação da prisão preventiva (AgRg no RHC n. 214.053/MG, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 24/6/2025, DJEN de 30/6/2025).
+Por fim, constata-se que a orientação exposta no acórdão impugnado não diverge do entendimento desta Corte Superior, segundo o qual a prisão preventiva pode ser mantida na sentença condenatória mesmo com a fixação do regime semiaberto, desde que compatibilizada com as regras do regime, o que foi observado no caso.
+A propósito:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. PRISÃO PREVENTIVA. TRÁFICO DE DROGAS. MANUTENÇÃO DA CUSTÓDIA CAUTELAR. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..  5. Não há incompatibilidade entre a manutenção da prisão preventiva e a fixação do regime inicial semiaberto, sendo necessária a compatibilização da custódia com o regime imposto.
+IV. Dispositivo e tese
+6. Agravo regimental não provido.  ..  (AgRg no HC n. 1.003.134/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 24/6/2025, DJEN de 30/6/2025; sem grifos no original.)
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
