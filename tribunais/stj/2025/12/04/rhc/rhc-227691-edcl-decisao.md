@@ -1,0 +1,21 @@
+DECISÃO
+LUIZ FERNANDO SANTOS opõe embargos de declaração à decisão de fls. 164-166, em que conheci parcialmente do recurso em habeas corpus, para, nessa extensão, negar-lhe provimento.
+A defesa alega contradição quanto ao trecho da decisão embargada que afirma o réu haver dado causa ao atraso na tramitação do feito por ele não haver comparecido à perícia designada para o dia 22/5/2025. Ressalta que o denunciado não compareceu, pois não foi intimado para a ocasião, o que afasta o entendimento de que a desídia decorreu de seu comportamento.
+Requer a superação da imperfeição acima apontada.
+Decido.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a retirar ambiguidade, esclarecer obscuridade, eliminar contradição e suprir omissão existentes no julgado.
+Acolho a argumentação trazida pelo ora embargante.
+Na hipótese, observo que, de fato, houve contradição na fundamentação da decisão embargada. Nas informações prestadas à fl. 158, o Juízo processante afirma que "foi inicialmente designada perícia para o dia 22/05/2025, mas o acusado não compareceu". Todavia, não esclarece o motivo. Das informações prestadas ao Tribunal estadual, à fl. 95, extrai-se que "A perícia foi agendada pelo IML para o dia 22/05/2025, em Belo Horizonte (ID 10370209270). Contudo, não houve o comparecimento do acusado, que não foi intimado para tanto" (fl. 94, grifei). Diante disso, constato que o atraso na tramitação da ação penal decorreu de falha do Estado, que não intimou o acusado para a di ligência em questão.
+Portanto, passo ao novo exame da alegação de excesso de prazo na instrução processual.
+Quanto à tramitação do feito original, não se há de falar em excesso de prazo na custódia preventiva. Isso porque, consoante informações de fl. 158, o acusado foi preso em flagrante na data de 5/9/2024. A denúncia foi oferecida em 20/9/2025. A ação penal foi suspensa, devido à instauração de incidente de sanidade mental, protocolado pela defesa do réu, e deferido em 15/10/2024. A perícia foi agendada para o dia 22/5/2025, mas o acusado não se apresentou, por não haver sido intimado para a diligência (fl. 95), e o novo exame foi redesignado para 17/6/2026.
+Embora haja ocorrido descuido do Estado, que não intimou o réu para o exame pericial, considerado o tempo concreto da prisão preventiva comparado à quantidade abstrata da soma das penas previstas para os crimes objeto da denúncia, não verifico o excesso de prazo alegado, notadamente diante da complexidade do incidente de sanidade mental requerido pela defesa.
+Não se há de falar em ilegalidade, pois o acórdão recorrido está alinhado ao entendimento de que:
+ ..  não se verifica o excesso de prazo sustentado pela Defesa, se considerado o tempo concreto da prisão preventiva do Agravante, frente à quantidade abstrata de pena prevista para o ilícito pelo qual foi denunciado  .. , sobretudo quando as instâncias ordinárias indicaram algumas peculiaridades do caso concreto a serem levadas em consideração para se afastar essa tese  ..  (AgRg no RHC n. 191.212/AL, relator Ministro Teodoro Silva Santos, Sexta Turma, DJe de 7/3/2024).
+Ilustrativamente:
+ ..  análise do excesso de prazo na instrução criminal será feita à luz do princípio da razoabilidade e da proporcionalidade, devendo ser consideradas as particularidades do caso concreto e a forma de condução do feito pelo Estado-juiz. Dessa forma, a mera extrapolação dos prazos processuais legalmente previstos não acarreta automaticamente o relaxamento da segregação cautelar do acusado  ..  (AgRg no HC n. 832.582/PE, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 18/12/2023).
+Entretanto, é necessário que o Estado tome providências para reduzir o atraso no processo gerado por sua falha.
+À vista do exposto, acolho os embargos de declaração, a fim de sanar a contradição apontada, mas sem atribuir-lhes efeitos modificativos.
+Em tempo, determino ao Juízo da 2ª Vara Cível, Criminal e de Execuções Penais da Comarca de Itabirito-MG que oficie ao órgão responsável pela perícia, a fim de adiantar a diligência para data no primeiro bimestre de 2026.
+Comunique-se, com urgência, o teor desta decisão ao Juízo da 2ª Vara Cível, Criminal e de Execuções Penais da Comarca de Itabirito-MG.
+Publique-se e intimem-se.
+EMENTA
