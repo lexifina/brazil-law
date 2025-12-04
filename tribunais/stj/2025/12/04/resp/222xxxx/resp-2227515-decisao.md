@@ -1,0 +1,68 @@
+DECISÃO
+Trata-se de recurso especial interposto por FAZENDA NACIONAL, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra acórdão do Tribunal Regional Federal da 3ª Região assim ementado (e-STJ, fl. 206):
+PROCESSO CIVIL - TRIBUTÁRIO - EXECUÇÃO FISCAL AJUIZADA CONTRA SOCIEDADE EMPRESÁRIA - REDIRECIONAMENTO PARA SÓCIOS - IPI - CONSTITUIÇÃO DEFINITIVA - CONTAGEM DO PRAZO PRESCRICIONAL - TERMO INICIAL - TERMO FINAL - PRESCRIÇÃO: OCORRÊNCIA.
+1- Hipótese de tributo sujeito a lançamento por homologação, no qual a declaração tributária constitui o crédito nos termos da Súmula nº. 436 do Superior Tribunal de Justiça.
+2- Constituído definitivamente o crédito tributário, inaugura-se o prazo prescricional para a sua cobrança, salvo hipótese de suspensão da exigibilidade do crédito tributário ou interrupção.
+3- Constituição definitiva em 16/09/1983. Ajuizamento da execução fiscal em 10/05/1990. Ausência de causa de interrupção do prazo prescricional. 4- Agravo de instrumento provido.
+Foram opostos embargos de declaração, por duas vezes, ambos rejeitados (e-STJ, fls. 206 e 1.105).
+Em suas razões do recurso especial (e-STJ, fls. 1.136-1.145), a parte recorrente aponta violação dos arts. 10 e 1.022, II, do Código de Processo Civil e do art. 174 do Código Tributário Nacional.
+Afirma que o Tribunal decidiu com base em fundamento (prescrição material entre constituição e ajuizamento) que não teria sido alegado ou apreciado pelo juízo de origem, sem oportunizar à União manifestação prévia, embora se trate de matéria de ordem pública.
+Sustenta nulidade do acórdão por omissão no exame dos embargos de declaração, afirmando que: a) foram opostos embargos de declaração, por duas vezes, para que o Tribunal se manifestasse sobre a juntada de cópias do processo administrativo; b) tais documentos comprovariam que a constituição definitiva do crédito ocorreu em 11/02/1986 (e não em 16/09/1983), afastando a prescrição; c) o Tribunal rejeitou os embargos sem apreciar especificamente esses documentos e a tese de que a prescrição material não teria sido suscitada na origem.
+Aduz que, considerada a constituição definitiva do crédito em 11/02/1986 (comprovada no processo administrativo juntado nos embargos), não teria ocorrido prescrição quinquenal, razão pela qual o acórdão recorrido negou vigência ao art. 174 do CTN ao reconhecer a prescrição com termo inicial em 16/09/1983.
+Contrarrazões apresentadas (e-STJ, fl. 1.147-1.153).
+O recurso foi admitido na origem (e-STJ, fls. 1.154-1.157).
+Brevemente relatado, decido.
+O recurso especial tem origem em agravo de instrumento interposto na execução fiscal em que se discutiu prescrição do crédito tributário do Imposto sobre Produtos Industrializados (IPI) e redirecionamento da execução para sócio, tendo o Tribunal de origem reconhecido a prescrição com base na constituição do crédito em 16/09/1983 e ajuizamento da execução em 10/05/1990.
+O recorrente alega violação ao art. 1 .022, III, do CPC/2015, sustentando que foram opostos embargos de declaração para que o Tribunal se manifestasse sobre a juntada de cópias do processo administrativo, documentos que comprovariam que a constituição definitiva do crédito ocorreu em 11/02/1986 (e não em 16/09/1983), afastando a prescrição.
+Consoante análise dos autos, verifica-se que a alegação de violação ao art. 1.022, III, do Código de Processo Civil de 2015, não se sustenta, pois o Tribunal de origem decidiu a matéria controvertida de forma fundamentada, ainda que contrariamente aos interesses da parte.
+Vejamos o que foi decidido acerca dos elementos fáticos que delimitam o mérito recursal (e-STJ, fls. 201-205 - sem grifos no original):
+A teor dos artigos 204, do Código Tributário Nacional, e 3º, da Lei Federal nº. 6.830/80, a certidão de dívida ativa tributária goza de presunção de liquidez e certeza.
+Tal presunção é relativa e pode ser ilidida através de exceção de pré-executividade, conforme sedimentado via da Súmula nº. 393, do Superior Tribunal de Justiça, verbis:
+ ..
+Trata-se de embargos à execução opostos contra a execução de créditos decorrentes de imposto sobre produtos industrializados - IPI (ID 257628516, págs. 01/09).
+É hipótese de tributo sujeito a lançamento por homologação, no qual a declaração tributária constitui o crédito nos termos da Súmula nº. 436 do Superior Tribunal de Justiça. Nesse sentido, esta Sexta Turma:
+ ..
+No entanto, caso o contribuinte não entregue a declaração tributária ao Fisco ou, ainda, realize o pagamento incorretamente, a constituição do crédito tributário ocorre mediante lançamento de ofício no prazo de cinco anos contados do primeiro dia do exercício seguinte àquele em que o lançamento poderia ter sido efetuado nos estritos termos do artigo 173, inciso I, do Código Tributário Nacional.
+Constituído definitivamente o crédito tributário, inaugura-se o prazo prescricional para a sua cobrança, salvo hipótese de suspensão da exigibilidade do crédito tributário ou interrupção.
+ ..
+A parte agravante, sócio a quem foi redirecionada a execução, alega prescrição e aponta como termo inicial a inscrição em dívida ativa e o termo final a sua citação.
+No caso dos autos, contudo, os créditos foram constituídos mediante notificação pessoal, ocorrida em 16/09/1983, conforme se infere das Certidões Dívida Ativa (ID 257628516, págs. 04/09).
+De outro lado, a execução fiscal foi ajuizada em 10/05/1990 (ID 257628516, págs. 01).
+Não consta, nos autos, qualquer notícia de causa de interrupção do prazo prescricional.
+O crédito está prescrito.
+O TRF da 3ª Região, ao apreciar os segundos embargos de declaração, assim consignou (e-STJ, fls. 1.132-1.133, sem grifos no original):
+No presente caso não há vícios a serem sanados. De fato, o v. Acórdão apreciou as questões impugnadas de forma específica, na medida que assim consignou (ID 291001816):
+"A parte agravante, sócio a quem foi redirecionada a execução, alega prescrição e aponta como termo inicial a inscrição em dívida ativa e o termo final a sua citação.
+No caso dos autos, contudo, os créditos foram constituídos mediante notificação pessoal, ocorrida em 16/09/1983, conforme se infere das Certidões de Dívida Ativa (ID 257628516, págs. 04/09).
+De outro lado, a execução fiscal foi ajuizada em 10/05/1990 (ID 257628516, págs. 01).
+Não consta, nos autos, qualquer notícia de causa de interrupção do prazo prescricional.
+O crédito está prescrito.".
+No Acórdão que rejeitou os embargos de declaração anteriormente opostos, foi assim observado (ID ):
+"Ao contrário do que alega a embargante, a exceção, em seu item IV e no pedido "c", sustenta a ocorrência de prescrição (ID 257628516, págs. 89 e 92); do mesmo modo, a inicial deste recurso no item 3.1. (ID 257627348, págs.05/06). Não houve, portanto, impugnação oportuna."
+A parte embargante não afasta a indicação de constituição do crédito ocorrida em 16/09/1983, a qual consta na certidão de dívida ativa - CDA.
+A insurgência contra o mérito da decisão não autoriza o manejo de embargos de declaração, cujo escopo essencial é o aperfeiçoamento do julgado e não a modificação do posicionamento nele externado.
+Ademais, os argumentos deduzidos pelo embargante não são capazes de infirmar a conclusão adotada.
+Evidente, portanto, o nítido caráter infringente do recurso, buscando a substituição da decisão por outra que atenda à interpretação conveniente ao recorrente, o que não se pode admitir.
+Por fim, importa ressaltar que nos termos do julgado do STF, Ag. Reg. no Agravo de Instrumento n. 739.580, SP, restou assentado que: "esta Corte não tem procedido à exegese a contrario sensu da Súmula STF 356 e, por consequência, somente considera prequestionada a questão constitucional quando tenha sido enfrentada, de modo expresso, pelo Tribunal de origem. A mera oposição de embargos declaratórios não basta para tanto."
+Assim, cabe esclarecer que os embargos de declaração se revestem de índole particular e fundamentação vinculada, cujo objetivo é o esclarecimento do verdadeiro sentido de uma decisão eivada de obscuridade, contradição, omissão ou erro material (art. 1.022 do CPC/2015), não possuindo natureza de efeito modificativo.
+Na espécie, o Tribunal de origem registrou de forma clara e fundamentada a ausência de qualquer causa de interrupção do prazo prescricional, bem como que a a Fazenda Nacional não lograra êxito em afastar a indicação de constituição do crédito ocorrida no ano de 1983, asseverando, assim, a prescrição do crédito tributário.
+Nesse sentido, a decisão contrária aos interesses do recorrente não faz com que, necessariamente, o órgão tenha considerado uma premissa fática equivocada como razão de decidir.
+Desse modo, tendo o Tribunal local motivado adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu ser cabível à hipótese, inexiste omissão apenas pelo fato de ter o julgado decidido em sentido contrário à pretensão da parte.
+Veja-se:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DANO MORAL. TRATAMENTO MÉDICO. ARTS. 489, § 1º, E 1.022, II, DO CPC. OMISSÃO NÃO CONFIGURADA. HONORÁRIOS SUCUMBENCIAIS. TESE DE NECESSIDADE DE RATEIO ENTRE OS RÉUS. FALTA DE PREQUESTIONAMENTO. SÚMULA 282/STF. REDIMENSIONAMENTO DO PERCENTUAL DOS HONORÁRIOS ADVOCATÍCIOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Na origem, cuida-se de ação de procedimento ordinário ajuizada em face do Estado do Rio de Janeiro e da Clínica Bela Vista Ltda. com o fim de reparar os alegados danos morais que decorreriam da conduta dos réus no tratamento médico a que fora submetida a genitora do autor.
+2. Verifica-se não ter ocorrido ofensa aos arts. 489, § 1º, e 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+3. No que concerne à verba sucumbencial, o Sodalício de origem não se manifestou sobre a alegação de que "considerada a existência de dois réus vencedores, importa a fixação no percentual total de 20% (vinte por cento) sobre o valor da causa, sem que nada possa justificar tão pesada condenação" (fl. 825), tampouco a questão foi suscitada nos embargos declaratórios opostos pela parte agravante para suprir eventual omissão. Portanto, à falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+4. Ademais, a Corte estadual manteve os honorários sucumbenciais fixados no juízo de piso, em virtude de terem sido "arbitrados nos limites estabelecidos pelo artigo 85, §2º do CPC, além de não se revelarem excessivo, diante do grande lapso temporal de tramitação da ação" (fl. 705). Assim, eventual acolhimento da insurgência recursal demandaria a incursão encontra óbice na Súmula 7/STJ, por demandar o reexame de matéria fático probatória.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.490.793/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 11/11/2024, DJe de 14/11/2024 - sem destaque no original)
+Quanto à nulidade do julgado recorrido por ofensa ao princípio da vedação à decisão surpresa, do excerto retirado do julgamento dos embargos de declaração, depreende-se que a instância originária constatou que a tese de prescrição foi suscitada desde a petição do agravo de instrumento (e-STJ, fls. 6-7), tendo a recorrente oportunidade de se manifestar.
+Nesse caso, a orientação jurisprudencial que vigora no Superior Tribunal de Justiça é no sentido de que ""o enunciado processual da "não surpresa" não implica exigir do julgador que toda solução dada ao deslinde da controvérsia seja objeto de consulta às partes antes da efetiva prestação jurisdicional, mormente quando já lhe foi oportunizada manifestação acerca do ponto em discussão" (AgInt no REsp 1.841.905 /MG)"(STJ, REsp 1.862.676/SP, Rel. Ministra NANCY ANDRIGUI, TERCEIRA TURMA, DJe de 01/03/2021)" (AgInt no REsp n. 1.819.255/PR, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 10/5/2021, DJe de 18/5/2021).
+Ademais, verifica-se que no julgamento dos embargos de declaração a questão suscitada pela Fazenda Nacional foi apreciada pelo Tribunal de origem, que concluiu que " a  parte embargante não afasta a indicação de constituição do crédito ocorrida em 16/09/1983, a qual consta na certidão de dívida ativa - CDA" (e-STJ, fl. 1.133).
+De outra parte, a controvérsia sobre a ocorrência da prescrição foi solvida a partir do exame das circunstâncias do caso concreto, marcos temporais e provas produzidas nos autos, inviáveis de reexame no recurso especial.
+No caso em análise, a p retensão envolve a superação da data admitida pelo Tribunal de origem como de constituição definitiva do crédito, para estabelecimento de outro marco temporal, a partir da análise do processo administrativo juntado aos autos.
+Como é cediço, aplica-se a Súmula n. 7 do STJ na hipótese em que o acolhimento da tese versada no recurso especial reclama a análise dos elementos probatórios produzidos ao longo da demanda, como na hipótese.
+Ante o exposto, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. TRIBUTÁRIO. EXECUÇÃO FISCAL AJUIZADA CONTRA SOCIEDADE EMPRESÁRIA. REDIRECIONAMENTO PARA SÓCIOS. IPI. CONSTITUIÇÃO DEFINITIVA. PRESCRIÇÃO. OCORRÊNCIA. AUSÊNCIA DE OFENSA AO ART. 1.022 DO CPC. VIOLAÇÃO AO PRINCÍPIO DA VEDAÇÃO À DECISÃO SURPRESA NÃO CONSTATADA. REVISÃO DO JULGADO. PRETENSÃO QUE DEMANDA O REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, DESPROVIDO.
