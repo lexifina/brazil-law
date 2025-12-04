@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido liminar, impetrado em favor de AILTON DANILO DA CONCEIÇÃO, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 14):
+Tráfico de Drogas Absolvição inviável Testemunhos seguros e convincentes Apelante surpreendido em posse de drogas embaladas individualmente, prontas para a venda - Condenação mantida Dosimetria Pena-base fixada acima do mínimo legal em razão da culpabilidade do réu, e de seus maus antecedentes Reincidência bem configurada Privilégio inaplicável por expressa vedação legal Regime fechado necessário, dada a gravidade concreta do delito e a periculosidade social do agente Recurso improvido.
+Consta dos autos que o paciente foi condenado, em primeiro grau, pelo art. 33, caput, da Lei 11.343/2006 c/c art. 61, I, do CP, à pena de 7 anos, 3 meses e 15 dias de reclusão, em regime inicial fechado, e 729 dias-multa. Em apelação, a defesa pleiteou absolvição por insuficiência probatória e redução da pena-base. O Tribunal de origem negou provimento, mantendo integralmente a condenação e a dosimetria, reconhecendo a reincidência e a inaplicabilidade do tráfico privilegiado.
+No presente writ, a impetrante sustenta, em síntese, a ilicitude das provas pela atuação da guarda municipal em atividade de patrulhamento e investigação, com abordagem pessoal e ingresso domiciliar sem situação de flagrância previamente constatada, violando o art. 144 da Constituição Federal e o art. 157, § 1º, do CPP.
+Requer a concessão da ordem para: (i) reconhecer a ilicitude das provas colhidas pela guarda municipal e absolver o paciente com fundamento no art. 386, VII, do CPP; ou, subsidiariamente, (ii) desclassificar a conduta para o art. 28 da Lei 11.343/2006.
+As informações foram prestadas e o Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus e, caso conhecido, pela denegação da ordem, nos termos da seguinte ementa (fls. 151):
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. IMPOSSIBILIDADE. UTILIZAÇÃO INADEQUADA DO HC. NÃO CONHECIMENTO. TRÁFICO DE DROGAS. ALEGAÇÃO DE ILICITUDE DAS PROVAS. PEDIDOS DE ABSOLVIÇÃO OU DESCLASSIFICAÇÃO DA CONDUTA. MATÉRIAS NÃO ANALISADAS PELO TRIBUNAL DE ORIGEM NO JULGAMENTO DO APELO. SUPRESSÃO DE INSTÂNCIA. PRECEDENTE DO STJ. DILIGÊNCIAS REALIZADAS PELA GUARDA MUNICIPAL. ATUAÇÃO REALIZADA EM RAZÃO DE FUNDADAS SUSPEITAS DA PRÁTICA DELITIVA. ESTADO DE FLAGRÂNCIA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. PARECER PELO NÃO CONHECIMENTO DO HABEAS CORPUS E, CASO CONHECIDO, PELA DENEGAÇÃO DA ORDEM.
+É o relatório.
+Decido.
+A Quinta Turma do Superior Tribunal de Justiça firmou entendimento no sentido de ser inadequada a impetração de habeas corpus quando utilizado em substituição a recurso próprio.
+A teor do disposto no art. 105, II, a, da CF/88, o recurso cabível contra acórdão que denega a ordem na origem é o recurso ordinário, enquanto, consoante previsto no art. 105, III, da CF, o recurso cabível contra acórdão que julga apelação, recurso em sentido estrito e agravo em execução é o recurso especial.
+Nada impede, contudo, a concessão de habeas corpus de ofício quando constatada a existência de ilegalidade flagrante, abuso de poder ou teratologia, nos termos do art. 654, §2º, do CPP, o que não é o caso dos autos .
+No que tange à nulidade da atuação da Guarda Municipal e à desclassificação da conduta, verifica-se que as teses não foram apreciadas pelo Tribunal de origem, motivo pelo qual as matérias não serão examinadas por esta Corte superior, sob pena de se incorrer em indevida supressão de instância.
+Ademais, "até mesmo as nulidades absolutas devem ser objeto de prévio exame na origem a fim de que possam inaugurar a instância extraordinária" (AgRg no HC n. 395.493/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 25/05/2017).
+Não há, portanto, flagrante ilegalidade que justifique a concessão de habeas corpus de ofício.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
