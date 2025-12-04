@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por CISA CONSTRUTORA E INCORPORADORA LTDA em face de decisão singular de minha lavra, na qual neguei provimento ao agravo em recurso especial manejado pela parte.
+Na decisão, às fls. 757-759, reconsiderei a decisão proferida pela Presidência deste Superior Tribunal de Justiça, que não havia conhecido do agravo em recurso especial manejado pela parte. Entendi, contudo, que o recurso especial interposto pela embargante encontra óbice na Súmula 7 desta Corte, além de que o acórdão proferido pelo Tribunal local está em consonância com a jurisprudência deste STJ.
+Nos embargos de declaração de fls. 762-774, a embargante sustenta, em síntese, que a decisão singular apresenta omissão e contradição quanto à alegada formação de "coisa julgada processual" sobre a indispensabilidade da prova pericial técnica. Argumenta que decisão anterior, proferida no Juizado Especial e já transitada em julgado, teria estabelecido a necessidade de realização da perícia.
+Aduz contradição quanto à forma de julgamento do agravo em recurso especial, afirmando que houve apreciação de matérias de mérito que se confundem com o conteúdo do recurso especial, o que demandaria a conversão do agravo em recurso especial em recurso especial para julgamento colegiado com direito à sustentação oral.
+Não houve impugnação, conforme certidão à fl. 778.
+Assim, delimitada a controvérsia, passo a decidir.
+A decisão embargada enfrentou coerentemente as questões postas a julgamento, no que foi pertinente e necessário, exibindo fundamentação clara e suficiente, razão pela qual não merece reparo algum.
+Ao contrário do alegado pela embargante, não houve omissão quanto à suposta "coisa julgada processual", já que, como consignado na decisão, "o entendimento do Juízo do Juizado Especial quanto à necessidade de produção de prova pericial no feito anterior não vincula o magistrado que apreciou a presente demanda pelo rito comum, o qual possui autonomia para avaliar a pertinência e a necessidade da produção de provas, conforme seu livre convencimento motivado" (fl. 758).
+Além disso, não há que se falar em vício de contradição, já que não há dissonância entre as premissas da decisão e sua conclusão. A decisão, ao negar provimento ao agravo em recurso especial por entender que o acórdão proferido pelo Tribunal local está em consonância com a jurisprudência desta Corte, está em conformidade com as Súmulas 83 e 568 deste STJ, que permitem o julgamento singular nessa hipótese.
+Assim, não demonstrada efetivamente a existência de nenhum dos vícios previstos no art. 1.022 do CPC, conclui-se que a pretensão da parte embargante é unicamente o rejulgamento da causa, finalidade à qual não se presta a via eleita.
+Em face do exposto, rejeito os embargos de declaração.
+Intimem-se.
+EMENTA
