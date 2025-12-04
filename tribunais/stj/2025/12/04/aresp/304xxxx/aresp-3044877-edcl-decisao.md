@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por TRANSPORTADORA RIO VERDE LTDA à decisão de fls. 801/802, que não conheceu do recurso.
+Sustenta a parte embargante:
+O recorrente interpõe embargos de declaração da decisão retro ao fundamento de omissão, contradição e obscuridade ao declarar deserção quando nas fls. 673/676 consta o preparo recursal recolhido em dobro.
+Desta forma, com atribuição de efeitos infringente para dar pleno trânsito ao recurso, a omissão deverá ser sanada com a apreciação das fls. 673/676, assim como a contradição e obscuridade de decisão de declara deserção, quando a parte recolheu em dobro o preparo recursal em atendimento a ordem do Tribunal "a quo" (fl. 805).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Conforme consignado na decisão ora embargada, que agora se repete, verifica-se que o Recurso Especial não foi instruído com a guia de custas do Superior Tribunal de Justiça e o respectivo comprovante de pagamento.
+Apesar de a parte recorrente asseverar que litiga sob o pálio da gratuidade, a mera alegação, na petição recursal, de que é beneficiária da assistência judiciária, não é suficiente para o afastamento da deserção, ou seja, deve haver a comprovação dessa condição. Nesse sentido, o AgInt no Rel. Ministra Isabel Gallotti, AREsp 1545172/SP, Quarta Turma, DJe de 5.6.2020.
+É insuficiente, portanto, a alegação de que a gratuidade foi deferida expressa ou tacitamente nos autos principais e/ou apensados, devendo a parte trazer certidão comprobatória do Tribunal de origem desse deferimento ou cópia integral dos respectivos autos, o que não ocorreu no caso concreto.
+Assim, percebeu-se, no TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO, haver irregularidade no recolhimento do preparo. A parte, embora regularmente intimada para sanar referido vício à fl. 661, não regularizou, limitando-se a alegar o diferimento de custas pela origem (fl. 665).
+Ressalta-se que as custas devidas ao Superior Tribunal de Justiça têm natureza jurídica de taxa federal, instituída pela Lei n. 11.636/2007. Entender que a legislação ou ato judicial local pudesse postergar o pagamento de uma taxa instituída por lei federal seria aceitar a possibilidade de instituir uma isenção heterônoma temporária, prática vedada pela Constituição da República ( art. 151, III).
+Ademais, como registrado na decisão embargada, conforme consta à fls. 661, o Tribunal já havia intimado a quo a parte recorrente para regularizar o preparo e esta não providenciou o correto recolhimento. Assim, não há previsão legal para uma nova intimação. Portanto, não cabia ao Tribunal de origem assinalar novas oportunidades à parte para regularizar o vício (fls. 666 e 671), pois preclusa a oportunidade.
+Dessa forma, o recurso especial não foi devida e oportunamente preparado, incidindo, na espécie, o disposto na Súmula n. 187 do STJ, o que leva à deserção do recurso.
+Ademais, veja que o juízo de admissibilidade do Recurso Especial é bifásico, ou seja, a decisão de admissibilidade proferida pelo Tribunal local ou ainda a certidão expedida por servidor na instância de origem não vincula esta Corte Superior, na medida em que tal juízo está sujeito ao duplo controle, sendo o STJ competente para nova análise dos pressupostos recursais.
+Nesse sentido: AgInt no AREsp n. 2.459.649/DF, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 3.5.2024; AgInt no AREsp n. 2.250.245/CE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 18.8.2023; AgInt no AREsp n. 2.050.156/MG, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 11.4.2024; e, AgInt no AREsp 1686946/MA, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 18.12.2020.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 28.8.2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se.
+Intimem-se.
+ EMENTA
