@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de recurso especial interposto por CANDIDO NISVALDO FRANCA COELHO, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO assim ementado (fl. 323):
+RECURSO DE APELAÇÃO CÍVEL C/C REEXAME NECESSÁRIO - AÇÃO DE COBRANÇA - PRESCRIÇÃO - INOCORRÊNCIA - RECEBIMENTO DAS DIFERENÇAS SALARIAIS EXISTENTES ENTRE O PERÍODO DE 03/2002 A 10/2003- SERVIDOR PÚBLICO ESTABILIZADO PELO ART. 19 DO ADCT - IMPOSSIBILIDADE DE RECEBIMENTO DE TAL VERBA - RECURSO PROVIDO, SENTENÇA RETIFICADA EM SEDE DE REEXAME NECESSÁRIO.
+A estabilidade extraordinária prevista no art. 19 do ADCT garante aos servidores públicos civis da União, Estados, DF e Municípios e que se encontravam em exercício perante a Administração Pública direta, autárquica ou fundacional (sem concurso público) até 5 (cinco) anos antes da promulgação da Constituição Federal de 1988, apenas e tão somente, o direito de permanecer no serviço público, pois, de acordo com a atual Carta Política a regra de ingresso no serviço público é a aprovação em concurso público de provas ou provas e títulos, a teor do que dispõe o art. 19 do ADCT c/c art. 37, II, da Carta Magna.
+Recurso de Apelação Provido e sentença Retificada em sede de Reexame Necessário.
+Os embargos de declaração opostos foram rejeitados (fls. 378/385).
+Em suas razões recursais, a parte recorrente alega violação dos arts. 489, § 1º, VI, e 1.022, II, parágrafo único, I, do Código de Processo Civil (CPC) por ter havido omissão do acórdão recorrido:
+(1) quanto à causa de pedir relativa à cobrança de diferenças salariais decorrentes da elevação de nível para o cargo de Inspetor de Tributos I. Aduz que teria havido decisão sobre licença-prêmio e o afastamento, de forma genérica, do direito às diferenças salariais do servidor estabilizado (fls. 403/411);
+(2) quanto à análise de julgamento fora dos limites do pedido (art. 492 do CPC) e à ausência de fundamentação adequada (arts. 11 e 489 do CPC e art. 93, IX, da Constituição Federal (CF); e
+(3) quanto à análise de prova documental extraída do processo administrativo 346175-2, consistente no reconhecimento pela parte recorrida do saldo residual que pleiteia no presente feito (fls. 404/412).
+No mérito, afirma haver violação:
+(1) dos arts. 7º, 9º, 10 e 493, caput e parágrafo único, do CPC porque o Tribunal de origem inovou ao decidir sobre verbas não postuladas, tendo ocorrido supressão de instância, bem como porque deixou de observar o contraditório e a ampla defesa quanto ao pedido de diferenças salariais decorrentes da correção de remuneração após promoção a Inspetor de Tributos I (fls. 405/416);
+(2) do art. 19 do Ato das Disposições Constitucionais Transitórias (ADCT) e dos arts. 1º, III; 5º, II e XXXII, 6º, 7º, caput e V, 37, 41 todos da CF ao argumento de que a estabilidade excepcional não impede o recebimento da contraprestação pelos serviços efetivamente prestados no cargo de Inspetor de Tributos I, quando há reconhecimento administrativo das diferenças (fls. 403/417).
+A parte adversa apresentou contrarrazões (fls. 476/483).
+O recurso foi admitido (fls. 484/489).
+É o relatório.
+Inexiste a alegada violação dos arts. 489 e 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade.
+Ao analisar o teor do recurso integrativo (fls. 330/338), constato que a irresignação da parte recorrente está relacionada à matéria já devidamente examinada pela Corte de origem, visto que, de modo expresso, fundamentado e coeso, apreciou e decidiu o pedido de pagamento de diferença salarial à parte ora recorrente, servidor estabilizado.
+A propósito, cito o seguinte trecho do acórdão que julgou o recurso de apelação da parte ora recorrida (fls. 308/316):
+A presente demanda diz respeito ao direito à recebimento de diferenças salariais relativo a servidor que não realizou concurso público quando da promulgação da Constituição Federal, nos termos do art. 19 da ADCT.
+ ..
+Em análise dos autos, observo que o Apelado - Cândido Nisvaldo França Coelho, foi nomeado servidor público para o cargo de Inspetor de Tributos, nível I sem Concurso Público, conforme consta do documento id. nº170331757.
+A questão é singela, cujo tema é pacífico neste Sodalício e no Tribunais Superiores.
+O ponto central a ser decidida é saber se servidor público estabilizado pelo art. 19 do ADCT tem direito ao recebimento de licença-prêmio, e diferenças salariais relativas ao cargo exercido.
+O presente recurso de apelação merece provimento, visto que o entendimento consolidado nesta Corte de Justiça, é no sentido de que o servidor público com estabilidade extraordinária não desfruta da mesma situação daquele que ingressou no serviço público por meio de concurso e integra aos quadros de carreira na Administração Pública.
+De igual modo, o Supremo Tribunal Federal também se posicionou que o servidor estável, mas não efetivo, possui somente o direito de permanência no serviço público no cargo em que fora admitido, portanto, não faz aos direitos inerentes ao cargo ou aos benefícios que sejam privativos de seusjus integrantes, confira:
+ ..
+Diante desses apontamentos, somente o servidores efetivos que se submeteram ao concurso público tem direito a percepção das verbas pleiteadas.
+ ..
+Isso porque a permanência do cargo público assegurada mediante art. 19 ADCT não passa de uma mera tolerância conferida pela norma constitucional de transição, sem direito a progressão funcional ou qualquer benefício privativo da carreira, cuja estabilidade especial não se confunde com a estabilidade prevista no art. 41 da Carta Maior.
+ ..
+Assim, se o servidor não ingressou no serviço por meio de concurso público e a ele foi-lhe concedida a estabilidade, o único direito garantido é apenas e tão somente de permanecer no serviço público, não podendo ser ampliado a esta categoria de servidores os direitos inerentes e garantidos aos servidores efetivos e estáveis. (sem destaques no original)
+Destaco também os seguintes trechos do acórdão que apreciou os embargos de declaração opostos pela parte ora recorrente (fls. 379/380):
+Em que pese o embargante tenha aduzido que houve omissão à causa de pedir do apelante na exordial, esclareço que o acordão deu provimento ao recurso de apelação interposto pelo Município de Cuiabá-MT, com isso, reconheceu o pedido alegado pelo apelante, ora embargado.
+Consta do acórdão embargado "(..) O ponto central a ser decidida é saber se servidor público estabilizado pelo art. 19 do ADCT tem direito ao recebimento de licença-prêmio, e diferenças salariais relativas ao cargo exercido. O presente recurso de apelação merece provimento, visto que o entendimento consolidado nesta Corte de Justiça, é no sentido de que o servidor público com estabilidade extraordinária não desfruta da mesma situação daquele que ingressou no serviço público por meio de concurso e integra aos quadros de carreira na Administração Pública.(..)"
+Dessa forma, ao reconhecer que o servidor público com estabilidade extraordinária, que é caso do embargante, não desfruta da mesma situação daquele que ingressou no serviço público por meio de concurso, não há que se falar em omissão sobre a causa de pedir do Embargante.
+Assim, ao prescrutar os autos, verifica-se que não assiste razão o embargante.
+Nota-se que o acórdão não padece de qualquer omissão, apenas decidiu contrariamente às teses defendidas pelo Embargante, sendo incabível a oposição de embargos de declaração apenas para expressar o inconformismo da parte embargante.
+Dessa feita, a despeito de tratar de outros direitos inerentes ao servidor público efetivo, a Corte de origem efetivamente apreciou a causa e o pedido objeto do presente feito, qual seja, o pagamento de diferença salarial decorrente de "elevação de nível" (fl. 6) de servidor estabilizado nos termos do art. 19 do ADCT.
+É importante destacar que julgamento diverso do pretendido, como neste caso, não implica ofensa aos dispositivos de lei invocados.
+Os arts. 7º, 9º, 10 e 493, caput e parágrafo único, do CPC não foram apreciados pelo Tribunal de origem à luz da tese recursal que embasa o recurso especial, qual seja, a inovação de teses ao decidir sobre verbas não postuladas, supressão de instância e observação do contraditório e da ampla defesa quanto ao pedido de pagamento das diferenças salariais (fls. 405/416), nem foram objeto dos embargos de declaração apresentados.
+A falta de enfrentamento no acórdão recorrido da matéria objeto do recurso impede o acesso a esta instância por não ter sido preenchido o requisito constitucional do prequestionamento.
+Incide no presente caso, por analogia, a Súmula 282 do Supremo Tribunal Federal (STF).
+Em relação à alegada afronta ao art. 19 do ADCT e aos arts. 1º, III, 5º, II e XXXII, 6º, 7º, caput e V, 37, 41 todos da CF é incabível o recurso especial quanto ao ponto por se tratar de matéria a ser veiculada em recurso extraordinário, cuja apreciação é da competência do Supremo Tribunal Federal; o contrário implicaria usurpação de competência (art. 102, III, da CF).
+Nessa mesma linha:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INCORRÊNCIA. REINTERPRETAÇÃO DO ALCANCE DA TESE FIRMADA EM RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL RECONHECIDA. MATÉRIA CONSTITUCIONAL. COMPETÊNCIA DO STF. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+IV - Não compete a este Superior Tribunal a análise de suposta violação a dispositivos constitucionais, ainda que para efeito de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal. Precedentes.
+ ..
+VI - Agravo Interno improvido.
+(AgInt no REsp n. 1.836.774/PR, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 10/8/2020, DJe de 14/8/2020, sem destaques no original.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PENSÃO MILITAR. FILHA. REQUISITOS DO ART. 7º DA LEI 3.765/60 C/C LEI 8.216/91. ALEGADA OMISSÃO ACERCA DE VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. AFERIÇÃO. IMPOSSIBILIDADE DE ANÁLISE, EM SEDE DE RECURSO ESPECIAL. ALEGADA OFENSA AO ART. 535 DO CPC/73. NÃO OCORRÊNCIA. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL QUE, EM TESE, TERIA RECEBIDO INTERPRETAÇÃO DIVERGENTE DAQUELA FIRMADA POR OUTROS TRIBUNAIS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF, APLICADA POR ANALOGIA. IMPOSSIBILIDADE DE APRECIAÇÃO DE MATÉRIA CONSTITUCIONAL, EM SEDE DE RECURSO ESPECIAL, SOB PENA DE USURPAÇÃO DA COMPETÊNCIA DO STF. AGRAVO INTERNO IMPROVIDO.
+ ..
+V. Do exame do julgado combatido e das razões recursais, verifica-se que a solução da controvérsia possui enfoque eminentemente constitucional. Dessa forma, compete ao Supremo Tribunal Federal eventual reforma do acórdão recorrido, no mérito, sob pena de usurpação de competência inserta no art. 102 da Constituição Federal. Precedentes do STJ (AgRg no AREsp 584.240/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 03/12/2014; AgRg no REsp 1.473.025/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 03/12/2014).
+VI. Agravo interno improvido.
+(AgInt no REsp n. 1.377.313/CE, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 18/4/2017, DJe de 26/4/2017, sem destaques no original.)
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, a ele nego provimento.
+Majoro em 10% (dez por cento), em desfavor da parte recorrente, o valor dos honorários sucumbenciais já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos no § 2º desse dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+ EMENTA
