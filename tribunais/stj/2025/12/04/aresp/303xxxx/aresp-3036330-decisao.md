@@ -1,0 +1,38 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por CARDIO PULMONAR DA BAHIA S.A contra decisão que inadmitiu recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 14/8/2025.
+Concluso ao gabinete em: 8/10/2025.
+Ação: de compensação por danos morais, ajuizada por SERGIO RAIMUNDO RAMOS LOUREIRO VILAS BOAS, em face de CÁRDIO PULMONAR DA BAHIA S.A e CAIXA DE ASSISTÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL - CASSI, na qual requer compensação por danos morais pela cobrança de despesas do tratamento ECMO negado pela operadora de saúde.
+Sentença: julgou procedentes os pedidos, para: i) condenar as requeridas à compensação por danos morais no valor de R$ 22.095,87 (vinte e dois mil, noventa e cinco reais e oitenta e sete centavos); ii) rejeitar o pedido reconvencional.
+Acórdão: negou provimento ao recurso de apelação interposto por HOSPITAL ESPERANÇA S.A (incorporadora da CARDIO PULMONAR DA BAHIA S.A) e negou provimento ao recurso de apelação interposto por CAIXA DE ASSISTÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL - CASSI, nos termos da seguinte ementa:
+APELAÇÕES SIMULTÂNEAS. PLANO DE SAÚDE. NEGATIVA DE COBERTURA DE PROCEDIMENTO DE ECMO NECESSÁRIO À MANUTENÇÃO DA VIDA DE PACIENTE ACOMETIDA POR COVID-19. DOENÇA E INTERNAMENTO COBERTOS CONTRATUALMENTE. INDICAÇÃO MÉDICA. ABUSIVIDADE DA OPERADORA DE SAÚDE. DEVER DE ARCAR TRATAMENTO ESSENCIAL DIANTE DE INEXITOSAS TENTATIVAS NOS DEMAIS TRATAMENTOS. PRECEDENTES DO STJ E DESTE TRIBUNAL DE JUSTIÇA. RESPONSABILIDADE CIVIL. DEVER DE INDENIZAR. RESPONSABILIDADE SOLIDÁRIA DO HOSPITAL. INTEGRANTE DA CADEIA DE CONSUMO. BENEFICIÁRIO DA REDE CREDENCIADA DA SEGURADORA. COBRANÇA INDEVIDA DIRECIONADA AO PACIENTE/RESPONSÁVEL ATRAVÉS DE E-MAILS E BOLETOS. CONDENAÇÃO SOLIDÁRIA MANTIDA. PEDIDO RECONVENCIONAL DIRECIONADO AO CORRÉU. NÃO CABIMENTO. INTELIGÊNCIA DO ART. 334, § 3º do CPC/15. APELOS IMPROVIDOS. SENTENÇA MANTIDA. (e-STJ fls. 1021-1022)
+Embargos de Declaração: opostos por CARDIO PULMONAR DA BAHIA S.A, foram rejeitados.
+Recurso especial: alega violação dos arts. 10, 343, § 3º e § 4º, 489, § 1º, IV, VI, 1.022, II, parágrafo único, II, e 933 do CPC, bem como dissídio jurisprudencial. Além da negativa de prestação jurisdicional, sustenta que o acórdão incorre em decisão surpresa por adotar fundamentos não debatidos, com ofensa ao contraditório. Argumenta que a cobrança ao responsável financeiro pelos serviços médico-hospitalares prestados é lícita e não pode ser afastada por relação contratual de plano de saúde, que produz efeitos apenas entre beneficiário e operadora. Assevera que é admissível reconvenção contra corréu, em prestígio à celeridade e à primazia do julgamento de mérito.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: REsp n. 2.095.460/SP, Terceira Turma, DJe de 15/2/2024 e AgInt no AREsp n. 2.325.175/SP, Quarta Turma, DJe de 21/12/2023.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca da responsabilidade do agravante ("Sendo o Hospital Apelante pertencente à rede credenciada do plano de saúde, é indubitável a sua atuação conjunta com a seguradora na cadeia de consumo ( ). Logo, caracteriza-se abusiva a conduta do Hospital Réu em cobrar do responsável procedimento necessário e negado pelo plano de saúde ( ). Reconhecida, assim, a responsabilidade solidária ( ) é devida ( ) a condenação pelos danos morais suportados." (e-STJ fls. 1125-1126), bem como sobre a impossibilidade da reconvenção contra corréu, de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo, quanto ao ponto, a Súmula 568/STJ.
+- Da violação do art. 489 do CPC
+Do exame do acórdão recorrido, constata-se que as questões de mérito foram devidamente analisadas e discutidas, de modo que a prestação jurisdicional foi esgotada.
+É importante salientar que a ausência de manifestação a respeito de determinado ponto não deve ser confundida com a adoção de razões contrárias aos interesses da parte. Logo, não há contrariedade ao art. 489 do CPC, pois o Tribunal de origem decidiu de modo claro e fundamentado.
+No mesmo sentido: AgInt nos EDcl no AREsp n. 1.547.208/SP, Terceira Turma, DJe 19/12/2019 e AgInt no AREsp n. 1.480.314/RJ, Quarta Turma, DJe 19/12/2019.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 10, 343, § 4º, e 933 do CPC, indicados como violados, apesar da oposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+Nesse sentido: AgInt no REsp n. 1.820.915/SP, Terceira Turma, DJe de 17/4/2024 e AgInt no AREsp n. 2.116.675/MG, Quarta Turma, DJe de 2/5/2024.
+- Da divergência jurisprudencial
+A comprovação da divergência jurisprudencial demanda que a parte recorrente realize uma análise comparativa detalhada entre o acórdão recorrido e o paradigma, de modo a identificar as semelhanças entre as situações de fato e a existência de interpretações jurídicas diferentes sobre o mesmo dispositivo legal, além de observar os requisitos formais, consoante previsão dos arts. 1.029, § 1º, do CPC, e 255, §§ 1º e 3º, do RISTJ.
+No entanto, neste recurso, não se constata a presença dos elementos essenciais necessários para comprovar a existência do dissídio, o que inviabiliza a análise da divergência jurisprudencial. Nesse sentido: AgInt no AREsp 2.396.088/PR, Terceira Turma, DJe de 22/11/2023, e AgInt no AREsp 2.334.899/SP, Quarta Turma, DJe de 7/12/2023.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 1% sobre o valor da condenação.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COMPENSAÇÃO POR DANOS MORAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação de compensação por danos morais.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. A ausência de decisão do Tribunal de origem acerca dos argumentos invocados pelo recorrente impede o conhecimento do recurso especial.
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. Agravo conhecido. Recurso especial parcialmente conhecido e não provido.
