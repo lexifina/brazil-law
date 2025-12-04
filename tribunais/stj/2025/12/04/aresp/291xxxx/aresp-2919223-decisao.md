@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por LUCIANO KIST contra decisão que inadmitiu seu recurso especial, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo eg. Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. EMBARGOS À AÇÃO MONITÓRIA.
+INÉPCIA DA PETIÇÃO INICIAL. NÃO CARACTERIZAÇÃO. A AÇÃO MONITÓRIA REQUER PROVA ESCRITA DE EXISTÊNCIA DA DÍVIDA, CONFORME DISPÕE O ARTIGO 700 DO CPC. ASSIM, ESTANDO DEMONSTRADO O FATO CONSTITUTIVO DO DIREITO DO AUTOR, INCUMBE AO RÉU FAZER PROVA DE FATO IMPEDITIVO, EXTINTIVO OU MODIFICATIVO DO DIREITO DO AUTOR, NA FORMA DO ARTIGO 373, I E II, DO CPC. INICIAL INSTRUÍDA COM O CONTRATO ASSINADO, EXTRATO DA EVOLUÇÃO DO DÉBITO E MEMÓRIA DE CÁLCULO, SUFICIENTES PARA O DESENCADEAMENTO DA AÇÃO.
+ALEGAÇÃO DE EXCESSO. DESCABE EXAME POR NÃO OBSERVÂNCIA DO ART. 702, § 2º, CPC. ALEGADO PELO EMBARGANTE QUE O AUTOR PLEITEIA QUANTIA SUPERIOR À DEVIDA, INCUMBIA-LHE INDICAR O VALOR QUE ENTENDEM COMO CORRETO, MEDIANTE DEMONSTRAÇÃO ATRAVÉS DE MEMÓRIA DE CÁLCULO, SOB PENA DE REJEIÇÃO LIMINAR OU NÃO CONHECIMENTO DA ALEGAÇÃO DE EXCESSO. INTELIGÊNCIA DO DO ART. 702, §§ 2º E 3º, CPC. NA HIPÓTESE, O EMBARGANTE NÃO INDICOU O VALOR QUE ENTENDE DEVIDO, TAMPOUCO APRESENTOU CÁLCULO DISCRIMINADO DESSE. ALEGAÇÃO DE EXCESSO PAUTADA PELA GENERALIDADE.
+APELAÇÃO DESPROVIDA. UNÂNIME. (fl. 416)
+Nas razões do recurso especial, a parte alega, em síntese, ofensa aos arts. 7º e 702, §§ 2º e 3º, do CPC, bem como divergência jurisprudencial, afirmando que, "em que pese seja obrigação do embargante demonstrar qual o valor realmente devido na monitória, sendo a parte beneficiária da Assistência Jurídica Gratuita a mesma possui direito de ver os autos remetidos à Contadoria Judicial, sob pena de sua incapacidade econômica culminar no cerceamento de sua defesa" (fl. 429).
+Aduz que "conforme a jurisprudência consolidada pelo Superior Tribunal de Justiça, o gozo deste direito não encontra impeditivos no fato do cálculo ser considerado de pouca complexidade, assim como não é limitado pela parte ser assistida pela Defensoria Pública" (fl. 429).
+Foram apresentadas contrarrazões às fls. 437-444.
+O recurso especial foi inadmitido na origem, dando ensejo à interposição do presente agravo.
+É o relatório. Decido.
+Ab initio, da leitura dos autos, verifica-se que, de fato, assiste razão à parte recorrente.
+O Tribunal a quo, no acórdão recorrido, negou provimento ao recurso de apelação interposto pelo ora recorrente, fundamentando-se na ausência de apresentação de demonstrativo discriminado e atualizado do cálculo que entende correto.
+Confira-se, por oportuno, trechos do acórdão recorrido (fls. 414-415):
+Ressalto que, alegado pela parte embargante em sede de embargos à ação monitória que o autor pleiteia quantia superior à devida, incumbe-lhe indicar o valor que entende como correto mediante memória de cálculo. Logo, não basta alusão genérica a taxas de juros e/ou existência de abusividades em cláusulas contratuais, sob pena de rejeição liminar ou não conhecimento da alegação de excesso, conforme dispõe o 702, §§ 2º e 3º, do CPC, litteris:
+(..)
+A propósito, o Superior Tribunal de Justiça, assentou que "o pedido de revisão contratual, deduzido em sede de embargos do devedor, tem natureza mista de matéria ampla de defesa (art. 745, V, CPC) e de excesso de execução (at. 745, III, CPC), com preponderância, entretanto, desta última, dada sua inevitável repercussão no valor do débito" (REsp nº 1365596/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 10/09/2013, DJe 23/09/2013).
+Nessa contexto, a alegação de excesso deve ser demonstrada de forma específica na petição dos embargos, com apresentação de memória de cálculo que indique em que consiste a incorreção do valor cobrado.
+No caso concreto, consta da inicial dos embargos, além da alegação de inexistência de prova escrita do título, excesso na cobrança dos juros moratórios e da correção monetária. Era necessário, no mínimo, o recálculo do débito com a utilização dos juros e correção monetária a partir do período que os entende corretos, à luz dos atuais entendimentos jurisprudenciais dominantes. No entanto, isso não foi observado.
+Com efeito, se a parte alega a existência de excesso na cobrança, por certo será capaz de indicar em que consiste ela, com a especificação dos valores e do período em que verificado o alegado excesso, requisito esse não observado no caso concreto.
+Ressalto que a elaboração de cálculo constitui providência que incumbe à parte, porquanto requisito da inicial dos embargos à monitória. De conseguinte, não merecem ser examinadas alegações de excesso levantadas nos embargos, com fundamento no art. 702, § 3º, CPC.
+(..)
+Assim, não conheço das alegações de excesso na cobrança dos valores.
+No entanto, esta Corte consolidou jurisprudência no sentido de que a realização dos cálculos pela Contadoria Judicial é direito da parte beneficiada pela gratuidade da Justiça, independentemente de sua complexidade.
+Nessa linha são os seguintes precedentes desse e. Superior Tribunal de Justiça:
+"PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. CÁLCULOS. CONTADORIA JUDICIAL. CONFERÊNCIA. POSSIBILIDADE. SUCUMBÊNCIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - O acórdão recorrido, ao consignar ser o contabilista " ..  auxiliar do juízo e não das partes" (fl. 190e), contrariou entendimento consolidado na jurisprudência desta Corte segundo a qual, " ..  sendo os exequentes beneficiários da assistência judiciária gratuita, a lei lhes confere o direito de se valer da contadoria judicial para a elaboração da planilha de cálculo" (REsp 691.978/RS, Rel. Min. TEORI ALBINO ZAVASCKI, PRIMEIRA TURMA, DJ 22.08.2005).
+III - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido."
+(AgInt nos EDcl no REsp n. 2.035.558/MG, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 29/4/2024, DJe de 2/5/2024, g.n.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. BENEFICIÁRIO DA AJG. EXECUÇÃO DE SENTENÇA. REMESSA À CONTADORIA JUDICIAL PARA CONFECÇÃO DE CÁLCULOS. DIREITO DO BENEFICIÁRIO INDEPENDENTEMENTE DA COMPLEXIDADE.
+1. Esta Corte consolidou jurisprudência no sentido de que o beneficiário da assistência judiciária gratuita tem direito à elaboração de cálculos pela Contadoria Judicial, independentemente de sua complexidade. Precedentes.
+2. Recurso especial a que se dá provimento.
+(REsp n. 1.725.731/RS, relator Ministro Og Fernandes, Segunda Turma, julgado em 5/11/2019, DJe de 7/11/2019, g.n.)
+"PROCESSUAL CIVIL. RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS NS. 282 E 356 DO STF. BENEFICIÁRIO DA ASSISTÊNCIA JUDICIÁRIA GRATUITA. UTILIZAÇÃO DA CONTADORIA JUDICIAL. POSSIBILIDADE.
+1. O prequestionamento dos dispositivos legais tidos como violados constitui requisito indispensável à admissibilidade do recurso especial. Incidência das Súmulas ns. 282 e 356 do Supremo Tribunal Federal.
+2. A jurisprudência do STJ firmou-se no sentido de que a parte beneficiária da assistência judiciária gratuita tem direito a valer-se da contadoria judicial para a elaboração de planilhas de cálculos.
+3. Recurso especial parcialmente conhecido e, nessa parte, provido.
+(REsp n. 449.320/RS, relator Ministro João Otávio de Noronha, Segunda Turma, julgado em 27/6/2006, DJ de 3/8/2006, p. 242, g.n.)
+Por outro lado, esta Corte já se manifestou no sentido de que é desinfluente o fato de a parte ter seus interesses patrocinados pela Defensoria Pública, de modo que essa condição não lhe retira o direito à remessa dos autos à contadoria judicial. Confira-se:
+"PROCESSO CIVIL. RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. CÁLCULO DO VALOR DEVIDO. BENEFICIÁRIO DA ASSISTÊNCIA JUDICIÁRIA. CONTADOR DO JUÍZO. POSSIBILIDADE. ARTIGOS ANALISADOS: ART. 475-B, §3º, DO CPC.
+1. Ação de reparação por danos materiais e compensação por danos morais, ajuizada em 21.08.2007. Recurso especial concluso ao Gabinete em 23.08.2010.
+2. Discussão relativa à remessa dos autos ao contador do juízo, para elaboração dos cálculos do valor devido, apenas em razão do credor ser beneficiário da assistência judiciária.
+3. Quando a determinação do valor da condenação depender apenas de cálculos aritméticos, é do credor o ônus de apresentação da memória discriminada e atualizada do cálculo 4. Em nenhum momento, todavia, foi excluída a possibilidade de utilização do contador judicial. As reformas processuais apenas reduziram a sua esfera de atuação, que se restringiu às hipóteses em que (i) a memória apresentada pelo credor aparentemente exceder os limites da decisão exequenda e (ii) nos casos de assistência judiciária (art. 475-B, § 3º, do CPC).
+5. No que tange às hipóteses de assistência judiciária, a finalidade da norma é claramente a de facilitação da defesa daquele credor que não tem condições financeiras de contratar profissional para realização dos cálculos sem comprometimento do seu sustento ou de sua família.
+6. O fato do recorrente, na hipótese, já estar sendo representado pela Defensoria Pública não lhe retira a possibilidade de poder se utilizar dos serviços da contadoria judicial, como beneficiário da assistência judiciária.
+7. O art. 475-B, §3º, do CPC, ao permitir a utilização da contadoria, excepcionando a regra geral de que os cálculos do valor da execução são de responsabilidade do credor, não faz a exigência de que o cálculo deva "apresentar complexidade extraordinária", ou que fique demonstrada a "incapacidade técnica ou financeira do hipossuficiente", como entendeu o Tribunal de origem.
+8. Há que se fazer uma interpretação teleológica do benefício previsto no art.
+475-B, §3º, segunda parte, do CPC, bem como de caráter conforme à própria garantia prevista no art. 5º, LXXIV, da CF/88, in verbis: "O Estado prestará assistência judiciária integral e gratuita aos que comprovarem a insuficiência de recursos", a fim de lhe outorgar a mais plena eficácia.
+9. Recurso especial provido."
+(REsp 1.200.099/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 06/05/2014, DJe 19/05/2014, grifou-se)
+Ante o exposto, conheço do agravo e dou provimento ao recurso especial para determinar a remessa dos autos ao Tribunal de origem a fim de sejam encaminhados à contadoria judicial e o julgamento prossiga na esteira do devido processo legal.
+Publique-se.
+EMENTA
