@@ -1,0 +1,64 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de KLEBER ANDERSON RODRIGUES, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento do Agravo em Execução Penal n. 0017766-17.2025.8.26.0996.
+Extrai-se dos autos que o Juízo da Vara de Execução Penal indeferiu pedido de progressão ao regime semiaberto, formulado pelo paciente.
+O Tribunal de origem negou provimento ao agravo em execução penal interposto pelo paciente, nos termos do acórdão que restou assim ementado (fl. 10):
+"Agravo em execução. Progressão ao regime semiaberto. Ausência de mérito. Não provimento ao recurso."
+No presente writ, a defesa sustenta que o paciente faz jus à progressão de regime, por ter satisfeito os requisitos objetivos e subjetivos para tanto.
+Assinala que os documentos hábeis para aferir se o requisito subjetivo foi alcançado são os relatórios de vida carcerária e, excepcionalmente, o exame criminológico.
+Afirma que, no caso dos autos, o bom comportamento carcerário foi devidamente atestado, conforme documento de fl. 21, e sequer foi solicitado exame criminológico para aferir ou não o atingimento do requisito subjetivo pelo paciente, para fins de progressão de regime prisional.
+Prossegue alegando que " ..  o juízo de origem não desconstituiu nem o laudo pericial, nem tampouco o relatório de vida carcerária. Nega o pedido de progressão com base em convicção íntima de que a soma de penas presume a reincidência, afastando qualquer segurança jurídica ao cumprimento do processo de execução penal" (fls. 5/6).
+Requer, em liminar e no mérito, a concessão da ordem para que seja determinada a progressão de regime do paciente para o semiaberto.
+A liminar foi indeferida às fls. 60/61.
+As informações requeridas foram prestadas às fls. 67/69.
+O Ministério Público manifestou-se pela concessão parcial da ordem para que seja determinado a realização do exame criminológico do paciente para aferir o preenchimento do requisito subjetivo necessário para a concessão da benesse (fls. 76/79).
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Ademais, não se verifica a existência de flagrante ilegalidade a justificar a concessão da ordem de ofício.
+Conforme relatado, a defesa almeja seja concedida ao paciente a progressão ao regime semiaberto.
+O Tribunal de origem manteve a decisão do Juízo da execução nos seguintes termos (grifos nossos):
+"Ora, além do requisito objetivo (temporal), deve o condenado preencher também o requisito subjetivo, qual seja, ter mérito - tomada a palavra em seu sentido etimológico, significando, portanto, "merecimento" - para a progressão de regime.
+A análise desse "merecimento" deve ser feita de forma ampla e global e não por meio de uma mera declaração de funcionário administrativo, restrita, aliás, que é à expressão "bom comportamento".
+Quanto ao atestado de bom comportamento carcerário, na prática transferindo ao órgão administrativo a responsabilidade de analisar o mérito do Agravante, vê-se que a maioria dos condenados não se atreve a romper a disciplina prisional, ou evitam fazê-la nos últimos anos, sabedores de que, assim agindo, poderão, de forma mais fácil, ludibriar não só o diretor do presídio, mas principalmente o julgador de seu benefício.
+O bom comportamento carcerário atestado (fls.16) não significa necessariamente que o Agravante possua mérito à progressão, já que o bom comportamento necessário serve para averiguar a aptidão de aceitar as normas do sistema prisional, não querendo dizer que está pronto para vivenciar um regime menos rigoroso.
+Ora, nunca é demais lembrar e mais uma vez - que não se há de confundir mérito da execução com bom comportamento carcerário, a ser comprovado por atestado penitenciário, valendo transcrever a precisa lição de Miguel Reale Júnior, René Ariel Dotti, Ricardo Antunes Andreucci e Sérgio Marcos de Moraes Pitombo ("Penas e Medidas de Segurança no Novo Código", Ed. RT, 2ª Ed., 1987, p.233):
+ ..
+Assim, os elementos informativos do requisito de ordem subjetiva não recomendam por ora o benefício, considerando-se que: 1. o Agravante, reincidente doloso, cumpre uma pena total de 27 anos, 02 meses e 15 dias de reclusão, pela condenação pelos crimes de tráfico de drogas (artigo 33, "caput", da Lei nº 11.343/06), de furto simples (artigo 155, "caput", do Código Penal), de furto qualificado (artigo 155, § 4º, inciso IV, do Código Penal), de furto qualificado (artigo 155, § 4, incisos II e IV, o Código Penal), de associação ao tráfico de drogas (artigo 35, "caput", da Lei nº 11.343/06), e de posse ou porte ilegal de arma de fogo de uso restrito (artigo 16, "caput", da Lei nº 10.826/03); 2. o término de cumprimento da pena está previsto para 26.11.2044 (fls.17); 3. o Agravante registra, em seu prontuário carcerário, uma falta disciplinar de natureza grave, consistente em "desrespeito" demonstração de não assimilação da terapêutica penal.
+Ora, tudo revela que não possui o Agravante condições subjetivas de vivenciar regime mais brando." (fls. 11/15)
+De acordo com o entendimento assente nesta Corte Superior, "as faltas graves praticadas pelo apenado durante todo o cumprimento da pena, embora não interrompam a contagem do prazo para o livramento condicional, justificam o indeferimento do benefício  livramento condicional ou progressão de regime  por ausência do requisito subjetivo", e "não se aplica limite temporal à análise do requisito subjetivo, devendo ser analisado todo o período de execução da pena, a fim de se averiguar o mérito do apenado" (HC 564.292/SP, de minha relatoria, Quinta Turma, julgado em 16/6/2020, DJe 23/6/2020).
+Salienta-se, ainda, que "A noção de bom comportamento do reeducando abrange a valoração de elementos que não se restringem ao atestado emitido pela direção carcerária, sob pena de transformar o juiz em mero homologador de documentos administrativos" (AgRg no HC 991.821/MS, Relator Ministro Rogério Schietti Cruz, Sexta Turma, julgado em 19/11/2025, DJEN de 27/11/2025).
+No caso, as instâncias de origem, ao contrário do alegado pela defesa, negaram a progressão de regime ao paciente com base em fundamentação concreta, qual seja, o não preenchimento do requisito subjetivo, uma vez que, embora tenha sido emitido atestado de bom comportamento carcerário, há "em seu prontuário carcerário, uma falta disciplinar de natureza grave", falta essa que, ainda que reabilitada, pode ser utilizada para a negativa de concessão do benefício, conforme entendimento desta Corte Superior.
+É dizer, ainda que a falta tenha sido cometida há mais de 1 ano, verifica-se inviável a concessão da progressão de regime ao paciente, tendo em vista que a ausência de bom comportamento do apenado deve ser aferida levando em consideração todo o período da execução.
+Por fim, cabe ressaltar que rever o entendimento das instâncias antecedentes quanto ao não cumprimento do requisito subjetivo para a obtenção da progressão de regime implicaria revolvimento fático-probatório, que se mostra inviável pela via do habeas corpus.
+Sobre o tema, destacam-se (grifos nossos):
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. PROGRESSÃO DE REGIME. REQUISITO SUBJETIVO. RECURSO IMPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus, mantendo o indeferimento da progressão de regime ao apenado. Alegações da defesa acerca da suposta presença dos requisitos necessários para a concessão do benefício.
+II. Questão em discussão
+2. Há duas questões em discussão: (i) saber se é valido o indeferimento da progressão de regime por ausência de requisito subjetivo, com fundamento em faltas disciplinares graves - incluindo fuga do sistema prisional por duas e prática de novos delitos; e (ii) verificar se a análise dessa conclusão pelas instâncias ordinárias pode ser reexaminada em sede de habeas corpus.
+III. Razões de decidir
+4. O art. 112 da Lei de Execução Penal exige o preenchimento de requisitos objetivo e subjetivo para a concessão da progressão de regime, sendo o requisito subjetivo comprovado por atestado de bom comportamento carcerário expedido pelo diretor do estabelecimento prisional.
+5. A jurisprudência admite que, mesmo diante de atestado de bom comportamento, a progressão de regime pode ser indeferida caso a situação fática demonstre a ausência de mérito do sentenciado, como ocorre em casos de histórico de faltas graves.
+6. No caso concreto, a negativa do benefício baseou-se em fundamentos idôneos, incluindo as transgressões disciplinares no sistema penitenciário.
+7. Desconstituir a conclusão das instâncias ordinárias quanto à ausência do requisito subjetivo demandaria reexame aprofundado de matéria fático-probatória, o que é inviável em sede de habeas corpus, nos termos da jurisprudência consolidada.
+IV. Dispositivo e tese
+8. Agravo regimental improvido.
+Tese de julgamento:
+1. A progressão de regime exige o preenchimento cumulativo dos requisitos objetivo e subjetivo, sendo o requisito subjetivo avaliado com base no histórico prisional e comportamento do apenado.
+2. A prática de faltas graves é elemento idôneo para justificar o indeferimento da progressão de regime, mesmo diante de atestado de bom comportamento.
+3. O habeas corpus não é instrumento adequado para reexame de matéria fático-probatória relativa ao preenchimento do requisito subjetivo.
+Dispositivos relevantes citados: LEP, art. 112.
+Jurisprudência relevante citada: STJ, AgRg no HC n. 965.959/RJ, Rel. Min. Daniela Teixeira, Quinta Turma, julgado em 19/2/2025; STJ, AgRg no HC n. 952.760/RS, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/10/2024; STJ, AgRg no HC n. 828.247/RN, Rel. Min. Laurita Vaz, Sexta Turma, julgado em 21/8/2023; STJ, AgRg no HC n. 699.401/SP, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, julgado em 22/2/2022; STJ, AgRg no HC n. 426.201/SP, Rel. Min. Rogério Schietti, Sexta Turma, julgado em 5/6/2018.
+(AgRg no HC 1.025.660/RJ, Relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 8/10/2025, DJEN de 14/10/2025.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. NECESSIDADE DE REALIZAÇÃO DE EXAME CRIMINOLÓGICO. PRÁTICA DE FALTA GRAVE NO CURSO DA EXECUÇÃO DA PENA. AUSÊNCIA DO REQUISITO SUBJETIVO. AGRAVO DESPROVIDO.
+1. Para a concessão da progressão de regime, deve o reeducando preencher os requisitos de natureza objetiva e subjetiva.
+2. Não é vedado ao órgão julgador determinar a submissão do apenado ao exame criminológico, desde que o faça de maneira fundamentada, em estrita observância à garantia constitucional de motivação das decisões judiciais, expressa no art. 93, IX, bem como à própria previsão do art. 112, § 1º, da Lei de Execução Penal: "A decisão será sempre motivada e precedida de manifestação do Ministério Público e do defensor."
+3. Esse entendimento se encontra-se sedimentado neste Superior Tribunal de Justiça por meio da Súmula 439: "admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada."
+4. Na hipótese, muito embora o paciente tenha alcançado o requisito objetivo, verifica-se a ausência demonstração do cumprimento do requisito subjetivo, em face do cometimento de falta disciplinar de natureza grave, pois, durante as diversas oportunidades em que lhe foram concedidos benefícios como prisão domiciliar, saídas temporárias e, até mesmo, progressão de regime, houve o cometimento de novo crime, de modo que não se verifica constrangimento ilegal na exigência de realização de exame criminológico, para fins de concessão da progressão de regime.
+5. De acordo jurisprudência pacificada neste Superior Tribunal de Justiça, "ainda que haja atestado de boa conduta carcerária, a análise desfavorável do mérito do condenado feita pelo Juízo das Execuções, com base nas peculiaridades do caso concreto e levando em consideração fatos ocorridos durante a execução penal, justifica o indeferimento do pleito de progressão de regime prisional pelo inadimplemento do requisito subjetivo" e, ainda, "não se aplica limite temporal à análise do requisito subjetivo, devendo ser analisado todo o período de execução da pena, a fim de se averiguar o mérito do apenado" (HC 564.292/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 16/6/2020, DJe 23/6/2020).
+6. Agravo regimental desprovido.
+(AgRg no HC 778.067/SC, Relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/3/2023, DJe de 17/3/2023. )
+Nesse contexto, não verifico a existência de flagrante ilegalidade que justifique a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 34, XX , do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
