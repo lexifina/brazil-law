@@ -1,0 +1,44 @@
+DECISÃO
+Cuida-se de recurso ordinário em mandado de segurança, interposto por Rosângela Alves Resende contra acórdão às fls. 290/302, proferido à unanimidade pela 11ª Câmara Cível do Tribunal de Justiça do Estado de Goiás, assim ementado:
+DIREITO ADMINISTRATIVO. MANDADO DE SEGURANÇA. PROMOÇÃO FUNCIONAL. AVALIAÇÃO DE DESEMPENHO. AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA. NECESSIDADE DE DILAÇÃO PROBATÓRIA. INADEQUAÇÃO DA VIA ELEITA. SEGURANÇA DENEGADA.
+I. CASO EM EXAME
+1. Mandado de segurança impetrado por servidora pública estadual contra ato que indeferiu seu pedido de promoção funcional para classe superior. A impetrante sustenta ilegalidade na avaliação de desempenho funcional, sobretudo pela ausência de critérios objetivos, motivação e violação aos princípios da legalidade, impessoalidade e razoabilidade. Requer promoção retroativa com efeitos financeiros e funcionais.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se a negativa de promoção funcional, com base em avaliação de desempenho com critérios previamente estipulados em edital, violou direito líquido e certo da impetrante, justificando a concessão da segurança.
+III. RAZÕES DE DECIDIR
+3. A promoção funcional, conforme a Lei Estadual nº 19.633/2017 e o edital correspondente, exige pontuação mínima em critérios pré-estabelecidos. A impetrante obteve 142,5 pontos, abaixo do mínimo exigido de 150.
+4. A avaliação realizada está acompanhada de justificativa formal, inexistindo demonstração de ilegalidade ou arbitrariedade nos critérios adotados ou na pontuação atribuída.
+5. O adicional ADAMA, concedido anteriormente à impetrante, não se confunde com os critérios de promoção funcional.
+6. Ausência de prova pré-constituída a demonstrar o direito líquido e certo. Necessidade de dilação probatória afasta a via estreita do mandado de segurança.
+IV. DISPOSITIVO E TESE
+7. Segurança denegada, com extinção do processo sem resolução de mérito. (fl. 298/299)
+Nas razões recursais, fls. 333/348, a autora alega que "foi avaliada com base em critérios subjetivos e genéricos, como "pouca proatividade" e "necessidade de revisão constante", sem que tais parâmetros estivessem previamente definidos no edital ou fossem acompanhados de justificativas técnicas claras. Tal conduta fere o princípio da legalidade, pois a Administração só pode agir conforme a lei e os regulamentos que a vinculam" (fl. 342). Afirma que "a negativa de promoção funcional à impetrante revela uma grave contradição administrativa, pois a mesma servidora que foi considerada ineficiente e pouco proativa pela Comissão de Promoção foi anteriormente reconhecida como altamente produtiva e eficiente pela própria Administração" (fl. 344). Diz ainda que cumpriu todos os requisitos estabelecidos pelo edital e "obteve pontuação próxima à exigida (142,5 pontos, contra os 150 exigidos), e não houve qualquer apontamento de irregularidade funcional ou disciplinar que pudesse justificar a negativa da promoção" (fl. 347).
+Em contrarrazões, às fls. 423/424, o Estado de Goiás argumenta que em razão da ausência de nova argumentação fática ou jurídica, apenas ratifica o parecer lançado pelo Procurador de Justiça.
+O Ministério Público Federal, pelo Subprocurador-Geral da República Rogério de Paiva Navarro manifestou-se pelo não conhecimento ou pelo desprovimento do recurso, pelos fundamentos do parecer às fls. 432/440, assim ementado:
+RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. PROMOÇÃO FUNCIONAL. AVALIAÇÃO DE DESEMPENHO. RECUSA MOTIVADA DA COMISSÃO COMPETENTE. IMPOSSIBILIDADE DE INTERFERÊNCIA DO PODER JUDICIÁRIO NO MÉRITO DO ATO ADMINISTRATIVO. DILAÇÃO PROBATÓRIA. INCOMPATIBILIDADE COM A VIA ELEITA. FUNDAMENTOS DO ACÓRDÃO NÃO ENFRENTADOS. INCIDÊNCIA DA SÚMULA 283/STF, POR ANALOGIA. PRECEDENTES.
+PARECER PELO NÃO CONHECIMENTO DA INSURGÊNCIA. SE EXAMINADO, PELO SEU IMPROVIMENTO.
+Custas recolhidas. (fl. 349).
+Representação regular (fl. 16).
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Consoante expressamente prevê o art. 932, inciso III, do Código de Processo Civil, "incumbe ao relator  ..  não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida".
+Assim, o presente apelo não merece avançar para além da barreira do juízo de Admissibilidade recursal. Com efeito, na hipótese que ora se apresenta ao exame desta Corte Superior, o Tribunal estadual denegou a ordem, à unanimidade, por entender ausente prova pré-constituída das alegações exordiais (fl. 297).
+Segundo a Corte goiana:
+No caso concreto, vê-se que a impetrante obteve 142,5 pontos na avaliação a que foi submetida, ou seja, abaixo dos 150 pontos previstos no edital.
+Percebe-se, ainda, que a pontuação que foi atribuída à servidora por sua chefia imediata está acompanhada de justificativa / "descrição" (veja Declaração n. 3 / 2024 SEMAD - documento do mov. 21/arquivo 2), inexistindo comprovação, de plano, acerca de qualquer abusividade ou ilegalidade concernente à pontuação atribuída ou ao ato administrativo que negou sua promoção funcional.
+Além disso, registra-se que o fato de a impetrante ter logrado êxito na sua avaliação para fins de concessão do "Adicional para Atividades de Meio Ambiente (ADAMA)" - previsto no art. 13 da Lei Estadual n. 19.633/17 -, não constitui prova do direito vindicado neste mandamus, sobretudo por se tratarem de institutos e critérios distintos.
+Com efeito, inexiste prova inequívoca acerca das alegações apresentadas pela impetrante, especialmente no tocante à suposta ilegalidade ou abusividade nas notas que lhe foram atribuídos e dos critérios de sua avaliação funcional, em que não obteve a nota necessária para a promoção pretendida.
+ ..
+Em suma, é inviável na via deste mandado de segurança a dilação probatória, de modo que não comprovado, com robustez, o direito pleiteado, impõe- se a denegação da segurança.
+Todavia, nas razões recursais, a recorrente, passando ao largo dos reais Fundamentos da decisão que intenta desconstituir, reitera a argumentação veiculada pela Peça vestibular, insistindo que "foi submetida a uma avaliação em que os critérios referentes à proatividade, eficiência, qualidade do trabalho, comportamento e responsabilidade foram definidos de forma genérica e sem a necessária objetividade, permitindo ao avaliador aplicar juízos de valor pessoais e, consequentemente, parcializados" (fl. 9).
+Mas, com isso, negligencia a recorrente a necessária observância do princípio da dialeticidade recursal, deixando de combater especificamente os seguintes fundamentos: a) a pontuação que foi atribuída à servidora por sua chefia imediata está acompanhada de justificativa, inexistindo comprovação, de plano, acerca de qualquer abusividade ou ilegalidade concernente à pontuação atribuída ou ao ato administrativo que negou sua promoção funcional; b) o fato de a impetrante ter logrado êxito na sua avaliação para fins de concessão do "Adicional para Atividades de Meio Ambiente (ADAMA)" - previsto no art. 13 da Lei Estadual n. 19.633/17 -, não constitui prova do direito vindicado neste mandamus, sobretudo por se tratarem de institutos e critérios distintos; e c) inexiste prova inequívoca acerca das alegações apresentadas pela impetrante, especialmente no tocante à suposta ilegalidade ou abusividade nas notas que lhe foram atribuídos e dos critérios de sua avaliação funcional, em que não obteve a nota necessária para a promoção pretendida (fl. 295).
+Ora, a falta de combate específico e integral dos fundamentos do acórdão recorrido impede o conhecimento do apelo. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A TODOS OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. INOBSERVÂNCIA DO PRINCÍPIO DA DIALETICIDADE. ART. 932, III, DO CPC.
+1. A viabilidade do recurso ordinário pressupõe a demonstração de erro na concatenação dos juízos expostos na fundamentação do acórdão recorrido, não se mostrando suficiente a mera insurgência contra o comando contido no dispositivo, como, no caso, a denegação da ordem.
+2. Nas hipóteses em que as razões recursais não infirmam a totalidade dos fundamentos do acórdão recorrido, é dever, e não faculdade do Relator, não conhecer do recurso. Inteligência do Art. 932, III, do CPC. Precedentes.
+3. Na hipótese ora examinada, apesar das alegações que agora faz o agravante, certo é que, nas razões do recurso ordinário, se limitou a discordar do acórdão recorrido e insistir nas teses da própria impetraçã
+4. Agravo interno não provido.
+(AgInt no RMS 66.918/SC, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, D Je 15/10/2021.)
+Eis porque o presente recurso ordinário não reúne condições de avançar para além do juízo de admissibilidade.
+ANTE O EXPOSTO, e com fundamento no art. 932, III, do CPC, não conheço do presente recurso ordinário.
+Publique-se.
+EMENTA
