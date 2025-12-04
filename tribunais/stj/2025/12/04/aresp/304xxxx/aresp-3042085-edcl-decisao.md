@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por COMPANHIA CACIQUE DE CAFE SOLUVEL à decisão de fls. 986/987, que não conheceu do recurso.
+Sustenta a parte embargante:
+A Companhia Cacique de Café Solúvel, foi intimada pelo TJ/MA, da decisão agravada em 04/06/2025, sendo assim, a contagem do prazo de 15 dias úteis para interposição do Agravo em Recurso Especial inicia-se em 05/06/2025, então, de acordo com o calendário do mês de junho/2025, que segue anexo, o prazo dos 15 dias úteis legais findou em 26/06/2025, conforme passaremos a explicar.
+Como se pode ver do calendário do mês de junho de 2025, o dia 19/06/2025, foi uma quinta-feira, o qual marca a celebração de Corpus Christi, uma data religiosa considerado feriado nacional, e por esse motivo, desse ser excluída do cômputo, nos termos do art. 219, do CPC, veja-se: "Na contagem de prazo em dias, estabelecido por lei ou pelo juiz, computar-se-ão somente os dias úteis".
+Portanto, o recurso de Agravo em Recurso Especial foi protocolado dentro do prazo legal dos 15 (quinze) dias úteis, conforme prevê a regra processual civil. Segue adiante o calendário do mês de Junho de 2025, para aferição dos dias úteis.
+ ..
+Ao conferirmos os dias úteis a partir do dia 05/06/2025, teremos a seguinte contagem:
+DIAS DA SEMANA DIAS DO MÊS Quinta Feira - dia útil 05/06/2025 Sexta Feira - dia útil 06/06/2025 Sábado 07 - Não considera dia útil Domingo Não considera dia útil Segunda-feira - dia útil 09/06/2025 Terça-feira - dia útil 10/06/2025 Quarta-feira - dia útil 11/06/2025 Quinta-feira - dia útil 12/06/2025 Sexta-feira - dia útil 13/06/2025 Sábado Não considera dia útil Domingo Não considera dia útil Segunda-feira - dia útil 16/06/2025 Terça-feira - dia útil 17/06/2025 Quarta-feira - dia útil 18/06/2025 Quinta-Feira 19/06/2025 Corpus Christi (feriado nacional) - Não considera dia útil Sexta-feira 20/06/2025 Sábado Não considera dia útil Domingo Não considera dia útil Segunda-feira - dia útil 23/06/2025 Terça-feira - dia útil 24/06/2025 Quarta-feira - dia útil 25/06/2025 Quinta-feira - dia útil 26/06/2025 - Nesta data completou os 15 dias úteis.
+Como se vê, restou demonstrado com clareza que a Recorrente interpôs o Agravo em Recurso Especial em tempo hábil, ou seja, dentro do prazo dos 15 (quinze) dias úteis estabelecidos por lei (fls. 992/993).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada por documento idôneo, no ato da apresentação do recurso. (AgInt no AREsp n. 2.440.293/MT, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 4.9.2024; AgInt no AREsp n. 2.351.299/GO, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 21.9.2023; AgInt nos EDcl no AREsp 1419338/SP, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 3.10.2019).
+Tendo em vista a nova redação do art. 1.003, § 6º, do CPC (dada pela Lei n. 14.939/2024), bem como a QO no AREsp n. 2.638.376/MG, a parte foi intimada para comprovar, por documento idôneo, eventual suspensão, interrupção ou prorrogação do prazo processual para interposição do recurso.
+No entanto, mesmo após a intimação da parte para regularizar a questão da tempestividade, não houve a devida regularização, porquanto deixou o prazo transcorrer in albis.
+É certo que os feriados nacionais não precisam ser comprovados. Porém, o dia 19.6.2025 é supostamente feriado local, razão pela qual deveria ter sido comprovado no momento oportuno, o que não ocorreu.
+Ressalte-se que são considerados feriados nacionais somente aqueles que estão expressamente previstos na Lei nº 662/1949 e Lei nº 6.802/1980, as quais declaram feriados nacionais os dias 1º de janeiro, 21 de abril, 1º de maio, 7 de setembro, 12 de outubro, 2 de novembro, 15 de novembro e 25 de dezembro.
+No caso, a segunda-feira de carnaval, a Quarta-Feira de Cinzas, os dias da Semana Santa que antecedem a Sexta-Feira da Paixão, o dia de Corpus Christi e o do servidor público são considerados feriados locais para fins de comprovação da tempestividade recursal (AgInt no AREsp n. 2.493.227/MG, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 15.5.2024; AgInt nos EDcl no AREsp n. 1.759.735/SC, Rel. Ministra Isabel Gallotti, Quarta Turma, DJe de 13.5.2024; e, AgInt no AREsp n. 2.398.408/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 2.5.2024.).
+Observe que a parte embargante pretende o exame de mérito do Recurso Especial. Porém, esse exame restou prejudicado pela ausência de preenchimento dos pressupostos recursais e o consequente não conhecimento do recurso, que obstou a abertura desta instância superior e, portanto, a produção do efeito translativo.
+Assim, não há que se cogitar da ocorrência de omissão, pois o recurso sequer ultrapassou o juízo prévio de admissibilidade para que o mérito fosse apreciado.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PRETENSÃO DE REEXAME E ADOÇÃO DE TESE DISTINTA. AUSÊNCIA DE VÍCIO NO JULGADO.
+1. Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração são cabíveis para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual se deveria pronunciar o juiz de ofício ou a requerimento e/ou corrigir erro material.
+2. Na hipótese, não há irregularidade ensejadora dos embargos de declaração, uma vez que a causa foi satisfatoriamente decidida em consonância com a jurisprudência do Supremo Tribunal Federal.
+3. Conforme entendimento pacífico desta Corte de Justiça, não é omisso o acórdão que deixa de se manifestar sobre o mérito do recurso que não ultrapassou o juízo de admissibilidade.
+Embargos de declaração rejeitados.
+(EDcl no AgRg no RE nos EDcl no AgRg no AREsp 1556938/RS, Rel. Ministro Humberto Martins, Corte Especial, DJe de 11.3.2021).
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 28.8.2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se.
+Intimem-se.
+ EMENTA
