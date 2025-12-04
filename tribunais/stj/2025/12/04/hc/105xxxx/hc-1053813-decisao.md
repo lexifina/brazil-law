@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de DJALMA CAETANO EREIAS JUNIOR, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL.
+Consta nos autos que o paciente foi preso em 06/09/2025, tendo a prisão em flagrante sido convertida em preventiva como incurso no art. 33 da Lei n. 11.343/2006 e no art. 349-A do Código Penal (CP).
+A defesa alega, em síntese, constrangimento ilegal diante da situação humanitária prevista no art. 318, III, do Código de Processo Penal (CPP), pois o paciente seria imprescindível aos cuidados do pai idoso e cego, havendo prova documental da condição de deficiência.
+Sustenta que a manutenção do cárcere afronta o princípio da dignidade da pessoa humana (CF/88, art. 1º, III) e a proteção constitucional às pessoas com deficiência (CF/88, art. 227, § 1º, II), além de vulnerar a proporcionalidade, por atingir de forma indireta e desumana o genitor dependente.
+Assevera que os delitos imputados não envolvem violência ou grave ameaça e não ocorreram no contexto domiciliar e que a questão de eventual reincidência deve ser examinada com cautela, pois o paciente foi condenado e cumpriu integralmente a pena, com a infração anterior ocorrida há mais de 5 anos.
+Requer, liminarmente e no mérito, a substituição imediata da prisão preventiva por prisão domiciliar com monitoramento eletrônico, nos termos do art. 318, III, do CPP, com possibilidade de imposição de medidas cautelares diversas da prisão.
+É o relatório.
+A Quinta Turma do Superior Tribunal de Justiça firmou entendimento no sentido de ser inadequada a impetração de habeas corpus quando utilizado em substituição a recurso próprio.
+A teor do disposto no art. 105, II, a, da CF/88, o recurso cabível contra acórdão que denega a ordem na origem é o recurso ordinário, enquanto, consoante previsto no art. 105, III, da CF, o recurso cabível contra acórdão que julga apelação, recurso em sentido estrito e agravo em execução é o recurso especial.
+Nada impede, contudo, a concessão de habeas corpus de ofício quando constatada a existência de ilegalidade flagrante, abuso de poder ou teratologia, nos termos do art. 654, §2º, do CPP, o que ora se passa a examinar.
+A prisão preventiva justifica-se apenas quando devidamente demonstrada sua imprescindibilidade para a preservação da ordem pública, a garantia da regularidade da instrução criminal ou a asseguração da eficácia da aplicação da lei penal, nos termos do art. 312 do Código de Processo Penal.
+Extrai-se do acórdão impugnado (fl. 11):
+ ..  Neste remédio heroico, busca o impetrante a substituição da prisão preventiva por prisão domiciliar, sob a alegação de ser DJALMA o único responsável por seu genitor, que se encontra acometido por cegueira total irreversível (CID H54.0).
+Todavia, consoante adiantado, apesar da existência de normativa acerca da possibilidade de substituição da prisão preventiva pela domiciliar quando o agente for imprescindível aos cuidados especiais de pessoa com deficiência (Artigo 318, inciso III,do CPP), remanesce a exigência de prova idônea dos requisitos estabelecidos no dispositivo.
+No caso concreto em exame, não se ignora a gravidade da situação que se encontra o genitor do paciente, entretanto, não há demonstração de DJALMA seria mprescindível aos seus cuidados.
+Como bem pontuado pelo Procurador de Justiça Norberto Avena, caso realmente o custodiado fosse o único responsável pelos cuidados com o seu genitor, não teria sido flagrado tentando introduzir entorpecentes em casa prisional localizada aproximadamente a 400km da cidade em que seu pai reside. Tal circunstância permite concluir que, caso a presença de DJALMA fosse imprescindível, não se ausentaria por longínquo período para cometer crimes.
+Outrossim, a possibilidade de concessão da prisão domiciliar também não pode ser examinada descolada da periculosidade apresentada pelo paciente, a qual se encontra manifesta, seja pela gravidade concreta da conduta a ele imputada, seja pela existência de antecedentes criminais pelo mesmo delito ora investigado, a revelar que está, ao menos no plano sugestivo, intensa e reiteradamente envolvido nesse nicho criminoso.  ..
+Tendo o Tribunal de origem compreendido não haver provas de que o agente seja indispensável ou seja o único responsável pelos cuidados do genitor, o que legitima a denegação da prisão domiciliar que se reveste de excepcionalidade, ônus não demonstrado no caso em exame.
+Nesse contexto, não há reparos a serem feitos, pois a jurisprudência desta Corte Superior é no sentido de que "embora todo pai seja indispensável à criação de seus filhos, o benefício previsto no art. 318, inciso VI, do Código de Processo Penal não possui aplicação automática, sendo necessário que o homem comprove ser o único responsável pelos cuidados do filho de até 12 (doze) anos de idade incompletos" (AgRg no HC n. 822.761/RJ, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 2/10/2023, DJe de 5/10/2023).
+Com efeito , para reverter as conclusões da Corte de origem, seria necessário o revolvimento do conjunto fático-probatório, providência que se revela inviável em sede de habeas corpus.
+Não há, portanto, flagrante ilegalidade que justifique a concessão da ordem de ofício.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
