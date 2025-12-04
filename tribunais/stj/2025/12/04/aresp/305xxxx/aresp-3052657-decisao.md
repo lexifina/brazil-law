@@ -1,0 +1,33 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por BRACUI EMPREENDIMENTOS S/A contra decisão que inadmitiu recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 16/7/2025.
+Concluso ao gabinete em: 27/11/2025.
+Ação: de embargos de terceiros ajuizada por MUNICÍPIO DE ANGRA DOS REIS em face de BRACUI EMPREENDIMENTOS S/A e OUTRA na qual requer a anulação da penhora efetivada nas execução onde as rés são litigantes, ao argumento de que o imóvel atingido pela constrição judicial foi desapropriado pela autora.
+Sentença: julgou extinto o processo, sem resolução do mérito, nos termos do art. 485, VI, do CPC, reconhecendo a perda superveniente do interesse de agir.
+Acórdão: negou provimento ao recurso de apelação interposto por BRACUÍ EMPREENDIMENTOS S/A, nos termos da seguinte ementa:
+APELAÇÕES CÍVEIS. Município de Angra dos Reis. Embargos de terceiro. Incidência da penhora sobre imóvel desapropriado pelo dito Município. Extinção do feito com condenação em honorários advocatícios.
+A condenação nas despesas processuais decorre da conjugação dos "princípios da sucumbência e da causalidade", devendo ser suportada por aquele que restou vencido na demanda, desde que tenha dado causa à sua instauração. Mostra-se necessária, também, a observância do critério da evitabilidade da lide, que coloca em evidência o vínculo de causalidade que existe entre quem deu causa à demanda e a solução dessa. Sendo assim, a regra da sucumbência, prevista no artigo 85, do Código de Processo Civil, não é a única a ser observada. O "princípio da sucumbência" cede lugar ao "princípio da causalidade", o qual revela a idéia de que aquele que deu causa à instauração do processo ou ao incidente processual deve arcar com os encargos daí decorrentes. Na hipótese dos autos, trata-se de embargos de terceiro, em que o Município Embargante requereu a determinação de baixa de eventual penhora sobre o imóvel objeto de desapropriação e, portanto, sob seu domínio, através de Ação de Desapropriação (nº 2002.003.010040-2).
+Acordo celebrado entre as partes e homologado por sentença. Quem deu causa aos Embargos de Terceiro foi a Parte Embargada, ao afirmar que ocorreu fraude à Execução, fazendo o juízo expedir o mandado de intimação ao Município. Manutenção da sentença.
+RECURSO DESPROVIDO. (e-STJ fl. 362)
+Recurso especial: alega violação dos arts. 85, § 2º, § 3º, e § 10 do CPC, sustentando, em síntese, que não deu causa aos embargos de terceiro, sendo indevida a sua condenação em honorários e custas.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da harmonia entre o acórdão recorrido e do reexame de fatos provas
+A jurisprudência do STJ é no sentido que a condenação ao pagamento de honorários advocatícios é uma consequência objetiva da extinção do processo, sendo orientada, em caráter principal, pelo princípio da sucumbência e, subsidiariamente, pelo da causalidade.
+A aplicação da causalidade e a justa distribuição das despesas e dos honorários resulta na imputação da responsabilidade a quem tornou necessário o processo ou quem seja responsável pela causa superveniente que ensejou sua extinção.
+Assim, segundo a jurisprudência desta Corte, a verificação da justiça na distribuição dos encargos processuais demanda, segundo o princípio da causalidade, a necessidade de se questionar, não só quem é que deu causa à instauração do processo ou incidente, mas também a quem pode ser atribuído o motivo superveniente que dá azo à extinção do processo. Nesse sentido: REsp n. 1.836.703/TO, Terceira Turma, DJe de 15/10/2020 e AgInt no REsp n. 1.849.703/CE, Quarta Turma, DJe de 2/4/2020.
+No caso dos autos, o TJ/RJ concluiu que a parte agravada não deu causa à propositura da ação de embargos de terceiros. É o que se extrai da seguinte fundamentação:
+Na hipótese dos autos, trata-se de embargos de terceiro, em que o Município Embargante, ora apelado, requereu a determinação de baixa de eventual penhora sobre o imóvel objeto de desapropriação e, portanto, sob seu domínio, através de desapropriação (nº 2002.003.010040-2).
+Como bem salientou o juízo a quo, de fato, a análise do processo principal aponta a existência de acordo celebrado entre as partes, e homologado por sentença, às fls. 1709, dos autos 0128083-47.1991.8.19.0001.
+Deste modo, de acordo com o requerimento de fls. 1227/1232, dos autos principais, quem deu causa aos Embargos de Terceiro foi a Parte Embargada, ao afirmar que ocorreu fraude à Execução, fazendo o juízo expedir o mandado de intimação nº 1614/2020/MND, que foi respondido pelo Município Embargante, ora apelante, por intermédio dos presentes embargos.
+Desta forma, resta indubitável que, na hipótese, é a Parte Embargada quem deve responder pelos honorários arbitrados na sentença. (e-STJ fl. 366).
+Nessa perspectiva, além de estar o posicionamento do Tribunal estadual amparado na orientação jurisprudencial deste Tribunal Superior, incidindo, quanto ao ponto, a Súmula 568/STJ, seus fundamentos, por estarem alicerçados em elementos de fatos e provas existentes nos autos, não podem ser revistos em recurso especial, o que é vedado pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro em 3% (três por cento) os honorários fixados anteriormente sob o valor atualizado da causa, devidos pela parte recorrente.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EMBARGOS DE TERCEIROS. ÔNUS DE SUCUMBÊNCIA. PRINCÍPIO DA CAUSALIDADE. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ.
+1. Ação de embargos de terceiros.
+2. A jurisprudência do STJ é firme no sentido que a condenação ao pagamento de honorários advocatícios é uma consequência objetiva da extinção do processo, sendo orientada, em caráter principal, pelo princípio da sucumbência e, subsidiariamente, pelo da causalidade. Precedentes.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa parte, não provido.
