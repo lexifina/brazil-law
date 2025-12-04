@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interno, interposto por CLEUSA PASSOS, contra decisão proferida pela Presidência do STJ, às fls. 188-189, que não conheceu do agravo em recurso especial, em razão da ausência de impugnação dos fundamentos da decisão de inadmissibilidade.
+Em suas razões recursais, a parte agravante sustenta, em síntese, ter impugnado especificamente os fundamentos da decisão de inadmissão do apelo nobre.
+É o relatório.
+No presente caso, o acórdão recorrido, proferido pelo Tribunal de Justiça do Estado de Santa Catarina, assim ementado (fl. 407):
+AGRAVO INTERNO. DIREITO PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. INDEFERIMENTO DE CONSULTAS A SISTEMAS AUXILIARES DA JUSTIÇA E EXPEDIÇÃO DE OFÍCIOS. DECISÃO MONOCRÁTICA MANTIDA. DESPROVIMENTO DO RECURSO.
+I. CASO EM EXAME: Agravo interno interposto contra decisão monocrática que negou provimento a agravo de instrumento, mantendo o indeferimento de pedidos de consulta a diversos sistemas informatizados e expedição de ofícios a instituições públicas e privadas, no âmbito de cumprimento de sentença iniciado há dezoito anos, sem êxito na satisfação integral do crédito.
+II. QUESTÕES EM DISCUSSÃO: (i) Avaliar a legalidade e razoabilidade do indeferimento de pedidos de consulta a múltiplos sistemas e expedição de ofícios a entidades diversas; (ii) Analisar a aplicabilidade da multa prevista no art. 1.021, § 4º, do Código de Processo Civil.
+III. RAZÕES DE DECIDIR: (i) O indeferimento dos pedidos de consulta e expedição de ofícios é justificado pela ausência de efetividade, pela genericidade dos requerimentos e pela transferência indevida da responsabilidade de localização de bens do executado ao Judiciário, contrariando os arts. 6º e 798, inc II, "c", da Lei Adjetiva Civil; (ii) A multa prevista no art. 1.021, § 4º, do Código de Processo Civil não é aplicável, pois o recurso não se mostra manifestamente inadmissível ou de evidente improcedência.
+IV. DISPOSITIVO: Recurso da parte agravante desprovido. Inaplicável a multa prevista no art. 1.021, § 4º, do Código de Processo Civil. Não fixados honorários recursais.
+Dispositivos citados: CPC, arts. 6º, 798, II, "c".
+Jurisprudência citada: TJSC, Agravo de Instrumento n. 5052039-06.2024.8.24.0000, rel. Des. Altamiro de Oliveira, Sexta Câmara de Direito Comercial, j. 13/03/2025.
+A questão de direito do recurso especial foi afetada à Segunda Seção como representativa de controvérsia a ser julgada sob o rito dos recursos especiais repetitivos, nos termos dos arts. 1.036 e 1.037 do CPC/2015, tendo as decisões de afetação dos REsps n. 1.955.539/SP e 1.955.574/SP delimitado o tema 1.137 dos Recursos Especiais Repetitivos, nos termos da seguinte ementa:
+"PROPOSTA DE AFETAÇÃO - RITO DOS RECURSOS ESPECIAIS REPETITIVOS - TEMÁTICA - DIREITO PROCESSUAL CIVIL - EXECUÇÃO - POSSIBILIDADE, OU NÃO, DE ADOÇÃO DE MEIOS EXECUTIVOS ATÍPICOS. (Art. 139, IV, do CPC/15)
+1. Delimitação da controvérsia:
+1.1. Definir se, com esteio no art. 139, IV, do CPC/15, é possível, ou não, o magistrado, observando-se a devida fundamentação, o contraditório e a proporcionalidade da medida, adotar, de modo subsidiário, meios executivos atípicos.
+2. RECURSO ESPECIAL AFETADO AO RITO DO ART. 1.036 CPC/2015."
+Nesse contexto, em observância à economia processual e ao art. 256-L do RISTJ, os recursos que tratam da mesma controvérsia no STJ devem aguardar, no Tribunal de origem, a solução do questão, viabilizando, assim, o juízo de conformação, atualmente disciplinado pelos arts. 1.039 e 1.040 do CPC/2015.
+Cumpre destacar que, em conformidade com o art. 1.041, § 2º, do CPC/2015, apenas após essas providências é que o recurso especial, se for o caso, deverá ser reencaminhado a este Tribunal Superior, independentemente de ratificação, para análise das demais questões jurídicas nele suscitadas que eventualmente não fiquem prejudicadas pela conformidade do acórdão recorrido com a decisão sobre o tema repetitivo ou pelo novo pronunciamento do Tribunal de origem.
+Diante do exposto, dou provimento ao agravo interno para reconsiderar a decisão agravada, tornando-a sem efeito, e determino a remessa dos autos ao Tribunal de origem, com a respectiva baixa, para que, o recurso especial permaneça suspenso até a publicação do acórdão paradigma, nos termos do art. 1.037, II, do Código de Processo Civil de 2015, devendo ser analisado, em seguida, o procedimento dos arts. 1.040 e 1.041 do CPC/2015.
+Publique-se.
+EMENTA
