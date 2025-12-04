@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por CONDOMÍNIO DO EDIFÍCIO DA AVENIDA PASSOS em face de decisão (442-443, e-STJ) desta relatoria, que acolheu os embargos de declaração opostos por COOPERATIVA DE CRÉDITO, POUPANÇA E INVESTIMENTO DO RIO DE JANEIRO - SICREDI RIO RJ, a fim de tornar sem efeito a decisão de fls. 423-426, retornando os autos para esta Relatoria, para que se promova novo julgamento.
+Nas razões dos embargos, a parte embargante defende que "a R. Decisão embargada restou omissa, data maxima venia, em analisar o ponto fulcral da questão, que é o entendimento sufragado pela 2ª Seção desse E. Superior Tribunal de Justiça, que entende que o imóvel alienado fiduciariamente pode ser penhorado por dívidas condominiais." (fl. 447, e-STJ).
+Aduz, ainda, que, "Por evidente que a apreciação do presente Recurso Especial deverá se pautar justamente no fato de que, em se isentando, de modo injusto, o credor fiduciário de suas inerentes obrigações junto ao condomínio, estar-se-ia criando uma odiosa diferenciação, que faria recair sobre os ombros de terceiros completamente alheios àquela contratação o seu ônus, fazendo-os suportar o peso do débito condominial daquele que, antes, já era devedor, e perdeu o imóvel não para o condomínio (que já era seu credor), mas para um novo credor, do qual tomou valores em empréstimo, para, assim, "monetizar" um imóvel que já possuía altíssimos débitos e poderia ser perdido sem a oportunidade financeira que o inadimplido empréstimo proporcionara.". (fls. 449-450, e-STJ).
+Ao final, requer-se "seja dado provimentos aos presentes Embargos de Declaração, para sanar a omissão apontada, em especial para que seja adequada a apreciação do presente Recurso Especial à tese firmada pela Segunda Seção, no sentido de que"as normas dos arts. 27, § 8º, da Lei 9.514/1997 e 1.368-B, parágrafo único, do Código Civil de 2002", reguladoras do contrato de alienação fiduciária de coisa imóvel, apenas disciplinam as relações jurídicas entre os respectivos contratantes, sem alcançar relações jurídicas diversas daquelas, nem se sobrepor a direitos de terceiros não contratantes, como é o caso da relação jurídica entre condomínio edilício e condôminos e do direito do condomínio credor de dívida condominial, a qual mantém sua natureza jurídica propter rem, e, portanto, o "acertamento, em tal contexto (..) deve-se dar entre os contratantes: devedor fiduciante e credor fiduciário."" (fl. 450, e-STJ).
+Impugnação apresentada às fls. 594-600, e-STJ.
+É o relatório. Decido.
+Os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre o qual devia se pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como para corrigir erro material CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+É de bom alvitre ressaltar que o art. 1.023, da novel codificação processual, exige que conste na petição de embargos declaratórios a "indicação do erro, obscuridade, contradição ou omissão", sem a qual, repita-se, torna inviável o acolhimento da pretensão recursal.
+Sem razão à embargante.
+A decisão embargada assentou que:
+"Compulsando os autos, verifica-se que, de fato, o acórdão estadual delimitou a data de consolidação da propriedade do imóvel. com a formalização da imissão na posse. Além disso, consignou que os débitos cobrados são anteriores a esta data, como se vê do acórdão:
+(..)
+Em razão do erro material apontado, torno sem efeito a decisão de fls. 423-426, restando prejudicadas as demais alegações. Diante do exposto, acolho os presentem embargos de declaração e torno sem efeito a decisão de fls. 423-426 (e-STJ) Após, retornem os autos conclusos para nova apreciação do recurso especial de fls. 337- 355."
+Diante da leitura do excerto acima transcrito, verifica-se que não há omissão no julgado, uma vez que fora reconhecido erro material, devendo o feito retornar para nova apreciação do recurso especial.
+Desse modo, revela-se nítido propósito da parte embargante em rediscutir temas que foram devidamente apreciados, o que é defeso através da via processual escolhida, desautorizando, deste modo, o acolhimento da pretensão embutida nos aclaratórios. A propósito, nesse sentido, confiram-se os seguintes precedentes:
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE DESPEJO POR FALTA DE PAGAMENTO C/C COBRANÇA DE ALUGUÉIS - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DOS RÉUS.
+1. Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o artigo 535, incisos I e II, do CPC/73 ou 1.022 do Código de Processo Civil de 2015, o que não se configura na hipótese em tela, porquanto o aresto deste órgão fracionário encontra-se devida e suficientemente fundamentado.
+2. Dada a natureza dos aclaratórios, esses não podem ser utilizados como instrumento para a rediscussão do julgado.
+(..)
+4. Embargos de declaração rejeitados."
+(EDcl no AgInt no AREsp 1083820/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 11/12/2018, DJe 17/12/2018)
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE QUALQUER DOS VÍCIOS ELENCADOS NO ART. 1.022 DO CPC/2015. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração são cabíveis somente quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+(..)
+3. Embargos de declaração rejeitados, com fixação de multa de 1% (um por cento) sobre o valor atualizado da causa, nos termos do § 2º do art. 1.026 do CPC/2015."
+(EDcl nos EDcl no AgInt no REsp 1320651/PB, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 30/08/2018, DJe 10/09/2018)
+Diante do exposto, rejeitam-se os embargos declaratórios.
+Publique-se.
+EMENTA
