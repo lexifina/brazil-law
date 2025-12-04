@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de CRISTIAN COSME REIS, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento da Revisão Criminal n. 2342694-03.2025.8.26.0000.
+Extrai-se dos autos que o paciente foi condenado à pena de 8 anos de reclusão, no regime inicial fechado, além do pagamento de 10 dias-multa, pela prática dos crimes tipificados no art. 129, § 1º, II, c/c o art. 61, II, "c" e "f", todos do Código Penal - CP, e no art. 16, § 1º, IV, da Lei n. 10.826/03, na forma do art. 69 do CP.
+O Tribunal de origem não conheceu da revisão criminal proposta pelo paciente, nos termos do acórdão que restou assim ementado (fl. 9):
+"REVISÃO CRIMINAL. LESÃO CORPORAL GRAVE E PORTE ILEGAL DE ARMA DE FOGO COM NUMERAÇÃO SUPRIMIDA. NÃO CONHECIMENTO DO PEDIDO REVISIONAL.
+I. Caso em Exame: Pedido de revisão criminal formulado por Cristian Cosme Reis contra acórdão de lavra da C. 9ª Câmara de Direito Criminal deste E. Tribunal de Justiça, alegando contrariedade à lei penal. O peticionário alegou desproporcionalidade da dosimetria das penas e na fixação do regime.
+II. Questão em Discussão: A questão em discussão consiste em verificar se a dosimetria penal foi contrária ao texto expresso de lei ou à evidência dos autos, justificando a revisão criminal.
+III. Razões de Decidir: 1. A revisão criminal não se presta à mera rediscussão das provas e da dosimetria, já apreciadas em instâncias anteriores, nos termos da lei. 2. Não foram apresentadas provas novas ou evidências de erro judiciário que justifiquem a revisão da condenação e das penas aplicadas.
+IV. DISPOSITIVO: AÇÃO REVISIONAL NÃO CONHECIDA.
+Legislação citada: Código Penal, art. 129, §2º, inciso II, art. 61, II, alíneas "c" e "f", art. 69, caput. Código de Processo Penal, art. 621, incisos I, II e III; art. 622, parágrafo único. Lei nº 10.829/03, art. 16, §1º, inciso IV."
+No presente writ, a defesa sustenta excesso na pena-base e indevido bis in idem, porque as consequências do crime, próprias do tipo qualificado do art. 129, § 1º, II, do CP, foram valoradas na primeira fase, além do emprego da "intensidade do dolo" em violação ao sistema trifásico.
+Assevera o não reconhecimento da atenuante da confissão espontânea, prevista no art. 65, III, "d", do CP, embora o paciente tenha admitido fatos essenciais, o que impõe redução mínima de 1/6.
+Argui a fixação do regime inicial fechado sem fundamentação concreta e autônoma, em afronta ao art. 33, § 3º, do CP, por reprodução das mesmas circunstâncias usadas para majorar a pena-base.
+Requer, em liminar e no mérito, a concessão da ordem para que seja reduzida a pena-base ao mínimo legal, reconhecida a atenuante da confissão espontânea com redução de 1/6 e substituído o regime inicial fechado pelo semiaberto.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça.
+Ademais, a possibilidade de análise da matéria para eventual concessão da ordem de ofício não se mostra adequada ao presente caso.
+Da atenta leitura do acórdão impugnado, verifica-se que o Tribunal de origem não se manifestou expressamente sobre a suposta ilegalidade na fixação da pena-base, sobre o reconhecimento da confissão espontânea e nem sobre o regime prisional, limitando-se a apontar o não cabimento da ação revisional.
+Desse modo, resta afastada a competência desta Corte Superior para conhecimento do feito, sob pena de incorrer em indevida supressão de instância.
+Nesse sentido:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ILEGALIDADE INEXISTENTE. OMISSÃO DEVE SER QUESTIONADA VIA EMBARGOS DE DECLARAÇÃO. SUPRESSÃO. AINDA QUE NULIDADE ABSOLUTA. DESÍGNIOS AUTONOMOS. ABSORÇÃO. REVOLVIMENTO FÁTICO-PROBATÓRIO. INVIABILIDADE NA VIA DO WRIT. AUSÊNCIA DE ARGUMENTOS NOVOS APTOS A ALTERAR A DECISÃO AGRAVADA. AGRAVO DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão agravada por seus próprios fundamentos.
+II - Ainda que a Defesa alegue que houve o prequestionamento implícito, porquanto ventilou a questão nas peças de defesa, todavia, ante a não manifestação daquela Corte, caberia o manejo dos embargos de declaração, aptos a prequestionar a matéria.
+III - Ausente manifestação do Tribunal sobre a questão de fundo também ora vindicada, incabível a análise de tal matéria, no presente habeas corpus, porquanto está configurada a absoluta supressão de instância quanto ao ponto debatido, ficando impedida esta Corte de proceder à sua análise.
+IV - A instância ordinária, diante do conjunto fático-probatório dos autos, concluiu por provas suficientes à condenação pelos 2 (dois) delitos, como sendo autônomos, bem como a defesa não logrou demonstrar o contrário.
+V - É iterativa a jurisprudência deste Superior Tribunal de Justiça no sentido de ser imprópria a via do habeas corpus (e do seu recurso) para a análise de teses de insuficiência probatória, de negativa de autoria ou até mesmo de desclassificação, em razão da necessidade de incursão no acervo fático-probatório.
+Agravo regimental desprovido.
+(AgRg no HC n. 823.044/DF, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 18/12/2023, DJe de 20/12/2023.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. WRIT IMPETRADO CONTRA CONDENAÇÃO TRANSITADA EM JULGADO. SUCEDÂNEO DE REVISÃO CRIMINAL. INADMISSIBILIDADE. AUSÊNCIA DE JULGAMENTO DE MÉRITO NESTA CORTE. INCOMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. TEMAS NÃO DEBATIDOS PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. TEMAS DEBATIDOS EM CONSONÂNCIA COM O ENTENDIMENTO DO SUPERIOR TRIBUNAL DE JUSTIÇA. AUSÊNCIA DE ILEGALIDADE FLAGRANTE.
+1. Não deve ser conhecido o writ que se volta contra sentença condenatória já transitada em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte Superior. Nos termos do art. 105, I, e, da Constituição Federal, compete ao Superior Tribunal de Justiça processar e julgar, originariamente, as revisões criminais e as ações rescisórias de seus julgados. Precedentes.
+2. A Jurisprudência do Superior Tribunal de Justiça "é pacífica no sentido de que, ainda que se trate de matéria de ordem pública, é imprescindível o seu prévio debate na instância de origem para que possa ser examinada por este Tribunal Superior (AgRg no HC 530.904/PR, Rel. Ministro JORGE MUSSI, Quinta Turma, julgado em 24/9/2019, DJe de 10/10/2019) - (AgRg no HC n. 726.326/CE, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 28/3/2022).
+3. Quanto aos temas efetivamente debatidos pela Corte de origem, verifica-se que não há qualquer ilegalidade flagrante a ser sanada, na medida em que o acórdão objurgado se encontra em consonância com a jurisprudência desta Corte, no sentido de que as condenações alcançadas pelo período depurador de 5 anos, previsto no art. 64, inciso I, do Código Penal, afastam os efeitos da reincidência, mas não impedem a configuração de maus antecedentes, permitindo, assim, o aumento da pena-base; bem como de que para a incidência da causa de aumento relativa ao emprego de arma de fogo, dispensável a apreensão e perícia da arma, desde que o emprego do artefato fique comprovado por outros meios de prova. Precedentes.
+3. Agravo regimental improvido.
+(AgRg no HC n. 842.953/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 6/2/2024, DJe de 8/2/2024.)
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
