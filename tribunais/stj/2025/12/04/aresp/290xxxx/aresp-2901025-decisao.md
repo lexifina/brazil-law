@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial pelo qual o INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS se insurgira contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO assim ementado (fl. 170):
+PREVIDENCIÁRIO. APELAÇÃO CÍVEL. AÇÃO DE RECONHECIMENTO E CONCESSÃO DO MELHOR BENEFÍCIO AO SEGURADO. SENTENÇA DE EXTINÇÃO POR RECONHECIMENTO DA PRESCRIÇÃO DO FUNDO DE DIREITO. AFASTAMENTO DA PRESCRIÇÃO. RELAÇÃO JURÍDICA DE TRATO SUCESSIVO. SÚMULA Nº 85/STJ. APELAÇÃO CÍVEL CONHECIDA E PROVIDA. SENTENÇA DESCONSTITUÍDA. REMESSA DOS AUTOS À ORIGEM PARA REGULAR PROSSEGUIMENTO.
+1. O cerne da questão diz respeito à incidência do instituto da prescrição da pretensão autoral de recebimento de benefício previdenciário.
+2. O Juízo a quo extinguiu o feito, nos termos do art. 487, II, do CPC, ao fundamento de que o ajuizamento da demanda ocorreu mais de dez anos após a cessação/indeferimento do benefício de auxílio-doença acidentário.
+3. Conforme entendimento dos tribunais superiores, bem como da jurisprudência desta Corte de Justiça, verifica-se que a alegação recursal acerca da ausência de prescrição do fundo de direito merece prosperar, pois, consistindo o pagamento do auxílio previdenciário em relação jurídica de trato sucessivo, o direito se renova periodicamente quando do pagamento mensal do benefício previdenciário, garantindo-se ao segurado o recebimento das diferenças relativas aos cinco anos anteriores ao ajuizamento do feito, conforme o disposto na Súmula nº 85/STJ.
+4. Não é caso de aplicação da teoria da causa madura, disposta no § 3º do art. 1.013 do CPC, o qual dispõe que, se o processo estiver em condições de ser imediatamente julgado, o tribunal deve decidir, desde logo, o mérito, por estar o feito a exigir dilação probatória, mormente produção de prova pericial, como requerido na exordial.
+5. Apelo conhecido e provido. Sentença desconstituída.
+Os embargos de declaração opostos foram rejeitados (fls. 214/218).
+Nas razões de seu recurso especial, a parte ora agravante alega (fl. 233) :
+Portanto, resta demonstrado que, ao não fixar a DIB do benefício na data da citação, determinando o pagamento das parcelas anteriores a cinco anos do ajuizamento, o Col. Tribunal a quo violou o art. 1º do Decreto nº 20.910/32 e o art. 240 do CPC, conforme entendimento consolidado por esse Eg. Superior Tribunal de Justiça.
+A parte adversa apresentou contrarrazões às fls. 240/247.
+O recurso não foi admitido (fls. 249/253), razão pela qual foi interposto o agravo em recurso especial ora examinado.
+É o relatório.
+A questão debatida nos autos foi afetada à Primeira Seção do Superior Tribunal de Justiça para ser decidida sob o rito de recursos repetitivos (Tema 1.124/STJ), e foi assim delimitada:
+"Caso superada a ausência do interesse de agir, definir o termo inicial dos efeitos financeiros dos benefícios previdenciários concedidos ou revisados judicialmente, por meio de prova não submetida ao crivo administrativo do INSS, se a contar da data do requerimento administrativo ou da citação da autarquia previdenciária" (Resps 1.913.152/SP, 1905.830/SP e 1.912.784/SP, relatora Ministra Maria Thereza de Assis Arruda).
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+O envio do recurso especial a esta Corte Superior deve ocorrer somente após o esgotamento da instância ordinária, formalizado com o novo julgamento pelo Tribunal de origem, quando então será possível examinar, no âmbito do STJ, as matérias jurídicas que eventualmente permanecerem controvertidas. Essa cautela também evita o fracionamento do recurso e previne eventual violação ao princípio da unicidade recursal, que veda a interposição simultânea ou sucessiva de recursos contra a mesma decisão.
+Ante o exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil (CPC), o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do mesmo CPC.
+Publique-se. Intimem-se.
+ EMENTA
