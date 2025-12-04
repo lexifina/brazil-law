@@ -1,0 +1,89 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual TRANSZAPE TRANSPORTES RODOVIÁRIOS LTDA se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado (fl. 47):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. NOTIFICAÇÃO DO LANÇAMENTO DO CRÉDITO. PROCESSO ADMINISTRATIVO.
+É do excipiente o ônus de ilidir a presunção de liquidez e certeza que milita em favor da dívida regularmente inscrita, inclusive aquelas eventualmente constantes do processo administrativo. A exceção de pré-executividade se reserva ao exame de matérias que possam ser demonstradas de plano e não demandem dilação probatória, nos termos da Súmula nº 393 do Superior Tribunal de Justiça.
+EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. NULIDADE DA DO TÍTULO EXECUTIVO.
+É válida a CDA que, preenchendo os requisitos legais, permite a identificação de todos os aspectos do débito, inclusive da forma de cálculo dos consectários moratórios.
+CUMULAÇÃO DE MULTA E JUROS. MULTA E EFEITO CONFISCATÓRIO. TAXA SELIC.
+Conforme entendimento jurisprudencial desta Corte, (a) não é confiscatória a multa limitada a 20% valor do crédito tributário; e (b) é legítima a utilização da taxa Selic como índice de correção monetária e de juros moratórios sobre dívidas tributárias.
+EXECUÇÃO FISCAL NÃO INSTRUÍDA COM PROCESSO ADMINISTRATIVO. DESNECESSIDADE.
+Na forma do artigo 6º, § 1º, da Lei nº 6.830, de 1980, a petição inicial da execução fiscal será instruída apenas com a Certidão de Dívida Ativa, não se exigindo a juntada de cópias do processo administrativo, que pode ser consultado pelo contribuinte na repartição competente, na forma do artigo 41 da referida Lei.
+Não foram opostos embargos de declaração.
+A parte recorrente aponta violação ao art. 6, § 1º, da Lei 6.830/1980, ao art. 203 do Código Tributário Nacional (CTN) e aos arts. 6º, 9º e 10 do Código de Processo Civil (CPC).
+Defende a necessidade de juntada dos processos administrativos que deram origem às certidões de dívida ativa (CDAs), sob pena de nulidade do título e cerceamento de defesa.
+Alega a nulidade das CDAs por não consignarem a maneira de calcular os acréscimos legais (correção monetária e juros).
+A parte adversa apresentou contrarrazões (fls. 76/85).
+O recurso especial não foi admitido, razão pela qual foi interposto o agravo ora examinado (fls. 100/116).
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+Nos exatos termos do acórdão recorrido, o TRF da 4ª Região assim se manifestou (fls. 43/45):
+1. Pretensão de juntada do processo administrativo
+A Lei nº 6.830, de 1980, por meio do seu art. 6º, enumera os requisitos necessários que devem constar na petição inicial da execução fiscal, dentre os quais não há menção alguma sobre a juntada do processo administrativo:
+ ..
+Acresce que os autos dos processos administrativos estão à disposição do contribuinte (art. 41 da Lei nº 6.830, de 1980) e como não foi demonstrado nos autos de origem que o Fisco negou-se a fornecê-los à parte agravante, não há falar em cerceamento de defesa.
+Assim, não há razão para determinar a intimação da parte exequente para que junte aos autos de origem as cópias dos processos administrativo que deram origem aos créditos executados, haja vista que a parte agravante pode direcionar-se à sede da Receita Federal e formular pedido de que lhe seja disponibilizada a cópia do documento.
+2. Alegado cerceamento de defesa
+No caso sub judice, a parte agravante limita-se a afirmar que não foi notificada acerca do lançamento dos créditos tributários objeto da execução fiscal de origem sem, contudo, juntar aos autos as cópias dos processos administrativos que deram origem aos créditos executados, ônus processual que lhe competia, nos termos do art. 373, I, do Código de Processo Civil, e do art. 3º, parágrafo único, da Lei nº 6.830, de 1980, pois documentos que se encontravam à sua disposição como antes já referido (art. 41 da Lei nº 6.830, de 1980).
+Com efeito, somente com base nas informações inerentes aos processos administrativos seria possível aferir, com segurança, se a parte exequente procedeu à prévia notificação dos contribuintes acerca dos lançamentos dos créditos executados, sendo certo que não é ônus da parte exequente instruir o processo de execução fiscal com outros documentos que não as certidões de dívida ativa, como aqui já elucidado.
+Portanto, como competia à parte agravante demonstrar a inexistência de notificação administrativa - ônus do qual não se desincumbiu - e como não há nos autos qualquer documento que comprove que a exequente tenha se negado a lhe fornecer as cópias dos processos administrativos, é indevida a veiculação da questão por meio de exceção de pré-executividade, porquanto se trata de via que se reserva às matérias conhecíveis de ofício, que possam ser demonstradas de plano e não demandem dilação probatória, nos termos da Súmula nº 393 do Superior Tribunal de Justiça (STJ): A exceção de pré-executividade é admissível na execução fiscal relativamente às matérias conhecíveis de ofício que não demandem dilação probatória.
+Incompatíveis as alegações da parte executada com a via da exceção de pré- executividade, não há motivos para reformar a decisão agravada no ponto.
+3. Alegada nulidade das certidões de dívida ativa
+Em relação à nulidade das certidões de dívida ativa que sustentam a execução fiscal de origem, verifico que preenchem, sob o ponto de vista formal, os requisitos legais elencados na Lei de Execução Fiscal, conforme se pode vislumbrar do cotejo entre ambos. Nela estão consignados: o nome do devedor e seu domicílio; o valor originário da dívida (totalização e por competência, em moeda) e a maneira de calcular os acréscimos legais (correção monetária e juros); o número de inscrição na dívida ativa e a data de inscrição, registrando, ainda, o número do processo administrativo.
+Com efeito, tais referências são suficientes, porquanto, acopladas à legislação pertinente (fundamento legal), permitem ao devedor tomar conhecimento da natureza e origem da dívida, forma de atualização e incidência de juros, multa e demais encargos.
+Outrossim, vale lembrar que a certidão de dívida ativa é por sua natureza documento sintético. Os elementos imprescindíveis e que nela constam são aqueles taxativamente elencados na Lei nº 6.830, de 1980 (art. 2, § 5º), e têm o propósito, dentre outros, de subsidiar o devedor na obtenção do valor da dívida e de sua própria origem.
+ ..
+Além disso, há indicação nas certidões de dívida ativa que os créditos tributários foram constituídos por declaração transmitida pelo próprio contribuinte, que não pode agora alegar desconhecer a origem e outros aspectos atinentes aos valores cobrados, inexistindo, por esse motivo, o propalado cerceamento de defesa.
+Dessarte, não há falar em nulidade dos títulos executivos que amparam a execução fiscal de origem, visto que preenchidos, do ponto de vista formal, os requisitos elencados pela Lei nº 6.830, de 1980, e pelo Código Tributário Nacional.
+Enfim, eventual irregularidade de cálculo existente nas certidões de dívida ativa dependerá de produção de prova, incabível na via da exceção de pré-executividade, nos termos da Súmula nº 393 do Superior Tribunal de Justiça (STJ).
+Não merece acolhimento, por ser contrária à jurisprudência do Superior Tribunal de Justiça (STJ), a alegação de cerceamento de defesa baseada no fato de que a execução fiscal não foi instruída com cópia do processo administrativo.
+Confiram-se os precedentes:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. ITCMD. JUNTADA DE CÓPIA DO PROCESSO ADMINISTRATIVO. DESNECESSIDADE. ÔNUS DE ILIDIR A PRESUNÇÃO DE LIQUIDEZ E CERTEZA DA CDA QUE COMPETE AO CONTRIBUINTE. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. AFERIÇÃO DOS REQUISITOS DE VALIDADE DA CDA. NECESSIDAD E DE DILAÇÃO PROBATÓRIA. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. DESCABIMENTO DA EXCEÇÃO DE PRÉ-EXECUTIVIDADE. PRECEDENTE EM SEDE DE RECURSO ESPECIAL REPETITIVO.
+1. Esta Corte, com base no § 1º do art. 6º da Lei n. 6.830/1980, entende que o documento obrigatório para o ajuizamento da execução fiscal é a respectiva Certidão de Dívida Ativa (CDA), que goza de presunção de certeza e liquidez, sendo, portanto, desnecessária a juntada pelo fisco da cópia do processo administrativo que deu origem ao título executivo, competindo ao devedor essa providência. Nesse sentido: EDcl no AgInt no AREsp 1203836/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 05/04/2018, DJe 11/04/2018.
+2. O Tribunal de origem foi claro ao assentar que a CDA ora atacada preenche todos os requisitos legais. Nesse contexto, a revisão do acórdão recorrido, para a verificação de eventuais vícios nos requisitos de validade da certidão de dívida ativa, pressupõe reexame de matéria fática, inviável no âmbito do recurso especial, nos termos da Súmula 7 do STJ. A propósito: AgRg no AREsp 832.015/MG, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 19/04/2016, DJe 27/05/2016.
+3. O tribunal de origem entendeu que, muito embora a prescrição e a decadência sejam causas de extinção do crédito tributário e, por essa razão, seja possível o seu reconhecimento de ofício, a ora agravante não coligiu aos autos os necessários documentos que possam demonstrar, com exatidão, os marcos temporais do fato gerador e da constituição definitiva do ITCMD, de modo que não seria possível reconhecer sua ocorrência na hipótese, sobretudo em se tratando de exceção de pré- executividade.
+4. O acórdão recorrido não destoa da jurisprudência desta Corte segundo a qual a exceção de pré-executividade é cabível quando atendidos simultaneamente dois requisitos, um de ordem material e outro de ordem formal, ou seja: (a) é indispensável que a matéria invocada seja suscetível de conhecimento de ofício pelo juiz; e (b) é indispensável que a decisão possa ser tomada sem necessidade de dilação probatória. (REsp 1.110.925/SP, Rel. Ministro Teori Albino Zavascki, Primeira Seção, DJe 04/05/2009). Revisar o entendimento do tribunal local quanto à necessidade de dilação probatória demandaria revolvimento de matéria fático-probatória a atrair o óbice da já citada Súmula n. 7 do STJ: "A pretensão de simples reexame de provas não enseja recurso especial".
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.330.938/DF, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 9/10/2023, DJe de 11/10/2023 - sem destaque no original.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. INEXISTÊNCIA DE OFENSA AO ART. 1.022 DO CPC/2015. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. PRODUÇÃO E JUNTADA DE CÓPIAS DO PROCESSO ADMINISTRATIVO. ÔNUS DA RECORRENTE.
+1. Não há a ofensa aos arts. 11, 489, § 1º, IV, e 1.022 do CPC/2015. O Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, embora contrariamente aos interesses da parte ora recorrente. O aresto adotou a tese de que é razoável que a Fazenda Pública junte processo administrativo a pedido da parte embargada, em Embargos à Execução fiscal.
+2. A irresignação prospera, porque o aresto vergastado destoa da jurisprudência do STJ de que a Certidão de Dívida Ativa goza de presunção de certeza e liquidez, sendo ônus do contribuinte ilidir tal presunção e juntar o processo administrativo, caso imprescindível à solução da controvérsia. Precedentes do STJ.
+3. Recurso Especial parcialmente provido.
+(REsp n. 2.033.828/SC, relator Ministro Herman Benjamin, Segunda Turma, julgado em 7/2/2023, DJe de 28/3/2023 - sem destaque no original.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. EXECUÇÃO FISCAL. PROCESSO ADMINISTRATIVO. JUNTADA. DESNECESSIDADE. CDA. REQUISITOS. REEXAME DE PROVA. IMPOSSIBILIDADE.
+1. Não há violação do art. 1.022 do CPC/2015 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+2. O art. 6º, § 1º, da LEF indica como documento obrigatório para o ajuizamento da execução fiscal apenas a respectiva Certidão de Dívida Ativa (CDA), que goza de presunção de certeza e liquidez, sendo, portanto, desnecessária a juntada pelo fisco da cópia do processo administrativo que deu origem ao título executivo, competindo ao devedor essa providência. Precedentes.
+3. Hipótese em que o agravante não apresentou embargos à execução, tendo solicitado a cópia do processo administrativo à Receita Federal e à Caixa Econômica Federal somente cinco anos após sua citação válida, quando já precluso o seu direito de apresentar defesa, notadamente de alegar eventual nulidade da CDA.
+4. A modificação do acórdão recorrido, para aferir eventuais vícios na certidão de dívida ativa, pressupõe reexame de matéria fática, inviável no âmbito do recurso especial, nos termos da Súmula 7 do STJ.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 1.737.184/RJ, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 11/9/2023, DJe de 15/9/2023 - sem destaque no original.)
+Além disso, a Corte Regional entendeu que as CDAs registram os elementos legais essenciais, inclusive a maneira de calcular os acréscimos legais (correção monetária e juros), o que afasta a nulidade.
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide no presente caso a Súmula 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse mesmo sentido:
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE.  ..  PROCESSO ADMINISTRATIVO. JUNTADA. DESNECESSIDADE. NULIDADE DA CDA. NÃO RECONHECIDA PELA CORTE DE ORIGEM A PARTIR DO EXAME DE ELEMENTOS FÁTICOS. REVISÃO. SÚMULA N. 7/STJ.  ..
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015 para o agravo interno.
+ ..
+III - O art. 6º, § 1º, da LEF indica como documento obrigatório para o ajuizamento da execução fiscal apenas a respectiva Certidão de Dívida Ativa (CDA), que goza de presunção de certeza e liquidez, sendo, portanto, desnecessária a juntada, pelo Fisco, da cópia do processo administrativo que deu origem ao título executivo, competindo ao devedor tal providência. Precedentes.
+IV - Rever o entendimento do Tribunal a quo de que a CDA preenche os requisitos previstos no art. 2º, §§ 5º e 6º, da Lei nº 6.830/80, não tendo sido ilidida a presunção da certeza e liquidez da dívida questionada, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7/STJ.
+ ..
+VI - Agravo Interno improvido.
+(AgInt no REsp n. 2.086.100/PE, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 4/3/2024, DJe de 7/3/2024.)
+PROCESSUAL CIVIL E ADMINISTRATIVO.  ..  EXECUÇÃO FISCAL. PROCESSO ADMINISTRATIVO. JUNTADA. DESNECESSIDADE. CDA. REQUISITOS. REEXAME DE PROVA. IMPOSSIBILIDADE.
+ ..
+2. O art. 6º, § 1º, da LEF indica como documento obrigatório para o ajuizamento da execução fiscal apenas a respectiva Certidão de Dívida Ativa (CDA), que goza de presunção de certeza e liquidez, sendo, portanto, desnecessária a juntada pelo fisco da cópia do processo administrativo que deu origem ao título executivo, competindo ao devedor essa providência. Precedentes.
+ ..
+4. A modificação do acórdão recorrido, para aferir eventuais vícios na certidão de dívida ativa, pressupõe reexame de matéria fática, inviável no âmbito do recurso especial, nos termos da Súmula 7 do STJ.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 1.737.184/RJ, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 11/9/2023, DJe de 15/9/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. NULIDADE DA CERTIDÃO DE DÍVIDA ATIVA. REQUISITOS DE VALIDADE DA CDA. OMISSÃO DE RENDIMENTOS. INVIABILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. PROVIMENTO NEGADO.
+ ..
+2. O Tribunal de origem reconheceu que a certidão de dívida ativa (CDA) reunia todos os requisitos de validade. Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, o que impede o conhecimento do recurso especial. Incidência da Súmula 7 do Superior Tribunal de Justiça.
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.717.838/RS, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 20/11/2023, DJe de 27/11/2023.)
+Por fim, o Tribunal de origem reconheceu haver indicação nas CDAs de que os créditos tributários foram constituídos por declaração transmitida pelo próprio contribuinte, o qual não pode agora alegar desconhecer a origem e outros aspectos atinentes aos valores cobrados. Inexiste, por esse motivo, o propalado cerceamento de defesa (fl. 45).
+Na peça recursal, todavia, a parte recorrente não se insurge contra esse fundamento, pois limita-se a defender a necessidade de juntada do processo administrativo e o reconhecimento da nulidade da CDA por cerceamento de defesa.
+Incide no presente caso, por analogia, a Súmula 283 do Supremo Tribunal Federal (STF), segundo a qual "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
