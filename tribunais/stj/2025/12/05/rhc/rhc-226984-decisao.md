@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por GLEISON OLIVEIRA DAMASCENO, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS.
+Consta nos autos que o recorrente teve a prisão preventiva decretada pela prática, em tese, do delito de homicídio qualificado.
+Inconformada, a defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem em acórdão de fls. 81-95.
+Alega a Defesa constrangimento ilegal na decisão que decretou a prisão preventiva do recorrente, argumentando ausência dos requisitos ensejadores da medida extrema, previstos no art. 312 do Código Processo Penal.
+Enfatiza as condições pessoais favoráveis do recorrente, visto ser primário, possuir residência fixa e trabalho lícito, ressaltando que o acusado não oferece qualquer risco à ordem pública.
+Defende a aplicação das medidas cautelares diversas da prisão, previstas no art. 319 do Código de Processo Penal.
+Requer a revogação da prisão preventiva ou, subsidiariamente, sua substituição por medidas cautelares diversas.
+O Ministério Público Federal em parecer, às fls. 133-135, manifestou-se pelo desprovimento do recurso.
+É o relatório. DECIDO.
+In casu, observa-se que a decisão que decretou a segregação cautelar, está devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam de maneira inconteste a necessidade da prisão para a garantia da ordem pública, notadamente pelo modus operandi da conduta em tese perpetrada, haja vista, que o recorrente cometeu, em tese o crime de homicídio qualificado. O acusado teria desferido diversos golpes de faca contra a vítima, atingindo-lhe a cabeça e o abdômen, ocasionando hemorragia que resultou em seu óbito . A motivação do crime seria um simples desentendimento entre a partes - fl. 36.
+Insta consignar que a gravidade em concreto do crime e a periculosidade do agente, evidenciada pelo modus operandi, constituem fundamentação idônea para a decretação da custódia preventiva.
+Sobre o tema:
+"A prisão preventiva se encontra devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório; seja para a garantia da ordem pública tendo em vista a gravidade concreta evidenciada pelo modus operandi da conduta, consistente em homicídio qualificado pelo motivo fútil, meio cruel e recurso que impossibilitou a defesa do ofendido, haja vista que, em tese, o agravante teria concorrido para a empreitada criminosa que culminou na execução da vítima, cuja vida foi ceifada por múltiplos golpes de instrumento contundente; seja para assegurar a aplicação da lei penal, na medida em que ele teria se evadido evadido do distrito da culpa, sendo localizado apenas em outra unidade federativa" (AgRg no RHC n. 218.256/GO, de minha relatoria, Quinta Turma, DJEN de 14/8/2025.)
+"No caso, a prisão preventiva está devidamente fundamentada na necessidade de garantir a ordem pública, tendo em vista a gravidade concreta da conduta imputada ao agravante, acusado da suposta prática do crime de homicídio qualificado por motivo fútil e mediante recurso que dificultou a defesa da vítima, ostenta elevada gravidade, tendo sido praticado, em tese, de maneira extremamente violenta" (AgRg no HC n. 999.789/SE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 2/6/2025.)
+Nesse sentido: AgRg no RHC n. 192.183/PR, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe de 3/5/2024; AgRg no HC n. 908.674/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 14/5/2024 e AgRg no RHC n. 188.488/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 18/4/2024.
+Por fim, ressalta-se que a presença de circunstâncias pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não tem o condão de garantir a revogação da prisão se há nos autos elementos hábeis a justificar a imposição da segregação cautelar, como na hipótese. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão.
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
