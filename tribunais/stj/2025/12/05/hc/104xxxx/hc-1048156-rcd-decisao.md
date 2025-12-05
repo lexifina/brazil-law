@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de FERNANDA (CALIANO) BIFFANI CORDEIRO (LELES), apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, em razão do julgamento da apelação criminal n. 0006311-47.2015.8.26.0045.
+Consta dos autos que o juízo de primeiro grau condenou a paciente pela prática do crime de tortura, tendo sido fixada a pena de 4 (quatro) anos e 15 (quinze) dias de reclusão, com a imposição de regime inicial semiaberto (fls. 5-6 e 18).
+Interposto recurso ao Tribunal de origem, o acórdão manteve a condenação em apelação e, posteriormente, a revisão criminal (sem indicação de número) teria sido julgada sem o acolhimento das nulidades suscitadas.
+Na presente impetração, busca-se a concessão da ordem para, em caráter liminar, suspender os efeitos do acórdão condenatório e impedir a execução da pena, permitindo que a paciente aguarde o julgamento deste habeas corpus e dos recursos excepcionais em regime aberto ou em prisão domiciliar, sob alegação de violação à presunção de inocência, de nulidades absolutas decorrentes da quebra da cadeia de custódia da prova digital e de necessidade de resguardar o melhor interesse dos filhos menores de idade.
+Requer, ao final, a concessão de liminar para a expedição de contramandado de prisão ou salvo-conduto em favor da paciente. No mérito, pugna pela anulação integral do processo ab initio por ilicitude da prova e quebra da cadeia de custódia, com a consequente absolvição por ausência de prova lícita; Subsidiariamente, postula a desclassificação da conduta para o crime de maus-tratos, do art. 136 do Código Penal, com o redimensionamento da pena e a fixação de regime compatível, anulando-se a condenação por tortura ou, ainda, a redução da pena para 4 (quatro) anos, a fim de permitir o cumprimento em regime aberto, tendo em conta as suas condições (maternas) e os demais fundamentos já expostos.
+Documentos juntados (fls. 85-1145).
+Informações prestadas às fls. 1152-1252 e 1256-1259.
+Em petição da defes a, às fls. 1263-1280, requereu a "RECONSIDERAÇÃO DO PEDIDO LIMINAR PARA A CONCESSÃO DA PRISÃO DOMICILIAR" e a "juntada da Decisão da autoridade Coautora de segundo grau: Acórdão com a negativa da solicitação de prisão Domicilair feita em Revisão Criminal, já juntada em sua íntegra nesses autos" (revisão criminal nº 2211486-90.2025.8.26.0000).
+É o relatório. DECIDO.
+No caso, embora não haja previsão legal, a jurisprudência do Superior Tribunal de Justiça tem admitido a concessão excepcional de medida liminar em habeas corpus e seu recurso para cessar de imediato eventual coação, se verificadas a verossimilhança da ilegalidade do ato impugnado e o perigo decorrente da demora na prestação jurisdicional ordinária.
+Nesse sentido:
+ ..  A concessão de liminar em habeas corpus constitui medida excepcional, uma vez que somente pode ser deferida quando demonstrado, de modo claro e indiscutível, ilegalidade no ato judicial impugnado (AgRg no HC n. 625.326/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 18/3/2022).
+ ..  Por se tratar de medida que não encontra previsão legal, o pleito de liminar, em habeas corpus, deve ser deferido apenas em hipóteses excepcionalíssimas, de flagrante violação ou ameaça ao direito de locomoção do indivíduo, mediante demonstração da plausibilidade jurídica do direito tido como violado (fumus boni juris) e do perigo da demora na prestação jurisdicional invocada (periculum in mora), requisitos que não foram identificados na espécie (AgRg no HC n. 718.541/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 21/2/2022).
+Na espécie, sem adiantar juízo de mérito, não é possível identificar, em análise de cognição sumária, constrangimento ilegal alegado, nem a presença do fumus boni iuris e do periculum in mora, requisitos exigidos para a concessão da tutela de urgência.
+Assim, não obstante as razões apresentadas pela defesa, é imprescindível detida aferição dos elementos de convicção constantes dos autos para verificar a existência das ilegalidades sustentadas (AgRg no HC n. 799.739/PI, Quinta Turma, de minha relatoria, DJe de 24/4/2023).
+Por tais razões, indefiro o pedido de reconsideração (para a liminar).
+Encaminhem-se os autos ao Ministério Público Federal para o parecer.
+Após, venham conclusos para julgamento.
+Publique-se. Intimem-se.
+ EMENTA
