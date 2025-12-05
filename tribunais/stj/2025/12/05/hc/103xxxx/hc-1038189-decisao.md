@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de habeas corpus impetrado de próprio punho por ARIVALDO VICENTE SOUTO contra acórdão da 12ª Câmara de Direito Criminal do Tribunal de Justiça de São Paulo, na Apelação n. 3000288-78.2013.8.26.0344.
+Intimada para manifestação, nos termos do Acordo de Cooperação Técnica STJ/DPU n. 3/2025, a Defensoria Pública da União aponta atipicidade da conduta por ausência de potencialidade lesiva, e ausência de dolo, alegando que havia dúvida razoável do paciente sobre a falsidade do documento.
+Pugna pelo trancamento da ação penal por atipicidade da conduta, ou pela anulação da condenação. Subsidiariamente, pelo reconhecimento da ausência de dolo, com a absolvição do paciente, nos termos do art. 386, inciso III, do Código de Processo Penal.
+O Ministério Público opinou pelo não conhecimento do habeas corpus ou pela denegação da ordem (e-STJ, fls. 63-69).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+In casu, cumpre consignar que contra o acórdão de apelação aqui impugnado a defesa opôs embargos de declaração, que foram rejeitados, tendo a condenação transitado em julgado para o Ministério Público em 10/3/2017 e para a defesa em 15/2/2017, conforme se extrai da página oficial do Tribunal de Justiça de São Paulo, na internet, razão pela qual a utilização do presente habeas corpus com o fim de se desconstituir as decisões proferidas pelas instâncias ordinárias consubstancia pretensão revisional que configura usurpação da competência do Tribunal de origem, nos termos dos arts. 105, inciso I, alínea e e 108, inciso I, alínea b, ambos da Constituição da República.
+Ademais, observa-se dos autos que a falsificação do documento só foi detectada após a resposta do órgão competente de que o registro não existia, e não pela análise material simples, afastando a alegação da defesa de se tratar de falsificação grosseira. E o dolo na conduta do paciente também foi firmemente estabelecido, tendo o Tribunal a quo considerado que o réu agiu de forma consciente e voluntária ao adquirir e utiliz ar por 9 meses a Carteira Nacional de Habilitação sem se submeter aos exames obrigatórios.
+Diante do exposto, não conheço do habeas corpus.
+Publique-se. Intime-se.
+EMENTA
