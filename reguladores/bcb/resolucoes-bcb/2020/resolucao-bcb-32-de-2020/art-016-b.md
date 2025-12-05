@@ -1,0 +1,6 @@
+Art. 16-B. Para fins de compartilhamento de dados de que trata o art. 5º, inciso I, alíneas "c" e "d", da Resolução Conjunta nº 1, de 2020, relacionados a contas conjuntas de pessoas naturais, a instituição transmissora de dados deve:
+I - garantir que a instituição receptora de dados tenha acesso a dados cadastrais apenas do titular da conta responsável pelo consentimento, não sendo admitido o compartilhamento dos dados cadastrais dos demais titulares da respectiva conta; e
+II - compartilhar dados transacionais da conta conjunta por meio do consentimento dos titulares que possam ter acesso a informações transacionais da conta.
+Art. 16-B. (Revogado pela Resolução BCB nº 398, de 4/7/2024.)
+Parágrafo único. A instituição transmissora de dados deve exigir a confirmação de todos os titulares da conta para efetivar o compartilhamento de que trata o inciso II do caput sempre que o acesso a informações transacionais da conta dependa da autorização de todos os titulares.
+Parágrafo único. (Revogado pela Resolução BCB nº 398, de 4/7/2024.)
