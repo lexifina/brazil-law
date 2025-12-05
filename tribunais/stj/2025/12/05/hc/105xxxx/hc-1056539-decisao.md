@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de JULIAN APAZA ADUVIRI - preso preventivamente pela suposta prática do crime de tráfico de drogas -, em que a defesa aponta como autoridade coatora o Tribunal Regional Federal da 3ª Região, que deu provimento ao recurso do Ministério Público para restabelecer a prisão preventiva e determinar o prosseguimento das investigações (Recurso em Sentido Estrito n. 5003824-98.2024.4.03.6181).
+O impetrante alega, em síntese, nulidade da busca pessoal por ausência de "fundada suspeita", afirmando que a abordagem se baseou em elementos subjetivos e genéricos - origem do ônibus, nervosismo e transporte de bagagens -, sem lastro objetivo, em violação do art. 244 do Código de Processo Penal.
+Alega que, reconhecida a ilicitude da busca, todas as provas subsequentes estão contaminadas pela Teoria dos Frutos da Árvore Envenenada, impondo a inadmissibilidade da apreensão e a inexistência de justa causa para a persecução penal.
+Em caráter liminar, pede a suspensão imediata dos efeitos do acórdão da Quinta Turma do Tribunal Regional Federal da 3ª Região no Recurso em Sentido Estrito n. 5003824-98.2024.4.03.6181, com expedição de contramandado de prisão ou, se já cumprida a ordem, de alvará de soltura.
+No mérito, requer a declaração de ilicitude da busca pessoal e de todas as provas dela derivadas, o trancamento definitivo do Inquérito Policial n. 5003824-98.2024.4.03.6181, por ausência de justa causa, com a consequente revogação da prisão preventiva.
+É o relatório.
+A ilegalidade passível de justificar a impetração do habeas corpus deve ser manifesta, de constatação evidente, o que, na espécie, não ocorre.
+No caso, o presente writ é incabível por consubstanciar inadequada substituição ao recurso próprio a ser dirigido ao Superior Tribunal de Justiça (AgRg no HC n. 753.464/SC, Ministra Laurita Vaz, Sexta Turma, DJe 29/9/2022).
+Além disso, do detido exame dos autos não verifico a apontada ilegalidade flagrante que justifique a concessão do habeas corpus, ao contrário, dos elementos do autos constata-se a existência de justa causa e fundamentação idônea a autorizar a abordagem policial (fl. 81 - grifo nosso):
+A dinâmica dos fatos revela que a abordagem pessoal não ocorreu como revista exploratória ou de fishing expedition. Muito pelo contrário, a ação dos policiais teve início quando perceberam a sequência de atitudes adotadas por JULIAN imediatamente após o desembarque de um ônibus procedente da Bolívia, região notoriamente conhecida como ponto inicial de rota do tráfico transnacional de entorpecentes.
+Com efeito, ao contrário dos demais passageiros, JULIAN procurou ocultar- se atrás de um veículo estacionado, demonstrando inequívoca intenção de esquivar-se de olhares de terceiros ou da fiscalização policial, ressaltando-se que carregava sacolas com conteúdo pesado, que posteriormente identificou-se como 50 kg de cocaína.
+Esse comportamento, aliado ao fato de que logo em seguida realizou ligação telefônica, dá suporte à conclusão de que aguardava a chegada de comparsa previamente avisado para auxiliá-lo no transporte da mercadoria ilícita, gerando nos policiais fundadas suspeitas de atividade criminosa, o que foi reforçado posteriormente, quando os policiais perceberam que o taxímetro do veículo não estava ligado.
+Inviável, por outro lado, o amplo reexame de fatos e provas nos autos de habeas corpus, de cognição sumária.
+Por fim, convém destacar que o feito se encontra em sua fase instrutória, devendo a tese de nulidade da busca pessoal, no momento da prisão em flagrante, ser analisada durante a instrução processual em juízo, em cognição plena. A propósito: AgRg no HC n. 854.089/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 8/5/2024.
+Em face do exposto, indefiro liminarmente a petição inicial.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO. NULIDADE. BUSCA PESSOAL. PRETENSÃO DE TRANCAMENTO DA AÇÃO. ILEGALIDADE FLAGRANTE. INEXISTÊNCIA.
+Petição inicial indeferida liminarmente.
