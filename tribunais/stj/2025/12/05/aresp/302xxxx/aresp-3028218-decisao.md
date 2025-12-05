@@ -1,0 +1,20 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por BANCO DO BRASIL S/A contra decisão que inadmitiu recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Ação: cumprimento de sentença  expurgos inflacionários, ajuizada por FABIO BEZERRA CAVALCANTE DE SOUZA, em face de BANCO DO BRASIL S/A, na qual requer o cumprimento individual de sentença coletiva proferida em ação civil pública do IDEC para pagamento de diferenças de expurgos inflacionários de caderneta de poupança do Plano Verão.
+Decisão interlocutória: rejeitou os embargos de declaração e a exceção de pré-executividade, mantendo a legitimidade ativa do exequente e afastando a prescrição.
+Acórdão: manteve a decisão unipessoal do Relator que negou seguimento ao recurso de agravo de instrumento interposto por BANCO DO BRASIL S/A, nos termos da seguinte ementa:
+AGRAVO REGIMENTAL. DECISÃO MONOCRÁTICA QUE NEGOU SEGUIMENTO AO RECURSO DE AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA COLETIVA. AÇÃO CIVIL PÚBLICA AJUIZADA PELO IDEC. PRELIMINAR DE ILEGITIMIDADE ATIVA REJEITADA. PRESCRIÇÃO. INOCORRÊNCIA. DECISÃO MANTIDA. PRECEDENTES.
+Com efeito, a jurisprudência já pacificada do Superior Tribunal de Justiça é no sentido de que os poupadores ou seus sucessores detêm legitimidade ativa, independentemente de fazerem parte ou não dos quadros associativos do IDEC, de ajuizarem o cumprimento individual da sentença coletiva. Acertada, pois, a decisão de primeiro grau.
+Outrossim, de acordo com entendimento consolidado do Colendo STJ, consagrado em sede de recurso repetitivo, é de 5 (cinco) anos o prazo prescricional para ajuizamento de execução individual em pedido de cumprimento de sentença proferida em ação civil pública, contado do trânsito em julgado da sentença coletiva.
+In casu, restou verificado que a ação executiva individual foi ajuizada dentro do prazo quinquenal, não havendo que se falar, portanto, em ocorrência da prescrição alegada pelo Agravante.
+CONHECIDO E IMPROVIDO. (e-STJ fls. 353/357)
+Decisão de admissibilidade do TJ/BA: inadmitiu o recurso especial em razão dos seguintes fundamentos: i) ausência de violação do art. 1.022 do CPC; ii) ausência de prequestionamento da matéria tratada no recurso especial; iii) deficiência na demonstração do dissídio jurisprudencial, e iv) consonância entre a conclusão do acórdão de origem e o entendimento jurisprudencial desta Corte Superior (Súmula 83/STJ).
+Agravo em recurso especial: nas razões do presente recurso, além da negativa de prestação jurisdicional, a parte agravante aduz que os dispositivos arrolados foram devidamente prequestionados perante o Tribunal de origem, mediante a oposição de embargos de declaração. Assevera que o dissídio jurisprudencial foi efetivamente demonstrado, mediante a realização de cotejo analítico entre o acórdão recorrido e o paradigma.
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade do seguinte óbice: consonância entre a conclusão do acórdão de origem e o entendimento jurisprudencial desta Corte Superior (Súmula 83/STJ).
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, Terceira Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, Quarta Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
