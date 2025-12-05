@@ -1,0 +1,14 @@
+DECISÃO
+FRANKLIN DE OLIVEIRA BARCELOS alega sofrer coação ilegal diante de acórdão do Tribunal de origem, que não conheceu do HC n. 2348090-58.2025.8.26.0000.
+A defesa se insurge contra a negativa do indulto previsto no Decreto n. 11.302/2020. Argumenta que estão preenchidos os requisitos legais previstos pelo Presidente da República, e que o tráfico privilegiado e o porte de arma praticado em 2011 não têm natureza de crime hediondo ou a ele equiparado.
+Requer o reconhecimento do benefício.
+Decido.
+A petição inicial do habeas corpus está dissociada do conteúdo do acórdão recorrido e não refuta seu fundamento. O Tribunal de origem não analisou a controvérsia, por considerar que "o writ não é o instrumento adequado para acelerar incidentes em execução penal ou abreviar postulações de benefícios, e tampouco configura via adequada ao exame do preenchimento dos requisitos objetivos e subjetivos necessários à concessão dos benefícios" (fl. 16).
+Assim, nos termos do art. 105 da CF, o "exame pelo Superior Tribunal de Justiça de matéria que não foi apreciada pelas instâncias ordinárias enseja indevida supressão de instância, com explícita violação da competência originária para o julgamento de habeas corpus" (AgRg no HC 563.878/MG, Rel. Ministro João Otávio de Noronha, 5ª T., DJe 10/0/2021).
+Todavia, identifico a negativa de prestação jurisdicional.
+A questão é jurídica e não demanda exame de provas para ser resolvida. Se a defesa não interpôs agravo em execução e a decisão que indeferiu o indulto já transitou em julgado, o remédio constitucional configura o único meio processual remanescente para que o apenado busque afastar eventual ilegalidade apta a atingir sua liberdade de locomoção.
+Ressalto que:
+ ..  "é bem verdade que o STJ não mais tem admitido a impetração de habeas corpus, quando substitutivo de recursos próprios. Todavia, tal posicionamento não tem o condão subtrair do magistrado a verificação quanto à existência de ilegalidade flagrante, caso em que deverá conceder habeas corpus de ofício. Inteligência do art. 654, § 2º, do CPP"(HC n. 301.883/SP, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 23/10/2014, DJe 10/11/2014). 3. Agravo a que se nega provimento. Ordem concedida de ofício, tão somente para determinar que o Tribunal de Justiça do Estado de São Paulo aprecie o mérito do habeas corpus originário como entender de direito  ..  (AgRg no HC 561.747/SP, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 4/8/2020).
+À vista do exposto, não conheço do habeas corpus, mas concedo a ordem, in limine, para determinar ao Tribunal de Justiça de origem que aprecie, uma vez não interposto agravo em execução pela defesa, a existência de flagrante ilegalidade na decisão do Juiz da VEC que negou o pedido de indulto.
+Publique-se e intimem-se.
+EMENTA
