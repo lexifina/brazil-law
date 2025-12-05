@@ -1,0 +1,56 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça que recebeu a seguinte ementa (fls. 2205-2206):
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. OMISSÃO NA ANÁLISE DE TESES. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática que deu provimento ao recurso especial do Ministério Público Federal, determinando a devolução dos autos ao Tribunal Regional da 5ª Região para análise de questões alegadas como omissas.
+2. O agravante busca a reconsideração da decisão, alegando impedimento do recurso especial pelo enunciado 7 da Súmula do Superior Tribunal de Justiça ou o desprovimento do recurso especial.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se houve omissão do Tribunal de origem na análise das teses apresentadas pelo recorrente, especialmente em relação à dosimetria da pena e à aplicação de agravantes, mesmo após a interposição de embargos de declaração.
+III. RAZÕES DE DECIDIR
+4. A decisão recorrida foi mantida por seus próprios fundamentos, uma vez que o Tribunal de origem deixou de enfrentar as teses alegadas pelo recorrente, configurando omissão.
+5. A omissão na análise das teses pode impactar no cálculo da prescrição, reconhecida pelo Tribunal de origem ao extinguir a punibilidade do recorrente.
+6. O agravante deixou de infirmar as razões da decisão recorrida, inexistindo motivo para reforma.
+IV. DISPOSITIVO E TESE
+7. Recurso desprovido.
+O recorrente aponta violação direta aos arts. 5º, LIV e LV, e 93, IX, da Constituição Federal e sustenta a existência de repercussão geral da matéria deduzida.
+Indica que houve deficiência de fundamentação do acórdão recorrido, por ter "mantido por seus próprios fundamentos" a decisão monocrática que deu provimento ao recurso especial do Ministério Público Federal e por afirmar que "o agravante deixou de infirmar as razões da decisão recorrida", sem enfrentar as teses centrais do agravo regimental relativas à incidência da Súmula 7/STJ e ao vedado reexame fático-probatório.
+Alega que o STJ incorreu em indevido reexame de fatos e provas em sede de recurso especial, desvirtuando os limites da via extraordinária.
+Argumenta, ainda, que a negativa de aplicação da Súmula 7/STJ, sem o enfrentamento dos argumentos específicos apresentados no agravo regimental, implicou afronta às garantias do devido processo legal, do contraditório e da ampla defesa, além de omissão qualificada quanto às teses sobre dosimetria, consequências do delito, agravantes e prestação pecuniária.
+Requer, assim, a admissão e o provimento do recurso.
+Não foram apresentadas contrarrazões (fl. 2.239).
+É o relatório.
+2. No julgamento do paradigma vinculado ao Tema n. 339, o Supremo Tribunal Federal apreciou a seguinte questão:
+ ..  se decisão que transcreve os fundamentos da decisão recorrida, sem enfrentar pormenorizadamente as questões suscitadas nos embargos declaratórios, afronta o princípio da obrigatoriedade de fundamentação das decisões judiciais, nos termos do art. 93, IX, da Constituição Federal.
+Na ocasião, firmou-se a seguinte tese vinculante:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas.
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessária a apreciação de todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da CF não está relacionada ao acerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso dos autos, foram apresentados, de forma satisfatória, os fundamentos da conclusão do acórdão recorrido, como se observa do seguinte trecho do referido julgado (fls. 2.209-2.210):
+Porém, a decisão recorrida deve ser mantida por seus próprios fundamentos.
+O cerne da questão está na ausência de enfrentamento, pelo Tribunal de origem, das teses alegadas pelo recorrente. A decisão que deu provimento ao recurso especial analisou todos os aspectos do acordão recorrido e concluiu pela existência da omissão (e-STJ fls. 214-2147):
+"A controvérsia dos autos se refere à análise de eventual omissão da Corte de origem ao não analisar o pleito da parte recorrente no sentido da reanálise da valoração negativa das consequências do crime; incidência das agravantes do art. 62, I e IV, do CP; critério de fração de 6 meses por cada circunstância judicial negativa; e ilegalidade da substituição da pena privativa por duas penas de prestação pecuniária, em afronta à Súmula 171 do STJ.
+Em sede recursal, o Ministério Público Federal alegou negativa de prestação jurisdicional no acórdão proferido pela 2ª Turma do TRF5, que, ao manter a dosimetria da pena de Evilázio de Araújo Souto e declarar extinta a punibilidade pela prescrição, deixou de enfrentar argumentos relevantes apresentados em apelação, parecer e dois embargos de declaração. Sustenta violação aos arts. 489, §1º, III, IV e VI, e 1.022, parágrafo único, II, do CPC, bem como ao art. 315, §2º, III e IV, do CPP, ao adotar fundamentação genérica, sem apreciar questões como a valoração per relationem negativa das consequências do crime (com degradação ambiental em mais de 4.000m ), a aplicação das agravantes do art. 62, I e IV, do CP, a fração de aumento por vetorial negativa e a ilegalidade da conversão da pena em duas prestações pecuniárias (Súmula 171/STJ).
+Conforme exposto acima, percebe-se que, durante a dosimetria da pena, não foram analisadas todas as circunstâncias judiciais aplicáveis ao caso, bem como não houve a apurada análise do cabimento das agravantes. Além disso, elevou-se a reprimenda em patamar abaixo do mínimo reconhecido como critério ideal pela jurisprudência desta Corte.
+Na primeira fase, o d. Juiz Presidente prolatou decisão elevando a reprimenda em 07 meses por considerar a culpabilidade do recorrente mais reprovável que o normal e majorou a pena em 03 meses quanto às circunstâncias do crime. Na segunda fase, não reconheceu agravantes ou atenuantes. Por fim, na terceira fase, verificou ausência de causas de aumento ou de diminuição da pena.
+As provas colacionadas aos autos demonstram que o recorrido, à época dos fatos exercente do cargo de vereador e titular da empresa individual sob cuja razão social se efetivava a atividade ilícita, figurava como principal beneficiário da extração irregular de caulim. Tal exploração, realizada com o auxílio de maquinário pesado e mediante a contratação de garimpeiros, revela um grau elevado de estruturação e organização, culminando em significativa degradação ambiental, que atingiu área estimada em 4.152 m .
+Assim, em atenção ao princípio da individualização da pena, essas circunstâncias deveriam ter sido levadas em consideração na dosagem da pena, o que não foi feito. A Corte local, em julgamento do recurso de apelação, entendeu que a dosimetria da pena foi devidamente fundamentada, com exasperação da pena-base por culpabilidade e circunstâncias do crime, fixando-a em 1 ano e 10 meses de detenção, substituída por duas penas de prestação pecuniária, no total de R$ 4.400,00, além da pena de multa de R$ 3.296,60.
+No entanto, apesar da manutenção da condenação, foi reconhecida, de ofício, a prescrição da pretensão punitiva, considerando-se o lapso de quase 7 anos entre o recebimento da denúncia (06/05/2015) e a prolação da sentença (07/04/2022), superior ao prazo prescricional de 4 anos (art. 109, V, CP) para a pena aplicada.
+Mesmo após a oposição de embargos de declaração, o Tribunal deixou de examinar em relação à referida tese. Assim, entendo que assiste razão ao recorrente ante a violação ao artigo 619 do CPP pelo Tribunal de origem". (grifei)
+Portanto, descaracteriza-se impedimento da Súmula 7 do egrégio Superior Tribunal de Justiça. O recurso especial a que se deu provimento suscitou omissão do Tribunal de origem na apreciação de teses em relação à dosimetria da pena, mesmo após a interposição de embargos de declaração. A questão possui relevo particular, já que pode impactar no cálculo da prescrição, reconhecida pelo Tribunal de origem ao extinguir a punibilidade do recorrente, como constou na decisão que deu provimento ao recurso especial.
+Não tendo o agravante infirmado as razões da decisão recorrida, ausente razão para reforma.
+Ante o exposto, nego provimento ao recurso.
+Assim, fica inviabilizado o exame pretendido nesta insurgência.
+Com efeito, demonstrado que houve prestação jurisdicional compatível com a tese fixada pelo STF no Tema n. 339 sob o regime da repercussão geral, é inviável o prosseguimento do recurso extraordinário, que deve ter o seguimento negado.
+3. O STF já definiu que a alegação de afronta aos princípios do contraditório, da ampla defesa e do devido processo legal, bem como ao ato jurídico perfeito, ao direito adquirido e aos limites da coisa julgada, quando dependente da prévia análise de normas infraconstitucionais, configura ofensa reflexa ao texto constitucional.
+No Tema n. 660, a Suprema Corte fixou a seguinte tese vinculante:
+A questão da ofensa aos princípios do contraditório, da ampla defesa, do devido processo legal e dos limites à coisa julgada, tem natureza infraconstitucional, e a ela se atribuem os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009.
+(ARE n. 748.371-RG, relator Ministro Gilmar Mendes, julgado em 6/6/2013, DJe de 1º/8/2013.)
+Essa conclusão foi adotada sob o regime da repercussão geral e é de aplicação obrigatória, devendo os tribunais, ao analisar a viabilidade prévia dos recursos extraordinários, negar seguimento aos recursos que discutam questão à qual o STF não tenha reconhecido a existência de repercussão geral, nos termos do art. 1.030, I, a, do Código de Processo Civil.
+No caso dos autos, o exame da alegada ofensa ao art. 5º, LIV e LV, da Constituição Federal dependeria da análise de dispositivos da legislação infraconstitucional considerados na solução do acórdão recorrido, o que atrai a incidência do mencionado Tema n. 660 do STF.
+É o que se observa do trecho do julgado impugnado, anteriormente transcrito.
+4. Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Vale registrar não ser cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC) contra decisões que negam seguimento a recurso extraordinário, conforme o § 2º do art . 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO, DA AMPLA DEFESA E DO DEVIDO PROCESSO LEGAL, BEM COMO AO ATO JURÍDICO PERFEITO, AO DIREITO ADQUIRIDO E AOS LIMITES DA COISA JULGADA. EXAME DE NORMAS INFRACONSTITUCIONAIS. AUSÊNCIA DE REPERCUSSÃO GERAL. TEMA N. 660 DO STF. NEGATIVA DE SEGUIMENTO. ART. 1.030, I, A, DO CPC.
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
