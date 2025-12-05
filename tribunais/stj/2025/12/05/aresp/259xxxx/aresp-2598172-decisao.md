@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que não admitiu o recurso especial pelo qual ALICE SERRAO DE OLIVEIRA e OUTROS se insurgiram contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE RORAIMA de fls. 463/470.
+RORAIMA ENERGIA S.A, parte ora agravada, apresentou petição às fls. 1.240/1.241 noticiando a homologação de acordo entre as partes no Juízo de origem, instruindo o feito com os documentos de fls. 1.242/1.265.
+Às fls. 1.263/1.264 consta decisão proferida pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE RORAIMA homologatória de acordo entre as partes ora agravantes e agravada, bem como do pedido de desistência recursal. À fl. 1.265 consta certidão exarada no processo de origem, atestando-se o trânsito em julgado da decisão que homologou o pedido de desistência.
+Em consulta ao andamento do processo que deu causa a este recurso, no sítio eletrônico do JUS.BR (fonte: <https://portaldeservicos.pdpj.jus.br/consulta/autosdigitais processo=0830382-62.2021.8.23.0010&dataDistribuicao=20230621090815>), é possível constatar a homologação de acordo realizado entre as partes litigantes, tendo havido, inclusive, renúncia ao direito em que se funda a ação pela parte autora, conforme é possível verificar da leitura da cláusula quinta do acordo anexado aos autos (fl. 1.260), relativamente ao qual a parte ora agravante apresentou ratificação (fl. 1.262).
+Nesta Corte, intimados o Ministério Público Federal e os agravantes para se manifestarem a respeito da possível perda do interesse recursal (fls. 1.267/1.269), houve o transcurso do prazo sem manifestação (fls. 1.273 e 1.274).
+É o relatório.
+A autocomposição dos litígios é um meio de resolução de conflitos baseado na manifestação de vontade das próprias partes, sem a intervenção do Poder Judiciário. Esse mecanismo reforça a autonomia dos envolvidos, permitindo que solucionem suas divergências de maneira consensual.
+No Brasil, o sistema processual civil, levando-se em conta, principalmente, as disposições constantes do novo Código de Processo Civil, incentiva a autocomposição. Nesse sentido, o art. 840 do Código Civil dispõe que "é lícito aos interessados prevenirem ou terminarem o litígio mediante concessões mútuas".
+Em razão do acordo celebrado, o qual já foi homologado no TRIBUNAL DE JUSTIÇA DO ESTADO DE RORAIMA, e consideradas a manifestação de fls. 1.240/1.241 (RORAIMA ENERGIA S.A) e a ausência de manifestação da parte ora agravante (ALICE SERRAO DE OLIVEIRA e OUTROS, fl. 1.273), não há mais motivos para o prosseguimento do presente processo.
+Ante o exposto, julgo prejudicado o exame deste recurso em razão da perda de seu objeto.
+Publique-se. Intimem-se.
+ EMENTA
