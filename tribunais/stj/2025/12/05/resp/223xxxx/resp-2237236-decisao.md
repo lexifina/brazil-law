@@ -1,0 +1,92 @@
+DECISÃO
+Trata-se de recurso especial interposto por RICARDO PICCOLOTTO NASCIMENTO, com fundamento no art. 105, III, a e c, da Constituição Federal, no qual se insurge contra o acórdão proferido pelo Tribunal Regional Federal da 3ª Região no julgamento da Revisão Criminal n. 5008401-04.2025.4.03.0000, assim ementado (fls. 469/470):
+PENAL. PROCESSUAL PENAL. REVISÃO CRIMINAL. DELITOS DOS ARTS. 171, § 3º E 288, C. C. OS ARTS. 70 E 71, TODOS DO CÓDIGO PENAL. PENA-BASE. ATENUANTE DO ART. 65, I, DO CÓDIGO PENAL. AGRAVANTE DO ART. 61, II, "B", DO CÓDIGO PENAL. CONTINUIDADE DELITIVA ENTRE OS DELITOS DE ESTELIONATO. CONCURSO FORMAL ENTRE OS DELITOS DE ESTELIONATO E QUADRILHA. REGIME PRISIONAL. PRISÃO DOMICILIAR.
+1. O valor do dano à Autarquia Previdenciária, calculado em milhões de reais, conforme o acórdão rescindendo, é circunstância hábil a ensejar a elevação da pena-base, como consequências do delito.
+2. Sopesado, negativamente, que, na qualidade de médico, profissional de notório conhecimento geral e favorável nível social, cultural e econômico, do requerente Ricardo, dele esperava-se conduta minimamente ética, baseada no zelo pelo paciente e absoluto respeito pelo ser humano, mormente se tratando de médico especializado no cuidado da mente humana, como é sua especialidade, o que se revela acertado.
+3. O próprio requerente afirma que não contava com 70 (setenta) anos de idade na data da sentença, não fazendo jus à redução da pena pela incidência da atenuante do art. 65, I, do Código Penal. Não há se falar em infringência ao art. 580 do Código de Processo Penal, de acordo com o qual, no caso de concurso de agentes, "a decisão do recurso interposto por um dos réus, se fundado em motivos que não sejam de caráter exclusivamente pessoal, aproveitará aos outros". A atenuante da maioridade (CP, art. 65, I) está relacionada às condições de caráter pessoal do corréu, e, por esse motivo, não se comunicam, a teor do art. 30 do Código Penal.
+4. Idônea a fundamentação utilizada para justificar a incidência da agravante do art. 61, II, b , do Código Penal, na medida em que as prescrições médicas ilegais, que visavam corroborar atestados falsos de doenças psicológicas inexistentes, pelo requerente, serviram para facilitar ou assegurar a execução, a ocultação, a impunidade ou a vantagem de outro crime.
+5. Reconhecida a continuidade delitiva entre 4 (quatro) delitos de estelionato praticados pelo requerente. Incidiu a continuidade delitiva entre os delitos de estelionato, de mesma espécie, em conformidade com o disposto no art. 71 do Código Penal, não incidindo entre os delitos de estelionato e quadrilha, por serem de espécies diferentes, atraindo a aplicação da regra do concurso formal de crimes prevista no art. 70 do Código Penal. Deve prevalecer a aplicação da continuidade delitiva entre os delitos de estelionato e do concurso formal entre os delitos de estelionato e quadrilha.
+6. O estabelecimento do regime inicial semiaberto concilia-se com a condenação do requerente a 6 (seis) anos, 4 (quatro) meses e 6 (seis) dias de reclusão, bem como com a valoração das circunstâncias judiciais do art. 59 do Código Penal, a teor do art. 33, §§ 2º e 3º, do Código Penal.
+7. Quanto ao pedido de imposição de prisão domiciliar, iniciada a execução penal, compete ao Juízo das Execuções Penais apreciar referido pleito, fundado em motivo de saúde, a teor do art. 66 da Lei n. 7.210/84, de modo a se evitar indevida supressão de instância.
+8. A revisão criminal não é ação que se presta a rediscutir questões definitivamente julgadas, amparadas pelos efeitos da coisa julgada, sem que se demonstre, de maneira incontroversa, o preenchimento de alguma das hipóteses taxativas previstas no art. 621 do Código de Processo Penal, o que não se verificou no caso em apreço. 9. Revisão criminal julgada improcedente.
+A parte recorrente aponta dissídio jurisprudencial e violação dos seguintes dispositivos de lei federal: arts. 59, 61, caput e II, b, 171, caput e § 3º, e 288, todos do Código Penal; e arts. 621, I e II, e 580, ambos do Código de Processo Penal (fls. 490/531).
+Contrarrazões apresentadas às fls. 658/662.
+O recurso foi admitido na origem (fls. 663/666).
+Instado a se manifestar na condição de custos legis, o Ministério Público Federal opina pelo não conhecimento e, no mérito, pelo desprovimento do recurso especial (fls. 682/694).
+É o relatório.
+Inviável conhecer do recurso especial fundado no art. 105, III, c, da Constituição Federal.
+Ora, quando o recurso se fundar em dissídio jurisprudencial (art. 105, III, c, da CF), o recorrente fará a prova da divergência com a certidão, cópia ou citação do repositório de jurisprudência, oficial ou credenciado, inclusive em mídia eletrônica, em que houver sido publicado o acórdão divergente ou, ainda, com a reprodução de julgado disponível na internet, com indicação da respectiva fonte, devendo-se, em qualquer caso, mencionar as circunstâncias que identifiquem ou assemelhem os casos confrontados (arts. 1.029 do CPC e 255, § 1º, do RISTJ).
+No caso dos autos, o agravante apenas transcreveu excertos isolados dos acórdãos paradigmáticos; não efetivou o cotejo analítico entre o acórdão atacado e aqueles indicados como paradigmas, circunstância que obsta o conhecimento do recurso fundado em dissídio jurisprudencial.
+A propósito, confira-se:
+ ..
+IV. Para a caracterização da divergência, nos termos do art. 541, parágrafo único, do CPC, e do art. 255, §§ 1º e 2º, do RISTJ, exige-se, além da transcrição de acórdãos tidos por discordantes, a realização do cotejo analítico do dissídio jurisprudencial invocado, com a necessária demonstração de similitude fática entre o aresto impugnado e os acórdãos paradigmas, assim como a presença de soluções jurídicas diversas para a situação, exigência não atendida, no caso, porquanto inexiste similitude fática entre os casos confrontados.
+V. Na forma da jurisprudência do STJ, "o conhecimento de recurso especial fundado na alínea c do art. 105, III, da CF/1988 requisita, em qualquer caso, a demonstração analítica da divergência jurisprudencial invocada, por intermédio da transcrição dos trechos dos acórdãos que configuram o dissídio e da indicação das circunstâncias que identificam ou assemelham os casos confrontados, não sendo bastante a simples transcrição de ementas ou votos (artigos 541, parágrafo único, do Código de Processo Civil e 255, § 2º, do RISTJ). A não observância a esses requisitos legais e regimentais (art. 541, parágrafo único, do CPC e art. 255 do RI/STJ) impede o conhecimento do recurso especial" (STJ, AgRg no REsp n. 1.420.639/PR, Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 2/4/2014)
+ ..
+(AgRg no REsp n. 1.508.596/DF, Ministra Assusete Magalhães, Segunda Turma, DJe 17/3/2016 - grifo nosso).
+Quanto ao recurso especial fundado no art. 105, III, a, da Constituição Federal, a insurgência é admissível e, no mérito, não merece acolhida.
+Com efeito, a desconstituição da coisa julgada penal, em sede de revisão criminal, depende do efetivo implemento de alguma das condições previstas no art. 621 do CPP:
+Art. 621. A revisão dos processos findos será admitida:
+I - quando a sentença condenatória for contrária ao texto expresso da lei penal ou à evidência dos autos;
+II - quando a sentença condenatória se fundar em depoimentos, exames ou documentos comprovadamente falsos;
+III - quando, após a sentença, se descobrirem novas provas de inocência do condenado ou de circunstância que determine ou autorize diminuição especial da pena.
+No caso, como devidamente esclarecido no acórdão atacado, a dosimetria aplicada com relação ao recorrente não ofende literalmente a lei; ao contrário, está devidamente fundamentada na negativação de duas vetoriais, inexistindo critério matemático impositivo estabelecido pela lei para sua fixação na primeira fase (fls. 485/486 - grifo nosso):
+ ..
+Primeiramente, no que tange à desconstituição da coisa julgada voltada à fixação da pena-base, a alegação não prospera.
+Note-se que foi valorada desfavoravelmente a circunstância judicial relativa às consequências do delito para fundamentar a majoração da pena-base.
+O valor do dano à Autarquia Previdenciária, calculado em milhões de reais, conforme o acórdão rescindendo, é circunstância hábil a ensejar a elevação da pena-base, como consequências do delito.
+Também foi sopesado, negativamente, que, na qualidade de médico, profissional de notório conhecimento geral e favorável nível social, cultural e econômico, do requerente Ricardo, dele esperava-se conduta minimamente ética, baseada no zelo pelo paciente e absoluto respeito pelo ser humano, mormente se tratando de médico especializado no cuidado da mente humana, como é sua especialidade, o que se revela acertado.
+Desse modo, ausentes outras circunstâncias judiciais desfavoráveis, foi fixada a pena-base do estelionato do requerente Ricardo Piccolotto Nascimento em 3 (três) anos de reclusão e 30 (trinta) dias-multa.
+Conforme mencionado pelo Ilustre Procurador Regional da República, "a lei não impõe ao magistrado a adoção de uma fração específica, aplicável a todos os casos, a ser usada na valoração negativa das vetoriais previstas no art. 59 do Código Penal" (Id n. 323322234, p. 4), de modo que não se entrevê ilegalidade ou desproporcionalidade quanto aos fundamentos utilizados para exasperação da pena-base no montante estabelecido.
+ ..
+Sobre o tema, confira-se:
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS. DOSIMETRIA. VALORAÇÃO NEGATIVA DE CIRCUNSTÂNCIAS JUDICIAIS. ANTECEDENTES E CIRCUNSTÂNCIAS DO CRIME. FUNDAMENTAÇÃO IDÔNEA. AGRAVANTE DA REINCIDÊNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. HABEAS CORPUS NÃO CONHECIDO.
+I. CASO EM EXAME
+1. Habeas corpus impetrado em favor de Everton de Souza, condenado a 4 anos e 10 meses de reclusão, em regime inicial fechado, pela prática dos crimes de receptação e porte ilegal de arma de fogo (art. 14, caput, da Lei 10.826/03, e art. 180, caput, c/c art. 61, I, na forma do art. 69 do CP). A defesa sustenta constrangimento ilegal decorrente da indevida exasperação da pena.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) se a valoração negativa dos antecedentes e das circunstâncias do crime foi devidamente fundamentada ou configurou excesso. (ii) se houve flagrante ilegalidade na fixação da pena que justifique a concessão do habeas corpus.
+III. RAZÕES DE DECIDIR
+3. O habeas corpus não pode ser utilizado como substituto de recurso próprio ou revisão criminal, salvo em casos de flagrante ilegalidade. A jurisprudência consolidada do STJ e do STF impede o conhecimento da impetração quando não configurada situação excepcional.
+4. O Tribunal de origem fundamentou adequadamente a valoração negativa dos antecedentes do paciente, que possui três condenações com trânsito em julgado, e das circunstâncias do crime, considerando que o réu tentou influenciar um terceiro de boa-fé para ocultar um veículo roubado. Tais elementos extrapolam os requisitos normais do tipo penal, justificando a exasperação da pena-base.
+5. A aplicação da agravante de reincidência foi justificada, pois o paciente possui condenação anterior com trânsito em julgado. A reincidência demonstra que o réu voltou a delinquir após já ter sido condenado, o que legitima o aumento da pena.
+6. A fixação da pena está dentro da discricionariedade do magistrado, devendo respeitar os princípios da proporcionalidade e da razoabilidade, sem necessidade de um critério matemático rígido.
+A fundamentação das instâncias ordinárias atende aos parâmetros legais, não configurando constrangimento ilegal. IV. HABEAS CORPUS NÃO CONHECIDO.
+(HC n. 800.237/RS, Ministra Daniela Teixeira, Quinta Turma, julgado em 15/10/2024, DJe de 11/11/2024 - grifo nosso).
+Do mesmo modo, na segunda fase, irretocável o acórdão atacado ao concluir pela inaplicabilidade da atenuante do art. 65, I, do CP, e manutenção da agravante do art. 65, II, b, do CP, já que o próprio recorrente reconhece que não contava com 70 anos de idade na data da sentença e há fundamentação idônea na sentença para incidência da agravante em questão (fls. 486/487 - grifo nosso):
+ ..
+No que tange à segunda fase da dosimetria, o requerente pleiteia o reconhecimento da atenuante do art. 65, I, do Código Penal, aplicável apenas quanto ao corréu Jorge Matsumoto, bem como a exclusão da agravante do art. 61, II, b, do Código Penal, ao argumento de que se encontra desprovida de fundamentação idônea, o que, igualmente, não procede.
+Sustenta o requerente que o acórdão rescindendo também infringe o art. 580 do Código de Processo Penal, norma processual penal garantidora de tratamento jurídico isonômico para os corréus que apresentarem idêntica situação jurídica a do réu beneficiado em seu recurso, ao reconhecer a atenuante do art. 65, I, do Código Penal (agente maior de 70 anos na data da sentença), apenas em relação ao corréu Jorge Matsumoto, quanto ao delito de estelionato, assim como quanto ao delito de associação criminosa.
+O próprio requerente afirma que não contava com 70 (setenta) anos de idade na data da sentença, não fazendo jus à redução da pena pela incidência da atenuante do art. 65, I, do Código Penal.
+Não há se falar em infringência ao art. 580 do Código de Processo Penal, de acordo com o qual, no caso de concurso de agentes, "a decisão do recurso interposto por um dos réus, se fundado em motivos que não sejam de caráter exclusivamente pessoal, aproveitará aos outros".
+A atenuante da maioridade (CP, art. 65, I) está relacionada às condições de caráter pessoal do corréu, e, por esse motivo, não se comunicam, a teor do art. 30 do Código Penal.
+Revela-se idônea a fundamentação utilizada para justificar a incidência da agravante do art. 61, II, b, do Código Penal, na medida em que as prescrições médicas ilegais, que visavam corroborar atestados falsos de doenças psicológicas inexistentes, pelo requerente, serviram para facilitar ou assegurar a execução, a ocultação, a impunidade ou a vantagem de outro crime.
+ ..
+Nesse sentido, confira-se:
+ ..
+5. A atenuante prevista na segunda parte do inciso I do art. 65 do Código Penal somente pode ser aplicada quando o réu tiver mais de 70 anos na data da sentença.
+ ,,
+7. Habeas Corpus não conhecido.
+(HC n. 466.605/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 12/3/2019, DJe de 25/3/2019.)
+Por fim, também não há ilegalidade na incidência cumulativa do aumento decorrente da continuidade delitiva e do concurso formal de crimes, já que a continuidade foi aplicada em decorrência da prática de sucessivos crimes de estelionatos e o aumento do concurso formal decorre da prática de crime de natureza diversa no mesmo contexto fático (fl. 487 - grifo nosso):
+ ..
+O requerente aduz, ainda, que o acórdão impugnado apresenta erro quanto à aplicação cumulada do concurso formal e do crime continuado, na medida em que se firmou entendimento de que, nos casos em que o concurso formal caracterizou-se entre crimes integrantes de nexo de continuidade, deverá ser procedido apenas ao aumento relativo ao crime continuado para não caracterizar bis in idem. Requer o afastamento do duplo aumento, pela continuidade delitiva e concurso formal, para que permaneça apenas um deles.
+Novamente, nada a reparar no acórdão recorrido quanto à matéria.
+Acompanho a jurisprudência do Superior Tribunal de Justiça e desta Corte Regional no sentido de que, na concorrência entre o concurso formal e o crime continuado, aplica-se apenas o aumento de pena relativo à continuidade delitiva, sob pena de configurar indevido (STJ, HC n. 201000299562, Rel. Min. Jorgebis in idem Mussi, j. 01.10.13, HC n. 201001245660, Rel. Min. Laurita Vaz, j. 28.06.11, HC n. 200602486284, Rel. Min. Gilson Dipp, j. 24.04.07; TRF 3ª Região, ACR n. 00011829720114036181, Rel. Des. Fed. Paulo Fontes, j. 08.09.14 e ACR n. 00015842919994036108, Rel. Des. Fed. Cecilia Mello, j. 07.05.13).
+Porém, a hipótese dos autos é diversa.
+Como se vê do acórdão acima transcrito, foi reconhecida a continuidade delitiva entre 4 (quatro) delitos de estelionato praticados pelo requerente.
+Incidiu a continuidade delitiva entre os delitos de estelionato, de mesma espécie, em conformidade com o disposto no art. 71 do Código Penal, não incidindo entre os delitos de estelionato e quadrilha, por serem de espécies diferentes, atraindo a aplicação da regra do concurso formal de crimes prevista no art. 70 do Código Penal.
+Deve prevalecer a aplicação da continuidade delitiva entre os delitos de estelionato e do concurso formal entre os delitos de estelionato e quadrilha.
+Por fim, no que se refere ao regime inicial de cumprimento de pena, o estabelecimento do regime inicial semiaberto concilia-se com a condenação do requerente a 6 (seis) anos, 4 (quatro) meses e 6 (seis) dias de reclusão, bem como com a valoração das circunstâncias judiciais do art. 59 do Código Penal, a teor do art. 33, §§ 2º e 3º, do Código Penal.
+E quanto ao pedido de imposição de prisão domiciliar, iniciada a execução penal, compete ao Juízo das Execuções Penais apreciar referido pleito, fundado em motivo de saúde, a teor do art. 66 da Lei n. 7.210/84, de modo a se evitar indevida supressão de instância.
+ ..
+Sobre o tema, confira-se:
+ ..
+4. A jurisprudência do STJ admite a cumulação das figuras do concurso formal e da continuidade delitiva quando os crimes praticados não integram o mesmo nexo de continuidade delitiva, sendo eles de natureza diversa e voltados à proteção de bens jurídicos distintos. Assim, a aplicação das causas de aumento pelo concurso formal e pela continuidade delitiva, na hipótese dos autos, não configura bis in idem, pois se tratam de delitos autônomos, ainda que relacionados a uma mesma omissão.
+ ..
+6. Recurso especial desprovido.
+(REsp n. 2.057.457/RS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 11/2/2025, DJEN de 17/2/2025).
+Em suma, não há nenhuma ilegalidade que justifique o acolhimento da ação revisional.
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. ESTELIONATO E ASSOCIAÇÃO CRIMINOSA. DISSÍDIO JURISPRUDENCIAL. INADMISSIBILIDADE. FALTA DE COTEJO ANALÍTICO. VIOLAÇÃO DOS ARTS. 59, 61, CAPUT E II, B, 171, CAPUT E § 3º, E 288, TODOS DO CP; E DOS ARTS. 621, I E II, E 580, AMBOS DO CPP. IMPROCEDÊNCIA. INEXISTÊNCIA DE ILEGALIDADE NA DOSIMETRIA DA PENA. PRECEDENTES DESTA CORTE.
+Recurso especial conhecido em parte e, nessa extensão, improvido.
