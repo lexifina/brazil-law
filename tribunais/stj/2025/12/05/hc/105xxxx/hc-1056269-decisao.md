@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de MARCELO BATISTA DE OLIVEIRA - condenado pelo crime do art. 129, § 1º, I, do Código Penal, à pena de 1 ano, 4 meses e 10 dias de reclusão, em regime inicial fechado -, em que a defesa aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, que, em 30/6/2025, negou provimento à apelação (Apelação Criminal n. 1508036-26.2021.8.26.0032).
+Em síntese, o impetrante alega desproporcionalidade e ilegalidade na fixação do regime inicial fechado, sustentando que, diante da pena concretizada e do quadro fático, o regime semiaberto é o único compatível com a proporcionalidade.
+Alega indevido afastamento da atenuante da confissão espontânea, afirmando que a confissão foi utilizada para a condenação e que deve ser reconhecida e compensada com a agravante da reincidência.
+Em caráter liminar, pede a expedição de contramandado de prisão, diante de mandado já expedido, para cessar o constrangimento decorrente da execução em regime fechado reputado desproporcional. No mérito, requer a readequação da dosimetria da pena e do regime de cumprimento.
+É o relatório.
+Ocorre que a via eleita foi indevidamente utilizada para revisar condenação transitada em julgado, o que é inadmissível. No entanto, verifico a ocorrência de constrangimento ilegal, o que justifica a superação do óbice.
+Com efeito, no que se refere à atenuante da confissão espontânea, o Tribunal de origem consignou o seguinte (fl. 22 - grifo nosso):
+ ..
+Neste ponto, insurge-se a Defesa pleiteando o reconhecimento da atenuante da confissão espontânea. Contudo, tal pretensão não merece acolhida.
+É certo que o réu admitiu haver efetuado o disparo contra a vítima, Sidney. Todavia, tal confissão foi qualificada, pois acompanhada da alegação de legítima defesa.
+A jurisprudência majoritária e a doutrina especializada são uníssonas ao afirmar que a confissão qualificada aquela em que o agente admite os fatos, mas alega excludente de ilicitude ou culpabilidade somente pode ser valorada como atenuante quando tiver sido determinante para a formação do convencimento do juízo e quando contribuir de maneira efetiva para a reconstrução fiel da dinâmica delitiva, o que, in casu, não se verifica.
+ ..
+Sobre o tema, o Superior Tribunal de Justiça, ao julgar o REsp n. 2.001.973/RS (Tema STJ n. 1.194), sob a sistemática dos recursos repetitivos, fixou as seguintes teses: 1. A atenuante genérica da confissão espontânea, prevista no art. 65, III, "d", do Código Penal, é apta a abrandar a pena independentemente de ter sido utilizada na formação do convencimento do julgador e mesmo que existam outros elementos suficientes de prova, desde que não tenha havido retratação, exceto, neste último caso, que a confissão tenha servido à apuração dos fatos; 2. A atenuação deve ser aplicada em menor proporção e não poderá ser considerada preponderante no concurso com agravantes quando o fato confessado for tipificado com menor pena ou caracterizar circunstância excludente da tipicidade, da ilicitude ou da culpabilidade (grifo nosso).
+Confira-se a ementa do julgado:
+DIREITO PENAL. RECURSO ESPECIAL REPETITIVO. TEMA N. 1.194 DO STJ. CONFISSÃO ESPONTÂNEA. INFLUÊNCIA NA FORMAÇÃO DO CONVENCIMENTO DO JULGADOR. DESNECESSIDADE. RETRATAÇÃO. EFEITOS. CONFISSÃO PARCIAL E QUALIFICADA. PROPORCIONALIDADE. RECURSO PARCIALMENTE PROVIDO. TESES FIXADAS COM MODULAÇÃO DE EFEITOS.
+I. Caso em exame
+1. Recurso especial interposto contra acórdão do Tribunal Regional Federal da 4ª Região que rejeitou a aplicação da atenuante da confissão espontânea, prevista no art. 65, III, d, do Código Penal, sob o fundamento de que a confissão não foi utilizada na formação do convencimento do julgador, porque retratada.
+2. O recorrente busca a redução da pena com base na aplicação da atenuante da confissão espontânea e a revisão do aumento de pena derivado dos maus antecedentes. II. Questão em discussão
+3. Há duas questões em discussão: (i) saber se a confissão espontânea do réu não utilizada para a formação do convencimento do julgador ou para o desdobramento das investigações, bem como a confissão parcial ou qualificada, autoriza o reconhecimento da atenuante prevista no art. 65, III, d, do Código Penal, discussões objeto de recurso especial repetitivo; e (ii) saber se o aumento da pena em razão dos maus antecedentes foi aplicado de forma proporcional e razoável.
+III. Razões de decidir
+4. A confissão espontânea, prevista no art. 65, III, d, do Código Penal, é apta a promover o abrandamento da pena independentemente de ter sido utilizada na formação do convencimento do julgador, desde que não tenha havido retratação ou, no caso de retratação, que a confissão tenha servido à apuração dos fatos.
+5. A atenuação deve ser aplicada em menor proporção e não poderá ser considerada preponderante no concurso com agravantes quando o fato confessado for tipificado com menor pena ou caracterizar circunstância excludente da tipicidade, da ilicitude ou da culpabilidade.
+6. O aumento da pena em razão dos maus antecedentes deve observar os princípios da proporcionalidade e não obedece a critérios estritamente matemáticos, sendo possível uma elevação mais acentuada quando o agente apresentar múltiplos registros criminais.
+7. Fixação de teses para o Tema n. 1.194 do STJ, conforme arts. 927, III, e 1.036 do Código de Processo Civil, com modulação de efeitos definida com fundamento no § 3º do art. 927 do mesmo diploma legal.
+IV. Dispositivo e tese
+8. Resultado do Julgamento: Recurso parcialmente provido para aplicar a atenuante da confissão espontânea e compensá-la com a agravante da reincidência, fixando a pena definitiva em 1 ano e 7 meses de reclusão. Teses fixadas para o Tema n. 1.194 com modulação de efeitos.
+Teses do Tema n. 1.194 do STJ:
+1. A atenuante genérica da confissão espontânea, prevista no art. 65, III, d, do Código Penal, é apta a abrandar a pena independentemente de ter sido utilizada na formação do convencimento do julgador e mesmo que existam outros elementos suficientes de prova, desde que não tenha havido retratação, exceto, neste último caso, que a confissão tenha servido à apuração dos fatos.
+2. A atenuação deve ser aplicada em menor proporção e não poderá ser considerada preponderante no concurso com agravantes quando o fato confessado for tipificado com menor pena ou caracterizar circunstância excludente da tipicidade, da ilicitude ou da culpabilidade.
+Dispositivos relevantes citados: CP, art. 65, III, d; CP, art. 59; CP, art. 68; CPC, art. 927, III e § 3º; CPC, art. 1.036.
+Jurisprudência relevante citada: STJ, AREsp n. 2.123.334/MG, relator Ministro Ribeiro Dantas, Terceira Seção, julgado em 20/6/2024, DJe de 2/7/2024; STJ, REsp n. 1.972.098/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 14/6/2022; STJ, AgRg no AREsp n. 1.640.414/DF, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 9/6/2020, DJe de 18/6/2020; STJ, AgRg no HC n. 986.463/PA, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 13/8/2025, DJEN de 18/8/2025.
+(REsp n. 2.001.973/RS, Ministro Og Fernandes, Terceira Seção, DJEN de 16/9/2025. ).
+No caso, o réu confessou o disparo de arma de fogo contra a vítima, porém alegou legítima defesa.
+Apesar de não configurar confissão plena, deve a pena ser atenuada, consoante o atual entendimento desta Corte sobre o tema.
+Nesse contexto, obedecidas as diretrizes fixadas pelas instâncias ordinárias, passo ao redimensionamento da pena.
+Mantém-se a pena-base fixada em 1 ano e 2 meses de reclusão. Na segunda fase, reconhecida a agravante da reincidência e a atenuante da confissão em sua forma qualificada, aquela deve preponderar, elevando-se a pena em 1/12, tornando-se definitiva em 1 ano, 3 meses e 5 dias de reclusão, devido à ausência de causas de aumento ou diminuição da pena.
+Quanto ao regim e de cumprimento da pena, apesar do quantum da pena aplicada, inferior a 4 anos de reclusão, a reincidência e o registro de maus antecedentes justificam, em consonância com o art. 33, § 2º, "c" e § 3º do CP, a aplicação do regime inicial fechado (AgRg no AREsp n. 2.684.269/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 17/6/2025, DJEN de 25/6/2025). No mesmo sentido: AgRg no AREsp n. 2.902.713/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 5/8/2025, DJEN de 15/8/2025.
+Ante o exposto, concedo liminarmente a ordem para, reconhecendo a incidência da atenuante da confissão qualificada, fixar a pena do paciente em 1 ano, 3 meses e 5 dias de reclusão, mantidos os demais termos da condenação.
+Comunique-se.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. LESÃO CORPORAL GRAVE. CONDENAÇÃO TRANSITADA EM JULGADO. PRETENSÃO DE REVISÃO. INADMISSIBILIDADE. DOSIMETRIA DA PENA. ART. 65, III, D, DO CP. ATENUANTE. CONFISSÃO QUALIFICADA. TEMA STJ N. 1.194. FLAGRANTE ILEGALIDADE RECONHECIDA. RÉU REINCIDENTE E COM MAUS ANTECEDENTES. REGIME FECHADO. LEGALIDADE.
+Ordem liminarmente concedida, nos termos do dispositivo.
