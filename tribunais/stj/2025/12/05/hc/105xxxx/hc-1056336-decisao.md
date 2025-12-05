@@ -1,0 +1,10 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de WEDERSON ALVES DE BRITO - condenado por tráfico de drogas à pena de 5 anos e 10 meses de reclusão, em regime fechado, e 583 dias-multa - contra o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (Apelação Criminal n. 1.0000.25.181306-9/001), não comporta processamento.
+Com efeito, busca a impetração a absolvição do paciente, ao argumento de ilicitude no ingresso domiciliar realizado pelos policiais militares, na ação penal que tramitou perante o Juízo de Direito da 2ª Vara Cível, Criminal e de Execuções Penais da comarca de Conceição das Alagoas/AL (fls. 99/122 - Autos n. 0002888-34.2024.8.13.0172).
+Ocorre que, além de se tratar de impetração indevidamente utilizada como substitutivo de recurso próprio, o que afasta a competência desta Corte Superior para análise do pleito, não se verifica a ocorrência do ilegal constrangimento, pois o Tribunal estadual, no julgamento da apelação criminal, afastou a alegação de prova ilícita por violação de domicílio, ao fundamento de que os policiais militares, na data dos fatos, estavam realizando operação em local conhecido como ponto de tráfico de drogas e, após observação estratégica, verificaram que o acusado atendia diversas pessoas que chegavam à parta de sua residência, realizando transações semelhantes à compra e venda de entorpecentes (fls. 147/148), em consonância com a jurisprudência do Superior Tribunal de Justiça, de modo que concluir de forma diversa demandaria reexame do conjunto fático-probatório, inviável na via estreita do habeas corpus.
+No mesmo sentido: HC n. 979.044/SE, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 18/3/2025, DJEN 26/3/2025.
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO. PROVA ILÍCITA POR INGRESSO DOMICILIAR. CRIME PERMANENTE. FUNDADAS RAZÕES E FLAGRÂNCIA RECONHECIDAS PELAS INSTÂNCIAS ORDINÁRIAS . INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL MANIFESTO.
+Inicial indeferida liminarmente.
