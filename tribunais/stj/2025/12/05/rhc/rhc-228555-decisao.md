@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por EMIR DA SILVA CRUZ, contra acórdão proferido pelo Tribunal de Justiça do Estado da Bahia (Segunda Câmara Criminal - 1ª Turma).
+Consta dos autos que o recorrente foi condenado pelo Tribunal do Júri à pena de 15 (quinze) anos de reclusão, em regime fechado, pela prática de homicídio, tendo o Conselho de Sentença reconhecido a forma privilegiada e qualificadoras. Foi decretada a prisão preventiva com execução imediata da pena.
+A defesa impetrou habeas corpus originário perante a Corte estadual, alegando nulidades na quesitação (contradição com laudo pericial) e erro na dosimetria da pena (excesso punitivo incompatível com o privilégio).
+O Tribunal de origem extinguiu o writ sem resolução de mérito, sob o fundamento de que a via eleita era inadequada, notadamente porque a defesa já havia interposto o recurso de Apelação Criminal nos autos originários.
+No presente recurso ordinário, a defesa reitera os pedidos de anulação do julgamento ou redimensionamento da pena, sustentando flagrante ilegalidade que autorizaria a concessão da ordem de ofício, a despeito do recurso pendente
+É o relatório.
+Decido.
+No caso, verifico que a parte impetrante se insurge contra decisão monocrática de Desembargador relator do Tribunal de origem, que julgou extinto o writ sem resolução de mérito.
+Assim, segundo a orientação adotada nesta Corte Superior de Justiça, é inviável o conhecimento da ação mandamental (ou do recurso que lhe faz as vezes), pois ausente o exaurimento da instância antecedente.
+A propósito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PRONÚNCIA. DECISÃO MONOCRÁTICA DO RELATOR. MATÉRIAS DEDUZIDAS NO WRIT NÃO APRECIADAS PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Na hipótese, a Defesa se insurgiu contra a decisão monocrática do Desembargador relator, não havendo, pois, deliberação colegiada do Tribunal de origem quanto ao tema, o que inviabiliza o seu conhecimento por esta Corte Superior devido à ausência de exaurimento de instância.
+2. Prevalece a orientação de que o Superior Tribunal de Justiça não é competente para processar e julgar writ sem o devido exaurimento da jurisdição na instância antecedente, como no caso em que a defesa se insurge contra decisão monocrática da Corte de origem e ausente a demonstração de interposição de recurso para provocar a manifestação de órgão colegiado acerca do constrangimento ventilado, observado o disposto no art. 105, I, c, da Constituição Federal (AgRg no HC n. 926.189/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 07/10/2024, DJe de 14/10/2024).
+3. Até mesmo as nulidades absolutas devem ser objeto de prévio exame na origem a fim de que possam inaugurar a instância extraordinária (AgRg no HC n. 395.493/SP, Sexta Turma, rel. Min. Rogerio Schietti Cruz, DJe de 25/05/2017).
+4. Agravo regimental não provido.
+(AgRg no HC n. 944.045/PB, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 11/12/2024, DJEN de 16/12/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. IMPETRAÇÃO QUE IMPUGNA DECISÃO MONOCRÁTICA DE RELATOR NO TRIBUNAL DE ORIGEM. AUSÊNCIA DE ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. INCOMPETÊNCIA DESTA CORTE PARA CONHECER DA MATÉRIA. AUSÊNCIA DE ILEGALIDADE FLAGRANTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. As matérias aventadas no presente habeas corpus não foram objeto de análise pelo Colegiado do Tribunal a quo, uma vez que consta dos autos apenas a decisão singular do Relator na origem, que indeferiu o pedido de reapreciação da custódia cautelar.
+2. Com efeito, as alegaçõ es apresentadas neste remédio constitucional não foram debatidas pelo colegiado, mas apenas por meio da mencionada decisão monocrática do Desembargador Relator, sendo este decisum apontado pela defesa como o ato coator.
+3. De igual modo, nota-se que a defesa nem mesmo trouxe cópia de acórdãos em que a decretação e manutenção da prisão preventiva tenha sido debatida, ou ao menos falhou em identificar corretamente tais peças em meio às 2.840 laudas dos autos virtuais, o que dificulta, no mínimo, a análise do alegado constrangimento ilegal. Precedentes.
+3. De toda forma, não se vislumbra ilegalidade flagrante que justifique a concessão da ordem de ofício. A manutenção da prisão preventiva do réu, ora agravante, encontra fundamento na extrema gravidade dos delitos imputados, consistentes em homicídio duplamente qualificado e ocultação de cadáver, revelando periculosidade concreta e risco à ordem pública. Conforme já reconhecido por esta Corte Superior em outra oportunidade, a custódia se justifica ante a gravidade concreta dos delitos, com execução que envolveu violência extrema, motivação torpe e impossibilidade de defesa da vítima, havendo, ainda, indícios de que o agravante, suposto mandante do crime, teria articulado a morte de um policial civil em represália às ações por ele conduzidas contra pontos de tráfico, evidenciando a complexidade do caso e o clamor público gerado. A necessidade de resguardar a higidez da instrução criminal também persiste, ante o risco de intimidação de testemunhas protegidas, mesmo com os acusados sob custódia.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 975.734/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 12/3/2025, DJEN de 19/3/2025.)
+Ante o exposto, indefiro liminarmente a petição recursal.
+Publique-se. Intimem-se.
+EMENTA
