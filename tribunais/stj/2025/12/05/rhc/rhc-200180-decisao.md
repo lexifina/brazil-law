@@ -1,0 +1,11 @@
+DECISÃO
+O presente recurso, interposto por ELIAQUENS DE SOUSA DOS SANTOS, no qual busca o trancamento da Ação Penal n. 0718620-84.2023.8.07.0020, aduzindo a inépcia da denúncia com relação ao delito do art. 1º, caput, § 4º, da Lei n. 9.613/1998, perdeu seu objeto.
+Sobreveio sentença condenatória na ação penal em questão. O Juízo de Direito da 1ª Vara Criminal e do Tribunal do Júri de Águas Claras/DF julgou parcialmente procedente a pretensão punitiva deduzida na denúncia para, em relação ao recorrente, condená-lo
+pela prática das infrações penais previstas no artigo 1º, § 4º, da Lei nº 9.613/1998 (fato 1 - imóvel situado na QN 514, Cj 03, Lt 01, Samambaia/DF) e no artigo 299, caput, do Código Penal (4 vezes - procuração e três escrituras); e ABSOLVÊ-LO, com fundamento no artigo 386, incisos III e VII, do Código de Processo Penal, quanto ao crime previsto no artigo 1º, § 4º, da Lei nº 9.613/1998 (fato 1 - imóveis localizados na QN 304, Ap. 202, Cj 06, Lt 04, Samambaia/DF, e na QN 304, Ap. 302, Cj 06, Lt 04, Samambaia/DF); e, com amparo no artigo 386, inciso III, do Código de Processo Penal, quanto ao crime descrito no artigo 1º, § 4º, da Lei nº 9.613/1998 (fato 2 - imóveis localizados na QN 514, Cj 03, Lt 01, Samambaia/DF, na QN 304, Ap. 202, Cj 06, Lt 04, Samambaia/DF, e na QN 304, Ap. 302, Cj 06, Lt 04, Samambaia/DF);
+Conforme a Súmula 648 do STJ, "a superveniência da sentença condenatória prejudica o pedido de trancamento da ação penal por falta de justa causa feito em habeas corpus", entendimento que se estende aos pedidos de reconhecimento de inépcia da denúncia (AgRg no AREsp n. 2.659.846/SP, Ministro Carlos Cini Marchionatti (Desembargador convocado TJRS), Quinta Turma, DJEN de 16/6/2025).
+Com efeito, a prolação de sentença implica a modificação do cenário a ser debatido, ensejado nova realidade processual de maior amplitude em relação à considerada no momento da formalização deste feito.
+Julgo prejudicado o recurso (art. 34, XI, do RISTJ).
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. OPERAÇÃO TESTA DE FERRO. LAVAGEM DE CAPITAIS. PRETENSÃO DE TRANCAMENTO DE AÇÃO PENAL. INÉPCIA DA DENÚNCIA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. PERDA DO OBJETO. SÚMULA 648/STJ.
+Recurso prejudicado.
