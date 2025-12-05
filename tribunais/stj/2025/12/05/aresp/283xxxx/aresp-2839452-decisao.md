@@ -1,0 +1,68 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por Leandro Roberto Paulino contra a decisão do Tribunal de Justiça de São Paulo que não admitiu o apelo raro fundado na Súmula 7 STJ (fls. 90/98).
+O acórdão proferido pela Sétima Câmara de Direito Criminal do Tribunal de Justiça de São Paulo negou provimento ao agravo em execução defensivo, sob o fundamento de que é arriscado permitir a progressão para o regime semiaberto, uma vez que não há evidências suficientes de que o réu assimilou a terapia e internalizou os valores necessários para viver em um regime menos vigiado, até porque, durante a execução da pena vige o princípio in dubio pro societate, sendo forçoso convir que não há elementos para alterar a decisão do magistrado "a quo" (fl. 61).
+O recurso especial, com fundamento no art. 105, III, a, da Constituição Federal, alegou violação do § 1º do art. 112 da Lei n. 7.210/1984, uma vez que de acordo com o mencionado artigo, o sentenciado tem direito à progressão "se ostentar boa conduta carcerária, comprovada pelo diretor do estabelecimento, e pelos resultados do exame criminológico" (fl. 69).
+O recurso não foi admitido pelo Tribunal de origem ao fundamento de que a revisão do preenchimento dos requisitos subjetivos para a progressão de regime exigiria minucioso reexame das provas, vedado pela Súmula 7 do STJ (fls. 86/87).
+Na petição de agravo em recurso especial (fls. 90/98), o agravante busca infirmar a decisão de inadmissão. Alega, em síntese, que não se pretende um reexame da matéria, mas sim comprovar que houve contrariedade ao art. 112, § 1º, da Lei 7.210/84. A Defesa ingressou com pedido de progressão ao regime semiaberto para o ora Agravante, e embora ele ostente BOM comportamento carcerário, lapso para obtenção do benefício e exame criminológico favorável à progressão, o pedido foi indeferido (fl. 92).
+Contrarrazões apresentadas (fls. 119/128).
+O Ministério Público Federal manifestou-se pelo não conhecimento do agravo, em parecer assim ementado (fl. 131):
+PENAL. AGRAVO EM RECURSO ESPECIAL. AGRAVO QUE DEIXA DE ATACAR, ESPECIFICAMENTE, OS FUNDAMENTOS DA DECISÃO IMPUGNADA. INCIDÊNCIA DA SÚMULA Nº 182/STJ. NECESSIDADE DE REEXAME DO ARCABOUÇO FÁTICO-PROBATÓRIO.
+PARECER PELO NÃO CONHECIMENTO DO AGRAVO.
+É o relatório.
+O agravo é admissível, pois é tempestivo e impugnou os fundamentos da decisão de inadmissão. Passo, então, ao exame do recurso especial.
+Os argumentos recursais não são suficientes para infirmar as conclusões do juízo monocrático.
+No que concerne à progressão de regime carcerário, da decisão de primeira instância extraem-se os seguintes fundamentos (fls. 26/27 - grifo nosso):
+ ..
+O pleito deve ser indeferido.
+Com efeito, o requisito objetivo necessário para a progressão ao regime semiaberto encontra-se satisfeito, tendo em vista o cumprimento de lapso suficiente de sua pena, consoante Cálculo de Pena juntado a folhas 1438/1442.
+Contudo, além do requisito objetivo, exige-se mérito para a progressão.
+Neste ponto, verifica-se que o reeducando registra boa conduta carcerária, consoante atestado pela autoridade competente (fls. 1494).
+Entretanto, cabe salientar que apenas o bom comportamento carcerário não é suficiente para o preenchimento do requisito subjetivo, que deve ser analisado à luz do princípio da individualização da pena, ou seja, com base em todos os elementos indicativos da personalidade do executado, e, em especial, aqueles que evidenciam o grau de ressocialização do reeducando.
+ ..
+No caso em apreço, em que pese a avaliação psicossocial (fls. 1482/1486), indicar elementos favoráveis à progressão pretendida, é necessária a análise global de todo o processo.
+A considerar que a perícia e os atestados também não vinculam o Magistrado.
+Com efeito, as conclusões dos exames realizados prestam-se, tão somente, a orientar o Magistrado, diante de todos os demais elementos de convicção reunidos, podendo ele, pois, nos termos do que preceitua o artigo 182, do Código de Processo Penal, relativo ao resultado dos laudos produzidos, "aceitá-lo ou rejeitá-lo, no todo ou em parte".
+ ..
+Ora, como se sabe, é facultado ao Juiz a análise de todo o histórico prisional do sentenciado, para o fim de decidir acerca da concessão do benefício pleiteado.
+Observo que o parecer da diretoria manifestou-se desfavoravelmente à pretensão pleiteada.
+Vale a pena a transcrição: ".. Instruídos de acordo com o artigo 4º da Resolução SAP nº 88, de 28/04/2010, apresentados os relatórios pelas Diretorias do Centro de Segurança e Disciplina, Centro de Trabalho e Educação, Centro de Reintegração e Atendimento à Saúde, e as discussões com foco à apresentação das condições do sujeito, pesquisadas ao longo do processo de intervenção e que pese os relatórios técnicos, ainda ponderamos que o mesmo, registra em seu Boletim Informativo, diversos procedimentos internos disciplinares em seu desfavor, ou seja, a prática de diversas faltas de natureza grave, dentre elas destacamos: Dano ao Patrimônio Público, Subversão a Ordem, Posse de Objetos não permitidos (Componentes de aparelho Celular/Celular), Participação em Movimento de Rebeldia, Agressão Física a Servidor Público, Desobediência dentre outras, logo, evidencia-se falha na absorção da terapêutica criminal no que diz respeito a ressocialização do mesmo, fatos estes que contribuem negativamente no seu perfil enquanto recluso, vale ressaltar, a observância em seu Boletim Informativo de constar registro de integrar organização criminosa, sendo assim, esta comissão manifesta s. m. j, CONTRÁRIOS à concessão do benefício pleiteado. .." (fls. 1485/1486).
+As circunstâncias, portanto, demonstram a falta de amadurecimento psicológico do executado para desfrutar de regime mais brando, mostrando-se prematura a concessão do benefício pretendido, sobretudo tratando-se de reeducando condenado por crime de homicídio, hediondo, além de crimes graves, assemelhados a hediondos.
+O sentenciado necessita permanecer mais tempo no regime mais rigoroso, com comportamento satisfatório e apto a indicar que não voltará a delinquir, e a demonstrar que tem aproveitado a terapêutica penal, por tempo suficientemente razoável, podendo, com isso, gradativamente retornar ao convívio social.
+Assim, por ausência do preenchimento dos requisitos legais, o indeferimento da pretensão é medida de rigor.
+ ..
+Por sua vez, do acórdão recorrido extraem-se os seguintes fundamentos (fl. 52 - grifo nosso):
+ ..
+A decisão não comporta reparo.
+O agravante cumpre pena de 33 anos, 9 meses e 18 dias de reclusão, em regime inicial fechado, em razão da prática de crimes gravíssimos (tráfico de drogas, associação para o narcotráfico, homicídio qualificado e ocultação de cadáver), com TCP previsto para 15/05/2037. O sentenciado possui histórico prisional negativo, com registro da prática de 11 faltas disciplinares de natureza grave, e em seu boletim informativo ainda consta informação de que ele ostenta envolvimento com facção criminosa (fl. 1089).
+No caso em exame, apesar do agravante preencher o requisito objetivo e contar com atestado de bom comportamento carcerário, verifica-se que o sentenciado foi condenado pela prática de tráfico de drogas, associação para o narcotráfico, homicídio qualificado e ocultação de cadáver, ou seja, _crimes gravíssimos _ e consta nos autos que ele é membro de facção criminosa fl. 1499 dos autos de origem, razões pelas quais, recomendam maior cautela na concessão de qualquer benefício.
+Diante disso, o magistrado a quo determinou a realização de exame criminológico para melhor aferir o mérito do agravante.
+ ..
+Dessa forma, para análise do mérito da progressão de regime, torna-se indispensável a realização do exame criminológico, pois é patente que não se pode submeter a sociedade ao risco de o sentenciado poder atentar novamente contra a segurança pública, mostrando-se, neste caso, necessária sua realização para atestar se o executado preenche todos os requisitos (objetivo e subjetivo) para a obtenção das benesses, atendendo-se ao interesse público.
+ ..
+Da leitura minudente dos laudos e dos demais elementos constantes nos autos, emerge patente que o sentenciado ainda não assimilou adequadamente a terapêutica penal de reeducação, não ostentando, por conseguinte, aptidão para desfrutar de regime prisional menos rigoroso, dotado de certas regalias e de menor vigilância.
+No laudo social verifica-se que o cativo nunca exerceu atividade laborterápica desde o seu ingresso no sistema prisional em 28/07/2003 (fl. 1483 dos autos de origem).
+ ..
+À vista disso, a decisão se revelou acertada posto que, apesar da boa conduta carcerária do condenado, à luz de todos os elementos contidos no exame pericial, o Estado-Juiz realmente não se pode ignorar que a conclusão da avaliação técnica foi contrária ao abrandamento prisional, não sendo demais relembrar o que as lições de Guilherme de Souza Nucci: "Em função da individualização executória da pena, não se pode permitir que um mero atestado de conduta carcerária cerceie o convencimento do magistrado, levando-o a estabelecer uma progressão-padrão" (Individualização da Pena, 3ª edição, Ed. RT, p. 11/12).
+ ..
+Diante dessas considerações, é arriscado permitir a progressão para o regime semiaberto, uma vez que não há evidências suficientes de que o réu assimilou a terapia e internalizou os valores necessários para viver em um regime menos vigiado, até porque, durante a execução da pena vige o princípio in dubio pro societate, sendo forçoso convir que não há elementos para alterar a decisão do magistrado "a quo".
+Ante o exposto, pelo meu voto, NEGO PROVIMENTO ao agravo.
+ ..
+Observa-se do trecho acima que a Corte de origem, a partir da análise dos laudos e dos demais dados concernentes à execução da pena do reeducando, reputou ausente o requisito subjetivo para a progressão do regime carcerário, destacando que o Magistrado singular indeferiu o pleito do apenado após análise de todo o histórico prisional do sentenciado.
+Dessa forma, reitero que, para alterar tal entendimento, seria necessário o reexame fático-probatório, providência vedada pela Súmula 7/STJ.
+Nesse sentido:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. FALTA GRAVE. AVALIAÇÃO DOS REQUISITOS SUBJETIVOS. SÚMULA 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. De acordo com a reiterada jurisprudência do Superior Tribunal de Justiça, a conduta do reeducando, no curso do cumprimento da pena, deve ser avaliada de forma global e contínua, sendo inadmissível qualquer limitação temporal para a consideração das faltas por ele cometidas na análise do preenchimento do requisito subjetivo.
+2. A inclusão da alínea b no inciso III do art. 83 do CP pela Lei 13.964/2019, não significa que a ausência de falta grave no período de doze meses seja suficiente para satisfazer o requisito subjetivo exigido para a concessão do livramento condicional, tampouco que eventuais faltas disciplinares ocorridas anteriormente não possam ser consideradas pelo Juízo das Execuções Penais para aferir fundamentadamente o mérito do apenado.
+3. Na hipótese em apreço, as instâncias ordinárias concluíram que a última falta praticada pelo recorrido ocorreu há mais de um ano, a saber, em 22/4/2020, e que o apenado apresenta condições pessoais aptas à reinserção social, o que levou a conclusão de fazer jus à concessão do benefício, porquanto presentes os requisitos subjetivos. Nesse contexto, desconstituir o entendimento firmado pelo Tribunal de origem, implicaria o revolvimento de matéria fático-probatória, inviável em sede de recurso especial, conforme orientação da Súmula 7 do STJ.
+4. Agravo regimental desprovido.
+(AgRg no REsp n. 2.006.696/PR, Ribeiro Dantas, Quinta Turma, DJe 10/8/2022 - grifo nosso).
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO. ATESTADO DE BOM COMPORTAMENTO CARCERÁRIO E DEMAIS ELEMENTOS CONCRETOS PREENCHEDORES DO REQUISITO SUBJETIVO PARA A PROGRESSÃO DE REGIME. FALTA GRAVE (USO DE APARELHO CELULAR) QUE DEVE APURADA POR PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR. REQUISITO QUE NÃO PODE SER ANALISADO EM SEDE DE RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Tribunal de origem, diante do atestado carcerário e das peculiaridades do caso concreto, entendeu que o reeducando preenche o requisito subjetivo para a progressão de regime, ressaltando, corretamente, que "o cometimento de eventuais faltas graves praticadas durante o cumprimento da pena acarreta a instauração de Procedimento Administrativo Disciplinar, que pode inclusive conduzir à regressão de regime em face da falta e ter a conduta carcerária rebaixada, que hoje, repito, é plenamente satisfatória. Tais faltas, todavia, não podem constituir óbice à concessão da progressão de regime".
+2. Não é possível, em sede de recurso especial, a análise relativa ao preenchimento do requisito subjetivo para concessão de progressão de regime prisional ou livramento condicional, tendo em vista que depende do exame aprofundado do conjunto fático-probatório relativo à execução da pena. Óbice da Súmula n. 7/STJ.
+3.Agravo regimental desprovido.
+(AgRg no REsp n. 1.989.973/RS, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 12/5/2022 - grifo nosso).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. VIOLAÇÃO DO ART. 112, CAPUT E § 1º, DA LEP. PROGRESSÃO DE REGIME CARCERÁRIO. TESE DE AUSÊNCIA DO REQUISITO SUBJETIVO. ALTERAÇÃO DA CONCLUSÃO DO TRIBUNAL DE ORIGEM. INVIABILIDADE. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ.
+Agravo conhecido para não conhecer do recurso especial.
