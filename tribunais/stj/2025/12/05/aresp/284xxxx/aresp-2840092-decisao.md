@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por Elton Joab da Silva Costa contra a decisão do Tribunal de Justiça do Rio Grande do Norte que não admitiu o apelo raro fundado nas Súmulas 7 e 83 do STJ (fls. 109/116).
+O acórdão proferido pela Câmara Criminal do Tribunal de Justiça do Rio Grande do Norte negou provimento ao agravo em execução defensivo, mantendo a decisão do Juízo da execução que indeferiu a progressão de regime ao fundamento de que que o recorrente não preenche o requisito subjetivo necessário à progressão de regime (fl. 55).
+O recurso especial, com fundamento no art. 105, III, a, da Constituição Federal, alegou violação do art. 112 da Lei n. 7.210/1984, a Lei de Execução Penal, sobretudo em seus parágrafos 1º, 6º e 7º, sob a tese de que a decisão recorrida não considerou adequadamente que as faltas graves cometidas pelo apenado ocorreram há mais de 3 anos e já foram objeto de punição, inclusive com regressão de regime (fl. 83).
+O recurso não foi admitido pelo Tribunal de origem ao fundamento de que a revisão do preenchimento dos requisitos subjetivos para a progressão de regime exigiria minucioso reexame das provas, vedado pela Súmula 7 do STJ, e porque o entendimento da turma julgadora estava em consonância com a jurisprudência do Superior Tribunal de Justiça, na forma da Súmula 83 do STJ (fls. 101/107).
+Na petição de agravo em recurso especial (fls. 109/116), o agravante busca infirmar a decisão de inadmissão. Alega, em síntese, que a contrariedade ao art. 112, §§ 1º, 6º e 7º, da Lei de Execução Penal é questão de direito, não de fato. Não se trata de reanálise de fatos, mas, sim, de se reconhecer que, diante dos elementos já colhidos, é necessário conceder a progressão de regime ao apenado, considerando que as faltas graves cometidas ocorreram há mais de cinco anos e já foram devidamente punidas, e que o apenado possui excelente comportamento carcerário, conforme atestado pelo diretor do estabelecimento prisional (fls. 111/112).
+Ademais, sustenta que a aplicação da Súmula 83 do STJ não é adequada, pois a jurisprudência a decisão do TJRN é divergente da jurisprudência desta Corte Superior, sendo assim, não houve violação dessa súmula. Já é pacífico no STJ o entendimento de que faltas graves cometidas em período longínquo e já reabilitadas não configuram fundamento idôneo para indeferir o pedido de progressão de regime, para que os princípios da razoabilidade e da ressocialização da pena e do direito ao esquecimento sejam respeitados (fl. 112).
+Contrarrazões apresentadas (fls. 119/128).
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso, em parecer assim ementado (fl. 151):
+PENAL. PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL COM FUNDAMENTO NO ARTIGO 105, III, "A" DA CF. REFORMA DE DECISÃO QUE INADMITIU RECURSO ESPECIAL. IMPROCEDÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS. SÚMULA Nº 182/STJ. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER PELO DESPROVIMENTO DO RECURSO.
+É o relatório.
+O presente recurso está prejudicado.
+Isso porque, em consulta ao Sistema Eletrônico de Execução Unificado - SEEU, verificou-se que, na data de 3/3/2025, nos Autos da Execução n. 0100353-17.2017.8.20.0003 - seq 323.1, o Juízo da Vara de Execuções Criminais determinou a regressão cautelar ao regime fechado, em razão do reconhecimento de falta grave.
+Diante do exposto, julgo prejudicado o agravo em recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME NEGADA PELO TRIBUNAL DE ORIGEM. RECURSO ESPECIAL INADMITIDO. SÚMULAS 7 E 83 DO STJ. APELO PREJUDICADO. FALTA GRAVE COMETIDA NO CURSO DA EXECUÇÃO. REGRESSÃO CAUTELA R AO REGIME FECHADO. PERDA DO OBJETO.
+Agravo em recurso especial prejudicado.
