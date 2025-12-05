@@ -1,0 +1,56 @@
+DECISÃO
+WALAFY FERREIRA PEGO agrava de decisão que inadmitiu o recurso especial, interposto com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Paraná nos Embargos Infringentes n. 0001345-65.2024.8.16.0122.
+O agravante foi condenado, em primeiro grau, a 2 anos e 6 meses de reclusão mais multa, no regime inicial aberto, pelo crime previsto no art. 33, § 4º, da Lei n. 11.343/2006.
+O Tribunal de Justiça deu provimento ao apelo do Ministério Público para afastar o privilégio e, por conseguinte, majorar a reprimenda para 6 anos de reclusão mais multa, no regime fechado.
+Nas razões do recurso especial, a defesa alega violação dos arts. 118 e 120, ambos do Código de Processo Penal; 33, § 4º, e 42, da Lei de Drogas, além de dissídio jurisprudencial.
+Requer a fixação da pena-base no mínimo legal, aplicação da minorante do tráfico privilegiado na fração máxima e restituição do celular apreendido.
+O recurso foi inadmitido em juízo prévio de admissibilidade realizado pelo Tribunal local, o que motivou a interposição deste agravo.
+O Ministério Público Federal manifestou-se pelo não provimento do recurso.
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada, motivo pelo qual passo à análise do recurso especial.
+I. Pena-base
+A fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, nos arts. 5º, XLVI, da Constituição Federal, 59 do Código Penal e 387 do Código de Processo Penal, e todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o quantum de pena a ser aplicada ao condenado criminalmente, visando à prevenção e à reprovação do delito perpetrado.
+Assim, para chegar a uma aplicação justa da lei penal, o sentenciante, dentro dessa discricionariedade juridicamente vinculada, deve atentar-se para as singularidades do caso concreto e, na primeira etapa do procedimento trifásico, guiar-se pelas circunstâncias relacionadas no caput do art. 59 do Código Penal, as quais não se deve furtar de analisar individualmente. São elas: culpabilidade; antecedentes; conduta social; personalidade do agente; motivos, circunstâncias e consequências do crime; comportamento da vítima.
+A Corte de origem exasperou a pena-base, consoante os seguintes fundamentos (fl. 897, destaquei):
+Destaco que a sanção imposta deve, sobretudo, cumprir sua função de dissuadir o agente de continuar a trilhar o caminho ilícito, especialmente em crimes como o tráfico de drogas, sendo sua principal finalidade a reintegração do indivíduo ao convívio social de forma íntegra.
+Neste sentido, embora a quantidade de droga apreendida seja reduzida, tal fato não obsta que a natureza da substância seja devidamente considerada na primeira fase da dosimetria, pois a análise dos julgadores deve levar em conta essa característica essencial do crime.
+No caso em análise, o ilustre Desembargador Renato Naves Barcellos, relator do voto vencedor, entendeu que o aumento da pena-base era adequado, dado que a cocaína é uma substância de alta nocividade e potencial de dano. Salienta-se que a natureza da droga não depende exclusivamente da sua quantidade, podendo ser valorada de forma autônoma, de maneira que a existência de circunstância judicial desfavorável justifica a imposição de regime de pena mais severo.
+Certo é que, segundo o disposto no art. 42 da Lei n. 11.343/2006, "O Juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente".
+No entanto, embora tal elemento constitua, de fato, circunstância preponderante a ser sopesada na dosimetria da pena, considero que a quantidade de substância apreendida em poder do acusado - 7,5 g de cocaína - não foi expressiva, de maneira que se mostra manifestamente desproporcional sopesar, no caso ora analisado, apenas a natureza das substâncias para justificar a exasperação da pena-base.
+Do contrário, qualquer agente que fosse apreendido com crack ou com cocaína, ainda que com uma porção com peso de 5 g, por exemplo, deveria ter a sua pena-base estabelecida acima do mínimo legal - a pretexto de correta aplicação do disposto no art. 42 da Lei n. 11.343/2006 -, o que, evidentemente, não se coaduna com os princípios da razoabilidade e da proporcionalidade.
+Diante de tais considerações, deve ser provido o recurso, nesse ponto, a fim de reduzir a pena-base do acusado.
+II. Minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006
+Para a aplicação da minorante em comento, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa e nem se dedique a atividades delituosas.
+Sobre a matéria posta em discussão, cumpre destacar que a razão de ser da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 é justamente punir com menor rigor o pequeno traficante, ou seja, aquele indivíduo que não faz do tráfico de drogas o seu meio de vida; antes, ao cometer um fato isolado, acaba incidindo na conduta típica prevista no art. 33 da mencionada lei federal.
+A propósito, confira-se o seguinte trecho de voto deste Superior Tribunal: "A mens legis da causa de diminuição de pena seria alcançar os condenados neófitos na infausta prática delituosa, configurada pela pequena quantidade de droga apreendida, e serem eles possuidores dos requisitos necessários estabelecidos no art. 33, § 4º, da Lei nº 11.343/06." (AgRg no REsp n. 1.389.632/RS, Rel. Ministro Moura Ribeiro, 5ª T., DJe 14/4/2014).
+No caso, o Tribunal local afastou a aludida minorante, com base nos seguintes argumentos (fl. 806, grifei):
+Isto porque, da prova produzida, ficou claro que o acusado se dedica às atividades criminosas, posto que, consoante se observa do depoimento dos policiais, havia diversas denúncias de que o réu praticava o narcotráfico em sua residência, sendo que os vizinhos reclamavam constantemente da grande movimentação de pessoas no imóvel, que entravam e saíam rapidamente.
+Os agentes públicos realizaram diligências e constataram a veracidade das informações, tanto é que foi autorizada judicialmente a busca e apreensão em sua residência, ocasião em que foram apreendidos entorpecentes de diferentes naturezas (cocaína e maconha). Ainda, os policiais apontaram que o acusado era DJ e realizava o tráfico de drogas nas festas.
+Como se denota, portanto, todo o contexto probatório indica que o réu estava a praticar a traficância de forma habitual, seja pelas diversas denúncias recebidas, sobretudo de vizinhos que delataram a grande movimentação na sua residência de pessoas que entravam e saíam rapidamente do imóvel, no período noturno, seja pelo depoimento dos policiais que informaram terem feito investigação e concluído que o réu praticava o narcotráfico.
+Ademais, do exame do aparelho celular do acusado, é possível constatar diálogos que denotavam a traficância com habitualidade, como já destacado anteriormente.
+No caso, as instâncias ordinárias - dentro do seu livre convencimento motivado - apontaram elementos concretos dos autos a evidenciar que as circunstâncias em que perpetrado o delito em questão não se compatibilizariam com a posição de um pequeno traficante ou de quem não se dedica, com certa frequência e anterioridade, a atividades delituosas, notadamente ao tráfico de drogas.
+Para tanto, salientou a instância de origem que, além da prova testemunhal demonstrar grande movimentação de pessoas na residência, ficou consignado no julgado que, "do exame do aparelho celular do acusado, é possível constatar diálogos que denotavam a traficância com habitualidade, como já destacado anteriormente" (fl. 806).
+Portanto, fica afastado o apontado constrangimento ilegal decorrente da não incidência do art. 33, § 4º, da Lei n. 11.343/2006.
+III. Restituição do bem
+A Corte local afastou o pleito da defesa pelos seguintes fundamentos (fl. 815, destaquei):
+Tal pleito não merece ser deferido, pois, nos termos dos artigos 62 e 63, da Lei n. 11.343/06, os bens e valores utilizados ou oriundos do tráfico de drogas poderão ser confiscados e declarados perdidos.
+Outrossim, nos termos do artigo 243, parágrafo único da Constituição Federal, "Todo e qualquer bem de valor econômico apreendido em decorrência do tráfico ilícito de entorpecentes e drogas afins e da exploração de trabalho escravo será confiscado e reverterá a fundo especial com destinação específica, na forma da lei".
+No presente caso, o aparelho celular do acusado era utilizado para a narcotraficância, tanto que, de sua análise, observaram-se diversas mensagens trocadas com seu fornecedor e usuários.
+Conforme visto, tal como apontado pelo Tribunal de Justiça, o acórdão recorrido fundamentou-se também em fundamento constitucional - qual seja, art. 243, parágrafo único, da CF -, suficiente, por si só, para a manutenção do decisum, e a parte interpôs, tão somente, recurso especial.
+Não há dúvidas, portanto, de que incide também o enunciado na Súmula n. 126 do STJ, segundo a qual: "É inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário".
+Nesse sentido:
+ ..
+3. O Tribunal de origem fundamentou a licitude das provas em entendimento jurisprudencial do Supremo Tribunal Federal, que afasta a aplicação do art. 5º, XII, da Constituição Federal, suficiente para manter a decisão, e o recorrente não interpôs recurso extraordinário. Aplicação da Súmula n. 126 do STJ.
+4. A tese de que foram obtidas provas mediante a realização, pelos policiais, de ligações telefônicas do celular do recorrente não foi tratada pelo órgão colegiado estadual, a evidenciar a falta de prequestionamento da matéria e impossibilitar seu conhecimento.
+5. Agravo regimental não provido.
+(AgRg no AREsp n. 1.979.749/AL, Rel. Ministro Rogerio Schietti, 6ª T., DJe 3/3/2022.)
+Ademais, não se verifica ilegalidade flagrante, pois as instâncias ordinárias concluíram que o celular apreendido era utilizado na prática do crime de tráfico de drogas, de modo que, para entender em sentido contrário, seria necessário o revolvimento de matéria fático-probatória, procedimento inviável em recurso especial, conforme a Súmula n. 7 do STJ.
+IV. Nova dosimetria
+Deve, portanto, ser realizada a nova dosimetria da sanção.
+Tal como estabelecido no voto minoritário, fixo a pena-base em 5 anos de reclusão e 500 dias-multa, montante que torno definitivo à míngua de outras causas modificativas.
+Considerando a ausência de circunstâncias judiciais negativas, cabível o regime semiaberto, nos termos do art. 33, § 2º, "b", do CP.
+V. Dispositivo
+À vista do exposto, conheço do agravo para dar provimento parcial ao recurso especial a fim de afastar a valoração negativa de circunstância judicial e, por conseguinte, estabelecer a reprimenda do réu em 5 anos de reclusão e 500 dias-multa, no regime semiaberto.
+Comunique-se o inteiro teor desta decisão às instâncias de origem para as providências cabíveis.
+Publique-se e intimem-se.
+EMENTA
