@@ -1,0 +1,12 @@
+DECISÃO
+O JUÍZO DE DIREITO DA 1ª VARA CRIMINAL DE ARAGUAÍNA - TO suscita conflito de competência, em inquérito policial, diante do JUÍZO DE DIREITO DA 2ª VARA DE DESCALVADO - SP.
+Cinge-se o presente incidente processual a saber qual o juízo competente para a adoção de eventual medida judicial que se faça necessária em investigação deflagrada pela suposta prática de furto qualificado mediante fraude.
+Ouvido, manifestou-se o Ministério Público Federal pelo conhecimento do conflito para que seja declarado competente o Juízo de Direito da 2ª Vara de Descalvado - SP, ora suscitado (fls. 191-193).
+Decido.
+Compulsando os autos, observa-se que foi deflagrado "procedimento investigativo  ..  para apurar a conduta de  .. , investigado, em síntese, por haver utilizado, sem autorização, cartão corporativo da empresa em que trabalhava para realizar diversas compras de cunho pessoal" (fl. 183).
+Vale dizer, "a conduta apurada não se amolda ao tipo penal de apropriação indébita, mas sim ao de furto qualificado mediante fraude, conforme orientação firmada pelo Superior Tribunal de Justiça. Sustenta que, quando o agente detém a posse do cartão da vítima, e realiza movimentações bancárias sem autorização, há subtração patrimonial sorrateira e sem consentimento, situação que atrai a incidência do tipo penal do art. 155, §4º, II, do Código Penal" (fl. 183).
+Em casos análogos , a compreensão jurisprudencial desta Corte se consolidou na direção de que "no delito de furto mediante fraude - concretizado com a transferência fraudulenta de valores entre contas correntes -, a competência é do Juízo do local onde houve a saída de valores da conta da vítima, no qual se consumou a subtração da coisa alheia (CC n. 168.878/RJ, relator Ministro Joel Ilan Paciornik, Terceira Seção, DJe 6/12/2019, destaquei).
+Logo, como destacou o Parquet Federal em sua manifestação, "em casos de prática do delito de furto mediante fraude, por meio da utilização de cartão corporativo, a competência recai sobre o Juízo do local em que está sediada a empresa vítima do golpe e a conta bancária de onde os valores sacados foram descontados" e, "portanto, que a competência para o processo e julgamento da investigação criminal em apreço recai sobre o Juízo de Direito da 2.ª Vara de Descalvado/SP" (fl. 193).
+À vista do exposto, conheço do conflito para declarar competente o Juízo de Direito da 2ª Vara de Descalvado - SP, ora suscitado.
+Publique-se. Dê-se ciência aos Juízos suscitante e suscitado.
+EMENTA
