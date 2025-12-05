@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO assim ementado (fl. 147):
+PREVIDENCIÁRIO. BENEFÍCIO DE APOSENTADORIA POR INVALIDEZ. PERÍCIA JUDICIAL. INCAPACIDADE. COMPROVAÇÃO. TERMO INICIAL DO BENEFÍCIO. DATA FIXADA NA PERÍCIA JUDICIAL. RECURSO PROVIDO EM PARTE.
+1- Apelação em face sentença que condenou o INSS a conceder o benefício de aposentadoria por invalidez, a contar da data da perícia médica judicial (23/08/19), bem como a pagar as parcelas em atraso acrescidas de correção monetária com base no IPCA-E, e juros de mora de acordo segundo a remuneração da caderneta de poupança, de acordo com a Lei nº 11.960/09.
+2- O particular recorre da sentença requerendo que o pagamento dos valores em atraso retroaja à data da cessação do auxílio-doença (25/02/2013), e não da data da realização da perícia judicial fixada na sentença.
+3- Caso em que o perito atestou que a parte autora é portadora de Gonartrose primária, que ocasiona dores crônicas e dificuldades na movimentação do joelho em graus variados de intensidade, e consequentemente, a incapacidade laborativa habitual do requerente (agricultor). Em resposta aos quesitos formulados, informou o perito que o início da incapacidade ocorreu com a progressão da enfermidade, que no caso, se deu, aproximadamente, a 14/09/2013 (data do exame imagem do joelho direito).
+4- Na espécie, o termo inicial do benefício de aposentadoria por invalidez deve ser a contar da data fixada pelo perito judicial (14/09/2013), com o pagamento das parcelas pretéritas desde então, respeitada a prescrição quinquenal, não merecendo acolhimento a pretensão do autor de retroação da DIB do benefício da aposentadoria em questão à data da cessação do auxílio-doença (25/02/2013).
+5- Apelação parcialmente provida.
+O s embargos de declaração opostos foram parcialmente acolhidos (fls. 176/180).
+Em suas razões , a parte recorrente alega (fl. 193) :
+Esse entendimento é perfeitamente extensível aos casos em que o início da incapacidade seja superveniente à data de entrada do requerimento administrativo (DER), mas anterior ao ajuizamento, pois, no momento em que postulado administrativamente o benefício, o segurado não estava incapaz. Sendo assim, o INSS somente tem a oportunidade de tomar ciência da incapacidade em momento Tal posicionamento foi posterior, quando é constituído em mora através da citação válida.
+A parte adversa não apresentou contrarrazões (fl. 202).
+O recurso foi admitido (fl. 203 ).
+É o relatório.
+A questão debatida nos autos foi afetada à Primeira Seção do Superior Tribunal de Justiça para ser decidida sob o rito de recursos repetitivos (Tema 1.124/STJ), e foi assim delimitada:
+"Caso superada a ausência do interesse de agir, definir o termo inicial dos efeitos financeiros dos benefícios previdenciários concedidos ou revisados judicialmente, por meio de prova não submetida ao crivo administrativo do INSS, se a contar da data do requerimento administrativo ou da citação da autarquia previdenciária" (Resps 1.913.152/SP, 1905.830/SP e 1.912.784/SP, relatora Ministra Maria Thereza de Assis Arruda).
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+O envio do recurso especial a esta Corte Superior deve ocorrer somente após o esgotamento da instância ordinária, formalizado com o novo julgamento pelo Tribunal de origem, quando então será possível examinar, no âmbito do STJ, as matérias jurídicas que eventualmente permanecerem controvertidas. Essa cautela também evita o fracionamento do recurso e previne eventual violação ao princípio da unicidade recursal, que veda a interposição simultânea ou sucessiva de recursos contra a mesma decisão.
+Ante o exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil (CPC), o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do mesmo CPC.
+Publique-se. Intimem-se.
+ EMENTA
