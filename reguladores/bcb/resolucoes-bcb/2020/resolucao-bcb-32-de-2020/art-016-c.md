@@ -1,0 +1,6 @@
+Art. 16-C. Para fins do disposto no art. 28 da Resolução Conjunta nº 1, de 2020, configura-se como criação de obstáculos ao compartilhamento de dados e serviços no Open Banking a oferta, pelas instituições transmissoras de dados e pelas instituições detentoras de conta, de produtos e serviços ao cliente no decorrer das etapas do processo de solicitação de compartilhamento de dados e do serviço de iniciação de transação de pagamento do Open Banking. (Incluído pela Resolução BCB nº 117, de 21/7/2021.)
+Art. 16-C. Para fins do disposto no art. 28 da Resolução Conjunta nº 1, de 2020, configura-se como criação de obstáculos ao compartilhamento de dados e serviços no Open Finance a oferta, pelas instituições transmissoras de dados e pelas instituições detentoras de conta, de produtos e serviços ao cliente no decorrer das etapas do processo de solicitação de compartilhamento de dados e do serviço de iniciação de transação de pagamento do Open Finance. (Redação dada, a partir de 1º/4/2023, pela Resolução BCB nº 294, de 23/2/2023.)
+Art. 16-C. (Revogado pela Resolução BCB nº 398, de 4/7/2024.)
+(Capítulo VIII-A incluído pela Resolução BCB nº 86, de 14/4/2021.)
+CAPÍTULO VIII-B
+DA PLATAFORMA DE RESOLUÇÃO DE DISPUTAS

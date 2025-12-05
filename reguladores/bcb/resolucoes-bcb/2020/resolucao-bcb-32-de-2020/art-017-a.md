@@ -1,0 +1,1 @@
+Art. 17-A. A Estrutura de Governança do Open Finance deve reportar e prestar contas às instituições participantes no que se refere aos serviços prestados e ao monitoramento de que tratam os Capítulos VII e VIII-C desta Resolução. (Incluído pela Resolução BCB nº 398, de 4/7/2024.)
