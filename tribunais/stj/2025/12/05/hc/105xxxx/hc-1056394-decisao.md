@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus preventivo, com pedido de liminar, impetrado em favor de GABRIEL GALDINO PERETTI, em que se aponta como autoridade coatora o TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO.
+Narra a Defesa que o paciente foi diagnosticado com quadro de transtorno de ansiedade generalizada - o paciente é acometido de doenças classificadas como transtornos não-orgânicos do sono, transtornos fóbicos ansiosos e transtorno de ansiedade - e tentou por muito tempo o uso de alopáticos convencionais, sem sucesso.
+Afirma que, visando autorização judicial para o cultivo de cannabis sativa para fins de uso medicinal, impetrou habeas corpus preventivo na 3ª Vara Criminal Federal de Sorocaba/SP, tendo a Magistrada de primeiro grau concedido a ordem. No entanto, em virtude do reexame necessário o Tribunal Regional Federal da 3ª Região denegou a ordem.
+Alerta que o paciente está sujeito a risco iminente de coerção e constrangimento ilegal, decorrentes da possibilidade de interferência por vizinhos e autoridades policiais, o que reforça a urgência na garantia do salvo-conduto (fl. 04).
+Neste writ, a parte impetrante sustenta, em suma, que o paciente possui prescrição e relatório médicos, autorização da ANVISA, laudo agronômico e certificação técnica (anexados).
+Requer, liminarmente, a expedição de salvo-conduto para determinar que as autoridades de segurança pública se abstenham de adotar quaisquer medidas tendentes a cercear a liberdade do paciente, bem como de apreender e destruir as sementes, plantas e insumos destinados à produção do medicamento para uso próprio e medicinal.
+No mérito, pleiteia que seja concedido o habeas corpus para autorizar o paciente a cultivar até 51 (cinquenta e uma) plantas fêmeas de Cannabis Sativa por ano, bem como importar 61 (sessenta e uma) sementes de Cannabis Sativa ao ano, além do porte e transporte do medicamento, garantindo seu direito à saúde e à dignidade da pessoa humana. Solicita, também, que o salvo-conduto resguarde as condutas necessárias para a continuidade e eficácia do tratamento, como transportar o remédio, portar e consumi-lo, para uso exclusivamente pessoal e com fins medicinais para além dos limites de sua residência (fl. 09).
+É o relatório.
+Decido.
+De início, cumpre destacar que, na estreita via do habeas corpus, exige-se a prévia constituição da prova, devendo a impetração ser devidamente instruída com toda a documentação indispensável à apreciação da pretensão deduzida.
+No caso em exame, entretanto, verifica-se que a parte impetrante deixou de acostar aos autos cópia da decisão de primeiro grau e do acórdão impugnado, peças imprescindíveis à adequada compreensão da controvérsia.
+A ausência de tal documento inviabiliza o conhecimento da impetração, porquanto não se desincumbiu a Defesa do ônus que lhe competia de instruir devidamente o feito. Nesse sentido: AgRg no HC n. 1.006.445/MG, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 12/8/2025, DJEN de 18/8/2025; AgRg no HC n. 995.894/PR, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 24/6/2025, DJEN de 30/6/2025; PET no HC n. 941.704/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 16/10/2024, DJe de 22/10/2024.
+Ante o exposto, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
