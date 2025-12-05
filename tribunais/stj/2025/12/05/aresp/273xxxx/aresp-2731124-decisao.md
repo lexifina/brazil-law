@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de agravo interposto por BECKER CONSTRUCAO CIVIL LTDA. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a" da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA cuja ementa guarda os seguintes termos (fls. 143-145):
+"AGRAVO DE INSTRUMENTO. AÇÃO CONDENATÓRIA. CONTRATO DE COMPROMISSO DE COMPRA E VENDA. DECISÃO QUE DECLAROU A ILEGITIMIDADE DA PARTE BENEFICIÁRIA DA AQUISIÇÃO. INSURGÊNCIA DA PARTE AUTORA. HIPÓTESE QUE REVELA VERDADEIRA ESTIPULAÇÃO EM FAVOR DE TERCEIRO. IMÓVEIS ADQUIRIDOS REGISTRADOS À AGRAVANTE. LEGITIMIDADE ATIVA VERIFICADA POR FORÇA DO ART. 436, PARÁGRAFO ÚNICO, DO CÓDIGO CIVIL (CC). DECISÃO REFORMADA. RECURSO CONHECIDO E PROVIDO."
+Sem embargos de declaração.
+No recurso especial, alega violação dos arts. 9º e 10 do Código de Processo Civil e 436 do Código Civil.
+Sustenta, em síntese, que a declaração de legitimidade ativa da empresa Recorrida, fundada no art. 436 do CCB, o qual regula a estipulação em favor de terceiro, incorreu em decisão surpresa, visto que não houve causa de pedir/pedido da então agravante, relativamente a tal instituto e, tampouco houve oportunidade da recorrente de se contrapor a tal situação em defesa, bem como deixou de considerar a decisão regional quanto à inexistência de anuência da então Agravante, aqui recorrida, no contrato anterior e ainda ignorou a novação havida com a lavratura da Escritura Pública de Compra e Venda.
+Foram oferecidas contrarrazões ao recurso especial (fls. 214-231).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls.245-246 ), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 296-307).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+- Da ausência de prequestionamento
+O acórdão recorrido não se manifestou acerca da existência de eventual decisão surpresa, nem da violação dos arts. 9º e 10 do Código de Processo Civil, indicados como violados, não tendo a agravante oposto embargos de declaração com vistas a suprir eventual omissão perpetrada pelo Tribunal de origem. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 356/STF.
+Ressalta-se que na instância especial, a apreciação de ofício de matéria, mesmo de ordem pública, não dispensa o requisito do prequestionamento (AgInt nos EAREsp n. 1.327.393/MA, relator Ministro Felix Fischer, Corte Especial, julgado em 16/12/2020, DJe de 18/12/2020.)
+- Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+Com relação a suposta violação do art. 436 do Código Civil, sustenta a parte recorrente que "a r. decisão deixou de analisar a parte final do citado art. 436 do CCB "(..) sujeito às condições e normas do contrato, se a ele anuir, e o estipulante não o inovar nos termos do art. 438", a qual deixou de considerar que as condições do contrato anterior, não foram reprisadas no novo negócio estabelecido". Alega, ainda, que "a escritura pública firmada entre a DSJ Administradora de Bens e a construtora ora recorrente, estabeleceu condições diversas daquelas da compra e venda estabelecidas no instrumento particular com o casal Silvestre, com obrigações próprias, totalmente independentes e desvinculadas do contrato anterior".
+Considerando a fundamentação do acórdão objeto do recurso especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fático-probatória e interpretação das cláusulas contratuais, mormente o referente ao contrato de estipulação em favor de terceiro, procedimentos vedados a esta Corte, em razão dos óbices das Súmulas n. 5 e 7/STJ. Nesse sentido:
+PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL.COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA DO BEM. CASO FORTUITO E FORÇA MAIOR. REEXAME DE FATOS E PROVAS. SÚMULA N. 7/STJ. PRORROGAÇÃO DO PRAZO DE ENTREGA ALÉM DOS 180 DIAS. IMPOSSIBILIDADE. FORTUITO INTERNO. INVERSÃO MULTA CONTRATUAL. TEMA N. 971/STJ. CLÁUSULA CONTRATUAL. SÚMULA N. 5/STJ. DANO MORAL. REEXAME. SÚMULA N. 7/STJ. DISSÍDIO PREJUDICADO.
+1. Imperativa é a incidência da Súmula n. 7/STJ, porquanto rever as conclusões da Corte de origem acerca da existência dos fatores ensejadores do caso fortuito e da força maior demandaria necessária incursão na seara fático-probatória.
+2. Conforme já assentado pela Corte de origem, não houve caso fortuito ou força maior aptos a autorizar, nos termos da Lei n. 4.591/64, a prorrogação da entrega do bem além do prazo de tolerância de 180 dias, a despeito da cláusula contratual. Ao contrário, o Tribunal de Justiça esclareceu que as "justificativas apresentadas pela ré para o atraso da obra constituem questões afetas ao risco do empreendimento, que configuram fortuito interno, incapaz de eximi-la de sua responsabilidade".
+2.1. Descumprido o prazo para a entrega do imóvel, o prejuízo do comprador é presumido. Precedentes.
+3. No contrato de adesão firmado entre o comprador e a construtora/incorporadora, havendo previsão de cláusula penal apenas para o inadimplemento do adquirente, deverá ela ser considerada para a fixação da indenização pelo inadimplemento do vendedor. As obrigações heterogêneas (obrigações de fazer e de dar) serão convertidas em dinheiro, por arbitramento judicial. Tema 971/STJ.
+3.1 Rever a existência da cláusula contratual encontra óbice na Súmula n. 5/STJ.
+4. Alterar o entendimento alcançado pelo aresto impugnado quanto à afronta a direitos da personalidade e à ocorrência de danos morais indenizáveis exige necessariamente a reavaliação de fatos e provas constantes dos autos, o que é vedado no âmbito do recurso especial, nos termos da Súmula n. 7/STJ.
+5. A jurisprudência desta Corte Superior é tranquila no sentido de que a incidência da Súmula n. 7/STJ é óbice para a análise do dissídio jurisprudencial, o que impede o conhecimento do recurso pela alínea "c" do permissivo constitucional.
+Agravo interno improvido.
+(AgInt no REsp n. 2.072.593/RJ, relator Ministro Humberto Martins, Terceira Turma, julgado em 30/10/2023, DJe de 3/11/2023.)
+- Honorários recursais
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+Publique-se. Intime-se.
+ EMENTA
