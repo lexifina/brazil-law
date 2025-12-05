@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso especial interposto por SAMUEL NASCIMENTO ANCESCHI, com fundamento no art. 105, III, a, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO assim ementado (fls. 454-455):
+APELAÇÃO CRIMINAL  HOMICÍDIO QUALIFICADO PELO MOTIVO FÚTIL E SURPRESA - CONDENAÇÃO  PRETENDIDA EXCLUSÃO DA AGRAVANTE DA REINCIDÊNCIA POR AUSÊNCIA DEMENÇÃO À REFERIDA CIRCUNSTÂNCIA NO TRIBUNAL DO JÚRI  NÃO ACOLHIMENTO  PECULIARIDADES DO CASO CONCRETO QUE AFASTAM A AVENTADA VIOLAÇÃO AO DISPOSTO NO ART. 492, INCISO | ALÍNEA "B", DO CPP  QUESTIONAMENTO DURANTE INTERROGATÓRIO EM PLENÁRIO E MENÇÃO PELO PROMOTOR DE
+JUSTIÇA SOBRE ANTECEDENTES NOS DEBATES  RECURSO DESPROVIDO.
+Inviável o acolhimento da tese de violação ao disposto no art. 492, inciso I, alínea "b", do CPP, quando verificado que o agravamento da pena pelo reconhecimento da reincidência não foi incluído na sentença ao livre arbítrio do Julgador.
+A parte recorrente alega violação do art. 492, I, b, do Código de Processo Penal, afirmando que a agravante da reincidência só pode ser considerada se debatida em plenário, o que não ocorreu no caso, pois houve apenas menções genéricas a antecedentes e "passagens" e a resposta do réu sobre indiciamento em porte de arma, sem sustentação específica nos debates (fls. 467-472).
+Sustenta ofensa ao art. 492, I, b, do Código de Processo Penal, porque a sentença do júri só pode considerar agravantes alegadas nos debates, sendo indevido o agravamento por reincidência sem menção clara em plenário (fls. 467-472).
+Aponta violação do art. 492, I, b, do Código de Processo Penal, requerendo o afastamento da agravante de reincidência e, como consequência, a redução da pena, com aplicação da atenuante da confissão em 1/6, por entender que os critérios de proporcionalidade e razoabilidade foram desatendidos no acórdão recorrido (fls. 471-472).
+Argumenta que a decisão da Corte de origem confirmou o agravamento sem registro de debate específico sobre reincidência na ata ou em gravação, o que afronta a regra legal que condiciona a valoração de agravantes ao que foi sustentado em plenário (fls. 469-472).
+Contrarrazões apresentadas às fls. 475- 478.
+O recurso foi admitido na origem. A Vice-Presidência assentou a desnecessidade, por ora, de demonstração da relevância da questão federal, afastou a incidência de repetitivos e de súmulas impeditivas, registrou o prequestionamento e a natureza estritamente jurídica da controvérsia, e admitiu o recurso com fundamento no art. 1.030, V, do Código de Processo Civil (fls. 479-481).
+O Ministério Público Federal manifestou-se pelo conhecimento parcial e provimento do recurso no parecer de fls. 492-497.
+É o relatório.
+Assim constou do acórdão (fls. 456-457):
+Neste apelo, o recorrente alega que a sentença deve ser reformada, a fim de afastar a agravante da reincidência, por violação ao art. 492,1, "b" do CPP.
+Sem razão, contudo.
+Inicialmente, convém esclarecer que não se desconhece a tese firmada no âmbito do STJ, no sentido de que:
+"Mesmo sendo a reincidência agravante de ordem objetiva, somente é possível sua valoração na dosimetria da pena dos crimes julgados pelo Tribunal do Júri quando for arguida em plenário nos debates"  AgRg no HC 698338 / PR, relator Ministro Joel Ilan Paciomik, Quinta Turma, DJe 16.9.2022 .
+As peculiaridades do caso concreto, no entanto, afastam a aventada ilegalidade.
+Na espécie, conquanto os debates orais não tenham sido gravados e não conste na Ata de Julgamento, de forma expressa, que o representante Ministerial tenha alegado em debates a presença da agravante da reincidência  Id. 217521847, p. 5, não se pode ignorar que durante o interrogatório do réu, ao ser questionado sobre seus antecedentes na presença dos jurados, ele respondeu que já havia sido indiciado por porte ilegal de arma de fogo - vide termo anexado no Id. 217521852.
+Além disso, como admitido pela própria Defensoria Pública em suas razões, "durante o plenário da sessão de julgamento", o Promotor de Justiça fez menção "sobre maus antecedentes ou possíveis passagens do acusado " - Id. 217521871.
+Diante desse contexto, conclui-se que o agravamento da pena pelo reconhecimento da reincidência apresenta-se escorreito, já que não fora incluído na sentença ao livre arbítrio do julgador, não havendo falar em redução.
+Observa-se que o Tribunal de origem concluiu por manter a incidência da agravante da reincidência, afastando a alegação de falta de debate no plenário, em caso no qual não houve gravação dos debates, tampouco indicação na ata de julgamento, tendo em vista que o réu no interrogatório teria feito alusão a um indiciamento e que a defesa relatou na apelação que o promotor citou maus antecedentes em plenário.
+Entretanto, tal situação demonstra que a incidência da agravante não foi questão efetivamente debatida no Plenário do Tribunal do Júri e, por conseguinte, não poderia ter sido considerada na individualização da pena pelo Juiz Presidente, como se infere da redação do art. 492, I, b, do CPP.
+Esse entendimento está em consonância com a jurisprudência do Superior Tribunal de Justiça, segundo a qual somente devem incidir na dosimetria da pena as circunstâncias agravantes e atenuantes que tenham sido objeto dos debates no Plenário do Tribunal do Júri:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO CONSUMADO E HOMICÍDIO TENTADO. INCIDÊNCIA DA AGRAVANTE DA REINCIDÊNCIA. NECESSIDADE DE DEBATE EM PLENÁRIO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O STJ tem decidido que, nos termos do art. 492, I, "b", do CPP, somente poderão ser consideradas pelo Juiz presidente, na formulação da dosimetria penal, as agravantes e atenuantes alegadas e debatidas em plenário, entendimento aplicável, inclusive, em relação à agravante prevista no art. 61, I, do CP.
+2. Agravo regimental não provido.
+(AgRg no HC n. 933.941/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 11/12/2024, DJEN de 16/12/2024.)
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. IMPUGNAÇÃO DEFICIENTE. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015, E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA 182/STJ. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. VIOLAÇÃO DOS ARTS. 385 E 492, I, B, DO CPP. HOMICÍDIO. TRIBUNAL DO JÚRI. PLEITO DE RESTABELECIMENTO DA AGRAVANTE PREVISTA NO ART. 61, II, F, DO CP. TRIBUNAL QUE DECOTOU A AGRAVANTE POR NÃO ESTAR DESCRITA NA DENÚNCIA E POR NÃO TER SIDO QUESITADA AOS JURADOS. DESNECESSIDADE. DEBATE EM PLENÁRIO SUFICIENTE. RECONHECIMENTO PELO JUIZ TOGADO. PRECEDENTES.
+1. Agravo regimental interposto contra a decisão que não conheceu do agravo em recurso especial da defesa e contra a decisão que deu provimento ao recurso especial da acusação.
+2. A decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos (EAREsp n. 831.326/SP, Rel. p/ acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018), inclusive de forma específica, suficiente e pormenorizada (AgRg no AREsp n. 1.234.909/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 2/4/2018).
+2.1. No caso, a defesa do agravante não impugnou todos os fundamentos da decisão que inadmitiu o recurso especial na origem.
+3. É cediço neste Sodalício que no procedimento do Tribunal do Júri, após a reforma promovida pela Lei n. 11.689/2008, as agravantes e atenuantes passaram a ser reconhecidas diretamente pelo juiz togado, sem necessidade de indagação aos jurados, bastando que sejam debatidas em plenário.
+3.1. No caso, a agravante relativa à coabitação foi sustentada pela acusação, conforme Ata da Sessão de Julgamento, razão pela qual correto o restabelecimento de sua incidência.
+4. Agravo regimental desprovido.
+(AgRg no REsp n. 1.946.263/RJ, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 18/9/2023, DJe de 21/9/2023.)
+Passa-se ao redimensionamento da pena.
+Fixada a pena-base em 16 anos de reclusão (fl. 390), na segunda fase houve o reconhecimento da compensação, mas com o afastamento da reincidência, incide a atenuante da confissão em 1/6, totalizando 13 anos e 4 meses de reclusão.
+Ante o exposto, na forma do art. 34, XVIII, c, do Regimento Interno do Superior Tribunal de Justiça, dou provimento ao recurso especial para fixar a pena de 13 anos e 4 meses de reclusão, mantidos os demais termos da condenação.
+Comunique-se. Publique-se. Intimem-se.
+ EMENTA
