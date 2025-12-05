@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de JOSENILTON CRISPIM DE OLIVEIRA, no qual se aponta como autoridade coatora o Tribunal Regional Federal da 1.ª Região (Apelação Criminal n. 0002066-19.2018.4.01.3601).
+Consta dos autos que o paciente foi condenado à pena de 8 anos, 11 meses e 27 dias de reclusão, em regime inicial fechado, mais o pagamento de 904 dias-multa, como incurso no art. 33, caput, c.c. o art. 40, inciso I, da Lei n. 11.343/2006, em razão do transporte de 23,6 kg (vinte e três quilos e seiscentos gramas) de pasta base de cocaína.
+Contra a sentença a Defesa interpôs apelação, que foi parcialmente provida para reduzir a pena do acusado para 6 anos e 27 dias de reclusão, mais o pagamento de 602 dias-multa (fls. 18-25).
+Neste habeas corpus, o impetrante sustenta que não foi apresentada fundamentação idônea para negar a aplicação da minorante do tráfico privilegiado.
+Argumenta que a mera existência de prisão anterior - sem que dela tenha decorrido condenação transitada em julgado apta a afastar a primariedade - não constitui impedimento para a aplicação da causa de diminuição de pena.
+Alega que a minorante aplicada aos corréus deve ser igualmente estendida ao paciente, nos termos do art. 580 do CPP.
+Requer a concessão da ordem para que seja reconhecida a incidência da minorante do tráfico privilegiado na sua fração máxima.
+As informações foram prestadas às fls. 101-107.
+Há pedido de sustentação oral (fls. 109-111).
+O Ministério Público Federal opinou pelo não conhecimento do writ (fls. 113-117).
+É o relatório. Decido.
+Inicialmente, cumpre registrar que o presente habeas corpus foi impetrado contra acórdão do Tribunal de origem já transitado em julgado. Nesse cenário, não se deve conhecer do presente writ, manejado como substitutivo de revisão criminal, em hipótese em que não se inaugurou a competência desta Corte. Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. ATO APONTADO COMO COATOR TRANSITADO EM JULGADO. INCOMPETÊNCIA DO STJ. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. DOIS FURTOS EM CONTINUIDADE DELITIVA. REINCIDÊNCIA ESPECÍFICA. MAUS ANTECEDENTES. INSIGNIFICÂNCIA NÃO CONFIGURADA. AGRAVO NÃO PROVIDO.
+1. A competência do STJ para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados. A defesa busca, diretamente perante esta Corte Superior, a desconstituição do trânsito em julgado da apelação. Assim, não há como conhecer da impetração, por não ser o STJ o órgão competente para examinar o pleito.
+ ..
+4. Agravo não provido.
+(AgRg no HC n. 1.014.903/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 1/10/2025, DJEN de 6/10/2025; grifamos.)
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+O acórdão impugnado está assim fundamentado (fls. 18-23; sem grifos no original):
+O Ministério Público Federal ofereceu denúncia em face de Josenilton Crispin de Oliveira, Angelo Gilson Pinto Chue, Gabriel Montero Mendoza e Jorge Montero Mendoza, imputando a todos a prática do crime de tráfico transnacional de drogas (art. 33, c/c art. 40, I, da Lei 11.343/2006) e a Jorge Montero também o delito de porte de arma de uso permitido (art. 14 da Lei 10.826/2003).
+Narrou na exordial que no dia 04/09/2018, os denunciados receberam ordem de parada quando trafegavam em um veículo Fiat Strada, placas DCM-0688, pela BR-174, no Município de Porto Esperidião/MT.
+Os réus tentaram fugir, mas foram capturados, sendo encontrados no veículo 24 (vinte e quatro) tabletes de pasta base de cocaína, totalizando 23,6kg (vinte e três quilos e seiscentos gramas). Gabriel e Jorge, ambos estrangeiros, afirmaram que foram contratados por um indivíduo conhecido como "Negão", na Bolívia, para transportar a droga até Porto Esperidião/MT. Josenilton, que dirigia o carro, confirmou a versão, relatando que ele e Ângelo foram contratados por outro indivíduo, apelidado de "Caveirinha", também na Bolívia, para conduzir os estrangeiros com a droga até a Vila Tabuleta, em Porto Esperidião/MT (ID. 379979143).
+ ..
+Não há como aplicar a causa de redução de pena disposta no art. 33, § 4º, da Lei 11.343/2006 em favor de Josenilton Crispin e Angelo Gilson, uma vez que o primeiro responde duas outras ações penais por idêntico crime de tráfico de drogas (ID. 379979144, fls. 28/30), enquanto o segundo declarou em Juízo expressamente que já foi preso por crime de receptação.
+Além disso, o Superior Tribunal de Justiça possui entendimento no sentido de que em delitos praticados em circunstâncias semelhantes às configuradas nestes autos (concurso de pessoas, apreensão de arma de fogo, etc.), sequer deveria ter sido aplicado o privilégio para quaisquer dos agentes (AgRg na TutAntAnt 157/SP, Quinta Turma, Rel. Min. Daniela Teixeira, DJe 11/11/2024, AgRg no HC 918.786/MG, Quinta Turma, Rel. Min. Messod Azulay Neto, DJe 30/08/2024 e AgRg no HC 907.903/SP, Sexta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe 06/08/2024).
+Outrossim, consta expressamente da ementa do julgado que " n ão se aplica a causa diminuição prevista no art. 33, § 4º, da Lei 11.343/2006 em favor de Josenilton e Angelo, considerando a existência de inquéritos policiais em seu desfavor e a gravidade concreta do crime de tráfico transnacional de grande quantidade de pasta base de cocaína, praticado em concurso de agentes e com apreensão de arma de fogo no mesmo contexto fático" (fl. 25; sem grifos no original).
+Como se vê, a despeito de ter mencionado a existência de inquéritos policiais e ações penais em curso, a Corte regional entendeu inviável a incidência da causa de diminuição de pena do art. 33, § 4.º, da Lei de Drogas tendo em vista a conclusão de que o réu se dedicava a atividades criminosas, o que ficou evidenciado diante do modus operandi empregado - tráfico transnacional de elevada qua ntidade de pasta base de cocaína, cometido em concurso de agentes e com utilização de arma de fogo no mesmo contexto fático.
+Tais circunstâncias impedem a aplicação da minorante do tráfico privilegiado.
+Confiram-se precedentes desta Corte Superior proferidos em situações semelhantes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. TRÁFICO TRANSNACIONAL DE DROGAS. DOSIMETRIA. PENA-BASE. EXASPERAÇÃO COM FUNDAMENTO NA QUANTIDADE DE ENTORPECENTE APREENDIDO. DESPROPORCIONALIDADE NÃO CONSTATADA. REDUTOR PREVISTO NO § 4.º DO ART. 33 DA LEI N. 11.343/2006. INDEFERIMENTO COM BASE NO MODUS OPERANDI. FUNDAMENTAÇÃO IDÔNEA. IMPOSSIBILIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+3. No mais, as instâncias ordinárias ressaltaram as circunstâncias do caso para concluir pela dedicação do Réu à atividade delitiva, notadamente o modus operandi utilizado no transporte internacional de expressiva quantidade de droga, que envolveu o concurso de pessoas.
+4. Nesse contexto, não é possível desconstituir a conclusão das instâncias de origem sobre a dedicação do Agravante à atividade criminosa e, por conseguinte, reconhecer a causa de redução de pena prevista no art. 33, § 4.º, da Lei de Drogas, notadamente por ser vedado, na presente via, revolver o contexto fático-probatório dos autos.
+5. Agravo regimental desprovido. (AgRg no HC n. 778.266/MS, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/3/2024, DJe de 21/3/2024; sem grifos no original.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS (29 KG DE MACONHA). DOSIMETRIA. NEGATIVA DE APLICAÇÃO DA REDUTORA DO ART. 33, §4º, DA LEI N. 11.343/2006. ELEMENTOS IDÔNEOS. IMPOSSIBILIDADE DE PROFUNDA INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO. REGIME FECHADO. ADEQUAÇÃO. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. Não há ilegalidade flagrante a ser sanada, na medida em que a negativa de aplicação do § 4º do art. 33 da Lei n. 11.343/2006 amparou-se em elementos concretos dos autos, tais como a expressiva quantidade de droga, a premeditação, a divisão de tarefas, o envolvimento de terceiros e a preparação do veículo para o fim almejado; e que a imposição de regime mais gravoso fundamentou-se na existência de duas circunstâncias judiciais negativas devidamente consideradas na primeira fase da dosimetria; tudo em plena consonância com a pacífica jurisprudência deste Superior Tribunal.
+2. Ademais, tendo sido apontadas pela instância de origem circunstâncias concretas aptas a demonstrar a dedicação do agente a atividades criminosas, é inviável esta Corte se aprofundar na análise do contexto fático-probatório para concluir de forma diversa.
+3. Agravo regimental improvido. (AgRg no HC n. 812.762/MS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 28/8/2023, DJe de 1/9/2023; sem grifos no original.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. DOSIMETRIA. MINORANTE DO TRÁFICO PRIVILEGIADO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. REGIME PRISIONAL MAIS SEVERO. FUNDAMENTAÇÃO CONCRETA. QUANTIDADE DE DROGAS APREENDIDAS. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+3. No caso, houve fundamentação concreta e idônea para o afastamento do tráfico privilegiado, lastreada no modus operandi empregado na execução do crime, em concurso de agentes, para o transporte de 19,56 quilos de maconha, elementos aptos a justificar o afastamento da redutora do art. 33, §4º, da Lei n. 11.343/2006, pois demostram envolvimento, naquela oportunidade, com organização criminosa. Rever esse entendimento demandaria revolvimento da matéria fático-probatória, procedimento que, a toda evidência, é incompatível com a estreita via do mandamus.
+ ..
+5. Agravo regimental desprovido. (AgRg no HC n. 907.903/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 1/7/2024, DJe de 6/8/2024; sem grifos no original.)
+Além disso, para desconstituir a conclusão das instâncias de origem sobre a dedicação do paciente à atividade criminosa, seria necessário o revolvimento da matéria fático-probatória, o que é inviável nesta via.
+Quanto à tese de que a minorante aplicada aos corréus deve ser igualmente estendida ao paciente, nos termos do art. 580 do CPP, cumpre salientar que a matéria não foi examinada pelo Tribunal de origem no acórdão impugnado, o que impede a manifestação originária desta Corte, sob pena de supressão de instância. A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME DE RESPONSABILIDADE DE PREFEITO. FALSIDADE IDEOLÓGICA, POR 13 VEZES. NULIDADE. QUEBRA DE SIGILO TELEFÔNICO E TELEMÁTICO. INEXISTÊNCIA DE DILIGÊNCIA PRÉVIA. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. DIVERSAS DILIGÊNCIAS PREPARATÓRIAS. AGRAVO REGIMENTAL DESPROVIDO.
+(..)
+2. O Tribunal de origem não analisou o tema no viés ora delineado pela defesa, ficando esta Corte impedida de apreciar a matéria, sob pena de indevida supressão de instância.
+(..)
+5. Agravo regimental desprovido.
+(AgRg no HC n. 864.854/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 2/9/2025, DJEN de 9/9/2025.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
