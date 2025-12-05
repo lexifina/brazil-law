@@ -1,0 +1,17 @@
+DECISÃO
+MAURICIO ALEJANDRO SEPULVEDA GUZMAN e JUAN MAURICIO CABALLERO CABALLERO, com fundamento no artigo 580 do Código de Processo Penal, pedem a extensão dos efeitos da decisão proferida nos presentes autos do HC n. 1025173/SP, em que concedi a ordem para substituir a prisão preventiva dos corréus por medidas cautelares.
+A defesa sustenta que os requerentes se encontram em idênticas condições fáticas e jurídicas àquelas que ensejaram a decisão principal, bem como que os fundamentos utilizados na referida decisão se aplicam integralmente aos peticionantes. Argumenta a presença do periculum in mora, pela manutenção do encarceramento, e do fumus boni iuris, pela plausibilidade jurídica de sua pretensão, embasada em legislação e precedentes das Cortes Superiores.
+Decido.
+Consoante o art. 580 do CPP, na hipótese de concurso de agentes, a decisão que beneficiar um deles, se fundada em motivos objetivos, aproveitará aos outros.
+A decisão paradigma cujos efeitos a defesa pretende ver estendidos é a de fls. 728-734, em que concedi a ordem para substituir a prisão preventiva dos corréus Carlos Alberto Iturralde Pe a e Simon Eduardo Guerra Santelices por medidas cautelares alternativas.
+A decisão destacou que os pacientes estavam presos preventivamente desde 27/05/2025 pela suposta prática do crime previsto no art. 155, § 4º, inciso IV, por quatro vezes (furto qualificado), na forma do art. 69, todos do Código Penal.
+Ao analisar o caso, observei que, embora as instâncias ordinárias tivessem apontado elementos relacionados ao caso concreto para justificar a prisão, não se podia perder de vista que se tratava de crime de furto qualificado, ou seja, sem violência ou grave ameaça.
+Portanto, os requerentes, na qualidade de corréus no mesmo processo, estão inseridos no mesmo contexto fático-processual dos pacientes já beneficiados. No decreto prisional, a fundamentação foi comum a todos e não há elementos que indiquem situação distinta ou peculiar que impeça a aplicação dos mesmos fundamentos objetivos que levaram à substituição da prisão preventiva.
+Assim, com base no artigo 580 do Código de Processo Penal e na jurisprudência desta Corte Superior, defiro o pedido de extensão para que os efeitos da decisão proferida neste habeas corpus, às fls. 728-734, sejam estendidos a MAURICIO ALEJANDRO SEPULVEDA GUZMAN e JUAN MAURICIO CABALLERO CABALLERO.
+Dessa forma, substituo a prisão preventiva dos requerentes pelas seguintes medidas cautelares, as quais replicam as já aplicadas aos pacientes Carlos Alberto Iturralde Pe a e Simon Eduardo Guerra Santelices:
+a) comparecimento periódico em juízo, sempre que forem intimados para os atos do processo e no prazo e nas condições a serem fixados pelo Juiz, a fim de informar seus endereços (que deverão ser informados também ao serem soltos) e justificar suas atividades;
+b) proibição de ausentar-se da Comarca, quando a permanência seja conveniente ou necessária para a investigação ou instrução.
+Alerte-se aos acusados que a violação de qualquer das medidas cautelares impostas importará o restabelecimento da prisão preventiva, que poderá ser novamente aplicada se sobrevier situação que configure a exigência da cautelar mais gravosa, conforme previsto no parágrafo único do art. 316 do CPP.
+Comunique-se, com urgência, o inteiro teor desta decisão ao Juízo de primeiro grau e ao Tribunal de origem, para as providências cabíveis.
+Publique-se e intimem-se.
+EMENTA
