@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de pedido de uniformização de interpretação de lei federal requerido pelo Instituto de Previdência dos Servidores do Estado - IPERN, com o objetivo de reformar acórdão unânime proferido pela 1.ª Turma Recursal dos Juizados Especiais Cíveis, Fazendários e Criminais do Estado do Rio Grande do Norte, resumido pela seguinte ementa:
+DIREITO ADMINISTRATIVO E PREVIDENCIÁRIO. RECURSO INOMINADO. SERVIDORA PÚBLICA ESTADUAL. ATRASO INJUSTIFICADO NO PROCESSO ADMINISTRATIVO DE APOSENTADORIA. RESPONSABILIDADE OBJETIVA DO ESTADO. DANOS MATERIAIS. INDENIZAÇÃO DEVIDA. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1 - Recurso Inominado interposto pelo Instituto de Previdência dos Servidores do Estado do Rio Grande do Norte (IPERN) contra sentença proferida pelo Juizado da Fazenda Pública da Comarca de Caicó, que julgou parcialmente procedente pedido formulado por servidora pública estadual em ação indenizatória por danos materiais, condenando o IPERN ao pagamento de valores correspondentes à remuneração de dois meses e dezesseis dias de trabalho, em virtude da demora excessiva na análise de processo administrativo de aposentadoria.
+II. QUESTÃO EM DISCUSSÃO
+2 - Há três questões em discussão: (i) definir se houve demora injustificada da Administração Pública na análise do pedido de aposentadoria; (ii) estabelecer se tal demora caracteriza responsabilidade civil objetiva do Estado, com dever de indenizar; e (iii) determinar o critério adequado para fixação da indenização por danos materiais.
+III. RAZÕES DE DECIDIR
+3 - A responsabilidade civil do Estado decorre de conduta omissiva quando há atraso irrazoável na conclusão de processo administrativo de aposentadoria, em desrespeito ao prazo de 90 dias fixado pela jurisprudência da Turma de Uniformização de Jurisprudência do TJRN, conforme Súmula 43/TUJRN.
+4 - O lapso temporal entre o protocolo do pedido (28/12/2021) e a publicação do ato concessivo (11/06/2022) ultrapassou o prazo razoável de 90 dias, configurando omissão administrativa e enriquecimento ilícito da Administração Pública.
+5 - A jurisprudência do STJ reconhece o dever de indenizar quando a demora injustificada em concessão de aposentadoria obriga o servidor a trabalhar além d o período legal, gerando prejuízo indenizável (REsp 953.497/PR e REsp 952.705/MS).
+6 - A fixação do valor da indenização com base na remuneração integral devida à servidora no mês da publicação do ato de aposentadoria é adequada, afastando a aplicação do abono de permanência como critério indenizatório por não refletir de forma proporcional o dano efetivamente suportado.
+IV. DISPOSITIVO E TESE
+7 - Recurso desprovido. (fls. 141/142).
+No pedido dirigido a esta Corte, fls. 144/149, argumenta o ente público requerente que "tal decisão diverge frontalmente do entendimento firmado em diversos precedentes, inclusive do Superior Tribunal de Justiça, que assentam, de um lado, a inexistência de dever de indenizar em hipóteses de suposta demora na concessão de aposentadoria, diante da natureza não automática desse ato administrativo e da ausência de comprovação de prejuízo efetivo" e que, "caso se entenda pela possibilidade de indenização, esta somente se justifica quando a Administração ultrapassa um prazo superior a 1 (um) ano para a conclusão do processo administrativo, sendo, portanto, indevida a fixação de prazos exíguos, como o de 90 (noventa) dias" (fls. 145/146), razões pelas quais requer a reforma do aresto, e a fixação do entendimento de que a indenização não é devida ou que a administração pode ter prazo de até um ano para concluir o processo.
+Pedido sem contrarrazões.
+Feito isento de custas, conforme prevê o art. 3º, IV, da Resolução STJ/GP n. 2, de 1º de fevereiro de 2017.
+Representação ex lege.
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+O pedido de uniformização de interpretação de lei federal é um meio de impugnação de decisão judicial muito peculiar e próprio dos microssistemas dos juizados especiais, cujo juízo de admissibilidade se dá por critérios assemelhados aos que esta Corte emprega para a admissão do recurso especial.
+Na presente hipótese, como relatado, o intento do requerente é reformar a decisão colegiada proferida pela 1.ª Turma Recursal dos Juizados Especiais Cíveis, Fazendários e Criminais do Estado do Rio Grande do Norte e, para isso, busca amparo nas disposições contidas no art. 18, § 3º, da Lei n. 12.153/2009, ao argumento de que a compreensão do colegiado potiguar divergiria da jurisprudência deste STJ.
+Todavia, à luz da moldura fático-jurídica que dos autos emerge, não há como dar curso ao pedido.
+É que, por se tratar, como é o caso, de ação processada e julgada no âmbito do microssistema dos juizados especiais da Fazenda Pública, rege-se o procedimento, inteiramente, por lei específica, a saber, a Lei 12.153, de 22 de dezembro de 2009.
+Consoante expressamente dispõe esse aludido diploma legal, a competência do Superior Tribunal de Justiça somente se inaugura nas hipóteses previstas nos arts. 18, § 3º, e 19 da mesma lei.
+Ocorre que, nos termos do art. 18, § 3º, da Lei n. 12.153/2009, o pedido dirigido a esta Corte superior somente é cabível "quando as Turmas de diferentes Estados derem a lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade com Súmula do Superior Tribunal de Justiça", hipóteses inocorrentes na espécie, pois tanto a sentença (fls. 102/106), quanto o acórdão que a confirmou (fls. 139/142), sustentam-se, exclusivamente, na exegese do art. 67 da Lei Complementar Estadual 303/2005 e na Súmula 43/TUJRN. Não se discute, portanto, lei federal, como pressupõe a norma de regência.
+Também não incide, neste caso, o previsto no art. 19 da Lei dos Juizados Especiais da Fazenda Pública, à míngua de "orientação acolhida pela Turma de Uniformização" em contrariedade a "súmula do Superior Tribunal de Justiça".
+Nota-se, ainda, a falta de precisa indicação da lei federal supostamente violada, e as razões da anunciada violação (até porque, repita-se, a questão foi examinada, e decidida, à luz do ordenamento local).
+Assim, por todas essas razões, individual ou conjuntamente consideradas, não se revela cabível o manejo do PUIL.
+ANTE O EXPOSTO, e com fundamento no art. 34, XVIII, "a", do RISTJ, não conheço do presente pedido de uniformização de interpretação de lei federal.
+Publique-se.
+EMENTA
