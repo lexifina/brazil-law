@@ -1,0 +1,21 @@
+DECISÃO
+GABRIEL FERREIRA GUIMARÃES agrava da decisão que inadmitiu o recurso especial interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina no Agravo em Execução n. 8000085-19.2025.8.24.0036.
+Nas razões do recurso especial, a defesa apontou violação do art. 126, II, § 2º, da Lei de Execução Penal.
+Sustenta que o segundo pedido de remição, protocolado após a conclusão integral do curso de pós-graduação lato sensu em Neurociência da Educação, constitui fato novo e superveniente, distinto do primeiro pedido que abrangia apenas o primeiro módulo do curso. Argumentou que houve efetiva fiscalização do cumprimento da carga horária, com provas aplicadas dentro da unidade prisional e que o curso é credenciado pelo MEC. Defendeu que a negativa do Tribunal de Justiça do Estado de Santa Catarina incorreu em erro de direito ao aplicar indevidamente a preclusão, ignorando a distinção entre os pedidos. Requer o provimento do recurso para concessão da remição por estudo (fls. 90-99).
+Apresentadas as contrarrazões (fls. 100-108), a Corte de origem não admitiu o recurso, em razão dos óbices previstos nas Súmulas n. 7 e 83 do STJ (fls. 109-111), o que ensejou a interposição deste agravo (fls. 113-119).
+No agravo, sustenta que não incide a Súmula n. 83 do STJ, pois o agravante colacionou no seu REsp precedente do STJ que ampara a sua pretensão, e que a Súmula n. 7 do STJ também não se aplica, pois é desnecessário o reexame de provas (fls. 113-119).
+O Ministério Público Federal opinou pelo desprovimento do agravo (fls. 141-143).
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada, razões pelas quais comporta conhecimento.
+O recurso especial, todavia, não pode ser conhecido.
+O juízo da execução penal decidiu nos seguintes termos (fl. 24):
+Em análise dos embargos da mov. 458, verifico que o pedido de remição decorrente da conclusão do curso de PÓS-GRADUAÇÃO LATO SENSU EM NEUROCIÊNCIA NA EDUCAÇÃO já foi apreciado na decisão da mov. 535.
+Saliento, agora por conta de renovação do mesmo pedido, que ao tempo daquela deliberação este juízo questionou o Setor de Educação do Presídio Regional de Jaraguá do Sul a respeito da realização de curso não autorizado conforme ev. 19 dos autos 5012118-23.2024.8.24.0036, sendo confirmado que o apenado o fazia por conta própria, ciente de que não ensejaria remição.
+O Tribunal de origem, por sua vez, assim reconheceu a intempestividade do agravo em execução (fls. 70-72):
+Diante de tudo isso, conclui-se que a matéria está abarcada pela preclusão, uma vez que, sobre a decisão que indeferiu o pedido em 14/11/2024, não houve recurso, de modo que a decisão ora agravada apenas reconheceu a preclusão. Ademais, também ressaltou que o referido curso realizado pelo reeducando não estava no rol daqueles que ensejariam a remição, sendo irrelevantes, portanto, os certificados juntados de conclusão de curso e a fiscalização realizada por funcionária do presídio.
+No caso, ao contrário do alegado pela defesa, não é incontroverso no acórdão que o segundo pedido formulado se baseava em fato novo e superveniente. Pelo contrário, o acórdão reconheceu tratar-se de reiteração do pedido anterior e, justamente por isso, considerou preclusa a matéria e intempestivo o agravo em execução. Assim, para infirmar o entendimento da Corte estadual, seria imprescindível o reexame do conjunto fático-probatório, o que é vedado pela Súmula n. 7 do STJ.
+Incide, ainda, o óbice previsto na Súmula n. 283 do STF. Isso porque, além da menção à preclusão, o Tribunal de origem pontuou que "o referido curso realizado pelo reeducando não estava no rol daqueles que ensejariam a remição, sendo irrelevantes, portanto, os certificados juntados de conclusão de curso e a fiscalização realizada por funcionária do presídio" (fl. 74), fundamento não impugnado nas razões do recurso especial.
+Assim, não cumprido o dever de dialeticidade das razões recursais, é inviável a apreciação da matéria diretamente por esta Corte Superior de Justiça, a teor da Súmula n. 283 do STF.
+À vista do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se e intimem-se.
+EMENTA
