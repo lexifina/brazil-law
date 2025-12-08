@@ -1,0 +1,1 @@
+Art. 300-A. O investigado por crimes contra a dignidade sexual, quando preso cautelarmente, e o condenado pelos mesmos crimes deverão ser submetidos obrigatoriamente à identificação do perfil genético, mediante extração de DNA (ácido desoxirribonucleico), por técnica adequada e indolor, por ocasião do ingresso no estabelecimento prisional.
