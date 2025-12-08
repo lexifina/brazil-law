@@ -1,0 +1,51 @@
+Trata-se de recurso ordinário em habeas corpus interposto por Michel Bwee Buglione Gouw contra acórdão da Quinta Turma do Superior Tribunal de Justiça que negou provimento ao AgRg no HC 1.022.060/SP (docs. 39 e 40).
+
+    Consta de documento encartado a estes autos que o recorrente “[...] foi pronunciado pela suposta prática do crime previsto no art. 121, § 2º, III e IV, do Código Penal [homicídio qualificado]” (doc. 25, p. 1).
+
+    Neste recurso ordinário, o recorrente sustenta, em síntese, que:
+
+    O presente Recurso Ordinário objetiva restabelecer a garantia constitucional da plenitude de defesa, seguidamente violada pelas decisões das instâncias anteriores ao ratificarem a exclusão de provas lícitas apresentadas tempestivamente pela defesa, assim privando o Conselho de Sentença do Tribunal do Júri de sua valoração.
+
+    [...]
+
+    O paciente seria submetido ao Tribunal do Júri na sessão designada para 18 de fevereiro de 2025. Oito dias antes do julgamento – dentro do prazo legal –, a defesa do paciente apresentou nos autos quatro vídeos de curta duração contendo declarações de quatro pessoas, espontaneamente fornecidas, sendo uma delas de autoria da filha da vítima em benefício do paciente.
+
+    [...]
+
+    Em 14/02, na iminência da sessão plenária do dia 18/02, o MM. Juízo impetrado não só redesignou-a para 14 de agosto de 2025 como determinou que a defesa justificasse a apresentação de provas “às vésperas do julgamento”, como se assim a lei não o permitisse, desde que com três dias de antecedência. Foram oito dias de antecedência.
+
+    Mesmo justificada a apresentação de provas dentro do prazo legal, a MM. Juíza de Direito as desentranhou dos autos. Eis os argumentos lançados para a supressão de provas da defesa (e-STJ fl. 33): [...].
+
+    Desta forma, apesar de ter determinado a substituição das declarações em vídeo pela oitiva em plenário de três das quatro declarantes (Elaine, Lilian e Izabela), a r. decisão não traça uma linha, uma palavra sequer para justificar a supressão das declarações em vídeo de Maria Eduarda sem determinar a sua a oitiva em plenário.
+
+    Isto é, sem fundamentação, uma das quatro pessoas cujas declarações em vídeo foram desentranhadas dos autos não será nem sequer ouvida em plenário. Trata-se da mais importante pessoa entre as quatro declarantes, ninguém menos do que a filha da vítima fatal, pessoa que, deste modo, teve as suas declarações em vídeo suprimidas dos autos e não será ouvida em plenário. O prejuízo é escandalosamente óbvio: a palavra da filha da vítima, seja a registrada em vídeo, seja a falada em plenário, foi subtraída da análise dos jurados. (doc. 46, p. 2-5).
+
+    Ao final, requer:
+
+    Ante o exposto, requer-se o provimento do presente Recurso Ordinário em Habeas Corpus para determinar a reinclusão das petições de fls. 2.222 e 3.357/3.358 nos autos de origem, restabelecendo o acesso do Juízo e das partes aos links de mídias apresentados tempestivamente pela defesa, autorizando-se sua exibição ao Conselho de Sentença na sessão de julgamento. (doc. 46, p. 12).
+
+    É o relatório necessário. Decido.
+
+    Colaciono, por oportuno, a ementa do acórdão impugnado:
+
+    Ementa DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. DESENTRANHAMENTO DE VÍDEOS APRESENTADOS PELA DEFESA. CERCEAMENTO DE DEFESA. ORDEM DENEGADA. I. Caso em exame 1. Agravo regimental interposto contra decisão monocrática que negou conhecimento ao habeas corpus impetrado contra acórdão do Tribunal de Justiça do Estado de São Paulo, o qual não reconheceu cerceamento de defesa na inadmissão de juntada de vídeos apresentados pela defesa para exibição ao Conselho de Sentença. 2. O paciente foi pronunciado pela suposta prática do crime previsto no art. 121, § 2º, III e IV, do Código Penal. A defesa apresentou vídeos com declarações espontâneas de pessoas próximas ao paciente e à vítima, incluindo a filha da vítima, antes do julgamento. O juízo de primeiro grau determinou o desentranhamento dos vídeos, considerando-os como inquirições de testemunhas gravadas unilateralmente pela defesa. II. Questão em discussão 3. A questão em discussão consiste em determinar se houve constrangimento ilegal na decisão de desentranhar os vídeos apresentados pela defesa e se estes deveriam ser reincluídos nos autos para exibição ao Conselho de Sentença. III. Razões de decidir 4. O magistrado de primeiro grau considerou que os vídeos apresentados pela defesa não possuem natureza jurídica de prova documental, sendo depoimentos gravados unilateralmente, o que inviabiliza sua submissão ao contraditório diferido. 5. A decisão de desentranhar os vídeos está amparada no princípio da livre apreciação da prova, que permite ao juiz indeferir provas consideradas inúteis ou protelatórias, desde que fundamentado e sem demonstração de prejuízo ao acusado. 6. O juízo de primeiro grau propôs ouvir as pessoas gravadas nos vídeos como testemunhas durante o julgamento, garantindo o contraditório e a ampla defesa, exceto em relação a uma das declarantes, cujas causas da exclusão não foram debatidas nas instâncias ordinárias. 7. Não há demonstração de prejuízo concreto ao paciente que justifique a nulidade, sendo legítima a decisão de desentranhar os vídeos e permitir a oitiva das testemunhas em plenário. IV. Dispositivo e tese 8. Resultado do Julgamento: Ordem denegada. Tese de julgamento: 1. A desconsideração de provas não documentais e unilateralmente produzidas pela defesa não configura constrangimento ilegal. 2. A livre apreciação da prova pelo juiz é legítima, desde que não demonstrado prejuízo ao acusado. (doc. 39 – grifei).
+
+    O acórdão impugnado não merece reparos.
+
+    Com efeito, em relação à instrução preliminar dos processos da competência do tribunal do júri, estabelece o art. 411, § 2º, do Código de Processo Penal, que “[as] provas serão produzidas em uma só audiência, podendo o juiz indeferir as consideradas irrelevantes, impertinentes ou protelatórias” (grifei), assim como ocorreu no caso. Para além disso, ressalto que, como consignado no acórdão da Quinta Turma do Superior Tribunal de Justiça, não se verifica prejuízo ao acusado, pois, “[o] juízo de primeiro grau propôs ouvir as pessoas gravadas nos vídeos [desentranhados] como testemunhas durante o julgamento, garantindo o contraditório e a ampla defesa, exceto em relação a uma das declarantes, cujas causas da exclusão não foram debatidas nas instâncias ordinárias” (doc. 39 – grifei).
+
+    Nessa mesma direção:
+
+    Ementa Direito processual penal. Agravo regimental no habeas corpus. Homicídio qualificado. Tribunal do Júri. Oitiva de peritos em sessão de julgamento. Indeferimento pelo juízo processante em decisão fundamentada. Conformidade com o art. 411, § 2º, do Código de Processo Penal. Cerceamento de defesa inexistente. Agravo regimental desprovido. I. Caso em exame 1. Agravo regimental interposto contra decisão em que deneguei a ordem de habeas corpus, por reputar inexistente ilegalidade manifesta ou constrangimento ilegal passível de correção pela via estreita do mandamus. II. Questão em discussão 2. Cerceamento de defesa em razão do indeferimento da oitiva em plenário do Tribunal do Júri dos peritos que atuaram na investigação dos fatos. III. Razões de decidir 3. A jurisprudência desta Corte é firme no sentido de que o indeferimento de produção de provas pelo magistrado instrutor, quando fundamentadamente consideradas irrelevantes, impertinentes ou protelatórias, não configura cerceamento de defesa. Precedentes. 4. Nos termos do art. 411, § 2º, do CPP, “As provas serão produzidas em uma só audiência, podendo o juiz indeferir as consideradas irrelevantes, impertinentes ou protelatórias”. Desse modo, inexiste cerceamento de defesa se o magistrado processante indeferiu a oitiva dos peritos em plenário do Tribunal do Júri por entender desnecessária a presença física deles, mas admitiu a formulação de esclarecimentos/quesitos complementares por escrito, como autoriza o art. 159, § 5º, I, do Código de Processo Penal. IV. Dispositivo 5. Agravo regimental desprovido. (HC 256.525 AgR/MG, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 27/6/2025 – grifei).
+
+    Ementa AGRAVO REGIMENTAL EM HABEAS CORPUS. PENAL E PROCESSO PENAL. WRIT CONTRA DECISÃO MONOCRÁTICA. CONHECIMENTO. ÓBICE. NULIDADES INEXISTENTES. FATOS E PROVAS. REAVALIAÇÃO. INVIABILIDADE. 1. Há óbice ao conhecimento de habeas corpus impetrado contra decisão monocrática do Superior Tribunal de Justiça, cuja jurisdição não se esgotou. Precedentes. 2. Divergências de entendimento entre defensores constituídos e/ou invocação de complexidade do feito não constituem causas suficientes a exigir reabertura do prazo para apresentação de resposta à acusação ou para a redesignação de atos processuais já consumados (preclusão consumativa). Enunciado da Súmula 523 desta Suprema Corte (‘No processo penal, a falta de defesa constitui nulidade absoluta, mas a sua deficiência só o anulará se houver prova de prejuízo para o réu’). 3. O artigo 217 do CPP autoriza o magistrado a retirar temporariamente o réu do recinto de audiência quando sua presença impuser constrangimento às testemunhas e/ou às vítimas, a fim de preservar a fidedignidade dos depoimentos. Precedentes. 4. A dinâmica probatória no processo penal confere competência ao Juiz para controlar a produção das provas mediante critérios de liberdade regrada, a quem atribuído a sindicância sobre requerimentos impertinentes, irrelevantes ou protelatórios, (art. 400, § 1º, c/c art. 411, § 2º, do CPP). Precedentes. 5. A demonstração de prejuízo e o proveito pelo refazimento do ato, ou pela exclusão da prova, são condições necessárias ao reconhecimento de nulidades, sejam elas absolutas ou relativas. Precedentes. 6. Não se presta a via eleita para a reavaliação de matérias fáticas soberanamente estabilizadas nas instâncias ordinárias sobre aspectos discricionários de mera condução de atos processuais instrutórios. 7. Agravo regimental conhecido e não provido. (HC 175.690 AgR/SP, Relatora a Ministra Rosa Weber, Primeira Turma, DJe 18/9/2020 – grifei).
+
+    Ante o exposto, nego provimento ao recurso ordinário (art. 192, caput, combinado com o art. 312, ambos do Regimento Interno do Supremo Tribunal Federal).
+
+    Publique-se.
+
+    Brasília, 8 de dezembro de 2025.
+
+    Ministro Cristiano Zanin
+
+    Relator
