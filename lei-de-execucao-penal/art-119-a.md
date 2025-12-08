@@ -1,0 +1,1 @@
+Art. 119-A. O condenado por crimes contra a dignidade sexual somente ingressará em regime mais benéfico de cumprimento de pena ou perceberá benefício penal que autorize a saída do estabelecimento se os resultados do exame criminológico afirmarem a existência de indícios de que não voltará a cometer crimes da mesma natureza.
