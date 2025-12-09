@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 03/12/2025 a 09/12/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+Não participou do julgamento a Sra. Ministra Nancy Andrighi.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. FORNECIMENTO DE MEDICAMENTO. FUNDAMENTAÇÃO  DEFICIENTE.  SÚMULA  Nº  284/STF.  TUTELA DE URGÊNCIA. SÚMULA Nº 735/STF. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1.  Caracteriza-se  a  deficiência  da  fundamentação  recursal  quando  o  recurso  especial  não  indica  de  modo  preciso  os  dispositivos  legais  violados,  a  atrair  o  óbice  da  Súmula  nº  284/STF.
+2. Em regra, não é admissível o recurso especial para reexaminar os fundamentos utilizados pelas instâncias de origem em decisões que concedem, ou não, medidas liminares ou antecipações de tutela, haja vista a ausência do requisito constitucional delineado no inciso III do art. 105 da Constituição Federal. Incidência, por analogia, da Súmula nº 735/STF.
+3. É inviável rever o entendimento firmado pelas instâncias ordinárias sem a análise dos fatos e das provas da causa, o que atrai a incidência da Súmula nº 7/STJ.
+4. Agravo conhecido para não conhecer do recurso especial.
+RELATÓRIO
+Trata-se de agravo interposto por HAPVIDA ASSISTÊNCIA MÉDICA S.A. contra a decisão que inadmitiu o recurso especial.
+O apelo nobre insurge-se contra o acórdão do Tribunal de Justiça do Estado do Rio Grande do Norte, assim ementado:
+"CIVIL E PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO DE OBRIGAÇÃO DE FAZER. TUTELA DE URGÊNCIA DEFERIDA EM FAVOR DO AUTOR. CONTRATO DE PLANO DE SAÚDE. NEGATIVA DE AUTORIZAÇÃO PARA FORNECER O MEDICAMENTO STELARA (USTEQUINUMABE) E REALIZAR EXAME DE RESSONÂNCIA MAGNÉTICA. RELATÓRIO MÉDICO A COMPROVAR A IMPRESCINDIBILIDADE E A URGÊNCIA DO TRATAMENTO PRESCRITO POR PROFISSIONAL MÉDICO. PRECEDENTES DESTA CORTE ESTADUAL. MANUTENÇÃO DA DECISÃO AGRAVADA. RECURSO INSTRUMENTAL CONHECIDO E DESPROVIDO. AGRAVO INTERNO PREJUDICADO" (e-STJ fls. 93-94).
+Nas razões do recurso especial (e-STJ fls. 100-111), interposto com fundamento no art. 105, inciso III, "a" e "c", da Constituição Federal, a parte recorrente aduz, no essencial, que cabe à Agência Nacional de Saúde Suplementar (ANS) estabelecer a amplitude das coberturas ofertadas pelos planos de saúde, bem como elaborar o rol de procedimentos e eventos em saúde, referência básica das coberturas obrigatórias, o que reforça a taxatividade do rol e de suas diretrizes de utilização.
+A contraminuta foi apresentada (e-STJ fls. 115-122).
+O recurso especial foi inadmitido (e-STJ fls. 123-127), dando ensejo à interposição do presente agravo.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. FORNECIMENTO DE MEDICAMENTO. FUNDAMENTAÇÃO  DEFICIENTE.  SÚMULA  Nº  284/STF.  TUTELA DE URGÊNCIA. SÚMULA Nº 735/STF. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1.  Caracteriza-se  a  deficiência  da  fundamentação  recursal  quando  o  recurso  especial  não  indica  de  modo  preciso  os  dispositivos  legais  violados,  a  atrair  o  óbice  da  Súmula  nº  284/STF.
+2. Em regra, não é admissível o recurso especial para reexaminar os fundamentos utilizados pelas instâncias de origem em decisões que concedem, ou não, medidas liminares ou antecipações de tutela, haja vista a ausência do requisito constitucional delineado no inciso III do art. 105 da Constituição Federal. Incidência, por analogia, da Súmula nº 735/STF.
+3. É inviável rever o entendimento firmado pelas instâncias ordinárias sem a análise dos fatos e das provas da causa, o que atrai a incidência da Súmula nº 7/STJ.
+4. Agravo conhecido para não conhecer do recurso especial.
+VOTO
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+Inicialmente, a  deficiência  na  fundamentação  recursal  ficou  evidenciada,  visto  que  a  recorrente,  embora  tenha  se  insurgido  quanto  à  motivação  da  decisão,  não  indicou  de  modo  preciso  quais  os  artigos  de  lei  federal  teriam  sido  contrariados  pelo  aresto  recorrido,  inviabilizando  a  compreensão  da  controvérsia  posta  nos  autos.
+Assim,  incide  a  Súmula  nº  284/STF:  "É  inadmissível  o  recurso  extraordinário,  quando  a  deficiência  na  sua  fundamentação  não  permitir  a  exata  compreensão  da  controvérsia."
+Sobre o tema:
+"PROCESSUAL  CIVIL.  VIOLAÇÃO  DE  NORMA  LEGAL.  ALEGAÇÃO  GENÉRICA.  PREQUESTIONAMENTO.  INEXISTÊNCIA.  LITIGÂNCIA  DE  MÁ-FÉ.  INCIDENTE  MANIFESTAMENTE  INFUNDADO.  MULTA.  APLICAÇÃO.
+1.  A  alegação  de  afronta  ao  art.  1.022  do  CPC,  de  forma  genérica,  sem  a  efetiva  demonstração  de  omissão  do  acórdão  recorrido  no  exame  de  teses  imprescindíveis  para  o  julgamento  da  lide,  impede  o  conhecimento  do  recurso  especial,  ante  a  deficiência  na  fundamentação  (Súmula  284  do  STF)
+2.  A  citação  geral  de  artigos  de  lei  ao  longo  do  apelo  especial  não  é  suficiente  para  caracterizar  e  demonstrar  a  contrariedade  de  lei  federal,  já  que  impossível  identificar  se  foram  eles  citados  meramente  a  título  argumentativo  ou  invocados  como  núcleo  do  recurso  especial  interposto  (AgInt  no  REsp  1.615.830/RS,  Rel.  Min.  Mauro  Campbell  Marques,  Segunda  Turma,  DJe  11/06/2018).
+(..)"  (AgInt  no  AREsp  1.740.605/SP,  Rel.  Ministro  GURGEL  DE  FARIA,  Primeira  Turma,  julgado  em  27/11/2023,  DJe  de  5/12/2023  -  grifou-se).
+Ainda que assim não fosse, o Superior Tribunal de Justiça, alinhado com o entendimento oriundo da Suprema Corte, vem aplicando, analogicamente, a orientação contida na Súmula nº 735/STF, não admitindo recursos especiais que se voltam contra decisões que deferem ou indeferem pedido de medida liminar ou antecipação de tutela, como no caso em apreço, pois o julgamento de questões meritórias são inapropriadas para o momento.
+Confira-se:
+"PROCESSUAL CIVIL. AMBIENTAL. AGRAVO DE INSTRUMENTO. REVOGAÇÃO TUTELA DE URGÊNCIA. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ. INCIDÊNCIA DO ENUNCIADO N. 735 DA SÚMULA DO STF.
+I - Na origem, trata-se de agravo de instrumento objetivando reformar decisão com a revogação da tutela de urgência deferida pelo juiz primevo. No Tribunal a quo, negou-se provimento ao recurso.
+II - De regra geral, esta Corte de Justiça não analisa recursos especiais interpostos contra decisões interlocutórias que tenha deliberado sobre medida liminar, em razão dos óbices das Súmulas n. 7/STJ e 735/STF. Nesse sentido: AgInt no AREsp n. 1.875.200/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 17/5/2022, DJe de 27/5/2022; AgInt no AREsp n. 1.726.525/SE, relator Ministro Francisco Falcão, Segunda Turma, julgado em 23/9/2021, DJe de 4/10/2021. (..)" (AgInt no REsp 2.017.691/MG, Rel. Ministro FRANCISCO FALCÃO, Segunda Turma, julgado em 20/3/2023, DJe de 24/3/2023 - grifou-se).
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE FUNDAMENTAÇÃO. ART. 93, IX, DA CONSTITUIÇÃO FEDERAL. COMPETÊNCIA. ARTS. 11 E 489 DO CÓDIGO DE PROCESSO CIVIL DE 2015. OFENSA. NÃO OCORRÊNCIA. OMISSÃO. NÃO VERIFICAÇÃO. TUTELA DE URGÊNCIA. PERICULUM IN MORA. CONFIGURAÇÃO. AUSÊNCIA. ART. 300 DO CPC/2015. SÚMULA Nº 735/STF. INCIDÊNCIA.
+(..) 5. A jurisprudência desta Corte Superior, diante do disposto na Súmula nº 735/STF, entende que, em regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo.
+6. Agravo interno não provido" (AgInt nos EDcl no AREsp 1.992.801/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe de 28/10/2022 - grifou-se).
+"ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. DEFERIMENTO DE TUTELA DE URGÊNCIA E EVIDÊNCIA. DECISÃO PRECÁRIA. NÃO CABIMENTO DO APELO NOBRE. SÚMULA 735/STF. REQUISITOS PARA CONCESSÃO DA MEDIDA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. ACÓRDÃO A QUO QUE DECIDIU TODA A QUESTÃO POSTA NOS AUTOS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA.
+1. Não há falar em negativa de prestação jurisdicional quando o órgão julgador aprecia, com coerência, clareza e devida fundamentação, as teses suscitadas pelo jurisdicionado, não sendo legítimo confundir a fundamentação deficiente com a sucinta, porém suficiente, mormente quando contrária aos interesses da parte.
+2. Não é cabível, em regra, recurso especial para reexaminar os fundamentos utilizados pelas instâncias de origem em decisões precárias para deferir ou indeferir medidas liminares ou antecipações de tutela. Isso porque, na hipótese dos autos, não se está, ainda, diante de "causa decidida em única ou última instância", apta a ensejar a abertura da via especial, o que atrai a incidência da Súmula 735/STF.
+3. A alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, no sentido de asseverar o desacerto na análise da tutela de urgência, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+4. Agravo interno a que se nega provimento" (AgInt no AREsp 1.790.808/SP, Rel. Ministro SÉRGIO KUKINA, Primeira Turma, julgado em 16/11/2021, DJe de 19/11/2021 - grifou-se).
+Além disso, incide o óbice na Súmula nº 7/STJ, pois o acolhimento da pretensão recursal exigiria o reexame do substrato fático-probatório dos autos. A propósito: EDcl no REsp 1.435.614/RS, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º/9/2015; AgRg no REsp 1.491.498/RS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 4/8/2015.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixa-se de majorar os honorários sucumbenciais, nos termos do art. 85, § 11, do CPC, tendo em vista que não foram arbitrados na origem.
+É o voto.
