@@ -1,0 +1,50 @@
+DECISÃO
+Cuida-se de agravo (artigo 1.042 do CPC), interposto por SUELEN STEFANI MILANI FREITAS DE SOUZA E OUTROS, contra decisão que não admitiu recurso especial.
+O apelo extremo, fundamentado na alínea "a" do permissivo constitucional, desafiou acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl . 104, e-STJ):
+AGRAVO DE INSTRUMENTO - INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA - Decisão interlocutória atacada que devolveu o prazo recursal dos requeridos a partir da nova publicação da decisão - Inconformismo da parte autora, pretendendo o reconhecimento da preclusão do recurso interposto pelos requeridos, ante o caráter protelatório dos embargos ou, subsidiariamente, pelo início do prazo recursal a partir da intimação da antiga advogada constituída ou da ciência inequívoca do patrono constituído - Acolhimento - Embargos protelatórios - Matéria que foi apreciada e rechaçada em agravo anteriormente interposto - Impossibilidade de conhecimento da matéria neste ponto - Decisão publicada em nome da antiga causídica dos requeridos - Novo patrono constituído antes mesmo da publicação da decisão que se manifestou alegando a nulidade do ato em decorrência de não ter sido intimado - Conteúdo da petição que revela ciência inequívoca do ato, fluindo a partir de então o prazo para a interposição do recurso - Precedentes do C. STJ e deste E. Tribunal - Decisão reformada - Recurso não conhecido em parte e, na parte conhecida, provido.
+Nas razões de recurso especial (fls. 134-162, e-STJ), aponta a parte recorrente ofensa aos artigos 139, inciso IX; 272, §§ 2º, 5º e 6º; 277 e 280, do CPC, sustentando, em síntese, a validade do ato do juízo de primeiro grau que determinou a republicação da decisão e a reabertura do prazo recursal, o que afastaria a intempestividade reconhecida pelo Tribunal de origem. Defende que a teoria da ciência inequívoca não poderia se sobrepor a uma decisão judicial expressa que sanou vício de intimação.
+Contrarrazões apresentadas às fls. 214-226, e-STJ.
+Em juízo de admissibilidade (fls. 227-230, e-STJ), negou-se o processamento do recurso especial, dando ensejo ao presente agravo (fls. 233-272, e-STJ).
+Contraminuta apresentada às fls. 276-290, e-STJ.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. O Tribunal de origem, ao apreciar a controvérsia, consignou o seguinte (fls. 107-108, e-STJ):
+Todavia, em 24/07/2024, o patrono dos requeridos peticionou apontando que " ..  compulsando os autos este causídico verificou que, conforme a certidão de fl. 2392, a intimação da r. decisão dos embargos de declaração opostos foi publicada no Diário Oficial em nome da advogada Dra. Aline Gidaro Prado, inscrita na OAB/SP nº 366.288, na data de 12/07/2024. Contudo, mencionada advogada deixou de representar os executados a partir de 25/06/2024, conforme petição de renúncia dos poderes outorgados de fls. 2367-2368, enquanto que o patrono que ao final subscreve passou a representar os executados a partir da juntada da petição e procurações de fls. 2369-2372, em 28/06/2024, com o requerimento para que as publicações no Diário Oficial passassem a ser realizadas em nome deste causídico." (fls. 67/68).
+O conteúdo do quanto informado pelo advogado é claro e suficiente para demonstrar que houve ciência inequívoca da decisão, motivo pelo qual deve ser considerado comunicado o ato processual, fluindo a partir de então o prazo para a interposição do agravo de instrumento.
+O assunto já foi objeto de análise do C. STJ, restando decidido que "a parte que espontaneamente peticiona nos autos e por seu conteúdo revela sem sombra de dúvidas ter conhecimento do ato decisório prolatado, mas não publicado, tem ciência inequívoca para desde então interpor agravo de instrumento" (REsp n. 1.710.498/CE, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 19/2/2019, DJe de 22/2/2019.).
+(..)
+Considerando-se a ciência inequívoca em 24/07/2024 e a ausência de feriados que suspendessem os prazos no período, a data final para a interposição do agravo de instrumento pelos requeridos, aqui agravados, contra a decisão que acolheu o incidente de desconsideração da personalidade jurídica, mantida em sede de embargos de declaração, é 14/08/2024.
+Como o agravo de instrumento nº 2248282-17.2024.8.26.0000 foi interposto pelos requeridos somente em 19/08/2024, conforme constatado por este relator em consulta àqueles autos, de rigor a reforma da decisão interlocutória, devendo ser reconhecida a preclusão temporal.
+Depreende-se, portanto, que o julgado estadual tem como principal fundamento o fato de que a petição protocolada em 24/07/2024 pelo novo patrono dos recorrentes, na qual se fez referência expressa à decisão que rejeitou os embargos de declaração, configurou a ciência inequívoca do ato, dando início à contagem do prazo recursal.
+Nesse sentido, como esse fundamento relativo ao comparecimento espontâneo é suficiente por si só para manter a conclusão do julgado, e não foi atacado de forma específica nas razões do recurso especial  que se limitaram a defender a prevalência da decisão posterior do juízo de primeiro grau que determinou a republicação  , incide, à hipótese, o comando da Súmula 283 do STF, por aplicação analógica.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. CAPITALIZAÇÃO DE JUROS. TAXA ANUAL SUPERIOR AO DUODÉCUPLO DA MENSAL. POSSIBILIDADE. PRECEDENTES. REVISÃO DAS PREMISSAS FÁTICAS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. JUROS REMUNERATÓRIOS. FUNDAMENTAÇÃO DEFICIENTE. INCIDÊNCIA DAS SÚMULAS 283 E 284/STF. AGRAVO INTERNO IMPROVIDO.
+(..)
+3. A ausência de impugnação específica sobre fundamento suficiente, que por si só, é capaz de manter a conclusão esposada no acórdão recorrido, configura deficiência na fundamentação e atrai a incidência das Súmulas 283 e 284 do STF.
+4. Agravo interno improvido.
+(AgInt no REsp n. 2.013.366/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 17/10/2022, DJe de 20/10/2022.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REGRESSIVA. RESSARCIMENTO DE DANOS. TRANSPORTE AÉREO DE MERCADORIA. AVARIA DE CARGA. ALEGAÇÃO DE DECADÊNCIA. FUNDAMENTO NÃO ATACADO. SÚMULA 283/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. INCIDÊNCIA DA LIMITAÇÃO DA RESPONSABILIDADE. POSSIBILIDADE. PREVALÊNCIA DA CONVENÇÃO DE MONTREAL. NECESSIDADE DE RETORNO DOS AUTOS À ORIGEM PARA ANÁLISE DE QUESTÃO FÁTICA. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+1.É inadmissível o recurso especial nas hipóteses em que o acórdão recorrido assenta em mais de um fundamento suficiente e o recurso não abrange todos eles. Aplicação analógica da Súmula 283 do STF.
+(..)
+(AgInt no AREsp n. 1.636.421/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 17/10/2022, DJe de 21/10/2022.)
+Logo, uma vez que o entendimento adotado pelo Tribunal de origem está em consonância com a jurisprudência desta Corte Superior, impõe-se o óbice da Súmula 83 do STJ.
+2. Ademais, infirmar as conclusões do tribunal de origem e acolher o inconformismo recursal, para reconhecer a ciência inequívoca e a consequente intempestividade do agravo de instrumento, apenas seria possível com o reexame do acervo fático-probatório, providência vedada em recurso especial, à luz do enunciado da Súmula 7 do STJ. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE PAGAR QUANTIA. TERMO INICIAL DO PRAZO RECURSAL. CIÊNCIA INEQUÍVOCA DO CONTEÚDO DO ATO DECISÓRIO. INTEMPESTIVIDADE DO AGRAVO DE INSTRUMENTO. NÃO OCORRÊNCIA. ADITAMENTO DAS RAZÕES DO RECURSO. DECRETAÇÃO DE NULIDADE DO JULGAMENTO. AUSÊNCIA DE PREJUÍZO. IMPOSSIBILIDADE.
+1. Ação de obrigação de pagar quantia.
+2. Segundo a teoria da ciência inequívoca, em observância do princípio da instrumentalidade das formas, considera-se comunicado o ato processual, independentemente da sua publicação, quando a parte ou seu representante tenha, por outro meio, tomado conhecimento do processado no feito.
+3. A ciência inequívoca é verificada de acordo com o conteúdo da manifestação que revele a indispensável ciência de todo o conteúdo da decisão, isto é, o inequívoco conhecimento da parte de que deve tomar alguma atitude processual.
+4. O princípio da instrumentalidade das formas estatui que a decretação da nulidade dos atos processuais pressupõe, além do desrespeito à norma procedimental prevista em lei, a ocorrência de efetivo prejuízo à parte, o que não se verificou no caso dos autos.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.130.733/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 24/10/2022, DJe de 26/10/2022.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. AGRAVO DE INSTRUMENTO. INTEMPESTIVIDADE. CIÊNCIA INEQUÍVOCA DA DECISÃO EM SEDE DE AUDIÊNCIA. REEXAME FÁTICO DOS AUTOS. SÚMULA N. 7 DO STJ.
+1. "Segundo a teoria da ciência inequívoca, em observância do princípio da instrumentalidade das formas, considera-se comunicado o ato processual, independentemente da sua publicação, quando a parte ou seu representante tenha, por outro meio, tomado conhecimento do processado no feito" (AgInt no AREsp n. 2.130.733/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 24.10.2022, DJe de 26.10.2022).
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.287.149/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 20/11/2023, DJe de 24/11/2023.)
+Incide, portanto, o óbice da Súmula 7 do STJ, o que impossibilita a análise do recurso especial
+3. Do exposto, com fundamento no artigo 932 do CPC e na Súmula 568 do STJ, conheço do agravo para não conhecer o recurso especial.
+Por conseguinte, nos termos do artigo 85, § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no artigo 98, § 3º, do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
