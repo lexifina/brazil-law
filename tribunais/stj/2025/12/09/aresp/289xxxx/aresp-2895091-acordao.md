@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 03/12/2025 a 09/12/2025, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Moura Ribeiro.
+Os Srs. Ministros Daniela Teixeira, Humberto Martins e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+Não participou do julgamento a Sra. Ministra Nancy Andrighi.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CONTRATO DE TRANSPORTE E ARMAZENAMENTO. RESCISÃO UNILATERAL SEM NOTIFICAÇÃO PRÉVIA. RESCISÃO UNILATERAL SEM NOTIFICAÇÃO PRÉVIA. MULTA CONTRATUAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. REEXAME DE PROVAS. SÚMULAS 5 E 6/STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E NÃO PROVIDO.
+1. Não há negativa de prestação jurisdicional quando o Tribunal estadual enfrenta de forma clara e suficiente as questões controvertidas, ainda que contrariamente à tese da parte recorrente.
+2. Revisar as conclusões do acórdão quanto à configuração da rescisão e à incidência da multa demandaria o reexame de cláusulas contratuais e de fatos e provas, providência obstada pelas Súmulas 5 e 7 do STJ.
+3. Agravo conhecido para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por YARA BRASIL FERTILIZANTES S.A. (YARA) contra decisão que não admitiu seu apelo nobre manejado com fundamento no art. 105, III, a, da CF, em face de acórdão proferido pelo Tribunal de Justiça do Estado do Maranhão, assim ementado:
+DIREITO CIVIL CONTRATUAL. APELAÇÕES CÍVEIS. RESCISÃO UNILATERAL DE TRANSPORTE E ARMAZENAMENTO DE PRODUTOS SEM NOTIFICAÇÃO PRÉVIA. MULTA CONTRATUAL. PESSOA JURÍDICA. DANOS MATERIAIS ACOLHIDOS. TERMO FINAL DO CONTRATO READEQUADO. DANO MORAIS IMPROCEDENTES. SENTENÇA PARCIALMENTE REFORMADA.
+1. Exaurindo-se o objeto contratado por completo, com a transferência de todos serviços de transporte e de armazenamento das cargas advindas do Porto do Itaqui para outra empresa, serviços antes contratados com periodicidade e assiduidade mensal, a demonstração de aviso prévio ou denunciação prévia de rescisão do contrato, por escrito e com anterioridade definida em contrato, se impõe, sob pena da multa contratual pactuada;
+2. A indenização por transporte interno de mercadorias integra o contrato de transporte, devendo compor a multa rescisória em conjunto com a já aplicada para o transporte externo;
+3. A data de rompimento do contrato deve ser adequada aos fatos expostos em contraditório e se reflete na última emissão da nota fiscal de novos serviços prestados pela contratada;
+4. A possibilidade de danos morais à pessoa jurídica se consubstancia pelo dano objetivo à imagem da empresa, com reflexos externos à própria relação contratual. Não se demonstrando repercussão externa que implicasse perda objetiva da imagem da autora perante seu mercado de trabalho, não há dano extrapatrimonial;
+5. Mantendo-se a sucumbência parcial pela improcedência do dano moral, tendo a sentença atribuído com proporcionalidade e razoabilidade adequada aos pedidos formulados;
+6. Primeiro apelo parcialmente provido e segundo apelo desprovido. (e-STJ, fls. 1.771-1.802)
+Os embargos de declaração de YARA foram rejeitados (e-STJ, fls. 1.821-1.824).
+Nas razões do agravo, YARA apontou (1) negativa de prestação jurisdicional, por omissão e contradição não sanadas nos embargos de declaração, com ofensa aos arts. 1.022 e 489 do CPC; (2) violação dos arts. 472 e 473 do CC, sustentando inexistência de resilição por falta de notificação prévia, com afastamento dos óbices das Súmulas 5 e 7/STJ por tratar-se de matéria jurídica sobre fatos incontroversos; (3) desacerto da decisão de inadmissibilidade da Vice-Presidência que aplicou Súmulas 5 e 7/STJ ao caso (e-STJ, fls. 1.887-1.897).
+Houve apresentação de contraminuta por RAFI TRANSPORTE E LOGÍSTICA LTDA. (RAFI)  e-STJ, fls. 1.899-1.914 .
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CONTRATO DE TRANSPORTE E ARMAZENAMENTO. RESCISÃO UNILATERAL SEM NOTIFICAÇÃO PRÉVIA. RESCISÃO UNILATERAL SEM NOTIFICAÇÃO PRÉVIA. MULTA CONTRATUAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. REEXAME DE PROVAS. SÚMULAS 5 E 6/STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E NÃO PROVIDO.
+1. Não há negativa de prestação jurisdicional quando o Tribunal estadual enfrenta de forma clara e suficiente as questões controvertidas, ainda que contrariamente à tese da parte recorrente.
+2. Revisar as conclusões do acórdão quanto à configuração da rescisão e à incidência da multa demandaria o reexame de cláusulas contratuais e de fatos e provas, providência obstada pelas Súmulas 5 e 7 do STJ.
+3. Agravo conhecido para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+VOTO
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre interposto com fundamento na alínea a do inciso III do art. 105 da CF, YARA apontou (1) negativa de prestação jurisdicional por violação dos arts. 1.022, I e II, parágrafo único, II, e 489, § 1º, IV, e 11 do CPC, afirmando que o acórdão dos embargos apenas reafirmou a apelação sem enfrentar a tese de ausência de resilição pela falta de notificação prévia; (2) violação dos arts. 472 e 473 do CC, sustentando que não houve resolução do contrato por inexistir denúncia notificada, que os instrumentos não previam exclusividade ou demanda por periodicidade/quantidade e que a conclusão do colegiado decorreu de presunções indevidas, sem ilícito ou inadimplemento (e-STJ, fls. 1.835-1.845).
+Houve apresentação de contrarrazões por RAFI (e-STJ, fls. 1.849-1.861).
+(1) Negativa de prestação jurisdicional
+YARA sustenta que o TJMA, ao julgar os embargos de declaração, incorreu em omissão, pois teria meramente reafirmado o acórdão da apelação, sem enfrentar a tese de que a ausência de notificação prévia impediria a configuração da resilição contratual. Contudo, não se verifica a alegada violação.
+O acórdão recorrido, ao rejeitar os embargos, analisou, de forma clara e suficiente, a questão, consignando que a matéria havia sido devidamente debatida e que a pretensão da embargante era de rediscutir o mérito do julgado.
+O voto do relator do acórdão dos embargos destacou expressamente (e-STJ, fls. 1.823/1.824):
+Pelos fundamentos apresentados, depreende-se que o embargante pretende rediscutir matéria que foi devidamente debatida e julgada conforme entendimento expressamente exposto, sendo a ausência de notificação prévia um dos fundamentos da ilicitude contratual apontada e afastando-se a justificativa de não exclusividade como justa causa para a resolução do contrato, nos exatos termos do acórdão:
+O objeto contratado se exauriu por completo com a ausência de novos serviços de transporte e de armazenamento das cargas, não se acolhendo a imprescindibilidade de demonstração por escrito da rescisão contratual, mas, como já exposto na sentença, exigindo-se a denúncia prévia, com notificação formal para rescisão do contrato, por escrito e com anterioridade de noventa dias, ou de trinta dias nos casos de armazenamento, nos termos dos contratos firmados.
+(..)
+Assim, considerando-se que o embargante não apresenta vícios sanáveis pelas hipóteses previstas no art. 1.022 do CPC, resta evidente que seu objetivo é rediscutir matéria totalmente esgotada e julgada conforme os fatos e o direito posto em debate.
+Como se vê, o Tribunal a quo enfrentou a controvérsia, concluindo que a ausência de notificação prévia constituiu justamente o ilícito contratual, e não um óbice à caracterização da rescisão fática. A fundamentação é clara ao indicar que a matéria já havia sido exaurida no acórdão da apelação e que a intenção da embargante era apenas obter um novo julgamento da causa, o que não se admite pela via dos aclaratórios.
+A propósito:
+DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPROVAÇÃO DE FERIADO LOCAL. SUPERVENIÊNCIA DE NORMA E DE TESE JURISPRUDENCIAL DA CORTE ESPECIAL DO STJ. POSSIBILIDADE DE RECONSIDERAÇÃO DA DECISÃO. AFASTAMENTO DA INTEMPESTIVIDADE. AGRAVO EM RECURSO ESPECIAL CONHECIDO. VIOLAÇÃO AO ART. 1.022 DO CPC. INOCORRÊNCIA. MANUTENÇÃO DO ACÓRDÃO RECORRIDO. EMBARGOS ACOLHIDOS PARA CONHECER E NEGAR PROVIMENTO AO AGRAVO EM RECURSO ESPECIAL. I. CASO EM EXAME
+ ..
+6. Não configura omissão ou negativa de prestação jurisdicional a decisão que enfrenta adequadamente a controvérsia, ainda que contrariamente à tese da parte recorrente, conforme reiterada jurisprudência do STJ. IV. DISPOSITIVO
+7. Embargos de declaração acolhidos, para conhecer e negar provimento ao agravo em recurso especial.
+(EDcl nos EDcl no AgInt no AREsp n. 2.487.808/MS, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 8/9/2025, DJEN de 12/9/2025 - sem destaque no original)
+(2) Inexistência de resolução por falta de denúncia notificada, contratos sem exclusividade ou periodicidade e conclusão por presunções indevidas
+A Corte maranhense, soberana na análise dos fatos e das provas, não partiu de presunção, mas sim da constatação de elementos concretos que indicaram o rompimento abrupto da relação contratual.
+O acórdão da apelação fundamentou sua conclusão apontando que o objeto do contrato se exauriu por completo, com a cessação de novas demandas de transporte e armazenamento e a transferência integral desses serviços, antes prestados RAFI com periodicidade e assiduidade mensal, para outra empresa. Pontuou, também, que os contratos firmados entre as partes previam expressamente a necessidade de denúncia prévia e por escrito, com antecedência de noventa dias para o serviço de transporte e de trinta dias para o de armazenagem. A decisão recorrida é categórica ao afirmar que houve o rompimento dos contratos de forma abrupta, sem a devida denúncia por escrito, o que ensejou a aplicação das cláusulas penais pactuadas (e-STJ, fl. 1.771-1.802).
+Ao constatar o rompimento fático da relação, a instância ordinária aplicou corretamente as disposições contratuais que penalizavam a ausência de notificação prévia. Entender de modo diverso, para afastar a ocorrência da rescisão, exigiria o reexame do conjunto fático-probatório e a interpretação de cláusulas contratuais, providências vedadas em julgamento de recurso especial, conforme o disposto nas Súmulas 5 e 7 do STJ.
+Nessas condições, CONHEÇO do agravo para CONHECER EM PARTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em favor de RAFI TRANSPORTE E LOGÍSTICA LTDA., limitados a 20%, nos termos do art. 85, § 11, do CPC.
+Por oportuno, previno que a interposição de recurso contra este acórdão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação nos termos do art. 1.026, § 2º, do CPC.
+É o meu voto.
