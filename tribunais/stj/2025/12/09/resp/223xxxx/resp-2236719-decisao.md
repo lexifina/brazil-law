@@ -1,0 +1,25 @@
+DECISÃO
+Examina-se recurso especial interposto por ASSOCIAÇÃO SANTA SAÚDE, fundamentado, exclusivamente, "a" do permissivo constitucional..
+Recurso especial interposto em: 1/7/2025.
+Concluso ao gabinete em: 16/10/2025.
+Ação: de obrigação de fazer c/c compensação por danos morais, ajuizada por ELIONEL PEREIRA FARINHA, em face de ASSOCIAÇÃO SANTA SAÚDE, na qual requer o custeio do medicamento Nintedanibe (Ofev) 150 mg, necessário ao tratamento da fibrose idiopática pulmonar do autor.
+Sentença: julgou parcialmente procedentes os pedidos, para: i) condenar a requerida a custear integralmente o tratamento do autor, com fornecimento do medicamento Nintedanibe (Ofev) 150 mg, na periodicidade e quantidade indicadas, até alta médica definitiva; ii) deferir tutela de urgência para restabelecer o fornecimento do medicamento em 10 dias.
+Acórdão: negou provimento ao recurso de apelação interposto por ASSOCIAÇÃO SANTA SAÚDE, nos termos da seguinte ementa:
+DIREITO CIVIL. APELAÇÃO. PLANO DE SAÚDE. I. Caso em Exame. O Plano de Saúde apela da sentença que julgou parcialmente procedente a ação de obrigação de fazer cumulada com indenização, condenando a ré a custear integralmente o tratamento do autor com o medicamento Nintedanibe (Ofev) 150mg, conforme prescrição médica, até alta definitiva. II. Questão em Discussão. A questão em discussão consiste em (i) cerceamento de defesa alegado pela requerida devido ao indeferimento de produção de provas; (ii) ausência de obrigatoriedade de custeio do medicamento por não constar no rol da ANS e ser de uso domiciliar. III. Razões de Decidir. Afasta-se a preliminar de cerceamento de defesa, pois a consulta ao NAT- Jus é facultativa e as provas requeridas eram desnecessárias, considerando os documentos já presentes nos autos. A negativa de cobertura do medicamento é abusiva, conforme a Súmula 102 do TJSP, pois há expressa indicação médica e o rol da ANS não pode se sobrepor ao Código de Defesa do Consumidor. Irrelevância de ser o medicamento de uso domiciliar, por ser antineoplásico. Dispositivo. RECURSO DESPROVIDO. (e-STJ fl. 1369)
+Embargos de Declaração: opostos por ASSOCIAÇÃO SANTA SAÚDE, foram rejeitados.
+Recurso especial: alega violação dos arts. 4º, I e VII, da Lei 9.961/2000, 10 e 35-C da Lei 9.656/98. Afirma que o rol de procedimentos e eventos em saúde da ANS é taxativo e que a operadora não está obrigada a custear tratamento não previsto. Aduz que medicamentos de uso domiciliar não possuem cobertura contratual obrigatória, ressalvados os antineoplásicos, hipótese que não se aplica. Argumenta que compete à ANS definir a amplitude das coberturas e que o acórdão contrariou a disciplina legal. Assevera que não há comprovação de eficácia do medicamento e que pareceres técnicos do CONITEC e do NATJUS desaconselham sua utilização.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da Súmula 568 do STJ
+A Corte de origem, ao julgar o recurso de apelação interposto pela recorrente, concluiu que "é irrelevante a alegação de ser tratamento domiciliar, pois se trata de medicamento antineoplásico." (e-STJ fls. 1375).
+Dessa forma, verifica-se que a decisão proferida pelo Tribunal local não destoa da jurisprudência do STJ que é no sentido de considerar-se abusiva a negativa de cobertura de medicamentos antineoplásicos de uso oral registrados na ANVISA.
+Quanto à obrigatoriedade do custeio do medicamento Nintedanibe, prescrito para tratamento de fibrose pulmonar idiopática, objeto dos autos, colacionam-se os seguintes julgados desta Corte: REsp n. 1.942.179/SP, Terceira Turma, DJEN de 30/10/2025; AREsp n. 2.940.859/MG, Terceira Turma, DJEN de 25/9/2025; AgInt no REsp n. 2.125.701/SP, Terceira Turma, DJEN de 14/2/2025; REsp n. 2.205.881/SP, Terceira Turma, DJEN de 15/5/2025; AgInt no AREsp n. 2.705.037/RN, Quarta Turma, DJe de 21/10/2024; AgInt no AREsp n. 2.483.974/SP, Quarta Turma, DJe de 19/4/2024.
+Assim, com fundamento na Súmula 568/STJ, o recurso não deve ser provido.
+Forte nessas razões, com fundamento no art. 932, IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 15% sobre o valor da causa (e-STJ fl. 1375) para 17% (dezessete por cento).
+Previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C COMPENSAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. MEDICAMENTO ANTINEOPLÁSICO. RECUSA DE COBERTURA INDEVIDA. SÚMULA 568/STJ.
+1. Ação de obrigação de fazer c/c compensação por danos morais.
+2. Considera-se abusiva a negativa de cobertura de medicamentos antineoplásicos de uso oral registrados na ANVISA. Precedentes.
+3. Recurso especial conhecido e não provido.
