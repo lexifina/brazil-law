@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 03/12/2025 a 09/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Daniela Teixeira, Humberto Martins e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+Não participou do julgamento a Sra. Ministra Nancy Andrighi.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO INTERNO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CONTRATO DE PERMUTA. OBRIGAÇÃO DE FAZER SEM PRAZO DETERMINADO. EXIGIBILIDADE. NECESSIDADE DE AÇÃO DE CONHECIMENTO PRÉVIA. REEXAME DE FATOS E CLÁUSULAS CONTRATUAIS. SÚMULAS 5 E 7 DO STJ. IMPOSSIBILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. Aplicação do princípio da fungibilidade recursal para receber embargos de declaração com nítido caráter infringente como agravo interno, em homenagem à economia processual.
+2. Juízo de retratação exercido para afastar a incidência da Súmula 284 do STF, uma vez demonstrado que o recurso especial impugnou o fundamento central do acórdão estadual.
+3. Controvérsia centrada na exigibilidade de título executivo extrajudicial consistente em contrato de permuta com obrigação de fazer desprovida de prazo determinado para aprovação de projeto e construção de empreendimento imobiliário.
+4. O Tribunal de origem concluiu, mediante análise do contexto fático e das cláusulas contratuais, que a complexidade da obrigação pactuada e a ausência de termo certo exigem prévia ação de conhecimento para aferição do inadimplemento, não bastando a constituição em mora por notificação extrajudicial.
+5. Reversão do entendimento para reconhecer a exigibilidade do título demandaria revolvimento do acervo fático-probatório e reinterpretação de cláusulas contratuais, providências vedadas em recurso especial.
+6. Incidência dos óbices previstos nas Súmulas 5 e 7 desta Corte Superior.
+7. Embargos de declaração recebidos como agravo interno. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por GERIVÁ ADMINISTRAÇÃO, EMPREENDIMENTOS E PARTICIPAÇÕES LTDA. e COPEN COMPANHIA DE PROJETOS E ENGENHARIA LTDA. (GERIVÁ e COPEN) contra decisão monocrática de minha lavra, que conheceu do agravo em recurso especial para não conhecer do apelo (e-STJ, fls. 765 a 768).
+A decisão aplicou a Súmula nº 284 do STF, por entender que as razões do recurso especial estavam dissociadas dos fundamentos do acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo.
+Nas razões do presente recurso, originariamente oposto como embargos de declaração, GERIVÁ e COPEN alegam que a decisão monocrática partiu de premissa equivocada ao não considerar o acórdão integrativo dos embargos de declaração opostos na origem. Sustentam que o recurso especial impugnou o fundamento central do julgado estadual, qual seja, a tese de que a mora ex persona, em obrigações complexas e sem prazo determinado, não confere exigibilidade ao título, sendo necessária prévia ação de conhecimento. Requerem a reforma da decisão para que o recurso especial seja conhecido e provido ( e-STJ , fls. 771 a 776).
+Intimada, a parte agravada, 3Z REALTY DESENVOLVIMENTO IMOBILIÁRIO S.A. e 3Z JABORANDI EMPREENDIMENTOS IMOBILIÁRIOS LTDA. (3Z REALTY e 3Z JABORANDI), apresentou impugnação, pugnando pela manutenção da decisão recorrida e pela condenação dos agravantes por litigância de má-fé (e-STJ, fls. 781 a 786).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO INTERNO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CONTRATO DE PERMUTA. OBRIGAÇÃO DE FAZER SEM PRAZO DETERMINADO. EXIGIBILIDADE. NECESSIDADE DE AÇÃO DE CONHECIMENTO PRÉVIA. REEXAME DE FATOS E CLÁUSULAS CONTRATUAIS. SÚMULAS 5 E 7 DO STJ. IMPOSSIBILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. Aplicação do princípio da fungibilidade recursal para receber embargos de declaração com nítido caráter infringente como agravo interno, em homenagem à economia processual.
+2. Juízo de retratação exercido para afastar a incidência da Súmula 284 do STF, uma vez demonstrado que o recurso especial impugnou o fundamento central do acórdão estadual.
+3. Controvérsia centrada na exigibilidade de título executivo extrajudicial consistente em contrato de permuta com obrigação de fazer desprovida de prazo determinado para aprovação de projeto e construção de empreendimento imobiliário.
+4. O Tribunal de origem concluiu, mediante análise do contexto fático e das cláusulas contratuais, que a complexidade da obrigação pactuada e a ausência de termo certo exigem prévia ação de conhecimento para aferição do inadimplemento, não bastando a constituição em mora por notificação extrajudicial.
+5. Reversão do entendimento para reconhecer a exigibilidade do título demandaria revolvimento do acervo fático-probatório e reinterpretação de cláusulas contratuais, providências vedadas em recurso especial.
+6. Incidência dos óbices previstos nas Súmulas 5 e 7 desta Corte Superior.
+7. Embargos de declaração recebidos como agravo interno. Agravo interno desprovido.
+VOTO
+De início, tendo em vista o nítido caráter infringente e o propósito de submeter a decisão monocrática ao reexame do Colegiado, recebo os embargos de declaração como agravo interno, com fundamento no princípio da fungibilidade recursal.
+Assiste razão a GERIVÁ e COPEN ao afirmarem que o recurso especial buscou impugnar a tese jurídica firmada pelo Tribunal paulista, especialmente após a complementação realizada no julgamento dos embargos de declaração na origem. Desse modo, reconsidero a aplicação da Súmula nº 284 do STF.
+Apesar de superado tal óbice, o recurso especial não comporta conhecimento por outros fundamentos.
+A controvérsia, como posta, reside na verificação da exigibilidade de título executivo extrajudicial que instrumentaliza contrato de permuta de imóvel, com obrigação de fazer sem prazo determinado, consistente na aprovação de projeto e construção de empreendimento imobiliário.
+O Tribunal de Justiça do Estado de São Paulo, em acórdão de relatoria da Desembargadora Marcia Dalla Déa Barone, soberano na análise das provas e das cláusulas contratuais, concluiu que, apesar da certeza e liquidez do título, sua exigibilidade estava comprometida.
+Assentou o acórdão recorrido, complementado pelo julgamento dos embargos de declaração, que:
+Assim, embora a inércia da parte embargada em garantir a aprovação do empreendimento tenha sido expressamente reconhecida, isso não implica, por si só, a existência do inadimplemento, mormente porque, em se tratando de contrato que envolve relações complexas e, ainda, considerando a ausência de prazo previamente fixado, deve a questão ser discutida em sede de ação de conhecimento, sob o crivo do contraditório e da ampla defesa, e não diretamente pela via executiva.
+De outro lado, é inegável que, em se tratando de hipótese de mora "ex persona", a constituição do devedor em mora produz consequências jurídicas, porém ela não confere pronta exigibilidade ao título extrajudicial, sendo indispensável, como mencionado acima, prévia ação de conhecimento a fim de garantir o inequívoco preenchimento dos requisitos estabelecidos pelo Artigo 786 do Código de Processo Civil. (e-STJ, fls. 680 a 689).
+Verifica-se, portanto, que a conclusão do Tribunal bandeirante foi alcançada após minuciosa análise do contexto fático da lide e da avença celebrada entre as partes. Para reverter tal entendimento e reconhecer a exigibilidade do título, seria necessário reexaminar os fatos da causa e interpretar as cláusulas do contrato, a fim de aferir se a simples notificação extrajudicial seria suficiente para caracterizar o inadimplemento, considerando a natureza complexa da obrigação e as circunstâncias que envolveram a demora na aprovação do projeto. Tal procedimento é vedado em recurso especial, por força dos óbices contidos nas Súmulas 5 e 7 desta Corte.
+Dessa forma, a pretensão recursal não visa a conferir nova qualificação jurídica a fatos incontroversos, mas sim a reexaminar a premissa fática estabelecida na origem de que a aferição do inadimplemento, no caso concreto, demanda dilação probatória, o que afasta a adequação da via executiva.
+Nessas condições, recebo os embargos de declaração como agravo interno e NEGO PROVIMENTO ao agravo interno.
+É o voto.
