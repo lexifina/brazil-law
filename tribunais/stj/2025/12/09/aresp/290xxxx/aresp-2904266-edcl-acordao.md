@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 03/12/2025 a 09/12/2025, por unanimidade, acolher os embargos de declaração, com efeitos modificativos, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Daniela Teixeira, Humberto Martins e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+Não participou do julgamento a Sra. Ministra Nancy Andrighi.
+EMENTA
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO. VÍCIOS ELENCADOS NO ART. 1.022 DO CPC. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. VERIFICADO. EMBARGOS ACOLHIDOS, COM EFEITOS INFRINGENTES.
+1. Embargos de declaração opostos contra decisão que fixou honorários advocatícios sucumbenciais por equidade, nos termos do art. 85, § 8º, do CPC/2015, considerando inestimável o proveito econômico obtido pelos embargantes
+2. Há duas questões em discussão: (i) saber se os honorários advocatícios sucumbenciais devem ser fixados por equidade ou por percentual sobre o valor atualizado da causa, nos termos dos §§ 2º e 3º do art. 85 do CPC; e (ii) saber se houve omissão e erro material na decisão embargada quanto à fixação dos honorários sucumbenciais.
+3. Os embargos de declaração são cabíveis, nos termos do art. 1.022 do CPC, para sanar obscuridade, contradição, omissão ou erro material na decisão embargada, sendo sua natureza integrativa e aclaratória.
+4. A jurisprudência do STJ reconhece que a fixação de honorários advocatícios sucumbenciais deve observar os percentuais previstos nos §§ 2º e 3º do art. 85 do CPC, sendo o critério de equidade aplicável apenas em casos excepcionais, quando o proveito econômico for inestimável ou irrisório, ou o valor da causa for muito baixo.
+5. A decisão embargada apresentou omissão quanto à fixação dos honorários sucumbenciais, sendo necessário o acolhimento dos embargos com efeitos modificativos para ajustar o critério de fixação à regra geral do art. 85 do CPC.
+6. No caso concreto, não houve condenação, e o proveito econômico pode ser considerado o valor da causa, sendo aplicável a fixação dos honorários em percentual sobre esse valor.
+7. Embargos de declaração acolhidos, com efeitos infringentes.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por MÁRCIO FERNANDO LOUREIRO, MFL ONLINE COMÉRCIO DE CALÇADOS LTDA. e MPTG COMÉRCIO DE CALÇADOS LTDA. (MÁRCIO e outros) contra decisão de minha relatoria, assim ementada:
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. AJUIZAMENTO CONTRA PESSOAS JURÍDICAS EXTINTAS ANTES DO AJUIZAMENTO DA AÇÃO. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. VERBA EM FAVOR DO ADVOGADO. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE PROVIDO. 1. Conforme o art. 85, § 14, do CPC, os honorários constituem direito do advogado e têm natureza alimentar, com privilégio sobre créditos oriundos da legislação do trabalho. Ou seja, os honorários sucumbenciais pertencem ao advogado, e não à parte. 2. No caso, os honorários advocatícios devem ser fixados por equidade, nos termos do art. 85, § 8º, do CPC/2015, uma vez que, não sendo a embargante parte na ação executiva, não se pode vincular a verba sucumbencial ao valor da causa dado na execução, sendo inestimável, no caso, o proveito econômico por ela auferido. 3. Agravo conhecido para dar parcial provimento ao recurso especial. (e-STJ, fl. 424)
+Nas razões dos presentes aclaratórios, MARCIO e outros apontaram (1) omissão quanto à fixação dos honorários sucumbenciais, sustentando a necessidade de aplicação de percentual entre 10% e 20% sobre o valor atualizado da execução; (2) erro material, bem como a necessidade de sanar supostas omissões, com efeitos modificativos, para ajustar o critério de fixação da verba honorária à regra geral do art. 85 do CPC (e-STJ, fls. 458/459).
+Foi apresentada impugnação (e-STJ, fls. 458-460).
+É o relatório.
+EMENTA
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO. VÍCIOS ELENCADOS NO ART. 1.022 DO CPC. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. VERIFICADO. EMBARGOS ACOLHIDOS, COM EFEITOS INFRINGENTES.
+1. Embargos de declaração opostos contra decisão que fixou honorários advocatícios sucumbenciais por equidade, nos termos do art. 85, § 8º, do CPC/2015, considerando inestimável o proveito econômico obtido pelos embargantes
+2. Há duas questões em discussão: (i) saber se os honorários advocatícios sucumbenciais devem ser fixados por equidade ou por percentual sobre o valor atualizado da causa, nos termos dos §§ 2º e 3º do art. 85 do CPC; e (ii) saber se houve omissão e erro material na decisão embargada quanto à fixação dos honorários sucumbenciais.
+3. Os embargos de declaração são cabíveis, nos termos do art. 1.022 do CPC, para sanar obscuridade, contradição, omissão ou erro material na decisão embargada, sendo sua natureza integrativa e aclaratória.
+4. A jurisprudência do STJ reconhece que a fixação de honorários advocatícios sucumbenciais deve observar os percentuais previstos nos §§ 2º e 3º do art. 85 do CPC, sendo o critério de equidade aplicável apenas em casos excepcionais, quando o proveito econômico for inestimável ou irrisório, ou o valor da causa for muito baixo.
+5. A decisão embargada apresentou omissão quanto à fixação dos honorários sucumbenciais, sendo necessário o acolhimento dos embargos com efeitos modificativos para ajustar o critério de fixação à regra geral do art. 85 do CPC.
+6. No caso concreto, não houve condenação, e o proveito econômico pode ser considerado o valor da causa, sendo aplicável a fixação dos honorários em percentual sobre esse valor.
+7. Embargos de declaração acolhidos, com efeitos infringentes.
+VOTO
+Os embargos de declaração merecem ser acolhidos, com efeitos infringentes.
+A natureza dos embargos de declaração é integrativa e aclaratória, sendo cabíveis, nos termos do art. 1.022 do CPC, somente quando houver, na decisão embargada, obscuridade, contradição, omissão ou erro material. Sua finalidade é viabilizar a compreensão exata do pronunciamento judicial, sem, contudo, permitir a rediscussão do mérito da causa ou a modificação do julgado, salvo nas hipóteses legais e apenas para a supressão dos referidos vícios internos da decisão.
+Nas razões dos aclaratórios, MARCIO e outros apontaram que a jurisprudência do STJ reconhece a fixação de honorários em percentual. Além disso, trouxeram precedentes que o critério de equidade é excepcional, aplicável apenas quando o proveito econômico é absolutamente inestimável, devendo-se, sempre que possível, fixar percentual nos termos dos §§ 2º e 3º do art. 85 do CPC.
+Sustentam, ainda, que os honorários advocatícios não guardam qualquer proporcionalidade com o trabalho técnico desenvolvido; complexidade da matéria; êxito total obtido pelos Embargantes, com a exclusão do polo passivo e extinção da execução contra eles.
+O Código de Processo Civil prevê em seu § 2º do art. 85 que os honorários serão fixados entre o mínimo de dez e o máximo de vinte por cento sobre o valor da condenação, do proveito econômico obtido ou, não sendo possível mensurá-lo, sobre o valor atualizado da causa.
+Além disso, o STJ tem firmado entendimento de que, em regra, os valores serão fixados entre 10% a 20%, da seguinte maneira: (i) da condenação; (ii) proveito econômico obtido; (iii) valor atualizado da causa.
+Confira-se:
+PROCESSUAL CIVIL. RECURSO ESPECIAL SOB O RITO DOS RECURSOS REPETITIVOS. ART. 85, §§ 2º, 3º, 4º, 5º, 6º E 8º, DO CPC. HONORÁRIOS SUCUMBENCIAIS. VALORES DA CONDENAÇÃO, DA CAUSA OU PROVEITO ECONÔMICO DA DEMANDA ELEVADOS. IMPOSSIBILIDADE DE FIXAÇÃO POR APRECIAÇÃO EQUITATIVA. RECURSO ESPECIAL CONHECIDO E PROVIDO. RECURSO JULGADO SOB A SISTEMÁTICA DOS ARTS. 1.036 E SEGUINTES DO CPC/2015, C/C OS ARTS. 256-N E SEGUINTES DO REGIMENTO INTERNO DO STJ.
+ ..
+23. Assim, não se configura a necessidade de modulação dos efeitos do julgado, tendo em vista que tal instituto visa assegurar a efetivação do princípio da segurança jurídica, impedindo que o jurisdicionado de boa-fé seja prejudicado por seguir entendimento dominante que terminou sendo superado em momento posterior, o que, como se vê claramente, não ocorreu no caso concreto.
+24. Teses jurídicas firmadas: i) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória, nesses casos, a observância dos percentuais previstos nos §§ 2º ou 3º do art. 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa.
+ii) Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo.
+ ..
+26. Recurso julgado sob a sistemática dos arts. 1.036 e seguintes do CPC/2015 e arts. 256-N e seguintes do Regimento Interno do STJ.
+(REsp n. 1.906.623/SP, relator Ministro Og Fernandes, Corte Especial, julgado em 16/3/2022, DJe de 31/5/2022 - sem destaque no original)
+Considerando que no caso não houve condenação, bem como o proveito econômico pode ser considerado o valor da causa, fixo o valor dos honorários em 10% do valor da causa.
+Nessas condições, ACOLHO os embargos de declaração, com efeitos infringentes, para a fixação dos honorários advocatícios sucumbenciais em 10% do valor da causa.
+É o voto.
