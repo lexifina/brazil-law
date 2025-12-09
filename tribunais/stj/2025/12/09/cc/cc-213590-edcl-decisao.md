@@ -1,0 +1,17 @@
+DECISÃO
+Examinam-se embargos de declaração opostos por COMPANHIA ACUCAREIRA CENTRAL SUMAUMA - EM RECUPERAÇÃO JUDICIAL contra decisão unipessoal que não conheceu do conflito de competência.
+Em suas razões, sustenta que a decisão incorreu em omissão, ao deixar de enfrentar o teor da decisão proferida pelo juízo da recuperação judicial que, além de declarar a quitação do crédito objeto da execução trabalhista, determinou a expedição de ofícios para a extinção das execuções. Argumenta que tal comando alcança créditos trabalhistas e impede a responsabilização de terceiros, mostrando-se incompatível com o prosseguimento da execução trabalhista em face dos diretores da recuperanda, o que caracteriza o alegado conflito. Pugna, ao final, pelo suprimento do vício apontado e o conhecimento do conflito.
+É O BREVE RELATÓRIO. DECIDE-SE.
+Nos termos do art. 1.022 do CPC, os embargos de declaração somente são cabíveis nas hipóteses de obscuridade, contradição, omissão ou erro material no julgado impugnado, situações não verificadas na hipótese.
+A decisão embargada foi expressa ao afirmar que não configura conflito de competência a constrição de bens dos sócios da empresa em recuperação judicial, à qual foi aplicada, na Justiça Especializada, a desconsideração da personalidade jurídica.
+Tal compreensão encontra amparo na jurisprudência desta Corte: CC 124.065/SP, Segunda Seção, DJe 3/11/2016; AgInt no CC 180.309/SP, Segunda Seção, D Je 22/10/2021; AgInt no CC 155.358/SP, Segunda Seção, D Je 23/5/2018 e AgInt no CC 152.680/MG; Segunda Seção, DJe 17/10/2017.
+De igual modo, ficou claro no decisum que o conflito de competência, incidente de cognição restrito à definição do juízo competente para exercer a jurisdição em determinado processo, não pode ser utilizado para exigir pronunciamento acerca de matérias impugnáveis por recurso próprio, tais como a eficácia das cláusulas do plano de recuperação judicial ou sua repercussão sobre o incidente de desconsideração da personalidade jurídica instaurado perante a Justiça do Trabalho.
+Por fim, impõe-se salientar que a alegada declaração, pelo juízo recuperacional, de quitação do crédito trabalhista em relação à recuperanda - fundada em cláusula do plano que prevê dação em pagamento mediante precatório futuro (e-STJ fls. 105-109) - não colide com a determinação do Juízo Laboral de prosseguir com a execução contra os sócios da embargante (e-STJ fls. 79-84). Isso porque se tratam de comandos que não se excluem reciprocamente.
+A propósito, esta Corte assinala que, não sendo os sócios da empresa destinatários da novação operada a partir da homologação do plano de soerguimento do devedor principal, permanecem eles obrigados ao pagamento da integralidade da dívida, se e quando forem acionados pelo credor. Confiram-se: REsp 2.207.272/DF, Terceira Turma, DJe 28/9/2023; REsp 2.100.859/RJ, Terceira Turma, DJe 2/4/2024 e REsp 2.129.985/SP, Terceira Turma, DJe 20/6/2024
+Assim, os argumentos apresentados pela embargante, sob o pretexto de omissão, traduzem apenas inconformismo com o não conhecimento do incidente, o que não autoriza o manejo dos embargos de declaração, impondo-se, portanto, a sua rejeição.
+Forte nessas razões, REJEITO os embargos de declaração.
+Publique-se. Intimem-se. Oficie-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO CONFLITO DE COMPETÊNCIA. OMISSÃO NO JULGADO. INEXISTÊNCIA.
+1. Rejeitam-se os embargos de declaração quando ausente vício a ser sanado.
+2. Embargos de declaração rejeitados.
