@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 03/12/2025 a 09/12/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Regina Helena Costa, Gurgel de Faria, Paulo Sérgio Domingues e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NECESSIDADE DE COMBATE A TODOS OS FUNDAMENTOS DO CAPÍTULO IMPUGNADO. EXIGÊNCIA CONTIDA NO ART. 1.021, § 1º, DO CPC. SÚMULA N. 182/STJ.
+1. A Corte Especial, ao julgar os EREsp n. 1.424.404/SP (Rel. Ministro Luis Felipe Salomão, DJe de 17/11/2021), decidiu que, em relação ao agravo interno manejado contra decisão monocrática de relator, aplicar-se-á o óbice encartado na Súmula n. 182/STJ quando a parte agravante deixar de refutar a todos os fundamentos empregados no capítulo autônomo por ela impugnado.
+2. Agravo interno não conhecido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno manejado por Pneu Free do Brasil Comércio Eletrônico Ltda. contra a decisão de fls. 331/332, que não conheceu do agravo em recurso especial, em razão de a parte recorrente não ter rebatido, de maneira específica, todos os fundamentos adotados pelo juízo negativo de admissibilidade, atraindo a incidência da Súmula n. 182 desta Corte Superior, a saber, a impossibilidade de conhecimento da insurgência especial ante a deficiência de cotejo analítico.
+A parte agravante, em suas razões, sustenta, em síntese, que: (i) "houve, sim, impugnações específicas às violações presentes na decisão que negou seguimento ao recurso especial  .. . Para que não restem dúvidas, confira-se que o agravo: (a) impugnou o não reconhecimento de ofensa aos artigos 489 e 1.022 do CPC (e-STJ Fl.300/302)  ..  (b) enfrentou a suposta violação à Súmula 7 do STJ (e-STJ Fl.302/304) (c) enfrentou a aplicação do art. 783 do CPC e do art. 151, II, do CTN, sustentando a suspensão da exigibilidade pelo depósito judicial, ausência de pressuposto de exigibilidade da execução, e a consequente necessidade de extinção da execução fiscal (e-STJ Fl.306/307)  ..  (d) ainda que não se considere o depósito judicial realizado, também se suscitou que o crédito tributário em execução no processo de origem não era exigível, devido a uma ordem concessiva de segurança com efeitos imediatos, violando a regra estampada no art. 783 do CPC, que deu base ao recurso especial (e-STJ Fl.308/310)" (fls. 340/343); e (ii) " o  Agravante busca apenas o que lhe é de direito: a análise clara e objetiva dos diversos vícios apontados no acórdão do E. TJ/SP, que a Corte de origem se recusa a examinar, apesar de o Agravante ter apontado, em diversas oportunidades, que questões cruciais para a solução do caso não foram apreciadas, em especial a violação aos requisitos da execução, com a existência de depósito judicial, e o efeito das decisões concessivas de segurança" (fl. 345).
+Requer a reconsideração do decisum alvejado ou a submissão da insurgência ao Órgão colegiado.
+Aberta vista à parte agravada, decorreu in albis o prazo para resposta (fl. 355).
+É o relatório.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NECESSIDADE DE COMBATE A TODOS OS FUNDAMENTOS DO CAPÍTULO IMPUGNADO. EXIGÊNCIA CONTIDA NO ART. 1.021, § 1º, DO CPC. SÚMULA N. 182/STJ.
+1. A Corte Especial, ao julgar os EREsp n. 1.424.404/SP (Rel. Ministro Luis Felipe Salomão, DJe de 17/11/2021), decidiu que, em relação ao agravo interno manejado contra decisão monocrática de relator, aplicar-se-á o óbice encartado na Súmula n. 182/STJ quando a parte agravante deixar de refutar a todos os fundamentos empregados no capítulo autônomo por ela impugnado.
+2. Agravo interno não conhecido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): De acordo com o art. 1.021, § 1º, do CPC, constitui ônus da parte recorrente impugnar especificamente os pilares do decisório combatido, isto é, deve deixar evidente o seu desacerto, com a consequente desconstituição das razões de decidir adotadas no julgamento singular.
+Esse é o teor do Enunciado n. 182/STJ, que assim dispõe: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida."
+A Corte Especial, ao julgar os EREsp n. 1.424.404/SP (Rel. Ministro Luis Felipe Salomão, DJe de 17/11/2021), decidiu que, em relação ao agravo interno manejado contra decisão monocrática de relator, aplicar-se-á o óbice encartado na Súmula n. 182/STJ quando a parte agravante: a) deixar de empreender combate ao único ou a todos os capítulos autônomos do decisório agravado; e b) deixar de refutar a todos os fundamentos empregados no capítulo autônomo por ela impugnado.
+Na espécie, o decisum agravado consignou que o agravo em recurso especial não comporta conhecimento ante a incidência do empeço do supradito verbete sumular, tendo em vista a falta de refutação específica, nas razões de agravo, do alicerce adotado pelo juízo negativo de admissibilidade referente à impossibilidade de conhecimento do apelo raro pela alínea c do permissivo constitucional ante a deficiência do cotejo analítico apresentado, porquanto "deixou o recorrente de atender suficientemente ao requisito previsto no art. 1029, § 1º, do Código de Processo Civil, e no art. 255, § 1º, do RISTJ" (cf. fl. 292).
+Nas razões do agravo interno em exame, todavia, a parte não empreendeu, de maneira suficiente e específica, combate aos referidos pilares da decisão agravada, limitando-se a sustentar, em seu petitório, questões de mérito do apelo nobre inadmitido na origem. Nesse contexto, incide o Enunciado n. 182/STJ.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RAZÕES DE RECURSO DISSOCIADAS DOS FUNDAMENTOS SUFICIENTES CONTIDOS NA DECISÃO AGRAVADA. ART. 1.021, § 1º, DO CPC/2015 E SÚMULAS 283 E 284/STF. AGRAVO INTERNO NÃO CONHECIDO.
+1. A decisão agravada (fls. 512-516, e-STJ) adotou os seguintes fundamentos: a) inexistência de afronta aos arts 489, § 1º, IV, e 1.022 do CPC/2015; b) incidência da Súmula 280/STF.
+2. In casu, a parte agravante limita-se basicamente a reiterar as razões contidas em seu Recurso Especial, sem contrapor especificamente os fundamentos que dão supedâneo ao decisum hostilizado.
+3. Não pode ser admitido o Agravo Interno que não ataca especificamente os fundamentos da decisão agravada e traz razões totalmente dissociadas da decisão contra a qual se insurge, pois fere o disposto no art. 1.021, § 1º, do CPC/2015 ("Na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada").
+4. Outrossim, tal atitude fere também os óbices das Súmulas 283 e 284 do STF, ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo.
+5. Agravo Interno não conhecido.
+(AgInt no AREsp n. 2.119.044/BA, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 24/10/2022, DJe de 4/11/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO. CLÁUSULA DE EXCLUSÃO. DESTAQUE. AUSÊNCIA. REEXAME. SÚMULAS N. 5 E 7/STJ. FUNDAMENTOS. IMPUGNAÇÃO. AUSÊNCIA. ART. 1.021, § 1º, DO CPC. SÚMULA N. 182/STJ. NÃO CONHECIMENTO.
+1. Nos termos do art. 1021, § 1º, do Código de Processo Civil/2015 e da Súmula 182/STJ, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+2. Agravo interno não conhecido.
+(AgInt no AREsp n. 1.861.630/RS, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 14/3/2022, DJe de 22/3/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL. RECONVENÇÃO. AUSÊNCIA DE IMPUGNAÇÃO NO AGRAVO INTERNO DE CAPÍTULO AUTÔNOMO DA DECISÃO. MERA PRECLUSÃO. NÃO APLICABILIDADE DA SÚMULA 182/STJ. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. NÃO INDICAÇÃO DO DISPOSITIVO LEGAL COM INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF.
+1. Ação de rescisão do contrato de venda com reserva de propriedade.
+2. A jurisprudência desta Corte se firmou no sentido de que a ausência de impugnação, no agravo interno, de capítulo autônomo e/ou independente da decisão monocrática do relator - proferida ao apreciar recurso especial ou agravo em recurso especial - apenas acarreta a preclusão da matéria não impugnada, não atraindo a incidência da Súmula 182 do STJ. Precedente da Corte Especial.
+3. Ressalte-se, contudo, o dever da parte de refutar "em tantos quantos forem os motivos autonomamente considerados" para manter os capítulos decisórios objeto do agravo interno total ou parcial (AgInt no AREsp 895.746/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 9.8.2016, DJe 19.8.2016)
+4. O dissídio jurisprudencial deve ser com provado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+5. Não se conhece do recurso especial quando ausente a indicação expressa do dispositivo legal a que se teria dado interpretação divergente.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.483.647/AM, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 8/4/2024, DJe de 10/4/2024.)
+ANTE O EXPOSTO, não conheço do agravo interno.
+É como voto.
