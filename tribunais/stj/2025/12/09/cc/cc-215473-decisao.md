@@ -1,0 +1,13 @@
+DECISÃO
+Cuida-se de conflito entre o r. juízo da 11ª Vara de Execução Fiscal do Distrito Federal - SJ/DF e o r. juízo da Vara de Execução de Títulos Extrajudiciais e Conflitos Arbitrais de Taguatinga/DF, acerca da competência para processar e julgar ação de cobrança ajuizada pelo interessado - CONDOMÍNIO TOP LIFE TAGUATINGA I - MIAMI BEACH - em face de Joilton Nunes da Paixão.
+O MPF entendeu desnecessária a sua manifestação (fls. 424/426).
+É o relatório.
+Decisão.
+A matéria subjacente ao presente incidente encontra-se pacificada no âmbito deste Superior Tribunal de Justiça, de modo a atrair a incidência da Súmula 568/STJ e a possibilidade do exame unipessoal da questão (ut. CC 179.787/PE, Rel. Min. Paulo de Tarso Sanseverino, Dje de 25/05/2021; CC 169.970/SP, Rel. Min. Antonio Carlos Ferreira, Dje de 30/03/2020).
+1. Destaca-se, inicialmente, a competência deste Superior Tribunal de Justiça para o exame do presente conflito, uma vez que envolve juízos vinculados a Tribunais diversos, nos termos do que dispõe o artigo 105, inciso I, alínea "d", da Constituição Federal.
+2. A compreensão deste STJ acerca da competência da Justiça Federal encontra-se consolidada nos seguintes enunciados sumulares, verbis: "Súmula 150/STJ: Compete à Justiça Federal decidir sobre a existência de interesse jurídico que justifique a presença, no processo, da União, suas autarquias ou empresas públicas. Súmula 224/STJ: Excluído do feito o ente federal, cuja presença levara o Juiz Estadual a declinar da competência, deve o Juiz Federal restituir os autos e não suscitar conflito. Súmula 254/STJ: A decisão do Juízo Federal que exclui da relação processual ente federal não pode ser reexaminada no Juízo Estadual."
+Com esse norte hermenêutico, na hipótese, o r. juízo federal da 11ª Vara de Execução Fiscal do Distrito Federal - SJ/DF declarou-se incompetente por entender que a CEF é parte ilegítima e deve ser excluída do polo passivo da demanda.
+Com efeito, nos termos da Súmula n. 254/STJ, não cabe ao Juízo estadual/distrital reexaminar o mérito da decisão prolatada pelo Juízo federal, o que faz atrair sua competência para o exame e julgamento do feito. (ut. AgInt no CC n. 191.468/MT, Rel. Min. Antonio Carlos Ferreira, Segunda Seção, julgado em 2/5/2023, DJe de 5/5/2023).
+3. Do exposto, com fundamento no art. 955, parágrafo único, do CPC c/c Súmula 568/STJ conheço do presente conflito e, por conseguinte, declaro a competência do r. juízo da Vara de Execução de Títulos Extrajudiciais e Conflitos Arbitrais de Taguatinga/DF , nos termos da fundamentação supramencionada.
+Publique-se. Intimem-se. Oficiem-se.
+EMENTA
