@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por RICHARD MICHAEL DE OLIVEIRA contra a decisão do Tribunal de Justiça de São Paulo que inadmitiu recurso especial apresentado em face do acórdão exarado no julgamento da Apelação Criminal n. 1500792-74.2020.8.26.0616.
+O Ministério Público Federal apresentou parecer opinando pelo não conhecimento e desprovimento do agravo, com concessão de ofício para afastar a agravante da calamidade pública, com redimensionamento da pena (fls. 1.025/1.029).
+É o relatório.
+O agravo é inadmissível.
+Inicialmente, esclareço que a decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos, inclusive de forma específica, suficiente e pormenorizada, não sendo suficientes meras alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência do óbice da Súmula 182/STJ (AgRg nos EDcl no AREsp n. 2.985.942/MA, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 16/9/2025, DJEN de 25/9/2025).
+Ao que se observa, o Tribunal de origem inadmitiu o apelo nobre pelos seguintes fundamentos: i) inadequação do recurso especial para exame de contrariedade à Constituição Federal; ii) ausência de impugnação concreta e específica aos fundamentos da decisão agravada, com incidência da Súmula 182/STJ; iii) falta de prequestionamento quanto às nulidades suscitadas (Súmulas 211/STJ, 282/STF e 356/STF); iv) não demonstração do dissídio jurisprudencial, por ausência de cotejo analítico e uso indevido de paradigmas, inclusive em habeas corpus (art. 1.029, § 1º, do CPC e art. 255 do RISTJ); e v) incidência da Súmula 7/STJ (fls. 988/991).
+Todavia, a parte agravante, nas razões do agravo em recurso especial, não impugnou, de maneira específica, todos os fundamentos da decisão de inadmissão.
+No que se refere ao óbice da Súmula 182/STJ, limitou-se a afirmar, de modo genérico, a existência de impugnação concreta e a elencar supostas violações legais, sem demonstrar a efetivada impugnação dos fundamentos do acórdão atacado no recurso especial (fls. 999/1.001).
+No tocante ao dissídio jurisprudencial, afirmou genericamente ter juntado paradigmas e realizado cotejo analítico, sem indicar excerto respectivo do recurso especial apto a sustentar tal assertiva, sendo digno de destaque o fato de ter referido a julgados em habeas corpus, inadequados para a comprovação da divergência (fl. 1.001).
+Em relação à Súmula 7/STJ, alega que pretende apenas a valoração jurídica dos elementos e invoca precedente da Terceira Turma cível, mas não demonstra concretamente quais questões poderiam ser decididas mediante revaloração do que já foi fixado pelas instâncias ordinárias, permanecendo o óbice (fls. 1.002/1.003).
+No que tange à inadequação da via para matéria constitucional, reitera ofensas a dispositivos da Constituição Federal, sem recortar a controvérsia ao âmbito infraconstitucional próprio do recurso especial, não afastando o fundamento de inadmissão.
+Por conseguinte, aplica-se, à hipótese dos autos, o art. 932, inciso III, do Código de Processo Civil, c/c o art. 3º do Código de Processo Penal, e a Súmula 182/STJ por analogia.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO DEFICIENTE DOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015, E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA 182/STJ.
+Agravo em recurso especial não conhecido.
