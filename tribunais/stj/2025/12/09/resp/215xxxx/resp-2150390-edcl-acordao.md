@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 03/12/2025 a 09/12/2025, por unanimidade, rejeitar os embargos de declaração, com aplicação de multa, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Paulo Sérgio Domingues, Benedito Gonçalves, Sérgio Kukina e Regina Helena Costa votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. SEGUNDOS EMBARGOS DE DECLARAÇÃO. REQUISITOS. NÃO OCORRÊNCIA. RECURSO PROTELATÓRIO. MULTA. APLICAÇÃO.
+1. Os embargos de declaração, nos termos do art. 1.022 do CPC, têm ensejo quando há obscuridade, contradição, omissão ou erro material no julgado.
+2. A oposição de embargos de declaração com a reiteração das razões esboçadas no recurso integrativo anterior, sem apontar, de fato, omissão, contradição ou obscuridade no acórdão embargado, evidencia o caráter protelatório do presente recurso.
+3. O recurso manifestamente improcedente atrai a multa prevista no art. 1.026, § 2º, do CPC, na razão de 1,0% do valor atualizado da causa.
+4. Embargos de declaração rejeitados com aplicação de multa.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por TRANSBEN TRANSPORTES LTDA. contra acórdão da Primeira Turma, de minha relatoria, que rejeitou os declaratórios anteriormente opostos, assim ementado (e-STJ fl. 536):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. MATÉRIA CONSTITUCIONAL. EXAME. INVIABILIDADE. DIVERGÊNCIA JURISPRUDÊNCIA. DEMONSTRAÇÃO. AUSÊNCIA.
+1. Inexiste violação negativa de prestação jurisdicional, não se vislumbrando nenhum equívoco ou deficiência na fundamentação contida no acórdão recorrido, sendo possível observar que o Tribunal de origem apreciou integralmente a controvérsia, apontando as razões de seu convencimento, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. O recurso especial não é remédio processual adequado para tratar de irresignação fundada em suposta afronta a preceito constitucional, sendo essa atribuição da Suprema Corte, em sede de recurso extraordinário (art. 102, III, da CF/1988).
+3. O dissenso interpretativo deve ser comprovado mediante o cotejo analítico entre acórdãos derivados de situações fático-jurídicas idênticas ou assemelhadas, mas com conclusões discrepantes, de tal sorte que suas razões devem indicar, de forma clara e precisa, as circunstâncias que identificam ou assemelham os casos confrontados, nos termos do art. 1.043, § 4º, do CPC/2015 e do art. 266, § 4º, do RISTJ.
+4. Agravo interno desprovido.
+A parte embargante alega: "o acórdão restou omisso em relação à matéria infraconstitucional, posto que, em sede de especial, asseverou que o Tribunal ao formar juízo ao caso em comento, desconsiderou a sólida fundamentação apresentada pela embargante, violando incisivamente o disposto no art. 3º, II, § 2º, da Lei n. 10.637/2002 e 10.833/2003" (e-STJ fl. 546).
+Afirma ser "inconteste que fora exaustivamente demonstrado no recurso especial a divergência jurisprudencial" (e-STJ fl. 547).
+Segue afirmando que "a Primeira Turma do Superior Tribunal de Justiça ao rejeitar os embargos de declaração incorreu em omissão acerca da violação ao art. 1.022, II, do Código de Processo Civil, indicado no recurso especial, impedindo a análise das omissões suscitadas pela embargante, prejudicando o direito da empresa em ter seu direito reconhecido" (e-STJ fl. 547).
+Sem impugnação (certidão de e-STJ fl. 556).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. SEGUNDOS EMBARGOS DE DECLARAÇÃO. REQUISITOS. NÃO OCORRÊNCIA. RECURSO PROTELATÓRIO. MULTA. APLICAÇÃO.
+1. Os embargos de declaração, nos termos do art. 1.022 do CPC, têm ensejo quando há obscuridade, contradição, omissão ou erro material no julgado.
+2. A oposição de embargos de declaração com a reiteração das razões esboçadas no recurso integrativo anterior, sem apontar, de fato, omissão, contradição ou obscuridade no acórdão embargado, evidencia o caráter protelatório do presente recurso.
+3. O recurso manifestamente improcedente atrai a multa prevista no art. 1.026, § 2º, do CPC, na razão de 1,0% do valor atualizado da causa.
+4. Embargos de declaração rejeitados com aplicação de multa.
+VOTO
+Os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, de contradição, de omissão ou de erro material, art. 1.022 do CPC, vícios inexistentes na espécie.
+De início, cabe ressaltar, mais uma vez, que o recurso especial tem origem em mandado de segurança no qual a ora embargante objetiva o aproveitamento de créditos da Contribuição ao PIS e à COFINS, no regime não cumulativo, das despesas com óleo diesel adquirido para o desenvolvimento de suas atividades no período de 1º/3/2021 a 30/4/21, em face do descumprimento da anterioridade nonagesimal pelo Decreto n. 10.638/2021. Em primeiro grau de jurisdição, a ordem foi denegada. Em sede de apelação, o Tribunal Regional Federal da 4ª Região negou provimento à apelação da parte impetrante, ora embargante.
+A motivação exposta neste recurso integrativo não evidenciou nenhum indicativo de omissão nos acórdãos proferidos pela Primeira Turma, nos quais ficou assentado que o Tribunal de origem não incorreu em ofensa ao art. 1.022, II, do CPC. Foi referido que não cabe, a esta Corte Superior, tratar de irresignação fundada em suposta ofensa ao texto constitucional. Por fim, foi asseverado que a divergência jurisprudencial não foi comprovada nos moldes legais.
+Eis a ementa do acórdão que julgou o agravo interno interposto pela ora embargante (e-STJ fl. 499):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. MATÉRIA CONSTITUCIONAL. EXAME. INVIABILIDADE. DIVERGÊNCIA JURISPRUDÊNCIA. DEMONSTRAÇÃO. AUSÊNCIA.
+1. Inexiste violação negativa de prestação jurisdicional, não se vislumbrando nenhum equívoco ou deficiência na fundamentação contida no acórdão recorrido, sendo possível observar que o Tribunal de origem apreciou integralmente a controvérsia, apontando as razões de seu convencimento, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. O recurso especial não é remédio processual adequado para tratar de irresignação fundada em suposta afronta a preceito constitucional, sendo essa atribuição da Suprema Corte, em sede de recurso extraordinário (art. 102, III, da CF/1988).
+3. O dissenso interpretativo deve ser comprovado mediante o cotejo analítico entre acórdãos derivados de situações fático-jurídicas idênticas ou assemelhadas, mas com conclusões discrepantes, de tal sorte que suas razões devem indicar, de forma clara e precisa, as circunstâncias que identificam ou assemelham os casos confrontados, nos termos do art. 1.043, § 4º, do CPC/2015 e do art. 266, § 4º, do RISTJ.
+4. Agravo interno desprovido.
+Não obstante a clareza dos fundamentos adotados, nos primeiros embargos de declaração, a ora embargante insistiu na suscitada negativa de prestação jurisdicional, por entender que seria "impossível concluir que o acórdão proferido pelo Tribunal Regional Federal da 4ª Região não incorreu em violação ao art. 1.022, II, do Código de Processo Civil" (e-STJ fl. 515). Aduziu que teria sido demonstrado "detalhadamente, no deslinde processual, o direito da embargante ao crédito de PIS e COFINS, relacionado ao óleo diesel adquirido no período entre 01/03/2021 a 30/04/2021" (e-STJ fl. 515). Argumentou que a matéria tratada seria de índole infraconstitucional que teria demonstrado o dissídio jurisprudencial.
+Sobre essas argumentações, restou consignado, no voto condutor do julgado ora embargado, que a parte embargante insistiu "tão somente no argumento de questões amplamente debatidas no acórdão embargado, não havendo vício de integração a ser acolhido" (e-STJ fl. 539).
+Nos presentes embargos de declaração, a ora embargante repisa esses argumentos, conforme exposto no relatório, pois entende que houve negativa de prestação jurisdicional, violação à legislação infraconstitucional, a saber: "art. 3º, II, § 2º, da Lei n. 10.637/2002 e 10.833/2003" (e-STJ fl. 546), e que teria sido "exaustivamente demostrado no recurso especial a divergência jurisprudencial" (e-STJ fl. 547).
+Assim, resta evidente que não há mesmo vício de integração a ser sanado, de modo que estes segundos embargos de declaração, por buscarem o pronunciamento sobre questões já esclarecidas nos julgados anteriores, configuram expediente nitidamente procrastinatório a ensejar a aplicação da multa processual prevista no art. 1.026, § 2º, do CPC.
+Ilustrativamente:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. OMISSÃO E CONTRADIÇÃO. AUSÊNCIA DE VÍCIO. VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE DE ANÁLISE EM RECURSO ESPECIAL. CARÁTER PROTELATÓRIO DOS EMBARGOS DE DECLARAÇÃO. ABUSIVIDADE MANIFESTA. APLICAÇÃO DE MULTA. POSSIBILIDADE. ART. 1.026, § 2º, DO CPC/2015.
+I - A fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada, pelo que ausente pressuposto a ensejar a oposição de embargos de declaração, nos termos do art. 1.022 do Código de Processo Civil de 2015.
+II - Não compete a esta Corte Superior a análise de suposta violação de dispositivos constitucionais, ainda que para efeito de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal, ex vi art. 102, III, da Constituição da República.
+III - A impropriedade da alegação dos segundos embargos de declaração opostos com o escopo de rediscutir a suposta existência de vícios no julgado enfrentados anteriormente, nos primeiros embargos declaratórios, constitui prática processual abusiva e manifestamente protelatória, sujeita à aplicação da multa prevista no art. 1.026, § 2º, do Código de Processo Civil de 2015.
+IV - Embargos de declaração rejeitados, com aplicação de multa de 1% (um por cento) sobre o valor atualizado da causa.
+(EDcl nos EDcl no AgInt no REsp n. 2.117.791/MG, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 7/10/2024, DJe de 9/10/2024.)
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ACÓRDÃO EMBARGADO. FUNDAMENTO INATACADO. SÚMULA Nº 182/STJ. MERO INCONFORMISMO. RECURSO PROTELATÓRIO. SEGUNDOS EMBARGOS REJEITADOS, COM APLICAÇÃO DE MULTA.
+1. Reiteração das alegações trazidas nos aclaratórios anteriores, que foram refutadas pelo Colegiado. Inexistência de vício no julgado.
+2. A pretensão do embargante de, novamente, tentar modificar o julgado que lhe foi desfavorável, repetindo os mesmos argumentos já examinados pelo Colegiado, caracteriza intuito protelatório a autorizar a aplicação de multa, nos termos do artigo 1.026, § 2º, do Código de Processo Civil.
+3. Segundos embargos declaratórios rejeitados, com aplicação de multa.
+(EDcl nos EDcl no AgInt no REsp n. 2.086.426/SP, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, julgado em 30/9/2024, DJe de 3/10/2024.)
+De fato, a oposição de embargos de declaração com a reiteração das razões esboçadas no recurso integrativo anterior, sem apontar, de fato, omissão, contradição ou obscuridade no acórdão embargado, evidencia o caráter protelatório do presente recurso.
+Ante o exposto, REJEITO os embargos de declaração, com aplicação, à embargante, de multa de 1% sobre o valor atualizado da causa.
+É como voto.
