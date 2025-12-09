@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 03/12/2025 a 09/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Paulo Sérgio Domingues, Benedito Gonçalves, Sérgio Kukina e Regina Helena Costa votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. ACÓRDÃO. FUNDAMENTO INATACADO. PREQUESTIONAMENTO. AUSÊNCIA. HONORÁRIOS. FIXAÇÃO PELO VALOR DA CAUSA. POSSIBILIDADE. OMISSÃO. CORREÇÃO NA VIA DO AGRAVO INTERNO. IMPROPRIEDADE.
+1. Inexiste ofensa aos arts. 489 e 1.022 do CPC quando o Tribunal de origem manifesta-se de modo fundamentado acerca das questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos.
+2. A insuficiência da alegação para combater as razões de decidir do julgado compromete a fundamentação do recurso especial, atraindo a incidência do óbice descrito na Sumula 283 do STF.
+3. Não enfrentada no julgado impugnado tese respeitante a artigo de lei federal apontado no recurso especial, há falta do prequestionamento, o que faz incidir no caso o óbice da Súmula 282 do STF.
+4. A conformidade do acórdão recorrido com a orientação jurisprudencial desta Corte Superior atrai o óbice de conhecimento do recurso esp ecial estampado na Súmula 83 do STJ.
+5. O agravo interno não se presta para sanar eventual omissão da decisão monocrática, já que a via adequada são os embargos de declaração, constituindo essa interposição erro grosseiro, que inadmite aplicação do princípio da fungibilidade. Precedentes
+6. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por TIMAC AGRO INDÚSTRIA E COMÉRCIO DE FERTILIZANTES LTDA, PROFERTIL PRODUTOS QUIMICOS E FERTILIZANTES LTDA contra decisão de minha lavra em que conheci do agravo para, com fundamento na ausência de vício de integração e na aplicação dos óbices das Súmulas 83 do STJ, 282 e 283 do STF, conhecer em parte do recurso especial e negar-lhe provimento.
+O agravante alega, em síntese, equivoco na decisão monocrática que não reconheceu a existência de vício de integração no acórdão de origem.
+Afirma, ainda, a inaplicabilidade dos óbices sumulares e pleiteia a manifestação acerca da exclusão da multa aplicada pelo TJBA na oposição dos segundos embargos, em face do seu manifestado propósito de prequestionar as matérias suscitadas no apelo nobre.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. ACÓRDÃO. FUNDAMENTO INATACADO. PREQUESTIONAMENTO. AUSÊNCIA. HONORÁRIOS. FIXAÇÃO PELO VALOR DA CAUSA. POSSIBILIDADE. OMISSÃO. CORREÇÃO NA VIA DO AGRAVO INTERNO. IMPROPRIEDADE.
+1. Inexiste ofensa aos arts. 489 e 1.022 do CPC quando o Tribunal de origem manifesta-se de modo fundamentado acerca das questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos.
+2. A insuficiência da alegação para combater as razões de decidir do julgado compromete a fundamentação do recurso especial, atraindo a incidência do óbice descrito na Sumula 283 do STF.
+3. Não enfrentada no julgado impugnado tese respeitante a artigo de lei federal apontado no recurso especial, há falta do prequestionamento, o que faz incidir no caso o óbice da Súmula 282 do STF.
+4. A conformidade do acórdão recorrido com a orientação jurisprudencial desta Corte Superior atrai o óbice de conhecimento do recurso esp ecial estampado na Súmula 83 do STJ.
+5. O agravo interno não se presta para sanar eventual omissão da decisão monocrática, já que a via adequada são os embargos de declaração, constituindo essa interposição erro grosseiro, que inadmite aplicação do princípio da fungibilidade. Precedentes
+6. Agravo interno desprovido.
+VOTO
+Os argumentos ora ventilados não convencem.
+Como assinalado na decisão agravada, o apelo nobre se origina de ação declaratória do direito a creditamento de ICMS.
+Na origem, pretende-se o reconhecimento do direito de escriturar, manter e aproveitar créditos de ICMS oriundos da aquisição dos últimos dez anos contados retroativamente a propositura do presente feito e durante a tramitação da presente ação, dos insumos essenciais na sua atividade econômica, dentro os quais: sacos utilizados para embalagem dos adubos fabricados, gás natural utilizado para geração de energia na unidade industrial, água bruta, as correias transportadoras de matéria prima, a lona agrícola utilizada na cobertura e proteção da matéria prima, a energia elétrica utilizadas por seus escritórios administrativos e os serviços de telecomunicações.
+Por sentença, o pedido da ação foi julgado parcialmente procedente para limitar o direito de creditamento aos últimos cinco anos contados, retroativamente, da data da propositura da ação.
+No mérito, reconheceu como essenciais à atividade os insumos descritos no laudo pericial e no laudo complementar, dentre os quais os seguintes: sacos, gás natural, a agua bruta, as correias transportadoras, a lona agrícola, a energia elétrica e os serviços de telecomunicações, Óleo Diesel, Gás Envasado (GLP), Pallets, Papelão Ondulado, Telas para Peneira, Canecas do Elevador, Rodas do elevador, Correntes do Elevador, Rolos ou Roletes da Correia e Mangas e Gaiolas do Filtro Manga.
+O Tribunal estadual deu parcial provimento à apelação do particular apenas para corrigir a fixação de índices aplicáveis.
+Acolheu, no entanto, preliminar de contrarrazões do ESTADO para reconhecer que a sentença fora proferida com vício de julgamento ultra petita.
+Reconheceu que apenas as rubricas descritas no primeiro laudo pericial seriam objeto da ação, sendo as demais apresentadas no laudo complementar uma ampliação indevida do objeto da ação fora das hipóteses previstas na norma.
+Afastou, ainda, o direito ao creditamento dos valores pagos a título de ICMS na aquisição de energia elétrica e serviços de telecomunicações, uma vez que teriam sido adquiridos para consumo interno da contribuinte.
+Por fim, manteve a condenação dos honorários de sucumbência aplicando o valor da causa como base de cálculo.
+Opostos embargos de declaração, esclareceu que a ampliação do objeto da ação foi impugnada no momento oportuno pelo ESTADO, tendo sido objeto de contrarrazões de apelação, não havendo falar em reforma em prejuízo ou violação do princípio da congruência.
+Opostos novos embargos de declaração, foram eles rejeitados com a aplicação cumulada da multa de litigância de má-fé e da oposição de embargos com propósito manifestamente protelatório.
+Em seu recurso especial, apontou para a violação dos arts. 2º, 80, 81, 85, 141, 492 e 997, §§1º e 2º, 1.009, 1.022 e 1.026, do CPC/2015, 19, 29 e 33 da Lei Complementar n. 87/1996, bem como a ocorrência de divergência jurisprudencial.
+Aduziu a existência de vício de integração no acórdão que fora omisso e obscuro quanto à alegação formulada pelo recorrente de julgamento com reforma em prejuízo.
+Alegou a necessidade de reforma no acórdão que cumulou incorretamente a multa de embargos com efeitos protelatórios e por litigância de má-fé.
+Defendeu, ainda, que o acórdão do TJBA "merece reforma uma vez que promove ele evidente reformatio in pejus".
+Buscou, também, a reforma do "acórdão recorrido, com o reconhecimento de que a energia elétrica usada e os serviços de telecomunicações também compreendem insumos essenciais à atividade produtiva das recorrentes, assegurando-lhes, por conseguinte, o direito à tomada dos respectivos créditos de ICMS".
+Pleiteou a exclusão da multa aplicada nos segundos embargos de declaração, alegando ser inaplicável em embargos com propósito de prequestionamento.
+Por fim, defendeu a fixação dos honorários pelo proveito econômico e não pelo valor da causa.
+Pois bem.
+Como assinalado na decisão ora agravada, o Tribunal de origem se manifestou, de maneira clara e fundamentada, acerca de todas as questões relevantes para a solução da controvérsia, inclusive em relação às quais o recorrente alega omissão.
+Isso porque indicou de forma clara, expressa e coerente, o motivo para o não reconhecimento de vício de julgamento pela reforma em prejuízo.
+Dessa forma, inexiste vício de integração no acórdão a ensejar violação do art. 1.022 do CPC/2015.
+No mais, o recurso do particular não comporta conhecimento.
+Relativamente à alegação de reformatio in pejus, o recurso especial deixa de atacar os fundamentos do acórdão que apontou de forma clara, expressa e coerente não se tratar de acórdão eivado de vício de julgamento pela reforma em prejuízo.
+Como relatado, o Tribunal consignou que a ampliação do objeto da demanda foi impugnada no momento oportuno pelo ESTADO, tendo sido objeto de contrarrazões de apelação, não havendo falar em reforma em prejuízo ou violação do princípio da congruência.
+Atrai-se ao conhecimento do recurso especial o óbice da Súmula 283 o STF por ausência de impugnação de todos os fundamentos do acórdão.
+No que concerne à alegação de impossibilidade de cumulação de multas, observo que o acórdão de origem decidiu conforme a orientação firmada nesse Superior Tribunal de Justiça, que desde o código de ritos anterior já pacificou a orientação segundo a qual "A multa prevista no artigo 538, parágrafo único, do Código de Processo Civil tem caráter eminentemente administrativo - punindo conduta que ofende a dignidade do tribunal e a função pública do processo -, sendo possível sua cumulação com a sanção prevista nos artigos 17, VII e 18, § 2º, do Código de Processo Civil, de natureza reparatória" (tema n. 507 do STJ).
+Quanto à alegação de direito ao creditamento da energia elétrica e dos serviços de telefonia adquiridos para consumo interno da contribuinte, anoto que a tese defendida pela recorrente, em que pleiteia o direito ao creditamento com fundamento na previsão dos arts. 19, 20 e 33 da Lei complementar 87/1996 não foi objeto de prequestionamento pelas instâncias ordinárias, ao menos não pelo viés pretendido pelo recorrente, atraindo a aplicação do óbice da Súmula 282 do STF ao conhecimento do recurso especial.
+Por fim, no que concerne à alegação de vício do acórdão na fixação de honorários pelo valor da causa, tenho que o recurso especial também não comporta conhecimento.
+A interpretação dada por esta Corte Superior sobre o art. 85, §2º, do CPC/2015 é no sentido de que há uma ordem de preferência para a fixação da base de cálculo dos honorários, segundo a qual "(I) primeiro, quando houver condenação, devem ser fixados entre 10% e 20% sobre o montante desta (art. 85, § 2º); (II) segundo, não havendo condenação, serão também fixados entre 10% e 20%, das seguintes bases de cálculo: (II. a) sobre o proveito econômico obtido pelo vencedor (art. 85, § 2º); ou (II. b) não sendo possível mensurar o proveito econômico obtido, sobre o valor atualizado da causa (art. 85, § 2º); por fim, (III) havendo ou não condenação, nas causas em que for inestimável ou irrisório o proveito econômico ou em que o valor da causa for muito baixo, deverão, só então, ser fixados por apreciação equitativa (art. 85, § 8º)" (REsp 1.746.072/PR, relatora Ministra Nancy Andrighi, relator para acórdão Ministro Raul Araújo, Segunda Seção, julgado em 13/02/2019, DJe de 29/03/2019).
+Na hipótese dos autos o Tribunal de origem expressamente consignou não ser possível mensurar o proveito econômico alcançado por se tratar de sentença ilíquida (de natureza declaratória), assim como não haver condenação fixada ao ESTADO.
+Dessa forma, incide, na espécie, a Súmula 83 do STJ, segundo a qual "não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida", que é aplicável quando o apelo nobre é interposto com base nas alíneas "a" e "c" do permissivo constitucional.
+Após nova análise processual, provocada pela interposição do agravo interno, observo que a decisão combatida deve ser mantida.
+Em tempo, as alegações formuladas nas razões de agravo interno relativas à inaplicabilidade da multa fixada pelo TJBA na oposição dos embargos de declaração não podem ser conhecidas uma vez que a matéria não foi abordada na decisão monocrática e não houve oposição de embargos de declaração, recurso adequado para apreciar eventual omissão no provimento jurisdicional.
+Como o recurso integrativo não foi interposto oportunamente para sanar o possível vício do julgado monocrático, descabe à parte suscitá-lo diretamente no agravo interno, cuja interposição, nesse desiderato, configura erro grosseiro a inadmitir a aplicação do princípio da fungibilidade recursal.
+A esse respeito: AgInt no AREsp 2.137.105/BA, relatora Ministra ASSUSETE MAGALHÃES, Segunda Turma, julgado em 28/11/2022 17/3/2020 , DJe de 1/12/2022 ; AgInt no REsp 1.625.192/PE, relator Ministro OG FERNANDES, Segunda Turma, DJe de , e AgInt no REsp 1.512.688/PB, relator Ministro NAPOLEÃO NUNES MAIA FILHO, Primeira Turma, julgado em 29/4/2019 , DJe 8/5/2019 .
+Por fim, embora não merecedor de acolhimento, o agravo interno, no caso, não se revela manifestamente inadmissível ou improcedente, razão pela qual não deve ser aplicada a multa do § 4º do art. 1.021 do CPC/2015.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
