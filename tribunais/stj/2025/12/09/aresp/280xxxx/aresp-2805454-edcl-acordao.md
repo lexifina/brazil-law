@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 03/12/2025 a 09/12/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+Não participou do julgamento a Sra. Ministra Nancy Andrighi.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. VÍCIO EMBARGÁVEL. OMISSÃO. INEXISTÊNCIA. PREQUESTIONAMENTO. DISPOSITIVO CONSTITUCIONAL. INVIABILIDADE.
+1. Ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição ou corrigir erro material, mas, sim, reformar o julgado por via inadequada.
+2. Nos termos do art. 105, III, da Constituição Federal, não compete ao Superior Tribunal de Justiça o exame de dispositivos constitucionais em embargos de declaração, ainda que opostos para fins de prequestionamento, sob pena de invasão da competência atribuída ao Supremo Tribunal Federal.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por PREVIDÊNCIA USIMINAS ao acórdão da Terceira Turma assim ementado:
+"AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA FECHADA. APOSENTADORIA SUPLEMENTAR. CESSAÇÃO DE PAGAMENTO. INADIMPLEMENTO DA PATROCINADORA. DECRETAÇÃO DA FALÊNCIA (COFAVI). RESPONSABILIDADE PATRIMONIAL. PREVIDÊNCIA USIMINAS. PRESTAÇÃO JURISDICIONAL. NEGATIVA. VÍCIO EMBARGÁVEL. OMISSÃO. INEXISTÊNCIA. OFENSA À RESOLUÇÃO. CONCEITO DE LEI FEDERAL. NÃO ENQUADRAMENTO. DIVERGÊNCIA JURISPRUDENCIAL. INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL. AUSÊNCIA. FUNDAMENTAÇÃO. DEFICIÊNCIA. SÚMULA Nº 284/STF.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas em sentido inverso aos interesses da parte.
+2. Incabível, no âmbito do recurso especial, a análise de violação de portarias, circulares, resoluções, instruções normativas, regulamentos, decretos, avisos e outras disposições administrativas por não estarem inseridas no conceito de lei federal previsto no art. 105, II, "a", da Constituição Federal.
+3. Ausente a indicação precisa do dispositivo legal objeto de interpretação divergente entre os acórdãos trazidos à colação, aplica-se, por analogia, o óbice da Súmula nº 284/STF, ante a deficiência de fundamentação, a inviabilizar o conhecimento do recurso pela alínea "c" do permissivo constitucional.
+4. A Segunda Seção deste Tribunal Superior, no julgamento do REsp nº 1.964.067/ES e os EREsp nº 1.673.890/ES, adotou, por maioria, o entendimento de que é dever do ente previdenciário assegurar o pagamento do benefício ao participante que já cumpriu as condições previstas contratualmente para tanto, embora tenha ocorrido a falência da patrocinadora e a ausência de repasse de contribuições ao fundo previdenciário.
+5. A Fundação Cosipa de Seguridade Social - FEMCO, atual Previdência Usiminas, responde pelo pagamento de complementação de aposentadoria devida aos participantes/assistidos, ex-empregados da patrocinadora COFAVI, aposentados em data anterior à denúncia do convênio de adesão, em março de 1996, até a liquidação extrajudicial do plano de previdência privada, sendo vedada a utilização do patrimônio do fundo FEMCO/COSIPA tão somente quando reconhecida, pelas instâncias ordinárias, a ausência de solidariedade entre os fundos.
+6. Agravo conhecido para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento" (e-STJ fls. 971/980).
+Nas presentes razões (e-STJ fls. 986/994), a embargante suscita omissão no julgado quanto aos seguintes pontos:
+(i) indicação precisa de qual plano de benefício deverá suportar a condenação imposta nos presentes autos;
+(ii) aplicação, à espécie, do precedente REsp nº 1.248.975/ES
+Pleiteia, por fim, o prequestionamento dos arts. 5º, XXII, e 202 da Constituição Federal.
+Impugnação apresentada às e-STJ fls. 1.092/1.095.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. VÍCIO EMBARGÁVEL. OMISSÃO. INEXISTÊNCIA. PREQUESTIONAMENTO. DISPOSITIVO CONSTITUCIONAL. INVIABILIDADE.
+1. Ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição ou corrigir erro material, mas, sim, reformar o julgado por via inadequada.
+2. Nos termos do art. 105, III, da Constituição Federal, não compete ao Superior Tribunal de Justiça o exame de dispositivos constitucionais em embargos de declaração, ainda que opostos para fins de prequestionamento, sob pena de invasão da competência atribuída ao Supremo Tribunal Federal.
+3. Embargos de declaração rejeitados.
+VOTO
+Não prospera a inconformidade veiculada nos presentes aclaratórios.
+Os embargos de declaração são admissíveis nas hipóteses elencadas no art. 1.022 do Código de Processo Civil, o qual prevê o seu cabimento para esclarecer obscuridade ou eliminar contradição, para suprir omissão de ponto ou de questão sobre a qual devia se pronunciar o juiz, de ofício ou a requerimento, e para corrigir erro material.
+Na espécie, a embargante suscita omissão do julgado quanto aos seguintes pontos: (i) "não se observa a devida especificação acerca do plano que deverá arcar com a condenação" (e-STJ fl. 987); e (ii) "ausência de liquidação extrajudicial do plano decorreu de decisão do órgão federal responsável pela fiscalização das entidades fechadas de previdência complementar" (e-STJ fl. 991).
+Quanto às alegações formuladas, a Terceira Turma do Superior Tribunal de Justiça, assim delineou a matéria:
+"No mais, a Segunda Seção deste Tribunal Superior, ao apreciar o REsp nº 1.964.067/ES e os EREsp nº 1.673.890/ES, adotou, por maioria, o entendimento de que é dever do ente previdenciário assegurar o pagamento do benefício ao participante que já cumpriu as condições previstas contratualmente para tanto, embora tenha ocorrido a falência da patrocinadora e a ausência de repasse de contribuições ao fundo previdenciário.
+A propósito:
+"RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. COMPLEMENTAÇÃO DE APOSENTADORIA. PREVIDÊNCIA USIMINAS. ADIMPLEMENTO DAS OBRIGAÇÕES CONTRATUAIS PELO PARTICIPANTE E INADIMPLEMENTO DA PATROCINADORA FALIDA (COFAVI). RESPONSABILIDADE PATRIMONIAL DA ENTIDADE PREVIDENCIÁRIA. TEMA PACIFICADO PELA SEGUNDA SEÇÃO DO STJ NO RESP N. 1.248.975/ES. ALEGAÇÃO DA EXISTÊNCIA DE SUBMASSAS. IRRELEVÂNCIA NO CASO CONCRETO. RELAÇÕES JURÍDICAS DISTINTAS: ENTIDADE DE PREVIDÊNCIA COMPLEMENTAR E PATROCINADORA (CONVÊNIO DE ADESÃO); ENTIDADE DE PREVIDÊNCIA COMPLEMENTAR E EMPREGADO PARTICIPANTE (PLANO DE BENEFÍCIOS). PREVISÃO ESPECÍFICA CONSTANTE NO CONVÊNIO DE ADESÃO. PECULIARIDADE. RECONHECIMENTO DA RESPONSABILIDADE PATRIMONIAL DA PREVIDÊNCIA USIMINAS. RECURSO ESPECIAL NÃO PROVIDO.
+1. A Segunda Seção do STJ, no julgamento do REsp n. 1.248.975/ES, consagrou o entendimento de que a falência da patrocinadora Cofavi ou o eventual esgotamento dos recursos do fundo de previdência não constituiu fato extraordinário hábil a isentar a entidade previdenciária da obrigação de pagar os benefícios pelos quais se comprometeu, concluindo-se, portanto, pela responsabilidade da Previdência Usiminas.
+2. O esgotamento dos recursos vinculados à submassa "FEMCO-COFAVI", ainda que decorrente da falência da patrocinadora e da indevida - ou mesmo ilegal - ausência do repasse de contribuições, constitui lamentável episódio para toda a massa dos segurados, não afastando, no entanto, o dever do ente previdenciário de assegurar o pagamento do benefício ao segurado que já cumpriu as condições previstas contratualmente para tanto, o que se verificou na hipótese.
+3. Recurso especial não provido"
+(REsp 1.964.067/ES, rel. Ministro LUIS FELIPE SALOMÃO, Segunda Seção, DJe de 5/8/2022)
+Nessa toada, a prova cuja produção foi pleiteada demonstra-se desnecessária, posto que a Fundação Cosipa de Seguridade Social - FEMCO, atual Previdência Usiminas, responde pelo pagamento de complementação de aposentadoria devida aos participantes/assistidos, ex-empregados da patrocinadora COFAVI, aposentados em data anterior à denúncia do convênio de adesão, em março de 1996, até a liquidação extrajudicial do plano de previdência privada, sendo vedada a utilização do patrimônio do fundo FEMCO/COSIPA tão somente quando reconhecida, pelas instâncias ordinárias, a ausência de solidariedade entre os fundos" (e-STJ fl. 978)
+Não se vislumbra, portanto, omissão na fundamentação do acórdão impugnado, que solucionou fundamentadamente a causa, ainda que sob ângulo diverso do pretendido pela embargante.
+Além disso, nos termos do art. 105, III, da Constituição Federal, não compete a esta Corte o exame de dispositivos constitucionais em embargos de declaração, ainda que opostos para fins de prequestionamento, sob pena de invasão da competência atribuída ao Supremo Tribunal Federal.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. OFENSA AO ART. 1.022 DO CPC/2015. NÃO CONFIGURADA. TEMA 677/STJ. APLICAÇÃO IMEDIATA DOS PRECEDENTES FIRMADOS EM JULGAMENTOS REPETITIVOS OU DE REPERCUSSÃO GERAL. PRECEDENTES. OFENSA A DISPOSITIVO CONSTITUCIONAL. INADEQUAÇÃO DA VIA ELEITA. AGRAVO INTERNO IMPROVIDO.
+1.  ..
+3. É inviável a apreciação de ofensa a eventual violação de dispositivos e princípios constitucionais, sob pena de usurpação da competência atribuída ao Supremo Tribunal Federal, nos termos do art. 102 da Constituição Federal, ainda que para fins de prequestionamento. 4. Agravo interno improvido."
+(AgInt no AREsp 2.654.179/SC, Relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 11/11/2024, DJe de 13/11/2024)
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREQUESTIONAMENTO DE DISPOSITIVOS CONSTITUCIONAIS. INVIABILIDADE. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Não compete a esta Corte Superior a análise de suposta violação de dispositivos constitucionais, ainda que para efeito de prequestionamento, sob pena de usurpação da competência reservada ao Sup remo Tribunal Federal, prevista no artigo 102, III, da Constituição Federal de 1988.
+2. Os embargos de declaração têm como objetivo sanar eventual existência de erro material, obscuridade, contradição ou omissão no julgado embargado (CPC/2015, art. 1.022), de modo que é inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+3. Embargos de declaração rejeitados. "
+(EDcl no AgInt no AREsp 2.546.602/SC, Relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 14/10/2024, DJe de 21/10/2024)
+Nesse contexto, ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição ou corrigir o erro material, mas, sim, reformar o julgado por via inadequada.
+Desse modo, o cotejo das razões de decidir com o quanto foi alegado na petição dos embargos de declaração evidencia a inexistência dos vícios aventados, a afastar possibilidade de manejo dos aclaratórios.
+Ante o exposto, rejeito os embargos de declaração com a advertência de que, havendo reiteração de embargos protelatórios, a multa prevista no art. 1.026, § 2º, do Código de Processo Civil será aplicada.
+É o voto.
