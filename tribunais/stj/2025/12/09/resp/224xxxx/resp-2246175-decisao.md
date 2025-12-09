@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DO RIO GRANDE DO SUL, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, que não conheceu da remessa necessária n. 5002118-37.2019.8.21.0065, assim ementado:
+APELAÇÃO CÍVEL/REMESSA NECESSÁRIA. DIREITO TRIBUTÁRIO. MANDADO DE SEGURANÇA. INTEMPESTIVIDADE DO RECURSO. NÃO CONHECIMENTO. REMESSA NECESSÁRIA. VALOR DA CAUSA INFERIOR A 500 SALÁRIOS-MÍNIMOS. NÃO CONHECIMENTO.
+A parte recorrente alega violação do art. 14, § 1º, da Lei n. 12.016/2009 e do art. 496, § 3º, inciso II, do Código de Processo Civil - CPC/2015, sustentando, em síntese (fls. 143-154):
+A relação entre o Código de Processo Civil de 1973 e a Lei do Mandado de Segurança, então aplicada, que era de 1951, é rigorosamente a mesma relação que guarda o Código de Processo Civil de 2015 com a Lei do Mandado de Segurança de 2009, isto é, a restrição ao reexame posta por lei posterior, em razão da alçada - Código de Processo Civil, de 1973, artigo 475, § 2º -, não se estenderia à previsão do reexame na lei especial anterior - Lei 1.533/51, artigo 12.
+Com contrarrazões de GUIMARÃES INDÚSTRIA & COMÉRCIO DE DOCES LTDA. (fls. 162-166), o recurso foi admitido.
+É o relatório.
+Decido.
+Vejamos, desde logo e no que interessa, o que está consignado no voto condutor do acórdão recorrido (fls. 136-138):
+O Mandado de Segurança foi impetrado em face de ato praticado pelo Subsecretário da Subsecretário da Receita Estadual do Rio Grande do Sul, e o valor dado à causa (R$20.000,00) não excede a 500 (quinhentos) salários-mínimos, a teor do que disciplina o art. 496, §3º, II, do CPC:
+Art. 496. Está sujeita ao duplo grau de jurisdição, não produzindo efeito senão depois de confirmada pelo tribunal, a sentença: (..). § 3º Não se aplica o disposto neste artigo quando a condenação ou o proveito econômico obtido na causa for de valor certo e líquido inferior a: II - 500 (quinhentos) salários-mínimos para os Estados, o Distrito Federal, as respectivas autarquias e fundações de direito público e os Municípios que constituam capitais dos Estados;
+Ressalto que a obrigatoriedade de duplo grau de jurisdição em relação à sentença que concede a segurança, não prescinde da análise dos critérios contidos no dispositivo legal acima citado.
+Nesse sentido, não conheço da remessa necessária.
+Pois bem.
+Na época em que estavam em vigência a Lei n. 1.533/1951, o seu art. 12 estabelecia que a sentença concessiva do mandado de segurança se submetia ao duplo grau de jurisdição obrigatório, enquanto o Código de Processo Civil - CPC/1973, no art. 475, § 2º, dispensa a remessa necessária, na hipótese em que o valor da condenação ou direito controvertido fosse inferior a 60 (sessenta) salários-mínimos.
+À luz desse regramento, este Tribunal Superior firmou sua orientação jurisprudencial no sentido de que, em atenção ao princípio da especialidade, deveria ser observada a norma do art. 12 da Lei n. 1.533/1951. A respeito, vide:
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. REMESSA OBRIGATÓRIA. VALOR NÃO EXCEDENTE A 60 SALÁRIOS-MÍNIMOS. CONCESSÃO DA ORDEM. NÃO-APLICAÇÃO DA REGRA PREVISTA NO § 2º DO ART. 475 DO CPC (LEI Nº 10.352/01). INCIDÊNCIA DA LEI ESPECÍFICA Nº 1.533/51 (ART. 12, PARÁGRAFO ÚNICO). PRECEDENTES.
+1. A Lei nº 10.352/01, com o objetivo de reduzir as hipóteses de remessa ex officio, alterou o art. 475 do CPC, estatuindo que, mesmo sendo a sentença proferida contra a União, os Estados, o Distrito Federal, os Municípios e as respectivas autarquias e fundações de direito público, "não se sujeitará ao duplo grau de jurisdição se a condenação, ou o direito controvertido, for de valor certo não excedente a 60 (sessenta) salários-mínimos" (§ 2º).
+2. O posicionamento adotado pelas Turmas do STJ é no sentido de que essa regra não se aplica ao mandado de segurança submetido a legislação específica (Lei nº 1.533/51, art. 12).
+3. Precedentes  .. .
+4. Recurso provido para determinar o retorno dos autos ao Tribunal de origem, a fim de que examine a remessa necessária da sentença.
+(REsp n. 630.917/SP, relator Ministro Castro Meira, Segunda Turma, julgado em 26/8/2008, DJe de 25/9/2008)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. MANDADO DE SEGURANÇA. CONCESSÃO. NECESSIDADE DE INTIMAÇÃO PESSOAL DO REPRESENTANTE JUDICIAL DA UNIÃO. REEXAME NECESSÁRIO. PREVALÊNCIA DO DUPLO GRAU DE JURISDIÇÃO.
+ ..
+3. "É inaplicável ao mandado de segurança o § 2º do art. 475 do CPC, inserido pela Lei 10.352/01, pois a regra especial, contida no art. 12, parágrafo único, da Lei 1.533/51, prevalece sobre a disciplina genérica do Código de Processo Civil (art. 2º, § 2º, da LICC)" (REsp 788.847/MT, Primeira Seção, Rel. Min. Eliana Calmon, DJ de 5.6.2006, p. 279). Precedentes.
+4. Impõe-se a reforma do aresto recorrido com a determinação do retorno dos autos ao Tribunal de origem a fim de que prossiga o julgamento da apelação e proceda ao reexame necessário da sentença.
+5. Recurso especial provido.
+(REsp n. 869.169/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 19/8/2008, DJe de 16/9/2008)
+Atualmente, a Lei n. 12.016/2009, no art. 14, § 1º, dispõe que, "concedida a segurança, a sentença estará sujeita obrigatoriamente ao duplo grau de jurisdição", enquanto o Código de Processo Civil - CPC/2015, no art. 496, § 3º, inciso II, estabelece que não deve haver a remessa necessária "quando a condenação ou o proveito econômico obtido na causa for de valor certo e líquido inferior a 500 (quinhentos) salários-mínimos para os Estados  .. ".
+Não houve, pois, alteração legislação apta a ensejar eventual alteração da jurisprudência deste Tribunal Superior, notadamente, em atenção ao princípio da especialidade, na medida em que o mandado de segurança visa a proteção de direito contra ato ilegal ou abusivo.
+No caso específico dos autos, o mandado de segurança foi impetrado com o fim de ordenar à autoridade coatora a exclusão de veículo automotor do arrolamento fiscal determinado em processo executivo fiscal, tendo em vista ter ocorrido a perda total do veículo; e, embora o valor controvertido possa ser inferior ao valor estipulado no art. 496, § 3º, inciso II, do CPC/2015, é obrigatória a revisão da sentença concessiva pelo Tribunal de Justiça, nos termos do art. 14, § 1º, da Lei n. 12.016/2009.
+Ante o exposto, DOU PROVIMENTO ao recurso especial do Estado do Rio Grande do Sul para cassar, em parte, o acórdão recorrido e determinar o retorno dos autos ao Tribunal de Justiça do Estado do Rio Grande do Sul para o julgamento da remessa necessária.
+Advirto as partes de que a eventual interposição de agravo interno, declarado manifestamente inadmissível ou improcedente, ou de embargos de declaração, manifestamente protelatórios, poderá ensejar a aplicação de multa, nos termos, respectivamente, dos arts. 1.021, § 4º, e 1.026, § 2º, do Código de Processo Civil.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. MANDADO DE SEGURANÇA. SENTENÇA CONCESSIVA. REMESSA NECESSÁRIA PARA SUBMISSÃO AO D UPLO GRAU DE JURISDIÇÃO. NORMA ESPECIAL. ACÓRDÃO RECORRIDO CONTRÁRIO À JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. RECURSO ESPECIAL PROVIDO.
