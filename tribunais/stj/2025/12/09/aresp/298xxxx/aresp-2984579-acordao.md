@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 03/12/2025 a 09/12/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+Não participou do julgamento a Sra. Ministra Nancy Andrighi.
+EMENTA
+AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  AÇÃO  DE  INDENIZAÇÃO  POR  DANOS  MORAIS.  FALHA  NA  PRESTAÇÃO  DO  SERVIÇO.  ILEGITIMIDADE PASSIVA. AFASTAMENTO. NEGATIVAÇÃO INDEVIDA. RESPONSABILIDADE CIVIL. DANO MORAL. CONFIGURAÇÃO. INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL.  REEXAME  DE  PROVAS.  SÚMULA  S  Nº  S 5 E  7/STJ.  ALÍNEAS  "A"  E  "C".
+1.  No  caso,  rever  a  conclusão  dos  magistrados  de  origem,  que,  com  base  nas  provas  produzidas  nos  autos,  concluíram  pela manutenção do dever de indenizar em razão da falha na prestação dos serviços  exige  a interpretação de cláusula contratual e o  reexame  do  contexto  fático-probatório,  procedimento  vedado  em  recurso  especial,  nos  termos  das  Súmula  s  nºs  5 e  7/STJ.
+2.  A  necessidade  do  reexame  da  matéria  fática  impede  a  admissão  do  recurso  especial  tanto  pela  alínea  "a"  quanto  pela  alínea  "c"  do  permissivo  constitucional.
+3.  Agravo  conhecido  para  não  conhecer  do  recurso  especial.
+RELATÓRIO
+Trata-se  de  agravo  interposto  por  BANCO DO BRASIL S.A.  contra  a  decisão  que  inadmitiu  o  recurso  especial.
+O  apelo  extremo,  com  fundamento  no  artigo  105,  III,  alíneas  "a"  e  "c",  da  Constituição  Federal,  insurge-se  contra  o  acórdão  do  Tribunal  de  Justiça  do  Estado  de  Minas Gerais  assim  ementado:
+"APELAÇÕES CÍVEIS - AÇÃO DECLARATÓRIA C/C INDENIZAÇÃO POR DANOS MORAIS - PRELIMINARES - DENUNCIAÇÃO DA LIDE - INCOMPETÊNCIA DA JUSTIÇA ESTADUAL - ILEGITIMIDADE PASSIVA - INTERESSE DE AGIR - REJEIÇÃO - FALHA NA PRESTAÇÃO DE SERVIÇOS DEMONSTRADA - CULPA EXCLUSIVA DO CONSUMIDOR - EXCLUDENTE NÃO CONFIGURADA - DANOS EXTRAPATRIMONIAIS - NEGATIVAÇÃO INDEVIDA - RECURSOS DESPROVIDOS.
+1. Não há que se falar em denunciação da lide do Fundo Nacional de Desenvolvimento da Educação - FNDE quando a discussão sub judice não envolve questionamento sobre as regras do Programa Estudantil (FIES), constatação essa que, via de consequência, afasta a preliminar de competência da Justiça Federal.
+2. Segundo a Teoria da Asserção, a legitimidade ad causam é aferida em análise abstrata da narrativa apresentada pela autora na inicial.
+3. Sendo o interesse de agir regido pelo binômio necessidade- adequação, rejeita-se a preliminar quando demonstrada a utilidade do provimento jurisdicional.
+4. A responsabilidade do fornecedor de serviços é objetiva, configurando-se direito básico do consumidor a ampla reparação por danos patrimoniais e morais, de maneira que somente pode ser afastado nas hipóteses em que, tendo sido prestado o serviço, o defeito inexiste, ou quando configurada a culpa exclusiva do consumidor ou de terceiro (art. 14, §3º, do CDC).
+5. A falha na prestação de serviços da instituição de ensino é evidenciada diante da recusa do pagamento do financiamento estudantil sem justificativa plausível, enquanto a responsabilidade da instituição financeira exsurge de forma solidária, por promover a inscrição indevida do nome do beneficiário no rol de inadimplentes.
+6. A inscrição indevida em cadastro de inadimplentes é fato gerador de dano moral, sendo dispensável a comprovação de prova do abalo à honra e reputação do consumidor (dano in re ipsa)" (e-STJ fl. 847).
+No  recurso  especial  (e-STJ  fls.  869/885),  o  recorrente  alega  ,  além  de  divergência  jurisprudencial,  violação  dos  artigos  7º  e  14  da  Lei  nº  8.078/1990.
+Sustenta a sua ilegitimidade passiva, pois o contrato de prestação de serviços que previa o pagamento do financiamento pela instituição de ensino, não contemplava o recorrente.
+Aduz que, "com relação ao dano moral pela negativação, resta que, comprovado a ausência de respons abilidade do Banco, temos que, novamente, por culpa de terceiro, o Recorrente não poderia prever que a ausência de pagamento resultaria de quebra contratual da Instituição e não por inadimplência do Recorrido".
+Apresentadas  as  contrarrazões,  o  recurso  especial  foi  inadmitido,  dando  ensejo  à  interposição  do  presente  agravo.
+É  o  relatório.
+EMENTA
+AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  AÇÃO  DE  INDENIZAÇÃO  POR  DANOS  MORAIS.  FALHA  NA  PRESTAÇÃO  DO  SERVIÇO.  ILEGITIMIDADE PASSIVA. AFASTAMENTO. NEGATIVAÇÃO INDEVIDA. RESPONSABILIDADE CIVIL. DANO MORAL. CONFIGURAÇÃO. INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL.  REEXAME  DE  PROVAS.  SÚMULA  S  Nº  S 5 E  7/STJ.  ALÍNEAS  "A"  E  "C".
+1.  No  caso,  rever  a  conclusão  dos  magistrados  de  origem,  que,  com  base  nas  provas  produzidas  nos  autos,  concluíram  pela manutenção do dever de indenizar em razão da falha na prestação dos serviços  exige  a interpretação de cláusula contratual e o  reexame  do  contexto  fático-probatório,  procedimento  vedado  em  recurso  especial,  nos  termos  das  Súmula  s  nºs  5 e  7/STJ.
+2.  A  necessidade  do  reexame  da  matéria  fática  impede  a  admissão  do  recurso  especial  tanto  pela  alínea  "a"  quanto  pela  alínea  "c"  do  permissivo  constitucional.
+3.  Agravo  conhecido  para  não  conhecer  do  recurso  especial.
+VOTO
+Ultrapassados  os  requisitos  de  admissibilidade  do  agravo,  passa-se  ao  exame  do  recurso  especial.
+A  insurgência  não  merece  prosperar.
+Insurge-se a instituição financeira recorrente em face da condenação solidária nos autos de origem ao pagamento de indenização por danos morais.
+O  Tribunal  estadual  concluiu  pela legitimidade passiva do recorrente e pela ocorrência da responsabilidade solidária ao pagamento de indenização por danos morais,  com  base  nos  seguintes  fundamentos:
+"Nessa perspectiva, constata-se a pertinência subjetiva da instituição bancária para figurar no polo passivo, na medida em que o autor sustenta na inicial a ilegalidade da negativação do seu nome, efetivada pela instituição bancária (doc. de ordem nº 19), em razão do suposto inadimplemento do contrato do Fies; atribuiu, inclusive, ao banco réu, a responsabilidade pelos prejuízos decorrentes da inscrição apontada como indevida.
+Cumpre acrescer, por fim, que a efetiva responsabilidade da instituição constitui o mérito da demanda.
+Extrai-se dos autos que o contrato de prestação de serviços educacionais (doc. de ordem nº 5-6) firmado com o GRUPO EDUCACIONAL UNIESP é coligado ao contrato de financiamento estudantil firmado junto a instituição financeira BANCO DO BRASIL (doc. de ordem nº 14-15).
+Desta forma, embora autônomos, possuem evidente interdependência econômica, já que o segundo somente foi formalizado em razão da existência do primeiro vínculo.
+Imprescindível, assim, a interpretação conjunta dos contratos, uma vez que compõem, de forma indissociável, a integralidade da relação negocial objeto de discussão.
+Reforça esse entendimento o fato de que a recusa da segunda apelante em adimplir os pagamentos junto a instituição financeira configurou o inadimplemento do financiamento, o que culminou na inclusão do nome do autor nos cadastros de proteção ao crédito.
+E justamente em razão dessa perspectiva, aliada à previsão do parágrafo único do artigo 7º do CDC, que é possível concluir pela responsabilidade solidária da instituição financeira em relação à falha na prestação de serviços do Grupo UNIESP, pelos prejuízos causados à parte autora.
+Frise-se que a segunda apelante sustenta o descumprimento das obrigações firmadas pelo autor, a justificar a recusa no pagamento do financiamento, contudo, não logrou êxito em comprovar tal versão.
+O certificado de garantia de pagamento do Fundo de Financiamento Estudantil revela o compromisso de amortização do débito, reiterado no item 4 do Termo de Garantia de Pagamento das prestações (doc. de ordem nº 8).
+Dentre as responsabilidades do aluno, listadas nos itens 1 a 6, a requerida não aponta o descumprimento específico, por parte do autor, de quaisquer das obrigações ali estabelecidas, sendo que o histórico escolar, a declaração de conclusão de curso, documentação de atividades acadêmicas e o diploma emitido confirmam o cumprimento dos requisitos (doc. de ordem 7, 9, 10 e 33-36), enquanto os cronogramas de amortização evidenciam o cumprimento do pagamento, trimestral, da quantia de R$50,00 (cinquenta reais) - doc. de ordem nº 11-13.
+Além disso, e como bem ponderado pela magistrada a quo, da leitura do Contrato de Garantia de Pagamento das Prestações do FIES, cuja cópia foi colacionada em contestação (doc. de nº 173), em comparação com a documentação acima referida, igualmente conclui- se que a ré não demonstrou o alegado inadimplemento por parte do autor que configuraria a desobrigação da instituição no pagamento do FIES do beneficiário (cláusula 3.7).
+Portanto, evidenciada a falha na prestação de serviços das recorrentes - a instituição de ensino, por interromper o pagamento do financiamento e a instituição bancária, por promover a negativação do nome autoral no rol de inadimplentes -, e não evidenciada qualquer excludente da responsabilidade, impõe-se a manutenção do dever de indenizar" (e-STJ  fl.  857/862).
+Assim,  rever  a  conclusão  do  Tribunal  recorrido  demandaria  a interpretação de cláusula contratual e  o  revolvimento  do  acervo  fático-probatório  dos  autos,  procedimento  inviável  ante  a  natureza  excepcional  da  via  eleita,  consoante  disposto  nas  Súmula  s  nº  s 5 e  7/STJ.
+Registra-se  que  a  necessidade  do  reexame  da  matéria  fática  impede  a  admissão  do  recurso  especial  tanto  pela  alínea  "a"  quanto  pela  alínea  "c"  do  permissivo  constitucional.
+Ante  o  exposto,  conheço  do  agravo  para  não  conhecer  do  recurso  especial.
+Na  origem,  os  honorários  sucumbenciais  foram  fixados  em  12%  (doze  por  cento)  sobre  o  valor  da  condenação,  os  quais  devem  ser  majorados  para  o  patamar  de  15%  (quinze  por  cento)  em  favor  do  advogado  da  parte  recorrida,  nos  termos  do  artigo  85,  §  11,  do  Código  de  Processo  Civil,  observado  o  benefício  da  gratuidade  da  justiça,  se  for  o  caso.
+É  o  voto.
