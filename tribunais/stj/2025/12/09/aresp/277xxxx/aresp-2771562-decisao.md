@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de agravo interposto por PEDRO MORENO GALDINI contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o Tribunal Regional Federal da 4ª Região negou provimento ao agravo de instrumento manejado pela parte ora recorrente, mantendo a competência do Juizado Especial Federal para o processamento do feito.
+O acórdão recorrido foi assim ementado (fl. 51):
+"AGRAVO DE INSTRUMENTO. LITISCONSÓRCIO FACULTATIVO. CISÃO DA CAUSA. COMPETÊNCIA DO JUIZADO ESPECIAL FEDERAL.A complexidade da causa ou a necessidade de eventual realização de perícia técnica não são critérios aptos à modificação da competência, sendo cabível ao autor indicar o valor da causa compatível com o conteúdo econômico da ação.Tratando-se de litisconsórcio ativo facultativo, para que se possa aferir a correta aplicação das regras de competência (Justiça Federal Comum ou Juizado Especial Federal), o valor da causa deve ser individualizado em relação a cada litisconsorte ou contrato."Nas razões do recurso especial (fls. 66-80), a parte recorrente alegou violação aos arts. 3º da Lei n. 9.099/1995 e 1º da Lei n. 10.259/2001. Sustentou, em síntese, que a causa possui complexidade probatória incompatível com o rito dos Juizados Especiais Federais, notadamente diante da necessidade de perícia de engenharia, o que afastaria a competência do JEF.
+A decisão de admissibilidade (fls. 91-94) negou seguimento ao recurso com base nas Súmulas 7/STJ e 83/STJ.
+O agravo (fls. 107-113) impugnou os fundamentos da decisão agravada.
+É, no essencial, o relatório. Passo a decidir.
+Da competência do Juizado Especial Federal e da Súmula 83/STJ
+A parte agravante defende a incompetência do Juizado Especial Federal (JEF) para julgar a demanda, argumentando que a necessidade de produção de prova pericial complexa (engenharia) seria incompatível com o rito dos juizados, nos termos da Lei n. 9.099/1995.
+O Tribunal de origem, contudo, decidiu em consonância com a jurisprudência consolidada desta Corte Superior. O Superior Tribunal de Justiça firmou o entendimento de que a competência dos Juizados Especiais Federais é absoluta e fixada em razão do valor da causa (até 60 salários mínimos), não sendo afastada pela complexidade da matéria ou pela necessidade de produção de prova pericial.
+A propósito, confira-se o seguinte precedente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. NECESSIDADE DE PERÍCIA. COMPETÊNCIA. JUIZADO ESPECIAL. AGRAVO INTERNO DO PARTICULAR A QUE SE NEGA PROVIMENTO. 1 . Este Superior Tribunal de Justiça firmou entendimento segundo o qual a competência dos Juizados Especiais deve ser fixada em razão do valor da causa, que não pode ultrapassar 60 salários mínimos, sendo irrelevante a necessidade de produção de prova pericial, ou seja, a complexidade da matéria. 2. Agravo interno do particular que se nega provimento. (STJ - AgInt no REsp: 1833876 MG 2019/0252283-4, Relator.: Ministro MANOEL ERHARDT (DESEMBARGADOR CONVOCADO DO TRF5), Data de Julgamento: 21/03/2022, T1 - PRIMEIRA TURMA, Data de Publicação: DJe 24/03/2022).
+Assim, estando o acórdão recorrido em perfeita harmonia com a orientação firmada pelo STJ, incide, na espécie, o óbice da Súmula 83/STJ, aplicável tanto aos recursos interpostos pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+Além disso, para acolher a tese da parte recorrente de que o valor da causa ou o proveito econômico superaria o limite de alçada dos Juizados Especiais, seria necessário o reexame do conjunto fático-probatório dos autos, providência vedada em sede de recurso especial.
+O Tribunal a quo consignou expressamente que "a complexidade da causa ou a necessidade de eventual realização de perícia técnica não são critérios aptos à modificação da competência, sendo cabível ao autor indicar o valor da causa compatível com o conteúdo econômico da ação" (fl. 51).
+Rever tal conclusão para aferir se, no caso concreto, o valor real da demanda excede os 60 salários mínimos exigiria incursão na seara fática, atraindo a incidência da Súmula 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de majorar os honorários advocatícios por tratar-se, na origem, de recurso interposto contra decisão interlocutória, na qual não houve prévia fixação de honorários.
+Publique-se. Intimem-se.
+EMENTA
