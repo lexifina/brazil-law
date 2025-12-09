@@ -1,0 +1,99 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 03/12/2025 a 09/12/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Daniela Teixeira, Humberto Martins e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+Não participou do julgamento a Sra. Ministra Nancy Andrighi.
+EMENTA
+PROCESSUAL CIVIL E CIVIL. RECURSO ESPECIAL. AÇÃO REGRESSIVA. DÍVIDA TRABALHISTA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ARTS. 1.022, II, DO CPC. INOCORRÊNCIA. DIREITO DE REGRESSO FUNDADO EM PREVISÃO CONTRATUAL. EXCEÇÃO DO CONTRATO NÃO CUMPRIDO. ART. 476 DO CC. REEXAME DE PROVAS. SÚMULAS 7/STJ E 5/STJ. TERMO INICIAL DOS JUROS DE MORA. ART. 405 DO CC. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Recurso especial interposto por empresa prestadora de serviços de sinalização viária contra acórdão do Tribunal estadual que, em ação regressiva voltada ao ressarcimento de valores pagos em execução trabalhista decorrente de condenação solidária, manteve o direito de regresso reconhecido com base em cláusula contratual específica, alterando apenas o termo inicial dos juros de mora para a data da citação, nos termos do art. 405 do CC.
+2. O objetivo recursal é decidir se (i) há negativa de prestação jurisdicional por omissão quanto ao descumprimento contratual relativo à liberação de pista (Cláusula 7ª, item 7.5), em afronta ao art. 1.022, II, do CPC; (ii) incide a exceção do contrato não cumprido (art. 476 do CC) para afastar o direito regressivo previsto na avença.
+3. A prestação jurisdicional se mostra adequada quando o acórdão enfrenta a tese suscitada, analisa o descumprimento contratual alegado e fixa seus efeitos jurídicos, ainda que em sentido contrário à pretensão recursal; não se exige o enfrentamento pontual de todos os argumentos quando os fundamentos adotados bastam para sustentar a conclusão.
+4. O direito de regresso subsiste quando amparado por cláusula contratual expressa que prevê ressarcimento por pagamento de verbas trabalhistas em razão de solidariedade reconhecida, sendo inviável, em recurso especial, revolver fatos, provas e interpretar cláusulas para infirmar conclusão local sobre a inaplicabilidade da exceção do contrato não cumprido (arts. 476 do CC; Súmulas 7/STJ e 5/STJ).
+5. Recurso especial não conhecido.
+RELATÓRIO
+Trata-se de recurso especial interposto por PHILIPPE VARGAS TRANSPORTE LTDA. (PHILIPPE VARGAS), com fundamento na alínea a do inciso III do art. 105 da Constituição Federal, contra acórdão do Tribunal de Justiça de Santa Catarina, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO REGRESSIVA. DÍVIDA TRABALHISTA. SENTENÇA DE PROCEDÊNCIA. APELO DO RÉU.
+PRETENSO AFASTAMENTO DO DIREITO REGRESSIVO RECONHECIDO NO DECISUM. INACOLHIMENTO. EXISTÊNCIA DE PREVISÃO EXPRESSA NA AVENÇA PACTUADA ENTRE AS PARTES ACERCA DA POSSIBILIDADE DE REGRESSO. AUSÊNCIA DE CULPA DA AUTORA PELA CONDENAÇÃO SOFRIDA NA ESFERA TRABALHISTA.
+TERMO INICIAL DOS JUROS DE MORA. SUB-ROGAÇÃO OPERADA. RELAÇÃO CONTRATUAL. INCIDÊNCIA DO ART. 405 DO CÓDIGO CIVIL. JUROS MORATÓRIOS QUE DEVEM INCIDIR A PARTIR DA CITAÇÃO. INSURGÊNCIA ACOLHIDA NO PONTO.
+HONORÁRIOS RECURSAIS DESCABIDOS. RECURSO CONHECIDO E PARCIALMENTE PROVIDO. (e-STJ, fl. 1.011)
+Os embargos de declaração opostos por PHILIPPE VARGAS foram rejeitados (e-STJ, fls. 1.043/1.044).
+Nas razões do apelo nobre, PHILIPPE VARGAS alegou (1) negativa de prestação jurisdicional por violação dos arts. 1.022, II, do CPC, em virtude de omissão do Colegiado quanto ao descumprimento da Cláusula 7ª, item 7.5, referente à liberação da pista com a concessionária, tema suscitado na apelação e reiterado nos embargos de declaração; (2) contrariedade ao art. 476 do CC, sustentando a aplicação da exceção do contrato não cumprido (exceptio non adimpleti contractus) para afastar o direito regressivo reconhecido no acórdão.
+Houve apresentação de contrarrazões por CONSTRUTORA FORTUNATO LTDA (e-STJ, fls. 1.074-1.079).
+O recurso especial foi admitido pelo Tribunal estadual (e-STJ, fls. 1.082-1.084).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E CIVIL. RECURSO ESPECIAL. AÇÃO REGRESSIVA. DÍVIDA TRABALHISTA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ARTS. 1.022, II, DO CPC. INOCORRÊNCIA. DIREITO DE REGRESSO FUNDADO EM PREVISÃO CONTRATUAL. EXCEÇÃO DO CONTRATO NÃO CUMPRIDO. ART. 476 DO CC. REEXAME DE PROVAS. SÚMULAS 7/STJ E 5/STJ. TERMO INICIAL DOS JUROS DE MORA. ART. 405 DO CC. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Recurso especial interposto por empresa prestadora de serviços de sinalização viária contra acórdão do Tribunal estadual que, em ação regressiva voltada ao ressarcimento de valores pagos em execução trabalhista decorrente de condenação solidária, manteve o direito de regresso reconhecido com base em cláusula contratual específica, alterando apenas o termo inicial dos juros de mora para a data da citação, nos termos do art. 405 do CC.
+2. O objetivo recursal é decidir se (i) há negativa de prestação jurisdicional por omissão quanto ao descumprimento contratual relativo à liberação de pista (Cláusula 7ª, item 7.5), em afronta ao art. 1.022, II, do CPC; (ii) incide a exceção do contrato não cumprido (art. 476 do CC) para afastar o direito regressivo previsto na avença.
+3. A prestação jurisdicional se mostra adequada quando o acórdão enfrenta a tese suscitada, analisa o descumprimento contratual alegado e fixa seus efeitos jurídicos, ainda que em sentido contrário à pretensão recursal; não se exige o enfrentamento pontual de todos os argumentos quando os fundamentos adotados bastam para sustentar a conclusão.
+4. O direito de regresso subsiste quando amparado por cláusula contratual expressa que prevê ressarcimento por pagamento de verbas trabalhistas em razão de solidariedade reconhecida, sendo inviável, em recurso especial, revolver fatos, provas e interpretar cláusulas para infirmar conclusão local sobre a inaplicabilidade da exceção do contrato não cumprido (arts. 476 do CC; Súmulas 7/STJ e 5/STJ).
+5. Recurso especial não conhecido.
+VOTO
+Não conheço do recurso especial.
+Da contextualização fática
+A controvérsia se instaurou em ação regressiva proposta por Construtora Fortunato Ltda., visando ao ressarcimento de valores pagos em execução trabalhista, decorrentes de condenação solidária em reclamação ajuizada por ex-empregado da contratada Philippe Vargas Transportes Ltda.
+O Juízo de primeira instância julgou procedente o pedido, reconhecendo a previsão contratual de ressarcimento e condenando a ré ao pagamento do montante desembolsado, com correção e sucumbência.
+Em apelação, Philippe Vargas alegou a incidência da exceptio non adimpleti contractus, por descumprimento da contratante quanto à liberação da pista para execução dos serviços aditados (Cláusula 7ª, item 7.5), e quanto ao pagamento do faturamento mínimo mensal.
+O Tribunal de Justiça catarinense, ao julgar o recurso, manteve o direito de regresso, enfatizando a previsão contratual e a ausência de culpa da autora pela condenação trabalhista, e apenas alterou o termo inicial dos juros de mora para a data da citação, à luz do art. 405 do CC, conhecendo da apelação e dando-lhe parcial provimento.
+Na sequência, Philippe Vargas opôs embargos de declaração, apontando omissão sobre a tese específica do d escumprimento da Cláusula 7ª, item 7.5 (liberação da pista com a concessionária), essencial, a seu ver, para a análise da exceção do contrato não cumprido. Os aclaratórios foram rejeitados, com multa, sob o fundamento de inexistência de vícios do art. 1.022 do CPC e de indevida rediscussão de matéria já decidida.
+Philippe Vargas interpôs recurso especial, pela alínea a do art. 105, III, da CF, sustentando violação dos arts. 1.022, II, do CPC e 476 do CC. A Vice-Presidência do TJSC admitiu o recurso quanto à negativa de prestação jurisdicional, entendendo presentes os requisitos extrínsecos e o prequestionamento necessário, e determinou a remessa ao STJ.
+Da violação do art. 1.022, II, do CPC
+Afirma PHILIPPE VARGAS que o acordão recorrido é omisso na análise do descumprimento da Cláusula 7ª, item 7.5, referente à liberação da pista com a concessionária, tema suscitado na apelação e reiterado nos embargos de declaração.
+Contudo, sem razão.
+Sobre a matéria, o Tribunal estadual assim se pronunciou (e-STJ, fls. 1.008-1.010):
+(..)
+In casu, a autora manjou ação regressiva contra a parte requerida Philippe Vargas Transportes Eireli visando a condenação desta à restituição de cifras pagas a título de condenação na esfera trabalhista (reclamatória n. 0000107-71.2019.5.12.0017).
+A ré, por sua vez, refutou a possibilidade de reembolso, pautada no alegado descumprimento contratual pela autora, seja em decorrência da "ausência de liberação da pista onde os serviços seriam executados, impedindo a própria execução do objeto contratado", seja porque não honrou com o adimplemento mínimo mensal de faturamento, ajustado na avença pactuada.
+Consideradas tais afirmações, compulsando-se o amealhado probatório, ficou estabelecido nos autos que as partes celebraram avença de prestação de serviços para sinalização em obras rodoviárias no dia 27 de setembro de 2017, com um aditamento realizado em 24 de novembro de 2017, ampliando o objeto do contrato (evento 1, CONTR3, da origem). Além disso, é fato incontroverso que ambas as partes foram condenadas solidariamente na Reclamatória Trabalhista n. 0000107-71.2019.5.12.0017, proposta por Márcio Elias Portela, que trabalhou nas referidas obras (evento 1, OUT4, p. 9-15, da origem).
+Igualmente, as litigantes não discutem o fato de que o pagamento da referida condenação na Justiça do Trabalho foi feito pela requerente (evento 1, OUT4, p. 19-22, da origem) e que existe previsão no contrato entabulado entre elas acerca da obrigação de reembolso por gastos havidos em virtude de "reconhecimento judicial de solidariedade ou subsidiariedade da CONTRATANTE, no cumprimento das obrigações trabalhistas, ou previdenciárias da CONTRATADA " (evento 1, CONTR3, p. 8, da origem):
+(..)
+O ponto nodal do apelo, cinge-se, portanto, em averiguar se na hipótese em tela houve o alegado descumprimento contratual e, na eventualidade de ter ocorrido, se a dita circunstância é hábil a elidir o direito de regresso previsto no contrato.
+No que tange à primeira irresignação, é importante destacar que a quaestio foi discutida ainda nos autos da actio monitória autuada sob o n. 0313073-76.2018.8.24.0038, que tramitou na 3ª Vara Cível da comarca de Joinville, transitada em julgado no dia 26 de agosto de 2022. Naquele processo foi decidido que a desqualificação da requerida, feita pela empresa Autopista Planalto Sul, não era apta a justificar a resilição da avença, que foi rescindida unilateralmente pela requerente, em 28 de fevereiro de 2018.
+Ora, apesar da evidente insatisfação com a qualidade dos serviços de sinalização ofertados, não se pode desconsiderar que a própria demandante, no mesmo dia em que foi notificada sobre a desqualificação, assinou aditivo contratual com a demandada visando ampliar o objeto contratual (eventos 30, DOCUMENTACAO3 e 65, DOCUMENTACAO5, ambos da origem). A propósito, extraio trecho da sentença prolatada nos autos de n. 0313073-76.2018.8.24.0038:
+(..)
+Nesse contexto, considerando as peculiaridades suso delineadas, coaduno com o entendimento exarado pelo Magistrado sentenciante, no sentido de que " ..  a ausência de liberação da concessionária para início dos trabalhos recai sobre a esfera de responsabilidade da autora. Isso não conduz, porém, à automática responsabilidade desta pelos valores despendidos com funcionários pela ré. Além de haver previsão contratual de que o custeio das verbas de caráter trabalhista seria de responsabilidade da própria demandada, a remuneração desta ocorreu  ou melhor, deveria ter ocorrido  por meio do pagamento do faturamento mínimo, de onde essas despesas devem ser descontadas, inclusive as atinentes ao pagamento de funcionários, tenham eles laborado ou não, mesmo porque o serviço também foi remunerado independentemente da efetiva prestação.
+Por outro lado, após a resilição do contrato (28-2-2018), não há como imputar à autora a manutenção do funcionário nos quadros da ré".
+(..).  grifei
+A leitura coordenada do acórdão da apelação e do acórdão dos embargos, sobretudo considerando o trecho acima transcrito, evidenciou que a matéria foi devidamente enfrentada. O Colegiado delimitou o "ponto nodal" como sendo justamente apurar se houve o alegado descumprimento contratual e se tal circunstância teria o condão de afastar o direito de regresso previsto na avença.
+Em seguida, apreciou a alegação de ausência de liberação da pista pela contratante e suas repercussões e concluiu pela subsistência do direito de sub-rogação da autora quanto às verbas trabalhistas adimplidas. Verifica-se da leitura do acórdão que a discussão sobre liberação da pista fora considerada, mas não se mostrou hábil a afastar o direito de regresso, à vista do conjunto probatório, da decisão pretérita na ação monitória e das obrigações contratuais assumidas, de modo que inexistiam omissão, contradição ou obscuridade a sanar.
+Assim, o argumento de que não houve exame da Cláusula 7ª, item 7.5, não se sustentou frente ao próprio conteúdo do acórdão, que tratou expressamente da "falta de liberação da pista" e fixou seus efeitos jurídicos, afastando a conclusão pretendida por PHILIPPE VARGAS.
+A jurisprudência desta Corte é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. EMBARGOS DO DEVEDOR. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. DEFICIÊNCIA DA FUNDAMENTAÇÃO RECURSAL. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. INADMISSIBILIDADE.
+1. Embargos do devedor.
+2. Agravo interno interposto à decisão unipessoal que não conheceu do recurso especial.
+3. Não se viabiliza o recurso especial pela violação dos arts. 489, § 1º, e 1.022 do CPC, quando, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente. O julgador não é obrigado a discorrer sobre todos os argumentos levantados pelas partes, mas sim decidir a contento, nos limites da lide que lhe foi proposta, fundamentando o seu entendimento de acordo com o seu livre convencimento, baseado nos aspectos pertinentes à hipótese sub judice e com a legislação que entender aplicável ao caso concreto. Precedentes.
+4. Conforme jurisprudência desta Corte, evidencia-se a deficiência na fundamentação recursal quando o recorrente não indica qual dispositivo de lei federal teria sido violado, bem como não desenvolve argumentação a fim de demonstrar em que consiste a ofensa aos dispositivos tidos por violados.
+5. É inadmissível o recurso especial quando o acórdão recorrido se sustenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+6. Não se conhece de recurso especial quando se faz necessário o reexame das circunstâncias fático-probatórias dos autos (Súmula 7/STJ).
+7. Agravo interno não provido.
+(AgInt no REsp n. 2.175.939/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 14/4/2025, DJEN de 23/4/2025)
+Logo, não verificadas quaisquer omissões no acórdão recorrido, não conheço do recurso em relação às alegadas violações.
+Da violação do art. 476 do CC
+Sustenta PHILIPPE VARGAS que se aplica ao caso a exceção do contrato não cumprido (exceptio non adimpleti contractus), instituto apto a afastar o direito regressivo reconhecido no acórdão recorrido.
+Como já pontuado no tópico anterior, o Tribunal estadual rejeitou a exceção do contrato não cumprido como fundamento para afastar o direito de regresso. Revisar a conclusão do Tribunal estadual, seja para reconhecer a exceção do contrato não cumprido, seja para reconhecer o descumprimento mútuo, encontra óbice no enunciado 7 da Súmula desta Corte, pois demanda incursão por fatos e provas.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL
+CIVIL DE 2015. EMBARGOS DE TERCEIRO. ALEGADA AFRONTA AOS ARTS. 489,
+INCISO II, E 1022, INCISO II, DO CPC/2015. NÃO DEMONSTRADA.
+INDEFERIMENTO DO PEDIDO VEICULADO NO BOJO DA AÇÃO DECLARATÓRIA.
+POSICIONAMENTO DO ACÓRDÃO RECORRIDO BASEADO NA ANÁLISE DAS PROVAS
+CARREADAS AOS AUTOS COM FUNDAMENTO NA EXCEÇÃO DO CONTRATO NÃO
+CUMPRIDO. ENTENDIMENTO DIVERSO. NECESSIDADE DE REVOLVIMENTO DE
+MATÉRIA FÁTICA. INADMISSIBILIDADE. INCIDÊNCIA DO IMPEDIMENTO DA
+SÚMULA 7/STJ.
+AGRAVO INTERNO DESPROVIDO.
+(AgInt no AREsp n. 1.482.345/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 15/6/2020, DJe de 19/6/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. PRAZO PARA CUMPRIMENTO DAS OBRIGAÇÕES. EXCEÇÃO DO CONTRATO NÃO CUMPRIDO. NOTIFICAÇÃO DO INADIMPLEMENTO. MATÉRIA QUE DEMANDA REEXAME DE PROVAS E DO INSTRUMENTO CONTRATUAL. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A exceção do contrato não cumprido, derivada do disposto no artigo 476 do CC/2002, incide no caso dos autos, não sendo possível ao agravante exigir o cumprimento das obrigações impostas aos agravados, sem que ela própria tenha cumprido as suas. 2. O acórdão estadual examinou a matéria fática para concluir pela incidência da exceção de contrato não cumprido. Dessa forma, inviável alterar tal conclusão em recurso especial, ante o óbice das Súmulas 5 e 7 do STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.430.896/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 20/8/2019, DJe de 23/8/2019)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. COMPROMISSO DE COMPRA E VENDA. EXCEÇÃO DO CONTRATO NÃO CUMPRIDO. REVISÃO DAS CONCLUSÕES ESTADUAIS. IMPOSSIBILIDADE. NECESSIDADE DE INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E DO REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS 5 E 7/STJ. DISSÍDIO PREJUDICADO. IMPOSSIBILIDADE DE REVISÃO DE CRITÉRIOS SOPESADOS NA FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. O reexame das conclusões estaduais - acerca da caracterização da hipótese de exceção do contrato não cumprido - demandaria, necessariamente, a interpretação de cláusulas contratuais e o revolvimento do acervo fático-probatório dos autos, providências inviáveis na via estreita do recurso especial, ante os óbices dispostos nas Súmulas 5 e 7/STJ. 2. A revisão dos critérios fáticos sopesados de forma equitativa para fixação dos honorários advocatícios (art. 20, §§ 3º e 4º, do CPC/1973) revela-se, em princípio inviável em razão do óbice disposto na Súmula 7/STJ, o qual somente poderia ser relevado se o aludido valor fosse considerado irrisório ou exorbitante, o que não ocorreu nos autos.
+3. A análise do dissídio jurisprudencial fica prejudicada em razão da aplicação do enunciado da Súmula n. 7/STJ, porquanto não é possível encontrar similitude fática entre o aresto combatido e os acórdãos paradigmas, uma vez que as suas conclusões díspares ocorreram não em razão de entendimentos diversos sobre uma mesma questão legal, mas, sim, em virtude de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo. 4.
+Razões recursais insuficientes para a revisão do julgado.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 1.215.051/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 12/6/2018, DJe de 22/6/2018)
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em favor de CONSTRUTORA FORTUNATO LTDA., limitados a 20%, nos termos do art. 85, § 11, do CPC.
+É como voto.
