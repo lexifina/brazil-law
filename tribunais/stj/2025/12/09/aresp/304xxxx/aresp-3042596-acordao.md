@@ -1,0 +1,78 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 03/12/2025 a 09/12/2025, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Ricardo Villas Bôas Cueva.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+Não participou do julgamento a Sra. Ministra Nancy Andrighi.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. DIREITO CIVIL. CONTRATO. COMPRA E VENDA. IMÓVEL. ATRASO NA ENTREGA DA OBRA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. RESPONSABILIDADE. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. DANOS MORAIS. CASO CONCRETO. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, ainda que de forma sucinta, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. É inviável rever o entendimento firmado pelas instâncias ordinárias acerca da responsabilidade, bem como a análise da pretensão recursal no sentido de que os danos decorrem de culpa exclusiva do consumidor ou de terceiro, sem a análise dos fatos e das provas da causa, o que atrai a incidência da Súmula nº 7/STJ.
+3. O recurso especial é inviável quando a modificação do acórdão recorrido acerca das circunstâncias do caso concreto que justificam a indenização por danos morais demanda o reexame do conjunto fático-probatório dos autos. Incidência da Súmula nº 7/STJ.
+4. Agravo conhecido para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+RELATÓRIO
+Trata-se de agravo interposto por ERBE INCORPORADORA 037 S.A. contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, III, alínea "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul assim ementado:
+"APELAÇÕES CÍVEIS - AÇÃO INDENIZATÓRIA POR DANOS MORAIS E MATERIAIS, COM PEDIDO DE TUTELA DE URGÊNCIA - SUSPENSÃO DO PROCESSO PELA PENDÊNCIA DO JULGAMENTO DO RECURSO ESPECIAL N. 2.021.665/MS NO STJ, SOBRE O TEMA REPETITIVO 1198 - AUSÊNCIA DE SIMILITUDE - REJEITADO - PRELIMINARES DE ILEGITIMIDADE PASSIVA E LITISCONSÓRCIO PASSIVO NECESSÁRIO - AFASTADAS - ADVOCACIA PREDATÓRIA - RECHAÇADA - VÍCIO DE CONSTRUÇÃO - RESPONSABILIDADE DA RÉ - CONFIRMADA - DANOS MATERIAIS E MORAIS - EXISTENTES - VALOR DA REPARAÇÃO MORAL - RAZOÁVEL E PROPORCIONAL - RECURSO DA RÉ NÃO PROVIDO - APELO DA AUTORA PARCIALMENTE PROVIDO" (e-STJ fl. 758).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 783-785).
+No recurso especial, a recorrente alega a violação dos artigos 489 e 1.022 do Código de Processo Civil, 12, § 3º, III, Código de Defesa do Consumidor e 186 e 927 do Código Civil.
+Sustenta a tese de negativa de prestação jurisdicional ao argumento de que o Tribunal de origem não se manifestou acerca da inexistência de elementos probatórios nos autos aptos a afastar a condenação em danos morais in re ipsa (e-STJ fls. 790-791);
+Afirma que deve ser afastada a responsabilidade civil em virtude da culpa exclusiva do consumidor ou de terceiros, pois os moradores realizaram modificações sem acompanhamento técnico.
+Alega que não há dano moral indenizável, por ausência de prova de abalo psíquico, e que não é possível a condenação por dano moral in re ipsa.
+Com as contrarrazões (e-STJ fls. 848-858), o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+Na petição de e-STJ fls. 896-897, a recorrente noticia que as questões discutidas nestes autos se enquadram na descrição da Controvérsia nº 695 do Superior Tribunal de Justiça e requer que seja avaliada a possibilidade de utilização do presente feito na complementação da controvérsia.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. DIREITO CIVIL. CONTRATO. COMPRA E VENDA. IMÓVEL. ATRASO NA ENTREGA DA OBRA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. RESPONSABILIDADE. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. DANOS MORAIS. CASO CONCRETO. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, ainda que de forma sucinta, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. É inviável rever o entendimento firmado pelas instâncias ordinárias acerca da responsabilidade, bem como a análise da pretensão recursal no sentido de que os danos decorrem de culpa exclusiva do consumidor ou de terceiro, sem a análise dos fatos e das provas da causa, o que atrai a incidência da Súmula nº 7/STJ.
+3. O recurso especial é inviável quando a modificação do acórdão recorrido acerca das circunstâncias do caso concreto que justificam a indenização por danos morais demanda o reexame do conjunto fático-probatório dos autos. Incidência da Súmula nº 7/STJ.
+4. Agravo conhecido para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+VOTO
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+Inicialmente, verifica-se que o presente recurso especial não discute nenhuma das matérias englobadas na Controvérsia nº 695 do Superior Tribunal de Justiça, quais sejam:
+"a) possibilidade de formular pedido genérico de danos materiais em decorrência de vícios de construção quando é muito difícil ou oneroso para a parte quantificá-los previamente; e
+b) existência de interesse de agir quando não há prévio requerimento administrativo da pretensão autoral."
+Com efeito, as questões veiculadas no presente recurso limitam-se a debater a responsabilidade da ora recorrente pelos danos alegados e o cabimento, ou não, de indenização por danos morais.
+Dessa forma, não há falar em utilização do recurso nestes autos para complementação controvérsia pretendida.
+A insurgência não merece prosperar.
+No tocante à negativa de prestação jurisdicional, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+No caso, o Tribunal de Justiça manifestou-se expressamente quanto aos danos de natureza extrapatrimonial que considerou para fundamentar a indenização por danos morais pleiteada, conforme se verifica do seguinte trecho do acórdão resolutório dos embargos de declaração:
+"(..)
+Em nenhum momento foi afirmada a existência de dano moral in re ipsa no julgado. Pelo contrário, segundo apontado, evidente que as falhas na prestação do serviço causaram incômodos à parte, porque, após conseguiu adquirir a tão sonhada casa própria e com pouco tempo de uso, terá que conviver com a reforma reparadora. Não bastasse isso, a autora somente conseguiu solucionar esses problemas com o auxílio do Poder Judiciário, fato esse que ultrapassa o mero aborrecimento" (e-STJ fl. 784).
+Não há falar, portanto, em existência de omissão apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+A esse respeito, os seguintes precedentes:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE CUSTEIO DE MEDICAMENTO (THIOTEPA). 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2. FUNDAMENTO SUFICIENTE NÃO ATACADO. SÚMULA 283/STF. 3. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. 4. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282/STF E 211/STJ. 5. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. O acórdão recorrido encontra-se em perfeita harmonia com a jurisprudência desta Corte no sentido de que, "embora se trate de fármaco importado ainda não registrado pela ANVISA, teve a sua importação excepcionalmente autorizada pela referida Agência Nacional, sendo, pois, de cobertura obrigatória pela operadora de plano de saúde" (REsp 1.923.107/SP, relatora ministra Nancy Andrighi, Terceira Turma, julgado em 10/8/2021, DJe 16/8/2021).
+3. Atentando-se aos argumentos trazidos pela recorrente e aos fundamentos adotados pela Corte estadual de que a ANVISA admite a importação do fármaco, verifica-se que estes não foram objeto de impugnação nas razões do recurso especial, e a subsistência de argumento que, por si só, mantém o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+4. A ausência de debate acerca do conteúdo normativo dos arts. 66 da Lei n. 6.360/1976 e 10, V, da Lei n. 6.437/1976, apesar da oposição de embargos de declaração, atrai os óbices das Súmulas 282/STF e 211/STJ.
+5. Agravo interno a que se nega provimento" (AgInt no AREsp 2.164.998/RJ, Relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se).
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE REGRESSO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DOS DEMANDADOS.
+1. Não há se falar em negativa de prestação jurisdicional, na medida em que o órgão julgador dirimiu todas as questões que lhe foram postas à apreciação, de forma clara e sem omissões, embora não tenha acolhido a pretensão da parte.
+2. Rever a conclusão do Tribunal de origem com relação à responsabilidade pelo ressarcimento dos valores pagos em reclamação trabalhista demandaria o reexame do conjunto fático-probatório dos autos e a interpretação de cláusulas contratuais, providencias que encontram óbice no disposto nas Súmulas 5 e 7 do STJ. Precedentes.
+3. Agravo interno desprovido" (AgInt nos EDcl no AREsp 2.135.800/SP, Relator Ministro MARCO BUZZI, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se).
+Por outro lado, a questão da responsabilidade pelos danos foi decidida pela Corte local com fundamento na análise do acervo fático-probatório existente nos autos, como se observa do seguinte trecho do acórdão recorrido:
+"(..)
+Alega a ré que os danos verificados no imóvel se deram por culpa exclusiva da autora, eis que esta promoveu diversas reformas, sem o devido acompanhamento da construtora.
+Porém, o laudo pericial, produzido durante a instrução processual, identificou a existência de vícios ocultos no imóvel discutido, decorrentes da construção erigida pela parte ré, vejamos:
+(..)
+Assim, houve falhas na prestação dos serviços pela empresa Erbe Incorporadora S. A (atual denominação da empresa Brookfield MB Empreendimentos Imobiliários S/A), o que pela relação de consumo que permeia o mérito da questão, importa na responsabilidade civil objetiva da ré, em face da teoria do risco do empreendimento, presente no art. 14, § 1º, inciso II, do Código de Defesa do Consumidor.
+Desta feita, não restando dúvida acerca da existência de vícios de construção (projeto, materiais e execução) no imóvel adquirido pela autora, é evidente a presença dos requisitos ensejadores da responsabilidade da construtora em reparar os danos elencados no laudo pericial, nos termos do artigo 12, do CDC, quais sejam: dano efetivo, conduta ilícita da construtora e nexo de causalidade.
+Diante dessa realidade fática, inexiste justificativa jurídica para reforma da condenação da empresa ré relativamente ao pagamento de indenização por danos materiais, não havendo qualquer cabimento a alegação de mau uso ou falta de manutenção do imóvel" (e-STJ fls. 766-767).
+Assim, rever a conclusão do tribunal local acerca da responsabilidade, bem como a análise da pretensão recursal no sentido de que os danos decorrem de culpa exclusiva do consumidor ou de terceiro, demandaria, necessariamente, o revolvimento do acervo fático-probatório dos autos, procedimento inviável ante a natureza excepcional da via eleita, consoante disposto na Súmula nº 7/STJ.
+Com relação aos danos morais, o Tribunal de origem especificou as circunstâncias dos autos que justificaram a condenação, como se observa de trechos do acórdão de e-STJ fls. 683-785, já transcrito na parte em que foi afastada a tese de negativa de prestação jurisdicional, e do acórdão de e-STJ fls. 767-768, o qual transcreve-se na parte que interessa:
+"(..)
+Em decorrência disso, é inegável que a parte autora foi ofendida como pessoa, pois evidente o abalo moral causado pela frustração em adquirir a sua tão sonhada moradia com vícios de construção que a expõe à insalubridade, risco de vida e má estética do imóvel.
+Sendo assim, levando em conta os incômodos, frustrações e transtornos suportados pela autora-recorrente em virtude dos defeitos decorrentes da má construção do imóvel adquirido, que ultrapassam o mero aborrecimento da vida cotidiana, é cabível o pagamento de indenização por danos morais, pois embora não seja presumido (in re ipsa), a angústia e sofrimento íntimo a autora e sua família, não se caracteriza como mero inadimplemento contratual.
+Não se trata, por certo, de simples dissabor ou mero aborrecimento que possa ser superado; ao revés, o abalo e a contrariedade de quem contrata a construção de um bem em plenas condições de uso e não obtém a esperada contrapartida são inequívocos, gerando óbvia ansiedade e frustração, que não são inerentes a qualquer negócio jurídico" (e-STJ fls. 767-768).
+Com efeito, para rever o entendimento firmado pelas instâncias ordinárias de que o atraso na entrega do imóvel gerou dano moral indenizável, seria necessário o revolvimento de fatos e de provas dos autos, o que é inviável no recurso especial pela incidência da Súmula nº 7/STJ.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA. IMÓVEL NA PLANTA. ENTREGA DO BEM. ATRASO INJUSTIFICADO. DANOS MORAIS. REEXAME. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A jurisprudência do Superior Tribunal de Justiça preleciona que o simples inadimplemento contratual em razão do atraso na entrega do imóvel não é suficiente, por si só, para acarretar dano moral indenizável, sendo necessária a comprovação de circunstâncias excepcionais que podem configurar lesão extrapatrimonial.
+3. A revisão dos fundamentos do acórdão estadual para afastar a ocorrência dos danos morais a partir da tese de que teria havido mero inadimplemento contratual exigiria exceder os fundamentos do acórdão impugnado e adentrar
+no exame das provas e do contrato, procedimentos vedados em recurso especial, a teor das Súmulas nºs 5 e 7/STJ.
+4. Agravo interno não provido" (AgInt no AREsp 2.082.092/RJ, Relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 28/11/2022, DJe de 9/12/2022).
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados em 12% (doze por cento) sobre o valor da condenação, os quais devem ser majorados para o patamar de 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do artigo 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+É o voto.
