@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 03/12/2025 a 09/12/2025, por unanimidade, acolher os embargos de declaração, com efeitos modificativos, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Daniela Teixeira, Humberto Martins e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+Não participou do julgamento a Sra. Ministra Nancy Andrighi.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. INTERPOSIÇÃO DE AGRAVOS EM RECURSO ESPECIAL POR AMBAS AS PARTES. JULGAMENTO QUE APRECIA APENAS UM DOS RECURSOS. OMISSÃO CONFIGURADA. EMBARGOS DE DECLARAÇÃO ACOLHIDOS COM EFEITOS INFRINGENTES.
+1. Configurada está a omissão sanável por embargos de declaração quando o acórdão, diante da interposição de agravos em recurso especial por ambas as partes, analisa exclusivamente o recurso de uma delas, deixando de apreciar o recurso da parte adversa.
+2. A ausência de manifestação sobre recurso tempestivamente interposto implica prestação jurisdicional incompleta, ensejando o acolhimento dos embargos declaratórios com fundamento no art. 1.022, II, do Código de Processo Civil.
+3. Impõe-se a anulação do julgado omisso para que seja proferida nova decisão com análise conjunta de ambos os agravos em recurso especial, assegurando-se a completude da prestação jurisdicional e a observância do devido processo legal.
+4. Embargos de declaração acolhidos com efeitos infringentes.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por LUIZ EDUARDO DE MATTOS PIMENTA (LUIZ) contra acórdão proferido pela Terceira Turma desta Corte, de minha relatoria (e-STJ, fls. 1.126 a 1.132).
+LUIZ alega a ocorrência de omissão no julgado, sustentando que o acórdão não analisou o agravo em recurso especial por ele interposto (e-STJ, fls. 1.072 a 1.097), protocolado em resposta à inadmissão de seu recurso especial (e-STJ, fls. 1.046 a 1.047). Afirma que a decisão embargada se limitou a julgar o agravo em recurso especial apresentado pelo BANCO DO BRASIL S.A. (BANCO), configurando falha na prestação jurisdicional. Postula, assim, o acolhimento dos presentes embargos para que o vício seja sanado, com a devida análise do seu reclamo.
+Foi certificado o decurso do prazo para manifestação do BANCO (e-STJ, fl. 1.142).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. INTERPOSIÇÃO DE AGRAVOS EM RECURSO ESPECIAL POR AMBAS AS PARTES. JULGAMENTO QUE APRECIA APENAS UM DOS RECURSOS. OMISSÃO CONFIGURADA. EMBARGOS DE DECLARAÇÃO ACOLHIDOS COM EFEITOS INFRINGENTES.
+1. Configurada está a omissão sanável por embargos de declaração quando o acórdão, diante da interposição de agravos em recurso especial por ambas as partes, analisa exclusivamente o recurso de uma delas, deixando de apreciar o recurso da parte adversa.
+2. A ausência de manifestação sobre recurso tempestivamente interposto implica prestação jurisdicional incompleta, ensejando o acolhimento dos embargos declaratórios com fundamento no art. 1.022, II, do Código de Processo Civil.
+3. Impõe-se a anulação do julgado omisso para que seja proferida nova decisão com análise conjunta de ambos os agravos em recurso especial, assegurando-se a completude da prestação jurisdicional e a observância do devido processo legal.
+4. Embargos de declaração acolhidos com efeitos infringentes.
+VOTO
+O recurso merece acolhimento.
+Os embargos de declaração são tempestivos e preenchem os demais requisitos de admissibilidade. Passo, portanto, ao seu exame.
+Antes, para que não se alegue, novamente, defeito na entrega da prestação jurisdicional, convém trazer novamente a lume o contexto fático do caso apreciado. A controvérsia origina-se de cumprimento de sentença ajuizado por LUIZ, com base no título executivo judicial formado nos autos da Ação Civil Pública nº 0008465-28.1994.4.01.3400. Após decisão de primeira instância que acolheu parcialmente a impugnação do BANCO (e-STJ, fls. 37 a 49), ambas as partes interpuseram recursos sucessivos. Da análise detida dos autos, verifica-se que tanto LUIZ (e-STJ, fls. 885 a 904) quanto o BANCO (e-STJ, fls. 629 a 692) interpuseram recursos especiais. Ambas as insurgências foram inadmitidas pelo Tribunal de Justiça do Estado de São Paulo (e-STJ, fls. 1.046 a 1.047 e 1.048 a 1.051, respectivamente). Em face dessas decisões, as duas partes manejaram agravos em recurso especial: LUIZ, às, e-STJ, fls. 1.072 a 1.097, e o BANCO, às, e-STJ, fls. 1.054 a 1.068.
+Ocorre que, ao proceder ao julgamento dos feitos, o acórdão embargado (e-STJ, fls. 1.126 a 1.132) analisou somente o agravo em recurso especial interposto pelo BANCO, omitindo-se por completo quanto ao recurso manejado por LUIZ. A omissão é manifesta e pode ser constatada pela simples leitura da ementa do julgado, que transcrevo na íntegra:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. AÇÃO CIVIL PÚBLICA. CÉDULA DE CRÉDITO RURAL. PLANO COLLOR I. AGRAVO INTERNO INTERPOSTO CONTRA DECISÃO FAVORÁVEL. AUSÊNCIA DE INTERESSE RECURSAL.
+1. Configura manifesta ausência de interesse recursal a interposição de agravo interno por parte que se insurge contra decisão monocrática que lhe foi inteiramente favorável, mantendo provimento jurisdicional que a beneficiou.
+2. Caracteriza abuso do direito de recorrer e violação aos deveres de lealdade e boa fé processual a utilização de recurso manifestamente incabível como sucedâneo de agravo de instrumento não interposto oportunamente, com o intuito de rediscutir matérias já atingidas pela preclusão.
+3. A aplicação de multa com fundamento no art. 77, incisos II, III, IV e VI, do CPC é medida adequada diante da interposição de recurso manifestamente infundado que visa exclusivamente protelar o feito e discutir questões preclusas.
+4. O reexame da legalidade da sanção por litigância de má fé, com base em fatos incontroversos e delineados no acórdão recorrido, constitui requalificação jurídica da conduta processual, não se configurando vedado reexame de provas (Súmula n. 7 do STJ).
+5. A tese que afasta a multa quando o agravo interno objetiva o mero esgotamento das instâncias ordinárias não se aplica quando o recurso é, desde sua origem, manifestamente inadmissível por ausência de interesse recursal.
+6. As questões relativas à competência jurisdicional e ao procedimento de liquidação, não atacadas pelo meio e momento processual adequados, encontram se definitivamente preclusas, sendo inviável sua rediscussão em âmbito recursal impróprio.
+7.Agravo conhecido para conhecer do recurso especial, e negar lhe provimento.
+Como se vê, tanto a ementa quanto o relatório e o voto que compõem o acórdão embargado cuidaram exclusivamente das teses apresentadas pelo BANCO em seu agravo em recurso especial, silenciando sobre o recurso interposto por LUIZ. Desse modo, a prestação jurisdicional mostrou-se incompleta, o que impõe o reconhecimento da omissão apontada, nos termos do art. 1.022, II, do Código de Processo Civil.
+A correção do vício exige, no presente caso, a anulação do acórdão embargado para que seja proferido novo julgamento, com a análise conjunta de ambos os agravos em recurso especial, garantindo-se assim a completude da prestação jurisdicional e a observância ao devido processo legal.
+Nessas condições, ACOLHO os presentes embargos de declaração, com efeitos infringentes, para anular o acórdão de, e-STJ, fls. 1.126 a 1.132, e DETERMINAR o retorno dos autos a este relator para novo julgamento , com a análise conjunta dos agravos em recurso especial interpostos por LUIZ EDUARDO DE MATTOS PIMENTA e BANCO DO BRASIL S.A.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protetor ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+É o voto.
