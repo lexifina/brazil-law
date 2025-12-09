@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de TIAGO SILVA FARIAS contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO na Apelação Criminal n. 1519401-66.2024.8.26.0228.
+Consta dos autos que o paciente foi condenado, em primeiro grau, à pena de 7 (sete) anos de reclusão, em regime inicial fechado, mais pagamento de 700 (setecentos) dias-multa, pela prática do crime previsto no art. 33, caput, c.c. o art. 40, inciso VI, ambos da Lei n. 11.343/2006. A Defesa interpôs recurso de apelação, ao qual o Tribunal de origem negou provimento.
+No presente writ, a impetrante sustenta, em síntese, i) ausência de provas suficientes para a condenação, argumentando que o paciente não foi flagrado com drogas, que o dinheiro apreendido provinha de apostas online e que a denúncia se baseou em testemunho de pessoa não identificada e não ouvida em juízo; ii) ilegalidade na primeira fase da dosimetria, pois a pena-base foi exasperada com fundamento em atos infracionais pretéritos para valorar negativamente a personalidade do agente; iii) direito ao reconhecimento do redutor do tráfico privilegiado, aduzindo que a quantidade de drogas, por si só, não impede o benefício e que não há provas de dedicação a atividades criminosas; e iv) necessidade de alteração do regime prisional.
+Requer, liminarmente, a aplicação da minorante, bem como a fixação do regime aberto, pleiteando, no mérito, a absolvição do paciente ou, subsidiariamente, a redução da pena e a fixação de regime mais brando.
+O pedido liminar foi indeferido (fls. 96-97).
+As informações foram prestadas (fls. 103-146 e 152-156).
+O Ministério Público Federal opinou pelo não conhecimento do mandamus (fls. 159-165).
+É o relatório.
+Decido.
+Esta Corte e o Supremo Tribunal Federal pacificaram o entendimento de que não cabe habeas corpus como substitutivo do recurso legalmente previsto para a hipótese ou da revisão criminal, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado (STJ, AgRg no HC n. 1.014.903/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 1/10/2025, DJEN de 6/10/2025; STJ, AgRg no HC n. 904.291/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 5/3/2025, DJEN de 11/3/2025; STF, HC 227171 AgR, Relator Ministro Gilmar Mendes, Segunda Turma, julgado em 15/8/2023, publicado em 21/8/2023 e STF, HC 257524 AgR, Relator(a) Ministro Flávio Dino, Primeira Turma, julgado em 12/8/2025, publicado em 18/8/2025).
+De qualquer modo, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+Em primeiro lugar, observa-se que o Tribunal de origem concluiu pela presença de provas de materialidade e autoria delitivas com base nos depoimentos dos policiais militares, na apreensão de uma pochete com elevada quantia em dinheiro trocado e resquícios de droga em poder do paciente na saída de conhecido ponto de tráfico e na dinâmica dos fatos que indicou sua função de gerência da mercancia ilícita no local, destacando que a versão defensiva apresentou contradições e não foi comprovada.
+Nesse contexto, para desconstituir as conclusões das instâncias ordinárias e acolher a tese absolutória, seria indispensável o reexame aprofundado de todo o acervo fático-probatório dos autos, providência incompatível com a via estreita do habeas corpus, que possui rito célere e cognição sumária. No mesmo sentido: HC n. 1.016.343/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 17/9/2025, DJEN de 23/9/2025; AgRg no HC n. 950.177/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 13/8/2025, DJEN de 18/8/2025.
+Com relação à aplicação da causa de diminuição de pena do tráfico privilegiado, o Tribunal de origem negou a benesse fundamentando que (fls. 23-32; grifamos):
+As testemunhas policiais relataram, em uníssono, que, durante patrulhamento de rotina, abordaram Tiago saindo da pensão, local conhecido como ponto de tráfico, portando uma pochete com R$3692,25 (três mil, seiscentos e noventa e dois reais e vinte e cinco centavos) em dinheiro trocado e resquícios de droga).
+Ao adentrarem a pensão, os policiais flagraram Gustavo, que, ao perceber a presença policial, dispensou uma sacola ao chão e tentou fugir com a menor. Na sacola foram localizadas diversas porções de cocaína, crack e uma balança de precisão. Em nova varredura, localizaram, ainda, mais drogas escondidas em uma caixa d"água.
+No momento da abordagem, uma moradora, de forma espontânea, apontou Tiago como o gerente da "biqueira", informação que foi confirmada, informalmente, por Gustavo e pela adolescente K.
+Segundo as testemunhas, Gustavo realizava a entrega dos entorpecentes, enquanto K. ficava com o dinheiro, cabendo a Tiago o abastecimento do ponto e o recolhimento dos lucros da traficância.
+(..)
+No entanto, no caso concreto, a expressiva quantidade e variedade de drogas apreendidas, somadas ao alto valor em espécie, a divisão de tarefas entre os envolvidos e a participação da adolescente na mercância ilícita evidenciam a dedicação dos apelantes à atividade criminosa, o que por si só afasta a aplicação da benesse legal.
+Além disso, Tiago ostenta histórico de atos infracionais (fl. 51), o que evidencia seu vínculo pretérito com o mundo do crime e reforça a conclusão de que não se trata de agente ocasional na traficância.
+Consoante entendimento do Superior Tribunal de Justiça, a quantidade e a natureza das drogas apreendidas, associadas às circunstâncias do delito - como a apreensão de apetrechos (balança de precisão), a divisão de tarefas (função de gerência atribuída ao paciente), o envolvimento de adolescente - e ao histórico de atos infracionais do réu, constituem elementos idôneos para demonstrar a dedicação à atividade criminosa, impedindo a aplicação do redutor previsto no art. 33, § 4º, da Lei n. 11.343/2006.
+Exemplificativamente:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. DECISÃO TRANSITADA EM JULGADO. UTILIZAÇÃO COMO SUBSTITUTIVO DE REVISÃO CRIMINAL. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE. ART. 105, I, E, DA CF. AGRAVO IMPROVIDO.
+(..)
+3. Inexistência de flagrante ilegalidade que autorize a concessão da ordem de ofício, pois a Corte de origem afastou a minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006, destacando, além da quantidade de drogas apreendidas (1.098,95 g de maconha), as demais circunstâncias do caso concreto, consubstanciadas no modus operandi adotado, com tráfico de entorpecentes no formato tele-entrega, bem como o histórico infracional do agravante, em face do qual já foram aplicadas medidas socioeducativas por atos infracionais análogos ao crime de tráfico de drogas.
+(..)
+7. Agravo regimental improvido.
+(AgRg no HC n. 980.832/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 14/5/2025, DJEN de 19/5/2025.)
+Não há, portanto, ilegalidade a ser sanada no ponto. Quanto à pena-base, por outro lado, verifico manifesto constrangimento ilegal a ser reparado de ofício.
+O Tribunal a quo manteve a exasperação da sanção na primeira fase da dosimetria valorando negativamente (i) a quantidade e variedade das drogas; e (ii) a personalidade do agente, em razão da prática de atos infracionais pretéritos. Ocorre que a jurisprudência desta Corte Superior é firme no sentido de que atos infracionais não podem ser considerados maus antecedentes, nem sopesados para valorar negativamente a personalidade ou a conduta social do agente, para fins de elevação da pena-base.
+A propósito:
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. IMPOSSIBILIDADE DE UTILIZAÇÃO COMO SUBSTITUTIVO DE RECURSO PRÓPRIO. TRÁFICO DE DROGAS. AUMENTO DA PENA-BASE COM FUNDAMENTO EM HISTÓRICO DE ATOS INFRACIONAIS. IMPOSSIBILIDADE. MINORANTE DO TRÁFICO PRIVILEGIADO. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. ELEMENTOS CONCRETOS. REDIMENSIONAMENTO DA PENA. FIXAÇÃO DO REGIME SEMIABERTO. ORDEM PARCIALMENTE CONCEDIDA.
+I. CASO EM EXAME
+1. Habeas corpus impetrado com pedido de redução da pena aplicada ao paciente condenado por tráfico de drogas, contestando o aumento da pena-base com base em histórico de atos infracionais e pleiteando o reconhecimento da minorante do tráfico privilegiado prevista no art. 33, § 4º, da Lei de Drogas.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões centrais em discussão:
+(i) se o histórico de atos infracionais do paciente pode ser utilizado para aumentar a pena-base;
+(ii) se há elementos concretos que afastem a aplicação da minorante do tráfico privilegiado.
+III. RAZÕES DE DECIDIR
+3. O habeas corpus não é via adequada para substituir recurso próprio, salvo quando demonstrada flagrante ilegalidade. A Terceira Seção do STJ, alinhada com a jurisprudência do STF, restringe a admissibilidade do habeas corpus em tais situações (AgRg no HC n. 895.777/PR, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe de 8/4/2024).
+4. Quanto à dosimetria da pena, a jurisprudência desta Corte é firme no sentido de que atos infracionais não podem ser considerados como maus antecedentes para justificar o aumento da pena-base, tampouco podem ser usados para caracterizar personalidade voltada para a prática delitiva ou má conduta social (HC n. 663.705/SP, Rel. Min. Laurita Vaz, Sexta Turma, DJe de 28/3/2022).
+5. No caso dos autos, a pena-base foi aumentada com fundamento em "inúmeros registros na Vara da Infância e Juventude", o que contraria a orientação jurisprudencial desta Corte. Assim, é necessário redimensionar a pena, fixando-a no mínimo legal.
+(..)
+(HC n. 927.384/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 27/11/2024, DJEN de 6/12/2024; grifamos.)
+PENAL E PROCESSO PENAL. RECURSO ESPECIAL. LATROCÍNIO. DOSIMETRIA. PENA-BASE. CIRCUNSTÂNCIAS JUDICIAIS NEGATIVAS. CONDUTA SOCIAL. USUÁRIO DE DROGAS. ARGUMENTO INADEQUADO. PERSONALIDADE. PASSAGENS PELA VARA DA INFÂNCIA. IMPROPRIEDADE. MOTIVO DO CRIME. APROPRIAÇÃO DE BENS. DELITO PATRIMONIAL. ARGUMENTO INADEQUADO. CULPABILIDADE, CIRCUNSTÂNCIAS E CONSEQUÊNCIAS DO DELITO. FUNDAMENTAÇÃO CONCRETA. ATENUANTES DA CONFISSÃO ESPONTÂNEA E MENORIDADE RELATIVA. QUANTUM DE DIMINUIÇÃO DA PENA. OFENSA AO PRINCÍPIO DA PROPORCIONALIDADE. RECURSO ESPECIAL PROVIDO EM PARTE.
+(..)
+2. Há impropriedade na majoração da pena-base pela consideração negativa da personalidade do agente em razão da prévia prática de atos infracionais, pois é incompossível exacerbar a reprimenda criminal com base em passagens pela Vara da Infância.
+(..)
+7. Recurso especial provido em parte.
+(REsp n. 1.702.051/SP, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 6/3/2018, DJe de 14/3/2018.)
+Deve ser mantida, todavia, a exasperação decorrente da natureza e quantidade das drogas apreendidas ("mais de 750 porções ao todo entre maconha, cocaína, crack, haxixe, K9" - fl. 30), fundamento idôneo conforme o art. 42 da Lei n. 11.343/2006.
+Passo, assim, ao redimensionamento das penas do paciente.
+Na primeira fase, considerando o afastamento de uma das duas circunstâncias judiciais negativadas, reduzo proporcionalmente a pena-base para 5 (cinco) anos e 6 (seis) meses de reclusão e 550 (quinhentos e cinquenta) dias-multa.
+Na segunda etapa, ausentes agravantes ou atenuantes, a pena intermediária permanece em 5 (cinco) anos e 6 (seis) meses de reclusão e 550 (quinhentos e cinquenta) dias-multa.
+Na terceira fase , mantenho o aumento da pena em 1/6 (um sexto) diante da majorante do art. 40, inciso VI, da Lei n. 11.343/2006 e fixo a pena definitiva em 6 (seis) anos e 5 (cinco) meses de reclusão e 642 (seiscentos e quarenta e dois) dias-multa.
+Em razão do quantum da reprimenda e pela  fixação da pena-base acima do mínimo legal, mantenho o regime inicial fechado e a negativa de substituição da pena privativa de liberdade por restritivas de direitos, nos termos dos arts. 33, §§ 2º e 3º, c.c. o art. 59, e 44, inciso I, todos do Código Penal.
+Ante o exposto, não conheço do pedido de habeas corpus. Entretanto, concedo a ordem, de ofício, para afastar a negativação da pena-base com fundamento na personalidade do agente e  redimensionar  a  sanção  fixada,  nos moldes desta decisão, mantidos os demais termos do édito condenatório.
+Publique-se. Intimem-se.
+EMENTA
