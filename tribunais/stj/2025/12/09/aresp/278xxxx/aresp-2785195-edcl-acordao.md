@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 03/12/2025 a 09/12/2025, por unanimidade, acolher os embargos de declaração, sem efeitos modificativos, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Daniela Teixeira, Humberto Martins e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+Não participou do julgamento a Sra. Ministra Nancy Andrighi.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DEFINITIVO DE SENTENÇA. EXIGÊNCIA DE CAUÇÃO. CONTROVÉRSIA SOBRE MONTANTE DEVIDO. REEXAME DE MATÉRIA FÁTICA. SÚMULA Nº 7 DO STJ. CONTRADIÇÃO ENTRE FUNDAMENTAÇÃO E DISPOSITIVO. TÉCNICA DE JULGAMENTO. EMBARGOS PARCIALMENTE ACOLHIDOS.
+1. Os embargos de declaração constituem recurso de fundamentação vinculada, destinados exclusivamente a sanar omissão, contradição, obscuridade ou corrigir erro material, não se prestando ao reexame da causa nem à manifestação de inconformismo.
+2. Ausente omissão quando o julgado, fundamentadamente, conclui pela impossibilidade de afastar premissa fática estabelecida pelo tribunal de origem sem reexame probatório vedado pela Súmula nº 7 desta Corte. Rediscussão do tema sob pretexto de incontrovérsia dos valores configura mero inconformismo.
+3. Constatada contradição entre fundamentação que aplica óbice de conhecimento ao recurso especial e dispositivo que lhe nega provimento, impõe-se acolhimento parcial dos embargos para retificação técnica do julgado, sem alteração substancial do resultado.
+4. Embargos de declaração parcialmente acolhidos, sem efeitos infringentes, apenas para retificar parte dispositiva da decisão embargada.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos por LUIZ CARLOS MARCHI e ELIANA MAIMONI FAVERO MARCHI (LUIZ CARLOS E ELIANA) contra acórdão de minha lavra que conheceu do agravo para negar provimento ao recurso especial, cuja ementa se transcreve:
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DEFINITIVO DE SENTENÇA. LEVANTAMENTO DE VALORES DEPOSITADOS EM CONTA JUDICIAL. DISPENSA DE CAUÇÃO. PRETENSA INCONTROVÉRSIA DO MONTANTE. REEXAME DO CONJUNTO FÁTICO PROBATÓRIO. ÓBICE DA SÚMULA Nº 7 DO STJ.
+1. Tratando se de cumprimento definitivo de sentença, a regra geral dispensa a prestação de caução para levantamento de valores depositados em conta judicial, conforme estabelece o art. 525, § 6º, do Código de Processo Civil.
+2. Persistindo controvérsia sobre o montante devido, mesmo em sede de cumprimento definitivo, mostra se admissível a exigência de caução como medida assecuratória, a critério do juízo da execução, consideradas as particularidades do caso concreto.
+3. Verificada pelo tribunal de origem a existência de dúvida quanto ao valor objeto do levantamento, com base no acervo fático probatório dos autos, a pretensão de afastar tal conclusão demandaria o reexame de fatos e provas.
+4. Inadmissível o reexame de matéria fática em sede de recurso especial, nos termos da Súmula nº 7 do Superior Tribunal de Justiça, que veda "a pretensão de simples reexame de prova".
+5. Ausente violação ao art. 1.022 do Código de Processo Civil quando o tribunal de origem se manifesta de forma clara e fundamentada sobre a controvérsia, ainda que em sentido contrário aos interesses da parte recorrente.
+6. Agravo conhecido para negar provimento ao recurso especial. (e-STJ, fls. 218 a 221)
+Em suas razões (e-STJ, fls. 226 a 228), LUIZ CARLOS E ELIANA alegam, em síntese, a existência de omissão e contradição no julgado. Sustentam que a decisão foi omissa ao não analisar o fato de que a controvérsia sobre os valores era apenas parcial, sendo que o montante cujo levantamento foi requerido seria incontroverso, o que afastaria a necessidade de reexame de provas e, consequentemente, a aplicação da Súmula nº 7 do STJ. Apontam, ainda, contradição entre a fundamentação da decisão, que aplicou o referido óbice sumular para não conhecer do recurso, e a sua parte dispositiva, que conheceu do agravo para negar provimento ao recurso especial. Argumentam que a incidência da súmula deveria conduzir ao não conhecimento do apelo, e não à sua negativa de provimento.
+Em contrarrazões (e-STJ, fls. 233 a 235), GAFISA S.A. (GAFISA) defende a inexistência dos vícios apontados, afirmando que a pretensão dos embargantes é apenas a rediscussão do mérito do julgado, o que seria incabível pela via dos aclaratórios. Devidamente intimada, a parte FERNANDEZ MERA HOLDING E PARTICIPACOES LTDA. não apresentou manifestação (e-STJ, fl. 237).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DEFINITIVO DE SENTENÇA. EXIGÊNCIA DE CAUÇÃO. CONTROVÉRSIA SOBRE MONTANTE DEVIDO. REEXAME DE MATÉRIA FÁTICA. SÚMULA Nº 7 DO STJ. CONTRADIÇÃO ENTRE FUNDAMENTAÇÃO E DISPOSITIVO. TÉCNICA DE JULGAMENTO. EMBARGOS PARCIALMENTE ACOLHIDOS.
+1. Os embargos de declaração constituem recurso de fundamentação vinculada, destinados exclusivamente a sanar omissão, contradição, obscuridade ou corrigir erro material, não se prestando ao reexame da causa nem à manifestação de inconformismo.
+2. Ausente omissão quando o julgado, fundamentadamente, conclui pela impossibilidade de afastar premissa fática estabelecida pelo tribunal de origem sem reexame probatório vedado pela Súmula nº 7 desta Corte. Rediscussão do tema sob pretexto de incontrovérsia dos valores configura mero inconformismo.
+3. Constatada contradição entre fundamentação que aplica óbice de conhecimento ao recurso especial e dispositivo que lhe nega provimento, impõe-se acolhimento parcial dos embargos para retificação técnica do julgado, sem alteração substancial do resultado.
+4. Embargos de declaração parcialmente acolhidos, sem efeitos infringentes, apenas para retificar parte dispositiva da decisão embargada.
+VOTO
+Os embargos de declaração merecem parcial acolhimento, apenas para sanar a contradição apontada, sem atribuição de efeitos infringentes.
+(1) Da suposta omissão quanto à incontrovérsia dos valores
+LUIZ CARLOS E ELIANA afirmam que o acórdão embargado foi omisso por não considerar que parte dos valores bloqueados seria incontroversa, o que, segundo eles, permitiria a análise da questão de direito sem o reexame fático-probatório vedado pela Súmula nº 7 do STJ.
+A alegação não se sustenta.
+A decisão embargada analisou expressamente a questão, consignando que a modificação da conclusão do Tribunal paulista demandaria revisão do conjunto fático-probatório, inviável em recurso especial. O acórdão recorrido, ao manter a exigência de caução, assentou-se em premissa fática soberana: a existência de "dúvida sobre o saldo devedor" e de "parcelas e montantes ainda controversos nos autos" (e-STJ, fls. 76 a 81). Tal premissa vincula esta Corte Superior, não podendo ser revista senão mediante o reexame probatório vedado pela Súmula nº 7 do STJ.
+Conforme constou no acórdão embargado:
+Verifica se que a conclusão do Tribunal paulista está amparada em uma premissa fática a existência de controvérsia e dúvida sobre os valores a serem levantados.
+Para acolher a tese de LUIZ CARLOS e ELIANA, de que os valores seriam incontroversos, seria necessário reexaminar todo o acervo fático probatório dos autos, incluindo o laudo pericial contábil e as manifestações das partes, a fim de infirmar o que foi soberanamente decidido pela instância ordinária.
+Tal procedimento, todavia, é vedado em sede de recurso especial, conforme o enunciado da Súmula nº 7 desta Corte, que dispõe "A pretensão de simples reexame de prova não enseja recurso especial". (e-STJ, fls. 218 a 221)
+Como se vê, a questão não foi omitida. Ao contrário, foi devidamente enfrentada, concluindo-se que a análise da suposta "incontrovérsia" dos valores exigiria, inevitavelmente, a revisão das provas e das circunstâncias fáticas que levaram o Tribunal paulista a entender pela existência de dúvida razoável sobre o quantum debeatur. O que LUIZ CARLOS E ELIANA pretendem, na verdade, é o reexame do mérito da decisão, buscando uma nova valoração dos fatos para obter resultado que lhes seja mais favorável, finalidade para a qual não se prestam os embargos de declaração.
+Conforme tem decidido esta Corte Superior:
+EMBARGOS DE DECLARAÇÃO NO MANDADO DE SEGURANÇA. OMISSÃO. INEXISTÊNCIA. PRETENSÃO DE NOVO JULGAMENTO DA CAUSA . NÃO CABIMENTO. CONDENAÇÃO EM LITIGÂNCIA DE MÁ-FE. CERTIFICAÇÃO DO TRÂNSITO EM JULGADO.
+1 . Os embargos de declaração, recurso de natureza integrativa destinado a sanar obscuridade, contradição, omissão ou erro material, são incabíveis quando a parte embargante pretende apenas a obtenção de efeitos infringentes.
+2. As apontadas omissões configuram insurgência meritória, não aceitação da fundamentação exposta, e não omissão propriamente dita.
+3 . Em vez da caracterização de alguma falha no julgado, os embargos ora em análise se propõem a alterá-lo em razão da discordância com a fundamentação apresentada.
+4. Fixação de multa por litigância no má-fé no valor de dois salários mínimos, nos termos dos arts. 80, inciso VII, e 81 do CPC, em razão da caraterização dos embargos declaratórios manifestamente protelatórios .Embargos de declaração rejeitados.
+(EDcl nos EDcl no AgInt nos EDcl na Rcl 43.759/RS, Relator Ministro HUMBERTO MARTINS, Julgamento: 15/8/2023, SEGUNDA SEÇÃO, DJe 18/8/2023)
+Portanto, não há omissão a ser sanada, mas mero inconformismo com o teor do julgado.
+(2) Da suposta contradição entre a fundamentação e o dispositivo
+Nesse ponto, LUIZ CARLOS E ELIANA argumentam que há contradição no julgado, pois a fundamentação aplicou o óbice da Súmula nº 7 do STJ, o que levaria ao não conhecimento do recurso especial, enquanto a parte dispositiva conheceu do agravo para negar provimento ao recurso especial.
+Assiste-lhes razão, nesse particular.
+Embora seja prática conhecer do agravo para negar provimento ao recurso especial mesmo quando a negativa se dá pela aplicação de um óbice de conhecimento, como a Súmula nº 7, a técnica processual mais precisa recomenda que, superado o juízo de admissibilidade do agravo, se o recurso especial subsequente se mostra inviável por Súmula, o seu destino é o não conhecimento.
+A aplicação de um óbice sumular ao recurso especial impede a análise do seu mérito, tornando o pronunciamento mais adequado o de não conhecimento. A contradição entre a fundamentação (incidência de óbice ao conhecimento) e o dispositivo (julgamento de mérito com negativa de provimento) deve ser sanada para o aprimoramento da prestação jurisdicional e para conferir clareza e precisão técnica ao julgado.
+Desse modo, os embargos devem ser parcialmente acolhidos, sem alteração de seu conteúdo substancial, apenas para corrigir o dispositivo da decisão embargada, alinhando-o à fundamentação expendida.
+Nessas condições, ACOLHO EM PARTE os presentes embargos de declaração, sem efeitos infringentes, apenas para sanar a contradição apontada e retificar a parte dispositiva da decisão de, e-STJ, fls. 218 a 221, para que passe a constar: "Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial".
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+É o voto.
