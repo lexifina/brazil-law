@@ -1,0 +1,20 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por MOZARTE DE QUADROS JUNIOR E SHEILA FAUSTER EGÍDIO DE QUADROS, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal.
+Ação: ação indenizatória, em fase de cumprimento de sentença, proposta por MOZARTE DE QUADROS JUNIOR E SHEILA FAUSTER EGÍDIO DE QUADROS contra CONSTRUTORA TENDA S.A., na qual se busca reparação de danos materiais e compensação por danos morais decorrentes do atraso da obra e do descumprimento de obrigações contratuais.
+Acórdão: negou provimento ao agravo de instrumento interposto pelos agravantes, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO - AÇÃO INDENIZATÓRIA EM FASE DE CUMPRIMENTO DE SENTENÇA - DECISÃO QUE HOMOLOGOU A QUANTIA APURADA PELA EXECUTADA - INSURGÊNCIA DA PARTE EXEQUENTE - ALEGADO ERRO DE PROCEDIMENTO QUE CULMINOU EM PREJUÍZO À SUA DEFESA - TESE REJEITADA - FASE EXECUTIVA INICIADA A PARTIR DO DEPÓSITO VOLUNTÁRIO DO DÉBITO PELO DEVEDOR - IMPUGNAÇÃO DA PARTE CREDORA APRESENTADA A DESTEMPO E SEM INDICACAÇÃO DA QUANTIA ENTENDIDA COMO CORRETA - ART. 526, §§ 1º E 3º DO CPC - PRECLUSÃO - RECONHECIMENTO DE SATISFAÇÃO DA OBRIGAÇÃO - RECURSO CONHECIDO E NÃO PROVIDO.
+O cumprimento de sentença, no caso de quantia certa, exige que a parte credora se manifeste sobre o depósito realizado pela parte devedora. Caso não haja impugnação dentro do prazo legal, a obrigação é considerada satisfeita e o processo deve ser extinto, conforme previsto nos artigos 526, §§ 1º e 3º do CPC. (e-STJ fl. 45)
+Decisão de admissibilidade do TJ/PR: inadmitiu o recurso especial em razão dos seguintes fundamentos:
+i. ausência de prequestionamento das matérias relativas aos arts. 9º, 10, 141 e 492 do CPC, com incidência das Súmulas 282 e 356 do STF;
+ii. prejudicado o exame pela alínea "c", pois o dissídio alegado versava sobre os mesmos dispositivos/tese jurídica atingidos pelo óbice sumular;
+iii. não demonstração adequada do dissídio jurisprudencial, por falta de cotejo analítico, com transcrição de trechos e indicação das circunstâncias fático-jurídicas, conforme art. 1.029, § 1º, do CPC e art. 255, § 1º, do RISTJ.
+Agravo em recurso especial: nas razões do recurso, a parte agravante sustenta a existência de prequestionamento implícito quanto às teses de violação aos arts. 9º, 10, 141 e 492 do CPC; aponta nulidade por decisão surpresa, diante da homologação de cálculo unilateral sem efetiva oportunidade de contraditório; alega julgamento extra petita, por suposta extrapolação dos limites da demanda ao declarar satisfeita a obrigação com base em depósito voluntário; defende a inaplicabilidade das Súmulas 282 e 356 do STF por se tratar de matéria de ordem pública e requer o processamento do recurso especial. (e-STJ fls. 104-110)
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade dos seguintes óbices:
+i. não demonstração adequada do dissídio jurisprudencial, por falta de cotejo analítico, com transcrição de trechos e indicação das circunstâncias fático-jurídicas, conforme art. 1.029, § 1º, do CPC e art. 255, § 1º, do RISTJ.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levam à inadmissão pelo tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, Terceira Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, Quarta Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
