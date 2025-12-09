@@ -1,0 +1,119 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em Sessão Virtual de 03/12/2025 a 09/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva, Sebastião Reis Júnior, Francisco Falcão, João Otávio de Noronha, Humberto Martins, Maria Thereza de Assis Moura e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Presidente do STJ.
+Não participou do julgamento a Sra. Ministra Nancy Andrighi.
+EMENTA
+AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO. SUFICIÊNCIA DA FUNDAMENTAÇÃO DO JULGADO RECORRIDO. TEMA N. 339 DO STF. PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSO DE COMPETÊNCIA DO STJ. TEMA N. 181 DO STF. NEGATIVA DE SEGUIMENTO. ART. 1.030, I, A, DO CPC.
+I. CASO EM EXAME
+1.1. Agravo regimental interposto contra decisão que negou seguimento a recurso extraordinário, sob a fundamentação de que a decisão recorrida está em conformidade com o Tema n. 339 do STF e diante da ausência de repercussão geral do Tema n. 181 do STF.
+1.2. A parte agravante argumentou a ausência de fundamentação jurisdicional adequada, em contrariedade ao Tema n. 339 do STF, alegando ainda que o Tema n. 181 do STF não deveria ser aplicado ao caso, em razão de existir ofensa direta à Constituição Federal.
+II. QUESTÕES EM DISCUSSÃO
+2.1. A conformidade do acórdão recorrido com o Tema n. 339 do STF, que trata da suficiência da fundamentação das decisões judiciais.
+2.2. A aplicabilidade do Tema n. 181 do STF quando se discute a admissibilidade de recurso anterior de competência do STJ.
+III. RAZÕES DE DECIDIR
+3.1. O STF, ao tratar do Tema n. 339 da repercussão geral, firmou a tese de que a Constituição Federal exige que acórdãos e decisões sejam fundamentados, ainda que sucintamente, sem vinculação à correção ou abrangência detalhada de todas as alegações das partes, mas à existência de motivação que permita a compreensão da solução dada à controvérsia.
+3.2. O acórdão recorrido foi considerado fundamentado de forma suficiente para a solução da controvérsia, em conformidade com o Tema n. 339 do STF, sendo imperativa a negativa de seguimento do recurso extraordinário.
+3.3. A decisão agravada fundamentou-se na aplicação do Tema n. 181 do STF, que estabelece ausência de repercussão geral da questão relativa ao preenchimento dos pressupostos de admissibilidade de recursos de competência de outros Tribunais.
+3.4. As razões do recurso extraordinário, voltadas ao óbice aplicado ou à matéria de fundo, demandam a reanálise ou superação do entendimento acerca do não conhecimento de recurso anterior.
+3.5. Nos termos do art. 1.030, I, a, do CPC, é justificada a negativa de seguimento ao recurso extraordinário quando a questão controvertida não possui repercussão geral.
+IV. DISPOSITIVO
+4.1. Agravo regimental a que se nega provimento.
+RELATÓRIO
+1. Trata-se de agravo regimental interposto contra a decisão que negou seguimento ao recurso extraordinário, assim ementada (fl. 1.001):
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. NÃO CONHECIMENTO DE RECURSO ANTERIOR, DE COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JU STIÇA. REQUISITOS DE ADMISSIBILIDADE. DEBATE OU SUPERAÇÃO. IMPOSSIBILIDADE. TEMA N. 181 DO STF, SOB A SISTEMÁTICA DA REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO
+A parte agravante alega que esta Corte Superior não demonstrou que as circunstâncias fáticas e jurídicas se enquadram nas diretrizes estabelecidas nos Temas n. 339 e 181 do STF.
+Afirma que a decisão agravada conferiu aparência de legitimidade a um ato judicial sem análise substancial, contrariando o próprio Tema n. 339/STF.
+Sustenta que o recurso extraordinário não almeja discutir pressupostos de admissibilidade do recurso especial ou filtros infraconstitucionais do STJ, mas a violação direta da Constituição Federal consumada no acórdão proferido por este Tribunal Superior.
+Assevera que o o STJ usurpou a competência do STF ao negar seguimento ao recurso extraordinário.
+Requer o provimento do agravo para que o recurso extraordinário seja admitido, com a remessa dos autos ao Supremo Tribunal Federal.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO. SUFICIÊNCIA DA FUNDAMENTAÇÃO DO JULGADO RECORRIDO. TEMA N. 339 DO STF. PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSO DE COMPETÊNCIA DO STJ. TEMA N. 181 DO STF. NEGATIVA DE SEGUIMENTO. ART. 1.030, I, A, DO CPC.
+I. CASO EM EXAME
+1.1. Agravo regimental interposto contra decisão que negou seguimento a recurso extraordinário, sob a fundamentação de que a decisão recorrida está em conformidade com o Tema n. 339 do STF e diante da ausência de repercussão geral do Tema n. 181 do STF.
+1.2. A parte agravante argumentou a ausência de fundamentação jurisdicional adequada, em contrariedade ao Tema n. 339 do STF, alegando ainda que o Tema n. 181 do STF não deveria ser aplicado ao caso, em razão de existir ofensa direta à Constituição Federal.
+II. QUESTÕES EM DISCUSSÃO
+2.1. A conformidade do acórdão recorrido com o Tema n. 339 do STF, que trata da suficiência da fundamentação das decisões judiciais.
+2.2. A aplicabilidade do Tema n. 181 do STF quando se discute a admissibilidade de recurso anterior de competência do STJ.
+III. RAZÕES DE DECIDIR
+3.1. O STF, ao tratar do Tema n. 339 da repercussão geral, firmou a tese de que a Constituição Federal exige que acórdãos e decisões sejam fundamentados, ainda que sucintamente, sem vinculação à correção ou abrangência detalhada de todas as alegações das partes, mas à existência de motivação que permita a compreensão da solução dada à controvérsia.
+3.2. O acórdão recorrido foi considerado fundamentado de forma suficiente para a solução da controvérsia, em conformidade com o Tema n. 339 do STF, sendo imperativa a negativa de seguimento do recurso extraordinário.
+3.3. A decisão agravada fundamentou-se na aplicação do Tema n. 181 do STF, que estabelece ausência de repercussão geral da questão relativa ao preenchimento dos pressupostos de admissibilidade de recursos de competência de outros Tribunais.
+3.4. As razões do recurso extraordinário, voltadas ao óbice aplicado ou à matéria de fundo, demandam a reanálise ou superação do entendimento acerca do não conhecimento de recurso anterior.
+3.5. Nos termos do art. 1.030, I, a, do CPC, é justificada a negativa de seguimento ao recurso extraordinário quando a questão controvertida não possui repercussão geral.
+IV. DISPOSITIVO
+4.1. Agravo regimental a que se nega provimento.
+VOTO
+2. No julgamento do paradigma vinculado ao Tema n. 339, o Supremo Tribunal Federal apreciou a seguinte questão:
+ ..  se decisão que transcreve os fundamentos da decisão recorrida, sem enfrentar pormenorizadamente as questões suscitadas nos embargos declaratórios, afronta o princípio da obrigatoriedade de fundamentação das decisões judiciais, nos termos do art. 93, IX, da Constituição Federal.
+Na ocasião, firmou-se a seguinte tese vinculante: "O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas."
+O respectivo acórdão recebeu a seguinte ementa:
+Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º).
+2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência.
+3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.
+(AI n. 791.292-QO-RG, relator Ministro Gilmar Mendes, Tribunal Pleno, julgado em 23/6/2010, DJe de 13/8/2010.)
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessária a apreciação de todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da Constituição Federal não está relacionada ao acerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso, conforme consignado na decisão agravada, foram declinados, de forma satisfatória, os motivos da compreensão adotada no acórdão objeto do recurso extraordinário, como se observa do seguinte trecho do referido julgado (fls. 916-918):
+A irresignação não merece prosperar.
+O cerne da controvérsia reside em saber se a análise da tipicidade da conduta imputada aos agravantes prescinde do reexame do conjunto fático-probatório dos autos. A resposta, com a devida vênia aos argumentos deduzidos no extenso arrazoado, é negativa.
+A pretensão de ver reconhecida a atipicidade da conduta por ausência de dolo ou fraude esbarra em obstáculo intransponível nesta sede recursal. O Tribunal de origem, soberano na análise das provas produzidas, consignou expressamente que "não há explicação razoável ao fato de constar, dos livros fiscais e notas fiscais emitidas, meses em que a mesma operação, referente à venda do pescado para revendedores e pessoas jurídicas, é regularmente registrada como tributada (lançamento do ICMS) e meses como isenta de ICMS".
+Essa constatação fática, extraída do acervo probatório após cognição exauriente pelas instâncias ordinárias, não pode ser revista por esta Corte Superior sem que se proceda ao vedado reexame de provas. A alternância injustificada entre o tratamento tributário conferido a operações idênticas constitui elemento objetivo que, na valoração do Tribunal a quo, evidencia o elemento subjetivo do tipo penal.
+Os agravantes insistem em que a emissão de notas fiscais com menção ao dispositivo legal de isenção demonstraria transparência e boa-fé, afastando o dolo. Tal argumentação, contudo, demanda nova incursão no material probatório para aferir se essa circunstância seria suficiente para elidir a conclusão alcançada pelo acórdão recorrido. Não compete ao Superior Tribunal de Justiça substituir-se às instâncias ordinárias na valoração dos elementos de convicção, mormente quando a conclusão alcançada encontra-se devidamente fundamentada nos autos.
+A jurisprudência desta Corte é uníssona ao reconhecer que o dolo genérico é suficiente para a configuração dos crimes contra a ordem tributária previstos no art. 1º da Lei nº 8.137/90. No caso vertente, o Tribunal de origem identificou elementos concretos indicativos desse dolo, não se tratando de mera presunção, mas de inferência lógica extraída do comportamento contraditório dos agentes.
+Quanto ao dissídio jurisprudencial, melhor sorte não assiste aos agravantes. Embora tenham dedicado considerável esforço argumentativo ao cotejo analítico, a demonstração da divergência resta prejudicada pela incidência da Súmula 7/STJ quanto aos temas principais do recurso. Ademais, os precedentes invocados não guardam similitude fática com o caso em exame, tratando de situações nas quais as instâncias ordinárias haviam reconhecido expressamente a ausência de elementos indicativos de dolo, o que não ocorre na espécie.
+No que tange à continuidade delitiva, a decisão agravada corretamente aplicou o entendimento desta Corte que admite, para crimes tributários, a incidência do art. 71 do Código Penal mesmo quando o intervalo entre as condutas supera trinta dias, desde que decorram da mesma operação fiscal. A peculiaridade dos delitos contra a ordem tributária, caracterizados pela renovação mensal do fato gerador, justifica tratamento diferenciado em relação aos crimes comuns.
+A alegação de que inexistiria "plano criminoso único" também demandaria reexame probatório, pois implicaria reavaliar as circunstâncias que levaram o Tribunal de origem a reconhecer a unidade de desígnios na conduta dos agentes. A aplicação da continuidade delitiva, no caso, decorreu da constatação de que as múltiplas infrações estavam interligadas e derivavam do mesmo propósito de suprimir tributo devido.
+Por fim, causa espécie a insistência dos agravantes em afirmar que a decisão monocrática teria incorrido em contradição ao reconhecer a compreensão da controvérsia e, simultaneamente, aplicar por analogia a Súmula 284 do Supremo Tribunal Federal. Não há contradição alguma. O fato de ser possível compreender as teses deduzidas não significa que tenham sido adequadamente fundamentadas do ponto de vista técnico-processual. A clareza na exposição dos argumentos não supre a deficiência na demonstração dos pressupostos recursais específicos.
+Em verdade, o que se observa é a tentativa de transformar o Superior Tribunal de Justiça em terceira instância revisora, pretensão que não se coaduna com a missão constitucional desta Corte. O art. 105, III, da Constituição Federal atribui ao STJ a competência para uniformizar a interpretação da legislação federal, não para proceder a novo julgamento da causa com reanálise de provas.
+Os agravantes, em suas extensas razões, buscam que esta Corte reinterprete documentos fiscais, reavalie a credibilidade de orientações sindicais, reanalise a configuração da boa-fé e substitua a valoração probatória realizada pelas instâncias ordinárias. Tal pretensão revela o inconformismo com o resultado do julgamento, mas não configura matéria passível de apreciação em sede de recurso especial.
+A decisão agravada, portanto, aplicou corretamente o direito à espécie ao reconhecer a incidência da Súmula 7/STJ e a ausência dos pressupostos de admissibilidade do recurso especial. Todos os fundamentos foram adequadamente enfrentados, não havendo falar em negativa de prestação jurisdicional ou cerceamento de defesa.
+Do mesmo modo, foram indicados os fundamentos para a rejeição dos embargos de declaração opostos na sequência (fls. 950-951):
+A irresignação não merece acolhimento.
+Cumpre registrar, inicialmente, que os embargos de declaração constituem modalidade recursal de fundamentação vinculada, cujo cabimento restringe-se às hipóteses taxativamente previstas no art. 619 do Código de Processo Penal. Não se prestam, portanto, ao reexame de questões já decididas ou à manifestação de inconformismo com o resultado do julgamento.
+No caso em análise, o extenso petitório apresentado pelos embargantes revela, desde logo, o desvirtuamento do instituto. A prolixidade da peça, repleta de transcrições e desenvolvimentos argumentativos que em muito excedem a mera indicação de vícios, evidencia a pretensão de rediscutir o mérito da decisão embargada.
+Quanto à alegada omissão sobre a possibilidade de análise da tipicidade sem reexame probatório, constata-se que o acórdão embargado enfrentou expressamente a questão. A decisão foi clara ao estabelecer que a pretensão de ver reconhecida a atipicidade da conduta por ausência de dolo demandaria necessariamente nova incursão no material probatório, vedada pela Súmula 7 desta Corte. O fato de os embargantes discordarem dessa conclusão não configura omissão, mas mero inconformismo com o decidido.
+A suposta contradição entre reconhecer elementos fáticos consolidados e aplicar o óbice sumular também não se sustenta. O acórdão embargado explicou com clareza que não compete ao Superior Tribunal de Justiça substituir-se às instâncias ordinárias na valoração dos elementos de convicção. Uma coisa é reconhecer que determinados fatos foram estabelecidos pelo Tribunal de origem; outra, completamente distinta, é pretender extrair desses mesmos fatos conclusão jurídica diversa daquela alcançada pelas instâncias ordinárias após cognição exauriente. Esta última pretensão esbarra inequivocamente no óbice da Súmula 7/STJ.
+No que tange ao cotejo analítico, o acórdão embargado também não incorreu em omissão. A decisão expressamente consignou que a demonstração do dissídio restava prejudicada pela incidência da Súmula 7/STJ e pela ausência de similitude fática entre os precedentes invocados e o caso concreto. O extenso desenvolvimento apresentado pelos embargantes sobre esse ponto apenas confirma sua intenção de rediscutir matéria já apreciada e decidida.
+Relativamente à continuidade delitiva, igualmente não prospera a alegação de omissão. O acórdão embargado abordou a questão de forma suficiente, aplicando a jurisprudência consolidada desta Corte sobre a matéria. A circunstância de os embargantes entenderem que os precedentes citados não se aplicariam ao caso concreto não caracteriza vício a ser sanado pela via dos declaratórios.
+Observa-se, em verdade, que os embargantes buscam transformar este recurso de fundamentação vinculada em nova oportunidade para debater as questões de mérito já exaustivamente apreciadas. Cada página do extenso arrazoado confirma essa intenção, com a reapresentação de argumentos, transcrição de precedentes e desenvolvimento de teses jurídicas que extrapolam em muito os estreitos limites dos embargos declaratórios.
+A jurisprudência desta Corte é pacífica no sentido de que não se admitem embargos de declaração com nítido caráter infringente, destinados a rediscutir matéria já decidida.
+Verifica-se, portanto, que foram suficientemente apresentadas as razões pelas quais não estão preenchidos o s requisitos de admissibilidade do recurso dirigido ao STJ, não tendo sido examinada a matéria de fundo, motivo pelo qual é inviável o exame das questões relacionadas ao mérito recursal e ao acerto da aplicação de óbices processuais por esta Corte.
+Com efeito, demonstrada a realização da prestação jurisdicional constitucionalmente adequada, ainda quando não se concorde com a solução dada à causa, afigura-se inviável o prosseguimento do recurso extraordinário, pois o provimento recorrido encontra-se em sintonia com a tese fixada no Tema n. 339 do STF.
+3. Quanto ao mais, como asseverado na decisão agravada, não se conheceu de recurso anterior, de competência do STJ, porque não preenchidos todos os pressupostos de admissibilidade.
+Por isso, a análise de qualquer alegação do recurso extraordinário demandaria, previamente, a reapreciação dos fundamentos do não conhecimento de recurso que não é da competência do STF.
+Contudo, a Corte Suprema definiu que a discussão veiculada em recurso extraordinário a envolver o conhecimento de recurso anterior não possui repercussão geral, fixando a seguinte tese:
+Tema n. 181 do STF: A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009.
+(RE n. 598.365-RG, relator Ministro Ayres Britto, Tribunal Pleno, julgado em 14/8/2009, DJe de 26/3/2010.)
+Essa conclusão, adotada sob o regime da repercussão geral e de aplicação obrigatória, nos termos do disposto no art. 1.030, I, a, do Código de Processo Civil, impõe a negativa de seguimento ao recurso extraordinário.
+Assim, se as razões do recurso extraordinário se direcionam contra o não conhecimento do recurso anterior, é inviável a remessa do extraordinário ao STF, como exemplifica o julgado a seguir:
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL PENAL. RECURSO EXTRAORDINÁRIO CONTRA ACÓRDÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA  .. . PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSO DE COMPETÊNCIA DE TRIBUNAL DIVERSO: INEXISTÊNCIA DE REPERCUSSÃO GERAL. TEMA 181. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+(ARE n. 1.317.340-AgR, relatora Ministra Cármen Lúcia, Segunda Turma, julgado em 12/5/2021, DJe de 14/5/2021.)
+Tal desfecho não se modifica quando as razões do extraordinário se relacionam à matéria de fundo do recurso do qual não se conheceu. Confira-se:
+AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. IMPOSSIBILIDADE DE APRECIAÇÃO DO MÉRITO DO RECURSO NÃO ANALISADO NO TSE. RECURSO ESPECIAL ELEITORAL NÃO ADMITIDO POR AUSÊNCIA DE PREQUESTIONAMENTO. REQUISITO DE ADMISSIBILIDADE DE RECURSO DE CORTE DIVERSA. AUSÊNCIA DE REPERCUSSÃO GERAL. ALEGAÇÃO DE OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO, AMPLA DEFESA E DEVIDO PROCESSO LEGAL POR ALEGADA INOBSERVÂNCIA LEGAL. OFENSA REFLEXA. DESCABIMENTO DO EXTRAORDINÁRIO.
+1. Carece de repercussão geral a discussão acerca dos pressupostos de admissibilidade de recursos da competência de cortes diversas (Tema 181 - RE 598.365).
+ ..
+3. Agravo regimental a que se nega provimento.
+(ARE n. 822.158-AgR, relator Ministro Edson Fachin, Primeira Turma, julgado em 20/10/2015, DJe de 24/11/2015.)
+Também nos casos em que se aponta ofensa ao art. 105, III, da Constituição da República, o recurso não comporta seguimento (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+4. No que se refere à alegação de usurpação de competência do Supremo Tribunal Federal, nos termos do art. 1.030, I, a, do Código de Processo Civil, o Tribunal de origem, em juízo de admissibilidade recursal, exerce competência própria ao negar seguimento aos recursos extraordinários pela sistemática da repercussão geral (arts. 1.030 e seguintes do CPC).
+Nesse sentido:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO EM RECLAMAÇÃO. SISTEMÁTICA DA REPERCUSSÃO GERAL. APLICAÇÃO PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE TERATOLOGIA. SÚMULA VINCULANTE Nº 10. INTERPRETAÇÃO DE NORMAS. DESRESPEITO NÃO CONFIGURADO. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto contra pronunciamento que negou sequência à reclamação por não ter verificado equívoco na observância, pela Corte de origem, da sistemática da repercussão geral.
+2. A parte agravante insiste configurado equívoco na aplicação, na origem, dos Temas nº 181, 339, 417 e 655/RG, concluindo evidenciada usurpação da competência do Supremo para apreciar o extraordinário. Sustenta afastada a aplicação dos arts. 944 e 950 do CC sem observância da cláusula de reserva de plenário, em ofensa à Súmula vinculante nº 10.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber: (i) se, ao aplicar a sistemática da repercussão geral para obstar o prosseguimento do recurso extraordinário, o órgão reclamado incidiu em erro a configurar usurpação de competência do Supremo; e (ii) se houve o afastamento da incidência de preceito legal por órgão fracionário de tribunal, em violação à Súmula vinculante nº 10.
+III. RAZÕES DE DECIDIR
+4. O STF consolidou o entendimento de que a aplicação da sistemática da repercussão geral é da competência do órgão judiciário de origem, nos termos do art. 1.030 do CPC, sem necessidade de remessa do recurso extraordinário ao STF (Rcl 42.193 AgR, Rel. Min. Alexandre de Moraes, DJe 9.9.2020).
+5. Não se admite, em reclamação, o reexame do enquadramento de teses de repercussão geral realizado pelo tribunal de origem, salvo em situações de manifesta teratologia, o que não se verifica no caso.
+6. Dissentir das razões adotadas pelas instâncias ordinárias demandaria reexaminar o conjunto fático-probatório, providência inviável em sede reclamatória.
+7. Dirimida a controvérsia a partir de interpretação de normas, inexiste violação à Súmula vinculante nº 10.
+IV. DISPOSITIVO
+8. Agravo interno desprovido.
+(Rcl n. 67231 AgR, relator Ministro Nunes Marques, Segunda Turma, julgado em 17/2/2025, DJe de 26/2/2025.)
+A decisão agravada, portanto, não merece reforma.
+5. Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
