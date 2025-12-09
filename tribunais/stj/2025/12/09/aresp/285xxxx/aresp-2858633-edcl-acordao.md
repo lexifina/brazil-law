@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 03/12/2025 a 09/12/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Regina Helena Costa, Gurgel de Faria, Paulo Sérgio Domingues e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas omissões no julgado combatido, traduzem, na verdade, o inconformismo da parte com o decisório tomado, buscando rediscutir o que decidido já foi.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de embargos de declaração opostos por Juliana Halima Casagrande contra acórdão prolatado pela eg. Primeira Turma, assim ementado:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NECESSIDADE DE COMBATE A TODOS OS FUNDAMENTOS DO CAPÍTULO IMPUGNADO. EXIGÊNCIA CONTIDA NO ART. 1.021, § 1º, DO CPC. SÚMULA N. 182/STJ.
+1. De acordo com o art. 1.021, § 1º, do CPC, constitui ônus da parte recorrente impugnar especificamente os alicerces do decisório combatido, evidenciando o desacerto das razões declinadas no julgamento monocrático.
+2. A Corte Especial, ao julgar os EREsp n. 1.424.404/SP (Rel. Ministro Luis Felipe Salomão, DJe de 17/11/2021), decidiu que, em relação ao agravo interno manejado contra decisão monocrática de relator, deverá a parte agravante refutar a todos os fundamentos empregados no capítulo por ela impugnado, sob pena de incidência do óbice previsto na Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida."
+3. Caso em que a parte insurgente não se desincumbiu desse encargo.
+4. Agravo interno não conhecido.
+A parte embargante, em suas razões, sustenta que "o v. acórdão incorreu em omissão quanto às teses efetivamente defendidas pela Embargante e em erro de premissa ao assumir um fato (a ausência de impugnação) que não corresponde à realidade dos autos" (fl. 370), insistindo que houve o devido combate aos pilares da decisão agravada.
+Transcorreu in albis o prazo para resposta (fl. 380).
+É o relatório.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas omissões no julgado combatido, traduzem, na verdade, o inconformismo da parte com o decisório tomado, buscando rediscutir o que decidido já foi.
+4. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Não prospera a irresignação da parte embargante.
+De acordo com o previsto no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+Entretanto, no caso dos autos, não se verifica a existência de nenhum desses vícios, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Com efeito, ficaram devidamente consignadas no aresto hostilizado as razões pelas quais o agravo interno não logrou ultrapassar a barreira de cognoscibilidade, atraindo a Súmula n. 182/STJ.
+A propósito, confiram-se os seguintes trechos do decisório colegiado embargado (fls. 360/362 - g.n.):
+Importante registrar, à saída, que o Pretório de origem, ao julgar a apelação, pautou-se pelas balizas designadas no Tema n. 290/STJ ("se o ato translativo foi praticado a partir de 09.06.2005, data de início da vigência da Lei Complementar n.º 118/2005, basta a efetivação da inscrição em dívida ativa para a configuração da figura da fraude") para aferir a ocorrência, ou não, de fraude à execução fiscal (cf. fl. 227).
+Nesse contexto, discussões a respeito de aplicação equivocada de precedente ou de eventual distinguishing encerraram-se na instância ordinária.
+No mais, a irresignação não comporta conhecimento.
+De acordo com o art. 1.021, § 1º, do CPC, constitui ônus da parte recorrente impugnar especificamente os alicerces do decisório combatido, evidenciando o desacerto das razões declinadas no julgamento monocrático.
+De outro giro, a Corte Especial, ao julgar os EREsp n. 1.424.404/SP (Rel. Ministro Luis Felipe Salomão, DJe de 17/11/2021), decidiu que, em relação ao agravo interno manejado contra decisão monocrática de relator, deverá a parte agravante refutar a todos os fundamentos empregados no capítulo por ela "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida."
+Na espécie, conforme destacado no relatório acima, o decisum agravado conheceu do agravo para não conhecer do recurso especial, sob os pilares de que: (I) quanto à indicada ofensa ao art. 357, I, II, III, IV e V, do CPC, sob o argumento de que não teria havido despacho saneador nos autos, por um lado, aplicável o Enunciado n. 284/STF, visto que o arrazoado se mostra dissociado das premissas esposadas no acórdão recorrido, em que registrada a existência de saneamento pelo Juiz singular e, por outro, incidente a Súmula n. 7/STJ, ante a inviabilidade de, na estreita via especial, reformar essa constatação; (II) e, em relação à suscitada ofensa aos arts. 373, II, e 436, I, II e III, do CPC, à alegação de que teria apresentado documentação apta a comprovar o fato constitutivo do direito, no caso, o contrato particular de compra e venda do imóvel; e a de que a Fazenda exequente não teria se insurgido contra a validade dessa avença contratual, essas questões carecem do indispensável requisito do prequestionamento, atraindo o empeço do Verbete n. 211/STJ.
+Já nas razões do agravo interno agora examinado, a parte insurgente, além de incorrer em flagrante inovação recursal ao suscitar violação aos arts. 489 e 1.022 do CPC (o que não constou da petição de recurso raro inadmitido - cf. fls. 267/273), apresenta argumentos inaptos ao combate dos alicerces da decisão alvejada.
+Realmente, o decisório agravado infligiu as Súmulas n. 284/STF e 7/STJ, no que concerne à ofensa ao art. 357, I, II, III, IV e V, do CPC, justificada pela recorrente na falta de realização de despacho saneador na ação subjacente, ressaltando que o arrazoado recursal, nesse particular, se revelou dissociado das premissas do aresto recorrido; além disso, a reversão da constatação do Tribunal a quo no que tange à ocorrência de saneamento nos autos demandaria reexame de fatos e provas.
+No agravo do art. 1.021 do CPC, a respeito do Enunciado n. 284/STF, a parte cinge-se a asserir que " a  alegação de deficiência de fundamentação não se sustenta quando a parte recorrente expõe, de forma objetiva, os fundamentos jurídicos do pedido e indica, com precisão, os dispositivos violados" (fl. 331 - g.n.), argumento divorciado do efetivo fundamento constante do decisum objurgado nesse particular.
+Já acerca da Súmula n. 7/STJ, a agravante aduziu que " a  controvérsia posta nos autos não exige reexame de fatos e provas, mas sim a correta interpretação jurídica do contrato de promessa de compra e venda celebrado antes da inscrição em dívida ativa, cuja existência e autenticidade não foram impugnadas pela Fazenda Nacional" (fl. 331 - g.n.), alegação essa impertinente ao dispositivo legal para o qual foi aplicado o mencionado obstáculo sumular (art. 357, I, II, III, IV e V, do CPC).
+Logo, nítida a dissociação dos argumentos do recurso vertente em comparação aos ditos pilares constantes do decisório agravado, pelo que aplicável a inteligência do Enunciado n. 284/STF.
+Na sequência, concernente ao óbice do Verbete n. 211/STJ, a recorrente fundou seu arrazoado na existência de violação ao art. 1.022 do CPC (" a inda que os embargos tenham sido rejeitados sem exame do mérito das omissões apontadas, essa omissão reforça a violação ao artigo 1.022 do CPC, o que por si só justifica a admissão do Recurso Especial" - fl. 331 - g.n.), o que, como dito anteriormente, constitui indevida inovação recursal em sede de agravo interno, em patente inobservância aos princípios da eventualidade, da preclusão e da complementaridade recursal, razão pela qual a insurgência recursal nem sequer merece ser conhecida pelo Órgão Colegiado, como cediço.
+Evidente, pois, que deixou a insurgente, como lhe incumbia (art. 1.021, § 1º, do CPC), de empreender efetivo combate aos anteparos ao conhecimento do especial apelo identificados na decisão agravada.
+Nesse contexto, incide o referido Enunciado n. 182/STJ.
+Como se vê, diferentemente do que sustentado nos aclaratórios, o julgado embargado analisou pormenorizadamente os argumentos trazidos no agravo interno, os quais, quer porque dissociados dos pilares da decisão agravada, impertinentes a esses ou, ainda, apresentados de modo inovador, não se prestaram a refutar os alicerces do decisório unipessoal que conheceu do agravo para não conhecer do recurso especial.
+Logo, não há falar em erro de premissa ou em nenhuma omissão a suprir, sendo, em verdade, o intuito da embargante o de modificar o julgado, o que, como cediço, não se coaduna com a via integrativa.
+Dessa forma, não podem ser acolhidos embargos de declaração que, a pretexto de alegada omissão no julgado, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi. Nesse panorama, inexistente qualquer vício no acórdão embargado, conforme exige o art. 1.022 do CPC, impõe-se a rejeição do pleito integrativo.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. CONTRADIÇÃO E OMISSÃO. VÍCIOS NÃO CONFIGURADOS. PROPÓSITO DE MODIFICAÇÃO DO JULGAMENTO. MEIO IMPRÓPRIO.
+1. Os embargos de declaração, conforme dispõe o art. 1.022 do CPC/2015, destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material.
+2. Não se identifica, no recurso, qualquer ponto sobre o qual era necessária manifestação, mas apenas a discordância da parte com a solução apresentada no julgamento e seu propósito de modificação.
+3. Por contradição entende-se coexistência de afirmações em desacordo no mesmo julgado, gerando ilogicidade ao texto. Mas desse problema não se ressente o julgado.
+4. Embargos de declaração rejeitados, com aplicação de multa de 1% (um por cento) sobre o valor atualizado da causa.
+(EDcl no AgInt nos EAREsp n. 666.334/RS, Rel. Ministro Og Fernandes, Primeira Seção, julgado em 22/8/2018, DJe de 28/8/2018.)
+ANTE O EXPOSTO, rejeitam-se os embargos de declaração.
+É o voto.
