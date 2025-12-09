@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de conflito de competência suscitado na ação ajuizada por Hilda Antunes Santaella, em face do Instituto Nacional do Seguro Social e da União, na qual objetiva a complementação integral de pensão de ex-empregado da Rede Ferroviária Federal - RFFSA.
+A ação foi aviada perante o Juízo Federal da 22ª Vara Cível de Brasília - SJ/DF, que declinou de sua competência, por entender que (fl. 317):
+Este Juízo, nos termos do art. 109, §2º, da Constituição Federal, possui o entendimento que as ações poderão ser aforadas na seção judiciária do domicílio do(a) autor(a), uma vez que, a União Federal e suas autarquias possuem representação em todos os Estados.
+Analisando os termos da peça inaugural, verifico que a autora informa ter residência em Promissão/SP, e que a União e o INSS possuem representação no Estado de São Paulo/SP.
+Do exposto, prezando pela celeridade processual (arts. 4º e 6º, do CPC), determino a remessa dos autos à Seção/Subseção Judiciária de seu domicílio.
+Recebidos os autos, o Juízo Federal da 1ª Vara de Lins - SJ/SP, igualmente, reconheceu a incompetência para o feito e suscitou o presente Conflito, pois entende que (fls. 4-5):
+O art. 109, §2º, da Constituição Federal diz que "as causas intentadas contra a União poderão ser aforadas na seção judiciária em que for domiciliado o autor, naquela onde houver ocorrido o ato ou fato que deu origem à demanda ou onde esteja situada a coisa, ou, ainda, no Distrito Federal.", ou seja, o ajuizamento na seção judiciária de domicílio do autor, ou no Distrito Federal, é faculdade da parte autora.
+O Código de Processo Civil, por sua vez, disciplina que somente a incompetência absoluta deve ser declarada de ofício (art. 64, §1º). A incompetência relativa, por sua vez, deve ser alegada como preliminar de contestação (art. 64, caput).
+Não há discussão sobre a natureza relativa da competência territorial, o que torna, portanto, competente para processar e julgar este feito o Juízo da 22ª Vara Federal da Seção Judiciária do Distrito Federal. (grifo no original)
+Desnecessária a oitiva do Ministério Público Federal (art. 951, parágrafo único, do CPC/2015).
+É o relatório. Decido.
+Colhe-se dos autos que a parte autora ajuizou demanda perante o Juízo Federal da 22ª Vara Cível de Brasília - SJ/DF, objetivando a complementação integral de pensão de ex-empregado da Rede Ferroviária Federal - RFFSA.
+Com efeito, a jurisprudência desta Corte, em harmonia com a interpretação mais acurada do art. 109, § 2º, da Constituição Federal, feita pelo Supremo Tribunal Federal, "entende que as causas intentadas contra a União poderão ser aforadas na Seção Judiciária em que for domiciliado o autor, naquela onde houver ocorrido o ato ou fato que deu origem à demanda, ou onde esteja situada a coisa, ou, ainda, no Distrito Federal".
+A esse respeito, o seguinte julgado:
+CONFLITO DE COMPETÊNCIA. MANDADO DE SEGURANÇA. ARTIGO 109, § 2º, DA CONSTITUIÇÃO FEDERAL. POSSIBILIDADE DE AJUIZAMENTO NO DOMICÍLIO DO AUTOR. FACULDADE CONFERIDA AO IMPETRANTE. PRECEDENTES.
+1. O STJ, seguindo a jurisprudência pacificada do Supremo Tribunal Federal, entende que as causas intentadas contra a União poderão ser aforadas na Seção Judiciária em que for domiciliado o autor, naquela onde houver ocorrido o ato ou fato que deu origem à demanda, ou onde esteja situada a coisa, ou, ainda, no Distrito Federal.
+2. Optando o autor por impetrar o mandamus no seu domicílio, e não naqueles outros previstos no § 2º do art. 109 da Constituição Federal, não compete ao magistrado limitar a aplicação do próprio texto constitucional, por ser legítima a escolha da parte autora, ainda que a sede funcional da autoridade coatora seja no Distrito Federal, impondo-se reconhecer a competência do juízo suscitado.
+3. Nesse sentido: AgInt no CC 158.943/SP, Rel. Ministro Sérgio Kukina, Primeira Seção, DJe 17/12/2018; AgInt no CC 154.470/DF, Rel. Ministro Og Fernandes, Primeira Seção, DJe 18/04/2018; AgInt no CC 153.724/DF, Rel. Ministra Regina Helena Costa, Primeira Seção, DJe 16/2/2018; AgInt no CC 148.082/DF, Rel. Ministro Francisco Falcão, Primeira Seção, DJe 19/12/2017.
+4. Agravo Interno não provido.
+(AgInt no CC 166.313/DF, relator Ministro Herman Benjamin, Primeira Seção, DJe de 07/05/2020).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. MANDADO DE SEGURANÇA. AUTARQUIA FEDERAL. ARTIGO 109, § 2º, DA CONSTITUIÇÃO FEDERAL. POSSIBILIDADE DE AJUIZAMENTO NO DOMICÍLIO DO AUTOR. FACULDADE CONFERIDA AO IMPETRANTE.
+1. Não se desconhece a existência de jurisprudência no âmbito deste Superior Tribunal de Justiça segundo a qual, em se tratando de Mandado de Segurança, a competência para processamento e julgamento da demanda é estabelecida de acordo com a sede funcional da autoridade apontada como coatora e a sua categoria profissional. No entanto, a aplicação absoluta de tal entendimento não se coaduna com a jurisprudência, também albergada por esta Corte de Justiça, no sentido de que "Proposta ação em face da União, a Constituição Federal (art. 109, § 2º) possibilita à parte autora o ajuizamento no foro de seu domicílio" (REsp 942.185/RJ, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 02/06/2009, DJe 03/08/2009).
+2. Diante do aparente conflito de interpretações, tenho que deve prevalecer a compreensão de que o art. 109 da Constituição Federal não faz distinção entre as várias espécies de ações e procedimentos previstos na legislação processual, motivo pelo qual o fato de se tratar de uma ação mandamental não impede o autor de escolher, entre as opções definidas pela Lei Maior, o foro mais conveniente à satisfação de sua pretensão.
+3. A faculdade prevista no art. 109, § 2º, da Constituição Federal, abrange o ajuizamento de ação contra quaisquer das entidades federais capazes de atrair a competência da Justiça Federal, uma vez que o ordenamento constitucional, neste aspecto, objetiva facilitar o acesso ao Poder Judiciário da parte litigante.
+4. Agravo interno a que se nega provimento.
+(AgInt no CC 153.878/DF, relator Ministro Sérgio Kukina, Primeira Seção, DJe de 19/06/2018).
+No mesmo sentido, as seguintes decisões: CC 214.543/DF, relator Ministro Benedito Gonçalves, DJEN 3/11/2025; CC 216.132/SC, relator Ministro Marco Aurélio Bellizze, DJEN 29/9/2025; CC 200.519/MT, relator Ministro Herman Benjamin, DJEN 15/12/2023.
+Desse modo, tendo a autora, parte direta e exclusivamente interessada no julgamento da presente ação, optado por ajuizar a demanda perante a Justiça Federal do Distrito Federal, deve o processo tramitar perante o referido juízo.
+Ante o exposto, conheço do conflito para declarar a competência do Juízo Federal da 22ª Vara Cível de Brasília - SJ/DF.
+Comunique -se aos juízos envolvidos.
+Publique-se.
+EMENTA
