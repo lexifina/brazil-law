@@ -1,0 +1,7 @@
+DECISÃO
+Cuida-se de recurso no qual se discute a necessidade de prévia liquidação da sentença coletiva pelo procedimento comum, não se afigurando possível intentar diretamente cumprimento de sentença individual. A questão controvertida foi afetada para julgamento sob o rito dos recursos repetitivos (Tema 1169/STJ), nos seguintes termos:
+Definir se a liquidação prévia do julgado é requisito indispensável para o ajuizamento de ação objetivando o cumprimento de sentença condenatória genérica proferida em demanda coletiva, de modo que sua ausência acarreta a extinção da ação executiva, ou se o exame quanto ao prosseguimento da ação executiva deve ser feito pelo Magistrado com base no cotejo dos elementos concretos trazidos aos autos.
+Ante o exposto, na forma do art. 256-L, I, do RISTJ, determino a devolução dos autos à Corte de origem, com a respectiva baixa, a fim de que, após a publicação dos acórdãos a serem proferidos nos recursos representativos da controvérsia vinculados ao Tema 1.169/STJ, sejam tomadas as providências previstas nos arts. 1.039, caput, e 1.040 do CPC.
+Advirto às partes que, na esteira da jurisprudência desta Corte, a presente decisão possui recorribilidade limitada à demonstração da distinção, na forma do art. 1.037, §§ 9º e 10, inciso IV, do CPC, uma vez que não se conhecerá do agravo interno ou do pedido de reconsideração que pretender o julgamento deste recurso especial.
+Publique-se. Intimem-se.
+EMENTA
