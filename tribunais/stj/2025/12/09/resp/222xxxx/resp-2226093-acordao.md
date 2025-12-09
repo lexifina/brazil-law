@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 03/12/2025 a 09/12/2025, por unanimidade, conhecer do recurso mas lhe negar provimento, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Daniela Teixeira, Humberto Martins e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+Não participou do julgamento a Sra. Ministra Nancy Andrighi.
+EMENTA
+DIREITO PROCESSUAL CIVIL E EMPRESARIAL. RECURSO ESPECIAL. INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. TEORIA MAIOR. ART. 50 DO CÓDIGO CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. AUSÊNCIA DE BENS E ENCERRAMENTO IRREGULAR. INSUFICIÊNCIA. REEXAME DE PROVAS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. RECURSO ESPECIAL NÃO PROVIDO.
+1. Ação originária consiste em incidente de desconsideração da personalidade jurídica instaurado no bojo de cumprimento de sentença, visando atingir o patrimônio dos sócios após infrutíferas tentativas de localização de bens da empresa devedora. Tribunal de origem manteve o indeferimento do pedido ao fundamento de que a ausência de bens e o encerramento irregular das atividades, isoladamente considerados, não configuram abuso da personalidade jurídica.
+2. Inexiste ofensa ao art. 1.022 do CPC quando o tribunal de segunda instância manifesta-se de forma clara e fundamentada sobre as questões essenciais ao deslinde da controvérsia, ainda que em sentido contrário aos interesses da parte recorrente. Rejeição dos embargos de declaração que demonstrou o adequado enfrentamento das teses apresentadas.
+3. Acórdão recorrido concluiu, com base no conjunto fático-probatório dos autos, pela inexistência de ato intencional dos sócios voltado a fraudar terceiros ou de confusão patrimonial. Alteração dessa conclusão demandaria reexame de fatos e provas, providência vedada em recurso especial nos termos da Súmula 7/STJ.
+4. Incidência da Súmula 7/STJ sobre a questão de mérito impede o conhecimento do recurso pela alínea c do permissivo constitucional, porquanto a divergência jurisprudencial não pode ser demonstrada quando a análise do caso concreto depende de reexame de matéria fática.
+5 . Recurso especial não provido.
+RELATÓRIO
+Trata-se de recurso especial interposto por LUIZ FERNANDO DE SOUZA PACHECO PAPAIZ (LUIZ FERNANDO), com fundamento no art. 105, III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça de São Paulo.
+Nas razões do presente apelo (e-STJ, fls. 492 a 524), LUIZ FERNANDO apontou, além de dissídio jurisprudencial, violação dos arts. 1.022, I e II, do Código de Processo Civil, e 49-A e 50, caput e §§ 1º e 2º, do Código Civil. Sustentou, em síntese, que (1) o acórdão recorrido foi omisso ao não analisar sua tese principal de que a empresa se enquadraria no conceito de "empresa fantasma", uma vez que, embora ativa, não possui quaisquer bens ou declara renda, apesar de registrar capital social de R$ 110.000,00; (2) a ausência total de patrimônio de uma empresa em funcionamento configura desvio de finalidade, autorizando a desconsideração da personalidade jurídica; (3) há divergência de entendimento com outros tribunais que admitem a desconsideração em casos de dissolução irregular somada à ausência de bens; e, por fim, (4) requereu a suspensão do feito até o julgamento do Tema Repetitivo 1210/STJ.
+As contrarrazões foram apresentadas por ANDREZA PEREIRA DIAS e ANDRÉ PORTUGAL GONZALEZ (ANDREZA e ANDRÉ) (e-STJ, fls. 545 a 569), nas quais defenderam o não conhecimento do recurso pela incidência da Súmula nº 7 do STJ, a ausência de cotejo analítico para o dissídio e, no mérito, a manutenção do acórdão recorrido.
+O recurso especial foi admitido no Tribunal de Justiça de São Paulo, pelo desembargador Gastão Toledo de Campos Mello Filho (e-STJ, fls. 570 a 572).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL E EMPRESARIAL. RECURSO ESPECIAL. INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. TEORIA MAIOR. ART. 50 DO CÓDIGO CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. AUSÊNCIA DE BENS E ENCERRAMENTO IRREGULAR. INSUFICIÊNCIA. REEXAME DE PROVAS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. RECURSO ESPECIAL NÃO PROVIDO.
+1. Ação originária consiste em incidente de desconsideração da personalidade jurídica instaurado no bojo de cumprimento de sentença, visando atingir o patrimônio dos sócios após infrutíferas tentativas de localização de bens da empresa devedora. Tribunal de origem manteve o indeferimento do pedido ao fundamento de que a ausência de bens e o encerramento irregular das atividades, isoladamente considerados, não configuram abuso da personalidade jurídica.
+2. Inexiste ofensa ao art. 1.022 do CPC quando o tribunal de segunda instância manifesta-se de forma clara e fundamentada sobre as questões essenciais ao deslinde da controvérsia, ainda que em sentido contrário aos interesses da parte recorrente. Rejeição dos embargos de declaração que demonstrou o adequado enfrentamento das teses apresentadas.
+3. Acórdão recorrido concluiu, com base no conjunto fático-probatório dos autos, pela inexistência de ato intencional dos sócios voltado a fraudar terceiros ou de confusão patrimonial. Alteração dessa conclusão demandaria reexame de fatos e provas, providência vedada em recurso especial nos termos da Súmula 7/STJ.
+4. Incidência da Súmula 7/STJ sobre a questão de mérito impede o conhecimento do recurso pela alínea c do permissivo constitucional, porquanto a divergência jurisprudencial não pode ser demonstrada quando a análise do caso concreto depende de reexame de matéria fática.
+5 . Recurso especial não provido.
+VOTO
+O recurso não merece provimento.
+O objetivo de LUIZ FERNANDO com o presente recurso é a reforma do acórdão do Tribunal de Justiça de São Paulo para que seja deferida a desconsideração da personalidade jurídica da empresa A3 TREINAMENTO FÍSICO LTDA, com a consequente inclusão dos sócios, ANDREZA e ANDRÉ, no polo passivo da execução.
+No recurso especial interposto com fundamento no art. 105, III, "a" e "c", da CF, LUIZ FERNANDO apontou violação aos arts. (1) 1.022, I e II, do CPC, alegando negativa de prestação jurisdicional, pois o acórdão foi omisso quanto à tese de que a empresa seria uma "empresa fantasma", por ser ativa sem possuir qualquer patrimônio; (2) 49-A e 50, caput e §§ 1º e 2º, do Código Civil, sustentando que a inexistência de bens de uma empresa em funcionamento, com capital social declarado, configura abuso da personalidade jurídica apto a ensejar a sua desconsideração. Apontou, ainda, dissídio jurisprudencial sobre o tema.
+(1) Da suposta violação ao art. 1.022 do CPC
+De início, afasta-se a alegada ofensa ao art. 1.022 do CPC.
+O tribunal paulista, em acórdão de relatoria da desembargadora Celina Dietrich Trigueiros, ao negar provimento ao agravo de instrumento, concluiu, de forma clara e fundamentada, que a situação descrita nos autos  insuficiência patrimonial  não se enquadrava nas hipóteses de desvio de finalidade ou confusão patrimonial exigidas pelo art. 50 do Código Civil. Ao julgar os embargos de declaração, a Corte paulista reiterou seu posicionamento e esclareceu que enfrentou a matéria, inexistindo omissão a ser sanada.
+Consta expressamente do acórdão que julgou os aclaratórios (e-STJ, fls. 483 a 489):
+Com efeito, não se verifica qualquer omissão, contradição ou obscuridade no acórdão embargado. A decisão foi clara ao afirmar que a desconsideração da personalidade jurídica, fundamentada no artigo 50 do Código Civil, exige a comprovação de desvio de finalidade ou confusão patrimonial, o que implica a demonstração de atos intencionais praticados pelos sócios com intuito de fraudar credores.  ..  A insuficiência patrimonial da sociedade, por si só, não é suficiente para a aplicação da desconsideração da personalidade jurídica, especialmente em relações regidas pelo Código Civil.
+Verifica-se, portanto, que o TJSP apreciou a questão central posta por LUIZ FERNANDO, qual seja, se a ausência de bens de uma empresa ativa justificaria a desconsideração. Embora não tenha utilizado a expressão "empresa fantasma", a Corte paulista enfrentou a substância do argumento e concluiu que, sem prova de fraude, tal fato, por si só, é insuficiente.
+O que se observa é o inconformismo de LUIZ FERNANDO com o resultado do julgamento, o que não se confunde com negativa de prestação jurisdicional.
+Conforme tem decidido esta Corte Superior:
+EMBARGOS DE DECLARAÇÃO NO MANDADO DE SEGURANÇA. OMISSÃO. INEXISTÊNCIA. PRETENSÃO DE NOVO JULGAMENTO DA CAUSA . NÃO CABIMENTO. CONDENAÇÃO EM LITIGÂNCIA DE MÁ-FE. CERTIFICAÇÃO DO TRÂNSITO EM JULGADO.
+1 . Os embargos de declaração, recurso de natureza integrativa destinado a sanar obscuridade, contradição, omissão ou erro material, são incabíveis quando a parte embargante pretende apenas a obtenção de efeitos infringentes.
+2. As apontadas omissões configuram insurgência meritória, não aceitação da fundamentação exposta, e não omissão propriamente dita.
+3 . Em vez da caracterização de alguma falha no julgado, os embargos ora em análise se propõem a alterá-lo em razão da discordância com a fundamentação apresentada.
+4. Fixação de multa por litigância no má-fé no valor de dois salários mínimos, nos termos dos arts. 80, inciso VII, e 81 do CPC, em razão da caraterização dos embargos declaratórios manifestamente protelatórios .Embargos de declaração rejeitados.
+(STJ - EDcl nos EDcl no AgInt nos EDcl na Rcl: 43759 RS 2022/0225824-0, Relator.: Ministro HUMBERTO MARTINS, Data de Julgamento: 15/08/2023, S2 - SEGUNDA SEÇÃO, Data de Publicação: DJe 18/08/2023)
+(2) Da alegada violação aos arts. 49-A e 50 do Código Civil e do dissídio jurisprudencial
+O recurso especial não pode ser conhecido quanto ao mérito da controvérsia.
+As instâncias ordinárias, soberanas na análise do conjunto fático-probatório, concluíram que não foram demonstrados os requisitos para a desconsideração da personalidade jurídica. O acórdão recorrido foi taxativo ao afirmar que não há nos autos prova de abuso da personalidade, seja por desvio de finalidade, seja por confusão patrimonial.
+A esse respeito, extrai-se o seguinte trecho do voto condutor (e-STJ, fls. 424 a 436):
+Contudo, não há nos autos a demonstração de que tenha havido ato intencional dos sócios voltado a fraudar terceiros.
+De igual modo, não se evidência a ocorrência de "cumprimento repetitivo pela sociedade de obrigações do sócio ou do administrador" ou a "transferência de ativos ou de passivos sem efetivas contraprestações", requisitos legais para a caracterização da confusão patrimonial.
+Dessa forma, rever a conclusão do TJSP para acolher a tese de LUIZ FERNANDO, de que estariam presentes os pressupostos para a desconsideração, implicaria, necessariamente, o reexame dos fatos e das provas constantes dos autos, o que é vedado no âmbito do recurso especial, em razão do óbice da Súmula nº 7 desta Corte.
+O mesmo óbice se aplica à análise do recurso pela alínea "c" do permissivo constitucional, pois a similitude fática entre o acórdão recorrido e os paradigmas colacionados não pode ser aferida sem a reanálise do material probatório, o que inviabiliza o conhecimento do dissídio jurisprudencial.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. GRATUIDADE DE JUSTIÇA. PRETENSÃO DE REFORMA DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE . NECESSIDADE DE REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. ÓBICE DA SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL . IMPOSSIBILIDADE. AUSÊNCIA DE COTEJO ANALÍTICO. AUSÊNCIA DE SIMILITUDE FÁTICA.
+1 . (..).
+2 . (..).
+3 . (..).
+4 . (..).
+5. O não conhecimento do recurso especial pela alínea a em razão da necessidade de reexame de prova impede o conhecimento do dissídio interpretativo suscitado por ausência de similitude fática .Precedentes.Agravo interno improvido.
+(STJ - AgInt no AREsp: 2508030 SP 2023/0371422-5, Relator.: Ministro HUMBERTO MARTINS, Data de Julgamento: 20/05/2024, T3 - TERCEIRA TURMA, Data de Publicação: DJe 22/05/2024)
+(3) Do pedido de suspensão (Tema 1210/STJ)
+Quanto ao pedido de suspensão do processo em razão da afetação do Tema Repetitivo 1210/STJ, que discute o "Cabimento ou não da desconsideração da personalidade jurídica no caso de mera inexistência de bens penhoráveis e/ou eventual encerramento irregular das atividades da empresa", o pleito não prospera.
+Isso porque não houve determinação de suspensão nacional dos processos que versem sobre a matéria, de modo que o presente recurso deve ter seu trâmite regular.
+Em suas contrarrazões, ANDREZA e ANDRÉ reforçaram a tese da incidência da Súmula nº 7 do STJ e contextualizaram o insucesso empresarial, atribuindo-o aos efeitos da pandemia de Covid-19, o que, segundo eles, afastaria a presunção de fraude. Tais argumentos corroboram a correção da decisão das instâncias ordinárias e a impossibilidade de reexame fático nesta seara recursal.
+Ante o exposto, NEGO PROVIMENTO ao recurso especial.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+É o voto.
