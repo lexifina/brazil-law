@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 03/12/2025 a 09/12/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+Não participou do julgamento a Sra. Ministra Nancy Andrighi.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. VÍCIO EMBARGÁVEL. OMISSÃO.
+1. Ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição ou corrigir erro material, mas, sim, reformar o julgado por via inadequada.
+2. Embargos de declaração rejeitados
+RELATÓRIO
+Trata-se de embargos de declaração opostos por DARCILA LUIZ HAUBERT ao acórdão da Terceira Turma assim ementado:
+"AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. FUNCEF. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. VERBA INTITULADA COMPLEMENTO TEMPORÁRIO VARIÁVEL DE AJUSTE DE MERCADO (CTVA). COMPETÊNCIA. JUSTIÇA COMUM. INCLUSÃO NO CÁLCULO. REEXAME DO CONJUNTO PROBATÓRIO E CLÁUSULAS ESTATUTÁRIAS. IMPOSSIBILIDADE. SÚMULAS Nº 5/STJ E 7/STJ.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas em sentido inverso aos interesses da parte.
+2. Os pedidos formulados na exordial restringiram-se à causa previdência, a afastar a competência da justiça trabalhista para o desate da matéria controvertida.
+3. Irrelevância da discussão acerca da natureza salarial do Complemento Temporário Variável de Ajuste de Mercado - CTVA, porque tal verba foi expressamente excluída do salário de participação e do custeio da suplementação de aposentadoria, conforme o Regulamento REG/REPLAN, assim como, com a migração de plano previdenciário, houve o saldamento das reservas constituídas.
+4. A revisão das conclusões da Corte de origem demandaria o reexame do conjunto fático-probatório dos autos e nova interpretação das cláusulas do regulamento do plano previdenciário, procedimento vedado em recurso especial em virtude dos óbices das Súmulas nº 5/STJ e 7/STJ.
+5. Agravo conhecido para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento" (e-STJ fls. 1.128/1.132).
+Nas presentes razões (e-STJ fls. 1.137/1.140), a embargante suscita omissão no julgado quanto aos seguintes pontos: i) competência da Justiça do Trabalho para assentar natureza salarial da verba CTVA - Complemento Temporário Variável de Ajuste de Mercado; e ii) aplicação à espécie do quanto decidido no Tema nº 1.166/STF, porquanto patente o caráter salarial do pagamento a título de CTVA, a ensejar posterior inclusão no salário de participação e consequente responsabilização do patrocinador.
+Impugnação aos embargos às e-STJ fls. 1.144/1.152.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. VÍCIO EMBARGÁVEL. OMISSÃO.
+1. Ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição ou corrigir erro material, mas, sim, reformar o julgado por via inadequada.
+2. Embargos de declaração rejeitados
+VOTO
+Não prospera a inconformidade veiculada nos presentes aclaratórios.
+Os embargos de declaração são admissíveis nas hipóteses elencadas no art. 1.022 do Código de Processo Civil, o qual prevê o seu cabimento para esclarecer obscuridade ou eliminar contradição, para suprir omissão de ponto ou de questão sobre a qual devia se pronunciar o juiz, de ofício ou a requerimento, e para corrigir erro material.
+No caso dos autos, a ora embargante alega omissão do julgado quanto aos seguintes pontos:
+"(..) a) incompetência absoluta da Justiça Comum para analisar a natureza salarial do CTVA, posto que a competência é da Justiça Trabalhista, nos termos do art. 457 da CLT e do art. 114, I da Constituição Federal; b) que o pedido na ação não é meramente previdenciário e que o reconhecimento do CTVA como de natureza salarial imprime a necessária incorporação ao salário de participação e o custeio adequado pelo patrocinador e empregador, atraindo o entendimento do tema de repercussão geral n. 1.166/STF" (e-STJ fl. 1.137).
+A respeito dos aludidos pontos, o aresto embargado foi cristalino ao assentar que:
+"(..)
+Assim, não há falar em competência da justiça trabalhista, porque os pedidos formulados na exordial restringiram-se à causa previdência, a afastar, por conseguinte, os precedentes citados nas razões recursais, os quais possuem como premissa discussão preliminar referente à relação de trabalho. Noutro giro, consoante se extrai do acórdão estadual, a supracitada verba CTVA foi expressamente excluída do salário de participação e do custeio da suplementação de aposentadoria, conforme o Regulamento REG/REPLAN, assim como, com a migração de plano previdenciário, houve o saldamento das reservas constituídas.
+Confira-se:
+"Colhe-se dos autos que a ora apelante, funcionária aposentada da Caixa Econômica Federal, ingressou em plano de benefício de previdência complementar denominado REG/REPLAN, administrado pela apelada, e, posteriormente, migrou para um novo plano, com o saldamento do anterior. A controvérsia exposta nos autos reside na alegação de que, por ocasião do cálculo do benefício saldado da autora, ora apelante, não foi considerada a parcela relativa ao Complemento Temporário Variável de Ajustes de Mercado (CTVA), integrante de sua remuneração. Com efeito, analisados os documentos acostados aos autos, verifica-se que os argumentos expostos pela apelante não merecem prosperar, tendo sido devidamente analisados na sentença resistida. Isso porque, como bem observado pelo Juízo a quo, a relação jurídica estabelecida entre as partes tem natureza eminentemente negocial, razão pela qual se deve conferir prioridade à vontade exposta pelos contratantes no pacto firmado. E, após análise dos documentos acostados aos autos, tudo está a indicar que a apelante foi devidamente informada dos novos termos a que estaria submetida com a adesão ao novo plano, bem como que o saldamento seria calculado com base no salário de participação na data final do processo, como se pode inferir do Termo de Adesão às Regras de Saldamento do REG/REPLAN e ao Novo Plano e Novação de Direitos Previdenciários (fls. 212-214)" (e-STJ fl. 521).
+Delineado esse quadro, não há como promover reparos no acórdão sem o reexame dos fatos e provas constantes nos autos e nova interpretação das cláusulas do regulamento do plano previdenciário, providência vedada nos termos das Súmulas nº 5 e 7/STJ.
+(..)
+Na hipótese, portanto, seria inviável admitir apenas o incremento patrimonial reflexo das verbas reconhecidas pela Justiça do Trabalho no benefício percebido relativamente ao plano saldado, sem que fosse afastada a própria negociação do saldamento para adesão ao novo plano. Para tanto, seria necessário o retorno das partes ao estado anterior, desfazendo-se inclusive a concessão do benefício do plano atual" (e-STJ fls. 1.131/1.132).
+Nesse contexto, ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição ou corrigir o erro material, mas, sim, reformar o julgado por via inadequada, situação a afastar a possibilidade de manejo dos aclaratórios.
+Desse modo, o cotejo das razões de decidir com o quanto foi alegado na petição dos embargos de declaração evidencia a inexistência da omissão aventada, a afastar possibilidade de manejo dos aclaratórios.
+Ante o exposto, rejeito os embargos de declaração com a advertência de que, havendo reiteração de embargos protelatórios, a multa prevista no art. 1.026, § 2º, do Código de Processo Civil será aplicada.
+É o voto.
