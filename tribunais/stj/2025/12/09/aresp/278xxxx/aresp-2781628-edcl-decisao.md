@@ -1,0 +1,11 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por MAKRO ATACADISTA S.A. à decisão monocrática desta relatoria, nos termos da seguinte ementa (e-STJ, fl. 779):
+AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. NEGATIVA DE PRESTAÇÃO NÃO EVIDENCIADA. ICMS. DECADÊNCIA. INEXISTÊNCIA DE DECLARAÇÃO DO CONTRIBUINTE. APLICAÇÃO DO ART. 173, I, DO CTN. INCIDÊNCIA DA SÚMULA 83/STJ. ALEGADA AUSÊNCIA DE INFRAÇÃO. FALTA DE INDICAÇÃO DE DISPOSITIVO LEGAL. SÚMULA 284/STF. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Em sua insurgência (e-STJ, fls. 789-791), destaca que a decisão monocrática foi omissa, pois não houve manifestação sobre o pedido de desistência da ação e extinção do processo, com base no art. 487, III, c, do CPC, sem ônus às partes, nem sobre o pedido subsidiário de que os honorários e as custas sejam calculados com base no valor do débito transacionado, já considerando os descontos concedidos pelo REFIS.
+Impugnação apresentada às fls. 797-800 (e-STJ), no qual o Estado do Mato Grosso do Sul sustenta que os honorários sucumbenciais não devem ser afastados.
+Brevemente relatado, decido.
+Diante das razões apresentadas pela parte embargante em sua petição, acolho os embargos de declaração, atribuindo-lhes efeitos infringentes, para tornar sem efeito a decisão de fls. 779-785 (e-STJ).
+Ademais, considerando que a hipótese de extinção do processo com resolução de mérito a que se refere o art. 487, III, c, do CPC/2015 pressupõe que o demandante renuncie à pretensão por ele deduzida na ação, intime-se a embargante a fim de que, no prazo de 5 (cinco) dias, esclareça se o que pretende é apenas manifestar a desistência de seus agravos em recurso especial e em recurso extraordinário ou se, em verdade, deseja renunciar à pretensão deduzida nos embargos à execução fiscal que deu origem a este processo, o que, se for esse o caso, deverá estar expresso em sua manifestação.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. PEDIDO DE DESISTÊNCIA. OMISSÃO CONFIGURADA. REVOGAÇÃO DA DECISÃO ANTERIOR. ART. 487, III, C, DO CPC/2015. NECESSIDADE DE ESCLARECIMENTO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, COM EFEITOS INFRINGENTES.
