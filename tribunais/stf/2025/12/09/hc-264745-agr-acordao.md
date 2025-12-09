@@ -1,0 +1,660 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 16
+
+09/12/2025
+
+PRIMEIRA TURMA
+
+AG.REG. NO HABEAS CORPUS 264.745 ALAGOAS
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+
+: MIN. CRISTIANO ZANIN
+: WALLEMBERG WANDERSON TORRES SILVA
+: WELHINGTON WANDERLEY DA SILVA
+: RELATOR DO HC N° 981.844 DO SUPERIOR
+TRIBUNAL DE JUSTIÇA
+
+Ementa: AGRAVO REGIMENTAL. HOMICÍDIO QUALIFICADO E
+ASSOCIAÇÃO CRIMINOSA. HABEAS CORPUS IMPETRADO CONTRA
+DECISÃO MONOCRÁTICA DE MINISTRO DO SUPERIOR TRIBUNAL
+DE JUSTIÇA. SUPRESSÃO DE INSTÂNCIA. AGRAVO AO QUAL SE
+NEGA PROVIMENTO.
+I. CASO EM EXAME
+1. Paciente pronunciado “[...] como incurso nos arts. 121, § 2º, I, II, IV
+e V, c/c o art. 288, parágrafo único, c/c art. 62, V, todos do Código Penal
+(homicídio qualificado e associação criminosa)”.
+II. QUESTÃO EM DISCUSSÃO
+2. Pretende-se o desaforamento da ação penal.
+III. RAZÕES DE DECIDIR
+3. Este habeas corpus foi impetrado contra decisão monocrática de
+Ministro do Superior Tribunal de Justiça que não conheceu do HC
+981.844/AL. Assim, no caso, a ausência da análise dos fundamentos
+constantes do ato coator por colegiado daquele Superior Tribunal impede
+o prosseguimento do writ por supressão de instância.
+IV. DISPOSITIVO
+4. Agravo regimental ao qual se nega provimento.
+ACÓRDÃO
+Acordam os Ministros do Supremo Tribunal Federal, em sessão
+virtual da Primeira Turma, na conformidade da ata de julgamentos, por
+unanimidade, negar provimento ao agravo regimental, nos termos do
+voto do Relator.
+Brasília, 9 de dezembro de 2025.
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código DAE8-B150-1326-E317 e senha 10C1-0AA0-B046-8506
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 2 de 16
+
+HC 264745 AGR / AL
+
+CRISTIANO ZANIN - Relator
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código DAE8-B150-1326-E317 e senha 10C1-0AA0-B046-8506
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 16
+
+AG.REG. NO HABEAS CORPUS 264.745 ALAGOAS
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+
+: MIN. CRISTIANO ZANIN
+: WALLEMBERG WANDERSON TORRES SILVA
+: WELHINGTON WANDERLEY DA SILVA
+: RELATOR DO HC N° 981.844 DO SUPERIOR
+TRIBUNAL DE JUSTIÇA
+RELATÓRIO
+
+O Senhor Ministro CRISTIANO ZANIN (Relator): Trata-se de agravo
+regimental interposto contra decisão monocrática proferida por mim
+nestes autos (doc. 17).
+Consta de documento encartado a este writ que:
+[...] o Juízo de primeiro grau pronunciou o paciente como
+incurso nos arts. 121, § 2º, I, II, IV e V, c/c o art. 288, parágrafo
+único, c/c art. 62, V, todos do Código Penal (homicídio
+qualificado e associação criminosa). (Doc. 4, p. 1).
+
+Neste agravo regimental, o agravante, em síntese, reitera os
+argumentos constantes da inicial deste habeas corpus e, ao final, requer:
+POSTO ISTO, a defesa técnica do Agravante / Paciente
+protesta e requer seja o presente recurso (Agravo Interno)
+recebido e regularmente processado, na forma do art. 317 do
+RISTF, para o fim de que Vossa Excelência reconsidere a r.
+decisão monocrática e ora agravada, reafirmando a competência
+da 1ª. Turma julgadora desse Egrégio Supremo Tribunal Federal
+para processar o habeas corpus em questão, assegurando-se o
+direito constitucional do “duplo grau de jurisdição” c/c aplicação
+do princípio do julgamento pelo colegiado.
+De forma e maneira alternativa, no caso de não haver
+reconsideração da r. Decisão monocrática, desde já requer-se
+seja o presente Agravo Interno submetido com urgência ao
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 5532-A0B4-28BB-AC4B e senha D059-55D0-A3ED-6181
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 4 de 16
+
+HC 264745 AGR / AL
+escrutínio da Colenda Primeira Turma julgadora do STF, na
+forma expedita prevista art. 317, § 2º, do RISTF, a fim de se
+reformar a r. decisão ora agravada, reafirmando a competência
+da 1ª Turma julgadora desse Egrégio Supremo Tribunal Federal
+para processar o habeas corpus em questão, assegurando-se os
+direitos do Agravante/Paciente e outros postulados que
+decorrem do devido processo legal.
+Subsidiariamente, na possibilidade desse Ministro Relator
+entender por manter a r. Decisão Monocrática, portanto,
+reiterando e ratificando o não seguimento do WRIT, pugna-se
+que a matéria objeto do Habeas Corpus seja suscitada em Questão
+de Ordem no âmbito da Primeira Turma julgadora, a fim de que,
+em respeito ao princípio da colegialidade, seja deliberado na sua
+totalidade, ou seja, quanto ao direito do Agravante de ter um
+Júri Popular imparcial e, também de ser a sua prisão preventiva
+revogada, mesmo que para tanto seja o referido Habeas Corpus
+concedido “de ofício” pelo Colegiado do STF, nos termos do art.
+647-A do CPP c/c art. 5º, XXXV, da CF/1988 (doc. 18, pp. 21-22).
+
+A vista ao ilustre Procurador-Geral da República foi dispensada, nos
+termos do art. 52, parágrafo único, do Regimento Interno do Supremo
+Tribunal Federal.
+É o relatório.
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 5532-A0B4-28BB-AC4B e senha D059-55D0-A3ED-6181
+
+Supremo Tribunal Federal
+Voto - MIN. CRISTIANO ZANIN
+
+Inteiro Teor do Acórdão - Página 5 de 16
+
+AG.REG. NO HABEAS CORPUS 264.745 ALAGOAS
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+
+: MIN. CRISTIANO ZANIN
+: WALLEMBERG WANDERSON TORRES SILVA
+: WELHINGTON WANDERLEY DA SILVA
+: RELATOR DO HC N° 981.844 DO SUPERIOR
+TRIBUNAL DE JUSTIÇA
+VOTO
+
+O Senhor Ministro CRISTIANO ZANIN (Relator): Reexaminados estes
+autos, entendo que a decisão agravada não merece reparos ou qualquer
+correção.
+Este habeas corpus foi impetrado em favor de Wallemberg
+Wanderson Torres Silva contra decisão monocrática de Ministro do
+Superior Tribunal de Justiça que não conheceu do HC 981.844/AL, nos
+seguintes termos:
+Trata-se de habeas corpus substitutivo de recurso próprio,
+impetrado em benefício de WALLEMBERG WANDERSON
+TORRES SILVA, contra acórdão proferido pelo TRIBUNAL DE
+JUSTIÇA DO ESTADO DE ALAGOAS – TJAL nos autos do
+Desaforamento de Julgamento n. 0501137-89.2024.8.02.0000.
+Consta dos autos que o Juízo de primeiro grau
+pronunciou o paciente como incurso nos arts. 121, § 2º, I, II, IV
+e V, c/c o art. 288, parágrafo único, c/c art. 62, V, todos do
+Código Penal (homicídio qualificado e associação criminosa).
+O Ministério Público formulou pedido de desaforamento,
+que foi deferido pela Câmara Criminal do TJAL em acórdão
+assim ementado:
+“PENAL. PROCESSO PENAL. DESAFORAMENTO.
+RECEIO QUANTO À IMPARCIALIDADE DOS
+JURADOS. INCIDENTE PROCESSUAL ARGUIDO PELO
+ACUSADO. CONCORDÂNCIA DO JUÍZO DE ORIGEM.
+CRIME QUE GEROU GRANDE REPERCUSSÃO
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código E604-69C0-253E-7545 e senha 11D0-404C-F4D5-C3BC
+
+Supremo Tribunal Federal
+Voto - MIN. CRISTIANO ZANIN
+
+Inteiro Teor do Acórdão - Página 6 de 16
+
+HC 264745 AGR / AL
+POLÍTICA
+E
+SOCIAL.
+NECESSIDADE
+DE
+DESLOCAMENTO
+DO
+JULGAMENTO.
+PREENCHIMENTO DOS REQUISITOS DO ART. 427 DO
+CPP. PARECER DA PGJ NESSA LINHA. VERIFICADA A
+NECESSIDADE
+DE
+DESLOCAMENTO
+DO
+JULGAMENTO DO CORRÉU A. F., QUE SE ENCONTRA
+EM
+IDÊNTICA
+SITUAÇÃO.
+DESAFORAMENTO
+DEFERIDO. UNANIMIDADE. I. Caso em Exame 1.
+Incidente processual arguido por W. W. T. S., acusado
+pela prática do crime de homicídio qualificado. (CP, art.
+121, § 2º, incisos I, IV e V). II. Questões em Discussão 2.
+Possível mácula à imparcialidade do corpo de jurados,
+uma vez que a vítima era vereador da cidade de Anadia,
+com pretensões de pleitear a prefeitura do município,
+sendo pessoa bastante querida na pequena localidade, o
+que pode influenciar na decisão dos jurados. III. Razões de
+Decidir 3. Na hipótese em exame, a arguição do incidente
+processual foi provocada por um dos réus e corroborada
+pelo próprio Juízo que processa o feito de origem, ao
+perceber que a imparcialidade do Conselho de Sentença
+poderia restar prejudicada, havendo fundadas dúvidas
+acerca da real extensão dos danos que poderiam advir da
+realização da Sessão do Júri naquele município, já que o
+julgamento envolve questões políticas. In casu, levando-se
+em consideração a possibilidade de se tratar de crime
+político, em virtude de a vítima ser vereador do município
+à época dos fatos, resta patente o risco de interferência na
+imparcialidade do Conselho de Sentença, tornando-se
+imperiosa a transferência do julgamento, restando
+caracterizada uma das hipóteses do art. 427 do Código de
+Processo Penal. 4. Esclareça-se que, embora não figure
+como requerente, o corréu A. F. encontra-se em idêntica
+situação, de modo que, acaso seja mantido o seu
+julgamento perante o Juízo de Anadia, há riscos concretos
+de comprometimento da imparcialidade dos jurados, o
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código E604-69C0-253E-7545 e senha 11D0-404C-F4D5-C3BC
+
+Supremo Tribunal Federal
+Voto - MIN. CRISTIANO ZANIN
+
+Inteiro Teor do Acórdão - Página 7 de 16
+
+HC 264745 AGR / AL
+que culminaria na posterior nulidade. A par disso,
+tratando-se de situações muito semelhantes, devem ser
+desaforados ambos os julgamentos dos acusados W. W. T.
+S. e A. F.. 5. Fortes indícios de que o Conselho de Sentença
+estaria sujeito a sofrer algum tipo de interferência em sua
+imparcialidade, sendo mais prudente modificar a
+competência em razão do desaforamento. Preenchimento
+dos requisitos. Deslocamento do feito para uma das Varas
+Criminais da Comarca de Maceió/AL. (CPP, art. 427). IV.
+Dispositivo 6. Pedido de desaforamento deferido. Decisão
+unânime” (fls. 17/18).
+Opostos embargos de declaração pela defesa, foram
+rejeitados (fls. 28/33).
+Neste writ, a defesa alega constrangimento ilegal, por
+descumprimento ao disposto no art. 427 do Código de Processo
+Penal – CPP, uma vez que foi determinado o desaforamento do
+julgamento para outra Comarca, de região diversa, sendo que
+existem comarcas mais próximas de Anadia.
+Aduz que a família da vítima tem grande influência na
+Comarca de Maceió, fator que influenciará no julgamento do
+réu pelo Conselho de Sentença.
+Requer a concessão da ordem a fim de determinar o
+desaforamento para uma Comarca da mesma região da
+localizada na origem.
+O Ministério Público Federal – MPF opinou pelo não
+conhecimento do writ (fls. 76/79).
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso
+próprio, a impetração sequer deveria ser conhecida, segundo
+orientação jurisprudencial do Supremo Tribunal Federal – STF
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código E604-69C0-253E-7545 e senha 11D0-404C-F4D5-C3BC
+
+Supremo Tribunal Federal
+Voto - MIN. CRISTIANO ZANIN
+
+Inteiro Teor do Acórdão - Página 8 de 16
+
+HC 264745 AGR / AL
+e do próprio Superior Tribunal de Justiça – STJ. Contudo,
+considerando as alegações expostas na inicial, razoável verificar
+a existência de eventual constrangimento ilegal.
+O acórdão decidiu pelo desaforamento do julgamento do
+paciente, pelas seguintes razões:
+“Note-se que o desaforamento revela-se como causa
+de alteração da competência, admitido apenas quando
+restar comprovada uma das situações acima descritas,
+sendo a finalidade do instituto possibilitar que o réu seja
+julgado em um local sem que haja interferências, positivas
+ou negativas, em relação aos jurados. Na hipótese em
+exame, a arguição do incidente processual foi provocada
+por um dos réus e corroborada pelo próprio Juízo que
+processa o feito de origem, ao perceber que a
+imparcialidade do Conselho de Sentença poderia restar
+prejudicada, havendo fundadas dúvidas acerca da real
+extensão dos danos que poderiam advir da realização da
+Sessão do Júri naquele município, já que o julgamento
+envolve questões políticas. A par disso, após compulsar os
+autos, percebo que, de fato, assiste razão ao requerente.
+Nesta oportunidade, importa frisar que não se trata de
+considerar os réus culpados pelo crime em tela, até porque
+somente o Conselho de Sentença tem competência para
+decidir este fato. Contudo, neste momento, faz-se
+necessário garantir que os jurados sejam absolutamente
+imparciais e ajam da maneira mais justa possível. Acerca
+do pleito em questão, às fls. 87/92, a Procuradoria Geral de
+Justiça opinou da seguinte forma:
+Compulsando os autos, é possível verificar a
+manifesta necessidade de desaforamento do
+julgamento dos acusados. Conforme preceitua art.
+427 do CPP, este será autorizado mediante a
+comprovação, com base em fatos concretos, na
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código E604-69C0-253E-7545 e senha 11D0-404C-F4D5-C3BC
+
+Supremo Tribunal Federal
+Voto - MIN. CRISTIANO ZANIN
+
+Inteiro Teor do Acórdão - Página 9 de 16
+
+HC 264745 AGR / AL
+existência de interesse da ordem pública, de dúvida
+sobre a imparcialidade do júri, ou, ainda, sobre a
+segurança pessoal do acusado. Na hipótese, temos
+que há dúvida quanto a imparcialidade dos jurados,
+haja vista ser ano de eleições e, pelas informações
+contidas nos autos, os denunciados gozam de nítida
+influência política e social na comunidade. Ademais,
+a vítima era vereador de Anadia/ AL, muito bem
+quisto pela população, que tinha a pretensão de ser
+prefeito. Deste modo, como bem pontuado pela
+magistrada local, o fato imputado aos réus causaram
+grande comoção na sociedade local, sendo
+vinculados
+na
+imprensa,
+trazendo
+grande
+repercussão social e política. Portanto, no presente
+caso, havendo indícios de que o corpo de jurados a
+ser formado possa vir a incorrer em algumas das
+hipóteses previstas no art. 427 do CPP, entendemos
+que o desaforamento do julgamento é medida que se
+impõe.
+[...]
+In casu, levando-se em consideração a possibilidade
+de se tratar de crime político, em virtude de a vítima ser
+vereador do município à época dos fatos, resta patente o
+risco de interferência na imparcialidade do Conselho de
+Sentença, tornando-se imperiosa a transferência do
+julgamento.
+Tendo isso em vista, inegável a toda prova que
+resta caracterizada uma das hipóteses do art. 427 do
+Código de Processo Penal, qual seja, a ameaça à
+imparcialidade do corpo de jurados, autorizando o
+desaforamento do julgamento. Ademais, sublinhe-se
+que, de acordo com o posicionamento do Superior
+Tribunal de Justiça, a opinião do magistrado singular
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código E604-69C0-253E-7545 e senha 11D0-404C-F4D5-C3BC
+
+Supremo Tribunal Federal
+Voto - MIN. CRISTIANO ZANIN
+
+Inteiro Teor do Acórdão - Página 10 de 16
+
+HC 264745 AGR / AL
+possui relevante papel, já que se encontra mais próximo
+aos fatos, bem como da população da cidade que poderia
+vir a fazer parte do Conselho de Sentença, o que justifica
+o requerimento do desaforamento por aquele Juízo. (STJ
+– HC: 214914 SP 2011/0181209-5, Relator: Ministra
+MARILZA
+MAYNARD
+(DESEMBARGADORA
+CONVOCADA DO TJ/SE); Data de Julgamento:
+09/04/2013, T5 – QUINTA TURMA; Data de Publicação:
+DJe 15/04/2013). Com efeito, permitir que o julgamento
+seja realizado por Órgão jurisdicional sobre o qual
+existem dúvidas quanto à imparcialidade, colocaria em
+xeque a segurança e a soberania do corpo de jurados. Por
+fim, esclareça-se que, embora não figure como requerente,
+o corréu Adailton Ferreira encontra-se em idêntica
+situação, de modo que, acaso seja mantido o seu
+julgamento perante o Juízo de Anadia, há riscos concretos
+de comprometimento da imparcialidade dos jurados, o
+que culminaria na posterior nulidade do julgamento.
+Ademais, consoante informado pela magistrada a quo,
+com exceção do réu Claudio Magalhães da Silva, todos
+réus foram pronunciados, já havendo, inclusive, o
+desaforamento em relação a Alessander Ferreira Leal,
+Tiago dos Santos Campos, Ewerton Santos Almeida e
+Sânia Tereza Palmeira, restando ainda a decisão de
+desaforamento em relação aos réus Adailton Ferreira
+(vulgo Dal) e Wallemberg Wanderson Torres da Silva. A
+par disso, tratando-se de situações muito semelhantes,
+devem ser desaforados ambos os julgamentos dos
+acusados Wallemberg Wanderson Torres da Silva, ora
+requerente, e Adailton Ferreira. Assim, por se tratar de
+pedido formulado pelo acusado, corroborado pela
+magistrada da causa, havendo parecer favorável da
+Procuradoria Geral de Justiça, convenço-me de que o
+julgamento em questão deve ser realizado em uma das
+Varas da Comarca da Capital, afastando, assim, a possível
+
+6
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código E604-69C0-253E-7545 e senha 11D0-404C-F4D5-C3BC
+
+Supremo Tribunal Federal
+Voto - MIN. CRISTIANO ZANIN
+
+Inteiro Teor do Acórdão - Página 11 de 16
+
+HC 264745 AGR / AL
+influência de terceiros. Diante do exposto, conheço do
+presente incidente e defiro o pedido de desaforamento do
+julgamento do requerente Wallemberg Wanderson Torres
+da Silva e do corréu de Adailton Ferreira, devendo ocorrer
+em uma das Varas da Comarca da Capital”. (fls. 21/25).
+Sobre o tema, “a jurisprudência desta Corte Superior
+firmou-se no sentido de que o desaforamento do processo,
+com sua transferência para a Comarca da Capital, não afronta
+o art. 427 do CPP, tendo em vista que a escolha da nova
+localidade deve ser feita levando-se em conta o caso concreto,
+não havendo obrigatoriedade de se remeter o feito à Comarca
+mais próxima” (HC n. 307.963/PI, relator Ministro Antonio
+Saldanha Palheiro, Sexta Turma, julgado em 27/6/2017, DJe de
+1/8/2017). Ademais, o Tribunal de Justiça concluiu que o
+julgamento do paciente na Comarca da Capital garantirá
+segurança das partes e imparcialidade dos jurados,
+considerando a periculosidade do acusado e por tratar-se de
+crime político. A mudança desse entendimento demanda o
+exame aprofundado de provas, procedimento vedado na via
+célere do habeas corpus. No mesmo sentido: [...].
+Dessa forma, inexiste flagrante constrangimento ilegal a
+autorizar a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 34, XX, do
+Regimento Interno do Superior Tribunal de Justiça, não
+conheço do habeas corpus (doc. 4 – grifei).
+
+Neste writ, o impetrante requereu o seguinte:
+I – Pedido de Informações: Solicita-se que sejam,
+imediatamente, requisitadas informações da Autoridade
+indicada como Coatora: Ministro Relator Dr. Joel Ilan Paciornik,
+do STJ;
+
+7
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código E604-69C0-253E-7545 e senha 11D0-404C-F4D5-C3BC
+
+Supremo Tribunal Federal
+Voto - MIN. CRISTIANO ZANIN
+
+Inteiro Teor do Acórdão - Página 12 de 16
+
+HC 264745 AGR / AL
+II – A concessão de suspensão imediata do Júri Popular
+até o julgamento do mérito do presente Habeas Corpus. Dandose EFEITO SUSPENSIVO.
+III – Seja concedida a ordem de Habeas Corpus, com a
+revogação da Prisão Preventiva do paciente: Wallemberg
+Wanderson Torres Silva, ante aos argumentos esposados linhas
+volvidas, notadamente face o excesso de prazo na referida
+prisão, configurado pela ausência da revisão periódica da
+referida
+prisão,
+sendo
+aplicado
+o
+princípio
+da
+contemporaneidade, em favor do paciente.
+IV – A concessão do presente WRIT com o afastamento da
+Capital das Alagoas (Maceió) como local escolhida para a
+realização do Júri Popular do paciente, assim, sendo
+determinado nova escolha de uma das Comarcas próximo do
+Distrito da Culpa, desde que haja um. Conselho de Sentença e
+um MM. Juiz de direito imparciais, nos termos do art. 427 do
+CPP c/c art. 5º, incisos LIII (juiz natural); LIV (devido processo
+legal); todos da CF/1988 e ainda, com fundamento jurídico no
+art. 8º (Pacto de São José da Costa Rica) e art. 14 (Pacto
+Internacional sobre Direitos Civis e Políticos).
+V – Assim, seja assegurado ao paciente o direito
+constitucional à um julgamento por um Júri Popular imparcial
+(doc. 1, pp. 26-27 – grifei).
+
+Pois bem. O art. 102, I, i, da Constituição Federal estabelece que a
+competência do Supremo Tribunal Federal para processar e julgar
+originariamente a ação constitucional do habeas corpus será inaugurada
+quando o coator for Tribunal Superior ou quando o coator ou o paciente
+for autoridade ou funcionário cujos atos estejam sujeitos diretamente à
+jurisdição desta Suprema Corte, ou se trate de crime sujeito à mesma
+jurisdição em uma única instância.
+
+8
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código E604-69C0-253E-7545 e senha 11D0-404C-F4D5-C3BC
+
+Supremo Tribunal Federal
+Voto - MIN. CRISTIANO ZANIN
+
+Inteiro Teor do Acórdão - Página 13 de 16
+
+HC 264745 AGR / AL
+Com efeito, este habeas corpus foi impetrado contra decisão
+monocrática de Ministro do Superior Tribunal de Justiça que não
+conheceu do HC 981.844/AL (doc. 4). Assim, no caso, a ausência da
+análise dos fundamentos constantes do ato coator por colegiado
+daquele Superior Tribunal impede o prosseguimento do writ por
+supressão de instância.
+Nessa mesma direção:
+Ementa AGRAVO REGIMENTAL. HABEAS CORPUS
+IMPETRADO CONTRA DECISÃO MONOCRÁTICA DE
+MINISTRO DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+SUPRESSÃO
+DE
+INSTÂNCIA.
+AUSÊNCIA
+DE
+FLAGRANTE ILEGALIDADE OU ABUSO DE PODER
+APTOS A PERMITIR A SUPERAÇÃO DESSE ÓBICE.
+AGRAVO AO QUAL SE NEGA PROVIMENTO. I. Caso em
+exame 1. Nulidades processuais. II. Questão em discussão 2.
+Pretendida anulação da ação penal. III. Razões de decidir 3. O
+art. 102, I, i, da Constituição Federal prescreve que a
+competência do Supremo Tribunal Federal para processar e
+julgar originariamente a ação constitucional do habeas corpus
+será inaugurada quando o coator for Tribunal Superior ou
+quando o coator ou o paciente for autoridade ou funcionário
+cujos atos estejam sujeitos diretamente à jurisdição do
+Supremo Tribunal Federal, ou se trate de crime sujeito à
+mesma jurisdição em uma única instância. No caso, este
+habeas corpus foi impetrado contra decisão monocrática de
+Ministro do Superior Tribunal de Justiça. 4. Ausentes
+ilegalidade flagrante ou abuso de poder aptos a permitir a
+superação do óbice acima indicado. IV. Dispositivo 5. Agravo
+regimental ao qual se nega provimento (HC 246.735 AgR/SP, da
+minha relatoria, Primeira Turma, DJe 30/10/2024 – grifei)
+
+9
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código E604-69C0-253E-7545 e senha 11D0-404C-F4D5-C3BC
+
+Supremo Tribunal Federal
+Voto - MIN. CRISTIANO ZANIN
+
+Inteiro Teor do Acórdão - Página 14 de 16
+
+HC 264745 AGR / AL
+Ementa AGRAVO REGIMENTAL EM HABEAS CORPUS.
+IMPETRAÇÃO
+VOLTADA
+CONTRA
+DECISÃO
+MONOCRÁTICA
+DE
+MINISTRO
+DE
+TRIBUNAL
+SUPERIOR. IMPOSSIBILIDADE DE SUPRESSÃO DE
+INSTÂNCIA.
+INEXISTÊNCIA
+DE
+ILEGALIDADE.
+PRECEDENTES. 1. Incidência de óbice ao conhecimento da
+ordem impetrada neste SUPREMO TRIBUNAL FEDERAL,
+uma vez que se impugna decisão monocrática de Ministro do
+Superior Tribunal de Justiça (HC 219.841-AgR, Rel. Min.
+ALEXANDRE DE MORAES, Primeira Turma, DJe de 6/10/2022;
+HC 219.672-AgR, Rel. Min. RICARDO LEWANDOWSKI,
+Segunda Turma, DJe de 6/10/2022; HC 216.953-AgR, Rel. Min.
+DIAS TOFFOLI, Primeira Turma, DJe de 29/9/2022; HC 217.751AgR, Rel. Min. CÁRMEN LÚCIA, Primeira Turma, DJe de
+27/9/2022; HC 208.035-AgR, Rel. Min. EDSON FACHIN,
+Segunda Turma, DJe de 21/9/2022; RHC 213.550-AgR, Rel. Min.
+ANDRÉ MENDONÇA, Segunda Turma, DJe de 1º/9/2022; HC
+216.979-AgR, Rel. Min. GILMAR MENDES, Segunda Turma,
+DJe de 25/8/2022; HC 216.955-AgR, Rel. Min. ROSA WEBER,
+Primeira Turma, DJe de 25/8/2022; HC 217.067-AgR, Rel. Min.
+ALEXANDRE DE MORAES, Primeira Turma, DJe de 24/8/2022;
+RHC 214.783-AgR, Rel. Min. NUNES MARQUES, Segunda
+Turma, DJe de 4/8/2022). 2. O exaurimento da instância
+recorrida é, como regra, pressuposto para ensejar a
+competência do SUPREMO TRIBUNAL FEDERAL, conforme
+vem sendo reiteradamente proclamado por esta CORTE (HC
+211.364-AgR, Rel. Min. EDSON FACHIN, Segunda Turma, DJe
+de 24/8/2022; HC 172.384, Rel. Min. MARCO AURÉLIO, Rel. p/
+Acórdão Min. ALEXANDRE DE MORAES, Primeira Turma,
+DJe de 10/2/2021; HC 180.895-AgR, Rel. Min. ROBERTO
+BARROSO, Primeira Turma, DJe de 18/6/2020; HC 262.350, Rel.
+p/ Acórdão: Min. ROSA WEBER, Primeira Turma, DJe de
+30/8/2019). 3. Inexistência de teratologia ou caso excepcional
+caracterizadores de flagrante constrangimento ilegal. 4.
+Agravo Regimental a que se nega provimento (HC 228.736
+
+10
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código E604-69C0-253E-7545 e senha 11D0-404C-F4D5-C3BC
+
+Supremo Tribunal Federal
+Voto - MIN. CRISTIANO ZANIN
+
+Inteiro Teor do Acórdão - Página 15 de 16
+
+HC 264745 AGR / AL
+AgR/BA, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe
+de 27/6/2023 – grifei).
+
+Para além disso, registro que não verifiquei, nos autos, nenhuma
+ilegalidade flagrante ou abuso de poder aptos a permitir a superação do
+óbice acima indicado.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+
+11
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código E604-69C0-253E-7545 e senha 11D0-404C-F4D5-C3BC
+
+Supremo Tribunal Federal
+Extrato de Ata - 09/12/2025
+
+Inteiro Teor do Acórdão - Página 16 de 16
+
+PRIMEIRA TURMA
+
+EXTRATO DE ATA
+
+AG.REG. NO HABEAS CORPUS 264.745 ALAGOAS
+PROCED. : ALAGOAS/AL
+RELATOR(A): MIN. CRISTIANO ZANIN
+AGTE.(S): WALLEMBERG WANDERSON TORRES SILVA
+ADV.(A/S): WELHINGTON WANDERLEY DA SILVA (3967/AL)
+AGDO.(A/S): RELATOR DO HC N° 981.844 DO SUPERIOR TRIBUNAL DE
+JUSTIÇA
+Decisão: A Turma, por unanimidade, negou provimento ao agravo
+regimental, nos termos do voto do Relator, Ministro Cristiano Zanin.
+Primeira Turma, Sessão Virtual de 28.11.2025 a 5.12.2025.
+Composição: Ministros Flávio Dino (Presidente), Cármen Lúcia,
+Alexandre de Moraes e Cristiano Zanin.
+Cintia da Silva Gonçalves
+Secretária da Primeira Turma
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código DEE0-718F-F4ED-ACCF e senha 3878-2FB9-E256-03FB
