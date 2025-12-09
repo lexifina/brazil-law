@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 03/12/2025 a 09/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Paulo Sérgio Domingues, Benedito Gonçalves, Sérgio Kukina e Regina Helena Costa votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL E AMBIENTAL. AÇÃO CIVIL PÚBLICA. ALEGAÇÃO DE OMISSÃO. FALTA DE INDICAÇÃO PRECISA DOS PONTOS NÃO ENFRENTADOS. PREQUESTIONAMENTO. AUSÊNCIA. FUNDAMENTAÇÃO RECURSAL DEFICIÊNCIA. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE.
+1. A alegação de violação ao art. 1.022 do CPC exige indicação clara e precisa dos pontos efetivamente omitidos pelo acórdão impugnado, com demonstração objetiva da repercussão jurídica que justifique seu enfrentamento, sendo certo que a ausência dessa demonstração atrai a incidência da Súmula 284 do STF.
+2. Os dispositivos legais indicados como violados (arts. 3º, §§ 2º e 3º; 5º; 139, V; 499 e 505, I, do CPC) não foram objeto de manifestação pelo Tribunal de origem, o que configura ausência de prequestionamento e impede o conhecimento do recurso.
+3. A pretensão deduzida no recurso especial  substituir a obrigação de demolir por medidas compensatórias mediante TAC  esbarra necessariamente na análise do contexto fático-probatório dos autos, notadamente quanto à viabilidade técnica e ambiental da substituição pretendida e às circunstâncias concretas que envolveriam a celebração do ajuste.
+4. Hipótese em que rever tais elementos demandaria reexame de provas, providência vedada em sede de recurso especial pela Súmula 7 do STJ.
+5. Agravo interno não provido.
+RELATÓRIO
+Haroldo de Almeida Rego Filho interpõe agravo interno contra decisão monocrática que não conheceu do recurso especial por ele interposto.
+Os argumentos do agravante são os seguintes:
+a) Quanto à alegada violação do art. 1.022 do CPC: sustenta que indicou de forma específica os pontos omitidos (arts. 3º, §§ 2º e 3º; 5º e 139, V, do CPC), com demonstração da repercussão jurídica. Argumenta que o Tribunal deveria avaliar se a demolição seria mais onerosa ao meio ambiente, configurando omissão concreta que afasta a Súmula 284 do STF.
+b) Quanto ao prequestionamento, alega que houve prequestionamento implícito, pois o Tribunal analisou a possibilidade de substituição da obrigação de fazer por medidas compensatórias, tema que envolve necessariamente os dispositivos invocados. Defende o afastamento das Súmulas 282 do STF e 211 do STJ.
+c) Quanto à fundamentação recursal: defende que o recurso especial demonstrou claramente a contrariedade à legislação federal, relacionando-a aos fundamentos do acórdão recorrido, o que afasta a Súmula 284 do STF.
+d) Quanto à Súmula 7 do STJ: sustenta que não pretende reexaminar provas, mas interpretar o alcance do título executivo e verificar a possibilidade jurídica de cumprimento por TAC, questão de direito que não demanda revolvimento fático-probatório.
+EMENTA
+PROCESSUAL CIVIL E AMBIENTAL. AÇÃO CIVIL PÚBLICA. ALEGAÇÃO DE OMISSÃO. FALTA DE INDICAÇÃO PRECISA DOS PONTOS NÃO ENFRENTADOS. PREQUESTIONAMENTO. AUSÊNCIA. FUNDAMENTAÇÃO RECURSAL DEFICIÊNCIA. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE.
+1. A alegação de violação ao art. 1.022 do CPC exige indicação clara e precisa dos pontos efetivamente omitidos pelo acórdão impugnado, com demonstração objetiva da repercussão jurídica que justifique seu enfrentamento, sendo certo que a ausência dessa demonstração atrai a incidência da Súmula 284 do STF.
+2. Os dispositivos legais indicados como violados (arts. 3º, §§ 2º e 3º; 5º; 139, V; 499 e 505, I, do CPC) não foram objeto de manifestação pelo Tribunal de origem, o que configura ausência de prequestionamento e impede o conhecimento do recurso.
+3. A pretensão deduzida no recurso especial  substituir a obrigação de demolir por medidas compensatórias mediante TAC  esbarra necessariamente na análise do contexto fático-probatório dos autos, notadamente quanto à viabilidade técnica e ambiental da substituição pretendida e às circunstâncias concretas que envolveriam a celebração do ajuste.
+4. Hipótese em que rever tais elementos demandaria reexame de provas, providência vedada em sede de recurso especial pela Súmula 7 do STJ.
+5. Agravo interno não provido.
+VOTO
+Adianto que o recurso não será provido.
+Quanto à alegada violação do art. 1.022 do CPC, a jurisprudência consolidada deste Tribunal exige indicação precisa dos vícios do acórdão impugnado, com demonstração objetiva dos pontos específicos não analisados e da relevância jurídica da omissão.
+No caso, o recurso especial limitou-se a afirmar genericamente que o Tribunal de origem não se manifestou sobre os dispositivos do CPC relativos à cooperação processual e autocomposição, sem demonstrar com precisão quais aspectos da controvérsia deixaram de ser apreciados e a relevância para a solução da lide, atraindo a Súmula 284 do STF.
+No tocante ao prequestionamento, embora este Tribunal admita o prequestionamento implícito, é necessário que o conteúdo normativo dos dispositivos invocados tenha sido efetivamente debatido e decidido pelo Tribunal de origem.
+No caso, o acórdão recorrido não examinou, nem implicitamente, o dever de promoção de soluções consensuais, a norma de cooperação, os poderes do juiz para autocomposição, a conversão da obrigação em perdas e danos ou a relativização da coisa julgada. Limitou-se a afirmar que o título transitado em julgado determinou a demolição e deve ser cumprido integralmente, sem enfrentar os fundamentos normativos específicos que, segundo o recorrente, autorizariam a modificação.
+Para que se tenha prequesitonamento, não basta que o Tribunal cite no relatório os dispositivos mencionados pela parte, mas que efetivamente tenha apresentando fundamentação sobre eles, o que não aconteceu.
+Quanto à fundamentação recursal, o recurso especial não demonstrou, de forma clara e objetiva, como o acórdão recorrido teria violado a legislação federal indicada. Não basta indicar os artigos supostamente contrariados  é necessário demonstrar, de forma específica, em que medida o acórdão deixou de aplicar a norma ou a aplicou incorretamente, explicitando o comando normativo e confrontando-o com os fundamentos do julgado.
+O recurso especial mencionou os dispositivos do CPC de forma genérica, sem estabelecer o nexo entre o comando normativo de cada dispositivo e os fundamentos do acórdão recorrido, dedicando-se preponderantemente a reafirmar a conveniência da celebração de TAC. A mera citação de dispositivos legais, sem articulação precisa entre a norma e os fundamentos do julgado, não permite identificar se os artigos foram invocados como núcleo do recurso ou utilizados apenas a título argumentativo, caracterizando deficiência que atrai a Súmula 284/STF.
+Por fim, a pretensão deduzida no recurso especial  substituir a obrigação de demolir por medidas compensatórias mediante TAC  pressupõe o reexame de elementos fáticos, tais como a viabilidade técnica e ambiental da substituição, o impacto da demolição, a adequação das medidas compensatórias, a anuência dos órgãos ambientais e a concordância das partes.
+O Tribunal de origem fundamentou sua decisão em elementos fáticos dos autos, especialmente a ausência de concordância do MPF e do IBAMA, o reconhecimento do dano ambiental em decisão transitada em julgado e a impossibilidade de revisar a caracterização do dano em fase de cumprimento de sentença. Rever essas conclusões exigiria reexame do contexto fático-probatório, o que é vedado pela Súmula 7 do STJ.
+Deixo de aplicar a sanção prevista no art. 1.021, § 4º, do CPC/2015 por não considerar manifestamente inadmissível ou improcedente o presente recurso.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
