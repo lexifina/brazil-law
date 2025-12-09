@@ -1,0 +1,62 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por AMPHENOL TFC DO BRASIL LTDA contra decisão que inadmitiu recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional..
+Agravo em recurso especial interposto em: 2/7/2025.
+Concluso ao gabinete em: 24/9/2025.
+Ação: declaratória c/c cancelamento de protesto e compensação por danos morais, ajuizada por FIGUEIREDO PROVEDORES LTDA em face da agravante, em virtude de suposta ausência de negócio jurídico firmado entre as partes e decorrente inexistência de débito.
+Sentença: julgou procedentes os pedidos, para: i) declarar a inexistência do débito; ii) condenar a requerida ao pagamento de R$ 5.000,00 (cinco mil reais), a título de compensação por danos morais; iii) confirmar a liminar de sustação dos protestos.
+Acórdão: deu parcial provimento ao recurso de apelação interposto pela agravante, nos termos da seguinte ementa:
+DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO E RELAÇÃO JURÍDICA C/C CANCELAMENTO DE PROTESTO E INDENIZAÇÃO POR DANO MORAL. Sentença de procedência. Recurso da ré. Fraudador que forneceu dados da autora para realizar compra. Pagamento não efetuado. Protesto contra a autora. Sentença declaratória negativa. Contudo, a condenação por danos morais não prospera. Cuida-se de fraude cometida por terceiro. Operação que se revestia de legalidade aparente. Obrigação de indenizar não configurada. Recurso parcialmente provido, para afastar a condenação por danos morais, redefinindo-se os encargos de sucumbência, proporcionalmente à derrota.
+(e-STJ fl. 686)
+Embargos de Declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 85, caput, § 2º, III e IV, § 11, 489, § 1º, VI, 927, IV, 1.013 e 1.022, parágrafo único, II, do CPC. Além da negativa de prestação jurisdicional, afirma que a majoração dos honorários em grau recursal é vedada quando há provimento, ainda que parcial, do apelo, em atenção ao Tema 1059/STJ. Aduz que houve indevida reformatio in pejus na modificação dos honorários devidos, apesar do êxito recursal parcial. Argumenta que os critérios legais para fixação dos honorários não foram observados, com percentual elevado sem demonstração de complexidade ou relevância. Assevera que a base de cálculo dos honorários do recorrido foi definida de modo incorreto, sem vinculação a condenação ou ao proveito econômico adequado.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal local, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca da possibilidade de redistribuição e fixação de honorários de sucumbência na espécie, sem que haja ofensa ao princípio da reformatio in pejus, de maneira que os embargos de declaração opostos pelo agravante, de fato, não comportavam acolhimento.
+A lastrear o exposto:
+(..) A sentença julgou procedentes os pedidos formulados na petição inicial, para declarar a inexistência do débito indicado na inicial, e por consequência, condenar a ré ao pagamento de R$ 5.000,00 a título de indenização por dano moral, acrescida de correção monetária, pela tabela do TJ/SP, e de juros moratórios legais, a partir da publicação da sentença. Em razão da sucumbência, a ré foi condenada ao pagamento das custas, despesas processuais e honorários advocatícios fixados em 15% sobre o valor da condenação.
+Encargos de sucumbência constituem questão de ordem pública, podendo o tribunal, em face de apelação, revisar o critério adotado pelo magistrado sentenciante, ainda que não haja impugnação específica, notadamente quando, acolhendo parcialmente apelação, com a reforma da sentença, de procedência para procedência parcial, tenha de redefinir tais encargos, diante, justamente, da procedência parcial da ação, nos termos do art. 86 c/c art. 85 §§ 2º e 6º do CPC.
+Ainda que, nesse caso, a situação do apelante piore, não se cogita da proibição de reforma para pior, atinente ao mérito da causa.
+Sendo assim, o acórdão não incorreu em obscuridade/omissão ao distribuir os encargos de sucumbência da seguinte forma: 1. Cada parte pagará 50% das custas e despesas processuais. 2. A autora pagará honorários advocatícios de 20% sobre o valor da indenização por dano moral afastada (R$ 5.000,00), observada a gratuidade; serão corrigidos pelo IPCA, desde a publicação da sentença, até o trânsito em julgado, aplicando-se a Selic cheia, a partir do trânsito em julgado. 3. O réu pagará honorários fixados em 20% sobre o valor declarado inexigível.
+(..) (e-STJ Fl. 725, grifos nossos)
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da violação do art. 489 do CPC
+Do exame do acórdão recorrido, constata-se que as questões de mérito foram devidamente analisadas e discutidas, de modo que a prestação jurisdicional foi esgotada.
+É importante salientar que a ausência de manifestação a respeito de determinado ponto não deve ser confundida com a adoção de razões contrárias aos interesses da parte. Logo, não há contrariedade ao art. 489 do CPC, pois o Tribunal de origem decidiu de modo claro e fundamentado.
+No mesmo sentido: AgInt nos EDcl no AREsp n. 1.547.208/SP, Terceira Turma, DJe 19/12/2019 e AgInt no AREsp n. 1.480.314/RJ, Quarta Turma, DJe 19/12/2019.
+- Da existência de fundamento não impugnado
+O agravante, nesse passo, não impugnou os fundamentos utilizados pelo TJ/SP, no que tange à sua insurgência quanto aos honorários, de que, nos termos dos arts. 86 c/c art. 85 §§ 2º e 6º do CPC, " (..) encargos de sucumbência constituem questão de ordem pública, podendo o tribunal, em face de apelação, revisar o critério adotado pelo magistrado sentenciante, (..) notadamente quando, acolhendo parcialmente apelação, com a reforma da sentença, de procedência para procedência parcial, tenha de redefinir tais encargos, diante, justamente, da procedência parcial da ação (..)" (e-STJ Fl. 725), razão pela qual deve ser mantido o acórdão recorrido. Aplica-se, na hipótese, a Súmula 283/STF.
+Nesse sentido: AgInt no REsp 2.072.391/SP, Quarta Turma, DJe de 25/4/2024; e AgInt no REsp n. 2.013.576/SP, Terceira Turma, DJe de 11/4/2024.
+- Da fundamentação deficiente
+Os argumentos invocados pela parte agravante não demonstram como o acórdão recorrido violou o art. 927, VI, do CPC, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF. Nesse sentido: AgInt no AREsp 1.947.682/SP, Terceira Turma, DJe 20/12/2023; e AgInt no AREsp 2.138.858/SP, Quarta Turma, DJe 15/6/2023.
+- Do reexame de fatos e provas
+De toda sorte, alterar o decidido no acórdão recorrido acerca da distribuição e redimensionamento proporcional da sucumbência e dos critérios ao arbitramento de honorários sucumbenciais, demandaria o reexame de fatos e provas, o que não é permitido ante o óbice da Súmula 7 desta Corte.
+A corroborar:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE EXIGIR CONTAS. PRIMEIRA FASE. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. LIMITES DA LIDE. OBSERVÂNCIA. REFORMA EM PREJUÍZO. CONFIGURAÇÃO. AUSÊNCIA. CRITÉRIO. EQUIDADE. SUCUMBÊNCIA MÍNIMA. REVISÃO DE PROVAS. SÚMULA Nº 7/STJ.
+1. O Superior Tribunal de Justiça entende que os honorários advocatícios, como consectários legais da condenação, possuem natureza de ordem pública e podem ser revistos a qualquer momento e até mesmo de ofício, sem que isso configure reformatio in pejus ou julgamento extra petita. Precedentes.
+2. A fixação da verba honorária na primeira fase da ação de exigir contas deve ser realizada com base na equidade, considerando a extensão do provimento judicial, em que não há condenação, sem correspondência com o valor da causa e com proveito econômico inestimável. Precedentes. Na hipótese, a Corte local fixou a verba honorária com base no valor da causa.
+3. A jurisprudência desta Corte é firme no sentido de que não é possível a apreciação do quantitativo em que as partes saíram vencedoras ou vencidas na demanda, bem como da existência de sucumbência mínima ou recíproca, por implicar incursão no suporte fático da demanda, esbarrando no óbice da Súmula 7/STJ.
+4. Recurso especial conhecido em parte e, nessa extensão, parcialmente provido. (REsp n. 2.066.201/SP, Terceira Turma, julgado em 13/10/2025, DJEN de 17/10/2025, grifo nosso.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE RÉ.
+1. Consoante a jurisprudência desta Corte, a sucumbência é atribuída à luz do princípio da causalidade, o qual impõe a quem deu causa à propositura da ação o dever de arcar com os honorários advocatícios, mesmo ocorrendo a superveniente perda do objeto. Precedentes.
+2. Rever as conclusões alcançadas pelas instâncias originárias quanto ao princípio da causalidade e à distribuição dos ônus da sucumbenciais, exigiria reexame das provas contidas nos autos. Incidência da Súmula 7/STJ.
+3. Agravo interno desprovido. (AgInt no AREsp n. 2.356.698/MG, Quarta Turma, julgado em 29/4/2024, DJe de 2/5/2024, grifo nosso.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. HONORÁRIOS ADVOCATÍCIOS. ART. 85, §§ 2º E 8º, DO CPC. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. A Segunda Seção do Superior Tribunal de Justiça, no julgamento do Recurso Especial nº 1.746.072/PR, decidiu que o § 2º do art. 85 do CPC constitui a regra geral no sentido de que os honorários sucumbenciais devem ser fixados no patamar de 10% (dez por cento) a 20% (vinte por cento) sobre o valor da condenação, do proveito econômico obtido ou do valor atualizado da causa.
+2. O § 8º do art. 85 do CPC é norma de caráter excepcional, de aplicação subsidiária, para as hipóteses em que o proveito econômico for inestimável ou irrisório ou, ainda, quando o valor da causa for muito baixo, permitindo, assim, que a verba honorária seja arbitrada por equidade.
+3. Esta Corte Superior tem afastado a incidência da Súmula nº 7/STJ para reexaminar o montante estabelecido pelas instâncias ordinárias a título de honorários advocatícios quando verificado que o julgador se distanciou dos critérios estabelecidos na lei. Não é o caso dos autos.
+4. Agravo interno não provido. (AgInt no REsp n. 2.117.089/SP, Terceira Turma, julgado em 9/6/2025, DJEN de 12/6/2025.)
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários fixados anteriormente, porquanto já atingido o limite previsto no art. 85, § 2º, do CPC.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA C/C CANCELAMENTO DE PROTESTO E COMPENSAÇÃO POR DANOS MORAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. FUNDAMENTAÇÃO. DEFICIENTE. SÚMULA 284/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação declaratória c/c cancelamento de protesto e compensação por danos morais.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+5. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+6. O reexame de fatos e provas em recurso especial é inadmissível.
+7. Agravo conhecido. Recurso especial parcialmente conhecido, e nessa extensão, não provido.
