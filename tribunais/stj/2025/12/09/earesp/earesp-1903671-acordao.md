@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em Sessão Virtual de 03/12/2025 a 09/12/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva, Sebastião Reis Júnior, Francisco Falcão, João Otávio de Noronha, Humberto Martins, Maria Thereza de Assis Moura, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Presidente do STJ.
+Não participou do julgamento a Sra. Ministra Nancy Andrighi.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA NO AGRAVO NO RECURSO ESPECIAL. AUSÊNCIA DE SIMILITUDE ENTRE OS ACÓRDÃOS CONFRONTADOS. NÃO CONFIGURAÇÃO DA DIVERGÊNCIA JURISPRUDENCIAL. RECURSO NÃO CONHECIDO.
+1. Não fica caracterizado o dissídio jurisprudencial, apto a ensejar o cabimento dos embargos de divergência, quando os acórdãos embargado e paradigmas não possuírem entre si similitude fático-jurídica.
+2. Embargos de divergência não conhecidos.
+RELATÓRIO
+Trata-se de embargos de divergência opostos contra acórdão, proferido pela colenda SEGUNDA TURMA, Rel. Min. AFRÂNIO VILELA, assim ementado:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. PEDIDO DE RECONSIDERAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PEDIDO DE RECONSIDERAÇÃO INTERPOSTO CONTRA ACÓRDÃO. AUSÊNCIA DE PREVISÃO LEGAL E REGIMENTAL. PEDIDO DE RECONSIDERAÇÃO NÃO CONHECIDO.
+1. De acordo com o entendimento jurisprudencial desta Corte, "revela-se manifestamente incabível a interposição de pedido de reconsideração contra decisão colegiada, ante a ausência de previsão legal e regimental" (RCD no AgInt nos EAREsp n. 2.045.308/SP, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 8/8/2023, DJe de 10/8/2023).
+2. Pedido de reconsideração não conhecido.
+Em suas razões, o ora embargante alega que o referido aresto divergiu dos seguintes julgados desta Corte Superior: PET no AgInt no Agravo em Recurso Especial 1.293.428/PE, Rel. Ministro Marco Buzzi, QUARTA TURMA; PET no Agravo em Recurso Especial 2.751.436/CE, Rel. Ministro Humberto Martins, TERCEIRA TURMA; EDcl no Agravo em Recurso Especial 2.491.055/SP, Rel. Ministro Gurgel de Faria, PRIMEIRA TURMA; PET no Agravo em Recurso Especial 1.444.765/SP, Rel. Ministro Luís Felipe Salomão, QUARTA TURMA; PET nos EDcl no AgRg no Agravo em Recurso Especial 2.347.234/RJ, Rel. Ministro Og Fernandes, SEXTA TURMA; PET no Recurso Especial 2.089.195/SC, Rel. Ministra Regina Helena Costa, PRIMEIRA TURMA; PET no Agravo em Recurso Especial 1.552.712/RS, Rel. Ministro Herman Benjamin, SEGUNDA TURMA.
+Argumenta, para tanto, que os paradigmas apresentados demonstram a possibilidade de recebimento da petição como embargos de declaração, consagrando os princípios da fungibilidade recursal, da instrumentalidade das formas, da celeridade e da economia processual. Desse modo, é devido o conhecimento e provimento dos embargos de divergência, com a devolução dos autos à Segunda Turma para novo julgamento do recurso.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA NO AGRAVO NO RECURSO ESPECIAL. AUSÊNCIA DE SIMILITUDE ENTRE OS ACÓRDÃOS CONFRONTADOS. NÃO CONFIGURAÇÃO DA DIVERGÊNCIA JURISPRUDENCIAL. RECURSO NÃO CONHECIDO.
+1. Não fica caracterizado o dissídio jurisprudencial, apto a ensejar o cabimento dos embargos de divergência, quando os acórdãos embargado e paradigmas não possuírem entre si similitude fático-jurídica.
+2. Embargos de divergência não conhecidos.
+VOTO
+Os arestos apontados como paradigmas não encerram hipótese semelhante à dos presentes autos.
+No acórdão ora embargado, a colenda Segunda Turma não conheceu do pedido de reconsideração, sob o argumento de sua inviabilidade para impugnar decisão colegiada.
+Por sua vez, em cada um dos acórdãos paradigmas, houve a análise das peculiaridades dos casos concretos, cotejando-se o conteúdo das petições apresentadas e a possibilidade de recebimento como embargos de declaração quando indicada ao menos alguma das hipóteses previstas no art. 1.022 do Código de Processo Civil.
+Na hipótese em apreço, na petição questionada, o pleito do ora recorrente era no sentido de que fosse reconhecida a relação do caso concreto com o Tema Repetitivo 1.124/STJ, com a consequente determinação de sobrestamento do feito, nos termos do artigo 1.037, II, do CPC (fls. 717/720). Não havia nada que indicasse a ocorrência de qualquer um dos vícios tratados no referido art. 1.022 do CPC.
+Como se vê, as questões jurídicas trazidas nos acórdãos embargado e paradigmas são diversas, não havendo o indispensável dissenso a respeito da solução da questão processual controvertida. Assim, os paradigmas apresentados não são passíveis de caracterizar a divergência jurisprudencial suscitada pela parte embargante.
+A jurisprudência deste Tribunal Superior já pacificou entendimento de que somente "são cabíveis os Embargos de Divergência quando os arestos trazidos à colação firmaram posição antagônica sobre os mesmos fatos e questões jurídicas deduzidos no acórdão embargado. Ao contrário, devem ser indeferidos os embargos quando, considerando as peculiaridades de cada caso concreto, foram dadas soluções diferentes para as hipóteses confrontadas" (EREsp 443.095/SC, Segunda Seção, Rel. Min. CASTRO FILHO, DJ de 2/2/2004).
+Em reforço, confiram-se:
+PROCESSO CIVIL. DIREITO CIVIL. OBRIGAÇÕES. ESPÉCIES DE CONTRATOS. PREVIDÊNCIA PRIVADA. SIMILITUDE FÁTICA. IDENTIDADE ENTRE ACÓRDÃOS EM CONFRONTO. NÃO DEMONSTRADOS. INCIDÊNCIA DOS ARTS. 1.043 DO CPC/15 E 266 DO RISTJ. INCIDÊNCIA DO ART. 1.040 DO CPC/15. RESOLUÇÃO N.
+8/2008 DO STJ. RETORNO DO FEITO. SOBRESTAMENTO. DIVERGÊNCIA. AUSÊNCIA. SUSPENSÃO DOS AUTOS. IMPOSSIBILIDADE. DEVOLUÇÃO DOS AUTOS À ORIGEM. CONTROVÉRSIA. DIVERGÊNCIA NÃO EVIDENCIADA.
+I - Os embargos de divergência têm por finalidade uniformizar a jurisprudência do próprio Superior Tribunal de Justiça, quando se verificarem idênticas situações fáticas nos julgados, mas tenha se dado diferente interpretação na legislação aplicável ao caso, não se prestando para avaliar possível justiça ou injustiça do decisum ou corrigir regra técnica de conhecimento.
+II - Para a configuração do dissídio jurisprudencial, é imprescindível que se demonstrem a similitude fática e a identidade entre os acórdãos em confronto, nos termos dos arts. 1.043 do CPC/2015 e 266, § 4º, do RISTJ.
+III - Na hipótese, o acórdão embargado, com base nos termos do art. 1.040 do CPC/15 e invocando a Resolução n. 8/2008 do STJ, determinou o retorno do feito à origem em razão da controvérsia delineada nos autos estar sob análise de recurso sob o rito repetitivo - Tema 907.
+IV - O acórdão paradigma, a seu turno, cujo entendimento foi proferido em 2016, considerou que a " ..  devolução dos autos à Corte de origem é uma possível consequência da determinação de sobrestamento do recurso especial neste Superior Tribunal de Justiça  .. ".
+V - Não se verifica a divergência para os fins consignados pela embargante, com o intuito de driblar o sobrestamento do feito, objetivando o julgamento da matéria de mérito, cuja controvérsia encontra-se sob análise em feito de âmbito repetitivo.
+VI - Veja-se que a real pretensão da embargante é que os autos não sejam suspensos, reformando-se o acórdão embargado para que prevaleça a atual jurisprudência desta Corte em relação ao tema de mérito, a despeito da existência do representativo da controvérsia ainda não julgado.
+VII - Ora, a única eventual controvérsia entre o acórdão embargado e o apontado como paradigma está no fato da devolução ou não dos autos à origem. Enquanto o primeiro decidiu pela devolução, o segundo considerou que apenas o sobrestamento do recurso especial no STJ seria suficiente, e que a devolução dos autos à origem seria " ..  uma possível consequência da determinação de sobrestamento do recurso especial  .. ".
+VIII - Não evidenciada a divergência apontada, a hipótese se amolda ao seguintes precedente: EREsp n. 1.415.390/CE, Rel. Ministro Benedito Gonçalves, Corte EspeciaL, julgado em 21/6/2017, DJe 29/6/2017.
+IX - Agravo interno improvido.
+(AgInt nos EREsp 1703788/SE, Rel. Ministro FRANCISCO FALCÃO, CORTE ESPECIAL, julgado em 20/03/2019, DJe 26/03/2019)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. REAJUSTE DE 28,86%. LIMITAÇÃO TEMPORAL. LEI 10.355/2001. POSSIBILIDADE DE ALEGAÇÃO EM SEDE DE EMBARGOS À EXECUÇÃO. AUSÊNCIA DE SIMILITUDE FÁTICO-JURÍDICA ENTRE OS JULGADOS CONFRONTADOS. NECESSIDADE. PRECEDENTES DA CORTE ESPECIAL DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não se conhece da divergência interna corpus quando os julgados confrontados não guardam similitude fático-jurídica, o que é indispensável para o seu exame, já que os embargos de divergência constituem recurso que tem por finalidade exclusiva a uniformização da jurisprudência interna, cabível nos casos em que, embora a situação fática dos julgados seja a mesma, há dissídio jurídico entre as Turmas que compõem o Superior Tribunal de Justiça acerca da interpretação de uma mesma norma federal, o que não ocorre no presente casu.
+2. Agravo regimental não provido.
+(AgRg nos EAREsp 242.938/RS, CORTE ESPECIAL, Rel. Min. MAURO CAMPBELL MARQUES, DJe de 29/9/2014)
+Diante do exposto, não se conhece dos embargos de divergência.
+É como voto.
