@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 03/12/2025 a 09/12/2025, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Ricardo Villas Bôas Cueva.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+Não participou do julgamento a Sra. Ministra Nancy Andrighi.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. INTEMPESTIVIDADE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VÍCIO EMBARGÁVEL. OMISSÃO. INEXISTÊNCIA. REPETIÇÃO DO INDÉBITO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 282/STF
+1. Não há falar em negativa de prestação jurisdicional se o Tribunal de origem motiva adequadamente sua decisão, ainda que de forma sucinta, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. A ausência de debate no acórdão recorrido quanto ao tema suscitado no recurso especial evidencia a falta do indispensável prequestionamento. Incidência, por analogia, do disposto na Súmula nº 282/STF.
+3. Agravo conhecido para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+RELATÓRIO
+Trata se de agravo interposto por GRUPO OK CONSTRUÇÕES E INCORPORAÇÕES LTDA. contra a decisão que inadmitiu o recurso especial.
+O apelo nobre, fundamentado na alínea "a" do permissivo constitucional, desafia acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+"AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. DECISÃO QUE REJEITA IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA POR INTEMPESTIVIDADE. RECURSO QUE ALEGA QUE OS TEMAS AVENTADOS NA IMPUGNAÇÃO CONSTITUEM MATÉRIA DE ORDEM PÚBLICA. SANÇÃO CIVIL DE QUE CUIDA O TESE 622 DA JURISPRUDENCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA QUE TEM CARÁTER PATRIMONIAL, DE INTERESSE DO DEVEDOR E NÃO CONSTITUI MATÉRIA DE ORDEM PÚBLICA. JUROS DE MORA E CORREÇÃO MONERÁRIA DO DÉBITO JUDICIAL QUE, POR OUTRO LADO, SÃO MATÉRIA DE ORDEM PÚBLICA. PRECLUSÃO QUE NÃO SE OPERA CA SO NÃO HAJA DECISÃO ANTERIOR QUE DETERMINE OS ÍNDICES A SEREM APLICADOS. ENTRADA EM VIGOR DA LEI 14.905/24, QUE ALTEROU O ARTIGO 406 DO CÓDIGO CIVIL. APLICAÇÃO DA TAXA SELIC, VEDADA SUA CUMULAÇÃO COM CORREÇÃO MONETÁRIA. RECURSO CONHECIDO E PROVIDO EM PARTE" (e-STJ fl. 40).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 60/61).
+No recurso especial (e-STJ fls. 65/73), a parte recorrente aponta a violação dos arts. 489, § 1º, inciso IV, e 1.022, I, do Código de Processo Civil e do art. 940 do Código Civil.
+Sustenta, em síntese: i) negativa de prestação jurisdicional; e ii) devida a repetição do indébito, na modalidade simples, independentemente da demonstração de má-fé do credor.
+A parte contrária não apresentou contrarrazões (e-STJ fl. 87).
+O recurso especial foi inadmitido na origem (e-STJ fls. 89/94), dando ensejo à interposição do presente agravo.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. INTEMPESTIVIDADE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VÍCIO EMBARGÁVEL. OMISSÃO. INEXISTÊNCIA. REPETIÇÃO DO INDÉBITO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 282/STF
+1. Não há falar em negativa de prestação jurisdicional se o Tribunal de origem motiva adequadamente sua decisão, ainda que de forma sucinta, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. A ausência de debate no acórdão recorrido quanto ao tema suscitado no recurso especial evidencia a falta do indispensável prequestionamento. Incidência, por analogia, do disposto na Súmula nº 282/STF.
+3. Agravo conhecido para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+VOTO
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece acolhida.
+No tocante à negativa de prestação jurisdicional, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+No caso, o Tribunal de Justiça manifestou-se expressamente quanto à não análise do art. 940 do Código Civil por ser intempestiva a impugnação, conforme se verifica do seguinte trecho do acórdão:
+"(..)
+Como houve interposição de recurso ao Superior Tribunal de Justiça, o acórdão só transitou em julgado em 20 de dezembro de 2016 (fls. 229 dos autos do agravo de instrumento n.º 0037447-95.2015.8.19.0000). O cumprimento de sentença foi deflagrado em fevereiro de 2017, tendo o ora agravante sido intimado, na forma do artigo 523 do Código de Processo Civil, em 1º de junho de 2017 (fls. 515). A ora agravante interpôs impugnação ao cumprimento de sentença em junho de 2017 (fls. 222/224), em que apontado excesso de execução em razão de equivocado termo inicial do cômputo dos juros de mora. Esta impugnação, tudo indica tempestiva, segundo o agravante, não foi julgada até a presente data. Esta relatora tampouco logrou localizar a decisão correspondente. Juntada aos autos em 19 de abril deste ano, a impugnação rejeitada pela decisão objeto do presente recurso é, por óbvio, manifestamente intempestiva, consoante o artigo 525, do Código Processual. Assim, o resultado não poderia ser outro senão sua rejeição.
+Diz o agravante, contudo, que naquela peça foram deduzidas matérias de ordem pública, ou seja, matérias que podem ser alegadas a qualquer tempo por meio de simples petição, perspectiva pela qual se passa a analisar os temas do presente recurso.
+A pretensão do agravante de pleitear do agravado a quantia equivalente ao que contabiliza como excesso de execução não é, a toda evidência, matéria de ordem pública que pode ser deduzida a qualquer tempo e sim questão patrimonial de seu interesse" (e-STJ fls. 43/44)
+Além disso, ao julgar os embargos de declaração, o Tribunal de origem esclareceu que:
+"(..)
+Inobstante o embargante alegar que a decisão foi omissa por nada deliberar acerca da incidência do art. 940 do CC, o recurso examinou as matérias de ordem pública ali versadas, uma vez que a impugnação havia sido rejeitada por sua manifesta intempestividade. O acordão explicitou, em seu teor, que a pretensão ao recebimento de quantia equivalente ao que o embargante contabilizou como excesso de execução não seria matéria de ordem pública que pudesse ser deduzida a qualquer tempo e sim questão patrimonial de seu interesse. Logo, como tratado no julgado, a sanção civil de que cuida a tese 622 da jurisprudência do Superior Tribunal de Justiça tem caráter patrimonial, de interesse do devedor e não constitui matéria de ordem pública" (e-STJ fl. 62).
+Assim, afastada a alegação posta, porquanto verificada a intempestividade da impugnação, o que, consequentemente, inviabiliza o conhecimento da matéria, não há falar em omissão quanto à incidência do art. 940 do Código Civil à hipótese.
+Não há falar, portanto, em existência de omissão apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+A esse respeito, os seguintes precedentes:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE CUSTEIO DE MEDICAMENTO (THIOTEPA). 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2. FUNDAMENTO SUFICIENTE NÃO ATACADO. SÚMULA 283/STF. 3. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. 4. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282/STF E 211/STJ. 5. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. O acórdão recorrido encontra-se em perfeita harmonia com a jurisprudência desta Corte no sentido de que, "embora se trate de fármaco importado ainda não registrado pela ANVISA, teve a sua importação excepcionalmente autorizada pela referida Agência Nacional, sendo, pois, de cobertura obrigatória pela operadora de plano de saúde" (REsp 1.923.107/SP, relatora ministra Nancy Andrighi, Terceira Turma, julgado em 10/8/2021, DJe 16/8/2021).
+3. Atentando-se aos argumentos trazidos pela recorrente e aos fundamentos adotados pela Corte estadual de que a ANVISA admite a importação do fármaco, verifica-se que estes não foram objeto de impugnação nas razões do recurso especial, e a subsistência de argumento que, por si só, mantém o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+4. A ausência de debate acerca do conteúdo normativo dos arts. 66 da Lei n. 6.360/1976 e 10, V, da Lei n. 6.437/1976, apesar da oposição de embargos de declaração, atrai os óbices das Súmulas 282/STF e 211/STJ.
+5. Agravo interno a que se nega provimento" (AgInt no AREsp 2.164.998/RJ, Relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023).
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE REGRESSO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DOS DEMANDADOS.
+1. Não há se falar em negativa de prestação jurisdicional, na medida em que o órgão julgador dirimiu todas as questões que lhe foram postas à apreciação, de forma clara e sem omissões, embora não tenha acolhido a pretensão da parte.
+2. Rever a conclusão do Tribunal de origem com relação à responsabilidade pelo ressarcimento dos valores pagos em reclamação trabalhista demandaria o reexame do conjunto fático-probatório dos autos e a interpretação de cláusulas contratuais, providencias que encontram óbice no disposto nas Súmulas 5 e 7 do STJ. Precedentes.
+3. Agravo interno desprovido" (AgInt nos EDcl no AREsp 2.135.800/SP, Relator Ministro MARCO BUZZI, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023).
+Ademais, tendo em vista o reconhecimento da intempestividade da impugnação apresentada, a controvérsia relativa à afronta ao art. 940 do Código Civil não foi objeto de debate pelas instâncias ordinárias, nem sequer de modo implícito.
+Por tal motivo, carece do indispensável prequestionamento, por se tratar de matéria não debatida na instância de origem, a impedir a análise por esta Corte Superior ante a incidência, por analogia, do óbice imposto pela Súmula nº 282/STF, sob pena de supressão de instância.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Na hipótese, não cabe a majoração dos honorários sucumbenciais prevista no art. 85, § 11, do Código de Processo Civil, pois o recurso tem origem em decisão interlocutória, sem a prévia fixação de honorários.
+É o voto.
