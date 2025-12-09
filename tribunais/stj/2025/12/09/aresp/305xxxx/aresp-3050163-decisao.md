@@ -1,0 +1,29 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por ELMA LIMA ARIMATEA contra decisão que inadmitiu recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 3/6/2025.
+Concluso ao gabinete em: 15/10/2025.
+Ação: de repetição de indébito c/c compensação por danos morais e indenização por danos materiais, ajuizada por ELMA LIMA ARIMATEA contra NORCON - SOCIEDADE NORDESTINA DE CONSTRUÇÕES LTDA e SPE CONDOMÍNIO VILA VERDE LTDA, na qual requer a declaração de nulidade da cláusula de prorrogação da entrega, a cobrança da cláusula penal, a devolução da comissão de corretagem e a compensação por danos morais e materiais.
+Sentença: julgou parcialmente procedentes os pedidos, para: i) condenar as requeridas ao pagamento da multa contratual prevista na cláusula 33, § 2º, no período de 28/1/2014 até a efetiva entrega do imóvel; ii) condenar ao pagamento de compensação por danos morais de R$ 8.000,00 (oito mil reais).
+Acórdão: negou provimento ao recurso de apelação interposto por ELMA LIMA ARIMATEA e deu parcial provimento ao recurso de apelação interposto por NORCON - SOCIEDADE NORDESTINA DE CONSTRUÇÕES LTDA e SPE CONDOMÍNIO VILA VERDE LTDA, nos termos da seguinte ementa:
+APELAÇÕES CÍVEIS - AÇÃO DE REPETIÇÃO DE INDÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS - CONTRATO DE COMPRA E VENDA DE IMÓVEL - ATRASO NA ENTREGA DO BEM - AGRAVO RETIDO SOBRE IMPOSSIBILIDADE DE ADOÇÃO DA MEDIDA PREVISTA NO ART. 355 DO NCPC, VIOLAÇÃO AOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA, POR NECESSIDADE DE PERÍCIA - IMPROVIDO - PRELIMINAR DE NULIDADE DE SENTENÇA - EXTRAPETITA - PARCELA DA SENTENÇA AFASTADA - PRESCRIÇÃO DO PEDIDO DE REPETIÇÃO DA COMISSÃO DE CORRETAGEM - PRAZO TRIENAL - MÉRITO - TEORIA DA IMPREVISÃO - AUSÊNCIA DE DEMONSTRAÇÃO DA EXCLUDENTE DE RESPONSABILIDADE - INADIMPLEMENTO CONTRATUAL - MORA - CLÁUSULA PENAL - PERDAS E DANOS - CUMULAÇÃO - POSSIBILIDADE - NATUREZAS DISTINTAS - PRAZO DE TOLERÂNCIA DE 180 DIAS LEGAL - DANOS EMERGENTES NÃO COMPROVADOS - ÔNUS DA AUTORA - AUSÊNCIA DE PROVA DAS DESPESAS DURANTE O ATRASO DA OBRA - DANO MORAL - SÚMULA 12 DESTE TRIBUNAL - NECESSIDADE DE ADEQUAÇÃO DO QUANTUM INDENIZATÓRIO - RECURSOS CONHECIDOS, APELO AUTORAL IMPROVIDO E RECURSO DA DEMANDADA PARCIALMENTE PROVIDO - DECISÃO UNÂNIME. (e-STJ fl. 444)
+Embargos de Declaração: opostos por ELMA LIMA ARIMATEA, NORCON SOCIEDADE NORDESTINA DE CONSTRUCOES S.A. EM RECUPERACAO JUDICIAL e SPE CONDOMÍNIO VILA VERDE LTDA, foram parcialmente acolhidos, sem modificação de resultado.
+Recurso especial: alega violação dos arts. 402 do CC, 322 do CPC, e 46 e 52 do CDC, bem como dissídio jurisprudencial. Afirma que há presunção de lucros cessantes pelo atraso na entrega do imóvel, dispensando prova específica. Aduz que não houve julgamento extra petita, pois o pedido deve ser interpretado pelo conjunto da postulação, admitindo a multa contratual da cláusula 33. Argumenta que se aplicam as normas de proteção do consumidor para coibir cláusulas abusivas e assegurar a boa-fé e a equidade contratual.
+RELATADO O PROCESSO, DECIDE-SE.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à agravante não ter comprovado os danos emergentes alegadamente sofridos (e-STJ fl. 449) exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos argumentos invocados pela parte agravante em seu recurso especial no que diz respeito aos lucros cessantes, o que inviabiliza o seu julgamento. Aplica-se, na hipótese, a Súmula 282/STF.
+- Da divergência jurisprudencial
+Conquanto não tenha apontado que a insurgência recursal também é veiculada pela alínea "c" do permissivo constitucional, verifica-se que a parte agravante alega dissídio jurisprudencial na petição do recurso especial (e-STJ Fl. 464), mas limitou-se a colacionar ementas de julgados que entendeu divergentes, sem demonstrar, de maneira analítica, a similitude fática entre os arestos, a reclamar unidade de julgamento.
+Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1029, § 1º, do CPC; e 255, § 1º, do RISTJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em mais 2 %, observada eventual concessão de gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPETIÇÃO DE INDÉBITO C/C COMPENSAÇÃO POR DANOS MORAIS E INDENIZAÇÃO POR DANOS MATERIAIS. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação de repetição de indébito c/c compensação por danos morais e indenização por danos materiais.
+2. Modificar a conclusão do Tribunal de origem no sentido de que  Entretanto, compulsando os autos, não constato qualquer elemento que demonstre a existência da excludente de responsabilidade apontada pela demandada.  (e-STJ fl. 447) implica reexame de fatos e provas.
+3. A ausência de decisão acerca dos argumentos invocados pela parte agravante em suas razões recursais impede o conhecimento do recurso especial.
+4. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+5. Agravo conhecido. Recurso especial não conhecido.
