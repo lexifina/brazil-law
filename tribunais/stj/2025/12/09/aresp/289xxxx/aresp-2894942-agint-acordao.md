@@ -1,0 +1,71 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 03/12/2025 a 09/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Paulo Sérgio Domingues, Benedito Gonçalves, Sérgio Kukina e Regina Helena Costa votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. JUÍZO DE PRELIBAÇÃO NEGATIVO. DECISÃO DO TRIBUNAL DE ORIGEM. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA.
+1. De acordo com o disposto no art. 253, parágrafo único, I, do RISTJ e no art. 932, III, do CPC, compete à parte agravante infirmar, especificamente, os fundamentos adotados pela Corte de origem para obstar o seguimento do recurso especial, mostrando-se inadmissível o agravo que não se insurge contra todos eles.
+2. Hipótese em que o recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, as razões que levaram à inadmissibilidade do apelo nobre.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto pela CERÂMICA ELIZABETH SUL LTDA. contra decisão do Presidente do STJ, proferida às e-STJ fls. 1.823/1.824, que não conheceu do agravo em recurso especial por ausência de impugnação específica dos fundamentos da decisão do Tribunal de origem.
+A agravante alega que, no caso em exame, "em que se discute o direito ao creditamento de PIS e COFINS sobre despesas financeiras no regime não cumulativo, é imperioso afastar a aplicação das Súmulas 83 e 182 do STJ, por razões jurídicas e fáticas bem delineadas" (e-STJ fl. 1.844).
+Segue sustentando que "o Agravo Interno interposto ataca pontualmente os fundamentos da decisão que inadmitiu o Recurso Especial, demonstrando que a matéria é controversa, relevante e passível de apreciação pelo STJ, sendo o recurso devidamente fundamentado com base nos requisitos legais (arts. 1.021 e 1.030 do CPC/2015), com demonstração clara da divergência jurisprudencial e da violação direta à legislação federal" (e-STJ fl. 1.845).
+Sem impugnação (certidão de e-STJ fl. 1.854).
+O Ministério Público Federal opina pelo desprovimento do agravo interno (e-STJ fls. 1.868/1.872).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. JUÍZO DE PRELIBAÇÃO NEGATIVO. DECISÃO DO TRIBUNAL DE ORIGEM. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA.
+1. De acordo com o disposto no art. 253, parágrafo único, I, do RISTJ e no art. 932, III, do CPC, compete à parte agravante infirmar, especificamente, os fundamentos adotados pela Corte de origem para obstar o seguimento do recurso especial, mostrando-se inadmissível o agravo que não se insurge contra todos eles.
+2. Hipótese em que o recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, as razões que levaram à inadmissibilidade do apelo nobre.
+3. Agravo interno desprovido.
+VOTO
+Tenho que o inconformismo sob exame não merece prosperar.
+Ainda que superada a decisão quanto ao cabimento de agravo interno, a parte agravante não trouxe argumento capaz de alterar o decisum atacado, proferido em sintonia com a jurisprudência deste Tribunal Superior, no sentido de que a parte deve infirmar, em específico, os fundamentos da decisão impugnada, mostrando-se inadmissível o agravo que não se insurge contra todos eles, nos termos do disposto no art. 253, parágrafo único, I, do RISTJ e no art. 932, III, do CPC.
+Conforme exposto na decisão ora agravada, no esteio do agravo em recurso especial, a agravante não infirmou, de forma clara e específica, os fundamentos relativos à incidência das Súmulas 7 e 83 do STJ. Insurgiu-se apenas quanto à incidência do segundo óbice de admissibilidade referido. No ponto, limitou-se a alegar, no que interessa (e-STJ fls. 1.805/1.806):
+Primeiramente, em que pese a decisão pela inadmissibilidade do Recurso Especial com fundamento na Súmula 83/STJ, necessário apurar a teleologia do enunciado, que aduz acerca da possibilidade de não se conhecer do Recurso Especial quando houver entendimento do Tribunal em idêntico sentido ao da decisão recorrida.
+ ..
+Logo, somente a Primeira Seção que poderá dirimir controvérsia acerca de matéria tributária, ao que se deve interpretar que "a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida" refere-se ao Pleno ou, ao menos, a Primeira Seção, afastando, portanto, a utilização de precedente isolado de uma das turmas.
+Cumpre destacar que "os arts. 932, inciso III, e 1.042 do CPC/2015 estabelecem regras expressas autorizando o relator do agravo a deixar de conhecê-lo quando manifestamente inadmissível ou quando não atacar especificamente os fundamentos da decisão agravada, hipótese na qual se insere o caso em que o agravante, em vez de confrontar o juízo de admissibilidade da instância ordinária, limita-se a argumentar a usurpação de competência ou a falta dela, a reiterar com exatidão as razões do recurso especial ou, ainda, a impugnar apenas parte da motivação. Inteligência da Súmula 182 do STJ" (AgInt no AREsp 1490462/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 26/11/2019, DJe 29/11/2019).
+Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. SERVIDOR PÚBLICO. DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS. ART. 932, III, DO CPC/2015 E ART 253, PARÁGRAFO ÚNICO, I, DO RISTJ. PRECEDENTES. MATÉRIA DECIDIDA PELA CORTE ESPECIAL. EARESP Nº 746.775/PR. IMPUGNAÇÃO TARDIA EM SEDE DE AGRAVO INTERNO. IMPOSSIBILIDADE. INOVAÇÃO RECURSAL. PRECLUSÃO CONSUMATIVA. AGRAVO INTERNO NÃO PROVIDO.
+1. O Tribunal de origem inadmitiu o recurso especial alegando, dentre outros motivos, que não seria possível a interposição do recurso para alegar ofensa à Súmula nº 85/STJ, por não estar referida espécie compreendida na expressão lei federal, constante nas alínea "a", "b", ou "c" do inciso III do artigo 105 da Constituição Federal. Nas razões do agravo em recurso especial, os agravantes não impugnaram de forma específica referido fundamento.
+2. Verifica-se, pois, que os agravantes deixaram de impugnar especificamente todos os fundamentos da decisão de inadmissibilidade do recurso, razão pela qual o agravo em recurso especial não pode ser conhecido, a teor do art. 932, III, do CPC/2015, bem como do art. 253, parágrafo único, I, do RISTJ. Precedentes.
+3. A Corte Especial deste Tribunal Superior, ao julgar o EAREsp 746775/PR, cujo julgamento foi concluído na sessão realizada em 19/09/2108, ratificou referido entendimento e estabeleceu a necessidade de impugnação específica de todos os fundamentos da decisão de inadmissibilidade do recurso especial, sob pena de não conhecimento do agravo.
+4. A tentativa de suprir falha de impugnação, através do agravo interno, de fundamento do juízo negativo de admissibilidade não impugnado nas razões do agravo em recurso especial, constitui verdadeira inovação recursal inviável em razão da ocorrência da preclusão consumativa.
+5. Agravo interno não provido.
+(AgInt no AREsp 1335756/MS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 06/11/2018, DJe 13/11/2018).
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO À TOTALIDADE DOS FUNDAMENTOS ADOTADOS NA DECISÃO AGRAVADA. SÚMULA 182/STJ. INCIDÊNCIA.
+1. A teor da Súmula 182/STJ, inviável se faz a apreciação do agravo interno que deixa de empreender combate específico a todos os fundamentos da decisão agravada.
+2. Segundo entendimento consolidado na Primeira Turma desta Corte, admite-se o agravo interno parcial somente quando a parte recorrente informa que sua irresignação vai direcionada apenas contra específica parcela da decisão agravada, abrindo mão, expressamente, de impugnar o restante do julgado. Precedentes: AgInt no REsp 1.695.426/RS, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 18/09/2018, DJe 21/09/2018; e AgInt no AREsp 1.163.354/RJ, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 04/09/2018, REPDJe 04/10/2018, DJe 25/09/2018.
+3. Agravo interno não conhecido.
+(AgInt no AREsp 622529/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 25/10/2018, DJe 07/11/2018).
+Ressalte-se, ainda, que, no que tange à inadmissão do apelo nobre em razão de consonância do acórdão recorrido com a jurisprudência do STJ, não é necessário que o entendimento firmado pelo Tribunal se tenha consolidado em enunciado sumular ou se tenha sujeitado à sistemática dos recursos repetitivos, nos termos do art. 1.036 do CPC (AgInt no AREsp 1585383/SC, relator Ministro Herman Benjamin, Segunda Turma, julgado em 29/4/2020, DJe 7/5/2020; AgInt no AREsp 726676/PI, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 1º/12/2016, DJe 19/12/2016).
+Nesse contexto, caberia ao agravante apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada, procedendo ao devido cotejo analítico, a fim de demonstrar que a orientação desta Corte não se firmou no sentido do acórdão recorrido, ou, ainda, demonstrar a não subsunção do caso concreto à jurisprudência citada pela decisão de inadmissibilidade, o que, como visto, não ocorreu na espécie.
+Nessa linha, confiram-se os seguintes julgados:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DECISÃO DE ADMISSIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS. MANUTENÇÃO DA DECISÃO QUE NÃO CONHECEU DO RECURSO. MAJORAÇÃO DE HONORÁRIOS RECURSAIS EM AGRAVO INTERNO. IMPOSSIBILIDADE. LITIGÂNCIA DE MÁ-FÉ. NÃO OCORRÊNCIA. PROVIMENTO NEGADO.
+ ..
+3. Inadmitido o recurso especial com base na incidência da Súmula 83 do Superior Tribunal de Justiça, cabe à parte interessada apontar julgados deste Tribunal contemporâneos ou supervenientes sobre a matéria, procedendo ao cotejo entre eles a fim de demonstrar que a orientação desta Corte é diversa da do Tribunal de origem ou que não se encontra pacificada. Pode ainda, se for o caso, demonstrar a existência de distinção do caso tratado nos autos.
+4. A majoração dos honorários advocatícios, prevista no art. 85, § 11, do Código de Processo Civil, não se aplica no julgamento do agravo interno, já que não há abertura de nova instância recursal.
+5. Este Tribunal entende que, quando a parte recorrente interpõe o recurso legalmente previsto no ordenamento jurídico, sem abusar do direito de recorrer, não devem ser aplicadas as multas por litigância de má-fé porque não verificada afronta ou descaso com o Poder Judiciário.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp 2750797/PB, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 24/2/2025, DJEN de 27/2/2025.).
+PROCESSUAL CIVIL. TRIBUTÁRIO. ISS. SOCIEDADE DE AUDITORIA E CONTABILIDADE. NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO RECORRIDA.
+ ..
+VI - No caso em que foi aplicado o Enunciado n. 83 do STJ, incumbe à parte, no agravo em recurso especial, pelo menos, apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada. Não o fazendo, é correta a decisão que não conhece do agravo nos próprios autos.
+VII - Agravo interno improvido.
+(AgInt no AREsp 1704228/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 1/3/2021, DJe de 15/3/2021).
+Ademais, em relação à incidência do óbice da Súmula 7 do STJ, é de rigor que, além da contextualização do caso concreto, a impugnação contenha as devidas razões pelas quais se entende ser possível o conhecimento da pretensão, independentemente do reexame fático-probatório, mediante, por exemplo, a apresentação do cotejo entre as premissas fáticas e as conclusões delineadas no acórdão recorrido e na sua tese recursal, a fim de demonstrar a prescindibilidade da reapreciação do acervo probatório da demanda, o que também não se verificou.
+Assim, há óbice ao conhecimento do agravo interposto, de acordo com o entendimento sufragado na Súmula 182 do STJ. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INADMITIDO. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO. ART. 544, § 4º, I, DO CPC/73 (ATUAIS ARTS. 932, III, DO CPC/2015 E 253, PARÁGRAFO ÚNICO, I, DO RISTJ) E SÚMULA 182/STJ, POR ANALOGIA. AGRAVO INTERNO. RECURSO QUE NÃO IMPUGNA, ESPECIFICAMENTE, OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. AGRAVO INTERNO NÃO CONHECIDO.
+I. Trata-se de Agravo interno, interposto em 19/04/2016, contra decisão monocrática, publicada em 14/04/2016, na vigência do CPC/2015.
+II. No caso, o Recurso Especial não foi admitido, na origem, pela ausência de omissão no acórdão recorrido, pela incidência das Súmulas 284 e 356/STF e 7 e 83/STJ, bem como porque ausente a demonstração da divergência jurisprudencial invocada. O Agravo em Recurso Especial interposto não impugnou todos os óbices, o que conduziu ao seu não conhecimento, nos termos do art. 544, § 4º, I, do CPC/73 (atuais arts. 932, III, do CPC/2015 e 253, parágrafo único, I, do RISTJ), cuja decisão ora é agravada regimentalmente.
+III. No presente Agravo interno, a parte recorrente apresenta razões outras, deixando de impugnar, novamente, os fundamentos da decisão agravada.
+IV. Interposto Agravo interno sem infirmar, especificamente, os fundamentos da decisão agravada e apresentando, ainda, outra fundamentação, dela dissociada, constitui óbice ao conhecimento do inconformismo a Súmula 182 desta Corte, em face do art. 1.021, § 1º, do CPC/2015.
+V. Renovando-se, no Agravo interno, o vício que comprometia o conhecimento do Agravo em Recurso Especial, inarredável a edição de novo juízo negativo de admissibilidade.
+VI. Agravo interno não conhecido.
+(AgInt no AREsp 866675/SP, Relatora Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 25/05/2016).
+Assim, impõe-se o desprovimento do presente agravo interno.
+Deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC, visto que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
