@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de MATHEUS SILVA OLIVEIRA - condenado pelos crimes dos arts. 33, caput, da Lei n. 11.343/2006, e 16 da Lei n. 10.826/2003, à pena unificada de 8 anos de reclusão e 510 dias-multa, em regime inicial fechado -, em que a defesa aponta como autoridade coatora o Tribunal de Justiça do Estado de Minas Gerais (Apelação Criminal n. 1.0000.23.227984-4/001).
+O impetrante alega erro de subsunção no art. 16 da Lei n. 10.826/2003, diante da inexistência de prova de supressão intencional da numeração da arma, tendo em vista que o laudo apenas teria apontado numeração parcialmente suprimida por abrasão. Sustenta vedação à analogia in malam partem e aplicação do princípio da legalidade estrita e do in dubio pro reo.
+Pleiteia, ainda, desclassificação para o art. 12 da Lei n. 10.826/2003 ou absolvição pela atipicidade.
+Afirma que há ilegalidade manifesta na dosimetria ao se afastar o tráfico privilegiado do art. 33, § 4º, da Lei n. 11.343/2006 sem fundamento idôneo, além de ocorrência de bis in idem ao utilizar natureza e quantidade da droga para negar a minorante, após já exasperar a pena-base.
+Também aponta ilegalidade na fixação do regime inicial fechado, devendo ser observado o art. 33, § 2º, do Código Penal, sendo que a gravidade abstrata e vetores já valorados na primeira fase não justificam regime mais gravoso. Aduz que é possível a substituição da pena privativa de liberdade por restritivas de direitos, nos termos do art. 44 do Código Penal, compatível com o tráfico privilegiado.
+Em caráter liminar, pede a suspensão imediata da execução da pena, com alvará de soltura e medidas cautelares diversas ou, subsidiariamente, o reconhecimento do tráfico privilegiado com readequação da pena e fixação de regime inicial mais brando.
+No mérito, requer a desclassificação do art. 16 para o art. 12 da Lei n. 10.826/2003, ou absolvição por atipicidade; o reconhecimento da minorante do art. 33, § 4º, na fração máxima de 2/3; a reestruturação da dosimetria e fixação do regime inicial aberto ou semiaberto; e a substituição da pena por restritivas de direitos (Processo n. 0011943-73.2020.8.13.0390, da 2ª Vara Cível, Criminal e de Execuções Penais da comarca de Machado/MG).
+É o relatório.
+A presente inicial deve ser indeferida liminarmente, isso porque a ação penal objeto deste writ transitou em julgado.
+A via do habeas corpus se mostra inadmissível, pois utilizada como sucedâneo de revisão criminal, sendo certo que compete ao Superior Tribunal de Justiça o julgamento de revisão criminal de seus próprios julgados, o que não é o caso dos autos. Nesse sentido: AgRg no HC n. 881.932/SP, de minha relatoria, Sexta Turma, DJEN 23/12/2024; e AgRg no HC n. 953.536/PA, Ministro Ribeiro Dantas, Quinta Turma, DJEN 23/12/2024.
+Além disso, inexiste ilegalidade flagrante que justifique a concessão de habeas corpus de ofício e a consequente superação do óbice constatado, verificando-se dos autos amplo conjunto probatório a subsidiar a condenação, sendo inviável o amplo reexame de fatos e provas nos autos de habeas corpus, de cognição sumária.
+No tocante à dosimetria, também ausente o alegado constrangimento ilegal, devendo ser observada a discricionariedade vinculada do Magistrado. Ressalto não ter ocorrido bis in idem, sendo o tráfico privilegiado afastado em razão de todo o contexto que resultou na condenação do paciente como incurso nos arts. 33, caput, da Lei n. 11.343/2006 e 16 da Lei n. 10.826/2003, evidenciada a sua dedicação à prática do tráfico de drogas (fl. 31):
+Os policiais ouvidos tanto na fase apuratória quanto em juízo, foram unânimes em afirmar que o acusado se utilizava da sua residência como ponto de tráfico de drogas, a qual foi alvo de denúncia prévias que decorreram na expedição do mandado de busca e apreensão.
+ ..
+Não desconheço que a Terceira Seção do Superior Tribunal de Justiça (STJ), sob o rito dos recursos especiais repetitivos (Tema 1.139), estabeleceu a tese de que é vedada a utilização de inquéritos ou ações penais em curso para impedir a aplicação da redução de pena pela configuração do § 4º do art. 33 da Lei nº 11.343/2006.
+Todavia, no caso em análise, a dedicação do acusado a atividades criminosas foi comprovada pelas investigações e denúncias anônimas prévias, além dos relatos firmes e seguros, em juízo, dos policiais e das declarações extrajudiciais do próprio tio do acusado.
+Destarte, tenho que não estão preenchidos os requisitos necessários à concessão do tráfico privilegiado.
+O regime prisional, por fim, é compatível com as circunstâncias dos autos e à pena aplicada.
+Ante o exposto, indefiro liminarme nte a petição inicial.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. WRIT SUBSTITUTIVO DE REVISÃO CRIMINAL. PRETENSÃO DE ABSOLVIÇÃO E REVISÃO DA DOSIMETRIA. DILAÇÃO PROBATÓRIA. IMPOSSIBILIDADE. ILEGALIDADE FLAGRANTE. INEXISTÊNCIA.
+Petição inicial indeferida liminarmente.
