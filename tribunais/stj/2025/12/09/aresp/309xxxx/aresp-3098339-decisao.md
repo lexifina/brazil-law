@@ -1,0 +1,27 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por ANA PAULA TEIXEIRA TELES e EMERSON TAVARES SA TELES contra decisão que inadmitiu recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional..
+Agravo em recurso especial interposto em: 22/8/2025.
+Concluso ao gabinete em: 13/11/2025.
+Ação: de reparação de danos materiais c/c compensação por danos morais, ajuizada por EMERSON TAVARES SA TELES e ANA PAULA TEIXEIRA TELES, em face de BUFFET CENTER LTDA., ESPAÇO BRAGANÇA (R.F. SHIE), EUPHORIA EVENTOS E PRODUÇÕES LTDA., KASSIA DECORAÇÕES E PRODUÇÕES LTDA., ESTÚDIO A PRODUÇÕES LTDA., AUGURI DECORAÇÕES E PRODUÇÕES EIRELI e BUFFET CASA D"ORO LTDA., na qual requer a condenação solidária ao pagamento de danos materiais e compensação por danos morais em razão do inadimplemento na organização de festa de casamento.
+Sentença: julgou parcialmente procedentes os pedidos, para: i) condenar solidariamente os requeridos ao pagamento de compensação por danos morais no valor de R$ 15.000,00 (quinze mil reais); e ii) condenar solidariamente os requeridos ao pagamento de reparação de danos materiais no valor de R$ 67.000,00 (sessenta e sete mil reais).
+Acórdão: não conheceu do recurso de apelação interposto por EUPHORIA EVENTOS E PRODUÇÕES EIRELI; deu provimento ao recurso de apelação interposto por R.F. SHIE ME (ESPAÇO BRAGANÇA); e deu provimento ao recurso de apelação interposto por AUGURI DECORAÇÕES E PRODUÇÕES EIRELLI, nos termos da seguinte ementa:
+AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS JULGADA PARCIALMENTE PROCEDENTE PRESTAÇÃO DE SERVIÇOS PARA FESTA DE CASAMENTO
+PRELIMINAR DE ILEGITIMIDADE PASSIVA ARGUIDA PELA CORRÉ R.F. SHIE-ME (ESPAÇO BRAGANÇA) ACOLHIDA AUSÊNCIA DE SOLIDARIEDADE, ASSIM COMO DE ELEMENTOS QUE CONFIGUREM A FORMAÇÃO DE GRUPO ECONÔMICO ENTRE ESTA CORRÉ E A EMPRESA BUFFET CENTER, COM QUEM OS AUTORES CONTRATARAM EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DO MÉRITO em relação à R.F. SHIE-ME, COM FUNDAMENTO NO ART. 485, VI, DO CPC.
+APELO DA CORRÉ EUPHORIA EVENTOS E PRODUÇÕES EIRELI INTERPOSTO DESACOMPANHADO DO RESPECTIVO PREPARO, COM PEDIDO DE CONCESSÃO DA GRATUIDADE DE JUSTIÇA OU DIFERIMENTO DO PAGAMENTO DAS CUSTAS PARA O FINAL DO PROCESSO - INDEFERIMENTO DOS PEDIDOS INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO, RECEBIDO COMO INTERNO, AO QUAL FOI NEGADO PROVIMENTO, COM DETERMINAÇÃO DE RECOLHIMENTO DO PREPARO RECURSAL DECURSO DO PRAZO SEM RECOLHIMENTO - DESERÇÃO DA APELAÇÃO DA CORRÉ EUPHORIA EVENTOS E PRODUÇÕES EIRELI RECONHECIDA
+CORRÉ AUGURI DECORAÇÕES E PRODUÇÕES EIRELLI QUE FOI CONTRATADA DIRETAMENTE PELOS AUTORES, SENDO O SERVIÇO POR ELES PAGO DEVIDAMENTE PRESTADO AUSÊNCIA DE SOLIDARIEDADE IMPROCEDÊNCIA DOS PEDIDOS EM RELAÇÃO À EMPRESA APELANTE CABIMENTO
+SENTENÇA MODIFICADA EM PARTE, COM ALTERAÇÃO PARCIAL DA SUCUMBÊNCIA
+APELAÇÃO DA CORRÉ EUPHORIA EVENTOS E PRODUÇÕES EIRELI NÃO CONHECIDA, POR DESERÇÃO, PROVIDOS OS APELOS DAS CORRÉS R.F. SHIE-ME (ESPAÇO BRAGANÇA) E AUGURI DECORAÇÕES E PRODUÇÕES EIRELLI (e-STJ fls. 956-957)
+Embargos de Declaração: opostos por EMERSON TAVARES SA TELES e ANA PAULA TEIXEIRA TELES, foram rejeitados.
+Recurso especial: alega violação dos arts. 3º, 7º, parágrafo único, e 25, § 1º, do CDC; e 87, § 2º, do CPC. Afirma que há relação de consumo e responsabilidade solidária entre os fornecedores que integram a cadeia de prestação de serviços da festa de casamento. Aduz que a solidariedade independe de cláusula contratual específica, bastando a participação no fornecimento do produto ou serviço ao consumidor. Argumenta que, havendo pluralidade de vencedores com patronos distintos, os honorários de sucumbência devem ser repartidos proporcionalmente, vedado o somatório que ultrapasse o teto legal.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos dispositivos legais indicados como violados - tampouco acerca dos argumentos de solidariedade sob a sistemática do CDC e de fixação proporcional da verba honorária nas hipóteses em que constatada a pluralidade de vencedores com advogados distintos -, apesar da oposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, neste caso, a Súmula 211/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em seu desfavor (e-STJ fl. 963) em mais 3% (três por cento), observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+DIREITO DO CONSUMIDOR E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS MATERIAIS C/C COMPENSAÇÃO DE DANOS MORAIS. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ.
+1. Ação de reparação de danos materiais c/c compensação por danos morais, em razão de falha na prestação de serviço de organização de festa de casamento.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. Agravo conhecido. Recurso especial não conhecido.
