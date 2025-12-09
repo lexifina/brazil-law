@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em Sessão Virtual de 03/12/2025 a 09/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva, Sebastião Reis Júnior, Francisco Falcão, João Otávio de Noronha, Humberto Martins, Maria Thereza de Assis Moura e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Presidente do STJ.
+Não participou do julgamento a Sra. Ministra Nancy Andrighi.
+EMENTA
+AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC.
+I. CASO EM EXAME
+1.1. Agravo regimental interposto contra decisão que negou seguimento a recurso extraordinário, sob o fundamento de que o acórdão recorrido estaria em conformidade com a tese fixada pelo STF no Tema n. 339 da repercussão geral.
+1.2. A parte agravante alegou a inaplicabilidade do Tema n. 339 ao caso, argumentando que não houve fundamentação adequada no acórdão recorrido quanto às matérias suscitadas, o que configuraria ofensa ao texto constitucional.
+II. QUESTÕES EM DISCUSSÃO
+2.1. A existência de afronta ao art. 93, IX, da Constituição Federal quando se discute a suficiência da fundamentação das decisões judiciais, com aplicabilidade do Tema n. 339 do STF.
+III. RAZÕES DE DECIDIR
+3.1. O STF, ao tratar do Tema n. 339 da repercussão geral, firmou a tese de que a Constituição Federal exige que acórdãos e decisões sejam fundamentados, ainda que sucintamente, sem vinculação à correção ou abrangência detalhada de todas as alegações das partes, mas à existência de motivação que permita a compreensão da solução dada à controvérsia.
+3.2. No caso concreto, o acórdão recorrido apresentou motivação adequada para a solução da controvérsia, em conformidade com o Tema n. 339, razão pela qual é justificada a negativa de seguimento ao recurso extraordinário nos termos do art. 1.030, I, a, do CPC.
+IV. DISPOSITIVO
+4.1. Agravo regimental a que se nega provimento.
+RELATÓRIO
+1. Trata-se de agravo regimental interposto contra a decisão que negou seguimento ao recurso extraordinário, assim ementada (fl. 603):
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
+A parte agravante se insurge contra a aplicação do Tema n. 339 do STF ao caso dos autos, reiterando que o acórdão recorrido careceria de fundamentação idônea, pois não teria apreciado suas teses recursais, tampouco se manifestado sobre o parecer da Procuradoria, adotando, como razões de decidir, texto absolutamente padronizado, aplicável a qualquer caso.
+Requer o provimento do agravo para que o recurso extraordinário seja admitido, com a remessa dos autos ao Supremo Tribunal Federal.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC.
+I. CASO EM EXAME
+1.1. Agravo regimental interposto contra decisão que negou seguimento a recurso extraordinário, sob o fundamento de que o acórdão recorrido estaria em conformidade com a tese fixada pelo STF no Tema n. 339 da repercussão geral.
+1.2. A parte agravante alegou a inaplicabilidade do Tema n. 339 ao caso, argumentando que não houve fundamentação adequada no acórdão recorrido quanto às matérias suscitadas, o que configuraria ofensa ao texto constitucional.
+II. QUESTÕES EM DISCUSSÃO
+2.1. A existência de afronta ao art. 93, IX, da Constituição Federal quando se discute a suficiência da fundamentação das decisões judiciais, com aplicabilidade do Tema n. 339 do STF.
+III. RAZÕES DE DECIDIR
+3.1. O STF, ao tratar do Tema n. 339 da repercussão geral, firmou a tese de que a Constituição Federal exige que acórdãos e decisões sejam fundamentados, ainda que sucintamente, sem vinculação à correção ou abrangência detalhada de todas as alegações das partes, mas à existência de motivação que permita a compreensão da solução dada à controvérsia.
+3.2. No caso concreto, o acórdão recorrido apresentou motivação adequada para a solução da controvérsia, em conformidade com o Tema n. 339, razão pela qual é justificada a negativa de seguimento ao recurso extraordinário nos termos do art. 1.030, I, a, do CPC.
+IV. DISPOSITIVO
+4.1. Agravo regimental a que se nega provimento.
+VOTO
+2. No julgamento do paradigma vinculado ao Tema n. 339, o Supremo Tribunal Federal apreciou a seguinte questão:
+ ..  se decisão que transcreve os fundamentos da decisão recorrida, sem enfrentar pormenorizadamente as questões suscitadas nos embargos declaratórios, afronta o princípio da obrigatoriedade de fundamentação das decisões judiciais, nos termos do art. 93, IX, da Constituição Federal.
+Na ocasião, firmou-se a seguinte tese vinculante: "O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas."
+O respectivo acórdão recebeu a seguinte ementa:
+Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º).
+2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência.
+3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.
+(AI n. 791.292-QO-RG, relator Ministro Gilmar Mendes, Tribunal Pleno, julgado em 23/6/2010, DJe de 13/8/2010.)
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessária a apreciação de todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da Constituição Federal não está relacionada ao acerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso, conforme consignado na decisão agravada, foram declinados, de forma satisfatória, os motivos da compreensão adotada no acórdão objeto do recurso extraordinário, como se observa do seguinte trecho do referido julgado (fls. 571-573 ):
+No entanto, não verifico elementos suficientes para reconsiderar a decisão proferida, cuja conclusão mantenho pelos seus próprios fundamentos (e-STJ, fls. 528- 532):
+Com exatidão jurídica, a controvérsia se refere ao reconhecimento da prescrição retroativa entre o recebimento tácito da denúncia e a sentença condenatória.
+A defesa argumenta que a denúncia foi recebida de forma tácita em 31/10/2017, data em que foi determinada a citação do recorrente para apresentação de defesa prévia. A sentença condenatória somente foi proferida em 01/12/2023, ultrapassando o prazo prescricional de 6 anos, já reduzido pela metade em razão da idade do réu à época dos fatos (20 anos, nos termos do art. 115 do CP).
+O acórdão recorrido entendeu que o marco interruptivo da prescrição seria o despacho expresso de recebimento da denúncia, proferido em , adotando10/09/2020 como fundamento o rito da Lei 11.343/06.
+O recorrente sustenta, contudo, que esse entendimento contraria a jurisprudência deste egrégio Superior Tribunal de Justiça, que reconhece o recebimento tácito da denúncia a partir do despacho que determina a citação para resposta à acusação.
+Sobre o ponto, o Tribunal de origem assim entendeu e pronunciou (e-STJ, fls. 387-388):
+Conforme se extrai dos autos, o crime foi praticado em 12.06.2017, tendo sido a denúncia foi recebida em 10.09.2020 (evento 68), com o regular processamento do feito. Considerando a pena máxima do crime de tráfico de drogas, 15 anos de reclusão, e o prazo previsto no art. 109, I, do Código Penal, de pronto se afasta a prescrição da pretensão punitiva propriamente dita. No mais, foi publicada a sentença condenatória em 01.12.2023 (evento 168), o Ministério Público foi intimado e não interpôs recurso, concretizando-se a pena aplicada, nos termos do art. 110 do Código Penal, valendo ressaltar que, de acordo com a Súmula 146 do Supremo Tribunal Federal, "a prescrição da ação penal regula-se pela pena concretizada na sentença, quando não há recurso da acusação". A reprimenda aplicada foi de 5 anos de reclusão, de modo que a prescrição verifica-se em doze anos, a teor do art. 109, III, do Código Penal, prazo esse reduzido pela metade porque o apelante era menor de 21 anos na data do fato (art. 115 do CP). Entre o recebimento da denúncia e a publicação da sentença transcorreram pouco mais de três anos, o que afasta a hipótese de reconhecimento da prescrição retroativa. Quanto ao pleito formulado pelo defensor constituído, no sentido de considerar o despacho de notificação dos réus, proferido em 31.10.2017 (evento 29), como recebimento ficto da denúncia, tem-se que não merece acolhimento. Observa-se que foi seguido na origem o procedimento especial da Lei n. 11.343/2006 até o recebimento da denúncia, proporcionando-se ao ora apelante o oferecimento de defesa prévia, na forma do art. 55 da mencionada Lei. Considerando o disposto no art. 394, § 2º, do CPP e o entendimento jurisprudencial sobre a matéria, o Juízo de origem analisou as questões preliminares e, por não haver causas autorizadoras da absolvição sumária, designou audiência de instrução e julgamento (evento 86). Com base nas regras do procedimento comum ordinário, foi assegurado ao apelante o direito de ser interrogado ao final da instrução processual (168.1). Logo, o apelante exerceu o contraditório antes do recebimento da denúncia e teve a oportunidade de falar depois da oitiva das testemunhas. Não há, portanto, qualquer ofensa ao devido processo legal, nem se constata qualquer prejuízo ao recorrente. Desse modo, por não ter decorrido tempo suficiente para o reconhecimento da prescrição retroativa, deixo de acolher o pedido.
+Conforme reconhecido na instância de origem, foi observado o procedimento especial da Lei n. 11.343/06, o qual prevê, de forma expressa, a apresentação de defesa prévia antes do recebimento da denúncia (art. 55 da Lei de Drogas), deixa de ser possível presumir o recebimento da denúncia com a notificação para apresentação da resposta. Assim, o recebimento formal da denúncia somente ocorreu em , conforme10/09/2020 consignado nos autos.
+Importa destacar que o egrégio Superior Tribunal de Justiça, mesmo ao reconhecer o recebimento tácito da denúncia em situações excepcionais, não aplica tal entendimento aos procedimentos regidos por legislação especial que contenha rito próprio, como é o caso da Lei 11.343/06.
+Nesse contexto, a jurisprudência é pacífica no sentido de que não há recebimento tácito quando a lei exige expressamente decisão judicial após a defesa prévia, sendo este o momento processual adequado para o exame de admissibilidade da ação penal.
+ ..
+A decisão agravada enfrentou de forma direta e fundamentada a tese defensiva, esclarecendo que, embora esta Corte Superior admita o reconhecimento excepcional do recebimento tácito da denúncia em alguns procedimentos, tal entendimento não se aplica ao caso concreto. Isso porque o art. 55 da Lei de Drogas prevê expressamente a apresentação de defesa prévia antes do recebimento formal da denúncia, cabendo ao magistrado, somente após essa fase, proferir decisão específica sobre a admissibilidade da ação penal.
+No caso, o acórdão do Tribunal de origem assentou que o recebimento formal da denúncia se deu em 10/9/2020, conforme registrado nos autos, e que entre essa data e a publicação da sentença condenatória (1º/12/2023) transcorreu período inferior a seis anos, mesmo após a redução do prazo prescricional pela metade em razão da menoridade relativa do réu. Assim, inexiste lapso temporal suficiente para a configuração da prescrição retroativa.
+Verifica-se, portanto, que a matéria invocada pela p arte ora agravante foi expressamente examinada no acórdão impugnado.
+Com efeito, demonstrada a realização da prestação jurisdicional constitucionalmente adequada, ainda quando não se concorde com a solução dada à causa, afigura-se inviável o prosseguimento do recurso extraordinário, pois o provimento recorrido encontra-se em sintonia com a tese fixada no Tema n. 339 do STF.
+3. Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
