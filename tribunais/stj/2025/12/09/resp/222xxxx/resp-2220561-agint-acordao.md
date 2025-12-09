@@ -1,0 +1,96 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 03/12/2025 a 09/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL SUPOSTAMENTE INTERPRETADO DE FORMA DIVERGENTE. INCIDÊNCIA DA SÚMULA 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA ALEGADA. SÚMULA 282/STF. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. COISA JULGADA RECONHECIDA. PRETENSÃO DE REVISÃO. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. O entendimento de que a ausência de indicação do dispositivo de lei federal violado impede o conhecimento do recurso especial aplica-se tanto aos interpostos com fundamento na alínea "a" quanto na alínea "c" do permissivo constitucional, nos termos da Súmula 284 do STF.
+3. A falta de prequestionamento da matéria suscitada no recurso especial impede o seu conhecimento, a teor da Súmula 282/STF.
+4. A ausência de impugnação a fundamento que, por si só, respalda o resultado do julgamento, atrai a incidência da Súmula 283 do STF.
+5. Alterar as conclusões adotadas pela Corte de origem, como defendido nas razões recursais, de forma a concluir pela não ocorrência de coisa julgada somente seria possível mediante o necessário reexame do acervo fático-probatório constante dos autos, providência vedada em Recurso Especial, conforme o óbice previsto na Súmula 7/STJ.
+6. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão assim ementada (fl. 42):
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL SUPOSTAMENTE INTERPRETADO DE FORMA DIVERGENTE. INCIDÊNCIA DA SÚMULA 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA ALEGADA. SÚMU LA 282/STF. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. COISA JULGADA RECONHECIDA. PRETENSÃO DE REVISÃO. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+O agravante alega a inaplicabilidade da Súmula 7/STJ, sustentando que a controvérsia é exclusivamente jurídica e se limita à interpretação do art. 85, § 2º, do CPC/2015. Argumenta que, reconhecida a liquidação "zerada" na origem, a fixação dos honorários deve observar o valor atualizado da causa, sem necessidade de reexame de provas.
+Afirma, ainda, que houve efetivo enfrentamento da matéria pelo Tribunal de origem e que o Recurso Especial impugnou diretamente o fundamento relativo à coisa julgada, transcrevendo trecho do acórdão para demonstrar o debate da tese. Assim, entende não haver ausência de prequestionamento (Súmula 282/STF) nem falta de impugnação de fundamento autônomo (Súmula 283/STF).
+Por fim, sustenta que a aplicação das Súmulas 282, 283, 284 do STF e 7 do STJ foi indevida, pois todos os requisitos de admissibilidade teriam sido observados e a tese recursal foi devidamente devolvida à instância superior.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL SUPOSTAMENTE INTERPRETADO DE FORMA DIVERGENTE. INCIDÊNCIA DA SÚMULA 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA ALEGADA. SÚMULA 282/STF. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. COISA JULGADA RECONHECIDA. PRETENSÃO DE REVISÃO. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. O entendimento de que a ausência de indicação do dispositivo de lei federal violado impede o conhecimento do recurso especial aplica-se tanto aos interpostos com fundamento na alínea "a" quanto na alínea "c" do permissivo constitucional, nos termos da Súmula 284 do STF.
+3. A falta de prequestionamento da matéria suscitada no recurso especial impede o seu conhecimento, a teor da Súmula 282/STF.
+4. A ausência de impugnação a fundamento que, por si só, respalda o resultado do julgamento, atrai a incidência da Súmula 283 do STF.
+5. Alterar as conclusões adotadas pela Corte de origem, como defendido nas razões recursais, de forma a concluir pela não ocorrência de coisa julgada somente seria possível mediante o necessário reexame do acervo fático-probatório constante dos autos, providência vedada em Recurso Especial, conforme o óbice previsto na Súmula 7/STJ.
+6. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015 (CPC/15), devendo ser exigidos os requisitos de admissibilidade conforme nele previsto, nos termos do Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, observa-se que o presente recurso não merece prosperar, tendo em vista que os argumentos apresentados no agravo interno não apresentam razões para reformar a decisão agravada.
+Como dito, no que se refere a interposição do recurso pelo artigo 105, III, "c" da Constituição Federal, verifico que o recorrente não apontou quais os dispositivos legais que teriam sido supostamente interpretados de forma divergente, o que impede o conhecimento do recurso.
+Com efeito, impõe-se ao recorrente, mesmo nos recursos especiais por dissídio jurisprudencial, a correta indicação do dispositivo de lei federal a que foi dada interpretação divergente, sem a qual considera-se deficiente a irresignação, atraindo a incidência do óbice da Súmula 284 do STF. Nesse sentido: AgInt no REsp 2.059.072/DF, relatora Ministra Nancy Andrighi, Terceira Turma, DJEN 29/11/2024; REsp 1.961.783/DF, relator Ministro Gurgel de Faria, Primeira Turma, DJe 2/10/2023.
+O agravante alega que a aplicação das Súmulas 282 e 283 do STF, bem como da Súmula 7 do STJ, foi indevida.
+No que se refere à alegação de que o acórdão recorrido "deixa de enfrentar a tese recursal de que houve erro material visível na sentença de primeiro grau, que fundamentou a inexistência de direito aos honorários de sucumbência sob a alegação de que o processo tramitou pelo rito do Juizado Especial Federal" (fl. 29), constata-se que a instância de origem não se pronunciou sobre a questão, tampouco foi suscitada em embargos de declaração, razão pela qual o recurso especial carece de prequestionamento, nos termos da Súmula 282 do STF.
+Assim, mantém-se o não conhecimento do recurso especial com fundamento na Súmula 282 do STF.
+A propósito:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. QUANTUM INDENIZATÓRIO. REEXAME FÁTICO-PROBATÓRIO. INVIABILIDADE. PREQUESTIONAMENTO. AUSÊNCIA.
+1. O reexame das premissas fixadas pela Corte de origem quanto à presença ou não dos elementos que configuram o dano moral indenizável, bem como em relação ao quantum indenizatório fixado, exigiria a incursão no acervo fático-probatório dos autos.
+Incidência da Súmula 7 do STJ.
+2. A ausência de debate da tese recursal pela Corte de origem sob o viés pretendido pela parte recorrente manifesta a ausência do requisito constitucional do prequestionamento.
+3. Agravo interno desprovido. (AgInt no AREsp n. 2.610.965/RO, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 30/9/2024, DJe de 4/10/2024.) (Grifei).
+Conforme consignado na decisão agravada do confronto entre os fundamentos do voto condutor do acórdão recorrido e os termos da irresignação, verifica-se que a parte recorrente não impugna, especificamente, nas razões do recurso especial, a fundamentação adotada pela Corte de origem.
+Vejamos, desde logo e no que importa, como o Tribunal de origem analisou a matéria (fls. 20-21, grifei):
+(..)
+2. Extrai-se do julgado que, em razão do reconhecimento de atividade urbana, o INSS foi condenado a revisar o benefício do autor e a pagar honorários advocatícios (evento 54, DOC1):
+Dada a sucumbência recíproca, em maior proporção do autor, condeno ambas as partes ao pagamento de honorários advocatícios, os quais fixo em 10% (dez por cento) do valor da condenação, excluídas as parcelas que se vencerem após a publicação desta sentença (Súmula 111 do Superior Tribunal de Justiça), nos termos do §3º do artigo 85 do Código de Processo Civil, devendo o autor arcar com a fração de 70% deste ônus, cabendo ao INSS a fração remanescente de 30%.
+Contudo, conforme se infere da petição anexada pelo INSS ao evento 86, a averbação dos períodos reconhecido no julgado não implicou aumento da RMI/RMA, continuando o autor a receber um salário- mínimo.
+Na hipótese, por ser a liquidação do julgado zerada, a parte autora pleiteia a execução dos honorários advocatícios sobre o valor da causa, o que não é cabível nesta via.
+Isso porque uma vez fixada a base de cálculos dos honorários advocatícios sobre o proveito econômico da parte autora, por sentença judicial transitada em julgado, não é possível a sua rediscussão no cumprimento de sentença, sob pena de afronta à coisa julgada.
+Nesse sentido:
+ ..
+Ainda que relevantes os argumentos do agravante, foi fixada a base de cálculos dos honorários advocatícios sobre o proveito econômico da parte autor, por sentença judicial transitada em julgado. Assim, não é possível a sua rediscussão no cumprimento de sentença, sob pena de afronta à coisa julgada. Nesse sentido:
+ ..
+Portanto, não merece reforma a decisão.
+Ante o exposto, voto no sentido de negar provimento ao agravo de instrumento.
+Ocorre que o agravante não impugnou a referida fundamentação nas razões do recurso especial que, por si só, assegura o resultado do julgamento ocorrido na Corte de origem e torna inadmissível o recurso que não a impugnou.
+Desse modo, mantém-se o não conhecimento do recurso especial com fundamento na Súmula 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+A propósito:
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INOCORRÊNCIA. ARTS. 3º, V, 20, 30, I, i, II, e, E 37 DA LEI N. 13.445/2017, E 43 E 44 DA LEI N. 9.474/1997. FALTA DE PREQUESTIONAMENTO. INCIDÊNCIA DO VERBETE SUMULAR N. 211/STJ. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. APLICAÇÃO DO ÓBICE DO ENUNCIADO SUMULAR N. 283/STF. ALEGADA OFENSA A PRINCÍPIOS JURÍDICOS. NÃO EQUIVALÊNCIA À LEI FEDERAL PARA EFEITO DE CABIMENTO DE RECURSO ESPECIAL. PRECEDENTES STJ. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - O acórdão recorrido apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à espécie. Inexistência de omissão, contradição ou obscuridade.
+III - A ausência de enfrentamento da questão objeto da controvérsia pelo Tribunal a quo, não obstante oposição de Embargos de Declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula n. 211/STJ.
+IV - O art. 1.025 do estatuto processual civil de 2015 prevê que esta Corte considere prequestionada determinada matéria apenas caso alegada, fundamentadamente, e reconhecida a violação ao art. 1.022 do referido codex, o que não ocorreu no caso em análise.
+V - A falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Supremo Tribunal Federal.
+VI - Os princípios jurídicos não se amoldam à definição de lei federal para efeito de cabimento de Recurso Especial. Precedentes.
+VII - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VIII - Agravo Interno desprovido. (AgInt no REsp n. 2.088.262/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 13/5/2024, DJe de 23/5/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTO DA CORTE DE ORIGEM NÃO ATACADO NAS RAZÕES DO RECURSO ESPECIAL. INCIDÊNCIA DAS SÚMULAS 283 E 284 DO STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. PREQUESTIONAMENTO FICTO NÃO CONFIGURADO. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. AGRAVO INTERNO DESPROVIDO.
+1. Hipótese em que o Tribunal de origem utilizou fundamento autônomo e suficiente à manutenção da decisão proferida, o qual não foi especificamente rebatido nas razões do recurso especial interposto.
+Incidem na espécie, por analogia, os óbices das Súmulas 283 e 284 do STF.
+2. Os dispositivos legais indicados como malferidos nas razões do recurso especial não foram apreciados pela Corte de origem, nem foram objeto dos embargos de declaração apresentados. Falta, portanto, prequestionamento, requisito exigido para o acesso às instâncias excepcionais, até mesmo para questões de ordem pública.
+Aplicáveis, assim, as Súmulas 282 e 356 do STF.
+3. Para que se configure o prequestionamento, não basta que o recorrente devolva a questão controvertida para o tribunal, é preciso que a causa seja decidida à luz da legislação federal indicada, bem como que seja exercido juízo de valor sobre o dispositivo legal indicado e a tese recursal a ele vinculada, interpretando-se sua incidência ou não ao caso concreto, o que não ocorreu na espécie.
+4. O STJ possui o entendimento de que, para a admissão do prequestionamento ficto em recurso especial, previsto no art. 1.025 do CPC/2015, é necessário não só que haja a oposição dos embargos de declaração na Corte de origem como também a indicação e o reconhecimento por Tribunal de ofensa ao art. 1.022 do CPC/2015, especificamente quanto à questão que se pretende ver analisada, o que não se constata no caso.
+5. A ausência de prequestionamento impede a análise recursal com base no permissivo constitucional da alínea c do inciso III do art. 105 da Constituição Federal (AgInt no AREsp 956.793/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 15/12/2016).
+6. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.949.666/PE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 13/3/2023, DJe de 17/3/2023) (Grifei).
+Ademais, a revisão das conclusões do Tribunal de origem, para afastar a coisa julgada como pretende o recorrente, implicaria no reexame do conjunto fático-probatório dos autos, o que é vedado, em sede de Recurso Especial, com base no óbice enunciado na Súmula 7/STJ.
+A propósito:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO RESCISÓRIA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. COISA JULGADA RECONHECIDA. TEMA 629/STJ. INAPLICABILIDADE ÀS DEMANDAS QUE JÁ TIVERAM DECISÃO TRANSITADA EM JULGADO. INVERSÃO DO JULGADO. INVIABILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AGRAVO INTERNO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. Inexiste a alegada violação do art. 1.022 do CPC/2015, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de nenhum erro, omissão, contradição ou obscuridade.
+Observe-se, ademais, que julgamento diverso do pretendido, como na espécie, não implica ofensa ao dispositivo de lei invocado.
+2. A Corte Especial do STJ, no julgamento do REsp 1.352.721/SP, submetido ao regime dos recursos repetitivos (Tema 629/STJ), decidiu que, no âmbito de demandas previdenciárias, a ausência de conteúdo probatório eficaz a instruir a inicial implica a carência de pressuposto de constituição e desenvolvimento válido do processo, impondo a sua extinção sem o julgamento do mérito (art. 267, IV, do CPC/1973).
+3. Entretanto, esta Corte Superior entende que o aludido precedente vinculante não alcança coisas julgadas anteriores ao julgamento do repetitivo, não possuindo o condão de desconstituir os títulos executivos preexistentes a ele.
+4. Ademais, rever as conclusões da instância ordinária quanto à ofensa à coisa julgada encontra óbice na Súmula 7/STJ. Isso porque seria necessária a formação de novo juízo acerca dos fatos e das provas, e não a valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, como argumenta a parte.
+5. Agravo interno do particular a que se nega provimento.
+(AgInt no REsp n. 1.884.789/RS, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF5), Primeira Turma, julgado em 14/11/2022, DJe de 17/11/2022.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. AGRAVO INTERNO NO RECURSO ESPECIAL. MATÉRIA CONSTITUCIONAL. EXAME. IMPOSSIBILIDADE. SUPOSTA OFENSA AO ART. 535, II, DO CPC/1973. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO ORA AGRAVADA. SÚMULA 182/STJ. ALEGADA VIOLAÇÃO AOS ARTS. 148 E 182 DA LEI 8.112/1990. AUSÊNCIA DE COMANDO NORMATIVO. SÚMULA 284/STF. OFENSA REFLEXA. COISA JULGADA. AFERIÇÃO. INVIABILIDADE. SÚMULA 7/STJ. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE, NO CASO. SÚMULA 7/STJ.
+ ..
+5. É firme o entendimento do STJ no sentido de que a discussão acerca da existência ou não da coisa julgada é inviável no âmbito do recurso especial, por demandar, igualmente, o reexame do conjunto fático-probatório dos autos, vedado pela Súmula 7/STJ (REsp 977.348/RS, Rel. Ministro Francisco Falcão, Primeira Turma, DJU 19/11/2007).
+6. Para se alterar as conclusões adotadas pelas instâncias ordinárias e acolher a tese de que não foram produzidas outras provas aptas a ensejar a condenação, seria necessário novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ. Precedente: (AgRg no AREsp 93.080/MG, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 17/03/2016).
+ ..
+8. Agravo interno parcialmente conhecido e, nessa parte, não provido.
+(AgInt no REsp n. 1.433.983/CE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 20/2/2018, DJe de 5/3/2018.)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
