@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em Sessão Virtual de 03/12/2025 a 09/12/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva, Sebastião Reis Júnior, Francisco Falcão, João Otávio de Noronha, Humberto Martins, Maria Thereza de Assis Moura e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Presidente do STJ.
+Não participou do julgamento a Sra. Ministra Nancy Andrighi.
+EMENTA
+AGRAVO INTERNO. INTEMPESTIVIDADE. NÃO CONHECIMENTO.
+I. CASO EM EXAME
+1.1. Trata-se de agravo interno interposto contra a decisão proferida pela Vice-Presidência no juízo de viabilidade do recurso extraordinário.
+1.2. A parte agravante sustenta que a decisão recorrida não observou aspectos relevantes da questão de fundo e requer o provimento do agravo para que o recurso extraordinário seja admitido, com a remessa dos autos ao Supremo Tribunal Federal.
+II. QUESTÕES EM DISCUSSÃO
+2.1. Intempestividade do agravo interno interposto fora do prazo de 15 dias úteis previsto no Código de Processo Civil.
+III. RAZÕES DE DECIDIR
+3.1. O agravo interno foi interposto depois de escoado o prazo de quinze dias úteis previsto no art. 1.021, combinado com os arts. 219, 1.003, § 5º, e 1.070 do Código de Processo Civil.
+3.2. A interposição de agravo interno após o prazo legal implica o não conhecimento do recurso.
+IV. DISPOSITIVO
+Agravo interno não conhecido.
+RELATÓRIO
+1. Trata-se de agravo interno interposto contra a decisão assim ementada (fl. 1.530):
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. NÃO CONHECIMENTO DE RECURSO ANTERIOR, DE COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. REQUISITOS DE ADMISSIBILIDADE. DEBATE OU SUPERAÇÃO. IMPOSSIBILIDADE. TEMA N. 181 DO STF, SOB A SISTEMÁTICA DA REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
+A parte agravante sustenta ter havido manifesto equívoco na aplicação do Tema n. 339/STF, uma vez que o acórdão recorrido não conteria fundamentação sucinta, mas omissão qualificada e motivação logicamente contraditória.
+Alega que o recurso extraordinário não objetivaria discutir a incidência da Súmula n. 7/STJ, tratando da violação direta da coisa julgada material, de modo que a aplicação do Tema n. 181/STF seria descabida.
+Argumenta que a Súmula n. 7/STJ teria sido utilizada como escudo processual por esta Corte Superior para se furtar a exercer o controle sobre uma decisão do Tribunal de Justiça do Estado da Bahia que, a pretexto de interpretar, teria desconstituído um julgado anterior e imutável.
+Assevera que o debate não seria infraconstitucional, mas eminentemente constitucional, destacando que o Tema n. 181/STF não teria sido concebido para criar uma imunidade absoluta e permitir que Cortes Superiores, valendo-se de questões processuais, validem a afronta a direitos fundamentais.
+Acrescenta ter havido omissão da Terceira Turma do STJ quanto ao vultuoso valor devido, expressamente reconhecido e confessado pela parte agravada.
+Ressalta que forçar um credor idoso, cujo crédito possuiria natureza alimentar, a aguardar a resolução de uma complexa discussão sobre a "parcela controversa" para, só então, receber aquilo que o próprio devedor já confessou dever, ofenderia o direito fundamental a um processo célere e efetivo, e ao próprio acesso à ordem jurídica justa.
+Requer o provimento do agravo para que o recurso extraordinário seja admitido, com a remessa dos autos ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas às fls. 1.558-1.581.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. INTEMPESTIVIDADE. NÃO CONHECIMENTO.
+I. CASO EM EXAME
+1.1. Trata-se de agravo interno interposto contra a decisão proferida pela Vice-Presidência no juízo de viabilidade do recurso extraordinário.
+1.2. A parte agravante sustenta que a decisão recorrida não observou aspectos relevantes da questão de fundo e requer o provimento do agravo para que o recurso extraordinário seja admitido, com a remessa dos autos ao Supremo Tribunal Federal.
+II. QUESTÕES EM DISCUSSÃO
+2.1. Intempestividade do agravo interno interposto fora do prazo de 15 dias úteis previsto no Código de Processo Civil.
+III. RAZÕES DE DECIDIR
+3.1. O agravo interno foi interposto depois de escoado o prazo de quinze dias úteis previsto no art. 1.021, combinado com os arts. 219, 1.003, § 5º, e 1.070 do Código de Processo Civil.
+3.2. A interposição de agravo interno após o prazo legal implica o não conhecimento do recurso.
+IV. DISPOSITIVO
+Agravo interno não conhecido.
+VOTO
+2. O presente agravo foi interposto em 29/9/2025 (fl. 1.549), tendo a decisão impugnada sido publicada em 5/9/2025 (fl. 1.538), o que revela a intempestividade do recurso, pois apresentado fora do prazo de 15 dias úteis previsto nos arts. 219 e 1.003, § 5º, e 1.070 do Código de Processo Civil.
+Nesse sentido:
+PROCESSO CIVIL. AGRAVO INTERNO INTEMPESTIVO. NÃO CONHECIMENTO. ART. 1.021, C/C OS ARTS. 219, 1.003, § 5º, e 1.070 DO CÓDIGO DE PROCESSO CIVIL DE 2015.
+I - O recurso não merece ser conhecido. A interposição de agravo interno, após o prazo legal de 15 dias úteis, implica o não conhecimento do recurso, por intempestividade, nos termos do art. 1.021, c/c os arts. 219, 1.003, § 5º, e 1.070 do Código de Processo Civil de 2015.
+II - Nesse sentido: AgInt no AREsp n. 500.715/SP, relator Ministro Lázaro Guimarães (Desembargador convocado do TRF 5ª Região), Quarta Turma, julgado em 7/11/2017, DJe 14/11/2017; AgInt no AREsp n. 1.079.967/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 5/9/2017, DJe 15/9/2017; AgInt no AREsp n. 927.101/MG, relator Ministro Og Fernandes, Segunda Turma, julgado em 16/5/2017, DJe 19/5/2017.
+III - Agravo interno não conhecido.
+(AgInt nos EAREsp n. 1.441.712/SP, relator Ministro Francisco Falcão, Corte Especial, julgado em 7/6/2022, DJe de 10/6/2022.)
+AGRAVO INTERNO. HOMOLOGAÇÃO DE DECISÃO ESTRANGEIRA. INTERPOSIÇÃO FORA DO PRAZO PREVISTO NO CÓDIGO DE PROCESSO CIVIL. INTEMPESTIVIDADE.
+1. É intempestivo o agravo interno interposto fora do prazo de 15 dias úteis previsto nos arts. 219 e 1.003, § 5º, ambos do Código de Processo Civil.
+2. A publicação da decisão recorrida ocorreu em 26/8/2021, tendo sido o agravo interno protocolizado apenas em 21/9/2021.
+Considerando apenas os dias úteis, verifica-se a intempestividade do recurso.
+3. Agravo interno não conhecido.
+(AgInt na HDE n. 3.685/EX, relator Ministro Humberto Martins, Corte Especial, julgado em 26/4/2022, DJe de 2/5/2022.)
+3. Ante o exposto, não conheço do agravo interno.
+É como voto.
