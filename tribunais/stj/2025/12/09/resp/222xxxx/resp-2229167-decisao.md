@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto por ERICA RODRIGUES DA SILVA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARÁ, no julgamento da Apelação Criminal n. 0002902-62.2018.8.14.0087, assim ementado (fls. 458/469):
+APELAÇÃO CRIMINAL - HOMICÍDIO QUALIFICADO - TENTATIVA - ART. 121, § 2º, I, IV, C/C ART. 14, II, AMBOS DO CP - NULIDADE DO JULGAMENTO INVIÁVEL - CIRCUNSTÂNCIAS JUDICIAIS DO ART. 59 DO CP - FUNDAMENTAÇÃO ADEQUADA. Não é manifestamente contrária à prova dos autos a decisão do Conselho de Sentença que, diante do conjunto probatório, acolhe uma das teses submetidas ao seu crivo. Proceder de forma diversa, cassando a decisão popular, seria invadir a esfera de competência do tribunal do júri, vulnerando a soberania de seus veredictos, o que não é tolerado pelo ordenamento jurídico vigente. Pena reduzida. Ausência de compensação das circunstâncias atenuantes e agravantes. Recurso parcialmente provido. Unânime.
+Consta dos autos que a recorrente foi condenada a 9 anos de reclusão, em regime inicial fechado, pela prática do crime previsto no art. 121, § 2º, I e IV, c/c art.14, II, todos do Código Penal.
+Nas razões do recurso especial, interposto com fulcro no art. 105, III, "a" e "c", da Constituição Federal, a parte alega violação do art. 59 do Código Penal, ao argumento de que a "premeditação do crime é um elemento inerente ao crime de homicídio, portanto, não deve ser valorada negativamente" e que "o fato do crime ter sido praticado em uma casa de Show não é motivo determinante para que a circunstância seja valorada negativamente. Com relação a recorrente ter lesionado um amigo da vítima, este não deveria ser tratado nesta circunstâncias" (fl. 474). Pleiteou a decretação de "nulidade da decisão combatida" (fl. 475).
+Contrarrazões a fls. 484/491.
+O recurso especial foi admitido às fls. 501/502.
+Interposto agravo em recurso especial (fls. 513/520), que não foi conhecido (fls. 529/532).
+O Ministério Público Federal manifestou-se pelo não provimento do recurso especial (fls. 545/547).
+Interposto, outrossim, recurso extraordinário (fls. 476/482), ao qual foi negado seguimento (fls. 503/504). Interposto agravo (fls. 505/512).
+É o relatório.
+Decido.
+Preliminarmente, anota-se que não restou demonstrado dissídio jurisprudencial por falta de cotejo analítico entre paradigma e o acórdão recorrido, devendo ser o recurso especial conhecido apenas sob a perspectiva do art. 105, III, "a", da Constituição Federal.
+Neste ponto, preenchidos os requisitos formais, passo ao exame do recurso especial.
+Ao julgador é atribuída certa discricionariedade para, à vista das circunstâncias do caso concreto, fixar a pena e o seu modo de cumprimento. Tal liberdade - por certo regrada no âmbito de Estado Democrático de Direito - visa assegurar a razoabilidade da sanção penal, de maneira a atender às finalidades axiológicas da resposta penal, seja no caráter geral preventivo, seja na perspectiva especial retributiva e ressocializadora.
+Não obstante, evidenciado equívoco patente das instâncias ordinárias na concretização da reprimenda, está legitimado o exercício excepcional da jurisdição desta Corte Superior para a adequação da pena à legislação nacional.
+No caso, acerca da controvérsia dos autos, a sentença fixou a seguinte pena-base (fl. 372):
+ ..  Considerando o que determina o Artigo 59 do Código Penal Brasileiro, a CULPABILIDADE da ré é reprovável na medida em que consta que teria agido de forma premeditada, pois já teria chego com a faca à Casa de Show Taperebá. Constato que a ré é PRIMÁRIA, conforme certidão nos autos. Sua CONDUTA SOCIAL considero normal. Não há elementos nos autos que permitam aferir sua PERSONALIDADE. Os MOTIVOS constituem qualificadoras já apreciadas pelo Conselho de Sentença. As CIRCUNSTÂNCIAS são desfavoráveis a ré, na medida em que cometeu o crime em ambiente festivo, qual seja, Casa de Show Taperebá, bem como teria lesionado o amigo da vítima de nome THIAGO, consoante relatos da vítima nesta assentada e fotos constantes da pág. 5 do IS 39348508. As CONSEQUÊNCIAS do crime são desfavoráveis, tendo em vista que deixou grave dano estético no rosto da vítima, o braço esquerdo da vítima teria ficado com debilidade e, ainda, pelo fato da vítima não querer sair de casa, em razão das lesões sofridas no rosto, conforme se depreende das fotografias constantes dos autos. O COMPORTAMENTO DA VÍTIMA não contribuiu para o ocorrido.
+Posto isso, fixo a PENA BASE em 18 anos e 09 meses de RECLUSÃO. ..  (grifamos)
+Por sua vez, o Tribunal de origem manifestou-se nos seguintes termos (fls. 466/468):
+ ..  A pena base foi fixada pelo MM. Juízo a quo em 18 (dezoito) anos e 09 (nove) meses de reclusão, considerando como negativas as circunstâncias referentes à culpabilidade, circunstâncias e consequências do crime, as quais mantenho diante da fundamentação adequada utilizada na sentença, bem como diante da adequação e proporcionalidade do quantum aplicado. ..
+Observa-se que o acórdão está em consonância com a jurisprudência desta Corte Superior, que no Tema 1.218 fixou as seguintes teses:
+1. A premeditação autoriza a valoração negativa da circunstância da culpabilidade prevista no art. 59 do Código Penal, desde que não constitua elementar ou seja ínsita ao tipo penal nem seja pressuposto para a incidência de circunstância agravante ou qualificadora;
+2. A exasperação da pena-base pela premeditação não é automática, reclamando fundamentação específica acerca da maior reprovabilidade da conduta no caso concreto.
+Verifica-se que a premeditação não é elementar nem inerente ao tipo penal e que a negativação da vetorial foi concretamente fundamentada. Na mesma linha, é fundamento idôneo para negativar a vetorial circunstâncias o fato de o crime ter sido cometido em ambiente festivo, com aglomeração de pessoas e lesionando terceiro. Nesse sentido:
+DIREITO PENAL. RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO TENTADO. DOSIMETRIA DA PENA. VALORAÇÃO NEGATIVA DAS CIRCUNSTÂNCIAS DO CRIME. FUNDAMENTAÇÃO CONCRETA. CRIME PRATICADO COM INTENSA FRIEZA E CARACTERÍSTICAS DE EXECUÇÃO. DISPARO EM VIA PÚBLICA NA PRESENÇA DE CENTENAS DE PESSOAS. ELEMENTOS QUE EXTRAPOLAM O TIPO PENAL. INCIDÊNCIA DA SÚMULA 83/STJ.
+Recurso especial não conhecido.
+(REsp n. 2.208.713/AL, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 10/9/2025, DJEN de 15/9/2025.)
+Portanto, não prospera o recurso defensivo.
+Ante o exposto, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
