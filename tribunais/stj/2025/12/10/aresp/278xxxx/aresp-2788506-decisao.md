@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que não admitiu o recurso especial pelo qual MAPFRE SEGUROS GERAIS S.A. se insurgira contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 844):
+ENERGIA ELÉTRICA. AÇÃO REGRESSIVA. Seguradora que pede reembolso das indenizações pagas pelos danos provocados nos equipamentos de seus segurados. Sentença de improcedência. Insurgência da autora. Alegação de falha do serviço público. Avaliação realizada unilateralmente por terceiros. Responsabilidade objetiva da concessionária, que não se nega, mas que depende de comprovação, pela parte interessada, do nexo causal existente entre a falha no fornecimento de energia e os supostos danos provocados nos aparelhos. Ausência de prova nesse sentido. Sentença mantida. Recurso desprovido.
+Os embargos de declaração opostos foram rejeitados (fls. 858/862).
+Em suas razões, a parte agravante requer o conhecimento do agravo a fim de que seja determinado o processamento do recurso especial.
+A parte adversa apresentou contraminuta (fls. 932/937).
+É o relatório.
+Da irresignação não é possível conhecer visto que a parte agravante não refutou adequadamente a decisão agravada.
+O Tribunal de origem não admitiu o recurso especial porque a divergência jurisprudencial não teria sido comprovada conforme os requisitos exigidos para tal.
+Confira-se este trecho da decisão de admissibilidade (fl. 921):
+O recurso não reúne condições de admissibilidade.
+O dissenso jurisprudencial - violação ao art. 373, II, do CPC - deve ser comprovado por certidão, ou cópia, ou citação do repositório de jurisprudência, oficial ou credenciado, inclusive em mídia eletrônica, em que tiver sido publicada a decisão divergente, ou ainda pela reprodução do julgado disponível na internet, com indicação da respectiva fonte, devendo ser demonstrado de forma analítica, mediante o confronto das partes idênticas ou semelhantes do V. Acórdão recorrido e daqueles eventualmente trazidos à colação, na forma exigida pelo artigo 1.029, §1º, do Código de Processo Civil, com a transcrição dos trechos que configurem o dissídio, mencionadas as circunstâncias que identifiquem ou assemelhem os casos confrontados (neste sentido, o Agravo em Recurso Especial 2007116/SP, Relatora Ministra Maria Isabel Gallotti, in DJe de 02.08.2022; o Agravo Interno no Agravo em Recurso Especial 1765086/SP, Relatora Ministra Assusete Magalhães, in DJe de 30.03.2022, e o Agravo em Recurso Especial 1999092/SP, Relator Ministro Mauro Campbell Marques, in D Je de 09.02.2022).
+Pelo exposto, INADMITO o recurso especial, com base no art. 1.030, V, do CPC.
+Nas razões do agravo em recurso especial, a parte recorrente alegou o seguinte (fls. 928/929):
+O acórdão recorrido perpetrou gravíssimo dissídio jurisprudencial ao aplicar ao caso concreto entendimento diverso do que vem sendo aplicado por outros tribunais, prejudicando, assim, a segurança jurídica.
+E a peça por onde foi manejado o recurso especial é capaz de demonstrar isso com clareza ímpar.
+Chamamos a atenção para os quadros comparativos na peça recursal (fls. 869/874).
+Nestes quadros, foi feita a confrontação de casa ponto do acórdão recorrido que é dissidente da jurisprudência consagrada noutros tribunais.
+Os quadros apontam de forma clara e didática o problema criado pelo acórdão recorrido, bem como a solução já existente no julgado paradigma, de modo que o recurso especial deve ser processado para sanar o dissídio jurisprudencial.
+Em momento algum a agravante se limitou a transcrever ementas, fato comprovado pelos quadros comparativos que confrontam os acórdãos paradigmas com o caso concreto.
+Outrossim, os acórdãos paradigmas foram extraídos dos sítios eletrônicos dos respectivos tribunais que os proferiram, neles constando o número de processos que comprova sua extração de fonte oficial e fidedigna.
+A agravante realizou o cotejo analítico apontando os pontos da decisão recorrida que divergem com a jurisprudência esposada nos tribunais pátrios.
+Logo, temos a convicção de que o dissídio foi suficientemente demonstrado através da confrontação dos pontos controvertidos nos julgados paradigmas.
+Assim, o recurso especial preenche todos os requisitos de admissão e merece o processamento para posterior análise pelo colendo STJ, uma vez que está demonstrado o dissídio jurisprudencial.
+Constata-se que a parte agravante não demonstrou de que forma atendera aos requisitos legais e regimentais para fins de demonstração do dissídio jurisprudencial suscitado, cingindo-se a sustentar que eles foram observados no recurso especial.
+O objetivo do agravo em recurso especial é o de desconstituir a decisão de inadmissão do recurso especial, sendo, por isso, imprescindível a impugnação específica de todos os fundamentos nela lançados com o fim de demonstrar o seu desacerto, o que, como se vê, não foi feito no presente caso.
+Dessa forma, por faltar impugnação pertinente, aplico ao presente caso, por analogia, a Súmula 182 do Superior Tribunal de Justiça, segundo a qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Na mesma linha:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ. AGRAVO INTERNO DA FAZENDA NACIONAL NÃO CONHECIDO.
+1. A parte agravante deve infirmar os fundamentos da decisão impugnada, mostrando-se inadmissível o recurso que não se insurge contra todos eles - Súmula 182 do Superior Tribunal de Justiça.
+2. Em análise do Agravo Interno interposto, tem-se que a parte agravante não rebateu todos fundamentos da decisão que conheceu do Agravo para conhecer em parte e negar provimento ao Recurso Especial, pois deixou de se manifestar acerca da incidência das Súmulas 282 e 356/STF.
+3. Por fim, há de se registrar a necessidade de impugnação devida e específica de todos os fundamentos da decisão agravada, mesmo que sejam distintos e independentes entre si.
+4. Agravo Interno da FAZENDA NACIONAL não conhecido.
+(AgInt no AREsp n. 1.616.546/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 22/6/2020, DJe de 29/6/2020.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, TODOS OS FUNDAMENTOS DA DECISÃO QUE NÃO ADMITIU O RECURSO ESPECIAL. ART. 932, III, DO CPC/2015 E SÚMULA 182/STJ, POR ANALOGIA. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+II. Incumbe ao agravante infirmar, especificamente, todos os fundamentos da decisão que inadmitiu o Recurso Especial, demonstrando o seu desacerto, de modo a justificar o processamento do apelo nobre, sob pena de não ser conhecido o Agravo (art. 932, III, do CPC vigente). Nesse sentido: STJ, AgRg no AREsp 704.988/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 10/09/2015; EDcl no AREsp 741.509/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 16/09/2015; AgInt no AREsp 888.667/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 18/10/2016; AgInt no AREsp 895.205/PB, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 20/10/2016; AgInt no AREsp 800.320/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 13/10/2016; EAREsp 701.404/SC, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe de 30/11/2018; EAREsp 831.326/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe de 30/11/2018; EAREsp 746.775/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe de 30/11/2018.
+III. No caso, por simples cotejo entre o decidido e as razões do Agravo em Recurso Especial verifica-se a ausência de impugnação específica de todos os fundamentos da decisão que, em 2º Grau, inadmitira o Especial, o que atrai a aplicação do disposto no art. 932, III, do CPC/2015 - vigente à época da publicação da decisão então agravada e da interposição do recurso -, que faculta ao Relator "não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida", bem como do teor da Súmula 182 do Superior Tribunal de Justiça, por analogia.
+IV. Agravo interno improvido.
+(AgInt no AREsp 1.503.814/MA, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 17/10/2019, DJe de 28/10/2019.)
+Ante o exposto, não conheço do agravo em recurso especial.
+Majoro em 10% (dez por cento), em desfavor da parte recorrente, o valor dos honorários sucumbenciais já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos no § 2º desse dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+ EMENTA
