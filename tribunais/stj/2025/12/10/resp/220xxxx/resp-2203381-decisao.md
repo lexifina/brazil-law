@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto por Odontologia Sapata Ltda, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal (CF), no qual se insurge contra o acórdão do Tribunal Regional Federal da 4ª Região (TRF4) assim ementado (fls. 225/227):
+TRIBUTÁRIO. IRPJ E CSLL COM ALÍQUOTA REDUZIDA. "SERVIÇOS HOSPITALARES". CLÍNICA ODONTOLÓGICA.
+1. Tratando-se de clínica odontológica, o entendimento  rmado por esta Corte em sede de incidente de assunção de competência é de que "As atividades de clínica odontológica não se enquadram no conceito de serviços hospitalares para efeitos de redução na alíquota de tributos, constante do artigo 5, § 1º, inciso III, da Lei 9.249/95." IAC 5050534-39.2022.4.04.0000/RS
+2. Apelo e remessa oficial providos.
+A parte recorrente alega violação dos arts. 15, § 1º, inciso III, alínea a, e 20, ambos da Lei 9.249/1995, pois entende que presta serviços de natureza hospitalar (procedimentos odontológicos cirúrgicos e afins) que se vinculam às atividades desenvolvidas por hospitais e, por isso, faz jus à base de cálculo reduzida do Imposto sobre a Renda das Pessoas Jurídicas (IRPJ) e da Contribuição Social sobre o Lucro Líquido (CSLL) de 8% e 12% sobre a receita bruta, respectivamente (fls. 242/253).
+Sustenta ofensa ao art. 927, inciso III, do Código de Processo Civil (CPC), ao argumento de que o acórdão do TRF4 deixou de observar a tese firmada no Tema 217 do Superior Tribunal de Justiça (STJ), oriunda do Recurso Especial 1.116.399/BA, que definiu interpretação objetiva para a expressão "serviços hospitalares" e dispensou a exigência de estrutura para internação (fls. 244/256).
+Contrarrazões apresentadas às fls. 274/283.
+O recurso foi inicialmente inadmitido (fls. 286/288), tendo sido interpostos agravo em recurso especial (fls. 299/308) e agravo interno (fls. 309/315).
+Determinada a devolução para eventual juízo de retratação (fls. 328/331), foi mantido o entendimento estabelecido no acórdão (fls. 340/342)
+Em novo juízo de admissibilidade, o recurso especial foi admitido (fls. 355/356)
+É o relatório.
+Na origem cuida-se de mandado de segurança, que busca reconhecer o direito de apurar e recolher o IRPJ e a CSLL, no lucro presumido, com base reduzida de 8% e 12% sobre a receita bruta de serviços hospitalares.
+O acórdão recorrido (fls. 225/227), ratificado às fls. 340/342, estabeleceu:
+Após alguma oscilação, a jurisprudência deste Tribunal passou a decidir no sentido que as empresas que atuam em serviços relacionados com a odontologia não podem ser equiparadas àquelas que prestam serviços hospitalares, não se aplicando a elas a orientação do Tema 217 do STJ.
+Em recente decisão, proferida em sede de Incidente de Assunção de Competência, a 1ªSeção desta Corte assim decidiu:
+INCIDENTE DE ASSUNÇÃO DE COMPETÊNCIA. DIREITO TRIBUTÁRIO. SERVIÇOS HOSPITALARES. IRPJ E CSLL. ALIQUOTA REDUZIDA. NATUREZA DO SERVIÇO PRESTADO. LEI 9.249/95. INTERPRETAÇÃO RESTRITIVA.
+As atividades de clínica odontológica não se enquadram no conceito de serviços hospitalares para efeitos de redução na alíquota de tributos, constante do artigo 5, § 1º, inciso III, da Lei 9.249/95. (IAC 5050534-39.2022.4.04.0000/RS)
+O artigo 927 do CPC é expresso quanto à determinação de que os Tribunais devem observar (i) as decisões do Supremo Tribunal Federal em controle concentrado de constitucionalidade; (ii) os enunciados de súmula vinculante; (iii) os acórdãos em incidente de assunção de competência ou de resolução de demandas repetitivas e em julgamento de recursos extraordinário e especial repetitivos; (iv) os enunciados das súmulas do Supremo Tribunal Federal em matéria constitucional e do Superior Tribunal de Justiça em matéria infraconstitucional; e (v) a orientação do plenário ou do órgão especial aos quais estiverem vinculados.
+Assim, é caso de prover o apelo da União e a remessa oficial, para o fim de denegar a segurança postulada.
+Preliminarmente, afasto a aplicabilidade da Súmula 7 do Superior Tribunal de Justiça (STJ), por considerar que a recorrente não almeja o reexame de prova, mas, tão somente, sua revaloração.
+Destaco, ainda, estar consignado no acórdão recorrido que "a parte autora tem atuação na área odontológica. Do seu contrato social consta a seguinte cláusula (evento 1, CONTRSOCIAL3): Cláusula Segunda - A sociedade tem por objetivo o ramo de: "PRESTAÇÃO DE SERVIÇOS EM ATENDIMENTO ODONTOLÓGICO" (fl. 226).
+Ademais, ficou consignado na sentença que "a parte impetrante, além consultas odontológicas e procedimentos simples, de natureza clínico-ambulatorial, presta serviços cirurgia oral menor, endodontia, prótese dentária, implantodontia e ortopedia funcional dos maxilares (Evento 1, CONTRSOCIAL7)" (fl. 158).
+Nesse contexto, a conclusão adotada pelo Tribunal de origem está em desconformidade com a orientação jurisprudencial do STJ de que as sociedades civis prestadoras de serviços odontológicos e de intervenções cirúrgicas maxilofaciais insertas nas atividades de natureza hospitalar (AgInt no REsp n. 2.096.670/SC, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 30/10/2023, DJe de 3/11/2023; AgInt nos EDcl no REsp n. 2.068.330/PR, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 4/12/2023, DJe de 11/12/2023).
+No mesmo sentido:
+DIREITO TRIBUTÁRIO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. IRPJ. CSLL. REDUÇÃO DE ALÍQUOTA. PRESTAÇÃO DE SERVIÇOS HOSPITALARES. BENEFÍCIO FISCAL. PROVIMENTO NEGADO.
+1. A Primeira Seção do Superior Tribunal de Justiça (STJ), em julgamento de recursos repetitivos, firmou o entendimento de que "serviços hospitalares" devem ser interpretados de forma objetiva, considerando a natureza do serviço prestado. Nos termos da jurisprudência desta Corte Superior, entende-se, ainda, que serviços odontológicos com intervenções cirúrgicas se enquadram no conceito de "serviços hospitalares".
+2. Ainda nos termos da jurisprudência do STJ, após a Lei 11.727/2008, o contribuinte deve estar constituído como sociedade empresária e atender às normas da Agência Nacional de Vigilância Sanitária (ANVISA) para concessão do benefício.
+3. Partindo da premissa fática estabelecida pela instância ordinária, há que se reconhecer que os serviços prestados pela recorrente possuem natureza hospitalar para fins de enquadramento no art. 15, inciso III, alínea a, da Lei 9.249/1995, dada a necessidade de intervenção cirúrgica. Determinado o retorno dos autos à instância ordinária a fim de que seja analisado o preenchimento dos demais requisitos para o gozo do benefício de que trata o art. 15, § 1º, inciso III, da Lei 9.249/1995.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.301.622/RS, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 18/11/2024, DJe de 22/11/2024.)
+Ante o exposto, conheço do recurso especial e lhe dou provimento para restabelecer a sentença de fls. 155/161.
+Publique-se. Intimem-se.
+EMENTA
