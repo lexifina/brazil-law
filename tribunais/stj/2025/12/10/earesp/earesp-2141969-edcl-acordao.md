@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em Sessão Virtual de 04/12/2025 a 10/12/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva, Moura Ribeiro, Daniela Teixeira, Nancy Andrighi, João Otávio de Noronha, Humberto Martins e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Marco Buzzi.
+EMENTA
+EMBARGOS  DE  DECLARAÇÃO.  AGRAVO  INTERNO.  EMBARGOS  DE  DIVERGÊNCIA.  OMISSÃO.  NÃO  EXISTÊNCIA.  EMBARGOS  REJEITADOS.
+1.  Os  embargos  de  declaração  só  se  prestam  a  sanar  obscuridade,  omissão  ou  contradição  porventura  existentes  no  acórdão,  não  servindo  à  rediscussão  da  matéria  já  julgada  no  recurso.
+2.  Embargos  de  declaração  rejeitados.
+RELATÓRIO
+Trata-se  de  embargos  de  declaração  opostos  por  HELENAURA  PEREIRA  MACHADO  CARVALHAIS  contra  acórdão  da  Quarta  Turma  que  negou  provimento  ao  agravo  interno  (fls.  1008/1010,  e-STJ):
+PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NOS  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AUSÊNCIA  DE  IMPUGNAÇÃO  DOS  FUNDAMENTOS  DO  ACÓRDÃO  RECORRIDO.  SÚMULA  N.  283/STF.  FALTA  DE  PREQUESTIONAMENTO.  SÚMULA  N.  211  DO  STJ.  DEFICIÊNCIA  DE  FUNDAMENTAÇÃO  DO  RECURSO.  SÚMULA  N.  284  DO  STF.  REEXAME  DO  CONJUNTO  FÁTICO-PROBATÓRIO  DOS  AUTOS.  INADMISSIBILIDADE.  INCIDÊNCIA  DA  SÚMULA  N.  7/STJ.  DECISÃO  MANTIDA.  1.  O  recurso  especial  que  não  impugna  fundamento  do  acórdão  recorrido  suficiente  para  mantê-lo  não  deve  ser  admitido,  a  teor  da  Súmula  n.  283/STF.  2.  A  simples  indicação  dos  dispositivos  legais  tidos  por  violados,  sem  enfrentamento  do  tema  pelo  acórdão  recorrido,  obsta  o  conhecimento  do  recurso  especial,  por  falta  de  prequestionamento  (Súmula  n.  211  do  STJ).  3.  Considera-se  deficiente,  a  teor  da  Súmula  n.  284  do  STF,  a  fundamentação  recursal  que  alega  violação  de  dispositivo  legal  cujo  conteúdo  jurídico  é  dissociado  da  tese  defendida  no  recurso  especial.  4.  O  recurso  especial  não  comporta  exame  de  questões  que  impliquem  revolvimento  do  contexto  fático-probatório  dos  autos  (Súmula  n.  7  do  STJ).  5.  Agravo  interno  a  que  se  nega  provimento.
+A  embargante,  em  suas  razões,  alega  que  há  omissão  no  acórdão  recorrido.  Aduz  que  o  acórdão  embargado  "(..)  foi  omisso  ao  não  verificar  se  houve  a  análise  da  abordagem  da  controvérsia  recursal  no  julgamento  do  recurso  especial".
+A  parte  embargada,  devidamente  intimada,  pediu  a  rejeição  dos  embargos  de  declaração  (fls.  1019/1022,  e-STJ).
+É  o  relatório.
+EMENTA
+EMBARGOS  DE  DECLARAÇÃO.  AGRAVO  INTERNO.  EMBARGOS  DE  DIVERGÊNCIA.  OMISSÃO.  NÃO  EXISTÊNCIA.  EMBARGOS  REJEITADOS.
+1.  Os  embargos  de  declaração  só  se  prestam  a  sanar  obscuridade,  omissão  ou  contradição  porventura  existentes  no  acórdão,  não  servindo  à  rediscussão  da  matéria  já  julgada  no  recurso.
+2.  Embargos  de  declaração  rejeitados.
+VOTO
+A  irresignação  não  merece  acolhida.
+A  decisão  recorrida  deve  ser  mantida  pelos  seus  próprios  fundamentos.  Estão  ausentes  os  pressupostos  que  dariam  ensejo  à  oposição  dos  embargos  de  declaração.  Não  há  vícios  a  serem  sanados.
+A  embargante  pretende  distorcer  o  julgado,  a  fim  de  obter  solução  diversa.  Em  julgamento  recente,  a  Corte  Especial  definiu  que  "(..)  não  cabem  embargos  de  divergência  com  a  finalidade  de  discutir  eventual  equívoco  quanto  ao  exame  dos  requisitos  de  admissibilidade  de  recurso  especial,  tais  como  aqueles  referentes  à  deficiência  de  fundamentação,  ausência  de  prequestionamento,  ao  reexame  de  provas,  à  necessidade  de  interpretação  de  cláusulas  contratuais"  (AgInt  nos  EAREsp  n.  1.924.581/MG,  relator  Ministro  Mauro  Campbell  Marques,  Corte  Especial,  julgado  em  13/6/2023,  DJe  de  16/6/2023).
+O  recurso  especial  não  foi  admitido  nas  instâncias  de  origem.  Interposto  agravo  em  recurso  especial,  a  Quarta  Turma  negou  seguimento.  Portanto,  não  houve  análise  da  controvérsia  recursal.  Inclusive,  no  caso,  incide  o  óbice  da  Súmula  315/STJ:  "não  cabem  embargos  de  divergência  no  âmbito  do  agravo  de  instrumento  que  não  admite  recurso  especial".
+O  acórdão  embargado  não  é  omisso.  Portanto,  deve  ser  mantido  por  seus  próprios  fundamentos.  Não  há  vícios  a  serem  sanados.  A  solução  prestigiada  não  corresponder  à  almejada  pela  embargante  não  torna  o  acórdão  omisso  ou  nulo.  A  embargante  pretende,  sob  o  pretexto  de  existência  de  omissão  e  de  contradição,  o  novo  julgamento  da  causa.  Os  embargos  de  declaração,  entretanto,  não  se  prestam  a  esta  finalidade.  Servem  para  suprimento  de  omissões  e  esclarecimento  de  dúvidas  e  contradições  do  julgado,  se  existentes  tais  vícios.
+Por  fim,  advirto  à  parte  embargante  que  a  reiteração  das  razões  já  expressamente  analisadas  implicará  o  reconhecimento  de  comportamento  protelatório.
+Em  face  do  exposto,  rejeito  os  embargos  de  declaração.
+É  como  voto.
