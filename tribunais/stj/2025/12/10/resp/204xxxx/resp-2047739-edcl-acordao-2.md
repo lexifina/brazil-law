@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/12/2025 a 10/12/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Carlos Pires Brandão, Og Fernandes, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. CONTRADIÇÃO. INEXISTÊNCIA. REDISCUSSÃO DO JULGADO. IMPOSSIBILIDADE. PREQUESTIONAMENTO PARA FINS DE INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. INVIABILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos declaratórios não se prestam à rediscussão dos julgados, mas somente ao exame de eventuais erros no provimento judicial que demandem reparo, com o objetivo de tornar as manifestações jurisdicionais coerentes, íntegras e exaurientes.
+2. No caso, o acórdão embargado foi claro ao consignar a impossibilidade de conhecimento do agravo regimental anteriormente interposto, uma vez que a ora embargante, outrora agravante, olvidou-se de impugnar especificamente os fundamentos da decisão monocrática por meio da qual não se conheceu do recurso especial, circunstância que atraiu o óbice da Súmula n. 182/STJ.
+3. "É defeso a esta Corte Superior de Justiça levar a efeito exame de pretensa afronta a dispositivos constitucionais em sede de recurso especial, mesmo com o fito de prequestionamento, sob pena de usurpação da competência do Supremo Tribunal Federal" (EDcl nos EDcl no AgRg nos EDcl no AREsp n. 2.466.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 3/9/2025, DJEN de 9/9/2025).
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de embargos de declaração opostos por JANEMEIRE DE OLIVEIRA MORAIS contra o acórdão de e-STJ fls. 2.147/2.154, por meio do qual a Sexta Turma não conheceu do agravo regimental anteriormente interposto, nos termos da seguinte ementa:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE NÃO CONHECEU DO RECURSO ESPECIAL. SÚMULA N. 182/STJ. INCIDÊNCIA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Ausente a impugnação específica dos fundamentos da decisão que não conheceu do recurso especial, não se pode conhecer do agravo regimental, em razão do óbice previsto na Súmula n. 182 deste Tribunal Superior.
+2. Agravo regimental não conhecido.
+Neste recurso, sustenta a embargante a existência do vício de contradição no acórdão embargado, uma vez que teria atacado, nas razões do agravo regimental anteriormente interposto, os fundamentos da decisão que não conheceu do recurso especial.
+Reitera, no mais, os argumentos relativos ao mérito do recurso especial concernentes: a) à violação ao princípio da indivisibilidade (e-STJ fls. 2.164/2.166); b) à ausência de demonstração de dolo da recorrente e condenação por responsabilidade objetiva (e-STJ fls. 2.166/2.168); c) ao erro de tipificação (e-STJ fls. 2.168/2.170); e d) ao bis in idem e à desproporcionalidade ocorridos na dosimetria da pena (e-STJ fls. 2170/2173).
+Requer, ao final, o acolhimento do presente recurso a fim de reconhecer a contradição apontada, com manifestação sobre a alegada ausência de prestação jurisdicional para fins de prequestionamento.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. CONTRADIÇÃO. INEXISTÊNCIA. REDISCUSSÃO DO JULGADO. IMPOSSIBILIDADE. PREQUESTIONAMENTO PARA FINS DE INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. INVIABILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos declaratórios não se prestam à rediscussão dos julgados, mas somente ao exame de eventuais erros no provimento judicial que demandem reparo, com o objetivo de tornar as manifestações jurisdicionais coerentes, íntegras e exaurientes.
+2. No caso, o acórdão embargado foi claro ao consignar a impossibilidade de conhecimento do agravo regimental anteriormente interposto, uma vez que a ora embargante, outrora agravante, olvidou-se de impugnar especificamente os fundamentos da decisão monocrática por meio da qual não se conheceu do recurso especial, circunstância que atraiu o óbice da Súmula n. 182/STJ.
+3. "É defeso a esta Corte Superior de Justiça levar a efeito exame de pretensa afronta a dispositivos constitucionais em sede de recurso especial, mesmo com o fito de prequestionamento, sob pena de usurpação da competência do Supremo Tribunal Federal" (EDcl nos EDcl no AgRg nos EDcl no AREsp n. 2.466.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 3/9/2025, DJEN de 9/9/2025).
+4. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Conforme remansosa jurisprudência desta Corte, os embargos declaratórios não se prestam à rediscussão dos julgados, mas somente ao exame de eventuais erros no provimento judicial que demandem reparo, com o objetivo de tornar as manifestações jurisdicionais coerentes, íntegras e exaurientes.
+No caso, o acórdão aqui embargado foi absolutamente claro ao consignar a impossibilidade de conhecimento do agravo regimental, uma vez que a ora embargante olvidou-se de impugnar especificamente os fundamentos da decisão monocrática por meio da qual não se conheceu do recurso especial.
+Com efeito, na decisão monocrática agravada, asseverei a impossibilidade de conhecimento do apelo nobre, em razão dos seguintes fundamentos: a) Súmula n. 7/STJ; Súmula n. 284/STF; impossibilidade de análise, em recurso especial, de violação a dispositivo constitucional; e Súmula n. 83/STJ (quanto à alegação de nulidade dos atos processuais por violação ao princípio da indivisibilidade e inépcia da denúncia); b) Súmula n. 7/STJ e impossibilidade de análise, em recurso especial, de violação a dispositivo constitucional (quanto à alegação de ausência de demonstração de dolo e erro na tipificação da conduta); c) ausência de prequestionamento (quanto à alegação de violação ao art. 59 do Código Penal); e d) óbice à análise da divergência jurisprudencial por óbice ao conhecimento ao apelo nobre interposto com fundamento na alínea a e Súmula n. 284/STF.
+Ocorre que a ora embargante, outrora agravante, limitou-se a afirmar, nas razões do agravo regimental, não ser o caso de incidência da Súmula n. 7/STJ, bem como que não haveria óbice por ausência de prequestionamento em relação à dosimetria, deixando de impugnar de maneira específica os fundamentos da decisão monocrática proferida nesta Corte Superior, circunstância que atraiu o óbice da Súmula n. 182/STJ.
+Portanto, percebe-se que não há nenhuma contradição no acórdão embargado, revelando-se os presentes embargos como mera irresignação da parte com o resultado do julgamento, já que a defesa claramente pretende a análise do mérito do recurso especial que nem sequer ultrapasso u a barreira do conhecimento.
+No mais, como é cediço, " é  defeso a esta Corte Superior de Justiça levar a efeito exame de pretensa afronta a dispositivos constitucionais em sede de recurso especial, mesmo com o fito de prequestionamento, sob pena de usurpação da competência do Supremo Tribunal Federal" (EDcl nos EDcl no AgRg nos EDcl no AREsp n. 2.466.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 3/9/2025, DJEN de 9/9/2025 ).
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
