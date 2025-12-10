@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em Sessão Virtual de 04/12/2025 a 10/12/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva, Moura Ribeiro, Daniela Teixeira, Nancy Andrighi, João Otávio de Noronha, Humberto Martins e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Marco Buzzi.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. OMISSÃO OU CONTRADIÇÃO. NÃO CARACTERIZADA. PRETENSÃO DE REJULGAMENTO DA CAUSA. ACÓRDÃO MANTIDO. EMBARGOS REJEITADOS.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por LUIS FERNANDO DA SILVEIRA contra acórdão da Segunda Seção que negou provimento ao agravo interno (fls. 898/903, e-STJ):
+AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. APLICAÇÃO DE REGRAS TÉCNICAS DE ADMISSIBILIDADE DO RECURSO ESPECIAL. ANÁLISE DA CONTROVÉRSIA. NÃO OCORRÊNCIA. SÚMULA 315, STJ. AUSÊNCIA DE SIMILITUDE FÁTICO-JURÍDICA. AGRAVO INTERNO NÃO PROVIDO. 1. Não cabe, em embargos de divergência, reexaminar os pressupostos de conhecimento do recurso especial, para extrair conclusão diversa a respeito da incidência de óbices. 2. "A ausência de similitude fático-jurídica entre os acórdãos confrontados impede o conhecimento dos embargos de divergência, que têm como escopo único uniformizar a jurisprudência do Tribunal, não se prestando para ser utilizado como via de rejulgamento do Recurso Especial" (STJ, AgInt nos EREsp n. 1.565.059/ES, relatora Ministra REGINA HELENA COSTA, PRIMEIRA SEÇÃO, julgado em 20/9/2022, DJe de 23/9/2022). 3. Agravo interno ao qual se nega provimento.
+A embargante, em suas razões, alega que há vícios no acórdão recorrido. Aduz que, diferente do que constou, o recurso especial foi parcialmente conhecido. Acerca da ausência de similitude entre o acórdão embargado e o acórdão paradigma, sustenta que não se exige a semelhança entre as matérias de fundo, bastando que a questão processual seja idêntica.
+A parte embargada, devidamente intimada, pugnou pela rejeição dos embargos de declaração (fls. 916/923, e-STJ).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. OMISSÃO OU CONTRADIÇÃO. NÃO CARACTERIZADA. PRETENSÃO DE REJULGAMENTO DA CAUSA. ACÓRDÃO MANTIDO. EMBARGOS REJEITADOS.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+2. Embargos de declaração rejeitados.
+VOTO
+A irresignação não merece acolhida.
+A decisão recorrida deve ser mantida pelos seus próprios fundamentos. Estão ausentes os pressupostos que dariam ensejo à oposição dos embargos de declaração. Não há vícios a serem sanados.
+A embargante pretende distorcer o julgado, a fim de obter solução diversa. A parte não apresenta fundamentação clara acerca da sua pretensão e, ao mesmo tempo, não impugna os fundamentos que levaram ao indeferimento dos embargos de divergência. A admissão parcial do recurso especial e a ofensa à Súmula 315/STJ foram tratadas no acórdão embargado.
+O embargante pretende discutir os critérios de admissibilidade do recurso especial. Aduz que não incidiria o óbice da Súmula 7/STJ, pois o que se pretende é a revaloração do contexto fático. Não cabe, contudo, a análise do mérito da causa em sede de embargos de divergência.
+Ademais, não está demonstrada a similitude fática e jurídica entre o acórdão embargado e o acórdão paradigma. Diversamente do que sustenta o embargante, exige-se a similitude não só da questão processual em análise, mas de todo o contexto fático. Conforme entendimento desta Corte, "(..)os Embargos de Divergência possuem a finalidade de uniformizar a jurisprudência do Tribunal mediante o inarredável pressuposto de que, diante da mesma premissa fática, os órgãos julgadores tenham adotado soluções jurídicas conflitantes. Tal recurso não pode ser utilizado como meio de revisão de possível premissa equivocada do acórdão embargado, o que poderia, em tese, modificar a conclusão nele assentada" (AgRg nos EREsp n. 1.311.156/SE, relator Ministro Herman Benjamin, Corte Especial, julgado em 17/4/2013, DJe de 10/5/2013).
+O acórdão embargado não é omisso ou contraditório e deve ser mantido por seus próprios fundamentos. Não há vícios a serem sanados. A solução prestigiada não corresponder à almejada pelo embargante não torna o acórdão eivado de vícios. A embargante pretende, sob o pretexto de existência de vícios, o novo julgamento da causa. Os embargos de declaração, entretanto, não se prestam a esta finalidade. Servem para suprimento de omissões e esclarecimento de dúvidas e contradições do julgado, se existentes tais vícios:
+PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS NO AGRAVO INTERNO NOS EMBARGOS DECLARATÓRIOS NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. SERVIDORA PÚBLICA REMOVIDA CONTRA A SUA VONTADE. ACÓRDÃO RECORRIDO QUE CONCLUIU PELA INOCORRÊNCIA DE DANOS MORAIS. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO CARACTERIZADO PELAS MESMAS RAZÕES QUE INVIABILIZARAM O RECURSO PELA ALÍNEA A DO PERMISSIVO CONSTITUCIONAL. AGRAVO INTERNO IMPROVIDO. EMBARGOS DE DECLARAÇÃO. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. VÍCIOS INEXISTENTES. INCONFORMISMO. REJEIÇÃO DOS EMBARGOS DE DECLARAÇÃO.
+( )
+II. O voto condutor do acórdão embargado apreciou fundamentadamente, de modo coerente e completo, todas as questões necessárias à solução da controvérsia, negando provimento ao Agravo interno, pela inexistência da alegada violação ao art. 1.022 do CPC/2015, pela incidência da Súmula 7/STJ e pelo não cabimento do Recurso Especial, com base no dissídio jurisprudencial (alínea c), em face das mesmas razões que inviabilizaram o conhecimento do apelo pela alínea a do permissivo constitucional.
+III. Inexistindo, no acórdão embargado, omissão, contradição, obscuridade ou erro material, nos termos do art. 1.022 do CPC vigente, não merecem ser acolhidos os Embargos de Declaração, que, em verdade, revelam o inconformismo da parte embargante com as conclusões do decisum.
+IV. Embargos de Declaração rejeitados.
+(EDcl no AgInt nos EDcl no AREsp 1321153/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 13/5/2019).
+Por fim, advirto à parte embargante que a reiteração das razões já expressamente analisadas implicará o reconhecimento de comportamento protelatório.
+Em face do exposto, rejeito os embargos de declaração.
+É como voto.
