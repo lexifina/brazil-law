@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto por INOCENCIO DIAS CORREA contra a decisão proferida pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS que inadmitiu o recurso especial por ele interposto contra o acórdão prolatado nos autos da Apelação Criminal n. 1.0000.23.316079-5/003.
+No recurso especial, a defesa requereu, em síntese, a aplicação da fração em seu grau máximo da causa de diminuição da tentativa, em razão de não ter o recorrente atingido a vítima com os disparos (tentativa branca), apontando violação do art. 14, II, do Código Penal (fls. 1.629/1.634).
+Inadmitido o recurso na origem (fls. 1.644/1.646), subiram os autos ao Superior Tribunal de Justiça por meio do presente agravo (fls. 1.652/1.659).
+O Ministério Público Federal opinou pelo conhecimento do agravo para não conhecer do recurso especial (fls. 1.684/1.686).
+É o relatório.
+O agravo preenche os requisitos de admissibilidade, pois é tempestivo e impugnou os fundamentos da decisão de inadmissão.
+Por outro lado, o recurso é manifestamente inadmissível.
+A Corte de origem, no julgamento da apelação, concluiu que há prova de que o acusado desferiu quatros disparos de arma de fogo contra a vítima, atingindo-lhe de raspão, de modo que praticamente todo o iter crimininis foi percorrido pelo réu, razão pela qual se mostrou correta a redução da pena intermediária em 1/2.
+Por oportuno, confiram-se os seguintes excertos (fl. 1.620 - grifo nosso):
+Sabe-se que para a fixação do quantum de redução, deve-se levar em consideração o iter criminis percorrido, pelo que, quanto mais próximo da consumação, menor será a fração de redução, e vice versa.
+Infere-se dos autos que o acusado desferiu quatro disparos de arma de fogo contra a vítima, atingindo-lhe de raspão, sendo certo que o delito não se consumou por circunstâncias alheias à vontade do apelante, vez que a vítima conseguiu fugir e pedir ajuda à polícia militar que estava em patrulhamento nas imediações.
+A dinâmica dos fatos demonstra que praticamente todo iter criminis foi percorrido pelo apelante. Logo, tendo o agente cumprido grande parte dos atos executórios, fica impedida a pretendida aplicação da fração máxima de 2/3 (dois terços). Desse modo, prestigio a redução na fração intermediária de 1/2 (metade), tal como aplicada pelo juízo de origem, não merecendo qualquer reparo a pena fixada, que se concretizou no patamar de 14 (quatorze) de reclusão.
+Tal o contexto, alterar a conclusão do acórdão recorrido, no sentido de que a vítima foi atingida de raspão, como pretende o agravante, afirmando que nenhum disparo a atingiu (tentativa branca), inexoravelmente, demanda o revolvimento do substrato fático-probatório carreado aos autos, o que encontra óbice na Súmula 7/STJ.
+Nesse sentido:
+PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO TENTADO. PENA-BASE. FUNDAMENTAÇÃO IDÔNEA. PROPORCIONALIDADE. OCORRÊNCIA DA DISSIMULAÇÃO. COMPETÊNCIA DO TRIBUNAL DO JÚRI. VERIFICAÇÃO. SÚMULA 7/STJ. CONCURSO ENTRE AGRAVANTE E ATENUANTE. CONFISSÃO. PREPONDERÂNCIA SOBRE A DISSIMULAÇÃO. FRAÇÃO DE ATENUAÇÃO DE 1/12. TENTATIVA, FRAÇÃO UTILIZADA. ITER CRIMINIS PERCORRIDO. SÚMULA 7/STJ. LEGALIDADE NA FIXAÇÃO DO REGIME MAIS GRAVOSO. CIRCUNSTÂNCIAS JUDICIAIS NEGATIVAS. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+6. A Corte de origem, ao decidir acerca do iter criminis percorrido, reduziu a pena pela tentativa em 1/2. Rever tal conclusão, como requer a parte recorrente, no sentido da aplicação da fração de 2/3, em relação à tentativa, demandaria o revolvimento de matéria fático-probatória dos autos, o que é inviável em sede de recurso especial, por força da incidência da Súmula n. 7/STJ.
+ ..
+8. Agravo regimental não provido. (AgRg no REsp n. 1.804.984/TO, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 3/6/2019 - grifo nosso).
+PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. DIREITO PENAL. REVISÃO CRIMINAL. DECISUM A QUO COM TRÂNSITO EM JULGADO. RECONHECIMENTO DO DELITO TENTADO. EVENTUAIS NULIDADES DECORRENTES DA INOBSERVÂNCIA DO ART. 479 DO CÓDIGO DE PROCESSO PENAL SÃO DE NATUREZA RELATIVA. AUSÊNCIA DE TERATOLOGIA OU DE ILEGALIDADE. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA. AUTOS NÃO INSTRUÍDOS SUFICIENTEMENTE.
+1. A impetração não prospera, visto que a insurgência apresentada pela defesa neste writ tem nítidas feições de revisão criminal, haja vista que já transitada em julgado a condenação, o que denota flagrante impropriedade do meio processual ora utilizado.
+2. No que tange à fração de diminuição de pena aplicada em razão do reconhecimento da tentativa, esclareceu o Tribunal de Justiça que o crime se aproximou da consumação, e, para rever a conclusão alcançada na origem, seria necessário o reexame de fatos e provas, providência incompatível com os estreitos limites da ação constitucional, máxime em razão de a presente irresignação se voltar contra acórdão proferido em revisão criminal (AgRg no HC n. 273.883/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 21/3/2019).
+3. Consoante a jurisprudência deste Superior Tribunal, eventuais nulidades decorrentes da inobservância do art. 479 do Código de Processo Penal são de natureza relativa, exigindo, dessa forma, a demonstração de efetivo prejuízo em observância ao disposto no art. 563 do Código de Processo Penal que traz a máxima pas de nullité sans grief, o que não ocorreu in casu, pois, conforme delineado no acórdão impugnado não houve prejuízo à defesa, afastando, assim, o requisito surpresa, na medida em tinha conhecimento da situação processual do ora recorrente. 3. Inviável a análise quanto à ocorrência de efetivo prejuízo, nos termos delineado pela defesa, pois necessário o revolvimento da matéria fático-probatória, inviável na via estreita do writ (AgRg no HC n. 529.220/SC, Ministro Ribeiro Dantas, Quinta Turma, DJe 8/9/2020).
+4. Agravo regimental improvido.
+(AgRg no HC n. 633.085/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 23/2/2021, DJe de 22/3/2021 - grifo nosso.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. JÚRI. HOMICÍDIO TENTADO. CAUSA DE DIMINUIÇÃO. FRAÇÃO ADOTADA PELO TRIBUNAL DE ORIGEM. IMPUGNAÇÃO. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+Agravo conhecido para não conhecer do recurso especial.
