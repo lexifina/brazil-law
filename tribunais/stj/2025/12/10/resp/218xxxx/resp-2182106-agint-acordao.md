@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/12/2025 a 10/12/2025, por unanimidade, dar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Afrânio Vilela, Francisco Falcão, Maria Thereza de Assis Moura e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PROFESSORA PÚBLICA. DEMISSÃO. PROCESSO ADMINISTRATIVO DISCIPLINAR. PEDIDO CUMULATIVO. OMISSÃO RECONHECIDA. QUESTÃO DE RELEVÂNCIA AO DESLINDE DA CONTROVÉRSIA. AGRAVO INTERNO PROVIDO.
+1. Há afronta aos arts. 489 e 1.022, do Código de Processo Civil, quando o acórdão hostilizado deixa de se manifestar, de forma fundamentada, sobre pedido essencial ao deslinde da controvérsia, o que se coaduna ao caso em exame, porquanto não efetuada integralmente a prestação jurisdicional.
+2. Portanto, havendo tópico autônomo não enfrentado no decisum embargado, imperativo o retorno dos autos à origem para manifestação exauriente da instância ordinária, soberana na análise do conjunto fático-probatório dos autos.
+3. Agravo interno provido para dar parcial provimento ao recurso especial.
+RELATÓRIO
+Trata-se de agravo interno interposto por ANA CLAUDIA PINHEIRO DUARTE contra decisão de minha lavra que conheceu parcialmente do recurso especial para, nessa extensão, negar-lhe provimento (fls. 1102-1105).
+Nas razões do presente agravo interno, a Agravante sustenta que, ao contrário do consignado na decisão agravada, "o Tribunal de Justiça de Origem não apreciara o pedido "b" contido nas razão de apelação, o qual consistia na condenação do Agravado no pagamento dos proventos atrasados e devidos à Agravante desde o mês de fevereiro de 2010 a 2011, uma vez que a mesma continuara trabalhando no sobredito período" (fl. 1118).
+Requer que seja "DADO PROVIMENTO ao presente Agravo Interno, e, consequentemente, julgar provido o recurso especial, no sentido de reconhecer a violação aos arts. 489, II, § 1º, IV, e 1.022, II, do Código de Processo Civil e, consequentemente cassar o acórdão recorrido e o retorno dos autos ao tribunal de origem para novo julgamento e/ou condenar o Agravado no pagamento dos proventos não recebidos no período entre fevereiro de 2010 a março de 2011" (fl. 1122).
+Foi apresentada impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PROFESSORA PÚBLICA. DEMISSÃO. PROCESSO ADMINISTRATIVO DISCIPLINAR. PEDIDO CUMULATIVO. OMISSÃO RECONHECIDA. QUESTÃO DE RELEVÂNCIA AO DESLINDE DA CONTROVÉRSIA. AGRAVO INTERNO PROVIDO.
+1. Há afronta aos arts. 489 e 1.022, do Código de Processo Civil, quando o acórdão hostilizado deixa de se manifestar, de forma fundamentada, sobre pedido essencial ao deslinde da controvérsia, o que se coaduna ao caso em exame, porquanto não efetuada integralmente a prestação jurisdicional.
+2. Portanto, havendo tópico autônomo não enfrentado no decisum embargado, imperativo o retorno dos autos à origem para manifestação exauriente da instância ordinária, soberana na análise do conjunto fático-probatório dos autos.
+3. Agravo interno provido para dar parcial provimento ao recurso especial.
+VOTO
+A irresignação merece prosperar.
+No caso, a decisão agravada conheceu parcialmente do recurso especial para negar provimento à negativa de prestação jurisdicional, não conhecendo da matéria referente à direito municipal, nos termos da Súmula n. 280 do STF, aplicada por analogia.
+A parte ora agravante, entretanto, não se insurgiu, especificamente, em relação à Súmula n. 280 do STF, razão pela qual esta matéria se encontra preclusa (EREsp n. 1.424.404/SP, Relator o Ministro Luis Felipe Salomão, Corte Especial, julgado em 20/10/2021, DJe de 17/11/2021), devendo a irresignação ser conhecida tão somente em relação aos fundamentos autônomos, específica e efetivamente rechaçados nas razões do agravo interno, qual seja: a ocorrência de negativa de prestação jurisdicional.
+A ora Agravante opôs embargos de declaração na origem, apontando ocorrência da seguinte omissão (fls. 971-972):
+ ..
+Ao proferir o v. acórdão em tela, a Colenda Câmara negou provimento o recurso de apelação da Embargada, porém, sem a apreciação do pedido "b" contido nas razões de apelação de condenação do Embargado ao pagamento dos proventos atrasados e devidos à apelante desde o mês de fevereiro de 2010, no total correspondente a R$ 21.630,18 (vinte e um mil seiscentos e trinta reais e dezoito reais), devidamente corrigidos.
+Ocorre Excelências, que a Embargante continuara trabalhando no período de fevereiro de 2010 a 2011, no entanto, sem receber seus devidos pagamentos por parte do Embargado.
+ ..
+Assim, tem-se que a Embargante fora devidamente recolocada nos quadros de funcionários da Secretaria Municipal de Educação, porém, sem receber os proventos durante o período de fevereiro de 2010 a março de 2011, devendo o pedido constante no item "b" das razões de apelação ser apreciado, face a omissão no v. acordão.
+ ..
+Isto posto, requer a Embargante que Vossa Excelência se digne em sanar a omissão, para, atribuindo efeitos infringentes aos presentes embargos, reformar a v. acórdão e apreciar o pedido de condenação do Embargado ao pagamento dos proventos atrasados e devidos à Embargante desde o mês de fevereiro de 2010, no total correspondente a R$ 21.630,18 (vinte e um mil seiscentos e trinta reais e dezoito reais), o qual deve ser devidamente corrigidos.
+Contudo, o Tribunal a quo, quando do julgamento do recurso integrativo, não se manifestou acerca da questão veiculada no citado aclaratório, limitando-se a reproduzir os fundamentos pela regularidade do processo administrativo disciplinar , embora o juízo de primeiro grau tenha se manifestado sobre o ponto em sede de declaratórios (fl. 768).
+Ora, ainda que não haja necessidade de se manifestar sobre todas as teses recursais, uma vez enfrentado clara e expressamente, o ponto em discussão pode resultar em mudança parcial no resultado do julgamento, constituindo-se em omissão relevante.
+Havendo tópico autônomo não enfrentado no decisum embargado, imperativo o retorno dos autos à origem para manifestação exauriente da instância ordinária, soberana na análise do conjunto fático-probatório dos autos.
+Nesse contexto, entende este Superior Tribunal de Justiça que há afronta aos arts. 489 e 1.022, do Código de Processo Civil, quando o acórdão hostilizado deixa de se manifestar, de forma fundamentada, sobre pedido essencial ao deslinde da controvérsia, o que se coaduna ao caso em exame, porquanto não efetuada integralmente a prestação jurisdicional.
+Nesse sentido:
+TRIBUTÁRIO. PROCESSUAL CIVIL. QUESTÃO RELEVANTE. OMISSÃO DO TRIBUNAL DE ORIGEM. VIOLAÇÃO AO ART. 1.022 DO CPC. CONFIGURAÇÃO.
+1. Há violação ao art. 1.022 do CPC quando, a despeito dos embargos de declaração, o Tribunal de origem remanesce omisso acerca das alegações veiculadas a respeito do direito ao arbitramento da verba honorária de sucumbência, tanto sobre o pedido correspondente à condenação por dano moral quanto sobre o pedido correspondente ao benefício econômico relativamente à reversão das medidas de indisponibilidade, tendo em vista a existência de pedidos cumulativos, a qual teria o condão de influenciar no juízo acerca da extensão da base de cálculo dos honorários no caso dos autos.
+2. Agravo interno não provido. (AgInt no AgInt no AREsp n. 2.048.699/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 11/12/2023, DJe de 15/12/2023.)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE DÉBITO FISCAL. ADESÃO A PARCELAMENTO. DESISTÊNCIA DA AÇÃO. HONORÁRIOS ADVOCATÍCIOS. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. OMISSÃO, NO ACÓRDÃO RECORRIDO, SOBRE QUESTÃO FÁTICA RELEVANTE À SOLUÇÃO DA CONTROVÉRSIA, OPORTUNAMENTE ALEGADA PELO ORA RECORRENTE, NOS EMBARGOS DE DECLARAÇÃO, OPOSTOS NA ORIGEM. NEGATIVA DE PRESTAÇÃO JURISDICIONAL CONFIGURADA. AGRAVO CONHECIDO, PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
+ ..
+VI. Constata-se a omissão quando o Tribunal deixa de apreciar questões relevantes para a solução da controvérsia, suscitadas pelas partes ou examináveis de ofício, ou quando deixa de se pronunciar acerca de algum tópico importante da matéria submetida à sua cognição, em causa de sua competência originária ou obrigatoriamente sujeita ao duplo grau de jurisdição.
+VII. Nesse contexto, não tendo sido apreciadas, no acórdão dos Embargos Declaratórios opostos, em 2º Grau, pela ora recorrente, as alegações por ela expendidas sobre matéria fática relevante à solução da controvérsia, merece ser provido o recurso, reconhecendo-se a ofensa ao art. 1.022 do CPC/2015, com a anulação do acórdão recorrido, determinando-se o retorno dos autos ao Tribunal de origem, para que profira nova decisão, com a análise das alegações da contribuinte.
+ ..
+IX. Agravo conhecido, para dar provimento ao Recurso Especial e anular o acórdão proferido no julgamento dos Embargos de Declaração opostos pela ora recorrente, devolvendo-se os autos ao Tribunal de origem, a fim de que seja proferido novo julgamento, suprindo a omissão apontada. (AREsp n. 1.715.965/SC, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 20/10/2020, DJe de 28/10/2020.)
+Ressalto que esse ponto é essencial para o desdobramento da controvérsia. Assim, reconhecida a violação do art. 1.022 do CPC, impõe-se a anulação do acórdão proferido no julgamento dos embargos de declaração, restando prejudicada a análise dos demais tópicos do recurso especial.
+Ante o exposto, DOU PROVIMENTO ao agravo interno para dar parcial provimento ao recurso especial, determinando o retorno dos autos à origem, para sanar a referida omissão, conforme entender de direito .
+É como voto.
