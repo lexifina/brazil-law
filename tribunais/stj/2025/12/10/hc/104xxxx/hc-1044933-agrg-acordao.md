@@ -1,0 +1,79 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/12/2025 a 10/12/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Maria Marluce Caldas votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO INFIRMADOS. ENUNCIADO N. 182 DA SÚMULA DESTA CORTE. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Neste agravo regimental não foram trazidos argumentos novos, aptos a elidirem os fundamentos da decisão agravada, uma vez que o agravante apenas reiterou aqueles já apresentados na petição inicial. Tais fundamentos, uma vez que não foram devidamente impugnados, atraem ao caso o disposto no enunciado n. 182 da Súmula desta Corte.
+2. Agravo regimental não conhecido.
+RELATÓRIO
+Trata-se de agravo regimental (e-STJ fls. 197/204) interposto por CLEOMIR DA SILVA BERNARDO contra a decisão de minha lavra (e-STJ fls. 182/189), pela qual não conheci do habeas corpus.
+Neste agravo regimental, a defesa reitera os argumentos apresentados anteriormente, requerendo a reconsideração ou o provimento do agravo para que seja concedida a ordem, a fim de restabelecer a decisão que deferiu o direito do paciente à comutação da pena com base no Decreto n. 11.846/2023.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO INFIRMADOS. ENUNCIADO N. 182 DA SÚMULA DESTA CORTE. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Neste agravo regimental não foram trazidos argumentos novos, aptos a elidirem os fundamentos da decisão agravada, uma vez que o agravante apenas reiterou aqueles já apresentados na petição inicial. Tais fundamentos, uma vez que não foram devidamente impugnados, atraem ao caso o disposto no enunciado n. 182 da Súmula desta Corte.
+2. Agravo regimental não conhecido.
+VOTO
+O agravo regimental é tempestivo, entretanto, não merece conhecimento.
+Na decisão agravada, enfrentei, de forma fundamentada, os argumentos apresentados pela defesa, enfatizando que não se constata flagrante ilegalidade a ser corrigida na via estreita do habeas corpus, uma vez que o fundamento apresentado pelo Tribunal a quo encontra-se em consonância com a jurisprudência desta Corte e com o Decreto Presidencial n. 11.846, de 22 de dezembro de 2023, tendo em vista que o citado art. 4º do referido Decreto condicionou do direito à comutação da pena à não obtenção do benefício por meio de Decretos anteriores.
+Considerei que, na hipótese, uma vez que o ora paciente foi agraciado com a comutação de pena com base em Decretos anteriores, conforme demonstrado, inviável o deferimento da benesse com fundamento no Decreto n. 11.846/2023, por vedação expressa do citado art. 4º do mencionado Decreto.
+Observei, por fim, que, analisando o mesmo tema proposto nos presentes autos, com base no Decreto n. 11.846/2023 e em outros Decretos, foi rejeitada a pretensão de nova comutação a apenados que já tenham sido beneficiados por comutações por meio de Decretos anteriores. A propósito, os acórdãos desta Corte cujas ementas colacionei:
+DIREITO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. COMUTAÇÃO DE PENA. DECRETO PRESIDENCIAL N. 11.846/2023. VEDAÇÃO EXPRESSA NO ART. 4º. CONDENAÇÃO ANTERIORMENTE BENEFICIADA POR COMUTAÇÃO. IMPOSSIBILIDADE DE NOVA CONCESSÃO. COMPETÊNCIA PRIVATIVA DO PRESIDENTE DA REPÚBLICA. INTERPRETAÇÃO RESTRITIVA. AGRAVO DESPROVIDO. I. CASO EM EXAME
+1. Agravo regimental interposto pela Defensoria Pública do Estado do Paraná contra decisão monocrática que indeferiu habeas corpus, impetrado para concessão de comutação de pena a apenado já beneficiado por decreto anterior. II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se é possível a concessão de comutação de pena, prevista no Decreto Presidencial n. 11.846/2023, a apenado que já foi contemplado com o mesmo benefício em razão de decreto anterior. III. RAZÕES DE DECIDIR
+3. O art. 4º do Decreto Presidencial n. 11.846/2023 estabelece que a comutação será concedida apenas aos condenados que não tenham obtido comutações por meio de decretos anteriores, até 25 de dezembro de 2023.
+4. A decisão agravada aplicou corretamente o texto normativo, em consonância com a jurisprudência, ao deixar de permitir a concessão do benefício a quem já foi beneficiado anteriormente.
+5. A tentativa de analogia com o Decreto n. 8.615/2015 é inaplicável, pois este previa expressamente a possibilidade de nova comutação a beneficiário anterior, o que não ocorre no presente feito. IV. DISPOSITIVO
+6. Agravo regimental desprovido.
+(AgRg no HC n. 1.003.139/PR, relator Ministro CARLOS CINI MARCHIONATTI (Desembargador Convocado TJRS), Quinta Turma, julgado em 19/8/2025, DJEN de 25/8/2025.)
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO OU REVISÃO CRIMINAL. EXECUÇÃO PENAL. COMUTAÇÃO DE PENA. DECRETO N. 11.846/2023. VEDAÇÃO EXPRESSA DE CONCESSÃO DE NOVA COMUTAÇÃO A APENADOS JÁ BENEFICIADOS POR DECRETOS ANTERIORES. HABEAS CORPUS NÃO CONHECIDO. I. CASO EM EXAME
+1. Habeas corpus impetrado com o objetivo de obter a concessão de comutação de pena ao paciente, com fundamento no Decreto Presidencial n. 11.846/2023. A Corte de origem indeferiu o pedido, fundamentando que o paciente já havia sido contemplado com comutações por decretos anteriores, sendo essa circunstância impeditiva da concessão da nova comutação, conforme disposto no art. 4º do referido Decreto. II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se o habeas corpus pode ser utilizado como substitutivo de recurso ou de revisão criminal; e (ii) estabelecer se a vedação expressa do Decreto n. 11.846/2023 impede a concessão de comutação de pena a apenados que já tenham sido beneficiados por decretos anteriores. III. RAZÕES DE DECIDIR
+3. O entendimento consolidado nesta Corte e no Supremo Tribunal Federal veda a utilização do habeas corpus como substitutivo de recurso próprio ou de revisão criminal, salvo em casos de flagrante ilegalidade apta a gerar constrangimento ilegal.
+4. O Decreto Presidencial n. 11.846/2023, em seu art. 4º, condiciona a concessão de comutação de pena à inexistência de benefício anterior concedido por meio de decretos passados, estabelecendo vedação expressa à cumulação de comutações.
+5. No caso, comprovou-se que o paciente já havia sido beneficiado por comutações anteriores, inviabilizando o deferimento da nova comutação nos termos do Decreto n. 11.846/2023.
+6. A jurisprudência desta Corte e do STF reconhece que a comutação de pena possui caráter restritivo e não pode ser cumulada com comutações anteriores, em respeito à literalidade dos decretos presidenciais que disciplinam essa matéria.
+IV. HABEAS CORPUS NÃO CONHECIDO.
+(HC n. 932.280/SC, relatora Ministra DANIELA TEIXEIRA, Quinta Turma, julgado em 10/12/2024, DJEN de 17/12/2024.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. INDULTO E COMUTAÇÃO. DECRETO N. 9.246/2017. AUSÊNCIA DE PREQUESTIONAMENTO. ACÓRDÃO ESTADUAL EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. INEXISTÊNCIA DE ILEGALIDADE MANIFESTA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O prequestionamento é requisito para a admissibilidade do recurso especial. No caso, a alegação de que o apenado não obteve comutações decorrentes de decretos anteriores - considerando a data em que os benefícios foram concedidos pelo Juiz da VEC - deixou de ser abordada pela instância inferior.
+2. De todo modo, na decisão agravada, foi esclarecido que o acórdão recorrido está em conformidade com a jurisprudência estabelecida por esta Corte. Adicionalmente, constou que a decisão que formaliza a comutação é declaratória, de efeitos retroativos, de modo que a data em que é proferida não modifica a condição de o condenado haver sido beneficiado pelos decretos dos anos de 2013 e 2015, o que impede a aplicação do Decreto Presidencial n. 9.246/2017, por vedação estipulada em seu art. 7º, parágrafo único.
+3. Agravo regimental não provido.
+(AgRg no REsp n. 2.045.987/SP, relator Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 27/5/2024, DJe de 3/6/2024.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. IMPUGNAÇÃO DEFENSIVA. EXECUÇÃO PENAL. COMUTAÇÃO DE PENA. DECRETO 9.246/2017. VEDAÇÃO DE CONCESSÃO A APENADOS QUE JÁ TENHAM SIDO BENEFICIADOS COM COMUTAÇÕES ANTERIORES. INTERPRETAÇÃO DO PARÁGRAFO ÚNICO DO ART. 7º DO DECRETO. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça, alinhando-se à nova jurisprudência da Corte Suprema, também passou a restringir as hipóteses de cabimento do habeas corpus, não admitindo que o remédio constitucional seja utilizado em substituição ao recurso ou ação cabível, ressalvadas as situações em que, à vista da flagrante ilegalidade do ato apontado como coator, em prejuízo da liberdade do paciente, seja cogente a concessão, de ofício, da ordem de habeas corpus. (AgRg no HC 437.522/PR, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 07/06/2018, DJe 15/06/2018)
+2. O Decreto n. 9.246/2017 veda, expressa e taxativamente, em seu art. 7º, parágrafo único, a concessão da comutação por ele instituída, a quem já tenha sido beneficiado por igual benesse processual decorrente de decretos anteriores.
+Precedentes: AgRg no HC n. 714.744/PR, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 14/6/2022, DJe de 21/6/2022; AgRg no HC n. 471.788/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 4/8/2020, DJe de 12/8/2020; AgRg no HC n. 471.779/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 22/10/2019, DJe de 19/11/2019; HC n. 485.321/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 26/2/2019, DJe de 15/3/2019; AgRg no HC n. 475.035/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 21/2/2019, DJe de 1/3/2019.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 891.745/SP, DE MINHA RELATORIA, Quinta Turma, julgado em 19/3/2024, DJe de 22/3/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. DECRETO N. 9.246/2017. COMUTAÇÃO DE PENA. FALTA DE REQUISITO OBJETIVO. BENESSE RESTRITA AOS CONDENADOS QUE NÃO RECEBERAM O BENEFÍCIO ANTERIORMENTE. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça pacificou o entendimento de que a exegese do art. 7.º, parágrafo único, do Decreto n.º 9.246/2017, expressamente limita o deferimento da comutação a quem não tenha obtido comutação decorrente de decreto anterior.
+2. No caso, as instâncias de origem ressaltaram que o Agravante já foi beneficiado com a comutação de pena referente ao Decreto Presidencial n.º 5.620/2005, de modo que não faz jus à comutação do Decreto n.º 9.246/2017.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 774.156/SP, relatora Ministra LAURITA VAZ, Sexta Turma, julgado em 17/4/2023, DJe de 20/4/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. COMUTAÇÃO DE PENA. DECRETO N. 8.172/2013. AUSÊNCIA DE PREENCHIMENTO DO REQUISITO OBJETIVO DE ORDEM NEGATIVA. APENADO AGRACIADO COM COMUTAÇÃO DA PENA COM BASE EM DECRETOS ANTERIORES. BENESSE RESTRITA AOS CONDENADOS QUE NÃO RECEBERAM O BENEFÍCIO ANTERIORMENTE. PRECEDENTES. AGRAVO DESPROVIDO.
+1. Conforme literalidade do art. 3º, do Decreto n. 8.172, de 24 de dezembro de 2013, "Concede-se comutação às pessoas condenadas à pena privativa de liberdade que não tenham, até 25 de dezembro de 2013, obtido as comutações, de decretos anteriores, independente de pedido anterior".
+2. No caso dos autos, o paciente foi agraciado com a comutação da pena, com base nos decretos anteriores, dos anos de 2011 e 2012, relacionados às mesmas reprimendas, razão pela qual não restou preenchido o requisito objetivo.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 763.863/GO, relator Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 7/2/2023, DJe de 14/2/2023.)
+Neste recurso de agravo regimental, porém, não foram apresentados quaisquer argumentos novos, capazes de infirmar os fundamentos da decisão agravada, uma vez que o agravante apenas reitera aqueles já apresentados na petição inicial e afastados na decisão agravada.
+Uma vez que não houve a impugnação específica acerca dos fundamentos da decisão agravada, incide ao caso o disposto no enunciado n. 182 da Súmula desta Corte.
+Nesse sentido, seguem os precedentes desta Corte:
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL EM HABEAS CORPUS. FUNDAMENTOS NÃO INFIRMADOS PELO AGRAVANTE. INCIDÊNCIA DO ENUNCIADO N. 182 DA SÚMULA DESSA CORTE SUPERIOR. ALEGADA OFENSA AO PRINCÍPIO DA COLEGIALIDADE. INOCORRÊNCIA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+- Não foram trazidos elementos aptos a afastar os argumentos da decisão agravada, os quais estavam em harmonia com a jurisprudência pacificada nessa Corte Superior acerca dos temas.
+- Tais fundamentos não foram devidamente impugnados pelo presente agravo regimental, a atrair ao caso o disposto no enunciado n. 182 da Súmula dessa Corte Superior.
+- O julgamento monocrático do habeas corpus não representa ofensa ao princípio da colegialidade, nos termos previstos no art. 34, XX, do RISTJ, notadamente porque qualquer decisão monocrática está sujeita à apreciação do órgão colegiado, em virtude de possibilidade de interposição do agravo regimental, como na espécie.
+- Agravo regimental não conhecido (AgRg no AgRg no HC 436.568/SP, de minha relatoria, julgado em 07/02/2019, DJe 14/02/2019).
+AGRAVO REGIMENTAL. PROCESSO PENAL. DENUNCIAÇÃO CALUNIOSA. TESE DE INCOMPETÊNCIA. SUPRESSÃO DE INSTÂNCIA. ALEGAÇÃO DE INÉPCIA. AGRAVO NÃO CONHECIDO PELA APLICAÇÃO DA SÚMULA N. 182/STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DO FUNDAMENTO DA DECISÃO AGRAVADA.
+1. As teses referentes à incompetência do juízo não foram objeto de apreciação pelo Tribunal de origem, o que impede o exame do tema diretamente pelo Superior Tribunal de Justiça, sobrepujando a competência da Corte estadual, sob pena de se incorrer em indevida supressão de instância e violação dos princípios do duplo grau de jurisdição e do devido processo legal.
+2. Quanto à inépcia, o agravante deixou de impugnar fundamentos da decisão agravada, atraindo, por analogia, a aplicação do óbice previsto na Súmula n. 182 desta Corte. Precedentes.
+3. "Mantidos os fundamentos da decisão agravada, porquanto não infirmados por razões eficientes, é de ser negada simples pretensão de reforma. (Enunciado n. 182 da Súmula desta Corte)" (AgRg no HC n. 376.793/SP, rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 27/6/2017, DJe 1º/8/2017).
+4. Agravo regimental conhecido em parte e, nessa extensão, desprovido (AgInt no RHC 51.853/RJ, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 04/09/2018, DJe 13/09/2018).
+AGRAVO REGIMENTAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. PRISÃO PREVENTIVA MANTIDA EM PRONÚNCIA. INSTRUÇÃO DEFICIENTE. PRETENSÃO DE SIMPLES REFORMA. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS.
+1. Mantidos os fundamentos da decisão agravada, porquanto não infirmados por razões eficientes, é de ser negada simples pretensão de reforma. (Súmula n.º 182 desta Corte).
+2. Cabe ao impetrante o escorreito aparelhamento do habeas corpus, bem como do recurso ordinário dele originado, indicando, por meio de prova pré-constituída, o constrangimento ilegal alegado.
+3. É inviável divisar, de forma meridiana, a alegação de constrangimento, diante da instrução deficiente dos autos, no qual se deixou de coligir cópia da decisão que decretou a prisão preventiva do acusado, documento imprescindível à plena compreensão dos fatos aduzidos no presente recurso.
+4. Agravo regimental desprovido (AgRg no RHC 48.939/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, DJe 23/4/2015).
+Ante o exposto, não conheço do agravo regimental.
+É como voto.
