@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo interposto por DÉBORA RODRIGUES DA SILVA, contra decisão do Tribunal de Justiça do Estado de São Paulo que inadmitiu o recurso especial.
+A agravante pretende a retificação do cálculo de progressão de regime para aplicação da fração de 1/8 (um oitavo), nos termos do art. 112, § 3º, da Lei de Execução Penal, ao sustentar que preenche todos os requisitos legais, especialmente a condição de p rimariedade, considerado o transcurso do período depurador previsto no art. 64, inciso I, do Código Penal (fls. 1-10).
+O Tribunal de Justiça do Estado de São Paulo negou provimento, por unanimidade, ao agravo em execução interposto pela defesa, e manteve a decisão do Juízo de primeiro grau (fls. 51-60).
+A agravante interpôs recurso especial, com fundamento no art. 105, III, alínea "a", da Constituição Federal, para alegar violação ao art. 112, § 3º, da Lei de Execução Penal (fls. 67-78).
+Sustentou que: i) é mãe de duas crianças menores de 12 anos (atualmente com 10 e 4 anos de idade); ii) é primária, pois entre o cometimento do crime anterior (lesão corporal em 2015) e o crime de tráfico (2021) transcorreram mais de 5 (cinco) anos, o que configura o período depurador; iii) não cometeu crime com violência ou grave ameaça à pessoa; iv) não praticou crime contra seus filhos ou dependentes; v) possui bom comportamento carcerário; vi) não integra organização criminosa; vii) a condenação anterior refere-se a pena de 3 (três) meses de detenção em regime aberto, que sequer é pena privativa de liberdade efetiva. Requereu, ao final, a retificação do cálculo de pena para constar a fração de 1/8 para fins de progressão de regime (fls. 67-78).
+O recurso especial foi inadmitido na origem por incidência da Súmula n. 7, STJ (fls. 119-120).
+Irresignada, a defesa interpôs o presente agravo em recurso especial, no qual sustentou que: i) o recurso especial não pretende rediscutir matéria fática, mas apenas revaloração probatória; ii) não há que se falar em reexame de prova, pois a questão é eminentemente de direito; iii) o período depurador deve ser contado da data do cometimento do crime anterior (2015) até o novo delito (2021); iv) a agravante preenche todos os requisitos do art. 112, § 3º, da LEP; v) a condenação anterior não pode mais ser considerada para fins penais, em respeito ao princípio da vedação da perpetuidade das penas. Requer a reconsideração do juízo de admissibilidade do recurso especial ou, subsidiariamente, que seja conhecido e provido o agravo para determinar a subida do recurso especial, com o consequente provimento para retificar o cálculo de progressão de regime (fls. 123-134).
+O Ministério Público Federal opinou pelo desprovimento do agravo ou pelo desprovimento do recurso especial (fls. 167-174).
+É o relatório. DECIDO.
+Tendo em vista os argumentos apresentados pela parte agravante para refutar os fundamentos da decisão de admissibilidade da origem, conheço do agravo e passo a examinar o recurso especial.
+A controvérsia cinge-se à verificação do preenchimento dos requisitos para aplicação da progressão especial de regime prevista no art. 112, § 3º, da Lei nº 7.210/84 (Lei de Execução Penal), que assim dispõe:
+"Art. 112. (..)
+§ 3º No caso de mulher gestante ou que for mãe ou responsável por crianças ou pessoas com deficiência, os requisitos para progressão de regime são, cumulativamente:
+I - não ter cometido crime com violência ou grave ameaça a pessoa;
+II - não ter cometido o crime contra seu filho ou dependente;
+III - ter cumprido ao menos 1/8 (um oitavo) da pena no regime anterior;
+IV - ser primária e ter bom comportamento carcerário, comprovado pelo diretor do estabelecimento;
+V - não ter integrado organização criminosa."
+Da análise detida dos autos, verifico que a agravante foi condenada pela prática de tráfico de drogas (art. 33 da Lei n. 11.343/2006) e, embora seja mãe de duas crianças menores de 12 anos, não preenche o requisito da primariedade, conforme expressamente consignado pelas instâncias ordinárias.
+Consta dos autos que a agravante possui condenação anterior transitada em julgado por lesão corporal (art. 129 do Código Penal), com pena de 3 (três) meses de detenção em regime aberto, cuja extinção da punibilidade ocorreu em 16/9/2016. O novo delito de tráfico de drogas foi praticado em 20/3/2021.
+O cerne da questão reside na interpretação do período depurador previsto no art. 64, I, do Código Penal:
+"Art. 64 - Para efeito de reincidência:
+I - não prevalece a condenação anterior, se entre a data do cumprimento ou extinção da pena e a infração posterior tiver decorrido período de tempo superior a 5 (cinco) anos, computado o período de prova da suspensão ou do livramento condicional, se não ocorrer revogação"
+A agravante sustenta que o período depurador deve ser contado da data do cometimento do crime anterior (2015), até a data do novo delito (2021), o que resultaria em lapso superior a 5 (cinco) anos.
+Todavia, o entendimento consolidado nesta Corte Superior é no sentido de que o período depurador conta-se da data do cumprimento ou extinção da pena anterior, e não da data do cometimento do crime pretérito.
+No caso concreto, entre a extinção da pena anterior (16/9/2016) e a prática do novo delito (20/3/2021), transcorreram apenas 4 (quatro) anos e 6 (seis) meses, período inferior ao quinquênio legal.
+Esta Corte Superior já decidiu reiteradamente nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. DOSIMETRIA. PENA-BASE. MAUS ANTECEDENTES. ART. 64, I, DO CÓDIGO PENAL CP. PERÍODO DEPURADOR. IRRELEVÂNCIA. DIREITO AO ESQUECIMENTO. PERÍODO DE MENOS DE 10 ANOS DA EXTINÇÃO DA PUNIBILIDADE E DO NOVO DELITO. CONDENAÇÃO DEFINITIVA NÃO ALCANÇADA POR EXTENSO LAPSO TEMPORAL. MANTIDOS OS MAUS ANTECEDENTES. PRECEDENTES. AGRAVO DESPROVIDO.
+1. O Plenário da Corte Suprema, no julgamento do RE n. 593.818/SC (Repercussão Geral), decidiu por maioria, que "Não se aplica para o reconhecimento dos maus antecedentes o prazo quinquenal de prescrição da reincidência, previsto no art. 64, I, do Código Penal" (RE 593.818/SC , Rel. Ministro ROBERTO BARROSO, TRIBUNAL PLENO - SESSÃO VIRTUAL, julgado em 18/8/2020, Ata de julgamento publicada no DJe de 1º/9/2020).
+2. Firme nesta Corte o entendimento de que as condenações alcançadas pelo período depurador de cinco anos (art. 64, I, do Código Penal)
+CP) não configuram reincidência, mas são aptas a configurar os maus antecedentes do réu.
+3. As instâncias ordinárias fizeram referência a uma condenação criminal transitada em julgado, com baixa da pena em 29/7/2010, conforme a folha de antecedentes. Verifica-se que entre o trânsito em julgado/extinção da execução da respectiva condenação não se passaram mais de dez anos antes do novo fato delituoso aqui tratado, o qual foi perpetrado em 3 de abril de 2018, nos termos da denúncia.
+Avaliação negativa dos antecedentes do réu. Precedentes.
+4. Agravo regimental desprovido." (AgRg no HC n. 696.253/SP, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 26/11/2021).
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL. ROUBO CIRCUNSTANCIADO PELO CONCURSO DE PESSOAS NA MODALIDADE TENTADA. AUSÊNCIA DE OBJETO DE VALOR. TESE DE CRIME IMPOSSÍVEL. INAPLICABILIDADE. CRIME COMPLEXO. PENA-BASE. CONDENAÇÕES PRETÉRITAS. MAUS ANTECEDENTES. CARACTERIZAÇÃO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Esta Corte Superior de Justiça possui entendimento firmado no sentido de que o crime de roubo é delito complexo, compreendendo o crime de furto e outros delitos associados ao emprego da violência ou de grave ameaça. Dessa forma, a ausência de bens de valor em poder da Vítima não afasta a tipificação do crime de roubo na modalidade tentada.
+2. Nos termos da jurisprudência do Superior Tribunal de Justiça, condenações pretéritas com trânsito em julgado, alcançadas pelo prazo depurador de 5 (cinco) anos previsto no art. 64, inciso I, do Código Penal, embora afastem os efeitos da reincidência, não impedem a configuração de maus antecedentes.
+3. No caso, houve a extinção da Execução n. 4 pelo cumprimento da pena, relativa ao Processo n. 24.673/2005, em 08/08/2010 (fl. 100); e a da Execução n. 5, relativa ao Processo n. 39.426/2008, em 24/11/2015 (fl. 100). Considerando que o fato delitivo dos autos ocorreu em 05/12/2016 (fl. 72), não ficou configurada a depuração das referidas condenações por desarrazoado lapso entre a extinção delas e o novo crime.
+4. Agravo regimental desprovido."
+(AgRg no REsp n. 1.819.128/SP, Sexta Turma, Rel Min. Laurita Vaz, DJe de 4/8/2020)
+Verifico, portanto, que o acórdão recorrido se alinha à jurisprudência desta Corte Superior, o que atrai a aplicação da Súmula n. 83, STJ, segundo a qual "não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Ressalto, a esse respeito, que o entendimento sumulado alcança não só o recurso especial fundamentado na alínea "c", mas também na alínea "a" do permissivo constitucional (AgRg no AREsp n. 2.407.873/SE, Sexta Turma, Rel. Min. Sebastião Reis Júnior, Sexta Turma, jDJe de 9/11/2023).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial, nos termos do art. 253, parágrafo único, inciso II, alínea "a", do Regimento Interno do STJ.
+Publique-se. Intimem-se.
+ EMENTA
