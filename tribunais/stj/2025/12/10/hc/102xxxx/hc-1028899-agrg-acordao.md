@@ -1,0 +1,69 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/12/2025 a 10/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Marluce Caldas, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito Processual Penal. Agravo Regimental. Prisão Preventiva. Garantia da ordem pública. Recurso não provido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que denegou habeas corpus, no qual se pleiteava a revogação da prisão preventiva do agravante, decretada em razão de roubo praticado contra pessoa idosa (art. 157, caput, c/c art. 61, II, "h", ambos do Código Penal).
+2. O agravante foi preso em flagrante e teve sua prisão convertida em preventiva, sendo apontado como contumaz na prática delitiva e com histórico de passagens pela Vara da Infância e Juventude.
+3. A defesa alegou constrangimento ilegal, argumentando que o roubo ocorreu em via pública, sem gravidade concreta, e que os antecedentes infracionais não poderiam ser considerados devido ao direito ao sigilo e ao esquecimento. Além disso, sustentou que, em caso de condenação, o agravante poderia cumprir pena em regime aberto, o que violaria o princípio da homogeneidade das cautelares.
+4. O tribunal de origem denegou a ordem em habeas corpus, mantendo a prisão preventiva.
+II. Questão em discussão
+5. A questão em discussão consiste em saber se há elementos suficientes para a revogação da prisão preventiva do agravante, considerando os argumentos apresentados pela defesa, como a ausência de gravidade concreta do delito, a desproporcionalidade da medida cautelar em relação à possível pena e a impossibilidade de considerar antecedentes infracionais.
+III. Razões de decidir
+6. A prisão preventiva do agravante encontra-se devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório, especialmente diante do fundado receio de reiteração criminosa, considerando o histórico de passagens pela Vara da Infância e Juventude, pelo crime de furto, em março de 2025, quando lhe foi concedida a liberdade provisória com imposição de medidas cautelares diversas da prisão e pela prática de roubo contra pessoa idosa.
+7. A jurisprudência desta Corte é pacífica ao reconhecer que antecedentes, reincidência ou outras ações penais ou inquéritos em curso justificam a imposição de prisão cautelar para evitar a reiteração delitiva e garantir a ordem pública.
+8. A desproporcionalidade da custódia cautelar em relação à provável futura pena do agravante não pode ser acolhida, pois apenas a conclusão do processo poderá revelar o regime prisional aplicável em caso de condenação.
+9. Condições pessoais favoráveis, como ocupação lícita e residência fixa, não são suficientes para revogar a prisão preventiva quando há elementos concretos que recomendam sua manutenção.
+IV. Dispositivo e tese
+10. Resultado do Julgamento: Agravo regimental não provido.
+Tese de julgamento:
+Dispositivos relevantes citados:Código Penal, art. 157, caput; Código Penal, art. 61, II, "h".
+Jurisprudência relevante citada:STJ, RHC 156.048/SC, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, julgado em 15.02.2022, DJe 18.02.2022; STJ, AgRg no RHC 196.193/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 01.07.2024, DJe 03.07.2024; STJ, AgRg no HC 910.540/CE, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe 03.07.2024; STJ, AgRg no HC 902.557/SP, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, DJe 03.07.2024; STJ, AgRg no HC 912.267/MG, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, DJe 28.06.2024; STJ, AgRg no RHC 189.368/DF, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 20.05.2024, DJe 24.05.2024; STJ, AgRg no REsp 2.151.569/PA, Rel. Min. Daniela Teixeira, Quinta Turma, julgado em 04.12.2024, DJe 09.12.2024.
+RELATÓRIO
+Trata-se  de  agravo  regimental  interposto  por  RAFAEL HENRIQUE DA SILVA CUNHA,  em  face  de  decisão  monocrática  na qual  deneguei o habeas corpus.
+Depreende-se dos autos que o agravante foi preso em flagrante e teve sua prisão convertida em preventiva pelo crime de roubo, praticado contra pessoa idosa (Artigo 157, caput, c/c o artigo 61, inciso II, alínea "h", ambos do Código Penal).Irresignada, a defesa impetrou habeas corpus perante o tribunal de origem que denegou a ordem, em acórdão de fls. 66-91.
+No  presente  agravo,  alega  o  agravante  a  ocorrência  de  constrangimento  ilegal  uma vez que "não se trata de acusação de roubo de residência ou similar e sim de uma imputação de roubo em via pública. Portanto, não há gravidade em concreto que justifique a prisão preventiva"- fl. 104.
+Afirma que supostos antecedentes infracionais não podem ser considerados em face do indivíduo, dado ao direito que este tem ao sigilo e ao esquecimento daquilo que teria ocorrido antes de sua maioridade civil e penal.
+Destaca que, em caso de eventual condenação, poderia cumprir pena em regime aberto, evidenciando a violação do princípio da homogeneidade das cautelares.
+Requer  a  reconsideração  da  decisão  ou,  alternativamente,  a  apresentação  do  feito  em  mesa  para  julgamento  pelo  colegiado.
+Por  manter  a  decisão  agravada,  submeto  o  feito  à  Quinta  Turma.
+É  o  relatório.
+EMENTA
+Direito Processual Penal. Agravo Regimental. Prisão Preventiva. Garantia da ordem pública. Recurso não provido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que denegou habeas corpus, no qual se pleiteava a revogação da prisão preventiva do agravante, decretada em razão de roubo praticado contra pessoa idosa (art. 157, caput, c/c art. 61, II, "h", ambos do Código Penal).
+2. O agravante foi preso em flagrante e teve sua prisão convertida em preventiva, sendo apontado como contumaz na prática delitiva e com histórico de passagens pela Vara da Infância e Juventude.
+3. A defesa alegou constrangimento ilegal, argumentando que o roubo ocorreu em via pública, sem gravidade concreta, e que os antecedentes infracionais não poderiam ser considerados devido ao direito ao sigilo e ao esquecimento. Além disso, sustentou que, em caso de condenação, o agravante poderia cumprir pena em regime aberto, o que violaria o princípio da homogeneidade das cautelares.
+4. O tribunal de origem denegou a ordem em habeas corpus, mantendo a prisão preventiva.
+II. Questão em discussão
+5. A questão em discussão consiste em saber se há elementos suficientes para a revogação da prisão preventiva do agravante, considerando os argumentos apresentados pela defesa, como a ausência de gravidade concreta do delito, a desproporcionalidade da medida cautelar em relação à possível pena e a impossibilidade de considerar antecedentes infracionais.
+III. Razões de decidir
+6. A prisão preventiva do agravante encontra-se devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório, especialmente diante do fundado receio de reiteração criminosa, considerando o histórico de passagens pela Vara da Infância e Juventude, pelo crime de furto, em março de 2025, quando lhe foi concedida a liberdade provisória com imposição de medidas cautelares diversas da prisão e pela prática de roubo contra pessoa idosa.
+7. A jurisprudência desta Corte é pacífica ao reconhecer que antecedentes, reincidência ou outras ações penais ou inquéritos em curso justificam a imposição de prisão cautelar para evitar a reiteração delitiva e garantir a ordem pública.
+8. A desproporcionalidade da custódia cautelar em relação à provável futura pena do agravante não pode ser acolhida, pois apenas a conclusão do processo poderá revelar o regime prisional aplicável em caso de condenação.
+9. Condições pessoais favoráveis, como ocupação lícita e residência fixa, não são suficientes para revogar a prisão preventiva quando há elementos concretos que recomendam sua manutenção.
+IV. Dispositivo e tese
+10. Resultado do Julgamento: Agravo regimental não provido.
+Tese de julgamento:
+1. A prisão preventiva pode ser mantida quando fundamentada em dados concretos que evidenciem a necessidade de encarceramento provisório para garantir a ordem pública e evitar a reiteração criminosa. 2. Antecedentes, reincidência ou outras ações penais ou inquéritos em curso justificam a imposição de prisão cautelar. 3. A desproporcionalidade da custódia cautelar em relação à provável futura pena não pode ser analisada em sede de agravo regimental. 4. Condições pessoais favoráveis não são suficientes para revogar a prisão preventiva quando há elementos concretos que recomendam sua manutenção.
+Dispositivos relevantes citados:Código Penal, art. 157, caput; Código Penal, art. 61, II, "h".
+Jurisprudência relevante citada:STJ, RHC 156.048/SC, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, julgado em 15.02.2022, DJe 18.02.2022; STJ, AgRg no RHC 196.193/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 01.07.2024, DJe 03.07.2024; STJ, AgRg no HC 910.540/CE, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe 03.07.2024; STJ, AgRg no HC 902.557/SP, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, DJe 03.07.2024; STJ, AgRg no HC 912.267/MG, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, DJe 28.06.2024; STJ, AgRg no RHC 189.368/DF, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 20.05.2024, DJe 24.05.2024; STJ, AgRg no REsp 2.151.569/PA, Rel. Min. Daniela Teixeira, Quinta Turma, julgado em 04.12.2024, DJe 09.12.2024.
+VOTO
+O  presente  Agravo  Regimental  não  merece  provimento.
+ O  agravo  regimental  deve  trazer  novos  argumentos  capazes  de  alterar  o  entendimento  anteriormente  firmado,  sob  pena  de  ser  mantida  a  r.  decisão  vergastada  por  seus  próprios  fundamentos.
+Nesse  compasso,  não  obstante  o  teor  das  razões  suscitadas  no  presente  recurso,  não  vislumbro  elementos  hábeis  a  alterar  a  decisão  de  fls.  45-46.  Ao  contrário,  os  argumentos  ali  externados  merecem  ser  ratificados  pelo  Colegiado.
+A análise da decisão que decretou a prisão preventiva, bem como do acórdão objurgado, permitem a conclusão de que a prisão cautelar imposta ao agravante encontra-se devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório, notadamente se considerado o fundado receio de reiteração criminosa, uma vez que o agravante foi preso em flagrante pelo crime de furto, em março de 2025, quando lhe foi concedida a liberdade provisória com imposição de medidas cautelares diversas da prisão e com 19 anos de idade, ostenta diversas passagens pela Vara da Infância e Juventude.
+Conforme pacífica jurisprudência desta Corte:
+"como sedimentado em farta jurisprudência desta Corte, maus antecedentes, reincidência ou até mesmo outras ações penais ou inquéritos em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública" (RHC n. 156.048/SC, Rel. Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 15/02/2022, DJe 18/02/2022)."(AgRg no RHC n. 196.193/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1/7/2024, DJe de 3/7/2024.)
+Outrossim, conforme a jurisprudência desta Corte, a contumácia delitiva justifica a prisão cautelar para a garantia da ordem pública. Nesse sentido: AgRg no HC n. 910.540/CE, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 3/7/2024; AgRg no HC n. 902.557/SP, Sexta Turma; Rel. Min. Antonio Saldanha Palheiro, DJe de 3/7/2024 e AgRg no HC n. 912.267/MG, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 28/6/2024.
+Quanto a afirmação de que em caso de condenação terá direito a regime diverso do fechado, a desproporcionalidade da custódia cautelar à provável futura pena do agravante não comporta acolhimento, pois apenas a conclusão do processo será capaz de revelar se o acusado será beneficiado com a fixação de regime prisional diverso do fechado, sendo inviável essa discussão neste momento processual.
+Nesse sentido:
+"Não é possível afirmar que a medida excepcional se mostra desproporcional em relação à eventual condenação que a agravante venha sofrer no fim do processo, porquanto, em habeas corpus e no respectivo recurso ordinário é inviável concluir a quantidade de pena que poderá ser imposta, tampouco se iniciará o resgate da reprimenda em regime diverso do fechado" (AgRg no RHC n. 189.368/DF, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 20/5/2024, DJe de 24/5/2024.)
+Por fim, condições pessoais favoráveis, tais como ocupação lícita e residência fixa, não têm o condão de garantirem ao agravante a revogação da prisão preventiva se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, o que ocorre na hipótese.
+Destarte,  neste  agravo  regimental,  não  se  aduziu  qualquer  argumento  novo  e  apto  a  ensejar  a  alteração  da  decisão  ora  agravada,  devendo  ser  mantida  por  seus  próprios  e  jurídicos  fundamentos.
+A  propósito:
+"Diante da ausência de argumentos novos e idôneos para infirmar os fundamentos da decisão agravada e considerando que a decisão está em conformidade com os precedentes do STF e STJ, o agravo regimental não merece provimento" (AgRg no REsp n. 2.151.569/PA, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 4/12/2024, DJe de 9/12/2024.)
+Ante  o  exposto,  por  não  vislumbrar  a  existência  de  argumentos  capazes  de  alterar  o  entendimento  anteriormente  exposto,  nego  provimento  ao  agravo  regimental.
+É  o  voto.
