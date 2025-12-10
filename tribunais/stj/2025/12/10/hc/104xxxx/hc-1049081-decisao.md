@@ -1,0 +1,16 @@
+DECISÃO
+O presente writ, impetrado em benefício de FERNANDO CONCEIÇÃO SANTOS - condenado como incurso no crime de tráfico de drogas -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DE SÃO PAULO (Apelação Criminal n. 1503852-21.2021.8.26.0228), não comporta processamento.
+Com efeito, busca a impetração a revisão da dosimetria da pena imposta pelo Juízo de Direito da 18ª Vara Criminal da comarca de São Paulo/SP (Ação Penal n. 1503852-21.2021.8.26.0228), ao argumento de ilegalidade na exasperação da pena-base com fundamento na quantidade de droga apreendida, pois não foram consideradas, conjuntamente, a natureza e a quantidade da droga, em afronta ao art. 42 da Lei n. 11.343/2006.
+Sustenta que se trata de maconha, droga de menor nocividade, e que a quantidade apreendida não extrapola a normalidade do tipo, não justificando a negativação de circunstâncias judiciais.
+Inicialmente, verifico que o writ foi apresentado com o objetivo de revisar a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível.
+Ademais, não observo a ocorrência do ilegal constrangimento.
+O Magistrado singular, corroborado pelo Tribunal de origem, aumentou a pena na primeira fase, com fundamento no art. 42 da Lei n. 11.343/2006, considerando a quantidade de maconha apreendida, argumentando que a sanção deve ser fixada três meses acima do mínimo legal porque a quantidade de drogas é algo grande (quase dois quilos), estando longe de poder ser pequena e menos ainda mínima, mas também não sendo muito grande ou enorme, perfazendo pena de cinco anos e três meses de reclusão e quinhentos e vinte e cinco dias-multa (fl. 37).
+De fato, a quantidade do entorpecente apreendido (quase 2 quilos de maconha - fl. 30) é capaz de justificar a exasperação, uma vez que desborda do tipo penal.
+E como bem ressaltou o Tribunal de origem, as penas-base foram dosadas apenas 3 meses acima do piso legal, com supedâneo na quantidade de droga apreendida: 5 tabletes de maconha pesando quase dois quilos. O Magistrado de piso aplicou o que seria equivalente à estranha fração de um vigésimo de aumento sobre o piso, o que, evidentemente, não pode ser tido por exagerado ou desproporcional (fl. 45 - grifo nosso).
+Nesse sentido: AgRg no HC n. 992.617/SP, Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 3/9/2025, DJEN de 8/9/2025; AgRg no HC n. 834.156/MS, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 26/2/2024, DJe de 1/3/2024.
+Note-se que, diante da inexistência de um critério matemático para a escolha das frações de aumento em função da negativação dos vetores contidos no art. 59 do Código Penal, é garantida a discricionariedade do julgador para a fixação da pena-base dentro do seu livre convencimento motivado e de acordo com as peculiaridades do caso concreto.
+Em face do exposto, indefiro liminarmente a petição inicial.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRETENSÃO DE REVISAR NOVAMENTE A CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. INADMISSIBILIDADE. DOSIMETRIA. PENA-BASE EXASPERADA COM FUNDAMENTO NA QUANTIDADE DE DROGA APREENDIDA (QUASE DOIS QUILOS DE MACONHA). QUANTUM QUE DESBORDA DO TIPO PENAL. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Petição inicial indeferida liminarmente.
