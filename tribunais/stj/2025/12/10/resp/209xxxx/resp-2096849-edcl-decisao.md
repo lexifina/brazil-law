@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pelo SERVIÇO SOCIAL DA INDÚSTRIA - SESI, da decisão de fls. 568/574, na qual dei provimento ao recurso especial para declarar a sua ilegitimidade ativa para promover a cobrança da contribuição social após a edição da Lei 11.457/2007.
+A parte embargante alega:
+ ..  que o processo deveria ter sido suspenso por força de acórdão da Primeira Seção do Superior Tribunal de Justiça, publicado em 21/08/2024, que afetou o EREsp 1793915/RJ, EREsp 1997816/RJ e REsp 2034824/RJ ao rito dos recursos repetitivos - Tema Repetitivo 1.275, em razão da controvérsia acerca da legitimidade ativa da entidade paraestatal para a constituição e cobrança das contribuições que lhe são devidas.
+A parte adversa apresentou impugnação (fls. 594/595).
+É o relatório.
+A questão debatida nos autos foi afetada à Primeira Seção do Superior Tribunal de Justiça para ser decidida sob o rito de recursos repetitivos (Tema 1.275), e, em princípio, foi assim delimitada:
+"Decidir sobre a legitimidade ativa da entidade paraestatal para a constituição e cobrança da contribuição ao SENAI e respectivo adicional previsto no art. 6º, do Decreto-Lei n. 4.048/42, considerando a compatibilidade do art. 50, do Decreto n. 494/62, e do art. 10, do Decreto n. 60.466/67, com o art. 217, do CTN, o art. 146, III, "b", da CF/88, a Lei n. 11.457/2007 e legislação posterior".
+Posteriormente, na sessão eletrônica de 27/08/2025-02/09/2025, decidiu-se pela ampliação do tema, nos seguintes termos:
+"Definir se há legitimidade dos terceiros destinatários de contribuições para integrar o polo passivo de ação judicial em que se discute a relação jurídico-tributária e/ou repetição de indébito entre o contribuinte e a União ou as suas Autarquias" (EResps 1.793.915/RJ e 1.997.816/RJ, REsps 2.034.824/RJ, 2.170.082/SP e 2.170.092/SP, relator Ministro Marco Aurélio Bellizze).
+No que diz respeito à determinação de sobrestamento de processo em julgamento de embargos de declaração, a jurisprudência desta Corte Superior é no sentido de que, "havendo julgamento pelo órgão colegiado de matéria submetida à sistemática da repercussão geral, o recurso integrativo deve ser acolhido, com efeitos modificativos, para anular o acórdão embargado, determinando-se a devolução dos autos ao Tribunal de origem para que seja promovido o juízo de conformação" (EDcl no AgInt no REsp 1.933.253/RS, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 18/3/2022).
+Nesse mesmo sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO. MILITAR INATIVO. LICENÇA ESPECIAL. CONVERSÃO EM PECÚNIA. MATÉRIA AFETADA À SISTEMÁTICA DOS RECURSOS REPETITIVOS. RESPS 1.925.192/RS, 1.925.193/RS e 1.928.910/RS (TEMA 1.109/STJ). RETORNO DOS AUTOS DO PROCESSO, SOBRESTANDO-OS NO TRIBUNAL DE ORIGEM. EMBARGOS DE DECLARAÇÃO ACOLHIDOS.
+1. Os embargos de declaração, nos termos do art. 1.022 do Código de Processo Civil, são cabíveis quando há obscuridade, contradição, omissão ou erro material no julgado. Em hipóteses excepcionais, a jurisprudência do Superior Tribunal de Justiça permite que a eles se empreste efeitos infringentes.
+2. A questão debatida nos autos, qual seja, a "definição acerca da ocorrência, ou não, de renúncia tácita da prescrição, como prevista no art. 191 do Código Civil, quando a Administração Pública, no caso concreto, reconhece o direito pleiteado pelo interessado", encontra-se afetada à Primeira Seção desta Corte Superior, aguardando o julgamento dos REsps 1.925.192/RS, 1.925.193/RS e 1.928.910/RS, de relatoria do Ministro Sérgio Kukina, sob o rito dos recursos repetitivos (Tema 1.109 /STJ).
+3. Embargos de declaração acolhidos, com a determinação de retorno dos autos ao Tribunal de origem para que o órgão julgador a quo realize juízo de conformação com a tese firmada pelo STJ.
+(EDcl no AgInt no AREsp n. 2.035.653/RJ, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 27/5/2024, DJe de 7/6/2024.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. TEMA AFETADO. SISTEMÁTICA DOS RECURSOS REPETITIVOS. SOBRESTAMENTO.
+1. Os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material.
+2. Nos casos em que há discussão acerca de matéria submetida à sistemática do julgamento repetitivo ou da repercussão geral, o recurso integrativo deve ser acolhido para que, atribuindo-se-lhe efeitos modificativos, seja anulado o acórdão embargado e determinada a remessa dos autos à instância de origem, a fim de que se viabilize o juízo de conformação, hoje disciplinado nos arts. 1.040 e 1.041 do CPC/2015.
+3. Hipótese em que o tema relativo à inadmissão da restituição administrativa do indébito na via judicial, sendo indispensável a observância do regime constitucional de precatórios, nos termos do art. 100 da Constituição Federal, foi afetado a julgamento sob o rito repercussão geral (Tema 1.262).
+4. Embargos acolhidos, com a atribuição de efeitos infringentes.
+(EDcl no AgInt no AREsp n. 2.237.579/PR, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023.)
+E d e acordo com o disposto no art. 34, XXIV, do Regimento Interno do Superior Tribunal de Justiça, em situações em que o recurso versa sobre a mesma controvérsia objeto de recursos representativos de controvérsia já julgados, os autos devem retornar ao Tribunal de origem para que seja providenciado o juízo de conformação:
+Art. 34. São atribuições do relator:
+ ..
+XXIV - determinar a devolução ao Tribunal de origem dos recursos especiais fundados em controvérsia idêntica àquela já submetida ao rito de julgamento de casos repetitivos para adoção das medidas cabíveis.
+Ante o exposto, torno sem efeito a decisão proferida às fls. 568/574, julgo prejudicados os presentes embargos de declaração e os de fls. 577/580 e determino a devolução dos autos ao TRIBUNAL DE JUSTIÇA DE MINAS GERAIS a fim de que proceda nos termos do art. 1.040 e seguinte do mesmo CPC.
+Publique-se. Intimem-se.
+EMENTA
