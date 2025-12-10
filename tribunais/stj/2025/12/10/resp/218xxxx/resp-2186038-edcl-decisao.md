@@ -1,0 +1,19 @@
+DECISÃO
+Examina-se embargos de declaração opostos por ANTONIO JOÃO BEIRIGO em face de decisão que rejeitou os embargos de declaração por ele opostos, nos seguintes termos:
+"EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OBSCURIDADE,OMISSÃO, CONTRADIÇÃO OU ERRO MATERIAL. NÃO OCORRÊNCIA. REFORMA DO JULGADO. IMPOSSIBILIDADE. 1. Os embargos de declaração são instrumento processual excepcional e, a teor do art. 1.022 do CPC/2015, destinam-se ao aprimoramento do julgado que contenha obscuridade, contradição, erro material ou omissão sobre tema cujo pronunciamento se impunha manifestar o julgador. Não se prestam à simples reanálise da causa, nem são vocacionados a modificar o entendimento do órgão julgador.2. A omissão justificadora de suprimento no julgado embargado é aquela concernente a ponto suscitado pela parte e sobre o qual o órgão julgador deveria se manifestar, por ser fundamental ao pleno desfecho da controvérsia. Precedentes. 3. O erro material apto a acolher os declaratórios é aquele evidente quanto a aspectos incontroversos da demanda, o que não se verificar na espécie. 4. Embargos de declaração rejeitados."
+Em suas razões, converge para: (i) suprir omissão quanto à existência da data e local de emissão na cártula; (ii) afastar a aplicação da Súmula 7/STJ por se tratar de correção de erro material; (iii) sanar contradição com o primeiro grau que reconheceu a validade do título e a possibilidade de complementação; (iv) viabilizar o pré-questionamento dos arts. 75 e 76 da LUG e demais dispositivos; (v) exigir enfrentamento das preliminares de admissibilidade; e (vi) atribuir efeitos infringentes para negar provimento ao REsp do Embargado.
+É o relatório.
+Os embargos de declaração são instrumento processual excepcional e, a teor do art. 1.022 do destinam-se ao aprimoramento CPC/2015, do julgado que contenha obscuridade, contradição, erro material ou omissão sobre tema cujo pronunciamento se impunha manifestar o julgador. Não se prestam à simples reanálise da causa, nem são vocacionados a modificar o entendimento do órgão julgador.
+Na espécie, não se verifica quaisquer desses vícios, mas tão somente a irresignação do recorrente quanto ao ponto que se pretende discutir.
+O que se verifica na espécie é que os mesmos argumentos apresentados nos
+primeiros embargos de declaração foram apresentados no presente, haja vista que alegação de inaplicabilidade da Súmula 07/STJ e o alegado erro de digitação não se configuram como vícios aptos à acolher os embargos de declaração.
+Assim, verifica-se que os embargos tem caráter eminentemente protelatório, razão pela qual é cabível a multa.
+Forte nessas razões, REJEITO os embargos de declaração, com aplicação de multa de 1% sobre o valor atualizado da causa, em conformidade com o art. 1.026, §2º, do Código de Processo Civil.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OBSCURIDADE, OMISSÃO, CONTRADIÇÃO OU ERRO MATERIAL. NÃO OCORRÊNCIA. REFORMA DO JULGADO. IMPOSSIBILIDADE.
+1. Os embargos de declaração são instrumento processual excepcional e, a teor do do destinam-se ao aprimoramento art. 1.022 CPC/2015, do julgado que contenha obscuridade, contradição, erro material ou omissão sobre tema cujo pronunciamento se impunha manifestar o julgador. Não se prestam à simples reanálise da causa, nem são vocacionados a modificar o entendimento do órgão julgador.
+2. A omissão justificadora de suprimento no julgado embargado é aquela concernente a ponto suscitado pela parte e sobre o qual o órgão julgador deveria se manifestar, por ser fundamental ao pleno desfecho da controvérsia. Precedentes.
+3. Não se verifica omissão no acórdão embargado que analisou os dispositivos
+legais alegados pelo recorrente como violados e abrangeu integralmente as
+matérias submetida a esta Corte.
+4. Embargos de declaração rejeitados, com aplicação de multa.
