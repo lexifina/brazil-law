@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de agravo interposto por HM 13 EMPREENDIMENTO IMOBILIÁRIO LTDA. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fls. 275-281):
+COMPROMISSO DE COMPRA E VENDA DE IMÓVEL Rescisão - Parcial procedência - Preliminar afastada - Inexigibilidade das taxas condominiais está implícita no pedido de devolução- Mora da ré, vendedora, configurada- Chaves que não foram entregues mesmo após a assinatura do contrato de financiamento, que correspondia à maior parte do preço - Adquirente que não pode arcar com taxas condominiais antes da efetiva entrega do imóvel - Mora da vendedora que implica na devolução integral dos valores, inclusive a taxa de corretagem paga - Danos morais inocorrentes - Mero aborrecimento - Recurso do autor parcialmente provido - Recurso da ré desprovido.
+Sem embargos de declaração.
+No recurso especial, a parte recorrente, além de divergência jurisprudencial, alega violação do art. 67-A, § 5º, da Lei n. 4.591/1964 e dos arts.104 e 422, ambos do CC.
+Aduz, em síntese, que: a) rescisão do contrato se deu por culpa da parte recorrida, aplicando-se a Lei nº 4.591/1964, e o seu artigo 67-A, §5º, que dispõe sobre o percentual de retenção de 50% (cinquenta por cento); b) a adoção subsidiária, caso se entenda pela inaplicabilidade da retenção prevista contratualmente, da retenção de 25% (vinte e cinco por cento) dos valores pagos pela parte recorrida; c) o acórdão recorrido apresentou entendimento divergente de outros Tribunais, a exemplo do Tribunal de Justiça do Mato Grosso do Sul e do Tribunal de Justiça do Rio de Janeiro.
+Sem contrarrazões ao recurso especial (fl. 366).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls.367-369), o que ensejou a interposição do presente agravo.
+Não foi apresentada contraminuta (fl.388).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Da violação do art. 67-A, § 5º, da Lei nº 4.591/1964 e dos arts. 104 e 422 do CC
+Considerando as razões expostas pela parte recorrente, verifica-se que o acórdão do Tribunal de origem não se manifestou sobre os artigos indicados como violados. Colhe-se do teor do citado acórdão que não foram objeto de exame os seguintes artigos: 67-A, § 5º, da Lei nº 4.591/1964 e 104 e 422 do CC.
+Da mesma forma, não consta no acordão recorrido apreciação sobre as teses referentes aos citados dispositivos. Inexiste análise a respeito do percentual de retenção dos valores pagos pela parte recorrida, até porque o acórdão concluiu que a rescisão do contrato foi por motivo de que a parte recorrente estava em mora por ter deixado de entregar as chaves.
+Para melhor compreensão, transcrevo trecho do acórdão (fl.278):
+Apesar de o contrato prever também que a chaves somente seriam entregues após o pagamento de todas as parcelas, é razoável entender que a referida entrega deveria ocorrer imediatamente após assinatura do contrato de financiamento, o que correspondia a 80% do preço do imóvel.
+Não foi, entretanto, o que ocorreu, uma vez que mesmo após o autor ter pago as parcelas iniciais e contratado o devido financiamento imobiliário a ré se recusou a entregar as chaves, o que motivou a assinatura do distrato contratual (fls. 61-65). Assim, o pedido de rescisão do contrato encontra-se motivado pelo compromissário comprador, havendo mora da vendedora, determinando-se a devolução integral de todos os valores por eles adimplidos, incluindo a comissão de corretagem.
+Registre-se que a parte recorrente não opôs embargos de declaração com vistas a suprir eventual omissão perpetrada pelo Tribunal de origem. Por isso, o julgamento do recurso especial, quantos aos referidos dispositivos é inadmissível, diante da ausência de prequestionamento. Aplica-se, na hipótese, a Súmula 356/STF.
+Com efeito, é inviável o conhecimento do recurso especial em relação aos artigos apontados como violados, que não foram apreciados pelo Tribunal de origem, incidindo, igualmente, o óbice da Súmula 282/STF.
+Ressalta-se que, na instância especial, a apreciação de ofício de matéria, mesmo de ordem pública, não dispensa o requisito do prequestionamento (AgInt nos EAREsp n. 1.327.393/MA, relator Ministro Felix Fischer, Corte Especial, julgado em 16/12/2020, DJe de 18/12/2020).
+Da divergência jurisprudencial
+Em relação a esse ponto, o recurso não comporta conhecimento, visto que, interposto pela alínea "c" do permissivo constitucional, a parte recorrente não promoveu o devido cotejamento analítico, limitando-se a realizar a citação de ementas de julgados que entende acolher sua tese recursal atraindo o óbice da Súmula n. 284/STF.
+Verifica-se que não houve demonstração da divergência nos moldes legais, tendo em vista que a parte recorrente, ao deixar de realizar o devido cotejo analítico, conforme previsto nos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ, também não indicou a similitude fática e o dissenso na interpretação do dispositivo de lei federal. Ao revés, da simples leitura da jurisprudência colacionada, afere-se que se trata de situação fática totalmente distinta, mormente, no que se refere à questão de quem motivou a rescisão contratual
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 18% sobre o valor atualizado da causa.
+Publique-se. Intimem-se.
+ EMENTA
