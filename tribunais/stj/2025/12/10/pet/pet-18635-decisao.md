@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de pedido de tutela cautelar formulado, mediante petição protocolada em 3/12/2025, por Condomínio do Edifício Cap Saint Tropez, em que requer a concessão de efeito suspensivo para o recurso especial interposto nos autos da Ação Ordinária 0026066-82.2020.8.17.2001.
+Sustenta a probabilidade de provimento do nobre apelo, ao argumento de que o acórdão recorrido viola a tese definida no Tema 414/STF.
+Segundo afirma, "O acórdão recorrido, data venia, incorreu em equívoco ao manter a forma de tarifação que considera o Condomínio de 45 (quarenta e cinco) unidades como um único imóvel/economia. Tal metodologia impulsiona o consumo global para a última faixa tarifária, elevando o custo de forma desproporcional e ilegal. Conforme demonstrado nos autos e corroborado pelo parecer da ARPE (Agência de Regulação de Pernambuco)  prova técnica sumariamente ignorada na decisão impugnada  , a metodologia aplicada pela COMPESA destoa das normas regulamentares vigentes" (fl. 6).
+A título de periculum in mora, aponta que " A manutenção da cobrança nos moldes atuais impõe ao Condomínio Recorrente e, por extensão, a cada um dos condóminos, um prejuízo financeiro mensal vultoso e indevido" (fl. 9).
+É O NECESSÁRIO RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Inicialmente, anoto que, nas hipóteses em que os recursos especiais não foram submetidos a prévio juízo de admissibilidade perante os Tribunais de origem, torna-se inviável, em regra, a apreciação, por esta Corte Superior, de pedidos de concessão de efeito suspensivo a apelos raros, na medida e que, nesses casos, não foi exaurida a jurisdição ordinária. Nessa linha de percepção, menciono o seguinte precedente:
+AGRAVO INTERNO NO PEDIDO DE TUTELA CAUTELAR. AÇÃO DE INTERDITO PROIBITÓRIO. CONVERSÃO EM REINTEGRAÇÃO DE POSSE. PRINCÍPIO DA FUNGIBILIDADE DAS AÇÕES POSSESSÓRIAS. ESBULHO. REQUISITOS PREENCHIDOS. EFEITO SUSPENSIVO A RECURSO ESPECIAL AINDA NÃO INTERPOSTO. EXCEPCIONALIDADE DA MEDIDA. INSTÂNCIA ORDINÁRIA NÃO ESGOTADA. PRETENSÃO INADMISSÍVEL. REITERAÇÃO DE PEDIDO JÁ INDEFERIDO POR ESTA CORTE. AGRAVO INTERNO DESPROVIDO.
+1. Trata-se de mera reiteração de pedido anterior, já indeferido na TutCautAnt 285/TO, sem nenhum fato novo que justifique o reexame das alegações.
+2. A competência do Superior Tribunal de Justiça para a apreciação de pleito objetivando a concessão de efeito suspensivo a recurso especial instaura-se após realizado o juízo de admissibilidade pelo Tribunal de origem (art. 1.029, § 5º, I, II e III, do CPC/2015).
+3. Na espécie, é inviável a análise de eventual manifesta ilegalidade, pois nem sequer foi esgotada a jurisdição do Tribunal Estadual, uma vez que estão pendentes de julgamento embargos de declaração opostos ao acórdão proferido na apelação. Não se trata, portanto, de recurso especial pendente de admissibilidade, pois o acórdão estadual ainda será integrado por outro que vier a julgar os embargos de declaração.
+4 . Agravo interno desprovido.
+(AgInt na Pet n. 16.585/TO, relator Ministro Raul Araújo, Quarta Turma, julgado em 19/3/2024, DJe de 22/3/2024.)
+É certo, porém, que, "em casos excepcionais, observada a satisfação cumulativa dos requisitos do fumus boni iuris e do periculum in mora, o Superior Tribunal de Justiça admite a atribuição de efeito suspensivo a recurso pendente de admissibilidade, a fim de coibir a eficácia de decisão teratológica ou em manifesta contrariedade à jurisprudência assentada desta Corte" (AgInt na TutAntAnt n. 303/CE, Relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, DJe de 3/10/2024).
+Ora, no caso em exame, não está configurada a situação excepcional que justificaria a atuação, per saltum, do Superior Tribunal de Justiça.
+ANTE O EXPOSTO, não conheço do pedido.
+Publique-se.
+EMENTA
