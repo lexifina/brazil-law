@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/12/2025 a 10/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. DIREITO PENAL E PROCESSUAL PENAL. FALSIDADE IDEOLÓGICA. TESE DE ATIPICIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. DEFICIÊNCIA DE FUNDAMENTAÇÃO. NÃO OCORRÊNCIA. ART. 619 DO CPP. VIOLAÇÃO NÃO CONFIGURADA. ARGUMENTAÇÃO RECURSAL QUE NÃO INFIRMA OS FUNDAMENTOS DA DECISÃO AGRAVADA.
+Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por MARIA SANDRA MARTINS e SHIRLEY SORVILO VASCONCELOS contra a decisão monocrática de minha relatoria que conheceu parcialmente do recurso especial para, nessa extensão, dar-lhe provimento (fls. 2.148/2.151).
+Em suas razões (fls. 2.157/2.163), a parte agravante sustenta que a análise da tipicidade constitui matéria exclusivamente jurídica, dispensando reexame fático-probatório, não incidindo a Súmula 7/STJ. Assevera que o art. 299 do Código Penal exige "inserção de declaração falsa", mas os dados inseridos não seriam falsos, tratando-se de opção negocial lícita.
+Argumenta que a questão se limita à interpretação dos arts. 1º e 299 do Código Penal, constituindo matéria de direito. Afirma, subsidiariamente, que o Tribunal de origem não enfrentou adequadamente a tese de atipicidade, violando o art. 619 do Código de Processo Penal.
+Requer, ao final, o provimento do agravo regimental para que seja dado integral provimento ao recurso especial, reconhecendo-se a atipicidade da conduta ou, subsidiariamente, a nulidade do acórdão por deficiência de fundamentação.
+Impugnação do MPSP pelo não processamento do presente do agravo regimental e, caso contrário, que seja negado provimento (fls. 2.166/2.171).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. DIREITO PENAL E PROCESSUAL PENAL. FALSIDADE IDEOLÓGICA. TESE DE ATIPICIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. DEFICIÊNCIA DE FUNDAMENTAÇÃO. NÃO OCORRÊNCIA. ART. 619 DO CPP. VIOLAÇÃO NÃO CONFIGURADA. ARGUMENTAÇÃO RECURSAL QUE NÃO INFIRMA OS FUNDAMENTOS DA DECISÃO AGRAVADA.
+Agravo regimental improvido.
+VOTO
+O agravo regimental não merece prosperar.
+Quanto à Súmula 7/STJ, a pretensão defensiva, conquanto formalmente invoque interpretação de dispositivos legais, demanda, na essência, o revolvimento do acervo fático-probatório dos autos para conclusão diversa daquela alcançada pelas instâncias ordinárias quanto à efetiva ocorrência da inserção de dados falsos em documento público e quanto à presença do elemento subjetivo do tipo penal.
+O Tribunal de origem, após detida análise do conjunto probatório colhido durante a instrução criminal, concluiu que as agravantes tinham plena ciência de que inseriam declarações falsas nas escrituras públicas, fazendo constar Maria Sandra como adquirente dos imóveis quando, na realidade, as transações eram efetivamente realizadas pela empresa Olivver Consultoria Imobiliária, dirigida pela corré Shirley.
+Conforme consignado no acórdão recorrido, após longa análise do contexto fático-probatório (fls. 1.949/1.950):
+Outrossim, ainda que as acusadas e a defesa sustentem que os imóveis eram registrados em nome de Maria Sandra por estratégia comercial, a fim de facilitar questões burocráticas decorrentes das vendas, não apontaram justificativa plausível para que as escrituras públicas não fossem feitas em nome da empresa Olivver Consultoria.
+ ..
+De mesmo modo, o dolo no presente caso é incontestável. Isto porque, ambas as rés, atuantes no mercado imobiliário e que, portanto, possuem ou ao menos deveriam possuir, o conhecimento suficiente para o regular registro da aquisição de imóveis, fizeram constar das escrituras públicas, que originaram as averbações nas matrículas dos imóveis acima mencionados, como adquirente a ré Maria Sandra, sendo que a verdadeira responsável pelas aquisições dos imóveis e suas posteriores vendas, era a empresa Olivver Consultoria Imobiliária, dirigida por Shirley.
+Verifica-se, portanto, que a Corte estadual, com base nos elementos probatórios coligidos aos autos, concluiu pela presença de todos os elementos do tipo penal previsto no art. 299 do Código Penal, especialmente quanto à inserção de declaração falsa em documento público (indicação de Maria Sandra como adquirente quando a real compradora era a pessoa jurídica) e quanto ao elemento subjetivo consistente na intenção de alterar a verdade sobre fato juridicamente relevante.
+Pretender que esta Corte Superior reexamine essas circunstâncias implica, necessariamente, reapreciar o contexto fático-probatório, o que encontra óbice intransponível na Súmula 7/STJ. Nesse sentido: AgRg no REsp n. 1.960.352/PE, Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, DJe 2/3/2022.
+Assim, incide plenamente, na hipótese, o óbice da Súmula 7/STJ, conforme corretamente reconhecido na decisão agravada.
+Por outro lado, em relação às omissões apontadas pelas agravantes - relacionadas à alegada apreciação deficiente da tese de atipicidade da conduta - não se vislumbra ofensa ao art. 619 do Código de Processo Penal, pois o Tribunal de origem se pronunciou sobre todos os aspectos relevantes para a definição da causa, não havendo que se falar em omissão ou deficiência de fundamentação.
+Segundo a jurisprudência desta Corte, o julgador não está obrigado a rebater, um a um, todos os argumentos trazidos pela defesa, sendo suficiente que fundamente adequadamente sua decisão, como ocorreu no caso concreto (AgRg no AREsp n. 2.008.879/RN, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 18/8/2022).
+No acórdão local, após extensa análise das provas e dos fatos, a Corte estadual concluiu pela tipicidade da conduta, fundamentando detidamente a presença de todos os elementos do tipo penal do art. 299 do Código Penal, inclusive quanto ao elemento subjetivo e à efetiva inserção de dados falsos nos documentos públicos (fls. 1.949/1.950).
+Ressalte-se que a alegação de que houve mera argumentação retórica não encontra respaldo nos autos, uma vez que o acórdão enfrentou a controvérsia com base nos elementos probatórios colhidos durante a instrução criminal, justificando de forma adequada a conclusão adotada.
+Na espécie, a insurgência recursal não trouxe argumentos novos capazes de infirmar os fundamentos da decisão monocrática, limitando-se a reiterar as mesmas teses já adequadamente enfrentadas e rechaçadas, razão pela qual deve ser mantida integralmente a decisão agravada.
+Pelo exposto, nego provimento ao agra vo regimental.
