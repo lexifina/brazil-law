@@ -1,0 +1,98 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/12/2025 a 10/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Joel Ilan Paciornik, Messod Azulay Neto, Maria Marluce Caldas e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito Processual Penal. Agravo Regimental no Habeas Corpus. Reiteração de pedido. Matéria analisada em AREsp anterior. Agravo improvido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus, sob o fundamento de reiteração de pedido anteriormente analisado em agravo em recurso especial, ao qual foi aplicado o óbice da Súmula 7/STJ.
+2. O agravante alegou que a decisão agravada incorreu em equívoco ao afirmar tratar-se de reiteração, sustentando que a matéria de mérito não foi apreciada no agravo em recurso especial, em razão da vedação ao reexame do conjunto fático-probatório.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se é admissível a reiteração de pedido em habeas corpus, já apresentado em sede de agravo em recurso especial, ao qual foi aplicada a Súmula 7/STJ.
+III. Razões de decidir
+4. A jurisprudência do STJ é pacífica no sentido de que não se conhece de habeas corpus que constitui mera reiteração de pedido já analisado em agravo em recurso especial, em razão da reiteração de pedido.
+5. O mesmo óbice contido na Súmula 7/STJ, que impede o revolvimento do conjunto fático-probatório, é aplicado ao habeas corpus, dada sua natureza de ação constitucional de rito célere e cognição sumária.
+IV. Dispositivo e tese
+6. Resultado do Julgamento: Agravo regimental improvido.
+Tese de julgamento:
+1. A reiteração de pedido em habeas corpus, já analisado em agravo em recurso especial, é inviável, conforme jurisprudência pacificada do STJ.
+Dispositivos relevantes citados:
+Não há dispositivos relevantes.
+Jurisprudência relevante citada:STJ, AgRg no HC 899.189/CE, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 09.04.2024; STJ, AgRg no HC 961.822/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19.02.2025; STJ, AgRg no HC 993.267/SP, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, julgado em 21.05.2025.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ERIC MACHADO VIEIRA (ou ERICK MACHADO VIEIRA) contra a decisão de fls. 106-110 (e-STJ), que não conheceu do habeas corpus.
+O agravante alega, em suma, que a decisão agravada incorre em equívoco ao afirmar que se trata de reiteração, pois a matéria de mérito não foi apreciada, tendo em vista que o AREsp 2.956.681/ES, não foi conhecido em razão da aplicação da Súmula 7/STJ, que veda o reexame do conjunto fático-probatório.
+Entende que não houve análise substancial da violação do art. 155 do CPP, tampouco apreciação da tese de nulidade da pronúncia por ter se fundado exclusivamente em depoimentos indiretos ("ouvir dizer") e elementos inquisitoriais.
+Requer, ao final, a reconsideração da decisão agravada ou a submissão do presente recurso ao órgão colegiado para que seja anulada a decisão de pronúncia, diante da nulidade decorrente dos exclusivos depoimentos por "ouvir dizer", manifestamente inaptos a satisfazer o standard mínimo exigido pelo art. 413 do CPP. Subsidiariamente, pleiteia que seja determinado que o Tribunal de origem profira nova decisão de pronúncia com base apenas em prova judicializada e idônea, afastando-se qualquer elemento colhido em sede inquisitorial.
+É o relatório.
+EMENTA
+Direito Processual Penal. Agravo Regimental no Habeas Corpus. Reiteração de pedido. Matéria analisada em AREsp anterior. Agravo improvido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus, sob o fundamento de reiteração de pedido anteriormente analisado em agravo em recurso especial, ao qual foi aplicado o óbice da Súmula 7/STJ.
+2. O agravante alegou que a decisão agravada incorreu em equívoco ao afirmar tratar-se de reiteração, sustentando que a matéria de mérito não foi apreciada no agravo em recurso especial, em razão da vedação ao reexame do conjunto fático-probatório.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se é admissível a reiteração de pedido em habeas corpus, já apresentado em sede de agravo em recurso especial, ao qual foi aplicada a Súmula 7/STJ.
+III. Razões de decidir
+4. A jurisprudência do STJ é pacífica no sentido de que não se conhece de habeas corpus que constitui mera reiteração de pedido já analisado em agravo em recurso especial, em razão da reiteração de pedido.
+5. O mesmo óbice contido na Súmula 7/STJ, que impede o revolvimento do conjunto fático-probatório, é aplicado ao habeas corpus, dada sua natureza de ação constitucional de rito célere e cognição sumária.
+IV. Dispositivo e tese
+6. Resultado do Julgamento: Agravo regimental improvido.
+Tese de julgamento:
+1. A reiteração de pedido em habeas corpus, já analisado em agravo em recurso especial, é inviável, conforme jurisprudência pacificada do STJ.
+Dispositivos relevantes citados:
+Não há dispositivos relevantes.
+Jurisprudência relevante citada:STJ, AgRg no HC 899.189/CE, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 09.04.2024; STJ, AgRg no HC 961.822/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19.02.2025; STJ, AgRg no HC 993.267/SP, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, julgado em 21.05.2025.
+VOTO
+Não obstante os argumentos expendidos pelo agravante, estes não possuem o condão de infirmar os fundamentos da decisão agravada.
+Consoante anteriormente explicitado, da análise dos autos, note-se que o presente habeas corpus, distribuído em 2/10/2025, constitui mera reiteração do AREsp 295681, de minha relatoria, transitado em julgado em 25/9/2025, ao qual foi aplicado o óbice sumular 7/STJ, isso porque há identidade de partes e da causa de pedir, impugnando os dois feitos o mesmo acórdão (Apelação n. 0019647-42.2017.8.08.0048), o que constitui óbice ao seu conhecimento.
+Note-se que o agravo foi conhecido para conhecer em parte o recurso especial e, nessa extensão, negar-lhe provimento, nos seguintes termos:
+"Portanto, a Corte de origem destacou que a condenação se amparou em um conjunto probatório harmônico, composto por depoimentos colhidos em juízo e elementos materiais que corroboram a versão acusatória. Destacou que o veículo utilizado na execução dos crimes estava registrado em nome da mãe do acusado, mas era por ele utilizado habitualmente, circunstância que reforçou o liame entre o réu e a cena delitiva. Pontuou que a vítima sobrevivente  que posteriormente veio a falecer  , em sede inquisitorial, afirmou que o disparo partiu do veículo conduzido pelo acusado, e o reconheceu por fotografia.
+Assim, a inversão do julgado, a fim de acolher a tese de julgamento contrário à prova dos autos ou, subsidiariamente, de exclusão da qualificadora, demandaria o reexame do conjunto fático-probatório dos autos, providência inviável nesta instância especial, nos termos da Súmula 7/STJ.
+(..).
+Quanto ao fato de o depoimento de Bruno não ter sido repetido em juízo, em razão de seu falecimento, esta Corte Superior de Justiça admite a valoração de provas irrepetíveis, como o depoimento da testemunha falecida, desde que corroboradas por outros elementos indiciários aptos a confirmar sua veracidade, conforme se verifica no caso em tela. A corroborar:
+(..).
+Ora, o óbice processual invocado para negar provimento ao recurso especial (Súmula 7/STJ), "também se aplica ao habeas corpus, ação constitucional de rito célere e cognição sumária que não permite o revolvimento do material fático/probatório dos autos para a solução da controvérsia" (AgRg no HC n. 899.189/CE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/4/2024, DJe de 16/4/2024).
+Nesse sentido, confiram-se os seguintes julgados desta Corte:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL CONTRA DECISÃO QUE INDEFERIU LIMINARMENTE O WRIT. ROUBO. ALEGADA NULIDADE DO RECONHECIMENTO PESSOAL. MATÉRIA APRESENTADA NO ARESP-2.599.632/SP. APLICADO O ENUNCIADO SUMULAR 7/STJ. IMPOSSIBILIDADE DE REITERAÇÃO DE PEDIDO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. "É de se considerar que é pacífico o entendimento firmado nesta Corte de que não se conhece de habeas corpus cuja questão já tenha sido objeto de análise em oportunidade diversa, tratando-se de mera reiteração de pedido (AgRg no HC n. 796.091/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 26/6/2023)." (AgRg no HC n. 765.363/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 28/8/2023, DJe de 30/8/2023.)
+2. Na espécie, a tese apresentada no presente habeas corpus - nulidade do reconhecimento pessoal - já foi objeto de recurso neste Superior Tribunal de Justiça (AResp-2.599.632/SP). Naquela oportunidade, aplicou-se o enunciado sumular 7/STJ.
+3. Assim, "o óbice processual invocado para impedir o conhecimento do recurso especial (Súmula 7/STJ), também se aplica ao habeas corpus, ação constitucional de rito célere e cognição sumária que não permite o revolvimento do material fático/probatório dos autos para a solução da controvérsia." (AgRg no HC n. 899.189/CE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/4/2024, DJe de 16/4/2024.)
+4. Por outro lado, conforme o acórdão impugnado, mesmo que reconhecida a nulidade do reconhecimento pessoal realizado, existem outros elementos de prova independente do reconhecimento que demonstram a autoria delitiva.
+5. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 961.822/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/2/2025, DJEN de 26/2/2025.)
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSO PENAL. TRÁFICO DE ENTORPECENTES. NULIDADE. BUSCA PESSOAL. TESE EXAMINADA EM RECURSO ESPECIAL. REITERAÇÃO INDEVIDA DE PEDIDO. VIOLAÇÃO DO PRINCÍPIO DA UNIRRECORRIBILIDADE. RECURSO DESPROVIDO.
+1. O writ constitui mera reiteração do AREsp n. 2.501.745/SP, também interposto em favor do ora agravante e contra o mesmo acórdão recorrido, oportunidade em que conheci do agravo e neguei provimento ao recurso especial em decisão monocrática, que foi publicada no DJe em 18/12/2024, sobrevindo o trânsito em julgado na data de 4/2/2025. Nesse contexto, a decisão agravada foi assente ao asseverar que esta Corte Superior está impossibilitada de proceder a duplo exame de idêntica matéria.
+2. Agravo regimental desprovido."
+(AgRg no HC n. 993.267/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 21/5/2025, DJEN de 27/5/2025.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. RECURSOS ESPECIAIS PREJUDICADOS POR REITERAÇÃO DE PEDIDO. RECURSO ESPECIAL NÃO CONHECIDO POR INCIDÊNCIA DE SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO REGIMENTAL DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que julgou prejudicados os recursos especiais por reiteração de pedido e contra decisão que não conheceu do recurso especial em razão da incidência da Súmula n. 7 do STJ.
+2. Os agravantes foram condenados por homicídio qualificado, com penas redimensionadas em apelação. A defesa alegou que a decisão do Conselho de Sentença foi contrária à prova dos autos, requerendo a anulação do julgamento.
+3. Recursos especiais de RICHARLYSSON JOSÉ DA SILVA TOLEDO, MIKE DOUGLAS FERNANDES DA SILVA e ALFREDO ANTÔNIO DE OLIVEIRA NETO foram considerados prejudicados por reiteração de pedido idêntico ao formulado em habeas corpus, já analisado e indeferido por necessidade de revolvimento do conjunto fático-probatório.
+4. Recurso especial de MARCOS FELIPE BARBOSA DE ASSIS não foi conhecido pela incidência da Súmula n. 7 desta Corte.
+II. Questão em discussão
+5. A questão em discussão consiste em saber se a reiteração de pedido em recurso especial, já analisado em habeas corpus, é admissível; e se a necessidade de revolvimento de fatos e provas autoriza a análise da controvérsia em recurso especial.
+III. Razões de decidir
+6. A jurisprudência do STJ é pacífica no sentido de que a reiteração de pedidos em recurso especial, já analisados em habeas corpus, implica perda de objeto e prejudicialidade do recurso.
+7. A análise do mérito dos recursos especiais encontra-se prejudicada pela reiteração de pedido, uma vez que a questão já foi decidida em habeas corpus, concluindo-se pela inexistência de flagrante constrangimento ilegal.
+8. A necessidade de revolvimento do conjunto fático-probatório para acolher a tese defensiva (decisão dos jurados teria sido manifestamente contrária à prova dos autos) inviabiliza o exame do tema em recurso especial, conforme a Súmula n. 7 do STJ.
+IV. Dispositivo e tese
+9. Agravo regimental desprovido.
+Tese de julgamento: "1. A reiteração de pedidos em recurso especial, já analisados em habeas corpus, implica perda de objeto e prejudicialidade do recurso. 2. A necessidade de revolvimento do conjunto fático-probatório inviabiliza o exame do tema em recurso especial, conforme a Súmula n. 7 do STJ."
+Dispositivos relevantes citados: CPP, art. 593, III, "d"; CP, art. 121, § 2º, II, III e IV. Jurisprudência relevante citada: STJ, AgRg no HC 885.603/SP, Rel. Min. Ribeiro Dantas, Quinta Turma, julgado em 08.04.2024; STJ, AgRg nos EDcl no REsp 2.026.647/SP, Rel. Min. Laurita Vaz, Quinta Turma, julgado em 23.05.2023.
+(AgRg no AREsp n. 2.518.746/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/12/2024, DJEN de 23/12/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXTORSÃO MEDIANTE SEQUESTRO E CONCUSSÃO. MERA REITERAÇÃO DE PEDIDO ANTERIOR. AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA DAS ALEGAÇÕES. INADMISSIBILIDADE DO HABEAS CORPUS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não se conhece do habeas corpus que consiste em mera reiteração de pedido formulado em recurso próprio anteriormente julgado.
+2. No caso, o AREsp n. 1.817.637/RJ também foi manejado pelo paciente e se refere ao mesmo acórdão aqui indicado e suscitou igualmente violação do art. 10 da Lei n. 12.850/2013. No mencionado feito, em 27/5/2024, foi publicado acórdão que não conheceu do pedido.
+3. A defesa não trouxe prova pré-constituída apta a atacar a conclusão do Tribunal de origem, que afirmou expressamente não ter havido infiltração policial na organização criminosa. O que a parte aponta como comprovação da ilegalidade é, na verdade, a renovação da argumentação afastada no julgamento anterior, que aplicou a Súmula n. 7 do STJ.
+4. É preocupação desta Corte impedir a impetração de sucessivos habeas corpus para rediscutir questões apreciadas anteriormente em recurso próprio, estratégia de defesa que subverte o sistema recursal e prejudica a prestação jurisdicional.
+5. Agravo regimental não provido.
+(AgRg no HC n. 909.359/RJ, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 19/8/2024, DJe de 22/8/2024.)
+"PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ABSORÇÃO DO CRIME DE TORTURA PELO DE ROUBO. DESCLASSIFICAÇÃO DO ROUBO PARA EXERCÍCIO ARBITRÁRIO DAS PRÓPRIAS RAZÕES. REITERAÇÃO DOS PEDIDOS. NULIDADE. PAS DE NULLITÉ SANS GRIEF. DETRAÇÃO DO TEMPO DE CUSTÓDIA CAUTELAR PARA FINS DE FIXAÇÃO DO REGIME. SUPRESSÃO DE INSTÂNCIA. AGRAVO DESPROVIDO.
+1. Conforme o reconhecido no decisum ora agravado, no que tange aos pedidos de absorção do delito de tortura pelo crime de roubo, em face do princípio da consunção, e de desclassificação do crime de roubo para exercício arbitrário das próprias razões (CP, art. 345), constata-se que a presente impetração constitui mera reiteração dos pedidos formulados no AREsp 584586/DF, pois há identidade de partes e da causa de pedir, impugnando os dois feitos o mesmo acórdão (Apelação n. 2012.01.1.099540-7), o que constitui óbice ao seu conhecimento.
+2.(..).
+6. Agravo regimental desprovido.
+(AgRg no HC 441.592/DF, de minha relatoria, QUINTA TURMA, julgado em 13/04/2021, DJe 16/04/2021)
+Dessa forma, verifica-se que o recorrente não trouxe elementos aptos a infirmar a decisão agravada, razão pela qual merece subsistir por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
