@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por BANCO DO BRASIL S.A. contra decisão singular de minha lavra na qual foi negado seguimento à reclamação, por inadequação da via eleita, caracterizada como sucedâneo de recurso, por pretender reformar decisão do Tribunal local, com registro de que teria havido negativa de seguimento do recurso especial e interposição de agravo do art. 1.042 do Código de Processo Civil/2015 quando seria cabível agravo interno, acarretando preclusão por erro grosseiro (fls. 3.260-3.261).
+Nas razões do seu recurso, a parte embargante alega, em síntese, que afirma a ocorrência de erro material na referência ao "acórdão do Tribunal de Justiça de São Paulo", apontando que o processo se origina do Tribunal de Justiça do Estado de Alagoas.
+Aduz que há erro de julgamento ao afirmar que "o recurso especial teve seu seguimento negado", sustentando que, na origem, houve decisão de prejudicialidade do recurso especial, sem negativa de seguimento fundada em repetitivos, seguida de decisão que não conheceu do agravo em recurso especial, o que teria levado a conclusão equivocada sobre a adequação da via reclamatória.
+Sustenta que existe contradição e omissão, porque não foram enfrentados os antecedentes decisórios da origem, em especial a decisão de prejudicialidade do recurso especial e, depois, o não conhecimento do agravo em recurso especial por suposto erro grosseiro, fatos que, segundo afirma, interferem diretamente na conclusão adotada na decisão embargada.
+Pleiteia o acolhimento dos embargos para sanar os vícios e, ao final, reconsiderar a conclusão quanto à reclamação.
+Impugnação aos embargos de declaração às fls. 3.277-3.280 na qual a parte embargada alega que os embargos revelam mero inconformismo; que a reclamação não se presta a sucedâneo de recurso; que a decisão embargada possui fundamentação suficiente e não apresenta omissão, contradição ou obscuridade; e requer a rejeição dos embargos.
+Assim delimitada a questão, passo a decidir.
+Os presentes embargos merecem parcial provimento.
+Inicialmente, ressalto que, nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração são cabíveis quando há omissão, contradição, obscuridade ou erro material no julgado.
+Na hipótese, verifico que a decisão embargada padece de erro material, pois, em seu corpo, menciona "acórdão do Tribunal de Justiça de São Paulo", quando a decisão reclamada indicada nos autos é do Tribunal de Justiça do Estado de Alagoas (fls. 26-27 e 28-29).
+A correção é necessária para alinhamento do texto decisório aos dados objetivos do processo.
+Desse modo, constatada a existência de erro material no julgado, impõe-se o acolhimento das alegações da parte embargante para sanar o aludido vício, em conformidade com o disposto no art. 1.022, II, do CPC/2015 .
+Cumpre consignar que as demais alegações dos embargos, relativas à contradição e omissão, não demandam reparo no presente momento, porquanto a decisão embargada enfrentou a adequação da via eleita e fundamentou a negativa de seguimento da reclamação como sucedâneo de recurso , não se evidenciando, de pronto, vício interno de contradição ou omissão estrita.
+Em face do exposto, acolho os embargos de declaração para corrigir erro material, fazendo constar, onde se lê "acórdão do Tribunal de Justiça de São Paulo", que o acórdão é oriundo do Tribunal de Justiça do Estado de Alagoas, sem efeitos infringentes.
+Intimem-se.
+EMENTA
