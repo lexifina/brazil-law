@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por ARILSON LIMA DE OLIVEIRA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Consta nos autos que o recorrente foi preso em flagrante delito, em 10/09/2025, posteriormente convertido em preventiva, pela suposta prática dos crimes de organização criminosa e furto qualificado.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de Justiça de origem, que denegou a ordem em acórdão às fls. 107-111.
+Neste recurso sustenta, em suma, a ausência de fundamentação concreta e idônea da decisão que decretou a prisão cautelar em desfavor do recorrente ponderando suas condições pessoais favoráveis.
+Alega, ainda, que o recorrente era somente motorista contratado e não desempenhava função de liderança;
+Requer a revogação da prisão preventiva ou, subsidiariamente, sua substituição por medida cautelar diversa.
+Liminar indeferida às fls. 133-135.
+Informações prestadas às fls. 145-185.
+O Ministério Público Federal em parecer, às fls. 188-191, opinou pelo desprovimento do recurso.
+É o relatório. DECIDO.
+A análise do decreto prisional, bem como do acórdão impugnado, permite a conclusão de que a prisão cautelar se encontra em consonância com a jurisprudência desta Corte sobre o tema, uma vez que fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório para a garantia da ordem pública diante da gravidade concreta da conduta, haja vista que, em tese, o recorrente integraria organização criminosa estruturada para a prática reiterada de furto de café, constando nos autos que ele exerceria função de operador de um caminhão do tipo "peneirão" e seria responsável por realizar a pré-limpeza do café, integrando, desse modo, a cadeia de atividades do grupo voltadas à prática de furtos.
+Outrossim, conta nos autos que  o modus operandi supostamente empregado (adulteração de maquinários, o uso de compartimentos ocultos e a manipulação de pesagens com areia e peças de ferro) e o prejuízo econômico dele decorrente (tanto é que a denúncia requereu a fixação de R$100.00,00 de indenização) revelam um alto grau de organização e de profissionalismo  (fl. 110).
+Tais circunstâncias demonstram a periculosidade do recorrente, justificando a segregação cautelar em seu desfavor.
+Sobre o tema:
+"A prisão preventiva foi considerada necessária para garantir a ordem pública, devido à gravidade concreta do delito e ao risco de reiteração delitiva, com base em elementos concretos que indicam a participação do agravante na organização criminosa" (AgRg no RHC n. 202.750/CE, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 14/4/2025, DJEN de 24/4/2025.)
+Ademais, a jurisprudência desta Co rte é assente no sentido de que se justifica a decretação de prisão como forma de fazer cessar ou diminuir a atuação de suposto membro de grupo criminoso. Nesse sentido, confiram-se alguns precedentes: (AgRg no HC n. 948.505/MG, relator Ministro Og Fernandes, Sexta Turma, julgado em 3/12/2024, DJEN de 18/12/2024.)(AgRg no RHC n. 168.799/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 31/3/2023); (AgRg no HC n. 790.100/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 23/3/2023); (AgRg no HC n. 781.026/ES, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 15/12/2022); (AgRg no HC n. 719.304/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 13/9/2022);(AgRg no RHC 166309/PR, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe 04/10/2022); (RHC 142663/DF, Rel. Min. Laurita Vaz, Sexta Turma, DJe 18/08/2022); (AgRg no RHC n. 187.597/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 8/4/2024, DJe de 11/4/2024.).
+No mais, cumpre consignar que condições pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não têm o condão de, por si sós, garantirem ao recorrente a revogação da prisão preventiva se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, o que ocorre na hipótese.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada.
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
