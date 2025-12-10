@@ -1,0 +1,82 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/12/2025 a 10/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+DIREITO PENAL. AGRAVO REGIMENTAL. RECURSO ESPECIAL. EXECUÇÃO PENAL. REMIÇÃO DE PENA. TRABALHO EXTERNO AUTÔNOMO. MONITORAMENTO ELETRÔNICO. CERTIDÃO DA UNIDADE PRISIONAL. AGRAVO REGIMENTAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto pelo Ministério Público contra decisão monocrática que negou provimento a recurso especial, mantendo a concessão de remição de pena em favor do apenado, com base em trabalho externo exercido na condição de autônomo, monitorado eletronicamente.
+2. O Ministério Público sustentou que o deferimento do trabalho externo pressupõe a efetiva prestação de atividade com jornada e funções definidas, além de fiscalização idônea, conforme os arts. 28, 33 e 37 da Lei de Execução Penal, requerendo a reforma da decisão e a revogação da remição de pena.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se o trabalho externo exercido na condição de autônomo, monitorado eletronicamente, é suficiente para a concessão de remição de pena, à luz dos requisitos previstos na Lei de Execução Penal.
+III. RAZÕES DE DECIDIR
+4. A decisão monocrática foi mantida com base na comprovação documental do efetivo trabalho realizado pelo apenado, corroborada por atestado emitido por órgão oficial e monitoramento eletrônico, afastando a alegação de ausência de fiscalização adequada.
+5. O Superior Tribunal de Justiça já firmou entendimento de que, no caso de trabalho externo autônomo, não se exige fiscalização presencial ou comprovação estrita de jornada mínima, bastando a demonstração suficienteda atividade laboral, em conformidade com o art. 126 da Lei de Execução Penal.
+6. A negativa do benefício com base na ausência de supervisão formal seria desproporcional e contrária ao caráter ressocializador do trabalho, especialmente quando há elementos objetivos que atestam o desempenho da função.
+7. A alegação de parcialidade do atestado foi afastada, considerando-se que o documento foi expedido por órgão oficial e corroborado por monitoramento eletrônico, conferindo idoneidade suficiente à comprovação do labor.
+IV. DISPOSITIVO E TESE
+8. Agravo regimental desprovido.
+Tese de julgamento:
+1. É possível a remição de pena por trabalho externo autônomo, desde que haja comprovação idônea da atividade laboral, ainda que não haja supervisão presencial ou comprovação estrita de jornada mínima.
+2. O monitoramento eletrônico e a documentação oficial são suficientes para atestar o efetivo desempenho do trabalho externo autônomo, afastando a necessidade de fiscalização presencial.
+Dispositivos relevantes citados: Lei de Execução Penal, arts. 28, 33, 37 e 126.
+Jurisprudência relevante citada: STJ, AgRg na Pet 13.604/DF, Rel. Min. Og Fernandes, Corte Especial, julgado em 12.08.2024, DJe 20.08.2024.
+RELATÓRIO
+Trata-se de agravo regimental interposto pelo Ministério Público do Estado do Rio Grande do Sul contra decisão monocrática de fls. 77-88 que negou provimento ao recurso especial.
+Consta dos autos que o Ministério Público do Estado interpôs agravo em execução contra decisão de primeiro grau que deferiu remição de 20 (vinte) dias em favor do recorrido, em virtude de trabalho exercido na condição de autônomo. O agravo em execução não foi provido (fls. 45-47).
+O órgão acusatório apresentou recurso especial, sustentando que o acórdão violou os artigos 28, 33 e 37 da Lei de Execução Penal (fls. 49-56).
+O recurso foi admitido (fls. 62-63).
+O parecer do Ministério Público Federal deu-se no sentido de provimento do recurso especial (fls. 69-74).
+O recurso especial teve seu provimento negado (fls. 77-88).
+No presente agravo regimental, o recorrente sustenta que o deferimento do trabalho externo pressupõe a efetiva prestação de atividade com jornada e funções definidas, além de fiscalização idônea, sob pena de violação às finalidades educativa e produtiva do trabalho previstas nos arts. 28 e 33 da Lei de Execução Penal, bem como dos requisitos de aptidão, disciplina e responsabilidade do art. 37 da mesma Lei Diante disso, requer-se a reforma da decisão monocrática e o provimento do recurso especial, com a revogação da remição de pena (fls. 89-95).
+É o relatório.
+EMENTA
+DIREITO PENAL. AGRAVO REGIMENTAL. RECURSO ESPECIAL. EXECUÇÃO PENAL. REMIÇÃO DE PENA. TRABALHO EXTERNO AUTÔNOMO. MONITORAMENTO ELETRÔNICO. CERTIDÃO DA UNIDADE PRISIONAL. AGRAVO REGIMENTAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto pelo Ministério Público contra decisão monocrática que negou provimento a recurso especial, mantendo a concessão de remição de pena em favor do apenado, com base em trabalho externo exercido na condição de autônomo, monitorado eletronicamente.
+2. O Ministério Público sustentou que o deferimento do trabalho externo pressupõe a efetiva prestação de atividade com jornada e funções definidas, além de fiscalização idônea, conforme os arts. 28, 33 e 37 da Lei de Execução Penal, requerendo a reforma da decisão e a revogação da remição de pena.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se o trabalho externo exercido na condição de autônomo, monitorado eletronicamente, é suficiente para a concessão de remição de pena, à luz dos requisitos previstos na Lei de Execução Penal.
+III. RAZÕES DE DECIDIR
+4. A decisão monocrática foi mantida com base na comprovação documental do efetivo trabalho realizado pelo apenado, corroborada por atestado emitido por órgão oficial e monitoramento eletrônico, afastando a alegação de ausência de fiscalização adequada.
+5. O Superior Tribunal de Justiça já firmou entendimento de que, no caso de trabalho externo autônomo, não se exige fiscalização presencial ou comprovação estrita de jornada mínima, bastando a demonstração suficienteda atividade laboral, em conformidade com o art. 126 da Lei de Execução Penal.
+6. A negativa do benefício com base na ausência de supervisão formal seria desproporcional e contrária ao caráter ressocializador do trabalho, especialmente quando há elementos objetivos que atestam o desempenho da função.
+7. A alegação de parcialidade do atestado foi afastada, considerando-se que o documento foi expedido por órgão oficial e corroborado por monitoramento eletrônico, conferindo idoneidade suficiente à comprovação do labor.
+IV. DISPOSITIVO E TESE
+8. Agravo regimental desprovido.
+Tese de julgamento:
+1. É possível a remição de pena por trabalho externo autônomo, desde que haja comprovação idônea da atividade laboral, ainda que não haja supervisão presencial ou comprovação estrita de jornada mínima.
+2. O monitoramento eletrônico e a documentação oficial são suficientes para atestar o efetivo desempenho do trabalho externo autônomo, afastando a necessidade de fiscalização presencial.
+Dispositivos relevantes citados: Lei de Execução Penal, arts. 28, 33, 37 e 126.
+Jurisprudência relevante citada: STJ, AgRg na Pet 13.604/DF, Rel. Min. Og Fernandes, Corte Especial, julgado em 12.08.2024, DJe 20.08.2024.
+VOTO
+O recurso preenche os requisitos de admissibilidade, razão pela qual deve ser conhecido. Passa-se ao exame do mérito.
+O agravante aduz que a decisão monocrática deve ser reformada, para excluir os dias de remição concedidos ao agravado na execução penal. Aventa que o deferimento do trabalho externo pressupõe a efetiva prestação de atividade com jornada e funções definidas, além de fiscalização idônea, sob pena de violação às finalidades educativa e produtiva do trabalho previstas nos arts. 28 e 33 da Lei de Execução Penal, bem como dos requisitos de aptidão, disciplina e responsabilidade do art. 37 da mesma Lei.
+Argumenta que a ocupação de "autônomo", sem possibilidade de controle objetivo de horário, frequência e tarefas, não se amolda ao conceito de trabalho externo compatível com a fiscalização exigida pela LEP, sendo insuficiente a mera declaração de exercício de atividade para fins de remição.
+Discorre que, no caso, o Atestado de Efetivo Trabalho n.º 0044957/2025, que indica labor entre 19/11/2024 e 31/01/2025 (61 dias) como agricultor autônomo, carece de imparcialidade e não comprova, de modo idôneo, o efetivo desempenho, revelando contradição lógica na concessão do benefício ante a impossibilidade de fiscalização adequada.
+Em que pese a irresignação do ente ministerial, observa-se que a decisão agravada deve ser mantida, por seus próprios fundamentos (fls. 77-88):
+ ..  No caso, a remição foi concedida com base no atestado constante na fl. 5, o qual foi emitido pelo Instituto Penal de Monitoramento da 8ª Região. Conforme o documento, o recorrido laborou no período destacado como agricultor e a fiscalização das atividades se deu por meio eletrônico:
+ ..  Estabelecimento: INSTITUTO PENAL MONIT 8 REGIAO. Local de Trabalho/Ocupação: GEIZO FERREIRA - AGRICULTOR. Período: de 19/11/2024 a 31/01/2025.  ..  SOLICITADO PELO APENADO PARA FINS DE ATIVIDADE LABORAL DESEMPENHADA INTEGRALMENTE EM REGIME SEMIABERTO, CONFORME AUTORIZAÇÃO JUDICIAL DA SEQUÊNCIA 795.1 DO SEEU. FISCALIZAÇÃO REALIZADA VIA SISTEMA DE MONITORAMENTO ELETRÔNICO, SENDO EFETUADO OS DEVIDOS DESCONTOS LEGAIS.
+ ..  No caso em análise, ainda que o sentenciado exercesse a atividade de agricultor de forma autônoma e sem supervisão direta, há comprovação documental do efetivo labor desenvolvido, corroborada por atestado específico e pelo monitoramento eletrônico realizado no período. A orientação firmada pelo Superior Tribunal de Justiça, ao interpretar o art. 126 da Lei de Execução Penal, afasta a exigência de fiscalização presencial ou comprovação estrita da jornada mínima quando se trata de trabalho externo autônomo, bastando a demonstração idônea da efetiva atividade laboral.
+Assim como reconhecido no precedente em que se admitiu a remição para profissional liberal sem empregador, não se revela razoável negar o benefício pelo simples fato de não haver supervisão formal, sobretudo quando há elementos objetivos que atestam o desempenho da função e indicam a compatibilidade temporal entre as saídas autorizadas e o labor exercido. Tal entendimento preserva o caráter ressocializador do trabalho e afasta exigências probatórias desproporcionais que inviabilizariam, na prática, o reconhecimento de um direito legalmente assegurado.
+Ao que se depreende, a pretensão recursal não se sustenta, pois há comprovação documental do labor e adoção de mecanismo de controle, conforme o atestado emitido pelo Instituto Penal de Monitoramento da 8ª Região e a fiscalização por meio eletrônico, elementos expressamente destacados na decisão monocrática.
+Nessa linha, não há ausência de fiscalização ou mera declaração unilateral, mas sim monitoramento eletrônico e atestado específico, o que afasta a premissa de impossibilidade total de controle invocada pelo agravante. Igualmente, a alegação de que o Atestado de Efetivo Trabalho nº 0044957/2025 carece de imparcialidade não encontra amparo nos autos, porque o documento foi expedido por órgão oficial de execução penal e corroborado pelo monitoramento eletrônico, conferindo idoneidade suficiente à comprovação do labor no período de 19/11/2024 a 31/01/2025 (61 dias).
+A tese de que a condição de "autônomo" não se amolda ao trabalho externo exigido pela LEP ignora a excepcionalidade já reconhecida pelo Superior Tribunal de Justiça no caso concreto, que afasta a necessidade de fiscalização presencial quando presentes provas objetivas do efetivo trabalho. Assim, não verificada a "impossibilidade total de fiscalização" que embasa os precedentes citados pelo agravante, permanece hígida a decisão que admitiu a remição com suporte em documentação oficial e controle eletrônico, inviabilizando a reforma pretendida.
+Corroborando com esse entendimento, colaciona-se a seguinte ementa da Corte Especial do Superior Tribunal de Justiça:
+AGRAVO REGIMENTAL. ACORDO DE COLABORAÇÃO PREMIADA. PREVISÃO DE TRABALHO EXTERNO E DE APLICAÇÃO DOS BENEFÍCIOS DA EXECUÇÃO. PLEITO DE REMIÇÃO DE DIAS TRABALHADOS. AUSÊNCIA DE FISCALIZAÇÃO E DE COMPROVAÇÃO DE JORNADA DE TRABALHO. IRRELEVÂNCIA. ATIVIDADE ADVOCATÍVIA EFETIVAMENTE DESEMPENHADA. RECURSO PROVIDO.
+1. Ao interpretar os arts. 33 e 126 da Lei de Execução Penal, o Superior de Justiça de Justiça firmou o entendimento de que não basta a comprovação do trabalho para que o apenado tenha direito à remição, exigindo-se que a atividade seja supervisionada, com cumprimento da jornada mínima de 6 horas diárias.
+2. A matéria foi pacificada no julgamento do Tema n. 917 do STJ, oportunidade em que se fixou a tese de que "é possível a remição de parte do tempo de execução da pena quando o condenado, em regime fechado ou semiaberto, desempenha atividade laborativa extramuros", e em que se esclareceu que a supervisão direta do próprio trabalho deve ficar a cargo do patrão do apenado, cumprindo à administração carcerária o controle da regularidade do trabalho.
+3. Contudo, quando o trabalho é realizado de forma autônoma e não há patrão para supervisioná-lo, notadamente no que se refere à jornada laboral, questiona-se como deve ser feita a comprovação da atividade para remição da pena.
+4. No caso dos autos, verifica-se que, no próprio acordo de colaboração premiada, há a previsão de trabalho externo durante o período de prisão domiciliar, bem como autorização para que o colaborador se desloque, das 6 às 20 horas, para os imóveis rurais de sua família e para o seu escritório de advocacia a fim de desenvolver suas atividades laborais.
+5. Estando devidamente comprovado o exercício da atividade advocatícia pelo colaborador, o fato de o trabalho não haver sido fiscalizado, inexistindo a comprovação da jornada diária, não impede a concessão do benefício, uma vez que é profissional autônomo e possui escritório advocatício individual, além de trabalhar em home office, peculiaridades que não permitem a supervisão de suas atividades por um patrão.
+6. Conquanto os documentos apresentados pelo colaborador não permitam aferir a sua jornada de trabalho diária, evidenciam que, de fato, exerceu a atividade advocatícia no período, não sendo razoável impedir o benefício sob o argumento de que o labor não foi supervisionado.
+7. O Superior Tribunal de Justiça vem flexibilizando o art. 126 da Lei de Execução Penal, de modo a não prejudicar o apenado que, não obstante tenha realizado atividades laborais, não possui registro do trabalho.
+8. Todo trabalho tem papel ressocializador, não se afigurando legítimo afastar a remição quando, apesar de devidamente demonstrada a atividade laboral, não há comprovação de supervisão da atividade e do cumprimento da jornada mínima de 6 horas diárias. Precedentes.
+9. Havendo previsão, no acordo de colaboração, tanto do trabalho externo quanto do deslocamento do colaborador e inexistindo no ajuste alguma cláusula estabelecendo a necessidade de controle prévio ou de fiscalização da ocupação profissional por ele exercida, exigir-lhe outros documentos comprobatórios, além dos já apresentados, redundaria em exigência de prova diabólica, impossível de ser produzida.
+10. Caso o Ministério Público reputasse imprescindível a supervisão e a fiscalização da atividade profissional exercida pelo agravante, deveria ter esclarecido, no acordo de colaboração, o modo como esse controle seria feito, não sendo plausível demandar-lhe, após o efetivo exercício da advocacia no período em questão, e ciente de que se trata de profissional autônomo, a comprovação de sua jornada de trabalho por outros documentos além dos já anexados.
+11. A negativa do benefício da remição, nessas circunstâncias, viola os princípios da segurança jurídica e da proteção da confiança, conforme já decidiu a Suprema Corte. Precedente.
+12. Agravo regimental provido para conceder ao colaborador o benefício da remição da pena pelo trabalho.
+(AgRg na Pet n. 13.604/DF, relator Ministro Og Fernandes, Corte Especial, julgado em 12/8/2024, DJe de 20/8/2024.)
+Com isso, conclui-se que o recurso deixa de apresentar argumentos novos capazes de alterar o entendimento anteriormente firmado.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
