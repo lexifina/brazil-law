@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de recurso especial interposto por FABIANO DOS SANTOS PEREIRA SERVICOS contra o acórdão assim ementado, in verbis:
+EXECUÇÃO FISCAL. DECISÃO QUE REJEITOU EXCEÇÃO DE PRÉ-EXECUTIVIDADE. CORREÇÃO DO DÉBITO PELO IPCA, SOMADO A JUROS DE 1% AO MÊS. POSSIBILIDADE DE UTILIZAR-SE INDEXADOR DIVERSO DA SELIC ATÉ O ADVENTO DA EMENDA CONSTITUCIONAL N. 113. CONSTITUCIONALIDADE DO ART. 3º DA REFERIDA EMENDA PRONUNCIADA PELO SUPREMO NAS ADI"S N. 7.047/DF E N. 7.064/DF. AGRAVO DE INSTRUMENTO PROVIDO EM PARTE, CARACTERIZADA A SUCUMBÊNCIA MÍNIMA DO MUNICÍPIO EXCEPTO.
+No presente recurso especial o recorrente aponta violação do art. 85, caput e §3º, IV, do CPC e do art. 22 da Lei 8906/1994, afirmando em suma que é devida a fixação de honorários de sucumbência, tendo em vista o princípio da causalidade e que a via da exceção de pré-executividade enseja a referida verba.
+Contrarrazões pela manutenção do acórdão recorrido.
+É o relatório. Decido.
+O presente feito não é cognoscível.
+É que a questão tratada no acórdão recorrido, não aborda a possibilidade da fixação de honorários na exceção de pré-executividade em virtude do princípio da causalidade, mas sim a sucumbência mínima da parte ex-adversa, conforme se vislumbra do excerto abaixo transcrito, in verbis:
+Em linha de princípio, caberia arbitramento de honorários advocatícios, por conta da glosa de parte do crédito discutido na exceptio (STJ AgInt. no R Esp. n. 1.850.461/MG, 2ª Turma, j. 24/8/2021, rel. Ministro FRANCISCO FALCÃO). Porém, como o proveito econômico obtido com a aplicação isolada da SELIC a partir de dezembro de 2021 é significativamente menor do que almejava a agravante, configurada está a sucumbência mínima do Município, atrativa do art. 86, par. único, do Código de Processo Civil, razão pela qual deixo de impor verba sucumbencial ao excepto.
+Nesse panorama, do confronto do acórdão recorrido com as razões contidas no presente recurso especial, observa-se que a tese do recorrente não tem sintonia com o decidido, sendo inservível para impugnar a decisão. Por outro lado, mesmo que afastado o óbice e analisada a questão da viabilidade da fixação de honorários em desfavor do Estado, se imporia, nesse caso, sindicar o conjunto probatório dos autos, utilizado pelo julgador para afirmar que o proveito econômico obtido seria bem menor do que o postulado e, ante esse fato, ser inviável a condenação do Ente estatal. Incide na espécie, consequentemente, os óbices contidos nas súmulas 284 e 283 do STF, respectivamente e da súmula 7/STJ.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
