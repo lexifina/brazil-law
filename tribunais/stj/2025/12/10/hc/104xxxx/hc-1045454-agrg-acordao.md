@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/12/2025 a 10/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. AMEAÇA. PRISÃO PREVENTIVA. PACIENTE FORAGIDO. ASSEGURAR A APLICAÇÃO DA LEI PENAL. FUNDAMENTAÇÃO IDÔNEA. EXISTÊNCIA DE CONTEMPORANEIDADE. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. Não há como abrigar agravo regimental que não logra desconstituir a fundamentação da d ecisão atacada.
+2. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por JEFERSON BRITO DE OLIVEIRA contra a decisão de minha lavra, na qual indeferi liminarmente o habeas corpus pelos fundamentos sintetizados na seguinte ementa (fls. 219/222):
+PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. AMEAÇA. PRISÃO PREVENTIVA. PACIENTE FORAGIDO. ASSEGURAR A APLICAÇÃO DA LEI PENAL. FUNDAMENTAÇÃO IDÔNEA. EXISTÊNCIA DE CONTEMPORANEIDADE. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Inicial indeferida liminarmente.
+O agravante reitera o s argumentos expendidos na petição inicial do mandamus, concernentes ao fato de que não está foragido; não foram esgotadas as diligências necessárias para a sua localização e citação; ausência dos re quisitos para o decreto de prisão preventiva; e suficiência de medidas cautelares alternativas ao cárcere.
+Requer, a ssim, o juízo de retratação da decisão agravada ou o provimento do recurso para a revogaç ão da prisão preventiva.
+Não abri prazo para a parte agravada apresentar contrarrazões ao agravo regimental.
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. AMEAÇA. PRISÃO PREVENTIVA. PACIENTE FORAGIDO. ASSEGURAR A APLICAÇÃO DA LEI PENAL. FUNDAMENTAÇÃO IDÔNEA. EXISTÊNCIA DE CONTEMPORANEIDADE. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. Não há como abrigar agravo regimental que não logra desconstituir a fundamentação da d ecisão atacada.
+2. Agravo regimental improvido.
+VOTO
+A irresignação não prospera.
+Conforme e xplanado na decisão agravada, de acordo com as reiteradas decisões desta Corte Superior, as prisões cautelares são medidas de índole excepcional, somente podendo ser decretadas ou mantidas caso demonstrada, com base em elementos concretos dos autos, a efetiva imprescindibilidade da restrição ao direito constitucional à liberdade de locomoção.
+O Tribunal de origem manteve a constrição, ratificando os termos do decreto de prisão preventiva, que assim fundamentou: verifica-se que o acusado não foi encontrado para ser citado pessoalmente e, por não haver registros de outros endereços nos sistemas disponíveis à acusação, foi determinada sua citação ficta por edital, entretanto, mesmo assim, não compareceu aos autos, tampouco constituiu defensor, mantendo-se, portanto, em local incerto e não sabido (fl. 163 - grifo nosso).
+Como se vê, da leitura das peças que compõem estes autos, a prisão cautelar está devidamente fundamentada para assegurar a aplicação da lei penal, uma vez que, após o cometimento dos delitos, o paciente teria se evadido do distrito da culpa, não tendo sido encontrado para citação, permanecendo em local incerto e não sabido, na condição de foragido.
+Nesse sentido, o Superior Tribunal de Justiça já se manifestou em caso semelhante: a custódia preventiva está idoneamente motivada, especialmente para a garantia da aplicação da lei penal quando, embora o recorrente tenha constituído advogado nos autos, o mandado de prisão não foi cumprido até a presente data (RHC n. 220.733/BA, de minha relatoria, Sexta Turma, DJEN de 23/9/2025).
+A propósito, Conforme os autos, o agravante teve sua prisão preventiva decretada em 2022 por estar em local ignorado e não ter sido encontrado após várias tentativas para fins de citação, sendo classificado como foragido pelas instâncias ordinárias. Cumpre observar que ainda não há registro de cumprimento do decreto prisional. Desse modo, o comportamento do agravante demonstra o intento do agente de frustrar o direito do Estado de punir, justificando, assim, a custódia (AgRg nos EDcl no RHC n. 197.493/CE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1/7/2024, DJe de 3/7/2024 - grifo nosso).
+Com relação à ausência de contemporaneidade, o Tribunal local salientou que, embora os fatos em apuração remontem ao ano de 2016, o decurso desse lapso temporal, isoladamente considerado não descaracteriza a atualidade e a necessidade da medida cautelar extrema. Isso porque o paciente permanece em local incerto e não sabido, circunstância que, diante do contexto fático apresentado, evidencia a imprescindibilidade da manutenção da prisão preventiva como instrumento eficaz para resguardar a efetividade da persecução penal (fl. 20 - grifo nosso).
+Com efeito, consoante consignado pela Corte local, o acusado permaneceu foragido por cerca de treze anos, evidenciando sua intenção de se esquivar da responsabilização penal. Desse modo, não há se falar em ilegalidade flagrante a ser sanada nesta oportunidade, pois, nos moldes da jurisprudência deste Tribunal Superior, "a condição de foragido afasta a alegação de constrangimento ilegal, seja pela dita ausência de contemporaneidade, seja pelo apregoado excesso de prazo para encerramento da instrução criminal" (RHC n. 174.115/PI, de minha relatoria, Sexta Turma, julgado em 23/3/2023, DJe de 29/3/2023) - (AgRg no HC n. 1.007.684/PE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/8/2025, DJEN de 18/8/2025 - grifo nosso).
+Afora isso, é entendimento desta Casa que as condições favoráveis do paciente, por si sós, não impedem a manutenção da prisão cautelar quando devidamente fundamentada, e que é inaplicável medida cautelar alternativa quando as circunstâncias evidenciam que as providências menos gravosas seriam insuficientes para a manutenção da ordem pública.
+Ante o exposto, nego provimento ao agravo regimental.
