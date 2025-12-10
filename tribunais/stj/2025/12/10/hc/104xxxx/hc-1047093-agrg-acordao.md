@@ -1,0 +1,71 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/12/2025 a 10/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Carlos Pires Brandão, Og Fernandes, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSO PENAL. LATROCÍNIO TENTADO. NULIDADE. RECONHECIMENTO DE PESSOAS. FORMALIDADES DO ART. 226 DO CPP. INDEFERIMENTO LIMINAR. SUCEDÂNEO DE RECURSO PRÓPRIO. AUSÊNCIA DE ILEGALIDADE MANIFESTA. REITERAÇÃO DE PEDIDO. AGRAVO DESPROVIDO.
+1. "Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado" (AgRg no HC n. 853.767/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 30/10/2023, DJe de 3/11/2023).
+2. Não se desconhece a orientação presente no art. 647-A, caput e parágrafo único, do Código de Processo Penal, segundo a qual se permite a qualquer autoridade judicial, no âmbito de sua competência jurisdicional e quando verificada a presença de flagrante ilegalidade, a expedição de habeas corpus de ofício em vista de lesão ou ameaça de lesão à liberdade de locomoção. Entretanto, esse não é o caso dos autos.
+3. As matérias deduzidas no presente writ já foram objeto de anterior impetração em favor do réu (HC n. 926.614/SP), sendo apreciadas e decididas em decisão monocrática e em agravo regimental pela Sexta Turma, com trânsito em julgado. Conquanto naquele feito haja sido impugnado acórdão diverso do combatido nestes autos, por se referirem, respectivamente, aos julgamentos da apelação e da revisão criminal, há identidade entre os pedidos e a causa de pedir. Logo, inviável o duplo exame de idêntica matéria por este Tribunal.
+4. Agravo regimental desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto em favor de FLAVIO DIOGO NUNES DO PRADO contra a decisão de e-STJ fls. 91/95, por meio da qual indeferi liminarmente a impetração.
+Depreende-se dos autos que o agravante foi condenado à pena de 19 anos, 2 meses e 12 dias de reclusão, em regime inicial fechado, pela prática do crime previsto no art. 157, § 3º, II, c/c o art. 14, II, do Código Penal; e que a Corte de origem negou provimento ao recurso de apelação interposto (e-STJ fls. 28/29).
+Após o trânsito em julgado, a defesa ajuizou revisão criminal, que recebeu parcial conhecimento e, na extensão, foi julgada improcedente. Eis a ementa do acórdão (e-STJ fl. 28):
+REVISÃO CRIMINAL: fundamento no art. 621, inc. I, CPP. Condenação pelo crime de latrocínio tentado (157, §3º, inc. II, c.c. art. 14, inc. II, ambos do CP). Pedidos: nulidade do reconhecimento pessoal e absolvição por falta de provas.
+Nulidade do reconhecimento pessoal: matéria apreciada em primeiro e segundo grau, e objeto de habeas corpus perante o C. STJ, durante a tramitação dos autos principais. Tese afastada pelo STJ por ter sido a condenação baseada em provas independentes. Tema 1258 do STJ. NÃO CONHECIDO.
+Materialidade e autoria: provas que autorizam a condenação. Palavra da vítima que assume especial relevância em delitos patrimoniais. Prova testemunhal policial: eficácia, na falta de elementos concretos que desabonem as oitivas, sem margem, no caso, para descrédito em razão do ofício exercido. Filmagens demonstrando que o autor estava no local dos fatos durante a ação delitiva. Apreensão de arma de fogo municiada compatível com o relato da vítima, dias após os fatos, na posse do autor.
+Revisão Criminal que não se presta como segunda apelação e, por isso, inadmissível o reexame de matéria probatória já exaustivamente debatida no bojo do processo de conhecimento e em sede de apelação.
+Ademais, o pedido não se enquadra no inc. I, do art. 621 do CPP, pois busca apenas novo julgamento da causa quanto à condenação, mas para que não se alegue omissão é caso de improcedência.
+PEDIDO não conhecido quanto à nulidade, pois apreciado pelo C. STJ e IMPROCEDENTE em relação ao mérito.
+No writ, a defesa alegou nulidade dos reconhecimentos fotográfico e pessoal por não observância do procedimento previsto no art. 226 do Código de Processo Penal; sustentou a fragilidade probatória e a negativa de autoria, requerendo a aplicação do princípio in dubio pro reo e a absolvição do acusado.
+Nas razões do presente recurso (e-STJ fls. 100/124), repisa os argumentos já trazidos na petição inicial, pondera pela possibilidade de concessão da ordem de ofício e acrescenta que a impetração não se traduz em mera reiteração do Habeas Corpus n. 926.614/SP.
+Requer a reconsideração da decisão ou o seu enfrentamento pelo colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSO PENAL. LATROCÍNIO TENTADO. NULIDADE. RECONHECIMENTO DE PESSOAS. FORMALIDADES DO ART. 226 DO CPP. INDEFERIMENTO LIMINAR. SUCEDÂNEO DE RECURSO PRÓPRIO. AUSÊNCIA DE ILEGALIDADE MANIFESTA. REITERAÇÃO DE PEDIDO. AGRAVO DESPROVIDO.
+1. "Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado" (AgRg no HC n. 853.767/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 30/10/2023, DJe de 3/11/2023).
+2. Não se desconhece a orientação presente no art. 647-A, caput e parágrafo único, do Código de Processo Penal, segundo a qual se permite a qualquer autoridade judicial, no âmbito de sua competência jurisdicional e quando verificada a presença de flagrante ilegalidade, a expedição de habeas corpus de ofício em vista de lesão ou ameaça de lesão à liberdade de locomoção. Entretanto, esse não é o caso dos autos.
+3. As matérias deduzidas no presente writ já foram objeto de anterior impetração em favor do réu (HC n. 926.614/SP), sendo apreciadas e decididas em decisão monocrática e em agravo regimental pela Sexta Turma, com trânsito em julgado. Conquanto naquele feito haja sido impugnado acórdão diverso do combatido nestes autos, por se referirem, respectivamente, aos julgamentos da apelação e da revisão criminal, há identidade entre os pedidos e a causa de pedir. Logo, inviável o duplo exame de idêntica matéria por este Tribunal.
+4. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator)
+A despeito dos argumentos apresentados pela defesa, não vislumbro motivos para alterar a decisão ora impugnada, a qual deve ser integralmente mantida.
+Conforme consignado anteriormente, o Superior Tribunal de Justiça, de longa data, vem buscando fixar balizas para a racionalização do uso do habeas corpus, visando a garantia não apenas do curso natural das ações ou revisões criminais mas também da efetiva priorização do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+Nessa linha, "é incognoscível, ordinariamente, o habeas corpus impetrado em substituição à via recursal de impugnação própria" (AgRg no HC n. 716.759/RS, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 26/9/2023, DJe de 2/10/2023).
+A propósito, confiram-se, ainda, os seguintes precedentes:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO "HABEAS CORPUS". ORGANIZAÇÃO CRIMINOSA. DOSIMETRIA. INEXISTÊNCIA DE ILICITUDE FLAGRANTE. RECURSO NÃO PROVIDO.
+1. A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+ ..  (AgRg no HC n. 921.445/MS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 3/9/2024, DJe de 6/9/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. EXECUÇÃO PENAL. UNIFICAÇÃO DE PENAS. ART. 71 DO CÓDIGO PENAL. CONTINUIDADE DELITIVA. UNIDADE DE DESÍGNIOS. HABITUALIDADE DELITIVA. NECESSIDADE REVOLVIMENTO DO ACERVO FATICO-PROBATÓRIO. IMPOSSIBILIDADE NA VIA ESTREITA DO WRIT. AGRAVO NÃO PROVIDO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+ ..
+4. Agravo regimental não provido. (AgRg no HC n. 853.767/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 30/10/2023, DJe de 3/11/2023.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. MANDAMUS SUBSTITUTIVO DE RECURSO ESPECIAL. DESCABIMENTO. EXECUÇÃO PENAL. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DO ENTENDIMENTO DA SÚMULA 182/STJ.
+Agravo regimental não conhecido. (AgRg no HC n. 819.537/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 28/8/2023, DJe de 31/8/2023.)
+Não se desconhece a orientação presente no art. 647-A, caput e parágrafo único, do Código de Processo Penal, segundo a qual se permite a qualquer autoridade judicial, no âmbito de sua competência jurisdicional e quando verificada a presença de flagrante ilegalidade, a expedição de habeas corpus de ofício em vista de lesão ou ameaça de lesão à liberdade de locomoção.
+Entretanto, tal não é o caso dos autos, porquanto as matérias deduzidas no presente writ já foram objeto de anterior impetração em favor do ora agravante, qual seja, o HC n. 926.614/SP, oportunidade em que deneguei a ordem, em decisão monocrática disponibilizada no DJe em 5/8/2024. Ademais, o agravo regimental interposto contra a referida decisão foi julgado pela Sexta Turma em sessão virtual de 24/9/2024 a 30/9/2024, sobrevindo o trânsito em julgado na data de 21/10/2024.
+Ressalte-se que, conquanto naquele feito haja sido impugnado acórdão diverso do combatido nestes autos, por se referirem, respectivamente, aos julgamentos da apelação e da revisão criminal, há identidade entre os pedidos e a causa de pedir, conforme se depreende do seguinte excerto da referida decisão:
+Apesar da alegação da defesa de que não houve reconhecimento regular do réu, extrai-se da leitura do trecho colacionado que o referido elemento de informação não foi utilizado de forma isolada para a condenação, a qual foi embasada em outras provas coletadas nos autos, notadamente nas imagens de câmeras de segurança que registraram veículo pertencente à irmã do paciente transitando pelo local dos fatos no momento de ocorrência do delito.
+Assim, foram indicadas, concretamente, fontes materiais de prova independentes e idôneas, diversas do reconhecimento do acusado na fase policial pela vítima; sendo, portanto, suficientes para atestar a autoria.
+Nesse sentido, cito os seguintes precedentes desta Corte:
+ ..
+Ademais, quanto às alegações de insuficiência probatória para a condenação, destaco que apreciar a questão indo além daquilo a que o Tribunal de origem deu conhecimento demandaria revolvimento do conjunto fático-probatório, o que é inadmissível na via estreita do habeas corpus.
+Ante o exposto, denego a ordem de habeas corpus.
+Digno de nota, ainda, que a Corte local não conheceu do pedido revisional quanto à alegação de nulidade e o julgou improcedente em relação ao pleito de absolvição por insuficiência de provas, mantendo-se a condenação nos moldes definidos no julgamento do apelo.
+Dessarte, o proceder da defesa caracteriza mera reiteração de pedido já apreciado, providência essa inviável, uma vez que já prestada a tutela jurisdicional pelo Superior Tribunal de Justiça, não sendo possível a dupla apreciação da matéria.
+No mesmo sentido, destaco os seguintes precedentes:
+HABEAS CORPUS. OFENSA À COLEGIALIDADE. DECISÃO PROFERIDA EM HARMONIA COM O RISTJ E O CPC. WRIT INDEFERIDO LIMINARMENTE. MERA REITERAÇÃO DOS HC N. 870.623/MG E HC N. 909.284/MG. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+ ..
+3. "A jurisprudência desta Corte Superior é firme no sentido de não possibilitar a rediscussão da matéria, via habeas corpus, quando já formulados e analisados pedidos idênticos, acerca dos mesmos fundamentos, de matéria já analisada neste Tribunal Superior, por se tratar de reiteração de pedido" (AgRg no HC n. 839.421/MS, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 2/9/2024, DJe de 4/9/2024.).
+4. Na hipótese, foram impetrados anteriormente perante esta Corte Superior os HC n. 870.623/MG e HC n. 909.284/MG, também em benefício do ora paciente, apontando como ato coator o mesm o acórdão ora impugnado, formulando-se os mesmos pedidos, com fundamento nas mesmas causas de pedir, revelando-se, portanto, o presente mandamus mera reiteração.
+5. Agravo regimental a que se nega provimento. (AgRg no HC n. 1.013.218/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/8/2025, DJEN de 15/8/2025.)
+PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS (65G DE COCAÍNA E 32,5G DE CRACK). PRETENSÃO DE REVISAR NOVAMENTE A CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. INADMISSIBILIDADE. BUSCA PESSOAL E INVASÃO DE DOMICÍLIO. NULIDADE. REITERAÇÃO DE PEDIDO (HC N. 951.605/SP). NÃO CABIMENTO  ..  CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+1. A alegação de nulidade por ilicitude das provas é mera reiteração de pedido já julgado em outro habeas corpus (HC n. 951.605/SP), não merecendo conhecimento, tendo em vista já ter sido objeto de análise por esta Corte Superior.
+ ..
+3. Ordem denegada. (HC n. 998.178/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 18/6/2025, DJEN de 1º/7/2025.)
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
