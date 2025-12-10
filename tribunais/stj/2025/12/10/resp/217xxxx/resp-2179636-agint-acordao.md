@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/12/2025 a 10/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Afrânio Vilela, Francisco Falcão, Maria Thereza de Assis Moura e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. NEGATIVA DA DEVIDA PRESTAÇÃO JURISDICIONAL. VIOLAÇÃO DO ART. 1.022, INCISO II, DO CPC. OMISSÃO CARACTERIZADA. ANULAÇÃO DO ACÓRDÃO DOS EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO DESPROVIDO.
+1. Na forma da jurisprudência dominante do STJ, ocorre negativa da devida prestação jurisdicional na hipótese em que o Tribunal de origem deixa de enfrentar, expressamente, questões relevantes ao julgamento da causa, suscitadas, oportunamente, pela parte recorrente, tal como ocorreu, na espécie, porquanto impedira o posterior reexame no julgamento do recurso especial.
+2. No caso, a parte recorrida sustentou negativa de prestação jurisdicional, pois, não obstante a oposição de embargos de declaração com o objetivo de sanar o vício de omissão acerca da aventada inocorrência de preclusão consumativa, uma vez que a impugnação teria ocorrido em momento anterior à intimação ao cumprimento de sentença, o recurso integrativo foi rejeitado pelo Tribunal de origem sem sanar o aduzido defeito. De fato, foi verificado que o Tribunal a quo não havia se manifestado sobre a inocorrência da preclusão consumativa, tendo em vista que a impugnação teria ocorrido em momento anterior à intimação ao cumprimento de sentença, ponto essencial à solução da controvérsia. Assim, tendo o Tribunal a quo se recusado a emitir pronunciamento sobre o aludido ponto controvertido, oportunamente trazido pelo ora recorrido nos embargos de declaração, ocorreu negativa de prestação jurisdicional e a consequente violação do art. 1.022 do CPC.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo ESTADO DE MINAS GERAIS contra decisão que deu parcial provimento ao recurso especial (fls. 547-551).
+Pretende a parte agravante a reforma da decisão para negar provimento ao recurso especial, sustentando que o Tribunal de origem enfrentou expressamente a questão da preclusão consumativa, não havendo negativa de prestação jurisdicional.
+Aduz que a apreciação da primeira e da segunda impugnações demanda reexame do conjunto fático-probatório, atraindo o óbice da Súmula n. 7/STJ, razão pela qual é inviável a revisão em sede de recurso especial.
+Pugna pela reconsideração ou pela submissão do feito ao órgão colegiado.
+Contrarrazões apresentadas às fls. 566-571.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. NEGATIVA DA DEVIDA PRESTAÇÃO JURISDICIONAL. VIOLAÇÃO DO ART. 1.022, INCISO II, DO CPC. OMISSÃO CARACTERIZADA. ANULAÇÃO DO ACÓRDÃO DOS EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO DESPROVIDO.
+1. Na forma da jurisprudência dominante do STJ, ocorre negativa da devida prestação jurisdicional na hipótese em que o Tribunal de origem deixa de enfrentar, expressamente, questões relevantes ao julgamento da causa, suscitadas, oportunamente, pela parte recorrente, tal como ocorreu, na espécie, porquanto impedira o posterior reexame no julgamento do recurso especial.
+2. No caso, a parte recorrida sustentou negativa de prestação jurisdicional, pois, não obstante a oposição de embargos de declaração com o objetivo de sanar o vício de omissão acerca da aventada inocorrência de preclusão consumativa, uma vez que a impugnação teria ocorrido em momento anterior à intimação ao cumprimento de sentença, o recurso integrativo foi rejeitado pelo Tribunal de origem sem sanar o aduzido defeito. De fato, foi verificado que o Tribunal a quo não havia se manifestado sobre a inocorrência da preclusão consumativa, tendo em vista que a impugnação teria ocorrido em momento anterior à intimação ao cumprimento de sentença, ponto essencial à solução da controvérsia. Assim, tendo o Tribunal a quo se recusado a emitir pronunciamento sobre o aludido ponto controvertido, oportunamente trazido pelo ora recorrido nos embargos de declaração, ocorreu negativa de prestação jurisdicional e a consequente violação do art. 1.022 do CPC.
+3. Agravo interno desprovido.
+VOTO
+Na origem, o Juízo de primeira instância acolheu a impugnação ao cumprimento de sentença apresentada pela recorrente, determinando a retificação dos cálculos dos honorários advocatícios referentes à fase de conhecimento (fls. 428-429).
+O Tribunal de Justiça do Estado de Minas Gerais deu provimento ao agravo de instrumento interposto pelo Estado de Minas Gerais, reformando a decisão agravada e não conhecendo da impugnação ao cumprimento de sentença apresentada pela recorrente (fls. 433-440). Posteriormente, rejeitou os embargos de declaração (fls. 465-470).
+Nesta Corte Superior, o recurso especial foi parcialmente provido.
+Confira-se (fls. 547-551):
+A (in)devida prestação da tutela jurisdicional e a (in)ocorrência da preclusão consumativa constituem o cerne do recurso especial.
+O Tribunal de origem assim decidiu a questão controvertida (fls. 433-440):
+Cinge-se a controvérsia em verificar se devida a reforma da sentença que, ao acolher a impugnação ao cumprimento de sentença apresentada pelo Estacionamento e Reboque Nossa Senhora Aparecida ME, modificou o cálculo dos honorários advocatícios referentes à fase de conhecimento e determinou a retificação dos cálculos do crédito principal.
+Ab initio, imperioso ressaltar que a segunda impugnação ao cumprimento de sentença, apresentada pela parte executada em documento de Id 8707503092, ordem 91, sequer deve ser conhecida, por ter ocorrido preclusão consumativa. Ao discorrer sobre o instituto da preclusão consumativa, Fredie Didier Jr. assim leciona:
+ ..
+No caso sub judice, vê-se que a ora executada já havia apresentado impugnação ao cumprimento de sentença em documento de Id 6442728012, ordem 81 e, por conseguinte, operou-se a preclusão consumativa em relação a esse ato processual, pois não houve qualquer modificação de fato ou de direito capaz de justificar nova impugnação. Por conseguinte, impõe-se o não conhecimento da segunda impugnação ao cumprimento de sentença. Nesse sentido:
+ ..
+Ressalte-se, ademais, que consoante a jurisprudência do Superior Tribunal de Justiça, mesmo aquelas matérias de ordem pública - como os honorários sucumbenciais - sujeitam-se à preclusão consumativa. Nesse sentido:
+ ..
+Demais disso, e apenas por amor ao debate, ainda que não se tratasse de hipótese de preclusão consumativa, a questão atinente ao critério de fixação dos honorários advocatícios estaria sob o manto da coisa julgada, não podendo ser redefinida em sede de cumprimento de sentença, pois imutável, consoante previsão do art. 502, CPC. Nesse sentido, são os seguintes julgados deste TJMG:
+ ..
+Destarte, o provimento do recurso é medida de rigor. III - DISPOSITIVO Com tais considerações, DOU PROVIMENTO AO RECURSO para reformar a decisão agravada e não conhecer da impugnação ao cumprimento de sentença apresentada em documento de Id 8707503092, ordem 91. Custas ao final.
+A parte recorrente sustenta negativa de prestação jurisdicional, pois, não obstante a oposição de embargos de declaração com o objetivo de sanar o vício de omissão acerca da aventada inocorrência de preclusão consumativa, uma vez que a impugnação teria ocorrido em momento anterior à intimação ao cumprimento de sentença, a Corte a quo rejeitou o recurso integrativo sem sanar o aduzido defeito.
+Em sede de embargos declaratórios, o Tribunal assim dispôs (fl. 468):
+O acórdão embargado foi hialino ao consignar a anterior apresentação de impugnação ao cumprimento de sentença, ordem 81, e, por conseguinte, a ocorrência de preclusão consumativa em relação ao referido ato processual.
+Em uma análise das questões suscitadas no presente recurso, resta claro que o propósito do embargante é modificar o julgado, em sua essência ou substância, para adequá-lo aos seus próprios interesses, o que se mostra totalmente inadmissível, dado os estreitos limites dos embargos declaratórios.
+Se não houve aceitação ou a decisão contrariou as suas pretensões, trata-se de questão diversa que desafia outra técnica recursal.
+De fato, verifico que o Tribunal a quo não se manifestou sobre a inocorrência da preclusão consumativa, tendo em vista que a impugnação teria ocorrido em momento anterior à intimação ao cumprimento de sentença, ponto essencial à solução da controvérsia.
+Assim, tendo o Tribunal a quo se recusado a emitir pronunciamento sobre o aludido ponto controvertido, oportunamente trazido pelo ora recorrente nos embargos de declaração (fls. 445-448), ocorreu negativa de prestação jurisdicional e a consequente violação do art. 1.022 do CPC.
+Vale destacar que, na forma da jurisprudência dominante do STJ, ocorre negativa da devida prestação jurisdicional na hipótese em que o Tribunal de origem deixa de enfrentar, expressamente, questões relevantes ao julgamento da causa, suscitadas, oportunamente, pela parte recorrente, tal como ocorreu, na espécie, porquanto impedira o posterior reexame no julgamento do recurso especial.
+A título ilustrativo, confiram-se os seguintes precedentes:
+ ..
+Ante o exposto, DOU PARCIAL PROVIMENTO ao recurso especial para anular o acórdão proferido no julgamento dos embargos de declaração e, como corolário, devolver os autos ao Tribunal de origem, a fim de que seja proferido novo julgamento com a análise da questão omissa, ficando prejudicados os demais pontos do presente recurso.
+Consoante outrora destacado, na forma da jurisprudência dominante do STJ, ocorre negativa da devida prestação jurisdicional na hipótese em que o Tribunal de origem deixa de enfrentar, expressamente, questões relevantes ao julgamento da causa, suscitadas, oportunamente, pela parte recorrente, tal como ocorreu, na espécie, porquanto impedira o posterior reexame no julgamento do recurso especial.
+No caso, a parte recorrida sustentou negativa de prestação jurisdicional, pois, não obstante a oposição de embargos de declaração com o objetivo de sanar o vício de omissão acerca da aventada inocorrência de preclusão consumativa, uma vez que a impugnação teria ocorrido em momento anterior à intimação ao cumprimento de sentença, o recurso integrativo foi rejeitado pelo Tribunal de origem sem sanar o aduzido defeito.
+De fato, foi verificado que o Tribunal a quo não havia se manifestado sobre a inocorrência da preclusão consumativa, tendo em vista que a impugnação teria ocorrido em momento anterior à intimação ao cumprimento de sentença, ponto essencial à solução da controvérsia.
+Assim, tendo o Tribunal a quo se recusado a emitir pronunciamento sobre o aludido ponto controvertido, oportunamente trazido pelo ora recorrido nos embargos de declaração (fls. 445-448), o correu negativa de prestação jurisdicional e a consequente violação do art. 1.022 do CPC.
+Desse modo, é de se manter intacta a decisão ora agravada à míngua de argumentos para infirmar seus fundamentos.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É o voto.
