@@ -1,0 +1,47 @@
+Decisão
+
+    Trata-se de Agravo Regimental interposto contra acórdão proferido pela Primeira Turma desta CORTE, assim ementado:
+
+    EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL NA RECLAMAÇÃO. AUSÊNCIA DE INDICAÇÃO DE PRECEDENTE VINCULANTE OU ATO CARACTERIZADOR DE USUPARÇÃO DE COMPETÊNCIA. INVIABILIDADE DE UTILIZAÇÃO DA RECLAMAÇÃO COMO SUCEDÂNEO RECURSAL.
+
+    I. QUESTÃO EM DISCUSSÃO
+
+    1. Agravo Interno contra decisão que negou seguimento à Reclamação.
+
+    II. RAZÕES DE DECIDIR
+
+    2. A parte autora deixou de apresentar paradigma de confronto com efeitos vinculantes ou ato caracterizador de usurpação da competência desta SUPREMA CORTE, requisitos essenciais para a admissibilidade deste instrumento.
+
+    3. A postulação não passa de simples pedido de revisão do entendimento aplicado na origem, o que confirma a inviabilidade desta ação. Esta CORTE já teve a oportunidade de afirmar que a Reclamação tem escopo bastante específico, não se prestando ao papel de simples substituto de recursos de natureza ordinária ou extraordinária (RCL 6.880-AgR, Rel. Min. CELSO DE MELLO, Plenário, DJe de 22/02/2013).
+
+    III. DISPOSITIVO
+
+    4. Embargos de Declaração recebidos como Agravo Regimental, ao qual se nega provimento.
+
+    Em suas razões, a parte agravante requer, em síntese, “o provimento ao Agravo Interno liminarmente e no mérito a fim de reformar a decisão agravada, analisando as questões da Reclamação [...], dando provimento, para julgar e acolher o Recurso Extraordinário 1.0000.24.195887-5/004 – TJMG”.
+
+    É o relatório. Decido.
+
+    O presente recurso, por ser manifestamente incabível, não merece ser conhecido.
+
+    Nos termos do art. 317 do Regimento Interno do SUPREMO TRIBUNAL FEDERAL, caberá agravo regimental, no prazo de cinco dias de decisão do Presidente do Tribunal, de Presidente de Turma ou do Relator, que causar prejuízo ao direito da parte. Logo, somente decisões monocráticas poderão ser impugnadas por meio do referido recurso.
+
+    Registre-se que a jurisprudência desta CORTE consolidou-se no sentido de que a interposição Agravo Regimental contra acórdão proferido pelo Plenário ou por uma de suas Turmas, como ocorre na espécie, caracteriza erro grosseiro, o que impede sua conversão em embargos declaratórios. Precedentes: ARE 680977 AgR-AgR, Rel. Min. ROSA WEBER, Primeira Turma, DJe de 9/11/2017; Pet 5161 AgR-AgR, Rel. Min. DIAS TOFFOLI, Segunda Turma, DJe de 10/8/2017; ARE 901450 AgR-AgR, Rel. Min. EDSON FACHIN, Primeira Turma, DJe de 17/3/2016:
+
+    JULGAMENTO COLEGIADO PELO PLENÁRIO DO SUPREMO TRIBUNAL FEDERAL – INTERPOSIÇÃO, CONTRA O ACÓRDÃO, DE “AGRAVO REGIMENTAL” – INADMISSIBILIDADE – ERRO GROSSEIRO – CONSEQUENTE INAPLICABILIDADE DO PRINCÍPIO DA FUNGIBILIDADE RECURSAL – RECURSO DE AGRAVO NÃO CONHECIDO. – Não se revela admissível “agravo regimental” contra acórdão emanado de órgão colegiado (Turma ou Plenário) do Supremo Tribunal Federal. Precedentes. – Inaplicabilidade, ao caso, por tratar-se de erro grosseiro, do postulado da fungibilidade recursal. Precedentes. Doutrina.
+
+    (ARE 926113 AgR-EDv-AgR-AgR, Rel. Min. CELSO DE MELLO, Tribunal Pleno, DJe de 10/11/2016)
+
+    Diante do exposto, por ser manifestamente inadmissível, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NÃO CONHEÇO DO RECURSO.
+
+    À Secretaria para certificação do trânsito em julgado e baixa imediata dos autos.
+
+    Publique-se.
+
+    Brasília, 10 de dezembro de 2025.
+
+Ministro Alexandre de Moraes
+
+Relator
+
+Documento assinado digitalmente
