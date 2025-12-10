@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/12/2025 a 10/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Carlos Pires Brandão, Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DENEGAÇÃO DA ORDEM. DOSIMETRIA DA PENA. DISCRICIONARIEDADE VINCULADA DO JULGADOR. AUSÊNCIA DE ILEGALIDADE E DE NOVOS ARGUMENTOS CAPAZES DE ALTERAR ENTEDIMENTO ANTERIOR. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Relativamente à pretendida redução da pena-base, destaco que a fixação da sanção é regulada por princípios e regras constitucionais e legais previstos, respectivamente, nos arts. 5º, XLVI, da Constituição Federal, 59 do Código Penal e 387 do Código de Processo Penal. A fim de obter uma aplicação justa da lei penal, o magistrado, mediante a discricionariedade juridicamente vinculada, deve atentar-se para as singularidades do caso concreto.
+2. Cumpre-lhe, na primeira etapa do procedimento trifásico, guiar-se pelas circunstâncias relacionadas no art. 59 do Código Penal, as quais não se deve furtar de analisar individualmente. São elas: culpabilidade, antecedentes, conduta social, personalidade do agente, motivos, circunstâncias e consequências do crime e comportamento da vítima.
+3. Nos termos da jurisprudência deste Tribunal Superior, admite-se a exasperação da pena-base pela valoração negativa das consequências do delito com amparo no valor do prejuízo sofrido pela vítima.
+4. O magistrado entendeu ser razoável o quantum diminuído em face da causa de diminuição da Lei do Desarmamento (delação). Houve fundamentação idônea para a escolha da fração adotada, porquanto as instâncias ordinárias destacaram que o caso não se afigurava de grande complexidade. Todavia, alterar essa compreensão demandaria o reexame das provas do processo, providência obstada no âmbito do habeas corpus, que veta a dilação probatória.
+5. O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão impugnada pelos próprios fundamentos.
+6. Agravo regimental não provido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+MARCOS CAMILO MOREIRA DE ALMEIDA interpõe agravo regimental contra decisão, de minha relatoria, na qual deneguei a ordem no habeas corpus por ele impetrado.
+Na ocasião, a defesa postulava: a) a fixação da pena-base no mínimo legal, ao assinalar a ilegalidade do aumento efetuado pelas instâncias de origem diante da ausência de fundamentação dos vetores judiciais valorados em desfavor do réu; b) a incidência da fração de 1/6 em virtude do concurso de agentes na terceira etapa da dosimetria; c) a redução da pena em 2/3 pela delação do insurgente, por ser causa de diminuição prevista no art. 14 da Lei do Desarmamento; e d) o regime prisional mais favorável.
+Trata-se de réu condenado, pela prática dos delitos de roubo majorado e posse ilegal de munições, previstos nos arts. 157, § 2º, II, do Código Penal e 14 da Lei n. 9.807/1999, nos termos do art. 70 do Código Penal (concurso formal), à sanção privativa de liberdade de 4 anos, 1 mês e 23 dias de reclusão, no regime fechado, além do pagamento de 10 dias-multa, à razão mínima.
+Nas razões deste regimental, a defesa aduz, resumidamente (fls. 88-93):
+ ..  a sustentação do valor considerável da bicicleta (R$ 6.000,00) ao sentir do paciente não se sustenta, máxime que, por primeiro foi crime tentado e, ao depois, é o valor normal de uma bicicleta, ou seja, não se cuida de um biciclo especial ou diferenciado para o desiderato de majoração .. .
+ ..  é de se ter presente que foi inequivocamente reconhecida a delação do Paciente. É de se relembrar, neste aspecto, que o próprio Ministério Público, atuante no caso concreto, reconheceu a relevância da delação premiada, diferentemente dos d. Julgadores, e, inclusive, postulou a retificação a maior da redução da pena  ..
+Requer, assim, a reconsideração do decisum anteriormente proferido ou a submissão do feito a julgamento pelo órgão colegiado, para que seja provido o agravo e concedida a ordem no habeas corpus nos termos pretendidos.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DENEGAÇÃO DA ORDEM. DOSIMETRIA DA PENA. DISCRICIONARIEDADE VINCULADA DO JULGADOR. AUSÊNCIA DE ILEGALIDADE E DE NOVOS ARGUMENTOS CAPAZES DE ALTERAR ENTEDIMENTO ANTERIOR. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Relativamente à pretendida redução da pena-base, destaco que a fixação da sanção é regulada por princípios e regras constitucionais e legais previstos, respectivamente, nos arts. 5º, XLVI, da Constituição Federal, 59 do Código Penal e 387 do Código de Processo Penal. A fim de obter uma aplicação justa da lei penal, o magistrado, mediante a discricionariedade juridicamente vinculada, deve atentar-se para as singularidades do caso concreto.
+2. Cumpre-lhe, na primeira etapa do procedimento trifásico, guiar-se pelas circunstâncias relacionadas no art. 59 do Código Penal, as quais não se deve furtar de analisar individualmente. São elas: culpabilidade, antecedentes, conduta social, personalidade do agente, motivos, circunstâncias e consequências do crime e comportamento da vítima.
+3. Nos termos da jurisprudência deste Tribunal Superior, admite-se a exasperação da pena-base pela valoração negativa das consequências do delito com amparo no valor do prejuízo sofrido pela vítima.
+4. O magistrado entendeu ser razoável o quantum diminuído em face da causa de diminuição da Lei do Desarmamento (delação). Houve fundamentação idônea para a escolha da fração adotada, porquanto as instâncias ordinárias destacaram que o caso não se afigurava de grande complexidade. Todavia, alterar essa compreensão demandaria o reexame das provas do processo, providência obstada no âmbito do habeas corpus, que veta a dilação probatória.
+5. O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão impugnada pelos próprios fundamentos.
+6. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Em que pesem os argumentos trazidos pela defesa, entendo que não lhe assiste razão. Mantenho, assim, a decisão agravada por seus próprios fundamentos.
+Por ocasião da análise do mérito, verificou-se que na decisão ora combatida, a fundamentação, no que interessa, foi elaborada nos seguintes termos (fls. 77-84, grifei):
+ ..  II. Dosimetria
+ ..  verifica-se que a pena inaugural, para o crime de roubo majorado, foi elevada em 1/6 pelas consequências do crime, uma vez que as bicicletas roubadas eram de valor expressivo, avaliadas no importe aproximado de R$ 6.000,00.
+Nos termos da jurisprudência deste Tribunal Superior, admite-se a exasperação da pena-base pela valoração negativa das consequências do delito com amparo no valor do prejuízo sofrido pela vítima. A propósito: AgRg no AREsp n. 1.873.061/TO, Rel. Ministro Rogério Schietti, 6ª T., DJe 16/3/2022).
+Assim, no caso em apreço, está correto o cômputo do referido vetor judicial em detrimento do réu, uma vez que o valor do bem subtraído é significativo.
+Desse modo, conserva-se a pena-base do ora insurgente no quantum fixado pelas instâncias ordinárias, qual seja, 4 anos e 8 meses de reclusão.
+Na fase intermediária, nada a modificar, uma vez que a pena não pode ser fixada abaixo do mínimo legal, dada a Súmula n. 231 do STJ, embora presentes as atenuantes da confissão e da menoridade relativa.
+Na derradeira etapa, elevou-se a pena em 1/3 pela causa de aumento do emprego de uso de arma de fogo. Esclareça-se que o quantum da fração incidente não pode ser minorado, pois ausente previsão legal.
+ ..  III. Fração redutora pela causa de diminuição prevista no art. 14 da Lei do Desarmamento
+No tocante à causa de diminuição do quantum da pena relativamente ao crime de posse de munição, observa-se que o réu não foi condenado pelo delito, mas tão somente o corréu. Todavia, ele foi beneficiado com redução da pena em 1/3, por haver delatado o comparsa e, ora, requer a aplicação de fração mais favorável, à razão de 2/3.
+O magistrado, mediante a discricionariedade juridicamente vinculada, entendeu ser razoável o quantum diminuído. Houve fundamentação idônea para a escolha da fração adotada, porquanto as instâncias ordinárias destacaram que "o caso não era de grande complexidade. Por toda a dinâmica narrada e pela proximidade social dos acusados, uma rápida investigação teria sido bem-sucedida na localização do corréu" (fl. 19).
+Nesse contexto, alterar essa compreensão, demandaria o reexame das provas do processo, providência obstada no âmbito do habeas corpus, que veta a dilação probatória.
+A propósito, adota-se, para a questão, o raciocínio análogo usado para as demandas que pretendem alterar o cálculo do iter criminis percorrido pelo réu: "A avaliação do iter criminis percorrido para aplicação da fração pela tentativa requer revolvimento de fatos e provas, o que é vedado em recurso especial, conforme Súmula 7/STJ" (AgRg no AREsp n. 2.752.259/RS, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJEN 2/9/2025).
+ ..  IV . Regime prisional
+ ..  A Súmula n. 440 do STJ veda o estabelecimento de regime prisional mais severo quando amparado, tão somente, na gravidade abstrata do delito; a pena-base é fixada no mínimo legal e o acusado é primário.
+Entretanto, na espécie, trata-se de militares do Exército que perpetraram os delitos em apreço, razão pela qual as instâncias de origem compreenderam ser o regime menos favorável o adequado, dada a maior severidade das condutas praticadas.
+Dessa forma, a imposição de regime prisional mais gravoso particularizou a gravidade concreta dos delitos, motivo por que se conserva o regime fechado  .. .
+Diante dessas considerações, afigura-se evidente a busca indevida de efeitos infringentes, em virtude da irresignação decorrente do resultado do julgamento, que denegou a ordem no habeas corpus quanto à análise do cômputo da pena imposta.
+Além disso, é assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão vergastada pelos próprios fundamentos. Nesse sentido: AgRg no HC n. 749.888/RS, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), 5ª T., DJe 26/8/2022.
+À vista do exposto, nego provimento ao agravo regimental.
+Publique-se e intimem-se.
