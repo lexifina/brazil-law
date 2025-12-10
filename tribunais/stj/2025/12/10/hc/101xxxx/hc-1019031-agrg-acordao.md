@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/12/2025 a 10/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. MINORANTE DO TRÁFICO PRIVILEGIADO. AFASTAMENTO SEM FUNDAMENTAÇÃO. IMPOSSIBILIDADE. PRIMARIEDADE E FALTA DE INDICAÇÃO DE CIRCUNSTÂNCIAS QUE DENOTAM A DEDICAÇÃO A ATIVIDADES CRIMINOSAS. CONSTRANGIMENTO ILEGAL EVIDENCIADO. ORDEM CONCEDIDA. EXTENSÃO DOS EFEITOS DA DECISÃO AO CORRÉU EM IDÊNTICA SITUAÇÃO FÁTICO-PROCESSUAL.
+Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto pelo Ministério Público do Estado de São Paulo contra a decisão monocrática assim ementada (fl. 125):
+PENAL. HABEAS CORPUS . TRÁFICO DE DROGAS. REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. INVIABILIDADE. QUEBRA DA CADEIA DE CUSTÓDIA. DEBATE PELA INSTÂNCIA ORDINÁRIA. AUSÊNCIA. SUPRESSÃO DE INSTÂNCIA. MINORANTE DO TRÁFICO PRIVILEGIADO. AFASTAMENTO SEM FUNDAMENTAÇÃO. IMPOSSIBILIDADE. PRIMARIEDADE E FALTA DE INDICAÇÃO DE CIRCUNSTÂNCIAS QUE DENOTAM A DEDICAÇÃO A ATIVIDADES CRIMINOSAS. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem concedida.
+Nas razões, o agravante alega que o habeas corpus foi manejado como sucedâneo recursal, sem demonstração de flagrante ilegalidade, devendo não ser conhecido, invocando a necessidade de rigor na filtragem do writ.
+Afirma que a aplicação do redutor do art. 33, § 4º, da Lei n. 11.343/2006 é imprópria em habeas corpus, por exigir revolvimento fático-probatório, e que as instâncias ordinárias valoraram concretamente a quantidade, variedade e nocividade das drogas para afastar a minorante. (fls. 183/187)
+Ressalta que o regime inicial aberto é inadequado diante da gravidade concreta, por impedir os aspectos preventivos, repressivos e ressocializadores da pena, devendo ser mantido o regime fixado na sentença.
+Pugna, assim, pela reforma da decisão agravada.
+Às fls. 128/151 e 158/161, o corréu Guilherme Bonfante postulou que lhe fossem estendidos os efeitos da decisão proferida neste habeas corpus.
+Às fls. 210/211, deferi o pedido de extensão ao corréu Guilherme Bonfante, reconhecendo a minorante do tráfico privilegiado, o que resulta na reprimenda de 1 ano e 8 meses de reclusão, e pagamento de 166 dias-multa, no regime inicial aberto.
+É o relatório.
+EMENTA
+PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. MINORANTE DO TRÁFICO PRIVILEGIADO. AFASTAMENTO SEM FUNDAMENTAÇÃO. IMPOSSIBILIDADE. PRIMARIEDADE E FALTA DE INDICAÇÃO DE CIRCUNSTÂNCIAS QUE DENOTAM A DEDICAÇÃO A ATIVIDADES CRIMINOSAS. CONSTRANGIMENTO ILEGAL EVIDENCIADO. ORDEM CONCEDIDA. EXTENSÃO DOS EFEITOS DA DECISÃO AO CORRÉU EM IDÊNTICA SITUAÇÃO FÁTICO-PROCESSUAL.
+Agravo regimental improvido.
+VOTO
+O inconformismo não prospera.
+Primeiramente, verificada a presença de manifesta ilegalidade no acórdão impugnado, não há óbice que esta Corte proceda, nos autos de habeas corpus, à revisão da condenação imposta e mantida pelas instâncias ordinárias.
+No mais, as razões do agravo regimental não são suficientes para infirmar a fundamentação da decisão ora agravada, que mantenho integralmente (fl. 126):
+Do atento exame dos autos observa-se que nem a sentença, nem o acórdão hostilizados, ao afastar a minorante do tráfico privilegiado, lograram demonstrar, com fundamento em elementos concretos dos autos, a dedicação do paciente a atividades criminosas, tendo o acordão se referido apenas à quantidade de droga a quo (fls. 23/24 - ), o que não se coaduna com a apreendida 4.713 g de maconha jurisprudência desta Corte Superior de Justiça.
+Redimensionando-se a reprimenda imposta, temos:
+Mantida a pena-base no mínimo legal, em 5 anos de reclusão e 500 dias- multa, ainda que com o reconhecimento da confissão espontânea, a pena se mantém nesse patamar, de acordo com a Súmula 231/STJ. Na terceira etapa, aplico a minorante do tráfico privilegiado em 2/3, resultando a reprimenda em 1 ano e 8 meses de reclusão, e pagamento de 166 dias-multa, a qual torno definitiva, em razão da ausência de outras circunstâncias legais.
+O regime inicial deverá ser o . aberto.
+A quantidade de droga apreendida - 4.713 g de maconha - demonstra que a substituição da privativa de liberdade por restritiva de direitos não se mostra socialmente recomendável.
+Em face do exposto, a ordem impetrada para reconhecer a concedo minorante do tráfico privilegiado, resultando a reprimenda do paciente em 1 ano e 8 meses de reclusão, e pagamento de 166 dias-multa, no regime inicial aberto.
+Cumpre reiterar que o Tribunal estadual absolveu os acusados da imputação pelo crime de associação ao tráfico e da fundamentação do acórdão impugnado não ficou demonstrada a efetiva dedicação a atividades criminosas (fls. 23/24):
+ ..  não foi aplicado o redutor do § 4º, do artigo 33, da Lei de Tóxicos, por se tratar de benesse a ser concedida em circunstâncias especialíssimas, quando preenchidos, cumulativamente, todos os seus requisitos, e apenas aos neófitos que se envolvem na atividade da narcotraficância de forma ocasional, e em pequena monta, o que, por óbvio, não é o caso dos acusados, mormente diante da apreensão de, repita-se, quase cinco quilos de maconha, que a experiência forense denota se prestarem para a confecção de cerca de 9.500 cigarros dessa erva, e que custariam pelo menos cerca de R$ 47.500,00, levando-se em conta o preço mínimo de cada um no mercado ilícito, de R$5,00, bem como de um celular contendo diversas mensagens e fotografias relacionadas a drogas (laudo pericial de fls. 214/220), não sendo crível que neófitos no narcotráfico tivessem sob sua guarda referida quantidade de droga, quando a experiência forense permite observar que resultaria em elevado valor no comércio espúrio, portanto dificilmente seria confiada a inexperientes, tudo a indicar que ambos se tratam de pessoas enraizadas nessa atividade criminosa gravíssima, daí porque não preenchem o terceiro requisito do referido dispositivo legal.
+Cediço que a quantidade de drogas, no caso 4.713 g de maconha, por si só, não constitui fundamento idôneo para afastar o redutor pelo reconhecimento do tráfico privilegiado. Com efeito, segundo a jurisprudência desta Corte Superior, a quantidade e a natureza do entorpecente podem servir de fundamento para a majoração da pena-base ou para a modulação da fração da causa de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006, desde que, neste último caso, não tenha sido utilizada na primeira fase da dosimetria (AgRg no HC n. 859.826/RS, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 23/5/2024).
+Estando o corréu Guilherme Bonfante na mesma situação fático-processual do ora agravado MATHEUS GABRIEL ARAUJO, de rigor a extensão dos efeitos da concessão da ordem para reconhecer a minorante do tráfico privilegiado, resultando a reprimenda em 1 ano e 8 meses de reclusão, e pagamento de 166 dias-multa, no regime inicial aberto, conforme já determinado às fls. 210/211.
+Nego provimento ao agravo regimental.
