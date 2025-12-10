@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial, fundado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, interposto por CIAÇO ADMINISTRADORA DE IMÓVEIS LTDA em face de acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso do Sul, assim ementado:
+RECURSO DE AGRAVO DE INSTRUMENTO EM CUMPRIMENTO DE SENTENÇA - REQUERIMENTO DE SUBSTITUIÇÃO DO IGPM - IMPOSSIBILIDADE POR SER O MAIS ADEQUADO A REFLETIR A INFLAÇÃO - REQUERIMENTO DE SUBSTITUIÇÃO DO BEM PENHORADO - IMPOSSIBILIDADE - A MENOR ONEROSIDADE PARA O DEVEDOR NÃO PODE SER OLHADA DE FORMA ABSOLUTA - A EXECUÇÃO DEVE OBSERVAR A MÁXIMA UTILIDADE AO CREDOR - RECURSO CONHECIDO E DESPROVIDO.
+No recurso especial, a agravante alega, sob pretexto de dissídio jurisprudencial, que o valor da execução não deve ser corrigido pelo IGPM, mas, sim, pelo IPCA-E, já que este índice refletiria melhor a perda de poder aquisitivo da moeda brasileira.
+Aduz que o acórdão contrariou o art. 805 do Código de Processo Civil, porquanto o Tribunal local, ao manter a decisão que negou o pedido de substituição da penhora, teria violado o Princípio da menor onerosidade da execução.
+Contrarrazões às fls. 113-126.
+Assim, delimitada a controvérsia, passo a decidir.
+Cuida-se, na origem, de agravo de instrumento interposto pela agravante em face de decisão interlocutória proferida pelo Juízo de primeiro grau, a qual determinou que o valor da execução fosse atualizado pelo IGPM e indeferiu o pedido de substituição do bem penhorado formulado pela parte nos autos da execução.
+O Tribunal de origem negou provimento ao recurso, por entender, em síntese, que o IGPM "tem se mostrado, ao longo do tempo, como índice apto a refletir de forma abrangente as oscilações inflacionárias do mercado brasileiro" e que "sua utilização não se mostra desprovida de razoabilidade, tampouco revela desequilíbrio ou desproporcionalidade que justifique sua substituição por outro índice, como o IPCA" (fl. 60).
+Além disso, quanto à substituição da penhora, entendeu que "a substituição da penhora não pode comprometer a celeridade, efetividade ou segurança do processo executivo, tampouco gerar novos riscos, atrasos ou incidentes processuais desnecessários" (fl. 61).
+Diante do acórdão, foi interposto recurso especial, que entendo não ser admissível.
+De início, quanto ao suposto dissídio jurisprudencial, entendo que o recurso não merece conhecimento, uma vez que não foi apontado o dispositivo de lei cuja interpretação seria objeto de divergência pelos Tribunais. Há, então, incidência da Súmula 284 do STF à espécie.
+Nesse sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR ACIDENTE DE TRÂNSITO. DANO MORAL. VALOR. TERMO INICIAL DA CORREÇÃO MONETÁRIA. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284 DO STF. RESPONSABILIDADE CIVIL EXTRACONTRATUAL. JUROS DE MORA. TERMO INICIAL. EVENTO DANOSO. SÚMULA N. 54 DO STJ.
+1. "O conhecimento do recurso especial fundamentado na alínea "c" do permissivo constitucional exige a indicação dos dispositivos legais que supostamente foram objeto de interpretação divergente.
+Ausente tal requisito, incide a Súmula n. 284/STF" (AgInt no AREsp 1.899.097/SC, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 4.4.2022, DJe de 8.4.2022).
+2. A jurisprudência do STJ firmou o entendimento de que, em casos de responsabilidade civil extracontratual, os juros moratórios incidem sobre a indenização por dano moral desde o evento danoso, conforme dispõe a Súmula n. 54 do STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.119.879/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 28/11/2022, DJe de 2/12/2022.)
+No que tange à suposta violação ao art. 805 do CPC, este Superior Tribunal de Justiça possui entendimento consolidado de que "o objetivo primordial da execução é a satisfação do credor, admitindo-se excepcionalmente a substituição da penhora somente nas hipóteses em que efetivamente demonstrada a necessidade de aplicação do princípio da menor onerosidade ao executado" (AgInt no AREsp n. 2.299.783/PR, relator Ministro Humberto Martins, Terceira Turma, julgado em 27/11/2023, DJe de 30/11/2023).
+No presente caso, verifica-se que o TJMS entendeu que a substituição da penhora poderia resultar em risco à celeridade, efetividade e segurança do processo executivo, uma vez que "o bem indicado pela parte executada, embora alegadamente de maior valor, pertence a terceiro estranho à lide, cuja concordância expressa não elimina os riscos e as eventuais discussões futuras sobre a eficácia e validade da penhora substitutiva, o que pode vir a tumultuar a marcha processual" (fl. 62).
+Alterar a conclusão a que chegou o Tribunal de origem demandaria, necessariamente, o reexame de fatos e provas, inviável em recurso especial, a teor do disposto na Súmula 7/STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do Código de Processo Civil, visto que o recurso especial foi interposto nos autos de agravo de instrumento que ataca decisão interlocutória.
+Intimem-se.
+EMENTA
