@@ -1,0 +1,47 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC), interposto por REDECARD S.A., em face da decisão que inadmitiu o recurso especial manejado pelo ora agravante.
+O apelo extremo, fundamentado na alínea "a" do permissivo constitucional, desafia acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 526-538, e-STJ):
+APELAÇÃO - CONTRATO DE CREDENCIAMENTO - CHARGEBACK - PRELIMINAR DE ILEGITIMIDADE PASSIVA - FRAUDE PERPETRADA POR TERCEIROS INOCORRÊNCIA. Havendo contrato de fornecimento de serviços no qual a recorrida se obriga a intermediar transações envolvendo cartões de crédito ou débito, uma vez imputado à credenciadora contratada a ilegalidade na retenção de valores mediante suspeita de fraude, ainda que perpetrada por terceiros, não há que se falar em ilegitimidade passiva da instituição contratada. RETENÇÃO INDEVIDA - FRAUDE NÃO COMPROVADA. Comprovada a autorização da venda mediante a utilização de link gerado na plataforma da recorrida na qual eram efetuadas as análises competentes, ausente a comprovação de qualquer má fé, o chargeback não se mostra legítimo, mantendo-se a condenação ao ressarcimento das quantias. ATRIBUIÇÃO INTEGRAL DO RISCO AO COMERCIANTE - CLÁUSULA ABUSIVA RESPONSABILIDADE DA CREDENCIADORA - TEORIA DO RISCO DA ATIVIDADE. Não havendo meios tecnológicos disponíveis ao comerciante para aferir a segurança da transação, incumbe à credenciadora a adoção das medidas pertinentes, no âmbito da teoria do risco da atividade, conforme o parágrafo único do artigo 927 do Código Civil. A cláusula contratual que imputa integralmente ao comerciante o ônus de arcar com os riscos do empreendimento mostra-se abusiva. DANOS MATERIAIS - COMPROVADOS - DEDUÇÃO DE TAXAS - COMPUTADA. Efetuada retenção indevida de valores mediante procedimento de chargeback, resta configurado o dano material mediante o não recebimento de quantias mesmo após autorização de venda pela credenciadora e efetiva entrega dos produtos, já tendo sido deduzidas as taxas de administração do serviço no valor pleiteado pela recorrida. RECURSO DE APELAÇÃO IMPROVIDO.
+Embargos de declaração opostos (fls. 554-559, e-STJ) e rejeitados na origem.
+Nas razões do especial (fls. 541-547, e-STJ), o insurgente aponta violação ao art. 1.022, II, do CPC/15, ao argumento de negativa de prestação jurisdicional, mesmo após o julgamento dos aclaratórios, diante da ausência de enfrentamento pelo juízo a quo quanto aos argumentos centrais sobre a conduta do lojista, que permitiu pagamento realizado por pessoa diversa da titular do cartão.
+As contrarrazões foram apresentadas às fls. 563-573, e-STJ.
+Em juízo prévio de admissibilidade, o Tribunal a quo inadmitiu o apelo nobre (fls. 574-576, e-STJ), dando ensejo ao presente agravo (fls. 578-583, e-STJ).
+Contraminuta às fls. 594-603, e-STJ.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. Consoante relatado, sustenta a parte recorrente ter havido violação ao artigo 1.022, II, do CPC/15, ao argumento de que persiste negativa de prestação jurisdicional, mesmo após o julgamento dos aclaratórios, diante da ausência de enfrentamento pelo juízo a quo quanto aos argumentos centrais sobre a conduta do lojista, que permitiu pagamento realizado por pessoa diversa da titular do cartão.
+Razão não lhe assiste, no ponto.
+Não se vislumbra a referida omissão, pois o órgão julgador dirimiu a controvérsia de forma fundamentada, embora não tenha acolhido as pretensões da parte ora insurgente, consoante se infere dos seguintes trechos do decisum :
+"(..) deve-se observar que as compras eram realizadas por meio do fornecimento de link direcionado à página da corré Maxipago, integrada com o sistema de pagamentos online da apelante, cuja plataforma recebe diretamente da recorrida o cadastramento dos dados pessoais do consumidor interessado na compra. Efetuado o pagamento perante a Maxipago, há confirmação por parte da Redecard, ora apelante, na condição de credenciadora.
+Comprovada a autorização da venda e igualmente a entrega dos produtos, a retenção das quantias depende da demonstração de má-fé ou de imprudência da apelante na condução das tratativas, o que inexiste no caso. Com isso, é inequívoca a ilegalidade da retenção dos valores, uma vez que o comerciante não pode se ver prejudicado por agir de acordo com os procedimentos da própria credenciadora, a qual atestara previamente a segurança da compra efetuada." (fls. 531, e-STJ)
+Veja-se, ainda, excertos do julgamento dos aclaratórios:
+"(..) Ademais, ressalta-se que a decisão tomada não se baseou, diversamente do que alega a embargante, exclusivamente na nulidade da cláusula contratual que imputa apenas ao lojista a responsabilidade por fraudes, havendo análise do conjunto probatório e das teses trazidas por ambas as partes.
+Há, inclusive, menção expressa ao fato de que a embargante é quem reunia condições de proceder à análise de segurança que ela própria suscita nos presente embargos. Destacou-se também que as compras foram efetuadas por meio de link de página integrada ao seu sistema de segurança, além da comprovação da entrega dos produtos e autorização da venda." (fls. 557-558, e-STJ)
+Como se vê, as questões necessárias ao deslinde da controvérsia foram abordadas de forma clara e suficiente pelo Tribunal, inclusive em sede de aclaratórios, ante o enfrentamento das questões a respeito da responsabilidade pela segurança das transações, notadamente quanto à impossibilidade de o comerciante verificar a autenticidade do titular do cartão em compras online, cabendo tal verificação à credenciadora, que possui os meios técnicos para tanto.
+Assim, não se vislumbra a alegada negativa de prestação jurisdicional. Não há falar, portanto, em ofensa ao dispositivo em questão.
+Na mesma linha, precedentes: AgRg no REsp 1291104/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 17/05/2016, DJe 02/06/2016; AgRg no Ag 1252154/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 23/06/2015, DJe 30/06/2015; REsp 1395221/SP, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 05/09/2013, DJe 17/09/2013.
+Além disso, não se deve confundir decisão contrária aos interesses da parte com negativa de prestação jurisdicional.
+Não é demais lembrar, a orientação desta Casa, no sentido de que o julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, nem a indicar todos os dispositivos legais suscitados, quando tenha encontrado motivação satisfatória para dirimir o litígio, como ocorrera na hipótese.
+Nesse sentido, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. MANUTENÇÃO. OMISSÃO DO ACÓRDÃO. ART. 1022 DO CÓDIGO DE PROCESSO CIVIL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INEXISTÊNCIA. ATRASO DE OBRA POR LONGO PERÍODO. FINALIDADE DE MORADIA. CIRCUNSTÂNCIAS EXCEPCIONAIS. DANO MORAL CONFIGURADO. PRECEDENTES DO STJ. INCIDÊNCIA DA SÚMULA 83 DO STJ. SEM IMPUGNAÇÃO DEVIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte. Precedentes.
+2. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram; deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução" (REsp 1.814.271/DF, Relator Ministro Herman Benjamin, Segunda Turma, DJe de 1º.7.2019).
+(..)
+5. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp n. 2.249.293/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 16/10/2023, DJe de 20/10/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA DEMANDADA.
+1. Violação do art. 1022 do CPC/15, não configurada. Acórdão estadual que enfrentou todos os aspectos essenciais à resolução da controvérsia de forma ampla e fundamentada, sem omissão. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tenha encontrado motivação satisfatória para dirimir o litígio. Precedentes.
+(..)
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.009.976/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 27/6/2022, DJe de 30/6/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. PENHORA DE IMÓVEL. CÔNJUGE. INTIMAÇÃO. AUSÊNCIA. NULIDADE. INEXISTÊNCIA. MENOR ONEROSIDADE. PREQUESTIONAMENTO. SÚMULAS N. 282 E 356/STF E 211/STJ. PRESCRIÇÃO INTERCORRENTE. NÃO PROVIMENTO. SÚMULA N. 284/STF.
+1. Não é omisso o acórdão que examina todas as questões que lhe foram propostas, embora em sentido contrário ao pretendido pela parte.
+(..)
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.885.937/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 13/12/2021, DJe de 15/12/2021.)
+Inexiste, portanto, violação ao artigo 1.022, II, do CPC/15, visto que a matéria fora apreciada pelo Tribunal de origem, cuja fundamentação foi clara e suficiente para o deslinde da controvérsia.
+2. Do exposto, com fundamento no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conhece-se do agravo para negar provimento ao recurso especial.
+Por conseguinte, nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, em favor do patrono da parte recorrida, observado, se for o caso, o disposto no art. 98, § 3º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
