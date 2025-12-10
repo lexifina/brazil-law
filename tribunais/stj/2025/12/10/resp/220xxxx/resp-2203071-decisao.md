@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVÁVEIS - IBAMA, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO assim ementado:
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO FISCAL. PROCESSO ADMINIST RATIVO FISCAL. AUTO DE INFRAÇÃO. DEVEDOR COM ENDEREÇO CONHECIDO. NOTIFICAÇÃO POR EDITAL. NULIDADE. VIOLAÇÃO AO DEVIDO PROCESSO LEGAL.
+1. O Superior Tribunal de Justiça possui entendimento no sentido de que "Nos termos do art. 23, § 1º, do Decreto 70.235/72, é válida a notificação do lançamento tributário por edital, quando frustrada aquela realizada por via postal, destinada ao endereço correto do contribuinte. Precedentes do STJ: AgInt nos EDcl no AREsp 820.445/MG, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 02/08/2019; AgInt no REsp 1.597.492/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 18/12/2017; REsp 1.561.153/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 24/11/2015; REsp 959.833/SC, Rel. Ministra DENISE ARRUDA, PRIMEIRA TURMA, DJe de 10/12/2009." (AgInt no REsp 1660549/SC, Relator Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 22/04/2020, publicado DJe 24/04/2020).
+2. Não destoa desse entendimento do egrégio Superior Tribunal de Justiça os precedentes jurisprudenciais deste Tribunal Regional Federal no sentido de que "A intimação do contribuinte no processo administrativo fiscal poderá ocorrer pessoalmente ou por via postal ou telegráfica, em seu domicílio tributário fornecido para fins cadastrais na Secretaria da Receita Federal, sendo que a intimação por edital é meio excepcional quando frustradas as intimações pessoal ou por carta (art. 23 do Decreto nº 70.235/1972)" (AC 0001017-23.2017.4.01.4103, Rel. DESEMBARGADOR FEDERAL HERCULES FAJOSES, SÉTIMA TURMA, julgado em 19/05/2023, publicado P Je 19/05/2023 PAG).
+3. Por aplicação dos precedentes jurisprudenciais do egrégio Superior Tribunal de Justiça e deste Tribunal Regional Federal, verifica-se que deve ser mantida a sentença apelada.
+4. Apelação desprovida.
+Nas razões de seu recurso, a parte recorrente alega (fls. 213/214):
+Conclui-se, desta feita, que não há qualquer mácula na notificação devidamente efetivada, merecendo o v. Acórdão ser integralmente reformado para reconhecer a ausência de vícios no processo administrativo de constituição do débito, e para viabilizar o prosseguimento do processo executivo.
+Assim, ao considerar nula a notificação editalícia realizada pelo IBAMA, o acórdão recorrido negou vigência art. 26, § 4º, da Lei 9.784/99, supra referido.
+A parte adversa apresentou contrarrazões (fls. 217/222).
+O recurso foi admitido (fls. 223/225 ).
+É o relatório.
+A questão debatida nos autos foi analisada pelo Superior Tribunal de Justiça quando do julgamento dos Recursos Especiais 2.154.295/RS e 2.163.058/SC, sob o rito de recursos repetitivos, oportunidade em que foi firmada a seguinte tese quanto ao Tema 1.329:
+"No âmbito do procedimento administrativo para apuração das infrações ao meio ambiente e imposição das respectivas sanções, a intimação por edital para apresentação de alegações finais, prevista na redação original do art. 122, parágrafo único, Decreto 6.514/2008, somente acarretará nulidade dos atos posteriores caso a parte demonstre a existência de efetivo prejuízo para a defesa, inclusive no momento prévio ao recolhimento de multa" (relator Ministro Afrânio Vilela, DJe de 21/10/2025 ).
+De acordo com o disposto no art. 34, XXIV, do Regimento Interno do Superior Tribunal de Justiça, em situações em que o recurso versa sobre a mesma controvérsia objeto de recursos representativos de controvérsia já julgados, os autos devem retornar ao Tribunal de origem para que seja providenciado o juízo de conformação:
+Art. 34. São atribuições do relator:
+ ..
+XXIV - determinar a devolução ao Tribunal de origem dos recursos especiais fundados em controvérsia idêntica àquela já submetida ao rito de julgamento de casos repetitivos para adoção das medidas cabíveis.
+Ressalto que a Primeira Seção desta Corte Superior tem posicionamento consolidado de não ser "necessário aguardar o trânsito em julgado para a aplicação do paradigma firmado em recurso repetitivo ou com repercussão geral" (AgInt no PUIL 1.494/RS, relator Ministro Herman Benjamin, DJe de 9/9/2020).
+Ante o exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do Código de Processo Civil.
+Publique-se. Intimem-se.
+EMENTA
