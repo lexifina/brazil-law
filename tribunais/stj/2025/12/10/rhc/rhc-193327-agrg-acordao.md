@@ -1,0 +1,99 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/12/2025 a 10/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Messod Azulay Neto, Maria Marluce Caldas, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito Processual Penal. Agravo Regimental. condenação por peculato. Nulidade absoluta. tese não suscitada oportunamente. preclusão temporal sui generis. Recurso não provido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que, após acolher parcialmente embargos de declaração, manteve o não conhecimento do recurso em habeas corpus com fundamento na ocorrência de preclusão temporal.
+2. Os agravantes foram condenados às penas de 5 anos de reclusão, em regime semiaberto, e 100 dias-multa, pela prática do crime tipificado no art. 312, caput, do Código Penal. A ação penal foi ajuizada em 2009, a sentença condenatória prolatada em 21/10/2014 e a apelação julgada pelo Tribunal Regional Federal da 1ª Região em 22/9/2020, que manteve a condenação com alteração na dosimetria da pena.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a alegação de nulidade absoluta, fundada na violação de prerrogativa de foro, está sujeita à preclusão temporal, considerando os princípios da segurança jurídica e da lealdade processual.
+III. Razões de decidir
+4. Verifica-se, na espécie, a preclusão sui generis da matéria, em virtude do transcurso de mais de três anos entre a interposição do recurso em habeas corpus e a sessão de julgamento da apelação em que teria ocorrido a suposta ilegalidade.
+5. A jurisprudência do Superior Tribunal de Justiça - STJ e do Supremo Tribunal Federal - STF, em respeito aos princípios da segurança jurídica e da lealdade processual, tem se orientado no sentido de que mesmo as nulidades denominadas absolutas, ou qualquer outra falha ocorrida no acórdão impugnado, também devem ser arguidas em momento oportuno, sujeitando-se à preclusão temporal sui generis para a impetração tardia do remédio constitucional.
+6. No caso concreto, o longo decurso de tempo entre o julgamento da apelação (2020) e a interposição do recurso em habeas corpus (2023) caracteriza a preclusão da matéria, não havendo flagrante ilegalidade que justifique a concessão da ordem.
+7. Outrossim, a defesa teve ampla oportunidade de suscitar a alegada nulidade ao longo de toda a instrução processual, no momento da sentença, na apelação e até mesmo no recurso especial interposto, optando por não fazê-lo, o que ratifica a existência da preclusão.
+8. A concessão da ordem de ofício somente se justifica em casos de flagrante ilegalidade, o que não se verifica na hipótese dos autos.
+IV. Dispositivo e tese
+9. Resultado do Julgamento: Agravo regimental não provido.
+Tese de julgamento:
+1. Mesmo as nulidades absolutas devem ser arguidas em momento oportuno, sujeitando-se à preclusão temporal, em respeito aos princípios da segurança jurídica e da lealdade processual.
+2. A concessão de ordem de habeas corpus de ofício somente se justifica em casos de flagrante ilegalidade, o que não ocorreu no caso concreto.
+Dispositivos relevantes citados: CF/1988; CPP, art. 619.
+Jurisprudência relevante citada: STJ, AgRg no HC 967.518/SP, Rel. Min. João Otávio de Noronha, Quinta Turma, julgado em 26/3/2025; STJ, AgRg no HC 985.807/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 20/3/2025; STF, HC 102.077/SP, Rel. Min. Roberto Barroso, Primeira Turma, julgado em 1/4/2014.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Damásio Gomes da Rocha Neto e Clediomar José Ribeiro contra decisão de fls. 2426/2436, que acolheu parcialmente embargos de declaração, mantendo, contudo, a decisão de fls. 2407/2414, que não conheceu do recurso em habeas corpus.
+Extrai-se dos autos que os recorrentes foram condenados às penas de 5 anos de reclusão, em regime semiaberto, e 100 dias-multa, pela prática do crime tipificado no art. 312, caput, do Código Penal. A ação penal foi ajuizada em 2009, a sentença condenatória prolatada em 21/10/2014 e a apelação julgada pelo Tribunal Regional Federal da 1ª Região em 22/9/2020, que manteve a condenação com alteração na dosimetria da pena.
+Irresignados, impetraram habeas corpus perante o Tribunal de origem, que sequer conheceu do mandamus. O acórdão do TRF-1, por maioria, entendeu que, após o julgamento da apelação, não teria mais competência para apreciar o habeas corpus.
+No recurso ordinário dirigido a esta Corte, sustentaram que o Tribunal de origem teria deixado de analisar as teses suscitadas e que não haveria qualquer óbice à apreciação das matérias aventadas, requerendo a anulação das provas colhidas desde o início das investigações que culminaram na propositura da ação penal.
+A decisão inicial de fls. 2407/2414 não conheceu do recurso em habeas corpus sob dois fundamentos: supressão de instância, pois o Tribunal de origem não teria se manifestado expressamente sobre a aventada nulidade das investigações, e longo decurso de tempo sem que a nulidade tenha sido alegada, impedindo o conhecimento de ofício da matéria.
+Opostos embargos de declaração, a decisão de fls. 2426/2436 os acolheu parcialmente para reconhecer a inexistência de supressão de instância, uma vez que o voto vencido no habeas corpus originário havia enfrentado a matéria. Manteve-se, contudo, o não conhecimento do recurso em razão da preclusão temporal sui generis.
+No presente agravo regimental, os recorrentes sustentam, em síntese, que a jurisprudência segundo a qual a nulidade absoluta se convalida pelo decurso do tempo não se aplicaria à violação de prerrogativa de foro, que tem fundamento direto na Constituição Federal. Alegam que se trata de violação frontal e direta à Constituição, gerando situação inconstitucional impassível de convalidação, distinta de mera ilegalidade. Argumentam, ainda, inexistir demora na suscitação do vício, pois o habeas corpus foi ajuizado em 2022, apenas um ano após o julgamento da apelação em 2020, atribuindo a morosidade ao próprio Judiciário.
+Requerem a reconsideração da decisão ou sua reforma pelo colegiado, para conhecer e prover o recurso ordinário, concedendo a ordem de habeas corpus, ainda que de ofício, determinando a anulação das provas colhidas desde o início das investigações e, consequentemente, a absolvição dos pacientes.
+EMENTA
+Direito Processual Penal. Agravo Regimental. condenação por peculato. Nulidade absoluta. tese não suscitada oportunamente. preclusão temporal sui generis. Recurso não provido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que, após acolher parcialmente embargos de declaração, manteve o não conhecimento do recurso em habeas corpus com fundamento na ocorrência de preclusão temporal.
+2. Os agravantes foram condenados às penas de 5 anos de reclusão, em regime semiaberto, e 100 dias-multa, pela prática do crime tipificado no art. 312, caput, do Código Penal. A ação penal foi ajuizada em 2009, a sentença condenatória prolatada em 21/10/2014 e a apelação julgada pelo Tribunal Regional Federal da 1ª Região em 22/9/2020, que manteve a condenação com alteração na dosimetria da pena.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a alegação de nulidade absoluta, fundada na violação de prerrogativa de foro, está sujeita à preclusão temporal, considerando os princípios da segurança jurídica e da lealdade processual.
+III. Razões de decidir
+4. Verifica-se, na espécie, a preclusão sui generis da matéria, em virtude do transcurso de mais de três anos entre a interposição do recurso em habeas corpus e a sessão de julgamento da apelação em que teria ocorrido a suposta ilegalidade.
+5. A jurisprudência do Superior Tribunal de Justiça - STJ e do Supremo Tribunal Federal - STF, em respeito aos princípios da segurança jurídica e da lealdade processual, tem se orientado no sentido de que mesmo as nulidades denominadas absolutas, ou qualquer outra falha ocorrida no acórdão impugnado, também devem ser arguidas em momento oportuno, sujeitando-se à preclusão temporal sui generis para a impetração tardia do remédio constitucional.
+6. No caso concreto, o longo decurso de tempo entre o julgamento da apelação (2020) e a interposição do recurso em habeas corpus (2023) caracteriza a preclusão da matéria, não havendo flagrante ilegalidade que justifique a concessão da ordem.
+7. Outrossim, a defesa teve ampla oportunidade de suscitar a alegada nulidade ao longo de toda a instrução processual, no momento da sentença, na apelação e até mesmo no recurso especial interposto, optando por não fazê-lo, o que ratifica a existência da preclusão.
+8. A concessão da ordem de ofício somente se justifica em casos de flagrante ilegalidade, o que não se verifica na hipótese dos autos.
+IV. Dispositivo e tese
+9. Resultado do Julgamento: Agravo regimental não provido.
+Tese de julgamento:
+1. Mesmo as nulidades absolutas devem ser arguidas em momento oportuno, sujeitando-se à preclusão temporal, em respeito aos princípios da segurança jurídica e da lealdade processual.
+2. A concessão de ordem de habeas corpus de ofício somente se justifica em casos de flagrante ilegalidade, o que não ocorreu no caso concreto.
+Dispositivos relevantes citados: CF/1988; CPP, art. 619.
+Jurisprudência relevante citada: STJ, AgRg no HC 967.518/SP, Rel. Min. João Otávio de Noronha, Quinta Turma, julgado em 26/3/2025; STJ, AgRg no HC 985.807/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 20/3/2025; STF, HC 102.077/SP, Rel. Min. Roberto Barroso, Primeira Turma, julgado em 1/4/2014.
+VOTO
+Conforme relatado, trata-se de agravo regimental interposto contra decisão que, após acolher parcialmente embargos de declaração, manteve o não conhecimento do recurso em habeas corpus com fundamento na ocorrência de preclusão temporal sui generis.
+Os agravantes sustentam que a jurisprudência sobre convalidação de nulidades absolutas pelo decurso do tempo não se aplicaria à violação de prerrogativa de foro, por se tratar de vício de natureza constitucional. Alegam, ainda, inexistir demora na suscitação do vício e que a morosidade seria imputável ao próprio Judiciário.
+Pois bem. Analisados os argumentos apresentados, não vislumbro razões para modificar a decisão agravada.
+Conforme detalhadamente consignado na decisão de fls. 2426/2436, a ação penal foi ajuizada em 2009, a sentença condenatória foi prolatada em 21/10/2014 e a apelação interposta contra a referida decisão foi julgada pelo Tribunal Regional Federal da 1ª Região em 22/9/2020, que manteve a condenação, alterando, contudo, a dosimetria da pena imposta.
+Ao longo de todo esse processo, que tramita há 16 anos, a defesa dos ora agravantes não suscitou a nulidade ora aventada, somente vindo a fazê-lo por meio do habeas corpus impetrado em 2022 perante o Tribunal de origem, ou seja, após o esgotamento das vias recursais ordinárias.
+A alegação de que não se aplicaria a preclusão temporal por se tratar de violação à prerrogativa de foro, com fundamento direto na Constituição Federal, não merece acolhida.
+A jurisprudência desta Corte Superior e do Supremo Tribunal Federal é firme no sentido de que, em respeito aos princípios da segurança jurídica e da lealdade processual, mesmo as nulidades denominadas absolutas devem ser arguidas em momento oportuno, sujeitando-se à preclusão temporal.
+Nesse sentido, destaco os seguintes precedentes transcritos na decisão agravada:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. PRECLUSÃO TEMPORAL. NULIDADE ABSOLUTA. RECURSO NÃO PROVIDO.
+(..)
+6. A jurisprudência do Superior Tribunal de Justiça orienta-se no sentido de que mesmo as nulidades absolutas devem ser arguidas em momento oportuno, sujeitando-se à preclusão temporal, em respeito à segurança jurídica e à lealdade processual.
+7. A alegação de nulidade foi suscitada mais de oito anos após o acórdão que desproveu o recurso em sentido estrito, atraindo a preclusão temporal. (..) Tese de julgamento: "1. Mesmo as nulidades absolutas devem ser arguidas em momento oportuno, sujeitando-se à preclusão temporal. 2. a exclusão de qualificadoras na sentença de pronúncia só é possível quando manifestamente improcedentes, para não usurpar a competência do Tribunal do Júri.
+(AgRg no HC n. 967.518/SP, minha relatoria, Quinta Turma, julgado em 26/3/2025, DJEN de 8/4/2025) (grfios nossos).
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. DECISÃO QUE INDEFERIU LIMINARMENTE O WRIT. CONDENAÇÃO TRANSITADA EM JULGADO HÁ VÁRIOS ANOS. INVIABILIDADE DE REVISÃO. RECONHECIMENTO DO TRÁFICO PRIVILEGIADO. REITERAÇÃO DE MATÉRIA JÁ ANALISADA E DECIDIDA POR ESTA CORTE DE JUSTIÇA. AGRAVO REGIMENTAL NÃO PROVIDO.
+(..)
+2. A jurisprudência do Superior Tribunal de Justiça - STJ, em respeito à segurança jurídica e a lealdade processual, tem se orientado no sentido de que mesmo as nulidades denominadas absolutas, ou qualquer outra falha ocorrida no acórdão impugnado, também devem ser arguidas em momento oportuno, sujeitando-se à preclusão temporal (AgRg no HC n. 690.070/PR, de relatoria do Ministro JOEL ILAN PACIORNIK, Quinta Turma, DJe 25/10/2021).
+(AgRg no HC n. 985.807/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 20/3/2025, DJEN de 26/3/2025) (grifos nossos).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSO PENAL. ALEGAÇÃO DE NULIDADES. PRELIMINARES ARGUIDAS EM SEDE DE APELAÇÃO. AUSÊNCIA DE APRECIAÇÃO. NÃO OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. EMBARGOS INFRINGENTES. FINALIDADE LIMITADA. PRECLUSÃO CONSUMATIVA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Diante de eventual omissão em acórdão, o meio processual adequado para suscitar o complemento ou esclarecimento da decisão é o embargo de declaração, nos termos do art. 619 do Código de Processo Penal.
+2. A ausência de oposição de embargos de declaração caracteriza a preclusão consumativa da matéria, não sendo possível supri-la por meio da oposição de embargos infringentes, cujo escopo é limitado à prevalência de voto vencido em julgamento não unânime (art. 609, parágrafo único, do CPP).
+3. Consoante a jurisprudência desta Corte, ainda que se trate de alegações de nulidade, mesmo de natureza absoluta, devem ser arguídas no momento processual adequado, sob pena de preclusão.
+4. Não demonstrada situação excepcional de flagrante ilegalidade ou constrangimento ilegal, deve ser mantida a decisão impugnada.
+5. Agravo regimental não provido.
+(AgRg no HC n. 1.025.793/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1/10/2025, DJEN de 6/10/2025.) (grifos nossos).
+O Supremo Tribunal Federal também adota o mesmo entendimento:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO . HOMICÍDIO QUALIFICADO. ALEGADA AUSÊNCIA DE INTIMAÇÃO PESSOAL DO DEFENSOR DATIVO DA DATA DE JULGAMENTO DA APELAÇÃO. PRECLUSÃO DA MATÉRIA. 1. A atual jurisprudência do Supremo Tribunal Federal entende que "a nulidade não suscitada no momento oportuno é impassível de ser arguida através de habeas corpus, no afã de superar a preclusão, sob pena de transformar o writ em sucedâneo da revisão criminal" (RHC 107.758, Rel. Min. Luiz Fux). 2. O defensor dativo foi intimado pessoalmente do resultado do julgamento da apelação e não arguiu, por meio dos instrumentos processuais cabíveis, a nulidade suscitada nesta impetração. 3. Preclusão da matéria com o trânsito em julgado da apelação. 4. Habeas Corpus extinto sem resolução de mérito por inadequação da via processual. Cassada a liminar deferida.
+(HC 102.077/SP, Rel. Ministro ROBERTO BARROSO, PRIMEIRA TURMA, DJe 1º/4/2014). (grifos nossos).
+A circunstância de se tratar de alegada violação à prerrogativa de foro não afasta a incidência da preclusão temporal. O que a jurisprudência veda é justamente a utilização estratégica de nulidades não suscitadas oportunamente, prática conhecida como "nulidade de algibeira", que compromete a segurança jurídica e a lealdade processual.
+No caso concreto, a defesa teve ampla oportunidade de suscitar a alegada nulidade ao longo de toda a instrução processual, no momento da sentença, na apelação e até mesmo no recurso especial interposto. Todavia, optou por não fazê-lo, vindo a alegar o vício somente após o esgotamento das vias recursais ordinárias, o que caracteriza, inequivocamente, nulidade de algibeira.
+O argumento de que a demora seria imputável ao próprio Judiciário não prospera. A demora no julgamento da apelação, que tramitou entre 2015 e 2020, não justifica a inércia da defesa em suscitar a nulidade desde o início das investigações ou ao longo de toda a instrução processual. A parte tinha plena ciência dos fatos desde o início do procedimento investigatório e poderia ter alegado a violação à prerrogativa de foro a qualquer momento, inclusive antes mesmo do oferecimento da denúncia.
+Ademais, como bem consignado na decisão agravada, esta Corte tem precedente específico rejeitando a alegação de nulidade de investigações por violação à prerrogativa de foro quando não suscitada oportunamente:
+AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AFASTAMENTO. PERITO. NOMEAÇÃO. SUSPEIÇÃO. MATÉRIA DE ORDEM PÚBLICA. NULIDADE ABSOLUTA. NULIDADE DE ALGIBEIRA. PRECLUSÃO. LITIGÂNCIA DE
+MÁ-FÉ. REVISÃO. IMPOSSIBILIDADE.
+1. Não há falar em negativa de prestação jurisdicional nos embargos de declaração, se o Tribunal de origem enfrenta a matéria posta em debate na medida necessária para o deslinde da controvérsia, ainda que sucintamente. A motivação contrária ao interesse da parte não se traduz em ofensa à legislação processual.
+2. A deficiência na fundamentação recursal ficou evidenciada, pois as recorrentes não especificaram de que forma os dispositivos legais apontados teriam sido contrariados pela instância ordinária, inviabilizando a compreensão da controvérsia posta nos autos.
+3. A jurisprudência do STJ é no sentido de que até mesmo as nulidades absolutas devem ser arguidas em momento oportuno, sujeitando-se à preclusão. A arguição em momento posterior configura nulidade de algibeira, proscrita no ordenamento jurídico brasileiro.
+4. O TJMG, soberano na análise do contexto fático-probatório, concluiu pela existência da litigância de má-fé por parte das recorrente. Impossibilidade de revisão, ante a incidência da Súmula 7/STJ.
+5. Agravo em recurso especial conhecido para conhecer parcialmente do recurso especial e negar-lhe provimento.
+(AREsp n. 2.864.420/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 29/9/2025, DJEN de 2/10/2025.) (grifos nossos).
+HABEAS CORPUS. JULGAMENTO DE APELAÇÃO. NULIDADE. REQUERIMENTO DE INTIMAÇÃO EXCLUSIVA NÃO OBSERVADO. VÍCIO NÃO ALEGADO NO MOMENTO OPORTUNO. PRECLUSÃO. PROIBIÇÃO DE COMPORTAMENTO CONTRADITÓRIO. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+(..)
+4. Segundo entendimento pacífico desta Corte Superior, a nulidade, mesmo a absoluta, deve ser arguida na primeira oportunidade, sob pena de preclusão. Nesse contexto, a nulidade apenas foi apontada neste writ, após o decurso do prazo para recorrer do julgamento que foi desfavorável a defesa, o que, na hipótese, configura nulidade de algibeira e comportamento contraditório, ambos rechaçados por esta Corte.
+(HC n. 722.720/PI, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 7/11/2023, DJe de 9/11/2023) (grifos nossos).
+Por fim, ressalto que a concessão da ordem de ofício, como pleiteada pelos agravantes, somente se justifica em casos de flagrante ilegalidade, o que não se verifica na hipótese dos autos, considerando o longo decurso de tempo sem que a nulidade tenha sido suscitada.
+Ante o exposto, voto por negar provimento ao agravo regimental, mantendo integralmente a decisão agravada.
