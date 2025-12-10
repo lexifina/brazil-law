@@ -1,0 +1,16 @@
+DECISÃO
+Examina-se reclamação constitucional com pedido liminar ajuizada por SATTIN ADMINISTRAÇÃO E PARTICIPAÇÕES LTDA a decisão proferida pelo TJ/MS.
+Alega a reclamante, em síntese, que, diante da interposição do AREsp 3.097.782/MS, o TJ/MS usurpou a competência do STJ ao conceder efeito suspensivo ao agravo de instrumento interposto por João Roberto Pulzatto, determinando a suspensão da determinação judicial para o levantamento da averbação de indisponibilidade do imóvel sob litígio. Postula a concessão de medida liminar e, ao final, a procedência da reclamação, "reconhecendo-se  ..  o caráter usurpador e lesivo da r. Decisão Reclamada à competência do E. STJ - a quem cabe unicamente decidir sobre medidas provisórias e eventual efeito suspensivo da discussão travada no âmbito do AREsp 3.097.782/MS. Como consequência, pugna-se para que seja cassada a r. Decisão Reclamada, proferida nos autos nº 1419180-36.2025.8.12.0000, por juízo incompetente." (e-STJ fl. 15).
+RELATADO O PROCESSO, DECIDE-SE.
+À luz do disposto nos artigos 105, I, "f", da CF/88, 988 e seguintes do CPC e 187 do RISTJ, a reclamação constitucional, de natureza excepcional, destina-se à preservação da competência deste Superior Tribunal de Justiça e à garantia da autoridade de seus julgados apenas quando objetivamente violados, não podendo servir como sucedâneo recursal para discutir o teor da decisão impugnada.
+Como ressaltou a Corte Especial por ocasião do julgamento do AgRg na Rcl 29.329/MS (DJe de 03/08/2016), a reclamação é cabível para assegurar que ordens diretas emanadas do STJ não sejam descumpridas nas instâncias ordinárias, de modo que não se admite o manejo desta ação com o simples intuito de reexame de questões já decididas no Tribunal local ou de exame de questões distintas daquela objeto da determinação judicial desta Corte.
+Na hipótese, contudo, a reclamante sequer apresenta decisão desta Corte Superior que teria sido descumprida, o que inviabiliza o processamento da reclamação.
+Saliente-se que a simples concessão de efeito suspensivo, pelo Tribunal de origem, a agravo de instrumento interposto pela parte que figura como agravante no AREsp 3.097.782/MS não configura, de modo objetivo, ofensa direta a decisão emanada pelo STJ, tampouco o intuito de preservação da competência deste Tribunal.
+Forte nessas razões, INDEFIRO liminarmente a petição inicial e, em consequência, JULGO EXTINTA a reclamação sem exame de mérito, com fundamento no artigo 34, XVIII, "a", do RISTJ.
+Deixo de fixar honorários advocatícios de sucumbência, porquanto não angularizada a relação processual.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos artigos 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECLAMAÇÃO. HIPÓTESES DE CABIMENTO. AUSÊNCIA DE CONFIGURAÇÃO. INDEFERIMENTO DA PETIÇÃO INICIAL. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DO MÉRITO.
+1. Para que a reclamação constitucional seja admitida, é imprescindível que se caracterize, de modo objetivo, usurpação de competência deste Tribunal ou ofensa direta a decisão aqui proferida, circunstâncias não evidenciadas nos autos.
+2. Petição inicial indeferida. Reclamação extinta sem resolução de mérito.
