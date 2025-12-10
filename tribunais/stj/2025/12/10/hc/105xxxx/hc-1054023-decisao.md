@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de PIERRE ALEXANDRE DA SILVA no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (HC n. 1.0000.25.405613-8/000).
+Depreende-se dos autos que o paciente foi preso cautelarmente e denunciado pela suposta prática do delito tipificado no art. 121, § 2º, I e IV do Código Penal.
+Impetrado habeas corpus na origem, a ordem foi denegada em acórdão assim ementado (e-STJ fl. 17):
+HABEAS CORPUS - HOMICÍDIO QUALIFICADO - NEGATIVA DE AUTORIA - MATÉRIA DE MÉRITO - EXCESSO DE PRAZO - INOCORRÊNCIA - PRISÃO TEMPORÁRIA DECRETADA - PRESENÇA DE FUNDAMENTOS IDÔNEOS CAPAZES DE JUSTIFICAR A CUSTÓDIA CAUTELAR - MEDIDAS CAUTELARES DIVERSAS DA PRISÃO - IMPOSSIBILIDADE - CONDIÇÕES PESSOAS FAVORÁVEIS - INSUFICIÊNCIA - PRINCÍPIO DA PRESUNÇÃO DE INOCÊNCIA - NÃO VIOLAÇÃO - CONSTRANGIMENTO ILEGAL NÃO VERIFICADO.
+Em sede de habeas corpus não é possível a análise da conduta delituosa atribuída ao paciente, isso porque se trata de matéria de mérito, demandando análise detida, podendo repercutir no desfecho da demanda criminal, mas não sobre a conveniência de se manter a paciente preso. A contagem de prazos deve ser analisada globalmente, atendendo-se, ao critério da razoabilidade, não resultando o excesso de prazo de mera soma aritmética, sendo necessária, em certas circunstancias, uma maior dilatação do prazo em virtude das peculiaridades de cada caso. Os requisitos da Lei nº 8.072/90, art. 2º, §4º, estão devidamente preenchidos, considerando que há indícios de que o paciente adotou condutas para dificultar as investigações, mostrando-se a prorrogação de extrema e comprovada necessidade. Atendidos os requisitos da prisão temporária, mostram-se insuficientes as medidas cautelares diversas da prisão, previstas no art. 319 do CPP, para atender às exigências do caso. A presença de condições subjetivas favoráveis ao paciente não obsta a segregação cautelar quando presentes os fundamentos para justificar sua manutenção. Considerando que a prisão preventiva não se ancora em certeza de culpa, mas sim em indícios, não se verifica a violação ao princípio da presunção de inocência.
+Neste writ, a defesa alega não estarem presentes os requisitos autorizadores da prisão.
+Assere que o paciente "foi inserido no bojo dos investigados do Inquérito Policial, apenas e tão somente por possuir um veículo semelhante ao utilizado na cena do crime, onde prestou esclarecimentos que emprestou o veículo a um amigo que lhe devolveu o carro sem nenhuma avaria ou sinais de violência, não havendo nenhum outro indício que vincule a ação delituosa" (e-STJ fls. 5/6).
+Ressalta a "extrema fragilidade probatória sobre a participação de Pierre Alexandre da Silva no crime em comento, principalmente considerando a própria autoridade policial representou apenas por sua prisão temporária e pela prorrogação da prisão temporária, sem, contudo, notadamente, requerer a prisão preventiva, eis que ausente o relatório final de indiciamento dos autos do inquérito policial" (e-STJ fl. 6).
+Informa que "o Paciente NÃO se encontrava sequer na cena do crime, estando no momento dos fatos no interior de sua residência  .. " (e-STJ fl. 6).
+Reforça que, " n o caso em tela, não há indícios de autoria e nem de materialidade aptas para fundamentar a decisão do Juiz singular, tendo em vista que houve apenas o suposto uso de seu veículo na empreitada criminosa é que justifica a sua prisão, o que, data vênia, não tem, por si só, força suficiente para que promovam Ação Penal em seu desfavor e muito submeter um indivíduo ao julgamento popular" (e-STJ fls. 6/7).
+Destaca as condições pessoais favoráveis do paciente e afirma ser suficiente a aplicação de outras medidas cautelares, nos termos do art. 319 do Código de Processo Penal.
+Dessa forma, requer, liminarmente e no mérito, a revogação da custódia, ainda que mediante a imposição de medidas alternativas.
+Liminar indeferida às e-STJ fls. 51/53.
+Prestadas as informações, o Ministério Público Federal opinou pelo não conhecimento do writ (e-STJ fls. 210/224).
+É o relatório.
+Decido.
+Pois bem. Informações enviadas pelo Juízo de primeiro grau noticiam que, em 7/11/2025, a prisão temporária do paciente foi convertida em preventiva (e-STJ fls. 151/154).
+Assim, esvaziado está o objeto deste writ, que se volta contra título prisional não examinado pelo Tribunal de origem no acórdão atacado.
+Ante o exposto, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
