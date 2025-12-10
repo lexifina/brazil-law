@@ -1,0 +1,2 @@
+Isenta a Empresa Brasileira de Pesquisa Agropecuária (Embrapa) do pagamento de taxas e de contribuições por serviços prestados, cobradas pelos órgãos reguladores, incidentes sobre os seus pedidos de registro e proteção de experimentos de pesquisa, produtos e tecnologias geradas.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu promulgo, nos termos do parágrafo 5º do art. 66 da Constituição Federal, a seguinte Lei:
