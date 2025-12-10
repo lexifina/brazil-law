@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BANCO DO ESTADO DE SERGIPE S.A. contra decisão que negou seguimento ao recurso especial em razão da aplicação do tema de juros remuneratórios.
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, foi interposto contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE em apelação nos autos de ação revisional de contrato.
+O julgado foi assim ementado (fls. 355-357):
+EMENTA APELAÇÕES CÍVEIS - DIREITO DO CONSUMIDOR - CONTRATO DE EMPRÉSTIMO NA MODALIDADE DE CRÉDITO PESSOAL NÃO CONSIGNADO (FLS. 134-141) - SENTENÇA QUE JULGOU PARCIALNTE PROCEDENTE OS PEDIDOS E DETERMINOU O REALINHAMENTO DOS JUROS REMUNERATÓRIOS À TAXA MÉDIA DE MERCADO, O AFASTAMENTO DOS ENCARGOS A PARTIR DO TRÂNSITO EM DETERMINAR A RESTITUIÇÃO DE FORMA SIMPLES. -IN MANUTENÇÃO DO CONTRATO, COM BASE NO PRINCÍPIO DO "PACTA SUNT SERVANDA" - RELATIVIZAÇÃO EM DECORRÊNCIA FUNÇÃO SOCIAL DO CONTRATO E DO PRINCÍPIO DA BOA-FÉ OBJETIVA - TAXA DE JUROS REMUNERATÓRIOS PREVISTA NO CONTRATO 1520/210429466: 1,19% A. M. (FL. 134) - JUROS QUE NÃO EXCEDE EM MAIS DE 20% A TAXA MÉDIA DE MERCADO: 1,73% A. M. - ABUSIVIDADE NÃO CONSTATADA NESTE PONTO - SENTENÇA PRIMEVA MANTIDA - TAXA PREVISTA NO CONTRATO 520/210429475: (FL. 143) - JUROS3,0% A. M. QUE EXCEDE EM MAIS DE 20% A TAXA MÉDIA DE MERCADO: 1,47% A. M. - READEQUAÇÃO PARA FINS DE PERMITIR A INCIDÊNCIA DA TAXA MÉDIA DO BC COM ACRÉSCIMO DE ATÉ 20%. RECURSO DA PARTE - APLICAÇÃO DOAUTORA CDUTILIZAÇÃO DA TABELE PRICE COMO MÉTODO DE AMORTIZAÇÃO DAS PARCELAS MENSAIS, DESDE QUE CONTRATADA - CONTRATAÇÃO DE SEGURO PRESTAMISTA - POSSIBILIDADE - CLÁUSULA LIVREMENTE PACTUADA - INOCORRÊNCIA DE ABUSIVIDADE E VENDA CASADA - OPÇÃO FORNECIDA AO CONSUMIDOR PELA NÃO CONTRATAÇÃO - HONORÁRIOS ADVOCATÍCIOS - INCIDÊNCIA SOBRE O VALOR DA CAUS A - APLICAÇÃO DA TESE DEFINIDA NO TEMA 1076 DO STJ. SENTENÇA PARCIALMENTE REFORMADA. RECURSOS CONHECIDOS E PARCIALMENTE PROVIDOS.
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação do artigo 6º do Código de Defesa do Consumidor, porque defende que a revisão judicial das cláusulas contratuais não poderia ter sido aplicada para limitar os juros remuneratórios pactuados, sustentando a prevalência do pacta sunt servanda sobre a modificação das prestações em razão de suposta onerosidade excessiva.
+Sustenta que o Tribunal de origem, ao decidir que deveria ser realinhada a taxa de juros do contrato n. 1520/210429475 à taxa média do Bacen acrescida de até 20%, divergiu do entendimento dos acórdãos por ele citados.
+Requer o provimento do recurso para que se mantenha o contrato nos moldes originários, afastando a declaração de abusividade das cláusulas contratuais e invertendo integralmente os ônus sucumbenciais. Requer ainda o provimento do recurso para que se reconheça a impossibilidade de limitação dos juros remuneratórios e a legalidade da cumulação de comissão de permanência, na linha dos precedentes citados.
+Contrarrazões foram apresentadas (fls. 545-566).
+É o relatório. Decido.
+O recurso não merece prosperar.
+A controvérsia diz respeito à ação revisional de contrato bancário em que a parte autora pleiteou o realinhamento dos juros à taxa média de mercado, a declaração de nulidade do seguro prestamista por venda casada, a restituição de valores e o re cálculo das prestações. O valor da causa foi fixado em R$ 34.659,47.
+De início, registre-se que a publicação do julgado ocorreu na vigência do Código de Processo Civil de 2015, a ensejar a apreciação dos requisitos de admissibilidade estabelecidos na atual legislação processual civil. É o que estabelece o Enunciado Administrativo n. 3 do STJ, a saber:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Ressalte-se que a decisão ora agravada obstou o trânsito do recurso especial como um todo, por dois fundamentos, nestes termos (fls. 479-500, destaquei):
+Ab initio, importante registrar que a tese fixada pelo Superior Tribunal de Justiça no R Esp. 1.061.530, privilegia a liberdade de pactuação, de modo que as instituições financeiras não se sujeitam à limitação dos juros remuneratórios definida na Lei de Usura (Decreto 22.626/1933), exceto nos casos de juros manifestamente abusivos inseridos em uma relação de consumo, o que ocorreu no presente caso.
+Assim, ao julgar o R Esp. 1.061.530, o STJ firmou entendimento no sentido de que as taxas de juros remuneratórios admitem revisão desde que caracterizada a relação de consumo, e demonstrada a abusividade, caso este em que deve ser aplicada a taxa média de mercado apurado pelo Banco Central do Brasil à época do contrato, e observadas as particularidades do caso concreto.
+Destaca-se que esta Corte entende como abusivas as taxas de juros que ultrapassarem 20% (vinte por cento) da taxa média utilizada pelo mercado.
+Importante salientar que no R Esp 1.061.530/RS, a Ministra relatora, Nancy Andrighi destacou que, uma vez reconhecida a abusividade, "deve ser aplicada a taxa média para as operações equivalentes, segundo apurado pelo Banco Central do Brasil, sem afastar, todavia, a possibilidade de o juiz, de acordo com o seu livre convencimento motivado, indicar outro patamar mais adequado para os juros remuneratórios, segundo as circunstâncias particulares de risco envolvidas no empréstimo".
+ ..
+In casu, como pontuado no acórdão recorrido, ficou demonstrado o excesso entre as taxas pactuadas em um dos contratos e a taxa média de mercado praticada à época da contratação.
+(..)
+Dessa forma, cotejando o acórdão, conclui-se que esse se encontra devidamente fundamentado em plena harmonia com o posicionamento do STJ (R Esp. 1.061.530/RS).
+Por tal razão, existe óbice à alçada do apelo, nos ditames do art. 1.030, I, b) do CPC, verbis:
+ ..
+Assim, e forte em tudo o que foi exposto, INADMITO OS RECURSOS ESPECIAIS, NEGANDO-LHES SEGUIMENTO.
+Como visto, o decisum negou seguimento ao recurso especial com fundamento no art. 1.030, I, b, do CPC e, ao mesmo tempo, em reforço argumentativo, inadmitiu-o.
+Observa-se que os argumentos trazidos nas razões do agravo em recurso especial (fls. 507-513), buscando demonstrar a violação do art. 6 do CDC, referem-se à abusividade dos juros remuneratórios, estando todos vinculados ao Tema que foi negado seguimento.
+Assim, o Tribunal a quo, entendendo que as teses, as ofensas aos dispositivos apontados como violados e a divergência suscitada no recurso especial estavam vinculadas à aplicação da mesma matéria apreciada em regime de recursos repetitivos, deveria apenas negar seguimento ao recurso especial.
+Confira-se precedente:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. TEMA JULGADO. SISTEMÁTICA DOS REPETITIVOS. AGRAVO EM RECURSO ESPECIAL. DESCABIMENTO. OFENSA AO ART. 535 DO CPC/1973. VINCULAÇÃO.
+1. Segundo a jurisprudência do STJ, é incabível o agravo do art. 1.042 do CPC/2015 contra decisão que nega seguimento a recurso especial com base na aplicação de tese firmada em sede de recurso repetitivo, sendo apenas possível a interposição do agravo interno constante do art. 1.030, § 2º, do CPC/2015.
+2. Se a alegação de ofensa ao art. 535 do CPC/1973 ou 1.022 do CPC/2015 apresenta-se vinculada a vício de natureza processual quanto à aplicação da tese fixada no regime dos recursos repetitivos, o Tribunal a quo deve negar seguimento também nesse ponto, e não inadmitir o recurso especial.
+3. Hipótese em que a decisão do Tribunal a quo assentou que o acórdão recorrido está em sintonia com precedente obrigatório desta Corte Superior (Tema 162), que versa sobre a incidência de imposto de renda sobre aplicações financeiras de renda fixa e variável, à luz dos arts. 29 e 36 da Lei n. 8.541/1992, sendo certo que a menção sobre a existência de violação do art. 535 do CPC/1973 também se refere a essa mesma questão.
+4. Agravo interno desprovido. (AgInt no AREsp n. 1.512.020/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 19/9/2022, DJe de 3/10/2022, destaquei.)
+Visto que, in casu, a parte agravante insiste em rediscutir a matéria referente à abusividade dos juros remuneratórios, apesar da negativa de seguimento, é inadmissível o agravo previsto no art. 1.042 do CPC.
+A propósito, confira-se o disposto no Código de Processo Civil:
+Art. 1.030. Recebida a petição do recurso pela secretaria do tribunal, o recorrido será intimado para apresentar contrarrazões no prazo de 15 (quinze) dias, findo o qual os autos serão conclusos ao presidente ou ao vice-presidente do tribunal recorrido, que deverá:
+I - negar seguimento:
+ ..
+b) a recurso extraordinário ou a recurso especial interposto contra acórdão que esteja em conformidade com entendimento do Supremo Tribunal Federal ou do Superior Tribunal de Justiça, respectivamente, exarado no regime de julgamento de recursos repetitivos;
+ ..  § 2º Da decisão proferida com fundamento nos incisos I e III caberá agravo interno, nos termos do art. 1.021.
+Ante o exposto, não conheço do agravo.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
