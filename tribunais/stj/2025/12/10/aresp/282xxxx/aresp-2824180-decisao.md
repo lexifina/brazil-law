@@ -1,0 +1,5 @@
+DECISÃO
+A parte recorrida, autora da ação anulatória de arrematação ajuizada em face de FABIANE AMARAL DOS SANTOS e UNIBANCO-UNIÃO DE BANCOS BRASILEIROS S.A., peticionou, antes do trânsito em julgado da decisão de fls. 837-845, informando renúncia ao direito material controvertido, requerendo, em consequência, a extinção do processo com resolução de mérito, nos termos do art. 487, III, "c", do Código de Processo Civil (fls. 892-894).
+A renúncia expressa, inequívoca e válida ao direito material em disputa configura ato unilateral da parte, independente de anuência da parte adversa, e produz efeitos imediatos no processo, impondo a extinção do feito com resolução de mérito.
+Em face do exposto, homologo a renúncia ao direito material apresentada pela parte recorrida GUIOMAR LINS DA SILVEIRA BECCON DE OLIVEIRA e, com fundamento no art. 487, III, "c", do Código de Processo Civil c/c o art. 34, IX, do RISTJ, julgo extinto o processo com resolução de mérito, devendo o feito retornar ao juízo de origem para que sejam examinados os desdobramentos desta homologação, inclusive acerca das despesas processuais e dos honorários advocatícios.
+EMENTA
