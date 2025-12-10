@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em Sessão Virtual de 04/12/2025 a 10/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Benedito Gonçalves, Marco Aurélio Bellizze, Sérgio Kukina, Gurgel de Faria, Paulo Sérgio Domingues, Teodoro Silva Santos, Afrânio Vilela e Francisco Falcão votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento a Sra. Ministra Regina Helena Costa.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. DIREITO AMBIENTAL. CONSTRUÇÃO IRREGULAR EM APP. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. DECISÃO MONOCRÁTICA DE INDEFERIMENTO LIMINAR. ACÓRDÃO EMBARGADO EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE. SÚM. 168/STJ. DISCUSSÃO SOBRE APLICAÇÃO DE REGRA TÉCNICA DE ADMISSIBILIDADE. MÉRITO DA CONTROVÉRSIA NÃO EXAMINADO. NÃO CABIMENTO DO RECURSO DE DIVERGÊNCIA. SÚMULA 315/STJ. INSURGÊNCIA INTERNA A QUE SE NEGA PROVIMENTO.
+1. Não é admissível a oposição de embargos de divergência quando o acórdão recorrido está em consonância com a atual jurisprudência do Superior Tribunal de Justiça.
+2. Os embargos de divergência não se prestam a discutir erro ou acerto do julgado quanto à incidência ou não de regra técnica de conhecimento de agravo em recurso especial, visto que não se imiscuiu no exame do mérito recursal. Incidência do enunciado n. 315 da Súmula do STJ.
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por WILSON MAURI SCHMIDT JUNIOR contra decisão de minha relatoria em que se indeferiu liminarmente os embargos de divergência no recurso especial (fls. 1337):
+EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. DIREITO AMBIENTAL. CONSTRUÇÃO IRREGULAR EM APP. ACÓRDÃO EMBARGADO EM CONFORMIDADE COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA Nº 168/STJ. RECURSO INDEFERIDO LIMINARMENTE.
+Nas razões do recurso interno (fls. 1347/1356), afirma o agravante que, "os acórdãos trazidos como paradigma trouxeram em seu conteúdo a sólida concordância da E. Segunda Turma do STJ com a fundamentação e os julgamentos proferidos pelo E. Tribunal Regional Federal da 4ª Região, que são dissonantes do contido na presente demanda" (fl. 1352).
+Assevera que "se a Lei ambiental aplicável ao caso admite a regularização de áreas como a tratada na presente demanda, aplicando seus efeitos retroativamente desde a época dos fatos, entender que estes mesmos fatos são causa de dano ambiental presumido passível de reparação pela demolição, como ocorreu na r. decisão objeto dos embargos de divergência, é o mesmo que reconhecer o julgamento contra a Lei e contra os próprios precedentes jurisprudenciais do E. STJ relativos a fatos semelhantes contidos nos acórdãos paradigma - Resp 1.585.225-PR e REsp n. 1.591.870-PR e em diversos outros como os antes indicados" (fl. 1353).
+Assevera que foi "O r. acórdão objeto dos embargos de divergência negou a aplicação da Lei, bem como do próprio entendimento consolidado do E. STJ quanto ao tema, expresso no r. acórdão paradigma - AgInt no AgInt no REsp n. 1.380.952/GO, que apreciou a controvérsia" (fl. 1354).
+Diante disso, requer a reconsideração do decisum ou o encaminhamento do feito à Primeira Seção para que seja dado provimento ao presente agravo interno, culminando com o provimento do apelo especial.
+A impugnação foi apresentada às fls. 1361/1364 e 1368/1371.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. DIREITO AMBIENTAL. CONSTRUÇÃO IRREGULAR EM APP. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. DECISÃO MONOCRÁTICA DE INDEFERIMENTO LIMINAR. ACÓRDÃO EMBARGADO EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE. SÚM. 168/STJ. DISCUSSÃO SOBRE APLICAÇÃO DE REGRA TÉCNICA DE ADMISSIBILIDADE. MÉRITO DA CONTROVÉRSIA NÃO EXAMINADO. NÃO CABIMENTO DO RECURSO DE DIVERGÊNCIA. SÚMULA 315/STJ. INSURGÊNCIA INTERNA A QUE SE NEGA PROVIMENTO.
+1. Não é admissível a oposição de embargos de divergência quando o acórdão recorrido está em consonância com a atual jurisprudência do Superior Tribunal de Justiça.
+2. Os embargos de divergência não se prestam a discutir erro ou acerto do julgado quanto à incidência ou não de regra técnica de conhecimento de agravo em recurso especial, visto que não se imiscuiu no exame do mérito recursal. Incidência do enunciado n. 315 da Súmula do STJ.
+3. Agravo interno a que se nega provimento.
+VOTO
+A irresignação não merece prosperar.
+Os embargos de divergência c onstituem instrumento para dirimir eventuais entendimentos conflitantes sobre teses de mérito na jurisprudência interna do Superior Tribunal de Justiça, devendo o embargante demonstrar a existência de interpretação divergente em situações semelhantes, mediante o cotejo analítico dos julgados.
+No caso concreto, o acórdão embargado decidiu em harmonia com o entendimento jurisprudencial atual desta Corte, que afasta a viabilidade jurídica de manutenção de construção irregular em área de preservação ambiental, independente de se tratar de área antropizada.
+Neste sentido:
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO. AÇÃO CIVIL PÚBLICA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. DANO AMBIENTAL. CONSTRUÇÃO DE EDIFICAÇÕES. CASA DE VERANEIO. MARGEM DE RIO. ÁREA DE PRESERVAÇÃO PERMANENTE. FATO CONSUMADO. INAPLICABILIDADE EM MATÉRIA AMBIENTAL. SÚMULA 613/STJ. ÁREA NON AEDIFICANDI.
+1. Não ocorreu ofensa aos arts. 489, § 1º, IV, e 1.022 do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. A conclusão da instância ordinária dissentiu da iterativa jurisprudência desta Corte, consubstanciada na Súmula n. 613: "Não se admite a aplicação da teoria do fato consumado em tema de Direito Ambiental".
+3. A APP é caracterizada como faixa de terreno onde é vedada a construção, cuja exploração econômica direta, desmatamento ou ocupação humana se dão de forma totalmente excepcional e em numerus clausus, somente nas hipóteses de utilidade pública, de interesse social ou de baixo impacto ambiental previstas nesta Lei, mediante rigoroso procedimento de licenciamento administrativo.
+4. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 1.769.681/MS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 11/9/2023, DJe de 14/9/2023.)
+Nesse contexto, forçoso reconhecer a incidência do enunciado nº 168 da Súmula desta Corte, "não cabem embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado".
+Ademais, nos termos do artigo 1.043 do CPC e artigo 266 do RISTJ, observa-se que o cabimento dos embargos de divergência pressupõe o enfrentamento da questão jurídica, seja de direito material ou processual, tanto no acórdão embargado quanto no aresto paradigma. Assim, os arestos referidos devem ser de mérito ou, se um deles não for, no mínimo deve ter apreciado a controvérsia.
+No entanto, ao observar os arestos paradigmas, constata-se que nenhum enfrentou o mérito da demanda. Assim, conforme preconiza o enunciado 315 da Súmula do STJ: " N ão cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial" .
+A propósito, veja-se a remansosa jurisprudência desta Corte Superior:
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DIVERGÊNCIA. DESSAPROPRIAÇÃO INDIRETA. VALOR DA INDENIZAÇÃO. REGRA DA CONTEMPORANEIDADE ARESTOS CONFRONTADOS. SIMILITUDE FÁTICO-JURÍDICA. AUSÊNCIA.
+1. O Superior Tribunal de Justiça firmou o entendimento de que, para a configuração da divergência jurisprudencial necessária à interposição de embargos de divergência, devem o acórdão embargado e o aresto paradigma possuir similitude fática e jurídica, conforme exigido pelo art. 266, § 1º, c/c o art. 255, § 2º, do RISTJ.
+2. Hipótese em que o acórdão embargado não discutiu a tese jurídica invocada pela ora embargante acerca da possibilidade, em casos excepcionais, da mitigação da regra da contemporaneidade da indenização à data da avaliação do imóvel, tampouco se reportou aos elementos de convicção declinados pela Corte a quo, circunstância que inviabiliza a análise da similitude entre os julgados confrontados.
+3. Segundo a jurisprudência desta Corte Superior, são incabíveis embargos de divergência quando o acórdão embargado ou o paradigma nem sequer adentram no mérito do recurso especial, interpretando os pressupostos de admissibilidade dessa espécie recursal (Súmula 315 do STJ, em aplicação analógica).
+4. No presente caso, observa-se que um dos acórdãos paradigmas (REsp 1.995.633/CE) nem sequer ingressou no mérito da pretensão recursal, uma vez que o recurso especial não foi conhecido em face do óbice contido na Súmula 7 do STJ.
+5. Agravo interno desprovido.
+(AgInt nos EREsp n. 1.240.783/ES, relator Ministro Gurgel de Faria, Primeira Seção, julgado em 17/12/2024, DJEN de 3/2/2025.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. REGRA DE ADMISSIBILIDADE RECURSAL. SÚMULA 315/STJ. APLICAÇÃO. EMBARGOS DE DIVERGÊNCIA NÃO CONHECIDOS. SUPERVENIÊNCIA DA LEI 14.230/2021 E DO JULGAMENTO DO TEMA 1.199/STF. CONDENAÇÃO POR IMPROBIDADE COM BASE NO ART. 11 DA LIA. PRESENÇA DE DOLO ESPECÍFICO. INCIDÊNCIA DO PRINCÍPIO DA CONTINUIDADE TÍPICO-NORMATIVA. ALTERAÇÃO DAS PENAS PREVISTAS NO INCISO III DO ART. 12 DA LIA. RECURSO PROVIDO.
+1. Segundo o entendimento do Superior Tribunal de Justiça (STJ), é vedada a utilização dos embargos de divergência para refutar a aplicação de regra técnica de admissibilidade do recurso especial, tendo em vista que o inciso II do art. 1.043 do Código de Processo Civil, que previa essa possibilidade, foi revogado pela Lei 13.256/2016.
+2. Os embargos de divergência não são cabíveis quando os julgados confrontados têm distintos graus de cognição, isto é, um deles conhecendo da controvérsia pelo mérito, e o outro não. Precedente: AgInt nos EDcl nos EREsp 1.569.966/DF, relator Ministro Herman Benjamin, Corte Especial, julgado em 20/10/2021, DJe de 13/12/2021.
+Aplicação da Súmula 315/STJ.
+3. Superveniência das normas benéficas constantes na Lei 14.230/2021 e aplicação do Tema 1.199/STF em relação aos processos em que ainda não houve o trânsito em julgado da decisão condenatória.
+5. A conduta do agente que, em conluio com os corréus, frustra o procedimento licitatório de modo a que determinada sociedade empresária se sagre vencedora certamente se enquadra no inciso V do art. 11 da Lei de Improbidade Administrativa (LIA). Incidência do princípio da continuidade típico-normativa.
+6. A Lei 14.230/2021 afastou do âmbito do inciso III do art. 12 da LIA as penas de perda de função pública e de suspensão dos direitos políticos daqueles que são condenados por atos ímprobos a infringir os princípios das administração.
+7. Agravo interno a que se dá provimento apenas para suprimir as penas de suspensão de direitos políticos e de perda da função pública.
+(AgInt nos EDcl nos EDv nos EREsp n. 1.704.898/MG, relator Ministro Paulo Sérgio Domingues, Primeira Seção, julgado em 15/10/2024, DJe de 21/10/2024.)
+Por fim, impende advertir a parte insurgente de que a apresentação de recursos inadmissíveis e/ou meramente protelatórios contra a presente decisão poderá ensejar a imposição do pagamento de multa.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
