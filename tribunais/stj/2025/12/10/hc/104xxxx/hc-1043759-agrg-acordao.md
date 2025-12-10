@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/12/2025 a 10/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Carlos Pires Brandão, Og Fernandes, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. REMIÇÃO POR APROVAÇÃO NO ENCCEJA RELATIVO AO ENSINO MÉDIO. IMPOSSIBILIDADE. AUSÊNCIA DE APRENDIZAGEM PROGRESSIVA. ILEGALIDADE NÃO DEMONSTRADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. In casu, a Corte estadual, ao manter a decisão que indeferiu a remição ao ora agravante por aprovação no ENCCEJA (ensino fundamental), destacou que, quando submetido ao exame do ENCCEJA em 2023, já possuía o nível médio concluído.
+2. A jurisprudência do Superior Tribunal de Justiça se consolidou no sentido de que "o aprendizado básico é continuado e progressivo; ocorre apenas uma vez, antes de avançar para a próxima etapa." (AgRg no HC n. 797.598/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 15/5/2023, DJe de 18/5/2023).
+3. Agravo regimental desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por HUDSON MAX CARDOSO RODRIGUES contra decisão em que indeferi liminarmente o habeas corpus, mantendo a negativa do pedido de remição de pena formulado em benefício do ora agravante pela aprovação no ENCCEJA de 2023 (e-STJ fls. 99/103).
+Nas razões do presente agravo, alegou a defesa que (e-STJ fl. 112):
+No caso concreto, embora o paciente já possuísse o ensino médio formalmente concluído, sua aprovação no ENCCEJA/2023, obtida durante o cumprimento da pena, evidencia dedicação autodidata e efetivo esforço de aprimoramento intelectual, preenchendo a ratio legis do art. 126 da LEP.
+O Superior Tribunal de Justiça já consolidou que a finalidade da remição não é apenas abreviar o tempo de encarceramento, mas estimular o estudo e o esforço individual como instrumentos de transformação e ressocialização, reconhecendo o direito à remição mesmo para reeducandos que já possuíam a certificação formal do ensino médio.
+Requer, assim, (e-STJ fls. 115/116):
+a) O conhecimento e provimento do presente agravo regimental, reformando-se a decisão monocrática para determinar o conhecimento do habeas corpus;
+b) No mérito, o reconhecimento do direito à remição de pena com base na aprovação do paciente no ENCCEJA/2023, nos termos do art. 126 da LEP e da Resolução CNJ nº 391/2021;
+c) Subsidiariamente, que o feito seja submetido à apreciação colegiada da Sexta Turma.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. REMIÇÃO POR APROVAÇÃO NO ENCCEJA RELATIVO AO ENSINO MÉDIO. IMPOSSIBILIDADE. AUSÊNCIA DE APRENDIZAGEM PROGRESSIVA. ILEGALIDADE NÃO DEMONSTRADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. In casu, a Corte estadual, ao manter a decisão que indeferiu a remição ao ora agravante por aprovação no ENCCEJA (ensino fundamental), destacou que, quando submetido ao exame do ENCCEJA em 2023, já possuía o nível médio concluído.
+2. A jurisprudência do Superior Tribunal de Justiça se consolidou no sentido de que "o aprendizado básico é continuado e progressivo; ocorre apenas uma vez, antes de avançar para a próxima etapa." (AgRg no HC n. 797.598/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 15/5/2023, DJe de 18/5/2023).
+3. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+A defesa não trouxe elementos capazes de infirmar os fundamentos da decisão agravada, que merece ser mantida na íntegra, in verbis (e-STJ fls. 101/103):
+Nos termos da jurisprudência desta Sexta Turma do Superior Tribunal de Justiça, "entende-se cabível a remição ao sentenciado por aprovação parcial do Enem. Todavia, é preciso averiguar se o estudo ocorreu antes do início da execução penal, sob pena de se desvirtuar o art. 126 da LEP e a Resolução nº 391 de 10/5/2021, do CNJ" (AgRg no HC n. 827.828/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 28/8/2023, DJe de 30/8/2023).
+In casu, depreende-se do aresto combatido que o paciente concluiu o ensino médio anteriormente à execução da pena, circunstância impeditiva da concessão do benefício, senão vejamos (e-STJ fl. 50):
+Conforme assinalado na decisão do juízo de primeiro grau, ao ingressar no sistema prisional, o reeducando já havia concluído o ensino médio, sendo certo que, para a aprovação no ENCCEJA, não houve a comprovação da dedicação para aquisição de novos conhecimentos que possam colaborar para sua readaptação ao convívio social, possibilitando, assim, o reconhecimento do benefício da remição. Segundo penso, a remição penal, pelo estudo ou pelo trabalho, não pode ser encarada exclusivamente como uma forma de reduzir o tempo de encarceramento do sentenciado. Fosse assim, estar-se-ia admitindo uma indevida alteração do decreto condenatório transitado em julgado. O legislador estabeleceu a remição como uma forma de incentivar o bom comportamento carcerário e, principalmente, como um modo de criar conhecimentos e habilidades que possam, no futuro, facilitar a readaptação do sentenciado ao convívio social. O objetivo da lei, longe de ser tão somente a redução da pena, é evolução pessoal do condenado, pelo estudo e pelo trabalho, criando condições para sua reintegração à sociedade, reduzindo o estigma da condenação e do encarceramento. De fato, ao se possibilitar a remição apenas e tão somente diante da aprovação do reeducando em exames que não exigem, em tese, o mínimo esforço para tanto em vista de sua formação prévia, seria admitir que o sentenciado com nível superior, pós-graduado, mestre, doutorado e até mesmo pós-doutorado, fosse beneficiado mediante sua aprovação em exames para o ensino fundamental. Merece destaque a decisão proferida pelo ilustre Min. Rogério Schietti, no julgamento do HC 767.130/SC, no sentido de que "é o aprendizado por conta própria para conclusão dos níveis obrigatórios de escolaridade (e não a realização de provas, vestibulares, concursos etc.) que constitui o fato gerador da remição em apreço, razão pela qual o benefício é calculado sobre a grade horária (1.600h ou 1.200h) dos graus fundamental e médio elevados pelo esforço do preso, sem estímulos. Compreender que, a cada ano, o apenado que já cumpriu a etapa do ensino médio "estuda" para concluir o mesmo grau de instrução seria premiá-lo sem esforço para elevar, sozinho e sem incentivos, o seu nível de escolaridade. Não há estudo autodidata a ser premiado, apenas "jeitinho" para abreviar a pena".1 Assim, a meu sentir, o deferimento do pedido do agravante destoaria do escopo da norma.
+Nesse mesmo sentido da decisão impugnada, cito os seguintes julgados:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. REMIÇÃO POR APROVAÇÃO NO ENCCEJA. IMPOSSIBILIDADE. REEDUCANDA QUE CONCLUIU O NÍVEL FUNDAMENTAL ANTES DO INÍCIO DO CUMPRIMENTO DA PENA. TESE DE INFORMAÇÃO LANÇADA EQUIVOCADAMENTE NO EXTRATO DE EXECUÇÃO. REVOLVIMENTO FÁTICO-PROBATÓRIO. INVIABILIDADE. AUSÊNCIA DE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. A Corte estadual, ao manter a decisão que indeferiu a remição à recorrente por aprovação no ENCCEJA, destacou que, "conforme consta na guia de recolhimento (fls.01/02), o(a) sentenciado(a) já ostentava o conhecimento relativo ao ensino fundamental quando ingressou no sistema prisional".
+2. A jurisprudência do Superior Tribunal de Justiça se consolidou no sentido de que, em situações como a dos autos, " j á tendo concluído o ensino fundamental completo ao tempo da sua prisão, o Reeducando não tem direito à benesse, pois não atendido o requisito previsto no § 5.º do art. 126 da LEP, que somente admite a remição por conclusão de ensino durante o cumprimento da pena." (AgRg no HC n. 794.302/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 8/5/2023, DJe de 16/5/2023.).
+3. Agravo regimental desprovido.
+(AgRg nos EDcl no HC n. 922.478/SP, de minha relatoria, unânime, Sexta Turma, julgado em 2/9/2024, DJe de 5/9/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO DE PENA POR ESTUDO. APROVAÇÃO NO ENCCEJA - ENSINO FUNDAMENTAL. INCENTIVO AO ESTUDO E À RESSOCIALIZAÇÃO COMO FINALIDADE PRECÍPUA DA PENA. REEDUCANDO QUE, SEGUNDO AS INSTÂNCIAS ORDINÁRIAS, JÁ HAVIA CURSADO O ENSINO FUNDAMENTAL ANTERIORMENTE AO INÍCIO DA EXECUÇÃO. ART. 126, § 5.º, DA LEP. EXIGÊNCIA DE CONCLUSÃO DO ENSINO FUNDAMENTAL, MÉDIO OU SUPERIOR DURANTE O CUMPRIMENTO DA PENA. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. Já tendo concluído o ensino fundamental completo ao tempo da sua prisão, o Reeducando não tem direito à benesse, pois não atendido o requisito previsto no § 5.º do art. 126 da LEP, que somente admite a remição por conclusão de ensino durante o cumprimento da pena. Precedentes.
+2. Asseverado pelas instâncias ordinárias que o Agravante já havia concluído o ensino fundamental antes do ingresso no sistema penitenciário, é inviável a reforma dessa conclusão sem a apreciação do acervo fático-probatório, providência incabível no âmbito do habeas corpus.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 794.302/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 8/5/2023, DJe de 16/5/2023.)
+Não vislumbro, portanto, o constrangimento ilegal sustentado pela defesa.
+Ante o exposto, indefiro liminarmente o presente habeas corpus.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
