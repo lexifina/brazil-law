@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por MARCELO APARECIDO GARBIN, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Depreende-se dos autos que o recorrente teve a prisão preventiva decretada pela suposta prática dos crimes de organização criminosa, lavagem de dinheiro e peculato.
+Inconformada, a defesa impetrou habeas corpus perante o tribunal de origem, que denegou a ordem em acórdão de fls. 265-270.
+Na hipótese, a defesa sustenta a existência de constrangimento ilegal consubstanciado no encarceramento provisório determinado em desfavor do recorrente. Destacando que não houve individualização da conduta atribuída, limitando-se a acusações genéricas.
+Aduz ausência de contemporaneidade da medida constritiva de liberdade.
+Ressaltando, ainda, que não houve cogitação de medidas cautelares diversas da prisão, conforme previsto no art. 319 do Código de Processo Penal.
+Requer o reconhecimento de litispendência, bem como a revogação da segregação cautelar ou a aplicação de medidas cautelares diversas da prisão.
+O Ministério Público Federal em parecer, às fls. 310-315, manifestou-se pelo desprovimento do recurso.
+É o relatório. DECIDO.
+A análise da decisão que decretou a prisão preventiva, bem como do acórdão recorrido, permitem a conclusão de que a prisão cautelar imposta encontra-se devidamente fundamentada para a garantida da ordem pública, em razão da gravidade concreta das condutas atribuídas, haja vista que o recorrente integraria, em tese, organização criminosa voltada a prática de crimes de lavagem de capitais e desvio de verbas públicas - fl. 185.
+Ora, a jurisprudência desta Corte é assente no sentido de que se justifica a decretação de prisão como forma de fazer cessar ou diminuir a atuação de suposto membro de associação criminosa.
+Sobre o tema, trago o seguinte precedente desta Corte Superior de Justiça:
+"a jurisprudência desta Corte é assente no sentido de que se justifica a decretação de prisão de membros de grupo criminoso como forma de interromper suas atividades. Dessa forma, justifica-se a decretação da prisão preventiva de membros de organização criminosa, como forma de desarticular e interromper as atividades do grupo"(AgRg no HC n. 1.025.561/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 23/9/2025.)
+"A decisão agravada está em consonância com a jurisprudência consolidada, que admite a prisão preventiva quando há indícios de envolvimento em organização criminosa"(AgRg no RHC n. 216.167/AL, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJEN de 16/9/2025.)
+No mesmo sentido: AgRg no HC n. 917.903/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 23/9/2024, DJe de 30/9/2024; AgRg no RHC n. 168.799/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 31/3/2023 e AgRg no HC n. 790.100/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 23/3/2023.
+Destacou, ainda, a decisão a necessidade da prisão para garantir a conveniência da instrução criminal, em razão da complexidade das investigações, do número elevado de envolvidos e do risco de destruição de provas - fl. 185.
+Registra-se que "a gravidade concreta do delito, aliada à periculosidade do paciente e ao risco de obstrução das investigações, justifica a manutenção da prisão preventiva para garantir a ordem pública" (RHC n. 187.889/ES, relatora Ministra Daniela Teixeira, Quinta Turma, DJe de 28/10/2024.)
+Cumpre salientar, ainda, que a contemporaneidade da prisão preventiva diz respeito aos motivos ensejadores da prisão e não decurso do tempo da prática do fato ilícito.
+Além disso, a própria natureza do delito de integrar organização criminosa, que configura crime permanente, além do inerente risco de reiteração delitiva, reforça a contemporaneidade do decreto prisional, consoante entendimento desta Corte Superior, porquanto a regra da contemporaneidade comporta mitigação quando, ainda que mantido período de aparente conformidade com o Direito, a natureza do delito indicar a alta possibilidade de recidiva ou ante indícios de que ainda persistem atos de desdobramento da cadeia delitiva inicial (ou repetição de atos habituais), como no caso de pertencimento a organização criminosa.
+A propósito:
+"Consoante a orientação desta Corte Superior, não há falar em ausência de contemporaneidade da prisão preventiva, quando o que se investiga é a atuação de integrantes em uma organização criminosa" (AgRg no HC n. 898.757/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJEN de 30/5/2025.)
+In casu, como bem salientado pela corte de origem, "a apreciação da contemporaneidade como requisito da prisão preventiva deve ter como marco temporal a presença dos motivos que determinaram a sua imposição e não a ocorrência do delito objeto de apuração" - fl. 270. Portanto, inexiste a flagrante ilegalidade apontada.
+De mais a mais, a respeito da alegada ausência de individualização da conduta atribuída ao recorrente, a jurisprudência desta Corte Superior de Justiça não exige a completa individualização da conduta de cada suspeito na fase investigativa, bastando a demonstração de indícios de prática delitiva e da indispensabilidade das medidas. Nesse sentido: AgRg no RHC n. 203.724/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJEN de 11/3/2025 e AgRg no RHC n. 208.625/PR, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 11/3/2025.
+Por fim, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
