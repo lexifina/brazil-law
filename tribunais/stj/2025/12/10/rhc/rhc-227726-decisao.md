@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por JOAO SOUZA DOS SANTOS contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO.
+Consta nos autos que o recorrente teve a prisão preventiva decretada pela suposta prática do crime de homicídio qualificado.
+Inconformada, a defesa impetrou habeas corpus perante o Tribunal de Justiça de origem, que denegou a ordem em acórdão às fls. 141-162.
+Neste recurso sustenta, em suma, a ausência de fundamentação concreta e idônea da decisão que decretou a prisão cautelar em desfavor do recorrente.
+Argumenta que a deficiência na motivação do decreto prisional, somada à inexistência dos requisitos autorizadores da prisão preventiva, afronta as garantias constitucionais da obrigatoriedade de motivação das decisões judiciais, da ampla defesa, do contraditório e do devido processo legal, configurando, assim, evidente constrangimento ilegal na manutenção da medida cautelar.
+Requer a revogação imediata da prisão preventiva ou, subsidiariamente, sua substituição por cautelares diversas da prisão, conforme o art. 319 do Código de Processo Penal.
+O Ministério Público Federal, às fls. 187-190, manifestou-se pelo desprovimento do recurso.
+É o relatório. DECIDO.
+A análise da decisão que decretou a prisão preventiva, bem como do acórdão recorrido, permitem a conclusão de que a prisão cautelar encontra-se devidamente fundamentada para a garantia da ordem pública, em razão da gravidade concreta da conduta atribuída, haja vista que o recorrente, praticou, em tese, o crime de homicídio qualificado. O acusado teria efetuado disparos de arma de fogo contra a vítima enquanto esta conduzia seu veículo. Já ferida, a vítima teria saído do automóvel com as mãos erguidas, ocasião em que foi novamente alvejada, vindo a óbito. A motivação do crime estaria, em tese, vinculada a desavenças decorrentes de disputas relacionadas ao tráfico de drogas - fls. 151-152.
+Insta consignar que a gravidade em concreto do crime e a periculosidade do agente, evidenciada pelo modus operandi, constituem fundamentação idônea para a decretação da custódia preventiva.
+Sobre o tema:
+"A decisão de prisão preventiva foi fundamentada na gravidade concreta do delito e no modus operandi dos pacientes, justificando a necessidade de segregação para garantia da ordem pública"(HC n. 957.387/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJEN de 15/4/2025).
+"No caso, a prisão foi decretada em decorrência do modus operandi empregado na conduta delitiva, consistente na prática, em tese, do delito de tentativa de homicídio duplamente qualificado por motivo torpe e mediante recurso que dificultou a defesa da vítima e porte ilegal de arma de fogo.
+Consta dos autos que a acusada desferiu disparos de arma de fogo contra a vítima no contexto de disputa territorial ligada ao tráfico no bairro" (RHC n. 205.986/ES, relator Ministro Antonio Saldanha Palheiro, Sexta Turma,DJEN de 23/12/2024.)
+Nesse sentido: AgRg no RHC n. 192.183/PR, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe de 3/5/2024; AgRg no HC n. 908.674/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 14/5/2024 e AgRg no RHC n. 188.488/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 18/4/2024.
+Destacou, ainda, a decisão ao decretar a segregação cautelar que o acusado "responde a outros procedimentos criminais, dentre eles por crime de tráfico de drogas" (fl. 151) - fator que demonstra a necessidade de encarceramento provisório, notadamente se considerado o fundado receio de reiteração delitiva.
+A propósito:
+"Justifica-se a imposição da prisão preventiva da agente pois, como sedimentado em farta jurisprudência desta Corte, maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo outras ações penais em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública"(AgRg no HC n. 916.246/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Sexta Turma, DJe de 16/8/2024).
+Nesse sentido: AgRg no HC n. 917.567/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 15/8/2024; AgRg no AREsp n. 2.451.465/PR, de minha relatoria, Quinta Turma, DJe de 13/8/2024 e AgRg no RHC n. 194.155/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 3/7/2024.
+Conforme a jurisprudência desta Corte, a contumácia delitiva justifica a prisão cautelar para a garantia da ordem pública. Nesse sentido: AgRg no HC n. 910.540/CE, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 3/7/2024; AgRg no HC n. 902.557/SP, Sexta Turma; Rel. Min. Antonio Saldanha Palheiro, DJe de 3/7/2024 e AgRg no HC n. 912.267/MG, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 28/6/2024.
+Por fim, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
