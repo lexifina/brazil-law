@@ -1,0 +1,24 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/12/2025 a 10/12/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. RAZÕES QUE NÃO INFIRMARAM O FUNDAMENTO DO DECISUM ATACADO. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NO ART. 932, III, DO CPC. INCIDÊNCIA DA SÚMULA 182/STJ.
+Agravo regimental não conhecido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por EDNA VITORIA contra decisão monocrática do Presidente desta Corte (fls. 2.503/2.504).
+Nas razões, a defesa da agravante critica o formalismo adotado, alegando que as regras processuais são um meio para se alcançar a justiça. e não um fim em si mesmas (fl. 2.513). Sustenta que a ré não pode ser condenada sem provas do crime de que foi acusada (idem), passando na sequência a repetir as teses de mérito.
+O Ministério Público Federal emitiu parecer opinando pelo não conhecimento do agravo regimental (fls. 2.534/2.537).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. RAZÕES QUE NÃO INFIRMARAM O FUNDAMENTO DO DECISUM ATACADO. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NO ART. 932, III, DO CPC. INCIDÊNCIA DA SÚMULA 182/STJ.
+Agravo regimental não conhecido.
+VOTO
+O agravo regimental não comporta conhecimento.
+Em obediência ao princípio da dialeticidade (art. 932, III, do CPC, c/c o art. 3º do CPP), incumbe ao agravante o ônus de demonstrar o desacerto da decisão agravada, mediante impugnação clara e específica dos fundamentos da decisão agravada.
+No caso, o agravo em recurso especial foi inadmitido pela Presidência desta Corte ante a ausência de impugnação específica do fundamento utilizado para a não admissão do recurso especial na origem, qual seja, incidência da Súmula 7/STJ (fls. 2.503/2.504).
+Caberia, então, a agravante, nas razões do regimental, demonstrar que, em sede de agravo, teria impugnado o fundamento tido como não atacado, inclusive transcrevendo excerto pertinente apto a demonstrar a efetiva impugnação, o que não se verificou à luz da argumentação expendida no recurso.
+Com efeito, limitou-se a parte a criticar, de modo genérico, o formalismo adotado, sustentando que as regras processuais são um meio para se alcançar a justiça. e não um fim em si mesmas (fl. 2.513) e alegando que a ré não pode ser condenada sem provas do crime de que foi acusada (idem). No mais, passou a reafirmar as teses de mérito.
+Nesse panorama, tenho que o agravante não observou o princípio da dialeticidade recursal (art. 932, III, do CPC, c/c o art. 3º do CPP), circunstância apta a atrair a incidência da Súmula 182/STJ.
+A propósito: AgRg no AREsp n. 2.423.301/RS, Ministro Messod Azulay Neto, Quinta Turma, DJe 24/10/2023; e AgRg no AREsp n. 2.309.920/ES, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 28/11/2023.
+Ante o exposto, não conheço do agravo regimental.
