@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto por TIAGO AMARAL PAIÃO contra decisão que não admitiu recurso especial, por incidência da Súmula n. 7, STJ (fls. 406-412).
+O recorrente foi pronunciado pela prática, em tese, do crime do art. 121, § 2º, inciso IV, c/c o art. 14, inciso II, do Código Penal e do art. 14 da Lei n. 10.826/2003 (fls. 247-252), tendo a pronúncia sido mantida pelo Tribunal de origem (fls. 325-340).
+Contra o acórdão, foi interposto recurso especial com fundamento no art. 105, inciso III, alínea "c", da Constituição Federal, para alegar violação ao art. 121, § 2º, inciso IV, do Código Penal (fls. 347-358).
+Em agravo, sustenta que a decisão de inadmissão incorreu em indevida aplicação da Súmula n. 7, STJ, porque sua pretensão não demanda reexame de provas, mas revaloração de fatos incontroversos já fixados pelas instâncias ordinárias, relativos à qualificadora do art. 121, § 2º, inciso IV, do Código Penal, uma vez que a vítima estava ciente da aproximação, teve tempo para se preparar e houve prévia discussão, o que afastaria o elemento surpresa e autorizaria o exame jurídico da correta incidência da qualificadora, de modo a viabilizar a admissão do recurso especial (fls. 418-422).
+Em contrarrazões, o Ministério Público do Estado de Mato Grosso do Sul pugna pelo desprovimento do agravo (fls. 429-440).
+O Ministério Público Federal opinou pelo não provimento do agravo (fls. 464-468).
+É o relatório. DECIDO.
+A decisão que inadmitiu o recurso fundamentou-se na incidência do óbice previsto na Súmula n. 7, STJ.
+A despeito da impugnação promovida pela defesa, não vislumbro razões que justifiquem a superação do aludido óbice. Isso porque a pretensão da defesa volta-se quanto à exclusão da qualificadora do recurso que dificultou a defesa da vítima, sob a alegação de que esta tinha ciência da aproximação do agente, dispôs de tempo para se preparar e houve prévia discussão, circunstâncias que, segundo sustenta, afastariam o elemento surpresa.
+Acerca do tema, o Tribunal a quo assim se manifestou (fl. 371):
+"Noutro giro, o crime foi cometido mediante recurso que dificultou a defesa da vítima, na medida que o autor, além de se valer de sua superioridade física, abordou a ofendida de surpresa, golpeando-a mais de uma vez, com diversos instrumentos cortantes."
+É pacífico o entendimento de que a exclusão de qualificadoras somente se admite quando se revelarem manifestamente improcedentes, sob pena de violação à soberania do Tribunal do Júri. No que concerne à qualificadora do recurso que dificultou a defesa da vítima, é cediço que a mera existência de discussão prévia não autoriza, por si só, o afastamento de sua incidência, conforme pretende a defesa.
+Ademais, a revisão das conclusões firmadas na instância originária, para aferir se a vítima tinha ciência da aproximação do agente ou se dispôs de tempo para se preparar contra as agressões, demandaria incursão no conjunto fático-probatório, providência vedada na via eleita .
+A propósito:
+"5. A exclusão de qualificadoras da sentença de pronúncia só é permitida quando manifestamente improcedentes ou sem amparo nos elementos dos autos, sob pena de usurpação da competência do Tribunal do Júri." (REsp n. 2.052.683/MG, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 11/6/2025, DJEN de 26/6/2025)
+"1. No caso dos autos, tendo o magistrado singular motivado, ainda que sucintamente, a admissibilidade da qualificadora do homicídio imputado ao Paciente, indicando expressamente as circunstâncias do delito que configurariam, em princípio, o elemento surpresa capaz de caracterizar o emprego de recurso que dificultou a defesa da vítima, não se vislumbra qualquer mácula na sentença de pronúncia a ensejar a sua anulação.
+2. Somente é cabível a exclusão das qualificadoras da sentença de pronúncia quando manifestamente improcedentes e descabidas, porquanto a decisão acerca da sua caracterização ou não deve ficar a cargo do Conselho de Sentença. Precedentes." (HC n. 471.476/RS, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 11/6/2019, DJe de 25/6/2019)
+"1. Somente é cabível a exclusão das qualificadoras da sentença de pronúncia quando manifestamente improcedentes ou descabidas, sob pena usurpação de competência do Tribunal do Júri.
+2. A briga havida entre a vítima e a acusada, por si só, não exclui a qualificadora do recurso que impossibilitou a defesa do ofendido." (REsp n. 1.291.657/RS, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 3/12/2015, DJe de 15/12/2015)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial, nos termos do art. 253, parágrafo único, inciso II, alínea "a", do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
