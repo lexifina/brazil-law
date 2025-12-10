@@ -1,0 +1,95 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/12/2025 a 10/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Marluce Caldas, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito Processual Penal. Agravo Regimental. HABEAS CORPUS. NULIDADES PROCESSUAIS. PEDIDO DE ABSOLVIÇÃO. INEXISTÊNCIA DE TRÂNSITO EM JULGADO PARA O AGRAVANTE. REITERAÇÃO DE PEDIDOS. RECURSO ESPECIAL QUE JÁ RECONHECEU A FUNDAMENTAÇÃO ADEQUADA NO ACÓRDÃO. CASO CONCRETO REANALISADO. FLAGRANTE ILEGALIDADE NÃO RECONHECIDA. RECURSO NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que indeferiu liminarmente habeas corpus impetrado para fazer cessar suposto constrangimento ilegal decorrente de condenação por crime de roubo qualificado, na forma de concurso formal, à pena de 8 anos, 3 meses e 5 dias de reclusão e 19 dias-multa.
+2. O agravante sustenta a ausência de trânsito em julgado da condenação e a existência de nulidades no processo, como ausência de fundamentação das decisões que afastaram os argumentos da defesa, utilização de elementos informativos colhidos apenas na fase inquisitorial e desconsideração de provas orais favoráveis ao paciente.
+II. Questão em discussão
+3. Há duas questões em discussão: (i) saber se o recurso especial poderia ser reiterado em habeas corpus, ainda que não reconhecido o seu trânsito em julgado; e (ii) saber o habeas corpus se presta para a ampla revisão de condenação, mediante revolvimento de fatos e provas.
+III. Razões de decidir
+4. Ainda que não tenha havido o trânsito em julgado, no REsp 2.087.188/SP, em 27/8/2025, foi assentado, sobre o pedido de absolvição, que: "O acórdão trouxe extensa análise probatória que afasta a tese do recorrente e confirma a sua concorrência para o cometimento dos crimes pelos quais foi condenado (fls. 1889-1994)". Tal afirmação, inclusive, já passou pelo crivo da Quinta Turma em sessão de 18/9/2025.
+5. A reiteração de pedidos realizados em recurso especial impede a reapreciação por este STJ. De toda forma, do acórdão de origem, verifico que a materialidade delitiva foi amplamente comprovada e debatida (fl. 25). No que atine à autoria, também se mostra irreparável, incluindo a confissão de dois corréus (Marcos José e Edi Carlos - fls. 25 e 28-29). Ademais, a versão do agravante, à fl. 29, se mostra dissociada do contexto probatório; enquanto que a participação do corréu Edi Carlos foi confirmada pela testemunha Edilson (fl. 31), tendo sido, inclusive, com aqueles dois que confessaram os crimes, encontrados os gorros utilizados na empreitada.
+6. A revisão de fundamentos que demandam revolvimento do material fático-probatório é inviável na via eleita pelo agravante, conforme os limites do habeas corpus.
+7. A inexistência de flagrante ilegalidade também impediu a concessão da ordem, ainda que de ofício e desde o princípio.
+IV. Dispositivo e tese
+8. Resultado do Julgamento: Agravo regimental não provido.
+Tese de julgamento:
+1. Ainda que não tenha havido o trânsito em julgado, no REsp 2.087.188/SP, a análise da possibilidade de absolvição já ocorreu, o que impende reconhecer a reiteração de pedidos neste STJ. 2. Apesar do óbice que ultrapassou a não ocorrência do trânsito em julgado, não se verificou flagrante ilegalidade desde o princípio. 3. O pedido de absolvição que demanda revolvimento fático-probatório é inviável na via do habeas corpus.
+Dispositivos relevantes citados:
+CF/1988, art. 5º, LIV e LV; CF/1988, art. 93, IX; CPP, arts. 155, 315, § 2º, IV, e 654, § 2º; CPC, art. 1.025.
+Jurisprudência relevante citada:STJ, AgRg no HC 1.018.043/RJ, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 12.08.2025; STJ, REsp 2.087.188/SP, julgado em 27.08.2025; STJ, HC 798.710/SP.
+RELATÓRIO
+Trata-se de agravo regimental interposto em favor de FERNANDO EIGH SHINODA contra decisão da minha lavra na qual houve o indeferimento liminar do habeas corpus impetrado no intuito de fazer cessar suposto constrangimento ilegal perpetrado pelo Tribunal de Justiça do Estado de São Paulo.
+A decisão está às fls. 195-197.
+Consta que o agravante foi condenado pela prática do crime descrito no artigo art. 157, § 2º, incisos I, II e IV, por duas vezes, na forma do art. 70, c. c. art. 29, todos do Código Penal, à pena de 8 anos, 3 meses e 5 dias de reclusão e 19 dias-multa.
+No agravo regimental interposto às fls. 202-211, o recorrente alegou "ausente o trânsito em julgado, o presente Habeas Corpus constitui a via adequada para atacar as nulidades apontadas, não havendo qualquer óbice ao seu conhecimento. Ressalto que o Recurso Especial ainda não ultrapassou a barreira do conhecimento. Assim, diante da flagrante ilegalidade das reiteradas decisões, impõe- se o cabimento do presente Habeas Corpus, por se tratar de via mais célere e eficaz à tutela da liberdade do paciente, clamando, portanto, por Justiça imediata" (fl. 204).
+Afirma que "em relação ao processo conexo, Habeas Corpus 798710/SP, do corréu Caio Roberto Livramento, em que houve o trânsito em julgado para o corréu, o Habeas Corpus foi processado, com parecer do Ministério Público, pela concessão parcial da ordem, e no mérito, após não ser conhecido, concedida de ofício a ordem com fundamento no art. 654, § 2º, do Código de Processo Penal. O contrário, todavia, não pode ser admitido, principalmente, no caso dos autos, em que não houve o trânsito em julgado para o paciente, estão presentes os pressupostos processuais e o pedido não é manifestamente improcedente" (fl. 205).
+Requer o agravante: "a) O conhecimento e provimento do presente agravo regimental, com a reforma da decisão agravada que indeferiu liminarmente o Habeas Corpus, para que seja reconhecida a ausência do trânsito em julgado, em relação ao paciente, do acórdão da apelação criminal n.º 0008686-97.2006.8.26.0445; b) Consequentemente, o regular processamento do Habeas Corpus, com a concessão da ordem liminar para suspender eventual decreto de prisão decorrente do julgamento definitivo da ação penal n.º 0008686-97.2006.8.26.0445 (salvo conduto), até o julgamento definitivo do presente writ, e, posteriormente, a análise do mérito das alegações de nulidades e ilegalidade apresentadas, com a concessão da ordem de Habeas Corpus para declarar a nulidade absoluta da sentença condenatória e do acórdão que a manteve, por flagrante violação aos princípios constitucionais apresentados nesse writ; c) Não sendo reconsiderada a decisão agravada, requer seja o presente agravo regimental submetido a julgamento pela C. Turma" (fl. 206).
+É o relatório.
+EMENTA
+Direito Processual Penal. Agravo Regimental. HABEAS CORPUS. NULIDADES PROCESSUAIS. PEDIDO DE ABSOLVIÇÃO. INEXISTÊNCIA DE TRÂNSITO EM JULGADO PARA O AGRAVANTE. REITERAÇÃO DE PEDIDOS. RECURSO ESPECIAL QUE JÁ RECONHECEU A FUNDAMENTAÇÃO ADEQUADA NO ACÓRDÃO. CASO CONCRETO REANALISADO. FLAGRANTE ILEGALIDADE NÃO RECONHECIDA. RECURSO NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que indeferiu liminarmente habeas corpus impetrado para fazer cessar suposto constrangimento ilegal decorrente de condenação por crime de roubo qualificado, na forma de concurso formal, à pena de 8 anos, 3 meses e 5 dias de reclusão e 19 dias-multa.
+2. O agravante sustenta a ausência de trânsito em julgado da condenação e a existência de nulidades no processo, como ausência de fundamentação das decisões que afastaram os argumentos da defesa, utilização de elementos informativos colhidos apenas na fase inquisitorial e desconsideração de provas orais favoráveis ao paciente.
+II. Questão em discussão
+3. Há duas questões em discussão: (i) saber se o recurso especial poderia ser reiterado em habeas corpus, ainda que não reconhecido o seu trânsito em julgado; e (ii) saber o habeas corpus se presta para a ampla revisão de condenação, mediante revolvimento de fatos e provas.
+III. Razões de decidir
+4. Ainda que não tenha havido o trânsito em julgado, no REsp 2.087.188/SP, em 27/8/2025, foi assentado, sobre o pedido de absolvição, que: "O acórdão trouxe extensa análise probatória que afasta a tese do recorrente e confirma a sua concorrência para o cometimento dos crimes pelos quais foi condenado (fls. 1889-1994)". Tal afirmação, inclusive, já passou pelo crivo da Quinta Turma em sessão de 18/9/2025.
+5. A reiteração de pedidos realizados em recurso especial impede a reapreciação por este STJ. De toda forma, do acórdão de origem, verifico que a materialidade delitiva foi amplamente comprovada e debatida (fl. 25). No que atine à autoria, também se mostra irreparável, incluindo a confissão de dois corréus (Marcos José e Edi Carlos - fls. 25 e 28-29). Ademais, a versão do agravante, à fl. 29, se mostra dissociada do contexto probatório; enquanto que a participação do corréu Edi Carlos foi confirmada pela testemunha Edilson (fl. 31), tendo sido, inclusive, com aqueles dois que confessaram os crimes, encontrados os gorros utilizados na empreitada.
+6. A revisão de fundamentos que demandam revolvimento do material fático-probatório é inviável na via eleita pelo agravante, conforme os limites do habeas corpus.
+7. A inexistência de flagrante ilegalidade também impediu a concessão da ordem, ainda que de ofício e desde o princípio.
+IV. Dispositivo e tese
+8. Resultado do Julgamento: Agravo regimental não provido.
+Tese de julgamento:
+1. Ainda que não tenha havido o trânsito em julgado, no REsp 2.087.188/SP, a análise da possibilidade de absolvição já ocorreu, o que impende reconhecer a reiteração de pedidos neste STJ. 2. Apesar do óbice que ultrapassou a não ocorrência do trânsito em julgado, não se verificou flagrante ilegalidade desde o princípio. 3. O pedido de absolvição que demanda revolvimento fático-probatório é inviável na via do habeas corpus.
+Dispositivos relevantes citados:
+CF/1988, art. 5º, LIV e LV; CF/1988, art. 93, IX; CPP, arts. 155, 315, § 2º, IV, e 654, § 2º; CPC, art. 1.025.
+Jurisprudência relevante citada:STJ, AgRg no HC 1.018.043/RJ, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 12.08.2025; STJ, REsp 2.087.188/SP, julgado em 27.08.2025; STJ, HC 798.710/SP.
+VOTO
+Conforme consta, a defesa se insurge em face de decisão monocrática que reconheceu, erroneamente, o trânsito em julgado para o agravante.
+Razão pela qual, passo a reapreciar as razões de impetração.
+Como antes relatado, a insurgência defensiva corresponde (fls. 195-196):
+A defesa sustenta inicialmente que "Não há que se falar de preclusão das nulidades existentes nesse processo, tendo em vista que, em todas as fases processuais, a defesa do paciente afirmou que o segundo roubo não existiu, bem como alegou que não houve apreciação do relatório da quebra de sigilo telefônico, tendo as decisões sequer apreciado os argumentos da defesa para afastá-los por decisão fundamentada" (fl. 6).
+Argumenta a existência de nulidade em razão da suposta ausência de fundamentação das decisões que afastaram o argumento da defesa acerca da inexistência do contato telefônico que provaria que o delator estaria mentindo.
+Defende ainda que " ..  a sentença condenatória apresenta vício insanável ao reconhecer a existência do concurso formal e exasperar a pena, fundamentada exclusivamente em elementos informativos colhidos somente durante a fase inquisitorial, mais uma vez, em flagrante violação ao devido processo legal, que acarretou o cerceamento de defesa do paciente, pois não houve a oitiva da vítima sob o crivo do contraditório" (fl. 13).
+Por fim, alega que " ..  a condenação não levou em consideração a prova oral colhida que favorece o paciente e comprova sua inocência" (fl. 16).
+Requer: a) " ..  a concessão da ordem liminar de Habeas Corpus para suspender eventual decreto de prisão decorrente do julgamento definitivo da ação penal n.º 0008686-97.2006.8.26.0445 (salvo conduto), até o julgamento definitivo do presente writ"; e b) "a concessão da ordem de Habeas Corpus para declarar a nulidade absoluta da sentença condenatória e do acórdão que a manteve, por flagrante violação aos princípios constitucionais apresentados nesse writ, art. 5º, LIV e LV e art. 93, IX, da Constituição Federal, c. c. os arts. 155 e 315, § 2º, IV, do CPP, determinando-se que o juízo de origem prolate nova sentença, com o saneamento das nulidades alegadas" (fl. 17).
+Ainda que não tenha havido o trânsito em julgado, no REsp 2.087.188/SP, em 27/8/2025, foi assentado, sobre o pedido de absolvição, que:
+No que tange ao pleito de absolvição por ausência de provas ou desclassificação para o crime do art. 180 do Código Penal, há a incidência da Súmula n. 7, STJ.
+O acórdão trouxe extensa análise probatória que afasta a tese do recorrente e confirma a sua concorrência para o cometimento dos crimes pelos quais foi condenado (fls. 1889-1994).
+Portanto, a revisão dos fundamentos acima elencados, como pretende a defesa, demandaria revolvimento do material fático-probatório dos autos, procedimento inviável na via eleita pelo insurgente.
+É assente nesta Corte Superior de Justiça que as premissas fáticas firmadas nas instâncias ordinárias não podem ser modificadas no âmbito do recurso especial, nos termos da Súmula n. 7, STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Tal afirmação já passou pelo crivo da Quinta Turma em sessão de 18/9/2025:
+Direito processual penal. Agravo regimental. Recurso especial. Súmulas aplicáveis. Prequestionamento ficto. Extensão de efeitos de habeas corpus. Recurso não conhecido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu do recurso especial, aplicando as Súmulas n. 518 do STJ; n. 282 e 356 do STF; e n. 7 do STJ.
+2. O agravante sustenta que não se limitou a invocar enunciados sumulares, indicando violação direta a dispositivos legais, como o art. 315, § 2º, VI, do CPP, e que houve prequestionamento implícito e ficto da matéria, nos termos do art. 1.025 do CPC. Requer a reconsideração da decisão ou sua submissão ao colegiado, além da extensão dos efeitos de habeas corpus anteriormente julgados.
+II. Questão em discussão
+3. A questão em discussão consiste em saber: (i) se o recurso especial poderia ser conhecido quanto às alegações de violação direta a dispositivos legais, considerando a aplicação das Súmulas n. 518 do STJ e n. 282 e 356 do STF; (ii) se houve prequestionamento ficto nos termos do art. 1.025 do CPC; e (iii) se seria possível a extensão dos efeitos de habeas corpus anteriormente julgados.
+III. Razões de decidir
+4. A incidência da Súmula n. 518 do STJ deve ser restrita aos capítulos do recurso fundados exclusivamente em violação a enunciados sumulares, não alcançando as demais insurgências. Contudo, os óbices processuais permanecem quanto às questões de direito federal suscitadas.
+5. O prequestionamento ficto, previsto no art. 1.025 do CPC, somente se viabiliza quando o recorrente alega, no próprio recurso especial, violação ao art. 619 do CPP, o que não ocorreu no caso.
+6. A ausência de demonstração específica de como o acórdão recorrido teria contrariado ou negado vigência ao art. 315, § 2º, VI, do CPP inviabiliza o conhecimento do recurso especial.
+7. A pretensão de extensão dos efeitos de habeas corpus não encontra amparo na sistemática processual, sendo necessário demonstrar identidade fático-jurídica no próprio processo ou recurso em que proferida a decisão benéfica.
+8. As matérias relacionadas à dosimetria da pena e ao regime inicial de cumprimento, objeto dos habeas corpus mencionados, já foram apreciadas e corrigidas, estando prejudicadas por perda superveniente do objeto.
+IV. Dispositivo e tese
+9. Resultado do Julgamento: Agravo regimental não provido.
+Tese de julgamento:
+1. A Súmula n. 518 do STJ incide apenas sobre os capítulos do recurso fundados exclusivamente em violação a enunciados sumulares.
+2. O prequestionamento ficto, previsto no art. 1.025 do CPC, exige a alegação de violação ao art. 619 do CPP no recurso especial.
+3. A extensão dos efeitos de decisões favoráveis a corréus deve ser pleiteada no âmbito do próprio processo ou recurso em que proferida a decisão benéfica, mediante demonstração de identidade fático-jurídica.  ..
+Ainda que assim não fosse, do acórdão de origem, verifico que a materialidade delitiva foi amplamente comprovada e debatida (fl. 25). No que atine à autoria, também se mostra irreparável, incluindo a confissão de dois corréus (Marcos José e Edi Carlos - fls. 25 e 28-29).
+Ademais, a versão do agravante, à fl. 29, se mostra dissociada do contexto probatório; enquanto que a participação do corréu Edi Carlos foi confirmada pela testemunha Edilson (fl. 31), tendo sido, inclusive, com aqueles dois que confessaram os crimes, encontrados os gorros utilizados na empreitada.
+No que atine ao HC n. 798.710/SP, de corréu que também se insurgia em face da condenação pelo segundo roubo, o trânsito em julgado foi reconhecido e a ordem apenas concedida pontualmente para reparar a dosimetria.
+Ao fim, ainda que não transitado em julgado o feito, a pretensão defensiva esbarra na reiteração de pedido e na impossibilidade de amplo revolvimento de fatos e provas na via eleita.
+Veja-se:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME DE TRÁFICO DE DROGAS. BUSCA VEICULAR REALIZADA PELA POLÍCIA RODOVIÁRIA FEDERAL. FUNDADAS RAZÕES. CIRCUNSTÂNCIAS PRÉVIAS QUE JUSTIFICAM A ABORDAGEM POLICIAL. PEDIDO DE ABSOLVIÇÃO POR INSUFICIÊNCIA DE PROVAS. REVISÃO DE PROVAS. IMPOSSIBILIDADE. AUSÊNCIA DE ILEGALIDADE MANIFESTA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+ ..  4. Quanto à alegação de insuficiência de provas para a condenação, como é de conhecimento, o habeas corpus não é a via adequada para apreciar o pedido de absolvição ou de desclassificação de condutas, tendo em vista que, para se desconstituir o decidido pelas instâncias de origem, mostra-se necessário o reexame aprofundado dos fatos e das provas constantes dos autos, procedimento vedado pelos estreitos limites do mandamus, caracterizado pelo rito célere e por não admitir dilação probatória.
+ ..  6. Outrossim, para desconstituir a conclusão das instâncias ordinárias nos moldes requeridos na impetração, imprescindível seria o revolvimento fático-probatório dos autos, providência inviável de se promover no rito célere e estreito do habeas corpus, notadamente nos autos de condenação transitada em julgado.
+7. Agravo regimental a que se nega provimento (AgRg no HC n. 1.018.043/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 12/8/2025, DJEN de 21/8/2025.)
+Razões todas pelas quais não vislumbrei a presença de coação ilegal que desafiasse a concessão da ordem ofício, em observância ao § 2º do artigo 654 do Código de Processo Penal.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
