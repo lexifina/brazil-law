@@ -1,0 +1,47 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por AGRA PRADESH INCORPORADORA LTDA., às fls. 305-309, contra decisão monocrática de minha relatoria que não conheceu do conflito de competência (fls. 292-297).
+A parte embargante alega que (fls. 306-307):
+Ora, é incontroverso que todos os atos constritivos ou que impliquem qualquer modificação no patrimônio da recuperanda devem ser praticados exclusivamente pelo Juízo da Recuperação Judicial, nos termos do Decreto-Lei n.º 7.661/1945 e da Lei n.º 11.101/2005. Trata-se de regra de competência absoluta, cuja finalidade é justamente preservar a integridade do patrimônio da empresa em soerguimento e garantir a efetividade do plano aprovado.
+Não obstante, o decisum ora embargado sustenta que o Juízo recuperacional não teria se manifestado de forma concreta nos autos, para então admitir constrição de bens  o que revela evidente contradição. Isso porque há, sim, manifestação expressa e inequívoca do Juízo da Recuperação Judicial, contida na própria sentença de encerramento,  .. .
+Mais do que isso, o magistrado foi categórico ao determinar que tais valores "fossem transferidos diretamente para as contas das Recuperandas e não para contas vinculadas a esse Juízo, dado o encerramento do presente processo", reafirmando de maneira incontestável a competência e a autoridade do Juízo recuperacional sobre o patrimônio da empresa.
+Assim, não há espaço para interpretações que esvaziem o comando judicial ou que, de forma oblíqua, reinstalem constrições em afronta direta à sentença de encerramento. Qualquer ato nesse sentido configura clara violação à autoridade do juízo universal e ao princípio da preservação da empresa, pilares estruturantes do sistema recuperacional brasileiro.
+Diante disso, é inequívoco que o juízo de origem contrariou determinação expressa do Juízo da Recuperação Judicial, bem como os princípios que norteiam o instituto, especialmente o da preservação da empresa e da par conditio creditorum. Permitir a manutenção ou a imposição de atos constritivos após sentença de encerramento que expressamente ordena sua liberação representa não apenas afronta à competência do juízo universal, mas verdadeiro esvaziamento da finalidade recuperacional, que é justamente garantir a continuidade da atividade empresarial e o cumprimento do plano aprovado.
+ ..
+Portanto, requer-se a uniformidade da decisão, deixar assim de ser contraditória, para conhecer o Conflito de Competência, restabelecendo-se a autoridade do Juízo da Recuperação Judicial e a observância do comando sentencial, em respeito à coerência do sistema jurídico e à segurança jurídica que dele se espera.
+A parte embargada apresentou impugnação às fls. 319-326.
+É, no essencial, o relatório.
+Nos termos do art. 1.022 do CPC, os embargos de declaração destinam-se a corrigir erro material, esclarecer obscuridade, eliminar contradição ou suprir omissão existente na decisão embargada.
+No caso em exame, inexistem vícios no julgado.
+Não se verifica nenhuma contradição na decisão embargada, que, de maneira clara e fundamentada, consignou que (fls. 295-296):
+Da análise dos autos e das informações prestadas, observa-se que o JUÍZO DE DIREITO DA 2A VARA CÍVEL DE NATAL - RN rejeitou a impugnação ao cumprimento de sentença e deferiu as seguintes medidas constritivas (fl. 269):
+a) Liberação do valor de R$ 11.222,73, penhorado na ação de cumprimento provisório de sentença nº 0805136-86.2016.8.20.5001, o que ocorrerá apenas após o prazo recursal referente à decisão proferida no cumprimento de sentença nº 0827444-53.2015.8.20.5001, ora sob análise.
+b) Penhora online via SISBAJUD, com reiteração por 30 dias ("teimosinha"), até a satisfação integral do débito remanescente, a qual porém, resultou no bloqueio de apenas R$ 0,25 (vinte e cinco centavos), já desbloqueados.
+c) Inscrição da executada no SERASAJUD, ainda não efetivada pelo setor competente.
+d) Em caso de frustração do SISBAJUD, penhora online de veículos via RENAJUD, ainda não efetivada pelo setor competente.
+Contudo, não há nos autos oposição concreta do Juízo recuperacional à determinação do Juízo da execução, uma vez que, a despeito de reconhecer a natureza concursal do crédito exequendo, aquele Juízo afastou sua competência para processar constrições judiciais sobre os bens da empresa suscitante, tendo em vista o encerramento do processo de soerguimento. Vejamos (fl. 261):
+Ainda, o último QGC publicado pela Administradora Judicial em seu site ocorreu em 05 de outubro de 2025, com os créditos habilitados até 30 de setembro de 2025. Assim, verifico que o nome do credor Rudson da Silva Filgueira consta na relação de credores, com crédito inscrito na classe II (quirografária)  crédito, pois, de natureza concursal -, na monta de R$ 15.867,21.
+Por fim, respeitados os entendimentos diversos, sinto que este Juízo recuperacional não é sede propícia a processar constrições judiciais sobre bens de sociedade empresária devedora cujo processo de soerguimento já se encontre encerrado.
+Assim, a inexistência de decisões contraditórias entre o Juízo da execução e o Juízo da recuperação judicial demonstra a ausência de conflito de competência a ser resolvido.
+Cumpre destacar que, nos termos da jurisprudência desta Corte, é necessária a existência de decisão específica do Juízo recuperacional quanto à constrição determinada pelo Juízo da execução para a caracterização do conflito de competência, o que não se verifica no caso dos autos. A propósito, cito:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. JUSTIÇA DO TRABALHO. AGRAVO INTERNO DESPROVIDO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que não conheceu do conflito de competência e autorizou a cooperação entre o Juízo da recuperação e o Juízo trabalhista.
+2. A agravante sustenta a incompetência da Justiça do Trabalho para determinar atos constritivos relativos a bens da recuperanda, alegando que a suspensão das execuções em curso já caracteriza oposição concreta ao prosseguimento da execução no Juízo laboral.
+3. A decisão agravada destacou que a caracterização do conflito de competência pressupõe a oposição concreta do Juízo da recuperação à deliberação do Juízo executivo sobre atos constritivos incidentes sobre bens essenciais ao plano de recuperação, o que não ocorreu no caso concreto.
+II. Questão em discussão
+4. Há questões em discussão: (i) saber se a determinação automática do Juízo da recuperação de suspender execuções em curso (stay period) caracteriza oposição concreta ao prosseguimento da execução no Juízo trabalhista, configurando conflito de competência; (ii) saber se há aplicação do art. 6º, § 7º-B, da Lei n. 11.101/2005, e se a cooperação jurisdicional se aplica aos atos de constrição promovidos pela Justiça do Trabalho.
+III. Razões de decidir
+5. A caracterização do conflito de competência exige decisão de dois juízos sobre o mesmo tema, o que não ocorreu no caso concreto, pois não há decisão do Juízo da recuperação opondo-se aos atos do Juízo trabalhista.
+6. A ausência de decisão específica do Juízo da recuperação sobre a constrição efetuada no Juízo Trabalhista afasta a existência de conflito de competência no caso.
+8. A simples determinação de suspensão das execuções em curso não caracteriza, por si só, oposição do Juízo da recuperação às medidas adotadas pela Justiça do Trabalho, ainda mais quando demonstrado o encerramento do período suspeito.
+9. "Remanesce incólume o dever do Juízo em que se processa a execução individual de crédito extraconcursal de bem observar o princípio da menor onerosidade, a fim de que a satisfação do débito exequendo se dê na forma menos gravosa ao devedor, podendo obter, em cooperação do Juízo da recuperação judicial, as informações que reputar relevantes e necessárias" (CC n. 191.533/MT, relator Ministro Marco Aurélio Bellizze, Segunda Seção, julgado em 18/4/2024, DJe de 26/4/2024.)
+IV. Dispositivo e tese
+10. Agravo interno desprovido.
+Tese de julgamento: "1. A caracterização do conflito de competência no contexto de recuperação judicial exige decisão de dois juízos sobre o mesmo tema. 2. A simples suspensão de execuções não caracteriza oposição do Juízo da recuperação às medidas da Justiça do Trabalho. 3. A cooperação judicial pode ser instaurada em execuções comuns, não se limitando a execuções fiscais, ante a aplicação do princípio da menor onerosidade".
+Dispositivos relevantes citados: Lei n. 11.101/2005, art. 6º, § 7º-B; CPC, art. 300.Jurisprudência relevante citada: STJ, AgInt nos EDcl no CC n. 200.792/SP, relator Ministro Antonio Carlos Ferreira, Segunda Seção, julgado em 28/5/2024; STJ, CC n. 191.533/MT, relator Ministro Marco Aurélio Bellizze, Segunda Seção, julgado em 18/4/2024.
+(AgInt nos EDcl no CC n. 202.096/SP, relator Ministro João Otávio de Noronha, Segunda Seção, julgado em 19/8/2025, DJEN de 25/8/2025, grifo meu.)
+Nesse contexto, se o próprio Juízo recuperacional não se considera competente para o processamento de constrições judiciais sobre bens da empresa suscitante, conforme destacado à fl. 261, não há razão para ser reformado o não conhecimento do conflito de competência.
+Observa-se, portanto, que a parte embargante não se conforma com a decisão embargada e, ainda neste momento, pleiteia novo julgamento da demanda. Todavia, os embargos de declaração não são a via adequada para se buscar o rejulgamento da causa.
+Ante o exposto, rejeito os embargos de declaração de fls. 305-309.
+Publique-se. Intimem-se.
+EMENTA
