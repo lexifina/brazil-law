@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/12/2025 a 10/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Carlos Pires Brandão, Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. Prisão Domiciliar. EXECUÇÃO PENAL. IMPETRAÇÃO NÃO CONHECIDA PELO tRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. PRINCÍPIO DA UNIRRECORRIBILIDADE. LAUDO PERICIAL QUE NÃO EVIDENCIA GRAVIDADE CLÍNICA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Agravo regimental interposto contra decisão que negou provimento ao recurso em habeas corpus.
+2. O acórdão do Tribunal de Justiça de origem não padece de ilegalidade, pois deixou de conhecer do habeas corpus, de forma fundamentada, ante a existência de agravo em execução interposto pela defesa e a necessidade de dilação probatória para averiguar o estado de saúde do apenado e a capacidade do estabelecimento prisional de atender às suas necessidades médicas.
+3. Além da supressão de instância e da violação ao princípio da unirrecorribilidade, a jurisprudência desta Corte exige comprovação de doença grave, quadro clínico debilitado e falta de assistência médica no estabelecimento penal para concessão de prisão domiciliar humanitária durante os regimes fechado e semiaberto, o que não foi demonstrado no caso concreto.
+4. Agravo regimental não provido.
+RELATÓRIO
+JOAQUIM DIAS DE LIMA NETO agrava da decisão denegatória deste habeas corpus.
+A defesa reitera o pedido de prisão domiciliar ao apenado do regime fechado, de 68 anos de idade, o qual cumpre pena no Presídio Militar e é portador de múltiplas comorbidades descritas em laudo de Junta Médica Oficial do TJGO (obesidade grau III, hipertensão arterial com aferição de 170 110 mmHg, diabetes tipo II, osteoartrose de joelhos com uso de bengala, foco infeccioso em face e hérnia volumosa de parede abdominal com indicação cirúrgica).
+Afirma que, contra a decisão do Juízo da 1ª Vara de Execução Penal de Goiânia, foi interposto agravo em execução e, de forma concomitante, o HC n. 5578188-62.2025.8.09.0000, não conhecido ao fundamento de existência de via recursal própria e necessidade de dilação probatória. Para o impetrante, o acórdão proferido é ilegal. Busca a concessão da ordem, para colocação do apenado em prisão domiciliar humanitária, à vista de suas condições.
+O MPF opinou pelo não provimento do agravo.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. Prisão Domiciliar. EXECUÇÃO PENAL. IMPETRAÇÃO NÃO CONHECIDA PELO tRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. PRINCÍPIO DA UNIRRECORRIBILIDADE. LAUDO PERICIAL QUE NÃO EVIDENCIA GRAVIDADE CLÍNICA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Agravo regimental interposto contra decisão que negou provimento ao recurso em habeas corpus.
+2. O acórdão do Tribunal de Justiça de origem não padece de ilegalidade, pois deixou de conhecer do habeas corpus, de forma fundamentada, ante a existência de agravo em execução interposto pela defesa e a necessidade de dilação probatória para averiguar o estado de saúde do apenado e a capacidade do estabelecimento prisional de atender às suas necessidades médicas.
+3. Além da supressão de instância e da violação ao princípio da unirrecorribilidade, a jurisprudência desta Corte exige comprovação de doença grave, quadro clínico debilitado e falta de assistência médica no estabelecimento penal para concessão de prisão domiciliar humanitária durante os regimes fechado e semiaberto, o que não foi demonstrado no caso concreto.
+4. Agravo regimental não provido.
+VOTO
+Deve ser mantida a decisão agravada, diante da:
+a) supressão de instância, uma vez que o Tribunal de Justiça do Estado de Goiás não conheceu do habeas corpus originário;
+b) violação ao princípio da unirrecorribilidade, pois a defesa interpôs agravo em execução contra a mesma decisão do Juízo da VEC;
+c) inadequação do habeas corpus para o reexame de provas, já que o pedido de prisão domiciliar exige a averiguação do quadro clínico do apenado e da capacidade do estabelecimento prisional, providência incompatível com a via estreita do remédio constitucional.
+Não há manifesta ilegalidade na decisão.
+O Tribunal de origem "observou a ocorrência de clara violação ao princípio da unirrecorribilidade, que impede a impetração de habeas corpus concomitantemente com a interposição de recurso próprio contra o mesmo ato judicial" (AgRg no HC n. 963.424/CE, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 26/2/2025, DJEN de 7/3/2025).
+Incabível, ainda, eventual concessão da ordem, de ofício, pois constou do acórdão recorrido que a parte não comprovou suas alegações sobre a debilidade grave do preso, uma vez que "o laudo médico pericial realizado  ..  atestou apenas a incapacidade moderada" para as atividades habituais. Com exceção da hérnia, que tem "indicação de tratamento cirúrgico em caráter eletivo, as outras afecções podem ser tratadas no ambiente prisional". O médico que examinou o reeducando concluiu que o "estado geral de saúde do periciado é bom, sem evidência de doença grave à avaliação física" (todas as transcrições às fls. 86-87).
+Nesse contexto, a decisão agravada está em sintonia com a jurisprudência desta Corte, que também exige a "comprovação de moléstia grave e a falta de assistência médica adequada no estabelecimento penal para concessão de prisão domiciliar humanitária. 6. O laudo médico indica que o agravante está em bom estado de saúde,  .. , inexistindo, portanto, justificativa para a concessão da prisão domiciliar" (AgRg no AREsp n. 2.845.786/RS, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 13/5/2025, DJEN de 19/5/2025).
+Deveras, "Esta Corte Superior possui firme jurisprudência no sentido de que é possível o deferimento de prisão domiciliar ao sentenciado recolhido no regime fechado ou semiaberto sempre que a peculiaridade concreta do caso demonstrar sua imprescindibilidade. Precedentes" (AgRg no HC n. 944.871/SC, relator Ministro Og Fernandes, Sexta Turma, julgado em 14/4/2025, DJEN de 24/4/2025).
+A desconstituição da conclusão firmada pelo Tribunal de origem demandaria a produção e o exame de provas, providência incompatível com os estreitos limites da via eleita.
+À vista do exposto, nego provimento ao agravo regimental.
