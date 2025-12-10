@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto por LAURA LUZIA CARNEIRO DE MEDEIROS BARROS E OUTROS, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO assim ementado:
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. INDEFERIMENTO DO BENEFÍCIO DA JUSTIÇA GRATUITA. PRESUNÇÃO DE POBREZA NÃO CONFIGURADA.
+1. Agravo de instrumento interposto por Maria Carneiro Bezerra e outros em face de decisão que, em sede de Cumprimento de Sentença Contra a Fazenda pública, indeferiu o pedido de gratuidade judiciária formulado pelos exequentes, ao argumento de que os rendimentos auferidos ultrapassam a renda mensal bruta de até 5 salários mínimos.
+2. A jurisprudência do STJ se firmou no sentido de que a desconstituição da presunção legal de hipossuficiência para fins de avaliar o deferimento do benefício da gratuidade de justiça exige perquirir, em concreto, a atual situação financeira do requerente. Assim, no entender da Corte Superior, demonstra-se inviável a utilização de critérios exclusivamente objetivos, conforme se extrai do precedente a seguir:
+(..)
+3. Na hipótese de que se cuida, enfrentando o caso nos moldes da posição delineada pelo Colendo STJ, a pretensão dos agravantes não merece ser acolhida, pois não é de se deslembrar que, a favor do deferimento da gratuidade, além da autodeclaração de pobreza, a Segunda Turma deste Tribunal sempre considerou que os que percebem abaixo de 5 salários mínimos (brutos) ostentam a hipossuficiência.
+4. Tal significa dizer que, aplicando-se o precedente do STJ, no sentido de que a desconstituição da presunção legal de hipossuficiência para fins de avaliar o deferimento do benefício da gratuidade de justiça exige perquirir, in concreto , a atual situação financeira do requerente, incumbe ao requerente da gratuidade judiciária demonstrar efetivamente o que alega, de modo que não é suficiente a asserção genérica de que não teriam condições de arcar com as custas do processo e por isso restaria configurada sua hipossuficiência. ,
+5. In casu, os agravantes não se desincumbiram do ônus que lhes competia, em demonstrar asua condição de hipossuficiência financeira. Com efeito, consoante destacou o juízo de origem, da análise dos comprovantes de rendimentos da parte exequente, a renda mensal bruta à época (2021) suplantava o montante de cinco salários mínimos, restando desconfigurada a presunção de pobreza, consoante entendimento perfilhado pela eg. Segunda Turma deste Regional.
+6. Agravo de instrumento desprovido e agravo interno prejudicado.
+Os embargos de declaração opostos foram rejeitados (fls. 466/471).
+Nas razões de seu recurso, a parte recorrente alega (fl. 495):
+ ..  a concessão da justiça gratuita não deve ser embasada em critérios objetivos, mas sim nas particularidades do caso em concreto.
+A parte adversa apresentou contrarrazões (fls. 515/526).
+O recurso foi admitido (fls. 528 ).
+É o relatório.
+A questão debatida nos autos foi afetada à Corte Especial do Superior Tribunal de Justiça para ser decidida sob o rito de recursos repetitivos (Tema 1.178/STJ), e foi assim delimitada:
+"Definir se é legítima a adoção de critérios objetivos para aferição da hipossuficiência na apreciação do pedido de gratuidade de justiça formulado por pessoa natural, levando em conta as disposições dos arts. 98 e 99, § 2º, do Código de Processo Civil" (Resps 1.988.687/RJ, 1.988.697/RJ e 1.988.686/RJ, relator Ministro Og Fernandes, DJe de 20/12/2022).
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+O envio do recurso especial a esta Corte Superior deve ocorrer somente após o esgotamento da instância ordinária, formalizado com o novo julgamento pelo Tribunal de origem, quando então será possível examinar, no âmbito do STJ, as matérias jurídicas que eventualmente permanecerem controvertidas. Essa cautela também evita o fracionamento do recurso e previne eventual violação ao princípio da unicidade recursal, que veda a interposição simultânea ou sucessiva de recursos contra a mesma decisão.
+Ante o exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil (CPC), o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do mesmo CPC.
+Publique-se. Intimem-se.
+EMENTA
