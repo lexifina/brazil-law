@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em Sessão Virtual de 04/12/2025 a 10/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Moura Ribeiro, Daniela Teixeira, Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Raul Araújo e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Marco Buzzi.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AUSÊNCIA DE SEMELHANÇA ENTRE OS CASOS CONFRONTADOS. DECISÃO MANTIDA.
+1. A jurisprudência desta Corte está sedimentada no sentido de que deve existir similitude fático-jurídica entre o acórdão embargado e os paradigmas, nos termos dos arts. 1.043, § 4º, do CPC/2015 e 266, § 4º, do RISTJ, o que não se verifica nestes autos. O único paradigma indicado pelo embargante, diversamente do acórdão embargado, versa sobre o tratamento de Leucemia Linfocítica Crônica (LCC), espécie de neoplasia maligna, mediante o uso de células de defesa T geneticamente modificadas.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão desta relatoria, que indeferiu liminarmente embargos de divergência.
+Em suas razões, a parte agravante sustenta que "demonstrou, de forma clara e objetiva, a existência de divergência jurisprudencial entre o acórdão embargado e outros julgados de Turma diversa desta Corte, especialmente quanto à interpretação da nova Lei 14.454/22.  ..  Isso porque, conforme informado pelo recorrente, após a interposição do recurso, a Segunda Seção do STJ, no julgamento do STJ - REsp: 2125696 SP 2024/0057776-0, Relator.: Ministra NANCY ANDRIGHI, Data de Julgamento: 03/04/2025, S2 - SEGUNDA SEÇÃO, Data de Publicação: DJEN 23/04/2025 decidiu de forma expressamente favorável à tese sustentada pelo Agravante, em caso com situação fática e jurídica idêntica" (fls. 1.901-1.902).
+Por fim, requer a reforma da decisão.
+Foi apresentada impugnação às fls. 1.976-1.982.
+O Ministério Público Federal, quanto ao tema de mérito da demanda, manifestou-se pelo provimento do recurso, asseverando que, "no julgamento do REsp 2.108.440/GO, a Segunda Seção concluiu que, com relação à terapia com uso de Pediasuit, não há norma do CFM que a defina como tratamento clínico experimental" (fl. 1.999).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AUSÊNCIA DE SEMELHANÇA ENTRE OS CASOS CONFRONTADOS. DECISÃO MANTIDA.
+1. A jurisprudência desta Corte está sedimentada no sentido de que deve existir similitude fático-jurídica entre o acórdão embargado e os paradigmas, nos termos dos arts. 1.043, § 4º, do CPC/2015 e 266, § 4º, do RISTJ, o que não se verifica nestes autos. O único paradigma indicado pelo embargante, diversamente do acórdão embargado, versa sobre o tratamento de Leucemia Linfocítica Crônica (LCC), espécie de neoplasia maligna, mediante o uso de células de defesa T geneticamente modificadas.
+2. Agravo interno a que se nega provimento.
+VOTO
+A parte agravante não desenvolveu nenhum argumento apto à modificação da decisão agravada.
+Os embargos de divergência foram indeferidos liminarmente sob os seguintes fundamentos, os quais devem ser mantidos (fls. 1.895-1.897):
+Trata-se de embargos de divergência em recurso especial interpostos contra acórdão da TERCEIRA TURMA, Relator Ministro MOURA RIBEIRO, assim ementado (fl. 1.768):
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. TRATAMENTO PELO MÉTODO THERASUIT. VIOLAÇÃO. PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. DEVER DE COBERTURA AFASTADO. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Não viola o princípio da colegialidade a decisão monocrática calcada em jurisprudência dominante do Superior Tribunal de Justiça, tendo em vista a previsão regimental e a possibilidade de submissão do julgado ao exame do órgão colegiado, mediante a interposição de agravo interno.
+2. A Terceira e a Quarta Turmas do Superior Tribunal de Justiça entendem que o plano de saúde não está obrigado a custear as terapias conhecidas como TheraSuit e PediaSuit. Precedentes.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+A parte embargante defende que o acórdão recorrido contrariou o seguinte julgado: AgInt no AgInt no AREsp n. 921.409/SP, QUARTA TURMA, Relatora Ministra MARIA ISABEL GALLOTTI, julgado em 22/05/2023. Alega que (fls. 1.809-1.810):
+Nas razões da decisão, sustentou a Exmo. Relator Moura Ribeiro, que o tratamento Pediasuit não poderia ser reexaminado pelas Instâncias inferiores já que o posicionamento do Superior Tribunal de Justiça já era o da legalidade da negativa de cobertura, mesmo que o Tribunal a quo não tenha proporcionado ao recorrente NENHUMA PRODUÇÃO DE PROVA.
+No mais, outro fator entra na divergência dos julgados, a validação da Lei 14.454/22 dos plano de saúde.
+Ora Exa.; tal posicionamento das Turmas fora fixado anteriormente à aplicação da novíssima legislação - Lei nº 14.454/22, na qual os parâmetros para cobertura de tratamento foram modificados, ainda mais tratando-se tratamento continuado como é a fisioterapia com método Pediasuit.
+Sabe-se que não se pode discutir provas no Superior Tribunal de Justiça, tampouco cláusulas contratuais. Nesse sentido, porque nos dois acórdãos em análise, tanto a 03ª quanto a 04ª Turmas do STJ ordenam o reexame dos atendimentos pelas instâncias inferiores. Entretanto, acerca do método Pediasuit/Therasuit - o acórdão da 03ª Turma não ordena o reexame da matéria frente à nova jurisprudência e à novíssima legislação, simplesmente NEGANDO a cobertura ao autor, citando entendimento comum das Turmas, anterior à vigência e ser a devida análise da Lei 14.454/22 e de julgamento iniciado pela Segunda Seção que pode ser definitivo à cobertura do atendimento.
+Tal negativa imediata da possibilidade de cobertura do tratamento, sem oportunizar ao autor discutir nas instâncias inferiores a cobertura segundo os critérios da nova legislação acerca do tema, sendo um tratamento de caráter continuado, leva evidente prejuízo ao pequeno e violação de seu próprio direito de defesa.
+Pede a reforma do acórdão embargado (fls. 1.812-1.814).
+É o relatório.
+Decido.
+Passo à análise dos embargos de divergência com relação ao pretenso conflito entre o aresto recorrido, da TERCEIRA TURMA, e o AgInt no AgInt no AREsp n. 921.409/SP, QUARTA TURMA, Relatora Ministra MARIA ISABEL GALLOTTI, julgado em 22/05/2023.
+O acórdão recorrido tratou de controvérsia sobre a obrigatoriedade da operadora de plano de saúde em oferecer cobertura fisioterápica utilizando os métodos TheraSuit, hidroterapia, equoterapia e integração sensorial, voltados para tratamento de paciente que desenvolveu tetraparesia por sequela de meningite neonatal (fl. 1.304). Por outro lado, o paradigma da QUARTA TURMA, à luz do inteiro teor das respectivas peças processuais (acórdão recorrido e recurso especial) versou sobre autor diagnosticado com leucemia linfocítica crônica, espécie de neoplasia maligna, que buscava obrigar a operadora de plano de saúde a oferecer cobertura para tratamento com uso de células de defesa T geneticamente modificadas. No caso, diante da impossibilidade de reexame de provas e cláusulas do contrato, tal paradigma manteve a determinação de retorno dos autos à origem para adequar o julgamento aos parâmetros estabelecidos nos EREsps n. 1.886.920/SP e 1.889.704/SP da SEGUNDA SEÇÃO (fls. 1.818-1.833).
+Portanto, não há similitude fático-jurídica entre os arestos confrontados, sendo incabíveis os embargos de divergência, consoante os arts. 1.043, § 4º, do CPC/2015 e 266, § 4º, do RISTJ.
+Ante o exposto, com fundamento no art. 266-C do RISTJ, INDEFIRO LIMINARMENTE os embargos de divergência.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo. Como foi deferida a gratuidade da Justiça na instância ordinária, deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se e intimem-se.
+Conforme dispõem os arts. 1.043, I, do CPC/2015 e 266, I, do RISTJ, os embargos de divergência se destinam à uniformização da jurisprudência desta Corte, eliminando eventuais discrepâncias de teses entre acórdãos de turmas ou seções distintas, acerca do mesmo tema jurídico.
+Como decidido, inexiste similitude fático-jurídica entre os casos confrontados, tendo em vista que o acórdão paradigma, diversamente do acórdão embargado, não apreciou a obrigatoriedade da operadora de plano de saúde em oferecer cobertura fisioterápica utilizando os métodos TheraSuit, hidroterapia, equoterapia e integração sensorial, voltados para tratamento de paciente que desenvolveu tetraparesia por sequela de meningite neonatal.
+O fato de a SEGUNDA SEÇ ÃO ter reapreciado a matéria não pode ser analisada nestes embargos, com fundamentação vinculante, tendo em vista que o mencionado precedente não foi invocado pelo embargante. O único paradigma indicado, conforme demonstrado, pertinente ao tratamento de Leucemia Linfocítica Crônica (LCC) mediante uso de células T geneticamente modificadas, não guarda similitude com o presente caso.
+Os embargos de divergência, portanto, interpostos em 10/9/2024, não superaram o juízo de admissibilidade, o que impede seu processamento.
+Destaco que o Ministério Público Federal, em sua manifestação de fls. 1.996-1.999, não se manifestou a respeito dos requisitos de admissibilidade dos embargos de divergência. Apenas cuidou do mérito da demanda.
+Dessa forma, mantenho a decisão impugnada, ante a ausência de razões novas capazes de alterar seus fundamentos.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
