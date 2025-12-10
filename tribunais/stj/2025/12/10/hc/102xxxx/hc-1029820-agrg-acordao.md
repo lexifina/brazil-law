@@ -1,0 +1,99 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/12/2025 a 10/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Joel Ilan Paciornik, Messod Azulay Neto, Maria Marluce Caldas e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito Processual Penal. Agravo Regimental NO HABEAS CORPUS. Associação criminosa E ASSOCIAÇÃO PARA O TRÁFICO. Trancamento de ação penal. Justa causa. Agravo improvido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus, no qual se buscava o trancamento da ação penal pelo suposto delito de associação criminosa, com fundamento na ausência de justa causa.
+II. Questão em discussão
+2. Há duas questões em discussão: (i) saber se a denúncia é inepta por ausência de individualização da conduta do agravante e por não atender aos requisitos do art. 41 do Código de Processo Penal; e (ii) saber se há manifesta ausência de justa causa para o prosseguimento da ação penal, justificando o excepcional trancamento da ação penal.
+III. Razões de decidir
+3. O trancamento da ação penal por meio de habeas corpus é medida excepcional, cabível apenas quando há inequívoca comprovação da atipicidade da conduta, causa de extinção da punibilidade ou ausência de indícios mínimos de autoria ou prova da materialidade do delito.
+4. A denúncia que descreve a conduta de associar-se de forma estável e permanente para o fim de praticar crimes, contextualizando o fato e permitindo o pleno exercício da ampla defesa, não é inepta.
+5. A alegação de ausência de lastro probatório mínimo para comprovar os elementos de estabilidade e permanência, essenciais ao tipo penal de associação criminosa, demanda aprofundado reexame do conjunto fático-probatório, o que é inviável na via estreita do habeas corpus.
+6. No caso, as instâncias ordinárias concluíram pela presença de justa causa, e a inversão desse entendimento demandaria análise probatória incompatível com o rito do habeas corpus, devendo a questão ser dirimida no curso da instrução processual.
+IV. Dispositivo e tese
+7. Resultado do Julgamento: Agravo regimental improvido.
+Tese de julgamento:
+1. O trancamento da ação penal por meio de habeas corpus é medida excepcional, cabível apenas quando há inequívoca comprovação da atipicidade da conduta, causa de extinção da punibilidade ou ausência de indícios mínimos de autoria ou prova da materialidade do delito. 2. A análise aprofundada sobre a presença dos requisitos de estabilidade e permanência, para fins de configuração do crime de associação criminosa, é matéria que demanda revolvimento fático-probatório, in viável na via estreita do habeas corpus, salvo manifesta e incontroversa ausência de elementos mínimos.Dispositivos relevantes citados:
+CPP, arts. 41 e 395, III; Lei n. 11.343/2006, art. 35.
+Jurisprudência relevante citada:STJ, AgRg no RHC 165.712/RJ, Rel. Min. Joel Ilan Paciornik, Quinta Turma, DJe de 14/6/2023; STJ, AgRg no HC 993.513/DF, Rel. Min. Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, DJEN de 26/8/2025.
+RELATÓRIO
+Trata-se de agravo regimental interposto por RAFAEL AUGUSTO PENHARELA ANDRADE de decisão na qual não conheci do habeas corpus (e-STJ, fls. 478-485).
+A defesa insiste na tese de ausência de justa causa para a ação penal, afirmando que "o único suposto indício que motivou a persecução penal é uma isolada referência ao apelido "Tuim", extraída de diálogo interceptado entre terceiros, sem qualquer confirmação investigativa que o vincule ao paciente Rafael Augusto Penharela Andrade." (e-STJ, fl. 492).
+Sustenta , ainda, que "a denúncia não individualizava a conduta do paciente e se baseava em prova isolada e insuficiente", com violação ao art. 395, III, do Código de Processo Penal (e-STJ, fl. 491).
+Assevera, ademais, que a peça acusatória padece de nulidade por inobservância do art. 41 do Código de Processo Penal, pois "o órgão acusador limitou-se a reproduzir trechos de interceptações, sem contextualização e sem demonstrar vínculo entre o conteúdo captado e a atuação do agravante." (e-STJ, fl. 492).
+Requer a reconsideração da decisão agravada ou a submissão do feito ao colegiado.
+É o relatório.
+EMENTA
+Direito Processual Penal. Agravo Regimental NO HABEAS CORPUS. Associação criminosa E ASSOCIAÇÃO PARA O TRÁFICO. Trancamento de ação penal. Justa causa. Agravo improvido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus, no qual se buscava o trancamento da ação penal pelo suposto delito de associação criminosa, com fundamento na ausência de justa causa.
+II. Questão em discussão
+2. Há duas questões em discussão: (i) saber se a denúncia é inepta por ausência de individualização da conduta do agravante e por não atender aos requisitos do art. 41 do Código de Processo Penal; e (ii) saber se há manifesta ausência de justa causa para o prosseguimento da ação penal, justificando o excepcional trancamento da ação penal.
+III. Razões de decidir
+3. O trancamento da ação penal por meio de habeas corpus é medida excepcional, cabível apenas quando há inequívoca comprovação da atipicidade da conduta, causa de extinção da punibilidade ou ausência de indícios mínimos de autoria ou prova da materialidade do delito.
+4. A denúncia que descreve a conduta de associar-se de forma estável e permanente para o fim de praticar crimes, contextualizando o fato e permitindo o pleno exercício da ampla defesa, não é inepta.
+5. A alegação de ausência de lastro probatório mínimo para comprovar os elementos de estabilidade e permanência, essenciais ao tipo penal de associação criminosa, demanda aprofundado reexame do conjunto fático-probatório, o que é inviável na via estreita do habeas corpus.
+6. No caso, as instâncias ordinárias concluíram pela presença de justa causa, e a inversão desse entendimento demandaria análise probatória incompatível com o rito do habeas corpus, devendo a questão ser dirimida no curso da instrução processual.
+IV. Dispositivo e tese
+7. Resultado do Julgamento: Agravo regimental improvido.
+Tese de julgamento:
+1. O trancamento da ação penal por meio de habeas corpus é medida excepcional, cabível apenas quando há inequívoca comprovação da atipicidade da conduta, causa de extinção da punibilidade ou ausência de indícios mínimos de autoria ou prova da materialidade do delito. 2. A análise aprofundada sobre a presença dos requisitos de estabilidade e permanência, para fins de configuração do crime de associação criminosa, é matéria que demanda revolvimento fático-probatório, in viável na via estreita do habeas corpus, salvo manifesta e incontroversa ausência de elementos mínimos.Dispositivos relevantes citados:
+CPP, arts. 41 e 395, III; Lei n. 11.343/2006, art. 35.
+Jurisprudência relevante citada:STJ, AgRg no RHC 165.712/RJ, Rel. Min. Joel Ilan Paciornik, Quinta Turma, DJe de 14/6/2023; STJ, AgRg no HC 993.513/DF, Rel. Min. Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, DJEN de 26/8/2025.
+VOTO
+A decisão agravada merece ser mantida por seus próprios e jurídicos fundamentos, a seguir integralmente reproduzidos.
+O acórdão impugnado encontra-se fundamentado nos seguintes termos:
+"Narra a denúncia que diversos indivíduos (oitenta e nove ao total, de tal sorte que foi determinado o desmembramento dos autos), são integrantes de organização criminosa que se autodenomina "PCC: Primeiro Comando da Capital".
+Segundo consta, associaram-se, em quadrilha armada com o fim de praticar delitos, inclusive hediondos e equiparados a, como o tráfico ilícito de entorpecentes.
+Conforme se verifica, tal organização trata-se de umaverdadeira monarquia no submundo do crime, porquanto age dentro e fora deestabelecimentos prisionais, com divisões pormenorizadas de tarefas.
+Oferecida a denúncia, o Magistrado sentenciante arejeitou em relação a alguns denunciados, sob a argumentação de que ausentejusta causa para seu recebimento (artigo 295, inciso III do Código de Processo Penal)
+Daí a razão do presente inconformismo.
+Razão assiste ao Ministério Público. Na denúncia ofertada há indícios, ainda que mínimos, suficientes de autoria e materialidade.
+Por primeiro, explicitou-se como a mencionada facção age, assemelhando-se a uma "empresa", todos com tarefas bem delimitadas e com sistematização, situação que não pode ser tolerada hodiernamente.
+No caso em testilha, foram realizadas interceptações telefônicas, que revelaram que na cidade de Araraquara há atuação do mencionado grupo.
+Com efeito, foram reunidos elementos suficientes a dar supedâneo à denúncia, com individualização de condutas.
+Diante disso, evidenciada a justa causa para o exercícioda ação penal, porquanto esta deve ser entendida como a exigência de um lastro mínimo para a deflagração da persecução criminal.
+Não há juízo exauriente acerca da culpabilidade ou não. O que se tem são indícios mínimos a justificar que haja o prosseguimento da ação para que se possa coligir mais provas e, ao final, quando de seu sopesamento, julgar se há lastro probatório mínimo a ensejar a condenação.
+A hipótese dos autos não revelou, de plano, a ausência deautoria ou materialidade, insignificância do bem jurídico violado ou ausênciade lesão ao bem jurídico, de modo que a rejeição não foi medida acertada.
+Todos foram citados em interceptações telefônicas, o que foi suficiente para verificar suas participações na facção. O denunciado Adriano Henrique Galvão Held exercia a função de "soldado". Em conversa telefônica entre ele e indivíduo de alcunha "Moreno", há menção de que, juntamente com outra pessoa, praticou crime. Não bastasse tal fato, "compareceu na Delegacia de Polícia de Araraquara e, fazendo uso de um documento falso, conseguir retirar o veículo VW/Golf (..) que estava apreendido por ter sido utilizando por ANDERSON" em um delito de latrocínio.
+Alex Pedro de Francisco foi citado em diversas conversas telefônicas havidas entre outros denunciados, como integrante da facção.
+Anderson Fabiano Cardoso é citado como responsável pela arrecadação de dinheiro ilícito obtido na facção.
+André José dos Santos Silva, Elton Luis Iane Esteves, Flávio Hugo Francisco, Genildo Santos Valdevino, Jhony Fernando Dias da Silva, Luis Henrique de Oliveira, Rafael Augusto Penharela Andrade (este último inclusive mencionado como afilhado de ANDERSON), Roberts Willian Lopes Francisco, Tileaque Natálio Canedo e Willian Roberto Neves também exerciam a função de "soldado", de tal sorte que praticavam diretamente os crimes para os quais estavam associados.
+Também exercia a função de soldado Décio Luis Soaresda Silva, sendo que em inúmeras vezes é citado por outros integrantes da organização como sendo um de seus membros.
+Já Deivit Mateus Pontes exercia função denominada"disciplina", também sendo apontado com segurança como um dos integrantes da associação criminosa em conversas telefônicas interceptadas.
+De igual modo, Dimas de Lima Vicente, Edmilson Bretede Sousa, Fernando Rosa da Silva, Maicon Roberto Rodrigues de Sousa,Maurício Martins Medeiros, Ricardo Bruno Moura Silva, Rodolfo Augusto Macedo são citados como membros da facção, em clara associação para cometimento de ilícitos, obtendo inclusive vantagem econômica ilícita.
+Osmildo Teodoro Martins Júnior, vulgo "Beiço" também está associado, sendo mencionado como integrante do banco pelo indiciado ANDERSON em conversa telefônica sobre a organização criminosa.
+Desta forma, não reinam dúvidas que possam, liminarmente, concluir pela falta de justa causa da ação penal, havendo por certo prova da existência de uma hipótese delitiva, além de indícios idôneosde sua autoria.
+ ..
+No caso em testilha, a exordial descreveu de forma adequada os fatos, definindo de forma individualizada a participação de cada um dos denunciados, preenchendo os requisitos elencados no artigo 41 doCódigo de Processo Penal, havendo menção à existência de nexo de causalidade entre "o comportamento imputado aos denunciados e as supostas práticas delituosas a eles atribuídas" (STF, Inquérito 3983, julgado em 03 demarço de 2016).
+Demonstrada a viabilidade da acusação deduzida, de rigor a instauração da ação penal. Contudo, após o recebimento da denúncia, com as arraigadas investigações, se verificará a necessidade ou não da decretação damedida preventiva.
+Ante ao exposto, DÁ-SE parcial provimento ao apelo ministerial para o recebimento da denúncia em face dos recorrido." (e-STJ, fls. 13-17; sem grifos no original).
+O trancamento da ação penal por habeas corpus é medida excepcional, cabível apenas quando há inequívoca comprovação da atipicidade da conduta, extinção da punibilidade ou ausência de indícios de autoria ou materialidade do delito.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. CRIME CONTRA O SISTEMA FINANCEIRO. PEDIDO DE TRANCAMENTO DO INQUÉRITO POLICIAL. NULIDADE DE TODO O PROCEDIMENTO INVESTIGATÓRIO. SUPOSTAS PROVAS ILEGALMENTE PRODUZIDAS PELA PREVIC. AUSÊNCIA DE ORDEM JUDICIAL. ILEGALIDADE DA DECISÃO QUE DETERMINOU QUEBRA DE SIGILO BANCÁRIO E FISCAL. INOCORRÊNCIA. AGRAVO DESPROVIDO.
+1. O trancamento prematuro do inquérito policial somente é possível quando ficar manifesto, de plano e sem necessidade de dilação probatória, a total ausência de indícios de autoria e prova da materialidade delitiva, a atipicidade da conduta ou a existência de alguma causa de extinção da punibilidade.
+2. O argumento de quebra de sigilo bancário pela PREVIC é inconsistente, uma vez que não há dados bancários do agravante ou sequer de quaisquer dos envolvidos na notícia dos fatos formulada pela PREVIC que, inclusive, sugeriu ao MPF a quebra dos sigilos bancários e fiscais dos dirigentes da OABPREV/RJ, dentre eles, o agravante.
+3. Ausente qualquer ilegalidade na decisão judicial que autorizou a quebra dos sigilos, a qual indicou a presença dos elementos atinentes ao fumus comissi delicti e ao periculum in mora, bem como foi com base na análise do relatório apresentado pela PREVIC, o Relatório de Inteligência Financeira fornecido pelo COAF e as informações prestadas pela OABPREV/RJ.
+4. O julgado atacado reconheceu a existência de elementos probatórios para o prosseguimento do inquérito policial, não se cogitando de afastar a justa causa. Assim, qualquer conclusão no sentido de inexistência de prova apta para embasar as investigações criminais demanda o exame aprofundado de provas, providência incabível no âmbito do habeas corpus.
+5. Agravo ao qual se nega provimento.
+(AgRg no RHC n. 165.712/RJ, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 12/6/2023, DJe de 14/6/2023.)
+Na hipótese, observa-se que o Tribunal a quo concluiu pela existência de elementos indiciários mínimos e suficientes ao recebimento da denúncia e ao prosseguimento da ação penal, afastando a tese de ausência de justa causa.
+O acórdão recorrido, ao determinar o recebimento da denúncia, consignou, em síntese, que: a) a investigação revelou a atuação estruturada da facção criminosa "PCC" em Araraquara, com divisão de tarefas e atuação dentro e fora de estabelecimentos penais; b) as interceptações telefônicas identificaram integrantes e funções ("soldado", "disciplina", "Jet"/arrecadação), com menções individualizadas, inclusive ao agravante como afilhado de Anderson ("Fuscão"), qualificando-o, entre outros, como "soldado"; c) a denúncia atende aos requisitos do art. 41 do Código de Processo Penal, descrevendo fatos e a participação individualizada; d) há lastro mínimo para a deflagração da persecução criminal, reservando-se à instrução o aprofundamento probatório.
+Assim, não há motivo evidente, em cognição sumária, para o trancamento da ação penal por ausência de justa causa. O que se tem, como bem enfatizado pelo Tribunal, são indícios mínimos aptos a justificar o recebimento da denúncia e o prosseguimento da ação, reservando-se à instrução criminal o aprofundamento probatório necessário ao julgamento de mérito.
+Ademais, o reconhecimento da inexistência de justa causa para o prosseguimento da ação penal e da atipicidade da conduta exigem profundo exame do contexto probatórios dos autos, o que é inviável na via estreita do writ.
+Nesse sentido:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO. INÉPCIA DA DENÚNCIA E AUSÊNCIA DE JUSTA CAUSA. TRANCAMENTO DA AÇÃO PENAL. INVIABILIDADE. AGRAVO IMPROVIDO. I. CASO EM EXAME
+1.Agravo regimental interposto contra decisão que não conheceu de habeas corpus, no qual se buscava o trancamento da ação penal pelo suposto delito de associação para o tráfico de drogas (art. 35 da Lei n. 11.343/2006). II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se a denúncia é inepta ou se há manifesta ausência de justa causa (notadamente pela falta de indícios de estabilidade e permanência), a justificar o excepcional trancamento da ação penal. III. RAZÕES DE DECIDIR
+3. O trancamento da ação penal por meio de habeas corpus é medida excepcional, cabível apenas quando há inequívoca comprovação da atipicidade da conduta, causa de extinção da punibilidade ou ausência de indícios de autoria ou prova da materialidade do delito.
+4. A denúncia que descreve a conduta de associar-se de forma estável e permanente para o fim de traficar, contextualizando o fato e permitindo o pleno exercício da ampla defesa, não é inepta.
+5. A alegação de ausência de lastro probatório mínimo para comprovar os elementos de estabilidade e permanência, essenciais ao tipo do art. 35 da Lei de Drogas, demanda aprofundado reexame do conjunto fático-probatório, o que é inviável na via estreita do habeas corpus.
+6. No caso, as instâncias ordinárias concluíram pela presença de justa causa, e a inversão desse entendimento demandaria análise probatória incompatível com o rito do habeas corpus, devendo a questão ser dirimida no curso da instrução processual. IV. DISPOSITIVO E TESE
+7. Agravo regimental improvido.
+Tese de julgamento: "1. O trancamento da ação penal por meio de habeas corpus é medida excepcional, cabível apenas quando há inequívoca comprovação da atipicidade da conduta, causa de extinção da punibilidade ou ausência de indícios mínimos de autoria ou prova da materialidade do delito. 2. A análise aprofundada sobre a presença dos requisitos de estabilidade e permanência, para fins de configuração do crime de associação para o tráfico (art. 35 da Lei n. 11.343/2006), é matéria que demanda revolvimento fático-probatório, inviável na via estreita do habeas corpus, salvo manifesta e incontroversa ausência de elementos mínimos."
+(AgRg no HC n. 993.513/DF, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 20/8/2025, DJEN de 26/8/2025.)
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
