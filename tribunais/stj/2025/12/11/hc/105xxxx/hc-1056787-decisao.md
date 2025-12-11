@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de IGOR ALVES SILVA DE MELLO, apontando-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA no julgamento da Apelação Criminal n. 5001255-62.2024.8.24.0505.
+Consta dos autos que o paciente foi condenado à pena de 9 anos e 10 meses de reclusão, em regime inicial fechado, e 603 dias-multa, pela prática dos crimes previstos no art. 33, caput, c/c o art. 40, V, da Lei n. 11.343/2006, art. 180, caput, e art. 311, § 2º, III, na forma do art. 29, todos do Código Penal (fls. 42/46). Foi apreendida mais de 1 tonelada de maconha (fl. 66).
+A defesa sustenta flagrante ilegalidade no afastamento do tráfico privilegiado (art. 33, § 4º, da Lei n. 11.343/2006). Afirma que a quantidade e a natureza da droga e o transporte interestadual, isoladamente, não comprovam dedicação a atividades criminosas nem integração à organização criminosa, e aponta bis in idem pelo uso do transporte interestadual para aplicar a majorante do art. 40, V, e, ao mesmo tempo, negar a minorante do § 4º do art. 33 (fls. 8/17).
+Pede, liminarmente, a suspensão dos efeitos da condenação (fls. 19/20); no mérito, requer o reconhecimento do tráfico privilegiado na fração máxima, com ajuste da multa, abrandamento do regime e substituição por restritivas de direitos; subsidiariamente, a concessão de ordem de ofício (fls. 18/20).
+É o relatório.
+No caso, constata-se que a condenação transitou em julgado, de maneira que a presente impetração é substitutiva de pedido revisional e, portanto, incabível (ver, nesse sentido, o AgRg no HC n. 853.777/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 29/2/2024).
+Além disso, inexiste ilegalidade flagrante que justifique a concessão de habeas corpus de ofício e a consequente superação do óbice constatado. Isso porque a instância ordinária afastou a incidência da minorante do art. 33, § 4º, da Lei n. 11.343/2006 por concluir que o paciente se dedicava ao tráfico de drogas, transportava grande quantidade de entorpecentes através de diversos Estados da federação de forma organizada e em vinculação a outros delitos (fls. 33/34), o que afasta, concretamente, o tráfico privilegiado.
+Nesse contexto, não é possível desconstituir a conclusão da Jurisdição ordinária sobre a dedicação do paciente a atividades criminosas e, por conseguinte, reconhecer a causa de redução de pena, notadamente por ser vedado, na presente via, revolver o contexto fático-probatório dos autos.
+Além do mais, o Tribunal local não foi instado a se manifestar sobre a alegada violação por bis in idem na conjugação do art. 40, V, da Lei n. 11.343/2006 com o afastamento do tráfico privilegiado, o que impede o enfrentamento do tema, originariamente, por esta Corte, sob pena de indevida supressão de instância.
+Ante o exposto, indefiro liminarmente a petição inicial de habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006 . WRIT IMPETRADO CONTRA ACÓRDÃO TRANSITADO EM JULGADO. SUBSTITUTIVO DE REVISÃO CRIMINAL. ILEGALIDADE FLAGRANTE. INEXISTÊNCIA.
+Petição inicial indeferida liminarmente.
