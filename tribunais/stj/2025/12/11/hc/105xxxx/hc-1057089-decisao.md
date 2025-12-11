@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de Habeas Corpus impetrado em favor de ELITON FERNANDO FELICIANO DE LIMA em que se aponta como ato coator o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado:
+EXECUÇÃO PENAL. HABEAS CORPUS. PROGRESSÃO DE REGIME. AGRAVO DE EXECUÇÃO COM PRETENSÃO IDÊNTICA EM ANDAMENTO. UNIRRECORRIBILIDADE. ORDEM NÃO CONHECIDA.
+I. Caso em Exame. 1. Habeas corpus impetrado em favor de paciente que cumpre pena de 21 anos e 4 meses de reclusão por diversos crimes, incluindo tráfico de drogas. O impetrante contesta a decisão que requisitou a realização de exame criminológico antes de analisar pedido de progressão de regime. II. Questão em Discussão. 2. A questão em discussão consiste em determinar se o habeas corpus é a via adequada para contestar decisão que requisitou a realização de exame criminológico, considerando a existência de recurso de agravo de execução com pretensão idêntica. III. Razões de Decidir. 3. Foi interposto recurso de agravo de execução com a mesma pretensão deste habeas corpus, logo, deve ser privilegiada a via mais adequada. 4. O habeas corpus não pode ser admitido quando há recurso próprio, com pretensão idêntica, em andamento, a fim de que seja respeitado o princípio da unirrecorribilidade e evitada a duplicidade de julgamento sobre o mesmo tema. IV. Dispositivo e Tese. 5. Ordem não conhecida. Tese de julgamento: O habeas corpus não pode ser admitido quando há recurso próprio em andamento com pretensão idêntica.
+Consta dos autos que foi determinada a realização de exame criminológico para a aferição do requisito subjetivo necessário à concessão da progressão de regime.
+Em suas razões, sustenta o impetrante a ocorrência de constrangimento ilegal, porquanto não há fundamentação idônea para a determinação de exame criminológico.
+Alega que a decisão se baseou apenas na gravidade abstrata do delito e na longa pena a cumprir, sem apontar elementos concretos da execução da pena, o que viola a orientação consolidada de que tais fundamentos são insuficientes para exigir a perícia.
+Argumenta que o paciente possui bom comportamento carcerário, estuda e participa de atividades como o clube de leitura, inexistindo registros de faltas disciplinares, quadro que evidencia o atendimento do requisito subjetivo sem necessidade de exame criminológico.
+Defende que o art. 112, § 1º, da LEP, na redação da Lei n. 14.843/2024, não pode ser aplicado retroativamente, por se tratar de novatio legis in pejus, devendo ser afastada sua exigência obrigatória no caso concreto.
+Requer, em suma, o afastamento da determinação de exame criminológico e a concessão da progressão ao regime semiaberto.
+É o relatório.
+Decido.
+A Terceira Seção do STJ, no julgamento do HC n. 535.063/SP, firmou entendimento de que não cabe Habeas Corpus substitutivo de recurso próprio, impondo-se o não conhecimento da impetração, salvo quando constatada alguma teratologia no ato judicial impugnado (Rel. Ministro Sebastião Reis Júnior, DJe de 25.8.2020).
+Assim, passo à análise das razões da impetração a fim de verificar se há flagrante ilegalidade que justifique a concessão do writ de ofício.
+Na espécie, consta do Voto condutor do acórdão impugnado a seguinte fundamentação quanto à controvérsia apresentada:
+Em consulta aos autos de origem, verifica-se que, em 22/10/2025, houve a interposição de recurso de agravo de execução, que tramita sob o n. 0012809-40.2025.8.26.0521 e possui pretensão idêntica à desta impetração, qual seja, a dispensa do exame criminológico e concessão da progressão de regime ao paciente (fl. 41).
+Segundo entendimento firmado pela Terceira Seção do STJ no julgamento do HC n. 482.549/SP, havendo a simultânea interposição de recurso próprio e impetração de Habeas Corpus versando sobre os mesmos temas, inexiste ilegalidade em se reservar a análise das questões para o momento do julgamento do Agravo em Execução que está pendente de análise na origem, salvo se o writ impetrado no Tribunal a quo fosse destinado à tutela direta e imediata da liberdade de locomoção, o que não é o caso dos autos (Rel. Ministro Rogerio Schietti Cruz, DJe 3.4.2020).
+Ainda nesse sentido: AgRg nos EDcl nos EDcl no HC n. 580.806/MG, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 4.8.2020; AgRg no HC n. 801.494/AP, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 17.8.2023; AgRg no HC n. 809.553/SP, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 16.8.2023; AgRg no HC n. 809.199/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 28.4.2023.
+Na espécie, conforme afirmou o Tribunal a quo (fl. 41) tramitavam simultaneamente recurso de Agravo em Execução e Habeas Corpus com o mesmo objeto, em clara ofensa ao princípio da unirrecorribilidade.
+Conclui-se, assim, que no caso em análise não há manifesta ilegalidade a ensejar a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente Habeas Corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
+ EMENTA
