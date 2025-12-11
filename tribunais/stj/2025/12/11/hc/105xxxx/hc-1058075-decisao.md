@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de YURI SOUZA DO VALE, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, em decorrência do julgamento da apelação criminal n. 1501651-12.2024.8.26.0047.
+Consta dos autos que o paciente foi condenado pelo Juízo da 1ª Vara Criminal da Comarca de Assis como incurso no artigo 33, caput, e § 4º, combinado com o artigo 40, inciso V, da Lei 11.343/2006, à pena de 4 (quatro) anos, 10 (dez) meses e 10 (dez) dias de reclusão, em regime inicial semiaberto, além do pagamento de 485 (quatrocentos e oitenta e cinco) dias-multa (fls. 300-309).
+Ambas as partes apelaram ao Tribunal de Justiça do Estado de São Paulo, que negou provimento ao recurso da defesa e deu provimento parcial ao da acusação, redimensionando a pena para 5 (cinco) anos e 10 (dez) meses de reclusão e 583 (quinhentos e oitenta e três) dias-multa, fixando o regime inicial fechado e mantendo os demais termos da condenação, com trânsito em julgado certificado em 2 de setembro de 2025.
+A defesa impetrou perante o Superior Tribunal de Justiça o HC n. 1049728/SP, buscando a concessão da ordem para: (i) reconhecer a incidência da causa de diminuição de pena prevista no artigo 33, § 4º, da Lei 11.343/2006; (ii) aplicar a fração máxima do redutor e substituir a pena privativa de liberdade por restritiva de direitos; e (iii) subsidiariamente, fixar o regime inicial semiaberto. O habeas corpus foi indeferido liminarmente com fundamento no artigo 210 do Regimento Interno do Superior Tribunal de Justiça, estando pendente de julgamento o agravo regimental interposto pela defesa.
+Na presente impetração, busca-se a concessão da ordem para: (i) reconhecer a incidência da causa de diminuição do artigo 33, § 4º, da Lei 11.343/2006, na fração de 2/3 (dois terços); e (ii) redimensionar a reprimenda para 1 (um) ano e 11 (onze) meses de reclusão, com fixação do regime inicial aberto e substituição da pena privativa de liberdade por restritivas de direitos (fls. 6, 16-21, 22-23).
+É o relatório. DECIDO.
+A pretensão deduzida pela defesa caracteriza reiteração de pedido já submetido ao Superior Tribunal de Justiça por ocasião do HC 1049728/SP (2025/0432916-7), que foi indeferido liminarmente.
+A presente impetração evidencia o propósito de dupla apreciação, o que não é admitido pela jurisprudência do Superior Tribunal de Justiça. A esse respeito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. DOSIMETRIA. WRIT INDEFERIDO LIMINARMENTE. MATÉRIA PREVIAMENTE E EXAUSTIVAMENTE ANALISADA NO HC N. 849.414-SP. REITERAÇÃO DE PEDIDOS. AUSÊNCIA DE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+I - Os pleitos ora veiculados já foram anteriormente submetidos à apreciação desta Corte, tendo sido julgados no âmbito do HC n. 849.414-SP, não havendo ilegalidade no não conhecimento do writ em razão da reiteração de pedidos.
+II - Consoante artigo 210 do Regimento Interno do STJ, bem como nos moldes da jurisprudência desta Corte Superior, quando o pedido for manifestamente incabível, ou for manifesta a incompetência do Tribunal para dele tomar conhecimento originariamente, ou for reiteração de outro com os mesmos fundamentos, tal qual ocorreu no presente caso, o relator o indeferirá liminarmente, não havendo ilegalidade a ser sanada quanto ao ponto.
+Agravo regimental desprovido.
+(AgRg no HC n. 894.011/SP, minha relatoria, Quinta Turma, julgado em 17/6/2024, DJe de 20/6/2024.)
+O artigo 210 do RISTJ autoriza o relator a indeferir liminarmente o habeas corpus quando se tratar de reiteração de outro, com os mesmos fundamentos, hipótese verificada nos p resentes autos.
+Ante o exposto, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
