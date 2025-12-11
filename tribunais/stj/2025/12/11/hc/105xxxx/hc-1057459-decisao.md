@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de MARCELO HONORIO DOS SANTOS COMAR, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, em decorrência do julgamento da revisão criminal n. 2288203-46.2025.8.26.0000.
+Consta dos autos que o paciente foi inicialmente condenado pelo Juízo da Vara Criminal da Comarca de Matão, na ação penal n. 0001958-96.2013.8.26.0347, à pena de 5 (cinco) anos e 6 (seis) meses de reclusão, em regime semiaberto, além de 21 (vinte e um) dias-multa, por infração aos artigos 288, caput, 299, caput, e 180, § 1º, na forma do artigo 71, todos do Código Penal (fls. 29-67).
+A defesa interpôs apelação ao Tribunal de Justiça do Estado de São Paulo, que deu parcial provimento ao recurso para absolver o paciente quanto ao delito do artigo 288 do Código Penal e redimensionar a pena para 4 (quatro) anos e 6 (seis) meses de reclusão, mantido o regime semiaberto, além de 21 (vinte e um) dias-multa (fls. 72-92).
+Após o trânsito em julgado, foi proposta revisão criminal n. 2288203-46.2025.8.26.0000, que não foi conhecida pelo Tribunal de Justiça do Estado de São Paulo (fls. 7-16).
+Na presente impetração, busca-se a concessão da ordem para: (i) determinar a fixação do regime aberto à pena remanescente do crime do artigo 180, § 1º, do Código Penal; e (ii) reconhecer a omissão no exame do mérito da revisão criminal (fls. 2-6).
+É o relatório. DECIDO.
+A controvérsia consiste na ocorrência de possível constrangimento ilegal em razão do não conhecimento da revisão criminal e da negativa de estabelecimento do regime inicial aberto quanto à pena do crime do artigo 180, § 1º, do Código Penal.
+A presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida. A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+No caso concreto, a revisão criminal proposta na origem não foi conhecida, pois a causa de pedir e os pedidos não se enquadram em nenhuma das hipóteses previstas no artigo 621 do Código de Processo Penal. A defesa pretendia rediscutir os critérios de dosimetria da pena em razão de benefício concedido na execução penal, o que não se mostra compatível com a via eleita.
+O acórdão impugnado restou assim ementado:
+REVISÃO CRIMINAL. PLEITO DE REVISÃO DA SENTENÇA PENAL CONDENATÓRIA PARA QUE SEJA ESTABELECIDO REGIME PRISIONAL MAIS BRANDO. AUSÊNCIA DAS HIPÓTESES PREVISTAS NO ART. 621 DO CÓDIGO DE PROCESSO PENAL. REVISÃO CRIMINAL NÃO CONHECIDA.
+1. CASO EM EXAME.
+1.1. Ação revisional ajuizada pela defesa, com fundamento no artigo 621, inciso III, parte final, do Código de Processo Penal.
+1.2. Réu condenado pela prática de dois crimes em concurso material, ao cumprimento de pena em regime inicial semiaberto. Decisão concessiva de indulto, somente quanto a um dos delitos, proferida pelo juízo das execuções. Pleito objetivando a revisão da sentença penal condenatória para que seja estabelecido regime prisional mais brando para o crime remanescente.
+2. RAZÕES DE DECIDIR
+2.1. Juízo de admissibilidade do pedido revisional. A ação de revisão criminal é instrumento processual que busca desconstituir a coisa julgada condenatória. Move-se pela ponderação entre os valores da segurança jurídica, que são dados pela imutabilidade da coisa julgada, e a liberdade jurídica, representada pela correção de erro judiciário em desfavor do acusado. Requisitos da ação revisional especificados em lei (art. 621 do Código de Processo Penal).
+2.2. Pedido de revisão criminal que não se enquadra em uma das hipóteses do art. 621 do CPP. Peticionário que busca rediscutir os critérios de dosimetria em razão de um benefício concedido em sede de execução penal. Impossibilidade. Situação que não encontra aderência às hipóteses permissivas do ajuizamento da revisão criminal (art. 621 do Código de Processo Penal).
+3. DISPOSITIVO. Ação de revisão criminal não conhecida.
+A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que não se admite habeas corpus quando as teses apresentadas não foram previamente apreciadas pelo Tribunal apontado como coator, sob pena de indevida supressão de instância. Esse entendimento é aplicado inclusive em casos de revisão criminal não conhecida, como forma de preservar a competência das instâncias ordinárias para a análise inicial da matéria.
+A esse respeito, destaco o seguinte julgado:
+ ..
+5. A revisão criminal constitui ação de natureza excepcional, não se prestando como terceira instância recursal para reexame de fatos e provas exaustivamente debatidos ou para que novos julgadores imponham sua própria valoração discricionária à dosimetria da pena.
+Sua finalidade restringe-se à correção de erro judiciário manifesto, decisão flagrantemente contrária à evidência dos autos ou à lei, e não à simples revaloração subjetiva do conjunto probatório.
+6. A reiteração de pedido revisional sem a apresentação de provas novas, que justifiquem a excepcionalidade de uma nova análise do mérito e sejam aptas a alterar o panorama fático-jurídico previamente examinado, encontra óbice no artigo 622, parágrafo único, do Código de Processo Penal. A violação a esse dispositivo compromete a segurança jurídica e a estabilidade das decisões judiciais transitadas em julgado.
+ ..
+9. A reanálise da dosimetria da pena em revisão criminal, promovendo nova aplicação da sanção com base em critérios subjetivos dos julgadores da revisão e afastando majorantes sem demonstração de manifesta ilegalidade ou contrariedade expressa à lei, desvirtua a finalidade da ação rescisória. Alterações de entendimento jurisprudencial posteriores ao trânsito em julgado não podem servir de base para desconstituir a coisa julgada em sede revisional, em respeito aos princípios da segurança jurídica e da estabilidade das decisões judiciais.
+IV. DISPOSITIVO E TESE
+10. Resultado do Julgamento: Recurso provido para cassar o acórdão proferido na revisão criminal e restabelecer o acórdão da apelação, com a condenação do recorrido pelos crimes de tráfico de drogas e associação para o tráfico, fixando a pena total em 22 anos, 4 meses e 24 dias de reclusão, além de 3.033 dias-multa.
+(REsp n. 2.123.321/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 11/11/2025, DJEN de 19/11/2025.)
+De toda sorte, não verifico a presença de ilegalidade flagrante que desafie a concessão da ordem nos termos do artigo 654, § 2º, do Código de Processo Penal.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
