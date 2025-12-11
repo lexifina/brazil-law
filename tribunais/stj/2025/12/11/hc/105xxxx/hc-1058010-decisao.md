@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de BRUNO GOMES SILVA, condenado por tráfico de drogas (art. 33 da Lei n. 11.343/2006) à pena de 6 anos, 9 meses e 20 dias de reclusão, em regime inicial fechado, e 680 dias-multa (Processo n. 1501708-52.2024.8.26.0266, da 3ª Vara da comarca de Itanhaém/SP).
+A impetrante aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, que, em 17/6/2025, deu parcial provimento à apelação defensiva apenas para reduzir a reprimenda, mantendo a condenação por tráfico e o regime inicial fechado.
+Alega, em suma: 1) nulidade decorrente da busca pessoal sem fundadas razões; 2) nulidade decorrente da invasão domiciliar sem fundadas razões; 3) bis in idem na exasperação da pena-base pela quantidade e natureza da droga, por utilizar o mesmo substrato fático já integrante do tipo penal; e 4) necessidade de reconhecer a atenuante da confissão espontânea e compensá-la com a agravante da reincidência.
+Em caráter liminar, pede a suspensão imediata dos efeitos da condenação, com expedição de alvará de soltura em favor de BRUNO GOMES SILVA. No mérito, requer a declaração de ilicitude das provas por nulidades na busca pessoal e no ingresso domiciliar, a anulação integral da condenação e o trancamento da ação penal. Subsidiariamente, pleiteia a readequação da pena, com pena-base no mínimo legal e a compensação entre confissão e reincidência.
+É o relatório.
+Contudo, o writ não merece ser conhecido.
+A uma, porque é incabível o presente writ por consubstanciar inadequada substituição ao recurso próprio a ser dirigido ao Superior Tribunal de Justiça (AgRg no HC n. 753.464/SC, Ministra Laurita Vaz, Sexta Turma, DJe 29/9/2022), uma vez que a sentença condenatória transitou em julgado para a defesa em 17/10/2025.
+A duas, porque os temas referentes a busca pessoal, bis in idem na majoração da pena-base e necessidade de reconhecimento da confissão nem sequer foram debatidos pela Corte de origem. Sendo assim, sua análise pelo Superior Tribunal configuraria indevida supressão de instância.
+Segundo o entendimento desta Corte, o prévio exame das alegações pelas instâncias ordinárias constitui requisito indispensável para sua apreciação nesta instância, ainda que se cuide de questão de ordem pública (AgRg no HC n. 744.653/SP, rel. Min. Ribeiro Dantas, Quinta Turma, julgado em 21/6/2022, DJe 29/6/2022) - AgRg no RHC n. 189.567/RJ, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Sexta Turma, DJe de 11/4/2024.
+A três, porque a tese da nulidade por indevida busca domiciliar já foi trazida para análise nesta corte, no HC n. 1.049.720, constituindo mera reiteração de pedidos.
+Ora, é categórico o entendimento do Superior Tribunal de Justiça a respeito da impossibilidade de reiteração de pedidos já apresentados nesta Casa. Nesse sentido, por exemplo: AgRg no HC n. 765.097/SP, Ministra Daniela Teixeira, Quinta Turma, DJe 6/3/2024; e AgRg no HC n. 391.116/PE, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 7/4/2017.
+Ante o exposto, não conheço do presente habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. DIREITO PENAL E PROCESSUAL PENAL. TRÁFICO DE DROGAS. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL. TRÂNSITO EM JULGADO. SUPRESSÃO DE INSTÂNCIA. TESES NÃO DEBATIDAS NA ORIGEM. BUSCA PESSOAL. BIS IN IDEM NA PENA-BASE. CONFISSÃO. REITERAÇÃO DE PEDIDOS. VIOLAÇÃO DOMICILIAR JÁ DEBATIDA EM HABEAS CORPUS ANTERIOR. PRECEDENTES. NÃO CONHECIMENTO.
+Writ não conhecido.
