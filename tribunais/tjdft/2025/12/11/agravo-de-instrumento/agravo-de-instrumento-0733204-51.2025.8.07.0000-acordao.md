@@ -1,0 +1,155 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+5ª Turma Cível
+Processo N.AGRAVO DE INSTRUMENTO 0733204-51.2025.8.07.0000AGRAVANTE(S)MARIA DE FATIMA LEITE DE BARROSAGRAVADO(S)MILTON DE SOUZA MATOSRelatorDesembargador FÁBIO EDUARDO MARQUES
+ Acórdão Nº2074642
+
+EMENTA
+
+Direito processual. Agravo de instrumento. Cumprimento de sentença. Pesquisa via sisbajud, infojud, renajud. Esgotamento de diligências. Desnecessidade. Princípio da razoabilidade. Modalidade teimosinha. Cabimento. Recurso provido.
+
+I. Caso em exame
+
+1. Agravo de instrumento interposto contra decisão que, em cumprimento de sentença, indeferiu a reiteração de pesquisa via SISBAJUD, na modalidade teimosinha, INFOJUD e RENAJUD.
+
+II. Questão em discussão
+
+2. A questão em discussão consiste em verificar se estão presentes os requisitos para a realização de novas pesquisas pelos sistemas informatizados.
+
+III. Razões de decidir
+
+3. A apreciação do pedido de pesquisas em nome do devedor, por meio dos sistemas informatizados, deve observar o princípio de razoabilidade no caso concreto. Para tanto, considera-se a demonstração pelo exequente de indícios de mudança na situação patrimonial do executado, ou até mesmo o decurso de tempo suficiente entre as diligências. Precedentes.
+
+4. Admissível a reiteração de consulta de bens do executado em intervalo superior a 1 (um) ano. Do cotejo dos autos principais, verifica-se que as últimas pesquisas para a localização de bens por meio dos sistemas disponíveis ocorreram em maio de 2024, ou seja, há mais de 1 (um) ano.
+
+IV. Dispositivo
+
+5. Agravo de instrumento conhecido e provido.
+
+_____________
+
+Jurisprudência relevante citada:
+
+STJ, AgInt no REsp 1.909.060/RN, Rel. Ministro Herman Benjamin, Segunda Turma, j. 22/03/2021.
+
+TJDFT, AGI 0706081-59.2017.8.07.0000, Rel. Des. Luís Gustavo B. de Oliveira, 4ª Turma Cível, j. 21/11/2018; AGI 0722498-48.2021.8.07.0000, Rel. Des. Arquibaldo Carneiro Portela, 6ª Turma Cível, j. 22/9/2021; AGI 0737961-64.2020.8.07.0000, Rel. Des. Arquibaldo Carneiro Portela, 6ª Turma Cível, j. 29/10/2020; AGI 0714604-55.2020.8.07.0000, Rel. Desa. Diva Lucy de Faria Pereira, 1ª Turma Cível, j. 28/10/2020; AGI 0721272-71.2022.8.07.0000, Rel. Desa. Ana Cantarino, 5ª Turma Cível, j. 21/9/2022; AGI 0709282-83.2022.8.07.0000, Rel. Des. João Luís Fischer Dias, 5ª Turma Cível, j. 21/9/2022; AGI 0712254-60.2021.8.07.0000, Rel. Desa. Gislene Pinheiro, 7ª Turma Cível, j. 1/9/2021; AGI 0704678-21.2018.8.07.0000, Rel. Desa. Carmelita Brasil, 2ª Turma Cível, j. 01/06/2018; AGI 0724231-83.2020.8.07.0000, Rel. Des. Alvaro Ciarlini, 3ª Turma Cível, j. 9/9/2020; AGI 0714077-06.2020.8.07.0000, Rel. Des. Romulo de Araújo Mendes, 1ª Turma Cível, j. 12/8/2020.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 5ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, FÁBIO EDUARDO MARQUES - Relator, LUCIMEIRE MARIA DA SILVA - 1º Vogal e LEONOR AGUENA - 2º Vogal, sob a Presidência da Senhora Desembargadora LUCIMEIRE MARIA DA SILVA, em proferir a seguinte decisão: CONHECER. DAR PROVIMENTO AO RECURSO. MAIORIA. VENCIDA A 2ª VOGAL, de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 11 de Dezembro de 2025
+
+Desembargador FÁBIO EDUARDO MARQUESRelator
+
+RELATÓRIO
+
+Cuida-se de agravo de instrumento da resp. decisão proferida em cumprimento de sentença (id. 243619012 dos autos originários n. 0722856-72.2019.8.07.0003), que indeferiu o pedido de reiteração de pesquisa de bens pelo sistema SISBAJUD, na modalidade “teimosinha”, RENAJUD e INFOJUD.
+
+O agravante sustenta o cabimento de novas pesquisas nas modalidades indicadas, com amparo nos princípios da satisfação da cooperação e duração razoável do processo. Salienta que a última consulta feita pelo SISBAJUD ocorreu em fevereiro de 2024, enquanto no INFOJUD e RENAJUD em novembro de 2022.
+
+Requer a reforma da decisão atacada.
+
+Agravo recebido no efeito meramente devolutivo (id. 75538621).
+
+Contrarrazões (id. 77812530) pela manutenção da decisão atacada.
+
+É o relatório.
+
+VOTOS
+
+O Senhor Desembargador FÁBIO EDUARDO MARQUES - Relator
+
+Presentes os pressupostos de admissibilidade, em especial a previsão do art. 1.015, parágrafo único, do CPC, conheço do recurso.
+
+Insurge-se o agravante da decisão que indeferiu o pedido de reiteração de consulta via SISBAJUD com repetição programada, RENAJUD e INFOJUD.
+
+A pesquisa via SISBAJUD com o uso da ferramenta conhecida como “teimosinha” é medida plenamente possível, senão vejamos.
+
+Em setembro de 2020, o Conselho Nacional de Justiça (CNJ), o Banco Central e a Procuradoria-Geral da Fazenda Nacional, implementaram o Sistema de Busca de Ativos do Poder Judiciário (SISBAJUD) para localização e bloqueio de ativos de devedores com dívidas reconhecidas na Justiça.
+
+O novo sistema eletrônico substituiu o BACENJUD e ampliou as possibilidades de busca e bloqueio judicial de ativos no Sistema Financeiro Nacional, possuindo funcionalidade implementada em abril de 2021, segundo atesta o acórdão 1374547, desta Corte, como forma de viabilizar o êxito das ordens de penhora de dinheiro em conta, porquanto, de forma automatizada, tenta alcançar o valor total dentro de um período estabelecido, atualmente de até no máximo 30 dias.
+
+Confira-se:
+
+DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. REPETIÇÃO PROGRAMADA DE ORDENS DE BLOQUEIO. TEIMOSINHA. SISBAJUD. POSSIBILIDADE. LAPSO DE TEMPO. RAZOABILIDADE.  1. O SisbaJud é uma ferramenta posta à disposição judicial e seu foco é diminuir os prazos de tramitação dos processos, elastecer a efetividade das decisões judiciais e aperfeiçoar a prestação jurisdicional. 2. O CNJ, para fins de aumentar a efetividade das demandas judiciais, agregou no SisbaJud a repetição programada de ordens de bloqueio, conhecida por "teimosinha", funcionalidade que já se encontra em funcionamento nesta Corte de Justiça desde abril de 2021. 3. Agravo de instrumento provido. (Acórdão 1374547, AGI 0722498-48.2021.8.07.0000, Rel. Des. Arquibaldo Carneiro Portela, 6ª Turma Cível, julgado em 22/9/2021, DJe 8/10/2021)
+
+Portanto, o SISBAJUD afasta a necessidade de reiterado exame do juiz acerca de requerimento do mesmo tipo, a cada tentativa frustrada de busca e bloqueio judicial de ativos financeiros, ao passo que desfavorece eventual óbice decorrente do monitoramento preventivo dos processos pelo devedor.
+
+Posto isso, colhe-se no Superior Tribunal de Justiça que a apreciação do requerimento de reiteração de pesquisas de ativos financeiros deve observar o critério da razoabilidade no caso concreto. Para tanto, considera-se a demonstração pelo exequente de indícios de mudança na situação patrimonial do devedor, ou até mesmo o decurso de tempo suficiente entre as diligências.
+
+Vejamos:
+
+PROCESSUAL CIVIL. PENHORA ON-LINE. RENOVAÇÃO DO PEDIDO. RAZOABILIDADE. INEXISTÊNCIA. AUSÊNCIA DA DEMONSTRAÇÃO DA MODIFICAÇÃO DA SITUAÇÃO ECONÔMICA DO EXECUTADO. INDEFERIMENTO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. 1. Trata-se de Agravo Interno interposto contra decisão monocrática que não conheceu do Recurso Especial. 2. O Superior Tribunal de Justiça possui entendimento pacífico de que a realização de nova consulta ao sistema do Bacenjud para busca de ativo financeiro, quando infrutífera pesquisa anterior, é possível, se razoável a reiteração da medida, como por exemplo, alteração na situação econômica do executado ou decurso do tempo suficiente. [...] 6. Agravo Interno não provido. (AgInt no REsp 1.909.060/RN, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 22/03/2021, DJe 05/04/2021)
+
+No mesmo sentido, os julgados deste Tribunal:
+
+DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. RENOVAÇÃO DE PESQUISA BACENJUD. NOVO SISTEMA SISBAJUD. POSSIBILIDADE. LAPSO DE TEMPO. RAZOABILIDADE. 1. Desde o dia 08/09/2020, o Conselho Nacional de Justiça - CNJ, o Banco Central e a Procuradoria-Geral da Fazenda Nacional - PGFN colocaram em funcionamento o Sistema SISBAJUD, este que é novo sistema eletrônico (em substituição ao BACENJUD) que amplia as possibilidades de busca e bloqueio judicial de ativos no Sistema Financeiro Nacional. 2. Admite-se a reiteração de consulta aos sistemas de informações patrimoniais do devedor/executado, quando transcorrido prazo razoável desde a última consulta realizada ou evidenciada a ausência de outros bens passíveis de penhora. Precedentes do Tribunal de Justiça e do Superior Tribunal de Justiça. 3. Considerando que, nos autos de origem, a última decisão deferindo a pesquisa sobre a situação patrimonial dos agravados data de mais de 2 anos, tem-se por razoável a realização de nova consulta, pois transcorrido lapso temporal suficiente para alteração da condição financeira da devedora. 4. Agravo de instrumento provido. (AGI 0737961-64.2020.8.07.0000, Rel. Des. Arquibaldo Carneiro Portela, 6ª Turma Cível, julgado em 29/10/2020, DJe 20/11/2020)
+
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PESQUISA. RENOVAÇÃO CONSULTA BACENJUD (SISBAJUD). ESGOTAMENTO DAS POSSIBILIDADES DE LOCALIZAÇÃO DE BENS PENHORÁVEIS. DECURSO DE LARGO TEMPO DA ÚLTIMA DILIGÊNCIA. POSSIBILIDADE. ALTERAÇÃO DA SITUAÇÃO PATRIMONIAL. RECURSO CONHECIDO E PROVIDO. 1. É ônus do exequente indicar bens suscetíveis de penhora (art. 798, II, "c", do CPC), cumprindo-lhe, para tanto, realizar as diligências necessárias e ao seu alcance para localização de bens integrantes do patrimônio do devedor. 2. Esgotadas as possibilidades de localização de bens penhoráveis, inclusive com a cooperação do juízo, é legítimo o deferimento de nova consulta ao sistema BacenJud (SisbaJud), tendo em vista o largo espaço de tempo, quase seis anos, decorrido desde a última tentativa. 3. Revela-se útil e necessária a diligência requerida, tendo em vista a possibilidade de alteração patrimonial nos saldos existentes em contas dos devedores. 4. Recurso conhecido e provido. (AGI 0714604-55.2020.8.07.0000, Rel. Desa. Diva Lucy de Faria Pereira, 1ª Turma Cível, julgado em 28/10/2020, PJe 12/11/2020)
+
+Destarte, ainda que não se tenha notícia de mudanças na situação econômica da parte, nada obsta a reiteração da diligência na busca de ativos financeiros se fundada no decurso razoável de tempo desde a última pesquisa.
+
+Nessa linha:
+
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. REITERAÇÃO DE PESQUISA SISBAJUD. MODALIDADE PROGRAMADA (TEIMOSINHA). POSSIBILIDADE. PRINCÍPIO DA COOPERAÇÃO. 1. A funcionalidade do SISBAJUD que permite a repetição programada da ordem de bloqueio de ativos financeiros, conhecida como "teimosinha", além de racionalizar a administração dos serviços judiciários, agrega efetividade à execução. 2. Não há fundamento, no caso em concreto, para a recusa da utilização de mecanismo que favorece o bloqueio de ativos financeiros do executado e, por conseguinte, empresta maior efetividade à jurisdição executiva, presente o princípio da cooperação consagrado nos artigos 6º, 772 e 773 do Código de Processo Civil. 3. Agravo de instrumento conhecido e provido. (Acórdão 1619995, AGI 0721272-71.2022.8.07.0000, Rel. Desa. Ana Cantarino, 5ª Turma Cível, julgado em 21/9/2022, PJe 7/10/2022)
+
+AGRAVO DE INSTRUMENTO. MONITÓRIA. PROCESSO SUSPENSO POR UM ANO E DEPOIS ARQUIVADO PELA FALTA DE BENS PASSÍVEIS DE PENHORA. PESQUISA AO SISTEMA SISBAJUD. REITERAÇÃO DE CONSULTA. LAPSO TEMPORAL RAZOÁVEL. POSSIBILIDADE 1. Revela-se possível a reiteração da pesquisa de ativos financeiros e bens no sistema SISBAJUD quando evidenciada a ausência de outros bens penhoráveis e transcorrido lapso de tempo considerável desde a última pesquisa realizada, em atenção aos princípios da razoabilidade, da celeridade, da eficiência e da efetividade da prestação jurisdicional. 2. A demonstração de modificação da situação financeira do devedor não é imprescindível quando transcorrido longo lapso temporal da última pesquisa. Assim, transcorrido mais de um ano da última medida mostra-se razoável o deferimento da reiteração da pesquisa. 3. Agravo de instrumento conhecido e provido para deferir a realização de consulta ao sistema SISBAJUD. (Acórdão 1620073, AGI 0709282-83.2022.8.07.0000, Rel. Des. João Luís Fischer Dias, 5ª Turma Cível, julgado em 21/9/2022, DJe 5/10/2022)
+
+Esse entendimento tem sido aplicado por este Tribunal, admitindo-se, como lapso temporal razoável a ensejar a reiteração de consulta de bens da parte executada, o intervalo superior a 1 (um) ano, como revela o seguinte precedente:
+
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PESQUISA DE ATIVOS FINANCEIROS. BACENJUD. REPETIÇÃO. TRANSCURSO DE TEMPO RAZOÁVEL. POSSIBILIDADE. SISBAJUD. SISTEMA COM NOVAS FUNCIONALIDADES. 1. Entre a decisão de deferimento do último pedido de pesquisa ao sistema BACENJUD e o indeferimento ora impugnado houve o transcurso de um ano, circunstância que autoriza a realização de nova diligência em sistemas cadastrais informatizados, seja porque, nesse período, é possível que tenha havido alguma modificação na situação econômica dos executados ou, ainda, em razão do princípio da cooperação previsto no artigo 6º do Código de Processo Civil, de modo a se alcançar a efetividade do processo de execução. 2. O Superior Tribunal de Justiça, em casos semelhantes, já se pronunciou sobre o tema, afirmando que não existe limitação na reiteração da pesquisa de ativos financeiros, devendo, ser observado, de todo modo, um critério de razoabilidade, avaliado em cada caso concreto. 3. Recurso conhecido e provido. (AGI 0712254-60.2021.8.07.0000, Rel. Desa. Gislene Pinheiro, 7ª Turma Cível, julgado em 1/9/2021, PJe 14/9/2021)
+
+Ainda: AGI 0704678-21.2018.8.07.0000, Rel. Desa. Carmelita Brasil, 2ª Turma Cível, julgado em 01/06/2018; AGI 0724231-83.2020.8.07.0000, Rel. Des. Alvaro Ciarlini, 3ª Turma Cível, julgado 9/9/2020; AGI 0714077-06.2020.8.07.0000, Rel. Des. Romulo de Araújo Mendes, 1ª Turma Cível, julgado 12/8/2020.
+
+O entendimento adotado para o BACENJUD (atual SISBAJUD) deve ser aplicado ao RENAJUD e ao INFOJUD, haja vista que são meios colocados à disposição dos credores.
+
+Nesse sentido:
+
+[...] 2. Cuida-se, na origem, de Agravo de Instrumento interposto pela Departamento Nacional de Infraestrutura de Transportes - DNIT, contra decisão que indeferiu pedido de consulta, por meio do sistema Infojud, de informações patrimoniais existentes em nome do executado. 3. O Tribunal a quo deu parcial provimento ao Agravo de Instrumento restringindo acesso apenas ao BacenJud.  4. Contudo, esclareça-se que esta "Corte, em precedentes submetidos ao rito do art. 543-C, firmou entendimento segundo o qual é desnecessário o esgotamento das diligências na busca de bens a serem penhorados a fim de autorizar-se a penhora on line (sistemas BACEN-JUD, RENAJUD ou INFOJUD), em execução civil ou execução fiscal". (AgInt no REsp 1.184.039/MG, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 4/4/2017) (grifo acrescentado). 5. Ademais, o STJ posiciona-se no sentido de que o entendimento adotado para o Bacenjud deve ser aplicado ao Renajud e ao Infojud, haja vista que são meios colocados à disposição dos credores para simplificar e agilizar a busca de bens aptos a satisfazer os créditos executados. Nesse sentido: AgRg no REsp 1.322.436, Rel. Min. Assusete Magalhães, DJe 17/8/2015; REsp 1.522.644, Rel. Min. Humberto Martins, DJe 1/7/2015; AgRg no REsp 1.522.840; Rel. Min. Mauro Campbell Marques, DJe 10/6/2015; REsp 1.667.420/RJ, Rel. Ministro Og Fernandes, Segunda Turma, DJe 14/6/2017; AgInt no REsp 1.619.080/RJ, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 19/4/2017; AgInt no REsp 1.184.039/MG, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 4/4/2017; REsp 1.347.222/RS, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe 2/9/2015; REsp 1.522.678, Rel. Min. Herman Benjamin, DJe 18/5/2015, e REsp 1.582.421/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 27/5/2016. 6. Atualmente, a questão se encontra pacificada, nos termos do precedente fixado pela Corte Especial do STJ, no julgamento do REsp 1.112.943/MA, sujeito ao rito dos recursos repetitivos. 7. Recurso Especial parcialmente provido. (REsp 1.735.675/PR, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 12/06/2018, DJe 23/11/2018.)
+
+Não se trata de transferir ao Juízo o ônus do credor de realizar diligências para busca de ativos financeiros e bens do devedor, até porque não se ignora que as diligências eletrônicas interferem na rotina normal do gabinete do magistrado, exigindo tempo e trabalho para o seu cumprimento.
+
+Cuida-se, na verdade, de aferir, no caso concreto, segundo critérios de razoabilidade, se o lapso temporal entre uma e outra diligência justifica a renovação da medida.
+
+Do cotejo dos autos principais, sobressai que as últimas pesquisas para a localização de bens, por meio dos sistemas SISBAJUD (id. 196468071 na origem) ocorreu em maio de 2024, INFOJUD (id. 141132776 na origem) e RENAJUD (id. 141132776 na origem) ocorreram em outubro de 2022, por conseguinte, em intervalo superior a um ano, em conformidade com a jurisprudência colacionada alhures que autoriza nova pesquisa.
+
+Nesse cenário, assiste razão ao agravante.
+
+Ante o exposto, a decisão deve ser reformada para determinar a pesquisa por meio dos sistemas: SISBAJUD, com a repetição programada de ordens de bloqueio (teimosinha), pelo período de 30 dias; INFOJUD e RENAJUD.
+
+Dou provimento ao recurso.
+
+É como voto.
+
+A Senhora Desembargadora LUCIMEIRE MARIA DA SILVA - 1º Vogal Com o relatorA Senhora Desembargadora LEONOR AGUENA - 2º Vogal p{text-align: justify;}Eminente Relator, peço vênia para apresentar divergência escrita.
+Adoto o relatório de Vossa Excelência e apresento meu voto.
+Presentes os pressupostos de admissibilidade, conheço do recurso interposto.
+Trata-se de Agravo de Instrumento interposto por MARIA DE FATIMA LEITE DE BARROS (Id. 74979090), em face de decisão proferido pelo juízo da 1ª Vara Cível Ceilândia (Id. de origem 243619012) que, nos autos da Ação de Cumprimento de Sentença n. 0722856-72.2019.8.07.0003, em desfavor de MILTON DE SOUZA MATOS, indeferiu o pedido de reiteração de pesquisas de bens juntos aos sistemas SISBAJUD, INFOJUD e RENAJUD.
+A parte agravante sustenta que é possível a reiteração do pedido de pesquisa de bens, posto que a última consulta ao SISBAJUD foi realizada há mais de 1 (um) ano, e aos sistemas INFOJUD e RENAJUD foram realizadas há mais de 2 (dois) anos. Portanto, houve o transcurso de lapso temporal razoável.
+A atuação do Poder Judiciário em processos executivos ostenta caráter meramente complementar. A função de pesquisar bens passíveis de penhora cabe, primordialmente, ao exequente.
+O princípio da cooperação, em conjunto com a razoabilidade, determina que as partes, assim como o magistrado, devem cooperar de maneira razoável entre si para a devida prestação jurisdicional.
+Não há que se falar em deferimento de pesquisas junto aos sistemas informatizados de forma indiscriminada, é preciso que fique demonstrado que houve alteração na situação financeira do devedor ou que a diligência será frutífera.
+É importante destacar que não existe óbice para a reiteração dos pedidos de consulta, todavia, é preciso que a parte pleiteante diligencie no sentido de comprovar a alteração patrimonial ou comprovar que a diligência atingirá seu objetivo.
+O mero transcurso do tempo desde a realização das consultas anteriores não se mostra suficiente para o deferimento de novas pesquisas, sob pena de transferir ao Poder Judiciário as responsabilidades cabíveis ao credor.
+Deferir a reiteração das pesquisas apenas em decorrência da passagem do tempo, sem qualquer demonstrativo de êxito, acaba por sobrecarregar o Judiciário. A energia aplicada nessas consultas ineficazes pode ser melhor empregada em outras atividades que, de fato, resultem em uma prestação jurisprudencial efetiva.
+Imagine o empenho necessário para refazer as pesquisas em todos os processos judiciais que ultrapassem determinado período de tempo, isso atrapalha o bom andamento de todo o Sistema de Justiça.
+A jurisprudência do Colendo Superior Tribunal de Justiça e deste Egrégio Tribunal tem seguido nesse sentido.
+Vejamos:
+
+PROCESSUAL CIVIL E TRIBUTÁRIO. PEDIDO DE PENHORA ONLINE. RENOVAÇÃO. DEMONSTRAÇÃO DE MODIFICAÇÃO DA SITUAÇÃO FINANCEIRA E/OU PATRIMONIAL DA PARTE EXECUTADA. AUSÊNCIA. SÚMULA 83 DO STJ. As Turmas que compõem a Primeira Seção do Superior Tribunal de Justiça já se manifestaram no sentido de que é cabível renovação de pedido de penhora eletrônica desde que observado o princípio da razoabilidade e presentes indícios que apontem modificação na situação da parte executada. Hipótese em que o Tribunal de origem firmou a compreensão de que é incabível a renovação do pedido de penhora online, sob o fundamento de que o pedido de consulta ao BACENJUD foi formulado sem qualquer indicativo de alteração na situação financeira e/ou patrimonial da parte executada. Incidência da Súmula 83 do STJ. Agravo interno desprovido, com aplicação de multa. (Agravo Interno no Recurso Especial n. 1634247/RS, Relator Ministro Gurgel De Faria, Primeira Turma, julgado em 20.2.2018, Diário da Justiça Eletrônico 12.4.2018). Grifou-se.
+
+Ementa: Processo Civil. Agravo de Instrumento. Execução de título extrajudicial. Realização de pesquisa SISBAJUD. Pedido de inclusão em cadastro de inadimplente. Recurso provido em parte. I. Caso em exame 1. Recurso interposto de decisão que indeferiu os pedidos de realização de nova pesquisa SISBAJUD e de inclusão em cadastro de inadimplente via SERASAJUD. II. Questão em discussão 2. As questões em discussão são saber se: (i) o art. 782, § 3º, do CPC lhe confere o direito de inscrever o nome dos devedores no cadastro de inadimplentes; e (ii) o indeferimento de reiteração de pesquisa SISBAJUD impõe limite de pesquisas não previstas em lei. III. Razões de decidir 3. Todos os envolvidos são responsáveis pela busca da solução célere, justa e efetiva para resolução do conflito. 4. Conforme precedentes do STJ, a realização de busca de ativo financeiro, quando infrutíferas as diligências anteriores, pressupõe a observância o princípio da razoabilidade de modo que o credor deve declinar algum indício de alteração da situação financeira da parte devedora ou de que diligência pretendida seja frutífera. 5. É ônus da parte credora demonstrar indício de alteração financeira do devedor desde a última pesquisa efetivada que foi realizada e o resultado infrutífero, sob pena de transferir integralmente o ônus processual de busca de bens ao Poder Judiciário. 6. O Tema Repetitivo 1026 do STJ prevê que é dever do magistrado deferir o requerimento de inclusão do nome do executado em cadastros de inadimplentes entendimento aplicável às execuções de título executivo extrajudicial, salvo em caso de dúvida razoável sobre a existência de crédito. IV. Dispositivo e tese 7. Agravo de Instrumento conhecido e provido em parte. Tese de julgamento: “1. À falta de elementos que evidenciem a alteração da situação financeira da parte executada desde a data da realização das últimas diligências é mantida a decisão de indeferimento do pedido de repetição de pesquisas judiciais. 2. É dever do magistrado deferir o requerimento de inclusão do nome do executado em cadastros de inadimplentes entendimento aplicável às execuções de título executivo extrajudicial.” Dispositivos relevantes citados: CPC, arts. 6º, 139, inc. IV; 782, § 3º; 789; 797; 805; 921, § 3º. Jurisprudência relevante citada: STJ, Tema Repetitivo 1026; AgInt no AREsp n. 1.999.817/DF, Relator Ministro Moura Ribeiro, Terceira Turma, julgado em 8/5/2023; REsp n. 1.807.180/PR, relator Ministro Og Fernandes, Primeira Seção, julgado em 24/2/2021. TJDFT, Acórdão 1843150, 07538340220238070000, Relator: MARIA IVATÔNIA, 5ª Turma Cível, data de julgamento: 4/4/2024; Acórdão 2002453, 0701281-07.2025.8.07.0000, Relator(a): ANA CANTARINO, 5ª TURMA CÍVEL, data de julgamento: 22/05/2025; Acórdão 1981478, 0742225-85.2024.8.07.0000, Relator(a): FÁBIO EDUARDO MARQUES, 5ª TURMA CÍVEL, data de julgamento: 20/03/2025; Acórdão 1856840, 0728268-51.2023.8.07.0000, Relator(a): MARIA IVATÔNIA, 5ª TURMA CÍVEL, data de julgamento: 02/05/2024; Acórdão 1829506, 0738015-25.2023.8.07.0000, Relator(a): LUCIMEIRE MARIA DA SILVA, 5ª TURMA CÍVEL, data de julgamento: 07/03/2024. (Acórdão 2036635, 0716553-41.2025.8.07.0000, Relator(a): LEONOR AGUENA, 5ª TURMA CÍVEL, data de julgamento: 22/08/2025, publicado no DJe: 12/09/2025.) Grifou-se.
+
+DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. REITERAÇÃO AUTOMÁTICA DE PESQUISA SISBAJUD. INDEFERIMENTO MANTIDO. I. CASO EM EXAME 1. Agravo de instrumento interposto por AGÊNCIA UNION ORGANIZAÇÃO DE EVENTOS EIRELI contra decisão que indeferiu pedido de renovação automática de pesquisa de ativos via SISBAJUD (“teimosinha”) na execução de título extrajudicial originado de nota promissória no valor de R$ 2.280,00. 2. Pesquisas anteriores realizadas por SISBAJUD, RENAJUD e INFOJUD restaram infrutíferas, ensejando arquivamento provisório do feito. II. QUESTÃO EM DISCUSSÃO 3. A questão em discussão consiste em saber se é admissível o deferimento da pesquisa automática e reiterada via SISBAJUD (“teimosinha”), após decurso de tempo e arquivamento do processo, sem que haja demonstração de mudança na situação econômica do devedor. III. RAZÕES DE DECIDIR 4. A renovação de pesquisas de bens penhoráveis exige, por princípio de razoabilidade, a demonstração de alteração na situação patrimonial do executado ou a indicação de bens suscetíveis de penhora. 5. A mera pretensão de prosseguir com medidas constritivas eletrônicas, sem fatos novos, transfere indevidamente ao Judiciário o ônus que cabe ao credor. 6. A jurisprudência do STJ (AgInt no AREsp 1.999.817/DF) e do TJDFT consolidou entendimento de que o desarquivamento ou a repetição de diligências eletrônicas dependem de elementos que indiquem possível efetividade da medida. 7. No caso concreto, não houve comprovação de mudança da situação financeira da devedora nem diligências extrajudiciais promovidas pela credora, mantendo-se razoável a decisão que indeferiu a reiteração automática. IV. DISPOSITIVO E TESE 8. Recurso conhecido e desprovido. Tese de julgamento: "1. O deferimento de pesquisa reiterada e automática via SISBAJUD exige demonstração de alteração na situação patrimonial do devedor ou fato novo que justifique a diligência. 2. O simples decurso do tempo, sem indícios concretos, não autoriza nova pesquisa nem o desarquivamento do feito." Dispositivos relevantes citados: CPC, arts. 6º, 772, 798 e 921, § 3º. Jurisprudência relevante citada: STJ, AgInt no AREsp 1.999.817/DF, Rel. Min. Moura Ribeiro, j. 08/05/2023; TJDFT, AI 0701055-70.2023.8.07.0000, Rel. Des. Ana Cantarino, j. 27/04/2023. (Acórdão 2036572, 0714613-41.2025.8.07.0000, Relator(a): LEONOR AGUENA, 5ª TURMA CÍVEL, data de julgamento: 22/08/2025, publicado no DJe: 12/09/2025.) Grifou-se.
+
+Portanto, a reiteração dos pedidos de pesquisas nos sistemas informatizados, sem qualquer evidência de alteração da situação financeira do devedor ou de que a diligência será frutífera, transfere ao Poder Judiciário o ônus processual da busca de bens, o qual pertence ao credor.
+
+Ante o exposto, CONHEÇO e NEGO PROVIMENTO ao Agravo de Instrumento e mantenho a decisão na forma proferida.
+
+É como voto.
+
+DECISÃO
+
+CONHECER. DAR PROVIMENTO AO RECURSO. MAIORIA. VENCIDA A 2ª VOGAL
