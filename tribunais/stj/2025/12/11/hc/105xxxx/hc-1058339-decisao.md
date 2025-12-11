@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de GUILHERME GUIMARAES DA MOTA, em que se aponta como autoridade coatora o Desembargador relator do HC n. 2369889-60.2025.8.26.0000 em trâmite no TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta que o paciente foi preso em flagrante, em 14/11/2025, com posterior conversão da custódia em preventiva (fls. 146-149), em razão da suposta prática do ilícito tipificado no art. 35 da Lei n. 11.343/2006.
+A Defesa, pugnando pela revogação da custódia cautelar, impetrou habeas corpus na Corte de origem, tendo o Desembargador relator indeferido o pedido liminar (fls. 24-27).
+Neste writ, a parte impetrante sustenta, em suma, que a segregação processual foi decretada com suporte em fundamentação genérica e que não estão presentes no caso os requisito legais autorizadores da custódia.
+Argumenta que o paciente reúne as condições pessoais favoráveis e que é usuário de drogas, não possuindo qualquer envolvimento com o tráfico de entorpecentes.
+Alega que o paciente foi surpreendido com apenas 15 (quinze) gramas de maconha, o que lhe possibilitaria, em caso de eventual condenação, o reconhecimento da figura privilegiada do tráfico de entorpecentes, tendo em vista que a acusação de associação para o tráfico está desprovida de provas referentes à habitualidade delitiva.
+Requer, em medida liminar e no mérito, a revogação da prisão preventiva e, subsidiariamente, a sua substituição por cautelares alternativas.
+É o relatório.
+Decido.
+De plano, observo que a pretensão não pode ser acolhida por esta Corte Superior, pois a matéria não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário, incidindo analogicamente à hipótese a Súmula n. 691/STF, in verbis:
+Não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar.
+Não vislumbro, em uma análise perfunctória, manifesta ilegalidade a autorizar que se excepcione a aplicação do referido verbete sumular, sobretudo diante da decisão do Desembargador relator do writ originário que, em juízo preliminar, não se sentindo apto para se manifestar com a profundidade ordinária que o caso exige, requisitou informações à autoridade apontada como coatora e o parecer ministerial para melhor firmar a sua convicção sobre o caso.
+Ademais, o Juízo singular destacou que:
+Guilherme, Rafael e Rogério. Na edícula dos fundos, Guilherme admitiu estar em posse de 25 porções de maconha, acondicionadas em embalagens tipo "ziplock", além de R$ 75,00 em espécie, confessando que pretendia comercializar a droga. Posteriormente, indicou outro endereço, na Rua Indiana, nº 321, onde foram encontradas mais porções da mesma substância, uma porção de "ice", embalagens idênticas, tesoura e R$ 200,00. Guilherme ainda afirmou que vendia maconha e que a cocaína era comercializada por seu parceiro conhecido como "Magrão".
+A materialidade delitiva está demonstrada pelas substâncias entorpecentes apreendidas, pelas embalagens utilizadas para fracionamento e comercialização, pelos valores em dinheiro e pela confissão espontânea do autuado. Os indícios de autoria são robustos, especialmente em relação a Guilherme, que admitiu a prática criminosa e indicou outro local de armazenamento de drogas.
+ ..
+Ademais, a gravidade concreta do delito, que justifica a prisão de todos os autuados, é evidenciada pela expressiva quantidade e variedade de drogas apreendidas, revelando que medidas cautelares diversas da prisão, previstas no artigo 319 do CPP, seriam insuficientes para resguardar a ordem pública, nos exatos termos do artigo 282, § 6º, do CPP, demonstrando periculosidade acentuada e risco real de que, em liberdade, voltem a delinquir, tornando qualquer outra medida cautelar inadequada.
+A propósito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO. TRÁFICO DE DROGAS. CONDENAÇÃO. DIREITO DE RECORRER EM LIBERDADE. PERICULOSIDADE SOCIAL. CIRCUNSTÂNCIAS DO CRIME E RISCO DE REITERAÇÃO. NECESSIDADE DE RESGUARDAR A ORDEM PÚBLICA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+ ..
+3. No caso, a prisão preventiva foi mantida na sentença em razão da periculosidade social do paciente, evidenciada pela circunstâncias concretas do crime - foi flagrado com drogas (290g de maconha, 72g cocaína, 6g de crack e 4g de "ecstasy"), contabilidade do tráfico e houve tentativa de fuga. Ainda, a medida foi mantida em razão do risco de reiteração delitiva por tratar-se de réu reincidente que cometeu o crime quando se encontrava cumprindo pena no regime aberto. Prisão mantida para resguardar a ordem pública. Julgados do STJ.
+4. Agravo regimental a que se nega provimento. (AgRg no HC n. 955.412/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 12/2/2025, DJEN de 18/2/2025; grifamos).
+Pois bem. Com suporte nas informações acima, verifico que a decisão monocrática impugnada possui caráter prefacial (atributo típico de decisões liminares), o que inviabiliza a análise das teses defensivas sob pena de se incorrer em indevida supressão de instância.
+Nesse cenário, tenho que a matéria depende de aprofundamento do próprio mérito do habeas corpus, devendo-se reservar primeiramente à Corte impetrada a sua análise, sendo defeso ao Superior Tribunal de Justiça adiantar-se nesse exame, sobrepujando a competência da instância a quo, mormente porque a insurgência, ao que parece, está sendo regularmente processada.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
