@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ANDERSON DAVID FERREIRA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL no julgamento do Habeas Corpus n. 1417182-33.2025.8.12.0000.
+Consta dos autos que o Paciente teve sua prisão preventiva decretada no bojo de investigação conduzida pela Delegacia Especializada de Repressão a Roubos a Banco, Assaltos e Sequestros (GARRAS/MS), sendo denunciado pela suposta prática dos crimes previstos no art. 155, § 4º-B, e art. 288, ambos do Código Penal, e no art. 1º da Lei n. 9.613/1998. Segundo a acusação, o Paciente integraria associação criminosa voltada à prática de furtos mediante fraude eletrônica e lavagem de dinheiro, tendo como vítima, no caso concreto, a Associação Juliano Varela, entidade beneficente que sofreu prejuízo patrimonial aproximado de R$ 60.000,00.
+Irresignada, a Defesa impetrou habeas corpus na origem, cuja ordem foi denegada pelo Tribunal de origem.
+No presente writ, a Defesa sustenta, em síntese, a ocorrência de constrangimento ilegal por excesso de prazo na formação da culpa, aduzindo que o Paciente encontra-se preso há mais de 07 meses sem que a instrução criminal tenha se iniciado.
+Alega, ainda, ausência de contemporaneidade da medida extrema, pois os fatos teriam ocorrido há mais de um ano. Argumenta que o Paciente possui condições pessoais favoráveis e que os delitos imputados não envolvem violência ou grave ameaça, sendo suficientes as medidas cautelares diversas da prisão.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva, com a expedição de alvará de soltura.
+É o relatório.
+Decido.
+É consolidada a jurisprudência deste Superior Tribunal de Justiça no sentido de que a prerrogativa do relator para julgar monocraticamente o habeas corpus e o respectivo recurso não é afastada pelas normas regimentais que preveem a oitiva prévia do Ministério Público Federal (arts. 64, inciso III, e 202 do RISTJ), notadamente quando a matéria se conforma com o entendimento dominante desta Corte (AgRg no HC n. 856.046/SP, de relatoria do Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 24/10/2023, DJe de 30/10/2023).
+Assim, passo a analisar diretamente o pedido formulado na insurgência.
+A aferição de eventual constrangimento ilegal por excesso de prazo não resulta de uma simples soma dos prazos processuais. Trata-se de uma análise que convoca a aplicação do princípio da razoabilidade, segundo o qual a demora no trâmite processual deve ser avaliada à luz das particularidades do caso concreto. A mera extrapolação dos prazos legalmente previstos não induz, de forma automática, o reconhecimento da ilegalidade, sendo imprescindível a demonstração de que a delonga é injustificada e decorre de desídia do aparato judicial (AgRg no HC n. 907.485/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 24/6/2024, DJe de 27/6/2024).
+A análise, portanto, é casuística e demanda uma ponderação entre a duração da prisão e a complexidade da causa, a pluralidade de réus, a necessidade de diligências específicas (como a expedição de cartas precatórias ou a realização de perícias) e a eventual contribuição da defesa para a demora processual.
+No caso em exame, o Tribunal de origem, ao analisar a questão, apresentou fundamentação idônea para afastar, por ora, a alegação de mora processual injustificada. Confira-se o seguinte trecho do acórdão impugnado (fls. 190/191):
+Não há excesso de prazo, considerando que o processo tramita em Campo Grande-MS, envolve a apuração de múltiplos delitos e a existência de vários réus presos cautelarmente em outro Estado, circunstância que exige a expedição de Carta Precatória.
+O excesso de prazo não se verifica por mera soma aritmética, tampouco possui parâmetro fixo, devendo ser analisado conforme as peculiaridades de cada processo.
+Em relação aos requisitos da prisão preventiva, não se pode ter como fator para análise apenas a data do furto qualificado, sendo que "quanto à alegação de ausência de contemporaneidade, embora não seja irrelevante o lapso temporal entre a data dos fatos e o decreto preventivo, a gravidade concreta do delito obstaculiza o esgotamento do periculum libertatis apenas pelo decurso do tempo (STJ. AgRg no HC 564.852/MG, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 12/5/2020, D Je 18/5/2020)."
+No caso em análise, há indícios de que ANDERSON desenvolve atividade criminosa estruturada, com ramificações em diversos Estados e elevado grau de sofisticação, inclusive envolvendo práticas de lavagem de dinheiro, evidenciando um intricado modus operandi entre os delitos.
+Diante desse cenário, configura-se o periculum libertatis e a necessidade de manutenção da prisão preventiva para garantia da ordem pública, inclusive como medida para interromper a continuidade de atividades criminosas.
+O acórdão recorrido justificou a tramitação do feito pela sua elevada complexidade, evidenciada pela pluralidade de réus (seis denunciados), pela natureza dos delitos (incluindo lavagem de dinheiro e crimes cibernéticos) e pela circunstância de os acusados residirem em outra unidade da Federação (São Paulo), enquanto o processo tramita em Mato Grosso do Sul, exigindo a expedição de cartas precatórias para citação e realização de atos instrutórios.
+Ademais, as informações prestadas pela autoridade coatora indicam que o feito segue em regular trâmite, não se vislumbrando inércia estatal injustificada que autorize o relaxamento da prisão. A complexidade intrínseca da causa justifica a dilação dos prazos processuais, encontrando-se a marcha processual dentro dos limites da razoabilidade.
+Este entendimento está em conformidade com a jurisprudência consolidada deste Tribunal:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO E ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. AÇÃO PENAL COMPLEXA. INSTRUÇÃO ENCERRADA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão que negou provimento ao recurso ordinário em habeas corpus, o qual buscava o reconhecimento de constrangimento ilegal por excesso de prazo para o encerramento da instrução criminal.
+2. O agravante está preso preventivamente há 489 dias, sendo acusado da prática de homicídio triplamente qualificado, com a alegação de que a demora na instrução decorre da inércia do Ministério Público na localização de testemunhas arroladas pela acusação.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em definir se há excesso de prazo na formação da culpa que justifique a revogação da prisão preventiva do agravante, diante do lapso temporal de 489 dias sem o término da instrução processual, em razão da não localização de testemunhas de acusação.
+III. RAZÕES DE DECIDIR
+4. A instrução processual foi concluída em 26/5/2025, sendo posteriormente aberto prazo para apresentação de memoriais pelas partes, o que demonstra andamento regular do feito.
+5. A prisão preventiva é regularmente revisada pelo Juízo de origem, conforme determina o art. 316, parágrafo único, do Código de Processo Penal, afastando-se a configuração de ilegalidade manifesta.
+6. A complexidade do processo, que envolve quatro réus, imputações de homicídio triplamente qualificado e atuação de grupo criminoso vinculado ao tráfico de drogas, justifica a dilação temporal da instrução, sem que se configure desídia estatal.
+7. A não localização de testemunhas não pode ser atribuída exclusivamente à acusação, tampouco representa demora irrazoável, pois foram adotadas diligências no curso da persecução penal.
+IV. DISPOSITIVO E TESE
+8. Agravo regimental desprovido.
+Tese de julgamento:
+A existência de pluralidade de réus e a gravidade dos crimes imputados justificam a dilação dos prazos processuais, afastando o reconhecimento de constrangimento ilegal por excesso de prazo.
+A regular reavaliação da prisão preventiva, nos termos do art. 316, parágrafo único, do CPP, contribui para a legalidade da segregação cautelar.
+O encerramento da instrução processual antes do julgamento do agravo reforça a inexistência de demora injustificada ou de desídia estatal. (AgRg no RHC n. 214.915/RS, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 17/6/2025, DJEN de 25/6/2025.)
+DIREITO PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO, TORTURA E VILIPÊNDIO DE CADÁVER. EXCESSO DE PRAZO NA INSTRUÇÃO CRIMINAL. COMPLEXIDADE DO FEITO. AUSÊNCIA DE DESÍDIA ESTATAL. RECURSO IMPROVIDO.
+I. Caso em exame
+1. Recurso ordinário interposto contra o acórdão do Tribunal de Justiça de Pernambuco que denegou habeas corpus, mantendo a prisão preventiva do recorrente, acusado de homicídio qualificado, tortura e vilipêndio a cadáver.
+2. O recorrente alega excesso de prazo na formação da culpa, considerando o tempo de prisão provisória, e requer a expedição de alvará de soltura.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se há excesso de prazo na instrução criminal que justifique a soltura do recorrente, considerando a complexidade do caso e a pluralidade de réus.
+III. Razões de decidir
+4. A análise de eventual excesso de prazo deve ser realizada à luz do princípio da razoabilidade, considerando as particularidades do caso concreto, e não apenas pela soma aritmética dos prazos processuais.
+5. No caso, a complexidade do processo, envolvendo três delitos graves e três acusados com defesas distintas, justifica a delonga processual, não havendo desídia estatal a ser reconhecida.
+6. A gravidade dos delitos e suas circunstâncias, incluindo a morte de uma adolescente após tortura, evidenciam que o tempo de prisão preventiva é razoável, considerando a possível pena em caso de condenação.
+IV. Dispositivo e tese
+7. Recurso improvido.
+Tese de julgamento: "1. A análise de excesso de prazo na instrução criminal deve considerar a razoabilidade e as particularidades do caso concreto. 2. A complexidade do feito e a pluralidade de réus podem justificar a delonga processual sem configurar desídia estatal".
+Dispositivos relevantes citados: Código Penal, art. 121, §2º, I e IV; art. 212; Lei n. 9.455/1997, art. 1º, I, a, c/c §4º, II e III;
+Código Penal, art. 69.Jurisprudência relevante citada: STJ, AgRg no RHC n. 202.354/BA, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 9/4/2025, DJEN de 15/4/2025; STJ, AgRg no RHC n. 181.749/SP, relator Ministro Jesuíno Rissato, Sexta Turma, julgado em 22/4/2024, DJe de 25/4/2024; STJ, AgRg no RHC n. 190.589/BA, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 15/4/2024, DJe de 18/4/2024. (RHC n. 214.837/PE, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 4/6/2025, DJEN de 10/6/2025.)
+Quanto à alegada ausência de contemporaneidade, a jurisprudência desta Corte Superior, orienta que a contemporaneidade dos fatos não deve ser aferida apenas pelo lapso temporal entre a data do delito e a decretação da prisão, mas sim pela persistência dos motivos ensejadores da custódia, notadamente a necessidade de fazer cessar a atividade de organização criminosa e evitar a reiteração delitiva, circunstâncias que renovam o periculum libertatis. Portanto, não há falar em extemporaneidade da medida.
+Por fim, demonstrada a necessidade da prisão para a garantia da ordem pública e a interrupção de atividades de organização criminosa, mostram-se insuficientes as medidas cautelares diversas da prisão previstas no art. 319 do CPP, ainda que o Paciente possua eventuais condições pessoais favoráveis, as quais, por si sós, não garantem a liberdade provisória quando presentes os requisitos do art. 312 do Código de Processo Penal.
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
