@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de THIAGO GUIMARAES MOL - denunciado pelo delito de tráfico de drogas, com apreensão de 245,44 g de cocaína, 373,19 g de maconha e 190,02 g de crack -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, que denegou o Habeas Corpus criminal n. 1.0000.25.431256-4/000.
+Neste writ, a defesa sustenta que a decisão que decretou a prisão preventiva carece de fundamentação idônea, limitando-se a alegações genéricas de risco abstrato à ordem pública.
+Alega, ainda, nulidade decorrente da ausência de fundada suspeita para se proceder às buscas pessoal e veicular.
+Requer, assim, a concessão liminar da ordem para revogar a prisão preventiva.
+É o relatório.
+Inicialmente, quanto às teses de nulidade por ausência de justa causa para as buscas pessoal e veicular, verifico que tais temas não foram apreciados pela corte de origem, razão pela qual não merecem ser conhecidas.
+Ora, não é possível inaugurar, no STJ, o exame de alegações não apreciadas pela instância a quo, sob pena de indevida supressão de instância, violação dos princípios do duplo grau de jurisdição e devido processo legal, bem como alargamento inconstitucional de competência desta Corte para julgamento de habeas corpus (art. 105, I, c, da CF/88). Precedentes (AgRg no HC n. 845.208/RJ, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Sexta Turma, DJe 18/4/2024).
+No mais, infere-se dos autos que a prisão preventiva foi fundamentada na garantia da ordem pública, em razão de ser ele o condutor do automóvel em que era transportada expressiva e diversificada quantidade de entorpecentes, com destino a João Monlevade (fl. 256).
+No caso, a despeito de a segregação cautelar se encontrar devidamente justificada, pois o Juízo de piso destacou a quantidade de entorpecente apreendido, o paciente, aparentemente, é réu primário, o crime foi perpetrado sem violência ou grave ameaça, não se extrai dos autos que o acusado integre organização criminosa e a quantidade de droga apreendida, apesar de signi ficativa, não pode ser considerada exorbitante a ponto de justificar, por si só, a prisão (245,44 g de cocaína, 373,19 g de maconha e 190,02 g de crack), circunstâncias que firmam a possibilidade de substituição da prisão por cautelares diversas.
+As circunstâncias do caso evidenciam a necessidade de algum acautelamento da ordem pública; contudo, não se mostram aptas, em juízo de proporcionalidade, a embasar uma segregação corpórea.
+Importante salientar que, com o advento da Lei n. 12.403/2011, a prisão cautelar passou a ser, mais ainda, a mais excepcional das medidas, devendo ser aplicada somente quando comprovada a inequívoca necessidade, devendo-se sempre verificar se existem medidas alternativas à prisão adequadas ao caso concreto" (HC n. 305.905/SP, de minha relatoria, Sexta Turma, julgado em 4/12/2014, DJe 17/12/2014) -(AgRg no RHC n. 210.080/RS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN 26/2/2025).
+Assim, concedo liminarmente a ordem para substituir a prisão cautelar imposta ao paciente por medidas alternativas à prisão, a serem estabelecidas e fiscalizadas pelo Magistrado singular, salvo se estiver preso por outro motivo, podendo o Juízo de primeiro grau decretar novamente a segregação cautelar, desde que fundamentadamente.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. 245,44 G DE COCAÍNA, 373,19 G DE MACONHA E 190,02 G DE CRACK. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. AUSÊNCIA DE FUNDAMENTOS SUFICIENTES A JUSTIFICAR A MANUTENÇÃO DA PRISÃO. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem concedida liminarmente.
