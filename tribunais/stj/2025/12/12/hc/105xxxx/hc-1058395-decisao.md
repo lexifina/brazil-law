@@ -1,0 +1,36 @@
+DECISÃO
+LEONARDO CHARDULO WESTEMAIER alega sofrer coação ilegal, em decorrência de decisão do Juiz Federal Convocado do Tribunal Regional Federal da 4ª Região que, ao indeferir o pedido liminar no HC n. 5039500-62.2025.4.04.0000, manteve a fiança estabelecida pelo Juízo de primeiro grau.
+Informam os autos que o juízo de primeiro grau concedeu liberdade provisória, mediante o pagamento de fiança, ao paciente, preso em flagrante pela suposta prática do delito de contrabando.
+A defesa pretende o afastamento ou a redução do valor da fiança, sob o argumento de ausência de fundamentação da decisão e hipossuficiência para o pagamento de R$ 20.000,00.
+Decido.
+De acordo com o explicitado na Constituição Federal (art. 105, I, "c"), não compete a este Superior Tribunal conhecer de habeas corpus impetrado contra decisão denegatória de liminar, por desembargador, antes de prévio pronunciamento do órgão colegiado de segundo grau, salvo se evidenciada, sem necessidade de exame mais vertical, a apontada violação ao direito de liberdade do paciente, o que verifico na espécie.
+Com efeito, o Juiz de primeiro grau, mesmo reconhecendo não estarem presentes os requisitos para decretação da segregação cautelar e não haver pedido ministerial nesse sentido, estabeleceu fiança sem apresentar fundamentação idônea, in litteris (fls. 191-193, grifei):
+No presente caso, não verifico a necessidade de decretação da prisão preventiva do indiciado, ante a inocorrência dos requisitos do art. 312 do CPP. Com efeito, a manutenção da prisão do flagrado não se faz necessária como garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, desde que haja outra cautela capaz de vincular o flagrado à investigação e a eventual ação penal.
+Além disso, no caso em apreço não se verificam as circunstâncias recentemente elencadas no § 5º do art. 310 do CPP, incluído pela Lei n. 15.272/2025:
+ ..
+Também não se encontram presentes os critérios de periculosidade previstos no § 3º do art. 312, incluídos pela Lei n. 15.272/2025:
+ ..
+Por essas razões, deve ser concedido o benefício da liberdade provisória, nos termos do art. 310, III do CPP, mediante o recolhimento de fiança como forma de vincular o preso ao feito e inibir a prática de novas condutas delitivas. Apenas com o recolhimento efetivo da cautela se pode dizer que desaparecem as hipóteses de risco à aplicação da lei e à ordem pública, pois impõe vinculo jurídico oneroso ao flagrado em caso de descumprimento.
+ ..
+Ressalto que o delito de contrabando de cigarros é altamente lucrativo e, por sua natureza, exige considerável disponibilidade financeira, seja dos executores, seja dos mandantes, para adquirir a mercadoria internalizada ilegalmente, bem como para realizar o transporte dela a partir da fronteira internacional com o Paraguai.
+No caso específico ora examinado, foram apreendidas cerca de 10 caixas (aproximadamente 5.000 maços) de cigarros paraguaios acondicionados em um veículo GM/Vectra, placas CHT4422, conforme constou no Termo de Apreensão nº 4647786/2025.
+Por outro lado, as certidões de antecedentes criminais são negativas (evento 3).
+Apesar da quantidade não ser tão elevada em comparação aos padrões das apreensões nesta região fronteiriça, consta que os cigarros foram localizados atrás dos bancos traseiros e no assoalho próximo ao banco dianteiro, acondicionados em plástico preto, indicando possível interação com organização criminosa especializada no contrabando de cigarros.
+Com base nestes elementos, especialmente a considerável disponibilidade financeira do contratante diante do lucro elevado com o contrabando de cigarros, verifica-se não ser possível a fixação de fiança em patamar próximo do mínimo.
+Assim, atento ao que dispõe o art. 326 do Código de Processo Penal, considerando as circunstâncias acima descritas, fixo a fiança em R$ 20.000,00 (vinte mil reais).
+Tais elementos atestam a plausibilidade jurídica do direito tido como violado, sobretudo em razão de o Superior Tribunal de Justiça entender que "a aplicação de medidas cautelares, aqui incluída a prisão preventiva, requer análise, pelo julgador, de sua necessidade e adequação, a teor do art. 282 do CPP, observando-se, ainda, se a constrição é proporcional ao gravame resultante de eventual condenação" (PExt no HC n. 390.292/SP, Rel. Ministro Jorge Mussi, 5ª T., DJe 14/6/2017, destaquei).
+A esse respeito, como bem apontado por Eugênio Pacelli, "tanto para as medidas cautelares diversas da prisão (arts. 319 e 320, CPP), quanto para a decretação da prisão preventiva (art. 312, CPP), estão presentes as mesmas exigências, quanto ao juízo de necessidade da restrição ao direito (garantir a aplicação da lei penal e a eficácia da investigação e da instrução criminal)".
+O autor ainda destaca que "a referência feita à adequação da providência (art. 282, II, CPP), tendo em vista a gravidade e demais circunstâncias do fato, bem como as condições pessoais do indiciado (na investigação), ou, do acusado (no processo), vem a ser, na realidade, a verdadeira pedra de toque do novo sistema de cautelares" (PACELLI, Eugênio. Curso de processo penal. 17 ed., rev., ampl. e atual. São Paulo: Atlas, 2013, p. 503).
+No caso dos autos, pela leitura da decisão não se pode extrair a indicação de nenhum elemento concreto dos autos, pelo Juízo singular, para demonstrar a presença dos requisitos previstos no art. 282 do Código de Processo Penal.
+Além disso, o próprio Magistrado afirmou que não estão presentes os requisitos do art. 312 do CPP e que "a manutenção da prisão do flagrado não se faz necessária" (fl. 191).
+Assim, verifico que não se mostram suficientes as razões invocadas pelo Juízo singular para justificar a imprescindibilidade de medidas cautelares diversas (inclusive a fiança), porquanto deixou de contextualizar adequadamente a necessidade de sua imposição, o que determina a concessão da ordem de habeas corpus.
+Ilustrativamente:
+ ..
+2. Para a aplicação das medidas cautelares diversas da prisão, exige-se, assim como na prisão preventiva, fundamentação específica que demonstre a necessidade da medida em relação ao caso concreto. Nesse sentido: RHC n. 69.406-PR - 6ª T. - unânime - Rel. Min. Nefi Cordeiro - DJe 5/4/2016; HC n. 357881-RJ - 6ª T. - unânime - Rel. Min. Nefi Cordeiro - DJe 27/5/2016.
+ ..
+4. Agravo regimental provido para conhecer do recurso em habeas corpus, e dar-lhe provimento, a fim de revogar as medidas cautelares estabelecidas, sem prejuízo de nova e fundamentada decisão de necessárias medidas cautelares penais.
+(AgRg no RHC n. 77.693/PA, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 7/4/2017, destaquei)
+Nesse mesmo sentido, mutatis mutandis: RHC n. 44.943/RJ, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 4/2/2015; RHC n. 72.820/SP, Rel. Ministro Rogerio Schietti Cruz, 6ª T., DJe 16/04/2018.
+À vista do exposto, concedo in limine a ordem para afastar a exigência de fiança e assegurar ao pa ciente o direito de responder à ação penal sem ônus cautelar, ressalvada a possibilidade de nova avaliação, mediante decisã o fundamentada, sobre a necessidade de imposição de medida de natu reza cautelar.
+Publique-se. Intimem-se.
+EMENTA
