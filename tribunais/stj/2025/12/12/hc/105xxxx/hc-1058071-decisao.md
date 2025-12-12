@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de MARCO ANTONIO BERNASCONI, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Agravo de Execução Penal nº 0025342-61.2025.8.26.0996).
+Consta dos autos que o paciente foi condenado à pena de 01 mês e 05 dias de detenção, em regime semiaberto. O juízo da execução penal indeferiu o pedido de prisão domiciliar.
+Inconformada, a defesa ingressou na origem com agravo de execução penal, o qual foi desprovido nos termos da ementa abaixo (fl. 20):
+Agravo em execução penal - Recurso do apenado - Prisão domiciliar - Pretensão de concessão do benefício a sentenciado em regime semiaberto - Impossibilidade - Regra do art. 117 da LEP que se destina ao regime aberto - Excepcionalidade humanitária não demonstrada - Ausência de comprovação de que o estabelecimento prisional não possui condições de fornecer o tratamento médico adequado ao reeducando - Pleito subsidiário - Perícia médica judicial - Pedido não apreciado pelo juízo de origem - Não conhecimento, sob pena de supressão de instância - Recurso conhecido em parte e, na parte conhecida, não provido.
+Neste habeas corpus, o impetrante sustenta que o paciente é portador de Transtorno Afetivo Bipolar, episódio atual misto (CID F31.6), em polifarmácia, com risco de suicídio e necessidade de acompanhamento contínuo em CAPS, afirma urgência qualificada pela pena exígua de 1 (um) mês e 5 (cinco) dias.
+Aponta constrangimento ilegal na interpretação restritiva de "assistência médica adequada" e a insuficiência do ambiente carcerário para o manejo psiquiátrico, e alega omissão do Tribunal de origem ao não determinar perícia médica judicial, criando limbo probatório (fls. 2/6).
+A defesa requer, liminarmente, salvo-conduto para aguardar o julgamento em liberdade ou em prisão domiciliar humanitária; no mérito, a concessão definitiva da prisão domiciliar humanitária; subsidiariamente, o afastamento da supressão de instância e a determinação para que o Tribunal de origem julgue imediatamente o pedido de perícia médica judicial, com o paciente em liberdade até a solução da questão.
+É o relatório. DECIDO.
+A defesa almeja a concessão de prisão albergue domiciliar para o resguardo de saúde do paciente, embora já tenha sido condenado definitivamente ao cumprimento de pena no regime inicial semiaberto.
+Da análise dos elementos informativos constantes dos autos, não verifica-se a flagrante ilegalidade a legitimar a atuação desta Corte.
+Para melhor elucidação do tema, confiram-se os fundamentos utilizados pelo julgado impugnado (fls. 22-23):
+Pois bem, em relação ao pleito de prisão domiciliar, o recurso não comporta provimento.
+A regra geral, disposta no art. 117 da Lei de Execução Penal, elenca hipóteses de prisão domiciliar restritas aos apenados em regime aberto, o que não é o caso do agravante.
+ ..
+Embora a jurisprudência dos Tribunais Superiores admita, em caráter excepcionalíssimo, a concessão da benesse a reeducandos de regimes mais gravosos, tal medida humanitária exige a comprovação inequívoca de dois requisitos cumulativos: a extrema debilidade do sentenciado por motivo de doença grave e a manifesta impossibilidade de o estabelecimento prisional prover a assistência médica necessária.
+Na hipótese vertente, embora, com efeito, tenha o agravante colacionado atestado médico recente, de 03 de outubro de 2025 (fls. 15), a atestar ser o sentenciado portador de transtorno afetivo bipolar com episódio atual misto (F31.6, CID-10), o segundo requisito não se faz presente. Conforme bem salientado pelo MM. Juiz a quo, não há demonstração de que o tratamento de saúde indicado ao agravante consubstanciado na utilização de medicamentos - não possa ser ministrado na unidade prisional.
+Ausente a prova da excepcionalidade da situação, inviável a concessão do benefício. A existência de comorbidades, por si só, não autoriza a concessão da prisão domiciliar a quem cumpre pena em regime semiaberto, se o Estado fornece a devida assistência à saúde.
+Por outro lado, a pretensão de determinação de realização de perícia médica judicial de urgência, por perito psiquiatra nomeado pelo juízo, não pode ser conhecida, sob pena de indevida supressão de instância, uma vez que tal pleito não restou analisado pelo juízo de origem. Assim, o pedido postulado subsidiariamente deverá ser analisado, em primeiro lugar, pelo juízo de primeira instância.
+A jurisprudência do Superior Tribunal de Justiça é assente no sentido de que, embora o art. 117 da Lei de Execução Penal estabeleça como requisito para a concessão de prisão domiciliar o cumprimento da pena no regime prisional aberto, é possível a extensão do benefício aos condenados recolhidos no regime fechado ou semiaberto.
+Para tanto, deve ser demonstrada a excepcionalidade do caso concreto que indique a imprescindibilidade da medida, exigindo-se a comprovação da debilidade do condenado e a constatação de que o tratamento adequado ao restabelecimento de sua saúde encontra-se comprometido pela inexistência de assistência necessária no interior do estabelecimento prisional.
+Nesse sentido:
+"A teor dos julgados desta Corte, é admissível, por interpretação extensiva do art. 117 da LEP, a concessão da prisão domiciliar "no caso de regime prisional diverso do aberto, excepcionalmente, em face de comprovada doença grave, se o tratamento médico necessário não puder ser ministrado no presídio" (HC n. 755.764/SP, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), 5ª T., DJe 26/8/2022).
+ ..
+(AgRg no HC n. 859.644/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 18/4/2024).
+"1. Consoante orientação desta Corte Superior, em regra, a concessão de prisão domiciliar só é admitida em favor de preso inserido no regime aberto, nos termos do art. 117 da Lei de Execução Penal - LEP.
+2. Contudo, quando ficar comprovado que o recluso é acometido por doença grave, com debilidade acentuada de sua saúde, e que o tratamento médico necessário não pode ser prestado no ambiente prisional, admite-se, de forma excepcional, a colocação em prisão domiciliar de presos dos regimes fechado ou semiaberto.
+3. Na hipótese dos autos, as instâncias ordinárias destacaram que o paciente está tendo o tratamento adequado no estabelecimento prisional. Para afastar essa conclusão, é necessário o revolvimento do conjunto fático-probatório, providência incompatível com a estreita via do habeas corpus.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 801.974/AL, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 14/8/2023, DJe de 16/8/2023.)"
+Na mesma linha, o Enunciado n. 26 da I Jornada de Direito Processual Penal do Conselho Nacional de Justiça afirma que:
+"É possível, em situações excepcionais, a aplicação da prisão domiciliar humanitária, prevista no art. 117 da Lei n. 7.210/1984, também aos condenados em cumprimento de regime fechado e semiaberto".
+A Suprema Corte também tem admitido, em situações absolutamente excepcionais, a concessão de prisão domiciliar a regimes mais severos de execução penal, a exemplo das ordens implementadas nas hipóteses em que o condenado estiver acometido de doença grave a demandar tratamento específico, incompatível com o cárcere ou impassível de ser oferecido pelo Estado (AgR na AP n. 996, Ministro Edson Fachin, Segunda Turma, DJe 29/9/2020). Nesse mesmo sentido: HC n. 194.217, Ministra Cármen Lúcia, DJe 15/12/2020. (grifei)
+Segundo afirmado pelo juízo da execução: "não há demonstração de que a doença impeça o cumprimento da pena, bem como da impossibilidade do tratamento médico necessário na unidade prisional" (fl. 32).
+Portanto, de acordo com o entendimento esposado pelas instâncias ordinárias, não ficou comprovado que o paciente não possa receber o tratamento médico necessário - consubstanciado na utilização de medicamentos - no estabelecimento prisional. Além disso, não é possível a verificação direta do estado de saúde do recorrente pelo Superior Tribunal de Justiça, porque tal análise demandaria incursão fático-probatória, inviável na via do habeas corpus. Nesse sentido:
+"Para o deferimento de prisão domiciliar não bastam meras alegações de que o réu se encontra acometido de enfermidade, mas se requer a demonstração inequívoca da debilidade extrema, bem como da impossibilidade de tratamento no estabelecimento prisional (AgRg no HC n. 814.504/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/4/2023, DJe de 3/5/2023), o que não restou demonstrado no caso em apreço.
+3. Agravo regimental improvido.
+(AgRg no HC n. 828.338/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 11/9/2023, DJe de 14/9/2023.)
+"6. A verificação acerca do estado de saúde do agravante, para fins de concessão de prisão domiciliar, nos termos do art. 318, II, do CPP, demandaria detido e profundo revolvimento fático-probatório, o que é inviável na via do habeas corpus.
+7. Agravo regimental desprovido."
+(AgRg no HC n. 891.325/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 29/4/2024, DJe de 3/5/2024.)
+"Desse modo, modificar as conclusões da instância pretérita, a fim de substituir a custódia cautelar por prisão domiciliar, implicaria em necessário revolvimento de fatos e provas, o que e inviável na estreiteza procedimental do writ.
+9. Habeas Corpus denegado."
+(HC n. 820.075/SC, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Sexta Turma, julgado em 20/6/2023, DJe de 27/6/2023.)
+Quanto ao pedido de perícia médica judicial, verifica-se que o Tribunal de Justiça não analisou o mérito da controvérsia, pois tal pleito não restou analisado pelo juízo de origem.
+Assim, conforme ressaltado no acórdão impugnado, o pedido deve ser primeiramente analisado pelo juízo de primeira instância, sob pena de indevida supressão de instância. Por essa razão, a falta de apreciação da matéria pelo Tribunal a quo não configura negativa de prestação jurisdicional.
+Portanto, a análise do pedido se mostra incabível neste momento, devendo, se for o caso, ser suscitados em novo habeas corpus, após apreciação pelas instâncias de origem.
+Assim, não vislumbro a ocorrência de flagrante ilegalidade ou teratologia a ensejar a concessão da ordem.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
