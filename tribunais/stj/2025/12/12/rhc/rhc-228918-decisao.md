@@ -1,0 +1,13 @@
+DECISÃO
+KAIKY BRUNO GONÇALVES DE SOUZA, acusado por tráfico de drogas e porte ilegal de arma de fogo, interpõe recurso em habeas corpus contra acórdão proferido pelo Tribunal de Justiça do Estado Minas Gerais, que denegou a ordem impetrada naquela Corte, na qual pretendia a revogação da preventiva, objetivo este reiterado liminarmente nesta oportunidade.
+O caso comporta o julgamento antecipado, visto que se adequa a pacífica orientação desta Corte em casos similares, todos contrários à pretensão defensiva.
+De fato, infere-se dos autos que o insurgente foi preso em flagrante pela suposta prática de tráfico de drogas e porte ilegal de arma de fogo, cuja constrição foi manitda pelo Tribunal de origem nestes termos, no que interessa (fl. 116, destaquei):
+ ..
+Conforme se observa da referida decisão, a medida extrema está fundamentada na gravidade concreta dos fatos já que, em tese, foi apreendida significativa quantidade de entorpecente e também uma arma de fogo, bem como para evitar a reiteração delitiva, na medida em que ele ostenta registros criminais em seu desfavor, possuindo, inclusive, condenação recente por tráfico de drogas, e em liberdade, poderá encontrar os mesmos estímulos para continuar a delinquir.
+Deveras, conforme tenho assinalado em diversas oportunidades, a prisão preventiva possui natureza excepcional, sempre sujeita a reavaliação, de modo que a decisão judicial que a impõe ou a mantém, para compatibilizar-se com a presunção de não culpabilidade, deve ser suficientemente motivada, com indicação concreta das razões fáticas e jurídicas que justificam a cautela.
+No caso, observa-se que foi realçada a existência de registros criminais por outros delitos - o insurgente, inclusive, foi condenado recentemente -, situação que denota a probabilidade de reiteração delitiva. Assim, ficou devidamente explicitada fundamentação suficiente, na linha da orientação desta Corte, para a manutenção da prisão e que afasta a possibilidade de concessão de medidas cautelares alternativas.
+Nessa direção, é firme a orientação deste Superior Tribunal, de que "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (RHC n. 108.629/MG, relator Ministro Antonio Saldanha Palheiro, DJe 11/6/2019).
+Diante do exposto, com fundamento nos arts. 34, XX c/c 246, ambos do RISTJ, nego provimento in limine ao recurso em habeas corpus.
+Dê-se ciência ao Ministério Público Federal.
+Publique-se e intimem-se.
+EMENTA
