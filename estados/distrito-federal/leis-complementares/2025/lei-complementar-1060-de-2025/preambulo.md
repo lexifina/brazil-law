@@ -1,0 +1,4 @@
+# LEI COMPLEMENTAR Nº 1.060, DE 10 DE DEZEMBRO DE 2025
+(Autoria: Deputado Rogério Morro da Cruz)
+Altera a Lei Complementar nº 925, de 28 de junho de 2017, que "dispõe sobre a reversão ao Tesouro do Distrito Federal do superávit financeiro de órgãos e entidades da administração direta e indireta integrantes dos orçamentos fiscal e da seguridade social do Distrito Federal e dá outras providências", e revoga dispositivo da Lei Complementar nº 704, de 18 de janeiro de 2005, que "cria o Fundo para a Geração de Emprego e Renda do Distrito Federal, altera o § 2º do art. 25 da Lei 3.196, de 29 de setembro de 2003 e dá outras providências".
+O Presidente da Câmara Legislativa do Distrito Federal, nos termos do § 6º do art. 74 da Lei Orgânica do Distrito Federal, promulga a seguinte Lei Complementar, oriunda de projeto vetado pelo Governador do Distrito Federal e mantido pela Câmara Legislativa do Distrito Federal:
