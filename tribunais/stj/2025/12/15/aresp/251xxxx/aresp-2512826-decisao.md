@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de agravo interposto por ADIEL COSTA MACEDO contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS cuja ementa guarda os seguintes termos (fl. 199):
+APELAÇÃO CÍVEL. AÇÃO DE ARBITRAMENTO E COBRANÇA DE HONORÁRIOS ADVOCATÍCIOS. CONTRATO VERBAL. SERVIÇOS PRESTADOS. COMPROVAÇÃO. FIXAÇÃO. IMPOSSIBILIDADE DE REDUÇÃO DE HONORÁRIOS ADVOCATÍCIOS ESTABELECIDOS DENTRO DOS PARÂMETROS DO § 2º, DO ART. 85 DO CPC. SENTENÇA MANTIDA.
+1. O contrato de prestação de serviços advocatícios poderá ser verbal, revelando-se desnecessária a forma escrita, bastando, apenas, a prova de tal prestação.
+2. Os honorários advocatícios deverão ser arbitrados de maneira a remunerar, efetivamente, o trabalho realizado pelo causídico.
+3. Os honorários advocatícios sucumbenciais devem observar o percentual mínimo de 10 (dez) e máximo de 20 (vinte) por cento, ex vi do artigo 85, § 2º, do Código de Processo Civil. Assim, por já ter sido fixado dentro da proporção estabelecido em lei, incomportável é o pleito do Apelante de redução.
+4. HONORÁRIOS RECURSAIS. Considerando o desprovimento do recurso, mister a majoração dos honorários advocatícios, nos termos do art. 85, § 11º do Código de Ritos. APELAÇÃO CÍVEL CONHECIDA E DESPROVIDA.
+Rejeitados os embargos de declaração opostos (fls. 231-239).
+No recurso especial, alega a parte recorrente que o acórdão contrariou as disposições contidas nos artigos 373, I e II, do CPC e 22, §2º, da Lei n. 8.906/1994.
+Sustenta que o Tribunal de origem atribuiu indevidamente ao recorrente (réu) o ônus de provar a base de cálculo dos honorários, quando a autora (recorrida) alegou contrato verbal e pretendia cobrança com base no "proveito econômico" sem prova robusta do ajuste.
+Afirma que, sendo fato constitutivo (base de cálculo pactuada), o ônus probatório é da autora, nos termos do art. 373, I, e não do réu, pelo inciso II. O Tribunal, contudo, manteve a condenação ao afirmar inexistir ausência de provas e apoiou-se na Tabela da OAB e no "valor econômico da causa", o que, segundo o recorrente, contraria a distribuição legal do ônus da prova.
+Argumenta que houve aplicação equivocada do arbitramento judicial, pois existiria ajuste verbal (contrato) e a controvérsia seria apenas sobre a base de cálculo. Nessas condições, não caberia fixação por arbitramento como se houvesse "falta de estipulação ou acordo", nem a imposição de piso "não inferior" ao da Tabela da OAB como se norma cogente fosse. A Corte de origem manteve a sentença por seus próprios fundamentos e afirmou que a remuneração não poderia ser inferior à Tabela da OAB, aplicando o § 2º do art. 22 como premissa decisória, o que o recorrente reputa contrariedade à lei federal.
+Sem contrarrazões ao recurso especial (fl. 298).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 299-301), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo (fl. 355).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Cinge-se a controvérsia na definição da base de cálculo dos honorários advocatícios ajustados verbalmente entre as partes: se incide sobre o proveito econômico obtido (com arbitramento judicial nos termos do art. 22, § 2º, da Lei n. 8.906/1994 e parâmetros da Tabela da OAB), como decidiu o Tribunal de origem, ou se deve incidir sobre o valor atribuído à causa, como sustenta o recorrente, com distribuição do ônus da prova à autora quanto ao fato constitutivo (art. 373, I, do Código de Processo Civil).
+O Tribunal de origem concluiu no sentido de que a prestação de serviços advocatícios é incontroversa e que há prova documental do inadimplemento e do serviço prestado, mantendo a condenação com base em arbitramento nos termos do art. 22, § 2º, da Lei n. 8.906/1994 e nos parâmetros da Tabela da OAB, como se pode depreender do seguinte trecho extraído do acórdão recorrido (fls. 201-202):
+Da detida análise dos elementos constantes dos autos, verifica-se ser incontroversa a prestação de serviços advocatícios no processo citado na exordial. Sendo inconteste a efetiva atuação da advogada, é devida a remuneração. Logo, circunscreve-se a controvérsia exclusivamente a respeito da base de cálculo dos honorários advocatícios. É sabido que o trabalho da autora está alinhado ao que determina o caput e o § 2º, do art. 22, da Lei 8.906/94, verbis:
+"Art. 22. ( ) § 2º Na falta de estipulação ou de acordo, os honorários são fixados por arbitramento judicial ( )".
+Tenho que a sentença merece ser mantida por seus próprios fundamentos, não superados pelas razões recursais, pois enfrentou a matéria com propriedade e correção, motivo porque, transcrevendo-se, passam seus fundamentos a integrar as razões de decidir do voto, a fim de evitar tautologia:
+"A demandante colecionou aos digitais prova documental indicativa do inadimplemento, bem como do serviço prestado nos autos da ação trabalhista.
+Dada oportunidade, o requerido restringiu-se a alegar inexistência de contrato escrito formal, que a base de calculo não fora previamente combinada, e que todavia os honorários advocatícios seriam de 15% sobre o valor atribuído da causa. ( )
+Assim, com base no que foi constatado, correta a sentença proferida pelo MM. Juiz a quo, que levou em consideração a remuneração compatível com o trabalho e o valor econômica da causa, não podendo ser inferiores aos estabelecidos pela Tabela da OAB, assim como não procede a alegação de ausência de provas."
+Afastar o referido entendimento para concluir no sentido de que não há provas suficientes da base de cálculo ajustada e que o ônus da prova incumbia à autora, devendo a base de cálculo ser o valor atribuído à causa, como pretende o recorrente, demandaria o reexame do material fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 18% sobre o valor atualizado da condenação, observada eventual concessão de gratuidade de justiça.
+Publique-se. Intime-se.
+ EMENTA
