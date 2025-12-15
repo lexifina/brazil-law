@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de agravo interposto por PETROGOIAS DISTRIBUIDORA DE PETROLEO LTDA. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS cuja ementa guarda os seguintes termos (fl. 216):
+AGRAVO DE INSTRUMENTO. AÇÃO DE CONHECIMENTO COM PEDIDO DE RESOLUÇÃO CONTRATUAL. RECURSO SECUNDUM EVENTUM LITIS. RECONVENÇÃO. INADIMPLEMENTO CONTRATUAL. NOTA PROMISSÓRIA APRESENTADA COMO ELEMENTO PROBATÓRIO. PRESCRIÇÃO DECENAL. APLICAÇÃO DO ART. 205 DO CC. PRECEDENTES DO STJ. DECISÃO MANTIDA.
+1. O agravo de instrumento é recurso secundum eventum litis e deve limitar-se ao exame do acerto ou não da decisão prolatada pelo juízo a quo, não devendo subsistir, pelo juízo ad quem apreciação acerca de matéria estranha ao ato judicial vituperado, sob pena de incorrer em supressão de um grau de jurisdição.
+2. Muito embora o crédito perseguido pelo agravado esteja materializado por notas promissórias, não se trata aqui da cobrança dos próprios títulos, os quais servem, pela análise da narrativa, apenas como prova das relações negociais em que o agravante/reconvindo não teria cumprido sua obrigação de pagamento.
+3. As notas promissórias emitidas em favor do autor constituem mero princípio de prova da relação jurídica alegada, não se confundindo com título de crédito propriamente dito.
+4. Estando a pretensão em tratativa relacionada ao suposto descumprimento de deveres contratuais, o prazo para a prescrição é decenal, conforme corretamente decidiu o magistrado primevo, sendo inaplicável os prazos prescricionais de 3 (três) anos previsto na LUG e de 5 (cinco) anos do CC (art. 206, § 5º, I).
+5. Para o STJ, "para o efeito da incidência do prazo prescricional, o termo "reparação civil" não abrange a composição de toda e qualquer consequência negativa, patrimonial ou extrapatrimonial, do descumprimento de um dever jurídico, mas, de modo geral, designa indenização por perdas e danos, estando associada às hipóteses de responsabilidade civil, ou seja, tem por antecedente o ato ilícito. Por observância à lógica e à coerência, o mesmo prazo prescricional de dez anos deve ser aplicado a todas as pretensões do credor nas hipóteses de inadimplemento contratual, incluindo o da reparação de perdas e danos por ele causados" (EREsp 1.280.825 - RJ).
+RECURSO DE AGRAVO DE INSTRUMENTO CONHECIDO E DESPROVIDO. DECISÃO MANTIDA.
+Rejeitados os embargos de declaração opostos (fls. 258-267 e 295-305).
+No recurso especial, alega a parte recorrente que o acórdão contrariou as disposições contidas nos artigos 205 e 206, §5º, I, do CC.
+Sustenta, em síntese, que, como a primeira e a última notas venceram, respectivamente, em 13/4/2015 e 24/10/2015, a prescrição ocorreu em 13/4/2020 e 24/10/2020, sem marco interruptivo válido, impondo o reconhecimento da prescrição quinquenal da pretensão reconvencional.
+Aponta divergência jurisprudencial.
+Foram oferecidas contrarrazões ao recurso especial (fls. 409-424).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 427-430), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 2.108-2.117).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Cinge-se a controvérsia em definir o prazo prescricional aplicável à pretensão reconvencional.
+O Tribunal de origem concluiu no sentido de que a pretensão reconvencional está lastreada no descumprimento dos termos do contrato e que os documentos (notas promissórias/notas fiscais) apresentados são apenas elementos probatórios da relação negocial, aplicando-se o prazo decenal, como se pode depreender do seguinte trecho extraído do acórdão recorrido (fls. 221-224):
+ ..  a reconvenção cuja prescrição está sendo discutida no presente recurso, versa sobre a cobrança, pelo agravado, de valores referentes às mercadorias que supostamente foram entregues ao agravante entre os dias 13/04 e 24/10/2015, em razão do mesmo contrato de compra e venda objeto da petição inicial.
+Como se vê, ao contrário do que defende o agravante, a pretensão estampada na reconvenção está intimamente ligada à relação jurídica discutida na ação principal, sendo capaz inclusive de ensejar eventual compensação parcial de dívidas.
+Nesse contexto, é evidente que a causa de pedir da reconvenção refere-se ao descumprimento dos termos contratuais firmados entre as partes e não à execução de título extrajudicial ou mesmo constituição dele (ação monitória), cujos prazos prescricionais, de fato, são trienais e quinquenais, respectivamente.
+Com efeito, muito embora o crédito perseguido pelo agravado esteja materializado por notas promissórias, não se trata aqui da cobrança dos próprios títulos, os quais servem, pela análise da narrativa, apenas como prova das relações negociais em que o agravante/reconvindo não teria cumprido sua obrigação de pagamento.
+Dito de outro modo, objetivando comprovar os fatos constitutivos do seu direito, o reconvinte poderia instruir seu pedido com recibos, planilhas ou quaisquer outros documentos probatórios admitidos pela lei processual civil, no entanto, optou por apresentar notas promissórias. Logo, as notas promissórias emitidas em favor do autor constituem mero princípio de prova da relação jurídica alegada, não se confundindo com título de crédito propriamente dito.
+ ..
+Sob essa perspectiva, estando a pretensão em tratativa relacionada ao suposto descumprimento de deveres contratuais, o prazo para a prescrição é decenal, conforme corretamente decidiu o magistrado primevo, sendo inaplicável os prazos prescricionais de 3 (três) anos previsto na Lei Uniforme de Genébra (LUG) e de 5 (cinco) anos do Código Civil (art. 206, § 5º, I).
+A esse respeito, o Superior Tribunal de Justiça firmou entendimento no sentido de que nas controvérsias relacionadas à responsabilidade contratual, aplica-se a regra prevista no artigo 205 do Código Civil, que prevê dez anos de prazo prescricional e, quando se tratar de responsabilidade extracontratual, aplica-se o disposto no artigo 206, § 3º, V, da mesma legislação, com prazo de três anos.
+ ..
+Na espécie, o suposto débito mais antigo venceu em abril de 2015, devendo este ser considerado o termo inicial do prazo prescricional. Lado outro, a reconvenção em testilha foi apresentada em junho 2021 (movimento 32 dos autos de origem), ou seja, 6 (seis) anos e dois meses após a primeira data mencionada.
+Assim sendo, considerando que o prazo prescricional na hipótese é decenal, como explicado alhures, a pretensão da parte agravada não se encontra fulminada pela prescrição, de modo que a decisão recorrida deve ser mantida neste ponto.
+Desse modo, considerando a fundamentação do acórdão objeto do recurso especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fático-probatória e interpretação das cláusulas contratuais, procedimentos vedados a esta Corte, em razão dos óbices das Súmulas n. 5 e 7/STJ.
+A incidência da Súmula n. 7 do STJ quanto à interposição pela alínea "a " do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+Publique-se. Intime-se.
+ EMENTA
