@@ -1,0 +1,104 @@
+DECISÃO
+Cuida-se de recurso especial interposto por JONAS CASTRO NASCIMENTO, com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE RORAIMA (fl. 465):
+AGRAVO INTERNO EM APELAÇÃO CÍVEL - AÇÃO DE BUSCA E APREENSÃO - INADIMPLEMENTO CONTRATUAL - GOLPE DO WHATSAPP - AUSÊNCIA DE RESPONSABILIDADE DA INSTITUIÇÃO FINANCEIRA - INEXISTÊNCIA DE RAZÕES À ALTERAÇÃO DO JULGADO - RECURSO DESPROVIDO.
+1. "O Superior Tribunal de Justiça perfilha o entendimento de que se faz necessária a comprovação da existência de nexo de causalidade entre as atividades desempenhadas pela instituição financeira e o dano experimentado pela parte consumidora, excluindo-se a responsabilidade do banco em caso de fato exclusivo da vítima ou de terceiro, situação de forma maior ou de caso fortuito." (STJ - AgInt no AR Esp: 2653859 SC, Quarta Turma, Rel.: Ministro Raul Araújo - p.: 04/11/2024)
+2. Ausentes argumentos novos à desconstituição do julgado, não se cogita do recurso interno.
+Sem embargos de declaração.
+No presente recurso especial, o recorrente alega violação dos arts. 309 do CC, 14 do CDC e da Súmula n. 479/STJ.
+Aponta, ainda, divergência jurisprudencial com arestos desta Corte.
+Apresentadas as contrarrazões (fls. 646-653), sobreveio o juízo de admissibilidade positivo da instância de origem (fls. 656-657).
+É, no essencial, o relatório.
+Cinge-se a controvérsia em decidir acerca da suposta violação dos arts. 309 do CC, 14 do CDC e da Súmula n. 479/STJ.
+Da ausência de prequestionamento
+Depreende-se dos autos que o acórdão recorrido possui fundamentação no art. 14 do CDC, não se manifestando a instância a quo, ainda que implicitamente, sobre o dispositivos legal, cuja violação se arguiu (art. 309 do CC), circunstância que não se coaduna com a exigência do art. 105, III, "a", da CF.
+Importante ressaltar que não houve interposição de embargos de declaração na origem, tampouco o recorrente alegou violação do art. 1.022 do CPC no apelo nobre, impedindo, pois, o acesso à instância extraordinária. Incidência das Súmulas n. 282 e 356/STF.
+Sobre o tema, cito os precedentes:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE REVISÃO DE CLÁUSULAS CONTRATUAIS. PREQUESTIONAMENTO. AUSÊNCIA. PREQUESTIONAMENTO FICTO. REQUISITOS NÃO PREENCHIDOS. VIOLAÇÃO DO ART. 1.022 DO CPC NÃO ALEGADA. MATÉRIA NÃO SUBMETIDA AO TRIBUNAL DE ORIGEM. SÚMULAS 282 E 356/STF. RECURSO NÃO CONHECIDO.
+1. Para a aplicação do prequestionamento ficto, que possibilita o conhecimento do recurso especial, exige-se que o recorrente, além da oposição de embargos de declaração na origem, também alegue no próprio recurso especial violação do art. 1.022 do CPC por negativa de prestação jurisdicional.
+2. No presente caso, a recorrente limitou-se a alegar ofensa ao artigo 489 do CPC, nada argumentando quanto à eventual violação do artigo 1.022 do CPC, o que obsta o conhecimento deste especial.
+3. As argumentações jurídicas relativas ao Código de Defesa do Consumidor não foram submetidas ao Tribunal de origem, não tendo sido objeto de debate naquela Corte, carecendo do requisito do prequestionamento. Incidência das Súmulas 282/STF e 356/STF.
+4. A falta de prequestionamento impede a análise do dissenso jurisprudencial, porquanto inviável a comprovação da similitude das circunstâncias fáticas e do direito aplicado.
+Recurso especial não conhecido. (Grifei)
+(REsp n. 2.007.986/MG, Rel. Ministro Humberto Martins, Terceira Turma, Julgado em 20/10/2025, DJEN 23/10/2025.)
+AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. APLICAÇÃO DE REGRAS TÉCNICAS DE ADMISSIBILIDADE DO RECURSO ESPECIAL. SIMILITUDE FÁTICO-JURÍDICO. NÃO OCORRÊNCIA. PREQUESTIONAMENTO IMPLÍCITO. INDICAÇÃO DE VIOLAÇÃO AO ART. 1022 DO CPC. AGRAVO INTERNO NÃO PROVIDO.
+1. Não cabe, em embargos de divergência, reexaminar os pressupostos de conhecimento do recurso especial, para extrair conclusão diversa a respeito da incidência de óbices.
+2. "A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp n. 1.639.314/MG, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 4/4/2017, DJe de 10/4/2017).
+3. Agravo interno ao qual se nega provimento. (Grifei)
+(AgInt no EAREsp n. 2.436.858/SP, Rel. Ministra Isabel Gallotti, Corte Especial, Julgado em 22/10/2024, DJe 25/10/2024.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. AUSÊNCIA DE COMPROVAÇÃO DA DIVERGÊNCIA INTERPRETATIVA EM TORNO DO ART. 1.025 DO CPC (PREQUESTIONAMENTO FICTO). AUSÊNCIA DE SIMILITUDE FÁTICO-JURÍDICA ENTRE OS CASOS COMPARADOS. AUSÊNCIA DE DIVERGÊNCIA ATUAL.
+1. Enquanto o acórdão embargado entendeu que "a controvérsia foi dirimida com fundamento constitucional, o que impede a revisão por esta Corte, em Recurso Especial", o acórdão paradigma da Quarta Turma desta Corte (EDcl no AgInt no REsp n. 1.973.869/SP) teria entendido que a oposição de embargos de declaração na origem, bem como a alegação de ofensa ao art. 1.022 nas razões do recurso especial, seriam aptas a ensejar o prequestionamento ficto da questão federal, nos termos do art. 1.025 do CPC.
+2. Não restou demonstrada a divergência interpretativa em torno do art. 1.025 do CPC, visto que os julgados comparados trataram de situações fático-jurídicas diversas, não sendo possível conhecer dos presentes embargos de divergência.
+3. É cediço nesta Corte que os embargos de divergência constituem a última etapa da uniformização jurisprudencial, os quais pressupõem casos idênticos ou assemelhados e não se prestam a rediscutir a justiça ou injustiça do acórdão embargado, mas a sanar divergência interpretativa no âmbito desta Corte, o que não se verificou na hipótese em razão da ausência de similitude fático-jurídica entre os julgados comparados.
+4. Ainda que assim não fosse, o que se registra apenas in obter dictum, esta Corte já pacificou entendimento em torno do art. 1.025 do CPC no sentido de que o reconhecimento do prequestionamento ficto com base no referido dispositivo legal pressupõe a oposição de embargos de declaração na origem sobre o ponto omisso já suscitado previamente, além de alegação e o reconhecimento, pelo STJ, de ofensa ao art. 1.022 do CPC suscitada nas razões do recurso especial, o que não ocorreu na hipótese.
+Precedentes da Primeira Turma: AgInt no REsp 2.026.894/DF, Rel. Ministro Gurgel De Faria, Primeira Turma, DJe 04/04/2023; AgInt no AREsp 1.949.666/PE, Rel. Ministro Paulo Sérgio Domingues, Primeira Turma, DJe 17/03/2023.
+Precedentes da Segunda Turma: AgInt no REsp 1.959.432/SC, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 11/05/2022; AgInt no AgInt no AREsp 1.893.893/RJ, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 17/02/2022; AgInt no AREsp 1973061 / RJ, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 03/04/2023; AgInt no REsp 1956555 / DF, Rel. Ministro Herman benjamin, Segunda Turma, DJe 25/04/2022. Precedentes da Terceira e da Quarta Turmas: REsp 1.639.314/MG, Relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 4/4/2017, DJe de 10/4/2017; AgInt no AREsp 2.368.079/RJ, Rel. Ministro Raul Araújo, Quarta Turma, DJe 07/12/2023.
+5. Além de não ter sido demonstrada a divergência interpretativa na hipótese, igualmente não está preenchido o requisito da divergência atual para oposição de embargos de divergência.
+6. Agravo interno não provido. (Grifei)
+(AgInt no EREsp n. 2.020.182/MS, Rel. Ministro Mauro Campbell Marques, Corte Especial, Julgado em 11/6/2024, DJEN 14/6/2024.)
+Da violação da legislação federal e da Súmula n. 479/STJ
+O recorrente alegou violação do art. 14, caput e § 3º, II, do CDC.
+Ao analisar o acervo fático-probatório, a Corte local concluiu que foi demonstrada a culpa exclusiva da vítima e de terceiro, ficando afastada a responsabilidade objetiva da recorrida.
+Neste contexto, não é possível alterar a conclusão das instâncias ordinárias sobre a existência de excludente de responsabilidade, sem o reexame de fatos e provas, o que resta inviável, diante do óbice da Súmula n. 7/STJ.
+Sobre o tema, cito os precedentes:
+DIREITO CIVIL E DO CONSUMIDOR. AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. INSTITUIÇÃO FINANCEIRA. FURTO DE CARTÃO E USO DE SENHA GUARDADA PELO CONSUMIDOR. RESPONSABILIDADE OBJETIVA AFASTADA. CULPA EXCLUSIVA DA VÍTIMA. REEXAME DE PROVAS. SÚMULA 7/STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+I. CASO EM EXAME
+1. Agravo interposto contra decisão que inadmitiu recurso especial em ação de indenização por danos materiais e morais, proposta em razão de prejuízo de R$ 9.500,00 decorrente de saques e compras realizados após o furto de cartão bancário e utilização de senha pessoal. O Tribunal de origem manteve a improcedência dos pedidos ao reconhecer a culpa exclusiva da vítima, que guardava cartão e senha juntos, afastando a responsabilidade objetiva da instituição financeira.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se houve negativa de prestação jurisdicional por ausência de fundamentação no acórdão recorrido; (ii) estabelecer se a instituição financeira responde objetivamente pelos danos decorrentes do furto de cartão com utilização de senha guardada pelo consumidor.
+III. RAZÕES DE DECIDIR
+3. Não há negativa de prestação jurisdicional quando o Tribunal de origem examina, de forma clara e fundamentada, as questões submetidas a julgamento, ainda que não acolha a tese da parte recorrente.
+4. A fundamentação sucinta, mas suficiente, não configura ausência de motivação, conforme entendimento consolidado do STJ.
+5. A jurisprudência do STJ exige, para caracterizar violação aos arts. 489 e 1.022 do CPC, demonstração fundamentada da omissão e sua relevância para o desfecho do julgamento, requisitos não atendidos no caso.
+6. A responsabilidade das instituições financeiras por fraudes é objetiva (Súmula 479/STJ), mas pode ser afastada em caso de culpa exclusiva do consumidor, conforme art. 14, § 3º, II, do CDC.
+7. O Tribunal de origem concluiu pela culpa exclusiva da vítima, que manteve cartão e senha juntos, rompendo o nexo causal.
+8. A modificação dessa conclusão demandaria reexame do conjunto fático-probatório, providência vedada em recurso especial pela Súmula 7 do STJ.
+IV. DISPOSITIVO
+9. Agravo conhecido para não conhecer do recurso especial. (Grifei)
+(AREsp n. 2.789.366/MG, Rel. Ministra Daniela Teixeira, Terceira Turma, julgado em 22/9/2025, DJEN 25/9/2025.)
+RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO E INDENIZAÇÃO POR DANO MORAL. OFENSA A ATO NORMATIVO QUE NÃO SE ENQUADRA NO CONCEITO DE LEI FEDERAL. ALEGAÇÃO NÃO CONHECIDA. TESE DE REDUÇÃO DOS HONORÁRIOS DE SUCUMBÊNCIA. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO VIOLADO. SÚMULA 284/STF. RESPONSABILIDADE CIVIL. INSTITUIÇÃO FINANCEIRA. AUSÊNCIA DE FALHA NA PRESTAÇÃO DE SERVIÇOS. CULPA EXCLUSIVA DA VÍTIMA E DE TERCEIRO. REVISÃO DE FATOS E PROVAS. INVIABILIDADE. SÚMULA 7/STJ. RECURSO ESPECIAL DESPROVIDO.
+1. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a", da CF/88.
+2. A ausência de indicação do dispositivo de lei federal supostamente violado e a impossibilidade de compreensão da controvérsia impedem a abertura da instância especial, nos termos da Súmula 284 do Supremo Tribunal Federal, aplicável, por analogia, neste Tribunal.
+3. O Superior Tribunal de Justiça perfilha o entendimento de que se faz necessária a comprovação da existência de nexo de causalidade entre as atividades desempenhadas pela instituição financeira e o dano experimentado pela parte consumidora, excluindo-se a responsabilidade do banco em caso de fato exclusivo da vítima ou de terceiro, situação de força maior ou caso fortuito externo. Precedentes.
+4. No caso dos autos, o Tribunal de origem concluiu que as transações bancárias questionadas foram realizadas pelo próprio autor (recorrente), o qual agiu de forma imprudente ao seguir instruções de terceiros desconhecidos. Além disso, após análise detalhada das provas, a Corte estadual enfatizou que não houve demonstração do nexo causal entre a conduta do banco e os prejuízos decorrentes de fraude praticada por terceiro, reconhecendo a culpa exclusiva do consumidor, de modo a afastar a responsabilização da instituição financeira.
+5. A modificação do entendimento quanto à culpa exclusiva da vítima e de terceiro pelas transações bancárias demandaria o revolvimento do conjunto fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+6. Recurso especial desprovido. (Grifei)
+(REsp n. 2.222.191/SP, rel. Ministro Raul Araújo, Quarta Turma, julgado em 13/10/2025, DJEN 20/10/2025.)
+Ademais, nos termos da Súmula 518/STJ - Para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula. Prejudicada, pois, a alegação de violação da Súmula n. 479/STJ.
+Da divergência jurisprudencial
+A incidência das Súmulas n. 7/STJ, 282 e 356/STF como óbice ao conhecimento do apelo pela alínea "a" do permissivo constitucional também impede o acesso à via extraordinária com base na alínea "c" do inciso III do art. 105 da CF.
+A propósito, cito os precedentes:
+PROCESSUAL CIVIL. DIREITO CIVIL. RECURSO ESPECIAL. CONTRATO DE MÚTUO HABITACIONAL. LEGITIMIDADE PASSIVA DA CAIXA ECONÔMICA FEDERAL. ALEGAÇÃO DE VIOLAÇÃO DOS ARTS. 10, 18 E 932, V, DO CPC. PRINCÍPIO DA NÃO SURPRESA. SUPRESSÃO DE INSTÂNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA N. 282/STF. EXAME DE MATÉRIA FÁTICO-PROBATÓRIA E DE CLÁUSULAS CONTRATUAIS. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS 5 E 7/STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO.
+1. Não se caracteriza violação do princípio da não surpresa (art. 10 do CPC/2015) quando as partes tiveram oportunidade de manifestar-se sobre os fatos que embasaram a decisão, ainda que o fundamento jurídico adotado não tenha sido previamente indicado.
+2. Não há supressão de instância quando o tribunal local aprecia matéria debatida no processo, ainda que de forma diversa da pretendida pelas partes.
+3. Ausente o prequestionamento, até mesmo de modo implícito, dos dispositivos apontados como violados no recurso especial, incide, por analogia, o disposto na Súmula n. 282 do Supremo Tribunal Federal.
+4. O afastamento da legitimidade passiva da Caixa Econômica Federal demandaria análise do conjunto fático-probatório e interpretação de cláusulas contratuais, providências vedadas em recurso especial, nos termos das Súmulas 5 e 7 do STJ.
+5. A incidência dos óbices sumulares impede, igualmente, o exame do dissídio jurisprudencial suscitado, porquanto a análise da divergência pressupõe a identidade fática entre os julgados confrontados.
+Recurso especial não conhecido. (Grifei)
+(REsp n. 2.196.553/SC, Rel. Ministro Humberto Martins, Terceira Turma, julgado em 20/10/2025, Dje de 23/10/2025.)
+CIVIL. PROCESSUAL CIVIL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. INEXISTENTE. IMPENHORABILIDADE DE IMÓVEL. BEM DE FAMÍLIA. REQUISITOS. REEXAME DE FATOS E PROVAS. SÚMULA N. 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA.
+1. Inexiste a alegada violação dos arts. 489 e 1.022 do CPC, uma vez que o Tribunal de origem se manifestou, de forma clara e fundamentada, quanto aos pontos alegados como omissos.
+2. Na hipótese, rever o entendimento firmado pelas instâncias ordinárias para analisar se estão ou não presentes os requisitos necessários para caracterizar o imóvel como bem de família e, consequentemente, a sua impenhorabilidade demandaria a análise de circunstâncias fático-probatórias dos autos, o que é inviável em recurso especial devido à incidência da Súmula n. 7/STJ.
+3. A incidência da Súmula n. 7 do STJ quanto à interposição pela alínea "a" do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Agravo conhecido. Recurso especial não conhecido. (Grifei)
+(AREsp n. 2.881.699/RJ, Rel. Ministro Humberto Martins, Terceira Turma, julgado em 22/9/2025, DJEN de 25/9/2025.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. TEMPESTIVIDADE. RECURSO. COMPROVAÇÃO POSTERIOR. POSSIBILIDADE. QUESTÃO DE ORDEM. CORTE ESPECIAL. DECISÃO RECONSIDERADA. AGRAVO DE INSTRUMENTO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTENTE. PENHORA SOBRE IMÓVEL. BEM DE FAMÍLIA. NÃO CARACTERIZADO. REVISÃO. SÚMULA Nº 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA.
+1. A Corte Especial do Superior Tribunal de Justiça, na sessão do dia 5/2/2025, quando do julgamento do AREsp nº 2.638.376/MG e da Questão de Ordem que lhe seguiu, firmou entendimento segundo o qual o art. 1.003, § 6º, do CPC, com as alterações promovidas pela Lei n. 14.939/2024, tem aplicação imediata.
+2. Nos termos do § 6º do art. 1.003 do CPC, com redação dada pela Lei nº 14.939/2024, o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso, e, se não o fizer, o tribunal determinará a correção do vício formal, ou poderá desconsiderá-lo caso a informação já conste do processo eletrônico.
+3. Na hipótese, a parte recorrente comprovou a suspensão do expediente forense. Intempestividade afastada.
+4. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, ainda que de forma sucinta, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+5. No caso concreto, rever a conclusão do acórdão recorrido de que o imóvel penhorado não é bem de família demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inviável ante a natureza excepcional da via eleita, a teor do disposto na Súmula nº 7/STJ.
+6. A necessidade de reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+7. Agravo interno provido afastando a intempestividade do recurso especial, para conhecer do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento. (Grifei)
+(AgInt nos EDcl no AREsp n. 2.060.310/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 1/9/2025, DJEN de 5/9/2025.)
+DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. DENUNCIAÇÃO DA LIDE. RELAÇÕES DE CONSUMO. VÍCIOS CONSTRUTIVOS. RECURSO NÃO CONHECIDO.
+1. Recurso especial interposto contra acórdão que manteve decisão de 1º grau admitindo a denunciação da lide à construtora responsável por vícios construtivos em conjunto habitacional financiado pelo Programa Minha Casa Minha Vida - Faixa I.
+2. O acórdão recorrido não violou o art. 489, §1º, IV, do CPC, pois enfrentou fundamentadamente as questões necessárias à solução da lide, não configurando ausência de prestação jurisdicional.
+3. A ausência de prequestionamento dos arts. 6º, IV e V, 47, 51 e 88 do CDC impede o conhecimento do recurso especial, conforme as Súmulas 282 e 356 do STF.
+4. Não é cabível recurso especial com fundamento em alegada violação de enunciado de súmula, conforme Súmula 518 do STJ.
+5. A análise de divergência jurisprudencial fica prejudicada quando afastada a alegação de violação à lei federal.
+6. Recurso especial não conhecido. (Grifei)
+(REsp n. 2.172.225/PB, Rel. Ministro R aul Araújo, Quarta Turma, julgado em 20/10/2025, DJEN de 29/10/2025.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Majoro os honorários recursais para 13% sobre o valor da causa, nos termos do art. 85, § 11, do CPC.
+Publique-se. Intimem-se.
+ EMENTA
