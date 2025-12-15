@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/12/2025 a 15/12/2025, por unanimidade, conhecer parcialmente do recurso e, nessa parte dar-lhe provimento, nos termos do voto do Sr. Ministro Ricardo Villas Bôas Cueva.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. EMBARGOS DE DECLARAÇÃO. MULTA. INAPLICABILIDADE.
+1. É inviável a análise de violação de dispositivos de lei não prequestionados na origem, apesar da oposição de embargos de declaração.
+2. A jurisprudência desta Corte é no sentido de que a aplicação da multa prevista no art. 1.026, § 2º, do Código de Processo Civil não é automática, pois não se trata de mera decorrência lógica da rejeição dos embargos de declaração.
+3. Agravo conhecido para conhecer em parte do recurso especial e, nessa extensão, dar-lhe provimento apenas para afastar a multa do art. 1.026, §2º do CPC .
+RELATÓRIO
+Trata-se de agravo interposto por AMARELONEGRO ARTE CONTEMPORÃNEA COMÉRCIO E EXPOSIÇÕES LTDA. contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, III, alínea "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado do Rio de Janeiro assim ementado:
+"DIREITO CIVIL. Ação declaratória de inexistência de débito c/c indenizatória. Insurgência recursal contra sentença que julgou improcedentes os pedidos iniciais, em demanda na qual se pretende que instituição financeira exclua o nome da autora do cadastro de inadimplentes, bem como proceda ao cancelamento do débito que aponta e seja condenada ao pagamento de compensação por danos morais. Relação consumerista. Entendimento da Súmula nº 297 do Superior Tribunal de Justiça. Inteligência do artigo 14 da Lei nº 8.078/199. O fornecedor/prestador do serviço somente estará eximido de ser responsabilizado civilmente se lograr provar que a alegada falha inexiste ou, então, que decorrera de culpa exclusiva do consumidor ou de terceiros, conforme o artigo 14, §3º do CDC. De modo a auxiliar na resolução da controvérsia em análise, foi determinada a realização da prova pericial, apresentada nos presentes autos. Restou constatado pelo experto, em seu laudo técnico, de forma conclusiva e bem esclarecedora, que não foram fornecidos documentos que comprovassem a quitação do débito do fundo referente à utilização do serviço contratado pela autora junto à instituição financeira ré. Ressalte-se, outrossim, que o laudo pericial foi elaborado de forma clara, por perito de confiança do Juízo e sob o crivo do contraditório, não havendo qualquer inoperância ou ineficácia da prova técnica realizada. Diante da ausência de indicativo robusto acerca de eventual irregularidade consistente na cobrança do crédito disponibilizado à autora, bem como por inexistir ilicitude no atuar da instituição financeira, até por não se comprovar a quitação da dívida, quanto ao uso do produto denominado "BB Giro Rápido", não há que se falar em falha na prestação do serviço fornecido pela ré, que atuou em exercício regular de direito legítimo. Não se entrevê qualquer comprovação nos presentes autos de eventual acordo celebrado entre as partes para quitação dos débitos, sendo mera ilação, não se desincumbindo a parte autora do ônus previsto pelo artigo 373, I do CPC. Em que pese a aplicação das normas protetivas do direito do consumidor, não está a parte consumidora isenta de comprovar os fatos mínimos constitutivos do seu direito, ônus do qual não se desfez. Entendimento firmado por este Egrégio Tribunal de Justiça através do Verbete de Súmula nº 330. Outra não poderia ser a solução desta lide, senão o julgamento de improcedência, onde tampouco há prejuízo moral a ser reparado. Conclui-se que a r. sentença guerreada não merece qualquer reforma por se apresentar escorreita. Recurso desprovido, com a majoração dos honorários fixados anteriormente para 15% (quinze por cento) em favor do réu/apelado, nos termos do artigo 85, § 11 do CPC/2015, observada a gratuidade de justiça outrora deferida" (e-STJ fls. 596/597 ).
+Os embargos de declaração opostos foram rejeitados com aplicação de multa (fl. 676 e-STJ).
+Nas razões do recurso especial, além de divergência jurisprudencial, a recorrente alega violação dos seguintes dispositivos legais com as respectivas teses:
+(i) art. 6º, VIII, do Código de Defesa do Consumidor pela não observância da inversão do ônus da prova; e
+(ii) art. 1.026, §2º, do Código de Processo Civil, em razão da aplicação de multa em embargos de declaração opostos uma única vez.
+Após as contrarrazões, o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. EMBARGOS DE DECLARAÇÃO. MULTA. INAPLICABILIDADE.
+1. É inviável a análise de violação de dispositivos de lei não prequestionados na origem, apesar da oposição de embargos de declaração.
+2. A jurisprudência desta Corte é no sentido de que a aplicação da multa prevista no art. 1.026, § 2º, do Código de Processo Civil não é automática, pois não se trata de mera decorrência lógica da rejeição dos embargos de declaração.
+3. Agravo conhecido para conhecer em parte do recurso especial e, nessa extensão, dar-lhe provimento apenas para afastar a multa do art. 1.026, §2º do CPC .
+VOTO
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+De incío, quanto ao art. 6º, VIII, do Código de Defesa do Consumidor, verifica-se que a matéria versada nos dispositivos apontados como violados no recurso especial não foi objeto de debate pelas instâncias ordinárias, embora opostos embargos de declaração. Assim, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 211/STJ:
+"Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Por sua vez, no que se refere à multa, com razão a recorrente.
+A jurisprudência desta Corte é no sentido de que a aplicação da multa prevista no art. 1.026, § 2º, do Código de Processo Civil não é automática, pois não se trata de mera decorrência lógica da rejeição dos primeiros embargos de declaração.
+Nesse sentido:
+"RECURSO ESPECIAL. PROCESSUAL CIVIL. PRESTAÇÃO JURISDICIONAL. NEGATIVA. AUSÊNCIA. ALUGUEL. VALOR. REDUÇÃO. PROVAS. REEXAME. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. EMBARGOS DE DECLARAÇÃO. MULTA. NÃO CABIMENTO.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. Na hipótese, rever a conclusão do aresto impugnado acerca do valor da redução do aluguel encontra óbice na Súmula nº 7/STJ.
+3. A jurisprudência desta Corte é no sentido de que a aplicação da multa prevista no art. 1.026, § 2º, do Código de Processo Civil não é automática, pois não se trata de mera decorrência lógica da rejeição dos embargos de declaração.
+4. Recurso especial parcialmente conhecido e, nessa extensão, provido em parte" (REsp n. 2.222.204/SC, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 22/9/2025, DJEN de 26/9/2025 )
+Na hipótese, o TJRJ considerou os primeiros embargos de delaração como manifestamente protelatório "com o mero propósito de delongar a resolução da lide, visto que a matéria embargada foi expressamente enfrentada no julgado guerreado" (e-STJ fl. 679).
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, dar-lhe provimento apenas para afastar a multa por embargos protelatórios.
+Mantida a sucumbência fixada na origem.
+É o voto.
