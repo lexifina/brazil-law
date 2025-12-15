@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de Agravo apresentado por F. J. F. FROZEN YOGURT LTDA e OUTROS à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO, assim resumido:
+APELAÇÃO CÍVEL. DIREITO CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. TERMO DE CONFISSÃO DE DÍVIDA. CERCEAMENTO DE DEFESA. PRESCRIÇÃO. COAÇÃO. ENCARGOS ABUSIVOS. RECURSO CONHECIDO E DESPROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz contrariedade e negativa de vigência aos arts. 355, I, 369 e 446 do CPC, no que concerne à necessidade de reconhecimento do cerceamento de defesa e anulação da sentença, em razão do julgamento antecipado sem intimação para manifestação sobre produção de provas e sem encerramento formal da instrução, trazendo a seguinte argumentação:
+Contudo, o Juízo de primeiro grau, sem que houvesse a intimação das partes sobre seu interesse em produção de provas, sem o anúncio prévio do julgamento antecipado da lide, como dispõe o art. 355, do CPC, julgou o feito antecipadamente rejeitando os embargos à execução, para extinguir o processo com resolução do mérito, dando normal prosseguimento aos atos executórios. (fl. 247)
+
+Alegado tal fato em sede de Apelação, a Terceira Câmara de Direito Privado do Tribunal de Justiça do Estado do Maranhão rejeitou com a justificativa de que o conjunto probatório já era suficiente para a formação do convencimento judicial e o julgamento antecipado não configurou violação ao contraditório e à ampla defesa. (fl. 247)
+
+Como dito alhures, o Juízo de primeiro grau sentenciou antecipadamente o feito sem o hígido saneamento do feito, com a intimação da parte autora para se manifestar sobre interesse em produção de provas e sem o anúncio prévio do julgamento antecipado da lide, denotando-se a ocorrência de cerceamento de defesa. (fl. 248)
+
+Nesse sentido, tratando-se de julgamento antecipado da lide, resta configurado o cerceamento do direito de defesa quando o Magistrado decide a lide nos termos do art. 355, CPC, descumprindo a legislação vigente, sem oportunizar qualquer tipo de manifestação. (fl. 248)
+
+Sabe-se que o contraditório e a ampla defesa são princípios que devem ser respeitados em todas as manifestações do Poder Judiciário, que deve zelar pela sua observância, inclusive nas hipóteses de declaração de ofício, devendo ocorrer a prévia manifestação do interessado, para, querendo opor algum fato impeditivo ou modificativo e requerendo, também, a produção de prova, se for o caso. (fl. 250)
+
+No caso em estudo, os Recorrentes alegaram nos embargos à execução a nulidade do instrumento de confissão de dívida pela coação e nulidade em razão de cobrança de encargos e parcelas indevidas e/ou abusivas, pois a entrega do espaço e autorização para construção em momento posterior - outubro de 2014 - ao que estava sendo cobrado. (fl. 252)
+
+Diante da situação, os Recorrentes gostariam de ter tido a oportunidade de provar o alegado através do depoimento pessoal do Embargado e, especialmente, da oitiva de testemunhas. (fl. 252)
+
+Nessa quadra, foi tolhida dos Recorrentes, ante a decisão surpresa constante nos autos, a oportunidade de ratificar e especificar as provas que pretendiam produzir em Juízo. (fl. 252)
+
+Nessa linha, em se tratando de vício de consentimento, a oitiva de testemunhas possui o condão de esclarecer os fatos e detalhes relativos à matéria, possuindo enorme importância para obtenção dos limites da prova, para o convencimento do juiz, e, ainda, para a fundamentação da sentença, conforme previsão expressa nesse sentido no art. 446, do CPC. (fl. 252)
+
+Em outras palavras, reitere-se que as partes têm o direito de realizar as provas que entenderem necessárias para a demonstração de suas teses, que no caso em tela é o vício de consentimento. Os recorrentes somente conseguirão comprovar suas alegações com a oitiva de testemunhas, por meio da qual demonstrará as nulidades do instrumento de confissão de dívida. (fl. 253).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Inicialmente, não há que se falar em cerceamento de defesa, uma vez que o julgamento antecipado da lide encontra respaldo no artigo 355, inciso I, do Código de Processo Civil, que autoriza o magistrado a proferir decisão sem a necessidade de dilação probatória quando entender que os documentos já constantes dos autos são suficientes para a resolução do mérito. No caso concreto, a controvérsia gira em torno da validade e exigibilidade de um termo de confissão de dívida, documento que, por sua natureza, constitui prova pré-constituída da obrigação assumida e dispensa a necessidade de produção de prova oral.
+O princípio da livre admissibilidade da prova confere ao magistrado a prerrogativa de avaliar quais provas são indispensáveis ao deslinde da controvérsia, podendo indeferir aquelas que considerar irrelevantes ou protelatórias. O Superior Tribunal de Justiça, ao analisar casos semelhantes, consolidou o entendimento de que não há cerceamento de defesa quando a questão controvertida pode ser resolvida exclusivamente com base em provas documentais.
+Assim, restando demonstrado que o conjunto probatório já era suficiente para a formação do convencimento judicial, o julgamento antecipado não configurou violação ao contraditório e à ampla defesa (fl. 181).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à necessidade ou não de dilação probatória demandaria o reexame do acervo fático-probatório juntado aos autos, o que não é possível em sede de recurso especial.
+Nesse sentido: "Para prevalecer a pretensão em sentido contrário à conclusão das instâncias ordinárias, que entenderam não ser preciso maior dilação probatória, seria necessária a revisão do conjunto fático-probatório dos autos, o que é inviável nesta instância especial por força da Súmula nº 7/STJ". (AgInt no AREsp n. 2.541.210/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 20/12/2024.)
+Na mesma linha: "XI - Para acolhimento da pretensão recursal, seria necessário o revolvimento de fatos e provas, a fim de compreender pela necessidade da produção probatória sobre os específicos fatos alegados como essenciais à demonstração da tese sustentada pela parte recorrente, mas que foram descartados para o deslinde da controvérsia pelo julgador a quo. XII - Não cabe, assim, o conhecimento da pretensão recursal, porque exigiria a revisão de juízo de fato exarado pelas instâncias ordinárias sobre o alegado cerceamento da produção probatória, o que é inviável em recurso especial. Incidência do Enunciado Sumular n. 7/STJ". (AgInt no REsp n. 2.031.543/PA, relator Ministro Francisco Falcão, Segunda Turma, DJEN de 9/12/2024.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 2.714.570/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJEN de 20/2/2025; AgInt no AREsp n. 2.542.388/MG, relator Ministro Raul Araújo, Quarta Turma, DJEN de 20/12/2024; AgInt no AREsp n. 2.683.088/MG, relator Ministro João Otávio de Noronha, Quarta Turma, DJEN de 29/11/2024; e AgInt no AREsp n. 2.578.737/RS, relator Ministro Teodoro Silva Santos, Segunda Turma, DJe de 25/10/2024.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
