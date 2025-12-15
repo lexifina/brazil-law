@@ -1,0 +1,72 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/12/2025 a 15/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Daniela Teixeira, Nancy Andrighi, Humberto Martins e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE NULIDADE DE ATO ADMINISTRATIVO C/C PEDIDO DE TUTELA DE URGÊNCIA. REGISTRO DE MARCA FRACA. RISCO DE CONFUSÃO. IMPOSSIBILIDADE DE REVISÃO. MATÉRIA FÁTICA. SÚMULA N. 7/STJ. AGRAVO INTERNO PROVIDO PARA RECONSIDERAR DECISÃO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. A questão em discussão consiste em saber se o indeferimento do registro da marca "GCR - Grupo Catarinense de Rádios" pelo INPI, com base na colidência fonética, ideológica e mercadológica com a marca "RÁDIO CATARINENSE", é válido, considerando os princípios da anterioridade e da proteção contra risco de confusão ao consumidor.
+2. Embora marcas evocativas ou fracas possam atrair a mitigação da exclusividade do registro, permitindo a convivência com outras semelhantes, tal regra não se aplica ao caso concreto, pois foi constatado risco de confusão entre as marcas.
+3. A análise do caso concreto demonstrou que as marcas em questão possuem identidade fonética e ideológica, além de atuarem no mesmo segmento de radiodifusão, o que gera risco de confusão ao consumidor. Impossibilidade de revisão. Súmula n. 7/STJ.
+4. A análise do dissídio jurisprudencial foi prejudicada pela incidência da Súmula n. 7/STJ, que veda o reexame de fatos e provas, além de não ter sido demonstrada a similitude fática entre os julgados apresentados.
+5. Agravo interno provido para conhecer do agravo em negar provimento ao recurso especial.
+RELATÓRIO
+Trata-se de agravo interno interposto por RÁDIO FM MEDIANEIRA LTDA - ME (FM MEDIANEIRA) contra decisão de relatoria do Ministro Presidente desta Corte, que não conheceu do agravo em recurso especial anteriormente manejado em virtude da Súmula n. 7/STJ.
+Nas razões do presente inconformismo, defendeu que não se aplica a Súmula n. 7/STJ.
+Não foi apresentada contraminuta (e-STJ, fls.750).
+É o relatório.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE NULIDADE DE ATO ADMINISTRATIVO C/C PEDIDO DE TUTELA DE URGÊNCIA. REGISTRO DE MARCA FRACA. RISCO DE CONFUSÃO. IMPOSSIBILIDADE DE REVISÃO. MATÉRIA FÁTICA. SÚMULA N. 7/STJ. AGRAVO INTERNO PROVIDO PARA RECONSIDERAR DECISÃO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. A questão em discussão consiste em saber se o indeferimento do registro da marca "GCR - Grupo Catarinense de Rádios" pelo INPI, com base na colidência fonética, ideológica e mercadológica com a marca "RÁDIO CATARINENSE", é válido, considerando os princípios da anterioridade e da proteção contra risco de confusão ao consumidor.
+2. Embora marcas evocativas ou fracas possam atrair a mitigação da exclusividade do registro, permitindo a convivência com outras semelhantes, tal regra não se aplica ao caso concreto, pois foi constatado risco de confusão entre as marcas.
+3. A análise do caso concreto demonstrou que as marcas em questão possuem identidade fonética e ideológica, além de atuarem no mesmo segmento de radiodifusão, o que gera risco de confusão ao consumidor. Impossibilidade de revisão. Súmula n. 7/STJ.
+4. A análise do dissídio jurisprudencial foi prejudicada pela incidência da Súmula n. 7/STJ, que veda o reexame de fatos e provas, além de não ter sido demonstrada a similitude fática entre os julgados apresentados.
+5. Agravo interno provido para conhecer do agravo em negar provimento ao recurso especial.
+VOTO
+Da reconsideração do decisum agravado
+Considerando as razões apresentadas no presente agravo interno, RECONSIDERO a decisão de, e-STJ, fls. 726/727 e passo a novo exame do apelo nobre interposto às, e-STJ, fls. 584/609.
+Do agravo em recurso especial
+O agravo é a espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial.
+Do recurso especial
+O recurso não merece prosperar.
+Breve histórico
+De acordo com a moldura fática dos autos, a Rádio FM Medianeira propôs ação anulatória contra o INPI e a Rádio Sociedade Catarinense para invalidar o indeferimento do registro da marca "GCR - Grupo Catarinense de Rádios", na classe 38, alegando que "rádio" e "catarinense" seriam termos comuns, que o conjunto seria distintivo e que não haveria risco de confusão; o INPI defendeu a manutenção do indeferimento com base na colidência fonética, ideológica e mercadológica entre os sinais e no princípio da anterioridade; a Rádio Sociedade Catarinense sustentou reprodução/imitização com exclusividade do signo já registrado.
+Na origem, o Juízo de primeira instância julgou improcedente o pedido de nulidade, afirmando identidade de segmento, semelhança fonética e ideológica entre os sinais por uso conjunto de "rádio" e "catarinense", risco de confusão ao consumidor e preservação do exame técnico do INPI; quanto à reconvenção indenizatória da rádio, declinou a competência para a Justiça Estadual.
+Em grau de apelação, o Tribunal Regional Federal da 4ª Região manteve integralmente a sentença, registrando a inviabilidade de coexistência das marcas pelo risco de confusão e a preservação da anterioridade do registro "RÁDIO CATARINENSE"; nos embargos de declaração, rejeitou a alegada omissão, assentando que decisões estaduais sobre abstenção/indenização não vinculavam a apreciação federal da legalidade do registro, pois o foco era a suscetibilidade de confusão ou associação com marca alheia.
+O objetivo recursal é decidir se (i) a negativa de registro contrariou os arts. 122 e 124, VI, da LPI ao tratar "rádio" e "catarinense" como impeditivos sem distinguir o conjunto; (ii) marcas evocativas/fracas admitem mitigação da exclusividade e convivência no mesmo ramo sem confusão; (iii) a atuação judicial estadual sobre convivência das marcas e ausência de confusão poderia vincular ou influenciar a análise federal da nulidade do ato do INPI; (iv) houve dissídio jurisprudencial específico e apto a admitir o recurso pela alínea c; (v) deve ser reconhecida a nulidade do indeferimento administrativo do INPI para permitir o registro da marca da recorrente.
+Nas razões do presente recurso, RADIO alegou, inclusive por meio de dissídio jurisprudencial, violação aos arts. 122 e 124, VI, da Lei de Propriedade Industrial, porque o acórdão recorrido, supostamente, teria ignorado a regra de não exclusividade de sinais genéricos/descritivos, salvo suficiente forma distintiva; defendeu que a marca de RADIO possui distintividade no conjunto e é organizacional, que "radio" é elemento necessário e não pode fundamentar colidência, e que há precedentes de concessão de registros contendo "catarinense" na mesma classe, revelando tratamento isonômico do INPI e possibilidade de coexistência sem confusão.
+É sabido que esta Corte Superior decidiu em julgamento da Segunda Seção possui entendimento que: "marcas fracas, sugestivas ou evocativas, que constituem expressão de uso comum, de pouca originalidade, atraem a mitigação da regra de exclusividade decorrente do registro, admitindo-se a sua utilização por terceiro de boa-fé "
+Isto é, marcas evocativas ou fracas - que contenham expressões de uso comum, de pouca originalidade e sem suficiente forma distintiva, podem conviver com outras semelhantes, dada a mitigação da exclusividade do registro.
+Nesse sentido seguem os julgados:
+AGRAVO INTERNO. RECURSO ESPECIAL. PROCESSUAL CIVIL. MARCA EVOCATIVA. ELEMENTOS COMUNS. POSSIBILIDADE DE CONVIVÊNCIA COM OUTRAS SEMELHANTES. SÚMULA N. 83/STJ.
+1. Marcas evocativas, ou seja, que contenham expressões de uso comum, de pouca originalidade e sem suficiente forma distintiva, podem conviver com outras semelhantes, dada a mitigação da exclusividade do registro.
+2. O Tribunal de origem julgou nos moldes da jurisprudência pacífica desta Corte. Incidente, portanto, o enunciado 83 da Súmula do STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.053.824/SE, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 29/4/2024, DJe de 2/5/2024.- sem destaque na original)
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. SIMILITUDE FÁTICA. AUSÊNCIA. ACÓRDÃO EMBARGADO EM CONFORMIDADE COM A JURISPRUDÊNCIA DA SEGUNDA SEÇÃO. DISTINÇÃO ENTRE MARCAS. EXAME DE CIRCUNSTÂNCIAS FÁTICAS. INVIABILIDADE.
+1. A ausência de similitude fática entre os acórdãos confrontados impõe a inadmissão dos embargos de divergência, uma vez que se trata de requisito indispensável à configuração do dissídio.
+2. Marcas fracas, sugestivas ou evocativas, que constituem expressão de uso comum, de pouca originalidade, atraem a mitigação da regra de exclusividade decorrente do registro, admitindo-se a sua utilização por terceiros de boa-fé. Precedentes.
+3. São insuscetíveis de comparação, em análise abstrata - e para os fins a que se destinam os embargos de divergência -, conclusões alcançadas por acórdãos diversos que examinaram, à luz das circunstâncias fáticas específicas de cada hipótese, a distintividade ou a semelhança de sinais marcários e a potencialidade de a convivência entre eles resultar em confusão ou associação indevida entre os consumidores. Precedente. AGRAVO INTERNO NÃO PROVIDO.
+(AgInt nos EREsp n. 1.778.766/MG, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 29/11/2022, DJe de 1/12/2022.)
+Ocorre que, no presente caso, o Tribunal de Justiça do Rio Grande do Sul assentou que é passível de confusão ao consumidor, pois ambas atuariam no mesmo setor de rádios. Vejam-se trechos destacados:
+Considerando que ambas as empresas se dedicam ao mesmo ramo, o risco de confusão para os consumidores é evidente, devendo ser obstado o registro. Nesse sentido:
+ ..
+Com efeito, restou suficientemente comprovado nos autos que a apelada efetuou o registro de marca muito semelhante à da empresa recorrida, sendo que ambas atuam no mesmo estado da federação e no mesmo ramo de atividade, estando demonstrada a potencial possibilidade de confusão do consumidor - que é objeto principal da proteção legislativa. (e-STJ, fls. 548/549 - sem destaque na original)
+Assim, quanto a isso não é possível alterar a conclusão da Corte, pois demandaria reexame fático-probatório, o que é inviável nos termos da Súmula n. 7/STJ. Confira-se:
+DIREITO MARCÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MARCAS SEMELHANTES E PRODUTOS DO MESMO SEGMENTO. MARCAS EVOCATIVAS DA MESMA REGIÃO GEOGRÁFICA DE ORIGEM. MARCAS FRACAS (SÚMULA 83 DO STJ). MITIGAÇÃO DA EXCLUSIVIDADE DO TITULAR. AUSÊNCIA DE CONFUSÃO (SÚMULA 7 DO STJ). AGRAVO INTERNO DESPROVIDO.
+1. O eg. Tribunal de Justiça decidiu a lide em sua integralidade, indicando, de forma clara e coerente, os fundamentos utilizados, de modo que não se evidencia omissão, contradição, obscuridade ou erro de fato, tampouco ausência de fundamentação. Assim, não se configura nenhuma violação dos arts. 489 e 1.022 do CPC/2015.
+2. É entendimento desta Corte Superior que marcas tidas como fracas ou evocativas constituem expressão de uso comum, de pouca originalidade e sem suficiente força distintiva, atraindo a mitigação da regra de exclusividade do registro, podendo conviver com outras semelhantes. Precedentes.
+3. No caso, o termo apontado como semelhante é evocativo da região de origem dos produtos confrontados (aguardentes de cana-de-açúcar de Salinas-MG), o que enfraquece o direito de exclusividade dos detentores de registro, mormente quando expressamente afastada a possibilidade de confusão no caso concreto.
+4. A alteração da conclusão do acórdão recorrido, quanto à ausência de confusão entre as marcas, demandaria o reexame de fatos e provas, prática vedada pela Súmula 7/STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.516.110/MG, relator Ministro Raul Araújo, Quarta Turma, julgado em 13/6/2023, DJe de 22/6/2023.- sem destaque na original - contrario senso)
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE ABSTENÇÃO DE USO DE MARCA C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE AUTORA.
+1. Consoante a jurisprudência pacífica desta Corte Superior, "Marcas fracas, sugestivas ou evocativas, que constituem expressão de uso comum, de pouca originalidade, atraem a mitigação da regra de exclusividade decorrente do registro, admitindo-se a sua utilização por terceiros de boa-fé." (AgInt nos EREsp n. 1.778.766/MG, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 29/11/2022, DJe de 1/12/2022.). Incidência da Súmula 83/STJ.
+2. Para derruir o entendimento do Tribunal de origem acerca da ausência de concorrência desleal e de potencialidade de a convivência entre as marcas resultar em confusão entre os consumidores, seria necessário o revolvimento de fatos e provas, prática vedada pela incidência da Súmula 7/STJ.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 2.048.372/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 5/6/2023, DJe de 14/6/2023.- sem destaque na original)
+Por fim, quanto ao dissídio jurisprudencial, é necessário o atendimento dos requisitos essenciais para a comprovação do dissídio pretoriano, conforme prescrições dos arts. 1.029, §1º, do CPC e 255, §1º, do RISTJ. Isso porque não basta a simples transcrição da ementa dos paradigmas, pois, além de juntar aos autos cópia do inteiro teor dos arestos tidos por divergentes ou de mencionar o repositório oficial de jurisprudência em que foram publicados, deve RADIO proceder ao devido confronto analítico, demonstrando a similitude fática entre os julgados.
+No caso, a incidência da Súmula n. 7/STJ prejudica a análise do dissídio jurisprudencial. Afinal, os julgados trazidos não possuem a mesma similitude fática do presente caso, considerando que àqueles o acórdão recorrido reconheceu pela não confusão entre os consumidores.
+Dessa forma, não há sequer como conhecer do recurso especial pela alínea c do permissivo constitucional.
+Nessas condições, DOU PROVIMENTO ao agravo interno para reconsiderar a decisão agravada e, em nova análise, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+É o voto.
