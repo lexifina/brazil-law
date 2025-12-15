@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o Juízo de Direito da Vara Única da Comarca de Mauriti, no Estado do Ceará, e o Juízo da 2ª Vara do Trabalho da Região do Cariri/CE, no âmbito da execução de sentença oriunda da reclamação trabalhista nº 0021500-58.1999.5.07.0028, proposta por Damião Francisco da Costa em desfavor do Município de Mauriti, cujo objetivo consiste na satisfação do crédito reconhecido em título judicial.
+O Juízo da 2ª Vara do Trabalho do Cariri/CE declarou-se incompetente para o processamento e julgamento da demanda executiva em razão do vínculo estatutário do requerente (fls. 496-498).
+Em sentido oposto, o Juízo de Direito da Vara Única de Mauriti/CE suscitou o presente conflito negativo de competência, sustentando a primazia da Justiça do Trabalho no que se refere às parcelas relativas ao período anterior à instituição do regime estatutário. Nesse contexto, asseverou que a Justiça Laboral não poderia ter declinado integralmente de sua competência, pois lhe incumbia apreciar e executar a parte do título correspondente ao vínculo celetista, limitando-se a extinguir apenas as pretensões relacionadas ao período estatutário. Ao agir de forma diversa, teria violado diretamente a Súmula 170/STJ, transferindo indevidamente à Justiça Estadual a análise de matérias afetas, originariamente, à jurisdição especi alizada (fl. 531).
+O MPF apresentou parecer às fls. 560-562 pelo não conhecimento do conflito, diante de processo previamente apreciado definindo a questão.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Assiste razão ao MPF. Este incidente foi distribuído em duplicidade em período posterior ao julgamento do primeiro conflito, envolvendo a mesma causa (CC 214201/CE), no qual se definiu a competência do Juízo Trabalhista, nos termos da Súmula 170/STJ.
+Não há, pois, interesse processual na apreciação deste caso, previamente resolvido.
+ANTE O EXPOSTO, nos termos do art. 34, XXII do RISTJ, não conheço do conflito. Publique-se. Preclusa esta decisão, dê-se baixa e arquivem-se.
+EMENTA
