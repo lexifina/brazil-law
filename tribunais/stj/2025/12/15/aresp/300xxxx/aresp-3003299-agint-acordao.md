@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/12/2025 a 15/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA C/C REPETIÇÃO DE INDÉBITO E COMPENSAÇÃO POR DANOS MORAIS. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL.
+1. Ação declaratória de inexistência de relação jurídica c/c repetição de indébito e compensação por danos morais.
+2. Agravo interno interposto contra decisão que não conheceu do agravo em recurso especial, em razão da não impugnação do seguinte fundamento da decisão de inadmissibilidade: incidência da Súmula 7 do STJ.
+3. Consoante entendimento pacífico desta Corte, não merece conhecimento o agravo em recurso especial que não impugna, especificamente, os fundamentos da decisão de inadmissão do recurso especial. Precedentes.
+4. Agravo interno não provido.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examina-se agravo interno interposto por ALCIDES LABAKI, contra decisão que não conheceu do agravo em recurso especial..
+Ação: declaratória de inexistência de relação jurídica c/c repetição de indébito e compensação por danos morais, ajuizada por ALCIDES LABAKI e LILIA MARIA LABAKI, em face de BANCO DO ESTADO DO RIO GRANDE DO SUL S.A., na qual requerem a suspensão dos descontos indevidos no benefício previdenciário, a declaração de inexistência do contrato consignado apontado como fraudulento, a repetição em dobro dos valores descontados e a compensação por danos morais para ambos.
+Sentença: julgou parcialmente procedentes os pedidos, para: i) declarar inexistente a relação jurídica entre o autor ALCIDES e a requerida; ii) determinar que a requerida cesse definitivamente os descontos no benefício previdenciário do autor, confirmando a tutela; iii) condenar a requerida a restituir, em dobro, os valores indevidamente descontados; iv) condenar a requerida ao pagamento de R$ 6.000,00 (seis mil reais) a título de compensação por danos morais em favor do autor ALCIDES.
+Acórdão: negou provimento ao recurso de apelação interposto por ALCIDES LABAKI e LILIA MARIA LABAKI e deu parcial provimento ao recurso de apelação interposto por BANCO DO ESTADO DO RIO GRANDE DO SUL S.A., nos termos da seguinte ementa:
+DIREITO DO CONSUMIDOR. EMPRÉSTIMO CONSIGNADO. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA C/C REPETIÇÃO DE INDÉBITO E INDENIZAÇÃO POR DANOS MORAIS. APELAÇÃO CÍVEL. NEGADO PROVIMENTO AO RECURSO DOS AUTORES. DADO PARCIAL PROVIMENTO AO RECURSO DO RÉU. I. Caso em Exame Trata-se de recursos de apelação interpostos pelas partes contra a sentença que julgou parcialmente procedente a ação, reconhecendo a inexistência de débito relativo a contrato de empréstimo fraudulento, determinando a cessação dos descontos no benefício previdenciário do autor, a restituição dos valores descontados indevidamente, em dobro, e condenando o réu ao pagamento de indenização por danos morais ao primeiro autor.
+II. Questão em Discussão 2. A controvérsia versa sobre: (i) presença dos danos morais ao aposentado e à sua esposa, requerentes, bem como a majoração da indenização em relação ao primeiro autor; (ii) a possibilidade de compensação dos valores pagos pelo réu diretamente ao autor e em quitação de empréstimos anteriores, por meio de portabilidade.
+III. Razões de Decidir 3. A perícia grafotécnica constatou a falsidade das assinaturas nas portabilidades, nos empréstimos e no refinanciamento firmados junto à requerida. Falha na segurança operacional da instituição financeira ré. Responsabilidade objetiva. Art. 14 CDC. 4. A devolução dos valores descontados deve ser simples até 30/03/2021 e dobrada após essa data, conforme Tema 929 do STJ e modulação de efeitos. 5. Danos morais em relação autor, primeiro requerente. Caracterização. Descontos em benefício previdenciário. Natureza alimentar. Reduzida para R$ 3.000,00, considerando os princípios da proporcionalidade e razoabilidade, inclusive o tempo transcorrido entre o início dos descontos e o ajuizamento da demanda. Danos morais em relação à esposa do autor, segunda requerente, não caracterizados, visto que não integrou o negócio jurídico. 6. Compensação. Cabível para o valor liberado em conta do autor. Descabida para valores liberados entre as Financeiras para as portabilidades, falsas no caso. Matéria a ser resolvida entre elas em ação própria.
+IV. Dispositivo. 7. Recurso dos autores desprovido e recurso do réu parcialmente provido. (e-STJ fls. 266-267)
+Decisão da Presidência do STJ: não conheceu do agravo em recurso especial interposto pela parte agravante devido à ausência de impugnação específica dos fundamentos da decisão que inadmitiu o recurso especial.
+Agravo interno: a parte agravante alega que demonstrou a violação aos arts. 927, caput, do CPC, e 186 e 187 do CC, que não pretende reexame de provas, afastando a Súmula 7 do STJ, e que a decisão de inadmissibilidade padece de fundamentação, em descompasso com o art. 489, § 1º, I, II e III, do CPC. Traz questões relativas ao mérito do recurso especial. Requer, assim, o provimento do agravo para que seja determinado o processamento do recurso especial e apreciado o mérito.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA C/C REPETIÇÃO DE INDÉBITO E COMPENSAÇÃO POR DANOS MORAIS. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL.
+1. Ação declaratória de inexistência de relação jurídica c/c repetição de indébito e compensação por danos morais.
+2. Agravo interno interposto contra decisão que não conheceu do agravo em recurso especial, em razão da não impugnação do seguinte fundamento da decisão de inadmissibilidade: incidência da Súmula 7 do STJ.
+3. Consoante entendimento pacífico desta Corte, não merece conhecimento o agravo em recurso especial que não impugna, especificamente, os fundamentos da decisão de inadmissão do recurso especial. Precedentes.
+4. Agravo interno não provido.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+A decisão agravada não conheceu do agravo em recurso especial, com base no art. 932, III, do CPC, ante a ausência de impugnação do seguinte fundamento da decisão de inadmissibilidade proferida pelo TJ/SP: incidência da Súmula 7 do STJ.
+- Do reexame de contexto fático-probatório (Súmula 7 do STJ)
+Da análise das razões do agravo em recurso especial, verifica-se que a parte agravante não impugnou a incidência da Súmula 7/STJ de forma consistente, limitando-se a alegar genericamente que pretendia a aplicação do direito à hipótese, sem demonstrar a desnecessidade do revolvimento de fatos e provas.
+Nesse sentido, confira-se: AgInt no AREsp 2.441.269/RS, Terceira Turma, DJe de 28/2/2024 e AgInt no AREsp 2.326.551/GO, Quarta Turma, DJe de 21/12/2023.
+Em atenção ao princípio da dialeticidade, cumpre à parte agravante apontar que, nas razões do agravo em recurso especial, combateu os fundamentos da decisão agravada, ônus do qual não se desincumbiu, não sendo possível impugnar a decisão de admissibilidade nas razões do agravo interno.
+Assim sendo, consoante entendimento pacífico desta Corte, não merece conhecimento o agravo em recurso especial que não impugna, especificamente, os fundamentos da decisão de inadmissão do recurso especial. Nesse sentido: AgInt no AREsp 2.152.939/RS, Terceira Turma, DJe de 18/8/2023 e AgInt no AREsp 1.895.548/GO, Quarta Turma, DJe de 18/3/2022.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno.
