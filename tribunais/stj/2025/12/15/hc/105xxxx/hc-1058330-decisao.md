@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de LUCAS PEREIRA COUTINHO, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento da Apelação Criminal n. 1519269-72.2025.8.26.0228.
+Extrai-se dos autos que o paciente foi condenado em primeira instância pela prática de dois crimes de furto qualificado.
+O Tribunal de origem deu parcial provimento à apelação interposta pelo parquet estadual, para elevar a pena ao patamar de 2 anos, 7 meses e 15 dias de reclusão, além de 12 dias-multa, e fixar o regime inicial fechado. Confira-se a ementa do julgado (fl. 26):
+"APELAÇÃO CRIMINAL. FURTO QUALIFICADO. RECURSO MINISTERIAL.
+Basais mantidas no patamar mínimo. Circunstâncias judiciais que não se mostraram desfavoráveis ao apelado.
+Preponderância da reincidência sobre a confissão espontânea. Penas intermediárias acrescidas de oitava parte.
+Nota de recalcitrância específica do réu que justifica a adoção da regência prisional fechada (inteligência do artigo 33, § 2º e alíneas, do Código Penal).
+Insurgência provida, em parte."
+No presente writ, a defesa sustenta a necessidade de compensação integral da da agravante da reincidência com a atenuante da confissão espontânea. Aduz que o fato de a reincidência ser específica, não justifica incremento superior à fração de 1/6.
+Alega que o paciente faz jus ao regime inicial semiaberto, nos termos da Súmula 269/STJ.
+Requer, em liminar e no mérito, a concessão da ordem para que seja reduzida a pena imposta e fixado regime mais brando.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça.
+Todavia, considerando as alegações expostas na inicial, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal que justifique a concessão da ordem de ofício.
+Da atenta leitura do acórdão impugnado, verifica-se que as instâncias ordinárias não admitiram a compensação integral da agravante da reincidência com a atenuante da confissão espontânea. No ponto, o Tribunal de origem divergiu da jurisprudência consolidada no âmbito da Terceira Seção desta Corte Superior, conforme o Tese n. 585. A propósito:
+RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. TRÁFICO DE DROGAS E DIREÇÃO DE VEÍCULO SEM HABILITAÇÃO. ART. 33, CAPUT, DA LEI N. 11.343/2006, C/C O ART. 309 DA LEI N. 9.503/1997, NA FORMA DO ART. 69 DO CP. PLEITO DE ABSOLVIÇÃO. ALEGAÇÃO DE AUSÊNCIA DE LAUDOS PERICIAIS VÁLIDOS. QUEBRA DA CADEIA DE CUSTÓDIA. INEXISTÊNCIA DE IRREGULARIDADE. ALEGAÇÃO DESPROVIDA DE SUSTENTAÇÃO PROBATÓRIA. VALIDADE DOS ATOS PRATICADOS. CONDENAÇÃO COM BASE EM OUTRAS PROVAS. APLICAÇÃO DA SÚMULA 7/STJ. DOSIMETRIA DA PENA. PRETENSÃO DE COMPENSAÇÃO INTEGRAL ENTRE A ATENUANTE DA CONFISSÃO E A AGRAVANTE DA REINCIDÊNCIA. DESCABIMENTO. RÉU MULTIRREINCIDENTE.
+1. Na hipótese dos autos, o Tribunal de origem expressamente afirmou não ter vislumbrado nenhuma evidência concreta de mácula às provas dos autos, inexistindo qualquer sustentação probatória na alegação da defesa; ressaltou a validade dos atos praticados, tendo-se evidenciado apenas um mero erro material, o qual não se revelou apto a tornar nula a prova produzida, tendo ainda destacado que a defesa, no momento oportuno, sequer impugnou a perícia realizada, sendo certo haver nos autos outras provas da prática delitiva. Dessa maneira, não há como acolher o pleito defensivo, nos moldes postulados, sem o necessário revolvimento fático-probatório, vedado nos termos da Súmula n. 7/STJ.
+2. A reincidência, ainda que específica, deve ser compensada integralmente com a atenuante da confissão, demonstrando, assim, que não deve ser ofertado maior desvalor à conduta do réu que ostente outra condenação pelo mesmo delito. Apenas nos casos de multirreincidência deve ser reconhecida a preponderância da agravante prevista no art. 61, I, do Código Penal, sendo admissível a sua compensação proporcional com a atenuante da confissão espontânea, em estrito atendimento aos princípios da individualização da pena e da proporcionalidade. Precedentes.
+3. No caso em exame, não se mostra possível proceder à compensação integral entre a reincidência e a confissão espontânea, tendo em vista que o recorrente possui múltiplas condenações definitivas, o que, nos termos da jurisprudência desta Corte Superior de Justiça, permite a preponderância da circunstância agravante.
+4. Recurso especial desprovido. Acolhida a readequação da Tese n. 585/STJ, nos seguintes termos: É possível, na segunda fase da dosimetria da pena, a compensação integral da atenuante da confissão espontânea com a agravante da reincidência, seja ela específica ou não. Todavia, nos casos de multirreincidência, deve ser reconhecida a preponderância da agravante prevista no art. 61, I, do Código Penal, sendo admissível a sua compensação proporcional com a atenuante da confissão espontânea, em estrito atendimento aos princípios da individualização da pena e da proporcionalidade.
+(REsp n. 1.931.145/SP, relator Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 22/6/2022, DJe de 24/6/2022.)
+Passo ao cálculo da pena.
+A pena base foi fixada no mínimo legal e, diante da compensação integral da reincidência e da confissão espontânea, permanece inalterada.
+Na terceira etapa, aplicado o aumento de 1/6 em razão da continuidade delitiva, a pena torna-se definitiva em 2 anos e 4 meses de reclusão e 11 dias-multa.
+A Súmula n. 269/STJ, que dispõe que "É admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a 4 (quatro) anos se favoráveis as circunstâncias judiciais" é integralmente aplicável ao caso concreto, considerando a ausência de circunstâncias judiciais desfavoráveis.
+Ante o exposto, com fundamento no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus. Contudo, concedo a ordem de habeas corpus, de ofício, para reduzir a pena imposta ao paciente ao patamar de 2 anos e 4 meses de reclusão e 11 dias-multa e fixar o regime inicial semiaberto.
+Publique-se.
+Intimem-se.
+EMENTA
