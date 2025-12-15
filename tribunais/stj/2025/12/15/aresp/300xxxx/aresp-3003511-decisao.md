@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo manifestado em face de decisão que não admitiu o recurso especial interposto por ROGERIO REIS DE OLIVEIRA EIRELI - EPP em face de acórdão assim ementado (fls. 316-326):
+EMENTA: APELAÇÃO - DECLARATÓRIA DE NULIDADE DE CLÁUSULA CONTRATUAL C/C RESSARCIMENTO - AUSÊNCIA DE FUNDAMENTAÇÃO - INEXISTÊNCIA DE PRESCRIÇÃO - DESCUMPRIMENTO CONTRATUAL - RESSARCIMENTO - MULTA. A sentença que não é devidamente fundamentada, com base nos requisitos do art. 489 do CPC é nula. É de cinco anos o prazo prescricional para cobrança de dívidas líquidas constantes de instrumento público ou particular, conforme art. 256, §5º, I do CC. Evidenciado o inadimplemento contratual as partes devem custear as obrigações previstas.
+Nas razões de recurso especial, a parte agravante alega que o acórdão recorrido violou os arts. 489, § 1º, 11 do CPC e o art. 93, IX, da CF/88, "uma vez que o não reconhecimento da nulidade da decisão, frente a uma nítida ausência de motivação e fundamentação da sentença a quo, a qual fora arguida pelo Recorrente e acolhido pelo eminente Desembargador Relator, ensejará uma grave negativa de prestação jurisdicional afrontando as bases principiológicas do livre convencimento motivado, cerceando o direito de defesa do Recorrente e o devido processo legal" (fl. 358). Alega que a prescrição foi afastada sem a devida motivação. Requer, com isso, a declaração de nulidade da sentença e do acórdão recorrido.
+Contrarrazões ao recurso especial às fls. 373-376.
+Assim delimitada a controvérsia, passo a decidir.
+De início, necessário salientar que a via especial não é a sede própria para a discussão de matéria de índole constitucional, sob pena de usurpação da competência exclusiva do Supremo Tribunal Federal. Assim, quanto à alegada violação ao art. 93, IX, da CF/88, o recurso especial não deve ser conhecido.
+O recurso não prospera também com relação às demais alegações.
+Da análise do acórdão recorrido, verifica-se que o Tribunal de origem entendeu que a ação de origem foi ajuizada antes do término do prazo prescricional, quer seja considerado o prazo de 5 anos, quer seja considerado o prazo de 3 anos. A propósito:
+A pretensão inicial é a revisão contratual c/c ressarcimento em virtude de contrato de administração de imóvel celebrado entre as partes. De acordo om o art. 206, §5º, I do CC:
+Art. 206. Prescreve: § 5º Em cinco anos: I - a pretensão de cobrança de dívidas líquidas constantes de instrumento público ou particular;
+No presente caso, o contrato foi celebrado entre as partes em 11/04/2016.
+De acordo com a inicial "O Requerente ficou sem receber os aluguéis referentes aos meses de agosto, outubro e dezembro de 2016, sendo que, o Requerido não cumpriu com o compactuado no contrato, ou seja, não realizou os depósitos referentes aos dois meses de inadimplência (Cláusula Quarta) e não promoveu ação em face da locatária para despejo e cobrança do débito."
+Sendo assim, tem-se que o descumprimento contratual iniciou em agosto de 2016, e a ação foi proposta em 11/04/2019, portanto, não houve a consumação do prazo prescricional.
+Ressalta-se que ainda que considerássemos o prazo de 3 anos, não haveria a consumação da prescrição.
+Posto isso, rejeita-se essa prejudicial de mérito.
+Dessa forma, quanto ao suposto vício na prestação jurisdicional, não merece prosperar o recurso especial, uma vez que, no caso, a questão relativa à prescrição foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada sobre o assunto, ainda que em sentido contrário à pretensão do agravante.
+Ressalto, no ponto, que, de acordo com a jurisprudência deste Tribunal, o julgador não é obrigado a abordar todos os temas invocados pela parte se, para decidir a controvérsia, apenas um deles é suficiente ou prejudicial dos outros (AgRg no AREsp n. 2.322.113/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 6/6/2023, DJe de 12/6/2023; AgInt no AREsp n. 1.728.763/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 21/3/2023, DJe de 23/3/2023; e AgInt no AREsp n. 2.129.548/GO, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 28/11/2022, DJe de 1/12/2022).
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
+EMENTA
