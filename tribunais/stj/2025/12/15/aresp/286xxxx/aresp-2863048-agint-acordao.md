@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/12/2025 a 15/12/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO . AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. APLICAÇÃO. RECURSO NÃO CONHECIDO.
+1. A ausência de impugnação específica dos fundamentos da decisão agravada inviabiliza o conhecimento do agravo interno, nos termos do art. 1.021, § 1º, do Código de Processo Civil (CPC). Incidência da Súmula 182 do Superior Tribunal de Justiça (STJ).
+2. Para refutar a incidência da Súmula 182/STJ, deve-se demonstrar, no agravo interno, que nas razões do agravo em recurso especial foram impugnados todos os fundamentos da decisão de admissibilidade do recurso especial.
+3. Agravo interno de que não se conhece.
+RELATÓRIO
+Trata-se de agravo interno interposto por ERNESTO NAOKI ABUNO da decisão da Presidência do Superior Tribunal de Justiça que não conheceu de seu agravo em recurso especial porque não foram impugnados todos os fundamentos de inadmissão do recurso especial.
+Nas razões de seu recurso, a parte recorrente requer a reconsideração da decisão agravada ou a apreciação do recurso pelo órgão colegiado competente.
+A parte adversa não apresentou impugnação (fl. 813).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO . AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. APLICAÇÃO. RECURSO NÃO CONHECIDO.
+1. A ausência de impugnação específica dos fundamentos da decisão agravada inviabiliza o conhecimento do agravo interno, nos termos do art. 1.021, § 1º, do Código de Processo Civil (CPC). Incidência da Súmula 182 do Superior Tribunal de Justiça (STJ).
+2. Para refutar a incidência da Súmula 182/STJ, deve-se demonstrar, no agravo interno, que nas razões do agravo em recurso especial foram impugnados todos os fundamentos da decisão de admissibilidade do recurso especial.
+3. Agravo interno de que não se conhece.
+VOTO
+O recurso especial foi interposto do acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO assim ementado (fl. 283):
+MANDADO DE SEGURANÇA - TRIBUTÁRIO - SALÁRIO EDUCAÇÃO -ILEGITIMIDADE PASSIVA DO FNDE - PRODUTOR RURAL PESSOA FÍSICA -INSCRIÇÃO NO CNPJ - PRESUNÇÃO DO EXERCÍCIO DE EMPRESA. 1- A partir da vigência da Lei Federal nº. 11.457/2007, a União é a responsável pela arrecadação do salário-educação. Portanto, o FNDE é parte ilegítima passiva na presente demanda. Esse é o entendimento do Superior Tribunal de Justiça: 2- No que diz respeito ao salário educação, o Supremo Tribunal Federal declarou a constitucionalidade da exigência do salário-educação, no regime das Constituições de1969 e 1988 - Súmula 732. 3- A teor de entendimento repetitivo do Superior Tribunal de Justiça, o salário educação é devido por empresas, rurais ou urbanas, que assumem o risco da atividade empresária. 4- O produtor rural pessoa física que não realiza atividade empresarial não está sujeito à contribuição do salário educação. De outro lado, tratando-se de produtor rural com inscrição em CNPJ, presume-se o exercício de atividade empresári a, sendo hígida, a princípio, a incidência fiscal. Entendimento do Superior Tribunal de Justiça e desta Corte Regional. 5- No caso concreto, o produtor rural possui inscrição em CNPJ (ID 267668250). Atua no ramo de "produção de sementes certificadas, exceto de forrageiras para pasto" (ID267668250). 6- Apelação desprovida.
+Na decisão recorrida, não se conheceu do agravo em recurso especial por deixar a parte agravante de impugnar a decisão de admissibilidade relativamente à Súmula 284/STF e ausência de indicação do dispositivo objeto da divergência - Súmula 284/STF.
+Em seu agravo interno, a parte recorrente alega ser necessário o sobrestamento por fato superveniente, bem como que (fl. 798):
+" ..  além do que foi supramencionado, o juízo prévio de admissibilidade menciona que o assunto já foi discutido pelo Tema Repetitivo 362, do STJ, mas não o utiliza como fundamento, como razão de decidir.
+Logo, como não houve a utilização do Tema Repetitivo 362, do STJ, como fundamento do juízo prévio de admissibilidade, não haveria razão para interposição de agravo interno no tribunal "a quo", tendo bastado a interposição de Agravo em Recurso Especial.
+Quanto aos demais fundamentos, foram todos eles confrontados no Agravo em Recurso Especial, obedecendo-se ao princípio da congruência, até porque esta modalidade recursal exige impugnação específica" (fl. 798).
+Como se vê, a parte agravante, no recurso ora examinado, igualmente não refuta as razões expostas na decisão que visa impugnar, repetindo o vício anteriormente detectado, isso porque se limita a alegações superficiais e genéricas acerca da ausência de fundamentação no juízo de admissibilidade, afirmando que todos os fundamentos foram impugnados.
+É devida a aplicação ao caso em questão da Súmula 182/STJ, segundo a qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+A fim de rebater a decisão que não conheceu de seu recurso porque não rebatidos todos os fundamentos da decisão de admissibilidade, é dever da parte agravante demonstrar, no agravo interno, de forma clara e objetiva, que no agravo em recurso especial ela impugnou toda a decisão que não havia admitido seu recurso especial, proferida pelo Tribunal de origem - o que não ocorreu.
+É importante registrar, ainda, que o recurso de agravo, tanto aquele previsto no art. 1.042 do Código de Processo Civil (CPC) como o dito regimental ou interno previsto no art. 1.021, § 1º, do mesmo CPC, objetiva desconstituir os fundamentos que impediram o processamento do recurso especial; o recurso não comporta seguimento sem essa providência.
+Sobre a alegação de existência de fato superveniente, destaco que o sobrestamento de feitos no âmbito do Superior Tribunal de Justiça limita-se às hipóteses de afetação de temas sob a sistemática de recursos repetitivos, do Incidente de Assunção de Competência (IAC) e do Incidente de Resolução de Demandas Repetitivas (IRDR), bem como aos temas afetados pelo Supremo Tribunal Federal em repercussão geral, pois não há relação de subordinação ou vinculação hierárquica entre o STJ e a Turma Nacional de Uniformização (TNU) , que exerce competência específica sobre demandas oriundas dos Juizados Especiais Federais; por conseguinte, a afetação de controvérsia na TNU não produz efeito vinculante sobre os processos em trâmite no STJ.
+Inexiste previsão legal ou regimental que autorize o sobrestamento de feitos nesta Corte em razão de afetação de tema pela TNU.
+Ante o exposto, não conheço do agravo interno.
+É o voto.
