@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de Recurso Especial interposto pelo CONSELHO FEDERAL DE ODONTOLOGIA - CFO contra acórdão prolatado, por unanimidade, pela 8ª Turma do Tribunal Regional Federal da 1ª Região no julgamento de apelação e remessa necessária, assim ementado (fls. 164/166e):
+PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO DE CONHECIMENTO. RESOLUÇÃO DO CONSELHO FEDERAL DE ODONTOLOGIA. CIRURGIÃO- DENTISTA. HARMONIZAÇÃO OROFACIAL . PROIBIÇÃO DE PROCEDIMENTOS CIRÚRGICOS.
+1. A presente demanda foi proposta por cirurgião-dentista, autor, objetivando a declaração de ilegalidade da Resolução nº 230/2020 do Conselho Federal de Odontologia (CFO), que veda a realização de determinados procedimentos cirúrgicos por cirurgiões-dentistas, especificamente alectomia, blefaroplastia, lifting de sobrancelhas, otoplastia, rinoplastia e ritidoplastia (face lifting). Alega que a referida vedação compromete o livre exercício profissional garantido pelo art. 5º, XIII, da Constituição Federal.
+2. A sentença de primeiro grau, acolhendo o pedido, considerou a vedação prevista na Resolução CFO nº 230/2020 como restrição ao exercício profissional do cirurgião-dentista, afrontando a liberdade de profissão. Além disso, condenou o réu ao pagamento de honorários advocatícios, arbitrados com base no critério de equidade, no valor mínimo vigente na tabela da OAB, em face do valor irrisório atribuído à causa (R$ 1 mil).
+3. O réu, Conselho Federal de Odontologia, interpôs apelação, sustentando a legalidade da Resolução CFO nº 230/2020: os procedimentos cirúrgicos nela mencionados não constam do conteúdo programático dos cursos de graduação e pós-graduação em Odontologia e, portanto, não poderiam ser realizados pelos profissionais da área, sem a devida capacitação acadêmica e científica.
+4. O autor, na resposta ao recurso, defendeu seu desprovimento: é devidamente qualificado para a realização dos procedimentos cirúrgicos vedados pela Resolução CFO nº 230/2020, com base em sua formação acadêmica e experiência profissional. Concluiu a residência em Cirurgia e Traumatologia Bucomaxilofacial, com carga horária de 8.640 horas, cumprindo os requisitos da Resolução CFO nº 198/2019, que reconhece a Harmonização Orofacial como especialidade odontológica.
+5. A questão central reside na análise da compatibilidade entre a Resolução CFO nº 198/2019, que reconhece a Harmonização Orofacial como especialidade odontológica, e a Resolução CFO nº 230/2020, que veda determinados procedimentos cirúrgicos. A vedação imposta pela Resolução nº 230/2020 não revogou expressamente a Resolução nº 198/2019, e o autor demonstrou possuir qualificação suficiente para realizar os procedimentos cirúrgicos em questão.
+6. O art. 6º, I, da Lei nº 5.081/1966 confere ao cirurgião-dentista a competência para praticar todos os atos pertinentes à Odontologia, desde que decorrentes de conhecimentos adquiridos em cursos regulares ou de pós- graduação. A Resolução CFO nº 198/2019, ao regulamentar a Harmonização Orofacial, especifica que o cirurgião-dentista especialista pode realizar procedimentos como a aplicação de toxina botulínica, preenchedores faciais e outros relacionados à estética da face. Não havendo revogação expressa da Resolução nº 198/2019 pela Resolução nº 230/2020, é garantido ao autor o direito de realizar os procedimentos cirúrgicos nela previstos.
+7. Apelação do réu e remessa necessária desprovidas.
+Com amparo no art. 105, III, a e c, da Constituição da República, além de divergência jurisprudencial, aponta-se ofensa aos dispositivos a seguir relacionados, alegando-se, em síntese, que:
+i. Art. 6º, I, da Lei n. 5.081/1966 - A Resolução do CFO n. 230/2020 é exercício legítimo do poder regulamentar, delimitando os atos pertinentes à Odontologia aos conhecimentos adquiridos em curso regular de graduação ou pós-graduação. Sustenta que os procedimentos vedados pela Resolução estão fora do escopo técnico da Odontologia e impõem riscos à saúde pública, de modo que a norma resguarda a segurança dos pacientes (fls. 188/192e); e
+ii. Art. 2º, § 1º, da Lei de Introdução às Normas do Direito Brasileiro (LINDB) - Houve revogação tácita da Resolução CFO n. 198/2019 pela Resolução CFO n. 230/2020, por incompatibilidade de conteúdo, prevalecendo a norma posterior e mais restritiva quanto aos procedimentos proibidos (fls. 192/195e).
+Com contrarrazões (fls. 226/237e), o recurso foi admitido (fls. 239/241e).
+O Ministério Público Federal manifestou-se às fls. 255/263e.
+Feito breve relato, decido.
+Nos termos do art. 932, III, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, mediante decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+- Da alegada violação aos arts. 6º, I, da Lei n. 5.081/1966 e 2º, § 1º, da LINDB
+Não obstante indicada ofensa ao art. 6º, I, da Lei n. 5.081/1966 e art. 2º, § 1º, da Lei de Introdução às normas do Direito Brasileiro, segundo o Recorrente, o direito por ela def endido encontra respaldo, em tese, na análise da compatibilidade entre a Resolução CFO n. 198/2019, que reconhece a Harmonização Orofacial como especialidade odontológica, e a Resolução CFO n. 230/2020, que veda a realização de determinados procedimentos cirúrgicos, de modo que a violação à lei federal seria meramente reflexa.
+Nesse sentido, os precedentes:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO. SERVENTIA EXTRAJUDICIAL. OBRIGAÇÃO DE FAZER. LEGITIMIDADE. AUSÊNCIA. CÓDIGO DE NORMAS DA CORREGEDORIA. PROVIMENTO N. 156/2016. APRECIAÇÃO. IMPOSSIBILIDADE.
+ ..
+2. A solução da controvérsia extrapola a estreita via do recurso especial, visto que implica exame de violação reflexa ou indireta a texto de lei federal, já que o caso necessita primordialmente da análise do Código de Normas da Corregedoria Geral de Justiça do Estado do Rio Grande do Norte, ato normativo que não se enquadra no conceito de "tratado ou lei federal" de que cuida o art. 105, III, a, da CF.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.824.811/RN, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, j. 11.11.2024, DJe de 14.11.2024)
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. ICMS. FORNECIMENTO DE REFEIÇÕES PRONTAS. TRIBUTAÇÃO DIFERENCIADA. FRUIÇÃO POR SUPERMERCADO. ACÓRDÃO RECORRIDO FUNDADO EM INTERPRETAÇÃO CONSTITUCIONAL (ART. 155, § 2º, III, DA CF) DO TERMO "SIMILARES" A BARES E RESTAURANTES CONTIDO NA LEGISLAÇÃO ESTADUAL. REVISÃO. IMPOSSIBILIDADE. MATÉRIA CONSTITUCIONAL E SÚMULA 280/STF.
+1. Fundada na alegação de violação do art. 111, II, do CTN, a Fazenda estadual interpõe recurso especial contra acórdão que, interpretando o alcance do termo "similares" contido na legislação estadual, entendeu que supermercado, no tocante especificamente ao fornecimento de refeições prontas dentro de suas dependências, tem direito a usufruir do tratamento tributário diferenciado de recolhimento de ICMS, porquanto assemelha-se a "bares, lanchonetes, restaurantes, cozinhas industriais e similares".
+2. Para esse mister, a Corte estadual respaldou-se no princípio constitucional da seletividade (art. 155, § 2º, III, da CF), para decidir que o termo "similares" deve levar em consideração a natureza da mercadoria fornecida e não a natureza do estabelecimento.
+3. Não cabe a esta Corte Superior, em sede de recurso especial, rever a interpretação que o Tribunal de origem deu à legislação local, notadamente quando amparada em preceito constitucional.
+Incide, na espécie, o óbice estampado na Súmula 280/STF.
+4. "Por ofensa reflexa à lei federal não é cabível recurso especial" (AgRg no AREsp 62.249/MG, Rel. Ministro Arnaldo Esteves Lima, Primeira Turma, DJe 24/05/2012).
+5. Recurso especial não conhecido.
+(REsp 1.338.038/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, j. em 15.10.2013, DJe 05.12.2013).
+PROCESSO CIVIL E ADMINISTRATIVO - PROAGRO - COBERTURA SECURITÁRIA - VIOLAÇÃO AO ART. 458 DO CPC - INEXISTÊNCIA - LEI 5.969/73 - VIOLAÇÃO REFLEXA.
+1. Inexiste nulidade na sentença concisa e objetiva que transcreve fundamentos da inicial e conclui, com base na prova dos autos, pela procedência do pedido, o mesmo ocorrendo com o acórdão recorrido.
+Violação ao art. 458 do CPC que se afasta.
+2. A previsão de que a comunicação das perdas deve ser feita no início do evento danoso está contida em norma infralegal (Manual de Crédito Rural - MCR), não passível de impugnação pela via do recurso especial. A possível violação à Lei 5.969/73, instituidora do Programa de Garantia da Atividade Agropecuária - PROAGRO, somente se daria por via reflexa.
+3. Recurso especial improvido.
+(REsp 438.786/DF, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, j. em 22.06.2004, DJ 20.09.2004, p. 230).
+- Da divergência jurisprudencial
+De outra parte, o recurso especial também não pode ser conhecido com fundamento em divergência jurisprudencial, porquanto prejudicado dada a impossibilidade de análise da mesma tese desenvolvida pela alínea a do permissivo constitucional pela incidência de óbices de admissibilidade.
+Sobre o tema, os seguintes precedentes das Turmas componentes da 1ª Seção:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. ACÓRDÃO RECORRIDO COM FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL. ANÁLISE. IMPOSSIBILIDADE. USURPAÇÃO DA COMPETÊNCIA DO STF. MANDADO DE SEGURANÇA CONTRA LEI EM TESE. NÃO CABIMENTO. SÚMULA 266/STF. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA. PROVIMENTO NEGADO.
+(..)
+4. É pacífico o entendimento desta Corte Superior de que os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c; em razão disso fica prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica.
+5. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp n. 2.002.533/TO, Rel. Ministro PAULO SÉRGIO DOMINGUES, PRIMEIRA TURMA, j. em 30.06.2025, DJEN de 03.07.2025).
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO ANULATÓRIA. INFRAÇÃO CONSUMERISTA. MULTA APLICADA PELO PROCON. ALEGADA VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. PUBLICIDADE ENGANOSA. CONFIGURADA. PRETENSA ANULAÇÃO OU REDUÇÃO DA MULTA. REFORMA DO JULGADO QUE DEMANDARIA REEXAME FÁTICO-PROBATÓRIO. REDISTRIBUIÇÃO DO ÔNUS SUCUMBENCIAL. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+5. A análise da alegada divergência jurisprudencial fica prejudicada diante da inadmissão do recurso especial interposto pela alínea "a", inciso III, do artigo 105 da Constituição Federal.
+6. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.953.566/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEGUNDA TURMA, j. em 13.08.2025, DJEN de 18.08.2025).
+Nos termos do art. 85, §§ 2º e 11, do Código de Processo Civil, de rigor a majoração dos honorários advocatícios em 10% (dez por cento) do que consta do acórdão de fl. 170e.
+Isto posto, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Especial.
+Publique-se e intimem-se.
+EMENTA
