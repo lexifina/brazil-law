@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial interposto por PRATTICA LOGÍSTICA COMERCIAL LTDA. do acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim ementado (fls. 210/211):
+PROCESSUAL CIVIL. SENTENÇA EXTRA PETITA. TRIBUTÁRIO. IRPJ E CSLL. REPETIÇÃO DE INDÉBITO E REMUNERAÇÃO. JUROS. TAXA SELIC. MOMENTO DA TRIBUTAÇÃO.
+1. É nula a sentença que trate de matéria estranha ao pedido formulado pelo autor, padecendo de vício por decidir extra petita, em razão do princípio processual da correspondência entre o pedido e a sentença.
+2. O Supremo Tribunal Federal, ao julgar o Tema 962, decidiu que "É inconstitucional a incidência do IRPJ e da CSLL sobre os valores atinentes à taxa Selic recebidos em razão de repetição de indébito tributário".
+3. No tocante à modulação dos efeitos da decisão, ficou consignado que ocorrerá a partir da data da publicação da ata de julgamento do mérito do Tema, que corresponde ao dia 30/9/21, sendo ressalvadas as seguintes hipóteses: a) as ações ajuizadas até 17/9/21 (data do início do julgamento do mérito); b) os fatos geradores anteriores a 30/9/21 em relação aos quais não tenha havido o pagamento do IRPJ ou da CSLL a que se refere a tese de repercussão geral.
+4. A aquisição jurídica e econômica da renda tributável, reveladora do acréscimo patrimonial, ocorre por ocasião da homologação, expressa ou tácita, da declaração de compensação. Precedentes.
+5. Reconhecida a ocorrência de indébito tributário, faz jus a contribuinte à compensação dos tributos recolhidos indevidamente, condicionada ao trânsito em julgado da presente decisão judicial (art. 170-A do CTN), nos termos do art. 74 da Lei n.º 9.430/1996 e alterações posteriores.
+Os embargos de declaração opostos pela Fazenda Nacional foram acolhidos e os da contribuinte rejeitados (fls. 242/243).
+Nas razões de seu recurso, a parte recorrente afirma (fls. 300/301):
+Portanto, exigir tributo oriundo de decisão transitada em julgado em mandados de segurança antes do reconhecimento do crédito e da homologação da compensação pela Recorrida implica em violar o conceito de renda e lucro (art. 153, inciso III c/c art. 195, inciso I, "c" da CF/88); o princípio da capacidade contributiva (art. 145, § 1º, da CF /88); o princípio da isonomia (art. 150, II, da CF/88); o princípio do não confisco (art. 150, IV, da CF/88); os arts. 43, 116, e 117, do Código Tributário Nacional.
+A parte adversa apresentou contrarrazões (fls. 393/402).
+O recurso foi admitido na origem (fls. 410/413).
+É o relatório.
+A questão debatida nos autos foi afetada à Primeira Seção do Superior Tribunal de Justiça para ser decidida sob o rito de recursos repetitivos (Tema 1.362), e foi assim delimitada:
+"Definir o momento no qual é verificada a disponibilidade jurídica de renda em repetição de indébito tributário ou em reconhecimento do direito à compensação julgado procedente e já transitado em julgado, para a caracterização do fato gerador do IRPJ e da CSLL, na hipótese de créditos ilíquidos." (REsps 2.153.492/SP, 2.153.547/SP, 2.153.817/SP e 2.172.434/SP, relator Ministro Teodoro Silva Santos).
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+O envio do recurso especial a esta Corte Superior deve ocorrer somente após o esgotamento da instância ordinária, formalizado com o novo julgamento pelo Tribunal de origem, quando então será possível examinar, no âmbito do STJ, as matérias jurídicas que eventualmente permanecerem controvertidas. Essa cautela também evita o fracionamento do recurso e previne eventual violação ao princípio da unicidade recursal, que veda a interposição simultânea ou sucessiva de recursos contra a mesma decisão.
+Ante o exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil (CPC), após a publicação do acórdão dos recursos representativos de controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do mesmo CPC.
+Publique-se. Intimem-se.
+EMENTA
