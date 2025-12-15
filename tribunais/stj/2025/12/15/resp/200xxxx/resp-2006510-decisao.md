@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo interposto por FÁBIO ALVES contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ que não admitiu o recurso especial interposto contra acórdão proferido na Apelação Criminal n. 003102-61.2020.8.16.0146.
+Consta dos autos que o agravante foi condenado, em primeiro grau, às penas de 7 (sete) anos, 3 (três) meses e 15 (quinze) dias de reclusão, em regime inicial fechado, e 728 (setecentos e vinte e oito) dias-multa, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006. Em seguida, o Tribunal de origem negou provimento à apelação defensiva.
+Nas razões do apelo nobre, o recorrente alegou violação dos arts. 240, § 1º, e 386, incisos II e VII, do Código de Processo Penal, sustentando: i) nulidade da busca e apreensão por ausência de prévia averiguação das denúncias anônimas; ii) quebra da cadeia de custódia e ausência de certeza quanto à materialidade delitiva; e iii) absolvição por insuficiência probatória (fls. 1128-1150).
+A Vice-Presidência do Tribunal a quo inadmitiu o recurso especial ao fundamento de: i) ausência de prequestionamento quanto à tese de nulidade da busca domiciliar (Súmula n. 282/STF); ii) manutenção por fundamento autônomo não impugnado acerca da quebra da cadeia de custódia da prova (Súmula n. 283/STF); iii) necessidade de revolvimento fático-probatório para infirmar a condenação (Súmula n. 7/STJ) (fls. 1169-1180).
+No agravo, o recorrente sustenta, em síntese, que as matérias são de ordem pública e não exigem prequestionamento; que, ao contrário do consignado no acórdão impugnado, não houve mero erro material, mas quebra da cadeia de custódia; e que a Súmula n. 7/STJ não impede cognição horizontal para constatar a inexistência de provas, requerendo o processamento do recurso especial (fls. 1189-1209).
+É o relatório.
+Decido.
+O conhecimento do agravo pressupõe o integral cumprimento do ônus da impugnação específica dos fundamentos da decisão que inadmitiu o recurso especial na origem. Conforme o princípio da dialeticidade, se o agravante não refuta, de maneira pontual e suficiente, cada um dos óbices aplicados, o agravo não supera seu próprio juízo de admissibilidade, o que impede a análise do recurso especial.
+No caso concreto, o agravante não observou tal requisito processual.
+A decisão de inadmissibilidade fundamentou-se na incidência das Súmulas n. 282/STF, por ausência de prequestionamento; e n. 283/STF, por ausência de ataque a todos os fundamentos autônomos do acórdão; bem como na vedação ao reexame de provas, conforme a Súmula n. 7/STJ (fls. 1169-1180). A argumentação do agravo, contudo, falhou em infirmar adequadamente a aplicação dos referidos óbices.
+Quanto à aplicação da Súmula n. 282/STF, conforme já se decidiu, a ausência de demonstração clara e articulada de que os dispositivos foram prequestionados de forma adequada configura deficiência na fundamentação, atraindo o óbice da Súmula 182 n. do STJ, veja-se: AgRg no AREsp n. 2.551.265/SC, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 11/11/2025, DJEN de 18/11/2025.
+Além disso, a superação da incidência da Súmula n. 283 do Supremo Tribunal Federal exige que a parte agravante demonstre que todos os fu ndamentos em que se apoia o acórdão recorrido foram devidamente impugnados nas razões do recurso especial. No entanto, tal providência não foi observada no agravo em recurso especial defensivo.
+Em sentido similar, confira-se:
+(..)
+6. O reproche da Súmula n. 283/STF, quando aplicada no contexto de ausência de impugnação de todos os fundamentos do acórdão recorrido, exige da parte que proceda ao cotejo analítico entre os fundamentos do acórdão recorrido e as razões do recurso especial, de modo a comprovar que os pontos esteares do julgado guerreado foram integralmente atacados, ônus impugnativo que não resulta cumprido com a mera alegação genérica de não incidência do aludido verbete sumular.
+7. Agravo regimental não provido.
+(AgRg no AREsp n. 2.659.042/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 10/12/2024, DJEN de 16/12/2024.)
+No mais, para afastar o impedimento da Súmula n. 7/STJ, seria imperativo que o recorrente, por meio de um cotejo analítico, demonstrasse que a sua pretensão recursal não demanda a reavaliação do substrato fático-probatório, mas apenas a revaloração jurídica dos fatos já soberanamente delineados no acórdão recorrido. A ausência dessa demonstração técnica, limitando-se a alegações genéricas, torna a impugnação ineficaz e mantém hígido o fundamento da decisão agravada.
+A jurisprudência deste Tribunal é pacífica ao exigir, para o afastamento da Súmula n. 7, que a parte demonstre, com base nas premissas fáticas do próprio acórdão, que a questão é puramente de direito, não bastando a mera assertiva de que não se pretende o reexame de provas (AgRg no AREsp n. 2.183.499/MG, relator Ministro Carlos Cini Marchionatti, Desembargador Convocado do TJRS, Quinta Turma, julgado em 20/03/2025, DJEN de 26/03/2025).
+Sob a mesma perspectiva:
+(..)
+2. Nos termos da orientação jurisprudencial deste Superior Tribunal, "para que se considere adequadamente impugnada a Súmula 7/STJ, o agravo precisa empreender um cotejo entre os fatos estabelecidos no acórdão e as teses recursais, mostrando em que medida estas não exigem a alteração do quadro fático delineado pelo Tribunal local, o que não se observa na alegação genérica de ser prescindível reexame de fatos e provas" (AgRg no AREsp n. 2.060.997/SC, Rel. Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/8/2022, DJe 10/8/2022).
+3. A falta de impugnação específica de todos os fundamentos utilizados na decisão agravada (despacho de inadmissibilidade do recurso especial) atrai a incidência da Súmula n. 182 desta Corte Superior.
+(..)
+(AREsp n. 2.548.204/RN, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/8/2025, DJEN de 22/8/2025.)
+No caso concreto, nas razões recursais, o agravante, de forma genérica, alega que a Súmula 7 não impede o juízo de cognição horizontal, que verifica a constatação da prova (fl. 1206).
+Consoante a jurisprudência pacífica desta Corte Superior, é dever do recorrente indicar, objetivamente, os elementos contidos no próprio acórdão que viabilizariam uma nova qualificação jurídica dos fatos, o que não ocorreu no presente caso.
+Dessa forma, conclui-se que o agravo não preenche os requisitos de admissibilidade. A parte recorrente não impugnou, de forma específica e dialética, todos os fundamentos da decisão que, na origem, inadmitiu o recurso especial.
+Incide, portanto, a Súmula n. 182 do STJ, bem como a regra do art. 932, inciso III, do Código de Processo Civil, aplicável ao processo penal por força do art. 3º do Código de Processo Penal.
+Sobre a matéria:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO NÃO CONHECIDO POR INCIDÊNCIA DA SÚMULA N. 182 DO STJ. ÓBICE DA SÚMULA N. 7 DO STJ NÃO INFIRMADO PELO AGRAVANTE. DECISÃO MANTIDA.
+1. A ausência de impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial, ônus da parte recorrente, obsta o conhecimento do agravo, nos termos do art. 932, III, do CPC/2015; art. 253, parágrafo único, I, do RISTJ; e da Súmula n. 182 do STJ, aplicável por analogia.
+2. "O momento processual adequado para a impugnação completa dos termos da decisão de inadmissibilidade é o agravo em recurso especial, e não o agravo regimental oposto contra a decisão que aplicou o mencionado óbice sumular" (AgRg no REsp n. 1.991.029/PR, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 18/9/2023, DJe de 20/9/2023).
+3 . Agravo regimental improvido.
+(AgRg no AREsp n. 2.400.759/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 5/3/2024, DJe de 11/3/2024.)
+Ante o exposto, com fundamento no art. 34, inciso XVIII, alínea "a", do RISTJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
