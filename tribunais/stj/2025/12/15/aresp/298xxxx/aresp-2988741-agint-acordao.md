@@ -1,0 +1,68 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/12/2025 a 15/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. ADMISSIBILIDADE. DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL. RAZÕES GENÉRICAS. PRINCÍPIO DA DIALETICIDADE. INCINDÍVEL. MOMENTO ADEQUADO.
+1. Incumbe ao agravante infirmar especificamente todos os fundamentos da decisão atacada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo (art. 932, III, do Código de Processo Civil).
+2. No tocante à Súmula nº 7/STJ, não basta a parte sustentar genericamente a não aplicação do óbice, sem explicitar, à luz do contexto fático delineado no acórdão e da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame fático-probatório.
+3. A decisão que inadmite o recurso especial proferida pela Corte de origem é incindível, devendo ser impugnada completamente, fundamento por fundamento.
+4. O momento oportuno para se infirmar os fundamentos da decisão que inadmitiu o apelo nobre é nas razões do agravo em recurso especial, e não no presente recurso.
+5. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por IRMANDADE DA SANTA CASA DE MISERICÓRDIA DE SOROCABA contra a decisão que não conheceu do agravo em recurso especial em virtude da falta de impugnação específica de fundamento da decisão combatida, a saber: Súmula nº 7/STJ.
+Nas presentes razões (e-STJ fls. 145-161), a agravante alega que impugnou a incidência da Súmula nº 7/STJ, tendo afirmado que não pretendia o reexame das provas dos autos.
+Salienta que
+"A questão que se coloca no Recurso Especial é puramente de direito, um imóvel de propriedade de uma Santa Casa, mesmo que não utilizado diretamente na prestação de serviços de saúde, está abrangido pela impenhorabilidade prevista na Lei nº 14.334/2022. " (e-STJ fl. 152)
+No ponto, alega que restou demonstrada a violação do art. 2º da Lei nº 14.334/2022, que trata da impenhorabilidade dos bens de entidade filantrópica.
+Defende que, se o ordenamento jurídico se mobiliza para proteger a atividade empresarial em razão de sua função social, com razão muito maior deve-se proteger uma entidade filantrópica como a agravante, cuja função social não é apenas econômica, mas sim a efetivação de um direito fundamental e indisponível: a saúde.
+Ao final, requer a reforma da decisão atacada ou a submissão do recurso para julgamento pelo colegiado.
+Sem impugnação (e-STJ fl. 165).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. ADMISSIBILIDADE. DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL. RAZÕES GENÉRICAS. PRINCÍPIO DA DIALETICIDADE. INCINDÍVEL. MOMENTO ADEQUADO.
+1. Incumbe ao agravante infirmar especificamente todos os fundamentos da decisão atacada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo (art. 932, III, do Código de Processo Civil).
+2. No tocante à Súmula nº 7/STJ, não basta a parte sustentar genericamente a não aplicação do óbice, sem explicitar, à luz do contexto fático delineado no acórdão e da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame fático-probatório.
+3. A decisão que inadmite o recurso especial proferida pela Corte de origem é incindível, devendo ser impugnada completamente, fundamento por fundamento.
+4. O momento oportuno para se infirmar os fundamentos da decisão que inadmitiu o apelo nobre é nas razões do agravo em recurso especial, e não no presente recurso.
+5. Agravo interno não provido.
+VOTO
+A irresignação não merece prosperar.
+O art. 932, III, do Código de Processo Civil impõe ao relator não conhecer do recurso "(..) que não tenha impugnado especificamente os fundamentos da decisão recorrida".
+No caso, conforme consignado na decisão atacada, o agravo em recurso especial não rebateu de maneira específica o fundamento referente à aplicação da Súmula nº 7/STJ.
+Cumpre destacar que a impugnação da decisão atacada deve ser clara e suficiente para demonstrar o equívoco em sua negativa, o que não ocorreu na espécie, visto que a agravante se limitou a alegar genericamente que não se aplica a Súmula nº 7/STJ.
+Esse é, inclusive, o entendimento pacífico desta Corte Superior, formulado no sentido de que é dever do recorrente atacar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo, não bastando para tanto a impugnação genérica, parcial ou a reiteração das razões do recurso anterior.
+Convém ressaltar que, no tocante à Súmula nº 7/STJ, não basta a parte sustentar genericamente a não aplicação do óbice, sem explicitar, à luz do contexto fático delineado no acórdão e da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame fático-probatório.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE RESCISÃO DE CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. INDENIZAÇÃO. DANOS MATERIAIS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A TODOS OS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, DO NCPC (ART. 544, § 4º, I, DO CPC/73). AGRAVO INTERNO NÃO PROVIDO.
+(..)
+2. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do NCPC (544, § 4º, I, do CPC/73), não impugna os fundamentos da respectiva inadmissibilidade (incidência das Súmulas n.ºs 5 e 7 do STJ e 284 do STF).
+3. Não basta para considerar "especificamente impugnados" os fundamentos da decisão recorrida a mera transcrição de súmulas ou reprodução de dispositivos legais violados. Necessário, além das indicações expressas e claras, a sua vinculação aos fatos tal como analisados pelo acórdão ou decisão para então, mediante enfrentamento dialético desse conjunto de permissivos constitucionais em face do exame soberano do material de cognição pela Corte estadual, se chegar ao almejado entendimento de que a classificação jurídica concluída não espelha o melhor direito ao caso.
+4. Agravo interno não provido."
+(AgInt no AREsp 1.925.017/SC, Relator Ministro Moura Ribeiro, Terceira Turma, julgado em 5/9/2022, DJe de 8/9/2022 - grifou-se.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO PROFERIDA PELO TRIBUNAL DE ORIGEM. PRINCIPIO DA DIALETICIDADE. ART. 932, III, DO CPC DE 2.015. INSUFICIÊNCIA DE ALEGAÇÃO GENÉRICA. RECURSO MANIFESTAMENTE INADMISSÍVEL. MULTA DO ART. 1.021, § 4º, DO CPC.
+1. O agravo que objetiva conferir trânsito ao recurso especial obstado na origem reclama, como requisito objetivo de admissibilidade, a impugnação específica aos fundamentos utilizados para a negativa de seguimento do apelo extremo, consoante expressa previsão contida no art. 932, III, do CPC de 2.015 e art. 253, I, do RISTJ, ônus da qual não se desincumbiu a parte insurgente, sendo insuficiente alegações genéricas de não aplicabilidade do óbice invocado.
+2. Para afastar o fundamento, da decisão agravada, de incidência dos óbices das Súmulas n. 5/STJ e n. 7/STJ não basta apenas deduzir alegação genérica de inaplicabilidade dos referidos óbices ou que a tese defensiva não demanda reexame de provas ou nova interpretação de cláusulas contratuais. Para tanto, o recorrente deve desenvolver argumentação que demonstre como seria possível modificar o entendimento firmado pelas instâncias ordinárias sem nova análise do conjunto fático-probatório ou de cláusulas contratuais, deixando claro que os fatos foram devidamente consignados no acórdão objurgado, ônus do qual, contudo, não se desobrigou. Precedentes.
+(..)
+4. Agravo interno não provido, com aplicação de multa."
+(AgInt no AREsp 2.092.341/MS, Relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/6/2022, DJe de 28/6/2022 - grifou-se.)
+Registra-se, por oportuno, que a decisão que inadmite o recurso especial proferida pela Corte de origem é incindível, devendo ser impugnada completamente, fundamento por fundamento.
+Confira-se:
+"PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos."
+(EAREsp 746.775/PR, Relator p/ acórdão MinistroLuis Felipe Salomão, Corte Especial, julgado em 19/9/2018, DJe de 30/11/2018 - grifou-se.)
+Ressalta-se que o momento oportuno para se infirmar os fundamentos da decisão que inadmitiu o apelo nobre é nas razões do agravo em recurso especial, e não no presente recurso.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TRÊS RECURSOS INTERPOSTOS CONTRA A MESMA DECISÃO. PRECLUSÃO. UNIRRECORRIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO PROFERIDA PELO TRIBUNAL DE ORIGEM. PRINCÍPIO DA DIALETICIDADE. ART. 932, III, DO CPC DE 2.015. INSUFICIÊNCIA DE ALEGAÇÃO GENÉRICA.
+(..)
+3. O agravo que objetiva conferir trânsito ao recurso especial obstado na origem reclama, como requisito objetivo de admissibilidade, a impugnação específica aos fundamentos utilizados para a negativa de seguimento do apelo extremo, consoante expressa previsão contida no art. 932, III, do CPC de 2.015 e art. 253, I, do RISTJ, ônus da qual não se desincumbiu a parte insurgente, sendo insuficiente alegações genéricas de não aplicabilidade do óbice invocado.
+4. Esta Corte, ao interpretar o previsto no art. 932, parágrafo único, do CPC/2015 (o qual traz disposição similar ao § 3º do art. 1.029 do mesmo Código de Ritos), firmou o entendimento de que este dispositivo só se aplica para os casos de regularização de vício estritamente formal, não se prestando para complementar a fundamentação de recurso já interposto.
+5. " A impugnação tardia do fundamento da decisão que inadmitiu o recurso especial caracteriza indevida inovação recursal, não tendo o condão de infirmar o não conhecimento do agravo, em face da preclusão consumativa" (AgInt no AREsp 1.201.388/PE, Rel. Ministro Marco Buzzi, Quarta Turma, julgado em 19/06 /2018, DJe 26/06/2018).
+6. Agravo interno de fls. 422 427 não provido. Agravos internos de fls. 428- 433 e de fls. 434-439 não conhecidos."
+(AgInt no AREsp 1.075.687/SP, Relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 4/12/2018, DJe de 11/12/2018 - grifou-se.)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
