@@ -1,0 +1,79 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/12/2025 a 15/12/2025, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Humberto Martins.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Moura Ribeiro, Daniela Teixeira e Nancy Andrighi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+Direito Civil. Recurso Especial. Plano de Saúde. Recusa de cobertura por doença preexistente. Dano moral. Reexame de provas.
+I. Caso em exame
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça do Estado de Sergipe que negou provimento ao recurso da ré e deu parcial provimento ao recurso da autora, reformando a sentença apenas para fixar os honorários advocatícios sobre o valor da condenação, mantendo a improcedência dos pedidos de danos materiais e morais.
+2. A sentença de primeiro grau havia confirmado a tutela de urgência para realização de gastroplastia videolaparoscópica, mas negou os pedidos de ressarcimento por danos materiais e morais, considerando que a autora não demonstrou má-fé na declaração de saúde e que a operadora do plano de saúde assumiu o risco da pactuação ao não exigir exames prévios.
+3. O acórdão recorrido concluiu pela inexistência de má-fé por parte da operadora do plano de saúde e pela razoabilidade da interpretação contratual que levou à recusa inicial, entendendo que a aflição da autora decorreu da própria situação vivenciada e não da negativa do plano de saúde.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a recusa de cobertura por plano de saúde, sob alegação de doença preexistente, sem exigência de exames prévios ou demonstração de má-fé do segurado, gera dano moral indenizável, e se a análise da matéria demandaria reexame fático-probatório.
+III. Razões de decidir
+5. A recusa de cobertura securitária sob alegação de doença preexistente é ilícita se não houve exigência de exames médicos prévios à contratação ou demonstração de má-fé do segurado, conforme Súmula 609 do STJ.
+6. A operadora do plano de saúde assumiu o risco da pactuação ao aceitar declaração de saúde preenchida por programa de computador, sem exigir exame médico prévio ou a presença da autora para análise de sua condição de saúde visível.
+7. A negativa de cobertura não configurou má-fé por parte da operadora do plano de saúde, que agiu com base na interpretação contratual e na ausência de previsão contratual para o procedimento solicitado.
+8. A aflição sentida pela autora foi provocada pela própria situação vivenciada e não pela negativa do plano de saúde, não configurando ato ilícito passível de reparação moral.
+9. A pretensão de reexame do conjunto fático-probatório e de cláusulas contratuais esbarra nos óbices das Súmulas 5 e 7 do STJ.
+IV. Dispositivo
+10. Resultado do Julgamento: Recurso especial parcialmente conhecido e, na parte conhecida, improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de recurso especial interposto por MAYARA CHAGAS VIEIRA, com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE assim ementado (fls. 517):
+APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS E PEDIDO DE TUTELA ANTECIPADA. UNIMED. REALIZAÇÃO DE CIRURGIA DE GASTROPLASTIA A SER CUSTEADA PELO PLANO DE SAÚDE . DANOS MATERIAIS. NÃO DANO MORAL CARACTERIZAÇÃO. INEXISTENTE. HONORÁRIOS ADVOCATÍCIOS. VALOR DA CONDENAÇÃO CORRESPONDENTE AO CUSTEIO DO TRATAMENTO MÉDICO INDEVIDAMENTE NEGADO. ART. 85, § 2º, DO CPC. SENTENÇA PARCIALMENTE REFORMADA. RECURSOS CONHECIDOS PARA NEGAR PROVIMENTO AO APELO INTERPOSTO PELA RÉ E DAR PARCIAL PROVIMENTO AO APELO INTERPOSTO PELA PARTE AUTORA. POR UNANIMIDADE.
+Foram opostos embargos de declaração pela parte recorrente (fls. 523-529) contra o acórdão da apelação, os quais foram rejeitados (fls. 537-539).
+As contrarrazões ao recurso especial foram apresentadas pela UNIMED SERGIPE COOPERATIVA DE TRABALHO MEDICO (fls. 611-627) e pela AFFIX ADMINISTRADORA DE BENEFICIOS LTDA. (fls. 589-594). Sobreveio, em seguida, juízo de admissibilidade positivo da instância de origem, que admitiu o recurso especial (fls. 638-643).
+O Ministério Público Federal, por sua Subprocuradoria Geral da República, apresentou parecer opinando pelo desprovimento do recurso especial, destacando que a Corte a quo , competente para análise do material probatório, reconheceu a responsabilidade do plano de saúde em prestar o tratamento diante da prescrição médica, e que a revisão do decisório demandaria incursão na seara fático-probatória e das cláusulas contratuais, esbarrando nas Súmulas nº 5 e 7 do STJ (fls. 643-656).
+É, no essencial, o relatório.
+EMENTA
+Direito Civil. Recurso Especial. Plano de Saúde. Recusa de cobertura por doença preexistente. Dano moral. Reexame de provas.
+I. Caso em exame
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça do Estado de Sergipe que negou provimento ao recurso da ré e deu parcial provimento ao recurso da autora, reformando a sentença apenas para fixar os honorários advocatícios sobre o valor da condenação, mantendo a improcedência dos pedidos de danos materiais e morais.
+2. A sentença de primeiro grau havia confirmado a tutela de urgência para realização de gastroplastia videolaparoscópica, mas negou os pedidos de ressarcimento por danos materiais e morais, considerando que a autora não demonstrou má-fé na declaração de saúde e que a operadora do plano de saúde assumiu o risco da pactuação ao não exigir exames prévios.
+3. O acórdão recorrido concluiu pela inexistência de má-fé por parte da operadora do plano de saúde e pela razoabilidade da interpretação contratual que levou à recusa inicial, entendendo que a aflição da autora decorreu da própria situação vivenciada e não da negativa do plano de saúde.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a recusa de cobertura por plano de saúde, sob alegação de doença preexistente, sem exigência de exames prévios ou demonstração de má-fé do segurado, gera dano moral indenizável, e se a análise da matéria demandaria reexame fático-probatório.
+III. Razões de decidir
+5. A recusa de cobertura securitária sob alegação de doença preexistente é ilícita se não houve exigência de exames médicos prévios à contratação ou demonstração de má-fé do segurado, conforme Súmula 609 do STJ.
+6. A operadora do plano de saúde assumiu o risco da pactuação ao aceitar declaração de saúde preenchida por programa de computador, sem exigir exame médico prévio ou a presença da autora para análise de sua condição de saúde visível.
+7. A negativa de cobertura não configurou má-fé por parte da operadora do plano de saúde, que agiu com base na interpretação contratual e na ausência de previsão contratual para o procedimento solicitado.
+8. A aflição sentida pela autora foi provocada pela própria situação vivenciada e não pela negativa do plano de saúde, não configurando ato ilícito passível de reparação moral.
+9. A pretensão de reexame do conjunto fático-probatório e de cláusulas contratuais esbarra nos óbices das Súmulas 5 e 7 do STJ.
+IV. Dispositivo
+10. Resultado do Julgamento: Recurso especial parcialmente conhecido e, na parte conhecida, improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cinge-se a controvérsia a analisar se a recusa indevida de cobertura por plano de saúde, em caso de doença preexistente sem exigência de exames prévios ou demonstração de má-fé do segurado, gera dano moral indenizável, bem como se a análise da matéria demandaria reexame fático-probatório.
+A sentença de primeiro grau julgou a inicial parcialmente procedente apenas para confirmar a tutela de urgência (fls. 368-375), que determinou a realização da gastroplastia videolaparoscópica, mas negou os pedidos de ressarcimento por danos materiais e morais. Para tanto, a decisão de primeiro grau assim fundamentou (fls. 370-372):
+Em atenção aos documentos carreados aos autos, inicialmente a "Declaração de Saúde" nas fls. 96/97 confere-se os seguintes questionamentos ao pretenso beneficiário: "Sabe ser portador de: 1. Sofre de obesidade  2. Obesidade mórbida  3. Doenças relacionadas com obesidade ". Na ficha da autora todas essas alternativas estão respondidas com "N", que indica não.
+Nesse ponto, cabe ressaltar que é inegável que a autora tinha ciência à época da contratação da sua condição de obesidade, inclusive o relatório médico, anexado pela própria autora (fl. 30), consta o seguinte: "Tem obesidade há mais de 10 anos, desde a infância, com histórico familiar de obesidade."
+Ainda assim, é preciso destacar que, apesar da ciência da condição de obesidade, a autora recebeu diagnóstico de doenças associadas a essa condição apenas depois da pactuação com as rés (fls. 30, 31, 33, 34), inclusive os exames anteriores de imagem não detectavam anormalidades nos órgãos (fls. 52/54), o que sugere que a autora não tinha ciência prévia de nenhuma doença associada à obesidade.
+Acrescenta-se que a "declaração de saúde" formalizada entre as partes exige o seguinte, fl. 96: "O preenchimento do formulário deverá ser feito pelo proponente de próprio punho, sem rasuras, independente do auxílio do médico orientador.", apesar dessa ressalva, fica claro que o documento foi preenchido automaticamente, ou seja, por algum sistema de computador.
+ ..
+O que se extrai é que a "declaração de saúde" vergastada pela defesa não foi preenchida ou assinada de próprio punho pela autora, o que denota que a contratante não estava nem na própria sede nesse momento da pactuação.
+Também não há evidência mínimade que os dados declarados foram revisados pelo médico da Unimed, ou mesmo pela própria vendadora, uma vez que a condição de obesidade estava evidenciada naquela oportunidade, mesmo assim as rés aprovaram a pactuação e, nesse caso, assumiram o risco da pactuação.
+Acerca do tema, vejamos Sumula 609 do STJ: "A recusa de cobertura securitária, sob a alegação de doença preexistente, é ilícita se não houve a exigência de exames médicos prévios à contratação ou a demonstração de má-fé do segurado."
+No caso dos autos, entendo que as requeridas, ao aceitarem declaração de saúde preenchida por programa de computador, sem exigência de exame médico prévio, ou mesmo exigência da presença da autora para análise de uma condição que é visível - obesidade - assumiu o risco da pactuação e, como já apaziguado pelo Superior Tribunal de Justiça, não pode suscitar agora a preexistência da condição de obesidade para negar acesso médico necessário à sobrevida da beneficiária.
+Cabe reforçar aqui que não foi evidenciado pela defesa que a autora atuou com má-fé e omitiu informações na pactuação, isso porque não há indício de que a própria promovente firmou a declaração de saúde, uma vez que o preenchimento foi por computador e assinatura virtual, e também porque os exames anteriores de saúde da autora não denotavam condições de saúde associadas à obesidade.
+O Tribunal de Justiça do Estado de Sergipe, ao julgar a apelação, negou provimento ao recurso da ré e deu parcial provimento ao recurso da autora, reformando a sentença apenas para fixar os honorários advocatícios sobre o valor da condenação, mantendo a improcedência dos pedidos de danos materiais e morais (fls. 517-521). O acórdão recorrido assim se manifestou (fls. 518-519):
+No mais, coaduno do entendimento do douto magistrado no sentido de que, considerando-se que a declaração de saúde não foia quo preenchida pela autora caberia à parte requerida revisar os dados declarados antes da aprovação da pactuação, o que não foi feito.
+Deste modo, as rés assumiram o risco da pactuação, sendo descabida a negativa da realização de cirurgia pleiteada, considerando-se as circunstâncias descritas.
+Passo à análise do pleito de indenização por danos materiais. A parte autora requer a restituição do valor no importe de R$ 680,00 (seiscentos e oitenta reais) em razão das consultas realizadas com nutricionista e psicóloga.
+Porém, a requerente não demonstrou que houve a negativa pela UNIMED de atendimento com nutricionista e psicólogo.
+No mais, é cabível o reembolso dos serviços realizados pela autora, diante da ausência de profissional credenciado pelo plano de saúde, o que não é o caso.
+ ..
+A meu ver, na situação em tela, entendo que não há que se falar em indenização por dano moral, por não se vislumbrar má-fé na conduta da operadora do plano de saúde, que se recusou a realizar o procedimento sob argumento de cumprir o contrato firmado.
+No caso dos autos, a UNIMED negou a autorização para realização do procedimento cirúrgico amparada na ausência de previsão contratual.
+Muito embora o alegado prejuízo moral suportado pela parte autora mostre-se razoável, à medida que ninguém aceita ter um tratamento médico recusado, eis que saúde é um direito de todos e um dever do Estado, entendo que não houve qualquer ato ilícito a possibilitar a reparação.
+Na situação em tela, observo que inexiste má-fé na conduta da operadora do plano de saúde, já que se recusou a custear o tratamento, sob argumento de cumprir o contrato firmado, conforme dito anteriormente.
+Nesse sentido, sem desmerecer o dissabor vivido pela parte demandante, entendo não ter havido, efetivamente, dano à sua integridade moral que pudesse justificar a reparação pleiteada, tendo em vista que a aflição sentida pelo autor foi provocada pela própria situação vivenciada e não pela negativa do plano de saúde.
+Contudo, a análise das razões recursais e dos fundamentos do acórdão recorrido revela que a pretensão da recorrente esbarra no óbice da Súmula 7 do Superior Tribunal de Justiça.
+Com efeito, o Tribunal de origem, ao afastar a condenação por danos morais, fundamentou sua decisão na inexistência de má-fé por parte da operadora do plano de saúde e na razoabilidade da interpretação contratual que levou à recusa inicial. A Corte local concluiu que a aflição sentida pela autora foi provocada pela própria situação vivenciada e não pela negativa do plano de saúde, não configurando ato ilícito passível de reparação moral.
+Para se chegar a uma conclusão diversa, seria necessário reexaminar o conjunto fático-probatório dos autos, a fim de verificar se houve, de fato, má-fé na conduta da operadora, se a recusa foi injustificada a ponto de configurar ato ilícito que transcenda o mero inadimplemento contratual, e se o abalo psicológico sofrido pela recorrente decorreu diretamente da negativa do plano de saúde, e não da própria condição de saúde ou do processo de busca pelo tratamento.
+A jurisprudência desta Corte Superior é pacífica no sentido de que a pretensão de simples reexame de prova não enseja recurso especial, conforme o enunciado da Súmula 7 do STJ. Da mesma forma, a reinterpretação de cláusulas contratuais é vedada pela Súmula 5 do STJ.
+Por fim, inexiste a alegada violação dos arts. 489 e 1.022 do CPC uma vez que o Tribunal de origem se manifestou, de forma clara e fundamentada, quanto aos pontos alegados como omissos.
+Como se depreende do trecho do acórdão recorrido citado acima, o Tribunal de origem, de modo fundamentado, tratou da questão suscitada, resolvendo, portanto, de forma integral, a controvérsia posta.
+Ademais, nos termos da jurisprudência do STJ, "não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional" (AgInt no AREsp n. 1.907.401/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 22/8/2022, DJe de 29/8/2022).
+Ante o exposto, conheço parcialmente do recurso especial e, na parte conhecida, nego-lhe provimento.
+É como penso. É como voto.
