@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/12/2025 a 15/12/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. NÃO OCORRÊNCIA. REFORMA DO JULGADO. IMPOSSIBILIDADE.
+1. Os embargos de declaração, a teor do art. 1.022 do CPC, constitui-se em recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão -, não podendo, portanto, serem acolhidos quando a parte embargante pretende, essencialmente, reformar o decidido.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examina-se embargos de declaração opostos por ADAUTO LUIS ZOCATELLI, MATILDE MARLI BAADER E LOURIVAL ZOCATELLI, contra acórdão proferido em sede de agravo interno, assim ementado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL.
+1. Ação declaratória de nulidade.
+2. Agravo interno interposto contra decisão que não conheceu do agravo em recurso especial, em razão da não impugnação dos seguintes fundamentos da decisão de inadmissibilidade: ausência de indicação do dispositivo objeto da divergência - Súmula 284/STF (cerceamento de defesa) e ausência de indicação dos acórdãos paradigmas para ilustrar a divergência (cerceamento de defesa).
+3. Consoante entendimento pacífico desta Corte, não merece conhecimento o agravo em recurso especial que não impugna, especificamente, os fundamentos da decisão de inadmissão do recurso especial. Precedentes.
+4. Agravo interno não provido. (e-STJ fl. 1728)
+Nas razões do presente recurso, a parte embargante sustenta que há omissão quanto à aplicação do art. 932, parágrafo único, do CPC; omissão quanto ao enfrentamento do pedido subsidiário de conhecimento pela alínea "a" do art. 105 da CF; erro de percepção do conteúdo das razões do agravo em recurso especial; e contradição interna entre o reconhecimento de fundamentação legal e a conclusão pela insuficiência formal, requerendo, com efeitos integrativos e infringentes, a reconsideração do acórdão para oportunizar a regularização de vícios formais ou o conhecimento do especial pela alínea "a", e, subsidiariamente, a anulação do acórdão para novo julgamento (e-STJ fls. 1736-1739).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. NÃO OCORRÊNCIA. REFORMA DO JULGADO. IMPOSSIBILIDADE.
+1. Os embargos de declaração, a teor do art. 1.022 do CPC, constitui-se em recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão -, não podendo, portanto, serem acolhidos quando a parte embargante pretende, essencialmente, reformar o decidido.
+2. Embargos de declaração rejeitados.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+Nos termos do art. 1.022 do CPC, somente é cabível o recurso de embargos de declaração nas hipóteses em que haja, no julgado impugnado, obscuridade, contradição, omissão ou erro material.
+Na presente hipótese, não foi observado quaisquer um dos vícios ensejadores da oposição dos aclaratórios, em particular, a existência de omissão no julgado a ensejar a alteração no acórdão embargado, mas mero inconformismo com os fundamentos adotados no acórdão embargado.
+Isso porque, a suposta omissão quanto à aplicação do art. 932, parágrafo único, do CPC defendida pela parte embargante não existe na presente hipótese, pois o acórdão recorrido foi cristalino em demonstrar as razões que determinaram o resultado do julgamento colegiado.
+Quanto à alegação da parte embargante, restou claramente consignado no acórdão embargado que, "a decisão de admissibilidade do TJ/SC identificou a deficiência na fundamentação do recurso especial uma vez que a parte não indicou de forma expressa quais os dispositivos de lei federal são objeto da alegação de divergência jurisprudencial (Súmula 284 do STF). No entanto, nas razões do agravo em recurso especial, a parte agravante não demonstrou que no recurso especial foram apontados de forma expressa e específica os dispositivos que teriam sido objeto do dissídio jurisprudencial, não sendo suficiente para tanto a mera citação de dispositivo nas razões do recurso a título de fundamentação" e, ainda, "não merece conhecimento o agravo em recurso especial que não impugna, especificamente, os fundamentos da decisão de inadmissão do recurso especial" (e-STJ fls. 1730-1731).
+Ademais, não há contradição interna no julgado, pois o não conhecimento do agravo decorreu da ausência de impugnação de todos os óbices de admissibilidade apontados na decisão de e-STJ Fls. 1576-1580 no momento processual adequado, qual seja, na peça de agravo em recurso especial. O embargante deixou de infirmá-los no agravo em recurso especial de e-STJ Fls. 1597-1607, razão pela qual o agravo não foi conhecido por incidência da Súmula 182/STJ. Nesse sentir, restou expresso no acórdão agravado que " e m atenção ao princípio da dialeticidade, cumpre à parte agravante apontar que, nas razões do agravo em recurso especial, combateu os fundamentos da decisão agravada, ônus do qual não se desincumbiu, não sendo possível impugnar a decisão de admissibilidade nas razões do agravo interno." (e-STJ Fl. 1730-1731, sem destaque no original)
+Em arremate, consigne-se que esta Corte, ao interpretar o previsto no art. 932, parágrafo único, do CPC/2015 (o qual traz disposição similar ao § 3º do art. 1.029 do CPC/2015), firmou o entendimento de que este dispositivo só se aplica para os casos de regularização de vício estritamente formal, não se prestando para complementar a fundamentação de recurso já interposto. Ilustrativamente:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. PRAZO DO ART. 932, PARÁGRAFO ÚNICO, DO CPC/2015. INAPLICABILIDADE.
+ ..
+3. O prazo referido no art. 932, parágrafo único, do CPC/2015 há de ser oferecido para o recorrente sanar vício de natureza estritamente formal, sendo diversa a hipótese dos autos, em que pretendia a agravante a concessão de lapso para complementar a fundamentação do seu recurso, que não impugnou especificamente todos os fundamentos da decisão que inadmitiu o apelo nobre.
+4. Agravo interno desprovido."
+(AgInt no AREsp 692.495/ES, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 23/06/2016, DJe 18/08/2016)
+Ainda nesse sentido: AgInt no AREsp 2.030.926/SP, Quarta Turma, DJe de 11/5/2022 e AgInt no AREsp 2.001.707/SP, Terceira Turma, DJe de 18/3/2022.
+Na hipótese dos autos, a parte agravante pugna reabertura de oportunidade para regularização de indicação expressa dos dispositivos objeto do dissídio e de cotejo analítico.
+Nesse sentir, não é possível o afastamento dos referidos óbices a pretexto da incidência do art. 932, Parágrafo único, do CPC, uma vez que este dispositivo só se aplica para os casos de regularização de vício estritamente formal, não se prestando para complementar a fundamentação do agravo em recurso especial já interposto, conforme jurisprudência já mencionada.
+Consoante o entendimento consolidado pelo Superior Tribunal de Justiça na Jurisprudência em Teses n. 191, item 3, a ausência de manifestação acerca do mérito de recurso que não superou o juízo de admissibilidade não configura omissão capaz de justificar a oposição de embargos de declaração. Assim, inexistindo análise meritória justamente porque o recurso foi obstado na fase de admissibilidade, não há falar em omissão no acórdão recorrido, de modo que os embargos opostos carecem de fundamento jurídico.
+No mais , o que se verifica é a nítida pretensão da parte embargante de se valer dos embargos de declaração para rediscutir matéria já decidida, fazendo com que prevaleça os seu entendimento sobre o tema, intuito esse incompatível com a natureza desse recurso.
+Desse modo, considerando que o presente recurso não reúne os pressupostos específicos para o seu acolhimento, nos termos do art. 1.022 do CPC, não merece prosperar a irresignação da parte embargante.
+DISPOSITIVO
+Forte nessas razões, REJEITO os embargos de declaração no agravo interno no agravo em recurso especial.
