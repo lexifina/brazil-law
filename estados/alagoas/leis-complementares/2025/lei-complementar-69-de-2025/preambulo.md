@@ -1,0 +1,5 @@
+LEI COMPLEMENTAR Nº 69, DE 12 DE DEZEMBRO DE 2025.
+
+ALTERA A LEI COMPEMENTAR Nº 29, DE 1º DE DEZEMBRO DE 2011, E DÁ OUTRAS PROVIDÊNCIAS.
+
+O GOVERNADOR DO ESTADO DE ALAGOAS Faço saber que o Poder Legislativo Estadual decreta e eu sanciono a seguinte Lei:
