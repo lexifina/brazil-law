@@ -1,0 +1,90 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/12/2025 a 15/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO EM RECURSO  ESPECIAL.  DIREITO  CIVIL  E  PROCESSUAL  CIVIL.  FALTA DE FUNDAMENTAÇÃO. NÃO OCORRÊNCIA. AÇÃO  DE  BUSCA  E  APREENSÃO.  ALIENAÇÃO  FIDUCIÁRIA.  NOTIFICAÇÃO  EXTRAJUDICIAL.  ANOTAÇÃO "NÃO PROCURADO" . CONSTITUIÇÃO  EM  MORA.  COMPROVAÇÃO  SUFICIENTE.  TEMA  REPETITIVO  Nº  1.132/STJ.
+1.  Não viola o artigo 489 do Código de Processo Civil nem importa deficiência na prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, para decidir de modo integral a controvérsia posta.
+2. Discute-se  nos  autos  se  é  suficiente  o  envio  da  notificação  extrajudicial  para  o  endereço  constante  no  contrato  de  alienação  fiduciária  para  a  comprovação  da  constituição  em  mora  do  devedor, nos casos em que a correspondência foi devolvida pelo motivo "não procurado".
+3.  A  Segunda  Seção  do  Superior  Tribunal  de  Justiça,  no  julgamento  dos  recursos  repetitivos  REsp  nº  1.951.662/RS  e  REsp  nº  1.952.888/RS  (Tema  nº  1.132),  firmou  entendimento  no  sentido  de  que,  nos  contratos  garantidos  por  alienação  fiduciária,  é  suficiente  para  a  comprovação  da  constituição  em  mora  o  envio  da  notificação  extrajudicial  para  o  endereço  constante  no  instrumento  contratual,  sendo  dispensável  a  prova  do  efetivo  recebimento,  seja  pelo  devedor,  seja  por  terceiro.
+4.  Agravo conhecido para negar provimento ao recurso especial.
+RELATÓRIO
+Trata-se de agravo em face de inadmissão de recurso especial interposto por NOVA TRANSPORTE MULTIMODAL LTDA. O apelo extremo, com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de Santa Catarina assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DE BUSCA E APREENSÃO EM ALIENAÇÃO FIDUCIÁRIA. SENTENÇA DE IMPROCEDÊNCIA. RECURSO DA INSTITUIÇÃO FINANCEIRA CREDORA. TESE DE REGULARIDADE DA CONSTITUIÇÃO EM MORA. SUBSISTÊNCIA. ENVIO DE NOTIFICAÇÃO EXTRAJUDICIAL AO ENDEREÇO CONSTANTE DO CONTRATO FIRMADO ENTRE AS PARTES, DEVOLVIDAS PELO MOTIVO "NÃO PROCURADO". ENTREGA PRESCINDÍVEL. MORA COMPROVADA AINDA QUE O AVISO DE RECEBIMENTO TENHA RETORNADO PELOS MOTIVOS "AUSENTE" OU "NÃO PROCURADO". ENTENDIMENTO FIRMADO PELO SUPERIOR TRIBUNAL DE JUSTIÇA NO JULGAMENTO DO TEMA N. 1.132. PRECEDENTES DESTA CORTE DE JUSTIÇA A RESPEITO DA MATÉRIA. ALUDIDO ENTENDIMENTO QUE RESULTOU NA REVOGAÇÃO DA SÚMULA N. 58 DESTE SODALÍCIO. MORA PERFECTIBILIZADA. SENTENÇA DESCONSTITUÍDA. RETORNO DOS AUTOS À ORIGEM PARA O SEU REGULAR ANDAMENTO. HONORÁRIOS RECURSAIS INCABÍVEIS NA ESPÉCIE. RECURSO CONHECIDO E PROVIDO." (e-STJ fl. 420)
+Nas razões do recurso especial (e-STJ fls. 431/446), o recorrente sustenta, além de divergência jurisprudencial, violação dos arts. 11, 489 do Código de Processo Civil e 2º, § 2º, do Decreto-Lei nº 911/1969.
+Aduz falta de fundamentação no julgado.
+Menciona que não tem validade a notificação extrajudicial devolvida com a anotação "não procurado".
+Argumenta que "NÃO HOUVE A CONSTITUIÇÃO EM MORA, pois o Aviso de Recebimento NEM MESMO HAVIA SAÍDO DA AGÊNCIA DOS CORREIOS" (e-STJ fl. 442).
+Após a juntada das contrarrazões (e-STJ fls. 454/470), o recurso especial foi inadmitido na origem dando ensejo à interposição do presente agravo.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO  ESPECIAL.  DIREITO  CIVIL  E  PROCESSUAL  CIVIL.  FALTA DE FUNDAMENTAÇÃO. NÃO OCORRÊNCIA. AÇÃO  DE  BUSCA  E  APREENSÃO.  ALIENAÇÃO  FIDUCIÁRIA.  NOTIFICAÇÃO  EXTRAJUDICIAL.  ANOTAÇÃO "NÃO PROCURADO" . CONSTITUIÇÃO  EM  MORA.  COMPROVAÇÃO  SUFICIENTE.  TEMA  REPETITIVO  Nº  1.132/STJ.
+1.  Não viola o artigo 489 do Código de Processo Civil nem importa deficiência na prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, para decidir de modo integral a controvérsia posta.
+2. Discute-se  nos  autos  se  é  suficiente  o  envio  da  notificação  extrajudicial  para  o  endereço  constante  no  contrato  de  alienação  fiduciária  para  a  comprovação  da  constituição  em  mora  do  devedor, nos casos em que a correspondência foi devolvida pelo motivo "não procurado".
+3.  A  Segunda  Seção  do  Superior  Tribunal  de  Justiça,  no  julgamento  dos  recursos  repetitivos  REsp  nº  1.951.662/RS  e  REsp  nº  1.952.888/RS  (Tema  nº  1.132),  firmou  entendimento  no  sentido  de  que,  nos  contratos  garantidos  por  alienação  fiduciária,  é  suficiente  para  a  comprovação  da  constituição  em  mora  o  envio  da  notificação  extrajudicial  para  o  endereço  constante  no  instrumento  contratual,  sendo  dispensável  a  prova  do  efetivo  recebimento,  seja  pelo  devedor,  seja  por  terceiro.
+4.  Agravo conhecido para negar provimento ao recurso especial.
+VOTO
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece prosperar.
+O Tribunal de origem dirimiu a controvérsia nos seguintes termos:
+"(..)
+A controvérsia reside sobre a validade das notificações feitas a empresa Apelada. Sem rodeios, está encartada notificações dirigidas ao endereço, registre-se, por ele declinado no contrato (evento 1, NOT16, evento 1, NOT17 e evento 1, NOT18), embora tenha retornado com a rubrica "não procurado".
+Nesse âmbito, o Superior Tribunal de Justiça considera válida a missiva enviada, para os fins do art. 2º, §2º, do Decreto-Lei n. 911/1969, ainda que tenha retornado pelo motivo mencionado. Segue o precedente representativo, firmado no Tema n. 1.132, sobre o assunto:
+(..)
+O resultado é que estão presentes os pressupostos de constituição e de desenvolvimento válido e regular do processo, porquanto a comprovação da mora produzida é válida." (e-STJ fl. 418)
+Ressalta-se que não que se há falar em ofensa ao art. 489 do Código de Processo Civil, nem falha na prestação jurisdicional quando o acórdão enfrentou adequadamente a controvérsia com fundamentação clara e suficiente, ainda que em linha distinta daquela defendida pelo recorrente.
+Nesses casos, o mero inconformismo com os fundamentos adotados não justifica a alegação de nulidade por ausência de motivação.
+Caso o acórdão deixe de examinar ponto relevante ao deslinde da causa, a providência adequada é a oposição de embargos de declaração, recurso específico e com fundamentação vinculada para suprir omissões, sendo inadequado tentar suprir essa etapa por meio de alegação genérica de violação ao art. 489 do CPC, sobretudo quando o julgado contém motivação suficiente para sustentar a decisão proferida.
+Com efeito, a Segunda Seção do STJ, no julgamento de feitos submetidos ao rito dos recursos repetitivos (REsps nºs 1.951.662/RS e 1.952.888/RS - Tema nº 1.132 - da relatoria do Ministro João Otávio de Noronha, em 9/8/2023), firmou a seguinte tese jurídica:
+"RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. AFETAÇÃO AO RITO DOS RECURSOS ESPECIAIS REPETITIVOS. TEMA N. 1.132. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA COM GARANTIA. COMPROVAÇÃO DA MORA. NOTIFICAÇÃO EXTRAJUDICIAL COM AVISO DE RECEBIMENTO. PROVA DE REMESSA AO ENDEREÇO CONSTANTE DO CONTRATO. COMPROVANTE DE ENTREGA. EFETIVO RECEBIMENTO. DESNECESSIDADE.
+1. Para fins do art. 1.036 e seguintes do CPC, fixa-se a seguinte tese: Em ação de busca e apreensão fundada em contratos garantidos com alienação fiduciária (art. 2º, § 2º, do Decreto-Lei n. 911/1969), para a comprovação da mora, é suficiente o envio de notificação extrajudicial ao devedor no endereço indicado no instrumento contratual, dispensando-se a prova do recebimento, quer seja pelo próprio destinatário, quer por terceiros.
+2. Caso concreto: Evidenciado, no caso concreto, que a notificação extrajudicial foi enviada ao devedor no endereço constante do contrato, é caso de provimento do apelo para determinar a devolução dos autos à origem a fim de que se processe a ação de busca e apreensão.
+3. Recurso especial provido." (REsp 1.951.662/RS, relator Ministro João Otávio de Noronha, Segunda Seção, julgado em 9/8/2023, DJe de 20/10/2023)
+Nesse mesmo sentido:
+"DIREITO CIVIL. RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA. COMPROVAÇÃO DE MORA. RECURSO PROVIDO.
+I. Caso em exame
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro que não reconheceu a constituição em mora do devedor em ação de busca e apreensão, devido à devolução da notificação extrajudicial enviada ao endereço constante do contrato, sob a justificativa de endereço insuficiente.
+2. O Tribunal de origem entendeu que, embora a notificação tenha sido enviada ao endereço informado no contrato, não houve comprovação de tentativa efetiva de entrega ao devedor, o que, segundo o Tribunal, desobedece ao comando da Súmula 55 do TJRJ.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se o envio de notificação extrajudicial ao endereço indicado no contrato é suficiente para comprovar a mora do devedor em ação de busca e apreensão, dispensando a prova do recebimento.
+III. Razões de decidir
+4. A jurisprudência do STJ, firmada no Tema 1132, estabelece que, em ações de busca e apreensão baseadas em contratos com alienação fiduciária, é suficiente o envio de notificação extrajudicial ao endereço indicado no contrato para comprovar a mora, sem necessidade de comprovação de recebimento.
+5. O entendimento do Tribunal de origem diverge da jurisprudência do STJ, que considera suficiente o comprovante de envio da notificação ao endereço do devedor, mesmo que a correspondência retorne com justificativas como "ausente" ou "endereço insuficiente".
+IV. Dispositivo
+6. Recurso provido para reconhecer a constituição em mora do recorrido e determinar o regular prosseguimento da ação de busca e apreensão." (REsp 2.161.108/RJ, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 25/8/2025, DJEN de 28/8/2025)
+"DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. DECISÃO RECONSIDERADA. RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. NOTIFICAÇÃO EXTRAJUDICIAL. RECURSO PROVIDO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que não conheceu do agravo em recurso especial pela aplicação da Súmula. 182 do STJ.
+2. Decisão foi reconsiderada já que houve a devida impugnação do fundamento da decisão recorrida.
+3. Recurso especial interposto por instituição financeira em agravo de instrumento nos autos de ação de busca e apreensão em contrato de financiamento de veículo com garantia de alienação fiduciária.
+4. O acórdão recorrido considerou inválida a notificação extrajudicial enviada ao devedor, uma vez que a correspondência retornou com a informação de "não procurado", não sendo entregue no endereço fornecido no contrato.
+II. Questão em discussão
+5. A questão em discussão consiste em saber se a notificação extrajudicial enviada ao endereço constante do contrato, mas não recebida pelo devedor, é suficiente para comprovar a constituição em mora nos contratos garantidos por alienação fiduciária.
+III. Razões de decidir
+6. O Superior Tribunal de Justiça firmou entendimento de que, para a comprovação da mora em contratos garantidos por alienação fiduciária, é suficiente o envio de notificação extrajudicial ao endereço indicado no contrato, dispensando-se a prova do recebimento.
+7. A decisão do Tribunal de origem divergiu da jurisprudência do STJ ao não considerar válida a notificação enviada ao endereço constante do contrato, apta a configurar a mora mesmo sem a comprovação de recebimento pelo devedor ou por terceiro.
+IV. Dispositivo e tese
+8. Agravo interno provido.
+Tese de julgamento: "Para a comprovação da mora em contratos garantidos por alienação fiduciária, é suficiente o envio de notificação extrajudicial ao endereço indicado no contrato, dispensando-se a prova do recebimento".
+Dispositivos relevantes citados: Decreto-Lei n. 911/1969, art. 2º, § 2º; Código Civil, arts. 394 e 396.Jurisprudência relevante citada:
+STJ, REsp n. 1.951.662/RS, de minha relatoria, Quarta Turma, julgado em 9/8/2023." (AgInt no AREsp 2.730.329/MA, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 7/4/2025, DJEN de 10/4/2025)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. COMPROVAÇÃO DA MORA. NOTIFICAÇÃO EXTRAJUDICIAL COM AVISO DE RECEBIMENTO (AR). ENVIO NO ENDEREÇO DO DEVEDOR INDICADO NO INSTRUMENTO CONTRATUAL. SUFICIÊNCIA. TEMA 1132.
+1. Em ação de busca e apreensão fundada em contratos garantidos com alienação fiduciária (art. 2º, § 2º, do Decreto-Lei n. 911/1969), para a comprovação da mora, é suficiente o envio de notificação extrajudicial ao devedor no endereço indicado no instrumento contratual, dispensando-se a prova do recebimento, quer seja pelo próprio destinatário, quer por terceiros.
+2. Agravo interno conhecido para conhecer e dar provimento ao recurso especial." (AgInt no AREsp 2.400.073/GO, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 13/11/2023, DJe de 16/11/2023)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. RECONSIDERAÇÃO. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA. DÍVIDA LÍQUIDA. CONSTITUIÇÃO EM MORA. INADIMPLEMENTO DA OBRIGAÇÃO. DIES INTERPELLAT PRO HOMINE. COMPROVAÇÃO DA MORA. NOTIFICAÇÃO ENCAMINHADA AO ENDEREÇO DO DEVEDOR. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL PROVIDO.
+1. Agravo interno contra decisão monocrática que negou provimento ao recurso especial. Reconsideração.
+2. A constituição em mora do devedor de dívida líquida possui fundamento no art. 397 do Código Civil, cuja dicção é no sentido de que o inadimplemento da obrigação, positiva e líquida, no seu termo, constitui de pleno direito em mora o devedor, ao passo que, não havendo termo, a mora se constitui mediante interpelação judicial ou extrajudicial.
+3. Em outras palavras, "tratando-se de obrigação positiva, líquida e com termo certo de vencimento, a regra a incidir é a do brocardo dies interpellat pro homine. Trata-se, pois, não a mora ex persona, mas a mora ex re, quando, então, as consequências do inadimplemento ocorrem imediatamente após o termo da obrigação, na medida em que o devedor tem prévia ciência da data em que a obrigação líquida deve ser adimplida, dispensando, assim, eventual notificação complementar por parte do credor" (REsp 1.034.269/MG, Relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 20/10/2016, DJe de 26/10/2016).
+4. Com base em tais premissas, em assentada recente, a Segunda Seção do Superior Tribunal de Justiça deliberou o Tema repetitivo 1.132, pacificando o entendimento de que, "para a comprovação da mora nos contratos garantidos por alienação fiduciária é suficiente o envio de notificação extrajudicial ao devedor no endereço indicado no instrumento contratual, dispensando-se a prova do recebimento, quer seja pelo próprio destinatário, quer seja por terceiros" (REsp 1.951.662/RS, Relator para acórdão Min. JOÃO OTÁVIO DE NORONHA, Segunda Seção, julgado em 9/8/2023).
+5. No caso concreto, houve o envio regular da notificação para o endereço do devedor, constante no instrumento contratual, cuja comunicação não se completou em virtude de sua ausência. Portanto, comprovada a mora, deve-se prosseguir com o iter da ação de busca e apreensão.
+6. Agravo interno provido para reconsiderar a decisão agravada e, em novo julgamento, dar provimento ao recurso especial." (AgInt no REsp 2.049.697/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 30/10/2023, DJe de 9/11/2023)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. ALIENAÇÃO FIDUCIÁRIA. AÇÃO DE BUSCA E APREENSÃO. COMPROVAÇÃO DA CONSTITUIÇÃO DO DEVEDOR EM MORA, NA FORMA DO ART. 2º, § 2º, DO DECRETO-LEI N. 911/1969. REVISÃO DESSE ENTENDIMENTO DO TRIBUNAL A QUO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. ADEQUAÇÃO DO ACÓRDÃO RECORRIDO À TESE DO TEMA REPETITIVO 1.132/STJ. CARACTERIZAÇÃO DA MORA. DISSÍDIO NÃO COMPROVADO.
+1. Impossibilidade de revisão das conclusões das instâncias ordinárias que reconheceram a entrega da notificação extrajudicial no enderenço do devedor, por demandar a incursão nas provas dos autos, providência que encontra óbice na Súmula n. 7/STJ.
+2. Adequação do acórdão recorrido à orientação da Segunda Seção do STJ no julgamento dos Recursos Especiais n. 1.951.888/RS e 1.951.662/RS, sob o rito do art. 1.036 do Código de Processo Civil, em que se fixou a seguinte tese repetitiva (Tema 1.132): Para a comprovação da mora nos contratos garantidos por alienação fiduciária, é suficiente o envio de notificação extrajudicial ao devedor no endereço indicado no instrumento contratual, dispensando-se a prova do recebimento, quer seja pelo próprio destinatário, quer por terceiros.
+3. Dissídio jurisprudencial acerca da alegada descaracterização da mora que não foi comprovado conforme estabelecido nos arts. 1.029, §1º, do CPC e 255, §§ 1º e 2º, do RISTJ, obstando o conhecimento do recurso especial.
+4. Razões recursais que não alteram as conclusões da decisão agravada.
+Agravo interno improvido." (AgInt no REsp 1.828.851/MS, relator Ministro Humberto Martins, Terceira Turma, julgado em 23/10/2023, DJe de 25/10/2023)
+Verifica-se, assim, que a conclusão adotada pelo tribunal de origem está em consonância com a jurisprudência deste Superior Tribunal de Justiça.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Na hipótese, não cabe a majoração dos honorários sucumbenciais prevista no art. 85, § 11, do Código de Processo Civil, pela ausência de p révia fixação de honorários.
+É o voto.
