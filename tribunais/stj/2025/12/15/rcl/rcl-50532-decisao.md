@@ -1,0 +1,13 @@
+DECISÃO
+Examina-se reclamação apresentada por GLAUCIA CONCEIÇÃO VITAL contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+A reclamante alega, em síntese, que o Tribunal de origem usurpou a competência do STJ ao "uniformizar questão de matéria processual, relativa ao cabimento do recurso adequado contra decisões interlocutórias" no Juizado Especial Cível (e-STJ fl. 4). Em benefício de sua tese, invoca a Súmula 188/STJ.
+É O RELATO DO NECESSÁRIO. DECIDE-SE.
+Com a presente insurgência, a reclamante objetiva alterar a conclusão do acórdão proferido pelo TJ/SP o qual não conheceu de agravo de instrumento interposto contra "decisão resolutória de impugnação a cumprimento de sentença" (e-STJ fl. 9).
+Ocorre que, conforme a compreensão desta Corte, "a reclamação constitucional, nos termos do art. 105, I, f, da Constituição Federal e do art. 988 do CPC, destina-se a preservar a competência do tribunal ou garantir a autoridade de suas decisões, desde que haja descumprimento de decisão proferida pelo STJ no caso concreto, envolvendo as mesmas partes. Não se presta a preservar a jurisprudência do STJ, ainda que consolidada em súmula ou recurso repetitivo." (AgInt na Rcl 48.801/MA, Segunda Seção, DJEN 18/8/2025).
+Ademais, "a jurisprudência do STJ é pacífica no sentido de que a reclamação não pode ser utilizada como sucedâneo recursal nem como via de controle abstrato de jurisprudência" (AgInt na Rcl 45.849/PR, Segunda Seção, DJEN 22/8/2025). Nesse sentido: AgInt na Rcl 46.931/DF, Segunda Seção, DJe 3/6/2024; AgInt na Rcl 48.908/PE, Segunda Seção, DJEN 25/8/2025.
+Forte nessas razões, INDEFIRO a petição inicial e, em consequência, JULGO EXTINTA a reclamação, sem exame de mérito, com fundamento no art. 34, XVIII, "a", do RISTJ.
+EMENTA
+DIREITO PROCESSUAL CIVIL. RECLAMAÇÃO. AGRAVO INTERNO. INADEQUAÇÃO DA VIA ELEITA. SUCEDÂNEO RECURSAL. INVIABILIDADE. INICIAL INDEFERIDA.
+1. "A reclamação constitucional, nos termos do art. 105, I, f, da Constituição Federal e do art. 988 do CPC, destina-se a preservar a competência do tribunal ou garantir a autoridade de suas decisões, desde que haja descumprimento de decisão proferida pelo STJ no caso concreto, envolvendo as mesmas partes. Não se presta a preservar a jurisprudência do STJ, ainda que consolidada em súmula ou recurso repetitivo." (AgInt na Rcl 48.801/MA, Segunda Seção, DJEN 18/8/2025).
+2. A jurisprudência do STJ é pacífica no sentido de que: "a reclamação não pode ser utilizada como sucedâneo recursal nem como via de controle abstrato de jurisprudência" (AgInt na Rcl 45.849/PR, Segunda Seção, DJEN 22/8/2025).
+3. Petição inicial indeferida. Processo extinto sem resolução de mérito.
