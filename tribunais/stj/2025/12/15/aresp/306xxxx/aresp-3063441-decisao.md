@@ -1,0 +1,40 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por BLUARTECI BLUMENAU ARTEFATOS DE CIMENTO LTDA contra decisão que inadmitiu recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 12/8/2025.
+Concluso ao gabinete em: 27/11/2025.
+Ação: execução de título extrajudicial promovida por OSVALDO ODEBRECHT FILHO (falecido no curso do processo) em desfavor de BLUARTECI BLUMENAU ARTEFATOS DE CIMENTO LTDA. na qual houve a celebração de acordo entre as partes. Em exceção de pré-executividade, a agravante sustentou a ausência de liquidez e certeza do título, em virtude da novação decorrente da avença, bem como a nulidade da penhora no rosto dos autos de n. 5000272-51.2014.8.24.0008, diante da ausência de intimação da parte executada.
+Decisão interlocutória: rejeitou a exceção de pré-executividade. Concluiu que a petição na qual foi informada a realização do acordo dispôs que, em caso de descumprimento, o feito deveria retomar seu regular prosseguimento. Quanto à nulidade da penhora no rosto dos autos de n. 5000272-51.2014.8.24.0008, afirmou que o tema já havia sido enfrentado, oportunidade na qual foi reconhecida sua regularidade.
+Acórdão: negou provimento ao agravo de instrumento interposto por BLUARTECI BLUMENAU ARTEFATOS DE CIMENTO LTDA., mantendo integralmente a decisão agravada.
+Embargos de Declaração: opostos pela agravante alegando omissão no que concerne ao argumento por ela suscitado acerca da existência de confusão nos julgados acerca da petição que apenas informou a celebração do acordo firmado entre as partes e da petição que, de fato, se trata do próprio acordo e que não traz qualquer disposição de continuidade da execução na hipótese de seu descumprimento, caracterizando, portanto, a novação alegada. Foram rejeitados.
+Remetidos os autos a esta Corte em sede de recurso especial (REsp 2169801/SC), foi-lhe dado parcial provimento para determinar o retorno dos autos ao Tribunal de origem, a fim de que fosse sanada a referida omissão.
+Em novo julgamento, o TJ/SC acolheu os embargos de declaração, para suprir a omissão apontada, mantendo o acórdão que negou provimento ao recurso.
+Recurso especial: alega violação do art. 841, §§1º e 2º do CPC, bem como dissídio jurisprudencial, por suposta nulidade da penhora no rosto dos autos de n. 5000272-51.2014.8.24.0008, diante da ausência de intimação acerca do ato. Aponta, ainda, a violação do art. 360 do CC e dos art. 783, 784 e 803 do CPC, reafirmando a inexistência de liquidez e certeza do título executivo, em razão da novação decorrente do acordo celebrado entre as partes.
+RELATADO O PROCESSO, DECIDE-SE.
+- Do reexame de fatos e provas
+O TJ/SC, ao analisar o recurso interposto pela agravante no que se refere à violação do art. 841, §§1º e 2º do CPC, relacionada à alegada nulidade da penhora por ausência de intimação, concluiu o seguinte (e-STJ fls. 96/97):
+(..) Extrai-se do autos originários que o executado teve ciência da penhora por intermédio do ato ordinatório do evento 247. Ao evento 258, doc. 221, o Juiz de origem esclareceu que "a certidão informando a realização da penhora no rosto dos autos principais (fl. 208) possui fé pública, devendo-se considerar como realizado o ato, sendo o auto mera formalidade totalmente suprível pela certidão. Por tal razão, incabível a arguição de nulidade aventada pela executada na petição de fls. 212-213. Sem prejuízo disso, formalize-se por termo nos autos aludida penhora, cujos efeitos retroagem à data da certidão referida".
+Após isso, o recorrente não apresentou impugnação adequada ao pedido de penhora, o que tornou válido o ato constritivo, mediante a ciência do devedor e sua ausência de irresignação, nos termos do art. 277, do CC.
+Rejeita-se, portanto, a tese recursal. (grifos acrescidos)
+Do mesmo modo, assim se manifestou o TJ/SC acerca da suposta inexistência de liquidez e certeza do título executivo (violação do art. 360 do CC e dos art. 783, 784 e 803 do CPC), em razão da novação decorrente do acordo celebrado entre as partes (e-STJ fl. 96):
+No mérito, não merece prosperar a alegação de que o acordo realizado entre as partes (evento 236, PET167) operou novação ao título executivo, o que ensejaria o reconhecimento da ausência de certeza e exigibilidade.
+Isso porque, após a suspensão do feito para cumprimento da avença, o exequente relatou que o acordo não foi integralmente cumprido (evento 236, PET176 a 177).
+Não se falar em novação quando no acordo houve expressa previsão de que, em caso de inadimplemento, a execução retomaria seu prosseguimento, art. 361 do CC.
+Assim, não havendo prova do cumprimento do que foi acordado, não merece prosperar as teses de falta de certeza e exigibilidade. (grifos acrescidos)
+Após o retorno dos autos à origem para suprir a omissão reconhecida por esta Corte no julgamento do REsp 2169801/SC, o TJ/SC reapreciou a matéria, analisando especificamente tanto o acordo celebrado entre as partes como a petição que noticiou sua celebração, tendo concluído que:
+(..) No entanto, apesar da Corte Superior ter identificado a omissão sobre a abordagem da questão, o acórdão não deixou de analisar os documentos referidos, de forma conjunta.
+Observa-se que a petição 167, assinada na mesma data que os termos do acordo (9 de outubro de 2012), tinha o intuito específico de comunicar ao juízo da Primeira Vara Cível da Comarca de Blumenau, que o acordo englobava os valores constantes nesta execução, e que, o não cumprimento do pactuado, implicaria no prosseguimento da execução.
+Já a petição juntada no evento 236, PET169-PET172, tratava exatamente dos termos do que foi acordado entre as partes, o que não invalida o firmado no documento do evento 236, PET169. São documentos compatíveis, válidos e devem ser interpretados conjuntamente. (grifos acrescidos)
+Desse modo, alterar o decidido no acórdão impugnado, no que se refere à suposta nulidade da penhora no rosto dos autos de n. 5000272-51.2014.8.24.0008, bem como à existência ou não de novação no acordo celebrado entre as partes, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da divergência jurisprudencial
+Além disso, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente (nulidade decorrente da ausência de intimação acerca da penhora realizada nos autos), impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Isso porque, a demonstração da divergência não pode estar fundamentada em questões de fato, mas apenas na interpretação do dispositivo legal. Nesse sentido: AgInt no AREsp n. 1.974.371/RJ, Terceira Turma, DJe de 22/11/2023 e REsp n. 1.907.171/RJ, Quarta Turma, DJe de 11/1/2024.
+Na hipótese, o próprio quadro comparativo elaborado pela agravante demonstra que, no acórdão recorrido, foi reconhecida a regularidade da intimação acerca da penhora, enquanto, no paradigma, constatou-se a ausência de intimação da parte executada, de modo que a divergência se funda eminentemente em questões fáticas que não podem ser ultrapassadas nesta esfera recursal.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários na forma do art. 85, §11, do CPC, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. LIQUIDEZ E CERTEZA. AUSÊNCIA. NULIDADE DA PENHORA. INTIMAÇÃO. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO PREJUDICADO.
+1. Execução de título extrajudicial.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+4. Agravo conhecido. Recurso especial não conhecido.
