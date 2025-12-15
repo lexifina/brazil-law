@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/12/2025 a 15/12/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do CPC/2015, devem ser exigidos os requisitos de admissibilidade na forma nele prevista, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A ausência de impugnação específica aos fundamentos da decisão agravada impõe o não conhecimento do recurso. Incidência da Súmula 182/STJ.
+3. Agravo interno não conhecido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão assim ementada (fl. 1684):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO NÃO CONHECIDO.
+O agravante sustenta que "(..) o direito do Município de Buíque, posto no Recurso Especial em comento, foi amplamente discutido nos autos. Isto porque, como se sabe a decisão que julga o recurso interposto pela parte recorrida não precisa necessariamente citar o dispositivo legal para que este reste como prequestionado, posto que o fato do julgador ter enfrentado a alegação do Agravado e ter entendido pela sua não aplicação já configura que a matéria de direito foi analisada e, em consequência, não foi aplicada, tendo assim resultado na violação objeto do Recurso Especial interposto pela parte prejudicada, que no caso dos autos é o Município de Buíque. (..) Portanto, vê-se que a Súmula nº 211 do STJ deve ter a sua incidência afastada, haja vista que a matéria foi amplamente discutida nos autos, ainda que de forma implícita." (fls. 1715-1716). Acrescenta que "o Agravo em Recurso Especial interposto pelo Município rebateu exatamente cada ponto da decisão que negou seguimento ao Recurso Especial outrora interposto. Neste sentido, todos os fundamentos colocados na decisão recorrida que eram pertinentes ao direito discutido no caso dos autos foram rebatidos no momento da interposição do Agravo no Recurso Especial. E, mesmo que assim não fosse, como devidamente demonstrado nos autos, resta claro que o entendimento esposado pela Decisão, contra qual foi interposto Recurso Especial, não está em conformidade com a legislação aplicável à matéria e com o entendimento jurisprudencial deste STJ." (fl. 1718).
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do CPC/2015, devem ser exigidos os requisitos de admissibilidade na forma nele prevista, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A ausência de impugnação específica aos fundamentos da decisão agravada impõe o não conhecimento do recurso. Incidência da Súmula 182/STJ.
+3. Agravo interno não conhecido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigna-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele prevista, conforme Enunciado Administrativo n. 3/2016/STJ.
+A decisão ora agravada não conheceu do agravo em recurso especial, uma vez que não impugnado, especificamente, um dos fundamentos da decisão que inadmitiu o recurso na Corte de origem (incidência da Súmula 211/STJ).
+Ocorre que mais uma vez o agravante não impugnou, especificamente, a referida fundamentação, razão pela qual impõe-se a incidência da Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+A propósito, confiram-se: AgRg nos EAREsp 1.870.554/SP, Rel. Min. Humberto Martins, Corte Especial, DJe de 14/3/2023; AgInt no AREsp 2.215.294/PA, Rel. Min. Regina Helena Costa, Primeira Turma, DJe de 8/3/2023; AgInt no AREsp 2.158.581/DF, Rel. Min. Herman Benjamin, Segunda Turma, DJe de 19/12/2022; AgInt no AgInt no REsp 1.914.726/PR, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 12/12/2022; AgRg nos EAREsp 2.007.922/PR, Rel. Min. Og Fernandes, Corte Especial, DJe de 29/9/2022; AgInt no TP 3.879/RJ, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe de 2/6/2022; AgInt no AREsp 1.949.877/PE, Rel. Min. Gurgel de Faria, Primeira Turma, DJe de 12/4/2022.
+Por oportuno, ressalta-se que conquanto o agravante tenha referido ao fundamento do decisum, evidencia-se que não o impugnou como de mister. Com efeito, a decisão ora agravada não é a que fez incidir ao caso a Súmula 211/STJ, mas a que deixou de conhecer do agravo em recurso especial pela ausência de impugnação ao referido óbice. Nesse contexto, cabia ao agravante, no presente recurso, demonstrar que, no seu agravo em recurso especial, impugnou sim a decisão obstativa de forma completa e específica, em todos os seus fundamentos. Todavia, na espécie, o agravante se limitou a sustentar a inaplicabilidade da Súmula 211/STJ ao caso e a aduzir, singelamente, que "(..), o Agravo em Recurso Especial interposto pelo Município rebateu exatamente cada ponto da decisão que negou seguimento ao Recurso Especial outrora interposto." (fl. 1718).
+Ante o exposto, não conheço do agravo interno.
+É como voto.
