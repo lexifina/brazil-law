@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/12/2025 a 15/12/2025, por unanimidade, conhecer do recurso mas lhe negar provimento, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+DIREITO EMPRESARIAL. RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. TUTELA CAUTELAR ANTECEDENTE. NECESSIDADE DE PROPOSITURA DA DEMANDA PRINCIPAL NO PRAZO DE 30 DIAS. ARTS. 308 E 309 DO CPC. APLICAÇÃO SUBSIDIÁRIA DO CPC À LEI DE RECUPERAÇÃO JUDICIAL. INVIABILIDADE POR INCOMPATIBILIDADE NO CASO CONCRETO. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. No mérito, o recurso especial alegou que o pedido principal deveria ter sido proposto no prazo de 30 dias após a tutela cautelar antecedente, conforme art. 308 do CPC, não observado no caso concreto. O Tribunal de origem entendeu que, por se tratar de pedido formulado no âmbito da Lei de Recuperação Judicial e Falência (Lei n. 11.101/2005), aplica-se o CPC apenas subsidiariamente, desde que compatível com os princípios do microssistema falimentar.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se é aplicável o prazo de 30 dias do art. 308 do CPC para o ajuizamento do pedido principal de recuperação judicial após a concessão de tutela cautelar antecedente.
+III. RAZÕES DE DECIDIR
+3. O recurso especial não merece provimento, pois o entendimento adotado pelo Tribunal de origem está alinhado à jurisprudência do STJ no sentido de que a Lei n. 11.101/2005 rege de forma específica os procedimentos de recuperação judicial, sendo o CPC aplicado apenas de forma subsidiária e supletiva, desde que compatível com os princípios que regem o regime recuperacional (REsp n. 1.980.777/SP, relator Ministro João Otávio de Noronha, DJe de 23/11/2023).
+4. É pacífico no STJ que a incidência de normas do CPC no âmbito da recuperação judicial deve respeitar a especificidade e a racionalidade do procedimento, sendo vedada a aplicação automática de seus prazos e exigências formais, quando incompatíveis com o espírito e finalidade da Lei n. 11.101/2005 (AgInt nos EDcl no REsp n. 1.914.050/DF, relator Ministro Marco Buzzi, DJe de 8/10/2021).
+5. A imposição do prazo do art. 308 do CPC ao pedido de recuperação judicial não encontra amparo legal nem jurisprudencial, tendo em vista a especialidade do procedimento, que possui dinâmica própria e finalidade distinta da cautelar do CPC.
+6. Incide o óbice da Súmula n. 83/STJ, que impede o conhecimento do recurso especial quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida.
+IV. DISPOSITIVO
+7. Recurso desprovido.
+RELATÓRIO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o relatório de fls. 318-320:
+COOPERATIVA DE CRÉDITO E INVESTIMENTO DE LIVRE ADMISSÃO AGROEMPRESARIAL - SICREDI AGROEMPRESARIAL PR/SP interpõe agravo interno contra decisão da Presidência desta Corte proferida nos seguintes termos (e-STJ, fls. 289-294):
+Na espécie, no que concerne à alegação de violação do art. 309 do CPC, incide o óbice da Súmula n. 284/STF, uma vez que não há a indicação clara e precisa do dispositivo de lei federal tido por violado, pois nas razões do recurso especial não se particularizou o inciso, o parágrafo ou a alínea sobre o qual recairia a referida ofensa, incidindo, por conseguinte, o citado enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Ressalte-se, por oportuno, que essa indicação genérica do artigo de lei que teria sido contrariado induz à compreensão de que a violação alegada é somente de seu caput, que, no caso, traz em seu texto uma mera introdução ao regramento legal contido nos incisos, nos parágrafos ou nas alíneas.
+ ..
+Ademais, no que tange à alegação de violação a ambos os artigos, incide o óbice da Súmula n. 284/STF em razão da ausência de comando normativo do(s) dispositivo(s) apontado(s) como violado(s) para amparar a tese de que a lei de recuperação e falência não pode prevalecer sobre o princípio da segurança jurídica, o que atrai, por conseguinte, o referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Segundo a jurisprudência do STJ, o óbice de ausência de comando normativo do artigo de lei federal apontado como violado ou como objeto de divergência jurisprudencial incide nas seguintes situações: quando não tem correlação com a controvérsia recursal, por versar sobre tema diverso; e quando sua indicação não é apta, por si só, para sustentar a tese recursal, seja porque o dispositivo legal tem caráter genérico, seja porque, embora consigne em seu texto comando específico, exigiria a combinação com outros dispositivo legais.
+Ressalte-se, por oportuno, que a indicação genérica do artigo de lei que teria sido contrariado induz à compreensão de que a violação alegada é somente de seu caput, pois a ofensa aos seus desdobramentos também deve ser indicada expressamente.
+ ..
+Outrossim, o Tribunal de origem se manifestou nos seguintes termos (fl. 205):
+ ..
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+ ..
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+No caso, observa-se que merece acolhimento a ponderação feita pela parte insurgente.
+Destarte, com fundamento no art. 259, § 6º, do RISTJ, reconsidero a decisão de fls. 289-294 (e-STJ).
+O Ministro MARCO AURÉLIO BELLIZZE conheceu do agravo. (fls. 318-320).
+É o relatório.
+EMENTA
+DIREITO EMPRESARIAL. RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. TUTELA CAUTELAR ANTECEDENTE. NECESSIDADE DE PROPOSITURA DA DEMANDA PRINCIPAL NO PRAZO DE 30 DIAS. ARTS. 308 E 309 DO CPC. APLICAÇÃO SUBSIDIÁRIA DO CPC À LEI DE RECUPERAÇÃO JUDICIAL. INVIABILIDADE POR INCOMPATIBILIDADE NO CASO CONCRETO. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. No mérito, o recurso especial alegou que o pedido principal deveria ter sido proposto no prazo de 30 dias após a tutela cautelar antecedente, conforme art. 308 do CPC, não observado no caso concreto. O Tribunal de origem entendeu que, por se tratar de pedido formulado no âmbito da Lei de Recuperação Judicial e Falência (Lei n. 11.101/2005), aplica-se o CPC apenas subsidiariamente, desde que compatível com os princípios do microssistema falimentar.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se é aplicável o prazo de 30 dias do art. 308 do CPC para o ajuizamento do pedido principal de recuperação judicial após a concessão de tutela cautelar antecedente.
+III. RAZÕES DE DECIDIR
+3. O recurso especial não merece provimento, pois o entendimento adotado pelo Tribunal de origem está alinhado à jurisprudência do STJ no sentido de que a Lei n. 11.101/2005 rege de forma específica os procedimentos de recuperação judicial, sendo o CPC aplicado apenas de forma subsidiária e supletiva, desde que compatível com os princípios que regem o regime recuperacional (REsp n. 1.980.777/SP, relator Ministro João Otávio de Noronha, DJe de 23/11/2023).
+4. É pacífico no STJ que a incidência de normas do CPC no âmbito da recuperação judicial deve respeitar a especificidade e a racionalidade do procedimento, sendo vedada a aplicação automática de seus prazos e exigências formais, quando incompatíveis com o espírito e finalidade da Lei n. 11.101/2005 (AgInt nos EDcl no REsp n. 1.914.050/DF, relator Ministro Marco Buzzi, DJe de 8/10/2021).
+5. A imposição do prazo do art. 308 do CPC ao pedido de recuperação judicial não encontra amparo legal nem jurisprudencial, tendo em vista a especialidade do procedimento, que possui dinâmica própria e finalidade distinta da cautelar do CPC.
+6. Incide o óbice da Súmula n. 83/STJ, que impede o conhecimento do recurso especial quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida.
+IV. DISPOSITIVO
+7. Recurso desprovido.
+VOTO
+O recurso é tempestivo, nos termos do art. 1.003, § 5º, do Código de Processo Civil.
+No presente processo, a parte afirma, em suma, que estão presentes os requisitos para o conhecimento e provimento de seu recurso.
+Ocorre, contudo, que a questão já foi enfrentada pela decisão recorrida, que analisou detidamente todas as questões jurídicas postas.
+Afirma o recorrente, em suma, a ocorrência de violação aos arts. 308 e 309 do CPC, porquanto, efetivada a tutela cautelar antecedente em 03/04/2020, o pedido principal deveria ter sido formulado no prazo legal de 30 dias (art. 308 do CPC).
+Quanto ao tema, assim se manifestou a corte de origem:
+Contudo, o pedido liminar, formulado pelo agravado, não foi baseado unicamente com base nas regras do Código de Processo Civil, mas especialmente com base na Lei de Recuperação Judicial e Falência n. 11.101/05. E, neste ponto, quando se trata da aplicação da referida Lei especial, o que prevalece é a sua aplicação, o seu entendimento, de modo que as disposições do Código de Processo Civil são apenas subsidiárias, conforme dispõe o artigo 189 da referida norma:
+Art. 189. Aplica-se a Lei nº 5.869, de 11 de janeiro de 1973 - Código de Processo Civil, no que couber, aos procedimentos previstos nesta Lei (redação antiga)
+189. Aplica-se, no que couber, aos procedimentos previstos nesta Lei, o disposto na Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil), desde que não seja incompatível com os princípios desta Lei. (Redação dada pela Lei nº 14.112, de 2020) (Vigência)
+A fim de não haver prejuízo aos procedimentos de recuperação judicial e de falência, o legislador entendeu por bem a reforma do artigo supracitado, a fim de deixar claro que os princípios que a embasam devem se sobrepor aos da norma de aplicação subsidiária. Logo, a Recuperação Judicial, pedido principal, deve se ater aos requisitos essenciais da Lei que a instrui, não as regras do Código de Processo Civil.
+A análise dos autos indica que a Corte de origem adotou entendimento alinhado ao perfilhado pela jurisprudência desta Corte, o que atrai a incidência do comando da Súmula n. 83 deste Superior Tribunal de Justiça ("não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida").
+Com efeito, "mutatis mutandis", este colegiado vem se manifestando da seguinte forma: "Nas recuperações judiciais, as regras sobre o ônus da prova devem ser vistas de forma mais elastecida em relação às estabelecidas no Código de Processo Civil (art. 373), pois, no processo de recuperação, há fatores de influência e circunstâncias peculiares. Tal aspecto ainda deve ser visto em conjunto com as disposições do art. 189 do Código de Processo Civil, que estabelece a aplicação subsidiária da lei processual aos procedimentos previstos na Lei n. 11.101/2005, estando aquele dispo sitivo jungido aos princípios desta lei." (REsp n. 1.980.777/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 21/11/2023, DJe de 23/11/2023.)
+De fato, há de se atentar, na aplicação do diploma falimentar, para o fato de que "a aplicação do CPC/2015, no âmbito do microssistema recuperacional e falimentar, deve ter cunho eminentemente excepcional, incidindo tão somente de forma subsidiária e supletiva, desde que se constate evidente compatibilidade com a natureza e o espírito do procedimento especial, dando-se sempre prevalência às regras e aos princípios específicos da Lei de Recuperação e Falência" (AgInt nos EDcl no REsp n. 1.914.050/DF, relator Ministro Marco Buzzi, Quarta Turma, julgado em 4/10/2021, DJe de 8/10/2021.)
+Assim, presente a complexidade ligada à instauração do procedimento recuperacional, mostra-se notoriamente incompatível com o objeto e "ratio" da legislação de regência a aplicação dos comandos do art. 308 e 309 do CPC com o fito de atribuir peremptoriedade ao ajuizamento da demanda recuperacional no prazo de 30 dias dias após a obtenção de providência de natureza cautelar preparatória.
+Ante o exposto, conheço mas nego provimento ao recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 2% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+É o voto.
