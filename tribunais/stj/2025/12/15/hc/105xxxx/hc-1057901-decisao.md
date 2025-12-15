@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de CLAUDINEY DE ANDRADE FILHO contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS proferido no Habeas Corpus n. 1.0000.25.386644-6/000.
+Consta dos autos que o paciente foi condenado, em primeiro grau de jurisdição, à pena de 5 anos de reclusão, em regime inicial semiaberto, e 500 dias-multa, como incurso no art. 33, caput, da Lei n. 11.343/2006, com negativa do direito de recorrer em liberdade (fls. 31/32). Foram apreendidos 879,6 g de maconha, 96,23 g de haxixe e R$ 4.217,00 (quatro mil duzentos e dezessete reais) em espécie (fl. 24).
+O Tribunal de Justiça denegou a ordem de habeas corpus, mantendo a segregação cautelar (fls. 10/17).
+Nas razões deste writ, a defesa alega incompatibilidade entre a manutenção da prisão preventiva e o regime inicial semiaberto fixado na sentença, afirmando desproporcionalidade da custódia e violação dos princípios da proporcionalidade e da presunção de inocência (fls. 3/6).
+Sustenta ausência de fundamentação concreta e individualizada para a prisão preventiva, apontando motivação genérica baseada na gravidade abstrata do delito, sem elementos atuais de periculum libertatis (fls. 5/8).
+Registra que a prisão preventiva perdura há mais de um ano, apesar da condenação em regime menos gravoso (fl. 3).
+Requer, inclusive liminarmente, a revogação da prisão preventiva e a expedição de alvará de soltura, ou, subsidiariamente, a aplicação de medidas cautelares do art. 319 do Código de Processo Penal (fl. 9).
+É o relatório.
+O Juízo de primeiro grau, na sentença, negou o direito de recorrer em liberdade nos seguintes termos (fls. 31/32):
+Nego ao réu o direito de recorrer em liberdade, considerando que ainda subsistem os requisitos autorizadores da prisão preventiva, notadamente em relação à necessidade de se assegurar a ordem pública, flagrantemente abalada pela prática do crime de tráfico de drogas, delito de gravidade concreta, do qual decorrem a execução de diversos outros delitos, inclusive em desfavor do patrimônio alheio, expondo a perigo concreto a sociedade, sem desconsiderar, ainda e, principalmente, o prejuízo no âmbito da saúde e das relações sociais em virtude da dependência química.
+Com efeito, de se destacar que a liberdade do réu representa perigo de reiteração criminosa, considerando se tratar de pessoa dedicada à prática do comércio ilegal de entorpecentes, o que ostenta como meio de vida, circunstância que evidencia a insuficiência das medidas cautelares diversas da prisão para o fim de coibir que torne a se envolver no delito e tutelar a estabilidade social, notadamente no que toca à segurança e saúde pública.
+Portanto, remanescentes o fumus comissi delicti e o periculum in libertatis, com fundamento no artigo 312 do Código de Processo Penal, mantenho a prisão preventiva de Claudiney de Andrade Filho.
+O Tribunal de Justiça, por sua vez, consignou que não há ilegalidade na negativa do direito de recorrer em liberdade, sobretudo quando já foi expedida guia de execução provisória em favor do paciente (fl. 15).
+Com efeito, é cabível a manutenção da prisão preventiva quando o réu for condenado ao modo semiaberto de cumprimento de pena, desde que haja compatibilização da custódia com o regime fixado na sentença (AgRg no HC n. 993.470/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 3/9/2025, DJEN de 8/9/2025).
+No caso dos autos, contudo, além da ausência de compatibilização da custódia com o regime fixado na sentença, o Juiz de primeiro grau deixou de justificar concreta e adequadamente em que medida a liberdade do réu poderia comprometer a ordem pública ou econômica, ou, ainda, a aplicação da lei penal, bem como a insuficiência das medidas previstas no art. 319 do Código de Processo Penal, limitando-se à gravidade abstrata do delito.
+Ante o exposto, concedo liminarmente a ordem de habeas corpus para assegurar ao paciente o direito de recorrer em liber dade, salvo se por algum outro motivo estiver preso, advertindo-o da necessidade de permanecer no distrito da culpa e atender aos chamamentos judiciais, sem prejuízo de nova decretação de prisão provisória, por fato superveniente a demonstrar a necessidade da medida ou da fixação de medidas cautelares alternativas, desde que de forma fundamentada.
+Comunique-se, com urgência, o teor desta decisão ao Tribunal estadual e ao Juízo a quo.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. INDEFERIMENTO DO DIREITO DE RECORRER EM LIBERDADE. AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem concedida, liminarmente, nos termos do dispositivo.
