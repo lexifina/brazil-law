@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de embargos de divergência opostos por ANTONIO CLAUDIO MASSONI (ANTONIO), na demanda em que contende com COMPANHIA EXCELSIOR DE SEGUROS (EXCELSIOR) contra acórdão prolatado pela Quarta Turma do STJ, da relatoria do Ministro JOÃO OTÁVIO DE NORONHA, assim ementado:
+DIREITO CIVIL. AGRAVO INTERNO. SEGURO HABITACIONAL. VÍCIOS DE CONSTRUÇÃO. AUSÊNCIA DE COBERTURA SECURITÁRIA. MATÉRIA FÁTICO-PROBATÓRIA. AGRAVO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto contra decisão que não conheceu do recurso especial sobre seguro habitacional e responsabilidade da seguradora por vícios de construção no imóvel financiado.
+2. O Tribunal de origem concluiu que os danos encontrados não estão cobertos pela apólice, que exclui a responsabilidade da seguradora por vícios de construção, sendo a cláusula clara e inteligível.
+3. A apólice contratada prevê cobertura para danos físicos no imóvel, como incêndio, explosão e desmoronamento, mas não para vícios de construção, conforme análise pericial.
+II. QUESTÃO EM DISCUSSÃO
+4. Há duas questões em discussão: (i) saber se a apólice contratada prevê a responsabilidade da seguradora pelos vícios de construção, o que demandaria a interpretação de cláusula contratual e o reexame do conjunto fático-probatório, vedados em recurso especial; e (ii) saber se as Súmulas n. 5 e 7 do STJ não se aplicam ao caso e se há precedentes favoráveis à tese do agravante sobre a cobertura securitária dos vícios construtivos.
+III. RAZÕES DE DECIDIR
+5. A decisão agravada foi mantida, pois verificar se a apólice contratada prevê a responsabilidade pelos vícios construtivos demanda reexame de cláusulas contratuais e de provas, o que é vedado em recurso especial. 6. O agravante não demonstrou situação superveniente que justificasse a alteração da decisão agravada.
+IV. DISPOSITIVO E TESE
+7. Agravo interno desprovido. Tese de julgamento: "1. Nos contratos de seguro habitacional, a responsabilidade da seguradora por vícios de construção depende de previsão expressa na apólice. 2. A interpretação de cláusulas contratuais e o reexame de provas são vedados em recurso especial, conforme as Súmulas n. 5 e 7 do STJ" (e- STJ, fls. 3.133/3.134).
+O dissídio jurisprudencial submetido à análise da Segunda Seção diz respeito a responsabilidade da seguradora por vícios de construção em contratos de seguro habitacional.
+Sustentou que enquanto o acórdão embargado da Quarta Turma entendeu que a responsabilidade da seguradora por vícios de construção depende de previsão expressa na apólice, o acórdão paradigma da Terceira Turma, prolatado no E Dcl no AgInt no AR Esp nº 1.862.789/PR, relatora Ministra NANCY ANDRIGHI, entendeu que a indenização por vícios de construção é devida, independente de existir risco de desmoronamento ou previsão de exclusão em cláusula contratual, diante da função social do contrato e do princípio da boa-fé (e-STJ, fls. 3.146/3.187).
+É o relatório.
+DECIDO.
+Os embargos de divergência não se revelam cognoscíveis.
+O dissídio jurisprudencial submetido à análise da Segunda Seção diz respeito a responsabilidade da seguradora por vícios de construção em contratos de seguro habitacional.
+Os embargos de divergência visam harmonizar precedentes conflitantes proferidos em Turmas distintas em julgamentos de recurso especial ou em agravo que tenham analisado o mérito do recurso inadmitido pelo Tribunal de origem.
+O art. 1.043, II, do CPC, estabelece que cabem embargos de divergência contra o acórdão que em recurso especial divergir do julgamento de qualquer outro órgão do mesmo tribunal, sendo um acórdão de mérito e outro que não tenha conhecido do recurso, embora tenha apreciado a controvérsia.
+Na hipótese, o acórdão embargado da Quarta Turma entendeu incidir o óbice das Súmulas nºs 5 e 7 do STJ porque, no caso, a cláusula contratual não previa a responsabilidade da seguradora por vícios de construção em contratos de seguro habitacional.
+Confira-se trecho do acórdão estadual:
+ ..
+Ainda, de acordo com a "Cláusula 3ª - Riscos Cobertos" das Condições Particulares (mov. 1.11) para os riscos de danos físicos da apólice de seguro em discussão, pode se observar que as garantias contratadas pela requerente são contra incêndio, explosão, desmoronamento total ou parcial, assim entendido a destruição ou desabamento de paredes, vigas ou outro elemento estrutural, ameaça de desmoronamento, devidamente comprovada, destelhamento, inundação ou alagamento.
+Da análise da perícia realizada nos imóveis dos autores (mov. 124.1) é possível inferir que os danos são oriundos de vícios de construção, portanto não cobertos, bem como não importam danos estruturais, aptos a afetar a solidez da obra, e que, portanto, não estão englobados nos riscos segurados, repise-se risco de desmoronamento (total ou parcial) ou ameaça de desmoronamento devidamente comprovado (e-STJ, fl. 1.711).
+Em virtude dos fundamentos do acórdão estadual, a Quarta Turma concluiu no sentido de que a apólice contratada pela parte recorrente prevê a responsabilidade pelos danos constatados no caso demandaria a interpretação de cláusula contratual e o reexame do conjunto fático-probatório dos autos, providências vedadas em recurso especial, nos termos das Súmulas n. 5 e 7 do STJ (e-STJ, fl. 3.140).
+Não se configura divergência entre julgados quando um deles adentra o mérito do recurso, apreciando a questão controvertida, ao passo que o outro não conhece do recurso especial, sem enfrentar a tese de mérito, em razão de óbice relacionado à admissibilidade recursal.
+Isto porque não há similitude fática quando o acórdão embargado trata da inadmissibilidade do recurso especial e o paradigma do mérito.
+É que, nos embargos de divergência, os acórdãos cotejados devem exibir idêntico grau de cognição.
+Embora o art. 1.043, III, do CPC, estabeleça o cabimento de embargos de divergência, sendo os acórdãos confrontados um de mérito e outro que não tenha conhecido do recurso, dispõe expressamente que neste último deverá ter sido apreciada a controvérsia.
+No caso em exame, o acórdão embargado não adentrou no mérito da questão e manteve as conclusões do Tribunal de origem inalteradas, em virtude do óbice das Súmulas nºs 5 e 7 do STJ.
+Não há, pois, nessa oportunidade, como se alterar e reavaliar os critérios sobre o conhecimento do recurso para concluir, segundo pretende o embargante, que era o caso de reconhecer a responsabilidade da seguradora.
+Conforme entendimento desta Corte Superior de Justiça, são incabíveis embargos de divergência quando o acórdão embargado não ultrapassou, de fato, o juízo de admissibilidade, e o julgado paradigma admitiu o recurso e enfrentou o mérito, inexistindo, por essa razão, a indispensável semelhança fático-processual entre os arestos confrontados.
+Confiram-se os precedentes:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ACÓRDÃO PARADIGMA QUE NÃO EXAMINOU O MÉRITO DA CONTROVÉRSIA. DIVERGÊNCIA CIRCUNSCRITA À APLICAÇÃO DE REGRA TÉCNICA DE ADMISSIBILIDADE DO RECURSO ESPECIAL. NÃO CABIMENTO. AUSÊNCIA DE DIVERGÊNCIA DE TESES JURÍDICAS. AGRAVO INTERNO NÃO PROVIDO.
+1. Nos termos do art. 1.043 do Código de Processo Civil, os embargos de divergência são cabíveis contra acórdão que, em recurso especial, divergir do julgamento de qualquer outro órgão do Tribunal, sendo ambos os acórdãos, embargado ou paradigma, de mérito, ou quando, embora não conhecendo do recurso, tenham apreciado a controvérsia.
+2. "O Superior Tribunal de Justiça já firmou entendimento no sentido de serem incabíveis embargos de divergência com o intuito de reapreciar a efetiva ocorrência dos óbices de admissibilidade do recurso especial" (AgInt nos EAREsp n. 1.225.660/RJ, relator Ministro Ricardo Villas Bôas Cueva, Corte Especial, julgado em 8/8/2023, DJe de 14/8/2023).
+3. Na hipótese, a parte embargante pretende reverter o juízo de admissibilidade do recurso especial buscando a aplicação dos óbices das Súmulas 5 e 7 do STJ no caso dos autos, de modo que incabíveis os presentes embargos.
+4. Agravo interno a que se nega provimento.
+(AgInt nos EREsp nº 1.815.823/SP, relatora Ministra MARIA ISABEL GALLOTTI, Segunda Seção, j. 29/10/2024, DJe de 7/11/2024 - sem destaques no original)
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. SOCIEDADE EDUCACIONAL. EXCLUSÃO DE SÓCIO. JUSTO MOTIVO. NÃO OCORRÊNCIA. ACÓRDÃO EMBARGADO. JUÍZO DE MÉRITO. ACÓRDÃO PARADIGMA. JUÍZO DE ADMISSIBILIDADE. ÓBICE DA SÚMULA Nº 7. AUSÊNCIA DE IDÊNTICO GRAU DE COGNIÇÃO. INADMISSIBILIDADE DOS EMBARGOS DE DIVERGÊNCIA. AGRAVO NÃO PROVIDO.  ..
+4. Nos embargos de divergência os acórdãos cotejados devem exibir idêntico grau de cognição. Doutrina.
+5. Conforme entendimento desta Corte Superior de Justiça, são incabíveis embargos de divergência quando o acórdão embargado admitiu o recurso e enfrentou o mérito, e o julgado paradigma não ultrapassou, de fato, o juízo de admissibilidade, inexistindo, por essa razão, a indispensável semelhança fático-processual entre os arestos confrontados. Precedentes.
+6. Agravo interno não provido.
+(AgInt nos EREsp 1.280.051/MG, Rel. Ministro MOURA RIBEIRO, Segunda Seção, j. 13/12/2017, DJe 6/3/2018 - sem destaque no original)
+Ademais, as normas legais discutidas nos acórdãos confrontados são diversas. Enquanto o acórdão embargado analisou o art. 757 do CC e o art. 54 do CDC, o acórdão paradigma decidiu com fundamento nos arts. 423, 757, 760 e 779 do CC, no art. 370 do CPC, e nos arts. 25, 47, 48, 51, IV e 54, do CDC.
+Anote-se que, no caso, não foram opostos embargos de declaração para suprir eventual omissão.
+Os embargos de divergência não se prestam a corrigir supostos equívocos do acórdão embargado, como se tivessem o poder de reabrir o julgamento do recurso especial.
+Desse modo, permanece hígido o entendimento da Corte Especial de que não cabe, em embargos de divergência, a análise de possível acerto ou desacerto do acórdão embargado, mas tão só a de eventual dissídio de teses jurídicas, a fim de uniformizar a interpretação do direito infraconstitucional no âmbito do STJ (AgRg nos EREsp 840.567/DF, Rel. Ministra LAURITA VAZ, Corte Especial, j. 29/6/2010, DJe 13/8/2010).
+Nessas condições, nos termos do art. 266-C do RISTJ, INDEFIRO LIMINARMENTE os embargos de divergência.
+MAJORO os honorários advocatícios anteriormente fixados em desfavor de ANTONIO CLAUDIO MASSONI em 5% sobre o valor atualizado da causa, nos termos do art. 85, § 11, do CPC, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º 11 do referido dispositivo legal, em observância ao decidido no julgamento do AgInt nos EREsp 1.539.725/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, Segunda Seção, j. 9/8/2017, DJe 19/10/2017.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação nas penalidades fixadas nos arts. 1.021, § 4º ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO. JUÍZO DE ADMISSIBILIDADE. ÓBICE DA SÚMULAS NºS 5 E 7 DO STJ. ACÓRDÃO PARADIGMA. JUÍZO DE MÉRITO. AUSÊNCIA DE IDÊNTICO GRAU DE COGNIÇÃO. REGRA TÉCNICA. EMBARGOS REJEITADOS LIMINARMENTE.
