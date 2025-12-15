@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/12/2025 a 15/12/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. COBRANÇAS INDEVIDAS. DANO MORAL. PESSOA JURÍDICA. INSUFICIÊNCIA DE PROVAS. AUSÊNCIA DE COMANDO NORMATIVO SUFICIENTE. SÚMULA Nº 284/STF. REEXAME DE PROVAS. SÚMULAS Nº 7/STJ.
+1. Considera-se deficiente, a teor da Súmula nº 284/STF, a fundamentação recursal que alega violação de dispositivos legais cujo conteúdo jurídico não tem alcance normativo para amparar a tese defendida no recurso especial.
+2. O recurso especial é inviável quando a modificação do acórdão recorrido demanda inquestionável análise do conjunto fático-probatório constante dos autos, no que concerne à suficiência da prova do dano moral, conforme dispõe a Súmula nº 7/STJ.
+3. Agravo conhecido para não conhecer do recurso especial.
+RELATÓRIO
+Trata-se de agravo interposto por PLANNER ESCRITÓRIO EMPRESARIAL LTDA. contra decisão que inadmitiu recurso especial.
+O apelo extremo, fundamentado no art. 105, III, alínea "a", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"OBRIGAÇÃO DE NÃO FAZER e RESPONSABILIDADE CIVIL Telecomunicações Cobranças indevidas - Autora que alega a persistência de cobranças de valores indevidos e que foram objeto do processo nº 0020263-44.2012.8.26.0451 e a inclusão do seu nome em lista de consumidores inadimplentes compartilhada com outras operadoras de serviços de telecomunicações Acolhimento do pedido de obrigação de abstenção da ré quanto às cobranças e de manutenção da autora em lista restritiva, bem como a condenação ao pagamento de indenização por dano moral Parcial cabimento Hipótese em que a prova testemunhal, conjugada com as demais informações constantes dos autos, permite a conclusão de que houve cobrança de valores, e estes são indevidos, pois a própria ré nega a existência de qualquer débito Dano moral Inocorrência Não há prova substancial de que o impeditivo de contratação com terceira teria sido pela publicidade promovida pela ré dos alegados débitos Prova que só poderia ser produzida pela autora, que não se desincumbiu do ônus de provar o fato constitutivo de seu direito Exegese do art. 373, I, do CPC A cobrança indevida contra a pessoa jurídica não configura, por si só, abalo moral, notadamente quando não há prova da violação de sua honra objetiva, no caso, por publicidade indevida de condição de inadimplente Afastadas a condenação da ré a não incluir o nome da autora em lista restritiva, não comprovada na espécie, e ao pagamento de indenização por abalo moral Sentença reformada nestes pontos Redistribuição dos encargos sucumbenciais. LITIGÂNCIA DE MÁ-FÉ Inocorrência - Não se detecta deslealdade processual no procedimento da parte que não foi bem- sucedida na busca de apoio de suas pretensões Indeferimento do pleito requerido em contrarrazões da apelada Comunicações ao Ministério Público, PROCON e ANATEL que devem ser realizadas pela parte a seu critério, pois não foi reconhecida a inclusão da autora nestes autos em cadastro restritivo interno de operadoras de telecomunicações. Recurso provido em parte." (e-STJ fls. 631/632)
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 651/656).
+No recurso especial, a agravante alega violação do art. 369 do Código de Processo Civil, por ter o acórdão recorrido desconsiderado, para formação de seu livre convencimento motivado, a prova testemunhal como meio de prova válido, legal e lícito (e-STJ fls. 639/645).
+Com as contrarrazões (e-STJ fls. 665/673), o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. COBRANÇAS INDEVIDAS. DANO MORAL. PESSOA JURÍDICA. INSUFICIÊNCIA DE PROVAS. AUSÊNCIA DE COMANDO NORMATIVO SUFICIENTE. SÚMULA Nº 284/STF. REEXAME DE PROVAS. SÚMULAS Nº 7/STJ.
+1. Considera-se deficiente, a teor da Súmula nº 284/STF, a fundamentação recursal que alega violação de dispositivos legais cujo conteúdo jurídico não tem alcance normativo para amparar a tese defendida no recurso especial.
+2. O recurso especial é inviável quando a modificação do acórdão recorrido demanda inquestionável análise do conjunto fático-probatório constante dos autos, no que concerne à suficiência da prova do dano moral, conforme dispõe a Súmula nº 7/STJ.
+3. Agravo conhecido para não conhecer do recurso especial.
+VOTO
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+O art. 369 do Código de Processo Civil, apontado como supostamente violado, não contém comando normativo apto a infirmar os fundamentos do acórdão recorrido, tampouco a respaldar a tese sustentada pela recorrente.
+O referido dispositivo estabelece que
+"(..) as partes têm o direito de empregar todos os meios legais, bem como os moralmente legítimos, ainda que não especificados neste Código, para provar a verdade dos fatos em que se funda o pedido ou a defesa e influir eficazmente na convicção do juiz".
+No entanto, conforme se depreende da fundamentação e da conclusão do recurso especial, a agravante não foi impedida de produzir prova testemunhal.
+Sua insurgência diz respeito ao fato de que essa prova teria sido considerada insuficiente.
+Constata-se, assim, a existência de deficiência na fundamentação recursal, atraindo a incidência da Súmula nº 284/STF.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. AGRAVO DE INSTRUMENTO. TEMAS NÃO DEBATIDOS. PREQUESTIONAMENTO. AUSÊNCIA. APLICAÇÃO DA SÚMULA Nº 211 DO STJ. FUNDAMENTAÇÃO DEFICIENTE. AUSÊNCIA DE COMANDO NORMATIVO SUFICIENTE. APLICAÇÃO DA SÚMULA N. 284 DO STF, POR ANALOGIA. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO NOS MOLDES LEGAIS. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. As matérias pertinentes à não retroatividade da norma processual e sua aplicação imediata, a respeito da incumbência das partes em prover as despesas dos atos que realizarem e acerca do não cabimento, no caso, de multa pelo pagamento voluntário do débito não foram objeto de debate prévio nas instâncias de origem, a despeito da oposição de embargos de declaração. Ausente, portanto, o devido prequestionamento nos termos da Súmula nº 211 do STJ.
+2. Considera-se deficiente, a teor da Súmula nº 284 do STF, a fundamentação recursal que alega violação de dispositivos legais cujo conteúdo jurídico não tem alcance normativo para amparar a tese defendida no recurso especial.
+3. A não observância aos requisitos dos arts. 1.029, § 1º, do NCPC, e 255, §§ 1º e 2º, do Regimento Interno do Superior Tribunal de Justiça torna inadmissível o conhecimento do recurso com fundamento na alínea c do permissivo constitucional.
+4. Agravo conhecido para não conhecer do recurso especial."
+(AREsp 2.796.103/MG, Relator Ministro MOURA RIBEIRO, Terceira Turma, julgado em 24/2/2025, DJEN de 28/2/2025)
+"AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REGISTRO DE IMÓVEIS. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. INEXISTÊNCIA DE EXECUÇÃO OU AÇÃO REAL OU PESSEOAL REIPERSECUTÓRIA. DISPOSITIVOS LEGAIS. PERTINÊNCIA TEMÁTICA AUSÊNCIA. SÚMULA N. 284/STF. AGRAVO E RECURSO ESPECIAL. JULGAMENTO CONJUNTO. POSSIBILIDADE. ART. 1.042, § 5º, DO CPC. NÃO PROVIMENTO.
+1. A ausência de pertinência temática entre o conteúdo normativo dos dispositivos legais e tese sustentada pelo recorrente atrai as disposições do verbete n. 284 da Súmula do Supremo Tribunal Federal.
+2. "Mediante a interpretação sistemática dos artigos 932, inciso IV, e 1.042, § 5º, do CPC/2015, depreende-se não existirem óbices para que o relator julgue conjuntamente, de forma monocrática, o agravo e o recurso especial quando esses sejam contrários a jurisprudência consolidada do Supremo Tribunal Federal ou do Superior Tribunal de Justiça. 1.1. Não se pode perder de vista, ainda, que essa orientação não ocasiona prejuízo às partes, porquanto resguardada a possibilidade de interposição do agravo interno objetivando forçar o exame da matéria pelo Colegiado competente"."(AgInt no AREsp 767.850/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 15/12/2016, DJe 01/02/2017)
+3. Agravo interno a que se nega provimento."
+(AgInt no AgInt no AREsp 2.426.943/SP, Relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 12/8/2024, DJe de 14/8/2024)
+Ainda, as conclusões do Tribunal de origem acerca da insuficiência de provas foram calcadas nas peculiaridades fáticas dos autos, conforme se extrai da fundamentação adotada:
+"(..)
+Mesma sorte não é a das condenações a não incluir o nome da autora em lista restritiva compartilhada entre as operadoras de telecomunicações e ao pagamento de indenização por dano moral.
+Não há prova substancial de que o impeditivo de contratação com terceira teria sido pela publicidade promovida pela ré dos alegados débitos.
+Tal prova que só poderia ser produzida pela autora, que não se desincumbiu do ônus de provar o fato constitutivo de seu direito (cf. art. 373, I, do CPC), pois se ela entrou em contato com a terceira e foi informada da lista restritiva, deveria ter promovido prova mais robusta de que, de fato, eram débitos cobrados pela ré que teriam sido comunicados à outra operadora, como gravar a ligação, meio amplamente disponível no atual cenário da tecnologia a grande parte da população, obter um número de protocolo e requisitar a gravação à Claro, enfim, qualquer elemento pudesse fornecer segurança da publicidade ilegal de débito alegadamente promovida pela ré.
+A afirmação da funcionária da autora, desacompanhada de qualquer outro elemento que ampare a alegação, é insuficiente." (e-STJ fl. 635)
+Assim, rever a conclusão do Tribunal local demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inviável ante a natureza excepcional da via eleita, consoante disposto na Súmula nº 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, os honorários sucumbenciais fixados pelas instâncias ordinárias, devidos pela ora recorrente, devem ser majorados para R$ 4.000,00 (quatro mil reais), atualizados desde o arbitramento na origem, observado o benefício da gratuidade da justiça, se for o caso.
+É o voto.
