@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo contra a decisão que inadmitiu o recurso especial interposto por PAULO EDUARDO FERNANDES MAGALHÃES, com fundamento na alínea "a" do permissivo constitucional, em oposição a acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado (fls. 142-146):
+"RECURSO EM SENTIDO ESTRITO. Calúnia, Difamação e Injúria. Rejeição da queixa-crime. Manutenção da decisão de 1º Grau. Ausência de justa causa. Recurso desprovido".
+Os embargos de declaração foram rejeitados.
+Em suas razões recursais, a parte recorrente aponta violação dos arts. 41, 395, III, e 619 do CPP; 44, XI, da Lei Complementar 80/1994; e 405 do CPC. Aduz para tanto, em síntese, que: (I) o acórdão recorrido seria omisso sobre seus argumentos; (II) haveria indícios suficientes da prática dos crimes contra a honra por parte da querelada, o que imporia o recebimento da queixa-crime e a instauração da persecução penal; e (III) as ofensas contidas em peça processual subscrita por defensor público seriam imputáveis à querelada.
+Com contrarrazões (fls. 190-196, 203-205 e 213-217), o recurso especial foi inadmitido na origem (fls. 220-221), ao que se seguiu a interposição de agravo.
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo não conhecimento do recurso (fls. 275-276).
+É o relatório.
+Decido.
+O agravo impugna adequadamente os fundamentos da decisão agravada, devendo ser conhecido. Passo, portanto, ao exame do recurso especial propriamente dito.
+Inicialmente, não vislumbro ofensa ao art. 619 do CPP, pois o Tribunal de origem se pronunciou sobre todos os aspectos relevantes para a definição da causa. Ressalte-se que o julgador não é obrigado a rebater, um a um, todos os argumentos das partes, bastando que resolva a situação que lhe é apresentada sem se omitir sobre os fatores capazes de influir no resultado do julgamento.
+O acerto ou desacerto do desfecho a que chegou o Tribunal local é matéria que diz respeito ao mérito da causa, mas não ao cabimento dos aclaratórios, tratado no art. 619 do CPP. A parte recorrente pode, é claro, discordar da solução encontrada pelo aresto impugnado, mas isso não significa que careça ele da devida fundamentação. A propósito:
+"RECURSOS ESPECIAIS. PENAL E PROCESSUAL PENAL. CRIME CONTRA A ADMINISTRAÇÃO AMBIENTAL. NULIDADE LAUDO TÉCNICO. PROVA ILÍCITA. FISCALIZAÇÃO AMBIENTAL. POSSIBILIDADE. CERCEAMENTO DE DEFESA. INDEFERIMENTO DE PRODUÇÃO DE PROVA PERICIAL. FUNDAMENTOS IDÔNEOS. POLICIAIS TESTEMUNHAS DE ACUSAÇÃO. POSSIBILIDADE. AUSÊNCIA DE PREJUÍZO. SUSPENSÃO DO PROCESSO. INDEPENDÊNCIA ENTRE ESFERAS. DESNECESSIDADE. VIOLAÇÃO DO ART. 619 DO CPP. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 69-A, CAPUT E § 1º, DA LEI N. 9.605/1998. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO. SÚMULA 83/STJ.
+ ..
+5. Não há violação do art. 619 do CPP, pois o Tribunal de origem enfrentou, de forma fundamentada, as irresignações recursais, adotando, contudo, solução jurídica contrária aos interesses da recorrente, não havendo falar, assim, em negativa de prestação jurisdicional. Precedentes.
+ ..
+9. Recursos especiais parcialmente conhecidos e, nessa extensão, desprovidos".
+(REsp n. 1.947.718/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 3/9/2024, DJe de 6/9/2024.)
+" ..
+5. Não há falar de violação ao art. 619 do CPP, pois não houve omissão do aresto objurgado quanto à pena do crime de lavagem de capitais, senão decisão contrária ao interesse do recorrente, que não configura negativa de prestação jurisdicional.
+6. Agravo regimental desprovido".
+(AgRg no AREsp n. 2.392.558/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 6/8/2024, DJe de 9/8/2024.)
+Sobre a questão de fundo, a Corte de origem constatou que não há sequer indícios mínimos sobre o dolo nas condutas imputadas às quereladas, o que afasta a justa causa para a ação penal. É o que se colhe do acórdão recorrido (fls. 144-145):
+"O MM. Juiz de 1º Grau rejeitou a queixa-crime sob os seguintes fundamentos:
+ ..
+Para a configuração dos delitos em apreço, não basta que o agente aja com dolo, mas se faz indispensável o elemento subjetivo específico do tipo, que é a especial intenção de ofender, magoar, ou macular a honra alheia. Isso porque, ao falar sobre fato ofensivo à reputação de terceiro, nem sempre o sujeito o faz com a específica vontade de macular a honra alheia, sendo necessário distinguir a ação movida pelo propósito de ofender daquela em que só ocorre animus narrandi ou vontade de relatar algo.  ..  a hipótese em exame, não é possível identificar animus diffamandi nem animus injuriandi ou caluniandi na conduta da querelada Ana Carolina, escolhida para acompanhar as visitas monitoradas do querelante ao filho menor e que, tanto na declaração de fls. 33/34 quanto nas mensagens de fls. 45/53, apenas narrou fatos que teria observado por ocasião dessas visitas. Assim, verificando-se que não restaram configurados os crimes contra a honra do querelante atribuídos nos autos às quereladas, imperiosa se faz a rejeição da queixa.
+Não se pode imputar calúnia, difamação ou injúria a alguém diante de uma peça jurídica juntada em processo cível. No mais, os documentos de fls. 33/34 e 45/53 apenas contêm narrativas de fatos segundo a percepção de ANA CAROLINA, não se observando intenção de imputar falsamente crimes ou fatos ofensivos à reputação do recorrente, nem de injuriá-lo".
+Essa constatação, diferentemente do que diz o agravante, não é uma defesa antecipada das quereladas, tampouco viola a inércia da jurisdição ou inverte o ônus da prova, mas apenas cumpre a determinação legal de verificar se há justa causa para instaurar a ação penal (art. 395, III, do CPP). Tendo o Tribunal local entendido pela inexistência de indícios do dolo, como se viu acima, e sendo sua conclusão fática soberana no ponto, a inversão do julgado demandaria o reexame do conjunto fático-probatório dos autos, providência inviável nesta instância especial, nos termos da Súmula 7/STJ. A propósito:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CALÚNIA. DIFAMAÇÃO. REJEIÇÃO DA QUEIXA-CRIME PELO TRIBUNAL A QUO. AUSÊNCIA DE DOLO ESPECÍFICO. JUSTA CAUSA NÃO EVIDENCIADA. DECISÃO FUNDAMENTADA. SÚMULA 7/STJ. OMISSÃO. INEXISTÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não é omisso ou carente de fundamentos o acórdão recorrido que decide de modo integral a controvérsia, apreciando todos os argumentos apresentados pelos litigantes, apenas extraindo conclusão diversa da almejada pela parte.
+2. O acórdão recorrido afastou, de forma fundamentada e a partir da análise das provas apresentadas, a existência de dolo específico na conduta dos querelados, indispensável para a deflagração de ação penal por crimes contra a honra. A revisão desse entendimento, como proposto, é providência sabidamente inviável na via eleita, ante a indisfarçável necessidade de reexame de matéria de fato e provas, vedado pela Súmula 7/STJ.
+3. Agravo regimental desprovido".
+(AgRg no AREsp n. 627.242/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/6/2016, DJe de 10/6/2016.)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "a" e "b", do Regimento Interno do STJ, conheço do agravo para conhecer em parte do recurso especial e, nesta extensão, negar-lhe provimento.
+Publique-se. Intimem-se.
+ EMENTA
