@@ -1,0 +1,67 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/12/2025 a 15/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  ADMISSIBILIDADE.  DECISÃO  AGRAVADA.  IMPUGNAÇÃO.  AUSÊNCIA.  ART.  932,  III,  DO  CPC.  SUSPENSÃO. MATÉRIA DE MÉRITO AFETADA. TEMA Nº 1.378/STJ. INAPLICABILIDADE.
+1.  Incumbe  ao  agravante  infirmar  especificamente  todos  os  fundamentos  da  decisão  atacada,  demonstrando  o  seu  desacerto,  de  modo  a  justificar  o  cabimento  do  recurso  especial  interposto,  sob  pena  de  não  ser  conhecido  o  agravo  (art.  932,  III,  do  CPC).
+2.  Nos termos da jurisprudência desta Corte, não há falar em suspensão do feito em virtude da afetação da matéria de mérito quando o recurso não ultrapassa o juízo de admissibilidade.
+3. Agravo  interno  não  provido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  CREFISA S.A. CRÉDITO, FINANCIAMENTO E INVESTIMENTOS contra  a  decisão  de e-STJ fls. 745/746 , proferida pela Presidência do STJ, que  não  conheceu  do  seu  agravo  em  recurso  especial  em razão da falta de impugnação específica a todos os fundamentos da decisão agravada.
+Em  suas  razões (e-STJ fls. 769/798),  o recorrente sustenta que impugnou todos os fundamentos da decisão agravada.
+Argumenta pelo "sobrestamento do feito e a remessa dos autos ao Tribunal de origem para que permaneçam suspensos, até o julgamento definitivo do Tema 1.378, nos exatos termos da decisão proferida pela Segunda Seção do STJ" (e-STJ fl. 773).
+Ao  final,  requer  a  reforma  da  decisão  atacada.
+A  parte  contrária  não apresentou  impugnação  (e-STJ  fl.  802).
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  ADMISSIBILIDADE.  DECISÃO  AGRAVADA.  IMPUGNAÇÃO.  AUSÊNCIA.  ART.  932,  III,  DO  CPC.  SUSPENSÃO. MATÉRIA DE MÉRITO AFETADA. TEMA Nº 1.378/STJ. INAPLICABILIDADE.
+1.  Incumbe  ao  agravante  infirmar  especificamente  todos  os  fundamentos  da  decisão  atacada,  demonstrando  o  seu  desacerto,  de  modo  a  justificar  o  cabimento  do  recurso  especial  interposto,  sob  pena  de  não  ser  conhecido  o  agravo  (art.  932,  III,  do  CPC).
+2.  Nos termos da jurisprudência desta Corte, não há falar em suspensão do feito em virtude da afetação da matéria de mérito quando o recurso não ultrapassa o juízo de admissibilidade.
+3. Agravo  interno  não  provido.
+VOTO
+A  irresignação  não  merece  prosperar.
+Observa-se dos autos que a decisão que inadmitiu o recurso especial foi fundamentada na ausência de prequestionamento e nos óbices da Súmula nº 7/STJ e das Súmulas nºs 283 e 284/STF (e-STJ fls. 745/746).
+No entanto, nas razões do agravo em recurso especial, a parte impugnou os óbices sumulares, sem infirmar o argumento de falta de prequestionamento.
+É  assente  o  entendimento  do  Superior  Tribunal  de  Justiça  no  sentido  de  que
+"(..)  o  agravo  que  objetiva  conferir  trânsito  ao  recurso  especial  obstado  na  origem  reclama,  como  requisito  objetivo  de  admissibilidade,  a  impugnação  específica  aos  fundamentos  utilizados  para  sua  negativa,  consoante  expressa  previsão  contida  no  art.  932,  III,  do  CPC  de  2015  e  art.  253,  parágrafo  único,  I,  do  Regimento  Interno  do  Superior  Tribunal  de  Justiça  -  RISTJ"  (AgInt  no  AREsp  936.883/RS,  Rel.  Ministro  Luis  Felipe  Salomão,  Quarta  Turma,  julgado  em  27/9/2016,  DJe  7/10/2016).
+A  propósito,  o  julgamento  dos  EAREsp  nº  746.775/PR,  rel.  p/  acórdão  Ministro  Luis  Felipe  Salomão,  Corte  Especial,  em  19/9/2018,  assim  ementados:
+"PROCESSO  CIVIL.  EMBARGOS  DE  DIVERGÊNCIA.  IMPUGNAÇÃO  ESPECÍFICA  DE  TODOS  OS  FUNDAMENTOS  DA  DECISÃO  RECORRIDA.  ART.  544,  §  4º,  I,  DO  CPC/1973.  ENTENDIMENTO  RENOVADO  PELO  NOVO  CPC,  ART.  932.
+1.  No  tocante  à  admissibilidade  recursal,  é  possível  ao  recorrente  a  eleição  dos  fundamentos  objeto  de  sua  insurgência,  nos  termos  do  art.  514,  II,  c/c  o  art.  505  do  CPC/1973.  Tal  premissa,  contudo,  deve  ser  afastada  quando  houver  expressa  e  específica  disposição  legal  em  sentido  contrário,  tal  como  ocorria  quanto  ao  agravo  contra  decisão  denegatória  de  admissibilidade  do  recurso  especial,  tendo  em  vista  o  mandamento  insculpido  no  art.  544,  §  4º,  I,  do  CPC,  no  sentido  de  que  pode  o  relator  "não  conhecer  do  agravo  manifestamente  inadmissível  ou  que  não  tenha  atacado  especificamente  os  fundamentos  da  decisão  agravada"  -  o  que  foi  reiterado  pelo  novel  CPC,  em  seu  art.  932.
+2.  A  decisão  que  não  admite  o  recurso  especial  tem  como  escopo  exclusivo  a  apreciação  dos  pressupostos  de  admissibilidade  recursal.  Seu  dispositivo  é  único,  ainda  quando  a  fundamentação  permita  concluir  pela  presença  de  uma  ou  de  várias  causas  impeditivas  do  julgamento  do  mérito  recursal,  uma  vez  que  registra,  de  forma  unívoca,  apenas  a  inadmissão  do  recurso.  Não  há,  pois,  capítulos  autônomos  nesta  decisão.
+3.  A  decomposição  do  provimento  judicial  em  unidades  autônomas  tem  como  parâmetro  inafastável  a  sua  parte  dispositiva,  e  não  a  fundamentação  como  um  elemento  autônomo  em  si  mesmo,  ressoando  inequívoco,  portanto,  que  a  decisão  agravada  é  incindível  e,  assim,  deve  ser  impugnada  em  sua  integralidade,  nos  exatos  termos  das  disposições  legais  e  regimentais.
+4.  Outrossim,  conquanto  não  seja  questão  debatida  nos  autos,  cumpre  registrar  que  o  posicionamento  ora  perfilhado  encontra  exceção  na  hipótese  prevista  no  art.  1.042,  caput,  do  CPC/2015,  que  veda  o  cabimento  do  agravo  contra  decisão  do  Tribunal  a  quo  que  inadmitir  o  recurso  especial,  com  base  na  aplicação  do  entendimento  consagrado  no  julgamento  de  recurso  repetitivo,  quando  então  será  cabível  apenas  o  agravo  interno  na  Corte  de  origem,  nos  termos  do  art.  1.030,  §  2º,  do  CPC.
+5.  Embargos  de  divergência  não  providos."  (grifou-se).
+Como  visto,  a  Corte  Especial,  interpretando  a  Súmula  nº  182/STJ,  decidiu  que  ela  incide  para  não  conhecer  de  todo  o  recurso  nas  hipóteses  em  que  os  recorrente  s  atacam  apenas  parte  da  decisão  recorrida,  ainda  que  a  parte  controvertida  seja  capítulo  autônomo  em  relação  à  parte  não  impugnada.
+Assim,  para  o  conhecimento  do  agravo  em  recurso  especial,  revela-se  necessária  a  impugnação  específica  de  todos  os  fundamentos  adotados  pela  Corte  de  origem  para  inadmitir  o  recurso  especial,  sejam  eles  autônomos  ou  não,  sendo  vedada  a  impugnação  parcial.
+Confira-se:
+"PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL  CONTRA  DECISÃO  DA  PRESIDÊNCIA  DO  STJ.  AUSÊNCIA  DE  IMPUGNAÇÃO  ESPECÍFICA  AO  FUNDAMENTO  DA  DECISÃO  DE  ADMISSIBILIDADE.  SÚMULA  182/STJ.  ASSISTÊNCIA  JUDICIÁRIA  GRATUITA.  DECLARAÇÃO  DE  CARÊNCIA  ECONÔMICA.  ACÓRDÃO  EM  CONSONÂNCIA  COM  A  ORIENTAÇÃO  DO  STJ.  AGRAVO  INTERNO  DO  PARTICULAR  A  QUE  SE  NEGA  PROVIMENTO.
+1.  Pela  leitura  das  razões  recursais,  constata-se  que,  quando  da  interposição  do  Agravo  em  Recurso  Especial,  a  parte  agravante  não  rebateu,  como  lhe  competia,  todos  os  fundamentos  da  decisão  agravada,  deixando  de  impugnar  a  divergência  não  comprovada.
+2.  A  parte  agravante  deve  infirmar  os  fundamentos  da  decisão  impugnada,  autônomos  ou  não,  mostrando-se  inadmissível  o  recurso  que  não  se  insurge  contra  todos  eles  -  Súmula  182  do  Superior  Tribunal  de  Justiça.
+3.  Mesmo  que  assim  não  fosse,  o  indeferimento  da  assistência  judiciária,  se  deu  em  razão  da  renda  líquida  auferida,  e  apresentada  pela  própria  agravante,  no  montante  de  R$  4.200,00  (quatro  mil  e  duzentos  reais)  (fls.  381).
+4.  Agravo  Interno  do  Particular  a  que  se  nega  provimento."
+(AgInt  no  AREsp  1.595.661/PR,  Rel.  Ministro  NAPOLEÃO  NUNES  MAIA  FILHO,  PRIMEIRA  TURMA,  julgado  em  15/6/2020,  DJe  17/6/2020  -  grifou-se).
+Registre-se, por fim, que esta Corte Superior entende que, "Se o recurso não ultrapassa o juízo de admissibilidade, não é necessário sobrestar o processo. Isso porque o tema de mérito, independentemente da repercussão geral ou de sua afetação como representativo da controvérsia, não será enfrentado." (AgInt no AREsp 2.000.334/RJ, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 28.4.2022).
+Nesse sentido:
+"DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INADMISSIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO INTERNO DESPROVIDO. I. CASO EM EXAME
+1. Agravo interno interposto contra decisão da Presidência do Superior Tribunal de Justiça que não conheceu do agravo em recurso especial, aplicando ao caso analogicamente a Súmula n. 182 do STJ por ausência de impugnação específica de todos os fundamentos da decisão agravada.
+2. A agravante defende a inaplicabilidade da Súmula n. 182 do STJ, alegando ter impugnado especificamente todos os fundamentos utilizados para a inadmissão do recurso especial. Requer a suspensão do processo em razão do Tema n. 1.250 do STJ. II. QUESTÃO EM DISCUSSÃO
+3. No agravo interno, há duas questões em discussão: (i) saber se a parte agravante impugnou especificamente todos os fundamentos da decisão que inadmitira o recurso especial, de modo a afastar a aplicação da Súmula n. 182 do STJ; (ii) saber se é possível a suspensão do processo em razão da afetação do Tema n. 1.250.
+4. Nas contrarrazões, há duas questões em discussão: (i) saber se a multa prevista no art. 1.021, § 4º, do CPC se aplica ao caso; e (ii) saber se é possível a majoração dos honorários recursais em razão do julgamento do agravo interno.
+III. RAZÕES DE DECIDIR
+5. A decisão de inadmissibilidade do recurso especial é incindível e deve ser impugnada em sua integralidade, conforme entendimento da Corte Especial do STJ.
+6. A agravante não impugnou especificamente o fundamento da decisão denegatória do recurso especial referente à aplicação da Súmula n. 7 do STJ.
+7. A refutação apta a infirmar a decisão agravada deve ser efetiva, específica e motivada, o que não ocorreu no caso em análise.
+8. A jurisprudência do STJ exige que a parte agravante refute o óbice da Súmula n. 7 do STJ mediante a demonstração de que a tese jurídica desenvolvida no recurso especial não demanda reexame de provas.
+9. A suspensão do processo em decorrência da afetação de tema pelo STJ é desnecessária quando o agravo em recurso especial não ultrapassa o juízo de admissibilidade.
+10. A aplicação da multa prevista no art. 1.021, § 4º, do CPC não é cabível quando não se configura a manifesta inadmissibilidade do agravo interno.
+11. A interposição de agravo interno não inaugura instância, sendo inviável a majoração de honorários no julgamento de agravo interno e de embargos de declaração quando o recurso não ultrapassa a fase de conhecimento ou é desprovido. IV. DISPOSITIVO E TESE
+12. Agravo interno desprovido.
+Tese de julgamento: "1. A decisão de inadmissibilidade do recurso especial deve ser impugnada em sua integralidade, sob pena de aplicação da Súmula n. 182 do STJ. 2. A aplicação da multa prevista no art. 1.021, § 4º, do CPC requer a manifesta inadmissibilidade do agravo interno. 3. A interposição de agravo interno não permite a majoração de honorários recursais quando o recurso não ultrapassa a fase de conhecimento ou é desprovido."
+Dispositivos relevantes citados: CPC, arts. 932, III, e 1.021, §§ 4º e 5º; RISTJ, art. 253, parágrafo único, I. Jurisprudência relevante citada: STJ, AgInt no AREsp n. 1.969.273/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 13/12/2021; STJ, AgInt no AREsp n. 1.770.082/SP, relator Ministro Manoel Erhardt, Primeira Turma, julgado em 26/4/2021; STJ, AgInt no AREsp n. 2.101.598/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 26/9/2022;
+STJ, AgInt no AREsp n. 2.053.156/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 15/8/2022; STJ, EAREsp n. 746.775/PR, relator Ministro João Otávio de Noronha, relator para o acórdão Ministro Luis Felipe Salomão, Corte Especial, julgados em 19/9/2018;
+EDcl no AgInt nos EAREsp n. 1.504.451/RJ, relatora Ministra Nancy Andrighi, Segunda Seção, julgados em 6/12/2021; STJ, AgInt no RMS n. 51.042/MG, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 28/3/2017, DJe de 3/4/2017; STJ, EDcl no AgInt no AREsp n. 437.263/MS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgados em 3/4/2018; STJ, AgInt no AREsp n. 1.223.865/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/3/2018"
+(AgInt no AREsp n. 2.635.379/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 24/3/2025, DJEN de 28/3/2025)
+Nesse  contexto,  não  prosperam  as  alegações  postas  no  presente  recurso,  incapazes  de  alterar  os  fundamentos  da  decisão  impugnada.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
