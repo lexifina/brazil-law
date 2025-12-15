@@ -1,0 +1,72 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/12/2025 a 15/12/2025, por unanimidade, conhecer do recurso e lhe dar provimento, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSUAL CIVIL. SUCESSÃO PROCESSUAL. DISSOLUÇÃO REGULAR. PESSOA JURÍDICA. EQUIPARAÇÃO. MORTE. PESSOA NATURAL.
+1. A controvérsia dos autos resume-se em definir se, na hipótese, era possível determinar a sucessão processual da pessoa jurídica.
+2. A jurisprudência desta Corte admite a sucessão processual de sociedade empresária por seus sócios em caso de perda de sua personalidade jurídica, situação equiparada à morte da pessoa física.
+3. A sucessão processual de sociedade empresária por seus sócios requer a existência de prova da dissolução e da extinção da personalidade jurídica.
+4. Agravo conhecido. Recurso especial provido.
+RELATÓRIO
+Cuida-se de agravo em recurso especial interposto por RSSC SHOPPING CENTERS S.A. contra a decisão que inadmitiu o recurso especial.
+O apelo nobre, fundamentado no art. 105, III, "a" e "c", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado do Rio de Janeiro assim ementado:
+"AGRAVO INTERNO. Agravo de Instrumento. Execução de título extrajudicial. Insurge-se o recorrente em face da decisão que indeferiu o pedido de sucessão processual, aduzindo a possibilidade de aplicação analógica do art. 110 do CPC à pessoa jurídica, que discorre acerca da sucessão processual por morte. Descabimento do pleito recursal por ausência de amparo legal. A Lei processual previu instrumento próprio e excepcional para atingimento dos bens que compõem o patrimônio dos sócios da empresa executada, sendo a desconsideração da personalidade jurídica o meio processual cabível. Novo Código de Processo Civil que estabeleceu procedimento específico para o processamento da desconsideração da personalidade jurídica, na forma de incidente processual (arts. 133 a 137). Decisão monocrática mantida. RECURSO IMPROVIDO." (e-STJ fl. 38)
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 52/56).
+O Superior Tribunal de Justiça deu provimento ao recurso especial para que o Tribunal de origem suprisse a omissão quanto à equiparação da morte natural prevista no art. 110 do Código de Processo Civil às pessoas jurídicas (e-STJ, fl. 93)
+A Corte local sanou a omissão, contudo, sem conferir efeitos modificativos ao julgado (e-STJ fls. 115/119).
+Nas razões do recurso especial (e-STJ fls. 121/128), a recorrente aponta, além de divergência jurisprudencial, violação aos seguintes dispositivos legais com as respectivas teses:
+i) art. 110 do Código Civil - ao argumento de que se aplica por analogia a disposição da morte natural para a extinção irregular da personalidade jurídica;
+ii) art. 50 do Código Civil - aduz que a via adequada não é a desconsideração da personalidade jurídica, porque não é o caso de desvio de finalidade ou confusão patrimonial;
+iii) art. 1.080 do Código Civil - alega que não é só por meio da desconsideração da personalidade jurídica que se atinge os bens do patrimônio pessoal dos sócios;
+iv) art. 485, IV, do Código de Processo Civil - sustenta que a ausência de sucessão processual acarreta a ausência dos pressupostos de constituição e desenvolvimento válido e regular do processo, e
+v) art. 489, §1º, VI, do Código de Processo Civil - ao argumento de que a Corte local não segue precedentes do Superior Tribunal de Justiça.
+Sem contrarrazões, o recurso especial foi inadmitido (e-STJ fls. 154/162) dando ensejo à interposição do presente agravo.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSUAL CIVIL. SUCESSÃO PROCESSUAL. DISSOLUÇÃO REGULAR. PESSOA JURÍDICA. EQUIPARAÇÃO. MORTE. PESSOA NATURAL.
+1. A controvérsia dos autos resume-se em definir se, na hipótese, era possível determinar a sucessão processual da pessoa jurídica.
+2. A jurisprudência desta Corte admite a sucessão processual de sociedade empresária por seus sócios em caso de perda de sua personalidade jurídica, situação equiparada à morte da pessoa física.
+3. A sucessão processual de sociedade empresária por seus sócios requer a existência de prova da dissolução e da extinção da personalidade jurídica.
+4. Agravo conhecido. Recurso especial provido.
+VOTO
+U ltrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação merece prosperar.
+É preciso registrar, de início, que nos termos da jurisprudência desta Corte é possível que se determine a sucessão processual da sociedade empresária por seus sócios no caso de perda de sua personalidade jurídica.
+Confiram-se os seguintes precedentes:
+"RECURSO ESPECIAL. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA PROFERIDA CONTRA SOCIEDADE LIMITADA. 1. DISTRATO DA PESSOA JURÍDICA. EQUIPARAÇÃO À MORTE DA PESSOA NATURAL. SUCESSÃO DOS SÓCIOS. INTELIGÊNCIA DO ART. 43 DO CPC/1973. TEMPERAMENTOS CONFORME TIPO SOCIETÁRIO. 2. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. FORMA INADEQUADA. PROCEDIMENTO DE HABILITAÇÃO. INOBSERVÂNCIA. 3. RECURSO ESPECIAL PROVIDO.
+1. Debate-se a sucessão material e processual de parte, viabilizada por meio da desconsideração da pessoa jurídica, para responsabilizar os sócios e seu patrimônio pessoal por débito remanescente de titularidade de sociedade extinta pelo distrato.
+2. A extinção da pessoa jurídica se equipara à morte da pessoa natural, prevista no art. 43 do CPC/1973 (art. 110 do CPC/2015), atraindo a sucessão material e processual com os temperamentos próprios do tipo societário e da gradação da responsabilidade pessoal dos sócios.
+3. Em sociedades de responsabilidade limitada, após integralizado o capital social, os sócios não respondem com seu patrimônio pessoal pelas dívidas titularizadas pela sociedade, de modo que o deferimento da sucessão dependerá intrinsecamente da demonstração de existência de patrimônio líquido positivo e de sua efetiva distribuição entre seus sócios. 4. A demonstração da existência de fundamento jurídico para a sucessão da empresa extinta pelos seus sócios poderá ser objeto de controvérsia a ser apurada no procedimento de habilitação (art. 1.055 do CPC/1973 e 687 do CPC/2015), aplicável por analogia à extinção de empresas no curso de processo judicial.
+5. A desconsideração da personalidade jurídica não é, portanto, via cabível para promover a inclusão dos sócios em demanda judicial, da qual a sociedade era parte legítima, sendo medida excepcional para os casos em que verificada a utilização abusiva da pessoa jurídica.
+6. Recurso especial provido."
+(REsp nº 1.784.032/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 2/4/2019, DJe de 4/4/2019)
+"RECURSO ESPECIAL. AÇÃO MONITÓRIA. EXECUÇÃO. SOCIEDADE LIMITADA DEVEDORA. DISSOLUÇÃO VOLUNTÁRIA DA PESSOA JURÍDICA. EQUIPARAÇÃO À MORTE DA PESSOA NATURAL. SUCESSÃO PROCESSUAL DOS SÓCIOS. POSSIBILIDADE. INTELIGÊNCIA DO ART. 110 DO CPC/15. EFEITOS SUBJETIVOS E OBJETIVOS DIVERSOS DE ACORDO COM O TIPO SOCIETÁRIO. PROCEDIMENTO DE HABILITAÇÃO. ARTS. 689 A 692 DO CPC/15.
+1. Ação ajuizada em 11/9/2018. Recurso especial interposto em 27/4/2023 . Autos conclusos à Relatora em 22/6/2023.
+2. O propósito recursal consiste em definir se é possível que se determine a sucessão processual da sociedade recorrida pelos respectivos sócios em razão da extinção da pessoa jurídica.
+3. A extinção da pessoa jurídica, por se equiparar à morte da pessoa natural, autoriza a sucessão processual prevista no art. 110 do CPC /15. Precedentes.
+4. A natureza da responsabilidade dos sócios (limitada ou ilimitada) determina a extensão dos efeitos, subjetivos e objetivos, a que estarão submetidos os sucessores. Precedente. 5
+. Tratando-se de sociedades limitadas, os sócios não respondem com seu patrimônio pessoal pelas dívidas titularizadas por aquelas após a integralização do capital social. A sucessão processual, portanto, dependerá da demonstração de existência de patrimônio líquido positivo e de sua efetiva distribuição entre os sócios. Precedente.
+6. À sucessão decorrente da extinção de pessoas jurídicas aplica-se, por analogia, o procedimento de habilitação previsto nos arts. 689 a 692 do CPC /15. Precedente.
+7. Recurso especial provido". (REsp nº 2.082.254/GO, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 12/9/2023, DJe de 15/9/2023 - grifou-se)
+A sucessão é possível porque, com a dissolução, a sociedade empresária perde sua personalidade jurídica, surgindo a legitimação dos ex-sócios para figurarem na ação.
+Cumpre assinalar que a sucessão processual não se confunde com o instituto da desconsideração da personalidade jurídica, pois a primeira tem lugar no caso de dissolução da pessoa jurídica, enquanto a segunda ocorre quando comprovado o abuso da personalidade jurídica.
+Na hipótese, conforme se verifica das razões do recurso especial, a recorrente sustenta que foram frustradas as tentativas de localização de bens da executada, tendo sido constatada a sua dissolução irregular, daí a necessidade de sucessão processual.
+Vale lembrar que a dissolução é a forma de extinção da personalidade jurídica da sociedade, adquirida com o registro. As hipóteses de dissolução estão previstas no artigo 1.033 do Código Civil, ocorrendo com o decurso do prazo de duração, o distrato unânime ou a deliberação da maioria dos sócios nas sociedades por tempo indeterminado, com a extinção da autorização para funcionar ou por outras causas previstas no contrato social e por determinação judicial a requerimento dos sócios.
+O encerramento se dará com a averbação da dissolução na Junta Comercial, nos termos do artigo 51, §1º, do Código Civil. Terminada a liquidação, será então promovido o cancelamento da inscrição da pessoa jurídica.
+Explica Fábio Ulhoa Coelho:
+"(..)
+Termina a personificação da pessoa jurídica com o cancelamento de sua inscrição no registro próprio. Tal cancelamento só pode ser efetivado pelo Registro Civil das Pessoas Jurídicas ou pela Junta Comercial, após o encerramento da liquidação da pessoa jurídica. A liquidação, por sua vez, é necessária quando a pessoa jurídica é dissolvida por deliberação da maioria de seus membros, observadas as regras estatutárias ou contratuais. A ordem sequencial dos atos dissolutórios das pessoas jurídicas em geral, portanto, é: dissolução, liquidação e cancelamento do registro." (Curso de direito civil  livro eletrônico : parte geral, volume 1. São Paulo: Editora Revista dos Tribunais, 2016)
+Nesse contexto, o encerramento regular da pessoa jurídica pressupõe ter sido liquidado seu patrimônio, com a distribuição de eventual saldo entre os sócios, valores esses que poderão responder pela dívida da pessoa jurídica extinta.
+Vale transcrever trecho do voto condutor do REsp nº 1.784.032/SP:
+"(..)
+Noutros termos, apenas na hipótese em que a sociedade liquidada tenha resultado em patrimônio líquido positivo, com sua liquidação e efetiva distribuição entre os sócios, seria possível a sucessão da empresa. De fato, ao serem desvinculadas da pessoa, as obrigações têm sua garantia geral de adimplemento no patrimônio pessoal do devedor, de forma que o patrimônio de terceiros somente poderá ser alcançado em casos legal ou contratualmente previstos. Portanto, mesmo no caso de extinção da pessoa, seja ela natural ou jurídica, é o patrimônio remanescente que deverá suportar o cumprimento das obrigações existentes à data da abertura da sucessão, in casu, da extinção da sociedade. Assim, a sucessão processual de empresa dissolvida somente será cabível contra os sócios ilimitadamente responsáveis ou, quando não houverem, contra os demais sócios, porém, limitadamente ao ativo por eles partilhados em razão da liquidação societária. Essa apuração deverá ser efetivada por meio do procedimento de habilitação (DINAMARCO, Cândido Rangel. Instituições de direito privado. 6ª ed. rev. atual. São Paulo: Malheiros, 2009, v. 2, p. 282), procedimento este previsto nos arts. 1.055 e seguintes do Código de Processo Civil então vigente (atualmente, disciplinado nos arts. 687 a 692), no qual se exige a citação dos requeridos e a oportunidade de dilação probatória antes da decisão de deferimento da sucessão."
+Assim, a instauração do procedimento de habilitação dos sócios para o posterior deferimento da sucessão processual depende de prova de que a sociedade empresária foi dissolvida, com a extinção de sua personalidade jurídica. Sem a prova da "morte", não é possível deferir a sucessão.
+Dispõe o artigo 687 do Código de Processo Civil: "A habilitação ocorre quando, por falecimento de qualquer das partes, os interessados houverem de suceder-lhe no processo."
+Nessa situação, os sócios serão citados e será apurada a existência de saldo resultante da liquidação da pessoa jurídica.
+É oportuno mencionar que a dissolução irregular da pessoa jurídica pode ensejar a responsabilização dos sócios, mas em razão de infração à lei, conforme ocorre no âmbito tributário (Tema 981):
+"O redirecionamento da execução fiscal, quando fundado na dissolução irregular da pessoa jurídica executada ou na presunção de sua ocorrência, pode ser autorizado contra o sócio ou o terceiro não sócio, com poderes de administração na data em que configurada ou presumida a dissolução irregular, ainda que não tenha exercido poderes de gerência quando ocorrido o fato gerador do tributo não adimplido, conforme art. 135, III, do CTN."
+Assim, também, quando demonstrado o intuito de fraudar credores, quando se alcançará o patrimônio dos sócios com a desconsideração da personalidade jurídica.
+No caso em tela, o acórdão não observou os precedentes do Superior Tribunal de Justiça quanto à possibilidade de aplicação analógica do art. 110 do Código de Processo Civil à hipótese de "morte" da pessoa jurídica (dissolução irregular).
+Ante o exposto, dou provimento ao recurso interposto e determino a devolução dos autos ao Tribunal de origem para que realize novo julgamento observando a aplicação analógica do art. 110 do Código Civil à hipótese de "morte" da pessoa jurídica, decorrente de sua dissolução irregular, bem como proceda à análise detida das provas constantes dos autos acerca da referida dissolução.
+É o voto.
