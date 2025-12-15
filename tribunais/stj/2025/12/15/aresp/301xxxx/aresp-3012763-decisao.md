@@ -1,0 +1,29 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por VALE OESTE FOMENTO COMERCIAL LTDA. contra decisão que inadmitiu recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 30/7/2025.
+Concluso ao gabinete em: 25/9/2025.
+Ação: embargos à execução, ajuizada por TATIANE SARTORI, MARCIEL AUGUSTO BARATO, BRUNA THAIS BARATO e BRUNA BARATO MÓVEIS LTDA., em face da agravante, na qual requer a extinção da execução por inexigibilidade das notas promissórias vinculadas a contrato de fomento mercantil.
+Sentença: julgou procedentes os pedidos, para: i) extinguir a ação de execução de título extrajudicial.
+Acórdão: negou provimento ao recurso de apelação interposto por VALE OESTE FOMENTO COMERCIAL LTDA., nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. NOTAS PROMISSÓRIAS. SENTENÇA DE EXTINÇÃO. IRRESIGNAÇÃO DA EXEQUENTE/EMBARGADA. PROPALADA LEGITIMIDADE DAS EMBARGANTES. EXECUÇÃO AMPARADA EM NOTAS PROMISSÓRIAS DECORRENTES DE NOVAÇÃO DE DÉBITOS ATRELADOS A CONTRATO DE FOMENTO MERCANTIL. IMPOSSIBILIDADE DE RECOMPRA. RESPONSABILIDADE DA EMPRESA DE FACTORING PELOS TÍTULOS QUE ADQUIREM. ADEMAIS, ALEGAÇÃO DE SIMULAÇÃO NA EMISSÃO DAS DUPLICATAS QUE DERAM ORIGEM AO CRÉDITO NÃO DEVIDAMENTE COMPROVADA. SENTENÇA MANTIDA. HONORÁRIOS RECURSAIS. ART. 85, §§ 1º E 11, DO CPC/15. MAJORAÇÃO DEVIDA. CRITÉRIOS CUMULATIVOS PREENCHIDOS (STJ, EDCL NO AGINT NO RESP 1.573.573/RJ). RECURSO CONHECIDO E NÃO PROVIDO. (e-STJ fl. 1158)
+Embargos de Declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 389, 394, 395, do CPC. Afirma que o acórdão desconsidera confissão escrita dos agravados acerca do vício de origem dos títulos cedidos. Aduz que a confissão extrajudicial escrita possui eficácia plena e foi indevidamente afastada. Argumenta que a confissão é indivisível e não pode ser admitida apenas no que beneficia os requerentes. Assevera que a decisão não enfrenta de modo suficiente a confissão expressa e seus efeitos na higidez do título executado.
+RELATADO O PROCESSO, DECIDE-SE.
+- Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+Verifica-se dos autos que o TJ/SC, após análise do acervo fático-probatório, concluiu que:
+Alega a apelante que "quando da impugnação aos embargos a Apelante juntou Instrumento Particular de Transação, Confissão e Novação de Dívida, onde as Apeladas CONFESSAM o vício de origem dos títulos, o que autoriza a execução na forma como realizada, que, aliás, decorreu de acordo entre as partes. Está no Ev. 36, Documentação 7", bem como pontua que os apelados não contestaram a validade do instrumento.
+Porém, diversamente do afirmado, houve sim impugnação ao pacto, conforme se extrai da réplica: "a cláusula de recompra das cártulas (maquiada pela confissão de dívida acoplada pela adversa) é abusiva e nula em razão do risco assumido pela empresa de factoring, a qual é beneficiada pelo deságio no momento da compra dos títulos, o que impõe, em qualquer hipótese, a demonstração de vício dos títulos emitidos pela faturizada a fim de viabilizar qualquer discussão".
+In casu, conforme referido, omitiu-se elemento de prova essencial com a exordial da lide executiva, sobretudo porque foi colacionado apenas na impugnação aos embargos à execução o propalado "Instrumento particular de transação, confissão e novação de dívida", o qual, frisa-se, não é objeto da execução, assim dispondo:
+(..) Como se infere da jurisprudência no Superior Tribunal de Justiça colacionada no acórdão embargado (Evento 13), a possibilidade de cobrança da faturizadora é uma completa exceção à regra, que só se perfaz viável quando incontestavelmente verificada a fraude pela emissão de duplicata fria, o que, no caso concreto, repita-se, não foi comprovado nem pelas conversas de WhatsApp tampouco pela suposta confissão da fraude contida na vaga expressão "por motivo de vício de origem" no aludido "Instrumento particular de transação, confissão e novação de dívida".
+(..) Nesse cenário, havendo controvérsia acerca da genérica afirmação de vício de origem nos títulos cedidos, deveria a parte exequente comprová-la documentalmente por tentativa de cobrança dos supostos devedores, por protesto, ou então informá-los por e-mail acerca da cessão dos créditos pela faturizada, de modo a perquirir a relação jurídica havida e o vício de origem da duplicada relacionada, o que não ocorreu, a obstar igualmente o pleito executivo, sob pena de se autorizar verdadeira disposição de recompra, o que é vedado nas relações de fomento mercantil. (e-STJ Fls. 3675-3676)
+Rever as conclusões do acórdão recorrido, exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+Desse modo, não é possível que sejam revisitados fatos ou que seja conferida nova interpretação de cláusula contratual, uma vez que são matérias ligadas à demanda e alheias à função desta Corte Superior que é a uniformização da interpretação da legislação federal.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 5% os honorários fixados anteriormente.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. REEXAME DE FATOS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE.
+1. Embargos à execução.
+2. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+3. Agravo conhecido. Recurso especial não conhecido.
