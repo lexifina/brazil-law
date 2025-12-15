@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/12/2025 a 15/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. PROVIMENTO NEGADO.
+1. Não há ofensa aos arts. 489 e 1.022 do Código de Processo Civil (CPC) quando o acórdão recorrido se manifesta de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia, exaurindo de forma satisfatória a controvérsia deduzida, ainda que não haja citação literal de todas as teses defensivas ou dos dispositivos de lei constantes das razões recursais.
+2. Extrai-se do art. 105, inciso III, da Constituição Federal que a missão do Superior Tribunal de Justiça (STJ) é a de uniformizar a interpretação da legislação federal. No cumprimento de seu papel, não lhe é permitida a formação de novo juízo sobre fatos e provas dos autos. Incidência da Súmula 7 deste Tribunal.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por GERDAU S/A da decisão em que não reconheci a ocorrência de negativa de prestação jurisdicional e, no mérito, neguei conhecimento ao recurso especial por aplicação da Súmula 7 do STJ (fls. 471/490).
+A parte agravante reitera a existência de vício de fundamentação e requer manifestação quanto ao ônus da prova de destinação do valor não aproveitado e ao expresso reconhecimento pelo Fisco de que não ocorreu o aproveitamento, no Programa de Recuperação Fiscal (REFIS), dos valores objeto do pedido de repetição de indébito. Sustenta, ainda, que o extrato do Parcelamento Especial (PAES) não foi adequadamente considerado.
+Afirma, por fim, que a reforma do acórdão recorrido não depende da revisão de fatos e provas presentes nos autos.
+Requer a reconsideração da decisão agravada ou a apreciação do recurso pelo órgão colegiado competente.
+A parte adversa não apresentou impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. PROVIMENTO NEGADO.
+1. Não há ofensa aos arts. 489 e 1.022 do Código de Processo Civil (CPC) quando o acórdão recorrido se manifesta de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia, exaurindo de forma satisfatória a controvérsia deduzida, ainda que não haja citação literal de todas as teses defensivas ou dos dispositivos de lei constantes das razões recursais.
+2. Extrai-se do art. 105, inciso III, da Constituição Federal que a missão do Superior Tribunal de Justiça (STJ) é a de uniformizar a interpretação da legislação federal. No cumprimento de seu papel, não lhe é permitida a formação de novo juízo sobre fatos e provas dos autos. Incidência da Súmula 7 deste Tribunal.
+2. Agravo interno a que se nega provimento.
+VOTO
+Não prospera a alegação de ofensa aos arts. 489 e 1.022 do Código de Processo Civil porque, da leitura do acórdão recorrido, vê-se que a prestação jurisdicional foi dada na medida da pretensão apresentada. O TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO resolveu a controvérsia de forma fundamentada, não havendo que se falar em omissão, contradição, obscuridade ou erro material.
+Embora a parte agravante trate como incontroversa a premissa de que teria havido o reconhecimento, pela Fazenda, de não aproveitamento de valores, a Corte Regional afirma exatamente o contrário, in verbis:
+Ou seja: não houve "expresso reconhecimento do fisco quanto ao não aproveitamento dos valores no parcelamento Refis". Não só em razão da literalidade declaração da autoridade fiscal (autos originários, evento 1, out9, gn), como também em razão do reconhecimento da prescrição em sede administrativa, o que, por decorrência lógica, impediu, na ocasião, a análise do mérito, de modo que o direito à restituição do indébito não foi objeto de decisão administrativa definitiva.
+Ademais, ressalta das fls. 299/301 a análise pormenorizada dos documentos constantes dos autos e a fundamentação suficiente às conclusões alcançadas, o que, diante das razões recursais, deixa evidente a tentativa da parte embargante de rediscutir a justiça da decisão pela via dos aclaratórios. Transcrevo:
+ ..
+1)) primeira premissa (estorno como prova do pagamento indevido) Antes de tudo, há de definir o termo "estorno", o qual, em estreita síntese, equivale - juridicamente - a rescisão ou anulação, enquanto que - contabilmente - equivale a lançamento inverso ao anterior.
+Infere-se que o apelante utiliza o termo "estorno" no sentido jurídico, para provar a anulação do aproveitamento do valor que pagou para amortizar a dívida parcelada no âmbito do Refis.
+Entretanto, o documento por meio do qual o apelante comprova o "estorno" (extrato da conta Refis - autos originários, evento 1, out6) é de natureza contábil. Nele se verifica que, para alcançar saldo zero em 2007, vários ajustes contábeis foram feitos.
+Houve lançamentos a débito e a crédito, parte deles referentes a estornos - e apenas dois deles vinculados a amortizações efetivadas em decorrentes do pagamento realizado em no valor07/08/2003 31/07/2003 total de R$1.483.982,97.
+Embora o último pagamento realizado no âmbito do Refis tenha sido precisamente o realizado em no valor total de R$1.483.982,97, o31/07/2003 extrato da conta Refis demonstra que, após essa data, houve lançamentos a débito em 2003 e 2004 (evento 1, out5, p.7-9, dos autos originários).
+Somente em 2007 sobreveio o encerramento da conta Refis, mediante outros lançamentos a débito (incluídos os estornos a que o apelante se refere) e também mediante lançamentos a crédito.
+O apelante não menciona os demais lançamentos a crédito e a débito existentes no documento com base no qual apoia a tese de pagamento indevido. Não é razoável que o apelante queira se valer apenas de parte das informações nele contidas.
+Vê-se, portanto, que a existência dos estornos questionados pelo ora apelante não constitui - por si só - prova de que houve o pagamento indevido.
+Para tanto, seria necessária a análise conjunta dos lançamentos contábeis realizados para fins de encerramento da conta Refis, de modo a dirimir a controvérsia objeto dos autos. Ou então seria preciso o cotejo entre o que foi pago e o que era devido no âmbito dos parcelamentos fiscais. O que não ocorreu.
+Na verdade, o apelante deu por provado o que lhe caberia demonstrar. Tais elementos de prova foram devidamente sopesados na fundamentação da sentença recorrida: "em 2007, houve o estorno de sucessivos montantes da conta Refis e sua posterior rescisão, consoante extrato acostado à f. 52. Ao que parece, tais valores foram alocados no segundo parcelamento realizado pela autora, o Paes, sob as regras contidas na Lei nº 10.684/2003. Pelos documentos de fs. 53/58, não é possível extrair, com exatidão, que os valores estornados não foram devidamente aproveitados à contribuinte, que também encerrou o pagamento do segundo parcelamento" (autos originários, ev.25).
+2) demais premissas (revelia e extrato da dívida relativa ao Paes Levando em conta que, diante dos demais elementos de prova coligidos, a existência dos estornos questionados pelo ora apelante não constitui - por si só - prova de que houve o pagamento indevido, forçoso concluir que: (1) a falta de impugnação específica da parte adversa não acarreta a presunção de veracidade dos fatos alegados pelo autor e (2) o fato de não constar no extrato da dívida relativa ao Paes o valor de R$1.483.982,97 não comprova o direito à restituição dessa quantia.
+Vê-se que o magistrado sentenciante concluiu corretamente, que "com
+base na prova documental produzida neste feito, não se pode afirmar, de forma categórica, que o valor estornado deixou de ser devidamente aproveitado em favor da contribuinte para o pagamento de parcelamento fiscal". Tampouco "se pode considerar incontroversa a alegação de falta de aproveitamento do montante em tela, em virtude do reconhecimento da prescrição tributária pela autoridade fiscal" e, acrescento, em virtude da falta
+de impugnação específica ao alegado direito de repetição do indébito.
+ ..
+Destaco que o contraponto aos argumentos das partes não demanda citação literal de suas palavras ou dos mesmos dispositivos legais (ou de todos). É suficiente que haja fundamentação fática e jurídica coerente e adstrita ao debate dos autos, não fazendo sentido, assim, que se exija a pormenorização de cada tese jurídica ou precedente trazido à baila, à guisa de quesitos, como se laudo pericial fosse.
+Finalmente, não há como considerar que a alteração de entendimento a respeito da prova delineada no acórdão não demandaria regresso aos próprios documentos ali descritos, se o que pretende a parte recorrente é justamente que seja conferida interpretação diversa a tais documentos.
+Da análise do art. 105, inciso III, da Constituição Federal, conclui-se que a missão do Superior Tribunal de Justiça é a de uniformizar a interpretação da legislação federal.
+No cumprimento de seu papel, não é devido a este Tribunal o reexame do contexto fático-probatório dos autos porque tal providência daria ensejo à formação de novo juízo acerca de fatos e provas, atribuição exclusiva das autoridades judiciais de primeira e segunda instâncias.
+Está correta a decisão que não conheceu do recurso com fundamento na Súmula 7 do STJ.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
