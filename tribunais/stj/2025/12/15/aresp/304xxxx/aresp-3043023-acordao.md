@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/12/2025 a 15/12/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Daniela Teixeira, Nancy Andrighi, Humberto Martins e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. DIFICULDADE DE ACESSO À AGÊNCIA BANCÁRIA. USO OBRIGATÓRIO DA PORTA GIRATÓRIA. AUSÊNCIA DE ATO ILÍCITO. REANÁLISE DE PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. DANO MORAL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL E INCOMPREENSÃO DA CONTROVÉRSIA. SÚMULA Nº 284 DO STF, POR ANALOGIA. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Rever as conclusões quanto a ausência de ato ilícito demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula n. 7 do STJ.
+2. A ausência de expressa indicação de artigos de lei violados inviabiliza o conhecimento do recurso especial, não bastando a mera menção a dispositivos legais ou a narrativa acerca da legislação federal, aplicando-se o disposto na Súmula n.º 284 do STF.
+3. Agravo conhecido para não conhecer do recurso especial.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por ISAURA PEREIRA LEITE (ISAURA ) contra decisão que não admitiu seu apelo nobre manejado, por sua vez, com fundamento no art. 105, III, alíneas a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, de relatoria do Desembargador JOSÉ PAULO CAMARGO MAGANO, assim ementado:
+BANCÁRIO. INDENIZATÓRIA. DIFICULDADE DE ACESSO À AGÊNCIA BANCÁRIA. USO OBRIGATÓRIO DA PORTA GIRATÓRIA COM DETECTOR DE METAIS. Sentença de improcedência. Irresignação da demandante. PRELIMINARES. NULIDADE DA SENTENÇA POR CERCEAMENTO DE DEFESA. Não acolhimento. Os fatos narrados são suficientes para a apreciação dos pedidos, sendo desnecessária a produção da prova testemunhal, visto que o magistrado considerou como verdadeiras as alegações da autora. MÉRITO. DANO MORAL. Pretensão à indenização por danos morais. Descabimento. O uso obrigatório da porta giratória pela demandante, que se locomovia com o auxílio de andador, não configura ato ilícito. Regularidade do procedimento de segurança pela agência bancária. Situação que retrata mero dissabor inerente à vida moderna e necessária à maior segurança das agências. Precedentes jurisprudenciais. Aplicação do art. 252 do RITJSP. Apelação desprovida. (e-STJ, fl. 164).
+Foi apresentada contraminuta. (e-STJ, fls. 216-220).
+É o relatório.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. DIFICULDADE DE ACESSO À AGÊNCIA BANCÁRIA. USO OBRIGATÓRIO DA PORTA GIRATÓRIA. AUSÊNCIA DE ATO ILÍCITO. REANÁLISE DE PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. DANO MORAL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL E INCOMPREENSÃO DA CONTROVÉRSIA. SÚMULA Nº 284 DO STF, POR ANALOGIA. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Rever as conclusões quanto a ausência de ato ilícito demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula n. 7 do STJ.
+2. A ausência de expressa indicação de artigos de lei violados inviabiliza o conhecimento do recurso especial, não bastando a mera menção a dispositivos legais ou a narrativa acerca da legislação federal, aplicando-se o disposto na Súmula n.º 284 do STF.
+3. Agravo conhecido para não conhecer do recurso especial.
+VOTO
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre interposto com base no art. 105, III, alínea a, da CF, ISAURA alegou, além do dissídio jurisprudencial, a violação dos arts. 3º, I, IV, 8º, 53 e 55 da Lei n. 13.146/2015, ao sustentar que (1) a dificuldade imposta a ISAURA para acessar a agência bancária, somada o tratamento desrespeitoso, ultrapassa a esfera do mero aborrecimento cotidiano, configurando uma violação aos seus direitos fundamentais à acessibilidade, à dignidade e à não discriminação, assegurados pela legislação federal; e (2) que restou configurado o dissídio jurisprudencial em relação a ocorrência de dano moral em virtude da negativa de acesso a agência bancária por pessoa com deficiência.
+(1) Da violação ao estatuto da pessoa com deficiência.
+O TJSP, fundado nos elementos constantes dos autos, concluiu que não há violação de direitos da personalidade na circunstância de dificuldades de entrar na agência bancária, nos termos da fundamentação abaixo:
+As razões recursais não são capazes de infirmar a r. sentença proferida pelo MM. Juiz de Direito, Dr. Waldemar Nicolau Filho, cujos fundamentos, a seguir transcritos, adoto como razão de decidir, na forma do art. 252 do Regimento Interno deste Tribunal de Justiça (nos recursos em geral, o relator poderá limitar-se a ratificar os fundamentos da decisão recorrida, quando, suficientemente fundamentada, houver de mantê-la):
+ ..
+Dessa forma, não há violação de direitos da personalidade na circunstância de dificuldades de ingresso na agência bancária. Constatada situação a deflagrar o funcionamento do detector de metais, o procedimento bancário foi regular - assim como ocorre em aeroportos, em que a segurança de todos é perseguida -, causando, por vezes, situações peculiares que podem dar margem a contratempos, mas sem gerar dever de indenizar, porquanto não praticado ato ilícito pelo requerido. (..)" (grifo nosso).  ..
+Ainda, cabe ressaltar que, em casos análogos, este Tribunal tem entendido que situações como a presente caracterizam mero dissabor, não se vislumbrando abalo psíquico de grande relevância ou violação aos direitos de personalidade.(e-STJ, fls. 164/166)
+Nos embargos de declaração, o Tribunal declarou que:
+Conforme consignado, o procedimento de segurança adotado pela agência bancária não configura ato ilícito, não havendo que se falar em indenização por danos morais, considerando, ainda, o mero dissabor que a situação narrada retrata. (e-STJ, fl. 189)
+Ademais, rever as conclusões quanto a ausência de ato ilícito decorrente da dificuldade de ingresso na agência bancária, demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula n. 7 do STJ.
+A propósito, confira-se o seguinte julgado:
+CIVIL E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL MANEJADO SOB A ÉGIDE DO CPC/73. AÇÃO DE INDENIZAÇÃO. AUSÊNCIA DOS VÍCIOS ELENCADOS NO ART. 535 DO CPC/73. ALEGAÇÃO DE OFENSA AO ART.139, II, DO CC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211 DO STJ. "SEQUESTRO RELÂMPAGO". SAQUE DE VALORES. DANOS MATERIAIS E MORAIS. FATO OCORRIDO NA VIA PÚBLICA. FALHA NA PRESTAÇÃO DO SERVIÇO BANCÁRIO. INEXISTÊNCIA. NÃO COMPROVAÇÃO DO NEXO CAUSAL. MODIFICAÇÃO. MATÉRIA FÁTICA. SÚMULA Nº 7 DO STJ. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. As disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são inaplicáveis ao caso concreto ante os termos do Enunciado nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+2. Não há violação do disposto no art. 535 do CPC/73 quando o aresto recorrido adota fundamentação suficiente para dirimir a controvérsia, sendo desnecessária a manifestação expressa sobre todos os argumentos apresentados 3. Inviável o recurso especial quando ausente o prequestionamento, nem sequer implícito, dos dispositivos da legislação federal apontados como violados, conforme o disposto na Súmula nº 211 do STJ.
+4. O Tribunal local, amparado no conjunto fático-probatório dos autos, entendeu que não houve falha na prestação do serviço bancário, nem comprovação do nexo causal, uma vez que a recorrente foi vítima do chamado "seqüestro relâmpago" quando se encontrava em via pública, sendo obrigada a entregar o cartão bancário e a respectiva senha aos delinquentes, que efetuaram vários saques em sua conta-corrente. Reformar tal entendimento atrairia a incidência da Súmula nº 7 desta Corte. Precedentes.
+5. Agravo regimental não provido.
+(AgRg no REsp n. 1.557.694/TO, de minha relatoria, Terceira Turma, j. em 21/6/2016, DJe de 30/6/2016)
+(2) Do dissídio jurisprudencial.
+ISAURA alegou que restou configurado o dissídio jurisprudencial em relação a ocorrência de dano moral em virtude da negativa de acesso a agência bancária por pessoa com deficiência.
+Observa-se que nas razões do Recurso Especial não foi feita a indicação clara e precisa dos dispositivos de lei federal em torno dos quais haveria divergência jurisprudencial, fica evidenciada a deficiência na fundamentação do recurso, a atrair o óbice da Súmula nº 284 do STF: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Sobre o tema, seguem os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DANOS MORAIS. VALOR. DIVERGÊNCIA JURISPRUDENCIAL. DISPOSITIVO DE LEI FEDERAL. VIOLAÇÃO. FALTA DE INDICAÇÃO. SÚMULA Nº 284 DO SUPREMO TRIBUNAL FEDERAL.
+1. Recurso especial interposto contra acórdão p ublicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. É inadmissível o inconformismo por deficiência na fundamentação quando o recurso especial deixa de indicar qual dispositivo legal teria sido objeto de interpretação divergente. Aplicação da Súmula nº 284 do Supremo Tribunal Federal.
+3. Agravo interno não provido.
+(AgInt no AREsp 1.403.578/MS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 17/6/2019, DJe 26/6/2019 - sem destaque no original)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. OMISSÃO NÃO OCORRÊNCIA. DANO MORAL. INSCRIÇÃO INDEVIDA. VALOR. REVISÃO. DESCABIMENTO. AUSÊNCIA DE INDICAÇÃO NO RECURSO ESPECIAL DE DISPOSITIVO TIDO COMO VIOLADO. SÚMULA 284/STF. NÃO PROVIMENTO.
+ ..
+3. A falta de indicação de dispositivo de lei a respeito de cuja interpretação divergiu o acórdão recorrido implica deficiência na fundamentação do recurso especial, o que atrai a incidência da Súmula nº 284 do STF.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.257.244/RS, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, j. 12/3/2019, DJe 15/3/2019 - sem destaque no original)
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em desfavor da ISAURA, limitados a 20%, nos termos do art. 85, § 11, do CPC, devendo ser observada a concessão da justiça gratuita.
+É o voto.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação nos termos do art. 1.026, § 2º, do CPC.
