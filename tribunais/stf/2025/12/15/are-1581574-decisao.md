@@ -1,0 +1,63 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal Regional Federal da 1ª Região, ementado nos seguintes termos:
+
+    “PROCESSUAL CIVIL E CONSTITUCIONAL. AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO EM CUMPRIMENTO DE SENTENÇA. COMPETÊNCIA. ART. 516 DO CPC. EXECUÇÃO DE PROVIMENTO JUDICIAL PROFERIDO EM AÇÃO COLETIVA. STJ, RESP 1.243.887/PR. PREVENÇÃO DO JUÍZO PROLATOR DA SENTENÇA. NÃO APLICAÇÃO DO ART. 109, § 2º, DA CF. AGRAVO INTERNO DA UNIÃO PREJUDICADO. AGRAVO REGIMENTAL NÃO PROVIDO. 1. Nos termos do art. 516, II, do CPC, o cumprimento da sentença efetuar-se-á perante o juízo que decidiu a causa em primeiro grau de jurisdição, podendo o exequente optar pelo juízo do atual domicílio do executado, pelo juízo do local onde se encontrem os bens sujeitos à execução ou pelo juízo do local onde deva ser executada a obrigação de fazer ou de não fazer. 2. O Superior Tribunal de Justiça, no julgamento do REsp 1.243.887/PR, em regime de recurso repetitivo, firmou entendimento no sentido de que a execução individual de sentença proferida em ação coletiva pode ser ajuizada no foro do domicílio do beneficiário ou no juízo no qual foi proferida a sentença coletiva, não podendo haver eleição de foro diverso. 3. Na espécie, não se aplica o art. 109, § 2º, da Constituição Federal, que prevê que “as causas intentadas contra a União poderão ser aforadas na seção judiciária em que for domiciliado o autor, naquela onde houver ocorrido o ato ou fato que deu origem à demanda ou onde esteja situada a coisa, ou, ainda, no Distrito Federal”, tendo em vista que suas disposições estão claramente voltadas ao ajuizamento de ação de conhecimento, que, por sua vez, como regra geral, tornará prevento o juízo para o correspondente cumprimento de sentença. 4. Ademais, firmada a prevenção do Juízo da 19ª Vara Federal da Subseção Judiciária do Estado de São Paulo pelo ajuizamento da ação civil pública, não há que se falar em aplicação do art. 109, § 2º, da Constituição para permitir o ajuizamento das execuções individuais também no Distrito Federal, pois não incide, na hipótese, nenhuma das exceções vistas acima. 5. Com o julgamento do agravo de instrumento interposto pelo Município, resta prejudicado o agravo regimental do ente fazendário contra decisão que aprecia pedido suspensivo da eficácia da decisão objeto do agravo de instrumento. 6. Esta Oitava Turma, em sede de agravo de instrumento, por maioria, cujos acórdãos foram por mim lavrados, afastou a aplicação do art. 109, § 2º, da Constituição Federal e manteve a decisão proferida pelo Juízo a quo, que declinou da competência para processar e julgar as execuções individuais em ação coletiva para o juízo que proferiu a sentença. Precedentes. 7. Agravo regimental não provido” (eDOC 22 – ID: 117b911d, p. 1-2)
+
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 109, § 2º, do texto constitucional.
+
+    Nas razões recursais, sustenta-se a competência territorial do foro do Distrito Federal para as causas em que for parte a União.
+
+    Alega-se que, “[s]endo o juízo competente para a execução individual aquele que o seria para ingresso de ação condenatória ou para liquidação do julgado coletivo, há de se observar, na hipótese excepcional que envolve a União no polo passivo da contenda, as normas específicas que regem a competência nos feitos ajuizados contra o Ente Federal, em especial a literalidade do art. 51, parágrafo único do CPC” (eDOC 37 – ID: 202572dc, p. 5).
+
+    Argumenta-se que, “sendo ré a União Federal, a legislação federal e o Texto Constitucional autorizam SEMPRE o ajuizamento de demandas no Distrito Federal” e que “seguindo esta regra, e dentro da margem de opção que lhe faculta a legislação sobre processo coletivo (e também sobre fixação de competência quando ré a União Federal), ajuizou a agravante a execução individual no Distrito Federal” (eDOC 37 – ID: 202572dc, p. 9-10).
+
+    Requer-se, assim, que seja reconhecida a competência da Seção Judiciária do Distrito Federal para processamento e julgamento do cumprimento individual de sentença coletiva ajuizado pelo ora recorrente (eDOC 37 – ID: 202572dc, p. 11).
+
+    É o relatório.
+
+    Decido.
+
+    A irresignação não merece prosperar.
+
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (arts. 98, § 2º, I e 100, I, da Lei nº 8.078/1990) e o conjunto probatório constante dos autos, consignou que, a despeito de não se tratar de seu domicílio ou do órgão julgador na fase de conhecimento, o recorrente ajuizou a execução individual perante a Seção Judiciária do Distrito Federal, elegendo foro não previsto na legislação. Com base nisso, declinou da competência para o foro para o juízo que proferiu a sentença. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+
+    “A despeito dos argumentos expendidos no agravo regimental, tenho que a decisão agravada, vazada nos seguintes termos, não merece reparos. Confira-se:
+
+    Preliminarmente, conquanto a decisão declinatória não esteja incluída no rol constante dos incisos I a XIII do art. 1.015 do NCPC, as decisões interlocutórias proferidas no processo de execução, como neste caso, independentemente do objeto da deliberação, são agraváveis de instrumento, nos termos do parágrafo único do citado dispositivo.
+
+    O Superior Tribunal de Justiça, ao julgar o REsp nº 1.243.887/PR, em regime de recurso repetitivo, firmou entendimento no sentido de que a execução individual de sentença proferida em ação coletiva pode ser ajuizada no foro do domicílio do beneficiário ou no juízo no qual foi proferida a sentença coletiva. (...)
+
+    Dessa forma, para garantir o acesso à justiça e evitar o emperramento dos serviços judiciais com o acúmulo de processos em um único juízo, a execução individual pode ser ajuizada perante o juízo que julgou a ação coletiva em primeiro grau ou perante o domicílio do beneficiário, não podendo haver eleição de foro diverso.
+
+    Na espécie, a despeito de não se tratar de seu domicílio, o agravante ajuizou a execução individual perante a Seção Judiciária do Distrito Federal, elegendo foro não previsto na legislação.
+
+    Entendo que, no caso, não se aplica o art. 109, §2º, da Constituição Federal que prevê que “as causas intentadas contra a União poderão ser aforadas na seção judiciária em que for domiciliado o autor, naquela onde houver ocorrido o ato ou fato que deu origem à demanda ou onde esteja situada a coisa, ou, ainda, no Distrito Federal”, tendo em vista que suas disposições estão claramente voltadas ao ajuizamento de ação de conhecimento, que, por sua vez, como regra geral, tornará prevento o juízo para o correspondente cumprimento de sentença.
+
+    Assim, nos termos do art. 516, II, do CPC/2015, a regra é o ajuizamento da execução individual no juízo que julgou a ação coletiva, facultando-se ao jurisdicionado, para facilitar o acesso à justiça, por meio da interpretação sistemática dos arts. 101, I, e art. 98, § 2º, I, do CDC, o foro do seu próprio domicílio para o ajuizamento da liquidação/execução individual de sentença proferida na ação coletiva, conforme o colacionado precedente do Egrégio Superior Tribunal de Justiça.
+
+    A propósito, as exceções inseridas no parágrafo único do citado art. 516, como local de situação dos bens sujeitos à execução ou local do cumprimento da obrigação, embora não se apliquem ao caso concreto, servem para orientar a interpretação quanto à finalidade das exceções, qual seja a de propiciar uma maior efetividade da execução ou do cumprimento de sentença, e como exceções devem ser interpretadas restritivamente.
+
+    Dessa forma, firmada a prevenção do juízo da 19ª Vara Federal da 1ª Subseção Judiciária do Estado de São Paulo pelo ajuizamento da ação civil pública, não há que se falar em aplicação do art. 109, §2º, da Constituição Federal para permitir o ajuizamento das execuções individuais também no Distrito Federal, pois não incide, na hipótese, nenhuma das exceções vistas acima.
+
+    Nesse sentido é o entendimento desta Oitava Turma, que, em sede de agravo de instrumento, por maioria, cujos acórdãos foram por mim lavrados, afastou a aplicação do art. 109, § 2º, da Constituição Federal e manteve a decisão proferida pelo Juízo a quo, que declinou da competência para processar e julgar as execuções individuais em ação coletiva para o juízo que proferiu a sentença (AI 0073942-26.2016.4.01.3400/DF, e-DJF1 20/10/2018; AI 0073971- 91.2016.4.01.0000/DF, e-DJF1 17/05/2019)” (eDOC 22 – ID: 117b911d)
+
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, notadamente no que se refere à interpretação dos arts. 98, § 2º, I, e 100, I, da Lei nº 8.078/1990, Código de Defesa do Consumidor, que dispõem sobre a competência nas ações coletivas, que de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+
+    Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+
+    Confiram-se, a propósito, os seguintes precedentes:
+
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. INTERPOSIÇÃO EM 25.06.2018. EXECUÇÃO INDIVIDUAL. REAJUSTE DE 3,17%. ARTS. 97 E 98 DO CDC. LIQUIDAÇÃO DE SENTENÇA CONDENATÓRIA GENÉRICA. AUSÊNCIA PRÉVIA. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. TEMAS 339 E 660. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 279 DO STF. AUSÊNCIA DE IMPUGNAÇÃO DE UM DOS FUNDAMENTOS DA DECISÃO AGRAVADA. 1.021, § 1º, CPC, E 317, § 1º, DO RISTF. DESPROVIMENTO DO AGRAVO. 1. É ônus do recorrente impugnar de modo específico todos os fundamentos da decisão agravada, nos termos dos arts. 1.021, § 1º, CPC, e 317, § 1º, RISTF, o que não ocorreu no caso. 2. É inviável o processamento do apelo extremo quando seu exame implica rever a interpretação de norma infraconstitucional (Código de Defesa do Consumidor) que fundamentou a decisão a quo. A afronta à Constituição, se ocorrente, seria apenas reflexa. 3. Para divergir da conclusão adotada pelo tribunal a quo, seria necessário o reexame de fatos e provas. Óbice da Súmula 279 do STF. 4. No tocante à violação do dever constitucional de motivação das decisões, o art. 93, IX, da Constituição Federal, exige que o acórdão seja fundamentado, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. Precedente: AI-QO-RG 791.292, de relatoria do Ministro Gilmar Mendes, DJe 13.08.2010. Tema 339. 5. Não ostenta repercussão geral a alegação de ofensa ao devido processo legal, quando a aferição da violação pressuponha a revisão de legislação infraconstitucional. Precedente: RE 748.371-RG, de relatoria do Ministro Gilmar Mendes, DJe 1º.08.2013. Tema 660. 6. Agravo regimental a que se nega provimento, com aplicação de multa, nos termos do art. 1.021, §4º, do CPC” (ARE 1119660 AgR, Rel. Min. Edson Fachin, Segunda Turma, DJe 01.02.2019 – grifo nosso)
+
+    “DIREITO PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. JUIZADOS ESPECIAIS. COMPETÊNCIA. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/2015. ALEGAÇÃO DE OFENSA AO ART. 109, I, DA CONSTITUIÇÃO DA REPÚBLICA. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O RECURSO EXTRAORDINÁRIO. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/2015. 1. Obstada a análise da suposta afronta aos preceitos constitucionais invocados, porquanto dependeria de prévia análise da legislação infraconstitucional aplicada à espécie, procedimento que refoge à competência jurisdicional extraordinária desta Corte Suprema, a teor do art. 102 da Magna Carta. 2. As razões do agravo não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere à ausência de ofensa a preceito da Constituição da República. 3. Agravo interno conhecido e não provido” (ARE 1075589 AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe 30.10.2018 – grifo nosso)
+
+    Ante o exposto, nego seguimento ao recurso (artigo 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista a ausência de fixação de honorários pela origem, deixo de aplicar o disposto no §11 do art. 85 do CPC.
+
+    Publique-se.
+
+    Brasília, 15 de dezembro de 2025.
+
+Ministro GILMAR MENDES
+
+Relator
+
+Documento assinado digitalmente
