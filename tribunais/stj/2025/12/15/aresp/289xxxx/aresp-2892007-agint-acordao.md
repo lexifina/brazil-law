@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/12/2025 a 15/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Regina Helena Costa, Gurgel de Faria, Paulo Sérgio Domingues e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+SERVIDOR PÚBLICO E PROCESSUAL CIVIL. DECISÃO DE HOMOLOGAÇÃO DE CÁLCULOS. ATO DE NATUREZA INTERLOCUTÓRIA. RECURSO CABÍVEL. AGRAVO DE INSTRUMENTO. FUNGIBILIDADE. NÃO CABIMENTO. EXTINÇÃO DO FEITO EXECUTIVO. OCORRÊNCIA. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ. INCIDÊNCIA.
+1. Esta Corte Superior firmou a orientação de que, "no sistema regido pelo NCPC, o recurso cabível da decisão que acolhe impugnação ao cumprimento de sentença e extingue a execução é a apelação. As decisões que acolherem parcialmente a impugnação ou a ela negarem provimento, por não acarretarem a extinção da fase executiva em andamento, tem natureza jurídica de decisão interlocutória, sendo o agravo de instrumento o recurso adequado ao seu enfrentamento" (REsp n. 1.698.344/MG, Rel. Min. Luis Felipe Salomão, Quarta Turma, DJe de 1º/8/2018).
+2. A jurisprudência deste Pretório estabelece que "a decisão que homologa cálculos na fase de cumprimento da sentença, por sua natureza interlocutória, é impugnável por meio de agravo de instrumento. Precedentes: AgInt no AgRg no AREsp 768.149/SP, Rel. Min. Sergio Kukina, Primeira Turma, DJe 20/6/2017; AgInt no REsp 1.623.870/PB, Rel. Min. Herman Benjamin, Segunda Turma, DJe 13/3/2017; AgRg no AREsp 200.522/MG, Rel. Min. João Otávio de Noronha, Terceira Turma, DJe 11/5/2015" (AgInt no REsp n. 1.639.523/CE, Relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 13/10/2020, DJe de 15/10/2020).
+3. A alteração das premissas adotadas pelo Sodalício de origem, no que tange à ocorrência ou não da extinção do feito executivo, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula n. 7/STJ.
+4. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto por Aparecido Donizetti Estevão contra decisão que negou provimento ao agravo em recurso especial sob a incidência das Súmulas n. 7 e 83 do STJ.
+Inconformada, a parte agravante afirma o seguinte (fl. 330):
+Com efeito e uma vez mais com as devidas vênias, o provimento do recurso de Agravo de Instrumento para o fim de incursão no mérito do REsp não implicaria necessariamente que este c. STJ incursionasse no acervo fático probatório, pois, o v. acórdão recorrido de modo expresso estabeleceu a premissa sobre a qual apenas demandaria a interpretação jurídica de que o recurso cabível no caso concreto seria a Apelação.
+É que, conforme acima destacado, o e. TJSP ao não conhecer da apelação interposta em sede de impugnação ao cumprimento de sentença consignou que o apelo havia sido interposto contra decisão que ACOLHEU a impugnação ofertada pela parte executada, homologando seus cálculos.
+Assim, partindo-se tão somente do que deixou o v. acórdão estabelecido, ou seja, que a apelação foi interposta em face de decisão que ACOLHEU a impugnação, seria o suficiente para dar a correta interpretação jurídica à questão trazida à sábia apreciação deste c. STJ, já que, conforme exaustivamente demonstrado nos autos, é entendimento pacífico nesta Emérita Corte Superior que, a decisão que acolhe impugnação ao cumprimento de sentença é extintiva da fase de execução, tendo, então, natureza de sentença e, portanto apelável, haja vista que, também aqui se entende que, quando há acolhimento parcial ou rejeição da impugnação o recurso cabível é o Agravo de Instrumento.
+A parte agravada não apresentou impugnação (fl. 334).
+É o relatório.
+EMENTA
+SERVIDOR PÚBLICO E PROCESSUAL CIVIL. DECISÃO DE HOMOLOGAÇÃO DE CÁLCULOS. ATO DE NATUREZA INTERLOCUTÓRIA. RECURSO CABÍVEL. AGRAVO DE INSTRUMENTO. FUNGIBILIDADE. NÃO CABIMENTO. EXTINÇÃO DO FEITO EXECUTIVO. OCORRÊNCIA. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ. INCIDÊNCIA.
+1. Esta Corte Superior firmou a orientação de que, "no sistema regido pelo NCPC, o recurso cabível da decisão que acolhe impugnação ao cumprimento de sentença e extingue a execução é a apelação. As decisões que acolherem parcialmente a impugnação ou a ela negarem provimento, por não acarretarem a extinção da fase executiva em andamento, tem natureza jurídica de decisão interlocutória, sendo o agravo de instrumento o recurso adequado ao seu enfrentamento" (REsp n. 1.698.344/MG, Rel. Min. Luis Felipe Salomão, Quarta Turma, DJe de 1º/8/2018).
+2. A jurisprudência deste Pretório estabelece que "a decisão que homologa cálculos na fase de cumprimento da sentença, por sua natureza interlocutória, é impugnável por meio de agravo de instrumento. Precedentes: AgInt no AgRg no AREsp 768.149/SP, Rel. Min. Sergio Kukina, Primeira Turma, DJe 20/6/2017; AgInt no REsp 1.623.870/PB, Rel. Min. Herman Benjamin, Segunda Turma, DJe 13/3/2017; AgRg no AREsp 200.522/MG, Rel. Min. João Otávio de Noronha, Terceira Turma, DJe 11/5/2015" (AgInt no REsp n. 1.639.523/CE, Relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 13/10/2020, DJe de 15/10/2020).
+3. A alteração das premissas adotadas pelo Sodalício de origem, no que tange à ocorrência ou não da extinção do feito executivo, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula n. 7/STJ.
+4. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não merece acolhimento, tendo em conta que a parte agravante não logrou desenvolver argumentação apta a desconstituir o alicerce principal adotado pela decisão recorrida.
+Como antes asseverado, extrai-se do aresto recorrido a seguinte fundamentação (fls. 256/260 g.n):
+ ..
+2. O presente recurso não merece ser conhecido.
+A decisão contra a qual foi interposta a apelação não extinguiu a fase de execução de sentença, tendo tão somente acolhido a impugnação da parte exequente e determinado o prosseguimento do feito, com a instauração de incidente autônomo e em separado, para a expedição do requisitório, no prazo de 90 (noventa) dias (fls. 214).
+É cediço que a decisão que rejeita impugnação da sentença tem natureza interlocutória, porquanto não extingue o processo de execução, mas apenas resolve um incidente ali havido.
+Sendo assim, a natureza jurídica do ato judicial atacado é de decisão interlocutória, vez que não dotada de conteúdo terminativo, de modo que o recurso cabível seria o agravo de instrumento.
+Ademais, o artigo 1.015, parágrafo único, do Código de Processo Civil prevê que:
+ ..
+Desta forma, o recurso cabível contra a decisão que julga a impugnação de sentença, sem extinguir a execução, é o agravo de instrumento, e não a apelação.
+O princípio da fungibilidade deve ser afastado, pois não se verificou dúvida razoável objetiva acerca do recurso adequado e, assim, consiste em erro evidente a interposição de apelação, no lugar do agravo de instrumento.
+Nesse sentido, a jurisprudência deste E. TJSP:
+ ..
+E ainda, nesse mesmo diapasão, a jurisprudência do C. STJ:
+ ..
+3. Por fim, diante da simplicidade da matéria, deixo de fixar honorários recursais (CPC, art. 85, § 11).
+4. Considera-se questionada toda matéria infraconstitucional e constitucional, observando-se jurisprudência consagrada, inclusive no Superior Tribunal de Justiça, no sentido de que para fins de interposição de recursos extremos às cortes superiores é desnecessária a citação numérica dos dispositivos legais, bastando que a questão posta tenha sido decidida.
+5. Pelo exposto, não conheço do recurso.
+Esta Corte Superior firmou a orientação de que, "no sistema regido pelo NCPC, o recurso cabível da decisão que acolhe impugnação ao cumprimento de sentença e extingue a execução é a apelação. As decisões que acolherem parcialmente a impugnação ou a ela negarem provimento, por não acarretarem a extinção da fase executiva em andamento, tem natureza jurídica de decisão interlocutória, sendo o agravo de instrumento o recurso adequado ao seu enfrentamento" (REsp n. 1.698.344/MG, Rel. Min. Luis Felipe Salomão, Quarta Turma, DJe de 1º/8/2018).
+Nesse sentido:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. DECISÃO INTERLOCUTÓRIA. RECURSO CABÍVEL. AGRAVO DE INSTRUMENTO. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. No caso dos autos, verifica-se que foi interposto recurso de apelação contra decisão que rejeitou impugnação à execução com determinação de expedição de requisição de pequeno valor, sem a extinção do respectivo processo.
+2. À luz do Novo Código de Processo Civil, a apelação é o recurso cabível contra a decisão que acolhe impugnação ao cumprimento de sentença e extingue a execução. Já o agravo de instrumento só é adequado quando a impugnação é acolhida parcialmente ou indeferida, uma vez que, nesses casos, não há extinção da fase executiva, tratando-se, portanto, de decisão meramente interlocutória. Desse modo, interpor apelação quando a execução não é efetivamente extinta configura erro grosseiro, não sendo possível aplicar o princípio da fungibilidade recursal, que só tem lugar em hipóteses de dúvida objetiva.
+3. O entendimento adotado no acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.688.783/MG, Relator Ministro Afrânio Vilela, Segunda Turma, julgado em 19/3/2025, DJEN de 24/3/2025.)
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. DECISÃO QUE EXTINGUE A EXECUÇÃO. RECURSO CABÍVEL. APELAÇÃO. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ. PROVIMENTO NEGADO.
+1. Inexiste a alegada violação aos arts. 489 e 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, segundo se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade. Destaca-se que julgamento diverso do pretendido, como neste caso, não implica ofensa aos dispositivos de lei invocados.
+2. A decisão que resolve impugnação ao cumprimento de sentença e extingue a execução deve ser atacada em recurso de apelação, enquanto aquela que julga o mesmo incidente, mas sem extinguir a fase executiva, deve ser combatida por meio de agravo de instrumento. Inviabilidade da incidência do princípio da fungibilidade recursal por se tratar de erro grosseiro.
+3. Agravo interno a que se nega provimento.
+(AgInt no AgInt no AREsp n. 1.943.657/SP, Relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 29/4/2024, DJe de 3/5/2024.)
+Ademais, a jurisprudência deste Pretório estabelece que "a decisão que homologa cálculos na fase de cumprimento da sentença, por sua natureza interlocutória, é impugnável por meio de agravo de instrumento. Precedentes: AgInt no AgRg no AREsp 768.149/SP, Rel. Min. Sergio Kukina, Primeira Turma, DJe 20/6/2017; AgInt no REsp 1.623.870/PB, Rel. Min. Herman Benjamin, Segunda Turma, DJe 13/3/2017; AgRg no AREsp 200.522/MG, Rel. Min. João Otávio de Noronha, Terceira Turma, DJe 11/5/2015" (AgInt no REsp n. 1.639.523/CE, Relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 13/10/2020, DJe de 15/10/2020).
+Desse modo, estando o acórdão recorrido em consonância com a jurisprudência desta Corte, incide o óbice do Enunciado n. 83/STJ, segundo a qual "não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Por fim, a alteração das premissas adotadas pelo Sodalício de origem, no que tange à ocorrência ou não da extinção do feito executivo, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em apelo nobre, conforme o entrave previsto na Súmula n. 7/STJ.
+Deve, portanto, ser mantida o decisório agravado por seus próprios fundamentos.
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
