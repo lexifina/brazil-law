@@ -1,0 +1,45 @@
+DECISÃO
+Cuida-se de agravo interposto por ERIVALDO CAMILO DA SILVA contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS cuja ementa guarda os seguintes termos (fls. 142-143):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. CARÊNCIA DE FUNDAMENTAÇÃO NÃO VERIFICADA. INCLUSÃO DO NOME DA DEVEDORA EM CADASTROS DE INADIMPLENTES VIA SERASAJUD. POSSIBILIDADE. PESQUISA E CONSTRIÇÃO DE BENS DO DEVEDOR ATRAVÉS DA CENTRAL DE INDISPONIBILIDADE DE BENS (CNIB). INVIABILIDADE. SÚMULA Nº 77 DO TJGO. DECISÃO PARCIALMENTE MODIFICADA.
+1. NÃO HÁ SE FALAR EM NULIDADE DO PRONUNCIAMENTO JUDICIAL POR FALTA DE FUNDAMENTAÇÃO JURÍDICA QUANDO O JULGADOR, AINDA QUE DE FORMA CONCISA, APONTA OS MOTIVOS DE SEU CONVENCIMENTO, EM OBEDIÊNCIA AO ARTIGO 93, INCISO IX, DA CONSTITUIÇÃO FEDERAL E ARTIGO 489, INCISO II, DO CÓDIGO DE PROCESSO CIVIL.
+2. CONSIDERANDO A PREVISÃO DO ARTIGO 782, § 3º, DO CÓDIGO DE PROCESSO CIVIL E A DISPONIBILIZAÇÃO, PELO PODER JUDICIÁRIO, DO SISTEMA SERASAJUD, É VIÁVEL O ACOLHIMENTO DO PEDIDO DA PARTE CREDORA DE VER INSERIDO ELETRONICAMENTE O NOME DO DEVEDOR NOS CADASTROS DE DEVEDORES REMISSOS, COMO FORMA DE CONTRIBUIR À RESOLUÇÃO DA LIDE EM TEMPO RAZOÁVEL.
+3. A CENTRAL NACIONAL DE INDISPONIBILIDADE DE BENS (CNIB) FOI CRIADA PELO PROVIMENTO Nº 39/2014 DA CORREGEDORIA NACIONAL DE JUSTIÇA, ÓRGÃO INTEGRANTE DO CONSELHO NACIONAL DE JUSTIÇA (CNJ), PARA RECEPCIONAR COMUNICAÇÕES DE INDISPONIBILIDADE DE BENS IMÓVEIS NÃO INDIVIDUALIZADOS, E NÃO COMO FERRAMENTA DE CONSULTA OU CONSTRIÇÃO DO PATRIMÔNIO DO DEVEDOR.
+4. NOS TERMOS DA SÚMULA Nº 77 DESTE EGRÉGIO TRIBUNAL JUSTIÇA, A DECRETAÇÃO DE INDISPONIBILIDADE DE BENS, POR MEIO DA CENTRAL NACIONAL DE INDISPONIBILIDADE DE BENS (CNIB), DESTINA-SE A DAR EFETIVIDADE ÀS REFERIDAS MEDIDAS PREVISTAS EM LEIS ESPECÍFICAS, NÃO SE PRESTANDO À PESQUISA DE EXISTÊNCIA DE BENS DE DEVEDOR EM EXECUÇÃO FORÇADA, COMO PRETENDE A INSTITUIÇÃO FINANCEIRA AGRAVANTE NO CASO VERTENTE.
+5. AGRAVO DE INSTRUMENTO CONHECIDO E PARCIALMENTE PROVIDO.
+Rejeitados os embargos de declaração opostos (fls. 171-180).
+A parte recorrente alega violação dos arts. 203, § 2º, e 489, § 1º, do Código de Processo Civil, por ausência de fundamentação adequada da decisão interlocutória, ao argumento de que o acórdão não enfrentou a tese sobre a inviabilidade de inscrição do nome do devedor em cadastros de inadimplentes quando o débito está vencido há mais de cinco anos (fls. 194-197).
+Sustenta ofensa ao art. 1.022, II, do Código de Processo Civil, afirmando omissão do Tribunal de origem quanto a: a) "a ausência de fundamentação do v. acórdão prolatado"; e b) "a impossibilidade de inscrição do nome do devedor nos órgãos de proteção de crédito, quando o débito versado encontra-se vencido em prazo superior a 05 (cinco) anos" (fls. 191-193).
+Argumenta que há contrariedade ao art. 43, § 1º, do Código de Defesa do Consumidor (Lei n. 8.078/1990) e à Súmula n. 323/STJ ("A inscrição de inadimplente pode ser mantida nos serviços de proteção ao crédito por, no máximo, cinco anos"), tese segundo a qual o prazo de permanência da inscrição é de cinco anos, com termo inicial no dia seguinte ao vencimento da obrigação (fls. 198-200).
+Aponta divergência jurisprudencial com arestos desta Corte.
+Foram oferecidas contrarrazões ao recurso especial (fls. 224-243).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 450-452), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 500-506).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Inicialmente, não há falar em ofensa aos arts. 489 e 1.022 do CPC, uma vez que o Tribunal de origem enfrentou a tese sobre a inviabilidade de inscrição do nome do devedor em cadastros de inadimplentes quando o débito está vencido há mais de cinco anos, conforme excerto do acórdão recorrido: (fls. 176-177)
+ ..  ficou, registrado que, "não obstante defenda a parte executada que a dívida tenha vencido no ano de 2005, quando foi ajuizada a ação de cobrança (evento nº 01, p. 02), perseguindo-se, à época, pouco mais de R$ 80.000,00 (oitenta mil reais), o feito foi sentenciado apenas em 2014 (evento nº 01, p. 583/593)" e que, "acionada esta instância recursal, o trânsito em julgado remonta a setembro de 2015 (evento nº 01, p. 908), tendo o cumprimento de sentença sido inaugurado no ano seguinte (evento nº 01, p. 914), superando, atualmente, a cifra de R$ 3.000.000,00 (três milhões de reais - evento nº 126, p. 1.543)".
+Ponderou-se, também, que o agravado tem, incansavelmente, ao longo dos últimos anos, tentado satisfazer seu crédito" (evento nº 24 dos autos recursais, p. 147/148).
+Nesse cenário, carece de um mínimo de consistência a asserção de que haveria mácula no decisum embargado. Em realidade, insisto, pretende a parte embargante ver reformada a decisão que é bastante clara no tocante aos pontos impugnados, não merecendo acréscimo ou correção.
+Observa-se, portanto, que a lide foi solucionada em conformidade ao que foi apresentado em juízo. Verifica-se que o acórdão recorrido possui fundamentação suficiente, inexistindo omissão ou contradição.
+O que a parte recorrente aponta como "omissão" ou "falta de fundamentação" traduz, na verdade, mero inconformismo com a tese jurídica adotada. O julgador não está obrigado a rebater, um a um, todos os argumentos e dispositivos legais invocados pelas partes, quando já encontrou motivo suficiente para fundamentar sua decisão. O Poder Judiciário não funciona como um órgão consultivo, obrigado a responder a um "questionário" das partes.
+A propósito, cito os seguintes precedentes:
+PROCESSUAL CIVIL. DESAPROPRIAÇÃO DIRETA. UTILIDADE PÚBLICA. CONCESSIONÁRIA DE VEÍCULOS. RECURSO ESPECIAL. OFENSA AO ARTIGO 1022, II, DO CPC/15. INOCORRÊNCIA. DEVOLUÇÃO TOTAL DA MATÉRIA EM REEXAME NECESSÁRIO. SÚMULA 325/STJ. NECESSIDADE DE ALUGAR IMÓVEL LINDEIRO PARA ALTERAR ACESSO A LOJA. INDENIZAÇÃO AFASTADA PELO TRIBUNAL DE ORIGEM. REVISÃO. SÚMULA 7/ STJ.
+1. Os arts. 489, § 1º, e 1.022 do Código de Processo Civil não foram ofendidos. A pretexto de apontar a existência de erros materiais, omissão e premissas erradas, a parte agravante quer modificar as conclusões adotadas pelo aresto vergastado a partir das informações detalhadas do laudo pericial.
+ ..
+5. Agravo Interno não provido.
+(AgInt no AREsp n. 1.974.188/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/10/2022, DJe de 4/11/2022.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. DANO MORAL. SUSPENSÃO DO FORNECIMENTO DO SERVIÇO DE ÁGUA . DEMORA INJUSTIFICADA NO RESTABELECIMENTO DO SERVIÇO. ARTS. 489, § 1º, E 1022, II, DO CPC. OMISSÃO NÃO CONFIGURADA. DEVER DE INDENIZAR. REQUISITOS PARA A RESPONSABILIZAÇÃO DA CONCESSIONÁRIA. ACÓRDÃO ANCORADO NO SUBSTRATO FÁTICO-PROBATÓRIO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. VALOR DA INDENIZAÇÃO. EXCESSO NÃO CARACTERIZADO.
+1. Cuida-se de ação de procedimento ordinário ajuizada em desfavor de SAMAR - Soluções Ambientais de Araçatuba, com o fim de obter indenização pelos danos morais que alega ter sofrido com suspensão do serviço de água na residência da autora.
+2. Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489, § 1º, e 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos.
+ ..
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.118.594/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 22/11/2022, DJe de 25/11/2022 - grifo nosso.)
+Em relação à apontada ofensa ao artigo 43 do CDC, segundo bem se observa, o conteúdo normativo contido no referido artigo, da forma como trazidos ao debate, não foi objeto de exame no acordão recorrido, embora opostos embargos de declaração pela parte recorrente, deixando, portanto, de servir de fundamento à conclusão adotada no acórdão hostilizado.
+Desatendido, portanto, o requisito específico de admissibilidade do recurso especial referente ao prequestionamento, o que atrai o óbice constante na Súmula 211 do Superior Tribunal de Justiça.
+Nessa ótica, a Corte Especial do STJ firmou o entendimento no sentido de que "mesmo que se trate de questão de ordem pública, é imprescindível que a matéria tenha sido decidida no acórdão impugnado, para que se configure o prequestionamento". (AgInt nos EDcl no AREsp 746.371/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 09/03/2018).
+Assim, não tendo a parte agravante trazido fundamento ou fato novo a ensejar a alteração do referido entendimento, a negativa de provimento ao presente recurso é medida que se impõe.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+Publique-se. Intimem-se.
+EMENTA
