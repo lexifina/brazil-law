@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/12/2025 a 15/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APLICABILIDADE DO CPC/2015. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA À DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL NA CORTE DE ORIGEM.
+1. O presente agravo interno foi interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n. 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016.
+2. A ausência de impugnação específica aos fundamentos da decisão da Corte de origem que não admitiu o recurso impede o conhecimento do agravo, nos termos dos artigos 932, III, do CPC/2015 e 253, parágrafo único, I, do RI/STJ (redação dada pela Emenda Regimental n. 22, 2016).
+3. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão que, com fundamento no art. 932, III, do CPC e do art. 253, parágrafo único, I, do RI/STJ, não conheceu do agravo em recurso especial (fl. 216) por ausência de impugnação específica dos fundamentos da decisão agravada, assim fundamentada:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTO(S). AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO NÃO CONHECIDO.
+Nas razões do presente agravo interno o agravante entende ter infirmado os fundamentos da decisão de inadmissão do apelo nobre, sustentando, em síntese, que "não há que se falar em reexame das provas produzidas, mas apenas a revaloração do documento apresentado como início de prova material, ou seja, nada mais que a análise da desobediência do pacífico entendimento que estabeleceu o valor que determinada prova pode ter, razão pela qual entende que o fundamento da v. decisão não encontra respaldo nos autos" (fl. 241-252).
+Transcorreu, in albis, o prazo para impugnação (c.f. Certidão de fl. 274).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APLICABILIDADE DO CPC/2015. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA À DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL NA CORTE DE ORIGEM.
+1. O presente agravo interno foi interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n. 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016.
+2. A ausência de impugnação específica aos fundamentos da decisão da Corte de origem que não admitiu o recurso impede o conhecimento do agravo, nos termos dos artigos 932, III, do CPC/2015 e 253, parágrafo único, I, do RI/STJ (redação dada pela Emenda Regimental n. 22, 2016).
+3. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Registra-se que o presente agravo interno foi interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n. 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016, que dispõe.
+A irresignação não merece acolhimento.
+À luz do princípio da dialeticidade, que orienta os recursos, compete à parte agravante  sob pena de não conhecimento do agravo  impugnar de forma específica os fundamentos adotados pelo Tribunal de origem ao negar seguimento ao reclamo, sendo insuficientes alegações genéricas de inaplicabilidade do óbice invocado.
+Na espécie, o recurso especial foi inadmitido em razão do óbice da Súmula 7/STJ, uma vez que infirmar a conclusão alcançada pelo colegiado prolator do acórdão recorrido demandaria, necessariamente, a análise de elementos fático-probatórios constantes dos autos, o que é vedado por referido enunciado.
+Verifica-se, contudo, que o agravante, ao interpor o agravo em recurso especial (fls. 191-192), não impugnou especificamente o fundamento da decisão que inadmitiu o recurso, limitando-se a defender, de forma genérica, a não incidência da Súmula 7/STJ, conforme bem destacado na decisão monocrática ora agravada (fls. 216-217).
+Tal impugnação, excessivamente genérica, não encontra amparo na jurisprudência desta Corte Superior, que exige enfrentamento efetivo e completo dos fundamentos da decisão recorrida. Com efeito, cabe ao agravante demonstrar, de modo individualizado e concreto, o eventual equívoco dos fundamentos lançados, o que não ocorreu no caso em exame.
+Ressalte-se que a adequada impugnação ao óbice da Súmula 7/STJ exige da parte o desenvolvimento de argumentação específica, demonstrando a desnecessidade de revolvimento do conjunto fático-probatório. Tal demonstração pode se dar: (i) porque a controvérsia é exclusivamente de direito, devendo o recorrente comprovar essa natureza; ou (ii) porque os fatos e provas essenciais à solução da lide já se encontram devidamente delineados no acórdão recorrido, hipótese em que deve o recorrente transcrever os trechos pertinentes e conectá-los à violação legal apontada, evidenciando que não há necessidade de reexame de provas.
+No caso, essa providência não foi observada pelo agravante.
+Com efeito, nos termos do que dispõem os arts. 932, III, do CPC/2015, e 253, parágrafo único, I, do Regimento Interno do STJ, compete ao agravante impugnar de forma específica os fundamentos da decisão que obstou o recurso especial na origem.
+Nesse contexto, esta Corte possui entendimento pacífico de que incumbe ao agravante infirmar de modo preciso e direto os fundamentos da decisão de inadmissibilidade, sob pena de não conhecimento do agravo. Tal entendimento encontra-se consolidado, entre outros, nos seguintes precedentes: AgInt no AREsp 1.276.237/RS, rel. Min. Gurgel de Faria, Primeira Turma, DJe 19/12/2018; AgInt no AREsp 718.118/MT, rel. Min. Benedito Gonçalves, Primeira Turma, DJe 18/12/2018; AgInt no AREsp 1.345.064/SP, rel. Min. Regina Helena Costa, Primeira Turma, DJe 13/12/2018.
+Assim, a ausência de impugnação específica  ou a mera insurgência genérica contra a decisão que inadmitiu o recurso especial  , no tempo e modo oportunos, obsta o conhecimento do agravo, conforme expressamente previsto nos arts. 932, III, do CPC/2015, e 253, parágrafo único, I, do RI/STJ (redação dada pela Emenda Regimental n. 22/2016).
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
