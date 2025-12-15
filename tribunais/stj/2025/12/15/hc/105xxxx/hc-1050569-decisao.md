@@ -1,0 +1,17 @@
+DECISÃO
+Trata- se de habeas corpus, com pedido de liminar, impetrado em benefício de NICOLAS ANTONIO FERREIRA DOS SANTOS - denunciado pelo delito de tráfico de drogas, com apreensão de 22 pedras de crack, 58 pinos de cocaína, 43 buchas e 5 tiras de maconha -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO, que denegou o Habeas Corpus criminal n. 5014691-61.2025.8.08.0000.
+Neste writ, a defesa alega excesso de prazo da prisão cautelar, com mais de 16 meses sem conclusão da instrução, sucessivos adiamentos por ausência de testemunha de acusação e novo reagendamento para 2/3/2026, totalizando cerca de 19 meses de custódia, sem culpa da defesa.
+Sustenta ausência de fundamentação idônea da preventiva, primariedade, desproporção da medida e possível reconhecimento do tráfico privilegiado.
+Pede, em liminar, a soltura; e, no mérito, requer a revogação da prisão preventiva por excesso de prazo e falta de fundamentação, com possibilidade de medidas cautelares diversas - Autos n. 0000423-58.2024.8.08.0021, da 1ª Vara Criminal de Guarapari/ES.
+É o relatório.
+Infere-se dos autos que a prisão preventiva foi fundamentada, uma vez que foram apreendidos três tipos de drogas, sendo crack, cocaína e maconha, em um grande volume e quantidade, o que demonstra que o tráfico realizado era intenso (fl. 63).
+No caso, a despeito de a segregação cautelar se encontrar devidamente justificada, pois o Juízo de piso destacou a quantidade e variedade dos entorpecentes apreendidos, o paciente, aparentemente, é réu primário, o crime foi perpetrado sem violência ou grave ameaça, não se extrai dos autos que o acusado integre organização criminosa e a quantidade de droga apreendida, apesar de significativa, não pode ser considerada exorbitante a ponto de justificar, por si só, a prisão (22 pedras de crack, 58 pinos de cocaína, 43 buchas e 5 tiras de maconha), circunstâncias que firmam a possibilidade de substituição da prisão por cautelares diversas.
+As circunstâncias do caso evidenciam a necessidade de algum acautelamento da ordem pública; contudo, não se mostram aptas, em juízo de proporcionalidade, a embasar uma segregação corpórea.
+Importante salientar que, com o advento da Lei n. 12.403/2011, a prisão cautelar passou a ser, mais ainda, a mais excepcional das medidas, devendo ser aplicada somente quando comprovada a inequívoca necessidade, devendo-se sempre verificar se existem medidas alternativas à prisão adequadas ao caso concreto" (HC n. 305.905/SP, de minha relatoria, Sexta Turma, julgado em 4/12/2014, DJe 17/12/2014) - (AgRg no RHC n. 210.080/RS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN 26/2/2025).
+Diante do exposto, prejudicada a análise do excesso de prazo.
+Assim, concedo liminarmente a ordem para substituir a prisão cautelar imposta ao paciente por medidas alternativas à prisão a serem estabelecidas e fiscalizadas pelo Magistrado singular, salvo se estiver preso por outro motivo, podendo o Juízo de primeiro grau decretar novamente a segregação cautelar, desde que fundamentadamente.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. 22 PEDRAS DE CRACK, 58 PINOS DE COCAÍNA, 43 BUCHAS E 5 TIRAS DE MACONHA. FUNDAMENTAÇÃO. AUSÊNCIA DE FUNDAMENTOS SUFICIENTES A JUSTIFICAR A MANUTENÇÃO DA PRISÃO. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem concedida liminarmente.
