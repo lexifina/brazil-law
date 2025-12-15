@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por EFFEXLOG TRANSPORTE E LOGISTICA LTDA à decisão de fls. 112/113, que não conheceu do recurso.
+Sustenta a parte embargante:
+Ocorre que, salvo melhor juízo, a procuração conferida pela recorrente aos procuradores subscritores está devidamente anexada aos autos originários, conforme se denota às páginas 35 a 36 dos autos do cumprimento de sentença nº 0007129-19.2024.8.26.0001 (autos originários, relacionado ao agravo de instrumento de nº 2380513-08.2024.8.26.0000).
+Desta forma, não há o que se falar em ausência de regularização da representação processual da parte, muito menos em desconhecimento do ato recursal pela ausência de poderes conferido ao advogado firmatário da peça recursal, porquanto o instrumento de procuração já estava anexado aos autos originários desde a interposição do recurso de Agravo de Instrumento, à instância inferior.
+ ..
+A decisão embargada também padece de omissão relevante, nos termos do artigo 1.022, inciso II, do Código de Processo Civil, porquanto deixou de observar e de se manifestar acerca do pedido expresso de intimação exclusiva em nome do advogado Dr. Carlos Vinicius Vargas Menezes, OAB/RS 76.195, formulado oportunamente nos autos, à peça de agravo.
+No caso em apreço, a intimação que determinou a regularização da representação processual foi dirigida em nome diverso daquele indicado para intimações exclusivas, o que configura nulidade processual absoluta, por violação ao princípio do contraditório e da ampla defesa, notadamente porque impediu que o patrono regularmente constituído tivesse ciência tempestiva do ato.
+A omissão é manifesta, pois, a decisão embargada deixou de apreciar tal vício, não enfrentando questão apta a infirmar o próprio fundamento da decisão de não conhecimento do recurso. Assim, a ausência de manifestação expressa sobre o descumprimento do pedido de intimação exclusiva caracteriza omissão a ser sanada por meio dos presentes embargos, sob pena de violação aos artigos 272, §5º e 1.022, inciso II, do CPC (fls. 116/118).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+No caso, o recorrente, no momento da interposição do recurso, não procedeu à juntada da cadeia completa de procuração e/ou substabelecimento conferindo poderes à subscritora do Agravo e do Recurso Especial, Dra. JULIE MAHLMANN PRETTO.
+Mesmo diante da intimação da parte para sanear o vício, não houve a devida regularização, porquanto deixou o prazo transcorrer in albis.
+Registre-se que a dispensa prevista no art. 1017, § 5º, do CPC se aplica à interposição do Agravo de Instrumento para o Tribunal a quo, ou seja, a dispensa está voltada ao primeiro e ao segundo graus de jurisdição, tendo em vista que, a princípio, compartilhariam o mesmo sistema eletrônico.
+Nesse sentido, o AgInt no REsp 1869850/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 17.2.2021; AgInt no AREsp 1691791/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 20.11.2020; AgInt no AREsp 1504387/RJ, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 27.2.2020.
+Portanto, conclui-se que, a referida dispensa não se estende ao STJ, cabendo à parte providenciar a juntada de cópia ou novo instrumento aos autos quando da interposição de recurso a esta Corte.
+Somente agora, em sede destes aclaratórios, a parte trouxe o instrumento de mandato com o fim de regularizar a representação, no entanto, não pode ser aceito, em razão da preclusão. (AgInt no AREsp 1520555/PR, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 30.6.2020; AgInt no REsp 1788526/TO, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17.6.2020; e AgInt no REsp 1830797/SE, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 18.3.2020.).
+Quanto à nulidade de intimação, cumpre esclarecer que apesar da intimação para regularização da representação processual (fl. 105), bem como da intimação da decisão de fls. 112/113, terem sido realizadas em nome de outros advogados, também observou o pedido de intimação em nome do advogado Dr. CARLOS VINICIUS VARGAS MENEZES, OAB/RS n. 076195.
+Outrossim, constou o nome de outros advogados, tendo em vista que não havia cadeia completa de representação para o referido causídico, do pedido de intimação exclusiva. Portanto, não há nulidade, tendo em vista que não houve prejuízo à parte, devidamente intimada.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 28.8.2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se.
+Intimem-se.
+ EMENTA
