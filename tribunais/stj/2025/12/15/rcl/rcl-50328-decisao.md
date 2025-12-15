@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de reclamação ajuizada por MARIA LÚCIA COUTINHO ROCHA e MARIA LUIZA SODRÉ AGUIAR, em consonância com o art. 988, II, do Código de Processo Civil/2015, em face do Tribunal de Justiça do Estado do Rio de Janeiro, decisões proferidas pelo Desembargador Heleno Ribeiro Pereira Nunes, Terceiro Vice-Presidente.
+Nas razões da reclamação a parte alega violação dos arts. 1.030, I, 1.032 e 1.042, todos do Código de Processo Civil, e do art. 187 do Regimento Interno do Superior Tribunal de Justiça.
+A parte reclamante sustenta, em primeiro plano, que a Terceira Vice-Presidência do Tribunal de Justiça do Estado do Rio de Janeiro negou seguimento ao recurso especial com base em teses firmadas pelo Supremo Tribunal Federal em regime de repercussão geral (Temas 82 e 499), o que contraria o art. 1.030, I, do Código de Processo Civil, pois a negativa de seguimento fundada em repercussão geral limita-se ao recurso extraordinário.
+Argumenta que, para o recurso especial, somente seria cabível a negativa de seguimento quando o acórdão recorrido estivesse em conformidade com precedente do Superior Tribunal de Justiça julgado sob o rito dos recursos repetitivos, conforme a vinculação estabelecida no próprio dispositivo.
+Alega que a atuação da Terceira Vice-Presidência usurpou essa competência, ao aplicar diretamente Temas do STF como razão para obstar o processamento do recurso especial.
+Por fim, sustenta que a decisão subsequente da Terceira Vice-Presidência, ao não conhecer do agravo em recurso especial, sob o argumento de que apenas o agravo interno seria cabível, incorreu em nova usurpação da competência do Superior Tribunal de Justiça, impedindo a remessa do agravo em recurso especial para apreciação por esta Corte, em afronta ao art. 1.042 do Código de Processo Civil e ao art. 105, III, da Constituição Federal.
+Assim posta a questão, passo a decidir.
+Nos termos da jurisprudência desta Corte, a reclamação não pode ser utilizada como meio para rediscutir juízo de admissibilidade de recurso extraordinário ou especial realizado na origem, sob pena de transformá-la em sucedâneo de recurso, o que é vedado. A saber:
+DIREITO TRIBUTÁRIO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. NÃO CONHECIMENTO. INSURGÊNCIA CONTRA ACÓRDÃO QUE EXAMINOU AGRAVO INTERNO INTERPOSTO CONTRA JUÍZO NEGATIVO DE ADMISSIBILIDADE. INEXISTÊNCIA DE AFRONTA À AUTORIDADE DE DECISÃO DESTE TRIBUNAL OU DE USURPAÇÃO DE COMPETÊNCIA. RECLAMAÇÃO COMO SUCEDÂNEO RECURSAL. NÃO CABIMENTO. AGRAVO INTERNO NÃO PROVIDO.
+1. A
+reclamação é instrumento processual de caráter específico e de aplicação restrita, nos termos do artigo 105, inciso I, alínea "f", da Constituição Federal, destinando-se à preservação da competência do Superior Tribunal de Justiça e à garantia da autoridade das suas decisões, não podendo ser utilizada como sucedâneo recursal.
+2. Se a decisão de inadmissibilidade está amparada em entendimento consolidado no Supremo Tribunal Federal, em julgamento com repercussão geral ou controle concentrado de constitucionalidade, não há falar em usurpação de competência do STJ, pois o tribunal de segundo grau atua dentro da competência que lhe fora delegada.
+3.
+Agravo interno desprovido.
+(AgInt nos EDcl na Rcl n. 48.512/RN, relatora Ministra Maria Thereza de Assis Moura, Primeira Seção, julgado em 16/9/2025, DJEN de 19/9/2025.)
+No caso dos autos, a parte reclamante apresenta como às decisões reclamadas (fls. 9-12 e 13-21) e proferidas em juízo de admissibilidade pelo Terceiro Vice-Presidente do Tribunal de Justiça do Estado do Rio de Janeiro.
+A primeira decisão reclamada dispôs sobre a negativa de seguimento do recurso especial, com fundamento nos Temas 82 e 499 do Supremo Tribunal Federal, por aplicação do art. 1.030, I, do Código de Processo Civil, concluindo pela consonância do acórdão recorrido com a tese firmada pelo STF e negando seguimento ao recurso especial (9-12).
+Em decisão posterior, a Terceira Vice-Presidência não conheceu do agravo em recurso especial interposto, reputando incabível esse meio (fls. 13-21).
+Assim posta a questão, fica claro que a reclamação não foi manejada para preservar a competência desta Corte nem para garantir a autoridade de suas decisões, mas, simplesmente, com o propósito de reformar decisão proferida pelo Tribunal de Justiça do Estado do Rio de Janeiro, Terceira Vice-Presidência, Desembargador Heleno Ribeiro Pereira Nunes, não se verificando, pois, nenhuma das hipóteses previstas nos artigos 105, I, "f", da Constituição Federal e 988 do Código de Processo Civil de 2015, mostrando-se totalmente incompatível com os objetivos tutelados pelo instituto processual-constitucional da reclamação, tornando inviável o seu seguimento, já que utilizada com claro propósito de reforma do julgado.
+Nesse sentido são, entre diversos outros, os seguintes precedentes desta Corte:
+PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. APLICAÇÃO DE REPETITIVO. SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE. DECISÃO MANTIDA.
+1. A Corte Especial do STJ decidiu que a reclamação constitucional não é "instrumento adequado para o controle da aplicação dos entendimentos firmados pelo STJ em recursos especiais repetitivos" (Rcl 36.476/SP, Relatora Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 5/2/2020, DJe 6/3/2020).
+2. "A reclamação não é instrumento processual adequado para o exame do acerto ou desacerto da decisão impugnada, como sucedâneo de recurso" (AgInt na Rcl 40.171/PR, Relator Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 1º/9/2020, DJe 9/9/2020).
+3. Agravo interno a que se nega provimento. (AgInt na Rcl 40.576/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, SEGUNDA SEÇÃO, julgado em 01/12/2020, DJe 09/12/2020)
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECLAMAÇÃO. ART. 988, II DO CPC. OFENSA A DECISÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA. NÃO OCORRÊNCIA. UTILIZAÇÃO COMO SUCEDÂNEO RECURSAL. DESCABIMENTO. AGRAVO INTERNO NÃO PROVIDO.
+1. Não é cabível reclamação para se verificar no caso concreto se foram realizadas alienações judiciais em fraude à execução, devendo a parte agravante valer-se dos meios processuais pertinentes.
+2. A reclamação não é passível de utilização como sucedâneo recursal, com vistas a discutir o teor da decisão hostilizada.
+3. Agravo interno não provido. (AgInt na Rcl 40.177/SP, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 29/09/2020, DJe 02/10/2020)
+Em face do exposto, com fundamento no art. 34, XVIII, do Regimento Interno do Superior Tribunal de Justiça, nego seguimento à reclamação.
+Intimem-se.
+EMENTA
