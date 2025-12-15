@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/12/2025 a 15/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COMPENSAÇÃO POR DANOS MORAIS. AUSÊNCIA DE IMPUGNAÇÃO DE CAPÍTULO AUTÔNOMO EM DECISÃO MONOCRÁTICA DO RELATOR EM AGRAVO INTERNO. PRECLUSÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO INDICAÇÃO. SÚMULA 284/STF. ACORDO HOMOLOGADO PELA JUSTIÇA FEDERAL. REEXAME DE FATOS E PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. IMPOSSIBILIDADE. SÚMULAS 5 e 7/STJ.
+1. Ação de compensação por danos morais.
+2. A ausência de impugnação, no agravo interno, de capítulo autônomo e/ou independente da decisão monocrática do relator - proferida ao apreciar recurso especial ou agravo em recurso especial - apenas acarreta a preclusão da matéria não impugnada. Precedente da Corte Especial.
+3. A ausência de expressa indicação de obscuridade, omissão, erro material ou contradição nas razões recursais enseja o não conhecimento do recurso especial quanto à suposta negativa de prestação jurisdicional.
+4. O reexame de fatos e provas e a renovada interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+5. agravo interno não provido.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examina-se agravo interno interposto por D L F DOS S e OUTROS, contra decisão que conheceu do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Ação: de compensação por danos morais, ajuizada pelos agravantes, em face de BRASKEM S. A., em razão dos prejuízos e transtornos causados pela atividade de mineração exercida pela demandada.
+Decisão interlocutória: extinguiu parcialmente o processo sem resolução de mérito (art. 485, VI, do CPC), em razão da perda do objeto da demanda, decorrente de acordo firmado entre as partes nos autos de ação civil pública .
+Acórdão: negou provimento ao recurso de agravo de instrumento interposto pela parte agravante, nos termos da seguinte ementa (e-STJ fl. 288):
+AGRAVO DE INSTRUMENTO. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. EXTINÇÃO DO PROCESSO EM RELAÇÃO EM RAZÃO DA HOMOLOGAÇÃO DE ACORDO NO BOJO DE AÇÃO CIVIL PÚBLICA. PACTO QUE ABRANGE O OBJETO DA DEMANDA ORIGINÁRIA. PLEITO DE RETENÇÃO DE HONORÁRIOS ADVOCATÍCIOS. DENEGADO. PEDIDO FORMULADO EM CONTRARRAZÕES PARA CONDENAÇÃO DOS AGRAVANTES POR LITIGÂNCIA DE MÁ-FÉ. REJEITADO. PLEITO DE REMESSA DE OFÍCIO À OAB. ACOLHIDO. CONDUTA POSSIVELMENTE TEMERÁRIA PRATICADA, EXCLUSIVAMENTE, PELO CAUSÍDICO DA PARTE AGRAVANTE. RECURSO CONHECIDO E NÃO PROVIDO.
+Recurso especial: a parte recorrente alega violação dos arts. 85, § 14, 90, caput, e §2º, 1.022, II do CPC; 14, § 1º da lei n.º 6.938/91; 186, 421, 424 e 927, do CC; 51, I, IV e §1º, do CDC; 22, caput, e 34, VIII, do EOAB. Além de negativa de prestação jurisdicional, sustenta, em síntese, que o acordo celebrado entre as partes se refere exclusivamente à indenização por danos materiais, não abrangendo a indenização por danos morais pleiteada na presente ação. Aduz que se configura como cláusula leonina a previsão do acordo que obriga as vítimas a renunciarem a quaisquer outros valores a título de indenização pelos prejuízos causados pelo agravado. Alega que não foram respeitados os contratos celebrados entre o signatário e a parte recorrente, devendo ser retido 20% (vinte por cento) sobre o valor da causa.
+Decisão unipessoal: conheceu do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negou-lhe provimento, em razão da incidência da Súmula 284 do STF (quanto à alegada violação do art. 1.022 do CPC), das Súmulas 5 e 7 do STJ (regularidade da formalização e a abrangência do acordo), e da Súmula 568 do STJ (quanto à cláusula leonina e aos honorários advocatícios).
+Agravo interno: a parte agravante alega que demonstrou que o TJ/AL não enfrentou diversas omissões apontadas nos embargos de declaração, especialmente: (i) a distinção entre danos morais e materiais e a necessidade de apreciação dos danos morais pelo juízo de origem; (ii) a possível nulidade do acordo por afronta à função social do contrato e à equidade; (iii) a falta de análise sobre a validade e observância dos contratos de honorários e das prerrogativas do advogado; e (iv) a ausência de manifestação sobre a discordância dos autores quanto à extinção do processo e sobre a falta de oportunidade para negociação das cláusulas do acordo. Afirma que as questões são estritamente de direito, não sendo necessário o revolvimento fático-probatório para análise do recurso especial.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COMPENSAÇÃO POR DANOS MORAIS. AUSÊNCIA DE IMPUGNAÇÃO DE CAPÍTULO AUTÔNOMO EM DECISÃO MONOCRÁTICA DO RELATOR EM AGRAVO INTERNO. PRECLUSÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO INDICAÇÃO. SÚMULA 284/STF. ACORDO HOMOLOGADO PELA JUSTIÇA FEDERAL. REEXAME DE FATOS E PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. IMPOSSIBILIDADE. SÚMULAS 5 e 7/STJ.
+1. Ação de compensação por danos morais.
+2. A ausência de impugnação, no agravo interno, de capítulo autônomo e/ou independente da decisão monocrática do relator - proferida ao apreciar recurso especial ou agravo em recurso especial - apenas acarreta a preclusão da matéria não impugnada. Precedente da Corte Especial.
+3. A ausência de expressa indicação de obscuridade, omissão, erro material ou contradição nas razões recursais enseja o não conhecimento do recurso especial quanto à suposta negativa de prestação jurisdicional.
+4. O reexame de fatos e provas e a renovada interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+5. agravo interno não provido.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examina-se agravo interno interposto por D L F DOS S e OUTROS, contra decisão que conheceu do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negou-lhe provimento, em razão da incidência da Súmula 284 do STF (quanto à alegada violação do art. 1.022 do CPC), das Súmulas 5 e 7 do STJ (regularidade da formalização e a abrangência do acordo), e da Súmula 568 do STJ (quanto à cláusula leonina e aos honorários advocatícios).
+Inicialmente, cumpre destacar que, no âmbito do agravo interno, a ausência de impugnação específica de capítulo autônomo e/ou independente da decisão monocrática do relator - proferida ao apreciar recurso especial ou agravo em recurso especial - apenas acarreta a preclusão da matéria não impugnada. (EREsp 1.424.404/SP, Corte Especial, DJe 17/11/2021).
+Com efeito, da leitura do agravo interno, verifica-se que o presente recurso não impugnou a questão relativa à verba honorária nem à cláusula leonina, razão pela qual a matéria restou preclusa nesse ponto.
+Assim, reconhecida a preclusão apenas das matérias não impugnadas, passo à análise das questões remanescentes.
+- Da violação do art. 1.022 do CPC
+Da leitura das razões recursais revela que, quanto à alegação de violação do art. 1.022 do CPC, o recurso especial está deficientemente fundamentado.
+Isso porque, é necessário que a parte agravante indique, com clareza e exatidão, o ponto omisso, obscuro ou contraditório. Além do mais, é preciso que traga também argumentação que permita a identificação da eventual ofensa. No entanto, ao contrário do que sustenta, tais requisitos não foram atendidos no recurso especial interposto.
+Deixando de demonstrar em que consistiu a violação do mencionado artigo, incide a Súmula 284/STF.
+Nesse sentido: AgInt no AREsp 2.536.904/RO, Quarta Turma, DJe 20/6/2024; AgInt no AREsp 2.479.721/GO, Terceira Turma, DJe 12/6/2024.
+- Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+Quanto à aplicação das Súmulas 5 e 7/STJ, essas merecem ser mantidas, haja vista que os argumentos trazidos pela parte agravante não são capazes de demonstrar como alterar o decidido pelo Tribunal de origem não demandaria o reexame de fatos e provas.
+Como exposto na decisão unipessoal ora agravada, o TJ/AL ao julgar o recurso interposto pela parte agravante assim decidiu sobre a regularidade da formalização e a abrangência do acordo (e-STJ fls. 291-293):
+12 Pois bem. Acerca do exposto, imperioso consignar que, em consulta ao processo originário, verifica-se a existência de certidões de objeto e pé exaradas pela 3ª Vara da Justiça Federal em Cumprimentos de Sentença (fls. 1329/1331 e 1449/1450), atestando a realização de acordos entre a Recorrida e as partes Autoras /Recorrentes, as quais conferem quitação irrevogável à Braskem/Agravada em relação a danos extrapatrimoniais, inclusive com renúncia e desistência expressas a eventuais direitos remanescentes, conforme se depreende do excerto doravante transcrito.
+ ..
+13 Desta forma, em sede de cognição sumária, não restou demonstrada a verossimilhança das alegações recursais. Ao contrário, o caderno processual revela que os Autores/Recorrentes de fato celebraram transação com a Braskem, incluindo a indenização a título de danos morais, motivo porque há de se concluir que não persiste o interesse processual na demanda originária, a qual trata justamente de reparação prejuízos extrapatrimoniais.
+Assim, alterar este entendimento, de fato, demandaria o reexame fático-probatório, bem como a interpretação das cláusulas fixadas no acordo firmado nos autos de ação civil pública, o que é vedado em recurso especial em razão das Súmulas 5 e 7 do STJ.
+Dessa forma, a despeito das alegações aduzidas neste recurso, percebe-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir o entendimento firmado na decisão ora agravada.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno no agravo em recurso especial.
