@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por TENDA ENGENHARIA E COMERCIO LTDA. contra decisão monocrática de fls. 1.871-1.877, que negou provimento ao recurso especial interposto por CONDOMÍNIO DO EDIFÍCIO TORRE EIFFEL, e majorou em 5% os honorários fixados em desfavor da parte recorrente, nos termos do art. 85, § 11, do CPC.
+Em suas razões recursais (fls. 1.894-1.898), a embargante aponta obscuridade quanto à base de cálculo da majoração dos honorários "em 5%", sustentando duas possíveis leituras: (i) acréscimo de 5 pontos percentuais ao patamar de 10%, totalizando 15% sobre a mesma base, interpretação que reputa consentânea com o art. 85, § 11, do CPC, e (ii) incidência de 5% sobre o percentual já arbitrado (resultando em 10,5%), hipótese rejeitada por esvaziar a finalidade remuneratória e pedagógica da norma.
+Ao final, requer o saneamento da obscuridade para explicitar a majoração de 5% sobre a mesma base dos honorários principais, fixando a verba em 15% sobre o valor atualizado da causa
+Contraminuta apresentada às fls. 1.922 pelo embargado CONDOMÍNIO DO EDIFÍCIO TORRE EIFFEL.
+É, no essencial, o relatório.
+O ponto alegadamente obscuro suscitado pela parte embargante cinge-se à seguinte afirmação constante da decisão de fls. 1.887: "nos termos do art. 85, § 11, do CPC, majoro em 5% os honorários fixados em desfavor da parte recorrente".
+Segundo a parte embargante, há duas possíveis leituras desse comando: (i) acréscimo de 5 pontos percentuais ao patamar de 10%, totalizando 15% sobre a mesma base, interpretação que reputa consentânea com o art. 85, § 11, do CPC, e (ii) incidência de 5% sobre o percentual já arbitrado (resultando em 10,5%), hipótese rejeitada por esvaziar a finalidade remuneratória e pedagógica da norma.
+De fato, a assertiva transcrita acima encontra-se obscura, razão pela qual a torno clara e indubitável a seguir.
+A expressão "majoro em 5%", tal como empregada na decisão, comporta a leitura sugerida pela embargante de incidência proporcional sobre o percentual anteriormente fixado.
+No idioma português, o verbo majorar, quando seguido da preposição "em", indica o montante do acréscimo, e não a aplicação de uma taxa sobre outra. Assim, "majorar em 5%" significa acrescentar cinco pontos percentuais ao patamar já estabelecido, e não calcular 5% sobre o próprio percentual de 10%, o que resultaria em 10,5%.
+Para que esta última interpretação fosse admissível, seria indispensável que o comando judicial especificasse que o acréscimo seria "de 5% sobre o percentual já arbitrado", o que não ocorreu. A redação utilizada conduz, de forma direta e natural, ao entendimento de aumento absoluto do índice em 5 pontos percentuais, atingindo, portanto, o total de 15%.
+Trata-se, ademais, da interpretação que melhor se harmoniza com a sistemática do art. 85, § 11, do CPC, cuja finalidade é reforçar o caráter remuneratório e pedagógico dos honorários recursais.
+Dessa forma, a leitura correta do comando judicial é aquela defendida pela parte embargante: o acréscimo de cinco pontos percentuais ao percentual anteriormente fixado.
+Ante o exposto, conheço e dou provimento aos presentes embargos declaratórios, inserindo a seguinte nova redação à decisão embargada: "Nos termos do art. 85, § 11, do CPC, majoro em cinco pontos percentuais os honorários fixados em desfavor da parte recorrente, passando o percentual anteriormente arbitrado de 10% para 15% sobre a mesma base de cálculo, observada eventual concessão anterior de assistência judiciária gratuita."
+Publique-se. Intimem-se.
+EMENTA
