@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/12/2025 a 15/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Moura Ribeiro, Daniela Teixeira e Nancy Andrighi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+Direito processual civil. Agravo interno no agravo em recurso especial. Impenhorabilidade de bem de família. Fração ideal de coproprietário. Reexame de provas.
+I. Caso em exame
+1. Agravo interno interposto contra decisão monocrática que não conheceu de recurso especial, sob o fundamento de que a matéria versada demandaria reexame do conjunto fático-probatório dos autos, providência vedada pela Súmula 7 do STJ.
+2. A controvérsia envolve a impenhorabilidade de imóvel utilizado como residência por coproprietário estranho à obrigação locatícia que ensejou a execução, com discussão sobre a aplicação da proteção conferida pela Lei n. 8.009/90 e a exceção prevista no art. 3º, VII, em razão de fiança prestada por outro coproprietário.
+3. O acórdão recorrido reconheceu a condição de bem de família do imóvel, com base em prova documental e testemunhal, concluindo pela procedência dos embargos de terceiro ajuizados pelo coproprietário não devedor.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se é possível afastar a proteção conferida pela Lei n. 8.009/90 ao imóvel utilizado como residência por coproprietário não devedor, com fundamento na exceção prevista no art. 3º, VII, em razão da fiança prestada por outro coproprietário.
+5. Também se discute se a penhora da fração ideal do fiador pode ser realizada sem reexame das premissas fáticas delineadas pelo acórdão recorrido.
+III. Razões de decidir
+6. A Súmula 7 do STJ impede o reexame do conjunto fático-probatório dos autos, sendo vedado a esta instância especial revisar as conclusões do acórdão recorrido sobre a condição de bem de família do imóvel e a proteção integral do bem para garantir a moradia do coproprietário não devedor.
+7. A análise das alegadas violações dos dispositivos processuais do CPC, referentes à apresentação de documentos e à distribuição do ônus probatório, implicaria reavaliar a suficiência e a valoração das provas, o que também é vedado nesta instância.
+8. O acórdão recorrido distingue a hipótese dos Temas 1.091 do STJ e 1.127 do STF, que tratam da penhorabilidade de imóvel pertencente exclusivamente ao fiador, não sendo aplicáveis à situação de copropriedade com residência de terceiro não devedor.
+IV. Dispositivo
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por CHEN WU MING contra decisão monocrática de minha relatoria que conheceu do agravo para não conhecer do recurso especial (fls. 666-675).
+Extrai-se dos autos que o agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 437):
+Submetido o presente recurso de apelação a novo julgamento pela Turma Julgadora, em razão da determinação do Exmo. Des. Presidente da Seção de Direito Privado, nos termos do art. 1.030, inciso II, do CPC. R Esps 1822033/PR e 1822040/PR definiram, em regime de recursos repetitivos, tese que permite a penhora do bem de família de fiador de contrato de locação de imóvel residencial e comercial. Embargos de terceiro opostos por pessoa estranha ao contrato de locação. Autor que detém a propriedade de parte do imóvel, na proporção de dois terços, comprovando, ainda, que o utiliza para moradia. Indivisibilidade do imóvel. Proteção que abrange a integralidade do bem, diante da impossibilidade de divisão cômoda entre os coproprietários. Precedentes do STJ. Ação não afetada pelo repetitivo. Mantido o v. acórdão proferido no julgamento da apelação.
+Nas razões do recurso interno, a agravante aduz, em síntese, que o recurso especial não demanda o reexame de provas, mas sim a correta qualificação jurídica dos fatos já delineados pelo acórdão recorrido, o que afasta a incidência da Súmula 7/STJ.
+Sustenta a validade da penhora sobre a fração ideal do imóvel pertencente ao coproprietário fiador, com base na exceção prevista no art. 3º, VII, da Lei nº 8.009/90. Argumenta, ainda, que o Tribunal de origem, ao proteger a integralidade do bem, conferiu uma extensão indevida à impenhorabilidade e aplicou equivocadamente os Temas 1.091/STJ e 1.127/STF, que confirmam a possibilidade da constrição em casos de fiança locatícia.
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+Foram apresentadas contrarrazões. (fl.727-741)
+É, no essencial, o relatório.
+EMENTA
+Direito processual civil. Agravo interno no agravo em recurso especial. Impenhorabilidade de bem de família. Fração ideal de coproprietário. Reexame de provas.
+I. Caso em exame
+1. Agravo interno interposto contra decisão monocrática que não conheceu de recurso especial, sob o fundamento de que a matéria versada demandaria reexame do conjunto fático-probatório dos autos, providência vedada pela Súmula 7 do STJ.
+2. A controvérsia envolve a impenhorabilidade de imóvel utilizado como residência por coproprietário estranho à obrigação locatícia que ensejou a execução, com discussão sobre a aplicação da proteção conferida pela Lei n. 8.009/90 e a exceção prevista no art. 3º, VII, em razão de fiança prestada por outro coproprietário.
+3. O acórdão recorrido reconheceu a condição de bem de família do imóvel, com base em prova documental e testemunhal, concluindo pela procedência dos embargos de terceiro ajuizados pelo coproprietário não devedor.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se é possível afastar a proteção conferida pela Lei n. 8.009/90 ao imóvel utilizado como residência por coproprietário não devedor, com fundamento na exceção prevista no art. 3º, VII, em razão da fiança prestada por outro coproprietário.
+5. Também se discute se a penhora da fração ideal do fiador pode ser realizada sem reexame das premissas fáticas delineadas pelo acórdão recorrido.
+III. Razões de decidir
+6. A Súmula 7 do STJ impede o reexame do conjunto fático-probatório dos autos, sendo vedado a esta instância especial revisar as conclusões do acórdão recorrido sobre a condição de bem de família do imóvel e a proteção integral do bem para garantir a moradia do coproprietário não devedor.
+7. A análise das alegadas violações dos dispositivos processuais do CPC, referentes à apresentação de documentos e à distribuição do ônus probatório, implicaria reavaliar a suficiência e a valoração das provas, o que também é vedado nesta instância.
+8. O acórdão recorrido distingue a hipótese dos Temas 1.091 do STJ e 1.127 do STF, que tratam da penhorabilidade de imóvel pertencente exclusivamente ao fiador, não sendo aplicáveis à situação de copropriedade com residência de terceiro não devedor.
+IV. Dispositivo
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+De início, cumpre destacar que a insurgência vertida nestes autos por CHEN WU MING não reúne fundamentos aptos a infirmar a r. decisão monocrática proferida no âmbito do Superior Tribunal de Justiça, que não conheceu do recurso especial por entender que a matéria versada demandaria reexame do conjunto fático-probatório dos autos, providência esta vedada, nos termos do que dispõe a Súmula 7 do Colendo STJ.
+Cumpre assinalar que a controvérsia posta à apreciação desta instância diz respeito à impenhorabilidade de imóvel supostamente utilizado como residência por coproprietário estranho à obrigação locatícia que ensejou a execução, mais especificamente à possibilidade de se afastar a proteção conferida pela Lei nº 8.009/90 com fundamento na exceção prevista no art. 3º, VII, em razão da fiança prestada por outro coproprietário, Fábio Luiz Piccolomini Iniesta.
+O v. acórdão recorrido reconheceu expressamente a condição de bem de família do imóvel objeto da constrição judicial, à luz da prova documental e testemunhal carreadas aos autos (matrícula, faturas de consumo, inscrição do embargante no IPTU e depoimento testemunhal), concluindo pela procedência dos embargos de terceiro ajuizados por JOÃO BATISTA BORGES.
+Pretender, nesta instância especial, infirmar essa conclusão, sob o argumento de que a penhora incidiu apenas sobre a fração ideal do fiador, exige revolvimento das premissas fáticas delineadas pelo acórdão estadual, vedado por força da Súmula 7/STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. CONCLUSÃO DO ACÓRDÃO RECORRIDO PELA PRESENÇA DOS REQUISITOS DA RESPONSABILIDADE CIVIL. REVISÃO. IMPOSSIBILIDADE. NECESSIDADE DE INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO. 1. Não ficou configurada a violação aos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional. 2. A alteração das conclusões adotadas pela Corte de origem - acerca de estarem presentes os requisitos para a condenação do recorrente ao pagamento da indenização por danos morais e materiais - demandaria necessariamente o reexame do acervo fático-probatório constante dos autos, providência vedada no âmbito do recurso especial, dado o óbice da Súmula 7 deste Tribunal Superior. 3. Razões recursais insuficientes para a revisão do julgado. 4. Agravo interno desprovido.
+(STJ - AgInt no AREsp: 2629444 MG 2024/0115516-3, Relator: Ministro MARCO AURÉLIO BELLIZZE, Data de Julgamento: 26/02/2025, T2 - SEGUNDA TURMA, Data de Publicação: DJEN 06/03/2025)
+O mesmo raciocínio se aplica às supostas violações de dispositivos processuais. A análise da alegada ofensa aos arts. 320 e 435 do CPC, referente à apresentação de documentos, bem como a rediscussão sobre a distribuição do ônus probatório (art. 373, §§ 1º e 2º, do CPC) não possuem natureza estritamente jurídica. Pelo contrário, implicam reavaliar a suficiência e a valoração das provas, o que é vedado nesta instância, conforme pontuado na decisão agravada (fl. 669):
+"Igual sorte não socorre à alegada ofensa aos artigos 369 e 373, §§ 1º e 2º, do Código de Processo Civil. A insurgência do recorrente quanto à suposta fragilidade das provas que embasaram o reconhecimento do imóvel como bem de família, bem como quanto à distribuição do ônus probatório, não possui natureza estritamente jurídica, pois implica avaliar a suficiência das provas apresentadas e a regularidade da valoração delas pelo acórdão recorrido."
+Por fim, ressalto que o aresto local distingue a hipótese sob exame das teses firmadas nos Temas 1.091 do STJ e 1.127 do STF, visto que tais precedentes tratam da penhorabilidade do imóvel pertencente exclusivamente ao fiador, e não da situação em que um coproprietário não participante da relação contratual locatícia resida no bem penhorado.
+Portanto, infirmar a conclusão do acórdão recorrido, que, após analisar as provas, entendeu pela proteção integral do imóvel para garantir a residência do coproprietário não devedor, exigiria reexaminar se o bem é divisível, se a penhora da fração inviabiliza a moradia e qual a extensão do direito do terceiro. Tal procedimento é vedado pela Súmula 7/STJ.
+Assim, em que pese o esforço argumentativo, entendo que a ausência de qualquer novo subsídio trazido pelo agravante, capaz de alterar os fundamentos da decisão ora agravada, faz subsistir incólume o entendimento nela firmado.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
