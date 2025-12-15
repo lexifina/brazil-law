@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/12/2025 a 15/12/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. COMPROVAÇÃO DE PAGAMENTO. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. É inviável rever o entendimento firmado pelas instâncias ordinárias sem a análise dos fatos e das provas da causa, o que atrai a incidência da Súmula nº 7/STJ.
+2. Agravo conhecido para não conhecer do recurso especial.
+RELATÓRIO
+Trata-se de agravo interposto por AIRVELTON MACHADO contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado de Goiás assim ementado:
+"Ementa: Direito processual civil. Apelação cível. Ação monitória. Pagamento parcial da dívida. Comprovação por transferências bancárias. Reconhecimento do pagamento pelo autor. Abatimento do valor pago. Recurso parcialmente provido. I. Caso em exame 1. Trata-se de apelação cível interposta contra sentença que julgou procedente ação monitória, condenando o apelante ao pagamento de dívida representada por nota promissória. O apelante alegou em embargos monitórios ter pago parcialmente a dívida por meio de transferências bancárias, mas o juiz de primeiro grau entendeu que os comprovantes de depósitos não eram suficientes para comprovar a quitação. II. Questão em discussão 2. A questão em discussão consiste em saber se os comprovantes de
+depósitos realizados pelo apelante são suficientes para comprovar o pagamento da dívida. III. Razões de decidir 3. O apelante comprovou os pagamentos por meio de transferências bancárias e o próprio autor em sua impugnação aos embargos monitórios, reconheceu que os valores referiam-se à dívida objeto da ação monitória. 4. A legislação civil exige quitação por escrito, mas a jurisprudência admite a comprovação do pagamento por outros meios, como extratos bancários, desde que haja prova do vínculo entre os pagamentos e a dívida. IV. Dispositivo e tese 5. Recurso parcialmente provido. "1. Os comprovantes de depósitos realizados pelo apelante são suficientes para comprovar o pagamento parcial da dívida, uma vez que o autor reconheceu que os valores referiam-se à dívida objeto da ação monitória. 2. Os valores pagos devem ser abatidos da dívida, com aplicação de juros convencionais do Código Civil."" (e-STJ fl. 175)
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 208/216).
+No recurso especial, o recorrente alega violação do art. 320 do Código Civil, haja vista a exigência de recibo/entrega do título para provar quitação.
+Após a juntada das contrarrazões (e-STJ fls. 240/246), o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. COMPROVAÇÃO DE PAGAMENTO. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. É inviável rever o entendimento firmado pelas instâncias ordinárias sem a análise dos fatos e das provas da causa, o que atrai a incidência da Súmula nº 7/STJ.
+2. Agravo conhecido para não conhecer do recurso especial.
+VOTO
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+No caso concreto, o Tribunal de origem, ao julgar a apelação, reconheceu parcialmente o pedido recursal, concluindo, à luz do conjunto probatório, que ficou demonstrada a realização de transferências bancárias do réu em favor do autor, bem como o reconhecimento expresso deste de que os valores depositados correspondiam à dívida objeto da ação monitória.
+Constatou, ainda, a existência de nexo entre os pagamentos e o débito, motivo pelo qual assentou ter havido pagamento parcial e consequente abatimento do saldo devedor, conforme se verifica do seguinte excerto do acórdão recorrido:
+"(..)
+Em compulso aos autos, é possível constatar que razão possui o Apelante, quanto a comprovação do pagamento da dívida via transferência bancária, visto que o Autor/apelado, ao impugnar os embargos monitórios (mov. 17), reconheceu que os valores são referentes a dívida cobrada. Vejamos: "Primeiro é preciso estabelecer que os pagamentos referidos pelo embargante nos valores de R$415,00 (20.01.2020 / 03.03.2020 / 13.04.2020); R$300,00 (23.05.2020 / 29.06.2020 / 31.07.2020 / 31 .08.2020 / 05.1 1.2020 / 27.1 1.2020 / 11.12.2020 - duas vezes); e, R$500,0 (28.03.2021) totalizando a quantia de R$4.145,00 (quatro mil, cento e quarenta e cinco reais) não se refere ao pagamento do título de crédito cobrado, mas de juros remuneratórios pactuados pelo tempo que o credor/embargado ficou privado de seu capital." Assim, é possível constatar que os pagamentos são referentes a nota promissória, visto que na impugnação aos embargos, o próprio autor confessa que os juros dizem respeito à monitoria. (..) Assim, tendo o Apelado na impugnação aos embargos, confessado que os pagamentos são juros referentes à monitoria, restou demonstrado pelo Apelante a comprovação do pagamento, devendo esses valores serem abatidos na dívida, com aplicação de juros convencionais do Código Civil, a serem apurados pela contadoria" (e-STJ fls. 180/183).
+Com efeito, rever o entendimento firmado pelas instâncias ordinárias de que houve efetivo pagamento demandaria o reexame dos fatos e das provas dos autos, o que é inviável no recurso especial pelo óbice da Súmula nº 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 10% (dez por cento) sobre o proveito econômico alcançado pela parte embargante, os quais devem ser majorados para o patamar de 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+É o voto.
