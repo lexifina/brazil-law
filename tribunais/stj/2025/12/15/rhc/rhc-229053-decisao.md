@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por José Pereira da Fonseca Filho contra o acórdão proferido pelo Tribunal de Justiça do Mato Grosso que, nos autos do HC n. 1035537-86.2025.8.11.0000, por meio do qual se julgou extinto o feito, sem exame do mérito, mantendo-se, em síntese, a regressão de regime do aberto para o semiaberto e a higidez do trânsito em julgado da nova condenação (Ação Penal n. 1012342-97.2024.8.11.0003, 3ª Vara Criminal da comarca de Rondonópolis/MT).
+O recorrente alega, em síntese, que a condenação por porte ilegal de arma de fogo (art. 14 da Lei n. 10.826/2003), por fato de 2024, foi considerada transitada em julgado sem sua intimação pessoal, embora estivesse cumprindo pena privativa de liberdade em regime aberto, o que lhe ceifou o direito de apelar. Afirma ter tomado ciência apenas quando foi intimado para colocação de tornozeleira eletrônica e que, ao procurar a Defensoria Pública, já se encontrava consumado o prazo recursal.
+Alega, em síntese, que, a partir desse trânsito em julgado irregular, houve unificação de penas e regressão do regime do aberto para o semiaberto, com antecipação de execução da nova reprimenda, violando o devido processo legal, o contraditório e a ampla defesa.
+Sustenta que a nova pena foi fixada em 2 anos e 3 meses de reclusão, e 11 dias-multa, e que jamais foi intimado dessa condenação.
+Afirma que, apesar de assistido pela Defensoria Pública, não foi informado da sentença e da possibilidade de recorrer, o que afronta o art. 5º, inciso LV, da Constituição Federal.
+Aduz ser imprescindível a intimação pessoal do sentenciado para a ciência da sentença condenatória, invocando o art. 392, I, do Código de Processo Penal.
+Argumenta prejuízo concreto, pois pretendia apresentar apelação contra a sentença, mas foi impedido pelo vício de intimação e pela certificação do trânsito sem sua ciência pessoal; além disso, menciona que a Defensoria Pública requereu sua intimação pessoal, pedido que não teria sido analisado antes da certificação.
+Menciona, por fim, condições pessoais favoráveis - trabalho lícito como barbeiro, matrícula em curso superior e participação religiosa - que evidenciam ressocialização e reforçam a desproporcionalidade da manutenção em regime mais gravoso, especialmente diante da apontada nulidade do título executivo.
+Pede, liminarmente, a concessão da ordem para suspender os efeitos executórios derivados do trânsito em julgado impugnado, em especial a unificação das penas e a regressão de regime; e, no mérito, o conhecimento e provimento do recurso ordinário para reformar a decisão que extinguiu o writ na origem, reconhecendo a nulidade do trânsito em julgado por ausência de intimação pessoal e reabrindo o prazo recursal, com restauração do regime aberto (fls. 118/130).
+É o relatório.
+A concessão de ordem de habeas corpus ou o provimento do respectivo recurso ordinário demanda demonstração da ilegalidade, ônus que recai sobre a parte impetrante, a quem cumpre instruir o feito com a prova pré-constituída de suas alegações.
+In casu, verifico, de plano, a inviabilidade do presente recurso.
+O Tribunal local não acolheu a alegação de nulidade aos seguintes termos (fl. 107):
+3. No intuito de prestigiar o sistema recursal, firmou-se na jurisprudência a inadmissão da impetração de como sucedâneo recursal, sem prejuízo, em contrapartida, da habeas corpus concessão da ordem de ofício, se restar comprovada de plano a flagrante ilegalidade que atinja o direito de locomoção do paciente.
+4. A regressão de regime em decorrência do cometimento de novo crime doloso no curso da execução (falta grave) dispensa a realização da audiência de justificação (art. 118, §2º, da LEP), quando se trata de ilícito apurado em processo de conhecimento autônomo, com cognição exauriente e respeito ao contraditório e à ampla defesa, que culminou na condenação, agora já transitada em julgado (Tema n. 758/STF).
+5. O paciente que cumpre pena em regime aberto equipara-se a réu solto para fins processuais. Destarte, a intimação da sentença condenatória rege-se pelo art. 392, II, do CPP, sendo válida e suficiente a intimação da defesa técnica, e dispensando-se a intimação pessoal do sentenciado. Aperfeiçoado o ato com a ciência da defesa, e transcorrido o prazo recursal, o trânsito em julgadoin albis revela-se hígido.
+6. Inexistindo flagrante ilegalidade, abuso de poder ou constrangimento ilegal, não se justifica a concessão da ordem de ofício.
+Nos termos da jurisprudência pacífica deste Tribunal Superior, interpretando estritamente o art. 392, I e II, do Código de Processo Penal, a intimação da sentença condenatória, em se tratando de réu solto, perfaz-se com a intimação do defensor constituído e, em se tratando de réu preso, pessoalmente.
+Nesse sentido: RHC n. 105.815/GO, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 8/4/2019.
+Seguindo a mesma orientação: AgRg no REsp n. 1.710.551/SP, Ministro Felix Fischer, Quinta Turma, DJe 3/10/2018; RHC n. 66.996/RR, Ministro Ribeiro Dantas, Quinta Turma, DJe 28/8/2017; e RHC n. 74.553/RJ, Ministro Felix Fischer, Quinta Turma, DJe 18/8/2017.
+In casu, não há ilegalidade a ser saneada, pois o recorrente se encontrava solto, em regime aberto, e o seu advogado foi regularmente intimado.
+Ante o exposto, nego provimento ao recurso em habeas corpus .
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. PROCESSO PENAL. INTIMAÇÃO DA SENTENÇA. ALEGAÇÃO DE NULIDADE. ART. 392, I E II, DO CPP. RECORRENTE SOLTO. REGIME ABERTO. ADVOGADO INTIMADO.
+Recurso em habeas corpus improvido.
