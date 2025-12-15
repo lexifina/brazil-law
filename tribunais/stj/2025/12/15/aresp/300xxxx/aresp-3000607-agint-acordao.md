@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/12/2025 a 15/12/2025, por unanimidade, dar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO. SENTENÇA. IMPUGNAÇÃO. LAUDO PERICIAL. HOMOLOGAÇÃO. PREQUESTIONAMENTO. AUSÊNCIA. REEXAME DE PROVAS. IMPOSSIBILIDADE. FUNDAMENTAÇÃO RECURSAL. DEFICIÊNCIA. SÚMULAS Nº 7, 211/STJ E 284/STF.
+1. Apesar de opostos embargos de declaração com a finalidade de sanar omissão, a parte recorrente não indicou a contrariedade ao art. 1.022 do Código de Processo Civil nas razões do especial, atraindo a incidência da Súmula nº 211/STJ.
+2. É deficiente a fundamentação recursal quando a linha argumentativa desenvolvida pela parte insurgente se revela incapaz de evidenciar o malferimento da legislação federal invocada a partir da moldura fática assentada pelo acórdão recorrido. Incidência da Súmula nº 284/STF.
+3. Na hipótese, o tribunal de origem concluiu que a parte recorrente não comprovou o alegado excesso de execução no caso concreto, não cabendo a esta Corte Superior adentrar ao conteúdo fático estabelecido nos autos para concluir em sentido diverso, a teor da Súmula nº 7/STJ.
+4. Agravo interno provido para, reconsiderando a decisão de e-STJ fls. 270/271, conhecer do agravo para não conhecer do recurso especial.
+RELATÓRIO
+Trata-se de agravo interno, com pedido de efeito suspensivo, interposto por BANCO BMG S.A. contra a decisão da Presidência desta Corte de Justiça (e-STJ fls. 270/271), que não conheceu do agravo em recurso especial em virtude da ausência de impugnação de todos os fundamentos da decisão agravada.
+Nas presentes razões, a agravante sustenta que, ao contrário do que foi consignado na decisão agravada, o seu recurso de agravo em recurso especial "impugnou especificamente a decisão de inadmissibilidade, tendo em termos expressos, demonstrado a não incidência da Súmula 7/STJ, bem como, concessa vênia, a flagrante inobservância aos artigos aos artigos 835, §2º 4 e 537, §1º 5 do Código Civil" (e-STJ, fl. 281).
+Ao final, requer o provimento, bem como o empréstimo de efeito suspensivo ao recurso.
+Impugnação às e-STJ fls. 291/296.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO. SENTENÇA. IMPUGNAÇÃO. LAUDO PERICIAL. HOMOLOGAÇÃO. PREQUESTIONAMENTO. AUSÊNCIA. REEXAME DE PROVAS. IMPOSSIBILIDADE. FUNDAMENTAÇÃO RECURSAL. DEFICIÊNCIA. SÚMULAS Nº 7, 211/STJ E 284/STF.
+1. Apesar de opostos embargos de declaração com a finalidade de sanar omissão, a parte recorrente não indicou a contrariedade ao art. 1.022 do Código de Processo Civil nas razões do especial, atraindo a incidência da Súmula nº 211/STJ.
+2. É deficiente a fundamentação recursal quando a linha argumentativa desenvolvida pela parte insurgente se revela incapaz de evidenciar o malferimento da legislação federal invocada a partir da moldura fática assentada pelo acórdão recorrido. Incidência da Súmula nº 284/STF.
+3. Na hipótese, o tribunal de origem concluiu que a parte recorrente não comprovou o alegado excesso de execução no caso concreto, não cabendo a esta Corte Superior adentrar ao conteúdo fático estabelecido nos autos para concluir em sentido diverso, a teor da Súmula nº 7/STJ.
+4. Agravo interno provido para, reconsiderando a decisão de e-STJ fls. 270/271, conhecer do agravo para não conhecer do recurso especial.
+VOTO
+Em uma reanálise dos autos, observa-se que, de fato, houve a impugnação específica aos fundamentos da decisão agravada. Dessa forma, reconsidero a decisão proferida pela Presidência do Superior Tribunal de Justiça (e-STJ fls. 270/271), passando a novo exame da irresignação.
+Trata-se de agravo contra a decisão que inadmitiu o recurso especial, fundamentado no artigo 105, III, alínea "a" da Constituição Federal, que se insurge contra o acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro assim ementado:
+"Agravo de instrumento. Impugnação ao cumprimento de sentença. Cálculos elaborados por perito de confiança do Juízo e em estrita observância ao julgado, na forma do artigo 473 do Código de Processo Civil. Trabalho técnico que assume relevo preponderante. Recurso desprovido." (e-STJ fl. 117).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 137/138).
+Nas razões do recurso especial, o recorrente sustenta, além da divergência jurisprudencial, violação dos arts. 370, 427, §2º, I, e 525, §1º, I, do Código de Processo Civil de 2015, sustentando, em síntese, que o acórdão recorrido homologou laudo pericial elaborado em desacordo com os parâmetros fixados na sentença.
+Não foram apresentadas c  ontrarrazões (e-STJ, fl. 158).
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+Inicialmente, verifica-se que as matérias versadas nos dispositivos apontados como violados no recurso especial não foram objeto de debate pelas instâncias ordinárias, sequer de modo implícito, e, apesar de opostos embargos declaratórios, nada foi decidido acerca da matéria.
+A despeito disso, não foi alegada a violação do art. 1.022 do Código de Processo Civil, com a finalidade de sanar omissão porventura existente. Por esse motivo, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+A propósito:
+"(..) A ausência de debate no acórdão recorrido quanto ao tema suscitado no recurso especial evidencia a falta de prequestionamento, admitindo-se o prequestionamento ficto apenas na hipótese em que não sanada a omissão no julgamento de embargos de declaração e suscitada a ofensa ao art. 1.022 do NCPC no recurso especial, o que não é o caso dos autos" (AgInt no AREsp n. 1.834.881/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 17/10/2022, DJe de 19/10/2022).
+Além disso, a linha argumentativa desenvolvida pela parte insurgente quanto ao cálculo homologado na origem se revela incapaz de evidenciar o malferimento da legislação federal invocada a partir da moldura fática assentada pelo acórdão recorrido, o que atrai a incidência da Súmula nº 284/STF à espécie.
+Como se sabe, tendo o acórdão recorrido sido categórico ao afirmar que "os alegados equívocos nos cálculos foram afastados pelo perito. Ademais, as afirmações do embargante estão desacompanhadas de provas ou laudo crítico" (e-STJ, fl. 138), não cabe a esta Corte Superior adentrar ao conteúdo fático estabelecido nos autos para concluir em sentido diverso. De fato, a revisão desse entendimento demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inviável ante a natureza excepcional da via eleita, consoante disposto na Súmula nº 7/STJ.
+Nesse sentido:
+"PROCESSUAL CIVIL. CIVIL. AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. INDENIZAÇÃO. PROMESSA DE COMPRA E VENDA. IMÓVEL QUE NÃO CUMPRE AS ESPECIFICAÇÕES CONTRATUAIS. DEFICIÊNCIA DA FUNDAMENTAÇÃO RECURSAL. CONTROVÉRSIA DIRIMIDA À LUZ DO CONTRATO E DAS CIRCUNSTÂNCIAS DO CASO CONCRETO. REEXAME. INVIABILIDADE. SÚMULAS NºS 283 E 284 DO STF E 5 E 7 DO STJ. RECURSO INCAPAZ DE MODIFICAR AS CONCLUSÕES DA DECISÃO AGRAVADA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Conforme destacado na decisão ora agravada, o pressuposto da tese recursal - o excesso da execução - não foi reconhecido pelo acórdão recorrido, o que esvazia completamente a pretensão deduzida, especialmente porque esta Corte Superior toma os fatos assim como delineados na origem.
+2. Além disso, o Tribunal de origem, ao analisar o acervo fático-probatório dos autos, concluiu que o Recorrente não logrou demonstrar a existência de ameaça real e iminente aos bens ou à estabilidade financeira que permita a concretização do risco até então abstrato.
+3. Logo, não tendo o Tribunal estadual reconhecido o suporte fático invocado pelo recorrente, inexorável a conclusão sobre a necessidade de revolvimento dos elementos de convicção dos autos para a alteração do julgamento realizado na origem, procedimento sabidamente vedado em recurso especial, a teor do óbice contido na Súmula nº 7 do STJ.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo regimental não provido." (AgRg no AREsp n. 755.512/SC, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 4/2/2016, DJe de 12/2/2016)
+Ante o exposto, dou provimento ao agravo interno para reconsiderar a decisão da Presidência de e-STJ fls. 270/271 e, em novo exame, conheço do agravo para não conhecer do recurso especial, julgando, ainda, prejudicado o pedido de concessão de liminar para emprestar efeito suspensivo ao recurso.
+Na hipótese, não cabe a majoração dos honorários sucumbenciais prevista no art. 85, § 11, do Código de Processo Civil, pois o recurso tem origem em decisão interlocutória, sem a prévia fixação de honorários.
+É o voto.
