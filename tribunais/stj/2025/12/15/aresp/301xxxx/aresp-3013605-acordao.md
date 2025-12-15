@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/12/2025 a 15/12/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. FUNDAMENTAÇÃO RECURSAL. DEFICIÊNCIA. PROVA. REEXAME. IMPOSSIBILIDADE. DISSIDIO JURISPRUDENCIAL PREJUDICADO. SÚMULAS nº 7/STJ e nº 283/STF. INCIDÊNCIA.
+1. A subsistência de fundamento não impugnado apto a manter a conclusão do aresto recorrido impõe o não conhecimento da pretensão recursal. Súmula nº 283/STF.
+2. A revisão das conclusões tomadas pelo acórdão recorrido demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inviável ante a natureza excepcional da via eleita, a teor do disposto na Súmula nº 7/STJ.
+3. Os óbices que impedem o exame do especial pela alínea a prejudicam a análise do recurso interposto pela alínea "c" do permissivo constitucional para discutir a mesma matéria
+4. Agravo conhecido não conhecer do recurso especial.
+RELATÓRIO
+Trata-se de agravo interposto por UP BRASIL ADMINISTRAÇÃO E SERVIÇOS LTDA. contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no art. 105, III, alíneas "a" e "c", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de Rio Grande do Norte, assim ementado:
+"EMENTA: PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. DECISÃO INTERLOCUTÓRIA PROFERIDA EM SEDE DE CUMPRIMENTO PROVISÓRIO. DECISÃO SINGULAR QUE REJEITOU O PEDIDO DE DECLARAÇÃO DE NULIDADE ABSOLUTA. PRETENSÃO RECURSAL DE SUSPENSÃO DA TRAMITAÇÃO DO PROCESSO DE ORIGEM. ALEGAÇÃO DE NULIDADE, POR FALTA DE INTIMAÇÃO. AUSÊNCIA DE JUNTADA DE SUBSTABELECIMENTO DO ATUAL PATRONO DA RECORRENTE. RECURSO CONHECIDO E DESPROVIDO. PREJUDICADO O EXAME DO AGRAVO INTERNO" (e-STJ fl. 423 - grifou-se).
+No recurso especial (e-STJ fls. 428-441), a recorrente alega, além de divergência jurisprudencial, violação ao art. 272, § 5º, do Código de Processo Civil.
+Sustenta, em síntese, que os atos posteriores à juntada do substabelecimento e formulação de pedido de intimações exclusivas do atual patrono são nulos ante a não observância do mencionado requerimento.
+Com as contrarrazões (e-STJ fls. 468-471), o recurso especial não foi admitido na origem (e-STJ fls. 472-475), dando ensejo à interposição do presente agravo.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. FUNDAMENTAÇÃO RECURSAL. DEFICIÊNCIA. PROVA. REEXAME. IMPOSSIBILIDADE. DISSIDIO JURISPRUDENCIAL PREJUDICADO. SÚMULAS nº 7/STJ e nº 283/STF. INCIDÊNCIA.
+1. A subsistência de fundamento não impugnado apto a manter a conclusão do aresto recorrido impõe o não conhecimento da pretensão recursal. Súmula nº 283/STF.
+2. A revisão das conclusões tomadas pelo acórdão recorrido demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inviável ante a natureza excepcional da via eleita, a teor do disposto na Súmula nº 7/STJ.
+3. Os óbices que impedem o exame do especial pela alínea a prejudicam a análise do recurso interposto pela alínea "c" do permissivo constitucional para discutir a mesma matéria
+4. Agravo conhecido não conhecer do recurso especial.
+VOTO
+Presentes os pressupostos de admissibilidade do agravo, passa-se à análise do recurso especial.
+A insurgência não merece prosperar.
+No que tocante à ofensa ao art. 272, § 5º Código de Processo Civil, verifica-se que o Colegiado estadual julgou a lide com base na análise do substrato fático-probatório dos autos, concluindo que
+"( )
+Em análise dos autos, vão vislumbro a probabilidade do direito defendido pela ora recorrente, já que, em atenta consulta aos autos originários (cumprimento provisório), de fato, como bem destacado na decisão impugnada, não houve a juntada do substabelecimento do atual patrono da agravante, tendo este se limitado apenas à sua juntada, no 1º grau de jurisdição, nos autos da ação ordinária, quando esta, inclusive, já havia sido remetida ao 2º grau, para apreciação do recurso de apelação que fora interposto.
+Logo, não se constata qualquer imprecisão ou evidente nulidade que enseje o acatamento da tese levantada pela ora agravante, mostrando-se clara a desídia do seu patrono.
+Não bastasse, é de se destacar a oportunização da juntada do substabelecimento antes da exclusão do nome do patrono no cadastro, situação que, a meu ver, afasta o alegado prejuízo quanto à ciência dos atos processuais." (e-STJ fl. 425 - grifou-se)
+Tais fundamentos não foram impugnados pelo recorrente em suas razões recursais, que ao persistirem incólumes, mostram-se suficientes para a manutenção do julgado, circunstância que atrai ao caso a aplicação, por analogia, da Súmula nº 283/STF.
+A propósito:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO PAULIANA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DOS DEMANDADOS.
+1. Não cabe ao Superior Tribunal de Justiça, em sede de recurso especial, o exame de eventual ofensa a dispositivo da Constituição Federal, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal.
+2. É inadmissível o recurso especial que não impugna fundamento do acórdão recorrido apto, por si só, a manter a conclusão a que chegou a Corte Estadual (enunciado 283 da Súmula do STF).
+3. A falta de indicação, pela parte recorrente, de quais dispositivos legais teriam sido violados pelo acórdão recorrido implica em deficiência da fundamentação do recurso especial, incidindo o teor da Súmula 284 do STF, por analogia.
+4. Agravo interno desprovido." (AgInt nos EDcl no AREsp 2.850.084/SC, relator Ministro Marco Buzzi, Quarta Turma, julgado em 15/9/2025, DJEN de 23/9/2025 - grifou-se)
+Ademais, a reversão das conclusões do Tribunal de origem acerca da higidez das intimações e atos processuais ensejaria o necessário reexame da matéria fático probatória dos autos, atraindo, por conseguinte, a incidência da Súmula nº 7/STJ.
+Anota-se, por fim, que a aplicação da Súmula nº 7/STJ em relação ao recurso especial interposto pela alínea "a" do permissivo constitucional prejudica a análise da mesma matéria indicada no dissídio jurisprudencial.
+Quanto ao tema:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE NEGÓCIO JURÍDICO C/C INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. INVIABILIDADE. SÚMULA N. º 7 DO STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO INTERNO NÃO PROVIDO.
+1. Rever as conclusões do Tribunal estadual sobre vícios de consentimento e transferência fraudulenta do imóvel exigiria reexame de provas, o que é vedado em recurso especial, conforme a Súmula nº 7 do STJ.
+2. A necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea a quanto pela alínea c do permissivo constitucional.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+3. Agravo interno não provido."
+(AgInt nos EDcl no AREsp 2.769.308/GO, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 22/9/2025, DJEN de 26/9/2025 - grifou-se)
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO E PROCESSUAL CIVIL. CONTRIBUIÇÃO PARA O CUSTEIO DE SERVIÇO DE ILUMINAÇÃO PÚBLICA. VIOLAÇÃO AO ART. 368 DO CC. INCIDÊNCIA DAS SÚMULAS N. 5 E N. 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AFRONTA AO ART. 6º, § 1º, DA LEI N. 8.987/1995. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211/STF. PLEITO DE IMPOSIÇÃO DA MULTA DO ART. 1.021, § 4º, DO CPC/2015 VEICULADO NAS CONTRARRAZÕES. INVIABILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. Assentada pela Corte de origem a ausência de previsão contratual no sentido da possibilidade de retenção dos valores de contribuição para custeio de iluminação pública, com vistas a compensar os débitos Municipais relativos ao fornecimento de iluminação pública, para acolher a pretensão recursal seria necessária a interpretação de cláusula contratual, além do imprescindível revolvimento de matéria fática, procedimentos defesos na via do recurso especial, à luz dos óbices contidos nas Súmulas n. 5 e n. 7 do Superior Tribunal de Justiça.
+2. É pacífico o entendimento do Superior Tribunal de Justiça "de que os mesmos óbices impostos à admissão do recurso pela alínea "a" do permissivo constitucional impedem a análise recursal pela alínea "c", ficando prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica" (AgInt no AREsp n. 2.191.927/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJe de 23/8/2024).
+3. Quanto à alegada violação ao art. art. 6º, § 1º, da Lei 8.987/1995, verifica-se não ter sido objeto de exame pela instância ordinária, sob a ótica pretendida pela recorrente, mesmo após a interposição de embargos declaratórios, razão pela qual incide na espécie a Súmula n. 211/STJ, ante a ausência do necessário prequestionamento viabilizador do recurso especial, requisito indispensável ao acesso às instâncias excepcionais.
+4. Esta Corte Superior de Justiça entende, "para que seja reconhecido o prequestionamento ficto de que trata o art. 1.025 do CPC/2015, na via do especial, impõe-se a indicação e o reconhecimento pelo STJ de ofensa ao art. 1.022 do CPC/2015 especificamente quanto à questão que se pretende ver analisada, o que não se constata no caso" (AgInt no AREsp n. 2.178.881/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 9/6/2025, DJEN de 25/6/2025).
+5. A aplicação da sanção prevista no § 4º do art. 1.021 do CPC/2015 não é automática, porquanto a condenação da parte agravante ao pagamento da multa - a ser analisada em cada caso concreto, em decisão fundamentada - pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não se verifica na hipótese examinada.
+6. Agravo interno desprovido." (AgInt nos EDcl no AREsp 2.665.676/PE, relator Ministro Marco Aurélio Bellizze, Segunda Turma, julgado em 24/9/2025, DJEN de 1/10/2025 - grifou-se)
+"AGRAVOS EM RECURSOS ESPECIAIS. AÇÃO INDENIZATÓRIA. DANO MORAL. QUANTIA ARBITRADA. IRRISORIEDADE. NÃO OCORRÊNCIA. REVISÃO. IMPOSSIBILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA Nº 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. ATROPELAMENTO. VIA FÉRREA. MORTE. VÍTIMA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OMISSÃO NÃO VERIFICADA. CULPA EXCLUSIVA DA VÍTIMA. NÃO COMPROVADA. REVISÃO DE PROVAS. SÚMULA Nº 7/STJ.
+1. Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização arbitrado na origem, a jurisprudência desta Corte permite o afastamento do referido óbice para possibilitar a revisão. No caso, o valor estabelecido pelo Tribunal de origem não se mostra irrisório, a justificar a reavaliação, em recurso especial, da verba indenizatória fixada.
+2. A aplicação da Súmula nº 7/STJ em relação ao recurso especial interposto pela alínea "a" do permissivo constitucional prejudica a análise da mesma matéria indicada no dissídio jurisprudencial.
+3. Não viola os arts. 489 e 1.022 do Código de Processo Civil nem importa deficiência na prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, para decidir de modo integral a controvérsia posta.
+4. Rever questão relativa à culpa da vítima no acidente esbarra no óbice da Súmula nº 7 do Superior Tribunal de Justiça, porquanto decidida pelas instâncias ordinárias com base no exame das circunstâncias fáticas da causa.
+5. A jurisprudência pacífica desta Corte é no sentido de que a revisão do quantitativo em que autor e réu decaíram do pedido para fins de aferição de sucumbência recíproca ou mínima implica reexame de matéria fático-probatório, incidindo a Súmula nº 7/STJ.
+6. A jurisprudência pacífica do Superior Tribunal de Justiça é no sentido de que a incidência da Súmula nº 7/STJ obsta a admissão do recurso por quaisquer das alíneas do permissivo constitucional.
+7. Agravos conhecidos para conhecer em parte do recurso especial da SUPERVIA CONCESSIONARIA DE TRANSPORTE FERROVIARIO S/A - EM RECUPERACAO JUDICIAL e, nessa extensão, negar-lhe provimento e para não conhecer do recurso especial de M. DE S. S. DOS S." (AREsp 2.958.971/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 29/9/2025, DJEN de 2/10/2025 - grifou-se)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na hipótese, não cabe a majoração dos honorários sucumbenciais prevista no art. 85, § 11, do Código de Processo Civil, pois o recurso tem origem em decisão interlocutória, sem a prévia fixação de honorários.
+É o voto.
