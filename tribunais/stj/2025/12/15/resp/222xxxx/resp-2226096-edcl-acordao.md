@@ -1,0 +1,78 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/12/2025 a 15/12/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Daniela Teixeira, Nancy Andrighi, Humberto Martins e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. BANCO DE DADOS. VIOLAÇÃO DO ART. 1.022 DO NCPC. OMISSÕES. NÃO VERIFICADAS. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição eventualmente existentes no julgado combatido, bem como corrigir erro material.
+2. Não foi demonstrado nenhum vício no acórdão embargado a ensejar a integração do julgado, tampouco foi comprovado qualquer erro material.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por BOA VISTA SERVIÇOS S.A. (BOA VISTA), contra acórdão de minha relatoria, assim ementado:
+CIVIL. RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. BANCO DE DADOS. DISPONIBILIZAÇÃO DE DADOS PESSOAIS. CONSENTIMENTO. AUSÊNCIA. DANO MORAL PRESUMIDO. RECURSO ESPECIAL PROVIDO.
+1. A disponibilização de dados, ainda que não sensíveis, por gestor de banco de dados a terceiros, sem consentimento do cadastrado, gera dano moral presumido.
+2. Recurso especial provido (e-STJ, fl. 333).
+Nas razões do presente inconformismo, defendeu que (1) o acórdão embargado foi omisso quanto à ausência de hierarquia entre as hipóteses de tratamento de dados, sendo que há possibilidade de tratamento de dados para proteção do crédito, independentemente de consentimento; e (2) o acórdão embargado foi omisso quanto ao fato de que não se trata de informação de adimplemento, não se aplicando a Lei nº 12.414/11 referente ao Cadastro Positivo (e-STJ, fls. 1.612/1.614).
+Não foi apresentada contraminuta.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. BANCO DE DADOS. VIOLAÇÃO DO ART. 1.022 DO NCPC. OMISSÕES. NÃO VERIFICADAS. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição eventualmente existentes no julgado combatido, bem como corrigir erro material.
+2. Não foi demonstrado nenhum vício no acórdão embargado a ensejar a integração do julgado, tampouco foi comprovado qualquer erro material.
+3. Embargos de declaração rejeitados.
+VOTO
+O recurso não merece acolhimento.
+O inconformismo agora manejado não merece acolhimento em virtude da ausência dos vícios previstos no art. 1.022 do NCPC.
+De acordo com a jurisprudência desta Corte, a contradição ou obscuridade remediáveis por embargos de declaração são aquelas internas ao julgado embargado, devidas à desarmonia entre a fundamentação e as conclusões da própria decisão.
+Já a omissão que enseja o oferecimento de embargos de declaração consiste na falta de manifestação expressa sobre algum fundamento de fato ou de direito ventilado nas razões recursais e sobre o qual deveria manifestar-se o juiz ou o tribunal e que, nos termos do NCPC, é capaz, por si só, de infirmar a conclusão adotada para o julgamento do recurso (arts. 1.022 e 489, § 1º, do NCPC).
+Contudo, sem razão.
+Constou de forma expressa no acórdão embargado que esta Terceira Turma, debruçando-se sobre a temática, firmou entendimento de que a disponibilização de dados pessoais, mesmo que não sensíveis, por gestor de banco de dados, a terceiros, sem consentimento do consumidor, enseja dano moral. A propósito:
+Nas razões do presente recurso, SILVANA alegou que a divulgação e comercialização de dados pessoais sem consentimento do cadastrado viola direitos da personalidade.
+Sobre o tema o Tribunal estadual consignou que a disponibilização de dados pessoais não sensíveis independe do prévio consentimento do consumidor. Confira-se:
+Narra a autora que por meio de consulta paga verificou a comercialização de seus dados pessoais nas plataformas "Acerta Essencial", "Acerta Intermediário", "Acerta Completo" e "DATAPLUS", todos disponibilizados pela ré, SCPC Boa Vista (fls. 76/78).
+Afirma que não autorizou a divulgação de seus dados pessoais, nem foi comunicada de que estariam sendo comercializados pela ré. Ainda, relata que as informações disponibilizadas pela ré excedem o necessário para avaliação de risco de crédito, tudo a constituir violação de seu direito à intimidade, caracterizando, assim, dano moral.
+ ..
+Partindo-se de tal premissa e analisando o documento de fls. 76/78, fácil verificar que a ré não cadastrou ou disponibilizou dados sensíveis ou sigilosos da consumidora, registrando apenas aqueles necessários à avaliação de risco de crédito e comumente disponibilizados pelo próprio consumidor ao adquirir bens e serviços.
+Ademais, no julgamento do Tema nº 710 (REsp 1419697/RS) o C. Superior Tribunal de Justiça firmou o entendimento de que o sistema de score de crédito não constitui banco de dados, de modo que o cadastro dispensa o prévio consentimento do consumidor. Posteriormente, tal entendimento foi consolidado pela Súmula nº 550 do C. Superior Tribunal de Justiça:
+ ..
+De acordo com o próprio site das plataformas em questão, os serviços ali fornecidos se destinam à análise de crédito e confirmação de dados e, portanto, configuram sistema de score de crédito ao qual não se aplica o entendimento firmado no julgamento do REsp n. 1.758.799/MG.
+Assim sendo, não se verifica qualquer violação de sigilo ou necessidade de prévio consentimento ou mesmo abusividade que pudesse ensejar a reparação moral pretendida (e-STJ, fl. 247/248 - sem destaque no original).
+No particular, ao consignar que não houve comercialização indevida de dados pessoais da embargante. Assim, porquanto os dados cadastrados e disponibilizados nas plataformas da embargada (fls. 76/78) não são caracterizados como "sensíveis" ou "sigilosos" da consumidora embargante (art. 5º, II, Lei nº 13.709/2018), "registrando apenas aqueles necessários à avaliação de risco de crédito e comumente disponibilizados pelo próprio consumidor ao adquirir bens e serviços" (fls. 247) (e-STJ, fl. 267 - destaque no original).
+Todavia, esta Terceira Turma firmou entendimento de que a disponibilização de dados pessoais, ainda que não sensíveis, por gestor de banco de dados a terceiros, sem consentimento do cadastrado, gera dano moral presumido.
+No referido julgamento, esclareceu-se que a questão é diversa da retratada no precedente relativo a credit scoring, previsto na Lei nº 12.414/2011, que dispõe acerca da formação e consulta de banco de dados com informações de pagamento para formação de histórico de crédito.
+Tais dados apenas podem ser compartilhados com outros bancos de dados, ante a existência de autorização legal e regulamentar, de modo que a disponibilização a terceiro consulente depende de expressa autorização da pessoa cadastrada.
+Confira-se o precedente:
+CIVIL, CONSUMIDOR E PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS. TEMA 710 E SÚMULA 550 DO STJ. CREDIT SCORING. DISTINÇÃO. BANCO DE DADOS REGIDO PELA LEI Nº 12.414/2011. TRATAMENTO E ABERTURA DO CADASTRO SEM CONSENTIMENTO. POSSIBILIDADE. COMUNICAÇÃO. NECESSIDADE. DISPONIBILIZAÇÃO DOS DADOS DO CADASTRADO. HIPÓTESES PREVISTAS NA LEI Nº 12.414/2011. INFORMAÇÕES CADASTRAIS E DE ADIMPLEMENTO. POSSIBILIDADE DE COMPARTILHAMENTO APENAS A OUTROS BANCOS DE DADOS. RESTRIÇÃO LEGAL QUANTO AOS DADOS QUE PODEM SER DISPONIBILIZADOS A TERCEIROS CONSULENTES. INOBSERVÂNCIA QUANTO AOS DEVERES LEGAIS DE TRATAMENTO DE DADOS PELO GESTOR DE BANCO DE DADOS. DISPONIBILIZAÇÃO INDEVIDA DE DADOS DO CADASTRADO. DANO MORAL PRESUMIDO. RESPONSABILIDADE OBJETIVA DO GESTOR DE BANCO DE DADOS. CONFIGURAÇÃO.
+1. Ação de obrigação de fazer c/c indenização por danos morais, da qual foi extraído o presente recurso especial, interposto em 9/5/2023 e concluso ao gabinete em 19/12/2023.
+2. O propósito recursal é decidir se (I) o gestor de banco de dados para formação de histórico de crédito pode disponibilizar informações cadastrais (dados pessoais não sensíveis) dos cadastrados a terceiros consulentes, sem a sua comunicação e prévio consentimento; e (II) essa prática configura dano moral ao cadastrado.
+3. O Tema 710/STJ e a Súmula 550/STJ tratam especificamente do credit scoring, ficando expressamente consignado que essa prática "não constitui banco de dados", o qual é regulamentado pela Lei nº 12.414/2011, que "disciplina a formação e consulta a bancos de dados com informações de adimplemento, de pessoas naturais ou de pessoas jurídicas, para formação de histórico de crédito".
+4. O gestor de banco de dados com a finalidade de proteção do crédito, pode realizar o tratamento de dados pessoais não sensíveis e abrir cadastro com informações de adimplemento de pessoas naturais e jurídicas, sem o consentimento prévio do cadastrado, em observância aos arts. 4º, I, da Lei nº 12.414/2011 e 7º, X, da LGPD.
+5. Todavia, o gestor de banco de dados regido pela Lei nº 12.414/2011 somente pode disponibilizar a terceiros consulentes (I) o score de crédito, sendo desnecessário o consentimento prévio; e (II) o histórico de crédito, mediante prévia autorização específica do cadastrado (nos moldes do Anexo do Decreto nº 9.936/2019), conforme o art. 4º, IV, "a" e "b" da referida lei.
+6. Por outro lado, em observância o inciso III do art. 4º da Lei nº 12.414/2011, as informações cadastrais e de adimplemento armazenadas somente podem ser compartilhadas com outros bancos de dados, que são geridos por instituições devidamente autorizadas para tanto na forma da lei e regulamento.
+7. Portanto, se um terceiro consulente tem interesse em obter as informações cadastrais do cadastrado, ainda que sejam dados pessoais não sensíveis, deve ele obter o prévio e expresso consentimento do titular, com base na autonomia da vontade, pois não há autorização legal para que o gestor de banco de dados disponibilize tais dados aos consulentes.
+8. Em relação à abertura do cadastro pelo gestor de banco de dados, embora não seja exigido o consentimento prévio, é necessária a comunicação ao cadastrado, inclusive quanto aos demais agentes de tratamento, podendo exigir o cancelamento do seu cadastro a qualquer momento, nos termos do art. 4º, I e § 4º, da Lei nº 12.414/2011, além de exercer os demais direitos previstos em lei quanto aos seus dados.
+9. A inobservância dos deveres associados ao tratamento (que inclui a coleta, o armazenamento e a transferência a terceiros) dos dados do titular - dentre os quais se inclui o dever de informar - faz nascer para este a pretensão de indenização pelos danos causados e a de fazer cessar, imediatamente, a ofensa aos direitos da personalidade. Precedente.
+10. A disponibilização indevida de dados pessoais pelos bancos de dados para terceiros caracteriza dano moral presumido ( in re ipsa ) ao cadastrado titular dos dados, diante, sobretudo, da forte sensação de insegurança por ele experimentada.
+11. O gestor de banco de dados que disponibiliza para terceiros consulentes o acesso aos dados do cadastrado que somente poderiam ser compartilhados entre bancos de dados - como as informações cadastrais - deve responder objetivamente pelos danos morais causados ao cadastrado, em observância aos arts. 16 da Lei nº 12.414/2011 e 42 e 43, II, da LGPD.
+12. No recurso sob julgamento, foram disponibilizadas indevidamente as informações cadastrais e de adimplemento da recorrente a terceiros consulentes, os quais, contudo, somente poderiam ter acesso ao score de crédito e, mediante prévia autorização, do histórico de crédito.
+13. Recurso especial conhecido e parcialmente provido para julgar parcialmente procedentes os pedidos formulados na inicial, a fim de condenar a ré (SERASA S.A) a (I) se abster de disponibilizar, de qualquer forma, os dados da autora (informações cadastrais e de adimplemento), sem a sua prévia autorização, para terceiros consulentes, com exceção de outros bancos de dados; e (II) pagar a autora o valor de R$ 11.000,00, a título de indenização por danos morais.
+(REsp n. 2.115.461/SP, relatora Ministra NANCY ANDRIGHI, Terceira Turma, j. em 8/10/2024, DJe de 14/10/2024 - sem destaque no original)
+Nessa linha de entendimento, a disponibilização de dados pessoais, sem consentimento de SILVANA, ensejou dano moral presumido, que deve ser indenizado (e-STJ, fl. 334/336 - destaque no original).
+Portanto, o cerne da presente controvérsia é a possibilidade de disponibilização dos dados cadastrais a terceiros, o que não se confunde com o mero tratamento dos dados, como pretende fazer crer BOA VISTA.
+Vale destacar que o acórdão embargado ponderou expressamente que não seria aplicável o precedente relativo a escore de crédito, previsto na Lei nº 12.414/11, atinente à formação e consulta de banco de dados com informações de pagamento para formação de histórico de crédito, que realmente cuida de hipótese diversa.
+Por fim, é pertinente esclarecer que a alegação de ausência de hierarquia entre as hipóteses de tratamento de dados não foi objeto das contrarrazões ao recurso especial.
+Observa-se, dessa forma, que não foi demonstrado nenhum vício na decisão embargada a ensejar a integração do julgado, porquanto a fundamentação adotada na decisão é clara e suficiente para respaldar a conclusão alcançada.
+Esse, inclusive, é o posicionamento desta Corte, a saber:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO NCPC. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, DO NCPC (ART. 544, § 4º, I, DO CPC/73). VIOLAÇÃO DO ART. 1.022 DO NCPC. VÍCIO NÃO VERIFICADO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+ ..
+2. Os embargos de declaração constituem recurso de estritos limites processuais e se destinam a suprir omissão, afastar obscuridade, eliminar contradição eventualmente existentes no julgado combatido, bem como corrigir erro material. Assim, não se verificando nenhum desses vícios previstos no art. 1.022 do NCPC, o recurso integrativo não comporta acolhimento.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp 1.756.384/RJ, de minha relatoria, Terceira Turma, j. em 11/04/2022, DJe 20/04/2022 - sem destaque no original)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO. REDISCUSSÃO DO JULGADO.
+1. Os embargos de declaração, a teor das disposições do art. 1.022 do Código de Processo Civil de 2015, são inviáveis quando inexiste obscuridade, contradição ou omissão na decisão embargada.
+2. Ausência de omissão, contradição, obscuridade ou erro material do acórdão embargado. Recurso dotado de caráter manifestamente infringente. Inexistência de demonstração dos vícios apontados, objetivando à rediscussão da matéria, já repetidamente decida.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt no REsp 1.251.864/SC, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. em 11/04/2022, DJe 19/04/2022 - sem destaque no original)
+Nesse sentido, é forçoso reconhecer que a parte pretende, na verdade, o rejulgamento da causa.
+Em suma, a pretensão desborda das hipóteses de cabimento dos aclaratórios, previstas no art. 1.022 do NCPC.
+Nessas condições, pelo meu voto, REJEITO os embargos de declaração.
