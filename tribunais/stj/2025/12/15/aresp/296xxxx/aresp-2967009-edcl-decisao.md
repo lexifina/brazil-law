@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de embargos de declaração, opostos por ANA VITÓRIA DE SOUZA, em face de decisão monocrática da lavra deste signatário (fls. 3195-3198, e-STJ), que conheceu do agravo para não conhecer do recurso especial da parte adversa.
+Daí os presentes aclaratórios (fls. 3201-3202, e-STJ), nos quais a parte sustenta, em síntese, omissão e erro material quanto ao reconhecimento da fixação de honorários sucumbenciais nas instâncias ordinárias e à consequente majoração prevista no art. 85, § 11, do CPC/2015.
+Não foi apresentada impugnação, conforme certidão de fl. 3208, e-STJ.
+É o relatório.
+Decido.
+Os aclaratórios merecem acolhimento.
+1. Na hipótese, com razão a parte embargante, visto que o acórdão ora embargado restou contraditório no que tange à majoração dos honorários de sucumbência na fase recursal.
+Compulsando os autos, verifica-se que o juízo de primeira instância fixou os honorários em 10% sobre o valor da causa, nos seguintes termos (e-STJ, fl. 2468- grifou-se):
+Do exposto, JULGO IMPROCEDENTE o pedido, dando-se o feito por extinto, com fulcro no artigo 487, inciso I, in fine, do Código de Processo Civil.
+Por ter sucumbido, condeno o autor ao pagamento das custas e despesas processuais com correção monetária pelos índices da tabela prática para cálculo de atualização de débitos judiciais do E. TJSP, a contar dos respectivos desembolsos e juros moratórios de 1% (um por cento) ao mês (artigo 406 CC c. c. 161, parágrafo primeiro do CTN), a contar da data desta sentença (artigo 407 do CC), bem como honorários advocatícios que fixo em 10% (dez por cento) sobre o valor atribuído à causa, no quantum fixado pelo corpo deste julgado, devidamente atualizado desde a data do seu ajuizamento, pelos índices da tabela prática para cálculo de atualização de débitos judiciais do E. TJSP (artigo 85, §2º do CPC), abrangendo principal e juros (RT 601/78, JTA 80/125; LEX- JTA 74/132), e acrescido de juros moratórios de 1% (um por cento) ao mês (artigo 406 CC c. c. 161, parágrafo primeiro do CTN), a contar da data desta sentença (artigo 407 do CC).
+No que se refere ao disposto no artigo 85, § 1º, do CPC/15, cumpre destacar que, nos termos da orientação do Plenário do STJ, fixada por meio do Enunciado Administrativo n. 7. "somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC".
+Com efeito, o § 11 do art. 85 do CPC/15 possui dupla funcionalidade, devendo atender à justa remuneração do patrono pelo trabalho adicional na fase recursal e inibir recursos cuja matéria já tenha sido exaustivamente tratada.
+Ademais, esta Corte Superior fixou entendimento no sentido de que é necessário o preenchimento simultâneo de três requisitos para majoração dos honorários recursais:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO PUBLICADO NA VIGÊNCIA DO CPC/2015. FALTA DE SIMILITUDE FÁTICA. PRESCRIÇÃO. REPARAÇÃO. DIREITOS AUTORAIS. ILÍCITO EXTRACONTRATUAL. ACÓRDÃO EMBARGADO CONFORME A JURISPRUDÊNCIA DO STJ. NÃO CABIMENTO. DECISÃO MANTIDA.
+(..) 5. É devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso.
+(..) (AgInt nos EREsp 1539725/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, SEGUNDA SEÇÃO, julgado em 09/08/2017, DJe 19/10/2017)
+Dessa forma, considerando que o acórdão recorrido, o qual possibilitou a inauguração da instância extraordinária, foi publicado em 2024 (fl. 2842, e-STJ), e o trabalho adicional do advogado da parte ora embargante, realmente, são cabíveis os honorários recursais.
+No caso, constata-se que o Tribunal de origem manteve o percentual fixado pelo juízo sentenciante em 10% sobre o valor da causa, e uma vez que somente a ora Embargada recorreu ao STJ e o seu recurso não foi conhecido, de rigor que os honorários advocatícios em favor do(s) advogado(s) da parte ora Embargante (parte recorrida) sejam majorados, em razão do trabalho desenvolvido na fase de recurso.
+Com base em tais premissas, majora-se o valor dos honorários sucumbenciais em 10% sobre o percentual já fixado nas instâncias de origem, nos termos do art. 85, § 11, do CPC/15, considerando a exígua tramitação do feito nesta fase processual e a justa remuneração do patrono pelo trabalho acrescentado.
+Ressalta-se, por fim, que esta Corte admite a majoração dos honorários advocatícios sucumbenciais já em sede de embargos de declaração, quando tal providência não é realizada na decisão que abre a presente instância ordinária, como se deu no presente caso:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MAJORAÇÃO DE HONORÁRIOS SUCUMBENCIAIS. APLICAÇÃO DO ART. 85, § 11, DO CPC. REFORMATIO IN PEJUS NÃO CONFIGURADA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A FUNDAMENTO AUTÔNOMO DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA N. 283 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. A majoração dos honorários advocatícios, nos termos do art. 85, § 11, do CPC, constitui efeito automático da interposição de recurso e não depende de provocação das partes, não caracterizando reformatio in pejus.
+2. Nos termos da jurisprudência do Superior Tribunal de Justiça, os honorários advocatícios possuem natureza de ordem pública e podem ser majorados de ofício, sem que isso configure reformatio in pejus.
+3. A ausência de impugnação específica a fundamento autônomo suficiente para a manutenção do acórdão recorrido inviabiliza o conhecimento do recurso especial, nos termos da Súmula n. 283 do STF.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.758.650/AM, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 9/4/2025, DJEN de 23/4/2025.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SUPRIMENTO DE OMISSÃO. NÃO CABIMENTO. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. INAPLICABILIDADE DE APLICAÇÃO. ERRO GROSSEIRO. AGRAVO INTERNO NÃO CONHECIDO. HONORÁRIOS ADVOCATÍCIOS. ART. 85, § 11, DO CPC. MAJORAÇÃO, DE OFÍCIO.
+1. Não se aplica o princípio de fungibilidade recursal quando não observado o prazo recursal prescrito para a hipótese nem pairar dúvida objetiva acerca do recurso a ser interposto, caracterizando-se, assim, erro grosseiro.
+2. É cabível ao colegiado, ao não conhecer ou desprover o agravo interno, majorar, de ofício, os honorários advocatícios no caso em que a decisão do relator abster-se de observar a regra prescrita no art. 85, § 11, do Código de Processo Civil, por se tratar de matéria de ordem pública.
+3. Agravo interno não conhecido. Majoração, de ofício, dos honorários advocatícios.
+(AgInt no AREsp n. 2.145.129/DF, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 16/9/2024, DJe de 18/9/2024.)
+2. Do exposto, acolhem-se os embargos de declaração para sanar a omissão e majorar os honorários advocatícios de sucumbência, nos termos do art. 85, § 11, do CPC/15, em 10% sobre o percentual já fixado nas instâncias de origem (10% sobre o valor da causa) em favor do patrono da parte ora embargante.
+3. Do exposto, acolho os embargos de declaração, nos termos da presente fundamentação.
+Publique-se.
+Intimem-se.
+EMENTA
