@@ -1,0 +1,98 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/12/2025 a 15/12/2025, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. JUROS REMUNERATÓRIOS. ABUSIVIDADE RECONHECIDA EM SENTENÇA. INSURGÊNCIA RECURSAL DA PARTE ADVERSA LIMITADA AO CRITÉRIO DE LIMITAÇÃO (MÉDIA DE MERCADO, SEM ADITAMENTO). AUSÊNCIA DE IMPUGNAÇÃO PELA AGRAVANTE QUANTO À ABUSIVIDADE EM SI. DEBATE SOBRE A (IN)EXISTÊNCIA DE ABUSIVIDADE. INOVAÇÃO RECURSAL. QUESTÃO NÃO APRECIADA PELO TRIBUNAL A QUO. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. DI SSÍDIO JURISPRUDENCIAL NÃO CONFIGURADO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+I. Caso em exame
+1. Agravo em recurso especial interposto contra decisão que inadmitiu recurso especial, sob os fundamentos de ausência de prequestionamento dos dispositivos legais tidos por violados, incidência da Súmula 211/STJ e deficiência na demonstração do dissídio jurisprudencial.
+2. O acórdão recorrido, proferido pelo Tribunal de Justiça de Santa Catarina, reformou parcialmente a sentença de primeira instância, declarando a abusividade dos juros remuneratórios contratados e limitando a taxa de juros à média do mercado, decisão mantida em sede de embargos de declaração.
+3. A agravante interpôs recurso especial com fundamento nas alíneas "a" e "c" do art. 105, III, da Constituição Federal, alegando violação ao art. 421 do Código Civil e dissídio jurisprudencial. O juízo de admissibilidade foi negativo, com fundamento na incidência da Súmula 284/STF.
+4. A parte agravante sustenta a não incidência das Súmulas 283 e 284/STF e requer o provimento do recurso para reforma do acórdão e afastamento da reconhecida abusividade dos juros remuneratórios.
+II. Questão em discussão
+5. A questão em discussão consiste em saber se o recurso especial pode ser conhecido, considerando a ausência de prequestionamento da matéria relativa à abusividade dos juros remuneratórios contratados, e se há elementos suficientes para afastar a incidência das Súmulas 211/STJ, 282/STF e 284/STF.
+III. Razões de decidir
+6. A matéria acerca da abusividade dos juros remuneratórios foi reconhecida na Sentença, e o recurso de Apelação da autora (ora Agravada) versou apenas sobre o critério de limitação (se média de mercado ou média mais 50%).
+7. A Agravante não se insurgiu contra o ponto da abusividade na Sentença, tendo a questão se tornado incontroversa no acórdão recorrido. A tentativa de rediscutir a própria existência da abusividade em Recurso Especial configura inovação recursal.
+8. Considerando que a questão relativa à (in)existência de abusividade dos juros não foi objeto de exame pelo Tribunal de origem, por ausência de impugnação, incide o óbice da Súmula 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+IV. Dispositivo
+9. Agravo não conhecido.
+RELATÓRIO
+Trata-se de Agravo em Recurso Especial (e-STJ, fls. 650-659) interposto contra decisão que inadmitiu o recurso especial (e-STJ, fls. 645-647).
+A questão debatida tem por contexto acórdão exarado pelo Tribunal de Justiça de Santa Catarina no bojo de apelação que, reformando parcialmente a sentença proferida em primeira instância, declarou a abusividade dos juros remuneratórios avençados entre as partes e limitou a taxa de juros incidente à taxa média do mercado (e-STJ fls. 364-370). A decisão foi mantida em sede de embargos de declaração (e-STJ fls. 530-532).
+A agravante, com base nas alíneas "a" e "c" do permissivo constitucional, interpôs recurso especial em face do acórdão; argumenta violação ao artigo 421 do Código Civil, assim como a existência de dissídio jurisprudencial (e-STJ fls. 541-768).
+O juízo de admissibilidade, contudo, foi negativo, sob argumento de incidência da Súmula 284/STF (e-STJ, fls. 774-775).
+Diante da decisão de inadmissão do recurso especial, a parte manejou agravo em recurso especial (e-STJ, fls. 777-787).
+Intimado nos termos do artigo 1.042, § 3º, do Código de Processo Civil, o agravado apresentou contrarrazões em que pugna pela manutenção da decisão de inadmissibilidade (e-STJ, fls. 789).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. JUROS REMUNERATÓRIOS. ABUSIVIDADE RECONHECIDA EM SENTENÇA. INSURGÊNCIA RECURSAL DA PARTE ADVERSA LIMITADA AO CRITÉRIO DE LIMITAÇÃO (MÉDIA DE MERCADO, SEM ADITAMENTO). AUSÊNCIA DE IMPUGNAÇÃO PELA AGRAVANTE QUANTO À ABUSIVIDADE EM SI. DEBATE SOBRE A (IN)EXISTÊNCIA DE ABUSIVIDADE. INOVAÇÃO RECURSAL. QUESTÃO NÃO APRECIADA PELO TRIBUNAL A QUO. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. DI SSÍDIO JURISPRUDENCIAL NÃO CONFIGURADO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+I. Caso em exame
+1. Agravo em recurso especial interposto contra decisão que inadmitiu recurso especial, sob os fundamentos de ausência de prequestionamento dos dispositivos legais tidos por violados, incidência da Súmula 211/STJ e deficiência na demonstração do dissídio jurisprudencial.
+2. O acórdão recorrido, proferido pelo Tribunal de Justiça de Santa Catarina, reformou parcialmente a sentença de primeira instância, declarando a abusividade dos juros remuneratórios contratados e limitando a taxa de juros à média do mercado, decisão mantida em sede de embargos de declaração.
+3. A agravante interpôs recurso especial com fundamento nas alíneas "a" e "c" do art. 105, III, da Constituição Federal, alegando violação ao art. 421 do Código Civil e dissídio jurisprudencial. O juízo de admissibilidade foi negativo, com fundamento na incidência da Súmula 284/STF.
+4. A parte agravante sustenta a não incidência das Súmulas 283 e 284/STF e requer o provimento do recurso para reforma do acórdão e afastamento da reconhecida abusividade dos juros remuneratórios.
+II. Questão em discussão
+5. A questão em discussão consiste em saber se o recurso especial pode ser conhecido, considerando a ausência de prequestionamento da matéria relativa à abusividade dos juros remuneratórios contratados, e se há elementos suficientes para afastar a incidência das Súmulas 211/STJ, 282/STF e 284/STF.
+III. Razões de decidir
+6. A matéria acerca da abusividade dos juros remuneratórios foi reconhecida na Sentença, e o recurso de Apelação da autora (ora Agravada) versou apenas sobre o critério de limitação (se média de mercado ou média mais 50%).
+7. A Agravante não se insurgiu contra o ponto da abusividade na Sentença, tendo a questão se tornado incontroversa no acórdão recorrido. A tentativa de rediscutir a própria existência da abusividade em Recurso Especial configura inovação recursal.
+8. Considerando que a questão relativa à (in)existência de abusividade dos juros não foi objeto de exame pelo Tribunal de origem, por ausência de impugnação, incide o óbice da Súmula 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+IV. Dispositivo
+9. Agravo não conhecido.
+VOTO
+O agravo é tempestivo, nos termos do art. 1.003, § 5º, do Código de Processo Civil.
+No agravo em recurso especial (e-STJ, fls. 777-787) a agravante sustenta tão somente a não incidência das Súmulas 283 e 284/STF.
+A análise dos argumentos recursais não indica, contudo, a existência de fundamentos que sustentem a reforma do acórdão recorrido, cuja ementa transcreve-se para que passe a fundamentar, também, a presente decisão (e-STJ fls. 364-370):
+APELAÇÃO CÍVEL. AÇÃO DE REVISÃO CONTRATUAL. CONTRATO DE EMPRÉSTIMO BANCÁRIO. SENTENÇA DE PARCIAL PROCEDÊNCIA À ORIGEM.
+RECURSO DA PARTE AUTORA.
+JUROS REMUNERATÓRIOS. DEFENDIDA LIMITAÇÃO À TAXA MÉDIA DE MERCADO DIVULGADA PELO BACEN. CHANCELA. HIPÓTESE VERTENTE EM QUE O JUÍZO DE ORIGEM RECONHECEU A ABUSIVIDADE PRATICADA PELO BANCO, CONTUDO, LIMITOU O ENCARGO AO EQUIVALENTE À TAXA MÉDIA DE MERCADO MAIS 50% (CINQUENTA POR CENTO). COLEGIADO QUE ADOTA O PARÂMETRO DE REDUÇÃO À MÉDIA DE MERCADO DIVULGADA PELO BACEN QUANDO HOUVER CARACTERIZAÇÃO DE POTESTATIVIDADE. IMPERATIVA LIMITAÇÃO À MÉDIA PRATICADA PELO MERCADO CORRESPONDENTE À OPERAÇÃO DE CRÉDITO E DATA DA CONTRATUALIDADE, SEM QUALQUER ADITAMENTO. SENTENÇA REFORMADA.
+REQUERIDA A DESCARACTERIZAÇÃO DA MORA. VIABILIDADE. EXISTÊNCIA DE ABUSIVIDADES CONTRATUAIS. TESE ACOLHIDA.
+SUSTENTADA INADEQUAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS FIXADOS NA SENTENÇA. NÃO ACOLHIMENTO. DEMANDA COM PROVEITO ECONÔMICO AFERÍVEL, O QUAL, PORÉM, PARA FINS DE CÁLCULO DA VERBA PATRONAL, ESTÁ AQUÉM DO REFERENCIAL ESTIPENDIAL MÍNIMO INTRODUZIDO PELO § 8º-A DO ART. 85 DO CÓDIGO DE PROCESSO CIVIL (QUE DETERMINA AO JUÍZO QUE COMPARE O VALOR DE HONORÁRIOS SUCUMBENCIAIS DECORRENTES DA APLICAÇÃO DA REGRA PERCENTUAL DO ARTIGO 85, § 2º, DO MENCIONADO CODEX, COM O PAGAMENTO MÍNIMO PARA O PROCEDIMENTO ESTIPULADO PELA TABELA DA SECCIONAL DA ORDEM DOS ADVOGADOS DO BRASIL, ADOTANDO O QUE FOR MAIOR), APLICÁVEL À HIPÓTESE, HAJA VISTA QUE A DECISÃO QUE ARBITROU A VERBA ADVOCATÍCIA - A SENTENÇA COMBATIDA - FOI PUBLICADA DEPOIS DA ENTRADA EM VIGOR DA LEI N. 14.365/22, QUE ACRESCENTOU O § 8º-A AO REFERIDO DISPOSITIVO LEGAL. VALOR DA CAUSA, INDICADO NA EXORDIAL QUE SE AFIGURA INADEQUADO PARA O CÔMPUTO DA VERBA PATRONAL NA HIPÓTESE, À LUZ DO REFERENCIADOR MÍNIMO INDICADO PELA NORMA DE REGÊNCIA. FIXAÇÃO DA VERBA PATRONAL COM ARRIMO NA EQUIDADE ACERTADA. MANTENÇA DO ESTIPÊNDIO ARBITRADO QUE SE IMPÕE, A DESPEITO DE SER INFERIOR ÀQUELE RECOMENDADO PELO RESPECTIVO ÓRGÃO DE CLASSE, SOB PENA DE REFORMATIO IN PEJUS.
+REDISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS.
+RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Em longuíssimo recurso especial (e-STJ fls. 541-768) a ora agravante aponta violação ao artigo 421 do Código Civil, assim como a existência de dissídio jurisprudencial.
+Em apertada síntese, defende a tese de que "o D. Juízo a quo incontroversamente invalidou um ato jurídico perfeito, justificando suas razões de decidir unicamente no fato de as taxas dos juros remuneratórios fixadas em contrato destoarem daquelas estabelecidas pelo Banco Central para o período (..) sem ao menos considerar as particularidades da contratação em discussão, tampouco sem realizar uma detida e necessária análise quanto aos altos riscos da contratação em discussão"; ao final, requer provimento ao recurso para reforma do acórdão e afastamento da reconhecida abusividade.
+Como ressabido, a Segunda Seção desta Corte estabeleceu o entendimento pela sistemática de recursos repetitivos de que "é admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada  art. 51, §1º, do CDC) fique cabalmente demonstrada ante as peculiaridades do julgamento em concreto" (REsp n. 2.009.614/SC, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 27/9/2022, DJe de 30/9/2022).
+Estabeleceu-se, portanto, no âmbito desta Corte, que são insuficientes para fundamentar o caráter abusivo dos juros remuneratórios: "a) a menção genérica às "circunstâncias da causa"  ou outra expressão equivalente; b) o simples cotejo entre a taxa de juros prevista no contrato e a média de mercado divulgada pelo BACEN e c) a aplicação de algum limite adotado, aprioristicamente, pelo próprio Tribunal estadual" (REsp n. 2.009.614/SC, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 27/9/2022, DJe de 30/9/2022.)
+Isto posto, a rejeição do recurso ora em exame advém de uma circunstância que não pode ser ignorada: o acórdão recorrido em momento algum manifestou-se acerca da caracterização de abusividade de juros no caso concreto.
+Depreende-se dos autos que a abusividade dos juros remuneratórios no âmbito da relação entre as partes foi definida em sentença pelo Juízo singular, não havendo a agravante se insurgido contra referida sentença. Com efeito, verifica-se que tão somente a parte agravada recorreu da sentença de primeira instância para, reconhecida a abusividade dos juros, limitá-los à média do mercado.
+No ponto, a decisão que denegou seguimento ao recurso especial expressa e acertadamente anotou que "a sentença reconheceu a abusividade dos juros remuneratórios, determinando que "passarão a observar a taxa média de juros divulgada pelo Banco Central para o período de cada contratação, com o acréscimo de 50%", e houve recurso tão somente da parte autora. Inclusive, houve consignação expressa no acórdão que "no caso concreto, tendo em vista que a abusividade dos juros remuneratórios é incontroversa, remanesce o debate apenas em relação ao acréscimo de 50% sobre a média de mercado"" (e-STJ, fls. 774).
+Portanto, a questão acerca da (in)existência de abusividade no que tange aos juros remuneratórios contratados não foi objeto de exame pelo Tribunal de origem, fato que torna inviável o prosseguimento do recurso especial já que, nos termos da Súmula 211/STJ, "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+A propósito, em recentes ocasiões assim manifestou-se esta Terceira Turma:
+Direito Processual Civil. Recurso Especial. Execução Individual de Sentença Coletiva. Expurgos Inflacionários. Plano Verão. Recurso conhecido em parte e, na parte conhecida, improvido.
+I. Caso em exame
+1. Recurso especial interposto por instituição financeira contra acórdão do Tribunal de Justiça do Estado de São Paulo que julgou demanda relativa à execução individual de sentença proferida em ação civil pública, reconhecendo o direito dos poupadores ao recebimento dos expurgos inflacionários do Plano Verão.
+2. O acórdão recorrido negou provimento ao agravo interno, reconhecendo a legitimidade ativa dos exequentes, a prescindibilidade de prévia liquidação do julgado e a incidência dos juros de mora a partir da citação na ação civil pública.
+II. Questão em discussão
+3. Há diversas questões em discussão: (i) saber se os recorridos são parte legítima para a execução da sentença coletiva; (ii) determinar a competência territorial para a execução individual da sentença;
+(iii) verificar a legitimidade passiva da instituição financeira recorrente; (iv) definir o termo inicial dos juros de mora; (v) avaliar a necessidade de liquidação da sentença coletiva; e (vi) analisar a incidência de prazo prescricional, juros remuneratórios e possibilidade de compensação de valores.
+III. Razões de decidir
+4. A legitimidade ativa dos exequentes foi reconhecida com base no entendimento consolidado no Tema 948 do STJ, que dispensa a comprovação de associação ao IDEC para a liquidação e execução da sentença coletiva.
+5. A competência territorial para a execução individual da sentença coletiva pode ser exercida no foro do domicílio do exequente ou no foro onde tramitou a ação coletiva, conforme jurisprudência do STJ.
+6. A instituição financeira depositante é parte legítima para responder pelas diferenças de rendimentos nas cadernetas de poupança, conforme entendimento consolidado no REsp n. 170.078/SP.
+7. Os juros de mora incidem a partir da citação na fase de conhecimento da ação civil pública, conforme tese fixada no Tema 685 do STJ.
+8. A liquidação da sentença coletiva é dispensável quando a apuração do valor depender apenas de cálculos aritméticos, conforme entendimento do Tema 411 do STJ.
+9. As questões relativas ao prazo prescricional, juros remuneratórios e compensação de valores não foram objeto de exame pelo Tribunal de origem, atraindo o óbice da Súmula 211 do STJ.
+IV. Dispositivo e tese
+10. Resultado do julgamento: recurso conhecido em parte e, na parte conhecida, improvido.
+(REsp 2.051.465/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 13/10/2025, DJe de 16/10/2025 - sem grifos no original.)
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO
+REVISIONAL. PROVA PERICIAL. JUROS REMUNERATÓRIOS. CHEQUE ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 211/STJ, 282/STF E 280/STF. INADMISSIBILIDADE DE NORMA INFRALEGAL COMO PARADIGMA. AUSÊNCIA DE COMPROVAÇÃO DO DISSÍDIO. RECURSO NÃO CONHECIDO.
+I. CASO EM EXAME
+1 Agravo em recurso especial interposto contra decisão que inadmitiu o recurso especial, sob os fundamentos de ausência de prequestionamento dos dispositivos legais tidos por violados, tentativa de impugnação a norma infralegal (resolução do BACEN) e deficiência na demonstração do dissídio jurisprudencial. A parte agravante alegou que o recurso preenchia os requisitos legais.
+A parte agravada, por sua vez, defendeu a manutenção da decisão por ausência de elementos aptos a ensejar sua reforma. II. QUESTÃO EM DISCUSSÃO
+2. Há três questões em discussão: (i) definir se o recurso especial pode ser conhecido apesar da ausência de prequestionamento dos dispositivos federais invocados; (ii) estabelecer se é cabível a interposição de recurso especial com fundamento em violação a resolução do Banco Central; (iii) determinar se ficou configurada a divergência jurisprudencial na forma exigida pelo CPC/2015 e pelo RISTJ.
+III. RAZÕES DE DECIDIR
+3. O acórdão recorrido não analisou os dispositivos tidos por violados (arts. 1º e 4º, IX, da Lei 4.595/64), o que atrai a incidência da Súmula 211 do STJ, que impede o conhecimento do recurso especial quando a matéria não foi apreciada pela instância de origem.
+4. Conforme a Súmula 282 do STF, aplicada por analogia, a ausência de prequestionamento inviabiliza a análise de dispositivos legais não debatidos no tribunal de origem, mesmo após eventual oposição de embargos de declaração.
+5. A jurisprudência pacífica do STJ considera que normas infralegais, como resoluções do BACEN, não se enquadram no conceito de "lei federal" exigido pelo art. 105, III, "a", da Constituição Federal, sendo, portanto, incabível recurso especial fundado em sua violação.
+6. A aplicação da Súmula 280 do STF, por analogia, veda o conhecimento de recurso especial quando a controvérsia envolve norma local ou infralegal cuja análise exige reexame de direito não federal.
+7. O dissídio jurisprudencial não foi comprovado nos termos do art. 1.029, § 1º, do CPC/2015 c/c art. 255, § 1º, do RISTJ, pois não houve demonstração de similitude fática entre o caso concreto e os precedentes apontados como paradigmas, como exige a jurisprudência desta Corte.
+IV. DISPOSITIVO
+8. Agravo não conhecido.
+(REsp 2.311.932/PR, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 23/06/2025, DJe de 26/06/2025 - sem grifos no original.)
+Assim sendo, conclui-se que inexiste prequestionamento da questão aventada em recurso especial pela agravante, a saber, a (in)existência de abusividade no que tange aos juros remuneratórios avençados entre as partes, fato que atrai a incidência da Súmula 211/STJ e impede o prosseguimento do recurso.
+Ante o exposto, não conheço do agravo em recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 2% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+É o voto.
