@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/12/2025 a 16/12/2025, por unanimidade, conhecer do recurso e lhe dar parcial provimento, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Marco Buzzi, João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO DE FINANCIAMENTO IMOBILIÁRIO CUMULADA COM PEDIDO DE REPETIÇÃO DE INDÉBITO. SISTEMA FINANCEIRO DA HABITAÇÃO. INCIDÊNCIA DO COEFICIENTE DE EQUIPARAÇÃO SALARIAL (CES) E VALIDADE DA TAXA DE JUROS EFETIVA. RECURSO PROVIDO.
+1. É válida a cláusula contratual que prevê a incidência do Coeficiente de Equiparação Salarial (CES), mesmo em contratos firmados anteriormente à vigência da Lei n. 8.692/1993, desde que expressamente pactuada.
+2. A estipulação contratual de taxa de juros efetiva paralela à taxa nominal não configura prática de anatocismo, a qual somente ocorre quando há a incidência de juros sobre juros vencidos e não pagos.
+3. Recurso especial a que se dá parcial provimento.
+RELATÓRIO
+Trata-se de recurso especial interposto com fundamento no art. 105, III, "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo que, em ação ordinária revisional de contrato de financiamento imobiliário cumulada com pedido de repetição de indébito, deu parcial provimento a recurso de apelação interposto pelo ora recorrido. O acórdão recorrido foi assim ementado:
+FINANCIAMENTO IMOBILIÁRIO - Contrato particular de venda e compra de Imóvel com garantia hipotecária - Cerceamento de defesa afastado, pois verificada a prescindibilidade, por ora, da perícia pleiteada - Manutenção da correção do saldo devedor em abril de 1990 pelo índice de 84,32%, o mesmo utilizado para remunerar os depósitos de contas de poupança no período - Aplicabilidade da TR em razão de previsão contratual que pactua os reajustes com base no índice da caderneta de poupança - Sistema de amortização no qual deve primeiro ser reajustada e amortizada a prestação para posterior atualização do saldo devedor - Afastamento da capitalização mensal de Juros, uma vez que referida prática somente é permitida quando expressamente autorizada em lei - Forma de reajuste da taxa de seguro correspondente à utilizada para a prestação mensal do financiamento - Utilização do PES/CP no recáicuio da dívida, posto que previsto contratualmente - Sucumbência recíproca - Recurso provido em parte - Maioria de votos.
+Foram rejeitados os embargos de declaração opostos.
+Em suas razões de recurso, BANCO ITAÚ UNIBANCO alega dissídio jurisprudencial no que se refere ao afastamento do Coeficiente de Equiparação Salarial e dos juros contratados com incidência da taxa efetiva.
+Contrarrazões foram apresentadas, pedindo a manutenção da decisão agravada.
+É o relatório.
+EMENTA
+DIREITO CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO DE FINANCIAMENTO IMOBILIÁRIO CUMULADA COM PEDIDO DE REPETIÇÃO DE INDÉBITO. SISTEMA FINANCEIRO DA HABITAÇÃO. INCIDÊNCIA DO COEFICIENTE DE EQUIPARAÇÃO SALARIAL (CES) E VALIDADE DA TAXA DE JUROS EFETIVA. RECURSO PROVIDO.
+1. É válida a cláusula contratual que prevê a incidência do Coeficiente de Equiparação Salarial (CES), mesmo em contratos firmados anteriormente à vigência da Lei n. 8.692/1993, desde que expressamente pactuada.
+2. A estipulação contratual de taxa de juros efetiva paralela à taxa nominal não configura prática de anatocismo, a qual somente ocorre quando há a incidência de juros sobre juros vencidos e não pagos.
+3. Recurso especial a que se dá parcial provimento.
+VOTO
+Trata-se, neste caso, de ação ordinária revisional de contrato de financiamento imobiliário cumulada com pedido de repetição de indébito (contrato de 29-08-1988) ajuizada por José Romão e Solange Brito Rodrigues Romão contra Itaú Unibanco S/A, pretendendo ver afastadas as pretensas ilegalidades referentes à composição do saldo devedor, amortização, taxa de seguro e aplicabilidade do IPC de março de 1990, TR, Tabela Price e CES.
+A sentença julgou improcedente a ação, não reconhecendo as ilegalidades apontadas pelos autores e declarando correto o saldo residual cobrado pela instituição financeira.
+Interposto recurso de apelação contra a referida sentença, o Tribunal de origem a ele deu parcial provimento.
+Registro que, em embargos infringentes, o Tribunal de origem alterou, parcialmente, o resultado do julgamento, apenas reconhecendo a legalidade do sistema de amortização que prevê a precedência da atualização do saldo devedor para amortização posterior da parcela paga mensalmente.
+Na sequência, foi interposto o presente recurso especial por Itaú Unibanco S/A, que, por sua vez, preenche os pressupostos de admissibilidade extrínsecos e intrínsecos, de modo que merece ser conhecido.
+Analisando a questão relativa à incidência do Coeficiente de Equiparação Salarial, o Tribunal de origem formou sua convicção a partir dos seguintes fundamentos:
+3.5. O CES - Coeficiente de Equiparação Salarial - fica afastado, pois, apesar de estar previsto contratualmente e se tratar de índice que impõe uma majoração da prestação inicial em determinado percentual, objetivando cobrir as diferenças advindas da adoção de diferentes índices e periodicidade para o saldo e as prestações, sua regulamentação só ocorreu com o advento da Lei nº 8.692/93, não podendo retroagir para alcançar contrato celebrado em 1988 (fls. 39v.), sob pena de ferir-se o ato jurídico perfeito.
+Neste sentido anota-se:
+MÚTUO - Financiamento imobiliário - Utilização do Coeficiente de Equivalência Salarial (CES) - Inadmissibilidade - Ausência de previsão legal quando da assinatura do contrato - Recurso do autor nesta parte provido.
+MÚTUO - Financiamento imobiliário - Aplicação da Tabela Price para amortização do capital mutuado que, por si só constitui ilegalidade, ante a constatada capitalização de juros (..).
+- Recurso do autor nesta parte provido (..)" (TJSP-23a Câmara de Direito Privado, Apelação nº 991.04.086115-5-São Paulo, J. 25.11.2009, vu, Rei. Des. J. B. FRANCO DE GODOI, voto nº 17.898).
+Observo que o acórdão recorrido está em dissonância com a jurisprudência desta Corte.
+Isso porque o Tribunal de origem entendeu que, como assinatura do contrato se deu em 1988, anteriormente ao advento da Lei 8.692, de 28 de julho de 1993, apesar de previsto contratualmente, a incidência do Coeficiente de Equiparação Salarial deveria ser afastada. Esse entendimento, todavia, está em confronto com a orientação firmada nesta Corte, no sentido de que a cobrança do CES - Coeficiente de Equiparação Salarial é válida mesmo antes do advento da Lei n. 8.692/93, desde que prevista contratualmente.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. SISTEMA FINANCEIRO DA HABITAÇÃO. REVISÃO DE CLÁUSULAS. INCIDÊNCIA DO CDC. DESRESPEITO AO PES. LEGALIDADE DO CES. REPETIÇÃO EM DOBRO DO INDÉBITO. ALEGAÇÃO DE EXCESSO NO VALOR DO SEGURO OBRIGATÓRIO. INVERSÃO DOS ÔNUS SUCUMBENCIAIS. AGRAVO INTERNO IMPROVIDO.
+1. A pretendida incidência do CDC não tem repercussão prática na hipótese dos autos, porque o exame da legalidade das cláusulas insertas nos contratos de financiamento imobiliário vinculados ao SFH não se dá à luz das regras protetivas desse diploma.
+Precedentes.
+2. Não é possível revisar as conclusões fixadas pelas instâncias de origem quanto à ausência de descumprimento do PES sem nova análise do conjunto fático-probatório. Incide, assim, com relação ao tema, a Súmula n. 7/STJ.
+3. Na linha dos precedentes desta Corte, o CES pode ser cobrado quando houver previsão contratual para tanto, o que, conforme ressaltado pelo Tribunal de origem, ocorre no caso dos autos.
+4. A questão da repetição do indébito, embora suscitada nos embargos de declaração, não foi apreciada pelo Tribunal de origem. Incide, assim, a Súmula n. 211/STJ.
+5. Tendo a Corte local afirmado que não houve abusividade nos valores cobrados a título de seguro obrigatório, não é possível afirmar o contrário sem esbarrar na Súmula n. 7/STJ.
+6. Desacolhidos os demais argumentos deduzidos no presente recurso especial, fica prejudicado o pedido de inversão dos ônus sucumbenciais.
+7. A pretensão de modificação do valor dos honorários advocatícios esbarra na Súmula n. 7/STJ.
+8. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.484.625/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 23/6/2016, DJe de 1/7/2016.)
+E mais: AgRg no AREsp 573.065/RS, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 1/10/2015, DJe 21/10/2015; AgRg no REsp 1.043.793/RS, Relator Ministro MARCO BUZZI, Quarta Turma, julgado em 4/11/2014, DJe 14/11/2014; AgRg no REsp 1.355.599/RS, Relator Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 14/10/2014, DJe 21/10/2014; AgRg no AREsp 557.326/RS, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 2/10/2014, DJe 23/10/2014; AgRg no AREsp 131.353/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 04/10/2012, DJe 23/10/2012.
+Nesse passo, havendo jurisprudência dominante acerca do tema, o acórdão merece reforma para que seja mantida a cobrança do CES.
+Em outro ponto, quanto à contratação de juros com incidência da taxa efetiva, assim decidiu o Tribunal de origem:
+3.6. No que se refere aos juros, ordenada a adaptação da Tabela Price à capitalização anual, resta superada a impugnação à taxa de juros aplicada, restabelecendo-se o percentual nominal contratado de 10% aa (fls. 31).
+Ocorre que, diferentemente da existência de previsão no contrato de incidência de uma taxa de juros nominal e outra efetiva ou do sistema de amortização, o que a lei repudia é a cobrança de juros sobre capital renovado, ou seja, sobre montante de juros não pagos, já resultantes da incidência de juros anteriormente. Tem-se, aí sim, a cobrança de juros sobre juros, prática de anatocismo, que se concretiza quando o valor do encargo mensal revela-se insuficiente para liquidar até mesmo a parcela de juros, dando causa às chamadas "amortizações negativas".
+Não há que se falar, portanto, em anatocismo, unicamente, pela existência de previsão contratual de cobrança de taxa efetiva, ao lado da nominal.
+A propósito:
+DIREITO CIVIL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. IRRESIGNAÇÃO SUBMETIDA AO CPC/73. AÇÃO REVISIONAL DE CONTRATO DE FINANCIAMENTO IMOBILIÁRIOS VINCULADO AO SFH. TABELA PRICE. TAXA EFETIVA DE JUROS. REAJUSTE DO SALDO DEVEDOR. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O NCPC é inaplicável ao caso concreto ante os termos do Enunciado Administrativo nº 2, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+2. A análise acerca da legalidade da utilização da Tabela Price - mesmo que em abstrato - passa, necessariamente, pela constatação da eventual capitalização de juros (ou incidência de juros compostos, juros sobre juros ou anatocismo), que é questão de fato e não de direito, motivo pelo qual não cabe ao Superior Tribunal de Justiça tal apreciação, em razão dos óbices contidos nas Súmulas 5 e 7 do STJ. (REsp 1.124.552/RS, Rel. Ministro LUIS FELIPE SALOMÃO,Corte Especial, DJe 2/2/2015).
+3. A existência de uma taxa de juros efetiva, paralela à nominal, não implica, necessariamente, cobrança de juros capitalizados. Precedentes.
+4. O PES, quando contratado, somente pode ser aplicado para reajustar o valor das prestações mensais do financiamento, e não o do saldo devedor, em relação ao qual incide a TR, desde que pactuada a mesma forma de reajuste da caderneta de poupança. Precedentes.
+5. Agravo regimental não provido.
+(AgRg nos EDcl no REsp n. 1.487.083/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 22/10/2018, DJe de 25/10/2018.)
+Ao afastar, portanto, a taxa de juros aplicada e manter apenas o percentual nominal contratado (10% ao ano), o Tribunal de origem apartou-se da orientação jurisprudencial pacificada nesta Corte, no sentid o de que a estipulação contratual de taxa de juros efetiva paralela à taxa nominal não configura prática de anatocismo, a qual somente ocorre quando há a incidência de juros sobre juros vencidos e não pagos.
+Em face do exposto, considerados os limites da controvérsia apresentada em sede especial, dou parcial provimento ao recurso especial para restabelecer a sentença somente no tocante à taxa de juros, que deve ser mantida tal como pactuada, e à possibilidade de incidência do Coeficiente de Equiparação Salarial.
+É como voto.
