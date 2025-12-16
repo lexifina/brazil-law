@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/12/2025 a 16/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Marco Buzzi, João Otávio de Noronha, Raul Araújo e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO PROCESSUAL CIVIL. DIREITO CIVIL. AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. FRAUDE À EXECUÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL.  FUNDAMENTAÇÃO  DEFICIENTE.  AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284/STF. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo interposto contra decisão que inadmitiu recurso especial na origem.
+II. Razões de decidir
+2.  Considera-se  deficiente  a  fundamentação  de  recurso  especial  que  alega  violação  do  art.  1.022  do  CPC  e  não  demonstra,  clara  e  objetivamente,  qual  ponto  omisso,  contraditório  ou  obscuro  do  acórdão  recorrido  não  foi  sanado  no  julgamento  dos  embargos  de  declaração.  Incidência  da  Súmula  n.  284/  STF.
+3. O recurso especial que não impugna fundamento do acórdão recorrido independente e suficiente para mantê-lo, no ponto controvertido, não deve ser admitido, a teor da Súmula n. 283/STF.
+4. A deficiência na fundamentação do recurso, de modo a impedir a compreensão da alegada ofensa ao dispositivo legal invocado, obsta o conhecimento do recurso especial (Súmula n. 284/STF).
+5. A ausência de indicação do dispositivo de lei federal supostamente violado impede a exata compreensão da controvérsia e obsta o conhecimento do recurso especial (Súmula n. 284/STF).
+III. Dispositivo
+6. Agravo em recurso especial desprovido.
+RELATÓRIO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial pelos seguintes fundamentos (379-381): (i) ausência de negativa de prestação jurisdicional, (ii) falta de comprovação de violação dos dispositivos legais apontados, e (iii) aplicação da Súmula n. 7/STJ.
+O acórdão recorrido encontra-se assim ementado (fl. 246):
+Embargos de Terceiro - Procedência - Fraude à Execução - Cerceamento de defesa, por inobservância da determinação contida no art. 437, §1º, do CPC - Inocorrência - Impugnação dos documentos juntados em réplica que se mostra suficiente para o deslinde da controvérsia, inexistindo justificativa para a reabertura de prazo para tanto - Prova documental que, ademais, pode ser devidamente apreciada nesta instância recursal, considerando os argumentos lançados nas razões recursais, além do fato de que a embargante não impugnou seu conteúdo - Veículo adquirido em data anterior ao bloqueio judicial Inexistência de restrição judicial junto ao DETRAN à época da aquisição feita pelo embargante - Fraude à execução não configurada - Prevalência da boa-fé do adquirente - Súmula 375 do STJ - Ônus da sucumbência que deve ser suportado pela embargada que apresentou resistência aos embargos - Recurso improvido.
+Os embargos de declaração foram rejeitados (fls. 276-284).
+Nas razões do recurso especial (fls. 286-318), interposto com fundamento no art. 105, III, "a", da CF, a parte recorrente alegou violação dos seguintes dispositivos legais:
+(i) arts. 489, § 1º, IV, e 1.022, II, do CPC, sustentando negativa de prestação jurisdicional,
+(ii) art. 437, § 1º, do CPC, aduzindo que "o juiz singular não deu vista à recorrente para se manifestar, pelo contrário, requereu apenas que as partes especificassem as provas que pretendiam produzir, surgindo de surpresa a sentença, porém, essa utilizou-se de documento juntado com a réplica (NÃO NOVO) e que foi base para o julgamento" (fl. 296),
+(iii) arts. 82 e 85 do CPC, afirmando que "em que pese os atos praticados pelo Tribunal de Origem, importa observar que é passível de nulidade frente a necessidade de rever o posicionamento sobre o princípio da causalidade e sua implacabilidade no caso vertente. Requer o provimento nesse sentido para que o processo volte a fase de instrução para adequada oportunidade de falar sobre os documentos, e oportunizar a parte recorrente o direito de criar ou não resistência a demanda, porém, dito no recurso de apelação em pedido alternativo, inclusive porque ficou omisso quanto ao pedido alternativo de não resistência" (fl. 315),
+(iv) art. 319, VI, do CPC, argumentando que o "que se entende por tradição o documento oficial do Detran, contudo, o Tribunal a quo não considerou tal entendimento, validando documento intempestivo e de não emissão pelo Detran - DUT ou ATPV-e" (fl, 316), e
+(v) arts. 9º e 10 do CPC, pois "o deferimento da penhora ocorreu antes da suposta tradição, ou seja, se é possível caracterizar negligência ou imprudência da parte quando se fez o r. pedido muito antes do que a pessoa comunicou a venda" (fl. 316).
+No agravo (fls. 384-428), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (fls. 431-452).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. DIREITO CIVIL. AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. FRAUDE À EXECUÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL.  FUNDAMENTAÇÃO  DEFICIENTE.  AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284/STF. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo interposto contra decisão que inadmitiu recurso especial na origem.
+II. Razões de decidir
+2.  Considera-se  deficiente  a  fundamentação  de  recurso  especial  que  alega  violação  do  art.  1.022  do  CPC  e  não  demonstra,  clara  e  objetivamente,  qual  ponto  omisso,  contraditório  ou  obscuro  do  acórdão  recorrido  não  foi  sanado  no  julgamento  dos  embargos  de  declaração.  Incidência  da  Súmula  n.  284/  STF.
+3. O recurso especial que não impugna fundamento do acórdão recorrido independente e suficiente para mantê-lo, no ponto controvertido, não deve ser admitido, a teor da Súmula n. 283/STF.
+4. A deficiência na fundamentação do recurso, de modo a impedir a compreensão da alegada ofensa ao dispositivo legal invocado, obsta o conhecimento do recurso especial (Súmula n. 284/STF).
+5. A ausência de indicação do dispositivo de lei federal supostamente violado impede a exata compreensão da controvérsia e obsta o conhecimento do recurso especial (Súmula n. 284/STF).
+III. Dispositivo
+6. Agravo em recurso especial desprovido.
+VOTO
+No que se refere à ofensa aos arts. 489 e 1.022 do CPC, a parte recorrente se ateve a formular alegação genérica de violação desse dispositivo, sem demonstrar de forma específica em que consistiu o vício cometido pelo Tribunal de origem.
+Não foi indicada de forma clara qual seria o vício trazido pela decisão recorrida, impedindo a compreensão da controvérsia. Veja trecho do pedido da parte (fl. 295):
+Demonstrado claramente e com datas do momento da penhora/restrição e do pedido que ocorreu cerca de um ano antes do reconhecimento de firma no cartório, ou seja, já havia o pedido e deferimento, porém, tal procedimento realizado pelo cartório judicial além do esperado.
+Portanto, em que pese entre o que o v. acórdão fundamentou estar desassociado da realidade dos autos, e não tendo o respectivo enfrentamento, cuida-se de merecida nulidade.
+Assim, diante da fundamentação recursal deficiente, que impede a exata compreensão da controvérsia, incide a Súmula n. 284/STF.
+Em relação ao art. 437 do CPC, a parte recorrente não rebateu, de modo específico, os seguintes fundamentos do acórdão (fls. 247-248):
+Em que pese a inobservância ao comando do art. 437, §1º, do CPC, não tendo sido concedido a embargada oportunidade de se manifestar sobre os documentos juntados em réplica às fls. 173/176 que também foram utilizados como fundamento para o entendimento adotado na sentença, o fato é que não restou demonstrado e sequer mencionado a respeito de eventual prejuízo sofrido que pudesse, eventualmente, justificar a pretendida nulidade por essa razão ou necessidade de reabertura de prazo para manifestação, nem mesmo em relação ao reflexo na verba sucumbencial, pois a resistência da apelante persistiu, conforme se verá em tópico próprio. Ademais, até mesmo porque após ter conhecimento dos documentos apresentados, ao ser intimado, apresentou pedido genérico de produção de provas, sem qualquer justificativa, nada mencionando sobre os documentos juntados pelo embargante (fls. 177 e 180), o que se mostra até mesmo incongruente com a alegada impossibilidade de oportunidade para se manifestar no momento oportuno.
+Além disso, a embargada pôde se manifestar sobre referidos documentos nesta oportunidade recursal, entretanto, novamente não os impugnou, inexistindo, portanto, qualquer prejuízo que implique em cerceamento de defesa da apelante, sendo certo que todos os seus argumentos em termos de impugnação serão devidamente apreciados nesta instância recursal, não sendo necessária a anulação da sentença somente com intuito de oportunizar manifestação, notadamente considerando que nas presentes razões impugnada apenas a juntada, mas não o teor dos documentos em suas razões recursais. Incide nesta hipótese o princípio do "pas de nullité sans grief", também consagrado pelo Código de Processo Civil (arts 282, p. 1º., e 283, p. u.).
+Com relação ao art. 419 do CPC, igualmente não se manifestou sobre o seguinte fundamento (fl. 250):
+Nesta hipótese, para configurar a fraude à execução, não bastaria provar a existência da ação em curso contra o devedor, capaz de reduzi-lo à insolvência, consoante previsto no art. 792, inc. IV do novo CPC (art. 593, inc. II, do CPC/73), mas também demonstrar que o terceiro adquirente tinha conhecimento da existência desta demanda ou condições de saber a este respeito. Neste sentido, porém, nada foi alegado de concreto e demonstrado pela apelante que, ao ser intimada para especificar as provas que pretendia produzir, apresentou manifestação nos autos pleiteando pela produção de provas genérico, sem ao menos justificar sua necessidade (fls. 180). Ausente esta demonstração, conforme entendimento acolhido, também, pela jurisprudência, há necessidade de amparar aquele que, não tendo adquirido o bem do devedor, agiu de boa-fé.
+A ausência de impugnação específica de fundamento independente e suficiente para manter o acórdão combatido, nos pontos controvertidos (quais sejam, a ausência de comprovação de prejuízo e a necessidade de comprovação da má-fé), leva à inadmissão do recurso, tendo em vista o teor da Súmula n. 283/STF.
+Quanto aos arts. 9º, 10, 82 e 85 do CPC, a peça recursal não esclareceu de que forma tais dispositivos teriam sido violados, tampouco como dariam amparo a qualquer tese recursal, não servindo para tal propósito a citação genérica de normas, sem argumentação clara e associada às razões de decidir do aresto impugnado.
+Limitando-se a parte recorrente a afirmar ofensa a dispositivos de lei sem, contudo, demonstrar a suposta violação ou a correta interpretação, há evidente deficiência na fundamentação, fazendo incidir a Súmula n. 284 do STF.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+É como voto.
