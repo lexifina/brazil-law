@@ -1,0 +1,67 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/12/2025 a 16/12/2025, por unanimidade, dar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRINCÍPIO DA DIALETICIDADE. IMPUGNAÇÃO ESPECÍFICA RECONHECIDA. SUPERAÇÃO DA SÚMULA 182/STJ. CONHECIMENTO DO AGRAVO. RECURSO ESPECIAL. ALEGADA VIOLAÇÃO AOS ARTS. 489, §1º, IV, E 1.022 DO CPC. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. FUNDAMENTAÇÃO SUFICIENTE. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL CONHECIDO E DESPROVIDO.
+1. As razões do agravo em recurso especial impugnaram de modo específico o fundamento da decisão agravada, satisfazendo o princípio da dialeticidade recursal (art. 932, III, do CPC e art. 253, parágrafo único, I, do RISTJ), afastando-se a incidência da Súmula 182/STJ.
+2. Não há negativa de prestação jurisdicional quando o acórdão recorrido enfrenta de forma clara e suficiente as questões relevantes, ainda que contrariamente à tese da parte.
+3. Agravo interno provido para reconsiderar a decisão da Presidência, conhecer do agravo e do recurso especial, negando-se provimento a este último.
+RELATÓRIO
+EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+Trata-se de agravo interno interposto por ROSANE DE MELO ASSUNÇÃO contra decisão da Presidência desta Corte (fls. 488/489, e-STJ) que, com fundamento nos arts. 21-E, V, e 253, parágrafo único, I, do RISTJ, não conheceu do agravo em recurso especial por ausência de impugnação específica de todos os fundamentos da decisão que inadmitiu o recurso especial, especificamente a ausência de afronta ao art. 1.022 do CPC.
+O apelo nobre, de sua vez, fundamentado na alínea "a" do permissivo constitucional, desafia acórdão prolatado pelo Tribunal de Justiça do Estado da Bahia, assim ementado (fls. 368/376, e-STJ):
+APELAÇÃO. AÇÃO ORDINÁRIA. BURLA AO PRINCÍPIO DO JUIZ NATURAL. LITIGÂNCIA DE MÁ-FÉ CONFIGURADA. INTELIGÊNCIA DO ART. 80, INCISO V, DO CPC. ARBITRAMENTO DE QUANTIA JUSTA QUE ATINGE O ASPECTO PUNITIVO. APELAÇÃO PARCIALMENTE PROVIDA, SENTENÇA REFORMADA, EM PARTE.
+Vistos, relatados e discutidos estes autos de APELAÇÃO nº 8000400- 08.2019.8.05.0191, da Comarca de Paulo Afonso, em que figura como Apelante ROSANE DE MELO ASSUNÇÃO e como Apelado BANCO TOYOTA DO BRASIL S. A.
+ACORDAM os Desembargadores integrantes da Quarta Câmara Cível do egrégio Tribunal de Justiça do Estado da Bahia, por unanimidade de sua turma julgadora, em DAR PROVIMENTO PARCIAL À APELAÇÃO, nos termos do voto condutor.
+Opostos embargos de declaração (fls. 390/391, e-STJ), esses foram rejeitados (fls. 399/416, e-STJ).
+Nas razões do recurso especial (fls. 436/443, e-STJ), a recorrente, além de dissídio jurisprudencial, aponta violação aos arts. 1.022 e 489 do CPC/2015, ao argumento de que o acórdão recorrido seria omisso em relação aos pontos relevantes suscitados nos embargos de declaração, notadamente quanto à ausência de dolo ou culpa na conduta da parte e à ocorrência de bis in idem na cumulação das multas.
+Contrarrazões às fls. 451/453, e-STJ.
+Em juízo de admissibilidade (fls. 454/459, e-STJ), negou-se o processamento do recurso especial, sob o fundamento de que não houve negativa de prestação jurisdicional; dando ensejo ao agravo de fls. 461/468, e-STJ, buscando destrancar o processamento daquela insurgência.
+Em decisão monocrática (fls. 488/489, e-STJ), a presidência desta Corte negou provimento ao apelo, com fundamento na ausência de impugnação específica.
+Daí o presente agravo interno (fls. 493/502, e-STJ), no qual a agravante refuta a aplicação do supracitado óbice.
+Contrarrazões às fls. 505/509, e-STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRINCÍPIO DA DIALETICIDADE. IMPUGNAÇÃO ESPECÍFICA RECONHECIDA. SUPERAÇÃO DA SÚMULA 182/STJ. CONHECIMENTO DO AGRAVO. RECURSO ESPECIAL. ALEGADA VIOLAÇÃO AOS ARTS. 489, §1º, IV, E 1.022 DO CPC. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. FUNDAMENTAÇÃO SUFICIENTE. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL CONHECIDO E DESPROVIDO.
+1. As razões do agravo em recurso especial impugnaram de modo específico o fundamento da decisão agravada, satisfazendo o princípio da dialeticidade recursal (art. 932, III, do CPC e art. 253, parágrafo único, I, do RISTJ), afastando-se a incidência da Súmula 182/STJ.
+2. Não há negativa de prestação jurisdicional quando o acórdão recorrido enfrenta de forma clara e suficiente as questões relevantes, ainda que contrariamente à tese da parte.
+3. Agravo interno provido para reconsiderar a decisão da Presidência, conhecer do agravo e do recurso especial, negando-se provimento a este último.
+VOTO
+EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+1. Inicialmente, cumpre reconsiderar a decisão agravada para reconhecer que o agravo em recurso especial atende ao princípio da dialeticidade recursal, uma vez que a parte agravante impugnou especificamente o fundamento da decisão de inadmissibilidade.
+Com efeito, a decisão proferida pelo Tribunal de origem inadmitiu o recurso especial ao fundamento de inexistência de negativa de prestação jurisdicional, nos termos do art. 1.022 do CPC. Em suas razões de agravo (fls. 475/478, e-STJ), a recorrente reiterou e aprofundou a argumentação de que o acórdão recorrido padeceria de omissão quanto aos pontos suscitados nos embargos de declaração, especialmente no que tange à ausência de dolo ou culpa em sua conduta e à alegada ocorrência de bis in idem na cumulação de multas.
+Dessa forma, verifica-se que houve adequada impugnação dos fundamentos da decisão agravada, satisfazendo-se as exigências do art. 932, III, do CPC e art. 253, parágrafo único, I, do RISTJ, o que afasta a incidência da Súmula 182/STJ e permite o conhecimento do agravo.
+2. Superado esse óbice processual, passo ao exame do mérito recursal.
+O presente recurso não merece prosperar, porquanto as razões expendidas pela parte agravante são insuficientes a derruir a fundamentação do decisum ora impugnado, motivo pelo qual ele merece ser mantido na íntegra por seus próprios fundamentos.
+2.1. Em relação à alegada violação dos arts. 489, § 1º, IV e 1.022, ambos do CPC, não se verifica negativa de prestação jurisdicional. O acórdão estadual, ao rejeitar os embargos, consignou que não havia omissão ou contradição, porquanto a sentença e o acórdão de apelação já haviam enfrentado a matéria essencial acerca da configuração da litigância de má-fé em razão da tentativa de burla à distribuição processual (fls. 372/375, e-STJ), in verbis:
+O ato praticado pelo Autor, qual seja o ingresso de demanda com burla no ajuizamento, se amoldam perfeitamente à hipótese descrita no inciso V do artigo 80, do Código de Processo Civil.
+Da análise acurada dos autos, tem-se clara a tentativa dos promoventes em burlar o princípio do juiz natural (art. 5º, inciso LIII, da Constituição Federal) e as regras atinentes à competência (arts. 43, 286, incisos I e II, do Código de Processo Civil de 2015), em atitude flagrantemente ilegal.
+ ..  Ninguém pode escolher seu Juiz de acordo com sua conveniência, razão pela qual tal prática deve ser combatida severamente por este egrégio Sodalício, em todos os graus, de acordo com os preceitos legais pertinentes.
+Com razão, portanto, a decisão do magistrado singular, ao reconhecer e aplicar a multa por litigância de má-fé à Autora.
+Conforme reiterada jurisprudência desta Corte, não configura negativa de prestação jurisdicional a decisão que, embora contrária ao interesse da parte, enfrenta fundamentadamente a controvérsia. Nesse sentido, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. SUFICIÊNCIA. AGRAVO DE INSTRUMENTO INTERPOSTO CONTRA DECISÃO QUE PÔS TERMO À EXECUÇÃO. INAPLICABILIDADE DO PRINCÍPIO DA FUNGIBILIDADE, PORQUANTO NÃO HÁ DÚVIDA A RESPEITO DO RECURSO ADEQUADO. AGRAVO NÃO PROVIDO.
+1. Não há violação aos arts. 489 e 1.022 do Código de Processo Civil de 2015, tendo em vista que o v. acórdão recorrido, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente, decidindo integralmente a controvérsia.
+2. A interposição de agravo de instrumento contra sentença que extingue processo de execução configura erro grosseiro e inviabiliza a aplicação do princípio da fungibilidade recursal. Precedentes.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1520112/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 04/02/2020, DJe 13/02/2020)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. OMISSÃO. INEXISTÊNCIA. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. ENTENDIMENTO NO SENTIDO DA AUSÊNCIA DE NOVAÇÃO. MERO PARCELAMENTO DA DÍVIDA. SÚMULAS 5 E 7/STJ. APLICAÇÃO. AGRAVO INTERNO DESPROVIDO.
+1. Inexistem omissões ou mesmo contradição a serem sanadas no julgamento estadual, portanto inexistentes os requisitos para reconhecimento de ofensa aos arts. 10, 489, § 1º, IV e VI, e 1.022 do CPC/2015 do novo CPC. O acórdão dirimiu a controvérsia com base em fundamentação sólida, sem tais vícios, o que não se confunde com omissão ou contradição, tendo em vista que apenas resolveu a celeuma em sentido contrário ao postulado pela parte insurgente. Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas apenas a declinar as razões de seu convencimento motivado, como de fato ocorre nos autos.
+ ..  3. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp 1445088/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/12/2019, DJe 19/12/2019)
+Inexiste, portanto, violação aos arts. 489, § 1º e 1.022, ambos do CPC, visto que a questão foi devidamente apreciada pelo Tribunal de origem, cuja fundamentação foi clara e suficiente para o deslinde da controvérsia.
+Mesmo que assim não fosse, impende consignar que a conclusão decorre da apreciação do conjunto probatório, o que não pode ser revisto em sede de recurso especial, sob pena de violação da Súmula 7/STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER COM PEDIDO DE REPARAÇÃO POR DANOS MORAIS. VIOLAÇÃO AO ART. 12, VI, DA LEI N. 9.656/98. SÚMULA 284/STF. SÚMULA 7/STJ. LITIGÂNCIA DE MÁ-FÉ. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. As razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado. Dessa forma, tendo em vista que a parte recorrente não impugnou, de forma específica, os fundamentos do acórdão, incide o óbice da Súmula n. 284/STF.
+2. A modificação das conclusões a que chegou o Tribunal a quo, quanto à existência de litigância de má-fé, demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor da Súmula 7 desta Corte.
+3. Agravo interno não provido.
+(STJ - AgInt no AREsp: 2019641 RJ 2021/0357488-5, Data de Julgamento: 27/06/2022, T4 - QUARTA TURMA, Data de Publicação: DJe 01/07/2022)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM REPETIÇÃO DE INDÉBITO E DANOS MORAIS. COMPROVAÇÃO DA CELEBRAÇÃO DO CONTRATO DE EMPRÉSTIMO CONSIGNADO E LIBERAÇÃO DE VALORES EM FAVOR DA AGRAVANTE. LITIGÂNCIA DE MÁ-FÉ. SÚMULA 7/STJ. EXPEDIÇÃO DE OFICIO À OAB. SÚMULA 284/STF. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Decisão agravada reconsiderada, na medida em que o agravo em recurso especial impugnou devidamente os fundamentos da decisão que inadmitiu o apelo nobre, exarada na eg. Instância a quo.
+2. No caso, o Tribunal de Justiça, com arrimo no acervo fático-probatório carreado aos autos, concluiu que há elementos suficientes para concluir pela validade da contratação dos negócios jurídicos em questão e pela liberação do crédito em favor da apelante via transferência eletrônica. A pretensão de alterar tal entendimento demandaria reexame de matéria fático-probatória, o que é inviável em sede de recurso especial, a teor da Súmula 7/STJ.
+3. "Rever a conclusão adotada no v. Acórdão recorrido sobre a caracterização da litigância de má-fé do agravante demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório" (AgInt no AREsp 1.399 .945/MS, Rel. Min. Raul Araújo, Quarta Turma, julgado em 21/03/2019, DJe de 02/04/2019).
+4. É in admissível o inconformismo por deficiência na fundamentação quando as razões do recurso estão dissociadas do decidido no acórdão recorrido. Aplicação da Súmula 284 do Supremo Tribunal Federal. 5. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para negar provimento ao recurso especial.
+(STJ - AgInt no AREsp: 1726489 MS 2020/0168700-7, Relator.: Ministro RAUL ARAÚJO, Data de Julgamento: 12/04/2021, T4 - QUARTA TURMA, Data de Publicação: DJe 12/05/2021)
+3. Do exposto, dou provimento ao agravo interno para reconsiderar a decisão da Presidência de fls. 488/489, e-STJ, e, de plano, conheço do agravo para negar provimento ao recurso especial.
+É como voto.
