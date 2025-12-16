@@ -1,0 +1,81 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/12/2025 a 16/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - DESPESAS CONDOMINIAIS EM LOTEAMENTO FECHADO. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo em recurso especial contra decisão que inadmitiu o especial por ofensa a dispositivos constitucionais, uso da expressão "e seguintes" após o art. 1.336 do Código Civil com aplicação da Súmula n. 284 do STF, e não demonstração de vulneração dos arts. 784, VIII, do Código de Processo Civil e 1.336 do Código Civil (fls. 557-559).
+2. A controvérsia diz respeito à execução de título extrajudicial por despesas condominiais relativas ao empreendimento "Recreio Internacional", com base em convenção e deliberações assembleares. O valor da causa foi fixado em R$ 11.084,24 (fl. 6).
+3. A sentença julgou extinta a execução por inexistência de título executivo, por se tratar de loteamento fechado e não de condomínio edilício, fixando honorários em 10% sobre o valor da causa (fl. 244).
+4. A Corte de origem manteve a sentença e negou provimento à apelação, assentando a inadequação das taxas de manutenção de loteamento ao rol do art. 784 do Código de Processo Civil (fls. 444-449).
+II. QUESTÃO EM DISCUSSÃO
+Há seis questões em discussão: (i) saber se o crédito constitui título executivo extrajudicial nos termos do art. 784 do Código de Processo Civil; (ii) saber se o art. 1.336 do Código Civil autoriza a execução das cotas condominiais; (iii) saber se o art. 75 do Código de Processo Civil confere capacidade processual ao alegado condomínio de fato e legitima a execução; (iv) saber se o art. 1.333 do Código Civil, com convenção aprovada sem registro, regulariza as relações e legitima a cobrança executiva; (v) saber se os arts. 1.314 a 1.322 do Código Civil impõem contribuição às despesas comuns afastando a tese de associação de moradores; e (vi) saber se se aplica a Súmula n. 260 do STJ para reconhecer a eficácia da convenção aprovada sem registro.
+III. RAZÕES DE DECIDIR
+O acórdão recorrido reconheceu tratar-se de loteamento fechado sem instituição de condomínio edilício, afastando a equiparação de taxas associativas a contribuições condominiais para fins do art. 784 do Código de Processo Civil; a revisão dessa conclusão, fundada em elementos fáticos, esbarra na Súmula n. 7 do STJ (fls. 446-448).
+A deficiência de fundamentação impede a compreensão das razões do especial quanto aos arts. 784 do Código de Processo Civil e 1.336 do Código Civil, o que atrai a incidência da Súmula n. 284 do STF (fls. 453-463).
+As teses relativas aos arts. 75 do Código de Processo Civil, 1.333 do Código Civil e 1.314 a 1.322 do Código Civil não foram objeto de análise específica pelo Tribunal de origem, sem oposição de embargos de declaração; aplica-se a Súmula n. 282 do STF (fls. 446-448).
+IV. DISPOSITIVO E TESE
+5. Agravo em recurso especial desprovido.
+Tese de julgamento: "1. Incide a Súmula n. 284 do STF quando a deficiência de fundamentação impede a compreensão da controvérsia sobre os arts. 784 do Código de Processo Civil e 1.336 do Código Civil. 2. Aplica-se a Súmula n. 7 do STJ para obstar a revisão da conclusão fática de que se trata de loteamento fechado sem instituição de condomínio edilício. 3. Aplica-se a Súmula n. 282 do STF quando as teses dos arts. 75 do Código de Processo Civil, 1.333 do Código Civil e 1.314 a 1.322 do Código Civil não foram apreciadas pelo Tribunal de origem e não houve embargos de declaração."
+Dispositivos relevantes citados: CF, art. 105, III, a; CPC, arts. 75, 85 §§ 11, 2º, 784; CC, arts. 1.314, 1.315, 1.316, 1.317, 1.318, 1.319, 1.320, 1.321, 1.322, 1.333, 1.336.
+Jurisprudência relevante citada: STF, Súmulas n. 284, 282; STJ, Súmula n. 7.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por CONDOMÍNIO RECREIO INTERNACIONAL contra a decisão que inadmitiu o recurso especial por: por alegação de ofensa a dispositivos constitucionais, por utilização da expressão "e seguintes" em sequência ao art. 1.336 do Código Civil, com aplicação da Súmula n. 284 do STF, e por ausência de demonstração da vulneração dos arts. 784, VIII, do Código de Processo Civil, e 1.336, do Código Civil (fls. 557-559).
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Não foi apresentada contraminuta, conforme a certidão de fl. 589.
+O recurso especial foi interposto com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo em apelação, nos autos de execução de título extrajudicial - despesas condominiais.
+O julgado foi assim ementado (fl. 444):
+AÇÃO DE EXECUÇÃO DE "COTAS CONDOMINIAIS" - Sentença que, reconhecendo não se tratar a parte apelante de condomínio, mas sim de verdadeiro "Loteamento Fechado", acolheu a exceção de pré-executividade e julgou extinto o presente feito por falta de título executivo. Recurso que almeja a reforma da decisão, firme nos argumentos de que os condomínios de fato possuem capacidade processual (art. 75, XI do CPC) e que o apelante está legitimado à presente ação de execução. Pleiteia a reforma do julgado com a consequente condenação dos recorridos ao pagamento das cotas vencidas e vincendas, acrescidas dos consectários legais. Não obstante a competência dos diversos órgãos do Tribunal de Justiça seja fixada pelos termos do pedido, nos exatos moldes do que disciplina o artigo 103 do Regimento Interno do Tribunal de Justiça do Estado de São Paulo, conheço do presente recurso por força do resultado do julgamento de conflito negativo de competência suscitado por este relator. Credor que, a despeito de ostentar o termo "condomínio" em sua razão social, não passa de mero loteamento. Nessa toada, não se encontra habilitado ao manejo das ações de execução, posto que o crédito que persegue e que alega fazer jus não constitui título executivo extrajudicial, cujo rol, numerus clausus, encontra-se no artigo 784 do Código de Processo Civil. Decisão que merece ser confirmada por seus judiciosos fundamentos. RECURSO DE APELAÇÃO A QUE SE NEGA PROVIMENTO.
+Não foram opostos embargos de declaração.
+No recurso especial, a parte aponta violação dos seguintes artigos:
+a) 784 do Código de Processo Civil, porque teria havido título executivo extrajudicial para a cobrança das contribuições condominiais, ainda que se tratasse de condomínio de fato;
+b) 1.336 do Código Civil, já que as despesas comuns aprovadas obrigaram os condôminos ao rateio, e o acórdão recorrido teria afastado a natureza condominial;
+c) 75 do Código de Processo Civil, porquanto a capacidade processual do condomínio de fato e a representação pelo síndico legitimariam a execução;
+d) 1.333 do Código Civil, visto que a convenção aprovada em assembleia, ainda que sem registro, regulariza as relações entre condôminos; e
+e) 1.314 a 1.322 do Código Civil, pois as regras do condomínio impuseram a obrigação de contribuir com as despesas comuns, afastando a tese de associação de moradores.
+Aponta, ainda, a aplicação da Súmula n. 260 do STJ para sustentar que a convenção aprovada, mesmo sem registro, é eficaz para regular as relações entre condôminos (fls. 455-458).
+Requer, "diante o exposto,  ..  aos Nobres Julgadores, para tanto, que seja reformado o Acórdão recorrido de fls. 443/449, reformando a r. sentença de 1ª grau com o prosseguimento da ação executiva, acolhendo e dando PROVIMENTO ao Recurso Especial a fim de declarar legítima a cobrança das taxas condominais em aberto no processo de execução, e o final condenando o recorrido ao pagamento dsa despesas processuais e honorários advocatícios sucumbenciais, eis que corroborada tais razões com o mais atual entendimento jurisprudencial pátrio, bem como ainda está em consonância com entendimento doutrinário renomado como forma de o fazendo distribuir a mais lídima e salutar JUSTIÇA!" (fls. 477).
+Contrarrazões às fls. 365.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - DESPESAS CONDOMINIAIS EM LOTEAMENTO FECHADO. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo em recurso especial contra decisão que inadmitiu o especial por ofensa a dispositivos constitucionais, uso da expressão "e seguintes" após o art. 1.336 do Código Civil com aplicação da Súmula n. 284 do STF, e não demonstração de vulneração dos arts. 784, VIII, do Código de Processo Civil e 1.336 do Código Civil (fls. 557-559).
+2. A controvérsia diz respeito à execução de título extrajudicial por despesas condominiais relativas ao empreendimento "Recreio Internacional", com base em convenção e deliberações assembleares. O valor da causa foi fixado em R$ 11.084,24 (fl. 6).
+3. A sentença julgou extinta a execução por inexistência de título executivo, por se tratar de loteamento fechado e não de condomínio edilício, fixando honorários em 10% sobre o valor da causa (fl. 244).
+4. A Corte de origem manteve a sentença e negou provimento à apelação, assentando a inadequação das taxas de manutenção de loteamento ao rol do art. 784 do Código de Processo Civil (fls. 444-449).
+II. QUESTÃO EM DISCUSSÃO
+Há seis questões em discussão: (i) saber se o crédito constitui título executivo extrajudicial nos termos do art. 784 do Código de Processo Civil; (ii) saber se o art. 1.336 do Código Civil autoriza a execução das cotas condominiais; (iii) saber se o art. 75 do Código de Processo Civil confere capacidade processual ao alegado condomínio de fato e legitima a execução; (iv) saber se o art. 1.333 do Código Civil, com convenção aprovada sem registro, regulariza as relações e legitima a cobrança executiva; (v) saber se os arts. 1.314 a 1.322 do Código Civil impõem contribuição às despesas comuns afastando a tese de associação de moradores; e (vi) saber se se aplica a Súmula n. 260 do STJ para reconhecer a eficácia da convenção aprovada sem registro.
+III. RAZÕES DE DECIDIR
+O acórdão recorrido reconheceu tratar-se de loteamento fechado sem instituição de condomínio edilício, afastando a equiparação de taxas associativas a contribuições condominiais para fins do art. 784 do Código de Processo Civil; a revisão dessa conclusão, fundada em elementos fáticos, esbarra na Súmula n. 7 do STJ (fls. 446-448).
+A deficiência de fundamentação impede a compreensão das razões do especial quanto aos arts. 784 do Código de Processo Civil e 1.336 do Código Civil, o que atrai a incidência da Súmula n. 284 do STF (fls. 453-463).
+As teses relativas aos arts. 75 do Código de Processo Civil, 1.333 do Código Civil e 1.314 a 1.322 do Código Civil não foram objeto de análise específica pelo Tribunal de origem, sem oposição de embargos de declaração; aplica-se a Súmula n. 282 do STF (fls. 446-448).
+IV. DISPOSITIVO E TESE
+5. Agravo em recurso especial desprovido.
+Tese de julgamento: "1. Incide a Súmula n. 284 do STF quando a deficiência de fundamentação impede a compreensão da controvérsia sobre os arts. 784 do Código de Processo Civil e 1.336 do Código Civil. 2. Aplica-se a Súmula n. 7 do STJ para obstar a revisão da conclusão fática de que se trata de loteamento fechado sem instituição de condomínio edilício. 3. Aplica-se a Súmula n. 282 do STF quando as teses dos arts. 75 do Código de Processo Civil, 1.333 do Código Civil e 1.314 a 1.322 do Código Civil não foram apreciadas pelo Tribunal de origem e não houve embargos de declaração."
+Dispositivos relevantes citados: CF, art. 105, III, a; CPC, arts. 75, 85 §§ 11, 2º, 784; CC, arts. 1.314, 1.315, 1.316, 1.317, 1.318, 1.319, 1.320, 1.321, 1.322, 1.333, 1.336.
+Jurisprudência relevante citada: STF, Súmulas n. 284, 282; STJ, Súmula n. 7.
+VOTO
+A controvérsia diz respeito a ação de execução de título extrajudicial - despesas condominiais, em que a parte autora pleiteou o recebimento de cotas de manutenção e conservação do empreendimento "Recreio Internacional", sob a natureza condominial, com base em convenção e deliberações assembleares. O valor da causa foi fixado em R$ 11.084,24 (fl. 6).
+Na sentença, o Juízo de primeiro grau acolheu a exceção de pré-executividade e julgou extinta a execução por inexistência de título executivo, por se tratar de loteamento fechado e não de condomínio edilício, fixando honorários em 10% sobre o valor corrigido da causa (fl. 244).
+A Corte de origem manteve a sentença e negou provimento à apelação, assentando que o exequente não se qualifica como condomínio e que as taxas de manutenção de loteamento não se enquadram no rol do art. 784 do Código de Processo Civil, razão pela qual é inviável a execução por título extrajudicial (fls. 444-449).
+I - Art. 784 do Código de Processo Civil
+No recurso especial a parte recorrente alega que o crédito decorre de contribuições condominiais aprovadas em assembleia e documentalmente comprovadas, o que atrairia o título executivo extrajudicial do art. 784 do Código de Processo Civil (fls. 453-456).
+O acórdão recorrido concluiu que o "Recreio Internacional" é loteamento fechado, sem instituição de condomínio edilício, não sendo possível equiparar taxas associativas a contribuições condominiais para fins do art. 784, e, por isso, a via adequada seria a ação de cobrança, e não execução (fls. 446-448).
+A deficiência em fundamentação que impeça aferir os motivos em que se fundou a irresignação veiculada no especial, inviabilizando a compreensão da controvérsia (Súmula n. 284 do STF).
+Ademais, a revisão dessa conclusão, fundada em elementos fáticos, esbarra no óbice da Súmula n. 7 do STJ.
+II - Art. 1.336 do Código Civil
+A recorrente afirma que a obrigação dos condôminos de concorrer para as despesas comuns, reconhecida no art. 1.336 do Código Civil, legitima a cobrança executiva das "cotas condominiais", mesmo sem registro da convenção (fls. 453-463).
+O acórdão recorrido assentou não haver condomínio, de direito ou de fato, e que, ausente a instituição de condomínio edilício, não há título executivo condominial, sendo inadequada a execução com base em taxas de loteamento (fls. 446-447).
+A deficiência em fundamentação que impeça aferir os motivos em que se fundou a irresignação veiculada no especial, inviabilizando a compreensão da controvérsia (Súmula n. 284 do STF).
+Ademais, a revisão dessa conclusão, fundada em elementos fáticos, esbarra no óbice da Súmula n. 7 do STJ.
+A deficiência em fundamentação que impeça aferir os motivos em que se fundou a irresignação veiculada no especial, inviabilizando a compreensão da controvérsia (Súmula n. 284 do STF).
+III - Arts. 75 do Código de Processo Civil, 1.333 do Código Civil e 1.314 a 1.322 do Código Civil
+Sustenta a recorrente que a capacidade processual do condomínio de fato (75 do Código de Processo Civil), a eficácia da convenção aprovada em assembleia (1.333 do Código Civil) e as regras gerais do condomínio (1.314 a 1.322 do Código Civil) legitimaram a execução das despesas comuns (fls. 453-475).
+O acórdão recorrido decidiu a controvérsia pela inexistência de condomínio edilício e pela inadequação do título executivo para taxas de loteamento, sem análise específica dos dispositivos acima mencionados (fls. 446-448).
+A questão relativa à capacidade processual do alegado condomínio de fato, à eficácia da convenção e às regras gerais do condomínio não foi objeto de análise específica pelo Tribunal de origem, e não houve oposição de embargos de declaração. Caso, pois, de aplicação da Súmula n. 282 do STF.
+IV - Conclusão
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do § 11 do art. 85 do Código de Processo Civil, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+É o voto.
