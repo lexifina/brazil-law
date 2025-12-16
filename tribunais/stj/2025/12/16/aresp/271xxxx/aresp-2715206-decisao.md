@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por VALDINETE DOS SANTOS GODOY contra a decisão que inadmitiu o recurso especial com fundamento na incidência da Súmula n. 7 do STJ, sendo prejudicada a análise da divergência jurisprudencial (fls. 286-290).
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Não foi apresentada contraminuta, conforme a certidão de fl. 298.
+O recurso especial foi interposto com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado da Paraíba em apelação nos autos de ação de indenização por danos morais.
+O julgado foi assim ementado (fls. 245-246):
+APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. ALEGAÇÃO DE FALHA NA PRESTAÇÃO DOS SERVIÇOS. ERRO MÉDICO. REALIZAÇÃO DE ULTRASSONOGRAFIA MAMÁRIA QUE NÃO DIAGNOSTICOU MALIGNIDADE NO NÓDULO ENCONTRADO. POSTERIOR BIÓPSIA REALIZADA CONSTATANDO CÂNCER DE MAMA. AUSÊNCIA DE DEMONSTRAÇÃO DA IMPERÍCIA NO PRIMEIRO EXAME REALIZADO. AUTORA QUE PRESCINDIU DE PERÍCA TÉCNICA. ACERVO PROBATÓRIO INSUFICIENTE PARA AMPARAR A REPARAÇÃO PECUNIÁRIA. CONDUTA ILÍCITA NÃO COMPROVADA. INTELIGÊNCIA DO ART. 373, I DO CÓDIGO DE PROCESSO CIVIL. IMPROCEDÊNCIA DO PEDIDO. MANUTENÇÃO DA SENTENÇA. DESPROVIMENTO DO RECURSO APELATÓRIO.
+- In casu, em que pese o segundo resultado negativo da demandante, não há como provar que existiu falha no primeiro diagnóstico realizado mais de três meses antes, ou mesmo se naquela data a autora já padecia da patologia maligna, ressaltando-se, ainda, que o exame de ultrassom não detecta com exatidão a malignidade no nódulo encontrado, o que só é feito através de biópsia.
+- Do mesmo modo, corroborando com o entendimento sentencial, a promovente sequer pleiteou a realização de exame pericial a fim de verificar o alegado erro médico, de modo que não logrou em provar minimamente os fatos que embasam a sua pretensão, ônus que lhe competia, nos termos do art. 373, I, do CPC.
+- É importante ressaltar que, não obstante a responsabilidade civil dos estabelecimentos hospitalares seja objetiva, na forma do art. 14 do CDC, em situações tais como a ora apreciada faz-se indispensável a prova do nexo de causalidade entre a conduta e o dano sofrido pelo lesado, além da vinculação da comprovação da culpa do profissional médico, sob pena de não haver o dito erro médico indenizável.
+- Todavia, no caso concreto, não há como atribuir responsabilidade civil à apelada pela ausência de visualização da patologia maligna, quando da realização da ultrassonografia mamária, uma vez que o erro médico não pode ser imputado por mera suposição, dependendo de prova robusta quanto à inadequação do procedimento adotado. Dessa forma, não restando caracterizada a conduta imprudente, imperita ou negligente, não há que se falar em ato ilícito indenizável.
+- Nesse diapasão, é indubitável ser descabida a reparação pecuniária correspondente ao constrangimento suportado pela promovente eis que não restou demonstrada a conduta ilícita da promovida.
+- Nos termos do art. 373, I, do CPC o ônus da prova incumbe à autora, quanto ao fato constitutivo do seu direito. Assim, se ela não se desincumbe deste ônus, deixando de instruir o processo com os documentos necessários, não pode o juiz, através de sua imaginação, aplicar o pretenso direito ao caso concreto que lhe fora submetido.
+Não foram opostos embargos de declaração.
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação dos seguintes artigos:
+a) 927 do CC, pois a responsabilidade civil objetiva da clínica foi desconsiderada, mesmo diante do erro no diagnóstico que retardou o tratamento da autora;
+b) 6º e 14 do CDC, porquanto a clínica não observou os deveres de segurança e qualidade na prestação de serviços, causando prejuízo à consumidora;
+c) 57 do CEM, visto que a clínica deixou de utilizar todos os meios possíveis de diagnóstico e tratamento ao seu alcance em favor da paciente;
+d) 37, § 6º, da CF, porque a clínica, como prestadora de serviços públicos, deveria responder pelos danos causados por seus agentes.
+Sustenta que o Tribunal de origem, ao decidir que não houve erro médico no diagnóstico, divergiu do entendimento dos acórdãos do AREsp n. 482713/SP 2014/0045404-1 e do AgRg no REsp n. 1117146 CE 2009/0008496-5.
+Requer o provimento do recurso para reformar o acórdão recorrido e julgar procedente a ação de indenização por danos morais.
+Não foram apresentadas contrarrazões, conforme a certidão de fl. 282.
+É o relatório. Decido.
+O recurso não merece prosperar.
+A controvérsia diz respeito a ação de indenização por danos morais em que a parte autora pleiteou a condenação da parte ré ao pagamento de indenização por erro médico que teria retardado o início do tratamento de câncer de mama, tendo o exame de ultrassonografia realizado na instituição recorrida apontado tumor benigno, o qual, três meses após, por meio de exame histológico, foi diagnosticado como maligno.
+Na sentença, o Juízo de primeiro grau julgou improcedentes os pedidos, condenando a autora ao pagamento das custas e dos honorários advocatícios, fixados em 10% do valor da causa, com isenção em razão da gratuidade de justiça.
+A Corte estadual manteve integralmente a sentença, concluindo não haver prova do ilícito quanto à inadequação do procedimento adotado na realização da ultrassonografia mamária, afastando a responsabilidade civil da recorrida.
+I - Art. 37, § 6º, da CF
+Refoge da competência do STJ a análise de suposta ofensa a artigo da Constituição Federal, sendo incabível recurso especial neste ponto.
+II - Art. 57 do CEM
+A recorrente aponta ofensa ao dispositivo mencionado, alegando ter a conduta do preposto da recorrida caracterizado imprudência médica.
+Ocorre que o CEM corresponde à Resolução CFM n. 2.217, ato infralegal que não pode ser analisado em recurso especial.
+III - Arts. 927 do CC e 6º e 14 do CDC
+Quanto à questão da responsabilidade civil da recorrida pela divergência diagnóstica, o Tribunal a quo dispôs o seguinte (fls. 253-254):
+Diante das considerações acima, reputo que a apelante não logrou êxito em comprovar o nexo de causalidade entre o dano apontado e a conduta da demandada.
+ ..
+Ora, assim como afirmou a Juíza de primeiro grau, não há nos autos nenhuma prova de que os primeiros exames realizados na Policlínica estava incorretos.
+Com efeito, o primeiro diagnóstico foi dado diante de um tipo de exame (ultrassonografia e mamografia) e o segundo diagnóstico foi alcançado pelo exame histopatológico.
+Sendo assim, em que pese o segundo resultado negativo da demandante, não há como provar que existiu falha no primeiro diagnóstico realizado mais de três meses antes, ou mesmo se naquela data a autora já padecia da patologia maligna, ressaltando-se, ainda, que o exame de ultrassom não detecta com exatidão a malignidade no nódulo encontrado, o que só é feito através de biópsia.
+Do mesmo modo, corroborando com o entendimento sentencial, a promovente sequer pleiteou a realização de exame pericial a fim de verificar o alegado erro médico, de modo que não logrou em provar minimamente os fatos que embasam a sua pretensão, ônus que lhe competia, nos termos do art. 373, I, do CPC.
+É importante ressaltar que, não obstante a responsabilidade civil dos estabelecimentos hospitalares seja objetiva, na forma do art. 14 do CDC, em situações tais como a ora apreciada faz-se indispensável a prova do nexo de causalidade entre a conduta e o dano sofrido pelo lesado, além da vinculação da comprovação da culpa do profissional médico, sob pena de não haver o dito erro médico indenizável.
+Todavia, no caso concreto, não há como atribuir responsabilidade civil à apelada pela ausência de visualização da patologia maligna, quando da realização da ultrassonografia mamária, uma vez que o erro médico não pode ser imputado por mera suposição, dependendo de prova robusta quanto à inadequação do procedimento adotado. Dessa forma, não restando caracterizada a conduta imprudente, imperita ou negligente, não há que se falar em ato ilícito indenizável.
+Dessa forma, o Tribunal a quo concluiu que não houve prova do ato ilícito que possa caracterizar erro médico, de modo que não é possível responsabilização civil da recorrida sequer na forma objetiva, por não ter sido demonstrado o nexo de causalidade, já que o erro médico não pode ser imputado por mera suposição. Ressaltou que não há como provar que existiu falha no primeiro diagnóstico realizado mais de três meses antes do segundo exame realizado, nem que naquela data a autora já padecia da patologia maligna. Registrou que a parte sequer pleiteou a realização de exame pericial.
+No recurso especial, a parte restringiu-se a defender que a obrigação do laboratório era de resultado e que, diante do erro de diagnóstico do laboratório, houve dano moral indenizável à autora. Em momento algum rebateu o fundamento do acórdão recorrido, de que não foi possível provar que existiu falha no primeiro diagnóstico realizado mais de três meses antes do segundo exame e que a parte sequer pleiteou prova pericial a fim de demonstrar o alegado erro médico, o que atrai a incidência das Súmulas n. 283 e 284 do STF.
+Ainda que superado tal óbice a análise quanto à eventual desacerto na conclusão da Corte estadual, que concluiu pela não comprovação do nexo de causalidade e do dano apontado e que não há como provar que existiu falha no primeiro diagnóstico, demandaria revolvimento fático-probatório, o que encontra óbice da Súmula n. 7 do STJ.
+IV - Do dissídio jurisprudencial
+No tocante ao apontado dissídio, ressalto que a incidência de óbices sumulares quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Nesse sentido: AgInt no AREsp n. 1.898.375/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 27/6/2022, DJe de 30/6/2022; AgInt no AREsp n. 1.866.385/DF, relator Ministro Francisco Falcão, Segunda Turma, julgado em 16/5/2022, DJe de 18/5/2022; AgInt no AREsp n. 1.611.756/GO, relator Ministro Raul Araújo, Quarta Turma, julgado em 29/8/2022, DJe de 1º/9/2022; AgInt no AREsp n. 1.724.656/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/8/2022, DJe de 24/8/2022; e AgInt no REsp n. 1.503.880/PE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 27/2/2018, DJe de 8/3/2018.
+V - Conclusão
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão do alcance do limite máximo previsto no § 2º do referido artigo.
+Publique-se. Intimem-se.
+ EMENTA
