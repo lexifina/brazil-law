@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/12/2025 a 16/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Marco Buzzi, João Otávio de Noronha, Raul Araújo e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO PROCESSUAL CIVIL. DIREITO CIVIL. CONTRATOS. AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA.AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. TESE RECURSAL. DISPOSITIVO LEGAL. FALTA DE CARGA NORMATIVA. SÚMULA N. 284/STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7/STJ. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo interposto contra decisão que inadmitiu recurso especial na origem.
+II. Razões de decidir
+2. Inexiste afronta aos arts. 489 e 1.022 do CPC quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+3. O recurso especial que não impugna fundamento do acórdão recorrido independente e suficiente para mantê-lo, no ponto controvertido, não deve ser admitido, a teor da Súmula n. 283/STF.
+4. Considera-se deficiente, a teor da Súmula n. 284/STF, a fundamentação recursal que alega violação de dispositivos legais cujo conteúdo jurídico não tem alcance normativo para amparar a tese defendida no recurso especial.
+5. O recurso especial não comporta exame de questões que impliquem revolvimento de elementos fático-probatórios dos autos (Súmula n. 7/STJ).
+III. Dispositivo
+6. Agravo em recurso especial desprovido.
+RELATÓRIO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial em razão do óbice da Súmula n. 7/STJ.
+O acórdão recorrido encontra-se assim ementado (fl. 207):
+AÇÃO INDENIZATÓRIA. Danos material e moral. 1. Citação. Pessoa jurídica. Carta citatória enviada para o endereço da agência bancária e recebida por pessoa identificada, sem qualquer ressalva. Presunção de que a carta citatória foi recebida por funcionário responsável pela recepção das correspondências. Aplicação da teoria da aparência. Nulidade não configurada. Preliminar rejeitada. 2. Responsabilidade civil. Autor que recebeu os cheques por endosso. Devolução das cártulas pela instituição financeira sacada pela alínea n. 25 (cancelamento de talonário). Inexistência de obrigação legal da casa bancária de comunicar o cancelamento dos cheques aos órgãos de proteção ao crédito (artigo 9º da Resolução n. 3.972/11). Ausência da solicitação de informações, seja ao banco sacado, seja ao sistema de consulta de cheques. Inexistência de nexo causal entre a conduta da instituição financeira e o prejuízo experimentado pelo autor. 3. Pedido inicial julgado improcedente. Sentença reformada. Recurso interposto pela ré provido, desprovido o do autor.
+Dispositivo: rejeitaram a preliminar, deram provimento ao recurso interposto pela ré e negaram provimento ao recurso manifestado pelo autor.
+Os embargos de declaração foram rejeitados (fls. 247-267).
+Nas razões do recurso especial (fls. 215-244), interposto com fundamento no art. 105, III, "a", da CF, a parte recorrente alegou violação dos seguintes dispositivos legais:
+(i) art. 937, caput, e § 4º, do CPC, pois não houve "disponibilização dos meios tecnológicos para a sustentação oral" (fl. 224),
+(ii) arts. 1.022, II, e 489 § 1º, IV e VI, do CPC em razão de o Tribunal a quo, não ter se manifestado "sobre as omissões existentes,  .. , apesar de considerar todos os dispositivos legais citados no recurso aclaratório e recusal apelativo devidamente prequestionados" (fl. 232).
+(iii) arts. 4º, 6º e 8º, do CPC porque (fl. 234):
+O Código de Processo Civil é regido em seu artigo 4º pelo Princípio da Primazia da Decisão de Mérito - consagrado que as partes tem direito na solução integral do mérito e ainda consagra o Princípio da Efetividade do Processo visando sempre uma sentença de mérito e ainda no artigo 8º do Novo CPC aduz que o juiz atentará aos fins sociais e as exigências do bem comum resguardando e promovendo a dignidade da pessoa humana, proporcionalidade e razoabilidade, princípios os quais devem serem observados no presente caso "sub judice". E ainda Art. 6º Todos os sujeitos do processo devem cooperar entre si para que se obtenha, em tempo razoável, decisão de mérito justa e efetiva.
+(iv) arts. 344 e 425, do CPC, porquanto "o réu revel apenas poderá alegar questões de direito, não cabendo, em grau recursal, a análise da matéria fática, que deveria ter sido discutida em contestação. Portanto as matérias de fato e documentos colacionados em sede recursal devem ser desconsideradas" (fl. 235),
+(v) arts. 14 e 17 do CDC, pois "a falha na prestação do serviço é evidente, e a responsabilidade do corréu pelos danos sofridos pelo autor é objetiva" (fl. 238).
+No agravo (fls. 297-347), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (fls. 352-357).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. DIREITO CIVIL. CONTRATOS. AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA.AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. TESE RECURSAL. DISPOSITIVO LEGAL. FALTA DE CARGA NORMATIVA. SÚMULA N. 284/STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7/STJ. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo interposto contra decisão que inadmitiu recurso especial na origem.
+II. Razões de decidir
+2. Inexiste afronta aos arts. 489 e 1.022 do CPC quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+3. O recurso especial que não impugna fundamento do acórdão recorrido independente e suficiente para mantê-lo, no ponto controvertido, não deve ser admitido, a teor da Súmula n. 283/STF.
+4. Considera-se deficiente, a teor da Súmula n. 284/STF, a fundamentação recursal que alega violação de dispositivos legais cujo conteúdo jurídico não tem alcance normativo para amparar a tese defendida no recurso especial.
+5. O recurso especial não comporta exame de questões que impliquem revolvimento de elementos fático-probatórios dos autos (Súmula n. 7/STJ).
+III. Dispositivo
+6. Agravo em recurso especial desprovido.
+VOTO
+A Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo. Desse modo, não há falar em negativa de prestação jurisdicional, vício de fundamentação ou violação dos arts. 489 e 1.022 do CPC.
+A Corte local assim se pronunciou de forma a abarcar todas as teses que o recorrente buscou serem apreciadas (fl. 279):
+E, apenas para que não se alegue novo vício do julgado, cumpre anotar que o pedido do ora embargante de realização de sustentação oral de forma telepresencial, nos termos do § 4º, do artigo 937, do Código de Processo Civil (fls. 194/196 e 200/201), foi indeferido pelas r. decisões de fls. 197 e 202, devidamente fundamentadas e motivadas, nos seguintes termos: "Fls. 194/196: indefiro o pedido de realização de sustentação oral por videoconferência na sessão presencial de 18 de setembro de 2023, seja porque, a despeito do que estabelece o artigo 937, § 4º, do CPC, o Tribunal de Justiça de São Paulo não dispõe de estrutura tecnológica para tanto, seja porque o próprio postulante requereu o encaminhamento do processo à mesa, de molde a possibilitar o julgamento presencial" (fls. 197) e "Fls. 200/201: indefiro porque o pedido de julgamento presencial  é de todos sabido que no Tribunal de Justiça de São Paulo não há tecnologia disponível para a realização de sustentação oral por videoconferência em sessões presenciais  foi requerido justamente pelo ora postulante, que se dispôs a comparecer pessoalmente à Corte para sustentar oralmente, sendo relevante destacar que já tinha ele o seu escritório situado em comarca distante da capital à época em que formulou o pedido de remessa do recurso à mesa, não tendo ele apresentado, ademais, fundamento relevante da desistência do pleito anteriormente formulado. Fica facultado ao advogado interessado apresentar memoriais escritos aos integrantes da Turma Julgadora." (fls. 202), não havendo se cogitar, assim, em violação ao devido processo legal, ao contraditório e à ampla defesa.
+Por fim, releva anotar que, conquanto o réu tenha instruído o seu recurso de apelação com documentos não exibidos em primeiro grau, não foram eles considerados para a formação da convicção da Turma Julgadora, consoante se infere da leitura do v. acórdão acima transcrito, não se vislumbrando prejuízo ao embargante e, portanto, não se tem por caracterizada qualquer nulidade processual, cumprindo anotar ainda que prescreve o § 1º, do artigo 282, do Código de Processo Civil, que "o ato não se repetirá nem se lhe suprirá a falta quando não prejudicar a parte", e já se pronunciou o C. Superior Tribunal de Justiça no sentido de que "consagrou-se, no âmbito desta eg. Corte Superior, o entendimento de que o sistema das nulidades processuais deve ser regido pela máxima pas de nullité sans grief, segundo a qual não se decreta nulidade sem a efetiva demonstração do prejuízo."
+(AgInt no R Esp n. 1.912.741/MA, Rel. Min. Moura Ribeiro, Terceira Turma, julgado em 21/2/2022), o que é exatamente o caso destes autos.
+Assim, não se constatam os vícios alegados.
+Quanto à alegação de ofensa aos arts. 344 e 425, do CPC, a parte recorrente não rebateu, de modo específico, os seguintes fundamentos do acórdão (fl. 279):
+(..) conquanto o réu tenha instruído o seu recurso de apelação com documentos não exibidos em primeiro grau, não foram eles considerados para a formação da convicção da Turma Julgadora, consoante se infere da leitura do v. acórdão acima transcrito, não se vislumbrando prejuízo ao embargante e, portanto, não se tem por caracterizada qualquer nulidade processual.
+A ausência de impugnação específica de fundamento independente e suficiente para manter o acórdão combatido, no ponto controvertido, leva à inadmissão do recurso, tendo em vista o teor da Súmula n. 283/STF.
+Quanto aos arts. 4º, 6º e 8º, do CPC, a peça recursal não esclareceu de que forma tais dispositivos teriam sido violados, tampouco como dariam amparo a qualquer tese recursal, não servindo para tal propósito a citação genérica de normas, sem argumentação clara e associada às razões de decidir do aresto impugnado.
+Limitando-se a parte recorrente a afirmar ofensa a dispositivos de lei sem, contudo, demonstrar a suposta violação ou a correta interpretação, há evidente deficiência na fundamentação, fazendo incidir a Súmula n. 284 do STF.
+No que diz respeito à suposta violação ao direito de sustentação oral, eventual conclusão desta Corte Superior em sentido contrário ao das instâncias ordinárias - a de que o próprio recorrente teria requerido a retirada do julgamento da pauta virtual para que fosse julgado em sessão presencial - exigiria incursão no campo fático-probatório, providência vedada na via especial, nos termos da Súmula n. 7/STJ.
+Da mesma forma, a alegação de violação dos arts. 14 e 17 do CDC esbarra no óbice da Súmula n. 7/STJ, haja vista que na decisão recorrida , com base nas circunstâncias fáticas do caso, foi afastada a condição de consumidor do recorrente.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+É como voto.
