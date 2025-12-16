@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por MARIA DO SOCORRO MENDONCA CAMPOS contra decisão que deu provimento a seu recurso especial para, reformando o acórdão recorrido, restabelecer a sentença.
+Nos declaratórios, a parte embargante alega que: (a) "a decisão deixou de se manifestar sobre parte expressiva do pedido constante do item "f" do Recurso Especial, especificamente quanto à condenação do INPI a abster-se de efetuar o referido desconto em folha e a devolver eventuais valores que tenha descontado, o que configura vício de omissão nos termos do artigo 1.022, inciso II, do CPC" e (b) "revertida a improcedência nas instâncias ordinárias, impõe-se a inversão da sucumbência, com condenação do INPI aos honorários nas instâncias ordinárias, a serem fixados nos termos dos §§ 2º e 3º do art. 85 do CPC (sobre o proveito econômico ou, se inviável, sobre o valor atualizado da causa), além da majoração prevista no § 11 do art. 85, observados os limites acima indicados."
+Sem impugnação (fl. 623).
+É o relatório. Decido.
+Nos termos do que dispõe o artigo 1.022 do Código de Processo Civil de 2015 (CPC/2015), cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+A decisão embargada foi clara ao decidir o recurso, inclusive nos termos de julgados que menciona, reformando o acórdão recorrido, para restabelecer a sentença - contra a qual a parte ora embargante não apresentou recursos oportunamente. Ora, como é ululante, eventual omissão quanto ao termos da sentença restabelecida (integralmente) deveria ter sido suscitada na instância ordinária, não havendo falar em vícios no decisum.
+Outrossim, consabido que esta Corte definiu, dentre outros, que, para fins de arbitramento de honorários recursais, previstos no § 11 do artigo 85 do CPC/2015, é necessário o não conhecimento integral ou o improvimento do recurso pelo Relator, monocraticamente, ou pelo órgão colegiado competente. Considerando o provimento do recurso especial da parte ora embargante, obviamente não há falar em majoração de honorários recursais.
+Assim, evidencia-se não ter ocorrido falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS. EMBARGOS REJEITADOS.
