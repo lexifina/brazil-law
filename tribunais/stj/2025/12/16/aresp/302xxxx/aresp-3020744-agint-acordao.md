@@ -1,0 +1,92 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/12/2025 a 16/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Marco Buzzi, João Otávio de Noronha, Raul Araújo e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. GRATUIDADE DA JUSTIÇA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que conheceu do agravo para não conhecer do recurso especial.
+II. Questão em discussão
+2. Consiste em saber se a análise de mérito do recurso especial demandaria o reexame de prova.
+III. Razões de decidir
+3. A declaração de hipossuficiência deduzida por pessoa física possui presunção de veracidade, mas, verificando o julgador a presença de elementos que evidenciem a falta de requisitos para concessão do benefício, ele pode indeferi-lo.
+4. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+IV. Dispositivo e tese
+5. Agravo interno desprovido.
+Tese de julgamento: 1. Para fins de concessão da justiça gratuita, há presunção juris tantum de que a pessoa física requerente não possui condições de arcar com as despesas do processo, podendo o magistrado indeferir o requerimento se encontrar elementos que infirmem a alegada hipossuficiência. 2. O recurso especial não admite reexame de provas, conforme a Súmula n. 7 do STJ.
+RELATÓRIO
+Trata-se de agravo interno (fls. 105-112) interposto contra decisão da Presidência desta Corte Superior, que conheceu do agravo para não conhecer do recurso especial (fls. 96-101).
+Em suas razões, a parte agravante alega que não busca o reexame de provas e que inaplicável a Súmula n. 284/STF.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+Conforme a certidão de fl. 113, não foi aberta vista para impugnação, uma vez que a parte agravada está sem representação nos autos.
+É o relatório.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. GRATUIDADE DA JUSTIÇA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que conheceu do agravo para não conhecer do recurso especial.
+II. Questão em discussão
+2. Consiste em saber se a análise de mérito do recurso especial demandaria o reexame de prova.
+III. Razões de decidir
+3. A declaração de hipossuficiência deduzida por pessoa física possui presunção de veracidade, mas, verificando o julgador a presença de elementos que evidenciem a falta de requisitos para concessão do benefício, ele pode indeferi-lo.
+4. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+IV. Dispositivo e tese
+5. Agravo interno desprovido.
+Tese de julgamento: 1. Para fins de concessão da justiça gratuita, há presunção juris tantum de que a pessoa física requerente não possui condições de arcar com as despesas do processo, podendo o magistrado indeferir o requerimento se encontrar elementos que infirmem a alegada hipossuficiência. 2. O recurso especial não admite reexame de provas, conforme a Súmula n. 7 do STJ.
+VOTO
+A insurgência não merece acolhida.
+Embora não se aplique, ao caso, a Súmula n. 284/STF, a parte agravante não trouxe nenhum argumento capaz de afastar os termos da decisão agravada quanto à Súmula n. 7/STJ, motivo pelo qual deve ser mantida por seus próprios fundamentos (fls. 96-101):
+Cuida-se de Agravo apresentado por CARMEN DORA SILVA CARABAJAL à decisão que não admitiu seu Recurso Especial.
+O apelo, o qual não indicou permissivo constitucional, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, assim resumido:
+DIREITO CIVIL. AÇÃO DECLARATÓRIA E INDENIZATÓRIA. AGRAVO INTERNO. DECISÃO MONOCRÁTICA TERMINATIVA QUE NEGOU PROVIMENTO A AGRAVO DE INSTRUMENTO INTERPOSTO PELO AGRAVANTE. AGRAVO INTERNO REJEITADO.
+I. Caso em exame
+1. Agravo interno interposto em face de decisão monocrática terminativa que negou provimento ao recurso de agravo de instrumento interposto pelo agravante.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se há desacerto da decisão agravada.
+III. Razões de decidir
+3. Agravo interno que não se presta à rediscussão das matérias, cabendo à parte agravante impugnar a ausência dos requisitos que permitem a análise sumária do pleito recursal ou demonstrar que o paradigma não é aplicável à espécie, o que não ocorreu, no caso. Ademais, decisum unipessoal que apresenta resultado condizente com a jurisprudência dominante deste tribunal e com a legislação aplicável ao caso.
+4. Honorários recursais indevidos.
+5. Multa prevista no art. 1.021, § 4º, do Código de Processo Civil. Manifesta improcedência do agravo interno. Sanção arbitrada em 1% sobre o valor atualizado da causa.
+IV. Dispositivo e tese
+6. Agravo interno rejeitado.
+Quanto à controvérsia, a qual não indicou permissivo constitucional, a parte recorrente alega violação do art. 99, §§ 2º, 3º e 4º, do Código de Processo Civil, no que concerne à necessidade de deferimento da justiça gratuita, tendo em vista que a parte ora recorrente demonstrou sua atual situação de hipossuficiência financeira, não havendo nos autos elementos para elidir a presunção relativa de veracidade de suas alegações de hipossuficiência, trazendo a seguinte argumentação:
+No caso em tela, a recorrente apresentou sua declaração de hipossuficiência, bem como documentos que comprovam sua situação econômica, indicando que recebe uma aposentadoria atualmente no valor bruto de aproximadamente e R$ 1.518,00 (um mil quinhentos e dezoito reais), todavia, encontra-se com diversos empréstimos consignados que comprometem a sua renda e, portanto, SOBRA-LHE SOMENTE O VALOR DE R$ 948,27 (NOVECENTOS E QUARENTA E OITO REAIS E VINTE E SETE CENTAVOS), utilizado para a sua manutenção e de sua família e para custear alimentação, moradia, vestuário e lazer, valores estes que foram claramente expostos e acompanhados dos extratos previdenciários, demonstrando a precariedade financeira da recorrente.
+O v. acórdão recorrido, no entanto, ignorou a presunção legal prevista no art. 99, § 3º, e indeferiu o pedido de justiça gratuita, sob o argumento de que "a agravante não logrou demonstrar o preenchimento dos requisitos para concessão do benefício, tornando inviável o pedido de seu acolhimento nesta sede."
+Ora. A presunção estabelecida pelo legislador deve prevalecer, salvo prova inequívoca em sentido contrário, o que não foi demonstrado nos autos. O entendimento adotado pelo Tribunal, inclusive, é contrário ao adotado pela Corte Superior
+ ..
+Assim, a recorrente, uma senhora aposentada, enfrenta sérias dificuldades financeiras para sobreviver e manter sua família, de modo que a negativa de justiça gratuita com base em formalidades que extrapolam o que é exigido pela lei compromete gravemente o seu acesso à justiça, motivo pelo qual o acórdão deve ser reformado.
+ ..
+Em que pese a demonstração de que a única renda da recorrente é proveniente de sua aposentadoria, atualmente no valor de aproximadamente R$ 948,27, o tribunal entendeu por bem manter a decisão de indeferimento em razão da ausência de outras provas mesmo sem qualquer indício de que a parte possua condições de pagar as custas processuais.
+ ..
+Ainda, o Tribunal de origem sequer apontou qualquer indício concreto capaz de afastar a presunção de hipossuficiência, limitando-se a declarar que não foram apresentados documentos adicionais sem, contudo, questionar a veracidade daqueles já apresentados.
+Ademais, mesmo que houvesse dúvida quanto à suficiência dos documentos apresentados inicialmente, a recorrente já havia comprovado que sua renda mensal líquida, após os descontos de empréstimos consignados, o que é insuficiente para suportar as despesas do processo sem comprometer sua subsistência (fls. 70/73).
+É o relatório.
+Decido.
+ ..
+Ademais, o Tribunal a quo se manifestou nos seguintes termos:
+É que os temas trazidos pelo agravante já foram suficientemente debatidos e fundamentados na decisão monocrática terminativa, senão vejamos:
+ ..  A gratuidade processual, que poderá ser concedida à pessoa física ou jurídica nos termos dos artigos 98 e 99 do Código de Processo Civil, abrange a análise pelas novas regras previstas pela regência adjetiva:
+ ..
+A par da normativa alhures mencionada, tem-se que a declaração de insuficiência financeira ostenta presunção relativa de veracidade, eis que somente pode ser derruída caso o caderno processual comporte elementos probatórios sobre a inidoneidade da concessão do beneplácito (art. 99, § 2º, do Código de Processo Civil).
+Outrossim, o Conselho da Magistratura deste Tribunal editou a Resolução n. 11/2018, que recomenda a observância do critério objetivo de três salários mínimos para a concessão do benefício, conforme estabelecido pela Defensoria Pública do Estado e adotado em diversas decisões desta Corte (v. Agravo de Instrumento n. 4016509-65.2018.8.24.0000, rel. Desa. Rejane Andersen, j. 29-10-2018; Agravo de Instrumento n. 4021369-28.2018.8.24.0900, rel. Des. Ricardo Fontes, j. 16-10-2018; e Apelação Cível n. 0303098-46.2016.8.24.0023, rel. Des. André Carvalho, j. 12-07-2018).
+Em contrapartida, não se pode deixar de destacar que o Estado-Juiz, diante da realidade da situação que lhe for apresentada, possui a liberdade para determinar a exibição de documentos que comprovem a situação de hipossuficiência econômica daquele que objetiva a benesse da gratuidade processual - inciso LXXIV do art. 5º da Constituição Federal.
+Daí porque, na origem, diante de dúvidas a respeito da condição de hipossuficiência financeira, a autora, ora agravante, foi intimada para que "traga aos autos certidão imobiliária e extrato do órgão de trânsito, no prazo de 15 (quinze) dias, sob pena do indeferimento da benesse" (evento 5, DESPADEC1) A despeito da intimação, ainda que prorrogado o prazo para a juntada de documentos a pedido da parte (evento 12, DESPADEC1), a exigência não foi cumprida.
+Importante destacar que as certidões requeridas pelo magistrado são de fácil acesso ao cidadão, tratando-se de documentos comumente exigidos por ocasião da análise do benefício da gratuidade da justiça e que se prestam para dirimir eventuais dúvidas acerca da condição de hipossuficiência do requerente.
+Não se desconhece, importante observar, da alegação de "que a única renda da agravante é proveniente de sua aposentadoria no valor bruto de aproximadamente R$ 1.518,00 (um mil quinhentos e dezoito reais)" (evento 1, INIC1, fls. 6 e 7), todavia, como entende esta Corte de Justiça, "Não obstante seja prescindível a comprovação da absoluta miserabilidade para concessão da benesse ora discutida, é necessário analisá-la num contexto amplo, o qual abrange a renda e, também, o patrimônio" (TJSC, Agravo de Instrumento n. 5010814-69.2025.8.24.0000, do Tribunal de Justiça de Santa Catarina, rel. Volnei Celso Tomazini, Segunda Câmara de Direito Civil, j. 03-04-2025 - grifou-se).
+Desta feita, bem ponderadas as particularidades da lide, considerando que a agravante deixou de cumprir com o comando judicial, a dúvida remanescente acerca das condições de arcar com as custas do processo impede a concessão do benefício.
+A propósito: "Cabe à parte agravante o ônus de demonstrar de forma minimamente suficiente a alegada hipossuficiência financeira, sob pena da não obtenção do benefício da gratuidade da justiça" (TJSC, Agravo de Instrumento n. 5059911-43.2022.8.24.0000, do Tribunal de Justiça de Santa Catarina, rel. Sebastião César Evangelista, Segunda Câmara de Direito Civil, j. 30-03-2023).
+ ..
+Exsurge inconteste, assim, que a parte insurgente pretende, por caminhos transversos, a rediscussão da matéria posta em análise na decisão recorrida, o que não se coaduna com a natureza do recurso de agravo interno (CPC, art. 1.021, § 1º), e ainda, não havendo qualquer inconsistência na decisão unipessoal, impõe-se manter decisão monocrática agravada, pelos próprios fundamentos. (fls. 59-60).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o reexame da premissa fixada pelo acórdão recorrido quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em Recurso Especial.
+Nesse sentido, o STJ já decidiu que "derruir a conclusão do Tribunal a quo, no sentido de estariam preenchidos os requisitos para a concessão do benefício da justiça gratuita, demandaria o reexame de fatos e provas, o que é vedado pela Súmula 7/STJ" (REsp n. 2.148.914/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, DJEN de 26/3/2025).
+Na mesma linha: "No caso, a Corte Estadual, com base nos elementos probatórios da lide, concluiu que, em sendo "evidente alteração da situação econômico-financeira da agravada, possível a revogação do benefício da gratuidade de justiça, possibilitando a execução dos honorários advocatícios sucumbenciais, eis que se trata de verba alimentar." (fl. 40). Assim, tendo a instância a quo concluído que houve modificação na condição financeira das partes, a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, a fim de aferir se a parte não possui condições de arcar com as despesas do processo, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ" (AgInt no AREsp n. 2.481.612/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 18/4/2024).
+Confiram-se ainda os seguintes julgados: AgInt no AREsp n. 2.741.866/SP, relator Ministro Humberto Martins, Terceira Turma, DJEN de 20/3/2025; AgInt no AREsp n. 2.774.890/MS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 20/3/2025; AgInt no AREsp n. 2.593.572/RJ, relator Ministro Marco Aurélio Bellizze, Segunda Turma, DJEN de 6/3/2025; AgInt nos EDcl no AREsp n. 2.535.960/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 22/10/2024; AgInt no AREsp n. 2.501.722/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 6/9/2024; AgInt no REsp n. 2.120.602/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 13/6/2024.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+Tratando-se de gratuidade da justiça em favor da pess o a física, há a presunção juris tantum de que quem pleiteia o benefício não possui condições de arcar com as despesas do processo sem comprometer seu próprio sustento ou o de sua família.
+Tal presunção, contudo, é relativa, podendo o magistrado indeferir o pedido se encontrar elementos que infirmem a hipossuficiência do requerente.
+O Tribunal de origem, levando em consideração os elementos de prova , bem como a inércia injustificada da parte em apresentar os documentos indicados pelo magistrado, manteve o indeferimento d o pedido de gratuidade de justiça.
+Modificar esse entendimento, a fim de acolher os argumentos da parte recorrente, esbarra na Súmula n. 7/STJ.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
