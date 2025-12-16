@@ -1,0 +1,84 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/12/2025 a 16/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Marco Buzzi, João Otávio de Noronha, Raul Araújo e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO PROCESSUAL CIVIL. DIREITO CIVIL. OBRIGAÇÕES. AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. JULGAMENTO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. INCIDÊNCIA DA SÚMULA N. 83/STJ. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo interposto contra decisão que inadmitiu recurso especial na origem.
+II. Razões de decidir
+2. Inexiste afronta aos arts. 489 e 1.022 do CPC quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+3. O recurso especial não comporta exame de questões que impliquem interpretação de cláusulas contratuais e o revolvimento de elementos fático-probatórios dos autos (Súmulas n. 5 e 7 do STJ).
+4. "É inviável a denunciação da lide com fundamento no art. 125, II, do CPC/2015 nas hipóteses em que não se verifica direito de regresso, mas a pretensão do denunciante ao reconhecimento de culpa de terceiro pelo evento danoso. Precedentes" (AgInt no AREsp n. 1.371.445/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 24/9/2019, DJe de 21/10/2019). Incidência da Súmula n. 83/STJ.
+5. "De acordo com a jurisprudência pacífica desta Corte Superior, "a superveniência da sentença absorve os efeitos das decisões interlocutórias anteriores, na medida da correspondência entre as questões decididas, o que, em regra, implicará o esvaziamento do provimento jurisdicional requerido nos recursos interpostos contra aqueles julgados que antecederam a sentença, a ensejar a sua prejudicialidade por perda de objeto" (REsp n. 1.971.910/RJ, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 15/2/2022, DJe 23/2/2022)". AgInt no AREsp n. 2.307.797/BA, de minha relatoria, Quarta Turma, julgado em 14/8/2023, DJe de 18/8/2023. Incidência da Súmula n. 83/STJ.
+III. Dispositivo
+6. Agravo em recurso especial desprovido.
+RELATÓRIO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial pelos seguintes fundamentos: (i) ausência de violação ao dever de fundamentação, e (ii) incidência das Súmulas n. 5, 7 e 83 do STJ.
+O acórdão recorrido encontra-se assim ementado (fls. 374):
+AGRAVO DE INSTRUMENTO. AÇÃO DE RESCISÃO CONTRATUAL E RESSARCIMENTO. DENUNCIAÇÃO DA LIDE. DIREITO REGRESSIVO. AUSÊNCIA DOS REQUISITOS ENUMERADOS NO ART. 125 DO CPC. RESPONSABILIDADE EXCLUSIVA DE TERCEIRO. NECESSIDADE DE AJUIZAMENTO DE AÇÃO AUTÔNOMA.
+I - A r. decisão, na parte que rejeitou a alegada prejudicialidade externa, não tem previsão de impugnação no rol do art. 1.015 do CPC; no entanto, constata-se a urgência necessária para admissibilidade do agravo de instrumento. REsp 1.704.520/MT (Tema 988/STJ), julgado pelo rito dos recursos repetitivos.
+II - A denunciação da lide, com fundamento no art. 125, II, do CPC somente se aplica àquele que estiver obrigado, por lei ou pelo contrato, a indenizar, em ação regressiva, o prejuízo de quem for vencido no processo, o que não se amolda à demanda.
+III - O agravante-réu busca eximir-se de eventual responsabilidade advinda de irregularidades nos créditos FCVS cedido ao agravado-autor, atribuindo-as com exclusividade à denunciada, situação em que é inadmissível a denunciação da lide, conforme jurisprudência do eg. STJ.
+IV - A ação originária de rescisão contratual e ressarcimento abrange apenas a aplicação da cláusula resolutiva decorrente de responsabilidade contratual por inadimplemento do agravante-réu e envolve somente as partes signatárias do respectivo termo. Na ação ajuizada pelo agravante-réu contra a CEF, pleiteia a validade e a novação dos créditos FCVS, matéria diversa do pedido deduzido na ação originária. Inexistente identidade de partes e de pedidos, improcede pedido de prejudicialidade externa.
+V - Agravo de instrumento desprovido.
+Os embargos de declaração foram rejeitados (fls. 431-435).
+Nas razões do recurso especial (fls. 447-469), interposto com fundamento no art. 105, III, "a", da CF, a parte recorrente alegou violação dos seguintes dispositivos legais:
+(i) arts. 489, §1º, IV, e 1.022, II, do CPC, "na medida em que deixou de enfrentar relevante argumento deduzido pelo RECORRENTE em relação à alegação de prejudicialidade externa da ação originária com o processo movido contra a CAIXA (proc. n.º 5065923.44-2022.4.02.5101)" (fl. 456). Aduziu, ainda, que os "fundamentos de ambas as demandas são os mesmos, pois dizem respeito à existência, ou não, de valor dos créditos FCVS cedidos pelo RECORRENTE ao RECORRIDO" (fl. 457);
+(ii) art. 313, V, "a", do CPC, alegando a prejudicialidade externa referente ao processo de n. 5065923.44-2022.4.02.5101, haja vista a ligação intrínseca entre as duas ações, "vez que o reconhecimento da existência de valor dos créditos FCVS nos autos do processo n.º 5065923.44-2022.4.02.5101 repercutirá total e diretamente no desfecho da demanda originária movida pelo BRB, que, repita-se, tem como fundamento a pretensa inexistência de valor dos mesmos" (fl. 460); e
+(iii) art. 125, II, do CPC, pois entende impositiva a denunciação da empresa Tetto SPE5 Gestão de Recebíveis Ltda à lide.
+No agravo (fls. 525-544), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (fls. 551-558). Na oportunidade, além de rebater os termos do agravo em recurso especial, a agravada informou que foi prolatada sentença nos autos originários, de modo que o recurso especial teria perdido o objeto.
+Ouvida a parte agravante, que não discordou da informação referente ao julgamento do processo no juízo de origem (fls. 606-607).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. DIREITO CIVIL. OBRIGAÇÕES. AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. JULGAMENTO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. INCIDÊNCIA DA SÚMULA N. 83/STJ. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo interposto contra decisão que inadmitiu recurso especial na origem.
+II. Razões de decidir
+2. Inexiste afronta aos arts. 489 e 1.022 do CPC quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+3. O recurso especial não comporta exame de questões que impliquem interpretação de cláusulas contratuais e o revolvimento de elementos fático-probatórios dos autos (Súmulas n. 5 e 7 do STJ).
+4. "É inviável a denunciação da lide com fundamento no art. 125, II, do CPC/2015 nas hipóteses em que não se verifica direito de regresso, mas a pretensão do denunciante ao reconhecimento de culpa de terceiro pelo evento danoso. Precedentes" (AgInt no AREsp n. 1.371.445/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 24/9/2019, DJe de 21/10/2019). Incidência da Súmula n. 83/STJ.
+5. "De acordo com a jurisprudência pacífica desta Corte Superior, "a superveniência da sentença absorve os efeitos das decisões interlocutórias anteriores, na medida da correspondência entre as questões decididas, o que, em regra, implicará o esvaziamento do provimento jurisdicional requerido nos recursos interpostos contra aqueles julgados que antecederam a sentença, a ensejar a sua prejudicialidade por perda de objeto" (REsp n. 1.971.910/RJ, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 15/2/2022, DJe 23/2/2022)". AgInt no AREsp n. 2.307.797/BA, de minha relatoria, Quarta Turma, julgado em 14/8/2023, DJe de 18/8/2023. Incidência da Súmula n. 83/STJ.
+III. Dispositivo
+6. Agravo em recurso especial desprovido.
+VOTO
+O agravo não comporta provimento.
+A Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo. Desse modo, não há falar em negativa de prestação jurisdicional, vício de fundamentação ou violação dos arts. 489 e 1.022 do CPC.
+Quanto à alegação da existência de prejudicialidade externa entre o processo originário e aquele de n. 5065923.44-2022.4.02.5101, promovido pela recorrente em face da CAIXA , a Corte local assim se pronunciou (fl. 391):
+33. A análise detida dos pedidos deduzidos em ambas as ações permite concluir que tratam de matéria e partes diversas e com origem em direitos distintos.
+34. A ação originária refere-se à responsabilidade contratual com a aplicação de cláusula resolutiva para ressarcimento de despesas, o que não envolve a CEF; e a outra lide trata de matéria muito mais ampla quanto à validade e à novação dos créditos FCVS pela CEF, o que somado à falta de identidade entre as partes litigantes, infirma a existência de prejudicialidade externa e necessidade de suspensão da primeira demanda, nos termos do art. 313, inc. V, alíneas "a" e "b", do CPC.
+35. Destaque-se que foi indeferida a denunciação à lide da CEF na demanda originária por decisão da Justiça Federal, o que coaduna a possibilidade de prosseguimento de ambas as ações independentemente.
+36. Em conclusão, deve ser mantida a r. decisão agravada que rejeitou a alegação de prejudicialidade externa ao processo nº 5065923.44-2022.4.02.5101 em trâmite na Justiça Federal do Rio de Janeiro/RJ.
+No caso, pretende a parte recorrente a mudança da decisão, porque não lhe foi favorável. Contudo, não se verifica a pretendida ofensa ao art. 1.022, II, do CPC, porquanto as questões trazidas à baila foram todas apreciadas pelo Acórdão atacado, naquilo que à Turma Julgadora pareceu pertinente à apreciação do recurso, com análise e avaliação dos elementos de convicção carreados para os autos.
+Nesse sentido: "Não se viabiliza o recurso especial pela indicada violação do artigo 1022 do Código de Processo Civil de 2015. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente. Não há falar, no caso, em negativa de prestação jurisdicional. A Câmara Julgadora apreciou as questões deduzidas, decidindo de forma clara e conforme sua convicção com base nos elementos de prova que entendeu pertinentes. No entanto, se a decisão não corresponde à expectativa da parte, não deve por isso ser imputado vicio ao julgado" (Agravo Interno no Agravo em Recurso Especial 2061358/DF, Relator Ministro Luis Felipe Salomão, in DJe de 24.06.2022).
+Assim, não se constatam os vícios alegados.
+No que diz respeito à alegação de prejudicialidade externa em razão da existência da citada ação do recorrente em face da CAIXA, a decisão guerreada foi clara ao justificar sua inexistência. Para maior clareza, repito a transcrição do teor do acórdão proferido (fl. 391):
+34. A ação originária refere-se à responsabilidade contratual com a aplicação de cláusula resolutiva para ressarcimento de despesas, o que não envolve a CEF; e a outra lide trata de matéria muito mais ampla quanto à validade e à novação dos créditos FCVS pela CEF, o que somado à falta de identidade entre as partes litigantes, infirma a existência de prejudicialidade externa e necessidade de suspensão da primeira demanda, nos termos do art. 313, inc. V, alíneas "a" e "b", do CPC.
+Em relação à alegada violação do art. 125, II, do CPC, no que toca ao pleito de denunciação da lide, melhor sorte não socorre a parte recorrente. Colhe-se da decisão proferida pela Corte local (fls. 389-390):
+26. A denunciação da lide com fundamento no art. 125, II, do CPC só se aplica àquele que estiver obrigado, por lei ou pelo contrato, a indenizar, em ação regressiva, o prejuízo de quem for vencido no processo, o que, a princípio, não se amolda à demanda.
+27. Ademais, a demanda originária restringe-se à possibilidade da aplicação da cláusula resolutiva do contrato firmado apenas entre as partes da ação, razão pela qual não é possível a inclusão de pessoa jurídica estranha à lide e ao objeto do negócio jurídico.
+28. Os elementos dos autos denotam, em verdade, que o agravante-réu busca eximir-se de eventual responsabilidade contratual advinda de irregularidade nos créditos FCVS cedidos ao agravado-autor, atribuindo essa falha com exclusividade à denunciada, situação na qual é inadmissível a denunciação da lide, conforme jurisprudência do eg. STJ.
+(..)
+29. Acrescente-se que, se constatada, após a dilação probatória que os danos sofridos decorrem de ato de responsabilidade da empresa denunciada, teria o agravante contra ela direito de regresso em ação autônoma, nos termos do § 1º do citado dispositivo legal.
+30. Em conclusão, mantém-se a r. decisão que indeferiu a denunciação da lide, pois não configurada quaisquer das hipóteses autorizativas do art. 125 do CPC. (grifei).
+Rever a conclusão do acórdão, quanto a ambos os pontos (prejudicialidade e denunciação da lide), demandaria reavaliação do contrato de cessão de créditos entabulado pelas partes e incursão no campo fático-probatório, providências vedadas na via especial, conforme as Súmulas n. 5 e 7 do STJ.
+Ademais, a decisão encontra respaldo na jurisprudência desta Corte, que não admite a denunciação da lide em situação em que o denunciante pretende eximir-se do evento danoso, ao atribuir a responsabilidade a um terceiro:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. ATROPELAMENTO POR LOCOMOTIVA EM LINHA FÉRREA. DENUNCIAÇÃO DA LIDE. AUSÊNCIA DE VÍNCULO. REEXAME DE PROVAS. EXCLUSÃO DE RESPONSABILIDADE. AGRAVO
+INTERNO IMPROVIDO.
+1. O Tribunal de origem, com fundamento nas provas documentais trazidas aos autos, não admitiu a denunciação da lide, pois não foi comprovada a relação jurídica contratual ou legal entre as partes.
+2. A modificação do entendimento lançado no v. acórdão recorrido demandaria o revolvimento do suporte fático-probatório dos autos, providência inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+3. É inviável a denunciação da lide com fundamento no art. 125, II, do CPC/2015 nas hipóteses em que não se verifica direito de regresso, mas a pretensão do denunciante ao reconhecimento de culpa de terceiro pelo evento danoso. Precedentes.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.371.445/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 24/9/2019, DJe de 21/10/2019.)
+Por fim, relevante a informação de que o processo originário já foi julgado (fato constatado em pesquisa ao sítio eletrônico do Tribunal de origem), o que justifica a perda do objeto do recurso especial e, por consequência, é mais um óbice ao conhecimento deste agravo.
+É o entendimento desta Corte:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. SUPERVENIÊNCIA DE SENTENÇA DE MÉRITO. PERDA DO OBJETO. DECISÃO MANTIDA.
+1. De acordo com a jurisprudência pacífica desta Corte Superior, "a superveniência da sentença absorve os efeitos das decisões interlocutórias anteriores, na medida da correspondência entre as questões decididas, o que, em regra, implicará o esvaziamento do provimento jurisdicional requerido nos recursos interpostos contra aqueles julgados que antecederam a sentença, a ensejar a sua prejudicialidade por perda de objeto" (REsp n. 1.971.910/RJ, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 15/2/2022, DJe 23/2/2022).
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.307.797/BA, de minha relatoria, Quarta Turma, julgado em 14/8/2023, DJe de 18/8/2023).
+Ou ainda, mudando o que deve ser mudado:
+Consoante o entendimento pacífico da jurisprudência desta Corte Superior, a superveniência de sentença de mérito no feito principal enseja a perda de objeto do recurso especial resultante de agravo de instrumento interposto contra decisão concessiva ou denegatória de liminar ou antecipação de tutela, tendo em vista que a sentença absorve os efeitos do provimento liminar, por se tratar de juízo de cognição exauriente.
+(AgInt nos EDcl no REsp n. 1.651.652/MG, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 18/5/2017, DJe 1/6/2017).
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+É como voto.
