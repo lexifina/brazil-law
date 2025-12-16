@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/12/2025 a 16/12/2025, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Marco Buzzi, João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE OBRIGAÇÃO DE FAZER. FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA 182/STJ.
+1. Nos termos do art. 1021, § 1º, do Código de Processo Civil e da Súmula 182/STJ, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+2. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno interposto por ELIANA DE SANTANA BERTONI contra decisão singular da minha lavra em que conheci do agravo em recurso especial e neguei-lhe provimento pelos seguintes fundamentos: a) incidência da Súmula 283/STF, por subsistir fundamento autônomo do acórdão recorrido não impugnado no REsp (necessidade de exame administrativo e comprovação documental, com inexistência de parecer positivo da CDHU); b) incidência da Súmula 7/STJ, ante a necessidade de reexame das premissas fáticas fixadas pelo Tribunal de origem (completude documental, existência e teor de parecer da CDHU, e se a "procuração pública" seria o único óbice); e c) deficiência na demonstração de ofensa direta à lei federal quanto ao art. 187 do Código Civil (fls. 336-338).
+Nas razões do agravo interno, a parte agravante sustenta que impugnou especificamente o fundamento relativo à necessidade de exame administrativo e comprovação d ocumental, afirmando que a CDHU não contestou que a "procuração pública" seria o único óbice, o que evidenciaria o atendimento dos demais requisitos (fls. 346-347). Aduz que a controvérsia é eminentemente jurídica  abuso de direito pela exigência de procuração de mutuário falecido  , não demandando reexame de provas, o que afastaria a Súmula 7/STJ (fls. 347-348). Defende que a invocação ao art. 187 do Código Civil foi específica e fundamentada, com tópico próprio nas razões do REsp (fls. 348-349). Requer reconsideração para processamento e provimento do REsp ou, subsidiariamente, julgamento colegiado do agravo interno (fl. 350).
+Decorreu o prazo sem apresentação de impugnação (fl. 355).
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE OBRIGAÇÃO DE FAZER. FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA 182/STJ.
+1. Nos termos do art. 1021, § 1º, do Código de Processo Civil e da Súmula 182/STJ, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+2. Agravo interno não conhecido.
+VOTO
+De plano, verifico que o agravo interno interposto não merece ser conhecido, uma vez que a parte agravante não atacou especificamente nenhum dos fundamentos da decisão agravada.
+A decisão ora agravada conheceu do agravo e negou-lhe provimento, assentando: a) a incidência da Súmula 283/STF, porque o acórdão recorrido se apoiou em fundamento autônomo e suficiente  necessidade de exame administrativo e comprovação documental, com inexistência de parecer positivo da CDHU  que não foi impugnado no REsp; b) a incidência da Súmula 7/STJ, pois a reforma exigiria reexame de premissas fáticas fixadas pelo Tribunal de origem (completude da documentação, existência/teor de parecer da CDHU, e se a "procuração pública" seria o único óbice); e c) deficiência na demonstração de ofensa direta ao art. 187 do Código Civil, por invocação genérica (fls. 336-337).
+No presente agravo interno, contudo, a parte não apresentou argumentos voltados a atacar objetiva e integralmente o fundamento da decisão agravada. Limitou-se a reiterar que a questão seria jurídica e que a CDHU não teria contestado a condição de que a "procuração pública" seria o único óbice (fls. 346-349), sem demonstrar, de modo concreto, que no REsp houve impugnação específica ao fundamento autônomo relativo à ausência de parecer administrativo e à comprovação de todas as exigências documentais, nem afastou, de forma precisa, a necessidade de reexame de provas quanto às premissas fáticas consignadas no acórdão.
+Conclui-se, portanto, que as razões do agravo interno não enfrentam, de modo específico e suficiente, os fundamentos da decisão agravada  subsistência de fundamento autônomo não impugnado (Súmula 283/STF), vedação ao reexame de matéria fático-probatória (Súmula 7/STJ) e deficiência na demonstração de ofensa direta ao art. 187 do Código Civil  , o que inviabiliza o conhecimento do presente agravo.
+A absoluta falta de impugnação da decisão agravada enseja o não conhecimento do agravo interno, na linha do entendimento jurisprudencial pacífico desta Corte. Nesse sentido é o EREsp n. 1.424.404/SP (relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 20/10/2021, DJe de 17/11/2021).
+Imperioso concluir, portanto, que a exigência constante do art. 1.021, § 1º, do Código de Processo Civil não foi cumprida, o que conduz à inviabilidade do agravo interno.
+Em face do exposto, não conheço do agravo interno.
+É como voto.
