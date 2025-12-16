@@ -1,0 +1,62 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido liminar, impetrado em favor de ROBSON FRANCISCO DA COSTA, em que se aponta como autoridade coatora o TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, no Agravo de Execução Penal n. 9000428-49.2025.4.04.7000/PR.
+Consta dos autos que o paciente cumpre pena total de 41 anos e 4 meses de reclusão, com término previsto para 24 de janeiro de 2036 (fl. 23). No curso da execução, a Defesa pleiteou a detração penal referente ao período de 09/08/2016 a 13/04/2018 (1 ano, 8 meses e 7 dias), durante o qual o apenado permaneceu custodiado cautelarmente nos autos da Ação Penal n. 0011995-60.2016.8.19.0061, na qual foi posteriormente absolvido. O Juízo da execução indeferiu o pedido, sob o fundamento de que, no período apontado, o reeducando já cumpria penas provenientes de outros processos criminais (prisão ininterrupta desde 28/01/2006), havendo concomitância entre a prisão cautelar e o cumprimento de pena definitiva.
+Inconformada, a defesa interpôs agravo em execução penal, ao qual o Tribunal de origem negou provimento, mantendo a decisão de primeiro grau.
+No presente writ, a impetrante sustenta a ocorrência de constrangimento ilegal, argumentando que a absolvição na ação penal n. 0011995-60.2016.8.19.0061 gera o direito à detração do tempo de prisão provisória nela cumprido. Alega que os crimes objeto da execução atual são anteriores à segregação cautelar, o que autorizaria a compensação, sob pena de enriquecimento ilícito do Estado pelo tempo de custódia indevida.
+Requer a concessão da ordem a fim de que seja reconhecido o direito do paciente à detração penal equivalente a 612 (seiscentos e doze) dias de prisão preventiva correspondente a Ação Penal n. 0011995-60.2016.8.19.0061.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ ou, no mérito, pela denegação da ordem (fls. 55/61).
+É o relatório.
+Decido.
+Esta Corte e o Supremo Tribunal Federal pacificaram o entendimento de que não cabe habeas corpus como substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado ( S TJ, HC n. 535.063/SP, Terceira Seção, Relator Ministro Sebastião Reis Junior, julgado em 10/6/2020, DJe de 25/8/2020; STF, AgRg no HC n. 180.365/PB, Primeira Turma, Relatora Ministra Rosa Weber, julgado em 27/3/2020, DJe de 2/4/2020; e AgRg no HC n. 147.210/SP, Segunda Turma, Relator Ministro Edson Fachin, julgado em 30/10/2018, DJe de 20/2/2020).
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+A controvérsia cinge-se à possibilidade de detração penal de período em que o paciente permaneceu preso preventivamente em processo no qual foi absolvido.
+O art. 42 do Código Penal disciplina a detração, autorizando o cômputo, na pena privativa de liberdade, do período de prisão provisória, desde que não esteja, simultaneamente, em curso o cumprimento de outra condenação definitiva. Em outras palavras, se, no mesmo período, o apenado já se encontrava preso em razão de título condenatório definitivo (execução penal em andamento), a privação de liberdade possui fundamento próprio e independente, não podendo ser novamente computada para fins de detração.
+Destacam-se, para a adequada análise da controvérsia, os seguintes trechos do acórdão impugnado (fls. 16/19; grifamos):
+A título de complementação, e a fim de evitar tautologia, peço vênia para transcrever excerto da decisão que indeferiu o pedido de detração da pena, cuja fundamentação também adoto como razões de decidir (evento 1, OUT4):
+1. Em petição associada ao seq. 147, a defesa constituída de ROBSON FRANCISCO DA COSTA requereu "seja detraído da pena de ROBSON FRANCISCO DA COSTA, 1 ano(s), 8 mês(es), 7 dia(s) dias de prisão preventiva correspondente a Ação Penal nº 0011995-60.2016.8.19.0061, por suposto fato ocorrido em junho de 2016, segregado cautelarmente no período compreendido entre 09/08/2016 e 13/04/2018, para que seja contada como pena cumprida". Aduziu que "as condenações advindas na presente execução, foram praticados em momento anterior à prisão preventiva decretada no âmbito da Ação Penal nº 0011995-60.2016.8.19.0061"; "o apenado restou efetivamente absolvido das imputações em seu desfavor, conforme evidenciam os documentos em anexo"; e que "uma vez reconhecido o caráter indevido de sua segregação cautelar na Ação Penal nº 0011995- 60.2016.8.19.0061 no período compreendido entre 09/08/2016 e 13/04/2018, afigura-se inequívoco o direito do preso detrair esse período" (seq. 147). Juntou certidão de inteiro teor relacionada aos autos nº 0011995- 60.2016.8.19.0061 (147.2).
+O Ministério Público Federal se manifestou desfavoravelmente ao pleito defensivo, asseverando que "durante o período apontado pela defesa técnica (9.8.2016 a 13.4.2018), Robson Francisco da Silva já cumpria penas impostas por processos criminais abrangidos nesta Execução Penal (início em 16.3.2006), ou seja, houve concomitância entre a prisão simplesmente decretada noutra ação e o resgate de penas"; e "in casu, o deferimento da detração corresponderia ao duplo cômputo de período no cumprimento de pena, à contagem do tempo de cárcere em dobro." (seq. 150)
+Decido.
+2. Como cediço, a detração da pena, prevista no art. 42 do CP, acarreta abatimento do tempo no qual o réu permaneceu preso preventivamente do total da pena a ele imposta, reconhecendo-se aquele período como pena cumprida. Em regra, isso decorre de análise relacionada ao mesmo processo penal; ou seja, o tempo da prisão preventiva num dado processo é descontado da pena fixada nos mesmos autos.
+É pacífico na jurisprudência pátria que inexiste o direito ao "crédito" de pena decorrente de hipóteses nas quais o réu, preso preventivamente e que venha a ser absolvido ou reconhecida a prescrição da pretensão punitiva no futuro, carregasse consigo um saldo a ser utilizado no caso de cometimento de novo delito.
+Por outro lado, a jurisprudência entende devida a detração pelo tempo no qual o acusado ficou preso cautelarmente por processo penal diverso quando venha a ser absolvido ou reconhecida a prescrição e desde que o delito cuja pena está sendo executada seja anterior ao período no qual permaneceu custodiado pelo outro processo.
+ ..
+Contudo, no presente caso, no período de 09/08/2016 a 13/04/2018, durante o qual o apenado encontrava-se preso por ordem expedida nos autos da ação penal nº 0011995-60.2016.8.19.0061, ROBSON FRANCISCO DA COSTA já se encontrava preso, cumprindo condenações havidas em outras ações penais, como se observa das abas "eventos" e "informações adicionais" deste processo SEEU:
+Portanto, todo o período de sua prisão, desde 28/01/2006, já está sendo computado como tempo de pena cumprida. Isto é, o lapso temporal cuja detração que se pretende reconhecer já foi efetivamente contabilizado como tempo de cumprimento da pena, inexistindo prejuízo ao executado.
+Assim sendo, considerando que o tempo de prisão já foi devidamente computado como pena cumprida, incluindo o período relativo ao processo em que o interno foi absolvido, não há prejuízo ao apenado. Nesse sentido:
+ ..
+Com efeito, não se verifica a indevida restrição de liberdade que autorize a detração em processo diverso, uma vez que, ainda que não tivesse sido decretada a prisão preventiva nos autos da Ação Penal nº 0011995-60.2016.8.19.0061, o apenado permaneceria custodiado em razão de outras ações penais em curso.
+ ..
+Dessa forma, não há a possibilidade de se reconhecer a detração penal pretendida, devendo ser mantida a decisão agravada.
+No caso em apreço, as instâncias ordinárias atestaram, com base em elementos fático-probatórios insuscetíveis de revisão na via estreita do writ, que "no período apontado pela defesa, de 09/08/2016 a 13/04/2018, Robson Francisco da Silva já cumpria penas provenientes de outros processos criminais incluídos na presente Execução Penal, iniciada em 16/03/2006".
+Dessa forma, o tempo de encarceramento que a defesa pretende detrair (2016-2018) já foi computado como tempo de pena cumprida na execução penal em curso. O acolhimento da pretensão defensiva implicaria, inequivocamente, em contar o mesmo período de tempo duas vezes: uma vez como cumprimento da pena em execução e, novamente, como crédito fictício decorrente da absolvição no outro processo.
+Essa dupla contagem configuraria indevido bis in idem e a criação de um saldo de pena inexistente, o que é rechaçado pela jurisprudência consolidada deste Superior Tribunal de Justiça.
+A propósito:
+Direito processual penal. Agravo regimental. Habeas corpus. Detração de pena. Prisão preventiva. SALDO DE PENAS. absolvição posterior. período COINCIDENTE COm cumprimento de pena definitiva DIVERSA. PEDIDO DE duplo desconto da pena. VEDAÇÃO LEGAL. PRINCÍPIO DA COLEGIALIDADE. Agravo regimental não provido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu do habeas corpus, em que se pleiteava a detração de 740 dias de prisão preventiva cumpridos em processos nos quais o agravante foi posteriormente absolvido.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se é cabível a detração de períodos de prisão preventiva cumpridos em processos diversos, nos quais houve absolvição posterior, e se a decisão monocrática violou o princípio da colegialidade.
+ ..
+5. As prisões preventivas foram decretadas quando o agravante já cumpria pena definitiva diversa, não havendo indevida restrição de liberdade.
+6. A detração pretendida resultaria em duplo desconto da pena, saldo de penas, situação vedada pelo ordenamento jurídico.
+IV. Dispositivo e tese
+7. Resultado do Julgamento: Agravo regimental não provido.
+Tese de julgamento:
+1. A decisão monocrática proferida por Relator não afronta o princípio da colegialidade, quando permite a interposição de agravo regimental.
+2. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, salvo em casos de flagrante ilegalidade.
+3. A detração de pena não é cabível quando o período de custódia já está sendo computado para fins de cumprimento da pena principal.
+Dispositivos relevantes citados:CPC, art. 932, III; CPP, art. 3º;
+RISTJ, art. 34, "b".
+Jurisprudência relevante citada:STJ, HC 535.063/SP, Rel. Min. Sebastião Reis Júnior, j. 10.06.2020; STF, AgRg no HC 180.365, Rel. Min. Rosa Weber, j. 27.03.2020.
+(AgRg no HC n. 1.007.284/PR, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 9/9/2025, DJEN de 16/9/2025; grifamos)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. DETRAÇÃO. ART. 42 DO CÓDIGO PENAL. PRISÃO PROVISÓRIA SUPERVENIENTE. PENA EM CURSO. SUPOSIÇÃO DE CÔMPUTO EM DOBRO. IMPOSSIBILIDADE. TEMPO DE PRIVAÇÃO DE LIBERDADE JÁ CONSIDERADO EM OUTRA EXECUÇÃO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1.O art. 42 do Código Penal prevê o cômputo do tempo de prisão provisória na pena privativa de liberdade a ser executada, desde que não esteja simultaneamente em curso o cumprimento de outra condenação definitiva.
+2.Quando o apenado já se encontrava cumprindo pena no momento da superveniência de nova prisão cautelar - ainda que esta tenha resultado posteriormente em absolvição -, não é possível admitir a detração, sob pena de cômputo em dobro de período único de privação de liberdade.
+3.No caso concreto, o agravante permaneceu preso entre 27/1/2012 e 17/5/2022 por força de prisão cautelar em processo do qual foi absolvido, mas esse mesmo período já havia sido considerado como tempo de cumprimento de pena em execuções penais distintas, com base em cálculo homologado judicialmente.
+4.A hipótese não configura interrupção ou inexistência de execução penal, pois a privação de liberdade do recorrente teve fundamento legítimo em outros títulos executivos penais ainda em vigor, o que afasta a possibilidade jurídica da detração pleiteada.
+5.Agravo regimental não provido.
+(AgRg no REsp n. 2.171.452/PR, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 3/9/2025, DJEN de 8/9/2025; grifamos)
+Portanto, não se vislumbra flagrante ilegalidade no acórdão recorrido, que aplicou corretamente o entendimento de que a concomitância entre a prisão cautelar e o cumprimento de pena definitiva impede a detração, sob pena de duplicidade de contagem.
+Ante  o  exposto,  não  conheço  do  habeas  corpus.
+Publique-se. Intimem-se.
+EMENTA
