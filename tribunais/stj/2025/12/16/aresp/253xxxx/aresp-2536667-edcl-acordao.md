@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/12/2025 a 16/12/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Marco Buzzi, João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. OMISSÃO. OBSCURIDADE. CONTRADIÇÃO. INEXISTÊNCIA.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão, contradição ou erro material porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por JOSE CARLOS NOGUEIRA NEIVA LTDA e outras contra acórdão assim ementado (fl. 1.266-1.269):
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. LEGITIMIDADE PASSIVA PARA A CAUSA E FORMAÇÃO DE GRUPO ECONÔMICO. FUNDAMENTO REFERENTE À PRECLUSÃO NÃO IMPUGNADO. SÚMULA N. 283/STF. REEXAME DE PROVAS. SÚMULA N. 7/STJ. 1. A falta de impugnação a fundamento suficiente para manter a conclusão do acórdão recorrido inviabiliza o conhecimento do recurso especial, conforme a Súmula 283/STF. 2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ). 3. Agravo interno a que se nega provimento.
+Nas razões do seu recurso, a parte embargante alega, em síntese, que o acórdão embargado incorreu em contradição e omissão ao não enfrentar, de modo completo, os argumentos do agravo interno sobre a inexistência de grupo econômico entre as empresas recorrentes e a ausência de responsabilidade pelo acidente de trânsito, sustentando cerceamento de defesa e necessidade de exame das razões do agravo interno à luz dos arts. 1.009, 1.010, III, e 489, § 1º, IV, do Código de Processo Civil. Invoca o art. 1.022 do Código de Processo Civil e afirma que a decisão não teria exaurido a análise do tema "grupo empresarial" e não poderia superar, apenas pela preclusão consumativa, a discussão de legalidade e do duplo grau de jurisdição (fls. 1.278-1.280).
+Decorreu o prazo sem apresentação de impugnação (fls. 1.285-1.286).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. OMISSÃO. OBSCURIDADE. CONTRADIÇÃO. INEXISTÊNCIA.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão, contradição ou erro material porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+2. Embargos de declaração rejeitados.
+VOTO
+Os presentes embargos não merecem prosperar.
+A essência da insurgência dos embargantes reside na alegação de que o acórdão embargado teria sido omisso, contraditório ou obscuro ao não abarcar por completo o tema da inexistência de grupo empresarial, da ausência de relação entre os recorrentes e o condutor do veículo, e da inadequação da aplicação da preclusão consumativa, que, em sua visão, limitaria o duplo grau de jurisdição e a legalidade da condenação.
+Contudo, a análise pormenorizada do acórdão embargado demonstra que as questões suscitadas pelos embargantes foram clara e suficientemente abordadas, embora em sentido contrário à sua pretensão.
+Em primeiro lugar, a alegação de que não houve exaurimento da discussão sobre a formação do grupo empresarial familiar e a suposta inexistência de relação entre os recorrentes é manifestamente infundada.
+O acórdão embargado, ao negar provimento ao Agravo Interno, ratificou a inadmissibilidade do Recurso Especial justamente porque a questão da legitimidade passiva para a causa e formação de grupo econômico.
+O trecho do acórdão é explícito (fls. 1.266-1.269):
+Veja-se que o Tribunal de origem, ao julgar a questão da suposta ilegitimidade passiva, assim fundamentou a decisão (e-STJ, fl. 1.081):
+Conforme expressamente consignado no acordão, as ora embargantes foram consideradas legítimas para figurar no polo passivo da ação por decisão anterior, proferida por ocasião do julgamento do Agravo de Instrumento nº. 1.0000.18.008001-2/001, operando-se sobre a questão a preclusão, a obstar nova discussão nos autos deste processo.
+Rejeito, por isso, a alegação de contrariedade aos arts. 489 e 1022 do CPC.
+Além disso, a Corte local assentou o acórdão em fundamento autônomo (e- STJ, fl. 1049):
+Os apelantes aduzem em seu recurso que "não existe entre os Apelantes um grupo econômico, vez que não há unidade gerencial, laboral e patrimonial entre eles.".
+Como se sabe, o direito processual regula os prazos para a prática de atos operando-se sobre eles a preclusão, a perda do direito de praticar determinada ação.
+Dentre as formas de preclusão, a consumativa é aquela em que não se permite mais a atuação, por ter sido em outro momento praticada.
+A situação dos autos demonstra clara violação à preclusão consumativa, em razão de a questão relativa à de configuração do grupo econômico ter sido analisada pelo magistrado de origem e posteriormente referendada por este Tribunal de Justiça, por ocasião do julgamento do Agravo de Instrumento nº (..).
+Observo que os agravantes não rebateram a fundamentação da ocorrência da preclusão consumativa, de modo que o recurso especial encontra óbice na Súmula nº 283, do STF.
+De qualquer modo, o acórdão está em harmonia com a orientação firmada na jurisprudência deste Tribunal Superior a respeito da preclusão. A propósito:
+(..)
+Ainda que esses fundamentos pudessem ser superados, a alegação de que não existe o grupo econômico considerado pelo acórdão recorrido e de que, consequentemente, as recorrentes não são responsáveis, não prescinde do reexame de prova. Por isso, foi aplicada ao caso a Súmula 7/STJ.
+Essa fundamentação, que invocou a preclusão consumativa e a Súmula n. 283 do Supremo Tribunal Federal, constituiu um fundamento autônomo e suficiente para manter a conclusão do julgado.
+A ausência de impugnação específica desse fundamento nas razões recursais do Agravo em Recurso Especial pelos embargantes inviabilizou o conhecimento do próprio recurso, como corretamente assinalado pelo acórdão embargado.
+Os embargantes, ao tentarem, por meio destes declaratórios, reabrir a discussão sobre a existência ou não do grupo econômico, estão, na verdade, buscando uma nova valoração das provas e um reexame do mérito da questão já atingida pela preclusão, o que é vedado pela via eleita.
+O acórdão, portanto, não padece de contradição ou omissão ao não se aprofundar novamente em tema que, por força processual, não poderia ser rediscutido.
+Em segundo lugar, a afirmação de que a decisão não abordou a ausência de relação entre o condutor do veículo e as empresas, tampouco a ausência de ato ilícito praticado por estas, violando artigos do Código Civil (186, 927 e 932, III) e do Código de Processo Civil (1.022, II, par. único, II, e 489, § 1º, IV), também não se sustenta.
+O Acórdão embargado, ao aplicar a Súmula n. 7 do Superior Tribunal de Justiça, explicou claramente que a "alegação de que não existe o grupo econômico considerado pelo acórdão recorrido e de que, consequentemente, as recorrentes não são responsáveis, não prescinde do reexame de prova" (fls. 1.266-1.269).
+Conforme decidido, o afastamento das conclusões das instâncias ordinárias sobre a configuração da responsabilidade civil implicaria o reexame do conjunto fático-probatório, o que é inviável em Recurso Especial.
+A argumentação dos embargantes de que a decisão não se debruçou sobre a ausência de vínculo ou ausência de ato ilícito é, portanto, uma tentativa de forçar o reexame de provas sob o pretexto de omissão ou contradição, o que é inadmissível em sede de Embargos de Declaração.
+A decisão embargada não apresenta, sob este prisma, qualquer vício sanável pela via dos embargos, mas sim uma clara oposição dos embargantes à fundamentação adotada e ao resultado do julgamento.
+Em terceiro lugar, o argumento de que a preclusão consumativa não poderia superar a questão da legalidade e invalidar o duplo grau de jurisdição configura mais um esforço para rediscutir a correta aplicação de um instituto processual já analisado.
+A preclusão consumativa é um pilar do sistema processual, impedindo que questões já decididas sejam indefinidamente levantadas, assegurando a estabilidade e a eficiência da tutela jurisdicional.
+A Quarta Turma do STJ, ao negar provimento ao Agravo Interno, não fez mais do que corroborar a correta aplicação da preclusão, harmonizando-se com a jurisprudência desta Corte Superior.
+É fundamental destacar que o duplo grau de jurisdição foi devidamente observado ao longo de todas as fases processuais nas instâncias ordinárias, com a interposição e julgamento de Agravos de Instrumento e Apelação Cível, e respectivos Embargos de Declaração, pelo TJMG. A preclusão, neste contexto, não suprime o duplo grau, mas delimita os contornos da matéria passível de nova análise recursal, em conformidade com as regras processuais que regem a formação da coisa julgada e a estabilidade das decisões.
+Portanto, as alegações dos embargantes não apontam para a existência de omissão, contradição ou obscuridade no acórdão embargado, mas sim para o seu inconformismo com o resultado do julgamento e a tentativa de reabrir questões de mérito e de índole fático-probatória já dirimidas e preclusas.
+Ademais, não se exige do julgador a análise de todos os argumentos das partes, a fim de expressar o seu convencimento. O pronunciamento acerca dos fatos controvertidos encontra-se objetivamente fixado nas razões da decisão embargada, motivo pelo qual rejeito a alegação de omissão no julgado.
+A propósito, confira-se:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ART. 1.022 DO CPC. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE, ERRO MATERIAL. AUSÊNCIA.1. Os embargos de declaração, conforme dispõe o art. 1.022 do CPC, destinam-se a suprir omissão, afastar obscuridade, eliminar contradição ou corrigir erro material existente no julgado, o que não ocorre na hipótese em apreço.  3. O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida. 4. Embargos de declaração rejeitados. (EDcl no AgRg nos EREsp 1.483.155/BA, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, julgado em 15/6/2016, DJe 3/8/2016)
+Assim, não demonstrada efetivamente a existência de nenhum dos vícios previstos no art. 1.022 do Código de Processo Civil, conclui-se que a pretensão da parte embargante é unicamente o rejulgamento da causa, finalidade à qual não se presta a via eleita.
+Nesse sentido, veja-se o seguinte precedente:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA. MERO INTUITO DE REJULGAMENTO DA LIDE. AUSÊNCIA DA OMISSÃO QUE ENSEJARIA A INTERPOSIÇÃO DO RECURSO INTEGRATIVO. EMBARGOS REJEITADOS. 1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas no acórdão embargado, já que não são cabíveis para provocar novo julgamento da lide. 2. Não há que se confundir decisão contrária aos interesses da parte e negativa de prestação jurisdicional, nem fundamentação sucinta com ausência de fundamentação. Precedentes. 3. Embargos de declaração rejeitados. (EDcl no AgRg nos EREsp 1.213.226/SC, Rel. Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 24/10/2016, DJe 22/11/2016)
+Em face do exposto, rejeito os embargos de declaração.
+É como voto.
