@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por AKAD SEGUROS S.A. contra a decisão que não conheceu do Agravo em Recurso Especial em razão da ausência de impugnação dos fundamentos da decisão que não admitiu o Recurso Especial, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante que:
+Em primeiro lugar, o Nobre Ministro se equivoca, data máxima vênia, quando indica a Súmula 7, visto que esta dispõe sobre reexame de fatos e provas.
+Além disso, em relação a suposta ausência de impugnação específica quanto à impossibilidade de demonstração de divergência jurisprudencial em face de súmula, a Embargante apresentou de forma expressa e fundamentada a impugnação ao referido ponto, demonstrando que o Recurso Especial não se baseou em dissídio com súmula, mas sim em divergência interpretativa entre acórdãos de tribunais diversos acerca da aplicação da norma federal ao caso concreto, em conformidade com o disposto no art. 105, III, "c", da Constituição Federal e nos arts. 1.029, §1º, e 1.036 do CPC.
+ ..
+Sabendo que a matéria em questão é unicamente de direito, o recurso deveria confirmar a afronta acometida aos artigos 186, 732, 744, 750, 786 e 944 do Código Civil, artigos 22, III e 37 da Convenção de Montreal, artigo 25 da Convenção de Varsóvia, artigo 5º da Lei de Introdução às Normas do Direito Brasileiro e ao Enunciado n.º 188 da Súmula do Supremo Tribunal Federal, além da jurisprudência dominante sobre o assunto.
+Não é necessária a análise fática e documental in casu, visto que deverão ser observadas as disposições dos artigos afrontados, já que são completamente adequados para demonstrar que a Convenção de Montreal NÃO possui validade e eficácia in casu, haja vista que, uma vez dada a ciência do valor da carga ao transportador, o entendimento majoritário e pacificado sobre o assunto é a indenização integral do valor pago pela Seguradora a título de indenização (fls. 402/403).
+Requer, assim, o conhecimento e o acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes Aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+A propósito, da análise do Agravo em Recurso Especial observa-se que a parte agravante deixou de impugnar especificamente os fundamentos da decisão agravada, conforme exigido pelo art. 253, parágrafo único, do RISTJ, a saber: Súmula 7/STJ e impossibilidade de alegação de divergência com súmula.
+Veja-se que a refutação apta a infirmar a decisão agravada deve ser efetiva, individualizada, específica e fundamentada (AgInt no REsp n. 1.535.657/MT, Rel. Ministro Luís Felipe Salomão, Quarta Turma, DJe de 26.8.2020).
+Relativamente à Súmula n. 7 do STJ, não basta a parte "sustentar genericamente que a matéria seria apenas jurídica, sem explicitar, à luz da tese recursal trazida no Recurso Especial, de que maneira a análise não dependeria do reexame de provas". (AgRg no AREsp n. 1.677.886/MS, Rel. Ministra Laurita Vaz, Sexta Turma, DJe de 3.6.2020).
+Nesse mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. SÚMULA 182/STJ. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. A decisão ora recorrida não conheceu do agravo em razão da não impugnação aos fundamentos da decisão que inadmitiu o recurso especial na origem, notadamente quanto à Súmula 7/STJ (condenação solidária da União e do Estado da Bahia). Assim, consignou-se a incidência da Súmula 182 do STJ.
+2. A parte, para ver seu recurso especial inadmitido ascender a esta Corte, precisa, primeiro, desconstituir os fundamentos utilizados para a negativa de seguimento daquele recurso sob pena de vê-los mantidos.
+3. É mister repetir que as razões demonstrativas do desacerto da decisão agravada devem ser veiculadas imediatamente nessa oportunidade, pois convém frisar não ser admitida fundamentação a destempo, a fim de inovar a justificativa para ascensão do recurso excepcional, diante da preclusão consumativa.
+4. Em nova análise do agravo interposto, tem-se que a parte agravante efetivamente não rebateu todos os fundamentos da decisão de inadmissão do recurso especial, incidindo à espécie o Enunciado da Súmula 182 do STJ.
+5. Inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada ou simplesmente a insistência no mérito da controvérsia. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual.
+6. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.907.380/BA, Rel. Ministro Manoel Erhardt (Desembargador convocado do TRF5), Primeira Turma, DJe de 14.10.2021)
+Importante registrar que o momento adequado para impugnação dos fundamentos da decisão que inadmite o Recurso Especial é a interposição do Agravo em Recurso Especial, sob pena de preclusão caso feita posteriormente.
+Ressalte-se que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, os EDcl no AgRg nos EREsp n. 1.315.507/SP, Rel. Ministro Luis Felipe Salomão, Corte Especial, DJe de 28.8.2014.
+Assim, não há nenhuma irregularidade sanável por meio dos presentes Embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos E mbargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se.
+Intimem-se.
+ EMENTA
