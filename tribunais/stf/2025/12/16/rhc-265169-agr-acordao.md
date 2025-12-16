@@ -1,0 +1,371 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 9
+
+16/12/2025
+
+PRIMEIRA TURMA
+
+AG.REG. NO RECURSO ORDINÁRIO EM HABEAS CORPUS 265.169 RIO
+GRANDE DO SUL
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+ADV.(A/S)
+ADV.(A/S)
+ADV.(A/S)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+
+: MIN. ALEXANDRE DE MORAES
+: MARCIELI LAZZAROTTO PEREIRA DA SILVA
+: MARCELO MARCANTE FLORES
+: STEFANI AMORIM DA SILVA
+: JERRI ADRIANO MACHADO DE MEDEIROS
+: GUILHERME GAZAVE
+: MINISTÉRIO PÚBLICO FEDERAL
+: PROCURADOR-GERAL DA REPÚBLICA
+
+EMENTA: AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO.
+MATÉRIAS SUSCITADAS NÃO EXAMINADAS PELO SUPERIOR
+TRIBUNAL
+DE
+JUSTIÇA.
+SUPRESSÃO
+DE
+INSTÂNCIA.
+REVOLVIMENTO DE FATOS E PROVAS. INVIABILIDADE
+I. CASO EM EXAME
+1. Recorrente condenada à pena de 6 anos e 5 meses de reclusão, em
+regime fechado, pela prática do crime de tráfico de drogas.
+II. QUESTÃO EM DISCUSSÃO
+2. Recurso no qual se busca a incidência da causa de redução da
+pena prevista no art. 33, § 4º, da Lei 11.343/06.
+III. RAZÕES DE DECIDIR
+3. Além de não haver qualquer ilegalidade no acórdão impugnado
+— uma vez que é inviável a utilização do Habeas Corpus quando ajuizado
+com o objetivo de promover a análise da prova penal (HC 118912 AgR,
+Rel. Min. CELSO DE MELLO, Segunda Turma, DJe de 13/2/2014) —
+verifica-se que não houve prévio debate, no órgão colegiado do STJ,
+acerca das específicas questões suscitadas, o que inviabiliza o
+conhecimento do pedido por esta SUPREMA CORTE.
+IV. DISPOSITIVO
+4. Agravo Regimental a que se nega provimento.
+ACÓRDÃO
+A Turma, por unanimidade, negou provimento ao agravo
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 8A55-6E84-A11E-BF24 e senha BDF9-B79E-6B2C-DE5C
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 2 de 9
+
+RHC 265169 AGR / RS
+regimental, nos termos do voto do Relator, Ministro Alexandre de
+Moraes.
+Publique-se.
+Brasília, 16 de dezembro de 2025.
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 8A55-6E84-A11E-BF24 e senha BDF9-B79E-6B2C-DE5C
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 9
+
+AG.REG. NO RECURSO ORDINÁRIO EM HABEAS CORPUS 265.169 RIO
+GRANDE DO SUL
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+ADV.(A/S)
+ADV.(A/S)
+ADV.(A/S)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+
+: MIN. ALEXANDRE DE MORAES
+: MARCIELI LAZZAROTTO PEREIRA DA SILVA
+: MARCELO MARCANTE FLORES
+: STEFANI AMORIM DA SILVA
+: JERRI ADRIANO MACHADO DE MEDEIROS
+: GUILHERME GAZAVE
+: MINISTÉRIO PÚBLICO FEDERAL
+: PROCURADOR-GERAL DA REPÚBLICA
+RELATÓRIO
+
+O SENHOR MINISTRO ALEXANDRE DE MORAES (RELATOR):
+Trata-se de Agravo Regimental em face de decisão que negou
+provimento ao Recurso Ordinário interposto contra acórdão da Sexta
+Turma do Superior Tribunal de Justiça, proferido no julgamento do
+Agravo Regimental no HC 1.018.376/RS, submetido à relatoria do Ministro
+ANTONIO SALDANHA PALHEIRO.
+Consta dos autos que a paciente foi condenada à pena de 10 anos e 6
+meses de reclusão, em regime fechado, pela prática dos crimes de tráfico
+de drogas e de associação para o tráfico (arts. 33 e 35, c/c art. 40, I, da Lei
+11.343/2006).
+Em resumo, colhe-se da denúncia:
+[...]
+3.7 Apreensão/tráfico de 8 Kg de cocaína em Porto Alegre
+No dia 06/12/2013, por volta das 13h30min, realizada a
+prisão em flagrante de CLEBER DA SILVA ALEXANDRE.
+integrante do grupo de TIAGO BENHUR FLORES PEREIRA,
+vulgo BH, ao chegar na residência, localizada na Rua Salto do
+Jacuí, 64, Jardim Carvalho, Porto Alegre/RS, tripulando um
+FIAT/UNO, prata, placas IIN 0679, tendo sido encontrado em
+sua posse oito tijolos contendo cocaína, pesando ao todo
+idênticos oito quilos da droga. Na busca realizada no interior da
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 740E-7259-4271-E706 e senha D350-A483-D77F-214E
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 4 de 9
+
+RHC 265169 AGR / RS
+residência de CLEBER, a equipe de policiais encontrou mais
+duas pistolas, um revólver, munição e mais R$ 15.642,55.
+O flagrante foi lavrado sob o IPL no 1384/2013-SR/RS,
+distribuído para a Justiça Estadual em Porto Alegre, sob o
+processo no 001/2.13.0094764-9.
+Com o monitoramento telefônico, evidenciou-se que a
+droga apreendida era parte de um carregamento de droga
+adquirida (50 Kg de cocaína) por ENIO SANTOS SILVA, vulgo
+TCHE LOCO, em negociação realizada em Ciudad del Este/PY,
+em conjunto com seu sócio FABRÍCIO SANTOS DA SILVA,
+vulgo GURI, que na época já estava preso, com o fornecedor de
+drogas identificado como PADRE, tendo LORIVAL MATE, o
+GAÚCHO,
+participado
+ativamente
+das
+negociações,
+coordenando o transporte do entorpecente.
+Apurou-se que o carregamento de 50 Kg de cocaína
+enviado por ENIO foi distribuído da seguinte forma: 23 Kg para
+o cliente da organização identificado como VOLMIR LESEUX,
+vulgo NEGO; 12 Kg para JULIANO NUNES FERREIRA, vulgo
+TUFÃO, operacional de ENIO e 15 Kg para EVANDRO
+REINALDO NOGY DA ROSA, vulgo VANDO, operacional de
+GURI. VOLMIR comprou diretamente da organização, TUFÃO
+e VANDO atuaram como entreposto para fornecimento para
+outros distribuidores da organização, como já demonstrado
+diversas vezes nos outros carregamentos apreendidos.
+O transporte da droga foi organizado por LORIVAL
+MATE, vulgo GAÚCHO, em conjunto com EVANDRO
+BORCHEID DOS SANTOS, vulgo JAPA, sendo que ROBERTO
+CALESCURA e CARLOS ROBERTO ASSMANN, vulgo
+CABELUDO, estiveram no Paraguai para tratar da parte do
+carregamento que era destinada a VOLMIR LESEUX, vulgo
+NEGO. Por sua vez, EVANDRO REINALDO NOGY DA ROSA,
+vulgo VANDO, negociou 8 kg de cocaína com TIAGO BENHUR
+FLORES PEREIRA, vulgo BH. Este acertou com MARCOS
+VINÍCIUS SILVEIRA DE JEZUS o recebimento da droga.
+MARCOS VINÍCIUS acionou CLEBER DA SILVA ALEXANDRE
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 740E-7259-4271-E706 e senha D350-A483-D77F-214E
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 5 de 9
+
+RHC 265169 AGR / RS
+para buscar a cocaína de BENHUR em Novo Hamburgo.
+MARCIELI LAZZAROTTO PEREIRA, companheira de
+FABRÍCIO, vulgo GURI, que estava preso na época, intermediou
+a negociação da droga com TCHE LOCO e o orientou acerca dos
+procedimentos a serem adotados, mantendo contato com os
+compradores da ORCRIM. Também se verificou a participação
+ativa de ROSILAINE SCHNEIDER, esposa de ENIO SANTOS
+SOUZA, vulgo TCHE LOCO, que passou orientações para
+JULIANO, vulgo TUFÃO, acerca da droga.
+[...]
+
+O Tribunal Regional Federal da 4ª Região deu parcial provimento ao
+apelo defensivo para absolvê-la do crime de associação para o tráfico de
+drogas. Com isso, a pena ficou estabelecida no patamar de 6 anos e 5 meses
+de reclusão, em regime semiaberto.
+Impetrou-se, então, Habeas Corpus no Superior Tribunal de Justiça,
+não conhecido pelo Ministro relator. Interposto Agravo Regimental, a
+Sexta Turma decidiu nos termos da seguinte ementa:
+[...]
+III. Razões de decidir
+3. O habeas corpus não se presta à rediscussão de matéria
+fática ou jurídica que demande aprofundado exame probatório,
+tampouco pode ser utilizado como sucedâneo de recurso próprio
+ou revisão criminal, salvo em situações excepcionais de
+manifesta ilegalidade ou teratologia patente.
+4. A jurisprudência consolidada nos Tribunais Superiores
+rechaça a utilização do habeas corpus para tais finalidades,
+admitindo seu conhecimento apenas em casos de evidente
+constrangimento ilegal insuperável por outra via.
+5. No caso concreto, não se vislumbra teratologia ou
+ilegalidade manifesta que autorize o excepcional conhecimento
+do remédio constitucional.
+IV. Dispositivo e tese
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 740E-7259-4271-E706 e senha D350-A483-D77F-214E
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 6 de 9
+
+RHC 265169 AGR / RS
+6. Agravo regimental desprovido.
+
+No Recurso Ordinário, a defesa “requer seja dado provimento ao presente
+recurso constitucional de modo a conceder a ordem de habeas corpus para
+reconhecer a incidência da minorante prevista no art. 33, § 4º, da Lei 11.343/06,
+com a redução da pena da paciente em seu grau máximo”.
+Neguei provimento.
+Neste recurso, a defesa reforça os argumentos anteriormente
+expendidos. Ao final, requer seja o presente Agravo provido pela Turma
+Julgadora, concedendo-se a ordem, nos termos do pedido inicial.
+É o relatório.
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 740E-7259-4271-E706 e senha D350-A483-D77F-214E
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 7 de 9
+
+AG.REG. NO RECURSO ORDINÁRIO EM HABEAS CORPUS 265.169 RIO
+GRANDE DO SUL
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+ADV.(A/S)
+ADV.(A/S)
+ADV.(A/S)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+
+: MIN. ALEXANDRE DE MORAES
+: MARCIELI LAZZAROTTO PEREIRA DA SILVA
+: MARCELO MARCANTE FLORES
+: STEFANI AMORIM DA SILVA
+: JERRI ADRIANO MACHADO DE MEDEIROS
+: GUILHERME GAZAVE
+: MINISTÉRIO PÚBLICO FEDERAL
+: PROCURADOR-GERAL DA REPÚBLICA
+VOTO
+
+O SENHOR MINISTRO ALEXANDRE DE MORAES (RELATOR):
+Não há reparo a fazer, pois o Agravo Regimental não apresentou
+qualquer argumento apto a desconstituir os fundamentos apontados,
+pelo que se reafirma o seu teor.
+A respeito da matéria suscitada nesta impetração, o Superior
+Tribunal de Justiça limitou-se a registrar que:
+O habeas corpus não se presta à rediscussão de matéria
+fática ou jurídica que demande aprofundado exame probatório,
+tampouco pode ser utilizado como sucedâneo de recurso
+próprio ou de revisão criminal. A jurisprudência consolidada
+no âmbito dos Tribunais Superiores é uníssona em rechaçar a
+utilização do writ para tal finalidade, admitindo seu
+conhecimento apenas em situações de manifesta ilegalidade,
+teratologia patente na decisão impugnada ou evidente
+constrangimento ilegal insuperável por outra via.
+
+Além de não haver qualquer ilegalidade no acórdão impugnado —
+uma vez que é inviável a utilização de Habeas Corpus quando ajuizado
+com o objetivo de promover a análise da prova penal ou de efetuar o
+reexame do conjunto probatório regularmente produzido (HC 118912
+AgR, Rel. Min. CELSO DE MELLO, Segunda Turma, DJe de 13/2/2014;
+RHC 257017 AgR, Rel. Min. ALEXANDRE DE MORAES, Primeira
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 003F-E7C2-C45B-F87F e senha E03A-F027-81BC-C908
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 8 de 9
+
+RHC 265169 AGR / RS
+Turma, DJe de 2/9/2025) — verifica-se, ainda, que a inexistência de prévio
+exame pelo órgão colegiado do STJ a respeito das específicas questões
+suscitadas pela defesa inviabiliza o conhecimento do pedido por esta
+SUPREMA CORTE. Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO.
+MATÉRIA NÃO EXAMINADA NO ATO APONTADO
+COATOR.
+CONSTRANGIMENTO
+ILEGAL
+NÃO
+EVIDENCIADO.
+[...]
+III. RAZÕES DE DECIDIR
+3. É inviável a esta SUPREMA CORTE conhecer de
+matéria que não foi objeto de exame no ato apontado como
+coator, que se limitou a não conhecer do pedido por configurar
+mera reprodução de fundamentos expostos em impetração
+anterior. Precedentes.
+IV. DISPOSITIVO
+4. Agravo Regimental a que se nega provimento.
+(RHC 241996 AgR, Rel. Min. ALEXANDRE DE MORAES,
+Primeira Turma, DJe de 8/7/2024)
+
+No mesmo sentido: RHC 260641 AgR, Rel. Min. DIAS TOFFOLI,
+Segunda Turma, DJe de 23/9/2025; HC 260012 AgR, Rel. Min.
+CRISTIANO ZANIN, Primeira Turma, DJe de 17/9/2025; HC 259929 AgR,
+Rel. Min. ANDRÉ MENDONÇA, Segunda Turma, DJe de 19/9/2025; HC
+260057 AgR, Rel. Min. CÁRMEN LÚCIA, Primeira Turma, DJe de
+18/9/2025; HC 259511 AgR, Rel. Min. ALEXANDRE DE MORAES,
+Primeira Turma, DJe de 17/9/2025; HC 260392 AgR, Rel. Min. LUIZ FUX,
+Primeira Turma, DJe de 24/9/2025; HC 260016 AgR, Rel. Min. FLÁVIO
+DINO, Primeira Turma, DJe de 22/9/2025.
+Diante do exposto, NEGO PROVIMENTO ao Agravo Regimental.
+É o voto.
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 003F-E7C2-C45B-F87F e senha E03A-F027-81BC-C908
+
+Supremo Tribunal Federal
+Extrato de Ata - 16/12/2025
+
+Inteiro Teor do Acórdão - Página 9 de 9
+
+PRIMEIRA TURMA
+
+EXTRATO DE ATA
+
+AG.REG. NO RECURSO ORDINÁRIO EM HABEAS CORPUS 265.169 RIO GRANDE
+DO SUL
+PROCED. : RIO GRANDE DO SUL/RS
+RELATOR(A): MIN. ALEXANDRE DE MORAES
+AGTE.(S): MARCIELI LAZZAROTTO PEREIRA DA SILVA
+ADV.(A/S): MARCELO MARCANTE FLORES (58875/DF, 72813/RS)
+ADV.(A/S): STEFANI AMORIM DA SILVA (119436/RS)
+ADV.(A/S): JERRI ADRIANO MACHADO DE MEDEIROS (115619/RS)
+ADV.(A/S): GUILHERME GAZAVE (125261/RS)
+AGDO.(A/S): MINISTÉRIO PÚBLICO FEDERAL
+PROC.(A/S)(ES): PROCURADOR-GERAL DA REPÚBLICA
+Decisão: A Turma, por unanimidade, negou provimento ao agravo
+regimental, nos termos do voto do Relator, Ministro Alexandre de
+Moraes. Primeira Turma, Sessão Virtual de 5.12.2025 a 15.12.2025.
+Composição: Ministros Flávio Dino (Presidente), Cármen Lúcia,
+Alexandre de Moraes e Cristiano Zanin.
+Cintia da Silva Gonçalves
+Secretária da Primeira Turma
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 7E18-186D-1DEB-F7CB e senha 5079-879A-0CA8-7D16
