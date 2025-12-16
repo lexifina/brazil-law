@@ -1,0 +1,37 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por SIDENOR HOLDINGS EUROPA S.A. contra decisão que inadmitiu recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 9/12/2024.
+Concluso ao gabinete em: 7/5/2025.
+Ação: regressiva de indenização, ajuizada por TOKIO MARINE SEGURADORA S.A., em face de W RTSIL  FINLAND OY e SIDENOR HOLDINGS EUROPA S.A., na qual requer o pagamento, em regresso, da indenização securitária referente a equipamento industrial supostamente avariado.
+Decisão interlocutória: reconheceu a competência estatal ao rejeitar a alegação de convenção de arbitragem e afastou a incompetência territorial.
+Acórdão: deu provimento ao agravo de instrumento interposto por W RTSIL  FINLAND OY, nos termos da seguinte ementa:
+Direito Civil. Contrato de seguro. Arbitragem. Ação regressiva para cobrança de indenização securitária. Sub-rogação da seguradora. Eficácia e transmissibilidade da cláusula compromissória firmada entre a empresa segurada e a fornecedora de motor de geração de energia elétrica. Inteligência do disposto nos artigos 349 e 786, ambos do Código Civil. Agravo de instrumento tirado contra decisão que, em ação regressiva de indenização securitária, deixou de reconhecer a eficácia de compromisso arbitral efetivado em contrato firmado entre a segurada e a fornecedora de equipamento que apresentou defeito, ensejando o pagamento de indenização por parte da seguradora. Preliminar de incompetência territorial afastada. O compromisso arbitral é ato jurídico de natureza híbrida, envolvendo aspectos de direito material e processual (REsp 606.345/RS). Assim, considerando que na sub-rogação a seguradora passa a ocupar exatamente a mesma posição contratual do segurado, subsiste eventual cláusula compromissória firmada entre o segurado e o causador do dano. Extinção do processo sem apreciação de mérito, na forma do artigo 485, VII do Código de Processo Civil. Recurso provido. (e-STJ fl. 155)
+Embargos de Declaração: opostos por TOKIO MARINE SEGURADORA S.A., foram acolhidos para o fim de julgar extinto o processo apenas em relação à W RTSIL  FINLAND OY, com o prosseguimento quanto à SIDENOR HOLDINGS EUROPA S.A.
+Embargos de Declaração: opostos por SIDENOR HOLDINGS EUROPA S.A., foram rejeitados.
+Recurso especial: alega violação dos arts. 11, 55, 114, 313, V, a, 489, § 1º, IV, 1.022, e 926 do CPC, bem como dissídio jurisprudencial. Além da negativa de prestação jurisdicional, afirma que a conexão entre as demandas impõe julgamento conjunto e que o litisconsórcio passivo necessário impede a cisão do processamento entre Poder Judiciário e arbitragem. Aduz que, havendo relação de prejudicialidade, a ação deve permanecer suspensa até a definição na arbitragem. Argumenta que houve falta de fundamentação quanto à separação das demandas e ao risco de decisões conflitantes. Assevera que há divergência interpretativa em tribunais estaduais e requer uniformização nos termos do dever de estabilidade e coerência jurisprudencial.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação aos arts. 489 e 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt no REsp 1.726.592/MT, Terceira Turma, DJe 31/8/2020; e AgInt no AREsp 1.518.178/MG, Quarta Turma, DJe 16/3/2020.
+No particular, observa-se que o acórdão recorrido, embora desfavorável às pretensões da parte recorrente, enfrentou de forma expressa e devidamente fundamentada a alegação de risco de decisões conflitantes. O Tribunal consignou que, inexistindo arbitragem instaurada, não há qualquer risco atual ou concreto de conclusões divergentes, sendo inadmissível presumir conflito meramente hipotético para afastar a decisão proferida. Acrescentou, ainda, que eventuais controvérsias relativas à responsabilidade da fabricante serão examinadas no curso regular do processo judicial, não cabendo examiná-las nesta fase.
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não subsiste alegação de violação dos arts. 489 e 1.022 do CPC.
+Ademais, conforme entendimento desta Corte, "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte, como ocorreu na espécie. Violação do art. 489, § 1º, do CPC/2015 não configurada" (AgInt no REsp 1.584.831/CE, DJe 21/6/2016).
+No mesmo sentido: AgInt nos EDcl no AREsp 1.547.208/SP, Terceira Turma, DJe 19/12/2019 e AgInt no AREsp 1.480.314/RJ, Quarta Turma, DJe 19/12/2019.
+Desse modo, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação aos artigos 489 e 1.022, incidindo, quanto ao ponto, a Súmula n. 568/STJ.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 11, 55, 114, 313, V, a, IV, e 926 do CPC indicados como violados, apesar da oposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+- Da divergência jurisprudencial
+Por fim, a ausência de prequestionamento do tema que se supõe divergente, impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República.
+Nesse sentido: AgInt no AREsp 2.578.222/RN, Terceira Turma, DJEN de 24/11/2025; AgInt no AREsp 2.763.744/RS, Quarta Turma, DJEN de 3/10/2025.)
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários na forma do art. 85, §11, do CPC, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO REGRESSIVA DE INDENIZAÇÃO SECURITÁRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO.
+1. Ação regressiva de indenização securitária.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+5. A ausência de prequestionamento do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República.
+6. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
