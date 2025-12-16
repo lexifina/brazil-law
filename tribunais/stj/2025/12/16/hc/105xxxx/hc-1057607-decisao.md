@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de Habeas Corpus impetrado em favor de MALAMAM RIBEIRO DOS SANTOS FILHO em que se aponta como ato coator o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Revisão Criminal n. 2279541-93.2025.8.26.0000)
+Consta dos autos que o paciente foi condenado à pena de 1 (um) ano de reclusão, em regime inicial aberto, pela prática do delito previsto no art. 129, § 13, do Código Penal, com suspensão condicional da pena por 2 (dois) anos e fixação de indenização mínima de 1 (um) salário-mínimo em favor da vítima. A apelação foi desprovida e a revisão criminal foi julgada improcedente.
+Em suas razões, sustenta o impetrante a ocorrência de constrangimento ilegal, porquanto a condenação carece de suporte probatório suficiente, indicando que o conjunto dos autos não autoriza o decreto condenatório e requer a absolvição com base na insuficiência de provas.
+Afirma que não houve dolo na conduta, pois o contato físico ocorreu no contexto de disputa pelo aparelho celular e a própria vítima declarou ausência de intenção de lesionar, de modo que, no máximo, estaria configurada culpa.
+Subsidiariamente, argumenta pela desclassificação do delito para lesão corporal culposa, sustentando que a dinâmica dos fatos afasta o elemento volitivo necessário ao tipo doloso do art. 129, § 13, do Código Penal.
+Requer, no mérito, a absolvição do paciente. Subsidiariamente, pugna pela desclassificação da conduta para lesão corporal culposa.
+É o relatório.
+Decido.
+A Terceira Seção do STJ, no julgamento do HC n. 535.063/SP, firmou entendimento de que não cabe Habeas Corpus substitutivo de recurso próprio, impondo-se o não conhecimento da impetração, salvo quando constatada alguma teratologia no ato judicial impugnado (Rel. Ministro Sebastião Reis Júnior, DJe de 25.8.2020).
+Assim, passo à análise das razões da impetração a fim de verificar se há flagrante ilegalidade que justifique a concessão do writ de ofício.
+Na espécie, consta do Voto condutor do acórdão impugnado a seguinte fundamentação para afastar as teses de absolvição e desclassificação:
+Examinando os autos originais, constato que a vítima declarou no decorrer da instrução que no dia do fato ela e o réu discutiram, ele tomou o celular das mãos dela, e quanto tentou pegar o aparelho ele a agrediu com um tapa.
+O Revisionando se manteve em silencio na fase policial (fls. 40 autos originais), e em juízo negou a imputação, sustentando que a vítima se lesionou sozinha. Pegou o celular da mesa e não da mão da vítima. Ela disse que tentaria suicídio porque estava infeliz.
+Embora não haja testemunha presencial, a versão da vítima deve ser prestigiada em detrimento da negativa do réu, porque tem a ampará-la o exame pericial, que constatou lesão compatível com a afirmação que ela fez na fase extrajudicial e em juízo. A defesa, por outro lado, não comprovou que a vítima tenha se autolesionado (fl. 20).
+Na espécie, pelo trecho do julgado acima transcrito, verifica-se que a instância de origem, depois de minuciosa análise dos fatos e provas produzidos nos autos, concluiu pela existência de elementos concretos a ensejar a condenação do paciente e, para concluir em sentido diverso, acolhendo as teses absolutória e desclassificatória, seria necessário o revolvimento de todo o conjunto fático-probatório, providência inadmissível na via estreita do habeas corpus.
+Nesse sentido, vale citar os s eguintes julgados desta Corte: AgRg no HC n. 913.488/SP, Rel. Ministro Ribeiro Dantas, Quinta Turma, DJe de 12.9.2024; AgRg no HC n. 903.472/SP, Rel. Ministro Ribeiro Dantas, Quinta Turma, DJe de 6.9.2024; AgRg no HC n. 838.412/SC, Rel. Ministro Ribeiro Dantas, Quinta Turma, DJe de 6.9.2024; AgRg no HC n. 923.273/SP, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 6.9.2024; AgRg no HC n. 749.134/SP, Rel. Ministra Daniela Teixeira, Quinta Turma, DJe de 3.9.2024; AgRg no HC n. 917.080/SP, Rel. Ministro Ribeiro Dantas, Quinta Turma, DJe de 6.9.2024; AgRg no HC n. 885.771/DF, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 5.9.2024; AgRg nos EDcl no HC n. 867.797/SP, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 29.8.2024; AgRg no HC n. 842.280/SP, Rel. Ministro Messod Azulay Neto, Quinta Turma, DJe de 27.8.2024; AgRg no HC n. 886.081/SP, relator Ministro Messod Azulay Neto, Quinta Turma, DJEN de 13/5/2025; HC n. 978.889/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJEN de 25/4/2025.
+Conclui-se, assim, que no caso em análise não há manifesta ilegalidade a ensejar a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente Habeas Corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
+ EMENTA
