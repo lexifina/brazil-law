@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/12/2025 a 16/12/2025, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Marco Buzzi, João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PENHORA DE DIREITOS SOBRE IMÓVEL BEM DE FAMÍLIA. POSTERIOR QUITAÇÃO. DECISÃO EM PROCESSO CONEXO DETERMINANDO A BAIXA DA ALIENAÇÃO FIDUCIÁRIA E DA PENHORA. INTIMAÇÃO DA PARTE PARA SE MANIFESTAR SOBRE O INTERESSE NO PROSSEGUIMENTO DO FEITO. TRANSCURSO DO PRAZO. PERDA SUPERVENIENTE DE OBJETO.
+1. Com a notícia do adimplemento do financiamento do imóvel e a juntada de documentação atestando a baixa da alienação e da penhora, foi intimada a parte agravante para manifestar eventual interesse no prosseguimento do feito. Diante da inércia da parte, configura-se a verdade processual acerca da perda superveniente de objeto, circunstância que importa prejuízo ao conhecimento do agravo interno.
+2. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno interposto por Santana S.A. - Crédito, Financiamento e Investimento contra decisão de fls. 123-124, que conheceu do agravo para não conhecer do recurso especial, destacando que não foi comprovado o dissídio jurisprudencial apontado.
+Embargos de declaração foram opostos contra a decisão agravada, sendo rejeitados (fls. 141-142).
+Nas razões do presente recurso, o agravante defende que a pretensão é reformar o acórdão do Tribunal do Estado de Justiça de São Paulo que negou provimento ao agravo de instrumento, reconhecendo a impenhorabilidade do bem de família.
+Argumenta que foi realizado o devido cotejo analítico entre as teses dos tribunais estaduais, destacando a similitude fática e jurídica. Afirma que não há necessidade de reexame de fatos e provas, apenas a determinação à instância inferior para observar a divergência jurisprudencial em situações semelhantes. Requer a reconsideração da decisão singular ou, em sua negativa, que ela seja submetida ao julgamento colegiado, para dar provimento ao recurso especial, e assim possibilitar a penhora sobre direitos adjacentes ao imóvel em litígio.
+Foi juntada impugnação da Glamour Comércio de Roupas Ltda e Fadi Chwkat Alam Eddine (fls. 162-164), requerendo que seja negado provimento ao agravo interno.
+Os agravados juntaram a petição de fls. 171 - 220, alertando para a perda superveniente do objeto, tendo em vista que houve a quitação do imóvel em litígio, com a baixa da alienação fiduciária e a determinação de levantamento da penhora, por meio de decisão judicial havida em processo conexo.
+Intimada a parte agravante apresentou resposta (e-STJ, fls. 227 - 229) afirmando que não foram juntados documentos que comprovassem a referida quitação, após o que, os agravados apresentaram nova petição (fls. 232 - 257), com comprovantes da baixa da alienação fiduciária e a mencionada determinação judicial de levantamento da penhora, requerendo na ocasião a condenação da parte agravante em multa por litigância de má-fé.
+Assim, a parte agravada foi novamente intimada para se manifestar sobre seu interesse no prosseguimento do feito, com a juntada dos mencionados documentos, bem como para se manifestar acerca do pedido de sua condenação em multa por litigância de má-fé, conforme despacho de fls. 261.
+A parte agravante não se manifestou acerca do referido despacho, transcorrendo in albis o prazo para tanto, conforme certidão de fls. 265.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PENHORA DE DIREITOS SOBRE IMÓVEL BEM DE FAMÍLIA. POSTERIOR QUITAÇÃO. DECISÃO EM PROCESSO CONEXO DETERMINANDO A BAIXA DA ALIENAÇÃO FIDUCIÁRIA E DA PENHORA. INTIMAÇÃO DA PARTE PARA SE MANIFESTAR SOBRE O INTERESSE NO PROSSEGUIMENTO DO FEITO. TRANSCURSO DO PRAZO. PERDA SUPERVENIENTE DE OBJETO.
+1. Com a notícia do adimplemento do financiamento do imóvel e a juntada de documentação atestando a baixa da alienação e da penhora, foi intimada a parte agravante para manifestar eventual interesse no prosseguimento do feito. Diante da inércia da parte, configura-se a verdade processual acerca da perda superveniente de objeto, circunstância que importa prejuízo ao conhecimento do agravo interno.
+2. Agravo interno não conhecido.
+VOTO
+As razões do agravo interno não comportam acolhimento.
+Na origem, a pretensão inicial da ora agravante era reformar a decisão que acolheu a impugnação à penhora apresentada por Glamour Comércio de Roupas EIRELI ME e Fadi Chwkat Alam Eddine. A decisão da Corte local reconheceu a impenhorabilidade do imóvel de matrícula 183.344 do 7º CRI de São Paulo e dos direitos aquisitivos decorrentes de um contrato de alienação fiduciária. A agravante buscava a penhora dos direitos aquisitivos do imóvel, argumentando que, em caso de inadimplemento, os direitos poderiam ser convertidos em pecúnia, afastando a impenhorabilidade e a natureza de bem de família.
+A corte de origem, ao julgar o agravo de instrumento, negou provimento ao recurso. A decisão manteve o reconhecimento da impenhorabilidade do bem de família, estendendo-se aos direitos aquisitivos decorrentes do contrato de alienação fiduciária.
+Na hipótese, de fato houve a perda superveniente de objeto, não subsistindo nenhum interesse no recurso da parte na presente demanda, uma vez que, intimada para se manifestar sobre a noticiada quitação do imóvel, em um primeiro momento, ela alegou a ausência de documentação que comprovasse a referida quitação, após o que os agravados apresentaram a referida documentação e, novamente intimada o agravante, para se manifestar, quedou-se inerte, tornando-se a referida alegação verdade processual.
+Nesse contexto, o não conhecimento do agravo interno é medida que se impõe diante da perda superveniente de objeto.
+Por fim, deixo de aplicar a multa pretendida pelos agravados, tendo em vista que, no momento, não está evidenciada a má-fé da parte agravante quanto à pretérita alegação de ausência de documentação. Alegação que não foi mantida quando os agravados apresentaram provas do que noticiaram nos autos, acerca da quitação do imóvel e da baixa da penhora.
+Em face do exposto, não conheço do agravo interno.
+É como voto.
