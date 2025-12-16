@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/12/2025 a 16/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Marco Buzzi, João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL. CONTRATO DE FINANCIAMENTO IMOBILIÁRIO. PREVI. ALEGAÇÃO DE ANATOCISMO E COBRANÇA DE JUROS EXTORSIVOS. PRESCRIÇÃO. PRECLUSÃO PRO JUDICATO. SÚMULA 83 DO STJ. ANATOCISMO. LAUDO PERICIAL. COMPROVAÇÃO. DECISÃO MANTIDA.
+1. A prescrição, mesmo sendo matéria de ordem pública, quando objeto de pronunciamento judicial anterior, está sujeita à preclusão pro judicato, impedindo sua rediscussão em fases posteriores do processo. Súmula 83/STJ.
+2. A prática de anatocismo, ou capitalização de juros sobre juros, foi identificada por laudo pericial como ocorrendo em desacordo com o contrato, que proibia a capitalização mensal.
+3. A Tabela Price, usada para amortização, não configura anatocismo por si só, a menos que comprovado por perícia. Súmula 83/STJ.
+4. Os fundamentos do acórdão proferido pelo Tribunal de origem não foram devidamente impugnados, o que atrai a incidência da Súmula 283/STF.
+5. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por CAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL - PREVI contra decisão singular da minha lavra em que neguei provimento ao agravo em recurso especial, pelos seguintes fundamentos: a) inexistência de negativa de prestação jurisdicional; b) quanto à controvérsia sobre prescrição, reconhecimento de preclusão pro judicato e aplicação da Súmula 83/STJ; c) necessidade de prova pericial para aferição de anatocismo, não sendo a mera utilização da Tabela Price suficiente para caracterizá-lo, com aplicação da Súmula 83/STJ; d) incidência da Súmula 283/STF, por ausência de impugnação específica de fundamento autônomo do acórdão recorrido referente à vedação contratual ao anatocismo.
+Nas razões do presente agravo interno, a parte agravante alega, em síntese, que a decisão agravada incorreu em negativa de prestação jurisdicional, por não enfrentar a prescrição e a diferenciação entre amortização negativa e anatocismo.
+Sustenta que prescrição é matéria de ordem pública, insuscetível de preclusão, e que a jurisprudência do Superior Tribunal de Justiça fixou o termo inicial na data da assinatura do contrato.
+Defende a inaplicabilidade da Súmula 83/STJ ao caso e a distinção técnica entre amortização negativa e anatocismo, afirmando que, na Tabela Price, os juros vencidos e não pagos são computados em separado, o que afastaria a capitalização vedada.
+Argumenta, ainda, que não incide a Súmula 283/STF, porque teria infirmado o fundamento contratual apontado, e reitera a legalidade dos encargos e a disciplina específica das entidades fechadas de previdência complementar .
+Decorreu o prazo sem apresentação de impugnação (fls. 2456-2459).
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL. CONTRATO DE FINANCIAMENTO IMOBILIÁRIO. PREVI. ALEGAÇÃO DE ANATOCISMO E COBRANÇA DE JUROS EXTORSIVOS. PRESCRIÇÃO. PRECLUSÃO PRO JUDICATO. SÚMULA 83 DO STJ. ANATOCISMO. LAUDO PERICIAL. COMPROVAÇÃO. DECISÃO MANTIDA.
+1. A prescrição, mesmo sendo matéria de ordem pública, quando objeto de pronunciamento judicial anterior, está sujeita à preclusão pro judicato, impedindo sua rediscussão em fases posteriores do processo. Súmula 83/STJ.
+2. A prática de anatocismo, ou capitalização de juros sobre juros, foi identificada por laudo pericial como ocorrendo em desacordo com o contrato, que proibia a capitalização mensal.
+3. A Tabela Price, usada para amortização, não configura anatocismo por si só, a menos que comprovado por perícia. Súmula 83/STJ.
+4. Os fundamentos do acórdão proferido pelo Tribunal de origem não foram devidamente impugnados, o que atrai a incidência da Súmula 283/STF.
+5. Agravo interno a que se nega provimento.
+VOTO
+O recurso não merece prosperar.
+Como delineado na decisão agravada, a prescrição, mesmo sendo matéria de ordem pública, quando objeto de pronunciamento judicial anterior, está sujeita à preclusão pro judicato, impedindo sua rediscussão em fases posteriores do processo, exceto em casos excepcionais. Esse entendimento busca garantir a estabilidade das decisões judiciais e evitar litígios prolongados, estabelecendo limites temporais claros para alegações processuais.
+Nesse sentido:
+A jurisprudência desta Corte Superior possui entendimento no sentido de que as matérias de ordem pública estão sujeitas à preclusão consumativa quando forem objeto de pronunciamento jurisdicional anterior sem a devida e oportuna insurgência, por força da preclusão pro judicato. Precedentes (AgInt no AgInt no REsp n. 2.078.933/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 26/5/2025, DJEN de 29/5/2025).
+A decisão da Corte de origem encontra-se em harmonia com a jurisprudência sedimentada neste Tribunal Superior, no sentido de que à luz da legislação processual, tanto a anterior quanto a vigente, a preclusão pro judicato impede novo pronunciamento judicial acerca de matérias novamente alegadas, mesmo as de ordem pública, por se tratar de matéria já decidida, ainda que em autos ou recurso diverso, mas relativos à mesma causa. Precedentes (AgInt no REsp n. 1.595.313/SC, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 24/8/2020, DJe de 26/8/2020).
+Aplica-se, portanto, o óbice da Súmula 83/STJ.
+Ademais, a prática de anatocismo, ou capitalização de juros sobre juros, foi identificada por laudo pericial como ocorrendo em desacordo com o contrato, que proibia a capitalização mensal. Nessa feita, a decisão judicial ordenou a remoção dos valores cobrados indevidamente, conforme a capitalização anual.
+Sabe-se que a Tabela Price, usada para amortização, não configura anatocismo por si só, segundo precedentes do STJ, a menos que comprovado por perícia. No caso, a prática de anatocismo foi identificada pela incorporação de juros não pagos ao saldo devedor, não pela Tabela Price, fundamentando a decisão judicial na distinção entre método de cálculo e prática de capitalização, conforme jurisprudência do STJ, veja :
+A Corte Especial do STJ, no julgamento do REsp 1.124.552/RS, submetido à sistemática dos recursos repetitivos (CPC/1973, art. 543-C), consolidou o entendimento de que "A análise acerca da legalidade da utilização da Tabela Price - mesmo que em abstrato - passa, necessariamente, pela constatação da eventual capitalização de juros (ou incidência de juros compostos, juros sobre juros ou anatocismo), que é questão de fato e não de direito, motivo pelo qual não cabe ao Superior Tribunal de Justiça tal apreciação, em razão dos óbices contidos nas Súmulas 5 e 7 do STJ" (REsp 1.124.552/RS, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 3/12/2014, DJe de 2/2/2015). Incidência das Súmulas 5 e 7 do STJ (AgInt no AREsp n. 2.368.079/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 4/12/2023, DJe de 7/12/2023).
+A Corte Especial do STJ firmou, no julgamento do recurso representativo da controvérsia (Tema 572), que a análise acerca da legalidade da utilização da tabela price passa, necessariamente, pela constatação de eventual capitalização de juros que é questão de fato, e não de direito. Perícia que não reconheceu a abusividade dos encargos cobrados. Impossibilidade de revisão. Súmulas nºs 5 e 7 do STJ (AgInt no REsp n. 1.488.076/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 9/12/2019, DJe de 11/12/2019).
+Como constou na decisão agravada, a prescrição está sujeita à preclusão pro judicato , conforme jurisprudência do STJ, e a prática de anatocismo foi identificada por laudo pericial, sendo vedada por cláusula expressa no contrato. A utilização da Tabela Price não configura, por si só, anatocismo, conforme precedente do STJ.
+Aplica-se, portanto, o óbice da Súmula 83/STJ.
+Além disso, a parte recorrente não contesta o fundamento mencionado, restringindo-se a argumentar que a prática de anatocismo seria autorizada por uma norma geral contida nas diretrizes das entidades de previdência complementar. Tal argumento, contudo, não é suficiente para modificar a decisão proferida no acórdão recorrido, o que leva à aplicação da Súmula 283/STF.
+Nesse contexto, não havendo argumentos aptos a infirmar os fundamentos da decisão agravada, esta deve ser integralmente mantida.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
