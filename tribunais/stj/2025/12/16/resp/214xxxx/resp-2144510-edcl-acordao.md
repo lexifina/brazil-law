@@ -1,0 +1,81 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/12/2025 a 16/12/2025, por unanimidade, acolher os embargos de declaração, com efeitos modificativos, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira, Marco Buzzi e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO CIVIL. EMBARGOS DE DECLARAÇÃO. SEGURO DE VIDA EM GRUPO. DOENÇA OCUPACIONAL. CLÁUSULA DE EXCLUSÃO. EFEITOS INFRINGENTES. EMBARGOS ACOLHIDOS.
+1. A Corte local reconheceu a cobertura securitária para invalidez parcial permanente decorrente de doença ocupacional, equiparando-a a acidente pessoal, em desacordo com a jurisprudência consolidada do STJ.
+2. Nos termos da jurisprudência do STJ, cláusula que exclui doenças ocupacionais do conceito de acidente pessoal é válida, sendo descabida a equiparação de microtraumas repetitivos decorrentes da atividade laboral a acidente pessoal para fins de cobertura securitária.
+3. A análise do caso não demanda reexame de fatos e provas, mas sim a aplicação direta de precedentes desta Corte Superior, com revaloração das provas para afastar entendimento dissonante do Tribunal de origem.
+4. Embargos de declaração acolhidos, com efeitos infringentes, para dar provimento ao recurso especial interposto pela seguradora e julgar improcedentes os pedidos da parte autora.
+RELATÓRIO
+Trata-se de embargos declaratórios opostos por UNIMED SEGURADORA S/A contra acórdão desta colenda Quarta Turma, assim ementado:
+DIREITO CIVIL. RECURSO ESPECIAL E AGRAVO EM RECURSO ESPECIAL. SEGURO DE VIDA EM GRUPO. DOENÇA OCUPACIONAL. INDENIZAÇÃO PROPORCIONAL. TEMA 1112 DO STJ. RECURSO ESPECIAL IMPROVIDO E AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+1. Recurso especial interposto pela seguradora contra acórdão que reconheceu a cobertura securitária de invalidez permanente parcial decorrente de doença ocupacional agravada pelo trabalho, equiparada a acidente de trabalho, e fixou a indenização proporcional ao grau de invalidez, conforme tabela contratual.
+2. Agravo em recurso especial interposto pela segurada contra decisão que inadmitiu recurso especial, alegando desconformidade do acórdão recorrido com o Tema 1112 do STJ.
+3. A revisão das conclusões do Tribunal de origem demandaria reexame de fatos e provas, bem como interpretação de cláusulas contratuais, o que encontra óbice nas Súmulas 5 e 7 do STJ.
+4. O recurso especial interposto pela segurada não indicou violação a dispositivo legal específico, atraindo a incidência da Súmula 284 do STF.
+5. Recurso especial improvido e agravo conhecido para não conhecer do recurso especial.
+3. A ausência de indicação de dispositivo legal violado impede o conhecimento do recurso especial.
+Em suas razões, o embargante pretende a concessão de efeitos modificativos, aduzindo ter havido omissão no julgado em relação aos arts. 489 e 1.022 do CPC, pois teria sido demonstrada nas razões recursais que o Tribunal de origem foi omisso em relação ao enfrentamento das matérias de direito fundadas nos arts. 757 e 760 do CC, sendo inviável a equiparação de doença profissional a acidente de trabalho para recebimento de indenização securitária. Referiu omissão quanto ao entendimento desta Corte acerca da interpretação restritiva dos contratos de seguro privados e a impossibilidade de equiparação de doença ocupacional a acidente.
+Requer o provimento dos embargos de declaração, com efeitos infringentes (fls. 752-758).
+Devidamente intimada, a parte embargada apresentou impugnação (fls. 762-768), sustentando a inadmissibilidade do recurso, eis que inexistentes os vícios de omissão, contradição e/ou obscuridade.
+É o relatório.
+EMENTA
+DIREITO CIVIL. EMBARGOS DE DECLARAÇÃO. SEGURO DE VIDA EM GRUPO. DOENÇA OCUPACIONAL. CLÁUSULA DE EXCLUSÃO. EFEITOS INFRINGENTES. EMBARGOS ACOLHIDOS.
+1. A Corte local reconheceu a cobertura securitária para invalidez parcial permanente decorrente de doença ocupacional, equiparando-a a acidente pessoal, em desacordo com a jurisprudência consolidada do STJ.
+2. Nos termos da jurisprudência do STJ, cláusula que exclui doenças ocupacionais do conceito de acidente pessoal é válida, sendo descabida a equiparação de microtraumas repetitivos decorrentes da atividade laboral a acidente pessoal para fins de cobertura securitária.
+3. A análise do caso não demanda reexame de fatos e provas, mas sim a aplicação direta de precedentes desta Corte Superior, com revaloração das provas para afastar entendimento dissonante do Tribunal de origem.
+4. Embargos de declaração acolhidos, com efeitos infringentes, para dar provimento ao recurso especial interposto pela seguradora e julgar improcedentes os pedidos da parte autora.
+VOTO
+O recurso merece prosperar.
+Com efeito, a Col. Quarta Turma, nos termos do Voto desta Relatoria, negou provimento ao recurso especial interposto pela ré/recorrente e conheceu do agravo apresentado pela parte autora para negar provimento ao seu recurso especial.
+Especificamente quanto ao recurso especial apresentado pela recorrente, objeto do presente exame, não se reconheceu a violação aos arts. 489, § 1º, IV, e 1.022, II, do CPC, por se entender não presente a alegada omissão, eis que a Corte de origem tinha decidido a questão, embora de modo diverso do pretendido. Quanto à alegada violação aos arts. 757 e 760 do Código Civil, entendeu-se que a desconstituição das premissas adotadas pela Corte local demandaria reexame de fatos e provas.
+Entretanto, como bem pontuado pela embargante em seu recurso, a análise do caso não demanda revolvimento de provas, sendo caso de aplicação direta de precedentes desta Corte Especial, notadamente considerando as razões invocadas pela Corte de origem para fixar indenização securitária em favor da parte autora/embargada.
+É que a Corte local assentou ser devida a indenização securitária por entender que a parte autora teve a sua invalidez parcial permanente atestada em perícia, que foi considerada doença ocupacional e, portanto, acidente pessoal.
+E nos termos da jurisprudência desta Corte, "cláusula que exclui as "doenças profissionais" do conceito de acidente pessoal é válida, sendo descabido, nessa hipótese, equiparar os microtraumas repetitivos decorrentes da atividade laboral a um acidente pessoal, para fins de cobertura securitária" (AgInt no AREsp 1.782.278/SC, Relator Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 14/8/2023, DJe de 18/8/2023).
+E o acórdão recorrido transcreveu disposições das condições gerais do seguro contratado que excluem expressamente as doenças profissionais do conceito de acidente pessoal para fins de indenização (fl. 481):
+"2. DEFINIÇÕES
+Acidente Pessoal é o evento com data caracterizada, exclusivo e diretamente externo, súbito, involuntário, violento, e causador de lesão física, que, por si só e independente de toda e qualquer outra causa, tenha como consequência direta a morte, ou a invalidez permanente, total ou parcial, do Segurado, ou que torne necessário tratamento médico, observando-se que:
+a) incluem-se nesse conceito:
+(..)
+b) não se incluem nesse conceito:
+  As doenças, incluídas as profissionais, quaisquer que sejam suas causas, ainda que provocadas, desencadeadas ou agravadas, direta ou indiretamente por acidente, ressalvadas as infecções, estados septicêmicos e embolias, resultantes de ferimento visível causado em decorrência de acidente coberto;
+(..)
+  As lesões decorrentes, dependentes, predispostas ou facilitadas por esforços repetitivos ou microtraumas cumulativos, ou que tenham relação de causa e efeito com os mesmos, assim como as lesões classificadas sob a nomenclatura de L. E. R. - Lesão por Esforço Repetitivo ou D. O. R. T. - Distúrbios Osteomusculares Relacionados ao Trabalho, L. T. C. - Lesão por Trauma Continuado ou Contínuo, ou similares que venham a ser aceitas pela classe médico- científica e pela Portaria/MS Nº 1.339/1999 bem como as suas consequências pós-tratamentos, inclusive cirúrgicos, em qualquer tempo;
+A decisão da Corte local divergiu do entendimento desta Corte Especial, conforme se verifica dos julgados abaixo transcritos:
+"DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SEGURO DE VIDA EM GRUPO. ESTIPULAÇÃO PRÓPRIA. QUESTÃO DECIDIDA. IMPUGNAÇÃO RECURSAL. AUSÊNCIA. PRECLUSÃO. INOVAÇÃO. IMPOSSIBILIDADE. DOENÇA OCUPACIONAL. INVALIDEZ PARCIAL. COBERTURA SECURITÁRIA. CLÁUSULA DE EXCLUSÃO. DEVER DE INFORMAÇÃO. ESTIPULANTE. DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que conheceu em parte do recurso especial apresentado pela seguradora, para dar-lhe provimento e reconhecer a inexistência do dever à indenização securitária, em razão de cláusula expressa que exclui doenças ocupacionais do conceito de acidente pessoal.
+II. Questão em discussão
+2. Consiste em analisar a quem caberia o dever de informação em contratos de seguro de vida em grupo, bem como a possibilidade de equiparação de doença laboral a acidente pessoal para fins de cobertura securitária por invalidez parcial.
+III. Razões de decidir
+3. "Nos termos da jurisprudência do Superior Tribunal de Justiça, sujeitam-se à preclusão consumativa as questões decididas no processo, inclusive as de ordem pública, que não tenham sido objeto de impugnação recursal no momento próprio" (AgInt no AREsp n. 2.019.623/SP, Relator Ministro Raul Araújo, Quarta Turma, julgado em 19/9/2022, DJe de 4/10/2022).
+4. Conforme orientação desta Corte, "havendo cláusula expressa afastando a cobertura de invalidez parcial por doença laboral é inviável a equiparação desta à acidente" (AgInt no AREsp n. 2.436.898/SE, Relator Ministro Marco Buzzi, Quarta Turma, julgado em 8/4/2024, DJe de 11/4/2024).
+5. A Segunda Seção do STJ, no julgamento do Tema Repetitivo n. 1.112, firmou a tese de que, "na modalidade de contrato de seguro de vida coletivo, cabe exclusivamente ao estipulante, mandatário legal e único sujeito que tem vínculo anterior com os membros do grupo segurável (estipulação própria), a obrigação de prestar informações prévias aos potenciais segurados acerca das condições contratuais quando da formalização da adesão, incluídas as cláusulas limitativas e restritivas de direito previstas na apólice mestre" (REsp n. 1.874.788/SC, Relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 2/3/2023, DJe de 10/3/2023).
+6. Ademais, foi assentado no Tema Repetitivo n. 1.068/STJ que "não é ilegal ou abusiva a cláusula que prevê a cobertura adicional de invalidez funcional permanente total por doença (IFPD) em contrato de seguro de vida em grupo, condicionando o pagamento da indenização securitária à perda da existência independente do segurado, comprovada por declaração médica" (REsp n. 1.845.943/SP, Relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 13/10/2021, DJe 18/10/2021).
+IV. Dispositivo e tese
+7. Agravo interno desprovido.
+Tese de julgamento: "1. Sujeitam-se à preclusão consumativa as questões decididas no processo, inclusive as de ordem pública, que não tenham sido objeto de impugnação recursal no momento próprio. 2. Nos contratos de seguro de vida em grupo, havendo cláusula expressa afastando a cobertura de invalidez parcial por doença laboral, é inviável a equiparação desta a acidente pessoal. 3. O dever de prestar informações aos segurados cabe exclusivamente ao estipulante, conforme o Tema Repetitivo n. 1.112 do STJ."
+Dispositivos relevantes citados: CC/2002, arts. 757, 760 e 801, §1º.Jurisprudência relevante citada: STJ, AgInt no AREsp n. 2.019.623/SP, Rel. Min. Raul Araújo, Quarta Turma, julgado em 19/9/2022; STJ, AgInt no AREsp n. 2.436.898/SE, Rel. Min. Marco Buzzi, Quarta Turma, julgado em 8/4/2024; STJ, REsp n. 1.874.788/SC, Rel. Min. Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 2/3/2023; STJ, REsp n. 1.845.943/SP, Rel. Min. Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 13/10/2021."
+(AgInt no REsp n. 2.148.411/MS, relator Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 30/6/2025, DJEN de 3/7/2025.)  g.n.
+"AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL. SEGURO DE VIDA. DOENÇA OCUPACIONAL. EQUIPARAÇÃO A ACIDENTE DO TRABALHO. IMPOSSIBILIDADE. ACÓRDÃO QUE DIVERGE DA JURISPRUDÊNCIA DO STJ.
+1. Por expressa previsão legal e contratual, a cobertura por Invalidez Permanente Parcial ou Total por Acidente (IPA) não abrange as doenças, inclusive as classificadas como profissionais, ainda quando consideradas acidentes do trabalho pela legislação previdenciária. Precedentes.
+2. Agravo interno a que se nega provimento."
+(AgInt no REsp n. 2.154.692/MS, relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 28/4/2025, DJEN de 6/5/2025.)  g.n.
+"DIREITO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SEGURO DE VIDA EM GRUPO. VALIDADE DA CONDIÇÃO DE PERDA DA EXISTÊNCIA INDEPENDENTE DO SEGURADO. TEMA 1.068 DOS RECURSOS REPETITIVOS. INVALIDEZ FUNCIONAL PERMANENTE E TOTAL POR DOENÇA (IFPD). DOENÇA OCUPACIONAL. ACIDENTE DE TRABALHO. NÃO ENQUADRAMENTO. DIVERGÊNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. AGRAVO INTERNO DESPROVIDO.
+1. Conforme tese firmada pela Segunda Seção no Tema 1.068 dos Recursos Repetitivos, "não é ilegal ou abusiva a cláusula que prevê a cobertura adicional de invalidez funcional permanente total por doença (IFPD) em contrato de seguro de vida em grupo, condicionando o pagamento da indenização securitária à perda da existência independente do segurado, comprovada por declaração médica". (STJ, REsp 1.845.943/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Segunda Seção - p.: 18/10/2021).
+2. Nos termos da jurisprudência desta Corte, "cláusula que exclui as "doenças profissionais" do conceito de acidente pessoal é válida, sendo descabido, nessa hipótese, equiparar os microtraumas repetitivos decorrentes da atividade laboral a um acidente pessoal, para fins de cobertura securitária" (AgInt no AREsp 1.782.278/SC, Relator Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 14/8/2023, D Je de 18/8/2023).
+3. Na hipótese, o entendimento adotado no acórdão recorrido está dissonante da jurisprudência assente desta Corte Superior. Recurso especial interposto pela parte ora agravada provido.
+4. Agravo interno desprovido."
+(STJ, AgInt no REsp n. 2.130.120/MS, Quarta Turma, Rel. Min. RAUL ARAÚJO - p.: 7/6/2024) Grifei
+"DIREITO CIVIL E DO CONSUMIDOR SEGURO DE PESSOA. SEGURADA DIAGNOSTICADA COM LER/DORT. APÓLICE COLETIVA. CLÁUSULA DE INVALIDEZ POR ACIDENTE PESSOAL (IPA). EXCLUSÃO EXPRESSA DA COBERTURA DE ACIDENTE/DOENÇA PROFISSIONAL. ABUSIVIDADE. NÃO OCORRÊNCIA. PRECEDENTES ESPECÍFICOS DO STJ. REEXAME DE PROVAS. INCORRÊNCIA. APLICAÇÃO IMEDIATA DO ENTENDIMENTO JURISPRUDENCIAL FIRAMDO POR ESTA CORTE SUPERIOR.
+1. Controvérsia de fundo pertinente à cobertura do evento invalidez decorrente de doença profissional (no caso, LER/DORT), na hipótese em que a apólice foi contratada com a cláusula de cobertura de invalidez por acidente pessoal (IPA).
+2. Validade da cláusula que exclui as doenças profissionais da cobertura do seguro de pessoa contratado com a cobertura IPA (Invalidez por Acidente Pessoal). Precedentes.
+3. Aplicação imediata dos referidos precedentes, uma vez que não houve modulação de efeitos.
+4. Desnecessidade de reexame de provas, porque não há controvérsia nos autos sobre a existência da lesão por esforço repetitivo e sobre a invalidez daí decorrente.
+5. AGRAVO INTERNO DESPROVIDO."
+(STJ, AgInt no REsp n. 1.956.117/TO, Terceira Turma, Rel. Min. PAULO DE TARSO SANSEVERINO - p.: 11/5/2022) Grifei
+Desse modo, desnecessário o reexame de fatos e provas no caso, o que de fato encontraria óbice na Súmula 7 deste Tribunal Superior. É caso de aplicação direta de precedentes desta Corte Especial, com adequada e oportuna revaloração das provas, de modo a afastar entendimento dissonante externado no Tribunal de origem.
+Ante o exposto, voto por conhecer e acolher os embargos de declaração opostos, com excepcionais efeitos infringentes, para dar provimento ao recurso especial interposto pela ré/recorrente/embargante e, desse modo, julgar improcedentes os pedidos da parte autora, nos termos da fundamentação.
+É como voto.
