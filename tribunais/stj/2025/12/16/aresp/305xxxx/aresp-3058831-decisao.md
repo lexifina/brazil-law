@@ -1,0 +1,29 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por COOPERATIVA DE CRÉDITO DE LIVRE ADMISSÃO NORTE DO ESPÍRITO SANTO - SICOOB NORTE, contra decisão que inadmitiu recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 21/3/2025.
+Concluso ao gabinete em: 25/11/2025.
+Ação: rescisória, ajuizada pela agravante em desfavor de CARLOS MAGNO CANAL.
+Acórdão: julgou improcedente o pedido rescisório, nos termos da seguinte ementa:
+AÇÃO RESCISÓRIA DE ACÓRDÃO - AÇÃO ORDINÁRIA - PRELIMINAR - NÃO CABIMENTO DA VIA RESCISÓRIA - ANÁLISE ADSTRITA AOS ASPECTOS FORMAIS DA AÇÃO - REQUISITOS LEGAIS PREENCHIDOS - PRELIMINAR REJEITADA - MÉRITO DA AÇÃO - ALEGADA VIOLAÇÃO MANIFESTA DE NORMA JURÍDICA - HIPÓTESE DO ART. 966, V, DO CPC/2015 NÃO DESCORTINADA - AUSÊNCIA DE FLAGRANTE TRANSGRESSÃO À LEI - ACÓRDÃO FUNDADO EM ERRO DE FATO VERIFICÁVEL DO EXAME DOS AUTOS - HIPÓTESE DO ART. 966, VIII E § 1º, DO CPC/2015 NÃO CARACTERIZADA - EXPRESSO PRONUNCIAMENTO DO RELATOR SOBRE O FATO - IMPROCEDÊNCIA DO PEDIDO RESCISÓRIO.
+1) Preliminar: Não cabimento da via rescisória. A análise do cabimento da ação rescisória está adstrita ao preenchimento dos requisitos legais meramente no que diz respeito ao seu aspecto formal. Diante disso, para admissão da ação, basta que a petição inicial cumpra os requisitos essenciais dos arts. 319, 320 e 968, do CPC/2015, o que foi observado pela demandante. Preliminar rejeitada.
+2) O Superior Tribunal de Justiça possui entendimento consolidado de que é lícito ao julgador valer-se das disposições da segunda parte do § 1º do art. 461 do CPC/1973 para determinar, até mesmo de ofício, a conversão da obrigação de dar, fazer ou não-fazer, em obrigação pecuniária, na parte em que aquela não possa ser executada.
+3) Ainda que se discorde de tal posicionamento, é cediço que a violação de dispositivo de lei que propicia o manejo da ação rescisória, na forma do art. 966, inciso V, do CPC/2015, pressupõe que a norma legal tenha sido ofendida na sua literalidade pela decisão rescindenda, ou seja, é a decisão de tal modo teratológica que consubstancia o desprezo do sistema de normas pelo julgado rescindendo.
+4) Em reforço, a doutrina pátria leciona que "a ação rescisória não se presta para a correção de injustiça da sentença nem para reexame da prova", isto é, não é via adequada para lograr a reanálise de fatos ou provas que, na visão do autor, teriam recebido julgamento impróprio ou injusto quanto ao exame do direito posto.
+5) É necessária a compreensão de que a interpretação dada aos fatos e ao Direito constitui ato inerente à função de julgar, não se caracterizando defeito sanável pela via da ação rescisória, máxime em hipóteses como a dos autos, em que a matéria controvertida foi examinada em três instâncias do Poder Judiciário, do que se presume ter sido exaustivamente analisada e, em seguida, lança mão a parte vencida da via rescisória por não se conformar com a adoção de entendimento contrário ao que defende, com isso olvidando que tal via é inadequada para a correção de suposta injustiça do julgamento, má interpretação dos fatos ou reexame de provas produzidas, tampouco para complementá-la.
+6) É considerado "erro de fato", para os fins do art. 966, VIII, do CPC/2015, aquele oriundo da inadvertência do julgador, da sua percepção desatenta dos autos e não do seu juízo de interpretação, ou seja, o erro de fato é aquele que o magistrado inadvertidamente o considera, ou deixa de considerá-lo, nas suas razões de decidir e que é capaz de influir no julgamento da lide.
+7) O eminente Relator teve a cautela de fundamentar a possibilidade de ser procedida a conversão da obrigação de fazer em perdas e danos, amparando-se no entendimento do Superior Tribunal de Justiça outrora mencionado, em que pese o pedido inicial ter sido de "comercialização das sacas de café" e, posteriormente, em sede de réplica, de conversão da obrigação de fazer em perdas e danos (Id 2438678, p. 3).
+8) Pedido rescisório julgado improcedente.
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Decisão de admissibilidade do TJ/ES: inadmitiu o recurso especial interposto pela agravante, em razão dos seguintes fundamentos:
+i) ausência de violação dos arts. 489 e 1.022 do CPC;
+ii) incidência da Súmula 83/STJ; e
+iii) incidência da Súmula 7/STJ.
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante defende, em síntese, a existência de negativa de prestação jurisdicional e a não incidência da Súmula 83/STJ, bem como a possibilidade de revaloração do acervo fático-probatório.
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira específica e consistente, a inaplicabilidade do óbice acerca da incidência da Súmula 7/STJ.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, a parte recorrente deve refutar todos os fundamentos que levaram a inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, Terceira Turma, DJe de 18/8/2023 e AgInt no AREsp 2.335.547/SP, Quarta Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro em 3% (três por cento) os honorários fixados anteriormente, devidos pela parte agravante.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
