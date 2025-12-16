@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo interno interposto pelo DISTRITO FEDERAL contra decisão monocrática que negou provimento ao recurso especial (fls. 684-689).
+Nas razões do recursais, a parte agravante, inicialmente, noticia que " ..  o Excelso Supremo Tribunal Federal fixou como tema submetido a repercussão geral o debate em torno da SELIC instituída como parâmetro de cálculos a partir da EC n. 113/2021  .. " (fl. 716).
+Pede, assim, "a suspensão do presente feito é medida de segurança jurídica que impõe-se a todo o Judiciário brasileiro a fim de que, uma vez definindo a tese pela Excelsa Corte, evitem-se decisões conflitantes" (fl. 716).
+Apresentada impugnação (fls. 727-741).
+É o relatório.
+Decido.
+Na origem, trata-se de ação proposta pela parte ora agravada, objetivando "c) O pagamento de todas as diferenças salariais devidamente atualizadas até a data do efetivo pagamento: c.1) Desde a origem em 25 de agosto de 2005 a 25 de agosto de 2009 quando da promoção a primeiro tenente, atualizados até o dia 22 de agosto de 2019 perfazem o montante de R$ 850.542,02; c.2) De 25 de agosto de 2010 a 21 de abril de 2011 quando da promoção a Capitão, atualizados até o dia 22 de agosto de 2019 perfazem o montante de R$ 10.246,50" (fl. 483). Julgada procedente a demanda, a sentença foi mantida, pelo Tribunal local.
+Registra-se que o Supremo Tribunal Federal reconheceu a repercussão geral da questão controvertida nos autos, qual seja, Tema n. 1.349 do STF (RE 1.516.074/TO), cuja questão constitucional é "saber se o art. 3º da EC n. 113/2021 determina a incidência da taxa SELIC sobre o valor do débito corrigido acrescido de juros".
+Desse modo, por medida de economia processual e para evitar decisões dissonantes entre o Supremo Tribunal Federal e o Superior Tribunal de Justiça, os recursos que tratam da mesma controvérsia no STJ devem aguardar, no Tribunal de origem, a solução no recurso extraordinário afetado, o que viabiliza, assim, o juízo de conformação, hoje disciplinado pelos arts. 1.039 e 1.040 do CPC.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial, se for o caso, deverá ser encaminhado a este órgão superior, para que possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Ante o exposto, TORNO SEM EFEITO a decisão de fls. 684-689, JULGO PREJUDICADA a análise do recurso especial e, com fundamento no art. 256-L, inciso I, do Regimento Interno do Superior Tribunal de Justiça, DETERMINO a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que, após a publicação dos acórdãos dos recursos representativos da controvérsia (Tema n. 1.349 do STF), sejam observadas as normas dos arts. 1.040 e 1.041 do Código de Processo Civil.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. TAXA SELIC. EMENDA CONSTITUCIONAL N. 113/2021. TEMA N. 1.349 DO STF. SOBRESTAMENTO DO FEITO. DEVOLUÇÃO DOS AUTOS À ORIGEM. RECURSO PREJUDICADO.
