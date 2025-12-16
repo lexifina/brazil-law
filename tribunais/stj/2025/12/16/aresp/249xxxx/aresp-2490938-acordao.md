@@ -1,0 +1,85 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/12/2025 a 16/12/2025, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro João Otávio de Noronha.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. JUNTADA TARDIA DE DOCUMENTOS EM APELAÇÃO. OMISSÃO EM EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E NEGAR-LHE PROVIMENTO.
+I. CASO EM EXAME
+1. Agravo em recurso especial interposto contra decisão do Tribunal de Justiça do Estado do Maranhão que inadmitiu o recurso especial com fundamento nas Súmulas n. 5 e 7 do STJ.
+2. A controvérsia diz respeito a ação declaratória de inexistência de débito c/c repetição de indébito e indenização por danos morais. O valor da causa foi fixado em R$ 880,00.
+3. A sentença julgou parcialmente procedentes os pedidos para declarar a nulidade do contrato consignado, determinar a devolução dos valores e suspender os descontos, rejeitando danos morais e ajustando os honorários para incidir sobre o valor da condenação.
+4. A Corte de origem reformou a sentença e julgou improcedentes os pedidos, reconhecendo a validade da contratação e fixando honorários em 15%, com suspensão da exigibilidade.
+II. QUESTÃO EM DISCUSSÃO
+5. Há duas questões em discussão: (i) saber se houve violação do art. 1.022, II, do CPC por omissão do acórdão quanto à inovação recursal e à juntada de documentos em apelação; (ii) saber se a admissão de contrato e TED apenas na fase recursal contrariou os arts. 9º e 10, 336, 342, 434, 435 e 1.014 do CPC, com violação do contraditório e vedação à inovação.
+III. RAZÕES DE DECIDIR
+6. O Tribunal de origem apreciou, de forma suficiente, a alegada inovação e a juntada documental em apelação, afastando a omissão nos embargos de declaração, não havendo violação do art. 1.022, II, do CPC.
+7. A revisão do entendimento acerca da regularidade da contratação e da juntada de contrato e TED demanda reexame de provas, o que é obstado pela Súmula n. 7 do STJ, e envolve discussão sobre validade e efeitos de instrumento contratual, alcançada pela Súmula n. 5 do STJ.
+IV. DISPOSITIVO E TESE
+8. Agravo em recurso especial conhecido para conhecer em parte do recurso especial e negar-lhe provimento.
+Tese de julgamento: "1. Não há violação do art. 1.022, II, do CPC quando o Tribunal de origem enfrenta a alegação de inovação recursal e a juntada de documentos na apelação e afasta a omissão nos embargos de declaração. 2. A Súmula n. 7 do STJ obsta o reexame do conjunto probatório relativo à contratação e à juntada documental na fase recursal, e a Súmula n. 5 do STJ afasta a discussão sobre a validade e os efeitos do instrumento contratual".
+Dispositivos relevantes citados: CPC, arts. 1.022, 9º, 10, 336, 342, 434, 435, 1.014, 85 § 11, 373 I, 373 II; CDC, art. 6º; CF, art. 105, III, a.
+Jurisprudência relevante citada: STJ, Súmulas n. 5, 7.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por WASHINGTON MACIEL MENDES contra a decisão que inadmitiu o recurso especial com fundamento nas Súmulas n. 5 e 7 do STJ.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Contraminuta às fls. 572-582.
+O recurso especial foi interposto com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Maranhão em apelação cível, nos autos de ação declaratória de inexistência de débito c/c repetição de indébito e indenização por danos morais.
+O julgado foi assim ementado (fl. 482):
+APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. SENTENÇA PARCIALMENTE PROCEDENTE. EMPRÉSTIMO CONSIGNADO FRAUDULENTO. IRDR 53.983/2016. APOSENTADO DO INSS. APRESENTAÇÃO DE DOCUMENTO COMPROBATÓRIO. RELAÇÃO JURÍDICA COMPROVADA. ART. 373, II, DO CPC. ÔNUS CUMPRIDO PELO BANCO. ATO ILÍCITO NÃO CONFIGURADO. RESPONSABILIDADE E DANO MORAL E MATERIAL NÃO CONFIGURADOS. 1º APELO DESPROVIDO. 2º APELO PROVIDO.
+I. No caso em análise, o Banco, ora apelante, logrou êxito em comprovar que houve efetiva contratação do empréstimo entabulada pela demandante. Trazendo aos autos contrato assinado, tampouco documento comprobatório, válido, da transferência do numerário respectivo.
+II. Logo, o fornecedor de serviços se desincumbiu da sua obrigação (art. 373, II, CPC), comprovando que a operação financeira objeto desta demanda se reveste de aparência de legalidade.
+III. Por sua vez, consumidor não trouxe aos autos nenhum documento apto a desconstituir o negócio jurídico celebrado entre as partes, tanto mais se desincumbindo do ônus de comprovar os fatos constitutivos de seu direito.
+IV. Nesse sentir, não se verifica a configuração de ato ilícito, capaz de ensejar a repetição de indébito ou pagamento de indenização por dano moral;
+V. 1º Apelo conhecido e desprovido. 2º apelo conhecido e provido.
+Os embargos de declaração opostos foram decididos nestes termos (fl. 515):
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL. OMISSÃO NÃO VERIFICADA. INEXISTÊNCIA DOS VÍCIOS PREVISTOS NO ART. 1.022 DO CPC. PRETENSÃO DE REDISCUSSÃO DE MATÉRIA JÁ DECIDIDA. INADMISSIBILIDADE. EMBARGOS REJEITADOS.
+I. Acórdão omisso é o que não enfrenta as questões agitadas pelas partes, não podendo assim ser rotulado aquele que as enfrentou, de forma clara e suficientemente precisa.
+II. Os embargos de declaração não se prestam para sanar o inconformismo da parte com o resultado desfavorável no julgamento ou para rediscutir matéria já decidida.
+III. Para fins de prequestionamento, são cabíveis os declaratórios se houver no julgado um dos vícios previstos no art. 1.022 do CPC/2015, o que não é o caso dos autos.
+IV. A matéria embargada, foi devidamente enfrentada, não havendo que se falar em omissões.
+V. Embargos rejeitados.
+No recurso especial, a parte recorrente aponta violação dos seguintes artigos:
+a) 1.022, II, do Código de Processo Civil, porquanto os embargos de declaração sustentaram omissão do acórdão quanto à ilegalidade das provas juntadas pelo recorrido em momento processual indevido; e
+b) 9º e 10, 336, 342, 434, 435 e 1.014 do Código de Processo Civil, porque o acórdão recorrido admitiu a juntada de documentos preexistentes (contrato e TED) apenas na fase recursal, reformando a sentença com base nessas peças sem justificativa de superveniência ou indisponibilidade anterior, contrariando a disciplina da instrução documental e a vedação à inovação defensiva. Alega que o Tribunal de origem teria decidido com base em documentos juntados apenas em apelação, sem oportunizar adequada manifestação, perícia grafotécnica e contraditório específico sobre tais provas.
+Aduz que os documentos juntados pelo recorrido dizem respeito à questão de fato (existência ou não do contrato) não apresentada em primeira instância, ou seja, a parte contrária deveria ter comprovado de modo justificado o porquê de não ter apresentado as provas documentais no momento oportuno, o que não fez.
+Requer o provimento do recurso para que se reforme o acórdão recorrido, declarando a inexistência do débito relativo ao contrato juntado em sede recursal, condenando o recorrido à repetição de indébito e aos danos morais.
+Contrarrazões às fls. 548-557.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. JUNTADA TARDIA DE DOCUMENTOS EM APELAÇÃO. OMISSÃO EM EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E NEGAR-LHE PROVIMENTO.
+I. CASO EM EXAME
+1. Agravo em recurso especial interposto contra decisão do Tribunal de Justiça do Estado do Maranhão que inadmitiu o recurso especial com fundamento nas Súmulas n. 5 e 7 do STJ.
+2. A controvérsia diz respeito a ação declaratória de inexistência de débito c/c repetição de indébito e indenização por danos morais. O valor da causa foi fixado em R$ 880,00.
+3. A sentença julgou parcialmente procedentes os pedidos para declarar a nulidade do contrato consignado, determinar a devolução dos valores e suspender os descontos, rejeitando danos morais e ajustando os honorários para incidir sobre o valor da condenação.
+4. A Corte de origem reformou a sentença e julgou improcedentes os pedidos, reconhecendo a validade da contratação e fixando honorários em 15%, com suspensão da exigibilidade.
+II. QUESTÃO EM DISCUSSÃO
+5. Há duas questões em discussão: (i) saber se houve violação do art. 1.022, II, do CPC por omissão do acórdão quanto à inovação recursal e à juntada de documentos em apelação; (ii) saber se a admissão de contrato e TED apenas na fase recursal contrariou os arts. 9º e 10, 336, 342, 434, 435 e 1.014 do CPC, com violação do contraditório e vedação à inovação.
+III. RAZÕES DE DECIDIR
+6. O Tribunal de origem apreciou, de forma suficiente, a alegada inovação e a juntada documental em apelação, afastando a omissão nos embargos de declaração, não havendo violação do art. 1.022, II, do CPC.
+7. A revisão do entendimento acerca da regularidade da contratação e da juntada de contrato e TED demanda reexame de provas, o que é obstado pela Súmula n. 7 do STJ, e envolve discussão sobre validade e efeitos de instrumento contratual, alcançada pela Súmula n. 5 do STJ.
+IV. DISPOSITIVO E TESE
+8. Agravo em recurso especial conhecido para conhecer em parte do recurso especial e negar-lhe provimento.
+Tese de julgamento: "1. Não há violação do art. 1.022, II, do CPC quando o Tribunal de origem enfrenta a alegação de inovação recursal e a juntada de documentos na apelação e afasta a omissão nos embargos de declaração. 2. A Súmula n. 7 do STJ obsta o reexame do conjunto probatório relativo à contratação e à juntada documental na fase recursal, e a Súmula n. 5 do STJ afasta a discussão sobre a validade e os efeitos do instrumento contratual".
+Dispositivos relevantes citados: CPC, arts. 1.022, 9º, 10, 336, 342, 434, 435, 1.014, 85 § 11, 373 I, 373 II; CDC, art. 6º; CF, art. 105, III, a.
+Jurisprudência relevante citada: STJ, Súmulas n. 5, 7.
+VOTO
+A controvérsia diz respeito a ação de declaração de inexistência de débito c/c repetição de indébito e indenização por danos morais, em que a parte autora pleiteou a nulidade de empréstimo consignado alegadamente não contratado, a cessação dos descontos, a devolução dos valores e compensação moral. O valor da causa foi fixado em R$ 880,00.
+Na sentença, o Juízo de primeiro grau julgou parcialmente procedentes os pedidos para declarar a nulidade do contrato consignado, determinar a devolução dos valores e a suspensão dos descontos, rejeitando os danos morais e fixando honorários sobre o valor da causa; em embargos de declaração, ajustou-se a base dos honorários para incidir sobre o valor da condenação.
+A Corte de origem reformou a sentença para julgar improcedentes os pedidos, reconhecendo a validade da contratação e fixando honorários em 15%, com suspensão da exigibilidade.
+I - Art. 1.022, II, do CPC
+Alega o recorrente que o acórdão foi omisso ao não enfrentar a inovação recursal e a intempestividade da juntada de documentos em apelação, apesar dos embargos de declaração.
+Não se verifica a alegada ofensa ao artigo, pois a questão referente à suposta inovação recursal e ao contraditório sobre os documentos juntados foi devidamente analisada pela Corte estadual, que concluiu não haver omissão, reconhecendo a validade da documentação e a ciência da parte.
+Confira-se trecho do acórdão recorrido (fls. 517-518):
+Quanto à suposta omissão arguida pelo embargante, verifico que este não merece prosperar, uma vez que não houve omissão deste Relator que proferiu sua decisão fundamentada nas documentações juntadas aos autos pela embargada, a saber contrato valido e demonstrativo de transferência devidamente autenticado, não cabendo se falar em inovação recursal, uma vez que a própria embargante fora devidamente intimada para ter ciência da apelação e dos documentos colacionados.
+Aproveito o ensejo e colaciono parte do acórdão proferido por esta Câmara em sede de julgamento de Agravo Interno, senão vejamos:
+"No entanto, compulsando os autos, verifico que o banco procedeu com a juntada de contrato devidamente assinada pela parte (Id nº 17967120), bem como comprovou que os valores ingressaram na conta do contratante, por intermédio de TED autenticado (Id nº 17967125 e 17967126). Destarte, o caso em epígrafe se trata de uma típica relação de consumo e por essa razão deve ser regido e analisado à luz do Código de Defesa do Consumidor. De fato, dadas as circunstâncias em que ocorrem os danos ao consumidor, geralmente, é o fornecedor que possui os meios (registros, ligações, contratos) de provar o que de fato houve naquela relação. O art. 6º do CDC prevê entre os direitos básicos do consumidor: "a facilitação da defesa de seus direitos, inclusive com a inversão do ônus da prova, a seu favor, no processo civil, quando, a critério do juiz, for verossímil a alegação ou quando for ele hipossuficiente, segundo as regras ordinárias de experiências.". Nesse toar, incumbe à instituição financeira comprovar se de fato houve ou não o empréstimo realizado pelo recorrente, empréstimo esse que o recorrente, Sr. Washington afirma na exordial e em sede de recurso não ter firmado, nem recebido qualquer valor, razão pela qual pleiteia a restituição em dobro e indenização por danos morais. In casu, o banco apelado, ora 2º apelante juntou aos autos documentos comprobatórios do contrato firmado entre as partes, consistentes no Contrato de Termo de Adesão à Consignação em Folha de Pagamento, devidamente assinado, documentos pessoais da apelante. A transferência do valor objeto do contrato ocorreu por TED para agência bancária de titularidade do 1º apelante (Id nº 17967125 e 17967126). Nesse contexto, o fornecedor de serviços se desincumbiu da sua obrigação, comprovando que a operação financeira objeto desta demanda se reveste de aparência de legalidade. É certo que o CDC garante a inversão do ônus da prova em favor do consumidor, como forma de facilitação da defesa, e, segundo o que disciplina o artigo 373, I e II do Código de Processo Civil, ao autor incumbe provar os fatos constitutivos de seu direito, e, ao réu, provar os fatos impeditivos, extintivos ou modificativos do direito do autor. No caso concreto, o consumidor não se desincumbiu de comprovar os fatos constitutivos do seu direito, ônus que lhe competia por força do art. 373, I do CPC. Assim, concluo que o 1º apelante não faz jus à indenização por dano moral, material e repetição de indébito, uma vez que restou demonstrado que o empréstimo foi validamente realizado junto ao Banco apelado.". (g. n)
+II - Arts. 9º e 10, 336, 342, 434, 435 e 1.014 do CPC
+No recurso especial a parte recorrente alega que a juntada de contrato e TED em apelação configurou inovação recursal vedada, pois seriam documentos preexistentes não abrangidos pelas hipóteses do art. 435 do Código de Processo Civil, e que a decisão reformou a sentença com base em provas intempestivas. Afirma que foi violado o contraditório, pois a decisão utilizou documentos juntados somente em apelação sem permitir manifestação adequada ou perícia grafotécnica.
+O acórdão recorrido concluiu que o banco procedeu com a juntada de contrato devidamente assinada e comprovou que os valores ingressaram na conta do contratante, desincumbindo-se do ônus probatório e demonstrando a regularidade da operação, com base no contrato e na TED.
+No caso, o Tribunal de origem analisou a controvérsia à luz dos elementos probatórios (contrato e comprovantes de transferência), de modo que rever tal entendimento demandaria o reexame de provas, o que é incabível em recurso especial ante o óbice da Súmula n. 7 do STJ. Além disso, a discussão sobre a validade e efeitos do instrumento contratual, tal como enfrentada pelo acórdão, encontra óbice na Súmula n. 5 do STJ.
+Ademais, o acórdão dos embargos de declaração afastou a alegação, registrando que "não cabendo se falar em inovação recursal, uma vez que a própria embargante fora devidamente intimada para ter ciência da apelação e dos documentos colacionados".
+Como visto, a conclusão quanto à ciência e à regularidade processual foi firmada a partir das circunstâncias processuais e dos elementos constantes dos autos. Rever tal entendimento demandaria o reexame de provas, o que é incabível em recurso especial ante o óbice da Súmula n. 7 do STJ.
+III - Conclusão
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial para negar-lhe provimento.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+É o voto.
