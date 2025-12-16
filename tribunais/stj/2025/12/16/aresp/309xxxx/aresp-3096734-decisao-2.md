@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CHIAPIN & HERZOG ADVOGADOS contra a decisão que inadmitiu o recurso especial, por ausência de negativa de prestação jurisdicional quanto aos arts. 489 e 1.022 do Código de Processo Civil e pela incidência das Súmulas n. 5 e 7 do STJ.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Contraminuta às fls. 13.468-13.476.
+O recurso especial foi interposto com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul em apelação cível nos autos de ação de arbitramento de honorários.
+O julgado foi assim ementado (fl. 13.174):
+APELAÇÃO CÍVEL. HONORÁRIOS DE PROFISSIONAIS LIBERAIS. SENTENÇA DE PARCIAL PROCEDÊNCIA NA ORIGEM. RECURSO DE AMBAS AS PARTES.
+Sentença extra petita. Vício que não se caracterizou, embora a solução engendrada pelo juízo monocrático, em seu resultado, possa ter por efeito que os honorários de êxito repliquem os decorrentes da atividade já exercida.
+Arbitramento de honorários. Embora potestativo o direito à revogação do mandato, o mandante não se livra da obrigação de remunerar os serviços já prestados, sob pena de enriquecimento sem causa e violação ao princípio constitucional de vedação do trabalho escravo.
+Contrato que previa duas formas de remuneração pelos serviços jurídicos realizados, uma principal, estipulada por hora de trabalho, e uma "adicional", a ser calculada sobre o proveito econômico obtido. O alcance do provimento  nal depende, portanto, de uma leitura em concreto da cláusula 5.6. do contrato, cuja interpretação literal não pode ser acolhida, nos termos da sentença, por ser abusiva ao autorizar a cobrança de verba de êxito independentemente da sua ocorrência ("como se êxito houvesse") e em duplicidade com a remuneração pro labore já efetivamente paga.
+Necessidade de limitar o alcance da cláusula, no sentido de que a cláusula não se aplica aos casos em que não houve êxito e, sim, somente aos quais o êxito se con rmou, o que se resume à ACP n. 2009.71.07.000885-8, que já possui trânsito em julgado com proveito para a ré.
+Considerando que na ACP mencionada a revogação ocorreu depois de que praticamente todas as peças da requerida tinham sido elaboradas pelo escritório autor, a remuneração devida é integral, ou seja, 0,75% do proveito econômico obtido.
+RECURSOS PROVIDOS EM PARTE.
+Os embargos de declaração opostos foram rejeitados (fl. 13.208).
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação dos seguintes artigos:
+a) 489, §1º, I, II e IV e 1022, II, do Código de Processo Civil, porque o acórdão recorrido teria empregado conceitos indeterminados e não teria enfrentado argumentos capazes de infirmar a conclusão, produzindo fundamentação insuficiente, bem como por ter se omitido em relação a pontos essenciais ao deslinde da causa; e
+b) 104, II, 112, 113, 421, parágrafo único e 421-A, caput, II e III, do Código Civil, pois teria havido, por parte do acórdão recorrido, intervenção indevida em contrato paritário, afastando a intenção comum das partes, a boa-fé e a alocação de riscos ajustada, e declarando nulidade sem demonstração de ilicitude.
+Sustenta que o Tribunal de origem, ao decidir que os honorários ad êxito somente seriam arbitrados após o êxito confirmado nas ações e limitar o alcance da cláusula 5.6 do contrato, divergiu do entendimento do AgInt no AREsp 1.888.655/SP.
+Requer o provimento do recurso para que se reconheça o direito ao imediato arbitramento dos honorários relacionados às demandas não encerradas, tomando-se por parâmetro as previsões de êxito, a apurar em liquidação; requer ainda o provimento para cassar o acórdão recorrido por negativa de prestação jurisdicional.
+Contrarrazões às fls. 13.302-13.317.
+É o relatório. Decido.
+A controvérsia diz respeito a ação de arbitramento e cobrança de honorários advocatícios em que a parte autora pleiteou o arbitramento de honorários proporcionais ao trabalho desenvolvido até a revogação do mandato, com base na cláusula contratual 5.6, e a condenação ao pagamento, inclusive por critério de êxito; O valor da causa foi fixado em R$ 9.875,00.
+Na sentença, o Juízo de primeiro grau julgou parcialmente procedente, reconhecendo a nulidade parcial da cláusula 5.6, e condenou a requerida ao pagamento de honorários proporcionais ao trabalho até a revogação, a apurar em liquidação; fixou honorários sucumbenciais em 10% do valor da causa ao procurador da requerida, e em 20% do valor da causa ao procurador da autora.
+A Corte de origem reformou em parte a sentença, extinguindo por carência de ação a pretensão de arbitramento sobre ações não definitivamente julgadas e arbitrando honorários proporcionais ad êxito em 0,75% do proveito econômico na ACP n. 2009.71.07.000885-8, com redistribuição dos ônus sucumbenciais, fixando honorários em 18% do valor da causa ao procurador da requerida e em 12% do valor final da honorária arbitrada.
+I - Arts. 1.022, II, e 489, §1º, I, II e IV, do Código de Processo Civil
+No recurso especial a parte recorrente alega negativa de prestação jurisdicional e fundamentação deficiente, afirmando omissões quanto às hipóteses legais de intervenção judicial em contratos paritários e quanto aos precedentes citados, além do emprego de conceitos indeterminados sem motivação concreta.
+O acórdão dos embargos declarou inexistentes omissão, obscuridade ou erro material, registrando que as razões para a intervenção contratual e a limitação da cláusula 5.6 foram claramente explicitadas, inclusive à luz dos arts. 104, II, e 113 do Código Civil (fl. 13.208).
+Não se verifica a alegada ofensa ao artigo, pois a questão referente à indicação dos fundamentos da intervenção contratual e da modulação da cláusula 5.6 foi devidamente analisada pela Corte estadual que concluiu que a abusividade da literalidade da cláusula exigia interpretação conforme a boa-fé e o equilíbrio contratual, com incidência apenas nos casos de êxito confirmado.
+II - Arts. 104, II, 112, 113, 421, parágrafo único, e 421-A, caput, II e III, do Código Civil
+A recorrente afirma violação aos dispositivos civis, argumentando que o Tribunal teria promovido intervenção indevida em contrato paritário, afastando a intenção comum das partes, a boa-fé e a alocação de riscos ajustada, e declarando nulidade sem demonstração de ilicitude.
+O acórdão recorrido, ao interpretar a cláusula 5.6 e limitar seus efeitos aos casos com êxito confirmado, assentou abusividade na cobrança de verba de êxito independentemente da sua ocorrência e duplicidade com remuneração pro labore, preservando equilíbrio e boa-fé contratual (fl. 13.174).
+A questão relativa à alegada intervenção contratual e à abusividade/nulidade parcial da cláusula 5.6 foi decidida pelo Tribunal a quo com fundamento na análise das cláusulas contratuais e do contexto da relação econômica. Rever tal entendimento encontra óbice na incidência da Súmula n. 5 do STJ.
+Além disso, a pretensão demanda reavaliação da realidade fático-probatória sobre a boa-fé das partes e o equilíbrio econômico na pactuação, o que é incabível em recurso especial ante o óbice da Súmula n. 7 do STJ.
+III - Divergência jurisprudencial
+A parte alega dissídio com o AgInt no AREsp 1.888.655/SP, sustentando o direito ao imediato arbitramento proporcional de honorários ad êxito após a revogação imotivada do mandato, ainda pendentes as ações.
+O acórdão recorrido limitou a incidência da cláusula de êxito apenas a casos com êxito confirmado e extinguiu, por carência de ação, a pretensão de arbitramento sobre ações não definitivamente julgadas (fl. 13.174).
+A imposição do óbice da Súmula n. 5 do STJ e da Súmula n. 7 do STJ quanto à alínea a do permissivo constitucional impede a análise do recurso pela alínea c sobre o mesmo tema.
+Para a interposição de recurso especial fundado na alínea c do permissivo constitucional, é necessário o atendimento dos requisitos essenciais para a comprovação do dissídio jurisprudencial, conforme prescrições dos arts. 1.029, § 1º, do Código de Processo Civil e 255, § 1º, do RISTJ.
+Isso porque não basta a simples transcrição da ementa dos paradigmas, pois, além de juntar aos autos cópia do inteiro teor dos arestos tidos por divergentes ou de mencionar o repositório oficial de jurisprudência em que foram publicados, deve a parte recorrente proceder ao devido confronto analítico, demonstrando a similitude fática entre os julgados, o que não foi atendido no caso.
+Portanto, está prejudicada a apreciação do dissídio jurisprudencial ante a não realização do devido cotejo analítico.
+IV - Conclusão
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e negar-lhe provimento.
+Nos termos do § 11 do art. 85 do Código de Processo Civil, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
