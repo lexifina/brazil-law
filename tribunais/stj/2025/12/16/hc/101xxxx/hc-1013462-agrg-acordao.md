@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Maria Marluce Caldas, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito Processual Penal. Agravo Regimental em Habeas Corpus. Não conhecimento de habeas corpus substitutivo de recurso próprio. Ausência de flagrante ilegalidade. Agravo regimental improvido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu de habeas corpus, no qual se alegava constrangimento ilegal decorrente de: (i) desconsideração de álibi apresentado pela defesa; (ii) inobservância das formalidades do art. 226 do Código de Processo Penal no reconhecimento fotográfico; e (iii) ilegalidade na fixação do regime inicial fechado, considerando a primariedade do paciente e a ausência de fundamentação idônea. O paciente foi condenado à pena de 8 anos de reclusão, em regime inicial fechado, pela prática de crimes previstos no art. 157, § 2º, incisos I e II, por cinco vezes, c/c arts. 29, caput, e 69, caput, todos do Código Penal.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se o habeas corpus substitutivo de recurso próprio pode ser conhecido e se há flagrante ilegalidade que justifique a concessão da ordem.
+III. Razões de decidir
+3. O Superior Tribunal de Justiça e o Supremo Tribunal Federal consolidaram o entendimento de que não cabe habeas corpus substitutivo de recurso legalmente previsto, salvo em casos de flagrante ilegalidade no ato judicial impugnado.
+4. A revisão criminal proposta perante o Tribunal de Justiça de São Paulo não foi conhecida, pois foi utilizada como um segundo recurso de apelação, sem indicação das hipóteses previstas no art. 621 do Código de Processo Penal.
+5. A jurisprudência do Superior Tribunal de Justiça não admite habeas corpus quando as teses apresentadas não foram previamente apreciadas pelo Tribunal apontado como coator, para evitar supressão de instância.
+6. Não foi constatada a presença de constrangimento ilegal que justificasse a concessão da ordem de ofício, nos termos do art. 654, § 2º, do Código de Processo Penal.
+IV. Dispositivo e tese
+7. Resultado do Julgamento: Agravo regimental improvido.
+Tese de julgamento:
+1. Não cabe habeas corpus substitutivo de recurso legalmente previsto, salvo em casos de flagrante ilegalidade no ato judicial impugnado. 2. A revisão criminal não pode ser utilizada como novo recurso de apelação, devendo observar as hipóteses previstas no art. 621 do Código de Processo Penal. 3. Não se admite habeas corpus quando as teses apresentadas não foram previamente apreciadas pelo Tribunal apontado como coator, para evitar supressão de instância.
+Dispositivos relevantes citados:CPP, arts. 621 e 654, § 2º.
+Jurisprudência relevante citada:STJ, HC 535.063-SP, Rel. Min. Sebastião Reis Júnior, Terceira Seção, julgado em 10.06.2020; STF, AgRg no HC 180.365, Rel. Min. Rosa Weber, julgado em 27.03.2020; STJ, AgRg no HC 437.522/PR, Rel. Min. Felix Fischer, Quinta Turma, julgado em 07.06.2018; STJ, HC 206.847/SP, Rel. Min. Nefi Cordeiro, Sexta Turma, julgado em 16.02.2016; STJ, AgRg no AREsp 734.052/MS, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 16.12.2015; STJ, AgRg no HC 524.130/MS, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19.05.2020.
+RELATÓRIO
+Trata-se de agravo regimental (fls. 2574-2583) interposto por DAVI DE SOUZA MACHADO contra decisão monocrática que não conheceu do habeas corpus (fls. 2565-2569).
+O paciente foi condenado à pena de 8 (oito) anos de reclusão, em regime inicial fechado, pela prática do delito previsto no § 2º, incisos I e II, por cinco vezes, c/c art. 157, § 2º, incisos I e II, por cinco vezes, c/c arts. 29, caput, e 69, caput, todos do Código Penal.
+No habeas corpus alegou-se constrangimento ilegal decorrente de: (i) desconsideração arbitrária de álibi apresentado pela defesa; (ii) inobservância das formalidades do art. 226 do Código de Processo Penal no reconhecimento fotográfico; (iii) ilegalidade na fixação do regime inicial fechado, ante a primariedade do paciente e ausência de fundamentação idônea.
+Requereu-se a concessão da ordem para absolver o paciente ou, subsidiariamente, para estabelecer o regime inicial semiaberto.
+O habeas corpus não foi conhecido (fls. 2565-2569).
+No regimental (fls. 2574-2583), busca-se a reforma da decisão agravada, para que o habeas corpus seja conhecido e concedida a ordem nos termos requeridos na petição inicial.
+É o relatório.
+EMENTA
+Direito Processual Penal. Agravo Regimental em Habeas Corpus. Não conhecimento de habeas corpus substitutivo de recurso próprio. Ausência de flagrante ilegalidade. Agravo regimental improvido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu de habeas corpus, no qual se alegava constrangimento ilegal decorrente de: (i) desconsideração de álibi apresentado pela defesa; (ii) inobservância das formalidades do art. 226 do Código de Processo Penal no reconhecimento fotográfico; e (iii) ilegalidade na fixação do regime inicial fechado, considerando a primariedade do paciente e a ausência de fundamentação idônea. O paciente foi condenado à pena de 8 anos de reclusão, em regime inicial fechado, pela prática de crimes previstos no art. 157, § 2º, incisos I e II, por cinco vezes, c/c arts. 29, caput, e 69, caput, todos do Código Penal.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se o habeas corpus substitutivo de recurso próprio pode ser conhecido e se há flagrante ilegalidade que justifique a concessão da ordem.
+III. Razões de decidir
+3. O Superior Tribunal de Justiça e o Supremo Tribunal Federal consolidaram o entendimento de que não cabe habeas corpus substitutivo de recurso legalmente previsto, salvo em casos de flagrante ilegalidade no ato judicial impugnado.
+4. A revisão criminal proposta perante o Tribunal de Justiça de São Paulo não foi conhecida, pois foi utilizada como um segundo recurso de apelação, sem indicação das hipóteses previstas no art. 621 do Código de Processo Penal.
+5. A jurisprudência do Superior Tribunal de Justiça não admite habeas corpus quando as teses apresentadas não foram previamente apreciadas pelo Tribunal apontado como coator, para evitar supressão de instância.
+6. Não foi constatada a presença de constrangimento ilegal que justificasse a concessão da ordem de ofício, nos termos do art. 654, § 2º, do Código de Processo Penal.
+IV. Dispositivo e tese
+7. Resultado do Julgamento: Agravo regimental improvido.
+Tese de julgamento:
+1. Não cabe habeas corpus substitutivo de recurso legalmente previsto, salvo em casos de flagrante ilegalidade no ato judicial impugnado. 2. A revisão criminal não pode ser utilizada como novo recurso de apelação, devendo observar as hipóteses previstas no art. 621 do Código de Processo Penal. 3. Não se admite habeas corpus quando as teses apresentadas não foram previamente apreciadas pelo Tribunal apontado como coator, para evitar supressão de instância.
+Dispositivos relevantes citados:CPP, arts. 621 e 654, § 2º.
+Jurisprudência relevante citada:STJ, HC 535.063-SP, Rel. Min. Sebastião Reis Júnior, Terceira Seção, julgado em 10.06.2020; STF, AgRg no HC 180.365, Rel. Min. Rosa Weber, julgado em 27.03.2020; STJ, AgRg no HC 437.522/PR, Rel. Min. Felix Fischer, Quinta Turma, julgado em 07.06.2018; STJ, HC 206.847/SP, Rel. Min. Nefi Cordeiro, Sexta Turma, julgado em 16.02.2016; STJ, AgRg no AREsp 734.052/MS, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 16.12.2015; STJ, AgRg no HC 524.130/MS, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19.05.2020.
+VOTO
+O agravante pretende a reforma da decisão monocrática para que o habeas corpus seja conhecido e concedida a ordem nos termos da petição inicial. Sustenta a existência de ilegalidade flagrante no acórdão impugnado, consistente na desconsideração do álibi comprovado por documentos e testemunhas, na realização do reconhecimento em desconformidade com o art. 226 do Código de Processo Penal e na fixação do regime fechado de forma desproporcional, pois a pena é inferior a oito anos, o réu é primário e favorável nas circunstâncias judiciais.
+A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+No caso concreto, a revisão criminal proposta perante o Tribunal de Justiça de São Paulo sequer chegou a ser conhecida, pois a defesa utilizou-se da revisão criminal como se fosse um segundo recurso de apelação, sem sequer indicar as hipótese capituladas no art. 621 do Código de Processo Penal.
+A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que não se admite habeas corpus quando as teses apresentadas não foram previamente apreciadas pelo Tribunal apontado como coator, sob pena de indevida supressão de instância. Esse entendimento é aplicado inclusive em casos de revisão criminal não conhecida, como forma de preservar a competência das instâncias ordinárias para a análise inicial da matéria.
+A esse respeito, destaco o seguinte julgado:
+AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DECISÃO MONOCRÁTICA. VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. INOCORRÊNCIA. REVISÃO CRIMINAL NÃO CONHECIDA NA ORIGEM: AUSÊNCIA DOS REQUISITOS LEGAIS PREVISTOS NO ART. 621 DO CPP. PLEITO DE REANÁLISE DO MÉRITO. TEMAS JÁ DEBATIDOS E REFUTADOS NO JULGAMENTO DA APELAÇÃO CRIMINAL. AGRAVO REGIMENTAL IMPROVIDO.
+1. Inexiste maltrato ao princípio da colegialidade, pois, consoante disposições do Código de Processo Civil e do Regimento Interno desta Corte, o relator deve fazer um estudo prévio da viabilidade do recurso especial, além de analisar se a tese encontra plausibilidade jurídica, uma vez que a parte possui mecanismos processuais de submeter a controvérsia ao colegiado por meio do competente agravo regimental. Ademais, o julgamento colegiado do recurso pelo órgão competente supera eventual mácula da decisão monocrática do relator.
+2. O Superior Tribunal de Justiça, alinhando-se à nova jurisprudência da Corte Suprema, também passou a restringir as hipóteses de cabimento do habeas corpus, não admitindo que o remédio constitucional seja utilizado em substituição ao recurso ou ação cabível, ressalvadas as situações em que, à vista da flagrante ilegalidade do ato apontado como coator, em prejuízo da liberdade do paciente, seja cogente a concessão, de ofício, da ordem de habeas corpus (AgRg no HC 437.522/PR, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 07/06/2018, DJe 15/06/2018).
+3. Este "Superior Tribunal de Justiça já pacificou o entendimento no sentido do não cabimento da revisão criminal quando utilizada como nova apelação, com vistas ao mero reexame de fatos e provas, não se verificando hipótese de contrariedade ao texto expresso da lei penal ou à evidência dos autos, consoante previsão do art. 621, I, do CPP" (HC n. 206.847/SP, Sexta Turma, Rel. Ministro Nefi Cordeiro, julgado em 16/02/2016, DJe de 25/02/2016).
+4. Ressalte-se, ainda, que, "embora seja possível rever a dosimetria da pena em revisão criminal, a utilização do pleito revisional é prática excepcional, somente justificada quando houver contrariedade ao texto expresso da lei ou à evidência dos autos" (AgRg no AREsp n. 734.052/MS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 16/12/2015).
+5. O Tribunal a quo deixou de conhecer a revisão criminal, ajuizada com fundamento no art. 621, I, do CPP (condenação contrária à evidência dos autos), por entender que a pretensão defensiva se resumia à reapreciação do quadro fático probatório dos autos, já examinado em sede de apelação criminal, e que não se demonstrou que a condenação foi contrária ao texto expresso da lei penal ou às evidências dos autos, em consonância com a jurisprudência desta Corte.
+6. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 524.130/MS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/5/2020, DJe de 27/5/2020).
+Também não verifico a presença de constrangimento ilegal que autorize a concessão da ordem de ofício, nos termos do § 2º do artigo 654 do Código de Processo Penal.
+Diante disso, a decisão agravada deve ser mantida por seus próprios fundamentos.
+Com essas considerações, nego provimento ao agravo regimental.
+É o voto.
