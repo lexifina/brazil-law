@@ -1,0 +1,70 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/12/2025 a 16/12/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira, Marco Buzzi e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA. COMPROVAÇÃO DA MORA. PREQUESTIONAMENTO. RECURSO NÃO CONHECIDO.
+1. O prequestionamento é requisito indispensável para o conhecimento do recurso especial, mesmo em matérias de ordem pública, conforme entendimento consolidado nas Súmulas 282 e 356 do STF.
+2. O Tribunal de origem não analisou os dispositivos legais invocados pelo recorrente, nem mesmo após a oposição de embargos de declaração, o que inviabiliza o conhecimento do recurso especial por ausência de prequestionamento.
+3. O prequestionamento ficto, previsto no art. 1.025 do CPC/2015, exige a indicação de violação ao art. 1.022 do CPC/2015 no recurso especial, o que não foi observado no caso em análise.
+4. Recurso não conhecido.
+RELATÓRIO
+Trata-se de recurso especial interposto por DAVID GIUBELLINI SISCATI, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 68):
+"AGRAVO DE INSTRUMENTO. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA. Assistência judiciária gratuita. Tema ainda não dirimido em primeiro grau que não admite conhecimento em sede recursal, sob pena de violação aos princípios do duplo grau de jurisdição e do devido processo legal. Inadimplemento de obrigação. Notificação encaminhada a endereço antigo do contratante. Mora, no entanto, que fica comprovada por meio do comparecimento espontâneo do devedor nos autos, suprindo a falta de citação. Inteligência do artigo 239, § 1º, do Código de Processo Civil. Inadimplemento de obrigação confessa. Recurso conhecido em parte e, nesta extensão, desprovido."
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 84-88).
+Em seu recurso especial, o recorrente alega violação dos seguintes dispositivos da legislação federal, com as respectivas teses:
+(i) artigos 2º, § 2º, e 3º, § 3º, do Decreto-Lei 911/1969, pois teria sido afastada a exigência de comprovação prévia e idônea da mora por notificação enviada ao endereço atualizado do devedor, além de se ter admitido que o comparecimento espontâneo supriria a mora e a própria dinâmica especial de citação apenas após o cumprimento da liminar.
+(ii) artigos 113 e 422 do Código Civil, porque teria havido violação à boa-fé objetiva e aos deveres anexos de cooperação e informação, já que a instituição credora, ciente da alteração de endereço, teria notificado no endereço antigo, frustrando a regular constituição em mora.
+(iii) artigo 6º, inciso III, do Código de Defesa do Consumidor, pois a notificação extrajudicial teria apresentado dados divergentes e imprecisos (número e data do contrato, referência ao gravame), comprometendo o direito à informação clara e adequada e, com isso, a individualização da dívida e a comprovação da mora.
+(iv) artigos 320 e 434 do Código de Processo Civil, porque a petição inicial da busca e apreensão teria sido recebida sem os documentos indispensáveis à comprovação da mora, o que contrariaria a exigência de adequada instrução documental, sob pena de indeferimento ou extinção.
+Não foram apresentadas contrarrazões (e-STJ, fl. 130).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA. COMPROVAÇÃO DA MORA. PREQUESTIONAMENTO. RECURSO NÃO CONHECIDO.
+1. O prequestionamento é requisito indispensável para o conhecimento do recurso especial, mesmo em matérias de ordem pública, conforme entendimento consolidado nas Súmulas 282 e 356 do STF.
+2. O Tribunal de origem não analisou os dispositivos legais invocados pelo recorrente, nem mesmo após a oposição de embargos de declaração, o que inviabiliza o conhecimento do recurso especial por ausência de prequestionamento.
+3. O prequestionamento ficto, previsto no art. 1.025 do CPC/2015, exige a indicação de violação ao art. 1.022 do CPC/2015 no recurso especial, o que não foi observado no caso em análise.
+4. Recurso não conhecido.
+VOTO
+Síntese fática.
+Extrai-se dos autos que, na origem, o agravante alegaria ausência de comprovação da mora, apontaria incongruências materiais na notificação extrajudicial (numeração e data do contrato), bem como afirmaria ter comunicado previamente à credora a alteração de endereço com protocolo de atendimento, requerendo a aplicação do Código de Defesa do Consumidor, inversão do ônus da prova, concessão da gratuidade da justiça e a revogação da liminar de busca e apreensão, com efeito suspensivo e, ao final, a extinção do feito por falta de pressupostos de constituição e desenvolvimento válido.
+O Tribunal de Justiça do Estado de São Paulo conheceria em parte do agravo de instrumento e, nessa extensão, negaria provimento, por entender que o tema da gratuidade da justiça não estaria previamente decidido em primeiro grau e que a mora se confirmaria, ao menos, pelo comparecimento espontâneo do devedor nos autos, o que supriria a falta de citação, nos termos do art. 239, § 1º, do CPC ("o comparecimento espontâneo supre a falta de citação"), além de registrar inadimplemento confessado e a ausência de proposta de adimplemento. A ementa consignaria: "Recurso conhecido em parte e, nesta extensão, desprovido" (e-STJ, fls. 67-71).
+Nos embargos de declaração, a Corte rejeitaria a alegação de omissão e contradição sobre a comprovação da mora, afirmando que o acórdão enfrentara expressamente a matéria e que os embargos não se prestariam à rediscussão do mérito nem ao prequestionamento, à luz do art. 1.022 do CPC, destacando-se, ainda, a suficiência da fundamentação nos termos do art. 489 do CPC e do art. 93, IX, da Constituição Federal. A ementa registraria: "Embargos rejeitados" (e-STJ, fls. 84-88).
+Da violação aos artigos 2º, § 2º, e 3º, § 3º, do Decreto-Lei 911/1969.
+A parte recorrente alegou violação dos arts. 2º, § 2º, e 3º, § 3º, do Decreto-Lei 911/1969, em decorrência de suposta inobservância da necessidade de comprovação prévia e idônea da mora mediante notificação enviada ao endereço atualizado do devedor e pela indevida equiparação do comparecimento espontâneo à comprovação da mora.
+O Tribunal de origem, ao analisar a controvérsia, limitou-se a consignar que "a confirmação da mora ocorreu, senão a partir da notificação prévia, ao menos a partir do comparecimento espontâneo do agravante nos autos (..) que supre a falta de citação" (e-STJ, fl. 70).
+Não houve, contudo, debate específico sobre a tese de que a comprovação da mora seria pressuposto de constituição e desenvolvimento válido do processo, insuscetível de suprimento posterior, tampouco sobre a dinâmica da citação prevista no art. 3º, § 3º, do referido decreto-lei.
+Da violação aos artigos 113 e 422 do Código Civil.
+A parte recorrente sustentou, ainda, violação dos arts. 113 e 422 do Código Civil, por ofensa à boa-fé objetiva e aos deveres anexos de cooperação e informação, ao argumento de que a credora, ciente da alteração de endereço, teria enviado a notificação ao endereço antigo, frustrando a regular constituição em mora.
+O acórdão recorrido, embora tenha reconhecido que a notificação foi enviada em data posterior à comunicação de alteração de endereço (e-STJ, fl. 70), não examinou a questão sob a ótica dos deveres de cooperação e informação decorrentes da boa-fé objetiva. A menção genérica à boa-fé no aresto (e-STJ, fl. 71) foi feita em desfavor do devedor, por não ter apresentado proposta de adimplemento, e não para analisar a conduta da credora na fase pré-processual.
+Da violação ao artigo 6º, III, do Código de Defesa do Consumidor.
+Prosseguindo, a parte recorrente afirmou violação do art. 6º, III, do Código de Defesa do Consumidor, porque a notificação extrajudicial conteria dados divergentes e imprecisos (número e data do contrato e referência ao gravame), comprometendo a informação clara e adequada e a individualização da dívida necessária à constituição da mora.
+O Tribunal a quo reconheceu a existência de "aparente divergência quanto aos números e data de emissão do contrato" (e-STJ, fl. 70), mas não apreciou a questão sob a perspectiva do direito à informação previsto no CDC. A Corte paulista afastou a relevância da irregularidade ao fundamento de que a mora teria sido confirmada pelo comparecimento espontâneo, sem adentrar no mérito da validade da notificação em si.
+Da violação aos artigos 320 e 434 do Código de Processo Civil.
+Por fim, a parte recorrente apontou violação dos arts. 320 e 434 do Código de Processo Civil, porquanto a petição inicial da busca e apreensão teria sido recebida sem os documentos indispensáveis à comprovação da mora, em afronta ao dever de adequada instrução documental sob pena de indeferimento ou extinção.
+A matéria atinente à indispensabilidade do documento comprobatório da mora para a propositura da ação e as consequências processuais de sua ausência, à luz dos arts. 320 e 434 do CPC, não foi objeto de deliberação pelo acórdão recorrido, que se concentrou na manutenção da liminar com base no suprimento da mora pelo comparecimento do devedor.
+Do prequestionamento.
+Verifica-se, portanto, que o conteúdo normativo dos dispositivos invocados no apelo nobre não foram apreciados pelo Tribunal a quo. Esse pressuposto específico do recurso especial é exigido inclusive para matérias de ordem pública. Dessa forma, à falta do indispensável prequestionamento, incide, por analogia, o óbice das Súmulas 282 e 356 do STF.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. SÚMULA 182/STJ. INAPLICABILIDADE. RECONSIDERAÇÃO. CUMPRIMENTO DE SENTENÇA. AGRAVO DE INSTRUMENTO. AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. PRECLUSÃO CONSUMATIVA. NÃO CONFIGURAÇÃO. REDISCUSSÃO DA MATÉRIA. INVIABILIDADE. SÚMULA 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL DESPROVIDO.
+( )
+4. A Corte local não se pronunciou sobre a tese de julgamento citra petita, não se configurando o prequestionamento da matéria, a qual nem sequer foi suscitada nos embargos de declaração opostos na origem. Incidência, por analogia, das Súmulas 282 e 356/STF.
+5. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial."
+(AgInt no AREsp n. 2.652.215/DF, Relator Ministro Raul Araújo, Quarta Turma, julgado em 17/2/2025, DJEN de 28/2/2025, g.n.).
+"CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AOS ARTS. 489 E 1.022 DO CPC/2015. COMPROMISSO DE COMPRA E VENDA IMOBILIÁRIO. CHAVES. ATRASO NA ENTREGA. ASTREINTES. REVISÃO. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. MULTA COMINATÓRIA. PROPORCIONALIDADE E RAZOABILIDADE. VERIFICAÇÃO. SÚMULA N. 7/STJ. DANOS MORAIS. EXCLUSÃO. INEXISTÊNCIA DE ALCANCE NORMATIVO DO ARTIGO INDICADO. SÚMULA N. 284/STF. DECISÃO MANTIDA.
+( )
+2. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 e 356 do STF.
+( )
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 2.621.589/AM, Relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 24/2/2025, DJEN de 28/2/2025, g.n.).
+Apesar de o recorrente ter oposto embargos de declaração na origem, o Tribunal a quo os rejeitou por entender que não havia vício a ser sanado e que as questões haviam sido suficientemente enfrentadas, persistindo, assim, a ausência de debate sobre os dispositivos legais em questão.
+E nem se diga que houve a configuração do prequestionamento ficto, uma vez que sobre a questão o STJ entende que o prequestionamento ficto do art. 1.025 do CPC/2015, demanda não só que haja a oposição dos embargos de declaração no Tribunal a quo como também a indicação, no recurso especial, da ofensa ao art. 1.022 do CPC/2015, especificamente quanto à questão que se pretende ver analisada. A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. VÍCIO NO SERVIÇO. EXCLUDENTE DE RESPONSABILIDADE. SUPOSTO ENRIQUECIMENTO SEM CAUSA. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. ART. 1.021, § 4º, DO CPC/15. INTUITO PROTELATÓRIO NÃO EVIDENCIADO. IMPERTINÊNCIA. NÃO PROVIDO.
+1. Conforme jurisprudência desta Corte: "A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 4.4.2017, DJe 10.4.2017).
+2. Para a aplicação da multa do art. 1021, §4º, do CPC, é necessário que exista demonstração de requisitos cumulativos, previsto no Diploma Processual Civil, o que inexiste na hipótese.
+3. Agravo interno a que se nega provimento."
+(AgInt no AgInt no AREsp n. 2.396.692/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 14/4/2025, DJEN de 24/4/2025, g.n.)
+E no presente caso, embora as teses tenham sido suscitada como omissa no âmbito dos embargos de declaração opostos na origem, não foram referidas como causa de negativa de prestação jurisdicional no recurso especial em análise, em um eventual capítulo pertinente à violação do art. 1.022 do CPC/2015, não se configurando, portanto, o prequestionamento ficto.
+Dispositivo.
+Ante o exposto, não conheço do recurso especial.
+É como voto.
