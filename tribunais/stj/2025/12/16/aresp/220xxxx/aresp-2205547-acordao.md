@@ -1,0 +1,75 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/12/2025 a 16/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. QUERELA NULLITATIS EM AÇÃO MONITÓRIA; EXTENSÃO DOS EFEITOS DA NULIDADE ÀS QUOTAS SOCIAIS. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo em recurso especial contra decisão do Tribunal de Justiça do Rio Grande do Norte que inadmitiu o recurso especial com fundamento na Súmula n. 7 do STJ.
+2. A controvérsia diz respeito à ação declaratória de nulidade (querela nullitatis) proposta para reconhecer a nulidade por ausência de citação de pessoa física em ação monitória e estender os efeitos às quotas sociais dessa pessoa na sociedade empresária. O valor da causa foi fixado em R$ 6.096,56.
+3. A sentença julgou procedente em parte para excluir a pessoa física do polo passivo da ação monitória, mantendo os atos em relação à sociedade empresária e ao outro sócio, e fixou honorários em 5% sobre o valor da causa, com custas rateadas.
+4. A Corte estadual manteve a sentença por entender que a querela nullitatis tem natureza restrita e que a extensão da nulidade às quotas sociais se funda em eventos futuros e incertos, majorando honorários nos termos do § 11 do art. 85 do CPC; embargos de declaração foram rejeitados.
+II. QUESTÃO EM DISCUSSÃO
+5. Há quatro questões em discussão: (i) saber se a nulidade da citação prevista no art. 214 da Lei n. 5.869/1973 e no art. 239 do CPC deve alcançar as quotas sociais da pessoa não citada; (ii) saber se os arts. 275, 276, 277 e 283 do CC impõem a proteção do patrimônio do espólio contra futura desconsideração da personalidade jurídica ou direito de regresso; (iii) saber se o art. 238 do CPC corresponde ao antigo art. 214, para fins de debate sobre a validade da relação processual; e (iv) saber se o art. 239 do CPC exige citação válida para a higidez do processo.
+III. RAZÕES DE DECIDIR
+6. Aplica-se a Súmula n. 7 do STJ, pois o acórdão estadual decidiu com base em fatos e provas sobre a estrutura societária e a representação da pessoa jurídica, concluindo que a pretendida extensão dos efeitos da querela nullitatis às quotas sociais se apoia em eventos futuros e incertos, devendo a empresa validamente citada responder com patrimônio próprio (fls. 1590-1591).
+IV. DISPOSITIVO E TESE
+8. Agravo em recurso especial desprovido.
+Tese de julgamento: "1. Incide a Súmula 7 do STJ quando a análise das questões suscitadas no recurso especial, a saber, representação societária e delimitação dos efeitos da nulidade reconhecida em sede de ação declaratória, reclamam o reexame de elementos fático-probatórios" .
+Dispositivos relevantes citados: CPC, arts. 238, 239, 85 § 11, 1.022; CC, arts. 275, 276, 277, 283; Lei n. 5.869/1973, art. 214.
+Jurisprudência relevante citada: STJ, Súmula n. 7.
+RELATÓRIO
+Trata-se de agravo interposto por TALITA MOTTA MEIRA PIRES e OUTRAS contra a decisão que inadmitiu o recurso especial com fundamento na Súmula n. 7 do STJ.
+Alegam as partes agravantes que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Não foi apresentada contraminuta, conforme a certidão de fl. 145.
+O recurso especial foi interposto com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Rio Grande do Norte, em apelação cível, nos autos de ação declaratória de nulidade (querela nullitatis). O julgado foi assim ementado (fl. 1586):
+DIREITO CIVIL E PROCESSUAL CIVIL. APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE NULIDADE ( QUERELA NULLITATIS ). SENTENÇA DE PROCEDÊNCIA PARCIAL. ALEGAÇÃO DE NULIDADE DA SENTENÇA DOS EMBARGOS DE DECLARAÇÃO POR AUSÊNCIA DE FUNDAMENTAÇÃO. REJEIÇÃO. UTILIZAÇÃO DE FUNDAMENTO SUFICIENTE E IDÔNEO À FORMAÇÃO DO CONVENCIMENTO. EXTENÇÃO DOS EFEITOS EXCLUDENTES DA AÇÃO ANULATÓRIA ÀS QUOTAS SOCIAIS DA EMPRESA PERTENCENTES AO RÉU NÃO CITADO, A FIM DE PREVENIR QUE OS BENS DESTE NÃO SEJAM ATINGIDOS PELA DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA, OU PELO EXERCÍCIO DO DIREITO DE REGRESSO. DISCUSSÃO DE EVENTOS FUTUROS E INCERTOS. DESVIRTUAMENTO DA NATUREZA JURÍDICA RESTRITA DA QUERELA NULLITATIS. MANUTENÇÃO DA SENTENÇA. CONHECIMENTO E DESPROVIMENTO DO RECURSO.
+Os embargos de declaração opostos foram decididos nestes termos (fl. 1606):
+DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE NULIDADE ( QUERELA NULLITATIS ). ALEGAÇÃO DE EXISTÊNCIA DE OBSCURIDADE NO ACÓRDÃO. INOCORRÊNCIA. AUSÊNCIA DAS HIPÓTESES DO ARTIGO 1.022 DO CÓDIGO DE PROCESSO CIVIL. HONORÁRIOS ADVOCATÍCIOS RECURSAIS FIXADOS CONFORME DITAMES DO ART. 85, § 11 DO CPC E PRECEDENTES DO STJ. TENTATIVA DE REDISCUSSÃO. IMPOSSIBILIDADE. PREQUESTIONAMENTO EXPLÍCITO. DESNECESSIDADE. CONHECIMENTO E REJEIÇÃO DOS EMBARGOS.
+No recurso especial, as partes apontam violação dos seguintes artigos:
+a) 214, da Lei n. 5.869/1973, e 239, do Código de Processo Civil, porque o acórdão recorrido teria mantido restrição indevida aos efeitos da nulidade da citação do falecido GEORGE FREDERICO MEIRA PIRES, impedindo que a declaração alcançasse suas quotas sociais na Meira & Meira Ltda.;
+b) 275, 276, 277 e 283, do Código Civil, já que o acórdão recorrido teria deixado de resguardar o patrimônio do espólio do falecido, admitindo, de forma indireta, futura desconsideração da personalidade jurídica ou direito de regresso dos codevedores solidários;
+c) 238, do Código de Processo Civil, porquanto mencionado como correspondente ao antigo art. 214 na exposição das razões, una com o debate sobre a validade da relação processual; e
+d) 239, do Código de Processo Civil, uma vez que reiterado como fundamento central da necessidade de citação válida para a higidez do processo.
+Requerem o provimento do recurso para que se declare que o capital social em nome de GEORGE FREDERICO MEIRA PIRES não poderá ser atingido pela execução na ação monitória n. 0019601-21.2004.8.20.0001, e se determine a reforma do acórdão recorrido.
+Não foram apresentadas contrarrazões, conforme a certidão de fl. 1633.
+É o relatório.
+EMENTA
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. QUERELA NULLITATIS EM AÇÃO MONITÓRIA; EXTENSÃO DOS EFEITOS DA NULIDADE ÀS QUOTAS SOCIAIS. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo em recurso especial contra decisão do Tribunal de Justiça do Rio Grande do Norte que inadmitiu o recurso especial com fundamento na Súmula n. 7 do STJ.
+2. A controvérsia diz respeito à ação declaratória de nulidade (querela nullitatis) proposta para reconhecer a nulidade por ausência de citação de pessoa física em ação monitória e estender os efeitos às quotas sociais dessa pessoa na sociedade empresária. O valor da causa foi fixado em R$ 6.096,56.
+3. A sentença julgou procedente em parte para excluir a pessoa física do polo passivo da ação monitória, mantendo os atos em relação à sociedade empresária e ao outro sócio, e fixou honorários em 5% sobre o valor da causa, com custas rateadas.
+4. A Corte estadual manteve a sentença por entender que a querela nullitatis tem natureza restrita e que a extensão da nulidade às quotas sociais se funda em eventos futuros e incertos, majorando honorários nos termos do § 11 do art. 85 do CPC; embargos de declaração foram rejeitados.
+II. QUESTÃO EM DISCUSSÃO
+5. Há quatro questões em discussão: (i) saber se a nulidade da citação prevista no art. 214 da Lei n. 5.869/1973 e no art. 239 do CPC deve alcançar as quotas sociais da pessoa não citada; (ii) saber se os arts. 275, 276, 277 e 283 do CC impõem a proteção do patrimônio do espólio contra futura desconsideração da personalidade jurídica ou direito de regresso; (iii) saber se o art. 238 do CPC corresponde ao antigo art. 214, para fins de debate sobre a validade da relação processual; e (iv) saber se o art. 239 do CPC exige citação válida para a higidez do processo.
+III. RAZÕES DE DECIDIR
+6. Aplica-se a Súmula n. 7 do STJ, pois o acórdão estadual decidiu com base em fatos e provas sobre a estrutura societária e a representação da pessoa jurídica, concluindo que a pretendida extensão dos efeitos da querela nullitatis às quotas sociais se apoia em eventos futuros e incertos, devendo a empresa validamente citada responder com patrimônio próprio (fls. 1590-1591).
+IV. DISPOSITIVO E TESE
+8. Agravo em recurso especial desprovido.
+Tese de julgamento: "1. Incide a Súmula 7 do STJ quando a análise das questões suscitadas no recurso especial, a saber, representação societária e delimitação dos efeitos da nulidade reconhecida em sede de ação declaratória, reclamam o reexame de elementos fático-probatórios" .
+Dispositivos relevantes citados: CPC, arts. 238, 239, 85 § 11, 1.022; CC, arts. 275, 276, 277, 283; Lei n. 5.869/1973, art. 214.
+Jurisprudência relevante citada: STJ, Súmula n. 7.
+VOTO
+A controvérsia diz respeito a ação de querela nullitatis em que a parte autora pleiteou a declaração de nulidade de todo o processo monitório n. 0019601-21.2004.8.20.0001 e, por consequência, a nulidade da sentença, ao argumento de ausência de citação de GEORGE FREDERICO MEIRA PIRES (fls. 1544-1547). O valor da causa foi fixado em R$ 6.096,56.
+Na sentença, o Juízo de primeiro grau julgou procedente em parte a demanda, para excluir GEORGE FREDERICO MEIRA PIRES do polo passivo da ação monitória, mantendo todos os demais atos, inclusive executórios, em relação à pessoa jurídica Meira & Meira Ltda. e ao sócio MARCUS VINÍCIUS MEIRA PIRES; e fixou honorários sucumbenciais em 5% sobre o valor da causa, com custas rateadas (fls. 1545-1547).
+A Corte estadual manteve a sentença, negando provimento à apelação das autoras, por entender que a ampliação dos efeitos da nulidade às quotas sociais, para prevenir eventual desconsideração da personalidade jurídica ou direito de regresso, desvirtuaria a natureza restrita da querela nullitatis; e majorou honorários para 10% com base no § 11 do art. 85 do CPC (fls. 1586-1591).
+Os embargos de declaração foram rejeitados, reafirmando a correção da majoração de honorários e a inexistência de vícios do art. 1.022 do CPC (fls. 1606-1610).
+I - Arts. 214, da Lei n. 5.869/1973, e 239, do Código de Processo Civil; e arts. 275, 276, 277 e 283, do Código Civil
+No recurso especial as recorrentes alegam que a nulidade reconhecida em razão da ausência de citação deveria alcançar as quotas sociais de GEORGE FREDERICO MEIRA PIRES na Meira & Meira Ltda., pois, do contrário, seu patrimônio poderia ser atingido indiretamente por desconsideração da personalidade jurídica ou pelo exercício de direito de regresso entre codevedores solidários.
+No caso, o Tribunal de origem concluiu que a querela nullitatis tem natureza restrita, voltada a vícios estruturais da relação processual, e que a pretensão de extensão aos bens sociais se funda em eventos futuros e incertos, devendo a empresa, validamente citada e representada, responder com patrimônio próprio; manteve, assim, a sentença de parcial procedência e a limitação de efeitos à pessoa física não citada, nesses termos (fls. 1590-1591):
+ ..
+Destarte, verificando que a sentença que decidiu os embargos apresenta fundamentação, eis que a magistrada esposou todos os pontos relevantes para seu convencimento, mostrando-se suficiente a motivação externada, inexiste razão para a sua anulação.
+Quanto ao mérito propriamente dito, cumpre averiguar a necessidade de se estender os efeitos excludentes da Ação Anulatória às quotas sociais da empresa Meira & Meira Ltda. pertencentes a George Frederico Meira Pires.
+É importante esclarecer que a Ação Declaratória de Nulidade, também denominada querela, veicula pretensão de natureza negativa, por meio da qual almeja a parte a declaração denullitatis inexistência de relação jurídica processual, naquelas hipóteses extremas de ausência de pressupostos processuais relacionados à própria existência do processo (nulidades insanáveis). Assim objeto dessa ação é declarar a inexistência de uma sentença proferida em processo no qual não estejam presentes os pressupostos processuais de existência.
+Diante de tal conceito percebe-se que a Ação Anulatória volta-se ao passado e tem o objetivo de anular ato jurisdicional eivado de vício insanável a macular a própria existência do processo.
+Todavia, conforme se pode notar dos argumentos expostos pelas recorrentes nas razões do recurso, pretendem as apelantes que a declaração de nulidade se estenda às quotas sociais da empresa Meira & Meira Ltda, pertencentes ao Sr. George Frederico Meira Pires, a fim de prevenir que os bens do falecido sejam atingidos pela desconsideração da personalidade jurídica, ou pelo exercício do direito de regresso.
+Do que se vê, as apelantes fundamentam sua pretensão em eventos futuros e incertos, que podem ou não acontecer, os quais, contudo, não cabem ser discutidos em demanda anulatória, por visarem um propósito típico de tutela inibitória, de prevenção da ocorrência de um ilícito, sob pena de se transmudar a natureza restrita da querela nullitatis.
+É de se ressaltar que caso os bens do Sr. George venham a ser atingidos pela desconsideração da personalidade jurídica da empresa Meira & Meira Ltda., ou pelo exercício do direito de regresso pelo outro sócio, as apelantes terão, no momento oportuno, assegurados pelo ordenamento jurídico todos os meios de defesa disponíveis a todo e qualquer litigante, pelo que não há que se falar em cerceamento do direito de defesa.
+Outrossim, como bem fundamentou o magistrado sentenciante, não se pode negar que a pessoa a pessoa jurídica Meira & Meira Ltda., ré na Ação Monitória, foi devidamente citada nesta, representada por sócio que possuía poderes de administração, e teve a oportunidade de ofertar todas as defesas processuais cabíveis, sendo condenada ao final ao pagamento do débito, pelo qual deve responder com o seu patrimônio próprio, que não se confunde com os bens particulares dos seus sócios.
+Como visto, o Tribunal a quo apreciou a controvérsia à luz de elementos fáticos e documentais do processo, inclusive a estrutura societária, a representação processual da pessoa jurídica e a ausência de citação da pessoa física, para delimitar os efeitos práticos da nulidade.
+Rever tal entendimento demandaria o reexame de provas, o que é incabível em recurso especial ante o óbice da Súmula n. 7 do STJ.
+II - Conclusão
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+É o voto.
