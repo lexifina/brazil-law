@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto por VERÔNICA DA SILVA OLIVEIRA, com fundamento no artigo 105, III, a, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS, assim ementado (fl. 658):
+APELAÇÃO CÍVEL. DIREITO CIVIL. AÇÃO INDENIZATÓRIA. PASEP. IRREGULARIDADES. PRESCRIÇÃO DECENAL. OCORRÊNCIA. TERMO INICIAL. DATA DO SAQUE. TEORIA ACTIO NATA. RECURSO CONHECIDO E DESPROVIDO.
+1. Tratando-se de pretensão indenizatória sob o argumento de desfalque dos depósitos realizados na conta do PASEP - Programa de Formação do Patrimônio do Servidor Público, de responsabilidade da instituição bancária ré, o prazo prescricional é de 10 anos, a teor do art. 205 do Código Civil.
+2. O prazo prescricional tem início com o nascimento da pretensão, que é o momento em que o titular do direito subjetivo violado ou ameaçado tem conhecimento da lesão ou da ameaça.
+3. O prazo para o exercício da pretensão deve ser contado a partir do momento em que a parte interessada teve conhecimento do desfalque na conta do PASEP, segundo a teoria actionata (Tema 1.150/STJ), presumindo-se que esse momento se dá na ocasião do saque do benefício.
+4. Decorrido o lapso decenal para reconhecer a prescrição, deve-se extinguir o processo com resolução do mérito (art. 487, inciso II, do Código de Processo Civil).
+5. Recurso conhecido e desprovido.
+Embargos de declaração rejeitados.
+Preliminarmente, foi requerido o benefício da justiça gratuita, sob alegação de insuficiência de recursos para arcar com as despesas processuais.
+No mérito, sustenta violação aos arts. 189, 205 e 206 do Código Civil, pois o Tribunal de origem desconsiderou que o termo inicial da prescrição, segundo a teoria da actio nata, é a data em que a parte, comprovadamente, teve ciência dos desfalques mediante acesso aos extratos, em afronta ao Tema repetitivo n. 1.150/STJ.
+Com contrarrazões.
+Juízo positivo de admissibilidade (fls. 858-860).
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (CPC/2015), devendo ser exigidos os requisitos de admissibilidade conforme nele previsto, nos termos do Enunciado Administrativo n. 3/2016/STJ.
+Quanto ao pedido de concessão da gratuidade de justiça, conforme entendimento consolidado na jurisprudência desta Corte, "o pleito de gratuidade da justiça pode ser requerido a qualquer tempo, desde que a ação esteja em curso. Contudo, sua concessão não possui efeito retroativo para suspender a exigibilidade de eventuais honorários arbitrados antes do requerimento do benefício" (AgInt na ExeMS 12.614/DF, relator Ministro Benedito Gonçalves, Primeira Seção, DJe 27/11/2020). Em sentido análogo: AgInt no AREsp 2.218.626/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe 4/4/2023.
+Diante disso e a partir dos elementos que se encontram nos autos, defiro o benefício da gratuidade de justiça, sem efeitos retroativos.
+Cinge-se a controvérsia quanto à tese de que o prazo prescricional tem início na data do saque integral ou, como pretende o recorrente, quando da obtenção dos extratos.
+A esse respeito, destaco o seguinte trecho do acórdão recorrido:
+ ..
+No caso, restou comprovado que o saque do montante da conta do PASEP foi realizado pela autora/apelante em 09/04/2012 (ID 6 7292419), presumindo-se, portanto, que nessa ocasião a apelante teve acesso aos extratos e tomou ciência dos supostos desfalques realizados em sua conta. Nessa linha, uma vez tendo ajuizado a ação em 20/04/2024 (ID 67292414), é manifesto o transcurso do lapso decenal para reconhecer a prescrição e extinguir o processo, com resolução do mérito, nos termos do art. 487, inciso II, do Código de Processo Civil.
+A Primeira Seção afetou os recursos especiais n. 2.214.879/PE e 2.214.864/PE ao rito dos recursos repetitivos ( Tema 1.387/STJ ) para consolidar entendimento acerca da seguinte questão controvertida: "Definir se o saque integral dá início ao prazo prescricional da pretensão de reparação por falha na prestação do serviço, por saques indevidos, por desfalques, ou por ausência de aplicação dos rendimentos estabelecidos em conta individualizada do PASEP".
+Foi ainda determinada, nos termos do art. 1.037, II, do CPC, a suspensão do processamento de todos os processos, individuais ou coletivos, que versem sobre a mesma matéria, nos quais tenha havido a interposição de recurso especial ou de agravo em recurso especial na segunda instância, ou que estejam em tramitação no STJ, observada a orientação prevista no art. 256-L do RISTJ.
+Desse modo, em observância ao princípio da economia processual, é possível ao relator determinar o retorno dos autos à origem, onde ficarão sobrestados até a publicação do acórdão proferido nos autos do recurso representativo da controvérsia, devendo tal recurso ser apreciado na forma prevista nos arts. 1.040, I e II, e 1.041 do CPC/2015.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que, após a publicação do acórdão a ser proferido no recurso representativo da controvérsia, o apelo especial: a) tenha seguimento denegado na hipótese do acórdão recorrido coincidir com a orientação do STJ; ou b) seja novamente examinado pelo Tribunal de origem, caso o aresto hostilizado divirja do entendimento firmado nesta Corte (arts. 1.039, 1.040, incs. I e II, e 1.041 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. GRATUIDADE DE JUSTIÇA DEFERIDA SEM EFEITOS RETROATIVOS. PASEP. TERMO INICIAL. PRESCRIÇÃO. SAQUE INTEGRAL. MATÉRIA AFETADA. TEMA REPETITIVO N.º 1.387/STJ. DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM PARA EXERCÍCIO DO JUÍZO DE CONFORMAÇÃO. RECURSO PREJUDICADO.
