@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/12/2025 a 16/12/2025, por unanimidade, dar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE IMISSÃO NA POSSE - DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO AGRAVO, ANTE A AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INSURGÊNCIA DA PARTE DEMANDADA.
+1. A parte agravante refutou, nas razões do agravo em recurso especial, a ausência de afronta a dispositivo legal, não incidindo, portanto, o óbice da Súmula 182 do STJ.
+2. A indicação genérica pela parte recorrente do dispositivo legal que teria sido violado ou objeto de interpretação jurisprudencial divergente, sem comprovação de como este fora malferido, implica em deficiência da fundamentação do recurso especial, incidindo o teor da Súmula 284 do STF, aplicável por analogia. Precedentes.
+3. Agravo interno provido para reconsiderar a decisão singular da Presidência desta Corte e, de plano, conhecer do agravo para não conhecer do recurso especial.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de agravo interno, interposto por BARBARA ABREU PINHEIRO, em face de decisão monocrática da Presidência desta Corte, que não conheceu do agravo em recurso especial da parte ora insurgente.
+O apelo extremo, fundamentado na alínea "a" do permissivo constitucional, desafia acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 520, e-STJ):
+APELAÇÃO. IMISSÃO NA POSSE. Sentença que julgou procedente a ação e improcedente a reconvenção. Inconformismo do requerido. Nulidade da sentença por falta de fundamentação. Inocorrência. Mérito. Reconhecido que os autores são proprietários do imóvel, que se encontra registrado em seu nome, de rigor a sua imissão na posse do bem. Indenização pela fruição do imóvel devida. Despesas inerentes ao imóvel posteriores a arrematação e relativas ao período em que os réus permaneceram ocupando o imóvel de forma indevida. Reembolso devido, sob pena de configurar enriquecimento ilícito. Descumprimento da tutela evidenciado. Imóvel que somente fora desocupado quase um ano depois da concessão da tutela. Multa diária devida. Sentença mantida. Recurso desprovido.
+Não foram opostos embargos de declaração.
+Nas razões do recurso especial (fls. 528-534, e-STJ), a insurgente aponta aos arts. 489, §1º, IV, e 1.022 do CPC/15, sustentando a nulidade do acórdão recorrido, porquanto "sem enfrentar as teses da ora Recorrente a relatora se limitou a ratificar a r. porém suicida sentença" (fl. 532, e-STJ).
+Sem contrarrazões.
+Em razão do juízo negativo de admissibilidade na origem, adveio o agravo de fls. 554-561, e-STJ, visando destrancar o processamento daquela insurgência.
+Contraminuta às fls. 571-578, e-STJ.
+Em decisão singular (fls. 591-592, e-STJ), a Presidência desta Corte não conheceu do reclamo, ante a ausência de impugnação específica dos fundamentos da decisão de admissibilidade.
+No presente agravo interno (fls. 598-604, e-STJ), a parte agravante alega ter impugnado especificamente o óbice aplicado, motivo pelo qual requer a reforma da decisão agravada.
+Impugnação às fls. 608-614, e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE IMISSÃO NA POSSE - DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO AGRAVO, ANTE A AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INSURGÊNCIA DA PARTE DEMANDADA.
+1. A parte agravante refutou, nas razões do agravo em recurso especial, a ausência de afronta a dispositivo legal, não incidindo, portanto, o óbice da Súmula 182 do STJ.
+2. A indicação genérica pela parte recorrente do dispositivo legal que teria sido violado ou objeto de interpretação jurisprudencial divergente, sem comprovação de como este fora malferido, implica em deficiência da fundamentação do recurso especial, incidindo o teor da Súmula 284 do STF, aplicável por analogia. Precedentes.
+3. Agravo interno provido para reconsiderar a decisão singular da Presidência desta Corte e, de plano, conhecer do agravo para não conhecer do recurso especial.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): O agravo interno merece acolhimento.
+1. Com efeito, verifica-se que a parte agravante refutou, nas razões do agravo em recurso especial de fls. 554-561, e-STJ, a ausência de afronta a dispositivo legal, devendo ser afastado, portanto, o óbice da Súmula 182 desta Corte.
+Assim, em juízo de retratação, reconsidera-se a decisão singular da Presidência (fls. 591-592, e-STJ), tornando-a sem efeito, passando-se a uma nova análise do reclamo.
+2. A irresignação não merece prosperar.
+In casu, quanto à aventada violação aos arts. 489, § 1º, IV, e 1.022 do CPC/15, verifica-se que, nas razões do apelo, há somente alegação genérica de ausência de fundamentação do acórdão proferido pelo Tribunal de origem, sem especificação das teses que supostamente deveriam ter sido analisadas pelo aresto a quo.
+De tal modo, nos casos em que a arguição é genérica, não se conhece do recurso especial. Incide, na hipótese, o óbice da Súmula 284/STF, assim redigida: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia", aplicável por analogia.
+Nesse sentido:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. COMPRA E VENDA DE IMÓVEL EM CONSTRUÇÃO. DESFAZIMENTO CONTRATUAL POR INTERESSE DO COMPRADOR. ALEGAÇÃO GENÉRICA A NORMA FEDERAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284 DO STF. ARTS. 489 E 1022 AMBOS DO NCPC. AUSÊNCIA DE OMISSÃO E/OU FALTA DE FUNDAMENTAÇÃO. GRATUIDADE JUDICIÁRIA. COMPROVAÇÃO DA HIPOSSUFICIÊNCIA FINANCEIRA NA ORIGEM. DEFERIMENTO MANTIDO. RESTITUIÇÃO DOS VALORES PAGOS DEVIDA. PERCENTUAL EM CONSONÂNCIA COM OS PARÂMETROS ESTABELECIDOS NO STJ (ENTRE 10% E 25%). SÚMULA Nº 568 DO STJ. TAXA DE OCUPAÇÃO AFASTADA COM BASE NOS FATOS DA CAUSA. SÚMULA Nº 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO. (..) 2. Não se conhece do recurso especial que menciona genericamente os dispositivos legais tidos por violados, sem comprovar como estes foram malferidos, em virtude da impossibilidade de verificação de sua ocorrência. Incidência da Súmula nº 284 do STF. 3. Não há que se falar em omissão e/ou falta de fundamentação no acórdão, na medida em que o Tribunal estadual apreciou, de forma clara e fundamentada, as questões que lhe foram devolvidas em apelação. (..) 8. Agravo interno não provido. (AgInt no REsp 1864915/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 24/08/2020, DJe 27/08/2020) (grifou-se)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CARTÃO DE CRÉDITO. COMPRAS QUESTIONADAS. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. NÃO CONFIGURAÇÃO. ALEGAÇÃO GENÉRICA DE OFENSA AO ART. 1.022 DO CPC/2015. INCIDÊNCIA DA SÚMULA 284/STF. MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO IMPROVIDO. 1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC/2015 se faz de forma genérica, sem especificar quais seriam exatamente as omissões e qual a relevância das questões supostamente omitidas para solução da lide. Aplica-se, na hipótese, o óbice da Súmula 284 do STF. (..) 3. Agravo interno a que se nega provimento. (AgInt no AREsp 1225263/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 24/04/2018, DJe 02/05/2018) (grifou-se)
+Inafastável, portanto, o teor da Súmula 284 do STF, aplicável por analogia.
+3. Do exposto, dá-se provimento ao agravo interno para reconsiderar a decisão singular da Presidência desta Corte e, de plano, conhece-se do agravo para não conhecer do recurso especial, nos termos da fundamentação supra.
+É como voto.
