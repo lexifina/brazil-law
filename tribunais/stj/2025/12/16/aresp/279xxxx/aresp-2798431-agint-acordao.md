@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/12/2025 a 16/12/2025, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Marco Buzzi, João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA 182/STJ.
+1. Nos termos do art. 1021, § 1º, do Código de Processo Civil e da Súmula 182/STJ, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+2. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno interposto por INCORPY INCORPORAÇÕES E CONSTRUÇÕES S/A contra decisão singular da lavra do Ministro Presidente do STJ que não conheceu do agravo em recurso especial, por aplicação, por analogia, da Súmula 182/STJ, ao fundamento de que o agravo em recurso especial não impugnou especificamente o motivo "ausência de similitude fática" constante da decisão de admissibilidade do Tribunal de origem (fls. 420-421).
+Nas razões do presente agravo interno, a parte agravante sustenta a tempestividade do recurso e a desnecessidade de preparo, com pedido subsidiário de diferimento (fls. 426-428). Argumenta o cabimento do agravo interno nos termos do art. 1.021 do Código de Processo Civil e do art. 259 do Regimento Interno do Superior Tribunal de Justiça (fls. 428-429). Expõe a síntese da demanda e da decisão agravada, afirmando que o recurso especial foi inadmitido e o agravo em recurso especial não conhecido por suposta ausência de similitude fática e impugnação genérica, indicando omissão quanto: i) à fixação da data do arbitramento como termo inicial dos juros de mora sobre indenização por danos morais; e ii) à condenação do agravado ao pagamento de honorários advocatícios em razão do alegado acolhimento parcial da impugnação (fls. 429-431). Defende, quanto aos juros de mora em danos morais, a incidência a partir do arbitramento e a aponta violação dos arts. 1.022, II, e 489, § 1º, IV e VI, do Código de Processo Civil, com referência ao REsp 903.258/RS (fls. 431-432). Aduz, quanto aos honorários, que houve acolhimento parcial da impugnação, devendo ser fixados honorários em favor do executado, citando REsp 1.134.186/RS e AgInt no AREsp 1.610.142/SC, além de apontar violação aos arts. 1.022, II, e 489, § 1º, IV e VI, do Código de Processo Civil (fls. 433-434). Requer o provimento do agravo interno e a reconsideração para reconhecer as violações e determinar os efeitos pretendidos (fls. 434-435).
+Não foi apresentada contraminuta ao agravo interno (fl. 441).
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA 182/STJ.
+1. Nos termos do art. 1021, § 1º, do Código de Processo Civil e da Súmula 182/STJ, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+2. Agravo interno não conhecido.
+VOTO
+De plano, verifico que o agravo interno interposto não merece ser conhecido, uma vez que a parte agravante não atacou especificamente o único fundamento da decisão agravada.
+A decisão ora agravada não conheceu do agravo em recurso especial por aplicação, por analogia, da Súmula 182/STJ, afirmando que, embora a decisão de admissibilidade do Tribunal de origem tenha apontado, entre outros pontos, a "ausência de afronta ao art. 1.022 do CPC" e a "ausência de similitude fática", o agravo em recurso especial deixou de impugnar especificamente a "ausência de similitude fática", o que atrai a incidência do art. 932, III, do Código de Processo Civil e do art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça (fls. 420-421).
+No presente agravo interno, contudo, a parte não apresentou argumentos voltados a atacar objetiva e integralmente o fundamento único da decisão agravada, limitando-se a aduzir matérias de mérito relativas ao termo inicial dos juros em danos morais e à condenação em honorários na fase de cumprimento de sentença, bem como a reproduzir alegações de negativa de prestação jurisdicional (fls. 431-434).
+Veja-se, aliás, que, às fls. 425-437, a parte discorre sobre a similitude fática em apenas um parágrafo, a saber (fl. 432):
+Portanto, ao contrário do previsto na decisão agravada, restou amplamente demonstrada a similitude fática entre o entendimento consolidado pelo Superior Tribunal de Justiça e o equívoco da decisão proferida pelo juízo de piso. Devendo, dessa forma, ser adotado o termo inicial dos juros a partir do arbitramento dos danos morais.
+Não houve, assim, qualquer referência aos fatos que ensejaram a decisão do acórdão paradigma, muito menos comparação com o caso concreto ora analisado.
+Conclui-se, portanto, que a s razões do agravo interno não impugnaram especificamente o fundamento "ausência de similitude fática" destacado na decisão agravada, deixando de demonstrar que, no AREsp, houve a efetiva e pormenorizada impugnação de todos os fundamentos da decisão de admissibilidade proferida na origem, como exigem o art. 1.021, § 1º, do Código de Processo Civil e a Súmula 182/STJ.
+Ademais, ainda que assim não fosse, o próprio agravo em recurso especial (fls. 311-317) , assim como o agravo interno, também não procedeu a qualquer comparação entre os fatos deste caso e aqueles do paradigma, razão pela qual o citado recurso igualmente não poderia ser conhecido, como bem registrado pela Presidência desta Corte.
+Imperioso concluir, portanto, que a exigência constante do art. 1.021, § 1º, do Código de Processo Civil não foi cumprida, o que conduz à inviabilidade do agravo interno.
+Em face do exposto, não conheço do agravo interno.
+É como voto.
