@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/12/2025 a 16/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Marco Buzzi, João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CIMPRIMENTO DE SENTENÇA. INCABÍVEL A RESPONSABILIZAÇÃO DO SÓCIO SEM A OBSERVÂNCIA DO ART. 133 E SEGUINTES DO CPC/2015. NECESSIDADE DE INSTAURAÇÃO DO INCIDENTE DE DESCONSIDERAÇÃO DE PERSONALIDADE JURÍDICA. PRECEDENTES. REEXAME DE PROVAS. SÚMULA N. 7/STJ. RECURSO ESPECIAL NÃO PROVIDO.
+1. De acordo com a jurisprudência do Superior Tribunal de Justiça, a constrição de bens de terceiros relacionados à pessoa jurídica executada exige, previamente, a desconsideração de sua personalidade jurídica. Precedentes.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+3. Recurso especial a que se nega provimento.
+RELATÓRIO
+Trata-se de recurso especial interposto por ZIM INTEGRATED SHIPPING SERVICES LTD contra acórdão assim ementado (fl. 89):
+Agravo de instrumento cumprimento de sentença pedido de responsabilização do único sócio da empresa executada ante a não localização de bens indeferimento - inconformismo sociedade limitada unipessoal incabível a responsabilização do sócio sem a observância do art. 133 e seguintes do CPC necessidade de instauração do incidente de desconsideração de personalidade jurídica - decisão mantida - recurso não provido.
+Nas razões do recurso especial, a parte recorrente alega, em síntese, que o acórdão recorrido violou os arts. 980-A, § 6º, 1.033, IV, e 1.080, todos do Código Civil.
+Quanto à suposta ofensa ao art. 1.033, IV, do CC sustenta que a empresa recorrida não reestabeleceu a pluralidade de sócios no período de 180 dias, o que atrai a responsabilidade ilimitada do sócio.
+Argumenta, também, que a empresa recorrida não é uma EIRELI que possui regramento próprio, mas, sim, de empresa LTDA unipessoal que, inclusive, furtou-se em reestabelecer a pluralidade de sócios no período de 180 (cento e oitenta) dias, conforme dispõe o art. 1.033, IV, CC (vigente à época dos fatos).
+Além disso, teria violado o art. 980-A, §6º, do CC ao não reconhecer a responsabilidade do sócio individual sem necessidade de incidente de desconsideração.
+Haveria, por fim, violação aos arts. 1.080 do CC, uma vez que o Tribunal de origem não aplicou corretamente a responsabilidade ilimitada do sócio.
+Decorreu o prazo legal sem apresentação de contrarrazões (fl. 117).
+É o relatório.
+EMENTA
+RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CIMPRIMENTO DE SENTENÇA. INCABÍVEL A RESPONSABILIZAÇÃO DO SÓCIO SEM A OBSERVÂNCIA DO ART. 133 E SEGUINTES DO CPC/2015. NECESSIDADE DE INSTAURAÇÃO DO INCIDENTE DE DESCONSIDERAÇÃO DE PERSONALIDADE JURÍDICA. PRECEDENTES. REEXAME DE PROVAS. SÚMULA N. 7/STJ. RECURSO ESPECIAL NÃO PROVIDO.
+1. De acordo com a jurisprudência do Superior Tribunal de Justiça, a constrição de bens de terceiros relacionados à pessoa jurídica executada exige, previamente, a desconsideração de sua personalidade jurídica. Precedentes.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+3. Recurso especial a que se nega provimento.
+VOTO
+O recurso não merece prosperar.
+Trata-se de agravo de instrumento interposto por ZIM INTEGRATED SHIPPING SERVICES LTD, visando a responsabilização do único sócio da empresa executada, sem a necessidade de instauração do incidente de desconsideração da personalidade jurídica. Subsidiariamente, a responsabilização integral em razão de sucessão processual decorrente de dissolução de fato da empresa executada e ainda a responsabilização do sócio no limite do capital social subscrito e não integralizado.
+O Juiz de primeiro grau indeferiu o pedido sob o fundamento de que era necessária a instauração do incidente de desconsideração da personalidade jurídica para atingir o sócio.
+Nas razão do seu agravo de instrumento, a parte recorrente afirmou que a decisão resulta em nítido prejuízo, uma vez que o patrimônio da empresa individual Ltda e de seu sócio, se confundem. Afirma ser desnecessário a instauração do incidente de desconsideração, pois os pleitos não se baseiam na prática de abuso de direito, previsto no art.50 do Código Civil. O recurso não trata de pedido de reforma em razão de indeferimento da sucessão processual pela dissolução de fato da empresa executada, mas sim, em razão da agravada ser uma Ltda unipessoal, cujo sócio deve responder pela totalidade da dívida ou no limite do capital subscrito.
+Aduz, ainda, que a empresa agravada não é uma empresa Eireli, mas sim, uma empresa Ltda Unipessoal, que se furtou em restabelecer a pluralidade de sócios no período de 180 dias, conforme prevê o art.1033, IV, do Código Civil.
+Ressalta que, caso o pedido principal não seja acolhido, requer a responsabilização do sócio nos limites do capital social subscrito, mas não integralizado. É inequívoco que a empresa executada não possui bens suficientes para responder pelas dívidas, devendo o sócio responder observando o limite de sua responsabilidade, nos termos dos arts. 1.001 e 1.052 do CC.
+O Tribunal de origem negou provimento ao recurso, mantendo a decisão de origem, consignando que: (i) limitada unipessoal não se confunde com microempresário individual, que compreende uma só pessoa como sujeita de direitos e obrigações e cuja personalidade jurídica também é única; (ii) há no polo passivo da execução uma sociedade limitada, que se reveste de personalidade jurídica e patrimônio próprio e distinto dos seus sócios; e (iii) As medidas constritivas direcionadas ao único sócio da empresa, exige prévia desconsideração da personalidade jurídica, mediante a presença de seus requisitos. Confira-se:
+Ocorre que a sociedade limitada unipessoal não se confunde com microempresário individual, que compreende uma só pessoa como sujeita de direitos e obrigações e cuja personalidade jurídica também é única.
+No presente feito, há no polo passivo da execução uma sociedade limitada, que se reveste de personalidade jurídica e patrimônio próprio e distinto dos seus sócios.
+As medidas constritivas direcionadas ao único sócio da empresa, exige prévia desconsideração da personalidade jurídica, mediante a presença de seus requisitos.
+ ..
+Em relação ao pedido subsidiário, tem-se que na sociedade limitada, a sucessão processual pressupõe a extinção da pessoa jurídica aliada à existência de patrimônio líquido positivo partilhado entre os sócios. In casu, não houve dissolução formal da sociedade, nem partilha de valores, não se admitindo a pretendida sucessão processual da sociedade pelo único sócio. Assim, o avanço sobre o patrimônio pessoal do sócio, para pagamento de débitos, dependeria de incidente autônomo de desconsideração da personalidade jurídica, incabível na hipótese de mero encerramento das atividades ou dissolução irregular da sociedade empresária, mesmo com pendência de dívidas. Com efeito, não é caso de sucessão processual, para redirecionamento da execução contra a pessoa física dos sócios da pessoa jurídica devedora, nos termos do art. 1.080 do Código Civil  ..  (fls. 91-92).
+Como constou no acórdão recorrido, o Tribunal de origem consignou que se trata de sociedade limitada e que não se confunde com microempresário individual, sustentando que as medidas constritivas direcionadas ao único sócio da empresa exigem prévia desconsideração da personalidade jurídica, mediante a presença de seus requisitos.
+Na hipótese dos autos, a revisão das conclusões proferidas pelo Colegiado estadual no que se refere à constituição da sociedade limitada demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula 7/ STJ.
+Ademais, o acórdão recorrido está em consonância com a orientação que se firmou na jurisprudência desta Corte, no sentido de que a constrição de bens de terceiros relacionados à pessoa jurídica executada exige, previamente, a desconsideração de sua personalidade jurídica. A saber:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DECISÃO MONOCRÁTICA. RECONSIDERAÇÃO. SÚMULA Nº 182/STJ. AFASTAMENTO. EXECUÇÃO. ACÓRDÃO RECORRIDO. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. TERCEIROS. ARRESTO DE BENS. IMPOSSIBILIDADE.
+1. De acordo com a jurisprudência do Superior Tribunal de Justiça, a constrição de bens de terceiros relacionados à pessoa jurídica executada exige, previamente, a desconsideração de sua personalidade jurídica. Precedente.
+2. A análise da divergência jurisprudencial fica prejudicada quando o acórdão recorrido decide a controvérsia em consonância com a jurisprudência do STJ.
+3. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial.
+(AgInt no AREsp n. 2.542.802/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 30/6/2025, DJEN de 7/7/2025.)
+PROCESSUAL CIVIL. RECURSOS ESPECIAIS. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. ART. 50 DO CC/2002. REDAÇÃO ORIGINÁRIA E ATUAL. DOAÇÕES FEITAS POR GENITORES A SEUS FILHOS. LIMITAÇÃO DA RESPONSABILIDADE. FRAUDE CONTRA CREDORES. AÇÃO PAULIANA. IMPRESCINDIBILIDADE. DEVIDO PROCESSO LEGAL. RECURSO ESPECIAL PROVIDO. PREJUDICADO O RECURSO DO CREDOR.
+1. O instituto da desconsideração da personalidade jurídica, previsto no art. 50 do CC/2002 - em sua antiga e atual redação - destina-se a afastar a separação entre o patrimônio do sócio e da respectiva pessoa jurídica com o propósito de combater fraudes, desvios e confusão patrimonial, e permite a responsabilização: (i) de sócios por obrigações das respectivas empresas, (ii) de empresas por obrigações de sócios e (iii) de empresas por obrigações de outras pessoas jurídicas do mesmo grupo econômico.
+1.1. Inexiste previsão legal ou viabilidade de interpretação ampliativa com o propósito de aplicar a desconsideração da personalidade jurídica para responsabilizar terceiros que não têm vínculo jurídico com as sociedades atingidas, ainda que se cogite da ocorrência de confusão ou desvio patrimonial, a ensejar suposta fraude contra credores.
+ ..
+3. Recurso especial de Priscila e de Augusto Quirós provido e recurso especial da instituição financeira prejudicado.
+(REsp n. 1.792.271/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 1/4/2025, DJEN de 30/5/2025.)
+Em face do exposto, nego provimento ao recurso especial.
+É como voto.
