@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/12/2025 a 16/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Marco Buzzi, João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE NUNCIAÇÃO DE OBRA NOVA C/C DANOS MATERIAIS E MORAIS. DIREITO DE VIZINHANÇA. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. REPRODUÇÃO DAS RAZÕES DO RESP. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL. SÚMULA 182/STJ. APLICAÇÃO POR ANALOGIA. DECISÃO MANTIDA.
+1. Nos termos do art. 932, III, do Código de Processo Civil e do art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça, não se conhece de agravo cujas razões não impugnam especificamente todos os fundamentos da decisão agravada. Aplicação do enunciado 182 da Súmula do STJ.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por AL EMPREENDIMENTOS S.A. contra decisão singular da lavra do Ministro Presidente do STJ pela qual o agravo em recurso especial não foi conhecido em virtude da incidência da Súmula 182/STJ, haja vista a ausência de impugnação aos seguintes fundamentos da decisão de admissibilidade do recurso especial proferida pelo Tribunal de origem: Súmula 7/STJ (configuração dos danos morais), Súmula 7/STJ (quantum fixado) e Súmula 7/STJ (fixação de multa/descumprimento de ordem judicial) (fls. 933-934).
+Nas razões do presente agravo interno, a parte agravante alega, em síntese, que a decisão agravada não conheceu do agravo em recurso especial por suposta ausência de impugnação específica, embora, segundo afirma, o único fundamento teria sido a incidência da Súmula 7/STJ, o qual teria sido enfrentado.
+Aduz que a decisão agravada teria reiterado os óbices da Súmula 7/STJ sem analisar precedentes indicados pela agravante.
+Defende que as teses veiculadas possuem natureza estritamente jurídica, pleiteando revaloração das premissas fáticas, com invocação de dispositivos do Código Civil e alegada divergência jurisprudencial.
+Impugnação ao agravo interno não apresentada (fl. 949).
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE NUNCIAÇÃO DE OBRA NOVA C/C DANOS MATERIAIS E MORAIS. DIREITO DE VIZINHANÇA. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. REPRODUÇÃO DAS RAZÕES DO RESP. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL. SÚMULA 182/STJ. APLICAÇÃO POR ANALOGIA. DECISÃO MANTIDA.
+1. Nos termos do art. 932, III, do Código de Processo Civil e do art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça, não se conhece de agravo cujas razões não impugnam especificamente todos os fundamentos da decisão agravada. Aplicação do enunciado 182 da Súmula do STJ.
+2. Agravo interno a que se nega provimento.
+VOTO
+O recurso não merece prosperar.
+De início destaco que a decisão que não admitiu o recurso especial consignou a incidência da Súmula 7/STJ quanto à configuração dos danos morais; quanto à revisão do valor indenizatório que somente é admitida em hipóteses excepcionais de irrisoriedade ou exorbitância, o que não se verificou; e, ainda, quanto à fixação e revisão da multa diária (astreintes), por demandar reavaliação fático-probatória, com a ressalva de revisão apenas quando irrisória ou exorbitante, além de prejudicar o dissídio sob a alínea "c" (fls. 905-915).
+Nas razões do seu agravo em recurso especial a parte agravante apenas afirmou, genericamente, que os fatos estariam "perfeitamente delimitados" no acórdão recorrido e que se trataria de "matéria exclusivamente de direito", sustentando a possibilidade de revaloração jurídica e o afastamento da Súmula 7/STJ.
+Como se vê, a parte agravante deixou de impugnar os fundamentos da decisão agravada, uma vez que não demonstrou o desacerto da decisão que não admitiu o recurso especial ou eventual possibilidade de afastamento dos óbices apontados em todos os tópicos específicos em que a 3ª Vice-Presidência aplicou, distintamente, a Súmula 7/STJ (configuração do dano moral; revisão do valor; multa cominatória).
+Destaco que a narrativa da parte de que haveria "apenas um único fundamento - a incidência da Súmula 7/STJ" (fl. 942) não corresponde à decisão de admissibilidade, que identificou três questões autônomas, todas barradas pela Súmula 7/STJ, exigindo impugnação específica e pormenorizada quanto a cada uma delas.
+A propósito, a Corte Especial do STJ manteve o entendimento de que o recorrente deve impugnar especificamente todos os fundamentos da decisão agravada, sob pena de não conhecimento do agravo em recurso especial, por aplicação da Súmula 182/STJ: "A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ( ) não há, pois, capítulos autônomos nesta decisão. ( ) ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais. ( ) Embargos de divergência não providos" (EAREsp 746.775/PR, Rel. Ministro João Otávio de Noronha, Rel. p/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018) (fls. 933-934).
+Outrossim, conforme jurisprudência pacífica deste Superior Tribunal de Justiça, a mera reprodução do recurso especial não é suficiente para impugnar a decisão agravada que não admitiu o recurso: AgInt nos EAREsp 1.157.501/SP, Rel. Ministro Moura Ribeiro, Segunda Seção, julgado em 20/8/2019, DJe 22/8/2019.
+Desse modo, sem a impugnação específica e suficiente para infirmar todos os fundamentos da decisão agravada, aplica-se, por analogia, a Súmula 182/STJ.
+Ainda que assim não fosse, nas razões do seu recurso especial a parte pretende, em síntese, a reforma do acórdão para afastar a responsabilidade civil e os danos morais, ou, subsidiariamente, reduzir o valor, além de afastar ou minorar a multa cominatória.
+No caso dos autos, o Tribunal de origem entendeu que: a construção do muro e a ineficiência do sistema de drenagem no empreendimento agravaram a condição do imóvel inferior, gerando alagamentos e dever de realizar obra para adequação da declividade, com multa diária para o caso de descumprimento; configurou-se dano moral, com majoração do valor; e não se comprovou dano material. Confira-se:
+Rememoro que, tratam-se de imóvel imóveis vizinhos estando localizado de um lado o imóvel rural dos demandados, adquiridos em 1999. Do outro, condomínio horizontal de propriedade da demandada - ALPHAVILLE GRAVATAÍ -, desde 2007.
+No caso, o fato gerador do litígio decorre da edificação de um muro de fechamento do Condomínio - vizinho -, sem as cautelas necessárias afetando diretamente seu imóvel dos autores, resultando em alagamento, redução da visibilidade, luminosidade
+Situação que a situação fática narrada, pode ser aferida pela prova fotográfica colacionada ao feito pelas partes (EV.3 CONTESTAÇÃO, pag.8 e PETIÇÃO INICIAL E DOCUMENTOS1, PAG.45) .
+ ..
+Assim, no caso concreto, em que pese os autores tenham edificado em contrariedade com a previsão do art. 1.303 do Código Civil, pelo que se verifica dos elementos de convencimento, tal obra já ultrapassou o prazo aludido na regra de vizinhança do art. 1.302 do mesmo diploma legal. Além disso, repito, que essa situação não tem nenhum reflexo nos efeitos decorrentes da ineficácia da rede pluvial instalada pela demandada por ocasião da edificação de muro divisório e/ou de fechamento, configurando violação ao direito de vizinhança (alagamento do terreno rural inferior).
+ ..
+Ademais, diferentemente do que afirma a demanda-apelante, o juiz considerou tanto o laudo pericial de EV. como o Laudo complementar entendendo pela ineficiência do serviço de drenagem, determinado a obrigação de fazer (EV. 3- PERÍCIA 40, LAUDO 47 E PERÍCIA 119).
+ ..
+Disso resulta a responsabilidade da demanda-apelante da obrigação de fazer e do dever de indenizar por danos morais.
+ ..
+A prova colacionada ao feito, por si só, é suficiente para demonstrar o abalo emocional, a incomodação e a aflição suportadas pelos apelantes em razão alagamento/ inundação do seu imóvel provocados pela obra dos demandados.
+Relativamente a majoração do quantum arbitrado a título de dano moral na sentença, sorte socorre os autores-apelantes.
+Há que se sopesar para quantificação do dano moral a gravidade, extensão e duração do evento -, bem como os patamares indenizatórios adotados por essa Corte.
+Ao meu viso, no caso vertido, a indenização por danos morais comporta revisão, uma vez que o valor fixado na sentença - repito R$ 10.000,00 (para ambos os autores) - não se revela proporcional às circunstâncias fáticas narradas no feito e suportadas pelos autores-apelantes, Com efeito, a indenização deve ser suficiente a reparar o dano por eles suportado  ..  (fls. 825-830).
+Assim, alterar a conclusão a que chegou o Tribunal de origem, no que se refere à ineficiência do sistema de drenagem no empreendimento que agravaram a condição do imóvel do agravado; o dever de realizar obra para adequação da declividade; e a configuração do dano moral, demandaria, necessariamente, o reexame de fatos e provas, inviável em recurso especial, a teor do disposto na Súmula 7/STJ.
+Nesse contexto, não havendo argumentos aptos a infirmar os fundamentos da decisão agravada, esta deve ser integralmente mantida.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
