@@ -1,0 +1,22 @@
+DECISÃO
+POTTENCIAL SEGURADORA S.A, por meio da PET n. 18657/MG, formula pedido de atribuição de efeito suspensivo ao recurso especial, interposto com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 6ª Região.
+A requerente insurge-se contra a decisão que a condenou solidariamente, junto à Caixa Econômica Federal, ao pagamento de indenização em favor da Associação Brasileira dos Mutuários da Habitação (ABMH), em decorrência do atraso e paralisação das obras do empreendimento "Quintas da Boa Vista".
+A requerente sustenta a probabilidade do direito alegando, em síntese, violação aos arts. 489 e 1.022 do Código de Processo Civil, por suposta negativa de prestação jurisdicional, e ao art. 757 do Código Civil.
+Argumenta que o Tribunal de origem desvirtuou a natureza jurídica do Seguro Garantia (modalidade "Término de Obras") ao equipará-lo a seguro de responsabilidade civil, aplicando indevidamente a Súmula 537/STJ e o Tema 469/STJ para estender a cobertura a terceiros estranhos à relação contratual, ignorando a predeterminação dos riscos e a exclusividade da CEF como segurada.
+No tocante ao perigo de dano, a requerente aduz que a manutenção do acórdão recorrido ensejará o início do cumprimento provisório de sentença, com o risco de expropriação de vultosa quantia.
+Alega que a eventual liberação de valores em favor da associação recorrida e sua subsequente pulverização entre os diversos mutuários associados tornariam irreversível a medida, inviabilizando a repetição do indébito caso o recurso especial venha a ser provido por esta Corte Superior.
+É o relatório. Decido.
+De acordo com as disposições do art. 300 do Código de Processo Civil, a tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo.
+É necessário, portanto, a demonstração cumulativa dos requisitos autorizadores da medida excepcional, o que deve ser analisado com rigor nesta instância extraordinária.
+Todavia, no caso em apreço, não há a demonstração da plausibilidade da tutela de urgência no tocante ao fumus boni iuris ou ao periculum in mora apta a justificar a concessão da medida liminar.
+Nessa linha, merece destaque o entendimento de que a "execução provisória do julgado, por si só, não constitui, isoladamente, a urgência da prestação jurisdicional exigida para a concessão de efeito suspensivo ao recurso especial, haja vista que esse procedimento possui mecanismos próprios para evitar prejuízos às partes" (AgInt na TutPrv no AREsp n. 2.866.116/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 8/9/2025, DJEN de 11/9/2025).
+Registre-se ainda, que o perigo de demora, sob a alegação de prática de atos processuais nos autos do cumprimento provisório do julgado, reveste-se de frágil evidência, pois sua mera proposição não justifica a concessão da medida requerida, sobretudo quando, nos procedimentos da espécie, há disponibilidade de vias próprias para o executado defender seus interesses e resguardar-se de eventuais danos, como, inclusive, já evidenciou o próprio requerente ao mencionar os riscos da execução.
+No mesmo sentido, o seguinte julgado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO PEDIDO DE TUTELA PROVISÓRIA NO RECURSO ESPECIAL. EFEITO SUSPENSIVO. REQUISITOS LEGAIS CUMULATIVOS. NÃO DEMONSTRAÇÃO DO PERICULUM IN MORA. DECISÃO MANTIDA.
+1. O deferimento de tutela provisória de urgência pressupõe a demonstração de elementos que evidenciem a plausibilidade do direito alegado e o perigo de dano ou o risco ao resultado útil do processo.
+2. "Nos termos da jurisprudência desta Corte, o regular prosseguimento do cumprimento de sentença, por si só, não constitui o perigo de dano ou o risco ao resultado útil do processo exigido para a concessão de tutela provisória de urgência, até porque o referido procedimento possui mecanismos próprios para evitar prejuízos ao executado. A ausência do periculum in mora basta para o indeferimento do pedido, sendo, portanto, desnecessário apreciar a questão sob a ótica do fumus boni juris, que deve se fazer presente cumulativamente" (AgInt na AR n. 7.296/DF, Relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 29/11/2022, DJe de 1/12/2022).
+3. Agravo interno a que se nega provimento.
+(AgInt na TutPrv no REsp n. 2.024.051/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 19/8/2024, DJe de 22/8/2024, destaquei.)
+Ante o exposto, indefiro o pedido de tutela provisória.
+Publique-se. Intim em-se.
+EMENTA
