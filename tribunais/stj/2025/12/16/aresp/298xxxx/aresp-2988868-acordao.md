@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/12/2025 a 16/12/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira, Marco Buzzi e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. ATROPELAMENTO EM LINHA FÉRREA. CULPA CONCORRENTE. DANO MORAL. VALOR DA INDENIZAÇÃO. DIVERGÊNCIA PRETORIANA. INEXISTÊNCIA DE SIMILITUDE FÁTICA. AGRAVO EM RECURSO ESPECIAL CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. É inviável a apreciação de divergência jurisprudencial quanto ao valor fixado a título de danos morais, porquanto, ainda que haja semelhança em relação a alguns aspectos dos acórdãos confrontados, cada qual apresenta peculiaridades específicas e contornos fáticos próprios considerados pela instância ordinária ao arbitrar o montante da reparação.
+2. Agravo em recurso especial conhecido. Recurso especial não conhecido.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por MARIA CATARINA DO CARMO e OUTROS contra decisão que inadmitiu seu recurso especial, fundamentado no art. 105, III, "c", da Constituição Federal, contra acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"Apelações - Atropelamento em linha férrea com vítima fatal - Culpa concorrente da concessionária que se omitiu ao não fiscalizar e nem impedir passagem de pedestres pela linha férrea, possibilitando-se o livre ingresso e trânsito de pedestres sem qualquer vigilância ou obstáculo no local do acidente - Tema 518 do E. STJ - Nexo causal configurado para responsabilizar a ré por culpa concorrente - Afastamento da ilegitimidade passiva - Dano moral evidente em razão da morte de ente familiar - Juros moratórios da verba indenizatória deve ser contada da data dos fatos, nos termos da Súmula 54 da mesma Corte - Recurso da ré não provido, bem como recurso dos autores provido em parte." (e-STJ, fl. 284)
+Nas razões do recurso especial, a parte recorrente aponta a existência de dissídio jurisprudencial em relação ao art. 944 do CC, em face do valor total fixado em R$ 90.000,00, sendo R$ 30.000,00 para cada recorrente, a título de danos morais, pelo que requer majoração.
+O recurso especial foi inadmitido na origem, dando ensejo à interposição do presente agravo.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. ATROPELAMENTO EM LINHA FÉRREA. CULPA CONCORRENTE. DANO MORAL. VALOR DA INDENIZAÇÃO. DIVERGÊNCIA PRETORIANA. INEXISTÊNCIA DE SIMILITUDE FÁTICA. AGRAVO EM RECURSO ESPECIAL CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. É inviável a apreciação de divergência jurisprudencial quanto ao valor fixado a título de danos morais, porquanto, ainda que haja semelhança em relação a alguns aspectos dos acórdãos confrontados, cada qual apresenta peculiaridades específicas e contornos fáticos próprios considerados pela instância ordinária ao arbitrar o montante da reparação.
+2. Agravo em recurso especial conhecido. Recurso especial não conhecido.
+VOTO
+A pretensão de reforma do acórdão recorrido, quanto ao montante da verba indenizatória, está fundada em dissídio jurisprudencial.
+Entretanto, é firme nesta Corte o entendimento de que é inviável a apreciação de divergência jurisprudencial quanto ao valor fixado a título de danos morais, porquanto, ainda que haja semelhança em relação a alguns aspectos dos acórdãos confrontados, cada qual apresenta peculiaridades específicas e contornos fáticos próprios considerados pela instância ordinária ao arbitrar o montante da reparação. Daí a impossibilidade de uma análise comparativa das circunstâncias fáticas que envolvem acórdão recorrido e paradigmas. Confiram-se, a propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. AÇÃO DECLARATÓRIA C/C INDENIZATÓRIA. DESCONTOS POR EMPRÉSTIMO NÃO CONTRATADO. FRAUDE DE TERCEIRO. ALEGAÇÃO DE OFENSA AO ART. 1.022 DO CPC/2015, SEM QUE TENHA MANEJADO OS EMBARGOS DE DECLARAÇÃO NA ORIGEM. SÚMULA 284/STJ. DANOS MORAIS. MAJORAÇÃO. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. O Superior Tribunal de Justiça possui entendimento de que: "Os embargos
+de declaração representam o meio adequado a sanar obscuridade, omissão ou contradição porventura existentes na decisão agravada. Não opostos os competentes embargos, a análise da pretensão de nulidade da decisão encontra o óbice contido na Súmula 284 do STF" (AgInt no AREsp 1.175.224/MT, Relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 13/11/2018).
+2. É admissível o reexame do valor fixado a título de danos morais, quando verificada a exorbitância ou a natureza irrisória da importância arbitrada, em ofensa aos princípios da razoabilidade e da proporcionalidade.
+3. No caso, não se mostra irrisório o montante estabelecido pelo Tribunal de Justiça em R$ 5.000,00 (cinco mil reais), visto não ser desproporcional aos danos sofridos pela parte recorrida, ao sofrer indevido desconto bancário, no valor de R$ 25,25 (vinte e cinco reais e vinte e cinco centavos) por 60 meses.
+4. É inviável a apreciação de divergência jurisprudencial quanto ao valor fixado a título de danos morais, porquanto, ainda que haja semelhança em relação a alguns aspectos dos acórdãos confrontados, cada qual apresenta peculiaridades específicas e contornos fáticos próprios considerados pela instância ordinária ao arbitrar o valor da indenização.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.513.309/MS, relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 22/4/2024, DJe de 2/5/2024, g.n.)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DANO MORAL. VALOR DA INDENIZAÇÃO. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL. SÚMULA N. 284/STF. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. DECISÃO
+MANTIDA. 1. A falta de indicação do dispositivo legal supostamente violado obsta o conhecimento do recurso especial, mesmo quando interposto com base na alínea "c" do permissivo constitucional, incidindo na espécie a Súmula
+n. 284/STF.2. O STJ firmou entendimento de ser incabível o reexame do valor fixado a título de danos morais com base em divergência jurisprudencial, pois, ainda que haja semelhança de algumas características nos acórdãos confrontados, cada qual possui peculiaridades subjetivas e contornos fáticos próprios, o que justifica a fixação do quantum indenizatório distinto. 3. Agravo interno a que se nega provimento"
+(AgInt no AREsp 1.065.067/SC, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, DJe, 16.6.2017).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. RECUSA INJUSTIFICADA DE COBERTURA. 1. ÓBICE DA SÚMULA 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AO FUNDAMENTO DA DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. FUNDAMENTO QUE PERMANECE INCÓLUME. PRINCÍPIO DA DIALETICIDADE. 2. DANOS MORAIS CONFIGURADOS. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. 3. DIVERGÊNCIA JURISPRUDENCIAL. INCABÍVEL. 4. AGRAVO IMPROVIDO.
+ ..
+3. Este Superior Tribunal já deixou assente a impossibilidade do conhecimento do dissídio lastreado na diferença entre os valores arbitrados a título de danos morais ante a inexistência de similitude fática, já que "em se tratando de danos morais, torna-se incabível a análise do recurso com base na divergência pretoriana, pois, ainda que haja grande semelhança nas características externas e objetivas, no aspecto subjetivo, os acórdãos serão sempre distintos" (AgRg no Ag n. 1.179.405/SP, Relator o Ministro João Otávio de Noronha, Quarta Turma, DJe de 13/4/2010).
+4. Agravo interno desprovido"
+(AgInt no AREsp 1035805/DF, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe, 30.5.2017).
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil de 2015, majoro os honorários advocatícios, devidos ao advogado da parte recorrida, em 1% (um por cento) sobre o valor já fixado , observada eventual gratuidade de justiça, nos t ermos do art. 98, § 3º, do CPC/2015.
+É o voto.
