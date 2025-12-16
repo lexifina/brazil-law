@@ -1,0 +1,108 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/12/2025 a 16/12/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO E OBSCURIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+I. CASO EM EXAME
+1. Embargos de declaração opostos a acórdão que desproveu recurso especial, em razão da aplicação da Súmula n. 486 do STJ quanto à impenhorabilidade condicionada à reversão da renda locatícia, do óbice da Súmula n. 7 do STJ para o reexame do conjunto fático-probatório e do afastamento da negativa de prestação jurisdicional.
+II. QUESTÃO EM DISCUSSÃO
+3. Há três questões em discussão: (i) saber se houve negativa de prestação jurisdicional pelo Tribunal de origem; (ii) saber se ocorreu erro de fato e indevida valoração da prova ao desconsiderar que o imóvel seria o único bem residencial e que os frutos da locação seriam destinados à subsistência familiar, autorizando a aplicação da Súmula n. 486 do STJ; e (iii) saber se é cabível a aplicação de multa pela oposição dos embargos de declaração.
+III. RAZÕES DE DECIDIR
+4. Os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado.
+5. A negativa de prestação jurisdicional é afastada, porque as questões relevantes foram apreciadas com fundamentação suficiente.
+6. Inexiste obscuridade e não há erro de fato ou indevida valoração da prova, pois a impenhorabilidade do imóvel locado depende da demonstração da reversão da renda para a subsistência ou moradia, o que não foi comprovado; a revisão das conclusões demandaria reexame de provas, vedado pela Súmula n. 7 do STJ.
+7. A aplicação de multa é incabível, pois a oposição dos embargos não evidencia intuito protelatório.
+IV. DISPOSITIVO E TESE
+5. Embargos de declaração rejeitados.
+Tese de julgamento: "1. Não há omissão quando o STJ analisa devidamente a alegada negativa de prestação jurisdicional suscitada nos embargos de declaração. 2. Inexiste obscuridade e erro de fato quando o acórdão embargado aplica a Súmula n. 486 do STJ e afasta a revisão da moldura fática pela Súmula n. 7 do STJ. 3. Não cabe multa quando não se constata caráter protelatório na oposição dos embargos de declaração."
+Dispositivos relevantes citados: CPC, art. 1.022; Lei n. 8.009/1990, arts. 1º, 2º, 3º; CC, art. 1.228.
+Jurisprudência relevante citada: STJ, Súmula n. 486; STJ, Súmula n. 7; STJ, EDcl no AgInt nos EAREsp n. 1.623.529/DF, relator Ministro Og Fernandes, Corte Especial, julgados em 1/12/2021; STJ, EDcl no AgRg no RE nos EDcl no AgRg nos EDcl no AREsp n. 1.571.819/RJ, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 25/8/2020; STJ, AgRg no Ag n. 56.745/SP, relator Ministro Cesar Asfor Rocha, Primeira Turma, julgado em 16/11/1994; STJ, EDcl no AgInt nos EAREsp n. 2.157.279/RS, relator Ministro Marco Aurélio Bellizze, Segunda Seção, julgados em 14/11/2023.
+RELATÓRIO
+LEONARDO JOSÉ DUBEUX DO MONTE opõe embargos declaratórios ao acórdão assim ementado (fls. 1.239-1.240):
+DIREITO CIVIL. RECURSO ESPECIAL. EXECUÇÃO. PENHORA DE BEM IMÓVEL. BEM DE FAMÍLIA. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça de Pernambuco que negou provimento a agravo de instrumento, mantendo a penhora de imóvel, tendo em vista a não caracterização como bem de família.
+2. O recorrente alega que o imóvel penhorado é seu único bem residencial e que a renda obtida com sua locação é utilizada para a subsistência familiar, pleiteando a impenhorabilidade nos termos da Lei n. 8.009/1990.
+3. O juiz de primeiro grau e o Tribunal de origem concluíram pela ausência de prova de que a renda locatícia é destinada à subsistência do devedor, afastando a proteção do bem de família.
+II. QUESTÃO EM DISCUSSÃO
+4. A questão em discussão consiste em saber se o imóvel penhorado se enquadra na definição de bem de família, sendo impenhorável, considerando a renda obtida com sua locação e sua destinação para a subsistência do devedor.
+III. RAZÕES DE DECIDIR
+5. A Corte de origem analisou adequadamente as questões necessárias à solução do litígio, não havendo nulidade por omissão no acórdão recorrido.
+6. A jurisprudência do STJ consolidada na Súmula n. 486 condiciona a impenhorabilidade do imóvel locado à comprovação de que a renda é revertida para a subsistência ou moradia do devedor, o que não foi demonstrado no caso.
+7. A modificação das conclusões das instâncias ordinárias demandaria reexame de provas, o que é vedado em recurso especial, conforme a Súmula n. 7 do STJ.
+IV. DISPOSITIVO E TESE
+8. Recurso desprovido.
+Tese de julgamento: "1. A impenhorabilidade do imóvel locado a terceiros depende da comprovação de que a renda obtida é revertida para a subsistência ou moradia do devedor. 2. A revisão de elementos fático-probatórios é insuscetível na via especial, conforme a Súmula n. 7 do STJ".
+Dispositivos relevantes citados: Lei n. 8.009/1990, arts. 1º, 2º e 3º; CPC, art. 1.022; CC, art. 1.228.
+Jurisprudência relevante citada: STJ, Súmula n. 486.
+Alega que o acórdão padece de omissão e obscuridade, por não enfrentar adequadamente os argumentos relativos: a) à negativa de prestação jurisdicional pelo Tribunal de origem; b) à configuração de erro de fato e à indevida valoração da prova, ao desconsiderar que o imóvel penhorado constitui o único bem residencial do devedor e que os frutos da locação, pagos in natura, são destinados à subsistência de sua família, circunstâncias que autorizam a aplicação da Súmula n. 486 do STJ e o reconhecimento da impenhorabilidade do bem de família.
+Requer o acolhimento dos embargos declaratórios para que sejam sanados os vícios alegados, bem como para fins de prequestionamento.
+Contrarrazões pelo desprovimento do recurso com aplicação da multa (fls. 1.275-1.286 ).
+É o relatório.
+EMENTA
+DIREITO CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO E OBSCURIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+I. CASO EM EXAME
+1. Embargos de declaração opostos a acórdão que desproveu recurso especial, em razão da aplicação da Súmula n. 486 do STJ quanto à impenhorabilidade condicionada à reversão da renda locatícia, do óbice da Súmula n. 7 do STJ para o reexame do conjunto fático-probatório e do afastamento da negativa de prestação jurisdicional.
+II. QUESTÃO EM DISCUSSÃO
+3. Há três questões em discussão: (i) saber se houve negativa de prestação jurisdicional pelo Tribunal de origem; (ii) saber se ocorreu erro de fato e indevida valoração da prova ao desconsiderar que o imóvel seria o único bem residencial e que os frutos da locação seriam destinados à subsistência familiar, autorizando a aplicação da Súmula n. 486 do STJ; e (iii) saber se é cabível a aplicação de multa pela oposição dos embargos de declaração.
+III. RAZÕES DE DECIDIR
+4. Os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado.
+5. A negativa de prestação jurisdicional é afastada, porque as questões relevantes foram apreciadas com fundamentação suficiente.
+6. Inexiste obscuridade e não há erro de fato ou indevida valoração da prova, pois a impenhorabilidade do imóvel locado depende da demonstração da reversão da renda para a subsistência ou moradia, o que não foi comprovado; a revisão das conclusões demandaria reexame de provas, vedado pela Súmula n. 7 do STJ.
+7. A aplicação de multa é incabível, pois a oposição dos embargos não evidencia intuito protelatório.
+IV. DISPOSITIVO E TESE
+5. Embargos de declaração rejeitados.
+Tese de julgamento: "1. Não há omissão quando o STJ analisa devidamente a alegada negativa de prestação jurisdicional suscitada nos embargos de declaração. 2. Inexiste obscuridade e erro de fato quando o acórdão embargado aplica a Súmula n. 486 do STJ e afasta a revisão da moldura fática pela Súmula n. 7 do STJ. 3. Não cabe multa quando não se constata caráter protelatório na oposição dos embargos de declaração."
+Dispositivos relevantes citados: CPC, art. 1.022; Lei n. 8.009/1990, arts. 1º, 2º, 3º; CC, art. 1.228.
+Jurisprudência relevante citada: STJ, Súmula n. 486; STJ, Súmula n. 7; STJ, EDcl no AgInt nos EAREsp n. 1.623.529/DF, relator Ministro Og Fernandes, Corte Especial, julgados em 1/12/2021; STJ, EDcl no AgRg no RE nos EDcl no AgRg nos EDcl no AREsp n. 1.571.819/RJ, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 25/8/2020; STJ, AgRg no Ag n. 56.745/SP, relator Ministro Cesar Asfor Rocha, Primeira Turma, julgado em 16/11/1994; STJ, EDcl no AgInt nos EAREsp n. 2.157.279/RS, relator Ministro Marco Aurélio Bellizze, Segunda Seção, julgados em 14/11/2023.
+VOTO
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a aclarar obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado, o que não se verifica na espécie.
+As questões levantadas nas razões recursais foram devidamente examinadas, com justificativas fundamentadas para as conclusões adotadas.
+Inicialmente, afastou-se a alegada negativa de prestação jurisdicional, pois o Tribunal de origem examinou e decidiu, de forma clara, objetiva e fundamentada, as questões que delimitaram a controvérsia, concluindo pela ausência de prova de que os valores de aluguel se destinem à subsistência do devedor e de sua família, circunstância que impede o reconhecimento da proteção do bem de família ao imóvel em discussão.
+Na sequência, consignou-se que a exigência de comprovação da reversão da renda locatícia para a subsistência, nos termos da Súmula n. 486 do STJ, estava em sintonia com a jurisprudência do Superior Tribunal de Justiça e foi devidamente apreciada pelo Tribunal de origem, em conformidade com os elementos apresentados pelas instâncias ordinárias, sendo incabível, na via especial, o reexame da moldura fática e probatória, conforme a Súmula n. 7 do STJ.
+Confira-se (fls. 1.242-1.246, destaquei):
+Inicialmente, não prospera o recurso no que diz respeito à alegação de nulidade do acórdão recorrido por ofensa ao art. 1.022, I e II, do CPC.
+Ao contrário do que sugerem as razões recursais, as questões necessárias à solução do litígio foram devidamente analisadas pela Corte de origem, que expôs, de forma clara e fundamentada, as razões de fato e de direito que orientaram seu entendimento quanto à matéria submetida a seu crivo.
+Pontue-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+Afastada a nulidade, passo ao exame dos demais preceitos legais tidos por violados, todos eles associados à tese de fundo, que consiste em definir se o imóvel penhorado nos autos se enquadra na definição de bem de família, nos termos da Lei n. 8.009/1990, sendo, portanto, impenhorável.
+Segundo a orientação jurisprudencial do Superior Tribunal de Justiça consolidada no enunciado da Súmula n. 486, "é impenhorável o único imóvel residencial do devedor que esteja locado a terceiros, desde que a renda obtida com a locação seja revertida para a subsistência ou a moradia da sua família".
+Vê-se, pois, que o aproveitamento do benefício em questão, assegurado na primeira parte do comando sumular, está condicionado ao preenchimento da premissa fática estabelecida na segunda parte, a saber, a de que a renda obtida com a locação seja revertida para a subsistência ou a moradia da família do devedor.
+No caso, percebe-se que tal questão, de viés eminentemente factual, foi objeto de criterioso e percuciente exame pelas instâncias ordinárias, que, ao final, concluíram pelo não perfazimento da citada condição. Confiram-se, a propósito, os seguintes excertos dos julgados de primeiro e de segundo grau de jurisdição:
+i) Decisão de primeiro grau (fls. 51-52):
+A legislação define o bem de família de acordo com os termos do disposto no art. 1º da lei 8009/90, sendo caracterizado principalmente pela sua natureza residencial.
+A jurisprudência, através da súmula 486 do STJ, alargando este limite estreito, admite que o benefício seja aplicado ao único imóvel residencial ainda que locado a terceiro, com a ressalva de que a renda decorrente da locação seja empregada no sustento e moradia de sua família.
+Seria este o caso presente, cabendo então analisar o pacto locatício celebrado para o imóvel em questão, bem como as demais provas dos autos, para análise da ressalva.
+O contrato celebrado pelo Réu, dando em locação o imóvel praieiro, prevê o pagamento de um aluguel mensal no valor de R$ 18.333,00 (ID 94359811), que seria o montante a ser utilizado para moradia do devedor e sua família e despesas diversas de sustento.
+O contrato de locação celebrado pelo devedor para sua moradia ajusta a quantia de R$ 4.100,00, pelo que sobraria pouco mais de R$ 14.000,00 para seu sustento.
+A rigor, um montante até razoável para o objetivo indicado, ainda que adicionado despesas de condomínio, IPTU e consumo de luz, pelo que, em tese, seria crível a alegação do devedor.
+Todavia, analisando as demais provas dos autos, se verificam sinais de riqueza outros que exigiria que o Réu tivesse outras rendas para o seu sustento que não apenas a receita locatícia de seu imóvel na praia de Enseadinha.
+Cabe registrar, inicialmente, que foram penhorados dois veículos, avaliados em pouco mais de 180.000,00, o que, por si só, afastaria a receita da locação da casa de praia como a única destinada ao seu sustento.
+Registre-se, ainda, conforme lembrado pelos credores, que o Réu se propôs a substituir a penhora dos veículos por dinheiro, ofertando o montante de R$ 200.000,00, que seria impossível de ser amealhado caso o devedor tivesse apenas aquela receita locatícia para sua sobrevivência.
+A alegação contida em sua defesa (ID 100262911 - pag. 16) de que o montante lhe seria emprestado pelo ex-locatário de sua casa de praia (ID 94359811) não encontra respaldo do conjunto probatório, carecendo de verossimilhança, pelo que não deve ser considerada.
+E mesmo que fosse verossímil a alegação, não esclareceu o Réu com quais recursos iria repagar o dito empréstimo, o que seria razoável de se indagar pois serviria para demonstrar que o bem dado em locação se trata de fato bem de família e sua única fonte de renda.
+Em não o fazendo, restou inexplicável de que forma o locatício, após abatidas as despesas para seu sustento, poderia pagar um empréstimo daquela monta, se não fosse com outras receitas.
+Ademais, foram penhorados outros bens de seu patrimônio, origem de receitas outras, que certamente serviriam para quitar o anunciado empréstimo.
+Este elemento é mais um indicativo de que a receita locatícia é a menor parte do que realmente dispõe para seu sustento.
+Os credores demonstram, também, que o Réu faz despesas (ID 97097735) incompatíveis com o que recebe pela locação, além de possuir outros bens, que também foram penhorados.
+O Réu também deixa de explicar, qual seria seu proveito econômico obtido pelos bens constantes do patrimônio de suas empresas, dentre os quais, por exemplo, está uma sala de um edifício empresarial situado em área nobre do bairro de Boa Viagem (ID 97097253).
+Cabe ressaltar que na referida sala comercial funciona duas das empresas do Réu, a LJM, da qual o Réu tem participação, e que tem por objetivo "aluguel de imóveis próprios e corretagem de aluguel de imóveis" (ID 97097239) e a FENIX FACTORING LTDA. (ID 97097245), que tem por objetivo a prestação de serviços de fomento comercial, ou factoring.
+É mais um sinal de riqueza que não foi explicada pelo devedor, tornando razoável a conclusão de que possui rendimentos acima da mera receita com a locação de sua casa de praia.
+ii) Acórdão (fls. 384-385):
+10. A inclinação da jurisprudência é de ampliar a proteção do bem de família, conferindo intepretação teleológica para garantir a subsistência da família.
+11. Mas há que se compreender que somente em caráter excepcional se pode compreender que o imóvel alugado a terceiro conte com a proteção legal do bem de família. Afigura-se necessário que o devedor tenha um único imóvel residencial e a renda auferida destine-se a subsistência ou a moradia da sua família.
+12. Ocorre que não há prova de que o aluguel auferido com a casa situada no loteamento praia de Enseadinha, no município de Ipojuca, se destina à subsistência do devedor.
+13. Na declaração de imposto de renda exercício 2020, acostada ao feito de origem (ID. 84714760), verifica- se que o executado, ora agravante, é proprietário de bens e direitos, incluindo-se 04 imóveis: 40% do apartamento nr. 900 - do edf mohana, Av. Boa Viagem, nr. 4338, Recife/PE, recebido por doação da genitora Maria do Carmo Dubeux do Monte, com 320 m  de área total. Casa de veraneio nos lotes 06 e 07 quadra 06, loteamento enseadinha, Ipojuca/PE, adquirido em 07/1987, com construção de uma casa residencial e 3.000 m  de área total. 03 lotes de terreno no loteamento parque gravatá, da quadra G, Gravatá/PE, com 900 m  de área total. Fazenda denominada Casa Blanca, Gravatá/PE, com 82,5 ha.
+14. Válido pontuar que o agravante não reside em quaisquer dos imóveis, valendo dizer que a proteção legal, pela via da interpretação ampliativa, deverá ser precedida de prova séria e robusta de que o aluguel da casa de veraneio, situada no loteamento enseadinha, Ipojuca/PE, adquirido em 07/1987, com construção de uma casa residencial e 3.000 m  de área total, destina a sua subsistência.
+15. Não se pode descurar de que a ampliação do conceito legal de bem de família dar-se-á em caráter excepcional e o ônus quanto ao destino da renda auferida com a locação é do devedor.
+16. Na hipótese, para além do devedor possuir diversos imóveis - parece sem relevância a circunstância dos demais terem sido penhorados -, não faz prova de que a renda do aluguel é a sua única forma de subsistência. O agravante não faz prova da sua movimentação financeira. A declaração do imposto de renda indica apenas seus bens e direitos, não indicando suas fontes de renda. Malgrado o aluguel seja depositado na sua conta corrente não se tem a sua movimentação.
+17. Destaque-se, neste particular, que, da análise dos autos originários, verifica-se que foi possível ao agravante oferecer substituição da penhora de dois automóveis por dinheiro, no montante de R$ 184.923,00 (cento e oitenta e quatro mil novecentos e vinte e três reais) (petição de ID. 95427614 do processo nº 0079461-86.2020.8.17.2001). Esse fato é um relevante indício de que a sua subsistência não advém dos alugueis referentes ao imóvel objeto do presente recurso.
+18. Consigne-se, ainda, que o contrato de locação de imóvel, pelo prazo de 18 meses, findando em maio/2022, que indica como valor do locativo R$ 20.000,00 (vinte mil reais) (ID. 94359810), apresenta uma particularidade ao excepcionar o período de festas (21/12 a 04/01) da locação. Das duas uma: ou o imóvel é utilizado como um investimento, um negócio, buscando o melhor resultado possível, ou destina-se ao deleite de verão.
+Claro, pois, nesse contexto, que a modificação das conclusões a que chegaram as instâncias ordinárias acerca do não enquadramento do imóvel como bem de família estaria a exigir a incursão no arcabouço fático-probatório dos autos, procedimento de todo incabível na via especial, nos termos do óbice da Súmula n. 7 do STJ.
+Assim, não há irregularidade sanável por meio dos presentes embargos, pois toda a matéria apta à apreciação do STJ foi analisada, não padecendo o acórdão embargado dos vícios que autorizariam sua oposição (obscuridade, contradição, omissão e erro material).
+Se a conclusão ou os fundamentos adotados não foram corretos na opinião da parte recorrente, isso não significa que não existam ou que configurem algum vício. Afinal, não se pode confundir falta de motivação com fundamentação contrária aos interesses da parte (AgRg no Ag n. 56.745/SP, relator Ministro Cesar Asfor Rocha, Primeira Turma, julgado em 16/11/1994, DJ de 12/12/1994).
+Ressalte-se que a mera irresignação da parte embargante com o entendimento que embasou o julgamento do recurso não viabiliza a oposição dos aclaratórios, que têm finalidade integrativa e, portanto, não se prestam à reforma do entendimento adotado ou ao rejulgamento da causa (EDcl no AgInt nos EAREsp n. 1.623.529/DF, relator Ministro Og Fernandes, Corte Especial, julgado em 1º/12/2021, DJe de 15/12/2021; EDcl no AgRg no RE nos EDcl no AgRg nos EDcl no AREsp n. 1.571.819/RJ, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 25/8/2020, DJe de 28/8/2020).
+Quanto ao pedido de aplicação de multa, formulado na impugnação aos embargos de declaração, a simples oposição de embargos, ainda que não configurada nenhuma das hipóteses de cabimento, não enseja a incidência da penalidade quando não há a intenção protelatória (EDcl no AgInt nos EAREsp n. 2.157.279/RS, relator Ministro Marco Aurélio Bellizze, Segunda Seção, julgado em 14/11/2023, DJe de 17/11/2023).
+No caso, apesar da rejeição dos embargos de declaração, não está configurado, por ora, o intuito protelatório, razão pela qual é incabível a aplicação de multa.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
