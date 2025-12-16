@@ -1,0 +1,45 @@
+Decisão: A 4ª Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo, ao apreciar os recursos de apelação interpostos pelos ora recorrente, recorrido e interessados, proferiu acórdão assim ementado (eDOC 2.230, p. 1-145):
+
+    “Organização criminosa armada - Apelação - Recursos defensivos e ministerial - Preliminares - Pleito de nulidade da diligência de busca e apreensão realizada - Nulidade não verificada - Presentes motivos que demandavam a determinação de busca e apreensão - Ausência de auto circunstanciado suprida por outros elementos de prova da diligência, como relatório de investigação - Precedente do STJ - Presente delimitação do que deveria ser apreendido - Pedido de nulidade da interceptação telefônica - Suficientes indícios de autoria e materialidade de crime punido com pena de reclusão - Interceptação telefônica necessária ao deslinde dos fatos - Decisões que deferiram a medida e posteriormente a prorrogaram devidamente fundamentadas - Ausência de nulidade nas prorrogações da interceptação - Entendimento dos Tribunais Superiores - Inexistência de necessidade de estabelecimento de data inicial e final para a diligência, havendo apenas a necessidade de fixação de prazo para a medida e suas prorrogações - Alegação de inépcia da denúncia - Denúncia em conformidade com o art. 41 do Código de Processo Penal - Ausência de irregularidade na apresentação da denúncia pelo GAECO - Pedido de reconhecimento de litispendência - Arguição de litispendência afastada - Julgamento de fatos distintos - Preliminares afastadas - Mérito Pedido de absolvição pelos acusados apelantes - Pedido de condenação pelo Ministério Público - Prova segura quanto à materialidade e autoria Depoimentos das testemunhas policiais coerentes e harmônicos corroborados pelas transcrições da interceptação telefônica, bem como demais elementos de convicção constantes dos autos - Condenações mantidas, à exceção da condenação do acusado José Francisco - Absolvição do crime de roubo julgado no presente feito não possui o condão de absolver os acusados do crime residual constante da denúncia, qual seja o delito de organização criminosa armada - Crime formal, de perigo abstrato e autônomo, e independe de perpetração de qualquer outro delito para sua consumação Crimes de roubo executados pela organização criminosa julgados em processos e juízos diversos - Prescindibilidade de exame pericial para a identificação das vozes captadas pela interceptação telefônica, quando ausente dúvida razoável - Absolvições de Caio, Éder e Marcelo mantidas - Vínculo de estabilidade e permanência não configurado Absolvição do acusado José Francisco Incidência do princípio in dubio pro reo - Dosimetria - Primeira fase - Pena-base de todos os sentenciados fixada acima do mínimo legal - Número de integrantes da organização criminosa - Grau de complexidade e estruturação da organização - Valor das cargas alvos dos roubos - Presente ainda maus antecedentes para os réus Anderson, Jones, Diego, Flávio e Cristian - Segunda fase - Verificada a agravante genérica da reincidência para os acusados Edilclei, Jones e Flávio - Afastada a incidência da agravante da reincidência para o réu Diego - Processo já considerado para caracterização da maus antecedentes - Impossibilidade de incidência do prazo para a conclusão da instrução processual como atenuante inominada - Incidência da agravante prevista no art. 2º, § 3º, da Lei nº 12.850/13 em relação ao acusado Fábio - Terceira fase - Presente a majorante constante no art. 2º, § 2º, da Lei nº 12.850/13 (emprego de arma de fogo) - Prescindível a apreensão e perícia da arma de fogo usada no crime, admitindo-se a comprovação da majorante por outros meios de prova - Impossibilidade de reconhecimento da participação de menor importância para Bruna e Fabiana - Funções das acusadas imprescindíveis para a manutenção da organização e concretização dos crimes perpetrados - Fixação do dia-multa no valor de um salário mínimo para o réu Fábio - Existência de renda lícita que pode coexistir com obtenção de ganhos de forma ilícita, considerando-se o elevado valor econômico das cargas roubadas e os ganhos auferidos - Regime semiaberto mantido para Fabiana, Marcel, Bruna e Lucas - Regime fechado mantido para Fábio, Edilclei, Anderson, Jones, Diego, Flávio e Cristian - Quantum de pena fixada, maus antecedentes e reincidência - Posição de Fábio como líder da organização - Impossibilidade de detração do tempo de prisão provisória - Requisitos objetivo e subjetivo a serem aferidos no juízo da execução - Réu que respondeu preso ao processo - Manutenção dos motivos ensejadores da decretação da prisão cautelar - Ausentes os requisitos legais, inviável a substituição das penas privativas de liberdade por restritivas de direitos - Recursos dos réus Fábio, Flávio, Anderson, Jones, Cristian, Bruna, Edilclei, Marcel, Fabiana, Lucas e Ministério Público improvidos - Recurso do réu Diego parcialmente provido - Recurso do réu José Francisco provido.” (eDOC 2.230, p. 3-4)
+
+    Rejeitaram-se os embargos de declaração opostos pelos ora interessados (eDOC 2.263, p. 1-8).
+
+    Daí o recurso extraordinário (eDOC 2.246, p. 1-53) com alegação de ofensa aos artigos 5º, incisos XI, XII, XXXVI, XXXIX, XLVI e LIII; 93, inciso IX; e 129, inciso I, da Constituição Federal. Demonstrou-se a repercussão geral das questões constitucionais levantadas.
+
+    O ora recorrente também interpôs recurso especial (eDOC 2.247, p. 1-57).
+
+    O Presidente da Seção de Direito Criminal do TJ/SP negou seguimento/não admitiu o recurso especial (eDOC 2.313, p. 1-4) e, no juízo de admissibilidade do RE, proferiu decisão (eDOC 2.317, p. 1-4), de cujo dispositivo transcrevo:
+
+    “Ante o exposto, NEGO SEGUIMENTO ao recurso extraordinário no que concerne aos Temas nºs 182, 339 e 661, todos do Supremo Tribunal Federal, nos termos do artigo 1.030, I, ‘a’, 1ª e 2ª figuras, do Código de Processo Civil e artigo 638 do Código de Processo Penal e, no mais, não preenchidos os requisitos exigidos, NÃO O ADMITO, com base no artigo 1.030, inciso V, do Diploma Processual Civil.” (eDOC 2.317, p. 4; grifos originais).
+
+    Houve, então, a interposição do presente agravo em recurso extraordinário (eDOC 2.322, p. 1-56), do agravo em recurso especial (eDOC 2.324, p. 1-59), bem como do agravo interno (eDOC 2.326, p. 1-59).
+
+    A Câmara Especial de Presidentes do Tribunal de Justiça do Estado de São Paulo negou provimento ao agravo interno (eDOC 2.413, p. 1-8).
+
+    No STJ, procedeu-se ao julgamento do AREsp 2.702.199/SP (eDOC 2.436, p. 1-5), bem como do sucessivo agravo regimental interposto pelo ora recorrente (eDOC 2.454, p. 1-9). Após, certificou-se o trânsito em julgado no âmbito daquela Corte (eDOC 2.460, p. 1).
+
+    Registre-se que o presente feito foi a mim distribuído por prevenção ao HC 162.182/SP (certidão; eDOC 2.462, p. 1-2).
+
+    É o relatório.
+
+    Decido.
+
+    De imediato, consigno que, em relação aos Temas 182, 339 e 661/STF da sistemática da repercussão geral da questão constitucional, a decisão ora agravada (eDOC 2.317, p. 1-4) deve ser mantida, porque incidente, no caso, o art. 1.030, inciso I, alínea “a”, do CPC. Nesse sentido: ARE 1.523.182 AgR/RS, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe 23.1.2025; ARE 1.514.962/SP, por mim relatado, DJe 3.10.2024; ARE 1.427.270 AgR/RO, por mim relatado, Segunda Turma, DJe 18.12.2023; ARE 1.247.231 AgR/PR, por mim relatado, Segunda Turma, DJe 19.12.2022; ARE 1.430.477 ED-AgR/SC, por mim relatado, Segunda Turma, DJe 6.7.2023; dentre outros.
+
+    Além disso, frise-se que, para divergir do entendimento firmado pelo Tribunal de origem, seria necessário o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Dessa forma, incide, no RE em exame, o óbice da Súmula 279 do Supremo Tribunal Federal.
+
+    Nesse sentido é a jurisprudência desta Suprema Corte: ARE 1.523.968 AgR/SC, Rel. Min. Luís Roberto Barroso (Presidente), Plenário, DJe 15.1.2025; ARE 1.438.204 AgR/SP, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe 25.7.2023; ARE 1.433.874 AgR-Segundo/MG, Rel. Min. Luís Roberto Barroso, Plenário, DJe 2.8.2023; ARE 1.475.676 AgR/RJ, Rel. Min. Cristiano Zanin, Primeira Turma, DJe 24.4.2024; ARE 1.523.208 AgR/RJ, por mim relatado, Segunda Turma, DJe 19.12.2024; dentre outros.
+
+    Outrossim, a ofensa à Constituição, se existente, seria reflexa ou indireta, de índole infraconstitucional, o que inviabiliza o processamento do recurso em apreço, consoante iterativa jurisprudência desta Corte: ARE 1.524.430 AgR/RS, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe 23.1.2025; ARE 1.436.869 AgR/SP, Rel. Min. Rosa Weber (Presidente), Plenário, DJe 25.7.2023; ARE 1.462.494 AgR/MA, Rel. Min. Luís Roberto Barroso (Presidente), Plenário, DJe 9.1.2024; ARE 1.430.477 ED-AgR/SC, por mim relatado, Segunda Turma, DJe 6.7.2023; dentre outros.
+
+    Ante o exposto, nego seguimento ao presente ARE, com fundamento no art. 21, § 1º, do RI/STF.
+
+    Publique-se.
+
+    Brasília, 16 de dezembro de 2025.
+
+Ministro GILMAR MENDES
+
+Relator
+
+Documento assinado digitalmente
