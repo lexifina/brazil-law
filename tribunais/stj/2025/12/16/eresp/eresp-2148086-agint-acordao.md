@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em Sessão Virtual de 10/12/2025 a 16/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Gurgel de Faria, Paulo Sérgio Domingues, Teodoro Silva Santos, Afrânio Vilela, Francisco Falcão, Maria Thereza de Assis Moura e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Regina Helena Costa.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO QUE RATIFICOU A CONCLUSÃO ACERCA DO DESCABIMENTO DO APELO ESPECIAL PARA FINS DE ANÁLISE DE NORMA INFRALEGAL. AUSÊNCIA DE EXAME DO MÉRITO RECURSAL. INCIDÊNCIA DA SÚMULA 315/STJ. EMBARGOS INDEFERIDOS LIMINARMENTE. MANUTENÇÃO DA DECISÃO AGRAVADA. HONORÁRIOS RECURSAIS. CABIMENTO. AGRAVO DESPROVIDO, COM MAJORAÇÃO DE HONORÁRIOS.
+1. O acórdão embargado concluiu pela impossibilidade de exame da controvérsia na via especial, por não ser o meio adequado para a análise de afronta a resoluções, portarias, instruções normativas ou decretos regulamentares, já que tais atos normativos não estão abrangidos pela expressão "lei federal" de que trata o art. 105, III, a, da Constituição Federal. Tal situação impede, por si só, o conhecimento dos embargos de divergência, pois não se admite a sua oposição na hipótese de não ter sido analisado o mérito do recurso especial, nos termos do que dispõe a Súmula 315 desta Corte Superior.
+2. A jurisprudência d esta Casa é pacífica no sentido de que, com a oposição dos embargos de divergência, inicia-se novo grau recursal, sujeitando-se o embargante à majoração dos honorários sucumbenciais, na forma do art. 85, § 11, do CPC/2015, quando indeferidos liminarmente, não conhecidos ou desprovidos.
+3. Quando devida a verba honorária recursal, mas, por omissão, o relator deixar de aplicá-la em decisão monocrática, poderá o colegiado, ao não conhecer ou desprover o respectivo agravo interno, arbitrá-la.
+4. Agravo interno desprovido, com majoração de honorários.
+RELATÓRIO
+Trata-se de agravo interno interposto por Universidade Federal de Santa Catarina contra decisão desta relatoria que indeferiu liminarmente os embargos de divergência, nos termos da seguinte ementa (e-STJ, fl. 608):
+EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ACÓRDÃO EMBARGADO CUE RATIFICOU A CONCLUSÃO ACERCA DO DESCABIMENTO DO APELO ESPECIAL PARA FINS DE ANÁLISE DE NORMA INFRALEGAL. AUSÊNCIA DE EXAME DO MÉRITO RECURSAL. INCIDÊNCIA DA SÚMULA 315/STJ. EMBARGOS INDEFERIDOS LIMINARMENTE.
+Em suas razões, a agravante afirma que há "evidente divergência na aplicação do direito processual entre a Primeira Turma e a Segunda Turma do STJ, uma vez que aquela Turma não analisou o mérito da controvérsia em tela por ter compreendido se tratar de discussão envolvendo a violação de normas de caráter constitucional e de caráter infralegal, enquanto esta considerou que houve violação direta à legislação federal " (e-STJ, fl. 617).
+Pleiteia, ao final, a reforma da decisão agravada.
+Impugnação às fls. 622-663 (e-STJ), por meio da qual foi requerida a majoração dos honorários recursais.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO QUE RATIFICOU A CONCLUSÃO ACERCA DO DESCABIMENTO DO APELO ESPECIAL PARA FINS DE ANÁLISE DE NORMA INFRALEGAL. AUSÊNCIA DE EXAME DO MÉRITO RECURSAL. INCIDÊNCIA DA SÚMULA 315/STJ. EMBARGOS INDEFERIDOS LIMINARMENTE. MANUTENÇÃO DA DECISÃO AGRAVADA. HONORÁRIOS RECURSAIS. CABIMENTO. AGRAVO DESPROVIDO, COM MAJORAÇÃO DE HONORÁRIOS.
+1. O acórdão embargado concluiu pela impossibilidade de exame da controvérsia na via especial, por não ser o meio adequado para a análise de afronta a resoluções, portarias, instruções normativas ou decretos regulamentares, já que tais atos normativos não estão abrangidos pela expressão "lei federal" de que trata o art. 105, III, a, da Constituição Federal. Tal situação impede, por si só, o conhecimento dos embargos de divergência, pois não se admite a sua oposição na hipótese de não ter sido analisado o mérito do recurso especial, nos termos do que dispõe a Súmula 315 desta Corte Superior.
+2. A jurisprudência d esta Casa é pacífica no sentido de que, com a oposição dos embargos de divergência, inicia-se novo grau recursal, sujeitando-se o embargante à majoração dos honorários sucumbenciais, na forma do art. 85, § 11, do CPC/2015, quando indeferidos liminarmente, não conhecidos ou desprovidos.
+3. Quando devida a verba honorária recursal, mas, por omissão, o relator deixar de aplicá-la em decisão monocrática, poderá o colegiado, ao não conhecer ou desprover o respectivo agravo interno, arbitrá-la.
+4. Agravo interno desprovido, com majoração de honorários.
+VOTO
+O inconformismo não merece prosperar.
+Conforme consignado na decisão agravada, nota-se que o acórdão embargado concluiu pela impossibilidade de exame da controvérsia na via especial, por não ser o meio adequado para a análise de afronta a resoluções, portarias, instruções normativas ou decretos regulamentares, já que tais atos normativos não estão abrangidos pela expressão "lei federal" de que trata o art. 105, III, a, da Constituição Federal.
+Tal situação impede, por si só, o conhecimento dos embargos de divergência, pois não se admite a sua oposição na hipótese de não ter sido analisado o mérito do recurso especial, nos termos do que dispõe a Súmula 315 desta Corte Superior.
+A propósito:
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. OBRIGAÇÃO DE FAZER. AUXÍLIO-DOENÇA ACIDENTÁRIO. DOENÇA OCUPACIONAL. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. INCIDÊNCIA DOS ENUNCIADOS DAS SÚMULAS N. 7 E 315/STJ. IMPOSSIBILIDADE DE CONHECIMENTO DA IMPUGNAÇÃO. AUSÊNCIA DE ALTERAÇÃO DA COMPOSIÇÃO DO ÓRGÃO FRACIONÁRIO NOS TERMOS DO ART. 1.043, § 3º, DO CPC DE 2015.
+ ..
+II - Mediante análise dos autos, verifica-se que o acórdão embargado concluiu pela impossibilidade de se analisar o mérito do recurso especial em razão da incidência, no ponto, da Súmula n. 7/STJ. Tal situação impede, por si só, o conhecimento desta via de impugnação, pois não se admite a interposição de embargos de divergência na hipótese de não ter sido analisado o mérito do recurso especial, a teor da Súmula n. 315 desta Corte Superior: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial". Neste sentido: AgInt nos EDcl nos EDv nos EREsp 1.615.774/MG, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, DJe de 28/8/2020; EDcl no AgInt nos EAREsp 1.315.422/RS, relator Ministro Herman Benjamin, Corte Especial, DJe de 12/11/2020; AgInt nos EREsp 1.768.953/SP, relator Ministro Francisco Falcão, Corte Especial, DJe de 10/9/2020; AgInt nos EAREsp 682.226/PR, relator Ministro Marco Aurélio Bellizze, Segunda Seção, DJe de 8/5/2020.
+ ..
+VI - Agravo interno improvido.
+(AgInt nos EAREsp n. 1.985.157/RJ, relator Ministro Francisco Falcão, Primeira Seção, julgado em 16/5/2023, DJe de 19/5/2023.)
+Quanto ao pedido apresentado pelos ora agravados, de rigor o seu acolhimento para majorar os honorários de sucumbência.
+Com efeito, cabe registrar que a jurisprudência desta Casa é pacífica no sentido de que, com a oposição dos embargos de divergência, inicia-se novo grau recursal, sujeitando-se o embargante à majoração dos honorários sucumbenciais, na forma do art. 85, § 11, do CPC/2015, quando indeferidos liminarmente, não conhecidos ou desprovidos.
+Veja-se:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INDEFERIMENTO LIMINAR DOS EMBARGOS. MAJORAÇÃO DOS HONORÁRIOS.
+1. A Corte Especial do STJ firmou posicionamento no sentido de que, com a interposição de embargos de divergência tem início novo grau recursal, sujeitando-se o embargante, ao questionar decisão publicada na vigência do CPC/2015, à majoração dos honorários sucumbenciais, na forma do § 11 do art. 85, quando indeferidos liminarmente, não conhecidos ou improvidos. Precedentes.
+2. Embargos de declaração rejeitados.
+(EDcl no AgInt nos EAREsp n. 2.142.431/RJ, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 29/11/2023, DJe de 4/12/2023.)
+Vale registrar, ao ensejo, que, quando devida a verba honorária recursal, mas, por omissão, o relator deixar de aplicá-la em decisão monocrática, poderá o colegiado, ao não conhecer ou desprover o respectivo agravo interno, arbitrá-la.
+Suprindo, pois, a omissão a esse respeito verificada na deliberação unipessoal de fls. 608-610 (e-STJ), majoro em 2% (dois por cento) o valor fixado pelas instâncias ordinárias para a verba honorária, observados os limites percentuais previstos no art. 85, §§ 2º e 3º, do CPC/2015.
+Ante o exposto, nego provimento ao agravo interno e, nos termos do art. 85, § 11, do CPC/2015, majoro em 2% (dois por cento) o valor fixado pelas instâncias ordinárias para os honorários de sucumbência devidos pelo sucumbente, observados, quando aplicáveis, os limites percentuais estabelecidos em seus §§ 2º e 3º.
+É como voto.
