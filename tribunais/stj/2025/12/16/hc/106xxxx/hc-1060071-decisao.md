@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de GABRIEL CAIRO VELASCO, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTA DO DE MATO GROSSO DO SUL, em decorrência do julgamento do habeas corpus n. 1407333-37.2025.8.12.0000.
+Consta nos autos que o paciente foi condenado pelo Tribunal do Júri da Comarca de Corumbá/MS à pena de 12 (doze) anos de reclusão, em regime inicialmente fechado, por infração ao artigo 121, § 2º, inciso I, do Código Penal.
+A defesa impetrou habeas corpus no Tribunal de Justiça do Estado de Mato Grosso do Sul, que denegou a ordem, por unanimidade, em 22/07/2025.
+Na presente impetração, busca-se a concessão da ordem para: (i) suspender os efeitos do mandado de prisão, com expedição de alvará de soltura ou não efetivação da prisão, assegurando o direito de recorrer em liberdade; e (ii) subsidiariamente, reconhecer a ausência de dolo e o decote da qualificadora, ou determinar a intimação acerca da sentença, com expedição de contramandado de prisão.
+É  o  relatório. DECIDO.
+A controvérsia cinge-se às teses da defesa de absolvição/reforma da dosimetria e de não cabimento da segregação cautelar, ante a ausência dos requisitos exigidos pelo Código de Processo Penal. Pugna, assim, pela cassação da determinação de execução antecipada da pena ou pela modificação da condenação.
+As teses da defesa de absolvição/reforma da dosimetria não foram tratadas em um acórdão pela origem, o que impende reconhecer a indevida supressão de instância.
+No mais, como visto, o paciente foi condenado pelo Tribunal do Júri pela prática de delito doloso contra a vida com autorização de imediata execução do julgado.
+Em tais casos, a Constituição Federal conferiu às decisões proferidas pelo Tribunal do Júri a nota de soberania dos seus veredictos.
+Assim, sobrevindo condenação, é viável a imediata execução, especialmente quando a possibilidade de sua revisão, comparativamente à decisão proferida por juiz togado, foi propositadamente restringida pelo constituinte e pelo legislador ordinário.
+No julgamento do RE n. 1.235.340/SC (Tema n. 1.068 da Repercussão Geral), finalizado em 12/9/2024, o Supremo Tribunal Federal deu interpretação conforme à Constituição ao art. 492 do CPP, excluindo o limite mínimo de 15 anos para a execução da condenação imposta pelo Tribunal do Júri, firmando a tese de que a soberania dos veredictos autoriza a imediata execução da pena, independentemente do total da pena aplicada.
+E este o entendimento assente nesta Corte Superior:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO. HOMICÍDIO QUALIFICADO. PACIENTE CONDENADO PELO TRIBUNAL DO JÚRI. EXECUÇÃO PROVISÓRIA DA SENTENÇA CONDENATÓRIA (ART. 492, I, e DO CPP). POSSIBILIDADE. NOVO ENTENDIMENTO DO SUPREMO TRIBUNAL FEDERAL. TEMA 1.068 DA REPERCUSSÃO GERAL JULGADO PELA SUPREMA CORTE. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. LIMINAR REVOGADA. HABEAS CORPUS NÃO CONHECIDO.
+ ..  2. Caso em que o magistrado Presidente do Tribunal do Júri, ao proferir a sentença, determinou a prisão do réu com base na regra prevista no art. 492, I, e, do Código de Processo Penal, que estabelece a execução provisória das sentenças do Tribunal do Júri. Ausência de constrangimento ilegal.
+3. O plenário do Supremo Tribunal, por maioria de votos, apreciando o tema 1.068 da repercussão geral, "deu interpretação conforme à Constituição, com redução de texto, ao art. 492 do CPP, com a redação da Lei nº 13.964/2019, excluindo do inciso I da alínea "e" do referido artigo o limite mínimo de 15 anos para a execução da condenação imposta pelo corpo de jurados" e fixou a seguinte tese: "A soberania dos veredictos do Tribunal do Júri autoriza a imediata execução de condenação imposta pelo corpo de jurados, independentemente do total da pena aplicada".
+4. Habeas corpus não conhecido. Liminar revogada (HC n. 913.224/ES, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 15/10/2024, DJe de 22/10/2024.)
+Ademais, eventuais incursões acerca da possibilidade de que a condenação proferida pelo Tribunal do Júri possa ser reformada, ou até cassada, em grau de recurso, demandam o reexame aprofundado de provas, incompatível com a presente via.
+Portanto, não vislumbro a presença de coação ilegal que desafie a concessão da ordem de ofício, em observância § 2º do artigo 654 do Código de Processo Penal.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
