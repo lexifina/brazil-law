@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por HUGO MARTINS RODRIGUES contra a decisão que inadmitiu o recurso especial com base na Súmula n. 7 do STJ quanto à alegada violação do art. 833, X, do Código de Processo Civil.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Contraminuta às fls. 723-728.
+O recurso especial foi interposto com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios em agravo de instrumento nos autos de execução de título extrajudicial (fls. 636-644).
+O julgado foi assim ementado (fl. 636):
+AGRAVO DE INSTRUMENTO. DIREITO PROCESSUAL CIVIL. PENHORA. SALDO EM CONTA CORRENTE INFERIOR A 40 SALÁRIOS MÍNIMOS. ÔNUS DA PROVA DO EXECUTADO. DESEMPENHO INSUFICIENTE. 1. Dispõe o art. 833, inciso IV, do Código de Processo Civil que são impenhoráveis "os vencimentos, os subsídios, os soldos, os salários, as remunerações, os proventos de aposentadoria, as pensões, os pecúlios e os montepios, bem como as quantias recebidas por liberalidade de terceiro e destinadas ao sustento do devedor e de sua família, os ganhos de trabalhador autônomo e os honorários de profissional liberal". Já o inciso X do mesmo dispositivo prevê que "são impenhoráveis "a quantia depositada em caderneta de poupança, até o limite de 40 (quarenta) salários-mínimos l". 2. Cabe ao executado fazer prova da impenhorabilidade dos valores bloqueados (art. 854, §3º, I, do CPC), ônus do qual a agravante não se desincumbiu; 3. Recurso conhecido e desprovido."
+Não foram opostos embargos de declaração.
+No recurso especial, a parte aponta violação dos seguintes artigos:
+a) 833, X, do Código de Processo Civil, porque o acórdão reconheceu a penhora de valores inferiores a 40 salários mínimos em conta bancária, quando tais quantias deveriam ser acobertadas pela impenhorabilidade, independentemente de estarem em conta-poupança, conta-corrente, fundos de investimento ou papel moeda, e sem presumir que a constrição preservou o mínimo existencial do devedor;
+b) 854, § 3º, I, do Código de Processo Civil, pois o acórdão atribuiu ao executado o ônus de demonstrar a impenhorabilidade, porquanto, no caso de curadoria especial, a prova deveria recair sobre quem detém melhores condições de produzi-la e a constrição deveria ser calibrada para resguardar a dignidade do devedor.
+Requer o provimento do recurso para que se declare a impenhorabilidade dos valores bloqueados com a restituição ao devedor. Requer ainda o provimento do recurso para que se minore o valor constrito, de modo que se evitem prejuízos à sua subsistência.
+Contrarrazões às fls. 685-690.
+É o relatório. Decido.
+O recurso especial possui como objeto questão submetida a julgamento afetado à sistemática dos recursos repetitivos, a saber: "I) Definir se é ou não impenhorável a quantia de até quarenta salários mínimos poupada, seja ela mantida em papel-moeda; em conta corrente; aplicada em caderneta de poupança propriamente dita ou em fundo de investimentos" (REsp n. 2.015.693/PR).
+Dessa forma, para que seja observada a sistemática prevista nos arts. 1.040 e 1.041 do CPC, impõe-se a devolução dos autos ao Tribunal de origem, conforme dispõe o art. 256-L do RISTJ:
+Art. 256-L. Publicada a decisão de afetação, os demais recursos especiais em tramitação no STJ fundados em idêntica questão de direito:
+I - se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator;
+II - se ainda não distribuídos, serão devolvidos ao Tribunal de origem por decisão fundamentada do Presidente do STJ.
+Registre-se que, segundo a orientação jurisprudencial do STJ, o ato judicial que determina o sobrestamento e o retorno dos autos à corte de origem a fim de que seja exercido o competente juízo de retratação/conformação (arts. 1.040 e 1.041 do CPC) não tem carga decisória, por isso é provimento irrecorrível.
+Nesse sentido: AgInt no REsp n. 1.140.843/PR, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 23/10/2018, DJe de 30/10/2018; AgInt nos EDcl nos EREsp n. 1.126.385/MG, relator Ministro Og Fernandes, Primeira Seção, julgado em 13/9/2017, DJe de 20/9/2017; AgInt no REsp n. 1.663.877/SE, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/8/2017, DJe de 4/9/2017; e AgInt no REsp n. 1.661.811/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 26/6/2018, DJe de 29/6/2018.
+Ante o exposto, determino a restituição dos autos ao Tribunal de origem a fim de que fiquem sobrestados até o julgamento definitivo da matéria submetida à sistemática dos recursos repetitivos (Tema n. 1.285) e eventual retratação prevista nos arts. 1.040, II, e 1.041 do CPC.
+Publique-se. Intimem-se.
+EMENTA
