@@ -1,0 +1,70 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/12/2025 a 16/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO PRIVADO. AGRAVO EM RECURSO ESPECIAL. CONVERSÃO DA AÇÃO DE BUSCA E APREENSÃO EM PERDAS E DANOS E INCIDÊNCIA DA SÚMULA N. 7 DO STJ. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo em recurso especial contra decisão do Tribunal de Justiça do Estado de Goiás que inadmitiu o recurso especial com base na Súmula n. 7 do STJ para a discussão sobre a conversão em perdas e danos e para obstar o dissídio pela alínea c.
+2. A controvérsia diz respeito a ação de busca e apreensão em alienação fiduciária. O valor da causa foi fixado em R$ 39.521,49.
+3. A sentença julgou converter a ação em perdas e danos, determinar restituição pecuniária pelo valor de mercado (Tabela FIPE), deduzir os valores da purgação da mora, condenar ao pagamento de danos morais e aplicar a multa de 50% do art. 3º, § 6º, do Decreto-Lei n. 911/1969.
+4. A Corte de origem manteve a decisão, reconhecendo alienação precipitada do veículo e a correção da conversão em perdas e danos.
+II. QUESTÃO EM DISCUSSÃO
+5. Há três questões em discussão: (i) saber se a purga da mora demanda quitação integral do débito no prazo de cinco dias após a execução da liminar, com consolidação da propriedade; (ii) saber se é cabível afastar a conversão em perdas e danos por impossibilidade de purga com pagamento parcial; e (iii) saber se há divergência jurisprudencial apta ao conhecimento pela alínea c.
+III. RAZÕES DE DECIDIR
+6. A modificação das premissas fáticas fixadas pelo acórdão recorrido quanto à quitação de parcelas em atraso, revogação da liminar e alienação precipitada demandaria reexame de provas, o que é vedado pelo enunciado da Súmula n. 7 do STJ.
+7. A incidência da Súmula n. 7 do STJ para obstar o conhecimento pela alínea a impede, por consequência, o conhecimento do dissídio jurisprudencial pela alínea c sobre a mesma matéria, conforme precedentes da Corte.
+IV. DISPOSITIVO E TESE
+8. Agravo em recurso especial desprovido.
+Tese de julgamento: "1. Incide a Súmula n. 7 do STJ para vedar o reexame do conjunto fático-probatório atinente à purga da mora, à revogação da liminar e à alienação precipitada, mantendo-se a conversão da ação de busca e apreensão em perdas e danos. 2. A incidência da Súmula n. 7 do STJ na interposição pela alínea a obsta o conhecimento do dissídio jurisprudencial pela alínea c na mesma questão."
+Dispositivos relevantes citados: Decreto-Lei n. 911/1969, art. 3º, §§ 1º, 2º, § 6º; CF, art. 105, III, a, c; CPC, art. 85, § 11.
+Jurisprudência relevante citada: STJ, Súmula n. 7; STJ, AgInt no AREsp n. 1.898.375/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 30/6/2022; STJ, AgInt no AREsp n. 1.866.385/DF, relator Ministro Francisco Falcão, Segunda Turma, julgado em 18/5/2022; STJ, AgInt no AREsp n. 1.611.756/GO, relator Ministro Raul Araújo, Quarta Turma, julgado em 1/9/2022; STJ, AgInt no AREsp n. 1.724.656/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 24/8/2022; STJ, AgInt no REsp n. 1.503.880/PE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 8/3/2018.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por BANCO ITAUCARD S.A. contra a decisão que inadmitiu o recurso especial, pelos óbices da Súmula n. 7 do STJ quanto à discussão do descabimento da conversão da ação de busca e apreensão em perdas e danos, e pela incidência da mesma Súmula n. 7 do STJ para obstar o conhecimento do dissídio jurisprudencial pela alínea c.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Contraminuta às fls. 363-368.
+O recurso especial foi interposto, com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Goiás em agravo interno em apelação cível, nos autos de ação de busca e apreensão em alienação fiduciária.
+O julgado foi assim ementado (fl. 275):
+EMENTA: AGRAVO INTERNO EM APELAÇÃO CÍVEL. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO PRECIPITADA DO VEÍCULO. ACERTADA CONVERSÃO DE DEMANDA EM AÇÃO DE EXECUÇÃO. DANOS MORAIS. CABIMENTO. I - É fato que procedeu ele alienação precipitada do veículo, antes mesmo da prolação da sentença ora em apreciação, como se vê em petição anexada pelo próprio agravante na mov. 36. Nestes termos, toda a consequência processual (conversão da ação de busca e apreensão em perdas e danos e consequente condenação) foi acertada, pelo que não deve ser alterado o conteúdo decisório desfavorável ao recorrente. II - Considerando que a venda do veículo foi realizada em data posterior à sentença que extinguiu a ação de busca e apreensão e determinou a restituição do bem, correta a conversão em perdas e danos, devendo o credor fiduciário arcar com os prejuízos advindos de sua atitude. III - A repetição de argumentos já rechaçados, por si só, não enseja uma inovação temática capaz de provocar mudanças no cenário processual decisório, a não ser que esteja repleta de dados fáticos não percebidos na ocasião do julgamento anterior, o que não se vê nesta oportunidade. Os pontos centrais da insurgência do ora agravante foram devidamente analisados e, a despeito deles, repelidos na decisão ora sob impugnação interna. AGRAVO INTERNO CONHECIDO E DESPROVIDO.
+Os embargos de declaração opostos foram decididos nestes termos (fl. 311):
+EMENTA: EMBARGOS DE DECLARAÇÃO EM AGRAVO INTERNO EM APELAÇÃO CÍVEL. AÇÃO DE BUSCA E APREENSÃO. PURGAÇÃO DA MORA. ALIENAÇÃO PRECIPITADA DO VEÍCULO. CONVERSÃO EM PERDAS E DANOS. POSSIBILIDADE. I - A condutora do feito revogou a liminar de busca e apreensão antes concedida, ante comprovação de quitação das parcelas em atraso e objetos da demanda constritiva, assim se pronunciando (mov. 22). Na inicial da ação de busca de apreensão, o ora embargante apresenta como causa de pedir o atraso referente à parcela vencida em outubro de 2021. Na mov. 11, nota-se os comprovantes de quitação não só da referida parcela, mas as atinentes aos meses seguintes, no total de quatro (isso em 16/02/2022). Na mov. 36, o autor/embargante afirma ter alienado o veículo em 13/04/2022, após, portanto, à quitação das parcelas em atraso, dentre elas, aquela embasadora da ação. Houve alienação precipitada e indevida, então. Assim, não há que se cogitar omissão sobre esse ponto, devendo o aresto ser mantido em sua completude. II - Diante do pagamento da integralidade da dívida pelo devedor e a impossibilidade de restituição do veículo, em razão da precipitada alienação do bem, impõe-se a improcedência do pedido inicial e aplicação da multa prevista no artigo 3º, §6º, do CPC. 2. Nos termos da súmula 410 do STJ. EMBARGOS DE DECLARAÇÃO CONHECIDOS E REJEITADOS.
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação dos seguintes artigos:
+a) 3º, §§ 1º e 2º, do Decreto-Lei n. 911/1969, porque a purga da mora deveria ser compreendida como quitação integral do débito, e não mero pagamento das parcelas vencidas, e após o prazo de cinco dias da execução da liminar haveria consolidação da propriedade com o credor fiduciante;
+b) 3º, §§ 1º e 2º, do Decreto-Lei n. 911/1969, porquanto requereu reforma do acórdão para afastar a conversão em perdas e danos e reconhecer a impossibilidade de purga com pagamento parcial.
+Sustenta que o Tribunal de origem, ao decidir que houve alienação precipitada do veículo e correta conversão da demanda em perdas e danos, divergiu do entendimento desta Corte.
+Requer seja conhecido e provido o recurso especial para reformar o acórdão recorrido.
+Contrarrazões às fls. 334-341.
+É o relatório.
+EMENTA
+DIREITO PRIVADO. AGRAVO EM RECURSO ESPECIAL. CONVERSÃO DA AÇÃO DE BUSCA E APREENSÃO EM PERDAS E DANOS E INCIDÊNCIA DA SÚMULA N. 7 DO STJ. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo em recurso especial contra decisão do Tribunal de Justiça do Estado de Goiás que inadmitiu o recurso especial com base na Súmula n. 7 do STJ para a discussão sobre a conversão em perdas e danos e para obstar o dissídio pela alínea c.
+2. A controvérsia diz respeito a ação de busca e apreensão em alienação fiduciária. O valor da causa foi fixado em R$ 39.521,49.
+3. A sentença julgou converter a ação em perdas e danos, determinar restituição pecuniária pelo valor de mercado (Tabela FIPE), deduzir os valores da purgação da mora, condenar ao pagamento de danos morais e aplicar a multa de 50% do art. 3º, § 6º, do Decreto-Lei n. 911/1969.
+4. A Corte de origem manteve a decisão, reconhecendo alienação precipitada do veículo e a correção da conversão em perdas e danos.
+II. QUESTÃO EM DISCUSSÃO
+5. Há três questões em discussão: (i) saber se a purga da mora demanda quitação integral do débito no prazo de cinco dias após a execução da liminar, com consolidação da propriedade; (ii) saber se é cabível afastar a conversão em perdas e danos por impossibilidade de purga com pagamento parcial; e (iii) saber se há divergência jurisprudencial apta ao conhecimento pela alínea c.
+III. RAZÕES DE DECIDIR
+6. A modificação das premissas fáticas fixadas pelo acórdão recorrido quanto à quitação de parcelas em atraso, revogação da liminar e alienação precipitada demandaria reexame de provas, o que é vedado pelo enunciado da Súmula n. 7 do STJ.
+7. A incidência da Súmula n. 7 do STJ para obstar o conhecimento pela alínea a impede, por consequência, o conhecimento do dissídio jurisprudencial pela alínea c sobre a mesma matéria, conforme precedentes da Corte.
+IV. DISPOSITIVO E TESE
+8. Agravo em recurso especial desprovido.
+Tese de julgamento: "1. Incide a Súmula n. 7 do STJ para vedar o reexame do conjunto fático-probatório atinente à purga da mora, à revogação da liminar e à alienação precipitada, mantendo-se a conversão da ação de busca e apreensão em perdas e danos. 2. A incidência da Súmula n. 7 do STJ na interposição pela alínea a obsta o conhecimento do dissídio jurisprudencial pela alínea c na mesma questão."
+Dispositivos relevantes citados: Decreto-Lei n. 911/1969, art. 3º, §§ 1º, 2º, § 6º; CF, art. 105, III, a, c; CPC, art. 85, § 11.
+Jurisprudência relevante citada: STJ, Súmula n. 7; STJ, AgInt no AREsp n. 1.898.375/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 30/6/2022; STJ, AgInt no AREsp n. 1.866.385/DF, relator Ministro Francisco Falcão, Segunda Turma, julgado em 18/5/2022; STJ, AgInt no AREsp n. 1.611.756/GO, relator Ministro Raul Araújo, Quarta Turma, julgado em 1/9/2022; STJ, AgInt no AREsp n. 1.724.656/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 24/8/2022; STJ, AgInt no REsp n. 1.503.880/PE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 8/3/2018.
+VOTO
+I - Contextualização
+A controvérsia diz respeito a ação de busca e apreensão em alienação fiduciária em que a instituição financeira pleiteou a apreensão do veículo, a consolidação da propriedade e posse plena após o prazo legal, e, em caso de não purga da mora, a possibilidade de venda do bem livre de ônus, além de custas e honorários. O valor da causa foi fixado em R$ 39.521,49.
+Na sentença, o Juízo de primeiro grau converteu a ação em perdas e danos, determinou a restituição pecuniária pelo valor de mercado do veículo apurado pela Tabela FIPE, deduzidos os valores da purgação da mora, condenou ao pagamento de danos morais de R$ 4.000,00 e à multa de 50% sobre o valor do financiamento prevista no § 6º do art. 3º do Decreto-Lei n. 911/1969.
+A Corte de origem manteve a decisão monocrática proferida em sede de apelação que desproveu o primeiro apelo do banco, assentando que houve alienação precipitada do veículo e que era correta a conversão em perdas e danos.
+II - Arts. 3º, §§ 1º e 2º, do Decreto-Lei n. 911/1969
+No recurso especial, a parte recorrente alega que a purga da mora somente seria possível com o pagamento da integralidade da dívida no prazo de cinco dias após a execução da liminar, sob pena de consolidação da propriedade do bem e impossibilidade de restituição sem quitação total.
+O acórdão recorrido concluiu que, à data da distribuição, não havia parcelas em atraso, revogou a liminar de busca e apreensão e determinou a restituição do veículo; constatou-se, ademais, alienação precipitada do bem pelo credor fiduciário e a impossibilidade de devolução, razão pela qual foi correta a conversão em perdas e danos e a condenação correspondente.
+Rever tal entendimento demandaria o reexame do conjunto fático-probatório dos autos, o que é incabível em recurso especial, ante o óbice da Súmula n. 7 do STJ.
+III - Divergência jurisprudencial
+No tocante ao apontado dissídio, ressalto que a incidência da Súmula n. 7 do STJ quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Nesse sentido: AgInt no AREsp n. 1.898.375/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 30/6/2022; AgInt no AREsp n. 1.866.385/DF, relator Ministro Francisco Falcão, Segunda Turma, DJe de 18/5/2022; AgInt no AREsp n. 1.611.756/GO, relator Ministro Raul Araújo, Quarta Turma, DJe de 1/9/2022; AgInt no AREsp n. 1.724.656/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 24/8/2022; e AgInt no REsp n. 1.503.880/PE, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 8/3/2018.
+IV - Conclusão
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+É o voto.
