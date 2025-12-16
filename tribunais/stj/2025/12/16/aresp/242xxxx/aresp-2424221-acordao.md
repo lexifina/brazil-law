@@ -1,0 +1,79 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/12/2025 a 16/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Marco Buzzi, João Otávio de Noronha, Raul Araújo e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS. AUSÊNCIA DE REPASSE DE VALORES. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284/STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7/STJ. QUESTÕES DE ORDEM PÚBLICA PODEM SER CONHECIDAS EM QUALQUER TEMPO E GRAU DE JURISDIÇÃO ORDINÁRIA. INOCORRÊNCIA DE JULGAMENTO ULTRA PETITA. PRECEDENTES. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo interposto contra decisão que inadmitiu recurso especial na origem.
+II. Razões de decidir
+2. Inexiste afronta dos arts. 489, § 1º, IV, e 1.022, III, do CPC quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+3. A deficiência na fundamentação do recurso, de modo a impedir a compreensão da alegada ofensa ao dispositivo legal invocado, obsta o conhecimento do recurso especial (Súmula n. 284/STF).
+4. O recurso especial não comporta exame de questões que impliquem revolvimento de elementos fático-probatórios dos autos (Súmula n. 7/STJ).
+5."A jurisprudência do Superior Tribunal de Justiça é no sentido de que, enquanto não decididas, as questões de ordem pública, como a aplicação de correção monetária e de juros moratórios, podem ser conhecidas, inclusive de ofício, em qualquer tempo e grau de jurisdição ordinária, pois não sujeitas à preclusão temporal" (AgInt no REsp n. 1.993.419/AC, relator Ministro Raul Araújo, Quarta Turma, julgado em 10/10/2022, DJe de 21/10/2022).
+6. Inadmissível o conhecimento do recurso quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ.
+III. Dispositivo
+7. Agravo em recurso especial desprovido.
+RELATÓRIO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial pelos seguintes fundamentos: (a) inexistência de negativa de prestação jurisdicional, e (b) incidência da Súmula n. 7/STJ (fls. 335-337).
+O acórdão recorrido encontra-se assim ementado (fl. 262):
+MANDATO. Prestação de serviços advocatícios. Hipótese em que o patrono entabulou acordo e não repassou ao cliente os valores levantados em ação trabalhista. Litispendência que não ocorre entre procedimento administrativo disciplinar junto à OAB e demanda judicial, com pedidos distintos inclusive. Valor da causa que não precisa ser exato quando não se tem referência objetiva imediatamente aferível, pena de se chancelar verdadeiro óbice ao acesso à justiça. Estimativa do autor que não se mostra irrisória nem exorbitante, e deve prevalecer. Controle judicial das hipóteses de difícil aferição, especialmente quando as balizas moduladoras só se descortinam a posteriori. Preliminares afastadas.
+MANDATO. Prestação de serviços advocatícios. Hipótese em que o patrono entabulou acordo e não repassou ao cliente os valores levantados em ação trabalhista. Prescrição que flui a partir da ciência inequívoca da violação do direito. Princípio da actio nata. Prazo decenal. Precedentes da Corte. Réu que não comprovou a prestação de contas, nem tampouco o repasse dos valores levantados, ônus que lhe cabia e do qual não se desincumbiu. Justificativa genérica que não lhe socorre. Vedação à prova negativa. Patrono a quem cabe atuação com toda a diligência advinda do mandato, inclusive com a prestação de contas. Apropriação indevida verificada, com possíveis reflexos administrativos. Dano moral in re ipsa configurado. Desnecessidade de prova. Orientação desta Câmara. Autor que foi privado de valores alimentares por ato doloso daquele que deveria ser o primeiro a tutelar os seus direitos. Liquidação em R$ 10.000,00. Correção monetária a partir de quando o quantum reparador foi primeiramente definido. Súm. 362 do STJ. Mera adequação numérica do decreto condenatório nesta instância. Recurso do autor provido, desprovido o do réu.
+Os embargos de declaração foram rejeitados (fls. 281-283).
+Nas razões do recurso especial (fls. 299-322), interposto com fundamento no art. 105, III, "a", da CF, a parte recorrente alegou violação dos seguintes dispositivos legais:
+(i) arts. 489, § 1º, IV, e 1.022, III, do CPC, sustentando negativa de prestação jurisdicional,
+(ii) arts. 25-A da Lei. n. 8.906/1994, 202, I, parágrafo único, e 205 do CC, alegando a prescrição do direito da parte contrária,
+(iii) arts. 369, 371 e 373, I, do CPC, afirmando que a parte contrária não se desincumbiu do ônus comprobatório dos fatos constitutivos do direito discutido,
+(iv) arts. 141 e 492 do CPC, defendendo a ocorrência de julgamento ultra petita,
+(v) arts. 186, 927 e 944 do CC,  em relação ao descabimento da condenação ao pagamento de danos morais e sua posterior majoração, mormente por não haver demonstração probatória de ato ilícito ou da extensão do dano.
+No agravo (fls. 340-362), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (fls. 366-371).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS. AUSÊNCIA DE REPASSE DE VALORES. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284/STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7/STJ. QUESTÕES DE ORDEM PÚBLICA PODEM SER CONHECIDAS EM QUALQUER TEMPO E GRAU DE JURISDIÇÃO ORDINÁRIA. INOCORRÊNCIA DE JULGAMENTO ULTRA PETITA. PRECEDENTES. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo interposto contra decisão que inadmitiu recurso especial na origem.
+II. Razões de decidir
+2. Inexiste afronta dos arts. 489, § 1º, IV, e 1.022, III, do CPC quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+3. A deficiência na fundamentação do recurso, de modo a impedir a compreensão da alegada ofensa ao dispositivo legal invocado, obsta o conhecimento do recurso especial (Súmula n. 284/STF).
+4. O recurso especial não comporta exame de questões que impliquem revolvimento de elementos fático-probatórios dos autos (Súmula n. 7/STJ).
+5."A jurisprudência do Superior Tribunal de Justiça é no sentido de que, enquanto não decididas, as questões de ordem pública, como a aplicação de correção monetária e de juros moratórios, podem ser conhecidas, inclusive de ofício, em qualquer tempo e grau de jurisdição ordinária, pois não sujeitas à preclusão temporal" (AgInt no REsp n. 1.993.419/AC, relator Ministro Raul Araújo, Quarta Turma, julgado em 10/10/2022, DJe de 21/10/2022).
+6. Inadmissível o conhecimento do recurso quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ.
+III. Dispositivo
+7. Agravo em recurso especial desprovido.
+VOTO
+A Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo. Desse modo, não há falar em negativa de prestação jurisdicional, vício de fundamentação ou violação dos arts. 489, §1º, IV, e 1.022, III, do CPC.
+Quanto à incidência de correção monetária a partir da respectiva data-base, a Corte local assim se pronunciou (fls. 295-296):
+Busca-se a acolhida dos declaratórios para que seja suprida - no entender da parte interessada - omissão quanto à incidência da correção monetária a partir da data-base de cada levantamento, pedido expressamente requerido na petição inicial.
+É a síntese do necessário.
+Inexistem os apontados vícios.
+Com efeito, a problemática posta é estranha à via recursal eleita; logo, ausente omissão, contradição, obscuridade e/ou erro material1, nada há ser aqui decidido, até porque o decisum bem examinou os elementos constantes dos autos no momento da sua prolatação, cabendo ao polo embargante se quiser deduzir seus argumentos em sede adequada, pois na expressão de Pontes de Miranda, nos declaratórios não se pede que se redecida; pede-se que se reexprima.
+Inviável, portanto, o iniludível pretexto infringente de rejulgamento; ou seja, de ver reexaminada e decidida a controvérsia de acordo com a sua interpretação, o que não se admite nesta base, modalidade de recurso com fundamentação vinculada, sobretudo porque a matéria já foi dirimida integralmente nos embargos nº 1022815-67.2019.8.26.0564/50001.
+Anote-se que a análise da correção monetária, por ser matéria de ordem pública, independe de pedido expresso na inicial ou de recurso voluntário da parte.
+Ao rigor desse raciocínio, exsurgem manifestamente protelatórios estes embargos, a suportar o polo recorrente multa de 1,0% do valor da causa, atualizado da propositura. (..).
+Assim, não se constatam os vícios alegados.
+Quanto aos arts. 25-A da Lei. n. 8.906/1994, 202, I, parágrafo único, e 205 do CC, a peça recursal não esclareceu de que forma tais dispositivos teriam sido violados, tampouco como dariam amparo a qualquer tese recursal, não servindo para tal propósito a citação genérica de normas, sem argumentação clara e associada às razões de decidir do aresto impugnado.
+Limitando-se a parte recorrente a afirmar ofensa a dispositivos de lei sem, contudo, demonstrar a suposta violação ou a correta interpretação, há evidente deficiência na fundamentação, fazendo incidir a Súmula n. 284/STF.
+No tocante à suposta violação dos arts. 369, 371 e 373, I, do CPC, afirmou a parte recorrente que a parte contrária não se desincumbiu do ônus comprobatório dos fatos constitutivos do direito discutido. Ainda, em relação aos arts. 186, 927 e 944 do CC,  aduziu o descabimento da condenação ao pagamento de danos morais, mormente por não haver demonstração probatória de ato ilícito ou da extensão do dano.
+No que diz respeito às respectivas provas produzidas nos autos, a Corte local assim se manifestou (fls. 266-268):
+Com efeito, afirma a causa de pedir que o réu patrocinou Eduardo na Ação Trabalhista com autos nº 01361-1994.023.02.00-5, que tramitou perante a Egrégia 23ª Vara do Trabalho da Capital, onde nessa qualidade celebrou acordo e levantou o valor de R$ 7.225,86; entretanto, inerte, nunca repassou esse numerário.
+A defesa, por sua vez, argumenta que, o APELADO teve ciência de toda a tramitação da celebração do acordo referido na petição inicial, tendo, inclusive, trazido os elementos que levaram ao direcionamento da sucessão ocorrida na empresa Recda (DALCA IND. COM. LTDA passando para o controle acionário da SAGGIO DO BRASIL LTDA), possibilitando o direcionamento da execução que redundou na celebração do acordo em epigrafe, que só não foi assinando por ele, em vista que encontrava-se residindo na cidade de Indaiatuba/SP naquela oportunidade (sic) (item 39 fls. 187) e que nada lhe é devido, sendo que os valores reclamados lhe foram repassados a tempo e modo, nada trazendo que pudesse infirmar esta realidade e constituir direito reparatório em seu favor (sic) (item 45 fls. 188), o que não convence.
+Isto porque, vedada a prova negativa (diabólica), a ele competia demonstrar o pagamento que diz ter feito, ônus do qual não se desincumbiu10, a tanto não bastando, por óbvio, a genérica a assertiva que não explicou quando e de que modo a quitação teria se dado; ao passo que, não verificada a prescrição, a eventual destruição dos documentos se dá em prejuízo do próprio advogado, que bem conhece seus deveres, ou ao menos deveria conhecê-los.
+Anote-se que a prova do suposto pagamento, caso existisse, poderia ser obtida pela simples apresentação do seu extrato bancário da época ou pelo requerimento para exibição de equivalente do polo ativo.
+Pouco importa, ainda, que os autos sejam públicos, pois compete ao patrono a atuação com toda a diligência advinda do mandato, inclusive com a prestação de contas, pois o mandatário é obrigado a dar contas de sua gerência ao mandante, transferindo-lhe as vantagens provenientes do mandato, por qualquer título que seja.
+É dizer: o que jamais poderia o advogado fazer era apropriar-se de recursos alheios recebidos em razão do seu múnus profissional, administrando-os a seu bel prazer durante anos, como se dono fosse, tudo a tipificar ao menos em tese várias infrações administrativas.
+Assim, à míngua de impugnação específica ao cálculo apresentado (fls. 05), de rigor se mostra o pagamento dos R$ 7.225,86, deduzidos os razoáveis 20% fixados a título de honorários de êxito, pois a suposta praxe não vincula as balizas do juízo.
+E a correção monetária incide mesmo do levantamento (12.02.2008 fls. 23/26), a não se configurar o r. decisum em ultra petita, já que se trata de matéria de ordem pública.
+De outra banda, evidente a ruptura da confiança, mister se mostra a reparação extrapatrimonial.
+Não se ponha no oblívio, agora, que os direitos da personalidade compõem apenas uma parcela do patrimônio imaterial protegido pelo sistema jurídico, mas não a única, como no objetivo dano evento do direito italiano.
+O dano, na espécie, é in re ipsa, que dispensa prova de maiores reflexos, patrimoniais ou morais. O dever de indenizar decorre de modo imediato da quebra da justa expectativa do mandatário, privado de dinheiro que lhe pertencia, pois fazer depender a configuração do dano moral de um momento consequencial (dor, sofrimento, etc.), equivale a lançá-lo em um limbo inacessível de sensações pessoais, íntimas e eventuais.
+ ..
+No que tange à liquidação, afigura-se razoável considerando a indevida apropriação de valores e a deliberada omissão de transparência e de lealdade, por todos os ângulos insuperável majorar a indenização extrapatrimonial para os R$ 10.000,00 pretendidos (letra "B" - fls. 10), corrigidos do arbitramento inicial (01.10.2021 fls. 152)20, visto que nesta instância tão-só se adequou a expressão numérica do decreto condenatório.
+Eventual conclusão desta Corte Superior em sentido contrário ao das instâncias ordinárias, em relação às provas produzidas nos autos, exigiria incursão no campo fático-probatório, providência vedada na via especial, nos termos da Súmula n. 7/STJ.
+Por fim, quanto à suposta violação dos arts. 141 e 492 do CPC, a parte recorrente alertou quanto à ocorrência de julgamento ultra petita pelo Tribunal de origem.
+Desse modo, afirma que "houve violação do disposto nos artigos 141 e 492, a ensejar o acolhimento do presente recurso, para a fixação da correção monetária com base na efetiva data em que foram efetuados os levantamentos das parcelas que integram o pedido inicial" (fl. 320).
+No entanto, a jurisprudência desta Corte é no sentido de que, "enquanto não decididas, as questões de ordem pública, como a aplicação de correção monetária e de juros moratórios, podem ser conhecidas, inclusive de ofício, em qualquer tempo e grau de jurisdição ordinária, pois não sujeitas à preclusão temporal" (AgInt no REsp n. 1.993.419/AC, relator Ministro Raul Araújo, Quarta Turma, julgado em 10/10/2022, DJe de 21/10/2022).
+Assim, o entendimento adotado pela Corte de origem está em consonância com o entendimento desta Corte superior, inexistindo julgamento ultra petita no caso concreto.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+É como voto.
