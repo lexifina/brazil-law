@@ -1,0 +1,67 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/12/2025 a 16/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO EMPRESARIAL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. RECUPERAÇÃO EXTRAJUDICIAL. REEXAME DE PROVAS. CONTEÚDO ECONÔMICO DO PLANO. DISSÍDIO JURISPRUDENCIAL. AGRAVO INTERNO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interno contra decisão monocrática que negou provimento ao agravo em recurso especial por incidência da Súmula n. 7 do STJ quanto ao reexame do conjunto fático-probatório e da Súmula n. 83 do STJ por harmonia com a jurisprudência do Superior Tribunal de Justiça acerca do conteúdo econômico do plano; e por não configuração do dissídio por ausência de identidade fático-jurídica.
+2. A controvérsia diz respeito a pedido de homologação de plano de recuperação extrajudicial.
+3. Na sentença, o Juízo de primeiro grau homologou o plano após nomeação de administrador judicial e realização de perícia contábil.
+4. A Corte de origem manteve, em essência, a homologação, provendo parcialmente apenas a apelação do Banco Caterpillar S.A. para afastar a condenação por litigância de má-fé.
+II. QUESTÃO EM DISCUSSÃO
+5. Há quatro questões em discussão: (i) saber se o voto do credor MÁRCIO GOMES DE SOUZA poderia ser computado por ser pessoa relacionada; (ii) saber se haveria simulação ou irregularidade na origem dos créditos de BRAVOS INVESTIMENTOS E PARTICIPAÇÕES LTDA. e IRONWOOD INVESTIMENTOS E PARTICIPAÇÕES LTDA.; (iii) saber se o plano seria abusivo quanto ao deságio, à carência e à correção monetária; e (iv) saber se haveria divergência com julgado do Tribunal de Justiça de São Paulo quanto à substituição da TR.
+III. RAZÕES DE DECIDIR
+6. O afastamento das conclusões do Tribunal de origem sobre a legitimidade e existência dos créditos e o cômputo do voto demanda revolvimento do conjunto fático-probatório, atraindo a aplicação da Súmula n. 7 do STJ.
+7. A insurgência contra o conteúdo econômico do plano (deságio, carência e correção) é inviável, pois, respeitados o quórum legal e o princípio majoritário, compete aos credores deliberar, sendo vedado ao Judiciário imiscuir-se nas particularidades econômicas, alinhamento que atrai a incidência da Súmula n. 83 do STJ.
+8. Não se configura o dissídio jurisprudencial, porque os paradigmas tratam de recuperação judicial sob regime jurídico diverso, ausentes identidade fático-jurídica e cotejo analítico.
+9. Inaplicável a multa do art. 1.021, § 4º, do CPC, tendo em vista a manifesta inadmissibilidade do agravo interno.
+IV. DISPOSITIVO E TESE
+10 . Agravo interno desprovido.
+Tese de julgamento: "1. A pretensão de infirmar a legitimidade e a existência dos créditos e o cômputo do voto de credor pessoa relacionada demanda reexame de provas, atraindo a incidência da Súmula n. 7 do STJ. 2. É vedado ao Judiciário imiscuir-se nas particularidades econômicas do plano de recuperação extrajudicial aprovado pelo quórum legal, aplicando-se a Súmula n. 83 do STJ. 3. Não há dissídio jurisprudencial quando os paradigmas cuidam de recuperação judicial, sob regime jurídico diverso, sem identidade fático-jurídica e sem cotejo analítico. 4. A multa do art. 1.021, § 4º, do CPC somente incide em hipóteses de manifesta inadmissibilidade".
+Dispositivos relevantes citados : Lei n. 11.101/2005, arts. 163, § 3º, II, 43, 164, § 6º, e 47; CC, arts. 884, 113 e 422; CPC, art. 1.021, § 4º.
+Jurisprudência relevante citada : STJ, Súmulas n. 7 e 83; STJ, AgInt no RMS n. 51.042/MG, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 28/3/2017.
+RELATÓRIO
+Trata-se de agravo interno interposto por TOPEMA INDÚSTRIA E COMÉRCIO LTDA. contra a decisão de fls. 18.971-18.987, que negou provimento ao agravo em recurso especial, em razão dos seguintes óbices: incidência da Súmula n. 7 do STJ quanto à pretensão de reexame do conjunto fático-probatório para infirmar a legitimidade dos créditos e a alegada simulação; incidência da Súmula n. 83 do STJ por estar o acórdão recorrido em harmonia com a jurisprudência desta Corte, que veda ao Judiciário adentrar o conteúdo econômico do plano; e não configuração do dissídio jurisprudencial por ausência de identidade fático-jurídica, uma vez que os paradigmas tratam de recuperação judicial, e não extrajudicial.
+Alega que houve violação dos arts. 163, § 3º, II, e 43, da Lei n. 11.101/2005, porque teria sido computado voto de credor pessoa relacionada (MÁRCIO GOMES DE SOUZA) no cômputo do quórum, o que seria vedado. Sustenta afronta ao art. 164, § 6º, da Lei n. 11.101/2005 por suposta simulação nos créditos de BRAVOS INVESTIMENTOS E PARTICIPAÇÕES LTDA. e IRONWOOD INVESTIMENTOS E PARTICIPAÇÕES LTDA., adquiridos por cessões de instituições financeiras, cuja origem seria "desconhecida".
+Aponta também ofensa aos arts. 884, 113 e 422 do Código Civil e 47 da Lei n. 11.101/2005, em razão de deságio de 80% e carência de 30 anos, além de correção pela TR, alegando má-fé e enriquecimento sem causa. Aduz existência de divergência jurisprudencial com julgado do Tribunal de Justiça de São Paulo, que teria substituído a TR pelos índices da tabela prática daquele Tribunal.
+Requer a reconsideração da decisão monocrática e o provimento do recurso especial.
+Contrarrazões de IRONWOOD INVESTIMENTOS E PARTICIPAÇÕES LTDA e BRAVOS INVESTIMENTOS E PARTICIPAÇÕES LTDA. às fls. 19.091-19.099, em que pleiteia o não conhecimento do agravo interno ou, caso ultrapassada a preliminar, seu desprovimento.
+Contrarrazões de CENTRINO PARTICIPAÇÕES S.A., FDS ENGENHARIA DE ÓLEO E GÁS S.A. e VISEN ENGENHARIA LTDA. às fls. 19.115-19.141, em que pleiteiam o não conhecimento ou, subsidiariamente, o desprovimento do recurso com aplicação da multa prevista no art. 1.021, § 4º, do CPC.
+Contrarrazões de MARCIO GOMES DE SOUZA às fls. 19.185-19.190, em que pleiteia o não conhecimento do agravo interno e, eventualmente, seu desprovimento.
+É o relatório.
+EMENTA
+DIREITO EMPRESARIAL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. RECUPERAÇÃO EXTRAJUDICIAL. REEXAME DE PROVAS. CONTEÚDO ECONÔMICO DO PLANO. DISSÍDIO JURISPRUDENCIAL. AGRAVO INTERNO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interno contra decisão monocrática que negou provimento ao agravo em recurso especial por incidência da Súmula n. 7 do STJ quanto ao reexame do conjunto fático-probatório e da Súmula n. 83 do STJ por harmonia com a jurisprudência do Superior Tribunal de Justiça acerca do conteúdo econômico do plano; e por não configuração do dissídio por ausência de identidade fático-jurídica.
+2. A controvérsia diz respeito a pedido de homologação de plano de recuperação extrajudicial.
+3. Na sentença, o Juízo de primeiro grau homologou o plano após nomeação de administrador judicial e realização de perícia contábil.
+4. A Corte de origem manteve, em essência, a homologação, provendo parcialmente apenas a apelação do Banco Caterpillar S.A. para afastar a condenação por litigância de má-fé.
+II. QUESTÃO EM DISCUSSÃO
+5. Há quatro questões em discussão: (i) saber se o voto do credor MÁRCIO GOMES DE SOUZA poderia ser computado por ser pessoa relacionada; (ii) saber se haveria simulação ou irregularidade na origem dos créditos de BRAVOS INVESTIMENTOS E PARTICIPAÇÕES LTDA. e IRONWOOD INVESTIMENTOS E PARTICIPAÇÕES LTDA.; (iii) saber se o plano seria abusivo quanto ao deságio, à carência e à correção monetária; e (iv) saber se haveria divergência com julgado do Tribunal de Justiça de São Paulo quanto à substituição da TR.
+III. RAZÕES DE DECIDIR
+6. O afastamento das conclusões do Tribunal de origem sobre a legitimidade e existência dos créditos e o cômputo do voto demanda revolvimento do conjunto fático-probatório, atraindo a aplicação da Súmula n. 7 do STJ.
+7. A insurgência contra o conteúdo econômico do plano (deságio, carência e correção) é inviável, pois, respeitados o quórum legal e o princípio majoritário, compete aos credores deliberar, sendo vedado ao Judiciário imiscuir-se nas particularidades econômicas, alinhamento que atrai a incidência da Súmula n. 83 do STJ.
+8. Não se configura o dissídio jurisprudencial, porque os paradigmas tratam de recuperação judicial sob regime jurídico diverso, ausentes identidade fático-jurídica e cotejo analítico.
+9. Inaplicável a multa do art. 1.021, § 4º, do CPC, tendo em vista a manifesta inadmissibilidade do agravo interno.
+IV. DISPOSITIVO E TESE
+10 . Agravo interno desprovido.
+Tese de julgamento: "1. A pretensão de infirmar a legitimidade e a existência dos créditos e o cômputo do voto de credor pessoa relacionada demanda reexame de provas, atraindo a incidência da Súmula n. 7 do STJ. 2. É vedado ao Judiciário imiscuir-se nas particularidades econômicas do plano de recuperação extrajudicial aprovado pelo quórum legal, aplicando-se a Súmula n. 83 do STJ. 3. Não há dissídio jurisprudencial quando os paradigmas cuidam de recuperação judicial, sob regime jurídico diverso, sem identidade fático-jurídica e sem cotejo analítico. 4. A multa do art. 1.021, § 4º, do CPC somente incide em hipóteses de manifesta inadmissibilidade".
+Dispositivos relevantes citados : Lei n. 11.101/2005, arts. 163, § 3º, II, 43, 164, § 6º, e 47; CC, arts. 884, 113 e 422; CPC, art. 1.021, § 4º.
+Jurisprudência relevante citada : STJ, Súmulas n. 7 e 83; STJ, AgInt no RMS n. 51.042/MG, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 28/3/2017.
+VOTO
+A irresignação não reúne condições de prosperar.
+A controvérsia diz respeito a pedido de homologação de plano de recuperação extrajudicial.
+Na sentença, o Juízo de primeiro grau homologou o plano após nomeação de administrador judicial e realização de perícia contábil.
+A Corte a quo manteve, em essência, a homologação, provendo parcialmente apenas a apelação do Banco Caterpillar S.A. para afastar a condenação por litigância de má-fé.
+Sobreveio recurso especial, em que a recorrente alega violação dos arts. 163, § 3º, II, 43 e 164, § 6º, da Lei n. 11.101/2005, 884, 113 e 422 do Código Civil e 47 da Lei n. 11.101/2005, além de dissídio jurisprudencial quanto à correção monetária.
+Nas razões do agravo interno, sustenta, em síntese, que o voto do credor MÁRCIO GOMES DE SOUZA não poderia ser computado por ser pessoa relacionada; que haveria simulação/irregularidade na origem dos créditos de BRAVOS e IRONWOOD; que o plano seria abusivo sob os aspectos econômico e de correção monetária; e que haveria divergência com julgado do Tribunal de Justiça de São Paulo sobre a substituição da TR.
+Conforme consta na decisão agravada, a Corte estadual, examinando laudo pericial, parecer do administrador judicial e o plano com termo aditivo, concluiu pela legitimidade e existência dos créditos de BRAVOS, IRONWOOD e MÁRCIO, pela lisura da composição e pela possibilidade de seus cômputos para o quórum exigido, rejeitando as alegações de fraude e simulação. A decisão monocrática registrou que, para afastar tais conclusões, seria imprescindível o reexame do contexto fático-probatório, atraindo a Súmula n. 7 do STJ.
+Assim, não obstante as alegações apresentadas neste agravo interno em relação à suposta irregularidade dos créditos e ao impedimento de voto, não há como afastar a incidência da Súmula n. 7 do STJ, pois a pretensão demanda revolvimento de provas, o que é vedado na via especial.
+De igual modo, não prospera o recurso no que se refere à insurgência contra o conteúdo econômico do plano (deságio, carência e correção), porque a decisão agravada assentou que, alcançado o quórum mínimo legal e respeitado o princípio majoritário, compete aos credores deliberar sobre a conveniência do plano, sendo vedado ao Judiciário imiscuir-se nas particularidades econômicas, entendimento alinhado à jurisprudência desta Corte, atraindo a incidência da Súmula n. 83. Nesse sentido, os julgados já mencionados na decisão agravada: REsp n. 1.562.565/MT e REsp n. 1.630.932/SP.
+Quanto ao dissídio jurisprudencial, a decisão agravada evidenciou que os paradigmas apontados tratam de recuperação judicial sob regime jurídico diverso e não examinaram a questão sob o enfoque do mesmo dispositivo de lei federal. Ausente, portanto, a identidade fático-jurídica e o cotejo analítico exigido, não se configurando a divergência.
+Portanto, a parte agravante não logrou êxito em demonstrar situação superveniente que justificasse a alteração da decisão agravada.
+No que se refere à aplicação do art. 1.021, § 4º, do Código de Processo Civil, pleiteada em contrarrazões, a orientação desta Corte é no sentido de que "a multa aludida no art. 1.021, §§ 4º e 5º, do CPC/2015, não se aplica em qualquer hipótese de inadmissibilidade ou de improcedência, mas apenas em situações que se revelam qualificadas como de manifesta inviabilidade de conhecimento do agravo interno ou de impossibilidade de acolhimento das razões recursais porque inexoravelmente infundadas" (AgInt no RMS n. 51.042/MG, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 28/3/2017, DJe de 3/4/2017).
+No caso, apesar do desprovimento do agravo interno, não está configurada a manifesta inadmissibilidade, razão pela qual é incabível a aplicação de multa.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
