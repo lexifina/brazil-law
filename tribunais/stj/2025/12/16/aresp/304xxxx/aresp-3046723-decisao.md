@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de Agravo apresentado por MRV MRL XVIII INCORPORACOES SPE LTDA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+AGRAVO DE INSTRUMENTO - AÇÃO CAUTELAR INOMINADA - PEDIDO LIMINAR - SUSPENSÃO DE PAGAMENTO DOS VALORES AFIANÇADOS - "FUMUS BONI JURIS" E "PERICULUM IN MORA" - REQUISITOS DEMONSTRADOS - LIMINAR DEFERIDA.
+Quanto à primeira controvérsia, pela alínea a"" do permissivo constitucional, a parte recorrente aduz ofensa ao art. 1.022 do CPC, no que concerne à alegação de vício integrativo no acórdão recorrido.
+Quanto à segunda controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aponta violação aos arts. 489, § 3º, e 1.014 do CPC, no que concerne à necessidade de reconhecimento da impossibilidade de inovação recursal com restauração da fiança bancária, em razão de acolhimento de fundamento não deduzido na contestação, consistente em suposto saldo credor. Argumenta que:
+Contudo, em verdadeira inovação recursal, a parte adversa, em sede de recurso de apelação, passou a alegar um inexistente inadimplemento contratual por pagamento a menor das parcelas, argumento que, conforme a própria contestação daquela parte, deveria ser considerado impertinente para a lide, sendo alvo de discussão em eventual processo distinto. (fl. 1275)
+
+Destaca-se, que sua peça contestatória é inteiramente pautada na impontualidade da MRV em relação ao pagamento da 4ª parcela do contrato de novação, nada manifestando em relação a suposto pagamento a menor das parcelas. (fl. 1276)
+
+Ocorre que o suposto saldo devedor mencionado no acórdão dos embargos de declaração não era objeto de discussão em sede de contestação. A alegação de inadimplemento era baseada em atraso de pagamento e vencimento antecipado da dívida e, como demonstrado, a discussão sobre saldo era considerada impertinente para o próprio Espólio. (fl. 1276)
+
+Necessário esclarecer, que a fiança bancária era destinada ao adimplemento do contrato, haja vista o atraso no pagamento de uma das parcelas. Se o contrato foi considerado adimplido, é no mínimo contraditório que seja determinada a reapresentação da garantia, sob o fundamento de suposto resíduo de saldo credor em favor do Espólio, advindo da alegação de pagamento a menor das parcelas, fato que sequer foi objeto do processo. (fls. 1276-1277)
+
+Dessa forma, o decisum, vai de encontro ao artigo 1.014 do CPC, visto que deu provimento a pedido que alterou a matéria de defesa, em genuína inovação recursal, bem como deixou de observar o que dispõe o artigo art. 489, § 3º, CPC, que determina que a decisão judicial deve ser interpretada a partir da conjugação de todos os seus elementos e em conformidade com o princípio da boa-fé. (fl. 1277)
+
+Dessa forma, estamos diante de uma decisão é contraditória e que afronta diretamente os artigos art. 489, § 3º e 1014 do CPC, na medida em que acolheu os embargos de declaração da parte contrária para determinar a restauração da fiança bancária em razão da suposta existência de saldo credor em favor do Espólio. (fl. 1277).
+É o relatório.
+Decido.
+Quanto à primeira controvérsia, incide o óbice da Súmula n. 284/STF, tendo em vista que a parte recorrente aponta ofensa ao art. 1.022 do Código de Processo Civil de 2015, sem especificar, todavia, quais incisos foram contrariados, a despeito da indicação de omissão, contradição, obscuridade ou erro material.
+Nesse sentido: "A ausência de indicação dos incisos do art. 1.022 configura deficiência de fundamentação, o que enseja o não conhecimento do recurso especial" (AgInt no AREsp n. 2.697.337/MT, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 10/2/2025, DJEN de 13/2/2025).
+Confira-se também os seguintes julgados: ;AgInt no REsp n. 2.129.539/CE, relator Ministro Francisco Falcão, Segunda Turma, DJEN de 2/12/2024; AgInt nos EDcl no AREsp n. 2.069.174/MS, relator Ministro Teodoro Silva Santos, Segunda Turma, DJe de 4/11/2024; AgInt no AREsp n. 2.543.862/RN, relator Ministro Humberto Martins, Terceira Turma, DJe de 30/10/2024; AgInt no AREsp n. 2.452.749/RJ, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 20/8/2024; AgInt no AgInt no AREsp n. 2.260.168/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 6/12/2023; AgInt no AREsp n. 1.703.490/MT, relator Ministro Herman Benjamin, Segunda Turma, DJe de 24/11/2020.
+Quanto à segunda controvérsia, não houve o prequestionamento da tese recursal, porquanto a questão postulada não foi examinada pela Corte a quo sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Não há prequestionamento da tese recursal quando a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente" (AgInt no AREsp n. 1.946.228/DF, relator Ministro Francisco Falcão, Segunda Turma, DJe de 28/4/2022).
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 2.023.510/GO, relator Ministro Humberto Martins, Terceira Turma, DJe de 29/2/2024; AgRg no AREsp n. 2.354.290/ES, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 15/2/2024; AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/5/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19.9.2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
