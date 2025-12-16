@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/12/2025 a 16/12/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NEGOU PROVIMENTO AO RECLAMO.
+IRRESIGNAÇÃO DA PARTE AGRAVANTE.
+1. Nos termos do artigo 1.022 do CPC/15, o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontrável em decisão ou acórdão, não podendo ser utilizado como instrumento para a rediscussão do julgado.
+2. Consoante pacificada jurisprudência do Superior Tribunal de Justiça, a competência interna do órgãos judiciais fracionários desta Corte é relativa, operando-se a preclusão após a decisão no feito, seja singular ou colegiada (EAREsp n. 2.287.014/MG, relatora Ministra Maria Isabel Gallotti, Corte Especial, julgado em 17/9/2025, DJEN de 26/9/2025). Ademais, na hipótese, sequer houve apreciação do recurso, seja pela Presidência do STJ na decisão monocrática, seja pela Quarta Turma do STJ, em acórdão colegiado, diante de sua manifesta ausência de dialeticidade.
+3. Na hipótese dos autos, o acórdão proferido por este órgão fracionário encontra-se devida e suficientemente fundamentado, apenas decidindo de forma contrária aos interesses dos embargantes, o que, à evidência, não consubstancia vício passível de correção por meio de embargos de declaração, mas sim pretensão meramente infringente.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração, opostos por CAIXA SEGURADORA S/A, contra o acórdão de fls. 1153-1155, e-STJ, de relatoria deste signatário, que negou provimento ao agravo interno interposto pela parte ora insurgente.
+O aresto em questão está assim ementado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO INDENIZATÓRIA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DO STJ QUE NÃO CONHECEU DO RECLAMO, ANTE A AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA.
+INSURGÊNCIA DA PARTE DEMANDADA.
+1. Consoante expressa previsão contida nos artigos 932, III, do CPC/15 e 253, I, do RISTJ e em razão do princípio da dialeticidade, deve o agravante demonstrar, de modo fundamentado, o desacerto da decisão que inadmitiu o apelo extremo, o que não aconteceu na hipótese. Incidência da Súmula 182 do STJ.
+2. São insuficientes ao cumprimento do dever de dialeticidade recursal as alegações genéricas de inconformismo, devendo a parte agravante, de forma clara, objetiva e concreta, demonstrar o desacerto da decisão impugnada. Precedentes.
+3. Agravo interno desprovido (fls. 1153, e-STJ).
+Daí os presentes embargos de declaração (fls. 1175-1180, e-STJ), nos quais a parte embargante afirma omissão quanto ao exame do pedido de redistribuição dos autos às Turmas da Primeira Seção, por incompetência das Turmas de Direito Privado, e quanto à apreciação da competência interna desta Corte (fls. 1177-1179, e-STJ); contradição entre o acórdão colegiado que desproveu o agravo interno (fls. 1178, e-STJ).
+Não foi apresentada impugnação, conforme certidão de fls. 1186.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NEGOU PROVIMENTO AO RECLAMO.
+IRRESIGNAÇÃO DA PARTE AGRAVANTE.
+1. Nos termos do artigo 1.022 do CPC/15, o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontrável em decisão ou acórdão, não podendo ser utilizado como instrumento para a rediscussão do julgado.
+2. Consoante pacificada jurisprudência do Superior Tribunal de Justiça, a competência interna do órgãos judiciais fracionários desta Corte é relativa, operando-se a preclusão após a decisão no feito, seja singular ou colegiada (EAREsp n. 2.287.014/MG, relatora Ministra Maria Isabel Gallotti, Corte Especial, julgado em 17/9/2025, DJEN de 26/9/2025). Ademais, na hipótese, sequer houve apreciação do recurso, seja pela Presidência do STJ na decisão monocrática, seja pela Quarta Turma do STJ, em acórdão colegiado, diante de sua manifesta ausência de dialeticidade.
+3. Na hipótese dos autos, o acórdão proferido por este órgão fracionário encontra-se devida e suficientemente fundamentado, apenas decidindo de forma contrária aos interesses dos embargantes, o que, à evidência, não consubstancia vício passível de correção por meio de embargos de declaração, mas sim pretensão meramente infringente.
+4. Embargos de declaração rejeitados.
+VOTO
+Os aclaratórios não merecem acolhida.
+1. Primeiramente, cumpre destacar que, consoante pacificada jurisprudência do Superior Tribunal de Justiça, a competência interna do órgãos judiciais fracionários desta Corte é relativa, operando-se a preclusão após a decisão no feito, seja singular ou colegiada (EAREsp n. 2.287.014/MG, relatora Ministra Maria Isabel Gallotti, Corte Especial, julgado em 17/9/2025, DJEN de 26/9/2025.).
+2. Ademais, na hipótese, sequer houve apreciação do recurso, seja pela Presidência do STJ na decisão monocrática, seja pela Quarta Turma do STJ, em acórdão colegiado, diante de sua manifesta ausência de dialeticidade.
+3. Consoante preceitua o artigo 1.022 do CPC/15, os embargos de declaração se prestam, apenas, a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material. Com efeito, consoante julgado proferido pela colenda Corte Especial do STJ, "a vedação constante do art. 1.021, § 3º, do CPC não pode ser interpretada no sentido de se exigir que o julgador tenha de refazer o texto da decisão agravada com os mesmos fundamentos, mas outras palavras, mesmo não havendo nenhum fundamento novo trazido pela agravante na peça recursal" (EDcl no AgRg nos EREsp 1.483.155/BA, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, julgado em 15/06/2016, DJe de 03/08/2016).
+No caso, as razões dos embargos revelam tão somente o intuito de reapreciação da causa e a sua insatisfação com o resultado do julgado, o que não se admite com a objetividade do recurso manejado. É que, a pretexto da existência de omissão, na verdade, a parte embargante pretende a modificação do acórdão, cuja via processual é inadequada.
+O acórdão embargado foi claro quanto às suas razões de decidir quanto à incidência da Súmula 182 do STJ:
+No caso dos autos, o Tribunal local: a) em relação à tese repetitiva, negou seguimento; e, b) por fim, na matéria restante, inobstou a súplica ante o não cabimento de REsp por ofensa a norma diversa de tratado ou lei federal.
+2.1. Observa-se, primeiramente, que a Corte de origem negou seguimento ao recurso especial, tendo em vista a adequação do aresto recorrido ao entendimento firmado por esta Corte Superior, sob o rito dos recursos especiais repetitivos. O recurso cabível contra essa decisão, por expressa previsão legal, é o agravo interno (art. 1.030, I, alínea "b", e § 2º, do CPC/2015), sendo manifestamente inadmissível o agravo em recurso es pecial.
+2.2. Verifica-se que também que não restou especificada no que consistia a alegação de negativa de vigência a lei federal, visto que o recurso especial se destina a uniformização interpretativa de lei e não de outros atos normativos, como expressamente consignou a instância estadual.
+2.3. A recente jurisprudência desta Corte, à luz do princípio da dialeticidade, que norteia os recursos, é no sentido de que deve a parte recorrente impugnar especificamente todos os fundamentos suficientes para manter o decisum recorrido, de maneira a demonstrar que o juízo de admissibilidade do Tribunal de origem merece ser modificado, o que não se vislumbra no recurso em questão. Desta forma, irrefutável a incidência da Súmula 182 do STJ, porquanto inexistiu ataque específico a todos os fundamentos da decisão que obstou a ascensão do recurso especial ao Superior Tribunal de Justiça.
+Diante disso, por inexistir qualquer das máculas prevista no artigo 1.022 do Código de Processo Civil de 2015, não há razão para modificar o decisum embargado.
+2. Não obstante a rejeição dos aclaratórios, deixa-se de se aplicar a multa prevista no artigo 1.026, § 2º, do CPC/2015, pois, em se tratando de primeiros embargos de declaração que não ostentam caráter manifestamente protelatórios, pressuposto para aplicação da medida, descabida a sua incidência neste momento.
+No entanto, desde já se adverte que a reiteração de embargos de declaração, com intuito de rediscussão do julgado, poderá caracterizar o aludido caráter manifestamente protelatório, ensejando a aplicação da multa citada.
+3. Ante o exposto, rejeitam-se os presentes embargos de declaração.
+É como voto.
