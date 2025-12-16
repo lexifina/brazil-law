@@ -1,0 +1,41 @@
+DECISÃO
+Em análise, embargos de declaração opostos por BMB MATERIAL DE CONSTRUÇÃO S.A. contra decisão de fls. 976/978, que conheceu do agravo para negar provimento ao recurso especial.
+A parte embargante sustenta, em síntese, que:
+(a) "a Recorrente levou ao crivo do E. TRF3 a discussão sobre a pendência do julgamento dos Embargos de Declaração opostos no leading case, em que se apresenta pedido de modulação dos efeitos da decisão de mérito lançada no Tema" (fl. 983);
+(b) "demonstrou ao tribunal de origem que não é incomum o sobrestamento de processos em que haja possibilidade de modulação de efeitos de decisão dos Tribunais Superiores, citando como exemplo o caso do Tema 985 da repercussão geral, em que o ministro André Mendonça determinou o sobrestamento de todos os processos que poderiam ser atingidos pela modulação de efeitos a ser operada no julgamento de embargos de declaração" (fl. 984).
+Afirma, ainda, que, "é evidente que o tribunal de origem deixou de se manifestar sobre argumentos inegavelmente essenciais ao deslinde da controvérsia" (fl. 985).
+A parte embargada não apresentou impugnação aos embargos de declaração.
+É o relatório.
+Passo a decidir.
+Conheço dos embargos, porquanto presentes os pressupostos de admissibilidade.
+O artigo 1.022 do Código de Processo Civil dispõe o seguinte:
+Art. 1.022. Cabem embargos de declaração contra qualquer decisão judicial para:
+I - esclarecer obscuridade ou eliminar contradição;
+II - suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento;
+III - corrigir erro material.
+Parágrafo único. Considera-se omissa a decisão que:
+I - deixe de se manifestar sobre tese firmada em julgamento de casos repetitivos ou em incidente de assunção de competência aplicável ao caso sob julgamento;
+II - incorra em qualquer das condutas descritas no art. 489, § 1º.
+Conforme se depreende do aludido dispositivo legal, os embargos de declaração não servem à reforma do julgado e não permitem a rediscussão da matéria, pois seu objetivo é introduzir o estritamente necessário para eliminar obscuridade, contradição, erro material e/ou suprimir omissão.
+Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes (realizado na minuta e contraminuta recursais). A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+De se ver, então, serem limitados os efeitos dos embargos declaratórios, servindo, precipuamente, à correção de vícios formais, dos quais decorra o aprimoramento da decisão.
+No caso dos autos, não se constata no acórdão ora embargado o alegado vício de omissão/contradição/obscuridade, revelando-se, em verdade, mero inconformismo da parte embargante, de forma que é imperiosa a rejeição dos embargos de declaração.
+Com efeito, na decisão embargada foram expostos de forma clara os motivos pelos quais o recurso especial não merecia prosperar, constando, expressamente que:
+Preliminarmente, observo que, tendo havido a negativa de seguimento do em conformidade com o disposto no I, art. 1.030, b, do CPC, em relação ao Tema 1.231/STJ, a devolutividade do recurso especial fica limitada aos demais pontos cuja recorribilidade não se dá exclusivamente perante o tribunal de origem.
+Quanto à apontada violação aos arts. 489, § 1º, IV, e 1.022, II, do CPC, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+No caso, em sede de julgamento de embargos de declaração, a Corte de origem assim se manifestou sobre as questões suscitadas:
+Conforme observado no v. acórdão embargado, em específico com relação à possibilidade de aproveitamento do ICMS-ST quando da apuração dos créditos de PIS e COFINS, o STF tem se manifestado no sentido de se tratar de matéria de índole infraconstitucional.
+Mencionou-se, igualmente, que tendo em vista a compreensão pela natureza infraconstitucional da questão em debate nestes autos, a Primeira Seção do Superior Tribunal de Justiça a afetou à sistemática dos recursos repetitivos (Tema 1231 - Decidir sobre a possibilidade de creditamento, no âmbito do regime não-cumulativo das contribuições ao PIS e COFINS, dos valores que o contribuinte, na condição de substituído tributário, paga ao contribuinte substituto a título de reembolso pelo . Referida afetação ocorreu nos autosrecolhimento do ICMS-substituição (ICMS-ST) dos embargos de divergência 1.959.571/RS, bem como dos recursos especiais 2.075.758/ES e 2.072.621/SC.
+Enfatizou-se, de igual modo, que a apreciação do mérito dos representativos de controvérsia foi realizada em sessão de julgamento de oportunidade em que a Primeira Seção daquela Corte20/06/2024, Superior, em julgamento unânime, assentou as seguintes Teses: (i) Os tributos recolhidos em substituição tributária não integram o conceito de custo de aquisição previsto no do (ii) Decreto- Os art. 13, Lei n. 1.598/77; valores pagos pelo contribuinte substituto a título de ICMS-ST não geram, no regime não cumulativo, créditos para fins de incidência das contribuições ao PIS/PASEP e COFINS devidas pelo contribuinte substituído.
+Consoante explanado no recorrido, decisum o julgado paradigmático em apreço tem como substrato o entendimento de que os tributos recolhidos em substituição tributária consubstanciam mera antecipação de tributo que incidiria na venda a ser feita pelo substituído. Desta forma, a orientação firmada pelo STJ no Tema 1231 é de que tais tributos, a exemplo do ICMS-ST, não representam um custo de aquisição, mas uma oneração antecipada da futura venda da mercadoria.
+Ponderou-se, em arremate: Desta forma, ao firmar compreensão pela possibilidade de o contribuinte apropriar créditos de PIS e COFINS sobre o ICMS-ST apurado pelo substituto tributário, o acórdão proferido por esta Terceira Turma em diverge da orientação 01/06/2022 paradigmática posteriormente fixada pelo Superior Tribunal de motivo por que deve ser realizado o, juízo positivoJustiça no Tema 1231, de retratação na presente hipótese.  grifei
+Por fim, também não prospera a apontada omissão acerca da necessária suspensão do feito, pois por estar sedimentada mediante precedente firmado no regime dos recursos repetitivos, a matéria já não requer maiores digressões, cumprindo aos juízes e tribunais seguirem a orientação paradigmática, nos termos do disposto no art. 927, III, do Código de Processo Civil. (fl. 813 - Grifo nosso)
+Como se vê, a negativa de prestação jurisdicional não restou configurada.
+Por outro lado, a fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada.
+Vale lembrar que, mesmo à luz do do CPC, o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pela parte, mas apenas sobre aqueles capazes de, em tese, infirmar a conclusão adotada pelo órgão julgador. Assim, inexiste violação aos arts. 489, § 1º, IV, e 1.022, II, parágrafo único, II, do CPC. (fls. 977/978)
+Assim, não há vício formal no decisum, mas tão somente pretensão da parte embargante de rediscutir matéria já decidida, o que não se admite, ante a especialidade da via eleita.
+Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, AgInt no AREsp 2.372.143/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe de 21/11/2023; EDcl no REsp 1.816.457/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/05/2020.
+Por último, cabe observar não ser o caso de sobrestamento do feito, uma vez que a oposição de embargos de declaração nos autos em que proferido o acórdão referente ao Tema 1.231/STJ não tem o condão de suspender os efeitos da decisão colegiada prolatada nesta Corte Superior quanto ao conteúdo das teses firmadas e sua imediata aplicação.
+Isso posto, rejeito os embargos de declaração.
+Intimem-se.
+EMENTA
