@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL do acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim ementado (fls. 300/301):
+TRIBUTÁRIO. IRPJ E CSLL SOBRE A TAXA SELIC. NÃO INCIDÊNCIA. REPETIÇÃO DE INDÉBITO. ARGUIÇÃO DE INCONSTITUCIONALIDADE Nº 5025380-97.2014.4.04.0000. CORTE ESPECIAL DO TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO - TRF-4. TEMA 962 STF. MODULAÇÃO DOS EFEITOS. APLICAÇÃO. LIMITAÇÃO DO DIREITO A CONTAR DE 30/09/2021. FATO GERADOR DO IRPJ E DA CSLL. CRÉDITO COMPENSÁVEL ILÍQUIDO DECORRENTE DE DECISÃO JUDICIAL. NECESSIDADE DE HOMOLOGAÇÃO PELO FISCO DA COMPENSAÇÃO DO CONTRIBUINTE.
+1. A Corte Especial do Tribunal Regional da 4ª Região, no julgamento do Incidente de Arguição de Inconstitucionalidade nº 5025380-97.2014.404.0000, declarou a inconstitucionalidade parcial, sem redução de texto, do § 1º do art. 3º da Lei nº 7.713/88, do art. 17 do Decreto-Lei nº 1.598/77, e do art. 43, inc. II e § 1º, do CTN (Lei nº 5.172/66), de forma a afastar da incidência do imposto de renda (IR) e da contribuição social sobre o lucro líquido (CSLL) sobre a taxa SELIC recebida pelo contribuinte na repetição de indébito, estando os desembargadores federais deste Tribunal vinculados à decisão proferida pela Corte Especial.
+2. Recentemente o STF julgou o Tema 962 decidindo: "É inconstitucional a incidência do IRPJ e da CSLL sobre os valores atinentes à taxa Selic recebidos em razão de repetição de indébito tributário".
+3. Ajuizada a ação após 17/09/2021, aplica-se a modulação de efeitos determinada pelo STF.
+4. A disponibilidade jurídica dos "créditos compensáveis" da impetrante só ocorre quando, de fato, forem homologadas, expressa ou tacitamente, as compensações realizadas, permitindo-se, assim, que o contribuinte tenha também a disponibilidade econômica da renda.
+Os embargos de declaração opostos foram rejeitados (fls. 335/339).
+Nas razões de seu recurso, a parte recorrente alega (fls. 353/354):
+Discute-se no presente processo o momento em que incide a tributação da renda do resultado positivo decorrente dos créditos tributários a compensar, referentes a indébito tributário reconhecido por sentença judicial ILÍQUIDA.
+(..)
+Entretanto, a disponibilidade jurídica e econômica, para fins de incidência do IRPJ e da CSLL, em face de crédito a compensar decorrente de decisão judicial ilíquida, ocorre no momento do deferimento da habilitação do crédito, nos termos do art. 74 da Lei nº 9.430/96 e dos artigos 100 e 101 da IN nº 1.717/2017.
+A parte adversa apresentou contrarrazões (fls. 366/408).
+O recurso foi admitido na origem (fls. 411/412 ).
+É o relatório.
+A questão debatida nos autos foi afetada à Primeira Seção do Superior Tribunal de Justiça para ser decidida sob o rito de recursos repetitivos (Tema 1.362), e foi assim delimitada:
+"Definir o momento no qual é verificada a disponibilidade jurídica de renda em repetição de indébito tributário ou em reconhecimento do direito à compensação julgado procedente e já transitado em julgado, para a caracterização do fato gerador do IRPJ e da CSLL, na hipótese de créditos ilíquidos." (REsps 2.153.492/SP, 2.153.547/SP, 2.153.817/SP e 2.172.434/SP, relator Ministro Teodoro Silva Santos).
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+O envio do recurso especial a esta Corte Superior deve ocorrer somente após o esgotamento da instância ordinária, formalizado com o novo julgamento pelo Tribunal de origem, quando então será possível examinar, no âmbito do STJ, as matérias jurídicas que eventualmente permanecerem controvertidas. Essa cautela também evita o fracionamento do recurso e previne eventual violação ao princípio da unicidade recursal, que veda a interposição simultânea ou sucessiva de recursos contra a mesma decisão.
+Ante o exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil (CPC), após a publicação do acórdão dos recursos representativos de controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do mesmo CPC.
+Publique-se. Intimem-se.
+EMENTA
