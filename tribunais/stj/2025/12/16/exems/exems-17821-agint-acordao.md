@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em Sessão Virtual de 10/12/2025 a 16/12/2025, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo Sérgio Domingues, Teodoro Silva Santos, Afrânio Vilela, Francisco Falcão, Maria Thereza de Assis Moura, Benedito Gonçalves, Marco Aurélio Bellizze e Sérgio Kukina votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Gurgel de Faria.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NA EXECUÇÃO EM MANDADO DE SEGURANÇA. ADMINISTRATIVO. ANISTIA POLÍTICA. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA JULGADA IMPROCEDENTE. CONDENAÇÃO DA PARTE VENCIDA AO PAGAMENTO DE HONORÁRIOS ADVOCATÍCIOS. AGRAVO INTERNO SUBSEQUENTE QUE NÃO IMPUGNA ESSE CAPÍTULO ESPECÍFICO. EXPEDIÇÃO DE PRECATÓRIO PARA PAGAMENTO DA VERBA DE HONORÁRIOS SUCUMBENCIAIS NO INCIDENTE PROCESSUAL. SUPERVENIENTE DEFINIÇÃO DA TESE 1232/STJ. APLICAÇÃO RETROATIVA. IMPOSSIBILIDADE, EM RAZÃO DA PRECLUSÃO. FUNDAMENTO INATACADO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. ÓBICE DA SÚMULA N. 182/STJ. NÃO OBSERVÂNCIA AO DISPOSTO NO ART. 1.021, § 1º, DO CPC. AGRAVO NÃO CONHECIDO.
+1. A decisão agravada afastou o requerimento do ente público, de cancelamento de precatório referente exclusivamente aos honorários de sucumbência fixados no julgamento da impugnação ao cumprimento de sentença, ao fundamento de que ocorreu a preclusão, diante da não devolução da matéria no Agravo Interno então interposto.
+2. A agravante não se desincumbiu do ônus de impugnar, de forma clara e objetiva, os fundamentos da decisão agravada, o que atrai o óbice da Súmula 182/STJ e o disposto no art. 1.021, § 1º, do CPC.
+3. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de Agravo Interno da União contra decisão que indeferiu pedido de cancelamento do Precatório 12725/DF, referente à condenação do ente público ao pagamento de honorários de sucumbência decorrentes do julgamento de improcedência da impugnação ao cumprimento de sentença (fls. 167).
+A agravante afirma que, entre a condenação e a expedição do precatório, sobreveio a definição do Tema 1232/STJ, precedente de observância obrigatória que excluiu a incidência de honorários advocatícios sucumbenciais nas execuções em mandado de segurança.
+Foi apresentada impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NA EXECUÇÃO EM MANDADO DE SEGURANÇA. ADMINISTRATIVO. ANISTIA POLÍTICA. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA JULGADA IMPROCEDENTE. CONDENAÇÃO DA PARTE VENCIDA AO PAGAMENTO DE HONORÁRIOS ADVOCATÍCIOS. AGRAVO INTERNO SUBSEQUENTE QUE NÃO IMPUGNA ESSE CAPÍTULO ESPECÍFICO. EXPEDIÇÃO DE PRECATÓRIO PARA PAGAMENTO DA VERBA DE HONORÁRIOS SUCUMBENCIAIS NO INCIDENTE PROCESSUAL. SUPERVENIENTE DEFINIÇÃO DA TESE 1232/STJ. APLICAÇÃO RETROATIVA. IMPOSSIBILIDADE, EM RAZÃO DA PRECLUSÃO. FUNDAMENTO INATACADO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. ÓBICE DA SÚMULA N. 182/STJ. NÃO OBSERVÂNCIA AO DISPOSTO NO ART. 1.021, § 1º, DO CPC. AGRAVO NÃO CONHECIDO.
+1. A decisão agravada afastou o requerimento do ente público, de cancelamento de precatório referente exclusivamente aos honorários de sucumbência fixados no julgamento da impugnação ao cumprimento de sentença, ao fundamento de que ocorreu a preclusão, diante da não devolução da matéria no Agravo Interno então interposto.
+2. A agravante não se desincumbiu do ônus de impugnar, de forma clara e objetiva, os fundamentos da decisão agravada, o que atrai o óbice da Súmula 182/STJ e o disposto no art. 1.021, § 1º, do CPC.
+3. Agravo interno não conhecido.
+VOTO
+O recurso não ultrapassa o juízo de admissibilidade.
+Com efeito, a agravante não impugnou de modo concreto e específico o fundamento central da decisão ora hostilizada, isto é, de que operou-se a preclusão da matéria porque o ato judicial que julgou improcedente a impugnação ao cumprimento de sentença e condenou a parte vencida ao pagamento de honorários sucumbenciais foi atacado por Agravo Interno do ente público no qual não foi impugnada a condenação ao pagamento da referida verba.
+Como se vê, a agravante tergiversa ao fazer referência à aplicação obrigatória de tese repetitiva, sem enfrentar especificamente o fundamento de que a questão encontrava-se acobertada pela preclusão máxima da matéria (ou seja, o trânsito em julgado do capítulo atinente aos honorários de sucumbência).
+A inobservância do princípio da dialeticidade atrai, como consequência, o não conhecimento do recurso. Nesse sentido:
+PROCESSUAL CIVIL. EXTINÇÃO DA EXECUÇÃO EM MANDADO DE SEGURANÇA. A INTERRUPÇÃO DA PRESCRIÇÃO DA OBRIGGAÇÃO DE FAZER (ENQUADRAMENTO) NÃO INTERROMPE A FLUÊNCIA DO PRAZO DE PRESCRIÇÃO DA OBRIGAÇÃO DE PAGAR. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AO FUNDAMENTO. RECURSO NÃO CONHECIDO.
+1. O argumento de que a petição 146830/2004, "ofertada em 24.11.2004", e de que a petição 91902/2005, "ofertada em 04.07.2005" - ou seja, de que as referidas petições - afastam a prescrição revela-se genérico, pois não combate especificamente a essência do fundamento da decisão agravada, isto é, de que tais petições abrangeram apenas a execução da obrigação de fazer (enquadramento), sem efeito sobre a fluência da prescrição relativa à obrigação de pagar.
+2. Consoante art. 1.021, § 1º, do CPC, é ônus da parte agravante impugnar especificamente os fundamentos da decisão agravada, sob pena de não conhecimento do recurso.
+3. Agravo Interno não conhecido.
+(AgInt no AgInt nos EmbExeMS n. 8.468/DF, relator Ministro Ribeiro Dantas, Terceira Seção, julgado em 6/2/2025, DJEN de 13/2/2025).
+PROCESSUAL CIVIL. AGRAVO INTERNO NA EXECUÇÃO EM MANDADO DE SEGURANÇA. ADMINISTRATIVO. ANISTIA POLÍTICA. PAGAMENTO DE INDENIZAÇÃO RETROATIVA. POSSIBILIDADE DE ANULAÇÃO DA PORTARIA ANISTIADORA À LUZ DA ORIENTAÇÃO ADOTADA NO JULGAMENTO DO RE 817.338/DF (TEMA 839). INSTAURAÇÃO DE NOVO PROCEDIMENTO REVISIONAL NOS TERMOS DA IN N. 2/2021, DO MMFDH. PRETENSÃO DE MANTER SUSPENSA A EXECUÇÃO. INVIABILIDADE. REVISÃO NÃO CONCLUÍDA NO PRAZO FIXADO. PROSSEGUIMENTO DO FEITO EXECUTIVO QUE SE IMPÕE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. ÓBICE DA SÚMULA N. 182/STJ. NÃO OBSERVÂNCIA AO DISPOSTO NO ART. 1.021, § 1º, DO CPC. AGRAVO NÃO CONHECIDO.
+1. A agravante não se desincumbiu de comprovar, no prazo fixado, o desfecho do procedimento revisional da portaria de anistia instaurado segundo as diretrizes da IN n, 2/2021, da Ministra de Estado da Mulher, da Família e dos Direitos Humanos. A inércia da Administração não justifica prorrogar o sobrestamento do processo, impondo-se seu prosseguimento com vistas à expedição do precatório referente à parcela incontroversa do crédito.
+2. O recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, os fundamentos da decisão agravada, o que atrai o óbice da Súmula 182/STJ e o disposto no art. 1.021, § 1º, do CPC.
+3. Agravo interno não conhecido.
+(AgInt na ExeMS n. 20.206/DF, relatora Ministra Regina Helena Costa, Primeira Seção, julgado em 20/8/2024, DJe de 23/8/2024).
+Diant e do exposto, não conheço do Agravo Interno.
