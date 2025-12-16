@@ -1,0 +1,69 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Maria Marluce Caldas, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito Penal. Agravo Regimental. Estelionato. Recebimento indevido de seguro-desemprego. Ausência de dolo. Abatimento de prestação pecuniária na reparação de danos. Agravo regimental não provido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu de recurso especial, o qual buscava a absolvição por atipicidade ou ausência de dolo, ou, subsidiariamente, a compensação entre a prestação pecuniária e a reparação de danos.
+2. O agravante foi condenado às penas de 1 (um) ano, 9 (nove) meses e 10 (dez) dias de reclusão, em regime inicial aberto, substituída por duas penas restritivas de direitos (prestação de serviços à comunidade e prestação pecuniária), e ao pagamento de 78 (setenta e oito) dias-multa, como incurso no art. 171, §3º, na forma do art. 71, ambos do Código Penal, em razão do recebimento de cinco parcelas de seguro-desemprego concomitantemente ao exercício de atividade laborativa sem registro em CTPS.
+3. O Tribunal local deu parcial provimento à apelação para absolver o réu quanto às três primeiras parcelas recebidas, mantendo a condenação relativamente às duas últimas parcelas e rejeitando o abatimento da prestação pecuniária no valor da indenização.
+4. A decisão monocrática não conheceu do recurso especial ao fundamento de que as teses defensivas demandariam revolvimento do conjunto fático-probatório, vedado pelo enunciado da Súmula n. 7, STJ, e que a ausência de definição do destinatário impede a dedução prevista no art. 45, § 1º, do Código Penal.
+II. Questão em discussão
+5. Há duas questões em discussão: (i) saber se é possível o reconhecimento da atipicidade da conduta ou ausência de dolo na prática do crime de estelionato, considerando o recebimento indevido de seguro-desemprego concomitantemente ao exercício de atividade laboral sem registro em CTPS; e (ii) saber se é cabível o abatimento do valor da prestação pecuniária na reparação de danos, nos termos do art. 45, §1º, do Código Penal.
+III. Razões de decidir
+6. A decisão monocrática concluiu pela impossibilidade de conhecimento do recurso especial, pois o acolhimento das teses defensivas demandaria o revolvimento do conjunto fático-probatório, o que é vedado pelo enunciado da Súmula n. 7, STJ.
+7. A instância ordinária reconheceu o dolo na conduta do agravante, que manteve-se silente quanto ao benefício e afirmou que entregaria a CTPS apenas após o recebimento da última parcela, caracterizando o meio fraudulento do estelionato.
+8. Quanto ao pedido de abatimento do valor da prestação pecuniária na reparação de danos, a decisão agravada alinhou-se à jurisprudência do STJ, que exige a coincidência de beneficiários para a dedução prevista no art. 45, § 1º, do Código Penal, o que não foi definido no acórdão recorrido.
+9. O parecer do Ministério Público Federal concluiu pela suficiência das provas de materialidade, autoria e dolo, e pela inviabilidade de reexame probatório na via especial.
+IV. Dispositivo e tese
+10. Resultado do Julgamento: Agravo regimental não provido.
+Tese de julgamento:
+1. O revolvimento do conjunto fático-probatório é vedado na via especial, conforme o enunciado da Súmula n. 7, STJ. 2. A dedução prevista no art. 45, § 1º, do Código Penal pressupõe a coincidência de beneficiários, sendo inviável na ausência de definição do destinatário da prestação pecuniária.
+Dispositivos relevantes citados:
+CP, arts. 20, 45, § 1º, 71 e 171, § 3º; CPP, art. 386, incisos III e VI; Súmula n. 7, STJ.
+Jurisprudência relevante citada:STJ, REsp 1.882.059/SC, Rel. Min. Joel Ilan Paciornik, Quinta Turma, DJe 25.10.2021.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ANDERSON HEMKEMAIER RODRIGUES contra decisão monocrática que não conheceu do recurso especial.
+O réu foi condenado às penas de 01 (um) ano, 09 (nove) meses e 10 (dez) dias de reclusão, em regime inicial aberto, substituída por duas penas restritivas de direitos (prestação de serviços à comunidade e prestação pecuniária), e ao pagamento de 78 (setenta e oito) dias-multa, como incurso no art. 171, § 3º, na forma do art. 71, ambos do Código Penal, em razão do recebimento de cinco parcelas de seguro-desemprego concomitantemente ao exercício de atividade laborativa sem registro em CTPS (fls. 141-149).
+Em sede de apelação, o Tribunal local deu parcial provimento para absolver o réu quanto às três primeiras parcelas recebidas em 12.05.2017, 11.06.2017 e 11.07.2017, mantendo a condenação relativamente às duas últimas parcelas recebidas em 10.08.2017 e 09.09.2017. A Corte também reduziu a fração da continuidade delitiva para 1/6, redimensionando as penas privativa de liberdade e de multa e também reduziu, de ofício, o valor mínimo para reparação de danos ao montante das duas últimas parcelas e rejeitou o abatimento da prestação pecuniária no valor da indenização (fls. 256-272).
+A defesa interpôs recurso especial com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, alegando violação aos arts. 386, incisos III e VI, do Código de Processo Penal, e aos arts. 20 e 45, § 1º, do Código Penal; requereu absolvição por ausência de elementos objetivos do crime e por insuficiência de provas do dolo específico, e, subsidiariamente, o ajuste da pena pecuniária com abatimento na reparação de danos (fls. 279-297).
+O recurso foi admitido pela Corte regional (fls. 318-319).
+Proferi decisão monocrática não conhecendo do recurso especial ao fundamento de que o acolhimento das teses defensivas demandaria revolvimento do conjunto fático-probatório, vedado pelo enunciado da Súmula n. 7, STJ, e de que, quanto ao abatimento da prestação pecuniária na reparação de danos, a ausência de definição do destinatário impede a dedução prevista no art. 45, §1º, do Código Penal (fls. 344-348).
+A defesa interpôs agravo regimental, em que reitera a contrariedade ao art. 386, inciso III, do Código de Processo Penal, por atipicidade da conduta e ausência de vínculo laboral formal ou informal nas duas últimas parcelas; alegou violação ao art. 20 do Código Penal (erro de tipo) e ao art. 386, inciso VI, do Código de Processo Penal; e, subsidiariamente, sustentou contrariedade ao art. 45, §1º, do Código Penal, pleiteando o abatimento da prestação pecuniária no valor da reparação de danos (fls. 353-367).
+É o relatório.
+EMENTA
+Direito Penal. Agravo Regimental. Estelionato. Recebimento indevido de seguro-desemprego. Ausência de dolo. Abatimento de prestação pecuniária na reparação de danos. Agravo regimental não provido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu de recurso especial, o qual buscava a absolvição por atipicidade ou ausência de dolo, ou, subsidiariamente, a compensação entre a prestação pecuniária e a reparação de danos.
+2. O agravante foi condenado às penas de 1 (um) ano, 9 (nove) meses e 10 (dez) dias de reclusão, em regime inicial aberto, substituída por duas penas restritivas de direitos (prestação de serviços à comunidade e prestação pecuniária), e ao pagamento de 78 (setenta e oito) dias-multa, como incurso no art. 171, §3º, na forma do art. 71, ambos do Código Penal, em razão do recebimento de cinco parcelas de seguro-desemprego concomitantemente ao exercício de atividade laborativa sem registro em CTPS.
+3. O Tribunal local deu parcial provimento à apelação para absolver o réu quanto às três primeiras parcelas recebidas, mantendo a condenação relativamente às duas últimas parcelas e rejeitando o abatimento da prestação pecuniária no valor da indenização.
+4. A decisão monocrática não conheceu do recurso especial ao fundamento de que as teses defensivas demandariam revolvimento do conjunto fático-probatório, vedado pelo enunciado da Súmula n. 7, STJ, e que a ausência de definição do destinatário impede a dedução prevista no art. 45, § 1º, do Código Penal.
+II. Questão em discussão
+5. Há duas questões em discussão: (i) saber se é possível o reconhecimento da atipicidade da conduta ou ausência de dolo na prática do crime de estelionato, considerando o recebimento indevido de seguro-desemprego concomitantemente ao exercício de atividade laboral sem registro em CTPS; e (ii) saber se é cabível o abatimento do valor da prestação pecuniária na reparação de danos, nos termos do art. 45, §1º, do Código Penal.
+III. Razões de decidir
+6. A decisão monocrática concluiu pela impossibilidade de conhecimento do recurso especial, pois o acolhimento das teses defensivas demandaria o revolvimento do conjunto fático-probatório, o que é vedado pelo enunciado da Súmula n. 7, STJ.
+7. A instância ordinária reconheceu o dolo na conduta do agravante, que manteve-se silente quanto ao benefício e afirmou que entregaria a CTPS apenas após o recebimento da última parcela, caracterizando o meio fraudulento do estelionato.
+8. Quanto ao pedido de abatimento do valor da prestação pecuniária na reparação de danos, a decisão agravada alinhou-se à jurisprudência do STJ, que exige a coincidência de beneficiários para a dedução prevista no art. 45, § 1º, do Código Penal, o que não foi definido no acórdão recorrido.
+9. O parecer do Ministério Público Federal concluiu pela suficiência das provas de materialidade, autoria e dolo, e pela inviabilidade de reexame probatório na via especial.
+IV. Dispositivo e tese
+10. Resultado do Julgamento: Agravo regimental não provido.
+Tese de julgamento:
+1. O revolvimento do conjunto fático-probatório é vedado na via especial, conforme o enunciado da Súmula n. 7, STJ. 2. A dedução prevista no art. 45, § 1º, do Código Penal pressupõe a coincidência de beneficiários, sendo inviável na ausência de definição do destinatário da prestação pecuniária.
+Dispositivos relevantes citados:
+CP, arts. 20, 45, § 1º, 71 e 171, § 3º; CPP, art. 386, incisos III e VI; Súmula n. 7, STJ.
+Jurisprudência relevante citada:STJ, REsp 1.882.059/SC, Rel. Min. Joel Ilan Paciornik, Quinta Turma, DJe 25.10.2021.
+VOTO
+Presentes os pressupostos de admissibilidade, conheço do agravo regimental.
+Pretende a defesa a reforma da decisão monocrática para o conhecimento do recurso especial a fim de viabilizar a absolvição por atipicidade ou por ausência de dolo, ou, subsidiariamente, a compensação entre a prestação pecuniária e a reparação de danos.
+Verifico que a decisão agravada examinou os pontos controvertidos e concluiu, de forma adequada, pela impossibilidade de conhecimento do apelo extremo.
+Quanto à tese de atipicidade por ausência de elementos objetivos do crime e ao alegado erro de tipo, a instância ordinária assentou, com base em prova judicial e documental, que o réu recebeu, indevidamente, as duas últimas parcelas do seguro-desemprego enquanto exercia atividade laborativa sem registro, mantendo-se silente quanto ao benefício e afirmando que somente entregaria a CTPS após a última parcela; reconheceu o dolo na modalidade manter em erro, destacando a idoneidade do silêncio malicioso para caracterizar o meio fraudulento do estelionato. Para infirmar essas premissas e acolher que não se tem qualquer prova da existência de qualquer tipo de vínculo de trabalho ou que não é possível concluir que o agravante detinha consciência acerca da natureza delituosa seria imprescindível o revolvimento do conjunto fático-probatório, providência vedada pelo enunciado da Súmula n. 7, STJ.
+Registro, ainda, que o parecer do Ministério Público Federal concluiu pela suficiência das provas de materialidade, autoria e dolo e pela inviabilidade de reexame probatório na via especial, ressaltando que o conjunto probatório é suficiente para atestar a presença do dolo e da culpabilidade do recorrente em usufruir indevidamente do seguro-desemprego enquanto exercia concomitantemente atividade laboral e que entender pela absolvição demandaria, necessariamente, o revolvimento do material fático-probatório.
+No que toca ao pedido de abatimento do valor da prestação pecuniária na reparação de danos, a decisão agravada alinhou-se à jurisprudência desta Corte ao consignar que a dedução prevista no art. 45, §1º, do Código Penal pressupõe a coincidência de beneficiários, o que não foi definido no acórdão recorrido.
+Transcrevo a norma invocada:
+"§ 1º A prestação pecuniária consiste no pagamento em dinheiro à vítima, a seus dependentes ou a entidade pública ou privada com destinação social, de importância fixada pelo juiz, não inferior a 1 (um) salário mínimo nem superior a 360 (trezentos e sessenta) salários mínimos. O valor pago será deduzido do montante de eventual condenação em ação de reparação civil, se coincidentes os beneficiários."
+No precedente citado na decisão agravada, assentou-se que, "sendo coincidentes os beneficiários da prestação pecuniária e da reparação de danos, é impositiva a dedução do montante fixado com fundamento no art. 387, inciso IV, do Código de Processo Penal do que foi estipulado com fundamento no art. 45, § 1º, do Código Penal" (REsp n. 1.882.059/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 25/10/2021) (fl. 347).
+No caso, a instância antecedente registrou, expressamente, que "o magistrado não definiu o destinatário da prestação pecuniária e se esta vai ser compensada, não há falar em dedução do valor da segund a do montante da primeira ou vice-versa" (fl. 268), o que inviabiliza o acolhimento da pretensão defensiva nesta sede.
+Diante desse quadro, reconheço que o agravo regimental não trouxe argumento capaz de afastar os fundamentos da decisão monocrática, que, por seus próprios fundamentos, deve ser mantida.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
