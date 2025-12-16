@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de AMADEU ALVES DE FREITAS - em execução de pena, com regressão do regime semiaberto para o fechado por suposta falta grave -, em que a defesa aponta como autoridade coatora o Tribunal de Justiça do Rio Grande do Norte, que negou provimento ao agravo em execução penal, mantendo a regressão (Agravo de Execução Penal n. 0814395-58.2025.8.20.0000).
+Em síntese, o impetrante alega ausência de dolo do paciente, destacando sua apresentação espontânea à Central de Monitoramento em 23/5/2025, com o equipamento instalado, sem indício de violação, seria incompatível com fuga ou burla ao monitoramento.
+Sustenta inexistência de prova técnica idônea: não houve inspeção ou perícia do equipamento; o Ofício n. 64/2025/SEAP-CEME apenas registrou perda de sinal GPRS desde 5/12/2024, sem apontar causa, não permitindo concluir por descarga voluntária da bateria ou manipulação indevida.
+Afirma hipervulnerabilidade do paciente - idoso, analfabeto, portador de deficiência, residente em zona rural - com provável dificuldade de percepção de falha técnica e instabilidade de sinal na região, afastando a imputação de conduta voluntária.
+Aponta falha de comunicação efetiva: o número telefônico informado à CEME pertence à filha, o paciente não possui celular, não havendo demonstração de ciência ou de descumprimento deliberado.
+Aduz violação do procedimento obrigatório da Portaria Conjunta n. 92/2025 do TJRN, art. 3º, § 3º, que exige inspeção técnica, eventual substituição de peças e comunicação ao juízo apenas quando constatada intervenção intencional - protocolo não observado.
+Em caráter liminar, pede o restabelecimento imediato do regime semiaberto e a suspensão dos efeitos do acórdão no Agravo de Execução Penal n. 0814395-58.2025.8.20.0000 até o julgamento final, ou, alternativamente, a expedição de alvará de soltura.
+No mérito, requer a concessão definitiva da ordem para afastar o reconhecimento da falta grave e restabelecer o regime semiaberto, por ausência de dolo, inexistência de prova técnica e descumprimento do procedimento da Lei de Execução Penal e da Portaria Conjunta n. 92/2025 (fls. 2/13) - (Processo n. 0500003-89.2013.8.20.0136, da 1ª Vara Regional de Execução Penal de Natal/RN).
+É o relatório.
+A concessão de ordem de habeas corpus demanda demonstração da ilegalidade, ônus que recai sobre a parte impetrante, a quem cumpre instruir o feito com a prova pré-constituída de suas alegações.
+In casu, verifico, de plano, a inviabilidade do presente writ.
+O Tribunal local manteve a falta grave aos seguintes termos (fl. 25):
+Ademais, a teor dos precedentes do STJ, " ..  a violação da tornozeleira eletrônica, o descarregamento total da bateria, a perda da comunicação com o sistema configura falta grave, nos termos dos arts. 50, II da LEP, pois o apenado, com sua conduta, descumpre as ordens do servidor (AgRg no HC n. responsável pela monitoração e impede a fiscalização da execução da pena." 821.741/GO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 21/8/2023, DJe de 24/8/2023.)
+Na espécie, o relatório da Central de Monitoramento Eletrônico - CEME registrou a ausência de sinal de GPRS desde 05/12/2024, sem que o apenado tenha atendido às sucessivas tentativas de contato realizadas pela equipe responsável, culminando em sua apresentação somente em 23/05/2025, com o equipamento totalmente desligado.
+Ainda que a defesa alegue deficiência educacional, dificuldades de deslocamento e ausência de dolo, tais circunstâncias não se mostram aptas a afastar a caracterização da falta grave. Isso porque o próprio dispositivo emite sinais sonoros e vibratórios que indicam a necessidade de recarga, e o agravante já havia sido orientado sobre as condições de uso quando da instalação do equipamento.
+O descumprimento persistente das condições do regime semiaberto harmonizado, notadamente a manutenção da tornozeleira descarregada por período superior a cinco meses, inviabilizou o monitoramento e frustrou a fiscalização estatal, configurando verdadeira fuga, nos termos do art. 50, VI, c/c art. 39, V, da LEP
+É pacífico o entendimento de que a via do habeas corpus é imprópria para a análise das teses de insuficiência probatória, responsabilização disciplinar coletiva, atipicidade da conduta ou desclassificação da conduta, dada a necessidade de incursão na seara fático-probatória, incabível nesta sede (AgRg no HC n. 328.288/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 13/3/2017).
+Tal conclusão, acerca da absolvição, só poderia ser revista mediante incursão nas provas, medida essa incabível na via do mandamus, uma vez que a instância local assentou o descumprimento de condições do monitoramento eletrônico.
+Assim, inviável a absolvição da conduta.
+Ante o exposto, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. ABSOLVIÇÃO. NECESSÁRIO REVOLVIMENTO DA MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Petição inicial indeferida liminarmente.
