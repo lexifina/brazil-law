@@ -1,0 +1,15 @@
+DECISÃO
+Em análise, embargos de declaração opostos pelo INSTITUTO DE PREVIDÊNCIA DO ESTADO DO RIO GRANDE DO SUL à decisão monocrática que deu provimento ao recurso especial para reconhecer o direito da parte recorrente aos honorários advocatícios, determinando o retorno dos autos à origem para sua fixação (fls. 994-1.001).
+A parte embargante alega, em síntese, a existência de contradição e omissão na decisão recorrida. Sustenta que o decisum fundamentou o direito aos honorários no art. 1º-D da Lei 9.494/1997 (incluído pela MP 2.180-35/2001); mas que o trânsito em julgado dos embargos à execução ocorreu em 1999, data anterior à existência da referida norma. Aduz, ainda, contradição ao determinar a aplicação do CPC/2015 para fixação da verba, quando a própria decisão reconheceu que o direito não foi criado pelo novo Código, devendo ser respeitadas as situações jurídicas consolidadas sob o CPC/1973.
+Impugnação da parte embargada pugnando pela rejeição dos embargos e manutenção da decisão (fls. 1.013-1.034).
+É o relatório.
+Passo a decidir.
+Nos termos do que dispõe o art. 1.022 do CPC/2015, cabem embargos de declaração contra decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes. A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão.
+No caso, a decisão embargada foi clara ao aplicar a jurisprudência pacífica desta Corte Superior no sentido de que são devidos honorários advocatícios no cumprimento de sentença contra a Fazenda Pública, submetido ao regime de precatórios, sempre que houver resistência do ente público, materializada por meio de impugnação ou embargos à execução.
+A menção ao art. 1º-D da Lei 9.494/1997 na fundamentação teve o propósito de demonstrar a evolução legislativa e a consistência do sistema jurídico quanto à causalidade e à resistência justificada, não havendo incompatibilidade lógica com a conclusão de que, havendo litígio (embargos opostos), a verba honorária é devida.
+Ademais, verifica-se que a pretensão da parte embargante reveste-se de nítido caráter infringente, buscando a rediscussão do mérito julgado sob o pretexto de vícios de integração, o que não se admite na via estreita dos aclaratórios. O entendimento aplicado considerou a existência de pretensão executiva resistida como fato gerador do direito aos honorários, alinhando-se aos precedentes citados (AgInt no REsp n. 1.888.832/RS e AgInt no REsp n. 1.880.953/RS).
+Conforme jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: AgInt no AREsp n. 2.372.143/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 21/11/2023.
+Isso posto, rejeito os embargos de declaração.
+Intimem-se.
+EMENTA
