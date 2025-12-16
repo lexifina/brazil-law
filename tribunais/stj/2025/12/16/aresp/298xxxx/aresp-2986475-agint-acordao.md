@@ -1,0 +1,70 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/12/2025 a 16/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO PRIVADO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL POR FRAUDE PRATICADA POR TERCEIRO. NEXO CAUSAL E CULPA EXCLUSIVA DO CONSUMIDOR OU DE TERCEIRO. AGRAVO INTERNO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto contra decisão monocrática que negou provimento ao agravo em recurso especial, afastando violação dos arts. 489 e 1.022 do CPC, aplicando as Súmulas n. 7 e 83 do STJ e reconhecendo a inadmissibilidade por dissídio jurisprudencial ante a ausência de cotejo analítico e o óbice da Súmula n. 7.
+2. A controvérsia diz respeito à ação de obrigação de fazer c/c declaratória de inexistência de débito c/c indenização por danos morais, com tutela de urgência, cujo valor da causa foi fixado em R$ 32.543,90.
+3. Na sentença, o Juízo de primeiro grau julgou improcedentes os pedidos, revogou a tutela de urgência e fixou honorários em 10% do valor da causa.
+4. A Corte de origem manteve integralmente a sentença, concluindo pela ausência de responsabilidade das instituições financeiras por culpa exclusiva do consumidor ou de terceiro, nos termos do art. 14, § 3º, II, do CDC.
+II. QUESTÃO EM DISCUSSÃO
+5. Há quatro questões em discussão: (i) saber se houve negativa de prestação jurisdicional, com violação dos arts. 489, § 1º, I, II, III e VI, e 1.022, I e II, do CPC; (ii) saber se é inaplicável a Súmula n. 83 do STJ, devendo incidir a Súmula n. 479 do STJ; (iii) saber se não incide a Súmula n. 7 do STJ por se tratar de revaloração jurídica de fatos incontroversos; e (iv) saber se foi comprovado o dissídio jurisprudencial, com cotejo analítico, sem óbice da Súmula n. 7 do STJ.
+III. RAZÕES DE DECIDIR
+6. Não há negativa de prestação jurisdicional: o acórdão estadual enfrentou os pontos essenciais, explicitou a ausência de nexo causal e a culpa exclusiva do consumidor ou de terceiro, afastando violação dos arts. 489 e 1.022 do CPC.
+7. A aplicação da Súmula n. 83 do STJ se mantém: embora haja responsabilidade por fortuito interno, é indispensável o nexo causal, que se rompe por fato exclusivo da vítima ou de terceiro (art. 14, § 3º, II, do CDC).
+8. Incide a Súmula n. 7 do STJ: a responsabilização pretendida demanda revolvimento do acervo fático-probatório, especialmente sobre a origem da fraude, o canal utilizado, a conferência dos dados do boleto e a conduta do consumidor.
+9. Não se comprova o dissídio jurisprudencial: faltou cotejo analítico adequado e o óbice da Súmula n. 7 impede o conhecimento pela alínea c na mesma matéria.
+IV. DISPOSITIVO E TESE
+10. Agravo interno desprovido.
+Tese de julgamento: "1. Ausente negativa de prestação jurisdicional quando o Tribu nal de origem enfrenta as questões essenciais, não incidindo violação dos arts. 489 e 1.022 do CPC. 2. Incide a Súmula n. 83 do STJ quando o acórdão recorrido se harmoniza com a jurisprudência desta Corte, exigindo nexo causal para responsabilização, nos termos do art. 14, § 3º, II, do CDC. 3. Aplica-se a Súmula n. 7 do STJ se a pretensão demanda reexame de provas sobre a dinâmica da fraude e a conduta do consumidor. 4. O dissídio jurisprudencial não se comprova sem cotejo analítico e não supera o óbice da Súmula n. 7".
+Dispositivos relevantes citados: CPC, arts. 489, § 1º, I, II, III, VI, 1.022, I, II, 1.021, § 4º; CDC, art. 14, § 3º, II; CC, arts. 186, 927.
+Jurisprudência relevante citada: STJ, Súmulas n. 83, 7; STJ, AgInt no AREsp n. 2.330.041/MG, relator Ministro Marco Buzzi, Quarta Turma, julgado em 4/9/2023; STJ, REsp n. 2.046.026/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 13/6/2023; STJ, AgInt no RMS n. 51.042/MG, relator Ministro Mauro Campbell Marques, Segunda Turma, julgados em 28/3/2017.
+RELATÓRIO
+Trata-se de agravo interno interposto por APARECIDO SANTOS ASSIS contra a decisão de fls. 558-565, que negou provimento ao agravo em recurso especial, em razão do afastamento de ofensa aos arts. 489, II, § 1º, I, II, III, IV e VI, e 1.022, I e II, parágrafo único, I e II, do CPC; da aplicação das Súmulas n. 7 e 83 do STJ quanto ao mérito (responsabilidade por fraude praticada por terceiro e necessidade de nexo causal) e da inadmissibilidade por dissídio jurisprudencial ante a ausência de cotejo analítico e o óbice da Súmula n. 7 do STJ.
+Alega que houve negativa de prestação jurisdicional, com violação dos arts. 489, § 1º, I, II, III e VI, e 1.022, I e II, do CPC, pois o acórdão do TJMS não enfrentou questão relevante sobre a condenação da PAGSEGURO INTERNET INSTITUIÇÃO DE PAGAMENTO S. A. a repassar R$ 2.543,90, sustentando precedentes do STJ.
+Sustenta a inaplicabilidade da Súmula n. 83 do STJ, afirmando que deve incidir a Súmula n. 479 do STJ (fortuito interno) para responsabilizar as instituições financeiras por fraudes de terceiros em operações bancárias.
+Afirma que não incide a Súmula n. 7 do STJ, por tratar-se de revaloração jurídica de fatos incontroversos, com fundamento em precedentes do STJ sobre revaloração de provas.
+Aduz que comprovou o dissídio jurisprudencial, com cotejo analítico, e que a barreira da Súmula n. 7 não impede o conhecimento pela alínea c.
+Requer o recebimento do agravo com efeitos ativo e suspensivo; a intimação dos agravados; a revisão da decisão agravada para dar seguimento ao recurso especial; e a publicação exclusiva em nome do patrono.
+Contrarrazões de PAGSEGURO INTERNET INSTITUIÇÃO DE PAGAMENTO S. A., em que pleiteia o não conhecimento do recurso com aplicação da multa prevista no art. 1.021, § 4º, do CPC.
+É o relatório.
+EMENTA
+DIREITO PRIVADO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL POR FRAUDE PRATICADA POR TERCEIRO. NEXO CAUSAL E CULPA EXCLUSIVA DO CONSUMIDOR OU DE TERCEIRO. AGRAVO INTERNO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto contra decisão monocrática que negou provimento ao agravo em recurso especial, afastando violação dos arts. 489 e 1.022 do CPC, aplicando as Súmulas n. 7 e 83 do STJ e reconhecendo a inadmissibilidade por dissídio jurisprudencial ante a ausência de cotejo analítico e o óbice da Súmula n. 7.
+2. A controvérsia diz respeito à ação de obrigação de fazer c/c declaratória de inexistência de débito c/c indenização por danos morais, com tutela de urgência, cujo valor da causa foi fixado em R$ 32.543,90.
+3. Na sentença, o Juízo de primeiro grau julgou improcedentes os pedidos, revogou a tutela de urgência e fixou honorários em 10% do valor da causa.
+4. A Corte de origem manteve integralmente a sentença, concluindo pela ausência de responsabilidade das instituições financeiras por culpa exclusiva do consumidor ou de terceiro, nos termos do art. 14, § 3º, II, do CDC.
+II. QUESTÃO EM DISCUSSÃO
+5. Há quatro questões em discussão: (i) saber se houve negativa de prestação jurisdicional, com violação dos arts. 489, § 1º, I, II, III e VI, e 1.022, I e II, do CPC; (ii) saber se é inaplicável a Súmula n. 83 do STJ, devendo incidir a Súmula n. 479 do STJ; (iii) saber se não incide a Súmula n. 7 do STJ por se tratar de revaloração jurídica de fatos incontroversos; e (iv) saber se foi comprovado o dissídio jurisprudencial, com cotejo analítico, sem óbice da Súmula n. 7 do STJ.
+III. RAZÕES DE DECIDIR
+6. Não há negativa de prestação jurisdicional: o acórdão estadual enfrentou os pontos essenciais, explicitou a ausência de nexo causal e a culpa exclusiva do consumidor ou de terceiro, afastando violação dos arts. 489 e 1.022 do CPC.
+7. A aplicação da Súmula n. 83 do STJ se mantém: embora haja responsabilidade por fortuito interno, é indispensável o nexo causal, que se rompe por fato exclusivo da vítima ou de terceiro (art. 14, § 3º, II, do CDC).
+8. Incide a Súmula n. 7 do STJ: a responsabilização pretendida demanda revolvimento do acervo fático-probatório, especialmente sobre a origem da fraude, o canal utilizado, a conferência dos dados do boleto e a conduta do consumidor.
+9. Não se comprova o dissídio jurisprudencial: faltou cotejo analítico adequado e o óbice da Súmula n. 7 impede o conhecimento pela alínea c na mesma matéria.
+IV. DISPOSITIVO E TESE
+10. Agravo interno desprovido.
+Tese de julgamento: "1. Ausente negativa de prestação jurisdicional quando o Tribu nal de origem enfrenta as questões essenciais, não incidindo violação dos arts. 489 e 1.022 do CPC. 2. Incide a Súmula n. 83 do STJ quando o acórdão recorrido se harmoniza com a jurisprudência desta Corte, exigindo nexo causal para responsabilização, nos termos do art. 14, § 3º, II, do CDC. 3. Aplica-se a Súmula n. 7 do STJ se a pretensão demanda reexame de provas sobre a dinâmica da fraude e a conduta do consumidor. 4. O dissídio jurisprudencial não se comprova sem cotejo analítico e não supera o óbice da Súmula n. 7".
+Dispositivos relevantes citados: CPC, arts. 489, § 1º, I, II, III, VI, 1.022, I, II, 1.021, § 4º; CDC, art. 14, § 3º, II; CC, arts. 186, 927.
+Jurisprudência relevante citada: STJ, Súmulas n. 83, 7; STJ, AgInt no AREsp n. 2.330.041/MG, relator Ministro Marco Buzzi, Quarta Turma, julgado em 4/9/2023; STJ, REsp n. 2.046.026/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 13/6/2023; STJ, AgInt no RMS n. 51.042/MG, relator Ministro Mauro Campbell Marques, Segunda Turma, julgados em 28/3/2017.
+VOTO
+A irresignação não reúne condições de prosperar.
+A controvérsia diz respeito à ação de obrigação de fazer c/c declaratória de inexistência de débito c/c indenização por danos morais, em que a parte autora pleiteou a declaração de inexistência do débito, indenização por danos morais e materiais e tutela de urgência para impedir busca e apreensão e negativação. O valor da causa foi fixado em R$ 32.543,90.
+Na sentença, o Juízo de primeiro grau julgou improcedentes os pedidos, revogou a tutela de urgência e fixou honorários em 10% do valor da causa.
+A Corte a quo manteve integralmente a sentença, concluindo pela ausência de responsabilidade das instituições financeiras, por culpa exclusiva do consumidor ou de terceiro, nos termos do art. 14, § 3º, II, do CDC.
+Sobreveio recurso especial, em que o recorrente alegou violação dos arts. 489 e 1.022 do CPC (negativa de prestação jurisdicional), dos arts. 186 e 927 do CC e do art. 14, § 3º, II, do CDC, além de dissídio jurisprudencial.
+Nas razões do agravo interno, sustenta que houve omissão relevante não suprida pelos embargos de declaração; que deve prevalecer a Súmula n. 479 do STJ e afastar-se a Súmula n. 83; que não se aplica a Súmula n. 7 por se tratar de revaloração jurídica; e que houve cotejo analítico suficiente para o dissídio.
+Conforme consta na decisão agravada, não se configurou ofensa aos arts. 489 e 1.022 do CPC. O acórdão estadual enfrentou os pontos essenciais, explicitou a ausência de nexo causal e a culpa exclusiva do consumidor ou de terceiro, e indicou as razões pelas quais afastou a responsabilidade das instituições financeiras.
+Assim, não obstante as alegações apresentadas neste agravo interno em relação à negativa de prestação jurisdicional, não há como afastar o fundamento de que o Tribunal estadual examinou, de modo claro e suficiente, a controvérsia, não incidindo vício capaz de anular o acórdão.
+De igual modo, não prospera o recurso quanto à pretendida aplicação da Súmula n. 479 do STJ para substituir os óbices fixados. A decisão agravada assentou que, embora as instituições respondam por fortuito interno, é indispensável o liame causal, que se rompe diante de fato exclusivo da vítima ou de terceiros (art. 14, § 3º, II, do CDC), solução que se harmoniza com a orientação desta Corte, razão pela qual incide a Súmula n. 83 do STJ.
+Nesse contexto, mantém-se o entendimento de que o acórdão recorrido está alinhado com a jurisprudência do STJ e que a reversão da conclusão demandaria o revolvimento do acervo fático-probatório, obstado pela Súmula n. 7 do STJ.
+Nesse sentido:AgInt no AREsp n. 2.330.041/MG, relator Ministro Marco Buzzi, Quarta Turma, julgado em 4/9/2023, DJe de 8/9/2023; REsp n. 2.046.026/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 13/6/2023, DJe de 27/6/2023.
+Quanto à tese de que a controvérsia permitiria mera revaloração jurídica de fatos incontroversos, a decisão agravada foi precisa ao apontar que a responsabilização pretendida exigiria reexame das premissas fáticas estabelecidas pelo Tribunal estadual, especialmente sobre a origem da fraude, o canal utilizado, a conferência dos dados do boleto e a conduta do consumidor, o que atrai o óbice da Súmula n. 7 do STJ.
+Desse modo, deve ser mantida a conclusão de inviabilidade de conhecimento do mérito do recurso especial sob a alínea a, e, por consequência, a incidência da Súmula n. 7 também impede o conhecimento pela alínea c na mesma matéria, ante a ausência de cotejo analítico adequado.
+Portanto, a parte agravante não logrou êxito em demonstrar situação superveniente que justificasse a alteração da decisão agravada.
+No que se refere à aplicação do art. 1.021, § 4º, do Código de Processo Civil, pleiteada em contrarrazões, a orientação desta Corte é no sentido de que "a multa aludida no art. 1.021, §§ 4º e 5º, do CPC/2015, não se aplica em qualquer hipótese de inadmissibilidade ou de improcedência, mas apenas em situações que se revelam qualificadas como de manifesta inviabilidade de conhecimento do agravo interno ou de impossibilidade de acolhimento das razões recursais porque inexoravelmente infundadas" (AgInt no RMS n. 51.042/MG, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 28/3/2017, DJe de 3/4/2017).
+No caso, apesar do desprovimento do agravo interno, não está configurada a manifesta inadmissibilidade, razão pela qual é incabível a aplicação de multa.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
