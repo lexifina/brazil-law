@@ -1,0 +1,99 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/12/2025 a 16/12/2025, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro João Otávio de Noronha.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. USUCAPIÃO DE BEM MÓVEL; REGULARIZAÇÃO CADASTRAL DE VEÍCULO. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E NEGAR-LHE PROVIMENTO.
+I. CASO EM EXAME
+1. Agravo em recurso especial interposto contra decisão que inadmitiu o recurso especial por ausência de negativa de prestação jurisdicional quanto ao art. 1.022 do CPC, necessidade de reexame de provas (Súmula n. 7 do STJ) e não comprovação do dissídio jurisprudencial por falta de similitude fática.
+2. A controvérsia envolve ação de usucapião de bem móvel para reconhecer propriedade e viabilizar transferência e regularização de veículo junto ao órgão de trânsito; O valor da causa foi fixado em R$ 17.500,00.
+3. Na sentença, o Juízo de primeiro grau julgou improcedente a demanda e condenou ao pagamento das custas.
+4. A Corte de origem deu parcial provimento à apelação apenas para extinguir o feito sem resolução de mérito por falta de interesse de agir, por ser inadmissível utilizar a usucapião para regularização cadastral de veículo com vício de numeração do motor.
+II. QUESTÃO EM DISCUSSÃO
+5. Há sete questões em discussão: (i) saber se houve violação do art. 1.022 do CPC por omissão e contradição no acórdão; (ii) saber se os arts. 1.267 do CC autorizam a declaração de propriedade pela tradição para suprir a regularização administrativa; (iii) saber se os arts. 1.260 e 1.261 do CC permitem a usucapião do veículo pela posse desde 2006; (iv) saber se houve afronta ao art. 114 da Lei n. 9.503/1997 (CTB); (v) saber se o art. 5º da Resolução n. 282/2008 do CONTRAN pode ser afastado judicialmente; (vi) saber se houve violação dos arts. 489 e 1.022 do CPC por falta de fundamentação e negativa de prestação jurisdicional; e (vii) saber se há dissídio jurisprudencial apto a ensejar conhecimento pela alínea c do art. 105, III, da Constituição Federal.
+III. RAZÕES DE DECIDIR
+6. Não se verifica ofensa ao art. 1.022 do CPC, pois o Tribunal estadual analisou os pontos relevantes e concluiu pela inexistência de vícios na decisão.
+7. Aplica-se a Súmula n. 7 do STJ, pois a pretensão demanda reexame do conjunto fático-probatório quanto à utilização da usucapião e aos requisitos materiais.
+8. O recurso especial não é via adequada para análise de resolução administrativa, portaria ou regimento interno.
+9. A divergência jurisprudencial não foi comprovada por ausência de cotejo analítico e similitude fática, ficando prejudicada também pela incidência da Súmula n. 7 do STJ.
+IV. DISPOSITIVO E TESE
+10. Agravo em recurso especial conhecido para conhecer em parte do recurso especial e negar-lhe provimento.
+Tese de julgamento: "1. Não há violação do art. 1.022 do CPC quando o acórdão enfrenta os pontos essenciais e rejeita embargos declaratórios por ausência de vícios. 2. Incide a Súmula n. 7 do STJ quando a pretensão recursal demanda reexame de fatos e provas. 3. O recurso especial não comporta análise de resolução administrativa, portaria ou regimento interno. 4. A divergência jurisprudencial resta prejudicada ante a falta de cotejo analítico e de similitude fática, além do óbice da Súmula n. 7 do STJ".
+Dispositivos relevantes citados: CPC, arts. 1.022, 489, 85 § 11; CC, arts. 1.267, 1.260, 1.261; Lei n. 9.503/1997, art. 114; Resolução n. 282/2008, art. 5º.
+Jurisprudência relevante citada: STJ, Súmula n. 7; STJ, AgInt no AREsp n. 2.241.725/GO, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 2/10/2023.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por MULTIMOVEIS INDUSTRIA DE MOVEIS LTDA contra a decisão que inadmitiu o recurso especial, por ausência de negativa de prestação jurisdicional quanto ao art. 1.022 do Código de Processo Civil, pela necessidade de reexame do conjunto fático-probatório dos autos, com incidência da Súmula n. 7 do STJ, e pela não comprovação do dissídio jurisprudencial, ante a falta de similitude fática, sendo inviável o conhecimento pela alínea c em face do mesmo óbice.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial foi interposto com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul em apelação cível nos autos de ação de usucapião de bem móvel.
+O julgado foi assim ementado (fl. 254):
+APELAÇÃO CÍVEL. AÇÃO DE USUCAPIÃO DE BEM MÓVEL. IMPOSSIBILIDADE DE UTILIZAÇÃO DA AÇÃO PARA REGULARIZAÇÃO DA SITUAÇÃO CADASTRAL DO VEÍCULO. MOTOR COM ADULTERAÇÃO DA NUMERAÇÃO. EXTINÇÃO SEM RESOLUÇÃO DE MÉRITO. A ação de usucapião não pode ser utilizada para regularização de circulação de veículo perante o órgão competente, formalidade de conteúdo administrativo. Situação fática que importa em extinção por falta de interesse de agir, na forma do art. 485, VI, do CPC.
+APELAÇÃO PARCIALMENTE PROVIDA.
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação dos seguintes artigos:
+a) 1.022 do Código de Processo Civil, porque o acórdão teria sido omisso e contraditório ao não analisar integralmente as teses sobre a viabilidade da usucapião para regularização do veículo e os argumentos quanto aos arts. 1.267, 1.260 e 1.261 do Código Civil, bem como ao não enfrentar o precedente do STJ indicado;
+b) 1.267 do Código Civil, já que a propriedade de coisa móvel se transfere pela tradição e, para veículos, a ausência de registro limita o exercício da propriedade, justificando o reconhecimento judicial para viabilizar a regularização administrativa;
+c) 1.260 e 1.261 do Código Civil, pois a posse mansa e pacífica desde 2006 teria preenchido os requisitos da prescrição aquisitiva, independentemente de título ou boa-fé;
+d) 114 da Lei n. 9.503/1997 (Código de Trânsito Brasileiro), porque não haveria infringência ao dispositivo na hipótese de usucapião extraordinária de bem móvel;
+e) 5º da Resolução CONTRAN n. 282/2008, porquanto as exigências administrativas não seriam atendíveis na adjudicação, justificando o suprimento judicial para permitir a transferência;
+f) 489 e 1.022 do Código de Processo Civil, porque o acórdão teria incorrido em omissão, contradição e falta de fundamentação ao não enfrentar as teses sobre cabimento da usucapião para regularização do veículo e ao não examinar os precedentes e a prova testemunhal, apesar dos embargos de declaração.
+Sustenta divergência jurisprudencial com os REsps n. 1.528.626/RS e 1.582.177/RJ, uma vez que, em casos análogos, o STJ teria reconhecido o interesse de agir e a possibilidade de usucapião de veículos, mesmo diante de vícios e sem título ou boa-fé.
+Requer á vista do exposto, requer se dignem Vossas Excelências a receber, conhecer e processar o presente recurso, pela negativa de vigência dos artigos infraconstitucionais acima elencados, e, também, pelo dissídio jurisprudencial demonstrado, para, ao final, dar-lhe provimento, reformando-se na totalidade a decisão recorrida que rejeitou a apelação e os Embargos de Declaração, a fim de que declarar o domínio da recorrente sobre o veículo IMP/RENAULT TRAFIC FLC, ano/modelo 1998, cor branca, chassis n.º 8A1TA1CZZWS006389, Renavam n.º 708984800, n.º do motor UDA002082, em conformidade com a fundamentação retro.
+É o relatório.
+EMENTA
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. USUCAPIÃO DE BEM MÓVEL; REGULARIZAÇÃO CADASTRAL DE VEÍCULO. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E NEGAR-LHE PROVIMENTO.
+I. CASO EM EXAME
+1. Agravo em recurso especial interposto contra decisão que inadmitiu o recurso especial por ausência de negativa de prestação jurisdicional quanto ao art. 1.022 do CPC, necessidade de reexame de provas (Súmula n. 7 do STJ) e não comprovação do dissídio jurisprudencial por falta de similitude fática.
+2. A controvérsia envolve ação de usucapião de bem móvel para reconhecer propriedade e viabilizar transferência e regularização de veículo junto ao órgão de trânsito; O valor da causa foi fixado em R$ 17.500,00.
+3. Na sentença, o Juízo de primeiro grau julgou improcedente a demanda e condenou ao pagamento das custas.
+4. A Corte de origem deu parcial provimento à apelação apenas para extinguir o feito sem resolução de mérito por falta de interesse de agir, por ser inadmissível utilizar a usucapião para regularização cadastral de veículo com vício de numeração do motor.
+II. QUESTÃO EM DISCUSSÃO
+5. Há sete questões em discussão: (i) saber se houve violação do art. 1.022 do CPC por omissão e contradição no acórdão; (ii) saber se os arts. 1.267 do CC autorizam a declaração de propriedade pela tradição para suprir a regularização administrativa; (iii) saber se os arts. 1.260 e 1.261 do CC permitem a usucapião do veículo pela posse desde 2006; (iv) saber se houve afronta ao art. 114 da Lei n. 9.503/1997 (CTB); (v) saber se o art. 5º da Resolução n. 282/2008 do CONTRAN pode ser afastado judicialmente; (vi) saber se houve violação dos arts. 489 e 1.022 do CPC por falta de fundamentação e negativa de prestação jurisdicional; e (vii) saber se há dissídio jurisprudencial apto a ensejar conhecimento pela alínea c do art. 105, III, da Constituição Federal.
+III. RAZÕES DE DECIDIR
+6. Não se verifica ofensa ao art. 1.022 do CPC, pois o Tribunal estadual analisou os pontos relevantes e concluiu pela inexistência de vícios na decisão.
+7. Aplica-se a Súmula n. 7 do STJ, pois a pretensão demanda reexame do conjunto fático-probatório quanto à utilização da usucapião e aos requisitos materiais.
+8. O recurso especial não é via adequada para análise de resolução administrativa, portaria ou regimento interno.
+9. A divergência jurisprudencial não foi comprovada por ausência de cotejo analítico e similitude fática, ficando prejudicada também pela incidência da Súmula n. 7 do STJ.
+IV. DISPOSITIVO E TESE
+10. Agravo em recurso especial conhecido para conhecer em parte do recurso especial e negar-lhe provimento.
+Tese de julgamento: "1. Não há violação do art. 1.022 do CPC quando o acórdão enfrenta os pontos essenciais e rejeita embargos declaratórios por ausência de vícios. 2. Incide a Súmula n. 7 do STJ quando a pretensão recursal demanda reexame de fatos e provas. 3. O recurso especial não comporta análise de resolução administrativa, portaria ou regimento interno. 4. A divergência jurisprudencial resta prejudicada ante a falta de cotejo analítico e de similitude fática, além do óbice da Súmula n. 7 do STJ".
+Dispositivos relevantes citados: CPC, arts. 1.022, 489, 85 § 11; CC, arts. 1.267, 1.260, 1.261; Lei n. 9.503/1997, art. 114; Resolução n. 282/2008, art. 5º.
+Jurisprudência relevante citada: STJ, Súmula n. 7; STJ, AgInt no AREsp n. 2.241.725/GO, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 2/10/2023.
+VOTO
+I - Contextualização
+A MULTIMÓVEIS INDÚSTRIA DE MÓVEIS LTDA. ajuizou ação de usucapião de bem móvel visando reconhecer a propriedade e obter a transferência, junto ao DETRAN-RS, de veículo IMP/Renault Trafic FLC adjudicado em execução em 2006, cuja regularização foi obstada pela constatação de adulteração da numeração do motor. O valor da causa foi fixado em R$ 17.500,00.
+A autora sustentou preencher os requisitos da prescrição aquisitiva e afirmou que a usucapião serviria como suprimento judicial para viabilizar a regularização administrativa, dispensando a exigência de registro que, no caso de automóveis, restringiria o exercício da propriedade.
+O Juízo de origem julgou improcedente a demanda e condenou a autora ao pagamento das custas processuais.
+Em apelação, a recorrente reiterou que a propriedade de coisa móvel se transfere pela tradição e defendeu a viabilidade da usucapião para superar o impasse administrativo, mantendo a desnecessidade de participação do DETRAN-RS e a configuração dos requisitos da usucapião.
+A Corte estadual deu parcial provimento, apenas para alterar o fundamento da extinção do feito para falta de interesse processual, sem resolução de mérito, por entender que a ação de usucapião não pode ser utilizada como meio de regularização cadastral de veículo com vício de motor, o que implicaria infringência ao art. 114 do CTB e às resoluções do CONTRAN; destacou, ainda, que, se a controvérsia fosse apenas de reconhecimento de domínio, a via seria adequada, mas a pretensão era dispensar a regularização do vício, o que é inadmissível.
+A autora opôs embargos de declaração alegando omissão e contradição quanto aos arts. 1.267, 1.260 e 1.261 do Código Civil.
+O Tribunal desacolheu os embargos, afirmando inexistirem os vícios do art. 1.022 do Código de Processo Civil, pois todos os fundamentos capazes de infirmar a conclusão foram analisados, e reiterou ser inviável a rediscussão de mérito em sede de embargos.
+II - Art. 1.022 do CPC
+No recurso especial a parte agravante alega omissão e contradição quanto ao cabimento da usucapião para regularização administrativa do veículo, ao exame das teses fundadas nos arts. 1.267, 1.260 e 1.261 do Código Civil e ao enfrentamento de precedentes, apesar da oposição de embargos de declaração.
+O acórdão dos embargos concluiu que todos os fundamentos capazes de infirmar a conclusão foram analisados e rejeitou os declaratórios por inexistência dos vícios do art. 1.022 do Código de Processo Civil, reafirmando a inadmissibilidade do uso da usucapião para o fim pretendido e a extinção por falta de interesse de agir.
+Não se verifica a alegada ofensa ao artigo, pois a questão referente à omissão e contradição na análise do cabimento da usucapião para regularização do veículo, dos dispositivos civis indicados e dos precedentes foi devidamente analisada pela Corte estadual que concluiu pela inexistência de vícios e pela suficiência da fundamentação, não havendo vício que possa nulificar o acórdão recorrido.
+Confira-se trecho do acórdão recorrido (fl. 271):
+Contudo, esta Colenda Câmara Cível entende ser inadmissível a utilização da ação de usucapião para tal fim. Nesse sentido, exemplificativamente, cito as decisões proferidas nas AP Cs 50000193420208210009, e 50012712120208210026.
+Veja-se que a regularização do bem, no caso concreto (em que o fundamento da negativa do Órgão de Trânsito reside na alteração da numeração do motor) pode (e deve) ser feita. O que não pode ocorrer é a utilização da ação de usucapião como um subterfúgio ao cumprimento das normas administrativas.
+Com efeito, se o pedido formulado na inicial fosse acolhido, o Poder Judiciário estaria admitindo a transferência de um bem que, legalmente, por conter vício (numeração do motor) não pode ser transferido sem que antes ocorra sua regularização, importando em infringência ao disposto no art. 114 do CTB e à norma administrativa que regulamentava a regularização em casos como o presente à época do pedido feito pela autora - Resolução 282/2008 do CONTRAN (posteriormente alterada pelas Resoluções 208/2009, 325/2009 e 466/2013).
+Destaco: se a questão aqui girasse em torno do reconhecimento da propriedade/domínio, a ação de usucapião teria cabimento, ou seja, a autora teria interesse de agir. Mas isso sequer é controvertido - a origem e propriedade do bem (ainda que não aperfeiçoada porque não registrado perante o Órgão de Trânsito) já é da requerente desde a adjudicação na demanda judicial em trâmite no Distrito Federal. O uso da demanda, aqui, se dá com o intuito único de dispensa da regularização do vício existente (adulteração do motor), e por isso, não é admissível.
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+III - Art. 1.267, 1.260 e 1.261 do CC
+A agravante afirma que a transferência da propriedade de bem móvel pela tradição e o exercício de posse mansa e pacífica por prazo superior a cinco anos autorizariam a declaração de usucapião, suprindo a impossibilidade de regularização administrativa e afastando qualquer infringência ao art. 114 do CTB.
+O acórdão recorrido assentou que a ação foi utilizada com o intuito de dispensar a regularização do vício da numeração do motor, sendo inadmissível a usucapião para esse fim; reconheceu a origem da posse por adjudicação, mas concluiu pela falta de interesse processual e extinguiu o feito sem resolução de mérito.
+O recurso especial não é via adequada para análise de ofensa a resolução, portaria, regimento interno ou instrução normativa, atos administrativos que não se enquadram no conceito de lei federal.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE USUCAPIÃO. BEM MÓVEL. ALIENAÇÃO FIDUCIÁRIA. INADIMPLEMENTO. PRESCRIÇÃO AQUISITIVA. IMPOSSIBILIDADE. POSSE INJUSTA. REEXAME. SÚMULA Nº 7/STJ. ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL. VIOLAÇÃO. NÃO OCORRÊNCIA.
+1. Na hipótese, o tribunal de origem afastou a pretensão do agravante quanto ao não cabimento da aquisição da propriedade do bem móvel pela usucapião amparado no contexto fático dos autos, atraindo o óbice da Súmula nº 7/STJ.
+2. A jurisprudência do Superior Tribunal de Justiça preleciona que a posse de bem móvel por contrato de alienação fiduciária em garantia não dá ensejo à usucapião, seja pelo adquirente, seja cessionário, porque a propriedade do bem é da financiadora que transmite a posse ao comprador fiduciário.
+3. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, não apenas no sentido pretendido pela parte.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.241.725/GO, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 2/10/2023, DJe de 6/10/2023, destaquei.)
+Rever a conclusão quanto à utilização da ação e à configuração dos requisitos materiais demandaria o reexame do conjunto fático-probatório, o que é incabível em recurso especial ante o óbice da Súmula n. 7 do STJ.
+IV - Divergência Jurisprudencial
+Alega o agravante dissídio com os REsps n. 1.528.626/RS e 1.582.177/RJ, sustentando similitude fática e divergência quanto ao interesse de agir e ao reconhecimento da usucapião de veículo.
+Para a interposição de recurso especial fundado na alínea c do permissivo constitucional, é necessário o atendimento dos requisitos essenciais para a comprovação do dissídio jurisprudencial, conforme prescrições dos arts. 1.029, § 1º, do Código de Processo Civil e 255, § 1º, do RISTJ.
+Isso porque não basta a simples transcrição da ementa dos paradigmas, pois, além de juntar aos autos cópia do inteiro teor dos arestos tidos por divergentes ou de mencionar o repositório oficial de jurisprudência em que foram publicados, deve a parte recorrente proceder ao devido confronto analítico, demonstrando a similitude fática entre os julgados, o que não foi atendido no caso.
+Portanto, está prejudicada a apreciação do dissídio jurisprudencial ante a não realização d o devido cotejo analítico.
+V - Conclusão
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial para negar-lhe provimento.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do Código de Processo Civil, em razão da inexistência de prévia fixação na origem.
+É o voto.
