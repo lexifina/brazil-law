@@ -1,0 +1,65 @@
+DECISÃO
+Trata-se  de  agravo  regimental  interposto  por  LAZARO GUSTAVO CHREPUSSI ROSEIRO,  contra decisão do Ministro Presidente do STJ (e-STJ, fls. 491-492) que, fundamentada no art. 21-E, V, c/c o art. 253, parágrafo único, I, ambos do Regimento Interno do Superior Tribunal de Justiça, não conheceu do agravo em recurso especial.
+A  defesa  alega, em síntese, que não há falar na incidência do óbice previsto na Súmula 182 do STJ, razão pela qual deve ser reconsiderada a r. decisão agravada, dando-se provimento a este agravo regimental para que seja conhecido e provido o recurso especial.
+Caso não seja esse o entendimento pugna pela remessa deste recurso ao órgão Colegiado (e-STJ, fls. 497-501).
+Analisando os argumentos aduzidos nas razões do agravo regimental, verifico que assiste razão ao agravante, o que impõe a reconsideração da decisão agravada.
+Passa-se, assim, ao exame do recurso especial, interposto com fulcro na alínea "a" do permissivo constitucional.
+A defesa aponta, inicialmente, ofensa aos arts. 619 e 620 do Código de Processo Penal, sob o argumento de que o "aresto vergastado foi omisso na análise do recurso de apelação, deixando de manifestar-se, ainda que sucintamente, em relação ao fato de a condenação do agravante ter sido lastreada unicamente com base na palavra da vítima e em contrariedade à jurisprudência do STJ" (e-STJ,  fl.  378).
+No mérito, alega divergência do acórdão com a jurisprudência do TJSP, pugnando pela absolvição do réu, por ausência de demonstração da materialidade delitiva, haja vista que o recorrente apenas forneceu a máquina de cartão de crédito e a conta corrente para terceiros, sem estar ciente de que elas seriam empregadas com a finalidade para realizar golpes.
+Caso não seja esse o entendimento, pretende seja substituída a pena privativa de liberdade pela restritiva de direitos, alegando que o agravante preenche os requisitos do art. 44, §3º do Código Penal: (i) a pena aplicada é inferior a 04 anos; (ii) o crime não foi cometido com violência ou grave ameaça à pessoa; (iii) a reincidência do réu não se deu em crime da mesma natureza (processo n. 0000953-20.2017.8.26.0599, fls.167) e a substituição é socialmente recomendável (e-STJ,  fls.  374-381).
+Foram  apresentadas  as  contrarrazões  (e-STJ,  fls.  406-413).
+O  recurso  foi  inadmitido  (e-STJ,  fls.  428-430).  Daí  este  agravo  (e-STJ,  fls.  436-440).
+O  Ministério  Público  Federal  manifestou-se  à fl. 515  (e-STJ).
+É  o  relatório.
+Decido.
+Consoante  se  verifica  dos  autos,  o  recorrente  foi  condenado, em segundo grau de jurisdição, como incurso no art. 171, §4º, do Código Penal, à pena de 01 ano, 06 meses e 20 dias de reclusão, no regime semiaberto, além de 16 dias-multa.
+No tocante à alegação de ofensa aos arts. 619 e 620 do Código de Processo Penal, sob o argumento de que a condenação do agravante lastreou-se unicamente na palavra da vítima,  colhe-se , por pertinente,  o  seguinte  trecho  do  aresto  que apreciou os embargos de declaração:
+"Segundo o Embargante, em síntese, houve omissão no V. Acórdão diante da inobservância em relação a jurisprudência do Colendo STJ e os argumentos utilizados no julgado embargado, considerando o fato da condenação do embargante ter sido lastreada unicamente com base na palavra da vítima e em contrariedade à jurisprudência do C. STJ.
+No entanto, a condenação não foi baseada única e exclusivamente na palavra da vítima como quer fazer crer o Embargante, mas as suas declarações estão em harmonia com a prova amealhada.
+A materialidade delitiva ficou comprovada pelo comprovante de compra (fls.07), extratos de conta corrente (fls.45/87), documentos de fls.95/133, relatório final (fls.153/156), bem como prova oral produzida sob o crivo do contraditório, onde as circunstâncias todas em que ocorreram os fatos deixam evidente a prática do delito, com a nota de que a autoria é inconteste e recaí na pessoa do recorrente.
+Houve idônea fundamentação para a condenação frente ao ardil bem evidenciado com o propósito de obter vantagem ilícita em prejuízo alheio.
+O aresto ainda afirma que o ora recorrente é o titular da conta vinculada à máquina de recebimentos por cartão de crédito, utilizada para a perpetração do golpe, sendo ele o destinatário final da vantagem obtida em detrimento da vítima idosa, ou seja, beneficiário em receber o produto do crime, caracterizando a autoria do estelionato por parte do acusado que não conseguiu justificar os recebimentos.
+Portanto, o conjunto probatório é robusto, onde os relatos da vítima foram corroborados especialmente pelo comprovante de compra (fls.07) e extratos de conta corrente (fls.45/87) a demonstrar uma série de transações em nítida fraude do denunciado, movimentação financeira pontuada no aresto (fls.350/351) como prova suficiente e que apoiam a versão da ofendida, questão enfrentada no recurso."  (e-STJ,  fls.  389-390).
+Inicialmente, não se vislumbra a apontada violação dos arts. 619 e 620 do CPP, na medida em que a Corte de origem dirimiu, fundamentadamente, todas as questões que lhe foram submetidas, não se verificando qualquer mácula no acórdão recorrido. Da leitura do trecho transcrito, observa-se que o acórdão destacou expressamente os motivos de seu convencimento para manter a sentença do magistrado singular, afirmando, de forma clara, que a condenação do acusado não se baseou exclusivamente na palavra da vítima, mas também em outras provas, como comprovantes de transações financeiras, relatório final e prova oral produzida sob o crivo do contraditório, todos em consonância com os relatos da vítima.
+Não há que se falar, portanto, em existência de omissão no aresto impugnado.
+De outra parte, no tocante ao pleito absolutório, também não assiste razão à defesa. Como visto, o acórdão recorrido destacou que a autoria do delito restou devidamente comprovada, uma vez que o recorrente era o titular da conta vinculada à máquina utilizada para a prática do golpe, sendo o beneficiário direto da vantagem ilícita obtida.
+Assim, verifica-se que o acórdão recorrido concluiu pela existência de fundamentação idônea e suficiente para a manutenção da condenação, afastando a alegação de omissão e reafirmando a harmonia entre os elementos de prova e a decisão proferida.
+Nesse contexto, a alteração do julgado, a fim de absolver o recorrente da prática do delito de estelionato que lhe foi imputado na denúncia, demandaria nova análise do acervo fático e probatório dos autos, o que não é possível nesta via especial, em razão do óbice da Súmula 7/STJ.
+A corroborar esse entendimento:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ESTELIONATO. ART. 171, CAPUT E § 3º, DO CÓDIGO PENAL. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. REEXAME DE PROVAS. SÚMULA 7/STJ. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE. FIXAÇÃO DO VALOR DA PRESTAÇÃO PECUNIÁRIA. FUNDAMENTAÇÃO IDÔNEA. PROPORCIONALIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É inviável a análise de matérias não debatidas pelo Tribunal de origem, nem objeto de embargos de declaração, diante da ausência de prequestionamento, incidindo, por analogia, a Súmula 282 do Supremo Tribunal Federal.
+2. A pretensão de absolvição da agravante, sob o fundamento de insuficiência de provas, demandaria revolvimento do conjunto fático-probatório dos autos, providência obstada pela Súmula 7 do Superior Tribunal de Justiça.
+3. A fixação da prestação pecuniária em 5 salários-mínimos encontra respaldo na gravidade da conduta, no relevante prejuízo causado ao erário e na ausência de comprovação suficiente da situação econômica da ré, além de situar-se muito aquém do limite máximo legal, respeitando os princípios da proporcionalidade e razoabilidade.
+4. Eventual dificuldade de cumprimento da pena pecuniária poderá ser apreciada pelo Juízo da execução, não cabendo nesta fase a revisão do valor arbitrado.
+5. Agravo regimental não provido."
+(AgRg no REsp n. 2.218.364/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 16/9/2025, DJEN de 23/9/2025.)
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PROCESSO PENAL. ESTELIONATO. PRETENSÃO DE ABSOLVIÇÃO POR ATIPICIDADE DA CONDUTA. ALEGADA AUSÊNCIA DE DOLO E DO ELEMENTO "INDUZIR OU MANTER EM ERRO". REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A pretensão de reconhecimento da atipicidade da conduta por ausência dos elementos configuradores do crime de estelionato demanda, necessariamente, o reexame do acervo fático-probatório, providência vedada em sede de recurso especial.
+2. As instâncias ordinárias, soberanas na análise das provas, concluíram fundamentadamente pela presença de todos os elementos do tipo penal, mediante fraude e com dolo próprio do crime de estelionato.
+3. Agravo regimental desprovido."
+(AgRg no REsp n. 2.085.479/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 17/9/2025, DJEN de 22/9/2025.)
+Por fim, no tocante ao pedido de substituição da pena privativa de liberdade pela restritiva de direitos, colhe-se do aresto impugnado:
+"(..)
+Ainda, diante da reincidência do acusado, foi fixado o regime inicial semiaberto, nos termos do artigo 33, § 2º, "c", do Código Penal, o qual não merece qualquer reparo, porquanto condenação anterior não foi o suficiente para o alcance das finalidades da norma penal, seja a retributiva, a preventiva e tão pouco a ressocializadora, tendo o acusado voltado ao crime, impondo rigor, eis que mais efetivo em face do seu comportamento social de afronta à coletividade.
+Sem razão a irresignação defensiva na questão da substituição da pena privativa de liberdade por restritiva de direitos, a qual não se mostra socialmente recomendável, não estando presentes os requisitos legais, mormente os ligados ao merecimento subjetivo, considerando-se a reincidência.
+Assim, entende-se mesmo incabíveis tanto a substituição da pena privativa de liberdade por restritiva de direitos como o sursis, considerado as expressas vedações legais constantes do artigo 44, inciso II e artigo 77, inciso I, todos do Código Penal." (e-STJ, fl. 356).
+Sobre o tema, impende destacar que se mostra insuficiente a substituição da pena privativa de liberdade por restritiva de direitos quando há reincidência e a medida não se mostra recomendável (art. 44, II e § 3º, do CP), tal como registrado pelo Tribunal antecedente.
+Nesse sentido:
+" ..
+3. O art. 44, II, do Código Penal, não admite a substituição da pena privativa de liberdade por restritiva de direitos para o réu reincidente em crime doloso. No entanto, a reincidência em crime doloso, isoladamente, não tem o condão de afastar a aplicação da medida, tendo em vista que o § 3º oferece a possibilidade de concessão da benesse para os casos em que se entenda socialmente recomendável a medida e a reincidência não se tenham operado em virtude da prática do mesmo crime.
+4. Se as instâncias ordinárias entenderam que o recorrente não preenchia os requisitos do art. 44 do Código Penal, para a substituição da pena reclusiva por restritiva de direitos, afastando-a, notadamente, pela reincidência em crime doloso, o que evidencia não ser a medida pretendida socialmente recomendável, decidir em sentido contrário demandaria necessário revolvimento do contexto fático probatório dos autos, providência vedada pelo enunciado da Súmula 7/STJ.
+5. O agravo regimental não traz argumentos novos capazes de alterar o entendimento anteriormente firmado, razão por que deve ser mantida a decisão monocrática proferida.
+6. Agravo regimental improvido."
+(AgRg no AREsp 599.036/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 20/06/2017, DJe 26/06/2017).
+" ..
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. No caso, o réu não faz jus à substituição da pena, porquanto é reincidente em crime doloso e as instâncias ordinárias constataram que a sua periculosidade não torna recomendável a substituição da pena, conquanto seja esta inferior a 4 anos e as circunstâncias judiciais sejam favoráveis.
+3. Habeas corpus não conhecido."
+(HC 446.706/MG, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 26/6/2018, DJe 1º/8/2018).
+" ..
+1. Não se observa a existência de constrangimento ilegal na negativa da substituição da pena privativa de liberdade por restritiva de direitos, quando há reincidência em crime doloso, ainda que não seja específica, e entender a Corte de origem que a medida não se mostra recomendável (art. 44, § 3º, do Código Penal). Precedentes.
+2. Agravo regimental a que se nega provimento."
+(AgRg no HC 392.118/SC, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 20/2/2018, DJe 2/3/2018).
+Ante o exposto, reconsidero a decisão agravada e, com fundamento no art. 253, parágrafo único, II, "a" e "b", do Regimento Interno do STJ, conheço do agravo para conhecer em parte do recurso especial e, nesta extensão, negar-lhe provimento.
+Publique-se.  Intimem-se.
+EMENTA
