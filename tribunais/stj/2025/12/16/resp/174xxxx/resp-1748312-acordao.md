@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/12/2025 a 16/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Marco Buzzi, João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. INTEMPESTIVIDADE DE EMBARGOS DE DECLARAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. SENTENÇA UNIFICADA. PUBLICAÇÃO. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+2. O acórdão recorrido analisou todas as questões necessárias ao deslinde da controvérsia, não se configurando negativa de prestação jurisdicional.
+3. Recurso especial a que se nega provimento.
+RELATÓRIO
+Trata-se de recurso especial interposto, com base nas alíneas "a" e "c" do inciso III do art. 105 da Constituição Federal, por PEDRO TEODORO KUHL e ANA MARIA TEREZA KUHL contra acórdão assim ementado (fl. 16):
+AGRAVO DE INSTRUMENTO Reconhecida a intempestividade de embargos de declaração Rol do artigo 1.015 do Código de Processo Civil de 2.015 taxativo Matéria não impugnável por meio de agravo de instrumento Ausência de interesse.
+AGRAVO DE INSTRUMENTO Sentença reunida aos autos Prosseguimento do cumprimento do julgado que não impede o processamento do recurso de apelação.
+Agravo conhecido em parte e, na parte em que conhecido, não provido.
+Os embargos de declaração opostos foram rejeitados (fls. 38-41).
+Nas razões do recurso especial, a parte recorrente alega, em síntese, que o acórdão recorrido violou os arts. 271, 272, § 8º, 489, § 1º, IV, 513, 515, I, 1.015, parágrafo único, e 1.022, todos do Código de Processo Civil.
+Sustenta o cabimento do agravo de instrumento na fase de cumprimento de sentença, sob pena de violação do art. 1.015, parágrafo único, do Código de Processo Civil, destacando que a decisão impugnada deferiu medidas executivas de reintegração de posse e, por isso, seria recorrível por agravo.
+Defende nulidade por falta de intimação e por não estar a sentença juntada nos autos quando iniciado o cumprimento, aduzindo afronta aos arts. 513 e 515, I, do Código de Processo Civil, além de violação do devido processo legal, bem como descumprimento dos deveres de intimação previstos nos arts. 271 e 272, § 8º, do Código de Processo Civil.
+Argumenta negativa de prestação jurisdicional e vício de fundamentação, afirmando que o colegiado não enfrentou a omissão relativa à ausência de intimação e à tempestividade dos embargos, o que configuraria violação dos arts. 1.022 e 489, § 1º, IV, do Código de Processo Civil.
+Alega, ainda, que houve prequestionamento implícito das matérias federais e que, além da violação de lei federal, há divergência jurisprudencial quanto ao cabimento do agravo de instrumento em hipóteses não expressamente previstas nos incisos do art. 1.015 do Código de Processo Civil.
+Contrarrazões às fls. 68-75, nas quais a parte recorrida alega, preliminarmente, ausência de prequestionamento e deficiência na indicação de dispositivos violados; aponta o óbice da Súmula 7/STJ. No mérito, defende que o acórdão recorrido não contrariou lei federal e que os embargos de declaração eram intempestivos, transcrevendo trechos do acórdão quanto ao rol taxativo do art. 1.015 do Código de Processo Civil e ao prosseguimento do cumprimento de sentença.
+É o relatório.
+EMENTA
+RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. INTEMPESTIVIDADE DE EMBARGOS DE DECLARAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. SENTENÇA UNIFICADA. PUBLICAÇÃO. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+2. O acórdão recorrido analisou todas as questões necessárias ao deslinde da controvérsia, não se configurando negativa de prestação jurisdicional.
+3. Recurso especial a que se nega provimento.
+VOTO
+O recurso não merece prosperar.
+Originariamente, cuida-se de ação declaratória de nulidade de contrato, cumulada com declaração de débito, proposta por CASA DE TINTAS KUHL LTDA., PEDRO TEODORO KUHL e ANA MARIA TEREZA KUHL em face de SKYLACK TINTAS E VERNIZES LTDA. aduzindo, em síntese, a nulidade da confissão de dívida assinada pelos ora recorrentes, garantida por meio de alienação fiduciária do imóvel descrito na inicial, ante a ilegalidade dos encargos financeiros e juros cobrados, além do vício de vontade dos requerentes que intencionaram ceder garantia hipotecária ao invés de garantia fiduciária. Alegavam, ainda, ausência de mora, seja por notificação inexistente, seja por encargos indevidos inseridos na confissão de dívida.
+A ora recorrida ofertou resposta, informando que ingressou com ação postulando a reintegração de posse do imóvel descrito na inicial, em decorrência da garantia real de alienação fiduciária na confissão de dívida, celebrada entre as partes e inadimplida, reforçando que foi oportunizada a purgação da mora àqueles, os quais se quedaram inertes.
+As ações foram julgadas em conjunto, tendo sido julgados improcedentes os pedidos formulados por CASA DE TINTAS KUHL LTDA., PEDRO TEODORO KUHL e ANA MARIA TEREZA KUHL em face de SKYLACK TINTAS E VERNIZES LTDA. e, por força do disposto no art. 487, I, do CPC, extinto o processo com resolução de mérito e, julgado procedente a ação de reintegração de posse proposta por SKYLACK TINTAS E VERNIZES LTDA.
+O Tribunal de origem conheceu em parte do agravo de instrumento e, na parte conhecida, negou provimento consignando que a rejeição de embargos de declaração, por intempestivos, não é impugnável por agravo de instrumento, por não se enquadrar no rol do art. 1.015 do Código de Processo Civil, ressaltando que tal questão é passível de ser alegada, em tese, em razões de apelação.
+Da leitura do acórdão recorrido, verifica-se que o Tribunal de origem se manifestou, expressamente, sobre a impossibilidade de impugnação do tema em agravo de instrumento. Sendo assim, não há que se falar em omissão no tocante a esses pontos, nem, portanto, em violação do art. 1.022 do CPC.
+Quanto ao mais, o Tribunal de origem consignou que a cópia da sentença foi imediatamente trasladada aos autos principais. Confira-se:
+Quanto ao mais, ou seja, tópico da r. decisão que cuidou das questões relativas ao cumprimento do julgado, vejo que não procedem as alegações dos agravantes relativas à ausência de sentença nos autos por ocasião do início de seu cumprimento, já que imediatamente trasladada cópia da r. sentença para o feito de origem, conforme se vê às fls. 204/218 dos autos principais.
+E o prosseguimento da execução não impedirá o processamento do recurso de apelação único interposto em face da r. sentença  ..  (fls. 17-18).
+Destaco, ainda, que consta no site do Tribunal de origem a decisão de rejeição dos embargos de declaração, uma vez que há disponibilização da sentença em 27/4/2017 e a publicação aos 28/4/2017, no autos do processo 1007368-97.2016.8.26.0320 e a juntada da sentença em 18/5/2017 no autos do processo 1010733-62.2016.8.26.0320. A saber:
+Vistos. Fls. 478/487: cuida-se de embargos de declaração opostos pelos autores aduzindo ausência de intimação da sentença de fls. 425/439, não realizando qualquer efeito entre as partes, buscando, assim, a declaração de nulidade de atos praticados .É a síntese do necessário. DECIDO. Deixo de conhecer os embargos de declaração de fls. 478/487, eis que intempestivos, conforme certificado às fls. 488.De fato, tomando-se como termo a quo a data da publicação da sentença vergastada, no dia 27.04.2017, premente o decurso do prazo a interposição do indigitado recurso. Ainda que se releve o termo a quo a partir da decisão que rejeitou os embargos de declaração já opostos pelos mesmos embargantes às fls. 442/453, a indigitada decisão foi publicada em 18.05.2017 (fls. 458), não se vislumbrando, portanto, a tempestividade do presente recurso, eis que protocolizado somente em 21.07.2017.Intime-se.Limeira, 09 de agosto de 2017.
+Assim, alterar a conclusão a que chegou o Tribunal de origem, no que se refere à intimação das partes , demandaria, necessariamente, o reexame de fatos e provas, inviável em recurso especial, a teor do disposto na Súmula 7/STJ.
+Em face do exposto, nego provimento ao recurso especial.
+É como voto.
