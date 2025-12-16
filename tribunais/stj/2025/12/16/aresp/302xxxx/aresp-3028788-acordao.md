@@ -1,0 +1,78 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/12/2025 a 16/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO PRIVADO. AGRAVO EM RECURSO ESPECIAL. REVISÃO CONTRATUAL BANCÁRIA. JUROS REMUNERATÓRIOS. ÓBICES PROCESSUAIS. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo em recurso especial contra decisão de inadmissibilidade do recurso especial por incidência das Súmulas n. 283 e 284 do STF e ausência de cotejo analítico para a divergência.
+2. A controvérsia diz respeito a ação de revisão de contrato c/c repetição de indébito cujo valor da causa é de R$ 22.454,14.
+3. A sentença julgou parcialmente procedentes os pedidos para limitar juros remuneratórios à média de mercado e determinar a repetição simples.
+4. A Corte estadual manteve a abusividade dos juros pela discrepância superior a 150% em relação à média do Bacen e pela ausência de justificativa concreta da instituição financeira, ratificando o acórdão após reexame.
+II. QUESTÃO EM DISCUSSÃO
+5. Há três questões em discussão: (i) saber se houve violação do art. 421 do Código Civil; (ii) saber se é cabível efeito suspensivo ao recurso especial com base nos arts. 1.029, § 5º, e 995, parágrafo único, do CPC; e (iii) saber se há divergência jurisprudencial apta ao conhecimento pela alínea c do art. 105 da Constituição Federal.
+III. RAZÕES DE DECIDIR
+6. O Tribunal de origem analisou as peculiaridades do caso concreto e não se limitou a afirmar que a taxa de juros estava acima da taxa média de mercado, estando em consonância com a jurisprudência do STJ, aplicando-se ao caso o óbice da Súmula n. 83 do STJ.
+7. A revisão da decisão demandaria reexame de fatos e provas, o que é vedado em recurso especial, conforme as Súmulas n. 5 e 7 do STJ.
+8. A incidência das Súmulas n. 5, 7 e 83 do STJ impede o conhecimento do recurso especial pela divergência jurisprudencial.
+9. O pedido de concessão de efeito suspensivo ao recurso especial foi prejudicado, uma vez que o mérito já foi julgado.
+IV. DISPOSITIVO E TESE
+10. Agravo em recurso especial desprovido. Pedido de concessão de efeito suspensivo julgado prejudicado.
+Tese de julgamento: "1. Aplica a Súmula n. 83 quando a limitação dos juros remuneratórios à taxa média de mercado considera as peculiaridades do caso concreto, em conformidade com a jurisprudência do STJ. 2. A revisão de decisão que analisa fatos e provas é vedada em recurso especial, conforme as Súmulas n. 5 e 7 do STJ. 3. O óbice das Súmulas n. 5, 7 e 83 do STJ quanto à alínea a impede o conhecimento pela alínea c sobre o mesmo tema".
+Dispositivos relevantes citados: CC, art. 421; CPC, arts. 1.029, § 5º, 995, parágrafo único, 85, § 11, e 1.029, § 1º; RISTJ, art. 255, § 1º.
+Jurisprudência relevante citada: STJ, Súmulas n. 5, 7 e 83.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por CREFISA S.A. CRÉDITO, FINANCIAMENTO E INVESTIMENTOS contra a decisão que inadmitiu o recurso especial com fundamento na incidência das Súmulas n. 283 e 284 do STF e na falta de cotejo analítico e de similitude fática.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Contraminuta às fls. 1.352-1. 356.
+O recurso especial foi interposto com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Santa Catarina em apelação nos autos de ação ordinária de revisão de contrato c/c repetição de indébito.
+O julgado foi assim ementado (fl. 918):
+REEXAME DE JULGAMENTO COLEGIADO. REVISÃO CONTRATUAL. APELAÇÃO CÍVEL. RECURSO ESPECIAL INTERPOSTO PELA INSTITUIÇÃO FINANCEIRA. DETERMINADO O REEXAME DA MATÉRIA REFERENTE À ABUSIVIDADE DOS JUROS REMUNERATÓRIOS.
+BANCO QUE NÃO APRESENTA ELEMENTOS QUE JUSTIFIQUEM A PREVISÃO DE PERCENTUAL DE JUROS SUPERIOR À TAXA MÉDIA DE MERCADO, DIVULGADA PELO BANCO CENTRAL, EM RELEVANTE PERCENTUAL. AUSÊNCIA DE QUAISQUER INFORMAÇÕES DANDO CONTA DE EVENTUAL INADIMPLEMENTO CONTUMAZ DA PARTE DEMANDANTE OU CIRCUNSTÂNCIA OUTRA QUE PUDESSE AUTORIZAR A FIXAÇÃO DO ENCARGO EM DESTAQUE DE FORMA ELEVADA. PORTANTO, ABUSIVIDADE EVIDENCIADA, ANTE AS PECULIARIDADES DO CASO CONCRETO. JULGADO QUE SE ENCONTRA EM CONSONÂNCIA COM O ENTENDIMENTO DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+ACÓRDÃO RATIFICADO.
+Os embargos de declaração foram rejeitados.
+No recurso especial, a parte recorrente aponta violação do art. 421 do Código Civil, visto que a liberdade contratual deve ser exercida nos limites da função social do contrato, sendo a revisão contratual uma exceção, razão pela qual deve ser utilizada apenas em casos de comprovação de abusividade, o que não ocorreu no caso concreto.
+Sustenta que o Tribunal de origem contrariou o entendimento do Superior Tribunal de Justiça ao decidir pela limitação dos juros remuneratórios com base na taxa média de mercado, sem considerar as peculiaridades do caso concreto, conforme entendimento consolidado no REsp n. 1.821.182/RS.
+Pleiteia a atribuição de efeito suspensivo ao recurso especial para que seja evitada a prática de atos executórios, ao argumento de que a pretensão recursal é plausível e de que a imediata produção de efeitos da decisão recorrida representa risco de prejuízo de difícil reparação.
+Requer o provimento do recurso para que se afaste a limitação dos juros remuneratórios e se restabeleça a taxa ajustada pelas partes no contrato de empréstimo, bem como se determine a realização de prova pericial contábil para verificar a abusividade da taxa de juros.
+Contrarrazões às fls. 1.322-1.334.
+É o relatório.
+EMENTA
+DIREITO PRIVADO. AGRAVO EM RECURSO ESPECIAL. REVISÃO CONTRATUAL BANCÁRIA. JUROS REMUNERATÓRIOS. ÓBICES PROCESSUAIS. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo em recurso especial contra decisão de inadmissibilidade do recurso especial por incidência das Súmulas n. 283 e 284 do STF e ausência de cotejo analítico para a divergência.
+2. A controvérsia diz respeito a ação de revisão de contrato c/c repetição de indébito cujo valor da causa é de R$ 22.454,14.
+3. A sentença julgou parcialmente procedentes os pedidos para limitar juros remuneratórios à média de mercado e determinar a repetição simples.
+4. A Corte estadual manteve a abusividade dos juros pela discrepância superior a 150% em relação à média do Bacen e pela ausência de justificativa concreta da instituição financeira, ratificando o acórdão após reexame.
+II. QUESTÃO EM DISCUSSÃO
+5. Há três questões em discussão: (i) saber se houve violação do art. 421 do Código Civil; (ii) saber se é cabível efeito suspensivo ao recurso especial com base nos arts. 1.029, § 5º, e 995, parágrafo único, do CPC; e (iii) saber se há divergência jurisprudencial apta ao conhecimento pela alínea c do art. 105 da Constituição Federal.
+III. RAZÕES DE DECIDIR
+6. O Tribunal de origem analisou as peculiaridades do caso concreto e não se limitou a afirmar que a taxa de juros estava acima da taxa média de mercado, estando em consonância com a jurisprudência do STJ, aplicando-se ao caso o óbice da Súmula n. 83 do STJ.
+7. A revisão da decisão demandaria reexame de fatos e provas, o que é vedado em recurso especial, conforme as Súmulas n. 5 e 7 do STJ.
+8. A incidência das Súmulas n. 5, 7 e 83 do STJ impede o conhecimento do recurso especial pela divergência jurisprudencial.
+9. O pedido de concessão de efeito suspensivo ao recurso especial foi prejudicado, uma vez que o mérito já foi julgado.
+IV. DISPOSITIVO E TESE
+10. Agravo em recurso especial desprovido. Pedido de concessão de efeito suspensivo julgado prejudicado.
+Tese de julgamento: "1. Aplica a Súmula n. 83 quando a limitação dos juros remuneratórios à taxa média de mercado considera as peculiaridades do caso concreto, em conformidade com a jurisprudência do STJ. 2. A revisão de decisão que analisa fatos e provas é vedada em recurso especial, conforme as Súmulas n. 5 e 7 do STJ. 3. O óbice das Súmulas n. 5, 7 e 83 do STJ quanto à alínea a impede o conhecimento pela alínea c sobre o mesmo tema".
+Dispositivos relevantes citados: CC, art. 421; CPC, arts. 1.029, § 5º, 995, parágrafo único, 85, § 11, e 1.029, § 1º; RISTJ, art. 255, § 1º.
+Jurisprudência relevante citada: STJ, Súmulas n. 5, 7 e 83.
+VOTO
+A controvérsia diz respeito a ação de revisão de contrato c/c repetição de indébito em que a parte autora pleiteou a limitação dos juros remuneratórios à taxa média de mercado do Bacen, a descaracterização da mora e a restituição simples de valores pagos indevidamente. O valor da causa foi fixado em R$ 22.454,14.
+A controvérsia está assentada na forma de aferição da abusividade dos juros remuneratórios.
+I - Art. 421 do CC
+No recurso especial, a parte agravante alega que a liberdade contratual deve ser exercida nos limites da função social do contrato, sendo a revisão contratual uma exceção, razão pela qual deve ser utilizada apenas em casos de comprovação de abusividade, o que não ocorreu no caso concreto. Afirma que o Tribunal de origem utilizou a taxa média de mercado como único parâmetro para aferir a abusividade dos juros remuneratórios, sem considerar as peculiaridades do caso concreto, contrariando a jurisprudência do STJ.
+Considerando o entendimento firmado no julgamento do Recurso Especial n. 1.061.530/RS, as Turmas da Segunda Seção do STJ já esclareceram que a limitação da taxa de juros, com base apenas no fato de estar acima da taxa média de mercado, não encontra respaldo na jurisprudência desta Corte, uma vez que devem ser observados diversos fatores para a revisão da taxa de juros, tais como o custo de captação dos recursos, o spread da operação, a análise de risco de crédito do contratante, ponderando-se a caracterização da relação de consumo e eventual desvantagem exagerada do consumidor.
+A Corte de origem, soberana na análise do arcabouço fático-probatório dos autos, não se limitou a afirmar que a taxa de juros remuneratórios fora pactuada acima da taxa média de mercado estipulada pelo Bacen.
+Além disso, caberia à parte ré o ônus de demonstrar a ocorrência de fatos modificativos, impeditivos ou extintivos do direito da parte autora. A propósito: AgInt no AREsp n. 2.391.820/GO, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 9/9/2024, DJe de 12/9/2024.
+Assim, adotando a jurisprudência do STJ, o Tribunal de origem concluiu pela abusividade dos juros remuneratórios previstos contratualmente, considerando a análise das peculiaridades do caso concreto, razão pela qual os limitou à taxa média de mercado estabelecida pelo Bacen.
+É caso, pois, de aplicação da Súmula n. 83 do STJ.
+Ademais, para decidir em sentido contrário e verificar os fatores acima apontados acerca das peculiaridades do caso concreto quanto aos juros pactuados, seria necessário reexaminar o instrumento contratual e o conjunto fático-probatório dos autos, procedimento vedado na via do recurso especial (Súmulas n. 5 e 7 do STJ). Nesse sentido: AgInt no AREsp n. 2.437.350/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 27/11/2023, DJe de 30/11/2023.
+II - Divergência jurisprudencial
+Quanto ao apontado dissídio, ressalte-se que a incidência das Súmulas n. 5, 7 e 83 do STJ no tocante à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Nesse sentido: AgInt no AREsp n. 1.898.375/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 27/6/2022, DJe de 30/6/2022; AgInt no AREsp n. 1.866.385/DF, relator Ministro Francisco Falcão, Segunda Turma, julgado em 16/5/2022, DJe de 18/5/2022; AgInt no AREsp n. 1.611.756/GO, relator Ministro Raul Araújo, Quarta Turma, julgado em 29/8/2022, DJe de 1º/9/2022; AgInt no AREsp n. 1.724.656/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/8/2022, DJe de 24/8/2022; e AgInt no REsp n. 1.503.880/PE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 27/2/2018, DJe de 8/3/2018.
+III - Pedido de concessão de efeito suspensivo
+Conforme entendimento do STJ, "havendo manifestação superveniente do órgão julgador sobre o tema, não subsiste o pedido de tutela provisória que pretendia conceder efeito suspensivo ao recurso já julgado" (AgInt no AREsp n. 2.298.991/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 4/9/2023, DJe de 6/9/2023).
+IV - Conclusão
+Ante o exposto, nego provimento ao agravo em recurso especial. Julgo prejudicado o pedido de concessão de efeito suspensivo.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora agravante, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+É o voto.
