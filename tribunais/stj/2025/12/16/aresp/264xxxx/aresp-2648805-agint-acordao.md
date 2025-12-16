@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/12/2025 a 16/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - EMBARGOS À EXECUÇÃO - TÍTULO EXTRAJUDICIAL - MÚTUO IMOBILIÁRIO - DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO APELO EXTREMO. INSURGÊNCIA DAS EMBARGANTES.
+1. A pretensão recursal de reconhecer a inexigibilidade do título, fundada na tese de coligação funcional entre o contrato de mútuo e os contratos de compra e venda das unidades, esbarra nos óbices das Súmulas 5 e 7/STJ.
+2. Agravo interno desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+Cuida-se de agravo in terno interposto por JFE 49 EMPREENDIMENTOS IMOBILIARIOS SPE LTDA. - EM RECUP ERAÇÃO JUDICIAL e JOAO FORTES ENGENHARIA S A - EM RECUPERACAO JUDICIAL em face de decisão monocrática da lavra deste signatário que conheceu do agravo para não conhecer do recurso especial (fls. 710-712, e-STJ).
+O apelo extremo, fundado na alínea "a" do permissivo constitucional, desafiou acórdão proferido pelo Tribunal Regional Federal da 2ª Região, assim ementado (fl. 597, e-STJ):
+EMBARGOS À EXECUÇÃO. TÍTULO EXTRAJUDICIAL. RECUPERAÇÃO JUDICIAL. MÚTUO PARA CONSTRUÇÃO DE EMPREENDIMENTO IMOBILIÁRIO. SUSPENSÃO DOS DESEMBOLSOS PELA CREDORA. ATRASO E PARALISAÇÃO NAS OBRAS. DISTRATO E RESCISÃO. DIFICULDADES ROTINEIRAS NO ÂMBITO DA CONSTRUÇÃO CIVIL. REVISÃO DA DÍVIDA. IMPOSSIBILIDADE. APELAÇÃO DESPROVIDA. Inviável acolher a tese de inexigibilidade de dívida oriunda de mútuo que financiou construção de empreendimento habitacional, fundada no insucesso na alienação das unidades. Rejeitada a tese de alegada coligação do mútuo com os subsequentes contratos de alienação das unidades, já que ausente o vínculo jurídico entre eles e nem seria lógico que a mutuante arcasse com o ônus do insucesso empresarial do mutuário. Os distratos e as rescisões judiciais dos contratos de compra e venda promovidos pelos adquirentes são consequência da paralisação das obras, e não a sua causa. A CEF suspendeu os desembolsos quando constatou o atraso, como previsto no contrato. A mera edição da Súmula n.º 543 pelo Superior Tribunal de Justiça consolidou a jurisprudência já existente, e não houve fato novo ou imprevisível a impor a revisão ou a renegociação contratual, e sim mudança subjetiva da situação da parte, aspecto já antevisto no ajuste, que por isso exigiu garantia. Apelação desprovida.
+Nas razões do especial (fls. 605-621, e-STJ), as agravantes apontam violação do artigo 783 do Código de Processo Civil. Sustentam, em síntese, a inexigibilidade do título executado em razão da coligação funcional entre o contrato de mútuo e os contratos de compra e venda das unidades, alegando que a onda de distratos afetou a base do negócio jurídico, tornando inexigível a obrigação principal.
+Contrarrazões apresentadas às fls. 636-648, e-STJ.
+Em juízo prévio de admissibilidade (fl. 655, e-STJ), negou-se seguimento ao recurso especial, dando ensejo à interposição do agravo de fls. 664-675, e-STJ.
+Contraminuta às fls. 681-695, e-STJ.
+Em decisão monocrática (fls. 710-712, e-STJ), este signatário conheceu do agravo para não conhecer do recurso especial, ao fundamento de que a pretensão recursal de reconhecer a inexigibilidade do título demandaria a interpretação de cláusulas contratuais e o reexame do conjunto fático-probatório, providências vedadas, respectivamente, pelas Súmulas 5 e 7 desta Corte.
+No presente agravo interno (fls. 716-723, e-STJ), a parte agravante combate os óbices aplicados, sustentando que a análise da violação ao art. 783 do CPC não demanda reexame de provas ou contratos, mas apenas a revaloração jurídica das premissas fáticas já estabelecidas no acórdão recorrido, pugnando pela reforma da decisão monocrática.
+Não houve impugnação, conforme certidão de fl. 728, e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - EMBARGOS À EXECUÇÃO - TÍTULO EXTRAJUDICIAL - MÚTUO IMOBILIÁRIO - DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO APELO EXTREMO. INSURGÊNCIA DAS EMBARGANTES.
+1. A pretensão recursal de reconhecer a inexigibilidade do título, fundada na tese de coligação funcional entre o contrato de mútuo e os contratos de compra e venda das unidades, esbarra nos óbices das Súmulas 5 e 7/STJ.
+2. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+O agravo interno não merece prosperar.
+1. O recurso não trouxe fundamentação apta a infirmar os fundamentos da decisão agravada, motivo pelo qual esta deve ser mantida pelos próprios fundamentos, os quais reitero a seguir.
+2. A pretensão recursal das agravantes, desde a origem, cinge-se à tese de inexigibilidade do título executivo, ao argumento de que o contrato de mútuo firmado com a Caixa Econômica Federal para a construção de empreendimento imobiliário estaria funcionalmente coligado aos contratos de promessa de compra e venda das unidades imobiliárias. Sustentam que a superveniência de distratos em série por parte dos adquirentes, motivada pela crise econômica, teria rompido a base do negócio, tornando a dívida principal inexigível, nos termos do art. 783 do CPC.
+O Tribunal de origem, contudo, ao analisar a matéria, rechaçou a pretensão das embargantes, estabelecendo premissas fáticas cuja revisão é vedada nesta instância superior.
+Primeiro, ao interpretar as cláusulas contratuais, a Corte local concluiu pela autonomia das obrigações. O acórdão destacou que as cláusulas do ajuste não estabeleciam vínculo de dependência entre a exigibilidade do mútuo e o sucesso das vendas, tratando-se de riscos empresariais distintos. Consta do voto condutor (fl. 594, e-STJ):
+Não há a alegada "coligação" sustentada na inicial, isto é, a ligação de efeitos e condicionamento entre o mútuo para construção do empreendimento  ..  e os subsequentes contratos de compra e venda das unidades isoladas do empreendimento  .. . A própria definição de coligação de contratos pressupõe o vínculo entre as obrigações estabelecidas entre eles, e não é o caso. E nem seria lógico que a mutuante arcasse com o ônus do insucesso empresarial do mutuário.
+A revisão dessa premissa exigiria que esta Corte Superior se debruçasse sobre o contrato para extrair dele uma interpretação diversa, ou seja, para encontrar uma conexão funcional e uma condição de exigibilidade não reconhecidas pela instância ordinária. Tal procedimento é vedado pela Súmula 5/STJ.
+Além disso, o acórdão recorrido, com base nas provas dos autos, inverteu a relação de causalidade defendida pelas recorrentes. O Tribunal concluiu que não foram os distratos que levaram à paralisação do empreendimento, mas, ao contrário, o atraso na obra, de responsabilidade das construtoras, foi a razão determinante para as rescisões contratuais pelos adquirentes. Veja-se (fl. 595, e-STJ):
+De acordo com as explicações da própria construtora, vê-se que os distratos e as ações judiciais não foram a causa da paralisação das obras, mas ao revés, são provavelmente consequência desta.
+A pretensão das recorrentes de atribuir a inexigibilidade do título a fatores externos esbarra na premissa fática, soberanamente estabelecida pela instância ordinária, de que a crise contratual decorreu de sua própria mora. A revisão desse juízo fático demandaria o revolvimento de todo o acervo probatório, o que encontra óbice intransponível na Súmula 7/STJ. No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA. RESCISÃO CONTRATUAL. ATRASO NA ENTREGA DO IMÓVEL. CULPA DO PROMITENTE VENDEDOR. INCIDÊNCIA DA SÚMULA 7. ACÓRDÃO EM SINTONIA COM ENTENDIMENTO FIRMADO NESTA CORTE. AGRAVO INTERNO NÃO PROVIDO.
+1. O acórdão recorrido está em consonância com a Jurisprudência desta Corte Superior, que possui firme o entendimento no sentido de que deve ocorrer a restituição integral dos valores pagos pelo promitente comprador, em caso de resolução de contrato de promessa de compra e venda de imóvel, por culpa exclusiva do promitente vendedor. Precedentes.
+2. As conclusões do acórdão recorrido no tocante à culpa exclusiva da recorrente pela rescisão contratual, não podem ser revistas por esta Corte Superior, pois demandaria, necessariamente, reexame do conjunto fático - probatório dos autos, e análise de cláusulas contratuais, o que é vedado em razão dos óbices das Súmulas 5 e 7 do STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.872.301/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 28/3/2022, DJe de 30/3/2022.)
+3. Do exposto, nega-se provimento ao agravo interno.
+Incabível a majoração dos honorários de advogado pela negativa de provimento ao agravo interno, pois não há, neste caso, inauguração de instância.
+É como voto.
