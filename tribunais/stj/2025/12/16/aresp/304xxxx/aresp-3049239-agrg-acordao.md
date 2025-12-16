@@ -1,0 +1,74 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Joel Ilan Paciornik, Messod Azulay Neto, Maria Marluce Caldas e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito Penal. Agravo Regimental no agravo em recurso especial. Busca pessoal. ausência de Fundada suspeita. Nulidade das provas. Agravo regimental IMprovido.
+I. Caso em exame
+1. Agravo regimental interposto pelo Ministério Público do Estado de Goiás contra decisão que conheceu do agravo para dar provimento ao recurso especial, a fim de absolver o acusado do crime tipificado no art. 33, caput, da Lei n. 11.343/2006.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a abordagem policial e a busca pessoal realizadas com base em elementos subjetivos, como o uso de capa de chuva em dia ensolarado e o nervosismo do acusado, configuram fundada suspeita suficiente para justificar a intervenção policial e a validade das provas obtidas.
+III. Razões de decidir
+3. A busca pessoal, conforme o art. 244 do Código de Processo Penal, independe de mandado apenas em casos de prisão ou fundada suspeita de posse de arma proibida, objetos ou papéis que constituam corpo de delito.
+4. No caso dos autos, os elementos apontados pelo Tribunal de origem, como o uso de capa de chuva em dia ensolarado e o nervosismo do acusado, não configuram fundada suspeita nos termos exigidos pela jurisprudência, sendo insuficientes para justificar a abordagem policial.
+5. A ausência de elementos concretos que indiquem a posse de material ilícito ou a prática de crime torna ilegal a busca pessoal realizada, contaminando as provas obtidas e justificando a absolvição do acusado.
+IV. Dispositivo e tese
+6. Resultado do Julgamento: Agravo regimental improvido.
+Tese de julgamento:
+1. A busca pessoal realizada com base em elementos subjetivos, como nervosismo ou vestimenta inadequada, sem a constatação de fundada suspeita, é ilegal e contamina as provas obtidas. 2. A ausência de elementos concretos que indiquem a prática de crime ou a posse de material ilícito inviabiliza a busca pessoal e a consequente validade das provas obtidas.
+Dispositivos relevantes citados: CPP, art. 244; Lei n. 11.343/2006, art. 33.
+Jurisprudência relevante citada:STJ, HC 774.140/SP, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 25.10.2022; STJ, AgRg no HC n. 883.286/SE, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 17/6/2024; STJ, STJ, AgRg no HC 735.387/SP, Rel. Min. Olindo Menezes, Sexta Turma, julgado em 06.12.2022; STJ, AgRg no HC 771.337/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 04.10.2022; STJ, AgRg no HC 916.042/SP, Rel. Min. Otávio de Almeida Toledo, Sexta Turma, julgado em 10.12.2024.
+RELATÓRIO
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS contra decisão deste Relator que, fundamentada no VIII, do CPC, c/c parágrafo art. 932, art. 253, único, II, "c", do RISTJ, conheceu do agravo para dar provimento ao recurso especial, a fim de absolver o acusado do crime tipificado no art. 33, caput, da Lei 11.343/2006 (e-STJ, fls. 519-523).
+O recorrente alega, em síntese, que a decisão recorrida não observou as circunstâncias fáticas reconhecidas no acórdão recorrido, que legitimam as fundadas suspeitas preceituadas no artigo 244 do Código de Processo Penal.
+Aduz que, no caso, não há que se falar em arbitrariedade, "porquanto (i) os policiais desempenhavam seu munus constitucional de patrulhamento ostensivo quando avistaram um indivíduo trajado de capa de chuva, embora se tratasse de um dia ensolarado; (ii) por não ser usual que pessoas utilizem tal vestimenta em dias não chuvosos, os policiais observaram a movimentação do indivíduo, a fim de identificar se realizava qualquer atividade ilícita; (iii) este indivíduo, ora agravado, ao avistar os policiais, demonstrou sinais de nervosismo, o que reiterou a percepção policial acerca do comportamento furtivo; (iv) só então, e amparados por tais fatos, abordaram o agravado" (e-STJ, fl. 538).
+Ao final, requer a reconsideração da decisão agravada ou a submissão do feito à Turma Julgadora (e-STJ, fls. 535-545).
+É o relatório.
+EMENTA
+Direito Penal. Agravo Regimental no agravo em recurso especial. Busca pessoal. ausência de Fundada suspeita. Nulidade das provas. Agravo regimental IMprovido.
+I. Caso em exame
+1. Agravo regimental interposto pelo Ministério Público do Estado de Goiás contra decisão que conheceu do agravo para dar provimento ao recurso especial, a fim de absolver o acusado do crime tipificado no art. 33, caput, da Lei n. 11.343/2006.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a abordagem policial e a busca pessoal realizadas com base em elementos subjetivos, como o uso de capa de chuva em dia ensolarado e o nervosismo do acusado, configuram fundada suspeita suficiente para justificar a intervenção policial e a validade das provas obtidas.
+III. Razões de decidir
+3. A busca pessoal, conforme o art. 244 do Código de Processo Penal, independe de mandado apenas em casos de prisão ou fundada suspeita de posse de arma proibida, objetos ou papéis que constituam corpo de delito.
+4. No caso dos autos, os elementos apontados pelo Tribunal de origem, como o uso de capa de chuva em dia ensolarado e o nervosismo do acusado, não configuram fundada suspeita nos termos exigidos pela jurisprudência, sendo insuficientes para justificar a abordagem policial.
+5. A ausência de elementos concretos que indiquem a posse de material ilícito ou a prática de crime torna ilegal a busca pessoal realizada, contaminando as provas obtidas e justificando a absolvição do acusado.
+IV. Dispositivo e tese
+6. Resultado do Julgamento: Agravo regimental improvido.
+Tese de julgamento:
+1. A busca pessoal realizada com base em elementos subjetivos, como nervosismo ou vestimenta inadequada, sem a constatação de fundada suspeita, é ilegal e contamina as provas obtidas. 2. A ausência de elementos concretos que indiquem a prática de crime ou a posse de material ilícito inviabiliza a busca pessoal e a consequente validade das provas obtidas.
+Dispositivos relevantes citados: CPP, art. 244; Lei n. 11.343/2006, art. 33.
+Jurisprudência relevante citada:STJ, HC 774.140/SP, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 25.10.2022; STJ, AgRg no HC n. 883.286/SE, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 17/6/2024; STJ, STJ, AgRg no HC 735.387/SP, Rel. Min. Olindo Menezes, Sexta Turma, julgado em 06.12.2022; STJ, AgRg no HC 771.337/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 04.10.2022; STJ, AgRg no HC 916.042/SP, Rel. Min. Otávio de Almeida Toledo, Sexta Turma, julgado em 10.12.2024.
+VOTO
+A pretensão não merece êxito, na medida em que a parte agravante não apresentou argumentos capazes de modificar o entendimento anteriormente adotado, o qual submeto à apreciação do Colegiado.
+Conforme consignado na decisão agravada, o réu foi condenado, em segunda instância, como incurso nas sanções do art. 33, caput, da Lei n. 11.343/2006, à pena de 01 ano e 08 meses de reclusão, no regime inicial aberto, além do pagamento de 166 dias-multa.
+No tocante à suscitada ilicitude da abordagem realizada pelos policiais militares e, consequentemente, das provas amealhadas aos autos, colhe-se o seguinte trecho extraído do aresto impugnado:
+"Não há que se falar em ilegalidade da revista pessoal do acusado quando os policiais, ao avistá-lo, trajando capa de chuva em dia ensolarado, aparentando trazer algo consigo, demonstrando nervosismo além do normal ao ver a viatura, em atitude suspeita, oportunidade em que foram apreendidas porções de maconha e cocaína em seu poder, 03 (três) porções de maconha, com massa bruta total de 830g (oitocentos e trinta gramas) e 19 (dezenove) porções de cocaína, com massa bruta total de 17,540g (dezessete gramas, quinhentos e quarenta miligramas), revelando a presença de justa causa para a abordagem.
+A nulidade das provas não merece prosperar, o processado foi flagrado em situação de fundada suspeita, sendo que o caput, da Lei n. art. 33, 13.343/2006 é crime permanente, presente a justa causa para a revista pessoal, estando acobertada de legalidade a prisão em flagrante delito, a abordagem, não comprometendo a prova da ação penal, ausente violação dos arts. 240, § 2º e 244, ambos do Código de Processo Penal, inviabilizando a reversão da sentença penal condenatória por ilicitude da prova.
+O entendimento do excelso Supremo Tribunal Federal - STF sobre a presença da justa causa na abordagem pessoal e busca domiciliar:
+(..)
+Posto isso, conheço e desprovejo o Recurso de Apelação Criminal, mantendo INTEGRALMENTE a sentença condenatória, por seus próprios e judiciosos fundamentos." (e-STJ, fls. 433-437, grifou-se).
+O art. 244 do Código de Processo Penal dispõe que "a busca pessoal independerá de mandado, no caso de prisão ou quando houver fundada suspeita de que a pessoa esteja na posse de arma proibida ou de objetos ou papéis que constituam corpo de delito, ou quando a medida for determinada no curso de busca domiciliar".
+Sobre o tema, esta Corte já se manifestou reiteradas vezes que "há uma necessária referibilidade da medida, vinculada à sua finalidade legal probatória, a fim de que não se converta em salvo-conduto para abordagens e revistas exploratórias (fishing expeditions), baseadas em suspeição genérica existente sobre indivíduos, atitudes ou situações, sem relação específica com a posse de arma proibida ou objeto que constitua corpo de delito de uma infração penal" (HC n. 774.140/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 25/10/2022, DJe de 28/10/2022).
+Além disso, "o entendimento adotado pelo SUPREMO TRIBUNAL FEDERAL impõe que os agentes estatais devem nortear suas ações, em tais casos, motivadamente e com base em elementos probatórios mínimos que indiquem a ocorrência de situação flagrante. A justa causa, portanto, não exige a certeza da ocorrência de delito, mas, sim, fundadas razões a respeito. Precedentes (AgRg no ARE 1.458.795, Relator para o acórdão Ministro Alexandre de Moraes, vencido Ministro Cristiano Zanin, DJe de 28/2/2024)." (AgRg no HC n. 883.286/SE, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/6/2024, DJe de 19/6/2024).
+No caso em análise, verifica-se que a nulidade arguida foi afastada pela instância anterior, sob o fundamento de que a abordagem policial ocorreu em razão de o acusado estar utilizando capa de chuva em dia ensolarado e apresentar sinais de "nervosismo" ao avistar os policiais.
+Contudo, observa-se que os elementos apontados pelo Tribunal de origem, ainda que considerados em conjunto, não se mostram suficientes para afastar a conclusão de que a revista pessoal foi realizada com base em juízo meramente subjetivo por parte dos agentes responsáveis pela abordagem, haja vista que a simples aparência de nervosismo e o uso de capa de chuva em dia ensolarado não configuram fundada suspeita, nos termos exigidos pela jurisprudência, para justificar a intervenção policial.
+Não houve, portanto, a indicação de qualquer atitude concreta que apontasse estar o recorrente na posse de material ilícito ou praticando algum crime. Logo, conforme reiterada jurisprudência desta Corte, é ilegal a busca pessoal realizada sem fundadas razões.
+Nesse sentido, confiram-se os seguintes precedentes, com destaques:
+" ..
+1. A referência a elementos subjetivos, como o nervosismo do agravado ao notar a presença dos policiais, não autoriza a busca pessoal sem prévia autorização judicial.
+2. A ilegalidade da prisão em flagrante contamina a prova colhida, esvaziando da denúncia os indícios de materialidade e autoria, justificando, por conseguinte, a imediata interrupção da atividade persecutória estatal.
+3. Mesmo que a idoneidade da prisão em flagrante não tenha sido debatida pelo Tribunal de origem, impõe-se-lhe a revogação como consectário lógico da declaração de nulidade da busca pessoal realizada, que fulminou com as todas as provas da materialidade delitiva.
+4. Agravo regimental improvido." (AgRg no HC n. 735.387/SP, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 6/12/2022, DJe de 15/12/2022.).
+" ..
+1. A ausência de justa causa previamente constatada por parte dos agentes responsáveis pela diligência policial a respeito da presença de fundadas razões para a realização de busca pessoal invalida as provas obtidas a partir da medida.
+2. Neste caso, as circunstâncias que antecederam a medida invasiva não permitem que se conclua pela presença de elementos de suporte suficiente para justificar a adoção da medida invasiva. A alegação de que o abordado demonstrou nervosismo durante a ação policial, circunstância que não atende à exigência de constatação de elementos prévios e tangíveis da ocorrência de crime para dar amparo à diligência.
+3. Esta Corte tem declarado ilícitas as provas derivadas da prisão em flagrante ocorridas em contexto fático semelhante ao ocorrido na hipótese apresentada nestes autos, em que a entrada forçada em domicílio não foi precedida de prévia constatação, para além da dúvida razoável, da ocorrência de crime permanente no interior do imóvel.
+4. Agravo regimental não provido." (AgRg no HC n. 771.337/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 4/10/2022, DJe de 10/10/2022).
+" ..
+4. Na hipótese, a busca pessoal foi amparada no fato de o acusado ter sido visto em atitudes suspeitas em local conhecido como ponto de tráfico de drogas e, posteriormente, foi localizado dinheiro em poder dele e foram localizados entorpecentes no estojo indicado por ele e pelo seu irmão.
+5. A descoberta posterior não ratifica ou justifica as diligências anteriores, incidindo nulidade que macula, igualmente, as provas delas decorrentes. Não restando prova da materialidade do delito de tráfico de drogas com a exclusão das evidências assim obtidas, é de rigor a absolvição.
+6. Agravo regimental não provido." (AgRg no HC n. 916.042/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 10/12/2024, DJEN de 16/12/2024.)
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
