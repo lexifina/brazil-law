@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de LEONARDO TELES DORIA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta nos autos que o paciente está preso preventivamente pela suposta prática do crime de tráfico de drogas.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de Justiça de origem, que denegou a ordem em acórdão às fls. 11-18.
+Neste writ, a defesa sustenta, em suma, a ausência de fundamentação da decisão que decretou a prisão preventiva em desfavor do paciente ponderando suas condições pessoais favoráveis.
+Sustenta que a quantidade apreendida (13 porções, totalizando 54,24g de maconha) é pequena, que o fato não envolveu violência ou grave ameaça, e que houve uso indevido de presunções quanto a ordem pública e risco de fuga
+Aduz ainda, ilicitude da prova decorrente de revista sem acompanhamento, o que enfraqueceria o fumus comissi delicti e deveria conduzir à revogação da preventiva.
+Requer a revogação da prisão preventiva ou, subsidiariamente, sua substituição por medidas cautelares diversas.
+Pedido de liminar indeferido às fls.153-155.
+Informações prestadas às fls. 160-163. O Ministério Público Federal manifestou às fls. 166-170 pela "denegação da ordem".
+É o relatório. DECIDO.
+Primeiramente, no que tange a alegação de ilicitude da prova decorrente de revista sem acompanhamento, o que enfraqueceria o fumus comissi delicti e deveria conduzir à revogação da preventiva, da leitura do acórdão objurgado verifica-se que tal matéria não foi alvo de deliberação pelo Tribunal de origem, circunstância que impede qualquer manifestação desta Corte Superior de Justiça sobre o tópico, sob pena de se configurar a prestação jurisdicional em indevida supressão de instância. Sobre o tema, os seguintes precedentes: AgRg no HC n. 865.449/SC, Sexta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 26/6/2024; AgRg no HC n. 918.681/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 21/6/2024; AgRg no HC n. 901.024/GO, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe de 3/6/2024 e AgRg no HC n. 877.777/PE, Sexta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 18/4/2024.
+Quanto a segregação cautelar, no caso em tela, tenho que a decisão que decretou a prisão preventiva do paciente, bem como o acórdão impugnado estão suficientemente fundamentados, com a indicação da existência nos autos de circunstâncias ensejadoras da custódia cautelar, notadamente pelo risco de reiteração delitiva, "diante da reincidência específica do paciente que ostenta duas condenações por tráfico de drogas"- fl. 16, circunstâncias ensejadoras da manutenção da segregação cautelar.
+Conforme pacífica jurisprudência desta Corte:
+"como sedimentado em farta jurisprudência desta Corte, maus antecedentes, reincidência ou até mesmo outras ações penais ou inquéritos em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública" (RHC n. 156.048/SC, Rel. Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 15/02/2022, DJe 18/02/2022)."(AgRg no RHC n. 196.193/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1/7/2024, DJe de 3/7/2024.)
+Outrossim, conforme a jurisprudência desta Corte, a reincidência justifica a prisão cautelar para a garantia da ordem pública,  (AgRg no HC n. 914.154/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 16/8/2024); (AgRg no AREsp n. 2.451.465/PR, Minha Relatoria, Quinta Turma, DJe de 13/8/2024); (AgRg no RHC n. 198.668/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 3/7/2024.); (AgRg no RHC n. 192.068/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 26/6/2024)  .
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
