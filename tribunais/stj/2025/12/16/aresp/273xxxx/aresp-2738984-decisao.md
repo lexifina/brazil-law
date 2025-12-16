@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que não admitiu o recurso especial pelo qual JOSE ALEIXO DOS SANTOS FILHO se insurgira contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 925):
+AÇÃO RESCISÓRIA - PRETENSÃO DE DESCONSTITUIÇÃO DE DECISÃO INTERLOCUTÓRIA QUE FOI SUBSTITUÍDA POR ACÓRDÃO - INÉPCIA DA INICIAL CONFIGURADA. "No caso concreto, levando-se em conta a existência de Acórdão que, na forma do artigo 1.008 do Código de Processo Civil, substituiu a r. decisão do Juízo de Primeiro Grau, objeto da rescisão expressamente almejada, tem-se por configurada a inépcia da inicial a obstar a admissibilidade e conhecimento da pretensão deduzida".
+Petição inicial indeferida.
+Os embargos de declaração opostos foram rejeitados (fls. 936/940).
+Em suas razões, a parte agravante requer o conhecimento do agravo a fim de que seja determinado o processamento do recurso especial.
+A parte adversa não apresentou contraminuta (fl. 1.000).
+É o relatório.
+Da irresignação não é possível conhecer visto que a parte agravante não refutou adequadamente a decisão agravada.
+O Tribunal de origem não admitiu o recurso especial sob os seguintes fundamentos: os arts. 502, 503, 507, 508, 535, inciso II, 1.022, incisos I e II, não foram prequestionados; o art. 1.022 do Código de Processo Civil não foi violado no acórdão recorrido; "os argumentos expendidos não são suficientes para infirmar as conclusões do v. acórdão combatido que contém fundamentação adequada para lhe dar respaldo" e "busca o recorrente o reexame dos elementos fáticos que serviram de base à decisão recorrida, quando a ação rescisória se processa apenas nas situações taxativamente estabelecidas no Código de Processo Civil, sem margem de rediscussão das matérias conhecidas na demanda ordinária" (fl. 984).
+Nas razões do agravo em recurso especial, a parte recorrente alegou o seguinte:
+(1) "Todas as matérias ventiladas no Recurso Especial foram devidamente abordadas antes da interposição do Recurso Especial, assim, as Súmulas 211 STJ deve ser afastada, não sendo óbice ao conhecimento do recurso." (fl. 998); e
+(2) "No entanto, conforme demonstrado, a inadmissão pela Súmula 7 deste STJ, mostra-se indevida, pois o Agravante busca o correto enquadramento jurídico das provas para o reconhecimento do período especial laborado, conforme legislação pertinente que prevê essa possibilidade." (fl. 999).
+Argumenta que todos os artigos apontados como violados foram prequestionados e que a reforma do acórdão não demandaria a revisão de fatos e de provas constantes nos autos, apenas nova valoração.
+Constata-se que a parte agravante apenas alegou a inaplicabilidade das súmulas 7 e 211 do STJ, mas não impugnou efetivamente nenhum dos fundamentos, porque se limitou a alegações genéricas e superficiais.
+O objetivo do agravo em recurso especial é o de desconstituir a decisão de inadmissão do recurso especial, sendo, por isso, imprescindível a impugnação específica de todos os fundamentos nela lançados com o fim de demonstrar o seu desacerto, o que, como se vê, não foi feito no presente caso.
+Dessa forma, por faltar impugnação pertinente, aplico ao presente caso, por analogia, a Súmula 182 do Superior Tribunal de Justiça, segundo a qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Na mesma linha:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ. AGRAVO INTERNO DA FAZENDA NACIONAL NÃO CONHECIDO.
+1. A parte agravante deve infirmar os fundamentos da decisão impugnada, mostrando-se inadmissível o recurso que não se insurge contra todos eles - Súmula 182 do Superior Tribunal de Justiça.
+2. Em análise do Agravo Interno interposto, tem-se que a parte agravante não rebateu todos fundamentos da decisão que conheceu do Agravo para conhecer em parte e negar provimento ao Recurso Especial, pois deixou de se manifestar acerca da incidência das Súmulas 282 e 356/STF.
+3. Por fim, há de se registrar a necessidade de impugnação devida e específica de todos os fundamentos da decisão agravada, mesmo que sejam distintos e independentes entre si.
+4. Agravo Interno da FAZENDA NACIONAL não conhecido.
+(AgInt no AREsp n. 1.616.546/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 22/6/2020, DJe de 29/6/2020.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, TODOS OS FUNDAMENTOS DA DECISÃO QUE NÃO ADMITIU O RECURSO ESPECIAL. ART. 932, III, DO CPC/2015 E SÚMULA 182/STJ, POR ANALOGIA. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+II. Incumbe ao agravante infirmar, especificamente, todos os fundamentos da decisão que inadmitiu o Recurso Especial, demonstrando o seu desacerto, de modo a justificar o processamento do apelo nobre, sob pena de não ser conhecido o Agravo (art. 932, III, do CPC vigente). Nesse sentido: STJ, AgRg no AREsp 704.988/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 10/09/2015; EDcl no AREsp 741.509/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 16/09/2015; AgInt no AREsp 888.667/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 18/10/2016; AgInt no AREsp 895.205/PB, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 20/10/2016; AgInt no AREsp 800.320/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 13/10/2016; EAREsp 701.404/SC, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe de 30/11/2018; EAREsp 831.326/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe de 30/11/2018; EAREsp 746.775/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe de 30/11/2018.
+III. No caso, por simples cotejo entre o decidido e as razões do Agravo em Recurso Especial verifica-se a ausência de impugnação específica de todos os fundamentos da decisão que, em 2º Grau, inadmitira o Especial, o que atrai a aplicação do disposto no art. 932, III, do CPC/2015 - vigente à época da publicação da decisão então agravada e da interposição do recurso -, que faculta ao Relator "não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida", bem como do teor da Súmula 182 do Superior Tribunal de Justiça, por analogia.
+IV. Agravo interno improvido.
+(AgInt no AREsp 1.503.814/MA, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 17/10/2019, DJe de 28/10/2019.)
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
