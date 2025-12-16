@@ -1,0 +1,70 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/12/2025 a 16/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO PRIVADO. AGRAVO EM RECURSO ESPECIAL. ASTREINTES. REDUÇÃO. ÓBICE DA SÚMULA N. 7 DO STJ. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo em recurso especial interposto contra decisão que inadmitiu o recurso especial pelos óbices da Súmula n. 7 do STJ quanto à alegada violação dos arts. 537, § 1º, I, do CPC, e 84, § 4º, do CDC, e, pela mesma razão, quanto à divergência jurisprudencial.
+2. A controvérsia diz respeito a agravo de instrumento interposto contra decisão no cumprimento de sentença que rejeitou exceção de pré-executividade e determinou o prosseguimento da execução das astreintes, nos autos de ação declaratória de inexistência de débito c/c condenatória de indenização por danos morais.
+3. A Corte a quo concluiu pela possibilidade de redução das astreintes por exorbitância e ausência de limitação temporal, em atenção à proporcionalidade e à razo abilidade.
+II. QUESTÃO EM DISCUSSÃO
+Há cinco questões em discussão: (i) saber se a redução das astreintes contrariou o art. 537, § 1º, I, do CPC, porquanto a multa diária seria proporcional à obrigação e o valor total decorreria da recalcitrância do devedor; (ii) saber se o fundamento de ausência de prazo é inválido diante da fixação de 48 horas, nos termos do art. 84, § 4º, do CDC; (iii) saber se a redução deveria considerar o valor diário e a prestação a ser cumprida, e não apenas a cifra final, conforme o art. 537, § 1º, I, do CPC; (iv) saber se a elevada quantia decorreu exclusivamente da resistência do devedor, à luz do art. 84, § 4º, do CDC; e (v) saber se há divergência jurisprudencial com os REsp n. 1.736.832/SC, REsp n. 1.475.157/SC e REsp n. 1.840.280/BA.
+III. RAZÕES DE DECIDIR
+4. Incide a Súmula n. 7 do STJ, pois a pretensão demanda reexame do acervo fático-probatório quanto à proporcionalidade das astreintes, à existência e à ciência do prazo de cumprimento e à adequação do valor acumulado, o que inviabiliza o conhecimento pela alínea a do art. 105, III, da CF.
+5. O óbice da Súmula n. 7 do STJ aplicado à alínea a impede, no mesmo tema, o conhecimento do dissídio jurisprudencial pela alínea c.
+IV. DISPOSITIVO E TESE
+6. Agravo em recurso especial desprovido.
+Tese de julgamento: "1. Aplica-se a Súmula n. 7 do STJ para obstar o reexame da proporcionalidade das astreintes e da existência de prazo de cumprimento, por envolver matéria fático-probatória. 2. Incidindo o óbice da Súmula n. 7 do STJ na alínea a, fica inviabilizado o conhecimento do dissídio pela alínea c sobre o mesmo tema."
+Dispositivos relevantes citados: CPC, arts. 537, § 1º, I, 85, § 11; CDC, art. 84, § 4º; CF, art. 105, III, a, c.
+Jurisprudência relevante citada: STJ, Súmula n. 7.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por NAIR BARBOSA DIAS contra a decisão que inadmitiu o recurso especial, pelos óbices da Súmula n. 7 do STJ quanto à alegada violação dos arts. 537, § 1º, I, do Código de Processo Civil, e 84, § 4º, do Código de Defesa do Consumidor, e, pela mesma razão, quanto à divergência jurisprudencial (alínea c), com referência ao AgInt no AREsp n. 877.696/SP (fls. 374-376).
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial foi interposto com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Goiás em agravo de instrumento, nos autos de ação declaratória de inexistência de débito c/c condenatória de indenização por danos morais.
+O julgado foi assim ementado (fl. 73):
+AGRAVO DE INSTRUMENTO. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C CONDENATÓRIA DE INDENIZAÇÃO POR DANOS MORAIS. RECURSO SECUNDUM EVENTUM LITIS. FIXAÇÃO DE ASTREINTES. MATÉRIA NÃO ATINGIDA PELA COISA JULGADA. VALOR EXORBITANTE. POSSIBILIDADE DE REDUÇÃO. AUSÊNCIA DE LIMITAÇÃO DO PRAZO PARA O CUMPRIMENTO DA OBRIGAÇÃO E SUA INCIDÊNCIA. PRECEDENTES DO STJ E DESTA CORTE. 1. O agravo de instrumento devolve à instância revisora apenas a matéria discutida na decisão combatida (secundum eventum litis), não podendo ser conhecida e analisada questão não apreciada pelo juízo de origem, sob pena de supressão de instância. 2. A jurisprudência pátria é uníssona ao permitir a revisão de eventual valor atribuído as astreintes, em hipóteses excepcionais, sobretudo quando verificada a exorbitância do montante fixado em relação a obrigação principal e a ausência de limitação temporal das astreintes, em flagrante ofensa aos princípios da proporcionalidade e razoabilidade, podendo acarretar o enriquecimento ilícito da parte autora. RECURSO PROVIDO.
+Os embargos de declaração foram rejeitados nos termos da seguinte ementa (fl. 107):
+E M E N T A : E M B A R G O S D E C L A R A T Ó R I O S N O A G R A V O D E INSTRUMENTO. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C CONDENATÓRIA DE INDENIZAÇÃO POR DANOS MORAIS. FIXAÇÃO DE ASTREINTES. VALOR EXORBITANTE. POSSIBILIDADE DE REDUÇÃO. EVIDENTE INTENÇÃO DE REDISCUSSÃO DA MATÉRIA. VIA INADEQUADA. 1. Nos termos do art. 1.022 do CPC, os embargos declaratórios objetivam, exclusivamente, rever decisões que apresentam falhas ou vícios, como obscuridade, contradição, omissão ou erro material, a fim de garantir a harmonia lógica, a inteireza e a clareza da decisão embargada, não sendo meio hábil ao reexame da causa. 2. Considerando que, quando da prolação da decisão fustigada restaram devidamente esposadas as razões de fato e de direito a ensejarem a rejeição dos Embargos Declaratórios opostos; que o julgamento se deu à unanimidade de votos; que, dentre as funções do Poder Judiciário, não lhe é atribuída a de órgão consultivo e que, a esta altura, eventual erro na aplicação do direito deve ser corrigido pelo recurso cabível em lei, sendo fato que não há omissão a permear o decisum embargado, mas sim patente inconformismo com a tese jurídica adotada pelo Colegiado, o que obsta o provimento dos aclaratórios, notadamente com vistas a obter novo desfecho para a lide. 3. Nas ações que têm por objeto o cumprimento de obrigação de fazer ou não fazer, caberá ao juiz, de ofício ou a requerimento da parte, tomar as providências cabíveis e necessárias para assegurar o resultado prático ou a efetivação da tutela específica, sendo perfeitamente possível a fixação de multa conforme os princípios da razoabilidade e da proporcionalidade, atento ao seu limite e o prazo de cumprimento da obrigação. EMBARGOS DECLARATÓRIOS REJEITADOS.
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação dos seguintes artigos:
+a) 537 do Código de Processo Civil, § 1º, I, porque o acórdão recorrido reduziu indevidamente as astreintes fixadas em R$ 500,00 diários, embora a recalcitrância do banco tenha perdurado por 411 dias e a multa vise coagir o cumprimento, não sendo adequado comparar apenas a soma total com a obrigação principal;
+b) 84 do Código de Defesa do Consumidor, § 4º, já que houve determinação de prazo razoável de 48 horas para cumprimento na origem, de modo que o fundamento de ausência de prazo não poderia sustentar a redução da multa;
+c) 537 do Código de Processo Civil, § 1º, I, porquanto a redução deveria considerar o valor diário e a prestação a ser cumprida, e não apenas a cifra final apurada; e
+d) 84 do Código de Defesa do Consumidor, § 4º, visto que a elevada quantia decorreu exclusivamente da resistência do devedor, que ignorou intimações e notificações de descumprimento.
+Sustenta que o Tribunal de origem, ao decidir que seria possível reduzir as astreintes por sua suposta exorbitância e por ausência de limitação temporal, divergiu do entendimento dos REsp n. 1.736.832/SC, REsp n. 1.475.157/SC e REsp n. 1.840.280/BA.
+Requer "a) restabelecido o valor da multa diária de R$ 500,00 (quinhentos reais) e o tempo de descumprimento da ordem judicial, ou seja, 411 (quatrocentos e onze) dias; e b) restabelecida a decisão (evento 157) de rejeição da exceção de pré-executividade oposta pelo Recorrido, tendo como consequência a retomada da execução do valor integral das astreintes" (fls. 268).
+Nas contrarrazões, a parte recorrida aduz que incide a Súmula n. 7 do STJ, pois o recurso exige reexame de fatos e provas, e que a redução das astreintes é possível diante de excesso e desproporção em relação à obrigação principal, além de ausência de cotejo analítico suficiente, requerendo a negativa de seguimento ou, subsidiariamente, o desprovimento (fls. 363-368).
+É o relatório.
+EMENTA
+DIREITO PRIVADO. AGRAVO EM RECURSO ESPECIAL. ASTREINTES. REDUÇÃO. ÓBICE DA SÚMULA N. 7 DO STJ. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo em recurso especial interposto contra decisão que inadmitiu o recurso especial pelos óbices da Súmula n. 7 do STJ quanto à alegada violação dos arts. 537, § 1º, I, do CPC, e 84, § 4º, do CDC, e, pela mesma razão, quanto à divergência jurisprudencial.
+2. A controvérsia diz respeito a agravo de instrumento interposto contra decisão no cumprimento de sentença que rejeitou exceção de pré-executividade e determinou o prosseguimento da execução das astreintes, nos autos de ação declaratória de inexistência de débito c/c condenatória de indenização por danos morais.
+3. A Corte a quo concluiu pela possibilidade de redução das astreintes por exorbitância e ausência de limitação temporal, em atenção à proporcionalidade e à razo abilidade.
+II. QUESTÃO EM DISCUSSÃO
+Há cinco questões em discussão: (i) saber se a redução das astreintes contrariou o art. 537, § 1º, I, do CPC, porquanto a multa diária seria proporcional à obrigação e o valor total decorreria da recalcitrância do devedor; (ii) saber se o fundamento de ausência de prazo é inválido diante da fixação de 48 horas, nos termos do art. 84, § 4º, do CDC; (iii) saber se a redução deveria considerar o valor diário e a prestação a ser cumprida, e não apenas a cifra final, conforme o art. 537, § 1º, I, do CPC; (iv) saber se a elevada quantia decorreu exclusivamente da resistência do devedor, à luz do art. 84, § 4º, do CDC; e (v) saber se há divergência jurisprudencial com os REsp n. 1.736.832/SC, REsp n. 1.475.157/SC e REsp n. 1.840.280/BA.
+III. RAZÕES DE DECIDIR
+4. Incide a Súmula n. 7 do STJ, pois a pretensão demanda reexame do acervo fático-probatório quanto à proporcionalidade das astreintes, à existência e à ciência do prazo de cumprimento e à adequação do valor acumulado, o que inviabiliza o conhecimento pela alínea a do art. 105, III, da CF.
+5. O óbice da Súmula n. 7 do STJ aplicado à alínea a impede, no mesmo tema, o conhecimento do dissídio jurisprudencial pela alínea c.
+IV. DISPOSITIVO E TESE
+6. Agravo em recurso especial desprovido.
+Tese de julgamento: "1. Aplica-se a Súmula n. 7 do STJ para obstar o reexame da proporcionalidade das astreintes e da existência de prazo de cumprimento, por envolver matéria fático-probatória. 2. Incidindo o óbice da Súmula n. 7 do STJ na alínea a, fica inviabilizado o conhecimento do dissídio pela alínea c sobre o mesmo tema."
+Dispositivos relevantes citados: CPC, arts. 537, § 1º, I, 85, § 11; CDC, art. 84, § 4º; CF, art. 105, III, a, c.
+Jurisprudência relevante citada: STJ, Súmula n. 7.
+VOTO
+A controvérsia diz respeito a agravo de instrumento interposto contra decisão no cumprimento de sentença que rejeitou exceção de pré-executividade e determinou o prosseguimento da execução das astreintes (evento 157), com fundamento em validação anterior das multas e definição do período de incidência.
+I - Art. 537, § 1º, I, do Código de Processo Civil
+No recurso especial a parte recorrente alega que a redução das astreintes contraria o dispositivo, pois a multa diária de R$ 500,00 foi proporcional à obrigação de retirar o nome dos cadastros, e o valor total somente se elevou pela recalcitrância do devedor.
+O acórdão recorrido concluiu pela redução para R$ 50.000,00, afirmando exorbitância do montante superior a R$ 250.000,00 e ausência de prazo de cumprimento, destacando a vedação ao enriquecimento sem causa e a possibilidade de revisão das astreintes (fls. 75-78).
+A pretensão, tal como deduzida, demanda revolvimento do acervo fático-probatório para aferir a alegada compatibilidade e suficiência da multa diária, a existência de prazo e a proporcionalidade do valor acumulado, o que atrai o óbice da Súmula n. 7 do STJ.
+II - Art. 84, § 4º, do Código de Defesa do Consumidor
+A recorrente afirma que houve fixação de prazo razoável de 48 horas para cumprimento na decisão liminar, de modo que o fundamento de ausência de prazo não poderia sustentar a redução das astreintes.
+O acórdão recorrido assentou que a multa foi fixada "sem o prazo para o cumprimento da obrigação", em desconformidade com o § 4º do art. 84, e, à vista da proporcionalidade e razoabilidade, reduziu o valor para R$ 50.000,00 (fls. 77-78).
+A análise inversa pretendida exigiria reexame de fatos e documentos para comprovar a existência, a forma e a ciência do prazo, providência inviável na via especial, ante o óbice da Súmula n. 7 do STJ.
+III - Divergência jurisprudencial
+Alega o recorrente dissídio com os REsp n. 1.736.832/SC, REsp n. 1.475.157/SC e REsp n. 1.840.280/BA, quanto aos critérios de proporcionalidade das astreintes e à impossibilidade de redução com base apenas na cifra final.
+A imposição do óbice da Súmula n. 7 do STJ quanto à alínea a do permissivo constitucional impede a análise do recurso pela alínea c sobre o mesmo tema.
+IV - Conclusão
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+É o voto.
