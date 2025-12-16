@@ -1,0 +1,92 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/12/2025 a 16/12/2025, por unanimidade, dar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REGULARIZAÇÃO DE REPRESENTAÇÃO PROCESSUAL. INTIMAÇÃO ATENDIDA. SÚMULA 115/STJ. INAPLICABILIDADE. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. JULGAMENTO DO RECURSO ESPECIAL. AÇÃO DE ANULAÇÃO DE ELEIÇÃO CONDOMINIAL. EMPATE. VOTO DE QUALIDADE DO PRESIDENTE DA ASSEMBLEIA. PREVISÃO CONVENCIONAL EXPRESSA. AUSÊNCIA DE VIOLAÇÃO AOS ARTS. 935, 1.022 E 489 DO CPC, ART. 4º DA LINDB E ART. 110 DO CÓDIGO ELEITORAL. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ. RECURSO DESPROVIDO.
+1. Regularizada a representação processual após intimação, inaplicável a Súmula 115/STJ.
+2. Reconsiderada a decisão da Presidência, passa-se à análise do mérito do recurso.
+3. O acórdão recorrido enfrentou, de forma clara e coerente, todas as matérias suscitadas, não havendo negativa de prestação jurisdicional.
+4. A convenção condominial prevê expressamente o voto de qualidade do presidente da assembleia em caso de empate, inexistindo lacuna normativa que justifique aplicação analógica do Código Eleitoral.
+5 A revisão das conclusões do Tribunal de origem demandaria reexame de fatos e cláusulas contratuais, vedado pelas Súmulas 5 e 7/STJ.
+6. Agravo interno provido para reconsiderar a decisão agravada e, em juízo de retratação, negar provimento ao recurso especial.
+RELATÓRIO
+EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+Trata-se de agravo interno, interposto por LUIZ ANTONIO SAMPAIO GOUVEIA e ELIANA MARA BROSSI, contra decisão monocrática da Presidência desta Corte (fls. 604/605, e-STJ), que não conheceu do agravo em recurso especial do ora insurgente.
+O apelo extremo, fundamentado na alínea "a" do permissivo constitucional, objetivou reformar acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 409/416, e-STJ):
+APELAÇÃO CÍVEL. Eleição para Síndico, Subsíndicos e Conselho em Condomínio Edilício. Sentença de improcedência da ação principal e improcedência da reconvenção. Apelo exclusivo dos autores/reconvindos. Preliminar de cerceamento de defesa afastada. Juiz é o destinatário da prova, a ele competindo determinar quais são necessárias para o deslinde da causa. Análise antecipada da prova se coaduna com os princípios constitucionais da razoável duração do processo e do livre convencimento do Juiz. Preliminar de nulidade acolhida para anular parcialmente a fundamentação da sentença recorrida. Julgamento ultra petita. Nulidade que só atinge o excesso. No mérito, eleição para síndico, subsíndico e conselho consultivo que obedeceu a legislação ordinária e a convenção do condomínio. Condôminos que devem se submeter ao estipulado na convenção de condomínio (art. 9º, §2º, da lei n. 4.591/64 e art. 1333 do CC). É direito de todos os condôminos, estando quites, votar (art. 1335, III, do CC). Na hipótese, convenção de condomínio prevê licitamente que em caso de empate o voto de qualidade caberá ao presidente da assembleia. Possibilidade do presidente da mesa, em sendo condômino, votar duas vezes. O fato de ser candidato a qualquer cargo não o impede de votar, seja em quem for, e tampouco de presidir a assembleia. Ausência de previsão legal ou na convenção do condomínio no sentido de que o empate seria resolvido em favor do candidato mais velho. Assembleia e eleição regulares. Dano moral que exige conduta ilícita do causador do dano (arts. 186 e 187 do CC). ACOLHIDA MATÉRIA PRELIMINAR. NO MÉRITO, RECURSO NÃO PROVIDO.
+Opostos embargos de declaração (fls. 465/467, e-STJ), esses foram rejeitados (fls. 481/485, e-STJ).
+Nas razões do recurso especial (fls. 523/533, e-STJ), os insurgentes apontam ofensa aos seguintes arts:
+(ii) 489 e 1.022 do CPC/2015, sob o argumento de que o acórdão recorrido teria deixado de se manifestar sobre questões relevantes, configurando omissão e ausência de fundamentação;
+(iii) 935 do CPC/2015, sustentando nulidade do julgamento virtual dos embargos de declaração, em razão da ausência de intimação da parte acerca da alteração de relatoria;
+(iv) 4º da LINDB, 110 do Código Eleitoral e 322, § 2º, do CPC, alegando lacuna normativa e defendendo aplicação analógica do art. 110 do Código Eleitoral, para que, em caso de empate na votação, seja proclamado eleito o candidato mais idoso, afastando o voto duplo da presidente da mesa.
+Contrarrazões às fls. 546/552, e-STJ.
+Em juízo de admissibilidade (fls. 554/556, e-STJ), negou-se processamento ao recurso especial sob os fundamentos de que: a) não restou demonstrada a alegada vulneração aos dispositivos arroladas; b) incidiria ao caso o enunciado da Súmula n. 7 desta Corte; dando ensejo ao agravo de fls. 559/573, e-STJ, buscando destrancar o processamento daquela insurgência.
+Em decisão monocrática (fls. 604/605, e-STJ), a presidência desta Corte negou provimento ao apelo, com fundamento na Súmula 115/STJ.
+Daí o presente agravo interno (fls. 609/615, e-STJ), no qual a agravante refuta a aplicação do supracitado óbice.
+Contrarrazões às fls. 619/622, e-STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REGULARIZAÇÃO DE REPRESENTAÇÃO PROCESSUAL. INTIMAÇÃO ATENDIDA. SÚMULA 115/STJ. INAPLICABILIDADE. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. JULGAMENTO DO RECURSO ESPECIAL. AÇÃO DE ANULAÇÃO DE ELEIÇÃO CONDOMINIAL. EMPATE. VOTO DE QUALIDADE DO PRESIDENTE DA ASSEMBLEIA. PREVISÃO CONVENCIONAL EXPRESSA. AUSÊNCIA DE VIOLAÇÃO AOS ARTS. 935, 1.022 E 489 DO CPC, ART. 4º DA LINDB E ART. 110 DO CÓDIGO ELEITORAL. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ. RECURSO DESPROVIDO.
+1. Regularizada a representação processual após intimação, inaplicável a Súmula 115/STJ.
+2. Reconsiderada a decisão da Presidência, passa-se à análise do mérito do recurso.
+3. O acórdão recorrido enfrentou, de forma clara e coerente, todas as matérias suscitadas, não havendo negativa de prestação jurisdicional.
+4. A convenção condominial prevê expressamente o voto de qualidade do presidente da assembleia em caso de empate, inexistindo lacuna normativa que justifique aplicação analógica do Código Eleitoral.
+5 A revisão das conclusões do Tribunal de origem demandaria reexame de fatos e cláusulas contratuais, vedado pelas Súmulas 5 e 7/STJ.
+6. Agravo interno provido para reconsiderar a decisão agravada e, em juízo de retratação, negar provimento ao recurso especial.
+VOTO
+EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+O presente recurso não merece prosperar, porquanto as razões expendidas pela parte agravante são insuficientes a derruir a fundamentação do decisum ora impugnado, motivo pelo qual ele merece ser mantido na íntegra por seus próprios fundamentos.
+1. De proêmio, destaca-se que não há omissão ou negativa de prestação jurisdicional (arts. 489 e 1.022, ambos do CPC), uma vez que o Tribunal de origem enfrentou expressamente as teses suscitadas, ainda que em sentido contrário à pretensão dos recorrentes, concluindo pela regularidade da eleição condominial, nos seguintes termos (fls. 413/415, e-STJ):
+Consta da Ata da Assembléia Geral Ordinária, realizada em 19/08/2021, que a Presidente da Mesa, Sra. Lígia, foi eleita por maioria de votos (fls. 27/32). Nesta Assembléia ambas as chapas foram apresentadas aos condôminos, sem qualquer impugnação à assunção da candidata a subsíndica à presidência da mesa. Também nesta mesma Assembléia, após impugnação aos votos das unidades 72 e 101 e constatado o empate, foi solicitado o voto de desempate da presidente da mesa, Sra Lígia, que indicou a chapa da qual fazia parte, ou seja, a composta pelos réus. Em nova impugnação, dois dos conselheiros da chapa eleita não poderiam assumir suas funções, portanto, ".. com a anuência de todos os presentes será realizada nova assembléia para composição dos membros do conselho consultivo apenas em nova assembléia" (fls. 32 - grifo nosso).
+Na nova assembléia, realizada em 15/09/2021, agora presidida por outra condômina, ou seja, a Sra. Geane, foram apresentados os candidatos ao Conselho Consultivo tão somente pela chapa 2, sendo eles eleitos por maioria, registrando-se somente um voto contrário, o do coautor, Sr. Luiz (fls. 34/37).
+ ..  Na Convenção de Condomínio do edifício réu consta que o condomínio será administrado por um síndico, que será um dos condôminos, com mandato de 2 anos, eleito por assembleia geral (fls. 51) e, em caso de empate, ".. caberá voto de qualidade ao presidente da assembléia" (fls. 58 - Cláusula 24ª, parágrafo único).
+Tem-se, portanto, que não havendo impedimento a qualquer condômino, salvo a pessoa do síndico, em exercer o cargo de presidente da assembléia, sendo o voto um direito de todos os condôminos quites com a taxa condominial e havendo previsão de que o voto de desempate seja dado pela pessoa que preside a mesa, resta clara a possibilidade do presidente da mesa, em sendo condômino, votar duas vezes. O fato de ser candidato a qualquer cargo não o impede de votar, seja em quem for, e tampouco de presidir a assembléia. E, uma vez presidindo a mesa, cabe-lhe prolatar o voto de desempate, conforme previsto na convenção de condomínio.
+Nenhuma irregularidade, portanto, se constata na eleição de síndico, subsíndico e conselheiros do Edifício réu.
+O Tribunal de origem reforçou que a convenção condominial, em sua cláusula 24ª, parágrafo único, prevê expressamente que, "em caso de empate, caberá voto de qualidade ao presidente da assembleia", razão pela qual inexistiu lacuna normativa a justificar aplicação analógica do art. 110 do Código Eleitoral.
+Ainda segundo o acórdão recorrido (fl. 414, e-STJ):
+A Convenção do Condomínio Edifício Cityfirst traz vedação expressa ao exercício da função de presidente ou secretário da assembléia somente ao síndico (fls. 57 - Cláusula 21ª, parágrafo único). Qualquer outra pessoa, portanto, pode exercer essa função. Desta feita, o exercício da presidência pela condômina Lígia, eleita por maioria de votos, foi legitima. O fato de ter-se apresentado como candidata a subsíndica não invalida a função de presidente, para a qual foi eleita.
+Essas passagens evidenciam que o Tribunal de Justiça enfrentou de forma completa e fundamentada todas as matérias invocadas, afastando tanto a alegação de nulidade da eleição quanto de violação à convenção condominial.
+Impende consignar que, conforme reiterada jurisprudência desta Corte, não configura negativa de prestação jurisdicional a decisão que, embora contrária ao interesse da parte, enfrenta fundamentadamente a controvérsia. Nesse sentido, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. SUFICIÊNCIA. AGRAVO DE INSTRUMENTO INTERPOSTO CONTRA DECISÃO QUE PÔS TERMO À EXECUÇÃO. INAPLICABILIDADE DO PRINCÍPIO DA FUNGIBILIDADE, PORQUANTO NÃO HÁ DÚVIDA A RESPEITO DO RECURSO ADEQUADO. AGRAVO NÃO PROVIDO.
+1. Não há violação aos arts. 489 e 1.022 do Código de Processo Civil de 2015, tendo em vista que o v. acórdão recorrido, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente, decidindo integralmente a controvérsia.
+2. A interposição de agravo de instrumento contra sentença que extingue processo de execução configura erro grosseiro e inviabiliza a aplicação do princípio da fungibilidade recursal. Precedentes.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1520112/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 04/02/2020, DJe 13/02/2020)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. OMISSÃO. INEXISTÊNCIA. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. ENTENDIMENTO NO SENTIDO DA AUSÊNCIA DE NOVAÇÃO. MERO PARCELAMENTO DA DÍVIDA. SÚMULAS 5 E 7/STJ. APLICAÇÃO. AGRAVO INTERNO DESPROVIDO.
+1. Inexistem omissões ou mesmo contradição a serem sanadas no julgamento estadual, portanto inexistentes os requisitos para reconhecimento de ofensa aos arts. 10, 489, § 1º, IV e VI, e 1.022 do CPC/2015 do novo CPC. O acórdão dirimiu a controvérsia com base em fundamentação sólida, sem tais vícios, o que não se confunde com omissão ou contradição, tendo em vista que apenas resolveu a celeuma em sentido contrário ao postulado pela parte insurgente. Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas apenas a declinar as razões de seu convencimento motivado, como de fato ocorre nos autos.
+ ..  3. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp 1445088/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/12/2019, DJe 19/12/2019)
+Assim, inexistente violação aos arts. 489 e 1.022, ambos do CPC.
+2. A alegação de nulidade por falta de intimação (art. 935 do CPC) também não prospera. O Tribunal estadual expressamente consignou que o julgamento dos embargos de declaração observou o procedimento eletrônico regular, sem prejuízo às partes, e que a alteração de relatoria decorreu de promoção da magistrada, fato devidamente certificado nos autos (fl. 462, e-STJ).
+Esta Corte Superior perfilha o entendimento de que a declaração da nulidade de atos processuais está condicionada à demonstração de efetivo prejuízo (pas de nullité sans grief), o que não se verifica na hipótese dos autos.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DO AUTOR.
+1. De acordo com a orientação firmada neste Superior Tribunal de Justiça, "contendo o relatório da sentença os elementos necessários à compreensão da causa, sem acarretar qualquer prejuízo ao julgamento, amparado em bem lançada fundamentação, não há falar em violação ao art. 458, I, do Código de Processo Civil". Precedentes.
+1.1. "A declaração da nulidade do ato processual está condicionada à demonstração de efetivo prejuízo (pas de nullité sans grief)" (AgInt no REsp n. 1.981.341/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 13/3/2023, DJe de 16/3/2023).
+2. Não se constata a alegada violação aos artigos 489 e 1.022, do CPC/15, porquanto todos os argumentos expostos pela parte, na petição dos embargos de declaração, foram apreciados, com fundamentação clara, coerente e suficiente.
+3. Para alterar o entendimento do Tribunal de origem seria necessário o reexame de fatos e provas, o que é vedado em recurso especial. Incidência da Súmula 7 do STJ.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 1.952.277/TO, relator Ministro Marco Buzzi, Quarta Turma, julgado em 9/10/2023, DJe de 11/10/2023.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. PRESTAÇÃO PARCIAL DE SERVIÇO. COMPROVAÇÃO. MULTA COMPENSATÓRIA. REVISÃO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULAS 5 E 7 DO STJ. CERCEAMENTO DE DEFESA. NULIDADE. AUSÊNCIA DE PREJUÍZO.
+1. O reconhecimento da nulidade processual exige demonstração de efetivo prejuízo suportado pela parte interessada, em respeito ao princípio da instrumentalidade das formas (pas de nullité sans grief).
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+(STJ - AgInt no AREsp: 2317975 SP 2023/0080969-5, Relator.: Ministra MARIA ISABEL GALLOTTI, Data de Julgamento: 08/04/2024, T4 - QUARTA TURMA, Data de Publicação: DJe 11/04/2024)
+Ausente demonstração de efetivo prejuízo, não há nulidade a reconhecer.
+5. A aplicação analógica pretendida dos arts. 110 do Código Eleitoral e art. 4º da LINDB é inviável, pois não há lacuna normativa.
+O acórdão deixou claro que a convenção condominial regula expressamente o critério de desempate (fl. 415, e-STJ):
+Na Convenção de Condomínio do edifício réu consta que o condomínio será administrado por um síndico, que será um dos condôminos, com mandato de 2 anos, eleito por assembleia geral (fls. 51) e, em caso de empate, ".. caberá voto de qualidade ao presidente da assembléia" (fls. 58 - Cláusula 24ª, parágrafo único).
+Desse modo, o art. 4º da LINDB, que se aplica apenas diante de omissão legislativa ou contratual, não tem incidência.
+Ademais, a pretensão recursal dos agravantes esbarra no enunciado sumular n. 5 e 7 desta corte, vez que a não se admite a revisão do entendimento do tribunal de origem quando a situação de mérito demandar o reexame do acervo fático-probatório dos autos, tendo em vista a incidência do óbice e a interpretação de cláusulas não enseja recurso especial.
+Nesse sentido, eis os seguintes arestos:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. REEXAME DE PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS 5 E 7/STJ.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+2. Agravo interno a que se nega provimento.
+(STJ - AgInt no AREsp: 1697926 SP 2020/0103132-0, Data de Julgamento: 13/06/2022, T4 - QUARTA TURMA, Data de Publicação: DJe 21/06/2022)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. ENSINO PRIVADO. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÍVIDA C/C AÇÃO COMINATÓRIA E REPARAÇÃO DE DANOS. NEGATIVA DE REMATRÍCULA. VIOLAÇÃO DO ART. 14 DO CDC. MERO INADIMPLEMENTO. AUSÊNCIA DE DANOS MORAIS. AFASTAMENTO DE JUROS. SÚMULAS N. 5 E 7 DO STJ. ELEVAÇÃO DO QUANTUM INDENIZATÓRIO. PREJUDICIALIDADE. AGRAVO INTERNO DESPROVIDO.
+ ..  3. Não se admite a revisão do entendimento do tribunal de origem quando a situação de mérito demandar o reexame do acervo fático-probatório dos autos, tendo em vista a incidência do óbice da Súmula n. 7 do STJ.
+4. A simples interpretação de cláusula contratual não enseja recurso especial. Incidência da Súmula n. 5 do STJ.
+ ..  (STJ - AgInt no AREsp: 2656695 PR 2024/0185374-3, Relator.: Ministro JOÃO OTÁVIO DE NORONHA, Data de Julgamento: 07/10/2024, T4 - QUARTA TURMA, Data de Publicação: DJe 09/10/2024)
+Não há falar em violação aos arts. 110 do Código Eleitoral e 4º da LINDB.
+6. Diante do exposto, dou provimento ao agravo interno para reconsiderar a decisão da Presidência de fls. 604/605 e, em juízo de retratação, conheço do recurso especial, mas nego-l he provimento.
+É como voto.
