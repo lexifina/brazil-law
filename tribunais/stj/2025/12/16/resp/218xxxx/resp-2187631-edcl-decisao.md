@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por MARIA HELENA LUCIANO DA SILVA contra decisão que não conheceu do recurso especial, em razão do óbice da Súmula n. 282 do Supremo Tribunal Federal (STF).
+Nos declaratórios, a parte embargante alega haver vícios na decisão, quais sejam: (a) omissão: "a Corte deixou de examinar os prequestionamentos que foram devidamente abordados no recurso especial interposto pela Embargante.  ..  Essa omissão é crítica, uma vez que a Embargante sustenta que todos os fundamentos do recurso foram adequadamente prequestionados na instância a quo"; (b) omissão: "não se debruçou sobre a análise da prescrição, que é uma questão central na discussão da melhoria da pensão post mortem"; (c) omissão: "a decisão embargada afirma que houve uma aplicação inadequada do Tema 1.109 do STJ, sem, no entanto, discutir como os fatos apresentados pela Embargante se relacionam com tal tese"; (d) contradição: "A não consideração da interrupção do prazo prescricional e da renúncia tácita, ambos prequestionados, gera uma contradição no entendimento da Corte sobre a questão da prescrição"; (e) contradição entre a aplicação do Tema 1.109/STJ e a falta de cotejo com o caso; e (f) obscuridade: falta de clareza na relação entre o precedente e os fatos do processo.
+Sem impugnação (fl. 554).
+É o relatório. Decido.
+Nos termos do que dispõe o artigo 1.022 do Código de Processo Civil de 2015 (CPC/2015), cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+A decisão embargada foi clara ao decidir o recurso, inclusive nos termos de julgado que menciona, pelos seguintes fundamentos (fls. 536-537):
+Consigne-se que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 ( CPC/2015), devendo ser exigidos os requisitos de admissibilidade conforme nele previsto, nos termos do Enunciado Administrativo n. 3/2016/STJ.
+No que diz respeito aos artigos 489, § 1º, IV, do CPC/2015, 191 do Código Civil e 4º do Decreto n. 20.910/1932  e às teses a eles vinculadas , verifica-se que não houve juízo de valor por parte da Corte de origem, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se ao caso a Súmula n. 282/STF.
+A propósito:
+PROCESSUAL E ADMINISTRATIVO. AGRAVO INTERNO. RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. INDISPONIBILIDADE DE BENS. DELAÇÃO PREMIADA EM ÂMBITO PENAL. AUSÊNCIA DE EFEITOS CÍVEIS. ART. 4º, CAPUT, E §4º, DA LEI 12.850/2013. INEXISTÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. INCIDÊNCIA. ADEQUAÇÃO DO ACÓRDÃO AO TEMA 1.213/STJ. PROVIMENTO NEGADO.
+1. A ausência de enfrentamento no acórdão recorrido da matéria impugnada, objeto do recurso, impede o acesso à instância especial por faltar o requisito constitucional do prequestionamento. Incidência, por analogia, das Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+2. O acórdão recorrido encontra estrita conformidade com o quanto pacificou a Primeira Seção desta Corte, sob o rito dos recursos repetitivos, quando do julgamento do Tema 1.213: "Para fins de indisponibilidade de bens, há solidariedade entre os corréus da Ação de Improbidade Administrativa, de modo que a constrição deve recair sobre os bens de todos eles, sem divisão em quota-parte, limitando-se o somatório da medida ao "quantum" determinado pelo juiz, sendo defeso que o bloqueio corresponda ao débito total em relação a cada um".
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp n. 1.986.402/MT, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 5/5/2025, DJEN de 9/5/2025, destaques acrescidos.)
+Ante o exposto, não conheço do recurso especial.
+Assim, evidencia-se não ter ocorrido falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido.
+Registra-se que, como consabido, descabe qualquer pronunciamento judicial acerca do mérito de recurso que nem mesmo ultrapassou os requisitos de admissibilidade, não havendo falar em vícios integrativos, cujos limites encontram-se previstos no art. 1.022 do CPC/2015, como visto alhures.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
