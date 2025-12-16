@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em Sessão Virtual de 10/12/2025 a 16/12/2025, por unanimidade, negar provimento do recurso, com aplicação de multa, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Marco Buzzi.
+Impedida a Sra. Ministra Nancy Andrighi.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. APLICAÇÃO DA JURISPRUDÊNCIA DO STJ. CONTROLE PELA VIA DA RECLAMAÇÃO. NÃO CABIMENTO. AGRAVO DESPROVIDO.
+1. A utilização da reclamação constitucional como sucedâneo recursal ou como instrumento para adequar julgados à jurisprudência do STJ é expressamente vedada, conforme entendimento do Superior Tribunal de Justiça, pois a medida ultrapassa os limites da finalidade do instituto.
+2. A parte que se utilize de incidentes ou recursos sabendo que são improcedentes, mormente tendo sido advertida previamente nesse sentido, pratica litigância de má-fé, devendo ser multada nos termos do art. 81 do CPC.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por MARCIO ANTONIO FREITAS contra a decisão de fls. 1.071-1.073, que indeferiu liminarmente a reclamação.
+A parte agravante alega que a reclamação encontra cabimento nas hipóteses legais de "preservar a competência do tribunal" e "garantir a observância de acórdão proferido em julgamento de incidente de assunção de competência", bem como que, no caso, houve desrespeito a precedente vinculante da Corte Especial nos EAREsp n. 1.766.665/RS, julgados em 3/4/2024, no quais se fixou a impossibilidade de redução da multa vencida (astreintes), admitindo-se modificação apenas da multa vincenda, à luz do art. 537, § 1º, do CPC.
+Sustenta que o precedente vinculante deveria ter sido observado de ofício, conforme os arts. 947, § 3º, do CPC e 271-G do Regimento Interno do STJ.
+Aponta erro de premissa fática no relatório da decisão agravada acerca da invocação do precedente ainda na origem, esclarecendo que os EAREsp n. 1.766.665/RS são posteriores ao acórdão do TJRJ e anterior ao julgamento do AgInt no AREsp (26/6/2024) e dos EDcl no AgInt em AREsp (1º/10/2024).
+Alega que não houve uso da reclamação como sucedâneo recursal, pois foram exauridos os recursos cabíveis, não sendo exigível a interposição de recursos manifestamente inadmissíveis ou improcedentes. Afirma que não está utilizando a reclamação como sucedâneo, pois a restrição prevista no art. 988, § 5º, II, do CPC não alcança acórdão proferido em assunção de competência, cuja instauração requereu.
+Afirma, com apoio no Informativo de Jurisprudência n. 853 (EAREsp 1.479.019/SP), que a Corte Especial reafirmou ser ilícita a redução de multa vencida (astreintes), bem como ser obrigatória a observância dos precedentes (arts. 926 e 927 do CPC).
+Faz ainda alusão à decisão dos embargos de declaração na origem, afirmando que é ilegal a aplicação da Súmula n. 182 do STJ sem prévia oportunidade de sanar vício; a aplicação direta do art. 253, I, do RISTJ sem observância do art. 932, III, do CPC. Argumenta também que não se atentou para o princípio da não surpresa, havendo ofensa a direitos fundamentais.
+Requer a reconsideração do julgado e, caso mantido o indeferimento, a submissão do agravo interno ao colegiado da Segunda Seção para provimento, aplicando-se imediatamente o precedente vinculante dos EAREsp n. 1.766.665/RS ao processo originário e acolhendo-se as teses do incidente de assunção de competência e, subsidiariamente, apreciando-se as matérias não acolhidas.
+Contrarrazões às fls. 1.143-1.146.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. APLICAÇÃO DA JURISPRUDÊNCIA DO STJ. CONTROLE PELA VIA DA RECLAMAÇÃO. NÃO CABIMENTO. AGRAVO DESPROVIDO.
+1. A utilização da reclamação constitucional como sucedâneo recursal ou como instrumento para adequar julgados à jurisprudência do STJ é expressamente vedada, conforme entendimento do Superior Tribunal de Justiça, pois a medida ultrapassa os limites da finalidade do instituto.
+2. A parte que se utilize de incidentes ou recursos sabendo que são improcedentes, mormente tendo sido advertida previamente nesse sentido, pratica litigância de má-fé, devendo ser multada nos termos do art. 81 do CPC.
+3. Agravo interno desprovido.
+VOTO
+O recurso não merece prosperar, seja porque há confusão de teses e requerimentos destituídos de fundamentos legais, seja porque a parte agravante não logrou infi rmar os termos da decisão agravada, que deve ser mantida por seus próprios fundamentos, assim expostos (fls. 1.072-1.073):
+Trata-se de reclamação constitucional proposta com fundamento no art. 105, I,, da Constituição Federal e nos arts. 988 e seguintes do Código de Processof Civil, em que o reclamante alega ofensa a precedente firmado pelo Superior Tribunal de Justiça, nos autos do AR Esp n. 1.766.665/RS, no tocante à impossibilidade de redução de multa periódica (astreinte) já vencida.
+A pretensão, no entanto, não encontra amparo no art. 988 do CPC, que dispõe sobre as hipóteses de cabimento da reclamação, sendo: garantir a autoridade das decisões dos tribunais, preservar a competência do tribunal ou assegurar a observância de enunciado de súmula vinculante ou de precedente de observância obrigatória.
+No caso, não se verifica decisão que tenha desrespeitado ou desconstituído a autoridade de julgado desta Corte, mas sim apenas o interesse da parte em ver restabelecida a astreintes em seu favor, estando, claramente utilizando a presente reclamação como sucedâneo recursal.
+A reclamação não tem cabimento como sucedâneo recursal, tampouco como via de reapreciação de matéria já definitivamente enfrentada, em observância ao devido processo legal.
+O agravante sustenta que, nos autos da decisão reclamada, deveriam ter sido observados os seguintes pontos: o precedente nos EAREsp n. 1.766.665/RS; a inconstitucionalidade na aplicação da Súmula n. 182 do STJ, já que a parte não foi "instada" a aditar suas razões recursais; e as disposições do art. 932 do CPC.
+Observa-se que as razões recursais não logram infirmar os fundamentos da decisão agravada. A rigor, apenas reiteram as alegações deduzidas na exordial, buscando demonstrar que as discussões suscitadas no recurso especial de sua autoria se inserem no objeto do que foi decidido nos EAREsp n. 1.766.665/RS.
+Todavia, é cediço que a reclamação constitucional não se presta para o fim de controlar a aplicação da jurisprudência desta Corte aos demais julgados, mesmo que oriundos do próprio STJ.
+Ademais, como consta da decisão agravada, o STJ já firmou entendimento no sentido de que "a reclamação constitucional não pode ser utilizada como sucedâneo recursal para o inconformismo da parte com o conteúdo de decisão que entenda desfavorável" (AgRg na Rcl n. 6.199/SP, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 14/12/2011, DJe de 19/12/2011).
+De igual modo, é pacífico que a mera discordância com o conteúdo da fundamentação não caracteriza, por si só, afronta à autoridade do julgado do STJ, tendo em vista que a reclamação é via excepcional, destinada exclusivamente à preservação da competência e à garantia da autoridade das decisões desta Corte, não podendo ser utilizada para reapreciação do mérito da controvérsia.
+No caso em questão, a parte recorrente logrou apenas combater o resultado da demanda, que lhe foi desfavorável, nos autos do AREsp n. 2.433.260/RJ, no qual trouxe teses, tais como "inconstitucionalidade de súmulas", requerimentos de instauração de assunção de competência totalmente desvinculado dos termos do art. 947 do CPC, entre outras, conforme acima explicitado.
+O reclamante foi advertido de que a apresentação de incidentes ou recursos manifestadamente improcedentes e protelatórios poderia ensejar a aplicação das penalidades respectivas.
+É a hipótese dos autos, pois a reclamação foi proposta absolutamente fora das disposições do art. 988 e respectivos incisos do CPC, procedimento repetido no agravo interno.
+Falta a parte com o dever de lealdade processual ao buscar formas de fazer prevalecer teses que não têm cabimento diante da legislação processual, utilizando a reclamação constitucional para tal fim, como no caso presente (art. 79 e 80, VI e VII, do CPC).
+Ressalte-se que todos os recursos e ações enumeradas na lei processual e na Constituição Federal contêm requisitos e técnicas que devem ser observados pelas partes. Não se trata simplesmente de protocolizar uma peça indicativa de inconformismo, mas de utilizar os instrumentos processuais conforme suas respectivas adequações, com fundamentação hábil ao fim pretendido. E nada disso foi observado no presente feito.
+Ante o exposto, condeno a parte agravante ao pagamento de multa de 2% sobre o valor da causa dos autos originais, nos termos do art. 81 do CPC.
+Por fim, os benefícios da justiça gratuita foram deferidos à fl. 1.056. Tal benefício isenta o reclamante das custas judiciais, mas não abrange as penalidades sofridas ao longo do processo, na forma da lei.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
