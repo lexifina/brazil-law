@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Maria Carolina Caiuby contra decisão, assim ementada (fl. 1.632):
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. JUÍZO DE RETRATAÇÃO. RESSARCIMENTO AO ERÁRIO. INPI. PRESCRIÇÃO VERIFICADA. RECURSO ESPECIAL PROVIDO.
+A embargante, aduzindo a ocorrência de omissão, alega que (i) "a decisão deixou de se manifestar sobre parte expressiva do pedido constante do item "f" do Recurso Especial, especificamente quanto à condenação do INPI a abster-se de efetuar o referido desconto em folha e a devolver eventuais valores que tenha descontado" e (ii) "revertida a improcedência nas instâncias ordinárias, impõe-se a inversão da sucumbência, com condenação do INPI aos honorários nas instâncias ordinárias, a serem fixados nos termos dos §§ 2º e 3º do art. 85 do CPC (sobre o proveito econômico ou, se inviável, sobre o valor atualizado da causa), além da majoração prevista no § 11 do art. 85, observados os limites acima indicados".
+Sem impugnação.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015 (CPC/2015), devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+No caso, a decisão embargada deu provimento ao recurso especial para reformar o acórdão recorrido e julgar procedente o pedido autoral, a fim de declarar a prescrição da pretensão de ressarcimento e reconhecer em favor da parte autora a inexigibilidade dos valores cobrados a título de reposição ao Erário provenientes da Ação n. 0079395-53.1992.4.02.5101.
+A restituição dos valores eventualmente já descontados pela Administração configura decorrência lógica do reconhecimento da ilegitimidade do desconto (AgInt no REsp n. 2.046.813/AP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 28/8/2023, DJe de 31/8/2023; AgInt no REsp 1.934.082/DF, relatora Ministra Regina Helena Costa, Primeira Turma, DJe 23/9/2022; AgInt no REsp 1.780.439/AP, relator Ministro Gurgel de Faria, Primeira Turma, DJe 12/12/2019).
+Lado outro, por expressa determinação legal, invertidos os ônus sucumbenciais, os honorários deverão ser fixados, em fase processual adequada, observando-se estritamente os critérios e limites do artigo 85 do CPC/2015, em especial, os seus §§ 2º, 3º e 4º.
+Outrossim, consabido que esta Corte definiu, dentre outros, que, para fins de arbitramento de honorários recursais, previstos no § 11 do artigo 85 do CPC/2015, é necessário o não conhecimento integral ou o improvimento do recurso pelo Relator, monocraticamente, ou pelo órgão colegiado competente. Considerando o provimento do recurso especial da parte ora embargante, obviamente não há falar em majoração de honorários recursais.
+Assim, evidencia-se não ter ocorrido falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido.
+Ante o exposto, rejeito os embargos de declaração.
+Após, voltem-me os autos conclusos para apreciação do agravo interno interposto pelo Instituto Nacional de Propriedade Industrial às fls. 1.646-1.658.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS. EMBARGOS DE DECLARAÇÃO REJEITADOS.
