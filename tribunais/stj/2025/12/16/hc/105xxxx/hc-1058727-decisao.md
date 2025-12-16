@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de MARCELO CANDIDO FERREIRA, contra acórdão do Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente teve decretada prisão preventiva pela suposta prática dos crimes de tráfico e associação para o tráfico.
+Impetrado habeas corpus perante o Tribunal de origem, a ordem foi denegada. Eis a ementa do julgado:
+"EMENTA - HABEAS CORPUS - TRÁFICO DE DROGAS - ASSOCIAÇÃO PARA O TRÁFICO - Impetração visando o reconhecimento de constrangimento ilegal, com a consequente obtenção de salvo-conduto - Questões de mérito impróprias para discussão na via heróica - Decreto prisional justificado - Paciente reincidente específico, que cumpria pena em meio aberto - Insuficiência das cautelares diversas - Predicados pessoais favoráveis que não obstam a prisão - Constrangimento ilegal não verificado - Ordem denegada." (e-STJ, fl. 16)
+Neste writ, a defesa sustenta, em suma, que a prisão preventiva decorreu "única e exclusivamente para garantia da ordem pública e conveniência da instrução criminal e para assegurar a aplicação da lei penal" (e-STJ, fl. 3), porém o paciente tem residência fixa, ocupação lícita como motorista de aplicativo e família constituída.
+Afirma que não restou demonstrado nos autos que o paciente tenha praticado tráfico de drogas, havendo apenas suposições. Destaca que o paciente não estava no local dos fatos no momento da prisão do corréu e está sendo acusado somente em razão dos seus antecedentes, os quais são antigos.
+Alega que não há fundamentos concretos para a manutenção da prisão preventiva, sendo suficiente a imposição de medidas cautelares diversas da prisão.
+Afirma que o paciente vem sendo prejudicado em sua defesa técnica, tendo em vista que as testemunhas arroladas na defesa prévia como essenciais ao esclarecimento dos fatos devem ser ouvidas dentro do prazo legal.
+Requer a concessão da ordem, a fim de que seja expedido salvo-conduto em favor do paciente, a fim de que não seja cumprido o mandado de prisão, diante da ilegalidade da prisão em flagrante. Pugna, ademais, seja determinada a oitiva das testemunhas arroladas, dentro do prazo legal e em caráter de imprescindibilidade.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Passo, assim, à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+De início, quanto ao pleito de determinação da oitiva das testemunhas de defesa e de ausência de comprovação de autoria, nota-se que os temas não foram debatidos pelo Tribunal de origem no acórdão impugnado, o que impede o conhecimento das questões diretamente por esta Corte, sob pena de indevida supressão de instância.
+Ademais, o habeas corpus constitui via inapropriada para o exame da autoria delitiva, uma vez que tal questão se confunde com o próprio mérito da ação penal, demandando, assim, a análise aprofundada do contexto fático-probatório. Logo, a tese de que o material ilícito encontrado na residência do réu pertence a terceiro, seu inquilino, consiste em alegação de inocência quanto ao tipo penal imputado, a qual não encontra espaço de apreciação nesta via estreita.
+Acerca da prisão preventiva, colhe-se da decisão que a decretou e do acórdão impugnado, respectivamente:
+" .. DECRETO A PRISÃO PREVENTIVA de Marcelo Cândido Ferreira, qualificado nos autos, com fundamento no disposto no artigo 312 do Código de Processo Penal.
+A prisão preventiva poderá ser decretada como garantia da ordem pública, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, quando houver prova da existência do crime e indícios suficientes de sua autoria.
+No caso em apreço, há provas suficientes da materialidade do crime e indícios veementes de sua autoria atribuída ao denunciado, quanto ao crime de tráfico de drogas e associação para o tráfico, notadamente porque estava em cumprimento de pena e não foi localizado para depor em solo policial, tudo a denotar que poderá se sentir tentado a se evadir a fim de evitar eventual condenação.
+Pelo exposto, para que não haja prejuízos a instrução criminal vez que, solto, o acusado poderia causar injusto temor a vítima, a segregação em cárcere é necessária para a busca da verdade dos fatos ocorridos, além de exemplar a toda comunidade." (e-STJ, fl. 57)
+"Quanto ao mais, o decreto prisional encontra fundamento bastante.
+Com efeito, a certidão de antecedentes de fls. 224/230 dos autos de origem confirma as informações prestadas, no sentido de que o paciente ostenta péssimos antecedentes, sendo inclusive reincidente específico, além do fato de ter em tese delinquido durante o cumprimento de pena em regime aberto (consulta realizada em 18/09/2025, in https://esaj. tjsp. jus. br/cpopg/show. do processo. codigo=F40009N1D0000&pr ocesso. foro=281&processo. numero=1502015-11.2025.8.26.0544).
+Por isso, a ordem pública merece resguardo:
+ ..
+Em tal contexto, nota-se a insuficiência das medidas cautelares diversas do cárcere. Registre-se igualmente que eventuais outros predicados pessoais favoráveis não obstam o decreto prisional, já que há fundamento concreto e idôneo para tanto." (e-STJ, fls. 17-18)
+De acordo com o art. 312 do Código de Processo Penal, a prisão preventiva poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, desde que presentes prova da existência do crime e indícios suficientes de autoria.
+Como se vê, o decreto prisional fundamentou-se na garantia da instrução criminal e da aplicação da lei penal, tendo sido destacado que o paciente não foi localizado para depor em solo policial.
+A prisão preventiva também está fundada no risco concreto de reiteração delitiva do agente, uma vez que o paciente é reincidente específico e estava no cumprimento de pena no regime aberto no momento dos fatos.
+Dessarte, segundo jurisprudência desta Corte, "a persistência do agente na prática criminosa justifica, a priori, a interferência estatal com a decretação da prisão preventiva, nos termos do art. 312 do CPP, porquanto esse comportamento revela uma periculosidade social e compromete a ordem pública" (AgRg no HC n. 984.921/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/3/2025, DJEN de 26/3/2025).
+Nesse sentido:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRANCAMENTO DA AÇÃO PENAL. PRISÃO PREVENTIVA. TRÁFICO DE DROGAS. AGRAVO IMPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus substitutivo de recurso ordinário, em que se alegava a ilegalidade das provas colhidas mediante violação de domicílio e a ausência de elementos concretos para a custódia cautelar.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a prisão preventiva está devidamente fundamentada na garantia da ordem pública e no risco de reiteração delitiva, considerando a apreensão de mais de 130 kg de maconha e a existência de outro processo em curso por tráfico de entorpecentes.
+3. Outra questão em discussão é a alegação de ilegalidade das provas colhidas mediante violação de domicílio sem justa causa ou autorização judicial, e se tal alegação poderia ensejar o trancamento da ação penal ou a revogação da prisão preventiva.
+III. Razões de decidir
+4. O trancamento de ação penal por meio de habeas corpus é medida excepcional, cabível apenas quando há inequívoca comprovação de atipicidade da conduta, extinção da punibilidade ou ausência de indícios de autoria ou materialidade do delito.
+5. A alegação de nulidade pela busca domiciliar deve ser analisada pelas instâncias ordinárias, sob o crivo do contraditório, para que se possa delinear o quadro fático e verificar a legalidade das provas colhidas.
+6. O trancamento prematuro da ação penal pode cercear a acusação, impedindo o Ministério Público de demonstrar a legalidade da prova colhida durante a instrução processual.
+7. A prisão preventiva foi mantida com base na garantia da ordem pública e no risco de reiteração delitiva, considerando a quantidade significativa de drogas apreendidas e o fato do agravante responder a outra ação penal.
+8. A jurisprudência consolidada estabelece que a preservação da ordem pública justifica a prisão preventiva quando há indícios de contumácia delitiva e periculosidade do agente, não sendo suficientes medidas cautelares alternativas.
+IV. Dispositivo e tese
+9. Agravo improvido.
+Tese de julgamento: "1. A prisão preventiva pode ser mantida para garantir a ordem pública e prevenir a reiteração delitiva quando há indícios concretos de periculosidade do agente. 2. A análise de nulidade de provas colhidas mediante violação de domicílio deve ser feita pelas instâncias ordinárias sob o crivo do contraditório, para que se possa delinear o quadro fático e verificar a legalidade das provas colhidas."
+Dispositivos relevantes citados: CPP, art. 312; CPP, art. 282, § 6º.Jurisprudência relevante citada: STJ, HC 535.063/SP, Rel. Min. Sebastião Reis Junior, Terceira Seção, julgado em 10/6/2020; STF, AgRg no HC 180.365, Rel. Min. Rosa Weber, Primeira Turma, julgado em 27/3/2020.
+(AgRg no HC n. 997.960/GO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 1/7/2025, DJEN de 4/7/2025.)
+Pelos mesmos motivos acima delineados, é inviável a aplicação de medidas cautelares diversas da prisão, pois a reiterada conduta delitiva do agente indica que a ordem pública não estaria acautelada com a sua soltura. Sobre o tema: AgRg no HC n. 978.980/SP, relator Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 26/3/2025, DJEN de 31/3/2025; AgRg no HC n. 878.550/SC, relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 20/2/2024, DJe de 26/2/2024.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
