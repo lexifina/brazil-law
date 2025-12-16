@@ -1,0 +1,39 @@
+DECISÃO
+Examinam-se embargos de divergência opostos por ANA PAULA OLIVEIRA DE ARAÚJO e outros, em face de acórdão proferido pela Quarta Turma do STJ no julgamento do Agravo em Recurso Especial 2593021-SE.
+Embargos de divergência opostos em: 18/11/2025.
+Conclusos ao gabinete em: 04/12/2025.
+Ação: embargos de terceiro opostos pelo ora recorrido em faze dos ora recorrentes.
+Sentença: julgou procedente o pleito autoral e determinou a exclusão de bem móvel por ser de fato do embargante, embora registrado em nome da Sra. MARIA DE FÁTIMA OLIVEIRA, ora interessada.
+Acórdão: o TJ/SE, à unanimidade, negou provimento ao recurso de apelação interposto pelos ora recorrentes, conforme julgamento abaixo ementado:
+APELAÇÃO CÍVEL. EMBARGOS DE TERCEIRO. BEM OBJETO DE LANÇAMENTO EM INVENTARIO. PEDIDO DE ASSISTÊNCIA JUDICIÁRIA GRATUITA FORMULADO NA AÇÃO ORIGINÁRIA. AUSÊNCIA DE MANIFESTAÇÃO DO JUÍZO DE A QUO DEFERIMENTO TÁCITO. RECONHECIMENTO. AUTOR SE DESINCUMBIU DE COMPROVAR FATO CONSTITUTIVO DO SEU DIREITO. ART. 373, I DO CPC. COMPROVAÇÃO DE QUE É O RESPONSÁVEL FINANCEIRO PELA AQUISIÇÃO E MANUTENÇÃO DO VEÍCULO. APLICAÇÃO DA REGRA GERAL NA FIXAÇÃO DOS HONORÁRIOS SUCUMBENCIAIS. ART. 85 DO CPC. MANUTENÇÃO DA SENTENÇA. RECURSO CONHECIDO E NÃO PROVIDO. À UNANIMIDADE. (e-STJ fl. 318)
+Embargos de declaração: opostos, foram rejeitados.
+Recurso especial: interpostos pelos ora recorrentes, com fundamento nas alíneas "a" e "c" do permissivo constitucional, aponta violação aos arts. (I) 373, I; 1.010, II; e 1.013 do CPC, uma vez que não ficou comprovado o fato constitutivo do direito do autor; (II) pugna pelo arbitramento dos honorários advocatícios no valor de R$1.000,00 (um mil reais) ou outro valor que o julgador entenda razoável; (III) 1.022, I, II e III; e 1.025, pois "o STJ já deu aos citados dispositivos violados interpretação diversa daquela que foi dada pelo Acórdão vergastado" (e-STJ fl. 343); além de (IV) dissídio jurisprudencial.
+Decisão de admissibilidade do Recurso Especial: a Presidência do TJ/SE inadmitiu o recurso especial, em razão do óbice da Súmula 7/STJ.
+Acórdão da Quarta Turma: negou provimento ao agravo interno interposto pelos ora recorrentes, nos termos da seguinte ementa:
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. INVENTÁRIO. COMPROVAÇÃO DE FATO CONSTITUTIVO DE DIREITO. ART. 373, I DO CPC. REEXAME DE PROVAS. SÚMULA N. 7/STJ. HONORÁRIOS. EQUIDADE. CRITÉRIO SUBSIDIÁRIO. TEMA 1076. SÚMULA 83.
+1. Agravo interno contra decisão que não conheceu do agravo em recurso especial por entender que incidiria, no caso, o óbice da Súmula 182 do STJ. Reconsideração.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7 /STJ).
+3. "Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo" (Tema Repetitivo 1076). Incide a Súmula 83/STJ.
+4. Agravo interno a que se dá provimento para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para negar provimento ao recurso especial. (e-STJ fls. 491)
+Embargos de declaração: opostos, foram rejeitados.
+Embargos de divergência: aponta a existência de dissídio jurisprudencial entre o acórdão embargado e o acórdão proferido pela Segunda Turma do STJ no julgamento do AgInt nos EDcl no REsp 1892848-RJ. Requer, em síntese, o conhecimento e provimento dos embargos de divergência, a fim de prover o agravo interno anteriormente interposto.
+É O RELATÓRIO. PASSO A DECIDIR.
+-Da ausência de cotejo analítico
+A divergência indicada na via excepcional dos embargos deve ser comprovada mencionando-se, de forma clara e precisa, as circunstâncias que identifiquem ou assemelhem as hipóteses confrontadas, sendo, portanto, de se exigir a realização do devido cotejo analítico entre julgados com a mesma similitude fática. Só assim os embargos podem cumprir a sua função precípua de solucionar controvérsias estritamente jurídicas sobre as quais divirjam duas ou mais Turmas deste Tribunal (AgInt nos EAREsp 862.496/MG, Corte Especial, DJe de 30/11/2016).
+No particular, o acórdão apontado como paradigma não é capaz de comprovar a aludida divergência jurisprudencial, uma vez a mera colação de trechos da ementa não supre este requisito.
+- Da Súmula 315/STJ
+Nos termos do art. 1.043, § 2º, do CPC, os embargos de divergência podem veicular questão de direito material ou de direito processual. Cuidando-se de questão de direito processual, o que se admite no âmbito dos embargos de divergência é a resolução de dissenso interno do Superior Tribunal de Justiça acerca da interpretação de norma processual em sua moldura abstrata, sendo incabível questionar a aplicação de regra técnica de admissibilidade do recurso especial ou do agravo em recurso especial à hipótese concreta dos autos. Nesse sentido: AgInt nos EREsp 1.637.880/SP, Corte Especial, DJe 3/8/2018; AgInt nos EAREsp 955.088/RS, Corte Especial, DJe 2/5/2018; AgInt nos EDcl nos EAREsp 1.406.323/SP, Segunda Seção, DJe 17/9/2020.
+Sob esse enfoque, "os embargos de divergência têm por finalidade precípua a uniformização da jurisprudência interna do STJ quanto à interpretação da legislação federal, não servindo para discutir o erro ou acerto do acórdão embargado quanto à aplicação, ou não, de regra técnica de admissibilidade do recurso especial ou do agravo em recurso especial" (AgInt nos EAREsp 1.581.988/BA, Corte Especial, DJe 15/10/2021).
+Assim, consoante a jurisprudência da Corte Especial do STJ, "não se admite a interposição de embargos de divergência quando não tiver sido apreciado o mérito do recurso especial, a teor do que dispõe a Súmula n. 315 do Superior Tribunal de Justiça, cujo entendimento se alinha ao disposto no art. 1.043, incisos I e III do CPC" (AgInt nos EAREsp 1.746.628/SP, Corte Especial, DJe 20/4/2022).
+Na hipótese dos autos, o acórdão embargado proferido pela Quarta Turma deu provimento ao agravo interno para reconsiderar a decisão da Presidência do STJ e, em novo exame, conhecer do agravo para negar provimento ao recurso especial, diante da incidência dos óbices das Súmulas 7 e 83 deste STJ.
+Assim, não se admite a interposição de embargos de divergência quando não tiver sido apreciado o mérito do recurso especial, a teor do que dispõe a Súmula 315/STJ.
+DISPOSITIVO
+Forte nessas razões, INDEFIRO LIMINARMENTE os embargos de divergência, com amparo no art. 932, III, do CPC, e do art. 266-C do RISTJ.
+Previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. ACÓRDÃO EMBARGADO QUE DECIDIU PELO NÃO PREENCHIMENTO DOS REQUISITOS DE ADMISSIBILIDADE DO RECURSO ESPECIAL. SÚMULA 315/STJ. NÃO CABIMENTO.
+1. Os embargos não podem ser conhecidos pela divergência se o embargante não providencia o devido cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas, nos termos do disposto no artigo 266, § 4º, do RISTJ.
+2. Os embargos de divergência têm por finalidade precípua a uniformização da jurisprudência interna do STJ quanto à interpretação da legislação federal, não servindo para discutir o erro ou acerto do acórdão embargado quanto à aplicação, ou não, de regra técnica de admissibilidade do recurso especial ou do agravo em recurso especial.
+3. Não se admite a interposição de embargos de divergência, quando não tiver sido apreciado o mérito do recurso especial, a teor do que dispõe a Súmula 315/STJ, cujo entendimento se alinha ao disposto no art. 1.043, I e III do CPC. Precedentes.
+4. Embargos de divergência liminarmente indeferidos.
