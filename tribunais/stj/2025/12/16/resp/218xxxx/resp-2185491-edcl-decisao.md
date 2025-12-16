@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de embargos de declaração, opostos por BANCO BRADESCO S.A., em face de decisão monocrática da lavra deste signatário (fls. 951-963, e-STJ), que deu parcial provimento ao seu recurso especial, a fim de afastar a multa do art. 1.026, § 2º, do CPC, imposta ao recorrente no julgado de fls. 573-574, e-STJ.
+Nestes aclaratórios (fls. 966-975, e-STJ), a parte sustenta, em síntese, omissão quanto à tese de negativa de prestação jurisdicional; erro de premissa e contradição na aplicação da Súmula 7/STJ e na manutenção da multa do art. 77 do CPC em contraste com o afastamento da multa do art. 1.026, § 2º, do CPC; omissão por ausência de distinguishing sobre precedentes relativos ao art. 774 do CPC e inaplicabilidade das Súmulas 83 e 211 do STJ; omissão pela não análise do pedido subsidiário de redução do percentual da multa do art. 77 do CPC.
+Impugnação às fls. 979-984, e-STJ.
+É o relatório.
+Os aclaratórios merecem parcial acolhimento, sem efeitos infringentes.
+1. De fato, a decisão embargada deixou de apreciar o pedido subsidiário para redução da multa fixada com fulcro no art. 77 do CPC, razão pela qual deve o julgado ser integrado, sem modificação do resultado, nos seguintes termos:
+Quanto à redução da multa fixada nos termos do art. 77 do CPC, a pretensão não comporta acolhimento, pois o recorrente limitou-se a formular pedido genérico, sem desenvolver argumentação mínima que permita aferir eventual desproporcionalidade, atraindo o óbice da Súmula 284/STF. Ademais, a revisão do quantum fixado à título de multa demandaria reexame do conjunto fático-probatório, providência vedada pela Súmula 7/STJ.
+Superada a integração do julgado quanto ao pedido subsidiário, passa-se à análise das demais alegações.
+2. Quanto ao mais, não há omissão ou contradição a ser sanada, uma vez que a decisão embargada enfrentou de forma suficiente as matérias trazidas a debate, conforme se extrai dos seguintes trechos (fls. 953-961, e-STJ):
+1. De início, aponta o recorrente violação dos ar ts. 489, §1º, I, II e V; 1.022, II, do CPC, afirmando que o acórdão recorrido seria omisso acerca de questão fundamental para o deslinde do feito, qual seja, a tese de que o recurso adesivo interposto dentro do prazo legal deve ser conhecido, ainda que manejado equivocadamente com a nomenclatura de apelação, por se tratar de vício plenamente sanável.
+Como se verá em tópico seguinte desta decisão, porém, todas as questões postas em debate foram dirimidas pelo Tribunal de origem de forma suficiente, fundamentada e sem omissões, não havendo que se falar em violação dos arts. 489 e 1.022 do CPC, tratando-se de mero inconformismo da parte com o julgamento contrário à sua pretensão, o que não caracteriza falta de prestação jurisdicional.
+ ..
+Ademais,  segundo  entendimento  pacífico  deste  Superior  Tribunal,  o  magistrado  não  é  obrigado  a  responder  a  todas  as  alegações  das  partes  se  já  tiver  encontrado  motivo  suficiente  para  fundamentar  a  decisão,  nem  a  ater-se  aos  fundamentos  e  aos  dispositivos  legais  apontados,  mas  apenas  sobre  aqueles  considerados  suficientes ,  como  ocorreu  no  caso  ora  em  apreço.  Precedentes:  AgInt  no  REsp  1716263/RS,  Rel.  Min.  MARCO  AURÉLIO  BELLIZZE,  TERCEIRA  TURMA,  julgado  em  07/08/2018,  DJe  14/08/2018;  AgInt  no  AREsp  1241784/SP,  Rel.  Min.  LUIS  FELIPE  SALOMÃO,  QUARTA  TURMA,  julgado  em  21/06/2018,  DJe  27/06/2018.
+ ..
+2. Aponta o insurgente, ainda, violação dos arts. 5º; 6º; 77, IV e VI, §§ 1º e § 2º; e 133 do CPC, afirmando que não restou caracterizado ato atentatório à dignidade da justiça e que a aplicação da multa exige prévia intimação da parte.
+ ..
+Com efeito, para derruir as conclusões contidas no decisum recorrido e acolher o inconformismo recursal, no sentido de afastar a ocorrência de ato atentatório à dignidade da Justiça e a aplicação da respectiva multa, segundo as razões vertidas no apelo extremo, seria imprescindível o revolvimento dos elementos fático-probatórios, providência que esbarra no óbice da Súmula 7 desta Corte.
+ ..
+Quanto à alegação de necessidade de prévia intimação, referida tese sequer foi prequestionada, incidindo, na hipótese, o óbice da Súmula 211/STJ.
+Ressalta-se, ademais, que, ainda que se considerasse prequestionada a matéria, o entendimento pacífico desta E. Corte é de que a multa por ato atentatório à dignidade da Justiça pode ser aplicada de imediato, independentemente de prévia advertência da parte, o que atrai a incidência do teor da Súmula 83 desta Corte, a impedir o conhecimento do recurso por ambas as alíneas do permissivo constitucional.
+ ..
+A jurisprudência desta Corte, todavia, é firme no sentido de afastar a aplicação da penalidade de multa quando manejado o recurso previsto em lei, sendo a conduta de per si insuficiente para demonstrar o intento protelatório, sobretudo quando não há reiteração da oposição dos aclaratórios, como ocorre na hipótese.
+À luz dessas passagens, evidencia-se que, sob o rótulo de omissão, contradição e erro de premissa, a parte embargante busca, em verdade, a modificação do julgado em pontos nos quais a decisão embargada foi clara: afastou a alegada negativa de prestação jurisdicional com base em fundamentação suficiente; aplicou corretamente os óbices das Súmulas 7, 211 e 83 do STJ quanto ao ato atentatório à dignidade da justiça e à necessidade de prévia intimação; e afastou, de forma autônoma, a multa do art. 1.026, § 2º, do CPC por inexistência de intuito protelatório nos primeiros embargos.
+A pretensão da parte insurgente quanto a estes pontos, portanto, não está em harmonia com a natureza e a função dos embargos declaratórios, não demonstrando, em suas razões recursais, qualquer vício em que a decisão embargada tenha incorrido.
+3. Do exposto, acolho parcialmente os embargos de declaração, nos termos da fundamentação supra, sem efeitos infringentes.
+Publique-se.
+Intime-se.
+EMENTA
