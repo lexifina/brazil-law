@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/12/2025 a 16/12/2025, por unanimidade, conhecer do recurso e lhe dar provimento, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira, Marco Buzzi e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. LITIGÂNCIA DE MÁ-FÉ. CONDENAÇÃO DE ADVOGADO. IMPOSSIBILIDADE. RECURSO PROVIDO.
+1. As sanções por litigância de má-fé previstas nos artigos 79 e 80 do Código de Processo Civil de 2015 são destinadas às partes do processo e não podem ser aplicadas diretamente ao advogado que atuou na causa.
+2. A responsabilização do advogado por danos processuais deve ser apurada em ação própria, conforme o artigo 32 da Lei nº 8.906/1994, não sendo possível a imposição de multa por litigância de má-fé nos próprios autos do processo.
+3. A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que as penalidades por litigância de má-fé não podem ser estendidas ao advogado, devendo eventuais condutas ilícitas ser apuradas em ação própria.
+4. Resultado do Julgamento: Recurso especial provido para afastar a condenação do recorrente nas sanções por litigância de má-fé.
+RELATÓRIO
+Trata-se de recurso especial interposto por MANOEL FERNANDES DA SILVA, com fundamento nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais (TJ-MG), assim ementado (e-STJ, fl. 522):
+EMENTA: EMBARGOS DE DECLARAÇÃO - OMISSÃO CONSTATADA - NECESSIDADE DE INTEGRAÇÃO DO JULGAMENTO - PEDIDO DE CONDENAÇÃO EM LITIGÂNCIA DE MÁ-FÉ - ARTIGOS 77, 80 E 81 DO CPC - INEXISTÊNCIA DE OMISSÃO QUANTO AO ARBITRAMENTO DOS HONORÁRIOS ADVOCATÍCIOS. Constatada a ocorrência de omissão no julgado, deve ela ser sanada, de modo a proporcionar uma escorreita prestação jurisdicional. Se a conduta processual empregada pela "parte" é passível de enquadramento em algumas das hipóteses descritas nos arts. 77 e 80 do CPC, dever ser imposta multa a título de litigância de má- fé. A via dos embargos declaratórios é inadequada para se buscar o reexame de matéria já decidida, por ser tal pretensão incompatível com a própria natureza jurídica desse recurso.
+Nas razões do recurso especial, o recorrente aponta violação dos artigos 77, 79, 80 e 81, do CPC, e artigo 32, do EAOB, além de divergência jurisprudencial.
+Sustenta "incabível a condenação do patrono ao pagamento da multa por litigância de má-fé, considerando que a sua conduta é disciplinada pelo art. 32, do Estatuto da Advocacia e da Ordem dos Advogados do Brasil - (Lei 8.906/94), o qual estabelece que os danos processuais porventura causados pelo advogado, deverão ser aferidos em ação própria. Dos artigos epigrafados, se depreende que, caso o julgador entenda pelo cabimento de alguma punição ao advogado, seja na esfera civil ou criminal, deve, necessariamente, obedecer aos preceitos legais do artigo 32 da Lei 8.906, de 1994 combinado com art. 77 §6 do CPC, ou seja, apurando-se os seus atos em "ação própria"." (e-STJ, fl. 541)
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. LITIGÂNCIA DE MÁ-FÉ. CONDENAÇÃO DE ADVOGADO. IMPOSSIBILIDADE. RECURSO PROVIDO.
+1. As sanções por litigância de má-fé previstas nos artigos 79 e 80 do Código de Processo Civil de 2015 são destinadas às partes do processo e não podem ser aplicadas diretamente ao advogado que atuou na causa.
+2. A responsabilização do advogado por danos processuais deve ser apurada em ação própria, conforme o artigo 32 da Lei nº 8.906/1994, não sendo possível a imposição de multa por litigância de má-fé nos próprios autos do processo.
+3. A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que as penalidades por litigância de má-fé não podem ser estendidas ao advogado, devendo eventuais condutas ilícitas ser apuradas em ação própria.
+4. Resultado do Julgamento: Recurso especial provido para afastar a condenação do recorrente nas sanções por litigância de má-fé.
+VOTO
+Assim a Corte de origem fundamentou a imposição ao recorrente de multa por litigância de má-fé (e-STJ, fls. 524-525, grifei):
+Da análise das razões apresentadas, bem como do acórdão embargado, verifico que, de fato, houve omissão quanto ao pedido de condenação da parte Embargada em multa por litigância de má-fé.
+Com efeito, no intuito de garantir uma escorreita prestação jurisdicional, sanando a omissão constatada, passo à análise da questão.
+Importante esclarecer que, a partir do momento em que se constatou que a parte Autora, Sr. Manoel Fernandes da Silva, não outorgou procuração ao advogado Luiz Fernando Cardoso Ramos, o que deu ensejo à extinção do processo, sem resolução do mérito, não há duvidas sobre a ausência de pressupostos de constituição e de desenvolvimento válido e regular do processo, reconhece-se que ela não atuou no processo.
+A partir dessa premissa, o que deve ser analisado é se a conduta empreendida pelo causídico em questão é passível de ser considerada como litigância de má-fé, devendo sobre ele, pessoalmente, recair eventual penalidade.
+A meu ver, a resposta é positiva. O modus operandi do referido advogado, já conhecido nas cortes de justiça de vários estados da federação, pode ser enquadrada nos incisos III e V, do art. 80 do CPC, por "usar do processo para conseguir objetivo ilegal" e "proceder de modo temerário" em atos do processo.
+Com efeito, sanando a omissão constatada, entendo que o Advogado Dr. Luis Fernando Cardoso Ramos deve ser condenado, pessoalmente, ao pagamento de multa por litigância de má-fé, em valor correspondente a 9% sobre o valor atualizado da causa (art. 81 do CPC).
+Tal inteligência, contudo, diverge da jurisprudência desta Corte, segundo a qual as penas por litigância de má-fé, previstas nos artigos 79 e 80 do CPC de 2015, são endereçadas às partes, não podendo ser estendidas ao advogado que atuou na causa, o qual deve ser responsabilizado em ação própria, consoante o artigo 32 da Lei 8.906/1994.
+A conferir:
+CONSTITUCIONAL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ATO JUDICIAL. EXCEPCIONALIDADE CONFIGURADA. ILEGALIDADE, TERATOLOGIA OU ABUSO DE PODER. ADVOGADO. TERCEIRO INTERESSADO. SÚMULA 202/STJ. LITIGÂNCIA DE MÁ-FÉ. IMPOSIÇÃO DE MULTA AO PROFISSIONAL. IMPOSSIBILIDADE. RECURSO PROVIDO. SEGURANÇA CONCEDIDA.
+1. Fora das circunstâncias normais, a doutrina e a jurisprudência majoritárias admitem a impetração de mandado de segurança contra ato judicial, ao menos nas seguintes hipóteses excepcionais: a) decisão judicial manifestamente ilegal ou teratológica; b) decisão judicial contra a qual não caiba recurso; c) para imprimir efeito suspensivo a recurso desprovido de tal atributo; e d) quando impetrado por terceiro prejudicado por decisão judicial.
+2. "As penas por litigância de má -fé, previstas nos artigos 79 e 80 do CPC de 2015, são endereçadas às partes, não podendo ser estendidas ao advogado que atuou na causa, o qual deve ser responsabilizado em ação própria, consoante o artigo 32 da Lei 8.906/1994" (AgInt no AREsp 1.722.332/MT, Relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 13/6/2022, DJe de 21/6/2022).
+3. "A contrariedade direta ao dispositivo legal antes referido e à jurisprudência consolidada desta Corte Superior evidencia flagrante ilegalidade e autoriza o ajuizamento do mandado de segurança, em caráter excepcional" (RMS 59.322/MG, Relator Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 5/2/2019, DJe de 14/2/2019).
+4. No caso, o Juízo da 1ª Vara da Comarca de Juara, Estado de Mato Grosso, aplicou ao ora recorrente, advogado, diversas multas por litigância de má-fé, nos próprios autos em que o causídico teria praticado as vislumbradas condutas de má-fé ou temerárias, o que é vedado pela norma e pela jurisprudência pacífica do STJ.
+5. "A impetração de segurança por terceiro, contra ato judicial, não se condiciona à interposição de recurso" (Súmula 202/STJ).
+6. Recurso ordinário provido para conceder a segurança, cassando-se o ato judicial apontado como coator.
+(RMS n. 71.836/MT, relator Ministro RAUL ARAÚJO , Quarta Turma, julgado em 26/9/2023, DJe de 3/10/2023, grifei.)
+Ante o exposto, dou provimento ao recurso especial para afastar a condenação do recorrente nas sanções por litigância de má-fé.
+É como voto.
