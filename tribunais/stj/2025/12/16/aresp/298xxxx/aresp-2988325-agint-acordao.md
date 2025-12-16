@@ -1,0 +1,67 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/12/2025 a 16/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Marco Buzzi, João Otávio de Noronha, Raul Araújo e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MATÉRIA CONSTITUCIONAL. COMPETÊNCIA DO STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão da Presidência do STJ que conheceu do agravo para não conhecer do recurso especial.
+II. Questão em discussão
+2. Consiste em saber se a análise dos fundamentos do especial esbarra no impedimento da Súmula n. 7 do STJ.
+II. Razões de decidir
+3. A análise de violação a dispositivos constitucionais é vedada em sede especial, sob pena de usurpação da competência atribuída pelo constituinte ao Supremo Tribunal Federal.
+4. O recurso especial não comporta exame de questões que impliquem revolvimento de elementos fático-probatórios dos autos (Súmula n. 7/STJ).
+III. Dispositivo
+5. Agravo interno desprovido.
+Tese de julgamento: 1. A tese de violação de dispositivo constitucional não pode ser apreciada em recurso especial, sob pena de usurpação de competência do STF. 2. O recurso especial não admite reexame de provas, conforme a Súmula n. 7 do STJ.
+RELATÓRIO
+Trata-se de agravo interno (fls. 2.998-3.001) interposto contra decisão da Presidência do STJ, que conheceu do agravo para não conhecer do recurso especial (fls. 2.992-2.994).
+Em suas razões, a parte agravante alega que não busca o reexame de provas.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+A parte agravada apresentou impugnação (fls. 3.006-3.023).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MATÉRIA CONSTITUCIONAL. COMPETÊNCIA DO STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão da Presidência do STJ que conheceu do agravo para não conhecer do recurso especial.
+II. Questão em discussão
+2. Consiste em saber se a análise dos fundamentos do especial esbarra no impedimento da Súmula n. 7 do STJ.
+II. Razões de decidir
+3. A análise de violação a dispositivos constitucionais é vedada em sede especial, sob pena de usurpação da competência atribuída pelo constituinte ao Supremo Tribunal Federal.
+4. O recurso especial não comporta exame de questões que impliquem revolvimento de elementos fático-probatórios dos autos (Súmula n. 7/STJ).
+III. Dispositivo
+5. Agravo interno desprovido.
+Tese de julgamento: 1. A tese de violação de dispositivo constitucional não pode ser apreciada em recurso especial, sob pena de usurpação de competência do STF. 2. O recurso especial não admite reexame de provas, conforme a Súmula n. 7 do STJ.
+VOTO
+A insurgência não merece acolhida.
+A parte agravante não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (fls. 2.992-2.994):
+Cuida-se de Agravo apresentado por PROJETO IMOBILIARIO RLC 04 LTDA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+APELAÇÃO CÍVEL - EMBARGOS À MONITORIA- DUPLICATA SEM ACEITE - ORIGEM DO DÉBITO DEVIDAMENTE DEMONSTRADA - ENTREGA DA MERCADORIA - ÔNUS DA PROVA. POR SER UM TÍTULO DE CRÉDITO CAUSAI, A DUPLICATA É VINCULADA A UM NEGÓCIO JURÍDICO PREEXISTENTE, SEJA ELE DE COMPRA E VENDA MERCANTIL OU DE PRESTAÇÃO DE SERVIÇOS. INEXISTENTES OS ALEGADOS VÍCIOS NA SENTENÇA E EVIDENCIADO QUE O INTUITO DA PARTE É A REDISCUSSÁO DA MATÉRIA, DE RIGOR A IMPOSIÇÃO DA MULTA PREVISTA NO ART. 1.026, § 29, DO CPC. SE A PARTE NEGA O RECEBIMENTO DA MERCADORIA E A REALIZAÇÃO DE NEGÓCIO COM A REQUERENTE, CABE A ESTA O ÔNUS DA PROVA DOS FATOS CONSTITUTIVOS DE SEU DIREITO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 5º, LIV e LV, da CF e 15, I e II, da Lei nº 5.474/68, no que concerne à nulidade das duplicatas apresentadas, tendo em vista que foi comprovada a efetiva entrega das mercadorias, trazendo a seguinte argumentação:
+O acórdão recorrido deve ser revogado, pois não observou os requisitos estabelecidos pelo artigo 15 da Lei nº 5.474/68, que trata da cobrança judicial de duplicatas. Esse dispositivo exige, para que a duplicata seja executada judicialmente, que o título seja acompanhado de documentos comprobatórios da entrega da mercadoria ou da prestação do serviço, além de ter sido protestado, quando necessário.
+No caso concreto, o protesto foi efetivado, mas faltam provas essenciais para a execução, como a comprovação clara e irrefutável da entrega das mercadorias. A documentação apresentada, composta por notas fiscais e recibos, é insuficiente, uma vez que as assinaturas constantes nos comprovantes são ilegíveis e não há como identificá-las. Assim, não é possível comprovar que as mercadorias foram de fato recebidas conforme exigido pela lei.
+A simples apresentação de um protesto, sem a devida comprovação da entrega das mercadorias, não satisfaz os requisitos da Lei nº 5.474/68.
+ ..
+Assim, diante de todo o dito, conclui-se a devida nulidade da execução das duplicatas apresentadas, por não atenderem aos requisitos legais exigidos pela Lei nº 5.474/68 e, por não estarem acompanhadas de comprovantes aptos a demonstrar a entrega das mercadorias (fls. 2.906/2.908).
+É o relatório.
+Decido.
+Quanto à controvérsia, é incabível o Recurso Especial quando visa discutir violação ou interpretação divergente de norma constitucional porque, consoante o disposto no art. 102, III, da Constituição Federal, é matéria própria do apelo extraordinário para o Supremo Tribunal Federal.
+Nesse sentido: "Não cabe a esta Corte Superior, ainda que para fins de prequestionamento, examinar na via especial suposta violação de dispositivo ou princípio constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal". (AgInt nos EREsp 1.544.786/RS, relator Ministro Gurgel de Faria, Primeira Seção, DJe de 16/6/2020.)
+Confiram-se ainda os seguintes julgados: AREsp n. 2.747.891/MS, relatora Ministra Daniela Teixeira, Quinta Turma, DJEN de 24/2/2025; AgInt no AREsp n. 2.074.834/RJ, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJEN de 21/2/2025; AgRg no REsp n. 2.163.206/RS, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, DJEN de 23/12/2024; AgInt no AREsp n. 2.675.455/SC, relator Ministro Francisco Falcão, Segunda Turma, DJEN de 23/12/2024; EDcl no AgRg no AREsp n. 2.688.436/MS, relator Ministro Messod Azulay Neto, Quinta Turma, DJEN de 20/12/2024; AgRg no AREsp n. 2.552.030/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 18/11/2024; EDcl no AgInt no AREsp n. 2.546.602/SC, relator Ministro Raul Araújo, Quarta Turma, DJe de 21/10/2024; AgInt no AREsp n. 2.494.803/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 18/9/2024; AgInt nos EDcl no REsp n. 2.110.844/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 22/8/2024; AgInt no REsp n. 2.119.106/RS, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 22/8/2024.
+Ademais, o Tribunal a quo se manifestou nos seguintes termos:
+No caso em apreço, verifico dos autos que a duplicata de nº 10399 está acompanhada da nota fiscal 10399 (doc. Ordem nº 5; pág.
+25), devidamente assinada. Diz a recorrente ser ilegível a rubrica ali lançada. Quanto à duplicata de nº 10229, alega o apelante que desconhece o subscritor, "Wiliam Araújo".
+É de se destacar que o ônus da prova incumbe ao réu - ora apelante -, quanto à existência de fato impeditivo, modificativo ou extintivo do direito do autor (art. 373, II do CPC). Não foram apresentadas provas hábeis a desconstituir o direito vindicado, como por exemplo, relação de funcionários e colaboradores vinculados à devedora à data da emissão do título, e suas respectivas assinaturas, afastando-se o alegado vínculo entre esta e o subscritor da nota fiscal.
+Desse modo, havendo o respectivo comprovante de entrega, a cobrança não se afigura indevida (fls. 314/315).
+Tal o contexto, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: AgInt no REsp n. 2.113.579/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.691.829/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJEN de 28/3/2025; AREsp n. 2.839.474/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 26/3/2025; AgInt no REsp n. 2.167.518/RS, relatora Ministra Nancy Andrighi, Terceira Turma, DJEN de 27/3/2025; AgRg no AREsp n. 2.786.049/SP, relator Ministro Messod Azulay Neto, Quinta Turma, DJEN de 26/3/2025; AgRg no AREsp n. 2.753.116/RN, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJEN de 25/3/2025; AgInt no REsp n. 2.185.361/CE, relatora Ministra Regina Helena Costa, Primeira Turma, DJEN de 28/3/2025; AgRg no REsp n. 2.088.266/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 25/3/2025; AREsp n. 1.758.201/AM, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.643.894/DF, relator Ministro Raul Araújo, Quarta Turma, DJEN de 31/3/2025; AgInt no AREsp n. 2.636.023/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 28/3/2025; AgInt no REsp n. 1.875.129/PE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJEN de 21/3/2025.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+Em relação à impossibilidade de análise de matéria constitucional, subsistem os fundamentos da decisão agravada, pois não impugnados neste recurso.
+Conforme destacado pelo julgado agravado , a Corte de origem concluiu pela comprovação da entrega das mercadorias, sendo válida a cobrança dos valores.
+Rever os argumentos do acórdão recorrido demandaria incursão no campo fático-probatório, providência vedada na via especial, conforme a Súmula n. 7 do STJ.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
