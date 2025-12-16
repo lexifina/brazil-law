@@ -1,0 +1,93 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/12/2025 a 16/12/2025, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro João Otávio de Noronha.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C REPETIÇÃO DE INDÉBITO E DANOS MORAIS. AGRAVO EM RECURSO ESPECIAL CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E NEGAR-LHE PROVIMENTO.
+I. CASO EM EXAME
+1. Agravo em recurso especial contra decisão de inadmissibilidade fundada na inexistência de negativa de prestação jurisdicional (art. 1.022 do CPC), na ausência de violação do art. 489 do CPC, na incidência da Súmula n. 7 do STJ e na inviabilidade de processamento pela alínea c diante da aplicação indistinta dos óbices sumulares.
+2. A controvérsia diz respeito a ação declaratória de inexistência de débito c/c repetição de indébito e indenização por danos morais. O valor da causa foi fixado em R$ 13.299,60.
+3. A sentença julgou parcialmente procedentes os pedidos para declarar a inexistência do débito, determinar a restituição simples e afastar a indenização por danos morais, com fixação de honorários.
+4. A Corte de origem reformou parcialmente para condenar ao pagamento de danos morais, manter a repetição simples do indébito e redimensionar a sucumbência.
+II. QUESTÃO EM DISCUSSÃO
+5. Há seis questões em discussão: (i) saber se houve negativa de prestação jurisdicional em violação do art. 1.022 do CPC; (ii) saber se houve violação do art. 489, § 1º, II, III, IV, V e VI, do CPC por fundamentação genérica; (iii) saber se houve extrapolação dos limites do pedido em afronta ao art. 492 do CPC; (iv) saber se houve ato ilícito e nexo causal aptos a justificar dano moral, à luz dos arts. 186 e 927 do CC; (v) saber se incumbia à autora comprovar o dano moral, conforme o art. 373, I, do CPC; e (vi) saber se há dissídio jurisprudencial sobre a necessidade de comprovação específica do dano moral em descontos indevidos.
+III. RAZÕES DE DECIDIR
+6. A decisão afasta a negativa de prestação jurisdicional e os vícios de fundamentação: o Tribunal de origem examinou as teses e apresentou motivação suficiente, inexistindo omissão, contradição ou extrapolação dos limites do pedido, não havendo violação dos arts. 1.022, 489 e 492 do CPC.
+7. Incide a Súmula n. 7 do STJ, o que obsta o reexame das circunstâncias fáticas e do conjunto probatório para afastar o dever de indenizar ou revisar o quantum dos danos morais.
+8. O conhecimento pela alínea c é inviável quando o mesmo óbice (Súmula n. 7 do STJ) impede o processamento pela alínea a sobre a mesma matéria, razão pela qual não se aprecia o alegado dissídio jurisprudencial.
+IV. DISPOSITIVO E TESE
+9 . Agravo em recurso especial conhecido para conhecer em parte do recurso especial e negar-lhe provimento.
+Tese de julgamento: "1. Não há negativa de prestação jurisdicional nem vícios de fundamentação, inexistindo violação dos arts. 1.022, 489 e 492 do CPC. 2. Aplica-se a Súmula n. 7 do STJ para obstar o reexame do conjunto fático-probatório quanto ao dever de indenizar e à revisão do quantum dos danos morais. 3. Incide o óbice sumular aplicado pela alínea a, que impede o conhecimento do recurso especial pela alínea c sobre a mesma matéria".
+Dispositivos relevantes citados: CF, art. 105, III, a, c; CPC, arts. 1.022, 489, § 1º, II, III, IV, V, VI, 492, 373, I, 85, § 11, § 2º; CC, arts. 186, 927.
+Jurisprudência relevante citada: STJ, Súmula n. 7; STJ, AgInt no AREsp n. 1.946.896/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 26/8/2024; STJ, AgInt no AREsp n. 2.529.047/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 19/8/2024; STJ, AREsp n. 2.264.084/DF, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 6/8/2024; STJ, AgInt no AREsp n. 2.501.742/PE, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 12/8/2024.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por MBM PREVIDÊNCIA COMPLEMENTAR contra a decisão que inadmitiu o recurso especial, pelos óbices: por ausência de negativa de prestação jurisdicional quanto ao art. 1.022 do Código de Processo Civil, por inexistência de violação do art. 489 do Código de Processo Civil, por incidência da Súmula n. 7 do STJ para afastar pretensão de revisão do dever de indenizar e do quantum dos danos morais, e por inviabilidade de processamento pela alínea c em razão da aplicação indistinta dos óbices sumulares às alíneas a e c.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Não foram apresentadas contrarrazões.
+O recurso especial foi interposto com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul em apelação cível nos autos de ação declaratória de inexistência de débito c/c repetição de indébito e indenização por danos morais.
+O julgado foi assim ementado (fl. 268):
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C REPETIÇÃO EM DOBRO E INDENIZAÇÃO POR DANOS MORAIS. SENTENÇA DE PARCIAL PROCEDÊNCIA. RECURSO DA AUTORA.
+1.Cuida-se de ação declaratória de inexistência de débito, na qual a parte autora alegou desconhecer a origem dos descontos no valor de R$ 69,90 lançados mensalmente no extrato de sua conta bancária. Postulou a declaração de inexistência de débito, a repetição em dobro dos valores indevidamente debitados, e indenização por danos morais. Sobreveio sentença de parcial procedência, que reconheceu a ausência de contratação válida, determinando a repetição simples dos valores descontados.
+2.A pretensão recursal da autora, ora apelante, refere-se aos pedidos de indenização por danos morais e repetição em dobro dos descontos indevidos.
+3.O dano moral, no caso, decorre das próprias circunstâncias fáticas, pois a conduta reprovável da parte ré, evidenciada no contexto probatório, implicou a indisponibilidade de valores indispensáveis à subsistência da autora, que é idosa e não recebe proventos de aposentadoria elevados. Sentença reformada, no ponto.
+4.Mantida a repetição do indébito na forma simples, porquanto não evidenciada conduta contrária à boa-fé objetiva.
+5.Sucumbência redimensionada, diante da solução endereçada em âmbito recursal.
+6. RECURSO DE APELAÇÃO PARCIALMENTE PROVIDO.
+Os embargos de declaração opostos foram decididos nestes termos (fl. 278):
+EMBARGOS DE DECLARAÇÃO EM RECURSO DE APELAÇÃO. INEXISTÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO NA DECISÃO EMBARGADA. IMPOSSIBILIDADE DE REDISCUTIR MATÉRIA APRECIADA. OS EMBARGOS DECLARATÓRIOS OBJETIVAM TÃO SOMENTE SANAR OS VÍCIOS ELENCADOS NOS TERMOS DO ART. 1.022 DO CPC.
+1. Sustenta a parte embargante a existência de omissão e contradição no julgado. Contudo, o faz de forma genérica e superficial, sem ao menos indicar expressa e objetivamente sobre qual ponto a decisão estaria omissa, ou quais as suas premissas contraditórias.
+2. Consoante dispõe o art. 1.022 do CPC, os embargos de declaração se destinam exclusivamente ao aclaramento de obscuridade, supressão de omissão, desfazimento de contradição ou correção de erros materiais. Hipóteses, aqui, não verificadas.
+3. Quanto ao prequestionamento, como é cediço, o julgador não é obrigado a se manifestar de maneira individualizada sobre todos os artigos de lei citados pelas partes, bastando expor os motivos que o levaram ao seu convencimento. Nesse norte, aliás, pelos ditames do art. 1.025 do CPC, os dispositivos legais suscitados pelas partes consideram-se incluídos no acórdão para fins de prequestionamento, mostrando-se desnecessária referência expressa.
+EMBARGOS DECLARATÓRIOS DESACOLHIDOS.
+Nas razões do recurso especial, a parte aponta, além de divergência jurisprudencial, violação dos seguintes artigos:
+a) 1.022 do Código de Processo Civil, porque teria havido negativa de prestação jurisdicional, com omissão e contradição no acórdão recorrido quanto à inexistência de dano moral in re ipsa e à necessidade de prova específica do abalo;
+b) 489, § 1º, II, III, IV, V e VI, do Código de Processo Civil, já que o acórdão teria empregado conceitos indeterminados, invocado motivos genéricos, deixado de enfrentar argumentos capazes de infirmar a conclusão e utilizado precedent es sem identificação dos fundamentos e sem demonstrar a aderência ao caso;
+c) 492 do Código de Processo Civil, pois a decisão teria extrapolado os limites do pedido ao fixar indenização por danos morais sem demonstração do dano e em valor considerado excessivo;
+d) 186 e 927 do Código Civil, porquanto os fatos narrados não configuraram ato ilícito nem nexo causal apto a justificar danos morais, exigindo-se prova de efetivo abalo;
+e) 373, I, do Código de Processo Civil, uma vez que incumbia à autora comprovar o dano moral, o que não teria ocorrido.
+Sustenta que o Tribunal de origem, ao decidir que "o dano moral, no caso, decorre das próprias circunstâncias fáticas" e que "os descontos mensais indevidos atingiram proventos de aposentadoria", divergiu do entendimento de tribunais estaduais e do STJ que exigem comprovação específica do dano moral em hipóteses análogas, indicando julgados do TJSP, TJMG e do STJ.
+Requer que seja conhecido e provido o recurso para reformar o acórdão, afastando a condenação em indenização por danos morais. Alternativamente, requer a cassação da decisão recorrida, com a remessa dos autos à instância ordinária.
+Não foram apresentadas contrarrazões.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C REPETIÇÃO DE INDÉBITO E DANOS MORAIS. AGRAVO EM RECURSO ESPECIAL CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E NEGAR-LHE PROVIMENTO.
+I. CASO EM EXAME
+1. Agravo em recurso especial contra decisão de inadmissibilidade fundada na inexistência de negativa de prestação jurisdicional (art. 1.022 do CPC), na ausência de violação do art. 489 do CPC, na incidência da Súmula n. 7 do STJ e na inviabilidade de processamento pela alínea c diante da aplicação indistinta dos óbices sumulares.
+2. A controvérsia diz respeito a ação declaratória de inexistência de débito c/c repetição de indébito e indenização por danos morais. O valor da causa foi fixado em R$ 13.299,60.
+3. A sentença julgou parcialmente procedentes os pedidos para declarar a inexistência do débito, determinar a restituição simples e afastar a indenização por danos morais, com fixação de honorários.
+4. A Corte de origem reformou parcialmente para condenar ao pagamento de danos morais, manter a repetição simples do indébito e redimensionar a sucumbência.
+II. QUESTÃO EM DISCUSSÃO
+5. Há seis questões em discussão: (i) saber se houve negativa de prestação jurisdicional em violação do art. 1.022 do CPC; (ii) saber se houve violação do art. 489, § 1º, II, III, IV, V e VI, do CPC por fundamentação genérica; (iii) saber se houve extrapolação dos limites do pedido em afronta ao art. 492 do CPC; (iv) saber se houve ato ilícito e nexo causal aptos a justificar dano moral, à luz dos arts. 186 e 927 do CC; (v) saber se incumbia à autora comprovar o dano moral, conforme o art. 373, I, do CPC; e (vi) saber se há dissídio jurisprudencial sobre a necessidade de comprovação específica do dano moral em descontos indevidos.
+III. RAZÕES DE DECIDIR
+6. A decisão afasta a negativa de prestação jurisdicional e os vícios de fundamentação: o Tribunal de origem examinou as teses e apresentou motivação suficiente, inexistindo omissão, contradição ou extrapolação dos limites do pedido, não havendo violação dos arts. 1.022, 489 e 492 do CPC.
+7. Incide a Súmula n. 7 do STJ, o que obsta o reexame das circunstâncias fáticas e do conjunto probatório para afastar o dever de indenizar ou revisar o quantum dos danos morais.
+8. O conhecimento pela alínea c é inviável quando o mesmo óbice (Súmula n. 7 do STJ) impede o processamento pela alínea a sobre a mesma matéria, razão pela qual não se aprecia o alegado dissídio jurisprudencial.
+IV. DISPOSITIVO E TESE
+9 . Agravo em recurso especial conhecido para conhecer em parte do recurso especial e negar-lhe provimento.
+Tese de julgamento: "1. Não há negativa de prestação jurisdicional nem vícios de fundamentação, inexistindo violação dos arts. 1.022, 489 e 492 do CPC. 2. Aplica-se a Súmula n. 7 do STJ para obstar o reexame do conjunto fático-probatório quanto ao dever de indenizar e à revisão do quantum dos danos morais. 3. Incide o óbice sumular aplicado pela alínea a, que impede o conhecimento do recurso especial pela alínea c sobre a mesma matéria".
+Dispositivos relevantes citados: CF, art. 105, III, a, c; CPC, arts. 1.022, 489, § 1º, II, III, IV, V, VI, 492, 373, I, 85, § 11, § 2º; CC, arts. 186, 927.
+Jurisprudência relevante citada: STJ, Súmula n. 7; STJ, AgInt no AREsp n. 1.946.896/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 26/8/2024; STJ, AgInt no AREsp n. 2.529.047/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 19/8/2024; STJ, AREsp n. 2.264.084/DF, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 6/8/2024; STJ, AgInt no AREsp n. 2.501.742/PE, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 12/8/2024.
+VOTO
+A controvérsia diz respeito a ação declaratória de inexistência de débito c/c repetição de indébito e indenização por danos morais, em que a parte autora pleiteou a declaração de inexistência de contratação e débitos, a restituição em dobro dos descontos e a condenação por danos morais, além de tutela de urgência e inversão do ônus da prova. O valor da causa foi fixado em R$ 13.299,60.
+Na sentença, o Juízo de primeiro grau julgou parcialmente procedentes os pedidos para declarar a inexistência do débito, determinar a restituição simples dos valores descontados e afastar os danos morais; fixou honorários de 10% do valor da causa em favor dos patronos dos réus e R$ 1.000,00 ao procurador da autora.
+A Corte de origem reformou parcialmente a sentença para condenar a ré MBM PREVIDÊNCIA PRIVADA ao pagamento de R$ 10.000,00 por danos morais, manter a repetição simples do indébito e redimensionar a sucumbência, fixando honorários de 15% sobre o valor da condenação em favor dos procuradores da autora e 10% sobre o valor atualizado da causa aos procuradores do BANCO BRADESCO S. A.
+I - Arts. 1.022 , 489 e 492 do CPC
+No recurso especial a recorrente alega negativa de prestação jurisdicional, aduzindo omissões e contradições quanto à inexistência de dano moral in re ipsa, à imprescindibilidade de provar o abalo e à suposta falta de enfrentamento de argumentos sobre ausência de violação de direitos da personalidade e excesso do valor.
+O acórdão dos embargos de declaração concluiu que não havia omissão, contradição, obscuridade ou erro material e registrou que a parte apenas pretendia rediscutir o julgado; destacou, ainda, que o julgador não é obrigado a se manifestar de maneira individualizada sobre todos os artigos citados, bastando fundamentação suficiente.
+Não se verifica a alegada ofensa aos artigos, pois a questão referente à omissão e contradição sobre dano moral in re ipsa, necessidade de prova do abalo, ausência de violação de direitos da personalidade e quantum foi devidamente analisada pela Corte estadual que concluiu que havia fundamentação clara e suficiente sobre as circunstâncias fáticas, a indisponibilidade de verba alimentar e a proporcionalidade do valor fixado, não havendo vício que possa nulificar o acórdão recorrido.
+Confira-se trecho do acórdão recorrido (fl. 265):
+O dano moral, no caso, decorre das próprias circunstâncias fáticas, pois a conduta reprovável da parte ré, evidenciada no contexto probatório, implicou a indisponibilidade de valores indispensáveis à subsistência da autora que é idosa e não recebe proventos de aposentadoria elevados (R$ 1.261,85), evidenciando que os fatos excederam o mero dissabor.
+Nesse contexto, é evidente que a autora foi gravemente prejudicada pelos descontos mensais indevidos que atingiram proventos de aposentaria depositados na conta bancária sobre a qual recaíram os descontos indevidos - evento 1, EXTR4:
+II - Arts. 186 e 927, do CC e 373, I, do CPC
+A recorrente afirma que não houve ato ilícito nem nexo causal aptos a gerar dano moral, pois os descontos seriam ínfimos e não teriam causado abalo psicológico ou financeiro relevante.
+O acórdão recorrido, examinando as peculiaridades do caso, concluiu que a indisponibilidade reiterada de valores de natureza alimentar, em favor de idosa de baixa renda, extrapolou o mero dissabor, caracterizando dano moral, com arbitramento de R$ 10.000,00, proporcional e suficiente.
+Como visto, o Tribunal a quo analisou a controvérsia fundamentando-se nas circunstâncias fáticas do caso e no conjunto probatório.
+Rever tal entendimento demandaria o reexame de provas, o que é incabível em recurso especial ante o óbice da Súmula n. 7 do STJ.
+III - Divergência jurisprudencial
+Sustenta a agravante dissídio quanto à necessidade de comprovação do dano moral em hipóteses de descontos indevidos, colacionando julgados do TJSP, TJMG e do STJ.
+Com relação aos alegados dissídios jurisprudenciais, a incidência de óbice sumular quanto à interposição pela alínea a do permissivo constitucional impede ao conhecimento do recurso especial pela alínea c sobre a mesma questão.
+Nesse sentido: AgInt no AREsp n. 1.946.896/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 26/8/2024, DJe de 2/9/2024; AgInt no AREsp n. 2.529.047/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 19/8/202422 , DJe de 22/8/2024; AREsp n. 2.264.084/DF, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 6/8/2024, DJe de 9/8/2024; AgInt no AREsp n. 2.501.742/PE, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 12/8/2024, DJe de 15/8/2024.
+IV - Conclusão
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial para negar-lhe provimento.
+Nos termos do § 11 do art. 85 do Código de Processo Civil, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+É o voto.
