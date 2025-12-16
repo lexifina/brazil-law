@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/12/2025 a 16/12/2025, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Marco Buzzi, João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO REVISIONAL. CONTRATO DE FINANCIAMENTO HABITACIONAL (SFH). FUNDAMENTO DA DECISÃO AGRAVADA: SÚMULA 284/STF. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. SÚMULA 182/STJ.
+1. Nos termos do art. 1021, § 1º, do Código de Processo Civil e da Súmula 182/STJ, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+2. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno interposto por Maria Cristina Scagliarini Jardim contra decisão singular da lavra do Ministro Presidente do STJ que não conheceu do recurso especial por entender aplicável a Súmula 284/STF, ante a deficiência na fundamentação, consignando a ausência de indicação precisa dos dispositivos de lei federal tidos por violados e dos dispositivos objeto de dissídio interpretativo, não bastando a mera citação de artigos (fls. 707-708).
+Foram opostos embargos de declaração, os quais foram rejeitados, reafirmando-se a incidência da Súmula 284/STF e o caráter bifásico do juízo de admissibilidade, além de registrar que a recorrente apenas mencionou genericamente artigos legais sem apontar, de forma específica, as supostas violações (fls. 721-722).
+Nas razões do presente agravo interno, a parte agravante sustenta, em síntese, que a decisão agravada desconsiderou que, na petição do recurso especial, houve indicação precisa dos arts. 1.022 e 489 do Código de Processo Civil, e que o próprio Tribunal de origem admitiu o especial para enfrentamento do mérito por omissão do acórdão recorrido sobre a capitalização de juros no âmbito do SFH.
+Aduz que, embora o juízo de admissibilidade seja bifásico, a matéria deve ser apreciada pelo colegiado, reiterando a transcrição dos arts. 1.022 e 489 do CPC e o trecho da decisão de admissibilidade que reconheceu o prequestionamento ficto.
+Impugnação ao agravo interno às fls. 735-737.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO REVISIONAL. CONTRATO DE FINANCIAMENTO HABITACIONAL (SFH). FUNDAMENTO DA DECISÃO AGRAVADA: SÚMULA 284/STF. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. SÚMULA 182/STJ.
+1. Nos termos do art. 1021, § 1º, do Código de Processo Civil e da Súmula 182/STJ, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+2. Agravo interno não conhecido.
+VOTO
+De plano, verifico que o agravo interno interposto não merece ser conhecido, uma vez que a parte agravante não atacou especificamente o único fundamento da decisão agravada.
+A decisão ora agravada não conheceu do recurso especial por aplicação da Súmula 284/STF, ao fundamento de que não houve indicação precisa dos dispositivos legais federais supostamente violados, nem dos dispositivos objeto de dissídio interpretativo, ressaltando que a mera citação de artigos legais não supre a exigência constitucional.
+Os embargos de declaração reiteraram esse fundamento, consignando que a recorrente apenas mencionou genericamente artigos, sem apontar especificamente se eram os tidos por violados ou de que modo se deu a suposta violação, e destacaram a não vinculação do juízo de admissibilidade da origem.
+No presente agravo interno, contudo, a parte não apresentou argumentos voltados a atacar objetiva e integralmente o fundamento da decisão agravada, limitando-se a aduzir que indicou os arts. 1.022 e 489 do CPC na petição do especial, a transcrever os referidos dispositivos processuais e a invocar a decisão de admissibilidade proferida na origem, sem demonstrar, de modo concreto e específico, como a indicação seria precisa, quais seriam os dispositivos federais efetivamente violados no acórdão recorrido, nem quais dispositivos legais embasariam o dissídio interpretativo alegado.
+Verifica-se que as razões do agravo interno se mostram genéricas e não enfrentam, de modo direto e específico, a deficiência de fundamentação apontada na decisão agravada, deixando de impugnar o único fundamento nela adotado. Os argumentos apresentados não infirmam, tecnicamente, a conclusão de inadmissibilidade, pois se limitam à transcrição de normas processuais e à invocação da admissão do especial pela origem, sem demonstrar a violação concreta de dispositivos federais nem individualizar os pontos do acórdão recorrido em que se teria verificado omissão relevante.
+Além disso, não há enfrentamento da exigência de indicação precisa dos dispositivos legais e do correspondente cotejo analítico para o dissídio, o que evidencia a ausência de impugnação adequada ao motivo determinante da decisão agravada. Nessa linha, a insurgência se revela formalmente insuficiente para afastar o óbice aplicado, mantendo-se hígida a incidência da Súmula 284/STF.
+A absoluta falta de impugnação da decisão agravada enseja o não conhecimento do agravo interno, na linha do entendimento jurisprudencial pacífico desta Corte. Nesse sentido é o EREsp n. 1.424.404/SP (relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 20/10/2021, DJe de 17/11/2021).
+Ademais, mesmo que conhecido o agravo interno, o recurso especial não prosperaria.
+Com efeito, incide a Súmula 284/STF, pois as razões do especial limitam-se a invocar genericamente os arts. 1.022 e 489 do CPC, sem individualizar os pontos do acórdão em que haveria omissão nem demonstrar a correlação específica entre os comandos legais e a controvérsia, tampouco indicar dispositivos federais objeto de dissídio ou realizar cotejo analítico. A mera transcrição normativa e a referência abstrata à capitalização de juros não contratada não suprem a exigência de fundamentação clara, específica e suficiente.
+De outro lado, ainda que se afastasse a deficiência formal, incidiria o conjunto de óbices de prequestionamento (Súmulas 211/STJ e 282/STF), porque o acórdão recorrido decidiu a causa sem emitir juízo sobre a tese de capitalização mensal de juros, tendo os embargos declaratórios sido rejeitados por inexistência de vício integrativo.
+Ademais, as pretensões materiais veiculadas  revisão do PES/CP, comprovação de renda e suposto descumprimento contratual  demandam reexame do acervo fático-probatório e interpretação de cláusulas contratuais, o que atrai os óbices das Súmulas 7 e 5/STJ.
+Conclui-se, pois, que o recurso especial não seria, sequer, conhecido.
+Imperioso concluir, portanto, que a exigência constante do art. 1.021, § 1º, do CPC não foi cumprida, o que conduz à inviabilidade do agravo interno.
+Em face do exposto, não conheço do agravo interno.
+É como voto.
