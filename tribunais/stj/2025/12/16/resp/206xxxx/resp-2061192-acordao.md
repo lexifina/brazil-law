@@ -1,0 +1,71 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/12/2025 a 16/12/2025, por unanimidade, conhecer do recurso e lhe dar provimento, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira, Marco Buzzi e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO CIVIL. RECURSO ESPECIAL. PRESCRIÇÃO. CÉDULA RURAL PIGNORATÍCIA. RECURSO PROVIDO.
+1. O prazo prescricional aplicável à pretensão de repetição de indébito de contrato de cédula de crédito rural é de vinte anos, conforme o art. 177 do Código Civil de 1916, e de três anos, conforme o art. 206, § 3º, IV, do Código Civil de 2002, observada a norma de transição do art. 2.028 do Código Civil de 2002.
+2. O termo inicial da prescrição é a data da efetiva lesão, ou seja, do pagamento, conforme entendimento consolidado no Tema 919/STJ.
+3. No caso, o pagamento da Cédula Rural Pignoratícia nº 89/00269-5 ocorreu em julho de 1993 e a ação foi ajuizada em março de 2009, após o transcurso do prazo prescricional trienal previsto no Código Civil de 2002.
+4. A prescrição trienal deve ser reconhecida, conforme entendimento reiterado por esta Corte Superior no Tema 919/STJ.
+5. Resultado do Julgamento: Recurso provido para declarar a prescrição da pretensão de repetição do indébito referente à Cédula Rural Pignoratícia nº 89/00269-5.
+RELATÓRIO
+Trata-se de recurso especial interposto por BANCO DO BRASIL S. A, com fundamento nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de Goiás (TJ-GO), assim ementado (e-STJ, fl. 591):
+EMENTA: EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL. AÇÃO DE REPETIÇÃO DE INDÉBITO.
+1. ERRO DE FATO. Deve ser decotado da fundamentação do acórdão a menção a tema diverso do caso dos autos, situação que, por si só, não conduz à modificação do julgado.
+2. PRESCRIÇÃO. Apesar de a prescrição se tratar de matéria de ordem pública, que pode ser apreciada de ofício, forçoso reconhecer o julgamento extra petita em relação ao contrato não questionado na apelação, sobre o qual ocorreu o trânsito em julgado.
+3. PREQUESTIONAMENTO. A interposição dos embargos de declaração é suficiente para preencher o requisito do prequestionamento, independentemente do êxito desse recurso, a teor do art. 1.025 do CPC (prequestionamento ficto).
+Embargos de declaração conhecidos e parcialmente acolhidos, com efeito infringente. Acórdão reformado.
+Nas razões do recurso especial, o recorrente aponta violação dos artigos 206, § 3º, IV, e 2.028, do Código Civil, 1.022, II, parágrafo único, I e II c/c 489, §1º, IV, V e VI, 487, II, 927, III, e 1.025, do CPC/2015, além de divergência jurisprudencial.
+Sustenta nulidade do acórdão recorrido por vício de fundamentação porque "ao resolver os embargos de declaração, o Ex.mo Relator analisou as matérias envolvidas apenas superficialmente, omitindo-se quanto aos fatos do processo, em especial em relação à cédula rural nº 89/00269-5 (quitada/paga em agosto de 1993, após o seu vencimento final de 05/07/1993), especificamente quanto à necessidade de adequação do julgado ao precedente de aplicação obrigatória - por afastar a ocorrência da prescrição trienal (art. 206, §3º, IV, c/c 2.028 CC/2002 - REsp nº 1.361.730/RS - tema 919), por equivocadamente entender que a ação teria sido ajuizada dentro do prazo decenal de prescrição (art. 205 do Código Civil/2002). A verdade é que, não obstante a clareza do vício apontado nos embargos de declaração, relativamente à ocorrência da prescrição trienal, consoante repetitivo do tema 919 STJ, no eg. Tribunal local, ao resolver os aclaratórios, forma apenas parcialmente acolhidos, para reconhecer o julgamento extra petita em relação à outra cédula rural 89/00271- 7 (não devolvida no apelo do adverso), mas, equivocadamente, afastou a ocorrência da prescrição trienal da cédula 89/00269-5, repetindo-se, assim, a omissão, e desrespeitando entendimento repetitivo vinculante já consolidado por essa Corte Superior de Justiça (R Esp 1.361.730/RS - tema 919)." (e-STJ, fl. 613)
+Afirma que "de acordo com o que consta nos autos, a ação de repetição de indébito do autor, ora Recorrido, foi proposta em 25/03/2009. 58. Por seu turno, considerando a documentação probatória produzida nos autos, tanto nos extratos/Slip"s das cédulas rurais, bem como no laudo pericial homologado pelo Juízo, e na sentença apelada, e ainda, em parte no acórdão recorrido, restou consignado que a Cédula Rural nº 89/00269-5, emitida em 30/11/1989, com vencimento em 05/074/1993 - foi paga em agosto de 1993.  .. . Contudo, ao analisar a prescrição, o Emo. Relator do Tribunal local recorrido, ao julgar o apelo do autor, ora Recorrente, deu-lhe provimento, para afastar a ocorrência da prescrição trienal da Cédula Rural nº 89/00269-5 (paga em julho/agosto/1993), por equivocadamente entender que para o caso seriam aplicáveis as regras da prescrição decenal (art.205 CC/2002)". (e-STJ, fl. 620)
+Não foram oferecidas contrarrazões (e-STJ, fl. 652).
+É o relatório.
+EMENTA
+DIREITO CIVIL. RECURSO ESPECIAL. PRESCRIÇÃO. CÉDULA RURAL PIGNORATÍCIA. RECURSO PROVIDO.
+1. O prazo prescricional aplicável à pretensão de repetição de indébito de contrato de cédula de crédito rural é de vinte anos, conforme o art. 177 do Código Civil de 1916, e de três anos, conforme o art. 206, § 3º, IV, do Código Civil de 2002, observada a norma de transição do art. 2.028 do Código Civil de 2002.
+2. O termo inicial da prescrição é a data da efetiva lesão, ou seja, do pagamento, conforme entendimento consolidado no Tema 919/STJ.
+3. No caso, o pagamento da Cédula Rural Pignoratícia nº 89/00269-5 ocorreu em julho de 1993 e a ação foi ajuizada em março de 2009, após o transcurso do prazo prescricional trienal previsto no Código Civil de 2002.
+4. A prescrição trienal deve ser reconhecida, conforme entendimento reiterado por esta Corte Superior no Tema 919/STJ.
+5. Resultado do Julgamento: Recurso provido para declarar a prescrição da pretensão de repetição do indébito referente à Cédula Rural Pignoratícia nº 89/00269-5.
+VOTO
+Em julgamento de embargos de declaração, assim a Corte estadual afastou a prescrição trienal referente à Cédula Rural Pignoratícia nº 89/00269-5 (e-STJ, fls. 595-597, grifei):
+Em relação ao tema 639/STJ, diverso do apontado pelo recorrente, melhor sorte lhe assiste no que tange ao erro de fato, uma vez que a tese nele firmada refere-se ao prazo de prescrição aplicável à execução fiscal para a cobrança de dívida não-tributária relativa a operação de crédito rural transferida à União por força da Medida Provisória n. 2.196-3/2001.
+Acrescente-se que o tema indicado pelo embargante, 919/STJ, também traz a fixação das seguintes teses:
+"I - A pretensão de repetição de indébito de contrato de cédula de crédito rural prescreve no prazo de vinte anos, sob a égide do art. 177 do Código Civil de 1916, e de três anos, sob o amparo do art. 206, §3º, IV, do Código Civil de 2002, observada a norma de transição do art. 2.028 desse último Diploma Legal;
+II - O termo inicial da prescrição da pretensão de repetição de indébito de contrato de cédula de crédito rural é a data da efetiva lesão, ou seja, do pagamento."
+No acórdão, consignou-se, em apertada síntese, que "a ação de repetição de indébito foi proposta em março de 2009, enquanto que as Cédulas Rurais Pignoratícia nº 89/00269-5 e nº 89/00271-7, foram emitidas em 30/11/1989, com vencimento em 05/07/1993, portanto dentro do prazo decenal, uma vez que não transcorrida mais da metade do prazo vintenário, de forma que não há falar em prescrição trienal", afastando-se assim a regra de transição, de forma que a pretensão neste ponto é de rediscussão da matéria.
+Em relação ao termo inicial salientou-se que as cédulas rurais pignoratícias foram ambas emitidas em 30/11/1989, com vencimento em 05/07/1993, de forma que no caso o pagamento coincidiu com o vencimento, não havendo falar em vício neste ponto.
+ ..
+Considerando assim que a prescrição foi questionada no apelo apenas em relação à Cédula Rural Pignoratícia nº 89/00269-5, forçoso reconhecer a devolução da matéria apenas em relação a este contrato, tendo ocorrido o trânsito em julgado do outro pacto por ausência de impugnação, de forma que deve ser acolhida a tese de julgamento extra petita neste ponto.
+ ..
+FACE AO EXPOSTO, conheço e acolho parcialmente os embargos de declaração, com efeitos infringentes, para decotar da fundamentação do acórdão a utilização do tema 639/STJ e reformar o acórdão apenas para afastar a prescrição trienal referente à Cédula Rural Pignoratícia nº 89/00269-5, mantendo-se a condenação do requerido/embargante ao pagamento do indébito em relação ao referido contrato.
+Inicialmente, observa-se que não se viabiliza o recurso especial pela indicada nulidade por ausência de fundamentação, uma vez que, embora rejeitados parcialmente os embargos de declaração, o Tribunal de origem indicou adequadamente os motivos que lhe formaram o convencimento, analisando de forma clara, precisa e completa as questões relevantes do processo e solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Consoante entendimento desta Corte, não importa negativa de prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pela recorrente, decidindo de modo integral a controvérsia posta, não sendo possível confundir o julgamento em desconformidade com os interesses da parte com negativa de prestação jurisdicional.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE ARBITRAMENTO DE HONORÁRIOS - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA NEGAR PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE DEMANDADA.
+1. Não se verifica ofensa ao artigo 1.022, II, do CPC, quando o Tribunal decide, de modo claro e fundamentado, as questões essenciais ao deslinde do feito. Ademais, não se deve confundir decisão contrária aos interesses da parte com negativa de prestação jurisdicional.
+2. Nos termos da jurisprudência do STJ, revogado imotivadamente o mandato judicial, é cabível o ajuizamento da ação de arbitramento para cobrar os honorários, de forma proporcional aos serviços até então prestados. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.695.384/MT, relator Ministro MARCO BUZZI , Quarta Turma, julgado em 16/6/2025, DJEN de 24/6/2025, g.n.)
+AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA NEGAR PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE DEMANDANTE.
+1. Não se verifica ofensa aos artigos 11, 489 e 1.022, do CPC, quando o Tribunal decide, de modo claro e fundamentado, as questões essenciais ao deslinde do feito. Ademais, não se deve confundir decisão contrária aos interesses da parte com negativa de prestação jurisdicional.
+2. Verifica-se que o entendimento do Tribunal de piso está em consonância com a jurisprudência do STJ, no sentido de que é trienal o prazo prescricional da pretensão indenizatória por danos causados em razão da construção de usina hidrelétrica, tendo como termo a quo a data em que o titular do direito toma conhecimento inequívoco do fato e da extensão de suas consequências, nos termos do princípio da actio nata.
+2.1. Ademais, a pretensão de alterar as conclusões do órgão julgador acerca do momento em que houve o conhecimento inequívoco do fato esbarra no óbice da Súmula 7/STJ.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 2.083.325/BA, relator Ministro MARCO BUZZI, Quarta Turma, julgado em 26/5/2025, DJEN de 29/5/2025, g.n.)
+Aplicável ao caso a tese assim assentada por esta Corte Superior para o Tema Repetitivo n. 919 (grifei):
+I - A pretensão de repetição de indébito de contrato de cédula de crédito rural prescreve no prazo de vinte anos, sob a égide do art. 177 do Código Civil de 1916, e de três anos, sob o amparo do art. 206, §3º, IV, do Código Civil de 2002, observada a norma de transição do art. 2.028 desse último Diploma Legal;
+II - O termo inicial da prescrição da pretensão de repetição de indébito de contrato de cédula de crédito rural é a data da efetiva lesão, ou seja, do pagamento.
+Conforme acima transcrito, as instâncias ordinárias assentaram que o pagamento da cédula ocorreu em 05/07/1993. Como a vigência do Código Civil se deu em 01/2003, tem-se que transcorreu-se menos da metade do prazo vintenário que era aplicável na vigência do CC/1916.
+Segue o teor do artigo 2.028 do Código Civil (grifei):
+Art. 2.028. Serão os da lei anterior os prazos, quando reduzidos por este Código, e se, na data de sua entrada em vigor, já houver transcorrido mais da metade do tempo estabelecido na lei revogada.
+Como não cumprida a indigitada condição de transcurso de mais da metade do prazo, não se aplica o prazo prescricional vintenário da lei revogada, mas, sim, o trienal do novo Código.
+Tendo, segundo as instâncias ordinárias, a ação sido ajuizada em março de 2009, inequívoca a prescrição da pretensão de repetição do indébito.
+Mencionada jurisprudência assim tem sido reiterada por esta Corte:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE REPETIÇÃO DE INDÉBITO. CÉDULA DE CRÉDITO RURAL. DIFERENÇAS DE CORREÇÃO MONETÁRIA. PRESCRIÇÃO. TERMO INICIAL. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. A pretensão de re petição de indébito de contrato de cédula de crédito rural prescreve no prazo de vinte anos, sob a égide do art. 177 do Código Civil de 1916, e de três anos, sob o amparo do art. 206, § 3º, IV, do Código Civil de 2002, observada a norma de transição do art. 2.028 desse último Diploma Legal; o termo inicial para seu cômputo corresponde à data da efetiva lesão, ou seja, do pagamento (REsp n. 1.361.730/RS, relator Ministro Raul Araújo, Segunda Seção, DJe 28/10/2016).
+2. Agravo interno desprovido.
+(AgInt nos EDcl no REsp n. 1.457.892/RS, relator Ministro JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 29/4/2024, DJe de 2/5/2024)
+Ante o exposto, dou provimento ao recurso especial para declarar a prescrição da pretensão de repetição do indébito referente à Cédula Rural Pignoratícia nº 89/00269-5.
+É como voto.
