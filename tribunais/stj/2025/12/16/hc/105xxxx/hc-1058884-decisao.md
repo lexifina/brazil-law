@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de GUSTAVO PEREIRA SOUZA contra o ato do Tribunal de Justiça do Estado do Espírito Santo que negou provimento na Apelação Criminal n. 0000007-96.2025.8.08.0040 (fls. 14/32).
+Neste writ, a defesa alega que o paciente, primário e de bons antecedentes, atuou apenas como "mula", que a quantidade de droga e o transporte intermunicipal entre municípios limítrofes não comprovam dedicação a atividades criminosas, e que a negativa do tráfico privilegiado contraria a orientação desta Corte, invocando urgência pelo atingimento próximo do requisito objetivo de progressão.
+Pede, em liminar, a suspensão dos efeitos do acórdão e a colocação do paciente em liberdade; e, no mérito, requer a aplicação da causa de diminuição do art. 33, § 4º, da Lei n. 11.343/2006, em patamar máximo, com fixação do regime aberto e substituição da pena por restritivas de direitos, com expedição de alvará de soltura.
+É o relatório.
+Infere-se dos autos que o paciente foi preso em flagrante, por transportar 18 tabletes de maconha, totalizando 14.085 g, e teve a prisão convertida em preventiva para garantia da ordem pública, mantida na sent ença para assegurar a aplicação da lei penal, com negativa do direito de apelar em liberdade.
+A sentença confirmou a materialidade pelo laudo definitivo e a autoria pelos depoimentos policiais e pela confissão, condenando pelo art. 33, caput, da Lei n. 11.343/2006, à pena de 5 anos de reclusão, 500 dias-multa, em regime inicial semiaberto, e afastando o tráfico privilegiado em razão da quantidade e das circunstâncias do transporte.
+O Tribunal de origem entendeu que a expressiva quantidade de droga, somada às informações de inteligência, ao transporte intermunicipal e à tentativa de fuga, indica dedicação a atividades criminosas e afasta a minorante do § 4º do art. 33 da Lei de Drogas, mantendo o regime semiaberto pelo quantum da pena e vedando a substituição da pena por restritivas de direitos nos termos do art. 44, I, do Código Penal.
+Com efeito, conforme se extrai dos autos, há elementos que indicam a dedicação do paciente a atividades criminosas. Tal conclusão foi firmada pelas instâncias ordinárias a partir da expressiva quantidade de droga apreendida - aproximadamente 14 kg de maconha - aliada a outras circunstâncias do caso concreto, as quais revelam que o agente não se tratava de traficante eventual.
+Nesse contexto, a revisão do entendimento firmado pelas instâncias antecedentes demandaria revolvimento fático-probatório, providência inviável na via estreita do habeas corpus.
+A corroborar: AgRg no HC n. 1.041.323/MT, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 3/12/2025, DJEN de 11/12/2025.
+Ante o exposto, indefiro liminarmente a inicial.
+Publique-se
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. TRÁFICO PRIVILEGIADO. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. QUANTIDADE EXPRESSIVA DE DROGA. INFORMAÇÕES DE INTELIGÊNCIA. TRANSPORTE INTERMUNICIPAL. TENTATIVA DE FUGA. MANUTENÇÃO DO REGIME SEMIABERTO. INVIABILIDADE DE SUBSTITUIÇÃO POR RESTRITIVAS. VIA ESTREITA. REVOLVIMENTO FÁTICO-PROBATÓRIO INADEQUADO. PRECEDENTE CORROBORATIVO.
+Inicial indeferida liminarmente.
