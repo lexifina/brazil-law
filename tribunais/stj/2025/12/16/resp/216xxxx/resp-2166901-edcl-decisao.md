@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de embargos de declaração, opostos por JOÃO BATISTA FAGUNDES, em face de decisão monocrática proferida por este signatário, que deu provimento ao recurso especial determinar o retorno dos autos à origem para rejulgamento.
+Em suas razões, a parte embargante aponta omissão no julgamento unipessoal quanto às teses apresentadas em contrarrazões: existência de outro recurso nos mesmos autos e sobre a mesma matéria; óbices das Súmulas 211/STJ, 83/STJ e 7/STJ.
+É o relatório.
+Decido.
+Os embargos merecem acolhimento, com efeitos infringentes.
+1. Nos estreitos limites do artigo 1.022 do Código de Processo Civil de 2015, os embargos de declaração objetivam suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontráveis em decisão ou acórdão.
+Veja-se:
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EFEITOS INFRINGENTES. NÃO CABIMENTO. REITERAÇÃO DE EMBARGOS DECLATÓRIOS ADUZINDO AS MESMAS TESES, JÁ APRECIADAS. ELEVAÇÃO DA MULTA APLICADA E CERTIFICAÇÃO DO TRÂNSITO EM JULGADO. POSSIBILIDADE. EMBARGOS REJEITADOS. MULTA. 1. Depreende-se do art. 535, I e II, do CPC que os embargos de declaração apenas são cabíveis quando constar, na decisão recorrida, obscuridade, contradição ou omissão em ponto sobre o qual deveria ter se pronunciado o julgador. Eles não se prestam, portanto, ao simples reexame de questões já analisadas, com o intuito de dar efeito infringente ao recurso. 2. No caso, inexistem omissões ou contradições a serem sanadas, pois todas as teses da parte já foram apreciadas. O que se observa é o resistente inconformismo com a decisão exarada, contrária aos interesses da parte, circunstância a justificar a certificação do trânsito em julgado e a elevação da multa aplicada nos termos do art. 538 do CPC para 5%, ante a insistente oposição de embargos declaratórios aduzindo as mesmas questões. 3. Embargos de declaração rejeitados, com aplicação de multa e determinação de certificação do trânsito em julgado. (EDcl nos EDcl nos EDcl nos EDcl no AgRg no AREsp 552.667/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/11/2015, DJe 10/11/2015)
+Na hipótese, assiste razão à embargante, uma vez que a decisão ora embargada restou omissa acerca da existência de outro recurso no âmbito do mesmo processo.
+Verifica-se que o presente recurso especial (REsp 2166901/RS) advém de agravo de instrumento interposto contra decisão interlocutória proferida no âmbito do autos de n. 5045193-27.2019.8.21.0001 que corriam perante o 2º Juízo da 15a Vara Cível da Comarca de Porto Alegre/RS.
+Ocorre que, posteriormente, naqueles autos foi proferida sentença que versou, igualmente, sobre a prescrição, a qual foi objeto de apelação e, posteriormente, também de recurso especial, autuado no REsp 2.153.200/RS.
+Na hipótese, proferida a sentença que versou sobre a mesma matéria do agravo de instrumento e do presente recurso especial, deve ser reconhecida a perda de objeto do recurso. Nesse sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO COLETIVA. DECISÃO INTERLOCUTÓRIA QUE INDEFERIU A PRODUÇÃO DE PROVA ORAL. RECURSO INTERPOSTO CONTRA ACÓRDÃO QUE EXAMINOU AGRAVO DE INSTRUMENTO. SUPERVENIENTE PROLAÇÃO DE SENTENÇA DE MÉRITO NOS AUTOS DE ORIGEM. PERDA DO OBJETO. PREJUDICIALIDADE. COGNIÇÃO EXAURIENTE. POSSIBILIDADE DE REEXAME DA QUESTÃO PROBATÓRIA EM APELAÇÃO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. O recurso especial foi interposto contra acórdão que analisou agravo de instrumento manejado contra r. decisão interlocutória que indeferiu a produção de prova oral no curso de uma ação coletiva.
+2. A superveniente prolação de sentença de mérito no processo de origem, que julgou improcedentes os pedidos formulados pelo recorrente, enseja a perda do objeto do recurso especial por versar sobre questão incidental já absorvida, resolvida ou passível de reexame na cognição exauriente realizada em primeira instância.
+3. A questão relativa ao indeferimento da prova e o eventual cerceamento de defesa podem ser suscitados utilmente em preliminar de apelação, nos estritos termos do art. 1.009, § 1º, do Código de Processo Civil, o que afasta o requisito da urgência para a mitigação da taxatividade e consolida a perda de utilidade do julgamento imediato da matéria incidental.
+4. Recurso especial não conhecido, por prejudicado.
+(REsp n. 1.943.984/MT, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 24/11/2025, DJEN de 27/11/2025.)  grifou-se
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE COBRANÇA DE DIVIDENDOS SOCIAIS - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA AUTORA.
+1. Consoante a jurisprudência deste STJ, a legislação processual (art. 557 do CPC/73, equivalente ao art. 932 do CPC/15, c/c a Súmula 568 do STJ) permite ao relator julgar monocraticamente recurso inadmissível ou, ainda, aplicar a jurisprudência consolidada deste Tribunal. Ademais, a possibilidade de interposição de recurso ao órgão colegiado afasta qualquer alegação de ofensa ao princípio da colegialidade. Precedentes.
+2. É entendimento assente no STJ que, proferida sentença no processo principal, perde o objeto o recurso de agravo de instrumento interposto contra decisão interlocutória. Precedentes.
+3. Quanto à concessão do benefício da justiça gratuita, a declaração da agravante de que não dispõe de rendimento suficiente que permita arcar com as custas do processo, fls. 271 (e-STJ), acompanhada de cópia de sua declaração de imposto de renda, não é incompatível, nem infirmada pela prova constante dos autos.
+4. O fato de o litigante ter feito uso de recurso previsto em lei não autoriza a imposição de pena por litigância de má-fé, que somente deve ser reconhecida após a demonstração do dolo da parte.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 1.163.228/MG, relator Ministro Marco Buzzi, Quarta Turma, julgado em 2/10/2018, DJe de 23/10/2018.)  grifou-se
+De rigor, portanto, o acolhimento dos embargos, com efeitos infringentes, para reconhecer a perda de objeto do presente recurso, julgando extinto o procedimento recursal, de forma que a matéria será resolvida no âmbito do REsp 2.153.200/RS.
+Ficam prejudicadas as demais matérias ventiladas nas contrarrazões de recurso especial.
+2. Ante o exposto, acolho os embargos de declaração, com efeitos infringentes, para reconhecer a perda de objeto do presente recurso.
+Publique-se.
+Intimem-se.
+EMENTA
