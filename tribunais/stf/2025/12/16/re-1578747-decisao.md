@@ -1,0 +1,113 @@
+DECISÃO
+
+    Trata-se de Recurso Extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado (Doc. 319, fl. 1):
+
+    “EMENTA: REEXAME NECESSÁRIO – APELAÇÃO - DIREITO À SAÚDE - FORNECIMENTO DE TRATAMENTO MÉDICO – HOME CARE – RESPONSABILIDADE SOLIDÁRIA DOS ENTES FEDERADOS – RESERVA DO POSSÍVEL – ÔNUS DE PROVA - BLOQUEIO DE VERBA PÚBLICA – POSSIBILIDADE - HONORÁRIOS ADVOCATÍCIOS – APRECIAÇÃO EQUITATIVA.
+
+    1 - Segundo posicionamento firmado pelo Supremo Tribunal Federal, em sede de repercussão geral, os entes da federação, em decorrência da competência comum, são solidariamente responsáveis nas demandas prestacionais na área da saúde, e diante dos critérios constitucionais de descentralização e hierarquização, compete à autoridade judicial direcionar o cumprimento conforme as regras de repartição de competências e determinar o ressarcimento a quem suportou o ônus financeiro.
+
+    2 - Comprovada a necessidade de determinado tratamento médico (home care) é dever do ente público o seu fornecimento, importando a negativa em ofensa ao direito à saúde garantido constitucionalmente.
+
+    3 – A tese defensiva da reserva do possível impõe o ônus de prova a quem a alega quanto aos seus elementos.
+
+    4 - É pacífico o entendimento do Superior Tribunal de Justiça de que cabe sequestro ou bloqueio de verba pública indispensável à aquisição de medicamentos/realização de procedimento médico.
+
+    5 – Nos termos do posicionamento do STJ, nas ações em que se busca o fornecimento de tratamento médico de forma contínua pelo Estado, os honorários de sucumbência devem ser arbitrados por apreciação equitativa.”
+
+    Na origem, determinou-se o retorno dos autos ao órgão julgador (Doc. 325), ocasião em que foi mantido o acórdão recorrido nos termos da seguinte ementa (Doc. 330, fl. 1);
+
+    “EMENTA: JUÍZO DE RETRATAÇÃO – ARTIGO 1.030, II, DO CPC – RESPONSABILIDADE SOLIDÁRIA - TEMA 793, STF – TRATAMENTO HOME CARE.
+
+    O tema 793, STF fixou a seguinte tese: Os entes da federação, em decorrência da competência comum, são solidariamente responsáveis nas demandas prestacionais na área da saúde, e diante dos critérios constitucionais de descentralização e hierarquização, compete à autoridade judicial direcionar o cumprimento conforme as regras de repartição de competências e determinar o ressarcimento a quem suportou o ônus financeiro.
+
+    Não há se falar em juízo de retratação quando o acórdão não diverge do entendimento assentado em julgamento submetido à sistemática da repercussão geral, reconhecendo a competência comum entre estado e município para fornecer o tratamento home care e impõe o devido ressarcimento administrativo à quem suportou o ônus financeiro.”
+
+    No Recurso Extraordinário (Doc. 336), com fundamento no art. 102, III, “a”, da Constituição Federal, o ESTADO DE MINAS GERAIS aponta violação ao art. 196 da CF/1988 e à tese fixada no julgamento do Tema 793-RG.
+
+    Alega, em síntese, que o custeio de tratamento domiciliar (home care) no âmbito do SUS compete ao Município, razão pela qual pretende seja afastada a responsabilidade do ente estadual.
+
+    Em seguida, o Tribunal de origem admitiu o RE (Doc. 349).
+
+    É o relatório. Decido.
+
+    Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral que demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+
+    A obrigação do recorrente de apresentar, formal e motivadamente, a repercussão geral que demonstre, sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional, legal e regimental (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do Código de Processo Civil de 2015 e art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal), não se confunde com meras invocações, desacompanhadas de sólidos fundamentos e de demonstração dos requisitos no caso concreto, de que (a) o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico; (b) a matéria não interessa única e simplesmente às partes envolvidas na lide; ou, ainda, de que (c) a jurisprudência do SUPREMO TRIBUNAL FEDERAL é incontroversa no tocante à causa debatida, entre outras alegações de igual patamar argumentativo (ARE 691.595-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/2/2013; ARE 696.347-AgR-segundo, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14/2/2013; ARE 696.263-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; AI 717.821-AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 13/8/2012).
+
+    Eis os fundamentos da parte para sustentar a repercussão geral da matéria (Doc. 336, fls. 3-4):
+
+    “DA REPERCUSSÃO GERAL
+
+    Atento ao que prescreve a lei processual civil, o recorrente sublinha, em sede preliminar, a repercussão geral dos temas veiculados neste recurso.
+
+    Debate-se, aqui, a necessidade de se cumprir o decidido em caráter vinculante no RExt. 855.178/SE, que obriga o direcionamento da obrigação ao ente responsável conforme as regras de repartição de competências, in casu, o Município, nos processos em que se pleiteia assistência domiciliar (Home Care) de competência do ente municipal.
+
+    De outro lado, a questão envolve outra perspectiva, qual seja, a repercussão do provimento judicial que obriga o ente estadual a atuar fora das suas atribuições, compromete o gasto público com essa área, na medida em que obriga o Estado a disponibilizar ou remanejar recursos para atender a tais determinações judiciais específicas, o que implica na supressão de outros que seriam destinados ao atendimento de demandas previamente definidas.
+
+    O recorrente insurge-se contra a interpretação literal e inconsequente, data venia, emprestada ao art. 196 da Carta Política, o qual, ao contrário do entendimento firmado no r. aresto, não significa que o Estado deva sempre e de forma incondicionada, sem a necessária observância das regras de funcionamento das políticas públicas instituídas por meio de atos normativos infralegais.
+
+    Trata-se de tema que, por sua relevância e recorrência, merece ser apreciado e composto pelo Pretório Excelso, sobretudo porque diz respeito à extensão e alcance de permissivos constitucionais que, por sua natureza e abrangência, exorbitam a esfera de interesses e direitos das partes para atingirem toda a coletividade e cuja interpretação é necessário uniformizar.
+
+    Em desfecho, dada a relevância dos temas postos neste apelo extremo, infere-se que as questões recursais estão entranhadas de repercussão geral, aptas, portanto, a viabilizar o trânsito deste recurso.”
+
+    Não havendo demonstração fundamentada da presença de repercussão geral, incabível o seguimento do Recurso Extraordinário.
+
+    Além disso, no julgamento do RE 855.178-RG (Tema 793), o SUPREMO TRIBUNAL FEDERAL reafirmou sua jurisprudência no sentido da existência de responsabilidade solidária dos entes federados no dever de prestar assistência à saúde. Confira-se a ementa do julgado:
+
+    “RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL E ADMINISTRATIVO. DIREITO À SAÚDE. TRATAMENTO MÉDICO. RESPONSABILIDADE SOLIDÁRIA DOS ENTES FEDERADOS. REPERCUSSÃO GERAL RECONHECIDA. REAFIRMAÇÃO DE JURISPRUDÊNCIA. O tratamento médico adequado aos necessitados se insere no rol dos deveres do Estado, porquanto responsabilidade solidária dos entes federados. O polo passivo pode ser composto por qualquer um deles, isoladamente, ou conjuntamente.”.
+
+    Posteriormente, ao rejeitar os Embargos de Declaração opostos em face do acórdão acima citado, esta CORTE fixou a seguinte tese:
+
+    “Os entes da federação, em decorrência da competência comum, são solidariamente responsáveis nas demandas prestacionais na área da saúde, e diante dos critérios constitucionais de descentralização e hierarquização, compete à autoridade judicial direcionar o cumprimento conforme as regras de repartição de competências e determinar o ressarcimento a quem suportou o ônus financeiro.”.
+
+    Verifica-se, portanto, que, embora reconheça a existência de solidariedade entre os entes federados nas questões envolvendo a saúde pública, o STF decidiu, na tese fixada nos referidos embargos, que a autoridade judicial tem o dever de direcionar o cumprimento dessas demandas, conforme as regras de repartição de competências estabelecidas pela lei orgânica do SUS, bem como determinar ressarcimento a quem suportou o ônus financeiro.
+
+    No caso concreto, o Tribunal de origem entendeu pela existência de responsabilidade do ente estadual para o fornecimento de tratamento de saúde domiciliar (HOME CARE).
+
+    Para rever as premissas do acórdão recorrido, seria necessária a análise da legislação infraconstitucional relacionada às responsabilidades atribuídas a cada ente federativo, tornando meramente reflexa ou indireta a suposta violação constitucional.
+
+    Mesmo que fosse possível superar todos esses graves óbices, a argumentação recursal traz versão dos fatos diversa da exposta no acórdão recorrido, de modo que o acolhimento do recurso passa necessariamente pela revisão das provas. Incide, portanto, o óbice da Súmula 279 desta CORTE: Para simples reexame de prova não cabe recurso extraordinário.
+
+    Assim decidi em casos semelhantes, também relacionados ao fornecimento de tratamento domiciliar (HOME CARE), dentre os quais cito as seguintes decisões monocráticas de minha relatoria: RE 1.576.071, Dj 31/10/2025; RE 1.571.272, Dj 22/10/2025; e ARE 1.566.292, Dj 10/9/2025.
+
+    Cito, ainda, recente precedente da Primeira Turma do SUPREMO TRIBUNAL FEDERAL no julgamento do RE 1548117 AgR, de minha relatoria (DJe de 21/8/2025):
+
+    “EMENTA: AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO A RESPEITO DA REPERCUSSÃO GERAL. INSUFICIÊNCIA. TEMA 1234. INAPLICABILIDADE A PEDIDO DE HOME CARE. TEMA 793. DIRECIONAMENTO PELO TRIBUNAL DE ORIGEM À JUSTIÇA COMUM. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INADMISSIBILIDADE. SÚMULA 279/STF. AGRAVO INTERNO DESPROVIDO.
+
+    1. Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral, que demonstre, perante o Supremo Tribunal Federal, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+
+    2. A obrigação do recorrente em apresentar formal e motivadamente a preliminar de repercussão geral, que demonstre sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional, legal e regimental (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do CPC/2015), não se confunde com meras invocações desacompanhadas de sólidos fundamentos no sentido de que o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico, ou que não interessa única e simplesmente às partes envolvidas na lide, muito menos ainda divagações de que a jurisprudência do Supremo Tribunal Federal é incontroversa no tocante à causa debatida, entre outras de igual patamar argumentativo.
+
+    3. O Tema 1234 da repercussão geral não se aplica às hipóteses de tratamento médico-hospitalar, tal como o requerido no presente processo, que trata de Home Care.
+
+    4. À luz do decidido no Tema 793 da repercussão geral, o Tribunal de origem manteve a competência da Justiça Comum para processamento do processo, assentando (a) ser atribuição dos municípios e responsabilidade conjunta dos Estados, para a prestação do serviço de atenção domiciliar – SAD, consoante os arts. 25 e 39 da Portaria nº 825/2016, do Ministério da Saúde; e (b) ressarcimento do ente público cumpridor da obrigação deve ocorrer mediante compensação, conforme os arts. 19-Q e 35, VII, da Lei Federal nº 8.080/90.
+
+    5. Para reverter o entendimento formulado no juízo de origem, seria necessária a revisão das provas dos autos, o que atrai a incidência, ao caso, da Súmula 279 desta CORTE: Para simples reexame de prova não cabe recurso extraordinário. 6. Agravo interno a que se nega provimento.” (RE 1548117 AgR, Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 21/8/2025)
+
+    No mesmo sentido, confira-se o seguinte precedente da Segunda Turma desta CORTE:
+
+    “EMENTA Agravo regimental em recurso extraordinário com agravo. Direito à saúde. Atendimento domiciliar multiprofissional. Homecare. Custeio. Legitimidade passiva. Tema nº 1.234 da Sistemática da Repercussão Geral. Legislação infraconstitucional. Ofensa reflexa. Conjunto probatório. Reexame. Impossibilidade. Súmula nº 279/STF. Precedentes.
+
+    1. O Plenário do Supremo Tribunal Federal, no julgamento do RE nº 1.366.243/SC, feito paradigma do Tema nº 1.234 da Repercussão Geral, decidiu, expressamente, “que está excluída a presente matéria do tema 793 desta Corte”, bem como que, “[n]o que diz respeito aos produtos de interesse para saúde que não sejam caracterizados como medicamentos, tais como órteses, próteses e equipamentos médicos, bem como aos procedimentos terapêuticos, em regime domiciliar, ambulatorial e hospitalar, esclareceu que não foram debatidos na Comissão Especial e, portanto, não são contemplados neste tema 1.234” (grifo nosso).
+
+    2. São inadmissíveis, em recurso extraordinário, a análise da legislação infraconstitucional e o reexame dos fatos e das provas dos autos. Incidência da Súmula nº 279 da Suprema Corte.
+
+    3. Agravo regimental não provido.
+
+    4. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.” (ARE 1550492 AgR, Relator(a): Min. DIAS TOFFOLI, Segunda Turma, DJe de 28/8/2025)
+
+    Destaco, ainda, as seguintes decisões monocráticas versando sobre o fornecimento de tratamento domiciliar (HOME CARE), em que se mantém a responsabilidade e a legitimidade passiva do ente estadual: RE 1.563.914, Rel. Min. ANDRÉ MENDONÇA, DJe de 28/8/2025; ARE 1.553.340, Rel. Min. LUIZ FUX, DJe de 5/6/2025; ARE 1.540.148, Rel. Min. CÁRMEN LÚCIA, DJe de 15/4/2025; e ARE 1.540.145, Rel. Min. DIAS TOFFOLI, DJe de 25/3/2025.
+
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO RECURSO EXTRAORDINÁRIO.
+
+    Fixam-se honorários advocatícios adicionais equivalentes a 10% (dez por cento) do valor a esse título arbitrado nas instâncias ordinárias (Código de Processo Civil de 2015, art. 85, § 11).
+
+    Publique-se.
+
+    Brasília, 16 de dezembro de 2025.
+
+Ministro ALEXANDRE DE MORAES
+
+Relator
+
+Documento assinado digitalmente
