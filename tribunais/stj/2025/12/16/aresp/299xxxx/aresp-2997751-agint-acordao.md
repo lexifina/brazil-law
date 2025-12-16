@@ -1,0 +1,83 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/12/2025 a 16/12/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Marco Buzzi, João Otávio de Noronha, Raul Araújo e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. FUNDAMENTO DA DECISÃO AGRAVADA. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 182/STJ. AGRAVO NÃO CONHECIDO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão da Presidência do STJ que não conheceu do agravo nos próprios autos por ausência de impugnação aos fundamentos da decisão de inadmissibilidade.
+II. Questão em discussão
+2. Consiste em verificar se a parte agravante impugnou especificamente os fundamentos da decisão agravada, conforme exigido pelo art. 1.021, § 1º, do CPC/2015.
+III. Razões de decidir
+3. A ausência de impugnação específica dos fundamentos da decisão monocrática atrai a Súmula n. 182/STJ.
+IV. Dispositivo e tese
+4. Agravo interno não conhecido.
+Tese de julgamento: "1. A ausência de impugnação específica dos fundamentos da decisão agravada impede o conhecimento do agravo interno".
+RELATÓRIO
+Trata-se de agravo interno (fls. 502-506) interposto contra decisão da Presidência desta Corte Superior que não conheceu do agravo nos próprios autos, sob o fundamento de incidência, por analogia, da Súmula n. 182/STJ (fls. 497-498).
+Em suas razões, a parte agravante alega que, no agravo em recurso especial, teria rechaçado a aplicação da Súmula n. 7/STJ.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+Foi apresentada impugnação, requerendo a condenação da agravante ao pagamento da multa prevista no art. 1.021, § 4º, do CPC/2015, assim como o arbitramento de honorários recursais (fls. 511-526).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. FUNDAMENTO DA DECISÃO AGRAVADA. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 182/STJ. AGRAVO NÃO CONHECIDO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão da Presidência do STJ que não conheceu do agravo nos próprios autos por ausência de impugnação aos fundamentos da decisão de inadmissibilidade.
+II. Questão em discussão
+2. Consiste em verificar se a parte agravante impugnou especificamente os fundamentos da decisão agravada, conforme exigido pelo art. 1.021, § 1º, do CPC/2015.
+III. Razões de decidir
+3. A ausência de impugnação específica dos fundamentos da decisão monocrática atrai a Súmula n. 182/STJ.
+IV. Dispositivo e tese
+4. Agravo interno não conhecido.
+Tese de julgamento: "1. A ausência de impugnação específica dos fundamentos da decisão agravada impede o conhecimento do agravo interno".
+VOTO
+A insurgência não merece ser conhecida.
+O agravo em recurso especial foi decidido nos seguintes termos (fls. 497-498):
+Cuida-se de Agravo em Recurso Especial apresentado por HAPVIDA ASSISTENCIA MEDICA S.A. à decisão que inadmitiu Recurso Especial interposto com fundamento no art. 105, III, da Constituição Federal.
+É o relatório. (grifos originais)
+Decido.
+Por meio da análise dos autos, verifica-se que a decisão agravada inadmitiu o Recurso Especial, considerando: Súmula 7/STJ, ausência de afronta ao art. 1.022 do CPC e Súmula 5/STJ.
+Entretanto, a parte agravante deixou de impugnar especificamente os referidos fundamentos.
+Nos termos do art. 932, III, do CPC e do art. 253, parágrafo único, I, do Regimento Interno desta Corte, não se conhecerá do Agravo em Recurso Especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do Recurso Especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, inadmitiu o Recurso Especial. A propósito:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp 746.775/PR, Rel. Ministro João Otávio de Noronha, Rel. p/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe de 30.11.2018.)
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182/STJ.
+Ante o exposto, com base no art. 21-E, V, c/c o art. 253, parágrafo único, I, ambos do Regimento Interno do Superior Tribunal de Justiça, não conheço do Agravo em Recurso Especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
+É inviável o agravo previsto no art. 1.021 do CPC/2015 que deixa de atacar especificamente os fundamentos da decisão agravada (Súmula n. 182/STJ).
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO. DECISÃO EM AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. TUTELA ANTECIPADA. APELAÇÃO. EFEITOS. RECEBIMENTO. HARMONIA DE ENTENDIMENTO. SÚMULA 83 DO STJ. APLICAÇÃO. FALTA DE IMPUGNAÇÃO AO ÚNICO FUNDAMENTO DA DECISÃO AGRAVADA. ARTIGOS 932, III, e 1.021, § 1º, DO CPC DE 2015. SÚMULA 182 DO STJ.
+ ..
+2. Nos termos do art. 932, inciso III, e 1.021, § 1º, do Código de Processo Civil/2015, não se conhece de agravo cujas razões não impugnam especificamente o único fundamento da decisão agravada. Aplicação, por analogia, do enunciado 182 da Súmula do STJ.
+3. Em atenção ao princípio da dialeticidade, cumpre à parte recorrente o ônus de evidenciar, nas razões do agravo do recurso, o desacerto da decisão recorrida.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.152.930/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 2/10/2018, DJe 16/10/2018.)
+A decisão agravada não conheceu do agravo nos próprios autos por inépcia da petição (Súmula n. 182/STJ), por falta de impugnação específica dos fundamentos da decisão de admissibilidade relativos à: (i) ausência de negativa de prestação jurisdicional (desrespeito ao art. 1.022 do NCPC) e (ii) aplicação das Súmulas n. 5 e 7 do STJ.
+No agravo interno, a parte não se manifestou especificamente sobre a referida inépcia advinda da falta de impugnação, no agravo do art. 1.042 do CPC/2015, dos fundamentos de ausência de negativa de prestação jurisdicional e de incidência da Súmula n. 5/STJ.
+Caso de aplicação da Súmula n. 182 do STJ.
+Conforme a jurisprudência deste Tribunal Superior, a multa do art. 1.021, § 4º, do CPC/2015 incide apenas na hipótese de o órgão colegiado considerar o recurso manifestamente inadmissível ou improcedente.
+Sobre o tema:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO CONHECIDO APENAS NO CAPÍTULO IMPUGNADO DA DECISÃO AGRAVADA. ART. 1.021, § 1º, DO CPC/2015. EMBARGOS DE DIVERGÊNCIA APRECIADOS À LUZ DO CPC/73. ACÓRDÃO EMBARGADO QUE NÃO CONHECEU DO RECURSO ESPECIAL. APLICAÇÃO DA SÚMULA 7/STJ. PARADIGMAS QUE EXAMINARAM O MÉRITO DA DEMANDA. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. REQUERIMENTO DA PARTE AGRAVADA DE APLICAÇÃO DA MULTA PREVISTA NO § 4º DO ART. 1.021 DO CPC/2015. AGRAVO INTERNO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, IMPROVIDO.
+ ..
+3. A aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, não se tratando de mera decorrência lógica do não provimento do agravo interno em votação unânime. A condenação do agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não ocorreu na hipótese examinada.
+4. Agravo interno parcialmente conhecido e, nessa extensão, improvido.
+(AgInt nos EREsp 1.120.356/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 24/8/2016, DJe 29/8/2016.)
+A ora agravante apenas exerceu seu direito de petição, visando à reforma de uma decisão desfavorável a seus interesses, não se evidenciando conduta maliciosa ou temerária a ensejar a aplicação da mencionada sanção processual.
+Conforme o entendimento desta Corte Superior, "o agravo Interno é recurso que apenas prorroga, no mesmo grau de jurisdição, a discussão travada no recurso especial, o caso concreto não comporta a aplicação do art. 85, § 11, do CPC/2015" (EDcl no AgInt no AREsp n. 2.161.136/MG, relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 26/6/2023, DJe de 28/6/2023).
+Do mesmo modo:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE DA RELAÇÃO CONTRATUAL C/C REPETIÇÃO DO INDÉBITO E INDENIZAÇÃO POR DANOS MORAIS. CONTRATO DE EMPRÉSTIMO CONSIGNADO. PROVA DA CONTRATAÇÃO. REALIZAÇÃO DE PERÍCIA. DESNECESSIDADE. CERCEAMENTO DE DEFESA. REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA. MAJORAÇÃO DOS HONORÁRIOS RECURSAIS PELO DESPROVIMENTO DO AGRAVO INTERNO. MESMO GRAU DE JURISDIÇÃO. IMPOSSIBILIDADE. AGRAVO INTERNO DESPROVIDO.
+ ..
+3. A interposição de agravo interno não inaugura instância, razão pela qual é indevida a majoração de honorários advocatícios do art. 85, § 11, do CPC.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.311.636/CE, relator Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, julgado em 19/6/2023, DJe de 21/6/2023.)
+Fixados honorários recursais após o não conhecimento do agravo em recurso especial da parte agravante, descabe cogitar de nova incidência do referido encargo no agravo interno, ante a inexistência de nova instância recursal.
+Diante do exposto, NÃO CONHEÇO do agravo interno.
+É como voto.
