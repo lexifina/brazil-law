@@ -1,0 +1,29 @@
+DECISÃO
+LUCIMAR ALFREDO GERSTNER interpõe recurso especial, fundado no art. 105, III, "a", da CF, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul.
+O recorrente, condenado pelo Tribunal a quo por incursão nos arts. 17 da Lei n. 10.826/2003, aponta a violação dos artigos: a) 231 do CPP, pois a defesa não foi intimada da juntada de documentos durante a instrução criminal; b) art. 386, VII, do CPP, diante da condenação baseada em dúvida, em desacordo com o princípio in dubio pro reo; c) 59 do CP, porquanto a instância ordinária considerou algo inerente ao crime para a valoração negativa da culpabilidade.
+Requer sua absolvição, a nulidade da condenação ou a redução da pena.
+O Ministério Público Federal opinou pelo não provimento do recurso especial.
+Decido.
+Na origem, o réu foi condenado (art. 17 da Lei 10.826/2003) pelo Tribunal de Justiça por manter em depósito, no exercício de atividade profissional, munições de arma de fogo em desacordo com a determinação legal.
+I. Art. 231 do CPP
+O recorrente sustenta a nulidade por ausência de intimação da defesa acerca da juntada de documentos provenientes de ofício deferido à CBC - Companhia Brasileira de Cartuchos.
+O dispositivo federal estabelece: "salvo os casos expressos em lei, as partes poderão apresentar documentos em qualquer fase do processo".
+De fato, houve pedido de juntada de documento pela defesa, deferido pelo Juízo, para que a Companhia Brasileira de Cartuchos fornecesse as notas fiscais e as autorizações de compra das munições por parte do Exército, a fim de se "demonstrar que o Exército tinha pleno conhecimento sobre as aquisições e que, portanto, não poderia haver excesso de munição"(fl. 1.392).
+Todavia, o acórdão recorrido pontuou: "em atenção ao ofício remetido pelo Juízo, a Companhia Brasileira de Cartuchos (CBC) remeteu aos autos a documentação solicitada, a qual foi juntada às fls. 737/765". O advogado do réu "teve oportunidades de se manifestar nos autos após a juntada dos documentos de fls. 737/765 e inclusive de apresentar memoriais" (fl. 1.451)
+De fato, o advogado do recorrente não foi imediatamente intimado sobre a juntada da documentação, mas é certo que a defesa teve oportunidades posteriores de vista dos autos e de se manifestar sobre todo o conteúdo da prova antes da sentença.
+As notas solicitadas estão às fls. 810-838 e, depois disso, o advogado foi intimado para apresentar memoriais. O recorrente ofereceu alegações finais às fls. 1.072-1.078 e assinalou que sua empresa "estava devidamente regulamentada e autorizada a comercializar munições" e que "o Exército autorizou que  ..  adquirisse a munição que agora diz estar em excesso" (fl. 1.078).
+Assim, é incabível o reconhecimento de nulidade, pois não houve prejuízo concreto à ampla defesa. Repita-se: o advogado, antes da sentença, foi intimado e teve a oportunidade de se pronunciar sobre todos as provas e documentos que constava dos autos. Portanto, não se verifica a violação do art. 231 do CPP, em "quebra do contraditório, da ampla defesa e da igualidade de armas em relação ao Ministério Público" (fl. 1.489).
+II. Art. 386, VII, do CPP
+Estabelece o art. 386, VII, do CPP, que o réu deverá ser absolvido quando não existir prova suficiente para a condenação.
+No caso, consta do acórdão recorrido que "Leandro e Lucimar, respectivamente proprietário e funcionário/gerente da empresa Munisul", mantinham em depósito, no exercício da atividade comercial, "munição acima do limite determinado no documento de concessão à atividade controlada pelo órgão fiscalizador". O excesso foi constatado por " diversos testemunhos" (fl. 1.400) e ficou demonstrado em termo de vistoria "que a quantidade de munição encontrada no estoque da empresa" estava em "descordo com seus registros" (fl. 1.402).
+Não é possível, a partir da leitura do aresto, que destacou o descompasso (em desacordo com a determinação legal) entre o estoque físico e os mapas regulados pelo Exército, concluir que houve mero erro de organização ou que o agente não agiu com dolo. Incide, no ponto, a Súmula n. 7 do STJ.
+III. Art. 59 do CP
+Para a defesa, não há justificativa idôena para o aumento da pena-base.
+Tem razão, pois constou do acórdão, para justificar o aumento da pena-base, afirmou que "o réu exercia o comércio lícito destes artefatos, bem como declarou ser ele próprio quem fazia o controle de estoque" (fl. 1.403).
+O art. 17 da Lei n. 10.826/2003 prevê como crime ter em depósito ou expor à venda, no exercício de atividade comercial, arma de fogo, acessório ou munição, sem autorização ou em desacordo com determinação legal, ou regulamentar. Assim, exercer o fato de alguém exercer comércio lícito desses artefatos ou fazer o controle do estoque não explica a maior censurabilidade da conduta, não inerente ao tipo penal, a merecer maior reprovação. O Tribunal reconheceu a culpabilidade como elemento do crime, condição para sua caracterização.
+Portanto, a pena-base deve ser reduzida ao mínimo legal, de 4 anos de reclusão e 10 dias-multa.
+Ante a quantidade de pena e a inexistência de circunstâncias judiciais desfavoráveis, fixo o regime inicial aberto e substituo a pena privativa de liberdade por duas restritivas de direitos, a serem estabelecidas pelo Juiz das Execuções. Deixo de fixar pena substitutiva e multa, por considerar que essa escolha não seria adequada nem suficiente para prevenir a conduta do réu, à vista da quantidade de munições apreendidas.
+IV. Dispositivo
+À vista do exposto, conheço em parte do recurso especial e dou-lhe parcial provimento, a fim de reconhecer a violação do art. 59 do CP, reduzir para 4 anos de reclusão e 10 dias-multa a sanção aplicada a LUCIMAR ALFREDO GERSTNER, fixar o regime inicial aberto e substituir a pena privativa de liberdade por duas restritivas de direitos.
+Publique-se e intimem-se.
+EMENTA
