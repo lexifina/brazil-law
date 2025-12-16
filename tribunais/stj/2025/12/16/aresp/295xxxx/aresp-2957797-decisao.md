@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por RENALDO PEREIRA GONCALVES contra a decisão do Tribunal de Justiça do Estado de São Paulo que inadmitiu recurso especial apresentado contra o acórdão exarado no julgamento da Apelação Criminal n. 1500744-92.2019.8.26.0441 (fls. 518/534).
+A defesa alega que todos os requisitos legais e formais foram preenchidos, razão pela qual a decisão de inadmissão do recurso especial merece reforma.
+Argumenta que foram apontadas precisamente as violações de lei federal, sem necessidade de reexame de provas, com observância do art. 255 do RISTJ e do permissivo do art. 105, III, a e c, da Constituição Federal, mencionando a Lei n. 12.004/2009.
+Defende que o requisito do prequestionamento se encontra satisfeito e requer a dispensa de embargos de declaração prequestionadores, por economia processual.
+Sustenta que não requereu reexame de provas e que o recurso se pauta em discutir a divergência de julgados.
+O Ministério Público Federal apresentou parecer opinando pelo conhecimento do agravo para não conhecer ou desprover o recurso especial (fls. 671/673).
+É o relatório.
+O agravo é inadmissível.
+Inicialmente, esclareço que a decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos, inclusive de forma específica, suficiente e pormenorizada, não sendo suficientes meras alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência do óbice da Súmula n. 182/STJ (AgRg nos EDcl no AREsp n. 2.985.942/MA, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 16/9/2025, DJEN de 25/9/2025).
+Ao que se observa, o Tribunal de origem inadmitiu o apelo nobre pelos seguintes fundamentos: 1) deficiência de fundamentação - ausência de indicação precisa de norma federal violada quanto ao pleito de diminuição da pena aos patamares mínimos, com aplicação da Súmula 284/STF (fls. 621/622); 2) falta de ataque específico aos argumentos do acórdão recorrido - deficiência de fundamentação, também sob a Súmula 284/STF (fl. 622); e 3) impossibilidade de revolvimento fático-probatório - incidência da Súmula 7/STJ (fls. 622/623).
+Todavia, a parte agravante, nas razões do agravo em recurso especial, não impugnou, de maneira específica, a íntegra da decisão de inadmissão.
+Os fundamentos não impugnados são: 1) a deficiência de fundamentação - Súmula 284/STF - pois o agravo não demonstra, concretamente, onde o recurso especial indicou norma federal correlata ao pedido de diminuição da pena aos patamares mínimos nem como o acórdão teria violado tal preceito (fls. 621/622 e 635/636); 2) a ausência de ataque específico aos argumentos do aresto - Súmula 284/STF - porque o agravo não individualiza os pontos do acórdão recorrido que teriam sido enfrentados nas razões do especial, mantendo alegações genéricas de regularidade formal (fls. 622 e 634/636); e 3) a incidência da Súmula 7/STJ - já que o agravo apenas nega o reexame de provas, sem demonstrar a possibilidade de mera revaloração jurídica a partir das premissas fáticas fixadas no acórdão (fls. 622/623 e 636).
+Por conseguinte, aplica-se, à hipótese dos autos, o art. 932, inciso III, do Código de Processo Civil, c/c o art. 3º do Código de Processo Penal, e a Súmula 182/STJ por analogia.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. INADMISSIBILIDADE NA ORIGEM. DECISÃO INCINDÍVEL. NECESSIDADE DE IMPUGNAÇÃO INTEGRAL. ALEGAÇÕES GENÉRICAS. AUSÊNCIA DE ATAQUE ESPECÍFICO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA DAS SÚMULAS 284/STF, 182/STJ E 7/STJ. ÓBICE AO REVOLVIMENTO FÁTICO-PROBATÓRIO.
+Agravo em recurso especial não conhecido.
