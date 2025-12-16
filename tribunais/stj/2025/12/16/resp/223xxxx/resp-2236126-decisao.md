@@ -1,0 +1,15 @@
+DECISÃO
+Vistos.
+Verifico que a controvérsia objeto do presente recurso guarda relação com o Tema Repetitivo n. 1.301 desta Corte - Possibilidade, ou não, de se excluir da cobertura securitária os danos decorrentes de vícios construtivos em imóveis financiados no âmbito do Sistema Financeiro de Habitação e vinculados ao FCVS. -, consoante acórdão assim ementado:
+ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO ESPECIAL. SISTEMA FINANCEIRO DE HABITAÇÃO -SFH. FCVS. COBERTURA SECURITÁRIA. DANOS NO IMÓVEL. VÍCIOS CONSTRUTIVOS. MULTIPLICIDADE DE DEMANDAS EM QUE SE DISCUTE A MESMA QUESTÃO JURÍDICA CONTROVERTIDA. PROPOSTA DE AFETAÇÃO DE TEMA REPETITIVO. SUSPENSÃO DOS RECURSOS QUE TRATAM DA MATÉRIA AFETADA.
+1. A multiplicidade de recursos especiais, em que se discute a existência de cobertura securitária para os danos decorrentes de defeitos na construção dos imóveis financiados pelo SFH e vinculados ao FCVS, recomenda a afetação da controvérsia para julgamento sob a sistemática dos recursos repetitivos, nos termos dos arts. 1.036 a 1.041 do CPC.
+2. Delimitação da questão controvertida: "Possibilidade, ou não, de se excluir da cobertura securitária os danos decorrentes de vícios construtivos em imóveis financiados no âmbito do Sistema Financeiro de Habitação e vinculados ao FCVS".
+3. Determinação de suspensão do processamento dos recursos especiais e agravos em recursos especiais interpostos perante os tribunais de segunda instância ou em tramitação no STJ.
+4. Afetação do recurso especial como representativo da controvérsia jurídica repetitiva para julgamento pela Primeira Seção deste Superior Tribunal de Justiça.
+(ProAfR no REsp n. 2.179.119/PR, relator Ministro Sérgio Kukina, Primeira Seção, julgado em 10/12/2024, DJEN de 16/12/2024.)
+Há determinação de suspensão da tramitação dos recursos especiais e agravos em recursos especiais interpostos nos tribunais de segunda instância ou em tramitação no STJ que versem sobre a questão aqui delimitada.
+Assim, não houve a manifestação do Tribunal de origem a teor do determinado nos arts. 1.039 e 1.040 do Código de Processo Civil, portanto, somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado para esta Corte Superior, para que aqui possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pro nunciamento da Corte a qua.
+Posto isso, DETERMINO a devolução dos autos ao tribunal de origem, a fim de que a Corte de origem, após o julgamento da questão, proceda ao juízo de conformidade.
+Prejudicado o exame do recurso especial.
+Publique-se e intimem-se.
+EMENTA
