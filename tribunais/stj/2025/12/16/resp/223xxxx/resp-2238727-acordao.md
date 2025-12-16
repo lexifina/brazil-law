@@ -1,0 +1,89 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/12/2025 a 16/12/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. INDEFERIMENTO DA INICIAL POR EXIGÊNCIA DE PROCURAÇÃO COM FIRMA RECONHECIDA E LITIGÂNCIA DE MÁ-FÉ EM AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO. POSSIBILIDADE DE EXIGÊNCIA DE DOCUMENTOS E ÓBICES AO REEXAME FÁTICO-PROBATÓRIO. RECURSO ESPECIAL NÃO CONHECIDO.
+I. CASO EM EXAME
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo que manteve o indeferimento da inicial e a extinção sem julgamento do mérito, com multa por litigância de má-fé.
+2. A controvérsia diz respeito a ação declaratória de inexigibilidade de débito c/c obrigações de fazer e reparação de danos materiais e morais, com pedidos de exibição de contrato e metadados, inversão do ônus da prova, repetição do indébito em dobro e danos morais. O valor da causa foi fixado em R$ 16.552,00.
+3. Na sentença, o Juízo de primeiro grau indeferiu a petição inicial, extinguiu o processo sem resolução do mérito, reconheceu indícios de litigância predatória e aplicou multa de 5% do valor da causa, concedendo a gratuidade e afastando honorários pela ausência de citação.
+4. A Corte de origem manteve integralmente a sentença, reputando válida a exigência de procuração com firma reconhecida diante de indícios de litigância predatória e preservando a mult a por litigância de má-fé.
+II. QUESTÃO EM DISCUSSÃO
+5. Há cinco questões em discussão: (i) saber se a exigência de reconhecimento de firma na procuração cria barreira indevida ao acesso à justiça (art. 3 do CPC); (ii) saber se a condenação por litigância de má-fé pode subsistir sem dolo, culpa ou prejuízo processual (art. 80 do CPC); (iii) saber se a petição inicial preenchia os requisitos legais, sendo descabida a ordem de emenda para juntar procuração com firma reconhecida (art. 319 do CPC); (iv) saber se as cópias declaradas autênticas pelo advogado fazem a mesma prova que os originais, tornando desnecessário o reconhecimento de firma (art. 425 do CPC); e (v) saber se houve afronta ao contraditório e à ampla defesa (art. 5, LV, da CF).
+III. RAZÕES DE DECIDIR
+6. Não cabe, em recurso especial, a apreciação de violação ao art. 5, LV, da CF, sob pena de usurpação da competência do STF (art. 102, III, da CF).
+7. Em hipóteses de indícios de litigância abusiva, é legítima a exigência de documentos para confirmar a outorga de poderes; o acórdão recorrido está em consonância com a orientação do STJ, incidindo a Súmula n. 83 do STJ.
+8. A revisão da adequação da exigência de procuração com firma reconhecida e o afastamento da multa por litigância de má-fé demandariam reexame do conjunto fático-probatório, providência vedada pelo óbice da Súmula n. 7 do STJ.
+IV. DISPOSITIVO E TESE
+9. Recurso especial não conhecido.
+Tese de julgamento: "1. Incide a Súmula n. 83 do STJ quanto à legitimidade da exigência de documentos para confirmar a outorga de poderes em contexto de indícios de litigância predatória. 2. Incide a Súmula n. 7 do STJ para obstar o reexame do conjunto fático-probatório, tanto sobre a exigência de firma reconhecida quanto sobre a multa por litigância de má-fé. 3. Não se admite, em recurso especial, a análise de matéria constitucional, por força do art. 102, III, da CF."
+Dispositivos relevantes citados: CPC, arts. 3, 80, 319, 425, 85 § 11; CF, art. 102, III.
+Jurisprudência relevante citada: STJ, Súmulas n. 83, 7; STJ, REsp n. 2.202.566/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 25/8/2025; STJ, AgInt no AREsp n. 1.964.652/MS, relator Ministro Raul Araújo, Quarta Turma, julgado em 14/3/2022; STJ, AgInt no AREsp n. 1.723.745/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 29/3/2021.
+RELATÓRIO
+Trata-se de recurso especial interposto por SEBASTIÃO CUSTÓDIO DE OLIVEIRA com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo em apelação nos autos de ação declaratória de inexigibilidade de débito c/c pedido de indenização por danos morais.
+O julgado foi assim ementado (fl. 217):
+INDEFERIMENTO DA INICIAL E EXTINÇÃO SEM JULGAMENTO DO MÉRITO - Ação declaratória c.c. pedido de indenização por danos morais - Determinação para juntada aos autos de procuração específica, com firma reconhecida não atendida - Sentença que julgou extinto o feito, sem julgamento do mérito - Inconformismo - Não acolhimento - Demanda analisada a partir do Comunicado CG 02/2017 oriundo do NUMOPEDE e também do Comunicado CG 424/2024 - Inércia no cumprimento da determinação que não foi atacada por recurso de agravo de instrumento - Excepcionalidade da medida justificada -Incidência do disposto nos Enunciados nºs 04 e 05 do Comunicado CG 424/2024 -Indeferimento da inicial que era de rigor - Desatendimento que implica na incidência do disposto no parágrafo único do art. 321 do CPC - Conduta que configura a hipótese prevista pelo art. 485, I, do CPC - Sentença de extinção do processo corretamente decretada - Indícios de litigância predatória que justifica a aplicação das penalidades relativas à litigância de má-fé, a teor do que dispõe o Enunciado nº 12 do citado - Comunicado - Apelo desprovido.
+Não foram opostos embargos de declaração.
+No recurso especial, a parte aponta violação dos seguintes artigos:
+a) 3º do Código de Processo Civil, pois a exigência de reconhecimento de firma em procuração teria imposto barreira indevida ao acesso à justiça, tornando dificultoso o exercício do direito de ação;
+b) 80 do Código de Processo Civil, porque a condenação por litigância de má-fé foi aplicada sem dolo, culpa ou demonstração de prejuízo processual à parte adversa;
+c) 319 do Código de Processo Civil, porquanto a petição inicial teria preenchido os requisitos legais, sendo descabida a ordem de emenda para juntar procuração com firma reconhecida;
+d) 425 do Código de Processo Civil, visto que as cópias declaradas autênticas pelo advogado fariam a mesma prova que os originais, tornando desnecessário o reconhecimento de firma;
+e) 5º, LV, da CF, pois teria havido afronta ao contraditório e à ampla defesa pela imposição de formalidades não previstas em lei.
+Requer o provimento do recurso para que se anule o acórdão recorrido e se reforme o julgamento, afastando o indeferimento da inicial e a multa por litigância de má-fé, determinando o regular processamento da ação.
+Contrarrazões apresentadas às fls. 242-246.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. INDEFERIMENTO DA INICIAL POR EXIGÊNCIA DE PROCURAÇÃO COM FIRMA RECONHECIDA E LITIGÂNCIA DE MÁ-FÉ EM AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO. POSSIBILIDADE DE EXIGÊNCIA DE DOCUMENTOS E ÓBICES AO REEXAME FÁTICO-PROBATÓRIO. RECURSO ESPECIAL NÃO CONHECIDO.
+I. CASO EM EXAME
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo que manteve o indeferimento da inicial e a extinção sem julgamento do mérito, com multa por litigância de má-fé.
+2. A controvérsia diz respeito a ação declaratória de inexigibilidade de débito c/c obrigações de fazer e reparação de danos materiais e morais, com pedidos de exibição de contrato e metadados, inversão do ônus da prova, repetição do indébito em dobro e danos morais. O valor da causa foi fixado em R$ 16.552,00.
+3. Na sentença, o Juízo de primeiro grau indeferiu a petição inicial, extinguiu o processo sem resolução do mérito, reconheceu indícios de litigância predatória e aplicou multa de 5% do valor da causa, concedendo a gratuidade e afastando honorários pela ausência de citação.
+4. A Corte de origem manteve integralmente a sentença, reputando válida a exigência de procuração com firma reconhecida diante de indícios de litigância predatória e preservando a mult a por litigância de má-fé.
+II. QUESTÃO EM DISCUSSÃO
+5. Há cinco questões em discussão: (i) saber se a exigência de reconhecimento de firma na procuração cria barreira indevida ao acesso à justiça (art. 3 do CPC); (ii) saber se a condenação por litigância de má-fé pode subsistir sem dolo, culpa ou prejuízo processual (art. 80 do CPC); (iii) saber se a petição inicial preenchia os requisitos legais, sendo descabida a ordem de emenda para juntar procuração com firma reconhecida (art. 319 do CPC); (iv) saber se as cópias declaradas autênticas pelo advogado fazem a mesma prova que os originais, tornando desnecessário o reconhecimento de firma (art. 425 do CPC); e (v) saber se houve afronta ao contraditório e à ampla defesa (art. 5, LV, da CF).
+III. RAZÕES DE DECIDIR
+6. Não cabe, em recurso especial, a apreciação de violação ao art. 5, LV, da CF, sob pena de usurpação da competência do STF (art. 102, III, da CF).
+7. Em hipóteses de indícios de litigância abusiva, é legítima a exigência de documentos para confirmar a outorga de poderes; o acórdão recorrido está em consonância com a orientação do STJ, incidindo a Súmula n. 83 do STJ.
+8. A revisão da adequação da exigência de procuração com firma reconhecida e o afastamento da multa por litigância de má-fé demandariam reexame do conjunto fático-probatório, providência vedada pelo óbice da Súmula n. 7 do STJ.
+IV. DISPOSITIVO E TESE
+9. Recurso especial não conhecido.
+Tese de julgamento: "1. Incide a Súmula n. 83 do STJ quanto à legitimidade da exigência de documentos para confirmar a outorga de poderes em contexto de indícios de litigância predatória. 2. Incide a Súmula n. 7 do STJ para obstar o reexame do conjunto fático-probatório, tanto sobre a exigência de firma reconhecida quanto sobre a multa por litigância de má-fé. 3. Não se admite, em recurso especial, a análise de matéria constitucional, por força do art. 102, III, da CF."
+Dispositivos relevantes citados: CPC, arts. 3, 80, 319, 425, 85 § 11; CF, art. 102, III.
+Jurisprudência relevante citada: STJ, Súmulas n. 83, 7; STJ, REsp n. 2.202.566/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 25/8/2025; STJ, AgInt no AREsp n. 1.964.652/MS, relator Ministro Raul Araújo, Quarta Turma, julgado em 14/3/2022; STJ, AgInt no AREsp n. 1.723.745/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 29/3/2021.
+VOTO
+Preliminarmente, quanto à alegada violação do art. 5º, LV, da Constituição Federal, ressalte-se que não é cabível, em recurso especial, a apreciação de norma constitucional, sob pena de usurpação de competência do STF nos termos do art. 102, III, da CF.
+A controvérsia diz respeito à ação declaratória de inexigibilidade de débito c/c obrigação de fazer e reparação de danos materiais e morais em que a parte autora pleiteou a declaração de inexistência e de inexigibilidade do Contrato Consignado n. 353855955-4, a exibição do contrato e de seus metadados, a inversão do ônus da prova e obrigações de fazer com base na Lei n. 13.709/2018, a repetição do indébito em dobro e a condenação por danos morais no valor de R$ 10.000,00. O valor da causa foi fixado em R$ 16.552,00.
+Na sentença, o Juízo de primeiro grau indeferiu a petição inicial e extinguiu o processo sem resolução do mérito, reconheceu indícios de litigância predatória e condenou a parte autora à multa de 5% do valor da causa por litigância de má-fé, concedendo a gratuidade e afastando os honorários por ausência de citação.
+A Corte estadual manteve integralmente a sentença, reputando válida a exigência de juntada de procuração específica com firma reconhecida diante de indícios de litigância predatória e preservando a multa por má-fé.
+I - Arts. 3º, 319 e 425 do CPC
+O recorrente afirma que a inicial preenchia os requisitos legais e que as cópias declaradas autênticas pelo advogado fazem a mesma prova que os originais, sendo prescindível o reconhecimento de firma, declarando ainda que essa exigência dificultou o acesso à justiça.
+O acórdão recorrido concluiu que, à luz de indícios de litigância predatória, era adequada a exigência de confirmação da outorga de poderes, inclusive mediante firma reconhecida, com base em orientações da corregedoria e do poder de direção do processo, bem como que o autor permaneceu inerte, ensejando o indeferimento da inicial.
+No caso em exame, entende-se que a atuação do magistrado, ao determinar a juntada de documentos ao processo, encontra amparo na legislação processual vigente, especialmente no que se refere à sua função de garantir a regularidade dos pressupostos processuais e de tutelar os interesses das partes. Tal conduta está em consonância com a jurisprudência consolidada desta Corte Superior, razão pela qual incide, na espécie, o enunciado da Súmula n. 83 do STJ.
+A propósito:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO. CARTÃO DE CRÉDITO COM RESERVA DE MARGEM CONSIGNÁVEL. LITIGÂNCIA PREDATÓRIA. EXIGÊNCIA DE DOCUMENTOS CAPAZES DE COMPROVAR A SERIEDADE DA DEMANDA E, ASSIM, COIBIR A FRAUDE PROCESSUAL. PRECEDENTES. SÚMULA N. 83 DO STJ. REANÁLISE. IMPERATIVO REEXAME DO ACERVO FÁTICO-PROBATÓRIO. ÓBICE DA SÚMULA N. 7 DO STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO ANTE A INCIDÊNCIA DO ÓBICE SUMULAR. RECURSO ESPECIAL NÃO PROVIDO.
+1. O Tema n. 1.198/STJ preceitua que constatados indícios de litigância abusiva, o juiz pode exigir, de modo fundamentado e com observância à razoabilidade da situação concreta apresentada, a emenda da petição inicial a fim de demonstrar o interesse de agir e a autenticidade da postulação, respeitadas as regras de distribuição do ônus da prova.
+2. Rever as conclusões no sentido de que diante da suspeita de litigância abusiva, necessário que o advogado apresente a procuração com firma reconhecida demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula n. 7 do STJ.
+3. Não é possível o conhecimento do recurso especial interposto pela divergência jurisprudencial na hipótese em que o dissídio é apoiado em fatos, e não na interpretação da lei.
+4. Recurso especial não provido. (REsp n. 2.202.566/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 25/8/2025, DJEN de 28/8/2025.)
+II - Art. 80 do CPC
+O recorrente afirma que não se configurou litigância de má-fé por ausência de dolo, culpa ou prejuízo processual.
+O Tribunal de origem, analisando o acervo dos autos, concluiu pela adequação da penalidade, destacando o descumprimento da ordem de emenda e os indícios de litigância predatória à luz das orientações da corregedoria e dos elementos constantes dos autos.
+Assim, para infirmar as conclusões do aresto impugnado e concluir pela não condenação por litigância de má-fé, seria imprescindível o reexame de provas, o que é inadmissível nesta instância extraordinária, em razão do disposto na Súmula n. 7 do STJ.
+A esse respeito, vejam-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO CUMULADA COM REPETIÇÃO DE INDÉBITO E INDENIZATÓRIA. MULTA POR LITIGÂNCIA DE MÁ-FÉ. AFASTAMENTO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA 7/STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Agravo interno contra decisão da Presidência que não conheceu do agravo em recurso especial, em razão da falta de impugnação específica de fundamento decisório. Reconsideração.
+2. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que "o simples fato de haver o litigante feito uso de recurso previsto em lei não significa litigância de má-fé" (AgRg no REsp 995.539/SE, Terceira Turma, Rel. Min. NANCY ANDRIGHI, DJe de 12/12/2008). "Isso, porque a má-fé não pode ser presumida, sendo necessária a comprovação do dolo da parte, ou seja, da intenção de obstrução do trâmite regular do processo, nos termos do art. 80 do Código de Processo Civil de 2015" (EDcl no AgInt no AREsp 844.507/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 08/10/2019, DJe de 23/10/2019).
+3. Na hipótese, o Tribunal a quo, após o exame acurado dos autos e das provas, concluiu pela caracterização de litigância de má-fé da parte ora agravante, que alterou a verdade dos fatos com o intuito de locupletar-se ilicitamente.
+4. A modificação da conclusão do Tribunal de origem sobre a litigância de má-fé da parte agravante demandaria o revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7/STJ.
+5. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial. (AgInt no AREsp n. 1.964.652/MS, relator Ministro Raul Araújo, Quarta Turma, julgado em 14/3/2022, DJe de 5/4/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA.  .. . LITIGÂNCIA DE MÁ-FÉ. CONFIGURAÇÃO. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+ ..
+4. A jurisprudência desta Corte Superior impõe a aplicação da Súmula nº 7/STJ quando a revisão da condenação por litigância de má-fé exigir o reexame do contexto fático-probatório da demanda.
+5. Agravo interno não provido. (AgInt no AREsp n. 1.723.745/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 29/3/2021, DJe de 7/4/2021.)
+III - Conclusão
+Ante o exposto, não conheço do recurso especial.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+É o voto.
