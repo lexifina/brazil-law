@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/12/2025 a 16/12/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO RECLAMO.
+INSURGÊNCIA RECURSAL DA PARTE AGRAVANTE.
+1. Decisão monocrática que fixou a ausência de prequestionamento da matéria, pois a tese sobre nulidade do julgamento realizado pela Corte de origem não foi por ela examinado.
+1.1. Razões do agravo interno que não impugnam especificamente os fundamentos invocados. Em razão do princípio da dialeticidade, deve a parte agravante demonstrar de modo fundamentado o desacerto da decisão agravada, nos termos do art. 1.021, § 1º do CPC. Incidência da Súmula 182/STJ.
+2. A alegação genérica de que o tema discutido no recurso especial representa matéria de direito, e não fático-probatória, não é apta a impugnar, de modo específico, o fundamento da decisão atacada que invocou o óbice da Súmula 7/STJ. Ao revés, deve a parte agravante refutar o citado óbice mediante a exposição da tese jurídica desenvolvida no recurso especial e a demonstração da adoção dos fatos tais quais postos nas instâncias ordinárias.
+3. Agravo interno não conhecido.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+Cuida-se de agravo interno, interposto por RIO PARANÁ COMPANHIA SECURITIZADORA DE CRÉDITOS FINANCEIROS, em face de decisão monocrática acostada às fls. 1146/1150 (e-STJ), que não conheceu do agravo em recurso especial.
+O apelo nobre (art. 105, III, alínea "a", CF), a seu turno, desafiou acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+APELAÇÃO CÍVEL - AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - INSTRUMENTO PARTICULAR ASSINADO PELO DEVEDOR E POR DUAS TESTEMUNHAS - PRESCRIÇÃO INTERCORRENTE - PRAZO QUINQUENAL - INÉRCIA DO EXEQUENTE - AUSÊNCIA DE ÔNUS SUCUMBENCIAIS. O Superior Tribunal de Justiça assentou entendimento de que o termo inicial do prazo prescricional, na vigência do CPC/1973, conta-se do fim do prazo judicial de suspensão do processo ou, inexistindo prazo fixado, do transcurso de um ano (aplicação analógica do art. 40, § 2º, da Lei 6.830/1980). "Prescreve a execução no mesmo prazo de prescrição da ação" (Súmula 150, STF). É de cinco anos o prazo prescricional para cobrança de dívida oriunda de instrumento particular, nos termos do art. 206, §5º, inciso I, do Código Civil. Verificada a inércia do exequente em dar andamento ao feito executivo suspenso por ausência de bens penhoráveis, deve ser reconhecida a ocorrência da prescrição intercorrente. O reconhecimento da prescrição intercorrente implica a extinção do feito sem ônus para as partes, nos termos do art. 921, §5º, do CPC.
+Opostos embargos de declaração, não foram conhecidos pelo Tribunal a quo.
+Em juízo de admissibilidade, o Tribunal de origem negou seguimento ao reclamo, dando ensejo ao agravo em recurso especial.
+Contraminuta apresentada.
+Em decisão monocrática (e-STJ Fls. 1146/1150), conheceu-se do agravo para não conhecer do recurso especial ante os óbices da Súmula 211/STJ (ausência de prequestionamento) e Súmula 7/STJ (reexame de fatos e provas).
+Conforme consignado na decisão agravada:
+"Na hipótese, incide o teor da Súmula 211 do STJ, que estabelece: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"." (e-STJ Fl. 1149)
+"Ademais, a análise da pretensão deduzida nas razões recursais sobre regularidade da intimação eletrônica exigiria o revolvimento das premissas fático-probatórias delineadas pela Câmara sobre as circunstâncias que envolveram o sistema eletrônico do Tribunal e a suposta falha na intimação da advogada." (e-STJ Fl. 1149)
+Irresignado, o agravante interpõe o presente agravo interno (e-STJ Fls. 1154/1156) alegando, em síntese, que: (a) à luz do art. 1.025 do CPC, ainda que não conhecidos ou rejeitados os embargos, consideram-se incluídas no acórdão as questões suscitadas, de modo que não incide a Súmula 211/STJ; (b) os arts. 270, 272, § 2º, 280 e 1.022, II, do CPC, bem como o art. 5º, §§ 1º e 3º, da Lei 11.419/2006, foram expressamente ventilados; (c) no que concerne ao óbice da Súmula 7/STJ, a controvérsia cinge-se à validade da intimação eletrônica e à consequente aferição da tempestividade dos embargos de declaração, questão de direito que demanda apenas revaloração jurídica de documentos públicos e registros eletrônicos; (d) tratando-se de quaestio iuris, é indevida a negativa de seguimento por suposto reexame de provas.
+Contrarrazões apresentadas.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO RECLAMO.
+INSURGÊNCIA RECURSAL DA PARTE AGRAVANTE.
+1. Decisão monocrática que fixou a ausência de prequestionamento da matéria, pois a tese sobre nulidade do julgamento realizado pela Corte de origem não foi por ela examinado.
+1.1. Razões do agravo interno que não impugnam especificamente os fundamentos invocados. Em razão do princípio da dialeticidade, deve a parte agravante demonstrar de modo fundamentado o desacerto da decisão agravada, nos termos do art. 1.021, § 1º do CPC. Incidência da Súmula 182/STJ.
+2. A alegação genérica de que o tema discutido no recurso especial representa matéria de direito, e não fático-probatória, não é apta a impugnar, de modo específico, o fundamento da decisão atacada que invocou o óbice da Súmula 7/STJ. Ao revés, deve a parte agravante refutar o citado óbice mediante a exposição da tese jurídica desenvolvida no recurso especial e a demonstração da adoção dos fatos tais quais postos nas instâncias ordinárias.
+3. Agravo interno não conhecido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+O agravo interno não merece conhecimento.
+1. Com efeito, à luz do princípio da dialeticidade, conforme previsão expressa do art. 1.021 do CPC, § 1º, "Na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada".
+Contudo, nas razões do presente agravo interno, a parte agravante descurou-se de infirmar dialeticamente os fundamentos encartados na decisão agravada de e-STJ Fls. 1146/1150, no sentido da incidência da Súmula 211/STJ e da Súmula 7/STJ.
+1.1. Do fundamento relativo à Súmula 211/STJ - ausência de prequestionamento
+A decisão monocrática consignou expressamente que a suposta nulidade de intimação eletrônica apontada pela agravante constitui questão que não foi objeto de debate e decisão no acórdão da apelação cível (fls. 1054/1062), mas apenas surgiu posteriormente no acórdão que rejeitou os embargos de declaração por intempestividade (fls. 907/910).
+Sobre o tema, a decisão destacou:
+"Nesse contexto, competia à parte insurgente, para viabilizar o posterior exame da matéria em sede de recurso especial, suscitar os alegados vícios de intimação eletrônica por meio de novos embargos de declaração dirigidos especificamente ao acórdão que declarou a intempestividade do reclamo, a fim de permitir que a instância ordinária se pronunciasse sobre tais questões relativas à intimação viciada.
+A ausência de tal providência impede o conhecimento do recurso especial, ante a falta do necessário prequestionamento da matéria." (e-STJ Fl. 1148)
+Deveras, o agravante limita-se a invocar o art. 1.025 do CPC e a sustentar que os dispositivos legais foram "expressamente ventilados", mas não enfrenta o fundamento central da decisão monocrática de que a questão da nulidade da intimação não estava no acórdão da apelação cível, tendo surgido apenas posteriormente quando da intimação do julgamento, e que competia à parte opor novos embargos declaratórios contra o acórdão que rejeitou os embargos por intempestividade, a fim de provocar a manifestação expressa da Corte de origem sobre a temática referente à irregularidade na intimação.
+Em suas razões, a parte agravante não indica ou demonstra em qual trecho teria sido combatida a necessidade de oposição de novos embargos declaratórios para viabilizar o prequestionamento, restando inatacado, portanto, este fundamento específico que levou ao não conhecimento do recurso especial.
+1.2. Do fundamento relativo à Súmula 7/STJ - reexame de fatos e provas
+No ponto, a decisão monocrática consignou:
+"Para desconstituir a convicção formada pelo Tribunal a quo acerca da regularidade da intimação eletrônica seria necessário o amplo revolvimento do arcabouço fático-probatório dos autos, especialmente quanto à análise dos registros eletrônicos, certidões de intimação e funcionamento do sistema processual, circunstância vedada em sede de recurso especial." (e-STJ Fl. 1149)
+Analisando detidamente as razões do agravo interno (e-STJ Fls. 1154/1156), constata-se que a parte limitou-se a afirmar genericamente:
+"No que concerne ao óbice da Súmula 7/STJ, a controvérsia cinge-se à validade da intimação eletrônica e à consequente aferição da tempestividade dos embargos de declaração, questão de direito que demanda apenas revaloração jurídica de documentos públicos e registros eletrônicos constantes dos autos, sem revolvimento do acervo fático-probatório. Tratando-se de quaestio iuris, é indevida a negativa de seguimento por suposto reexame de provas" (e-STJ Fl. 1155)
+Tal alegação genérica não atende ao requisito de impugnação específica, pois não demonstra concretamente por que o fundamento da inadmissão estaria equivocado, quais registros eletrônicos estariam incontroversos, ou por que a análise da regularidade da intimação eletrônica não demandaria o exame das circunstâncias que envolveram o sistema eletrônico do Tribunal e a suposta falha na intimação.
+Registre-se, assim, que esta eg. Quarta Turma, nos autos do AgInt no AREsp n. 1.490.629/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 25/08/2021, firmou o entendimento de que:
+"a alegação genérica de que o tema discutido no recurso especial representa matéria de direito (incluídas aí as hipóteses de qualificação jurídica dos fatos e valoração jurídica das provas), e não fático-probatória, não é apta a impugnar, de modo específico, o fundamento da decisão atacada. Ao revés, deve a parte agravante refutar o citado óbice mediante a exposição da tese jurídica desenvolvida no recurso especial e a demonstração da adoção dos fatos tais quais postos nas instâncias ordinárias."
+No presente caso, a parte limitou-se a afirmar que seria desnecessário o revolvimento do acervo fático-probatório, contudo deixou de demonstrar como o contexto fático específico delineado pelo Tribunal a quo - notadamente as circunstâncias relativas aos registros eletrônicos, certidões de intimação e funcionamento do sistema processual - ensejaria necessariamente a aplicação da tese jurídica defendida sem o reexame das premissas fático-probatórias.
+Portanto, correta a decisão de não conhecimento do recurso especial, em função da deficiência de fundamentação dialética para afastamento da Súmula 7/STJ ao caso concreto.
+2. Do exposto, não conheço do agravo interno.
+É como voto.
