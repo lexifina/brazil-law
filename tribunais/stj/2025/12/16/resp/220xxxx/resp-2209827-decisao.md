@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto por LUCAS MARTINS DE ARAÚJO, com fundamento no art. 105, III, a, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS assim ementado (fls. 302-303):
+DIREITO PENAL. APELAÇÃO CRIMINAL. FURTO QUALIFICADO. SENTENÇA CONDENATÓRIA. RECURSO DO RÉU CONHECIDO E DESPROVIDO.
+I. CASO EM EXAME
+1. Apelação criminal de sentença que condenou o réu pela prática do crime de furto qualificado em concurso formal impróprio.
+II. QUESTÃO EM DISCUSSÃO
+2. São quatro as questões em discussão: (i) reconhecimento do ilícito na modalidade tentada; (ii) afastamento das qualificadoras, por ausência de provas da escalada e do rompimento de obstáculo, para o enquadramento da conduta apenas na modalidade de furto simples; (iii) o redimensionamento da pena-base, com o afastamento da negativação das circunstâncias da conduta social e da personalidade do agente; (iv) reconhecimento do concurso formal na sua modalidade própria.
+III. RAZÕES DE DECIDIR
+3. Não merece ser acolhido o pleito de desclassificação do crime para a modalidade tentada, vez que, conforme se infere das provas orais colhidas, houve a inversão da posse dos bens, não sendo necessária, para o reconhecimento da consumação do delito, a posse mansa e pacífica da res furtiva.
+4. A jurisprudência do STJ é assente no sentido de que excepcionalmente, se cabalmente demonstrada a escalada ou o rompimento de obstáculo por outros meios, a prova pericial pode ser suprida. Dessa forma, as qualificadoras aplicadas devem ser mantidas, pois foram devidamente comprovadas através das provas documentais e orais produzidas nos autos.
+5. Mantida a pena-base fixada, pois a fundamentação utilizada pelo Magistrado pautou-se nos elementos colhidos nos autos, sobretudo diante das declarações prestadas pela vítima em sede de instrução. A defesa não logrou êxito em acostar nos autos elementos mínimos que pudessem interferir no convencimento do julgador.
+6. Do contexto probatório dos autos, sobretudo das provas orais produzidas, constata-se o dolo do agente em praticar, mediante uma única ação, dois crimes diversos, bem como, obter resultados diferentes, a saber, subtrair o patrimônio de vítimas distintas, quando invadiu duas residências diferentes para subtrair patrimônio alheio. Assim deve ser mantido o concurso formal em sua modalidade imprópria.
+IV. DISPOSITIVO
+5. Recurso conhecido e desprovido. ___ Jurisprudência relevante citada: REsp n. 1.524.450/RJ, relator Ministro Nefi Cordeiro, Terceira Seção, julgado em 14/10/2015, DJe de 29/10/2015; AgRg no AgRg no AREsp n. 2.271.667/TO, relator Ministro Jesuíno Rissato, Sexta Turma, julgado em19/3/2024, DJe de 22/3/2024.
+Consta dos autos que o recorrente foi condenado à pena de 7 anos e 3 meses de reclusão, em regime inicial semiaberto, e 208 dias-multa, em razão da prática dos crimes previstos nos arts. 155, § 4º, I, e 155, § 4º, I e II, ambos do Código Penal, c/c o art. 70 do mesmo diploma legal (concurso formal).
+A parte recorrente alega violação do art. 59 do Código Penal, afirmando que o acórdão recorrido negativou a circunstância judicial da conduta social com base em elementos inidôneos e sem fatos concretos que extrapolem o tipo penal, o que teria contrariado o parâmetro legal de individualização da pena na primeira fase da dosimetria (fls. 317-320).
+Contrarrazões apresentadas às fls. 330-332.
+O recurso foi admitido na origem (fls. 334-335).
+O Ministério Público Federal manifestou-se pelo conhecimento e provimento do recurso no parecer de fls. 351-354.
+É o relatório.
+Assim constou do acórdão a respeito da pena-base (fls. 309-310):
+18. Partindo para a análise dos pleitos relativos à dosimetria, inicialmente, com relação ao pedido de afastamento das vetoriais da conduta social e da personalidade do agente, consideradas como negativas na primeira fase da dosimetria, vejamos os fundamentos utilizados pelo Magistrado de primeiro grau na sentença condenatória:
+" ..  No tocante a valoração de sua conduta social, tenho como desfavorável, os elementos que constam nos autos indicam que o acusado era conhecido na comunidade em que residia como pessoa propensa a comportamentos ilícitos.  ..  Sobre a personalidade do agente, entendo que este possui personalidade insensível, não tendo demonstrado em nenhum momento qualquer arrependimento da conduta praticada, além de ter se utilizado de grave intimidação contra as vítimas após ser capturado, situação que a meu ver demonstra uma personalidade perigosa.  .. "
+19. Em suas razões, o recorrente afirmou não constar nos autos nenhuma prova cabal apta a negativar referidas circunstâncias judiciais.
+20. No entanto, as alegações da defesa não prosperam. Diz assim pois a fundamentação utilizada pelo Magistrado pautou-se nos elementos colhidos nos autos, sobretudo diante das declarações prestadas pela vítima em sede de instrução, a qual, mais precisamente no minuto 8:00 da mídia de fl. 166, afirmou que no momento em que conseguiu deter o acusado, ficou sabendo que o mesmo residia próximo à sua casa e que, segundo a família do mesmo, ele era contumaz na prática delitiva. Ademais, especificamente no minuto 5:35 da mídia anexada, a vítima também afirmou que quando conseguiu deter o acusado, este passou a ameaçar-lhe da sua morte e de sua família.
+21. Portanto, diante das declarações prestadas, vislumbra-se que a defesa não logrou êxito em acostar nos autos elementos mínimos que pudessem interferir no convencimento do julgador. Assim, diante da fundamentação consubstanciada nos elementos dos autos, devem ser mantidas as vetoriais consideradas como desfavoráveis.
+De fato, a consideração da conduta social não foi fundamentada em dados concretos extraídos dos autos que extrapolassem os elementos inerentes ao tipo penal.
+No ponto, ressaltou o Ministério Público que "é possível constatar que as instâncias ordinárias basearam-se exclusivamente no relato da vítima, que teria ouvido dizer que o recorrente costumava praticar crimes, mas sem indicação clara de elementos concretos de prova sobre o comportamento do agente em seu meio social" (fl. 354).
+Referida circunstância judicial diz respeito "ao estilo de vida do réu e do seu comportamento perante a sociedade, a família, o ambiente de trabalho, a vizinhança, dentre outros aspectos de interação social" (HC n. 479.188/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 15/10/2019, DJe de 25/10/2019), o que não foi demonstrado no caso dos autos.
+Portanto, deve ser decotada referida circunstância judicial.
+Ante o exposto, na forma do art. 34, XVIII, c, do Regimento Interno do Superior Tribunal de Justiça, dou provimento ao recurso especial para determinar que o Tribunal de origem individualize novamente a pena aplicada ao recorrente , observando-se os termos desta decisão.
+Comunique-se.
+Publique-se. Intimem-se.
+ EMENTA
