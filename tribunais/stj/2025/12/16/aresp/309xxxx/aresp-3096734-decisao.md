@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ASSOCIAÇÃO EDUCADORA SÃO CARLOS (AESC) contra a decisão que inadmitiu o recurso especial, por ausência de negativa de prestação jurisdicional quanto aos arts. 1.022 e 489 do Código de Processo Civil e por incidência das Súmulas n. 5, 7 e 83 do STJ.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Contraminuta às fls. 13.477-13.485.
+O recurso especial foi interposto com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul em apelação cível nos autos de ação de honorários profissionais (arbitramento e cobrança).
+O julgado foi assim ementado (fl. 13.174):
+APELAÇÃO CÍVEL. HONORÁRIOS DE PROFISSIONAIS LIBERAIS. SENTENÇA DE PARCIAL PROCEDÊNCIA NA ORIGEM. RECURSO DE AMBAS AS PARTES.
+Sentença extra petita. Vício que não se caracterizou, embora a solução engendrada pelo juízo monocrático, em seu resultado, possa ter por efeito que os honorários de êxito repliquem os decorrentes da atividade já exercida.
+Arbitramento de honorários. Embora potestativo o direito à revogação do mandato, o mandante não se livra da obrigação de remunerar os serviços já prestados, sob pena de enriquecimento sem causa e violação ao princípio constitucional de vedação do trabalho escravo.
+Contrato que previa duas formas de remuneração pelos serviços jurídicos realizados, uma principal, estipulada por hora de trabalho, e uma "adicional", a ser calculada sobre o proveito econômico obtido. O alcance do provimento  nal depende, portanto, de uma leitura em concreto da cláusula 5.6. do contrato, cuja interpretação literal não pode ser acolhida, nos termos da sentença, por ser abusiva ao autorizar a cobrança de verba de êxito independentemente da sua ocorrência ("como se êxito houvesse") e em duplicidade com a remuneração pro labore já efetivamente paga.
+Necessidade de limitar o alcance da cláusula, no sentido de que a cláusula não se aplica aos casos em que não houve êxito e, sim, somente aos quais o êxito se con rmou, o que se resume à ACP n. 2009.71.07.000885-8, que já possui trânsito em julgado com proveito para a ré.
+Considerando que na ACP mencionada a revogação ocorreu depois de que praticamente todas as peças da requerida tinham sido elaboradas pelo escritório autor, a remuneração devida é integral, ou seja, 0,75% do proveito econômico obtido.
+RECURSOS PROVIDOS EM PARTE.
+Os embargos de declaração opostos foram rejeitados (fl. 13.208).
+No recurso especial, a parte aponta violação dos seguintes artigos:
+a) 489, §1º, IV, do Código de Processo Civil, e 1.022, II, do Código de Processo Civil, porque o acórdão de apelação teria omitido a definição do "proveito econômico" para a liquidação do percentual de 0,75% e teria sido obscuro na fixação de honorários sucumbenciais em bases distintas, sem adequada motivação;
+b) 85, §2º, do Código de Processo Civil, já que a Corte estadual fixou os honorários devidos aos patronos da AESC sobre o valor da causa, quando seria obrigatória a adoção da ordem legal de preferência, com base no proveito econômico mensurável obtido na demanda; e
+c) 98 e 99 do Código de Processo Civil, porquanto requereu a concessão da gratuidade da justiça diante de agravamento de sua situação financeira.
+Sustenta que o Tribunal de origem, ao decidir que os honorários devidos aos patronos da AESC deveriam incidir sobre o valor atualizado da causa, divergiu do entendimento do Tema n. 1.076 do STJ, que exige observância dos percentuais do §2º do art. 85 do CPC sobre a condenação ou sobre o proveito econômico obtido, quando mensurável.
+Requer o provimento do recurso para que se anulem os acórdãos, com retorno à origem para saneamento das omissões e obscuridades e, no mérito, para que os honorários dos patronos da AESC sejam fixados segundo a ordem legal do art. 85, §2º, do Código de Processo Civil.
+Contrarrazões às fls. 13.372-13.380.
+É o relatório. Decido.
+A controvérsia diz respeito a ação de arbitramento e cobrança de honorários advocatícios em que a parte autora pleiteou o arbitramento de honorários proporcionais de êxito, com base em cláusula contratual, em percentual de 0,75% sobre o proveito econômico nas ações listadas no contrato, e a condenação da requerida ao pagamento. O valor da causa foi fixado em R$ 9.875,00.
+Na sentença, o Juízo de primeiro grau julgou parcialmente procedente, reconheceu a parcial nulidade da cláusula 5.6 e condenou a requerida a pagar honorários proporcionais ao trabalho desenvolvido até a revogação do mandato, a serem apurados em liquidação, fixando honorários sucumbenciais de 10% do valor da causa para os patronos da requerida e de 20% do valor da causa para os patronos da autora.
+A Corte de origem reformou parcialmente a sentença para limitar a cláusula de êxito apenas à ação ACP n. 2009.71.07.000885-8, transitada em julgado com proveito para a AESC, arbitrando 0,75% sobre o proveito econômico ali obtido, e redistribuiu os ônus sucumbenciais, fixando 18% do valor da causa para os patronos da requerida e 12% do valor final e atualizado da honorária arbitrada (proveito efetivo) para os patronos da autora. Os embargos de declaração foram desacolhidos, por inexistência de omissão, obscuridade ou erro material.
+I - Arts. 1.022, II, e 489, §1º, IV, do Código de Processo Civil
+No recurso especial a parte recorrente alega que o acórdão foi omisso ao não definir o "proveito econômico" para a liquidação do percentual de 0,75% e obscuro ao fixar honorários sucumbenciais em bases diversas, sem apresentar razões claras.
+O acórdão de embargos assentou inexistirem vícios, esclarecendo que o julgador não precisa rebater ponto a ponto e que a sucumbência "está claramente definida" (fl. 13.208).
+Não se verifica a alegada ofensa ao artigo, pois a questão referente à omissão na definição do "proveito econômico" e à obscuridade na distribuição da sucumbência foi devidamente analisada pela Corte estadual que concluiu que o critério do proveito econômico foi remetido à liquidação e que a sucumbência foi claramente estabelecida, não havendo vício que possa nulificar o acórdão recorrido.
+Confira-se trecho do acórdão recorrido (fl. 13.208):
+3.1. O art. 489 do CPC não determina que o julgador deva fazer listagem de argumentos e espancar, exaustivamente, todos eles, um a um, como se o processo fosse um formulário de consulta ou um trabalho acadêmico. O que se exige é que o juízo examine aqueles argumentos deduzidos nos autos que sejam capazes de in rmar a decisão, ou seja, que tenham pertinência temática e que possuam relação lógica com a matéria discutida, de modo que, se acolhidos, poderiam resultar em solução diversa, o que foi feito no julgado embargado. Omissões não comprovadas.
+3.3. A genuína obscuridade se veri ca quando a decisão não permite uma interpretação apurada do que se decidiu devido ao arranjo de termos e expressões que levem à ambiguidade interpretativa. No caso, a sucumbência está claramente de nida, estando a embargante a destilar inconformidade quanto ao critério que qualifica como mais apropriado para a parte em que foi vencedora.
+II - Art. 85, §2º, do Código de Processo Civil
+A recorrente afirma que a Corte estadual violou a ordem do art. 85, §2º, ao fixar os honorários dos patronos da AESC sobre o valor da causa, quando haveria proveito econômico mensurável, e pede revisão do critério, invocando o Tema n. 1.076 do STJ.
+O acórdão recorrido distribuiu a sucumbência fixando 18% do valor da causa para os patronos da requerida e 12% sobre o "valor final e atualizado da honorária arbitrada (proveito efetivo)" para os patronos da autora (fl. 13.175), fundamentando-se nas particularidades do caso e na natureza da ação de arbitramento.
+No ponto, incide o óbice da Súmula n. 7 do STJ, pois a pretensão demanda o reexame de elementos fáticos e probatórios, bem como da extensão da sucumbência no caso concreto, o que não é cabível em recurso especial.
+III - Arts. 98 e 99 do Código de Processo Civil
+Sustenta a concessão da gratuidade da justiça, aduzindo agravamento financeiro e prejuízos extraordinários.
+O tema não foi objeto de reforma no acórdão recorrido e, nas contrarrazões, registrou-se a preclusão da matéria e a suficiência financeira, com base em documentos analisados no Tribunal (fl. 13.374).
+A questão relativa à concessão de gratuidade, tal como articulada no especial, não foi objeto de nova análise pelo Tribunal de origem nos acórdãos recorridos. Caso, pois, de aplicação da Súmula n. 211 d o STJ.
+IV - Conclusão
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial para negar-lhe provimento.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
