@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, impetrado em nome de MAGNO EDUARDO DE ASSIS - condenado por tráfico de drogas (26,4 g de cocaína e 1,84 g de crack - fls. 11/12) e associação para o tráfico a 14 anos, 2 meses e 20 dias de reclusão, e 2.132 dias-multa (fl. 51) -, apontando como ato coator o acórdão de apelação criminal proferido pelo Tribunal de Justiça de Minas Gerais (fls. 8/53).
+A impetração busca a revisão da dosimetria - referente à condenação proferida na Ação Penal n. 0001884-58.2016.8.13.0069 (fl. 82/143), da Vara Única da comarca de Bicas/MG -, com a redução da fração da agravante da reincidência para 1/6 (fls. 4/5) e da fração da causa de aumento do art. 40, VI, da Lei n. 11.343/2006 para 1/5, em ambos os crimes (fls. 5/6).
+Sem pedido liminar.
+É o relatório.
+Inicialmente, registre-se que se trata de impetração destinada a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias (HC n. 905.771/GO, de minha relatoria, Sexta Turma, DJEN de 16/9/2025), e não se verifica a ocorrência de flagrante constrangimento ilegal apto a subsidiar a superação do óbice quanto à causa de aumento do art. 40, VI, da Lei n. 11.343/2006, pois o Tribunal estadual manteve a fração de 1/3, com base em dados concretos do processo - envolvimento de, ao menos, dois adolescentes na mercancia ilícita em favor do bando, circunstância expressamente reconhecida no voto e aplicada de modo uniforme aos corréus (fls. 47/51) -, seguindo a previsão legal, não havendo flagrante ilegalidade.
+Entretanto, o writ comporta acolhimento, pois, quanto à agravante da reincidência, o acórdão elevou a pena em 1/3 sob o fundamento de reincidência específica (fl. 51), em desacordo com a orientação consolidada desta Corte (REsp n. 2.156.586/RS, de minha relatoria, Sexta Turma, DJEN de 26/6/2025).
+Então, necessário redimensionar a reprimenda imposta:
+a) para o crime de tráfico de drogas, mantida a pena-base no mínimo legal (fl. 51), aumentando em 1/6 na segunda fase, em razão da reincidência específica, passando para 5 anos e 10 meses, e 583 dias-multa (fl. 50). Na terceira fase, mantido o aumento de 1/3 do art. 40, VI, da Lei 11.343/2006, totalizando 7 anos, 9 meses e 10 dias de reclusão, e 777 dias-multa;
+b) para o crime de associação para o tráfico, mantida a pena-base no mínimo legal (fl. 51), aumentada em 1/6 na segunda fase, em razão da reincidência específica, passando para 3 anos e 6 meses, e 583 dias-multa (fl. 50). Na terceira fase, mantido o aumento de 1/3 do art. 40, VI, da Lei 11.343/2006, totalizando 4 anos e 8 meses, e 1.089 dias-multa; e
+c) considerando o concurso material (fl. 51), a pena total é de 12 anos, 5 meses e 10 dias de reclusão, e 1.866 dias-multa.
+Finalmente, considerando a reprimenda corporal imposta e a reincidência (fl. 51), não há ilegalidade na fixação do regime inicial fechado e no indeferimento da substituição da pena.
+Em face do exposto, concedo liminarmente a ordem impetrada, em parte, para redimensionar a pena definitiva do paciente para 12 anos, 5 meses e 10 dias de reclusão, e 1.866 dias-multa, mantido o regime fechado, na Ação Penal n. 0001884-58.2016.8.13.0069 (fl. 82/143), da Vara Única da comarca de Bicas/MG.
+Intime-se o Ministério Público estadual.
+P ublique-se.
+EMENTA
+PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. DOSIMETRIA. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. UTILIZAÇÃO INDEVIDA DO WRIT. REDUÇÃO DA FRAÇÃO DA REINCIDÊNCIA E DA MAJORANTE DO ART. 40, VI. REINCIDÊNCIA ESPECÍFICA. REDIMENSIONAMENTO DAS PENAS. MANUTENÇÃO DO REGIME INICIAL FECHADO. CONSTRANGIMENTO PARCIAL EVIDENCIADO.
+Ordem liminarmente concedida, em parte, nos termos do dispositivo.
