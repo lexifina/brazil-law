@@ -1,0 +1,28 @@
+DECISÃO
+Em análise, recurso especial interposto pelo ESTADO DA PARAÍBA contra acórdão do Tribunal de Justiça do Estado da Paraíba, assim ementado (fl. 268):
+AGRAVO INTERNO. DECISÃO MONOCRÁTICA QUE PROVEU O AGRAVO DE INSTRUMENTO PARA ANULAR A DECISÃO INTERLOCUTÓRIA. MANEJO DE EXCEÇÃO DE PRÉ-EXECUTIVIDADE EM EXECUÇÃO FISCAL. ILEGITIMIDADE ATIVA E NULIDADE DA CDA. MATÉRIAS COGNOSCÍVEIS DE OFÍCIO. SÚMULA 393, DO STJ. POSSIBILIDADE. AGRAVO QUE NÃO TRAZ ARGUMENTOS SUFICIENTES A MODIFICAR OS FUNDAMENTOS DA DECISÃO MONOCRÁTICA. DESPROVIMENTO DO RECURSO. O manejo da Exceção de Pré-executividade deve demonstrar a existência de vícios relativos à admissibilidade ou validade dos atos executivos, a exemplo da ilegitimidade ativa e dos requisitos da CDA, sendo a matéria aferível de ofício pelo magistrado ou demonstrada sem a necessidade de dilação probatória à sua verificação. Segundo entendimento assente no STJ, "é possível às instâncias ordinárias reconhecerem a nulidade da CDA de ofício, por se tratar de questão de ordem pública relativa aos pressupostos da ação". A parte deve demonstrar o desacerto da decisão atacada, não sendo suficiente a impugnação genérica ao "decisum" combatido e sem provar que, na hipótese, não era o caso de aplicação dos comandos erguidos no art. 932 do CPC.
+Nas razões recursais, a parte recorrente sustenta violação aos arts. 202 do CTN e 2º, § 5º, da Lei 6.830/1980, argumentando, em síntese, que (fl. 282):
+No âmbito da execução fiscal movida pelo Estado da Paraíba, as alegações apresentadas pelo executado por meio da exceção de pré-executividade requerem um exame detalhado que extrapola os limites deste instrumento processual, que se destina a questões que dispensam investigação probatória adicional. De acordo com a Súmula 393 do Superior Tribunal de Justiça (STJ) e o Tema 104, a exceção de pré-executividade é reservada exclusivamente para as matérias de ordem pública ou aquelas que não necessitam de dilação probatória.|
+ ..
+A Súmula nº 393 do STJ e o Tema 104 reafirmam que a exceção de pré-executividade deve ser utilizada restritamente para questões que não envolvem apreciação profunda de provas, especialmente diante da presunção conferida pela CDA. Portanto, qualquer discussão que necessite de análise probatória deve ser encaminhada por meio de embargos à execução, após o devido garantimento do juízo, conforme estabelecido pela legislação vigente e a jurisprudência dominante. Conclui-se, assim, que a exceção de pré-executividade deve ser prontamente rejeitada quando a análise dos elementos constitutivos da CDA ou outras questões complexas exijam investigação detalhada, sendo os embargos à execução o meio processual adequado para tais investigações, dada a necessidade de dilação probatória inerente ao caso.
+Recurso especial fundado no art. 105, III, "a", da Constituição Federal.
+Contrarrazões às fls. 287-297.
+Decisão de fl. 301 remeteu os autos ao órgão julgador para realização de juízo de conformidade em relação ao Tema 108/STJ.
+O órgão julgador de origem manteve o acórdão recorrido (fls. 313-319).
+É o relatório.
+Passo a decidir.
+O recurso não merece conhecimento.
+Relativamente à alegação de violação aos arts. 202 do CTN e 2º, § 5º, da Lei 6.830/1980, o exame dos autos revela que a matéria contida nos artigos apontados como violados não foi objeto de análise pelas instâncias ordinárias, a respeito da qual não foram opostos embargos de declaração, de modo que enseja a aplicação das Súmulas 282 e 356 do STF.
+Cabe destacar que o prequestionamento, entendido como a necessidade de o tema objeto do recurso haver sido examinado pela decisão atacada, constitui exigência inafastável contida na própria previsão constitucional, ao tratar do recurso especial, impondo-se como um dos principais pressupostos ao seu conhecimento.
+Dessa forma, não basta à parte discorrer sobre o dispositivo legal que entende afrontado. Não examinada pela instância ordinária a matéria objeto do especial, inarredável a compreensão de que não houve prequestionamento a respeito de referidas teses jurídicas, atraindo a aplicação das Súmulas 282 e 356 do STF.
+A propósito, confira-se o seguinte precedente:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. MUNICÍPIO DE CATALÃO/GO. SERVIDOR PÚBLICO. READAPTAÇÃO FUNCIONAL. DESPROVIMENTO DO AGRAVO INTERNO MANUTENÇÃO DA DECISÃO RECORRIDA.
+ ..
+IV - Relativamente às demais alegações de violação, esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada (arts. 17 e 485, § 3º, do CPC), não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+ ..
+VII - Agravo interno improvido (AgInt no AREsp n. 2.169.823/GO, relator Ministro Francisco Falcão, Segunda Turma, julgado em 19/6/2023, DJe de 22/6/2023).
+Isso posto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Sem condenação em honorários advocatícios recursais, tendo em vista que o recurso especial origina-se de acórdão proferido em julgamento de agravo de instrumento, no qual não houve a fixação de honorários advocatícios sucumbenciais.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Intimem-se.
+EMENTA
