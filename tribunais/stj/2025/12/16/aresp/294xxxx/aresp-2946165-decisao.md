@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto por ANDRÉ JESUS DA SILVA contra decisão do Tribunal de Justiça do Estado de Mato Grosso que inadmitiu o recurso especial.
+Consta dos autos que, na execução penal, foi indeferido o pedido de indulto natalino, decisão mantida pelo Tribunal de origem ao desprover o agravo em execução.
+No recurso especial, interposto com fundamento no art. 105, III, a, da Constituição Federal, sustenta-se violação dos arts. 5º e 11, parágrafo único, do Decreto Presidencial n. 11.302/2022, sob o argumento de que o termo "concurso" deve ser interpretado restritivamente, de modo a vedar o indulto apenas quando o crime não impeditivo tiver sido cometido em concurso com crime impeditivo, e não em razão de mera unificação de penas, requerendo o provimento do recurso para que seja concedido o indulto.
+As contrarrazões foram apresentadas (fls. 1.511-1.519) e o recurso especial foi inadmitido pela Corte de origem em razão da incidência da Súmula n. 83 do STJ (fls. 1.520-1.525).
+No agravo em recurso especial, a parte sustenta que não incide o óbice apontado, afirmando existir entendimento desta Corte Superior que admite a concessão do indulto aos crimes não impeditivos quando não praticados em concurso formal ou material com delitos do art. 7º do Decreto n. 11.302/2022, ainda que haja unificação de penas.
+Foi apresentada contraminuta (fls. 1.533-1.534).
+O Ministério Público Federal apresentou parecer, manifestando-se pelo não provimento do agravo (fls. 1.556-1.561), conforme a ementa a seguir:
+Agravo em recurso especial. Execução Penal. Indulto. Decreto Presidencial 11.302/2022. O art. 11 e parágrafo único do Decreto 11.302/2022 estabelece que qualquer dos crimes elencados no art. 7º, do Decreto 11.302/2022, será considerado como "crime impeditivo", quando em concurso com qualquer outro crime "não impeditivo". E para fazer jus ao indulto em relação a este último, o agente terá de ter cumprido previamente a pena do primeiro, o que seja, do "crime impeditivo". Nessa linha, precedente do STF na Suspensão de Liminar 1698/SC. Precedente da Terceira Seção do STJ. Óbice da Súmula 83/STJ. Parecer pelo não provimento do agravo.
+É o relatório.
+Suficientemente impugnada a decisão agravada, passo ao exame do recurso especial interposto.
+A controvérsia trata da possibilidade de concessão do indulto natalino, previsto no Decreto n. 11.302/2022, em relação à condenação por crimes não impeditivos, enquanto o apenado ainda cumpre pena por crime impeditivo, mesmo que os delitos não tenham sido praticados em concurso.
+No caso em apreço, conforme se extrai dos autos, além das condenações por embriaguez do volante, o recorrente cumpre pena por tráfico de drogas, delito arrolado no art. 7º do mencionado decreto, ou seja, crime impeditivo.
+Dessa forma, de acordo com a jurisprudência desta Corte Superior de Justiça, para que se conceda o indulto ao crime não impeditivo, é necessário que o apenado tenha cumprido, ainda que não praticados em concurso, as penas referentes aos crimes impeditivos na sua integralidade, o que não se verifica na espécie.
+A propósito:
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. INDULTO NATALINO. DECRETO N. 11.302/2022. CRIME IMPEDITIVO. UNIFICAÇÃO DE PENAS. INTERPRETAÇÃO DO ART. 11, PARÁGRAFO ÚNICO. SUSPENSÃO DE LIMINAR N. 1.698/RS. JURISPRUDÊNCIA PACIFICADA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O Tribunal de origem afastou a concessão do indulto natalino, com fundamento no art. 11, parágrafo único, do Decreto n. 11.302/2022, ao reconhecer que o agravante cumpre pena por crime impeditivo (latrocínio), ainda que unificada com pena relativa a crime não impeditivo (porte de arma).
+2. A interpretação do referido dispositivo foi pacificada pelo Supremo Tribunal Federal no julgamento da Suspensão de Liminar n. 1.698/RS, em que se assentou a necessidade de cumprimento integral da pena relativa ao crime impeditivo antes da incidência do benefício quanto ao crime não impeditivo.
+3. Esta Corte Superior passou a adotar entendimento conforme a decisão proferida pelo STF, reconhecendo a exigência de cumprimento integral da pena do crime impeditivo, ainda que os delitos não tenham sido praticados em concurso formal ou material.
+4. No caso concreto, demonstrado que o apenado ainda está em cumprimento de pena relativa a latrocínio, subsiste óbice à concessão do indulto natalino em relação ao crime de porte de arma de fogo.
+5. Agravo regimental não provido.
+(AgRg no AREsp n. 2.916.486/ES, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 19/8/2025, DJEN de 25/8/2025.)
+EXECUÇÃO PENAL. AGRAVO EM RECURSO ESPECIAL. INDULTO NATALINO. VÁRIAS CONDENAÇÕES PENAIS. ALEGADA DENECESSIDADE DE CUMPRIMENTO DA PENA DO CRIME IMPEDITIVO. INDEFERIMENTO DEVIDAMENTE FUNDAMENTADO PELAS INSTÂNCIAS ORDINÁRIAS. ENTENDIMENTO DA TERCEIRA SEÇÃO. HC N. 856.053/SC. DESNECESSIDADE DE O CRIME IMPEDITIVO TER SIDO PRATICADO EM CONCURSO. SÚMULA N. 83/STJ. PRECEDENTES. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. AGRAVO NÃO CONHECIDO.
+I - A Terceira Seção deste Superior Tribunal de Justiça passou a considerar que o crime impeditivo do benefício de indulto deve ser tanto o praticado em concurso como o remanescente em razão da unificação de penas. Logo, é descabida a concessão do indulto quando, realizada a unificação, remanescer o cumprimento da reprimenda referente aos crimes impeditivos.
+II - Segundo a orientação desta Corte, para que haja a transposição do óbice da Súmula n. 83, STJ, é necessária a indicação de precedentes contemporâneos ou supervenientes capazes de alterar a modificação do julgado, ou a demonstração de distinguishing, o que não ocorreu no caso dos autos.
+III - A ausência de impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do recurso, sendo insuficientes as assertivas de que todos os requisitos foram preenchidos ou a reiteração do mérito da controvérsia.
+Agravo em recurso especial não conhecido.
+(AREsp n. 2.544.791/BA, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 6/8/2024, DJe de 16/8/2024, grifo próprio.)
+Portanto, o entendimento adotado no acórdão recorrido encontra-se em harmonia com a mais recente jurisprudência do Superior Tribunal de Justiça acerca do tema, atraindo o óbice da Súmula n. 83 do STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
