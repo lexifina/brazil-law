@@ -1,0 +1,33 @@
+DECISÃO
+Em análise, agravo em recurso especial interposto por DEMATIC SISTEMAS E EQUIPAMENTOS DEMOVIMENTAÇÃO DE MATERIAIS LTDA. contra decisão do Tribunal de Justiça de São Paulo que inadmitiu recurso especial, sob os seguintes fundamentos: i) inexistência de vício de fundamentação quanto ao art. 1.022 do CPC (fls. 366-367); ii) matéria decidida em repetitivo (Tema 1.223/STJ) sobre inclusão de PIS/COFINS na base do ICMS (fl. 367); iii) ausência de prequestionamento dos arts. 165, 167 e 168 do CTN, incidindo a Súmula 211/STJ (fl. 367).
+Argumenta a parte agravante, em síntese, que: i) necessidade de suspensão/sobrestamento até o trânsito em julgado do Tema 1.223/STJ, em razão de embargos de declaração pendentes (fls. 404-406); e ii) negativa de prestação jurisdicional e prequestionamento implícito, com violação dos arts. 1.022 e 489 do CPC, afastando o óbice da Súmula 211/STJ e do art. 1.025 do CPC (fls. 406-410).
+É o relatório.
+Passo a decidir.
+O agravo que não impugna, especificamente, todos os fundamentos da decisão recorrida não deve ser conhecido, conforme disposto na Súmula n. 182/STJ.
+A jurisprudência do Superior Tribunal de Justiça entende ser necessária a impugnação integral dos fundamentos da decisão denegatória da admissibilidade do recurso especial para que se conheça do respectivo agravo.
+"Com efeito, como tem reiteradamente decidido esta Corte Superior, os recursos devem impugnar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. Não são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do agravo ou do recurso especial, tampouco a insistência no mérito da controvérsia" (AgRg no AREsp n. 2.340.649/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 15/8/2023, DJe de 22/8/2023).
+É insuficiente a mera alegação no sentido da inaplicabilidade das súmulas ou de que o recurso especial não incidiria no óbice sumular, pois o motivo da aplicação da súmula também reside naquilo que ficou consignado no acórdão recorrido, e não apenas no que foi alegado no recurso especial da parte.
+Veja-se que a refutação apta a infirmar a decisão agravada deve ser efetiva, individualizada, específica e fundamentada (AgInt no REsp n. 1.535.657/MT, relator Ministro Luís Felipe Salomão, Quarta Turma, DJe de 26/8/2020, e AgRg no RHC n. 128.660/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 24/8/2020).
+Importante registrar que o momento adequado para impugnação dos fundamentos da decisão que não admite o recurso especial é a interposição do agravo em recurso especial, sob pena de preclusão caso feita posteriormente.
+Competia ao agravante, contudo, demonstrar a porquê da não incidência dos óbices sumulares.
+Inadmitido o recurso especial com base na Súmula n. 211/STF, incumbiria à parte interessada apontar com precisão argumentos jurídicos suficientes e específicos pelos quais se permita concluir presentes o prequestionamento da legislação infraconstitucional indicada no apelo especial - o que não ocorreu no presente caso.
+A parte não demonstrou que houve discussão a respeito dos arts. 165, 167 e 168 do CTN.
+Nesse sentido, confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 932, III, DO CPC/2015 E SÚMULA 182/STJ. RECURSO QUE NÃO IMPUGNA, ESPECIFICAMENTE, OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ E ART. 1.021, § 1º, DO CPC/2015. AGRAVO INTERNO NÃO PROVIDO.
+1. O Superior Tribunal de Justiça firmou o entendimento de ser possível ao relator dar ou negar provimento ao recurso especial, em decisão monocrática, nas hipóteses em que há jurisprudência dominante quanto ao tema ou se tratar de recurso manifestamente inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida (art. 932, III, do CPC/2015).
+2. Quando o recurso especial não é admitido com fundamento nas súmulas nº 211/STJ e 284/STF, a impugnação deve indicar com precisão argumentos jurídicos suficientes e específicos pelos quais se permita concluir presentes o prequestionamento da legislação infraconstitucional indicada no apelo especial - o que não ocorreu no presente caso.
+3. Não pode ser conhecido o recurso que não infirma especificamente os fundamentos da decisão agravada, haja vista o entendimento jurisprudencial cristalizado na redação da Súmula nº 182/STJ.
+4. Agravo interno não provido (AgInt no AREsp n. 2.324.320/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 19/6/2023, DJe de 21/6/2023).
+AMBIENTAL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VALOR RAZOÁVEL. REVISÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ. PRETENSÃO DE REEXAME DE PROVA. SÚMULA N. 7 DO STJ.
+1. No caso em tela, a decisão monocrática obstou o seguimento do recurso especial por falta de prequestionamento (Súmulas 211 do STJ, 282 e 356 do STF).
+2. No agravo interno, a parte negligenciou a impugnação dos óbices das Súmulas 211 do STJ, 282 e 356 do STF, resultando que um dos fundamentos consignados no decisório recorrido não foi impugnado de forma específica.
+3. Para que se configure prequestionamento implícito, é necessário que o Tribunal a quo emita juízo de valor a respeito da aplicação da norma federal ao caso concreto, o que não ocorreu.
+4. É inviável agravo interno que deixa de impugnar fundamento da decisão recorrida, por si só, suficiente para mantê-la. Incidência da Súmula 182 do STJ.
+5. O Tribunal de origem, com base no acervo fático-probatório dos autos, entendeu pela preclusão da pretensão em razão do Plano de Recuperação pactuado. Rever a referida posição implicaria, necessariamente, o reexame das provas carreadas aos autos, o que é vedado na instância especial ante o óbice do enunciado n. 7 da Súmula do STJ.
+6. Agravo interno não conhecido.
+(AgInt no REsp n. 1.477.683/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 7/2/2019, DJe de 18/2/2019.)
+Isso posto, com fundamento no art. 932, III, do CPC e art. 34, XVIII, a, c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Intimem-se.
+EMENTA
