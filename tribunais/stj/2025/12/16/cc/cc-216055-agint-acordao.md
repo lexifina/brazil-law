@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em Sessão Virtual de 10/12/2025 a 16/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Gurgel de Faria, Paulo Sérgio Domingues, Teodoro Silva Santos, Afrânio Vilela, Francisco Falcão, Maria Thereza de Assis Moura, Benedito Gonçalves e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Regina Helena Costa.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. EXPEDIÇÃO DE DIPLOMA DE CURSO SUPERIOR. INSTITUIÇÃO PRIVADA INTEGRANTE DO SISTEMA FEDERAL DE ENSINO. COMPETÊNCIA DA JUSTIÇA FEDERAL. APLICAÇÃO DO TEMA N. 1.154/STF. MANUTENÇÃO DA DECISÃO AGRAVADA.
+1. O reconhecimento da competência da Justiça Federal para processar e julgar ações relativas à expedição de diplomas de cursos superiores realizados em instituições privadas que integram o Sistema Federal de Ensino decorre do entendimento firmado pelo Supremo Tribunal Federal no Tema n. 1.154 da repercussão geral.
+2. Havendo na petição inicial imputação de responsabilidade à União pela ausência de expedição do diploma - em razão do dever de fiscalização das atividades das instituições de ensino vinculadas ao Sistema Federal -, está caracterizado o interesse jurídico do ente federal. Precedente da Primeira Seção no mesmo sentido (AgInt no CC n. 200.751/RN, Rel. Ministro Paulo Sérgio Domingues, DJe de 13/5/2025).
+3. Agravo interno desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Cuida-se de agravo interno interposto pela União (fls. 978/980) argumentando que "não figura como parte legítima" para demanda em que se requer a expedição de diploma, nos termos da decisão proferida pelo Juízo federal ao proceder sua exclusão do feito com a consequente remessa do feito à Justiça estadual.
+A recorrente acrescenta que "a inclusão da União no processo" seria "estratégia de má-fé para atrair indevidamente a competência da Justiça Federal, violando a Súmula 150 do STJ" e que a aplicação do Tema n. 1.154/STF exigiria a demonstração de interesse jurídico direto da União, o que não aconteceria no caso em apreço.
+Foi apresentada impugnação (fls. 985/986) enfatizando que a parte autora, ora recorrida, "atrelou a responsabilidade da União na ausência de certificação, na qualidade de fiscalizadora da prestação de serviços públicos de ensino" (fl. 985), daí a legitimidade da ré.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. EXPEDIÇÃO DE DIPLOMA DE CURSO SUPERIOR. INSTITUIÇÃO PRIVADA INTEGRANTE DO SISTEMA FEDERAL DE ENSINO. COMPETÊNCIA DA JUSTIÇA FEDERAL. APLICAÇÃO DO TEMA N. 1.154/STF. MANUTENÇÃO DA DECISÃO AGRAVADA.
+1. O reconhecimento da competência da Justiça Federal para processar e julgar ações relativas à expedição de diplomas de cursos superiores realizados em instituições privadas que integram o Sistema Federal de Ensino decorre do entendimento firmado pelo Supremo Tribunal Federal no Tema n. 1.154 da repercussão geral.
+2. Havendo na petição inicial imputação de responsabilidade à União pela ausência de expedição do diploma - em razão do dever de fiscalização das atividades das instituições de ensino vinculadas ao Sistema Federal -, está caracterizado o interesse jurídico do ente federal. Precedente da Primeira Seção no mesmo sentido (AgInt no CC n. 200.751/RN, Rel. Ministro Paulo Sérgio Domingues, DJe de 13/5/2025).
+3. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Ao contrário do que diz a recorrente, na petição inicial, a parte autora atribui responsabilidade ao ente público pelo insucesso da obtenção de diploma após a conclusão do curso, conforme fls. 8/25.
+Como dito na decisão atacada à fl. 966, "a demanda encontra-se no âmbito da competência da Justiça federal, pois a causa de pedir narra a frustração de expedição de diploma. Nessa linha, o pedido é formulado para obrigar os réus, em conjunto, a tomar " ..  as providências para fornecer a parte autora, imediatamente, o certificado de conclusão do curso de especialização em Tomografia Computadorizada E Ressonância Magnética Em Pequenos  .. " (fl. 23)".
+Nesse contexto, o Tema n. 1.154/STF é taxativo, reconhecendo a jurisdição federal: "Compete à Justiça Federal processar e julgar feitos em que se discuta controvérsia relativa à expedição de diploma de conclusão de curso superior realizado em instituição privada de ensino que integre o Sistema Federal de Ensino, mesmo que a pretensão se limite ao pagamento de indenização."
+Reitere-se, nesse contexto, o julgamento do AgInt no CC n. 200.751/RN, Relator Ministro Paulo Sérgio Domingues, Primeira Seção, DJEN de 13/5/2025, no qual se compreendeu que a tese da repercussão geral define a competência da Justiça Federal em tais situações, nas quais o estudante conclui o curso de ensino superior e tem frustrada a etapa final de obtenção de seu diploma, isso porque "a conduta da instituição de ensino estará sujeita ao interesse da União, responsável pela fiscalização e pelo cumprimento das orientações do SFE".
+ANTE O EXPOSTO, nego provimento ao agravo interno.
+É como voto.
