@@ -1,0 +1,46 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por IDALICE ALVES COSTA SCHERER, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal.
+Agravo em recurso especial interposto em: 14/7/2025.
+Concluso ao gabinete em: 4/11/2025.
+Ação: rescisão de contrato c/c reintegração de posse e indenização por danos materiais e compensação por danos morais proposta por AURENE SAWARIS contra IDALICE ALVES COSTA SCHERER na qual se discute inadimplemento contratual relacionado à quitação do saldo devedor de financiamento imobiliário e seus efeitos (rescisão, reintegração, retenção de valores, aluguéis e tributos).
+Sentença: julgou improcedentes os pedidos da inicial. (e-STJ fl. 376)
+Acórdão: deu parcial provimento ao recurso interposto por AURENE SAWARIS, nos termos da seguinte ementa:
+DIREITO CIVIL E PROCESSUAL CIVIL. RECURSO DE APELAÇÃO. RESCISÃO DE CONTRATO DE COMPRA E VENDA DE IMÓVEL. INADIMPLEMENTO DO COMPRADOR. REINTEGRAÇÃO DE POSSE. RETENÇÃO PARCIAL DOS VALORES PAGOS. INDENIZAÇÃO POR PERDAS E DANOS. DANO MORAL INDEVIDO. RECURSO PARCIALMENTE PROVIDO.
+I. Caso em exame
+Recurso de apelação interposto contra sentença que julgou improcedentes os pedidos formulados em ação de rescisão de contrato cumulada com reintegração de posse e indenização por danos materiais e morais. A autora alegou que a ré não quitou integralmente o saldo devedor do financiamento do imóvel, configurando inadimplemento contratual.
+II. Questão em discussão
+Há três questões em discussão: (i) definir se a não quitação integral do saldo devedor do financiamento do imóvel pela compradora caracteriza inadimplemento contratual; (ii) estabelecer se a rescisão contratual autoriza a reintegração de posse e a retenção parcial dos valores pagos; e (iii) determinar se há direito à indenização por dano moral.
+III. Razões de decidir
+O contrato previa expressamente que a compradora deveria quitar integralmente o saldo devedor do financiamento junto à Caixa Econômica Federal, e não apenas continuar com os pagamentos mensais, o que não foi cumprido.
+O inadimplemento do comprador autoriza a rescisão do contrato e a consequente reintegração da posse ao vendedor, nos termos do art. 475 do Código Civil.
+O vendedor tem direito de reter parte dos valores pagos pelo comprador inadimplente, sendo razoável a fixação de 10% (dez por cento) sobre a quantia paga, conforme entendimento consolidado pelo STJ.
+A ocupação indevida do imóvel pelo comprador inadimplente gera obrigação de indenização ao vendedor, equivalente ao valor dos aluguéis correspondentes ao período de permanência no imóvel, além dos tributos e encargos incidentes sobre o bem.
+O mero inadimplemento contratual não caracteriza, por si só, dano moral indenizável, sendo necessária a comprovação de abalo psicológico significativo, o que não restou demonstrado nos autos.
+IV. Dispositivo e tese Recurso parcialmente provido.
+Tese de julgamento: "A não quitação integral do saldo devedor do financiamento do imóvel pelo comprador caracteriza inadimplemento contratual. O inadimplemento contratual do comprador autoriza a rescisão do contrato, a reintegração de posse ao vendedor e a retenção parcial dos valores pagos, nos termos da jurisprudência consolidada. A ocupação indevida do imóvel pelo comprador inadimplente gera obrigação de indenização ao vendedor, correspondente ao valor dos aluguéis pelo período de permanência, além dos tributos e encargos incidentes. O mero inadimplemento contratual não configura dano moral indenizável."
+Dispositivos relevantes citados: Código Civil, arts. 113, 422, 475 e 1.210; Código Tributário Nacional, art. 32; Código de Processo Civil, arts. 85, §2º e §11, e 487, I.
+Jurisprudência relevante citada: STJ, AgInt nos EDcl no REsp n. 1.909.532/CE, 4ª Turma, Rel. Min. Maria Isabel Gallotti, j. 29.11.2021; STJ, AgRg no AREsp n. 600.887/PE, 4ª Turma, Rel. Min. Raul Araújo, j. 19.05.2015; TJMG, RAC n. 10000210147377001, 11ª Câm. Cív., Rela. Desa. Shirley Fenzi Bertão, j. 12.05.2021. (e-STJ fls. 440-441)
+Embargos de Declaração: opostos pela parte agravante, foram rejeitados. (e-STJ fls. 610-612)
+Recurso especial: alega violação dos arts. 1.022, 487, I, 85, §2º, 98, §3º, 85, §11, do CPC; 476, 884 e 422 do CC, bem como dissídio jurisprudencial. A parte agravante sustenta em seu recurso especial que o acórdão deu interpretação restritiva ao contrato ao reputar exigível quitação integral sem prazo expressamente estipulado, contrariando os arts. 422, 475 e 884 do CC. Aduz que o mero inadimplemento não afasta, por si, compensação por danos morais quando demonstrado abalo relevante. Sustenta que deve haver critérios claros para retenção de valores e para os aluguéis devidos pela ocupação, inclusive termo inicial e base de cálculo. Defende que os honorários fixados desconsideraram a sucumbência parcial e a proporcionalidade do art. 85, §2º, do CPC. Alega haver divergência jurisprudencial sobre indenização por benfeitorias e pagamento de aluguéis, exigindo exame da regularidade das obras e parâmetros para fruição (e-STJ fls. 637-679)
+RELATADO O PROCESSO, DECIDE-SE.
+- Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+Alterar o decidido no acórdão impugnado, para acolher a pretensão da parte agravante que é no sentido de que o acórdão deu interpretação restritiva ao contrato ao reputar exigível quitação integral sem prazo expressamente estipulado, exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+- Da fundamentação deficiente
+Os argumentos invocados pelo agravante não demonstram como o acórdão recorrido violou os arts. 1.022, 487, I, 85, §§ 2º e 11, 98, § 3º, do CPC; e 476 do CC, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+Em relação ao art. 85, § 2 º, do CPC, a parte argumenta que a condenação ao pagamento de honorários advocatícios sucumbenciais fixados em 15% sobre o valor da causa é desproporcional. Ocorre que o acórdão fixou a referida verba no mínimo legal de 10% (e-STJ Fl. 437), o que denota deficiência de fundamentação pela ausência de correlação entre os argumentos tecidos no especial e os fundamentos do acórdão recorrido. Em relação aos demais dispositivos, não houve, por parte da agravante, o desenvolvimento de qualquer tese que demonstrasse a violação dos dispositivos. Incide na hipótese a Súmula 284/STF.
+- Da divergência jurisprudencial
+Quanto à insurgência recursal veiculada pela alínea "c" do permissivo constitucional, a falta de indicação expressa do dispositivo legal sobre o qual recai a divergência inviabiliza a análise do dissídio. Nesse sentido: AgRg no REsp 1579618/PR, Terceira Turma, DJe de 01/07/2016; AgRg no RESP 1283930/SC, Quarta Turma, DJe de 14/06/2016; e, AgRg no REsp 1.346.588/DF, Corte Especial, DJe de 17/03/2014.
+Ademais, verifica-se que a parte agravante, na petição do recurso especial, limitou-se a colacionar ementas de julgados que entendeu divergentes.
+Mesmo que assim não fosse, entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, por esses três óbices, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1029, § 1º, do CPC e 255, § 1º, do RISTJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 10% sobre o valor da causa (e-STJ fls. 437) para 15%, observada eventual concessão da gratuidade de justiça
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO DE CONTRATO C/C REINTEGRAÇÃO DE POSSE E INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL. EMENTAS DE ACÓRDÃOS. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. NÃO INDICAÇÃO DO DISPOSITIVO LEGAL COM INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF.
+1. Ação de rescisão de contrato c/c reintegração de posse e indenização por danos materiais e compensação por danos morais.
+2. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial é inadmissível.
+3. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+4. É inviável a comprovação do dissídio jurisprudencial por ementas de julgados. Além disso, deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+5. Não se conhece do recurso especial quando ausente a indicação expressa do dispositivo legal a que se teria dado interpretação divergente.
+6. Agravo conhecido. Recurso especial não conhecido.
