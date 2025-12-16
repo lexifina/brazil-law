@@ -1,0 +1,81 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/12/2025 a 16/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+IRRESIGNAÇÃO RECURSAL DA AGRAVANTE.
+1. Rever a conclusão do Tribunal de origem no sentido de que a dívida não se reveste de liquidez e certeza, afastando o prazo prescricional de cinco anos, exige a incursão na seara probatória dos autos, o que não é permitido nesta instância especial, nos termos da Súmula 7 do STJ.
+2. Agravo interno desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de agravo interno interposto por BANCO SANTANDER (BRASIL) S.A., contra decisão monocrática da lavra deste signa tário que conheceu do agravo para não conhecer do recurso especial da ora insurgente.
+O apelo extremo, fundamentado na alínea "a" do permissivo constitucional, desafiou acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 115, e-STJ):
+Processual Civil - Ação de obrigação de fazer e cobrança de valores - Sentença transitada em julgado - Autor que não se manifesta nos autos desde então - Banco agravante que peticionou nos autos, requerendo a intimação do autor para informar seu endereço, a fim de que os veículos fossem retirados e cumprida a sentença - Início da fase executória voluntariamente, pelo banco executado - Decisão que rejeitou os pedidos de reconhecimento do abandono de causa e prescrição, determinado o arquivamento dos autos - Sentença de mérito proferida - Início da fase de cumprimento de sentença - Impossibilidade de reconhecimento do abandono de causa - Inocorrência das hipóteses previstas no artigo 924 do Código de Processo Civil - Não ocorrência de prescrição - Prescrição decenal (art. 205, do Código Civil), diante da inexistência de prazo menor fixado em lei para a hipótese - Decisão que determina o arquivamento dos autos mantida - Recurso improvido.
+Opostos embargos declaratórios, foram rejeitados, nos termos do acórdão de fls. 135, e-STJ.
+Nas razões de recurso especial, a parte recorrente aponta violação aos arts. 205 e 206, § 5º, I, do Código Civil.
+Sustenta, em síntese: a) a decisão recorrida deixou de observar que a pretensão executiva da recorrida já está prescrita, na medida em que transcorreu in albis o prazo prescricional de 5 anos, desde a data do trânsito em julgado, sem que a autora tenha instaurado cumprimento de sentença; b) o Tribunal local negou vigência ao art. 206, § 5º, I, do Código Civil, segundo o qual prescreve em cinco anos "a pretensão de cobrança de dívidas líquidas constantes de instrumento público ou particular".
+Contrarrazões apresentadas às fls. 226-227, e-STJ.
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, dando ensejo ao agravo de fls. 242-259, e-STJ.
+Em decisão singular (fls. 275-280, e-STJ), conheceu-se do agravo para não conhecer do recurso especial, ante: a) a conclusão do Tribunal de origem de que não se cuida de dívida líquida do art. 206, § 5º, I, do Código Civil, aplicando-se o prazo decenal do art. 205 do Código Civil; b) a necessidade de revolvimento do conjunto fático-probatório para infirmar as premissas do acórdão recorrido, o que encontra óbice na Súmula 7/STJ.
+Daí o presente agravo interno (fls. 285-295, e-STJ), no qual a parte agravante sustenta, em síntese, a inaplicabilidade da Súmula 7/STJ ao caso, por se tratar de controvérsia exclusivamente jurídica sobre o prazo prescricional incidente (art. 205 do Código Civil versus art. 206, § 5º, I, do Código Civil), afirmando que o julgamento demanda apenas reenquadramento jurídico de fatos incontroversos e negativa de vigência a dispositivos legais, com o consequente provimento do agravo em recurso especial e conhecimento do recurso especial.
+Não foi apresentada impugnação, conforme certidão de fls. 302.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+IRRESIGNAÇÃO RECURSAL DA AGRAVANTE.
+1. Rever a conclusão do Tribunal de origem no sentido de que a dívida não se reveste de liquidez e certeza, afastando o prazo prescricional de cinco anos, exige a incursão na seara probatória dos autos, o que não é permitido nesta instância especial, nos termos da Súmula 7 do STJ.
+2. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): O agravo interno não merece acolhida, porquanto os argumentos tecidos pela agravante são incapazes de infirmar a decisão objurgada, motivo pelo qual merece ser mantida na íntegra por seus próprios fundamentos.
+1. Não merece prosperar a pretensão da agravante de afastamento do óbice da Súmula 7/STJ no ponto em que alega que a decisão recorrida deixou de observar que a pretensão executiva da recorrida já está prescrita, na medida em que transcorreu in albis o prazo prescricional de 5 anos, desde a data do trânsito em julgado, sem que a autora tenha instaurado cumprimento de sentença, aduzindo que prescreve em cinco anos "a pretensão de cobrança de dívidas líquidas constantes de instrumento público ou particular".
+Nesses pontos, o aresto recorrido (fls. 117-119, e-STJ):
+Cuida-se de ação de obrigação de fazer e cobrança, tendo o banco réu, ora agravante, sido condenado ao pagamento de valor referente a remoções e estadias de veículos de sua propriedade que se encontravam no estacionamento autor, bem como na obrigação de retirada dos automóveis em questão do local (p. 134/139 da origem). A sentença foi confirmada por acórdão e transitou em julgado em 03/02/2018 (p. 318 da origem).
+Após o trânsito em julgado, diante da ausência de manifestação das partes, o feito foi encaminhado ao arquivo (p. 321 da origem), de onde só saiu por manifestação do banco agravante, informando a impossibilidade da retirada dos veículos e requerendo a intimação do autor agravado para informar endereço atualizado de localização dos bens (p. 332/333 da origem).
+Daí para frente, diversas foram as tentativas de intimação do autor agravado, pessoalmente e por intermédio de seu advogado, todas infrutíferas.
+Diante de tal situação, o agravante alega que restou configurado o abandono da causa, bem como a prescrição da pretensão executória.
+Ao contrário do afirmado pelo agravante, foi, sim, iniciada a fase executória do processo, por iniciativa do próprio banco, que voluntariamente buscou meios de cumprir a obrigação estipulada na sentença.
+Não há como se reconhecer o abandono da causa, nos termos do artigo 485, III, do Código de Processo Civil, pois estamos diante de título judicial e, como se sabe, a norma processual não admite a extinção por abandono na situação retratada nos autos.
+Por outro lado, dentre as hipóteses de extinção da execução, previstas no artigo 924 do Código de Processo Civil, não está o abandono de causa.
+Superado o tema processual, tem-se que a pretensão da credora agravada não está prescrita.
+Não se aplica à hipótese dos autos a prescrição quinquenal, pois não se trata de cobrança fundamentada em documento particular ou público, mas, sim, de cobrança relacionada à remoção e estadia dos veículos do banco agravante no estacionamento da agravada, bem como na obrigação, de natureza pessoal, de retirada deles do local. É caso de se aplicar o prazo geral de dez anos (artigo 205, caput, do Código Civil). Não há prazo especial mais reduzido previsto na lei civil.
+O Tribunal local, diante das peculiaridades  do  caso  concreto  e  a  partir  da  análise  do  conteúdo  fático-probatório  dos  autos, concluiu que não ocorreu a prescrição da pretensão executiva na hipótese.
+Consignou que o prazo para a obrigação de retirada dos veículos do local não se trata da dívida líquida e certa do inciso I, § 5º, do art. 206 do CC, incidindo, na hipótese, o prazo decenal. Ademais, esclareceu que a fase executória do processo teve início por iniciativa do próprio banco - não importando, aqui, se essa iniciativa decorreu da imposição de multa cominatória ou não -, que buscou meios de cumprir a obrigação estipulada na sentença.
+Derruir  as  conclusões  contidas  no  decisum  e  acolher  a  pretensão  recursal  ensejaria  o  necessário  revolvimento  das  provas  constantes  dos  autos,  providência  vedada  em  sede  de  recurso  especial,  ante  o  óbice  estabelecido  pela  Súmula  7/STJ. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. 1. OFENSA AO ART. 1.022 DO CPC/2015. NÃO CONFIGURADA. 2. AUSÊNCIA DE PREQUESTIONAMENTO DE DISPOSITIVO OU TESE. SÚMULAS N. 282 DO STF E 211 DO STJ. 3. LITISCONSÓRCIO PASSIVO NECESSÁRIO. PRESCRIÇÃO. CONSUMAÇÃO. REVISÃO OBSTADA PELA SÚMULA 7/STJ. 4. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. 5. OFENSA A DISPOSITIVO CONSTITUCIONAL. INADEQUAÇÃO DA VIA ELEITA. 6. AGRAVO INTERNO IMPROVIDO.
+1. Embora rejeitados os embargos de declaração, a matéria controvertida foi devidamente enfrentada pelo colegiado de origem, que sobre ela emitiu pronunciamento de forma fundamentada, com enfoque suficiente a autorizar o conhecimento do recurso especial, não havendo falar em negativa de prestação jurisdicional.
+2. A jurisprudência consolidada neste Tribunal Superior firmou-se no sentido de que a análise de tese no âmbito do recurso especial exige a prévia discussão perante o Tribunal de origem, sob pena de incidirem as Súmulas 282 do STF e 211 do STJ, não sendo o caso de prequestionamento ficto/implícito.
+3. Na hipótese, verifica-se que rever o entendimento do acórdão recorrido, acerca da ausência de litisconsórcio passivo necessário e de que a prescrição não foi consumada, a qual foi efetivamente analisada nos embargos à execução opostos pela agravante, ensejaria o reexame do conjunto fático-probatório da demanda, providência vedada no âmbito do recurso especial, ante a Súmula 7 do Superior Tribunal de Justiça.
+4. A incidência da Súmula n. 7/STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, dado que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão recorrido, tendo em vista a situação fática de cada caso.
+5. É inviável a apreciação de ofensa a eventual violação de dispositivos e princípios constitucionais, sob pena de usurpação da competência atribuída ao Supremo Tribunal Federal, nos termos do art. 102 da Constituição Federal, ainda que para fins de prequestionamento.
+6. Agravo interno improvido.
+(AgInt no AREsp n. 2.644.826/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 11/11/2024, DJe de 13/11/2024.)  grifou-se
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO. PRESCRIÇÃO. RECURSO DESPROVIDO. I. CASO EM EXAME
+1. Agravo interno interposto contra decisão que negou provimento a agravo em recurso especial em ação revisional de juros remuneratórios contratuais com pedido de repetição de indébito e de reparação de danos.
+2. O Tribunal de origem reconheceu a prescrição da pretensão, adotando a data de assinatura do contrato como termo inicial do prazo prescricional decenal. II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se a prescrição decenal se aplica à ação revisional de contrato bancário com termo inicial na data de assinatura do contrato. III. RAZÕES DE DECIDIR
+4. A alegação de nulidade do negócio jurídico não afasta a prescrição, pois, segundo reconhecido pela instância de origem, a pretensão inicial não envolvia a declaração de nulidade do negócio jurídico, e sim a revisão dos termos contratuais.
+5. O entendimento consolidado no Superior Tribunal de Justiça é o de que a prescrição decenal se aplica às ações revisionais de contrato bancário, sendo o termo inicial a data de assinatura do contrato, conforme o art. 205 do Código Civil.
+6. A revisão do entendimento acerca dos marcos temporais utilizados para cálculo de prescrição é inviável em recurso especial, por implicar reexame do conjunto fático-probatório, o que encontra óbice nas Súmulas n. 5 e 7 do STJ.
+7. É devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC, em decorrência do desprovimento do anterior agravo em recurso especial.
+8. A aplicação da multa prevista no art. 1.021, § 4º, do CPC não decorre do mero desprovimento do agravo interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou da improcedência qualificada do recurso. IV. DISPOSITIVO E TESE
+9. Agravo interno desprovido.
+Tese de julgamento: "1. A prescrição decenal se aplica às ações revisionais de contrato bancário, sendo o termo inicial a data de assinatura do contrato. 2. Rever o entendimento do tribunal de origem acerca das premissas firmadas com base na análise do acervo fático-probatório dos autos atrai a incidência da Súmula n. 7 do STJ. 3. A aplicação da multa do art. 1.021, § 4º, do CPC requer a configuração de intuito manifestamente protelatório".
+(AgInt no AREsp n. 2.577.859/GO, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 14/4/2025, DJEN de 24/4/2025.)  grifpu-se
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TEMPESTIVIDADE RECURSAL. FERIADO LOCAL. COMPROVAÇÃO. PRESCRIÇÃO. COBRANÇA DE DÍVIDA LÍQUIDA CONSTANTE DE MÚTUO. REVISÃO. REEXAME DE FATOS E PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS N. 5 E 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão da Presidência do STJ que não conheceu do recurso especial por intempestividade, em razão da não comprovação de feriado local no ato da interposição do recurso.
+2. O recurso especial foi interposto contra acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul em apelação que negou provimento ao recurso e reconheceu a prescrição quinquenal para a cobrança de dívida líquida constante de instrumento particular.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a superveniência da Lei n. 14.939/2024, que permite a correção de vícios formais relacionados à comprovação de feriados locais, é aplicável a recursos interpostos antes de sua vigência.
+4. Outra questão é se a revisão da conclusão adotada na origem acerca de se tratar a ação de cobrança de obrigação líquida constante de instrumento particular demanda o reexame de provas e fatos e a interpretação de cláusulas contratuais.
+III. Razões de decidir
+5. A Lei n. 14.939/2024 caracteriza fato novo aplicável às situações não transitadas em julgado que discutam a tempestividade recursal, permitindo a correção de vícios formais relacionados à comprovação de feriados locais.
+6. A revisão da conclusão adotada na origem acerca da ação ser de cobrança de dívida líquida formalizada em instrumento particular a fazer incidir o prazo prescricional do art. 206, § 5º, I, do Código Civil, exige o reexame de fatos e provas e a interpretação de cláusulas contratuais.
+7. A decisão de origem se coaduna com a jurisprudência do STJ, que estabelece o prazo prescricional quinquenal para a cobrança de dívida líquida constante de instrumento público ou particular, conforme art. 206, § 5º, I, do Código Civil.
+IV. Dispositivo e tese
+8. Agravo interno desprovido.
+Tese de julgamento: "1. A Lei n. 14.939/2024 aplica-se a situações não transitadas em julgado que discutam a tempestividade recursal, permitindo a correção de vícios formais relacionados à comprovação de feriados locais. 2. Aplicam-se as Súmulas n. 5 e 7 do STJ quando a revisão do entendimento do Tribunal de origem demandar a interpretação de cláusulas contratuais e o reexame de fatos e provas".
+(AgInt no AREsp n. 2.809.987/MS, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 14/4/2025, DJEN de 24/4/2025.)  grifou-se
+Inafastável, no ponto, o óbice da Súmula 7/STJ.
+2. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
