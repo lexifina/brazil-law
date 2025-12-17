@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/12/2025 a 17/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Carlos Pires Brandão, Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. FLAGRANTE ILEGALIDADE. DOSIMETRIA DA PENA. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. FRAÇÃO DE REDUÇÃO. APLICAÇÃO NO GRAU INTERMEDIÁRIO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Para a aplicação da minorante prevista no § 4º do art. 33 da Lei de Drogas, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa nem se dedique a atividades delituosas. Isso porque a razão de ser da causa especial de diminuição de pena é justamente punir com menor rigor o pequeno traficante.
+2. O decisum impugnado retrata situação corriqueira no cenário dos crimes de tráfico ilícito de entorpecentes, em que um indivíduo é cooptado por organização criminosa, para realizar o transporte de vultosa quantidade de entorpecentes, na condição de "mula".
+3. Nesse sentido, conforme fundamentei na decisão agravada, a redução de 1/2 é a adequada ao caso concreto, pois em que pese 490 g de maconha não se tratar de quantidade ínfima, também não ultrapassa o comumente apreendido em delitos dessa espécie.
+4. Agravo regimental não provido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+O MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO interpõe agravo regimental contra decisão de minha relatoria (fls. 84-87) em que não conheci do habeas corpus, entretanto, concedi de ofício, parcialmente, a ordem, para reconhecer a minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006, no patamar de 1/2, ao agravado.
+No regimental, sustenta, em síntese, que a aplicação mínima da causa de diminuição do art. 33, § 4º, da Lei de Drogas foi devidamente fundamentada pelas instâncias ordinárias, em razão da quantidade de droga apreendida, da gravidade concreta da conduta e da caracterização de tráfico interestadual.
+Argumenta que a apreensão de aproximadamente 490 g de maconha, transportada em ônibus de linha São Paulo/SP - Vitória/ES, revela maior reprovabilidade e risco à ordem pública, o que justifica reprimenda de 5 anos de reclusão, em regime inicial fechado. Por fim, afirma que a decisão monocrática seria desproporcional e inadequada à gravidade do delito, ao reduzir a pena e fixar o regime aberto.
+Requer, assim, a reconsideração do decisum ou a submissão do feito a julgamento pelo órgão colegiado.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. FLAGRANTE ILEGALIDADE. DOSIMETRIA DA PENA. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. FRAÇÃO DE REDUÇÃO. APLICAÇÃO NO GRAU INTERMEDIÁRIO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Para a aplicação da minorante prevista no § 4º do art. 33 da Lei de Drogas, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa nem se dedique a atividades delituosas. Isso porque a razão de ser da causa especial de diminuição de pena é justamente punir com menor rigor o pequeno traficante.
+2. O decisum impugnado retrata situação corriqueira no cenário dos crimes de tráfico ilícito de entorpecentes, em que um indivíduo é cooptado por organização criminosa, para realizar o transporte de vultosa quantidade de entorpecentes, na condição de "mula".
+3. Nesse sentido, conforme fundamentei na decisão agravada, a redução de 1/2 é a adequada ao caso concreto, pois em que pese 490 g de maconha não se tratar de quantidade ínfima, também não ultrapassa o comumente apreendido em delitos dessa espécie.
+4. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Em que pesem os argumentos despendidos pelo agravante, entendo que não lhe assiste razão.
+Inicialmente, reitero que a conclusão pela possibilidade de aplicação da referida minorante não demanda o revolvimento de matéria fático-probatória, procedimento, de fato, vedado na via estreita do habeas corpus.
+Este writ, diversamente, requer apenas a revaloração de questões incontroversas que já estão delineadas nos autos, bem como a discussão, meramente jurídica, acerca da interpretação a ser dada sobre os fundamentos apontados pela instância de origem para negar ao réu a incidência da causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006.
+Conforme destaquei na decisão monocrática, para a aplicação da minorante do tráfico privilegiado, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa nem se dedique a atividades delituosas. Isso porque a razão de ser da causa especial de diminuição de pena é justamente punir com menor rigor o pequeno traficante.
+No caso em análise, o Tribunal de Justiça local justificou a fração da redutora no patamar de 1/6, sob os seguintes fundamentos (fls. 16-17):
+ ..  Não há, ainda, que se falar em aplicação do redutor do art. 33, § 4º, da Lei de Drogas, em seu grau máximo. Na verdade, insta observar que o acusado foi beneficiado com a concessão de tal benesse que, em nosso entender, não encontraria acatamento, haja vista que ele transportava quase meio quilo de maconha, restando evidenciada sua dedicação a atividades criminosas. Ou seja, um neófito jamais teria em sua posse semelhante quantidade de entorpecentes, de sorte que seria impertinente se pensar em mitigação da sanção. Entretanto, ante a ausência de recurso ministerial, nada pode ser alterado, sob pena de reformatio in pejus.
+ ..
+Uma vez mais, afirmo que a redução de 1/2 é a adequada ao caso concreto, com base nos critérios de proporcionalidade e reprovabilidade da conduta, pois em que pese 490 g de maconha não se tratar de quantidade ínfima, também não ultrapassa o comumente apreendido em delitos dessa espécie.
+Nesse sentido, tanto a Quinta quanto a Sexta Turmas deste Superior Tribunal firmaram o entendimento de que, considerando que o legislador não estabeleceu especificamente os parâmetros para a escolha da fração de redução de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, devem ser consideradas, para orientar o cálculo da minorante, as circunstâncias judiciais previstas no art. 59 do Código Penal, especialmente o disposto no art. 42 da Lei de Drogas. A propósito, confira-se o seguinte julgado: HC n. 379.203/SC, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 10/2/2017.
+Ressalto que, pela análise atenta do acórdão impugnado, o decisum retrata situação corriqueira no cenário dos crimes de tráfico ilícito de entorpecentes, em que um indivíduo é cooptado por organização criminosa, para realizar o transporte de vultosa quantidade de entorpecentes, na condição de "mula", em troca de grande soma em dinheiro.
+Somado a isso, apesar de o Parquet apontar que o tráfico interestadual justificaria redução em patamar menor, tal circunstância já foi valorada com a aplicação da majorante do art. 40, V, da Lei n. 11.343/2006, e usá-la novamente implicaria indevido bis in idem.
+Consequentemente, entendo que não há elementos capazes de modificar o posicionamento firmado na decisão agravada.
+À vista do exposto, nego provimento ao agrav o regimental.
