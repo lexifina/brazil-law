@@ -1,0 +1,113 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VÍCIO. INEXISTÊNCIA. EMBARGOS REJEITADOS.
+I. CASO EM EXAME
+1. Embargos de declaração opostos contra agravo regimental não desprovido, mantendo a existência de justa causa para ingresso no domicílio e o afastamento do tráfico privilegiado e a aplicação do princípio da consunção.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se existente ambiguidade, obscuridade, contradição ou omissão na decisão embargada.
+III. RAZÕES DE DECIDIR
+3. O desprovimento do agravo regimental foi fundamentado na validade da ação policial amparada em denúncia anônima rica em detalhes, cuja desconstituição encontra óbice na Súmula n. 7/STJ. Além do mais, que a posse de arma de fogo, no mesmo contexto fático, é fundamento idôneo a afastar o tráfico privilegiado.
+4. Ausente qualquer vício, constata-se a mera discordância da decisão, com a pretensão de nova análise do recurso, o que é incabível nos embargos de declaração.
+IV. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por JACKSON NUNES DA ROSA contra acórdão que desproveu o agravo regimental no recurso especial em razão da validade da ação policial de ingresso em domicílio, do afastamento do tráfico privilegiado, inclusive com a incidência da Súmula n. 7/STJ.
+A parte embargante reitera o mérito do recurso especial, sustentando a ilicitude das provas obtidas por meio de "invasão desautorizada do domicílio do Agravado" (fl. 835).
+Também aponta a necessidade de readequação da pena, devendo ser aplicado o tráfico privilegiado, bem como a causa de aumento do art. 40, IV, da Lei n. 11.343/2006 ou do art. 14 da Lei n. 10.8268/2003.
+Requer o acolhimento dos embargos para sanar os defeitos apontados.
+Contrarrazões do Ministério Público do Estado do Rio Grande do Sul às fls. 861-864, manifestando-se pela rejeição dos embargos.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VÍCIO. INEXISTÊNCIA. EMBARGOS REJEITADOS.
+I. CASO EM EXAME
+1. Embargos de declaração opostos contra agravo regimental não desprovido, mantendo a existência de justa causa para ingresso no domicílio e o afastamento do tráfico privilegiado e a aplicação do princípio da consunção.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se existente ambiguidade, obscuridade, contradição ou omissão na decisão embargada.
+III. RAZÕES DE DECIDIR
+3. O desprovimento do agravo regimental foi fundamentado na validade da ação policial amparada em denúncia anônima rica em detalhes, cuja desconstituição encontra óbice na Súmula n. 7/STJ. Além do mais, que a posse de arma de fogo, no mesmo contexto fático, é fundamento idôneo a afastar o tráfico privilegiado.
+4. Ausente qualquer vício, constata-se a mera discordância da decisão, com a pretensão de nova análise do recurso, o que é incabível nos embargos de declaração.
+IV. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+VOTO
+A decisão ora embargada está assim ementada (fls. 813-814):
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS E POSSE DE ARMA DE FOGO COM NUMERAÇÃO SUPRIMIDA. NULIDADE DA PROVA (VIOLAÇÃO DE DOMICÍLIO). TRÁFICO PRIVILEGIADO. PRINCÍPIO DA CONSUNÇÃO. SÚMULA N. 7/STJ. DECISÃO MONOCRÁTICA MANTIDA. AGRAVO REGIMENTAL DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que negou provimento ao recurso especial, mantendo, assim, o acórdão do Tribunal de origem que condenou o agravante pelos crimes de tráfico de drogas e posse de arma de fogo com numeração suprimida. O recorrente buscava a absolvição, alegando a ilicitude das provas por violação de domicílio, e, subsidiariamente, a aplicação da minorante do tráfico privilegiado e a absorção do crime de arma pelo de tráfico.
+II. Questão em discussão
+2. A controvérsia cinge-se em definir se: (i) a conclusão da Corte de origem sobre a existência de justa causa para o ingresso em domicílio, baseada em denúncia anônima detalhada e corroborada por diligências prévias, pode ser revista por esta Corte Superior, ou se tal análise configura reexame probatório (Súmula n. 7/STJ); e (ii) se a aferição da dedicação do agente a atividades criminosas e da autonomia entre os delitos de tráfico e posse de arma, para fins de afastar o tráfico privilegiado e o princípio da consunção, demanda reexame de provas, vedado na via especial.
+III. Razões de decidir
+3. A jurisprudência desta Corte admite a validade da ação policial amparada em denúncia anônima rica em detalhes, desde que corroborada por atos investigativos preliminares que confirmem a suspeita. Tendo o Tribunal a quo concluído pela existência de fundadas razões, a desconstituição dessa premissa fática encontra óbice na Súmula n. 7/STJ.
+4. A posse de arma de fogo, mormente com numeração suprimida, no mesmo contexto fático da traficância, constitui fundamento idôneo para afastar a minorante do art. 33, § 4º, da Lei n. 11.343/2006, por indicar a dedicação do agente a atividades criminosas . Rever tal conclusão exigiria reexame probatório.
+5. Os crimes de tráfico de drogas e posse de arma de fogo são, em regra, autônomos. A aplicação do princípio da consunção é excepcional e depende da análise do contexto fático para verificar a existência de um nexo de subordinação. Se a instância ordinária não reconheceu tal liame, a revisão do julgado é vedada pela Súmula n. 7/STJ.
+IV. Dispositivo e tese
+6. Agravo regimental desprovido.
+Tese de julgamento: A alteração das conclusões das instâncias ordinárias acerca da existência de justa causa para o ingresso em domicílio, da dedicação do agente a atividades criminosas para fins de afastamento do tráfico privilegiado, e da autonomia entre os crimes de tráfico e posse de arma, implica, necessariamente, o reexame do conjunto fático-probatório, providência vedada em sede de recurso especial, nos termos da Súmula n. 7 do STJ.
+Nos termos do art. 619 do Código de Processo Penal, é cabível a oposição de embargos de declaração quando houver no julgado ambiguidade, obscuridade, contradição ou omissão, hipóteses inexistentes.
+Cumpre esclarecer que a obrigatoriedade de fundamentação das decisões judiciais não impõe ao magistrado a obrigação de responder a todos os questionamentos das partes, tampouco de utilizar-se dos fundamentos que elas entendem serem os mais adequados para solucionar a causa posta em apreciação, bastando a fundamentação suficiente ao deslinde da questão. Nesse sentido: EDcl no CC 109723 / PB, relatora Ministra Assusete Magalhães, Terceira Seção, julgado em 10/10/2012, DJe 31/10/2012.
+Além disso, não são cabíveis os embargos de declaração com a finalidade de afastar supostas contradições entre o caso em apreço e a jurisprudência ou a legislação que o embargante entende aplicável à hipótese, pois, como cediço, a contradição que autoriza a oposição dos aclaratórios é a interna do próprio julgado. Nesse sentido:
+ ..  a contradição passível de ser sanada na via dos embargos declaratórios é a contradição interna, entendida como ilogicidade ou incoerência existente entre os fundamentos e o dispositivo do julgado em si mesmo considerado, e não a contradição externa, relativa à incompatibilidade do julgado com tese, lei ou precedente tido pelo Embargante como correto" (EDcl no AgRg no HC n. 827.911/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 19/9/2023, DJe de 25/9/2023).
+Como relatado, o embargante reitera os termos do recurso especial.
+Ao contrário do alegado, a decisão embargada foi clara no exame da questão, apontando a mera repetição das teses, inclusive com incidência do óbice da Súmula n. 7/STJ (fls. 1.137-1.142):
+Com efeito, extrai-se que aduz o agravante, em suma, a repetição das teses já veiculadas no recurso especial, as quais foram devidamente analisadas e afastadas na decisão monocrática ora combatida, cujos fundamentos se alinham à jurisprudência pacífica desta Corte Superior. A decisão agravada, portanto, deve ser mantida por seus próprios e jurídicos fundamentos, os quais reitero e adoto.
+Quanto à violação de domicílio, a decisão monocrática foi clara ao demonstrar que o acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, soberano na análise dos fatos, concluiu pela legalidade da ação policial. Consignou-se que o ingresso na residência não foi arbitrário, mas precedido de fundadas razões (justa causa), consistentes em denúncia anônima rica em detalhes (modus operandi, modelo, cor e placa do veículo), devidamente confirmada por diligências prévias dos agentes que, ao abordarem o réu em seu veículo, encontraram substâncias entorpecentes, caracterizando o estado de flagrância de crime permanente.
+Pelo que se extrai, o agravante insiste em questionar a veracidade dos detalhes da denúncia (cor do veículo) e a existência do flagrante prévio à entrada no imóvel. Tais alegações, contudo, visam a desconstituir as premissas fáticas estabelecidas na origem, o que é inviável na via estreita do recurso especial, a teor da Súmula 7 desta Corte.
+Anote-se que o entendimento desta Corte é firme no sentido de que, havendo justa causa, aferida a partir de elementos concretos, é lícito o ingresso em domicílio sem mandado judicial, especialmente em crimes de natureza permanente. Nesse sentido:
+"DIREITO PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. BUSCA PESSOAL. DENÚNCIA ANÔNIMA. FUNDADA SUSPEITA. FLAGRANTE DELITO. ILICITUDE DA PROVA NÃO CONFIGURADA. ORDEM DENEGADA. I. CASO EM EXAME
+1. Habeas corpus impetrado em favor de Rafael Rodrigues Moraes, condenado à pena de 5 anos e 10 meses de reclusão, inicialmente em regime fechado, por tráfico de drogas (art. 33, caput, da Lei n. 11.343/2006). A defesa sustenta a ilicitude das provas obtidas em decorrência de busca pessoal, realizada sem justa causa, pleiteando a declaração de nulidade do processo. II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em determinar se as provas colhidas durante a busca pessoal devem ser consideradas ilícitas, em razão da ausência de justa causa para as diligências policiais, embasadas em denúncia anônima. III. RAZÕES DE DECIDIR
+3. A jurisprudência do STJ estabelece que a realização de busca pessoal e domiciliar exige fundada suspeita baseada em elementos objetivos, não sendo suficiente a mera denúncia anônima. No caso, a atuação policial se justifica pela existência de denúncia detalhada, acompanhada de características precisas dos suspeitos e da localização das drogas.
+4. A busca e apreensão de drogas confirmam a situação de flagrância, o que autoriza a intervenção policial sem necessidade de mandado, em conformidade com os arts. 302 e 303 do CPP. O tráfico de drogas é crime permanente, permitindo a ação policial contínua enquanto perdura a conduta ilícita.
+5. A denúncia anônima, quando acompanhada de outras circunstâncias verificáveis, como a visualização dos suspeitos com as características denunciadas e a apreensão de drogas no local indicado, é suficiente para legitimar a diligência policial, não havendo ilegalidade na coleta das provas.
+6. A verificação de eventual nulidade das provas demandaria reexame de matéria fático-probatória, o que é inviável em sede de habeas corpus, conforme jurisprudência consolidada do STJ.
+IV. ORDEM DE HABEAS CORPUS DENEGADA.
+(HC n. 864.872/MG, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 15/10/2024, DJe de 22/10/2024.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. BUSCA PESSOAL. FUNDADAS RAZÕES. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que conheceu parcialmente do recurso especial e, nessa extensão, negou-lhe provimento. A parte agravante alega violação dos artigos 244 e 386, VII, do Código de Processo Penal, sustentando a ilicitude da abordagem policial e a insuficiência de provas para condenação.
+II. Questão em discussão
+2. A discussão consiste em saber se a busca pessoal realizada com base em denúncia anônima especificada e diligência prévia configura ilegalidade e se há provas suficientes para a condenação do réu pelo crime de tráfico de drogas.
+III. Razões de decidir
+3. A busca pessoal foi considerada legítima, pois os agentes policiais agiram com base em denúncia anônima especificada, que indicava a prática de tráfico de drogas no local, conferindo justa causa para a ação policial.
+4. O Tribunal local concluiu que o réu cometeu a infração pela qual foi condenado, com base em análise do conjunto fático-probatório, sendo inviável a revisão dessa conclusão em recurso especial, conforme a Súmula n. 7/STJ.
+5. As provas colhidas, incluindo depoimentos de policiais e testemunhas, foram consideradas suficientes para fundamentar a condenação do réu pelo crime de tráfico de drogas.
+IV. Dispositivo e tese
+6. Agravo regimental não provido.
+Tese de julgamento: 1. A busca pessoal é legítima quando realizada com base em denúncia anônima especificada e diligência prévia. 2. A revisão de conclusão fática em recurso especial é inviável, conforme a Súmula n. 7/STJ. 3. As provas colhidas foram suficientes para fundamentar a condenação pelo crime de tráfico de drogas.
+Dispositivos relevantes citados: CPP, art. 244; CPP, art. 386, VII.
+Jurisprudência relevante citada: STJ, HC n. 774.140/SP, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 25/10/2022; STJ, AgRg no AREsp n. 2.587.673/DF, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 12/11/2024; STJ, AgRg no AREsp n. 1.252.317/MG, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 3/5/2018.
+(AgRg no REsp n. 2.206.550/PA, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 1/7/2025, DJEN de 5/8/2025.)"
+No que tange ao tráfico privilegiado, a decisão agravada manteve o afastamento do benefício por entender idônea a fundamentação do Tribunal a quo. Conforme frisado, a dedicação a atividades criminosas foi extraída não apenas da diversidade de entorpecentes, mas, notadamente, da apreensão, no mesmo contexto, de uma pistola com numeração suprimida e municiada.
+Conforme a jurisprudência deste Tribunal Superior, a posse de arma de fogo constitui elemento apto a indicar a maior periculosidade do agente e seu envolvimento habitual com a criminalidade, afastando, assim, a minorante do art. 33, § 4º, da Lei de Drogas. Confira-se:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. SUCEDÂNEO DE REVISÃO CRIMINAL. IMPOSSIBILIDADE. TRÂNSITO EM JULGADO. AFASTAMENTO DA MINORANTE DO TRÁFICO. FUNDAMENTAÇÃO CONCRETA. NECESSIDADE DE REEXAME DE PROVAS. VIA INADEQUADA. AUSÊNCIA DE ILEGALIDADE FLAGRANTE. AGRAVO REGIMENTAL DESPROVIDO. I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus impetrado como sucedâneo de revisão criminal, após o trânsito em julgado da condenação. O agravante sustenta que a Corte estadual afastou a minorante do tráfico privilegiado com fundamentos inidôneos. II. QUESTÃO EM DISCUSSÃO
+2. Definir se o habeas corpus pode ser utilizado como sucedâneo de revisão criminal para reavaliar a incidência da minorante do tráfico privilegiado.
+3. Verificar a existência de ilegalidade manifesta que justifique a concessão da ordem de ofício.
+III. RAZÕES DE DECIDIR
+4. O Superior Tribunal de Justiça não possui competência para processar habeas corpus como substitutivo de revisão criminal, conforme o art. 105, I, e, da Constituição Federal.
+5. A jurisprudência do STJ é pacífica no sentido de que, após o trânsito em julgado, a revisão criminal deve ser ajuizada no Tribunal de Justiça competente.
+6. Tendo a minorante do tráfico privilegiado sido negada mediante fundamento idôneo consistente na dedicação do paciente ao tráfico, por terem sido apreendidos petrechos comumente utilizados na prática reiterada do tráfico de drogas, como balança de precisão, ácido bórico e sacolas comumente utilizadas para a embalagem de drogas, além de uma arma de fogo com seis munições intactas, a pretendida revisão do julgado, com vistas à concessão da minorante, mostra-se descabida na estreita via do writ, na medida em que a análise da aplicabilidade da minorante demandaria o revolvimento do conjunto fático-probatório.
+IV. AGRAVO REGIMENTAL DESPROVIDO.
+(AgRg no HC n. 976.766/ES, de minha relatoria, Quinta Turma, julgado em 22/4/2025, DJEN de 28/4/2025.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. DECISÃO DA PRESIDÊNCIA DESTA CORTE. PROCESSO PENAL. TRÁFICO DE DROGAS E POSSE ILEGAL DE ARMAS DE FOGO. PLEITO DE RECONHECIMENTO DO TRÁFICO PRIVILEGIADO. IMPOSSIBILIDADE. CONDENAÇÃO SIMULTÂNEA PELA POSSE ILEGAL DE ARMAS DE FOGO DE USO PERMITIDO E RESTRITO. CONTEXTO FÁTICO QUE DENOTA DEDICAÇÃO DO RÉU ÀS ATIVIDADES CRIMINOSAS. AGRAVO REGIMENTAL DESPROVIDO.
+1. "A jurisprudência desta Corte Superior tem mantido o afastamento do tráfico privilegiado, na hipótese em que o comércio espúrio é cometido em contexto em que há apreensão de arma de fogo" (AgRg no HC n. 864.884/RN, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 12/8/2024, DJe de 22/8/2024).
+2. Agravo regimental desprovido.
+(AgRg no HC n. 994.627/PR, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 4/6/2025, DJEN de 10/6/2025.)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. DECISÃO TRANSITADA EM JULGADO. UTILIZAÇÃO COMO SUBSTITUTIVO DE REVISÃO CRIMINAL. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE. ART. 105, I, E, DA CF. AGRAVO IMPROVIDO.
+1. A ocorrência do trânsito em julgado do ato objeto da impetração torna inviável a apreciação do pedido nesta instância superior.
+2. O habeas corpus não pode ser utilizado como substitutivo de revisão criminal, sob pena de configuração da supressão de instância, em desacordo com o que dispõe o art. 105, I, e, da Constituição Federal acerca das competências do Superior Tribunal de Justiça.
+3. Inexistência de flagrante ilegalidade que autorize a concessão da ordem de ofício, pois a quantidade e a natureza da droga apreendida constituem fundamento válido para a majoração da pena-base do crime de tráfico de drogas, não se verificando a ocorrência de nenhuma ilegalidade que autorize a reforma da decisão recorrida.
+Precedentes.
+4. Devidamente fundamentado o afastamento da minorante do tráfico privilegiado em razão de outras circunstâncias do caso concreto além da quantidade e da variedade de drogas apreendidas, a evidenciar a dedicação do recorrente à atividade criminosa.
+5. Foi consignado pela origem que a prisão ocorreu em local conhecido pela prática do tráfico de drogas, em horário avançado da noite, na companhia de menor e na posse de arma de fogo e munições.
+Ademais, ressaltou que o agravante cometeu o crime apenas 3 meses depois de ser beneficiado com a liberdade provisória em outro processo.
+6. Revisar tal entendimento demandaria a reanálise do conjunto fático-probatório dos autos, o que é vedado na via do célere habeas corpus.
+7. Quanto ao aumento da pena-base do crime de porte de arma de fogo de uso restrito, a pena-base foi aumentada de maneira fundamentada no fato de a arma apreendida ser uma submetralhadora automática de fabricação caseira, a qual, além de não poder ser rastreada pelos órgãos de controle, traz maior risco à segurança, pois foi produzida sem as especificações técnicas necessárias. Ademais, no momento da apreensão, a arma estava municiada com sete munições. Tais elementos, que demonstram maior reprovabilidade da conduta, não são inerentes ao tipo penal, inexistindo violação ao princípio do ne bis in idem no aumento da pena na primeira fase da dosimetria.
+8. Agravo regimental improvido.
+(AgRg no HC n. 956.294/ES, relator Ministro Og Fernandes, Sexta Turma, julgado em 18/6/2025, DJEN de 26/6/2025.)
+No caso, ainda, a revisão da conclusão adotada pelo Tribunal Estadual, mais uma vez, exigiria o reexame de fatos e provas, vedado pela Súmula 7.
+Por fim, quanto ao princípio da consunção, a decisão monocrática aplicou corretamente o entendimento de que os crimes de tráfico de entorpecentes e posse ilegal de arma de fogo são, em regra, autônomos, pois tutelam bens jurídicos distintos. A absorção de um delito pelo outro é medida excepcional, que depende da comprovação de um nexo funcional e de subordinação direta e inequívoca entre as condutas, o que não foi reconhecido pelas instâncias ordinárias. Alterar a conclusão de que consistiriam em "delitos distintos" para reconhecer que a arma se destinava exclusivamente à prática do tráfico demandaria aprofundada incursão probatória, o que é vedado pela Súmula 7/STJ. Aliás, reprisa-se que o mesmo óbice se aplica ao pleito subsidiário de desclassificação da conduta.
+Destarte, não tendo o agravante apresentado argumentos novos e suficientes para infirmar os fundamentos da decisão agravada, a sua manutenção é medida que se impõe.
+Constata-se, pois, tratar-se de mero inconformismo com o resultado do julgado, que lhe foi desfavorável, o que não se admite.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
