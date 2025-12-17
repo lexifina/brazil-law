@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por MARLENE MARIA DE ARAÚJO e outras, com fundamento no art. 105, III, a e c, da Constituição Federal, para impugnar acórdão proferido pelo Tribunal de Justiça de Mato Grosso, assim ementado (e-STJ, fl. 320):
+DIREITO ADMINISTRATIVO. AÇÃO RESCISÓRIA. CONTRATAÇÃO TEMPORÁRIA DE PROFESSORES. EXPECTATIVA DE DIREITO. IMPROCEDÊNCIA.
+I. Caso em exame
+1. Ação rescisória proposta por Marlene Maria de Araújo e outras contra o Município de Pontal do Araguaia, objetivando a reforma de acórdão da Segunda Câmara de Direito Público e Coletivo que julgou improcedente a demanda para nomeação das autoras, aprovadas em cadastro de reserva em concurso público, com base no entendimento de que a aprovação em cadastro de reserva gera apenas expectativa de direito e não direito subjetivo imediato ao cargo.
+II. Questão em discussão
+2. A questão em discussão consiste em verificar se o acórdão rescindendo violou os princípios constitucionais da segurança jurídica, da boa-fé, da vedação ao comportamento contraditório e da razoabilidade ao considerar que a contratação temporária de professores pelo Município, em caráter excepcional, não representa violação ao direito das candidatas aprovadas em cadastro de reserva.
+III. Razões de decidir
+3. A ação rescisória, prevista no art. 966 do CPC, permite a revisão de decisão transitada em julgado apenas em casos excepcionais, como quando há prova nova que poderia alterar o resultado do julgamento. No caso em questão, as provas apresentadas pelas autoras confirmam a regularidade das contratações temporárias realizadas pelo Município motivadas por necessidades transitórias e regulamentadas por legislações locais.
+4. Conforme precedentes do STF e do STJ a aprovação fora do número de vagas garante aos candidatos apenas expectativa de direito e o município possui discricionariedade para optar por contratações temporárias conforme sua necessidade sem que isso configure preterição.
+IV. Dispositivo e tese
+5. Pedido improcedente.
+Tese de julgamento: "1. A aprovação em concurso público em cadastro de reserva gera mera expectativa de direito à nomeação, não conferindo direito subjetivo imediato ao cargo. 2. A contratação temporária por ente público para suprir necessidade transitória não caracteriza preterição dos candidatos em cadastro de reserva."
+Sem oposição de embargos de declaração, foi interposto diretamente recurso especial, em cujas razões as recorrentes alegaram que a decisão combatida negou vigência aos arts. 2º, XIII, Lei Federal 9784/1999 e 966, VII e V, do CPC e, ainda, afronta o art. 37, II, da Constituição Federal de 1988.
+Aduziram, também, que a decisão do TJ não observou os princípios constitucionais da segurança jurídica (princípio da confiança), boa-fé e da razoabilidade.
+Por fim, sustentaram haver interpretação conflitante entre a decisão recorrida e a jurisprudência do STJ (e-STJ, fls. 355-384).
+O processamento do apelo especial não foi admitido pela Corte de origem (e-STJ, fl. 428-421), o que ensejou a interposição do presente agravo (e-STJ, fls. 423-454).
+Brevemente relatado, decido.
+As agravantes impugnaram, ainda que genericamente, os fundamentos da decisão de inadmissibilidade na origem, razão por que conheço do agravo e passo à análise do recurso especial.
+O REsp, como relatado, traz três teses: a) negativa de vigência aos arts. 2º, XIII, Lei Federal 9784/1999 e 966, VII e V, do CPC; b) afronta ao art. 37, II, da Constituição Federal de 1988 e aos princípios constitucionais da segurança jurídica (princípio da confiança), boa-fé e da razoabilidade; e c) dissídio entre a decisão recorrida e a jurisprudência do STJ.
+Noto que o acórdão recorrido julgou improcedente a ação rescisória por não reconhecer ilegalidades e inconstitucionalidades na anterior decisão, que se postula a rescisão.
+No item 3 da ementa transcrita está evidente o fundamento de legalidade, quando atesta que:
+ ..  a ação rescisória, prevista no art. 966 do CPC, permite a revisão de decisão transitada em julgado apenas em casos excepcionais, como quando há prova nova que poderia alterar o resultado do julgamento. No caso em questão, as provas apresentadas pelas autoras confirmam a regularidade das contratações temporárias realizadas pelo Município motivadas por necessidades transitórias e regulamentadas por legislações locais .. .
+Já no item 2 consta que o debate nos autos tem natureza constitucional, quando se afirma que:
+ ..  a questão em discussão consiste em verificar se o acórdão rescindendo violou os princípios constitucionais da segurança jurídica, da boa-fé, da vedação ao comportamento contraditório e da razoabilidade ao considerar que a contratação temporária de professores pelo Município, em caráter excepcional, não representa violação ao direito das candidatas aprovadas em cadastro de reserva"  .. .
+Ao proferir seu voto, a Desembargadora relatora expressamente fez constar que "depreende-se, pois, da leitura do acórdão  que se pediu a rescisão , a ausência de afronta aos preceitos da Constituição Federal de 1988, do Código de Processo Civil e dos acórdãos citados em inicial, eis que todos os institutos não são aplicáveis ao caso concreto" (e-STJ, fl. 318).
+Outra evidência de que o Tribunal de Justiça fundamentou sua decisão em matéria constitucional é que as recorrentes trouxeram nas razões do recurso especial uma extensa fundamentação relativa à ofensa de princípios da Magna Carta.
+Entretanto, deixaram as recorrentes de interpor o necessário e correspondente recurso extraordinário, o que inviabiliza, portanto, o conhecimento do presente recurso especial, consoante o enunciado da Súmula 126 do STJ: "É inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário".
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro em 1% (um ponto percentual) os honorários advocatícios sucumbenciais fixados na instância ordinária, observados os limites e parâmetros dos §§ 3º e 5º do mesmo dispositivo. Fica, no entanto, suspenso o pagamento da verba honorária, uma vez que as autoras são beneficiárias da assistência judiciária gratuita (art. 98, § 3º, do Código de Processo Civil).
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. HÁ FUNDAMENTO LEGAL E CONSTITUCIONAL NO ACORDÃO RECORRIDO. PORÉM, NÃO HOUVE INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. ÓBICE DA SUMULA 126/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
