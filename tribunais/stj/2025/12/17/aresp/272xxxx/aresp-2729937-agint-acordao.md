@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/12/2025 a 17/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Afrânio Vilela, Francisco Falcão, Maria Thereza de Assis Moura e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. TEMA N. 1.076/STJ. INTERPRETAÇÃO DIVERGENTE DE NORMA DIVERSA DE TRATADO OU LEI FEDERAL. AUSÊNCIA DE PREQUESTIONAMENTO DA TESE RECURSAL. SÚMULA N. 211/STJ. SEM ALEGAÇÃO DE VIOLAÇÃO DO ART. 1022 DO CPC. AGRAVO INTERNO DESPROVIDO.
+1. Quanto à controvérsia, sobre o Tema n. 1.076 do STJ, não é cabível o Recurso Especial quando se busca analisar a violação ou a interpretação divergente de norma diversa de tratado ou lei federal. Precedentes.
+2. O Tribunal de origem, apesar da oposição de embargos de declaração, não apreciou a tese sob o viés pretendido pela parte recorrente no sentido de que o valor da causa é muito baixo, motivo pelo qual está ausente o necessário prequestionamento, nos termos da Súmula n. 211 do STJ.
+3. Não houve alegação de violação ao art. 1.022 do Código de Processo Civil, a fim de que fosse constatada a eventual omissão por parte da Corte de origem, indispensável, inclusive, para fins de configuração do prequestionamento ficto de matéria estritamente de direito, nos termos do art. 1.025 do Estatuto Processual.
+4. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto (fls. 350-357) contra decisão da Presidência desta Corte que conheceu do agravo para não conhecer do recurso especial (fls. 345-346).
+A decisão que conheceu do agravo para não conhecer do recurso especial fundamentou-se no entendimento pacífico desta Corte, de que não é cabível o Recurso Especial quando se busca analisar a violação ou a interpretação divergente de norma diversa de tratado ou lei federal, além da ausência de prequestionamento.
+No presente agravo interno, a parte agravante, CLAUDEMIR LIUTI JÚNIOR, aponta:
+a) impugnação da inadmissão por suposta violação do Tema n. 1.076/STJ, esclarecendo que a causa de pedir é exclusivamente a violação do art. 85, §8º, do CPC (fl. 354);
+b) demonstração de prequestionamento: acórdão do TRF-3 analisou o art. 85, §8º, e o §6º-A (Lei n. 14.365/2022), fixando honorários em 10% (dez por cento) do valor da causa (fls. 354-355);
+c) alegação de que não há necessidade de revolvimento fático-probatório e de ocorrência de prequestionamento ficto pelo art. 1.025 do CPC, diante dos embargos de declaração opostos e rejeitados (fls. 352-355).
+A parte agravada, CONSELHO REGIONAL DE MEDICINA VETERINARIA DO ESTADO DE MATO GROSSO DO SUL, não apresentou contrarrazões (fl. 361).
+É o relatório.
+EMENTA
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. TEMA N. 1.076/STJ. INTERPRETAÇÃO DIVERGENTE DE NORMA DIVERSA DE TRATADO OU LEI FEDERAL. AUSÊNCIA DE PREQUESTIONAMENTO DA TESE RECURSAL. SÚMULA N. 211/STJ. SEM ALEGAÇÃO DE VIOLAÇÃO DO ART. 1022 DO CPC. AGRAVO INTERNO DESPROVIDO.
+1. Quanto à controvérsia, sobre o Tema n. 1.076 do STJ, não é cabível o Recurso Especial quando se busca analisar a violação ou a interpretação divergente de norma diversa de tratado ou lei federal. Precedentes.
+2. O Tribunal de origem, apesar da oposição de embargos de declaração, não apreciou a tese sob o viés pretendido pela parte recorrente no sentido de que o valor da causa é muito baixo, motivo pelo qual está ausente o necessário prequestionamento, nos termos da Súmula n. 211 do STJ.
+3. Não houve alegação de violação ao art. 1.022 do Código de Processo Civil, a fim de que fosse constatada a eventual omissão por parte da Corte de origem, indispensável, inclusive, para fins de configuração do prequestionamento ficto de matéria estritamente de direito, nos termos do art. 1.025 do Estatuto Processual.
+4. Agravo interno desprovido.
+VOTO
+A despeito dos argumentos veiculados no presente recurso, a insatisfação não merece provimento.
+Quanto à controvérsia sobre o Tema n. 1.076 do STJ, não é cabível o Recurso Especial quando se busca analisar a violação ou a interpretação divergente de norma diversa de tratado ou lei federal.
+Portanto, não se conhece de recurso especial em que se alega violação ou interpretação divergente de Tema Repetitivo, na medida em que, nos termos do art. 105, inciso III, alíneas a e c, da Constituição Federal, o recorrente deve demonstrar contrariedade, negativa de vigência ou interpretação divergente a artigo de lei federal.
+No mesmo sentido: AgInt no AgInt no AREsp n. 2.597.940/GO, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 18/11/2024, DJe de 22/11/2024; AgInt no AREsp n. 2.461.770/TO, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 26/2/2024, DJe de 29/2/2024; AgInt no AREsp n. 2.243.619/RJ, relator Ministro Francisco Falcão, Segunda Turma, julgado em 15/5/2023, DJe de 17/5/2023.
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.565.020/RJ, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 14/8/2020; AgInt no REsp n. 1.832.794/RO, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 27/11/2019; AgInt no AREsp n. 1.425.911/MG, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 15/10/2019; AgInt no REsp n. 1.864.804/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 7/6/2021.
+Ademais, não houve o prequestionamento da tese recursal, porquanto a questão postulada não foi examinada pela Corte a quo sob o viés pretendido pela parte recorrente no sentido de que o valor da causa é muito baixo.
+Assim, o Tribunal de origem, apesar da oposição de embargos de declaração, não apreciou a tese sob o viés pretendido pela parte recorrente no sentido de que o valor da causa é muito baixo, motivo pelo qual está ausente o necessário prequestionamento, nos termos da Súmula n. 211 do STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo").
+O recurso especial não trouxe a alegação de violação do art. 1.022 do Código de Processo Civil, a fim de que fosse constatada a eventual omissão por parte da Corte de origem, indispensável, inclusive, para fins de configuração do prequestionamento ficto de matéria estritamente de direito, nos termos do art. 1.025 do Estatuto Processual. Nessa senda: AgInt no REsp n. 2.076.255/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023; AgInt no REsp n. 2.049.701/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 18/12/2023, DJe de 21/12/2023.
+Nesse norte:
+ ..  o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentido de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. (AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/5/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp n. 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp n. 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É o voto.
