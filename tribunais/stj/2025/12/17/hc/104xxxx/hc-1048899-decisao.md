@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de Habeas Corpus com pedido de liminar impetrado em favor de WILLIAM NASCIMENTO GOMES, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO no julgamento do Agravo de Execução Penal n. 5008920-51.2025.8.19.0500.
+Extrai-se dos autos que o Juízo da Vara de Execução Penal indeferiu pedido de retificação de penas, formulado pelo Ministério Público, aduzindo não ser aplicável ao caso o disposto no art. 112, III, da Lei de Execuções Penais - LEP, por tratar-se de execução de pena por crime cometido sem violência ou grave ameaça.
+O Tribunal de origem deu provimento ao agravo de execução penal interposto pelo parquet estadual, para determinar a retificação do cálculo da pena do sentenciado para fins de progressão de regime, aplicando o percentual de 25% em relação ao crime previsto no art. 35, c/c art. 40, IV, ambos da Lei n. 11.343/2006. Confira-se a ementa do julgado (fls. 10/11):
+"EMENTA: EXECUÇÃO PENAL. RECURSO DO MINISTÉRIO PÚBLICO. CÁLCULO DIFERENCIADO PARA PROGRESSÃO DE REGIME. CRIME COMETIDO COM VIOLÊNCIA À PESSOA OU GRAVE AMEAÇA. INCIDÊNCIA DA CAUSA DE AUMENTO PELO EMPREGO DA ARMA DE FOGO. RECURSO PROVIDO. I. CASO EM EXAME 1. Agravo em Execução interposto pelo Ministério Público contra decisão do Juízo da Vara de Execuções Penais da Comarca da Capital, que indeferiu o pedido de retificação do cálculo de pena para fins de progressão de regime. Sustenta o Parquet que, tendo sido reconhecida na condenação a causa de aumento prevista no artigo 40, IV, da Lei nº 11.343/2006, em razão do emprego de arma de fogo no crime de associação para o tráfico, deve ser aplicado o percentual de 25% (vinte e cinco por cento) de cumprimento da pena para progressão de regime, nos termos do artigo 112, III, da Lei de Execução Penal. II. RAZÕES DE DECIDIR 2. A condenação reconheceu expressamente a incidência da causa de aumento prevista no artigo 40, IV, da Lei nº 11.343/2006, em razão do emprego de arma de fogo na associação para o tráfico, evidenciado pela apreensão de armamento em poder dos integrantes do grupo criminoso. 3. A mera disponibilidade das armas de fogo no contexto da associação criminosa, ainda que sem disparo efetivo, caracteriza intimidação difusa e coletiva, configurando grave ameaça à pessoa. 4. O emprego de arma de fogo, nesses moldes atrai a incidência do artigo 112, III, da Lei de Execução Penal, que exige o cumprimento de 25% (vinte e cinco por cento) da pena para a progressão de regime. 5. A decisão recorrida deve ser modificada. III. DISPOSITIVO 5. Agravo provido."
+No presente writ, a defesa sustenta que o emprego de arma de fogo, quando relacionada à traficância, constitui circunstância inerente à dinâmica do crime, não configurando violência ou grave ameaça à pessoa.
+Sustenta que o reconhecimento da majorante do art. 40, IV, da Lei n. 11.343/2006 não autoriza a aplicação do percentual de 25% previsto no art. 112, III, da LEP.
+Assevera violação ao princípio da legalidade e à vedação de analogia in malam partem, pois o acórdão recorrido ampliou, sem previsão legal expressa, o conceito de crime cometido com violência ou grave ameaça para fins de progressão.
+Argui que o parâmetro normativo para a fixação do percentual objetivo de progressão deve ser aferido pelo tipo penal e não pela incidência de causa de aumento, razão pela qual se impõe a manutenção do percentual de 16% definido pela Vara de Execuções Penais.
+Requer, em liminar, a suspensão do acórdão impugnado. No mérito, pretende seja concedida a ordem para cassar o acórdão e restabelecer o cálculo de pena com base no percentual de 16%.
+A medida liminar foi indeferida pela decisão de fls. 25/27.
+Foram prestadas informações às fls. 30/32 e 43/49.
+Parecer do Ministério Público Federal pelo não conhecimento do presente habeas corpus (fls. 52/54).
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração nem sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ.
+Todavia, considerando as alegações expostas na inicial, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal que justifique a concessão da ordem de ofício, como asseverado pela decisão que indeferiu a liminar.
+Conforme relatado, requer-se o reconhecimento de ilegalidade na aplicação da fração de 25%, prevista no art. 112, inc. III, da LEP, para progressão de regime do paciente.
+Constitui entendimento consolidado do Superior Tribunal de Justiça que a majorante do art. 40, inc. IV, da Lei n. 11.343/2006 (uso de arma de fogo) justifica a aplicação da referida fração para progressão de regime no crime de associação para o tráfico de drogas (art. 35 da mesma lei).
+In casu, não se verifica excesso de prazo no julgamento do Tribunal a quo, tratando-se justamente da situação descrita, como se vê:
+"No caso presente, observa-se que restou reconhecida a incidência da causa de aumento prevista no artigo 40, inciso IV, da Lei nº 11.343/2006, em razão do emprego de arma de fogo no contexto da associação para o tráfico, sendo apreendidas duas pistolas com munições, um fuzil e um simulacro de arma de fogo, além de drogas e radiocomunicadores em poder do grupo.
+Convém destacar trecho da sentença onde consta que:
+"Destaco, ainda, que as circunstâncias narradas pelos policiais militares, no sentido de que houve intensa troca de tiros entre a guarnição policial e os réus, que estavam no interior de uma casa, revelam que eles empregavam as armas de fogo como meio de intimidação difusa e coletiva. Por fim, as mencionadas circunstâncias da prisão tornam evidente que os réus portavam as drogas e armas de fogo de forma compartilhada."
+Ainda que não tivesse havido disparo ou uso ostensivo da arma no momento da prisão, sua apreensão no mesmo contexto fático, acessível a todos os agentes do crime, configura processo de intimidação difusa ou coletiva, que evidentemente contribui e facilita o desenvolvimento das atividades ilícitas do grupo e intimidação da população, das forças de segurança e de facções rivais.
+Assim, a referida causa de aumento não depende do uso efetivo da arma, sendo suficiente a constatação de que ela se encontrava à disposição de integrantes da associação criminosa para garantir a traficância ou para fins de intimidação.
+Nessas circunstâncias, há caracterização de grave ameaça e a modificação da natureza do delito, o que justifica a aplicação da fração de 25% (vinte e cinco por cento) prevista no artigo 112, inciso III, da Lei de Execução Penal.
+Diante disso, impõe-se a modificação da decisão recorrida." (fls. 14/15)
+Nesse sentido, cito os seguintes julgados desta Corte:
+Direito Penal. Agravo Regimental. Progressão de Regime. Associação para o Tráfico de Drogas. Majorante do Uso de Arma de Fogo.
+Interpretação Sistemática e Teleológica. Agravo Desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu do habeas corpus, sob o fundamento de que foi impetrado em substituição a recurso próprio, em consonância com a jurisprudência consolidada do Superior Tribunal de Justiça e do Supremo Tribunal Federal.
+2. A parte agravante sustenta que a decisão agravada adotou interpretação analógica in malam partem ao aplicar a fração de 25% para progressão de regime, com base na majorante do art. 40, inciso IV, da Lei n. 11.343/2006 (uso de arma de fogo ou processo de intimidação difusa), argumentando que tal majorante não integra o tipo penal do art. 35 da mesma lei e que sua aplicação viola o princípio da legalidade estrita.
+3. A decisão agravada foi mantida por seus próprios fundamentos e submetida à apreciação da Quinta Turma.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a majorante prevista no art. 40, inciso IV, da Lei n. 11.343/2006 (uso de arma de fogo ou processo de intimidação difusa) justifica a aplicação da fração de 25% para progressão de regime no crime de associação para o tráfico de drogas (art. 35 da mesma lei), considerando os princípios da legalidade estrita e da interpretação sistemática e teleológica.
+III. Razões de decidir
+5. A causa de aumento de pena prevista no art. 40, inciso IV, da Lei n. 11.343/2006, embora não constitua elemento essencial do tipo penal do art. 35, influencia diretamente a gravidade da conduta e o potencial lesivo do delito, justificando a aplicação de requisitos mais rigorosos para progressão de regime.
+6. A aplicação da fração de 25% para progressão de regime, prevista no art. 112, inciso III, da Lei de Execução Penal, não configura interpretação analógica in malam partem, mas sim uma interpretação sistemática e teleológica que considera a gravidade concreta da conduta e a maior reprovabilidade das ações praticadas com emprego de arma de fogo ou intimidação coletiva.
+7. A intimidação difusa ou coletiva, por sua própria natureza, prescinde de vítima individualizada, atingindo um número indeterminado de pessoas e revelando maior potencial lesivo e periculosidade da conduta.
+8. A ausência de argumentos novos no agravo regimental capazes de infirmar os fundamentos da decisão monocrática justifica a manutenção da decisão agravada.
+IV. Dispositivo e tese
+9. Resultado do Julgamento: Agravo regimental desprovido.
+Tese de julgamento:
+1. A majorante prevista no art. 40, inciso IV, da Lei n. 11.343/2006 justifica a aplicação da fração de 25% para progressão de regime no crime de associação para o tráfico de drogas, considerando a gravidade concreta da conduta e a maior reprovabilidade das ações praticadas com emprego de arma de fogo ou intimidação coletiva.
+2. A intimidação difusa ou coletiva prescinde de vítima individualizada, atingindo um número indeterminado de pessoas e revelando maior potencial lesivo e periculosidade da conduta.
+Dispositivos relevantes citados: Lei n. 11.343/2006, arts. 35 e 40, IV; Lei de Execução Penal, art. 112, III.
+Jurisprudência relevante citada: STJ, AgRg no HC 631.885/SC, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13.06.2023, DJe 16.06.2023; STJ, AgRg no HC 804.533/PE, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe 17.03.2023; STJ, AgRg no HC 659.003/SP, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, DJe 30.03.2023.
+(AgRg no HC n. 1.032.005/RJ, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 11/11/2025, DJEN de 14/11/2025.)
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO. CRIME COMETIDO COM VIOLÊNCIA OU GRAVE AMEAÇA. USO DE ARMA PARA INTIMIDAÇÃO COLETIVA. PROGRESSÃO DE REGIME. LAPSO DE 25%. LEI 13.964/2019. AUSÊNCIA DE ARGUMENTOS NOVOS APTOS A ALTERAR A DECISÃO AGRAVADA. AGRAVO REGIMENTAL DESPROVIDO.
+I - Assente que a defesa deve trazer alegações capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - Não se constata ilegalidade, pois trata-se de paciente condenado por crime praticado com violência ou grave ameaça à pessoa, não reincidente em delito de mesma natureza, conforme se depreende dos autos, uma vez que consta que utilizava de arma de fogo como forma de intimidação coletiva, o que denota violência ou grave ameaça, situação que se impõe a aplicação do lapso temporal de 25% (art. 112, III, da LEP) para a progressão de regime.
+Agravo regimental desprovido.
+(AgRg no HC n. 631.885/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 13/6/2023, DJe de 16/6/2023.)
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
