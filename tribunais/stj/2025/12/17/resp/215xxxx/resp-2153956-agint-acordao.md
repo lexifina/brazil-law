@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/12/2025 a 17/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Afrânio Vilela, Francisco Falcão, Maria Thereza de Assis Moura e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL E DIREITO ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CONSELHO DE DISCIPLINA. SANÇÃO DE EXCLUSÃO A BEM DA DISCIPLINA. ANULAÇÃO DO ATO ADMINISTRATIVO. ALEGADA VIOLAÇÃO DO ART. 1.022 DO CPC. INEXISTÊNCIA. DEFICIÊNCIA RECURSAL. INCIDÊNCIA DO ÓBICE DA SÚMULA N. 284 DO STF. AGRAVO INTERNO DESPROVIDO.
+1. Na origem: ação ordinári a ajuizada pelo ora Agravado contra o Estado do Rio Grande do Sul, em que objetiva a anulação da sua punição disciplinar de exclusão. O pleito foi julgado improcedente.
+2. O Tribunal de origem deu provimento à apelação do autor.
+3. Nesta Corte, decisão que conheceu do recurso especial para, nessa extensão, negar-lhe provimento, pela inexistência de violação dos arts. 489 e 1.022 do CPC e incidência da Súmula n. 284 do STF.
+4. Não tendo a parte agravante logrado êxito em infirmar os fundamentos que nortearam a decisão ora agravada, impõe-se a sua manutenção, em todos os seus termos.
+5. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo ESTADO DO RIO GRANDE DO SUL contra a decisão de minha lavra que conheceu do recurso especial para, nessa extensão, negar-lhe provimento (fls. 1000-1004).
+Nas razões deste agravo interno, a parte agravante, em síntese, alega a insubsistência da decisão agravada, ao afirmar que " ..  Não obstante o que foi registrado na monocrática recorrida, verifica-se que o acórdão local violou os arts. 489 e 1.022 do CPC/2015, na medida em que deixou de se manifestar sobre argumentos deduzidos pelo Ente Público em seus oportunos embargos de declaração, emitindo decisão assim ementada:  .. " (fl. 1013).
+Além disso, aduz que é inaplicável o óbice da Súmula n. 284 do STF, pois:
+ ..  no tocante à violação ao art. 13, inciso II, do Decreto Federal 71.500/1972, consoante articulado no recurso especial fazendário, o Ente Público buscou demonstrar que o posicionamento do Regional malferiu, expressamente, o disposto no referido artigo, ao determinar a remessa da cópia destes autos à Corregedoria-Geral da BM/RS, para que possa, dentro de sua legal/legítima independência funcional, proferir nova decisão/ato administrativo-disciplinar sancionatório" (fl. 1016).
+Finalmente, afirma que foi realizado cotejo analítico entre o acórdão recorrido e o paradigma "porquanto devidamente demonstrada a indicação das circunstâncias fáticas e jurídicas que identificam e assemelham os casos confrontados" (fl. 1018).
+Ao final, requer a reconsideração ou a reforma da decisão monocrática (fl. 1020).
+Apresentada contraminuta (fls. 1029-1034).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E DIREITO ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CONSELHO DE DISCIPLINA. SANÇÃO DE EXCLUSÃO A BEM DA DISCIPLINA. ANULAÇÃO DO ATO ADMINISTRATIVO. ALEGADA VIOLAÇÃO DO ART. 1.022 DO CPC. INEXISTÊNCIA. DEFICIÊNCIA RECURSAL. INCIDÊNCIA DO ÓBICE DA SÚMULA N. 284 DO STF. AGRAVO INTERNO DESPROVIDO.
+1. Na origem: ação ordinári a ajuizada pelo ora Agravado contra o Estado do Rio Grande do Sul, em que objetiva a anulação da sua punição disciplinar de exclusão. O pleito foi julgado improcedente.
+2. O Tribunal de origem deu provimento à apelação do autor.
+3. Nesta Corte, decisão que conheceu do recurso especial para, nessa extensão, negar-lhe provimento, pela inexistência de violação dos arts. 489 e 1.022 do CPC e incidência da Súmula n. 284 do STF.
+4. Não tendo a parte agravante logrado êxito em infirmar os fundamentos que nortearam a decisão ora agravada, impõe-se a sua manutenção, em todos os seus termos.
+5. Agravo interno desprovido.
+VOTO
+A despeito dos argumentos veiculados no presente recurso, a insatisfação não merece prosperar.
+Na origem, trata-se de ação ordinária ajuizada por Marcos Anderson Coelho Lopes contra o Estado do Rio Grande do Sul, em que objetiva a anulação da sua punição disciplinar de exclusão. O pleito foi julgado improcedente (fls. 641-652).
+A Corte de origem deu provimento à apelação do autor (fls. 745-762).
+Nesta Corte, decisão de minha lavra que conheceu do recurso especial para, nessa extensão, negar-lhe provimento (fls. 1000-1004).
+Inicialmente, a ora Recorrente alega a necessidade de reforma da decisão, por violação dos arts. 489 e 1.022 do CPC.
+Ocorre que, conforme disposto na decisão agravada, o acórdão recorrido não possui as omissões suscitadas pela parte recorrente. Ao revés, o Tribunal a quo se manifestou sobre todos os aspectos importantes ao deslinde do feito, adotando argumentação concreta e que satisfaz o dever de fundamentação das decisões judiciais.
+Aliás, consoante pacífica jurisprudência das Cortes de Vértice, o Julgador não está obrigado a rebater, individualmente, todos os argumentos suscitados pelas partes, sendo suficiente que demonstre, fundamentadamente, as razões do seu convencimento.
+Como se sabe, " a  omissão somente será considerada quando a questão seja de tal forma relevante que deva o julgador se pronunciar" (AgInt nos EDcl no REsp n. 2.124.369/RJ, relator Ministro Francisco Falcão, Segunda Turma, julgado em 7/10/2024, DJe de 9/10/2024).
+Com efeito, "  n ão configura ofensa ao art. 1.022 do CPC/2015 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pelo recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia" (AgInt no AREsp n. 2.448.701/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 19/8/2024, DJe de 2/9/2024; sem grifos no original).
+Vale dizer: "o órgão julgador não fica obrigado a responder um a um os questionamentos da parte se já encontrou motivação suficiente para fundamentar a decisão" (AgInt no REsp n. 2.018.125/SC, relator Ministro Francisco Falcão, Segunda Turma, julgado em 10/9/2024, DJe de 12/9/2024).
+Além disso, alega a parte a insubsistência do óbice da Súmula n. 284 do STF. Porém, as razões do recurso especial não desenvolveram tese para demonstrar os motivos pelos quais teria ocorrido violação dos arts. 13, inciso II, do Decreto Lei n. 71.500/72 e 955 do CC, o que evidencia a ausência de delimitação da controvérsia, atraindo a incidência da Súmula n. 284 do STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"). Nessa senda: AgInt no REsp n. 2.004.665/SC, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 11/9/2023, DJe de 14/9/2023; AgInt no REsp n. 2.075.044/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 4/12/2023, DJe de 6/12/2023.
+Ademais, nos termos do art. 1.029, § 1º, do Código de Processo Civil, e no art. 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça, a prova do dissídio jurisprudencial condiciona-se à: (i) juntada de certidão, cópia ou citação do repositório de jurisprudência, oficial ou credenciado, inclusive em mídia eletrônica, em que houver sido publicado o acórdão divergente, ou à reprodução de julgado disponível na internet, com a indicação da respectiva fonte; e (ii) realização do cotejo analítico entre o acórdão recorrido e o paradigma, mediante a indicação das circunstâncias fáticas e jurídicas que identifiquem ou assemelhem os casos confrontados, a fim de viabilizar a arguição de aplicação de solução jurídica diversa.
+No caso em apreço, a parte recorrente não realizou o cotejo analítico, nos moldes legais e regimentais, vício insanável. Com efeito, a mera transcrição da ementa do paradigma ou de recorte de trecho do voto, seguida de considerações genéricas do recorrente, não atende ao requisito de admissibilidade do recurso especial interposto com base na alínea c do permissivo constitucional, que pressupõe a demonstração da identidade fático-jurídica entre os casos confrontados, de modo a evidenciar o suposto dissenso na interpretação do dispositivo de lei federal.
+Nesse sentido, v.g.: AgInt no REsp n. 2.160.697/RN, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 16/9/2024, DJe de 19/9/2024; AgInt no AREsp n. 2.388.423/SC, relator Ministro Francisco Falcão, Segunda Turma, julgado em 20/2/2024, DJe de 23/2/2024; AgInt no AREsp n. 2.485.481/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 12/8/2024, DJe de 15/8/2024; AgInt no AREsp n. 2.382.068/PR, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 12/8/2024, DJe de 15/8/2024.
+Assim, não tendo a parte agravante logrado êxito em infirmar os fundamentos que nortearam a decisão ora agravada, impõe-se a sua manutenção, em todos os seus termos.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É o voto.
