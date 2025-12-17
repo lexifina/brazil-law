@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de BOB MARLEY APARECIDO LOPES DOS SANTOS - condenado por homicídio qualificado a 18 anos e 8 meses de reclusão -, apontando-se como ato coator o acórdão de apelação criminal proferido pelo Tribunal de Justiça de Minas Gerais (fls. 8/32).
+A impetração busca a revisão da dosimetria - referente à condenação proferida na Ação Penal n. 0007914-14.2020.8.13.0508 (fls. 34/39), da Vara Única da comarca de Piranga/MG -, com o restabelecimento da pena de 14 anos fixada na sentença do júri, afastando a negativação dos vetores circunstâncias do crime e consequências do delito, apontando bis in idem com a qualificadora do motivo torpe (fls. 4/5), além do afastamento da fração de 1/6 aplicada sem motivação concreta (fl. 5).
+É o relatório.
+O writ é inadmissível, uma vez que se trata de impetração destinada a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, e não se verifica a ocorrência de flagrante constrangimento ilegal apto a subsidiar a superação do óbice, pois o Magistrado singular, corroborado pelo Tribunal de origem, exasperou a pena-base, com fundamento em elementos concretos dos autos, evidenciando circunstâncias que extrapolam os elementos do tipo penal imputado. Confira-se:
+a) circunstâncias do crime - o crime praticado em via pública, colocando em risco outras pessoas, inclusive, crianças, demonstra que as circunstâncias delineadoras do ato praticado, de fato, extrapolam aquelas tidas como ínsitas para o tipo penal (fl. 27); e
+b) consequências do delito - os impactos negativos gerados na vida da viúva da vítima e das testemunhas presenciais do delito, as quais necessitaram do aparato judiciário para se verem protegidas da ânsia criminosa dos réus, a meu ver, extrapola o tipo legal.  ..  além das consequências advindas à viúva da vítima, o crime trouxe especial abalo às testemunhas presenciais, as quais, inclusive, se viram impelidas em requererem medidas judiciais de proteção, por temerem por suas vidas (fl. 28).
+Finalmente, não há ilegalidade na eleição da fração de 1/6, pois o entendimento desta Corte é no sentido de que há necessidade de fundamentação específica quando o julgador se utiliza de frações diversas de 1/6 sobre a pena-base ou 1/8 do intervalo entre as penas mínima e máxima.
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO. DOSIMETRIA. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. UTILIZAÇÃO INDEVIDA DO WRIT. INVIABILIDADE. FORMULAÇÃO DE PRETENSÕES INFUNDADAS. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Inicial indeferida liminarmente.
