@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de recurso especial no qual a parte recorrente se insurge contra decisão que reconheceu a responsabilidade pelos débitos condominiais.
+A matéria em debate foi afetada para revisão de tese firmada no repetitivo 886/STJ, (Tema n. 1349) com determinação de suspensão de todos os recursos especiais e agravos em recurso especial em trâmite nos Tribunais de segundo grau ou no STJ, que versem sobre idêntica questão à discutida no Tema nº 886/STJ (artigos 1.037, II, do Código de Processo Civil e 256-L do RISTJ).
+Destarte, é de rigor a suspensão do presente recurso perante o Tribunal de origem, até a publicação do acórdão paradigma, nos termos do art. 256-L, I, do RISTJ. Vejamos:
+RECURSO ESPECIAL. PROPOSTA DE REVISÃO DE TESE FIRMADA EM JULGAMENTO DE RECURSO REPETITIVO. TEMA Nº 886/STJ. DÍVIDAS CONDOMINIAIS. OBRIGAÇÃO PROPTER REM. LEGITIMIDADE PASSIVA CONCORRENTE DO PROMITENTE VENDEDOR E PROMITENTE COMPRADOR. IMISSÃO NA POSSE PELO COMPRADOR. CIÊNCIA INEQUÍVOCA DO CONDOMÍNIO. TEORIA DA DUALIDADE DO VÍNCULO OBRIGACIONAL. NECESSIDADE DE REEXAME DO TEMA À LUZ NATUREZA PROPTER REM DA OBRIGAÇÃO.
+1. De acordo com a interpretação literal do Tema Repetitivo nº 886/STJ, o promitente vendedor, cujo nome ainda consta do registro imobiliário como proprietário, não responde por obrigações condominiais após a imissão na posse do promissário comprador e desde que o condomínio tenha ciência inequívoca da transação.
+2. No entanto, decisões recentes deste Tribunal têm interpretado a tese adotada no julgamento do recurso representativo da controvérsia levando em conta a natureza propter rem de obrigações condominiais, de forma a reconhecer a legitimidade passiva concorrente entre promitente vendedor (proprietário) e promitente comprador.
+Precedentes.
+3. Proposta de revisão do Tema Repetitivo nº 886/STJ para definir se há legitimidade concorrente entre o promitente vendedor, titular do direito de propriedade, e o promitente comprador para figurar no polo passivo da ação de cobrança de débitos condominiais posteriores à imissão do comprador na posse, independentemente de haver ciência inequívoca da transação pelo condomínio.
+(ProAfR no REsp n. 2.100.395/SP, relatora Ministra Maria Isabel Gallotti, Segunda Seção, julgado em 20/5/2025, DJEN de 26/5/2025.)
+Ante o exposto, determino a devolução dos autos ao Tribunal de Justiça local, com a devida baixa nesta Corte de Justiça, para aplicação dos artigos 1.039 e 1.040 do CPC, devendo-se: i) negar seguimento ao recurso, se o acórdão recorrido coincidir com a tese vinculante do Tribunal Superior; ou ii) proceder ao juízo de retratação, na hipótese de ter o Colegiado local divergido da interpretação fixada no precedente qualificado.
+Publique-se. Intimem-se.
+ EMENTA
