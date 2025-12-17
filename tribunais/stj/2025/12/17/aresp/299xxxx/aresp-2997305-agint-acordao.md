@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/12/2025 a 17/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Thereza de Assis Moura, Marco Aurélio Bellizze, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL NÃO CONHECIDO EM DECISÃO DA PRESIDÊNCIA DESTA CORTE. MANUTENÇÃO DA DECISÃO. AGRAVO INTERNO IMPROVIDO.
+I - Trata-se de exceção de pré-executividade, alegando a nulidade das Certidões de Dívida Ativa por ausência dos requisitos formais. Na sentença, acolheu-se parcialmente a exceção apenas para determinar a aplicação da taxa Selic como índice de juros e correção monetária a partir da entrada em vigor da Emenda Constitucional n. 113/2021, determinando que o exequente apresentasse planilha com o recálculo do débito. No Tribunal de origem, a sentença foi mantida.
+II - Verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+III - Agravo interno improvido.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão da Presidência desta Corte, em que não se conheceu do recurso especial.
+O recurso especial foi interposto contra acórdão proferido no Tribunal de Justiça do Estado de São Paulo com o seguinte resumo da ementa:
+AGRAVO DE INSTRUMENTO - EXECUÇÃO FISCAL. TFF/TFU/TLIF/TFILF - RECURSO CONTRA A R.DECISÃO DE 1ºGRAU QUE ACOLHEU PARCIALMENTE A EXCEÇÃO DE PRÉ- EXECUTIVIDADE - ATO VINCULADO AO EXERCÍCIO DO LIVRE E FUNDAMENTADO CONVENCIMENTO DO JUÍZO MONOCRÁTICO - ÍNDICE DE CORREÇÃO MONETÁRIA E JUROS APLICADOS PELA MUNICIPALIDADE QUE DEVERÁ OBSERVAR O ADVENTO DA EMENDA CONSTITUCIONAL Nº113/2021. INSURGÊNCIA DA AGRAVANTE COM ALEGAÇÃO DE NULIDADE DO TÍTULO EXECUTIVO JUDICIAL - IMPOSSIBILIDADE - INTELIGÊNCIA DO ARTIGO 3º DA LEI 6.830/80,BEM COMO DOS ARTIGOS 202 E 204 DO CÓDIGO TRIBUTÁRIO NACIONAL - EXCEÇÃO DE PRÉ-EXECUTIVIDADE POSSIBILIDADE DE APRESENTAÇÃO DESDE QUE NÃO DEMANDE DILAÇÃO PROBATÓRIA - EXEGESE DA SÚMULA 393 DO EGRÉGIO SUPERIOR TRIBUNAL DE JUSTIÇA - AUSENTES ÀS HIPÓTESES DE NULIDADE COM O PROSSEGUIMENTO DA EXECUÇÃO FISCAL - PRECEDENTES DO EGRÉGIO SUPERIOR TRIBUNAL DE JUSTIÇA,DESTE EGRÉGIO TRIBUNAL DE JUSTIÇA E DESTA EGRÉGIA 18ª CÂMARA DE DIREITO PÚBLICO - DECISÃO MANTIDA - RECURSO IMPROVIDO.
+Interposto agravo interno contra a decisão da Presidência, alega a parte agravante, resumidamente:
+a) não há que se falar em aplicação da Súmula 284 do STF, porquanto o recorrente indicou de forma expressa e precisa os dispositivos legais supostamente violados, quais sejam, o art. 202 do Código Tributário Nacional e o art. 2º, § 5º, III, da Lei nº 6.830/1980, que tratam justamente dos requisitos essenciais para a validade e eficácia dos títulos executivos fiscais. Dessa forma, não se está diante de fundamentação deficiente ou genérica, mas de insurgência devidamente delineada, com a devida demonstração do nexo entre os dispositivos indicados e a controvérsia suscitada, o que afasta, de plano, a incidência da referida súmula.
+b) não se aplica à hipótese a Súmula 7 do Superior Tribunal de Justiça, uma vez que o exame da nulidade da Certidão de Dívida Ativa não demanda reexame de matéria fática ou probatória, mas apenas a verificação da observância dos requisitos legais expressos no art. 202 do CTN e no art. 2º, § 5º, III, da Lei nº 6.830/1980. Trata-se, portanto, de questão de direito, que pode ser analisada a partir dos próprios elementos constantes dos autos, sem necessidade de revolvimento do conjunto probatório.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL NÃO CONHECIDO EM DECISÃO DA PRESIDÊNCIA DESTA CORTE. MANUTENÇÃO DA DECISÃO. AGRAVO INTERNO IMPROVIDO.
+I - Trata-se de exceção de pré-executividade, alegando a nulidade das Certidões de Dívida Ativa por ausência dos requisitos formais. Na sentença, acolheu-se parcialmente a exceção apenas para determinar a aplicação da taxa Selic como índice de juros e correção monetária a partir da entrada em vigor da Emenda Constitucional n. 113/2021, determinando que o exequente apresentasse planilha com o recálculo do débito. No Tribunal de origem, a sentença foi mantida.
+II - Verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+III - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A Corte a quo analisou as alegações da parte com os seguintes fundamentos:
+No presente caso, em que pese à alegação da agravante, não vislumbro no caso em tela, a hipótese de nulidade da CDA, ou seja, de que está eivada de vício insanável, a certidão de dívida ativa goza de presunção de certeza e liquidez, inexistindo vício que a anule no caso em tela, nos termos do artigo 3º da Lei 6.830/80, bem como dos artigos 202 e 204 do Código Tributário Nacional.
+ ..
+Logo a exceção de pré-executividade deve apresentar, irregularidade ou vícios apontados no título passíveis de serem perceptíveis de imediato, que não demandam maior complexidade e não demandam dilação probatória.
+ ..
+A exceção de pré-executividade só será acolhida na hipótese da irregularidade ou vícios apontados no título serem perceptíveis de imediato e que devam ser conhecidas de ofício pelo juiz, como as atinentes à liquidez do título executivo, os pressupostos processuais e as condições da ação executiva.
+ ..
+Ainda não prospera a alegação da recorrente, conforme a seguir: " ..  a ausência de notificação da Agravante, seja do lançamento, seja da inscrição do débito em dívida ativa;  .. ", não vislumbro no caso em tela, ofensa aos princípios do contraditório e ampla defesa, registrando que eventual nulidade nessa fase processual e em cognição sumária dos argumentos depende de produção de provas e dilação probatória, e não pode ser apreciada em sede de exceção de pé-executividade (fls. 51-57).
+Verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
