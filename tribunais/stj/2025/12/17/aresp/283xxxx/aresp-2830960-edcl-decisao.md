@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por MARCOS ANTONIO COSTA à decisão desta relatoria, assim ementada (e-STJ, fls. 673-679):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO POPULAR. HONORÁRIOS ADVOCATÍCIOS FIXADOS POR EQUIDADE. PRETENSÃO DE QUE SEJAM OBSERVADOS OS VALORES RECOMENDADOS NA TABELA DA ORDEM DOS ADVOGADOS DO BRASIL (OAB). O DISPOSTO NO § 8º-A DO ART. 85 DO CPC/2015 SERVE APENAS COMO REFERENCIAL E NÃO VINCULA O MAGISTRADO NO MOMENTO DE ARBITRAR A VERBA HONORÁRIA. PRECEDENTE DA PRIMEIRA SEÇÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO CONHECIDO E RECURSO ESPECIAL IMPROVIDO.
+Nas razões de seu recurso (e-STJ, fls. 686-693), a parte aponta a ocorrência de omissão e de contradição, ao argumento de que "a decisão omite-se em analisar a tese de que, embora o julgador não esteja vinculado à tabela, a fixação deve ser coerente com a dignidade da advocacia. O valor de R$ 1.000,00, para uma causa complexa como uma Ação Popular com atuação exaustiva em três instâncias (1º Grau, Apelação e Embargos no TJSE, Agravo em REsp no STJ), não atende aos critérios do Art. 85, § 2º, do CPC (grau de zelo, trabalho realizado, natureza da causa), configurando valor vil" (e-STJ, fl. 688)
+Aduz que houve omissão quanto à assertiva de que "a decisão não fez qualquer menção ao trabalho adicional realizado em sede recursal no Tribunal de origem que inclusive majorou os honorários por reconhecer que valor fixado com base no valor da causa não era coerente, desrespeitando o dever de majoração da verba honorária previsto no Art. 85, § 11 do CPC" (e-STJ, fl. 688).
+Alega, também, que a decisão embargada não se manifestou sobre o tópico de que o acórdão deixou de enfrentar argumentos capazes de infirmar a conclusão adotada, especialmente quanto ao ponto da má-fé. Sustenta que não houve manifestação quanto ao ponto de que a extinção precoce da ação popular não permitiu à parte ré comprovar a prática de má-fé pelo autor da ação popular, a justificar a imposição dos ônus sucumbenciais em importe devido.
+Pede o afastamento dos alegados vícios de omissão e de contradição, a fim de que se proceda à majoração dos honorários advocatícios sucumbenciais.
+Sem impugnação (e-STJ, fls. 698 e 701).
+Brevemente relatado, decido.
+Nos termos do art. 1.023 do CPC/2015, "os embargos serão opostos, no prazo de 5 (cinco) dias, em petição dirigida ao juiz, com indicação do erro, obscuridade, contradição ou omissão, e não se sujeitam a preparo".
+Na espécie, consoante certidão de fl. 694 (e-STJ), "o prazo para oposição de embargos de declaração em relação à decisão de folha 673 teve início em 23/10/2025 e término em 29/10/2025 e a petição n. 1064918/2025 (EDcl) foi protocolizada em 03/11/202".
+De fato, conforme certidão de fl. 682 (e-STJ), a decisão embargada foi disponibilizada no Diário de Justiça no dia 21/10/2025, terça-feira, sendo considerada publicada em 22/10/2025, quarta-feira.
+O prazo de 5 (cinco) dias começou a ser contado em 23/10/2025, quinta-feira, encerrando em 29/10/2025, quarta-feira, não havendo feriados ou dia sem expediente forense no transcurso do lapso recursal . Com o protocolo do recurso em 03/11/2025 (e-STJ, fl. 693), a interposição se deu intempestivamente.
+Diante dessas considerações, não conheço dos embargos de declaração.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INTERPOSIÇÃO DO RECURSO FORA DO PRAZO LEGAL. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS.
