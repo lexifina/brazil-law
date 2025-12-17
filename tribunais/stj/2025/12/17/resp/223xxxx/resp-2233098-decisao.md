@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão prolatado pelo Tribunal de origem, assim ementado (fls. 266/274, e-STJ):
+DIREITO PROCESSUAL CIVIL. APELAÇÃO CÍVEL. HONORÁRIOS ADVOCATÍCIOS FIXADOS SOBRE PROVEITO ECONÔMICO IRRISÓRIO. APLICAÇÃO DO ART. 85, § 8º-A, DO CPC. VINCULAÇÃO À TABELADA OAB/CE. RECURSO PROVIDO.
+I. CASO EM EXAME
+1. Apelação cível proposta por João Batista de Freitas contra sentença que fixou honorários advocatícios em 10% sobre o valor da condenação, equivalente a R$ 33,75 (trinta e três reais e setenta e cinco centavos), pleiteando a fixação por equidade, conforme art. 85, § 8º-A, do CPC.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em definir se, diante do valor irrisório da condenação, é cabível a fixação dos honorários sucumbenciais por equidade, com observância à tabela da OAB/CE.
+III. RAZÕES DE DECIDIR
+3. O art. 85, § 8º, do CPC autoriza o arbitramento por equidade quando o valor da condenação for irrisório.
+4. A Lei nº 14.365/2022 incluiu o § 8º-A, que obriga a observância da tabela da OAB ou do limite mínimo de 10%, aplicando-se o que for maior.
+5. A sentença foi prolatada em 02/06/2022, já sob a vigência do § 8º-A, sendo obrigatória sua aplicação.
+6. A tabela da OAB/CE (Resolução 01/2024) prevê, para o ato processual realizado, o valor de 60 UAD"s, sendo cada unidade fixada em R$ 159,21 (cento e cinquenta e nove reais e vinte e um centavos), totalizando R$ 9.552,60 (nove mil quinhentos e cinquenta e dois reais e sessenta centavos).
+7. Precedentes do TJCE corroboram a adoção da tabela da OAB/CE na fixação de honorários por equidade.
+IV. DISPOSITIVO E TESE
+8. Recurso provido para reformar a sentença e fixar os honorários advocatícios em 60 UAD"s, conforme tabela da OAB/CE.
+9. Tese de julgamento: 9.1. É cabível a fixação equitativa dos honorários advocatícios quando o proveito econômico for irrisório, conforme os §§ 8º e 8º-A do art. 85 do CPC. 9.2. O valor da verba honorária deve observar a tabela da OAB/CE, aplicando-se o parâmetro que resultar na maior remuneração, nos termos da Lei nº 14.365/2022. 9.3 A condenação em honorários advocatícios deve garantir remuneração condigna ao trabalho do advogado, vedando a fixação de valores ínfimos ou simbólicos.
+Dispositivos relevantes citados: CPC, arts. 85, §§ 2º, 8º e 8º-A; Lei nº 14.365/2022.
+Jurisprudência relevante citada: TJCE, ApCiv nº 0134476-03.2018.8.06.0001, Rel. Desa. Maria de Fátima de Melo Loureiro, j. 18.10.2023; ApCiv nº 0202200-39.2023.8.06.0101, Rel. Desa. Jane Ruth Maia de Queiroga, j. 14.08.2024.
+Em suas razões recursais, a recorrente aponta violação ao art. 85, § 2º, do Código de Processo Civil. Aduz que: "( ) em que pese o valor baixo da condenação, os honorários poderiam ser estabelecidos ou sobre o valor da causa - R$ 12.825,00 (doze mil e oitocentos e vinte e cinco reais), sempre observado os princípios da razoabilidade e proporcionalidade". Para tanto, sustenta que houve dissídio jurisprudencial e que não se aplicam os óbices das Súmulas 5 e 7 do STJ. Por fim, pede que a verba sucumbencial seja arbitrada com base no valor da causa.
+A recorrida, devidamente intimada, apresentou contrarrazões pedindo o não provimento do recurso (fls. 238/244, e-STJ).
+Assim posta a questão, passo a decidir.
+Presentes os pressupostos de admissibilidade e ultrapassado o limite do conhecimento do presente recurso, verifico que deve ser provido.
+Mediante análise dos autos, sobreveio sentença procedente em ação de cobrança de Seguro DPVAT, ajuizada pela autora/recorrida, que condenou a ré/recorrente ao pagamento de R$ 337,50 a título de indenização e fixou os honorários em 10% sobre o valor da condenação. Em sede de apelação, o Tribunal de origem deu provimento ao recurso da autora/recorrida para fixar honorários advocatícios sucumbenciais em 60 UAD"s por equidade, nos termos do art. 85, § 8-A, do CPC. Irresignada, a ré/recorrente interpôs o presente recurso especial.
+Desse modo, cinge-se a controvérsia à base de cálculo para fixação de honorários sucumbenciais.
+É fato que os honorários são devidos à autora/recorrida. Nesse contexto, existe entendimento desta Corte firmado sobre o tema:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE COBRANÇA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DO AUTOR.
+1. A conclusão do acórdão recorrido no tocante à fixação da indenização compatível com as lesões sofridas pela vítima em questão, implicaria, necessariamente, em reexame do contexto probatório dos autos, providência vedada em sede especial em virtude do óbice da Súmula 7 do STJ. Precedentes.
+2. A Segunda Seção do STJ firmou entendimento de que, havendo ou não condenação, nas causas em que o proveito econômico obtido pelo vencedor for inestimável ou irrisório, ou o valor da causa for muito baixo, os honorários sucumbenciais deverão ser fixados por apreciação equitativa, nos termos do § 8º do art. 85 do CPC/2015 (REsp 1.746.072/PR, Rel. p/ acórdão Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 13/2/2019, DJe de 29/3/2019).
+3. Agravo interno desprovido.
+(AgInt no REsp n. 2.146.901/PE, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/8/2024, DJe de 29/8/2024).
+No caso, o valor da causa é de R$ 12.825,00. Tal montante constitui uma das bases de cálculo para fixação da verba honorária, conforme se estabeleceu no Tema 1.076/STJ com a seguinte tese: "i) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória nesses casos a observância dos percentuais previstos nos §§ 2º ou 3º do artigo 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa. ii) Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo".
+O Tribunal de origem, no acórdão recorrido, consignou que:
+"Na espécie, o proveito econômico obtido pelo vencedor é irrisório. De fato, ainda que o juízo de primeiro grau tenha reconhecido a total procedência, condenou a apelada em honorários no patamar de 10%sobre o valor da condenação (CPC, art. 85, § 2º), o que totaliza o montante diminuto de R$ 33,75 (trinta e três reais e setenta e cinco centavos), em dissonância com o disposto no art. 85, §§ 8º e 8-A, do CPC.
+Ademais, da análise dos autos, verifica-se que, à data de prolação da sentença, já estava em vigor (02/06/2022) a nova redação do art. 85, § 8º-A, do CPC, introduzida pela Lei nº 14.365/22. Conforme esse dispositivo, para a fixação equitativa dos honorários sucumbenciais, o juiz deve seguir os valores recomendados pelo Conselho Seccional da OAB ou o limite mínimo de 10% estabelecido no § 2º do mesmo artigo, aplicando-se o maior valor.
+( )
+Ante o exposto, conheço do recurso e lhe dou provimento, a fim de determinar a aplicação do art. 85, § 8-A, do CPC ao caso, arbitrando, por equidade, honorários advocatícios correspondentes a 60 UAD"s (item 4.1 da tabela de honorários), com cada Unidade Advocatícia no aporte de R$ 159,21 (cento e cinquenta e nove reais e vinte e um centavos), em linha com a Res. 01/2024 da OAB/CE".
+Assim, em observância ao Tema Repetitivo 1.076/STJ, o arbitramento das verbas sucumbenciais deve atender a uma ordem preferencial de bases de cálculo. Acrescenta-se, também, que a ordem prescrita é objetiva, dado que veicula regra com liames claros para aplicação dos percentuais constantes no art. 85, § 2º e § 3º, do CPC/15.
+Diante disso, afasta-se a possibilidade de arbitramento de verbas sucumbenciais po r apreciação equitativa, uma vez que o valor da causa é a base de cálculo preferencial. Por consequência, o Tribunal de origem adotou entendimento contrário ao estabelecido pelo STJ e arbitrou honorários equivocadamente.
+Em face do exposto, dou provimento ao recurso especial, a fim de arbitrar os honorários advocatícios sucumbenciais no patamar de 10% sobre o valor atualizado da causa, com base no art. 85, § 2º, do CPC.
+Intimem-se.
+EMENTA
