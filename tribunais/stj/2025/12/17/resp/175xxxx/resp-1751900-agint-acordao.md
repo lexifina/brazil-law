@@ -1,0 +1,71 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/12/2025 a 17/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO  INTERNO  NO RECURSO  ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO AUTÔNOMO DO ACÓRDÃO RECORRIDO. SÚMULA 283 DO STF. FUNDAMENTAÇÃO GENÉRICA. INCIDÊNCIA DA SÚMULA 284 DO STF. CONCLUSÃO DO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS, PELA AUSÊNCIA DE COMPROVAÇÃO DA COMPENSAÇÃO ALEGADA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO INTERNO IMPROVIDO.
+1.  A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido atrai, por analogia, o óbice da Súmula 283 do STF.
+2. A alegada violação aos arts. 156, II, do CTN; 3º, parágrafo único, da LEF; 803, I, do CPC; e 66 da Lei 8.383/1991, deu-se de forma genérica, circunstância que impede o conhecimento do recurso especial, no ponto, por deficiência na fundamentação. Aplicação da Súmula 284 do STF.
+3.  Inviável a análise da pretensão veiculada no recurso especial, por demandar o reexame do contexto fático-probatório dos autos, atraindo a incidência da Súmula 7 do STJ.
+4. Agravo  interno  improvido.
+RELATÓRIO
+MINISTRO AFRÂNIO VILELA: Em  análise,  agravo  interno  interposto  por FMC DO BRASIL INDÚSTRIA E COMÉRCIO LTDA. contra  a  decisão  que  não conheceu do  recurso especial.
+Argumenta  a  parte agravante,  em  síntese,  que (fls. 674-679):
+Com efeito, verifica-se que a impugnação do referido fundamento é decorrência lógica de todas as razões apresentadas no Recurso Especial, que inclusive são compostas por fundamentos que superam a referida compreensão, desconstituindo-a.
+Isso porque a pretensão do ora Agravante reside no reconhecimento da impossibilidade de se exigir débitos de IRPJ e CSLL que foram devidamente compensados e comunicados à Receita Federal mediante a apresentação de DCTFs retificadas, mas que jamais foram analisadas pela Administração Tributária.
+Significa dizer, portanto, que o fundamento da defesa para desconstituição do crédito tributário, antes de residir na compensação como causa inequívoca de extinção deste, se reporta à ausência de liquidez e certeza dos débitos em decorrência da inexistência de decisão indeferindo a retificação das DCTFs ou não homologando as compensações, resultando em afronta aos artigos 3º, parágrafo único, da Lei nº 6.830/1980 ("LEF") e 803, I, do CPC.
+ ..
+Todos esses fundamentos foram devidamente delineados perante as instâncias ordinárias e desenvolvidos nas razões do Recurso Especial, possuindo inequívoca competência para não apenas impugnar o entendimento do v. acórdão recorrido, mas verdadeiramente esvaziá-lo, na medida em que revela circunstância anterior e imprescindível para a regularidade da exigência fiscal que se pretende desconstituir que não foi adequadamente analisada pelo E. Tribunal a quo.
+ ..
+Importa mencionar, por fim, que o entendimento de que o Fisco possui prazo de 5 anos para homologar ou não a compensação revela-se irrelevante no caso concreto, na medida em que a ausência de análise dos requerimentos realizados pelo Contribuinte não pode ser equiparada à não homologação tácita, com o consequente surgimento de obrigação de recolhimento, como pretende a União Federal.
+Por tais razões, tem-se devidamente demonstrada a inaplicabilidade do óbice da Súmula º 283/STF ao caso, devendo a r. decisão agravada ser reformada para viabilizar o regular processamento, conhecimento e provimento do Recurso Especial.
+ ..
+Inicialmente, importa destacar que a ora Agravante dedicou um capítulo exclusivo para expor a incompatibilidade do entendimento exarado pelo v. acórdão recorrido com os comandos normativos apontados como violados.
+Nessa oportunidade, foi devidamente demonstrado que o v. acórdão recorrido, ao concluir ser imprescindível a homologação da compensação pela D. Fiscalização para que se possa alegar a extinção do débito compensado no âmbito judicial, desconsidera que a ausência manifestação expressa por parte da D. Fiscalização no sentido de não homologar a compensação efetuada pela ora Agravante macula a liquidez e certeza do título executivo.
+Assim sendo, tem-se que o caso concreto deixa de atender aos elementos essenciais para a execução previstos no artigo 803, I, do CPC, que prescreve que é nula a execução se o título executivo não for obrigação certa, líquida e exigível.
+Indo além, a ora Agravante devidamente demonstrou que, nos termos do artigo 3º da LEF, a presunção da qual goza a dívida ativa inscrita é relativa e pode ser contestada mediante prova inequívoca. Sendo fato incontroverso nos autos que (i) não houve decisão da Administração Tributária acerca da compensação ou da retificação das DCT Fs; e, (ii) por consequência, o crédito tributário não foi definitivamente constituído, é certa a suficiência de tal circunstância como causa de supressão da certeza e liquidez do título executado.
+A recusa do v. acórdão recorrido em analisar tais peculiaridades do caso concreto resultou, ao fim, na frontal violação ao artigo 156, II, do CTN, o qual prevê que a compensação é causa de extinção do crédito tributário.
+ ..
+Por fim, a r. decisão agravada invoca o óbice da Súmula nº 07/STJ por entender que reconhecer a compensação realizada demandaria o reexame do acervo fático-probatório dos autos.
+ ..
+Nesse cenário, importa reiterar que é fato incontroverso nos autos que a Administração Tributária jamais se manifestou, isto é, não decidiu de forma positiva ou negativa quanto à compensação realizada e quanto à apresentação das DCT Fs retificadas. Por consequência, também é fato incontroverso que a compensação não foi não homologada.
+Partindo dessas premissas, as quais, frise-se, já foram devidamente delineadas pelas instâncias ordinárias e podem ser verificadas sem óbices por este E. STJ, a controvérsia que remanesce reside no seguinte questionamento: não tendo a Autoridade Fiscal se manifestado sobre a compensação, com a consequente ausência de processo administrativo com contraditório e oportunidade de defesa, poderia esta inscrever o débito em dívida ativa e proceder ao ajuizamento da Execução Fiscal
+ ..
+Nesse contexto, a verificação da efetiva ocorrência de compensação no caso concreto torna-se irrelevante para o deslinde da controvérsia, na medida em que a exigência fiscal que se pretende desconstituir esbarra em obstáculos prévios à efetiva extinção do crédito tributário pela compensação.
+Assim, não há o que se falar em incidência do óbice da Súmula nº 07/STJ por impossibilidade de se rever o entendimento do v. acórdão recorrido sem o revolvimento de fatos e provas dos autos. Conforme demonstrado, a controvérsia submetida ao exame deste E. STJ prescinde o reconhecimento da compensação, podendo ser solucionada a partir do reconhecimento jurídico da nulidade da Execução Fiscal por ausência de constituição definitiva do crédito tributário e, consequentemente, liquidez e certeza do título executivo, culminando na nulidade da Execução Fiscal.
+Por fim, pugna pela reconsideração da decisão agravada ou pela submissão da questão ao Colegiado.
+Não foi apresentada impugnação pela parte agravada (fl. 693).
+É o relatório.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO  INTERNO  NO RECURSO  ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO AUTÔNOMO DO ACÓRDÃO RECORRIDO. SÚMULA 283 DO STF. FUNDAMENTAÇÃO GENÉRICA. INCIDÊNCIA DA SÚMULA 284 DO STF. CONCLUSÃO DO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS, PELA AUSÊNCIA DE COMPROVAÇÃO DA COMPENSAÇÃO ALEGADA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO INTERNO IMPROVIDO.
+1.  A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido atrai, por analogia, o óbice da Súmula 283 do STF.
+2. A alegada violação aos arts. 156, II, do CTN; 3º, parágrafo único, da LEF; 803, I, do CPC; e 66 da Lei 8.383/1991, deu-se de forma genérica, circunstância que impede o conhecimento do recurso especial, no ponto, por deficiência na fundamentação. Aplicação da Súmula 284 do STF.
+3.  Inviável a análise da pretensão veiculada no recurso especial, por demandar o reexame do contexto fático-probatório dos autos, atraindo a incidência da Súmula 7 do STJ.
+4. Agravo  interno  improvido.
+VOTO
+MINISTRO AFRÂNIO VILELA (Relator): Conheço do recurso, porquanto presentes os seus pressupostos intrínsecos e extrínsecos de admissibilidade.
+O agravo interno não merece prosperar.
+Súmula 283 do STF
+Quanto à alegação de violação aos arts. 156, II, do CTN; 3º, parágrafo único, da LEF; 803, I, do CPC; e 66 da Lei 8.383/1991, verifico que a parte recorrente deixou de refutar os seguintes argumentos utilizados pelo Tribunal de origem para negar provimento à apelação interposta (fl. 479, grifo nosso):
+Com efeito, o debate judicial acerca da compensação, promovida pelo contribuinte junto à Administração Fazendária, somente se afigura cabível, nos embargos à execução fiscal, após a solução definitiva da competente autoridade fiscal acerca do pedido. É que, vale repisar, nos termos do artigo 16 da Lei nº 6.830/80, a compensação somente pode ser considerada e, portanto, admitida na execução fiscal, guando definitivamente homologada pela Administração Fazendária. Noutro dizer, é vedado o pedido de compensação nos autos dos embargos à execução fiscal, de crédito não homologado na seara administrativa.
+A embargante sustenta a inexistência de dívida tributária, tendo em conta que os valores executados foram objeto de compensações regularmente declaradas em DCTF"s, nos termos do art. 66 da Lei nº 8.383/91. Todavia, ressalta, ela própria, que os respectivos valores foram inscritos em dívida ativa, sem indeferimento expresso da autoridade tributária, destacando que "nunca houve qualquer manifestação expressa por parte da Receita Federal no sentido de não homologar as compensações efetuadas pela Apelante".
+Ora, sabe-se que o Fisco tem, nos termos do art. 74, § 5º, da Lei nº 9.430/96, o prazo de cinco anos para homologar, ou não, a compensação promovida pelo contribuinte, contado da data de entrega da declaração.
+Se a respectiva compensação não for homologada, expressa ou tacitamente pelo decurso do prazo, o contribuinte deverá efetuar o recolhimento do crédito em trinta dias ou, dentro desse prazo apresentar impugnação (manifestação de inconformidade) contra o ato de não homologação (§§ 7º e 9º do art. 74, da Lei nº 9.430/96).
+Da leitura do recurso especial, verifica-se que os fundamentos suficientes para a manutenção do acórdão não foram impugnados de forma específica pela parte recorrente, deficiência argumentativa que atrai, por analogia, o óbice da Súmula 283 do STF. Isso porque o recorrente se limitou a tecer considerações sobre a matéria sem infirmar, especificamente, os fundamentos do acórdão recorrido.
+Nesse sentido, confira-se a jurisprudência desta Corte Superior:
+PROCESSUAL CIVIL. AGRAVO INTERNO. REVISÃO DO BENEFÍCIO. INAPLICÁVEL À DECADÊNCIA PREVISTA NO ART. 103-A DA LEI 8.213/1991. FUNDAMENTO NÃO ATACADO. SÚMULAS 283 E 284/STF.
+1. O Tribunal de origem consignou:  .. . A irresignação não merece prosperar, porquanto o Tribunal a quo utilizou fundamentos que a parte recorrente esquivou-se de rebater. Como os fundamentos não foram atacados pela parte recorrente e são aptos, por si sós, para manter o decisum combatido, permitem aplicar na espécie, por analogia, os óbices das Súmulas 284 e 283 do STF, ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo.
+ ..
+3. Agravo Interno não provido (AgInt no AREsp 2.289.600/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 21/8/2023, DJe de 21/9/2023).
+Súmula 284 do STF
+Além disso, observo que os argumentos invocados não demonstram como o acórdão recorrido violou os arts. 156, II, do CTN; 3º, parágrafo único, da LEF; 803, I, do CPC; e 66 da Lei 8.383/1991, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284 do STF.
+Desse modo, incide o óbice da aludida súmula uma vez que a parte recorrente não demonstrou, de forma clara, direta e particularizada, como o acórdão recorrido violou cada um dos dispositivos de lei federal indicados, o que atrai, por conseguinte, a aplicação do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+De certo que a apresentação de razões recursais claras, organizadas e compreensíveis constitui ônus processual do recorrente, essencial à validade do ato recursal. No presente caso a parte recorrente não cumpriu adequadamente esse ônus ao formular suas razões recursais.
+Nesse sentido:
+PROCESSUAL CIVIL.  ..  ALEGAÇÃO GENÉRICA DE VIOLAÇÃO À DISPOSITIVO LEGAL. DEFICIÊNCIA RECURSAL. SÚMULA 284/STF. O TERMO INICIAL DO BENEFÍCIO.
+ ..
+3. A jurisprudência desta Corte considera que quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284/STF  ..  (AgInt no AREsp 2.161.783/SP, relator Ministro Humberto Martins, Segunda Turma, julgado em 24/4/2023, DJe de 27/4/2023).
+Súmula 7 do STJ
+Observo, ainda, que a alteração da conclusão do Tribunal recorrido, para reconhecer a compensação alegada nas razões recursais, encontra óbice na Súmula 7 do STJ. Dessa forma, para rever essa conclusão, seria imprescindível o reexame de todo o acervo fático e probatório dos autos, providência vedada em recurso especial, nos termos da Súmula 7 do STJ.
+Nesse sentido: "É inviável, em sede de recurso especial, o ree xame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial"" (AgInt no AREsp 1.964.284/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+Isso posto, nego provimento ao recurso.
