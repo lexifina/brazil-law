@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/12/2025 a 17/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. REFORMA DE SENTENÇA ABSOLUTÓRIA DO TRIBUNAL DO JÚRI. UNIRRECORRIBILIDADE. INSTRUÇÃO DEFICIENTE. PRETENSÃO CONTRÁRIA AO DECIDIDO NO JULGAMENTO DO TEMA 1.087/STF.
+1. A decisão agravada foi fundamentada na existência de óbices formais ao conhecimento do habeas corpus, considerando que a questão deduzida já foi objeto de recurso especial e que a petição inicial não foi acompanhada da decisão que julgou os embargos de declaração opostos ao acórdão que deu provimento ao recurso ministerial para cassar a sentença absolutória.
+2. A pretensão do agravante contraria o entendimento firmado pelo Supremo Tribunal Federal no julgamento do Tema n. 1.087, que reconheceu a possibilidade de interposição de recurso de apelação com base no art. 593, III, d, do Código de Processo Penal, nos casos em que a decisão do Tribunal do Júri, amparada em quesito genérico, for considerada pela acusação como manifestamente contrária à prova dos autos.
+3. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por LEANDRO DIAS SANTOS contra a decisão de minha lavra que indeferiu liminarmente a petição inicial do habeas corpus (fls. 141/143).
+Neste recurso, a defesa alega que a impetração deste habeas corpus não ofenderia o princípio da unirrecorribilidade, uma vez que se referiria a novo constrangimento ilegal, atual e concreto, que não se confundiria com o objeto do AREsp n. 2.685.009/PA, tendo em vista a possibilidade de que o agravante torne a ser preso para ser submetido a novo julgamento pelo Tribunal do Júri.
+Argumenta que não se verificaria a deficiência na instrução da petição inicial, mencionada na decisão agravada como um dos motivos para o indeferimento liminar do pedido, e que, de todo modo, as peças faltantes poderiam ser solicitadas às instâncias inferiores.
+Sustenta que a sentença absolutória fundada em quesito genérico seria insuscetível de reforma no julgamento de apelação interposta com fundamento no art. 593, III, d, do Código de Processo Penal, como ocorreu no caso.
+Afirma que seria possível a concessão da ordem, por decisão de ofício, nos termos do art. 647-A do Código de Processo Penal, na medida em que seria manifesta ilegalidade do acórdão impugnado.
+Ao final, pede a reconsideração da decisão agravada e, em caso contrário, a submissão do recurso ao colegiado, para que este lhe dê provimento, com a concessão da ordem para que seja declarada a anulação do acórdão da 2ª Turma de Direito Penal do TJPA e o restabelecimento integral da absolvição preferida pelo Conselho de Sentença, em respeito à soberania dos veredictos (fl. 162).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. REFORMA DE SENTENÇA ABSOLUTÓRIA DO TRIBUNAL DO JÚRI. UNIRRECORRIBILIDADE. INSTRUÇÃO DEFICIENTE. PRETENSÃO CONTRÁRIA AO DECIDIDO NO JULGAMENTO DO TEMA 1.087/STF.
+1. A decisão agravada foi fundamentada na existência de óbices formais ao conhecimento do habeas corpus, considerando que a questão deduzida já foi objeto de recurso especial e que a petição inicial não foi acompanhada da decisão que julgou os embargos de declaração opostos ao acórdão que deu provimento ao recurso ministerial para cassar a sentença absolutória.
+2. A pretensão do agravante contraria o entendimento firmado pelo Supremo Tribunal Federal no julgamento do Tema n. 1.087, que reconheceu a possibilidade de interposição de recurso de apelação com base no art. 593, III, d, do Código de Processo Penal, nos casos em que a decisão do Tribunal do Júri, amparada em quesito genérico, for considerada pela acusação como manifestamente contrária à prova dos autos.
+3. Agravo regimental improvido.
+VOTO
+As razões deduzidas no agravo regimental não são suficientes para determinar a revisão da decisão recorrida.
+Como registra a fundamentação da decisão agravada, existem óbices formais ao conhecimento do habeas corpus, uma vez que a questão ora deduzida já foi objeto do AREsp n. 2.685.009/PA e que a petição inicial não foi acompanhada do acórdão que julgou os embargos de declaração opostos pela defesa a o acórdão que deu provimento ao recurso ministerial para cassar a sentença absolutória.
+Além disso, constata-se que a pretensão do agravante contraria frontalmente o entendimento firmado pelo Supremo Tribunal Federal no julgamento do Tema n. 1.087, no qual se decidiu que:
+1. É cabível recurso de apelação com base no artigo 593, III, d, do Código de Processo Penal, nas hipóteses em que a decisão do Tribunal do Júri, amparada em quesito genérico, for considerada pela acusação como manifestamente contrária à prova dos autos. 2. O Tribunal de Apelação não determinará novo Júri quando tiver ocorrido a apresentação, constante em Ata, de tese conducente à clemência ao acusado, e esta for acolhida pelos jurados, desde que seja compatível com a Constituição, os precedentes vinculantes do Supremo Tribunal Federal e com as circunstâncias fáticas apresentadas nos autos.
+No caso, o voto condutor do acórdão que deu provimento à apelação ministerial consigna que a absolvição do agravante foi fundamentada na compreensão de que ele teria agido em legítima defesa (fl. 23), não como consequência da apresentação, constante em Ata, de tese conducente à clemência ao acusado.
+Assim, é induvidosa a legalidade da cassação da sentença absolutória, porque motivada pela convicção de que os jurados proferiram veredicto sem respaldo nas provas produzidas, porquanto inexistem provas que corroborem a sustentada legitima defesa (fl. 22).
+Isso posto, nego provimento ao agravo regimental.
