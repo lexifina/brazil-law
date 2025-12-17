@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de Recurso Especial interposto por EDSON MOSSOLIN e MARLUCI MARIA DA SILVA com fundamento no art. 105, inciso III, alínea "a" e "c" da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO , assim ementado (e-STJ, fls. 282/288):
+ASSOCIAÇÃO. Ação de cobrança. Sentença de improcedência. APELAÇÃO. Tema 492 do E. STF. Contribuições que são administradas pela associação autora. Comprovação de benefício direto pela parte ré, além dos demais serviços prestados, tais como serviço de portaria, pavimentação de ruas, etc. Legitimidade das cobranças. Vedação de enriquecimento sem causa. Desassociação requerida expressamente pela parte ré, sem prejuízo da obrigação de ressarcimento, pelo morador, dos serviços recebidos (art. 884 do Código Civil). Sentença reformada. RECURSO PROVIDO.
+Os embargos de declaração opostos contra o acórdão foram rejeitados (e-STJ fls. 459/463).
+O recurso especial aponta violação aos artigos 6º, 9º e 10 do CPC, artigo 206 §3º, IV e §5º, I, do Código Civil; aos Temas 882 do STJ e 492 do STF.
+Os recorrentes pretendem desconstituir o acórdão que, reformando a sentença, julgou procedente o pedido e os condenou ao pagamento de quantia referente a valores não pagos, cobrados a título de taxas de manutenção, por serem proprietários de imóvel, exigidos por associação de moradores, sem que houvesse, nos autos, prova de suas condições de associados. (e-STJ fls. 417/442).
+Intimada nos termos do art. 1.030,do Código de Processo Civil, a parte recorrida afirmou a inexistência de requisitos ou elementos aptos a promover a alteração do julgado impugnado (e-STJ fls. 489/505).
+É o relatório.
+DECIDO.
+O recurso é tempestivo, no entanto deve ser conhecido tão somente pelo fundamento da alínea a do inciso III, do artigo 105, da Constituição da República, tendo em vista que pelo fundamento da alínea c, do artigo citado, não se observa o necessário cotejo analítico entre os julgados apontados como paradigma e o acórdão recorrido, na forma determinada pelos artigos 1.029, §1º, do CPC, e 255, § 1º, do RISTJ.
+Superada a questão da admissibilidade, passa-se à análise do mérito recursal, que consiste em verificar se o Tribunal de origem interpretou corretamente a legislação de regência ao considerar legítima a cobrança, por parte da associação de moradores recorrida, de taxas de manutenção do recorrente, proprietário de imóvel, sem que houvesse, nos autos, prova de sua condição de associado ou, em outras palavras, se seria permitida a interpretação de que teria havido uma associação tácita, decorrente do pagamento, por vários anos, sem oposição, das taxas cobradas.
+O acórdão impugnado encontra-se assim fundamentado:
+ ..
+Cuidam os autos de Ação de Reparação de Danos Materiais, referente às parcelas inadimplidas de acordo e mensalidades não pagas.
+O E. Supremo Tribunal Federal firmou a seguinte tese, em sede de repercussão geral, tema 492:
+"É inconstitucional a cobrança por parte de associação de taxa de manutenção e conservação de loteamento imobiliário urbano de proprietário não associado até o advento da Lei nº 13.465/17, ou de anterior lei municipal que discipline a questão, a partir da qual se torna possível a cotização dos proprietários de imóveis, titulares de direitos ou moradores em loteamentos de acesso controlado, que i) já possuindo lote, adiram ao ato constitutivo das entidades equiparadas a administradoras de imóveis ou (ii) sendo novos adquirentes de lotes, o ato constitutivo da obrigação esteja registrado no competente Registro de Imóveis".
+Pois bem.
+Consta do Estatuto Social da parte autora (fls. 21/32) que a associação foi fundada em 25/05/1998.
+Conforme se verifica da matrícula do imóvel (fls. 56/59), a parte ré adquiriu o imóvel em 22/01/2009.
+Analisando as planilhas de fls. 47/48), verifica-se que estão sendo cobradas as mensalidades referentes ao período de junho/2017 a setembro/2018, que teriam sido objeto do Instrumento Particular de Confissão de Dívida (fls. 45/46). Ocorre que, nos autos nº 1004149-77.2020.8.26.0048, foi reconhecida a ineficácia executiva do referido acordo realizado.
+Assim, a parte autora pretende a cobrança das mensalidades inadimplidas no período de junho/2017 a setembro 2018; bem como das mensalidades vencidas de setembro/2018 a abril/2022.
+A parte ré efetuou alguns pagamentos a título de mensalidade, denotando-se a sua adesão tácita à autora, permitindo-se a cobrança das mensalidades.
+O Decreto Municipal nº 3676/1999 autorizou a execução de obras de manutenção, urbanização, implementação de equipamentos e melhorias na área verde (fls. 163/164). Assim, o custeio de tais serviços passou aos cuidados da autora.
+Ademais, de acordo com os documentos de fls. 72/101, vê-se a contratação de diversos serviços pela autora em benefício dos moradores.
+ ..
+Assim, possível a cobrança das taxas de manutenção pela parte autora.
+A Constituição Federal, em seu artigo 5º, dispõe que "ninguém poderá ser compelido a associar-se ou a permanecer associado", de modo que a pretensão de se desassociar configura direito fundamental da parte ré.
+Por este prisma, deve ser garantido seu direito de se retirar da associação à qual livremente se associou, sob pena de se violar um dispositivo constitucional expresso.
+Destarte, a parte ré deve ser considerada não associada desde a data de recebimento da solicitação formal de desfiliação pela associação (o que ocorreu em 30/10/2010), comprovada às fls. 135. Todavia, remanesce a obrigação de ressarcimento, pelo morador, dos serviços recebidos (art. 884 do Código Civil).
+Assim, deve a r. sentença ser reformada para julgar procedente a ação, para condenar a parte ré ao pagamento de R$ 42.011,85, acrescidos de correção monetária e juros de mora a partir de cada vencimento  ..  (e-STJ fls. 282/288).
+Verifica-se que, ao assim decidir, o Tribunal de origem divergiu do entendimento desta Corte de Justiça, exarado quando do julgamento do Tema 882 no sentido de que as associações de moradores não podem cobrar taxas de manutenção de proprietários de imóveis que não sejam associados ou que não tenham aderido expressamente ao encargo.
+Nesse sentido:
+RECURSO ESPECIAL. AÇÃO DE COBRANÇA. ASSOCIAÇÃO DE MORADORES. COTAS CONDOMINIAIS. NÃO ASSOCIADO. ANUÊNCIA NÃO VERIFICADA. COBRANÇA INDEVIDA. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. SÚMULA Nº 284/STF.
+1. Em regra, as taxas de manutenção criadas por associações de moradores não obrigam os não associados, ficando ressalvadas as hipóteses em que houver anuência ao encargo. Precedentes.
+2. A manifestação de vontade de anuir ao encargo pode se perfectibilizar mediante contrato, por meio de adesão do proprietário aos termos constitutivos da associação de moradores, por intermédio de previsão na escritura pública de compra e venda do lote ou, ainda, do depósito em cartório do contrato padrão contendo as obrigações no registro de imóveis, entre outros.
+3. Rever o entendimento firmado pelas instâncias ordinárias, a partir da tese de que restou comprovada a associação da parte recorrida, demandaria a análise de fatos e de provas dos autos, o que é inviável no recurso especial pela incidência da Súmula nº 7/STJ.
+4. É inadmissível o inconformismo por deficiência na fundamentação quando o recurso especial deixa de indicar qual dispositivo legal seria objeto de interpretação divergente.
+Aplicação da Súmula nº 284/STF.
+5. Recurso especial não conhecido.
+(REsp n. 2.169.607/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 22/9/2025, DJEN de 26/9/2025.)
+EMBARGOS DE DECLARAÇÃO. COMPROVAÇÃO DE FERIADO LOCAL. JURISPRUDENCIA ATUAL DA CORTE ESPECIAL. COMPROVAÇÃO DE FERIADO LOCAL. ASSOCIAÇÃO DE MORADORES. TAXA DE MANUTENÇÃO.
+1. No julgamento da QO no AREsp 2.638.376/MG, a Corte Especial, pacificando a controvérsia até então existente, decidiu "no sentido de aplicar os efeitos da Lei nº 14.939/2024 também aos recursos interpostos antes de sua vigência, devendo ser observada, igualmente, por ocasião do julgamento dos agravos internos/regimentais contra decisões monocráticas de inadmissibilidade recursal em decorrência da falta de comprovação de ausência de expediente forense".
+2. De acordo com o entendimento do STF (Tema 492) e do STJ (Tema 882), às relações jurídicas constituídas antes da entrada em vigor da Lei nº 13.465/2017 ou de anterior lei municipal disciplinando a questão, é inválida a cobrança de taxa de manutenção de loteamento fechado, por administradora constituída sob a forma de associação, de proprietários de lote não associados ou que a ela não anuíram expressamente. Após a entrada em vigor da Lei nº 13.465/2017 ou de anterior lei municipal disciplinando a matéria, é possível a cobrança, por associação de moradores, de taxa de manutenção de titulares de direito sobre lotes localizados em loteamento de acesso controlado desde que, já possuindo lote, adiram ao ato constitutivo da associação ou sendo novos adquirentes de lotes, o ato constitutivo da obrigação esteja registrado no competente Registro de Imóveis.
+3. É pacífica a jurisprudência desta Corte a respeito da impossibilidade de "aceitação tácita" sobre a cobrança do encargo cobrado por associação de moradores, sendo indispensável que o adquirente do terreno manifeste adesão inequívoca ao ato que instituiu tal encargo.
+4. Embargos de declaração acolhidos, com efeitos infringentes, para reconhecer a omissão, tornando sem efeito os julgados anteriores, e dar provimento ao recurso especial.
+(EDcl no AgInt no REsp n. 2.130.884/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 26/5/2025, DJEN de 29/5/2025.)
+Incide, no ponto, a Súmula 568/STJ, segundo a qual o relator poderá dar ou negar provimento ao recurso, monocraticamente, quando houver entendimento dominante desta Corte acerca do tema.
+Ante o exposto, com fundamento no artigo 255, §4º, II, do Regimento Interno do Superior Tribunal de Justiça, dou provimento ao recurso especial para restabelecer a sentença contida no e-STJ fls. 211/214 que julgou improcedente o pedido.
+Publique-se. Intimem-se.
+EMENTA
