@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MUNICÍPIO DE VITÓRIA, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Espírito Santo, que julgou a Apelação Cível n. 0090807-24.2010.808,0000, assim ementado:
+REEXAME DA APELAÇÃO CÍVEL - ART. 1.030, II, DÓ CPC - EMBARGOS À EXECUÇÃO FISCAL - TRIBUTÁRIO - ISSQN - DEDUÇÃO DOS MATERIAIS EMPREGADOS NO SERVIÇO DE CONCRETAGEM - POSSIBILIDADE - TEMA ND 247 DO STF - NOVA ANÁLISE - JUÍZO DE RETRATAÇÃO - ACÓRDÃO REFORMADO.
+A parte recorrente alega, além de divergência jurisprudencial, violação do art. 9º, § 2º, do Decreto-Lei n. 406/1968 e do art. 7º, § 2º, da Lei Complementar n. 116/2003, sustentando a ilegalidade da dedução da base de cálculo do Imposto sobre Serviços de Qualquer Natureza - ISSQN dos valores referentes à aquisição de materiais para a execução de serviços de concretagem; e que "não é todo e qualquer valor de material que pode ser deduzido, mas apenas o valor daqueles materiais produzidos fora do local da prestação do serviço e que tiverem incidência do impostos sobre a à circulação de mercadorias (ICMS)" (fls. 1098-1113).
+Sem contrarrazões de CONCREVIT CONCRETO VITÓRIA LTDA, o recurso foi admitido por ocasião do julgamento de agravo interno interposto contra a decisão que lhe havia negado seguimento (fls. 1171-1184).
+Na sequência, a parte recorrida apresentou petição, apontando a intempestividade do recurso da municipalidade, razão pela qual intimei a parte recorrente para se manifestar a respeito (fls. 1198-1199), o que não foi feito.
+É o relatório.
+Decido.
+A respeito da tempestividade, embora o Município de Vitória tenha sido intimado para comprovar eventuais feriados no âmbito da justiça estadual, não o fez, ao tempo em que não há informações no processo que possibilitem essa aferição.
+De outro lado, consideradas as datas de disponibilização do acórdão recorrido, no Diário de Justiça Eletrônico, em 12 de novembro de 2021 (fl. 1094), e de protocolização da petição do recurso especial, em 1º de abril de 2022 (fl. 1098), é possível concluir pela intempestividade do recurso, tendo em vista ter sido protocolizado após o prazo de 30 dias (arts. 183, § 2º, e 1.003, § 5º, do CPC/2015).
+Nesse sentido, vide:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO RECURSO ESPECIAL. PRAZO DE 15 (QUINZE) DIAS ÚTEIS. ART. 1.003, § 5º, DO CPC. INAPLICABILIDADE DE EXCEÇÕES. AUSÊNCIA DE COMPROVAÇÃO DE FATO EXCEPCIONAL. DECISÃO DE INADMISSIBILIDADE MANTIDA. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+1. O recurso especial foi considerado intempestivo, uma vez que a consulta eletrônica ao teor da intimação do acórdão ocorreu em 08/11/2024, iniciando-se a contagem do prazo recursal em 12/11/2024 e findando-se em 03/12/2024, enquanto a petição recursal foi protocolada apenas em 04/12/2024, em descompasso com o prazo de 15 (quinze) dias úteis previsto no art. 1.003, § 5º, do CPC.
+2. A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que a contagem do prazo recursal deve observar rigorosamente as disposições do Código de Processo Civil, sendo inviável a flexibilização do prazo legal, salvo em hipóteses excepcionais devidamente comprovadas, como feriado local ou suspensão de expediente forense, nos termos do art. 1.003, § 6º, do CPC.
+3. No caso concreto, não há nos autos qualquer comprovação de fato excepcional que justifique a prorrogação do prazo recursal, como a ocorrência de feriado ou indisponibilidade do sistema eletrônico do Tribunal de origem, razão pela qual a decisão de inadmissibilidade do recurso especial, com fundamento na intempestividade, encontra-se em conformidade com a legislação processual e a jurisprudência consolidada do STJ.
+4. Agravo conhecido para não conhecer do recurso especial.
+(AREsp n. 2.938.162/MG, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 22/10/2025, DJEN de 28/10/2025)
+No contexto, o recurso especial não pode ser conhecido.
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Em atenção ao disposto no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado (fl. 1093), respeitados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo .
+Advirto as partes de que a eventual interposição de agravo interno, declarado manifestamente inadmissível ou improcedente, ou de embargos de declaração, manifestamente protelatórios, poderá ensejar a aplicação de multa, nos termos, respectivamente, dos arts. 1.021, § 4º, e 1.026, § 2º, do Código de Processo Civil.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. MUNICÍPIO DE VITÓRIA. AUSÊNCIA DE COMPROVAÇÃO DE FERIADOS E DE SUSPENSÃO DO E XPEDIENTE FORENSE. INTEMPESTIVIDADE. RECURSO ESPECIAL NÃO CONHECIDO.
