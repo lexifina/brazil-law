@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ASTER PETRÓLEO LTDA contra inadmissão, na origem, de recurso especial fundamentado nas alíneas "a" e "c" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO, assim ementado (fl. 120):
+AGRAVO DE INSTRUMENTO E AGRAVO INTERNO PENDENTE - JULGAMENTO CONJUNTO - EXECUÇÃO FISCAL - EXCEÇÃO DE PRÉ-EXECUTIVIDADE - CORREÇÃO MONETÁRIA E JUROS - DESNECESSIDADE DE DILAÇÃO PROBATÓRIA - ADEQUAÇÃO DOS ÍNDICES - TEMA 1.062 DO SUPREMO TRIBUNAL FEDERAL - AUSÊNCIA DE DEMONSTRAÇÃO DE INADEQUAÇÃO DOS INDEXADORES - A COBRANÇA DO FUNJUS NA CDA - AMPARO NO ART. 120, DA LEI COMPLEMENTAR N.111/2002 - RECURSO PRINCIPAL NÃO PROVIDO - AGRAVO INTERNO PREJUDICADO.
+1. A exceção de pré-executividade é admissível na execução fiscal relativamente às matérias conhecíveis de ofício que não demandem dilação probatória (Súmula 393 do STJ).
+2. Cabível a exceção de pré-executividade para questionar os índices de correção monetária e de juros de mora, porquanto não demandam dilação probatória, desde que evidente a sua desconformidade com os parâmetros estabelecidos pela União, que utiliza, atualmente, a taxa referencial do Sistema Especial de Liquidação e de Custódia (SELIC), de acordo com o art. 13 da Lei n. 9.065/1995.
+3. No caso, não restou demonstrado pela parte agravante de que os indexadores relativos à correção monetária e juros de mora utilizados pelo Estado de Mato Grosso para a constituição da CDA que instrui a execução fiscal na origem superam aqueles fixados pela União.
+4. A cobrança do FUNJUS na CDA se mostra legal no caso vertente, por possuir amparo no art. 120, da Lei Complementar estadual n. 111/2002.
+5. Com o julgamento do agravo de instrumento esvazia-se o objeto do agravo interno interposto contra a decisão que indeferiu o efeito suspensivo e não concedeu a antecipação da tutela recursal.
+Em seu recurso especial de fls. 148-161, a parte recorrente alega violação ao art. 85, §§ 2º ao 5º, do Código de Processo Civil (CPC), sob o argumento de que a "denominada verba "FUNJUS" corresponde ao percentual fixo de 10% (dez por cento) incidente sobre o valor do crédito tributário constituído e destinado à Procuradoria do Estado do Mato Grosso, tendo por fundamento a Lei Complementar Estadual nº 111/2002, fazendo, assim, as vezes dos honorários advocatícios sucumbenciais", o que seria ilegal, uma vez que "honorários sucumbenciais só podem ser arbitrados pelo Poder Judiciário, por decisão fundamentada, ao condenar a parte vencida às verbas sucumbenciais, e ainda assim sendo obrigatória a observância dos parâmetros delimitados" legalmente.
+Acrescenta que "o argumento utilizado no Acórdão recorrido de que "o valor recolhido ao FUNJUS substitui o valor que seria fixado pelo juízo a título de honorários advocatícios" não serve de fundamento pela sua manutenção, pois, como apontado, a verba destinada ao FUNJUS é fixada sempre no importe de 10% (dez por cento) do crédito tributário cobrado, enquanto que a verba honorária fixada nos termos do CPC/15 observa critérios de proporcionalidade e razoabilidade, com percentuais distintos conforme o valor objeto da demanda".
+Sustenta que a utilização do índice estadual IGPDI para correção monetária e juros de mora incidentes sobre o crédito tributário das CDAs (Certidões de Dívida Ativa) seria ilegal por suplantar o índice aplicado pela União para os seus créditos tributários, que é a Taxa SELIC. Baseia seu argumento no entendimento firmado pelo Supremo Tribunal Federal (STF), inclusive em sede de repercussão geral (Tema n. 1.062), que estabelece que os Estados e o Distrito Federal podem legislar sobre índices, mas devem se limitar aos percentuais estabelecidos pela União para os mesmos fins, em conformidade com o art. 24, I, §§ 1º e 4º, da Constituição Federal. Afirma que essa questão é estritamente de direito e não demanda dilação probatória, o que afastaria a aplicação da Súmula n. 393 e do Tema Repetitivo n. 108, ambos do STJ.
+O Tribunal de origem, às fls. 218-221, não admitiu o recurso especial sob os seguintes fundamentos:
+Violação de direito local (Súmula 280 do STF)
+Com base na interpretação do artigo 102, III, "a", da CF, pode-se afirmar que o recurso especial tem como finalidade impugnar decisões que contrariem dispositivos da Constituição Federal.
+Assim sendo, não é cabível recurso especial contra decisão judicial que contrarie direito local, consoante dispõe a Súmula 280/STF.
+Nesse sentido:
+(..)
+Assim, a revisão pretendida pelo recorrente com base em suposta violação aos §§ 2º, 3º, 4º e 5º do artigo 85 do Código de Processo Civil, o que extrapola as hipóteses de cabimento do recurso especial, porquanto depende do enfrentamento de direito local, mais especificamente, do artigo 120, da Lei Complementar Estadual nº 111/2002.
+Portanto, inviável a sua admissão neste ponto.
+Violação da Constituição Federal - Via inadequada
+Conforme se depreende da dicção dos artigos 102, III, e 105, III, ambos da Constituição Federal, não é possível a arguição de ofensa a dispositivo constitucional em sede de recurso especial, sob pena de usurpação de competência do Supremo Tribunal Federal, pois ao Superior Tribunal de Justiça compete apenas pacificar a interpretação dada a dispositivo de tratado ou de lei federal.
+Confira-se:
+(..)
+Em análise ao caso concreto, verifica-se que a parte recorrente alegou violação aos artigo 24, I, §§1º e 4º da Constituição Federal, cujo exame é vedado nesta via, conforme visto acima, o que obsta a sua admissão neste ponto.
+Ante o exposto, inadmito o Recurso Especial, com fundamento no artigo 1.030, V, do CPC.
+Em seu agravo, às fls. 227-235, a parte agravante reitera a alegação sobre a suposta ilegalidade da taxa denominada FUNJUS, expondo sobre a violação do art. 85 do CPC, já aduzida em seu apelo especial.
+Defende que seu apelo especial não trata de violação a direito local, mas sim de afronta à legislação federal (art. 85, § 2º ao 5º, do CPC) que disciplina a forma correta de fixação dos honorários advocatícios.
+Além disso, reprisa as razões já expostas em seu recurso especial sobre a alegada ilegalidade do índice utilizado na correção monetária e juros de mora do crédito tributário.
+É o relatório.
+A insurgência não pode ser conhecida.
+De início, verifica-se que não foi impugnada a integralidade da fundamentação da decisão agravada, porquanto a parte agravante não contestou especificamente os fundamentos utilizados para a inadmissão do seu recurso especial.
+Em verdade, a decisão monocrática que negou a subida do apelo raro, ora agravada, assentou-se: a) na aplicação da Súmula n. 280/STF, uma vez que a revisão pretendida pela parte recorrente com base em suposta violação aos §§2º ao 5º do art. 85 do CPC extrapola as hipóteses de cabimento do recurso especial, porquanto depende do enfrentamento de direito local, mais especificamente do art. 120 da Lei Complementar Estadual n. 111/2002; e b) na impossibilidade de análise da alegada violação a dispositivos constitucionais, sob pena de usurpação de competência do STF.
+Todavia, no seu agravo, a parte agravante não refutou suficientemente os referidos fundamentos, os quais, à míngua de impugnação específica e pormenorizada, permanecem hígidos, produzindo todos os efeitos no mundo jurídico.
+Assim, ao deixar de infirmar a fundamentação do juízo de admissibilidade realizado pelo Tribunal de origem, a parte recorrente fere o princípio da dialeticidade e atrai a incidência da previsão contida nos artigos 932, inciso III, do Código de Processo Civil, e 253, parágrafo único, inciso I, do Regimento Interno do STJ, no sentido de que não se conhece de agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida". Nesse sentido:
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. A falta de efetivo combate de quaisquer dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, consoante preceituam os arts. 253, I, do Regimento Interno do Superior Tribunal de Justiça e 932, III, do Código de Processo Civil e a Súmula 182 do STJ.
+5. Agravo interno n ão provido.
+(AgInt no AREsp n. 2.419.582/SP, rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 14/3/2024)
+Ante o exposto, com fundamento no artigo 253, parágrafo único, inciso I, do Regimento Interno do STJ, não conheço do agravo em recurso especial.
+Publique-se.
+Intime-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL QUE NÃO COMBATEU OS FUNDAMENTOS DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DOS ARTS. 932, III, DO CPC, E 253, P. Ú, I, DO RISTJ. AGRAVO NÃO CONHECIDO.
