@@ -1,0 +1,1 @@
+Art. 12. O Estado e os Municípios promoverão a legalização das posses urbanas consolidadas e efetivamente identificadas até a data da instalação da Assembleia Estadual Constituinte, para os que não possuem outro imóvel, no prazo de dois anos após a promulgação desta Constituição, adotando medidas para sua urbanização.

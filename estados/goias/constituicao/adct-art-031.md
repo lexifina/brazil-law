@@ -1,0 +1,1 @@
+Art. 31 . Ficam revertidos às respectivas rubricas do orçamento do Tribunal de Contas dos Municípios todos os saldos financeiros e orçamentários transferidos ao Tribunal de Contas do Estado, em decorrência do disposto na Emenda Constitucional no 19, de 10-9-1997 , ora revogada.

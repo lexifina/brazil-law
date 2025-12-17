@@ -1,0 +1,2 @@
+Art. 36 . O Poder Executivo poderá, no curso do exercício de 2003, efetuar contratações de profissionais da área de saúde, inclusive técnico-administrativos, para atender à necessidade temporária de excepcional interesse público, obedecidas as prescrições estabelecidas na lei disciplinadora do art. 92, inciso X, da Constituição Estadual, retroagindo os seus efetivos a 1o de janeiro de 2003.
+Acrescido pela Emenda Constitucional no 35, de 3-12-2003, D.O. de 3-12-2003

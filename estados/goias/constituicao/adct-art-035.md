@@ -1,0 +1,2 @@
+Art. 35. O Poder Executivo poderá, no curso do fluente exercício, efetuar contratações de pessoal docente para atender à necessidade temporária de excepcional interesse público, até que se dê a publicação oficial da respectiva lei disciplinadora, reportada no art. 92, inciso X, da Constituição Estadual, com nova redação dada pelo art. 1o da emenda que nela introduziu este artigo, retroagindo os seus efeitos a 1o de janeiro de 2003.
+Acrescido pela Emenda Constitucional no 34, de 10-6-2003, D.O. de 14-7-2003 e D.A. de

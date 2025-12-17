@@ -1,0 +1,1 @@
+Art. 15. No prazo de cento e oitenta dias, após a promulgação desta Constituição, a Polícia Militar adotará medidas administrativas que resultem na organização e funcionamento da unidade florestal especializada e dos batalhões de polícia rodoviária e de trânsito.

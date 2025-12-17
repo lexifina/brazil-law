@@ -1,0 +1,3 @@
+Art. 16. Aos remanescentes das comunidades dos quilombos que estejam ocupando suas terras, é reconhecida a propriedade definitiva, devendo o Estado emitir-lhes os respectivos títulos.
+§ 1o Lei complementar criará a reserva Calunga, localizada nos Municípios de Cavalcante e Monte Alegre, nos vãos das Serras da Contenda, das Almas e do Moleque.
+§ 2o A delimitação da reserva será feita, ouvida uma comissão composta de oito autoridades no assunto, sendo uma do movimento negro, duas da comunidade Calunga, duas do órgão de desenvolvimento agrário do Estado, uma da Universidade Católica de Goiás, uma da Universidade Federal de Goiás e uma do Comitê Calunga.

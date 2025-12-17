@@ -1,0 +1,1 @@
+Art. 13. A lei orçamentária do Estado, para o exercício de 1991, consignará subvenção financeira à Centrais Elétricas de Goiás S/A, destinada e suficiente para a encampação da Companhia Hidrelétrica do São Patrício.

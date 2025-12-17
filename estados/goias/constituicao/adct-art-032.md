@@ -1,0 +1,1 @@
+Art. 32 . Fica revertido ao Tribunal de Contas dos Municípios todo o acervo patrimonial transferido ao Tribunal de Contas do Estado, em razão do disposto no art. 32 do ADCT, incluído pela Emenda Constitucional no 19, de 10-9-1997 , ora revogada.

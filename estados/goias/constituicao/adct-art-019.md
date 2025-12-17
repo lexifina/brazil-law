@@ -1,0 +1,1 @@
+Art. 19. No prazo de seis meses, contados da promulgação desta Constituição, o Estado apresentará, ao Conselho Federal de Educação, processo visando obter autorização de funcionamento de todas as unidades de ensino superior já criadas por lei e, especialmente, da Faculdade de Direito, Ciências e Letras de Inhumas.

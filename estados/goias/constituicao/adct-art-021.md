@@ -1,0 +1,5 @@
+Art. 21. Dentro de cento e oitenta dias, após a promulgação desta Constituição, serão revistos os direitos dos servidores públicos inativos e pensionistas do Estado e atualizados os proventos e pensões a eles devidos, para ajustá-los às suas disposições.
+§ 1o Os vencimentos, a remuneração, as vantagens, os adicionais e os proventos de aposentadoria que estejam sendo percebidos em desacordo com esta Constituição, serão imediatamente reduzidos aos limites dela decorrentes, não se admitindo, neste caso, invocação de direito adquirido, ou percepção de excesso a qualquer título.
+§ 2o Os benefícios de prestação continuada, mantidos pela previdência social do Estado, terão seus valores revistos, a fim de que seja restabelecido o poder aquisitivo, expresso em número de salários mínimos que tinham na data de sua concessão.
+- , art. 3o, I, a, e 6o do Ds.Os., de 31-5-1994 e 7-6-1994, art. 3o, I, a.
+§ 3o As pensões pagas pelo Estado, a qualquer título, serão atualizadas na mesma data e pelo percentual com que forem atualizados os vencimentos dos servidores estaduais em atividade.

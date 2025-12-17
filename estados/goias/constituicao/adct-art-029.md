@@ -1,0 +1,1 @@
+Art. 29. Os contratos a que se refere o parágrafo único do art. 33 do ADCT, com a redação dada pela Emenda Constitucional no 19, de 10-9-1997 , ora revogada, ficam transferidos para o Tribunal de Contas dos Municípios.

@@ -1,0 +1,1 @@
+Art. 27 . No prazo de cento e oitenta dias após a promulgação desta, o Executivo mandará imprimir e distribuir, gratuitamente, exemplares desta Constituição às escolas estaduais e municipais, universidades, entidades sindicais, bibliotecas, associações de moradores e outras entidades da sociedade civil, para facilitar o acesso do cidadão às normas constitucionais estaduais.

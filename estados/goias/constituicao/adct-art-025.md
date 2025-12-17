@@ -1,0 +1,4 @@
+Art. 25 . Ficam cancelados, arquivando-se os respectivos processos administrativos e judiciais, os débitos fiscais relativos ao Imposto sobre a Circulação de Mercadorias:
+I - cujo montante, na data da promulgação desta Constituição, somadas as parcelas de imposto, multa, juros e correção monetária, não ulltrapasse o valor de quinhentos cruzados novos;
+II - inscritos ou não em Dívida Ativa, ainda que ajuizados, oriundos de autuações fiscais de operações, cujo fato gerador tenha ocorrido antes de 31 de dezembro de 1976;
+III - quando decorrentes de autos de infração em que a mercadoria tenha sido abandonada, perdida ou perecido, ou expedidos contra motoristas ou transportadores, autonômos ou não, sem residência ou domicílio certo e definido neste Estado ou com endereço em outra unidade da Federação.

@@ -1,0 +1,1 @@
+Art. 112-A . Os recursos correspondentes às dotações orçamentárias, compreendidos os créditos suplementares e especiais, destinados aos órgãos dos Poderes Legislativo e Judiciário, do Ministério Público e da Defensoria Pública, ser-lhes-ão entregues até o dia 20 de cada mês, em duodécimos, na forma da lei complementar a que se refere o art. 165, § 9o da Constituição da República.

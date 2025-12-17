@@ -1,0 +1,3 @@
+Art. 97-A. Ressalvado o disposto no § 4º-A do art. 97, o tempo de contribuição e os demais requisitos para a concessão de aposentadoria por incapacidade permanente para o trabalho, aposentadoria compulsória, aposentadoria voluntária, pensão por morte e as regras de transição dos servidores públicos estaduais e seus beneficiários serão os mesmos aplicados pela União para seus servidores e respectivos dependentes.
+§ 1º O disposto no caput inclui regras e demais requisitos para os servidores com direito a tratamento diferenciado previstos no art. 97, §§ 4º-B, 4º-C, 4º-D, 4º-E e 5º, desta Constituição Estadual.
+§ 2o O disposto no caput aplica-se para as regras e demais requisitos de acumulação de benefícios.

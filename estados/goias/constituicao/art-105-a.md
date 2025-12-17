@@ -1,0 +1,1 @@
+Art. 105-A . Os Municípios poderão instituir contribuição, na forma das respectivas leis, para o custeio dos serviços de iluminação pública, observado o disposto no art. 150, I e III da Constituição da República, podendo ser efetuada a sua cobrança na fatura de consumo de energia elétrica.
