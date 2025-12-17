@@ -1,0 +1,44 @@
+DECISÃO
+Cuida-se de agravo interposto por CIMA ENGENHARIA E EMPREENDIMENTOS LTDA. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS cuja ementa guarda os seguintes termos (fl. 930):
+APELAÇÃO CÍVEL - AÇÃO DE REPARAÇÃO DE DANOS - COMPRA E VENDA DE IMÓVEL - OBRA EMBARGADA EM AÇÃO CIVIL PÚBLICA - PREVISIBILIDADE DO EVENTO - CASO FORTUITO OU FORÇA MAIOR - NÃO OCORRÊNCIA - LOTEAMENTO IRREGULAR - AUSÊNCIA DE DOCUMENTAÇÃO - REGULARIZAÇÃO COM ATRASO - PENALIDADE APLICADA - CORREÇÃO MONETÁRIA DO SALDO DEVEDOR DO FINANCIAMENTO - PRESERVAÇÃO DO VALOR DA MOEDA - JUROS DE MORA - NÃO CABIMENTO - DANO MORAL CONFIGURADO - INDENIZAÇÃO DEVIDA - EMBARGOS DE DECLARAÇÃO - PROTELATÓRIOS - MULTA DEVIDA.
+- O embargo de obra em razão de ajuizamento de ação civil pública não configura caso fortuito ou força maior na hipótese de o evento ser previsível, tratando-se de risco inerente ao negócio.
+- O incorporador só se acha habilitado a negociar unidades autônomas do empreendimento imobiliário quando registrados, no Cartório de Registro Imobiliário competente, os documentos previstos no artigo 32 da Lei n. 4.591/1964. Descumprida a exigência legal, impõe-se a aplicação da multa do art. 35, § 5º, da mesma lei.
+- A correção monetária tem a função de atualizar o valor da moeda e não constitui penalidade, de modo que, independentemente do inadimplemento das obrigações contratuais por qualquer das partes, deve incidir, sobre o valor devido pelo adquirente, até a liquidação do saldo devedor por meio de financiamento bancário.
+- Deve ser afastada a incidência dos juros de mora, pois constituem penalidade imposta ao devedor inadimplente, o que não é o caso do autor com relação ao saldo devedor do financiamento, eis que a mora foi da própria construtora, que, em virtude do atraso na regularização do empreendimento inviabilizou a obtenção de crédito junto ao agente financeiro.
+- Se as obras de infraestrutura básica como as instalações de energia elétrica e de água não são entregues no prazo estipulado, configurado está o descumprimento contratual apto a ensejar a indenização por danos morais.
+- A indenização por danos morais deve ser fixada em valor suficiente e adequado para a compensação dos prejuízos experimentados pelo ofendido e para desestimular-se a prática reiterada da conduta lesiva do ofensor.
+- Se os embargos de declaração são manifestamente protelatórios, cabível a aplicação da multa prevista no parágrafo segundo do art. 1.026 do CPC.
+Os primeiros embargos de declaração (fls. 963-970) opostos pelo recorrente foram acolhidos em parte, tão somente para esclarecimentos, sem efeitos infringentes (fls. 977-985).
+Os segundos embargos de declaração (fls. 995-1.001) foram rejeitados e imputado o pagamento de multa de 5% sobre o valor da causa, nos termos do art. 1.026 do CPC (fls. 1.008-1.018).
+No recurso especial, alega, preliminarmente, ofensa ao art. 1.022, do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia, em especial sobre a condenação ao pagamento de indenização por danos morais de forma presumida, ou seja, sem lastro em provas produzidas.
+Também defendeu obscuridade no acórdão recorrido "visto que constou expressamente a menção a outra ação envolvendo a Cima Engenharia, mas com o demandante Raphael Zumpano de Oliveira, o que traz dúvida razoável se a decisão se pautou no processo correto ou se ocorreu a mera disponibilização de acórdão errado nestes autos, o que não foi objeto de esclarecimento pelo Tribunal a quo." (fl. 1.032)
+Acrescenta que houve obscuridade também a respeito dos motivos que condenou ao pagamento da multa do art. 35 da Lei de Incorporações.
+Por fim, ainda em relação a alegação de desrespeito do art. 1.022, afirma que houve julgamento ultra petita quanto aos juros de mora sobre o saldo devedor.
+Aduz, no mérito, que o acórdão negou vigência aos "artigos 389, 394, 396, 397 e 422 do Código Civil. Inadimplência do Adquirente. Juros de mora. Artigo 393 do Código Civil e artigo 14 do Código de Defesa do Consumidor. Fato de terceiro. Alea externa. Excludente de responsabilidade." (fl. 1.035).
+Sustenta, que houve violação do art. 393 do Código Civil e do art. 14 do Código de Defesa do Consumidor porque "o "embargo judicial da obra" não pode ser equiparado a caso fortuito ou força maior, uma vez que "tal evento é absolutamente previsível e, especialmente, evitável". Portanto, consignou que entraves administrativos na obtenção de licenças não são capazes de afastar a responsabilidade de incorporadora, vez que se trata de risco do próprio empreendimento." (fl. 1.037).
+Aponta divergência jurisprudencial com arestos desta Corte.
+Foram oferecidas contrarrazões ao recurso especial (fls. 1.083-1.101).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 1.112-1.116), o que ensejou a interposição do presente agravo (fls. 1.120-1.134).
+Apresentada contraminuta do agravo (fls. 1.140-1.158).
+Proferido despacho para intimação do recorrente com objetivo de apresentar o recolhimento da multa do art. 1.026, § 3º, do CPC referente a 5% do valor da causa, sob pena de não conhecimento do recurso (fl. 1.179) sem que houvesse qualquer manifestação (fl. 1.182).
+É, no essencial, o relatório.
+O agravo em recurso especial não merece conhecimento, pois não foi atendido o pressuposto objetivo de admissibilidade, tendo em vista o não recolhimento da multa do art. 1.026, § 3º, do CPC referente a 5% do valor da causa.
+A jurisprudência mais recente deste Tribunal reconhece a necessidade de recolhimento da multa prevista no art. 1.026, § 2º, do CPC, para que possa ser admitido qualquer outro recurso .
+Entender de forma diversa seria premiar o recorrente recalcitrante que se utiliza de recursos manifestamente protelatórios, contrariando a finalidade do instituto de coibir a litigância temerária e os atos processuais procrastinatórios. Nesse sentido, cito os seguintes precedentes:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO PROTELATÓRIOS. MULTA DO ART. 1.026, § 2º, DO CPC/2015. AGRAVO INTERNO. NÃO RECOLHIMENTO PRÉVIO DA MULTA. PRESSUPOSTO OBJETIVO DE ADMISSIBILIDADE. NÃO CONHECIMENTO. JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ.
+1. O prévio recolhimento da multa imposta com fundamento no art. 1.026, § 2º, do CPC, decorrente do reconhecimento do caráter protelatório de embargos de declaração, constitui pressuposto objetivo de admissibilidade de qualquer impugnação recursal posterior, nos termos do § 3º do referido dispositivo legal.
+2. A jurisprudência desta Corte Superior orienta-se no sentido de que o não recolhimento da multa prevista no art. 1.026, § 2º, do CPC/2015 impede o conhecimento de recurso subsequente, não sendo necessário aguardar eventual majoração da multa na reiteração de embargos protelatórios para que se configure o óbice processual.
+3. Entendimento contrário premiaria o comportamento recalcitrante da parte que se utiliza de recursos manifestamente protelatórios, contrariando a finalidade do instituto de coibir a litigância temerária e os atos processuais procrastinatórios.
+4. Estando o acórdão recorrido em consonância com a orientação jurisprudencial firmada pelo Superior Tribunal de Justiça, incide o óbice da Súmula 83/STJ, que veda o processamento de recurso especial quando a decisão atacada está alinhada com a jurisprudência dominante desta Corte.
+Recurso especial não conhecido.
+(REsp n. 2.183.629/SC, relator Ministro Humberto Martins, Terceira Turma, julgado em 20/10/2025, DJEN de 23/10/2025.)
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO INTEGRATIVO APLICAÇÃO DE ANTERIOR. MULTA. RECOLHIMENTO. EMBARGOS DECLARAÇÃO NÃO CONHECIDOS.
+1. Não devem ser conhecidos os embargos de declaração, uma vez que a parte não efetuou o recolhimento da multa processual imposta pelo acórdão embargado com fundamento no artigo 1.026, § 2º, do Código de Processo Civil de 2015.
+2. Conforme disposto no artigo 1.026, § 3º, do Código de Processo Civil de 2015, o prévio recolhimento da multa prevista no § 2º do referido dispositivo legal é pressuposto objetivo de admissibilidade de qualquer impugnação recursal.
+3. Embargos de declaração não conhecidos.
+(STJ - EDcl nos EDcl no AgInt nos EDcl no AREsp: 2329219 SP 2023/0093321-6, Relator.: Ministro ANTONIO CARLOS FERREIRA, Data de Julgamento: 22/04/2024, T4 - QUARTA TURMA, Data de Publicação: DJe 26/04/2024)
+Ante o exposto, não conheço do agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro em R$ 500,00 os honorários fixados em desfavor da parte recorrente pelo tribunal de origem (fl. 956 ).
+Publique-se. Intime-se.
+ EMENTA
