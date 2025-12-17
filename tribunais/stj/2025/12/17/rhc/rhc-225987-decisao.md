@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso em habeas corpus com pedido liminar interposto por RODRIGO DE CASTRO CAETANO contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO.
+Consta dos autos que, no âmbito da Operação Fim do Mundo, deflagrada pela Polícia Federal, o paciente foi denunciado, juntamente com outros indivíduos, pela suposta prática dos crimes previstos nos arts. 1º, caput, e § 1º, I e II, e § 4º, da Lei n. 9.613/1998 (4 vezes), c/c o art. 69 do Código Penal, e 2º, caput, e §§ 2º, 3º e 4º, IV, da Lei n. 12.850/2003, na forma do art. 1º, parágrafo único, III e V, da Lei n. 8.072/1990, c/c o art. 69 do Código Penal.
+Sustenta a defesa que há excesso de prazo imputável ao juízo, uma vez que a instrução foi declarada encerrada antes da completa disponibilização das provas digitais consideradas essenciais, as quais foram juntadas aos autos de forma tardia.
+Argumenta que é indevida a aplicação automática da Súmula n. 52 do STJ, pois a instrução não estaria efetivamente concluída sob a ótica da defesa, o que configuraria cerceamento de defesa.
+Alega que teria havido irregularidade procedimental, uma vez que foi certificada a abertura de prazo para alegações finais quando, na realidade, a mídia compartilhada ainda não se encontrava acessível à defesa na data do julgamento na origem.
+Afirma que o magistrado teria prestado informações equivocadas ao tribunal, o que comprometeria sua imparcialidade, além de destacar que a disponibilização do acórdão na instância de origem ocorreu de forma extemporânea.
+Defende que a prisão preventiva se transformou em punição antecipada, sem contemporaneidade e baseada apenas na gravidade abstrata dos fatos.
+Entende que há quebra de isonomia, pois corréus em situação semelhante obtiveram benefícios como prisão domiciliar e cautelares diversas, enquanto o recorrente permanece preso.
+Pondera que o recorrente é primário e de bons antecedentes, com condições pessoais favoráveis e possibilidade de cumprir medidas cautelares diversas, inclusive monitoramento eletrônico.
+Informa que o recorrente é pai de criança de 3 anos e 1 mês e requer prisão domiciliar humanitária, invocando o melhor interesse da criança e a hipossuficiência materna.
+Relata que não há risco atual à ordem pública, à instrução ou à aplicação da lei penal que justifique a manutenção da custódia mais gravosa.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva com a aplicação de medidas cautelares diversas. Subsidiariamente, a conversão em prisão domiciliar humanitária cumulada com cautelares.
+Há petição à fl. 988 em que a defesa relata que, apesar da decisão de 6/10/2025 determinar alegações finais em 20 dias, não houve abertura de vista ao Ministério Público após 29 dias, esclarece que a dilação decorre de pedido ministerial de nova extração de mídias em 29/9/2025 por falha anterior (memorando n 12.031 de 30/9/2024), afirma não ter contribuído para atrasos e requer a juntada da documentação comprobatória.
+É o relatório.
+A matéria aqui suscitada é também objeto dos RHC n. 183.658/RJ e 209.749/RJ, bem como do HC n. 1.036.711/RJ, os quais foram distribuídos em data anterior, os dois primeiros transitados em julgado e encontrando-se o último feito em estágio processual mais avançado, fato que se consubstancia em óbice ao conhecimento do presente recurso.
+Constata-se, assim, a inviável reiteração do pedido, conforme a jurisprudência do Superior Tribunal de Justiça, da qual é exemplo o seguinte julgado:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. NULIDADE. ALEGADA VIOLAÇÃO DE DOMICÍLIO. ENTRADA FRANQUEADA PELO ACUSADO. REITERAÇÃO DE PEDIDOS. AGRAVO REGIMENTAL DESPROVIDO.
+1. A matéria relativa à violação do domicílio já foi decidida por esta Corte Superior no julgamento do HC n. 692.133/SP. Deste modo, diante da inadmissível reiteração de pedidos, inviável o conhecimento do writ.
+2. Apesar da alegação de se tratar de impugnação de atos processuais distintos (recebimento da denúncia e decretação da prisão preventiva), nota-se que a matéria de direito discutida nos presentes autos é a mesma daquela deduzida na impetração primeva, qual seja, a ilicitude do flagrante e das provas colhidas mediante a suposta indevida violação de domicílio, sem que as instâncias ordinárias tenham analisado qualquer novo elemento de prova.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 721.544/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 7/6/2022, DJe de 10/6/2022.)
+De outro lado, quanto à petição de fl. 988, juntada aos autos, observa-se que não houve apreciação pelas instâncias ordinárias, motivo pelo qual não compete a esta Corte Superior examiná-la neste momento, sob pena de indevida supressão de instância.
+Não debatida a questão pela Corte de origem, é firme o entendimento de que "fica obstada sua análise a priori pelo Superior Tribunal de Justiça, sob pena de dupla e indevida supressão de instância, e violação dos princípios do duplo grau de jurisdição e devido processo legal" (RHC n. 126.604/MT, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 07/12/2020, DJe 16/12/2020).
+Ademais, quanto ao alegado excesso de prazo, já apreciado em outros processos conexos, configurando mera reiteração, a Corte local consignou que a mídia objeto de compartilhamento havia sido devidamente juntada aos autos e que o feito se encontrava na fase de diligências finais, tendo sido, em seguida, aberta a etapa de alegações finais, o que afasta a tese de constrangimento por demora.
+Afirmou, ainda, que, estando o processo em fase de alegações finais, o agitado excesso de prazo perdeu o objeto, por não mais subsistirem atrasos a justificar a medida pleiteada.
+Por fim, ressaltou que eventual prolongamento da instrução decorre da elevada complexidade do caso, não sendo atribuível à acusação nem à autoridade apontada como coatora, que vem envidando esforços para assegurar a tramitação célere do feito.
+Ante o exposto, com fundamento no art. 34, XVIII, a, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
