@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/12/2025 a 17/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. MEDIDA CAUTELAR. BUSCA E APREENSÃO. CADE. APURAÇÃO DE PRÁTICA DE CARTEL. AGRAVO INTERNO IMPROVIDO.
+1. Não se configura a alegada violação ao art. 535 do CPC/1973, pois o Tribunal de origem se manifestou de forma clara e fundamentada sobre as questões postas a deslinde.
+2. A análise da ocorrência de prescrição intercorrente, quando demanda o reexame do andamento do processo administrativo, encontra óbice na Súmula 7/STJ.
+3. A ausência de debate, pelo Tribunal de origem, acerca da tese de ilegitimidade passiva impede o conhecimento do recurso especial no ponto, por falta de prequestionamento, nos termos da Súmula 211/STJ.
+4. A revisão dos pressupostos fáticos para a concessão de medida cautelar é vedada em recurso especial, por força do óbice da Súmula 7/STJ.
+5. Agravo interno improvido.
+RELATÓRIO
+MINISTRO  AFRÂNIO  VILELA:  Em análise, agravo interno interposto por ASSOCIAÇÃO DE MOINHOS TRIGO DO NORTE E NORDESTE contra decisão de minha lavra, que conheceu parcialmente do recurso especial e, nessa extensão, negou-lhe provimento, com base nos seguintes fundamentos: (a) inocorrência de violação ao art. 535, II, do CPC/1973; (b) incidência da Súmula 7/STJ quanto à análise da prescrição intercorrente e dos requisitos da medida cautelar; e (c) aplicação da Súmula 284/STF por deficiência na fundamentação recursal.
+A parte agravante alega que houve violação ao art. 535, II, do CPC/1973, pois o Tribunal de origem se omitiu quanto à existência de prova pré-constituída nos autos que permitiria a análise da prescrição. Afirma ser inaplicável a Súmula 7/STJ, pois a análise da prescrição demandaria apenas a revaloração jurídica de fatos incontroversos e datas já consignadas no processo. Reitera a tese de ilegitimidade passiva, por ser associação sem fins lucrativos, e defende a possibilidade de sua apreciação por esta Corte, em razão do efeito translativo dos recursos. Por fim, pugna pelo afastamento da Súmula 735/STF, pois o acórdão recorrido foi definitivo ao julgar a cautelar, e reafirma a ausência de justa causa para a medida.
+Impugnação apresentada pelo CADE às fls. 1911-1915.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. MEDIDA CAUTELAR. BUSCA E APREENSÃO. CADE. APURAÇÃO DE PRÁTICA DE CARTEL. AGRAVO INTERNO IMPROVIDO.
+1. Não se configura a alegada violação ao art. 535 do CPC/1973, pois o Tribunal de origem se manifestou de forma clara e fundamentada sobre as questões postas a deslinde.
+2. A análise da ocorrência de prescrição intercorrente, quando demanda o reexame do andamento do processo administrativo, encontra óbice na Súmula 7/STJ.
+3. A ausência de debate, pelo Tribunal de origem, acerca da tese de ilegitimidade passiva impede o conhecimento do recurso especial no ponto, por falta de prequestionamento, nos termos da Súmula 211/STJ.
+4. A revisão dos pressupostos fáticos para a concessão de medida cautelar é vedada em recurso especial, por força do óbice da Súmula 7/STJ.
+5. Agravo interno improvido.
+VOTO
+MINISTRO  AFRÂNIO  VILELA (Relator):  A irresignação não merece prosperar. A decisão agravada foi proferida em conformidade com a jurisprudência desta Corte Superior, e os argumentos trazidos pela agravante não são suficientes para infirmar seus fundamentos.
+A agravante insiste na tese de omissão do acórdão recorrido. Contudo, conforme destacado em decisão monocrática, não se configura a violação ao art. 535 do CPC/1973 quando o Tribunal de origem se pronuncia de forma clara e suficiente sobre as questões essenciais para a solução da controvérsia.
+No caso, o TRF5 manifestou-se expressamente sobre a prescrição, concluindo que sua análise detalhada dependeria de um exame mais aprofundado, a ser realizado em sede de ação de conhecimento. Constou expressamente do voto condutor do acórdão recorrido (fls. 960-962):
+A tese das apeladas de prescrição intercorrente, dada a incidência dos prazos previstos nas leis 9.873/99 e 12.529/2011, requer apreciação vinculada a ação de conhecimento na qual se torna indispensável a verificação dos dados constantes do inquérito administrativo.
+O fato de o Tribunal não ter acolhido a tese da parte, no sentido de que a análise poderia ser feita de imediato com base nos documentos dos autos, não configura omissão, mas sim a adoção de entendimento diverso. O julgador não está obrigado a rebater, um a um, todos os argumentos levantados, quando já encontrou motivação suficiente para fundamentar sua decisão.
+A decisão agravada aplicou corretamente o óbice da Súmula 7/STJ à pretensão de reconhecimento da prescrição. A verificação da ocorrência de prescrição intercorrente no processo administrativo demanda, inevitavelmente, a análise de seu andamento concreto para determinar se houve paralisação injustificada ou a ocorrência de causas interruptivas ou suspensivas.
+O Tribunal de origem, ao analisar o contexto dos autos, entendeu pela complexidade da matéria e pela necessidade de dilação probatória. Alterar essa conclusão para afirmar, como pretende a agravante, que os documentos juntados são suficientes e que não houve nenhum marco interruptivo no período, exigiria um mergulho no acervo fático-probatório, o que é vedado em sede de recurso especial.
+A tese de ilegitimidade passiva da Associação, em razão de sua natureza jurídica de entidade sem fins lucrativos, não foi objeto de debate e deliberação pelo Tribunal de origem. Da leitura dos acórdãos proferidos na apelação e nos embargos de declaração, constata-se que a Corte a quo não emitiu juízo de valor sobre tal argumento.
+Conforme registrado no relatório do acórdão dos aclaratórios, a insurgência da ora agravante se ateve à "omissão do aresto quanto ao não conhecimento da arguição de prescrição, prescrição intercorrente e caducidade do procedimento".
+Desse modo, ausente o indispensável prequestionamento, a análise da matéria encontra óbice na Súmula 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo". Ressalto que, mesmo se tratando de matéria de ordem pública, o prequestionamento é requisito indispensável para a sua análise em recurso especial.
+Por fim, a aferição da presença dos requisitos para a concessão da medida cautelar - fumus boni iuris e periculum in mora - também exigiria o reexame de fatos e provas. O TRF5, soberano na análise do acervo probatório, concluiu que havia indícios suficientes da prática de infração à ordem econômica, justificando a medida de busca e apreensão.
+Rever tal entendimento para acolher a tese da agravante de que não haveria justa causa para a medida implicaria revalorar as provas que fundamentaram a decisão recorrida, o que é vedado pela Súmula 7/STJ. A incidência da Súmula 735/STF, que ressalta a natureza precária de tais decisões, apenas reforça a inviabilidade do reexame.
+Isso posto, nego provimento ao agravo interno.
