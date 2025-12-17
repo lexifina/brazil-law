@@ -1,0 +1,71 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/12/2025 a 17/12/2025, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Carlos Pires Brandão.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS E DESACATO. DECISÃO DE INADMISSIBILIDADE COM MÚLTIPLOS FUNDAMENTOS. INADEQUAÇÃO DA VIA (MATÉRIA CONSTITUCIONAL). SÚMULA 283/STF. DEFICIÊNCIA DE COTEJO ANALÍTICO. SÚMULA 7/STJ. AGRAVO EM RECURSO ESPECIAL QUE NÃO IMPUGNA ESPECIFICAMENTE TODOS OS FUNDAMENTOS. INCIDÊNCIA DA SÚMULA 182/STJ. PRINCÍPIO DA DIALETICIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática da Presidência do Superior Tribunal de Justiça que não conheceu de agravo em recurso especial, em razão da ausência de impugnação específica de todos os fundamentos da decisão de inadmissibilidade do recurso especial.
+2. O agravante foi condenado em primeira instância pela prática dos crimes de tráfico de drogas e desacato, decisão mantida pelo Tribunal de Justiça do Estado de São Paulo. A defesa alegou nulidade das provas, pugnando pela absolvição.
+3. O Tribunal de origem inadmitiu o recurso especial com base nos seguintes fundamentos: (i) inadequação da via, por alegação de contrariedade a dispositivos constitucionais, matéria de recurso extraordinário; (ii) incidência da Súmula 283/STF, por ausência de impugnação de todos os fundamentos do acórdão recorrido; (iii) deficiência na demonstração do dissídio jurisprudencial; e (iv) incidência da Súmula 7/STJ, por demandar reexame de provas.
+4. Interposto agravo em recurso especial, a Presidência do Superior Tribunal de Justiça não o conheceu, aplicando, por analogia, a Súmula 182/STJ, em razão da ausência de impugnação específica de todos os fundamentos da decisão de inadmissibilidade.
+5. No agravo regimental, o recorrente sustenta que sua impugnação foi específica e pormenorizada, rebatendo todos os fundamentos da decisão de inadmissibilidade, requerendo a reforma da decisão agravada.
+6. O Ministério Público Federal manifestou-se pelo não provimento do recurso.
+II. QUESTÃO EM DISCUSSÃO
+7. A questão em discussão consiste em saber se o agravante impugnou de forma específica e pormenorizada todos os fundamentos da decisão de inadmissibilidade do recurso especial, conforme exigido pela Súmula 182/STJ.
+III. RAZÕES DE DECIDIR
+8. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal, sendo seu dispositivo único e incindível, conforme entendimento da Corte Especial do Superior Tribunal de Justiça.
+9. É dever da parte agravante impugnar, de maneira específica, concreta e pormenorizada, todos os fundamentos que sustentam a decisão de inadmissibilidade, sob pena de incidência da Súmula 182/STJ.
+10. No caso, o agravante não impugnou de forma específica os fundamentos da decisão de inadmissibilidade, especialmente no que se refere à via inadequada para alegação a dispositivos constitucionais, à incidência da Súmula 283/STF e à deficiência na demonstração do dissídio jurisprudencial.
+11. A ausência de impugnação específica a fundamentos suficientes para manter a inadmissão do recurso especial justifica a aplicação da Súmula 182/STJ pela decisão monocrática agravada.
+12. A decisão agravada está em sintonia com a jurisprudência do Superior Tribunal de Justiça, não havendo argumento relevante que a infirme.
+IV. DISPOSITIVO
+13. Resultado do Julgamento: Agravo regimental não provido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por WALLISON ALEXANDRE TOLENTINO DA SILVA (fls. 724-727) contra decisão monocrática da Presidência desta Corte (fls. 718-719) que não conheceu de seu agravo em recurso especial.
+Consta dos autos que, no caso, atribuiu-se ao recorrente a prática de tráfico de drogas e desacato, em circunstâncias em que, no dia 11 de janeiro de 2025, por volta das 18h45, fora abordado em via pública no Jardim Alvorada com um eppendorf de cocaína na pochete, enquanto, posteriormente, policiais localizaram em residência 28 eppendorfs de cocaína, 48 porções de crack, peneira com resquícios e 210 eppendorfs vazios.
+A defesa sustentou ausência de fundada suspeita para a revista e inexistência de consentimento válido para o ingresso domiciliar, além de insuficiência para o desacato, tendo a sentença o condenado pelo art. 33 da Lei 11.343/2006 e pelo art. 331 do CP. O acórdão mantido integralmente a condenação e a validade das diligências policiais.
+A defesa interpôs Recurso Especial (fls. 554-575), alegando, em síntese, a nulidade das provas obtidas por busca pessoal e domiciliar supostamente ilegais.
+O Tribunal de origem inadmitiu o recurso (fls. 679-683), aplicando os seguintes óbices: i) inadequação da via, por alegação de contrariedade a dispositivos constitucionais, matéria de Recurso Extraordinário; ii) incidência da Súmula 283/STF (fundamento do acórdão não impugnado); iii) deficiência na demonstração do dissídio jurisprudencial ; e iv) incidência da Súmula 7/STJ (reexame de provas).
+Interposto Agravo em Recurso Especial (fls. 686-701), a Presidência desta Corte não o conheceu (fls. 718-719), porquanto a parte deixou de impugnar especificamente todos os fundamentos da decisão de inadmissão.
+No presente Agravo Regimental, o recorrente sustenta que sua impugnação foi específica e pormenorizada, rebatendo todos os fundamentos da decisão de inadmissibilidade, requerendo a reforma da decisão agravada.
+O Ministério Público Federal, em parecer de fls. 741-743, manifestou-se pelo não provimento do recurso.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS E DESACATO. DECISÃO DE INADMISSIBILIDADE COM MÚLTIPLOS FUNDAMENTOS. INADEQUAÇÃO DA VIA (MATÉRIA CONSTITUCIONAL). SÚMULA 283/STF. DEFICIÊNCIA DE COTEJO ANALÍTICO. SÚMULA 7/STJ. AGRAVO EM RECURSO ESPECIAL QUE NÃO IMPUGNA ESPECIFICAMENTE TODOS OS FUNDAMENTOS. INCIDÊNCIA DA SÚMULA 182/STJ. PRINCÍPIO DA DIALETICIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática da Presidência do Superior Tribunal de Justiça que não conheceu de agravo em recurso especial, em razão da ausência de impugnação específica de todos os fundamentos da decisão de inadmissibilidade do recurso especial.
+2. O agravante foi condenado em primeira instância pela prática dos crimes de tráfico de drogas e desacato, decisão mantida pelo Tribunal de Justiça do Estado de São Paulo. A defesa alegou nulidade das provas, pugnando pela absolvição.
+3. O Tribunal de origem inadmitiu o recurso especial com base nos seguintes fundamentos: (i) inadequação da via, por alegação de contrariedade a dispositivos constitucionais, matéria de recurso extraordinário; (ii) incidência da Súmula 283/STF, por ausência de impugnação de todos os fundamentos do acórdão recorrido; (iii) deficiência na demonstração do dissídio jurisprudencial; e (iv) incidência da Súmula 7/STJ, por demandar reexame de provas.
+4. Interposto agravo em recurso especial, a Presidência do Superior Tribunal de Justiça não o conheceu, aplicando, por analogia, a Súmula 182/STJ, em razão da ausência de impugnação específica de todos os fundamentos da decisão de inadmissibilidade.
+5. No agravo regimental, o recorrente sustenta que sua impugnação foi específica e pormenorizada, rebatendo todos os fundamentos da decisão de inadmissibilidade, requerendo a reforma da decisão agravada.
+6. O Ministério Público Federal manifestou-se pelo não provimento do recurso.
+II. QUESTÃO EM DISCUSSÃO
+7. A questão em discussão consiste em saber se o agravante impugnou de forma específica e pormenorizada todos os fundamentos da decisão de inadmissibilidade do recurso especial, conforme exigido pela Súmula 182/STJ.
+III. RAZÕES DE DECIDIR
+8. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal, sendo seu dispositivo único e incindível, conforme entendimento da Corte Especial do Superior Tribunal de Justiça.
+9. É dever da parte agravante impugnar, de maneira específica, concreta e pormenorizada, todos os fundamentos que sustentam a decisão de inadmissibilidade, sob pena de incidência da Súmula 182/STJ.
+10. No caso, o agravante não impugnou de forma específica os fundamentos da decisão de inadmissibilidade, especialmente no que se refere à via inadequada para alegação a dispositivos constitucionais, à incidência da Súmula 283/STF e à deficiência na demonstração do dissídio jurisprudencial.
+11. A ausência de impugnação específica a fundamentos suficientes para manter a inadmissão do recurso especial justifica a aplicação da Súmula 182/STJ pela decisão monocrática agravada.
+12. A decisão agravada está em sintonia com a jurisprudência do Superior Tribunal de Justiça, não havendo argumento relevante que a infirme.
+IV. DISPOSITIVO
+13. Resultado do Julgamento: Agravo regimental não provido.
+VOTO
+Presentes os requisitos de admissibilidade, conheço do recurso interposto.
+No mérito, contudo, a pretensão recursal não merece acolhimento, devendo a decisão agravada ser mantida em sua integralidade.
+Conforme relatado, o agravante foi condenado em primeira instância pela pratica do crime de tráfico de drogas e desacato, decisão mantida pelo Tribunal de Justiça do Estado de São Paulo.
+A decisão monocrática da Presidência desta Corte (fls. 718-719) não conheceu do Agravo em Recurso Especial com base no artigo 932, inciso III, do Código de Processo Civil, e no artigo 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, aplicando, por analogia, o verbete sumular n. 182 desta Corte.
+Para que a controvérsia seja adequadamente analisada, é imperioso revisitar os fundamentos da decisão que inadmitiu o Recurso Especial, proferida pelo Tribunal de Justiça do Estado de São Paulo (fls. 679-683).
+A autoridade de origem obstou o seguimento do recurso com base em fundamentos autônomos e suficientes, quais sejam: inadequação da via, por alegação de contrariedade a dispositivos constitucionais, matéria de Recurso Extraordinário; a incidência da Súmula 283/STF, ao consignar que não foram devidamente atacados todos os argumentos do aresto; a deficiência na demonstração do dissídio jurisprudencial (alínea "c"), pois não foram preenchidas as condições exigidas legalmente; e a incidência da Súmula 7/STJ, por entender que a pretensão demandaria reexame de provas.
+Conforme assentado pela Corte Especial do Superior Tribunal de Justiça, "a decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único  ..  Não há, pois, capítulos autônomos nesta decisão" (EAREsp 746.775/PR, Rel. Ministro João Otávio de Noronha, Rel. p/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe de 30.11.2018).
+Sendo a decisão de inadmissibilidade una e incindível, é dever da parte agravante impugnar, de maneira específica, concreta e pormenorizada, todos os fundamentos que a sustentam. A ausência de impugnação a qualquer um desses fundamentos, que por si só seria suficiente para manter a inadmissão, atrai a incidência da Súmula 182/STJ, em respeito ao princípio da dialeticidade recursal.
+No caso em tela, a decisão monocrática agravada apontou que o Agravo em Recurso Especial falhou em seu dever de impugnação específica, notadamente quanto aos fundamentos da incidência da Súmula 283/STF e da deficiência na demonstração do dissídio jurisprudencial.
+No que tange ao primeiro fundamento, o Tribunal de Justiça aplicou a Súmula 283/STF por entender que o Recurso Especial não atacou todos os argumentos do acórdão recorrido. De fato, não há, no Agravo em Recurso Especial (fls. 686-701) não fundamentação específica e direta destinada a refutar esse óbice processual.
+E, no que tange ao fundamento relativo à ausência do cotejo analítico, o Tribunal de origem foi claro ao registrar que "o recorrente não demonstrou razoavelmente o dissídio jurisprudencial" e que "não foram preenchidas as condições exigidas", detalhando que o recorrente deveria "mencionar as circunstâncias que identifiquem ou assemelhem os casos confrontados, o que não foi observado".
+Com efeito, a superação do óbice relativo à deficiência do cotejo analítico impõe à parte agravante o dever de evidenciar, pormenorizadamente, a similitude fática e a divergência na interpretação de dispositivo de lei federal entre o acórdão recorrido e o paradigma. O agravante, contudo, não se desincumbiu desse ônus nas razões do Agravo em Recurso Especial. A petição de Agravo em Recurso Especial (fls. 686-701) limitou-se a afirmar que "a defesa fez questão de instruir o Recurso Especial interposto com as cópias do inteiro teor dos acórdãos apontados como paradigmas", citando dois julgados.
+O agravante deveria ter demonstrado, no Agravo em Recurso Especial, que o seu Recurso Especial (fls. 554-575) havia sim realizado o cotejo analítico de forma adequada, o que não fez.
+Além disso, embora não mencionado na decisão ora agravada, do exame dos autos, constata-se que igualmente não houve insurgência do recorrente em relação ao fundamento da inadequação da via, pois não há, nas razões do Agravo em Recurso Especial, capítulo autônomo ou argumentação direta refutando o óbice de que a matéria constitucional seria afeta ao Recurso Extraordinário.
+Portanto, estando ausente a impugnação específica a fundamentos suficientes para manter a inadmissão do Recurso Especial, revela-se correta a aplicação da Súmula 182/STJ pela decisão monocrática agravada.
+Dessa forma, na ausência de argumento relevante que infirme as razões consideradas no julgado ora agravado, que está em sintonia com a jurisprudência desta Corte Superior de Justiça, deve ser mantida a decisão impugnada.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
