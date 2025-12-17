@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Maria Marluce Caldas votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. APENSAMENTO DOS AUTOS. INDEFERIMENTO. SÚMULA 235/STJ. NULIDADE. AUSÊNCIA DE PREJUÍZO. VÍCIOS. NÃO OCORRÊNCIA. DISPOSITIVO CONSTITUCIONAL. EXAME. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1.Os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão ambígua, omissa, obscura ou contraditória, conforme dispõe o art. 619 do CPP.
+2. Esta Corte Superior, ao analisar o tema, posicionou-se de forma clara, adequada e suficiente ao decidir: (i) pela incidência, por analogia, da Súmula n. 235/STJ (A conexão não determina a reunião dos processos, se um deles já foi julgado); (ii) a ausência de prejuízo para a declaração de nulidade (artigo 563 do CPP).
+3. No tocante à violação dos artigos 5º, incisos XXXV, XXXVI e LIV, e 93, inciso IX, da Constituição Federal, não compete ao Superior Tribunal de Justiça a análise de suposta violação de dispositivos constitucionais, ainda que para efeito de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal (art. 102, III, da Carta Magna).
+4. Por meio dos aclaratórios, é nítida a pretensão da parte embargante em provocar o rejulgamento da causa, situação que, na inexistência das hipóteses previstas no art. 619 do CPP, não é compatível com o recurso protocolado.
+5. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por ANTÔNIO LINS DE SOUZA FILHO (e-STJ fls. 605/615) contra acórdão proferido por esta Corte Superior, cuja ementa é a seguinte (e-STJ fls. 593):
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. APENSAMENTO DOS AUTOS. INDEFERIMENTO. SÚMULA 235/STJ. NULIDADE. AUSÊNCIA DE PREJUÍZO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Embora a parte agravante alegue que não pleiteou o reconhecimento da reunião das apelações nº 0000031-93.2024.8.02.0051 e nº 0003226-65.2012.8.02.0000 com base na conexão, fundamentou o pedido na reunião de processos para evitar a ocorrência de julgamentos conflituosos, que é o alicerce do mencionado instituto jurídico. Dessa forma, como o presente processo já foi devidamente julgado, com trânsito em julgado, não cabe, neste momento processual, a sua reunião ao processo originário, nos termos, por analogia, da Súmula 235/STJ (A conexão não determina a reunião dos processos, se um deles já foi julgado).
+2. Como é cediço, a jurisprudência desta Corte Superior se firmou no sentido de que, no campo da nulidade no processo penal, vigora o princípio pas de nullité sans grief, previsto no art. 563, do CPP, segundo o qual, o reconhecimento de nulidade exige a comprovação de efetivo prejuízo. Na hipótese em análise, o recorrente limita-se a arguir a nulidade de forma genérica, sem demonstrar qual teria sido o prejuízo efetivo decorrente da negativa da reunião. Dessa forma, não tendo sido demonstrado prejuízo, não se pode falar em nulidade.
+3. Ademais, conforme consignado pela Corte de origem, o desmembramento da ação penal é faculdade do magistrado e justifica-se quando o órgão judicial reconhece motivo relevante, como é o caso dos presentes autos. Assim, a existência de dois processos dependentes não implica em violação ao princípio da ampla defesa e do contraditório, não tendo a parte ora recorrente demonstrado efetivamente o prejuízo, posto que este não pode ser arguido de forma abstrata.
+4. Agravo regimental não provido.
+Sustenta a ocorrência de omissão. Alega que é nítido que o caso não se trata de processos conexos, o que constitui evidente erro de premissa sanável pela via dos embargos de declaração, o que afasta a aplicação da Súmula 235 do STJ, e que o prejuízo foi concretamente comprovado nos autos , sobre o que o acórdão embargado foi omisso, de forma que é manifesta a necessidade de acolhimento dos presentes embargos para que seja determinado o apensamento dos presentes autos ao processo principal (Apelação Criminal n. 0003226-65.2012.8.02.0000) (e-STJ fls. 613).
+Aduz violação aos artigos 5º, incisos XXXV, XXXVI e LIV, e 93, inciso IX, da Constituição Federal.
+É o relatório.
+EMENTA
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. APENSAMENTO DOS AUTOS. INDEFERIMENTO. SÚMULA 235/STJ. NULIDADE. AUSÊNCIA DE PREJUÍZO. VÍCIOS. NÃO OCORRÊNCIA. DISPOSITIVO CONSTITUCIONAL. EXAME. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1.Os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão ambígua, omissa, obscura ou contraditória, conforme dispõe o art. 619 do CPP.
+2. Esta Corte Superior, ao analisar o tema, posicionou-se de forma clara, adequada e suficiente ao decidir: (i) pela incidência, por analogia, da Súmula n. 235/STJ (A conexão não determina a reunião dos processos, se um deles já foi julgado); (ii) a ausência de prejuízo para a declaração de nulidade (artigo 563 do CPP).
+3. No tocante à violação dos artigos 5º, incisos XXXV, XXXVI e LIV, e 93, inciso IX, da Constituição Federal, não compete ao Superior Tribunal de Justiça a análise de suposta violação de dispositivos constitucionais, ainda que para efeito de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal (art. 102, III, da Carta Magna).
+4. Por meio dos aclaratórios, é nítida a pretensão da parte embargante em provocar o rejulgamento da causa, situação que, na inexistência das hipóteses previstas no art. 619 do CPP, não é compatível com o recurso protocolado.
+5. Embargos de declaração rejeitados.
+VOTO
+Não existem vícios a serem sanados no acórdão embargado.
+Sabe-se que os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão ambígua, omissa, obscura ou contraditória, conforme dispõe o art. 619 do Código de Processo Penal.
+Verifica-se que esta Corte Superior, ao analisar o tema, posicionou-se de forma clara, adequada e suficiente ao decidir: (i) pela incidência, por analogia, da Súmula n. 235/STJ (A conexão não determina a reunião dos processos, se um deles já foi julgado); (ii) a ausência de prejuízo para a declaração de nulidade (artigo 563 do CPP).
+No tocante à violação dos artigos 5º, incisos XXXV, XXXVI e LIV, e 93, inciso IX, da Constituição Federal, não compete ao Superior Tribunal de Justiça a análise de suposta violação de dispositivos constitucionais, ainda que para efeito de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal (art. 102, III, da Carta Magna).
+Dessa forma, por meio dos aclaratórios, é nítida a pretensão da parte embargante em provocar o rejulgamento da causa, situação que, na inexistência das hipóteses previstas no art. 619 do CPP, não é compatível com o recurso protocolado.
+Com essas considerações, rejeito os embargos de declaração.
+É como voto.
