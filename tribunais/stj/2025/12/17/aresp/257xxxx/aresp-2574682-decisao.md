@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de agravo interposto por GRID SOLUTIONS TRANSMISSAO DE ENERGIA LTDA. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 122):
+AGRAVO DE INSTRUMENTO. RECONHECIMENTO DA VALIDADE DA PENHORA NO ROSTO DOS AUTOS EM JULGAMENTO ANTERIOR. PERDA DO OBJETO. Cuida-se de agravo interno interposto em face da decisão interlocutória a qual levantou a possibilidade de homologação do acordo firmado entre a empresa executada Grid Solutions Transmissão de Energia Ltda (Grid Solutions) e a terceira interessada Paulastec Fundações Ltda, desconsiderando-se a penhora no rosto dos autos que contemplava o crédito objeto do referido acordo. Entretanto, as questões relacionadas à validade e eficácia da penhora no rosto dos autos foram objeto de análise no agravo de instrumento nº 2204955-90.2022.8.26.0000, de minha relatoria, julgado pela Turma julgadora, em 09/11/2022. E, naquele julgamento houve reconhecimento da ineficácia do acordo até o montante do crédito decorrente da penhora no rosto dos autos, resultando na perda do objeto do presente recurso. RECURSO PREJUDICADO.
+Rejeitados os embargos de declaração opostos (fls. 816-821).
+No recurso especial, alega ofensa ao art. 1.022, do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Alega que o acórdão contrariou as disposições contidas nos artigos 930, parágrafo único, e 860 do CPC.
+Aduz que o acórdão dos embargos teria omitido análise específica sobre se a intimação das partes supre os requisitos de "averbação" e "destaque" do art. 860.
+Sustenta nulidade por violação da prevenção e à publicidade das regras de distribuição, com cerceamento de defesa, requerendo retorno dos autos para julgamento conjunto dos três agravos sob a relatoria preventa.
+Aduz cerceamento de defesa, pois apesar da oposição expressa e tempestiva ao julgamento virtual, amparada na Resolução n. 549/2011, com redação da Resolução n. 772/2017, do Órgão Especial do Tribunal de Justiça de São Paulo, a Corte de origem afirmou inexistir irregularidade por ausência de "alerta" à Turma e falta de demonstração de prejuízo, mas a recorrente sustenta que o direito de oposição independe de motivação e que houve prejuízo pela impossibilidade de apresentar memoriais e despachar com os julgadores.
+Assevera que o acórdão considerou "válida e eficaz" a penhora no rosto dos autos com base em: intimação da devedora; "averbação"/anotação interna; e inclusão de pendência no sistema eletrônico, conforme o art. 1.232 das Normas da Corregedoria Geral da Justiça (NSCGJ),contudo houve apenas "anotação", não "averbação", e que faltou o "destaque" previsto em lei, o que macula a validade e eficácia da penhora.
+Foram oferecidas contrarrazões ao recurso especial (fls. 826-832).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 857-859), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 899-911).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Da detida análise dos autos, merece guarida a alegação de afronta ao art. 1.022 do CPC .
+Consoante se infere dos autos, o recorrente manejou agravo de instrumento, no qual se declarou prejudicado o recurso com base no julgamento anterior de outro Agravo de Instrumento (n. 2204955-90.2022.8.26.0000), de mesma relatoria.
+Ao julgar prejudicado o agravo de instrumento, o Tribunal de origem afastou a preliminar de cerceamento de defesa, sob o argumento de que o julgamento virtual é a regra e não há previsão de sustentação oral em agravo de instrumento, citando precedentes do STJ. No mérito, considerou o recurso prejudicado, remetendo a análise da validade da penhora a outro julgado, onde foi reconhecida a validade e eficácia da penhora no rosto dos autos por intimação da devedora e inclusão de "alerta de pendência" no sistema eletrônico.
+Com efeito, observa-se que o Tribunal de origem, ao abordar a questão, deixou de analisar a alegação de ausência de enfrentamento da prevenção e da mudança de relatoria, art. 930, parágrafo único, do CPC, além de deixar de analisar especificamente o requisito de "destaque" do art. 860 do CPC, apontados como essenciais pela recorrente e oportunamente suscitados quando da interposição do agravo de instrumento.
+Com efeito, ausente manifestação do Tribunal a quo nesse sentido, intransponível o óbice para o conhecimento da matéria na via estrita do especial, em razão da ausência de prequestionamento e, sobretudo, sob pena de supressão de instância.
+Assim, tendo a recorrente interposto o presente recurso por ofensa ao art. 1.022, incisos I e II, do CPC, e em face da questões suscitadas, tenho como necessário o debate acerca de tais pontos.
+A teor da jurisprudência desta Corte, somente a existência de omissão relevante à solução da controvérsia, não sanada pelo acórdão recorrido, caracteriza a violação do art. 1.022 do CPC.
+Nesse sentido, cito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. OMISSÃO. OCORRÊNCIA.
+1. Configura afronta ao art. 1.022 do CPC/2015 a omissão do Tribunal de origem em emitir juízo de valor a respeito de tema relevante para a solução da controvérsia. Tal circunstância impõe a anulação do julgado que apreciou os embargos declaratórios e o retorno dos autos a origem, a fim de que os vícios sejam sanados.
+2. Agravo interno a que se nega provimento. (AgInt nos EDcl no REsp n. 1.869.138/AL, relator Ministro Og Fernandes, Segunda Turma, DJe de 24/8/2022.)
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial, a fim de que os autos retornem ao Tribunal a quo para julgamento completo dos embargos de declaração.
+Publique-se. Intimem-se.
+ EMENTA
