@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/12/2025 a 17/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL. INFRAÇÃO AMBIENTAL. ALEGADA FALTA DE ATRIBUIÇÃO DO SERVIDOR QUE LAVROU O AUTO DE INFRAÇÃO. QUESTÃO DECIDIDA COM BASE NA LEGISLAÇÃO LOCAL. INCIDÊNCIA DA SÚMULA 280/STF. AGRAVO INTERNO NÃO PROVIDO.
+1. No caso, a controvérsia relacionada à alegada falta de atribuição do servidor que lavrou o auto de infração ambiental foi dirimida mediante análise e interpretação da legislação local de regência, fato que atrai a aplicação, por analogia, da Súmula 280 do STF, que dispõe: "Por ofensa a direito local não cabe recurso extraordinário".
+2.  Agravo  interno  não provido .
+RELATÓRIO
+MINISTRO AFRÂNIO VILELA: Em  análise,  agravo  interno  interposto  por  ORLANDO SOCREPPA  contra  a  decisão  que  conheceu  do  agravo  para não conhecer do recurso especial, em razão da incidência das Súmulas 280, 283 do STF; e 7 do STJ, julgado prejudicado o dissídio jurisprudencial.
+Argumenta  a  parte agravante,  em  síntese,  que "a Súmula 280 do STF distancia-se largamente dos aspectos aos quais se ateve a magistrada para inadmitir o recurso especial, haja vista que a irresignação do Agravante não se amolda à vedação da referida súmula (DIREITO LOCAL), mas se destina a combater ofensa a LEI FEDERAL e ao entendimento do STJ" (fl. 1.541).
+Infirma a incidência da Súmula 283 do STF ao argumento de que "o Recurso Especial aborda, de maneira clara e inequívoca, a inviabilidade de convalidação do ato administrativo lavrado por agente sem designação prévia para atividades de fiscalização ambiental, conforme determina o art. 70, §1º, da Lei n.º 9.605/1998, a exemplo das páginas 5, 9, 16 e 17 do recurso" (fl. 1.542).
+Sustenta, ainda, quanto à incidência da Súmula 7 do STJ, que "o que se discute é a interpretação da legislação federal, e não o reexame de fatos, como corroborado pelos precedentes do Superior Tribunal de Justiça utilizados no recurso, os quais confirmam que a ausência de designação formal do agente torna o auto de infração nulo, independentemente da análise de provas (REsp 1.166.487/MG, AgInt no REsp 1.251.489/PR, AgInt no R Esp 1.565.823/AL), deixando claro que a questão é eminentemente jurídica e a Súmula 7/STJ foi aplicada de forma indevida" (fl. 1.544).
+Por fim, alega que "deve ser afastada a aplicabilidade da Súmula 7 ao caso, haja vista que o entendimento sumular não impede o conhecimento do recurso pela alínea "c" quando a questão controvertida envolve exclusivamente a interpretação da legislação federal, independentemente da análise de provas, como é o caso (art. 70, § 1º, da Lei Federal n.º 9.605/98), além dos paradigmas citados tratarem do mesmo dispositivo legal e do mesmo contexto fático, como exaustivamente demonstrado " (fl. 1.544).
+Pugna pela reconsideração da decisão agravada ou pelo provimento do agravo interno pelo Colegiado.
+Impugnação da parte agravada pelo não conhecimento e não provimento do recurso.
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL. INFRAÇÃO AMBIENTAL. ALEGADA FALTA DE ATRIBUIÇÃO DO SERVIDOR QUE LAVROU O AUTO DE INFRAÇÃO. QUESTÃO DECIDIDA COM BASE NA LEGISLAÇÃO LOCAL. INCIDÊNCIA DA SÚMULA 280/STF. AGRAVO INTERNO NÃO PROVIDO.
+1. No caso, a controvérsia relacionada à alegada falta de atribuição do servidor que lavrou o auto de infração ambiental foi dirimida mediante análise e interpretação da legislação local de regência, fato que atrai a aplicação, por analogia, da Súmula 280 do STF, que dispõe: "Por ofensa a direito local não cabe recurso extraordinário".
+2.  Agravo  interno  não provido .
+VOTO
+MINISTRO AFRÂNIO VILELA (Relator): A pretensão não merece acolhida.
+Na origem, o agravante ajuizou ação, buscando a desconstituição de autos de infração, nos quais lhe fora imposta multa por infração ambiental. A sentença, concluindo que não teria sido "demonstrado que os Autos de Infração tenham sido lavrados por autoridade competente na época da prática do ato" (fl. 1.184), julgou procedente o pedido.
+Interposta apelação, foi provida, pelo Tribunal de origem, em acórdão assim fundamentado:
+Sobre o assunto, sabe-se que o artigo 70, §1º da Lei Federal nº 9.605/1998 estabelece que o auto de infração pode ser lavrado pelos funcionários dos órgãos ambientais e integrantes do Sistema Nacional de Meio Ambiente, que congrega os órgãos e instituições ambientais da União, Estados, Municípios e Distrito Federal, como cito:
+ ..
+Por sua vez, o artigo 6º, da Lei n. 6.938/81, estabelece quais são os órgãos componentes do SISNAMA. Vejamos:
+ ..
+No Estado de Mato Grosso compete à Secretaria do Meio Ambiente - SEMA a responsabilidade prevista no citado dispositivo legal, como consta do Código Estadual Florestal (Lei Complementar n.º 38/95), como abaixo transcrevo:
+ ..
+Com efeito, ao que se afigura da interpretação dos aludidos dispositivos legais, todos os funcionários dos órgãos ambientais integrantes do SISNAMA são competentes para lavratura de auto de infração, sendo neste Estado, a SEMA, o órgão responsável pela proteção ambiental.
+Igualmente, é possível constatar que o legislador não estipulou que o auto de infração contra o meio ambiente somente poderia ser lavrado por um Analista de Meio Ambiente e nem excluiu a possibilidade da autuação ser realizada por um Assessor Técnico da Secretaria de Estado de Meio Ambiente, pois constou na legislação que todos os funcionários do órgão ambiental, independente da nomenclatura do cargo, teria competência para realizar lavratura de autos de infração diante da constatação do cometimento de ilícitos ambientais.
+ ..
+Além disso, ainda que o assessor técnico não pudesse lavrar o auto de infração impugnado, a irregularidade formal não causou PREJUÍZO às garantias do devido processo legal - contraditório e ampla defesa, podendo, dessa forma, ser convalidada na decisão proferida do processo administrativo a qual, inclusive, para surtir efeito deve ser homologada pelo Secretário de Estado do Meio Ambiente, como ocorreu no presente caso.
+Frisa-se que, a convalidação do ato com vício formal possui previsão no artigo 27, inciso II, da Lei n.º 7.692/2002, a qual regula o processo administrativo no âmbito da Administração Pública Estadual (fls. 1.257-1.261, grifo nosso).
+Em seu recurso especial, o agravante aponta ofensa ao art. 70, § 1º, da Lei 9.605/1998, por entender que o mencionado dispositivo legal "confere competência para a lavratura de autos de infração ambiental e instauração de processos administrativos aos funcionários do SISNAMA "designados para as atividades de fiscalização"" (fl. 1.365) e que, no caso, a Lei Estadual 8.515/2006, "não atribuiu ao cargo de Assessor Técnico III a competência para autuar e instaurar processo administrativo ambiental, de modo que o agente autuante deveria ter sido designado, mediante ato normativo interno ou portaria" (fl. 1.367).
+Nesse contexto, conforme registrado na decisão agravada, infirmar as conclusões do acórdão recorrido demandaria o exame da legislação local, o que é vedado em recurso especial, nos termos da Súmula 280 do STF, aplicável por analogia.
+E, tendo a causa sido decidida com base na legislação local, inviável o conhecimento do apontado dissídio jurisprudencial, pois incidente o mesmo óbice processual.
+Com efeito, "a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial quanto ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese" (AgInt no AREsp 2.716.976/RN, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 11/11/2024, DJe de 13/11/2024).
+Isso posto, nego provimento ao recurso .
