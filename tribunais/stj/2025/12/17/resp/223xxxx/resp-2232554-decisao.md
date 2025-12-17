@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão prolatado pelo Tribunal de origem, assim ementado (fls. 342/349, e-STJ):
+Apelação - Ação declaratória de inexistência de débito c/c indenização por danos morais - Sentença de parcial procedência, reconhecendo a inexistência da dívida apontada - Irresignação da autora.
+Danos morais não configurados - Portal "Serasa Limpa Nome" não é meio de publicidade de dívidas, inexistindo acesso a terceiros - Ausência de comprovação de ato depreciativo ou desabonador a causar qualquer abalo extrapatrimonial - Precedentes.
+Honorários advocatícios - Decaimento recíproco - Reconhecimento.
+Recurso provido em parte.
+Em suas razões recursais, a recorrente aponta violação ao art. 85, § 8º-A, do Código de Processo Civil. Aduz que: "( ) A DECISÃO RECORRIDA AFRONTA A LEGISLAÇÃO VIGENTE, FIXANDO HONORÁRIOS A MENOR DO ESTABELECIDO EM LEI, em especial, se considerando que para casos consumeristas a Tabela de Honorários da Ordem dos Advogados do Brasil fixa O MÍNIMO DE R$ R$ 5.557,28 ( )". Para tanto, sustenta que houve dissídio jurisprudencial. Por fim, pede que os honorários sucumbenciais sejam arbitrados no valor de R$ 5.557,28, conforme o art. 85, § 8º-A, do CPC.
+A recorrida, devidamente intimada, apresentou contrarrazões pedindo o não provimento do recurso (fls. 432/440).
+Assim posta a questão, passo a decidir.
+Presentes os pressupostos de admissibilidade e ultrapassado o limite do conhecimento do presente recurso, verifico que a discussão está afetada pela sistemática de recursos repetitivos.
+Mediante análise dos autos, sobreveio sentença de parcial procedência para: a) condenar a ré/recorrida a excluir o nome da autora da lista apontada; b) afastar o pedido de indenização por dano moral; e c) condenar a autora/recorrente ao pagamento das custas e dos honorários sucumbenciais no montante de 10% sobre o valor da causa. Em sede de apelação, o Tribunal de origem deu provimento em parte ao recurso da autora/recorrente, apenas para alterar a distribuição da sucumbência e dos honorários: "( ) reconhecida a sucumbência recíproca, as partes arcarão, cada qual, com 50% das custas e despesas processuais, fixando os honorários advocatícios em R$ 1.640,00 para cada parte, devido ao patrono adverso ( )". Irresignada, interpôs o presente recurso especial.
+Desse modo, cinge-se a controvérsia ao critério para fixação de honorários sucumbenciais.
+Sabe-se que "o critério norteador da distribuição das verbas de sucumbência é o número de pedidos formulados e atendidos, conforme art. 86, caput, do CPC. Configurada a sucumbência recíproca, as custas processuais e os honorários advocatícios devem ser suportados na proporção do decaimento de cada litigante" (REsp n. 2.082.047/CE, relator Ministro Humberto Martins, Terceira Turma, julgado em 20/10/2025, DJEN de 23/10/2025).
+No caso, o acórdão recorrido consignou que um dos pedidos foi acolhido e o outro foi rejeitado, caracterizando sucumbência recíproca. Logo, as partes deveriam arcar, cada uma, com 50% das custas e despesas processuais. Além disso, fixaram-se os honorários advocatícios em R$ 1.640,00 para cada parte, a serem pagos ao advogado da parte contrária. Essa decisão baseou-se no fato de que o valor sugerido para danos morais não vincula o juízo.
+Quanto ao juízo de equidade utilizado para o arbitramento dos honorários, a Corte local estabeleceu que "a definição dos honorários advocatícios com base nas recomendações do Conselho Seccional da OAB, conforme art. 85, § 8º do CPC, possuem apenas o caráter de orientação, não afastando os critérios de fixação previstos no §2º do mesmo artigo, tampouco a aplicação dos princípios da proporcionalidade e razoabilidade".
+O art. 85, § 8º-A, do CPC, em contrapartida, determina que, para fixação equitativa da verba sucumbencial, o juiz deve observar os valores recomendados pela OAB ou o limite mínimo de 10% do valor da causa, aplicando-se o maior valor.
+Trata-se, pois, de recurso especial que versa sobre o Tema Repetitivo 1.388 do STJ:
+PROPOSTA DE AFETAÇÃO. RECURSO ESPECIAL. PROCESSAMENTO SOB O RITO DOS RECURSOS ESPECIAIS REPETITIVOS. ART. 256-H DO RISTJ C/C O ART.1.037 DO CPC/2015. CAUSA-PILOTO. HONORÁRIOS ADVOCATÍCIOS FIXADOS POR EQUIDADE. OBSERVÂNCIA DOS PARÂMETROS DO ART. 85, § 8º-A, DO CPC. AFASTAMENTO DE DIVERGÊNCIA INTERPRETATIVA. AFETAÇÃO AO RITO DOS REPETITIVOS.
+I. CASO EM EXAME
+1. Recurso especial encaminhado à Comissão Gestora de Precedentes pelo reconhecimento de multiplicidade de processos com controvérsia idêntica relativa à observância dos parâmetros mínimos do art. 85, § 8º-A, do CPC na fixação equitativa dos honorários advocatícios. Após manifestação favorável da Procuradoria-Geral da República e declaração de suspeição da Ministra inicialmente relatora, o presente voto propõe a afetação da matéria à sistemática dos repetitivos.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se, na fixação equitativa dos honorários sucumbenciais, o juiz deverá observar os valores recomendados pelo Conselho Seccional da OAB ou o limite mínimo de 10% previsto no § 2º do art. 85 do CPC, aplicando-se o que for maior, nos termos do § 8º-A do mesmo artigo.
+III. RAZÕES DE DECIDIR
+3. O art. 256-E do RISTJ confere ao relator a competência para propor a afetação de recurso especial representativo da controvérsia ao rito dos repetitivos, desde que demonstrados os requisitos legais e regimentais.
+4. A multiplicidade da controvérsia está evidenciada por dezenas de acórdãos no STJ e centenas no TJPE, além de processos em trâmite abordando a mesma matéria.
+5. A jurisprudência da Segunda Seção do STJ já reconheceu que, na fixação equitativa dos honorários, deve ser aplicado o parâmetro mais vantajoso entre os valores da tabela da OAB e o limite de 10% do § 2º do art. 85 do CPC, conforme decidido no AgInt na Rcl n. 47.536/SP, rel. Min. Antonio Carlos Ferreira, DJe de . 5/11/2024 6.
+Apesar disso, persistem divergências entre as Turmas do STJ, havendo julgados que reconhecem a natureza meramente referencial da tabela da OAB, afastando a obrigatoriedade de sua observância.
+7. A instabilidade jurisprudencial e a relevância do tema justificam a fixação de tese vinculante com base na sistemática dos repetitivos, para fins de uniformização da interpretação do art. 85, § 8º-A, do CPC.
+8. Presentes os pressupostos do art. 1.036 e seguintes do CPC /2015 e do art. 256-I do RISTJ, é cabível a afetação do presente recurso ao rito dos repetitivos, com proposta de suspensão, no âmbito desta corte e dos Tribunais, dos recursos especiais e agravos em recursos especiais que versam sobre a matéria.
+IV. DISPOSITIVO E TESE
+9. Recurso afetado ao rito dos repetitivos.
+10. Determinada a suspensão do processamento, no âmbito desta corte e dos Tribunais, dos recursos especiais e agravos em recursos especiais que versam sobre a matéria.
+(ProAfR no REsp n. 2.135.007/SP, relatora Ministra Daniela Teixeira, Segunda Seção, julgado em 30/9/2025, REPDJEN de 7/11/2025, DJEN de 24/10/2025).
+Foi admitida a controvérsia e determinada a suspensão "apenas dos recursos especiais e dos agravos em recurso especial que versem sobre idêntica questão jurídica".
+Nesse contexto, em observância ao art. 256-L do Regimento Interno do STJ, os recursos que tratam da mesma controvérsia no STJ devem aguardar, no Tribunal de origem, a solução dessa questão, viabilizando, assim, o juízo de conformação, atualmente disciplinado pelos arts. 1.039 e 1.040 do CPC.
+Em face do exposto, determino a remessa dos autos ao Tribunal de origem, com a respectiva baixa, nos termos dos arts. 1.039 e 1.040 do CPC.
+Intimem-se.
+EMENTA
