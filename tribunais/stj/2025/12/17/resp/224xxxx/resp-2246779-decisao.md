@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MUNICÍPIO DE JOÃO PESSOA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA proferido no Processo n. 0822630-10.2018.8.15.2001, assim ementado:
+APELAÇÃO CÍVEL. PRELIMINAR. JULGAMENTO EXTRA PETITA. MERO ERRO MATERIAL. REJEIÇÃO.
+1. Não há que falar em julgamento extra petita se o recebimento do pedido se deu de acordo com o exigido na inicial, tendo mera troca na dados no dispositivo do julgado, mas a fundamentação faz clara referência aos dados corretos.
+2. Rejeição da preliminar.
+CONTRATADO. PROMOVIDO QUE NÃO SE DESINCUMBIU DE ELIDIR OS ARGUMENTOS AUTORAIS. DEMANDA AJUIZADA CONTRA A FAZENDA PÚBLICA. MANUTENÇÃO DA SENTENÇA. DESPROVIMENTO DO APELO.
+1. Restando incontroversa a contratação de serviços pelo ente público, que não se desincumbiu de ônus de comprovar o pagamento a profissional contratado, exigindo-se o recebimento do pedido autoral. Sentença mantida por seus próprios fundamentos.
+2. Desprovimento do recurso.
+Os embargos de declaração na origem foram rejeitados (fls. 223-228).
+Nas razões do recurso especial (fls. 238-246) fundamentado no art. 105, inciso III, alíneas a e c, da CF, a parte recorrente aduz violação do art. 1.022 do Código de Processo Civil, sob o argumento de que o acórdão recorrido é omisso ao não se manifestar sobre a responsabilidade da FUNJOPE e sobre sua revelia (fls. 241-242).
+Alega violação dos arts. 141 e 492 do CPC, afirmando ter ocorrido julgamento extra petita, pois a condenação abrangeu eventos de 30/8 e 24/11/2016, embora a petição inicial tenha formulado pedidos apenas quanto aos eventos de 16/9 e 24/9/2016.
+Defende, também, ofensa ao art. 373, incisos I e II, do CPC, ao argumento de que o Tribunal aplicou indevidamente as regras do ônus da prova, pois competia à autora comprovar a existência de relação contratual válida e a efetiva prestação dos serviços, especialmente diante das exigências formais próprias da Administração Pública.
+Afirma, ainda, que o pagamento relativo ao evento de 17/9/2016 não ocorreu por ausência de emissão de nota fiscal, fato impeditivo do direito alegado que não teria sido considerado pela Corte estadual.
+Invoca divergência jurisprudencial quanto à configuração de julgamento extra petita, ao dever de enfrentamento de todas as questões relevantes e à correta distribuição do ônus probatório em demandas contra o Poder Público.
+É o relatório.
+Decido.
+O Tribunal de origem, ao decidir a controvérsia, consignou (fls. 189-196):
+PARCIALMENTE PROCEDENTES OS PEDIDOS AUTORAIS, para condenar o Promovido ao pagamento dos caches correspondentes aos eventos musicais prestados nas datas 30 de agosto, 17 de setembro de 2016 e 24 de novembro de 2016, não acolhendo o pleito de danos morais.
+ ..  quando se referiu ao dia 30 de agosto de 2014, o magistrado subtraiu o ano do evento, restando em sua sentença apenas "30 de agosto". Trata-se de mero erro material, que não tem o condição de alteração do julgado, não sendo razoável considerar que o magistrado estava se referindo ao ano de 2016, especialmente porque nas linhas anteriores, quando discorria sobre sua fundamentação, ele mencionava 30 de agosto de 2014.
+  Pois bem, no que tange ao primeiro evento, embora não conste nos autos contrato específico formalizado entre as partes, a prova de que o show foi realizado está nos autos. Isso porque, além dos documentos de Ids 32413143 e 32413144, se pode depreender das oitivas das testemunhas, Id 32413140, que os eventos de fato ocorrem.
+Quanto aos dois últimos eventos, 16 de setembro de 2016 - Programação Parque da Lagoa e 24 de novembro de 2016 - Festa da Nossa Senhora da Penha, os contratos juntados nos Ids 32413080 e 32413082 dão conta do vínculo entre as partes.
+Nesse aspecto, como pontua o magistrado, "o Promovido não questiona a sua realização ou não, mas afirma, tão somente, que o Demandante não recebeu o pagamento correspondente por não ter apresentado os documentos vindicados administrativamente".
+  Na hipótese, o Demandado, ou Apelante, não declarado fato modificativo, impeditivo ou extintivo do direito da Autora, tecendo apenas discussões, não produzindo meio idôneo de prova suficientemente a demonstrar suas demonstrações (CPC, art. 333, II).
+Ao decidir os embargos de declaração, esclareceu (fl. 227):
+Não houve, em suas razões recursais, qualquer menção à revelia do FUNJOPE ou à "comprovação documental acerca de quem efetivamente celebrou a contratação".
+O acórdão embargado, portanto, se ateve aos limites do recurso, abordando um a um, todos os pontos trazidos pelo Município apelante, não havendo que se falar em omissão.
+Se o resultado do julgamento não está de acordo com o que desejaria o Embargante, a este cabe recorrer através dos recursos próprios.
+Inicialmente, nota-se que o Tribunal de origem decidiu expressamente o tema referente à responsabilidade do FUNJOPE nos limites da devolutividade do recurso, manifestando-se no sentido de que "Não houve, em suas razões recursais, qualquer menção à revelia do FUNJOPE ou à "comprovação documental acerca de quem ocorreu celebrou a contratação".
+Portanto, inexiste omissão, razão pela qual não há de se falar em ofensa ao art. 1.022 do Código de Processo Civil. Nesse sentido: AgInt no AREsp n. 1.878.277/DF, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 12/4/2023, DJe de 12/7/2023; AgInt no AREsp n. 2.156.525/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 28/11/2022, DJe de 12/2/2022.
+Outrossim, na hipótese dos autos, extrai-se do acórdão atacado e das razões de recurso especial que o acolhimento da pretensão recursal exige reexame do contexto fático-probatório, especialmente para rediscutir a prova de realização dos eventos, contratos e documentos administrativos (empenho/notas fiscais).
+Todavia, não cabe a esta Corte, a fim de alcançar conclusão diversa, reavaliar todo o conjunto de fatos e provas da causa, conforme preceitua o enunciado da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial").
+Ademais, resta inviável o conhecimento do apelo pela alínea c do art. 105, inciso III, da Constituição Federal, pois a incidência da Súmula n. 7/STJ impede a verificação da similitude fática indispensável entre os paradigmas indicados e o acórdão recorrido, obstando a demonstração válida do dissídio. Nessa senda: AgInt no AREsp n. 1.402.598/RS, relator Ministro Raul Araújo, Quarta Turma, DJe 22/5/2019; AgInt no AREsp n. 2.825.108/DF, relator Ministro Francisco Falcão, Segunda Turma, 22/10/2025, DJEN 27/10/2025. Também não foi realizado o indispensável cotejo analítico (art. 1.029, § 1º, CPC), com transcrição e demonstração de identidade fática (fls. 239-245).
+Ante o exposto, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Em atenção ao disposto no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor a ser apurado quando do cumprimento de sentença (fl. 156), respeitados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, bem como eventual concessão da gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E CIVIL. RECURSO ESPEICAL. PAGAMENTO DE CONTRATO. INADIMPLÊNCIA. DANOS MORAIS. JULGAMENTO EXTRA PETITA. OMISSÃO. NÃO OCORRÊNCIA. ÔNUS DA PROVA. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
