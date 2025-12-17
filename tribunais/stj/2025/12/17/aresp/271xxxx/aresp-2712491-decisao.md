@@ -1,0 +1,56 @@
+DECISÃO
+Cuida-se de agravo interposto por JORGE ZANATTA ADMINISTRAÇÃO DE BENS E PARTICIPAÇÕES LTDA. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (fls. 2286):
+AÇÃO DE REVISÃO CONTRATUAL. PEDIDO DE PARCELAMENTO DO PREPARO RECURSAL DEFERIDO. AUSÊNCIA DE COMPROVAÇÃO DO PAGAMENTO DE TODAS AS PRESTAÇÕES MESMO APÓS REGULAR INTIMAÇÃO PARA TANTO. DESERÇÃO CARACTERIZADA. Apelo não conhecido.
+Foram rejeitados os embargos de declaração opostos (fls. 2298-2301).
+Nas razões recursais (fls. 2311-2321), a recorrente alegou ofensa aos arts. 4º, 6º, 1.007, § 4º, e 1.022, inciso II, todos do Código de Processo Civil. Sustentou, em síntese, a ocorrência de omissão no acórdão que julgou os embargos de declaração. Defendeu que a deserção de seu recurso de apelação foi decretada indevidamente, pois teria sido induzida a erro por determinação imprecisa do Tribunal de origem para a complementação do preparo. Aduziu, ainda, a violação ao princípio da primazia do julgamento de mérito e a ausência de intimação para recolhimento do valor em dobro, conforme previsto na legislação processual.
+Apresentadas as contrarrazões (fls. 2326-2339).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 2340-2342), o que ensejou a interposição do presente agravo. Naquela decisão, a Presidência da Seção de Direito Privado do TJSP entendeu não haver ofensa ao art. 1.022 do CPC e aplicou o óbice da Súmula 7 do STJ quanto às demais alegações, por entender que a revisão do julgado demandaria reexame de matéria fático-probatória.
+Foi apresentada as contrarrazões (fls. 2326-2339).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 2340-2342) o que ensejou a interposição do presente agravo (fls. 2345 -2356).
+Foi apresentada contraminuta ao agravo (fls. 2361-2369).
+É, no essencial, o relatório.
+O agravo não merece prosperar.
+A controvérsia recursal cinge-se à regularidade do acórdão do Tribunal de Justiça do Estado de São Paulo que, em sede de apelação, decretou a deserção do recurso por ausência de comprovação da integralidade do preparo recursal, mesmo após ter sido a recorrente intimada para sanar a irregularidade.
+Inicialmente, é firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal a quo, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de modo diverso daquele pretendido pela parte.
+No caso dos autos, o acórdão recorrido decidiu, de forma fundamentada, acerca das questões que lhe foram submetidas, de maneira que os embargos de declaração opostos pela recorrente, de fato, não comportavam acolhimento. Ademais, também foram devidamente analisadas e discutidas as questões de mérito, de modo a esgotar a prestação jurisdicional.
+Assim, ausente omissão, contradição, obscuridade ou erro material no acórdão recorrido, não se verifica a alegada violação dos arts. 1.022, II, e 489, §1º, IV, do Código de Processo Civil.
+No mérito, a decisão de inadmissibilidade proferida pelo Tribunal de origem deve ser mantida.
+O Tribunal a quo, soberano na análise das provas, concluiu que a recorrente não comprovou o pagamento de todas as parcelas do preparo e, mesmo após intimada para regularizar a pendência, não o fez de forma satisfatória. Confira-se:
+Examinando os recolhimentos das prestações referentes ao preparo, tem-se que foram eles comprovadas às fls. 2.134 1ª, 2.216 2ª, 2.231 3ª, 2.236 4ª (denominada de quinta prestação na petição de fl. 2.234), 2.241 5ª (denominada de sexta prestação na petição de fl. 2.239), 2.246 6ª (denominada de sétima prestação na petição de fl. 2.245), 2.249 7ª (denominada de oitava prestação na petição de fl. 2.245), 2.261 8ª (denominada de nona prestação na petição de fl. 2.259).
+Tal como advertido pela decisão interlocutória de fl. 2.263, não houve comprovação do pagamento de duas das prestações relativas ao preparo.
+Intimada, a empresa apelante não providenciou o recolhimento devido nem apresentou qualquer justificativa para o descumprimento da determinação.
+Neste contexto, a única solução possível é a declaração da deserção.
+A análise das alegações da parte recorrente, notadamente a de que teria sido "induzida a erro" por uma ordem judicial supostamente "imprecisa", exigiria, inevitavelmente, o reexame do conjunto fático-probatório dos autos. Seria necessário analisar o teor da referida decisão, a cronologia dos pagamentos, os comprovantes juntados e a conduta processual da parte para se concluir de modo diverso do que fez a Corte estadual. Assim, rever tal entendimento encontra óbice no enunciado da Súmula 7 do Superior Tribunal de Justiça.
+A propósito, cito:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. PROPRIEDADE INDUSTRIAL. DESERÇÃO. INEXISTÊNCIA. RECOLHIMENTO VOLUNTÁRIO DE CUSTAS EM DOBRO. COLIDÊNCIA ENTRE MARCAS. INEXISTÊNCIA. IMPOSSIBILIDADE DE CONFUSÃO DOS PRODUTOS PELOS CONSUMIDORES. REVISÃO. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. RECURSO ESPECIAL NÃO PROVIDO.
+1. Conforme entendimento da Corte Especial do STJ, o não pagamento de alguma das verbas que compõem o preparo do recurso comporta intimação para complementação, aplicando-se a regra do art. 1.007, § 2º, do CPC/2015.
+2. Alterar as conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula n. 7 do STJ.
+3. Recurso especial não provido.
+(REsp n. 2.125.689/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 24/11/2025, DJEN de 27/11/2025.)
+Ainda que fosse possível superar referido óbice, o recurso especial não comportaria acolhimento.
+A legislação processual impõe ao recorrente o dever de comprovar o recolhimento do preparo no ato de interposição do recurso, nos termos do art. 1.007, caput, do Código de Processo Civil.
+No caso de insuficiência do valor, quando não recolhida as verbas que compõem o preparo, deve haver a intimação do recorrente apenas para a complementação do pagamento, nos termos do §2º, do art. 1.007 do CPC/2015. Nesse sentido, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DESERÇÃO AFASTADA . ORIGEM. MODIFICAÇÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. PRESTAÇÃO JURISDICIONAL LACUNOSA. AUSÊNCIA. HONORÁRIOS ADVOCATÍCIOS. INTERESSE RECURSAL. AUSÊNCIA. ACÓRDÃO RECORRIDO. FUNDAMENTOS DISSOCIADOS. SÚMULAS NºS 283 E 284/STF. HONORÁRIOS RECURSAIS.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O recurso especial é inviável quando a modificação do acórdão recorrido demanda o reexame do conjunto fático-probatório dos autos, conforme dispõe a Súmula nº 7/STJ.
+3. Nas hipóteses em que o preparo é recolhido de forma insuficiente, o recorrente será intimado para complementar o valor, dispensado, contudo, do recolhimento em dobro, nos termos do art. 1.007, § 2º, do CPC/2015.
+ ..
+8. Agravo interno parcialmente provido .
+(AgInt no AREsp n. 1.900.868/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 22/11/2022, DJe de 29/11/2022.)
+DIREITO CIVIL. RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE ESCRITURA PÚBLICA DE COMPRA E VENDA CUMULADA COM CANCELAMENTO DE REGISTRO IMOBILIÁRIO. PREJUDICIAL DE DESERÇÃO. AUSÊNCIA DE RECOLHIMENTO DAS CUSTAS LOCAIS. INSUFICIÊNCIA DO PREPARO. INTIMAÇÃO PARA
+COMPLEMENTAÇÃO. INAPLICABILIDADE DO ART. 1.007 § 4º, do CPC/2015. PREJUDICIAL DE DESERÇÃO AFASTADA. INTERESSE PROCESSUAL. CARÊNCIA DA AÇÃO. IMPOSSIBILIDADE JURÍDICA DO PEDIDO. DECADÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. INDICAÇÃO DO DISPOSITIVO LEGAL VIOLADO. AUSENTE. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ.
+ ..
+3. Ao imputar a penalidade de pagamento em dobro ao recorrente (art. 1.007, § 4º, do CPC/2015), a Corte local foi de encontro à dicção da norma processual que prevê que, nas hipóteses de insuficiência do preparo recursal - o que se verifica, por exemplo, nos casos em que não recolhida uma das verbas que compõem o preparo - deve haver a intimação do recorrente apenas para a complementação do pagamento.
+ ..
+(REsp n. 1.785.795/PE, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 23/6/2020, DJe de 26/6/2020.)
+Por seu turno, o § 4º do art. 1.007 do CPC, que prevê a intimação para recolhimento em dobro, aplica-se à hipótese de ausência total de comprovação do preparo no ato de interposição do recurso.
+Essa é a jurisprudência desta Corte Superior, no sentido de que "a ausência de regular comprovação do preparo, no ato de interposição do recurso, implica a incidência do § 4º do art. 1.007 do CPC/2015. Quem não prova o pagamento a tempo e modo, sem o amparo de justa causa (§ 6º), nem efetua o recolhimento em dobro quando intimado (§§ 4º e 5º), sofre a pena da deserção (Súmula 187/STJ)" (AgInt no REsp n. 1.900.494/MS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 22/6/2021, DJe de 25/6/2021).
+No caso, foi deferido o parcelamento do preparo, e ao constatar a ausência de comprovação de duas parcelas, o Tribunal de origem, em observância ao § 2º do mesmo art. 1.007 do CPC, intimou a recorrente para suprir a insuficiência no prazo de cinco dias. Contudo, a recorrente não cumpriu a determinação de forma integral e a tempo, deixando de comprovar o recolhimento de uma das parcelas faltantes.
+A alegação de que a determinação judicial era imprecisa não se sustenta, pois o ônus de controlar o correto recolhimento e a devida comprovação de todas as parcelas deferidas era da própria recorrente, sendo este um requisito extrínseco de admissibilidade recursal. Oportunizada a sanação do vício, a parte manteve-se inerte em parte, o que acarreta a preclusão e, consequentemente, a deserção.
+Ademais, não há que se falar em violação do § 4º do art. 1.007 do CPC, que prevê a intimação para recolhimento em dobro. Tal dispositivo aplica-se à hipótese de ausência total de comprovação do preparo no ato de interposição do recurso, e não ao caso de insuficiência do valor, cuja hipótese é tratada especificamente pelo § 2º, procedimento que foi devidamente observado pela Corte de origem. E estando o acórdão recorrido em consonância com a jurisprudência desta Corte, incide o óbice da súmula 83/STJ.
+Por fim, os princípios da cooperação e da primazia do julgamento de mérito (arts. 4º e 6º do CPC) não são absolutos e não servem de escudo para o descumprimento de deveres processuais expressos. A lei processual estabeleceu um equilíbrio, concedendo à parte uma oportunidade para sanar o vício do preparo insuficiente. Se a parte não aproveita adequadamente essa chance, deve arcar com o ônus de sua desídia, não havendo que se falar em excesso de formalismo.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios fixados na origem em desfavor da parte recorrente em 1% (um por cento), observada eventual gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
