@@ -1,0 +1,55 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto por SERGIO NUNES DE ASSIS contra acórdão prolatado, por unanimidade, pela 18ª Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais no julgamento de apelação, assim ementado (fl. 259e):
+APELAÇÃO CÍVEL. DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO ANULATÓRIA DE ATO ADMINISTRATIVO. CONTRATO DE CONCESSÃO DE USO DE IMÓVEL. BOX NO CEASA. BAIXA DA PESSOA JURÍDICA CONCESSIONÁRIA. DESCUMPRIMENTO CONTRATUAL. RESCISÃO DO NEGÓCIO JURÍDICO. POSSIBILIDADE. NULIDADE DO ATO. INEXISTÊNCIA. RECURSO NÃO PROVIDO.
+- Quando da celebração do negócio jurídico, as partes devem observar os princípios da função social do contrato, da boa-fé e da pacta sunt servanda. Nas relações contratuais privadas, prevalecerão o princípio da intervenção mínima e a excepcionalidade da revisão contratual (arts. 421, 421-A e 422, do Código Civil).
+- No caso concreto, a Apelada demonstrou o descumprimento das obrigações assumidas no contrato de concessão de uso (art. 373, II, do CPC), em razão da baixa da empresa concessionária na Junta Comercial do Estado de Minas Gerais - JUCEMG. Logo, não evidenciado vício na rescisão do contrato, não existem motivos para se anular o ato jurídico (art. 171, II, do Código Civil).
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa aos dispositivos a seguir relacionados, alegando-se, em síntese, que:
+i) Art. 113, § 1º, I e IV, do Código Civil - A manutenção da locação em nome da pessoa física, a qual se confunde com a do microempreendedor, não prejudica a execução do contrato administrativo, não revelando, por si só, fato apto a causar a resolução contratual, sobretudo quando adimplentes as obrigações contratuais, em observância aos princípios da boa-fé objetiva da confiança legítima, da surrectio e da função social.
+Com contrarrazões (fls. 287-304e), o recurso foi inadmitido (fls. 308-310e), tendo sido interposto Agravo, posteriormente convertido em Recurso Especial (fl. 343e).
+O Ministério Público Federal manifestou-se às fls. 352-354e pela negativa de conhecimento do recurso especial.
+Feito breve relato, decido.
+Nos termos do art. 932, III, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, mediante decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+- Da alegação de violação ao art. 113, § 1º, I e IV, do CC
+Nas razões do Recurso Especial, aponta-se ofensa ao art. 113, § 1º, I e IV, do CC, alegando-se, em síntese, que a manutenção da locação em nome da pessoa física, a qual se confunde com a do microempreendedor, não prejudica a execução do contrato administrativo, não revelando, por si só, fato apto a causar a resolução contratual, sobretudo quando adimplentes as obrigações contratuais, em observância aos princípios da boa-fé objetiva da confiança legítima, da surrectio e da função social.
+Acerca do tema, a Corte a qua, após minucioso exame dos elementos fáticos contidos nos autos e das cláusulas do contrato, consignou não restar evidenciado vício na rescisão do contrato, motivo pelo qual não existe motivo para se anular o ato jurídico, nos seguintes termos (fls. 264-267e):
+No caso vertente, o Apelante não comprovou a nulidade da rescisão do contrato de concessão de uso (ordem 07), celebrado com a Apelada, na forma do art. 373, I, do CPC.
+Por sua vez, a Apelada demonstrou o descumprimento das obrigações assumidas no contrato (art. 373, II, do CPC), em razão da baixa da empresa na Junta Comercial do Estado de Minas Gerais - JUCEMG (documentos às ordens 33/43).
+De acordo com a cláusula quarta, inciso VI e parágrafo primeiro, do contrato, o Apelante deveria, "submeter-se à fiscalização da CONCEDENTE, no tocante ao cumprimento das exigências deste Contrato e das Normas e Regulamentos Internos", e "a não observância dos deveres descritos nesta cláusula sujeita a CONCESSIONÁRIA às sanções previstas neste Contrato e nas Normas e Regulamentos Internos, sem prejuízo de eventual responsabilização civil e/ou criminal".
+Logo, não evidenciado vício na rescisão do contrato (art. 373, inc. I, do CPC), não existem motivos para se anular o ato jurídico (art. 171, II, do CC).
+ ..
+Consoante precedente deste Egrégio Tribunal de Justiça, "a concessão de uso de área pública caracteriza-se como um ato administrativo unilateral, discricionário, intuitu personae e precário, delegada mediante licitação, ficando sua existência subordinada aos interesses da administração pública. Dessa maneira, em se tratando de transferências de lojas na Ceasaminas, não há dúvidas de que sua concessão a particulares somente poderá ocorrer mediante licitação do poder público" (TJMG - Apelação Cível 1.0000.19.105949-2/001, Relator: Des. Domingos Coelho, 12ª Câmara Cível, julgamento em 22/01/2020, publicação da súmula em 23/01/2020).
+ ..
+Diante do exposto, NEGO PROVIMENTO AO RECURSO e mantenho a sentença, pelos seus próprios e jurídicos fundamentos (destaques meus).
+Do confronto entre a insurgência recursal e a fundamentação adotada pelo tribunal de origem pode-se defluir tanto a possibilidade de mera revaloração de premissas nas quais o acórdão recorrido esteja assentado, quanto a incidência dos óbices constantes nas Súmulas ns. 5 e 7/STJ, segundo as quais, respectivamente, a simples interpretação de cláusula contratual não enseja recurso especial e a pretensão de simples reexame de prova não enseja recurso especial.
+In casu, a análise da pretensão recursal - a manutenção da locação em nome da pessoa física não prejudica a execução do contrato administrativo - a fim de revisar o entendimento adotado pela Corte a qua - no sentido de que não resta evidenciado vício na rescisão do contrato, motivo pelo qual não existe motivo para se anular o ato jurídico - demanda necessária interpretação de cláusula contratual e revolvimento de matéria fática, o que é inviável em recurso especial, à luz dos óbices contidos nos mencionados verbetes sumulares.
+Espelhando de forma ampla essa compreensão:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. INVERSÃO DO ÔNUS DA PROVA. REEXAME DE FATOS E DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. VALORES ACRESCIDOS ENCARGOS DE MORA. REEXAME DE CLÁUSULAS CONTRATUAIS, FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. PROVIMENTO NEGADO.
+ ..
+3. Extrai-se do art. 105, inciso III, da Constituição Federal que a missão do Superior Tribunal de Justiça (STJ) é a de uniformizar a interpretação da legislação federal. No cumprimento de seu papel, não lhe é permitida a formação de novo juízo sobre cláusulas contratuais, fatos e provas dos autos. Incidência das Súmulas 5 e 7 deste Tribunal.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.286.106/SP, relator Ministro PAULO SÉRGIO DOMINGUES, PRIMEIRA TURMA, j. 12/8/2025, DJEN de 15/8/2025.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. CONTRATO ADMINISTRATIVO. FRANQUIA. DESCREDENCIAMENTO. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS 5 E 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. EXAME PREJUDICADO. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+2. O recurso especial não é, em razão das Súmulas 05 e 07/STJ, via processual adequada para questionar julgado que se afirmou explicitamente em contexto fático-probatório próprio da causa, tampouco de interpretação de cláusulas contratuais.
+ ..
+4. Agravo interno não provido.
+(AgInt no AgInt no AREsp n. 1.494.614/SP, relator Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, j. 5/11/2019, DJe de 7/11/2019.)
+Ademais, o tribunal de origem decidiu que a baixa da empresa na Junta Comercial do Estado de Minas Gerais - JUCEMG configurou descumprimento das obrigação contratual, de forma que, considerando o dever de submissão à fiscalização quanto ao cumprimento das exigências contratuais e das normas internas, a inobservância destas dá ensejo às sanções contratuais e regulamentares.
+Contudo, tal fundamentação não foi refutada, de modo que a Parte Recorrente limitou-se a defender ausência de prejuízo na execução do contrato diante da adimplência das demais obrigações contratuais, implicando a inadmissibilidade do recurso, uma vez que a falta de impugnação a fundamento suficiente à manutenção do acórdão recorrido atrai a aplicação, por analogia, da Súmula n. 283 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles").
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. FUNDAMENTO DA CORTE DE ORIGEM NÃO ATACADO NAS RAZÕES DO RECURSO ESPECIAL. SÚMULA 283/STF. PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. INCIDÊNCIA. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA. PROVIMENTO NEGADO.
+1. Não se conhece de recurso especial que não rebate fundamento autônomo e suficiente à manutenção do acórdão proferido, incidindo na espécie, por analogia, o óbice da Súmula 283 do Supremo Tribunal Federal (STF).
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.946.896/SP, Relator Ministro PAULO SÉRGIO DOMINGUES, PRIMEIRA TURMA, julgado em 26.08.2024, DJe de 02.09.2024 - destaque meu).
+PROCESSUAL CIVIL. ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. AGRAVO INTERNO. RECURSO ESPECIAL DE QUE NÃO SE CONHECEU. INDEFERIMENTO DA PETIÇÃO INICIAL. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO SUFICIENTE À MANUTENÇÃO DO JULGADO. SÚMULA 283 DO STF. NECESSIDADE DE REEXAME DE PROVA. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+5. O parquet estadual se atém à questão da competência, sem refutar os dois argumentos que têm o condão de, por si sós, manter o teor decidido, porque afastam a materialidade (conforme assevera a Corte Estadual, a conduta imputada ao réu não apresenta indício de favorecimento da empresa) e o elemento anímico (nos termos decididos pelo Tribunal de origem, o autor da Ação não descreve conduta que potencialmente indicaria a presença de dolo dos acusados). Sendo assim, inafastável o Enunciado 283 da Súmula do STF (AgInt no REsp n. 2.005.884/MG, Rel. Min. Benedito Gonçalves, Primeira Turma, julgado em 9/11/2022, DJe de 14/11/2022).
+ ..
+7. Agravo Interno não provido.
+(AgInt no AREsp n. 2.094.865/RS, Relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 19.08.2024, DJe de 22.08.2024 - destaque meu).
+In casu, impossibilitada a majoração de honorários nos termos do art. 85, § 11, do Código de Processo Civil de 2015, porquanto já alcançado o limite previsto no § 2º, do mencionado dispositivo legal (fl. 267e).
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Especial.
+Publique-se e intimem-se.
+EMENTA
