@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/12/2025 a 17/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. BUSCA DOMICILIAR. TRÁFICO DE DROGAS. ALEGAÇÃO DE NULIDADE DE PROVAS. ABUSO POLICIAL. REEXAME DE FATOS. NEXO DE CAUSALIDADE ENTRE O SUPOSTO ATO ILÍCITO E A PRODUÇÃO DA PROVA. DESCLASSIFICAÇÃO DE CRIME. FINALIDADE MERCANTIL.
+1. A fuga do agravante para o interior do imóvel após receber voz de abordagem é suficiente para configurar fundadas razões para a busca domiciliar sem autorização judicial, conforme entendimento do Supremo Tribunal Federal.
+2. A alegação de agressões infligidas pelos policiais durante a ocorrência não foi comprovada e, além disso, não foi demonstrado nexo de causalidade entre o alegado abuso e a apreensão da droga e outros objetos no interior da residência do agravante.
+3. A quantidade de droga apreendida, 168 pedras de crack, é inusual para consumo próprio e, juntamente com outros elementos probatórios, como depoimentos dos policiais e apreensão de alta quantia em espécie, permite presumir a sua finalidade mercantil, o que desautoriza classificação do fato como porte de droga para consumo próprio.
+4. A desconstituição do que foi estabelecido nas instâncias ordinárias demandaria reexame aprofundado do conjunto fático-probatório, o que é incompatível com os limites do habeas corpus.
+5. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por GUSTAVO VINICIUS SILVA DE SOUZA contra a decisão de minha lavra que indeferiu liminarmente a petição inicial (fls. 136/138).
+Neste recurso, a defesa alega que não haveria fundadas razões para a busca domiciliar de que resultou a apreensão da droga, pois a medida teria sido motivada por informações superficiais sobre possível tráfico de drogas no local.
+Sustenta que haveria prova suficiente de que os policiais teriam agredido o agravante, o que também invalidaria a prova aprendida durante a ocorrência.
+Argumenta que a desclassificação do crime de tráfico de drogas para a infração de porte de droga para consumo próprio independeria da reapreciação do conjunto probatório, uma vez que a quantidade de droga apreendida é incontroversa e seria insuficiente para a capitulação do fato no art. 33, caput, da Lei n. 11.343/2006, em especial quando se considera que não foi apreendido nenhum objeto relacionado ao tráfico de drogas.
+Ao final, pede o provimento do agravo regimental, a fim de que seja declarada a absolvição do paciente quanto ao crime de tráfico de drogas, em razão da nulidade das provas que fundamentaram a sua condenação; ou a desclassificação da condenação do paciente para o artigo 28 da Lei de Drogas (fl. 149).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. BUSCA DOMICILIAR. TRÁFICO DE DROGAS. ALEGAÇÃO DE NULIDADE DE PROVAS. ABUSO POLICIAL. REEXAME DE FATOS. NEXO DE CAUSALIDADE ENTRE O SUPOSTO ATO ILÍCITO E A PRODUÇÃO DA PROVA. DESCLASSIFICAÇÃO DE CRIME. FINALIDADE MERCANTIL.
+1. A fuga do agravante para o interior do imóvel após receber voz de abordagem é suficiente para configurar fundadas razões para a busca domiciliar sem autorização judicial, conforme entendimento do Supremo Tribunal Federal.
+2. A alegação de agressões infligidas pelos policiais durante a ocorrência não foi comprovada e, além disso, não foi demonstrado nexo de causalidade entre o alegado abuso e a apreensão da droga e outros objetos no interior da residência do agravante.
+3. A quantidade de droga apreendida, 168 pedras de crack, é inusual para consumo próprio e, juntamente com outros elementos probatórios, como depoimentos dos policiais e apreensão de alta quantia em espécie, permite presumir a sua finalidade mercantil, o que desautoriza classificação do fato como porte de droga para consumo próprio.
+4. A desconstituição do que foi estabelecido nas instâncias ordinárias demandaria reexame aprofundado do conjunto fático-probatório, o que é incompatível com os limites do habeas corpus.
+5. Agravo regimental improvido.
+VOTO
+As razões deduzidas no agravo regimental não são suficientes para determinar a revisão da decisão recorrida.
+Em observância ao disposto no art. 244 do Código de Processo Penal, os policiais militares que participaram da ocorrência deram voz de abordagem ao agravante em razão de notícia-crime anônima específica, com a descrição física de um suspeito chamado Gustavo, que comercializaria drogas ilícitas em Jardim Tupi, Londrina (PR).
+Por sua vez, a fuga do paciente para o interior do imóvel após receber após receber a voz abordagem basta para o reconhecimento da existência de fundadas razões para a busca domiciliar sem autorização judicial, conforme entendimento do Supremo Tribunal Federal (RE n. 1.491.517 AgR-EDv, relatora Ministra Cármen Lúcia, Tribunal Pleno, julgado em 14/10/2024, DJe 28/11/2024).
+É improcedente a alegação de que a apreensão realizada durante a ocorrência seria impassível de valoração no processo também em razão de supostas agressões dos policiais militares contra o agravante. Ainda que as agressões tivessem sido demonstradas, o que não ocorreu, a defesa falha em demonstrar o nexo de causalidade entre o alegado abuso e a apreensão da droga e de outros objetos no interior da residência do agravante.
+Assim, é correta a conclusão do Tribunal de origem no sentido de que, ainda que comprovada a agressão, tal procedimento não afastaria a tipicidade da conduta do réu  .. , visto que somente ensejaria procedimento autônomo para apuração da conduta e responsabilização dos agentes policiais pela agressão (fl. 26).
+Por fim, deve ser igualmente rejeitada a pretensão de desclassificação do crime de tráfico de drogas, uma vez que, como consigna o voto condutor do acórdão impugnado, a finalidade mercantil das 168 pedras de crack apreendidas se faz presumir por sua própria quantidade, inusual para o porte de meros consumidores, bem como por outros elementos reunidos no curso da instrução, como os depoimentos dos policiais e a apreensão de quantia relativamente alta em espécie.
+Dessa forma, a desconstituição do que ficou estabelecido nas instâncias ordinárias ensejaria o reexame aprofundado de todo conjunto fático-probatório da ação penal, providência incompatível com os estreitos limites habeas corpus (AgRg no HC n. 871.088/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 29/2/2024).
+Isso posto, nego provimento ao agravo regimental.
