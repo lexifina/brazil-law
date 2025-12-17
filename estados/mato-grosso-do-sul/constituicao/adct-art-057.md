@@ -1,0 +1,1 @@
+Art. 57. O Governador do Estado poderá propor, a partir do quinto exercício da vigência do Regime de Limitação de Gastos, projeto de lei complementar para alteração do método de correção dos limites a que se refere o §§ 1º ao 4º do art. 56 deste Ato das Disposições Constitucionais Gerais e Transitórias.

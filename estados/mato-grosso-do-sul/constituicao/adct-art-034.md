@@ -1,0 +1,3 @@
+Art. 34. No prazo de noventa dias a contar da promulgação da Constituição, o Governador encaminhará à Assembléia Legislativa os projetos de lei complementar dispondo sobre a organização e funcionamento da Procuradoria-Geral do Estado, da Procuradoria-Geral da Defensoria Pública, da Polícia Civil e da Polícia Militar.
+§ 1º No mesmo prazo, o Procurador-Geral de Justiça encaminhará à Assembléia Legislativa o projeto de lei complementar dispondo sobre o Estatuto do Ministério Público estadual.
+§ 2º No prazo de um ano, o Governador encaminhará à Assembléia Legislativa, o projeto de lei complementar dispondo sobre a organização e funcionamento do Corpo de Bombeiros Militar, que até então se regerá pelas disposições aplicáveis à Polícia Militar do Estado.

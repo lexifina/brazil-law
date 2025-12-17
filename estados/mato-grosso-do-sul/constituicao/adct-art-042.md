@@ -1,0 +1,1 @@
+Art. 42. O Estado criará a Fundação de Apoio ao Desenvolvimento do Ensino, Ciência e Tecnologia, destinando-lhe o mínimo de meio por cento de sua receita tributária, em parcelas mensais correspondentes a um doze avos, para aplicação em desenvolvimento científico e tecnológico.

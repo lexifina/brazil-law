@@ -1,0 +1,1 @@
+Art. 18. Dentro de noventa dias contados a partir da promulgação da Constituição, proceder-se-á à revisão dos direitos dos servidores públicos estaduais, inativos e pensionistas e à atualização dos proventos e pensões a eles devidos, a fim de ajustá-los ao disposto na Constituição Federal e na Constituição.

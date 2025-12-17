@@ -1,0 +1,2 @@
+Art. 3º No prazo máximo de um ano a contar da promulgação da Constituição, a Assembléia Legislativa promoverá, através de comissão especial, o exame analítico e pericial dos atos e fatos geradores da dívida externa do Estado.
+Parágrafo único. A comissão terá, para os fins de requisição e convocação, força de comissão parlamentar de inquérito, e atuará com o auxílio do Tribunal de Contas do Estado.

@@ -1,0 +1,1 @@
+Art. 39. Para a aplicação do art. 20 da Constituição, será considerado o número de habitantes de cada Município apurado por certidão de população fornecida pelo Instituto Brasileiro de Geografia e Estatística.

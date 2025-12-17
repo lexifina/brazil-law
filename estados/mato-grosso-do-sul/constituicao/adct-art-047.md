@@ -1,0 +1,1 @@
+Art. 47. Fica criado o Museu Histórico e Cultural de Mato Grosso do Sul, com sede na Capital, que será implantado sob coordenação do Conselho Estadual de Cultura e com a colaboração das fundações culturais existentes no Estado.

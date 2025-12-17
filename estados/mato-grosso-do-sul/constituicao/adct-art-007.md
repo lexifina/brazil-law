@@ -1,0 +1,4 @@
+Art. 7º No prazo de um ano a contar da promulgação da Constituição, o Poder Executivo do Estado e o dos Municípios reavaliarão todos os incentivos fiscais de natureza setorial, sem prazo determinado, ora em vigor, propondo ao respectivo Poder Legislativo as medidas cabíveis.
+§ 1º Decorrido o prazo, considerar-se-ão revogados os incentivos que não forem ratificados por lei especifica.
+§ 2º A revogação não prejudicará os direitos que já tiverem sido adquiridos em relação a incentivos concedidos sob condição e com prazo certo.
+§ 3º Os incentivos concedidos em razão de convênio com outros Estados, celebrados nos termos do art. 23, § 6º, da Constituição de 1967, com a redação dada pela Emenda n. 1, de 17 de outubro de 1969, também deverão ser reavaliados e reconfirmados nos prazos deste artigo.

@@ -1,0 +1,2 @@
+Art. 30. A legislação que criar a Justiça de Paz manterá os atuais juízes de paz até a posse dos novos titulares, assegurando-lhes os direitos e as atribuições conferidos a estes, e designará o dia para a eleição prevista no art. 121 da Constituição.
+Parágrafo único. Os juízes de paz nomeados até a data da eleição poderão continuar filiados ao Instituto de Previdência do Estado como contribuintes facultativos, com direito à percepção dos benefícios e serviços concedidos aos servidores públicos estaduais.

@@ -1,0 +1,2 @@
+Art. 11. A Assembléia Legislativa, no prazo de noventa dias, criará comissão especial suprapartidária para rever, sob o critério da legalidade, as doações, vendas e concessões de imóveis públicos rurais e urbanos, concretizados no período de 1º de janeiro de 1979 até a data da promulgação da Constituição.
+Parágrafo único. Apurada a ilegalidade e havendo interesse público, as terras reverterão ao patrimônio do Estado ou ao dos Municípios.

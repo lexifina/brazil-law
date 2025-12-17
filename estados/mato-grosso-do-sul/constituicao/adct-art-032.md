@@ -1,0 +1,2 @@
+Art. 32. Aplica-se o disposto no art. 125 da Constituição aos serviços notariais e de registro oficializados, salvaguardando-se os direitos adquiridos dos servidores estáveis no respectivo cargo, facultando-se-lhes o direito de permanecerem em caráter privado consoante o art. 236 da Constituição Federal.
+Parágrafo único. Aplica-se aos servidores referidos neste artigo o disposto no art. 4l, § 3º, da Constituição Federal.

@@ -1,0 +1,1 @@
+Art. 50. Fica criado o Centro de Ciências Humanas e Sociais, com sede na cidade de Jardim, pertencente à Universidade Estadual de Mato Grosso do Sul, devendo sua instalação e funcionamento ocorrer no início do ano letivo de 1992.

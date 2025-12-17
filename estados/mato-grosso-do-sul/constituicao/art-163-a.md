@@ -1,0 +1,1 @@
+Art. 163-A. O projeto de Lei correspondente a diretrizes orçamentárias (Lei de Diretrizes Orçamentárias) do Estado de Mato Grosso do Sul deverá ser encaminhado à Assembleia Legislativa até 45 (quarenta e cinco) dias antes do encerramento do primeiro período da Sessão Legislativa Ordinária.

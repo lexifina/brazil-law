@@ -1,0 +1,1 @@
+Art. 6º Os fundos existentes na data da promulgação da Constituição, excetuados os resultantes de isenções fiscais que passam a integrar o patrimônio privado e os de conveniência do interesse público, extinguir-se-ão, se não forem ratificados, no prazo de dois anos, pela Assembléia.

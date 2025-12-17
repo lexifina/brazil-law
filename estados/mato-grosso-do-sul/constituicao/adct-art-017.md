@@ -1,0 +1,2 @@
+Art. 17. Será criada, dentro de noventa dias da promulgação da Constituição, comissão de estudos territoriais, composta por três membros indicados pela Assembléia Legislativa e por três pelo Poder Executivo, com a finalidade de apresentar estudos sobre o território estadual e apresentar anteprojetos relativos à divisão e à redivisão territorial.
+Parágrafo único. A comissão terá prazo de um ano para apresentar o resultado de seus estudos, extinguindo-se em seguida.

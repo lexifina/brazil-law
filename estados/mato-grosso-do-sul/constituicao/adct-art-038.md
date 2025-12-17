@@ -1,0 +1,1 @@
+Art. 38. As Câmaras Municipais, dentro de noventa dias a contar da promulgação da Constituição, poderão promover a revisão dos atuais subsídios dos Prefeitos e dos Vereadores, da representação dos Vice-Prefeitos e da remuneração dos Secretários municipais, observado o que dispõe o art. 19 da Constituição.

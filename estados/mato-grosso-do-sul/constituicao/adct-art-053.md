@@ -1,0 +1,1 @@
+Art. 53. Para pagamento de dívidas da chamada Conta Gráfica do Estado para com a União, serão destinados R$ 66.947.204,27 (sessenta e seis milhões, novecentos e quarenta e sete mil, duzentos e quatro reais e vinte e sete centavos), decorrentes de royalties e compensação financeira, e o remanescente será destinado para capitalização do Fundo de Previdência Social do Estado.

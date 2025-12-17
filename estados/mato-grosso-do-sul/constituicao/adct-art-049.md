@@ -1,0 +1,1 @@
+Art. 49. Fica criada, no Município de Ponta Porã, a Escola Técnica Agrícola de Primeiro e de Segundo Graus, cabendo ao Estado orientar, manter e fixar diretrizes de ensino, cuja instalação e funcionamento deverá ocorrer no início do ano letivo de 1992.

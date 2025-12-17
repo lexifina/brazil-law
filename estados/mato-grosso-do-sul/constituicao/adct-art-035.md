@@ -1,0 +1,2 @@
+Art. 35. O Departamento de Polícia Técnica, integrado pelos Institutos de Criminalística, Médico-Legal e de Identificação, passa a denominar-se Coordenadoria-Geral de Perícias e, com a manutenção de seus quadros de pessoal, fica subordinada diretamente ao Secretário de Segurança Pública do Estado.
+Parágrafo único. A Coordenadoria-Geral de Perícias terá sua organização e funcionamento regidos por estatuto próprio nos termos da lei complementar, que será editada no prazo de cento e oitenta dias, contados da promulgação da Constituição.

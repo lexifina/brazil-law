@@ -1,0 +1,1 @@
+Art. 40. As Câmaras Municipais, nesta legislatura, convocarão, para dar-lhes posse, os candidatos a Vereador, nas eleições realizadas em 15 de novembro de 1988, que vierem a ser diplomados pela Justiça Eleitoral, por força do art. 20 da Constituição.

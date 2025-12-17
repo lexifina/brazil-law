@@ -1,0 +1,1 @@
+Art. 37. O Estado articular-se-á com os Municípios para promover, no prazo de cento e oitenta dias contados da promulgação da Constituição, o recenseamento escolar prescrito no art. 190, § 3º, da Constituição.

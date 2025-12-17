@@ -1,0 +1,4 @@
+Art. 19. São considerados estáveis no serviço público os servidores públicos civis do Estado, da administração direta, autárquica e das fundações públicas, em exercício na data da promulgação da Constituição, há, pelo menos, cinco anos continuados, que não tenham sido admitidos na forma regulada no art. 27 da Constituição.
+§ 1º O tempo de serviço dos servidores referidos neste artigo será contado como título quando se submeterem a concurso para fins de efetivação, na forma da lei.
+§ 2º O disposto neste artigo não se aplica aos ocupantes de cargos, de funções e de empregos de confiança ou em comissão, nem aos que a lei declare de livre exoneração, cujo tempo de serviço não será computado para os fins deste artigo, exceto se se tratar de servidor.
+§ 3º Excetuam-se do disposto no parágrafo anterior os servidores admitidos para os cargos criados pela Lei nº 103, de 26 de junho de 1980.

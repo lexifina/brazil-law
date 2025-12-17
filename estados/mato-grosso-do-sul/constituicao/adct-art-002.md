@@ -1,0 +1,1 @@
+Art. 2º A revisão constitucional será realizada pelo voto da maioria absoluta dos membros da Assembléia Legislativa do Estado, logo após a revisão da Constituição Federal prevista no art. 32 do Ato das Disposições Constitucionais Transitórias da Constituição Federal.

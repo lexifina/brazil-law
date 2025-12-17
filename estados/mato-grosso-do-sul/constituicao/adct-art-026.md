@@ -1,0 +1,1 @@
+Art. 26. Ficam abonadas, para todos os efeitos legais, as faltas dos servidores do Estado que, no período de dez anos anteriores à data da promulgação da Constituição, não ultrapassem o número total de vinte, contadas a partir da mais recente, excluídos os efeitos financeiros.

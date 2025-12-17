@@ -1,0 +1,1 @@
+Art. 9º As microempresas que comprovem preencher os requisitos da Lei n. 541, de 4 de junho de 1985, que se encontrem, na data da promulgação da Constituição, em débito para com o Estado, é garantido o direito de saldar a obrigação tributária com isenção da correção monetária, desde que se manifestem dentro de noventa dias a partir da concessão do benefício.

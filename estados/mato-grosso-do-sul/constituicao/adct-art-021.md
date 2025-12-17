@@ -1,0 +1,1 @@
+Art. 21. Os servidores públicos civis da administração direta, autárquica e das fundações públicas do Estado, considerados estáveis, serão regidos, a partir da promulgação da Constituição, pelo Estatuto dos Servidores Civis do Estado de Mato Grosso do Sul.

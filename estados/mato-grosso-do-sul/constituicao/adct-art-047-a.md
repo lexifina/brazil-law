@@ -1,0 +1,2 @@
+Art. 47-A. Fica criada Biblioteca Estadual Digital de Mato Grosso do Sul, com sede na Capital, com a função de dispor a população o acervo do Arquivo Público Estadual, a literatura e toda a forma de expressão cultural do Estado, reunir o Patrimônio histórico e cultural do Estado, receber exposições e ser fonte de pesquisa para estudantes com a disponibilização das obras recomendadas pelo Conselho Estadual de Educação.
+Parágrafo único. A Biblioteca Estadual Digital deverá estar disponível para acesso nas Escolas para suprir eventual ausência da biblioteca física.

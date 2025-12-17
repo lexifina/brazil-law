@@ -1,0 +1,1 @@
+Art. 15. Através da Procuradoria-Geral do Estado, o Estado cooperará na demarcação das terras indígenas, nos termos do art. 67 do Ato das Disposições Constitucionais Transitórias da Constituição Federal.

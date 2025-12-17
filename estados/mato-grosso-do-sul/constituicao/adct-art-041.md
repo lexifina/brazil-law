@@ -1,0 +1,1 @@
+Art. 41. No prazo máximo de cento e vinte dias contados da promulgação da Constituição, o Poder Executivo estadual encaminhará à Assembléia Legislativa projeto de lei regulamentando a disposição constante no art. 182 da Constituição.

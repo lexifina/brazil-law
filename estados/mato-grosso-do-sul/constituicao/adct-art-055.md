@@ -1,0 +1,1 @@
+Art. 55. Fica instituído o Regime de Limitação de Gastos no âmbito dos Orçamentos Fiscal e da Seguridade Social do Estado, que vigorará até o exercício financeiro de 2026, nos termos dos arts. 56 a 59 deste Ato das Disposições Constitucionais Gerais e Transitórias.

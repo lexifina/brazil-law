@@ -1,0 +1,1 @@
+Art. 13. A partir da data da promulgação da Constituição, será concedido um prazo de sete anos para que sejam reconstituídos, com apoio técnico-científico do Estado, os mananciais de recursos naturais degradados, na forma da lei.

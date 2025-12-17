@@ -1,0 +1,1 @@
+Art. 58. As disposições introduzidas pelo Regime de Limitação de Gastos não revogam, dispensam ou suspendem o cumprimento de dispositivos constitucionais federais e legais que disponham sobre metas fiscais ou sobre limites máximos de despesas, bem como de aplicação mínima nas áreas de Saúde e Educação.
