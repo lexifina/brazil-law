@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/12/2025 a 17/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+TRIBUTÁRIO. AGRAVO  INTERNO  NO AGRAVO EM RECURSO ESPECIAL. TRIBUTO SUJEITO À LANÇAMENTO POR HOMOLOGAÇÃO. RECOLHIMENTO EM MONTANTE MENOR DO QUE O DEVIDO. DECADÊNCIA. PRAZO. INCIDÊNCIA DA REGRA DO ART. 150, § 4º, DO CTN. AGRAVO INTERNO DESPROVIDO.
+1. O acórdão recorrido está em consonância com a jurisprudência do STJ, no sentido de que "o lançamento substitutivo de diferença de tributo sujeito a lançamento por homologação cujo pagamento antecipado se deu em valor menor do que aquele que o fisco entende devido deve ocorrer no prazo de cinco anos do fato gerador, de acordo com o disposto no art. 150, § 4º, do CTN" (AgRg no AREsp 132.784/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 15/3/2016, DJe de 1/4/2016).
+2.  Agravo  interno  desprovido.
+RELATÓRIO
+MINISTRO  AFRÂNIO  VILELA:  Em análise, agravo interno interposto pelo ESTADO DO ESPÍRITO SANTO contra decisão que conheceu do agravo para conhecer do recurso especial e negar-lhe provimento.
+Aponta a parte agravante o seguinte (fls. 269-271):
+O próprio acórdão reconhece que a autuação decorreu da utilização de base de cálculo inferior, isto é, vício na declaração/autolançamento do contribuinte, e não mero inadimplemento parcial após quantificação correta.
+Logo, a ratio decidendi utilizada  que trata de pagamento a menor com declaração correta  não se amolda ao caso concreto, em que houve lançamento/declaração incorreta (autolançamento a menor).
+ ..
+Os precedentes citados na decisão monocrática (AgInt no AREsp 2.135.810/SP e AgInt no AREsp 1.829.340/SP) partem do pressuposto fático de pagamento antecipado (ainda que menor) do tributo devido, culminando na aplicação do art. 150, § 4º.
+No caso, porém, a premissa fática incontroversa é a declaração/base inferior (autolançamento incorreto), o que afasta a similitude e, por consequência, a incidência da Súmula 83/STJ (não há alinhamento entre a tese do acórdão recorrido e a orientação desta Corte para hipóteses de declaração incorreta).
+ ..
+Portanto, não houve "pagamento antecipado do tributo devido" (pressuposto do art. 150, § 4º), mas pagamento de um tributo declarado incorretamente  e, por isso, insuficiente  , o que atrai o art. 173, I. Essa distinção foi expressamente desenvolvida nas razões recursais do Estado.
+Por fim, pugna pela reconsideração da decisão agravada ou pela submissão da questão ao Colegiado.
+Impugnação apresentada às fls. 277-284.
+É o relatório.
+EMENTA
+TRIBUTÁRIO. AGRAVO  INTERNO  NO AGRAVO EM RECURSO ESPECIAL. TRIBUTO SUJEITO À LANÇAMENTO POR HOMOLOGAÇÃO. RECOLHIMENTO EM MONTANTE MENOR DO QUE O DEVIDO. DECADÊNCIA. PRAZO. INCIDÊNCIA DA REGRA DO ART. 150, § 4º, DO CTN. AGRAVO INTERNO DESPROVIDO.
+1. O acórdão recorrido está em consonância com a jurisprudência do STJ, no sentido de que "o lançamento substitutivo de diferença de tributo sujeito a lançamento por homologação cujo pagamento antecipado se deu em valor menor do que aquele que o fisco entende devido deve ocorrer no prazo de cinco anos do fato gerador, de acordo com o disposto no art. 150, § 4º, do CTN" (AgRg no AREsp 132.784/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 15/3/2016, DJe de 1/4/2016).
+2.  Agravo  interno  desprovido.
+VOTO
+MINISTRO  AFRÂNIO  VILELA: (Relator) : Conheço do recurso, porquanto presentes os seus pressupostos intrínsecos e extrínsecos de admissibilidade.
+O agravo interno não merece prosperar.
+Relativamente à fixação do termo inicial do prazo decadencial para a constituição do crédito tributário, a regra geral é a do art. 173, I, do CTN, segundo a qual "o direito de a Fazenda Pública constituir o crédito tributário extingue-se após 5 (cinco) anos, contados: I - do primeiro dia do exercício seguinte àquele em que o lançamento poderia ter sido efetuado". Todavia, há regra específica para os casos de tributo sujeito a lançamento por homologação, que, segundo o art. 150 do CTN, "ocorre quanto aos tributos cuja legislação atribua ao sujeito passivo o dever de antecipar o pagamento sem prévio exame da autoridade administrativa" e "opera-se pelo ato em que a referida autoridade, tomando conhecimento da atividade assim exercida pelo obrigado, expressamente a homologa". Nestes casos, havendo o pagamento antecipado por parte do contribuinte, o prazo decadencial para o lançamento de eventuais diferenças é de cinco anos, a contar do fato gerador, conforme estabelece o § 4º do art. 150 do CTN (AgRg nos EREsp 216.758/SP, relator Ministro Teori Albino Zavascki, Primeira Seção, DJU de 10/4/2006).
+Com efeito, os dispositivos e m comento possuem a seguinte redação:
+Art. 150. O lançamento por homologação, que ocorre quanto aos tributos cuja legislação atribua ao sujeito passivo o dever de antecipar o pagamento sem prévio exame da autoridade administrativa, opera-se pelo ato em que a referida autoridade, tomando conhecimento da atividade assim exercida pelo obrigado, expressamente a homologa.
+ ..
+§ 4º Se a lei não fixar prazo a homologação, será êle de cinco anos, a contar da ocorrência do fato gerador; expirado êsse prazo sem que a Fazenda Pública se tenha pronunciado, considera-se homologado o lançamento e definitivamente extinto o crédito, salvo se comprovada a ocorrência de dolo, fraude ou simulação.
+Art. 173. O direito de a Fazenda Pública constituir o crédito tributário extingue-se após 5 (cinco) anos, contados:
+I - do primeiro dia do exercício seguinte àquele em que o lançamento poderia ter sido efetuado;
+Assim, conforme constou na decisão agravada, o entendimento adotado pela Corte de origem não destoa da jurisprudência do STJ, no sentido de que tendo sido recolhido o tributo em montante menor do que o efetivamente devido, a regra a ser observada é aquela presente no art. 150, § 4º, do CTN, e não a do art. 173 do CTN.
+No mesmo sentido:
+TRIBUTÁRIO. ISSQN. LANÇAMENTO SUBSTITUTIVO. DECADÊNCIA. PRAZO. PAGAMENTO PARCIAL. JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83 DO STJ. INCIDÊNCIA.
+1. O lançamento substitutivo de diferença de tributo sujeito a lançamento por homologação cujo pagamento antecipado se deu em valor menor do que aquele que o fisco entende devido deve ocorrer no prazo de cinco anos do fato gerador, de acordo com o disposto no art. 150, § 4º, do CTN.
+2. A conformidade do acórdão recorrido com a jurisprudência desta Corte Superior enseja a aplicação do óbice de conhecimento estampado na Súmula 83 do STJ.
+3. Agravo regimental não provido (AgRg no AREsp 132.784/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 15/3/2016, DJe de 1/4/2016, grifo nosso).
+PROCESSUAL CIVIL E TRIBUTÁRIO. VÍCIO DE INTEGRAÇÃO. INOVAÇÃO RECURSAL. EXAME. INVIABILIDADE. LANÇAMENTO POR HOMOLOGAÇÃO. DECADÊNCIA. PAGAMENTO A MENOR. PRAZO. REGRA.
+1. Não se conhece, nos aclaratórios, de argumentos que não foram abordados no agravo interno, uma vez que a introdução dessas razões apenas em sede de embargos constitui inovação recursal. Precedentes.
+2. A obrigação tributária não declarada pelo contribuinte no tempo e modo determinados pela legislação de regência está sujeita ao procedimento de constituição do crédito pelo fisco, por meio do lançamento substitutivo, o qual deve se dar no prazo decadencial previsto no art. 173, I, do CTN, quando não houver pagamento antecipado, ou no art. 150, § 4º, do CTN, quando ocorrer o recolhimento de boa-fé, ainda que em valor menor do que aquele que a Administração entende devido, pois, nesse caso, a atividade exercida pelo contribuinte, de apurar, pagar e informar o crédito tributário, está sujeita à verificação pelo ente público, sem a qual ela é tacitamente homologada. Precedentes.
+3. Hipótese em que se trata de revisão de lançamento em razão da exclusão retroativa do contribuinte do regime especial de tributação, tendo sido recolhido o ISSQN em montante menor do que o efetivamente devido, motivo pelo que a regra a ser observada é aquela presente no art. 150, § 4º, do CTN, e não a do art. 173 do CTN, como fixado pelo Tribunal a quo.
+4. Agravo interno desprovido (AgInt no AREsp 2.135.810/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 28/11/2022, DJe de 14/12/2022, grifo nosso).
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECADÊNCIA. CINCO ANOS CONTADOS DO FATO GERADOR. PAGAMENTO ANTECIPADO. REEXAME DE PROVA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Nos tributos sujeitos a lançamento por homologação, a obrigação tributária não declarada pelo sujeito passivo no tempo e modo determinados pela legislação de regência está sujeita ao procedimento de constituição do crédito pelo fisco, por meio do lançamento substitutivo, o qual deve se dar no prazo decadencial previsto no art. 173, I, do CTN, quando não houver pagamento antecipado.
+2. Aplica-se o prazo previsto no art. 150, § 4º, do CTN quando ocorrer o recolhimento de boa-fé, ainda que em valor menor do que aquele que a Administração entende devido, pois, nesse caso, a atividade exercida pelo contribuinte ou responsável está sujeita à verificação pelo ente público pelo prazo de cinco anos, sem a qual a atividade é tacitamente homologada (AgInt nos EDcl no AREsp 1.288.853/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 4/10/2021, DJe de 19/10/2021).
+3. A revisão da premissa fática assentada no julgado regional de que houve pagamento parcial do tributo a ensejar a aplicação da regra prevista no art. 150, § 4º, do CTN pressupõe reexame de prova, o que é inviável no âmbito do recurso especial, nos termos da Súmula 7 do STJ.
+Agravo interno improvido (AgInt no AREsp 1.829.340/SP, relator Ministro Humberto Martins, Segunda Turma, julgado em 28/11/2022, DJe de 30/11/2022, grifo nosso).
+Quanto ao pedido de aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015, a jurisprudência desta Corte entende que "não se aplica em qualquer hipótese de inadmissibilidade ou de improcedência, mas apenas em situações que se revelam qualificadas como de manifesta inviabilidade de conhecimento do agravo interno ou de impossibilidade de acolhimento das razões recursais porque inexoravelmente infundadas" (AgInt nos EDcl no AREsp 2.289.319/BA, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 14/9/2023), o que, contudo, não é o caso dos autos.
+Isso posto, nego provimento ao agravo interno.
