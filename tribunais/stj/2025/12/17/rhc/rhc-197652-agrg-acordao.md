@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/12/2025 a 17/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. TRANCAMENTO DA AÇÃO PENAL. CONDIÇÃO DE PROCEDIBILIDADE. APLICAÇÃO RETROATIVA DO ART. 171, § 5º, DO CÓDIGO PENAL. NOTÍCIA-CRIME. REPRESENTAÇÃO VÁLIDA.
+1. A exigência de representação para a persecução penal de crimes de estelionato, introduzida pela Lei n. 13.964/2019, é norma processual de caráter híbrido favorável ao acusado e deve ser aplicada retroativamente aos processos em curso.
+2. A jurisprudência do Supremo Tribunal Federal consolidou o entendimento de que a representação nos crimes de ação penal pública condicionada é ato que dispensa maiores formalidades, bastando a inequívoca manifestação de vontade da vítima ou de quem tenha qualidade para representá-la, no sentido de ver apurada a infração penal.
+3. No caso concreto, os ofendidos manifestaram, ao apresentarem notícia-crime, a vontade de ver punida a pessoa responsável pelos delitos de estelionato, independentemente de haverem identificado a agravante como autora.
+4. Não há fundamento legal para reconhecer a insubsistência da representação original apresentada por um dos ofendidos nem para determinar a intimação dos demais ofendidos para ratificação da representação válida já apresentada.
+5. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ANEI ALVES DA CONCEICAO contra a decisão de minha lavra que negou provimento ao recurso ordinário em habeas corpus (fls. 529/540).
+Neste recurso, a defesa reitera o pedido de trancamento da ação penal ajuizada contra a agravante por crimes de estelionato supostamente cometidos em detrimento de Nadir Vilela Gaudioso, Michele Cunha Nobre e Paulo César Vilella Gaudioso, ao argumento de que a representação protocolizada na Polícia Federal em nome dos ofendidos, antes da vigência da Lei n. 13.964/2019, não se referia à agravante, mas a outros suspeitos.
+Sustenta, portanto, que não estaria presente a condição de procedibilidade para a deflagração da ação penal em relação à agravante, considerada a atual redação do art. 171, § 5º, do Código Penal, que se aplica retroativamente segundo a jurisprudência do Supremo Tribunal Federal.
+Ainda que se considerasse a referida representação válida para o prosseguimento do processo quanto à agravante, afirma que os supostos ofendidos deveriam ter sido intimados para confirmar seu interesse na persecução penal, tendo em vista que o documento em questão precede à vigência da Lei n. 13.964/2019.
+Relata que o Juízo intimara a ofendida Michele Cunha Nobre acerca de seu interesse em representar contra a agravante, mas ela não se manifestou, o que confirmaria a inexistência de representação idônea para o prosseguimento do processo contra a agravante.
+Ao final, pede o provimento do recurso, a fim de que seja reconhecida a inexistência de qualquer manifestação que possa ser considerada para fins de representação para o desenvolvimento da ação penal para com a agravante Anei; que seja determinado o trancamento da ação penal, relativamente ao crime de estelionato imputado a agravante Anei, na parte em que tem por vítima Michele Cunha Nobre, face à ausência da condição de procedibilidade consubstanciada pela decadência (art. 107, inciso IV, do CP); e que seja determinada a intimação das pretensas vítimas Nadir Gaudioso e Paulo César para manifestarem interesse em representar contra a acusada, no prazo de 30 dias, sob pena de decadência (fl. 539).
+O Juízo de primeira instância prestou as informações solicitadas (fls. 552/555).
+O Ministério Público do Estado de Mato Grosso do Sul apresentou contrarrazões ao recurso (fls. 559/573).
+O Ministério Público Federal se manifestou pelo provimento do recurso (fls. 579/587).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. TRANCAMENTO DA AÇÃO PENAL. CONDIÇÃO DE PROCEDIBILIDADE. APLICAÇÃO RETROATIVA DO ART. 171, § 5º, DO CÓDIGO PENAL. NOTÍCIA-CRIME. REPRESENTAÇÃO VÁLIDA.
+1. A exigência de representação para a persecução penal de crimes de estelionato, introduzida pela Lei n. 13.964/2019, é norma processual de caráter híbrido favorável ao acusado e deve ser aplicada retroativamente aos processos em curso.
+2. A jurisprudência do Supremo Tribunal Federal consolidou o entendimento de que a representação nos crimes de ação penal pública condicionada é ato que dispensa maiores formalidades, bastando a inequívoca manifestação de vontade da vítima ou de quem tenha qualidade para representá-la, no sentido de ver apurada a infração penal.
+3. No caso concreto, os ofendidos manifestaram, ao apresentarem notícia-crime, a vontade de ver punida a pessoa responsável pelos delitos de estelionato, independentemente de haverem identificado a agravante como autora.
+4. Não há fundamento legal para reconhecer a insubsistência da representação original apresentada por um dos ofendidos nem para determinar a intimação dos demais ofendidos para ratificação da representação válida já apresentada.
+5. Agravo regimental improvido.
+VOTO
+As razões deduzidas no agravo regimental não são suficientes para determinar a revisão da decisão recorrida.
+Diversamente do que alega a agravante, constato existir representação válida dos ofendidos Nadir Vilela Gaudioso, Michele Cunha Nobre e Paulo César Vilella Gaudioso, o que satisfaz a condição de procedibilidade prevista no art. 171, § 5º, do Código Penal, introduzido pela Lei n. 13.964/2019.
+No julgamento do HC n. 208.817 AgR (relatora Ministra Cármen Lúcia, julgado em 13/4/2023, DJe 2/5/2023), o Pleno do Supremo Tribunal Federal decidiu que a novel exigência de representação para a persecução penal de crimes de estelionato é regra que deve retroagir, porque favorece o acusado; daí não decorre, porém, a necessidade de intimação do ofendido para que manifeste seu interesse na punição do responsável pela infração penal, pois é possível que já o tenha feito.
+Confira-se:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO. CRIME DE ESTELIONATO (ART. 171 DO CP). AÇÃO PENAL PÚBLICA CONDICIONADA A PARTIR DA LEI 13.964/2019. MANIFESTAÇÃO INEQUÍVOCA DO OFENDIDO NO SENTIDO DE VER INICIADA A PERSECUÇÃO PENAL. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+1. O Plenário do SUPREMO TRIBUNAL FEDERAL, no julgamento do HC 208817 AgR, Min. Rel. CÁRMEN LÚCIA (DJe de 2/5/2023), decidiu que, "sendo a exigência de representação para o crime de estelionato norma processual de caráter híbrido favorável ao acusado  regra incluída no §5º do art. 171 pela Lei 13.964/2019 , há de ser aplicada retroativamente aos processos em curso". Ficou consignado, ainda, que "em cada caso concreto deverá o juízo verificar se houve manifestação da vítima no sentido da persecução penal, que deve ser entendida como representação".
+2. No particular, o Tribunal estadual deixou claro que, "dos elementos extraídos do caderno processual, observa-se a demonstração inequívoca da intenção da vítima em ver o réu devidamente processado".
+3. A jurisprudência desta SUPREMA CORTE consolidou-se no sentido de que "A representação, nos crimes de ação penal pública condicionada, é ato que dispensa maiores formalidades, bastando a inequívoca manifestação de vontade da vítima, ou de quem tenha qualidade para representá-la, no sentido de ver apurados os fatos acoimados de criminosos" (Inq 3438, Relator(a): ROSA WEBER, Primeira Turma, DJe 10/2/2015).
+4. Agravo Regimental provido.
+(RHC 236152 AgR, relator Ministro Cristiano Zanin, relator para o acórdão Alexandre de Moraes, Primeira Turma, julgado em 15/4/2024, DJe 22/5/2024 - grifo nosso).
+Neste caso, é induvidoso que os três ofendidos em questão, ao apresentarem notícia-crime, manifestaram a vontade de ver punida a pessoa responsável pelos delitos de estelionato, independentemente de haverem identificado a agravante como tal .
+Assim, não existe fundamento legal para que se reconheça a insubsistência da representação original de Michele Cunha Nobre, especialmente em vista no disposto no art. 25 do Código de Processo Penal nem para que se determine a intimação dos ofendidos Nadir Vilela Gaudioso e Paulo César Vilella Gaudioso para que ratifiquem a representação válida já apresentada.
+Isso posto, nego provimento ao agravo regimental .
