@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/12/2025 a 17/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO  INTERNO  NO  RECURSO  ESPECIAL. ADEQUAÇÃO AO PRECEDENTE. RECURSO ESPECIAL PROVIDO. AGRAVO INTERNO IMPROVIDO.
+1.  A  decisão  deu provimento ao recurso especial. Consignou a necessidade de adequação do julgado ao REsp 2.159.718/DF.
+2. A questão referente ao alcance da sentença proferida na Ação Coletiva 0022862-96.2011.4.01.3400 foi analisada com a devida cautela pela Segunda Turma desta Corte, no julgamento do REsp 2.159.718/DF.
+3.  Agravo  interno  não  provido.
+RELATÓRIO
+MINISTRO  AFRÂNIO  VILELA:  Em  análise,  agravo  interno  interposto  pela ASSOCIAÇÃO NACIONAL DOS SERVIDORES DA JUSTIÇA DO TRABALHO  ANAJUSTRA contra  a  decisão  que  deu provimento ao recurso especial. Ficou consignada a necessidade de adequação do julgado ao REsp 2.159.718/DF (fl. 108):
+Ao compulsar os autos, verifica-se a dissonância do entendimento supra de que deve ser afastada "a aplicação do art. 12-A da Lei 7.713/1988, com a redação dada pela Lei 12.350/2010, de modo que o cálculo do Imposto de Renda incidente sobre as verbas recebidas acumuladamente antes de 2010 observe as tabelas e alíquotas vigentes na época em que deveriam ter sido pagas, seguindo a sistemática do regime de competência" e os efeitos do art. 12-A da Lei 7.713/1988 ficam "adstritos aos valores percebidos a partir do ano de 2010, conforme estipulado no próprio dispositivo legal".
+Argumenta  a  ANAJUSTRA,  em  síntese,  que:
+ ..  outras decisões proferidas por Ministros da Corte Superior vêm reproduzindo o mesmo entendimento adotado pelo Ministro Og Fernandes em 2020, ou seja, a metodologia da aplicação do art. 12-A é matéria sedimentada no Superior Tribunal de Justiça, cuja jurisprudência do TRF1 é firme no sentido de acolher a presente metodologia (fl. 115).
+Prossegue (fls. 116-117):
+Desse modo, vê-se, pois, que são enumeras as decisões divergentes, motivo pelo qual, requer-se o desprovimento do recurso especial da União. Registre-se, também, que o título judicial obtido pela ANAJUSTRA FEDERAL se baseou no precedente firmado nos autos do REsp 424.225/SC (Rel. Min. Teori Zavascki). Esse julgado fez parte da formação de uma jurisprudência pacífica do STJ a respeito da incidência do imposto sobre os rendimentos recebidos acumuladamente.
+Em sendo assim, sendo o art. 12-A, da Lei nº 7.713/88, mera confirmação da forma de cálculo já indicada pela jurisprudência do STJ em casos de rendimentos recebidos acumuladamente, deve-se reconhecer que o título judicial, por estar balizado no REsp 424.225/SC, admite e determina a aplicação do procedimento indicado no dispositivo em questão. Portanto, é de rigor a inadmissibilidade do recurso especial.
+Transcorreu in albis o prazo para impugnação (fl. 126)
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO  INTERNO  NO  RECURSO  ESPECIAL. ADEQUAÇÃO AO PRECEDENTE. RECURSO ESPECIAL PROVIDO. AGRAVO INTERNO IMPROVIDO.
+1.  A  decisão  deu provimento ao recurso especial. Consignou a necessidade de adequação do julgado ao REsp 2.159.718/DF.
+2. A questão referente ao alcance da sentença proferida na Ação Coletiva 0022862-96.2011.4.01.3400 foi analisada com a devida cautela pela Segunda Turma desta Corte, no julgamento do REsp 2.159.718/DF.
+3.  Agravo  interno  não  provido.
+VOTO
+MINISTRO  AFRÂNIO  VILELA (Relator):  Conheço do recurso, porquanto presentes os seus pressupostos intrínsecos e extrínsecos de admissibilidade.
+O agravo interno não merece prosperar, pois a ausência de argumentos hábeis para desconstituir os fundamentos da decisão ora agravada torna inalterado o entendimento nela firmado.
+Destaco de recente posicionamento onde a "questão referente ao alcance da sentença proferida na Ação Coletiva 0022862-96.2011.4.01.3400 foi analisada com a devida cautela pela Segunda Turma desta Corte". Veja-se:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO JUDICIAL. AÇÃO COLETIVA 0022862-96.2011.4.01.3400. REPETIÇÃO DE INDÉBITO DOS VALORES PAGOS A MAIS A TÍTULO DE IMPOSTO DE RENDA. SENTENÇA EXEQUENDA. DETERMINAÇÃO DE APLICAÇÃO DO REGIME DE COMPETÊNCIA. NÃO INCIDÊNCIA DO ART. 12-A DA LEI 7.713/1988, COM REDAÇAO DADA PELA LEI 12.350/2010. AGRAVO INTERNO NÃO PROVIDO.
+1. Há inúmeros julgados desta Corte, proferidos em casos análogos, que não conhecem do recurso interposto pela Fazenda Nacional, com fundamento na Súmula 7/STJ. Para essas decisões, a alteração das conclusões do Tribunal de origem sobre o que ficou estabelecido no título executivo judicial exigiria a revisão do acervo fático-probatório dos autos. Contudo, há entendimento proferido por esta Segunda Turma de que a retificação do erro contido no acórdão recorrido, a respeito da adequada aplicação do regime de competência estabelecido pela jurisprudência pátria, não demanda a revisão do acervo fático-probatório dos autos, o que afasta a incidência do referido óbice processual quanto à análise da coisa julgada.
+2. No contexto atual, os Rendimentos Recebidos Acumuladamente - RRAs referentes a períodos anteriores a 2010 devem ser tributados segundo o regime de competência, conforme estabelecido pela jurisprudência consolidada. Isso significa que a tributação deve ser calculada com base nas tabelas e alíquotas vigentes na época em que os valores deveriam ter sido pagos, levando em conta a renda auferida mês a mês pelo segurado. Para os rendimentos recebidos a partir de 2010, aplica-se o regime de cálculo previsto no art. 12-A da Lei 7.713/1988, que determina que as verbas acumuladas sejam separadas dos demais rendimentos recebidos no mesmo mês.
+3. Embora a parte dispositiva da decisão judicial esteja circunscrita ao pedido e à causa de pedir, a coisa julgada deve ser interpretada à luz da fundamentação completa do título executivo, respeitando as determinações do dispositivo. Portanto, o provimento de um recurso não implica automaticamente a aceitação do pedido nos exatos termos em que foi formulado, especialmente quando há uma delimitação específica na parte dispositiva da decisão.
+4. A questão referente ao alcance da sentença proferida na Ação Coletiva 0022862-96.2011.4.01.3400 foi analisada com a devida cautela pela Segunda Turma desta Corte, no julgamento do REsp 2.159.718/DF. Nesse julgamento, concluiu-se que o título executivo em questão determinou a aplicação do regime de competência, conforme estabelecido pela jurisprudência, sem mencionar o art. 12-A da Lei 7.713/1988, o qual se aplica exclusivamente aos valores recebidos acumuladamente a partir do ano de 2010.
+5. Agravo interno não provido (AgInt no REsp 216336 7/DF, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 21/5/2025, DJEN 27/5/2025).
+Nesse mesmo sentido: REsp 2169973/DF, relator Ministro Teodoro Silva Santos, DJEN 2/7/2025.
+Isso posto, nego provimento ao a gravo interno.
