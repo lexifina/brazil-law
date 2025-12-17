@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/12/2025 a 17/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+Impedido o Sr. Ministro Marco Aurélio Bellizze.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. MANDADO DE SEGURANÇA. IPTU. LIMITES OBJETIVOS DA COISA JULGADA. ACÓRDÃO RECORRIDO FUNDADO NA ANÁLISE DO PEDIDO INICIAL E DE OUTRAS DEMANDAS. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO INTERNO IMPROVIDO.
+1. A controvérsia sobre os limites objetivos da coisa julgada, quando resolvida pelo Tribunal de origem com base na interpretação do conjunto da postulação, incluindo a análise da petição inicial e da conduta processual das partes, atrai a incidência da Súmula 7/STJ.
+2. A alteração das conclusões do acórdão recorrido, que limitou os efeitos do título judicial ao exercício fiscal de 2002, demandaria o reexame do acervo fático-probatório, providência vedada na via estreita do recurso e s pecial.
+3. A incidência do óbice da Súmula 7/STJ quanto à alínea a do permissivo constitucional prejudica a análise do recurso especial fundado na alínea c, porquanto impede o cotejo analítico entre os julgados.
+4. Agravo interno improvido.
+RELATÓRIO
+MINISTRO  AFRÂNIO  VILELA: Em análise, agravo interno interposto por LÍDER TÁXI AÉREO S/A - AIR BRASIL contra decisão de minha lavra (fls. 1871-1875) que não conheceu do recurso especial em razão da incidência do óbice da Súmula 7/STJ.
+A parte agravante alega que a controvérsia é exclusivamente jurídica e hermenêutica, consistente em examinar, à luz da legislação federal (arts. 494, 502, 503, 505, 507 e 508 do CPC), se ocorreu modulação indevida de título judicial já transitado em julgado, o que não demandaria reexame de provas. Afirma que o acórdão recorrido violou a autoridade da coisa julgada material ao restringir os efeitos de uma sentença declaratória de inexistência de relação jurídico-tributária, cujo dispositivo não continha qualquer limitação temporal. Pede, ao final, a reconsideração da decisão agravada ou a submissão do feito ao Colegiado para conhecimento e provimento do recurso especial.
+Impugnação apresentada às fls. 1906-1923.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. MANDADO DE SEGURANÇA. IPTU. LIMITES OBJETIVOS DA COISA JULGADA. ACÓRDÃO RECORRIDO FUNDADO NA ANÁLISE DO PEDIDO INICIAL E DE OUTRAS DEMANDAS. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO INTERNO IMPROVIDO.
+1. A controvérsia sobre os limites objetivos da coisa julgada, quando resolvida pelo Tribunal de origem com base na interpretação do conjunto da postulação, incluindo a análise da petição inicial e da conduta processual das partes, atrai a incidência da Súmula 7/STJ.
+2. A alteração das conclusões do acórdão recorrido, que limitou os efeitos do título judicial ao exercício fiscal de 2002, demandaria o reexame do acervo fático-probatório, providência vedada na via estreita do recurso e s pecial.
+3. A incidência do óbice da Súmula 7/STJ quanto à alínea a do permissivo constitucional prejudica a análise do recurso especial fundado na alínea c, porquanto impede o cotejo analítico entre os julgados.
+4. Agravo interno improvido.
+VOTO
+MINISTRO  AFRÂNIO  VILELA (Relator):  A controvérsia central reside em determinar os limites objetivos da coisa julgada formada em mandado de segurança que declarou a inexistência de relação jurídico-tributária entre as partes, a fim de estabelecer se seus efeitos se restringem ao exercício de 2002 ou se estendem aos exercícios futuros.
+A parte agravante insiste na tese de que a questão é puramente de direito, não envolvendo reexame de fatos ou provas. Contudo, esse argumento não prospera.
+Conforme ressaltado na decisão monocrática, o Tribunal de origem não se ateve a uma análise meramente literal do dispositivo da sentença para delimitar o alcance do título judicial. Ao contrário, promoveu uma interpretação sistemática do comando judicial, fundamentando sua conclusão em elementos fático-probatórios extraídos do processo originário.
+A Corte de origem concluiu pela limitação da coisa julgada ao exercício de 2002 com base em premissas fáticas específicas, notadamente a análise do pedido formulado na petição inicial do mandado de segurança e a conduta processual da própria recorrente ao longo do tempo.
+Para que não restem dúvidas sobre a natureza fática da análise realizada na origem, transcrevo os seguintes trechos da ementa do acórdão recorrido (fls. 1664-1665):
+Todavia, conforme consta na petição inicial do mandado de segurança, o objeto da demanda é a suspensão da exigibilidade do Imposto de Propriedade Territorial Urbano - IPTU, referente ao exercício de 2002, tendo, inclusive, a impetrante requerido, inicialmente, o cumprimento do julgado somente em relação a esta competência.
+Corroborando este raciocínio, consta que a empresa agravante ajuizou outras 6 (seis) demandas em face do Município, requerendo também a não incidência do IPTU em relação aos mesmos imóveis, mas se referindo a exercícios distintos, algumas, inclusive, com decisões proferidas e transitadas em julgado de forma desfavorável a agravante.
+Fica claro que a conclusão de que a execução deveria se limitar ao pedido original foi uma consequência direta da análise do "conjunto da postulação" e do "contexto fático" em que a demanda foi inserida, visando à harmonia entre os diversos provimentos jurisdicionais envolvendo as mesmas partes e imóveis.
+Assim, para infirmar essa conclusão e acolher a tese da recorrente, seria indispensável que esta Corte Superior reexaminasse o mesmo arcabouço fático-probatório valorado na origem. Seria necessário analisar o conteúdo da petição inicial do mandamus originário e o contexto das outras seis ações judiciais ajuizadas para concluir de forma diversa. Esse procedimento é vedado na via estreita do recurso especial, nos termos da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO AO ART. 1.022 DO CPC. DEFICIÊNCIA NA ARGUMENTAÇÃO. SÚMULA 284 DO STF. RESERVA LEGAL. FALTA DE INTERESSE DE AGIR. MATÉRIA QUE DEVERIA TER SIDO SUSCITADA EM AÇÃO CIVIL PÚBLICA ANTERIORMENTE AJUIZADA CONTRA O RECORRENTE. REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+ ..
+4. Para chegar a conclusão diversa da que chegou o Tribunal de origem, é inevitável novo exame do acervo fático-probatório constante dos autos, providência vedada em Recurso Especial, conforme o óbice previsto na Súmula 7/STJ. 5. Agravo Interno não provido. (AgInt no AREsp 2.168.672/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 22/5/2023, DJe de 5/6/2023).
+Por fim, a incidência da Súmula 7/STJ quanto à alínea a do permissivo constitucional prejudica a análise do recurso pela alínea c. A impossibilidade de se conhecer do recurso pela violação à lei federal impede o cotejo analítico com o acórdão paradigma, uma vez que a similitude fática entre os casos, requisito essencial para a demonstração da divergência, não pode ser apreciada sem o reexame dos fatos e provas.
+Isso posto, nego provimento ao recurso.
