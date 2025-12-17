@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/12/2025 a 17/12/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Teodoro Silva Santos, Afrânio Vilela, Francisco Falcão e Maria Thereza de Assis Moura votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DE EVENTUAIS VÍCIOS EXISTENTES NO JULGADO. OMISSÃO E CONTRADIÇÃO. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Consoante dispõe o art. 1.022 do CPC/2015, destinam-se os embargos de declaração a corrigir no julgado eventual omissão, ob scuridade, contradição ou erro material, não se caracterizando via própria ao rejulgamento da causa.
+2. No acórdão embargado, foram esclarecidas as razões pelas quais se entendeu pela inafastabilidade do óbice da Súmula 7/STJ à pretensão recursal em questão.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por ASSOCIAÇÃO NACIONAL DOS CONTRIBUINTES DE TRIBUTOS ao acórdão da Segunda Turma desta Corte assim ementado (e-STJ, fl . 1.240):
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. MANDADO DE SEGURANÇA COLETIVO. ASSOCIAÇÃO NACIONAL DOS CONTRIBUINTES DE TRIBUTOS. LEGITIMIDADE E FALTA DE INTERESSE DE AGIR PARA IMPETRAÇÃO. QUESTÃO ATRELADA AO REEXAME DE MATÉRIA DE FATO. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Infirmar a conclusão do acórdão recorrido acerca da ausência dos requisitos para ação mandamental pela associação em favor dos substituídos, notadamente no tocante à ausência de legitimidade passiva e da falta de interesse de agir, ensejaria o reexame do conjunto fático- probatório dos autos, providência que encontra óbice na Súmula n. 7 do Superior Tribunal de Justiça.
+2. Agravo interno desprovido.
+Em suas razões, a parte embargante aponta vícios na decisão embargada, alegando omissão quanto aos argumentos que evidenciam a desnecessidade de reexame fático-probatório da causa e inaplicabilidade, ao caso, da Súmula 7/STJ.
+Sustenta que a controvérsia diz respeito à interpretação e aplicação do direito positivo ao caso, em especial os arts. 1º e 21 da Lei 12.016/2009, bem como que o Tribunal a quo impôs ao mandado de segurança requisitos não previstos em lei.
+Não houve impugnação, conforme atesta certidão de fl. 1.266 (e-STJ).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DE EVENTUAIS VÍCIOS EXISTENTES NO JULGADO. OMISSÃO E CONTRADIÇÃO. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Consoante dispõe o art. 1.022 do CPC/2015, destinam-se os embargos de declaração a corrigir no julgado eventual omissão, ob scuridade, contradição ou erro material, não se caracterizando via própria ao rejulgamento da causa.
+2. No acórdão embargado, foram esclarecidas as razões pelas quais se entendeu pela inafastabilidade do óbice da Súmula 7/STJ à pretensão recursal em questão.
+3. Embargos de declaração rejeitados.
+VOTO
+Os presentes aclaratórios não merecem ser acolhidos.
+Os embargos de declaração constituem recurso de fundamentação vinculada, sendo cabíveis somente quando, nas hipóteses previstas no art. 1.022 do Código de Processo Civil de 2015, for detectada eventual omissão, obscuridade ou contradição, bem como possível erro material.
+O referido meio de impugnação visa aperfeiçoar as decisões judiciais, com o intuito de prestar a tutela jurisdicional de forma clara e precisa, não tendo como objetivo central a alteração dos julgados impugnados, situação verificada apenas excepcionalmente, caso a correção dos vícios constatados seja apta a modificar, de alguma maneira, a decisão prolatada.
+Nesse sentido:
+PROCESSUAL CIVIL. TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE MATÉRIA. IMPOSSIBILIDADE. MERO INCONFORMISMO. EMBARGOS REJEITADOS.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração têm por finalidade sanar obscuridade, contradição, omissão ou erro material no julgado, não se prestando à rediscussão do mérito da decisão recorrida.
+2. O acórdão embargado analisou, de forma clara e fundamentada, os pontos controvertidos, especialmente ao consignar que a parte embargante não impugnou, de forma concreta e específica, a incidência da Súmula 7/STJ no agravo em recurso especial, atraindo a aplicação da Súmula 182/STJ.
+3. A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que não há obrigatoriedade de o julgador responder individualmente a todos os argumentos das partes, bastando que fundamente de maneira suficiente as razões de seu convencimento, o que foi devidamente observado no acórdão embargado.
+4. Os embargos declaratórios não podem ser utilizados como meio para modificar o julgado, sendo incabível sua oposição com o objetivo de manifestar mero inconformismo quanto ao resultado da decisão.
+5. Embargos de declaração rejeitados. Advertência quanto à possibilidade de aplicação da multa prevista no art. 1.026, § 2º, do CPC, em caso de reiteração manifestamente protelatória.
+(EDcl no AgInt no AREsp n. 2.650.290/SP, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 19/3/2025, DJEN de 24/3/2025.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. RECURSO REJEITADO.
+1. O inconformismo da parte embargante não se enquadra nas hipóteses de cabimento dos embargos de declaração, previstas no art. 1.022 do Código de Processo Civil. Não há na decisão embargada vícios de omissão, contradição ou obscuridade, ou erro material, não se prestando o recurso integrativo para o fim de rediscutir os aspectos jurídicos anteriormente debatidos.
+2. A mera rejeição dos embargos declaratórios não é suficiente para a aplicação da multa prevista no art. 1.026, § 2º, do CPC, que se justifica quando é observada a intenção de retardar imotivadamente o andamento normal do processo, em prejuízo da parte contrária e do Poder Judiciário. É necessária a configuração da manifesta improcedência do recurso a autorizar sua aplicação, o que não ocorreu no presente caso.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp n. 2.512.242/PE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 7/10/2024, DJe de 14/10/2024.)
+No caso em exame, verifica-se que a parte embargante, em suas razões, limita-se a reiterar, de forma genérica, os mesmos argumentos já apresentados nos recursos anteriores acerca da inaplicabilidade da Súmula 7/STJ.
+A decisão embargada, contudo, transcreveu expressamente o trecho pertinente do julgamento dos embargos de declaração (e-STJ, fl. 1.243), esclarecendo as razões pelas quais entendeu pela inafastabilidade do óbice da Súmula 7/STJ à pretensão recursal em questão.
+Nesse contexto, fica evidente que a decisão analisou de maneira adequada os fundamentos expendidos pela embargante, notadamente no que concerne à necessidade de reexame de provas, como se demonstrará a seguir (e-STJ, fls. 1.242-1.243):
+No que diz respeito a alegada ofensa aos arts. 1º, caput, e 21, parágrafo único, I e II, da Lei n. 12.016/2009, quanto à necessidade de reconhecer o interesse processual e a legitimidade passiva, visto que é desnecessária a juntada ao processo de lista de filiados em mandado de segurança coletivo, ante a hipótese de substituição processual, conforme assinalado na decisão agravada, o Tribunal local, ao julgar a apelação, assim se manifestou (e-STJ, fls. 986-987 - sem grifo no original):
+(..)
+No julgamento dos embargos de declaração, o TRF da 3ª Região esclareceu que (e-STJ, fls. 1.089-1.091):
+De qualquer sorte, acerca dos pontos específicos da irresignação, o acórdão foi explicito quanto à matéria ora discutida, uma vez que restou consignado que em mandado de segurança coletivo promovido por associação, embora prescindível a autorização prévia dos associados, é imperativa a comprovação, além de interesse jurídico desses filiados ou da categoria representada, também da existência de associados que tenham, na data do ajuizamento, domicílio no âmbito da competência territorial do órgão que . venha a proferir decisão Portanto, a hipótese dos autos não trata da necessidade de juntada da relação de filiados e autorização expressa deles, mas de demonstração mínima de que possui filiados em São Bernardo para o fim de aferição da legitimidade passiva do Delegado da Receita Federal naquela localidade, o . que não foi comprovado Ademais, a discussão também não versa a respeito da legitimidade ativa para a impetração de mandado de segurança coletivo, mas quanto à ausência de interesse de agir da embargante, visto que na relação de seus associados não consta nenhuma empresa sujeita à circunscrição de atuação funcional da autoridade apontada como coatora, a saber, Delegado da . Secretaria da Receita Federal do Brasil em São Bernardo do Campo Assim, o entendimento firmado pelo Colendo Superior Tribunal de Justiça é no sentido de que o fato de a associação (embora de âmbito nacional) não está autorizada a ajuizar demanda em qualquer juízo federal. (..) Por todo o exposto, no tocante aos artigos 5º, LXX, "B", da CF e 21 da Lei nº 12.016/09, não há como acolher a alegação de violação aos referidos preceitos legais.
+Como se vê, a partir dos trechos transcritos, a Corte de origem concluiu que a associação além de não demonstrar minimamente que possui filiados em São Bernardo do Campo para aferição da sua legitimidade passiva, na relação de seus associados não consta nenhuma empresa sujeita à circunscrição de atuação funcional da autoridade apontada como coatora, configurando a ausência de interesse processual.
+Essas conclusões foram extraídas da análise fático-probatória da causa, atraindo a aplicação da Súmula 7/STJ, verbete que incide sobre ambas as alíneas do permissivo constitucional.
+Assim, não se vislumbra a presença de nenhum dos óbices elencados no art. 1.022 do CPC/2015, ficando nítida a pretensão de modificação do resultado do acórdão embargado, finalidade a que não se prestam os embargos de declaração.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
