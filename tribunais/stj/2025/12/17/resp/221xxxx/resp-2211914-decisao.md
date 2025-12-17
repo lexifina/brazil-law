@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de Recurso Especial interposto contra acórdão assim ementado (e-STJ fl. 387):
+AGRAVO INTERNO DE DECISÃO MONOCRÁTICA QUE INDEFERIU O BENEFÍCIO DA JUSTIÇA GRATUITA AUSÊNCIA DE RECOLHIMENTO DE PREPARO APÓS A DEVIDA INTIMAÇÃO - DESERÇÃO Recurso desacompanhado de preparo - Apelante intimada a recolher o preparo - Pedido de gratuidade da justiça sem comprovação e convencimento adequado e suficiente - Determinação de recolhimento de preparo não cumprida - Deserção do recurso reconhecida - Não conhecimento: Não se conhece do recurso da parte que não cumpre a determinação de recolher as custas de preparo. RECURSO NÃO PROVIDO.
+Segundo a parte recorrente, o recurso preenche os requisitos necessários ao conhecimento e provimento, argumentando, em síntese, violação aos artigos 4º, caput e §1º, da Lei 1.060/50, bem como aos artigos 98 e 99, §3º, do Código de Processo Civil, sob o fundamento de que a concessão dos benefícios da Justiça Gratuita deve ser deferida mediante simples declaração de hipossuficiência, a qual goza de presunção relativa de veracidade, sendo descabida a exigência de comprovação detalhada quando não houver impugnação da parte adversa.
+Intimada nos termos do art. 1.030 do Código de Processo Civil, a parte recorrida afirmou a inexistência de requisitos ou elementos aptos a promover a alteração do julgado impugnado.
+É o relatório.
+DECIDO.
+O recurso é tempestivo, nos termos do art. 1.003, § 5º, do Código de Processo Civil.
+No presente processo, a parte afirma, em suma, que estão presentes os requisitos para o conhecimento e provimento de seu recurso.
+Para conhecer da controvérsia apresentada neste recurso, mostra-se necessário o revolvimento do acervo fático-probatório dos autos, procedimento incompatível com o entendimento firmado pela Súmula nº 7 deste Superior Tribunal de Justiça, que estabelece que: "A pretensão de simples reexame de prova não enseja recurso especial."
+Isso porque a conclusão firmada pelo acórdão recorrido quanto à inexistência dos pressupostos legais para a concessão da gratuidade da justiça está assentada em premissas fático-probatórias, como a análise dos documentos apresentados pelos requerentes, a avaliação da renda declarada no exercício de 2020, a ausência de comprovação de alteração na situação financeira e a existência de bens em nome das partes. O Tribunal de origem considerou que os elementos constantes dos autos, como a renda bruta anual superior a R$ 100 mil e a participação societária, são incompatíveis com a alegada hipossuficiência econômica. Diante dessas circunstâncias concretas, entendeu-se que a declaração de pobreza não era suficiente, por si só, para autorizar o deferimento do benefício, afastando-se, portanto, a presunção de veracidade.
+A modificação desse entendimento demandaria o reexame do conjunto probatório dos autos, providência vedada em sede de recurso especial, nos termos da Súmula nº 7 do Superior Tribunal de Justiça.
+De fato, presente a função uniformizadora do Recurso Especial, não se pode cogitar de seu emprego para a realização de rejulgamento do contexto fático-probatório, em atitude típica de revisão promovida por nova instância.
+Diante disso, é reiterada a jurisprudência desta Corte que assenta que "o reexame de fatos e provas (é) vedado em recurso especial pela Súmula nº 7 do STJ."(AgInt no REsp n. 2.151.760/SC, relator Ministro Humberto Martins, Terceira Turma, julgado em 9/12/2024, DJEN de 12/12/2024.)
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS. GRATUIDADE DE JUSTIÇA. INDEFERIMENTO NA ORIGEM JUSTIFICADO. DESERÇÃO DA APELAÇÃO. SUMÚLA 7. VIOLAÇÃO DISPOSTIVOS CONSTITUCIONAIS. INCABÍVEL. COMPETÊNCIA DO STF. INADMISSIBILIDADE DO RECURSO ESPECIAL.
+1. A declaração de hipossuficiência firmada por pessoa natural goza de presunção relativa, podendo ser afastada diante de elementos concretos que indiquem capacidade econômica, cabendo ao magistrado exigir comprovação adicional.
+2. O Tribunal de origem indeferiu a gratuidade de justiça com base em provas constantes dos autos e reconheceu a deserção da apelação pela ausência de preparo. A revisão dessa conclusão demandaria reexame do conjunto fático-probatório, vedado em recurso especial, nos termos da Súmula 7/STJ.
+3. Alegações de afronta a dispositivos constitucionais não podem ser analisadas em recurso especial, sob pena de usurpação da competência do Supremo Tribunal Federal.
+4. Recurso especial não conhecido.
+(AREsp n. 2.631.792/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 20/10/2025, DJEN de 23/10/2025.)
+Ante o exposto, não conheço do r ecurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 2% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
