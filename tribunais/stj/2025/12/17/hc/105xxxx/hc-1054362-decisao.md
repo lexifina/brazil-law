@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de EDMILSON BARROS BARBOSA, contra decisão monocrática proferida pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS, que deixou de analisar o pleito deduzido em sede de plantão, determinando a distribuição dos autos ao relator prevento.
+Consta dos autos que a prisão em flagrante do paciente foi convertida em preventiva pela suposta prática do delito do art. 129, § 9º, do Código Penal, em 09/11/2025.
+No presente writ, o impetrante sustenta constrangimento ilegal em razão da não apreciação do habeas corpus impetrado durante o plantão junto ao Tribunal de origem, argumentando a ilegalidade da manutenção da prisão preventiva em decorrência da omissão do Tribunal quanto ao alegado transcurso do prazo para conclusão do inquérito sem sua remessa ao Poder Judiciário, além da ausência de requisitos concretos aptos a ensejarem a decretação e manutenção da custódia cautelar.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva do paciente.
+É o relatório.
+Verifica-se que o habeas corpus foi impetrado contra decisão monocrática, deixando de haver o devido exaurimento da instância antecedente, o que obsta o conhecimento da impetração.
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO CONTRA DECISÃO DE DESEMBARGADOR QUE INDEFERIU LIMINARMENTE O HC IMPETRADO NA CORTE DE ORIGEM. AUSÊNCIA DE EXAURIMENTO DAS INSTÂNICAS ORDINÁRIAS E DE MANIFESTAÇÃO SOBRE O MÉRITO DO PEDIDO. SUPRESSÃO DE INSTÂNCIA. INTERPOSIÇÃO SIMULTÂNEA DE HABEAS CORPUS E APELAÇÃO. OFENSA AO PRINCÍPIO DA UNIRRECORRIBILIDADE RECURSAL. AUSÊNCIA DE PATENTE ILEGALIDADE NA DECISÃO QUE INDEFERIU LIMINARMENTE A IMPETRAÇÃO. AGRAVO REGIMENTAL IMPROVIDO.
+1. A competência do STJ para examinar habeas corpus, na forma do art. 105, I, "c", da CF, somente é inaugurada quando a decisão judicial atacada tiver sido proferida por Tribunal, o que implica na exigência de exaurimento prévio da instância ordinária, com manifestação do órgão colegiado. Precedentes do STJ. Situação em que o habeas corpus aqui impetrado se volta contra decisão monocrática de Relator.
+2. Não se revela teratológica a decisão do Desembargador Relator do habeas corpus impetrado na Corte de origem por entender que "o habeas corpus não deve ser utilizado como via substitutiva de recursos previstos em lei, no caso a apelação criminal, até porque a utilização do writ como sucedâneo de recurso próprio avilta o princípio do amplo contraditório, porque suprimidas as etapas previstas para o recurso cabível".
+3. A ausência de prévia deliberação sobre o mérito da controvérsia pelas instâncias ordinárias impede a manifestação desta Corte a respeito do tema, sob pena de indevida supressão de instância.
+ ..
+5. Agravo regimental desprovido.
+(AgRg no HC n. 947.602/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 4/11/2024, DJe de 6/11/2024.)
+Não bastasse isso, o ato apontado como coator possui o seguinte teor (fl. 08-11):
+No caso em questão, em consulta às informações constantes dos autos de origem, constatei que a prisão do paciente foi decretada em 09/11/2025. Além disso, o paciente já havia impetrado um Habeas Corpus anterior (nº 0800377-90.2025.8.02.9002) que teve a liminar indeferida em 12/11/2025.
+O fundamento principal desta impetração, o excesso de prazo do Inquérito Policial (IP), surgiu em 18/11/2025 (dez dias após a prisão, 08/11/2025), tendo o writ sido protocolado em 20/11/2025. O fato que dá origem ao novo writ (expiração do prazo legal) é previsível e o surgimento da ilegalidade se deu em dia útil (18/11/2025). O impetrante poderia ter se dirigido ao Desembargador Relator ou à Câmara Criminal antes do início do Plantão Judiciário, pois a urgência não é daquelas que tornam inócua a atuação jurisdicional após o término do plantão.
+Nessa senda, entendo que não se verifica qualquer fundamentação que justifique, durante o Plantão Judiciário de Segundo Grau, a provocação de pronunciamento. A questão deveria ter sido apresentada ao Juízo natural durante o expediente regular.
+Ademais, a alegação de excesso de prazo, embora seja um fundamento superveniente, deveria ter sido suscitada e anexada ao primeiro Habeas Corpus (HC nº 0800377-90.2025.8.02.9002), em tramitação perante o Desembargador Relator prevento. Isso se deve à aplicação dos princípios da economia processual e da instrumentalidade das formas, e para evitar a repetição de pedidos.
+O Desembargador Relator do HC anterior tornou-se prevento para conhecer de qualquer questão subsequente que envolva a custódia do paciente, conforme as normas regimentais. Por dever de lealdade processual, prevenção e economia processual, a alegação de excesso de prazo deveria ter sido aduzida nos autos do Habeas Corpus de nº 0800377-90.2025.8.02.9002, que já está devidamente distribuído e possui Relator designado.
+Diante do exposto, considerando que não há motivo que justifique a intervenção excepcional deste Juízo, DEIXO DE ANALISAR o pedido veiculado em sede de plantão.
+Distribuam-se os autos ao relator prevento, Des. Domingos de Araújo Lima Neto, imediatamente após o início do expediente regular.
+As teses referentes à ilegalidade da prisão preventiva, inclusive a decorrente do excesso de prazo para conclusão do inquérito policial, ainda não foram apreciadas pelo Tribunal de origem, conforme cópia das decisões monocráticas às fls. 08-11 e 85-93, motivo pelo qual a matéria não será examinada por esta Corte superior, sob pena de se incorrer em indevida supressão de instância.
+Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
