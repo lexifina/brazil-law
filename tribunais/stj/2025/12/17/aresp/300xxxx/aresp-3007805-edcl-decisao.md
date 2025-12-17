@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Francisco da Silva Souza contra decisão assim ementada:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE DEMONSTRAÇÃO INEQUÍVOCA DA OFENSA AOS DISPOSITIVOS LEGAIS. FUNDAMENTAÇÃO DEFICIENTE. RAZÕES RECURSAIS DISSOCIADAS. SÚMULA 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULAS 282 e 356 DO STF. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL SOBRE O QUAL SE ALEGA INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF.
+O embargante sustenta, em síntese, que a decisão embargada incorreu em omissão ao aplicar, sem reexame específico do acórdão recorrido, as Súmulas 282, 356 e 284/STF, deixando de verificar o debate suficiente da matéria e o prequestionamento implícito. Além disso, alega omissão quanto ao enfrentamento das teses de ofensa aos arts. 272, 280 e 966, V, do CPC/2015, inclusive quanto à nulidade por intimação irregular e revelia. Ademais, aponta omissão quanto à necessidade de voto integrativo no Tribunal de origem (TJSP) para suprir o prequestionamento, à luz do art. 1.025 do CPC/2015.
+Com impugnação.
+É o relatório. Decido.
+Inicialmente, registra-se que os embargos de declaração foram opostos após a entrada em vigor do Novo Código de Processo Civil, ocorrida em 18/3/2016.
+Nos termos do que dispõe o art. 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Nos presentes embargos, a parte alega que há omissão no julgado. Ocorre que razão não lhe assiste.
+Analisando as razões apresentadas pela embargante, nota-se inexistir qualquer vício a ser sanado no julgado embargado, considerando que a decisão embargada pronunciou-se de modo coeso e preciso acerca do ponto relevante para a solução da controvérsia.
+Sobre a questão, destaca-se da decisão embargada (fls. 436/439e):
+O recurso especial aponta suposta violação aos arts. 272, 280 e 966, inciso V, do CPC/2015. Contudo, as razões recursais o fazem de forma manifestamente genérica, limitando-se a alegações vagas, sem demonstrar, de modo claro, específico e particularizado, de que forma o acórdão recorrido teria efetivamente contrariado ou negado vigência aos preceitos normativos invocados.
+Além disso, as razões recursais revelam-se dissociadas do contexto fático-jurídico apreciado pelo acórdão recorrido, deixando de impugnar, de modo direto e específico, os fundamentos adotados na decisão impugnada, o que inviabiliza a exata compreensão da controvérsia.
+Tal situação configura deficiência de fundamentação, ensejando, por analogia, a aplicação da Súmula 284 do STF.
+Ademais, no que se refere aos artigos 272 e 280 do CPC/2015, verifica-se que não houve juízo de valor por parte da Corte de origem, tampouco foram opostos embargos de declaração com o objetivo de sanar eventual vício. Tal circunstância acarreta o não conhecimento do recurso especial por ausência de prequestionamento. Incidem, no caso, os óbices das Súmulas 282 e 356 do STF.
+Por fim, a jurisprudência desta Corte firmou-se no sentido de que a ausência de indicação do dispositivo legal objeto de interpretação divergente, configura deficiência na fundamentação recursal, o que impede o conhecimento do apelo nobre interposto com fundamento no artigo 105, III, "c", da Constituição Federal. Incidência da Súmula 284/STF. Nesse sentido: AgInt no REsp 1.624.206/PR, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 15/12/2016; AgInt no REsp 1.622.220/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 15/12/2016; AgRg no AREsp 682.625/PE, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 25/11/2016; AgInt no AREsp 842.727/RN, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 6/10/2016.
+Assim, diante da ausência de demonstração das hipóteses de cabimento, a rejeição dos embargos de declaração é medida que se impõe.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS. EMBARGOS DE DECLARAÇÃO REJEITADOS.
