@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/12/2025 a 17/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Teodoro Silva Santos, Afrânio Vilela, Francisco Falcão e Maria Thereza de Assis Moura votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. INTEMPESTIVIDADE RECURSAL. MANEJO FORA DO PRAZO LEGAL DE 15 (QUINZE) DIAS ÚTEIS. PARTE REGULARMENTE INTIMADA PARA COMPROVAÇÃO DE EVENTUAL SUSPENSÃO, INTERRUPÇÃO OU PRORROGAÇÃO DO PRAZO PROCESSUAL, DEIXOU O PRAZO TRANSCORRER SEM MANIFESTAÇÃO. AGRAVO INTERNO DESPROVIDO.
+1. O recurso em mandado de segurança é manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos dos arts. 33 da Lei n. 8.038/1090 e 219, caput, do Código de Processo Civil.
+2. A parte, embora regularmente intimada para comprovar eventual suspensão, interrupção ou prorrogação do prazo processual, quedou-se inerte. Dessa forma, não há como afastar a intempestivi dade.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por BENIVALDO GOMES DA SILVA contra decisão da Presidência desta Corte Superior proferida nos seguintes termos (e-STJ, fls. 139-140):
+Por meio da análise do recurso de BENIVALDO GOMES DA SILVA, verifica-se que a parte recorrente foi intimada do acórdão recorrido em 21.05.2025, sendo o Recurso em Mandado de Segurança interposto somente em 16.06.2025.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 33 da Lei n. 8.038/90 e do art. 219, caput, do Código de Processo Civil.
+Ademais, percebeu-se, no STJ, haver irregularidade quanto à tempestividade do recurso. A parte, embora regularmente intimada para comprovar eventual suspensão, interrupção ou prorrogação do prazo processual, quedou-se inerte, consoante certidão de fls. 480. Dessa forma, não há como afastar a intempestividade.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do Recurso em Mandado de Segurança.
+Em suas razões (e-STJ, fls. 491-502), o insurgente defende, em síntese, a tempestividade recursal "uma vez que sua real publicação no DJ-e somente ocorreu em 21/05/2025, sendo que em 26/05/2025 é o início do prazo para o RMS, o dia 19/05/2025 é o feriado de Corpus Christi, com ponto facultativo em 20/05/2025, e, 16/06/2025 foi a data da oposição do Recurso Ordinário, sendo, portanto, tempestivo" (e-STJ, fl. 500).
+No mais, repisa as mesmas questões indicada s nas razões do recurso ordinário para o fim de lhe assegurar o direito líquido e certo de ser promovido ao posto de Primeiro Tenente da PM e, consequentemente, a revisão dos seus proventos para que sejam calculados com base no posto de Capitão da PM.
+Impugnação apresentada às fls. 507-509 (e-STJ).
+Instado a se manifestar, o Ministério Público Federal opinou pelo não provimento do agravo interno e, se acolhido, pelo desprovimento do recurso ordinário (e-STJ, fls. 524-533).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. INTEMPESTIVIDADE RECURSAL. MANEJO FORA DO PRAZO LEGAL DE 15 (QUINZE) DIAS ÚTEIS. PARTE REGULARMENTE INTIMADA PARA COMPROVAÇÃO DE EVENTUAL SUSPENSÃO, INTERRUPÇÃO OU PRORROGAÇÃO DO PRAZO PROCESSUAL, DEIXOU O PRAZO TRANSCORRER SEM MANIFESTAÇÃO. AGRAVO INTERNO DESPROVIDO.
+1. O recurso em mandado de segurança é manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos dos arts. 33 da Lei n. 8.038/1090 e 219, caput, do Código de Processo Civil.
+2. A parte, embora regularmente intimada para comprovar eventual suspensão, interrupção ou prorrogação do prazo processual, quedou-se inerte. Dessa forma, não há como afastar a intempestivi dade.
+3. Agravo interno desprovido.
+VOTO
+Apesar do inconformismo manifestado pela parte agravante, está correta e deve ser confirmada as manifestações proferidas pela Presidência desta Corte Superior.
+Por meio da análise do recurso de Benivaldo Gomes da Silva, verifica-se que a parte recorrente foi intimada do acórdão recorrido em 21/5/2025, sendo o recurso em mandado de segurança interposto somente em 16/6/2025.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos dos arts. 33 da Lei n. 8.038/1090 e 219, caput, do Código de Processo Civil.
+Ademais, percebeu-se, no STJ, haver irregularidade quanto à tempestividade do recurso.
+Assim, levando em consideração que a Corte Especial do Superior Tribunal de Justiça acolheu a QO no AREsp 2.638.376/MG, de relatoria do Ministro Antonio Carlos Ferreira, julgado em 5/2/2025, DJEN de 27/3/2025, no sentido de "aplicar os efeitos da Lei nº 14.939/2024 também aos recursos interpostos antes de sua vigência, devendo ser observada, igualmente, por ocasião do julgamento dos agravos internos/regimentais contra decisões monocráticas de inadmissibilidade recursal em decorrência da falta de comprovação de ausência de expediente forense".
+A parte, embora regularmente intimada para comprovar eventual suspensão, interrupção ou prorrogação do prazo processual, quedou-se inerte, conforme certidão de fl. 480 (e-STJ). Dessa forma, não há como afastar a intempestividade.
+Nesse sentido (sem grifo no original):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. INTERPOSIÇÃO APÓS O PERÍODO LEGAL. INTEMPESTIVIDADE. PREVISÃO NO SISTEMA DE JUSTIÇA ELETRÔNICO. AUSÊNCIA DE COMPROVAÇÃO IDÔNEA OU JUSTA CAUSA. AGRAVO INTERNO DESPROVIDO.
+1. O recurso foi interposto fora do prazo processual, uma vez que a parte recorrente foi intimada do acórdão recorrido em 21/2/2020, sendo o recurso em mandado de segurança interposto somente em 18/3/2020, estando manifestamente intempestivo, porquanto interposto fora do prazo de quinze dias úteis, nos termos dos arts. 33 da Lei n. 8.038/1990 e 219, caput, do Código de Processo Civil.
+2. O prazo sugerido pelo sistema do PJE não tem o condão de eximir a parte interessada de interpor o recurso no prazo legal, não vinculando o termo final do prazo à data sugerida, nem dispensando a parte recorrente da respectiva confirmação (AgInt nos EDcl no RMS n. 72.227/SC, relator Ministro Herman Benjamin, Segunda Turma, julgado em 12/8/2024, DJe de 20/8/2024).
+3. Agravo interno desprovido.
+(AgInt no RMS n. 63.874/MA, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 13/8/2025, DJEN de 19/8/2025.)
+PROCESSUAL CIVIL. INTEMPESTIVIDADE. COMPROVAÇÃO. ATO DE INTERPOSIÇÃO DO RECURSO.
+I - Na origem, trata-se de mandado de segurança no qual se pretendia a declaração de direito líquido e certo de servidores a receber reajuste de vencimento previsto em lei complementar. No Tribunal a quo, a segurança foi denegada. Agravo interno interposto contra decisão monocrática da presidência do STJ, que não conheceu do recurso em mandado de segurança por manifesta intempestividade.
+II - Verifica-se que a parte recorrente foi intimada do acórdão recorrido em 17/6/2021, sendo o recurso em mandado de segurança interposto somente em 26/7/2021. O recurso é manifestamente intempestivo, porquanto interposto fora do prazo de 15 dias, nos termos do art. 33 da Lei n. 8.038/1990 e dos arts. 1.003, § 5º, e 219, caput, ambos do Código de Processo Civil.
+III - A Corte Especial, no julgamento do AREsp n. 957.821, em 20/11/2017, chegou à conclusão de que, na vigência do Código de Processo Civil de 2015, não é possível a pretensão de comprovação da tempestividade após a interposição do recurso. Recentemente, a mesma Corte Especial decidiu que a regra da impossibilidade de comprovação da tempestividade, posteriormente à interposição do recurso, não deveria ser aplicada no caso em que se trate de feriado de carnaval. O entendimento foi fixado no REsp n. 1.813.684/SP e, posteriormente, ratificado no julgamento da questão de ordem no mesmo recurso, quando se entendeu que a mesma interpretação não poderia ser estendida para outros feriados, que não fossem o feriado de carnaval.
+IV - Assim, em se tratando de interposição de recurso em datas que não se referem ao feriado de carnaval, é aplicável a jurisprudência desta Corte no sentido já indicado acima de impossibilidade de comprovação da tempestividade após a interposição do recurso. A interposição de agravo interno, após o prazo legal de 15 dias úteis, implica o não conhecimento do recurso, por intempestividade, nos termos do art. 1.021, c/c os arts. 219, 1.003, § 5º, e 1.070 do Código de Processo Civil de 2015. Nesse sentido: AgInt no AREsp n. 500.715/SP, relator Ministro Lázaro Guimarães (Desembargador convocado do TRF 5ª Região), Quarta Turma, julgado em 7/11/2017, DJe 14/11/2017; AgInt no AREsp n. 1.079.967/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 5/9/2017, DJe 15/9/2017; AgInt no AREsp n. 927.101/MG, relator Ministro Og Fernandes, Segunda Turma, julgado em 16/5/2017, DJe 19/5/2017.
+V - Agravo interno conhecido para negar-lhe provimento e manter a decisão recorrida que considerou o recurso em mandado de segurança intempestivo.
+(AgInt no RMS n. 72.187/PE, relator Ministro Francisco Falcão, Segunda Turma, julgado em 4/3/2024, DJe de 6/3/2024.)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
