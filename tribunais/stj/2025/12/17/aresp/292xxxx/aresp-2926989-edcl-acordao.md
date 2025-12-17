@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Maria Marluce Caldas votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU AMBIGUIDADE. DECISÃO EMBARGADA QUE ENFRENTOU A DIALETICIDADE RECURSAL (NÃO COMPROVAÇÃO DO DISSÍDIO, ÓBICE DA SÚMULA 7/STJ E DEFICIÊNCIA DE FUNDAMENTAÇÃO - SÚMULA 284/STF). INCIDÊNCIA DA SÚMULA N. 182/STJ. PRETENSÃO DE REDISCUSSÃO DO MÉRITO. EMBARGOS REJEITADOS.
+1. Os embargos de declaração, nos termos do art. 619 do Código de Processo Penal, não se prestam à rediscussão do mérito, exigindo a demonstração de ambiguidade, obscuridade, contradição ou omissão.
+2. O acórdão embargado enfrentou, de modo direto e suficiente, a falta de impugnação específica aos fundamentos da decisão que julgou o agravo em recurso especial  não comprovação do dissídio, incidência da Súmula 7/STJ e deficiência de fundamentação à luz da Súmula 284/STF  , concluindo pela incidência da Súmula n. 182/STJ.
+3. As alegações genéricas de "natureza estritamente jurídica" das teses e de inaplicabilidade da Súmula 7/STJ traduzem inconformismo com a solução adotada e não configuram vícios aptos a autorizar aclaratórios.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por FLÁVIO MUNIZ DALLA COLETTA contra acórdão que negou provimento ao agravo regimental, nos termos da seguinte ementa (e-STJ fl. 2863):
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DIALETICIDADE RECURSAL. RAZÕES QUE REITERAM O MÉRITO SEM ENFRENTAR OS ÓBICES ESPECÍFICOS APLICADOS NA DECISÃO QUE JULGOU O AGRAVO EM RECURSO ESPECIAL (NÃO COMPROVAÇÃO DO DISSÍDIO E INCIDÊNCIA DA SÚMULA 7/STJ). DEFICIÊNCIA DE FUNDAMENTAÇÃO (SÚMULA 284/STF). SÚMULA N. 182/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O agravo regimental deve impugnar, de modo específico e pormenorizado, os fundamentos da decisão que julgou o agravo em recurso especial. A mera reiteração de teses de mérito, dissociada do enfrentamento dos óbices indicados  não comprovação do dissídio e incidência da Súmula 7/STJ, além da deficiência de fundamentação à luz da Súmula 284/STF  , não supre o requisito da dialeticidade.
+2. A ausência de ataque direto aos motivos da decisão agravada atrai a incidência da Súmula n. 182/STJ, segundo a qual "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+3. Agravo regimental não provido.
+Nos presentes aclaratórios, o embargante alega omissões e contradições no acórdão, ao afirmar inexistente a impugnação específica dos óbices quando, segundo sustenta, o agravo regimental  e, antes, o agravo em recurso especial  teriam enfrentado, com precisão, a não incidência das Súmulas 7/STJ e 284/STF, bem como o dissídio; aponta, ainda, omissão sobre a natureza jurídica das teses e inaplicabilidade da Súmula n. 7/STJ, e a ausência de exame concreto acerca da deficiência de fundamentação e da não comprovação do dissídio (e-STJ fls. 2884/2890).
+Requer o acolhimento dos embargos para sanar as omissões e contradições, reconhecer a efetiva impugnação específica realizada e determinar o regular processamento do recurso especial.
+É o relatório.
+EMENTA
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU AMBIGUIDADE. DECISÃO EMBARGADA QUE ENFRENTOU A DIALETICIDADE RECURSAL (NÃO COMPROVAÇÃO DO DISSÍDIO, ÓBICE DA SÚMULA 7/STJ E DEFICIÊNCIA DE FUNDAMENTAÇÃO - SÚMULA 284/STF). INCIDÊNCIA DA SÚMULA N. 182/STJ. PRETENSÃO DE REDISCUSSÃO DO MÉRITO. EMBARGOS REJEITADOS.
+1. Os embargos de declaração, nos termos do art. 619 do Código de Processo Penal, não se prestam à rediscussão do mérito, exigindo a demonstração de ambiguidade, obscuridade, contradição ou omissão.
+2. O acórdão embargado enfrentou, de modo direto e suficiente, a falta de impugnação específica aos fundamentos da decisão que julgou o agravo em recurso especial  não comprovação do dissídio, incidência da Súmula 7/STJ e deficiência de fundamentação à luz da Súmula 284/STF  , concluindo pela incidência da Súmula n. 182/STJ.
+3. As alegações genéricas de "natureza estritamente jurídica" das teses e de inaplicabilidade da Súmula 7/STJ traduzem inconformismo com a solução adotada e não configuram vícios aptos a autorizar aclaratórios.
+4. Embargos de declaração rejeitados.
+VOTO
+A irresignação não merece acolhimento.
+Os embargos de declaração são recurso com fundamentação vinculada, sendo imprescindível a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal. Podem ser admitidos, ainda, para correção de eventual erro material e, excepcionalmente, para alteração ou modificação do decisum embargado.
+É insuficiente, todavia, a mera irresignação com o entendimento apresentado na decisão, assim como inviável seu uso como mero meio de reanálise das alegações.
+No caso, não se constatam os vícios alegados.
+O acórdão embargado enfrentou, de modo direto e suficiente, a razão decisória pertinente à espécie, qual seja, a falta de impugnação específica aos fundamentos da decisão que julgou o agravo em recurso especial, notadamente quanto à não comprovação do dissídio, ao óbice da Súmula n. 7/STJ e à deficiência de fundamentação à luz da Súmula n. 284/STF, concluindo pela incidência da Súmula n. 182/STJ (e-STJ fls. 2863/2867).
+As alegações de omissão quanto à "natureza estritamente jurídica das teses" e à inaplicabilidade da Súmula 7/STJ limitam-se à rediscussão do mérito do apelo nobre e não integram o objeto do acórdão embargado, que se cingiu ao controle de dialeticidade das razões do agravo em recurso especial, em conformidade com a decisão antecedente (e-STJ fls. 2779/2780). Tampouco há contradição interna: o acórdão registrou que as razões recursais não demonstraram, de forma concreta e pormenorizada, a superação dos específicos óbices aplicados, o que afasta a premissa de impugnação efetiva indicada nos embargos (e-STJ fls. 2863/2867). A invocação de suposta "análise genérica" não evidencia ambiguidade, obscuridade, contradição ou omissão, mas apenas inconformismo com a solução adotada.
+No caso, o embargante pretende, na realidade, rediscutir matéria já decidida e que foi contrária à sua pretensão, sem demonstrar, todavia, ambiguidade, obscuridade, contradição ou omissão, nos termos do art. 619 do CPP.
+De fato, o entendimento desta Corte é pacífico no sentido de que "os embargos declaratórios não constituem recurso de revisão, sendo inadmissíveis se a decisão embargada não padecer dos vícios que autorizariam a sua oposição (obscuridade, contradição e omissão)". (EDcl no AgRg no REsp n. 1339703/RS, relator Ministro Felix Fischer, Quinta Turma, julgado em 4/11/2014, DJe de 17/11/2014).
+Manifesta, portanto, a impossibilidade de acolhimento dos presentes aclaratórios, porquanto não demonstrada ambiguidade, omissão, contradição ou obscuridade, mas mera irresignação do embargante com a solução apresentada por esta Corte Superior.
+Diante do exposto, rejeito os presentes embargos.
+É como voto.
