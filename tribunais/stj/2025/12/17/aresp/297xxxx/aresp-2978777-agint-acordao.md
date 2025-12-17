@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/12/2025 a 17/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PREPARO  DO  RECURSO  ESPECIAL.  AUSÊNCIA  DE  JUNTADA  DA GUIA DE CUSTAS E DO  COMPROVANTE  DE  PAGAMENTO.  INTIMAÇÃO  DO TRIBUNAL DE ORIGEM PARA  REGULARIZAÇÃO DO PREPARO.  NÃO  ATENDIMENTO.  DESERÇÃO  RECONHECIDA.  SÚMULA  187  DO  STJ.  AGRAVO  INTERNO  IMPROVIDO.
+1.  Conforme jurisprudência  do  STJ,  "no  ato  de  interposição,  o  Recurso  Especial  deve  estar  acompanhado  das  guias  do  preparo,  além  dos  respectivos  comprovantes  de  pagamento,  ambos  de  forma  visível  e  legível,  sob  pena  de  deserção"  (REsp  1.741.793/ES,  relator  Ministro  Herman  Benjamin,  Segunda  Turma,  julgado  em  21/6/2018,  DJe  de  22/11/2018).
+2.  A não comprovação do pagamento do preparo recursal ou a não comprovação da hipossuficiência econômica, mesmo após a intimação para tanto, inviabiliza o conhecimento do recurso, nos termos da Súmula 187 do STJ.
+3. Na jurisprudência desta Corte Superior, a comprovação posterior da complementação do preparo não é admitida, em virtude da preclusão consumativa.
+4.  Agravo  interno  im  provido.
+RELATÓRIO
+MINISTRO  AFRÂNIO  VILELA:  Em  análise,  agravo  interno  interposto  por  AMADEU PEREIRA  contra  a  decisão  que  não  conheceu  do  recurso  especial,  pela  incidência  da  Súmula  187  do  STJ.
+Argumenta  a  parte  agravante,  em  síntese,  que:
+Ao contrário do que consta na decisão agravada, não há que se falar em dado o prazo e não regularizado corretamente, na verdade dado o prazo para recolhimento do preparo do recurso, APÓS o indeferimento do pedido de concessão dos benefícios da justiça gratuita, o agravante procedeu com o recolhimento das custas relativas ao Poder Judiciário do Estado de Goiás o que se verifica em fls. 235-240, deixando de comprovar o pagamento das custas relativas a este Superior Tribunal de Justiça.
+Conforme se verifica em petição fls. 235-240, o recorrente juntou aos autos guia e comprovante de pagamento das custas recursais estadual, isso após a intimação da decisão de fls. 230-231, ao passo que a certidão de fls. 241 apesar de citar a respectiva juntada, de forma incorreta afirma que faltou a guia GRU Cobrança de CUSTAS.
+Isso porque, nos termos do art. 1.007, § 2º, do CPC/2015, quando houver a insuficiência no valor do preparo, isto é, quando o valor do preparo for pago a menor, o recorrente será intimado para realizar a complementação de seu pagamento, no prazo de 5 (cinco) dias, sob pena de ser considerado deserto; ao passo que, quando o preparo não tiver sido recolhido, isto é, quando houver ausência de pagamento do valor do preparo, o recorrente será intimado para realizar o seu pagamento em dobro, sob pena de deserção, conforme disposto no art. 1.007, § 4º do CPC  (fl.  319).
+Por  fim,  pugna  pela  reconsideração  da  decisão  agravada  ou  pela  submissão  da  questão  ao  Colegiado.
+Impugnação da parte agravada pelo improvimento do recurso.
+É  o  relatório.
+EMENTA
+PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PREPARO  DO  RECURSO  ESPECIAL.  AUSÊNCIA  DE  JUNTADA  DA GUIA DE CUSTAS E DO  COMPROVANTE  DE  PAGAMENTO.  INTIMAÇÃO  DO TRIBUNAL DE ORIGEM PARA  REGULARIZAÇÃO DO PREPARO.  NÃO  ATENDIMENTO.  DESERÇÃO  RECONHECIDA.  SÚMULA  187  DO  STJ.  AGRAVO  INTERNO  IMPROVIDO.
+1.  Conforme jurisprudência  do  STJ,  "no  ato  de  interposição,  o  Recurso  Especial  deve  estar  acompanhado  das  guias  do  preparo,  além  dos  respectivos  comprovantes  de  pagamento,  ambos  de  forma  visível  e  legível,  sob  pena  de  deserção"  (REsp  1.741.793/ES,  relator  Ministro  Herman  Benjamin,  Segunda  Turma,  julgado  em  21/6/2018,  DJe  de  22/11/2018).
+2.  A não comprovação do pagamento do preparo recursal ou a não comprovação da hipossuficiência econômica, mesmo após a intimação para tanto, inviabiliza o conhecimento do recurso, nos termos da Súmula 187 do STJ.
+3. Na jurisprudência desta Corte Superior, a comprovação posterior da complementação do preparo não é admitida, em virtude da preclusão consumativa.
+4.  Agravo  interno  im  provido.
+VOTO
+MINISTRO  AFRÂNIO  VILELA  (Relator):  Conheço  do  recurso,  porquanto  presentes  os  seus  pressupostos  intrínsecos  e  extrínsecos  de  admissibilidade.
+O agravo interno não merece prosperar, pois a ausência de argumentos hábeis para desconstituir os fundamentos da decisão ora agravada torna inalterado o entendimento nela firmado.
+Nos  termos  do  art.  1.007,  §  4º,  do  CPC/2015,  "o  recorrente  que  não  comprovar,  no  ato  de  interposição  do  recurso,  o  recolhimento  do  preparo,  inclusive  porte  de  remessa  e  de  retorno,  será  intimado,  na  pessoa  de  seu  advogado,  para  realizar  o  recolhimento  em  dobro,  sob  pena  de  deserção".
+No  caso,  a  parte  recorrente  interpôs recurso especial, com pedido de concessão ao benefício da justiça gratuita. Em despacho, a Corte a quo indeferiu o pedido do benefício e intimou o recorrente para que recolhesse o preparo, sob pena de não conhecimento do recurso (fls. 230-231).
+Embora regularmente intimada para sanar o referido vício, a parte não regularizou, porquanto não foram recolhidas as custas devidas a este Superior Tribunal (fls. 236-240).
+Conforme  jurisprudência  do  STJ,  "no  ato  de  interposição,  o  Recurso  Especial  deve  estar  acompanhado  das  guias  do  preparo,  além  dos  respectivos  comprovantes  de  pagamento,  ambos  de  forma  visível  e  legível,  sob  pena  de  deserção"  (REsp  1.741.793/ES,  relator  Ministro  Herman  Benjamin,  Segunda  Turma,  julgado  em  21/6/2018,  DJe  de  22/11/2018).
+Registre-se que, de acordo com a jurisprudência desta Corte Superior, a comprovação posterior da complementação do preparo não é admitida em virtude da preclusão consumativa. Nesse sentido: AgInt no AREsp 2.774.350/MT, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 7/4/2025, DJEN de 11/4/2025; AgInt no AREsp 2.804.624/MS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 12/8/2025, DJEN de 15/8/2025.
+Portanto,  a  não  comprovação  do  pagamento  do  preparo  recursal  ou  a não  comprovação  da  hipossuficiência  econômica,  mesmo  após  a  intimaç  ão  para  tanto,  inviabiliza  o  conhecimento  do  recurso,  nos  termos  da  Súmula  187  do  STJ  ("É  deserto  o  recurso  interposto  para  o  Superior  Tribunal  de  Justiça,  quando  o  recorrente  não  recolhe,  na  origem,  a  importância  das  despesas  de  remessa  e  retorno  dos  autos").
+Isso  posto,  nego  provimento  ao  recurso.
