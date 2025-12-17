@@ -1,0 +1,70 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/12/2025 a 17/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Afrânio Vilela, Francisco Falcão e Maria Thereza de Assis Moura votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+Impedido o Sr. Ministro Teodoro Silva Santos.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. ALEGAÇÕES GENÉRICAS. SÚMULA N. 284/STF. AÇÃO RESCISÓRIA. PROVA NOVA. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA. SÚMULA N. 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Consoa nte entendimento firmado no Superior Tribunal de Justiça, revela-se deficiente a fundamentação, apta a atrair a incidência da Súmula n. 284/STF, quando a alegada violação aos arts. 489 e 1.022 do CPC/2015 é genérica.
+2. Nos termos da jurisprudência desta Corte Superior, "a prova nova apta a aparelhar a ação rescisória, fundada no art. 966, VII, do Código de Processo Civil de 2015, diz respeito àquela que, já existente à época da decisão rescindenda, era ignorada pelo autor ou do qual não pôde fazer uso, por motivos alheios à sua vontade, apta, por si só, de lhe assegurar um pronunciamento jurisdicional distinto daquele proferido" (AgInt no AREsp 2.226.563/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 19/5/2023; AR 6.980/DF, Rel. Ministro Gurgel de Faria, Primeira Seção, DJe 4/11/2022).
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por CÍCERO ANTÔNIO DA SILVA e OUTROS contra decisão proferida por esta relatoria, nos termos da seguinte ementa (e-STJ, fl. 699):
+RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. 1. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. ALEGAÇÕES GENÉRICAS. SÚMULA N. 284/STF. 2. PROVA NOVA. PRECEDENTES DO STJ. SÚMULA N. 83/STJ. 3. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, DESPROVIDO.
+Em suas razões (e-STJ, fls. 712-717), os agravantes argumentam que a decisão monocrática (e-STJ, fls. 699-706) não deu o devido desfecho ao presente caso.
+Para tanto, no que concerne aos arts. 489, § 1º, IV e V, e 1.022, II, do CPC/2015, alegam que houve a especificação das violações perpetradas contra os aludidos dispositivos.
+Sustentam que o enunciado da Súmula n. 83/STJ é inaplicável ao caso sob julgamento, notadamente pelo fato de que os precedentes invocados não guardam identidade fática ou jurídica com a presente lide.
+Requerem, por fim, a reconsideração da decisão monocrática.
+Impugnação apresentada (e-STJ, fls. 724-730).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. ALEGAÇÕES GENÉRICAS. SÚMULA N. 284/STF. AÇÃO RESCISÓRIA. PROVA NOVA. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA. SÚMULA N. 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Consoa nte entendimento firmado no Superior Tribunal de Justiça, revela-se deficiente a fundamentação, apta a atrair a incidência da Súmula n. 284/STF, quando a alegada violação aos arts. 489 e 1.022 do CPC/2015 é genérica.
+2. Nos termos da jurisprudência desta Corte Superior, "a prova nova apta a aparelhar a ação rescisória, fundada no art. 966, VII, do Código de Processo Civil de 2015, diz respeito àquela que, já existente à época da decisão rescindenda, era ignorada pelo autor ou do qual não pôde fazer uso, por motivos alheios à sua vontade, apta, por si só, de lhe assegurar um pronunciamento jurisdicional distinto daquele proferido" (AgInt no AREsp 2.226.563/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 19/5/2023; AR 6.980/DF, Rel. Ministro Gurgel de Faria, Primeira Seção, DJe 4/11/2022).
+3. Agravo interno desprovido.
+VOTO
+Os argumentos trazidos pelos agravantes não são capazes de modificar as conclusões da deliberação unipessoal.
+Da leitura da decisão agravada extrai-se que, quanto à alegada violação aos arts. 489 e 1.022 do CPC/2015, aplicou-se o enunciado da Súmula n. 284/STF em razão das alegações genéricas. No ponto, é inviável o afastamento do óbice.
+Isso porque, conforme consignado anteriormente, ao suscitar violação aos arts. 489 e 1.022 do CPC/2015, os agravantes não indicaram de maneira precisa em que pontos a decisão seria omissa, obscura ou contraditória.
+Efetivamente, não se conhece de suposta violação aos arts. 489 e 1.022 do CPC/2015 quando as alegações que fundamentaram a suposta ofensa são genéricas, sem indicação efetiva dos pontos eivados de omissão, obscuridade ou contradição, como no presente caso.
+A propósito (sem grifo no original):
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. ART. 1.022 DO CPC. ALEGAÇÕES GENÉRICAS. INCIDÊNCIA DA SÚMULA 284/STF. CUMPRIMENTO DE SENTENÇA EXTINTO PELO PAGAMENTO. PRETENSÃO DE REDISCUTIR CÁLCULOS PARA ADEQUAR ÍNDICE DE CORREÇÃO MONETÁRIA. IMPOSSIBILIDADE. COISA JULGADA. PROVIMENTO NEGADO.
+1. É deficiente o capítulo do recurso especial em que é alegada a ofensa ao art. 1.022 do Código de Processo Civil (CPC) de forma genérica, sem a indicação específica dos pontos sobre os quais o julgador deveria ter se manifestado, por impossibilitar a compreensão da controvérsia. Incidência, por analogia, do óbice previsto na Súmula 284 do Supremo Tribunal Federal (STF).
+2. A jurisprudência desta Corte é no sentido da impossibilidade de se rediscutir cálculos para fins de adequação de índice de correção monetária quando a execução já tiver sido extinta pelo pagamento, diante da formação da coisa julgada.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.016.611/DF, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 14/4/2025, DJEN de 23/4/2025.)
+No tocante ao cerne da controvérsia, a questão devolvida à apreciação diz respeito ao ajuizamento de ação rescisória com fundamento em nova prova, que, na hipótese dos autos, baseia-se em julgamentos posteriores proferidos pelo Tribunal de Justiça do Estado do Ceará em sentido contrário para mesma situação fática.
+Conforme consignado na decisão agravada, o recurso especial interposto contra decisão proferida em ação rescisória deve ficar adstrito aos pressupostos estabelecidos no art. 966 do CPC/2015.
+Quanto ao ajuizamento da aludida ação, com fundamento no inciso VII do art. 966 do CPC/2015, esta Corte Superior entende que "a prova nova apta a aparelhar a ação rescisória, fundada no art. 966, VII, do Código de Processo Civil de 2015, diz respeito àquela que, já existente à época da decisão rescindenda, era ignorada pelo autor ou do qual não pôde fazer uso, por motivos alheios à sua vontade, apta, por si só, de lhe assegurar um pronunciamento jurisdicional distinto daquele proferido" (AR 6.980/DF, Rel. Ministro Gurgel de Faria, Primeira Seção, DJe 4.11.2022; e AgInt no AREsp 2.226.563/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 19.5.2023).
+Nessa perspectiva, pressupõe-se a apresentação de prova nova obtida pela parte autora após o trânsito em julgado, cuja existência era ignorada ou não podia fazer uso.
+Na mesma linha de cognição (sem grifos no original):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. PROVA NOVA. NÃO OCORRÊNCIA. INCIDÊNCIA DA SÚMULA N. 83 DO STJ. REFORMA DO JULGADO. REANÁLISE DE MATÉRIA FÁTICO-PROBATÓRIA. APLICAÇÃO DA SÚMULA N. 7 DO STJ. PRAZO DECADENCIAL. TERMO INICIAL. REVISÃO DO JULGADO. REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO NOS MOLDES LEGAIS. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE, MAS NÃO PROVIDO.
+1. O entendimento do acórdão recorrido está em consonância com a jurisprudência do STJ no sentido de que a prova nova apta a fundamentar a ação rescisória, amparada no art. 966, VII, do NCPC, refere-se àquela que, já existente à época da decisão rescindenda, era ignorada pelo autor ou da qual não pôde fazer uso, por motivos alheios a sua vontade, apta, por si só, de lhe assegurar um pronunciamento jurisdicional distinto daquele proferido, situação aqui não verificada, o que atrai a incidência da Súmula n. 83 do STJ.
+2. A alteração das conclusões do acórdão recorrido, no tocante à existência de prova nova apta ao ajuizamento da ação rescisória e quanto ao termo inicial do seu prazo decadencial, exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula nº 7 do STJ.
+3. A não observância aos requisitos dos arts. 1.029, § 1º, do NCPC, e 255, §§ 1º e 2º, do Regimento Interno do Superior Tribunal de Justiça torna inadmissível o conhecimento do recurso com fundamento na alínea c do permissivo constitucional.
+4. Agravo conhecido para conhecer em parte do recurso especial, mas negar-lhe provimento.
+(AREsp n. 2.854.252/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 23/6/2025, DJEN de 26/6/2025.)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. AÇÃO RESCISÓRIA. ARTIGO 485, VII, DO CPC. INEXISTÊNCIA DE DOCUMENTO NOVO. NÃO CABIMENTO. APROVAÇÃO DAS CONTAS PELO TRIBUNAL DE CONTAS. NÃO VINCULAÇÃO AO PODER JUDICIÁRIO.
+1. Consoante entendimento desta Corte, o documento novo que propicia o manejo da ação rescisória, fundada no art. 485, VII, do Código de Processo Civil, é aquele que, já existente à época da decisão rescindenda, era ignorado pelo autor ou do qual não pôde fazer uso, capaz de assegurar, por si só, a procedência do pronunciamento jurisdicional.
+2. O STJ fixou orientação no sentido de que o prosseguimento da ação de improbidade administrativa independe da aprovação ou rejeição das contas pelo Tribunal de Contas da União, nos termos do artigo 21, II, da Lei 8429/92.
+3. Agravo regimental não provido.
+(AgRg no REsp n. 1.407.540/SE, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 18/12/2014, DJe de 19/12/2014.)
+Cumpre salientar ainda que a alegação de prova nova não pode ser acolhida sem a demonstração de impossibilidade de sua obtenção ou utilização em ação anterior, pois, conforme já decidido por este Superior Tribunal, o "importante é que à época dos acontecimentos havia a impossibilidade de sua utilização pelo autor, tendo em vista encontrar-se impedido de se valer do documento - impedimento este não oriundo de sua desídia, mas sim da situação fática ou jurídica em que se encontrava" (EDcl nos EDcl no AgRg no Ag n. 563.593/SP, relator Ministro Gilson Dipp, Quinta Turma, julgado em 14/12/2004, DJ de 21/2/2005).
+No caso concreto, a Corte estadual rechaçou a tese sustentada pelos ora agravantes, sob o fundamento de que os precedentes reputados como prova nova eram de conhecimento dos recorrentes, tendo sido utilizados para o convencimento dos magistrados.
+Leia-se (e-STJ, fls. 488-490):
+Trata-se de ação rescisória proposta com o intuito de desconstituir aresto proferido pelos integrantes da Segunda Câmara de Direito Público deste e. Tribunal, com fundamento na existência de prova nova cuja existência ignorava (art. 966, inciso VII, do NCPC) e no dever dos tribunais de uniformizar sua jurisprudência (art. 926, do NCPC).
+Recebida a inicial, a relatoria primeva entendeu que:
+ ..
+E foi mais além, pois, analisando as petições apresentadas no processo cuja decisão visa rescindir, observou que os precedentes ora utilizados como se prova nova fossem seriam de conhecimento dos Promoventes, que os utilizaram, inclusive, para tentar convencer os julgadores; senão vejamos:
+O processo 0703019-31.2000.8.06.0001 tramitava em apenso à ação originária. Em despacho, o juízo a quo cientificou as partes acerca do acórdão lavrado pela então 7ª Câmara Cível, inclusive quando interpuseram o Recurso Especial os autores citaram esse julgado para corroborar sua tese.
+O outro precedente (0059391-94.2007.8.06.0001) também era conhecido dos postulantes, tendo sido expressamente citado na Apelação Cível do feito principal como forma de fortalecer seus argumentos que à época iriam ser submetidos à apreciação de órgão colegiado no âmbito do TJCE.
+Como se observa, as provas apresentadas pelos requerentes nestes autos não possuem nada de novas, inclusive eram de conhecimento dos demandantes em data anterior ao trânsito em julgado. Tanto é verdade que serviram para reforçar suas alegações apresentadas no processo principal.
+Importante salientar que um precedente ou seu resultado prático na sociedade, que, in casu, seria a nomeação de candidato com pretensão análoga não pode ser considerado prova nova, por (i) já ser conhecido dos Promoventes; e (ii) não possuir, o precedente, natureza jurídica que sirva a atestar um fato ou negócio capaz de assegurar, por si só, a procedência do pronunciamento jurisdicional. A jurisprudência do Superior Tribunal de Justiça é nesse sentido:
+ ..
+Em arremate, e não menos importante, o fato social (nomeação do Sr. Carlos Eduardo Vieira) decorrente da "prova nova" (precedente) utilizado para forçar o conhecimento da rescisória, ocorreu em 7/12/2018, sendo, portanto, posterior a coisa julgada formada em 3/08/2018 (certidão de trânsito em julgado de fl. 36).
+Isso, por si só, impede o conhecimento da ação, pois o conceito de prova nova, para fins de rescisão, considera apenas aquela preexistente ao processo cuja decisão se procura desconstituir, não sendo prova nova aquela que se formou após o trânsito em julgado da decisão (STJ, 3º Seção, AR 451/SP, rel. Min. Hélio Quaglia Barbosa, j. 11/05/2005, DJ 27/06/2005, p. 211).
+Vê-se, portanto, que o conceito de prova nova para fins de propositura de ação rescisória utilizado como fundamento do acórdão recorrido não destoa do entendimento jurisprudencial firmado nesta Corte Superior.
+Por essa razão, mantém-se a aplicação da Súmula n. 83/STJ, permanecendo íntegra a decisão agravada.
+Em arremate, é importante salientar que, conquanto os agravantes aleguem a inadequação dos precedentes utilizados para embasar a decisão monocrática, não há peculiaridade fática no caso sob julgamento apta a afastar o entendimento adotado.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
