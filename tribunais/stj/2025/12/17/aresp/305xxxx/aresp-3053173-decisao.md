@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de agravo contra a decisão que inadmitiu o recurso especial interposto por MARCOS ROBERTO BAPTISTELLO, com fundamento na alínea "a" e na alínea "c" do permissivo constitucional, em oposição a acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - 13ª CÂMARA DE DIREITO CRIMINAL (fls. 2902/2914).
+Em suas razões recursais, a parte aponta violação do art. 299, caput, do Código Penal, aduzindo, em síntese, a atipicidade da conduta por ausência de dolo específico exigido pelo tipo penal de falsidade ideológica; sustenta que o acórdão recorrido não individualizou nem comprovou o especial fim de agir ("alterar a verdade sobre fato juridicamente relevante") (fls. 2937/2954). Alega, ainda, dissídio jurisprudencial.
+Requer o provimento do recurso, a fim de reformar o acórdão recorrido e absolver o recorrente do delito de falsidade ideológica, por não constituir o fato infração penal, diante da inexistência do dolo específico (fls. 2954/2954).
+Com contrarrazões (fls. 2963/2966), o recurso especial foi inadmitido na origem (fls. 2969/2970), ao que se seguiu a interposição de agravo (fls. 2977/2995).
+Remetidos os autos a esta Corte Superior, o Ministério Público Federal manifestou-se pelo improvimento do recurso (fls. 3065/3067).
+É o relatório.
+Decido.
+O agravo impugna adequadamente os fundamentos da decisão agravada, devendo ser conhecido. Passo, portanto, ao exame do recurso especial propriamente dito.
+O Tribunal de origem manteve a condenação do recorrente pelo crime de falsidade ideológica nos seguintes termos (fls. 2908-2904):
+"O conjunto probatório se mostra robusto o suficiente para ensejar a condenação do apelante pelos fatos a ele imputados.
+Ao que consta, o apelante Marcos formalizou recurso administrativo para livrar Elias, o proprietário do veículo indicado, dos pontos na CNH.
+Isso porque Elias, visando recuperar sua carteira de habilitação  prejudicada em razão de infrações de trânsito , entrou em contato com indivíduo de nome Julian, associado ao réu, pagando-lhe valor acordado para que tivesse sua situação regularizada.
+Neste enredo, Marcos teria preenchido formulário de indicação de condutor, apresentando-se como motorista responsável pela violação apurada (fls. 2600/2608).
+Repise-se: os pontos que foram atribuídos à CNH de Elias foram transferidos par a CNH de Marcos. E de forma antijurídica, uma vez que Marcos não conduzia o veículo (autuado) quando da infração de trânsito.
+Por seu turno, o réu admitiu os fatos.
+Confessou ter realizado transferência de pontos para sua CNH, mesmo não sendo o responsável pelas ocorrências em questão, aduzindo que nunca recebeu pagamento pela conduta.
+Conjuntura bem demonstrada pelos documentos amealhados ao presente caderno procedimental, em especial e particularmente no que tange ao formulário de indicação do condutor, assinado, sem sombra de dúvidas, pelo réu Marcos  tal como consignado em perícia grafotécnica fls. 2681/2684 .
+Motivo pelo qual não há que se cogitar da fragilidade do conjunto probatório, que concorre para a demonstração visual, perceptível e sensorial do crime.
+A defesa, por outra banda, sustenta que a conduta do apelante não é materialmente típica, porquanto ausente o dolo específico de "alterar verdade sobre fato juridicamente relevante".
+Razão não lhe assiste, contudo.
+Deveras, a conduta de "transferir" pontos relativos a uma infração de trânsito demanda que o efetivo condutor  isto é, indivíduo que não o proprietário do veículo  ateste, em documento perante órgão da administração indireta (DETRAN), que foi ele  na condição de motorista  o responsável pela infração de trânsito assumindo assim a respectiva consequência: os pontos.
+Destarte, falsear essa declaração no formulário de "indicação de condutor", como fez o apelante  ciente de que em nada se relacionava com a infração pela qual se responsabilizou , aperfeiçoa e perfaz o tipo do artigo 299 do Código Penal.
+Cenário que, por conseguinte, inviabiliza o acolhimento da pretensão defensiva quanto à exclusão do elemento subjetivo do crime.
+De outro prisma, a alegação de que a ação não foi realizada mediante pagamento de nenhuma espécie não descaracteriza a subsunção da conduta ao tipo penal, sobretudo porque a obtenção de vantagem  de qualquer espécie  não constitui elemento essencial a configuração do delito.
+E mais: a alegação de desconhecimento do caráter ilícito da conduta tampouco prospera. Não só o desconhecimento da lei é inescusável  artigo 21 do Código Penal , como pouco provável se cristaliza a alegação de insciência acerca da irregularidade da prática adotada por Marcos, uma vez tratando-se de acusado que exerce profissão de despachante, o que deixa longe deste contexto a sugestão de qualquer ingenuidade ou descuido em lidar com procedimentos desta natureza.
+Por fim  e apenas para que se encerre a presente controvérsia , o reconhecimento da atipicidade da conduta, mercê da inserção de informação falsa em documento sujeito à verificação, é reivindicação, igualmente, descabida.
+Isso porque, ao contrário do que se faz alardear, a lesão à fé pública resta devidamente demonstrada. Até porque, quando descortinada a prática delitiva, como bem se observa dos documentos encartados aos autos, já contava o prontuário da CNH do apelante com centenas de transferências de multas, registradas nos mais diversos municípios do estado de São Paulo.
+Tudo a indicar enredo norteado pelo intuito de ludibriar a autarquia responsável pela fiscalização, controle e execução das atividades de trânsito.
+Enredo assim apresentado torna certo os termos da imputação.
+As provas produzidas têm densidade para firmar a responsabilidade do acusado e increpá-lo com o crime.
+Correta, também, a qualificação jurídico-penal conferida ao contexto, pelo douto magistrado de origem.
+Destarte, a condenação delineada na r. sentença se mostra mesmo inarredável. Pelo que fica mantida."
+O Tribunal de origem reconheceu o dolo específico porque o réu, sabendo não ser o condutor, inseriu declaração falsa em formulário de identificação de condutor perante o Detran, alterando a verdade sobre fato juridicamente relevante, em conformidade com o art. 299 do Código Penal; afirmou a suficiência probatória com confissão e laudo grafotécnico confirmando a assinatura; afastou a relevância de vantagem econômica para a tipicidade; rejeitou desconhecimento da ilicitude e da atuação do réu como despachante e apontou lesão à fé pública, evidenciada por sucessivas transferências de multas à CNH do réu.
+Dessa forma, para desconstituir o entendimento firmado pelo Tribunal de origem e concluir pela absolvição do crime de falsidade ideológica, seria necessário o revolvimento do conjunto fático-probatório, o que é vedado pela Súmula 7/STJ.
+Corroboram:
+"AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL. FALSIDADE IDEOLÓGICA EM DOCUMENTO PÚBLICO EM CONTINUIDADE DELITIVA POR 15 VEZES. DISSÍDIO JURISPRUDENCIAL E VIOLAÇÃO DOS ARTS. 299 E 71, CAPUT, AMBOS DO CP. PLEITO DE ABSOLVIÇÃO. VIA IMPRÓPRIA. NECESSIDADE DE EXAME APROFUNDADO DO CONJUNTO FÁTICO-PROBATÓRIO. ÓBICE DA SÚMULA 7/STJ. PEDIDO SUBSIDIÁRIO DE ALTERAÇÃO DO PATAMAR DE AUMENTO RELATIVO AO CRIME CONTINUADO. INSTÂNCIAS ORDINÁRIAS QUE RECONHECERAM A OCORRÊNCIA DE 15 INFRAÇÕES. APLICAÇÃO DA FRAÇÃO DE 2/3. CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ.
+ ..
+2. A pretensão relativa ao reexame do mérito da condenação proferida pelo Tribunal a quo, referente ao crime de falsidade ideológica, ao argumento de ausência de suporte fático-probatório, nos termos expostos na presente insurgência, notadamente acerca da não comprovação do dolo, não encontra amparo na via eleita. É que, para se acolher a pretensão de absolvição, seria necessário o reexame aprofundado do conjunto fático-probatório, providência essa incabível na via estreita do recurso especial.
+3. Tendo as instâncias ordinárias concluído pela demonstração da autoria e materialidade delitiva, a reversão das premissas fáticas do acórdão recorrido, para fins de absolvição pela alegada atipicidade, demandaria o revolvimento do conjunto fático-probatório, inadmissível pela via do recurso especial, consoante Súmula 7/STJ (AgRg no REsp n. 1.960.352/PE, Ministro Olindo Menezes (Desembargador convocado do TRF 1ª Região), Sexta Turma, DJe de 2/3/2022).
+4. O Tribunal a quo, em decisão devidamente motivada, entendeu que, do caderno instrutório, emergem elementos suficientemente idôneos de prova a concluir que o acusado praticou os delitos do art. 7º, inciso VII, da Lei nº 8137/90 e do artigo 299 do Código Penal.
+Assim, rever tais fundamentos, para decidir pela absolvição do acusado pela prática do delito do art. 7º, inciso VII, da Lei nº 8137/90, uma vez que nenhum associado foi induzido a erro, não havendo qualquer comercialização de seguro pela Associação, ou pelo afastamento da condenação pelo crime de falsidade ideológica, em razão da ausência de dolo em sua conduta, como requer a parte recorrente, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula 7/STJ (AgRg no REsp n. 1.961.967/PE, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 12/11/2021).
+ ..
+7. Agravo regimental improvido."
+(AgRg no REsp n. 1.945.790/MS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 13/9/2022, DJe de 22/9/2022.)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME MILITAR. VIOLAÇÃO DO PRINCÍPIO DA CORRELAÇÃO. AUSÊNCIA. PROVA PARA A CONDENAÇÃO (AUTORIA E MATERIALIDADE). SÚMULA N. 7 DO STJ. AGRAVO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, IMPROVIDO.
+ ..
+3. Cabe ao aplicador da lei, na instância ordinária, analisar a existência de provas suficientes para embasar o decreto condenatório, ou a ensejar a absolvição, sendo inviável, em sede de recurso especial, rediscutir a suficiência probatória para a condenação (Súmula 7/STJ) (ut, AgRg no REsp 1.716.998/RN, Relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 16/5/2018).
+4. Agravo regimental parcialmente conhecido e, nessa extensão, improvido."
+(AgRg no AREsp n. 2.570.018/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/6/2024, DJe de 21/6/2024.)
+O recurso especial não é admissível no tocante à alegada divergência jurisprudencial, pois a demonstração do suposto dissídio se restringiu à mera transcrição de acórdãos, o que não se admite. É absolutamente indispensável o efetivo cotejo analítico entre os arestos impugnado e paradigma, com o exame da identidade ou similitude fática entre estes, nos moldes legais e regimentais, o que não foi feito neste caso. A propósito:
+"Ademais, para a demonstração do dissídio, não basta a simples transcrição da ementa ou voto do acórdão paradigma; faz-se necessário o cotejo analítico entre o aresto recorrido e o divergente, com a demonstração da identidade das situações fáticas e a interpretação diversa emprestada ao mesmo dispositivo de legislação infraconstitucional. Precedentes."
+(AgRg no AREsp n. 1.622.044/DF, relator Ministro Jorge Mussi, Quinta Turma, julgado em 5/5/2020, DJe de 29/6/2020.)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "a", do Regimento Interno do STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
