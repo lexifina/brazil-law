@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/12/2025 a 17/12/2025, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Marco Aurélio Bellizze.
+Os Srs. Ministros Teodoro Silva Santos, Afrânio Vilela, Francisco Falcão e Maria Thereza de Assis Moura votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. PASSAGEIRA DE ÔNIBUS. APELAÇÃO CÍVEL. ARTS. 489 E 1.022 DO CPC/2015. OMISSÃO. INEXISTÊNCIA. ILEGITIMIDADE PASSIVA E SOLIDARIEDADE. RELAÇÃO DE CONSUMO. SÚMULA N. 83/STJ. SÚMULA N. 7/STJ. FUNDAMENTO NÃO UTILIZADO. RAZÕES DISSOCIADAS. AGRAVO INTERNO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+1. Inexiste violação aos arts. 489 e 1.022 do CPC/2015 quando há pronunciamento, de forma fundamentada, sobre as questões essenciais para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte.
+2. É firme no Superior Tribunal de Justiça o entendimento segundo o qual, em decorrência da relação de consumo, não se aplica a regra geral de ausência de solidariedade entre as empresas consorciadas no caso de responsabilidade, ante a previsão do art. 28, § 3º, do Código de Defesa do Consumidor. É inviável, pois, o afastamento do enunciado da Súmula n. 83/STJ.
+3. A insurgência, no agravo interno, em relação a fundamento não utilizado para o não conhecimento do recurso evidencia deficiência da fundamentação.
+4. Agravo interno parcialmente conhecido e, nessa extensão, desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por BRT Rio S.A. e Consórcio Operacional BRT contra decisão proferida por esta relatoria, nos termos da seguinte ementa (e-STJ, fl. 1.328):
+AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. PASSAGEIRA DE ÔNIBUS. APELAÇÃO CÍVEL. 1. ART. 1.022 DO CPC/2015. OMISSÃO. INEXISTÊNCIA. 2. ILEGITIMIDADE PASSIVA E SOLIDARIEDADE. RELAÇÃO DE CONSUMO. SÚMULA N. 83/STJ. 3. RESPONSABILIDADE. TRASPORTE DE PESSOAS. ALEGADA CULPA DE TERCEIRO. PRECEDENTES DO STJ. SÚMULA N. 83/STJ. 4. AGRAVO DE BRT RIO S.A. E CONSÓRCIO OPERACIONAL BRT CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+Em suas razões (e-STJ, fls. 1.368-1.387), os agravantes argumentam que a decisão monocrática (e-STJ, fls. 1.328-1.336) não deu o devido desfecho ao presente caso.
+Para tanto, no que diz respeito aos arts. 489 e 1.022 do CPC/2015, alegam que sua violação decorreu da rejeição dos embargos de declaração opostos sem a devida fundamentação.
+Defendem a inaplicabilidade do óbice da Súmula n. 7/STJ, pois a questão discutida não demanda a reapreciação do conjunto fático-probatório, mas sim a revaloração.
+Sustentam que a Súmula n. 83/STJ não incide no caso sob julgamento, uma vez que a regra é a ausência de solidariedade entre o consórcio e suas consorciadas.
+Requer, por fim, a reconsideração da decisão monocrática.
+Impugnações às fls. 1.418-1.419 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. PASSAGEIRA DE ÔNIBUS. APELAÇÃO CÍVEL. ARTS. 489 E 1.022 DO CPC/2015. OMISSÃO. INEXISTÊNCIA. ILEGITIMIDADE PASSIVA E SOLIDARIEDADE. RELAÇÃO DE CONSUMO. SÚMULA N. 83/STJ. SÚMULA N. 7/STJ. FUNDAMENTO NÃO UTILIZADO. RAZÕES DISSOCIADAS. AGRAVO INTERNO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+1. Inexiste violação aos arts. 489 e 1.022 do CPC/2015 quando há pronunciamento, de forma fundamentada, sobre as questões essenciais para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte.
+2. É firme no Superior Tribunal de Justiça o entendimento segundo o qual, em decorrência da relação de consumo, não se aplica a regra geral de ausência de solidariedade entre as empresas consorciadas no caso de responsabilidade, ante a previsão do art. 28, § 3º, do Código de Defesa do Consumidor. É inviável, pois, o afastamento do enunciado da Súmula n. 83/STJ.
+3. A insurgência, no agravo interno, em relação a fundamento não utilizado para o não conhecimento do recurso evidencia deficiência da fundamentação.
+4. Agravo interno parcialmente conhecido e, nessa extensão, desprovido.
+VOTO
+Os argumentos trazidos pelos agravantes não são capazes de modificar as conclusões da deliberação unipessoal.
+De início, no que tange à pretextada violação ao art. 1.022 do CPC/2015, convém rememorar que os embargos de declaração revestem-se de fundamentação vinculada, cujo objetivo é sanear a decisão eivada de obscuridade, contradição, omissão ou erro material (art. 1.022 do CPC/2015).
+Desse modo, como o Tribunal de Justiça do Estado do Rio de Janeiro motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, não há que se afirmar que a Corte de origem incorreu em violação ao dispositivo invocado apenas pelo fato de ter o aresto impugnado decidido contrariamente à pretensão da parte.
+Conforme se extrai do acórdão proferido, não ficou evidenciado o alegado vício, porquanto, ainda que em sentido contrário à vontade manifestada, a questão fora dirimida pelo colegiado de origem.
+Com efeito, o Superior Tribunal de Justiça consolidou sua jurisprudência no sentido de não ocorrer violação ao art. 1.022 do CPC/2015, tampouco negativa de prestação jurisdicional ou nulidade da decisão, quando o Tribunal de origem examina, de forma fundamentada, as questões essenciais para o deslinde da controvérsia, ainda que contrariamente à pretensão manifestada pela parte; logo o resultado desfavorável não deve ser confundido com a violação aos dispositivos invocados.
+A propósito (sem grifo no original):
+PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO POPULAR. DOAÇÃO. EQUIPAMENTOS DE PROTEÇÃO INDIVIDUAL. PANDEMIA. COVID-19. DISTRITO FEDERAL. MUNICÍPIO. RECURSO ESPECIAL. FUNDAMENTAÇÃO. DEFICIÊNCIA QUANTO A UM DOS APELOS. ART. 1.022 DO CPC. VIOLAÇÃO. INEXISTÊNCIA. JULGAMENTO ULTRA OU EXTRA PETITA. NÃO OCORRÊNCIA. LESIVIDADE. COMPROVAÇÃO. AUSÊNCIA. IRREGULARIDADES FORMAIS. INSUFICIÊNCIA. LITISCONSORTE. EFEITOS. EXTENSÃO.
+1. Não se conhece de recurso especial que não impugna especificamente o fundamento adotado pelo Tribunal de origem (Súmula 283/STF) e é manifestamente intempestivo.
+2. Inexiste violação ao art. 1.022 do CPC quando o acórdão recorrido enfrenta todas as questões relevantes para o deslinde da controvérsia, ainda que conclua de modo contrário aos interesses dos recorrentes.
+3. Não há falar em julgamento ultra ou extra petita quando o julgador, mediante interpretação lógico-sistemática, examina a petição como um todo, especialmente em ação popular, em que a condenação dos responsáveis decorre da própria lei (arts. 11 e 14 da Lei nº 4.717/65). Súmula 83/STJ.
+4. Para a anulação de ato administrativo via ação popular, não basta a alegação de irregularidades formais; é imprescindível a comprovação de efetivo prejuízo ao patrimônio público, à moralidade administrativa, ao meio ambiente ou ao patrimônio histórico e cultural.
+5. A doação de bens públicos a outro ente federativo, destinados ao uso da saúde pública, especialmente no contexto de grave crise sanitária mundial (pandemia - Covid 19), não configura, por si só, ato lesivo ao patrimônio público ou à moralidade administrativa, ainda que possa apresentar irregularidades formais.
+6. Os efeitos do julgamento favorável aproveitam aos litisconsortes em situação jurídica idêntica, inclusive àquele cujo recurso não foi conhecido, nos termos do art. 1.005 do CPC.
+7. Agravo de GLADSON MURILO MASCARENHAS RIBEIRO conhecido para não conhecer do recurso especial. Demais agravos conhecidos para conhecer dos apelos especiais e dar-lhes provimento, com extensão dos seus efeitos.
+(AREsp n. 2.786.571/DF, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 9/9/2025, DJEN de 1º/10/2025.)
+No que diz respeito à questão da ilegitimidade passiva e à solidariedade das consorciadas, o Tribunal de origem afirmou que o vínculo decorria da aplicação da regra estabelecida no art. 28, § 3º, do CDC (e-STJ, fl. 979):
+No que tange às empresas consorciadas, cabendo ressaltar que a existência do consórcio a vincular as quatro primeiras rés é incontroversa, incide a regra do artigo 28, § 3º, do Código de Defesa do Consumidor, de forma a que se reconheça a responsabilidade solidária, por fato ou vício do serviço.
+Efetivamente, é firme neste Superior Tribunal o entendimento segundo o qual, em decorrência da relação de consumo, não se aplica a regra geral de ausência de solidariedade entre as empresas consorciadas no caso de responsabilidade, ante a previsão do art. 28, § 3º, do Código de Defesa do Consumidor.
+Portanto, é inviável o afastamento da Súmula n. 83/STJ na hipótese.
+Na mesma linha de cognição (sem grifo no original):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. ACIDENTE DE TRÂNSITO. CONSÓRCIO. LEGITIMIDADE PASSIVA. RESPONSABILIDADE SOLIDÁRIA. RELAÇÃO DE CONSUMO. CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ.
+1. Nos termos da jurisprudência do STJ "o consórcio constituído sob o regime da Lei n. 6.404/1976, ainda que não goze de personalidade jurídica (artigo 278, § 1º, CPC), possui personalidade judiciária, nos termos do artigo 12, VII, do CPC  .. " (AgInt no REsp 2.029.360/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 14/8/2023, DJe de 16/8/2023).
+2. O acórdão recorrido foi proferido em conformidade com a orientação jurisprudencial desta Corte Superior de Justiça, segundo a qual, nas relações de consumo, deve ser afastada a regra geral da ausência de responsabilidade solidária entre as empresas consorciadas, por expressa previsão legal constante no art. 28, § 3º, da Lei 8.078/1990 (Código de Defesa do Consumidor).
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.929.318/RJ, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 30/10/2023, DJe de 3/11/2023.)
+ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. CONSÓRCIO DE TRANSPORTE RODOVIÁRIO. SERVIÇO PRESTADO DE FORMA INADEQUADA E INEFICIENTE. TESES DE OMISSÃO DO ARESTO REGIONAL E CERCEAMENTO DE DEFESA AFASTADAS. REEXAME DE MATÉRIA FÁTICA. SÚMULA 7/STJ. RESPONSABILIDADE DERIVADA DE RELAÇÃO DE CONSUMO. SOLIDARIEDADE ENTRE AS CONSORCIADAS. PRECEDENTES DO STJ. CONFIGURAÇÃO DO DANO COLETIVO. PROPORCIONALIDADE DO VALOR INDENIZATÓRIO. MULTA POR DESCUMPRIMENTO DA OBRIGAÇÃO DE FAZER. PEDIDO DE REVISÃO. ANÁLISE DE FATOS E PROVAS.
+1. Afasta-se a alegada tese de negativa de prestação jurisdicional, porquanto a instância ordinária solucionou, de forma clara e fundamentada, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não havendo que se confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. A desconstituição das premissas lançadas pela instância ordinária, segundo as quais não se avistou nenhum prejuízo ao agravante decorrente da ausência de oportunidade para se manifestar sobre o documento exarado pela Secretaria Estadual de Transporte, demandaria o reexame de matéria de fato, procedimento que, em sede especial, encontra óbice na Súmula 7/STJ.
+3. A jurisprudência deste Superior Tribunal assenta entendimento segundo o qual, na hipótese de responsabilidade derivada de relação de consumo, afasta-se a regra geral da ausência de solidariedade entre as consorciadas por força da disposição expressa contida no art. 28, § 3º, do CDC.
+4. A revisão do entendimento do tribunal de origem, que reconheceu a existência de danos coletivos e a proporcionalidade do valor indenizatório fixado, demandaria o exame do acervo fático, procedimento inviável em recurso especial em virtude do óbice da já mencionada Súmula nº 7/STJ.
+5. De igual forma, na via especial não é cabível, em regra, a revisão do valor estabelecido pelas instâncias ordinárias a título de multa diária por descumprimento da obrigação de fazer, ante a impossibilidade de análise de fatos e provas, conforme a disposição contida na Súmula 7/STJ.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 1.739.680/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 28/11/2022, DJe de 1/12/2022.)
+Ademais, é importante salientar que, conquanto os agravantes aleguem a inaplicabilidade da Súmula n. 83/STJ, não foi demonstrada, nas razões do agravo interno, peculiaridade fática no caso sob julgamento apta a afastar o entendimento adotado.
+Quanto à indevida aplicação da Súmula 7/STJ, é importante pontuar que o referido óbice não foi um fundamento para embasar a decisão agravada.
+Assim, ao suscitar a sua inaplicabilidade ao presente caso, os agravantes apresentaram novamente razões dissociadas, porquanto o aludido óbice não foi utilizado para fundamentar a decisão outrora proferida, o que atrai, por analogia, o óbice da Súmula 284/STF.
+Tendo em vista, então, que as alegações feitas no agravo interno não são capazes de alterar o convencimento anteriormente manifestado, permanece íntegra a decisão agravada.
+Ante o exposto, conheço em parte do agravo interno e, nessa extensão, nego-lhe provimento.
+É como voto.
