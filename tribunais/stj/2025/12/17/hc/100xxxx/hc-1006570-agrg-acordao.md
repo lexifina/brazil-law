@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/12/2025 a 17/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Carlos Pires Brandão, Og Fernandes, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. NÃO CONHECIMENTO DO WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça é uníssona no sentido de que não cabe a utilização de habeas corpus como sucedâneo de recurso próprio ou de revisão criminal, sob pena de desvirtuamento do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+2. Não se desconhece a orientação presente no art. 647-A, caput e parágrafo único, do Código de Processo Penal, segundo a qual se permite a qualquer autoridade judicial, no âmbito de sua competência jurisdicional e quando verificada a presença de flagrante ilegalidade, a expedição de habeas corpus de ofício em vista de lesão ou ameaça de lesão à liberdade de locomoção. Todavia, não é essa a situação dos autos.
+3. Agravo regimental desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por ROBSON RIBEIRO COELHO contra decisão de minha relatoria.
+Na peça, a defesa informou que o agravante foi condenado às penas de 7 anos e 10 meses de reclusão, como incurso no art. 33, caput, da Lei n. 11.343/2006, em regime inicial fechado. Alegou que houve indevida exasperação da pena-base em razão da quantidade de droga apreendida, que foi de 202,5kg (duzentos e dois quilos e cinco gramas) de maconha, e que a causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006 foi indevidamente afastada, configurando bis in idem.
+Sustentou não terem as instâncias ordinárias apontado elementos concretos que demonstrem que o agravante se dedique a atividades criminosas ou que integre organização criminosa.
+No mérito, a defesa requereu a aplicação da causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, com a consequente modificação do regime inicial de cumprimento de pena para o semiaberto. Subsidiariamente, requereu a alteração do regime prisional para o semiaberto, nos termos do art. 33, § 2º, "b", do Código Penal, em razão da condenação ter sido fixada em tempo inferior a 8 anos.
+Neste agravo regimental, a defesa repisou os argumentos deduzidos anteriormente, requerendo, desse modo, a reconsideração da decisão agravada ou a submissão da matéria ao colegiado.
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. NÃO CONHECIMENTO DO WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça é uníssona no sentido de que não cabe a utilização de habeas corpus como sucedâneo de recurso próprio ou de revisão criminal, sob pena de desvirtuamento do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+2. Não se desconhece a orientação presente no art. 647-A, caput e parágrafo único, do Código de Processo Penal, segundo a qual se permite a qualquer autoridade judicial, no âmbito de sua competência jurisdicional e quando verificada a presença de flagrante ilegalidade, a expedição de habeas corpus de ofício em vista de lesão ou ameaça de lesão à liberdade de locomoção. Todavia, não é essa a situação dos autos.
+3. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+O recurso não apresenta argumento capaz de desconstituir os fundamentos que embasaram o entendimento ora impugnado, que deve ser mantido, in verbis (e-STJ fls. 100/101 e 143/146):
+A jurisprudência do Superior Tribunal de Justiça é uníssona no sentido de que não cabe a utilização de habeas corpus como sucedâneo de recurso próprio ou de revisão criminal, sob pena de desvirtuamento do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+Nesse sentido:
+ ..
+Não se desconhece a orientação presente no art. 647-A, caput e parágrafo único, do Código de Processo Penal, segundo a qual se permite a qualquer autoridade judicial, no âmbito de sua competência jurisdicional e quando verificada a presença de flagrante ilegalidade, a expedição de habeas corpus de ofício em vista de lesão ou ameaça de lesão à liberdade de locomoção.
+ ..  ao contrário do que ficou consignado na decisão agravada, constato que a suscitada minorante foi afastada não só pela elevadíssima quantidade de entorpecente apreendida mas também pelo contexto circunstancial analisado pelo magistrado, com apoio no suporte fático-probatório dos autos, que, no caso, mostrou-se apto a demonstrar a dedicação do agravado ao crime, de modo a impedir a concessão da causa redutora legal pleiteada.
+Confira-se, a propósito, o disposto na sentença condenatória mantida, no ponto, pelo Tribunal de origem (e-STJ fl. 28, grifei):
+Não há majorantes. Cabe, nesse momento, analisar a aplicação da minorante prevista no art. 33, § 4º, Lei 11.343/06. Ao contrário do que sustenta a Defesa, é inaplicável a minorante supramencionada, porque, no caso em apreço, o réu, a toda evidência, se dedicava a atividades criminosas .
+Claramente, a ação perpetrada pelo réu, que ficou responsável pelo transporte da droga, que, no destino, seria entregue e disseminada, permite o afastamento da causa da diminuição de pena em apreço, cuja análise está calcada nas provas produzidas nos autos e, também, nos objetivos traçados pelo legislador ao prever a figura privilegiada. No caso em análise, ROBSON admitiu que receberia R$ 6.000,00 como pagamento pelo transporte da encomenda, sustentando que foi contratado, por um indivíduo não identificado, para vir até Foz do Iguaçu/PR, a fim de buscar a droga, que, segundo ele, seria levada até Curitiba/PR, embora, no decorrer da instrução, tenha sido demonstrado que a maconha seria levada até o Estado de Santa Catarina.
+Assim, resta evidente que a função do réu era fundamental, eis que latente prova do contato desta com traficantes, numa verdadeira relação triangulada voltada ao transporte interestadual de entorpecentes - Foz do Iguaçu/PR e Itajaí ou Palhoça, ambos em Santa Catarina -, envolvendo diversos atores , ficando evidenciado, com base nestas circunstâncias e no "modus operandi" desenvolvido, que se dedicava a atividades criminosas. Portanto, não é merecedor da minorante em comento, conforme entendimento do STJ e por mim endossado.
+Conforme devidamente apontado no parecer ministerial, cujas razões passo a adotar, "as circunstâncias concretas do caso, notadamente a vultosa quantidade de droga transportada (mais de 202 quilos de maconha), a origem da substância em região fronteiriça com o Paraguai, o destino interestadual da carga (Santa Catarina) e a natureza altamente organizada da operação, são suficientes e idôneas para demonstrar que o acusado se dedicava de forma habitual à atividade criminosa, fato que, de maneira legítima, obsta a concessão da minorante prevista no §4º do artigo 33 da Lei nº 11.343/2006, a qual se destina exclusivamente a agentes ocasionais, desvinculados de atividades criminosas estruturadas" (e-STJ fl. 122)
+Ademais, é indene a dúvidas que a desconstituição dos fatos adotados pelas instâncias originárias demandaria ampla incursão no acervo fático-probatório dos autos, tarefa para a qual não se presta o habeas corpus.
+À vista do exposto, nego provimento ao agravo regimental.
+É o voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
