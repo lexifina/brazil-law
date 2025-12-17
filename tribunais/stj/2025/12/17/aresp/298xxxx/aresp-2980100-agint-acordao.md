@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/12/2025 a 17/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Afrânio Vilela, Francisco Falcão, Maria Thereza de Assis Moura e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNADOS DE FORMA ESPECÍFICA NENHUM DOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO DO APELO NOBRE. APLICAÇÃO DA SÚMULA N. 182 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. A parte agravante, no agravo em recurso especial, deixou de impugnar de forma específica, os fundamentos da decisão que não admitiu o recurso especial na origem. Incidência da Súmula n. 182 do STJ.
+2. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por RAFAEL GONÇALVES MOTTA contra decisão da Presidência do Superior Tribunal de Justiça, por meio da qual não foi conhecido o respectivo agravo em recurso especial (fls. 761-762).
+Pondera a parte agravante que a impugnação específica foi devidamente realizada, tendo demonstrado a inaplicabilidade da Súmula n. 7 do STJ e a existência de violação do art. 1.022 do CPC (fls. 767-772).
+Foi apresentada resposta ao agravo interno (fl. 783).
+É o relatório.
+EMENTA
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNADOS DE FORMA ESPECÍFICA NENHUM DOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO DO APELO NOBRE. APLICAÇÃO DA SÚMULA N. 182 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. A parte agravante, no agravo em recurso especial, deixou de impugnar de forma específica, os fundamentos da decisão que não admitiu o recurso especial na origem. Incidência da Súmula n. 182 do STJ.
+2. Agravo interno desprovido.
+VOTO
+O TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO não admitiu o apelo nobre com esteio na seguinte fundamentação: (i) ausência de violação dos arts. 489, § 1º e 1.022, parágrafo único, inciso II, do Código de Processo Civil; (ii) incidência do óbice da Súmula n. 7 do STJ. Contudo, a parte agravante, nas razões do agravo em recurso especial, não impugnou, de maneira específica, nenhum dos fundamentos mencionados na decisão agravada.
+Nesse contexto, são aplicáveis à espécie o art. 932, inciso III, do Código de Processo Civil, bem como o óbice da Súmula n. 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". Ilustrativamente:
+ ..
+5. Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC.
+6. Agravo Interno não provido.
+(AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É o voto.
