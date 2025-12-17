@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de GABRIEL VARELLA NEVES DE MORAES SILVA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO - TJRJ no julgamento do Agravo Interno em Habeas Corpus Criminal n. 0078959-43.2024.8.19.0000.
+Extrai-se dos autos que o paciente foi condenado à pena de 6 anos e 8 meses de reclusão, em regime fechado, pela prática do delito tipificado no art. 33, § 1º, II e III, da Lei n. 11.343/06, na forma do art. 69 do Código Penal - CP.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, que não foi conhecido por decisão monocrática de Desembargador. Interposto recurso, o agravo não foi provido, conforme acórdão assim ementado:
+"DIREITO PENAL. DIREITO PROCESSUAL PENAL. "HABEAS CORPUS". AGRAVO INTERNO CONTRA A DECISÃO MONOCRÁTICA QUE JULGOU EXTINTO O "WRIT". PLEITO DE RECONSIDERAÇÃO E JULGAMENTO PELO COLEGIADO. DECISÃO MINUCIOSAMENTE FUNDAMENTADA. A DECISÃO MONOCRÁTICA NÃO VIOLA O PRINCÍPIO DA COLEGIALIDADE. JULGADOS DO STF E DO STJ. ARTIGO 133, XIII, "J", DO REGIMENTO INTERNO DO TJRJ. DESPROVIMENTO DO AGRAVO INTERNO." (fl. 9).
+No presente writ, a defesa sustenta que o acórdão atacado não conheceu do habeas corpus originário sob o entendimento de que os fundamentos apresentados para o relaxamento e a revogação da prisão se confundiriam com os argumentos da apelação interposta contra a sentença.
+Alega que os argumentos indicados no acórdão não são encontrados no writ originário, que se baseia na ilegalidade da prisão em flagrante por violação ao domicílio e na ausência de risco concreto para a manutenção da prisão preventiva.
+Requer, em liminar, que seja determinado que o Tribunal de origem conheça do habeas corpus impetrado pelo paciente e o submeta a julgamento em tempo adequado. No mérito, pretende seja concedida a ordem para determinar que a prisão preventiva do paciente seja relaxada, em razão da ilegalidade da prisão em flagrante, ou, subsidiariamente, que seja revogada por ausência dos requisitos necessários para sua manutenção.
+Pleiteia, ainda, a intimação para sustentação oral (fl. 8).
+O writ foi liminarmente indeferido em razão da deficiência de instrução (fls. 47/49).
+O agravo regimental interposto contra a decisão foi provido para determinar o regular processamento do habeas corpus, ocasião em que o pedido liminar foi indeferido (fls. 107/108).
+As informações foram prestadas (fls. 110/113), e o Ministério Público Federal opinou pelo não conhecimento do writ, mas pela concessão da ordem, de ofício, para determinar que o TJRJ analisasse o mérito do habeas corpus n. 0078959- 43.2024.8.19.0000 lá impetrado (fls. 120/135).
+É o relatório.
+Decido.
+Conforme relatado, busca-se, no presente writ a remessa dos autos ao Tribunal de origem para que julgue a ação mandamental lá impetrada.
+O TJRJ não conheceu do habeas corpus originário com a seguinte fundamentação:
+"O Agravante foi condenado pela prática do crime de tráfico de drogas, com fulcro no art. 33, §1º, III e IV, da Lei de Drogas, à pena de 06 anos e 08 meses de reclusão, nos termos da sentença proferida nos autos do Processo nº 0839402-13.2024.8.19.0001 (fls. 25).
+Por seu turno, apresentou os seguintes fundamentos para o pedido de revogação da prisão, a saber: (i) Ilegitimidade da testemunha; (ii) Ilegalidade da prisão, por suposta violação do domicílio; (iii) Quebra da cadeia de custódia; (iv) Nulidade do laudo pericial, em razão da perícia efetuada por amostragem, em apenas 01 grama do material apreendido; (v) Falta de certeza quanto à natureza e ao potencial alucinógeno do material. Entretanto, verificou-se que as matérias ora aludidas foram decididas na sentença e repisadas nas Razões de Apelação (fls. 45).
+Assim, o Julgamento Monocrático de Extinção do "Habeas Corpus" encontra-se devidamente fundamentado, em consonância com o artigo 93, IX, da CRFB/88, não tendo incorrido em nulidade ou vícios previstos no artigo 648 do CPP.
+É notório que a Decisão Monocrática fundamentou, com clareza e minuciosamente, as razões pelas quais o "Habeas Corpus" merecia ser extinto, sem julgamento do mérito, diante da utilização do remédio constitucional como sucedâneo da Apelação, o que não é cabível (fls. 45/47).
+Ademais, cabe ao Relator negar seguimento ao recurso, quando o pedido for manifestamente inadmissível, improcedente ou prejudicado, de acordo com os artigos 932, III, do CPC, c/c 3º do CPP e 133, XIII, "j", do Regimento Interno do TJRJ.
+No mesmo viés, não se vislumbrou nenhuma ofensa ao Princípio da Colegialidade no Julgamento Monocrático, visto que o pleito é manifestamente improcedente." (fl. 11)
+De início, cumpre ressaltar que o entendimento esposado pela Corte estadual não diverge da jurisprudência deste Tribunal Superior, no sentido de que " o  recurso de apelação, já interposto na origem, parece ser a via mais adequada para o exame da insurgência defensiva, mormente por se tratar de meio de impugnação dotado de amplo efeito devolutivo, com abrangência cognitiva muito mais ampla, se comparada com a estreita via do habeas corpus, na qual é incabível amplo revolvimento fático probatório - possível, porém, na via recursal já manejada pela Defesa" (AgRg no HC n. 856.189/SP, relatora Ministra LAURITA VAZ, SEXTA TURMA, DJe de 20/10/2023).
+Ademais, em consulta à página eletrônica do Tribunal de origem, verificou-se que em sessão realizada no dia 13/5/2025, foi negado provimento à apelação interposta pela defesa, ocasião em que foram afastadas as nulidades alegadas, tornando portanto, prejudicado o pedido de remessa dos autos ao TJRJ para que analisasse o mérito do habeas corpus impetrado.
+Nesse contexto, não há como negar a perda superveniente do objeto do presente mandamus.
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
