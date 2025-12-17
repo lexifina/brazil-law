@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/12/2025 a 17/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Carlos Pires Brandão, Og Fernandes, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSO PENAL. ROUBO. EXTORSÃO. TORTURA. NULIDADE. RECONHECIMENTO DE PESSOAS. FORMALIDADES DO ART. 226 DO CPP. CONDENAÇÃO TRANSITADA EM JULGADO. SUBSTITUTIVO DE REVISÃO CRIMINAL. AUSÊNCIA DE ILEGALIDADE MANIFESTA. RECURSO DESPROVIDO.
+1. O Superior Tribunal de Justiça, em diversas ocasiões, já decidiu que não se deve conhecer do "writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (HC n. 730.555/SC, relator Ministro Olindo Menezes, Desembargador convocado do TRF 1ª Região, Sexta Turma, julgado em 9/8/2022, DJe de 15/8/2022).
+2. No caso, conforme ressaltado pela defesa na petição inicial, a condenação do réu transitou em julgado, de maneira que não se pode conhecer do habeas corpus que pretende a desconstituição do acórdão proferido pela Corte local, notadamente quando não se verifica flagrante ilegalidade apta a autorizar a concessão da ordem, ainda que de ofício.
+3. Agravo regimental desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto em favor de MICHEL DE SOUZA RIBEIRO contra a decisão de e-STJ fls. 93/97, por meio da qual indeferi liminarmente a impetração.
+Depreende-se dos autos que ora agravante foi condenado à pena total de 26 anos e 1 mês de reclusão, em regime inicial fechado, pela prática dos delitos previstos no art. 157 § 2º, II e V, § 2º-A, I, por duas vezes; art. 158, § 3º, ambos do Código Penal; e art. 1º, I, a e b, e § 4º, III, da Lei n. 9.455/1997, c/c o art. 69 do Código Penal.
+Irresignada, a defesa interpôs apelação perante o Tribunal de origem, que negou provimento ao recurso, nos termos do acórdão de e-STJ fls. 21/41.
+Neste writ, alegou nulidade do reconhecimento fotográfico e violação ao art. 155 do Código de Processo Penal, sustentando que o reconhecimento realizado na fase policial não observou o procedimento previsto no art. 226 do CPP e que a condenação estaria lastreada em elemento informativo do inquérito não corroborado por prova judicializada autônoma e válida.
+Requereu, liminarmente, a suspensão dos efeitos da condenação e a expedição de alvará de soltura. No mérito, pleiteou a declaração da nulidade apontada, com a absolvição do acusado.
+Nas razões do presente agravo, repisa a defesa os argumentos já trazidos na petição inicial, sustenta a ocorrência de flagrante ilegalidade e acrescenta que a impetração não se traduz em reiteração do Habeas Corpus n. 794.918/RJ.
+Requer a reconsideração da decisão ou o seu enfrentamento pelo colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSO PENAL. ROUBO. EXTORSÃO. TORTURA. NULIDADE. RECONHECIMENTO DE PESSOAS. FORMALIDADES DO ART. 226 DO CPP. CONDENAÇÃO TRANSITADA EM JULGADO. SUBSTITUTIVO DE REVISÃO CRIMINAL. AUSÊNCIA DE ILEGALIDADE MANIFESTA. RECURSO DESPROVIDO.
+1. O Superior Tribunal de Justiça, em diversas ocasiões, já decidiu que não se deve conhecer do "writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (HC n. 730.555/SC, relator Ministro Olindo Menezes, Desembargador convocado do TRF 1ª Região, Sexta Turma, julgado em 9/8/2022, DJe de 15/8/2022).
+2. No caso, conforme ressaltado pela defesa na petição inicial, a condenação do réu transitou em julgado, de maneira que não se pode conhecer do habeas corpus que pretende a desconstituição do acórdão proferido pela Corte local, notadamente quando não se verifica flagrante ilegalidade apta a autorizar a concessão da ordem, ainda que de ofício.
+3. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+A despeito dos argumentos apresentados pelo agravante, não vislumbro motivos para alterar a decisão ora impugnada, a qual deve ser integralmente mantida.
+Conforme ressaltado pela defesa na petição inicial, a condenação do réu transitou em julgado (e-STJ fl. 3).
+Nesse contexto, não se pode olvidar que o Superior Tribunal de Justiça, de longa data, vem buscando fixar balizas para a racionalização do uso do habeas corpus, visando a garantia não apenas do curso natural das ações ou revisões criminais mas também da efetiva priorização do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+Quanto à impossibilidade de impetração de habeas corpus em substituição à revisão criminal, quando já transitada em julgado a condenação do réu, esta Corte, em diversas ocasiões, já decidiu que não se deve conhecer do "writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (HC n. 730.555/SC, relator Ministro Olindo Menezes, Desembargador Convocado do TRF 1ª Região, Sexta Turma, julgado em 9/8/2022, DJe de 15/8/2022).
+Nesse mesmo sentido, os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO DUPLAMENTE MAJORADO TENTADO. INSURGÊNCIA CONTRA ACÓRDÃO TRANSITADO EM JULGADO. MANEJO DO WRIT COMO REVISÃO CRIMINAL. DESCABIMENTO. ILEGALIDADE FLAGRANTE NÃO DEMONSTRADA. REPRIMENDA INFERIOR A QUATRO ANOS. PENA-BASE FIXADA NO MÍNIMO LEGAL. REGIME MAIS GRAVOSO. POSSIBILIDADE. GRAVIDADE CONCRETA DA CONDUTA EVIDENCIADA. REFORMATIO IN PEJUS. NÃO OCORRÊNCIA. EFEITO DEVOLUTIVO AMPLO DO RECURSO DE APELAÇÃO. BIS IN IDEM. SUPRESSÃO DE INSTÂNCIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não deve ser conhecido o writ que se volta contra acórdão já transitada em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Precedentes da Quinta e Sexta Turmas do Superior Tribunal de Justiça.
+ ..
+6. Agravo regimental desprovido.
+(AgRg no HC n. 751.156/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 9/8/2022, DJe de 18/8/2022, grifei.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. TRÁFICO DE DROGAS. ACÓRDÃO TRANSITADO EM JULGADO. DOSIMETRIA. SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. INADMISSIBILIDADE. AUMENTO DA PENA-BASE. ELEVADA QUANTIDADE DE DROGAS. PROPORCIONALIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+Agravo regimental não conhecido.
+(AgRg no HC n. 751.137/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 2/8/2022, DJe de 4/8/2022, grifei.)
+De toda forma, não se vislumbra ilegalidade flagrante apta a ser sanada na presente via, ainda que mediante a eventual concessão da ordem de ofício, porquanto é pacífico nesta Corte que, havendo outras provas independentes e aptas a atestar a autoria e a materialidade delitivas, a anulação do reconhecimento realizado em solo policial não importaria no trancamento do feito ou na absolvição do agente.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME DE ROUBO MAJORADO. PROVA DE AUTORIA. RECONHECIMENTO FOTOGRÁFICO. NULIDADE. AUTORIA CORROBORADA POR OUTRAS PROVAS COLHIDAS EM JUÍZO. RECONHECIMENTO DA VÍTIMA E PROVA TESTEMUNHAL. DOSIMETRIA DA PENA. MATÉRIA NÃO EXAMINADA NA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Como é de conhecimento, a Sexta Turma desta Corte Superior, no julgamento do HC 598.886 (Rel. Min. Rogério Schietti Cruz, DJe de 18/12/2020, propôs nova interpretação do art. 226 do CPP, estabelecendo que: "O reconhecimento de pessoa, presencialmente ou por fotografia, realizado na fase do inquérito policial, apenas é apto, para identificar o réu e fixar a autoria delitiva, quando observadas as formalidades previstas no art. 226 do Código de Processo Penal e quando corroborado por outras provas colhidas na fase judicial, sob o crivo do contraditório e da ampla defesa". Tal entendimento foi acolhido pela Quinta Turma desta Corte, no julgamento do Habeas Corpus n. 652.284/SC, de minha relatoria, em sessão de julgamento realizada no dia 27/4/2021.
+2. Na hipótese dos autos, a autoria delitiva referente ao crime de roubo não teve como único elemento de prova o reconhecimento fotográfico feito pela vítima, o qual foi ratificado em juízo, com riqueza de detalhes, mas, também, o depoimento testemunhal, o que gera distinguishing com relação ao precedente supramencionado.
+ ..
+5. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 717.803/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/8/2022, DJe de 16/8/2022.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ROUBO. RECONHECIMENTO DE PESSOAS. OUTRAS PROVAS SUFICIENTES PARA A CONDENAÇÃO. PENA-BASE. CIRCUNSTÂNCIAS DO CRIME. EXASPERAÇÃO. MOTIVO IDÔNEO. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+4. No caso, a despeito da discussão sobre a validade dos reconhecimentos, há diversas outras provas da autoria. Deveras, a leitura da sentença e do acórdão indica que outros elementos foram considerados, como, por exemplo: a) a prisão do recorrente em flagrante delito logo depois do crime; b) a recuperação dos objetos subtraídos; c) descrição oferecida pela vítima compatível com as características do recorrente.
+ ..
+7. Agravo regimental não provido.
+(AgRg no REsp n. 2.082.752/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 21/5/2025, DJEN de 26/5/2025.)
+Na mesma linha de intelecção, o seguinte julgado da Suprema Corte:
+AGRAVO REGIMENTAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. ROUBO E CORRUPÇÃO DE MENORES. RECONHECIMENTO FOTOGRÁFICO REFORÇADO POR OUTROS ELEMENTOS DE PROVA PRODUZIDOS NO DECORRER DA INSTRUÇÃO CRIMINAL. AUSÊNCIA DE JULGAMENTO DA QUESTÃO RELACIONADA AO REGIME INICIAL FIXADO NA SENTENÇA CONDENATÓRIA PELA QUINTA TURMA DO SUPERIOR TRIBUNAL DE JUSTIÇA. SUPRESSÃO DE INSTÂNCIA. AGRAVO AO QUAL SE NEGA PROVIMENTO.
+ ..  O Plenário do Supremo Tribunal Federal fixou entendimento no sentido de que é admissível " ..  a valoração do reconhecimento fotográfico, mesmo quando realizado sem integral observância às formalidades previstas no art. 226 do Código de Processo Penal, desde que as suas conclusões sejam suportadas por outros elementos de prova produzidos no decorrer da instrução criminal" (AP 1.032/DF, Relator o Ministro Edson Fachin e Revisor o Ministro Alexandre de Moraes, Tribunal Pleno, DJe 24/5/2022). 4. No caso, consta do inteiro teor do acórdão impugnado que " ..  não é possível desconsiderar as particularidades do caso concreto, em especial as seguras declarações da vítima, tanto em sede inquisitorial quanto em juízo, além dos demais elementos probatórios válidos e autônomos colhidos sob o crivo do contraditório e da ampla defesa"  ..
+(RHC 255898 AgR, Relator(a): CRISTIANO ZANIN, Primeira Turma, julgado em 10-06-2025, PROCESSO ELETRÔNICO DJe-s/n DIVULG 10-6-2025 PUBLIC 11-6-2025.)
+Vale dizer, poderá o magistrado "se convencer da autoria delitiva com base no exame de outras provas que não guardem relação de causa e efeito com o ato viciado de reconhecimento" (REsp n. 1.953.602/SP, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, julgado em 11/6/2025, DJEN de 30/6/2025).
+No caso, o Tribunal de origem consignou que "o reconhecimento do investigado realizado pela vítima por meio de fotografia não serve exclusivamente como fundamento para o decreto condenatório. Todavia, é perfeitamente válido quando conjugado com outros elementos probatórios que instruem o feito, como no caso em análise. Ao contrário do que alega a Defesa, existem outras provas válidas e independentes nos autos" (e-STJ fl. 28).
+Digno de nota, ainda, que as matérias deduzidas no presente writ já foram objeto de anterior impetração em favor do ora agravante e contra o mesmo acórdão, qual seja, o HC n. 794.918/RJ, indeferido liminarmente pela Presidência deste Tribunal, em decisão confirmada pela Sexta Turma no julgamento do agravo regimental, em sessão virtual de 15/8/2023 a 21/8/2023, sobrevindo o trânsito em julgado na data de 12/9/2023.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
