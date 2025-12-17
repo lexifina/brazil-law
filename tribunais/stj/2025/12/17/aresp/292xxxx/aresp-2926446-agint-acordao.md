@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/12/2025 a 17/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Afrânio Vilela, Francisco Falcão, Maria Thereza de Assis Moura e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. COISA JULGADA. DISPOSITIVO LEGAL TIDO POR VIOLADO. AUSÊNCIA DE COMANDO NORMATIVO SUFICIENTE PARA REFORMAR O ACÓRDÃO RECORRIDO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA N. 284 DO STF. AGRAVO INTERNO DESPROVIDO.
+1. O dispositivo legal tido por violado nas razões do recurso especial, que embasa o pedido de revisão de benefício previdenciário, não contem comando normativo suficiente para infirmar a fundamentação do acórdão recorrido concernente à ocorrência de coisa julgada, o que faz incidir na espécie a Súmula n. 284 do STF.
+2. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por WANDERLEY LUIZ GONZAGA DE MELLO contra decisão de minha relatoria, assim ementada (fl. 209):
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. COISA JULGADA. DISPOSITIVO LEGAL TIDO POR VIOLADO. AUSÊNCIA DE COMANDO NORMATIVO SUFICIENTE PARA REFORMAR O ACÓRDÃO RECORRIDO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA N. 284 DO STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+O agravante alega a inaplicabilidade da Súmula n. 284 do STF ao caso, assinalando que, ao contrário do que foi afirmado na decisão agravada, a norma invocada (art. 4º da Lei n. 6.950/1981), "possui densidade normativa clara e diretamente aplicável à controvérsia, sendo apta a amparar a tese recursal" (fl. 242).
+Destaca, ainda, que (fl. 242):
+Da sua fundamentação extrai-se, em primeiro lugar, o reconhecimento de que, a partir de março de 1989, o critério aplicável ao cálculo previdenciário passa a ser o Piso Nacional de Salários.
+Em segundo lugar, constata-se que nem o título executivo nem a decisão colegiada estabeleceram de forma expressa a adoção do salário-mínimo de referência ou do piso nacional, limitando-se a remeter à legislação vigente à época.
+Em terceiro lugar, verifica-se que a Lei 6.950/81 e o Decreto 89.312/84 não fazem qualquer menção ao salário-mínimo de referência, mas determinam que o limite contributivo seja fixado em até vinte vezes o maior salário-mínimo vigente no País.
+ ..
+Portanto, não há que se falar em deficiência de fundamentação. O recurso especial não apenas apontou dispositivo legal com conteúdo normativo suficiente, mas também demonstrou, à luz das próprias premissas jurídicas reconhecidas no acórdão recorrido, que o art. 4º da Lei 6.950/81 impõe a adoção do Piso Nacional de Salários como parâmetro de cálculo.
+Requer, ao final, o provimento do presente recurso afastando-se incidência da Súmula n. 284/STF, e, consequentemente, o provimento do recurso especial para que seja reconhecida a obrigatoriedade de aplicação do Piso Nacional de salários como base de cálculo da renda mensal inicial, em conformidade com o disposto no art. 4º da Lei n. 6.950/1981.
+Não foi apresentada resposta ao agravo interno.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. COISA JULGADA. DISPOSITIVO LEGAL TIDO POR VIOLADO. AUSÊNCIA DE COMANDO NORMATIVO SUFICIENTE PARA REFORMAR O ACÓRDÃO RECORRIDO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA N. 284 DO STF. AGRAVO INTERNO DESPROVIDO.
+1. O dispositivo legal tido por violado nas razões do recurso especial, que embasa o pedido de revisão de benefício previdenciário, não contem comando normativo suficiente para infirmar a fundamentação do acórdão recorrido concernente à ocorrência de coisa julgada, o que faz incidir na espécie a Súmula n. 284 do STF.
+2. Agravo interno desprovido.
+VOTO
+A pretensão recursal não prospera.
+A parte recorrente, nas razões do apelo nobre, alegou ofensa ao art. 4º da Lei n. 6.950/1991, aduzindo, com base em tal preceito, que "deve ser usado o salário-mínimo de referência ou o piso nacional de salários para efeito de cálculo da renda mensal inicial de benefício previdenciário com data de início posterior a março de 1989" (fl. 161).
+Registro que, nos autos de agravo de instrumento interposto pelo ora agravante - requerendo que fosse considerado o Piso Nacional de Salários para a fixação do teto a ser aplicado na renda mensal inicial -, o Tribunal a quo manifestou-se nos seguintes termos (fls. 114-119; sem grifos no original):
+O título executivo judicial reconheceu à parte autora o direito ao melhor benefício, para retroagir a DIB a 06/89, levando em consideração, no momento do cálculo da RMI, o teto máximo correspondente a 20 salários mínimos.
+Embora o eg. Superior Tribunal de Justiça já tenha decidido pela aplicação do Piso Nacional de Salários a partir de 1989 até o advento da Lei nº 8.213/91, o título judicial exequendo, no caso concreto, não respalda a pretensão da parte autora.
+ ..
+Como bem ressaltou o Juízo a quo na decisão agravada:
+Cabe ressaltar que a parte autora requereu, na petição inicial, a revisão do seu beneficio, a fim de que a renda mensal inicial fosse calculada retroativamente, na forma da legislação vigente na data em que implementou as condições para obter o benefício de aposentadoria proporcional (Lei 6.950/81 e Dec. 89.312/84), considerando-se o teto máximo de 20 salários mínimos para o salário de contribuição, implantando as diferenças na renda mensal atual, na hipótese de ser mais vantajoso para a parte autora.
+O referido pedido foi julgado procedente na sentença de fls. 48/54, que foi confirmada em parte pelo acórdão de fls. 98/108.
+Já na petição de fls. 123/124 a parte autora requereu que fosse considerado, no cálculo, um teto diverso do previsto na Lei 6.950/81 e no Decreto 89.312/84, o que é incompatível com o pedido formulado na petição inicial e com o que foi acolhido na sentença de fls. 48/54 e no acórdão de fls. 98/108.
+Verifica-se, portanto, que a decisão de fls. 147/149 foi visivelmente equivocada, pois ela determinou a utilização de um sistema híbrido, na forma requerida pela parte autora às fls. 123/124, mas o referido sistema foi expressamente vedado no acórdão de fls. 98/108 (fls. 103, último parágrafo).
+Portanto, em homenagem à coisa julgada (arts. 502 e 509, § 4º, CPC/2015; arts. 467 e 476-G, CPC/1973), o título judicial exequendo não respalda a pretensão da parte autora/agravante.
+Como se percebe, a Corte Regional, com fundamento nos arts. 502 e 509, § 4º, ambos do CPC/2015, deixou assente que a pretensão do recorrente de revisão de benefício previdenciário não encontra respaldo no título judicial exequendo, negando, assim, provimento ao agravo de instrumento, em homenagem à coisa julgada.
+Ocorre que, consoante assinalado na decisão agravada, o artigo indicado como violado nas razões do apelo nobre, que embasa o pedido de revisão de benefício previdenciário (art. 4º da Lei n. 6.950/1991) não contem comando normativo suficiente para infirmar a fundamentação do acórdão recorrido concernente à ocorrência de coisa julgada.
+Assim, deve ser mantida a aplicação da Súmula n. 284 do STF à espécie ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+Com efeito, conforme a jurisprudência desta Corte, "quando o conteúdo do dispositivo legal invocado no especial não possui comando normativo suficiente à impugnação dos fundamentos do aresto recorrido, há deficiência de fundamentação, incidindo in casu a Súmula n. 284 do STF" (AgInt no REsp n. 2.012.478/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 3/4/2023, DJe de 11/4/2023).
+No mesmo sentido:
+ ..  1. Os dispositivos legais apontados como violados não possuem comando normativo capaz de infirmar os fundamentos do acórdão recorrido e não trazem qualquer referência que possa amparar a tese recursal, fazendo incidir a Súmula 284/STF: "É inadmissível o Recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".  .. . 6. Agravo interno conhecido e desprovido. (AgInt no AREsp n. 2.194.174/GO, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 26/2/2024, DJe de 29/2/2024.)
+ ..  3. Incide o Enunciado 284 do STF, por deficiência na fundamentação do recurso especial, visto que o art. 20, § 4º, do CPC/1973, tido por violado, não contém comando normativo capaz de alterar a conclusão do aresto quanto à imutabilidade da coisa julgada. 4. Embargos de declaração acolhidos, com efeitos infringentes para, afastada a incidência da Súmula 182 do STJ, conhecer do agravo interno e negar-lhe provimento. (EDcl no AgInt nos EDcl no REsp n. 1.578.900/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 11/11/2019, DJe de 28/11/2019.)
+ ..  1. O art. 86 da Lei n. 8.213/1991 não contém comando normativo apto a infirmar a fundamentação do acórdão recorrido concernente à impossibilidade de reformatio in pejus e à ocorrência de preclusão. Desse modo, incide na espécie a Súmula n. 284 do STF.  .. . 3 . Agravo interno desprovido. (AgInt no REsp n. 2.103.258/SP, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 13/5/2024, DJe de 21/5/2024.)
+ ..  2. É deficiente a argumentação do recurso especial que se sustenta em dispositivo de lei que não contém comando normativo capaz de infirmar os fundamentos do acórdão recorrido. Incidência da Súmula n. 284 do STF.  ..  4. Agravo interno a que se nega provimento. (AgInt no REsp n. 2.033.259/PR, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 26/2/2024, DJe de 29/2/2024.)
+Ante o exposto, NEGO PROVIMENTO ao agravo i nterno.
+É como voto.
