@@ -1,0 +1,77 @@
+DECISÃO: Trata-se de recurso extraordinário, com base no art. 102, III, “a”, da Constituição Federal, apresentado pelo Distrito Federal, em face do acórdão do Tribunal de Justiça do Distrito Federal e Territórios, assim ementado:
+
+    “AGRAVO DE INSTRUMENTO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. IMPUGNAÇÃO. AÇÃO RESCISÓRIA EM ANDAMENTO. CONDICIONAMENTO DE PAGAMENTO AO TRÂNSITO DA AÇÃO RESCISÓRIA. DESCABIMENTO. AGRAVO DE INSTRUMENTO CONHECIDO E PROVIDO. 1. O Código de Processo Civil estabelece que “a propositura da ação rescisória não impede o cumprimento da decisão rescindenda, ressalvada a concessão de tutela provisória” (art. 969). 2. No caso, o pedido de tutela provisória para fins de suspensão de execuções foi indeferido pelo relator da ação rescisória em 07/06/2024, juiz natural para decidir a matéria. 3. O juiz da execução não pode condicionar a expedição ou levantamento de precatório ao trânsito em julgado da ação rescisória, posto que a competência para tanto, com fundamento na existência de ação rescisória em curso, é exclusiva do órgão responsável por apreciar aquela ação. 4. Na origem, trata-se de decisão que acolheu parcialmente impugnação ao cumprimento de sentença. O recurso cabível é o agravo de instrumento, o qual é despojado de efeito suspensivo, salvo em caso de pedido e concessão pelo respectivo relator. 5.Ao condicionar o prosseguimento do processo forçado à preclusão, o juízo antecipou-se ao relator de eventual recurso a ser interposto pela parte e já conferiu, de ofício, efeito suspensivo. Cuida-se do exercício indevido de competência própria da instância revisora e, ainda que o juízo entenda pela existência do risco de dano, não lhe compete se pronunciar.
+
+    6. AGRAVO DE INSTRUMENTO CONHECIDO E PROVIDO.” (Agravo de Instrumento 0738784-96.2024.8.07.0000, relator: des. Luís Gustavo B. de Oliveira, 3ª Turma Cível do TJDFT, j. 07.02.2025)
+
+    Na minuta, sustenta-se violação dos arts. 100, §§3º e 5º da Constituição da República, bem como contrariedade aos Temas 28 e 864 da Repercussão Geral.  Argumenta que o decisum recorrido, “a despeito da ausência de trânsito em julgado da impugnação ao cumprimento de sentença, determinou o levantamento de valores, o que pode gerar prejuízo irreparável ao DF”. Aduz, ainda, a inexistência de valores incontroversos, o que impossibilitaria a expedição de requisitório, à luz do tema 28 da Repercussão Geral.
+
+    É o relatório.
+
+    Decido.
+
+    O recurso não comporta provimento.
+
+    Da análise dos autos, verifica-se a deficiência na fundamentação preliminar da repercussão geral. Não basta a simples afirmação genérica de que o tema possui repercussão geral ou a indicação de tema ou precedente desta Suprema Corte; faz-se necessária a fundamentação adequada que supra as exigências do disposto nos artigos 1.035, §§ 1º e 2º, do Código de Processo Civil e 327, § 1º, do Regimento Interno do STF.
+
+    Na presente hipótese, a parte recorrente não demonstrou a existência de questões relevantes do ponto de vista econômico, político, social ou jurídico que ultrapassem os interesses subjetivos do processo.
+
+    A jurisprudência desta Corte é firme no sentido de que deficiência de fundamentação da preliminar acarreta a inadmissibilidade do recurso extraordinário, mesmo nos casos de repercussão geral presumida ou reconhecida em outro processo. Nesse sentido: ARE 834.512-AgR, Rel. Min. Luiz Fux, 1ª Turma, DJe 27.4.2016; ARE 820.902-AgR, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 28.8.2014; ARE 663.637-AgR-QO, Rel. Min. Ayres Britto, Pleno, DJe, 06.5.2013; RE 930.889-AgR, Rel. Min. Edson Fachin, 2ª Turma, DJe 02.5.2017; e RE 1.298.416-AgR, Rel. Min. Alexandre de Moraes, 1ª Turma, DJe 19.3.2021, cuja ementa transcrevo:
+
+    “AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO A RESPEITO DA REPERCUSSÃO GERAL. INSUFICIÊNCIA. REAPRECIAÇÃO DE PROVAS. INADMISSIBILIDADE. SÚMULA 279 DO STF. 1. Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral, que demonstre, perante o Supremo Tribunal Federal, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares. 2. A obrigação do recorrente em apresentar formal e motivadamente a preliminar de repercussão geral, que demonstre sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional e legal (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do CPC/2015), não se confunde com meras invocações desacompanhadas de sólidos fundamentos no sentido de que o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico, ou que não interessa única e simplesmente às partes envolvidas na lide, muito menos ainda divagações de que a jurisprudência do Supremo Tribunal Federal é incontroversa no tocante à causa debatida, entre outras de igual patamar argumentativo. 3. A reversão do acórdão passa necessariamente pela revisão das provas constantes dos autos. Incide, portanto, o óbice da Súmula 279 (Para simples reexame de prova não cabe recurso extraordinário) desta Corte. 4. Agravo Interno a que se nega provimento. Na forma do art. 1.021, §§ 4º e 5º, do Código de Processo Civil de 2015, em caso de votação unânime, fica condenado o agravante a pagar ao agravado multa de um por cento do valor atualizado da causa, cujo depósito prévio passa a ser condição para a interposição de qualquer outro recurso (à exceção da Fazenda Pública e do beneficiário de gratuidade da justiça, que farão o pagamento ao final)”.
+
+    Todavia, ainda que superado o óbice, o recurso não prospera. Colhe-se do acórdão recorrido o seguinte:
+
+    “O Código de Processo Civil estabelece que “a propositura da ação rescisória não impede o cumprimento da decisão rescindenda, ressalvada a concessão de tutela provisória” (art. 969).
+
+    No caso, por ocasião do ajuizamento da ação rescisória (PJE 0723087-35.2024.8.07.0000) houve pedido de tutela provisória para fins de suspensão da eficácia do acórdão rescindendo, de sorte a impedir o ajuizamento de ações de liquidação individual e cumprimentos de sentença e de se suspender as liquidações ou cumprimentos que já tenham sido ajuizados – até o trânsito em julgado da rescisória.
+
+    O pedido de tutela provisória foi indeferido pelo relator da ação rescisória em 07/06/2024, juiz natural para decidir a matéria, consoante se verifica dos respectivos autos de n. 0723087-35.2024.8.07.0000, ID 60036123:
+
+    [...]
+
+    Ao condicionar a expedição ou levantamento de precatório ao trânsito em julgado da ação rescisória, o juiz da execução acabou por conceder, por via transversa, o efeito suspensivo que fora negado na decisão acima transcrita.
+
+    Ocorre que o citado artigo 969 do CPC é claro no sentido de que a competência para suspender a execução do julgado, com fundamento na existência de ação rescisória em curso, é exclusiva do órgão responsável por apreciar aquela ação.”
+
+    [...]
+
+    Ademais, o Código de Processo Civil adotou sistemática recursal de que, em regra, os recursos não são dotados de efeito suspensivo, salvo as exceções que enumera.
+
+    Na origem, trata-se de decisão que decidiu impugnação ao cumprimento de sentença. O recurso cabível é o agravo de instrumento, o qual é despojado de efeito suspensivo, salvo em caso de pedido e concessão pelo respectivo relator.
+
+    Lado outro, para sobrestar a eficácia da decisão, é imprescindível que o relator reconheça a plausibilidade do direito (probabilidade de provimento do recurso) e risco de dano grave, de difícil ou impossível reparação.
+
+    Ao condicionar o prosseguimento do processo forçado à preclusão, o juízo antecipou-se ao relator de eventual recurso a ser interposto pela parte e já conferiu, de ofício, efeito suspensivo.”
+
+    Constata-se que o recorrente traz, em seu recurso, matéria diversa daquela tratada no acórdão recorrido, de modo que não restou impugnado, de forma específica, o assentado pelo Tribunal de origem, qual seja: “a mera propositura de ação rescisória não enseja a suspensão do trâmite da ação originária”.
+
+    Os argumentos trazidos no recurso extraordinário, portanto, não constam do acórdão impugnado, o que impede a exata compreensão da controvérsia, de modo que incide à espécie, neste ponto, o teor da Súmula n° 284 do Supremo Tribunal Federal. Nesse sentido:
+
+    “Direito Tributário. Agravo interno em recurso extraordinário com agravo. Tributos retidos na fonte. Reconhecimento de prévio recolhimento pelo contribuinte. Alegação de competência do Município. Súmulas 279 e 284/STF. I. Caso em exame 1. Agravo interno contra decisão que negou seguimento a recurso extraordinário com agravo, o qual tem por objeto acórdão que deu provimento a recurso do contribuinte. II. Questão em discussão 2. Preenchimento dos pressupostos de admissibilidade do recurso extraordinário com agravo. III. Razão de decidir 3. A petição de agravo não trouxe novos argumentos aptos a desconstituir a decisão agravada, a qual deve ser mantida pelos seus próprios fundamentos. 4. Para dissentir do entendimento firmado pelo Tribunal de origem, seria necessário reexaminar os fatos e as provas constantes dos autos, procedimento vedado neste momento processual (Súmula 279/STF). 5. Recurso que apresenta razões dissociadas do acórdão recorrido (Súmula 284/STF). IV. Dispositivo [...] 7. Agravo interno a que se nega provimento” (ARE n. 1.554.506-AgR, Rel. Min. Luís Roberto Barroso, Plenário, DJe 2.9.2025)
+
+    “Agravo regimental no recurso extraordinário com agravo. Direito do Consumidor e Processual Civil. Plano de Saúde. Prequestionamento. Ausência. Violação dos princípios da legalidade, do contraditório, da ampla defesa e do devido processo legal. Repercussão geral. Inexistência. Agravo. Razões dissociadas do acórdão recorrido. Inadmissibilidade. Precedentes. [...] 2. Ausência de repercussão geral do tema relativo à suposta violação dos princípios da legalidade, do contraditório e da ampla defesa e do devido processo legal (ARE nº 748.371/MT, Relator o Ministro Gilmar Mendes, Tema 660, DJe de 1º/8/13). 3. É inadmissível o recurso quando as razões nele expostas estão dissociadas dos fundamentos adotados no acórdão recorrido. Orientação da Súmula nº 284/STF.4. Agravo regimental não provido, com imposição multa de 2% (dois por cento) do valor atualizado da causa. [...].” (ARE n. 1.068.209-AgR, Rel. Min. Dias Toffoli, Segunda Turma, DJe 6.11.2017)
+
+    Ademais, no que toca à alegada violação ao Tema 28 da repercussão geral (Surge constitucional expedição de precatório ou requisição de pequeno valor para pagamento da parte incontroversa e autônoma do pronunciamento judicial transitada em julgado observada a importância total executada para efeitos de dimensionamento como obrigação de pequeno valor), destaco que o título judicial já transitou em julgado.
+
+    Nessa senda, analisar se há, ou não, valor incontroverso nos autos, como pretende o recorrente, demandaria o incursionamento no contexto fático-probatório, o que atrai o óbice da Súmula 279/STF. Nesse sentido:
+
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. EMBARGOS À EXECUÇÃO CONTRA A FAZENDA PÚBLICA. DISCUSSÃO RELATIVA À EXISTÊNCIA DE VALORES INCONTROVERSOS. REEXAME DE FATOS E PROVAS. INVIABILIDADE. SÚMULA 279/STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.” (ARE 866499 AgR, Relator(a): TEORI ZAVASCKI, Segunda Turma, DJe 22-06-2015)
+
+    “Direito processual civil. Agravo interno em recurso extraordinário com agravo. Embargos à execução. Valor incontroverso. Necessidade de reexame do conjunto fático-probatório. Súmula 279/STF. Matéria infraconstitucional. Incidência do Tema nº 660 da repercussão geral. 1. Agravo interno contra decisão que negou seguimento a recurso extraordinário com agravo, o qual tem por objeto acórdão que negou provimento a agravo de instrumento. 2. O Supremo Tribunal Federal já decidiu que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões (AI 791.292-QO-RG, Rel. Min. Gilmar Mendes). 3. O Plenário desta Corte afastou a existência de repercussão geral da controvérsia relativa à suposta violação ao art. 5º, II, XXXV, XXXVI, LIV e LV, da CF, quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais (ARE 748.371-RG - Tema nº 660). 4. Hipótese em que, para dissentir do entendimento firmado pelo Tribunal de origem, seria necessário analisar a legislação infraconstitucional aplicada ao caso, assim como reexaminar fatos e provas constantes dos autos, procedimentos vedados neste momento processual (Súmulas 279/STF). [...] 6. Agravo interno a que se nega provimento, com a aplicação da multa de 1% (um por cento) sobre o valor atualizado da causa, nos termos do art. 1.021, § 4°, do CPC/2015.” (ARE 1473623 AgR, Relator(a): LUÍS ROBERTO BARROSO (Presidente), Tribunal Pleno, DJe 19-03-2024)
+
+    Por fim, quanto à alegação de violação ao Tema 864-RG, em que se firmou a seguinte tese: “A revisão geral anual da remuneração dos servidores públicos depende, cumulativamente, de dotação na Lei Orçamentária Anual e de previsão na Lei de Diretrizes Orçamentárias”, constata-se que tal precedente não se amolda ao caso em tela, porquanto não se trata de revisão anual dos servidores, mas de recebimento de valores retroativos relativos à terceira parcela do reajuste previsto na Lei Distrital n° 5.184/2013.
+
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego conhecimento ao recurso.
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 17 de dezembro de 2025.
+
+Ministro FLÁVIO DINO
+
+Relator
+
+Documento assinado digitalmente
