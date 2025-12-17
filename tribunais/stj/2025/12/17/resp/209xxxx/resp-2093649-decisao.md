@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto por ARTUR MESQUITA DE LIMA, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS assim ementado (fl. 548):
+REMESSA NECESSÁRIA CONHECIDA DE OFICIO - APELAÇÕES - SERVIDOR PÚBLICO DO MUNICÍPIO DE TRÊS PONTAS - DENTISTA - PRETENSÃO DE CONCESSÃO DE APOSENTADORIA ESPECIAL .- AUSÊNCIA DE REGULAMENTAÇÃO NO ÂMBITO DO REGIME PREVIDENCIÁRIO PRÓPRIO LOCAL - APLICAÇÃO SUBSIDIÁRIA DAS NORMAS ATINENTES AO REGIME GERAL DA PREVIDÊNCIA SOCIAL - SÚMULA VINCULANTE N. 33 LEI N. 8.213/1991 - NECESSIDADE DE COMPROVAÇÃO DO TEMPO DE TRABALHO PERMANENTE, EM CONDIÇÕES ESPECIAIS QUE PREJUDIQUEM A SAÚDE OU A INTEGRIDADE FÍSICA, DURANTE TODO O PERÍODO FIXADO -. PERFIL PROFISSIOGRÁFICO PESSOAL - EXPRESSA INDICAÇÃO DO FORNECIMENTO DE EFICAZES EQUIPAMENTOS DE PROTEÇÃO INDIVIDUAL - PRESUNÇÃO DE NEUTRALIZAÇÃO DOS EFEITOS DA INSALUBRIDADE - NECESSIDADE DE ESCLARECIMENTO TÉCNICO PROBATÓRIO DAS CONCRETAS CONDIÇÕES DE TRABALHO - OMISSÃO AUTORAL - ART. 373, 1, DO CPC - AUSÊNCIA DE EFICAZ COMPROVAÇÃO DOS FATOS CONSTITUTIVOS DO DIREITO ALEGADO - PROCEDÊNCIA REVERTIDA NA REMESSA NECESSÁRIA - APELOS VOLUNTÁRIOS PREJUDICADOS
+- A ausência de regulamentação normativa pelo regime previdenciário próprio impõe a aplicação subsidiária ao servidor público das regras do Regime Geral da Previdência Social acerca da aposentadoria especial de que trata o artigo 40, § 4, inciso III, da Constituição Federal
+- Súmula Vinculante nº 33, do STF. - Nos termos do ad. 57, da Lei nº 8.213191, a fruição da aposentadoria especial está condicionada à comprovação primordial do tempo de trabalho permanente, em condições especiais que prejudiquem a saúde ou a integridade física, durante todo o período laborado.
+- Conforme sedimentado pelo Pretório Excelso, "o direito à aposentadoria especial pressupõe a efetiva exposição do trabalhador a agente nocivo à sua saúde, de modo que, se o EPI for realmente capaz de neutralizar a nocividade não haverá respaldo constitucional à aposentadoria especial".
+- Explicitado no Perfil Profissiográfico Pessoal do autor que, embora exposto o servidor a fatores de risco, também se mostraram dispensados eficazes equipamentos de proteção individual, competia ao agente público esclarecer, mediante prova pericial, a inexistência de total neutralização dos efeitos nocivos da insalubridade analisada.
+- Carente o processado da referida comprovação, ante a inação do autor, declara-se a improcedência do pedido inicial.
+- Sentença reformada na remessa necessária conhecida de ofício, prejudicados os recursos voluntários.
+Os embargos de declaração opostos foram rejeitados (fls. 580/583).
+Em suas razões, a parte recorrente alega:
+(1) "A PLENA EFICÁCIA DOS EQUIPAMENTOS DE PROTEÇÃO NÃO FOI COMPROVADA, descabendo-se admitir a mera menção feita no PPP de uso de EPI eficaz. E, somente deixaria de haver respaldo à aposentadoria especial, se estivesse comprovado que o equipamento de proteção individual foi realmente capaz de neutralizar, por inteiro, qualquer nocividade" (fl. 598);
+(2) "sempre que houver "divergência ou dúvida sobre a real eficácia do Equipamento de Proteção Individual", cabe garantir a especialidade do labor" (fl. 599).
+A parte adversa não apresentou contrarrazões (fl. 822).
+O recurso foi admitido na origem (fls. 836/840).
+É o relatório.
+Uma das questões debatidas nestes autos foi analisada pelo Superior Tribunal de Justiça quando do julgamento dos Recursos Especiais 2.082.072/RS, 2.080.584/PR e 2.116.343/RJ, sob o rito de recursos repetitivos, oportunidade em que foi firmada a seguinte tese quanto ao Tema 1.090:
+"I - A informação no Perfil Profissiográfico Previdenciário (PPP) sobre a existência de equipamento de proteção individual (EPI) descaracteriza, em princípio, o tempo especial, ressalvadas as hipóteses excepcionais nas quais, mesmo diante da comprovada proteção, o direito à contagem especial é reconhecido.
+II - Incumbe ao autor da ação previdenciária o ônus de comprovar: (i) a ausência de adequação ao risco da atividade; (ii) a inexistência ou irregularidade do certificado de conformidade; (iii) o descumprimento das normas de manutenção, substituição e higienização; (iv) a ausência ou insuficiência de orientação e treinamento sobre o uso adequado, guarda e conservação; ou (v) qualquer outro motivo capaz de conduzir à conclusão da ineficácia do EPI.
+III - Se a valoração da prova concluir pela presença de divergência ou de dúvida sobre a real eficácia do EPI, a conclusão deverá ser favorável ao autor" (relatora Ministra Maria Thereza de Assis Moura, DJe de 22/4/2025).
+De acordo com o disposto no art. 34, XXIV, do Regimento Interno do Superior Tribunal de Justiça, em situações em que o recurso versa sobre a mesma controvérsia objeto de recursos representativos de controvérsia já julgados, os autos devem retornar ao Tribunal de origem para que seja providenciado o juízo de conformação:
+Art. 34. São atribuições do relator:
+ ..
+XXIV - determinar a devolução ao Tribunal de origem dos recursos especiais fundados em controvérsia idêntica àquela já submetida ao rito de julgamento de casos repetitivos para adoção das medidas cabíveis.
+Vale asseverar que o presente tema havia sido cancelado. N o entanto, foi novamente afetado em 13/12/2024 e a tese firmada em abril de 2.025.
+Ante o exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do Código de Processo Civil.
+Publique-se. Intimem-se.
+EMENTA
