@@ -1,0 +1,92 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/12/2025 a 17/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Carlos Pires Brandão, Og Fernandes, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. INADMISSIBILIDADE DE RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. SÚMULA N. 83/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de agravo em recurso especial, em razão da incidência da Súmula n. 83/STJ.
+2. A decisão agravada destacou a ausência de demonstração de divergência jurisprudencial contemporânea ou superveniente.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se o agravo regimental pode ser provido diante da ausência de impugnação específica de todos os fundamentos da decisão que inadmitiu o recurso especial.
+III. Razões de decidir
+4. A ausência de impugnação específica de todos os fundamentos da decisão de inadmissibilidade do recurso especial atrai a incidência da Súmula n. 182 do STJ, que torna manifestamente inadmissível o agravo em recurso especial.
+5. A incidência da Súmula n. 83 do STJ não se restringe aos recursos especiais interpostos com fundamento na alínea c do art. 105, III, da Constituição Federal, sendo também aplicável aos recursos fundados na alínea a.
+6. "Inadmitido o recurso especial por aplicação da Súmula n. 83 do STJ, "é necessário que a parte comprove que o entendimento desta Corte Superior destoa da conclusão a que chegou o Tribunal de origem ou que o caso dos autos seria distinto daqueles veiculados nos precedentes mediante distinguishing, o que não ocorreu na hipótese" (AgRg no AgRg no AREsp n. 2.278.302/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 26/9/2023, DJe de 3/10/2023)" (AgRg no AREsp n. 2.278.798/MG, relator Ministro Og Fernandes, Sexta Turma, julgado em 3/9/2025, DJEN de 9/9/2025.)
+7. Não são suficientes alegações genéricas sobre as razões que levaram à inadmissão do recurso especial ou a insistência no mérito da controvérsia.
+8. "O momento processual adequado para a impugnação completa dos termos da decisão de inadmissibilidade é o agravo em recurso especial, e não o agravo regimental oposto contra a decisão que aplicou o mencionado óbice sumular" (AgRg no REsp n. 1.991.029/PR, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 18/9/2023, DJe de 20/9/2023)" (AgRg no AREsp n. 2.400.759/SP, relator Ministro Jesuíno Rissato, Desembargador Convocado do TJDFT, Sexta Turma, julgado em 5/3/2024, DJe de 11/3/2024.)
+IV. Dispositivo e tese
+9. Resultado do Julgamento: Agravo regimental desprovido.
+Tese de julgamento:
+1 . É inadmissível o agravo que não impugna especificamente todos os fundamentos da decisão que negou seguimento ao recurso especial, conforme Súmula n. 182 do STJ.
+2. A incidência da Súmula n. 83 do STJ aplica-se aos recursos especiais interpostos com fundamento nas alíneas a e c do art. 105, III, da Constituição Federal.
+Dispositivos relevantes citados: CF/1988, art. 105, III, alíneas "a" e "c"; CPP, arts. 69, VII, 70, 83, 84, 156, 157, caput e I, 254, 315, § 2º, VI, 386, VII, 564, I e IV, e 619; Lei nº 11.343/2006, arts. 33, § 4º, 35 e 42; Lei nº 9.296/1996, arts. 1º e 2º, I e II; Lei nº 10.446/2002, art. 1º; Decreto nº 678/1999, art. 8º; Convenção Americana sobre Direitos Humanos, art. 8º, 4.
+Jurisprudência relevante citada: STJ, AgRg no AREsp 679.421/RJ, Rel. Min. Marco Buzzi, Quarta Turma, julgado em 17/3/2016; STJ, AgRg no AREsp 299.793/SP, Rel. Min. Gurgel de Faria, Quinta Turma, DJe 27/11/2014; STJ, AgRg no AREsp 623.381/MA, Rel. Min. Ericson Maranho, Sexta Turma, DJe 26/5/2015; STJ, EDcl no AREsp 614.968/SP, Rel. Min. Nefi Cordeiro, DJe 29/2/2016; STJ, AgRg no AREsp 275.940/RS, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe 9/6/2015; STJ, AgRg no REsp 1.374.369/RS, Rel. Min. Herman Benjamin, Segunda Turma, DJe 26/6/2013.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental em agravo em recurso especial interposto em favor de ANDRE MARIANO COSTA contra decisão em que não conheci do agravo em decisum assim relatado:
+Trata-se de agravo em recurso especial interposto por ANDRE MARIANO COSTA contra julgado do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação n. 0016220-40.2017.8.26.0564).
+Aproveito o bem lançado relatório do representante do Ministério Público Federal (e-STJ fls. 5.949/5.952):
+1. Tratam os autos de agravos em recursos especiais interpostos por ANDRE MARIANO COSTA e LEONARDO MEIRELLES contra decisões proferidas pela Presidência da Seção de Direito Criminal do Tribunal de Justiça do Estado de São Paulo que inadmitiram o processamento dos recursos especiais manejados em face de acórdão proferido pela 4ª Câmara de Direito Criminal daquele Tribunal, que negou provimento ao apelo interposto por ANDRE e deu parcial provimento ao apelo interposto por LEONARDO (Apelação Criminal n. 0016220-40.2017.8.26.0564). 2. Consta dos autos que ANDRE MARIANO COSTA e LEONARDO MEIRELLES foram condenados em primeira instância, respectivamente, às penas de 20 anos de reclusão, em regime inicial fechado, além de 2400 dias-multa, e 16 anos de reclusão, em regime inicial fechado, e 2200 dias- multa, como incursos no art. 33, caput, § 1º, inciso I, e no art. 35, caput, ambos da Lei n. 11.343/06. 3. Interpostas apelações defensivas, o Tribunal a quo negou provimento ao apelo interposto por ANDRE MARIANO COSTA e deu parcial provimento ao apelo interposto por LEONARNDO MEIRELLES, para absolvê-lo da prática do delito previsto no art. 33, caput, e § 1º, inciso I, da Lei n. 11.343/06, mantida sua condenação como incurso do art. 35 da Lei n. 11.343/06 e redimensionada a pena imposta para 06 anos de reclusão, em regime inicial fechado, e 1200 dias-multa. Opostos embargos de declaração, foram rejeitados. 4. Em sede de recurso especial manejado com fundamento no art. 105, inciso III, alíneas "a" da Constituição Federal, às fls. 5164/5219, ANDRE MARIANO COSTA alega violação aos seguintes dispositivos de lei federal: artigos 69, VII, 70, 83, 84, 156, 157, caput e l, 254, 315, § 2º, VI, 386, VII, 564, I e IV, e 619, do Código de Processo Penal; 8º do Decreto nº 678/199, 8º do Código de Ética da Magistratura Nacional; 74, 1, da Constituição do Estado de São Paulo, 1º da Lei nº 10.446/2002, 1º e 2º, I e II, da Lei nº 9.296/1996, 19, 29, 59, 60 e 70 do Código Penal, e 33, § 4º, e 42 da Lei nº 11.343/2006, além do artigo 8º, 4, da Convenção Americana sobre Direitos Humanos. 5. Requer, preliminarmente, o reconhecimento da nulidade do v. acórdão, por suposto vício na fundamentação, a suspeição da magistrada, a incompetência territorial, a utilização indevida de denúncias anônimas, a ausência de atribuição da polícia federal e ilicitude das provas produzidas com base na interceptação das comunicações telefônicas. No mérito, pleiteou a absolvição, por suposta insuficiência de provas, ou, de forma subsidiária, a redução da pena-base, a aplicação do redutor para o tráfico, o reconhecimento do concurso formal entre os crimes, a fixação do regime inicial mais brando, a concessão de efeito suspensivo e a concessão de habeas corpus de ofício para a hipótese de inadmissão do recurso. 6. Por sua vez, LEONARDO MEIRELLES, interpôs recurso especial com fundamento no art. 105, inciso III, alíneas "a" e "c" da Constituição Federal, às fls. 4986/5030, alegando violação ao art. 35 da Lei n. 11.343/06, além de dissídio jurisprudencial. Requer a absolvição por suposta insuficiência de provas, ou, de forma subsidiária, a redução da pena-base e a fixação do regime inicial mais brando. 7. Contudo, o Tribunal a quo, às fls. 5613/5618 negou seguimento ao recurso especial apresentado por ANDRÉ MARIANO COSTA, em razão da incidência da Súmula 284 do STF e das Súmulas 7 e 83 do STJ. 8. Por sua vez, o recurso especial interposto por LEONARDO MEIRELLES restou inadmitido com base na incidência da Súmula 7 do STJ e por ausência de preenchimento dos requisitos necessários para interposição do recurso especial com fundamento na alínea "c" do permissivo constitucional. 9. Advieram os presentes agravos em recursos especiais, em cujas razões os agravantes sustentam a possibilidade de processamento dos recursos especiais. 10. Contraminutas apresentadas às fls. 5886/5889 e 5890/5893. 11. Após, os autos subiram a essa Corte Superior e, em seguida, vieram com vista ao Ministério Público Federal. 12. É o relatório.
+O Ministério Público Federal manifestou-se pelo não conhecimento do agravo em recurso especial (e-STJ fls. 5.949/5.955).
+É o relatório.
+No presente agravo, repisa a parte as alegações do agravo em recurso especial.
+Requer, por fim, a reconsideração da decisão ou o seu enfrentamento pelo colegiado.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. INADMISSIBILIDADE DE RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. SÚMULA N. 83/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de agravo em recurso especial, em razão da incidência da Súmula n. 83/STJ.
+2. A decisão agravada destacou a ausência de demonstração de divergência jurisprudencial contemporânea ou superveniente.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se o agravo regimental pode ser provido diante da ausência de impugnação específica de todos os fundamentos da decisão que inadmitiu o recurso especial.
+III. Razões de decidir
+4. A ausência de impugnação específica de todos os fundamentos da decisão de inadmissibilidade do recurso especial atrai a incidência da Súmula n. 182 do STJ, que torna manifestamente inadmissível o agravo em recurso especial.
+5. A incidência da Súmula n. 83 do STJ não se restringe aos recursos especiais interpostos com fundamento na alínea c do art. 105, III, da Constituição Federal, sendo também aplicável aos recursos fundados na alínea a.
+6. "Inadmitido o recurso especial por aplicação da Súmula n. 83 do STJ, "é necessário que a parte comprove que o entendimento desta Corte Superior destoa da conclusão a que chegou o Tribunal de origem ou que o caso dos autos seria distinto daqueles veiculados nos precedentes mediante distinguishing, o que não ocorreu na hipótese" (AgRg no AgRg no AREsp n. 2.278.302/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 26/9/2023, DJe de 3/10/2023)" (AgRg no AREsp n. 2.278.798/MG, relator Ministro Og Fernandes, Sexta Turma, julgado em 3/9/2025, DJEN de 9/9/2025.)
+7. Não são suficientes alegações genéricas sobre as razões que levaram à inadmissão do recurso especial ou a insistência no mérito da controvérsia.
+8. "O momento processual adequado para a impugnação completa dos termos da decisão de inadmissibilidade é o agravo em recurso especial, e não o agravo regimental oposto contra a decisão que aplicou o mencionado óbice sumular" (AgRg no REsp n. 1.991.029/PR, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 18/9/2023, DJe de 20/9/2023)" (AgRg no AREsp n. 2.400.759/SP, relator Ministro Jesuíno Rissato, Desembargador Convocado do TJDFT, Sexta Turma, julgado em 5/3/2024, DJe de 11/3/2024.)
+IV. Dispositivo e tese
+9. Resultado do Julgamento: Agravo regimental desprovido.
+Tese de julgamento:
+1 . É inadmissível o agravo que não impugna especificamente todos os fundamentos da decisão que negou seguimento ao recurso especial, conforme Súmula n. 182 do STJ.
+2. A incidência da Súmula n. 83 do STJ aplica-se aos recursos especiais interpostos com fundamento nas alíneas a e c do art. 105, III, da Constituição Federal.
+Dispositivos relevantes citados: CF/1988, art. 105, III, alíneas "a" e "c"; CPP, arts. 69, VII, 70, 83, 84, 156, 157, caput e I, 254, 315, § 2º, VI, 386, VII, 564, I e IV, e 619; Lei nº 11.343/2006, arts. 33, § 4º, 35 e 42; Lei nº 9.296/1996, arts. 1º e 2º, I e II; Lei nº 10.446/2002, art. 1º; Decreto nº 678/1999, art. 8º; Convenção Americana sobre Direitos Humanos, art. 8º, 4.
+Jurisprudência relevante citada: STJ, AgRg no AREsp 679.421/RJ, Rel. Min. Marco Buzzi, Quarta Turma, julgado em 17/3/2016; STJ, AgRg no AREsp 299.793/SP, Rel. Min. Gurgel de Faria, Quinta Turma, DJe 27/11/2014; STJ, AgRg no AREsp 623.381/MA, Rel. Min. Ericson Maranho, Sexta Turma, DJe 26/5/2015; STJ, EDcl no AREsp 614.968/SP, Rel. Min. Nefi Cordeiro, DJe 29/2/2016; STJ, AgRg no AREsp 275.940/RS, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe 9/6/2015; STJ, AgRg no REsp 1.374.369/RS, Rel. Min. Herman Benjamin, Segunda Turma, DJe 26/6/2013.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+A irresignação não merece prosperar, devendo ser mantida a decisão agravada por seus próprios fundamentos.
+Isso, porque o agravante deixou de impugnar todos os fundamentos da decisão de inadmissibilidade do recurso especial.
+Na espécie, a decisão que não admitiu o recurso especial destacou a impossibilidade de reexame de acervo fático-probatório e a incidência da Súmula n. 83/STJ.
+Todavia o agravante não infirmou o óbice da Súmula n. 83/STJ.
+Ressalte-se, ademais, que, inadmitido o apelo extremo com base no verbete sumular 83/STJ, incumbiria à parte interessada apontar precedentes contemporâneos ou supervenientes aos citados na decisão impugnada, procedendo ao cotejo analítico entre eles, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior.
+Anota-se que o entendimento desta Corte Superior é o de que "a incidência da Súmula 83/STJ não se restringe aos recursos especiais interpostos com fundamento na alínea "c" do permissivo constitucional, sendo também aplicável nos reclamos fundados na alínea "a", uma vez que o termo "divergência", a que se refere a citada súmula, relaciona-se com a interpretação de norma infraconstitucional" (AgRg no AREsp n. 679.421/RJ, relator Ministro Marco Buzzi, Quarta Turma, julgado em 17/3/2016, DJe 31/3/2016).
+No mesmo sentido:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO DOLOSO TENTADO E FRAUDE PROCESSUAL. SÚMULA 83 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. APLICAÇÃO TAMBÉM NA HIPÓTESE DA ALÍNEA "A" DO INCISO III DO ART. 105 DA CONSTITUIÇÃO FEDERAL. OFENSA AO PRINCÍPIO DA IDENTIDADE FÍSICA DO JUIZ. NÃO OCORRÊNCIA. DESCLASSIFICAÇÃO DO DELITO E AFASTAMENTO DAS QUALIFICADORAS. SÚMULA N. 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+- A incidência da Súmula n. 83 deste Superior Tribunal de Justiça não se restringe ao recurso especial aviado com base na alínea "c" do inciso III do art. 105, da Constituição Federal, aplicando-se o enunciado, da mesma forma, aos recursos interpostos com fundamento na alínea "a" do permissivo constitucional. (AgRg no AREsp 299.793/SP, Rel. Ministro Gurgel de Faria, Quinta Turma, DJe 27/11/2014)
+- O princípio da identidade física do juiz não é absoluto, devendo a parte fazer prova do prejuízo, o que não ocorreu na espécie.
+- O pedido de desclassificação do delito e de afastamento da qualificadoras enseja o reexame do material fático-probatório dos autos, procedimento inadmissível em recurso especial. Incidência da Súmula n. 7/STJ.
+Agravo regimental desprovido. (AgRg no AREsp n. 623.381/MA, relator Ministro Ericson Maranho, Desembargador convocado do TJSP, Sexta Turma, julgado em 12/5/2015, DJe 26/5/2015, grifei.)
+Desse modo, não havendo impugnação específica de todos os fundamentos da decisão questionada, deve ser aplicado, por analogia, o teor da Súmula n. 182 deste Tribunal Superior.
+É digno de nota que não são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do recurso especial ou a insistência no mérito da controvérsia.
+Nesse sentido, confiram-se:
+PENAL E PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO CONHECIDOS COMO AGRAVO REGIMENTAL. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. DECISÃO DE ADMISSIBILIDADE NEGATIVA. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA 182/STJ. INCIDÊNCIA CONFIRMADA. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. INOCORRÊNCIA. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+2. Nos termos da Súmula 182 do STJ, é manifestamente inadmissível o agravo em recurso especial que não impugna, especificamente, todos os fundamentos da decisão confrontada.
+ ..
+4. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento. (EDcl no AREsp n. 614.968/SP, relator Ministro Nefi Cordeiro, DJe 29/2/2016.)
+PENAL. AGRAVO EM RECURSO ESPECIAL QUE NÃO ATACOU OS FUNDAMENTOS DA DECISÃO AGRAVADA. APLICABILIDADE, POR ANALOGIA, DA SÚMULA 182/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+1. É inadmissível o agravo que não infirma todos os fundamentos da decisão que negou seguimento ao recurso especial. Súmula 182/STJ.
+2. Na hipótese, inadmitido o recurso em razão das Súmulas 7/STJ e 83/STJ, incumbia à parte demonstrar a não incidência dos enunciados sumulares.
+3. A incidência da Súmula 7/STJ impede o exame do recurso especial pelo dissídio jurisprudencial, tendo em vista a ausência de identidade fática entre o acórdão paradigma apresentado e os fundamentos do acórdão recorrido.
+4. Agravo regimental improvido. (AgRg no AREsp n. 275.940/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/6/2015, DJe 9/6/2015.)
+ADMINISTRATIVO. SERVIDOR PÚBLICO FEDERAL. ENQUADRAMENTO. LICENÇA-PRÊMIO NÃO GOZADA. CÔMPUTO COMO TEMPO EFETIVO DE EXERCÍCIO. LEI 11.091/05. POSSIBILIDADE. PRECEDENTES. SÚMULA 83 DO STJ. FUNDAMENTO DA DECISÃO AGRAVADA NÃO ATACADO. SÚMULA 182 DO STJ. PREQUESTIONAMENTO. AUSÊNCIA.
+1.  ..
+2. É inviável o agravo que deixa de atacar os fundamentos da decisão agravada. Incide a Súmula 182 do STJ.
+3. Fundamentada a decisão agravada no sentido de que o acórdão recorrido está em sintonia com o atual entendimento do STJ, deveria a recorrente demonstrar que outra é a positivação do direito na jurisprudência do STJ.
+4. A tese jurídica debatida no Recurso Especial deve ter sido objeto de discussão no acórdão atacado. Inexistindo esta circunstância, desmerece ser conhecida por ausência de prequestionamento. Súmula 282 do STF.
+5. Agravo Regimental não provido. (AgRg no REsp n. 1.374.369/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/6/2013, DJe 26/6/2013.)
+Diante de todo o exposto, nego provimento ao agravo regimental.
+É o voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
