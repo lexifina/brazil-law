@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de MARINA DE ARAUJO PAVANI contra o ato do Tribunal de Justiça de São Paulo que denegou a ordem no HC n. 3016337-42.2025.8.26.0000 (fls. 16/21).
+Neste writ, a defesa alega ausência de requisitos da prisão preventiva e gravidade abstrata do delito. Sustenta primariedade, vulnerabilidade socioeconômica e maternidade de criança de 8 anos, com possibilidade de medidas cautelares diversas (fls. 3/6).
+Pede, em liminar, a imediata soltura; e, no mérito, requer a revogação da prisão preventiva ou a substituição por cautelares alternativas, preferencialmente comparecimento periódico, ou a concessão de prisão domiciliar.
+É o relatório.
+Infere-se dos autos que a paciente foi presa em flagrante pela suposta prática do art. 33, caput, da Lei n. 11.343/2006, e teve a prisão convertida em preventiva por garantia da ordem pública e risco de reiteração, com referência a descumprimento de cautelares anteriores.
+Consta apreensão de 14 porções de maconha (49,90 g), 100 porções de cocaína (134,40 g) e 129 porções de crack (51,50 g), além de dinheiro em espécie. A denúncia foi oferecida em 16/9/2025 e recebida pela 1ª Vara da comarca de Peruíbe.
+O Tribunal de origem entendeu pela manutenção da custódia cautelar, destacando a gravidade concreta do fato, a quantidade e a variedade das drogas, o risco de reiteração, e a insuficiência de medidas cautelares diversas (fls. 41/45). Indeferiu a prisão domiciliar, por ausência de direito automático e por risco à criança, registrando que a menor está sob cuidados da avó e que o art. 318-A do CPP não se aplica de forma irrestrita (fls. 50/54).
+Na hipótese, verifico que as instâncias ordinárias apresentaram fundamentação suficiente para a decretação e manutenção da prisão cautelar da paciente, ao individualizarem, com base em elementos concretos dos autos, a presença do periculum libertatis.
+A jurisprudência desta Corte é firme no sentido de que a gravidade concreta do delito, evidenciada pelo modus operandi, constitui fundamento idôneo para a imposição da prisão preventiva.
+Assim, constata-se o preenchimento dos pressupostos cautelares aptos a justificar, em tese, a manutenção da segregação provisória. Não obstante, revela-se juridicamente cabível a substituição da prisão preventiva pela prisão domiciliar.
+Com efeito, as alterações introduzidas no Código de Processo Penal pelas Leis n. 13.257/2016 e n. 13.769/2018 asseguram a substituição da prisão preventiva por domiciliar em favor de gestantes ou de mães de crianças com até 12 anos de idade, ou responsáveis por pessoas com deficiência, nos termos dos arts. 318, IV e V, 318-A e 318-B do CPP.
+As Cortes Superiores admitem o indeferimento dessa medida apenas em situações excepcionalíssimas, as quais devem ser devidamente e concretamente fundamentadas, sob pena de ilegalidade.
+No caso, a paciente é mãe de criança menor de 12 anos, responde por delito cometido sem violência ou grave ameaça, inexistem indícios de que o crime tenha sido praticado contra a infante e ostenta primariedade. De mais a mais , a quantidade de entorpecentes apreendida - 14 porções de maconha (49,90 g), 100 porções de cocaína (134,40 g) e 129 porções de crack (51,50 g) -, embora relevante, não se mostra, isoladamente, suficiente para afastar o direito ao convívio e aos cuidados maternos.
+Dessa forma, ausente a demonstração de circunstâncias excepcionalíssimas que justifiquem o indeferimento do benefício, impõe-se o reconhecimento do direito da paciente à substituição da prisão preventiva por prisão domiciliar, em consonância com a orientação consolidada desta Corte Superior.
+Nesse sentido: AgRg no HC n. 967.245/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 10/6/2025, DJEN de 16/6/2025.
+Ante o exposto, concedo liminarmente a ordem para substituir a prisão preventiva da paciente por prisão domiciliar, cujas diretrizes deverão ser fixadas pelo Magistrado de primeiro grau, sem prejuízo da imposição de outras medidas cautelares que entender cabíveis e adequadas, ou, ainda, da decretação de nova segregação processual, caso sobrevenha situação que justifique tal medida.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. PERICULUM LIBERTATIS. FUNDAMENTADO EM ELEMENTOS CONCRETOS. MODUS OPERANDI. QUANTIDADE E VARIEDADE DE ENTORPECENTES. AUSÊNCIA DE VIOLÊNCIA OU GRAVE AMEAÇA. MATERNIDADE DE CRIANÇA MENOR DE 12 ANOS. SUBSTITUIÇÃO DA PRISÃO PREVENTIVA POR PRISÃO DOMICILIAR. AUSÊNCIA DE CIRCUNSTÂNCIAS EXCEPCIONALÍSSIMAS. ORIENTAÇÃO CONSOLIDADA. CONCESSÃO LIMINAR.
+Ordem concedida liminarmente.
