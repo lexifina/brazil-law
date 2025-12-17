@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de RAFAEL HENRIQUE MARINI em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 2383483-44.2025.8.26.0000).
+Consta dos autos que o paciente foi condenado, em primeiro grau, à pena de 3 anos e 9 meses de reclusão, em regime semiaberto, pelo prática do delito previsto no art. 16, parágrafo único, inciso IV, da Lei n. 10.826/2003, sendo-lhe negado o direito de recorrer em liberdade.
+Irresignada, a defesa impetrou habeas corpus com pedido liminar perante o Tribunal de Justiça, que deferiu parcialmente o pedido liminar "uma vez que as circunstâncias de fato e de direito trazidas à colação evidenciam o atendimento aos pressupostos cumulados típicos das cautelares, para que, preservada a prisão preventiva antes decretada, seja observado o regime prisional inicial semiaberto, com a imediata transferência do paciente a estabelecimento prisional compatível com tal regime, levando-se em consideração o histórico criminal a fls. 619/620 dos autos do processo de conhecimento" (e-STJ fl. 44).
+Neste writ, aduz a defesa ser o caso de superação da Súmula n. 691/STF, porquanto foi mantida a prisão preventiva, pelo fato de o paciente, apesar de tecnicamente primário, ostentar maus antecedentes.
+Afirma que os maus antecedentes são extremamente antigos (2002 a 2014) e não justificam a manutenção do cárcere, o que caracteriza excesso de execução.
+Defende a existência de inco mpatibilidade do regime quanto pelo excesso de execução temporal iminente.
+Pondera que a "manutenção da custódia nessas condições "implicaria chancelar cumprimento antecipado da pena, em desrespeito ao decidido pelo Plenário desta Corte nas ADCs nº 43/DF, nº 44/DF e nº 54/DF"" (e-STJ fl. 6).
+Destaca que o "Paciente atingirá o lapso temporal para o REGIME ABERTO já em JANEIRO DE 2026. Manter a prisão preventiva (regime fechado) neste momento, com a iminência do recesso forense, significa obrigar o Paciente a cumprir o requisito do regime mais brando em condições mais severas, configurando excesso de execução" (e-STJ fl. 8).
+Diante do exposto, requer:
+ ..  seja pela sua incompatibilidade com o regime inicial semiaberto; seja pela ausência dos seus requisitos autorizadores e suficiência das cautelares diversas, requer-se o deferimento de liminar ou concessão da ordem de ofício em habeas corpus para revogar a prisão preventiva do paciente, com ou sem a imposição de medidas cautelares alternativas, até o julgamento de mérito do presente writ, com seu provimento ao final, em caráter definitivo, a fim de garantir que o paciente responda ao processo em liberdade, fazendo cessar o constrangimento ilegal a que está submetido.
+É o relatório.
+Decido.
+O Superior Tribunal de Justiça tem jurisprudência firmada de que não cabe habeas corpus contra decisum que indefere liminar no writ precedente (enunciado 691 da Súmula da Suprema Corte), a não ser que fique demonstrada flagrante ilegalidade, o que não se verifica na espécie, ainda mais tendo a Corte local consignado que (e-STJ fl. 44):
+2) Ao que consta da impetração, o paciente foi condenado nos termos do artigo 16, § 1º, IV, da Lei nº 10.826/03.
+3) Defiro parcialmente a liminar pleiteada, uma vez que as circunstâncias de fato e de direito trazidas à colação evidenciam o atendimento aos pressupostos cumulados típicos das cautelares, para que, preservada a prisão preventiva antes decretada, seja observado o regime prisional inicial semiaberto, com a imediata transferência do paciente a estabelecimento prisional compatível com tal regime, levando-se em consideração o histórico criminal a fls. 619/620 dos autos do processo de conhecimento.
+Logo, as questões formuladas, notadamente diante das peculiaridades do caso, necessitam de averiguação mais aprofundada pelo Tribunal de origem, que deverá apreciar a argumentação contida na impetração no momento adequado.
+Sem isso, fica esta Corte impedida de analisar o alegado constrangimento ilegal, sob pena de incorrer em indevida supressão de instância.
+A propósito, guardadas as devidas particularidades:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO CONTRA INDEFERIMENTO DE LIMINAR NO TRIBUNAL DE ORIGEM. SUMULA 691/STF. COMPETÊNCIA DESTA CORTE QUE AINDA NÃO SE INAUGUROU. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE PROVA DO ALEGADO CONSTRANGIMENTO ILEGAL.
+1. Não cabe habeas corpus perante esta Corte contra o indeferimento de liminar em writ impetrado no Tribunal de origem. Aplicação da Súmula 691 do Supremo Tribunal Federal.
+ ..
+3. Agravo regimental improvido. (AgRg no HC 349.925/RJ, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 10/3/2016, DJe 16/3/2016.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO INDEFERIDA LIMINARMENTE. SÚMULA 691/STF. AUSÊNCIA DE PATENTE ILEGALIDADE. PEDIDO DE EXPEDIÇÃO DE CONTRAMANDADO DE PRISÃO TEMPORÁRIA. PACIENTE NO EXTERIOR. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade, o que não ocorre na espécie. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. No caso, não se observa manifesta ilegalidade na decisão que indeferiu o pleito liminar no prévio mandamus, tampouco na decisão primitiva. Na espécie, não há nos autos informações comprobatórias de que todas as diligências requeridas foram cumpridas, valendo ressaltar, ainda, que o decreto prisional, expedido no bojo da mesma decisão, não se efetivou porque o paciente não teria sido localizado, porquanto "potencialmente" estaria no exterior.
+3. Agravo regimental improvido. (AgRg no HC 345.456/SP, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 18/2/2016, DJe 24/2/2016.)
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
