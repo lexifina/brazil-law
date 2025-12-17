@@ -1,0 +1,69 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/12/2025 a 17/12/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Marluce Caldas, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito Processual Penal. Embargos de Declaração. Tribunal do Júri. Absolvição em quesito genérico. Contradição com as provas dos autos. Embargos rejeitados.
+I. Caso em exame
+1. Embargos de declaração opostos contra acórdão que negou provimento ao agravo regimental, mantendo decisão monocrática que deu provimento ao recurso especial para anular a decisão do Conselho de Sentença e determinar novo julgamento da recorrida, absolvida no quesito absolutório genérico pela prática de homicídio qualificado.
+2. A embargante alega omissão, contradição e erro material no acórdão, sustentando que a absolvição no quesito genérico está respaldada nos autos e que o Conselho de Sentença não está obrigado a decidir segundo a melhor prova, mas de acordo com uma das versões existentes nos autos.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se há omissão, contradição ou erro material no acórdão que negou provimento ao agravo regimental, mantendo a decisão de anulação do julgamento do Tribunal do Júri, com base na contradição entre o veredicto absolutório genérico e as provas dos autos.
+III. Razões de decidir
+4. Os embargos de declaração têm como finalidade suprir omissão, esclarecer obscuridade, sanar contradição ou corrigir erro material, conforme disposto no art. 1.022 do CPC/2015.
+5. Não foi constatada omissão, contradição ou erro material na decisão embargada, sendo evidente que o embargante busca rediscutir o mérito do recurso especial, o que não é cabível por meio de embargos de declaração.
+6. A absolvição no quesito genérico pelo Tribunal do Júri pode ser objeto de recurso de apelação, nos termos do art. 593, III, "d", do Código de Processo Penal, quando considerada manifestamente contrária à prova dos autos, desde que não se trate de caso de clemência, conforme tese firmada no Tema n. 1.087 do STF.
+7. Nos casos de absolvição pelo quesito genérico, é necessário que conste em ata a tese de clemência que levou os jurados à conclusão, devendo esta ser compatível com o texto constitucional, precedentes vinculantes do STF e as circunstâncias fáticas dos autos.
+8. No caso concreto, não foi suscitada pela defesa a tese de clemência, e esta não consta na ata do julgamento. Ademais, há contradição material entre o veredicto absolutório genérico e as provas dos autos, que indicam que a recorrida estava no local do crime, ao contrário da tese defensiva de que não teria presenciado os fatos.
+IV. Dispositivo e tese
+9. Resultado do Julgamento: Embargos de declaração rejeitados.
+Tese de julgamento:
+Dispositivos relevantes citados:CPC/2015, art. 1.022; CPP, art. 593, III, "d"; CPP, art. 315, §2º, VI; CPP, art. 619; CPC, art. 489, §1º, VI; CPC, art. 1022, II e parágrafo único, II; CF/1988, art. 105, III, "a".
+Jurisprudência relevante citada:STJ, EDcl no AgRg no AREsp 859232/SP, Rel. Min. Mauro Campbell Marques, Segunda Turma, julgado em 24.05.2016; STF, Tema n. 1.087; STJ, AgRg no REsp 2.169.791/PE, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, julgado em 06.05.2025.
+RELATÓRIO
+Trata-se de embargos de declaração no agravo regimental no recurso especial interposto por ANA PAULA NICODEMOS DOS SANTOS, para impugnar decisão colegiada que negou provimento ao agravo regimental, mantendo-se a decisão monocrática que deu "provimento ao recurso especial, para anular a decisão prolatada pelo Conselho de Sentença, submetendo a recorrida a novo julgamento" (fl. 3987).
+Consta dos autos que a ora recorrente foi absolvida, no quesito absolutório genérico, pela prática do crime de homicídio qualificado.
+No anterior recurso especial, interposto pelo MP (fl. 3986):
+No presente recurso especial, interposto com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, a defesa alega negativa de vigência ao artigo 121, §2º, I e IV, do Código Penal e ao art. 593, III, "d", e §3º, do Código de Processo Penal, bem como às normas processuais que regem os embargos de declaração, em especial os arts. 315, §2º, VI, e 619, do Código de Processo Penal; os arts. 489, §1º, VI, e 1022, II, e parágrafo único, II, ambos Código de Processo Civil, c/c art. 3º, do Código de Processo Penal.
+O Tribunal de origem havia procedido ao juízo de admissibilidade positivo do recurso especial.
+O Ministério Público Federal opinara pelo provimento do recurso especial.
+Em decisão monocrática (fls. 3986/87), como adiantado, dei provimento ao recurso especial interposto pelo Ministério Público de Minas Gerais, para anular a decisão prolatada pelo Conselho de Sentença, submetendo a recorrente a novo julgamento.
+A Defesa interpôs agravo regimental, no qual alegava violação ao princípio da soberania dos veredictos, pois a anulação de um veredicto só se justifica quando a decisão dos jurados não encontra amparo nas provas dos autos, o que não seria o caso presente.
+Nos presentes embargos de declaração, a Defesa aponta omissão, contradição ou obscuridade na decisão do Tribunal do Júri e a ofensa ao direito ao devido processo legal e à ampla defesa.
+Requer seja "RECONSIDERADA" a decisão ora agravada ou que seja conhecido e provido o presente recurso.
+Em decisão colegiada, negou-se provimento ao agravo regimental. Nesta sede, o embargante alega que "a omissão, a contradição e o erro do referido acórdão advém da falta de fundamentação, inserido no artigo 593, III, d, do CPP e indicação dos mandamentos legais que conferiram a essa Quinta Turma, a convicção para afirmar da relevância da prova, é sabido, o Conselho de Sentença não está obrigado a decidir segundo a melhor prova dos autos, mas de acordo com uma das versões existentes nos autos, a versão adotadas pelos jurados em absolver a embargante está respaldada nos autos."
+É o relatório.
+EMENTA
+Direito Processual Penal. Embargos de Declaração. Tribunal do Júri. Absolvição em quesito genérico. Contradição com as provas dos autos. Embargos rejeitados.
+I. Caso em exame
+1. Embargos de declaração opostos contra acórdão que negou provimento ao agravo regimental, mantendo decisão monocrática que deu provimento ao recurso especial para anular a decisão do Conselho de Sentença e determinar novo julgamento da recorrida, absolvida no quesito absolutório genérico pela prática de homicídio qualificado.
+2. A embargante alega omissão, contradição e erro material no acórdão, sustentando que a absolvição no quesito genérico está respaldada nos autos e que o Conselho de Sentença não está obrigado a decidir segundo a melhor prova, mas de acordo com uma das versões existentes nos autos.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se há omissão, contradição ou erro material no acórdão que negou provimento ao agravo regimental, mantendo a decisão de anulação do julgamento do Tribunal do Júri, com base na contradição entre o veredicto absolutório genérico e as provas dos autos.
+III. Razões de decidir
+4. Os embargos de declaração têm como finalidade suprir omissão, esclarecer obscuridade, sanar contradição ou corrigir erro material, conforme disposto no art. 1.022 do CPC/2015.
+5. Não foi constatada omissão, contradição ou erro material na decisão embargada, sendo evidente que o embargante busca rediscutir o mérito do recurso especial, o que não é cabível por meio de embargos de declaração.
+6. A absolvição no quesito genérico pelo Tribunal do Júri pode ser objeto de recurso de apelação, nos termos do art. 593, III, "d", do Código de Processo Penal, quando considerada manifestamente contrária à prova dos autos, desde que não se trate de caso de clemência, conforme tese firmada no Tema n. 1.087 do STF.
+7. Nos casos de absolvição pelo quesito genérico, é necessário que conste em ata a tese de clemência que levou os jurados à conclusão, devendo esta ser compatível com o texto constitucional, precedentes vinculantes do STF e as circunstâncias fáticas dos autos.
+8. No caso concreto, não foi suscitada pela defesa a tese de clemência, e esta não consta na ata do julgamento. Ademais, há contradição material entre o veredicto absolutório genérico e as provas dos autos, que indicam que a recorrida estava no local do crime, ao contrário da tese defensiva de que não teria presenciado os fatos.
+IV. Dispositivo e tese
+9. Resultado do Julgamento: Embargos de declaração rejeitados.
+Tese de julgamento:
+1. Os embargos de declaração são cabíveis apenas para suprir omissão, esclarecer obscuridade, sanar contradição ou corrigir erro material, não sendo admissíveis para rediscutir o mérito da decisão embargada. 2. A absolvição no quesito genérico pelo Tribunal do Júri pode ser objeto de recurso de apelação, nos termos do art. 593, III, "d", do Código de Processo Penal, quando considerada manifestamente contrária à prova dos autos, desde que não se trate de caso de clemência. 3. Nos casos de absolvição pelo quesito genérico, é necessário que conste em ata a tese de clemência que levou os jurados à conclusão, devendo esta ser compatível com o texto constitucional, precedentes vinculantes do STF e as circunstâncias fáticas dos autos.
+Dispositivos relevantes citados:CPC/2015, art. 1.022; CPP, art. 593, III, "d"; CPP, art. 315, §2º, VI; CPP, art. 619; CPC, art. 489, §1º, VI; CPC, art. 1022, II e parágrafo único, II; CF/1988, art. 105, III, "a".
+Jurisprudência relevante citada:STJ, EDcl no AgRg no AREsp 859232/SP, Rel. Min. Mauro Campbell Marques, Segunda Turma, julgado em 24.05.2016; STF, Tema n. 1.087; STJ, AgRg no REsp 2.169.791/PE, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, julgado em 06.05.2025.
+VOTO
+De início, esclareço que os Embargos de Declaração servem para suprir omissão, esclarecer obscuridade, sanar contradição ou corrigir erro material. Nesse sentido, a jurisprudência do Superior Tribunal de Justiça:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. APOSENTADORIA POR TEMPO DE SERVIÇO. AUSÊNCIA DE OMISSÃO OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. EMBARGOS DE DECLARAÇÃO REJEITADOS. 1. Os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão omissa, obscura, contraditória ou que incorra em erro material, afirmação que se depreende dos incisos do próprio art. 1.022 do CPC/2015. Portanto, só é admissível essa espécie recursal quando destinada a atacar, especificamente, um desses vícios do ato decisório, e não para que se adeque a decisão ao entendimento dos embargantes, nem para o acolhimento de pretensões que refletem mero inconformismo, e menos ainda para rediscussão de matéria já resolvida. 2. Não havendo omissão, obscuridade, contradição ou erro material, merecem ser rejeitados os embargos declaratórios interpostos com o propósito infringente. 3. Embargos de declaração rejeitados. (STJ - EDcl no AgRg no AREsp: 859232 SP 2016/0024413-8, Relator: Ministro MAURO CAMPBELL MARQUES, Data de Julgamento: 24/05/2016, T2 - SEGUNDA TURMA, Data de Publicação: DJe 31/05/2016)
+Inexiste qualquer omissão na decisão embargada, sendo certo que o embargante busca, por meio dos embargos de declaração, rediscutir o mérito do recurso especial.
+Conforme foi decidido, a absolvição da recorrente se deu com a votação do terceiro quesito, após ter o corpo de jurados respondido afirmativamente ao quesito que questionava se "a acusada concorreu para a prática do crime, dirigindo-se à residência da vitima junto ao corréu Adriel para que ele efetuasse os disparos " (fl. 3741).
+Nesse passo, também saliento que é cabível o recurso de apelação com base no artigo 593, inciso III, "d", do Código de Processo Penal, nas hipóteses em que a decisão do Tribunal do Júri, amparada em quesito genérico, for considerada pela acusação como manifestamente contrária à prova dos autos (Tema n. 1.087, STF).
+Nele, no Tema n. 1.087, o STF firmou a tese de que é possível a interposição de recurso de apelação contra a absolvição decidida em resposta ao quesito genérico, caso esta decisão seja manifestamente contrária à prova dos autos e não se trate de um caso de clemência, quando, então, o Tribunal pode determinar a realização de um novo julgamento.
+Nos termos do precedente vinculante citado, nos casos de absolvição pelo quesito genérico, é necessário que tenha constado em ata a tese de clemência que levou os jurados à tal conclusão, a qual, por sua vez, deverá guardar compatibilidade com o texto constitucional, com os precedentes vinculantes do Supremo Tribunal Federal e com as circunstâncias fáticas apresentadas nos autos.
+Como bem destacado pelo recorrido, referida tese não foi suscitada pela defesa, a qual insistiu na versão de que a acusada não teria presenciado a conduta delitiva.
+Destaque-se que a tese de clemência sequer consta na respectiva ata (fl. 3736).
+Considerado tal cenário, há que se reconhecer a contradição material entre o julgado e as provas coligidas no sentido de que a recorrida estava no local do crime, ao contrário da tese defensiva no sentido de que a acusada sequer teria presenciado os fatos.
+A contrario sensu:
+ ..  embora tenham os jurados respondido afirmativamente aos dois primeiros quesitos (materialidade e autoria), mostra-se pertinente a absolvição com fundamento no quesito genérico, porquanto a defesa cuidou de apresentar em plenário o pedido de absolvição por clemência  ..  (AgRg no R Esp n. 2.169.791/PE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 6/5/2025, DJEN de 9/5/2025).
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
