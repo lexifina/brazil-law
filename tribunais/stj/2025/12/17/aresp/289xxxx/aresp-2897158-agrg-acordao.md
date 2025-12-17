@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/12/2025 a 17/12/2025, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Carlos Pires Brandão.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. CONSTATAÇÃO. FALHA TÉCNICA NO SISTEMA ELETRÔNICO DO TRIBUNAL LOCAL. NÃO COMPROVAÇÃO. EXTEMPORANEIDADE DO RECURSO ESPECIAL MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. CASO EM EXAME
+1. Trata-se de agravo regimental interposto contra decisão monocrática que negou provimento ao agravo inicial, em razão da constatada intempestividade do recurso especial.
+2. Em suas razões, o agravante sustenta que a decisão agravada carece de reforma, pois a apontada intempestividade do apelo especial decorreu, exclusivamente, de falha técnica no sistema eletrônico do Tribunal estadual, a qual o induziu a erro quando do respectivo protocolo.
+3. Nestes termos, requer a reconsideração da decisão agravada ou, subsidiariamente, remessa do feito para julgamento pela Sexta Turma, a fim de que seja afastada a intempestividade do recurso especial, seguida do seu regular processamento e provimento.
+II. QUESTÃO EM DISCUSSÃO
+4. A questão em discussão consiste em saber se a mera alegação de falha técnica no sistema eletrônico do Tribunal local, não regularmente comprovada, é suficiente - à luz dos princípios da cooperação processual e da boa-fé objetiva - para se afastar a intempestividade do recurso especial.
+III. RAZÕES DE DECIDIR
+5. A jurisprudência trilhada pela Terceira Seção desta Corte admite, em hipóteses excepcionais, a mitigação da intempestividade recursal quando (efetivamente) comprovado pelo insurgente erro de informação no sistema eletrônico do tribunal, em homenagem aos princípios da boa-fé e da confiança.
+6. Apesar da errônea informação constante do sistema eletrônico do tribunal local não poder ser atribuída ao jurisdicionado, este Tribunal Superior tem compreendido como insuficiente a mera apresentação de capturas de tela ou imagens de páginas da internet para demonstrar (eventual) falha técnica determinante na contagem do prazo recursal.
+7. Na espécie, o agravante não comprovou a alegada falha no sistema eletrônico do Tribunal local, sendo insuficiente, portanto, a captura do espelho processual eletrônico local para se afastar a intempestividade do recurso especial.
+8. O prazo para interposição de recurso especial é de 15 (quinze) dias corridos, nos termos dos arts. 994, VI, e 1.003, § 5º, ambos do CPC, c/c o art. 798 do CPP. Nesse cenário, o prazo recursal iniciou-se em 09/07/2024 e encerrou-se em 23/07/2024, sendo o recurso especial interposto apenas em 24/07/2024, de modo evidenciar sua  não convalidada  intempestividade.
+9. Panorama recursal não amparado por fundamentos novos que justifica a manutenção da decisão agravada.
+IV. DISPOSITIVO E TESE
+10. Resultado do Julgamento: Agravo regimental desprovido.
+Tese de julgamento: A mera alegação de falha técnica no sistema eletrônico do Tribunal local, não comprovada documentalmente, é insuficiente - à luz dos princípios da cooperação processual e da boa-fé objetiva - para se afastar a intempestividade do recurso especial.
+Dispositivos relevantes citados: CPC, art. 994, VI; CPC, art. 1.003, § 5º; CPP, art. 798.
+Jurisprudência relevante citada: STJ, AgRg no AREsp 2.740.557/PB, Rel. Min. Otávio de Almeida Toledo, Sexta Turma, julgado em 10.12.2024; STJ, AgRg nos EAREsp 2.487.289/PR, Rel. Min. Maria Marluce Caldas, Terceira Seção, julgado em 08.10.2025; STJ, AgRg no AREsp 2.838.380/ES, Rel. Min. Carlos Cini Marchionatti, Quinta Turma, julgado em 12.08.2025; STJ, AgRg no REsp 2.140.987/PR, Rel. Min. Og Fernandes, Sexta Turma, julgado em 24.06.2025; STJ, AgRg no AREsp 2.896.438/CE, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 05.08.2025.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ERNAN SANTANA AMORIM contra decisão monocrática que negou provimento ao agravo, diante da constatada intempestividade do recurso especial (fls. 2.488-2.491).
+O agravante sustenta, em síntese, que a decisão agravada carece de reforma, pois a insurgida intempestividade do recurso especial decorreu, exclusivamente, de mera falha técnica no sistema eletrônico do Tribunal local, a qual o induziu a erro quando do protocolo recursal (fls. 2.506-2.523).
+Nestes termos, requer a reconsideração da decisão agravada ou, subsidiariamente, remessa do feito para julgamento pela Sexta Turma, a fim de que seja afastada a intempestividade do recurso especial, seguida do seu regular processamento e provimento (fls. 2.509).
+O Ministério Público Federal manifestou ciência da decisão agravada (fl. 2.502).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. CONSTATAÇÃO. FALHA TÉCNICA NO SISTEMA ELETRÔNICO DO TRIBUNAL LOCAL. NÃO COMPROVAÇÃO. EXTEMPORANEIDADE DO RECURSO ESPECIAL MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. CASO EM EXAME
+1. Trata-se de agravo regimental interposto contra decisão monocrática que negou provimento ao agravo inicial, em razão da constatada intempestividade do recurso especial.
+2. Em suas razões, o agravante sustenta que a decisão agravada carece de reforma, pois a apontada intempestividade do apelo especial decorreu, exclusivamente, de falha técnica no sistema eletrônico do Tribunal estadual, a qual o induziu a erro quando do respectivo protocolo.
+3. Nestes termos, requer a reconsideração da decisão agravada ou, subsidiariamente, remessa do feito para julgamento pela Sexta Turma, a fim de que seja afastada a intempestividade do recurso especial, seguida do seu regular processamento e provimento.
+II. QUESTÃO EM DISCUSSÃO
+4. A questão em discussão consiste em saber se a mera alegação de falha técnica no sistema eletrônico do Tribunal local, não regularmente comprovada, é suficiente - à luz dos princípios da cooperação processual e da boa-fé objetiva - para se afastar a intempestividade do recurso especial.
+III. RAZÕES DE DECIDIR
+5. A jurisprudência trilhada pela Terceira Seção desta Corte admite, em hipóteses excepcionais, a mitigação da intempestividade recursal quando (efetivamente) comprovado pelo insurgente erro de informação no sistema eletrônico do tribunal, em homenagem aos princípios da boa-fé e da confiança.
+6. Apesar da errônea informação constante do sistema eletrônico do tribunal local não poder ser atribuída ao jurisdicionado, este Tribunal Superior tem compreendido como insuficiente a mera apresentação de capturas de tela ou imagens de páginas da internet para demonstrar (eventual) falha técnica determinante na contagem do prazo recursal.
+7. Na espécie, o agravante não comprovou a alegada falha no sistema eletrônico do Tribunal local, sendo insuficiente, portanto, a captura do espelho processual eletrônico local para se afastar a intempestividade do recurso especial.
+8. O prazo para interposição de recurso especial é de 15 (quinze) dias corridos, nos termos dos arts. 994, VI, e 1.003, § 5º, ambos do CPC, c/c o art. 798 do CPP. Nesse cenário, o prazo recursal iniciou-se em 09/07/2024 e encerrou-se em 23/07/2024, sendo o recurso especial interposto apenas em 24/07/2024, de modo evidenciar sua  não convalidada  intempestividade.
+9. Panorama recursal não amparado por fundamentos novos que justifica a manutenção da decisão agravada.
+IV. DISPOSITIVO E TESE
+10. Resultado do Julgamento: Agravo regimental desprovido.
+Tese de julgamento: A mera alegação de falha técnica no sistema eletrônico do Tribunal local, não comprovada documentalmente, é insuficiente - à luz dos princípios da cooperação processual e da boa-fé objetiva - para se afastar a intempestividade do recurso especial.
+Dispositivos relevantes citados: CPC, art. 994, VI; CPC, art. 1.003, § 5º; CPP, art. 798.
+Jurisprudência relevante citada: STJ, AgRg no AREsp 2.740.557/PB, Rel. Min. Otávio de Almeida Toledo, Sexta Turma, julgado em 10.12.2024; STJ, AgRg nos EAREsp 2.487.289/PR, Rel. Min. Maria Marluce Caldas, Terceira Seção, julgado em 08.10.2025; STJ, AgRg no AREsp 2.838.380/ES, Rel. Min. Carlos Cini Marchionatti, Quinta Turma, julgado em 12.08.2025; STJ, AgRg no REsp 2.140.987/PR, Rel. Min. Og Fernandes, Sexta Turma, julgado em 24.06.2025; STJ, AgRg no AREsp 2.896.438/CE, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 05.08.2025.
+VOTO
+Presentes os requisitos de admissibilidade, conheço do agravo regimental.
+No mérito, a pretensão recursal não merece acolhimento.
+Em juízo de sustentação, sobre questionada intempestividade do recurso especial pelo agravante, a decisão insurgida consignou, de forma clara e expressa, " a  data eventualmente sugerida pelo sistema processual eletrônico não o exime de interpor o recurso no prazo previsto em lei  ..  (AgRg no AREsp n. 2.740.557/PB, relator Ministro Otávio de Almeida Toledo  Desembargador Convocado do TJSP , Sexta turma, julgado em 10/12/2024, DJEN de 16/12/2024)" (fl. 2.490).
+Com efeito, não se desconhece esta Relatoria que a jurisprudência trilhada pela Terceira Seção desta Corte,  a dmite, em hipóteses excepcionais, a mitigação da intempestividade quando comprovado erro de informação no sistema eletrônico do tribunal, em homenagem aos princípios da boa-fé e da confiança" (AgRg nos EAREsp n. 2.487.289/PR, relatora Ministra Maria Marluce Caldas, Terceira Seção, julgado em 8/10/2025, DJEN de 14/10/2025), providência recursal não satisfeita pelo ora agravante às fls. 2506-2.523, tampouco às fls. 2.453-2.457.
+A propósito, noutros casos análogos , o Superior Tribunal de Justiça fixou a seguinte compreensão:
+A alegação de erro induzido pelo sistema eletrônico deixou de ser comprovada por documento apto, sendo insuficiente para afastar a intempestividade. A jurisprudência do STJ exige demonstração efetiva de falha no sistema para considerar a tempestividade do recurso, o que não ocorreu no presente caso (AgRg no AREsp n. 2.838.380/ES, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 12/8/2025, DJEN de 18/8/2025, grifamos).
+Embora o equívoco na indicação do termo final do prazo recursal, quando decorrente exclusivamente de informação fornecida pelo sistema eletrônico do Tribunal, não possa ser atribuído à parte recorrente, a mera apresentação, nas razões recursais, de captura de tela de página extraída da internet não se mostra suficiente para comprovar a falha do sistema, conforme já assentado pelo Superior Tribunal de Justiça (AgRg no REsp n. 2.140.987/PR, relator Ministro Og Fernandes, Sexta Turma, julgado em 24/6/2025, DJEN de 30/6/2025, grifamos).
+A parte recorrente não comprovou a alegada falha no sistema e-SAJ, sendo insuficiente a apresentação de capturas de tela ou imagens de páginas da internet para demonstrar erro na contagem do prazo processual. A jurisprudência do Superior Tribunal de Justiça exige a comprovação documental idônea para afastar a intempestividade de recurso especial, não bastando alegações sem suporte nos autos (AgRg no AREsp n. 2.896.438/CE, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 5/8/2025, DJEN de 15/8/2025).
+Conforme já assentado na decisão agravada, "o prazo para interposição de recurso especial é de 15 (quinze) dias corridos, nos termos do art. 994, VI, c/c art. 1.003, § 5º, do Código de Processo Civil, aplicável ao processo penal por força do art. 798 do Código de Processo Penal" (fl. 2.489).
+Na espécie, "o acórdão que julgou os embargos declaratórios foi disponibilizado por meio de intimação eletrônica no dia 04/07/2024, com registro de ciência pelo sistema em 08/07/2024, iniciando-se a contagem do prazo recursal no primeiro dia útil posterior, ou seja, em 09/07/2024" (fl. 2.489).
+Assim, por se tratar "de processo criminal, o prazo processual flui de forma contínua e peremptória", de modo que o cômputo de 15 (quinze) dias "se encerrou no dia 23/07/2024. Contudo, o recurso especial foi interposto apenas em 24/07/2024" (fl. 2.489), de modo evidenciar sua  não convalidada  intempestividade.
+Em conclusão, como o caso em exame não se afigura como excepcional: "A perda do prazo recursal constitui vício insanável, insuscetível de flexibilização, conforme orientação consolidada" (AgRg nos EAREsp n. 2.487.289/PR, relatora Ministra Maria Marluce Caldas, Terceira Seção, julgado em 8/10/2025, DJEN de 14/10/2025).
+Panorama recursal não amparado por fundamentos "novos" que justifica a manutenção da decisão (monocrática) ora ag ravada.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
