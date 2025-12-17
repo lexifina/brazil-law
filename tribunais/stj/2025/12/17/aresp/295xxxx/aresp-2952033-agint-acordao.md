@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/12/2025 a 17/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Afrânio Vilela, Francisco Falcão, Maria Thereza de Assis Moura e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. PRESCRIÇÃO TRIBUTÁRIA. RECONHECIMENTO DE PARCELAMENTOS COMO CAUSA INTERRUPTIVA. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há negativa de prestação jurisdicional quando o Tribunal de origem se manifesta sobre todos os aspectos relevantes ao deslinde da causa, com argumentação concreta e suficiente, sendo desnecessário rebater, um a um, os argumentos suscitados pelas partes.
+2. No mérito, a Corte de origem fixou premissas fáticas quanto às datas de constituição dos créditos, ao ajuizamento da execução fiscal e à efetivação da citação, bem como reconheceu a ocorrência de parcelamentos sucessivos aptos a interromper a prescrição.
+3. A desconstituição dessas premissas demanda reexame do conjunto fático-probatório, providência vedada em recurso especial, por força da Súmula n. 7/STJ.
+4. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno, interposto por GRUPO OK CONSTRUCOES E INCORPORACOES LTDA, contra decisão por mim proferida, que conheceu do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento (fls. 285-291).
+Alega a parte agravante, em suma, negativa de prestação jurisdicional (art. 1.022, inciso II, do Código de Processo Civil) e inaplicabilidade da Súmula n. 7/STJ, sustentando: (i) omissão do Tribunal de origem quanto à origem, forma e data dos alegados parcelamentos, bem como quanto à prova de pedido do contribuinte versus eventual parcelamento de ofício; (ii) insuficiência das telas do sistema SITAF para comprovar causa interruptiva da prescrição, por não registrarem pedido de parcelamento, citando precedentes do Tribunal de Justiça do Distrito Federal e Territórios; (iii) tratar-se de reenquadramento jurídico dos fatos, sem necessidade de revolver provas.
+Não houve apresentação das contrarrazões, conforme certidão de decurso do prazo à fl. 348.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. PRESCRIÇÃO TRIBUTÁRIA. RECONHECIMENTO DE PARCELAMENTOS COMO CAUSA INTERRUPTIVA. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há negativa de prestação jurisdicional quando o Tribunal de origem se manifesta sobre todos os aspectos relevantes ao deslinde da causa, com argumentação concreta e suficiente, sendo desnecessário rebater, um a um, os argumentos suscitados pelas partes.
+2. No mérito, a Corte de origem fixou premissas fáticas quanto às datas de constituição dos créditos, ao ajuizamento da execução fiscal e à efetivação da citação, bem como reconheceu a ocorrência de parcelamentos sucessivos aptos a interromper a prescrição.
+3. A desconstituição dessas premissas demanda reexame do conjunto fático-probatório, providência vedada em recurso especial, por força da Súmula n. 7/STJ.
+4. Agravo interno não provido.
+VOTO
+Não obstante os combativos argumentos da parte agravante, as razões deduzidas neste agravo interno não são aptas a desconstituir os fundamentos da decisão atacada, que merece ser mantida
+Conforme bem fundamentado, na decisão agravada, o acórdão recorrido não possui as omissões suscitadas pela parte recorrente. Ao revés, o Tribunal a quo se manifestou sobre todos os aspectos importantes ao deslinde do feito, adotando argumentação concreta e que satisfaz o dever de fundamentação das decisões judiciais.
+Aliás, consoante pacífica jurisprudência das Cortes de Vértice, o Julgador não está obrigado a rebater, individualmente, todos os argumentos suscitados pelas partes, sendo suficiente que demonstre, fundamentadamente, as razões do seu convencimento.
+Como se sabe, " a  omissão somente será considerada quando a questão seja de tal forma relevante que deva o julgador se pronunciar" (AgInt nos EDcl no REsp n. 2.124.369/RJ, relator Ministro Francisco Falcão, Segunda Turma, julgado em 7/10/2024, DJe de 9/10/2024).
+Com efeito, " n ão configura ofensa ao art. 1.022 do CPC/2015 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pelo recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia" (AgInt no AREsp n. 2.448.701/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 19/8/2024, DJe de 2/9/2024; sem grifos no original).
+Vale dizer: "o órgão julgador não fica obrigado a responder um a um os questionamentos da parte se já encontrou motivação suficiente para fundamentar a decisão" (AgInt no REsp n. 2.018.125/SC, relator Ministro Francisco Falcão, Segunda Turma, julgado em 10/9/2024, DJe de 12/9/2024).
+Dessa forma, considerando-se a fundamentação do acórdão recorrido e os argumentos apresentados pela parte recorrente, ora agravante, concluiu-se que o acórdão recorrido não possui as omissões suscitadas.
+No mérito, a Corte a quo, com base no acervo fático-probatório dos autos, adotou os seguintes fundamentos (fls. 98-103; sem grifo no original):
+Na hipótese, os créditos tributários impugnados foram constituídos em 16/01/1993 e entre 10/07/2003 e 18/07/2006 (ID 15114278), e a execução fiscal foi ajuizada em 29/11/2007 (ID 15114270). A despeito de não se ter notícia do despacho de citação, esta foi efetivamente realizada em 12/02/2009 (ID 15114372).
+Com relação ao crédito constituído em 16/01/1993, único anterior ao prazo de cinco anos a que se refere o art. 174 do CTN, "de acordo com a tela apresentada no ID147132974, tal CDA passou por diversos parcelamentos em 1993/1999/2002/2010", o que interrompe o prazo prescricional (ID186072284 e ID147132974).
+E se registra:
+" ..  o exercício do direito de ação pelo Fisco, por intermédio de ajuizamento da execução fiscal, conjura a alegação de inação do credor, revelando-se incoerente a interpretação segundo a qual o fluxo do prazo prescricional continua a escoar-se, desde a constituição definitiva do crédito tributário, até a data em que se der o despacho ordenador da citação do devedor (ou até a data em que se der a citação válida do devedor, consoante a anterior redação do inciso I, do parágrafo único, do artigo 174, do CTN).  ..  A interrupção da prescrição retroagirá à data da propositura da ação." Se a interrupção retroage à data da propositura da ação, isso significa que é a propositura, e não a citação, que interrompe a prescrição. Nada mais coerente, posto que a propositura da ação representa a efetivação do direito de ação, cujo prazo prescricional perde sentido em razão do seu exercício, que será expressamente reconhecido pelo juiz no ato da citação. Nesse caso, o que ocorre é que o fator conduta, que é a omissão do direito de ação, é desqualificado pelo exercício da ação, fixando-se, assim, seu termo consumativo. Quando isso ocorre, o fator tempo torna-se irrelevante, deixando de haver um termo temporal da prescrição.  ..  Destarte, a propositura da ação constitui o dies ad quem do prazo prescricional e, simultaneamente, o termo inicial para sua recontagem sujeita às causas interruptivas previstas no artigo 174, parágrafo único, do CTN" (R Esp n. 1.120.295/SP, relator Ministro Luiz Fux, Primeira Seção, julgado em 12/5/2010, DJe de 21/5/2010).
+Diante da fundamentação acima exposta, é notório que os argumentos utilizados pela parte recorrente somente poderiam ter a sua procedência verificada, se possível ao STJ infirmar a conclusão de que o crédito tributário, objeto da CDA controvertida, não restou submetido a "diversos parcelamentos em 1993/1999/2002/2010", o que só poderia ocorrer mediante necessário reexame de matéria fático-probatório.
+Todavia, não cabe a esta Corte Superior, a fim de alcançar conclusão diversa, reavaliar todo o conjunto de fatos e provas da causa, conforme preceitua o enunciado da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"). Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TRIBUTÁRIO.  ..  REANÁLISE QUE DEMANDA O REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. ALEGAÇÃO DE PRESCRIÇÃO.  ..  AGRAVO INTERNO DESPROVIDO.
+ ..
+2. Aplicação do óbice da Súmula 7/STJ quando, para o acolhimento da tese versada no recurso especial, é necessário proceder à análise dos elementos probatórios produzidos ao longo da demanda.
+ ..
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.682.571/SC, relator Ministro Marco Aurélio Bellizze, Segunda Turma, julgado em 19/2/2025, DJEN de 26/2/2025.)
+PROCESSUAL CIVIL. NA ORIGEM: TRIBUTÁRIO. EMBARGOS À EXECUÇÃO. MULTA PUNITIVA. INCIDÊNCIA DA TAXA SELIC SOBRE A MULTA APLICADA. IPCA-E. NESTA CORTE NÃO SE CONHECEU DO RECURSO. AGRAVO INTERNO. ANÁLISE DAS ALEGAÇÕES. MANUTENÇÃO DA DECISÃO RECORRIDA QUE NEGOU PROVIMENTO AO RECURSO ESPECIAL DA EMPRESA E DEU PROVIMENTO AO RECURSO ESPECIAL DA FAZENDA NAC IONAL.
+ ..
+III - No tocante a suposta ofensa ao art. 1.022 do CPC, pelo Tribunal a quo, não se vislumbra a alegada omissão da questão jurídica apresentada pela contribuinte, visto que houve fundamentação adequada para afastar os argumentos relacionados à prescrição, à liquidez da CDA e à incidência de juros sobre a multa.
+Nesse panorama, a oposição dos embargos declaratórios caracterizou, tão somente, a irresignação da embargante diante de decisão contrária aos seus interesses, o que não viabiliza o referido recurso.
+ ..
+V - Acerca da alegada prescrição tributária, como dito na decisão ora agravada, o Tribunal de origem, ao apreciar o conteúdo fático-probatório exposto nos autos, concluiu que o período discutido foi objeto de impugnação na seara administrativa, de modo que o crédito tributário correspondente teve a sua exigibilidade suspensa, impedindo o transcurso do prazo prescricional. Com efeito, a reapreciação da questão, na atual fase processual, exigiria o revolvimento do contexto fático-probatório, que encontra óbice na Súmula n. 7/STJ.
+ ..
+XIV - Agravo interno improvido.
+(AgInt no REsp n. 2.177.264/PE, relator Ministro Francisco Falcão, Segunda Turma, julgado em 12/2/2025, DJEN de 17/2/2025.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. ACÓRDÃO DO TCU. PRESCRIÇÃO. AUSÊNCIA DE PREQUESTIONAMETO. MATÉRIA FÁTICA. SÚMULA 7 DO STJ. RECURSO NÃO PROVIDO.
+ ..
+4. Embora a prescrição seja matéria de ordem pública, o STJ entende que a matéria precisa cumprir o requisito do prequestionamento, o que não houve no caso em tela. Nesse sentido: AgInt no AREsp n. 2.479.837/PB, Rel. Min. Francisco Falcão, Segunda Turma, DJe de 12/6/2024 e AgInt no AREsp n. 2.347.621/SP, Rel. Min. Herman Benjamin, Segunda Turma, DJe de 18/12/2023.
+5. Ademais, a análise da ocorrência ou não da prescrição demanda o revolvimento da matéria probatória, o que não é possível em Recurso Especial, pois incide a Súmula 7 do STJ. A propósito: AgInt no AREsp n. 2.557.913/DF, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe de 27/6/2024 e AgInt no AREsp n. 2.406.752/RJ, Rel. Min. Herman Benjamin, Segunda Turma, DJe de 20/12/2023.
+6. Agravo Interno não provido.
+(AgInt no REsp n. 2.142.794/PB, relator Ministro Herman Benjamin, Segunda Turma, julgado em 19/8/2024, DJe de 22/8/2024.)
+Diante disso, verifico que a parte agravante não conseguiu desconstituir os fundamentos da decisão agravada, que deve ser mantida, ante a inexistência de negativa de prestação jurisdicional e a incidência do óbice da Súmula n. 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É o voto
