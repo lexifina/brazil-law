@@ -1,0 +1,67 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/12/2025 a 17/12/2025, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Carlos Pires Brandão.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. FUNDAMENTAÇÃO PER RELATIONEM. REFORMATIO IN PEJUS. DOSIMETRIA DA PENA. PRESCRIÇÃO RETROATIVA. DECISÃO MONOCRÁTICA. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que negou provimento a recurso especial, mantendo acórdão que rejeitou alegações de nulidade por fundamentação deficiente, reformatio in pejus, dosimetria desproporcional, ausência de reconhecimento de prescrição retroativa e ofensa ao princípio da colegialidade.
+2. O agravante pleiteia a reconsideração da decisão ou, subsidiariamente, o provimento colegiado para anulação/reforma dos acórdãos e redimensionamento da pena, com reconhecimento da prescrição.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se: (i) a fundamentação per relationem configura nulidade; (ii) houve reformatio in pejus nos embargos de declaração; (iii) a dosimetria da pena foi desproporcional; (iv) a prescrição retroativa deveria ser reconhecida; e (v) a decisão monocrática violou o princípio da colegialidade.
+III. Razões de decidir
+4. A fundamentação per relationem é válida, desde que permita a compreensão dos motivos da decisão, como ocorreu no caso, em que a Corte estadual analisou as teses defensivas e acrescentou considerações próprias.
+5. Não houve reformatio in pejus, pois a correção de erro material nos embargos de declaração resultou em pena mais benéfica ao agravante, conforme autorizado pelo art. 619 do CPP.
+6. A dosimetria da pena foi proporcional, com aumento de 6 meses por circunstância judicial negativa, em conformidade com o critério de 1/8 do intervalo entre as penas mínima e máxima do tipo penal.
+7. A prescrição retroativa não se aplica, pois a pena final de 2 anos e 11 meses não permite a redução do prazo prescricional para menos de 8 anos, conforme o art. 109, IV, do Código Penal.
+8. O julgamento monocrático do REsp ocorreu com base em permissivo regimental e enfrentou o mérito das teses defensivas, não configurando violação ao princípio da colegialidade.
+IV. Dispositivo e tese
+9. Resultado do Julgamento: Agravo regimental desprovido.
+Tese de julgamento:
+1. A fundamentação per relationem é válida quando permite a compreensão dos motivos da decisão e é complementada por considerações próprias do julgador.
+2. A correção de erro material em embargos de declaração, que resulta em pena mais benéfica ao réu, não configura reformatio in pejus.
+3. A dosimetria da pena é proporcional quando fundamentada em critérios objetivos, como a fração de 1/8 do intervalo entre as penas mínima e máxima do tipo penal.
+4. A prescrição retroativa não se aplica quando a pena final impede a redução do prazo prescricional para menos de 8 anos, conforme o art. 109, IV, do Código Penal.
+5. A decisão monocrática proferida com base em permissivo regimental e que enfrenta o mérito das teses defensivas não viola o princípio da colegialidade.
+Dispositivos relevantes citados: CPP, arts. 315, § 2º, III; 617; 619; 258, § 3º; RISTJ, art. 255, § 4º, II; CP, art. 109, IV.
+Jurisprudência relevante citada: Não mencionada no documento.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Daniel Ribeiro de Amorim Brandão contra decisão monocrática (fls. 732-736) que negou provimento ao recurso especial.
+O agravante sustenta, em síntese, nulidade do acórdão por fundamentação deficiente, com uso indevido de técnica per relationem; reformatio in pejus em embargos de declaração opostos exclusivamente pela defesa; dosimetria desproporcional com adoção da fração de 1/8 e acréscimo de 6 meses por vetorial; reconhecimento da prescrição retroativa condicionada à redução da pena para patamar igual ou inferior a 2 anos; e ofensa ao princípio da colegialidade por ausência de permissivo para decisão monocrática (fls. 742-765).
+Ao final, requer a reconsideração da decisão ou, subsidiariamente, seu provimento colegiado para anulação/reforma dos acórdãos e redimensionamento da pena, com reconhecimento da prescrição.
+Devidamente intimada, a parte agravada não apresentou impugnação específica ao agravo regimental. Constam nos autos contrarrazões ao recurso especial (fls. 619-631) e parecer do Ministério Público Federal pelo desprovimento (fls. 716-726).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. FUNDAMENTAÇÃO PER RELATIONEM. REFORMATIO IN PEJUS. DOSIMETRIA DA PENA. PRESCRIÇÃO RETROATIVA. DECISÃO MONOCRÁTICA. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que negou provimento a recurso especial, mantendo acórdão que rejeitou alegações de nulidade por fundamentação deficiente, reformatio in pejus, dosimetria desproporcional, ausência de reconhecimento de prescrição retroativa e ofensa ao princípio da colegialidade.
+2. O agravante pleiteia a reconsideração da decisão ou, subsidiariamente, o provimento colegiado para anulação/reforma dos acórdãos e redimensionamento da pena, com reconhecimento da prescrição.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se: (i) a fundamentação per relationem configura nulidade; (ii) houve reformatio in pejus nos embargos de declaração; (iii) a dosimetria da pena foi desproporcional; (iv) a prescrição retroativa deveria ser reconhecida; e (v) a decisão monocrática violou o princípio da colegialidade.
+III. Razões de decidir
+4. A fundamentação per relationem é válida, desde que permita a compreensão dos motivos da decisão, como ocorreu no caso, em que a Corte estadual analisou as teses defensivas e acrescentou considerações próprias.
+5. Não houve reformatio in pejus, pois a correção de erro material nos embargos de declaração resultou em pena mais benéfica ao agravante, conforme autorizado pelo art. 619 do CPP.
+6. A dosimetria da pena foi proporcional, com aumento de 6 meses por circunstância judicial negativa, em conformidade com o critério de 1/8 do intervalo entre as penas mínima e máxima do tipo penal.
+7. A prescrição retroativa não se aplica, pois a pena final de 2 anos e 11 meses não permite a redução do prazo prescricional para menos de 8 anos, conforme o art. 109, IV, do Código Penal.
+8. O julgamento monocrático do REsp ocorreu com base em permissivo regimental e enfrentou o mérito das teses defensivas, não configurando violação ao princípio da colegialidade.
+IV. Dispositivo e tese
+9. Resultado do Julgamento: Agravo regimental desprovido.
+Tese de julgamento:
+1. A fundamentação per relationem é válida quando permite a compreensão dos motivos da decisão e é complementada por considerações próprias do julgador.
+2. A correção de erro material em embargos de declaração, que resulta em pena mais benéfica ao réu, não configura reformatio in pejus.
+3. A dosimetria da pena é proporcional quando fundamentada em critérios objetivos, como a fração de 1/8 do intervalo entre as penas mínima e máxima do tipo penal.
+4. A prescrição retroativa não se aplica quando a pena final impede a redução do prazo prescricional para menos de 8 anos, conforme o art. 109, IV, do Código Penal.
+5. A decisão monocrática proferida com base em permissivo regimental e que enfrenta o mérito das teses defensivas não viola o princípio da colegialidade.
+Dispositivos relevantes citados: CPP, arts. 315, § 2º, III; 617; 619; 258, § 3º; RISTJ, art. 255, § 4º, II; CP, art. 109, IV.
+Jurisprudência relevante citada: Não mencionada no documento.
+VOTO
+Presentes os requisitos de admissibilidade, conheço do recurso interposto.
+No mérito, a pretensão recursal não merece acolhimento.
+Quanto à alegação de fundamentação deficiente por uso da técnica per relationem, a decisão agravada assentou: "A jurisprudência desta Corte Superior é pacífica e reiterada no sentido de admitir a utilização da técnica de fundamentação per relationem, ou por referência, pela qual o julgador adota como razões de decidir os argumentos de outras peças processuais, como a sentença ou o parecer ministerial, desde que tal medida permita a compreensão dos motivos que levaram à decisão. Essa prática não implica, por si só, ausência de fundamentação ou negativa de prestação jurisdicional, mormente quando o órgão julgador, ao fazê-lo, demonstra concordância com as conclusões ali expostas e acrescenta, ainda que de forma sucinta, suas próprias considerações. No caso dos autos, verifica-se que o Tribunal de origem, ao julgar o recurso de apelação, não apenas transcreveu trechos da sentença, mas também analisou as teses defensivas e concluiu, de forma motivada, pela manutenção da valoração negativa das circunstâncias judiciais, considerando- as idôneas e baseadas em elementos concretos extraídos do processo." A Corte estadual "anuiu expressamente aos fundamentos do juízo singular, entendendo-os suficientes para rechaçar os pleitos defensivos" (decisão monocrática). O agravante invoca o art. 315, § 2º, III, do CPP e o prejuízo ao duplo grau, mas a decisão monocrática afirma a existência de motivação própria e acréscimo argumentativo, repelindo a nulidade.
+No que concerne à reformatio in pejus nos embargos de declaração, a decisão agravada reconstituiu a sequência decisória e concluiu: "A sentença condenatória fixou a pena do Recorrente em 03 (três) anos de reclusão.  Opostos os embargos de declaração pela Defesa, a Corte Estadual, no exercício de sua função integrativa, procedeu à correção dos erros materiais e supriu a omissão, conforme autoriza o artigo 619 do Código de Processo Penal. Ao fazê-lo, retificou o acórdão para espelhar a realidade dos autos, restabelecendo a análise da agravante e, ao final, readequando a dosimetria para fixar a pena definitiva em 02 (dois) anos e 11 (onze) meses de reclusão.  A pena final de 02 (dois) anos e 11 (onze) meses, fixada após o julgamento dos aclaratórios, é inequivocamente mais benéfica ao Recorrente do que a sanção original.  A correção de erro material, ainda que realizada de ofício ou em sede de embargos da defesa, não configura reformatio in pejus quando não resulta em prejuízo para o réu em comparação com a decisão originalmente recorrida." A insurgência ancorada no art. 617 do CPP não se compatibiliza com o parâmetro estabelecido na decisão agravada (sentença), que aponta resultado final mais benéfico.
+No tocante à dosimetria e ao critério de 1/8, a decisão monocrática explicitou: "Por fim, não há que se falar em desproporcionalidade no quantum de aumento da pena-base.  o juiz sentenciante, ao valorar negativamente três circunstâncias judiciais, exasperou a pena-base em 01 (um) ano e 06 (seis) meses, partindo da pena mínima de 01 (um) ano. Isso corresponde a um acréscimo de 06 (seis) meses para cada vetorial negativa. Esse montante é perfeitamente razoável e se alinha a um dos critérios adotados por esta Corte Superior, qual seja, a aplicação da fração de 1/8 sobre o intervalo entre as penas mínima (1 ano) e máxima (5 anos) cominadas ao delito, que é de 4 anos. A aplicação dessa fração (48 meses / 8) resulta exatamente em 06 meses por circunstância desfavorável." O agravante sustenta ausência de fundamentação do critério e erro aritmético, mas a decisão agravada valida a proporcionalidade pelo intervalo abstrato do tipo penal, em consonância com o entendimento acolhido no acórdão de apelação (fls. 479-491) e reafirmado nos embargos de declaração (fls. 537-543).
+Quanto à prescrição retroativa, a decisão monocrática consignou: "A alegação de prescrição da pretensão punitiva está condicionada à eventual redução da pena para patamar igual ou inferior a 02 (dois) anos. Tendo sido mantida a reprimenda final em 02 (dois) anos e 11 (onze) meses de reclusão, o prazo prescricional aplicável é de 08 (oito) anos, nos termos do artigo 109, inciso IV, do Código Penal. Considerando que entre a data do recebimento da denúncia (17/11/2014) e a publicação da sentença condenatória (17/02/2020) não transcorreu o referido lapso temporal, resta afastada a pretensão de reconhecimento da prescrição." O pedido consequencial do agravante condiciona-se ao redimensionamento da pena, não verificado.
+Por fim, quanto à colegialidade e ao permissivo regimental para decisão monocrática do recurso especial , a decisão agravada afirmou, ao iniciar o julgamento: "O recurso não merece prosperar. As teses defensivas, embora articuladas com zelo, não encontram amparo na legislação federal aplicável nem na jurisprudência consolidada deste Superior Tribunal de Justiça." O agravante menciona o art. 255, § 4º, II, do RISTJ e o art. 258, § 3º, do RISTJ, mas a decisão monocrática enfrentou o mérito e negou provimento, estando o recurso especial previamente admitido (fls. 633-635) e com parecer ministerial pelo desprovimento (fls. 716-726).
+Diante desse quadro, e consideradas as razões já apresentadas nas contrarrazões do Ministério Público estadual (fls. 619-631) e no parecer do Ministério Público Federal (fls. 716-726), não se identificam elementos capazes de infirmar os fundamentos da decisão monocrática.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto
