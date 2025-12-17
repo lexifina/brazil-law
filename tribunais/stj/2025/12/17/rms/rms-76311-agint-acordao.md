@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/12/2025 a 17/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Afrânio Vilela, Francisco Falcão, Maria Thereza de Assis Moura e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+DIREITO PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. POLICIAL MILITAR. PASSAGEM À RESERVA REMUNERADA NA GRADUAÇÃO DE PRIMEIRO SARGENTO. PRETENSÃO DE SER RECLASSIFICADO PARA TENENTE E DE RECEBER PROVENTOS SEGUNDO O POSTO DE CAPITÃO. FUNDAMENTO AUTÔNOMO E SUFICIENTE NÃO IMPUGNADO. INCIDÊNCIA ANALÓGICA DA SÚMULA N. 283 DO STF. AGRAVO INTERNO DESPROVIDO.
+1. Na origem: mandado de segurança contra suposto ato omissivo do Secretário de Administração do Estado da Bahia que diz respeito à promoção do posto de graduação da Polícia Militar. Requer assim, seja concedida a segurança "para condenar, de acordo com a Lei de nº 7.990/2001, Estatuto dos Policiais Militares da Bahia, garantido o direito a promoção ao posto imediato de Tenente PM, com os respectivos vencimentos ao posto de Capitão PM, seja continua ou temporária, bem como, na obrigação de pagar as diferenças mensais retroativas devidas". Segurança denegada.
+2. Nesta Corte, decisão que não conheceu do recurso ordinário em mandado de segurança.
+3. No caso concreto, o detido exame das razões do recurso ordinário evidencia que a parte recorrente não desenvolveu argumentação visando desconstituir os fundamentos do aresto recorrido, no sentido de que "não restou comprovado nos autos que o Impetrante cumpriu os requisitos para ser promovido ao posto de Tenente, quando ainda em atividade". Incidência da Súmula n. 283 do STF.
+4. Não tendo a parte agravante logrado êxito em infirmar os fundamentos que nortearam a decisão ora agravada, impõe-se a sua manutenção, em todos os seus termos.
+5. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por OLÍCIO RIBEIRO BORGES contra decisão monocrática de minha relatoria que não conheceu do recurso ordinário em mandado de segurança (fls. 482-486).
+Nas razões recursais, a parte agravante defende a reforma da decisão ora impugnada, pelo seguinte argumento (fls. 494-503):
+Com a edição da Lei nº 7.145/97, que derrogou a Lei nº 3.933/81, o Agravante adquiriu o direito a ser promovido ao Posto de 1º Tenente PM, pois que, na vigência da Lei derrogante, já reunia os requisitos para a promoção ao nível hierárquico superior, no caso, 1º Tenente PM e, não, 1º Sargento PM, como foi feito, haja vista que na data da edição da Lei nº 11.356, de 06 de janeiro de 2009, contava com 08 na graduação de 1º Sargento PM, sendo que o interstício nessa graduação para concorrer a promoção é de oitenta e quatro meses (7 anos), fazendo jus a promoção ao Posto de 1º Tenente PM, pois que tinha o Recorrente toda a sua vida funcional regida pela Lei nº 7.145/97, inclusive com relação a promoção ao Posto imediatamente superior ao seu, que era 1º Tenente PM e, não, Subtenente, como foi promovido.
+Se o policial militar quando estava na Ativa ocupava a Graduação de Subtenente PM e se este grau hierárquico foi extinto por dispositivo legal, cristalino se demonstra que a sua reclassificação deveria ocorrer para o Posto de 1º Tenente PM.
+ ..
+Ao completar 30 (trinta) anos de efetivo serviço e com a SUPRESSÃO da graduação de Subtenente PM, o policial militar paradigma ADQUIRIU O DIREITO de ser RECLASSIFICADO ao Posto de 1º Tenente PM, com os proventos calculados sobre o Posto imediatamente superior, Capitão PM.
+Intimada, a parte Agravada deixou de apresentar contraminuta ao agravo (fl. 761).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. POLICIAL MILITAR. PASSAGEM À RESERVA REMUNERADA NA GRADUAÇÃO DE PRIMEIRO SARGENTO. PRETENSÃO DE SER RECLASSIFICADO PARA TENENTE E DE RECEBER PROVENTOS SEGUNDO O POSTO DE CAPITÃO. FUNDAMENTO AUTÔNOMO E SUFICIENTE NÃO IMPUGNADO. INCIDÊNCIA ANALÓGICA DA SÚMULA N. 283 DO STF. AGRAVO INTERNO DESPROVIDO.
+1. Na origem: mandado de segurança contra suposto ato omissivo do Secretário de Administração do Estado da Bahia que diz respeito à promoção do posto de graduação da Polícia Militar. Requer assim, seja concedida a segurança "para condenar, de acordo com a Lei de nº 7.990/2001, Estatuto dos Policiais Militares da Bahia, garantido o direito a promoção ao posto imediato de Tenente PM, com os respectivos vencimentos ao posto de Capitão PM, seja continua ou temporária, bem como, na obrigação de pagar as diferenças mensais retroativas devidas". Segurança denegada.
+2. Nesta Corte, decisão que não conheceu do recurso ordinário em mandado de segurança.
+3. No caso concreto, o detido exame das razões do recurso ordinário evidencia que a parte recorrente não desenvolveu argumentação visando desconstituir os fundamentos do aresto recorrido, no sentido de que "não restou comprovado nos autos que o Impetrante cumpriu os requisitos para ser promovido ao posto de Tenente, quando ainda em atividade". Incidência da Súmula n. 283 do STF.
+4. Não tendo a parte agravante logrado êxito em infirmar os fundamentos que nortearam a decisão ora agravada, impõe-se a sua manutenção, em todos os seus termos.
+5. Agravo interno desprovido.
+VOTO
+Não obstante os combativos argumentos da parte agravante, as razões deduzidas neste agravo interno não são aptas a desconstituir os fundamentos da decisão impugnada, que merece ser mantida.
+Na origem, trata-se de mandado de segurança contra suposto ato omissivo do Secretário de Administração do Estado da Bahia que diz respeito à promoção do posto de graduação da Polícia Militar. Requer assim, seja concedida a segurança "para condenar, de acordo com a Lei de nº 7.990/2001, Estatuto dos Policiais Militares da Bahia, garantido o direito a promoção ao posto imediato de Tenente PM, com os respectivos vencimentos ao posto de Capitão PM, seja continua ou temporária, bem como, na obrigação de pagar as diferenças mensais retroativas devidas".
+Conforme disposto na decisão recorrida, o acórdão recorrido, quanto à pretensão de assumir o posto de Tenente, está assentado no seguinte fundamento, que é suficiente, por si só, para dar suporte à conclusão do Tribunal de origem:
+Considerando as informações trazidas com a Exordial, tem-se que o Impetrante fora admitido em 18.09.1972, sendo promovido a 1º Sargento, vindo a ser transferido para a reserva remunerada em 07.01.2004, com proventos calculados sob o posto de 1º Tenente - BGO n. 193 (ID 61135314).
+A pretensão de assumir o Posto de Tenente, todavia, não lhe seria possível, pois o Impetrante não cumpria os requisitos necessários para a referida promoção, como se verá adiante.
+Há que se ressaltar a forma definida pela legislação para a extinção das graduações de Aspirante a Oficial, Subtenente e Cabo, por força do disposto no art. 4º, da Lei n. 7.145/1997 e entrada em vigor da Lei n. 7.990/2001.
+O art. 220, da Lei Estadual n. 7.990/2001 estabelece que "até que sejam extintas as graduações de Subtenente PM e Cabo PM, na forma prevista na Lei nº 7.145, de 19 de agosto de 1997, serão as mesmas consideradas como integrantes da escala hierárquica a que se refere o art. 9º, desta Lei, exclusivamente para os efeitos nela previstos.".
+Referidas graduações, por outro lado, foram reincluídas no Estatuto da Polícia Militar da Bahia por força da Lei Estadual n.º 11.356/2009, conforme se extrai das normas a seguir transcritas:
+ ..
+Não é necessário grande esforço interpretativo para se perceber que as graduações de Subtenente PM e Cabo PM não foram imediatamente extintas pelo art. 4º da Lei 7.145/1997, além do fato de que o Estatuto da Polícia Militar vigente contém regra expressa que considera tais graduações como integrantes da escala hierárquica, para os efeitos nela previstos, notadamente promoções.
+ ..
+É possível notar que por ocasião da entrada em vigor do referido Decreto, não restou comprovado nos autos que o Impetrante cumpriu os requisitos para ser promovido ao posto de Tenente, quando ainda em atividade. Senão vejamos:
+ ..
+A análise dos autos revela que o Impetrante não demonstrou ter cumprido os requisitos acima elencados no Decreto que o habilitaria à promoção para o Posto de Tenente, mormente em relação ao Curso de Formação de Oficiais Auxiliares Policiais Militares - CFOAPM.
+Devemos concluir, com base nas informações aqui expostas, que figurando o Impetrante como Primeiro Sargento e não cumprindo todos os requisitos para ingresso nos postos de Oficial PM, a sua promoção por antiguidade poderia e deveria ser feita na graduação de Subtenente, por expressa autorização do citado art. 9º, c/c o art. 220, do Estatuto da Polícia Militar do Estado da Bahia, contudo o fato não ocorreu.
+ ..
+A passagem do Impetrante para a reserva remunerada, por sua vez, se deu na função de 1º Sargento, com proventos calculados segundo a graduação de Primeiro Tenente, não estando evidenciada, por conseguinte, a prática de nenhum ato ilegal ou com abuso de poder pela Autoridade apontada como coatora.
+Importante pontuar que a jurisprudência é pacifica no sentido de que, com relação às questões previdenciárias, deve ser aplicado o princípio do tempus regit actum, segundo o qual deve ser observada a lei vigente ao tempo da reunião dos requisitos necessários para aposentação.
+ ..
+Note-se que o próprio Estatuto não traz em seu bojo nenhuma regra informando que o policial que passa à reserva remunerada é promovido para o posto ou graduação imediatamente superior. Apenas disciplina as hipóteses em que os proventos serão calculados na patente superior.
+E mais, o próprio Estatuto define que o policial passa à inatividade mantendo a Patente por ele ocupada por ocasião da jubilação.
+Considerando-se que o Impetrante não logrou, enquanto em atividade, alcançar o grau de 1º Tenente, logicamente não pode figurar atualmente neste posto, sob pena de caracterizar-se a promoção após a passagem à inatividade, o que é vedado pela própria Lei 7.990/2001 (fls. 187-197).
+O detido exame das razões do recurso ordinário, contudo, evidencia que a parte recorrente não desenvolveu argumentação visando desconstituir os fundamentos acima grifados, ou seja, não impugnou especificamente as razões de decidir.
+Portanto, incide o óbice da Súmula n. 283 do STF ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"). Nesse sentido: AgInt no AREsp n. 2.290.902/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023; AgInt no REsp n. 2.101.031/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 4/12/2023, DJe de 7/12/2023.
+Desse modo, ausente o alegado direito líquido e certo da parte recorrente.
+Assim, não tendo a parte agravante logrado êxito em infirmar os fundamentos que nortearam a decisão ora agravada, impõe-se a sua manutenção, em todos os seus termos.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
