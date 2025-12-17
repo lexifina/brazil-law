@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial interposto contra decisão que inadmitiu o recurso especial.
+Segundo a parte agravante, o recurso preenche os requisitos necessários ao conhecimento e provimento.
+Intimada nos termos do art. 1.042, § 3º, do Código de Processo Civil, a parte agravada afirmou a inexistência de requisitos ou elementos aptos a promover a alteração do julgado impugnado.
+Ouvido, o Ministério Público Federal manifestou-se pelo não provimento do agravo.
+É o relatório.
+DECIDO.
+O agravo é tempestivo, nos termos do art. 1.003, § 5º, do Código de Processo Civil.
+A análise dos argumentos recursais não indica, contudo, a existência de fundamentos que sustentem a reforma da decisão recorrida, cujos fundamentos transcrevo para que passem a fazer parte da presente decisão (e-STJ fls. 1.080-1.083):
+Sem delongas, é sabido e ressabido que para que o recurso especial seja admitido é imperioso o atendimento dos pressupostos genéricos - intrínsecos e extrínsecos -, comuns a todos os recursos, bem como daqueloutros, os específicos, cumulativos e alternativos, previstos no art. 105, III, da CF.
+Sob esse viés, em que pese a irresignação recursal tenha sido apresentada tempestivamente, em face de decisão proferida em última instância por este Tribunal de Justiça, o que traduz o exaurimento das vias ordinárias, além de preencher os demais pressupostos genéricos ao seu conhecimento, o recurso não pode ser admitido.
+Isso porque os dispositivos apontados como violados dispõem sobre a coisa julgada e o cumprimento de sentença mas essas matérias não foram, sequer, apreciadas no acórdão recorrido - que se ateve a analisar o cumprimento ou não do acordo celebrado entre as partes - nem a Corte local foi instada a fazê-lo por via de embargos declaratórios. Portanto, incidem por analogia, as e Súmulas 282 356 do : "Supremo Tribunal Federal É inadmissível o recurso extraordinário, quando não ventilada, na decisão " e "recorrida, a questão federal suscitada O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do ". prequestionamento Nesse sentido:  ..
+Ante o exposto, INADMITO o recurso especial em razão da incidência das Súmulas 282 e 356 do STF.
+No presente processo, a parte agravante afirma, em suma, que estão presentes os requisitos para o conhecimento e provimento de seu recurso.
+Ocorre, contudo, que a questão já foi enfrentada pela decisão recorrida, que analisou detidamente todas as questões jurídicas postas.
+Com efeito, a análise do teor do acórdão recorrido indica que os dispositivos tidos por violados não foram debatidos pela Corte de origem.
+É certo que, por força constitucional (art. 105, III, da CRFB/88), ao Superior Tribunal de Justiça somente é dado o julgamento em recurso especial "das causas decididas, em única ou última instância", uma vez que, presente a finalidade revisional da insurgência recursal, não se mostra viável o pronunciamento originário a respeito de matérias ainda não discutidas na origem.
+Destarte, "a falta de prequestionamento da matéria suscitada no recurso especial impede seu conhecimento, a teor da Súmula nº 282/STF." (AgInt no AREsp n. 2.582.153/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 26/8/2024, DJe de 29/8/2024.)
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. INDENIZAÇÃO SECURITÁRIA. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. VIOLAÇÃO DOS ARTS. 489 E 1022 DO CPC/15. INOCORRÊNCIA. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. SÚMULAS 5 E 7/STJ. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS 282 E 356/STF. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. DECISÃO MANTIDA.
+(..)
+5. A ausência de decisão acerca dos dispositivos legais indicados como violados e dos argumentos invocados pelo recorrente impede o conhecimento do recurso especial (súmulas 282 e 356/STF).
+6. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.228.031/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 28/8/2023, DJe de 30/8/2023.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OPERAÇÃO ENTERPRISE. PEDIDO DE RESTITUIÇÃO. BEM QUE AINDA INTERESSA AO PROCESSO. POSSIBILIDADE DE PERDIMENTO. INVIABILIDADE DO REEXAME DE FATOS E PROVAS. SÚMULA 7, STJ. TESE DE VIOLAÇÃO AO ART. 49-A, CC. FATOS CRIMINOSOS ATRIBUÍDOS AO ADMINISTRADOR DA EMPRESA. POSSIBILIDADE DE CONSTRIÇÃO DE BENS DE PESSOA JURÍDICA SUPOSTAMENTE UTILIZADA NA LAVAGEM DE CAPITAIS. PRECEDENTES. VIOLAÇÃO AO ART. 156, CPP. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 282, STF.
+I - É inviável o reexame de fatos e provas para afastar as conclusões do Tribunal a quo de que há fortes indícios de que foram utilizados recursos decorrentes de atividades criminosas para adquirir o veículo sobre o qual versa o pedido de restituição.
+Incidência da Súmula n. 7, STJ.
+II - Segundo a jurisprudência desta Corte, é possível determinar a constrição de bens de pessoas jurídicas quando houver indícios de que elas tenham sido utilizadas para a prática delitiva ou para ocultar ativos decorrentes de atividades ilícitas. Precedentes.
+III - Para que se configure o prequestionamento, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno do dispositivo legal tido como violado, a fim de que se possa, na instância especial, abrir discussão sobre a correta aplicação da lei federal.
+IV - No caso sob exame, não se verificou, a partir da leitura dos acórdãos recorridos, discussão efetiva acerca do ônus da prova e do art. 156 do Código de Processo Penal, de modo que deve ser mantido o óbice da Súmula n. 282, STF.
+Agravo regimental desprovido.
+(AgRg no AREsp 2333928 / PR, RELATOR Ministro MESSOD AZULAY NETO, QUINTA TURMA, DATA DO JULGAMENTO 04/06/2024, DATA DA PUBLICAÇÃO/FONTE DJe 07/06/2024)
+Dessa forma, "para que se tenha por satisfeito o requisito do prequestionamento, "há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal" (AgInt no AREsp 1.487.935/SP, 4ª Turma, DJe 04/02/2020)." (AgInt no REsp n. 1.815.548/AM, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 4/5/2020, DJe de 7/5/2020.)
+É certo que: "Esta Corte admite o prequestionamento implícito dos dispositivos tidos por violados, desde que os temas correspondentes tenham sido expressamente discutidos no Tribunal local (..)" (AgInt no AREsp n. 2.423.648/PE, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 11/11/2024, DJe de 13/11/2024.)
+Entretanto, para que se considere ocorrido o prequestionamento implícito, há de se ter presente, no caso concreto, a discussão da temática fático-jurídica que se pretende ver revisada nesta Corte, não se podendo cogitar de pronunciamento inaugural a respeito do enfoque pretendido pela parte recorrente em sede especial.
+Daí porque, tem-se reiterado neste colegiado que "não basta ao cumprimento do requisito do prequestionamento a mera oposição de embargos de declaração na origem." (AgInt no REsp n. 1.815.548/AM, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 4/5/2020, DJe de 7/5/2020.)
+No presente feito, a parte recorrente não logrou comprovar que o acórdão recorrido tratou dos dispositivos legais tidos por violados ou da tese jurídica ora trazida a esta Corte, de modo que "Ausente o prequestionamento, até mesmo de modo implícito, de dispositivos apontados como violados no recurso especial, incide o disposto na Súmula nº 282/STF. " (AgInt no AREsp n. 1.701.763/SC, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 6/12/2021, DJe de 13/12/2021.)
+De todo modo, para conhecer da controvérsia apresentada neste recurso, mostra-se necessário o revolvimento do acervo fático-probatório dos autos, procedimento incompatível com o entendimento firmado pela Súmula nº 7 deste Superior Tribunal de Justiça, que estabelece que: "A pretensão de simples reexame de prova não enseja recurso especial."
+De fato, presente a função uniformizadora do Recurso Especial, não se pode cogitar de seu emprego para a realização de rejulgamento do contexto fático-probatório, em atitude típica de revisão promovida por nova instância.
+Diante disso, é reiterada a jurisprudência desta Corte que assenta que "o reexame de fatos e provas (é) vedado em recurso especial pela Súmula nº 7 do STJ."(AgInt no REsp n. 2.151.760/SC, relator Ministro Humberto Martins, Terceira Turma, julgado em 9/12/2024, DJEN de 12/12/2024.)
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM RESTITUIÇÃO DE VALORES E INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7 DO STJ. RESTITUIÇÃO DE QUANTIA PAGA. CONTRATO DE COMPRA E VENDA DE IMÓVEL. RESOLUÇÃO POR CULPA DA CONSTRUTORA/VENDEDORA. DEVOLUÇÃO DA COMISSÃO DE CORRETAGEM. PRESCRIÇÃO. PRAZO TRIENAL. INAPLICABILIDADE. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA.
+1. Ação de rescisão contratual cumulada com restituição de valores e indenização por danos morais e materiais.
+2. Alterar o decidido no acórdão impugnado no que se refere às teses atinentes à alegada ilegitimidade passiva dos recorrentes no tocante à relação jurídica havida entre as partes e à delimitação de suposta responsabilidade, envolve o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+(..)
+(AgInt nos EDcl no AREsp n. 2.627.058/MG, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 11/11/2024, DJe de 13/11/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE PRODUÇÃO ANTECIPADA DE PROVAS. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. APLICAÇÃO DA SÚMULA N.º 283 DO STF, POR ANALOGIA. CERCEAMENTO DE DEFESA. NÃO CONFIGURAÇÃO. REFORMA DO JULGADO. ANÁLISE DE MATÉRIA FÁTICO-PROBATÓRIA. NÃO CABIMENTO. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. TEMA NÃO DEBATIDO PELAS INSTÂNCIAS ORDINÁRIAS. APLICAÇÃO DA SÚMULA N.º 282 DO STF. PREQUESTIONAENTO. MATÉRIA DE ORDEM PÚBLICA. NECESSIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. A falta de impugnação a fundamento suficiente para manter o acórdão recorrido acarreta o não conhecimento do recurso.
+Inteligência da Súmula n.º 283 do STF, aplicável, por analogia, ao recurso especial.
+2. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula n.º 7 do STJ.
+(..)
+(AgInt no AREsp n. 2.662.287/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 28/10/2024, DJe de 30/10/2024.)
+Não há, portanto, dúvida acerca da inaptidão do recurso especial para promover a revisão do quadro fático-probatório, viabilizando reformar da compreensão firmada pela Corte de origem acima do tema.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 2% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
