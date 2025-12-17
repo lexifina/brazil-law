@@ -1,0 +1,70 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/12/2025 a 17/12/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Thereza de Assis Moura, Marco Aurélio Bellizze, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AMBIENTAL. CUMPRIMENTO DE SENTENÇA. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO. AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO À FUNDAMENTAÇÃO. ENUNCIADO N. 182 DA SÚMULA DO STJ. AGRAVO INTERNO NÃO CONHECIDO. ALEGAÇÃO DE VÍCIOS NO ACÓRDÃO EMBARGADO. INEXISTÊNCIA.
+I - Na origem, trata-se de agravo de instrumento interposto contra a decisão que, nos autos do cumprimento de sentença em ação civil pública ajuizado pelo Ministério Público Federal, rejeitou a impugnação apresentada.
+II - No Tribunal de origem, a decisão foi mantida. Esta Corte não conheceu do agravo em recurso especial.
+III - Opostos embargos de declaração, aponta a parte embargante vícios no acórdão embargado.
+IV - Os embargos aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso.
+V - Os vícios apontados pela parte embargante, relacionados à inadmissibilidade do agravo em recurso especial, foram tratados no acórdão embargado, o que afasta a alegação de omissão.
+VI - Embargos de declaração rejeitados.
+RELATÓRIO
+Negou-se conhecimento ao agravo em recurso especial interposto por Everton Pedro Trento, com fundamento no art. 105, III, a, da CF/1988.
+O recurso especial visa reformar acórdão do Tribunal Regional Federal da 4ª Região, nos termos assim ementados:
+ADMINISTRATIVO. AMBIENTAL. CUMPRIMENTO DE SENTENÇA. AGRAVO DE INSTRUMENTO. PRAIA DA GALHETA. OCUPAÇÃO EM ÁREA DE PRESERVAÇÃO PERMANENTE. REGULARIZAÇÃO FUNDIÁRIA. INVIABILIDADE. ART. 31, § 8º, DA LEI Nº 13.465/17. RELATIVIZAÇÃO. IMPOSSIBILIDADE.
+I. Não há se falar em incompetência do ICM Bio para apreciar o Projeto de Recuperação de Área Degradada, porque (a) o órgão ambiental foi indicado pelo Ministério Público Federal, com respaldo em expressa previsão na sentença transitada em julgado, (b) a possibilidade do Ministério Público Federal apontar o órgão ambiental responsável pela apreciação do PRAD constou na sentença e não foi objeto de impugnação oportuna, operando-se a preclusão (artigo 507 do CPC), não constituindo, o cumprimento de sentença, a via processual adequada para a desconstituição do julgado, (c) a atribuição para apreciar o PRAD não se confunde com a competência do órgão licenciador, visto que se trata de providências que possuem finalidades e objetos distintos, e (d) a ação originária foi proposta com base em auto de infração lavrado pelo ICM Bio, que, na condição de agente fiscalizador e autuador, tem competência para atuar na recuperação do dano ambiental (artigo 23, incisos VI e VII, da Constituição Federal).
+II. O fato novo noticiado pelo(a) agravante, consistente na edição de legislação municipal sobre regularização fundiária (Decreto n.º 5.062/2018 do Município de Laguna), não tem o condão de alterar a ordem judicial (definitiva) de demolição da edificação e recuperação do dano ambiental na área sub judice, pois (a) esta Turma já se pronunciou no sentido de que a Praia da Galheta não atende aos requisitos legais, para fins de regularização fundiária, (b) a Terceira Turma desta Corte, em sua composição ampliada, deliberou, recentemente, que é inviável a regularização fundiária de casas de veraneio, construídas, irregularmente, em área de preservação permanente, na Praia da Galheta, por ser uma região que não se caracteriza como núcleo urbano consolidado, não preenchendo as condições e finalidades da Reurb-E (TRF4, AC 5001309-82.2012.4.04.7216, Terceira Turma, Relatora Des. Vânia Hack de Almeida, juntado aos autos em 14/10/2020), e (c) o processo de regularização fundiária não se presta a legitimar situações de flagrante ilegalidade e a apropriação privada do meio ambiente, de modo que a existência de um processo de regularização em curso não afeta o trâmite das ações relativas à Praia da Galheta, inexistindo qualquer ofensa ao tratamento isonômico dado às edificações na localidade.
+III. A questão relativa à regularização fundiária, instituída pela Lei n.º 13.465/2017, foi examinada e afastada em apelação, operando-se o trânsito em julgado, razão pela qual, mesmo que se considere a superveniência da Lei Municipal n.º 2.187/2020 e da Lei Federal n.º 14.285/2021 ao julgamento da apelação, entende-se que a questão de fundo não sofreu alterações.
+IV. O processo adminsitrativo SEI 0004511-21.2018.4.04.8000/SISTCON já foi encerrado, com a conclusão pela impossibilidade de conciliação em ações como a presente, independentemente dos resultados dos estudos que seriam realizados pela Universidade Federal do Rio Grande do Sul para gestão da Praia da Galheta.
+V. Não se aplica, na espécie, o artigo 31, § 8.º, da Lei n.º 13.465/2017, que assegura ao cidadão o direito de permanecer na posse do imóvel, enquanto estiver em trâmite o processo administrativo de regularização fundiária, pois se trata de cumprimento de sentença já transitada em julgado, não restando configurada hipótese legal para sua relativização, pois a Praia da Galheta não atende aos requisitos legais para a regularização fundiária.
+VI. Os precedentes do Superior Tribunal de Justiça e deste Tribunal Regional Federal da 4ª Região, transcritos na peça recursal, não se prestam a conformar a tese do(a) agravante quanto à fragilidade do acervo probatório e à relativização da coisa julgada, pois partem de premissas fáticas e jurídicas distintas.
+VII. A pretensão à revisão do julgado deverá ser veiculada na via própria, carecendo de amparo legal a iniciativa de atribuir eficácia rescisória à impugnação ao cumprimento de sentença (artigos 525, § 1.º, e 536, § 4.º, do CPC).
+Na origem, trata-se de agravo de instrumento interposto por Everton Pedro Trento contra a decisão que, nos autos do cumprimento de sentença em ação civil pública ajuizado pelo Ministério Público Federal, rejeitou a impugnação apresentada.
+No Tribunal de origem a decisão foi mantida. Esta Corte não conheceu do agravo em recurso especial.
+No recurso especial, Everton Pedro Trento alega ofensa aos dispositivos legais que aponta.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com base no art. 21-E, V, c/c o art. 253, parágrafo único, I, ambos do Regimento Interno do Superior Tribunal de Justiça, não conheço do Agravo em Recurso Especial."
+A Segunda Turma negou provimento ao agravo interno, nos termos da seguinte ementa:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AMBIENTAL. CUMPRIMENTO DE SENTENÇA. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO. AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO À FUNDAMENTAÇÃO. ENUNCIADO N. 182 DA SÚMULA DO STJ. AGRAVO INTERNO NÃO CONHECIDO.
+I - Na origem, trata-se agravo de instrumento interposto contra decisão que, em cumprimento de sentença, rejeitou a impugnação apresentada. O Tribunal local manteve inalterada a decisão recorrida. Opostos embargos de declaração, estes foram parcialmente providos. Interposto recurso especial, a Corte de origem o inadmitiu, razão pela qual a parte decide agravar. Por fim, este Tribunal Superior não conheceu do agravo em recurso especial.
+II - Por meio da análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando a Súmula n. 7/STJ. A parte agravante, em seu agravo interno, não impugna esses fundamentos. Entretanto, a parte agravante deixou de impugnar especificamente o referido fundamento. A parte agravante, em seu agravo interno, não impugna esses fundamentos. É entendimento desta Corte que não se conhece do agravo interno que não impugna os fundamentos da decisão recorrida. Incidência do enunciado n. 182 da Súmula do STJ.
+III - Agravo interno não conhecido.
+Opostos embargos de declaração, aponta a parte embargante os seguintes vícios no acórdão embargado:
+Não foi enfrentada a impugnação específica ao óbice da Súmula 7/STJ feita no agravo interno. (..)
+Não houve enfrentamento da tese de que a matéria foi adequadamente prequestionada. (..)
+Não foi enfrentada a controvérsia sobre a indevida aplicação da Súmula 83/STJ no juízo de admissibilidade do TRF4.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AMBIENTAL. CUMPRIMENTO DE SENTENÇA. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO. AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO À FUNDAMENTAÇÃO. ENUNCIADO N. 182 DA SÚMULA DO STJ. AGRAVO INTERNO NÃO CONHECIDO. ALEGAÇÃO DE VÍCIOS NO ACÓRDÃO EMBARGADO. INEXISTÊNCIA.
+I - Na origem, trata-se de agravo de instrumento interposto contra a decisão que, nos autos do cumprimento de sentença em ação civil pública ajuizado pelo Ministério Público Federal, rejeitou a impugnação apresentada.
+II - No Tribunal de origem, a decisão foi mantida. Esta Corte não conheceu do agravo em recurso especial.
+III - Opostos embargos de declaração, aponta a parte embargante vícios no acórdão embargado.
+IV - Os embargos aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso.
+V - Os vícios apontados pela parte embargante, relacionados à inadmissibilidade do agravo em recurso especial, foram tratados no acórdão embargado, o que afasta a alegação de omissão.
+VI - Embargos de declaração rejeitados.
+VOTO
+Os embargos não merecem acolhimento.
+Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade; eliminar contradição; suprir omissão de ponto ou questão sobre as quais o juiz devia pronunciar-se de ofício ou a requerimento; e/ou corrigir erro material.
+Conforme entendimento pacífico desta Corte:
+O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida.
+(EDcl no MS n. 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.)
+A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do CPC/2015, razão pela qual inviável o seu exame em embargos de declaração. Nesse sentido:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. EMBARGOS DE DECLARAÇÃO. FINALIDADE DE PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. OMISSÃO. NÃO OCORRÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. ART. 1.022 DO NOVO CPC.
+1. A ocorrência de um dos vícios previstos no art. 1.022 do CPC é requisito de admissibilidade dos embargos de declaração, razão pela qual a pretensão de mero prequestionamento de dispositivos constitucionais para a viabilização de eventual recurso extraordinário não possibilita a sua oposição. Precedentes da Corte Especial.
+2. A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do novo CPC, razão pela qual inviável o seu exame em sede de embargos de declaração.
+3. Embargos de declaração rejeitados.
+(EDcl nos EAREsp n. 166.402/PE, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 15/3/2017, DJe 29/3/2017.)
+EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. CONTRADIÇÃO. NÃO OCORRÊNCIA. OMISSÕES. INEXISTÊNCIA. CARÁTER PROCRASTINATÓRIO RECONHECIDO. APLICAÇÃO DE MULTA.
+1. A contradição capaz de ensejar o cabimento dos embargos declaratórios é aquela que se revela quando o julgado contém proposições inconciliáveis internamente.
+2. Sendo os embargos de declaração recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão -, não podem ser acolhidos quando a parte embargante pretende, essencialmente, a obtenção de efeitos infringentes.
+3. Evidenciado o caráter manifestamente protelatório dos embargos de declaração, cabe a aplicação da multa prevista no parágrafo único do art. 538 do CPC/1973.
+4. Embargos de declaração rejeitados com aplicação de multa.
+(EDcl na Rcl n. 8.826/RJ, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 15/2/2017, DJe 15/3/2017.)
+Os vícios apontados pela parte embargante, relacionados à inadmissibilidade do agravo em recurso especial, foram tratados no acórdão embargado, o que afasta a alegação de omissão, nos termos assim expostos:
+A decisão recorrida, que não conheceu do agravo em recurso especial, considerou que a parte agravante deixou de impugnar especificamente o fundamento de inadmissibilidade referente à incidência da Súmula n. 7/STJ.
+Por outro lado, em seu agravo interno, a parte agravante traz alegações dissociadas da decisão recorrida, referentes à matéria de mérito do recurso especial, que nem sequer chegou a ser submetido ao juízo de admissibilidade.
+Nesse diapasão, verifica-se que a parte agravante deixa de atacar especificamente os fundamentos da decisão ora agravada, ensejando, assim, a incidência do enunciado n. 182 da Súmula do STJ, segundo o qual "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". Ressalta-se que a mesma exigência é prevista no art. 1.021, § 1º, do Código de Processo Civil de 2015.
+Cumpre ressaltar que os embargos aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso. No caso dos autos, não há omissão de ponto ou questão sobre as quais o juiz, de ofício ou a requerimento, devia pronunciar-se, considerando que o acórdão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
