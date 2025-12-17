@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM HABEAS CORPUS. ESTELIONATO. PENA INFERIOR A 4 ANOS. REGIME MAIS GRAVOSO E NEGATIVA DE SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. PRESENÇA DE CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. LEGALIDADE. INTENÇÃO DE REDISCUTIR O MÉRITO DA IMPETRAÇÃO. INEXISTÊNCIA DOS VÍCIOS APONTADOS.
+1. Inviável a oposição dos embargos de declaração com o fim de rediscutir tese analisada e decidida pelo órgão julgador.
+2. Ficou bem claro no acórdão embargado que a existência de circunstâncias judiciais desfavoráveis autoriza a fixação de regime inicial de cumprimento de pena mais gravoso do que o quantum da pena cominada permite, justificando também a negativa de substituição da pena privativa de liberdade por restritiva de direito.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por Iara de Mello Cunha, Mauro Sérgio Aranda e Ricardo Cunha ao acórdão da lavra do Ministro Sebastião Reis Júnior, no qual a Sexta Turma deste Superior Tribunal negou provimento ao agravo regimental por eles interposto. Eis a ementa do julgado (fls. 345/348):
+AGRAVO REGIMENTAL EM HABEAS CORPUS. ESTELIONATO. PENA INFERIOR A 4 ANOS. REGIME MAIS GRAVOSO E NEGATIVA DE SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. PRESENÇA DE CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. LEGALIDADE. PRECEDENTES DESTA CORTE.
+Agravo regimental improvido.
+A defesa dos embargantes sustenta a existência de omissões no julgamento do agravo regimental. Isso porque não há qualquer digressão do porquê a manutenção do regime semiaberto é proporcional à situação dos Embargantes, tampouco do porquê as 6 (seis) circunstâncias judiciais positivas, somadas à primariedade, bons antecedentes e por tratar-se crime sem violência ou grave ameaça, mostram-se insuficientes para a fixação do regime mais brando. Destaca que a Embargante Iara padece de câncer de pulmão, fato que obrigatoriamente deve ser levado em consideração por esta Turma (fl. 361).
+Acrescenta que fez menção a precedentes desta Corte, que amparam a tese defendida, não tendo sido demonstrada a existência de distinguishing com o caso em apreço ou a superação do entendimento da casa (overruling) (fl. 365).
+Defende também o não enfrentamento dos argumentos referentes ao pedido de substituição da pena privativa de liberdade por penas restritivas de direitos, porquanto não se analisou o fato de que:
+ - a autoridade coatora não motivou nem fundamentou o porquê de a substituição da reprimenda afigurar-se insuficiente e desproporcional in casu;
+-  o próprio membro do Ministério Público, em sede de alegações finais, expressamente reconheceu a suficiência da substituição da reprimenda, asseverando que, "diante da quantidade da pena, possível a substituição da pena por restritiva de direitos" (e-STJ fl. 292), vulnerando, portanto, a lógica do sistema acusatório;
+-  estão presentes todos os requisitos, objetivos e subjetivos à substituição: (i) a pena aplicada é inferior a 4 anos; (ii) o delito não foi praticado com violência ou grave ameaça à pessoa; (iii) os Embargantes são primários; e (iv) há elementos que indicam que a medida é suficiente.
+-  das 7 (sete) circunstâncias judiciais analisadas pelo artigo 44 do Código Penal, 6 (seis) delas, in casu, são positivas, tornando-se desproporcional a utilização de uma única circunstância negativa para supor a insuficiência (fls. 367/368).
+Requer, por isso, o saneamento das omissões, com efeitos infringentes, para: (a) fixar o regime inicial aberto com fundamento nos arts. 33, § 2º, "c", e 59 do Código Penal; e (b) determinar a substituição da pena privativa de liberdade por restritivas de direitos, ante o preenchimento dos requisitos do art. 44 do Código Penal (fls. 369).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM HABEAS CORPUS. ESTELIONATO. PENA INFERIOR A 4 ANOS. REGIME MAIS GRAVOSO E NEGATIVA DE SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. PRESENÇA DE CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. LEGALIDADE. INTENÇÃO DE REDISCUTIR O MÉRITO DA IMPETRAÇÃO. INEXISTÊNCIA DOS VÍCIOS APONTADOS.
+1. Inviável a oposição dos embargos de declaração com o fim de rediscutir tese analisada e decidida pelo órgão julgador.
+2. Ficou bem claro no acórdão embargado que a existência de circunstâncias judiciais desfavoráveis autoriza a fixação de regime inicial de cumprimento de pena mais gravoso do que o quantum da pena cominada permite, justificando também a negativa de substituição da pena privativa de liberdade por restritiva de direito.
+3. Embargos de declaração rejeitados.
+VOTO
+Não obstante a opinião do embargante, ressalto ser incabível a oposição dos embargos de declaração para a rediscussão da tese jurídica discutida e aplicada pelo órgão julgador. Os embargos de declaração somente podem ser utilizados quando, na decisão embargada, houver obscuridade, contradição ou omissão acerca de ponto sobre o qual devia se pronunciar o Juiz ou o Tribunal, e não o fez, nos termos do que dispõe o art. 619 do Código de Processo Penal.
+Na hipótese, não há omissão a ser sanada.
+Ora, ficou claro no acórdão embargado que não havia o que reparar, pois a existência de circunstâncias judiciais desfavoráveis autoriza a fixação de regime inicial de cumprimento de pena mais gravoso do que o quantum da pena cominada permite, o que também justifica a negativa de substituição da pena privativa de liberdade por restritiva de direitos.
+Corroborando o referido entendimento, foram citados os seguintes julgados: AgRg no HC n. 709.060/MS, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Quinta Turma, DJe 14/3/2022; AgRg no HC n. 1.018.324/SP, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado do TJRS), Quinta Turma, julgado em 19/8/2025, DJEN de 25/8/2025; AgRg no AREsp n. 2.702.849/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 5/8/2025, DJEN de 20/8/2025; AgRg nos E Dcl no AR Esp n. 2.858.468/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 12/8/2025, DJEN de 15/8/2025.
+Nesse contexto, verifica-se que o embargante não se conforma com a conclusão alcançada, buscando rediscutir, com intuito infringente, questões já devidamente enfrentadas e decididas, providência incompatível com a via eleita.
+Ante o exposto, rejeito os embargos de declaração.
