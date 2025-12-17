@@ -1,0 +1,65 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão prolatado pelo Tribunal de origem, assim ementado (fls. 314/328, e-STJ):
+Direito do consumidor e bancário. Ação declaratória de inexigibilidade de débito c.c. indenização por danos materiais e morais. Golpe por falsa central telefônica. Fraude bancária. Fortuito interno. Responsabilidade objetiva da instituição financeira. Falha na prestação de serviço. Inexigibilidade de empréstimos fraudulentos. Restituição de valores. Dano moral configurado. Recurso provido.
+I. Caso em exame
+1. Apelação interposta contra sentença que julgou improcedente ação declaratória de inexigibilidade de débito c.c. indenização por danos materiais e morais. A autora alega ter sido vítima de golpe por falsa central telefônica, que resultou na contratação de 04 empréstimos e na realização de transferências bancárias fraudulentas, sendo realizada transferência para terceiro desconhecido. Pretende a declaração de inexigibilidade dos débitos, a restituição dos valores subtraídos e a condenação do réu por danos morais.
+II. Questão em discussão
+2. Há três questões em discussão:
+(i) se os débitos oriundos de transações fraudulentas realizadas na contada autora devem ser declarados inexigíveis;
+(ii) se a instituição financeira deve restituir os valores subtraídos em dobro, em decorrência da fraude;
+(iii) se houve falha na prestação de serviço que justifique a condenação do réu ao pagamento de indenização por danos morais.
+III. Razões de decidir
+3. Inexigibilidade dos débitos e restituição dos valores subtraídos. A autora comprovou que as operações bancárias (empréstimos e transferências) foram realizadas em decorrência de fraude praticada por terceiro, mediante ligação telefônica mascarada como proveniente da Central de Atendimento do banco réu, utilizando dados sigilosos do cliente.
+4. As transações fraudulentas (empréstimos e transferências) destoam do perfil de consumo da autora, que realiza movimentações de valores módicos, conforme extratos bancários apresentados.
+5. O sistema de segurança do banco falhou ao permitir a realização de diversas operações atípicas e de elevado valor (R$ 48.796,01 em transferências sequenciais), sem bloqueio preventivo ou consulta formal à autora, configurando grave falha na prestação de serviço.
+6. Em casos de fraude bancária, aplica-se a Súmula 479 do STJ, que estabelece a responsabilidade objetiva das instituições financeiras por danos decorrentes de fortuito interno.
+7. Declarada a inexigibilidade dos débitos oriundos dos empréstimos fraudulentos (nº 159178914, 159178957, 159178993 e 159179377) e determinada a restituição, em dobro, das parcelas descontadas do benefício previdenciário da parte autora, bem como do valor de R$ 492,24 subtraído da conta da autora, conforme art. 42, parágrafo único, do CDC. Recurso provido nesse ponto.
+8. Danos morais. Configurada a falha na prestação de serviço do banco, que não detectou movimentações atípicas e permitiu a concretização da fraude, apesar do valor elevado das transações e sua incompatibilidade com o perfil de consumo da autora.
+9. A responsabilidade da instituição financeira é objetiva, conforme art. 14 do CDC e Súmula 479 do STJ, sendo irrelevante a atuação de terceiros fraudadores, que caracteriza fortuito interno.
+10. O dano moral é evidente, diante dos transtornos causados à autora, que teve sua confiança violada, seus dados utilizados indevidamente, e enfrentou prejuízos financeiros decorrentes da falha de segurança.
+11. Arbitrada indenização por danos morais no valor de R$ 5.000,00, com correção monetária a partir da publicação do acórdão (Súmula 362 do STJ) e juros de mora a partir da citação. Recurso provido nesse ponto.
+IV. DISPOSITIVO E TESE
+Recurso provido.
+Tese de julgamento: "A instituição financeira responde objetivamente pelos danos decorrentes de fraudes praticadas por terceiros no âmbito de operações bancárias, sendo aplicável a Súmula 479 do STJ.
+A falha na prestação de serviço do banco, evidenciada pela realização de transações atípicas e incompatíveis com o perfil do cliente, sem bloqueio preventivo ou consulta formal, enseja a declaração de inexigibilidade dos débitos oriundos de fraude e a restituição dos valores subtraídos.
+O dano moral decorrente de fraude bancária e falha de segurança do banco é in re ipsa, cabendo a fixação de indenização proporcional ao transtorno experimentado pela vítima e aos princípios da razoabilidade e proporcionalidade."
+Dispositivos relevantes citados: CDC, arts. 14, 42, parágrafo único; CPC, art. 85, § 2º; CC, art. 927, parágrafo único; Súmula 479 e Súmula362 do STJ.
+Jurisprudência relevante citada: STJ, Súmula 479; Precedentes desta E. Corte e desta E. Câmara.
+Opostos embargos de declaração, o acórdão foi integrado da seguinte forma (fls. 423/428, e-STJ):
+Direito processual civil. Embargos de declaração. Honorários advocatícios. Obscuridade no cálculo da base de incidência. Inexigibilidade de débito de natureza meramente declaratória. Honorários incidentes sobre danos materiais e morais. Embargos acolhidos, apenas para suprir a obscuridade, com efeito meramente integrativo.
+I. Caso em exame
+1. Embargos de declaração opostos contra acórdão que deu provimento ao recurso de apelação da parte autora, reconhecendo a inexigibilidade de quatro empréstimos consignados, determinando a restituição dobrada dos descontos indevidos e fixando indenização por danos morais.
+2. A embargante sustenta obscuridade na decisão quanto à base de cálculo dos honorários advocatícios de sucumbência, requerendo esclarecimento sobre a inclusão ou não do valor declarado inexigível.
+II. Questão em discussão
+3. A questão em discussão consiste em definir se os honorários advocatícios devem incidir apenas sobre os danos materiais e morais ou se devem abranger também o valor declarado inexigível dos empréstimos consignados.
+III. Razões de decidir
+4. A mera declaração de inexigibilidade de débito tem natureza declaratória e não implica alteração patrimonial, não compondo a base de cálculo dos honorários advocatícios.
+5. Os honorários advocatícios devem incidir apenas sobre as condenações, quais sejam, a restituição dobrada dos valores descontados indevidamente e a indenização por danos morais.
+6. A simples declaração de inexigibilidade do débito não constitui proveito econômico para fins de fixação de honorários advocatícios.
+7. O acolhimento dos embargos tem efeito meramente integrativo, sem modificação do julgado, limitando-se a esclarecer a base de cálculo dos honorários advocatícios.
+IV. Dispositivo e tese
+8. Embargos de declaração acolhidos, apenas para suprir a obscuridade, com efeito meramente integrativo.
+Tese de julgamento: "A inexigibilidade de débito reconhecida judicialmente tem natureza meramente declaratória e não compõe a base de cálculo dos honorários advocatícios de sucumbência.
+Os honorários advocatícios devem incidir apenas sobre as condenações de cunho patrimonial, como danos materiais e morais, nos termos do artigo 85, §2º, do CPC."
+Dispositivos relevantes citados: CPC, arts. 85, §2º, e 1.026, §2º.
+Jurisprudência relevante citada: TJSP, Embargos de Declaração Cível nº 1006345-74.2024.8.26.0405, Rel. Des. Elói Estevão Troly, 15ªCâmara de Direito Privado, j. 21.01.2025.
+Em suas razões recursais, a recorrente aponta violação ao art. 85, caput e § 2º, do Código de Processo Civil. Aduz que o acórdão recorrido "( ) arbitrou honorários advocatícios sucumbenciais única e exclusivamente sobre a condenação (R$ 5.984,48 - dano material  dano moral), ignorando o montante declarado inexigível (R$ 86.672,59), ou seja, 14x superior à condenação". Para tanto, sustenta que houve dissídio jurisprudencial. Por fim, pede que a verba sucumbencial seja arbitrada com base no proveito econômico.
+A recorrida, devidamente intimada, apresentou contrarrazões, pedindo o não provimento do recurso (fls. 436/439, e-STJ).
+Assim posta a questão, passo a decidir.
+Presentes os pressupostos de admissibilidade e ultrapassado o limite do conhecimento do presente recurso, verifico que não deve ser provido.
+Mediante análise dos autos, sobreveio sentença improcedente em ação indenizatória por danos morais e materiais em virtude de transações fraudulentas. Em sede de apelação, o Tribunal de origem deu provimento ao recurso da autora/recorrente, para: a) declarar inexigíveis os contratos fraudulentos no valor de R$ 86.672,52; b) determinar o reembolso material em dobro descontados indevidamente da conta pessoal da autora, o que totaliza R$ 984,48; c) arbitrar danos morais de R$ 5.000,00; e d) fixar honorários advocatícios sucumbenciais em 20% sobre a condenação. Após, a recorrente opôs embargos de declaração. A Corte local acolheu-os apenas com efeitos integrativos. Irresignada, interpôs o presente recurso especial.
+Desse modo, cinge-se a controvérsia à base de cálculo para fixação de honorários sucumbenciais em ações com pedidos condenatórios e declaratórios.
+De início, sabe-se que o Tema 1.076/STJ sedimentou uma ordem preferencial objetiva para fixação de honorários: "i) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória nesses casos a observância dos percentuais previstos nos §§ 2º ou 3º do artigo 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa. ii) Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo".
+No caso, o acórdão recorrido considerou que a condenação ao pagamento da verba honorária deve refletir apenas os danos materiais e morais arbitrados, sem incluir qualquer modificação patrimonial adicional. Isso porque a declaração de inexigibilidade do débito não impactou o patrimônio da autora e não deve ser considerada para fins de cálculo da condenação.
+Nesse contexto, a jurisprudência do STJ estabelece:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE DE NEGÓCIO JURÍDICO CUMULADA COM DEVOLUÇÃO DE VALORES PAGOS. OCORRÊNCIA DE SIMULAÇÃO. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. VALOR DA CONDENAÇÃO. ART. 85, § 2º, DO CPC/2015. AGRAVO INTERNO DESPROVIDO.
+1. Conforme orientação jurisprudencial da Segunda Seção do STJ, firmada por ocasião do julgamento do REsp 1.746.072/PR em 13/2/2019, os honorários advocatícios sucumbenciais devem ser fixados, em regra, com observância dos percentuais e da ordem de gradação da base de cálculo estabelecida pelo art. 85, § 2º, do CPC/2015, nos seguintes termos: 1º) com base no valor da condenação; 2º) não havendo condenação ou não sendo possível valer-se da condenação, por exemplo, porque irrisória, com base no proveito econômico obtido pelo vencedor; ou 3º) não sendo possível mensurar o proveito econômico obtido, sobre o valor atualizado da causa.
+2. No caso, os pedidos formulados na ação foram julgados procedentes, para reconhecer a nulidade, em razão de simulação, do negócio jurídico, relativo à unificação de empréstimos firmados pelo réu em favor da autora, e condenar o réu à devolução dos valores pagos em cumprimento ao aludido negócio, tendo sido fixados os honorários advocatícios sucumbenciais em 10% (dez por cento) sobre o valor da condenação, com fundamento no art. 85, § 2º, do CPC/2015.
+3. Seguiu-se apelação do advogado da parte autora, na qualidade de terceiro interessado, objetivando a inclusão do benefício econômico decorrente da declaração de nulidade na base de cálculo da verba honorária. Todavia, o Tribunal de origem negou a pretensão, observando que o pedido de nulidade não tem conteúdo econômico aferível, sendo que eventual proveito econômico obtido é mero consectário lógico da declaração de nulidade que expressa o conteúdo condenatório da sentença. Nesse cenário, por não ser possível identificar um conteúdo econômico da declaração de nulidade, independente do conteúdo condenatório do provimento jurisdicional, correta a fixação dos honorários advocatícios com base no valor da condenação propriamente dita.
+4. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 2.118.162/DF, relator Ministro Raul Araújo, Quarta Turma, julgado em 19/5/2025, DJEN de 27/5/2025).
+Desse modo, o cálculo da verba honorária deve ser baseado no valor da condenação propriamente dita, uma vez que o suposto proveito econômico é apenas um consectário lógico da declaração de nulidade. Ou seja: o valor da condenação é o parâmetro correto para o cálculo da verba honorária.
+Diante disso, o acórdão prolatado pelo Tribunal de origem está em conformidade com os precedentes desta Corte. Não há que se falar, pois, em violação ao art. 85 do CPC.
+Em face do exposto, não havendo o que reformar, nego provimento ao recurso especial.
+Intimem-se.
+EMENTA
