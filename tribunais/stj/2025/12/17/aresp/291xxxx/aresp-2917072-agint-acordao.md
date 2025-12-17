@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/12/2025 a 17/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Afrânio Vilela, Francisco Falcão, Maria Thereza de Assis Moura e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. DESERÇÃO DO RECURSO ESPECIAL POR AUSÊNCIA DE COMPROVAÇÃO DO PREPARO EM DOBRO APÓS INTIMAÇÃO. ART. 1.007, § 4º, DO CÓDIGO DE PROCESSO CIVIL. INEXISTÊNCIA DE PEDIDO DE GRATUIDADE DA JUSTIÇA NAS PEÇAS RECURSAIS. SÚMULA N. 187 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. A decisão agravada conheceu do agravo em recurso especial para não conhecer do recurso especial. O recorrente, mesmo intimado para recolher em dobro o preparo, manteve-se inerte. Incidência da Súmula n. 187 do STJ: " é  deserto o recurso interposto para o Superior Tribunal de Justiça, quando o recorrente não recolhe, na origem, a importância das despesas de remessa e retorno dos autos".
+2. Constatada, nas peças recursais, a ausência de pedido de gratuidade da justiça. Inaplicável a tese de dispensa de preparo por suposta discussão de assistência judiciária gratuita.
+3. As alegações de necessidade de lei complementar para embasar o preparo, de reserva de plenário e de equiparação entre direito de petição e direito de ação não afastam o óbice objetivo da deserção.
+4. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno, interposto por JOSÉ RICARDO IBIAS SCHUTZ contra decisão por mim proferida, que conheceu do agravo em recurso especial para não conhecer do recurso especial, conforme ementa a seguir transcrita (fl. 226):
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL.  .. . ALEGAÇÃO DE VIOLAÇÃO DOS ARTS. 1.015 E 1.022, INCISO II, AMBOS DO CPC. MATÉRIAS PREQUESTIONADAS. AUSÊNCIA DO PAGAMENTO DO PREPARO RECURSAL. DETERMINADA A INTIMAÇÃO PARA EFETUAR RECOLHIMENTO EM DOBRO, NOS TERMOS DO ART. 1.007, §4º DO CPC, A PARTE RECORRENTE SE MANTEVE INERTE. DESERÇÃO É MEDIDA QUE SE IMPÕE. INCIDÊNCIA DA SÚMULA N. 187 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Alega a parte agravante (fls. 234-238), em suma, que (i) é dispensável o preparo quando o mérito do recurso versa sobre a concessão da assistência judiciária gratuita; (ii) a cobrança em dobro do preparo prevista no art. 1.007, § 4º, do Código de Processo Civil exigiria lei complementar por se tratar de taxa; (iii) o direito de petição (art. 5º, inciso XXXIV, alínea a, da Constituição Federal) seria sinônimo do direito de ação (art. 5º, inciso XXXV, da Constituição Federal), afastando a exigência de preparo; e (iv) o acórdão recorrido é omisso, com violação dos arts. 489, § 1º, inciso IV, 1.022, inciso II, e 1.015 do Código de Processo Civil.
+Não houve manifestação da Fazenda Nacional no agravo interno (fl. 245).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. DESERÇÃO DO RECURSO ESPECIAL POR AUSÊNCIA DE COMPROVAÇÃO DO PREPARO EM DOBRO APÓS INTIMAÇÃO. ART. 1.007, § 4º, DO CÓDIGO DE PROCESSO CIVIL. INEXISTÊNCIA DE PEDIDO DE GRATUIDADE DA JUSTIÇA NAS PEÇAS RECURSAIS. SÚMULA N. 187 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. A decisão agravada conheceu do agravo em recurso especial para não conhecer do recurso especial. O recorrente, mesmo intimado para recolher em dobro o preparo, manteve-se inerte. Incidência da Súmula n. 187 do STJ: " é  deserto o recurso interposto para o Superior Tribunal de Justiça, quando o recorrente não recolhe, na origem, a importância das despesas de remessa e retorno dos autos".
+2. Constatada, nas peças recursais, a ausência de pedido de gratuidade da justiça. Inaplicável a tese de dispensa de preparo por suposta discussão de assistência judiciária gratuita.
+3. As alegações de necessidade de lei complementar para embasar o preparo, de reserva de plenário e de equiparação entre direito de petição e direito de ação não afastam o óbice objetivo da deserção.
+4. Agravo interno desprovido.
+VOTO
+A irresignação não merece acolhida, porque a parte agravante não apresentou argumentos capazes de infirmar os fundamentos adotados na decisão recorrida.
+No caso, mesmo tendo sido previamente intimada, pelo Tribunal de origem, para que promovesse o recolhimento em dobro do preparo, a parte agravante não providenciou o recolhimento das custas devidas ao Superior Tribunal de Justiça, conforme certidão (fl. 165), deixando transcorrer in albis o prazo que lhe fora concedido.
+Embora o agravante sustente a dispensa de preparo sob o argumento de que o mérito do recurso seria a concessão da assistência judiciária gratuita (fl. 235), tal premissa não se confirma.
+No caso, o recurso especial discutiu negativa de prestação jurisdicional e cabimento do agravo de instrumento; além de honorários; e, no ponto do preparo, o recorrente, em vez de requerer justiça gratuita, pediu "incidenter tantum" a declaração de inconstitucionalidade da Lei n. 11.636/2007 (fls. 143-151) e afirmou que deixou de recolher as custas, o que se repete no agravo em recurso especial (fls. 200-207); e no agravo interno (fls. 234-239). Não há, pois, pedido de gratuidade da justiça nas razões dos recursos, tornando inaplicável a tese de dispensa de preparo invocada.
+De igual modo, as demais alegações  necessidade de lei complementar para a exigibilidade do preparo em dobro, reserva de plenário e equiparação entre direito de petição e direito de ação  não afastam o óbice objetivo decorrente da falta de preparo, já decidido à luz da Súmula n. 187 do STJ: " é  deserto o recurso interposto para o Superior Tribunal de Justiça, quando o recorrente não recolhe, na origem, a importância das despesas de remessa e retorno dos autos".
+Nesse sentido:
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREPARO DO RECURSO ESPECIAL. AUSÊNCIA. INTIMAÇÃO PARA RECOLHIMENTO EM DOBRO. PAGAMENTO SIMPLES. NOVO PAGAMENTO A DESTEMPO. DESERÇÃO RECONHECIDA. SÚMULA N. 187 DO STJ. PRINCÍPIO DA PRIMAZIA DO JULGAMENTO DE MÉRITO. INAPLICABILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. Na forma da jurisprudência do STJ, é "dever da parte, quando da interposição do recurso especial, juntar as guias de recolhimento devidamente preenchidas, acompanhadas dos respectivos comprovantes de pagamento, sob pena de deserção" (AgInt no REsp n. 1.908.052/PE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 18/12/2023, DJe de 20/12/2023).
+2. A não comprovação do pagamento em dobro do preparo recursal a tempo, mesmo após a intimação para tanto, inviabiliza o conhecimento do recurso, nos termos da Súmula n. 187 do STJ.
+3. Não é cabível a aplicação do princípio da primazia do julgamento de mérito na hipótese, pois a parte agravante, a despeito de intimada para a regularização de vício no preparo recursal, não efetuou a sua correção no prazo indicado.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2610768/ GO, relator TEODORO SILVA SANTOS, Segunda Turma, julgado em 28/10/2024, DJe de 04/11/2024; sem grifos no original.)
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
