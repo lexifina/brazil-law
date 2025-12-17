@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/12/2025 a 17/12/2025, por unanimidade, acolher parcialmente os embargos de declaração, sem efeitos modificativos, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM RECURSO EM HABEAS CORPUS IMPROVIDO NA PARTE CONHECIDA. RECEPTAÇÃO, ASSOCIAÇÃO CRIMINOSA E POSSE DE ARMAS, MUNIÇÕES E EXPLOSIVOS. PRISÃO  PREVENTIVA.  PEDIDO DE EXTENSÃO DE REVOGAÇÃO DE PRISÃO CONCEDIDA A CORRÉUS. ALEGAÇÃO DE ERRO SOBRE MATÉRIA DE FATO. RECORRENTE QUE NÃO ESTAVA FORAGIDO. VÍCIO SANADO. AGRAVANTE E CORRÉU EM SITUAÇÕES DIFERENTES. AUSÊNCIA DE VÍCIO INTRÍNSECO DO JULGADO EMBARGADO. PRETENSÃO DE REDISCUSSÃO DA CAUSA. INADMISSIBILIDADE.
+Embargos de declaração parcialmente acolhidos, apenas para sanar o vício apontado de que o embargante estava foragido, sem efeitos infringentes.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por PEDRO HENRIQUE VALENTE GOMES ao acórdão proferido pela Sexta Turma do Superior Tribunal de Justiça que negou provimento, na parte conhecida, ao recurso em habeas corpus. Eis a ementa do julgado ora embargado (fl. 3.709):
+RECURSO EM HABEAS CORPUS. RECEPTAÇÃO, ASSOCIAÇÃO CRIMINOSA E POSSE DE ARMAS, MUNIÇÕES E EXPLOSIVOS. FUNDAMENTOS DA PRISÃO PREVENTIVA. MATÉRIA JÁ ANALISADA NO RHC N. 214.121/PA. PEDIDO DE EXTENSÃO DE REVOGAÇÃO DE PRISÃO CONCEDIDA A CORRÉUS. NÃO INCIDÊNCIA DO ART. 580 DO CPP. RECORRENTE E CORRÉUS EM SITUAÇÕES DIFERENTES. MOTIVAÇÃO IDÔNEA. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. PRECEDENTES. PARECER ACOLHIDO.
+Recurso em habeas corpus parcialmente conhecido e, nessa extensão, improvido.
+Nesta via, o embargante reitera as alegações do recurso em habeas corpus, sustentando a possibilidade de extensão do benefício concedido ao corréu Talison, alegando que se encontram na mesma situação processual.
+Aduz que o relator do Tribunal de origem, em seu voto arguiu, em síntese, e de maneira simplista, que o Embargante seria filho de um criminoso perigoso que seria o chefe da organização (mas que sequer fora denunciado), e que enquanto Talison foi acusado de fabricar os fuzis, o Embargante estava sendo acusado de abrigá-los em sua casa (que não é verdade, pois o embargante não reside no referido imóvel, nem mesmo no mesmo município e não fazia ideia que as pessoas envolvidas nos fatos estavam no imóvel), sendo, portanto, situações diferentes (fl. 3.722).
+Afirma que o Juízo singular prestou informações inverídicas, já que não estava foragido e encontra-se preso desde 27/2/2025 (fl. 3.724).
+Requer sejam os presentes embargos de declaração acolhidos para que possam ser sanados os vícios apontados, com atribuição de efeitos infringentes.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM RECURSO EM HABEAS CORPUS IMPROVIDO NA PARTE CONHECIDA. RECEPTAÇÃO, ASSOCIAÇÃO CRIMINOSA E POSSE DE ARMAS, MUNIÇÕES E EXPLOSIVOS. PRISÃO  PREVENTIVA.  PEDIDO DE EXTENSÃO DE REVOGAÇÃO DE PRISÃO CONCEDIDA A CORRÉUS. ALEGAÇÃO DE ERRO SOBRE MATÉRIA DE FATO. RECORRENTE QUE NÃO ESTAVA FORAGIDO. VÍCIO SANADO. AGRAVANTE E CORRÉU EM SITUAÇÕES DIFERENTES. AUSÊNCIA DE VÍCIO INTRÍNSECO DO JULGADO EMBARGADO. PRETENSÃO DE REDISCUSSÃO DA CAUSA. INADMISSIBILIDADE.
+Embargos de declaração parcialmente acolhidos, apenas para sanar o vício apontado de que o embargante estava foragido, sem efeitos infringentes.
+VOTO
+Os presentes embargos merecem acolhimento parcial.
+Os embargos de declaração constituem instrumento processual com o escopo de eliminar do julgamento obscuridade, contradição ou omissão sobre tema cujo pronunciamento se impunha pela decisão ou pelo acórdão ou, ainda, de corrigir evidente erro material, servindo, dessa forma, como instrumento de aperfeiçoamento do julgado (art. 619 do CPP). Não têm caráter substitutivo, modificador ou infringente do julgado, mas, sim, integrativo ou aclaratório.
+Com efeito, em relação ao apontado erro sobre matéria de fato quanto à informação de que o réu estava foragido (fl. 3.690), o que se verifica do documento colacionado pelo embargante é que, realmente, já se encontrava custodiado desde 27/2/2025 (fl. 3.724).
+Quanto à similitude de situações necessária à aplicação do disposto no art. 580 do Código de Processo Penal, verifica-se que o embargante, na verdade, não se conforma com a conclusão alcançada, buscando rediscutir, com o intuito infringente, questões já devidamente enfrentadas e decididas. Tal providência é incompatível com a via eleita.
+O acórdão não padece dos vícios apontados nessa parte. Foram examinadas todas as questões suscitadas no recurso em habeas corpus, demonstrando-se a inexistência de identidade de situações jurídicas e pessoais que autorize a extensão dos efeitos da decisão que revogou a prisão processual dos corréus, como bem demonstrado pelo Tribunal a quo.
+Ademais, o que transparece dos aclaratórios é o mero inconformismo da parte com o resultado do julgamento, não sendo possível, nesta via, rediscutir o entendimento adotado.
+Ante o exposto, acolho em parte os embargos de declaração, sem efeitos infringentes, apenas para sanar o erro sobre matéria de fato quanto à informação de que o embargante estava foragido.
