@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/12/2025 a 17/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Afrânio Vilela, Francisco Falcão, Maria Thereza de Assis Moura e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO EM RECURSO ESPECIAL NÃO CONHECIDO. MANDADO DE SEGURANÇA COLETIVO IMPETRADO POR ASSOCIAÇÃO EM MATÉRIA TRIBUTÁRIA. DIREITO LÍQUIDO E CERTO. AFASTAMENTO DA BASE DE CÁLCULO DO ICMS DA TARIFA CORRESPONDENTE ÀS PERDAS NÃO TÉCNICAS DE ENERGIA ELÉTRICA PAGAS PELAS EMPRESAS ASSOCIADAS. LEGITIMIDADE EXTRAORDINÁRIA NÃO VERIFICADA. AUSÊNCIA DE PERTINÊNCIA TEMÁTICA. REEXAME DE FATOS E PROVAS. SÚMULA N. 7 DO STJ. RECURSO DESPROVIDO.
+1. Agravo interno interposto contra decisão que não conheceu de recurso especial dirigido contra acórdão do Tribunal de Justiça do Estado de Goiás, o qual reconheceu a ilegitimidade da associação agravante para atuar em juízo na defesa dos direitos coletivos ou individuais homogêneos de seus associados, nos termos do art. 21 da Lei n. 12.016/2009
+2. A análise da pertinência temática entre o objeto da impetração e os objetivos institucionais da associação implica reexame de matéria fática, atraindo o óbice da Súmula n. 7 do STJ.
+3. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por ACIEG - ASSOCIAÇÃO COMERCIAL, INDUSTRIAL E DE SERVIÇOS DO ESTADO DE GOIÁS contra a decisão por mim proferida por meio da qual conheci do agravo para não conhecer do recurso especial dirigido contra acórdão do Tribunal de Justiça do Estado de Goiás, nos termos da seguinte ementa (fl. 620):
+TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA COLETIVO IMPETRADO POR ASSOCIAÇÃO EM MATÉRIA TRIBUTÁRIA. DIREITO LÍQUIDO E CERTO. AFASTAMENTO DA BASE DE CÁLCULO DO ICMS DA TARIFA CORRESPONDENTE ÀS PERDAS NÃO TÉCNICAS DE ENERGIA ELÉTRICA PAGAS PELAS EMPRESAS ASSOCIADAS. LEGITIMIDADE EXTRAORDINÁRIA NÃO VERIFICADA. AUSÊNCIA DE PERTINÊNCIA TEMÁTICA. QUESTÃO DECIDIDA COM BASE NOS ELEMENTOS FÁTICOS DOS AUTOS E NA INTERPRETAÇÃO DADA AO ESTATUTO SOCIAL DA PARTE AUTORA. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Pondera a parte agravante que não há a incidência do óbice da Súmula n. 7 do Superior Tribunal de Justiça, visto que o acórdão recorrido teria se baseado em fatos incontroversos extraídos do estatuto social, sendo que não se insurge contra tais fatos, mas sim contra a conclusão de que a previsão de "representação dos associados judicial ou extrajudicialmente, com fim institucional" não pode ser considerada "para fins de representatividade adequada", visto que a conclusão choca-se com o comando do art. 21 da Lei n. 12.016/2009, sendo o debate, portanto, puramente jurídico.
+Invoca julgados do STJ quanto à possibilidade de revaloração jurídica de fatos incontroversos e à mitigação da exigência de pertinência temática.
+Por fim, requer o provimento do agravo interno.
+Contraminuta ao agravo (fls. 651-658).
+Memoriais apresentados (fls. 661-664).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO EM RECURSO ESPECIAL NÃO CONHECIDO. MANDADO DE SEGURANÇA COLETIVO IMPETRADO POR ASSOCIAÇÃO EM MATÉRIA TRIBUTÁRIA. DIREITO LÍQUIDO E CERTO. AFASTAMENTO DA BASE DE CÁLCULO DO ICMS DA TARIFA CORRESPONDENTE ÀS PERDAS NÃO TÉCNICAS DE ENERGIA ELÉTRICA PAGAS PELAS EMPRESAS ASSOCIADAS. LEGITIMIDADE EXTRAORDINÁRIA NÃO VERIFICADA. AUSÊNCIA DE PERTINÊNCIA TEMÁTICA. REEXAME DE FATOS E PROVAS. SÚMULA N. 7 DO STJ. RECURSO DESPROVIDO.
+1. Agravo interno interposto contra decisão que não conheceu de recurso especial dirigido contra acórdão do Tribunal de Justiça do Estado de Goiás, o qual reconheceu a ilegitimidade da associação agravante para atuar em juízo na defesa dos direitos coletivos ou individuais homogêneos de seus associados, nos termos do art. 21 da Lei n. 12.016/2009
+2. A análise da pertinência temática entre o objeto da impetração e os objetivos institucionais da associação implica reexame de matéria fática, atraindo o óbice da Súmula n. 7 do STJ.
+3. Agravo interno não provido.
+VOTO
+Não obstante os argumentos da parte agravante, as razões deduzidas neste agravo interno não são aptas a desconstituir os fundamentos da decisão atacada, que merece ser mantida.
+Conforme consignado na decisão agravada, observa-se que o Tribunal de origem, ao decidir sobre a ilegitimidade da parte recorrente para atuar em juízo na defesa dos direitos coletivos ou individuais homogêneos de seus associados, nos termos do art. 21 da Lei n. 12.016/2009, o realizou com fundamento no acervo fático-probatório dos autos. Confira-se (fls. 623-626):
+Ao decidir sobre a ilegitimidade da associação, ora agravante, para atuar em juízo na defesa dos direitos coletivos ou individuais homogêneos de seus associados, nos termos do art. 21 da lei 12.016/2009, a Corte a quo, com base no acervo fático-probatório dos autos, adotou os seguintes fundamentos (fls. 408-420):
+ ..  Cinge-se a controvérsia recursal quanto à (i) legitimidade do recorrente para figurar no polo ativo do mandamus.
+ ..
+No caso dos autos, a ASSOCIAÇÃO COMERCIAL, INDUSTRIAL E DE SERVIÇOS DO ESTADO DE GOIÁS - ACIEG impetrou o presente mandado de segurança objetivando afastar a incidência da parcela da tarifa correspondente às perdas não técnicas de energia elétrica na base de cálculo do ICMS pago pelos seus filiados. Consta no Estatuto acostado aos autos (mov. 1, doc. 3) que o requisito de pré-constituição da associação, há, pelo menos, um ano, foi devidamente cumprido. Por outro lado, quanto à pertinência temática, o instrumento constitutivo define as seguintes finalidades/objetivos:
+Art. 1º. A ASSOCIAÇÃO INDUSTRIAL, COMERCIAL E DE SERVIÇOS DO ESTADO DE GOIÁS - ACIEG, fundada em 06 de janeiro de 1937, na cidade de Goiânia, capital do Estado de Goiás, é uma entidade sem fins lucrativos, tendo por objetivo maior a defesa das atividades empresariais dentro dos princípios da livre iniciativa.
+ ..
+Art. 2º. Para a realização de seus fins, a Associação usará dos meios adequados e legais e poderá, especialmente, se for o caso:
+I - desenvolver atividades de apoio à operação das empresas associadas;
+II - atuar junto aos poderes públicos na defesa dos princípios e das ideias que permitam ao empresariado cumprir seu papel econômico;
+III - viabilizar a instalação de regionais em Goiânia, cujos critérios de funcionamento serão aprovados pela Diretoria;
+IV - representar e assistir seus, associados coletivamente, judicial ou extrajudicialmente;
+ ..
+Da análise detida do estatuto constitutivo, observa-se que a associação impetrante tem como objetivo maior "a defesa das atividades empresariais dentro dos princípios da livre iniciativa", cabendo, em síntese, o assessoramento, a proteção, o auxílio, o apoio administrativo e de gestão, desenvolvimento e promoção de atividades de estudos, integração cultural e social etc., não incluindo, entre as suas finalidades, a defesa do direito coletivo relativo à matéria tributária das empresas associadas.
+Nesse passo, o objeto social e os fins institucionais da associação englobam, de forma genérica, uma infinidade de matérias, nem sempre relacionadas a sua atividade-fim, o que não pode ser considerado para fins de representatividade adequada para discutir em juízo parcelas de tributos recolhidos pelos associados, sob pena de se subverter o aludido requisito.
+ ..
+Nesse passo, embora a finalidade da associação possa ser razoavelmente genérica, "não pode ser, entretanto, desarrazoada, sob pena de admitirmos a criação de uma associação civil para a defesa de qualquer interesse, o que desnaturaria a exigência de representatividade adequada do grupo lesado" (AgRg no REsp 901.936/RJ, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, julgado em 16/10/2008, DJe 16/03/2009).
+ ..
+Ressalta-se, ainda, que conquanto não seja preciso que uma associação civil seja constituída para defender em juízo especificamente aquele exato interesse controvertido na hipótese concreta, a legislação exige o nexo material entre os fins institucionais do demandante e a tutela pretendida na ação, o que não se vislumbra no caso em tela.
+ ..
+Por fim, consigna-se, mais uma vez, que a matéria discutida no mandamus não é decorrente de origem comum e da atividade ou situação específica dos associados, mas resvala em toda e qualquer empresa submetida ao pagamento do tributo em questão, ou seja, trata-se de "matéria afeta à realidade de qualquer sociedade empresária e, não necessariamente vinculada à entidade coletiva", como bem pontuado pela ilustre Procuradoria de Justiça (mov. 60).
+ ..
+Nesse contexto, deve ser reconhecida a ilegitimidade ativa da entidade apelante, por não constar dos autos autorização específica dos associados para propositura da ação na condição de representante processual dos mesmos, "nos termos da exigência legal, sendo indispensável que a declaração expressa exigida pela Constituição (artigo 5º, XXI) seja manifestada, ou por ato individual do associado ou por deliberação tomada em assembleia da entidade", afigurando-se insuficiente a previsão estatutária genérica de representação (STF, RE 573.2323).
+Dessarte, a sentença merece ser mantida.
+Ante exposto, CONHEÇO da apelação cível e NEGO-LHE PROVIMENTO para manter a sentença, por esses e pelos próprios fundamentos.
+Assim, considerando a fundamentação dos acórdãos recorridos acima transcritos, os argumentos utilizados pela parte recorrente - no sentido de que o Tribunal de origem interpretou de forma restritiva a pertinência temática exigida para a legitimidade ativa em mandados de segurança coletivo, não tendo se manifestado sobre a posição consolidada do STJ acerca da legitimidade ativa em writs coletivos - somente poderiam ter a sua procedência verificada mediante necessário reexame de matéria fático-probatório. Todavia, não cabe a esta Corte, a fim de alcançar conclusão diversa, reavaliar todo o conjunto de fatos e provas da causa, conforme preceitua o enunciado da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial").
+ ..
+Dessa forma, vislumbra-se claramente que a análise da pertinência temática entre o objeto da impetração e os objetivos institucionais da associação, conforme interpretação do seu estatuto social, implica no inevitável reexame de matéria fática, atraindo o óbice da Súmula n. 7 deste STJ.
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Assim, não obstante as alegações apresentadas nas razões do agravo interno, em relação à inaplicabilidade da Súmula n. 7 do STJ por se tratar de matéria jurídica, não há como afastar o referido óbice, pois a decisão agravada assentou que a aferição da pertinência temática depende do reexame do estatuto e do contexto fático delineado pela Corte a quo.
+De igual modo, não prospera o recurso no que se refere à alegação de que a pertinência temática deve ser ampla e flexível e que haveria precedentes favoráveis, pois a decisão agravada consignou que, para infirmar a conclusão do Tribunal de origem sobre a ausência de nexo material entre fins institucion ais e a tutela pretendida, seria necessário revolver o acervo fático-probatório e interpretar o estatuto social, providências inviáveis em sede de recurso especial. Nesse contexto, permanece hígido o fundamento de incidência da Súmula n. 7 do STJ.
+Dessa forma, não havendo fundamentos jurídicos que infirmem as razões declinadas no julgado ora agravado, deve ser mantida a decisão recorrida, com o não conhecimento do recurso especial.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
