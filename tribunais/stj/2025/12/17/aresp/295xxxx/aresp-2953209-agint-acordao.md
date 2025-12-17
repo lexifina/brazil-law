@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/12/2025 a 17/12/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Afrânio Vilela, Francisco Falcão e Maria Thereza de Assis Moura votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+Impedido o Sr. Ministro Marco Aurélio Bellizze.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. CUMPRIMENTO DE SENTENÇA. TÍTULO COLETIVO. PRESCRIÇÃO. INOCORRÊNCIA. INCIDÊNCIA DO ÓBICE DA SÚMULA N. 7 DO STJ. AUSÊNCIA DE IMPUGNAÇÃO CONCRETA. SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO. AGRAVO INTERNO DESPROVIDO.
+1. A Corte a quo não admitiu o apelo nobre pela necessidade de reexame de provas (Súmula n. 7 do STJ).
+2. A parte agravante, nas razões do agravo em recurso especial, restringiu-se a afirmar, de maneira genérica, que não se trata de revolvimento do acervo fático-probatório, não tendo esclarecido, à luz da tese veiculada no apelo nobre, qual seja, da suposta inaplicabilidade do Tema n. 880 dos Recursos Repetitivos, de que maneira não seria necessária a incursão ao campo fático-probatório.
+3. Nesta Corte, decisão que não conheceu do agravo em recurso especial.
+4. Nas razões do agravo interno, aduz a parte que é inaplicável o óbice da Súmula n. 182 do STJ, ao afirmar que "a União, nas razões do agravo em recurso especial, impugnou de modo específico, claro e exaustivo o óbice acima mencionado".
+5. A parte agravante, nas razões do agravo em recurso especial, restringiu-se a afirmar, de maneira genérica, que não se trata de revolvimento do acervo fático-probatório, não tendo esclarecido, à luz da tese veiculada no apelo nobre, qual seja, da suposta inaplicabilidade do Tema n. 880 dos Recursos Repetitivos, de que maneira não seria necessária a incursão ao campo fático-probatório.
+6. Não tendo a parte agravante logrado êxito em infirmar os fundamentos que nortearam a decisão ora agravada, impõe-se a sua manutenção, em todos os seus termos.
+7. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto pela UNIÃO contra decisão que não conheceu do agravo em recurso especial (fls. 1067-1073).
+Nas razões deste agravo interno, a parte agravante, em síntese, alega que é inaplicável o óbice da Súmula n. 7 do STJ, pois "a União, nas razões do agravo em recurso especial, impugnou de modo específico, claro e exaustivo o óbice acima mencionado" (fl. 1085). Alega ainda que:
+O que a União objetiva demonstrar no recurso especial é que, nos termos dos dispositivos acima mencionados, a parte autora, ora recorrida, não possui o direito pleiteado, uma vez que a legislação federal pertinente  prevê o prazo quinquenal a contar do trânsito em julgado para requer a execução de título judicial, não sendo caso de aplicação do Tema 880/STJ, pois para a propositura da execução não dependiam os exequentes de fichas financeiras, mas de sua própria iniciativa em comprovar que eram beneficiários do título, delimitados pelo título exequendo àqueles filiados a Associação até a data da sentença (fl. 1085).
+Pugna, assim, pela reconsideração ou a reforma da decisão (fl. 1086).
+Apresentada contraminuta (fls. 1094-1096).
+É o relatório.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. CUMPRIMENTO DE SENTENÇA. TÍTULO COLETIVO. PRESCRIÇÃO. INOCORRÊNCIA. INCIDÊNCIA DO ÓBICE DA SÚMULA N. 7 DO STJ. AUSÊNCIA DE IMPUGNAÇÃO CONCRETA. SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO. AGRAVO INTERNO DESPROVIDO.
+1. A Corte a quo não admitiu o apelo nobre pela necessidade de reexame de provas (Súmula n. 7 do STJ).
+2. A parte agravante, nas razões do agravo em recurso especial, restringiu-se a afirmar, de maneira genérica, que não se trata de revolvimento do acervo fático-probatório, não tendo esclarecido, à luz da tese veiculada no apelo nobre, qual seja, da suposta inaplicabilidade do Tema n. 880 dos Recursos Repetitivos, de que maneira não seria necessária a incursão ao campo fático-probatório.
+3. Nesta Corte, decisão que não conheceu do agravo em recurso especial.
+4. Nas razões do agravo interno, aduz a parte que é inaplicável o óbice da Súmula n. 182 do STJ, ao afirmar que "a União, nas razões do agravo em recurso especial, impugnou de modo específico, claro e exaustivo o óbice acima mencionado".
+5. A parte agravante, nas razões do agravo em recurso especial, restringiu-se a afirmar, de maneira genérica, que não se trata de revolvimento do acervo fático-probatório, não tendo esclarecido, à luz da tese veiculada no apelo nobre, qual seja, da suposta inaplicabilidade do Tema n. 880 dos Recursos Repetitivos, de que maneira não seria necessária a incursão ao campo fático-probatório.
+6. Não tendo a parte agravante logrado êxito em infirmar os fundamentos que nortearam a decisão ora agravada, impõe-se a sua manutenção, em todos os seus termos.
+7. Agravo interno desprovido.
+VOTO
+A despeito dos argumentos veiculados no presente recurso, a insatisfação não merece prosperar.
+Nas razões do agravo interno, aduz a parte que é inaplicável o óbice da Súmula n. 182 do STJ, ao afirmar que "a União, nas razões do agravo em recurso especial, impugnou de modo específico, claro e exaustivo o óbice acima mencionado" (fl. 1085). De início, o Tribunal de origem, ao dar parcial provimento ao apelo da parte Exequente, decidiu que:
+Por fim, também quanto ao tema prescrição, mesmo que não se admita como interrompido o prazo prescricional com o ajuizamento da ação executiva (e suspenso seu curso até o adimplemento do débito), ou ainda que não se reconheça a natureza derivada das execuções individuais e das demais petições autuadas em apartado à execução originária, na espécie, a falta de apresentação das fichas financeiras - e a respectiva aplicação da tese fixada pelo Superior Tribunal de Justiça no Tema 880 dos Recursos Repetitivos - inviabiliza o reconhecimento da prescrição, ao menos em relação a todos os 2.081 (dois mil e oitenta e um) servidores remanescentes (fl. 680).
+A Corte a quo não admitiu o apelo nobre pela necessidade de reexame de provas (Súmula n. 7 do STJ). Contudo, a parte agravante, nas razões do agravo em recurso especial, restringiu-se a afirmar, de maneira genérica, que não se trata de revolvimento do acervo fático-probatório, não tendo esclarecido, à luz da tese veiculada no apelo nobre, qual seja, da suposta inaplicabilidade do Tema n. 880 dos Recursos Repetitivos, de que maneira não seria necessária a incursão ao campo fático-probatório.
+Para buscar afastar a incidência da Súmula n. 7 do STJ, deve a parte cotejar a moldura fática incontroversa do acórdão recorrido com as teses por ele suscitadas, demonstrando de que forma o seu exame prescindiria da análise de elementos probantes, tal como explicitado na decisão que não admitiu o recurso especial. A propósito:
+ ..
+5. A impugnação da Súmula n. 7/STJ pressupõe estrutura argumentativa específica, indicando-se as premissas fáticas admitidas como verdadeiras pelo Tribunal de origem, a qualificação jurídica que lhe foi conferida e a apreciação O recurso daí provenientejurídica que lhe deveria ter sido efetivamente atribuída. deveria se esmerar em demonstrar efetivamente que a referida súmula não se aplica ao caso concreto, e não simplesmente reiterar o recurso especial. (AgInt no AREsp n. 1.790.197/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 1º/7 /2021.)
+Agravo interno improvido.
+(AgInt no AREsp n. 1.795.402/SP, relator Ministro Humberto Martins, Segunda Turma, julgado em 3/4/2023, DJe de 13/4/2023.)
+Além disso, ressalta-se que a aplicação deste óbice pelo Tribunal de origem se coaduna com o entendimento desta Corte. A esse respeito:
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO JUDICIAL. TEMA 880/STJ. MODULAÇÃO DOS EFEITOS. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. NÃO OCORRÊNCIA. SÚMULA 7/STJ. PROVIMENTO NEGADO.
+1. O Superior Tribunal de Justiça, no julgamento dos EDcl no REsp 1.336.026/PE, relator Ministro Og Fernandes, Primeira Seção, DJe 30/6/2017, sob o rito dos recursos repetitivos (Tema 880), firmou entendimento no sentido de que "para as decisões transitadas em julgado até 17/3/2016 (quando ainda em vigor o CPC/1973) e que estejam dependendo, para ingressar com o pedido de cumprimento de sentença, do forne cimento pelo executado de documentos ou fichas financeiras (tenha tal providência sido deferida, ou não, pelo juiz ou esteja, ou não, completa a documentação), o prazo prescricional de 5 anos para propositura da execução ou cumprimento de sentença conta-se a partir de 30/6/2017".
+2. O Tribunal de origem, após a análise dos autos, observou que, "restou inequívoca a dificuldade dos apelantes em obterem junto à Superintendência de Planejamento, Gestão e Finanças do Estado os demonstrativos de pagamento para levantamento dos cálculos (f. 451), e, considerando que o trânsito em julgado operou-se antes de 30.06.2016, não há falar em prescrição da pretensão executória sobretudo porque entre a data da justificativa para a elaboração dos cálculos (04.02.2004) (f. 451) e a data da efetiva entrega da memória descritiva do crédito (09.01.2009) (f. 465), não houve o decurso do prazo de cinco anos" (fl. 995).
+3. Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto. Sendo assim, incide no caso a Súmula 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.083.658/MG, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 19/6/2023, DJe de 22/6/2023.)
+Nesse panorama, verifico que deixou de ser observada a dialeticidade recursal (art. 932, inciso III, do CPC). Por conseguinte, o agravo em recurso especial carece do indispensável pressuposto de admissibilidade atinente à impugnação adequada e concreta de todos os fundamentos empregados pela Corte para não admitir o recurso a quo especial, a atrair a incidência da Súmula n. 182 do STJ. Nesse sentido:
+ ..
+5. Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravad a, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC.
+6. Agravo Interno não provido.
+(AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022).
+Assim, não tendo a parte agravante logrado êxito em infirmar os fundamentos que nortearam a decisão ora agravada, impõe-se a sua manutenção, em todos os seus termos.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É o voto.
