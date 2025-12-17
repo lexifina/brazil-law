@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/12/2025 a 17/12/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 1.021, § 1º, DO CPC/2015 E SÚMULA 182 DO STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. A decisão agravada não conheceu do recurso especial, em face da incidência das Súmulas 83 e 211 deste STJ e, por analogia, da Súmula 284 do STF. Todavia, no presente agravo interno, não  houve  impugnação  específica  dos  fundamentos  relativos  à  aplicação das Súmulas 284 do STF e 83 e 211 deste STJ
+2. A respeito da aplicação da Súmula 83 do STJ pelo juízo prévio de admissibilidade, em casos análogos, esta Corte entende que "a efetiva impugnação dessa decisão exigiria a indicação de precedentes contemporâneos ou posteriores aos mencionados na decisão combatida, demonstrando-se, através de um adequado confronto analítico, que o entendimento jurisprudencial desta Corte Superior é diverso ou que a situação em análise difere substancialmente dos precedentes invocados pelo Tribunal a quo" (AgInt no AREsp n. 2.217.188/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 19/12/2022), o que não ocorreu na espécie.
+3. Nos termos do art. 1.021, § 1º, do CPC/2015 e da Súmula 182/STJ, a parte agravante deve infirmar, especificamente, nas razões do agravo interno, os fundamentos da decisão atacada, sob pena de não ser conhecido o seu recurso.
+4 .  Agravo  interno  não  conhecido.
+RELATÓRIO
+MINISTRO AFRÂNIO VILELA: Em  análise,  agravo  interno  interposto  por  ESTADO DO CEARÁ  contra  a  decisão  que  não conheceu do recurso especial, em razão da aplicação da Súmula 284/STF e das Súmulas 83 e 211 deste STJ.
+Argumenta  o Estado do Ceará "que a decisão agravada não considerou adequadamente a controvérsia jurídica central, que é a falta de interesse de agir para a propositura de uma nova ação de cobrança (ação de conhecimento) para reaver valores cujo direito já foi reconhecido em decisão judicial transitada em julgado (Mandado de Segurança). Defende que o caminho processual adequado seria a execução da sentença primeva, e não uma nova ação de cobrança" (fls. 260-261).
+Sustenta, ainda, que "o requisito do prequestionamento foi atendido, seja pela via implícita, seja pela via ficta, porquanto a matéria jurídica foi enfrentada no julgamento do Tribunal de origem, configurando o prequestionamento implícito. Além disso, aponta que a omissão do Tribunal de origem, mesmo após a oposição de Embargos de Declaração, atrai a incidência do prequestionamento ficto, conforme o art. 1.025 do CPC" (fls. 261-262).
+Aduz que "o acórdão recorrido diverge da jurisprudência consolidada do STJ e do STF. Defende que as parcelas vencidas no curso do Mandado de Segurança, após a concessão da segurança e o trânsito em julgado, integram o título executivo judicial formado e devem ser satisfeitas pela via da execução, e não por uma nova ação de cobrança. Alega que o acórdão do Tribunal de Justiça do Ceará contrariou a interpretação sistemática da jurisprudência" (fl. 262).
+Pugna pela reconsideração da decisão agravada ou pelo provimento do agravo interno pelo Colegiado.
+Como certificado nos autos, transcorreu in albis o prazo para impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 1.021, § 1º, DO CPC/2015 E SÚMULA 182 DO STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. A decisão agravada não conheceu do recurso especial, em face da incidência das Súmulas 83 e 211 deste STJ e, por analogia, da Súmula 284 do STF. Todavia, no presente agravo interno, não  houve  impugnação  específica  dos  fundamentos  relativos  à  aplicação das Súmulas 284 do STF e 83 e 211 deste STJ
+2. A respeito da aplicação da Súmula 83 do STJ pelo juízo prévio de admissibilidade, em casos análogos, esta Corte entende que "a efetiva impugnação dessa decisão exigiria a indicação de precedentes contemporâneos ou posteriores aos mencionados na decisão combatida, demonstrando-se, através de um adequado confronto analítico, que o entendimento jurisprudencial desta Corte Superior é diverso ou que a situação em análise difere substancialmente dos precedentes invocados pelo Tribunal a quo" (AgInt no AREsp n. 2.217.188/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 19/12/2022), o que não ocorreu na espécie.
+3. Nos termos do art. 1.021, § 1º, do CPC/2015 e da Súmula 182/STJ, a parte agravante deve infirmar, especificamente, nas razões do agravo interno, os fundamentos da decisão atacada, sob pena de não ser conhecido o seu recurso.
+4 .  Agravo  interno  não  conhecido.
+VOTO
+MINISTRO AFRÂNIO VILELA (Relator): O agravo interno não merece conhecimento, porquanto não foi observado o princípio da dialeticidade recursal.
+Conforme dispõe o § 1º do art. 1.021 do CPC/2015, "na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada".
+A decisão agravada não conheceu do recurso especial, em face da incidência das Súmulas 83 e 211 deste STJ e, por analogia, da Súmula 284 do STF.
+Todavia, no presente agravo interno, não  houve  impugnação  específica  dos  fundamentos  relativos  à  aplicação das Súmulas 284 do STF e 83 e 211 deste STJ.
+A respeito da aplicação da Súmula 83 do STJ pelo juízo prévio de admissibilidade, em casos análogos, esta Corte entende que "a efetiva impugnação dessa decisão exigiria a indicação de precedentes contemporâneos ou posteriores aos mencionados na decisão combatida, demonstrando-se, através de um adequado confronto analítico, que o entendimento jurisprudencial desta Corte Superior é diverso ou que a situação em análise difere substancialmente dos precedentes invocados pelo Tribunal a quo" (AgInt no AREsp n. 2.217.188/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 19/12/2022), o que não ocorreu na espécie.
+Com efeito, a dialeticidade recursal é um princípio fundamental da validade dos recursos, a partir do qual entende-se que o agravante deve atacar os argumentos da decisão, e não somente manifestar a vontade de recorrer, ou aduzir razões genéricas.
+A propósito:
+AGRAVO INTERNO NA SUSPENSÃO DE SEGURANÇA. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. REITERAÇÃO DOS TERMOS DO PEDIDO ORIGINÁRIO. AGRAVO NÃO CONHECIDO.
+1. A teor do que dispõem o art. 1.021, § 1º, do CPC/2015 e a Súmula 182 do STJ, a parte deve infirmar, nas razões do agravo interno, todos os fundamentos da decisão atacada, sob pena de não ser conhecido o seu recurso.
+2. O princípio da dialeticidade recursal impõe à parte agravante o dever de impugnar de forma clara, objetiva e concreta os fundamentos da decisão agravada de modo a demonstrar o desacerto do julgado.
+3. Agravo interno não conhecido (AgInt na SS n. 3.430/MA, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 12/9/2023, DJe de 15/9/2023).
+Portanto, conforme jurisprudência desta Corte, à luz do que dispõem o art. 1.021, § 1º, do CPC/2015 e a Súmula 182 do STJ, não se conhece do agravo interno quando ausente impugnação específica dos fundamentos da decisão agravada.
+Isso posto, não conheço do recurso.
