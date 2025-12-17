@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/12/2025 a 17/12/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Afrânio Vilela, Francisco Falcão, Maria Thereza de Assis Moura e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSO CIVIL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÕES. INEXISTÊNCIA. EMBARGOS REJEITADOS.
+1. Nos termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integ rativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial.
+2. A intenção de rediscutir questões que já foram objeto do devido exame e decisão no acórdão embargado, porque representa mera contrariedade com a conclusão da lide, é incabível na via dos embargos de declaração.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por LONDRINA NORTE ADMINISTRADORA DE SHOPPING CENTERS LTDA contra acórdão de minha relatoria, no qual neguei provimento ao agravo interno interposto pela embargante, conforme ementa a seguir transcrita (fl. 1769):
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ICMS. HONORÁRIOS SUCUMBENCIAIS. AUSÊNCIA DE PREQUESTIONAMENTO. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA N. 211 DO STJ. SÚMULA N. 283 DO STF. AGRAVO INTERNO DESPROVIDO.
+1. No agravo interno, a parte agravante sustenta que a fixação dos honorários sucumbenciais ofende os §§ 2º e 3º do art. 85 do CPC/2015, devendo ser aplicados os percentuais previstos, considerando a inversão do ônus sucumbencial na vigência do CPC/2015.
+2. Ausência de prequestionamento da matéria relativa à violação dos §§ 2º e 3º do art. 85 do CPC/2015, nos termos da Súmula n. 211 do STJ, pois o Tribunal de origem não apreciou a tese, apesar da oposição de embargos de declaração.
+3. O acórdão recorrido adotou fundamento autônomo ao afirmar que não houve pedido de majoração dos honorários na apelação cível, o qual não foi impugnado pela parte recorrente, incidindo o óbice da Súmula n. 283 do STF.
+4. Agravo interno conhecido, mas desprovido.
+Sustenta a parte embargante a existência de omissão e erro de fato, alegando, em síntese (fls. 1779-1786): (i) que o acórdão embargado aplicou indevidamente as Súmulas n. 211 do Superior Tribunal de Justiça e 283 do Supremo Tribunal Federal, pois houve oposição de embargos de declaração na origem para prequestionar os arts. 85, §§ 2º e 3º, e 1.022, inciso II, do Código de Processo Civil; (ii) que desde a sentença a discussão é contrária à fixação dos honorários por equidade, devendo ser observados os patamares dos §§ 2º e 3º do art. 85 do CPC/2015, uma vez que os honorários foram fixados em aproximadamente 0,6% do valor da causa; (iii) que "foi suscitada expressamente a violação ao artigo 1.022 do CPC, o que comprova a ocorrência de prequestionamento da matéria" e, portanto, seria inaplicável o óbice da Súmula n. 211/STJ; e (iv) que incide o prequestionamento ficto do art. 1.025 do CPC/2015.
+A parte embargada não apresentou contrarrazões aos embargos de declaração (fl. 1797).
+É o relatório.
+EMENTA
+PROCESSO CIVIL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÕES. INEXISTÊNCIA. EMBARGOS REJEITADOS.
+1. Nos termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integ rativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial.
+2. A intenção de rediscutir questões que já foram objeto do devido exame e decisão no acórdão embargado, porque representa mera contrariedade com a conclusão da lide, é incabível na via dos embargos de declaração.
+3. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração não devem ser acolhidos.
+Nos termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial. Ocorre que tais vícios não são verificados no aresto ora embargado.
+Isso porque o acórdão impugnado resolveu a questão controvertida de forma inteligível e congruente, porquanto apresentou todos os fundamentos que alicerçaram o convencimento nele plasmado, em conformidade com a legislação de regência e com o atual entendimento jurisprudencial do Superior Tribunal de Justiça.
+Com efeito, no aresto embargado foi explicitamente assinalado o seguinte (fls. 1770-1771):
+Apesar da argumentação da ora agravante, não merece provimento o agravo interno. Entendo que deve ser mantido o não conhecimento do recurso especial, mas por fundamentação diversa da constante da decisão de fls. 1732-1734.
+Isto porque, o Tribunal de origem, apesar da oposição de embargos de declaração, não apreciou a tese de violação ao art. 85, §§ 2º e 3º do CPC/15, motivo pelo qual está ausente o necessário prequestionamento, nos termos da Súmula n. 211 do STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo").
+Com efeito, o acórdão de fls. 1484-1486 explica que a majoração com base no art. 85, §11 do Código de Processo Civil ( honorários recursais) é inviável, pois o recurso foi interposto sob a vigência do CPC/73, aplicando-se o Diploma anterior devido ao princípio de que o tempo rege o ato e ao princípio do isolamento dos atos processuais.
+Já a argumentação do recurso especial se dá no sentido de que a fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação ou o proveito econômico da demanda forem elevados, devendo ser observados os percentuais previstos nos §§2º ou 3º do art. 85 do CPC.
+Cumpre anotar que, nos termos do entendimento desta Corte Superior, inexiste contradição quando se afasta a ofensa ao art. 1.022 do Código de Processo Civil e, ao mesmo tempo, se reconhece a falta de prequestionamento da matéria. Com efeito, é plenamente possível que o acórdão combatido esteja fundamentado e não tenha incorrido em omissão, e, ainda assim, não tenha decidido a questão sob o enfoque dos preceitos jurídicos suscitados pela parte recorrente. Nesse sentido: AgInt nos E Dcl no R Esp n. 2.052.450/PR, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/9/2023 , D Je de 21/9/2023; AgInt no R Esp n. 1.520.767/CE, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 8/9/2021, D Je de 14/9/2021.
+Ressalto, ainda, que a intenção de rediscutir questões que já foram objeto do devido exame e decisão no acórdão embargado, porque representa mera contrariedade com a conclusão da lide, é incabível na via dos embargos de declaração. Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIAL AUSÊNCIA. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS REJEITADOS.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para eliminar a obscuridade, contradição ou suprir a omissão existente no julgado, além da correção de erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes. A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+3. Não constatados os vícios indicados no art. 1.022, devem ser rejeitados os embargos de declaração, por consistirem em mero inconformismo da parte.
+(EDcl no REsp n. 1.978.532/SP, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 11/3/2024, DJe de 15/3/2024.)
+PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL REPETITIVO. TEMA N. 1.109. RENÚNCIA TÁCITA À PRESCRIÇÃO POR PARTE DA ADMINISTRAÇÃO. INAPLICABILIDADE DO ART. 191 DO CÓDIGO CIVIL NA ESPÉCIE. REGIME JURÍDICO-ADMINISTRATIVO DE DIREITO PÚBLICO QUE EXIGE LEI AUTORIZATIVA PRÓPRIA PARA FINS DE RENÚNCIA À PRESCRIÇÃO JÁ CONSUMADA EM FAVOR DA ADMINISTRAÇÃO. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas obscuridades no julgado combatido, traduzem, na verdade, o inconformismo da parte com o decisório tomado, buscando rediscutir o que decidido já foi.
+4. Embargos de declaração rejeitados.
+(EDcl no REsp n. 1.928.910/RS, relator Ministro Sérgio Kukina, Primeira Seção, julgado em 19/12/2023, DJe de 5/2/2024.)
+Ante o exposto, REJEITO os embargos de declaração.
+É como voto.
