@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/12/2025 a 17/12/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Carlos Pires Brandão, Og Fernandes, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSO PENAL. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. AUMENTO DA PENA-BASE. ANTECEDENTES. QUANTIDADE DE DROGA. NÃO CONHECIMENTO DO WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO. OMISSÃO NÃO CONFIGURADA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. DISCUSSÃO DO MÉRITO. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 619 do Código de Processo Penal, o recurso de embargos de declaração destina-se a suprir omissão, afastar ambiguidade, esclarecer obscuridade ou eliminar contradição existentes no julgado.
+2. No caso, não está configurada nenhuma omissão no acórdão embargado, que foi claro ao consignar que a jurisprudência do Superior Tribunal de Justiça é uníssona no sentido de que não cabe a utilização de habeas corpus como sucedâneo de recurso próprio ou de revisão criminal, sob pena de desvirtuamento do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+3. Não se desconhece a orientação presente no art. 647-A, caput e parágrafo único, do Código de Processo Penal, segundo a qual se permite a qualquer autoridade judicial, no âmbito de sua competência jurisdicional e quando verificada a presença de flagrante ilegalidade, a expedição de habeas corpus de ofício em vista de lesão ou ameaça de lesão à liberdade de locomoção. Todavia, não é essa a situação dos autos.
+4. Percebe-se uma insatisfação da parte quanto ao resultado do julgamento e a pretensão de modificá-lo por meio de instrumento processual nitidamente inábil à finalidade almejada, o que não pode ser admitido.
+5. Embargos de declaração rejeitados.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de embargos de declaração opostos por MARCOS ELIAS DA COSTA contra o acórdão da Sexta Turma desta Corte Superior que negou provimento ao agravo regimental anteriormente interposto, nos termos da seguinte ementa (e-STJ fl. 204):
+PROCESSO PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. AUMENTO DA PENA-BASE. QUANTIDADE DE DROGA. NÃO CONHECIMENTO DO WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça é uníssona no sentido de que não cabe a utilização de habeas corpus como sucedâneo de recurso próprio ou de revisão criminal, sob pena de desvirtuamento do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+2. Não se desconhece a orientação presente no art. 647-A, caput e parágrafo único, do Código de Processo Penal, segundo a qual se permite a qualquer autoridade judicial, no âmbito de sua competência jurisdicional e quando verificada a presença de flagrante ilegalidade, a expedição de habeas corpus de ofício em vista de lesão ou ameaça de lesão à liberdade de locomoção. Todavia, não é essa a situação dos autos.
+3. Agravo regimental desprovido.
+Neste recurso, sustenta o embargante, em suma, que (e-STJ fls. 216/217):
+Tanto no âmbito da inicial do writ como no corpo do próprio Agravo Regimental manejado, o ora embargante demonstrou, sobejamente, a total possibilidade de concessão de ordem de habeas corpus de ofício, tendo em vista as inúmeras ilegalidades constatadas na dosimetria da pena imposta, à luz do entendimento consolidado pelo Superior Tribunal de Justiça1 e, também, pela completa violação ao disposto no artigo 59 do CP e artigo 42 da Lei nº 11.343/03.
+Ocorre que a decisão ora embargada restou omissa no que concerne ao tema.
+ ..
+O v. Acórdão recorrido manteve a exasperação da pena-base sob o argumento de que a vultosa quantidade de droga justificaria a elevação da sanção inicial. Todavia, conforme destacado desde a impetração originária, trata-se de apreensão de apenas 2,077 kg de pasta base de cocaína e 14,50g de crack, quantidade que não extrapola o tipo penal e, portanto, não autoriza recrudescimento da pena-base.
+ ..
+No caso em exame, o Tribunal de origem avaliou tais elementos de forma destacada, em afronta ao art. 42 da Lei de Drogas e à jurisprudência pacífica desta Corte, o que caracteriza ilegalidade manifesta na dosimetria da pena.
+Ainda, as instâncias ordinárias reconheceram maus antecedentes com base em condenações extremamente antigas, datadas de mais de dez anos, e até em processos em que houve absolvição e/ou extinção da punibilidade.
+Em atenção ao princípio da proibição de penas de caráter perpétuo (art. 5º, XLVII, "b", da CF), e à orientação fixada no julgamento do R Esp 1.707.948/RJ (Rel. Min. Rogerio Schietti Cruz, D Je 16/04/2018), deve ser aplicada a teoria do direito ao esquecimento penal, afastando-se a negativação da vetorial "antecedentes" quando transcorrido extenso lapso temporal entre as condenações pretéritas e o novo delito.
+Requer, ao final, "o acolhimento dos presentes Embargos de Declaração, para que as omissões apontadas sejam devidamente sanadas, com atribuição de efeitos infringentes/modificativos, resultando no redimensionamento da pena imposta ao ora embargante" (e-STJ fls. 219/220).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSO PENAL. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. AUMENTO DA PENA-BASE. ANTECEDENTES. QUANTIDADE DE DROGA. NÃO CONHECIMENTO DO WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO. OMISSÃO NÃO CONFIGURADA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. DISCUSSÃO DO MÉRITO. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 619 do Código de Processo Penal, o recurso de embargos de declaração destina-se a suprir omissão, afastar ambiguidade, esclarecer obscuridade ou eliminar contradição existentes no julgado.
+2. No caso, não está configurada nenhuma omissão no acórdão embargado, que foi claro ao consignar que a jurisprudência do Superior Tribunal de Justiça é uníssona no sentido de que não cabe a utilização de habeas corpus como sucedâneo de recurso próprio ou de revisão criminal, sob pena de desvirtuamento do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+3. Não se desconhece a orientação presente no art. 647-A, caput e parágrafo único, do Código de Processo Penal, segundo a qual se permite a qualquer autoridade judicial, no âmbito de sua competência jurisdicional e quando verificada a presença de flagrante ilegalidade, a expedição de habeas corpus de ofício em vista de lesão ou ameaça de lesão à liberdade de locomoção. Todavia, não é essa a situação dos autos.
+4. Percebe-se uma insatisfação da parte quanto ao resultado do julgamento e a pretensão de modificá-lo por meio de instrumento processual nitidamente inábil à finalidade almejada, o que não pode ser admitido.
+5. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Os embargos de declaração não merecem prosperar.
+Conforme remansosa jurisprudência do Superior Tribunal de Justiça, os embargos declaratórios não se prestam à rediscussão do mérito dos julgados, mas somente ao exame de eventuais erros no provimento judicial que demandem reparo, com o objetivo de tornar as manifestações jurisdicionais coerentes, íntegras e exaurientes.
+Confiram-se:
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. MERO INCONFORMISMO. MANIFESTO CARÁTER PROTELATÓRIO. EMBARGOS REJEITADOS. REMESSA DOS AUTOS AO STF.
+1. Admitem-se embargos de declaração apenas quando evidenciada deficiência na compreensão do acórdão recorrido, com efetiva obscuridade, contradição, ambiguidade ou omissão (art. 619-CPP), o que não se dá no caso, conforme já afirmado nos primeiros embargos de declaração já rejeitados.
+2. Pela segunda vez, o embargante opõe embargos com base nas mesmas alegações, já afastadas no julgamento anterior, revelando nítida pretensão de rediscussão da matéria, visando alterar a conclusão que lhe resultou desfavorável, providência incabível nesta via. A reiterada insistência, sem novos fundamentos, evidencia nítido caráter protelatório dos recursos, configurando abuso do direito de defesa.
+3. Embargos de declaração rejeitados. Determinação, dado o manifesto caráter protelatório, de imediata remessa dos autos ao Supremo Tribunal Federal para apreciação do recurso extraordinário.
+(EDcl nos EDcl no AgRg no AREsp n. 2.091.737/SC, relator Ministro Jesuíno Rissato, Desembargador Convocado do TJDFT , Sexta Turma, julgado em 11/4/2023, DJe de 14/4/2023.)
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME CONTRA A ORDEM TRIBUTÁRIA. SONEGAÇÃO FISCAL. ICMS. CONTRADIÇÃO NO ACÓRDÃO RECORRIDO. AUSÊNCIA. PRETENSÃO DE REDISCUSSÃO DA MATÉRIA DECIDIDA. FRAUDE GROSSEIRA. SÚMULA N. 7 DO STJ. CONTINUIDADE DELITIVA. PERÍODO DE APURAÇÃO MENSAL. SÚMULA N. 83 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O acórdão explicitou de forma clara o entendimento de que cada período mensal de apuração do ICMS caracteriza um ilícito autônomo, tese em perfeita consonância com a orientação jurisprudencial do STJ. Portanto, a título de contradição, a parte pretendia mera rediscussão da matéria decidida em seu desfavor, circunstância não admitida nos embargos de declaração.
+ ..  (AgRg no AREsp n. 2.262.169/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 21/3/2023, DJe de 29/3/2023.)
+No caso, o acórdão embargado foi claro ao consignar que o Superior Tribunal de Justiça, de longa data, vem buscando fixar balizas para a racionalização do uso do habeas corpus, visando a garantia não apenas do curso natural das ações ou revisões criminais mas também da efetiva priorização do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+Nessa linha, assentou que "é incognoscível, ordinariamente, o habeas corpus impetrado em substituição à via recursal de impugnação própria" (AgRg no HC n. 716.759/RS, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 26/9/2023, DJe de 2/10/2023).
+Outrossim, entendeu-se que não há como superar, no caso, o óbice aplicado, tendo em vista a ausência de flagrante ilegalidade a atrair a concessão da ordem de ofício, assentando que cabe às instâncias ordinárias, discricionariamente, considerando particularidades fáticas e materiais do feito, e de forma motivada, fixar a reprimenda ao caso concreto, reservando-se a esta Corte Superior apenas o controle da legalidade dos argumentos utilizados na origem. Na espécie, não verifico, de pronto, ilegalidade no procedimento dosimétrico adotado na origem.
+Não diviso, portanto, a existência das alegadas omissões e obscuridades no acórdão embargado, revelando-se os presentes aclaratórios como mera irresignação diante do resultado de julgamento.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
