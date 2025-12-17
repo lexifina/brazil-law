@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/12/2025 a 17/12/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Afrânio Vilela, Francisco Falcão, Maria Thereza de Assis Moura e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSO CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÕES E CONTRADIÇÃO. INEXISTÊNCIA. EMBARGOS REJEITADOS.
+1. Nos termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil , o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial.
+2. Na hipótese, o acórdão impugnado resolveu a questão controvertida de forma inteligível e congruente, pois apresentou todos os fundamentos que alicerçaram o convencimento nele plasmado, em conformidade com a legislação de regência e com o atual entendimento jurisprudencial do Superior Tribunal de Justiça
+3. A contradição ensejadora dos declaratórios deve ser aquela verificada no bojo do decisum embargado, ou seja, aquela existente entre os fundamentos utilizados para embasá-lo e a sua conclusão.
+4. No caso, inexiste a contradição apontada, posto que a a conclusão advém exatamente da fundamentação adotada.
+5. A intenção de rediscutir questões que já foram objeto do devido exame e decisão no acórdão embargado, porque representa mera contrariedade com a conclusão da lide, é incabível na via dos embargos de declaração.
+6. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por MARIO HELDER DE OLIVEIRA CARVALHO contra acórdão por mim relatado que negou provimento ao respectivo agravo interno, nos termos da seguinte ementa (fls. 844-845):
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. TOMADA DE CONTAS ESPECIAL. ALEGAÇÃO DE PRESCRIÇÃO. INOCORRÊNCIA. AUSÊNCIA DE INÉRCIA PELO LAPSOTEMPORAL DE CINCO ANOS. ATOS PARA APURAÇÃO DOSFATOS. INTERRUPÇÃO DA PRESCRIÇÃO. REVISÃO DE PREMISSAS FÁTICAS. IMPOSSIBILIDADE. AUSÊNCIA DE COTEJO SÚMULA N. 7/STJ. ANALÍTICO. DIVERGÊNCIA JURISPRUDENCIAL NÃO CONHECIDA. AGRAVO INTERNO DESPROVIDO.
+1. Sobre a prescrição aplicável aos processos nos Tribunais de Contas, a jurisprudência vem adotando o entendimento de que o prazo prescricional a ser utilizado é o previsto na sendo quinquenal para a Lei n. 9.873/1999,contagem do exercício da pretensão punitiva pela administração pública federal (art. 1º, caput) e trienal para a incidência da prescrição intercorrente (art. 1º, §1º).
+2. A jurisprudência deste Superior Tribunal de Justiça, em atenção ao previsto no art. 2º, II, da Lei n. 9.873/1999, tem entendido que a prescrição será interrompida pela prática de qualquer ato para o impulsionamento do feito, tendente a apurar a infração.
+3. O Tribunal de origem, ao analisar os marcos para fins de prescrição, assim entendeu: "No caso, pelo que se verifica nos autos e no sistema eletrônico do TCU, os fatos objeto da apuração conduzida pela Corte de Contas ocorreram entre 05/11/2003 e 31/01/2004, consoante prestação de contas apresentada pelo IMPARH ao MTE em 02/2004. A prestação de contas foi analisada pelo Ministério do Trabalho e Emprego, considerando o Relatório Preliminar de Tomada de Contas Especial daquele ministério, o que ocorreu no ano de 2007, com intimação dos executados naquele ano, para prestarem esclarecimentos ou pagarem o valor do convênio. Posteriormente, em outubro de 2009, instaurou-se a Tomada de Constas Especial pelo Tribunal de Contas da União - id. 4058100.2403152. No TCU houve citação do executado em 01 de julho de 2010, havendo decisão definitiva da Segunda Câmara, em agosto de 2013, encerrando-se o processo em 21 de julho de 2015.".
+4. No caso, considerando os marcos constantes do acórdão recorrido, que foram vistos, pelo Tribunal de origem, como impulsionamentos do feito para fins de apuração da infração, tenho que não configurada a prescrição prevista na Lei n. 9.873/99.
+5. A revisão das premissas fáticas que serviram à formação da convicção quanto à ausência de paralisação do feito é inviável no âmbito do recurso especial, por força da Súmula n. 7/STJ.
+6. Quanto ao dissídio jurisprudencial, a parte recorrente não realizou o cotejo analítico, nos moldes legais e regimentais, vício insanável.
+7. Agravo interno desprovido.
+Sustenta a parte embargante que o acórdão foi omisso quanto: (a) o marco inicial e a integração dos regimes prescricionais (Lei n. 9.873/1999, art. 1º e 2º, II; Decreto n. 20.910/1932; Tema n. 899/STF); (b) a insuficiência de atos do MTE para interromper prazo antes da instauração da TCE; (c) a tese jurídica autônoma: Tema n. 899/STF e a exigência de ato inequívoco em prazo razoável. Além disso, apontou contradição relativa ao reconhecimento de "atos interruptivos" sem individualização fático-temporal e, ao mesmo tempo, impedimento de análise por Súmula n. 7/STJ.
+Foi apresentada resposta ao recurso integrativo (fls. 876-877).
+É o relatório.
+EMENTA
+PROCESSO CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÕES E CONTRADIÇÃO. INEXISTÊNCIA. EMBARGOS REJEITADOS.
+1. Nos termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil , o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial.
+2. Na hipótese, o acórdão impugnado resolveu a questão controvertida de forma inteligível e congruente, pois apresentou todos os fundamentos que alicerçaram o convencimento nele plasmado, em conformidade com a legislação de regência e com o atual entendimento jurisprudencial do Superior Tribunal de Justiça
+3. A contradição ensejadora dos declaratórios deve ser aquela verificada no bojo do decisum embargado, ou seja, aquela existente entre os fundamentos utilizados para embasá-lo e a sua conclusão.
+4. No caso, inexiste a contradição apontada, posto que a a conclusão advém exatamente da fundamentação adotada.
+5. A intenção de rediscutir questões que já foram objeto do devido exame e decisão no acórdão embargado, porque representa mera contrariedade com a conclusão da lide, é incabível na via dos embargos de declaração.
+6. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração não devem ser acolhidos.
+Nos termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial. Ocorre que tais vícios não são verificados no aresto ora embargado.
+Isso porque o acórdão impugnado resolveu a questão controvertida de forma inteligível e congruente, porquanto apresentou todos os fundamentos que alicerçaram o convencimento nele plasmado, em conformidade com a legislação de regência e com o atual entendimento jurisprudencial do Superior Tribunal de Justiça.
+Com efeito, no aresto embargado foi explicitamente assinalado que (fls. 849-855):
+Sobre a prescrição aplicável aos processos nos Tribunais de Contas, a jurisprudência vem adotando o entendimento de que o prazo prescricional a ser utilizado é o previsto na Lei n. 9.873/1999, sendo quinquenal para a contagem do exercício da pretensão punitiva pela administração pública federal (art. 1º, caput) e trienal para a incidência da prescrição intercorrente (art. 1º, § 1º).
+ ..
+O art. 2º, inciso II, da Lei n. 9.873/199, prevê que a prescrição será interrompida por qualquer ato inequívoco que importe apuração do fato. Confira-se:
+ ..
+A jurisprudência deste Superior Tribunal de Justiça tem entendido que a prescrição será interrompida pela prática de qualquer ato para o impulsionamento do feito, tendente a apurar a infração, como pode ser visto em recente julgado desta Segunda Turma, verbis:
+ ..
+No caso, considerando os marcos constantes do acórdão recorrido, que foram vistos, pelo Tribunal de origem, como impulsionamentos do feito para fins de apuração da infração, tenho que não configurada a prescrição prevista na Lei n. 9.873/99.
+Para além disso, ressalto que a revisão das premissas fáticas que serviram à formação da convicção quanto à ausência de paralisação do feito é inviável no âmbito do recurso especial, por força da Súmula n. 7/STJ.
+Ademais, consoante pacífica jurisprudência das Cortes de Vértice, o Julgador não está obrigado a rebater, individualmente, todos os argumentos suscitados pelas partes, sendo suficiente que demonstre, fundamentadamente, as razões do seu convencimento.
+Como se sabe, " a  omissão somente será considerada quando a questão seja de tal forma relevante que deva o julgador se pronunciar" (AgInt nos EDcl no REsp n. 2.124.369/RJ, relator Ministro Francisco Falcão, Segunda Turma, julgado em 7/10/2024, DJe de 9/10/2024).
+Com efeito, " n ão configura ofensa ao art. 1.022 do CPC/2015 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pelo recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia" (AgInt no AREsp n. 2.448.701/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 19/8/2024, DJe de 2/9/2024; sem grifos no original).
+A contradição ensejadora dos declaratórios deve ser aquela verificada no bojo do decisum embargado, ou seja, aquela existente entre os fundamentos utilizados para embasá-lo e a sua conclusão.
+Nesse sentido: " ..  a contradição sanável por meio dos aclaratórios é aquela interna ao julgado embargado, que se dá entre a fundamentação e o dispositivo, de modo a evidenciar uma ausência de logicidade no raciocínio desenvolvido pelo julgador" (EDcl no AgInt no AREsp n. 2.369.902/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 13/11/2023, DJe de 17/11/2023).
+No caso, inexiste a contradição apontada, posto que a a conclusão advém exatamente da fundamentação adotada.
+Ressalto, por fim, que a intenção de rediscutir questões que já foram objeto do devido exame e decisão no acórdão embargado, porque representa mera contrariedade com a conclusão da lide, é incabível na via dos embargos de declaração.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIAL AUSÊNCIA. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS REJEITADOS.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para eliminar a obscuridade, contradição ou suprir a omissão existente no julgado, além da correção de erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes. A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+3. Não constatados os vícios indicados no art. 1.022, devem ser rejeitados os embargos de declaração, por consistirem em mero inconformismo da parte. (EDcl no REsp n. 1.978.532/SP, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 11/3/2024, DJe de 15/3/2024.)
+PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL REPETITIVO. TEMA N. 1.109. RENÚNCIA TÁCITA À PRESCRIÇÃO POR PARTE DA ADMINISTRAÇÃO. INAPLICABILIDADE DO ART. 191 DO CÓDIGO CIVIL NA ESPÉCIE. REGIME JURÍDICO-ADMINISTRATIVO DE DIREITO PÚBLICO QUE EXIGE LEI AUTORIZATIVA PRÓPRIA PARA FINS DE RENÚNCIA À PRESCRIÇÃO JÁ CONSUMADA EM FAVOR DA ADMINISTRAÇÃO. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas obscuridades no julgado combatido, traduzem, na verdade, o inconformismo da parte com o decisório tomado, buscando rediscutir o que decidido já foi.
+4. Embargos de declaração rejeitados. (EDcl no REsp n. 1.928.910/RS, relator Ministro Sérgio Kukina, Primeira Seção, julgado em 19/12/2023, DJe de 5/2/2024.)
+Ante o exposto, REJEITO os embargos de declaração.
+É como voto.
