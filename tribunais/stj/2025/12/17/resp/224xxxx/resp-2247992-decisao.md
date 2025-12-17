@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra acórdão do Tribunal Regional Federal da 6ª Região assim ementado (e-STJ, fl. 1.334):
+EMBARGOS EM EXECUÇÃO FISCAL. CRÉDITO RURAL E FUNDIÁRIO. LEI N. 13.988/20. ACORDO DE PARCELAMENTO. EXCLUSÃO LEGAL DO ENCARGO DE 20% DO DÉBITO. CONDENAÇÃO SUBSTITUTIVA EM HONORÁRIOS ADVOCATÍCIOS. IMPOSSIBILIDADE.
+1. A exclusão do encargo de 20% em negociação  rmada para extinção de dívida não autoriza a cobrança de honorários advocatícios pela sentença que extingue os embargos à execução.
+2. Apelação provida.
+Os embargos de declaração foram rejeitados (e-STJ, fls. 1.373-1.378).
+Em suas razões (e-STJ, fls. 1.392-1.400), a parte recorrente aponta violação dos arts. 85 e 90 do Código de Processo Civil, bem como do art. 97, inciso VI, do Código Tributário Nacional, sustentando que a Lei 13.988/2020 não prevê descontos sobre honorários sucumbenciais e que o acórdão recorrido negou vigência às normas processuais que impõem condenação em honorários pelo princípio da causalidade.
+As contrarrazões foram apresentadas (e-STJ, fls. 1.406-1.412).
+O recurso foi admitido na origem (e-STJ, fl. 1.419).
+Brevemente relatado, decido.
+O art. 1.036 do CPC prevê que, sempre que houver multiplicidade de recursos extraordinários ou especiais com fundamento em idêntica questão de direito, haverá afetação para julgamento de acordo com as disposições desta Subseção, observado o disposto no Regimento Interno do Supremo Tribunal Federal e no do Superior Tribunal de Justiça.
+Nesse contexto, a Primeira Seção do Superior Tribunal de Justiça afetou o Tema Repetitivo nº 1.317 para definir "se, à luz do CPC, é cabível a condenação do contribuinte em honorários advocatícios sucumbenciais em embargos à execução fiscal extintos com fundamento na desistência ou na renúncia de direito manifestada para fins de adesão a programa de recuperação fiscal, em que já inserida a cobrança de verba honorária no âmbito administrativo".
+Na oportunidade, determinou a suspensão do processamento de recursos especiais ou de agravos em recursos especiais, em segunda instância e/ou no STJ, fundados em idêntica questão de direito, observada a orientação prevista no art. 256-L do RISTJ. Confira-se:
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA. EMBARGOS À EXECUÇÃO FISCAL. DESISTÊNCIA OU RENÚNCIA PARA ADESÃO A PROGRAMA DE PARCELAMENTO. HONORÁRIOS ADVOCATÍCIOS. (DES)CABIMENTO. AFETAÇÃO.
+1. A questão jurídica a ser solucionada pelo Superior Tribunal de Justiça refere-se ao cabimento da condenação do contribuinte ao pagamento de honorários advocatícios sucumbenciais, na hipótese de desistência dos embargos à execução fiscal ou de renúncia do direito neles suscitado a fim de aderir a programa de recuperação fiscal (na hipótese, instituído por legislação estadual), que prevê o pagamento de verba honorária no âmbito administrativo.
+2. O precedente vinculante que julgou o Tema 400 do STJ não interfere na presente afetação, visto que versou sobre situação distinta. Naquele julgado, se decidiu pela impossibilidade de nova condenação em honorários advocatícios pela desistência de ação de embargos para fins de parcelamento, dada a inclusão do encargo legal de 20% do Decreto-lei n. 1.025/1969 na cobrança de crédito tributário da Fazenda Nacional, circunstância ausente na discussão da presente questão jurídica.
+3. Tese controvertida: definir se é cabível a condenação do contribuinte em honorários advocatícios sucumbenciais em embargos à execução fiscal extintos com fundamento na desistência ou na renúncia de direito manifestada para fins de adesão a programa de recuperação fiscal, em que já inserida a cobrança de verba honorária no âmbito administrativo.
+4. Afetação do recurso especial como representativo da controvérsia repetitiva para julgamento pela Primeira Seção do Superior Tribunal de Justiça.
+(ProAfR no REsp n. 2.158.358/MG, relator Ministro Gurgel de Faria, Primeira Seção, julgado em 18/3/2025, DJEN de 28/3/2025.)
+Na hipótese dos autos, a parte recorrente aponta violação dos arts. 85 e 90 do Código de Processo Civil, bem como do art. 97, inciso VI, do Código Tributário Nacional, sustentando que a Lei 13.988/2020 não prevê descontos sobre honorários sucumbenciais e que o acórdão recorrido negou vigência às normas processuais que impõem condenação em honorários pelo princípio da causalidade.
+Logo, verifica-se que há identidade entre a matéria tratada nos autos e no referido tema repetitivo do STJ.
+Nessa esteira, em observância ao princípio da economia processual e ao art. 256-L do RISTJ, a seguir transcrito, considera-se devido o retorno dos autos à origem, onde ficarão sobrestados até a publicação do acórdão proferido no recurso afetado como representativo da controvérsia:
+Art. 256-L. Publicada a decisão de afetação, os demais recursos especiais
+em tramitação no STJ fundados em idêntica questão de direito:
+I - se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator;
+II - se ainda não distribuídos, serão devolvidos ao Tribunal de origem por decisão fundamentada do Presidente do STJ.
+Ante o exposto, determino a devolução dos autos à Corte de origem, com a respectiva baixa, a fim de que, após a publicação dos acórdãos a serem proferidos nos recursos representativos da controvérsia vinculados ao Tema 1.317/STJ, sejam tomadas as providências previstas nos arts. 1.039, caput, e 1.040 do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. HONORÁRIOS ADVOCATÍCIOS. CRÉDITO RURAL E FUNDIÁRIO. LEI N. 13.988/2020. ACORDO DE PARCELAMENTO. AUSÊNCIA DE COBRANÇA DO ENCARGO DE 20% PREVISTO NO ART. 3º DO DECRETO-LEI 1.645/1978. VIOLAÇÃO DOS ARTS. 85 E 90 DO CÓDIGO DE PROCESSO CIVIL E DO ART. 97, VI, DO CÓDIGO TRIBUTÁRIO NACIONAL. MATÉRIA AFETADA AO RITO DOS RECURSOS REPETITIVOS. TEMA 1.317/STJ. DETERMINADA A DEVOLUÇÃO DOS AUTOS À CORTE DE ORIGEM.
