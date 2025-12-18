@@ -1,0 +1,118 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Messod Azulay Neto, Maria Marluce Caldas, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito Processual Penal. Agravo Regimental. Receptação. Ônus da prova. Súmula N. 7 do STJ. Recurso desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que conheceu do agravo em recurso especial para não conhecer do recurso especial.
+2. A defesa sustenta a inaplicabilidade da Súmula 7 do STJ e insiste nos argumentos apresentados no recurso especial.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se houve violação ao art. 315, § 2º, incisos IV e V, do CPP, e ao art. 180, § 3º, do CP c/c art. 156, caput, do CPP, bem como se a pretensão de alteração da conclusão das instâncias ordinárias encontra óbice na Súmula 7 do STJ.
+III. Razões de decidir
+4. O Tribunal de Justiça do Estado do Rio de Janeiro manteve a condenação indicando expressamente as razões que justificaram a conclusão, sendo desnecessário o debate sobre todas as teses levantadas pelas partes, desde que as razões de decidir sejam suficientes para subsidiar a decisão.
+5. Não foram identificados vícios no enfrentamento das matérias suscitadas, apenas inconformismo da parte com o resultado.
+6. A jurisprudência do STJ estabelece que a decisão diversa da defendida pelo recorrente, com fundamentos distintos, não configura omissão ou ausência de fundamentação.
+7. O magistrado não está obrigado a rebater todas as questões trazidas pelas partes, sendo configurada a negativa de prestação jurisdicional apenas quando o Tribunal de origem deixa de emitir posicionamento acerca de matéria essencial.
+8. No crime de receptação, cabe à defesa apresentar prova acerca da origem lícita do bem ou de sua conduta culposa, nos termos do art. 156 do CPP, sem que se possa falar em inversão do ônus da prova.
+9. A pretensão de alteração da conclusão das instâncias ordinárias acerca da autoria, materialidade e dolo do agente demanda nova análise das provas e dos fatos, o que encontra óbice na Súmula 7 do STJ.
+IV. Dispositivo e tese
+10. Resultado do Julgamento: Agravo regimental desprovido.
+Tese de julgamento:
+Dispositivos relevantes citados:CPP, art. 156; CPP, art. 315, § 2º, incisos IV e V; CP, art. 180, § 3º.
+Jurisprudência relevante citada:STJ, AgRg no AREsp 1.322.810/ES, Rel. Min. Maria Thereza de Assis Moura, Sexta Turma, DJe 30.08.2018; STJ, AgRg no AREsp 1.965.518/RS, Rel. Min. Olindo Menezes, Sexta Turma, DJe 24.06.2022; STJ, AgRg no HC 953.457/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe 26.02.2025.
+RELATÓRIO
+Cuida-se de Agravo Regimental interposto por TIAGO AUGUSTO LOUZADA contra decisão de minha lavra de fls. 545/551 que conheceu do agravo em recurso especial para não conhecer do recurso especial.
+No presente agravo regimental, a defesa insiste nos argumentos lançados no recurso especial e pondera a inaplicabilidade da Súmula n. 7 do STJ.
+É o relatório.
+EMENTA
+Direito Processual Penal. Agravo Regimental. Receptação. Ônus da prova. Súmula N. 7 do STJ. Recurso desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que conheceu do agravo em recurso especial para não conhecer do recurso especial.
+2. A defesa sustenta a inaplicabilidade da Súmula 7 do STJ e insiste nos argumentos apresentados no recurso especial.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se houve violação ao art. 315, § 2º, incisos IV e V, do CPP, e ao art. 180, § 3º, do CP c/c art. 156, caput, do CPP, bem como se a pretensão de alteração da conclusão das instâncias ordinárias encontra óbice na Súmula 7 do STJ.
+III. Razões de decidir
+4. O Tribunal de Justiça do Estado do Rio de Janeiro manteve a condenação indicando expressamente as razões que justificaram a conclusão, sendo desnecessário o debate sobre todas as teses levantadas pelas partes, desde que as razões de decidir sejam suficientes para subsidiar a decisão.
+5. Não foram identificados vícios no enfrentamento das matérias suscitadas, apenas inconformismo da parte com o resultado.
+6. A jurisprudência do STJ estabelece que a decisão diversa da defendida pelo recorrente, com fundamentos distintos, não configura omissão ou ausência de fundamentação.
+7. O magistrado não está obrigado a rebater todas as questões trazidas pelas partes, sendo configurada a negativa de prestação jurisdicional apenas quando o Tribunal de origem deixa de emitir posicionamento acerca de matéria essencial.
+8. No crime de receptação, cabe à defesa apresentar prova acerca da origem lícita do bem ou de sua conduta culposa, nos termos do art. 156 do CPP, sem que se possa falar em inversão do ônus da prova.
+9. A pretensão de alteração da conclusão das instâncias ordinárias acerca da autoria, materialidade e dolo do agente demanda nova análise das provas e dos fatos, o que encontra óbice na Súmula 7 do STJ.
+IV. Dispositivo e tese
+10. Resultado do Julgamento: Agravo regimental desprovido.
+Tese de julgamento:
+1. O magistrado não está obrigado a rebater pormenorizadamente todas as questões trazidas pelas partes, configurando-se negativa de prestação jurisdicional apenas nos casos em que o Tribunal de origem deixa de emitir posicionamento acerca de matéria essencial. 2. No crime de receptação, cabe à defesa apresentar prova acerca da origem lícita do bem ou de sua conduta culposa, nos termos do art. 156 do Código de Processo Penal, sem que se possa falar em inversão do ônus da prova. 3. A pretensão de alteração da conclusão das instâncias ordinárias acerca da autoria, materialidade e dolo do agente encontra óbice na Súmula 7 do STJ.
+Dispositivos relevantes citados:CPP, art. 156; CPP, art. 315, § 2º, incisos IV e V; CP, art. 180, § 3º.
+Jurisprudência relevante citada:STJ, AgRg no AREsp 1.322.810/ES, Rel. Min. Maria Thereza de Assis Moura, Sexta Turma, DJe 30.08.2018; STJ, AgRg no AREsp 1.965.518/RS, Rel. Min. Olindo Menezes, Sexta Turma, DJe 24.06.2022; STJ, AgRg no HC 953.457/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe 26.02.2025.
+VOTO
+O recurso não merece provimento, devendo a decisão agravada ser mantida por seus próprios fundamentos.
+Isso porque, conforme já consignado, não se observa violação ao art. 315, § 2º, incisos IV e V, do CPP, pois o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO manteve a condenação indicando expressamente as razões que justificaram a conclusão, de modo que não é necessário o debate sobre todas as teses levantadas pelas partes, desde que as razões de decidir desenvolvidas sejam suficientes para subsidiar a conclusão a que se chegou.
+Na espécie, não restaram explicitados quaisquer vícios no enfrentamento das matérias suscitadas, apenas inconformismo da parte com o resultado.
+Nos termos da jurisprudência desta Corte, "O fato do Tribunal de origem ter decidido o pleito de forma diversa da defendida pelo recorrente, elegendo fundamentos distintos daqueles por ele propostos, não configura omissão ou ausência de fundamentação" (AgRg no AREsp n. 1.322.810/ES, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 30/8/2018).
+Ainda assim, este Tribunal entende que "Não está o magistrado obrigado a rebater, pormenorizadamente, todas as questões trazidas pelas partes, configurando-se a negativa de prestação jurisdicional somente nos casos em que o Tribunal de origem deixa de emitir posicionamento acerca de matéria essencial  .. " (AgRg no AREsp n. 1.965.518/RS, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 21/6/2022, DJe de 24/6/2022), o que não ocorreu na hipótese em epígrafe.
+Em corroboração, na mesma senda, citam-se precedentes:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSO PENAL. CRIME DO ART. 308 DO CP. ALEGADA VIOLAÇÃO AO ART. 315, § 2º, IV E VI, DO CPP. NULIDADE. AUSÊNCIA DE FUNDAMENTAÇÃO ADEQUADA. NÃO OCORRÊNCIA. FALSA IDENTIDADE. TIPICIDADE. CRIME FORMAL. ALEGAÇÃO DE CRIME IMPOSSÍVEL. POLICIAL QUE CONHECIA O VERDADEIRO NOME DO IDENTIFICANDO. IRRELEVÂNCIA.
+1. O acórdão recorrido encontra-se em harmonia com a jurisprudência desta Corte Superior firmada no sentido de que " o  reconhecimento de violação dos arts. 315, § 2º, IV, e 381, III, do CPP pressupõe a ocorrência de fundamentação deficiente. A assertiva, no entanto, não pode ser confundida com o mero inconformismo da parte com a conclusão alcançada pelo julgador que, apesar das teses propostas, lança mão de fundamentação idônea e suficiente para a formação do seu convencimento" (AgRg no AREsp n. 2.697.148/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 5/11/2024, DJe de 7/11/2024). No caso em análise, as instâncias ordinárias enfrentaram todas as questões essenciais à resolução da controvérsia, não havendo se falar em nulidade por ausência de fundamentação adequada.
+2. O entendimento deste Tribunal Superior é no sentido de que " o  crime de falsa identidade é formal, ou seja, consuma-se com a simples conduta de atribuir-se falsa identidade, apta a ocasionar o resultado jurídico do crime, sendo dispensável a ocorrência de resultado naturalístico, consistente na obtenção de vantagem para si ou para outrem ou de prejuízo a terceiros, ocorrendo inclusive em situação de autodefesa" (AgRg no HC n. 821.195/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 28/8/2023, DJe de 30/8/2023).
+3. Ademais, " n ão se caracteriza hipótese de crime impossível, se o policial conhece o verdadeiro nome do identificando e com isso torna mais facil a pronta constatação da falsidade na identificação.
+" (HC 70.422/RJ, Primeira Turma, Rel. Min. Sydney Sanches, DJU de 24/06/94)" (RHC n. 22.663/RJ, relator Ministro Felix Fischer, Quinta Turma, julgado em 1º/4/2008, DJe de 2/6/2008).
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.810.533/MS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 6/5/2025, DJEN de 12/5/2025.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OFENSA REFLEXA À CONSTITUIÇÃO FEDERAL.INVIABILIDADE. ALEGAÇÃO DE OMISSÃO DA DECISÃO AGRAVADA. INTERPOSIÇÃO DE AGRAVO REGIMENTAL. ERRO GROSSEIRO. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. TRÁFICO DE DROGAS. PRETENSÃO DE DESCLASSIFICAÇÃO PARA O DELITO DE PORTE DE DROGAS PARA CONSUMO PRÓPRIO.PLEITO DE APLICAÇÃO DA MINORANTE DO ART. 33, § 4º, DA LEI N. 11.343/2006. CIRCUNSTÂNCIAS DO CRIME. PECULIARIDADES DO CASO CONCRETO. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. REVOLVIMENTO DE CONJUNTO FÁTICO- PROBATÓRIO. SÚMULA N. 7/STJ. IMPOSSIBILIDADE.ASSISTÊNCIA JUDICIÁRIA GRATUITA. CUSTAS PROCESSUAIS. ISENÇÃO. COMPETÊNCIA DO JUÍZO DA EXECUÇÃO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Inviável a apreciação de matéria constitucional por esta Corte Superior, ainda que para fins de prequestionamento, porquanto, por expressa disposição da própria Constituição Federal (art. 102, inciso III), se trata de competência reservada ao Supremo Tribunal Federal. Precedentes.
+2. Como é cediço, o recurso cabível para impugnar decisão ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619, do Código de Processo Penal, são os embargos de declaração. A interposição de agravo regimental com o intuito de alegar supostas omissões e contradições do decisum agravado revela erro grosseiro, o que inviabiliza, inclusive, a aplicação do princípio da fungibilidade.
+3. Ademais, é firme a jurisprudência desta Corte Superior no sentido de que o julgador não é obrigado a se manifestar sobre todas as teses expostas no recurso, ainda que para fins de prequestionamento, desde que demonstre os fundamentos e os motivos que justificaram suas razões de decidir, não configurando deficiência na prestação jurisdicional.Precedentes.
+ ..
+11. Agravo regimental não provido.
+(AgRg no AREsp n. 2.175.205/CE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/11/2022, DJe de 16/11/2022.)
+De outro lado, sobre a violação ao art. 180, § 3º, do CP c/c art. 156, caput, do CPP, o TJ manteve a condenação, nos seguintes termos do voto do relator:
+"Quanto à prova produzida sob o crivo do contraditório, vale repisar os fundamentos lançados pela MM.ª Juíza singular às fls. 331/333, a qual bem analisou o cenário dos autos, cuja integralidade encampo, como motivação per relationem, ciente de que "a jurisprudência do Supremo Tribunal Federal admite a chamada motivação per relationem como técnica de fundamentação de decisões judiciais" (STF, Rel. Min. Edson Fachin, 2ª T., HC 170762 AgR/SP, julg. em 20.11.2019; STF, Rel. Min. Roberto Barroso, RHC 138648 AgR/SC, julg. em 22.10.2018). Verbis:
+ .. .
+Sob a ótica subjetiva, o caput do art. 180 do CP encerra definição de conduta estritamente dolosa, que supõe, para sua configuração, tenha tido o agente certeza inequívoca prévia da origem delituosa da coisa recebida, adquirida ou ocultada. É o que a doutrina clássica denomina de elemento subjetivo do injusto, expresso, no particular, pelo dolo direto e específico (Fragoso, Lições de Direito Penal, Forense, 10 ed., Pte. Especial, vol. I, p. 555). De outro vértice, o referido tipo qualificado se contenta com o chamado dolo eventual (STJ, Rel. Min. Laurita Vaz, 5ª T., HC 193391/SP, julg. em 25.06.2013), tanto que no primeiro caso a lei fala em "coisa que sabe ser produto de crime", ao passo que no segundo se faz referência à "coisa que deve saber ser produto de crime".
+No plano processual, é curial que a comprovação da face subjetiva do crime se perfaz a partir da análise dos dados objetivos, sensíveis e circunstanciais, do fato e da própria conduta do agente. Por aquilo que naturalisticamente se observou, aquilata-se, no plano valorativo, o que efetivamente o agente quis realizar.
+No caso em tela, ao ser pilhado em flagrante, utilizando, no exercício de sua atividade comercial habitual (transporte de passageiros), o veículo VW/Voyage, de placa QNG7926/MG, de propriedade da empresa Unidas S. A., produto de furto registrado no Estado de Minas Gerais (2020- 025174560-001 - fls. 27/29), o Apelante não apresentou justificativa séria, verossímil e comprovada (CPP, art. 156).
+Como se vê, embora o réu tenha alegado que alugava o veículo de um conhecido chamado Bernardo Guerra, a Defesa não apresentou qualquer documentação relacionada ao suposto ajuste de aluguel, nem comprovou os pagamentos realizados ao apontado locador (já que as transferências de fls. fls. 99/100 tem como destinatária Roberta Linhares, cujo vínculo com o referido contrato não restou demonstrado), não apresentou qualquer documentação relacionada ao seguro do veículo, que o acusado disse ter acionado pouco tempo antes dos fatos (cuja seguradora sequer soube informar o nome), além de não ter arrolado testemunhas.
+Conforme muito bem realçado pela D. Magistrada sentenciante, "compulsando-se os autos, nota-se que a defesa não se desincumbiu de seu ônus, uma vez que não arrolou testemunhas em favor do acusado, não juntou prova documental relativa a qualquer transação lícita do réu envolvendo o aluguel do automóvel. Pelo contrário, a defesa se limitou a apresentar genérica resposta à acusação. Nota-se que os documentos de fls. 99 e 100 não são hábeis a comprovar o pagamento pelo suposto aluguel do veículo, haja vista que a beneficiária das transações se chama Roberta Linhares pessoa diversa aquela que o acusado alega ter lhe alugado o bem. Ademais, as declarações do acusado de que estava na posse do automóvel por três semanas no mês de maio não encontram amparo no próprio documento de fls. 328 que indica que o automóvel e o condutor foram cadastrados em maço de 2020 junto ao aplicativo."
+Enfatize-se, ainda, que, em que pese a alegação defensiva de que o registro do furto teria sido formalizado somente em 27.05.2020, após o réu já ter supostamente ajustado o contrato de aluguel do veículo na condição de locatário, não se está diante de objeto qualquer, inadvertidamente adquirido por um sujeito ordinário, em circunstância despida de qualquer nota de estranheza, já que no CRLV consta a propriedade da empresa Unidas S. A. (e-doc 129), com a qual não contratou.
+Diante de tal cenário probatório e da experiência do réu no ramo do transporte de passageiros, segundo ele, desde o ano de 2014, incompossível não saber que o automóvel era produto de crime, sobretudo por estar com o documento em nome da empresa Unidas S. A.
+ .. .
+Incogitável, portanto, qualquer pretensão desclassificatória." (fl. 414/421)
+Extrai-se do trecho acima que o Tribunal de Justiça analisou as provas constantes nos autos para manter a condenação proferida em primeiro grau. Analisou as circunstâncias e afastou a tese da defesa com base nas provas dos autos. Igualmente, afastou a desclassificação para a modalidade culposa, destacando que a defesa não fez prova da origem lícita do bem ou da sua conduta culposa.
+Quanto ao ponto, importa destacar que o entendimento do Tribunal de origem está em consonância com a orientação jurisprudencial desta Corte Superior no sentido de que "no crime de receptação, se o bem houver sido apreendido em poder do paciente, cabe à defesa apresentar prova acerca da origem lícita do bem ou de sua conduta culposa, nos termos do disposto no art. 156 do Código de Processo Penal, sem que se possa falar em inversão do ônus da prova" (AgRg no HC n. 953.457/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/2/2025, DJEN de 26/2/2025).
+Nesse contexto, é certo que pretensão de alteração da conclusão das instâncias ordinárias, acerca da autoria, materialidade e dolo do agente, demandaria nova análise das provas e dos fatos, que encontra óbice na Súmula n. 7 do STJ.
+No mesmo sentido, citam-se precedentes (grifos nossos):
+PENAL E PROCESSO PENAL. RECURSO ESPECIAL. RECEPTAÇÃO DOLOSA. DESCLASSIFICAÇÃO PARA MODALIDADE CULPOSA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. CONFISSÃO ESPONTÂNEA. NÃO OCORRÊNCIA. DOSIMETRIA DA PENA. ERRO MATERIAL. SÚMULA 269/STJ. RECURSO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, IMPROVIDO. CONCEDIDO HABEAS CORPUS DE OFÍCIO, PARA CORREÇÃO DA PENA-BASE E DO REGIME PRISIONAL.
+I. Caso em exame
+1. Recurso especial interposto contra o acórdão do Tribunal de Justiça do Ceará que reformou sentença de desclassificação de receptação dolosa para culposa, condenando o réu por receptação dolosa de motocicleta furtada, com base na ausência de comprovação da origem lícita do bem.
+2. O Tribunal estadual concluiu que o réu foi flagrado na posse de motocicleta furtada, sem documentação, e com a placa levantada, evidenciando o conhecimento da origem ilícita do bem.
+3. A defesa alegou violação do art. 180, § 3º, do Código Penal e do art. 156 do Código de Processo Penal, postulando a desclassificação para receptação culposa e apontando erro material na dosimetria da pena.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a conduta do réu deve ser desclassificada de receptação dolosa para culposa, considerando a ausência de comprovação do elemento subjetivo do tipo doloso.
+5. Outra questão em discussão é a existência de erro material na dosimetria da pena, com a fixação da pena-base acima do mínimo legal, sem justificativa adequada.
+III. Razões de decidir
+6. O Superior Tribunal de Justiça firmou entendimento de que, no crime de receptação, a apreensão do bem de origem ilícita em poder do agente faz presumir sua responsabilidade, cabendo ao acusado demonstrar a origem lícita do objeto ou sua conduta culposa.
+7. A defesa não se desincumbiu do ônus de comprovar a licitude da aquisição ou a ausência de conhecimento sobre a origem criminosa do bem, justificando a condenação pela modalidade dolosa. A alteração dessa conclusão demandaria o reexame do conjunto fático-probatório, providência inviável ante o óbice da Súmula 7/STJ.
+8. Verificou-se erro material na dosimetria da pena, com a fixação da pena-base em 4 anos de reclusão, quando o mínimo legal é de 1 ano, configurando flagrante ilegalidade que autoriza a concessão de habeas corpus de ofício.
+IV. Dispositivo e tese
+9. Recurso especial parcialmente conhecido e, nessa extensão, improvido. Habeas corpus concedido de ofício, nos termos do dispositivo.
+Tese de julgamento: "No crime de receptação, a apreensão do bem de origem ilícita em poder do agente faz presumir sua responsabilidade, cabendo ao acusado demonstrar a origem lícita do objeto ou sua conduta culposa".
+Dispositivos relevantes citados: CP, art. 180; CPP, art. 156;
+CF/1988, art. 5º, XLVI. Jurisprudência relevante citada: STJ, AgRg no HC 984.097/MS, Rel. Min. Ribeiro Dantas, Quinta Turma, julgado em 6/5/2025, DJe de 12/5/2025.
+(REsp n. 2.034.905/CE, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 24/6/2025, DJEN de 30/6/2025.)
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO. CIÊNCIA DA ORIGEM ILÍCITA DO BEM. SUFICIÊNCIA PROBATÓRIA. IMPOSSIBILIDADE DE REEXAME DE PROVAS. PENA-BASE NO MÍNIMO LEGAL. IMPOSSIBILIDADE DE REDUÇÃO DA PENA ABAIXO DO MÍNIMO LEGAL PELA INCIDÊNCIA DA ATENUANTE DE CONFISSÃO ESPONTÂNEA. INCIDÊNCIA DA SÚMULA 231/STJ. AGRAVO CONHECIDO E RECURSO ESPECIAL NÃO PROVIDO.
+I. CASO EM EXAME
+1. Agravo em Recurso Especial interposto contra acórdão que manteve a condenação do réu pelo crime de receptação, nos termos do art. 180, §3º, do Código Penal. A defesa pleiteia a absolvição por ausência de dolo ou, subsidiariamente, a desclassificação do crime para sua forma culposa, bem como a redução da pena-base abaixo do mínimo legal pela atenuante da confissão espontânea.
+II. QUESTÃO EM DISCUSSÃO
+2. Há três questões em discussão: (i) definir se há provas suficientes para comprovar o dolo na prática do crime de receptação;
+(ii) estabelecer se é possível o reexame do acervo fático-probatório para absolver ou desclassificar a conduta; e (iii) verificar a possibilidade de reduzir a pena-base abaixo do mínimo legal em razão da atenuante da confissão espontânea.
+III. RAZÕES DE DECIDIR
+3. O agravo é conhecido por atender os requisitos de admissibilidade, estando tempestivo e com a devida representação processual, conforme o art. 253, parágrafo único, II, do RISTJ.
+4. A materialidade e a autoria do crime de receptação estão comprovadas por meio dos depoimentos testemunhais, especialmente dos policiais responsáveis pela prisão em flagrante, e das declarações do próprio réu, que admitiu o transporte de veículo com sinais de adulteração e que desconfiava de sua origem ilícita.
+5. A jurisprudência desta Corte é pacífica ao considerar que, em crimes de receptação, o comportamento do agente e as circunstâncias da apreensão são elementos suficientes para comprovar o dolo, cabendo à defesa o ônus de provar a origem lícita do bem, nos termos do art. 156 do Código de Processo Penal.
+6. O pleito de reexame de provas para fins de absolvição ou desclassificação da conduta esbarra no óbice da Súmula 7/STJ, que veda a reapreciação de fatos e provas em sede de recurso especial.
+7. Quanto à dosimetria, o STJ reafirma a incidência da Súmula 231/STJ, que impede a redução da pena-base abaixo do mínimo legal pela incidência de atenuantes. O entendimento consolidado pelo STF no Tema 158 de repercussão geral também reitera a impossibilidade de ultrapassar os limites mínimos estabelecidos pelo legislador.
+IV. DISPOSITIVO
+8. Agravo conhecido. Recurso especial desprovido.
+(AREsp n. 2.494.251/DF, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 26/11/2024, DJEN de 4/12/2024.)
+Diante do exposto, voto pelo desprovimento do agravo regimental.
