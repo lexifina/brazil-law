@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de agravo interposto por HPS INCORPORADORA SPE LTDA. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 253):
+APELAÇÃO. Ação rescisória cumulada com devolução de valores pagos. Demanda julgada parcialmente procedente. Relação de relação de consumo. Rescisão pela parte autora, com devolução parcial dos valores pagos. Contrato celebrado após vigência da Lei 13.786/2018. Percentual fixado sobre o valor atualizado do contrato. Mitigação da aplicação do art. 32-A da referida Lei, ante a desvantagem exagerada ao consumidor, no caso. Inteligência do art. 51, IV, do Código de Defesa do Consumidor. Retenção fixada em sentença no percentual de 20% sobre os valores pagos que se mostra adequado ao caso. Restituição em 12 (doze) parcelas. Sentença parcialmente alterada neste ponto. Taxa de fruição. Inocorrência. Ausência de comprovação da efetiva ocupação do comprador, por se tratar de terreno não edificado. Recurso provido em parte.
+Sem embargos de declaração.
+No recurso especial, a recorrente alega que o acórdão contrariou as disposições contidas nos artigos 32-A da Lei n. 13.786/2018, bem como nos arts. 421, 421-A e 422 do Código Civil, ao afastar cláusulas contratuais redigidas nos exatos termos legais e mitigar a aplicação da Lei do Distrato com fundamento no art. 51, IV, do Código de Defesa do Consumidor.
+Sustenta que o contrato reproduziu literalmente o art. 32-A, com destaque no quadro-resumo e ciência inequívoca dos compradores, o que impõe respeito à alocação de riscos e ao pacta sunt servanda. Argumenta que a lei especial não admite modulação pelo CDC, que a retenção de 10% sobre o valor do contrato é legal e equilibrada, e que a finalidade da Lei do Distrato é conferir segurança jurídica e previsibilidade ao mercado, evitando decisões díspares e impactos financeiros nas incorporadoras.
+Sem contrarrazões ao recurso especial (fl. 284).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 285-286), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo (fl. 297).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A irresignação não merece prosperar.
+Com efeito, o Tribunal de origem, com base no amplo exame dos fatos e das provas acostadas aos autos, consignou que, embora a cláusula de descontos reproduza o art. 32-A da Lei 6.766/1999, incluído pela Lei nº 13.786/2018, sua aplicação deve ser mitigada, à luz do art. 51, IV, do Código de Defesa do Consumidor, pois a retenção calculada sobre o valor total do contrato acarretaria desvantagem exagerada. Sendo assim, fixou retenção de 20% sobre os valores pagos, reputando-a adequada e proporcional.
+É o que se extrai dos seguintes trechos (fls. 257-262):
+Analisando o caso sob a lei de regência n. 13.786/2018, eis que celebrado o contrato após a entrada em vigor da indigitada lei, e considerando a rescisão operada pelo adquirente, o percentual de 10% fixado sobre o valor atualizado do contrato está em conformidade com seu artigo 32-A.
+A cláusula denominada "Dos Descontos em Caso de Distrato ou Rescisão" (cf. fls. 33/34) apenas reproduz o dispositivo legal.
+Todavia, há de se levar em conta que o percentual fixado sobre o valor total do contrato, no presente caso, ainda que com amparo legal, onera excessivamente os consumidores que pretendem rescindir o contrato, violando expressamente o quanto disposto no art. 51, IV, do Código de Defesa do Consumidor, segundo o qual são nulas de pleno direito as cláusulas que estabeleçam obrigações consideradas iníquas ou abusivas que coloquem o consumidor em desvantagem exagerada ou sejam incompatíveis com a boa-fé ou a equidade.
+O autor realizou o pagamento total de R$13.535,84, enquanto o contrato firmado entre as partes estabelece o valor total de R$131.934,09 (fl. 13). Portanto, o percentual fixado sobre o valor atualizado do contrato implicaria perda de quase a totalidade dos valores pagos, revelando a vantagem exagerada em desfavor do consumidor.
+ ..
+Neste contexto, o C. Superior Tribunal de Justiça tem entendimento fixado no sentido de que a retenção do valor entre 10% a 25% sobre montante pago é lícita, por ser montante adequado e suficiente pelas despesas gerais e rompimento unilateral da avença:
+ ..
+Desse modo, o percentual fixado na sentença combatida, a título de retenção sobre o montante pago, no percentual de 20% (vinte por cento), se mostra razoável ao caso, assegurando a indenização adequada à parte prejudicada que não deu causa ao desfazimento, sem ensejar encargo excessivo ao consumidor.
+No julgamento dos REsp 2.117.412/SP, 2.107.422/SP, 2.111.681/SP e 2.106.548/SP, a Terceira Turma do STJ definiu que o Código de Defesa do Consumidor prevalece sobre a Lei do Distrato, considerando que o CDC se aplica quando preenchido um requisito adicional: a caracterização de uma relação de consumo.
+Desse modo, ficou decidido que os descontos previstos na Lei do Distrato podem ser efetuados como regra geral, mas, "quando se tratar de relação de consumo, a soma dos descontos deve respeitar o limite máximo de retenção de 25% (vinte e cinco por cento dos valores pagos, com exceção da taxa de fruição", em observância à interpretação conferida aos arts. 51, IV, e 53 do CDC por esta Corte (REsp 2.106.548/SP, Terceira Turma, DJEN 19/9/2025).
+In casu, o limite de 20% (vinte por cento) de retenção dos valores pagos foi adequadamente observado pelo acórdão recorrido, conforme a jurisprudência desta Corte, o que atrai a incidência da Súmula n. 83/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 12% sobre o valor atualizado da condenação.
+Publique-se. Intimem -se.
+ EMENTA
