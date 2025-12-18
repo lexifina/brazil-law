@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. CRIMES CONTRA A HONRA E AMEAÇA. AÇÃO PENAL PRIVADA. PROCURAÇÃO COM PODERES ESPECIAIS. MENÇÃO AO FATO CRIMINOSO POR INDICAÇÃO DO NOMEN JURIS OU DO DISPOSITIVO LEGAL. SÚMULA 7/STJ. REVALORAÇÃO JURÍDICA DE DOCUMENTO INCONTROVERSO. JURISPRUDÊNCIA PACÍFICA DO STJ.
+1. Afastada a incidência da Súmula 7/STJ, por se tratar de revaloração jurídica de documento incontroverso.
+2. A menção ao fato criminoso na procuração se perfaz pela indicação do nomen juris do delito ou do dispositivo legal correspondente, sendo desnecessária descrição pormenorizada. Validade do instrumento de mandato quanto aos crimes de ameaça, difamação e injúria.
+3. Agravo regimental improvido.
+RELATÓRIO
+Wasty de Castro Sousa da Costa interpõe agravo regimental contra a decisão cuja ementa segue transcrita (fl. 503):
+PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. CRIME CONTRA A HONRA. AÇÃO PENAL PRIVADA. ART. 44 DO CPP. PROCURAÇÃO COM PODERES ESPECIAIS. IRREGULARIDADE. INEXISTÊNCIA. MENÇÃO AO FATO CRIMINOSO PELA INDICAÇÃO DO ARTIGO DE LEI OU DO NOMEM JURIS DO CRIME. SUFICIÊNCIA. PRECEDENTES.
+Agravo conhecido para dar parcial provimento ao recurso especial, nos termos da fundamentação.
+Nas razões recursais, a parte agravante sustenta, preliminarmente, a incidência da Súmula 7/STJ, ao argumento de que a reversão do julgado demandaria o reexame do conjunto fático-probatório, notadamente a análise do boletim de ocorrência, da procuração e da queixa-crime (fls. 515/516).
+Argumenta violação do princípio da dialeticidade, aduzindo que a querelante não impugnou, de forma específica e suficiente, os fundamentos da decisão de inadmissão do recurso especial proferida na origem (art. 932, III, do CPC - fl. 516).
+No mérito, insiste na tese de inépcia do instrumento de mandato, alegando que o art. 44 do Código de Processo Penal exige a descrição fática da conduta criminosa, não bastando a menção ao nomen juris ou ao dispositivo legal, o que teria acarretado a decadência do direito de queixa (fls. 516/519).
+Pugna, assim, pela reforma da decisão agravada (fl. 520).
+É o relatório.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. CRIMES CONTRA A HONRA E AMEAÇA. AÇÃO PENAL PRIVADA. PROCURAÇÃO COM PODERES ESPECIAIS. MENÇÃO AO FATO CRIMINOSO POR INDICAÇÃO DO NOMEN JURIS OU DO DISPOSITIVO LEGAL. SÚMULA 7/STJ. REVALORAÇÃO JURÍDICA DE DOCUMENTO INCONTROVERSO. JURISPRUDÊNCIA PACÍFICA DO STJ.
+1. Afastada a incidência da Súmula 7/STJ, por se tratar de revaloração jurídica de documento incontroverso.
+2. A menção ao fato criminoso na procuração se perfaz pela indicação do nomen juris do delito ou do dispositivo legal correspondente, sendo desnecessária descrição pormenorizada. Validade do instrumento de mandato quanto aos crimes de ameaça, difamação e injúria.
+3. Agravo regimental improvido.
+VOTO
+Sem razão a parte agravante.
+A bem da verdade, as razões do regimental apenas evidenciam a utilização do recurso como forma de expressar a insatisfação com o decisum ora questionado, na tentativa de rediscutir a matéria já rechaçada com base na jurisprudência consolidada desta Corte.
+Inicialmente, rejeito a preliminar de não conhecimento do agravo em recurso especial por suposta violação do princípio da dialeticidade (art. 932, III, do CPC). Ao contrário do alegado, verifica-se que a parte querelante, nas razões do agravo interposto contra a decisão de inadmissibilidade na origem, impugnou devidamente o óbice da Súmula 7/STJ (fls. 234/249). A argumentação desenvolvida demonstrou que a controvérsia não demandava o reexame de provas, mas sim a revaloração jurídica de fatos incontroversos - especificamente o teor do instrumento de mandato -, o que se revela suficiente para o conhecimento da insurgência.
+Superada a admissibilidade, afasto igualmente a alegação de incidência da Súmula 7/STJ no mérito do recurso especial. A controvérsia submetida ao crivo deste Superior Tribunal é estritamente de direito, cingindo-se a definir se a menção ao nomen juris do delito no instrumento de mandato satisfaz a exigência do art. 44 do Código de Processo Penal. Não se trata de reexaminar fatos ou provas, mas de atribuir a correta valoração jurídica a documento cujo conteúdo é incontroverso nos autos. A revaloração jurídica de fatos delineados pelas instâncias ordinárias não encontra óbice na referida súmula.
+No mérito, a decisão agravada deve ser mantida por seus próprios fundamentos.
+O Tribunal de origem, ao exigir a descrição pormenorizada dos fatos criminosos na procuração, divergiu frontalmente da orientação pacífica deste Superior Tribunal de Justiça, firmada no sentido de que a procuração outorgada pelo querelante ao seu advogado, para fins de ajuizamento de queixa-crime, não requer a descrição pormenorizada do fato criminoso, bastando, no dizer do art. 44 do CPP, a menção a ele, a qual se perfaz tanto com a indicação do artigo de lei como do nomen juris do crime no qual incidiram, em tese, os querelados (RHC n. 69.301/MG, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 2/8/2016, DJe de 9/8/2016).
+No caso concreto, o instrumento de mandato conferiu poderes especiais para a propositura de ação penal em face da agravante pela prática dos crimes de ameaça, perturbação do trabalho, difamação e injúria (fl. 21). Tal especificação atende aos requisitos legais e à finalidade da norma, que é fixar a responsabilidade do mandante e evitar o ajuizamento de ações penais temerárias.
+Nesse sentido, confiram-se os precedentes recentes: AgRg no RHC n. 215.997/RN, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/8/2025, DJEN de 18/8/2025; EDcl no AgRg no AgRg no AREsp n. 2.527.910/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 26/2/2025, DJEN de 5/3/2025; e AgRg nos EDcl no RHC n. 188.677/GO, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 20/5/2024, DJe de 23/5/2024.
+Ressalte-se que a decisão monocrática já decotou da ação penal o crime de calúnia, justamente por este não constar do rol de delitos elencados na procuração, mantendo o recebimento da queixa apenas quanto aos tipos penais expressamente indicados (ameaça, difamação e injúria), em estrita observância à legalidade e aos precedentes citados.
+Nesse cenário, os argumentos apresentados pela agravante não são aptos a desconstituir a decisão agravada, que se encontra em harmonia com a jurisprudência dominante deste Tribunal.
+Ante o exposto, nego provimento ao agravo regimental.
