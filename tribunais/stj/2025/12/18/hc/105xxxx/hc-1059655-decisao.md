@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de RENATO RENA DE CARVALHO (ou AGENOR VITORINO DE CARVALHO) - condenado por associação para o tráfico de drogas a 9 anos de reclusão e 1.000 dias-multa - apontando-se como ato coator o acórdão proferido pelo Tribunal de Justiça de Rondônia (fls. 185/192 - Revisão Criminal n. 0809685-38.2025.8.22.0000).
+A impetração busca a revisão da dosimetria - referente à condenação proferida na Ação Penal n. 0005457-55.2009.8.22.0019 (fls. 29/133, da Vara Única da comarca de Machadinho d"Oeste/RO), mantida em grau de apelação (fls. 135/174) -, para afastar a negativação dos antecedentes, da conduta social, da personalidade, dos motivos e das consequências do crime, sustentado que foram negativamente valorados de maneira indevida e sem o devido amparo na jurisprudência deste e. STJ (fl. 7), e aplicar fração de 1/6 na reincidência (fls. 3/9).
+Sem pedido liminar.
+É o relatório.
+Embora se trate de writ apresentado com o objetivo de revisar, novamente, a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, do atento exame dos autos, observo a ocorrência de flagrante constrangimento ilegal, pois o Magistrado singular, corroborado pelo Tribunal de origem exasperou a pena-base, sem evidenciar circunstâncias que extrapolam os elementos do tipo penal imputado ou em desacordo com o entendimento desta Corte Superior, quanto aos vetores:
+a) conduta social - não é das melhores, pois investiu grande parte da sua vida no cometimento de crimes graves (fl. 121);
+b) motivos - praticou o crime movido pelo desmesurado desejo de enriquecimento ilícito em prejuízo alheio e, também, da saúde pública (fl. 121); e
+c) consequências do crime - são graves, uma vez que o tráfico fomenta a criminalidade, a violência e contribui para a destruição de vidas humanas (fl. 121).
+Ademais, na segunda fase, a agravante da reincidência foi aplicada na fração de 2/7 sem indicação de fundamentos concretos para modulação da fração de aumento (fl. 123).
+Entretanto, não evidenciada ilegalidade na fundamentação da valoração negativa dos antecedentes e da personalidade, uma vez que não se ampara em inquéritos ou ações penais em curso isoladamente - hipótese vedada pela Súmula 444 do STJ -, mas em prova judicializada (interceptações, dinâmica delitiva, quantidade e valor da droga apreendida, exercício de liderança e prática em livramento), apta a demonstrar maior censurabilidade da conduta sob as balizas do art. 59 do CP (fl. 189).
+Então, necessário redimensionar a reprimenda imposta: na primeira fase, fixa-se a pena-base 1/3 acima do mínimo legal, em 4 anos de reclusão e 933 dias-multa. Na segunda fase, presente a agravante da reincidência, aplica-se a fração de 1/6, passando a reprimenda para 4 anos e 8 meses de reclusão, e 1.089 dias-multa, que se torna definitiva .
+Finalmente, considerando a reprimenda corporal imposta e a reincidência, não há ilegalidade na manutenção do regime inicial fechado.
+Em face do exposto, concedo liminarmente a ordem impetrada, em parte , para redimensionar a pena imposta ao paciente para 4 anos e 8 meses de reclusão, e 1.089 dias-multa, mantido o regime inicial fechado, na Ação Penal n. 0005457-55.2009.8.22.0019, da Vara Única da comarca de Machadinho d"Oeste/RO.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. UTILIZAÇÃO INDEVIDA DO WRIT. DOSIMETRIA. EXASPERAÇÃO DA PENA-BASE SEM CIRCUNSTÂNCIAS QUE EXTRAPOLAM O TIPO PENAL. VETORES CONDUTA SOCIAL, MOTIVOS E CONSEQUÊNCIAS FIXADOS SEM LASTRO CONCRETO. AGRAVANTE DA REINCIDÊNCIA MODULADA EM FRAÇÃO SUPERIOR SEM FUNDAMENTOS. MANUTENÇÃO DA VALORAÇÃO NEGATIVA DE ANTECEDENTES E PERSONALIDADE COM BASE EM PROVA JUDICIALIZADA. REDIMENSIONAMENTO DA PENA. MANUTENÇÃO DO REGIME FECHADO.
+Ordem liminarmente concedida, em parte, nos termos do dispositivo.
