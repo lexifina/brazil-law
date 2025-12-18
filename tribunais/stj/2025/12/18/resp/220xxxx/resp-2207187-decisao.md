@@ -1,0 +1,7 @@
+DECISÃO
+Encontra-se afetada à Primeira Seção do Superior Tribunal de Justiça, aguardando o julgamento, sob o rito dos recursos repetitivos (Tema 1130), os REsp 1966058/AL, REsp 1966059/AL, REsp 1966060/AL, REsp 1966064/AL, REsp 1968286/AL e REsp 1968284/AL, de relatoria do Ministro Afrânio Vilela, a questão debatida nos autos, qual seja, "a eficácia do título judicial resultante de ação coletiva promovida por sindicato de âmbito estadual está restrita aos integrantes da categoria profissional, filiados ou não, com domicílio necessário (art. 76, parágrafo único, do Código Civil) na base territorial da entidade sindical autora e àqueles em exercício provisório ou em missão em outra localidade".
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos pr ocessos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+Pelo exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil (CPC), após a publicação do acórdão dos recursos representativos da controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do mesmo CPC.
+Publique-se.
+Intimem-se.
+EMENTA
