@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de recurso especial manejado por Elias Santiago do Espírito Santo com fundamento no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 295):
+PROCESSO CIVIL. CUMPRIMENTO DE SENTENÇA. SALDO COMPLEMENTAR. TEMA 810 DO STF. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. CONFIGURADA.
+1. O prazo de prescrição da pretensão executória, nos termos da Súmula n. 150 do STF, é idêntico ao prazo de que dispõe a parte para ajuizamento da ação originária, ou seja, 5 anos.
+2. Nas hipóteses em que o título executivo difere para a execução a fixação da correção monetária, tem-se que apenas após o julgamento da decisão do Tema 810 pelo STF o exequente pode exercer seu direito, ou seja, a partir de 03/10/2019, sendo este o termo inicial da prescrição executória.
+3. No entanto, tendo o título executivo fixado os índices para a atualização monetária a serem aplicados no cumprimento do julgado, sem nada ressalvar, a prescrição quinquenal tem início na data do trânsito em julgado da sentença ou acórdão.
+4. Na hipótese dos autos, o acórdão fixou a TR como índice de correção monetária e transitou em julgado em 22/05/2017. Porém o pedido de pagamento de saldo complementar só ocorreu mais de cinco anos depois. Portanto, prescrita a pretensão executória.
+5. Quanto ao Tema 1.170 do STF, mesmo que o entendimento em relação aos juros moratórios também se aplique aos índices de correção monetária, na linha das decisões proferidas pelo STF, restando configurada a prescrição da pretensão executória, incabível sua aplicação.
+Opostos embargos declaratórios, foram rejeitados (fls. 306/307).
+Opostos segundos embargos de declaração, a ele se deu parcial provimento para corrigir erro material, sem efeitos infrigentes (fls. 316/319).
+A parte recorrente aponta, além de dissídio jurisprudencial, violação aos arts. 189, do CC, 322, 489, § 1º, 525, § 15, 927, III, 982, e 1.022, II, do CPC, 31, da Lei n. 10.741/2003, e 41-A, da Lei n. 8.213/1991. Sustenta que teria havido negativa de prestação jurisdicional e que (fls. 332/333):
+ ..  o v. acórdão recorrido contraria disposição expressa da legislação, notadamente o §1º do art. 322 do Código de Processo Civil. Isso porque os juros de mora e a correção monetária constituem matéria de ordem pública, conforme previsto nesse dispositivo legal, e, portanto, não se submetem aos efeitos da coisa julgada, como equivocadamente entendeu o acórdão impugnado.
+Com efeito, os consectários legais (juros e correção monetária) não estão vinculados aos limites objetivos da coisa julgada, pois não integram propriamente o pedido ou a causa de pedir. Ao contrário, inserem-se na cláusula rebus sic stantibus, justamente por se tratarem de efeitos legais automáticos da condenação, cuja aplicação decorre da lei, independentemente de expressa menção no pedido inicial.
+Ademais, conforme já demonstrado, a decisão recorrida deixou de observar os entendimentos consolidados pelo Supremo Tribunal Federal e pelo Superior Tribunal de Justiça nos Temas 810, 1.170, 1.361 e 289 do STF, bem como no Tema 905 do STJ, todos com repercussão geral ou caráter repetitivo. Tal omissão configura flagrante violação ao disposto no art. 927, inciso III, do Código de Processo Civil, que impõe a obrigatoriedade de observância dessas teses pelos juízes e tribunais.
+Alega que (fl. 334):
+ ..  ao declarar a inconstitucionalidade do art. 1º-F da Lei 9.494/97 quanto à utilização da TR como índice de atualização monetária, o Supremo Tribunal Federal conferiu a esse entendimento aplicabilidade geral, inclusive às ações ainda pendentes de julgamento, com o objetivo de assegurar a uniformidade das decisões judiciais e preservar a segurança jurídica.
+Defende que (fl. 335):
+Com o trânsito em julgado desse tema em 03/03/2020, e posteriormente do Tema 1170 em 12/12/2023, restou consolidado que a aplicação dos consectários definidos no Tema 810  que reconheceu a inconstitucionalidade da TR desde junho de 2009  não configura violação à coisa julgada, uma vez que a decisão possui eficácia retroativa (ex tunc), atingindo inclusive os processos em curso.
+Argumenta que (fls. 339/340):
+Primeiramente, a parte recorrente ressalta que a matéria ora em análise não foi abordada em nenhum momento ao longo do processo. Além disso, destaca que a parte autora não foi intimada, em qualquer fase, para se manifestar expressamente sobre a satisfação do crédito remanescente, mas apenas quanto à liberação do pagamento.
+Nesse mesmo sentido, impende salientar que era impossível à parte recorrente formular o requerimento de execução complementar em momento anterior, pois o Supremo Tribunal Federal julgou o mérito do Tema 810 da repercussão geral em 20 de setembro de 2017, no RE 870.947, cujo trânsito em julgado ocorreu apenas em 03/03/2020. Somente a partir dessa data se configurou o fato superveniente que consolidou, de forma definitiva, o direito à execução complementar, viabilizando a sua devida aplicação.
+Tem-se, portanto, que, se o título executivo previu os índices para a atualização monetária a serem aplicados no cumprimento do julgado, sem nada ressaltar acerca do que viesse a ser definido pelo tema 810 do STF, o prazo prescricional de 5 anos para se pleitear a execução complementar se inicia na data do trânsito em julgado da sentença ou acórdão.
+Nesse sentido, não é razoável e afrontaria os princípios da razoabilidade e da proporcionalidade exigir da parte a formulação de requerimento prévio sobre matéria ainda pendente de trânsito em julgado nos tribunais superiores. A esse respeito, há respaldo legal no art. 525, § 15, do Código de processo Civil.
+Pondera que (fl. 342):
+Não há que se falar em prescrição, pois a possibilidade de promover a execução complementar somente surgiu a partir do julgamento do Tema 1.170 pelo Supremo Tribunal Federal. Ademais, não é necessário aguardar o trânsito em julgado desse tema, uma vez que, nos termos do art. 102, §2º, da Constituição Federal, e do art. 1.035, §11, do Código de Processo Civil, os efeitos das decisões com repercussão geral são imediatos, vinculando os demais órgãos do Judiciário desde sua publicação.
+Aduz, ainda, que (fls. 343/344):
+A jurisprudência também é clara ao distinguir o que foi decidido no Tema 289 das hipóteses de diferenças surgidas em razão de modificação posterior do entendimento jurisprudencial vinculante, como é o caso da atualização monetária com base no IPCA-E em substituição à TR.
+A própria Corte Superior, ao julgar o AREsp 2189937/PR, por meio do Min. Gurgel de Faria, reafirmou que o Tema 289 não se aplica de forma extensiva às hipóteses de cumprimento complementar de sentença fundado em tese posterior dos Tribunais Superiores (como o Tema 810), especialmente em casos de títulos que diferiram a definição dos índices para momento posterior ao julgamento definitivo da controvérsia.
+Sem contrarrazões.
+Em juízo de retratação quanto aos Temas 1170 e 1361 do STF, o Tribunal de origem manteve seu julgado em acórdão assim ementado (fl. 374):
+PREVIDENCIÁRIO. JUÍZO DE RETRATAÇÃO. ARTIGO 1.040, II, DO CÓDIGO DE PROCESSO CIVIL. TEMA 1170 E 1361 STF.
+1. Se o acórdão deste grau de jurisdição estiver em dissonância com as teses jurídicas fixadas por Tribunal Superior no julgamento de recurso submetido à sistemática da Repercussão Geral ou dos Recursos Especiais Repetitivos, deve ser realizado o juízo de retratação para adequação do julgado, consoante artigo 1.040, II, do Código de Processo Civil.
+2. Caso em que o título executivo fixou o INPC como critério de correção monetária. Assim, a decisão proferida pela Turma deste Tribunal, ao julgar o presente recurso, difere daquela tratada no precedente paradigma dos Temas 1170 e 1361 do STF, de modo que dever ser mantida a decisão proferida.
+Opostos embargos de declaração foram rejeitados (fls. 409/410).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não comporta êxito.
+No caso em questão, inexistem omissão, contradição, obscuridade ou erro material, uma vez que, pela leitura do inteiro teor do acórdão embargado, depreende-se que este apreciou devidamente a matéria em debate e analisou de forma exaustiva, clara e objetiva as questões relevantes para o deslinde da controvérsia.
+Na origem, debate-se pedido complementar de cumprimento de sentença para o pagamento do saldo complementar referente à aplicação do Tema n. 810/STF.
+O Juízo de primeiro grau declarou extinta a execução a execução, ante a ocorrência da prescrição.
+Na espécie, o Tribunal de origem, com base no conjunto probatório dos autos, ao solucionar a controvérsia, adotou as seguintes razões de decidir (fl. 317):
+O feito transitou em julgado em 01/10/2013.
+Iniciada a execução, o INSS apresentou cálculos aplicando, contudo, a TR a partir de 07/2009, apesar do quanto constou no título executivo: evento 15, CALC1.
+Intimada, a parte autora concordou expressamente com os cálculos do INSS, apesar de utilizar indíce de correção monetária diverso do previsto no título: evento 19, PET1.
+Foram expedidas a requisições de pagamento, realizados os depósitos, intimada a partes com decurso do prazo em 11/12/2016 e o feito foi arquivado em 29/01/2016.
+Em 17/0/2023 sobreveio pedido de pagamento de saldo complementar em razão de diferenças do índice de correção monetária reconhecido no Tema 810/STF.
+Assim, incabível a execução complementar no caso para aplicação do Tema 810/STF, porque já foi assim estabelecido no título executivo que fixou o INPC - critério de correção fixado nos Temas 810 do STF e 905 do STJ, tendo a parte autora expressamente concordado com a execução que utilizou a TR, abrindo mão do índice fixado, configurando a preclusão lógica.
+A alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+ANTE O EXPOSTO, conheço em parte do recurso especial para, nessa extensão, negar-lhe provimento.
+Publique-se.
+EMENTA
