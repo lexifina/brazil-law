@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Carlos Pires Brandão votaram com o Sr. Ministro Relator.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DE INADMISSÃO. DECISÃO MANTIDA. RECURSO IMPROVIDO.
+1. O não conhecimento do agravo em recurso especial se deveu à ausência de impugnação suficiente dos fundamentos da decisão do Tribunal de origem que não admitiu o recurso especial, o que atrai a incidência da Súmula n. 182 do STJ, por não atendimento da necessária dialeticidade recursal.
+2. Inadmitido o recurso especial por incidência do óbice da Súmula n. 7 do STJ, a alegação genérica de que não se pretende o reexame de fatos e provas é insuficiente, ainda que feita breve menção à tese sustentada, quando ausente o devido cotejo das premissas fáticas do acórdão proferido na origem.
+3. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ALLAN SIDNEY CAETANO RAMALHO COSTA contra a decisão monocrática (fls. 3.154-3.155) em que não se conheceu do agravo em recurso especial ante a ausência de impugnação específica dos fundamentos que levaram à inadmissibilidade do recurso especial na origem, aplicada a Súmula n. 182 do STJ.
+Nas razões deste agravo regimental, o agravante aduz que a decisão monocrática incorreu em erro material ao desconsiderar os argumentos apresentados no agravo em recurso especial, sustentando que realizou a impugnação que seria devida.
+Reitera que o recurso especial pretende discutir a ausência de provas válidas que demonstrassem a autoria do delito, entendendo que teria havido violação dos arts. 13 do Código Penal e 155 do Código de Processo Penal.
+Tece alegações sobre o mérito da causa e menciona que a valoração das provas teria sido inadequada.
+Requer, ao final, a reconsideração da decisão monocrática ou, caso mantida, a submissão do agravo regimental à apreciação do colegiado.
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DE INADMISSÃO. DECISÃO MANTIDA. RECURSO IMPROVIDO.
+1. O não conhecimento do agravo em recurso especial se deveu à ausência de impugnação suficiente dos fundamentos da decisão do Tribunal de origem que não admitiu o recurso especial, o que atrai a incidência da Súmula n. 182 do STJ, por não atendimento da necessária dialeticidade recursal.
+2. Inadmitido o recurso especial por incidência do óbice da Súmula n. 7 do STJ, a alegação genérica de que não se pretende o reexame de fatos e provas é insuficiente, ainda que feita breve menção à tese sustentada, quando ausente o devido cotejo das premissas fáticas do acórdão proferido na origem.
+3. Agravo regimental improvido.
+VOTO
+A pretensão recursal não merece acolhimento, uma vez que os fundamentos apresentados no agravo regimental não evidenciam haver nenhum equívoco na decisão recorrida.
+Conforme consta da decisão recorrida, as razões do agravo em recurso especial não enfrentaram, de modo suficiente, os fundamentos de sua inadmissão, não bastando para tanto que a parte recorrente mencione cada um deles. Vale assinalar que para atendimento do princípio da dialeticidade devem ser demonstradas, de modo específico e concreto, quais seriam as razões pelas quais a decisão recorrida deveria ser reformada.
+Quanto ao óbice referido na Súmula n. 7 do STJ, assim, registre-se que a alegação genérica sobre a desnecessidade de que sejam reexaminados os fatos e as provas é insuficiente para o efetivo enfrentamento da decisão recorrida, ainda que feita breve menção à tese sustentada, quando ausente o devido cotejo das premissas fáticas do acórdão proferido na origem (AgRg no AREsp n. 2.030.508/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 10/9/2024, DJe de 13/9/2024; AgRg no AREsp n. 2.672.166/SE, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 3/9/2024, DJe de 6/9/2024; AgRg no AREsp n. 2.576.898/PR, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 27/8/2024, DJe de 2/9/2024).
+Como bem salientado no parecer ministerial, aqui acolhido como razão de decidir (fl. 3.149):
+Da análise dos autos, verifica-se que o agravante se limitou reproduzir os mesmos argumentos já trazidos pelo recurso especial inadmitido, sem atacar especificamente a decisão agravada.
+Ou seja, não houve impugnação efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da discussão. Deve, o agravante, expor, com particularidade, que a alteração do entendimento adotado pelo Tribunal de origem independe da apreciação fático-probatória dos autos.
+Assim, no caso concreto, incide a Súmula 182/STJ no sentido que "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+Ressalte-se que, para atendimento do princípio da dialeticidade recursal, estabelece a lei processual (CPC, art. 932, III) que " ..  não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida"", devendo a impugnação " ..  ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia" (AgInt no AREsp n. 2.212.676/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 4/9/2023, DJe de 6/9/2023).
+Em situações semelhantes, observa-se o que já decidiu o Superior Tribunal de Justiça (destaquei):
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL NÃO CONHECIDO POR INCIDÊNCIA DOS ENUNCIADOS 282 DO STF, 211 DO STJ E 7 DO STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. DESRESPEITO À SÚMULA 182 DO STJ. DECISÃO DE INADMISSÃO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não havendo impugnação específica acerca dos fundamentos da decisão que não admitiu o recurso especial, deve ser aplicada, por analogia, a Súmula n. 182 deste Tribunal Superior.
+2. Nos termos da jurisprudência desta Corte, os recursos devem impugnar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. Não são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do recurso especial ou à insistência no mérito da controvérsia.
+3. Nos termos da jurisprudência desta Corte, "para impugnar a falta de prequestionamento, deveria ter se remetido à ratio decidendi a fim de especificar em que trechos haveria debate judicial suficiente acerca do conteúdo de cada um dos dispositivos que o recorrente julga violados" (AgInt no AREsp n. 2.498.984/SC, relator Ministro Herman Benjamin, Segunda Turma, julgado em 20/5/2024, DJe de 4/6/2024.), o que não ocorreu na espécie.
+4. Quanto ao óbice da Súmula 7/STJ, seria necessário que o agravante demonstrasse como seria possível modificar o entendimento firmado pelas instâncias ordinárias à margem de uma análise documental, ônus do qual, contudo, não se desincumbiu.
+5. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.488.493/SP, relator Ministro Jesuíno Rissato, Desembargador convocado do TJDFT, Sexta Turma, julgado em 13/8/2024, DJe de 16/8/2024.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO. AUSÊNCIA DE IMPUGNAÇÃO DA SÚMULA N. 7 DO STJ, APLICADA PELA CORTE DE ORIGEM. SÚMULA N. 182 DO STJ. ACÓRDÃO INCOMPLETO. AUSÊNCIA DE PEÇA OBRIGATÓRIA. NÃO CONHECIMENTO DO RECURSO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A ausência de impugnação dos fundamentos da decisão de inadmissão do recurso especial - na hipótese em exame, a Súmula n. 7 do STJ - obsta o conhecimento do agravo - incidência do art. 932, III, do CPC e aplicação da Súmula n. 182 do STJ.
+2. Não se considera impugnada a Súmula n. 7 do STJ se o agravante se limita a sustentar genericamente que a matéria seria apenas jurídica, sem explicitar, à luz do acórdão atacado e da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame de provas. Na espécie, não houve a observância da dialeticidade recursal, motivo pelo qual o referido recurso careceu de pressuposto de admissibilidade, qual seja, a impugnação efetiva e concreta aos fundamentos usados para inadmitir o recurso.
+3. Nos termos da jurisprudência da Corte, não se deve conhecer do agravo em recurso especial quando ausente alguma das peças de apresentação obrigatória. No caso, a cópia do acórdão recorrido está incompleta.
+4. Agravo regimental não provido.
+(AgRg no AREsp n. 2.587.487/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 11/6/2024, DJe de 20/6/2024.)
+Por fim, nada há que se possa apreciar quanto à petição de fl. 3.251, porquanto apresentada após o exaurimento da jurisdição quanto àqueles peticionantes neste órgão colegiado, cabendo à parte interessada reiterar a alegação ali veiculada perante o J uízo da execução, em tempo e modo oportunos.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
