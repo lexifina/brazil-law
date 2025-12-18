@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo manejado por Município de Garopaba/SC, desafiando decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, que não admitiu o recurso especial interposto pela parte ora agravante, por entender que:
+1.1 Da suposta violação aos arts. 421 do Código Civil e 22 da Lei de Introdução às Normas do Direito Brasileiro - Aplicação, por analogia, das Súmulas 282 e 356 do STF
+O recorrente sustenta que a decisão vergastada violou os artigos 421 do Código Civil e 22 da Lei de Introdução às Normas do Direito Brasileiro. Entretanto, tais dispositivos legais e os comandos a eles subjacentes não foram objeto de apreciação pelo órgão fracionário desta Corte e, tampouco, houve a interposição de embargos declaratórios para sanar hipotética omissão.
+Nessa toada, incidem aqui os enunciados das Súmulas 282 e 356 do STF, aplicáveis por analogia e que dispõem, respectivamente: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada" e "O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento".
+ ..
+1.2 Da apontada afronta aos arts. 78, XV da Lei n. 8.666/1993 e 6º, §1º da Lei n. 8.987/1995 - Incidência da Súmula 7 do STJ
+A apontada afronta aos artigos supracitados guarda relação com a pretensão autoral de declaração judicial de ilegalidade da paralisação das atividades desempenhadas pela ré (ora recorrida) e de determinação de retorno dos serviços. Ocorre que a 5ª Câmara de Direito Público, para realizar a subsunção fática às normas alegadamente afrontadas, procedeu à análise da documentação acostada a fim, notadamente, de verificar o quadro de descumprimento contratual por parte do Município, o que, concluiu, sucedeu. Assim, rever tais conclusões não seria possível sem o revolvimento do conteúdo fático-probatório da lide, o que atrai a incidência do enunciado da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+ ..
+2. Alínea "c" do art. 105, III da Constituição Federal
+A pretensão de ascensão do recurso com fundamento na alínea "c" do art. 105 da Constituição Federal tampouco pode ser acolhida. É que, como cediço, "A incidência da Súmula 7/STJ em relação ao tema que se supõe divergente também impede o conhecimento do recurso interposto pela alínea "c" do permissivo constitucional" (AgInt no AREsp n. 2.805.920/MS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 7/4/2025, DJEN de 10/4/2025.)
+Ademais, o insurgente deixou de realizar o adequado cotejo analítico entre os acórdãos apontadamente dissonantes, o que descumpre o requisito de demonstração do dissídio em razão do óbice da Súmula 284 do STF, aplicável por analogia: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+É O NECESSÁRIO RELATÓRIO.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar a totalidade dos motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+Na espécie, a parte agravante não realizou o imprescindível cotejo entre o acórdão recorrido e os argumentos veiculados nas razões do apelo raro, em ordem a demonstrar, particularizadamente, a inaplicabilidade do anteparo sumular 7/STJ.
+Ademais, é imperioso frisar que, negado o processamento do recurso especial ante a ausência de prequestionamento da matéria veiculada no apelo raro, é essencial que as razões do agravo demonstrem o seu efetivo debate pelo acórdão recorrido, cuja providência, no caso, não ocorreu.
+Nesse contexto, incide o verbete sumular 182 desta Corte ("É inviável o agravo do artigo 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida").
+Essa, ressalte-se, foi a linha de entendimento confirmada pela Corte Especial do STJ ao julgar os EAREsp 701.404/SC e os EAREsp 831.326/SP, Rel. Min. João Otávio de Noronha, Rel. p/ acórdão Ministro Luis Felipe Salom ão, DJe de 30/11/2018.
+ANTE O EXPOSTO, não conheço do agravo.
+Levando-se em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 10% (dez por cento) do valor a esse título já fixado no processo (art. 85, § 11, do CPC).
+Publique-se.
+ EMENTA
