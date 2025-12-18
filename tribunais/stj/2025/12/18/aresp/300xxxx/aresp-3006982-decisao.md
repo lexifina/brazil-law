@@ -1,0 +1,63 @@
+DECISÃO
+Trata-se de agravo em recurso especial (fls. 371-374) interposto pelo MUNICÍPIO DE IGUABA GRANDE contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO que inadmitiu recurso especial dirigido em oposição ao acórdão prolatado na Apelação Cível n. 0000543-29.2016.8.19.0069 (fls. 274-294), assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. DIREITO ADMINISTRATIVO.
+A Autora buscou a condenação do Município ao pagamento de valores inadimplidos pertinentes à contrato cumprido, além de indenização por danos morais.
+Extinção do feito, sem julgamento do mérito, quanto ao pedido de cobrança por ausência de interesse de agir, com a improcedência dos demais pedidos, contra o que a parte Autora se insurge.
+Equívoco da sentença ao concluir pela ausência de interesse de agir, eis que a existência de simples nota de empenho, sem prova de pagamento, não é suficiente para demonstrar que o Réu adimpliu com suas obrigações.
+Sobre o pedido de pagamento de diferença pertinente a juros e correção monetária, não andou bem a sentença ao utilizar a cláusula 8 do ajuste como sendo impeditiva da pretensão, eis que ela é específica para reajustes, o que não se confunde com pagamento em atraso e em valor desatualizado considerando-se a passagem do tempo e a influência do fenômeno econômico da inflação.
+A mora do Ente em honrar com o pagamento da dívida tem como consequências legais a incidência de juros e correção monetária, tanto na Legislação Civil quanto no artigo 55, inciso III da Lei 8.666/93.
+Documento acostado demonstra que a obra foi entregue em 20/03/2014.
+A parte Autora afirmou na inicial que o valor restante devido pela Administração e pertinente à conclusão da obra somente foi pago após a última medição, realizada em 10/06/2015, o que também não foi de qualquer forma impugnado ou contestado pelo Município Réu; que não se do ônus de provar o pagamento de forma tempestiva, o que se impunha por força do artigo 373, inciso II, do Código de Processo Civil.
+O Município não negou a conclusão da obrigação pela parte Autora ou impugnou a demora no pagamento em sua Contestação, limitando-se a alegar a aplicação do princípio da reserva do possível, olvidando-se, contudo, em tecer alegações precisas que justifiquem a aplicação dele ao específico caso dos autos, especialmente quando os valores a serem pagos aos contratados da administração devem constar do orçamento anual do ente.
+O próprio contrato dispunha que os valores seriam pagos por meio contrato de repasse com o Ministério da Integração Nacional, sendo evidente a existência de prévia fonte de custeio, o que, por si só, afasta a tese de limitação orçamentária e incapacidade de pagamento.
+A sentença deve ser reformada para que o Réu seja condenado ao pagamento de correção monetária e juros em razão de sua mora quanto ao pagamento do valor devido após a conclusão da obra, pago em atraso e sem a devida atualização, nos termos do que determina o artigo 55, inciso III, da Lei nº 8.666/93.
+Sexto aditivo contratual que dispôs sobre o pagamento de valor extra de R$ 42.445,79, havendo no aditivo especificação da fonte de custeio, bem como autorização específica do Secretário Municipal para que os serviços que foram acertados no aditivo fossem iniciados.
+Ausência de prova de pagamento ou liquidação da nota de empenho pertinente ao aditivo.
+Logo, deve o Município ser condenado a efetuar o pagamento do débito.
+Reforma da sentença para que o Município Réu efetue o pagamento do valor, devidamente atualizado e com juros desde o vencimento.
+A Autora também persegue indenização por danos morais moral.
+A despeito de há muito estar sumulado o entendimento de que a pessoa jurídica pode sofrer danos morais, nos termos do verbete nº 227 do Superior Tribunal de Justiça, eles não ocorrem in re ipsa e dependem de prova de lesão à honra objetiva, ou seja, a repercussão dos fatos sobre a sua imagem e perante o mercado e seus consumidores.
+Na presente hipótese, não há prova de que a mora do Réu tenha provocado repercussões negativas para o nome ou a imagem da Autora, de modo que a improcedência da pretensão indenizatória deve ser mantida.
+PROVIMENTO PARCIAL DO RECURSO.
+Opostos Embargos de Declaração (fls. 305-311) que foram rejeitados (fls. 316- 325).
+Nas razões do apelo nobre, expostas às fls. 334-339, fundamentado no art. 105, inciso III, alíneas a e c da Constituição Federal, a parte agravante sustenta, em síntese, violação dos arts. 373, incisos I e II, 485, inciso VI, e 493 do CPC e 15, 16 e 17 da Lei de Responsabilidade Fiscal.
+Apresentadas contrarrazões ao recurso especial (fls. 345-349).
+O Tribunal de origem não admitiu o recurso especial (fls. 351-361) sob o fundamento de que a reanálise da matéria, tal como pretendida, demandaria o revolvimento do conjunto fático-probatório dos autos (Súmula n. 7 do STJ).
+Apresentadas contrarrazões ao agravo em recurso especial (fls. 378-382).
+O Ministério Público Federal apresentou parecer (fls. 405-412) opinando pelo conhecimento do agravo para não provimento do recurso especial, com a seguinte ementa:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CONTRATO DE PRESTAÇÃO DE SERVIÇOS ENTRE ENTE PÚBLICO E PARTICULAR. ALEGAÇÃO DE NÃO PAGAMENTO TEMPESTIVO DAS OBRIGAÇÕES PELO ENTE PÚBLICO. CONCLUSÃO DA CORTE DE ORIGEM. REVISÃO FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. RAZÕES RECURSAIS QUE NÃO INFIRMARAM A CONCLUSÃO DO ACÓRDÃO HOSTILIZADO. SÚMULA 283/STF, POR ANALOGIA. AUSÊNCIA DE DEMONSTRAÇÃO DE DISSÍDIO JURISPRUDENCIAL. PARECER PELO CONHECIMENTO DO AGRAVO PARA NÃO PROVIMENTO DO RECURSO ESPECIAL.
+É o relatório.
+Decido.
+O agravo em recurso especial não comporta conhecimento.
+Verifico que a parte agravante, nas razões do agravo em recurso especial, afirmou, de maneira genérica, que não se trata de revolvimento do acervo fático-probatório, não tendo esclarecido, à luz das teses veiculadas no apelo nobre, de que maneira não seria necessária a incursão ao campo probatório.
+Para buscar afastar a incidência da Súmula n. 7 do STJ, deve a parte cotejar a moldura fática incontroversa do acórdão recorrido com as teses por ele suscitadas, demonstrando de que forma o seu exame prescindiria da análise de elementos probantes.
+Nos termos da jurisprudência desta Corte:
+ a  impugnação da Súmula 7 do STJ pressupõe estrutura argumentativa específica, indicando-se as premissas fáticas admitidas como verdadeiras pelo Tribunal de origem, a qualificação jurídica por ele conferida e a apreciação jurídica que lhes deveria ter sido efetivamente atribuída.
+ ..  O Recurso daí proveniente deveria se esmerar não em simplesmente reiterar as razões do Recurso Especial ou os argumentos referentes ao mérito da controvérsia, mas em demonstrar efetivamente que a referida Súmula não se aplica ao caso concreto e que, portanto, seria desnecessário revolver o acervo fático-probatório dos autos para a análise da insurgência (AgInt no AREsp n. 2.371.208/PB, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023; sem grifos no original).
+ ..
+4. Em nova análise do agravo interposto, tem-se que a parte agravante efetivamente não rebateu todos os fundamentos da decisão de inadmissão do recurso especial,
+5. Inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual.
+6. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.770.082/SP, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF-5ª Região), Primeira Turma, julgado em 26/4/2021, DJe de 30/4/2021.
+Em suas razões de agravo, no entanto, a recorrente apenas alega que (fls. 373-374):
+O suposto óbice apontado pela V. decisão combatida não merece guarida. Eis o que trata o referido verbete do Supremo Tribunal de Justiça:
+ ..
+É cediço que o recurso especial não se presta a apreciar a boa ou má interpretação dos fatos, ao reexame da prova produzida ou a sua complementação. Em outras palavras, a má apreciação da prova ou a injustiça da sentença não autorizam a interposição de recursos aos Tribunais Superiores. No entanto, no caso dos autos, a propositura da ação se propôs a indicar GRAVE ERRO APONTADO no documento, que o leva até ser objeto de suscitação de falsidade nos parâmetros utilizados.
+A inadmissão do RESP ao argumento de que se busca reapreciação de provas não se mostra correto e se afasta da melhor decisão jurídica para o caso dos autos, sendo certo que não há como ser aplicada a referida súmula como fundamento de inadmissão.
+No mais, a aplicabilidade da Súmula 7 do STJ deve ser afastada, uma vez que o recurso especial interposto visa atacar a decisão que violou regras jurídicas e não discussão sobre reexame fático-probatória, especialmente diante da violação do procedimento em sede de julgamento de Apelação e ausência de suprimento da omissão no acórdão.
+Assim, não pode o agravante ser prejudicado por um equívoco do julgador, mormente pela ideia de que o recurso interposto aponta de forma clara as violações infraconstitucionais exaradas no caso concreto, especificamente em relação ao juízo de admissibilidade da ação rescisória.
+Ora, o objetivo do recurso especial é flagrar e corrigir ilegalidades ocorridas em um processo judicial, assim, pela situação jurídica narrada, não estamos aqui discutindo questões práticas, mas sim apontando o erro no julgamento em razão dos critérios e métodos de interpretação sem observância da legislação federal indicada.
+Saliente-se ainda, que o erro sobre critérios de apreciação da prova ou errada aplicação de regras de experiência são matéria de direito, e, portanto, não excluem a possibilidade de recurso especial.
+Desta forma, os pontos suscitados pelo recorrente buscam, tão somente, o afastamento da aplicação da Súmulas 7 do STJ, a fim de permitir o conhecimento do Recurso Especial interposto, de modo que se observe a flagrante violação da legalidade aos dispositivos mencionados.
+No mais, destaco que não estamos aqui indicando precedentes em seu sentido stricto, mas demonstrando que há violação jurídica a lei federal, no que tange, à admissibilidade do objeto do RESP.
+É necessário, portanto, a admissibilidade recursal a fim de permitir o conhecimento do RESP pelo Tribunal competente, sob pena de violar ainda mais regras processuais vinculadas a ampla defesa e ao contraditório exercido pelo Município de Iguaba Grande.
+Por fim, a decisão aqui objurgada não está fundamentada no sentido de que o acórdão recorrido destoa do atual entendimento desta Corte Superior sobre a matéria, razão pela qual, deve ser reformada para admitir o RESP, especialmente diante da existência de posicionamento jurisprudencial diverso, apto a garantir a reforma da orientação adotada pelo Tribunal a quo.
+Nesse panorama, verifico que deixou de ser observada a dialeticidade recursal (art. 932, inciso III, do CPC/2015).
+Por conseguinte, o agravo em recurso especial carece do indispensável pressuposto de admissibilidade atinente à impugnação adequada e concreta de todos os fundamentos empregados pela Corte a quo para não admitir o recurso especial, a atrair a incidência da Súmula n. 182 do STJ, in verbis: "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Nesse sentido:
+ ..  5. Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC. 6. Agravo Interno não provido. (AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Por fim, mostra-se inviável a análise das demais questões suscitadas no recurso especial inadmitido em razão do não conhecimento do presente agravo.
+Ante o exposto, NÃO CONHEÇO do agravo em recurso especial.
+Em atenção ao disposto no a rt. 85, § 11º, do Código de Processo Civil, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado (fl. 294), respeitados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, bem como eventual concessão da gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CONTRATO ADMINISTRATIVO. PAGAMENTO EM ATRASO. JUROS E CORREÇÃO MONETÁRIA. INADMISSÃO DO APELO NOBRE PELO TRIBUNAL DE ORIGEM. FUNDAMENTO. SÚMULA N. 7 DO STJ. AUSÊNCIA DE IMPUGNAÇÃO CONCRETA. SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
