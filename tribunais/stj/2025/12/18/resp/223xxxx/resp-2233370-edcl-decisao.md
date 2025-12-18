@@ -1,0 +1,12 @@
+DECISÃO
+Em análise, embargos de declaração opostos por Sandra Salete Pereira da Silva contra decisão que deu provimento ao recurso especial interposto pelo Instituto Nacional do Seguro Social, para reformar o acórdão recorrido, e determinar a devolução dos valores recebidos a título de tutela antecipada.
+Argumenta a parte embargante, em síntese, a ocorrência de omissão quanto à remessa dos autos ao TJ/SP para apreciação da tese subsidiária de excesso de execução/descontos/compensações.
+É o relatório.
+Passo a decidir.
+Nos termos do que dispõe o art. 1.022 do CPC/2015, cabem embargos de declaração contra decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de ser manifestar sobre algum ponto do pedido das partes (realizado na minuta e contraminuta recursais). A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostas nos votos sufragados pelos integrantes da turma julgadora.
+Devem ser limitados os efeitos dos embargos declaratórios, servindo, precipuamente, à correção de vícios formais, da qual decorra o aprimoramento da decisão.
+No caso, a decisão embargada apresenta vícios quanto à ausência de pronunciamento sobre a necessidade de remessa dos autos ao Tribunal de Justiça do Estado de São Paulo, para exame da tese subsidiária de excesso de execução/descontos/compensações, cuja análise foi considerada prejudicada na origem, em razão do acolhimento da tese de inexigibilidade da obrigação de restituir os valores recebidos a título de tutela antecipada, posteriormente revogada, nos termos do que restou decidido no julgamento do Tema 692/STJ.
+Desse modo, devem ser acolhidos os embargos de declaração, para que o dispositivo passe a conter a seguinte redação: "Isso posto, dou provimento ao recurso especial, para reformar o acórdão e determinar a devolução dos valores recebidos a título de tutela antecipada por sentença, posteriormente reformada. Em consequência, determino o retorno dos autos a instância de origem, para que prossiga no exame das demais questões como entender de direito".
+Em face do exposto, acolho os embargos de declaração, nos termos da fundamentação.
+EMENTA
