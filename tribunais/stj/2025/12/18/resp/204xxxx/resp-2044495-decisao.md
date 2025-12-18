@@ -1,0 +1,33 @@
+DECISÃO
+Em análise, recurso especial interposto por MARTINHO DA SILVA PRADO NETTO contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO assim ementado:
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. RECONHECIMENTO PELA FAZENDA NACIONAL DO ÓBITO DO EXECUTADO EM MOMENTO ANTERIOR AO AJUIZAMENTO DO FEITO EXECUTIVO. CONDENAÇÃO DA APELADA EM HONORÁRIOS ADVOCATÍCIOS.
+IMPOSSIBILIDADE. ART. 19, § 1º DA LEI Nº 10.522/2002, COM A REDAÇÃO DADA PELA LEI Nº 12.844/2013.
+I - O C. Superior Tribunal de Justiça, no julgamento do EREsp nº 1.215.003/RS firmou o entendimento no sentido de que o art. 19, § 1º, da Lei nº 10.522/2002 não se aplica ao procedimento regido pela Lei nº 6.830/1980.
+II - Todavia, tal entendimento era aplicado antes da alteração legislativa trazida pela Lei nº 12.844/2013 que alterou o art. 19, § 1º, I, passando expressamente a prever a dispensa da condenação dos honorários inclusive nas hipóteses de embargos à execução fiscal e exceções de pré-executividade.
+III - Assim, com a atual redação dada pela Lei n. 12.844/2013, desde que haja o reconhecimento da procedência do pedido de forma ampla e irrestrita para as hipóteses legalmente permitidas, não há falar em condenação da Fazenda em verba honorária de sucumbência. Precedentes.
+IV - No caso dos autos, na primeira oportunidade que teve para se manifestar, a apelada, reconhecendo que, efetivamente, o executado havia falecido, requereu a extinção da execução fiscal, não havendo se falar, portanto, em sua condenação no ônus de sucumbência.
+V - Recurso de apelação da parte excipiente improvido (fl. 241).
+Os embargos de declaração foram rejeitados (fls. 287-292).
+Nas razões recursais, a parte recorrente aponta violação ao art. 85, §§ 2º, I e IV, 3º, II, e 10, do CPC, e 19, § 1º, I, da Lei 10.522/2002, sustentando, em síntese, que, "nos casos de perda do objeto, os honorários serão devidos por quem deu causa ao processo" (fl. 309); que "a ausência de condenação aos honorários advocatícios é imposta tão somente para as matérias indicadas no art. 19 da da Lei nº 10.522/2002 com redação dada pela Lei nº 12.844/2013 e nas circunstâncias previstas, entre as quais não se inclui a extinção da execução fiscal por ajuizamento equivocado em face de pessoa já falecida" (fl. 309); que "a situação em comento não enseja a dispensa dos honorários prevista no art. 19 da Lei nº 10.522/2002" (fl. 318); que "o Fisco deu causa a discussão, posto que ajuizou feito executivo em 2014 em face de pessoa falecida, demandando o Poder Judiciário" (fl. 320); que "o ônus sucumbencial é devido a quem deu causa à ação, uma vez que a movimentação do judiciário pela Recorrente decorreu da exigência de débito que foi ajuizado em face de pessoa falecida" (fl. 322).
+Contrarrazões apresentadas (fls. 330-334).
+É o relatório.
+Passo a decidir.
+Na origem, o Juízo de Primeiro Grau julgou extinta a execução fiscal, sem resolução do mérito, por requerimento da FAZENDA NACIONAL e após a apresentação de exceção de pré-executividade, em razão do reconhecimento do óbito do executado ocorrido em momento anterior ao ajuizamento.
+A parte ora recorrente interpôs apelação, objetivando a condenação da exequente ao pagamento de honorários advocatícios. O Tribunal de origem negou provimento ao recurso consoante os seguintes fundamentos:
+Cinge-se a controvérsia acerca da possibilidade de exclusão dos honorários advocatícios contra a União à luz do disposto no art. 19 da Lei nº 10.522/02.
+O C. Superior Tribunal de Justiça, no julgamento do EREsp nº 1.215.003/RS firmou o entendimento no sentido de que o art. 19, § 1º, da Lei nº 10.522/2002 não se aplica ao procedimento regido pela Lei nº 6.830/1980:
+ ..
+Todavia, tal entendimento era aplicado antes da alteração legislativa trazida pela Lei nº 12.844/2013 que alterou o art. 19, § 1º, I, passando expressamente a prever a dispensa da condenação dos honorários inclusive nas hipóteses de embargos à execução fiscal e exceções de pré-executividade, in verbis:
+ ..
+Assim, com a atual redação dada pela Lei n. 12.844/2013, desde que haja o reconhecimento da procedência do pedido de forma ampla e irrestrita para as hipóteses legalmente permitidas, não há falar em condenação da Fazenda em verba honorária de sucumbência.
+Nesse sentido, colaciono recentes julgados do C. STJ:
+ ..
+No caso dos autos, na primeira oportunidade que teve para se manifestar, a apelada, reconhecendo que, efetivamente, o executado havia falecido, requereu a extinção da execução fiscal, não havendo se falar, portanto, em sua condenação no ônus de sucumbência.
+Ante o exposto, nego provimento ao recurso de apelação da parte excipiente, nos termos da fundamentação supra.
+É o voto (fls. 225-230).
+De acordo com a jurisprudência deste STJ, para a configuração do prequestionamento, é necessário que a causa tenha sido decidida à luz dos dispositivos legais apontados como contrariados, interpretando-se a sua aplicação ou não, ao caso concreto. Nesse contexto, "a simples indicação de dispositivos e diplomas legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento" (AgInt nos EDcl no AREsp 2.263.247/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 7/12/2023).
+No caso, as teses recursais atreladas aos dispositivos legais invocados - no sentido de que a situação em comento não ensejaria a dispensa dos honorários advocatícios, porque, dentre as hipóteses previstas no art. 19 da Lei 10.522/2002, não se inclui a extinção da execução fiscal por ajuizamento em face de pessoa já falecida, bem como no sentido do cabimento da condenação em honorários pelo ajuizamento de execução fiscal em face de pessoa já falecida - não foram objeto de análise pelo Tribunal de origem, sequer de modo im plícito. Ausente, portanto, o requisito do prequestionamento, incide, no ponto, a Súmula 282 do STF, por analogia.
+Registro, ainda, que a jurisprudência desta Corte firmou-se no sentido de que "o  art. 1025 do CPC/2015 condiciona o prequestionamento ficto ao reconhecimento por esta Corte de omissão, erro, omissão, contradição ou obscuridade, ou seja, pressupõe o provimento do recurso especial por ofensa ao art. 1022 do CPC/2015, com o reconhecimento da negativa de prestação jurisdicional sobre a matéria (AgInt no AREsp n. 2.528.396/RS, Relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 2/9/2024, DJe de 4/9/2024). Ocorre que, no caso, a recorrente deixou de indicar violação ao art. 1.022 do CPC, inviabilizando a configuração de eventual prequestionamento ficto.
+Isso posto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Intimem-se.
+EMENTA
