@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da ausência de negativa de prestação jurisdicional e da incidência da Súmula n. 7 do STJ (fls. 300-303).
+O acórdão recorrido encontra-se assim ementado (fls. 218-219):
+AGRAVO INTERNO NA APELAÇÃO. EMPRÉSTIMO CONSIGNADO. CONTRATO DIGITAL. REALIZAÇÃO POR INTERMÉDIO DE CAIXA ELETRÔNICO COM SENHA E TOKEN. RECEBIMENTO DO VALOR CONTRATADO. TESE FIRMADA EM IRDR. ANUÊNCIA DO CONSUMIDOR NA CONTRATAÇÃO. IMPROCEDÊNCIA MANTIDA. DECISÃO MONOCRÁTICA. RATIFICAÇÃO PELO COLEGIADO . EVENTUAL NULIDADE. SUPERAÇÃO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. AGRAVO INTERNO DESPROVIDO.
+I. "É tranquila a jurisprudência do STJ no sentido de que eventual nulidade da decisão unipessoal proferida pelo relator na instância de origem resta superada ante a ratificação do decisum pelo órgão colegiado, como se deu no caso". (AgInt no REsp 1210914/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 22/08/2017, DJe 30/08/2017)
+II. Compulsando os autos verifico que o Banco se desincumbiu de provar a existência do negócio jurídico entabulado entre as partes, visto que comprovou que houve regular contratação do empréstimo, via caixa eletrônico, com senha, token e log, tendo também provado a disponibilização do valor contratado na conta do cliente (id 38729965).
+III. Nos termos da 1ª tese do Incidente de Resolução de Demandas Repetitivas (IRDR 53.983/2016) quando o consumidor alegar que não recebeu o valor do empréstimo, tem o dever de colaborar com a Justiça (CPC, art. 6º) e fazer a juntada do seu extrato bancário, embora este não deva ser considerado, pelo juiz, como documento essencial para a propositura da ação. Ou seja, bastaria a juntada deste único documento (extrato) para provar sua pretensão e, não o fazendo, presume-se a legalidade da contratação.
+IV. É assente nesta Corte Superior de Justiça que o agravo interno deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos. (STJ - AgInt nos EREsp: 1751652 RS 2018/0162230-1, Relator: Ministro FELIX FISCHER, Data de Julgamento: 25/08/2020, CE - CORTE ESPECIAL, Data de Publicação: DJe 03/09/2020).
+V. Agravo Interno Desprovido.
+Os embargos de declaração foram rejeitados (fls. 258-281).
+Nas razões do recurso especial (fls. 282-285), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte recorrente alegou dissídio jurisprudencial e violação dos arts. 985, I, e 1.022, II, do CPC e 169 do CC.
+Aponta negativa de prestação jurisdicional, aduzindo que o acórdão recorrido não se manifestou "quanto à ausência de contrato solene, de observância compulsória como prevê a Tese 1 do IRDR nº 53983/2016, logo afrontou o art. 985, I do CPC, ponto esse de inconteste relevância no caderno processual, e que não foi enfrentado quando do julgamento dos aclaratórios" (fl. 283).
+Afirma que a "Tese 1 do IRDR de nº 53983/2016, estabeleceu que é obrigatória a comprovação de contrato solene pela parte Recorrida, ponto esse devolvido especificamente em sede de recurso de apelação, porém o r. acórdão do tribunal de origem violou a supradita tese jurídica, porquanto revestiu de validade jurídica empréstimo nulo de pleno direito" (fl. 284).
+Ao final, requer o provimento do recurso para que "seja conhecido e provido o presente Recurso Especial" (fl. 285).
+O agravo (fls. 304-309) afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (fls. 312-318).
+É o relatório.
+Decido.
+De início, cumpre salientar que inexiste afronta ao art. 1.022 do CPC quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões sus citadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+De fato, em relação à tese de ausência de prova da contratação, o Tribunal de origem assim se manifestou (fls. 226-227):
+O ordenamento jurídico pátrio não exige forma especial para a celebração de contratos de mútuo bancário, bastando, para sua validade, a demonstração da manifestação de vontade das partes e a efetiva disponibilização do valor contratado. No caso em apreço, o agravado demonstrou a realização da operação financeira por meio de registros eletrônicos, extratos bancários e logs de movimentação, documentos que evidenciam a efetivação do negócio jurídico.
+Ademais, a alegação de que os extratos apresentados pelo agravado seriam inválidos, por suposta quebra indevida de sigilo bancário, não se sustenta. A apresentação de tais documentos nos autos processuais decorre do direito de defesa da instituição financeira e visa demonstrar a regularidade da contratação, não havendo nenhuma ilicitude em sua utilização.
+Logo, a tese de que o contrato seria nulo por ausência de documento formal não se sustenta diante da comprovação da existência do negócio jurídico por outros meios idôneos, conforme reiterada jurisprudência desta Corte.
+A recorrente sustenta, ainda, que a decisão monocrática não teria aplicado corretamente a TESE 1 do IRDR 53983/2016 do TJMA, que impõe à instituição financeira o ônus da prova quanto à existência do contrato de empréstimo consignado.
+Todavia, tal argumentação não resiste a um exame técnico mais aprofundado.
+A tese firmada no referido incidente de resolução de demandas repetitivas determina que cabe à instituição financeira demonstrar a existência da contratação do empréstimo consignado. Contudo, tal ônus pode ser satisfeito por meio de qualquer meio de prova lícito e idôneo, não se restringindo à apresentação do contrato físico.
+No caso concreto, o agravado fez prova da regularidade da contratação mediante apresentação de registros eletrônicos e movimentações bancárias compatíveis com a realização do empréstimo, elementos que, conforme jurisprudência desta Corte, são suficientes para comprovar a avença. Assim, a alegação de que o banco não se desincumbiu do ônus probatório não encontra respaldo na realidade dos autos.
+Ao examinar os fundamentos da decisão agravada, verifica-se que a questão foi devidamente analisada, tendo o relator concluído, com base nas provas dos autos, pela regularidade da contratação.
+(..)
+Repito que, nos presentes autos, restou demonstrada a disponibilização do numerário na conta da autora (id 38729965), seguindo a orientação da Tese nº 1 do IRDR Nº 53.983/2016.
+Em razão disso, mantenho meu posicionamento de que a validade de contratos assinados eletronicamente, via caixa eletrônico e celular mobile, com senha e token pessoais, é plenamente aceita por esta Colenda Corte de Justiça, que por inúmeras vezes chegou a conclusão da licitude deste tipo de contratação.
+Desse modo, não assiste razão à parte, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente a seus interesses, não incorrendo em nenhum dos vícios previstos no art. 1.022 do CPC.
+Ademais, modificar o entendimento do acórdão impugnado quanto à regularidade da contratação demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
