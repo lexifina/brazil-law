@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo DISTRITO FEDERAL, com fundamento no art. 105, III, alíneas a e c, da Constituição Federal, de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS (TJDFT) na Apelação Cível n. 0700436-62.2018.8.07.0018.
+O acórdão recorrido apresenta a seguinte ementa (fl. 260):
+APELAÇÃO CÍVEL. DIREITO PROCESSUAL CIVIL. CONTESTAÇÃO SEM DETERMINAÇÃO DE CITAÇÃO. ART. 332 DO CPC. INEXISTÊNCIA DE FIXAÇÃO DE HONORÁRIOS.
+1. O CPC, em seu art. 332, prevê a possibilidade de que o juiz julgue liminarmente improcedente o pedido do autor, independente de citação do réu, em caso de acórdão proferido pelo STJ em julgamento de recurso repetitivo.
+2. Verificado que o juiz se valeu dessa prerrogativa, a apresentação de contestação pelo réu, sem a determinação de citação e sem sequer a oportunidade de réplica por parte do autor, não é suficiente para caracterizar a necessidade de fixação de honorários de sucumbência em favor do requerido.
+3. Negou-se provimento ao apelo.
+Os dois embargos de declaração opostos na sequência foram rejeitados (fls. 310-325 e 359-378).
+Nas razões do recurso especial (fls. 386-399), a parte recorrente sustenta, preliminarmente, negativa de prestação jurisdicional por violação dos arts. 489, § 1º, incisos IV e VI, e 1.022, incisos I e II, do CPC, pois argumenta que a Corte local deixou de enfrentar expressamente sobre (fls. 393-394):
+i) a aplicação do art. 239, §1º, do CPC, segundo o qual o comparecimento espontâneo supre a citação e forma validamente a relação processual; (ii) a obrigatoriedade de fixação de honorários advocatícios sucumbenciais nas hipóteses de improcedência, nos termos do art. 85, §§2º a 6º, 14, 19, 90 e 91 do CPC; e (iii) a indevida equiparação da sentença de improcedência - proferida após apresentação de contestação e manifestações pelo réu - ao julgamento liminar previsto no art. 332, II, do CPC.
+No mérito, aduz afronta aos arts. 85, §§ 2º a 6º, 14, 19, 90, 91 e 332, inciso II, do CPC. Alega que a interpretação dada pelo Tribunal de origem representa inequívoca violação do regime jurídico dos honorários, afrontando não apenas o texto legal, mas também a lógica do princípio da sucumbência, que impõe à parte vencida a responsabilidade pelo ônus da derrota. Afirma que ao equiparar a sentença proferida após contestação e manifestações do réu ao julgamento liminar previsto no art. 332 do CPC, o Tribunal local ampliou de forma indevida o alcance do dispositivo, criando hipótese não prevista em lei, pois o julgamento liminar exige, por definição, a inexistência de contraditório e a ausência de citação, o que não se verificou no caso concreto.
+Sem contrarrazões (fl. 409).
+O recurso especial foi admitido pelo Tribunal de origem (fls. 413-415).
+É o relatório.
+Decido.
+De início, ressalto que o acórdão recorrido não possui as omissões suscitadas pela parte recorrente. Ao revés, o Tribunal a quo se manifestou sobre todos os aspectos importantes ao deslinde do feito, adotando argumentação concreta e que satisfaz o dever de fundamentação das decisões judiciais.
+Aliás, consoante pacífica jurisprudência das Cortes de Vértice, o Julgador não está obrigado a rebater, individualmente, todos os argumentos suscitados pelas partes, sendo suficiente que demonstre, fundamentadamente, as razões do seu convencimento.
+Como se sabe, " a  omissão somente será considerada quando a questão seja de tal forma relevante que deva o julgador se pronunciar" (AgInt nos EDcl no REsp n. 2.124.369/RJ, relator Ministro Francisco Falcão, Segunda Turma, julgado em 7/10/2024, DJe de 9/10/2024).
+Com efeito, " n ão configura ofensa ao art. 1.022 do CPC/2015 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pelo recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia" (AgInt no AREsp n. 2.448.701/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 19/8/2024, DJe de 2/9/2024; sem grifos no original).
+Vale dizer: "o órgão julgador não fica obrigado a responder um a um os questionamentos da parte se já encontrou motivação suficiente para fundamentar a decisão" (AgInt no REsp n. 2.018.125/SC, relator Ministro Francisco Falcão, Segunda Turma, julgado em 10/9/2024, DJe de 12/9/2024).
+O Tribunal distrital, ao afastar a condenação em honorários advocatícios, assim fundamentou (fls. 267-269):
+O réu, Distrito Federal, apela alegando que apresentou contrarrazões e manifestou-se sobre o julgamento do Tema Repetitivo 986 nos presentes autos, devendo a autora, União Centro Oeste Brasileira da Igreja Adventista do Sétimo Dia, ser condenada aos honorários sucumbenciais diante da improcedência de seus pedidos.
+Sem razão o réu/apelante.
+Analisados os autos, verifica-se que após o recebimento da inicial, diante da pendência de julgamento do Tema Repetitivo 986, o d. Juízo a quo determinou a suspensão do processo, sem ordenar a citação do réu (ID 63683778).
+Apesar disso, o réu, Distrito Federal, apresentou contestação (ID 63683785) e, posteriormente, após intimação do Juízo a quo para que as partes se manifestassem sobre o julgamento, manifestou-se sobre o ponto.
+Ressalta-se que a autora, União Centro Oeste Brasileira da Igreja Adventista do Sétimo Dia, não foi intimada para apresentar réplica à contestação, não o fazendo, além de não peticionar mais nos autos após a determinação de suspensão do feito.
+Além disso, verifica-se que até o momento não houve determinação de citação do réu/apelante, Distrito Federal.
+No ponto, o CPC prevê a possibilidade de, havendo acórdão proferido em recurso repetitivo pelo STJ, como no presente caso, que o juiz julgue improcedente o pedido sem a citação do réu, o que não implica em honorários:
+Art. 332. Nas causas que dispensem a fase instrutória, o juiz, independentemente da citação do réu, julgará liminarmente improcedente o pedido que contrariar:
+(..)
+II - acórdão proferido pelo Supremo Tribunal Federal ou pelo Superior Tribunal de Justiça em julgamento de recursos repetitivos; (..)
+No ponto, reforça-se que o d. Juízo em nenhum momento teve a intenção de citar o réu, conforme trecho da r. sentença:
+(..) Em tempo, faz-se desnecessária a aquiescência da parte adversa, cuja citação sequer foi determinada, haja vista a pendência quanto a suspensão dos autos pelo Superior Tribunal de Justiça no Tema Repetitivo n. 986.
+Custas na forma da lei. Sem honorários. (..) (ID 63683794)
+Como se observa, diante do comparecimento espontâneo do réu Distrito Federal, ora recorrente, houve a apresentação de contestação e, sobretudo, manifestação sobre o Tema n. 986 do STJ, determinada pelo próprio Juízo de primeiro grau, aperfeiçoando-se a relação jurídico-processual.
+Portanto e como consequência legal, é devida a condenação da autora da ação principal, ora recorrida, ao pagamento dos ônus sucumbenciais diante do princípio da causalidade.
+Dessa forma, a decisão do Tribunal de Justiça do Distrito Federal e Territórios destoa do entendimento firmado por esta Corte Superior de que "a fixação da verba honorária com base na sucumbência consiste na verificação objetiva da parte perdedora, que caberá arcar com o ônus referente ao valor a ser pago ao advogado da parte vencedora, e está previsto no art. 85, caput, do CPC/2015, enquanto o princípio da causalidade tem como finalidade responsabilizar aquele que fez surgir para a parte ex adversa a necessidade de se pronunciar judicialmente, dando causa à lide que poderia ter sido evitada" (REsp n. 2.046.269/PR, relator Ministro Gurgel de Faria, Primeira Seção, julgado em 9/10/2024, DJe de 15/10/2024).
+Nesse passo, impõe-se o retorno dos autos ao Tribunal a quo, para que promova novo exame a respeito dos honorários de sucumbência, observado o disposto no art. 85, § 2º, do CPC.
+Ante o exposto, DOU PARCIAL PROVIMENTO ao recurso especial para determinar o retorno dos autos ao Tribunal de origem a fim de que fixe os honorários advocatícios nos moldes do § 2º do art. 85 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. SUSPENSÃO DO PROCESSO ANTES DA CITAÇÃO. COMPARECIMENTO ESPONTÂNEO DO RÉU. CONTESTAÇÃO E MANIFESTAÇÃO SOBRE O MÉRITO DA CAUSA. TRIANGULAÇÃO DA RELAÇÃO PROCESSUAL. SUCUMBÊNCIA. VERBA HONORÁRIA DEVIDA. RETORNO DOS AUTOS À ORIGEM. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
