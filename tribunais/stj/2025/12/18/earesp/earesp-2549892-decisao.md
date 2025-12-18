@@ -1,0 +1,25 @@
+DECISÃO
+Em análise, embargos de divergência interpostos por WANDA GONÇALVES BARBOSA, contra acórdão da Primeira Turma deste STJ, de relatoria do Ministro Benedito Gonçalves, que manteve a decisão que não conhecera do agravo em recurso especial, por aplicação analógica do óbice da Súmula 182/STJ.
+Nos embargos de divergência, a parte embargante apontou, em síntese, divergência com a posição firmada pela Segunda Turma deste STJ, no julgamento do Aresp 1.113.108/RJ, que decidiu acolher os embargos de declaração, para sanar erro material do acórdão embargado e determinar o retorno dos autos para julgamento do recurso especial.
+É o relatório.
+Passo a decidir.
+Segundo a jurisprudência do STJ, "nos termos do art. 266, caput, do RISTJ c/c o art. 1.043 do CPC/2015, os embargos de divergência têm, como requisito de admissibilidade, a existência de dissenso interpretativo entre diferentes órgãos jurisdicionais deste Tribunal Superior, devendo ter sido apreciada a matéria de mérito do recurso especial - seja de natureza processual seja material -, sendo certo que este recurso é incabível para o reexame de regra técnica de admissibilidade recursal, como sói ser a incidência da Súmula 182 do STJ" (STJ, AgInt nos EAREsp 444.621/SP, Relator Ministro Luís Felipe Salomão, Corte Especial, julgado em 16/11/2016, DJe de 28/11/2016).
+Nesse contexto, incide, na espécie, o óbice da Súmula 315 desta Corte Superior ("Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial"), consoante ilustram os seguintes julgados:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL CONTRA DECISÃO DA PRESIDÊNCIA DESTA CORTE SUPERIOR. O ACÓRDÃO EMBARGADO NÃO EXAMINOU O MÉRITO DA CONTROVÉRSIA, POIS NÃO CONHECEU DO AGRAVO INTERNO ENTÃO INTERPOSTO, EM APLICAÇÃO ANALÓGICA DA SÚMULA 182/STJ. DIVERGÊNCIA NÃO CONFIGURADA. SÚMULA 315/STJ. AGRAVO INTERNO DO SERVIDOR A QUE SE NEGA PROVIMENTO.
+1. Inicialmente, é importante ressaltar que o presente Recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual, aos recursos interpostos com fundamento no Código Fux (relativos a decisões publicadas a partir de 18 de março de 2016), serão exigidos os requisitos de admissibilidade recursal na forma do novo Código.
+2. O acórdão embargado não examinou o mérito da controvérsia, pois não conheceu do Agravo Interno, em aplicação analógica da Súmula 182/STJ (fls. 222/237). Deste modo, resta inviabilizado o conhecimento dos Embargos de Divergência, nos termos da Súmula 315/STJ.
+3. Não podem ser analisadas as alegações da parte agravante quanto ao mérito da causa, pois os Embargos não ultrapassam a barreira do conhecimento.
+4. Agravo Interno do Servidor a que se nega provimento.
+(STJ, AgInt nos EDv nos EAREsp 1.329.019/RJ, relator Ministro Napoleão Nunes Maia Filho, Primeira Seção, julgado em 26/8/2020, DJe de 1/9/2020).
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AUSÊNCIA DE JULGAMENTO DE MÉRITO NO ACÓRDÃO EMBARGADO. SÚMULA 315/STJ. AGRAVO INTERNO DESPROVIDO.
+1. "Se o acórdão deixou de analisar o mérito do agravo interno, é indiferente o resultado do juízo monocrático para embargos de divergência. O objeto da via uniformizante interna é o julgamento colegiado, que, na hipótese de incidência da Súmula n. 182/STJ, não avança sobre o mérito da causa" (AgInt nos EREsp n. 1.930.702/SP, relator Ministro Og Fernandes, Corte Especial, julgado em 7/3/2023, DJe de 15/3/2023).
+2. Agravo interno desprovido.
+(STJ, AgInt nos EREsp 1.844.399/SP, relator Ministro Marco Aurélio Bellizze, Segunda Seção, julgado em 20/6/2023, DJe de 22/6/2023).
+AGRAVO INTERNO NOS E MBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ARTS. 1.043, § 4º, DO CPC/2015 E 266, § 4º, DO RISTJ. DESCUMPRIMENTO. AUSÊNCIA DE JULGAMENTO DE MÉRITO NO ACÓRDÃO EMBARGADO. SÚMULA 315/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A não demonstração do dissídio alegado, nos moldes exigidos pelos arts. 1.043, § 4º, do CPC/2015 e 266, § 4º, do RISTJ, constitui vício substancial, diante do rigor técnico exigido na interposição dos Embargos de Divergência, sendo descabida a concessão de prazo para complementação de fundamentação. Precedentes.
+2. Consoante a jurisprudência sedimentada deste Tribunal, não se admite a oposição dos embargos de divergência na hipótese de não ter sido analisado o mérito do recurso especial, em razão do disposto na Súmula 315 do STJ, em consonância, ainda, com a redação do art. 1.043, do CPC/2015.
+3. Agravo interno desprovido.
+(AgInt nos EAREsp n. 1.969.968/RJ, relator Ministro Marco Aurélio Bellizze, Segunda Seção, julgado em 30/5/2023, DJe de 1/6/2023.)
+Isso posto, não conheço dos embargos de divergência .
+Intimem-se.
+EMENTA
