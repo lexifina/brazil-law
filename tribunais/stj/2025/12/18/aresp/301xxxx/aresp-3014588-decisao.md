@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da inexistência de violação aos arts. 489 e 1.022 do CPC e incidência da Súmula n. 7/STJ (fls. 1.160-1.162).
+O acórdão recorrido encontra-se assim ementado (fl. 1.074):
+AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA INDENIZATÓRIA - IRRESIGNAÇÃO CONTRA DECISÃO QUE DETERMINOU A INTIMAÇÃO DAS DEVEDORAS PARA PAGAMENTO DA QUANTIA INCONTROVERSA - AGRAVADAS JÁ FORAM INTIMADAS NO INÍCIO DO CUMPRIMENTO DE SENTENÇA, CONFORME ESTABELECE O ARTIGO 523 DO CÓDIGO DE PROCESSO CIVIL ACÓRDÃO ANTERIORMENTE PROFERIDO QUE APENAS RATIFICOU A DECISÃO PROFERIDA NOS AUTOS DA LIQUIDAÇÃO QUE INDICOU QUE A PARCELA INCONTROVERSA DO DÉBITO DEVERIA PROSSEGUIR EM INCIDENTE PRÓPRIO E NÃO DETERMINOU A REABERTURA DO PRAZO PARA PAGAMENTO VOLUNTÁRIO - NOVA INTIMAÇÃO DA PARTE QUE NÃO SE JUSTIFICA - DECISÃO REFORMADA RECURSO PROVIDO.
+Os embargos de declaração foram rejeitados (fls. 1.086-1.091).
+Nas razões do recurso especial (fls. 1.095-1.116), interposto com fundamento no art. 105, III, "a", da CF, a parte recorrente alegou violação dos seguintes dispositivos legais:
+i) arts. 489, § 1º, III e IV, e 1.022, I, do CPC, pela existência de contradição no acórdão recorrido, notadamente pela afirmação da regularidade da intimação dos recorrentes para pagamento, bem como omissão quanto à alegação de aplicabilidade dos arts. 224 e 523 ao caso em exame;
+ii) arts. 224 e 523 do CPC, ao argumento de que os recorrentes não foram regularmente intimados para pagar o débito, razão pela qual "a Douta Câmara de Direito Privado equivocou-se quanto ao prazo de pagamento, afirmando erroneamente que se concluiu na data de 15.02.2023" (fl. 1.113).
+No agravo (fls. 1.166-1.200), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminutas apresentadas (fls. 1.202-1.221 e 1.225-1.235).
+É o relatório.
+Decido.
+Inexiste afronta aos arts. 489 e 1.022 do CPC quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+De fato, em relação à regularidade da intimação dos recorrentes para o pagamento do quantum debeatur, o Tribunal de origem assim se manifestou (fl. 1.075-1.077):
+Em que pese o entendimento do juízo a quo, o inconformismo da parte agravante procede.
+Isso porque, o acórdão proferido no agravo de instrumento nº 2119505-82.2022.8.26.0000 ao prever que "a parcela incontroversa pode prosseguir em incidente processual próprio com a intimação para pagamento, e sob as penas do referido artigo em caso de não pagamento voluntário", não determinou a reabertura de prazo para pagamento, mas apenas ratificou a decisão proferida nos autos da liquidação que indicou que a parcela incontroversa do débito deveria prosseguir em incidente próprio, nos termos do artigo 523, do Código de Processo Civil.
+Com efeito, embora a intimação do devedor para pagamento seja necessária, conforme estabelece o artigo 523, do Código de Processo Civil, tal providência já havia sido adotada nos autos, conforme se verifica de fls. 49/50 (origem), ressaltando-se que não foi interposto recurso em face de tal decisum, não havendo qualquer justificativa ou mesmo previsão legal para a concessão de novo prazo.
+As devedoras já foram regularmente intimadas a pagar o débito, de forma que a exigência do dispositivo acima indicado se encontra cumprida, restando demonstrado, ademais, que as devedoras possuem pleno conhecimento do valor devido, até porque na liquidação de sentença anteriormente interposta foi reconhecida a quantia ora cobrada como incontroversa, o que levou justamente ao ingresso do presente incidente (fls. 43 origem).
+Ressalte-se, por oportuno que, ainda que se admita que o efeito suspensivo concedido no agravo de instrumento nº 2119505-82.2022.8.26.0000 deva se estender ao cumprimento de sentença em questão, certo é que, com o julgamento de referido agravo (acórdão publicado em 10/01/2023 fls. 118 origem), restou prejudicado o efeito suspensivo concedido, passando a fluir o prazo para pagamento com o retorno dos prazos processuais, findando-se em 15/02/2023. Tendo sido efetuado o depósito em 23/02/2023 (fls. 136 origem), portanto, fora do prazo concedido, deve incidir sobre o valor do débito as penalidades constantes do artigo 523, §1º, do Código de Processo Civil.
+De rigor, portanto, a reforma da decisão agravada, reconhecendo que a intimação já havia sido realizada, sendo que era desnecessária a reabertura de prazo para pagamento.
+Em decorrência do exposto, DOU PROVIMENTO ao recurso, nos termos acima alinhavados.
+Desse modo, não assiste razão à parte, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente a seus interesses, não incorrendo em nenhum dos vícios previstos nos arts. 489 e 1.022 do CPC.
+Quanto ao mais alegado, verifica-se do excerto anteriormente transcrito que o acórdão recorrido, examinando os elementos fático-probatórios da causa, concluiu que a intimação do devedor para pagamento já havia sido realizada nos autos, cumprindo-se a contento, portanto, o comando do art. 523 do CPC. Além disso, concluiu que o depósito judicial fora realizado a destempo, incidindo, por isso, as penalidades do art. 523, § 1º, do CPC.
+Modificar o entendimento do acórdão impugnado, na forma pretendida pelos recorrentes, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Inaplicável o art. 85, § 11, do CPC/2015, por se cuidar, na origem, de agravo de instrumento.
+Publique-se e intimem-se.
+EMENTA
