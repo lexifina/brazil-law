@@ -1,0 +1,48 @@
+DECISÃO
+Cuida-se de agravo interposto por FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS CREDITAS AUTO V contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado da Bahia, assim ementado (fl. 490-491):
+APELAÇÃO CÍVEL. DIREITO PROCESSUAL CIVIL. AÇÃO DE BUSCA E APREENSÃO. AFASTAMENTO DA MORA POR MEIO DO RECONHECIMENTO DE ABUSIVIDADE NAS CLÁUSULAS CONTRATUAIS, DECORRENTE DE DISCUSSÃO DE ENCARGOS COMO MATÉRIA DE DEFESA, COMO FEITO PELO ACIONADO NA CONTESTAÇÃO. SENTENÇA MANTIDA. RECURSO CONHECIDO E IMPROVIDO.
+1. A sentença afastou a mora por meio do "reconhecimento da abusividade nos encargos exigidos no período da normalidade contratual (juros remuneratórios e capitalização).
+2. A Segunda Seção do Superior Tribunal de Justiça consolidou o entendimento quanto a possibilidade de discussão da legalidade de cláusulas contratuais como matéria de defesa em ações de busca e apreensão (REsp n.º 267.758/MG).
+3. Restando consolidada a ilegalidade dos encargos exercidos pelo Banco Credor, e demonstrado o seu efeito em afastar a mora do Devedor, com espeque no Enunciado n.º 72, STJ, que preleciona quanto a imprescindibilidade da comprovação da mora para que possa se proceder com a busca e apreensão do bem alienado fiduciariamente, demonstra se por incabível a pretensão esposada pelo Recorrente em seu petitório.
+Os embargos de declaração opostos foram rejeitados (fls. 525-534).
+Nas razões recursais (fls. 503-510), o recorrente alegou que o acórdão violou o art. 1.022 do CPC, pois, mesmo após embargos de declaração, manteve-se omisso quanto à natureza do contrato (empréstimo pessoal com garantia, e não aquisição de veículo), o que levaria à aplicação de uma taxa média de juros de mercado distinta e implicaria não caracterização de abusividade. Alegou, ainda, violação dos arts. 2º, 3º, 4º, 8º e 9º da Lei n. 4.595/64, por ter o acórdão limitado indevidamente os juros remuneratórios.
+Não foram apresentadas as contrarrazões.
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 551-554), o que ensejou a interposição do presente agravo (fls. 560-565).
+Não foi apresentada contraminuta do agravo.
+É, no essencial, o relatório.
+O recurso merece prosperar.
+O cerne da controvérsia reside na análise da ocorrência de negativa de prestação jurisdicional pelo Tribunal de origem, que, ao julgar a apelação e os subsequentes embargos de declaração, teria deixado de se manifestar sobre questão essencial para a correta solução da lide.
+Compulsando os autos, verifica-se que a ação originária consiste em busca e apreensão de veículo alienado fiduciariamente.
+O Juízo de primeiro grau extinguiu o processo, sem resolução de mérito, com base no art. 485, IV, do Código de Processo Civil, por entender descaracterizada a mora do devedor. A descaracterização da mora, por sua vez, decorreu do reconhecimento da abusividade dos juros remuneratórios, os quais, segundo o magistrado sentenciante, excediam a taxa média de mercado para operações de "aquisição de veículos".
+Em seu recurso de apelação, o ora agravante defendeu, como tese central, que o contrato em tela não se trata de financiamento para aquisição de veículo, mas sim de "empréstimo pessoal com garantia de veículo", modalidade contratual diversa e que possui taxa média de juros de mercado significativamente superior, conforme dados do Banco Central do Brasil. Argumentou que, utilizando-se o paradigma correto, a taxa contratada estaria abaixo da média de mercado, não havendo, portanto, abusividade a justificar a descaracterização da mora.
+O Tribunal de origem, contudo, ao negar provimento à apelação, limitou-se a confirmar a sentença por seus próprios fundamentos, afirmando genericamente a possibilidade de discussão das cláusulas contratuais em sede de defesa e a correção da decisão que afastou a mora, sem, contudo, enfrentar o argumento específico sobre a natureza do contrato e a taxa de juros aplicável.
+Confiram-se trechos do acórdão (fls. 496-499):
+Inicialmente, embora não se tenha formulado na peça contestatória pedido reconvencional, cumpre registrar que a Segunda Seção do Superior Tribunal de Justiça consolidou o entendimento quanto a possibilidade de discussão da legalidade de cláusulas contratuais como matéria de defesa em ações de busca e apreensão (R Esp n.º 267.758/MG).
+O fato de ter o acionado alegado como matéria de defesa a ilegalidade de cláusulas contratuais, e não formulado pedido reconvencional, não acarreta decisão extrapetita, vez que decidiu o Juízo de 1.º grau nos limites do pedido, acolhendo a matéria suscitada na defesa, o que se permite segundo melhor entendimento, como se percebe do precedente citado.
+Por outro lado, sabe-se que comprovação da mora é pressuposto de constituição e de desenvolvimento válido do processo que deve ser satisfeito antes da propositura da ação.
+ ..
+Na espécie, infere-se que a sentença entendeu pela ilegalidade dos juros remuneratórios.
+Convém destacar que após a publicação da sentença não houve interposição de qualquer recurso pela parte apelada.
+Logo, tendo sido reconhecida a abusividade dos encargos moratórios, os quais podem ser discutidos como matéria de defesa, matéria estas devidamente apreciadas pelo juiz, deve o julgamento da lide realizado na sentença ser mantido.
+ ..
+Assim sendo, restando consolidada a ilegalidade dos encargos exercidos pelo Banco Credor, e demonstrado o seu efeito em afastar a mora do Devedor, com espeque no Enunciado n.º 72, STJ, que preleciona quanto a imprescindibilidade da comprovação da mora para que possa-se proceder com a busca e apreensão do bem alienado fiduciariamente, demonstra-se por incabível a pretensão esposada pelo Recorrente em seu petitório.
+Diante da omissão, o agravante opôs embargos de declaração, buscando expressamente o pronunciamento do Tribunal sobre a natureza do contrato e a taxa de juros correspondente. Em resposta, a Corte estadual rejeitou os embargos, sob o fundamento de que a matéria fora exaustivamente analisada e que a pretensão do embargante seria a de rediscutir o mérito, o que seria incabível na via eleita.
+Eis o trecho do acórdão dos aclaratórios (fls. 533-534):
+ ..  Da leitura do acórdão, no entanto, constata-se que essas questões foram devidamente analisadas, nem mais nem menos. Isto é, o julgamento se deu nos exatos termos da matéria devolvida a este Tribunal, de modo que o julgado não ultrapassou as questões que deveriam, de fato, ter sido decididas.
+Em relação a toda essa matéria, o que se observa é uma tentativa de rediscussão da matéria já exaustivamente analisada e decidida. Não pode o Embargante pretender, por meio dos embargos de declaração, a rediscussão dessa questão, pois não é o recurso apropriado.
+ ..
+O embargante não se insurge contra um acórdão que foi omisso, contraditório ou obscuro ou que contém erro material. Rebela-se, em realidade, contra um julgado que não decidiu a seu favor. Não pode, por essa via, provocar o órgão jurisdicional até que decida conforme pretende.
+Observa-se, portanto, que a alegação do agravante em sede de embargos de declaração também não foi objeto de análise pelo Tribunal de origem, carecendo, portanto, do requisito do prequestionamento.
+Com efeito, a recusa do Tribunal de origem em se manifestar sobre a classificação jurídica do contrato e, por conseguinte, sobre o paradigma para a aferição da abusividade dos juros remuneratórios, representa clara violação do art. 1.022, II, do Código de Processo Civil.
+Desse modo, a questão não se resume a uma mera tentativa de rediscussão do mérito, mas sim à arguição de uma omissão sobre um ponto nevrálgico da controvérsia, cuja análise poderia, em tese, infirmar a conclusão adotada pelo acórdão. A definição sobre se a taxa de juros é abusiva ou não depende, impreterivelmente, da correta identificação da taxa média de mercado para a operação específica. Ao ignorar o argumento de que a operação era de "empréstimo pessoal com garantia" e não de "aquisição de veículos", o Tribunal a quo deixou de prestar a tutela jurisdicional de forma completa e fundamentada.
+Assim, em face das questões suscitadas, tenho como necessário o debate acerca de tal ponto.
+A teor da jurisprudência pacífica desta Corte Superior, a existência de omissão relevante para a solução da controvérsia, não sanada pelo acórdão recorrido mesmo após a provocação via embargos de declaração, caracteriza a violação do art. 1.022 do CPC, ensejando a anulação do julgado e o retorno dos autos à origem para novo pronunciamento.
+Nesse sentido, o seguinte precedente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. OMISSÃO. OCORRÊNCIA.
+1. Configura afronta ao art. 1.022 do CPC/2015 a omissão do Tribunal de origem em emitir juízo de valor a respeito de tema relevante para a solução da controvérsia. Tal circunstância impõe a anulação do julgado que apreciou os embargos declaratórios e o retorno dos autos a origem, a fim de que os vícios sejam sanados.
+2. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp n. 1.869.138/AL, relator Ministro Og Fernandes, Segunda Turma, DJe de 24/8/2022.)
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial, a fim de determinar o retorno dos autos ao Tribunal de origem para que se manifeste, como entender de direito, acerca da omissão apontada, notadamente quanto à natureza jurídica do contrato e a respectiva taxa média de juros de mercado aplicável à espécie.
+Publique-se. Intimem-se.
+EMENTA
