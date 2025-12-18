@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da incidência das Súmulas n. 284 do STF e 7 do STJ (fls. 447-449).
+O acórdão recorrido encontra-se assim ementado (fls. 369-370):
+DUPLA APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C COMPENSAÇÃO POR DANO MORAL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. PROCEDIMENTO CIRÚRGICO TAVI. CARDIOPATIA GRAVE. COBERTURA DEVIDA. DANO MORAL. NEGATIVA FUNDAMENTADA EM INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL E DO QUADRO CLÍNICO DA PACIENTE. SUCUMBÊNCIA RECÍPROCA. HONORÁRIOS ADVOCATÍCIOS. BASE DE CÁLCULO. PROVEITO ECONÔMICO.
+1. Conforme preconiza a jurisprudência do Superior Tribunal de Justiça, considera-se abusivas as cláusulas que limitam a espécie de tratamento necessário a cura ou melhora do paciente, isto porque, ainda que lhe seja permitido arrolar as doenças que serão cobertas, não autoriza escolher o tipo de tratamento utilizado para cada uma.
+2. A operadora do plano de saúde pautou sua conduta dentro dos limites da boa-fé objetiva, com base na interpretação de cláusulas contratuais e demais elementos que circundaram o pedido, de modo que, ainda que equivocada, a negativa de cobertura não configura ilícito civil passível de responsabilização, porque a ré entendia ser aquela decisão legítima e adequada ao presente caso.
+3. Tendo em vista que o autor foi parcialmente vencedor em seus pedidos, é imperiosa a reforma da sentença para fixar a sucumbência recíproca.
+4. Segundo a jurisprudência das Turmas de Direito Privado e da Segunda Seção do STJ, a obrigação de fazer que determina o custeio de tratamento médico por parte das operadoras de planos de saúde pode ser economicamente auferida, utilizando-se como parâmetro o valor da cobertura indevidamente negada. Na hipótese, sendo a obrigação de fazer correspondente ao valor do procedimento cirúrgico, é plenamente aferível o proveito econômico.
+APELAÇÕES CÍVEIS CONHECIDAS E PARCIALMENTE PROVIDAS. SENTENÇA REFORMADA.
+Os embargos de declaração foram desacolhidos (fls. 401-411).
+Nas razões do recurso especial (fls. 417-431), interposto com fundamento no art. 105, III, "a", da CF, a parte recorrente alegou violação dos seguintes dispositivos legais:
+(i) art. 1.022, I, do CPC, pois "o Tribunal alinhou -se ao entendimento de que não estaria obrigado à manifestação expressa sobre todos os artigos, de modo que, por isso, alega -se também violação ao art. 1.022, I, do CPC/15" (fl. 421);
+(ii) arts. 85, § 2º, e 86 do CPC, porque "o Tribunal a quo fixou honorários de 10% (dez por cento) para ambas as partes sobre a mesma base de cálculo - qual seja: o procedimento cirúrgico indevidamente negado. Ainda que tal pedido tenha sido procedente para o Recorrente" (fl. 426). "Logo, a sucumbência do Recorrente é somente o dano moral" (fl. 427). "Dada as particularidades do caso e a proporção em que cada parte obteve vitória e derrota, não é razoável que os honorários advocatícios sejam estabelecidos de forma idêntica para os advogados" (fl. 428);
+(iii) art. 85, § 2º, do CPC, "ao fixar que cada advogado terá direito a apenas 5 0% do valor da condenação a título de honorários sucumbenciais, o acórdão utilizou um percentual inferior ao mínimo de 10% previsto no § 2º do art. 85 do CPC, sem apresentar qualquer fundamentação ou justificativa para a aplicação de um percentual abaixo do estipulado pela lei" (fl. 429).
+No agravo (fls. 452-463), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (fls. 469-476).
+É o relatório.
+Decido.
+No que se refere à suposta ofensa ao art. 1.022 do CPC, a parte recorrente se ateve a formular alegações genéricas de violação desse dispositivo, sem demonstrar de forma específica em que consistiu o vício perpetrado pelo Tribunal de origem.
+Com efeito, diante da deficiente fundamentação recursal que impede a exata compreensão da controvérsia, é inafastável a incidência da Súmula n. 284/STF.
+Quanto aos honorários advocatícios de sucumbência, o TJGO assim se manifestou (fls. 375-378):
+Por outro lado, verifica-se que o pleito de redimensionamento dos honorários sucumbenciais merece acolhida.
+Infere-se da inicial que o autor pleiteia a condenação da operadora de saúde no custeio da cirurgia TAVI e de todos os insumos necessários para a realização da cirurgia, bem como em danos morais.
+Observa-se, contudo, que o autor sagrou-se vencedor no primeiro pedido, restando vencido quanto ao pleito de danos morais, razão pela qual é imperiosa a reforma da sentença para fixar a sucumbência recíproca entre as partes, 50% para cada, nos termos do art. 86, do CPC:
+ ..
+Com relação à irresignação do primeiro apelante quanto à base de cálculo utilizada para condenação dos honorários advocatícios, entendo que merece guarida.
+Nos termos do Código de Processo Civil, a sentença condenará o vencido a pagar honorários advocatícios ao causídico do vencedor (art. 85, caput), observados o grau de zelo do profissional, o lugar de prestação do serviço, a natureza e a importância da causa, bem como o trabalho realizado pelo patrono e o tempo exigido para o seu serviço; no cálculo da mencionada verba remuneratória, o diploma orienta que seja considerado o mínimo de 10% (dez) e o máximo de 20% (vinte por cento) sobre o valor da condenação, do proveito econômico obtido ou, não sendo possível mensurá-lo, sobre o valor atualizado da causa (§ 2º do art. 85).
+Consoante a jurisprudência das Turmas de Direito Privado e da Segunda Seção do STJ, a obrigação de fazer que determina o custeio de tratamento médico por parte das operadoras de planos de saúde pode ser economicamente auferida, utilizando-se como parâmetro o valor da cobertura indevidamente negada  .. .
+ ..
+In casu, uma vez que a obrigação de fazer correspondente ao valor do procedimento cirúrgico, é plenamente aferível o proveito econômico, conforme orçamento apresentado à mov. 07.
+ ..
+Assim, os honorários de sucumbência devem ser fixados em 10% sobre o proveito econômico obtido pelo autor, relativo ao custeio integral da cirurgia TAVI.
+ ..
+Ante o exposto, CONHEÇO de ambos os recursos e DOU-LHES parcial provimento, para fixar os honorários advocatícios sucumbenciais em 10% sobre o proveito econômico obtido pelo autor referente ao custo total da cirurgia, sendo em 50% para cada parte, suspensa a exigibilidade em relação ao autor, nos termos do art. 98, §3º do CPC.
+Por sua vez, no acórdão que rejeitou os aclaratórios, a Corte local assinalou que "não há falar que o decisum foi omisso ou contraditório, porquanto apreciou e fixou a base de cálculo dos honorários para ambas as partes" (fl. 408).
+Dessa forma, no que diz respeito às alegações de que "a sucumbência do Recorrente é somente o dano moral" (fl. 427) e de que, "dada as particularidades do caso e a proporção em que cada parte obteve vitória e derrota, não é razoável que os honorários advocatícios sejam estabelecidos de forma idêntica para os advogados" (fl. 428), bem como de afronta aos arts. 85, § 2º, e 86 do CPC, as teses e o conteúdo normativo de tais dispositivos não foram apreciados pelo Tribunal de origem, apesar da oposição de embargos declaratórios.
+Caberia à parte apontar violação do art. 1.022 do Código de Processo Civil, o que não ocorreu especificamente quanto aos pontos. Portanto, à falta do indispensável prequestionamento, incide a Súmula n. 211 do Superior Tribunal de Justiça.
+Além disso, não houve pronunciamento do Tribunal a quo sobre a tese de que, "ao fixar que cada advogado terá direito a apenas 50% do valor da condenação a título de honorários sucumbenciais, o acórdão utilizou um percentual inferior ao mínimo de 10% previsto no § 2º do art. 85 do CPC, sem apresentar qualquer fundamentação ou justificativa para a aplicação de um percentual abaixo do estipulado pela lei" (fl. 429), nem a Corte local foi instada a fazê-lo por via de embargos declaratórios.
+Logo, visto que o Tribunal de origem não foi instado, no momento oportuno, a se manifestar acerca do tema, também é inafastável a Súmula n. 211/STJ, por ausência do devido prequestionamento sobre a questão.
+Ademais, "de acordo com a jurisprudência reiterada desta Corte, a aferição do percentual em que cada litigante foi vencedor e/ou vencido e a conclusão pela existência de sucumbência mínima ou recíproca das partes, demanda o revolvimento de matéria fática, impossível na presente via, conforme dispõe a Súmula 7 do STJ" (AgInt no REsp n. 2.039.754/SP, Relator Ministro Marco Buzzi, Quarta Turma, julgado em 14/8/2023, DJe de 17/8/2023).
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC, MAJORO os honorários advocatícios em 1% (um por cento) do valor arbitrado em desfavor da parte ora recorrente, observando-se os limites dos §§ 2º e 3º do referido dispositivo e a concessão de justiça gratuita.
+Publique-se e intimem-se.
+ EMENTA
