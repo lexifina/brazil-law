@@ -1,0 +1,28 @@
+DECISÃO
+Em análise, agravo em recurso especial interposto pelo INSTITUTO DE PREVIDÊNCIA E ASSISTÊNCIA DO MUNICÍPIO DE BELÉM - IPAMB contra decisão que inadmitiu recurso especial manejado em desfavor de acórdão proferido pelo Tribunal de Justiça do Estado do Pará - TJPA, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE REPETIÇÃO DE INDÉBITO COM PEDIDO DE TUTELA ANTECIPADA. SERVIDOR DO IPAMB INSCRITO NO PLANO DE ASSISTÊNCIA BÁSICA A SAÚDE DO SERVIDOR - PABSS. LAUDO MÉDICO DEMONSTRANDO A NECESSIDADE DE REALIZAÇÃO DE PROCEDIMENTO CIRÚRGICO DA REGIÃO SUPRARRENAL (RIM DIREITO). NEGATIVA DE COBERTURA DO TRATAMENTO MÉDICO. FINANCIAMENTO PARA CUSTEIO DO TRATAMENTO ATRAVÉS DE DESCONTO EM FOLHA. NECESSIDADE DE COBERTURA TOTAL, SEM FINANCIAMENTO DOS PROCEDIMENTOS DE URGÊNCIA E EMERGÊNCIA. DESCONTO EM FOLHA INDEVIDO. SENTENÇA MANTIDA. RECURSO DE APELAÇÃO CONHECIDO E IMPROVIDO. À UNANIMIDADE.
+A saúde é um direito fundamental cabendo ao Estado, diretamente ou mediante terceiros, o dever de prover as condições indispensáveis ao seu pleno exercício.
+Tratando-se de plano de assistência à saúde de adesão facultativa, tal circunstância equipara o PABSS do IPAMB aos planos de saúde privados.
+A jurisprudência deste Egrégio Tribunal é pacífica quanto à necessidade de cobertura total face a gravidade e urgência/emergência do estado de saúde do paciente. Obrigatoriedade de cobertura de atendimento de urgência e emergência. Inteligência da alínea d do inciso I do art.18 do Decreto Municipal nº 37.522/00. Aplicação do art.35-C Lei nº 9.656/1998, que estabelece a obrigatoriedade de cobertura de atendimento de urgência e de emergência às entidades de autogestão.
+No caso, o procedimento cirúrgico deve ser coberto pelo plano PABSS, independentemente de complementação de valores pelo segurado. Sentença mantida.
+RECURSO DE APELAÇÃO CONHECIDO E IMPROVIDO. À UNANIMIDADE. REMESSA NECESSÁRIA PELA MANUTENAÇÃO DA SENTENÇA.
+Opostos embargos de declaração, foram rejeitados.
+No recurso especial, interposto com fundamento no art. 105, III, a e c, da Constituição Federal, a parte recorrente alegou violação dos arts. 10, § 3º, e 35-C da Lei 9.656/1998; e 3º, § 2º, e 51 da Lei 8.078/1990 (Código de Defesa do Consumidor - CDC). Sustentou, em síntese, que o CDC não se aplica aos contratos de plano de saúde administrados por entidades de autogestão, conforme a Súmula 608/STJ, e que não houve comprovação de emergência médica para justificar a cobertura obrigatória sem coparticipação.
+A admissibilidade do recurso foi negada na origem sob os fundamentos de incidência das Súmulas 7 e 126 do STJ e 280, 283 e 284 do Supremo Tribunal Federal - STF.
+No agravo, a parte recorrente impugnou os óbices aplicados na decisão de admissibilidade.
+É o relatório. Passo a decidir.
+O recurso não comporta conhecimento.
+De início, verifica-se que não foi impugnada a integralidade da fundamentação da decisão agravada, porquanto o agravante não infirmou especificamente nenhum dos fundamentos utilizados para a inadmissão do seu recurso especial.
+Em verdade, a decisão monocrática que negou a subida do Recurso Respecial, ora agravada, assentou-se em fundamentos distintos: (1) - incidência dos enunciados 280, 283 e 284 da Súmula do STF e (2) - incidência do enunciado 7 e 126 da Súmula do STJ, uma vez que o acórdão recorrido foi fundado em dispositivos constitucionais, suficientes e não impugnados através do competente recurso extraordinário, no entender daquele julgador.
+Entretanto, em sede de agravo em recurso especial o recorrente deixou de infirmar especificamente e a contento, todos os fundamentos da decisão de inadmissibilidade, os quais, à míngua de fundamentação pormenorizada, detalhada e específica, permanecem hígidos, produzindo todos os efeitos no mundo jurídico, limitando-se a dizer "não se pode invocar filigranas para que se deixe de aplicar entendimento sumulado desse C. STJ, devendo serem afastados os óbices indicados pela r. decisão agravada e dado provimento ao presente recurso" (fl.237).
+Assim, ao deixar de infirmar os fundamentos do juízo de admissibilidade realizado pelo Tribunal de origem, o agravante fere o princípio da dialeticidade e atrai a incidência da previsão contida nos artigos 932, inciso III, do Código de Processo Civil, e 253, parágrafo único, inciso I, do Regimento Interno do STJ, no sentido de que não se conhece de agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Também incide à espécie, a exegese do enunciado 182 da Súmula do STJ, que reza: "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Nesse sentido:
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. A falta de efetivo combate de quaisquer dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, consoante preceituam os arts. 253, I, do Regimento Interno do Superior Tribunal de Justiça e 932, III, do Código de Processo Civil e a Súmula 182 do STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.419.582/SP, rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 14/3/2024)
+Isso posto, com fundamento no art. 34, XVIII, a, c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+EMENTA
