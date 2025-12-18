@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de recurso especial interpostos por CONDOMÍNIO PRAÇA DAS FIGUEIRAS em face de acórdão proferido pelo Tribunal de Justiça de São Paulo.
+O recurso especial versa, entre outras matérias, sobre tema afetado à Segunda Seção desta Corte, nos autos dos Recursos Especiais representativos da controvérsia, para julgamento segundo o rito previsto nos arts. 1.036 a 1.041 do CPC/2015, a fim de decidir a respeito se "é possível penhorar o imóvel alienado fiduciariamente em decorrência de dívida condominial. " (Tema n. 1.266/STJ).
+Nos termos do art. 256-L do RISTJ (Incluído pela Emenda Regimental n. 24, de 2016), o recurso especial distribuído nesta Corte que tenha como fundamento idêntica questão de direito afetada será devolvido ao Tribunal de origem, para nele permanecer suspenso.
+Do mesmo modo, o art. 1.030, III, do CPC prevê que o Tribunal de origem deverá "sobrestar o recurso que versar sobre controvérsia de caráter repetitivo ainda não decidida pelo Supremo Tribunal Federal ou pelo Superior Tribunal de Justiça, conforme se trate de matéria constitucional ou infraconstitucional" (grifei). Esse sobrestamento é ex lege, não depende de determinação do relator do repetitivo no STJ.
+Nesse sentido, o 1º Congresso STJ da 2ª Instância Federal e Estadual aprovou o seguinte enunciado:
+En. n. 34 - A existência de recurso especial que envolva discussão "de caráter repetitivo ainda não decidida  ..  pelo Superior Tribunal de Justiça" impõe o sobrestamento do referido recurso especial na origem, nos termos do art. 1.030, III, do CPC, medida que não se confunde com a de "suspensão do processamento de todos os processos pendentes  ..  que versem sobre a mesma questão", estabelecida no art. 1.037, II, da lei processual (grifei)
+Assim, por razões de economia processual e em atenção aos objetivos das regras que disciplinam a matéria, faz-se necessário remeter os autos à origem, até o pronunciamento definitivo do Superior Tribunal de Justiça sobre o recurso especial representativo da controvérsia.
+Ante o exposto, DETERMINO A DEVOLUÇÃO dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que, depois de publicado o acórdão paradigma, seja observada a sistemática prevista nos arts. 1.040 e 1.041 do CPC/2015.
+Publique-se e intimem-se.
+EMENTA
