@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de MAURICIO DE MOURA BEZERRA, preso preventivamente e investigado pela prática dos crimes previstos nos arts. 33 e 35, c/c o art. 40, V, da Lei n. 11.343/2006 (Autos n. 0705094-87.2025.8.01.0912, da Vara Estadual do Juiz das Garantias da comarca de Rio Branco/AC - fls. 59/61).
+O impetrante aponta como autoridade coatora o Tribunal de Justiça do Estado do Acre, que, em 25/9/2025, denegou a ordem (HC n. 1001963-51.2025.8.01.0000 - fls. 36/38 e 52).
+Alega, em síntese, ausência de fundamentação idônea do decreto preventivo, utilização de gravidade abstrata do delito; condições pessoais favoráveis - primariedade, bons antecedentes, emprego público, residência fixa, esposa e duas filhas menores, sendo uma com TEA, o que justificaria a substituição por medidas cautelares ou prisão domiciliar.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva com expedição de alvará de soltura, mediante aplicação de medidas cautelares do art. 319 do Código de Processo Penal, ou prisão domiciliar.
+O pedido de liminar foi indeferido às fls. 144/145.
+As informações foram prestadas às fls. 154/155.
+O Ministério Público Federal, às fls. 158/164, opinou pela denegação da ordem.
+É o relatório.
+Do exame dos autos, verifica-se que a prisão preventiva foi amparada na garantia da ordem pública, diante da gravidade concreta da conduta. O Juízo de primeiro grau afirmou que o paciente, funcionário aeroportuário, foi captado pelas câmeras de segurança, supostamente, entregando uma mala de bordo a passageiro posteriormente preso em flagrante em Fortaleza/CE, com 13 tabletes de cocaína. Destacou, ainda, a necessidade da custódia para resguardar a ordem pública e a conveniência da instrução (fls. 59/60).
+In casu, foram apreendidos 13 tabletes de cocaína, pesando 13,3 kg de cocaína (fl. 161).
+Nesse contexto, observa-se que a manutenção da constrição cautelar está baseada em elementos vinculados à realidade, com referência ao modus operandi e às circunstâncias do caso, notadamente a natureza e a quantidade da droga apreendida e o uso da posição funcional para viabilizar o transporte, o que, em juízo preliminar, demonstra gravidade concreta e justifica a custódia para a garantia da ordem pública.
+Com efeito, o entendimento das instâncias ordinárias de que é legítima a prisão cautelar em questão está em consonância com a firme jurisprudência do Superior Tribunal de Justiça. A propósito, esta Corte Superior entende que hipóteses em que a quantidade e/ou a natureza das drogas apreendidas e outras circunstâncias do caso revelem a maior reprovabilidade da conduta investigada, tais dados são bastantes para demonstrar a gravidade concreta do delito e, por conseguinte, justificar a custódia cautelar para a garantia da ordem pública (AgRg no HC n. 899.502/SP, Ministro Schietti Cruz, Sexta Turma, DJe 12/6/2024 - grifo nosso).
+Ainda, aplicável ao caso a reiterada jurisprudência desta Corte, segundo a qual, é inaplicável medida cautelar alternativa quando as circunstâncias evidenciam que as providências menos gravosas seriam insuficientes para a manutenção da ordem pública.
+Por fim, verifico que o pedido de prisão domiciliar não foi examinado pelo Tribunal de origem, o que obsta a análise por esta Corte Superior, pois é vedada a apreciação per saltum da pretensão defensiva, sob pena de supressão de instância (AgRg no HC n. 765.498/RJ, Ministra Laurita Vaz, Sexta Turma, DJe 20/3/2023).
+Ante o exposto, conheço parcialmente do habeas corpus e, nessa extensão, denego a ordem.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. INDICAÇÃO DE ELEMENTOS CONCRETOS QUE DENOTAM A NECESSIDADE DA CUSTÓDIA PARA A GARANTIA DA ORDEM PÚBLICA. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO INSUFICIENTES. PEDIDO SUBSIDIÁRIO. SUBSTITUIÇÃO DA CUSTÓDIA CAUTELAR POR PRISÃO DOMICILIAR. MATÉRIA NÃO EXAIMADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA.CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Writ parcialmente conhecido e, nessa extensão, ordem denegada.
