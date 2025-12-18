@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de FLÁVIO MACHADO RAIMONDI, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS - TJDFT no julgamento da Apelação Criminal nº 0713300-63.2021.8.07.0007.
+A decisão impetrada confirmou sentença condenatória à pena de 2 meses e 20 dias de detenção, em regime inicial aberto, aplicada em virtude do reconhecimento da prática do crime de maus-tratos (art. 136, § 3º, do Código Penal - CP c/c arts. 2º, I, e 3º da Lei nº 14.344/2022).
+O acórdão está assim ementado:
+" Ementa: DIREITO PENAL E PROCESSUAL PENAL. APELAÇÃO CRIMINAL. MAUS-TRATOS CONTRA FILHA MENOR DE QUATORZE ANOS. PROVA DA MATERIALIDADE E DA AUTORIA DELITIVA. CONDENAÇÃO. REPARAÇÃO POR DANO MORAL. MANUTENÇÃO. RECURSO CONHECIDO E NÃO PROVIDO.
+I. CASO EM EXAME 1. Apelação criminal contra sentença que condenou o réu pela prática do crime de maus-tratos, previsto no artigo 136, § 3º, do Código Penal c/c artigos 2º, I, e 3º da Lei n. 14.344/2022.
+II. QUESTÃO EM DISCUSSÃO 2. A questão em discussão consiste em verificar se: (i) há provas suficientes para manter a condenação do réu pelo crime de maus-tratos; e, (ii) a indenização por dano moral pode ser afastada.
+III. RAZÕES DE DECIDIR 3. O crime de maus-tratos, tipificado no artigo 136 do Código Penal, configura-se quando o agente, abusando dos meios de correção ou disciplina, expõe a perigo a vida ou a saúde de pessoa sob sua autoridade. É preciso que se use em excesso ou de modo inconveniente os meios disciplinadores, sem o que a conduta não pode ser considerada criminosa, mas apenas mero exercício do direito de correção. 4. O tipo subjetivo do crime de maus-tratos é o dolo de perigo, que não necessariamente precisa ser direto e pode ser eventual, quando o agente assume o risco de produzir o resultado. Não é necessário também que exista dolo de impingir sofrimento. 5. Se ficou evidenciado o modo excessivo de correção do réu, comprovado por meio dos depoimentos prestados e do laudo de exame de corpo de delito, desproporcional com quem, por lei, tem o dever de cuidado, mantém-se a condenação. 6. O c. Superior Tribunal de Justiça, por ocasião do julgamento dos Recursos Especiais n. 1.643.051/MS e n. 1.675.874/MS, firmou a seguinte tese (Tema 983): "Nos casos de violência contra a mulher praticados no âmbito doméstico e familiar, é possível a fixação de valor mínimo indenizatório a título de dano moral, desde que haja pedido expresso da acusação ou da parte ofendida, ainda que não especificada a quantia, e independentemente de instrução probatória".
+IV. DISPOSITIVO 7. Recurso conhecido e não provido."
+No presente writ, a defesa sustenta a atipicidade da conduta e violação do art. 386, III, do CPP, dizendo que:
+(a) a conduta não revelou dolo específico de causar sofrimento físico ou psicológico, tampouco vontade consciente de expor a perigo a vida ou a saúde da vítima (fls. 4-7);
+(b) o episódio consistiu em uma ou duas chineladas, em contexto isolado de correção disciplinar, sem histórico anterior de agressões, reconhecido no acórdão ("admitiu ter desferido uma ou duas chineladas na coxa da filha  ", e laudo de "equimose esverdeada de 4 x 3 cm em coxa direita") (fls. 13-15, 25-27);
+(c) a revaloração jurídica é cabível porque a controvérsia é estritamente de direito, ante a ausência de elementos típicos quanto ao dolo de perigo e ao abuso dos meios de correção (fls. 4-7).
+Requer a absolvição com fulcro no art. 386, III, do CPP (fls. 6-7). Todavia, na admissibilidade do remédio, sustenta ser possível o conhecimento do habeas corpus ainda que existam recursos especial e extraordinário, citando o entendimento do Supremo Tribunal Federal no RHC 241.521/SC (fl. 3).
+Parecer do Ministério Público Federal pela denegação da ordem, ao argumento de que os maus-tratos estão comprovados e a discussão demanda revolvimento fático-probatório (fls. 96-100).
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração nem sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal STF e do próprio Superior Tribunal de Justiça STJ.
+Todavia, considerando as alegações expostas na inicial, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal que justifique a concessão da ordem de ofício.
+De saída, ressalva-se que não há necessidade de revolvimento fático-probatório, porque é incontroverso que o paciente desferiu "uma ou duas" chineladas na filha de cinco anos, a pretexto de discipliná-la pela incontinência urinária. Esta agressão física resultou em uma equimose arroxeada na coxa da criança. Nesta decisão cumpre aferir se tal constatação é suficiente para configurar o crime de maus tratos.
+Segue trecho do voto condutor:
+" O crime de maus-tratos, tipificado no artigo 136 do Código Penal, configura-se quando o agente, abusando dos meios de correção ou disciplina, expõe a perigo a vida ou a saúde de pessoa sob sua autoridade. É preciso que se use em excesso ou de modo inconveniente os meios disciplinadores, sem o que a conduta não pode ser considerada criminosa, mas apenas mero exercício do direito de correção.
+ ..
+O laudo de exame de corpo de delito e a fotografia juntada aos autos apontam que a ofendida apresentava: "equimose esverdeada de 4 x 3 cm em coxa direita", lesão compatível com a agressão noticiada.
+ ..
+O réu F. M. R., em seu interrogatório judicial, admitiu ter desferido uma ou duas chineladas na coxa da filha, M. A., alegando que as marcas ocorreram devido à pele clara da criança.
+Nesse contexto, as provas dos autos demonstram com clareza que o réu praticou o crime de maus-tratos. Em razão disso, em favor da vítima se registrou ocorrência policial.
+Dessa forma, observa-se que a acusação está convergente com a prova documental e oral colacionada aos autos. As testemunhas e o próprio réu confirmaram a agressão com chinelo contra a vítima e a lesão experimentada pela criança"
+Não encontrei decisões colegiadas desta Corte Superior que tratem de abuso do poder disciplinar dos pais em casos de chinelada.
+Entretanto, desnecessário entrar na aferição desse excesso, na medida em que o Tribunal local não se manifestou sobre a elementar do crime "expor a perigo a vida ou a saúde". Ou seja, não foi estabeelcido pelas instâncias precedentes o potencial da agressão  que gerou uma única equimose arroxeada  causar risco à saúde da criança.
+Sobre a necessidade de as instâncias ordinárias determinarem claramente o excesso do poder disciplinar a ponto de causar perigo à vida ou a saúde da vítima, colhem-se julgados
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PENAL. MATERIALIDADE.
+DESAPARECIMENTO DOS VESTÍGIOS. COMPROVAÇÃO POR PROVAS DIVERSAS DO LAUDO PERICIAL DIRETO. POSSIBILIDADE. CONDENAÇÃO POR MAUS TRATOS. PRETENSA ABSOLVIÇÃO. REVISÃO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. RECURSO QUE NÃO IMPUGNA OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ.
+1. Admite-se a comprovação da materialidade do delito de maus tratos por provas diversas do laudo pericial direto, quando não mais presentes vestígios do delito.
+2. O acolhimento da pretensão recursal, a fim de absolver a recorrente quanto ao delito de maus tratos, demandaria a alteração das premissas fático-probatórias estabelecidas nas instâncias ordinárias, o que é vedado em sede de recurso especial. Da mesma forma, a análise acerca da ocorrência de efetiva exposição a perigo da vida ou da saúde do menor, conforme expressamente reconhecido pelo Juízo sentenciante, encontra óbice na Súmula 7/STJ por demandar o revolvimento das provas dos autos.
+3. Aplica-se o disposto na Súmula 182/STJ na hipótese em que o agravo interno não impugna especificamente os fundamentos da decisão agravada.
+4. Agravo interno conhecido em parte e improvido.
+(AgRg no REsp n. 1.695.381/SP, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 15/5/2018, DJe de 24/5/2018.)
+RECURSO ESPECIAL. PENAL. ART. 136, § 3º, DO CP. MAUS TRATOS CIRCUNSTANCIADOS. ALEGAÇÃO DE QUE A CONDUTA DO RÉU É ATÍPICA PORQUE SOCIALMENTE ACEITA NÃO ENCONTRA AMPARO NA LEGISLAÇÃO PÁTRIA. IMPROCEDÊNCIA DO PLEITO. ART. 61, II, F, DO CP. DOSIMETRIA DA PENA. INEXISTÊNCIA DE BIS IN IDEM. AUSÊNCIA DE PROVAS PARA CONDENAÇÃO. SÚMULA 7/STJ. MATÉRIA CONSTITUCIONAL. STF.
+1. O pátrio poder autoriza a correção dos atos dos filhos pelos pais, contudo essa prerrogativa encontra limites no respeito à integridade física e mental dos menores, sendo o excesso tipificado como crime de maus tratos (art. 136 do CP).
+2. Desferir golpes com cinto ou "cintadas" em criança não pode ser considerado "ato socialmente aceitável" quando realizado pelos pais, inclusive sob o pretexto de correição tradicional, pois o legislador pátrio optou por proteger a vida e preservar a incolumidade dos menores, por meio da Constituição Federal (art. 227) e também por intermédio do Código Penal e de legislação extravagante (ECA).
+3. Pretensão relativa à inexistência de prova para a condenação, na via especial, esbarra no óbice da Súmula 7/STJ.
+4. Ausência de bis in idem na dosimetria do art. 61, II, f, do Código Penal.
+5. A violação de preceitos, de dispositivos ou de princípios constitucionais revela-se quaestio afeta à competência do Supremo Tribunal Federal, provocado pela via do extraordinário; motivo pelo qual não se pode conhecer do recurso especial nesse aspecto, em função do disposto no art. 105, III, da Constituição Federal.
+6. Recurso especial improvido.
+(REsp n. 1.324.976/DF, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 21/3/2013, DJe de 10/4/2013.)
+Isso posto, nos termos do art. 34, XX, do Regimento Interno do STJ, não conheço do habeas corpus, mas concedo a ordem de ofício para absolver o paciente, na forma do art. 386, II, do Código de Processo Penal.
+Publique-se. Intimem-se.
+EMENTA
