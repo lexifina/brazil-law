@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo manejado por Lazer Empreendimentos Imobiliário Ltda. contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 1.278):
+DESAPROPRIAÇÃO - Execução - Decisão que extinguiu o processo porque o DEPRE apurou pagamento integral - Alterações posteriores não retroagem para modificar situações consolidadas no passado - Recursos não providos.
+Opostos embargos declaratórios pelas partes, ambos foram rejeitados.
+Nas razões do recurso especial, a parte agravante aponta violação ao art. 794, I, do CPC. Para tanto, sustenta que "descabe extinguir a execução sem antes proceder a intimação pessoal respectiva, quanto mais neste caso em que houve pedido expresso de sobrestamento da execução à elaboração de cálculo do saldo devedor, até para cotejar a exatidão das cifras apresentadas no ofício do DEPRE (Departamento de Precatórios do Tribunal Paulista) e adotadas pela sentença, ora impugnada, que não são absolutas, aliás, o demonstrativo de fls., não assevera inexistência de saldo devedor, cuja apuração fica a cargo da credora ou da serventia de primeiro Grau de Jurisdição" (fl. 1.337).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário desta Corte, na Sessão de 9 de março de 2016 ("Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 -devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça").
+Feita essa observação, observa-se que o inconformismo não comporta êxito.
+Ao solucionar a controvérsia, o Tribunal a quo asseverou (fl. 1.281):
+Também não tem razão a expropriada, pois, o órgão específico deste E. Tribunal verificou a inexistência de "saldo devedor do crédito expropriatório". Seu inconformismo, alegando nulidade da v. Decisão porque impediu a verificação de eventual insuficiência nos pagamentos, não prospera. Os cálculos foram feitos pelo Serviço de Pagamentos de Precatórios deste E. Tribunal, não abalados pelos cálculos particulares de fls. 983/991 que ultrapassaram os limites do seu termo, pois contas até 31/07/11.
+Como se vê, a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+ EMENTA
