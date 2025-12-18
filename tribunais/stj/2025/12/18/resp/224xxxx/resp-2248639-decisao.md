@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de recurso especial manejado por Instituto Nacional do Seguro Social - INSS, com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 1.102):
+APELAÇÃO CÍVEL. PREVIDENCIÁRIO E PROCESSUAL CIVIL. EXECUÇÃO COMPLEMENTAR. CONSECTÁRIOS. TEMA 810 DO STF. DIFERIMENTO DA QUESTÃO. EXECUÇÃO ORIGINÁRIA PROPOSTA ANTES DO JULGAMENTO DO TEMA. EXTINÇÃO RESTRITA À FRAÇÃO INCONTROVERSA. PRECLUSÃO AFASTADA. PRECEDENTES. ANUÊNCIA ANTERIOR DO SEGURADO. DESIMPORTÂNCIA
+1. Deve ser autorizada a execução complementar das diferenças resultantes da aplicação dos índices de correção monetária estabelecidos pelo STF no julgamento do Tema 810, em hipótese na qual o título judicial estabeleceu um critério provisório e diferiu para a fase de cumprimento do julgado a decisão final a respeito da matéria, a depender justamente do entendimento firmado no Tribunal Superior, quando a execução originária, relativa aos valores incontroversos do débito, foi proposta antes da definição final do indexador a ser empregado para a atualização das parcelas pretéritas.
+2. Consoante o entendimento firmado no âmbito da 3ª Seção desta Corte, os efeitos produzidos por eventual sentença extintiva restringem-se aos estritos limites da fração incontroversa do débito, restando afastada a ocorrência da preclusão, ainda que não tenha sido expressamente ressalvada a possibilidade de execução futura pelo segurado/exequente.
+3. A eventual anuência do segurado com os cálculos de liquidação inicialmente apresentados não configura renúncia tácita às diferenças de correção monetária decorrentes da aplicação do entendimento firmado no julgamento dos mencionados Temas, uma vez que a adoção preliminar da TR, naquele momento, observava justamente o que foi determinado pelo título judicial, que só autorizou a adoção de índice diverso após a estabilização da matéria pelo STF.
+Opostos embargos aclaratórios por ambas as partes, os da autarquia foram rejeitados e os do segurado foram acolhidos para fixação de honorários (fls. 1.110/1.118).
+A parte recorrente aponta violação aos arts. 316, 502, 503, 505, 024, II, 925 e 927, III, e 1.022, II, do CPC. Sustenta que o acórdão recorrido teria sido omisso (fls. 1.121/1.122):
+ ..  acerca da impossibilidade de a parte autora executar valores complementares, mesmo após o feito ter sido extinto por sentença que reconheceu o cumprimento da obrigação (pagamento), a qual já transitou em julgado.
+Aduz, ainda, que (fl. 1.122):
+O acórdão recorrido reconheceu a possibilidade de a parte autora cobrar as diferenças decorrentes da correção monetária sobre os valores pagos em atraso - Tema 810 do STF, muito embora já tenha sido satisfeita a obrigação e extinto o processo de execução.
+Ocorre que esse entendimento não se coaduna com o posicionamento consagrado pelo E. Superior Tribunal de Justiça que, em recurso afetado como repetitivo, definiu que não é legitima a reabertura da execução após sua extinção por sentença com trânsito em julgado.
+Nesse sentido, o Tema 289 do STJ (REsp nº 1.143.471/PR):
+PROCESSO CIVIL. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ARTIGO 543-C, DO CPC. EXECUÇÃO DE SENTENÇA. EXTINÇÃO DO PROCESSO. INÉRCIA DO EXEQUENTE. PRESUNÇÃO DE QUITAÇÃO DA DÍVIDA. ARTIGO 794, I, DO CPC. ERRO NO CÁLCULO DO VALOR EXECUTADO (EXCLUSÃO DE PARCELA CONSTANTE DA SENTENÇA EXEQUENDA). COISA JULGADA. OCORRÊNCIA. ARTIGO 463, I, DO CPC. RENÚNCIA TÁCITA AO SALDO REMANESCENTE QUE NÃO FOI OBJETO DA EXECUÇÃO. CONFIGURAÇÃO.
+1. A renúncia ao crédito exequendo remanescente, com a consequente extinção do processo satisfativo, reclama prévia intimação, vedada a presunção de renúncia tácita.
+2. A extinção da execução, ainda que por vício in judicando e uma vez transitada em julgado a respectiva decisão, não legitima a sua abertura superveniente sob a alegação de erro de cálculo, porquanto a isso corresponderia transformar simples petitio em ação rescisória imune ao prazo decadencial.
+3. Deveras, transitada em julgado a decisão de extinção do processo de execução, com fulcro no artigo 794, I, do CPC, é defeso reabri-lo sob o fundamento de ter havido erro de cálculo.
+ ..  5. Recurso especial desprovido. Acórdão submetido ao regime do artigo 543-C, do CPC, e da Resolução STJ 08/2008. (R Esp 1143471/PR, Rel. Ministro LUIZ FUX, CORTE ESPECIAL, julgado em 03/02/2010, D Je 22/02/2010)
+(grifo nosso)
+Defende que (fl. 1.124):
+Como já referido, a insurgência do recorrente refere-se à decisão que reconheceu a possibilidade de a parte autora cobrar as diferentes decorrentes da correção monetária sobre os valores pagos em atraso - Tema 810 do STF, muito embora já tenha sido satisfeita a obrigação e extinto o processo de execução por sentença, nos termos dos arts. 316, 924, II e 925 do CPC:
+"Art. 316. A extinção do processo dar-se-á por sentença."
+"Art. 924. Extingue-se a execução quando:
+ ..
+II - a obrigação for satisfeita;"
+"Art. 925. A extinção só produz efeito quando declarada por sentença."
+Neste sentido, a Colenda Turma julgadora olvidou do impeditivo da coisa julgada (arts. 502 e 503 do CPC) para autorizar a execução de eventuais diferenças não cobradas pela parte autora no tempo oportuno.
+Todavia, a legislação processual é clara ao afirmar que "Nenhum juiz decidirá novamente as questões já decididas relativas à mesma lide .. " (art. 505 do CPC), razão pela qual caberia à parte interessada, na melhor hipótese, o manejo da ação rescisória, caso entendesse que, nos autos, apresentava-se algum dos vícios previstos no art. 966 do CPC, e não utilizar-se de mera petição para flexibilização da coisa julgada . Este é, inclusive, o entendimento pacífico do E. STJ como demonstrado exaustivamente no tópico anterior (Item 5).
+Portanto, após cognição exauriente do objeto do processo e extinta a execução por sentença transitada em julgado, que reconheceu o adimplemento da execução pela recorrente/executada, não pode mais ser reaberto o processo sem violação à coisa julgada formada, a qual somente poderia ser revista por meio processual adequado para a desconstituição do julgado.
+Não prospera, portanto, o entendimento no sentido de que os efeitos produzidos por eventual sentença extintiva se restringem aos estritos limites da fração incontroversa do débito, restando afastada a ocorrência da preclusão, ainda que não tenha sido expressamente ressalvada a possibilidade de execução futura pela parte exequente.
+Com efeito, é irrelevante que o título executivo tenha diferido para a execução a definição quanto aos consectários legais, após julgamento do Tema 810 do STF e/ou que o trânsito em julgado do Tema 810 do STF tenha ocorrido após a sentença de extinção da execução, pois deveria a parte autora/exequente ter se insurgido contra a sentença de extinção da execução por pagamento, o que não ocorreu.
+Contrarrazões (fls. 1.127/1.135 ).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não comporta acolhimento.
+No caso em questão, inexistem omissão, contradição, obscuridade ou erro material, uma vez que, pela leitura do inteiro teor do acórdão embargado, depreende-se que este apreciou devidamente a matéria em debate e analisou de forma exaustiva, clara e objetiva as questões relevantes para o deslinde da controvérsia.
+Eis o que consta do voto condutor do acórdão recorrido (fls. 1.100/1.101):
+Na espécie, a respeito dos consectários legais, assim estabeleceu o título judicial (evento 53, OUT2):
+Portanto, em face da incerteza quanto ao índice de atualização monetária, e considerando que a discussão envolve apenas questão acessória no contexto da lide, à luz do que preconizam os art. 4º, 6º e 8º da nova Lei Adjetiva Civil, mostra-se adequado e racional diferir-se para a fase de execução a solução em definitivo acerca dos critérios de correção, ocasião em que, provavelmente, a questão já terá sido definitivamente dirimida pelos tribunais superiores, o que conduzirá á observância, pelos julgadores, ao fim e ao cabo, da solução uniformizadora.
+A fim de evitar novos recursos, inclusive na fase de cumprimento de sentença, e anteriormente à solução definitiva pelo STF e STJ sobre o tema, a alternativa é que o cumprimento do julgado se inicie, adotando-se os índices da lei n. 11.960/2009, inclusive para fins de expedição de precatório ou RPV pelo valor incontroverso, diferindo-se para momento posterior ao julgamento pelo STF e STJ a decisão do juízo sobre a existência de diferenças remanescentes, a serem requisitadas, acaso outro índice venha a ter sua aplicação legitimada.
+Desse modo, o recurso interposto pela parte exequente merece provimento, a fim de que seja providenciada junto ao Juízo a quo a realização de novo cálculo de liquidação, utilizando-se os consectários na forma em que estabelecidos no Tema 810 do STF, e demais providências cabíveis ao prosseguimento da execução tal como postulada na origem.
+Esta Corte possui entendimento no sentido de distinguir o Tema 289 do STJ com a situação em que haja determinação de diferimento da controvérsia sobre os consectários legais da condenação para a fase executiva.
+Confira-se, o seguinte julgado, da minha relatoria:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. EXECUÇÃO DE SENTENÇA. SUSPENSÃO DA MARCHA PROCESSUAL PARA AGUARDAR O JULGAMENTO DO TEMA 810/STF. QUESTÃO REFERENTE AOS CONSECTÁRIOS LEGAIS DIFERIDA. POSSIBILIDADE.
+1. Segundo tese firmada no REsp n. 1.143.471/PR ( Tema n. 289/STJ ), "A renúncia ao crédito exequendo remanescente, com a consequente extinção do processo satisfativo, reclama prévia intimação, vedada a presunção de renúncia tácita".
+2. Hipótese em que o cumprimento de sentença permaneceu suspenso, aguardando a definição do Tema 810 pelo Supremo Tribunal Federal, e ficou diferida a questão relativa aos consectários legais, inexistindo, nos autos, certificação quanto ao cumprimento definitivo da obrigação estabelecida no título executivo.
+3. Caso concreto que apresenta claro o distinguishing da tese firmada no REsp n. 1.143.471/PR, que trata da reabertura da execução após a prolação de sentença extintiva.
+4. Agravo interno provido para conhecer e negar provimento ao recurso especial do INSS.
+(AgInt no REsp n. 2.029.411/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 1/3/2024.)
+Assim, o acórdão recorrido está em harmonia com o entendimento firmado neste Superior Tribunal, pois houve diferimento, para a fase de cumprimento da sentença, dos consectários relativos ao Tema 810/STF.
+ANTE O EXPOSTO, nego provimento ao recurso especial.
+Publique-se.
+EMENTA
