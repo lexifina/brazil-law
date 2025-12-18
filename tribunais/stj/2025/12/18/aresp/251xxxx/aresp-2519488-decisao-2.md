@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto por CARLOS DANIEL DOS ANJOS CARVALHO contra decisão proferida pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Consta dos autos que o agravante foi condenado como incurso no art. 33, caput, da lei n. 11.343/06 às penas de 5 anos de reclusão e pagamento de 500 dias-multa (fls. 336-349).
+O T ribunal de origem deu provimento recurso de apelação interposto pela defesa do agravante para aplicar a causa de diminuição do §4º do art. 33 da lei n. 11.343/06, alterando-se as penas a serem cumpridas por ele para 2 anos de reclusão, com substituição por penas restritivas de direito, e 200 dias-multa (fls. 624-645).
+A defesa do agravante interpôs recurso especial com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal para requerer a desclassificação da conduta do agravante para o art. 28 da lei n. 11.343/06 (fls. 703-710).
+O Tribunal de origem não admitiu o recurso especial com base na Súmula 7 do STJ (fl. 727-729), o que deu ensejo à interposição do presente agravo (fls. 930-938).
+Nas razões do agravo, a defesa do agravante alegou que não haveria necessidade de reexame de provas para o reconhecimento da desclassificação supracitada.
+O Ministério Público Federal manifestou-se pelo não conhecimento do recurso (fls. 957-966).
+É o relatório. DECIDO.
+O Tribunal de origem não admitiu o recurso especial com base na Súmula 7 do STJ.
+Nas razões do presente agravo, a defesa do agravante alega que é desnecessário o reexame de provas para se reformar o acórdão que condenou o agravante por tráfico de drogas, sendo possível a desclasificação para o crime de porte de drogas para uso próprio, a teor do art. 28 "caput" e § 2º da lei n. 11.343/06.
+Não merece prosperar essa pretensão porque não haveria como proceder à referida reforma sem o revolvimento do conjunto fático-probatório, de tal modo que a incidência da Súmula 7 do STJ está correta.
+Para rechaçar a desclassificação pretendida pela defesa do agravante, assim se pronunciou a Corte de origem:
+"2- Da Desclassificação - art. 28 da Lei 11.343/06
+Por outro lado, pleiteia o 2º Apelante a Desclassificação do crime de Tráfico de Drogas para a conduta prevista no art. 28 da Lei 11.343/06, alegando que a droga apreendida no quarto de Carlos Daniel seria destinada ao uso pessoal.
+Contudo, sem razão.
+Depreende-se que o Apelante Carlos Daniel, no dia dos fatos, guardava 41g (quarenta e um gramas) de maconha e 25g (vinte e cinco gramas) de cocaína, conforme comprovam os Laudos Toxicológicos Preliminar e Definitivo (docs. 02 e 03).
+De acordo com os depoimentos dos Policiais, as informações recebidas indicavam que o Réu era envolvido com o Tráfico de Drogas no Bairro Rosário, em Bom Despacho.
+A propósito, transcreve-se trecho do depoimento do Policial Militar John Assunção de Souza, na fase Policial (doc. 02), posteriormente confirmado em Juízo (P Je mídias), que ratificou ter ciência do suposto envolvimento de Carlos Daniel com o Tráfico na região:
+- PM John Assunção de Souza - IP
+"(..); que segundo as denúncias Carlão está utilizando o veiculo Fiat Pálio Weekend, cor cinza, placa HAE- 6E12, para deslocar durante a traficância, sendo os "pedidos" realizados por meio de redes sociais e a entrega feita no referido veiculo; (..); que durante buscas no veiculo o depoente encontrou resquícios de maconha no console do veiculo; que com apoio das equipes tático móvel e viaturas do turno, a guarnição deslocou até a mata aos fundos da residência de "Carlão", onde o depoente esteve nesta data, mais cedo, quando viu Carlão e Lucca saindo do local ermo e entrando no veiculo Fiat Pálio Weekend, cor cinza, placa HAE-6E12; que durante a varredura no local ermo nos fundos da casa de Carlão, o Cabo Joel localizou uma sacola branca, sob folhas secas e garranchos, contendo em seu interior trinta e quatro buchas de cocaína e ainda durante a varredura, foram localizados pelo Cabo Rodrigues uma sacola plástica sob folhas contendo em seu interior vinte e duas buchas de maconha, embaladas individualmente, prontas para o comércio e dezenas de sacolinhas tipo chup-chup, comumente utilizadas para embalar drogas e um short preto infantil, que marcava o local; (..); - Negritei.
+As circunstâncias da apreensão das drogas e a existência de "denúncias anônimas" dando conta do envolvimento do Réu com o comércio de substâncias proscritas são elementos capazes de indicar a destinação mercantil das substâncias entorpecentes apreendidas.
+Ademais, os elementos probatórios (orais e documentais) afastam a alegação de que os entorpecentes apreendidos eram destinados ao uso pessoal do Réu, sendo oportuno anotar que a prova da destinação da droga para consumo pessoal incumbe à Defesa, nos termos do art. 156, do CPP, ônus do qual não se desincumbiu.
+Assim, diante das circunstâncias fáticas, não há como se acolher a tese defensiva de que a droga apreendida seria destinada, unicamente, ao consumo próprio."
+À vista disso, caberia à defesa do agravante não apenas alegar formalmente a possibilidade de desclassificação sem revolvimento do conjunto fático-probatório, mas sim demonstrar de forma concreta que a desclassificação poderia ocorrer independentemente dessa medida, o que não ocorreu neste agravo.
+Desse modo, a ausência de impugnação adequada dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre, nos termos do art. 932, inciso III do CPC, obsta o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles. Nesse sentido: AgRg no REsp n. 1.958.975/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe 14/11/2022; e AgRg no AREsp 1682769/SC, Quinta Turma, Rel. Ministro Ribeiro Dantas, DJe 23/06/2020.
+Diante do exposto, não conheço do agravo em recurso especial, nos termos do art. 253, parágrafo único, inciso I, do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
