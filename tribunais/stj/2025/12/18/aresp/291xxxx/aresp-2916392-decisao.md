@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC), interposto por DIDEROT DE FIGUEIREDO E OUTROS, contra decisão que não admitiu recurso especial.
+O apelo extremo, fundamentado nas alíneas a do permissivo constitucional, desafiou acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim ementado (fls. 141-146, e-STJ):
+AGRAVO DE INSTRUMENTO. EXPURGOS INFLACIONÁRIOS. EXECUÇÃO INDIVIDUAL DE SENTENÇA PROFERIDA EM AÇÃO CIVIL PÚBLICA PROPOSTA PELO IDEC EM FACE DO AGRAVANTE, QUE TRAMITOU PERANTE A 12ª VARA CÍVEL DO DISTRITO FEDERAL. PLANO VERÃO. DECISÃO QUE HOMOLOGOU OS CÁLCULOS APRESENTADOS PELO PERITO QUE APLICOU JUROS MORATÓRIOS E CORREÇÃO MONETÁRIA PELO INPC.
+ENTENDIMENTO DO ENUNCIADO Nº 14, APROVADO NO ENCONTRO DE DESEMBARGADORES COM COMPETÊNCIA EM MATÉRIA CÍVEL (AVISO NO 83/2009): A SENTENÇA CONDENATÓRIA AO PAGAMENTO DE EXPURGOS INFLACIONÁRIOS PROVENIENTES DE PLANOS ECONÔMICOS INDEPENDE DE LIQUIDAÇÃO OU PERÍCIA.
+JUROS DE MORA QUE DEVEM INCIDIR SOBRE AS DIFERENÇAS DE CORREÇÃO MONETÁRIA DE POUPANÇA DESDE A CITAÇÃO NA AÇÃO CIVIL PÚBLICA, EM PERCENTUAL DE 0,5% AO MÊS ATÉ A VIGÊNCIA DO CC/02 E, APÓS, EM PERCENTUAL DE 1% AO MÊS. ENTENDIMENTO FIRMADO PELO STJ NO JULGAMENTO DO RESP 1.370.899/SP.
+CORREÇÃO DO DÉBITO, CONTUDO, QUE DEVE OBSERVAR O ÍNDICE DA CADERNETA DE POUPANÇA, EM VIRTUDE DO CONTRATO FIRMADO ENTRE AS PARTES.
+ATUALIZAÇÃO PELA UFIR QUE MERECE SER AFASTADA.
+PRECEDENTES DESTA CÂMARA.
+PARCIAL PROVIMENTO DO RECURSO.
+Opostos embargos de declaração, foram rejeitados nos termos do acórdão de fls. 162-165, e-STJ.
+Nas razões de recurso especial (fls. 167-179, e-STJ), aponta a parte recorrente ofensa aos seguintes dispositivos: art. 489, § 1º, IV e VI, e art. 1.022, II, do CPC; art. 1º da Lei 6.899/81; art. 494, I, do CPC.
+Sustenta, em síntese: omissão no acórdão quanto ao critério de correção monetária; necessidade de correção plena do débito judicial com adoção do IPC/INPC em todo o período; aplicação dos Temas 235, 514, 887 e 891 do STJ; inaplicabilidade dos índices da caderneta de poupança por se tratar de débito judicial.
+Contrarrazões apresentadas às fls. 279-298, e-STJ.
+A decisão de fls. 300-303, e-STJ, determinou o retorno dos autos à Câmara de origem, para eventual exercício de retratação à luz dos Temas n.º 887 e 891 do STJ.
+Em razão disso, foi proferido novo acórdão às fls. 322-329, s-STJ, assim ementado:
+AGRAVO DE INSTRUMENTO. RETRATAÇÃO. RECURSO INTERPOSTO PELO BANCO EXECUTADO VISANDO À APLICAÇÃO DOS ÍNDICES OFICIAIS DA CADERNETA DE POUPANÇA E EXCLUSÃO DOS EXPURGOS INFLACIONÁRIOS REFERENTES A OUTROS PLANOS ECONÔMICOS NÃO APRECIADOS NA SENTENÇA COLETIVA. PARCIAL PROVIMENTO DO AGRAVO DE INSTRUMENTO PARA AFASTAR A CORREÇÃO MONETÁRIA PELA UFIR-RJ E DETERMINAR O CÁLCULO PELOS ÍNDICES OFICIAIS DA POUPANÇA. EMBARGOS DE DECLARAÇÃO OPOSTOS PELOS AGRAVADOS, REQUERENDO A APLICAÇÃO DOS TEMAS 887 E 891 DO STJ, QUE RESTARAM REJEITADOS. DEVOLUÇÃO DOS AUTOS PELA TERCEIRA VICE-PRESIDÊNCIA, APÓS A INTERPOSIÇÃO DE RECURSO ESPECIAL, PARA EVENTUAL OBSERVÂNCIA DA TESE REFERIDA PELO EMBARGANTE. ACÓRDÃO RECORRIDO QUE DEIXOU DE ANALISAR ACERCA DA INCLUSÃO DOS EXPURGOS INFLACIONÁRIOS DE PLANOS POSTERIORES, POR NÃO HAVER DETERMINAÇÃO DO JUÍZO DE PRIMEIRO GRAU. ENTRETANTO, "A CORREÇÃO MONETÁRIA É MATÉRIA DE ORDEM PÚBLICA, INTEGRANDO O PEDIDO DE FORMA IMPLÍCITA, RAZÃO PELA QUAL SUA INCLUSÃO EX OFFICIO, PELO JUIZ OU TRIBUNAL, NÃO CARACTERIZA JULGAMENTO EXTRA OU ULTRA PETITA, HIPÓTESE EM QUE PRESCINDÍVEL O PRINCÍPIO DA CONGRUÊNCIA ENTRE O PEDIDO E A DECISÃO JUDICIAL." (SÚMULA N.º 235 DO STJ). O SUPERIOR TRIBUNAL DE JUSTIÇA FIRMOU ENTENDIMENTO, QUANDO DA ANÁLISE DO RESP Nº1.314.478/RS, SOB A ÓTICA DOS RECURSOS REPETITIVOS, NO SENTIDO DE QUE O DÉBITO PERQUIRIDO DEVE SER CORRIGIDO PELOS ÍNDICES OFICIAIS APLICÁVEIS ÀS CADERNETAS DE POUPANÇA, INCLUINDO-SE NOS RESPECTIVOS CÁLCULOS, OS EXPURGOS REFERENTES AOS PLANOS ECONÔMICOS POSTERIORES, A TÍTULO DE CORREÇÃO MONETÁRIA (TEMA 891). PRECEDENTES DESTE TRIBUNAL DE JUSTIÇA. MODIFICAÇÃO PARCIAL DO ACÓRDÃO, EM JUÍZO DE RETRATAÇÃO, PARA ALINHAR OS TERMOS DO JULGAMENTO COLEGIADO AO PRECEDENTE VINCULANTE DO STJ.
+Opostos novos embargos de declaração, foram rejeitados nos termos do acórdão de fls. 344-348, e-STJ.
+A parte requereu o processamento do recurso especial, porque a retratação feita foi meramente parcial, fls. 350, e-STJ.
+Em juízo de admissibilidade (fls. 352-359, e-STJ), deu-se por prejudicado o recurso especial em relação à incidência dos expurgos inflacionários posteriores a título de correção monetária; e, quanto à pretensão de incidência do IPC/INPC em todo período de cálculo, negou-se o processamento do recurso especial, dando ensejo ao presente agravo (fls. 363-371, e-STJ).
+Contraminuta apresentada às fls. 381-390, e-STJ.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. Pretende basicamente a parte agravante a adoção do IPC/INPC em detrimento dos índices da caderneta de poupança, tendo em vista que os demais pontos restaram prejudicados.
+O acórdão proferido por ocasião da retratação apontou a orientação desta Corte no sentido de que "é aplicável o INPC somente para o período posterior à sua criação" (AgInt no AREsp n. 264.654/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 12/9/2022, D Je de 20/9/2022).
+Assim, decidindo o acórdão recorrido em conformidade com a jurisprudência desta Corte Superior sobre o tema, aplica-se a orientação prevista no enunciado 83 do STJ.
+E, nos termos da jurisprudência desta Casa, "para impugnar a decisão agravada que adota julgado desta Corte como razões de decidir, cabe à parte recorrente demonstrar que outra é a positivação do direito na jurisprudência desta Corte, com a indicação de precedentes contemporâneos ou supervenientes" (AgInt no REsp n. 2.081.170/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 4/3/2024, DJe de 7/3/2024).
+No mesmo sentido: AgInt no AREsp n. 2.753.530/SC, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 16/12/2024, DJEN de 20/12/2024; AgInt no AREsp n. 2.728.453/SC, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 11/11/2024, DJe de 13/11/2024; AgInt no AREsp n. 2.387.034/PR, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 17/9/2024, DJe de 26/9/2024; e, AgInt no AREsp n. 2.499.859/CE, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 24/6/2024, DJe de 26/6/2024.
+Isso, no entanto, não aconteceu, resumindo-se a agravante a sustentar mais uma vez a incidência do índice cuja aplicação pretende.
+2. Do exposto, não conheço do agravo.
+Por conseguinte, nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
