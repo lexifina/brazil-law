@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de MÔNICA ALVES VITORIANO DE AZEVEDO, indicando como autoridades coatoras o juízo de direito da 5ª Vara Criminal da Comarca de Natal/RN, o juízo federal da 2ª Vara da Seção Judiciária do Rio Grande do Norte e o juízo federal da 12ª Vara da Seção Judiciária do Ceará (fl. 3).
+A defesa relata investigação sobre suposta fraude envolvendo benefícios previdenciários federais e estaduais, com decretação de medidas cautelares pela Justiça Federal e deflagração de operação pela Polícia Civil, que resultou em ação penal na Justiça Estadual. Sustenta litispendência e identidade fática, com sucessivos declínios de competência entre os juízos estadual e federais, sem solução definitiva, e afirma inexistirem dados sobre pena ou espécie de prisão, havendo apenas medidas cautelares pessoais ou reais impostas à paciente (fls. 4-6).
+Aponta como ato coator a manutenção de cautelares por juízos que depois reconheceram a própria incompetência, em cenário de conflito negativo de competência não solucionado entre Justiça Estadual e Justiça Federal (fls. 4-5).
+Requer, em liminar, a suspensão imediata das cautelares e da tramitação dos feitos até a definição da competência, o reconhecimento da impossibilidade de manutenção ou renovação de cautelares enquanto não definido o juízo competente e a expedição de comunicações urgentes às autoridades coatoras; no mérito, pede a declaração de nulidade das cautelares até a fixação do juízo competente e a remessa dos autos ao órgão competente para dirimir o conflito (fls. 5-6).
+É o breve relatório. DECIDO.
+De plano percebe-se a incompetência desta Corte para o apreço deste writ, uma vez que a defesa se insurge contra atos de juízos de primeiro grau. Portanto, a defesa deveria ter ajuizado a medida cabível perante a autoridade hierarquicamente superior àquela de onde provém o alegado constrangimento ilegal previamente ao ingresso neste Tribunal Superior.
+Vale dizer, falece competência ao Superior Tribunal de Justiça, a teor do art. 105, inciso I, alínea "c", da Constituição da República, para julgar habeas corpus impetrado diretamente nesta Corte Superior contra ato de Juiz de primeiro grau.
+A propósito, a título ilustrativo:
+"não compete a este Superior Tribunal de Justiça julgar, originariamente, o habeas corpus impetrado contra ato de Juiz de Direito, conforme preceitua o art. 105, inciso I, alínea c, da Constituição Federal" (AgRg nos EDcl no HC n. 771.675/PR, Sexta Turma, relatora Ministra Laurita Vaz, DJe de 2/2/2023). Nesse mesmo sentido: (AgRg no HC n. 753.398/MG, Quinta Turma, relator Ministro Reynaldo Soares da Fonseca, DJe de 8/8/2022).
+Observa-se que não há a impugnação de acórdão proferido pelo Tribunal a quo.
+Diante do exposto, indefiro liminarmente o presente habeas corpus, com fulcro no art. 210 do RISTJ.
+Publique-se. Intimem- se.
+ EMENTA
