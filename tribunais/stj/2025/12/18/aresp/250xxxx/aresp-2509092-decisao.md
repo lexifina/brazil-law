@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu recurso especial, o qual fora interposto, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão de seguinte ementa:
+AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL. DECLARAÇÃO DE ESSENCIALIDADE DE BENS OFERTADOS COMO GARANTIA DE ALIENAÇÃO FIDUCIÁRIA. RECURSO DA PARTE INTERESSADA (CREDORA EXTRACONCURSAL). MÉRITO. RECUPERAÇÃO JUDICIAL DE EMPRESA DE TRANSPORTE PÚBLICO DE PASSAGEIROS. ÔNIBUS OFERECIDOS COMO GARANTIA DE ALIENAÇÃO FIDUCIÁRIA EM FAVOR DA PARTE AGRAVANTE. BENS ESSENCIAIS À CONTINUIDADE DA ATIVIDADE EMPRESARIAL E AO SOERGUIMENTO DA RECUPERANDA (ART. 49, § 3º, LEI 11.101/2005). RETIRADA INVIÁVEL MESMO APÓS O PERÍODO DE SUSPENSÃO (STAY PERIOD ) (ART. 6º, § 4º, LEI 11.101/05) E DURANTE O LAPSO DA EXECUÇÃO DO PLANO DE RECUPERAÇÃO JUDICIAL. ATENÇÃO AO PRINCÍPIO DA PRESERVAÇÃO DA EMPRESA (ART. 47, CAPUT, LEI 11.101/05). DECISÃO MANTIDA. RECURSO IMPROVIDO.
+Alega a parte agravante que houve viola ção aos arts. 489, 1.022, II, do Código de Processo Civil e aos arts. 6º, § 4º, e 49, § 3º, da Lei n. 11.101/2005, além de divergência jurisprudencial.
+Às fls. 814/825, a 3ª Vice-Presidente do TJSC informou sobre a publicação de sentença no processo originário n. 50394051120218240023, que declarou encerrada a recuperação judicial.
+Considerando que o processo de recuperação não mais subsiste, é evidente a perda superveniente do objeto do recurso especial apresentado na origem, que buscava reformar decisão que vedou a retirada de bens essenciais à recuperanda durante o biênio de fiscalização do cumprimento do Plano de Recuperação Judicial.
+Em face do exposto, não conheço do agravo em recurso especial interposto, visto que prejudicado, nos termos do art. 932, III, do CPC de 2015 e do art. 255, § 4º, I, do Regimento Interno do STJ.
+Intimem-se.
+EMENTA
