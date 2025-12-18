@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Carlos Pires Brandão, Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. VÍCIO NÃO CONSTATADO. ANÁLISE EXPRESSA DO ARGUMENTO INVOCADO NOS DECLARATÓRIOS. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração são destinados a sanar omissão, ambiguidade, contradição ou obscuridade no julgado. A assertiva, no entanto, não pode ser confundida com o mero inconformismo da parte com a conclusão alcançada pelo julgador, que, a despeito das teses aventadas, lança mão de fundamentação idônea e suficiente para a formação do seu convencimento.
+2. Não constitui omissão a ausência de análise do mérito recursal em virtude da constatação de óbice ao seu conhecimento.
+3. Na espécie, o acórdão embargado não foi omisso, porquanto, de maneira clara e devidamente motivada, apreciou efetivamente a tese recursal de ausência de qualquer vinculação de atos da recorrente com eventos criminosos. O que se percebe é que a defesa pretende, na verdade, a reforma do julgado, o que não se coaduna com a via dos embargos de declaração.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+FORT SERVIÇOS DIGITAIS LTDA opõe embargos de declaração contra o acórdão de fls. 604-607, em que foi negado provimento ao agravo regimental.
+O embargante sustenta, em síntese, que há omissão no julgado, pois não houve o enfrentamento da tese de ausência de vínculo entre a embargante e os fatos investigados.
+Pleiteia, portanto, a integração do julgado. Busca, ainda, "o prequestionamento dos dispositivos legais e constitucionais que considera violados.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. VÍCIO NÃO CONSTATADO. ANÁLISE EXPRESSA DO ARGUMENTO INVOCADO NOS DECLARATÓRIOS. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração são destinados a sanar omissão, ambiguidade, contradição ou obscuridade no julgado. A assertiva, no entanto, não pode ser confundida com o mero inconformismo da parte com a conclusão alcançada pelo julgador, que, a despeito das teses aventadas, lança mão de fundamentação idônea e suficiente para a formação do seu convencimento.
+2. Não constitui omissão a ausência de análise do mérito recursal em virtude da constatação de óbice ao seu conhecimento.
+3. Na espécie, o acórdão embargado não foi omisso, porquanto, de maneira clara e devidamente motivada, apreciou efetivamente a tese recursal de ausência de qualquer vinculação de atos da recorrente com eventos criminosos. O que se percebe é que a defesa pretende, na verdade, a reforma do julgado, o que não se coaduna com a via dos embargos de declaração.
+4. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Em que pesem os argumentos trazidos pelo embargante, entendo que não lhe assiste razão.
+Consoante o disposto no art. 619 do Código de Processo Penal, a oposição de embargos de declaração enseja, em síntese, o aprimoramento da prestação jurisdicional, por meio da retificação do julgado que se apresenta omisso, ambíguo, contraditório ou com erro material. São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, o rejulgamento do caso.
+Na hipótese, noto que a irresignação da defesa se resume ao seu mero inconformismo com o resultado do julgado, que lhe foi desfavorável. Não há nenhum fundamento que justifique a oposição dos aclaratórios, notadamente porque o acórdão apreciou efetivamente a tese recursal de ausência de qualquer vinculação de atos da recorrente com eventos criminosos.
+Com efeito, o acórdão embargado salientou - após ressaltar que o acórdão de origem constatara "h aver  indícios de lavagem de dinheiro envolvendo os acusados  .. , em especial com as empresas de alguma forma utilizadas pelo último, como é o caso da Ecoplex Eireli"; que "foi possível traçar um vínculo entre as atividades desempenhadas  pelos acusados  com prática de lavagem de capital, decorrente também do tráfico internacional de entorpecentes realizado pela organização criminosa  .. , em especial a ligação de IVAN com a empresa Ecoplex" e que "a "criptomoeda" de mesma nomenclatura foi a utilizada pela Ecoplex na transação com a Fort Ltda." - que "foram apresentados fundamentos concretos, ancorados nas provas produzidas nos autos, para afirmar a existência de base empírica indicativa da proveniência ilícita dos valores sequestrados", de modo que "rever tal fundamentação exigiria o revolvimento de fatos e provas, o que é vedado nessa instância especial por força da Súmula n. 7 do STJ, de forma que não cabe o conhecimento do recurso especial neste ponto".
+Assim, observo que os embargos declaratórios devem ser rejeitados, uma vez que o que se percebe é que a defesa pretende, na verdade, a reforma do julgado, o que, por óbvio, não se coaduna com a via dos embargos de declaração.
+Ademais, a jurisprudência desta Corte Superior não admite o manejo de embargos de declaração com o intuito analisar suposta violação de dispositivos constitucionais, mesmo com o cunho de prequestionamento, por ser matéria reservada à competência do Supremo Tribunal Federal, nos termos do art. 102, III, da Constituição Federal. A propósito:
+ ..  Não cabe ao Superior Tribunal de Justiça manifestar-se sobre dispositivos constitucionais, mesmo para fins de prequestionamento, sob pena de usurpação de competência do Supremo Tribunal Federal.  ..  (EDcl no AgRg no AREsp n. 2.749.582/SP, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJEN de 25/3/2025.)
+ ..  Não compete ao Superior Tribunal de Justiça examinar dispositivos constitucionais para fins de prequestionamento, sob pena de usurpação da competência do Supremo Tribunal Federal. ..  (EDcl no AgRg no AREsp n. 2.720.362/SC, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJEN de 29/4/2025.)
+À vista do exposto, rejeito os embargos de declaração.
