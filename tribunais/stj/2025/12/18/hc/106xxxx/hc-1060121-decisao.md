@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de Marco Vinicio da Silva Marques - apenado em execução penal no regime semiaberto, com pleito de visita periódica ao lar, nos termos dos arts. 122 e 123 da Lei de Execução Penal -, em que a defesa aponta como autoridade coatora a Sétima Câmara Criminal do Tribunal de Justiça do Estado do Rio de Janeiro, que, em 13/11/2025, conheceu e negou provimento ao agravo em execução (Agravo de Execução Penal n. 5013677-88.2025.8.19.0500).
+Em síntese, o impetrante alega fundamentação genérica e abstrata no acórdão, assentada na gravidade dos delitos, na reincidência e no elevado remanescente de pena, sem indicação de fatos concretos e atuais da execução que demonstrem incompatibilidade com a VPL.
+Sustenta que o paciente preenche os requisitos objetivos e subjetivos dos arts. 122 e 123 da Lei de Execução Penal, com comportamento carcerário classificado como excepcional, sem faltas graves e sem registros disciplinares negativos, sendo indevida a presunção de periculosidade e exigida motivação específica baseada em elementos atuais.
+Em caráter liminar, pede a imediata concessão da visita periódica ao lar até o julgamento final do writ.
+No mérito, requer a concessão da ordem para cassar o acórdão e determinar a VPL ao paciente; subsidiariamente, nova análise pela Vara de Execuções Penais, limitada a elementos concretos e atuais, com vedação a fundamentos abstratos; e a confirmação da liminar (fls. 2/8) - (Processo n. 0023421-89.2015.8.19.0001, da Vara de Execuções Penais do Rio de Janeiro/RJ).
+É o relatório.
+A concessão de ordem de habeas corpus demanda demonstração, de plano, da ilegalidade, ônus que recai sobre a impetrante, a quem cumpre instruir o feito com a prova pré-constituída de suas alegações.
+In casu, verifico, de plano, a viabilidade do presente writ.
+O Tribunal local negou provimento à insurgência defensiva pelos seguintes termos (fl. 23):
+O indeferimento do benefício da saída temporária não se deu unicamente em razão da gravidade dos delitos praticados, mas decorreu de criteriosa avaliação do histórico comportamental do agravante e da sua concreta periculosidade, em estrita observância ao disposto no art. 123, inciso III, da Lei de Execução Penal. Trata-se, portanto, de decisão pautada em elementos objetivos e subjetivos que evidenciam a incompatibilidade do apenado com os pressupostos exigidos para a concessão da medida.
+A progressão ao regime semiaberto não traz como consequência automática o deferimento da benesse relativa às saídas temporárias, a qual necessita que o apenado satisfaça requisitos específicos, elencados no art. 123 da Lei de Execução Penal.
+Nesse sentido, entre outros, da minha relatoria, o AgRg no AREsp n. 683.107/RJ, Sexta Turma, DJe 4/8/2015; e o HC n. 241.411/RJ, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 27/11/2012. Da Quinta Turma, o HC n. 241.780/RJ, Ministra Laurita Vaz, DJe 24/10/2012.
+No caso, a instância local assentou que o benefício da saída temporária não está, neste momento, em consonância com os objetivos da pena, fundamento esse suficiente para obstar a benesse (HC n. 720.890/RJ, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Quinta Turma, DJe 15/3/2022).
+É firme o posicionamento desta Corte Superior no sentido de ser inviável, em sede de habeas corpus, desconstituir a conclusão a que chegaram as instâncias ordinárias sobre o não preenchimento do requisito subjetivo para a concessão de benefícios da execução penal, uma vez que tal providência implica o reexame do conjunto fático-probatório dos autos da execução, procedimento incompatível com os estreitos limites da via eleita (HC 551.536/MG, Ministro Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE), Quinta Turma, DJe 26/2/2020).
+Ante o exposto, indefiro liminarmente a petição inicial.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. SAÍDAS TEMPORÁRIAS. INDEFERIMENTO. FALTA DO PRESSUPOSTO LEGAL. REEXAME FÁTICO-PROBATÓRIO. INVIABILIDADE. PRECEDENTES.
+Petição inicial indeferida liminarmente.
