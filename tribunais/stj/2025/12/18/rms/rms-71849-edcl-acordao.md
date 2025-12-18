@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Carlos Pires Brandão, Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EM MANDADO DE SEGURANÇA. OMISSÃO. ART. 619 DO CPP. IRRECORRIBILIDADE DE DECISÃO QUE ACOLHE PROMOÇÃO DE ARQUIVAMENTO. ART. 28 DO CPP. PRETENSÃO DE REJULGAMENTO. INVIABILIDADE. PRECEDENTE.
+1. Consoante o disposto no art. 619 do CPP, a oposição de embargos de declaração enseja, em síntese, o aprimoramento da prestação jurisdicional, por meio da retificação do julgado que se apresenta omisso, ambíguo, contraditório ou com erro material. São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, o rejulgamento do caso.
+2. Na hipótese, verifica-se que a irresignação da defesa se resume ao seu mero inconformismo com o resultado do julgado, que lhe foi desfavorável. Não há nenhum fundamento que justifique a oposição dos aclaratórios, notadamente porque o acórdão embargado foi expresso em afirmar ser irrecorrível a decisão do Juiz que acolhe a promoção do arquivamento do procedimento investigatório.
+3. Como salientado na decisão, não se trata da aplicação do art. 28 do CPP, visto que na hipótese não houve discordância do Magistrado de primeiro grau com a manifestação do Parquet que atuava no caso.
+4. Salienta-se, por oportuno, que a omissão sanável pelo recurso integrativo ocorre quando o acórdão deixa de se manifestar sobre ponto essencial para o julgamento da lide. Desse modo, não está caracterizado nenhum vício previsto no art. 619 do CPP se o julgador dirimiu, de modo fundamentado, as questões que lhe foram submetidas.
+5. Embargos de declaração rejeitados.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+PYPS ITANHAÉM EMPREENDIMENTOS E PARTICIPAÇÕES LTDA opõe embargos de declaração contra o acórdão de fls. 929-934, em que foi negado provimento ao agravo regimental.
+O embargante sustenta, em síntese, que há omissão no julgado, pois não foi analisada a discussão acerca da vigência do art. 28, § 1º, do CPP.
+Pleiteia, portanto, a integração do julgado. Busca, ainda, a atribuição de efeitos infringentes ao recurso.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EM MANDADO DE SEGURANÇA. OMISSÃO. ART. 619 DO CPP. IRRECORRIBILIDADE DE DECISÃO QUE ACOLHE PROMOÇÃO DE ARQUIVAMENTO. ART. 28 DO CPP. PRETENSÃO DE REJULGAMENTO. INVIABILIDADE. PRECEDENTE.
+1. Consoante o disposto no art. 619 do CPP, a oposição de embargos de declaração enseja, em síntese, o aprimoramento da prestação jurisdicional, por meio da retificação do julgado que se apresenta omisso, ambíguo, contraditório ou com erro material. São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, o rejulgamento do caso.
+2. Na hipótese, verifica-se que a irresignação da defesa se resume ao seu mero inconformismo com o resultado do julgado, que lhe foi desfavorável. Não há nenhum fundamento que justifique a oposição dos aclaratórios, notadamente porque o acórdão embargado foi expresso em afirmar ser irrecorrível a decisão do Juiz que acolhe a promoção do arquivamento do procedimento investigatório.
+3. Como salientado na decisão, não se trata da aplicação do art. 28 do CPP, visto que na hipótese não houve discordância do Magistrado de primeiro grau com a manifestação do Parquet que atuava no caso.
+4. Salienta-se, por oportuno, que a omissão sanável pelo recurso integrativo ocorre quando o acórdão deixa de se manifestar sobre ponto essencial para o julgamento da lide. Desse modo, não está caracterizado nenhum vício previsto no art. 619 do CPP se o julgador dirimiu, de modo fundamentado, as questões que lhe foram submetidas.
+5. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Em que pesem os argumentos trazidos pelo embargante, entendo que não lhe assiste razão.
+Consoante o disposto no art. 619 do Código de Processo Penal, a oposição de embargos de declaração enseja, em síntese, o aprimoramento da prestação jurisdicional, por meio da retificação do julgado que se apresenta omisso, ambíguo, contraditório ou com erro material. São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, o rejulgamento do caso.
+Na hipótese, noto que a irresignação da defesa se resume ao seu mero inconformismo com o resultado do julgado, que lhe foi desfavorável. Não há nenhum fundamento que justifique a oposição dos aclaratórios, notadamente porque o acórdão embargado foi expresso em afirmar ser irrecorrível a decisão do Juiz que acolhe a promoção do arquivamento do procedimento investigatório. Como salientado na decisão, não se trata da aplicação do art. 28 do CPP, tal como alega o insurgente, visto que na hipótese não houve discordância do Magistrado de primeiro grau com a manifestação do Ministério Público que atuava no caso.
+Saliento, por oportuno, que a omissão sanável pelo recurso integrativo ocorre quando o acórdão deixa de se manifestar sobre ponto essencial para o julgamento da lide. Desse modo, não está caracterizado nenhum vício previsto no art. 619 do CPP se o julgador dirimiu, de modo fundamentado, as questões que lhe foram submetidas.
+Ilustrativamente: "O vício de omissão que permite a oposição de embargos declaratórios diz respeito à ausência de manifestação judicial sobre algum ponto questionado, não se confundindo com a suposta necessidade de exame expresso sobre dispositivos legais e constitucionais invocados pela parte" (EDcl no AgRg no REsp n. 1.440.586/GO, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe de 5/2/2015).
+À vista do exposto, rejeito os embargos de declaração.
