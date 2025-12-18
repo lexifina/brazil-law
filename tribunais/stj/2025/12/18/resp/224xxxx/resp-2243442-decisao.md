@@ -1,0 +1,42 @@
+DECISÃO
+Em análise, recurso especial interposto por FAZENDA NACIONAL contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim ementado:
+TRIBUTÁRIO. IMPOSTO DE RENDA. PESSOA JURÍDICA. PROGRAMA DE ALIMENTAÇÃO DO TRABALHADOR - PAT. DECRETO  10.854/2021. PRINCÍPIO DA ESTRITA LEGALIDADE. RECURSO IMPROVIDO.
+Os embargos de declaração foram rejeitados.
+Nas razões recursais, a parte recorrente aponta violação aos arts. 489 e 1.022 do CPC e 1º e 2º da Lei 6.321/1976. Sustenta: (i) que o Tribunal de origem não se manifestou sobre a alegação de que há "autorização legislativa para que o Executivo regulamente e restrinja o benefício de dedução das despesas com o PAT de modo a priorizar os trabalhadores de baixa renda" (fl. 547); (ii) a legalidade do art. 186 do Decreto 10.854/2021, mormente após a edição da MP 1.108/2022, convertida na Lei 14.442/2022, que previu que o poder executivo pode ser estabelecer limites ao benefício fiscal do PAT; e (iii) a impossibilidade de autorização de restituição na via administrativa em desdobramento de decisão judicial.
+Contrarrazões apresentadas às fls. 565-576.
+É o relatório.
+Passo a decidir.
+1. Da negativa de prestação jurisdicional
+Quanto à apontada violação aos arts. 489, § 1º, IV, e 1.022, II, parágrafo único, II, do CPC, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, consignando que (fl. 462):
+I. O Programa de Alimentação do Trabalhador - PAT, instituído pela Lei nº 6.321/1976 estabelece uma renúncia fiscal do Governo Federal referente a imposto de renda da pessoa jurídica - IRPJ, contribuição previdenciária e FGTS em favor dos empregadores cadastrados, contemplando seus trabalhadores de baixa renda com os benefícios previstos no programa de acordo com a modalidade de execução.
+II. A controvérsia que se coloca está em aferir se as alterações promovidas por normas infralegais, notadamente o Decreto 10.854/2021, configuram limitações impostas sem respaldo legal à utilização do benefício fiscal de IRPJ atrelado ao Programa de Alimentação do Trabalhador.
+III. A jurisprudência do STJ consolidou-se no sentido de que a norma do artigo 3º, §4º, da Lei nº 9.249/1995 se aplica apenas aos benefícios fiscais que, por lei, impliquem dedução diretamente sobre o imposto devido e não àqueles que apenas de forma refletida, por reduzirem a própria base de cálculo do IRPJ e sua alíquota, impliquem diminuição do crédito tributário.
+IV. Por seu turno, as portarias e instruções normativas que limitam o valor da despesa no PAT extrapolam a função regulamentar ao estabelecer restrição não prevista em lei para o gozo do benefício, firmando-se a jurisprudência do STJ nesse sentido, de que as normas infralegais que estabelecem custos máximos das refeições individuais dos trabalhadores para fins de cálculo da dedução do PAT ofendem os princípios da estrita legalidade e da hierarquia das normas, por exorbitarem de seu caráter regulamentar, em confronto com as disposições da Lei nº 6.321/1976.
+V. Portanto, diante do posicionamento firmado de forma majoritária, as limitações impostas pelo Decreto nº 10.854/2021, que altera a disposição do artigo 645, § 1º, do Decreto nº 9.580/2018 (RIR/18), ofendem ao princípio da estrita legalidade, afigurando-se indevida inovação na ordem legal promovida por decreto, ao determinar que a dedutibilidade do benefício fiscal de IRPJ referente ao PAT seja limitada de acordo com a faixa salarial do trabalhador.
+VI. Cabível, portanto, a dedução do dobro das despesas comprovadamente incorridas com o sobre o valor do lucro tributável, na forma do art. 1º da Lei nº 6.321/76, paraPAT fins de apuração do IRPJ e do respectivo adicional, observado o limite de dedução de 4% (quatro por cento) do imposto devido.
+VII. Agravo interno a que se nega provimento.
+Como se vê, a negativa de prestação jurisdicional não restou configurada.
+Por outro lado, a fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada.
+Vale lembrar que, mesmo à luz do art. 489 do CPC, o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pela parte, mas apenas sobre aqueles capazes de, em tese, infirmar a conclusão adotada.
+Assim, inexiste violação aos arts. 489, § 1º, IV, e 1.022, II, parágrafo único, II, do CPC.
+2. Da ausência de pequestionamento
+Quanto à viabilidade de restituição administrativa do indébito reconhecido judicialment e, a matéria não foi objeto de exame pelas instâncias ordinárias, mesmo após o julgamento dos embargos de declaração.
+Assim, em razão da falta do indispensável prequestionamento, não pode ser conhecido o Recurso Especial, incidindo o teor da Súmula 211 deste STJ: "inadmissível recurso especial quanto à questão que, a despeito da oposição dos embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. ART. 927, III, DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. DISSÍDIO JURISPRUDENCIAL NÃO REALIZADO. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. A jurisprudência desta Corte já se firmou no sentido de que "não há incompatibilidade entre a inexistência de ofensa ao art. 1.022 do CPC/2015 e a ausência de prequestionamento, com a incidência do enunciado n. 211 da Súmula do STJ, quanto às teses invocadas pela parte recorrente, que, entretanto, não são debatidas pelo Tribunal local, por entender suficientes para a solução da controvérsia outros argumentos utilizados pelo colegiado" (AgInt no AREsp n. 2.536.934/BA, relator Ministro Francisco Falcão, Segunda Turma, julgado em 19/8/2024, DJe de 21/8/2024).
+2. A despeito da oposição de embargos de declaração, não foi configurado o prequestionamento exigido para o recurso especial, nos termos do enunciado n. 211 da Súmula do STJ.
+ ..
+4. Agravo interno não provido (AgInt no AREsp n. 2.578.117/RN, Relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, julgado em 7/10/2024, DJe de 14/10/2024).
+Quanto ao prequestionamento ficto, a jurisprudência desta Corte firmou-se no sentido de que "o  art. 1025 do CPC/2015 condiciona o prequestionamento ficto ao reconhecimento por esta Corte de omissão, erro, omissão, contradição ou obscuridade, ou seja, pressupõe o provimento do recurso especial por ofensa ao art. 1022 do CPC/2015, com o reconhecimento da negativa de prestação jurisdicional sobre a matéria (AgInt no AREsp n. 2.528.396/RS, Relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 2/9/2024, DJe de 4/9/2024).
+3. Do art. 186 do Decreto 10.854/2021
+A respeito da (i)legalidade do art. 186 do Decreto 10.854/2021, o entendimento desta Corte Superior de Justiça é no sentido de que, "ao restringir a dedução do PAT a valores pagos a título de alimentação para os trabalhadores que recebam até cinco salários-mínimos, limitada a dedução ao valor de, no máximo, um salário-mínimo, incorreu em ilegalidade" (AgInt nos EDcl no REsp n. 2.172.237/SC, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 18/12/2024, DJEN de 23/12/2024).
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. TRIBUTÁRIO. MANDADO DE SEGURANÇA. PROGRAMA DE ALIMENTAÇÃO DO TRABALHADOR - PAT. ART. 186 DO DECRETO N. 10.854/2021. ILEGALIDADE. PRECEDENTES. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência desta Corte Superior, "o art. 186, do Decreto nº 10.854, de 2021, ao restringir a dedução do PAT a valores pagos a título de alimentação para os trabalhadores que recebam até cinco salários-mínimos, limitada a dedução ao valor de, no máximo, um salário-mínimo, incorreu em ilegalidade" (REsp n. 2.088.361/CE, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 10/10/2023, DJe de 17/10/2023).
+2. Agravo interno desprovido (AgInt no REsp n. 2.151.358/RS, relator Ministro Marco Aurélio Bellizze, Segunda Turma, julgado em 30/4/2025, DJEN de 8/5/2025).
+Isso posto, com fundamento no art. 255, § 4º, I e II, do RISTJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Sem condenação em honorários advocatícios, nos termos do art. 25 da Lei 12.016/2009 e do enunciado da Súmula 105/STJ.
+Intimem-se.
+EMENTA
