@@ -1,0 +1,64 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido de liminar, impetrado em favor de GILMAR MASCARENHAS DA CRUZ PEREIRA, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, em decorrência do julgamento da apelação criminal n. 1514519-66.2022.8.26.0152.
+Consta nos autos que o paciente foi inicialmente condenado pelo Juízo da Vara Criminal da Comarca de Cotia à pena de 13 (treze) anos, 07 (sete) meses e 10 (dez) dias de reclusão, em regime inicial fechado, além de 30 (trinta) dias-multa, por infração ao artigo 157, § 2º, inciso II, e § 2º-A, inciso I, por duas vezes, combinado com o artigo 29, na forma do artigo 70, todos do Código Penal (fls. 84-117).
+A defesa apelou ao Tribunal de Justiça do Estado de São Paulo, que deu parcial provimento ao recurso, a fim de, mantida a condenação e o quantum da pena, reduzir o valor fixado a título de indenização para R$ 250.000,00, mantendo, entre outros pontos, a perda do cargo público (fls. 9-68).
+Na presente impetração, busca-se a concessão da ordem para absolver o paciente, em razão da atipicidade da conduta por ausência de dolo. Em caráter subsidiário, requer: (i) o afastamento do concurso formal, com o reconhecimento de crime único; (ii) o redimensionamento da pena, fixando a pena-base no mínimo legal e aplicando a fração de 1/3 na terceira fase; e (III) a exclusão da perda do cargo público, com a fixação de regime prisional compatível (fls. 2-7).
+As informações foram prestadas (fls. 345-354 e 357-464).
+O Ministério Público Federal opinou pela denegação da ordem (fls. 466-470).
+É o relatório. DECIDO.
+A controvérsia consiste em uma possível ilegalidade flagrante, consubstanciada pela negativa de absolvição quanto ao delito previsto no artigo 157, § 2º, inciso II, e § 2º-A, inciso I, do Código Penal, bem como quanto à dosimetria da pena e à perda do cargo público.
+A presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida. A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Tendo em vista a possibilidade de concessão da ordem de ofício, em observância ao §2º do artigo 654 do Código de Processo Penal, transcrevo, para melhor análise, os fundamentos empregados na decisão colegiada impugnada (fls. 9-68):
+ ..
+Essas são as provas dos autos, suficientes para amparar o édito condenatório em desfavor do apelante Gilmar.
+Com efeito, o acusado não conseguiu infirmar o acervo probatório produzido em favor da acusação.
+Observa-se. As declarações das vítimas e das testemunhas se mostraram precisas, uniformes e convincentes acerca do desenrolar da ação fática descrita na denúncia e atribuída ao apelante.
+ ..
+É de ressaltar que as vítimas reconheceram um dos réus como sendo Raphael, a pessoa que Gilmar Pereira teria apresentado para a vítima Márcio como policial e que foi chamada por Gilmar para cuidar do veículo das vítimas naquela ocasião até que conseguissem a chave reserva.
+ ..
+É fato incontroverso que a localização do condomínio para o qual os corréus se dirigiram somente foi possível pelo fato do celular da vítima Yasmin possuir sistema de geolocalização ativo, por meio do qual os policiais puderam observar que o aparelho ficou parado durante certo tempo.
+ ..
+Pelas referidas imagens, os ofendidos também puderam prontamente reconhecer o corréu Raphael, ou seja, a pessoa que foi a eles apresentada por Gilmar no dia do delito para que ficasse como responsável para fazer a guarda do automóvel deles que estava trancado na churrascaria.
+ ..
+Com a colheita destes elementos informativos, a participação do apelante Gilmar no delito começou a ser cogitada, o que veio se confirmar ao longo da instrução.
+Durante as investigações, os policiais civis identificaram que Gilmar realizou diversas ligações para o corréu Raphael no dia dos fatos, tendo algumas delas ocorrido horas antes do delito e várias outras após
+ ..
+Por oportuno, a identificação dessas chamadas somente foi possível por meio de solicitação às companhias de telefonia, haja vista que Gilmar não entregou o celular à Autoridade Policial, afirmando que o aparelho havia danificado ao cair na água.
+Não por coincidência, essa foi a mesma alegação apresentada pelo corréu Raphael para também não entregar seu aparelho à polícia. O delegado Adair disse que ambos os aparelhos deixaram de ser utilizados em datas próximas.
+Aqui, não se cogita falar em mais uma coincidência.
+ ..
+Assim, o conjunto probatório se afigura harmonioso, vez que nenhum elemento trazido aos autos foi capaz de macular a demonstração da ilicitude da conduta do acusado. Nesse contexto, refuta-se a hipótese de absolvição por não ter o réu concorrido para a infração penal, bem como por insuficiência probatória (CPP, art. 386, inc. IV e VII), sendo, pois, de rigor o desfecho condenatório em desfavor do acusado, como incurso nas sanções do artigo 157, § 2º, inciso II e §2º-A, inciso I, por 2 (duas) vezes, combinado com artigo 29, caput, na forma do artigo 70, todos do Código Penal.
+ ..
+1ª fase. A MMª. Juiza a quo fixou corretamente a pena-base do réu em 05 (cinco) anos de reclusão e 12 (doze) dias-multa, assim justificando: ".. que a culpabilidade extrapola o normalmente verificado uma vez que o crime foi premeditado o que acentua a reprovabilidade. Ademais, resultou em grande prejuízo às vítimas que estavam com valores para fazer pagamentos e ainda estavam com o carro carregado para uma viagem." fl. 449).
+Além disso, a premeditação do crime não é especulada, pelo contrário, restou comprovada por diversos contatos telefônicos realizados entre os corréus Gilmar e Raphael, a relação de proximidade do apelante com as vítimas, bem como as demais circunstâncias do delito, que denotaram de forma clara que os indivíduos haviam anteriormente planejado a execução do delito, inclusive com divisão de tarefas. Desta forma, fica mantido a elevação operada nesta etapa.
+3ª fase. Presente uma causa de aumento (concurso de agentes), a magistrada a quo operou acréscimo de (dois quintos), totalizando 07 (sete) anos de reclusão e 16 (dezesseis) dias-multa, no mínimo legal. Ainda, foi também reconhecida a causa de aumento relativa ao emprego de arma de fogo, motivo pelo qual a reprimenda foi elevada em (dois terços), perfazendo a sanção de 11 (onze) anos e 08 (oito) meses de reclusão, mais o pagamento de 26 (vinte e seis) dias- multa.
+Em relação ao quantum utilizado para majorar a pena em decorrência do concurso de agentes, como se sabe, dentre os limites de sanção fixados em abstrato pelo legislador, o Juiz deve estabelecer aquele que seja necessário e suficiente para a reprovação e prevenção do crime, inclusive para que haja proporcionalidade entre a conduta e a resposta estatal, tornando esta última eficaz.
+ ..
+No mais, o emprego de arma de fogo torna forçosa sua consideração para agravamento da reprimenda. Consta dos autos que o delito foi cometido mediante grave ameaça exercida com o emprego de arma de fogo, sendo que a vítima alegou ter sido ameaçada com o armamento, além de ter sido agredida com uma coronhada. Assim, ainda que o armamento não tenha sido localizado, a ausência de perícia nele fica suprida pela prova oral.
+ ..
+Por fim, considerando que foram subtraídos os bens de duas vítimas, a d. Magistrada aplicou o concurso formal de crimes, motivo pelo qual a reprimenda foi corretamente elevada em (um sexto), perfazendo a sanção final
+ ..
+Perda do cargo público. Igualmente, a perda da função pública não comporta reparos e encontra respaldo no art. 92, I, do Código Penal. Não obstante os argumentos suscitados pela il. Defesa, é assente na doutrina e na jurisprudência que a perda do cargo público, em decorrência de sentença condenatória por crime comum, pode ser realizada pelo Juízo Comum, vez que este é independente da esfera administrativa.
+No tocante à pretensão de absolvição quanto ao delito previsto no artigo 157, § 2º, inciso II, e § 2º-A, inciso I, do Código Penal, as instâncias ordinárias, para fundamentar a condenação, consideraram quadro fático robusto e desfavorável ao paciente, conforme se verifica na narrativa detalhada das decisões proferidas. Destaco que a jurisprudência do Superior Tribunal de Justiça é pacífica ao afirmar que o habeas corpus não se presta ao reexame de fatos e provas. Nesse sentido:
+ ..
+1. O habeas corpus não é a via adequada para apreciar o pedido de absolvição ou de desclassificação de condutas, tendo em vista que, para se desconstituir o decidido pelas instâncias de origem, mostra-se necessário o reexame aprofundado dos fatos e das provas constantes dos autos, procedimento vedado pelos estreitos limites do writ, caracterizado pelo rito célere e por não admitir dilação probatória. Precedentes.
+ ..
+7. Agravo regimental desprovido. (AgRg no RHC n. 198.668/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1/7/2024, DJe de 3/7/2024.)
+Da análise do acórdão transcrito, observa-se que tanto a fração de exasperação da pena-base quanto a cumulação das majorantes do roubo praticado foram devidamente justificadas, em razão da dinâmica dos fatos e da gravidade da conduta. Não há ofensa à Súmula 443 do STJ, pois a cumulação das causas de aumento foi fundamentada em elementos concretos do caso.
+Acrescento que a valoração dos vetores do artigo 59 do Código Penal e das causas de aumento insere-se na discricionariedade vinculada do julgador, somente passível de revisão em hipóteses excepcionais de violação aos princípios da proporcionalidade e da individualização da pena, o que não se verifica na espécie. A esse respeito:
+ ..
+1. A dosimetria da pena está inserida no âmbito de discricionariedade do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito.
+ ..
+(AgRg no HC n. 872277/SP, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 6/2/2024, DJe de 14/2/2024.)
+Por sua vez, esclareço que o reconhecimento do concurso formal entre os crimes de roubo está alinhando ao entendimento desta Corte Superior, consolidado no Tema Repetitivo 1192: "O cometimento de crimes de roubo mediante uma única conduta e sem desígnios autônomos contra o patrimônio de diferentes vítimas, ainda que da mesma família, configura concurso formal de crimes (art. 70 do CP)."
+Por fim, a pena de perda do cargo público foi devidamente fundamentada e encontra respaldo legal, competindo à Justiça Estadual determiná-la como efeito da condenação, nos termos do artigo 92, inciso I, do Código Penal:
+ ..
+1. Segundo o art. 92, inciso I, alínea "a", do CP, sendo a pena privativa de liberdade inferior a quatro anos, a decretação de perda do cargo público só pode ocorrer na hipótese em que o crime tenha sido cometido com abuso de poder ou com a violação de dever para com a Administração Pública.
+2. Da análise dos elementos apresentados pela Corte de origem, verifica-se que o crime, embora não tenha sido praticado com abuso de poder, uma vez que o policial militar não estava de serviço, nem se valeu do cargo, foi executado com evidente violação de dever para com a Administração Pública.
+3. O réu, ora recorrido, é policial militar e, embora não estivesse no exercício de sua função, violou dever inerente a suas funções como policial, bem como para com a administração pública, uma vez que encontra-se vinculado a esta no exercício de suas atividades diárias.
+4. O roubo por policial militar deve ser caracterizado como uma infração gravíssima para com a Administração, a uma, em razão da relação de subordinação do policial àquela, a duas, porque é inerente às funções do policial militar coibir o roubo e reprimir a prática de crimes. Assim, correta a decisão de afastar dos quadros da polícia pessoa envolvida no crime de roubo, por ferir dever inerente à função de policial militar, pago pelo Estado justamente para combater o crime e resguardar a população. Precedente: REsp 665.472/MS, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 04/12/2009, DJe 08/02/2010.  ..
+(Resp 1561248/GO, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 24/11/2015, DJe de 1/12/2015.)
+Com essas considerações não vislumbro a presença de ilegalidade flagrante que desafie a concessão da ordem nos termos do artigo 654, § 2º, do Código de Processo Penal.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
