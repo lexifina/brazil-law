@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Carlos Pires Brandão votaram com o Sr. Ministro Relator.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. DESCLASSIFICAÇÃO E AFASTAMENTO DA CAUSA DE AUMENTO E REDUÇÃO DA EXASPERAÇÃO DA PENA-BASE. NECESSIDADE DE REEXAME DE PROVAS. IMPOSSIBILIDADE. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA N. 284 DO STF. AGRAVO REGIMENTAL IMPROVIDO.
+1. O acolhimento das pretensões de desclassificação do crime de roubo majorado para furto simples, afastamento da causa de aumento relativa ao emprego de arma branca e redução da fração de exasperação da pena-base demandam amplo revolvimento do conjunto fático-probatório, providência vedada em recurso especial, conforme a Súmula n. 7 do STJ.
+2. A fundamentação do recurso especial revela-se insuficiente se não demonstrado de forma específica e clara como o acórdão recorrido teria violado os dispositivos legais invocados (arts. 59 e 157, § 2º, VII, do CP).
+3. Limitando-se o recorrente a questionar aspectos fático-probatórios já analisados pelas instâncias ordinárias, sem apontar efetiva contrariedade à legislação federal, incide a conclusão sedimentada na Súmula n. 284 do STF.
+4. O Superior Tribunal de Justiça, na apreciação do recurso especial, limita-se à análise de questões de direito, sendo inviável a utilização desse instrumento como meio de correção de alegados erros sobre a interpretação alcançada pelas instâncias ordinárias.
+5. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ELEANDRO ARAÚJO DE SÁ contra a decisão de fls. 480-482, que não conheceu do recurso especial.
+Nas razões deste recurso, a defesa aduz que a decisão merece reforma, pois o recurso especial cumpriu os requisitos do art. 105, III, a, da Constituição Federal ao demonstrar violação dos arts. 59 e 157, § 2º, VII, do Código Penal.
+Sustenta que não se trata de mero reexame de provas, mas sim de valoração jurídica dos elementos já constantes nos autos. Argumenta que o acórdão de origem erroneamente não desclassificou o crime de roubo qualificado para furto simples, apesar da alegada fragilidade probatória quanto à existência de violência ou grave ameaça, ou, alternativamente, aduz que deveria ser o fato desclassificado para roubo simples.
+Alega, ainda, que há equívoco na dosimetria da pena, tanto na exasperação da pena-base com fração de 1/5, defendendo a aplicação da fração de 1/6 ou 1/8, quanto na incidência da causa de aumento de pena pelo emprego de arma branca, que estaria baseada apenas na palavra da vítima.
+Por fim, afirma que o recurso especial cumpriu a dialeticidade exigida pelo art. 1.029, I, II e III, do CPC.
+Requer, ao final, o acolhimento do agravo para que sejam acolhidos os pedidos formulados no recurso especial.
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. DESCLASSIFICAÇÃO E AFASTAMENTO DA CAUSA DE AUMENTO E REDUÇÃO DA EXASPERAÇÃO DA PENA-BASE. NECESSIDADE DE REEXAME DE PROVAS. IMPOSSIBILIDADE. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA N. 284 DO STF. AGRAVO REGIMENTAL IMPROVIDO.
+1. O acolhimento das pretensões de desclassificação do crime de roubo majorado para furto simples, afastamento da causa de aumento relativa ao emprego de arma branca e redução da fração de exasperação da pena-base demandam amplo revolvimento do conjunto fático-probatório, providência vedada em recurso especial, conforme a Súmula n. 7 do STJ.
+2. A fundamentação do recurso especial revela-se insuficiente se não demonstrado de forma específica e clara como o acórdão recorrido teria violado os dispositivos legais invocados (arts. 59 e 157, § 2º, VII, do CP).
+3. Limitando-se o recorrente a questionar aspectos fático-probatórios já analisados pelas instâncias ordinárias, sem apontar efetiva contrariedade à legislação federal, incide a conclusão sedimentada na Súmula n. 284 do STF.
+4. O Superior Tribunal de Justiça, na apreciação do recurso especial, limita-se à análise de questões de direito, sendo inviável a utilização desse instrumento como meio de correção de alegados erros sobre a interpretação alcançada pelas instâncias ordinárias.
+5. Agravo regimental improvido.
+VOTO
+A pretensão recursal não merece acolhimento, uma vez que os fundamentos apresentados no agravo regimental não evidenciam equívoco na decisão recorrida.
+Conforme constou da decisão agravada, fundamento que não se modifica após a análise das razões do recurso (fl. 481):
+Neste recurso especial, objetiva-se obter a modificação da decisão condenatória para desclassificar o crime de roubo majorado para furto simples, afastar a majorante pelo emprego de arma branca e reduzir a fração aplicada na primeira fase da dosimetria da pena.
+A pretensão, contudo, não se resume à mera aplicação do direito aos aspectos fáticos delineados no acórdão recorrido, pois o acolhimento do recurso especial dependeria de reexame do conjunto fático-probatório para verificar se houve efetiva violência ou grave ameaça no crime, se foi utilizada arma branca e qual a fração adequada para a exasperação da pena-base, considerando as circunstâncias judiciais.
+Ademais, há, de fato, deficiência na fundamentação do recurso especial, incidindo a Súmula n. 284 do STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+Conforme também esclarecido na decisão recorrida:
+O recurso especial deve indicar, de forma precisa e objetiva, em que consiste a ofensa à lei federal, demonstrando o nexo de causalidade entre a decisão impugnada e a violação apontada. Não basta a mera alegação genérica de contrariedade à lei ou a transcrição de dispos itivos legais sem a devida correlação com os fundamentos do acórdão recorrido.
+No caso em exame, a fundamentação apresentada pela defesa não logrou demonstrar, de forma específica e clara, em que medida o acórdão do Tribunal de origem teria violado os dispositivos legais invocados (arts. 157, § 2º, VII, e 59 do Código Penal). As alegações limitaram-se a questionar aspectos fático-probatórios já devidamente analisados e fundamentados pelo Tribunal estadual, sem apontar efetiva contrariedade à legislação federal.
+A deficiência de fundamentação é particularmente evidente quando se observa que o recurso especial não enfrentou adequadamente os fundamentos específicos do acórdão recorrido, que analisou minuciosamente a prova dos autos e concluiu pela presença dos elementos caracterizadores do crime de roubo majorado e pela adequação da dosimetria aplicada.
+Como bem destacou o Tribunal de origem, "a alteração das conclusões a que chegou o Tribunal de origem, a fim de desclassificar a conduta para aquela prevista no art. 155, caput, do Código Penal, tal como pleiteado pela defesa, demandaria necessariamente o revolvimento do suporte fático-probatório dos autos, o que é vedado em sede de recurso especial".
+Repise-se, por oportuno, o seguinte excerto da manifestação do Ministério Público Federal sobre o ponto, aqui acolhido como razão de decidir:
+Em relação à alegação da defesa de ELEANDRO ARAUJO DE SA, o recurso não merece acolhida. Neste ponto, cabe reiterar os fundamentos da decisão do Presidente da Seção de Direito Criminal do TJSP, que não admitiu o recurso especial, com base na seguinte fundamentação, a saber: Súmula 284/STF e Súmula 7/STJ.
+No caso, portanto, incidem tanto a Súmula n. 284 do STF, em razão da deficiência de fundamentação que impede a exata compreensão da controvérsia jurídica alegada, quanto a Súmula n. 7 do STJ, uma vez que "a pretensão de simples reexame de prova não enseja recurso especial".
+O papel definido pela Constituição Federal para o Superior Tribunal de Justiça na apreciação do recurso especial não é o de promover um terceiro exame da questão posta no processo, limitando-se à apreciação de questões de direito, viável apenas quando não houver questionamentos que envolvam os fatos e as provas do processo.
+Por isso, quando não puder ser utilizado com a finalidade exclusiva de garantir a uniformidade da interpretação da lei federal, analisada abstratamente, não se pode conhecer do recurso especial, que não se presta à correção de alegados erros sobre a interpretação fático-processual alcançada pelas instâncias ordinárias.
+Esse é o pacífico sentido da jurisprudência deste Superior Tribunal, como exemplificam os seguintes precedentes: AgRg no REsp n. 2.150.805/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 1º/7/2025, DJEN de 4/7/2025; AgRg no AREsp n. 2.828.086/MS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 18/6/2025, DJEN de 25/6/2025; AgRg no AREsp n. 2.835.035/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 17/6/2025, DJEN de 26/6/2025; AgRg no AREsp n. 2.719.789/GO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/5/2025, DJEN de 20/5/2025; AgRg no AREsp n. 2.530.799/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 21/5/2024, DJe de 23/5/2024; AgRg no AREsp n. 2.406.002/MS, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 3/10/2023, DJe de 11/10/2023.
+Em situação semelhante à do presente feito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. DESCLASSIFICAÇÃO PARA DELITO DE FURTO. ALEGADA INSUFICIÊNCIA DE PROVAS. IMPOSSIBILIDADE DE REEXAME DO ACERVO FÁTICO E PROBATÓRIO. SÚMULA 7/STJ.
+ ..
+A alteração das conclusões a que chegou o Tribunal de origem, a fim de desclassificar a conduta para aquela prevista no art. 155, caput, do Código Penal, tal como pleiteado pela defesa, demandaria necessariamente o revolvimento do suporte fático-probatório dos autos, o que é vedado em sede de recurso especial, consoante o disposto na Súmula 7 deste Superior Tribunal de Justiça.
+ ..
+(AgRg no AREsp n. 2.286.197/BA, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 23/3/2023, DJe de 28/3/2023.)
+Nada, portanto, colhe o agravo, devendo ser mantida a decisão recorrida.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
