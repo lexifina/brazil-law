@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interposto por CARLOS ROMERO MAIA DE SOUSA contra decisão que não admitiu recurso especial manejado, com base na alínea "a" do inciso III do artigo 105 da Constituição Federal, em face do acórdão assim ementado (e-STJ, fls. 101-106):
+APELAÇÃO CÍVEL. EMBARGOS DE TERCEIRO. EXTINÇÃO DA AÇÃO PRINCIPAL. SENTENÇA COM TRÂNSITO EM JULGADO. AUSÊNCIA DE INTERESSE DE AGIR SUPERVENIENTE. EMBARGOS EXTINTOS SEM JULGAMENTO DO MÉRITO. DESPROVIMENTO.
+Extinta a ação de despejo, com sentença transitada em julgado, não mais subsiste interesse no julgamento dos embargos de terceiros, devendo ser mantida a sentença que extinguiu o feito sem julgamento do mérito.
+Os embargos de declaração opostos por CARLOS ROMERO MAIA DE SOUSA foram rejeitados (e-STJ, fls. 125-133).
+Nas razões do recurso especial (e-STJ, fls. 144-149), a parte recorrente alega que o acórdão recorrido violou o artigo 675 do Código de Processo Civil.
+Sustenta que os embargos de terceiro foram opostos na fase de cumprimento de sentença, sendo tempestivos e com interesse de agir, de modo que a extinção sem exame do mérito contrariou o artigo 675 do Código de Processo Civil. Defende, subsidiariamente, a nulidade da fiança por ausência de outorga uxória, apoiando-se no artigo 1.647, inciso III, do Código Civil e na Súmula n. 332 do Superior Tribunal de Justiça, porquanto a garantia prestada pelo cônjuge seria ineficaz sem a autorização marital.
+Decorreu o prazo sem apresentação de contrarrazões (e-STJ, fls. 151).
+A não admissão do recurso na origem ensejou a interposição do presente agravo (e-STJ, fls. 155-157 e 160-164).
+Decorreu o prazo sem apresentação de impugnação (e-STJ, fls. 166).
+Assim delimitada a questão, satisfeitos os requisitos de admissibilidade do agravo, dele conheço, passando à análise do recurso especial.
+Originariamente, CARLOS ROMERO MAIA DE SOUSA opôs embargos de terceiro visando à declaração de nulidade da fiança prestada por sua esposa, sem a sua autorização (e-STJ, fls. 4-14).
+A sentença julgou extinto o processo, sem resolução do mérito, pela perda superveniente de seu objeto, "porque a demanda principal de Despejo, Proc. 0056635-33.2014.8.15.2001, encontra-se devidamente julgada, inclusive em fase de liquidação de sentença" (e-STJ, fls. 40-41).
+O Tribunal de origem negou provimento à apelação, assentando a ausência de interesse de agir superveniente, porque a ação principal (despejo) já se encontrava transitada em julgado e em liquidação de sentença, tornando-se inútil o julgamento dos embargos de terceiro (e-STJ, fls. 101-106).
+O acórdão recorrido contraria, em tese, o artigo 1.647, inciso III, do Código Civil e a Súmula n. 332 do Superior Tribunal de Justiça, segundo a qual "a fiança prestada sem autorização de um dos cônjuges implica a ineficácia total da garantia".
+A questão, portanto, merece melhor aclaramento, com retorno dos autos ao primeiro grau de jurisdição, para que se aperfeiçoe a citação da parte embargada, com estabelecimento do contraditório e produção das provas eventualmente necessárias ao julgamento do mérito do processo.
+No mais, é evidente o interesse de agir da parte que opõe embargos de terceiro para afastar a ameaça aos seus bens, diante da alegada nulidade da fiança prestada por seu cônjuge, com quem é casado sob o regime de comunhão de bens, sem autorização marital. De fato, não participou do processo, não podendo influenciar o convencimento do julgador e, assim, não sendo alcançada pelos limites subjetivos da coisa julgada formada.
+Nesse passo, o artigo 675 do Código de Processo Civil é claro ao admitir a oposição dos embargos de terceiro "a qualquer tempo no processo de conhecimento enquanto não transitada em julgado a sentença e, no cumprimento de sentença ou no processo de execução, até 5 (cinco) dias depois da adjudicação, da alienação por iniciativa particular ou da arrematação, mas sempre antes da assinatura da respectiva carta".
+No caso, os embargos de terceiro foram opostos quando em curso a fase de cumprimento de sentença. Logo, dentro do prazo previsto pelo legislador, não se sustentando a sentença que reconheceu a falta de interesse de agir e o acórdão que a manteve.
+Em face do exposto, conheço do agravo e dou provimento ao recurso especial, para reformar a sentença que julgou extinto o processo, sem resolução do mérito, determinando o retorno do seu prosseguimento em primeiro grau de jurisdição, com citação da parte embargada.
+Intimem-se.
+EMENTA
