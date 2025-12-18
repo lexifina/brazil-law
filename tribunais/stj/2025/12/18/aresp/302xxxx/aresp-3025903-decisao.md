@@ -1,0 +1,27 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por GIANCARLO PERUFFO contra decisão que inadmitiu recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional..
+Agravo em recurso especial interposto em: 10/7/2025.
+Concluso ao gabinete em: 10/11/2025.
+Ação: de obrigação de fazer c/c compensação por danos morais, ajuizada por GIANCARLO PERUFFO, em face de BRADESCO SAUDE S A, na qual requer o reembolso das despesas médicas no valor de R$ 73.750,00 (setenta e três mil e setecentos e cinquenta reais) e a compensação por danos morais de R$ 40.000,00 (quarenta mil reais).
+Sentença: julgou procedentes os pedidos, para: i) condenar o requerido a restituir R$ 73.750,00 (setenta e três mil e setecentos e cinquenta reais), referente ao reembolso integral das despesas médicas comprovadamente pagas; ii) condenar o requerido ao pagamento de compensação por danos morais de R$ 40.000,00 (quarenta mil reais).
+Acórdão: deu provimento ao recurso de apelação interposto por BRADESCO SAUDE S A, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZATÓRIA. REEMBOLSO. PLANO DE SAÚDE. SENTENÇA DE PROCEDÊNCIA CONDENANDO O RÉU AO REEMBOLSO INTEGRAL E INDENIZAÇÃO POR DANOS MORAIS EM R$40.000,00 (QUARENTA MIL REAIS). INSURGÊNCIA DA SEGURADORA. AUTOR DIAGNOSTICADO COM ARTRODESE COLUNA DORSAL D1 A D4, METÁSTASE DE COLUNA E DEISCÊNCIA DE FERIDA OPERATÓRIA QUE LIVREMENTE OPTOU POR SE DESLOCAR DA CIDADE DE RESENDE À CASA DE SAÚDE DE SÃO VICENTE DA GÁVEA PARA REALIZAÇÃO DE PROCEDIMENTO COM PROFISSIONAIS NÃO CREDENCIADOS DO PLANO. DESCARACTERIZADA URGÊNCIA/EMERGÊNCIA. EXISTÊNCIA DE PROFISSIONAIS NA REDE. REEMBOLSO QUE NÃO É INTEGRAL, MAS NOS LIMITES CONTRATUAIS. DANO MORAL INEXISTENTE. SENTENÇA QUE DEVE SER REFORMADA. PROVIMENTO DO RECURSO. (e-STJ fl. 179)
+Recurso especial: alega violação dos arts. 12, VI, da Lei 9.656/98, e 14, § 3º, do CDC, bem como dissídio jurisprudencial. Afirma que o reembolso é devido quando demonstradas a urgência/emergência e a impossibilidade de uso da rede credenciada, não sendo a distância percorrida critério legal para afastar a urgência. Aduz que cabe ao fornecedor comprovar a suficiência da rede credenciada para atendimento tempestivo e especializado, ônus não satisfeito, o que impõe o reembolso nos limites legais.
+RELATADO O PROCESSO, DECIDE-SE.
+- Reembolso de despesas médico-hospitalares. Da orientação consolidada pelo Superior Tribunal de Justiça
+A 2ª Seção do STJ, por ocasião do julgamento do EAREsp 1.459.849/ES, DJe 17/12/2020, consolidou o entendimento de que o reembolso das despesas médico-hospitalares efetuadas pelo beneficiário com tratamento/atendimento de saúde fora da rede credenciada pode ser admitido somente em hipóteses excepcionais, tais como a inexistência ou insuficiência de estabelecimento ou profissional credenciado no local e urgência ou emergência do procedimento, e limitado ao valor da tabela do plano de saúde contratado.
+Verifica-se que a hipótese narrada pelo acórdão recorrido não se amolda às excepcionalidades previstas no art. 12, VI, da Lei 9.656/98, quais sejam, emergência ou urgência do procedimento, e ausência de rede credenciada apta a realizar o procedimento, pois "ainda que se evidencie eventual especificidade técnica no procedimento, o autor não comprovou urgência ou emergência, pelo contrário, enquanto o réu, por sua vez, demonstrou a vasta existência de profissionais da rede credenciada aptos" (e-STJ, fls. 185).
+Inviável, portanto, reembolso/custeio pretendido.
+Logo, estando o acórdão recorrido em desacordo com a jurisprudência do STJ, de rigor sua reforma.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à existência de rede credenciada apta ao atendimento do paciente, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, majoro em 5% os honorários fixados anteriormente.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C COMPENSAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. REALIZAÇÃO DE CIRURGIA FORA DA REDECREDENCIADA. URGÊNCIA OU EMERGÊNCIA NÃO CARACTERIZADAS. EXISTÊNCIA DE REDE CREDENCIADA. REEMBOLSO INTEGRAL INCABÍVEL. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de obrigação de fazer c/c compensação por danos morais.
+2. A Segunda Seção firmou entendimento de que o reembolso das despesas médico-hospitalares efetuadas pelo beneficiário com tratamento/atendimento de saúde fora da rede credenciada pode ser admitido somente em hipóteses excepcionais, tais como a inexistência ou insuficiência de estabelecimento ou profissional credenciado no local e urgência ou emergência do procedimento, limitado ao valor da tabela do plano de saúde contratado (EAREsp 1.459.849/PR, DJe de 17/12/2020).
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. Agravo conhecido. Recurso especial parcialmente conhecido e desprovido.
