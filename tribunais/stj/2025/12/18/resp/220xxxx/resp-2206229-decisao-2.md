@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto por FELICIANO DA SILVA GUIMARAES, JACINTO DA SILVA GUIMARAES, JOAO DA SILVA GUIMARAES, JOAQUIM DA SILVA GUIMARAES, JOSE DA SILVA GUIMARAIS, MARIA DA SILVA GUIMARAES, MARIANO DA SILVA GUIMARAES, NELI DA SILVA GUIMARÃES, PEDRO DA SILVA GUIMARAES e REGINA GUIMARAES DOS SANTOS contra decisão que inadmitiu o recurso especial em razão da incidência da Súmula n. 7/STJ (fls. 1.202-1.206).
+O acórdão recorrido encontra-se assim ementado (fls. 982-983):
+APELAÇÃO CÍVEL. AÇÃO REIVINDICATÓRIA. DIREITO CIVIL. IMÓVEL RURAL. PROPRIEDADE E POSSE INJUSTA. COMPROVAÇÃO. IMISSÃO NA POSSE DO LEGÍTIMO PROPRIETÁRIO DA COISA. OBSERVÂNCIA. RECURSO CONHECIDO E IMPROVIDO. 1. A ação reivindicatória discute o domínio e, para sua procedência, deve o autor provar a propriedade do bem ou coisa e que a posse exercida por terceiro é injusta, caracterizada como violenta, clandestina e precária. 2. A comprovação da propriedade do imóvel rural, ante as certidões de matrícula, memorial descritivo e testemunhas, e da posse injusta, pela recusa na restituição, confere direito à imissão na posse da coisa reclamada. 3. Recurso admitido e improvido, nos termos do voto prolatado. Honorários, nesta instância recursal, majorados para 15%.
+Os embargos de declaração foram acolhidos, por maioria e com efeitos modificativos, por meio de acórdão assim ementado (fls. 1.086-1.087):
+EMBARGOS DE DECLARAÇÃO EM APELAÇÃO. AÇÃO REIVINDICATÓRIA. IMÓVEL RURAL. DESCRIÇÃO MINUCIOSA E EXATA DA ÁREA LITIGIOSA. CONTRADIÇÃO. GEORREFERENCIAMENTO DA ÁREA. IMPRESCINDIBILIDADE. SENTENÇA DESCONSTITUÍDA. EFEITOS INFRINGENTES. RECURSO PROVIDO. Impõe-se o acolhimento dos embargos de declaração, com efeitos infringentes, a fim de suprir o vício apontado, diante da contradição no julgado embargado, uma vez que parte embargada não logrou êxito em apresentar uma descrição minuciosa e exata da área litigiosa, limitando-se a informações genéricas que não permitem a precisa identificação dos limites do imóvel, de modo que a desconstituição da sentença a fim de determinar que a área em litígio seja submetida ao procedimento de georreferenciamento, a ser realizado por profissional habilitado, conforme as normas do Instituto Nacional de Colonização e Reforma Agrária (INCRA), é medida adequada.
+Nas razões do recurso especial (fls. 1.105-1.119), interposto com fundamento no art. 105, III, "a", da CF, a parte recorrente alegou violação dos dispositivos legais dos arts. 172 e 225 da Lei n. 6.015/1973, porquanto "não há o que se questionar quanto as delimitações do imóvel rural, uma vez que o mesmo esta devidamente registrado junto ao CRI competente" (fl. 1.114).
+No agravo (fls. 1.232-1.246), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (fls. 1.253-1.259).
+É o relatório.
+Decido.
+Quanto à alegação de violação dos arts. 172 e 225 da Lei n. 6.015/1973, não houve pronunciamento do Tribunal a quo sobre essa questão, nem a Corte local foi instada a fazê-lo por via de embargos declaratórios, circunstância que impede o conhecimento da insurgência por falta de prequestionamento.
+Assim, devem ser aplicadas ao caso as Súmulas n. 282 e 356 do STF.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Incabível a aplicação do art. 85, § 11, do CPC/2015, tendo em vista a desconstituição da sentença de mérito pelo acórdão recorrido, não havendo, ainda, sucumbência estabelecida.
+Publique-se e intimem-se.
+EMENTA
