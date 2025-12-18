@@ -1,0 +1,80 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Carlos Pires Brandão votaram com o Sr. Ministro Relator.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO TENTADO. TENTATIVA. FRAÇÃO. CRITÉRIO IDÔNEO. SÚMULA N. 83 DO STJ. REANÁLISE DO ITER CRIMINIS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL IMPROVIDO.
+1. "No que diz respeito à diminuição da sanção em face da tentativa, sabe-se que o quantum de redução deve observar o iter criminis percorrido pelo agente, de modo que quanto mais próximo houver chegado da consumação do delito, menor será a redução da sua reprimenda" (AgRg no HC n. 1.002.671/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/8/2025, DJEN de 18/8/2025).
+2. O Tribunal de origem, ao proferir o acórdão impugnado pelo recurso especial, firmou sua conclusão com base nos fatos e nas provas dos autos.
+3. A pretensão do recurso especial demandaria afastar os motivos concretos do Tribunal de origem para utilizar a fração da redução pela tentativa em 1/3, tendo em vista o iter criminis percorrido.
+4. O pedido, portanto, envolve a revisitação das premissas fático-processuais cristalizadas pelas instâncias ordinárias, o que impede o conhecimento do recurso especial nesta instância, nos termos da Súmula n. 7 do STJ.
+5. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ANDRÉ VITOR BEZERRA contra a decisão que conheceu do agravo e não conheceu do recurso especial, ante os óbices referidos nas Súmulas n. 7 e 83 do STJ.
+A parte recorrente argumenta (fls. 555-558):
+Quanto à Súmula n. 7/STJ, frisa-se que é desnecessária a revisão do conjunto probatório dos autos, vez que todas as premissas (exclusivamente de direito) ficaram expressamente consignadas em Acórdão. Inclusive, o excerto colacionado pelo próprio Ministro Relator, na decisão ora agravada, é suficiente para apreciar o debate em comento, veja-se:
+ ..
+Note-se que, com a simples apreciação do Acórdão, pode-se promover nova qualificação jurídica, diferente daquela adotada pelo Tribunal Potiguar. Isto é, a mera análise da decisão colegiada já demonstra que: (i) o ofendido sofreu lesão de natureza leve; (ii) que o agravante sequer percorreu todo o inter criminis - apenas parte dele. Assim, fica evidente que o decisum, na eleição do quantum de redução, deixou de considerar a proximidade com o evento morte.
+ ..
+Noutro norte, cuidou-se em demonstrar que o debate em apreço não se tratava de orientação firmada, eis que se pretende reconhecer que o Acórdão conferiu interpretação divergente ao art. 14, II, Código Penal da que foi atribuída por outros Tribunais (inclusive do STJ).
+A distância percorrida no iter criminis não é o único fator a ser considerado na escolha da redução pela tentativa. A proximidade do resultado almejado (neste caso, da morte da vítima) também é levado em consideração. Esse é o entendimento consolidado pela jurisprudência pátria (inclusive o STJ), razão pela qual não há que se falar em óbice da Súmula n. 83/STJ. É o que se extrai dos seguintes excertos das razões recursais:
+ ..
+E, conforme já mencionado, ainda que se entenda que, pelo fato de a vítima ter sido atingida por disparo de arma de fogo (embora ele não tenha tornado o fato mais próximo da consumação), não caberia a redução no máximo de 2/3, pertinente seria um patamar intermediário (por exemplo, 3/5). Novamente, extrai-se das razões recursais o seguinte precedente:
+ ..
+Ao colacionar os julgados, realizando o cotejo analítico com os argumentos do Acórdão, a Defesa demonstrou que o debate não possui entendimento consolidado, sobretudo porque, conforme se observa, a própria Corte Cidadã possui precedentes que, mesmo com o inter criminis integralmente percorrido, a fração de redução pela tentativa pode ser maior do que 1/3, em caso de não haver proximidade com o evento morte.
+Requer a reconsideração da decisão agravada e, em caso negativo, o provimento do agravo regimental, com os consequentes conhecimento e provimento do recurso especial.
+É o relatório.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO TENTADO. TENTATIVA. FRAÇÃO. CRITÉRIO IDÔNEO. SÚMULA N. 83 DO STJ. REANÁLISE DO ITER CRIMINIS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL IMPROVIDO.
+1. "No que diz respeito à diminuição da sanção em face da tentativa, sabe-se que o quantum de redução deve observar o iter criminis percorrido pelo agente, de modo que quanto mais próximo houver chegado da consumação do delito, menor será a redução da sua reprimenda" (AgRg no HC n. 1.002.671/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/8/2025, DJEN de 18/8/2025).
+2. O Tribunal de origem, ao proferir o acórdão impugnado pelo recurso especial, firmou sua conclusão com base nos fatos e nas provas dos autos.
+3. A pretensão do recurso especial demandaria afastar os motivos concretos do Tribunal de origem para utilizar a fração da redução pela tentativa em 1/3, tendo em vista o iter criminis percorrido.
+4. O pedido, portanto, envolve a revisitação das premissas fático-processuais cristalizadas pelas instâncias ordinárias, o que impede o conhecimento do recurso especial nesta instância, nos termos da Súmula n. 7 do STJ.
+5. Agravo regimental improvido.
+VOTO
+O conhecimento da matéria que se pretende devolver em recurso especial ao Superior Tribunal de Justiça exige que a manifestação desta Corte Superior se restrinja à aplicação do direito em tese, observadas as premissas fático-processuais cristalizadas pelas instâncias ordinárias.
+Essa é a razão de ser da Súmula n. 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial", uma vez que a competência outorgada pela Constituição Federal ao Superior Tribunal de Justiça referente à análise do recurso especial se restringe à apreciação de questões de direito, inviabilizando a reavaliação dos fatos e das provas apurados no processo.
+O recurso especial, assim, tem por finalidade garantir a uniformidade da interpretação da lei federal, limitando-se à verificação abstrata de sua aplicação ou interpretação pelos tribunais de origem, medida inviável quando a pretensão recursal demandar, ainda que de modo sutil, a análise das conclusões fático-processuais emprestadas pelas instâncias ordinárias, soberanas na apreciação das provas.
+No caso dos autos, no recurso especial, objetiva-se modificar o julgado, com a aplicação da fração máxima de 2/3 incidente nos crimes tentados em razão do percurso do crime.
+A pretensão, contudo, não se resume à mera aplicação do direito aos aspectos fáticos delineados no acórdão recorrido, pois o acolhimento do recurso especial dependeria do reexame fático-probatório.
+Observa-se que, ao aplicar a minorante pela tentativa, o Tribunal de Justiça assim justificou a fração de 1/3 adotada (fl. 453):
+Também o pedido de incidência de patamar maior de diminuição em razão da incidência da tentativa, nos termos do art. 14, II, do Código Penal, não deve ser acolhido.
+A aplicação da fração de diminuição da tentativa deve ser calculada a partir do quão próximo o agente chegou do resultado que pretendia. Em outras palavras, quanto maior o "iter criminis" percorrido, menor será a fração de diminuição da tentativa.
+No caso em análise, restou comprovado que a vítima foi alvo de diversos disparos de arma efetuados pelo réu, foi atingida por um deles, na região do abdômen, conforme atestado no laudo de ID. 26229946, p. 21, e somente não foi atingida mais vezes porque conseguiu empreender fuga do local e se esconder em um terreno baldio. Em que pese o laudo de exame de corpo de delito atestar que o ofendido sofreu lesão de natureza leve, não há razão para diminuir a fração correspondente à tentativa, vez que comprovado que o réu, de fato, atingiu a vítima, alcançando, pois, o seu objetivo primórdio, e o resultado apenas não se consumou porque, para além da autodefesa da vítima, um terceiro não identificado reagiu aos disparos.
+Dessa forma, comprovado que o resultado pretendido apenas não foi atingido porque houve interferência de terceiros, e que o réu percorreu parte significante do "iter criminis", já que conseguiu atingir o ofendido em região que pode levar ao resultado morte, idônea a aplicação da fração no patamar de 1/3 (um terço).
+Verifica-se dos autos que a adoção da fração de diminuição da pena pela tentativa considerou o caminho percorrido pelo crime, providência que encontra respaldo na jurisprudência dos Tribunais Superiores.
+A pretensão do recurso especial, portanto, esbarra no óbice mencionado da Súmula n. 7 do STJ, tornando-se inviável sua apreciação nesta instância, por demandar novo juízo de valor sobre o contexto probatório, nos termos da pacífica jurisprudência deste Tribunal Superior. A propósito (destaque próprio):
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ORGANIZAÇÃO CRIMINOSA ARMADA. INSUFICÊNCIA DA PROVA DA AUTORIA DELITIVA. VERIFICAÇÃO. SÚMULA N. 7 DO STJ. DOSIMETRIA. FUNDAMENTAÇÃO IDÔNEA. INCOMPETÊNCIA DO JUÍZO. MATÉRIA NÃO PREQUESTIONADA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A pretensão absolutória, baseada em alegações de insuficiência da prova judicializada da autoria delitiva, implicaria a necessidade de reexame de fatos e de provas, procedimento vedado, em recurso especial, pelo disposto na Súmula n. 7 do STJ.
+ ..
+5. Agravo regimental não provido.
+(AgRg no AREsp n. 2.467.045/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 10/9/2024, DJe de 18/9/2024.)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O NARCOTRÁFICO. PLEITO ABSOLUTÓRIO. NECESSIDADE DE REEXAME DE PROVA. ÓBICE NA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. RECONHECIMENTO DO TRÁFICO PRIVILEGIADO. INCOMPATIBILIDADE COM A CONDENAÇÃO POR ASSOCIAÇÃO PARA O NARCOTRÁFICO. DEDICAÇÃO À ATIVIDADES CRIMINOSAS. HABEAS CORPUS DE OFÍCIO. INICIATIVA DO JULGADOR. FLAGRANTE ILEGALIDADE NÃO EVIDENCIADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Tendo as instâncias ordinárias demonstrado a existência de provas acerca da autoria e materialidade dos delitos de tráfico de drogas e associação para o narcotráfico, é certo que para se concluir de modo diverso, seria necessário o revolvimento fático-probatório, vedado conforme Súmula n. 7 do Superior Tribunal de Justiça - STJ.
+2. Conforme sedimentado na jurisprudência desta Corte Superior, a causa de diminuição prevista no art. 33, §4º, da Lei n. 11.343/2006 é incompatível com a condenação pela prática do crime de associação para o narcotráfico, pois evidenciada a dedicação a atividades criminosas.
+3. Com lastro na interpretação sistemática dos arts. 647-A e 654, § 2º, ambos do CPP, esta Corte Superior entende que a concessão da ordem de ofício é de iniciativa exclusiva do julgador, quando se deparar com flagrante ilegalidade em procedimento de sua competência. Todavia, não se vislumbra essa conjuntura na hipótese.
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.565.957/TO, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 9/9/2024, DJe de 11/9/2024.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. CRIME DE FURTO. DESCLASSIFICAÇÃO DA CONDUTA. AUSÊNCIA DE VIOLÊNCIA E/OU GRAVE AMEAÇA. DESCABIMENTO. REVOLVIMENTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+1. O crime tipificado no art. 157 do Código Penal diverge do descrito no art. 155 do Código Penal em razão do emprego de violência, física ou moral, dirigida contra o detentor da coisa, ou seja, contra pessoa.
+2. Na ação delitiva, as instâncias de origem, ao reconhecerem o crime de furto, concluíram que a violência foi direcionada exclusivamente contra a res.
+3. Rever o entendimento externado pela instância ordinária para reconhecer as elementares do crime de roubo implicaria necessário reexame de provas, o que não se admite na via do recurso especial, tendo em vista o óbice da Súmula 7 desta Corte. Precedentes (AgRg no AREsp n. 332.612/MG, Ministro Nefi Cordeiro, Sexta Turma, DJe 6/12/2016).
+4. Agravo regimental improvido.
+(AgRg no AREsp n. 2.515.441/RN, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 23/4/2024, DJe de 30/4/2024.)
+No mesmo sentido: AgRg no AREsp n. 1.842.117/DF, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 10/10/2023, DJe de 18/10/2023; AgRg nos EDcl no AgRg no AREsp n. 2.556.734/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 27/8/2024, DJe de 30/8/2024; e AgRg no AREsp n. 1.828.230/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 18/6/2024, DJe de 20/6/2024.
+O acolhimento da tese recursal, em suma, demandaria o revolvimento do acervo fático-probatório dos autos, assim como a alteração das premissas estabelecidas pelo acórdão recorrido, o que é inviável no recurso especial, conforme esclarecido na Súmula n. 7 do STJ.
+Ademais, a conclusão do Tribunal de origem está em consonância com o entendimento des ta Corte Superior, motivo da incidência do óbice da Súmula n. 83 do STJ.
+A propósito:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. PRELIMINARES. AUSÊNCIA DE PREQUESTIONAMENTO. AUSÊNCIA DE ANIMUS NECANDI E RECONHECIMENTO DE QUALIFICADORAS MANIFESTAMENTE CONTRÁRIAS À PROVA DOS AUTOS. ESCOLHA POR UMA DAS TESES APRESENTADAS EM PLENÁRIO. DOSIMETRIA. FRAÇÃO DE AUMENTO DA PENA-BASE. POSSIBILIDADE DE APLICAÇÃO DE FRAÇÃO SUPERIOR. FUNDAMENTAÇÃO CONCRETA. PLURALIDADE DE QUALIFICADORAS. DESLOCAMENTO DE QUALIFICADORAS REMANESCENTES. POSSIBILIDADE. FRAÇÃO DA REDUÇÃO PELA TENTATIVA. CRITÉRIO IDÔNEO. REANÁLISE DO ITER CRIMINIS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. A PRESENÇA DE CIRCUNSTÂNCIAS JUDICIAIS NEGATIVAS JUSTIFICAM O REGIME DE CUMPRIMENTO DE PENA MAIS GRAVOSO. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+5. No que diz respeito à diminuição da sanção em face da tentativa, sabe-se que o quantum de redução deve observar o iter criminis percorrido pelo agente, de modo que quanto mais próximo houver chegado da consumação do delito, menor será a redução da sua reprimenda.
+6. Encontrando-se a fração da redução pela tentativa fundamentada em circunstâncias concretas, para acolher a pretensão de alterar o percentual de diminuição da pena seria necessário reapreciar todo o conjunto fático-probatório dos autos, providência vedada pela Súmula n. 7/STJ.
+7. O Tribunal de origem, a fim de justificar o regime mais gravoso, ressaltou que as "circunstâncias judiciais são altamente desfavoráveis, cabendo ressaltar que a vítima foi tomada de surpresa, sendo-lhe desferidas tesouradas contra o rosto, que só não a levaram à morte em razão de seus clamores por ajuda e do rápido socorro que lhe foi prestado, tudo, segundo decidiu o Conselho de Sentença, mediante promessa de recompensa, motivada por vingança em razão de suspeita relação amorosa entre a vítima e o marido da ré Tassia Zanobi dos Santos".
+8. Agravo regimental desprovido.
+(AgRg no HC n. 1.002.671/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/8/2025, DJEN de 18/8/2025.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO TENTADO. CONDENAÇÃO AMPARADA PELO CONJUNTO PROBATÓRIO CONSTANTE DOS AUTOS. SOBERANIA DOS VEREDITOS. FRAÇÃO DE DIMINUIÇÃO DA PENA PELA TENTATIVA. MAIOR PROXIMIDADE DA CONSUMAÇÃO DO CRIME. INDENIZAÇÃO POR DANOS MORAIS. VALOR ADEQUADO. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. A escolha da fração de diminuição de 1/3 encontra amparo no iter criminis percorrido pelo agente, o qual praticou todos os atos executórios e apenas não consumou o delito por motivos alheios à sua vontade.
+ ..
+(AgRg no AREsp n. 2.643.768/TO, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/5/2025, DJEN de 19/5/2025.)
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
