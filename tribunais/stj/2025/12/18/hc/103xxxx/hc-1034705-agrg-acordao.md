@@ -1,0 +1,91 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, não conhecer do agravo regimental.
+Os Srs. Ministros Messod Azulay Neto, Maria Marluce Caldas, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito Processual Penal. Agravo Regimental NO Habeas Corpus. Afastamento da minorante do tráfico privilegiado e desclassificação da conduta. fundamentos não impugnados. Agravo não conhecido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que indeferiu liminarmente habeas corpus, sob o fundamento de ausência de constrangimento ilegal quanto ao afastamento da minorante do tráfico privilegiado e da desclassificação da conduta imputada ao agravante.
+2. A defesa alegou a necessidade de aplicação retroativa do Tema n. 1.139 do STJ, sob pena de violação ao princípio da presunção de não culpabilidade, e, subsidiariamente, pleiteou a desclassificação da conduta de tráfico para uso pessoal de entorpecentes.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se o agravo regimental pode ser conhecido, considerando a ausência de impugnação específica dos fundamentos da decisão agravada, e se há constrangimento ilegal quanto ao afastamento da minorante do tráfico privilegiado e à desclassificação da conduta imputada ao agravante.
+III. Razões de decidir
+4. A decisão agravada indeferiu liminarmente o habeas corpus com base na harmonia entre o acórdão recorrido e a jurisprudência do STJ quanto à irretroatividade de alteração jurisprudencial para hipóteses de sentença condenatória transitada em julgado, afastando a aplicação do Tema n. 1.139 do STJ ao caso.
+5. A tese de desclassificação da conduta do agravante foi rechaçada com fundamentação idônea, baseada em depoimentos de autoridades policiais e na confissão do agravante, que demonstraram o intuito mercantil na conduta do paciente; bem como na inadequação da via eleita pelo impetrante para reexame do ponto controvertido.
+6. No presente agravo regimental, a defesa limitou-se a reprisar os argumentos meritórios já expostos na petição inicial, não rebatendo os óbices mencionados, concreta e especificamente, de acordo com a hipótese dos autos.
+7. O óbice de conhecimento do mandamus fundado na harmonia de orientação entre o decidido no acórdão impugnado e a jurisprudência desta Corte Superior deve ser impugnado por meio de efetiva demonstração, pelo agravante, de que os precedentes indicados na decisão recorrida são inaplicáveis ao caso concreto, com respectiva indicação de julgados contemporâneos ou supervenientes aos colacionados na decisão, a fim de comprovar ser outro o entendimento jurisprudencial do Superior Tribunal de Justiça - STJ acerca do ponto. Precedentes.
+8. A jurisprudência deste Superior Tribunal de Justiça - STJ orienta que a ausência de impugnação aos fundamentos da decisão impugnada atrai a incidência da Súmula n. 182/STJ.
+IV. Dispositivo e tese
+9. Resultado do Julgamento: Agravo regimental não conhecido.
+Tese de julgamento: 1. A irretroatividade de alteração jurisprudencial consolidada em sede de recurso repetitivo é aplicável às hipóteses em que já tenha sido proferida sentença condenatória transitada em julgado. 2. O habeas corpus não se presta para o reexame de conjunto fático-probatório, sendo inviável para apreciação de alegações que busquem absolvição ou desclassificação da conduta do paciente. 3. É inviável o agravo regimental que não ataca especificamente os fundamentos da decisão agravada, conforme disposto na Súmula n. 182 do STJ.
+Dispositivos relevantes citados: CF/1988, art. 127, § 1º; Lei n. 11.343/2006, art. 33, § 4º; Decreto-lei n. 552/69; CPC, art. 545; Súmula n. 182 do STJ.
+Jurisprudência relevante citada: STJ, AgRg no HC 959.510/PR, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 03.12.2024; STJ, AgRg no HC 522.303/MS, Rel. Min. Laurita Vaz, Sexta Turma, julgado em 23.02.2021; STJ, AgRg no HC 900.649/GO, Rel. Min. Messod Azulay Neto, Quinta Turma, julgado em 17.06.2024; STJ, AgRg no HC 747.786/SE, Rel. Min. Sebastião Reis Júnior, Sexta Turma, julgado em 24.06.2024.
+RELATÓRIO
+Trata-se de agravo regimental interposto por CARLOS HENRIQUE SOUSA SHWENDLER contra decisão de minha relatoria (fls. 468/477 ), que indeferiu liminarmente o habeas corpus, ante a ausência de constrangimento ilegal quanto ao afastamento da minorante do tráfico privilegiado e da desclassificação da conduta imputada ao agravante.
+Em suas razões, a defesa insiste na necessidade de aplicação do Tema n. 1.139 do STJ, de forma retroativa, sob pena de violação ao princípio da presunção de não culpabilidade; e, subsidiariamente, na desclassificação da conduta de tráfico para o uso pessoal de entorpecentes.
+Requer, assim, a reconsideração da decisão ou o julgamento pelo órgão colegiado.
+O Ministério Público Federal - MPF requereu a intimação do Parquet Estadual para apresentar contraminuta ao presente recurso (fl. 498).
+É o relatório.
+EMENTA
+Direito Processual Penal. Agravo Regimental NO Habeas Corpus. Afastamento da minorante do tráfico privilegiado e desclassificação da conduta. fundamentos não impugnados. Agravo não conhecido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que indeferiu liminarmente habeas corpus, sob o fundamento de ausência de constrangimento ilegal quanto ao afastamento da minorante do tráfico privilegiado e da desclassificação da conduta imputada ao agravante.
+2. A defesa alegou a necessidade de aplicação retroativa do Tema n. 1.139 do STJ, sob pena de violação ao princípio da presunção de não culpabilidade, e, subsidiariamente, pleiteou a desclassificação da conduta de tráfico para uso pessoal de entorpecentes.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se o agravo regimental pode ser conhecido, considerando a ausência de impugnação específica dos fundamentos da decisão agravada, e se há constrangimento ilegal quanto ao afastamento da minorante do tráfico privilegiado e à desclassificação da conduta imputada ao agravante.
+III. Razões de decidir
+4. A decisão agravada indeferiu liminarmente o habeas corpus com base na harmonia entre o acórdão recorrido e a jurisprudência do STJ quanto à irretroatividade de alteração jurisprudencial para hipóteses de sentença condenatória transitada em julgado, afastando a aplicação do Tema n. 1.139 do STJ ao caso.
+5. A tese de desclassificação da conduta do agravante foi rechaçada com fundamentação idônea, baseada em depoimentos de autoridades policiais e na confissão do agravante, que demonstraram o intuito mercantil na conduta do paciente; bem como na inadequação da via eleita pelo impetrante para reexame do ponto controvertido.
+6. No presente agravo regimental, a defesa limitou-se a reprisar os argumentos meritórios já expostos na petição inicial, não rebatendo os óbices mencionados, concreta e especificamente, de acordo com a hipótese dos autos.
+7. O óbice de conhecimento do mandamus fundado na harmonia de orientação entre o decidido no acórdão impugnado e a jurisprudência desta Corte Superior deve ser impugnado por meio de efetiva demonstração, pelo agravante, de que os precedentes indicados na decisão recorrida são inaplicáveis ao caso concreto, com respectiva indicação de julgados contemporâneos ou supervenientes aos colacionados na decisão, a fim de comprovar ser outro o entendimento jurisprudencial do Superior Tribunal de Justiça - STJ acerca do ponto. Precedentes.
+8. A jurisprudência deste Superior Tribunal de Justiça - STJ orienta que a ausência de impugnação aos fundamentos da decisão impugnada atrai a incidência da Súmula n. 182/STJ.
+IV. Dispositivo e tese
+9. Resultado do Julgamento: Agravo regimental não conhecido.
+Tese de julgamento: 1. A irretroatividade de alteração jurisprudencial consolidada em sede de recurso repetitivo é aplicável às hipóteses em que já tenha sido proferida sentença condenatória transitada em julgado. 2. O habeas corpus não se presta para o reexame de conjunto fático-probatório, sendo inviável para apreciação de alegações que busquem absolvição ou desclassificação da conduta do paciente. 3. É inviável o agravo regimental que não ataca especificamente os fundamentos da decisão agravada, conforme disposto na Súmula n. 182 do STJ.
+Dispositivos relevantes citados: CF/1988, art. 127, § 1º; Lei n. 11.343/2006, art. 33, § 4º; Decreto-lei n. 552/69; CPC, art. 545; Súmula n. 182 do STJ.
+Jurisprudência relevante citada: STJ, AgRg no HC 959.510/PR, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 03.12.2024; STJ, AgRg no HC 522.303/MS, Rel. Min. Laurita Vaz, Sexta Turma, julgado em 23.02.2021; STJ, AgRg no HC 900.649/GO, Rel. Min. Messod Azulay Neto, Quinta Turma, julgado em 17.06.2024; STJ, AgRg no HC 747.786/SE, Rel. Min. Sebastião Reis Júnior, Sexta Turma, julgado em 24.06.2024.
+VOTO
+Inicialmente, cumpre ressaltar a tempestividade do recurso, nos termos do art. 258, caput, do Regimento Interno do Superior Tribunal de Justiça - RISTJ, tendo em vista a ciência antecipada do causídico acerca da decisão impugnada, conforme certificado à fl. 478 dos autos.
+Esclareço, ainda, que, encaminhados os autos ao Ministério Público para manifestação sobre o recurso interposto, o Parquet Federal pediu a intimação do Ministério Público Estadual para contraminutar o agravo regimental.
+Não há previsão legal ou regimental de contrarrazões ao agravo regimental em habeas corpus, sendo prescindível a intimação do Ministério Público Estadual para apresentar resposta ao recurso da defesa.
+A intervenção do Ministério Público, órgão uno e indivisível (CF, art. 127, § 1º), nos procedimentos de habeas corpus nos tribunais, fundada no Decreto-lei n. 552/69, é efetivada pela concessão de oportunidade para manifestação do Subprocurador-Geral da República atuante nesta Corte Superior. É irrelevante, segundo a melhor exegese dos objetivos da norma, ser de custo s legis o perfil dessa atuação.
+Outrossim, verifica-se que o agravo regimental não merece conhecimento.
+A decisão agravada indeferiu liminarmente o habeas corpus, mediante os seguintes fundamentos:
+" ..
+Da leitura dos excertos, verifica-se que o fundamento principal utilizado pela Corte de origem para manter o afastamento da redutora de pena inerente ao tráfico privilegiado consistiu na inviabilidade de aplicação retroativa de entendimento jurisprudencial consolidado em sede de recurso repetitivo, após o trânsito em julgado da sentença condenatória.
+Com efeito, a tese segundo a qual "é vedada a utilização de inquéritos e /ou ações penais em curso para impedir a aplicação do art. 33, § 4º, da Lei n. 11.343 restou pacificada pela Terceira Seção do Superior Tribunal de Justiça, por ocasião/06" do julgamento do Recurso Especial Repetitivo n. 1.977.027/PR, ocorrido em .10/8/2022
+Na hipótese dos autos, todavia, a sentença condenatória - conquanto tenha afastado a incidência do § 4º, do art. 33, da Lei n. 11.343/2006, com fundamento na existência de "vasta relação de ações penais em curso" em desfavor do réu - foi proferida em 15/7/2019, ou seja, antes da uniformização da jurisprudência em relação ao tema.
+Logo, correta a orientação adotada pelo Tribunal de origem no sentido da irretroatividade da alteração jurisprudencial para as hipóteses em que já proferida sentença condenatória transitada em julgado.
+No mesmo sentido, confiram-se os recentes julgados:
+ ..
+Em relação à alegada necessidade de desclassificação da conduta do paciente, importa transcrever as seguintes passagens do acórdão recorrido (fls. 17/20):
+ ..
+Vê-se que a Corte estadual afastou a tese de desclassificação da conduta do paciente para aquela prevista no art. 28 da Lei de Drogas mediante fundamentação idônea, considerando as informações colhidas nos depoimentos das autoridades policiais que procederam a investigação criminal, que demonstram o intuito mercantil por parte do paciente.
+Além disso, como bem destacado pelo Tribunal a quo, os depoimentos prestados na fase inquisitorial foram devidamente ratificados em juízo, e possuem coerência com o acervo probatório existente, com destaque à própria confissão do paciente sobre a traficância e ausência de apreensão de qualquer apetrecho destinado ao consumo de entorpecentes - circunstâncias estas capazes de embasar a condenação criminal, e cuja oposição compete à defesa, que assim não procedeu.
+A jurisprudência desta Corte Superior pacificou orientação de que "o depoimento dos policiais prestado em Juízo constitui meio de prova idôneo a resultar na condenação do réu notadamente quando ausente qualquer dúvida sobre a imparcialidade dos agentes, cabendo à defesa o ônus de demonstrar a imprestabilidade da prova" - o que não ocorreu no presente caso (AgRg no HC n. 959.510/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 3/12/2024, DJe de 9/12/2024).
+Com igual orientação:
+ ..
+Vale ressaltar, ainda, que o habeas corpus não se presta para a apreciação de alegações que buscam a absolvição ou desclassificação da conduta do paciente, em virtude da necessidade de revolvimento do conjunto fático-probatório, o que é inviável na via eleita. A propósito:
+ ..
+Ausente, portanto, qualquer constrangimento ilegal que justifique a concessão da ordem de ofício." (fls. 475/477)
+Vê-se, portanto, que o indeferimento liminar do mandamus se deu com base nos seguintes fundamentos: (i) harmonia de entendimento entre o decidido no acórdão recorrido e a jurisprudência do STJ quanto à irretroatividade de alteração jurisprudencial para as hipóteses em que já proferida sentença condenatória transitada em julgado - o que afasta a aplicação do Tema n. 1.139 do STJ ao caso em apreço, e (ii) afastamento da tese desclassificatória com fundamentos idôneos e inadequação da via do habeas corpus para reexame do ponto controvertido.
+Do cotejo entre a decisão supracitada e as razões do agravo regimental, verifica-se que a irresignação esbarra em óbice formal intransponível, qual seja, ausência de impugnação específica das premissas adotadas para o indeferimento liminar do writ.
+Com efeito, ambos os fundamentos não foram impugnados concreta e especificamente, limitando-se a defesa a reprisar exatamente as mesmas argumentações meritórias indicadas na ação mandamental, com afirmação genérica de que a inaplicabilidade do Tema n. 1.139 do STJ implica em violação ao princípio da presunção de inocência, e que não há comprovação robusta sobre a mercancia dos entorpecentes apreendidos, em quantidade ínfima - o que, por certo, não comprova a ilegalidade flagrante apontada.
+Vale salientar que o óbice de conhecimento do mandamus fundado na harmonia de orientação entre o decidido no acórdão impugnado e a jurisprudência desta Corte Superior deve ser impugnado por meio de efetiva demonstração, pelo agravante, de que os precedentes indicados na decisão recorrida são inaplicáveis ao caso concreto, com respectiva indicação de julgados contemporâneos ou supervenientes aos colacionados na decisão, a fim de comprovar ser outro o entendimento jurisprudencial do Superior Tribunal de Justiça - STJ acerca do ponto controvertido - o que não ocorreu no caso ora examinado (AgRg no HC n. 522.303/MS, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 23/2/2021, DJe de 1º/3/2021).
+Desse modo, o agravo regimental apresentado não ultrapassa o juízo de admissibilidade em razão da incidência da Súmula n. 182 do STJ, que dispõe ser "inviável o agravo do art. 545 do Código de Processo Civil - CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Nesse sentido, citam-se os recentes julgados:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. TESE DE NULIDADE DA REVISTA PESSOAL E DA BUSCA DOMICILIAR. INOCORRÊNCIA. DENÚNCIAS E DILIGÊNCIAS PRÉVIAS. GRANDE QUANTIDADE DE DROGA APREENDIDA. REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA N. 182, STJ. AGRAVO DESPROVIDO.
+I - Nos termos da jurisprudência consolidada nesta Corte, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+II - No caso concreto, a abordagem inicial foi realizada em nítida situação de flagrância, após os policiais militares receberem denúncia de ocorrência de tráfico de drogas e realizarem uma averiguação preliminar. Precedentes.
+III - Assente nesta Corte Superior que o habeas corpus não se presta para a apreciação de alegações de negativa de autoria, em virtude da necessidade de revolvimento do conjunto fático-probatório, o que é inviável na via eleita. Precedentes.
+Agravo regimental desprovido.
+(AgRg no HC n. 900.649/GO, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 17/6/2024, DJe de 20/6/2024.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. WRIT SUBSTITUTIVO DE REVISÃO CRIMINAL. TRÁFICO DE DROGAS. PLEITO DE RECONHECIMENTO DO TRÁFICO PRIVILEGIADO. RAZÕES QUE NÃO INFIRMARAM TODOS OS FUNDAMENTOS DO DECISUM ATACADO. INCIDÊNCIA DO ENTENDIMENTO DA SÚMULA 182/STJ. AUSÊNCIA DE ILEGALIDADE FLAGRANTE. DECISÃO MANTIDA.
+1. Não infirmados especificamente todos fundamentos da decisão recorrida, é de ser negada a simples pretensão de reforma (Súmula 182 desta Corte). Precedente.
+2. No caso, não foi rebatido pela agravante o óbice referente à impossibilidade de conhecimento do writ por se tratar de substitutivo de revisional.
+3. No mais, reitero que o Tribunal de origem apontou a existência de outros elementos para afastar o tráfico privilegiado que não somente a quantidade de drogas, entendendo não se tratar de traficante ocasional.
+4. Mantido o óbice apontado na decisão monocrática, inexiste ilegalidade flagrante que justifique a concessão de habeas corpus de ofício e a superação do impedimento apontado.
+5. Na ausência de argumento apto a afastar as razões consideradas no julgado agravado, que está em sintonia com a jurisprudência desta Corte Superior de Justiça, deve ser mantida a decisão monocrática por seus próprios termos.
+6. Agravo regimental não conhecido.
+(AgRg no HC n. 747.786/SE, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 24/6/2024, DJe de 27/6/2024.)
+Ante o exposto, voto pelo não conhecimento do agravo regimental.
