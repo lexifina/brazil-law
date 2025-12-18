@@ -1,0 +1,84 @@
+DECISÃO
+Trata-se de agravo interposto por BRUNO RAFAEL DOS SANTOS em adversidade à decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, cuja ementa é a seguinte (e-STJ fl. 48):
+AGRAVO EM EXECUÇÃO PENAL INSURGÊNCIA DEFENSIVA. FALTA GRAVE. PRELIMINAR DE NULIDADE DA AUDIÊNCIA DE JUSTIFICAÇÃO. AUSÊNCIA DA ADVERTÊNCIA AO APENADO DO SEU DIREITO AO SILÊNCIO. REJEIÇÃO. Embora não haja notícia de eventual advertência quanto ao direito do apenado de permanecer em silêncio na audiência de justificação, não se constata qualquer prejuízo ao reeducando, uma vez que o apenado negou a prática da falta grave, tendo ele ressaltado não ter conhecimento dos fatos que lhe são imputados. Ademais, o reeducando estava acompanhado de seu defensor constituído na ocasião em que foi ouvido, não havendo notícia de que tenha havido impugnação à forma em que foi o ato praticado. Preliminar de nulidade rejeitada. RECONHECIMENTO DE FALTA GRAVE CONSISTENTE EM PRÁTICA DE N OVO CRIME NA EXECUÇÃO PENAL. DECISÃO MANTIDA. Conforme assentado pelos Tribunais Superiores e na trilha desta Corte, a prática de novo fato definido como crime doloso no curso da execução da pena consubstancia falta disciplinar de natureza grave, independentemente de trânsito em julgado das condenações relativas aos novos crimes, nos termos do Art. 52 da Lei de Execução Penal. AGRAVO EM EXECUÇÃO PENAL DESPROVIDO.
+Nas razões do recurso especial (e-STJ, fls. 58/69), fundado nas alíneas "a" e "c" do permissivo constitucional, sustenta a parte recorrente violação dos artigos 186 e 283 do CPP, bem como art. 118, inciso I, da LEP.
+Alega que foi violado o direito ao silêncio, na medida que o apenado foi indagado e confrontado sobre fatos que são apurados em ação penal própria, antes mesmo de lá serem produzidas as provas contra ele, para que possa produzir as provas de sua inocência e lá decidir se prestará sua versão sobre os fatos ou não. Aduz que na audiência de justificação na execução penal não teve a ciência do que se pretende provas contra ele, tampouco de ter a chance de analisar estas provas e decidir se pretende falar ou ficar em silêncio sobre os fatos ou não.
+Acusa, ainda, violação da presunção da inocência e do contraditório e ampla defesa, porque embora não desconheça o teor da Súmula 526 do STJ, o processo pelo qual responde o apenado não possui sentença condenatória ou fase de instrução finalizada, ficando inviabilizado o exercício da ampla defesa, na medida em que muitas vezes ele precisa esperar a produção de provas pelo Ministério Público lá na ação penal, para posteriormente dar sua versão, lógica que se inverte ao obrigá-lo a se defender no âmbito da execução penal antes de que possa fazê-lo na instrução processual criminal. Acrescenta que corre-se o risco de haver decisões conflitantes na execução penal e na Justiça criminal, de modo que o apenado arcaria com meses e até anos em regime mais gravoso, em decorrência de um crime que não cometeu.
+Apresentadas contrarrazões, o Tribunal a quo não admitiu o recurso especial, ensejando a interposição do presente agravo. O Ministério Público Federal manifestou-se pelo não conhecimento do agravo em recurso especial- STJ, fls. 70/81, 89/92 e 147/151.
+É o relatório. Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+O Juízo do 1º Juizado da VEC Regional da Comarca de Novo Hamburgo reconheceu a prática de falta grave consistente em cometimento de novo crime no curso da execução penal - STJ, fl. 44.
+O Tribunal, por sua vez, manteve esse reconhecimento, no seguintes termos - STJ, fls. 45/46:
+ ..
+Não prospera a preliminar de nulidade suscitada pela defesa técnica. O direito ao silêncio é previsto no Art. 5º, LXII da Constituição Federal.
+Tal garantia constitucional visa a assegurar ao acusado o direito de permanecer calado, e de, por conseguinte, não produzir prova contra si mesmo. Na jurisprudência do Superior Tribunal de Justiça, a não advertência sobre o direito ao silêncio constitui, em tese, nulidade relativa: "A nulidade relativa do depoimento sem advertência do direito ao silêncio requer demonstração de prejuízo" (AgRg no RHC n. 204.246/DF, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 27/11/2024, DJEN de 3/12/2024).
+No caso penal em atenção, em análise aos vídeos da audiência de justificação (seq. 379 do SEEU), embora não haja notícia de eventual advertência quanto ao direito do apenado de permanecer em silêncio, não se constata qualquer prejuízo ao reeducando. Isso porque o apenado negou a prática da falta grave, tendo ele ressaltado não ter conhecimento dos fatos que lhe são imputados.
+Nessa esteira cito julgado do Superior Tribunal de Justiça:
+ ..
+Ressalta-se, por oportuno, que o reeducando estava acompanhado de seu defensor constituído na ocasião em que foi ouvido, não havendo notícia de que tenha havido impugnação à forma em que foi o ato praticado, conforme se verifica do termo de audiência (seq. 379.1 do SEEU1).
+Diante do exposto, rejeito a preliminar de nulidade suscitada pela defesa.
+ ..
+Da análise dos autos, constata-se que Bruno foi denunciado pela prática de crimes de tráfico de drogas e lavagem de dinheiro cometidos, em tese, em 29/02/2024, durante, portanto, a execução da pena.
+Em consulta às movimentações constantes no sistema E-proc, nota-se que na ação penal, que tramita sob nº. 5116616-71.2024.8.21.0001, já houve o recebimento da denúncia (evento 7, DESPADEC1) e atualmente se encontra na fase de instrução criminal.
+Dito isso, é caso de reconhecimento de falta grave. Da leitura do Art. 52 da Lei de Execução Penal, constata-se a prescindibilidade de sentença condenatória, tampouco de trânsito em julgado relativo a eventual novo crime para que seja reconhecida a falta grave e se aplique os seus consectários legais.
+Nesse sentido é a Súmula nº 526 do Superior Tribunal de Justiça, que dispõe que o reconhecimento de falta grave decorrente do cometimento de fato definido como crime doloso no cumprimento da pena prescinde do trânsito em julgado de sentença penal condenatória no processo penal instaurado para apuração do fato.
+ ..
+Assim, no caso, está configurada a prática de falta grave consistente no cometimento de fato definido como crime doloso no curso da execução da penal, nos termos do Art. 52 da Lei de Execução Penal.
+Com razão a instância anterior.
+Embora o direito ao silêncio não tenha sido cientificado de forma expressa na audiência de justificação, o apenado nada disse sobre o crime, tendo negado o cometimento, ou seja, o direito ao silêncio acabou sendo utilizado pelo apenado, mesmo que ele não tenha sido alertado.
+Assim, não houve prejuízo para ele.
+Nesse sentido:
+DIREITO PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O MESMO FIM. NULIDADES. NÃO OCORRÊNCIA. BUSCA PESSOAL. FUNDADA SUSPEITA. INGRESSO FORÇADO EM DOMICÍLIO. FUNDADAS RAZÕES. AUSÊNCIA DE INFORMAÇÃO QUANTO AO DIREITO AO SILÊNCIO. NULIDADE RELATIVA. PREJUÍZO NÃO COMPROVADO. MATÉRIA QUE DEVE SER APRECIADA NA FASE DE SENTENÇA, APÓS INSTRUÇÃO PROBATÓRIA. PRISÃO PREVENTIVA. REVOGAÇÃO. IMPOSSIBILIDADE. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DO DELITO E RISCO DE REITERAÇÃO DELITIVA
+EVIDENCIADO.
+Recurso improvido.
+(RHC n. 218.230/GO, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 10/9/2025, DJEN de 16/9/2025.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. DIREITO AO SILÊNCIO. ABORDAGEM POLICIAL. FISCALIZAÇÃO DE TRÂNSITO. NULIDADE. COAÇÃO MORAL. REQUISITOS. PRISÃO PREVENTIVA. PREDICADOS PESSOAIS FAVORÁVEIS. QUANTIDADE DE DROGA. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+:
+1. Agravo regimental interposto contra decisão que denegou habeas corpus, mantendo a prisão preventiva de acusado por tráfico de drogas, com base no art. 33, caput, da Lei n. 11.343/06.
+2. Fato relevante. O agravante foi preso em flagrante com 894,29g de cocaína e 489,74g de crack, e a prisão foi convertida em preventiva. A defesa alega nulidade da abordagem policial e da entrevista sem advertência do direito ao silêncio, além de coação moral irresistível para o transporte das drogas.
+3. As decisões anteriores. A decisão agravada considerou regular a abordagem policial e a entrevista, sem comprovação de prejuízo. A coação moral não foi comprovada, e a prisão preventiva foi mantida com base na quantidade de drogas apreendidas e na necessidade de garantir a ordem pública.
+II. QUESTÃO EM DISCUSSÃO
+4. A questão em discussão consiste em saber se a prisão preventiva do agravante deve ser revogada, considerando as alegações de nulidade da abordagem policial, da entrevista sem advertência do direito ao silêncio, e de coação moral irresistível, além da análise dos requisitos para a manutenção da prisão preventiva.
+III. RAZÕES DE DECIDIR
+5. A ausência de advertência sobre o direito ao silêncio não gera nulidade sem comprovação de prejuízo, conforme jurisprudência.
+6. A abordagem foi considerada regular, no exercício de fiscalização de trânsito e do regular exercício do poder de polícia.
+7. A alegação de coação moral irresistível não foi comprovada, sendo ônus da defesa demonstrar tal situação.
+8. A prisão preventiva foi fundamentada na quantidade e natureza das drogas apreendidas, justificando a necessidade de garantir a ordem pública.
+9. Medidas cautelares alternativas foram consideradas insuficientes diante das circunstâncias do delito. IV. AGRAVO REGIMENTAL DESPROVIDO.
+(AgRg no HC n. 996.505/SP, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 3/9/2025, DJEN de 9/9/2025.)
+Também não há que falar em violação do contraditório e ampla defesa, uma vez que o apenado foi devidamente ouvido em audiência de justificação e na presença de defesa, mas a negativa do crime pelo apenado não convenceu o Juízo.
+Por último, não houve violação da presunção da inocência, uma vez que o crime ainda está sendo apurado na esfera criminal, ou seja, o executado ainda não foi condenado nem preso em razão de sua condenação, e sim regredido ao regime fechado por falta grave consistente em novo crime praticado durante o cumprimento de sua pena relativa a outra condenação.
+É que para a configuração de falta grave, basta a notícia de cometimento de crime, mesmo sem denúncia ou apuração ou condenação, uma vez que entre o direito individual do apenado de esperar a condenação e o direito coletivo da sociedade de correr o risco de convivência com um executado que, em tese, cometeu novo delito (existindo, em tese, a periculosidade), deve prevalecer o coletivo.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PRÁTICA DE NOVO CRIME. FALTA GRAVE. DISPENSA DE AUDIÊNCIA DE JUSTIFICAÇÃO COM PROGRESSÃO ANTECIPADA DE REGIME. ILEGALIDADE.
+1. A prática de crime doloso no curso da execução penal caracteriza falta grave, independentemente da instauração de inquérito policial ou do oferecimento de denúncia para apurar o feito, e sujeita o reeducando à aplicação de sanção disciplinar, independentemente do trânsito em julgado de eventual condenação criminal, bastando que se demonstre a existência de indícios de autoria e materialidade daquele ato.
+2. A jurisprudência do STJ cristalizada, inclusive, no enunciado da Súmula n. 526, é a de que "o reconhecimento de falta grave decorrente do cometimento de fato definido como crime doloso no cumprimento da pena prescinde do trânsito em julgado de sentença penal condenatória no processo penal instaurado para apuração do fato".
+3. No caso, não houve regressão do apenado em virtude da prática de falta grave. Ao contrário, foi deferida a progressão de regime antecipada, após a prática de fato definido como crime (tráfico de drogas), na mesma decisão em que dispensada a audiência de justificação. Somente após o provimento do agravo em execução ministerial, foi a progressão antecipada devidamente cassada.
+5. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 797.155/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 14/8/2023, DJe de 16/8/2023.)
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. CRIME DOLOSO. LESÕES CORPORAIS. RECONHECIMENTO. DESNECESSIDADE DE INÍCIO DA AÇÃO PENAL. INDEPENDÊNCIA DAS INSTÂNCIAS. AGRAVO NÃO PROVIDO.
+1. A prática de crime doloso no curso da execução penal caracteriza falta grave, independentemente da instauração de inquérito policial ou do oferecimento de denúncia para apurar o fato.
+2. Condicionar o reconhecimento da falta grave ao início da ação penal pública condicionada à representação implica submeter o interesse da Administração Penitenciária ao juízo de conveniência da vítima da conduta.
+3. Agravo regimental a que se nega provimento.
+(AgRg nos EDcl no HC n. 152.769/PR, relator Ministro Jorge Mussi, Quinta Turma, julgado em 19/11/2013, DJe de 27/11/2013.)
+Também não se corre o risco de haver decisões conflitantes no Juízo Criminal e na execução penal, tendo em vista a independência entre a esfera judicial e a administrativa, o que permite, em muitos casos, a absolvição penal e a condenação como falta grave na execução penal:
+Nesse sentido:
+HABEAS CORPUS. EXECUÇÃO PENAL. FALTA DISCIPLINAR DE NATUREZA GRAVE. TENTATIVA DE FUGA DO PRESÍDIO. PRÁTICA, EM TESE, DE CRIME DOLOSO (DESTRUIÇÃO DE PATRIMÔNIO PÚBLICO). ABSOLVIÇÃO NO JUÍZO CRIMINAL. AUSÊNCIA DE DOLO. REPERCUSSÃO NA ESFERA ADMINISTRATIVA. HABEAS CORPUS NÃO CONHECIDO.
+1. O Supremo Tribunal Federal, por sua Primeira Turma, e a Terceira Seção deste Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade. Esse entendimento objetivou preservar a utilidade e a eficácia do mandamus, que é o instrumento constitucional mais importante de proteção à liberdade individual do cidadão ameaçada por ato ilegal ou abuso de poder, garantindo a celeridade que o seu julgamento requer.
+2. Independências das instâncias: a absolvição criminal só afasta a responsabilidade administrativa e/ou civil quando restar proclamada a inexistência do fato ou de autoria, considerando a independência das três esferas de jurisdição.
+3. No caso concreto, o paciente foi absolvido por ausência de dolo, que não exclui a culpa administrativa e/ou civil, devendo o agente ser responsabilizado pela sua conduta ilícita.
+4. A independência mitigada das jurisdições permite o apenamento como infração disciplinar de fato objeto de absolvição penal, ressalvadas as hipóteses de negativa do fato ou da autoria. (MS 13.134/DF, Rel. Ministro NEFI CORDEIRO, TERCEIRA SEÇÃO, julgado em 23/09/2015, DJe 02/10/2015).
+5. Além do mais, a anotação administrativa também decorreu do fato de que o paciente tentou fugir do estabelecimento prisional, o que caracteriza, por si só, falta grave, nos termos do art. 50, II, da Lei de Execução Penal. Falta grave reconhecida em regular sindicância administrativa.
+6. Habeas corpus não conhecido.
+(HC n. 396.390/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 17/8/2017, DJe de 29/8/2017.)
+ADMINISTRATIVO. MANDADO DE SEGURANÇA. JUIZ DE DIREITO. PROCESSO ADMINISTRATIVO. INSTAURAÇÃO. SINDICÂNCIA. PROCEDIMENTOS SUMÁRIOS. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. OFERECIMENTO DE REPRESENTAÇÃO. SESSÃO DE DELIBERAÇÃO. NULIDADES. AUSÊNCIA. APOSENTADORIA.
+- A sindicância administrativa é meio sumário de investigação de irregularidades funcionais cometidas, sendo desprovida de procedimento formal e do contraditório, dispensando a defesa do indiciado e a publicação do procedimento.
+- Não há cerceamento de defesa, nem violação ao devido processo legal em razão da inexistência de sustentação oral na sessão de julgamento do processo administrativo, dispondo, neste particular, a Lei Complementar nº 35/79 - LOMAN - que o julgamento de processo administrativo pode ser realizado em sessão fechada, na qual não tenham acesso os indiciados (art. 27).
+- Tendo sido apurada em sindicância e posterior procedimento administrativo disciplinar, em que se assegurou o exercício pleno do direito de defesa, cometimento de falta grave o que incompatibiliza o magistrado para o desempenho do cargo, reveste-se de legalidade o ato administrativo que determinou a sua aposentadoria compulsória.
+- A vinculação da instância administrativa somente se verifica nas hipóteses em que a absolvição criminal reconhecer a inexistência do fato ou negar a autoria do crime.
+- Recurso ordinário desprovido.
+(RMS n. 2.530/PI, relator Ministro Vicente Leal, Sexta Turma, julgado em 5/6/2001, DJ de 25/6/2001, p. 231.)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Intimem-se.
+EMENTA
