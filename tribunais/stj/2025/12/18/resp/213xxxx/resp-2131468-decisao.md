@@ -1,0 +1,18 @@
+DECISÃO
+Em análise, recurso especial interposto pelo DEPARTAMENTO NACIONAL DE OBRAS CONTRA AS SECAS contra acórdão do Tribunal Regional Federal da 5ª Região assim ementado (fls. 244 - 245):
+PROCESSUAL CIVIL. APELAÇÃO. PRESCRIÇÃO DA PRETENSÃO HABILITATÓRIA. ÓBITO DA PARTE INSTITUIDORA ANTES DA EXECUÇÃO/CUMPRIMENTO DE SENTENÇA. NÃO OCORRÊNCIA. PRECEDENTES DO TRF5 E DO STJ.
+1. Trata-se de apelação interposta por DEPARTAMENTO NACIONAL DE OBRAS CONTRA AS SECAS - DNOCS, contra decisão do Juízo da 1ª Vara Federal da Seção Judiciária do Ceará que homologou a habilitação de HERMOSA RUTH GIRÃO DE ARAÚJO para prosseguir na causa; e determinou a expedição de requisitório em favor da herdeira habilitada (ID. 4058100.25230837).
+2. Alega a apelante, em síntese, que o falecimento do autor/ex-servidor ocorreu em 21.11.2006, enquanto que o pedido de habilitação somente ocorreu em 15.03.2022, ou seja, mais de 16 anos após o óbito, sendo patente a ocorrência da prescrição da pretensão executória, prevista no art. 1º, do Decreto n. 20.910/32, c/c arts. 196 a 199 do CC e da Súmula 150 do STF, a fulminar a pretensão executória da sucessora (ID. 4058100.25243719).
+3. A parte apelada nas contrarrazões defendeu que inexiste prescrição em decorrência da suspensão dos prazos processuais com a morte do servidor (ID. 4058100.25437954).
+4. Não assiste razão à apelante quanto à ocorrência da prescrição no fato de a norma hospedada nos arts. 921, I, e 313, I, ambos do CPC, determinar que a morte do autor/exequente acarreta a suspensão do processo, circunstância essa que impede o transcurso do prazo prescricional. Nessas condições, e por inexistir prazo fixado em lei para a habilitação dos sucessores, não há falar em prescrição intercorrente.
+5. O entendimento jurisprudencial no âmbito do STJ e desta Primeira Turma é no sentido de inocorrência de prescrição entre a data do óbito do autor da ação e a data de habilitação dos seus sucessores, ante o disposto no art. 313, I, do CPC/2015 (STJ, R Esp nº 1.657.663/PE, Rel. Min. Regina Helena Costa, Primeira Turma, D Je de 17/08/2017; STJ, R Esp nº 1.657.326/MG, Rel. Min. Herman Benjamin, Segunda Turma, D Je de 25/04/2017; TRF5, AG/PE nº 0815750-03.2018.4.05.0000, Rel. Des. Federal Roberto Machado, Primeira Turma, Julgamento: 21/02/2019; TRF5, AG/PE nº 0813656-82.2018.4.05.0000, Rel. Des. Federal Élio Siqueira Filho, Primeira Turma, Julgamento: 28/03/2019; TRF5, AG/PE nº 0815982-15.2018.4.05.0000, Rel. Des. Federal Convocado Leonardo Coutinho, Primeira Turma, Julgamento: 21/03/2019).
+6. Apelação improvida.
+Argumenta a parte recorrente, dentre outros pontos, a necessidade de suspensão do processamento do presente recurso em razão da afetação do Tema 1.254/STJ, defendendo, por fim, a irregularidade da habilitação a destempo e a prescrição da pretensão executória.
+É o relatório.
+Passo a decidir.
+Com efeito, no julgamento do Tema 1.254/STJ, para a Corte Especial do Superior Tribunal de Justiça a controvérsia a ser dirimida restou assim delimitada:
+Definir se ocorre ou não a prescrição para a habilitação de herdeiros ou sucessores da parte falecida no curso da ação.
+Desse modo, encontrando-se a matéria afetada ao rito dos repetitivos pelo STJ, por medida de economia processual e para evitar decisões dissonantes dentro desta Corte Superior, os recursos que tratam da mesma controvérsia aqui no STJ devem aguardar, no Tribunal de origem, a solução no recurso especial afetado, viabilizando, assim, o juízo de conformação, hoje disciplinado pelos arts. 1.039 e 1.040 do CPC/2015.
+Isso posto, determino a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que, em conformidade com a previsão do art. 1.040 do CPC/2015, aplique as medidas cabíveis ao caso.
+Intimem-se.
+EMENTA
