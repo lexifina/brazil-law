@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto pela ARMIX COMPRESSORES E EQUIPAMENTOS LTDA., com respaldo na alínea "a" do permissivo constitucional, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado (e-STJ fl. 37):
+EXECUÇÃO FISCAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. HONORÁRIOS. AÇÃO ORDINÁRIA. CUMULAÇÃO. DEFESA TÉCNICA. STJ. AGRAVO DESPROVIDO.
+1. No âmbito do Superior Tribunal de Justiça é firme o entendimento pela possibilidade de cumulação da verba de honorários fixada em execução fiscal com aquela arbitrada em ação conexa (embargos à execução/ação anulatória), a fim de remunerar a defesa técnica apresentada pelo advogado do executado em momento anterior ao cancelamento da CDA.
+2. Nesse contexto, a ausência de defesa técnica pelo representante da parte executada ao longo de toda execução e, em especial, em momento anterior à sentença que determinou a extinção do feito, incabível a cumulação de honorários.
+3. Negado provimento ao agravo de instrumento.
+Embargos de declaração rejeitados (e-STJ fls. 69/71).
+Em suas razões, a parte recorrente aponta violação do art. 22, e §2º, da Lei Federal n. 8.906/1994, do art. 85, e § 10º, do CPC/2015 e, por fim, do art. 133 da CF/1988, argumentando, em suma, que o trabalho do advogado é indispensável à administração da justiça, sendo que o não arbitramento da verba honorária na decisão recorrida demonstra desprestígio e desconsideração ao sublime trabalho. Aduz ser cumulável a condenação da verba honorária fixada em execução fiscal com aquela arbitrada em ação conexa.
+Contrarrazões às e-STJ fls. 104/114.
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fl. 117.
+Passo a decidir.
+No pertinente ao art . 133 da Constituição da República, cumpre salientar que o recurso especial não é remédio processual adequado para conhecer de irresignação fundada em suposta afronta a preceito constitucional, sendo essa atribuição da Suprema Corte, em sede de recurso extraordinário (art. 102, III, da CF/1988).
+No mais , o Tribunal de origem decidiu a controvérsia (e-STJ fl. 35):
+É firme no âmbito do Superior Tribunal de Justiça o entendimento de que é possível a cumulação da verba de honorários fixada em execução fiscal com aquela arbitrada em ação conexa (embargos à execução/ação anulatória), de forma relativamente autônoma, sendo vedada a sua compensação e desde que respeitados os limites percentuais e parâmetros previstos na legislação.
+Contudo, no julgamento do AgInt nos E Dcl no Agravo em Recurso Especial nº 1307787/MS, em fevereiro de 2021, o Ministro Relator Gurgel de Faria ressaltou que:
+(..) a jurisprudência desta Corte Superior, sopesando a necessidade de remunerar a defesa técnica apresentada pelo advogado do executado em momento anterior ao cancelamento da CDA, passou a admitir a fixação da verba honorária, pelo princípio da causalidade. (grifei)
+Com efeito, será possível a cumulação da verba de honorários quando, nos autos da execução fiscal o procurador da parte, por exemplo, apresenta defesa técnica. No presente caso, o que se depreende da análise dos autos originários da execução é que a atuação do representante da parte agravante limitou-se a juntar documentos de identificação do representante da empresa executada, requerer o cumprimento da sentença que determinou a extinção do feito e apresentar embargos de declaração no intuito de haver reconhecido direito aos honorários sucumbenciais. Assim, não é possível reconhecer atuação técnica do representante a fim de justificar a aplicação do entendimento da Corte Superior, isto é, a cumulação de verbas honorárias, devendo-se manter a decisão agravada.
+Constata-se claramente que a recorrente não se insurgiu contra todos os motivos que conferem sustentação jurídica ao aresto impugnado, especialmente no tocante à exceção consistente na ausência de defesa técnica, que afasta a regra geral da cumulatividade de honorários em execução fiscal e a ação que lhe é conexa, circunstância que atrai a aplicação da Súmula 283 do STF.
+Ademais, as razões recursais não explicam de que forma os dispositivos legais vieram a ser violados pelo entendimento adotado pelo acórdão recorrido. Incide, na espécie, o óbice contido na Súmula 284 do STF.
+Isso porque, não se verifica das razões recursais, a devida correlação entre o comando normativo inserto nos dispositivos e a argumentação indicada no apelo extremo - o que denota clara deficiência em sua fundamentação, a ponto de incidir o referido óbice processual.
+Sobre a questão:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL.  ..  DEFICIÊNCIA DE FUNDAMENTAÇÃO. APLICAÇÃO, POR ANALOGIA, DA SÚMULA N. 284/STF.  ..  AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. RAZÕES RECURSAIS DISSOCIADAS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DAS SÚMULAS N. 283 E 284/STF  ..
+II - A jurisprudência desta Corte considera deficiente a fundamentação do recurso quando os dispositivos apontados como violados não têm comando normativo suficiente para infirmar os fundamentos do aresto recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal  ..
+VIII - Agravo Interno improvido.
+(AgInt no REsp 1656968/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 06/06/2017, DJe 16/06/2017).
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
