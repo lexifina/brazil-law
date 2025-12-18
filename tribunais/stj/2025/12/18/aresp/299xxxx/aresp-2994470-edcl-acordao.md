@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Maria Marluce Caldas votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ART. 619 DO CPP. INEXISTÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU AMBIGUIDADE. DECISÃO EMBARGADA QUE ENFRENTOU A AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS ÓBICES DAS SÚMULAS 7 E 83/STJ. PRETENSÃO DE REDISCUSSÃO DA MATÉRIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração possuem fundamentação vinculada e somente se prestam à correção de ambiguidade, obscuridade, contradição, omissão ou erro material, nos termos do art. 619 do Código de Processo Penal.
+2. É pacífico o entendimento de que os embargos declaratórios não constituem via de revisão do julgado, sendo inadmissíveis quando ausentes os vícios previstos no art. 619 do CPP.
+3. No caso, não há omissão a ser sanada. O acórdão embargado enfrentou expressamente a exigência de impugnação específica e integral dos fundamentos da decisão de inadmissibilidade do recurso especial, destacando a insuficiência de alegações genéricas para superar os óbices das Súmulas 7 e 83/STJ, bem como a necessidade de cotejo analítico com julgados contemporâneos ou supervenientes, e de demonstração de que a controvérsia prescinde do reexame fático-probatório.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por IRACEMA DE SOUZA OLIVEIRA contra acórdão que negou provimento ao agravo regimental, nos termos da seguinte ementa (e-STJ fl. 563):
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. DECISÃO UNA E INCINDÍVEL. INCIDÊNCIA DAS SÚMULAS 7, 83 E 182 DO STJ. JURISPRUDÊNCIA CONSOLIDADA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Nos termos do art. 932, III, do CPC, combinado com o art. 253, parágrafo único, I, do RISTJ, é inviável o agravo em recurso especial que não ataca de forma específica todos os fundamentos da decisão agravada.
+2. A decisão que inadmite o recurso especial é una e não comporta impugnação parcial, impondo-se ao recorrente o enfrentamento integral dos fundamentos, não bastando alegações genéricas ou mera reafirmação de razões de mérito.
+3. No caso, a decisão agravada apontou a incidência das Súmulas 7 e 83 do STJ, sem que a parte tenha demonstrado, de forma concreta e pormenorizada, a superação desses óbices, limitando-se a alegações genéricas.
+4. É pacífico o entendimento de que a mera transcrição de ementas, sem o necessário cotejo analítico, não afasta a aplicação da Súmula 83/STJ, sendo imprescindível a demonstração de divergência com precedentes contemporâneos ou supervenientes; de igual modo, para superar o óbice da Súmula 7/STJ, exige-se a indicação clara de que o recurso não demanda reexame do conjunto fático-probatório, não bastando alegações genéricas de revaloração das provas.
+5. Incide, por analogia, a Súmula 182/STJ, segundo a qual é inviável o agravo que deixa de atacar especificamente todos os fundamentos da decisão recorrida.
+6. Agravo regimental não provido.
+Nos presentes aclaratórios, a embargante aponta omissão quanto ao exame do conteúdo dos recursos anteriormente interpostos, afirmando que houve, desde o agravo em recurso especial, impugnação específica à aplicação das Súmulas 83 e 7 do STJ. Sustenta ter demonstrado a dissonância do acórdão recorrido com julgados desta Corte quanto à valoração negativa de circunstâncias judiciais com base em elementos do tipo penal, e que a discussão sobre a dosimetria se limita a questão jurídica, sem necessidade de revolvimento fático-probatório.
+Requer o saneamento da omissão, com decisão expressa sobre os argumentos apresentados em relação aos verbetes sumulares ns. 83 e 7 do STJ, com fulcro no art. 619 do Código de Processo Penal.
+É o relatório.
+EMENTA
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ART. 619 DO CPP. INEXISTÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU AMBIGUIDADE. DECISÃO EMBARGADA QUE ENFRENTOU A AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS ÓBICES DAS SÚMULAS 7 E 83/STJ. PRETENSÃO DE REDISCUSSÃO DA MATÉRIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração possuem fundamentação vinculada e somente se prestam à correção de ambiguidade, obscuridade, contradição, omissão ou erro material, nos termos do art. 619 do Código de Processo Penal.
+2. É pacífico o entendimento de que os embargos declaratórios não constituem via de revisão do julgado, sendo inadmissíveis quando ausentes os vícios previstos no art. 619 do CPP.
+3. No caso, não há omissão a ser sanada. O acórdão embargado enfrentou expressamente a exigência de impugnação específica e integral dos fundamentos da decisão de inadmissibilidade do recurso especial, destacando a insuficiência de alegações genéricas para superar os óbices das Súmulas 7 e 83/STJ, bem como a necessidade de cotejo analítico com julgados contemporâneos ou supervenientes, e de demonstração de que a controvérsia prescinde do reexame fático-probatório.
+4. Embargos de declaração rejeitados.
+VOTO
+A irresignação não merece acolhimento.
+Os embargos de declaração são recurso co m fundamentação vinculada, sendo imprescindível a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal. Podem ser admitidos, ainda, para correção de eventual erro material e, excepcionalmente, para alteração ou modificação do decisum embargado.
+É insuficiente, todavia, a mera irresignação com o entendimento apresentado na decisão, assim como inviável seu uso como mero meio de reanálise das alegações.
+No caso, não há omissão a ser sanada. O acórdão embargado enfrentou de modo claro a questão posta, registrando que a decisão de inadmissibilidade do recurso especial, por sua unidade incindível, exigia impugnação específica e integral dos fundamentos, o que não se verificou. Explicou, ainda, que a parte se limitou a alegações genéricas quanto à superação dos óbices das Súmulas ns. 83 e 7 do STJ, sem o necessário cotejo analítico com julgados contemporâneos ou supervenientes, nem a demonstração precisa de que a controvérsia prescindia do reexame do conjunto fático-probatório (e-STJ fls. 565/567).
+A leitura do voto confirma que a discussão sobre a incidência dos verbetes sumulares foi apreciada e decidida, com fundamento na exigência de dialeticidade recursal e na necessidade de demonstração concreta de dissenso jurisprudencial e de adequação da tese ao contorno fático fixado pela instância de origem. Não se identifica, pois, silêncio relevante sobre ponto capaz de infirmar a conclusão adotada, mas juízo explícito de insuficiência das razões recursais apresentadas.
+Com efeito, o entendimento desta Corte é pacífico no sentido de que "os embargos declaratórios não constituem recurso de revisão, sendo inadmissíveis se a decisão embargada não padecer dos vícios que autorizariam a sua oposição (obscuridade, contradição e omissão)". (EDcl no AgRg no REsp n. 1.339.703/RS, relator Ministro Felix Fischer, Quinta Turma, DJe de 17/11/2014).
+Manifesta, portanto, a impossibilidade de acolhimento dos presentes aclaratórios, porquanto não demonstrada ambiguidade, omissão, contradição ou obscuridade, mas mera irresignação do embargante com a solução apresentada por esta Corte Superior.
+Diante do exposto, rejeito os presentes embargos.
+É como voto.
