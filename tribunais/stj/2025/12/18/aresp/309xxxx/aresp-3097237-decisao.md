@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravo manejado por Francisca Mendes da Cunha , desafiando decisão do Tribunal de Justiça do Estado do Paraná, que não admitiu o recurso especial interposto pela parte ora agravante, por entender que: (I) não procede a alegada ofensa ao art. 1.022 do Código de Processo Civil, pois a recorrente deixou de indicar, com precisão, quais incisos teriam sido vulnerados, o que atrai o óbice da Súmula 284/STF; (II) o mesmo óbice da Súmula 284/STF incide quanto às demais alegações - danos ambientais, efeitos da coisa julgada coletiva e fato incontroverso (endereço) -, porque, não obstante a alusão aos arts. 14, § 1º, da Lei n. 6.938/1981, 103, § 3º, do Código de Defesa do Consumidor e 374 do Código de Processo Civil, não houve indicação específica dos dispositivos legais tidos por violados.
+É O NECESSÁRIO RELATÓRIO.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar, de maneira específica e direta, o motivo adotado pelo Tribunal de origem para negar trânsito ao apelo especial, deixando de impugnar a incidência da Súmula 284/STF ao especial, por deficiência de fundamentação.
+Nesse contexto, incide o verbete sumular 182 desta Corte ("É inviável o agravo do artigo 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida").
+Essa, ressalte-se, foi a linha de entendimento confirmada pela Corte Especial do STJ ao julgar os EAREsp 701.404/SC e os EAREsp 831.326/SP, Rel. Min. João Otávio de Noronha, Rel. p/ acórdão Ministro Luis Felipe Salomão, DJe de 30/11/2018.
+ANTE O EXPOSTO, nos termos do art. 932, III, do CPC, não conheço do agravo em recurso especial.
+Levando-se em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do CPC), observando-se, contudo, o disposto no art. 98, § 3º, do CPC, em razão da concessão do benefício da assistência judiciária gratuita.
+Publique-se.
+EMENTA
