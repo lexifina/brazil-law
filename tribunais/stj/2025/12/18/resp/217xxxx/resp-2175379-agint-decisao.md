@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de agravo interno interposto por UNIMED DE MARÍLIA COOPERATIVA DE TRABALHO MÉDICO contra decisão monocrática de fls. 664-670 e-STJ, da lavra deste signatário, que negou provimento ao recurso especial manejado pela ora agravante.
+O apelo extremo, a seu turno, fundado nas alíneas "a" e "c" do permissivo constitucional, fora interposto no intuito de reformar acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 579 e-STJ):
+APELAÇÃO CÍVEL. PLANO DE SAÚDE. Ação de obrigação de fazer. Sentença de procedência. Insurgência da operadora requerida. Não acolhimento. Autora diagnosticada com câncer de mama. Negativa de cobertura do exame "Symphony/MammaPrint" pelo fato de não constar no rol da ANS. Abusividade se há expressa indicação médica. Aplicação dos enunciados das súmulas 95, 96 e 102 deste TJSP. Requerida não comprovou ter ofertado à autora outra opção de exame, com eficácia devidamente demonstrada, a colaborar com tratamento da autora. Sentença mantida.
+Recurso desprovido.
+Opostos embargos de declaração, esses foram rejeitados (fls. 596-600 e-STJ)
+Em suas razões de recurso especial (fls. 603-627 e-STJ), a parte recorrente apontou violação aos seguintes dispositivos legais: (i) artigo 1.022, II, do Código de Processo Civil, alegando a existência de omissão e negativa de prestação jurisdicional acerca da matéria suscitada nas razões dos embargos de declaração, relativa à "ausência de incorporação do exame no rol e existência de exames similares, assim como, da realização fora do território nacional e do exame sem registro na Anvisa" (fls. 607, e-STJ); e (ii) artigos 10, § 4º, da Lei n. 9.656/1998; 3º e 4º, III, da Lei n. 9.961/2000; e da Resolução Normativa nº 428/2017, sustentando, em suma, a legalidade da negativa de cobertura, eis que o procedimento médico perseguido pelo segurado não está inserido no rol taxativo de procedimentos e eventos em saúde editado pela ANS, limitação expressamente prevista no contrato de plano de saúde.
+Apresentadas contrarrazões às fls. 644-655, o apelo nobre foi admitido na origem.
+Em julgamento monocrático (fls. 664-670 e-STJ), este signatário negou provimento ao recurso especial, sob os seguintes fundamentos: (i) não se mostra possível o conhecimento da insurgência fundada na ofensa da Resolução Normativa n. 428/2017 da ANS, por não se enquadrar a referida norma no conceito de lei federal; (ii) inexistência de violação ao art. 1.022, II, do CPC, eis que suficiente a fundamentação do acórdão recorrido; e (iii) aplicação do óbice da Súmula 83/STJ.
+Inconformada, a parte recorrente interpõe o presente agravo interno (fls. 674-681 e-STJ), insurgindo-se contra a negativa de provimento ao recurso especial. Primeiramente, afirma que inexiste pretensão de ofensa à resolução da ANS, mas sim de contrariedade à legislação federal específica. Reitera, ainda, a alegação de ofensa ao artigo 1.022 do CPC. No mérito, combate a aplicação do óbice da Súmula 83/STJ, sob a alegação da legalidade da negativa de cobertura, eis que o exame perseguido pelo segurado não possuí registro na ANVISA; é realizado fora do território nacional e não está incorporado ao rol de procedimentos obrigatórios da ANS. Requer, ao final, a reforma da decisão recorrida.
+Impugnação às fls. 693-702 e-STJ.
+É o relatório.
+Decide-se.
+Ante as razões expendidas, reconsidera-se a decisão de fls. 664-670, e-STJ, passando-se a novo exame do recurso especial.
+1. Por aplicação do artigo 1.025 do CPC/15, passa-se diretamente ao exame do mérito do apelo nobre - que resultaria, de todo modo, na prejudicialidade de preliminar recursal.
+Em recente julgamento, envolvendo controvérsia semelhante, assim decidiu a Terceira Turma deste STJ:
+RECURSO ESPECIAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. AÇÃO DECLARATÓRIA C/C INDENIZAÇÃO POR DANOS MATERIAIS. PLANO DE SAÚDE. BENEFICIÁRIA DIAGNOSTICADA COM CÂNCER DE MAMA. COBERTURA DE EXAME REALIZADO NO EXTERIOR. ÁREA GEOGRÁFICA DE ABRANGÊNCIA DO CONTRATO. LIMITAÇÃO AO TERRITÓRIO NACIONAL. RECUSA DE CUSTEIO JUSTIFICADA.
+1. Ação declaratória c/c indenização por danos materiais ajuizada em 08/07/2020, da qual foi extraído o presente recurso especial, interposto em 16/04/2024 e concluso ao gabinete em 05/09/2024.
+2. O propósito recursal é decidir sobre a obrigatoriedade de custeio, pela operadora do plano de saúde, de exame realizado no exterior, e sobre a aplicação da taxa Selic.
+3 A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema (súmula 284/STF).
+4. A interpretação do art. 1º, § 1º, I, da Resolução Normativa 566/2022 da ANS, à luz da regra do art. 10 da Lei 9.656/1998, leva à conclusão de que a área geográfica de abrangência, em que a operadora fica obrigada a garantir todas as coberturas de assistência à saúde contratadas pelo beneficiário, é limitada ao território nacional.
+5. Salvo por força de cláusula contratual, o legislador expressamente excluiu da operadora a obrigação de garantir a cobertura de tratamentos ou procedimentos realizados no exterior, não sendo aplicável, portanto, a regra do § 13 do art. 10 da Lei 9.656/1998 nessas circunstâncias.
+6. Recurso especial conhecido e provido.
+(REsp n. 2.167.934/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 15/10/2024, DJe de 17/10/2024.)
+Na presente hipótese, a parte recorrida reconhece que o exame não é realizado em território nacional, ao afirmar que haveria um empresa brasileira responsável pela coleta do material biológico e envio ao exterior.
+O exame, portanto, não é realizado em território nacional - fato este incontroverso (fl. 654 e-STJ) e reconhecido pelas instâncias ordinárias (fls. 523 e 583 e-STJ).
+Plenamente aplicável, portanto, o precedente acima - que envolve, inclusive, o mesmo exame.
+2. Do exposto, reconsidera-se a decisão de fls. 664-670, e-STJ e, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, dá-se provimento ao recurso especial para julgar improcedente a demanda originária. Invertem-se os ônus sucumbenciais, ficando a cargo da autora.
+Publique-se. Intimem-se.
+EMENTA
