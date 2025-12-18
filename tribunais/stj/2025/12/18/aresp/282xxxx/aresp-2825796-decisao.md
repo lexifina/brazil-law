@@ -1,0 +1,55 @@
+DECISÃO
+Cuida-se de agravo interposto por MICHELLE SIMONE CAMILO DOS SANTOS e PEDRO HENRIQUE DE FREITAS GONCALVES contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 236):
+APELAÇÃO. AÇÃO MONITÓRIA. Compromisso de compra e venda de bem imóvel. Sentença de procedência do pedido para constituir o título executivo judicial. Apelo dos embargantes. Ilegitimidade do embargante Pedro. Rejeição. Parte que consta no contrato de compra e venda e, após a mencionada cessão de direitos, continuou negociando os valores das parcelas atrasadas com a autora. Mérito. Ausência de demonstração que o valor não financiado seria incluído nas parcelas sem incidência de juros e correção monetária. Quantia cobrada que se refere à renegociação das prestações vencidas e não pagas. Não demonstração de fato impeditivo, modificativo ou extintivo do direito da demandante. Art. 373, II, do CPC.
+Sentença mantida. RECURSO NÃO PROVIDO.
+Rejeitados os embargos de declaração opostos (fls. 235-242).
+No recurso especial, a parte recorrente alega, preliminarmente, ofensa ao art. 1.022, do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia, em especial sobre: (a) pedido de inversão do ônus da prova; e (b) interpretação mais favorável ao consumidor, nos termos do CDC.
+Aduz, no mérito, violação dos arts. 6º, III, IV, VIII; 46 e 47 do Código de Defesa do Consumidor.
+Sustenta, em síntese, que, sendo relação de consumo, a recorrida deveria comprovar e esclarecer as condições do negócio, especialmente quanto ao pagamento do saldo remanescente não financiado, e não os consumidores.
+Diante da omissão contratual quanto à forma de pagamento do saldo remanescente não financiado, e ante a publicidade com oferta de entrada parcelada sem juros e correção, deveria ser assegurado que o saldo remanescente fosse pago nas mesmas condições do sinal.
+Alega, ainda, que a recorrida alterou unilateralmente o contrato, exigindo parcelas mais onerosas e valores superiores, além de não ter juntado transcrições de ligações telefônicas onde foram discutidas condições e taxas.
+Foram oferecidas contrarrazões ao recurso especial (fls. 273-278).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 279-281), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fl. 303-307).
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+Com efeito, o Tribunal de origem analisou detidamente o recurso especial interposto, devendo a decisão de admissibilidade ser mantida por seus próprios fundamentos.
+Cuida-se, na origem, de ação monitória fundada em contrato particular de promessa de compra e venda de unidade imobiliária, c/c cobrança de parcelas e renegociações inadimplidas, na qual foi proferida sentença de procedência para condenar os réus ao pagamento de R$ 59.002,99. Na apelação, manteve-se a sentença por ausência de prova de que o saldo não financiado seria incluído nas parcelas da entrada sem juros e correção.
+Inicialmente, não há falar em ofensa ao art. 1.022 do CPC, uma vez que o Tribunal de origem, ao negar provimento à apelação, solucionou a lide em conformidade ao que foi apresentado em juízo, sobretudo porque enten deu que o recorrente não trouxe elementos suficientes para comprovar os fatos constitutivos de seu direito.
+Verifica-se, portanto, que o acórdão recorrido possui fundamentação suficiente, inexistindo omissão ou contradição.
+O que a parte recorrente aponta como "omissão" ou "falta de fundamentação" traduz, na verdade, mero inconformismo com a tese jurídica adotada. O julgador não está obrigado a rebater, um a um, todos os argumentos e dispositivos legais invocados pelas partes, quando já encontrou motivo suficiente para fundamentar sua decisão.
+A propósito, cito os seguintes precedentes:
+PROCESSUAL CIVIL. DESAPROPRIAÇÃO DIRETA. UTILIDADE PÚBLICA. CONCESSIONÁRIA DE VEÍCULOS. RECURSO ESPECIAL. OFENSA AO ARTIGO 1022, II, DO CPC/15. INOCORRÊNCIA. DEVOLUÇÃO TOTAL DA MATÉRIA EM REEXAME NECESSÁRIO. SÚMULA 325/STJ. NECESSIDADE DE ALUGAR IMÓVEL LINDEIRO PARA ALTERAR ACESSO A LOJA. INDENIZAÇÃO AFASTADA PELO TRIBUNAL DE ORIGEM. REVISÃO. SÚMULA 7/ STJ.
+1. Os arts. 489, § 1º, e 1.022 do Código de Processo Civil não foram ofendidos. A pretexto de apontar a existência de erros materiais, omissão e premissas erradas, a parte agravante quer modificar as conclusões adotadas pelo aresto vergastado a partir das informações detalhadas do laudo pericial.
+ ..
+5. Agravo Interno não provido.
+(AgInt no AREsp n. 1.974.188/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/10/2022, DJe de 4/11/2022.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. DANO MORAL. SUSPENSÃO DO FORNECIMENTO DO SERVIÇO DE ÁGUA . DEMORA INJUSTIFICADA NO RESTABELECIMENTO DO SERVIÇO. ARTS. 489, § 1º, E 1022, II, DO CPC. OMISSÃO NÃO CONFIGURADA. DEVER DE INDENIZAR. REQUISITOS PARA A RESPONSABILIZAÇÃO DA CONCESSIONÁRIA. ACÓRDÃO ANCORADO NO SUBSTRATO FÁTICO-PROBATÓRIO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. VALOR DA INDENIZAÇÃO. EXCESSO NÃO CARACTERIZADO.
+1. Cuida-se de ação de procedimento ordinário ajuizada em desfavor de SAMAR - Soluções Ambientais de Araçatuba, com o fim de obter indenização pelos danos morais que alega ter sofrido com suspensão do serviço de água na residência da autora.
+2. Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489, § 1º, e 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos.
+ ..
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.118.594/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 22/11/2022, DJe de 25/11/2022 - grifo nosso.)
+Por outro lado, observa-se que em relação à apontada ofensa aos arts. 6º, III, IV, VIII; 46 e 47 do Código de Defesa do Consumidor, o recurso especial não merece prosperar porquanto encontra óbice na Súmula 7 do Superior Tribunal de Justiça.
+Ademais, o Tribunal de origem concluiu no sentido de que não houve prova de que o saldo não financiado seria incluído nas parcelas da entrada sem incidência de juros e correção, como se pode depreender do seguinte trecho extraído do acórdão recorrido (fl. 241 - 242):
+Por fim, ainda que fosse o caso de acolher que foi a imobiliária que intermediou a cessão (situação que não foi provada), demonstra-se igualmente que o recorrente figura como compromissário comprador pelas conversas juntadas pela recorrida a fls. 179/183, ocasião em que o Sr. Pedro realizou negociações das parcelas do contrato mesmo após a mencionada cessão de direitos.
+No que se refere aos valores das parcelas, os apelantes não comprovaram que sobre o valor remanescente (a parte que não foi financiada) seria incluído sobre as parcelas sem a incidência de juros ou correção monetária.
+Ademais, observa-se que na realidade os valores cobrados pela apelada se referiram à renegociação das prestações inadimplidas.
+Afastar o referido entendimento para concluir no sentido de que o saldo remanescente deveria seguir as mesmas condições da entrada, sem juros e correção, como pretende o recorrente, demandaria o reexame do material fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+Mutatis mutandis, cito:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL. PREPARO. RECOLHIMENTO COMPROVADO. DESERÇÃO NÃO VERIFICADA. REFORMA DO JULGADO. REANÁLISE DE MATÉRIA FÁTICO-PROBATÓRIA. NÃO CABIMENTO. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. JULGAMENTO EXTRA PETITA OU ULTRA PETITA. NÃO OCORRÊNCIA. INTERPRETAÇÃO LÓGICO-SISTEMÁTICA DOS PEDIDOS. REVISÃO DO JULGADO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. APLICAÇÃO DA SÚMULA N. 7 DO STJ. FATO IMPEDITIVO, MODIFICATIVO OU EXTINTIVO DO DIREITO DA PARTE AUTORA. NÃO DEMONSTRAÇÃO. NECESSIDADE. REFORMA DO JULGADO. REVOLVIMENTO DO CONTEXTO FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. A alteração das conclusões do acórdão recorrido no tocante ao reconhecimento do preparo regular e da não ocorrência de deserção, a respeito da não configuração de julgamento extra petita ou ultra petita e acerca da necessidade de demonstração de fato impeditivo, modificativo ou extintivo do direito da parte autora exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula n. 7 do STJ.
+2. Não há julgamento extra petita quando o órgão julgador decide a partir de uma interpretação lógico-sistemática dos pedidos, dentro dos limites objetivos da pretensão inicial. Na espécie, a Corte local assentou que a inexigibilidade do título exequendo configura efeito prático do reconhecimento da exceção do contrato não cumprido, a teor do art. 476 do CC/2002.
+3. Agravo conhecido para não conhecer do recurso especial.
+(AREsp n. 2.862.848/PR, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 12/8/2025, DJEN de 15/8/2025.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ÔNUS DA PROVA. FATO CONSTITUTIVO DO DIREITO DO AUTOR. COMPROVAÇÃO. REVISÃO. SÚMULA N. 7/STJ.
+1. Nos termos do art. 373 do CPC, incumbe ao autor provar o fato constitutivo do seu direito e ao réu provar o fato impeditivo, modificativo ou extintivo do direito do autor. "Todavia, os arts. 370 e 373, § 1º, do diploma processual facultam ao magistrado, no exercício dos poderes instrutórios que lhe competem, atribuir o ônus da prova de modo diverso entre os sujeitos do processo quando diante de situações peculiares, conforme a teoria da distribuição dinâmica do ônus da prova" (AgInt no AREsp n. 2.653.386/BA, relator Ministro Raul Araújo, Quarta Turma, julgado em 14/10/2024, DJe de 21/10/2024).
+2. Da leitura do acórdão recorrido, verifica-se que o Tribunal de origem entendeu que os recorrentes, ora agravantes, não se desincumbiram do ônus de provar a existência de fato impeditivo, modificativo ou extintivo do direito do ora recorrido.
+3. Rever o entendimento no sentido de que os recorrentes não se desincumbiram do ônus de provar a existência de fato impeditivo, modificativo ou extintivo do direito do ora recorrido, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, a eventualmente ensejar novo juízo acerca dos fatos e das provas. Sendo assim, incide no caso a Súmula n. 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Agravo conhecido. Recurso especial não conhecido.
+(AREsp n. 2.506.020/PR, relator Ministro Humberto Martins, Terceira Turma, julgado em 9/6/2025, DJEN de 12/6/2025.)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 15% sobre o valor atualizado da condenação.
+Publique-se. Intimem-se.
+ EMENTA
