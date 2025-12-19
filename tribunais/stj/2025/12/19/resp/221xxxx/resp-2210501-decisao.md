@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS contra o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS nos autos do Agravo em Execução Penal n. 1.0000.24.408495-0/001, assim ementado:
+EMENTA: DIREITO PENAL - AGRAVO EM EXECUÇÃO - DETRAÇÃO PENAL - TEMPO DE PRISÃO PROVISÓRIA - CÔMPUTO COMO PENA EFETIVAMENTE CUMPRIDA - CONSIDERAÇÃO PARA PROGRESSÃO DE REGIME - NECESSIDADE - INCIDÊNCIA DA FRAÇÃO SOBRE O TOTAL DA PENA.
+Conforme entendimento pacificado pelos Tribunais Superiores, a custódia cautelar, necessariamente, suportada pelo reeducando deve ser computada para fins de obtenção de progressão de regime e demais benefícios da execução.
+Nas razões do recurso, a acusação alega que a prisão preventiva do recorrido não foi ininterrupta, de forma que deve ser considerada a data da última prisão como marco inicial para benefícios executórios, sem prejuízo da detração do período efetivamente recolhido, sob pena de computar como pena cumprida período em liberdade (fls. 82/83).
+Aduz que a detração do art. 387, § 2º, do CPP incide para eventual abrandamento do regime inicial na sentença, não para fixar data-base de progressão em execução quando a prisão cautelar foi interrompida (fl. 83).
+Requer o provimento do recurso, com a reforma do acórdão a fim de considerar a data da última prisão como marco temporal para obtenção de benefícios executórios (fl. 84).
+Contrarrazões nas fls. 92/100.
+Decisão de admissibilidade nas fls. 105/108.
+Intimado, o Ministério Público Federal manifestou-se pelo não conhecimento do recurso especial (fls. 122/123).
+É o relatório.
+Inicialmente, esclareço que estão presentes os pressupostos de admissibilidade recursal, tendo em vista que a matéria foi prequestionada na origem e, no mérito, deve ser dado provimento ao recurso especial.
+Para uma melhor compreensão da controvérsia, transcrevo trecho do acórdão que julgou o agravo em execução penal, contra o qual se insurge o Ministério Público (fls. 63/64 - grifo nosso):
+Assim, por consequência lógica, se o MM. Juiz da Execução considera o período de prisão cautelar como pena efetivamente cumprida, deve adotar a data de tal prisão para individualizar a progressão de regime.
+Entende-se, nesse aspecto, que o reeducando iniciou o cumprimento da reprimenda antes mesmo de ser julgado e, portanto, esse deve ser o marco temporal inicial para concessão de benefícios executórios.
+In casu, consta do atestado de pena (ordem 3), que a prisão preventiva foi decretada em 17/03/2018 e, portanto, esse marco deve ser considerado como a data-base para concessão dos posteriores benefícios executórios.
+ ..
+Neste contexto, a fração da progressão prevista no artigo 112 da Lei de Execuções Penais deve incidir sobre o total da pena aplicada ao reeducando, ora agravado, e a detração será aplicada após este cálculo, como bem salientou o MM. Juiz a quo.
+Portanto, deve ser mantida a decisão que declarou a remição dos dias trabalhados pelo reeducando, ora agravado, e determinou a retificação do atestado de penas, para que a detração seja descontada do prazo do requisito objetivo da progressão de regime.
+Esta Corte já decidiu que, quando o art. 387, § 2º, do CPP não é aplicado para fins de determinação de regime inicial, o tempo deve ser considerado como pena cumprida para fins de satisfação do requisito objetivo da progressão de regime e demais benefícios (AgRg no REsp n. 2.153.559/MT, Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/10/2024, DJe 28/10/2024).
+Com efeito, esta Corte também já decidiu que, nesses casos, deve-se aplicar o art. 112 da Lei de Execução Penal sobre o total da pena e depois realizar a detração penal. Em contrário, o apenado começaria a cumprir o saldo remanescente e iniciaria o resgate de prazos adicionais de privação de liberdade para somente então acessar os direitos do sistema progressivo, o que não pode ser admitido. Nesse sentido: AgRg no REsp n. 2.126.765/MT, Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/10/2024, DJe 28/10/2024.
+Não obstante, em relação à fixação da base, em hipóteses como o dos presentes autos, a data-base que deve ser considerada para a progressão de regime é a data da última prisão efetuada, sendo que o período anterior à condenação em que o agente esteve preso será computado para fins de detração penal (AgRg no HC n. 717.953/MS, Ministro Ribeiro Dantas, Quinta Turma, DJe 30/8/2022).
+Dizem os precedentes da Quinta e da Sexta Turmas desta Casa que, nos casos em que há condenação a uma única pena privativa de liberdade e o acusado foi solto durante o curso do processo, a data da prisão preventiva não deve ser considerada como termo inicial para a obtenção de benefícios atinentes à execução da pena, sob o risco de considerar pena cumprida o período em que o réu esteve em liberdade provisória (AgRg no REsp n. 1.928.917/GO, Ministra Laurita Vaz, Sexta Turma, DJe 20/4/2023).
+Ainda sobre o tema: AgRg no HC n. 903.948/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 18/6/2025, DJEN de 26/6/2025; AgRg no HC n. 989.361/MG, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 12/8/2025, DJEN de 18/8/2025; e AgRg no HC n. 850.619/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 14/5/2025, DJEN de 19/5/2025.
+No caso dos autos, extrai-se do relatório da situação carcerária do apenado que sua prisão preventiva teve início em 17/3/2018, foi interrompida em 15/4/2018 e, após, foi novamente decretada para início de cumprimento de pena, apenas em 16/2/2023.
+Assim, assiste razão ao Ministério Público quando afirma que deve ser a data da última prisão - e não da primeira - o marco inicial para início dos benefícios de execução penal.
+Seria um contrassenso considerar a data da primeira prisão, tendo em vista que a segregação cautelar teve duração de apenas um mês e, após, o apenado foi mantido em liberdade até a data do início da prisão para cumprimento de pena, que ocorreu quase cinco anos depois.
+Diante do exposto, dou provimento ao recurso especial para que seja considerada a data da última prisão, 16/2/2023, como marco temporal para obtenção de benefícios executórios.
+Publique-se.
+EMENTA
+DIREITO PENAL. RECURSO ESPECIAL. EXECUÇÃO PENAL. TRÁFICO DE DROGAS. DETRAÇÃO PENAL E DATA-BASE PARA BENEFÍCIOS EXECUTÓRIOS. DATA DA ÚLTIMA PRISÃO.
+Recurso especial provido.
