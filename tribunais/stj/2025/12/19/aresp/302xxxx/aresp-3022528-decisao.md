@@ -1,0 +1,18 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por JOSÉ DAVI JAZINSKI, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal.
+Ação: de cobrança proposta por JOSÉ GILBERTO ROTA, MURILLO SILVA ROTA E MOISÉS MARCA MARCELINO DE LIMA contra JOSÉ DAVI JAZINSKI, na qual se busca o pagamento dos alugueis devidos conforme contratos de arrendamento rural.
+Acórdão: desproveu o agravo de instrumento interposto pelo agravante, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA - IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA - DESNECESSIDADE DE LIQUIDAÇÃO DA SENTENÇA, SENDO NECESSÁRIO MEROS CÁLCULOS ARITMÉTICOS - EXCESSO DE EXECUÇÃO NÃO CONFIGURADO - ALEGAÇÃO GENÉRICA - DECISÃO MANTIDA - RECURSO DESPROVIDO. 1. Apuração do valor devido que depende apenas de cálculos aritméticos, sendo desnecessária a liquidação da sentença. 2. Quanto ao alegado excesso de execução, o executado/agravante apenas genericamente aponta o excesso sem demonstrar os cálculos que entende ser correto, o que afasta seus argumentos sem fundamento, a impor a rejeição da impugnação ao cumprimento de sentença. (e-STJ fl. 64)
+Decisão de admissibilidade do TJ/MT: inadmitiu o recurso especial em razão dos seguintes fundamentos:
+i. negativa de prestação jurisdicional não configurada, pois o acórdão enfrentou suficientemente a controvérsia sobre excesso de execução e
+ii. incidência da Súmula 7/STJ, por demandar reexame do conjunto fático-probatório para cotejar o título executivo com os cálculos apresentados no cumprimento de sentença.
+Agravo em recurso especial: nas razões do recurso, a parte agravante alega extrapolação dos limites do título executivo, com violação ao art. 505, I, do CPC, ao argumento de que o cumprimento de sentença incluiu safras de 2018 e 2019 não contempladas na petição inicial e no acórdão condenatório. Sustenta omissão do acórdão quanto ao exame específico do excesso, apontando violação ao art. 489, § 1º, IV, do CPC. Defende que a inaplicabilidade da Súmula 7/STJ se deve ao fato de que basta a leitura do título e da inicial do cumprimento de sentença para o conhecimento da controvérsia. Assevera a existência de divergência jurisprudencial, com julgados que vedam execução para além dos limites do título. Requer o processamento do recurso especial e seu provimento para reconhecer o excesso, cassar o acórdão recorrido e determinar nova análise da impugnação ao cumprimento de sentença (e-STJ fls. 262-271).
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade dos seguintes óbices:
+i. incidência da Súmula 7/STJ, por demandar reexame do conjunto fático-probatório para cotejar o título executivo com os cálculos apresentados no cumprimento de sentença.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram a inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, Terceira Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, Quarta Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
