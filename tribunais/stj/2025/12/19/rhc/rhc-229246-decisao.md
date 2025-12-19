@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de Recurso em Habeas Corpus com pedido de liminar interposto por LAUENDSON ALVES DOS SANTOS contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Narra a defesa que o recorrente foi preso em flagrante delito na data de 21 de julho de 2024, por suposta prática do delito tipificado pelo 121, § 2º, incisos I e IV, c. c. artigo 61, inciso II, alínea e, ambos do Código Penal.
+Irresignada, a defesa impetrou habeas corpus perante o tribunal de origem que denegou a ordem, em acórdão de fls. 1.187-1.199.
+No presente recurso, sustenta a defesa que a segregação processual do recorrente encontra-se despida de fundamentação idônea pois amparada na mera gravidade abstrata do delito, não estando presentes os requisitos autorizadores da medida extrema, previstos no art. 312 do Código de Processo Penal.
+Afirma que se revelam adequadas e suficientes as medidas cautelares alternativas positivadas no art. 319 do CPP.
+Requer a revogação da prisão preventiva ou, subsidiariamente, a aplicação de medidas cautelares diversas da prisão.
+É o relatório. DECIDO.
+No tocante à alegada ausência de fundamentação do decreto prisional e de que não estariam presentes os requisitos autorizadores da medida extrema, previstos no art. 312 do Código de Processo Penal, tenho que a segregação cautelar está devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam de maneira inconteste a necessidade da prisão para garantia da ordem pública, notadamente pela forma na qual o delito foi em tese praticado, uma vez que o recorrente "teria arquitetado um plano para executar seu irmão e o corréu Lucas o teria auxiliado na ação, levando-o na garupa de sua moto, inclusive dando fuga após os disparos de arma de fogo, demonstrando a periculosidade e o risco que representam à ordem pública"- fl. 1011. A decisão ainda ressaltou que o recorrente responde por outros crimes- fl. 1012.
+Cumpre registrar que "as graves circunstâncias em que praticados os fatos ilícitos (modus operandi) justificam a constrição cautelar para garantia da ordem pública" (AgRg no RHC n. 188.265/SP, relatora Ministra Daniela Teixeira, Quinta Turma, DJe de 28/5/2024).
+Nesse sentido: AgRg no RHC n. 191.872/MG, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 23/5/2024; AgRg no RHC n. 192.434/PA, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 3/5/2024; AgRg nos EDcl no HC n. 821.980/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 18/4/2024 e AgRg no HC n. 870.815/SE, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 18/4/2024.
+Outrossim, conforme a jurisprudência desta Corte, a contumácia delitiva justifica a prisão cautelar para a garantia da ordem pública. Nesse sentido: AgRg no HC n. 910.540/CE, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 3/7/2024; AgRg no HC n. 902.557/SP, Sexta Turma; Rel. Min. Antonio Saldanha Palheiro, DJe de 3/7/2024 e AgRg no HC n. 912.267/MG, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 28/6/2024.
+Por fim, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar, o que ocorre na hipótese.
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem -se.
+EMENTA
