@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de LUAN XAVIER DA SILVA, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de Tocantins.
+Consta nos autos que o paciente foi preso em flagrante em 17/8/2025, pela suposta prática de tráfico ilícito de drogas e associação para o tráfico ilícito de drogas (arts. 33, caput, e 35 da Lei de Drogas), tendo sido, posteriormente, a prisão convertida em preventiva.
+Inconformada, a defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem.
+Daí o presente mandamus, no qual a defesa sustenta que a prisão preventiva foi decretada sem fundamentação concreta. Afirma que o paciente é primário e possui bons antecedentes, sendo possível a substituição da prisão preventiva por medidas cautelares alternativas.
+Requer, liminarmente, que o paciente aguarde o processo em liberdade e, no mérito, a confirmação da liminar. Subsidiariamente, pleiteia a substituição da prisão por medidas cautelares diversas previstas no art. 319 do Código de Processo Penal.
+A liminar foi indeferida (fls. 108-111).
+As informações foram prestadas (fls. 117-121).
+O Ministério Público Federal ofertou parecer, manifestando-se pela concessão da ordem.
+É o relatório.
+Decido.
+A Quinta Turma do Superior Tribunal de Justiça firmou entendimento no sentido de ser inadequada a impetração de habeas corpus quando utilizado em substituição a recurso próprio.
+A teor do disposto no art. 105, II, a, da CF/88, o recurso cabível contra acórdão que denega a ordem na origem é o recurso ordinário, enquanto, consoante previsto no art. 105, III, da CF, contra acórdão que julga a apelação, o recurso em sentido estrito e o agravo em execução, cabe recurso especial.
+Nada impede, contudo, constatada a existência de ilegalidade flagrante, abuso de poder ou teratologia, a concessão de habeas corpus de ofício, nos termos do art. 654, §2º do CPP, o que ora passa-se a examinar.
+A prisão preventiva reveste-se de caráter excepcional, sendo admissível apenas quando devidamente demonstrada sua imprescindibilidade para a preservação da ordem pública, a garantia da regularidade da instrução criminal ou a asseguração da eficácia da aplicação da lei penal, nos termos do art. 312 do Código de Processo Penal.
+A decisão que converteu a prisão em flagrante em prisão preventiva, foi assim proferida (fls. 88-90):
+ ..  A prova da existência do crime e indício suficiente de autoria está demonstrada através das provas preliminares acostadas nos autos, especialmente pelo Auto de Prisão em Flagrante nº 10262/2025, Boletim de Ocorrência nº 00075371/2025; Exame Químico Preliminar de Substância, que atestou, de forma preliminar, a natureza entorpecente das substâncias apreendidas compatíveis com Cannabis sativa L. (maconha), além de substância branca semelhante à cocaína, bem como pelos depoimentos testemunhais e Auto de Exibição e Apreensão, tudo devidamente colacionado aos autos.
+Quanto aos indícios de autoria, o conjunto probatório até então colhido, notadamente os depoimentos dos policiais militares, o auto de exibição e apreensão e o laudo preliminar das substâncias entorpecentes, demonstra a presença de elementos indiciários, consubstanciado na apreensão de substâncias análogas à maconha e à cocaína, em circunstâncias típicas do tráfico de drogas, vale dizer, variedade de entorpecentes, porções fracionadas, confissão parcial e entrega voluntária de drogas, além de uma possível divulgação prévia das vendas em redes sociais.
+As provas preliminares colhidas, sobretudo o relato do policial Mikel de Melo Barbosa, indica que Luan foi flagrado aparentemente arremessando uma sacola contendo porções de cocaína ao perceber a aproximação da viatura. Posteriormente, após ser abordado, confessou que a maconha porções de maconha estariam com Gabriel, o qual teria entregue o objeto voluntariamente, tendo ambos afirmado, em tese, atuar como intermediários na venda de drogas ilícitas para um terceiro conhecido como "Tchula", que seria vinculado ao tráfico na região.
+Os depoimentos colhidos na fase pré-processual são firmes, harmônicos e convergentes, reafirmando todos os elementos objetivos da abordagem, da apreensão e da posterior diligência domiciliar. No caso, evidenciado pela apreensão de substâncias entorpecentes, bem como o contexto de traficância, com evidências de atuação profissional, habitual e voltada ao lucro ilícito, tenho se o caso de decretação da prisão preventiva.
+Na presente fase incipiente, os elementos probatórios preliminares, justificam a decretação da prisão preventiva como medida necessária e proporcional, sobretudo ao considerarmos a gravidade concreta da conduta, risco de reiteração delitiva, especialmente ao considerarmos que os investigados demonstraram, em tese, articulação para o transporte e venda de drogas, com potencial ligação com outros envolvidos, mantendo, em tese, em depósito significativa quantidade de entorpecentes ilícitos em seu domicílio.
+Deste modo, atento às nuances das circunstâncias em torno do caso em análise, tenho que existe um cenário de tráfico indiciário.
+Conforme se observa, a prisão preventiva foi decretada com base no suposto envolvimento do apenado com o tráfico de drogas, tendo sido apreendidos maconha e cocaína no contexto delitivo, com notícias de divulgação de venda das substâncias pela internet.
+Todavia, em análise dos autos, verifica-se que a quantidade de entorpecentes apreendida foi de aproximadamente 2,5 gramas de cocaína e 4,8 gramas de maconha (fl. 50) não se mostra expressiva de modo a justificar tão gravosa cautelar como a prisão, sendo ausentes informações no caderno processual de que o paciente possui maus antecedentes.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. RECURSO DO MINISTÉRIO PÚBLICO FEDERAL. DECISÃO MONOCRÁTICA. PRISÃO PREVENTIVA REVOGADA. FUNDAMENTAÇÃO INIDÔNEA. GRAVIDADE ABSTRATA DO DELITO. QUANTIDADE DE DROGA NÃO EXPRESSIVA. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA. MEDIDAS CAUTELARES DIVERSAS. SUFICIÊNCIA. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A prisão preventiva constitui medida de natureza excepcional, admitida apenas quando demonstrada, de forma concreta, a imprescindibilidade da custódia para resguardar a ordem pública, a conveniência da instrução criminal ou a aplicação da lei penal, nos termos do art. 312 do CPP.
+2. A apreensão de 17 g de cocaína, embora relevante, não se mostra suficiente, por si só, para justificar a decretação da prisão preventiva, quando ausentes outros elementos individualizados que evidenciem risco efetivo de reiteração delitiva.
+3. A invocação genérica da gravidade abstrata do delito ou de eventual possibilidade de reiteração não constitui fundamentação idônea para a medida extrema, impondo-se a observância do caráter excepcional da segregação cautelar.
+4. A decisão agravada, ao substituir a prisão preventiva por medidas cautelares diversas previstas no art. 319 do CPP, atendeu ao princípio da proporcionalidade e resguardou a regularidade da persecução penal.
+5. Agravo regimental não provido.
+(AgRg no HC n. 1.033.516/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 14/10/2025, DJEN de 21/10/2025.)
+No mesmo sentido, o Ministério Público Federal (fls. 109-111):
+Vê-se, portanto, ser inidônea a motivação apresentada, por pautar-se exclusivamente na gravidade abstrata do delito de tráfico de drogas. É preciso que as características concretas da infração demonstrem a periculosidade do agente e o risco real de reiteração delitiva caso seja posto em liberdade, o que não fora observado pelas instâncias ordinárias.
+Além disso, observa-se que o acusado é primário e a quantidade de droga apreendida, cerca de 4,8 g de cocaína com o próprio paciente e de 2,5 g de maconha com o outro agente (f. 19), é ínfima, de modo que não pode ser fundamento, por si só, para restrição total da liberdade do agente.
+Assim, considerando que o paciente é primário, ostenta circunstâncias pessoais favoráveis e a quantidade de droga apreendida não é expressiva, é razoável que a prisão preventiva seja revogada e o acusado aguarde em liberdade o julgamento da ação penal. Eis ulgado desse Tribunal Superior em caso análogo:
+ .. .
+Ante o exposto, o MINISTÉRIO PÚBLICO FEDERAL manifesta-se pela concessão da ordem de ofício, para que seja substituída a prisão preventiva do paciente pelas medidas cautelares previstas no art. 319 do CPP.
+Ante o exposto, não conheço do habeas corpus, mas concedo a ordem de ofício para substituir a prisão preventiva do paciente por medidas cautelares diversas, a serem fixadas pelo Juízo de primeiro grau, nos termos do art. 319 do Código de Processo Penal.
+Comunique-se.
+Publique-se.
+Intimem-se.
+EMENTA
