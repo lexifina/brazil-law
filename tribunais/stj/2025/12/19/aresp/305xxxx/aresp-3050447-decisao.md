@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo interposto por AMAQUINIL SIQUEIRA LENZA contra decisão que inadmitiu o recurso especial com base no óbice da Súmula n. 7 do Superior Tribunal de Justiça.
+Depreende-se dos autos que o Juízo da Vara de Execução Penal de Santa Helena de Goiás/GO homologou o relatório da situação processual do reeducando, ora agravante, rejeitando os embargos de declaração e não aplicando a detração penal para progressão de regime. Em agravo em execução penal interposto pela defesa, o Tribunal de origem negou-lhe provimento.
+No recurso especial, interposto com esteio nas alíneas "a" e "c" do permissivo constitucional, alegou-se ofensa aos arts. 42 do Código Penal, 387, § 2º do Código de Processo Penal e 112 da Lei n. 7.210/84. Para tanto, sustenta, em síntese, que não houve a correta aplicação da detração, requerendo, ao final, "devendo ser determinada a detração penal e posterior progressão de regime para o semiaberto" (fl. 226).
+Oferecidas as contrarrazões, o recurso especial foi inadmitido na origem.
+No agravo em recurso especial, a parte aduz a inexistência de óbice da Súmula n. 7/STJ, ao argumento de que o recurso especial não foi proposto com o objetivo de realizar o envolvimento fático-probatório, mas apenas analisar os elementos legais no limite do que já foi decidido no acórdão recorrido.
+Em parecer, o Ministério Público Federal opinou pelo não provimento do agravo, consoante a seguinte ementa (fls. 362-363):
+EXECUÇÃO PENAL. AGRAVO EM RECURSO ESPECIAL. DETRAÇÃO. PRISÃO PROVISÓRIA DESCONTINUADA. PROGRESSÃO DE REGIME. IMPOSSIBILIDADE.
+- O artigo 42 do Código Penal define o instituto da detração, que ocorre na fase de conhecimento para determinação do regime prisional, nos termos do artigo 387, §2º, do Código de Processo Penal, ou durante a execução, para computar, no total da pena privativa de liberdade, o período de prisão provisória não descontado na sentença, nos termos dos artigos 66, inciso III, "c", e 112 da Lei de Execução Penal.
+- Por sua vez, o artigo 387, § 2º, do Código de Processo Penal não se refere aos requisitos exigidos para a progressão de regime - instituto próprio da execução penal -, mas à possibilidade de o juiz, no momento da sentença, fixar regime inicial mais brando, em razão do tempo em que o apenado permaneceu em prisão cautelar.
+- O tempo de prisão provisória, ao repercutir na fixação do regime inicial de cumprimento de pena, não pode ser computado novamente para o cálculo dos benefícios da execução penal.
+- A jurisprudência dessa Corte Cidadã firmou-se no sentido de que o tempo em que o apenado esteve preso não pode ser duplamente debitado para fins de fixação de regime e de benefícios da execução penal.
+- O acórdão recorrido está em consonância com a jurisprudência do Superior Tribunal de Justiça (Súmula 83/STJ).
+- Parecer pelo não provimento do agravo em recurso especial.
+É o relatório.
+O agravo é tempestivo, todavia não ultrapassa o juízo de admissibilidade para o exame do recurso especial, extraindo-se daquela decisão (fls. 273-274):
+ ..  De plano, verifico que o juízo de admissibilidade a ser exercido, neste caso, é negativo.
+Isso porque a análise de eventual ofensa aos dispositivos elencados esbarra no óbice da Súmula 7 do STJ, pois a conclusão sobre o acerto ou desacerto do acórdão atacado demandaria sensível incursão no acervo fático-probatório, de modo que se pudesse aferir, ante as nuances fáticas e jurídicas do caso, a possibilidade de detração penal e posterior progressão de regime para o semiaberto. Assim, resta obstado o trânsito deste recurso especial (cf. STJ, 5ª T., AgRg no R Esp n. 2.113.425/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 3/9/2024, D Je de 10/9/20241).
+No que tange à alínea "c" do permissivo constitucional, além do impedimento imposto pela referida súmula da Corte Superior, a parte recorrente não atentou às exigências do art. 1.029, § 1º, do CPC, porquanto não procedeu à demonstração analítica da pretendida divergência, com menção às circunstâncias que se identifiquem ou se assemelhem aos casos confrontados.
+Ante o exposto, deixo de admitir o recurso. ..
+Analisando as razões do agravo em recurso especial, observa-se que a parte não impugnou, de modo específico, o óbice da Súmula n. 7/STJ, limitando-se a afirmar genericamente que "o Recurso Especial não foi proposto com o objetivo de realizar o envolvimento fático-probatório, mas apenas a analisar os elementos legais no limite do que já foi decido nos acordões impugnados" (fl. 287).
+O recurso especial destina-se ao exame de teses estritamente jurídicas que não dependem de reexame da prova colhida na origem, não cabendo sua interposição para solver controvérsia de fato.
+Deste modo, é insuficiente, para fins de impugnação específica do enunciado em apreço, a alegação genérica de se tratar de revaloração probatória ou de questão de direito, sendo necessário que a parte realize o devido confronto do entendimento com as premissas fáticas estabelecidas no acórdão recorrido, devendo explicitar, conforme a tese recursal trazida, de que forma a análise da questão não dependeria do reexame probatório, o que não ocorreu.
+Tal circunstância atrai a incidência da Súmula n. 182 desta Corte, a qual dispõe: " é  inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ressalte-se que a simples repetição das razões de mérito do recurso especial não supre a exigência de impugnação concreta e pormenorizada, como exige o princípio da dialeticidade recursal. A propósito:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE. SÚMULA 182 DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A ausência de impugnação específica aos fundamentos da decisão agravada impede o conhecimento do recurso, nos termos do que dispõe a Súmula 182 do STJ.
+2. Na hipótese, o agravante deixou de refutar especificamente os fundamentos de inadmissão do recurso especial (no caso, Súmulas 7 e 83 do STJ), incidindo, portanto, o óbice da Súmula 182 do STJ.
+3. "Não ultrapassado o juízo de admissibilidade dos recursos, inviável a análise das questões de mérito neles deduzidas" (AgRg no AREsp 1.534.025/PR, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 24/9/2019, DJe 7/10/2019).
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.628.916/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 11/6/2024, DJe de 17/6/2024).
+Ademais, a decisão de admissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo. Desse modo, a falta de impugnação efetiva a um de seus fundamentos impede o conhecimento do respectivo agravo, nos termos do art. 932, III, do Código de Processo Civil. Confira-se:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO. OMISSÃO. INEXISTÊNCIA. FUNDAMENTAÇÃO CONCISA. EMBARGOS DE DECLARAÇÃO ACOLHIDOS APENAS PARA ESCLARECIMENTOS, SEM A ATRIBUIÇÃO DE EFEITOS INFRINGENTES.
+1. Se a decisão de inadmissão do recurso especial entendeu que incidiria a Súmula n. 7 do STJ em relação à quatro alegações trazidas no apelo nobre e, o agravo em recurso especial, refuta a sua incidência, adequada e concretamente, em relação a apenas uma delas, mostra-se correto no não conhecimento do recurso, pela aplicação da Súmula n. 182 do STJ.
+2. A Corte Especial do Superior Tribunal de Justiça firmou entendimento no sentido de que o provimento judicial que não admite o recurso especial não é constituído por capítulos autônomos, mas, sim, por dispositivo único. Dessa forma, nas hipóteses tais como a presente, nas quais a parte Agravante não se insurge de maneira adequada contra qualquer um dos fundamentos que alicerçam a inadmissibilidade, é inviável conhecer do agravo em recurso especial na integralidade.
+3. Embargos de declaração acolhidos apenas para esclarecimentos, sem a atribuição de efeitos infringentes.
+(EDcl no AgInt no AREsp n. 2.337.831/RJ, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 24/9/2025, DJEN de 1º/10/2025).
+Por fim , em consulta ao sistema processual do Superior Tribunal de Justiça, verifica-se que o presente recurso é mera reiteração dos pedidos formulados nos autos do HC 964.262/GO, o qual não foi conhecido e, na análise de ofício, não se visualizou elementos capazes de caracterizar flagrante ilegalidade.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
