@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Carlos Pires Brandão, Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. VÍCIO NÃO CONSTATADO. AUSÊNCIA DE EXAME DO MÉRITO POR ÓBICE AO CONHECIMENTO DO RECURSO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração são destinados a sanar omissão, ambiguidade, contradição ou obscuridade no julgado. A assertiva, no entanto, não pode ser confundida com o mero inconformismo da parte com a conclusão alcançada pelo julgador, que, a despeito das teses aventadas, lança mão de fundamentação idônea e suficiente para a formação do seu convencimento.
+2. Não constitui omissão a ausência de análise do mérito recursal em virtude da constatação de óbice ao seu conhecimento.
+3. A jurisprudência desta Corte Superior não admite o manejo de embargos de declaração com o intuito analisar suposta violação de dispositivos constitucionais, mesmo com o cunho de prequestionamento, por ser matéria reservada à competência do Supremo Tribunal Federal, nos termos do art. 102, III, da Constituição Federal.
+4. Na espécie, o acórdão embargado não foi omisso, porquanto, de maneira clara e devidamente motivada, não conheceu do agravo regimental por ausência de impugnação dos fundamentos da decisão agravada. O que se percebe é que a defesa pretende, na verdade, o conhecimento do agravo, a fim de que seja dado provimento ao recurso especial, a despeito da Súmula n. 182 do STJ, o que não se coaduna com a via dos embargos de declaração.
+5. Embargos de declaração rejeitados.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+JEFFERSON FERREIRA DA SILVA e RONALDO MARCELO PIAZENTIN JUNIOR opõem embargos de declaração contra o acórdão de minha relatoria que, por unanimidade, não conheceu do agravo regimental.
+Os embargantes sustentam que o julgado ora embargado não enfrentou diversos pontos relevantes ventilados pela defesa, tampouco apreciou adequadamente o conteúdo das razões recursais, o que caracteriza omissão e erro material.
+Afirmam, em síntese, que o voto embargado limitou-se a reproduzir enunciado de súmula sem enfrentar o mérito das violações legais invocadas, notadamente aos arts. 155 e 386, VII, do CPP, 33 § 4.º da Lei 11.343/06 e 59 do CP, e, ainda, que não foram enfrentados os pontos suscitados pela defesa, o que caracteriza negativa de prestação jurisdicional, em violação ao art. 93, IX, da CF e ao art. 489, § 1.º, IV e VI, do CPC.
+Pleiteiam, portanto, a integração do julgado e, para fins de prequestionamento, requerem que sejam expressamente enfrentados os arts. 93, IX, da CF; 489, § 1.º, IV e VI, e 1.022 do CPC; 619 do CPP; e 105, III, "a", da CF (fl. 706).
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. VÍCIO NÃO CONSTATADO. AUSÊNCIA DE EXAME DO MÉRITO POR ÓBICE AO CONHECIMENTO DO RECURSO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração são destinados a sanar omissão, ambiguidade, contradição ou obscuridade no julgado. A assertiva, no entanto, não pode ser confundida com o mero inconformismo da parte com a conclusão alcançada pelo julgador, que, a despeito das teses aventadas, lança mão de fundamentação idônea e suficiente para a formação do seu convencimento.
+2. Não constitui omissão a ausência de análise do mérito recursal em virtude da constatação de óbice ao seu conhecimento.
+3. A jurisprudência desta Corte Superior não admite o manejo de embargos de declaração com o intuito analisar suposta violação de dispositivos constitucionais, mesmo com o cunho de prequestionamento, por ser matéria reservada à competência do Supremo Tribunal Federal, nos termos do art. 102, III, da Constituição Federal.
+4. Na espécie, o acórdão embargado não foi omisso, porquanto, de maneira clara e devidamente motivada, não conheceu do agravo regimental por ausência de impugnação dos fundamentos da decisão agravada. O que se percebe é que a defesa pretende, na verdade, o conhecimento do agravo, a fim de que seja dado provimento ao recurso especial, a despeito da Súmula n. 182 do STJ, o que não se coaduna com a via dos embargos de declaração.
+5. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Em que pesem os argumentos trazidos pelos embargantes, entendo que não lhes assiste razão.
+Consoante o disposto no art. 619 do Código de Processo Penal, a oposição de embargos de declaração enseja, em síntese, o aprimoramento da prestação jurisdicional, por meio da retificação do julgado que se apresenta omisso, ambíguo, contraditório ou com erro material. São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, o rejulgamento do caso.
+Na hipótese, noto que a irresignação da defesa se resume ao seu mero inconformismo com o resultado do julgado, que lhe foi desfavorável. Não há nenhum fundamento que justifique a oposição dos aclaratórios, notadamente porque o acórdão embargado foi expresso em afirmar ser acertada a decisão da Presidência do STJ, que não conheceu do agravo em recurso especial por ausência de impugnação específica dos óbices mencionados pela Corte estadual, a teor da Súmula n. 182 do STJ.
+Os embargantes alegam que o voto limitou-se a reproduzir a Súmula sem enfrentar o mérito das violações legais invocadas e que a ausência de enfrentamento específico dos pontos suscitados pela defesa caracteriza negativa de prestação jurisdicional.
+Entretanto, os embargantes não atacaram o fundamento central da decisão que impediu o seguimento do recurso especial, ou seja, não impugnaram os óbices apontados pela Corte estadual, o que impede o conhecimento do agravo, não sendo possível a análise do mérito do recurso especial, conforme consignado na decisão. Veja-se (fls. 694-696):
+O ora agravante interpôs recurso especial fundado no art. 105, III, "a", da CF. A impugnação não foi admitida na origem, pela incidência das Súmulas n. 283 do STF e 7 do STJ, o que ensejou a interposição de agravo em recurso especial.
+Às fls. 637-638, o agravo interposto não foi conhecido pela Presidência do STJ, haja vista a ausência de impugnação específica dos óbices mencionados pela Corte estadual, a teor da Súmula n. 182 do STJ.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do regimental, a defesa teceu considerações sobre a interposição do especial, bem como refutou os óbices do especial, sem, contudo, combater o único motivo que ensejou o não conhecimento do agravo - a falta de impugnação da inadmissibilidade recursal.
+De acordo com a jurisprudência desta Corte Superior, "não se conhece do agravo regimental que deixa de impugnar, de forma direta e objetiva, os fundamentos da decisão agravada. Aplicação da Súmula n. 182 do Superior Tribunal de Justiça" (AgRg no AREsp n. 529.349/MA, Rel. Ministro Rogerio Schietti, 6ª T., DJe 13/5/2015).
+Portanto, incide, por analogia, o enunciado na Súmula n. 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Assim, observo que os embargos declaratórios devem ser rejeitados, uma vez que não constitui omissão a ausência de análise do mérito recursal em virtude da constatação de óbice ao seu conhecimento. O que se percebe é que a defesa pretende, na verdade, o conhecimento e provimento do recurso especial, a despeito da Súmula n. 182 do STJ, o que, por óbvio, não se coaduna com a via dos embargos de declaração.
+Ademais, a jurisprudência desta Corte Superior não admite o manejo de embargos de declaração com o intuito analisar suposta violação de dispositivos constitucionais, mesmo com o cunho de prequestionamento, por ser matéria reservada à competência do Supremo Tribunal Federal, nos termos do art. 102, III, da Constituição Federal.
+A propósito:
+ ..  Não cabe ao Superior Tribunal de Justiça manifestar-se sobre dispositivos constitucionais, mesmo para fins de prequestionamento, sob pena de usurpação de competência do Supremo Tribunal Federal.  ..
+(EDcl no AgRg no AREsp n. 2.749.582/SP, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJEN de 25/3/2025.)
+ ..  Não compete ao Superior Tribunal de Justiça examinar dispositivos constitucionais para fins de prequestionamento, sob pena de usurpação da competência do Supremo Tribunal Federal. ..
+(EDcl no AgRg no AREsp n. 2.720.362/SC, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJEN de 29/4/2025.)
+À vista do exposto, rejeito os embargos de declaração.
