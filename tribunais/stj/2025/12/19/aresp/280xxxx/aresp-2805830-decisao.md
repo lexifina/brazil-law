@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da inexistência de negativa de prestação jurisdicional e incidência da Súmula n. 7 do STJ (fls. 372-374).
+O acórdão recorrido encontra-se assim ementado (fl. 301):
+TRANSPORTE MARÍTIMO - Ação de cobrança de sobre estadia (demurrage) de contêiner - Sentença de procedência - Recurso da ré - Preliminar de nulidade da sentença por ausência de fundamentação - Não acolhimento - O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão -
+Responsabilidade da ré que não pode ser afastada em virtude da greve dos auditores fiscais - Obrigação devida a título de indenização prefixada em caso de descumprimento da devolução do bem até o final do prazo livre (free time)- Eventual entrave alfandegário decorrente de greve dos funcionários da Receita Federal se insere nos riscos das empresas que se utilizam desses serviços, não configurando causa de força maior a excluir essa obrigação - Precedentes - Impossibilidade do arbitramento da verba honorária por equidade - Tese jurídica fixada pelo C. STJ no julgamento de recursos repetitivos (nº 1.850.512/SP, 1.877.883/SP, 1.906.623/SP e 1.906.618/SP - Tema nº 1076) - Valor da condenação que não se afigura inestimável ou irrisória - Ademais, valor da causa que não se afigura irrisório ou diminuto - Inteligência do art. 85, §6º-A, do CPC - Sentença mantida - Recurso desprovido, com majoração dos honorários sucumbenciais.
+Os embargos de declaração foram rejeitados (fls. 319-322).
+Nas razões do recurso especial (fls. 325-341), interposto com fundamento no art. 105, III, "a", da CF, a parte recorrente alegou violação dos seguintes dispositivos legais:
+(i) arts. 489, §1º, e 1.022, I e II, do CPC, sustentando negativa de prestação jurisdicional,
+(ii) art. 393 do CC, defendendo que a greve relacionada ao desembaraço aduaneiro constitui força maior a evitar a responsabilização.
+No agravo (fls. 377-386), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (fls. 354-371).
+É o relatório.
+Decido.
+A Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo. Desse modo, não há falar em negativa de prestação jurisdicional, vício de fundamentação ou violação dos arts. 489 e 1.022 do CPC.
+Quanto à inexistência de força maior, a Corte local assim se pronunciou (fl. 304):
+No contexto da complexidade ínsita à pós-modernidade, para fins de caracterização da denominada força maior extrínseca, a greve e seus diversos matizes demandam análise tópica, em cotejo com amplo arquétipo de circunstâncias, sobretudo se consentâneas com os círculos de atividade de risco do empreendedor e mister correlato.
+In casu, entende-se que referida greve configura fato sazonal, rotineiro e previsível, e não força maior a excluir a obrigação de pagar o atraso na devolução dos cofres de transporte. Cabia à ré tomar todas as precauções para evitar entraves burocráticos no cumprimento das disposições contratuais.
+Em outras palavras, não se identifica causa correlata e dotada de caráter inevitável e irresistível, absolutamente estranha aos círculos de atividade de risco e segmentação do setor, tratando-se de acontecimento corriqueiro e absolutamente previsível.
+Assim, não se constatam os vícios alegados.
+No que diz respeito à não configuração da força maior para afastar o dever de indenizar, a Corte local assim se manifestou (fl. 304):
+In casu, entende-se que referida greve configura fato sazonal, rotineiro e previsível, e não força maior a excluir a obrigação de pagar o atraso na devolução dos cofres de transporte. Cabia à ré tomar todas as precauções para evitar entraves burocráticos no cumprimento das disposições contratuais.
+Em outras palavras, não se identifica causa correlata e dotada de caráter inevitável e irresistível, absolutamente estranha aos círculos de atividade de risco e segmentação do setor, tratando-se de acontecimento corriqueiro e absolutamente previsível.
+Rever a conclusão do acórdão ao qualificar a greve como fato previsível e inserido no risco da atividade, demandaria reavaliação do contrato e incursão no campo fático-probatório, providências vedadas na via especial, conforme as Súmulas n. 5 e 7 do STJ.
+Ademais, o Tribunal de origem decidiu em conformidade com a jurisprudência dessa Corte no sentido de que as demurrages possuem natureza jurídica de indenização, e não de cláusula penal , sendo necessária, apenas a comprovação da mora na devolução dos containers.
+A propósito:
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO DE COBRANÇA - SOBREESTADIA DE CONTAINER (DEMURRAGE) - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DA PARTE RÉ.
+1. Incide o óbice recursal da Súmula n. 211 do STJ na hipótese em que as matérias apontadas como violadas (arts. 128, 460, e 514, inc. III, do CPC/73) não tiveram o competente juízo de valor aferido, nem interpretada ou a sua aplicabilidade afastada ao caso concreto pelo Tribunal de origem, apesar da oposição de embargos de declaração.
+2. Para se rever o entendimento do Tribunal de origem, no sentido de que "é perfeitamente cabível na hipótese o julgamento no estado permitido pelo art. 285-A do CPC por se tratar de questão eminentemente de direito e exaustivamente decidida pelo Juízo a quo e, igualmente, por esta Corte", demandaria, inevitavelmente, o exame do contexto fático-probatório dos autos, atraindo o óbice da Súmula 7/STJ. Precedentes: AgRg no REsp 1224065/MS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 08/04/2014, DJe 22/04/2014; AgRg no REsp 1206357/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 20/03/2014, DJe 31/03/2014; e AgRg no AREsp 392.010/DF, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 05/10/2017, DJe 20/10/2017.
+3. De acordo com a jurisprudência desta Corte Superior, as demurrages têm natureza jurídica de indenização, e não de cláusula penal, sendo necessária, apenas, a comprovação da mora na devolução dos containers. Precedentes: REsp 1286209/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 08/03/2016, DJe 14/03/2016; e AgInt no AREsp 842.151/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/03/2017, DJe 07/04/2017.
+4. Agravo interno desprovido. (AgInt no AgInt no AREsp n. 868.193/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 27/2/2018, DJe de 2/3/2018.)
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 15% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+ EMENTA
