@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JOAO VENÍCIO DINIZ contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, que denegou a ordem ao writ originário e manteve a prisão preventiva do paciente.
+Consta dos autos que o paciente foi preso em flagrante, convertido em prisão preventiva em audiência de custódia, em razão da suposta prática dos crimes previstos nos arts. 33, caput, da Lei n. 11.343/06 e no art. 330, caput, do Código Penal.
+Impetrado habeas corpus, a ordem foi denegada pelo Tribunal de origem.
+Inconformada, a defesa impetrou novo habeas corpus, no qual sustenta ausência dos requisitos dos arts. 312 e 313 do CPP, limitando-se a decisão a repetir expressões genéricas sobre a gravidade do tráfico de drogas e a necessidade de preservar a ordem pública, bem como aponta boas condições do paciente, aduzindo serem suficientes medidas cautelares diversas da prisão.
+Requer liminarmente a imediata expedição de alvará de soltura mediante imposição de medidas cautelares alternativas. No mérito, requer a revogação da prisão preventiva, com aplicação de cautelares diversas da prisão.
+A liminar foi indeferida (fls. 31-34).
+As informações foram devidamente prestadas (fls. 39-47).
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ ou, alternativamente, caso conhecido, pela denegação da ordem (fls. 51-56).
+É o relatório.
+A Quinta Turma do Superior Tribunal de Justiça firmou entendimento no sentido de ser inadequada a impetração de habeas corpus quando utilizado em substituição a recurso próprio.
+A teor do disposto no art. 105, II, a, da CF/88, o recurso cabível contra acórdão que denega a ordem na origem é o recurso ordinário, enquanto, consoante previsto no art. 105, III, da CF, o recurso cabível contra acórdão que julga apelação, recurso em sentido estrito e agravo em execução é o recurso especial.
+Nada impede, contudo, a concessão de habeas corpus de ofício quando constatada a existência de ilegalidade flagrante, abuso de poder ou teratologia, nos termos do art. 654, §2º, do CPP, o que ora se passa a examinar.
+A prisão preventiva justifica-se apenas quando devidamente demonstrada sua imprescindibilidade para a preservação da ordem pública, a garantia da regularidade da instrução criminal ou a asseguração da eficácia da aplicação da lei penal, nos termos do art. 312 do Código de Processo Penal.
+O decreto prisional, o qual consta no acórdão, está assim fundamentado (fls. 9-10):
+De análise do feito, verifica-se do acervo probatório que há provas da materialidade da conduta, bem como fortes indícios de autoria, considerando o histórico de ocorrência de ID 10517439021 - f. 10, o auto de apreensão de ID 10517439021 - f. 20, os laudos toxicológicos preliminares de ID 10517450102 - ff. 15/19, ID 10517452667, ID 10517439021 - f. 30 e ID 10517450102 - f. 1, e os depoimentos prestados na Depol.
+Extrai-se de tal documentação, em suma, que militares receberam uma denúncia de que o autuado estaria praticando o tráfico de drogas nas imediações do local denominado "Clube do Cavalo de Curvelo", tendo a guarnição comparecido ao local e visualizou o autuado em atitude suspeita. Que ele, ao perceber a presença policial, tentou empreender fuga, sendo, contudo, contido. Que no quintal da residência foi encontrada uma sacola contendo material para a dolagem de droga, uma balança de precisão, certa quantia em dinheiro e um total de 409,67 gramas de maconha.
+Dando prosseguimento, a situação que se amolda à hipótese do art. 313, inciso I, do Código Processual Penal, pois o crime possui pena máxima que suplanta quatro anos.
+No que diz respeito aos fundamentos, a manutenção da prisão traz conveniência à garantia da ordem pública (art. 312 do CPP), apesar da primariedade que se extrai da CAC de ID 10517450645 - ff. 5/6.
+Com efeito, a apreensão de significativa quantidade droga de entorpecente, quase meio quilo de maconha, revela, não apenas a gravidade concreta da conduta, mas também a periculosidade do agente e o risco que eventual soltura sua traria à sociedade, devido ao potencial de reiteração.
+É sabido, ademais, que o tráfico de drogas é fomentador de diversas atividades criminosas, a exemplo dos crimes patrimoniais e contra a vida, sem contar os transtornos graves à saúde pública que a comercialização de toda a droga encontrada causaria. Assim, a situação exige uma postura enérgica dos órgãos estatais, proporcional à gravidade da conduta, sob pena até mesmo de descrédito que pode culminar em recidiva.
+(..)
+Em arremate, registre-se que as medidas cautelares trazidas no art. 319 do CPP não se prestam aos fins almejados, sendo imperiosa a adotação de medida extrema, em que pese sua excepcionalidade. Isto posto, CONVERTO EM PREVENTIVA A PRISÃO EM FLAGRANTE DEJOÃO VENÍCIO DINIZ, recomendando-o ao estabelecimento prisional em que já se encontra.
+Como já adiantado no exame da liminar, a manutenção da custódia cautelar encontra-se adequadamente motivada, lastreada na garantia da ordem pública, dada a gravidade concreta da conduta imputada: apreensão de significativa quantidade de maconha (409,67 g), material de embalagem, quantia em espécie e balança de precisão, além da tentativa de fuga. Tais circunstâncias evidenciam a periculosidade concreta do agente e revelam a indispensabilidade da manutenção da medida extrema na hipótese.
+Com efeito, nos casos de prisão em flagrante por tráfico de drogas, a conversão em prisão preventiva pode ser decretada quando a gravidade concreta da conduta se evidencia em fatores como a quantidade e a natureza da substância apreendida, a forma de acondicionamento ou a presença de instrumentos destinados à comercialização, circunstâncias que revelam maior potencial lesivo da conduta e indicam periculosidade do agente, ultrapassando a mera gravidade abstrata do delito.
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. CRIMES DE TRÁFICO DE DROGAS E ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO. ALEGAÇÃO DE INOCÊNCIA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. GRANDE QUANTIDADE DE DROGAS. INDÍCIOS DE ENVOLVIMENTO REITERADO. GRAVIDADE CONCRETA DA CONDUTA. SEGREGAÇÃO DEVIDAMENTE JUSTIFICADA PARA A GARANTIA DA ORDEM PÚBLICA. DESPROPORÇÃO EM RELAÇÃO À POSSÍVEL PENA A SER APLICADA. PROGNÓSTICO INVIÁVEL. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. RECURSO NÃO PROVIDO.
+ .. .
+4. Ademais, "É pacífico o entendimento no sentido de que as circunstâncias fáticas do crime, como a quantidade apreendida, a variedade, a natureza nociva dos entorpecentes, a forma de acondicionamento, entre outros aspectos, podem servir de fundamentos para o decreto prisional quando evidenciarem a periculosidade do agente e o efetivo risco à ordem pública, caso permaneça em liberdade."(AgRg no HC n. 787.386/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/12/2022, DJe 19/12/2022).
+ ..
+7. Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando evidenciada a sua insuficiência para acautelar a ordem pública.
+8. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 957.245/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 12/2/2025, DJEN de 18/2/2025.)
+De outra parte, quando presentes os requisitos do art. 312 do CPP, a imposição da prisão preventiva é medida de rigor, independentemente de condições pessoais favoráveis do agente, mostrando-se inadequadas medidas cautelares diversas do art. 319, quando a custódia provisória apresentar fundamentação concreta.
+Nesse sentido, " a  presença de condições pessoais favoráveis não impede a imposição da prisão preventiva, quando presentes os requisitos legais" (AgRg no HC n. 990.311/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/4/2025, DJEN de 30/4/2025).
+Assim, "tendo sido exposta de forma fundamentada e concreta a necessidade da prisão, revela-se incabível sua substituição por outras medidas cautelares mais brandas" (AgRg no HC n. 965.960/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/3/2025, DJEN de 10/3/2025).
+Não há, portanto, flagrante ilegalidade que justifique a concessão da ordem de ofício.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
