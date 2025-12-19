@@ -1,0 +1,18 @@
+DECISÃO
+No presente writ, impugna-se a decisão interlocutória do Desembargador do Tribunal de Justiça de São Paulo Relator da Apelação n. 0003342.50.2021.8.26.0077, que indeferiu o pedido de conversão do julgamento em diligências feito pela defesa de MOIZES CONSTANTINO FERREIRA NETO (fls. 72/75).
+O impetra nte alega a existência de um ato coator complexo consistente na dupla negativa do Tribunal a quo em reconhecer nulidades absolutas já consolidadas e integralmente demonstráveis de plano (fl. 5) - tais como a incompetência absoluta da Justiça estadual, a quebra da cadeia de custódia das provas digitais, o cerceamento de defesa decorrente da reiterada negativa do juízo de acesso aos arguivos originais, às mídias, aos metadados e aos registros de integridade digital (fl. 7), e a duplicidade de ações com identidade de fato, partes e causa de pedir, configurando violação direta do princípio do ne bis in idem -, criando obstáculo intransponível à defesa.
+Argumenta que, primeiro, o Tribunal se recusa a analisar as nulidades por entender que precisa de mais provas, e, depois, quando a defesa pede para produzir exatamente as provas oficiais que o Tribunal supostamente necessita, ele indefere o pedido, com base em um fundamento logicamente equivocado (fl. 9).
+Sustenta que não se trata de uma mera decisão interlocutória, mas de uma estratégia de protelação e obstrução que, na prática, impede a análise das nulidades e mantém o Paciente submetido a gravíssimas medidas cautelares com base em um processo manifestamente viciado (fl. 9).
+Aduz que a coação ilegal aqui não é apenas a manutenção de um processo nulo, mas a perpetuação de medidas gravíssimas que dele decorrem, em especial o bloqueio total dos bens e ativos da pessoa jurídica M12 Obras e Acabamentos LTDA, inclusive com o impedimento de suas atividades perante a Junta Comercial do Estado de São Paulo (JUCESP) (fl. 36).
+Requer, em liminar, a imediata suspensão de todas as medidas cautelares diversas da prisão impostas ao paciente, em especial o imediato e integral desbloqueio de todos os bens e ativos pertencentes ao paciente e apreendidos no processo (fl. 37), bem como a expedição de ofícios de requisição de documentos, conforme descrito à fl. 38. No mérito, pede a concessão da ordem para trancar a ação penal, por ausência de justa causa, ou para anular integralmente o processo a partir da denúncia, em razão do flagrante e contínuo cerceamento de defesa.
+É o relatório.
+Este habeas corpus foi impetrado contra decisão interlocutória, monocrática, proferida no Tribunal local, contra a qual caberia a interposição de recurso interno a ser submetido ao Colegiado competente, na mesma instância, o que não foi feito.
+No momento, não cabe a análise da controvérsia por esta Corte, dada a falta de manifestação acerca da questão pela Turma julgadora. Ora,
+1. O writ foi interposto contra decisão monocrática de Desembargador do Tribunal de Justiça do Estado de São Paulo, contra o qual seria cabível agravo regimental. Nesse contexto, não é possível o conhecimento do pedido, uma vez que, a teor do art. 105, II, "a", da CF, não houve julgamento em última instância pela Corte antecedente, a ensejar a inauguração da competência desta Corte.
+ ..
+(AgRg no HC n. 625.731/SP, Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 18/12/2020).
+Pelo exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. IMPUGNAÇÃO DE DECISÃO MONOCRÁTICA. FALTA DE CABIMENTO. INSTÂNCIA ANTECEDENTE NÃO EXAURIDA. ANÁLISE DO MÉRITO PELO SUPERIOR TRIBUNAL DE JUSTIÇA. INVIABILIDADE.
+Writ indeferido liminarmente.
