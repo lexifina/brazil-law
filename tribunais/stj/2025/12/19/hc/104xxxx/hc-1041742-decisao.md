@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ALEXANDRO FERREIRA COSTA contra ato proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, no julgamento da Apelação Criminal nº 1.0000.25.031692-4/001, que mantendo a condenação do paciente redimensionou a fração do concurso formal para 1/4, ajustando a pena definitiva (fls. 10-19; 33-34).
+Verifico que o paciente foi condenado pela prática do crime de roubo majorado, previsto no artigo 157, § 2º, incisos II e V, e § 2º-A, inciso I, do Código Penal, por seis vezes, na forma do artigo 70 do Código Penal, às penas de 14 (quatorze) anos e 7 (sete) meses de reclusão e 34 (trinta e quatro) dias-multa, em regime inicial fechado, negado o direito de recorrer em liberdade (fls. 72; 74-75).
+Em sede de apelação, o Tribunal local manteve as penas fixadas para cada delito de roubo, reconheceu quatro vítimas distintas e, ao aplicar a regra do concurso formal, reduziu a fração de aumento para 1/4, concretizando, para o paciente, 12 (doze) anos, 1 (um) mês e 25 (vinte e cinco) dias de reclusão e 28 (vinte e oito) dias-multa, em regime inicial fechado (fls. 33-34).
+A defesa alega ilegalidade na dosimetria da pena por violação aos artigos 59, 68 e 70 do Código Penal, além de bis in idem quanto à reincidência e indevida compensação com a atenuante da confissão, bem como nulidade por ofensa ao artigo 155 do Código de Processo Penal, apontando, ainda, ausência de fundamentação concreta na exasperação pela fração do concurso formal e falta de individualização de delitos, vítimas e res furtiva (fls. 2-9).
+As informações foram prestadas pelo Juízo singular (fl. 1485).
+O pedido liminar foi indeferido, por estar imbricado com o próprio mérito da impetração, com determinação de requisição de informações e vista ao Ministério Público Federal (fls. 1472).
+O Ministério Público Federal apresentou parecer pelo não conhecimento do habeas corpus, destacando a inadmissibilidade do writ como sucedâneo de recurso próprio e a tramitação concomitante de recurso especial contra o mesmo ato, bem como a ausência de ilegalidade flagrante na espécie, dado que o acórdão já readequou a fração do concurso formal de 1/2 para 1/4 (fls. 1492-1496).
+É o relatório. DECIDO.
+Cinge-se a controvérsia acerca da inidoneidade do aumento da pena na primeira fase da sua aplicação, como também sobre a equivocada compensação da atenuante da confissão com a reincidência e, enfim, sobre a indevida fração aplicada a título de concurso formal de crimes.
+Contudo, a presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida.
+A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Também não vislumbro a presença de coação ilegal que desafie a concessão da ordem ofício, em observância § 2º do artigo 654 do Código de Processo Penal.
+Acerca da dosimetria da pena o tribunal impetrado estabeleceu, na parte importante para o momento, o que se segue (fls. 27-28):
+"As sanções basilares foram corretamente estabelecidas acima do mínimo legal, em virtude dos maus antecedentes do réu, que é multirreincidente, conforme CAC de p. 872/877, registrando cinco condenações definitivas por fatos praticados em data anterior ao delito em tela, com trânsito em julgado também em data anterior.
+Ao contrário do que alega a defesa, não ficou caracterizada a dupla valoração da reincidência nas primeira e segunda fases da dosimetria, tendo o juízo de primeira instância considerado duas condenações para fins de reincidência e as demais para efeito de maus antecedentes, o que não configura bis in idem. Ademais, é irrelevante que não tenham sido apontadas "quais condenações foram utilizadas para elevar a pena-base"
+ ..
+Desse modo, tendo sido consideradas condenações definitivas distintas para o reconhecimento dos maus antecedentes e da multirreincidência, rejeito a tese defensiva e mantenho as reprimendas do apelante tais como estabelecidas na sentença.
+ ..
+Lado outro, impõe-se a alteração do quantum de aumento de pena aplicado em face do concurso formal de crimes.
+Como cediço, o critério a ser utilizado na escolha da fração em análise é o número de crimes cometidos.
+Na hipótese em tela, ficou comprovada a subtração de bens patrimoniais pertencentes a quatro vítimas distintas, quais sejam, Sacolão ABC (quantia aproximada de R$3.500,00 em dinheiro); T. A. M. (1 aparelho celular Xiaomi, 2 cartões bancários e a quantia de R$500,00 em dinheiro); A. E. X. S. (1 aparelho celular Samsung); e H. P. P. (1 aparelho celular Iphone).
+Assim sendo, deve ser aplicada a fração intermediária de  (um quarto). "
+Com efeito, a Corte de origem, em fundamentação idônea e suficiente, consignou que o paciente ostenta a condição de multirreincidente, contando com cinco condenações definitivas por fatos anteriores ao delito ora examinado. Nesse contexto, revela-se legítima a utilização de duas dessas condenações para o reconhecimento da agravante da reincidência, bem como das remanescentes para a valoração negativa dos maus antecedentes, inexistindo qualquer bis in idem. Ademais, a defesa não impugna a existência dos éditos condenatórios, sendo certo que o expressivo número de condenações definitivas torna despicienda a individualização pormenorizada de cada processo em cada fase da dosimetria, porquanto inequívoca a autonomia das condenações utilizadas como paradigmas em momentos distintos da aplicação da pena.
+Corrobora:
+" ..
+2. Inexistência de flagrante ilegalidade que autorize a concessão da ordem de ofício, pois, em se tratando de pessoa multirreincidente, é perfeitamente possível que uma das condenações seja utilizada com o intuito de reincidência enquanto as demais sejam consideradas como antecedentes criminais.
+ ..
+4. Agravo regimental improvido."
+(AgRg no HC n. 966.821/MG, relator Ministro Og Fernandes, Sexta Turma, julgado em 14/4/2025, DJEN de 24/4/2025.)
+Ademais, a tese de que houve indevida compensação não foi não foi objeto de debate pelo Tribunal local. Para se considerar o tema como tratado pela instância antecedente, é necessária a efetiva manifestação cognitiva sobre a temática suscitada, de modo a cotejar a realidade dos autos com o entendimento jurídico indicado. Em reforço: AgRg nos EDcl no HC n. 779.738/RN, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 11/3/2024, DJe de 14/3/2024. De qualquer modo, já se viu a autonomia das condenações utilizadas nas primeira e segunda fases de aplicação da pena tornando plenamente viável a compensação entre a confissão espontânea e a reincidência levada a efeito na origem.
+Por fim, ao dar parcial provimento ao recurso defensivo, a Corte de origem procedeu à adequação da fração de aumento decorrente do concurso formal de crimes, redimensionando-a de acordo com o número de infrações praticadas (mesma conduta que se desdobrou em agressão a quatro vítimas diferentes), o que resultou na fixação da fração de 1/4, em consonância com a jurisprudência consolidada desta Corte Superior.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. LATROCÍNIO, RECEPTAÇÃO E DANO QUALIFICADO. CONCURSO FORMAL. DESPROPORCIONALIDADE NA DOSIMETRIA. NÃO OCORRÊNCIA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA. DESPROVIMENTO.
+ ..
+IV. Reconhecido o concurso formal pela prática de três crimes, exasperou-se a reprimenda em 1/5, inexistindo desproporcionalidade, consoante a jurisprudência desta Corte: " n o concurso formal, a fração de aumento de pena deve observar o número de infrações penais cometidas. Assim, praticados três crimes de roubo, deve incidir no caso a fração de 1/5" (REsp n. 1.860.184/RS, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 25/8/2020, DJe de 4/9/2020.)
+ ..
+VII. Agravo regimental desprovido.
+(AgRg no HC n. 799.663/PR, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 8/4/2024, DJe de 11/4/2024.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
