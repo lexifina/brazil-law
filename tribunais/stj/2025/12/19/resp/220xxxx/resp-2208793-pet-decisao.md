@@ -1,0 +1,12 @@
+DECISÃO
+A parte GTCON TECNOLOGIA & SERVIÇOS LTDA, ora requerente (recorrente), por meio de petição protocolizada sob o n. 00853401/2025 (fls. 512-520), noticia a celebração de acordo na via administrativa, "submetendo a respectiva minuta à apreciação do juízo a quo, ocasião em que restou pleiteada a suspensão do julgamento do presente recurso, pedido este deferido às fls. 153" (fl. 512). Requer "a apreciação da minuta ora apresentada, postulando a homologação do acordo, a fim de que produza seus regulares efeitos jurídicos e legais" (fl. 512).
+Por sua vez, EFICÁCIA APOIO EM GESTÃO ADMINISTRATIVA LTDA, ora requerida (recorrida), apresentou petição sob o n. 01028826/2025, informando o seguinte (fl. 524):
+ ..  em relação ao processo supra referenciado, o D. Juízo "a quo", reafirmou o quanto proferido na decisão anterior (que os autos se encontram submetidos ao Superior Tribunal de Justiça, por meio da interposição de Recurso Especial, portanto, não cabe a este Juízo proferir decisão nestes autos. Eventual homologação de acordo deverá ser submetido ao Juízo Ad Quem), não havendo sido proferida decisão de homologação do acordo.
+Todavia, em relação a Ação de Execução de Título Extrajudicial, que deu origem aos Embargos, qual seja, Processo nº 1006115-56.2020.8.26.0604, prolatou sentença homologatória do acordo pactuado entre as partes (cópia anexa), julgando o feito extinto, certificando-se o trânsito em julgado, inclusive determinando a remessa da sentença a Vossa Excelência, o que se faz nessa oportunidade.
+Nesse contexto, requer "seja analisada e apreciada a minuta de acordo pactuada pelas partes, sendo proferida decisão de homologação do pacto firmado, a fim de que produza seus regulares efeitos jurídicos e legais, determinando-se ainda a baixa dos autos a instância de origem" (fl. 524).
+Os advogados subscritores das referidas petições possuem poderes para tanto (fls. 27, 48 e 86).
+A realização de acordo pelas partes, conforme se infere das informações constantes dos autos, denota a superveniente falta de interesse recursal por perda de objeto do presente recurso especial (fls. 329-353).
+Diante do exposto, HOMOLOGO o acordo firmado entre as partes, às fls. 499-506, em conformidade com o art. 34, IX, do RISTJ, e JULGO PREJUDICADO o recurso por perda de objeto.
+Feitas as anotações de praxe, devolvam-se os autos ao Tribunal de origem, para as providencias cabíveis.
+Publique-se e intimem-se.
+EMENTA
