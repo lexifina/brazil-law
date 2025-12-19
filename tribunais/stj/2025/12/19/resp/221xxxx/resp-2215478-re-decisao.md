@@ -1,0 +1,50 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça que negou provimento ao agravo interno e, por conseguinte, manteve a decisão que não conheceu do recurso especial em razão da incidência da Súmula n. 282 do STF.
+O julgado recorrido recebeu a seguinte ementa (fl. 174):
+PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 282/STF. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL. DESCABIMENTO.
+I - É entendimento pacífico desta Corte que a ausência de enfrentamento da questão objeto da controvérsia pelo tribunal a quo impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula n. 282 do Supremo Tribunal Federal.
+II - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil, em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+III - Agravo Interno improvido.
+Os embargos de declaração opostos na sequência foram rejeitados (fls. 201-209).
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão impugnado, aos arts. 5º, XXXV, LIV, LV e LXXVIII, e 93, IX, da Constituição Federal.
+Sustenta, em síntese, que a decisão desta Corte Superior de Justiça teria sido omissa na análise dos argumentos defensivos, em violação ao dever constitucional de fundamentação das decisões judiciais.
+Requer, assim, a admissão e o provimento do recurso.
+É o relatório.
+2. Inicialmente, defere-se o pedido de gratuidade de justiça formulado à fl. 222 tão somente no que se refere às custas para a interposição do presente recurso, nos termos do art. 98, § 5º, do Código de Processo Civil, bem como da Lei n. 1.060/1950.
+3. No julgamento do paradigma vinculado ao Tema n. 339, o Supremo Tribunal Federal apreciou a seguinte questão:
+ ..  se decisão que transcreve os fundamentos da decisão recorrida, sem enfrentar pormenorizadamente as questões suscitadas nos embargos declaratórios, afronta o princípio da obrigatoriedade de fundamentação das decisões judiciais, nos termos do art. 93, IX, da Constituição Federal.
+Na ocasião, firmou-se a seguinte tese vinculante:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas.
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessária a apreciação de todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da Constituição Federal não está relacionada ao acerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso dos autos, foram apresentados, de forma satisfatória, os fundamentos da conclusão do acórdão recorrido, como se observa do seguinte trecho do referido julgado (fls. 178-181):
+Observo que a insurgência, no que toca à alegada violação aos arts. 188 e 277 do CPC, carece de prequestionamento, uma vez que os dispositivos não foram analisados pelo Tribunal de origem.
+Com efeito, o prequestionamento significa o prévio debate da questão no Tribunal a quo, à luz da legislação federal indicada, com emissão de juízo de valor acerca da tese recursal e dos dispositivos legais apontados como violados.
+No caso, o Tribunal local não analisou, ainda que implicitamente, a aplicação dos suscitados dispositivos.
+A própria parte recorrente reconhece, em suas razões recursais, que "o Venerando Acórdão, data máxima vênia, não levou em consideração a possibilidade de aplicação dos artigos 188 e 277 do Novo Código de Processo Civil " (fl. 66e).
+É entendimento pacífico desta Corte que a ausência de enfrentamento da questão objeto da controvérsia pelo tribunal a quo impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula 282 do Colendo Supremo Tribunal Federal: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+ ..
+O atual Estatuto Processual admite o denominado prequestionamento ficto, é dizer, aquele que se consuma " ..  com a mera oposição de aclaratórios, sem que o Tribunal a quo tenha efetivamente emitido juízo de valor sobre as teses debatidas" (AgRg no REsp 1.514.611/PR, Rel. Min. Sérgio Kukina, 1ª T., DJe 21.06.2016),  ..
+No entanto, na linha da orientação adotada por este Superior Tribunal, somente poder-se-ia considerar prequestionada a matéria especificamente alegada - de forma clara, objetiva e fundamentada - e reconhecida a violação ao art. 1.022 do CPC/15, como o demonstram os seguintes precedentes:
+ ..
+Dessa forma, em que pesem as alegações trazidas, os argumentos apresentados são insuficientes para desconstituir a decisão impugnada.
+Do mesmo modo, foi devidamente motivada a rejeição dos embargos de declaração, nos seguintes termos (fls. 207-208):
+Depreende-se da leitura da decisão que a controvérsia foi examinada de forma satisfatória, mediante apreciação da disciplina normativa e cotejo ao firme posicionamento jurisprudencial aplicável à hipótese.
+O procedimento encontra amparo em reiteradas decisões no âmbito desta Corte Superior, de cujo teor merece destaque a rejeição dos embargos declaratórios uma vez ausentes os vícios do art. 1.022 do Código de Processo Civil de 2015 (v. g. Corte Especial, EDcl no AgInt nos EAREsp n. 1.990.124/MG, Rel. Min. Ricardo Villas Bôas Cueva, DJe de 14.8.2023; 1ª Turma, EDcl no AgInt nos EDcl nos EDcl nos EDcl no REsp n. 1.745.723/RJ, Rel. Min. Sérgio Kukina, DJe de 7.6.2023; e 2ª Turma, EDcl no AgInt no AREsp n. 2.124.543/RJ, Rel. Min. Assusete Magalhães, DJe de 23.5.2023).
+Ressalto, ainda, que, de acordo com a jurisprudência desta Corte, o recurso integrativo não se presta a corrigir eventual desconformidade entre a decisão embargada e a prova dos autos, ato normativo, acórdão proferido pelo tribunal de origem em outro processo, o entendimento da parte, outras decisões deste Tribunal, bem como não se revela instrumento processual vocacionado para sanar eventual error in judicando.
+Outrossim, cumpre asseverar ser inviável o atendimento ao pleito de prequestionamento de dispositivos constitucionais, porquanto tarefa reservada pela Constituição da República ao Supremo Tribunal Federal.
+Assim, fica inviabilizado o exame pretendido nesta insurgência.
+Com efeito, demonstrado que houve prestação jurisdicional compatível com a tese fixada pelo STF no Tema n. 339 sob o regime da repercussão geral, é inviável o prosseguimento do recurso extraordinário, que deve ter o seguimento negado.
+4. No tocante às demais alegações, nos termos do art. 102, § 3º, da Constituição Federal, o recurso extraordinário deve ser dotado de repercussão geral, requisito indispensável à sua admissão.
+Por sua vez, o STF já definiu que a discussão relativa ao preenchimento dos pressupostos de admissibilidade de recurso anterior, de competência de outro tribunal, não tem repercussão geral.
+Quando o STJ não analisar o mérito do recurso de sua competência, tal como verificado nestes autos, qualquer alegação do recurso extraordinário demandaria a rediscussão dos requisitos de admissibilidade do referido recurso, exigindo a apreciação dos dispositivos legais que versam sobre tais pressupostos.
+No Tema n. 181 do STF, a Suprema Corte afirmou que "a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional" (RE n. 598.365-RG, relator Ministro Ayres Britto, Tribunal Pleno, julgado em 14/8/2009, DJe de 26/3/2010).
+O entendimento em questão incide tanto em situações nas quais as razões do recurso extraordinário se referem ao não conhecimento do recurso anterior quanto naquelas em que as alegações se relacionam à matéria de fundo da causa.
+Essa conclusão foi adotada sob o regime da repercussão geral e é de aplicação obrigatória, devendo os tribunais, ao analisar a viabilidade prévia dos recursos extraordinários, negar seguimento àqueles que discutam questão à qual o Supremo Tribunal Federal não tenha reconhecido a existência de repercussão geral, nos termos do art. 1.030, I, a, do CPC.
+Como exemplos da aplicação do Tema n. 181 do STF em casos semelhantes, confiram-se: ARE n. 1.256.720-AgR, relator Ministro Dias Toffoli (Presidente), Tribunal Pleno, julgado em 4/5/2020, DJe de 26/5/2020; ARE n. 1.317.340-AgR, relatora Ministra Cármen Lúcia, Segunda Turma, julgado em 12/5/2021, DJe de 14/5/2021; ARE n. 822.158-AgR, relator Ministro Edson Fachin, Primeira Turma, julgado em 20/10/2015, DJe de 24/11/2015.
+Da mesma forma, o recurso extraordinário deve ter o seguimento negado por aplicação do Tema n. 181 do STF também nas hipóteses em que for alegada ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+5 . Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Vale registrar não ser cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC) contra decisões que negam seguimento a recurso extraordinário, conforme o § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. NÃO CONHECIMENTO DE RECURSO ANTERIOR, DE COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. REQUISITOS DE ADMISSIBILIDADE. DEBATE OU SUPERAÇÃO. IMPOSSIBILIDADE. TEMA N. 181 DO STF, SOB A SISTEMÁTICA DA REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
