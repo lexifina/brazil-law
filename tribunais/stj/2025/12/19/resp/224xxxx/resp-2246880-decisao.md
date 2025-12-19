@@ -1,0 +1,66 @@
+DECISÃO
+Cuida-se de recurso especial interposto por BRENO MENDES FERREIRA, fundamentado nas alíneas a do permissivo constitucional, no intuito de reformar acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 1178, e-STJ):
+APELAÇÃO CÍVEL - PRELIMINAR DE ILEGITIMIDADE ATIVA - INOVAÇÃO RECURSAL - INOCORRÊNCIA - MATÉRIA DE ORDEM PÚBLICA INSUSCETIVEL À PRECLUSÃO TEMPORAL - ACOLHIMENTO - CESSÃO DE DIREITOS E OBRIGAÇÕES DECORRENTES DO CONTRATO OBJETO DA LIDE - PACTUAÇÃO ANTERIOR AO AJUIZAMENTO DA AÇÃO - EXTINÇÃO DO FEITO SEM RESOLUÇÃO DE MÉRITO.
+- A legitimidade ativa constitui matéria de ordem pública cognoscível até mesmo de ofício em qualquer tempo e grau de jurisdição, razão pela qual sua arguição em alegações finais e em sede de Apelação não esbarra na vedação à inovação recursal.
+- Diante da formalização regular de instrumento de cessão de direitos e obrigações decorrentes do contrato de compra e venda objeto da lide, previamente ao ajuizamento da ação, impõe-se reconhecer a ilegitimidade ativa do comprador anterior, então cedente, para discutir em juízo as cláusulas da avença cuja titularidade não mais lhe pertence.
+V.V. EMENTA: APELAÇÃO CÍVEL - ILEGITIMIDADE ATIVA - CEDENTE - SITUAÇÃO CONSOLIDADE PREVIAMENTE À CESSÃO - PERTINÊNCIA SUBJETIVA PARA REPARAÇÃO MATERIAL E MORAL CONFIGURADA - PRELIMINAR REJEITADA.
+- Segundo Teoria da Asserção, as condições da ação devem ser aferidas em abstrato, no momento da propositura da ação, e tomando por base as alegações apresentadas na inicial.
+Opostos embargos de declaração, foram rejeitados nos termos do acórdão de fls. 1325-1333, e-STJ.
+Nas razões do recurso especial (fls. 1404-1415, e-STJ), a parte insurgente apontou violação aos seguintes artigos: a) 489 e 1.022 do CPC, ao argumento de negativa de prestação jurisdicional por omissões relevantes não sanadas no julgamento dos embargos de declaração, inclusive acerca da necessidade de retorno à origem; b) 350, 434, 485, IV, VI e § 1º, do CPC, por não ter sido oportunizada produção de prova desconstitutiva sobre fato impeditivo, modificativo ou extintivo do direito do autor, bem como em razão de juntada extemporânea de documentos na fase recursal sem abertura de contraditório.
+Contrarrazões apresentadas às fls. 1425-1436; 1441-1446; 1451-1456, e-STJ.
+Em juízo de admissibilidade (fls. 1502-1506, e-STJ), admitiu-se o recurso, ascendendo os autos a esta Corte.
+Contraminuta: não consta.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. De início, a parte insurgente alega violação aos artigos 489 e 1.022 do CPC, ao argumento de negativa de prestação jurisdicional por omissões relevantes não sanadas no julgamento dos embargos de declaração, inclusive acerca da necessidade de retorno à origem.
+Aponta, em síntese, a presença dos seguintes vícios no julgado: a) omissão quanto à aplicação do artigo 350 do CPC, que exige prova desconstitutiva do direito do autor quando alegada pela parte contrária, destacando que a ilegitimidade ativa depende de análise probatória, sendo necessário o retorno à primeira instância para saneamento; b) omissão sobre a juntada extemporânea da certidão de matrícula imobiliária, sem oportunidade de manifestação do autor, configurando cerceamento de defesa.
+Sobre os temas acima, a Corte de origem, assim consignou (fl. 1183-1186, e-STJ):
+Em sede de contrarrazões (ordem 119), o Autor/2º Apelante assinala a ocorrência de inovação recursal em relação à preliminar de ilegitimidade ativa arguida pela Ré/3ª Apelante, com base nos seguintes argumentos:
+ ..
+Não obstante, a legitimidade "ad causam" consiste em uma das condições da ação, logo, reflete matéria de ordem pública, cognoscível até mesmo de ofício em qualquer tempo e grau de jurisdição.
+ ..
+Assim, malgrado a tese de ilegitimidade ativa haver sido aventada pela Ré/3ª Apelante apenas por ocasião das suas alegações finais, e reiterada em sua minuta recursal, nada impede a respectiva deliberação judicial, por se tratar de questão insuscetível de preclusão.
+ ..
+Posto isso, AFASTO A PRELIMINAR DE INOVAÇÃO RECURSAL suscitada em contrarrazões pelo Autor/2º Apelante.
+PRELIMINAR DE ILEGITIMIDADE ATIVA ARGUIDA PELA RÉ/3ª APELANTE.
+Em suas razões recursais, a Ré/3ª Apelante argui preliminar de ilegitimidade ativa do Autor/2º Apelante, haja vista o pacto de "Instrumento Particular de Cessão de Direitos e Obrigações sobre Instrumento Particular de Promessa de Compra e Venda" por meio do qual ele cedeu a totalidade dos direitos porventura decorrentes do contrato originário, antes mesmo do ajuizamento da ação.
+Destaca-se que o próprio Autor/2º Apelante instruiu a inicial com o referido instrumento (pág. 09/12, ordem 13), o qual foi firmado em 31/07/2012, muito anteriormente à distribuição do feito, por sua vez ocorrida em 16/09/2014.
+Ademais, o teor do documento acima referenciado é claro ao estipular a cessão pelo Autor/2º Apelante de todos os direitos e obrigações decorrentes da promessa de compra e venda do imóvel "sub judice", a favor de terceiros estranhos à lide, VAGNO LAS CASAS DOS SANTOS e ANA PAULA RODRIGUES LAS CASAS.
+Não se vislumbram as alegadas omissões, pois o órgão julgador dirimiu a controvérsia de forma ampla e fundamentada, embora não tenha acolhido as pretensões da parte insurgente.
+Ademais, a orientação desta Corte é no sentido de que o julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, nem a indicar todos os dispositivos legais suscitados, quando tenha encontrado motivação satisfatória para dirimir o litígio, como ocorrera na hipótese.
+Nesse sentido, confira-se:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. DANO AMBIENTAL. NAVIO BAHAMAS. DANOS À ATIVIDADE PESQUEIRA. PRESCRIÇÃO DA PRETENSÃO INDIVIDUAL. AJUIZAMENTO DE AÇÃO CIVIL PÚBLICA PARA APURAÇÃO DAS RESPONSABILIDADES. MARCO DE INTERRUPÇÃO DA PRESCRIÇÃO DA PRETENSÃO DA AÇÃO INDIVIDUAL. NULIDADE POR NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211 DO STJ. ACÓRDÃO EM HARMONIA COM JURISPRUDÊNCIA DOMINANTE NO STJ. SÚMULA 83 DO STJ. INCIDÊNCIA. REVOLVIMENTO DO CONJUNTO FÁTICO E PROBATÓRIO DOS AUTOS. SÚMULA 7 DO STJ. INCIDÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há que falar em violação ao art. 1022 Código de Processo Civil/15 quando a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido diverso à pretensão da parte recorrente.
+ ..
+(AgInt no AREsp n. 1.832.549/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 16/8/2021, DJe de 24/8/2021.)  grifou-se
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRESTAÇÃO JURISDICIONAL ADEQUADA. ALIENAÇÃO FIDUCIÁRIA. AÇÃO DE BUSCA E APREENSÃO. NOTIFICAÇÃO PRÉVIA. CONDIÇÃO DE PROCEDIBILIDADE. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+ ..
+(AgInt no AREsp n. 1.455.461/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 27/6/2022, DJe de 1/7/2022.)  grifou-se
+Como se vê, não se vislumbram omissões, porquanto o acórdão restou devida e suficientemente fundamentado sobre as questões necessárias ao deslinde da controvérsia, não havendo falar em ofensa aos referidos dispositivos.
+Na mesma linha, precedentes: AgRg no REsp 1291104/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 17/05/2016, DJe 02/06/2016; AgRg no Ag 1252154/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 23/06/2015, DJe 30/06/2015; REsp 1395221/SP, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 05/09/2013, DJe 17/09/2013.
+Inexiste, portanto, violação aos artigos 489 e 1.022 do CPC, visto que a matéria fora apreciada pelo Tribunal de origem, cuja fundamentação foi clara e suficiente para o deslinde da controvérsia.
+2. Em seguida, a parte insurgente alega violação aos artigos 350, 434, 485, IV, VI e § 1º, do CPC, por não ter sido oportunizada produção de prova desconstitutiva sobre fato impeditivo, modificativo ou extintivo do direito do autor, bem como em razão de juntada extemporânea de documentos na fase recursal sem abertura de contraditório.
+Sustenta, em síntese, que "A ilegitimidade ativa discutida nos autos não é uma questão meramente objetiva, mas que depende da análise de provas, especialmente aquelas que possam modificar ou extinguir o direito do Recorrente. O r. acórdão recorrido não considerou a necessidade de retorno dos autos à primeira instância para o saneamento da prova desconstitutiva" (fl. 1412, e-STJ).
+Acerca da controvérsia, a Corte de origem concluiu que a legitimidade "ad causam" consiste em uma das condições da ação, logo, reflete matéria de ordem pública, cognoscível até mesmo de ofício em qualquer tempo e grau de jurisdição. Concluiu, ainda, que o próprio insurgente instruiu a inicial com o "Instrumento Particular de Cessão de Direitos e Obrigações sobre Instrumento Particular de Promessa de Compra e Venda" (fls. 1183-1186, e-STJ). Observa-se, ainda, que o contraditório foi devidamente exercido por meio das contrarrazões à apelação cível (fls. 1035-1047, e-STJ).
+Com efeito, a conclusão adotada pela Corte de origem está em consonância com a jurisprudência desta Corte, no sentido de que as questões de ordem pública, como a legitimidade das partes, podem ser conhecidas, inclusive de ofício, em qualquer grau de jurisdição ordinária, até o trânsito em julgado, pois não sujeitas à preclusão temporal, mas à coisa julgada e sua eficácia preclusiva.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SÚMULA 182/STJ. INAPLICABILIDADE. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. CUMPRIMENTO DE SENTENÇA. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. TRÂNSITO EM JULGADO. LEGITIMIDADE ATIVA. DISCUSSÃO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. NÃO CABIMENTO. AGRAVO PROVIDO. RECURSO ESPECIAL IMPROVIDO.
+1. Nos termos da jurisprudência desta Corte, enquanto não decididas, as questões de ordem pública, como a legitimidade das partes, podem ser conhecidas, inclusive de ofício, em qualquer grau de jurisdição ordinária, até o trânsito em julgado, pois não sujeitas à preclusão temporal, mas à coisa julgada e sua eficácia preclusiva. Após o trânsito em julgado, no entanto, deverá ser suscitada por meio de impugnação autônoma (querela nullitatis) e ação rescisória.
+Precedentes.
+2. Na hipótese, conforme quadro fático delineado pelo Tribunal de origem, a tese de ilegitimidade ativa do espólio embargante e de consequente nulidade da sentença não foi alegada durante a fase de conhecimento dos embargos de terceiro, mas somente 3 (três) anos após o trânsito em julgado e já em sede de cumprimento de sentença.
+3. Transitada em julgado a sentença que julgou os embargos de terceiro, surge a eficácia preclusiva da coisa julgada, razão pela qual não pode a parte executada, na fase de cumprimento de sentença, agitar tema que poderia ter sido suscitado na fase de conhecimento e não o foi, mesmo se tratando de matéria de ordem pública, haja vista a preclusão máxima da res judicata. Conclusão diversa implicaria eternizar as discussões alusivas ao feito executivo, o que milita em desfavor da boa-fé processual, da efetividade e da razoável duração do processo.
+3. Agravo interno provido para, em novo exame, conhecer do agravo para negar provimento ao recurso especial.
+(AgInt no AREsp n. 2.529.297/GO, relator Ministro Raul Araújo, Quarta Turma, julgado em 19/8/2024, DJe de 2/9/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. LEGITIMIDADE ATIVA. MATÉRIA DE ORDEM PÚBLICA. ASSISTÊNCIA SIMPLES. INTERESSE ECONÔMICO E JURÍDICO. AUSÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. Segundo a jurisprudência desta Corte Superior, "enquanto não decididas, as questões de ordem pública, como a legitimidade ativa, podem ser conhecidas, inclusive de ofício, em qualquer grau de jurisdição ordinária, pois não sujeitas à preclusão temporal, mas à coisa julgada e sua eficácia preclusiva" (AgInt no AREsp n. 2.004.035/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 13/6/2022, DJe de 29/6/2022).
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. No caso concreto, o Tribunal de origem concluiu pela ausência de interesse econômico e jurídico, indeferindo o pedido de assistente simples. Entender de modo contrário demandaria nova análise dos demais elementos fáticos dos autos, inviável em recurso especial, ante o óbice da referida súmula.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.039.259/MA, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 12/6/2023, DJe de 19/6/2023.)
+3. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, nego provimento ao recurso especial.
+Por conseguinte, nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
