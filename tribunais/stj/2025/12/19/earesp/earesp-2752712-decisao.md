@@ -1,0 +1,22 @@
+DECISÃO
+1. Cuida-se de embargos de divergência interpostos por NEWTON FIRMINO DA CRUZ em face de acórdão da Primeira Turma, da relatoria do Ministro Sérgio Kukina, que não conheceu do agravo interno do ora insurgente, nos termos da seguinte ementa:
+PROCESSUAL CIVIL. ADMINISTRATIVO. IMPROBIDADE. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO AO FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ.
+1. É inviável a apreciação do agravo interno que deixa de atacar, especificamente, de forma particularizada, o fundamento da decisão agravada. Incidência, na espécie, da Súmula 182/STJ.
+2. Agravo interno não conhecido.
+Em suas razões, o embargante aponta dissenso interpretativo entre o acórdão embargado e julgado da Segunda Seção no sentido de que "a ausência de impugnação de fundamentos autônomos não acarreta o não conhecimento do recurso, mas, tão somente, a preclusão do tema, o que não se aplica na hipótese de decisão com fundamento único ou com capítulos que dependam um do outro" (AgInt nos EREsp n. 1.632.766/SP, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 30/5/2023, DJe de 12/6/2023).
+É o relatório. Decido.
+2. Não comporta acolhida o reclamo.
+Como de sabença, os embargos de divergência têm como requisito de admissibilidade a existência de dissenso interpretativo entre diferentes órgãos jurisdicionais deste Tribunal Superior, desde que tenha sido apreciada a matéria de mérito do recurso especial - seja de natureza processual seja material -, tendo em vista que este recurso é incabível para o reexame de regra técnica de admissibilidade recursal.
+Desse modo, a Súmula n. 315 do STJ ("não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial.") incide quando o agravo em recurso especial não é conhecido em razão da incidência da Súmula n. 182 do STJ.
+No presente caso, além de o AREsp não ter sido conhecido em razão da incidência da referida súmula, o agravo interno da parte também não foi conhecido pelo mesmo motivo, consoante se depreende da fundamentação expendida no acórdão ora embargado:
+De acordo com o art. 1.021, § 1º, do CPC, constitui ônus da parte agravante impugnar especificamente os fundamentos da decisão combatida, isto é, deixar evidente o desacerto do decisum, com a consequente desconstituição das razões de decidir adotadas no julgamento singular.
+Nessa esteira, a Corte Especial do STJ, na assentada de 19/9/2018, consolidou o entendimento de que incumbe ao recorrente infirmar, especificamente, a totalidade do conteúdo do decisório que não admitiu o processamento do especial apelo, sob pena de incidir a Súmula 182/STJ. Dessarte, não se admite a impugnação parcial do julgado (EAREsp 701.404/SC e EAREsp 831.326/SP, DJe de 30/11/2018).
+Pois bem, nas razões do agravo interno, a parte insurgente comete o mesmo equívoco antes apontado, vale dizer, deixa de refutar o alicerce da decisão recorrida, não demonstrando, de maneira específica, os motivos pelos quais o anteparo sumular 182 deste Sodalício não seria aplicável.
+Em outras palavras, a parte agravante se limitou a tecer afirmações genéricas, sem demonstrar, de forma efetiva, que, nas razões do agravo em recurso especial, refutou o fundamento do decisum denegatório de admissibilidade alusivo à apontada incidência do obstáculo sumular 83/STJ.
+Nesse contexto, incide, também no que respeita ao presente agravo interno, o referido Verbete 182/STJ.
+ ..
+ANTE O EXPOSTO, não conheço do agravo interno.
+Diante desse quadro - em que o agravante deixou de impugnar o único fundamento constante da decisão monocrática objeto do agravo interno (incidência da Súmula n. 182/STJ) -, não se vislumbra sequer a similitude fática entre o acórdão embargado e o aresto apontado como paradigma (oriundo da Segunda Seção), que diz respeito à hipótese em que a decisão agravada apresenta mais de um capítulo com fundamentos autônomos, o que autoriza a impugnação parcial, nos termos do AgInt nos EREsp n. 1.424.404/SP (relator Ministro Luis Felipe Salomão, relator para acórdão Ministro Herman Benjamin, Corte Especial, julgado em 4/3/2020, DJe de 17/9/2020).
+3. Ante o exposto, indefiro liminarmente os embargos de divergência, não sendo o caso de aplicação do disposto no § 11 do artigo 85 do CPC por não ter arbitrado, na origem, honorários advocatícios em detrimento do embargante (autos de ação civil pública de improbidade em que não foi demonstrada a má-fé do réu).
+Publique-se. Intimem-se.
+EMENTA
