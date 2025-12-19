@@ -1,0 +1,51 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça que recebeu a seguinte ementa (fl. 758):
+PROCESSO PENAL E PENAL. AGRAVO REGIMENTAL EM AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. DOSIMETRIA. ALEGAÇÃO DE ERRO E DE REFORMATIO IN PEJUS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. ART. 63 DO CP. FALTA DE PREQUESTIONAMENTO. REGIME PRISIONAL E SUBSTITUIÇÃO DA PENA PRIVATIVA. MOTIVAÇÃO IDÔNEA E EM CONSONÂNCIA COM A ORIENTAÇÃO JURISPRUDENCIAL DESTA CORTE SUPERIOR.
+1. A ausência de indicação clara e precisa, nas razões recursais, do dispositivo de lei federal eventualmente violado atrai a incidência da Súmula 284/STF, em virtude da deficiência de fundamentação.
+2. O prequestionamento exige debate prévio e específico nas instâncias ordinárias, inclusive em matérias de ordem pública (Súmulas 282 e 356/STF).
+3. A reincidência e a presença de duas circunstâncias judiciais desfavoráveis justificam a manutenção do regime semiaberto, mesmo com pena inferior a 4 anos. A conversão da pena privativa de liberdade em restritivas de direitos é inviável em caso de reincidência e vetorial desabonadora.
+4. Agravo regimental improvido.
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão impugnado, aos arts. 5º, XXXV e LV, e 93, IX, da Constituição Federal.
+Nesse sentido, argumenta ter havido violação aos princípios do contraditório e da ampla defesa, em razão de deficiência da defesa técnica, que teria se limitado a interpor recurso de apelação requerendo apenas o reconhecimento da prescrição.
+Afirma que o acórdão recorrido restabeleceu o óbice da Súmula n. 284 do STF para inadmitir o recurso especial apenas quanto à dosimetria, embora decisão monocrática anterior, do mesmo relator, tivesse afastado a súmula e conhecido integralmente do recurso, com exame das razões, sem justificativa idônea para a mudança.
+Aponta que a decisão recorrida, ao recusar conhecimento do recurso sob óbice sumular já afastado, causou prejuízo direto à defesa e violação ao princípio de acesso efetivo à apreciação judicial.
+Requer, assim, a admissão e o provimento do recurso extraordinário.
+É o relatório.
+2. No julgamento do paradigma vinculado ao Tema n. 339, o Supremo Tribunal Federal apreciou a seguinte questão:
+ ..  se decisão que transcreve os fundamentos da decisão recorrida, sem enfrentar pormenorizadamente as questões suscitadas nos embargos declaratórios, afronta o princípio da obrigatoriedade de fundamentação das decisões judiciais, nos termos do art. 93, IX, da Constituição Federal.
+Na ocasião, firmou-se a seguinte tese vinculante:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas.
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessária a apreciação de todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da CF não está relacionada ao acerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso dos autos, foram apresentados, de forma satisfatória, os fundamentos da conclusão do acórdão recorrido, como se observa do seguinte trecho do referido julgado (fls. 761-762):
+A irresignação não merece prosperar.
+Isso porque os argumentos colacionados nas razões do agravo regimental não são capazes de infirmar os fundamentos da decisão agravada, que se encontra em consonância com a jurisprudência desta Corte.
+De início, não há falar em equívoco da decisão na aplicação do óbice da Súmula 284/STF.
+Isso porque o recurso foi considerado inadmissível apenas em relação a um dos pedidos cumulados - reforma da dosimetria da pena -, e esse pedido não é essencial para a resolução dos demais, de forma que a pretensão recursal foi examinada e julgada em conformidade com o princípio da congruência.
+E, quanto ao ponto, volto a dizer, houve uma falha na argumentação da defesa, que não indicou, nas razões do apelo especial, o dispositivo de lei federal que, no seu entender, teria sido violado.
+Desse modo, a ausência de delimitação do dispositivo legal sob o qual se funda a controvérsia caracteriza deficiência na fundamentação e impede o conhecimento do recurso.
+Em reforço ao precedente anteriormente citado: EDcl nos EDcl no AgRg no REsp n. 2.160.076/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/9/2025, DJEN de 9/9/2025; e AgRg no AREsp n. 2.719.004/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 12/8/2025, DJEN de 15/8/2025.
+Afora isso, verifica-se que a alegação de reformatio in pejus não foi objeto de debate pela instância ordinária, o que também inviabiliza o conhecimento do recurso especial, no ponto, por ausência de prequestionamento (Súmula 282/STF).
+Também não se mostra possível acolher a irresignação no tocante ao art. 63 do Código Penal. Isso porque o prequestionamento exige debate prévio e específico nas instâncias ordinárias, inclusive em matérias de ordem pública (Súmulas 282 e 356/STF) - EDcl nos EDcl no AgRg no REsp n. 2.160.076/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/9/2025, DJEN de 9/9/2025.
+Em relação ao regime prisional e à substituição da pena privativa de liberdade, a jurisprudência consolidada desta Corte admite a imposição de regime mais gravoso e a negativa da substituição da pena nos casos como o dos autos, em que presentes circunstâncias judiciais desfavoráveis e reincidência (AgRg no AREsp n. 2.601.768/PR, relator Ministro Og Fernandes, Sexta Turma, julgado em 12/8/2025, DJEN de 22/8/2025).
+Assim, os argumentos apresentados não são aptos para desconstituir a decisão agravada.
+Ante o exposto, nego provimento ao agravo regimental.
+Assim, fica inviabilizado o exame pretendido nesta insurgência.
+Com efeito, demonstrado que houve prestação jurisdicional compatível com a tese fixada pelo STF no Tema n. 339 sob o regime da repercussão geral, é inviável o prosseguimento do recurso extraordinário, que deve ter o seguimento negado.
+3. O STF já definiu que a alegação de afronta aos princípios do contraditório, da ampla defesa e do devido processo legal, bem como ao ato jurídico perfeito, ao direito adquirido e aos limites da coisa julgada, quando dependente da prévia análise de normas infraconstitucionais, configura ofensa reflexa ao texto constitucional.
+No Tema n. 660, a Suprema Corte fixou a seguinte tese vinculante:
+A questão da ofensa aos princípios do contraditório, da ampla defesa, do devido processo legal e dos limites à coisa julgada, tem natureza infraconstitucional, e a ela se atribuem os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009.
+(ARE n. 748.371-RG, relator Ministro Gilmar Mendes, julgado em 6/6/2013, DJe de 1º/8/2013.)
+Essa conclusão foi adotada sob o regime da repercussão geral e é de aplicação obrigatória, devendo os tribunais, ao analisar a viabilidade prévia dos recursos extraordinários, negar seguimento aos recursos que discutam questão à qual o STF não tenha reconhecido a existência de repercussão geral, nos termos do art. 1.030, I, a, do Código de Processo Civil.
+No caso dos autos, o exame da alegada ofensa ao art. 5º, LV, da Constituição Federal dependeria da análise de dispositivos da legislação infraconstitucional considerados na solução do acórdão recorrido, o que atrai a incidência do mencionado Tema n. 660 do STF.
+4. Por fim, o Supremo Tribunal Federal já definiu que a questão relativa à possível violação do princípio da inafastabilidade de jurisdição possui natureza infraconstitucional "quando há óbice processual intransponível ao exame de mérito, ofensa indireta à Constituição Federal ou análise de matéria fática".
+Essa é a conclusão consolidada no Tema n. 895, no qual a Suprema Corte fixou a seguinte tese:
+A questão da ofensa ao princípio da inafastabilidade de jurisdição, quando há óbice processual intransponível ao exame de mérito, ofensa indireta à Constituição ou análise de matéria fática, tem natureza infraconstitucional, e a ela se atribuem os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009.
+(RE n. 956.302-RG, relator Ministro Edson Fachin, Tribunal Pleno, julgado em 19/5/2016, DJe de 16/6/2016.)
+O entendimento em tela foi adotado sob o regime da repercussão geral e é de aplicação obrigatória, devendo os tribunais, ao analisar a viabilidade prévia dos recursos extraordinários, negar seguimento àqueles que discutam questão à qual o STF não tenha reconhecido a existência de repercussão geral, nos termos do art. 1.030, I, a, do Código de Processo Civil.
+No caso dos autos, o exame da alegada ofensa ao art. 5º, XXXV, da Constituição Federal dependeria da superação de óbices processuais, motivo pelo qual se aplica a conclusão do STF no mencionado Tema n. 895.
+5. Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Vale registrar não ser cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC) contra decisões que negam seguimento a recurso extraordinário, conforme disposto no § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO, DA AMPLA DEFESA E DO DEVIDO PROCESSO LEGAL, BEM COMO AO ATO JURÍDICO PERFEITO, AO DIREITO ADQUIRIDO E AOS LIMITES DA COISA JULGADA. EXAME DE NORMAS INFRACONSTITUCIONAIS. AUSÊNCIA DE REPERCUSSÃO GERAL. TEMA N. 660 DO STF. PRINCÍPIO DA INAFASTABILIDADE DE JURISDIÇÃO. NATUREZA INFRACONSTITUCIONAL. TEMA N. 895 DO STF. AUSÊNCIA DE REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO. NEGATIVA DE SEGUIMENTO. ART. 1.030, I, A, DO CPC.
