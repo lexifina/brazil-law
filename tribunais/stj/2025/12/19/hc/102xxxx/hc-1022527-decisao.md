@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de GLEISSON ARAÚJO contra ato proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARÁ.
+Consta nos autos que o paciente foi condenado à pena de 13 anos, 10 meses e 20 dias de reclusão, em regime inicial fechado, pela prática do delito de roubo majorado (art. 157, § 2º, incisos II e V, e § 2º-A, inciso I, do Código Penal), sendo-lhe negado o direito de recorrer em liberdade (fls. 10-20).
+Alegou a Defesa que houve excesso de prazo para o julgamento da apelação criminal, uma vez que os autos foram remetidos ao TJ/PA em 24/06/2021, mas só foram recebidos em 27/06/2025, permanecendo sem movimentação por quatro anos (fls. 2-6 e 8).
+Em decisão monocrática, concedeu-se parcialmente a ordem determinando o julgamento da apelação criminal no prazo de 30 dias (fls. 82-85). A defesa noticiou o descumprimento do prazo estabelecido na decisão (fls. 94-95). Foram solicitas informações à Desembargadora Relatora (fl. 108). Noticiou-se o julgamento do recurso defensivo com a absolvição do paciente e sua colocação em liberdade (fls. 115-121).
+É o relatório. DECIDO.
+A análise dos autos revela que o objeto do presente habeas corpus foi inteiramente superado por fato superveniente. O paciente impetrou o writ buscando o excesso de prazo na formação da culpa com a revogação da prisão preventiva decretada pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARÁ.
+Em 29 de setembro de 2025, foi proferida decisão concedendo parcialmente a ordem, a fim de determinar que o Tribunal de origem procedesse ao julgamento da apelação criminal no prazo máximo de 30 dias. Posteriormente, o impetrante noticiou nos autos o descumprimento do prazo assinalado, o que ensejou a requisição de informações à Desembargadora Relatora. Em resposta, informou-se que, em sessão realizada em 4 de dezembro de 2025, a apelação criminal foi devidamente julgada, culminando na absolvição do paciente, com a consequente expedição do alvará de soltura e sua efetiva colocação em liberdade.
+No caso , a pretensão deduzida pela defesa no habeas corpus consistia precisamente na revogação da prisão preventiva. Essa pretensão foi integralmente satisfeita pelo Tribunal local no julgamento da apelação criminal. A partir desse momento, o habeas corpus perdeu sua razão de ser, tornando-se juridicamente inútil qualquer pronunciamento desta Corte sobre a legalidade da prisão preventiva que já não mais subsiste.
+Ante o exposto, julgo prejudicado o habeas corpus pela perda superveniente de objeto.
+Publique-se. Intimem-se.
+EMENTA
