@@ -1,0 +1,41 @@
+DECISÃO
+Na origem, trata-se de Agravo de Instrumento interposto em face de decisão proferida em sede de Cumprimento de Sentença, pela qual o juízo de origem indeferiu o requerimento de manutenção do cumprimento de obrigação de fazer consistente no pagamento da 25ª hora (ficta) em favor do exequente. No Tribunal a quo, negou-se provimento ao agravo de instrumento.
+O recurso especial foi interposto no TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO contra acórdão com o seguinte resumo de ementa:
+DIREITO ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. REESTRUTURAÇÃO DA CARREIRA DE AGENTE PENITENCIÁRIO FEDERAL. 25ª HORA. PAGAMENTO APÓS ALTERAÇÃO DE REGIME REMUNERATÓRIO POR SUBSÍDIO. IMPOSSIBILIDADE. PRINCÍPIO DA FIDELIDADE AO TÍTULO EXECUTIVO. AGRAVO DESPROVIDO.
+I. CASO EM EXAME
+1. O agravo de instrumento foi interposto contra decisão proferida em cumprimento de sentença, na qual se postulava a manutenção do cumprimento da obrigação de fazer consistente no pagamento da 25ª hora (ficta) em seu favor, mesmo após 01/08/2024.
+2. A decisão agravada indeferiu o pedido, fundamentando-se na reestruturação da carreira de Agente Penitenciário Federal, transformada em Policial Penal Federal, e na incompatibilidade da referida vantagem com o regime remuneratório por subsídio instituído pela Lei nº 14.875/2024.
+II. QUESTÕES EM DISCUSSÃO
+3. A questão em discussão consiste em verificar a possibilidade de execução de obrigação de trato continuado, reconhecida judicialmente, diante de reestruturação da carreira e instituição de novo regime remuneratório por subsídio.
+III. RAZÕES DE DECIDIR
+4. O cumprimento de sentença deve observar o princípio da fidelidade ao título executivo, nos exatos termos do art. 509, § 4º, do Código de Processo Civil, sendo vedada a ampliação ou modificação do conteúdo da sentença transitada em julgado.
+5. A Lei nº 14.875/2024 reestruturou a carreira de Agente Penitenciário Federal, transformando-a em Policial Penal Federal, com expressa vedação à percepção de vantagens anteriormente reconhecidas judicialmente, como a denominada 25ª hora.
+6. A implementação de regime remuneratório por subsídio inviabiliza a execução de obrigações de trato continuado que sejam incompatíveis com o novo regime, mesmo que garantidas em título judicial, após o advento do novo regime jurídico.
+IV. DISPOSITIVO E TESE
+7. Agravo de instrumento desprovido. 8. Tese de julgamento: "A reestruturação de carreira com implementação de regime remuneratório por subsídio inviabiliza a execução de obrigações de trato continuado, anteriormente reconhecidas judicialmente, incompatíveis com o novo regime."
+O acórdão recorrido examinou agravo de instrumento interposto em cumprimento de sentença, em que se pretendia manter, após 01/08/2024, a obrigação de fazer consistente no pagamento da 25ª hora ficta a servidor submetido a regime de plantão noturno (fls. 57-58). Ao final, negou provimento ao agravo de instrumento (fls. 61-62).
+Na sequência, foram interpostos embargos de declaração visando prequestionamento e integração, os quais foram rejeitados.
+O recorrente interpôs Recurso Especial, com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, alegando contrariedade ao direito federal.
+A decisão de admissibilidade proferida pela Vice-Presidente do TRF4, no exame de admissibilidade, concluiu não configurada a violação ao artigo 1.022 do CPC/2015, porquanto a controvérsia fora integralmente apreciada e fundamentada, citando reiterados precedentes sobre a suficiência da fundamentação e a inexistência de negativa de prestação jurisdicional quando há tese jurídica bastante (fls. 268). Assentou, ademais, a incidência da Súmula 83 do Superior Tribunal de Justiça, por estar o acórdão recorrido em harmonia com a jurisprudência consolidada da Corte quanto à inexistência de direito adquirido a regime jurídico e à vedação de vantagens pessoais sob subsídio (fls. 268-271). Acrescentou a vedação ao reexame de provas, nos termos da Súmula 7 do Superior Tribunal de Justiça, ante a necessidade de revalorar o conjunto fático-probatório para infirmar as conclusões do acórdão de origem. Ao final, inadmitiu o Recurso Especial (fls. 272).
+Contra essa decisão, o recorrente interpôs Agravo em Recurso Especial, reiterando a síntese da demanda e os fundamentos relevantes.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Referida ação coletiva, ajuizada em 12/02/2008, havia sido proposta em razão do contexto fático e jurídico da época, quando o cargo de Agente Penitenciário Federal, criado pela Lei nº 10.693/2003, não contava com discriminação específica em relação à jornada de trabalho e, no que concerne à remuneração, seguia o previsto pela Lei nº 10.768/2003.
+ ..
+Feitas essas considerações, como bem destacado no despacho agravado, com o advento da Lei n.º 14.875/2024, a partir de 1º/08/2024 (data do início dos efeitos do art.122-A da Lei nº 11.907/2009, por ela introduzido), o cargo de Agente Federal de Execução Penal (nova denominação do cargo de Agente Penitenciário Federal conferida pelo art.10º da Lei nº 13.327/2016) transformou-se em Policial Penal Federal, constituindo carreira específica no âmbito do Poder Executivo Federal.
+ ..
+Assim, em razão da reestruturação na carreira e da instituição de novo sistema remuneratório por subsídio, a partir de 1º/08/2024 não mais é possível o pagamento administrativo da 25ª hora aos Policiais Penais Federais com base no título executivo oriundo dos autos nº 2008.70.05.000385-0, já que este não contemplou a possibilidade de alterações legislativas posteriores que viessem limitar os direitos nele reconhecidos.
+ ..
+Por esse motivo, deixo de conhecer a tese sustentada pela agravante, relativa à possibilidade do pagamento de horas extras aos servidores remunerados por subsídio, por se tratar de questão que extrapola os limites do título executivo judicial.
+ ..
+De forma que, diante da alteração do cargo em que atua o agravante, bem como de sua remuneração por subsídio, não há mais possibilidade de manutenção do cumprimento da obrigação de fazer consistente no pagamento da 25ª hora (ficta) em seu favor, a partir de 01/08/2024 .
+ ..
+Não há violação do art. 1.022 do CPC/2015 (antigo art. 535 do CPC/1973) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/73 e do art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+Conforme entendimento pacífico desta Corte, "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão". A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida". EDcl no MS 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Por fim, aplica-se, à espécie, o enunciado da Súmula n. 83/STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida." Ressalte-se que o teor do referido enunciado aplica-se, inclusive, aos recursos especiais interpostos com fundamento na alínea a do permissivo constitucional.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
