@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido liminar, impetrado em favor de DOUGLAS CARVALHO DA CRUZ, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL (Revisão Criminal n. 5155389-09.2025.8.21.7000).
+O presente writ origina-se de petição avulsa apresentada nos autos do AREsp n. 3075425/RS, autuada em apartado por determinação da Presidência desta Corte.
+Extrai-se dos autos conexos que, em 5/12/2014, o Juízo de primeiro grau condenou o paciente como incurso nas sanções do art. 33, caput, da Lei n. 11.343/2006; bem como dos arts. 180, caput, e 297, caput, ambos do Código Penal; à pena de 8 (oito) anos e 3 (três) meses de reclusão, em regime inicial fechado, além de 525 (quinhentos e vinte e cinco) dias-multa.
+O Tribunal de origem negou provimento ao recurso de apelação defensivo no dia 13/5/2015. Em 10/6/2025, a Defesa ajuizou revisão criminal, a qual não foi conhecida. O respectivo recurso especial não foi admitido e o subsequente agravo não foi conhecido pelo Presidente do Superior Tribunal de Justiça, com fundamento no art. 21-E, inciso V, c/c o art. 253, inciso I, ambos do RISTJ, em decisão transitada em julgado no dia 10/11/2025.
+Nesta impetração, a Defesa sustenta, em síntese, a nulidade das provas que amparam o édito condenatório por violação de domicílio e a ausência de fundamentação idônea para o afastamento do redutor previsto no art. 33, § 4º, da Lei n. 11.343/2006, na dosimetria da pena do condenado.
+Pleiteia , no mérito, o reconhecimento da nulidade das provas, com a consequente absolvição do paciente, ou, subsidiariamente, o redimensionamento da pena com a aplicação da causa de diminuição do tráfico privilegiado.
+É o relatório.
+Decido.
+Inicialmente, ressalto que, conforme o entendimento consolidado desta Corte, as disposições contidas nos arts. 64, inciso III, e 202 do Regimento Interno do Superior Tribunal de Justiça não afastam a prerrogativa do relator de apreciar liminarmente, em habeas corpus ou recurso em habeas corpus, a pretensão que esteja em conformidade com súmula ou com a jurisprudência consolidada dos Tribunais Superiores, ou, ainda, que as contrarie, v.g. AgRg no HC n. 856.046/SP, de relatoria do Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 24/10/2023, DJe de 30/10/2023.
+Assim, passo a analisar diretamente o pedido formulado na insurgência.
+Esta Corte e o Supremo Tribunal Federal pacificaram o entendimento de que não cabe habeas corpus como substitutivo do recurso legalmente previsto para a hipótese ou da revisão criminal, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado (STJ, AgRg no HC n. 1.014.903/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 1/10/2025, DJEN de 6/10/2025; STJ, AgRg no HC n. 904.291/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 5/3/2025, DJEN de 11/3/2025; STF, HC 227171 AgR, Relator Ministro Gilmar Mendes, Segunda Turma, julgado em 15/8/2023, publicado em 21/8/2023 e STF, HC 257524 AgR, Relator(a) Ministro Flávio Dino, Primeira Turma, julgado em 12/8/2025, publicado em 18/8/2025).
+No caso dos autos, não verifico manifesto constrangimento ilegal a ensejar a concessão da ordem de ofício.
+Ao não conhecer da ação revisional, o Tribunal a quo destacou o seguinte (fls. 126-127 do AREsp n. 3.075.425/RS):
+Compulsando os autos, entendo que não há como ser conhecida a revisão criminal.
+Da leitura da inicial, observo que se limita a postular a revisão da decisão condenatória, com ênfase em teses já amplamente debatidas e rechaçadas nas instâncias ordinárias, como a suposta violação de domicílio e a reclassificação da conduta, sem que nada de novo tenha sido trazido aos autos, ou levantado algum ponto que justificasse o pleito revisional.
+Com efeito, o artigo 621, do Código de Processo Penal, estabeleceu hipóteses restritivas em que o ajuizamento da revisão criminal está autorizado, razão pela qual não se pode admitir o processamento de ações que não preencham os requisitos legais, sob pena de total descaracterização do instituto.
+Eis o preceito mencionado, in verbis:
+(..)
+Veja-se que o revisionando interpôs a presente revisão criminal com fundamento nos incisos do aludido dispositivo, que visam a combater sentença condenatória "contrária ao texto expresso da lei ou à evidência dos autos", fundada em provas falsas ou diante de provas novas.
+Daí a inviabilidade do conhecimento deste pleito revisional, pois o requerente não demonstrou tais pressupostos, restringindo-se a externar seu descontentamento com a decisão que o condenou, a qual foi mantida em grau de apelação por esta Corte. As teses de nulidade por invasão de domicílio, desclassificação para uso, aplicação do privilégio e atipicidade do uso de documento falso foram exaustivamente analisadas e afastadas com base no conjunto probatório produzido sob o crivo do contraditório.
+Da leitura da decisão colegiada, não se percebe qualquer contrariedade à lei ou à evidência dos autos, senão que uma condenação que se baseou em elementos colhidos sob o manto do contraditório e da ampla defesa, erigindo a convicção do Julgador.
+A alegação de que a sentença foi contrária à evidência dos autos ou ao texto expresso da lei é, na verdade, mero descontentamento com a decisão já transitada em julgado, sem nenhuma evidência concreta, no contexto do feito. A tentativa de aplicar retroativamente novas teses jurisprudenciais, como as relativas à violação de domicílio ou aos critérios para diferenciar usuário de traficante, não encontra amparo no instituto da revisão criminal.
+Para ilustrar, trago precedente do STJ:
+(..)
+Assim, não merece ser conhecido o pedido revisional, vez que a presente ação está sendo utilizada como novo recurso, o que é defeso.
+Do excerto transcrito, vê-se que o acórdão impugnado é harmônico à compreensão desta Corte no sentido de que a alteração de entendimento jurisprudencial posterior ao trânsito em julgado da condenação não autoriza o ajuizamento de revisão criminal visando à sua aplicação retroativa. Nesse sentido, a Sexta Turma deste Tribunal recentemente decidiu:
+(..)
+5. A jurisprudência é firme no sentido de que a superveniência de novo entendimento jurisprudencial, ainda que mais benéfico ao réu, não autoriza a revisão de condenação transitada em julgado, salvo nas hipóteses expressamente previstas no art. 621 do CPP.
+6. A alegação de contrariedade ao art. 621, I, do CPP não se sustenta, pois não se trata de afronta direta ao texto legal, mas de tentativa de aplicação retroativa de entendimento jurisprudencial, hipótese não contemplada pelo dispositivo.
+(..)
+(AgRg no HC n. 1.010.789/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 15/10/2025, DJEN de 21/10/2025.)
+Na mesma linha, cito julgado da Quinta Turma do Superior Tribunal de Justiça:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. DECISÃO QUE NÃO CONHECEU DO WRIT. REVISÃO CRIMINAL AJUIZADA NA ORIGEM COM BASE EM SUPERVENIENTE MUDANÇA DE ENTENDIMENTO JURISPRUDENCIAL. CONDENAÇÃO TRANSITADA EM JULGADO HÁ VÁRIOS ANOS. INVIABILIDADE DE REVISÃO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É firme a jurisprudência desta Corte no sentido de que a mudança de entendimento jurisprudencial posterior ao trânsito em julgado não autoriza a revisão criminal, em respeito aos princípios da coisa julgada e da segurança jurídica (AgRg no HC n. 987.058/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 27/8/2025, DJEN de 1/9/2025).
+2. Agravo regimental não provido.
+(AgRg no HC n. 1.046.813/AL, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/11/2025, DJEN de 27/11/2025.)
+Ademais, e reforçando a ausência de constrangimento ilegal, cumpre destacar que a alegação de violação domiciliar já foi objeto de análise pelo Supremo Tribunal Federal nos autos do ARE n. 1.009.118/RS, interposto pela Defesa na ação penal originária. Naquela oportunidade, o Ministro relator consignou expressamente que o decidido pelo Tribunal de origem acerca da violação do domicílio estava em consonância com a jurisprudência do STF firmada no RE n. 603.616 (Tema 280 da Repercussão Geral), sendo incabível, portanto, a revisão deste entendimento por esta Corte.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
