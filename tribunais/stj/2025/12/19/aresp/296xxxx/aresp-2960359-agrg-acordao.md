@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Carlos Pires Brandão, Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE ENTORPECENTES. POSSE DE ARMA DE FOGO DE USO PERMITIDO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. PRINCÍPIO DA DIALETICIDADE. SÚMULA N. 182 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É condição necessária à admissibilidade de qualquer recurso que a parte interessada impugne todos os fundamentos da decisão combatida.
+2. O princípio da dialeticidade impõe ao agravante a demonstração específica do desacerto de cada uma das razões lançadas na decisão atacada, e não são suficientes, para tanto, meras alegações genéricas ou a repetição dos termos já expostos no recurso especial.
+3. Na hipótese, a defesa não infirmou todos os fundamentos empregados pela Corte estadual para inadmitir o recurso especial. Com efeito, no agravo em recurso especial, a parte não impugnou os argumentos relativos à incidência dos óbices das Súmulas n. 7 e 83 do STJ no tocante à alegada violação do art. 59 do Código Penal.
+4. Ao agir dessa forma, o agravante não se desvencilhou do ônus decorrente do princípio da dialeticidade, que demanda impugnação específica dos fundamentos usados pelo Tribunal de origem, de maneira a atrair a incidência da Súmula n. 182 do STJ, impeditiva do conhecimento do agravo
+5. Agravo regimental não provido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+JESUS CARLOS DINIZ SILVA interpõe agravo regimental contra decisão da Presidência desta Corte Superior que não conheceu do seu agravo em recurso especial, em razão do óbice da Súmula n. 182 do STJ.
+Consta dos autos que o acusado foi condenado à pena de 6 anos, 9 meses e 20 dias de reclusão, mais multa, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006 e a 1 ano de detenção, mais multa, pelo cometimento da infração penal disposta no art. 12 da Lei n. 10.826/2003, em regime inicial fechado.
+A defesa alega, em síntese, que todos os fundamentos empregados na decisão que inadmitiu o recurso especial, na origem, foram impugnados.
+Requer, assim, o provimento do agravo regimental.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE ENTORPECENTES. POSSE DE ARMA DE FOGO DE USO PERMITIDO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. PRINCÍPIO DA DIALETICIDADE. SÚMULA N. 182 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É condição necessária à admissibilidade de qualquer recurso que a parte interessada impugne todos os fundamentos da decisão combatida.
+2. O princípio da dialeticidade impõe ao agravante a demonstração específica do desacerto de cada uma das razões lançadas na decisão atacada, e não são suficientes, para tanto, meras alegações genéricas ou a repetição dos termos já expostos no recurso especial.
+3. Na hipótese, a defesa não infirmou todos os fundamentos empregados pela Corte estadual para inadmitir o recurso especial. Com efeito, no agravo em recurso especial, a parte não impugnou os argumentos relativos à incidência dos óbices das Súmulas n. 7 e 83 do STJ no tocante à alegada violação do art. 59 do Código Penal.
+4. Ao agir dessa forma, o agravante não se desvencilhou do ônus decorrente do princípio da dialeticidade, que demanda impugnação específica dos fundamentos usados pelo Tribunal de origem, de maneira a atrair a incidência da Súmula n. 182 do STJ, impeditiva do conhecimento do agravo
+5. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Em que pesem os argumentos do agravante, o regimental não comporta provimento.
+Com efeito, entre as razões pelas quais o Tribunal estadual inadmitiu o recurso especial do ora agravante, ressalto a incidência das Súmulas n. 7 e 83 do STJ, no tocante à alegada violação do art. 59 do Código Penal (fls. 480-483, grifei):
+Por fim, no tocante à infringência ao art. 59 do CP, verifico que a decisão recorrida está em consonância com o entendimento do Superior Tribunal de Justiça (STJ), uma vez que há discricionariedade do julgador no momento da dosimetria da pena, cuja revisão somente pode se dar em casos excepcionais de flagrante equívoco, o que não é a hipótese dos autos.
+ ..
+Dessa forma, havendo consonância entre o teor do decisum recorrido e a jurisprudência da Corte Superior, incide a Súmula 83/STJ, outrora referida.
+Além disso, observo que o aresto combatido, ao manter a valoração negativa dos vetores judiciais da conduta social e motivos do crime, levou em consideração as circunstâncias fáticas e probatórias, eventual reanálise nesse sentido, a meu sentir, demandaria inevitável incursão no suporte fático-probatório dos autos, o que se afigura inviável na via eleita, ante o óbice imposto pela Súmula 7/STJ: a pretensão de simples reexame de prova não enseja recurso especial.
+Contudo, no agravo em recurso especial, a defesa abordou as questões em destaque, sem expor os motivos pelos quais os óbices assinalados não são aplicáveis à espécie. Confira-se (fls. 490-491, destaquei):
+ ..  Em relação à infringência ao art. 59 do CP, o TJRN decidiu "que a decisão recorrida está em consonância com o entendimento do Superior Tribunal de Justiça (STJ), uma vez que há discricionariedade do julgador no momento da dosimetria da pena, cuja revisão somente pode se dar em casos excepcionais de flagrante equívoco, o que não é a hipótese dos autos". Além disso, "malgrado o recorrente alegue omissão por parte deste Tribunal, ao sustentar que não foram analisadas as teses da defesa, bem como a de revisão da pena, acerca da aplicação dos vetores negativados no crime de tráfico de drogas, verifico que o acórdão recorrido apreciou, de forma fundamentada, coerente e completa, todas as questões necessárias à solução da controvérsia" (trechos da decisão judicial que inadmitiu o REsp).
+A dosimetria da pena pode ser analisada até mesmo ofício, por isso a defesa insiste que o TJRN deveria ter enfrentado essa matéria, considerando que não há grandes elementos evidenciados nos autos que possam agravar a culpabilidade. A conduta social não poderia ser negativada porque o recorrente estava trabalhando à época dos fatos com CTPS assinada e não havia qualquer investigação contra si. Em relação aos motivos do crime, não há comprovação de nenhum motivo particular para a prática do ato, por isso esta circunstância deve ser considerada favorável. Já as consequências do crime são aquelas prejudiciais à segurança e saúde pública, todavia a autoridade judicial afirmou que o entorpecente chegou aos consumidores, entretanto esse fato não está no processo, por isso deve ser valorado em favor do recorrente.
+Como visto, o agravante não contrapôs as razões sustentadas pelo Tribunal de origem. Na verdade, os argumentos expostos pelo agravante reforçaram a incidência dos óbices apontados no juízo de prelibação realizado pela Corte estadual, porquanto a conformidade do acórdão recorrido com a jurisprudência desta Corte Superior - no tocante à dosimetria - não foi refutada e, além disso, a parte não demonstrou a desnecessidade do reexame fático-probatório para afastar as circunstâncias judiciais valoradas de forma negativa.
+Ao agir dessa forma, o agravante não se desvencilhou do ônus decorrente do princípio da dialeticidade, que demanda impugnação específica dos fundamentos empregados pelo Tribunal de origem, de maneira a atrair a incidência da Súmula n. 182 do STJ, impeditiva do conhecimento do agravo. Nesse sentido:
+ ..
+7. Não havendo impugnação específica do fundamento da decisão que não conheceu do recurso especial, deve ser aplicado o teor do enunciado 182 da Súmula deste Tribunal Superior.
+8. Agravo em recurso especial defensivo não conhecido e recurso especial ministerial provido para determinar o retorno dos autos ao Tribunal de origem para que julgue o pleito referente à dosimetria da pena conforme entender de direito.
+(REsp n. 1.442.854/SP, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 9/6/2020.)
+À vista do exposto, nego provimento ao agravo regimental
