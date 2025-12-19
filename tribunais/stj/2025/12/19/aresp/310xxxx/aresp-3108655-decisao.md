@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto por KALWESLEY PEREIRA DE SOUSA contra decisão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS que inadmitiu o recurso especial.
+O agravante foi condenado, em primeira instância, pela prática do crime previsto no art. 33, caput, c/c art. 40, incisos III e VI, da Lei n. 11.343/2006 (tráfico de drogas majorado), à pena de 8 anos e 9 meses de reclusão, em regime fechado, e 800 dias-multa.
+Em sede de apelação, a 2ª Turma Criminal do TJDFT deu parcial provimento ao recurso defensivo para reduzir a pena definitiva para 7 anos, 9 meses e 10 dias de reclusão, em regime inicial semiaberto, mantendo, contudo, a negativa da causa de diminuição do tráfico privilegiado (art. 33, § 4º, da Lei 11.343/2006), com fundamento na existência de diversos atos infracionais pretéritos que evidenciariam dedicação a atividades criminosas.
+No recurso especial inadmitido na origem, a defesa alegou violação ao art. 33, § 4º, da Lei n. 11.343/2006, sustentando que as anotações de atos infracionais não seriam fundamento idôneo para caracterizar dedicação a atividades criminosas, especialmente considerando a inimputabilidade à época.
+A Presidência do TJDFT inadmitiu o recurso especial ao fundamento de que o acórdão recorrido estava em harmonia com a jurisprudência do Superior Tribunal de Justiça (Súmula 83/STJ) e que a revisão da conclusão demandaria reexame fático-probatório (Súmula 7/STJ) (fls. 469-472).
+No presente agravo, o recorrente sustenta que a questão é estritamente jurídica, não exigindo reexame de provas, mas apenas revaloração jurídica dos fatos incontroversos, o que afasta o óbice imposto pela Súmula nº 7, bem como pela Súmula 83, ambas do STJ (fls. 481-500).
+O Ministério Público Federal manifestou-se pelo desprovimento do agravo e pelo não conhecimento do recurso especial (fls. 532-536).
+É o relatório. DECIDO.
+Tendo em vista os argumentos apresentados pela parte agravante para refutar os fundamentos da decisão de admissibilidade da origem, conheço do agravo e passo a examinar o recurso especial, que versa sobre a possibilidade de afastamento da causa de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006 (tráfico privilegiado) com base em atos infracionais pretéritos.
+Esta Corte Superior firmou entendimento de que o histórico infracional do agente, embora não gere reincidência ou maus antecedentes, pode ser utilizado como fundamento para afastar a minorante do art. 33, § 4º, da Lei n. 11.343/2006, desde que por meio de fundamentação idônea que aponte a existência de circunstâncias excepcionais, nas quais se verifique a gravidade dos atos pretéritos, devidamente documentados nos autos, bem como a razoável proximidade temporal com o crime em apuração.
+Nesse sentido:
+DIREITO PENAL. AGRAVO REGIMENTAL. TRÁFICO DE DROGAS. TRÁFICO PRIVILEGIADO. JUSTIÇA GRATUITA. PEDIDO DE HABEAS CORPUS DE OFÍCIO. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+1. A causa especial de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006, pode ser afastada com base na quantidade de droga apreendida e em histórico de atos infracionais recentes que indiquem dedicação à criminalidade.
+2. A análise da miserabilidade para fins de isenção de custas processuais deve ser realizada na fase de execução, não sendo cabível a concessão de justiça gratuita na fase de conhecimento.
+3. A concessão de habeas corpus de ofício é medida excepcional, de iniciativa do julgador, e pressupõe a existência de flagrante ilegalidade.
+Dispositivos relevantes citados: Lei n. 11.343/2006, art. 33, § 4º;
+CPP, art. 804; CF/1988, art. 5º, LXXIV.
+Jurisprudência relevante citada: STJ, AgRg no HC n. 864.172/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/12/2023, DJe de 19/12/2023; STJ, AgRg no HC n. 767.471/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 4/3/2024, DJe de 7/3/2024; STJ, AgRg no REsp n. 2.083.974/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 4/3/2024, DJe de 7/3/2024; STJ, AgRg no AREsp n. 2.217.224/MG, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 19/9/2023, DJe de 25/9/2023.
+(AgRg no AREsp n. 2.998.236/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 14/10/2025, DJEN de 20/10/2025.)
+No caso dos autos, o Tribunal de origem consignou expressamente que "a anotação relativa aos diversos atos infracionais pretéritos na folha de antecedentes do acusado justifica a impossibilidade de aplicação da referida causa de diminuição no caso concreto, porquanto denota dedicação à atividade criminosa".
+Verifico, portanto, que o acórdão recorrido está em perfeita consonância com a jurisprudência consolidada desta Corte Superior, atraindo a incidência do óbice da Súmula 83/STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Verifico, portanto, que o acórdão recorrido se alinha à jurisprudência desta Corte Superior, o que atrai a aplicação da Súmula n. 83, STJ, segundo a qual " n ão se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Ressalto, a esse respeito, que o entendimento sumulado alcança não só o recurso especial fundamentado na alínea "c", mas também na alínea "a" do permissivo constitucional (AgRg no AREsp n. 2.407.873/SE, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 7/11/2023, DJe de 9/11/2023).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial, nos termos do art. 253, parágrafo único, inciso II, alínea a, do RISTJ.
+Publique-se. Intimem-se.
+ EMENTA
