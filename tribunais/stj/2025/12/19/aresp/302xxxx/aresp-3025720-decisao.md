@@ -1,0 +1,76 @@
+DECISÃO
+Trata-se de agravo interposto por WENDEL LUCAS DOS SANTOS CASTRO contra decisão que inadmitiu o recurso especial com base no óbice da Súmula n. 7 do Superior Tribunal de Justiça.
+Depreende-se dos autos que o Juízo de primeiro grau declarou a nulidades das provas obtidas e, por consequência, absolveu o agravante dos crimes descritos nos arts. 33, caput, da Lei n. 11.343/2006 e 14 da Lei n. 10.826/2003.
+Em apelação interposta pela acusação, o Tribunal de origem deu provimento ao recurso, a fim de cassar a sentença absolutória, determinando o retorno dos autos à origem para que a questão referente ao mérito da denúncia seja enfrentada.
+No recurso especial, alegou-se ofensa aos arts. 33, caput, da Lei n. 11.343/2006, 14 da Lei n. 10.826/2003 e 244 do Código de Processo Penal. Para tanto, sustenta-se, em síntese, que não havia fundadas suspeitas da prática do tráfico de drogas e do porte de arma de fogo por parte que justificasse a busca pessoal, tendo a abordagem sido realizada apenas em razão de seu aparente nervosismo.
+Oferecidas as contrarrazões, o recurso especial foi inadmitido na origem.
+No agravo em recurso especial, alega a parte a inexistência de óbice da Súmula n. 7/STJ, uma vez que não se trata de reexame de provas, mas sim a revaloração dos critérios jurídicos utilizados na apreciação dos fatos, nos exatos limites estabelecidos pelo próprio acórdão recorrido.
+Em parecer, o Ministério Público Federal opinou pelo desprovimento do agravo em recurso especial, consoante a seguinte ementa (fl. 418):
+AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. ABORDAGEM E BUSCA PESSOAL. PROVA ILÍCITA. CONTRARIEDADE AOS ARTS. 33 DA LEI 11.343/06, 14 DA LEI 10.826/03 E 244 DO CÓDIGO DE PROCESSO PENAL. INADMISSIBILIDADE. SÚMULA 7/ STJ. CONHECIMENTO E DESPROVIMENTO. - O acórdão está em conformidade com recentes julgados dessa Eg. Corte, a exemplo do AgRg no HC 872029/GO, que reconheceu a existência de fundadas razões para a abordagem do paciente, "haja vista sua brusca mudança de comportamento ao avistar os policiais, tendo abaixado a cabeça para evitar o contato visual, com nítido objetivo de se esquivar de eventual interpelação". - E, ademais, rever a conclusão das instâncias estaduais acerca da autoria delitiva, com vistas à absolvição, demandaria, necessariamente, incursão na matéria fático-probatória, procedimento inviável em sede de recurso especial. Súmulas 7 e 83 desse Superior Tribunal de Justiça.
+Parecer pelo conhecimento e desprovimento do agravo em recurso especial.
+É o relatório.
+Atendidos os requisitos de admissibilidade, conheço do agravo e passo à análise do recurso especial.
+A controvérsia consiste em verificar se houve a violação dos art. 33, caput, da Lei n. 11.343/2006, 14 da Lei n. 10.826/2003 e 244 do CPP, no acórdão em que reformou a sentença absolutória, em razão da nulidade da busca pessoal realizada sem fundadas razões, extraindo-se deste (fls. 329-332):
+ ..  Data venia, os elementos de provas produzidos durante a instrução criminal demonstram que a abordagem e consequente busca pessoal no acusado não ocorreu de maneira infundada, mas sim em uma região conhecida pelo intenso tráfico de drogas, em contexto de patrulhamento para identificação de autores de um crime de roubo.
+Ao que consta dos autos, durante o referido patrulhamento, policiais militares visualizaram o acusado em via pública. Ao verificar a presença dos policiais, o recorrido teria mudado de direção, razão pela qual os policiais realizaram sua abordagem.
+A diligência resultou na apreensão, em posse do acusado, de cinco pinos de substância análoga à cocaína, além de maiores quantidades de drogas e uma arma de fogo, em local indicado pelo próprio apelado.
+A ação policial foi descrita no histórico do boletim de ocorrência, in verbis:
+"(..) DURANTE PATRULHAMENTO NO BAIRRO NAZARE, VISANDO A LOCALIZAÇÃO DE AUTORES DE ROUBO. A GUARNIÇÃO ROTAM 35213 COMANDADA PELO SGT FLÁVIO, AO PASSAR PELA RUA SOCRATES NA PRAÇA TRÊS MARIAS, NO BAIRRO DOM SILVÉRIO, PERCEBEU QUE UM INDIVIDUO DE BLUSA AZUL ESCURO E SHORT AZUL, QUE AO VER A APROXIMAÇÃO DA VIATURA POLICIAL, MUDOU DE DIREÇÃO DE FORMA ABRUPTA, PARA A RUA LEONIDAS TEXEIRA SENTTIDO ANEL RODOVIÁRIO, MOTIVO PELO QUAL DESPERTOU A ATENÇÃO DOS MILITARES SENDO O SUSPEITO ABORDADO E IDENTIFICADO COMO WENDEL LUCAS.
+ESTE LOCAL JÁ É CONHECIDO PELO INTENÇO TRAFICO DE DROGAS, SENDO O Fl. 8/12 SUSPEITO ABORDADO PELO SGT FLÁVIO E SD CORREIA.
+NA BUSCA PESSOAL O SGT FLÁVIO LOCALIZOU NO BOLSO DA CAMISA DE WENDEL DE 5 PNOS DE COCAÍNA.
+FOI VERIFICADO QUE WENDEL SE ENCONTRA NO USO DE TORNOZALEIRA ELETRONICA, PELO CRIME DE TRÁFICO DROGAS
+EM CONVERSA COM O ABORDADO WENDEL LUCAS, SOBRE OS PNOS ENCONTRADOS EM SEU BOLSO, O MESMO RESPONDEU QUE HOJE É O SEU PLANTÃO NA VENDA DE DROGAS, PERGUNTADO NOVAMENTE SE ALI HAVERIA MAIS DROGAS, WENDEL NOS CONDUZIU ATÉ UM BARRANCO NO FINAL DA RUA L EONIDIA TEXEIRA, ONDE ELE MISTROU E ALI FOI ARRECADADA PELO CB GUSTAVO UMA SACOLA PLASTICA QUE CONTIA EM SEU INTERIOR 125 PEDRAS DE CRACK DOLADAS, 92 PNOS DE COCAÍNA, UMA BALNCA DE PRECISAO, UM REVOLVER E A QUANTIA DE R$ 35,00 REAIS.
+SEGUNDO WENDEL AS DROGAS SAO DE SUA PROPRIEDADE MAS NÃO TINHA CONHECIMENTO DA ARMA DE FOGO E NEM DO DINHEIRO, UMA VEZ QUE VARIOS UTILIZAM ALI PARA GUARDAREM AS DROGAS DA PISTA.
+DIANTE DOS FATOS FOI DADO VOZ DE PRISÃO A WENDEL, SENDO GARANTIDO SEUS DIREITOS CONSTITUCIONAIS, BEM COMO SUA INTEGRIDADE FISICA E PSICOLOGICA. ENCAMINHADO PARA ESSA ESPECIALIZADA PARA PROVIDENCIA DE POLICIA JUDICIARIA." (fls. 10)
+O policial militar condutor Flávio Martins de Azevedo, ouvido em juízo (mídia), confirmou o histórico do boletim de ocorrência, narrando que, no dia dos fatos, houve um roubo na região. Esclareceu que, durante patrulhamento visando identificar o autor do roubo, a equipe avistou um indivíduo. Informou que, ao verificar a presença da guarnição, o indivíduo abruptamente mudou de direção, tentando evadir o local. Acrescentou que, por tal razão, decidiram efetuar a abordagem do acusado. Pontuou que, em posse do réu, foram encontrados cinco pinos de cocaína, tendo ele indicado um local onde seriam localizadas mais drogas. Destacou terem sido encontradas, no referido local, mais quantidades de entorpecentes, além de uma quantia em dinheiro e um revólver.
+Também em juízo (mídia), o policial militar Gabriel Rodrigues Correa afirmou que o local onde o réu foi encontrado se tratava de local conhecido pelo tráfico de drogas. Ressaltou que o acusado, ao visualizar a guarnição, mudou de direção de maneira inesperada, deixando o local em passos acelerados. Declarou que, realizada a abordagem do indivíduo, foi encontrada determinada quantidade de entorpecentes. Acrescentou, ainda, ter o recorrido indicado onde seriam encontradas mais drogas.
+Perante a autoridade policial, o acusado negou que portava os cinco pinos de cocaína mencionados pelos policiais, assumindo, contudo, a propriedade dos entorpecentes. Declarou que as drogas realmente seriam destinadas ao comércio. Alegou desconhecer a propriedade da arma encontrada (fl. 17).
+Sob o crivo do contraditório (mídia), contudo, exerceu o seu direito constitucional ao silêncio.
+Consoante se observa dos esclarecimentos acima transcritos, a abordagem do acusado não ocorreu com base em parâmetros subjetivos dos policiais acerca de seu comportamento.
+Ao contrário, como já exposto, a abordagem e consequente busca pessoal se deu por quatro fatores que ocorreram concomitantemente, no mesmo contexto fático: (i) os militares realizavam patrulhamento buscando verificar a ocorrência de um delito roubo; (ii) o acusado, ao perceber a presença dos policiais, mudou abruptamente sua direção, a fim de evitar a sua abordagem; (iii) o local onde o acusado se encontrava era conhecido como ponto de intenso tráfico de drogas; (iv) o próprio réu teria confessado à autoridade policial a prática do comércio de entorpecentes.
+Ou seja, percebe-se que a busca pessoal ocorreu com base em elementos objetivos, concretos e precisos, sendo certo que, todos eles, ocorrendo concomitantemente, são suficientes para legitimar a ação policial.
+Aliás, caso todos os elementos não justificassem a abordagem e a busca pessoal, qualquer ação policial se tornaria inviável e, consequentemente, o combate ao crime seria ainda mais penoso.
+Assim, presentes as fundadas suspeitas aptas a ensejar a abordagem e busca pessoal, não há que se falar em nulidade do processo por ilicitude das provas obtidas. ..
+Noutra vertente, assim decidiu o Juízo de primeiro grau (fls. 257-258):
+ ..  Como se vê, embora o local fosse conhecido como ponto de venda de drogas, o acusado não foi visualizado em atitude de mercancia ou portando algum invólucro que indicasse a guarda de materiais ilícitos, sendo certo que, conforme declarações das testemunhas, sua abordagem ocorreu em razão da suspeita de seu envolvimento no roubo, a qual foi suscitada meramente por sua mudança de direção ao perceber a presença policial.
+ ..
+Deste modo, embora tenham sido apreendidas substâncias ilícitas na posse do acusado e que este mesmo, em seu depoimento na DEPOL, tenha admitido a traficância (ID 10227726990 - Pág. 12), as razões devem ser fundadas em elementos prévios à busca pessoal que indicasse a posse de algum material ilícito, o que não houve no caso.
+Assim, diante da inexistência da fundada suspeita, nos termos do art. 244 do CPP, apta a embasar de forma segura a busca pessoal, forçoso o reconhecimento da existência de prova ilícita, decorrente da busca pessoal ilegal.
+Consequentemente, não há o que se falar em condenação pelos materiais encontrados em sua posse ou no local por ele indicado.
+Destarte, se não há prova da materialidade delitiva, de rigor a absolvição do acusado. ..
+No caso, o Tribunal de origem, ao reformar a sentença absolutória, consignou que a abordagem policial - na qual foram encontrados com o réu, ora recorrente, "97 (noventa e sete) microtubos de cocaína, pesando 134,6g e 125 (cento e vinte e cinco) pedras de crack, pesando 33,1g" (fl. 255), além de um revólver calibre 32 - se deu com fundadas razões, considerando os depoimentos dos policiais em solo policial e confirmados em juízo.
+Para tanto, registrou que os policiais se encontravam em patrulhamento em local conhecido pelo comércio de drogas, quando avistaram o acusado, ora recorrente, o qual, ao perceber a presença da guarnição, mudou abruptamente de direção, tentando evadir-se do local.
+Todavia, constata-se a violação do art. 244 do CPP, além da jurisprudência desta Corte sobre o tema. Isso porque a mudança abrupta de direção ao perceber a presença da guarnição policial, ainda que em local conhecido como ponto de venda de entorpecentes, desacompanhada de qualquer reação, tal como dispensa de objetos, não constitui fundadas razões à abordagem policial. Confira-se:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. BUSCA PESSOAL. AUSÊNCIA DE FUNDADA SUSPEITA. PROVAS ILÍCITAS. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto pelo Ministério Público do Estado do Paraná contra decisão que deu provimento a recurso especial, reconhecendo a nulidade das provas obtidas mediante busca pessoal realizada no recorrente, bem como de todas as que dela decorreram, e absolvendo-o em relação à prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+2. O Juízo de primeira instância condenou o agravado às penas de 06 (seis) anos de reclusão, em regime inicial semiaberto, e 600 (seiscentos) dias-multa pela prática do crime de tráfico de drogas.
+A Defesa interpôs revisão criminal, julgada improcedente pelo Tribunal de Justiça do Estado do Paraná, mantendo-se a condenação.
+Posteriormente, a Defesa interpôs recurso especial alegando a ilicitude das provas obtidas mediante busca pessoal, resultando na absolvição do agravado.
+II. Questão em discussão
+3. A discussão consiste em saber se a busca pessoal realizada no agravado, baseada em alegação de nervosismo e mudança de direção ao avistar a viatura policial, configura fundada suspeita para justificar a apreensão de drogas e a consequente condenação por tráfico.
+III. Razões de decidir
+4. A decisão agravada considerou que a busca pessoal foi realizada sem fundada suspeita, uma vez que se apoiou apenas no nervosismo do agravado ao avistar a viatura policial, o que não é suficiente para justificar a medida.
+5. A jurisprudência do Superior Tribunal de Justiça exige que a busca pessoal sem mandado judicial seja embasada em fundada suspeita, com elementos objetivos e demonstráveis, o que não foi observado no caso.
+6. A ausência de elementos objetivos que justifiquem a busca pessoal torna ilícitas as provas obtidas, contaminando todo o conjunto probatório e ensejando a absolvição do agravado.
+IV. Dispositivo e tese
+7. Agravo regimental não provido.
+Tese de julgamento: 1. A busca pessoal deve ser baseada em fundada suspeita, com elementos objetivos e demonstráveis. 2. A ausência de fundada suspeita torna ilícitas as provas obtidas e contamina o conjunto probatório, ensejando a absolvição do acusado.
+(AgRg no REsp n. 2.123.301/PR, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 3/9/2025, DJEN de 10/9/2025.)
+DIREITO PROCESSUAL PENAL. RECURSO ESPECIAL. TRÁFICO DE DROGAS. NULIDADE DAS PROVAS. BUSCA PESSOAL SEM FUNDADA SUSPEITA. APREENSÃO DE 7G DE CRACK. PARECER FAVORÁVEL DO MPF. ILEGALIDADE RECONHECIDA. RECURSO PROVIDO.
+I. CASO EM EXAME
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça do Paraná que manteve a condenação do recorrente à pena de 1 ano e 8 meses de reclusão, em regime aberto, por infração ao art. 33, § 4º, da Lei 11.343/2006.
+2. O recorrente alega violação de dispositivos do Código de Processo Penal e da Lei de Drogas, sustentando que a busca pessoal foi realizada sem justificativa, configurando abuso de autoridade, e que a quantidade de droga apreendida não caracteriza tráfico.
+3. O Ministério Público Federal opinou pelo provimento do recurso especial.
+II. QUESTÃO EM DISCUSSÃO
+4. A questão em discussão consiste em saber se a busca pessoal realizada sem fundada suspeita, baseada apenas na mudança de direção do recorrente ao avistar a viatura policial, é suficiente para justificar a apreensão de drogas e a condenação por tráfico.
+III. RAZÕES DE DECIDIR
+5. A busca pessoal sem fundada suspeita, baseada apenas em atitudes subjetivas, não atende ao requisito legal de "fundada suspeita" exigido pelo art. 244 do CPP.
+6. A jurisprudência do STJ estabelece que a mera mudança de direção ao avistar a polícia não configura justa causa para busca pessoal.
+7. A apreensão de 7g de crack, sem outros indícios de tráfico, não é suficiente para configurar o crime de tráfico de drogas.
+IV. RECURSO ESPECIAL PROVIDO PARA ABSOLVER O RECORRENTE, RECONHECENDO A ILICITUDE DAS PROVAS OBTIDAS.
+(REsp n. 2.178.151/PR, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 17/12/2024, DJEN de 26/12/2024.)
+Ante o exposto, conheço do agravo e dou provimento ao recurso especial de WENDEL LUCAS DOS SANTOS CASTRO para restabelecer a sentença de fls. 255-259 (Processo n. 0138370-10.2024.8.13.0024 - 5ª Vara de Tóxicos, Organização Criminosa e Lavagem de Bens e Valores de Belo Horizonte).
+Publique-se.
+Intimem-se.
+EMENTA
