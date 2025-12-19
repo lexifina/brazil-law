@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por DARLA DE OLIVEIRA MARINHO à decisão de fls. 585/586, que não conheceu do recurso.
+Sustenta a parte embargante:
+O embargante foi intimado do acórdão recorrido em 17/02/2025 (segunda-feira), tendo interposto o Recurso Especial em 14/03/2025.
+Ocorre que o período de 03 a 05 de março de 2025 correspondeu ao feriado de Carnaval, com suspensão de expediente forense no Tribunal de Justiça do Estado do Rio de Janeiro, conforme Decreto abaixo. Portanto, durante esse período não houve expediente forense nem fluência de prazos.
+ ..
+O próprio TJRJ certificou a tempestividade do Recurso Especial interposto, reconhecendo que o prazo encontrava-se regularmente suspenso no período citado.
+ ..
+A decisão embargada deixou de considerar o regramento local de suspensão dos prazos processuais, aplicável ao Tribunal de origem, em descompasso com o entendimento consolidado pelo Superior Tribunal de Justiça.
+ ..
+Ademais, o feriado de Carnaval tem sido reconhecido reiteradamente por este Egrégio Tribunal como causa legítima de suspensão de prazo processual.
+Havendo certificação do tribunal de origem de que o prazo correu dentro dos limites legais, tal documento deve ser valorizado.
+Dessa forma, a decisão embargada incorreu em omissão e erro material ao desconsiderar a suspensão expressamente reconhecida pelo Tribunal de origem, cuja certidão de tempestividade goza de fé pública e deve ser prestigiada pelo STJ, sob pena de violação aos princípios da segurança jurídica e da boa-fé processual (fls. 590/591).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada, no ato da interposição do recurso que pretende seja conhecido por este Tribunal, por documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública.
+Nesse sentido, AgInt no AREsp n. 2.227.508/BA, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 27.6.2023; AgInt nos EDcl no AREsp n. 2.270.942/SP, Rel. Ministro João Otávio de Noronha, Quarta Turma, DJe de 7.6.2023; e AgInt no AREsp n. 2.280.536/BA, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 24.5.2023.
+Tendo em vista a nova redação do art. 1.003, § 6º, do CPC (dada pela Lei n. 14.939/2024), bem como a QO no AREsp n. 2.638.376/MG, a parte foi intimada para comprovar, por documento idôneo, eventual suspensão, interrupção ou prorrogação do prazo processual para interposição do recurso.
+No entanto, mesmo após a intimação da parte para regularizar a questão da tempestividade, não houve a devida regularização, porquanto quedou-se inerte.
+É certo que o feriado nacional de 04.03.2025 não precisa ser comprovado. Porém, os dias 28.02, 03.03 e 05.03.2025 são supostamente feriados locais, razão pela qual deveriam ter sido comprovados no momento oportuno, o que não ocorreu.
+Ressalte-se que são considerados feriados nacionais somente aqueles que estão expressamente previstos na Lei nº 662/1949 e Lei nº 6.802/1980, as quais declaram feriados nacionais os dias 1º de janeiro, 21 de abril, 1º de maio, 7 de setembro, 12 de outubro, 2 de novembro, 15 de novembro e 25 de dezembro.
+No caso, a segunda-feira de carnaval, a Quarta-Feira de Cinzas, os dias da Semana Santa que antecedem a Sexta-Feira da Paixão, o dia de Corpus Christi e o do servidor público são considerados feriados locais para fins de comprovação da tempestividade recursal (AgInt no AREsp n. 2.493.227/MG, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 15.5.2024; AgInt nos EDcl no AREsp n. 1.759.735/SC, Rel. Ministra Isabel Gallotti, Quarta Turma, DJe de 13.5.2024; e, AgInt no AREsp n. 2.398.408/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 2.5.2024.).
+Veja que o juízo de admissibilidade do Recurso Especial é bifásico, ou seja, a decisão de admissibilidade proferida pelo Tribunal local ou ainda a certidão expedida por servidor na instância de origem não vincula esta Corte Superior, na medida em que tal juízo está sujeito ao duplo controle, sendo o STJ competente para nova análise dos pressupostos recursais.
+Nesse sentido: AgInt no AREsp n. 2.459.649/DF, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 3.5.2024; AgInt no AREsp n. 2.250.245/CE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 18.8.2023; AgInt no AREsp n. 2.050.156/MG, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 11.4.2024; e, AgInt no AREsp 1686946/MA, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 18.12.2020.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 28.8.2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Não conheço dos embargos de declaração de fls. 593/602 em razão da preclusão consumativa.
+Publique-se.
+Intimem-se.
+ EMENTA
