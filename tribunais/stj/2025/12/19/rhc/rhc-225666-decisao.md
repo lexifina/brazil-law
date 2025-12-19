@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por DARLAN FERREIRA DE LIMA SILVA, no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO, que denegou o writ de origem.
+Consta nos autos que o juízo de primeiro grau decretou a prisão temporária, em 1º/12/2023, sendo o ora recorrente denunciado pela suposta prática do crime tipificado nos arts. 2º, §2º, da Lei 12.850/2013, ocasião em que a prisão preventiva foi decretada.
+Neste recurso, a defesa sustenta flagrante ilegalidade, diante de suposta associação para o tráfico, apesar da inexistência dos elementos essenciais do tipo penal, notadamente pluralidade de agentes e o vínculo associativo permanente para tais crimes.
+Afirma que não há indícios suficientes de autoria, em razão de elementos probatórios suficientes para vincular o recorrente ao delito de organização criminosa, uma vez que a única evidência que possui é com a semelhança de nomes em lista de celulares periciados e "grampeados" em inquérito policial.
+Alega a carência de motivação idônea para a decretação e manutenção da segregação cautelar, reputando ausentes os requisitos autorizadores da medida extrema (art. 312 do CPP), além da desproporcionalidade da medida, invocando condições pessoais favoráveis (primariedade, bons antecedentes, residência fixa).
+Requer, liminarmente e no mérito, a revogação da prisão preventiva ou aplicação das medidas cautelares diversas da prisão (art. 319 do CPP).
+Prestadas informações, o Ministério Público Federal manifestou nos termos da seguinte ementa (fl. 152):
+RECURSO EM HABEAS CORPUS. PENAL E PROCESSO PENAL. ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. INDÍCIOS DE AUTORIA E MATERIALIDADE DELITIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DO DELITO. CONDIÇÕES PESSOAIS FAVORÁVEIS IRRELEVANTES. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. INSUFICIÊNCIA E INADEQUAÇÃO. CONSTRAGIMENTO ILEGAL NÃO EVIDENCIADO. PARECER PELO NÃO PROVIMENTO DO RECURSO ORDINÁRIO.
+É o relatório.
+DECIDO.
+O recurso é tempestivo e deve ser conhecido. Passa-se, portanto, ao exame do mérito.
+A prisão preventiva justifica-se apenas quando devidamente demonstrada sua imprescindibilidade para a preservação da ordem pública, a garantia da regularidade da instrução criminal ou a asseguração da eficácia da aplicação da lei penal, nos termos do art. 312 do Código de Processo Penal.
+A decisão que manteve a prisão preventiva foi assim fundamentada (fls. 59-62):
+ ..  Em que pese as razões dos requerentes, pelo exame das circunstâncias fáticas que ensejaram a prisão preventiva, tenho que a prisão provisória merece ser mantida, o que se faz para garantia da ordem púbica e também garantia da aplicação penal (art. 312 do CPP).
+E ainda, motiva-se, diante da gravidade concreta do crime, em tese, praticado pelo acusado e os outros denunciados, consoante fundamentos contidos na decisão em ids 175745920.
+No caso, os pressupostos, indícios de autoria e prova da materialidade entendo que persiste permanecendo presentes os requisitos necessários à segregação cautelar do requerente.
+ ..
+Denota tratar-se de crime de intensa gravidade, demonstrando desrespeito pelas leis e pela justiça, evidenciando propensão a práticas ilícitas, bem como indicando periculosidade ao convívio social.
+Conceder liberdade ao acusado irá gerar sentimento de insegurança e desrespeito na Justiça por parte da comunidade, sem falar na sensação de impunidade, que incentiva a prática de crimes.
+Assim, analisando os autos com afinco, pode-se notar com clareza que as razões ainda persistem, não havendo assim motivo relevante para o deferimento do pleito.
+Pacífico é o entendimento no Superior Tribunal de Justiça de que a periculosidade do agente e "A necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa, enquadra-se no conceito de garantia da ordem pública, constituindo fundamentação cautelar idônea e suficiente para a prisão preventiva (STF, Primeira Turma, HC-95.024/SP. Rel. Min. CÁRMEN LÚCIA, DJe de 20/2/2009)" (HC N. 371.769/BA, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/5/2017, DJe de 15/5/2017).
+Ademais, nos termos da súmula 86 do TJPE - As condições pessoais favoráveis ao acusado, por si sós, não asseguram o direito à liberdade provisória, se presentes os motivos para a prisão preventiva.
+Destaco, por fim, que não é cabível a aplicação das medidas cautelares alternativas à prisão, por estarem presentes os requisitos para a decretação da prisão preventiva, consoante preconiza o art. 282, § 6º do CPP.  ..
+Como visto, houve fundamentação determinante à decretação da prisão preventiva, evidenciado na necessidade de garantir a ordem pública, diante da gravidade concretada da conduta atribuída ao ora recorrente, que supostamente integra uma organização criminosa, a revelar a indispensabilidade da imposição da medida extrema na hipótese.
+Com efeito, " " o  STF já se manifestou no sentido de que "a necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa, enquadra-se no conceito de garantia da ordem pública, constituindo fundamentação cautelar idônea e suficiente para a prisão preventiva" (HC n. 95.024/SP, Primeira Turma, Relª. Minª. Cármen Lúcia, DJe de 20/2/2009)" (AgRg no RHC n. 167.101/RS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 15/9/2022)" (AgRg no RHC n. 193.194/CE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 10/6/2024, DJe de 12/6/2024).
+Além disso, "A presença de condições pessoais favoráveis não tem o condão de, por si só, garantir a liberdade ao acusado, quando há, nos autos, elementos hábeis que autorizam a manutenção da medida extrema nos termos do art. 312 do CPP." (AgRg no RHC n. 208.446/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/3/2025, DJEN de 10/3/2025).
+Igualmente, " s ão inaplicáveis quaisquer medidas cautelares alternativas previstas no art. 319 do CPP, uma vez que as circunstâncias do delito evidenciam a insuficiência das providências menos graves." (AgRg no HC n. 960.341/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/2/2025, DJEN de 24/2/2025).
+Também descabida é a alegação de desproporcionalidade da prisão cautelar, com base em futura e hipotética condenação a ser cumprida em regime mais brando, haja vista que o juízo só poderá dosar a pena e fixar o respectivo regime após o encerramento da instrução criminal. Não é possível antecipar tal análise em habeas corpus, por se exigir prévia produção de prova.
+Por fim, no que tange à tese de ausência de indícios suficientes de autoria, cabe asseverar que, para a decretação da custódia cautelar, exigem-se indícios suficientes de autoria e não a prova cabal desta, o que somente poderá ser verificado em eventual decisão condenatória, após a devida instrução dos autos.
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
