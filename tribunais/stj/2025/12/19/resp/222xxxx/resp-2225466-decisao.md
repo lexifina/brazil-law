@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, que julgou a Ação Rescisória n. 5009794-77.2019.8.21.0019, assim ementado (fl. 631):
+PROCESSO CIVIL E TRIBUTÁRIO. AÇÃO RESCISÓRIA. CABIMENTO. PIS E COFINS. BASE DE CÁLCULO. EXCLUSÃO DO ICMS. RE 574.706. TEMA 69. MODULAÇÃO DE EFEITOS.
+1. É cabível o manejo de ação rescisória, desde que observados os prazos legais, para adequar acórdão ao entendimento fixado pelo Supremo Tribunal Federal em sede de Repercussão Geral.
+2. Em sede de embargos de declaração, o STF modulou os efeitos do julgado exarado no RE 574.706 estabelecendo que a exclusão do ICMS destacado em notas fiscais da base de cálculo do PIS e da COFINS tem efeitos a partir de 15/03/2017, ressalvadas as ações judiciais e administrativas protocoladas até a data da sessão em que proferido o julgamento.
+3. Ação rescisória julgada procedente para adequar o acórdão deste Tribunal à modulação de efeitos em questão.
+Os embargos de declaração opostos ao julgado foram rejeitados (fls. 640-643).
+A parte recorrente alega violação do art. 85 do CPC, sustentando, em síntese (fls. 645-649):
+A 1ª Seção do Tribunal Regional Federal da 4ª Região julgou procedentes os pedidos formulados para declarar que o direito à exclusão do ICMS da base de cálculo do PIS e da COFINS, reconhecido na ação originária, tem efeitos quanto aos fatos geradores ocorridos a partir de 15 de março de 2017. Na oportunidade, contudo, o órgão julgador deixou de condenar a parte adversa ao pagamento de honorários advocatícios  ..  é conveniente referir que a ausência de menção expressa ao art. 85, caput, do Código de Processo Civil não consubstancia, no contexto em análise, falta de prequestionamento  ..  não houve, na prolação do acórdão, particularidades que ensejassem a oposição de embargos de declaração, o que afasta a incidência da Súmula 356 do Supremo Tribunal Federal. Resta configurado, portanto, o prequestionamento implícito  ..  a condenação da parte vencida ao pagamento de honorários advocatícios é, pois, um imperativo de ordem legal, que somente pode ser afastado por força de lei  ..  a ação rescisória proposta pela União consubstancia o único instrumento jurídico possível para obter o bem jurídico pretendido  ..  não há como se atribuir à União, vencedora na demanda, a responsabilidade por haver dado "causa ao processo".
+Sem contrarrazões de DISTRIBUIDORA DE CARNES RIBEIRO LTDA, o recurso foi admitido.
+É o relatório.
+Decido.
+Vejamos, desde logo e no que interessa, o que está consignado no voto condutor do acórdão recorrido (fls. 627-630):
+3.2 Honorários Advocatícios e custas processuais
+Nesta rescisória, com base no princípio da causalidade, deixo de condenar a parte ré a suportar os ônus sucumbenciais, porquanto a rescisão do julgado de origem se deu em função da alteração da compreensão da matéria pela jurisprudência.
+O contribuinte, por ocasião da propositura da demanda originária, estava escudado em precedentes até então consolidados sobre o tema que, inclusive, o fizeram vencedor da demanda.
+Não há como atribuir à empresa qualquer tipo de responsabilidade pela presente ação rescisória.
+Nesse sentido decidiu a 1ª Seção, por unanimidade, no julgamento da ação rescisória nº 5032050-10.2021.4.04.0000/RS, relator Des. Fed. Leandro Paulsen - 02/12/2021.
+No feito originário (Procedimento Comum), tratando-se de proveito econômico ilíquido, com procedência parcial, deve ser apurado em liquidação de sentença (inc. II do § 4º do art. 85 do CPC), para fins de fixação dos honorários advocatícios, os quais não devem superar os percentuais mínimos previstos no § 3º do art. 85 do CPC.
+Pois bem.
+No caso específico dos autos, o órgão julgador a quo decidiu pelo não cabimento dos honorários de sucumbência em razão de a pessoa jurídica não ter responsabilidade pelo ajuizamento da ação rescisória, o qual se deu em decorrência da modulação dos efeitos da decisão do Supremo Tribunal Federal, enquanto a parte recorrente se limita a pedir os honorários advocatícios.
+Nesse cenário, considerados os teores do acórdão recorrido e das razões recursais, nota-se a ausência de impugnação específica à fundamentação adotada no acórdão recorrido, razão pela qual o recurso não pode ser conhecido, à luz da Súmula n. 283 do STF, segundo a qual "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Nesse sentido, entre outros: REsp n. 2.216.010/RS, relator Ministro Teodoro Silva Santos; REsp n. 2.222.067/SC, relator Ministro Teodoro Silva Santos; AgInt no REsp n. 2.222.633/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 24/11/2025, DJEN de 27/11/2025; AgInt no REsp n. 2.224.520/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 17/11/2025, DJEN de 24/11/2025.
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Sem honorários recursais, tendo em vista a inexistência de condenação em honorários no âmbito do Tribunal de origem.
+Advirto as partes de que a eventual interposição de agravo interno, declarado manifestamente inadmissível ou improcedente, ou de embargos de declaração, manifestamente protelatórios, poderá ensejar a aplicação de multa, nos termos, respectivamente, dos arts. 1.021, § 4º, e 1.026, § 2º, do Código de Processo Civil.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. AÇÃO RESCISÓRIA. CONTRIBUIÇÃO AO PIS E COFINS. BASES DE CÁLCULO. EXCLUSÃO DO ICMS. TESE DEFINIDA PELO SUPREMO TRIBUNAL FEDERAL (TEMA N. 69 DO STF). MODULAÇÃO DOS EFEITOS. ACÓRDÃO RECORRIDO PELA NÃO CONDENAÇÃO DA PARTE RÉ EM HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. FUNDAMENTAÇÃO NÃO IMPUGNADA. INADMISSIBILIDADE. RECURSO ESPECIAL NÃO CONHECIDO.
