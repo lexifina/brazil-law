@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão assim ementado (fls. 282-283):
+Recuperação judicial. Decisão que indeferiu pedido de terceiro de liberação de parte de produto da venda pública de imóvel de sociedade estranha à recuperação, mas integrante do mesmo grupo econômico de recuperandas. Bem oferecido gratuitamente para pagamento de credores concursais, nos termos do plano. Agravo de instrumento. Coisa julgada. Inoponibilidade de seus efeitos ao agravante, terceiro no recurso em que formada (AI 2254126-55.2018.8.26.0000). Inteligência do art. 506 do CPC. Recurso, de todo modo, em que não se discutiu destinação de parte do produto da venda para credores da proprietária do bem. Lá se debateu, tão somente, a impossibilidade de pagamento de créditos concursais fora do procedimento recuperacional. É que o imóvel ofertado pela terceira foi penhorado e arrematado em hasta pública conduzida em reclamação trabalhista, tendo o Juiz do Trabalho que a preside iniciado o pagamento de diversos credores com o produto da venda. Risco de violação à"par conditio creditorum", pois alguns credores concursais trabalhistas receberiam de imediato e à vista, ao passo que outros receberiam nos termos do plano. Não comprovação da existência de outros bens hábeis a satisfazer o crédito do agravante.
+Reforma da decisão recorrida. Agravo de instrumento provido, autorizada a destinação de parte do produto da venda do imóvel para pagamento do agravante.
+Os embargos de declaração foram rejeitados (fls. 348-354).
+No recurso especial (fls. 359-381), fundamentado no art. 105, III, "a" e "c", da CF, a parte recorrente aponta, além de divergência jurisprudencial, violação dos arts. 141, 489, §1º, IV, 492; 502; 914, §1º; 926, 1.022, II, do CPC, 6º, §7º-A e 47 da Lei n. 11.101/2005.
+Suscita omissão, contradição e falta de fundamentação, pois o Tribunal de origem teria deixado de apreciar questões imprescindíveis ao deslinde da controvérsia, relativamente à determinação da remessa de parte do valor obtido na hasta pública do imóvel registrado na matrícula nº 34.284, do Cartório de Registro de Imóveis de Diadema/SP para a Reclamação Trabalhista nº 000631-37.2014.5.02.0263 (ajuizada por Edson), até o quantum necessário para pagamento do crédito de titularidade do ora Recorrido.
+Argui a competência absoluta e exclusiva do juízo recuperacional para dispor sobre o patrimônio.
+Requer a atribuição de efeito suspensivo ao recurso.
+Foram apresentadas contrarrazões (fls. 390-399).
+Juízo positivo de admissibilidade (fls. 409-415).
+Nesta Corte, o MPF se manifesta pelo não p rovimento do recurso especial (fls. 466-474).
+É o relatório.
+Decido.
+A irresignação não merece acolhida.
+Não há falar em ofensa aos arts. 489, § 1º, IV, e 1.022, II, do CPC/2015, quando os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como no caso em comento. O fato de a parte não concordar com a conclusão do acórdão recorrido não configura nenhum dos vícios previstos nos referidos dispositivos processuais.
+Além disso, a Corte local não está obrigada a rebater, um a um, os argumentos apresentados, desde que a fundamentação tenha sido suficiente para dirimir a controvérsia.
+Extraem-se os seguintes fundamentos do aresto proferido em embargos de declaração (fls. 295-298):
+ ..  Concluiu-se que, por integrar o mesmo grupo econômico das devedoras, o fato de não compor o polo ativo da recuperação judicial não influiria na competência do Juízo recuperacional.
+ ..  É verdade que se afirmou, na fundamentação do aresto, que "não merece prosperar o pedido das recuperandas para que, após o pagamento dos créditos da ação trabalhista de nº 1000578-60.2014.5.02.0264, em trâmite perante a 4ª Vara do Trabalho de Diadema, seja apenas o valor remanescente destinado aos créditos habilitados", pois, " c onsoante a cláusula 5.1.2.1., acima transcrita, a quantia obtida na alienação do imóvel deverá ser revertida inteiramente ao pagamento dos credores trabalhistas do processo recuperacional." Note-se, no entanto, que tudo foi analisado sob os limites da decisão agravada, que havia compreendido estarem sendo pagos créditos concursais no bojo da reclamação trabalhista.
+O pedido das devedoras de que primeiro fossem pagos aqueles créditos, e de que somente o saldo fosse vertido para o cumprimento do plano, evidentemente violaria o princípio da par conditio creditorum: alguns credores trabalhistas seriam integralmente pagos à vista na reclamação, outros sujeitos aos termos do plano no processo recuperacional. Isto não se poderia admitir.
+Não houve, como se vê, análise daquilo que aqui se debate.
+Por fim, a administradora judicial afirmou que a Ifer Estamparia possui recursos para adimplir os créditos trabalhistas por ela devidos, sendo desnecessária a destinação de parte do produto da venda do imóvel para tal finalidade. Não é o que se observa nos documentos juntos pela própria auxiliar.
+Com efeito, consta a fls. 124/126 certidão de que, na reclamação trabalhista instaurada pelo agravante contra a Ifer Estamparia, não foram localizados ativos financeiros da devedora, e os veículos encontrados são tão antigos que não se justifica sua constrição.
+Já os outros imóveis localizados via sistema ARISP na reclamação trabalhista (não considerado aquele objeto de discussão neste recurso) não parecem ser capazes de satisfazer a dívida, pois onerados por indisponibilidade de variada ordem (fls. 132/138, 140/144, 151/161, 162/175, 176/183 e 184/235).
+Reformo, desse modo, a decisão agravada, determinando a remessa do valor necessário ao pagamento do crédito do agravante aos autos do reclamação trabalhista para satisfação de seu crédito (proc. 000631/37.2014.5.02.0263).
+Nesse cenário, rever os fundamentos do aresto impugnado e sopesar as razões recursais demandaria revolvimento do conjunto fático-probatório dos autos, providência inviável em recurso especial, ante o óbice da Súmula n. 7 do STJ.
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Publique-se e intimem-se.
+EMENTA
