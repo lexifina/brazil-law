@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Carlos Pires Brandão, Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSO PENAL. SÚMULA N. 182 DO STJ. DECISÃO DE INADMISSIBILIDADE. FUNDAMENTOS NÃO IMPUGNADOS ESPECIFICAMENTE. SÚMULAS N. 7 E N. 83 DO STJ. APLICAÇÃO FUNDAMENTADA. ALEGAÇÃO DE DECISÃO GENÉRICA AFASTADA. DIALETICIDADE RECURSAL. AUSÊNCIA. SUSTENTAÇÃO ORAL. INCABÍVEL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É inviável o agravo em recurso especial que deixa de atacar especificamente todos os fundamentos da decisão de inadmissibilidade proferida pelo Tribunal de origem, nos termos da Súmula n. 182 do STJ.
+2. Não há que se falar em decisão de inadmissibilidade genérica quando a Corte a quo analisa pormenorizadamente as teses recursais e aplica, de forma individualizada e fundamentada, os óbices das Súmulas n. 83 e 7 do STJ.
+3. Para infirmar a aplicação da Súmula n. 83 do STJ, caberia ao agravante demonstrar que os precedentes citados pela Corte de origem são inaplicáveis ou que a jurisprudência desta Corte Superior é dissonante do acórdão recorrido, o que não ocorreu nas razões do agravo em recurso especial.
+4. A mera alegação de revaloração da prova é insuficiente para afastar o óbice da Súmula n. 7 do STJ. O agravante não demonstrou como seria possível rever as conclusões fáticas do acórdão recorrido sem o necessário reexame do acervo probatório.
+5. A ausência de impugnação específica aos fundamentos da decisão de inadmissibilidade configura violação ao princípio da dialeticidade, mantendo hígida a aplicação da Súmula n. 182 do STJ pela decisão monocrática agravada.
+6. Agravo regimental desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ROGERIO SCHIETTI CRUZ:
+ELTON LEONEL RUMICH DA SILVA interpõe agravo regimental contra decisão monocrática desta relatoria que não conheceu do seu agravo em recurso especial.
+Na decisão agravada, o agravo em recurso especial não foi conhecido com fundamento na Súmula n. 182 do STJ. Consignou-se que o recorrente deixou de infirmar especificamente os fundamentos da decisão de inadmissibilidade proferida pelo Tribunal Regional Federal da 3ª Região (fls. 3.781-3.797).
+A decisão de origem inadmitiu o recurso especial com base nas Súmulas n. 83 e 7 do STJ.
+Esta relatoria concluiu que o agravante não demonstrou, nas razões do AREsp, de que forma as teses de incompetência (violação do art. 83 do CPP) e de nulidade do acórdão (violação do art. 619 do CPP) encontrariam amparo na jurisprudência desta Corte, falhando em afastar a Súmula n. 83 do STJ. Do mesmo modo, não indicou como a análise das demais nulidades e da dosimetria da pena não demandaria reexame fático-probatório, omitindo-se em refutar a incidência da Súmula n. 7 do STJ.
+Nas razões deste agravo regimental (fls. 3.927-3.931), o agravante sustenta que a decisão de inadmissibilidade na origem foi "extremamente genérica", o que teria dificultado a impugnação.
+Requer a reconsideração da decisão ou a submissão do feito ao colegiado. Manifesta, ainda, interesse em sustentar oralmente.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSO PENAL. SÚMULA N. 182 DO STJ. DECISÃO DE INADMISSIBILIDADE. FUNDAMENTOS NÃO IMPUGNADOS ESPECIFICAMENTE. SÚMULAS N. 7 E N. 83 DO STJ. APLICAÇÃO FUNDAMENTADA. ALEGAÇÃO DE DECISÃO GENÉRICA AFASTADA. DIALETICIDADE RECURSAL. AUSÊNCIA. SUSTENTAÇÃO ORAL. INCABÍVEL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É inviável o agravo em recurso especial que deixa de atacar especificamente todos os fundamentos da decisão de inadmissibilidade proferida pelo Tribunal de origem, nos termos da Súmula n. 182 do STJ.
+2. Não há que se falar em decisão de inadmissibilidade genérica quando a Corte a quo analisa pormenorizadamente as teses recursais e aplica, de forma individualizada e fundamentada, os óbices das Súmulas n. 83 e 7 do STJ.
+3. Para infirmar a aplicação da Súmula n. 83 do STJ, caberia ao agravante demonstrar que os precedentes citados pela Corte de origem são inaplicáveis ou que a jurisprudência desta Corte Superior é dissonante do acórdão recorrido, o que não ocorreu nas razões do agravo em recurso especial.
+4. A mera alegação de revaloração da prova é insuficiente para afastar o óbice da Súmula n. 7 do STJ. O agravante não demonstrou como seria possível rever as conclusões fáticas do acórdão recorrido sem o necessário reexame do acervo probatório.
+5. A ausência de impugnação específica aos fundamentos da decisão de inadmissibilidade configura violação ao princípio da dialeticidade, mantendo hígida a aplicação da Súmula n. 182 do STJ pela decisão monocrática agravada.
+6. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+O agravo regimental não merece prosperar.
+Conforme assinalado na decisão monocrática agravada (fls. 3.916-3.922), o agravo em recurso especial não ultrapassou o juízo de admissibilidade, porquanto o recorrente deixou de impugnar, de forma específica e suficiente, todos os fundamentos da decisão que inadmitiu o recurso especial na origem (fls. 3.781-3.797).
+Incide, portanto, o óbice da Súmula n. 182 do STJ, que estabelece: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+O agravante, em seu regimental (fls. 3.927-3.931), alega que a decisão de inadmissibilidade proferida pelo Tribunal Regional Federal da 3ª Região foi "extremamente genérica" (fl. 3.928) e que, "NA MEDIDA DO POSSÍVEL" (fl. 3.928), rebateu os óbices ventilados.
+A alegação não se sustenta.
+Ao contrário do afirmado pela defesa, a decisão de inadmissibilidade (fls. 3.781-3.797) analisou pormenorizadamente cada ponto do recurso especial e aplicou os óbices de forma individualizada e fundamentada.
+I. Súmula n. 83 do STJ
+A Corte de origem, ao analisar a alegada violação do art. 619 do CPP (nulidade por omissão no acórdão), rechaçou a tese invocando expressamente o entendimento vinculante do Supremo Tribunal Federal no Tema de Repercussão Geral n. 339 do STF, concluindo que o acórdão recorrido estava devidamente fundamentado, "ainda que sucintamente" (fls. 3.788-3.789). Aplicou, assim, a Súmula n. 83 do STJ (fl. 3.789).
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS ESPECÍFICOS DA DECISÃO AGRAVADA. SÚMULA N. 182 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É ônus do agravante impugnar as causas específicas de inadmissão do recurso especial, sob pena de incidência da Súmula n. 182 do STJ.
+2. Na hipótese, é acertada a decisão da Presidência deste Tribunal Superior que não conhece do agravo em recurso especial interposto, uma vez que a defesa deixou de refutar, especificamente, o fundamento de inadmissibilidade referente à Súmula n. 83 do STJ.
+3. Para infirmar a aplicação da Súmula n. 83 do STJ, é necessário que a parte comprove que o entendimento desta Corte Superior destoa da conclusão a que chegou o Tribunal de origem ou que o caso dos autos seria distinto daqueles veiculados nos precedentes mediante distinguishing, o que não ocorreu na hipótese.
+4. Agravo regimental não provido.
+(AgRg no AREsp n. 1.833.577/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 6/12/2022, DJe de 16/12/2022.)
+Da mesma forma, quanto à alegada incompetência da Justiça Federal (violação do art. 83 do CPP), o Tribunal a quo citou precedentes específicos desta Corte (fls. 3.789-3.790) para fundamentar que, "No âmbito do C. STJ é consagrado o entendimento que compete à Justiça Federal o processamento e julgamento dos fatos em conexão  ..  sempre que a descrição fática  ..  evidenciar a prática dos crimes de lavagem de capitais e tráfico internacional de drogas" (fl. 3.789). Com base nisso, aplicou novamente a Súmula n. 83 do STJ (fl. 3.790).
+Nas razões do agravo em recurso especial (fls. 3806-3819), o recorrente, contudo, não se desincumbiu do ônus de infirmar tal fundamento. Para afastar a Súmula n. 83 do STJ, caberia à defesa demonstrar que os precedentes citados pela Corte de origem seriam inaplicáveis ao caso ou que a jurisprudência deste Tribunal Superior teria se modificado, o que não ocorreu.
+O agravante limitou-se a sustentar genericamente que "no reclamo especial defensivo fora consignada jurisprudência de nossos Pretores que caem como luvas ao caso do ora agravante" (fl. 3.818). Tal alegação é insuficiente para infirmar a aplicação do verbete, conforme reiterada jurisprudência desta Corte, reproduzida na decisão agravada (fl. 3.918).
+II. Súmula n. 7 do STJ
+A decisão de inadmissibilidade foi igualmente específica ao aplicar a Súmula n. 7 do STJ quanto às demais teses.
+No que tange à alegada nulidade da busca e apreensão (violação dos arts. 241 e 157, § 1º, do CPP), o Tribunal de origem assentou, com base nas provas dos autos, que "a entrada dos policiais no domicílio do réu foi autorizada por Beatriz Santos Ramos, que acompanhava o increpado no momento da prisão e ocupava o imóvel diligenciado, o que confere validade ao ato" (fl. 3.791). Concluiu, assim, que "A e. Turma julgadora, soberana na análise das questões fático-processuais, decidiu  ..  afastar a tese acerca da nulidade das provas" e que "a tese apresentada está indubitavelmente adstrita ao reexame do conjunto fático-probatório" (fl. 3.793).
+Quanto à dosimetria da pena (arts. 59 e 62, I, do CP, e art. 1º, § 4º, da Lei n. 9.613/1998), a Corte a quo foi clara ao afirmar que "A revisão das circunstâncias judiciais e da individualização das penas  ..  somente é permitida em casos de flagrante erro ou ilegalidade, o que não ocorre na espécie" e que "O reexame de provas em recurso especial é vedado pela Súmula 7 do STJ" (fls. 3.796-3.797).
+Nas razões do AREsp (fls. 3.815-3.818), o agravante, mais uma vez, falhou em atacar especificamente esse óbice. A defesa apenas alegou, de forma genérica, que não pretendia o reexame, mas sim a "revaloração da prova" (fl. 3.818).
+Ora, não basta a mera alegação de que se trata de revaloração. Caberia ao recorrente demonstrar, de forma inequívoca, como seria possível alterar as premissas fáticas firmadas pelo acórdão recorrido - por exemplo, a de que houve consentimento válido para o ingresso no domicílio (fl. 3.791) - sem o reexame do material probatório que lhes deu suporte. Ao não fazê-lo, limitando-se a repetir os argumentos do recurso especial, deixou de observar o princípio da dialeticidade.
+A decisão monocrática ora agravada (fls. 3.916-3.922) aplicou corretamente a jurisprudência desta Corte, demonstrando que a ausência de impugnação específica a todos os fundamentos da decisão de inadmissibilidade - sejam eles a Súmula n. 7 ou a Súmula n. 83, ambas do STJ - atrai, por analogia, a incidência da Súmula n. 182 do STJ (fls. 3918-3919).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO NÃO COMBATIDOS. SÚMULA N. 182 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Nas razões de pedir do agravo em recurso especial, a parte deixou de refutar, especificamente, os fundamentos utilizados da decisão impugnada, o que atraiu a incidência da Súmula n. 182 do STJ.
+2. O acórdão de apelação indicou razões claras e suficientes para afastar a tese de negativa de autoria e a parte não indicou omissão sobre ponto essencial para o julgamento da lide ou redação de difícil compreensão, a justificar a interposição de recurso especial a pretexto de violação do art. 619 do CPP.
+3. Ainda, "para impugnar a incidência da Súmula n. 83 do STJ, o agravante deve demonstrar que os precedentes indicados na decisão que inadmitiu o recurso especial são inaplicáveis ao caso ou deve colacionar precedentes contemporâneos ou supervenientes aos indicados na decisão para comprovar que outro é o entendimento jurisprudencial do STJ" (AgRg no AREsp n. 1823881/PR, Rel. Ministro João Otávio de Noronha, 5ª T., DJe 26/4/2021), o que não ocorreu.
+4. Não é suficiente, para requerer o afastamento do óbice da Súmula n. 7 do STJ, alegar genericamente que não se pretende o reexame de provas. Deixou de ser indicada premissa fática delineada e admitida pelo Tribunal a quo que, uma vez revalorada, permitisse a pretendida absolvição.
+5. Agravo regimental não provido.
+(AgRg no AREsp n. 1.827.996 /PR, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 10/8/2021, DJe de 16/8/2021.)
+Por fim, indefiro o pedido de inclusão do feito em pauta para sustentação oral (fl. 3.927), porquanto incabível no julgamento de agravo regimental, nos termos do art. 159, IV, do Regimento Interno do Superior Tribunal de Justiça.
+III. Dispositivo
+À vista do exposto, nego provimento ao agravo regimental.
