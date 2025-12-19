@@ -1,0 +1,61 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça que recebeu a seguinte ementa (fls. 1.735-1.742):
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NOSEMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ICMS SOBRE ENERGIA ELÉTRICA. TARIFA DE USO DO SISTEMA DE DISTRIBUIÇÃO (TUSD) E TARIFA DE USO DOSISTEMA DE TRANSMISSÃO (TUST). BASE DE CÁLCULO. INCLUSÃO. CONTROVÉRSIA DECIDIDA PELA PRIMEIRA SEÇÃOSOB A SISTEMÁTICA DOS RECURSOS REPETITIVOS (TEMA N. 986). EMBARGOS DE DIVERGÊNCIA DESPROVIDOS. QUESTÃO ACERCA DO PRETENSO ERRO NA INDICAÇÃO DO SUJEITO PASSIVO. INOVAÇÃO RECURSAL. AGRAVO INTERNO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+1. O acórdão embargado da Primeira Seção decidiu a controvérsia na mesma linha do que decidiu a Primeira Seção, sob o rito dos repetitivos (Tema n. 986), por ocasião do julgamento do REsp n. 1.692.023/MT, REsp n. 1.699.851/TO, REsp n. 1.734.902/SP e REsp n. 1.734.946/SP, relator Ministro Herman Benjamin, julgados em 13/3/2024, DJe de 29/5/2024, cuja tese vinculante é esta: " a  Tarifa de Uso do Sistema de Transmissão (TUST) e/ou a Tarifa de Uso de Distribuição (TUSD), quando lançada na fatura de energia elétrica, como encargo a ser suportado diretamente pelo consumidor final (seja ele livre ou cativo), integra, para os fins do art. 13, § 1º, II, a, da LC 87/1996, a base de cálculo do ICMS".
+2. A pretensão de trazer à discussão pretenso erro na indicação do sujeito passivo se traduz em clara inovação recursal, que não foi objeto de deliberação nem do acórdão recorrido, tampouco da decisão ora agravada, razão pela qual dela não se conhece.
+3. Agravo interno parcialmente conhecido e, nessa extensão, desprovido.
+Os embargos de declaração opostos na sequência foram rejeitados (fls. 2.237-1.243).
+O recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão impugnado, aos arts. 5º, caput, XXXVI, LIV e LV, 21, XII, b, 93, IX, 97, 102, III, a, 105, III, a, 150, I, II e III, 155, II, § 2º, IX, b, e §3º, e 170, IV, da Constituição Federal e ao art. 34, § 9º, do Ato das Disposições Constitucionais Transitórias.
+Sustenta nulidade do acórdão recorrido por ausência de fundamentação quanto ao erro na identificação do sujeito passivo da cobrança objeto do PTA n. 01.000157454-98 e aos argumentos relativos à modulação dos efeitos da decisão.
+Defende ser mera consumidora da energia elétrica transmitida, sendo que a obrigação de recolhimento do imposto deveria recair sobre as empresas transmissoras. Considera haver violação ao princípio da legalidade tributária, por atribuição de sujeição passiva ao consumidor com base em convênios do Confaz e em regulamento estadual, sem respaldo em lei complementar.
+Defende a impossibilidade de exigência do ICMS sobre a TUST e a TUSD, haja vista não refletirem o valor da operação.
+Aduz que (fls. 1.273-1.275):
+ ..  se o fato gerador definido pela legislação para a incidência do ICMS sobre as operações de energia é o consumo dessa energia pelo consumidor (entrada em seu estabelecimento), admitir a incidência do imposto sobre a TUST e a TUSD significa exigir o ICMS sobre materialidade diversa da definida pela legislação.
+ ..
+Ora, os valores que são arcados pela Recorrente a título de TUST/TUSD não estão relacionados ao consumo de energia (fato gerador do ICMS), razão pela qual tais quantias jamais poderão ser incluídas na base de cálculo do imposto.
+ ..
+Outra não poderia ter sido a conclusão do Poder Legislativo, sob pena de extrapolar a limitação constitucional prevista no artigo 155, §2º, IX, "b", a qual expressamente prevê a tributação pelo ICMS sobre o valor total da operação, o qual não incorpora referidas tarifas para sua composição.
+ ..
+No caso em foco, a TUST e a TUSD pagas pelo contribuinte não compõem a matriz de incidência do ICMS, uma vez que não há circulação de mercadoria, o que ocorrerá somente com o efetivo consumo de energia pelo destinatário - e não pela sua transmissão e distribuição.
+Argumenta, ainda, a necessidade de adequação da tese de modulação de efeitos em decorrência da alteração da jurisprudência consolidada, de forma que, à luz da segurança jurídica, a modulação deveria abarcar todos os contribuintes que possuíam ação ajuizada até o início do julgamento do presente recurso, conforme precedentes do STF. Assevera que, ao restringir a modulação de efeitos para uma parcela de consumidores, o acórdão recorrido violou os princípios da isonomia, da razoabilidade e da livre concorrência.
+Requer, assim, a admissão e o provimento do recurso.
+As contrarrazões foram apresentadas às fls. 1.300-1.319.
+É o relatório.
+2. No julgamento do paradigma vinculado ao Tema n. 339, o Supremo Tribunal Federal apreciou a seguinte questão:
+ ..  se decisão que transcreve os fundamentos da decisão recorrida, sem enfrentar pormenorizadamente as questões suscitadas nos embargos declaratórios, afronta o princípio da obrigatoriedade de fundamentação das decisões judiciais, nos termos do art. 93, IX, da Constituição Federal.
+Na ocasião, firmou-se a seguinte tese vinculante:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas.
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessária a apreciação de todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da CF não está relacionada ao acerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso dos autos, foram apresentados, de forma satisfatória, os fundamentos da conclusão do acórdão recorrido, como se observa do seguinte trecho do referido julgado (fls. 1.194-1.201):
+Não trouxe a agravante nenhum argumento apto a infirmar os fundamentos da decisão agravada que, portanto, deve ser mantida em seus próprios termos.
+Os embargos de divergência foram desprovidos, porque a solução dada pelo acórdão embargado está em conformidade com o que decidiu a Primeira Seção, sob o rito dos repetitivos (Tema n. 986), por ocasião do julgamento do REsp n. 1.692.023/MT, REsp n. 1.699.851/TO, REsp n. 1.734.902/SP e REsp n. 1.734.946/SP, relator Ministro Herman Benjamin, julgados em 13/3/2024, DJe de 29/5/2024, este último assim ementado:
+ ..
+Não prospera, ainda, a pretensão de se aguardar o trânsito em julgado do tema repetitivo, uma vez que a jurisprudência firmada por esta Corte é uníssona no sentido de que:
+As teses fixadas nos julgamentos vinculativos deste Superior Tribunal de Justiça e do Supremo Tribunal Federal podem ser aplicadas imediatamente nos feitos respectivos, ainda que não tenha ocorrido o trânsito em julgado dos precedentes de observância obrigatória e mesmo na pendência de eventuais aclaratórios. Precedentes do STJ e do STF. (AgInt nos EmbExeMS n. 6.318/DF, Rel. Ministro Jorge Mussi, Terceira Seção, julgado em 22.8.2018, DJe de 3.9.2018.)
+(EDcl no AgInt no AREsp n. 2.033.339/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 19/9/2022, D Je de 30/9/2022; sem grifos no original.)
+Ademais, esclareço que sobreveio o julgamento dos embargos de declaração manejados na sequência, rejeitados pela Primeira Seção, com o trânsito em julgado do Tema n. 986 em 13/12/2024.
+No mais, a pretensão de trazer à discussão pretenso erro na indicação do sujeito passivo se traduz em clara inovação recursal, que não foi objeto de deliberação nem do acórdão recorrido, tampouco da decisão ora agravada, razão pela qual dela não se conhece.
+Ante o exposto, CONHEÇO PARCIALMENTE do agravo interno e, nessa extensão, NEGO-LHE PROVIMENTO.
+Do mesmo modo, foi devidamente motivada a rejeição dos embargos de declaração (fls. 1.242/1243):
+Ademais, ficou clara e expressamente consignado que "a pretensão de trazer à discussão pretenso erro na indicação do sujeito passivo se traduz em clara inovação recursal, que não foi objeto de deliberação nem do acórdão recorrido, tampouco da decisão ora agravada, razão pela qual dela não se conhece".
+E, quanto à pretensa injustiça da modulação de efeitos, por óbvio, não é tema em debate nestes embargos de divergência, que se limitou a aplicar a tese vinculante.
+No mais, quanto às normas constitucionais invocadas, cumpre esclarecer que o acórdão embargado decidiu a controvérsia baseado em interpretação e aplicação de legislação infraconstitucional, sendo descabida, na via do recurso especial ou dos embargos de divergência, a análise de eventual ofensa a preceito constitucional, ainda que para fins de prequestionamento, sob pena de usurpação de competência do Supremo Tribunal Federal, estabelecida pelo constituinte originário no art. 102, inciso III, da Constituição Federal. Nesse sentido, a jurisprudência uníssona desta Corte Superior:
+ ..
+Ante o exposto, REJEITO os embargos de declaração.
+Assim, fica inviabilizado o exame pretendido nesta insurgência.
+Com efeito, demonstrado que houve prestação jurisdicional compatível com a tese fixada pelo STF no Tema n. 339 sob o regime da repercussão geral, é inviável o prosseguimento do recurso extraordinário, que deve ter o seguimento negado.
+3. O Supremo Tribunal Federal, no julgamento do RE n. 1.041.816, concluiu pela ausência de repercussão geral da discussão relativa à inclusão da Tarifa de uso do sistema de distribuição (TUSD) e tarifa de uso dos sistemas de transmissão (TUST) na base de cálculo do ICMS.
+Na ocasião, a Suprema Corte consolidou o seguinte entendimento, de observância cogente (Tema n. 956/STF):
+É infraconstitucional, a ela se aplicando os efeitos da ausência de repercussão geral, a controvérsia relativa a inclusão dos valores pagos a título de Tarifa de Uso do Sistema de Transmissão (TUST) e Tarifa de Uso do Sistema de Distribuição (TUSD) na base de cálculo do ICMS incidente sobre a circulação de energia elétrica.
+Confira-se, por oportuno, a ementa do acórdão paradigma:
+RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL. DIREITO TRIBUTÁRIO. IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS - ICMS. ENERGIA ELÉTRICA. BASE DE CÁLCULO. TARIFA DE USO DO SISTEMA DE TRANSMISSÃO - TUST. TARIFA DE USO DO SISTEMA DE DISTRIBUIÇÃO - TUSD. VALOR FINAL DA OPERAÇÃO. QUESTÃO INFRACONSTITUCIONAL. LEGISLAÇÃO FEDERAL.
+1. A correção jurídica da conduta de incluir os valores tarifários da TUST e da TUSD na base de cálculo do ICMS incidente sobre a circulação da energia elétrica é controvérsia que não possui estatura constitucional.
+2. Os juízos de origem formaram convicção com esteio na legislação infraconstitucional, notadamente o Código Tributário Nacional, Lei Complementar 87/1996, Leis federais 9.074/1995 e 10.848/2004, bem como Convênios CONFAZ 117/2004 e 95/2005, com posteriores alterações, e Resoluções da ANEEL, de modo que não se depreende da decisão recorrida ofensa direta ao Texto Constitucional.
+3. Recurso extraordinário a que se nega provimento. (RE 1041816-RG, relator Min. EDSON FACHIN, Tribunal Pleno, DJe de 17-08-2017)
+Portanto, tratando-se de recurso extraordinário que discute questão destituída de repercussão geral, conforme definido pelo Supremo Tribunal Federal, a negativa de seguimento é medida que se impõe.
+4. Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Vale registrar não ser cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC) contra decisões que negam seguimento a recurso extraordinário, conforme disposto no § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. DIREITO TRIBUTÁRIO. ICMS SOBRE ENERGIA ELÉTRICA. TARIFA DE USO DO SISTEMA DE TRANSMISSÃO (TUST) E A TARIFA DE USO DE DISTRIBUIÇÃO (TUSD). BASE DE CÁLCULO. DISCUSSÃO DE NATUREZA INFRACONSTITUCIONAL. TEMA N. 956 DO STF. AUSÊNCIA DE REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
