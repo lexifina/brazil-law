@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto por ANDRÉ BUENO MARTINS contra decisão proferida pelo TRIBUNAL REGIONAL FEDERAL DA 4a REGIÃO.
+Consta dos autos que o agravante foi condenado como incurso no art. 33 c/c art. 40, § 1º, ambos da lei nº 11.343/2006 às penas de 7 (sete) anos, 3 (três) meses e 15 (quinze) dias de reclusão, em regime inicialmente fechado, e 729 (setecentos e vinte e nove) dias-multa, cada um no valor de 1/2 (um meio) salário-mínimo vigente à época dos fatos (março de 2019), desde então atualizados (fls. 1047-1070).
+O Tribunal de origem negou provimento ao apelo defensivo, mas, de ofício, alterou o valor unitário do dia-multa (fls. 1741-1775).
+A defesa do agravante interpôs recurso especial para, com fundamento no art. 105, inciso III, alíneas "a" e "c", da CF, alegar violação ao art. 93, inc. IX, da CF e art. 59 do CP, bem como porque desrespeitado o entendimento exposto na Súmula 607 do STJ.
+Apresentadas as contrarrazões (fls. 1829-1872), o Tribunal de origem não admitiu o recurso especial acima pela incidência das Súmulas n. 7 e 83 do STJ (fls. 1883-1886).
+Nas razões do agravo, a defesa do agravante alegou que não há necessidade de reapreciação de provas e que realmente houve ofensa ao entendimento exposto na Súmula 607 do STJ (fls. 1899-1906).
+O Ministério Público Federal manifestou-se pelo não conhecimento do recurso (fls. 1943-1955).
+É o relatório. DECIDO.
+O agravo há de ser conhecido em parte, porque uma das matérias alegadas pela defesa do agravante é eminentemente jurídica, de tal modo que não incide a Súmula 7 do STJ.
+Quanto à outra matéria alegada pela defesa do agravante, o tema trazido a julgamento tem natureza mista, jurídica e fático-probatória, de tal modo que a referida Súmula foi corretamente adotada pelo Tribunal de origem. Além disso, quanto a ela, o entendimento adotado por esse Tribunal está em consonância com o entendimento desta Corte.
+O primeiro ponto diz respeito à alegação defensiva de que não teria havido a devida fundamentação para a elevação da pena-base imposta ao agravante. Considerando que esse é um tema eminentemente jurídico, nada impede que o recurso especial seja analisado no mérito.
+No entanto, no mérito, o recurso especial não merece prosperar porque o Tribunal de origem fundamentou adequadamente a elevação da pena-base, como se infere do trecho destacado abaixo:
+"Conforme se observa, na primeira fase, o juízo de primeiro grau fixou a pena-base em 7 (sete) anos de reclusão, considerando negativa a vetorial circunstâncias do crime, em virtude da natureza e quantidade da droga - 144 kg de cocaína -, nos termos do art. 42 da Lei 11.343/2006.
+Com efeito, a natureza e a quantidade da droga são circunstâncias autônomas e preponderantes, a teor do artigo 42 da Lei 11.343/2006, e assim, autorizam o aumento da pena-base em quantum superior ao dos outros vetores descritos no artigo 59 do Código Penal.
+Dessa forma, os elementos considerados devem ser realocados nas vetoriais natureza e quantidade da droga, o que se afigura possível e não caracteriza reformatio in pejus, desde que respeitado o valor global da pena (TRF4, 5030124-40.2021.4.04.7001, Oitava Turma, Rel. Des. Federal Carlos Eduardo Thompson Flores Lenz, juntado aos autos em 07/06/2023).
+Sendo assim, restando mantido o incremento de 2 (dois) anos promovido pelo sentenciante, todavia, com base nas referidas vetoriais, fica a pena-base estabelecida em 7 (sete) anos de reclusão."
+No que diz respeito ao segundo argumento, entretanto, o agravo não pode ser conhecido porque a defesa do agravante não impugnou especificamente o fundamento apresentado pelo Tribunal de origem.
+É que a transnacionalidade foi admitida pelo Tribunal de origem porque as provas relevaram haver:
+"(..) evidências robustas da transnacionalidade do delito (art. 40, I, da Lei nº 11.343/2006). O reconhecimento da transnacionalidade do crime de tráfico de drogas não exige a efetiva transposição de fronteiras, podendo ocorrer a partir da análise da natureza, da procedência da substância ou do produto apreendido e das circunstâncias do fato. Nesse sentido:  ..
+A Súmula nº 607 do STJ, na mesma linha, prevê que: Súmula 607 - A majorante do tráfico transnacional de drogas (art. 40, I, da Lei n. 11.343/2006) configura-se com a prova da destinação internacional das drogas, ainda que não consumada a transposição de fronteiras. (Súmula 607, TERCEIRA SEÇÃO, julgado em 11/04/2018, DJe 17/04/2018)
+Conforme os elementos angariados no IPL nº 1209/2017-SR/DPF/PR (nº 5002795-71.2017.4.04.7008), há consideráveis indícios de que a apreensão apurada nos autos esteja associada à atividade de organização criminosa estruturada, integrada por diversos grupos, voltada ao tráfico de grandes carregamentos de cocaína para a Europa a partir de portos brasileiros e à lavagem de recursos ilícitos provenientes dessas atividades.
+A expressiva quantidade de droga apreendida (cerca de 144,5 kgs), a natureza desta (cocaína), forma de acondicionamento da substância ilícita (em tabletes) e o contexto da apreensão (no interior do Porto de Paranaguá), conjuntamente considerados, demonstram a transnacionalidade do delito."
+Está claro que alterar o entendimento acima dependeria de revolvimento do conjunto fático-probatório e que ele está em absoluta harmonia com o entendimento desta Corte, expresso na referida Súmula.
+Diante do exposto, conheço parcialmente do agravo e, nessa extensão, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
