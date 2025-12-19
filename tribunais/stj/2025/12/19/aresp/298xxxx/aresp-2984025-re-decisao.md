@@ -1,0 +1,43 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça que recebeu a seguinte ementa (fls. 1.371-1.372):
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PECULATO-DESVIO. PRESCRIÇÃO. NÃO CONFIGURADA. ABSOLVIÇÃO. IMPOSSIBILIDADE. DOSIMETRIA DA PENA. ILEGALIDADE NÃO EVIDENCIADA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Em relação à prescrição, a defesa deixou de combater, nas razões do recurso especial, a manutenção da condenação apenas pelas condutas praticadas na vigência da Lei n. 12.234/2010, circunstância que atrai a incidência do disposto na Súmula n. 283 do STF.
+2. A condenação pelo crime de peculato-desvio foi fundamentada em auditoria realizada pelo Departamento Nacional de Auditoria do SUS (Denasus), que comprovou o desvio de recursos públicos, além de outras provas colhidas nos autos. Assim, para entender-se pela absolvição do réu, seria necessário o revolvimento de todo o conjunto fático-probatório produzido nos autos, providência incabível em recurso especial, conforme a Súmula n. 7 do STJ.
+3. A pena-base foi fixada acima do mínimo legal, considerada a especial gravidade da conduta, que envolveu o desvio de recursos destinados à saúde, de modo a afetar diretamente o atendimento de pacientes. A valoração negativa da culpabilidade foi devidamente fundamentada, de modo que não se verifica violação do art. 59 do Código Penal.
+4. Agravo regimental não provido.
+A parte recorrente sustenta a ocorrência de violação do art. 5º, XL, XLVI, LV, da Constituição Federal e afirma que a matéria em discussão seria dotada de repercussão geral.
+Alega que a aplicação fragamentada da lei penal no tempo em crimes continuados, com a retroação da mais gravosa para parte dos atos, viola o princípio da irretroatividade da lei penal.
+Argumenta que a dosimetria da pena valorou negativamente circunstâncias inerentes ao tipo penal, ferindo os princípios da individualização da pena e da proporcionalidade.
+Diz que o entendimento de que as provas foram sopesadas em Juízo não se sustenta diante da preponderância dos elementos colhidos na fase inquisitorial e da fragilidade da corroboração judicial, não incidindo o óbice da Súmula n. 7/STJ invocado pelo acórdão recorrido.
+Requer, assim, a admissão e o provimento do recurso.
+Não foram apresentadas contrarrazões (fl. 1.401).
+É o relatório.
+2. O STF, ao julgar o AI n. 742.460-RG/RJ, firmou o entendimento de que:
+Não apresenta repercussão geral o recurso extraordinário que verse sobre a questão da valoração das circunstâncias judiciais previstas no art. 59 do Código Penal, na fundamentação da fixação da pena-base pelo juízo sentenciante, porque se trata de matéria infraconstitucional (Tema n. 182/STF).
+Confira-se, por oportuno, a ementa do julgado:
+RECURSO. Extraordinário. Inadmissibilidade. Circunstâncias judiciais previstas no art. 59 do Código Penal. Fixação da pena-base. Fundamentação. Questão da ofensa aos princípios constitucionais da individualização da pena e da fundamentação das decisões judiciais. Inocorrência. Matéria infraconstitucional.
+Ausência de repercussão geral. Agravo de instrumento não conhecido. Não apresenta repercussão geral o recurso extraordinário que verse sobre a questão da valoração das circunstâncias judiciais previstas no art. 59, do Código Penal, na fundamentação da fixação da pena-base pelo juízo sentenciante, porque se trata de matéria infraconstitucional.
+(AI n. 742.460-RG, relator Ministro Cezar Peluso, julgado em 27/8/2009, DJe de 25/9/2009.)
+No caso, ao examinar a controvérsia, este Superior Tribunal assim se manifestou (fls. 1.380-1.382):
+III. Pena-base
+A fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, nos arts. 5º, XLVI, da Constituição Federal, 59 do Código Penal e 387 do Código de Processo Penal.
+Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o de pena quantum a ser aplicada ao condenado criminalmente, visando à prevenção e à repressão do delito perpetrado. Relembro, mais uma vez, que a dosimetria da pena configura matéria restrita ao âmbito de certa discricionariedade do magistrado e é regulada pelos critérios da razoabilidade e da proporcionalidade, de maneira que, havendo as instâncias ordinárias fundamentado o aumento da reprimenda-base à luz das peculiaridades do caso concreto, não vejo como acolher o pleito defensivo, em homenagem ao princípio do livre convencimento motivado.
+ ..
+No caso, o Tribunal de origem, em apelação criminal, manteve o aumento da pena-base pelos seguintes fundamentos (fl. 1.154, grifei):
+ ..
+Quanto à culpabilidade, não se verifica o alegado bis in idem, porquanto a intensidade do dolo não se constatou apenas do desvio de verba pública, mas sim pelo fato de que os recursos públicos eram destinados à saúde, o que denota maior reprovabilidade da conduta, apta a exasperar a reprimenda-base.
+Ressalte-se que "inexiste violação ao art. 59 do Código Penal - CP quando a fixação da pena-base acima do mínimo legal e dentro dos limites estabelecidos o tipo penal foi devidamente embasada na valoração negativa de uma das circunstâncias judiciais, ou seja, em elemento que extrapola o tipo penal, evidenciando a especial reprovabilidade da conduta"  .. .
+Uma vez que foram apontados argumentos concretos e específicos dos autos para a fixação da pena-base acima do mínimo legal, não há como esta Corte se imiscuir no juízo de proporcionalidade feito pelas instâncias de origem e reduzir a reprimenda-base estabelecida para o acusado sob o pretexto de ofensa aos princípios da razoabilidade e da individualização da pena, ou mesmo de violação do art. 59 do Código Penal.
+Verifica-se, portanto, que a dosimetria da pena foi decidida com base nas circunstâncias judiciais do art. 59 do CP, o que enseja a aplicação do Tema n. 182 do STF.
+3. Quanto ao mais, nos termos do art. 102, § 3º, da Constituição Federal, o recurso extraordinário deve ser dotado de repercussão geral, requisito indispensável à sua admissão.
+Por sua vez, o Supremo Tribunal Federal já definiu que a discussão relativa ao preenchimento dos pressupostos de admissibilidade de recurso anterior, de competência de outro tribunal, não possui repercussão geral.
+Quando o STJ não analisar o mérito do recurso de sua competência, tal como verificado nestes autos, qualquer alegação do recurso extraordinário demandaria a rediscussão dos requisitos de admissibilidade do referido recurso, exigindo a apreciação dos dispositivos legais que versam sobre tais pressupostos.
+No Tema n. 181 do STF, a Suprema Corte afirmou que "a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional" (RE n. 598.365-RG, relator Ministro Ayres Britto, Tribunal Pleno, julgado em 14/8/2009, DJe de 26/3/2010).
+O entendimento em questão incide tanto em situações nas quais as razões do extraordinário se referem ao não conhecimento do recurso anterior quanto naquelas em que as alegações se relacionam à matéria de fundo da causa.
+Essa conclusão foi adotada sob o regime da repercussão geral e é de aplicação obrigatória, devendo os tribunais, ao analisar a viabilidade prévia dos recursos extraordinários, negar seguimento àqueles que discutam questão à qual o STF não tenha reconhecido a existência de repercussão geral, nos termos do art. 1.030, I, a, do CPC.
+Como exemplos da aplicação do Tema n. 181 do STF em casos semelhantes, confiram-se: ARE n. 1.256.720-AgR, relator Ministro Dias Toffoli (Presidente), Tribunal Pleno, julgado em 4/5/2020, DJe de 26/5/2020; ARE n. 1.317.340-AgR, relatora Ministra Cármen Lúcia, Segunda Turma, julgado em 12/5/2021, DJe de 14/5/2021; ARE n. 822.158-AgR, relator Ministro Edson Fachin, Primeira Turma, julgado em 20/10/2015, DJe de 24/11/2015.
+Da mesma forma, o recurso extraordinário deve ter o seguimento negado por aplicação do Tema n. 181 do STF também nas hipóteses em que for alegada ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+4. Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. DIREITO PENAL. DOSIMETRIA DA PENA. APRECIAÇÃO DAS CIRCUNSTÂNCIAS JUDICIAIS DO ART. 59 DO CÓDIGO PENAL. TEMA N. 182 DO STF. AUSÊNCIA DE REPERCUSSÃO GERAL. NÃO CONHECIMENTO DE RECURSO ANTERIOR, DE COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. REQUISITOS DE ADMISSIBILIDADE. DEBATE OU SUPERAÇÃO. IMPOSSIBILIDADE. TEMA N. 181 DO STF. NEGATIVA DE SEGUIMENTO.
