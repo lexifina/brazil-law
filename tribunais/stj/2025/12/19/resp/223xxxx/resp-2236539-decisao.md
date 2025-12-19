@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Ministério Público do Estado do Paraná contra acórdão assim ementado (fl. 52):
+AGRAVO EM EXECUÇÃO. DECISÃO QUE INDEFERIU O PEDIDO DE PROGRESSÃO DE REGIME POR NÃO PREENCHIMENTO DO REQUISITO SUBJETIVO. LAUDO INSURGÊNCIA DA DEFESA. ACOLHIMENTO PSICOLÓGICO QUE, EMBORA TENHA PONTUADO QUE O AGRAVANTE "ESQUIVA-SE DA RESPONSABILIDADE E ATENUA A GRAVIDADE DE SUA CONDUTA", RESSALTOU A EXCELENTE ADEQUAÇÃO DO APENADO À DISCIPLINA PRISIONAL, BOM CONVÍVIO COM SEUS PARES E FUNCIONÁRIOS E DEDICAÇÃO À ATIVIDADE LABORAL. LAUDO QUE, ALÉM DISSO, RECOMENDOU A PROGRESSÃO DE REGIME. SENTENCIADO QUE NÃO REGISTRA VIOLAÇÕES E NÃO PRATICOU FALTAS GRAVES NOS ÚLTIMOS DOZE MESES. COMPORTAMENTO SATISFATÓRIO NO ESTABELECIMENTO PRISIONAL. PREENCHIMENTO DOS REQUISITOS OBJETIVOS. DECISÃO REFORMADA. RECURSO CONHECIDO E PROVIDO.
+Consta dos autos que o Juízo da Vara de Execução indeferiu o pedido de progressão ao regime semiaberto feito pelo recorrido, após a realização de exame psicológico, por entender ausente o requisito subjetivo previsto no art. 112 da LEP.
+O Tribunal de origem, ao julgar o agravo em execução interposto pela defesa, reformou essa decisão, entendendo que os aspectos positivos do laudo, aliados à ausência de faltas disciplinares e ao bom comportamento carcerário, seriam suficientes para autorizar a progressão, ainda que persistentes elementos desfavoráveis no exame psicológico.
+No presente recurso especial, o Ministério Público sustenta violação ao art. 112 da Lei n. 7.210/1984, afirmando que o Tribunal de origem deixou de observar a correta aferição do requisito subjetivo ao desconsiderar elementos negativos expressamente reconhecidos no laudo psicológico, os quais evidenciam que o sentenciado ainda não atingiu o grau de responsabilização e maturidade exigido para o regime mais brando. Aduz que a progressão não pode ser utilizada como instrumento para promover evolução psicológica do apenado, mas sim concedida apenas quando tal evolução já esteja demonstrada, conforme jurisprudência consolidada desta Corte.
+Requer, ao final, o provimento do recurso especial para cassar o acórdão recorrido e restabelecer a decisão de primeiro grau que indeferiu a progressão de regime.
+As contrarrazões foram apresentadas (fls. 99-105).
+O recurso foi admitido pela Corte de origem (fls. 106-108).
+O Ministério Público Federal manifestou-se pelo conhecimento e provimento do recurso especial.
+É o relatório.
+DECIDO.
+O recurso especial foi interposto tempestivamente, encontra amparo no art. 105, III, a, da Constituição da República, e a parte recorrente apontou ofensa ao art. 112 da Lei n. 7.210/84, porquanto o Tribunal de origem entendeu preenchido o requisito subjetivo e concedeu a progressão ao regime semiaberto, apesar dos elementos desfavoráveis expressamente consignados no exame psicológico. A matéria foi devidamente apreciada pelo Tribunal de origem, e sua resolução, a princípio, não exige reexame de fatos ou provas, mas apenas a correta aplicação da norma federal, além de apresentar relevância das questões de direito federal infraconstitucional discutidas no caso (art. 105, §3º, I, CF). Estão presentes, portanto, os requisitos extrínsecos e intrínsecos de admissibilidade. Portanto, conheço do recurso especial.
+A questão submetida ao exame desta Corte consiste em definir se, à luz do art. 112 da Lei de Execução Penal, é juridicamente possível reconhecer o preenchimento do requisito subjetivo para a progressão ao regime semiaberto quando o exame psicológico aponta elementos desfavoráveis à transição, notadamente a minimização da gravidade dos delitos, a esquiva de responsabilidade e a necessidade de acompanhamento especializado.
+Acerca da controvérsia, o acórdão recorrido encontra-se assim fundamentado (fls. 53-54):
+ ..
+Extrai-se dos autos que o agravante cumpre pena total de 33 (trinta e três) anos e 05 (cinco) dias de reclusão, por dois crimes de roubo qualificado pelo resultado morte (art. 157, §3º, II, do Código Penal) e um crime ambiental (art. 45 da Lei dos Crimes Ambientais).
+O magistrado indeferiu o pedido de progressão ao regime semiaberto, nos seguintes termos (mov. 205.1/SEEU):
+"De acordo com a informação constante no sistema (Relatório da Situação Processual Executória - disponível na aba informações adicionais), o requisito objetivo foi alcançado na data de 12/06 /2024.
+Os dados foram lançados em respeito às frações estabelecidas pelo artigo 112, LEP.
+O requisito subjetivo, entretanto, não está preenchido, pois, embora não possua falta de natureza disciplinar, o parecer psicológico não foi favorável.
+No laudo concluiu-se que o sentenciado "(..) apresenta crítica enviesada, esquivando-se da responsabilidade e atenuando a gravidade da sua conduta. Em geral, tem consciência quanto aos determinantes do seu comportamento, relacionando suas decisões ao contexto do seu estilo de vida. (mov. 194.1).
+Ora, não se pode perder de vista que o sentenciado praticou crime de latrocínio, delito hediondo, em duas ocasiões, revelando o alto grau de reprovabilidade da conduta, sendo fundamental a integral compreensão de sua responsabilidade para evitar a recidiva. Portanto, ausente requisito subjetivo para progressão de regime deve ser o benefício indeferido (..)".
+Em que pese o entendimento do magistrado, a decisão comporta reforma.
+Ainda que tenha sido pontuado no parecer que o sentenciado "apresenta crítica enviesada, esquivando-se da responsabilidade e atenuando a gravidade da sua conduta", no mesmo parecer também consta que "É relevante considerar a excelente adequação do referido ao contexto disciplina prisional, o qual se expressa pelo bom convívio com seus pares e funcionários, dedicando-se exemplarmente à atividade laboral (..) Luiz apresenta capacidade de agir com senso de autodeterminação e disciplina" (mov. 194/SEEU).
+Além disso, o parecer recomenda acompanhamento psicológico ao sentenciado, a fim de que ele elabore adequada crítica, lide com sua responsabilidade e desenvolva melhores habilidades de solução de problemas, e m regime menos gravoso.
+Pontue-se, ademais, que o sentenciado não registra violações disciplinares ou faltas graves nos últimos doze meses.
+Dessa forma, considerando que os requisitos objetivos foram preenchidos, bem como os elementos dos autos denotam um comportamento satisfatório do sentenciado no estabelecimento prisional, faz-se necessária a reforma da decisão, a fim de conceder a progressão ao regime semiaberto para o agravante.
+4. Ante o exposto, o voto é para conhecer e dar provimento ao recurso interposto, para o fim de conceder a progressão ao regime semiaberto para o agravante Luis Freitas de Andrade.
+ ..
+Como se vê, o Tribunal de origem, ao reformar a decisão de primeiro grau, empreendeu análise ampla e integrada dos elementos constantes do parecer psicológico. Observou, inicialmente, que o laudo registrou aspectos negativos relacionados à postura crítica do sentenciado, que ainda tende a minimizar a gravidade de suas condutas. Contudo, ponderou que, no mesmo documento técnico, há expressa indicação de excelente adequação do apenado ao contexto prisional, revelada pelo bom convívio com os demais internos e servidores, dedicação exemplar à atividade laboral, além da demonstrada capacidade de agir com autodeterminação e disciplina. Trata-se, portanto, de juízo valorativo construído sobre a totalidade do parecer, não sobre excertos isolados.
+O acórdão também destacou que o próprio laudo psicológico recomenda o acompanhamento do sentenciado em regime menos gravoso, a fim de que ele possa desenvolver maior criticidade e melhor lidar com sua responsabilidade. Tal recomendação, longe de constituir óbice, foi compreendida pelo Tribunal de origem como indicativo de que a progressão poderia contribuir positivamente para o processo de reinserção social do apenado, sem prejuízo da continuidade do suporte técnico. Ademais, registrou-se que o sentenciado não possui faltas graves ou violações disciplinares há mais de doze meses, reforçando o entendimento de que seu comportamento prisional é satisfatório e compatível com o regime semiaberto.
+Desse modo, a conclusão do Tribunal de origem decorre, pois, de avaliação conjunta e harmônica das provas constantes dos autos, não se tratando de interpretação arbitrária ou dissociada dos elementos disponíveis. Para infirmar tal juízo e acolher a tese recursal de que o requisito subjetivo não estaria preenchido, seria necessário revisar a valoração do laudo psicológico. Tal medida, contudo, representa típico reexame de fatos e provas, providência vedada em sede de recurso especial, nos termos da Súmula 7 desta Corte.
+Nesse sentido:
+DIREITO PENAL. AGRAVO REGIMENTAL. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. REQUISITOS OBJETIVOS E SUBJETIVOS. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto pelo Ministério Público contra decisão que não conheceu de recurso especial, com fundamento nos arts. 932, III, do CPC, e 34, XVIII, "a", do Regimento Interno do Superior Tribunal de Justiça (RISTJ).
+2. O recurso especial não conhecido alegava violação ao art. 112 da Lei de Execução Penal (LEP), sustentando o não preenchimento do requisito subjetivo para a progressão de regime prisional.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se a decisão que concedeu a progressão de regime prisional ao apenado, com base no cumprimento dos requisitos objetivos e subjetivos, pode ser reformada sem incorrer no revolvimento fático-probatório, vedado pela Súmula n. 7 do STJ.
+III. RAZÕES DE DECIDIR
+4. O juízo de origem e o Tribunal de Justiça reconheceram o cumprimento dos requisitos objetivos e subjetivos para a progressão de regime, considerando o bom comportamento carcerário do apenado, atestado pela certidão carcerária, e a interpretação do exame criminológico.
+5. O exame criminológico não apresentou diagnóstico conclusivo que recomendasse cautela judicial, não configurando óbice à progressão de regime.
+6. A análise do requisito subjetivo para progressão de regime é insuscetível de revisão em sede de recurso especial, devido à necessidade de exame aprofundado do conjunto fático-probatório, conforme a Súmula n. 7 do STJ.
+IV. DISPOSITIVO E TESE
+7. Resultado do Julgamento: Agravo regimental desprovido.
+Tese de julgamento:
+1. O cumprimento dos requisitos objetivos e subjetivos, devidamente fundamentado pelo juízo de origem, é suficiente para a concessão da progressão de regime prisional.
+2. A análise do requisito subjetivo para progressão de regime não pode ser revista em recurso especial, em razão da vedação ao revolvimento fático-probatório (Súmula n. 7 do STJ).
+Dispositivos relevantes citados: LEP, art. 112; CPC, art. 932, III;
+CPP, art. 182.
+Jurisprudência relevante citada: STJ, AgRg no HC n. 1.011.697/CE, de minha relatoria, julgado em 5/8/2025, DJEN de 14/8/2025; STJ, AREsp 2.473.865/MS, Rel. Min. Daniela Teixeira, Quinta Turma, julgado em 4/2/2025.
+(AgRg no AREsp n. 2.881.943/CE, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 25/11/2025, DJEN de 1/12/2025.)
+Ressalte-se, por oportuno, que o parecer ministerial opinou pelo provimento do recurso especial. Contudo, embora respeitável, tal manifestação não vincula o entendimento desta Corte, sobretudo quando a instância ordinária, de forma motivada e com base no conjunto fático-probatório, concluiu pelo preenchimento do requisito subjetivo. Assim, prevalece a orientação de que modificar tal conclusão demandaria inevitavelmente o reexame de fatos e provas, providência obstada pela Súmula 7/STJ.
+Ante o exposto, com fulcro no art. 255, § 4º, I, do Regimento Interno do STJ, não conheço do recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
