@@ -1,0 +1,17 @@
+DECISÃO
+Examina-se conflito positivo de competência, com pedido liminar, suscitado por EXPRESSO T. S. TRANSPORTES LTDA. - EM RECUPERAÇÃO JUDICIAL e EXPRESSO T. S. TRANSPORTES E EMPREENDIMENTOS LTDA. - EM RECUPERAÇÃO JUDICIAL em face do JUÍZO DE DIREITO DA 1ª VARA CÍVEL E JUIZADO ESPECIAL DE IGARAPÉ - MG e do JUÍZO DA 4ª VARA DO TRABALHO DE BETIM - MG.
+Ação em trâmite no Juízo Cível: recuperação judicial das suscitantes. (Processo nº 5002063-74.2022.8.13.0301)
+Ação em trâmite no Juízo Trabalhista: execução trabalhista ajuizada por PAULO RODRIGUES AMARAL. (Processo nº 0010041-76.2025.5.03.0087)
+Conflito de competência: alegam que, nos termos da jurisprudência do STJ, compete exclusivamente ao juízo da recuperação judicial dirimir questões que afetem o patrimônio da sociedade empresária devedora, sobretudo aquelas relacionadas a bens declarados essenciais às atividades empresariais. Pleiteiam, liminarmente, o levantamento das ordens de penhora incidentes sobre os veículos PYL8B74 PYL8 MG SR/RANDON SR BA e PYZ4519 MG SR/RANDON SR BA, por terem sido declarados essenciais pelo juízo do soerguimento.
+Tutela antecipada: indeferida, às e-STJ fls. 61-62.
+Parecer do MPF: opinou pelo não conhecimento do conflito.
+RELATADO O PROCESSO, DECIDE-SE.
+A Segunda Seção do STJ firmou a compreensão de que é possível a retomada das execuções individuais, inclusive as de crédito concursal, propostas em face de empresa em recuperação judicial, após o exaurimento do período de blindagem quando não haja deliberação quanto à aprovação do plano ou apresentação de plano alternativo pelos credores, sem que essa situação caracterize conflito de competência. (CC 199.496/CE, DJe 17/9/2024)
+Na hipótese, observa-se que o processamento da recuperação judicial das suscitantes foi deferido em 26/4/2022, de modo que o período de blindagem já se encontra exaurido. Consta, ainda, das informações prestadas pelo juízo recuperacional, que a assembleia geral de credores foi realizada dia 11/6/2024, porém, "em razão das manifestações de oposição ao plano de recuperação judicial apresentado, a recuperanda foi intimada para se manifestar, tendo reiterado o pedido de reconhecimento da legalidade do plano e sua homologação" (e-STJ fl. 70), não havendo notícia de sua posterior aprovação e homologação.
+Desse modo, mesmo após mais de três anos de tramitação do procedimento recuperacional, não se verifica a aprovação do plano de recuperação judicial, circunstância que, nos termos da jurisprudência desta Corte, autoriza o regular prosseguimento da execução individual perante o Juízo trabalhista e afasta a caracterização do alegado conflito de competência.
+Forte nessas razões, NÃO CONHEÇO do conflito de competência.
+Publique-se. Intimem-se. Comunique-se.
+EMENTA
+CONFLITO POSITIVO DE COMPETÊNCIA. EXECUÇÃO TRABALHISTA E RECUPERAÇÃO JUDICIAL. AUSÊNCIA DE DELIBERAÇÃO QUANTO À APROVAÇÃO DO PLANO DE SOERGUIMENTO. PROSSEGUIMENTO DA EXECUÇÃO TRABALHISTA. POSSIBILIDADE. CONFLITO DE COMPETÊNCIA. NÃO CONHECIMENTO.
+1. Nos termos da jurisprudência desta Corte, é possível a retomada das execuções individuais, inclusive as de crédito concursal, propostas em face de empresa em recuperação judicial, após o exaurimento do período de blindagem quando não haja deliberação quanto à aprovação do plano ou apresentação de plano alternativo pelos credores, sem que essa situação caracterize conflito de competência. Precedente.
+2. Conflito de competência não conhecido.
