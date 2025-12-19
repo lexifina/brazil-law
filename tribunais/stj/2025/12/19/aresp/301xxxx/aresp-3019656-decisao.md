@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto por ANDERSON BUFALLO GALBIATTE contra decisão que inadmitiu recurso especial contra acórdão do Tribunal de Justiça de Justiça do Estado de São Paulo, que deu provimento ao apelo do Ministério Público para afastar a minorante do tráfico privilegiado, prevista no art. 33, § 4º, da Lei nº 11.343/06, redimensionando a pena para 6 anos, 9 meses e 20 dias de reclusão, em regime inicial fechado, e 680 dias-multa.
+Nas razões do recurso especial, fundamentado no art. 105, III, "a", da Constituição Federal, alega a defesa violação dos arts. 593, I, e 798, § 5º, "b", do Código de Processo Penal e 33, § 4º, da Lei 11.343/2006.
+Sustenta, preliminarmente, a intempestividade do recurso de apelação interposto pelo Minstério Público, devendo ser certificado o trânsito em julgado para as partes. No mérito, busca o restabelecimento do tráfico privilegiado, ao argumento de que o réu seria tecnicamente primário, tendo preenchido os requisitos legais.
+Apresentadas contrarrazões e contraminuta, o Ministério Público Federal manifestou-se, nesta instância, pelo não provimento do recurso.
+É o relatório. Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+O recurso não merece prosperar.
+No que diz respeito à alegação de intempestividade do recurso de apelação do Ministério Público, observa-se que não houve o prequestionamento da matéria.
+Com efeito, pela leitura do acórdão recorrido, verifica-se que a matéria não foi objeto de apreciação pelo Tribunal de origem, o que inviabiliza o conhecimento do recurso especial por ausência de prequestionamento, atraindo a Súmula 282 e 356 do STF, a obstar o conhecimento do recurso especial, tampouco opostos embargos de declaração.
+Com efeito, "Incidem, portanto, os óbices das Súmulas n. 211 do STJ e 282 do STF, que também é observada por esta Corte, se o mérito das teses veiculadas nas razões do especial não foi analisado pelo Tribunal a quo. Não é cabível a adoção do prequestionamento ficto se a parte não suscitou a violação do art. 619 do Código de Processo Penal e não apontou eventual omissão do Juízo de segunda instância a ser sanada" (AgRg no REsp n. 1.772.993/CE, relator Ministro Rogerio Schietti, Sexta Turma, DJe de 4/6/2020). Nesse sentido: EDcl no REsp n. 2.040.075/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 20/2/2024, DJe de 23/2/2024.
+Por outro lado, para aplicação da causa de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006, o condenado deve preencher, cumulativamente, todos os requisitos legais, quais sejam, ser primário, de bons antecedentes, não se dedicar a atividades criminosas e nem integrar organização criminosa, podendo a reprimenda ser reduzida de 1/6 (um sexto) a 2/3 (dois terços), a depender das circunstâncias do caso concreto.
+No caso, o Tribunal de origem afastou a incidência da minorante do tráfico privilegiado, prevista no artigo 33, § 4º, da Lei nº 11.343/06, com a seguinte fundamentação (e-STJ fl. 247):
+ ..
+No caso concreto, a própria sentença reconheceu a reincidência do apelado, fundada em condenação transitada em julgado anterior aos fatos ora apurados. Tal circunstância, por si só, afasta a aplicação da minorante.
+A reincidência, como se sabe, demonstra a reprovação do agente em relação ao seu comportamento social e sua menor capacidade de adequação às normas legais, evidenciando que já foi anteriormente sancionado e não se absteve de novas práticas delituosas. Trata-se de circunstância objetiva que impede o reconhecimento da benesse, independentemente da natureza do crime anterior, conforme sólida orientação do Superior Tribunal de Justiça:
+ ..
+O entendimento adotado corrobora a orientação jurisprudencial desta Corte de que a reincidência, ainda que por delito de natureza diversa, constitui óbice legal à concessão da minorante do tráfico privilegiado (art. 33, § 4º - da Lei 11.343/2006), inexistindo bis in idem ante a utilização concomitante na segunda e terceira fases da dosimetria (AgRg no HC n. 709.004/MG, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 8/3/2022, DJe de 11/3/2022).
+Dessa forma, não implementado o requisito da primariedade, não há censura ao acórdão recorrido.
+Incide, no ponto, a Súmula 568 do STJ, segundo a qual O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial, negando-lhe provimento.
+Intimem-se.
+EMENTA
