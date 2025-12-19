@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ROSIANE KIMIKO YAMASAKI ODAGIMA contra decisão assim ementada (fl. 1052).
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO NÃO CONHECIDO.
+A parte embargante sustenta que a decisão embargada incorreu, simultaneamente, em obscuridade, omissão e erro material, porque teria afirmado, em desacordo com o conteúdo do agravo em recurso especial, que não houve impugnação específica aos fundamentos da decisão de inadmissibilidade. Alega que: (a) o agravo impugnou, de forma direta e analítica, a aplicação da Súmula 7/STJ; (b) também enfrentou o fundamento de prejudicialidade do dissídio jurisprudencial, por depender logicamente da incidência da súmula; e (c) rebateu a inexistência de violação aos artigos 489 e 1.022 do Código de Processo Civil de 2015 (CPC/2015), apontando omissão no acórdão do Tribunal Regional Federal da 3ª Região.
+Com impugnação (fls. 1077-1081).
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ (fl. 1052).
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+A decisão embargada resolveu a controvérsia ao assentar que a ora embargante não impugnou, especificamente, os fundamentos da decisão de admissibilidade, utilizados pela Corte de origem, para não admitir o recurso especial, quais sejam, (a) incidência da Súmula 7/STJ e (b) dissídio jurisprudencial prejudicado em razão da incidência da referida súmula.
+Colaciona-se abaixo o trecho da decisão ora embargada (fl. 1053):
+ ..
+Com efeito, encontra-se consolidado nesta Corte o entendimento de que incumbe ao agravante infirmar, especificamente, todos os fundamentos da decisão que não admitiu o processamento do recurso especial. A propósito: EAREsp 701.404/SC, Rel. Ministro João Otávio de Noronha, Rel. p/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018.
+No caso dos autos, a decisão de não admissão do recurso especial (fls. 893-905) contém os seguintes fundamentos: (a) incidência da Súmula 7/STJ e (b) dissídio jurisprudencial prejudicado em razão da incidência da referida súmula.
+Ocorre que a agravante não impugnou, especificamente, nenhum dos fundamentos acima mencionados, o que acarreta o não conhecimento do agravo.
+ ..
+Como se vê, a decisão embargada foi clara ao apontar que não conheceu do agravo em recurso especial em razão da ausência de impugnação específica à decisão de inadmissibilidade.
+Quanto ao mais, ressalte-se que a jurisprudência do STJ é firme no sentido de que "Ocorre erro material quando há mero equívoco relacionado à grafia ou a cálculos consignados nos autos, o que não se confunde com discordância acerca dos critérios de cálculo a serem utilizados na fixação do quantum debeatur, tais como incidência de expurgos inflacionários, de índices de correção monetária e de juros." (REsp 702.073/PB, Rel. Min. João Otávio de Noronha, 2ª Turma, DJ de 3/82006). Ou seja, o erro material é aquele equívoco singelo, verificável de plano, que diz respeito a aspecto fático mencionado na decisão em desacordo com a realidade dos autos, não se confundindo com a mera discordância da parte com os fundamentos da decisão recorrida.
+Outrossim, é de se notar que, quanto ao vício da obscuridade, tem-se que este se verifica "(..) quando há evidente dificuldade na compreensão do julgado, faltando clareza à decisão, daí resultando a ininteligibilidade da questão decidida pelo órgão judicial." (EDcl no AgRg no AREsp 270504/MG, Rel. Min. Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 8/8/2013), hipótese, a bem de ver, inocorrente no caso.
+Analisando as razões apresentadas pela embargante, nota-se inexistir qualquer vício a ser sanado no julgado embargado, considerando que a decisão pronunciou-se de modo coeso e preciso. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS. EMBARGOS DE DECLARAÇÃO REJEITADOS.
