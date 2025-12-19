@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo interno interposto pela ré (instituição financeira) contra decisão proferida pela Presidência do Superior Tribunal de Justiça (STJ), a qual deixou de conhecer de agravo manifestado em face de juízo negativo de admissibilidade de recurso especial.
+O recurso especial foi apresentado em face de acórdão assim ementado (fl. 257):
+AGRAVO INTERNO. AÇÃO REVISIONAL. ALIENAÇÃO FIDUCIÁRIA. MANUTENÇÃO DA DECISÃO QUE DEU PARCIAL PROVIMENTO AO APELO DO RÉU. REEDIÇÃO DE ARGUMENTAÇÃO JURÍDICA. AGRAVO INTERNO DESPROVIDO.
+Rejeitaram-se os embargos de declaração opostos a esse acórdão.
+No recurso especial, são discutidos os critérios utilizados para aferição de abusividade na pactuação de taxa de juros remuneratórios em contrato bancário, pretendendo-se a reforma da conclusão do acórdão recorrido quanto à caracterização de tal abusividade no caso concreto.
+Anoto que o STJ afetou, para julgamento segundo o rito dos casos repetitivos, os recursos especiais 2.227.276-AL, 2.227.844-RS, 2.227.280-PR e 2.227.287-MG, com a finalidade de uniformizar o entendimento a respeito da seguinte controvérsia: "I) suficiência ou não da adoção das taxas médias de mercado divulgadas pelo Banco Central do Brasil ou de outros critérios previamente definidos como fundamento exclusivo para a aferição da abusividade dos juros remuneratórios em contratos bancários; II) (in)admissibilidade dos recursos especiais interpostos para a rediscussão das conclusões dos acórdãos recorridos quanto à abusividade ou não das taxas de juros remuneratórios pactuadas, quando baseadas em aspectos fáticos da contratação" (controvérsia/questão cadastrada como Tema 1.378-STJ).
+A par da afetação, foi determinada a suspensão dos recursos especiais e dos agravos em recurso especial, os quais estejam tramitando no STJ ou nas instâncias ordinárias e discutam idêntica questão jurídica, nos termos do artigo 1.037, inciso II, do Código de Processo Civil (CPC).
+Portanto, em observância ao artigo 256-L do Regimento Interno da Casa, os recursos que tratam da controvérsia referida devem aguardar, no Tribunal de origem, o julgamento da matéria, viabilizando-se, dessa forma, o juízo de conformação/retratação disciplinado pelos artigos 1.040 e 1.041 do CPC.
+Assim, impõe-se o retorno dos autos à Corte de origem, onde ficarão sobrestados até a publicação da tese repetitiva.
+Em face do exposto, reconsidero a decisão de fls. 427-428, tornando-a sem efeitos, julgo prejudicado o agravo interno de fls. 432-438 e determino a devolução dos autos ao Tribunal de origem, com baixa no STJ, para aguardo do julgamento dos recursos especiais afetados, observando-se as regras dos artigos 1.039 a 1.041 do CPC.
+Intimem-se.
+EMENTA
