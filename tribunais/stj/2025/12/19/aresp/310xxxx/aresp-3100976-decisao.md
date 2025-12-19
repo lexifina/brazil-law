@@ -1,0 +1,60 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por CREUZA CARDOSO DE SOUZA AMARAL contra decisão que inadmitiu recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 15/7/2025.
+Concluso ao gabinete em: 9/12/2025.
+Ação: de reintegração de posse c/c perdas e danos ajuizada por MARIA NEUSA MOSCARDI FERNANDES em desfavor de JANAÍNA DE OLIVEIRA, ANDERSON LOPES, GUSTAVO VINÍCIUS DE OLIVEIRA e ÉVERTON, na qual requer a reintegração da posse do imóvel e o pagamento de aluguéis pelo período de ocupação. O polo passivo foi posteriormente retificado para fins de constar apenas a agravante, CREUSA CARDOSO DE SOUZA AMARA, então ocupante do imóvel.
+Sentença: julgou procedentes os pedidos, para: i) reintegrar definitivamente a agravada na posse do imóvel, fixando prazo de 60 dias para desocupação voluntária, sob pena de desocupação coercitiva; ii) condenar a agravante ao pagamento de indenização por perdas e danos equivalente a 0,5% do valor do bem, por mês de ocupação, a partir da citação, até a efetiva desocupação.
+Acórdão: negou provimento ao recurso de apelação interposto por CREUZA CARDOSO DE SOUZA AMARAL, nos termos da seguinte ementa (e-STJ fl. 193):
+AÇÃO DE REINTEGRAÇÃO DE POSSE. Sentença de procedência. APELAÇÃO. Insurgência da ré. AUSÊNCIA/FALTA DE FUNDAMENTAÇÃO. Sentença com fundamentação concisa e suficiente para abarcar as alegações apresentadas pelas partes. CERCEAMENTO DE DEFESA. Ausência injustificada do patrono da ré em audiência de instrução. Preclusão para produção de prova oral. EXTRA/ULTRA PETITA. Inocorrência. Julgamento conforme pedido e causa de pedir. MÉRITO. Não acolhimento. Transmissão de posse operada pelo óbito do autor da herança. Princípio da saisine. Aplicação dos artigos 1.206 e 1.798 do Código Civil. Conjunto probatório que não comprovou a alegada posse justa do bem. Contrato de locação não suficiente a demonstrar exercício regular de posse de terceiro. Recusa na desocupação. Esbulho caracterizado. RECURSO DESPROVIDO.
+Embargos de Declaração: opostos por CREUZA CARDOSO DE SOUZA AMARAL, foram rejeitados.
+Recurso especial: alega violação dos arts. 114, 251, 370, 373, 489, 561 e 1.022 do CPC, bem como dissídio jurisprudencial. Além de negativa de prestação jurisdicional, afirma haver cerceamento de defesa em razão do indeferimento de nova audiência. Defende a configuração de litisconsórcio passivo necessário em situação de composse, sustentando a nulidade do feito pela ausência de citação de todos os ocupantes. Assevera, ainda, ser indispensável a comprovação da posse anterior, do esbulho e de sua data, não se mostrando suficiente, para tanto, a mera apresentação do título dominial do imóvel.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. A propósito, confira-se: REsp n. 2.095.460/SP, Terceira Turma, DJe de 15/2/2024 e AgInt no AREsp n. 2.325.175/SP, Quarta Turma, DJe de 21/12/2023.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca da comprovação do exercício de posse sobre o imóvel, caracterização do esbulho e sua respectiva data (e-STJ fl. 198), bem como sobre a legitimidade passiva da agravante e a desnecessidade de citação de terceiros supostamente ocupantes do imóvel, oportunidade na qual consignou que "as certidões do oficial de justiça de fls. 42 e 57 demonstram que no local reside apenas a ré Creuza Cardoso de Souza Amaral; (3) ausente qualquer prova que demonstre existir ocupação de cinco outras famílias" (e-STJ fls. 200-201).
+Portanto, os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da violação do art. 489 do CPC
+Do exame do acórdão recorrido, constata-se que as questões de mérito foram devidamente analisadas e discutidas, de modo que a prestação jurisdicional foi esgotada.
+É importante salientar que a ausência de manifestação a respeito de determinado ponto não deve ser confundida com a adoção de razões contrárias aos interesses da parte. Logo, não há contrariedade ao art. 489 do CPC, pois o Tribunal de origem decidiu de modo claro e fundamentado.
+No mesmo sentido: AgInt nos EDcl no AREsp n. 1.547.208/SP, Terceira Turma, DJe 19/12/2019 e AgInt no AREsp n. 1.480.314/RJ, Quarta Turma, DJe 19/12/2019.
+- Do cerceamento de defesa
+De acordo com a jurisprudência do STJ, o juiz, como destinatário da prova, pode, em conformidade com os princípios da livre apreciação da prova e do livre convencimento motivado, decidir pelo indeferimento da prova requerida sem que isso configure cerceamento de defesa, o que ocorreu na hipótese. Nesse sentido: REsp n. 2.192.255/SP, Terceira Turma, DJEN de 28/2/2025; e AgInt no REsp n. 2.077.630/SP, Quarta Turma, DJe de 18/4/2024.
+No particular, o TJ/SP ao examinar a alegação de cerceamento de defesa, entendeu que: (e-STJ fl. 197):
+No mais, afasto, de plano, a alegação da ré de cerceamento de defesa.
+Neste ponto, estatui o art. 455 do Código de Processo Civil, in verbis:
+Art. 362. A audiência poderá ser adiada: II - se não puder comparecer, por motivo justificado, qualquer pessoa que dela deva necessariamente participar;
+§ 1º O impedimento deverá ser comprovado até a abertura da audiência, e, não o sendo, o juiz procederá à instrução.
+§ 2º O juiz poderá dispensar a produção das provas requeridas pela parte cujo advogado ou defensor público não tenha comparecido à audiência, aplicando- se a mesma regra ao Ministério Público. (g. n.).
+Ora, cabia ao patrono da parte ré providenciar demonstração suficiente dos problemas técnicos que o impediram de comparecer na audiência de instrução (fls. 106), não se verificando, no caso sub judice, quaisquer justificativas plausíveis. Isto porque a audiência foi agendada para o dia 03/06/2024, às 14h30, e a certidão de fls. 107/108 não demonstra a tentativa de entrada do patrono da ré em nenhum momento na plataforma Teams, bem como, as imagens apresentadas pelo réu comprovam o contrário, apontando pelo comparecimento intempestivo com horário de 15:36 (fls. 103), 15:27 (fls. 97), até 15:59 (fls. 96).
+Consequentemente, não tendo a parte ré comparecido, a produção da prova oral pretendida estava preclusa, nos termos do artigo 362, § 2º do CPC, como bem decidiu a D. Magistrada a quo (fls. 109). Assim, por qualquer ângulo que se analise a questão, não há que se falar em cerceamento de defesa.
+Dessa forma, alterar o decidido no acórdão recorrido, acerca da ausência de cerceamento de defesa, por ter sido indeferida a realização de nova audiência, demandaria o reexame de fatos e provas, o que não é permitido ante o óbice da Súmula 7 desta Corte. Na mesma linha: AgInt no AREsp n. 2.714.570/SP, Terceira Turma, DJEN de 20/2/2025; AgInt no REsp n. 2.000.839/RJ, Quarta Turma, DJEN de 23/12/2024.
+- Do reexame de fatos e provas
+O TJ/SP ao analisar o recurso interposto pela agravante, concluiu o seguinte (e-STJ fls. 198/200):
+Pela certidão de fls. 22/23 do 6º Ofício de registro de Imóveis de São Paulo e pelo teor da r. sentença de fls. 29/34, comprova-se que a falecida Esperança Fernandes adquiriu, em 07/08/1937, a propriedade de terreno localizado no Cambuci, na cidade de São Paulo, atualmente situado na Rua Silveira da Motta, º 610.
+A parte autora, Maria Neusa Moscardi Fernandes, demonstra que sua avó, Esperança Fernandes Machado faleceu em 1954, tendo deixado um filho vivo, Armando Fernandes, e esse faleceu em 1975, deixando a autora como herdeira de seus bens.
+Os bens dos falecidos são transmitidos aos herdeiros com o óbito do autor da herança, pela saisine.
+(..)
+Portanto, é fato jurídico que a parte autora recebeu a transmissão de posse desde a morte de seu genitor.
+Assim sendo, pode obter proteção possessória nos termos do artigo 561 do Código de Processo Civil.
+(..)
+Ora, no caso concreto a Apelante não comprovou que de fato detinha posse justa do bem. Contrato de locação de fls. 67/72 não suficiente para comprovar exercício regular de posse. Ademais, não se demonstrou a que título o terceiro Denílson Alexandrino Santos teria passado a locar referido bem imóvel.
+No caso, a herdeira, pelo princípio da saisine, tive transmitida a posse após o falecimento de seu genitor e de sua avó.
+Por conseguinte, encontra-se provada existência de posse da parte autora e esbulho praticado pela parte ré, que apresenta resistência à devolução do imóvel, devendo ser mantida a procedência do pedido de reintegração de posse. (grifos acrescidos)
+Desse modo, alterar o decidido no acórdão impugnado, no que se refere à posse pretérita da agravada sobre o imóvel e ao esbulho praticado pela agravante, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da divergência jurisprudencial
+Além disso, a incidência da Súmula 7 desta Corte acerca dos temas que se supõe divergentes (formação de litisconsórcio passivo necessário em hipóteses de composse, com nulidade po r ausência de citação de todos os ocupantes, bem como imprescindibilidade de prova da posse anterior, do esbulho, da sua data e da respectiva perda, para o deferimento da reintegração), impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República.
+Isso porque, a demonstração da divergência não pode estar fundamentada em questões de fato, mas apenas na interpretação do dispositivo legal. Nesse sentido: AgInt no AREsp n. 1.974.371/RJ, Terceira Turma, DJe de 22/11/2023 e REsp n. 1.907.171/RJ, Quarta Turma, DJe de 11/1/2024.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 15% sobre o valor atualizado da causa (e-STJ fls. 201) para 17%, observada a concessão da gratuidade de justiça (e-STJ fl. 74), nos termos do art. 98, § 3º, do CPC.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REINTEGRAÇÃO DE POSSE C/C PERDAS E DANOS. LITISCONSÓRCIO PASSIVO NECESSÁRIO. COMPOSSE. AUSÊNCIA DE CITAÇÃO DE TODOS OS OCUPANTES. NULIDADE. NÃO VERIFICADA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. CERCEAMENTO DE DEFESA. NÃO CONFIGURADO. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO PREJUDICADO.
+1. Ação de reintegração de posse c/c perdas e danos.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. A jurisprudência do STJ é no sentido de que o juiz, como destinatário da prova, pode, em conformidade com os princípios da livre apreciação da prova e do livre convencimento motivado, decidir pelo indeferimento da prova requerida sem que isso configure cerceamento de defesa. Precedentes.
+5. O reexame de fatos e provas em recurso especial é inadmissível.
+6. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+7. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
