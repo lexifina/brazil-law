@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de agravo interposto por MATEUS AL ALAM DE ALMEIDA 02736766016 contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL cuja ementa guarda os seguintes termos (fl.77):
+AGRAVO DE INSTRUMENTO. DIREITO PRIVADO NÃO ESPECIFICADO. FASE DE CUMPRIMENTO DE SENTENÇA. RESTITUIÇÃO DE VALORES. IMPOSSIBILIDADE. COISA JULGADA. EXTINÇÃO. DESCABIMENTO. 1. Inviável determinar a restituição de valores ao agravado, pois o título executivo judicial determina prioritariamente a entrega de produto semelhante, o que deve ser observado em respeito à coisa julgada. 2. Descabida a extinção do processo pelo cumprimento da obrigação, pois o envio do produto ocorreu em desconformidade com o pedido da fase de cumprimento, devendo a agravante arcar com as despesas de nova entrega do produto.  RECURSO PARCIALMENTE PROVIDO.
+Rejeitados os embargos de declaração opostos (fl.131).
+No recurso especial, a parte recorrente alega, preliminarmente, ofensa ao art. 1.022, II e § 1º, e art. 489, § 1º, ambos do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, no mérito, que o acórdão contrariou as disposições contidas nos artigos 502 do CPC e 18, § 1º, do CDC. Argumenta que a condenação da parte recorrida era alternativa, nos termos do §1º do art. 18 do Código de Defesa do Consumidor. Logo, o recorrente poderia escolher entre receber restituição do valor do produto ou substituição do produto adquirido por outro da mesma espécie, em perfeitas condições de uso, sendo que a decisão recorrida aponta que "o título executivo judicial foi expresso em estabelecer uma ordem entre as escolhas alternativas do consumidor previstas no art. 18, § 1º, do CDC".
+Foram oferecidas contrarrazões ao recurso especial (fls. 214-229).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 232-235), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 309-330).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Da violação dos arts. 489 e 1.022 do CPC
+Inicialmente, não há falar em ofensa aos arts. 489 e 1.022 do CPC, uma vez que o Tribunal de origem, ao negar provimento ao agravo, deixou claro que (fl.129):
+Note-se que o título executivo judicial foi expresso em estabelecer uma ordem entre as escolhas alternativas do consumidor previstas no art. 18, § 1º, do CDC, qual seja prioritariamente entregar a bem e somente, subsidiariamente, caso a empresa não possuísse produto semelhante em estoque, seria realizada a restituição do produto. Como já dito, essa escolha foi feita pelo embargante-consumidor quando do ajuizamento da ação de conhecimento (evento 1, INIC1), devendo ser respeitada, sob pena de decisão extrapetita. É neste contexto que deve ser compreendido o julgamento dos embargos de declaração quando fala a respeito da condenação alternativa. Outro entendimento implicaria em violação à coisa julgada.
+Observa-se, portanto, que a lide foi solucionada em conformidade com o que foi apresentado em juízo. Assim, verifica-se que o acórdão recorrido está com fundamentação suficiente, inexistindo omissão ou contradição.
+Do reexame de fatos e provas. Súmula n. 7/STJ
+Por conseguinte, para elidir a conclusão da Corte estadual quanto à correta interpretação do título executivo judicial e verificar se houve, ou não, violação à coisa julgada seria imprescindível a incursão no conjunto fático-probatório, incidindo, na espécie, a Súmula n. 7 deste Tribunal Superior a impedir o conhecimento do recurso especial.
+Nesse sentido, cito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. AÇÃO DE RESOLUÇÃO CONTRATUAL C/C COBRANÇA DE MULTA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS FIXADOS NA FASE DE CONHECIMENTO SOBRE O CONTEÚDO ECONÔMICO DA PRETENSÃO DECAÍDA.AFERIÇÃO. INTERPRETAÇÃO DO TÍTULO JUDICIAL PELO JUÍZO DA EXECUÇÃO. POSSIBILIDADE. REVISÃO. SÚMULA 7/STJ.
+1. Inocorrência de negativa de prestação jurisdicional, pois o Tribunal de origem motivou adequadamente a sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. A interpretação do título executivo judicial constitui dever do juízo da execução/liquidação (AgRg no REsp n. 1.319.705/RS, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 16/4/2015, DJe de 23/4/2015). Com o escopo de liquidá-lo, deve extrair-lhe "o sentido e o alcance do comando sentencial mediante integração de seu dispositivo com a sua fundamentação, mas, nessa operação, nada pode acrescer ou retirar, devendo apenas aclarar o exato alcance da tutela antes prestada" (REsp n. 1.599.412/BA, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 6/12/2016, DJe de 24/2/2017).
+3. Hipótese dos autos em que, a partir desse mister, analisando a causa de pedir e os pedidos formulados na petição inicial, os fundamentos da sentença e do acórdão proferidos na fase de conhecimento e a conclusão de duas periciais judiciais, o Tribunal de origem concluiu que a parte decaída dos pedidos autorais se referiu à pretensão de cobrança da multa diária pela não devolução dos equipamentos em comodato até o ajuizamento da demanda.
+4. Inviabilidade de infirmar a interpretação da coisa julgada feita pelo Tribunal de origem para acolher a tese recursal de que houve modificação do termo final da contagem da multa contratual em razão do óbice na Súmula 7/STJ, por demandar, necessariamente, novo exame do acervo fático-probatório constante dos autos. Precedentes.
+5. (..).
+Agravo interno improvido. (AgInt no REsp n. 2.100.644/MG, relator Ministro Humberto Martins, Terceira Turma, julgado em 12/8/2024, DJe de 15/8/2024.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Honorários recursais
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC, tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+Publique-se. Intimem-se.
+ EMENTA
