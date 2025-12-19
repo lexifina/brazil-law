@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto por LUCIA BERNARDETE DA SILVA contra decisão que inadmitiu o recurso especial diante do óbice das Súmulas n. 284 do Supremo Tribunal Federal e 7 do Superior Tribunal de Justiça.
+A recorrente foi condenada a 4 anos de reclusão, em regime aberto, e 20 dias-multa, por uso de documento falso e falsificação de documento público, em concurso material. O Tribunal de Justiça do Estado de São Paulo negou provimento ao apelo defensivo. Embargos de declaração opostos na sequência rejeitados.
+No recurso especial, a parte alega ofensa aos arts. 155, 156, e 386, III e VII, do Código de Processo Penal, e 297 e 304 do Código Penal. Aduz que a prova da condenação foi exclusivamente colhida na fase do inquérito policial, bem como argumenta a aplicabilidade do princípio da consunção.
+Oferecidas as contrarrazões, o recurso não foi admitido na origem.
+No agravo, sustenta a impugnação dos fundamentos do acórdão e que a questão não perpassa pela Súmula n. 7 do STJ.
+Apresentada a contraminuta, o Ministério Público Federal manifestou-se pelo conhecimento do agravo para não conhecer do recurso especial.
+É o relatório.
+Atendidos os requisitos de admissibilidade do agravo, passa-se à análise do recurso especial.
+Segundo a denúncia, a recorrente fez uso de atestado médico falso para justificar falta do serviço. Posteriormente, preencheu receituário falso com o mesmo fim.
+Acerca da controvérsia, o Tribunal de Justiça concluiu (fls. 339-340):
+Eis que, as provas colhidas sob o crivo do contraditório corroboraram integralmente os fatos narrados na denúncia. Portanto, o conjunto probatório é seguro e harmônico, não restando dúvidas acerca da materialidade e da autoria do crime, não há que se falar em insuficiência de prova.
+Frisa-se que a acusada não logrou produzir qualquer contraprova suficiente para afastá-la da condenação.
+No mais, como bem posto na r. sentença diversamente do que sustentou a defesa, conforme apontamentos periciais, os impressos guardam similaridade com padrões originais e num primeiro momento surtiram efeitos perante a empregadora da ré, como justificativa primária para ausência ao trabalho, sendo constatada falsificação somente mediante conferência posterior dos dados neles constantes perante os apontados órgãos emissores. Por isso, não se fala em falsificação grosseira.
+Portanto, resta claro que as provas presentes nos autos são mais do que suficientes para embasarem a condenação da apelante.
+Em havendo prova produzida em contraditório, conjugada com laudo pericial que "constatou que os lançamentos manuscritos apostos no atestado, se identificam graficamente com os padrões de confronto fornecidos por Lucia Bernardete da Silva" (fl. 275), a tentativa de absolver o recorrente não encontra amparo na via eleita, pela necessidade de revolvimento do conjunto da prova, atividade reservada às instâncias ordinárias e inviável no âmbito do Superior Tribunal de Justiça (Súmula n. 7).
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO E LATROCÍNIO. ABSOLVIÇÃO E DESCLASSIFICAÇÃO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. CONTINUIDADE DELITIVA INAPLICÁVEL. AGRAVO REGIMENTAL DESPROVIDO.  ..  2. Alterar a conclusão a que chegaram as instâncias ordinárias e decidir pela desclassificação do delito ou absolvição dos agravantes demandaria revolvimento do acervo fático-probatório dos autos, procedimento que encontra óbice na Súmula 7/STJ.  ..
+(AgRg no AREsp n. 2.002.341/TO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 19/4/2022, DJe de 27/4/2022).
+Relativamente à consunção, ficou assim decidido (fls. 340-341):
+Aqui, não se fala em aplicação da consunção, como requer a defesa. Ora, trata-se de ações distintas, geradas por fatos distintos, em datas distintas. Assim, conforme devidamente fundamentado nas contrarrazões, no caso em comento a apelante praticou os crimes de uso de atestado médico falso e o crime de falsificação de documento público, em ocasiões e circunstâncias diferentes, motivo pelo qual foi reconhecido o crime em concurso material. O primeiro crime de uso de atestado médico falso foi praticado em data incerta, mas após 26.11.2018, ocasião em que a apelante apresentou atestado médico falso, supostamente emitido pela Santa Casa de Misericórdia de Santo Amaro, datado de 26 de novembro de 2018, que lhe garantia 02 dias de afastamento de seu trabalho, documento esse assinado em nome do médico Sergio Trevisan foi aceito pela empregadora. O segundo crime de falsificação de documento público foi praticado em data incerta, mas antes de 15.1.2019 em que a apelante preencheu de próprio punho, atestado médico falso do PMS Balneário São José garantindo-lhe 01 dia de afastamento do trabalho, em proveito próprio. Por fim, a apelante datou o documento com o dia 14 de janeiro de 2019 e o assinou em nome da médica Márcia C. Rossi, CRM 47.941. Assim, demonstrado nos autos que a agente, mediante mais de uma só ação praticou mais de um crime, devem ser aplicadas as penas cumulativamente, em concurso material.
+Tem-se a ocorrência de dois crimes distintos, a partir de documentos diversos.
+Assim fundamentado o acórdão, modificar o entendimento firmado na origem, com o propósito de reverter a conclusão do Tribunal local, esbarra na atividade vinculada desta Corte Superior, na via especial.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
