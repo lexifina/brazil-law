@@ -1,0 +1,35 @@
+DECISÃO:
+Cuida-se de reclamação constitucional ajuizada por Arthur Rioboo da Costa e Paulo Vinícius Brum Ramos contra ato do Juízo da 2ª Vara Criminal da Comarca de Santa Cruz/RJ, nos autos dos Processos nº 0806287- 31.2025.8.19.0206 e nº 0036751-07.2025.8.19.0001, sob o fundamento desrespeito à Súmula Vinculante nº 14.
+ A defesa narra, em síntese, que
+“A Sra. Rosalia Maria Hott é parte nos dois processos acima identificados, sendo regularmente representada pelos advogados ora Reclamantes, conforme procurações anexas.  Nos referidos feitos, os patronos da defesa protocolaram pedidos formais de acesso integral aos autos eletrônicos, com expressa menção à Súmula Vinculante nº 14, a fim de exercer adequadamente a defesa técnica da Paciente. “
+Não obstante a clareza do direito postulado, os acessos foram indevidamente bloqueados pelas serventias judiciais, sem qualquer decisão fundamentada ou justificativa legal, impedindo o acompanhamento dos autos, a consulta a provas, o controle de prazos e a impugnação de medidas que possam atingir a liberdade da Paciente.”
+Ademais, sustenta que a negativa de acesso aos autos gera gravíssimo prejuízo à defesa do reclamante, violando os princípios do devido processo legal, do contraditório  e da ampla defesa.
+Ao final, requer o seguinte:
+a) A concessão imediata da medida liminar, inaudita altera pars, determinando que os MM. Juízos da 2ª Vara Criminal de Santa Cruz/RJ e da Comarca da Capital/RJ promovam, em caráter de urgência, o IMEDIATO E PLENO RESTABELECIMENTO DO ACESSO aos autos eletrônicos dos processos nº 0806287-31.2025.8.19.0206 e nº 0036751-07.2025.8.19.0001, aos advogados constituídos Arthur Rioboo da Costa (OAB/RJ 203.231) e Paulo Vinícius Brum Ramos (OAB/RJ 198.882);
+b) A requisição de informações às autoridades reclamadas;
+c) A intimação da Douta Procuradoria-Geral da República para manifestação;
+d) Ao final, o julgamento procedente da Reclamação Constitucional, para cassação dos atos judiciais reclamados e reafirmação da autoridade da Súmula Vinculante nº 14, garantindo o acesso irrestrito e permanente da defesa aos autos, assegurando o pleno exercício do direito de defesa da Paciente.”
+É o relatório. Decido.
+Preliminarmente, registro ser ônus do reclamante apresentar os documentos essenciais à compreensão da controvérsia, nos termos do que dispõem o art. 156, parágrafo único, do RISTF e os arts. 319, inc. VI,  320 e  989, III c/c art. 319, II, do CPC. Nesse sentido:
+
+“É dever do reclamante instruir a reclamação com todos os documentos necessários à perfeita compreensão da controvérsia. Tendo em vista não ter cumprido inteiramente o seu dever de instruir o processo com os documentos indispensáveis à propositura desta reclamação, nos termos dos arts. 283 e 284 do Código de Processo Civil, (...)” (Rcl nº 9.471/MG-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe de 13/8/10).
+
+Na espécie, a parte ora reclamante relata que  “os acessos foram indevidamente bloqueados pelas serventias judiciais, sem qualquer decisão fundamentada ou justificativa legal, impedindo o acompanhamento dos autos, a consulta a provas, o controle de prazos e a impugnação de medidas que possam atingir a liberdade da Paciente.”
+No caso, observo que a parte reclamante não cumpriu integralmente os requisitos da petição inicial, deixando de (i) juntar procuração outorgando poderes ao advogado subscritor da inicial, (ii) juntar o inteiro teor do ato reclamado, (iii) bem como informar o valor da causa e  juntar demais peças processuais que permitiriam a este STF verificar os fundamentos da petição inicial.
+Dessa forma, verifica-se óbice intransponível para regular seguimento a esta reclamação, uma vez que carente dos elementos processuais que autorizam o conhecimento e a conclusão sobre o que exposto.
+Nesse sentido, cito os seguintes julgados:
+“AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. PENAL E PROCESSUAL PENAL. INSTRUÇÃO DEFICIENTE DO FEITO. AUSÊNCIA DO ATO TIDO POR RECLAMADO. INVIABILIDADE DO EXAME DA ALEGADA OFENSA. AGRAVO REGIMENTAL DESPROVIDO. 1. A reclamação deve vir instruída com os documentos que comprovam as alegações trazidas, nos termos do que dispõem o parágrafo único do artigo 156 do Regimento Interno do Supremo Tribunal Federal e o § 2º do artigo 988 do Código de Processo Civil. 2. A ausência de cópia do ato reclamado torna inviável o exame da alegada ofensa à autoridade de decisão desta Corte. Precedente. 3. Agravo regimental a que se nega provimento” (Rcl
+n. 57.957-ED-AgR, Relator o Ministro Luiz Fux, Primeira Turma, DJe 3.4.2023).
+“AGRAVO REGIMENTAL EM RECLAMAÇÃO. MATÉRIA CRIMINAL. SÚMULA VINCULANTE 24. INSTRUÇÃO DEFICITÁRIA. AUSÊNCIA DE JUNTADA DO ATO RECLAMADO. DISTINÇÃO ENTRE AS DECISÕES PROFERIDAS COM BASE NO ART. 396 E 397 DO CPP. CRIME CONTRA A ORDEM TRIBUTÁRIA. ART. 1º, V, DA LEI 8.137/1990. PRÉVIA CONSTITUIÇÃO DO CRÉDITO TRIBUTÁRIO. DESNECESSIDADE. CRIME FORMAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. 1. Impõe-se a negativa de seguimento às reclamações quando não juntada cópia do ato reclamado. 2. A decisão proferida em juízo de recebimento ou rejeição da denúncia tem fundamento no art. 396 do CPP e é distinta daquela prolatada para examinar as razões aduzidas pela defesa ao apresentar resposta à acusação e verificar se o caso é de absolvição sumária, a qual tem fulcro no art. 397 do mesmo diploma legal. 3. São desprovidas de aderência estrita as reclamações apresentadas com a alegação de ofensa ao enunciado 24 da Súmula Vinculante quando o feito em trâmite na origem diz respeito ao delito previsto no art. 1º, V, da Lei 8.137/1990, crime formal que dispensa resultado naturalístico para a sua configuração e, portanto, não abrangido pelo verbete sumular. 4. Agravo regimental desprovido” (Rcl n. 48.295-AgR, Relator o Ministro Edson Fachin, Segunda Turma, DJe 28.9.2021).”
+“CONSTITUCIONAL E PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. AUSÊNCIA DE PROCURAÇÃO, CÓPIA DO ATO RECLAMADO E COMPROVANTE DE RECOLHIMENTO DE CUSTAS. EXTINÇÃO LIMINAR DO PROCESSO. AGRAVO DESPROVIDO. 1. O CPC prevê no § 2º do art. 988 que ‘A Reclamação deverá ser instruída com prova documental e dirigida ao presidente do tribunal’. 2. No presente caso, além da ausência de procuração, o Reclamante não trouxe sequer a cópia do ato reclamado e o comprovante do recolhimento das custas, o que inviabiliza a análise do pedido. 3. Ante a ausência dos pressupostos necessários ao conhecimento da demanda, a extinção do processo é medida que se impõe. 4. Recurso de Agravo a que se nega provimento” (Rcl
+n. 60.007-AgR, Relator o Ministro Alexandre de Moraes, Primeira Turma, DJe 25.8.2023).
+
+Deixo de determinar sua emenda (art. 321 do CPC) ante o indeferimento liminar da inicial.
+Ante o exposto, julgo extinta a reclamação, sem resolução do mérito (CPC, art. 485, I, c/c art. 321, parágrafo único). Certifique-se o trânsito em julgado, com a baixa imediata dos autos, independentemente de publicação desta decisão.
+
+Publique-se.
+Brasília, 19 de dezembro de 2025.
+
+Ministro DIAS TOFFOLI
+Relator
+Documento assinado digitalmente
