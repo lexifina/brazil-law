@@ -1,0 +1,26 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça que conheceu do agravo e não conheceu do recurso especial, em razão dos óbices das Súmulas n. 284 do STF e 5, 7 e 211 do STJ.
+O julgado recorrido recebeu a seguinte ementa (fls. 1.136-1.137):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO POR QUANTIA CERTA. FUNDAMENTAÇÃO DEFICIENTE. ILAÇÕES GENÉRICAS. APLICAÇÃO DA SÚMULA N. 284 DO STF, POR ANALOGIA. TEMA NÃO DEBATIDO. PREQUESTIONAMENTO. AUSÊNCIA. INCIDÊNCIA DA SÚMULA N. 211 DO STJ. TÍTULO EXECUTIVO. AUSÊNCIA DE CERTEZA E LIQUIDEZ. PREVISÃO CONTRATUAL. ANÁLISE DE CLÁUSULAS CONTRATUAIS. APLICAÇÃO DA SÚMULA N. 5 DO STJ. REJULGAMENTO DA CAUSA. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO E NÃO PROVIDO.
+1. A alegada afronta a lei federal não foi demonstrada com clareza, caracterizando, dessa maneira, a ausência de fundamentação jurídica e legal, conforme previsto na Súmula n. 284 do STF.
+2. As matérias pertinentes ao comando de que, verificando que a petição inicial está incompleta ou que não está acompanhada dos documentos indispensáveis à propositura da execução, o juiz determinará que o exequente a corrija, no prazo de 15 (quinze) dias, sob pena de indeferimento, não foi objeto de debate prévio nas instâncias de origem, a despeito da oposição de embargos de declaração. Ausente, portanto, o devido prequestionamento nos termos da Súmula n. 211 do STJ.
+3. No caso, a partir da interpretação das cláusulas do contrato, bem como da análise dos elementos fáticos da causa, o Tribunal estadual assentou que o título executivo carece de certeza e liquidez para iniciar uma execução. A pretensão de rever esse entendimento encontra óbice nas Súmulas n. 5 e 7 do STJ.
+4. Agravo conhecido para não conhecer do recurso especial.
+Os dois embargos de declaração opostos na sequência foram rejeitados, com imposição de multa protelatória no segundo (fls. 1.185-1.195 e 1.232-1.248).
+A parte recorrente alega que a discussão proposta no recurso extraordinário possui repercussão geral e que há contrariedade, no acórdão recorrido, ao art. 5º, XXXV, LIV e LV, da Constituição Federal.
+Requer, assim, a concessão de efeito suspensivo ao recurso, bem como a sua admissão e provimento.
+É o relatório.
+2. Nos termos do art. 102, § 3º, da Constituição Federal, o recurso extraordinário deve ser dotado de repercussão geral, requisito indispensável à sua admissão.
+Por sua vez, o Supremo Tribunal Federal já definiu que a discussão relativa ao preenchimento dos pressupostos de admissibilidade de recurso anterior, de competência de outro tribunal, não possui repercussão geral.
+Quando o STJ não analisar o mérito do recurso de sua competência, tal como verificado nestes autos, qualquer alegação do recurso extraordinário demandaria a rediscussão dos requisitos de admissibilidade do referido recurso, exigindo a apreciação dos dispositivos legais que versam sobre tais pressupostos.
+No Tema n. 181 do STF, a Suprema Corte afirmou que "a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional" (RE n. 598.365-RG, relator Ministro Ayres Britto, Tribunal Pleno, julgado em 14/8/2009, DJe de 26/3/2010).
+O entendimento em questão incide tanto em situações nas quais as razões do extraordinário se referem ao não conhecimento do recurso anterior quanto naquelas em que as alegações se relacionam à matéria de fundo da causa.
+Essa conclusão foi adotada sob o regime da repercussão geral e é de aplicação obrigatória, devendo os tribunais, ao analisar a viabilidade prévia dos recursos extraordinários, negar seguimento àqueles que discutam questão à qual o STF não tenha reconhecido a existência de repercussão geral, nos termos do art. 1.030, I, a, do CPC.
+Como exemplos da aplicação do Tema n. 181 do STF em casos semelhantes, confiram-se: ARE n. 1.256.720-AgR, relator Ministro Dias Toffoli (Presidente), Tribunal Pleno, julgado em 4/5/2020, DJe de 26/5/2020; ARE n. 1.317.340-AgR, relatora Ministra Cármen Lúcia, Segunda Turma, julgado em 12/5/2021, DJe de 14/5/2021; ARE n. 822.158-AgR, relator Ministro Edson Fachin, Primeira Turma, julgado em 20/10/2015, DJe de 24/11/2015.
+Da mesma forma, o recurso extraordinário deve ter o seguimento negado por aplicação do Tema n. 181 do STF também nas hipóteses em que for alegada ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+3. Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Por fim, diante da negativa de seguimento ao recurso extraordinário, o pleito de atribuição de efeito suspensivo fica prejudicado.
+Vale registrar não ser cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC) contra decisões que negam seguimento a recurso extraordinário, conforme o § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. NÃO CONHECIMENTO DE RECURSO ANTERIOR, DE COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. REQUISITOS DE ADMISSIBILIDADE. DEBATE OU SUPERAÇÃO. IMPOSSIBILIDADE. TEMA N. 181 DO STF. NEGATIVA DE SEGUIMENTO.
