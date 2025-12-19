@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de WILLIAM MENDES, preso preventivamente e pronunciado pela suposta prática de homicídio qualificado consumado e homicídio qualificado tentado (Processo n. 0802793-58.2023.8.10.0052, da 3ª Vara criminal da comarca de Pinheiro/MA).
+O impetrante aponta como autoridade coatora o Tribunal de Justiça do Estado do Maranhão, que, em 9/12/2025, negou provimento ao recurso em sentido estrito interposto contra a decisão de pronúncia (fls. 27/29).
+Alega, em síntese, o cabimento do writ por inexistir instrumento processual eficaz e célere para cassar o acórdão que manteve a pronúncia; sustenta a necessidade de overruling da orientação restritiva dos Tribunais Superiores quanto ao não conhecimento de habeas corpus substitutivo, com eventual concessão de ofício.
+Defende a despronúncia por ausência de indícios suficientes de autoria, afirmando que a pronúncia se lastreou em elementos exclusivamente colhidos na fase inquisitorial e em testemunhos indiretos de ouvir dizer, em violação do art. 155 do Código de Processo Penal.
+Sustenta nulidades específicas: inexistência de prova judicial idônea produzida sob contraditório; vítima sobrevivente não ouvida em juízo por desistência do Ministério Público; reconhecimento fotográfico irregular e tardio, em desacordo com o art. 226 do Código de Processo Penal; confissão extrajudicial do corréu posteriormente retratada; ausência de prova telemática mínima, sem relatório de extração de dados ou mesmo registros de conversas que corroborem a versão acusatória.
+Requer a cassação do acórdão que manteve a decisão de pronúncia e a despronúncia do paciente, com expedição de alvará de soltura.
+É o relatório.
+O writ é inadmissível.
+Segundo a jurisprudência desta Corte Superior, a fim de preservar a coerência do sistema recursal e a própria função constitucional do habeas corpus, sobretudo quando a questão suscitada não diz respeito, diretamente, à liberdade de ir e vir, não é admissível o writ impetrado quando em curso o prazo para a interposição do recurso cabível na origem.
+Verifica-se a possibilidade do manejo da via adequada para a obtenção do intento defensivo ou, ao menos, de uma resposta jurisdicional do Superior Tribunal de Justiça, de modo que qualquer pronunciamento imediato desta Corte Superior quanto ao pleito vindicado pela impetrante seria precoce, além de implicar a subversão da essência do remédio heroico e o alargamento inconstitucional de sua competência para julgamento de habeas corpus (AgRg no HC n. 733.563/RS, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 16/5/2022).
+O remédio constitucional tem suas hipóteses de cabimento restritas, nos termos do art. 105, I, c, da Constituição Federal, e não deve ser utilizado a fim de provocar a discussão de temas afetos a apelação criminal, a recurso especial, a agravo em execução, tampouco deve vir como sucedâneo de revisão criminal.
+Além disso, a impetração do habeas corpus somente se justifica quando há ilegalidade manifesta, de fácil e imediata constatação, restrita a questões de direito, sem incursão no conjunto probatório da ação penal. No caso concreto, essa condição não se verifica.
+Indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO CONSUMADO E TENTADO. INADMISSIBILIDADE DO HABEAS CORPUS SUBSTITUTIVO. PRESERVAÇÃO DA COERÊNCIA DO SISTEMA RECURSAL. EXISTÊNCIA DE VIA PROCESSUAL ADEQUADA NA ORIGEM. AUSÊNCIA DE ILEGALIDADE MANIFESTA. IMPOSSIBILIDADE DE INCURSÃO APROFUNDADA NO CONJUNTO PROBATÓRIO. INADEQUAÇÃO DA VIA ELEITA.
+Habeas corpus liminarmente indeferido.
