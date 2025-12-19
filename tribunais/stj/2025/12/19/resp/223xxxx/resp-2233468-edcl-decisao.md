@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão assim ementada (fl. 604):
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC /15. NÃO OCORRÊNCIA. CONTRIBUIÇÕES ARRECADAS POR CONTA DE TERCEIROS. BASES DE CÁLCULO. LIM ITAÇÃO A VINTE SALÁRIOS- MÍNIMOS. TESE DEFINIDA PELA PRIMEIRA SEÇÃO EM PRECEDENTES QUALIFICADOS (TEMA 1.079). EXTENSÃO A OUTRAS ESPÉCIES DE CONTRIBUIÇÕES NÃO ELENCADAS NOS RECURSOS ESPECIAIS REPETITIVOS. LEGALIDADE. RECURSO ESPECIAL NÃO PROVIDO.
+O embargante sustenta que a decisão restou omissa quanto à análise sobre a ordem de suspensão do feito.
+Sem impugnação.
+É o relatório. Passo a decidir.
+Em melhor análise, observa-se que a argumentação apresentada pela parte embargante merece acolhida, razão pela qual reconsidero a decisão de fls. 604/609 e procedo novo exame da questão.
+A Primeira Seção deste Tribunal Superior decidiu afetar os REsps 2187625/RJ, 2187464/CE, 2188421/SC, 2185634/RS à sistemática dos recursos repetitivos com o fim de definir a seguinte tese (Tema 1.390): Definir se o teto de 20 (vinte) vezes o maior salário mínimo vigente no país, previsto no art. 4º, parágrafo único, da Lei n. 6.950/1981, se aplica às bases de cálculo das contribuições ao INCRA, salário-educação, DPC, FAER, SENAR, SEST, SENAT, SESCOOP, SEBRAE, APEX-Brasil e ABDI.
+Assim, foi determinada a suspensão do processamento de todos os processos, individuais ou coletivos, que versem sobre a mesma matéria, nos quais tenha havido a interposição de recurso especial ou de agravo em recurso especial, na Segunda Instância, ou que estejam em tramitação no STJ, respeitada, no último caso, a orientação prevista no art. 256-L do RISTJ.
+No presente caso, verifica-se que no recurso especial interposto está presente a controvérsia acerca do tema afetado, fazendo-se necessário determinar a devolução dos autos ao Tribunal de origem para que se proceda ao juízo de conformação ou manutenção do decisum, nos termos dos artigos 1.040 e 1.041 do CPC/2015.
+Ante o exposto, acolho os embargos de declaração, com efeitos infringentes, para, exercendo o juízo de retratação, tornar sem efeito a decisão de fls. 604/609. Determino a devolução dos autos ao Tribunal de origem, nos termos do art. 256-L, II, do RISTJ, a fim de que, após a publicação do acórdão proferido sob a sistemática dos recursos repetitivos, seja realizado o juízo de adequação quanto ao Tema n. 1.390/STJ, e em observância aos arts. 1.030 e 1.040 do CPC: a) negue seguimento ao recurso especial se o acórdão recorrido estiver em conformidade com o entendimento do STJ; b) encaminhe os autos ao órgão julgador para realização do juízo de retratação se o acórdão recorrido divergir do entendimento do STJ.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. RETRATAÇÃO. TEMA 1.390/STJ. AFETAÇÃO. DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM.
