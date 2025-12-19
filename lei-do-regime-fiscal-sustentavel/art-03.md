@@ -17,6 +17,7 @@ VI - as despesas para cumprimento do disposto no § 20 do art. 100 da Constitui�
 VII - as despesas para cumprimento do disposto nos §§ 11 e 21 do art. 100 da Constituição Federal;
 VIII - as despesas não recorrentes da Justiça Eleitoral com a realização de eleições;
 IX - as transferências legais estabelecidas nas alíneas a e b do inciso II do caput do art. 39 da Lei nº 11.284, de 2 de março de 2006, e no art. 17 da Lei nº 13.240, de 30 de dezembro de 2015.
+X - a partir de 2025, as despesas temporárias com educação pública e saúde de que trata o art. 6º da Lei nº 15.164, de 14 de julho de 2025.
 § 3º Os limites estabelecidos no inciso IV do caput do art. 51, no inciso XIII do caput do art. 52, no § 1º do art. 99, no § 3º do art. 127 e no § 3º do art. 134 da Constituição Federal não poderão ser superiores aos estabelecidos neste artigo.
 § 4º A mensagem que encaminhar o projeto de lei orçamentária anual demonstrará os valores máximos de programação compatíveis com os limites individualizados calculados na forma prevista no § 1º deste artigo.
 § 5º As despesas primárias autorizadas na lei orçamentária anual e os respectivos créditos suplementares e especiais, inclusive reabertos, sujeitos aos limites de que trata este artigo não poderão exceder aos valores máximos demonstrados nos termos do § 4º deste artigo.
