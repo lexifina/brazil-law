@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Estado do Paraná, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do Tribunal de Justiça do Estado do Paraná assim ementado (fls. 30/35):
+AGRAVO DE INSTRUMENTO. ADICIONAL DE ATIVIDADE PENITENCIÁRIA (AAP). LIMITAÇÃO IMPOSTA NO ART. 8º, II, DA LC 108/2005 - DESNECESSIDADE DE CONSTAR EXPRESSAMENTE NO DISPOSITIVO DO ACÓRDÃO. NECESSIDADE DE OBSERVÂNCIA DA INTEGRALIDADE DO DISPOSITIVO EM QUESTÃO. REMUNERAÇÃO DO SERVIDOR TEMPORÁRIO QUE NÃO PODE ULTRAPASSAR À DO SERVIDOR EFETIVO. EXCESSO DE EXECUÇÃO VERIFICADO. INVERSÃO DOS ÔNUS SUCUMBENCIAIS. RECURSO CONHECIDO E PROVIDO
+Os embargos de declaração opostos foram rejeitados (fls. 45/51).
+A parte recorrente alega violação dos arts. 1.022, inciso II, e 85, caput e § 1º, do Código de Processo Civil (CPC), sustentando dois núcleos autônomos: I) Art. 1.022, inciso II, do CPC (omissão): alega negativa de prestação jurisdicional porque o acórdão, ao reconhecer o excesso de execução e determinar a inversão da sucumbência, não fixou o valor dos honorários em favor do Estado do Paraná, apesar dos embargos de declaração terem apontado expressamente a necessidade de arbitramento; II) Art. 85, caput e § 1º, do CPC (honorários no cumprimento de sentença): afirma ser obrigatória a fixação de honorários quando acolhida a impugnação ao cumprimento de sentença, ainda que parcialmente, conforme a literalidade legal e a orientação vinculante do Superior Tribunal de Justiça (STJ) na Súmula 519 do STJ: "Na hipótese de rejeição da impugnação ao cumprimento de sentença, não são cabíveis honorários advocatícios" (fls. 60/61), e no Tema 410 do STJ: "Apenas no caso de acolhimento da impugnação, ainda que parcial, serão arbitrados honorários em benefício do executado  " (fl. 61).
+Com base nisso, requer a fixação de honorários sucumbenciais em favor do Estado do Paraná, executado, em razão do acolhimento da impugnação e do reconhecimento do excesso.
+Contrarrazões apresentadas às fls. 66/75.
+O recurso foi admitido (fls. 76/77).
+É o relatório.
+Nos termos do que dispõe o art. 1.022 do Código de Processo Civil (CPC), cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Assiste razão à parte recorrente.
+Analisando o acórdão que decidiu os embargos (fls. 45-51), nota-se a omissão em relação ao argumento do recorrente quanto à fixação da verba honorária e a mera repetição dos argumentos da decisão anterior.
+Para o Superior Tribunal de Justiça, presente algum dos vícios - omissão, contradição ou obscuridade -, e apontada a violação do art. 1.022 do CPC no recurso especial, deve ser anulado o acórdão proferido pelo Tribunal de origem ao examinar os embargos de declaração lá opostos, retornando-se os autos à origem para nova apreciação do recurso.
+A propósito, cito estes julgados:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. ACIDENTE DE TRÂNSITO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015 CONFIGURADA. ACÓRDÃO ESTADUAL OMISSO QUANTO A PONTO ESSENCIAL AO DESLINDE DA CONTROVÉRSIA. AGRAVO DESPROVIDO.
+1. Decisão atacada que deu provimento ao recurso especial da parte ora agravada para, reconhecendo violação ao art. 1.022 do CPC/2015, anular o acórdão que julgou os aclaratórios e determinar o retorno dos autos ao Tribunal de origem para novo julgamento dos embargos de declaração, como entender de direito, sanando a omissão reconhecida.
+2. Fica configurada a ofensa ao art. 1.022 do CPC/2015 quando o Tribunal a quo, apesar de devidamente provocado nos embargos de declaração, não se manifesta sobre tema essencial ao deslinde da controvérsia.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 1.914.275/PB, relator Ministro Raul Araújo, Quarta Turma, julgado em 28/6/2021, DJe de 9/8/2021.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. VIOLAÇÃO AO ART. 535 DO CPC/73 CONFIGURADA. OCORRÊNCIA DE OMISSÃO DE TEMA ESSENCIAL PARA DESLINDE DA CONTROVÉRSIA. AGRAVO INTERNO PROVIDO PARA DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL.
+1. Na hipótese de o eg. Tribunal local deixar de examinar questão nevrálgica ao desate do litígio, fica caracterizada a violação ao art. 535 do CPC/73.
+2. Reconhecida a existência de omissão essencial para o deslinde da controvérsia, deve-se determinar o retorno dos autos ao eg. Tribunal de origem para novo julgamento dos embargos de declaração, como entender de direito, sanando os vícios ora reconhecidos.
+3. Acolhida a alegada ofensa ao art. 535 do CPC/73, fica prejudicada a análise das demais teses trazidas no apelo nobre.
+4. Agravo interno provido para reconsiderar a decisão agravada e dar parcial provimento ao recurso especial e, reconhecendo a violação ao art. 535, II, do CPC/73, anular o v. acórdão de fls. 201/203, determinando o retorno dos autos ao eg. Tribunal a quo para promover novo julgamento dos embargos de declaração, como entender de direito.
+(AgInt no AREsp n. 218.092/RJ, relator Ministro Lázaro Guimarães - Desembargador Convocado do TRF da 5ª Região, Quarta Turma, julgado em 2/8/2018, DJe de 8/8/2018.)
+Ante o exposto, conheço do recurso especial e o provejo para os fins de determinar a devolução dos autos, com a devida baixa nesta Corte, para que o Tribunal de origem supra a omissão do acórdão recorrido e fixe os honorários sucumbenciais no cumprimento de sentença .
+Publique-se. Intimem-se.
+EMENTA
