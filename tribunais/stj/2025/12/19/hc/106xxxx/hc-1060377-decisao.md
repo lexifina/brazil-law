@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus preventivo impetrado em nome de JOAO LUCAS DE MORAES DIAS, em que se aponta como autoridade coatora o Desembargador Federal Ali Mazloum, do Tribunal Regional Federal da 3ª Região, que manteve bloqueio integral de ativos da empresa E A Administração e Participações Ltda. no âmbito da Medida Cautelar n. 5001274-98.2024.4.03.6127.
+Sustenta-se a existência de constrangimento ilegal no bloqueio cautelar imposto ao paciente, que não figura como investigado no Inquérito Policial n. 5000012-16.2024.4.03.6127.
+Alega-se ausência de justa causa para a constrição, falta de indícios mínimos e de nexo entre valores e fatos, bem como desproporcionalidade e genericidade da medida, que inviabiliza a empresa e configura sanção antecipada.
+Menciona-se a violação da livre iniciativa, da função social da empresa, da razoabilidade, da proporcionalidade, da segurança jurídica e das garantias do devido processo legal, sem prova de risco, participação do paciente ou confusão patrimonial, apesar de comprovada desvinculação societária.
+Sustenta-se periculum in mora inverso, com risco de inviabilização da empresa, em razão do bloqueio de R$ 11.108.775,48 (onze milhões, cento e oito mil, setecentos e setenta e cinco reais e quarenta e oito centavos), e defende o cabimento de habeas corpus preventivo para sustar constrangimento ilegal e medidas patrimoniais abusivas.
+Pede-se, em caráter liminar, a suspensão dos efeitos da decisão que manteve o bloqueio de valores e bens da EA Administração e Participações Ltda., com levantamento ou desbloqueio total ou parcial dos ativos para garantir a continuidade das atividades, e a suspensão de diligências ou constrições que atinjam o paciente e a empresa.
+Requer-se, no mérito, o trancamento da investigação e da Medida Cautelar n. 5001274-98.2024.4.03.6127 em relação ao paciente e à empresa; o reconhecimento da ilegitimidade do réu e da pessoa jurídica quanto aos fatos; e a revogação definitiva das constrições, com desbloqueio integral dos bens e valores.
+Subsidiariamente, pleiteia-se a liberação parcial de valores suficientes à manutenção das atividades empresariais, nos termos do art. 139, IV, do Código de Processo Civil, e a determinação ao Ministério Público Federal para delimitar objetivamente a relação do paciente e da empresa com os fatos apurados, sob pena de nulidade.
+É o relatório.
+O writ não merece ir adiante.
+Primeiro, não há interesse de agir na impetração que busca o trancamento de inquérito policial em que o paciente não figura como investigado, por ausência de risco à liberdade de locomoção (AgRg no HC n. 867.067/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 20/3/2024).
+Segundo, o remédio constitucional não se destina à tutela de pessoas jurídicas. Sobre o tema, por exemplo, AgRg no HC n. 393.284/PI, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 15/5/2017; e RHC n. 51.488/SP, Ministro Jorge Mussi, Quinta Turma, DJe 22/10/2014.
+Terceiro, questões relacionadas à constrição patrimonial fogem do alcance do habeas corpus, cujo escopo é a proteção do direito de locomoção diante de ameaça ou de lesão decorrente de ato ilegal ou praticado com abuso de poder, sendo incabível sua impetração visando direito de natureza diversa da liberdade ambulatorial (AgRg no HC n. 843.978/PR, Ministro Ribeiro Dantas, Quinta Turma, DJe 1º/12/2023).
+Quarto, não tem cabimento o ajuizamento de habeas corpus contra decisão monocrática. Nessa linha, AgRg no HC n. 659.332/RJ, Ministro Olin do Menezes (Desembargador convocado do TRF/1ª Região), Sexta Turma, DJe 17/5/2021.
+À vista do exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. LAVAGEM DE DINHEIRO E ORGANIZAÇÃO CRIMINOSA. TRANCAMENTO DO INQUÉRITO. FALTA DE INTERESSE DE AGIR. PACIENTE NÃO INVESTIGADO. BLOQUEIO PATRIMONIAL CAUTELAR. AUSÊNCIA DE AMEAÇA À LIBERDADE DE LOCOMOÇÃO. IMPETRAÇÃO CONTRA DECISÃO MONOCRÁTICA. INADEQUAÇÃO DA VIA ELEITA. PRECEDENTES.
+Petição inicial indeferida liminarmente.
