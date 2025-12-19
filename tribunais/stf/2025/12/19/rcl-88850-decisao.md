@@ -1,0 +1,92 @@
+Trata-se de reclamação proposta por Vilásio Krainer contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná na Ação Rescisória n. 0110296- 68.2023.8.16.0000, para garantir a autoridade do que decidido na Ação Direta de Inconstitucionalidade 5.510/PR.
+
+O reclamante narra que:
+
+A controvérsia objeto da presente Reclamação Constitucional emerge no contexto de decisão do Tribunal de Justiça do Estado do Paraná, que reconheceu o direito dos Auditores Fiscais inativos de receberem o “bolão de produtividade” (Autos nº 824/2005 | 2ª Vara da Fazenda Pública da Comarca da Região Metropolitana de Curitiba), garantindo-lhes isonomia com os Auditores Fiscais em atividade. Essa decisão (Acórdão nº 484.865-9) transitou em julgado e alinha-se à jurisprudência pacífica do e. Supremo Tribunal Federal, que reconhece a extensão de direitos previdenciários e remuneratórios aos servidores públicos inativos: [...]
+Com base nesse julgado, a Administração Pública estadual prontamente implementou o pagamento aos inativos, incluindo aqueles provenientes dos cargos AF-1 e AF-2. No entanto, nas Ações de Cumprimento de Sentença propostas para assegurar o direito às parcelas vencidas, o Tribunal de Justiça do Estado do Paraná passou a afirmar que os Auditores Fiscais oriundos dos cargos AF-1 e AF-2 não tinham legitimidade para ingressar com tais ações, sob o argumento de que haviam sido providos inconstitucionalmente (Acórdão nº 0007599- 40.2012.8.16.0004): [...]
+Esse entendimento levou a um paradoxo: os mesmos indivíduos são reconhecidos como Auditores Fiscais para fins de direitos futuros, com o pagamento das parcelas vincendas do “bolão”, mas não para a percepção de parcelas pretéritas já vencidas, respeitados os limites temporais. Esse entendimento gera um efeito retroativo de inconstitucionalidade, sugerindo que a constitucionalidade da lei só se consolidaria após decisão judicial confirmatória, o que é incompatível com o princípio da presunção de constitucionalidade das normas.
+O quadro teratológico criado pelo Tribunal de Justiça do Estado do Paraná transitou em julgado para diversos Autores, em que os antigos AF-1 e AF-2 inativos são tratados como Auditores Fiscais, por força da decisão do próprio Tribunal nos Autos nº 824/2005, recebendo os mesmos direitos dos Auditores Fiscais em atividade, mas são considerados como simples Agentes Fiscais pelo mesmo Tribunal, quando se trata de demandas em que buscam perceber as parcelas atrasadas vencidas.
+A tese de ilegitimidade funcionou – e tem funcionado – como artifício processual abusivo, sugerindo indevidamente que o direito dos Auditores Fiscais oriundos dos cargos AF-1 e AF-2 não decorre da lei, mas exclusivamente da decisão judicial proferida nos Autos nº 824/2005. Evidencia-se que tal argumentação foi utilizada unicamente para resguardar um interesse público secundário: a contenção de despesas por meio da negativa ao pagamento das parcelas vencidas, evitando um maior impacto orçamentário.
+No entanto, para dissipar qualquer possível dúvida, em 2023, ao julgar a ADI 5510, o e. Supremo Tribunal Federal, como já referido, declarou a constitucionalidade das leis que transformaram os cargos de Agentes Fiscais AF-1 e AF-2 em Auditores Fiscais (doc. 1, pp. 10-12 - sem os grifos do original).
+Sustenta, em suma, que o Tribunal reclamado:
+
+[...] ao afastar a legitimidade ativa dos cargos AF-1 e AF-2 para pleitear o pagamento das parcelas vencidas, desconsidera a interpretação constitucional consolidada pela Suprema Corte, que, de forma clara e inequívoca, reconheceu a constitucionalidade da conversão dos cargos de Agente Fiscal AF-1 e AF-2 em Auditor Fiscal.
+Ao adotar posição divergente, a decisão do Tribunal de Justiça do Estado do Paraná configura uma interpretação incompatível com a orientação vinculante do e. Supremo Tribunal Federal, resultando em uma disparidade jurídica ao tratar os servidores oriundos dos cargos AF1 e AF-2 como inelegíveis para pleitear direitos já devidamente reconhecidos.
+Tal contradição caracteriza uma afronta direta à autoridade da decisão paradigmática, uma vez que, conforme o entendimento do e. Supremo Tribunal Federal, os Agentes Fiscais AF-1 e AF-2 gozam dos mesmos direitos dos Auditores Fiscais, incluindo o direito ao pagamento das parcelas vencidas, especialmente no que tange aos efeitos retroativos da conversão, que se configuram como um direito inalienável. Diante disso, a interpretação contrária do Tribunal de Justiça do Estado do Paraná representa uma violação flagrante à autoridade da decisão que consagrou esses direitos, pois subverte a equivalência jurídica estabelecida pelo e. Supremo Tribunal Federal, comprometendo, assim, a segurança jurídica e a efetividade dos direitos dos servidores (doc. 1, p. 16 - sem os grifos do original).
+
+Ao final, requer:
+
+a) Seja concedida a medida liminar pleiteada para determinar a imediata suspensão dos efeitos do acórdão proferido na Ação Rescisória nº 0110296-68.2023.8.16.0000, especialmente no que tange à exclusão dos servidores AF-1 e AF-2 do título executivo formado nos autos da Ação Coletiva nº 824/2005, bem como a suspensão de todos os atos de execução fundados na mencionada decisão que violem a autoridade da ADI 5510, até o julgamento final da presente Reclamação Constitucional;
+b) Seja julgada totalmente procedente a presente Reclamação Constitucional, para o fim de que seja cassada a decisão reclamada, determinando-se a imediata observância dos termos da decisão proferida na ADI 5510, com a adoção de todas as medidas que o e. Relator entender necessárias para garantir a autoridade da decisão vinculante do e. Supremo Tribunal Federal, assegurando a efetividade da interpretação constitucional nela contida;
+c) Seja temporariamente suspensa a tramitação do Recurso Extraordinário nº 1580280, em trâmite no e. Superior Tribunal de Justiça, até o julgamento definitivo da presente Reclamação Constitucional, com vistas a evitar que o exame do Recurso se dê em descompasso com a decisão paradigmática que vincula a intepretação constitucional sobre o tema; (doc. 1, p. 20-21 - sem os grifos do original).
+
+É o relatório. Decido.
+
+Preliminarmente, observo que a parte autora não recolheu as custas iniciais. Assim, recolha o reclamante as devidas custas, no prazo de 5 dias, sob pena de inscrição em dívida ativa e não conhecimento de eventual recurso.
+
+Em razão da alegada urgência, analiso o mérito.
+
+Observo que a ação está apta a ser julgada; por isso, deixo de requisitar as informações e de enviar o feito à Procuradoria-Geral da República (arts. 52, parágrafo único, e 161, parágrafo único, ambos do Regimento Interno do Supremo Tribunal Federal – RISTF).
+
+A reclamação é incabível, conforme será exposto.
+
+Consta dos autos que a ação rescisória interposta pelo reclamante foi julgada improcedente pelo Tribunal de Justiça do Estado do Paraná, por meio de acórdão cuja ementa transcrevo:
+
+DIREITO PREVIDENCIÁRIO E PROCESSUAL CIVIL. AÇÃO RESCISÓRIA FUNDADA NO ART. 966, INCISOS IV E V, DO CÓDIGO DE PROCESSO CIVIL. AUTOR QUE ALMEJA RESCINDIR ACÓRDÃO NO QUAL SE RECONHECEU A ILEGITIMIDADE DO AUTOR PARA AJUIZAMENTO DO CUMPRIMENTO DE SENTENÇA PROFERIDA NA AÇÃO COLETIVA Nº 824/2005, QUE ESTENDEU AOS AUDITORES FISCAIS APOSENTADOS E PENSIONISTAS O DIREITO AO RECEBIMENTO DO PRÊMIO DE PRODUTIVIDADE. (1) PRELIMINAR DE INÉPCIA DA INICIAL – ALEGAÇÃO DE QUE DOS FATOS NARRADOS NÃO DECORRE LOGICAMENTE A CONCLUSÃO – ALEGAÇÃO QUE SE CONFUNDE COM O MÉRITO – POSTERIOR ANÁLISE. (2) MANIFESTA VIOLAÇÃO À NORMA JURÍDICA – NÃO OCORRÊNCIA – DECISÃO DO ACÓRDÃO RESCINDENDO QUE NÃO É TERATOLÓGICA E FOI FUNDAMENTADA NO INCIDENTE DE DECLARAÇÃO DE INCONSTITUCIONALIDADE Nº 315.638-3/01 – ADEMAIS, NORMAS LEGAIS QUE SEQUER FORAM MENCIONADAS – ALTERAÇÃO DE ENTENDIMENTO JURISPRUDENCIAL QUE NÃO AUTORIZA O AJUIZAMENTO DE AÇÃO RESCISÓRIA. (3) OFENSA À COISA JULGADA – AFASTAMENTO – ACÓRDÃO RESCINDENDO QUE INTERPRETOU O TÍTULO PARA MELHOR DEFINIÇÃO DE SEU ALCANCE E EXTENSÃO. (4) MULTA POR LITIGÂNCIA DE MÁ-FÉ – NÃO ACOLHIMENTO – ESTADO DO PARANÁ QUE RETIFICOU O PRONUNCIAMENTO ANTERIOR. (5) CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS DE 10% (DEZ POR CENTO) SOBRE O VALOR ATUALIZADO DA CAUSA PELO AUTOR.
+1. As alegações contidas na preliminar de inépcia da inicial se confundem com o mérito e, portanto, com ele deverá ser analisado.
+2. Conforme pondera o Superior Tribunal de Justiça, a violação manifesta a norma jurídica a autorizar a propositura da ação rescisória deve ser “flagrante, cristalina, ou seja, quando a decisão rescindenda conferir interpretação manifestamente contrária ao conteúdo da norma” (AgInt na AR n. 6.991/BA, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 5/3/2024, DJe de 7/3/2024). Não é o que ocorre no presente caso, uma vez que a decisão do acórdão rescindendo foi fundamentada no acórdão proferido no incidente de declaração de inconstitucionalidade nº 315.638-3/01 do Órgão Especial deste Tribunal de Justiça.
+3. Normas legais tida como violadas que sequer foram mencionadas no acórdão rescindendo não podem servir de fundamento para o ajuizamento da ação rescisória.
+4. Eventual alteração de entendimento, de igual forma, não autoriza o ajuizamento da ação rescisória, de maneira que não socorre o autor a invocação do recente julgamento da ação direta de inconstitucionalidade nº 5510 pelo Supremo Tribunal Federal.
+5. Na esteira do entendimento do Superior Tribunal de Justiça, “inexiste ofensa à coisa julgada quando o magistrado, em sede de cumprimento de sentença, interpreta o título judicial para melhor definir seu alcance e extensão” (AgInt no REsp n. 2.017.368/PR, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 26/6/2023, DJe de 28/6/2023)
+6. Diante da retificação do pronunciamento anterior pelo Estado do Paraná, em que confirmou que a ação individual se trata de fato diverso da ação coletiva, não há justificativa para a condenação em multa por litigância de má-fé.
+AÇÃO RESCISÓRIA IMPROCEDENTE (doc. 6, pp. 1-2 - sem os grifos do original).
+
+Contra essa decisão foram opostos embargos de declaração, os quais foram rejeitados, e interpostos recursos especial e extraordinário, ambos inadmitidos.
+
+A decisão que inadmitiu o recurso extraordinário possui os seguintes fundamentos:
+
+[...]
+Verifica-se que no presente caso o acórdão recorrido teve como fundamento a inexistência das hipóteses dos incisos do artigo 966 do Código de Processo Civil, que amparariam o cabimento da ação rescisória.
+Conforme entendimento do Supremo Tribunal Federal “(...) A jurisprudência do Supremo Tribunal Federal é firme no sentido de que controvérsia sobre cabimento de ação rescisória se enquadra no âmbito infraconstitucional, o que não permite a abertura da via recursal extraordinária. (...)” (STF - ARE 1377349 AgR, Relator(a): ROBERTO BARROSO, Primeira Turma, julgado em 30-05-2022, PROCESSO ELETRÔNICO DJe-107, DIVULG 01-06-2022 PUBLIC 02-06-2022).
+E ainda ao caso incide a Súmula 282, do Supremo Tribunal Federal, pois o acórdão recorrido está embasado em norma infraconstitucional (artigo 966 e incisos, do Código de Processo Civil) e não houve pronunciamento expresso a respeito dos artigos constitucionais apontados pelo Recorrente como violados.
+A respeito, a jurisprudência do Superior Tribunal de Justiça: [...]
+III – Diante do exposto, inadmito o recurso extraordinário com base no entendimento jurisprudencial citado e incidência da súmula 282 do STF (site do Tribunal de Justiça do Estado do Paraná).
+
+Contra essa decisão, o reclamante interpôs agravo, o qual foi encaminhado a esta Suprema Corte e autuado sob o n. 1.580.280/PR.
+
+Em consulta ao site do Supremo Tribunal Federal observa-se que o Ministro Presidente negou seguimento ao recurso, sob os seguintes fundamentos:
+
+Analisados os autos, verifica-se que o(s) art(s). 102, § 2º, da Constituição, apontado(s) como violado(s), carece(m) do necessário prequestionamento, sendo certo que os acórdãos proferidos pelo Tribunal de origem não cuidaram da(s) referida(s) norma(s). Além disso, a matéria apresentada apenas nos embargos de declaração não supre o requisito do prequestionamento quando ficar caracterizada a inovação recursal. Incidem na espécie as Súmulas 282 e 356/STF. Nesse sentido: [...]
+Ademais, colhe-se do voto condutor do acórdão atacado a seguinte fundamentação: [...]
+Desse modo, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente e reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário, nos termos da Súmula 279 /STF. Sobre o tema: [...]
+No mesmo sentido: RE nº 1.231.979/RJ - ED, Segunda Turma, Rel. Min. Cármen Lúcia, DJe de 18/12/2019; RE nº 1.173.779/RS-AgR, Segunda Turma, Rel. Min. Gilmar Mendes, DJe de 31/05/2019 e RE nº 832.960/DFAgR, Primeira Turma, Rel. Min Luiz Fux, DJe de 21/05/2019.
+Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal) (site do Supremo Tribunal Federal).
+
+O agravo regimental interposto encontra-se pendente de julgamento.
+
+Sendo assim, a reclamação é incabível, por acarretar o reexame de causa que já foi apreciada por esta Suprema Corte em recurso extraordinário com agravo. Nesse sentido, a jurisprudência do Supremo Tribunal Federal:
+
+Agravo regimental na reclamação. 2. Ato reclamado proferido pelo STJ que já foi analisado por esta Corte em agravo em recurso extraordinário. ARE 1.244.235/GO. 3. Não cabimento de reclamação para reexaminar causa já apreciada pelo STF. Precedentes de ambas as Turmas. 4. Alegada violação ao tema 161 da sistemática da repercussão geral. Ausência de similitude fática e de estrita aderência. 5. Inexistência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental não provido (Rcl 42.115 AgR/GO, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 1º/10/2020).
+
+AGRAVO INTERNO NA RECLAMAÇÃO CONSTITUCIONAL. INDEVIDA UTILIZAÇÃO DA VIA RECLAMATÓRIA PARA IMPUGNAÇÃO DE ACÓRDÃO QUE JÁ FOI OBJETO DE QUESTIONAMENTO, NESTA CORTE, EM SEDE DE RECURSO EXTRAORDINÁRIO COM AGRAVO DE INSTRUMENTO. IMPUGNAÇÃO QUE SE INSURGE, POR VIA OBLÍQUA, CONTRA A PRÓPRIA DECISÃO PROFERIDA PELO SUPREMO TRIBUNAL FEDERAL EM SEDE RECURSAL. INADMISSIBILIDADE. PRECEDENTES. ALEGAÇÃO DE MÁ APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL. COOPERATIVA DE TRABALHO MÉDICO. INCIDÊNCIA DA CONTRIBUIÇÃO DO PIS SOBRE ATOS PRATICADOS COM TERCEIROS TOMADORES DE SERVIÇOS. AUSÊNCIA DE TERATOLOGIA NA APLICAÇÃO DA TESE FIRMADA NO RE 599.362. AGRAVO INTERNO NÃO PROVIDO. 1. A jurisprudência consolidada desta Suprema Corte tem compreendido incabível a reclamação em hipóteses nas quais o ato reclamado já tenha sido objeto de questionamento, neste Tribunal, ainda que em sede processual diversa, porque inadmissível (i) a rediscussão de matéria já apreciada por este Tribunal, e (ii) a impugnação, por via oblíqua, de decisões proferidas por Ministros, pelas Turmas, ou pelo Plenário desta Corte. 2. Na linha de entendimento externado pelo Ministro Luís Roberto Barroso, “a mesma parte não pode fazer uso das diferentes espécies de acesso ao Supremo Tribunal Federal com o objetivo de obter julgamento diverso sobre o mesmo caso concreto, assim considerado como mesmo ato impugnado e mesma questão constitucional controvertida. Entender-se em sentido contrário violaria o art. 505 do CPC, segundo o qual ‘nenhum juiz decidirá novamente as questões já decididas relativas à mesma lide’” (Rcl 37.321-AgR/PE, Rel. Min. Roberto Barroso, Primeira Turma, DJe 28.5.2020). 3. A decisão reclamada foi proferida em harmonia com que decidido no paradigma de repercussão geral firmado ao julgamento do RE 599.362-RG (Tema 323). 4. Agravo interno conhecido e não provido (Rcl 35.955 AgR/PR, Rel. Min. Rosa Weber, Primeira Turma, DJe 14/6/2021).
+
+EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. EMBARGOS CONHECIDOS COMO AGRAVO REGIMENTAL. ART. 1.024, § 3°, DO CPC/2015. CAUSA JÁ APRECIADA PELO SUPREMO TRIBUNAL FEDERAL. NÃO CABIMENTO. UTILIZAÇÃO DA RECLAMAÇÃO COMO SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE. AGRAVO A QUE SE NEGA PROVIMENTO. I – A reclamação não é cabível quando implicar no reexame de causa que já foi apreciada por esta Corte em recurso extraordinário com agravo. II – A reclamação não pode ser utilizada como sucedâneo recursal. III – Embargos de declaração conhecidos como agravo regimental, a que se nega provimento (Rcl 47.639 ED/SP, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 31/8/2021)
+
+PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. ACÓRDÃO IMPUGNADO QUE JÁ FOI ANALISADO EM SEDE DE RECURSO EXTRAORDINÁRIO. IMPOSSIBILIDADE DE REDISCUSSÃO DE MATÉRIA JÁ DECIDIDA POR ESTA SUPREMA CORTE. RECURSO DE AGRAVO A QUE SE NEGA PROVIMENTO. 1. O Acórdão Reclamado foi alvo de Recurso Extraordinário, ao qual foi dado trâmite por meio do RE 1.331.557, de minha relatoria. 2. A Reclamação Constitucional não pode ser utilizada para rediscutir matéria já decidida por membro desta SUPREMA CORTE. A impugnação de decisões proferidas por Ministros ou Órgãos que compõem o SUPREMO, no exercício de suas atribuições, são de competência da própria CORTE, somente podendo ser realizada por interposição de recursos adequados. 3. Recurso de Agravo a que se nega provimento (Rcl 52.747 AgR/GO, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe 15/6/2022).
+
+Enfatizo, por oportuno, que a reclamação não tem a finalidade de substituir as vias processuais ordinárias, sendo equivocada a sua utilização como sucedâneo de recurso ou da medida processual eventualmente cabível.
+
+O papel atribuído pela Constituição a esse instituto é o de garantir a integridade do ordenamento jurídico mediante a tutela da efetividade das decisões desta Suprema Corte, bem como de sua competência jurisdicional. Como assinalado pelo Ministro Celso de Mello:
+
+[...] a reclamação não se qualifica como sucedâneo recursal, nem configura instrumento viabilizador do reexame do conteúdo do ato reclamado, nem traduz meio de uniformização de jurisprudência, eis que tais finalidades revelam-se estranhas à destinação subjacente à instituição dessa medida processual (Rcl 34.519 AgR/PB, DJe  4/5/2020).
+
+Ante o exposto, nego seguimento a esta reclamação (art. 21, § 1º, do RISTF).
+
+Sem condenação em honorários, pois não houve angularização processual.
+
+Publique-se.
+
+Brasília, 19 de dezembro de 2025.
+
+Ministro Cristiano Zanin
+Relator
