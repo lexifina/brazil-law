@@ -1,0 +1,25 @@
+DECISÃO
+1. Cuida-se de embargos de divergência interpostos por WAGNER CANHEDO AZEVEDO em face de acórdão proferido pela Primeira Turma, da relatoria do Ministro Sérgio Kukina, que negou provimento ao agravo interno do ora insurgente, confirmada a decisão monocrática que manteve a inadmissão do seu recurso especial, nos termos da seguinte ementa:
+TRIBUTÁRIO E PROCESSUAL CIVIL. ART. 1.022 DO CPC. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. GRUPO ECONÔMICO. RESPONSABILIDADE TRIBUTÁRIA. ABUSO DE PERSONALIDADE JURÍDICA. CONFUSÃO PATRIMONIAL. VERIFICAÇÃO. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Incidência do óbice da Súmula 284 do STF.
+2. Não se admite, em sede de recurso especial, o reexame dos elementos do processo a fim de apurar a existência ou não de abuso de personalidade jurídica e confusão patrimonial aptos a autorizar a responsabilidade tributária, com fundamento em análise das provas colhidas nos autos, incidindo, assim, o óbice da Súmula 7/STJ.
+3. Agravo interno não provido.
+Em suas razões, a embargante aponta dissenso interpretativo entre o acórdão recorrido e julgado da Corte Especial no sentido de que "a falta de indicação expressa da norma constitucional que autoriza a interposição do recurso especial (alíneas a, b e c do inciso III do art. 105) implica o seu não conhecimento pela incidência da Súmula n. 284 do STF, salvo, em caráter excepcional, se as razões recursais conseguem demonstrar, de forma inequívoca, a hipótese de seu cabimento" (EAREsp n. 1.672.966/MG, relatora Ministra Laurita Vaz, Corte Especial, julgado em 20/4/2022, DJe de 11/5/2022). Ao final, pugna pela inaplicabilidade da Súmula n. 284/STF à espécie.
+É o relatório. Decido.
+2. Os embargos de divergência devem ser liminarmente indeferidos.
+Nos termos dos artigos 266 do RISTJ e 1.043 do CPC/2015, tal recurso tem, como requisito de admissibilidade, a existência de dissenso interpretativo entre diferentes órgãos fracionários desta Corte, devendo ter sido apreciada a matéria de mérito do recurso especial, seja de natureza processual seja material.
+Diante desse quadro, não são cabíveis embargos de divergência para o reexame de regras técnicas alusivas ao conhecimento do recurso especial, a exemplo da Súmula n. 284 do STF, que respaldou a decisão embargada.
+Nesse sentido:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. REGRA TÉCNICA DE ADMISSIBILIDADE RECURSAL. SÚMULA 284 DO STF.
+1. Os embargos de divergência têm como requisito de admissibilidade a existência de dissenso interpretativo entre diferentes órgãos jurisdicionais deste Tribunal Superior, desde que tenha sido apreciada a matéria de mérito do recurso especial - seja de natureza processual seja material -, tendo em vista que este recurso é incabível para o reexame de regra técnica de admissibilidade recursal, como sói ser a incidência da Súmula 284 do STF, que respaldou a decisão embargada.
+2.Agravo interno não provido. (AgInt nos EDcl nos EDcl no AgInt nos EDcl nos EREsp n. 1.826.520/RS, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 24/8/2021, DJe de 31/8/2021)
+--
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. REGRA TÉCNICA DE JULGAMENTO. SÚMULA 284/STF. NÃO CONHECIMENTO DO APELO NOBRE POR DE INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL SUPOSTAMENTE INTERPRETADO DE MANEIRA DIVERGENTE. AUSÊNCIA DE MANIFESTAÇÃO DE MÉRITO. NÃO CABIMENTO DO RECURSO UNIFICADOR. SÚMULA 315/STJ. AGRAVO INTERNO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+ ..
+2. É firme a orientação jurisprudencial deste Sodalício no sentido de que o Recurso Uniformizador não se presta a discutir o erro ou o acerto da decisão quanto à incidência ou não de regra técnica de conhecimento de Recurso Especial, tal como a incidência da Súmula 284 do STF, que respaldou o acórdão embargado.
+3. A interposição do recurso de Embargos de Divergência somente tem êxito quando o acórdão recorrido, posto em confronto com exemplares da jurisprudência do STJ, revela discrepância de solução judicial dada a casos processuais que guardem entre si similitude fática/jurídica, de tal modo que fique em evidência a discrepância entre os exemplares decisórios.
+4. Agravo Interno do Particular a que se nega provimento. (AgInt nos EDv nos EREsp n. 1.799.950/SP, relator Ministro Napoleão Nunes Maia Filho, Primeira Seção, julgado em 11/3/2020, DJe de 18/3/2020)
+O caso é, portanto, de incidência da Súmula n. 315/STJ, segundo a qual "não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+3. Ante o exposto, indefiro liminarmente os embargos de divergência e afasto a incidência do § 11 do artigo 85 do CPC, por não ter sido arbitrada verba honorária em detrimento do ora embargante na instância ordinária.
+Publique-se. Intimem-se.
+EMENTA
