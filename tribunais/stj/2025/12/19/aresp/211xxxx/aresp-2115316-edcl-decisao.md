@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por AURÉLIO DA SILVA ZORZI contra decisão monocrática que, com amparo no artigo 932, III e IV, "a", do CPC e artigo 253, parágrafo único, II, "a" e "b", do RISTJ, conheceu do agravo para não conhecer do recurso especial, além de majorar honorários recursais em 2% (artigo 85, § 11, do CPC).
+Sustenta o embargante, em síntese: (i) omissão quanto à extensão do efeito devolutivo do REsp (lista de dispositivos que entende não apreciados); (ii) omissão quanto às questões supostamente não enfrentadas pelo Tribunal local; (iii) omissão/obscuridade na incidência da Súmula 83 do STJ; (iv) omissão quanto à aplicação das Súmulas 5 e 7 do STJ; (v) erro material porque a decisão teria indicado como ação de origem "extinção de condomínio", quando se trataria de "ação de cobrança"; e (vi) omissão/erro material na majoração dos honorários recursais, por alegada inexistência de honorários fixados na origem.
+É o breve relato.
+Decido.
+1. Em relação à alegada omissão quanto ao "efeito devolutivo" e a dispositivos não analisados, a decisão embargada delimitou os pontos relevantes para o desate da controvérsia e, a partir das premissas do acórdão recorrido, concluiu pela inviabilidade do conhecimento do especial. A indicação, nos aclaratórios, de outros dispositivos tidos por violados (por exemplo, artigos 7º, 11, 934, 935, 1.024, § 1º, do CPC; artigos 142 do CPC; artigos 104, 848 e 850 do CC; artigos 1.314 do CC; artigos 506 do CPC; artigo 47 do CPC) traduz, em grande medida, inconformismo com o desfecho e pretensão de rediscutir matéria já solucionada, providência incompatível com a via integrativa.
+Ainda assim, para afastar qualquer alegação de omissão, consigno que a razão de decidir firmada na decisão embargada  especialmente quanto à necessidade de ação própria para desconstituir transação homologada e quanto aos óbices sumulares  é suficiente para sustentar o resultado de inadmissão do apelo extremo, sendo desnecessário enfrentar, um a um, todos os dispositivos listados pela parte, quando não aptos a infirmar os fundamentos determinantes.
+Rejeito os embargos no ponto.
+2. Em relação à alegada negativa de prestação jurisdicional, a decisão embargada foi expressa ao afirmar inexistir violação aos artigos 11, 489 e 1.022 do CPC, porquanto o Tribunal de origem apreciou as questões necessárias ao deslinde. Logo, não se vislumbra nenhuma das hipóteses legais.
+Rejeito os embargos no ponto.
+3. Igualmente, não procede à alegação de omissão/obscuridade em relação à Súmula 83 do STJ. A decisão embargada transcreveu trecho do acórdão do TJMG (fl. 571, e-STJ), explicitando a premissa de que terceiro interessado deve ajuizar ação própria, e, na sequência, registrou a jurisprudência desta Corte e a incidência da Súmula 83 do STJ, consoante fl. 965 e-STJ.
+4. Quanto ao direito de preferência (artigos 504 do CC), a decisão embargada consignou que a pretensão recursal demandaria reexame do conjunto fático-probatório e interpretação do acordo, atraindo os óbices das Súmulas 5 e 7 do STJ, com apoio em precedente específico. A alegação do embargante de que buscaria "mera requalificação jurídica" não evidencia omissão; revela, novamente, pretensão de rejulgamento da controvérsia, inadequada em embargos declaratórios.
+Rejeito, portanto, os aclaratórios no ponto.
+5. Em relação à ação de origem, assiste razão ao embargante apenas para fins de correção formal. Com efeito, a decisão embargada consignou que se trataria de "ação de extinção de condomínio". Todavia, o embargante aponta, com reprodução de peça, que a ação de origem seria "ação de cobrança", e requer a retificação.
+Trata-se de erro material sanável, sem repercussão no resultado do julgamento (mantidos os fundamentos de inadmissão do especial).
+6. A decisão embargada majorou honorários recursais em 2% "fixados na origem".
+O embargante sustenta, porém, que não houve fixação de honorários na origem, invocando a orientação da Corte Especial quanto aos pressupostos cumulativos para a majoração.
+Aqui, cabe esclarecimento integrativo: a majoração prevista no artigo 85, § 11, do CPC pressupõe a existência de honorários sucumbenciais fixados anteriormente.
+Assim, a verba recursal somente incide se, de fato, houver honorários estabelecidos na origem; inexistindo, fica inviabilizada a majoração.
+7. Em face do acolhimento parcial dos embargos, resta prejudicado o pedido de condenação por litigância de má-fé.
+8. Do exposto, acolho parcialmente os embargos de declaração apenas para: (i) corrigir erro material quanto à referência à natureza da ação originária; e (ii) esclarecer que a majoração de honorários recursais (artigo 85, § 11, CPC) fica condicionada à prévia fixação de honorários na origem, mantido, no mais, o decisum embargado quanto ao não conhecimento do recurso especial.
+Publique-se.
+Intime-se.
+EMENTA
