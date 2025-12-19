@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC), interposto por CLÁUDIO TADEU GABRIELLI; LUCIANA DE FREITAS GABRIELLI, contra decisão que não admitiu recurso especial.
+O apelo extremo, fundamentado nas alíneas a e c do permissivo constitucional, desafiou acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado (fl. 497, e-STJ):
+AGRAVO DE INSTRUMENTO
+Cumprimento de Sentença
+Decisão que determinou o retorno dos autos a contadoria para elaboração do cálculo de acordo com os termos da sentença, para descontos dos valores efetivamente pagos pelos agravantes aos agravados, acrescido dos honorários de sucumbência
+Inconformismo dos executados, alegando, que os cálculos apresentados estavam corretos, pois, deve ser considerado o valor pago aos cedentes e antigos proprietários do bem, conforme planilha apresentada
+Parcial cabimento
+Necessidade de elaboração de novo cálculo de acordo com o título exequendo
+Valores pagos pelos agravantes aos cedentes que deverá integrar o montante a ser restituído, conforme consignado no acórdão que julgou o recurso de apelação interposto pelos agravantes
+Recurso parcialmente provido.
+Opostos embargos de declaração, foram rejeitados nos termos dos acórdãos de fls. 606-609 e 623-626, e-STJ.
+Nas razões de recurso especial (fls. 506-531, e-STJ), aponta a parte recorrente ofensa aos seguintes dispositivos: arts. 1.022, I e II; 489, § 1º, IV; 502, do CPC; art. 93, IX, da Constituição Federal.
+Sustenta, em síntese: omissão no acórdão dos EDcl quanto à inclusão, na restituição, de valores reconhecidos como quitados (R$ 3.000,00), com total de R$ 46.500,00, em violação aos arts. 1.022, I e II, e 489, § 1º, IV, do CPC; afronta à coisa julgada (art. 502 do CPC), sem necessidade de revolvimento de provas; e dissídio jurisprudencial com o EDcl no AgRg no REsp 1.438.516-SP sobre omissão e coisa julgada, com não incidência da Súmula n. 7/STJ.
+Contrarrazões apresentadas às fl. 647, e-STJ.
+Em juízo de admissibilidade (fls. 657-659, e-STJ), negou-se o processamento do recurso especial, dando ensejo ao presente agravo (fls. 662-683, e-STJ).
+Contraminuta apresentada às fls. 686-691, e-STJ.
+É o relatório.
+Decido.
+O inconformismo merece prosperar no que diz respeito à aventada negativa
+de prestação jurisdicional.
+1. Quanto à ofensa aos 489, II e 1.022, II do CPC/15, ao argumento de que o decisum atacado não restou suficientemente fundamentado, pois deixou de analisar questões relevantes suscitadas no recurso, razão assiste à parte recorrente, conforme será exposto.
+Com efeito, a recorrente requereu que a Corte de origem examinasse expressamente a necessidade de pronunciamento do Tribunal no tocante a violação à coisa julgada, bem como em relação aos valores pagos aos cedentes porquanto há clara divergência de ambas as partes no tocante ao valor indicado pelo Tribunal de piso.
+Contudo, da leitura do acórdão que julgou os embargos de declaração opostos pelo ora recorrente, verifica-se que, de fato, tais questões suscitadas não foram analisada pelo Tribunal de piso, o qual limitou-se a rejeitar os aclaratórios de forma genérica.
+Esta Corte tem entendimento no sentido de que deve ser acolhida a preliminar de ofensa ao artigo 1022 do Novo Código de Processo Civil, quando houver deficiência na prestação jurisdicional realizada na origem.
+Nesse sentido, confira-se:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. EXECUÇÃO HIPOTECÁRIA. HOMOLOGAÇÃO DOS CÁLCULOS E DEFERIMENTO DO PEDIDO DE ADJUDICAÇÃO. REMIÇÃO. DEPÓSITO REPUTADO INSUFICIENTE. COMPLEMENTAÇÃO DA DIFERENÇA DE CORREÇÃO MONETÁRIA. OMISSÃO CONFIGURADA. RETORNO DOS AUTOS À ORIGEM. RECURSO PROVIDO. 1. O Tribunal de origem deixou de reconhecer a remição da execução, por considerar a insuficiência do depósito efetuado, tendo em vista os cálculos apresentados pela exequente e homologados pelo juízo da execução. 2. Manejados segundos embargos de declaração, a existência de remição, com a atualização do débito, decorrente de fato superveniente, não foi apreciada. 3. Segundo o entendimento do Superior Tribunal de Justiça, o fato novo, que pode influenciar no resultado da lide, pode ser alegado ainda em sede de embargos de declaração opostos perante a instância de origem. Nesse sentido: AgRg nos EDcl no REsp 1.326.180/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 18/11/2014, DJe de 25/11/2014; REsp 1.071.891/SP, Rel. Ministro Luiz Fux, Primeira Turma, julgado em 18/11/2010, DJe de 30/11/2010; REsp 434.797/MS, Rel. Ministro Ruy Rosado de Aguiar, Quarta Turma, julgado em 26/11/2002, DJ de 10/02/2003. 4. O conhecimento do recurso especial exige a manifestação do Tribunal local acerca da tese de direito suscitada, bem como sobre os elementos fáticos que não podem ser examinados, de plano, na via estreita do recurso especial. Recusando-se a Corte de origem a se manifestar sobre questão federal (complementação oportuna do depósito da remição), fica obstaculizado o acesso à instância extrema, cabendo à parte vencida invocar, como no caso, a infringência do art. 535 do CPC/1973, a fim de anular o acórdão recorrido para que o Tribunal a quo supra a omissão existente. 5. Agravo interno provido para dar provimento ao recurso especial, anulando-se o acórdão proferido em sede de segundos embargos declaratórios, para que outro seja proferido e, assim, sanado o vício constatado. (AgInt nos EDcl no REsp 1.483.664/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 06.11.2018, DJe 12.11.2018)  grifou-se
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. MULTA POR ATO ATENTATÓRIO À DIGNIDADE DA JUSTIÇA. OCORRÊNCIA. EMBARGOS PARCIALMENTE ACOLHIDOS.  ..  2. "Caracterizado o vício da omissão, impõe-se o reconhecimento de ofensa ao art. 535 do CPC, anulando-se o acórdão proferido no julgamento dos embargos de declaração e determinando-se o retorno dos autos à origem para que seja sanada a eiva apontada"(REsp n. 1.187.583/RS, Relator o Ministro Castro Meira, julgado em 6/5/2010, DJe 17/5/2010). 3. Embargos de declaração parcialmente acolhidos, com efeitos infringentes. (EDcl no AgRg nos EDcl no REsp 1556587/RN, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 07/03/2017, DJe 20/03/2017)
+Desta forma, considerando que a referida tese foi posta à apreciação do Tribunal a quo, sem que houvesse, contudo, o devido pronunciamento judicial a respeito, devem ser devolvidos os autos ao Tribunal de origem a fim de que profira novo julgamento, sanando a omissão apontada.
+Desta forma, as demais teses veiculadas no recurso especial ficam prejudicadas.
+2. Do exposto, conheço do agravo para, de plano, dar parcial provimento ao recurso especial interposto por CLAUDIO TADEU GABRIELLI e LUCIANA DE FREITAS GABRIELLI para anular o julgamento dos embargos de declaração (fls. 606-609 e 623-626, e-STJ) e determinar o retorno dos autos ao Tribunal de origem para que seja proferido um novo julgamento e supridas as omissões apontadas.
+Julga-se prejudicado, por ora, o recurso especial de fls. 628-640, e-STJ.
+Publique-se.
+Intimem-se.
+EMENTA
