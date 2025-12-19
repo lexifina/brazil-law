@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por AUSTACLÍNICAS ASSISTÊNCIA MÉDICA E HOSPITALAR LTDA. em face da decisão de fls. 427-429, que determinou a remessa dos autos ao Tribunal de origem em decorrência de incidência do Tema 1.365.
+Em suas razões (e-STJ, fls. 432-434), a embargante aponta omissão na decisão monocrática, ao fundamento de que, além da suspensão determinada em razão do Tema 1.365, seria necessário suspender o julgamento do recurso também em relação ao Tema 1.295, por ser a controvérsia principal a obrigatoriedade de cobertura da Terapia Treini7.
+A peça esclarece que a decisão embargada teria limitado a suspensão ao Tema 1.365 e remetido os autos ao Tribunal de origem, sem enfrentar a correlação com o Tema 1.295, o que configuraria omissão a ser sanada com base no art. 1.022, inc. II, do Código de Processo Civil.
+Assim, requer o conhecimento e o provimento dos embargos de declaração para sanar a omissão, determinando-se que o recurso especial permaneça suspenso até o julgamento de ambos os repetitivos, Temas 1.295 e 1.365, preservando a coerência decisória e evitando solução parcial da controvérsia.
+Contrarrazões apresentadas (e-STJ, fls. 438-440).
+É o relatório. Passo a fundamentar e decidir.
+Como sabido, os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material, não sendo admitida sua oposição com a finalidade de se rediscutir questões decididas e devidamente fundamentadas na decisão embargada, o que significa que os embargos não são aptos a provocar novo julgamento da lide.
+No caso em análise, o embargante sustenta a existência de vício de omissão na decisão monocrática que determinou a suspensão do processo até o julgamento do Tema 1.365 e a remessa dos autos ao Tribunal de origem, porque teria deixado de determinar, também, a suspensão em relação ao Tema 1.295.
+As decisões de afetação dos REsps 2.153.672 /SP e REsp 2.167.050/SP delimitaram o Tema 1.295, nos termos da seguinte ementa:
+"PROPOSTA DE AFETAÇÃO. RITO DOS RECURSO ESPECIAIS REPETITIVOS. DIREITO DO CONSUMIDOR E DIREITO À SAÚDE. PROCESSUAL CIVIL. TRANSTORNOS GLOBAIS DO DESENVOLVIMENTO - TGD. TERAPIA MULTIDISCIPLINAR. LIMITAÇÃO OU RECUSA DA OPERADORA DE PLANO DE SAÚDE - MULTIPLICIDADE DE RECURSOS. ALTA RECORRIBILIDADE. DISPERSÃO JURISPRUDENCIAL NAS INSTÂNCIAS ORDINÁRIAS. SISTEMA DE PRECEDENTES. GESTÃO PROCESSUAL. RECURSO AFETADO.
+1. Controvérsia relativa à possibilidade de o plano de saúde limitar ou recusar a cobertura de terapia multidisciplinar prescrita ao paciente com transtorno global do desenvolvimento.
+2. A jurisprudência do STJ orientou-se no sentido de que se revela abusiva a recusa ou limitação de cobertura de tratamento multidisciplinar prescrito para paciente com transtorno global do desenvolvimento. Profusão de precedentes.
+3. No entanto, malgrado o STJ tenha fixado orientação jurisprudencial uniforme, tem-se verificado significativa dispersão jurisprudencial acerca da matéria, com altíssimo índice de recorribilidade, o que tem conduzido à multiplicidade de recursos nesta Corte Superior.
+4. Além dos fundamentos usualmente apontados como justificadores da adoção do sistema de precedentes pela legislação brasileira - estabilidade e previsibilidade decisórias, unidade e coerência sistêmicas, segurança jurídica, isonomia e celeridade - também a racionalização da gestão processual, notadamente diante da massificação da litigiosidade, se revela como significativo alicerce da mudança de paradigma.
+5. Caso concreto em que o Tribunal de origem limitou o número de sessões anuais ao paciente com transtorno global do desenvolvimento, na hipótese, transtorno do espectro autista - TEA.
+6. Questão federal afetada: possibilidade ou não de o plano de saúde limitar ou recusar a cobertura de terapia multidisciplinar prescrita ao paciente com transtorno global do desenvolvimento.
+7. Recurso especial afetado ao rito dos recursos repetitivos, com determinação de sobrestamento de recursos especiais e agravos nos próprios autos, nos termos do art. 1.037, II, do CPC/2015."
+(ProAfR no REsp n. 2.153.672/SP, Relator Ministro ANTONIO CARLOS FERREIRA, SEGUNDA SEÇÃO, j. 19/11/2024, DJe de 26/11/2024, g.n.)
+Contudo, o Tema 1.295 não guarda pertinência temática com a presente demanda. Consoante acima consignado, referido tema versa sobre transtorno do espectro autista, patologia que apresenta natureza e características completamente distintas da paralisia cerebral de que é portadora a Autora, conforme se extrai do acórdão do Tribunal de origem (e-STJ, fls. 258-272).
+Inexiste, portanto, identidade fática entre as situações jurídicas em análise, motivo pelo qual a determinação de suspensão processual em razão desse tema repetitivo revelar-se-ia tecnicamente inadequada e juridicamente descabida.
+Assim, a decisão proferida examinou adequadamente a matéria controvertida e determinou a suspensão do feito exclusivamente em relação ao tema repetitivo efetivamente aplicável à hipótese concreta dos autos.
+Dessa maneira, verifica-se que a decisão ora embargada enfrentou adequadamente todas as questões suscitadas, demonstrando a inconsistência da argumentação da parte, razão pela qual não se constata omissão a ser sanada.
+Conclui-se, portanto, pela rejeição dos embargos.
+A propósito:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO MANDADO DE SEGURANÇA. INEXISTÊNCIA DE OMISSÃO. EMBARGOS DE DECLARAÇÃO REJEITADOS. CARÁTER PROTELATÓRIO EVIDENCIADO. APLICAÇÃO DA MULTA PREVISTA NO ART. 1.026, § 2º, DO CPC.
+1. Consoante o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão do acórdão atacado ou, ainda, para correção de erro material, não se revelando meio idôneo para fazer prevalecer o entendimento do embargante quanto à matéria já decidida.
+Precedentes.
+2. A jurisprudência desta Corte é firme no sentido de que "os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão omissa, obscura, contraditória ou que incorra em erro material, afirmação que se depreende dos incisos do próprio art. 1.022 do CPC/2015. Portanto, só é admissível essa espécie recursal quando destinada a atacar, especificamente, um desses vícios do ato decisório, e não para que se adeque a decisão ao entendimento dos embargantes, nem para o acolhimento de pretensões que refletem mero inconformismo, e menos ainda para rediscussão de matéria já resolvida" (EDcl no AgRg no AREsp 859.232/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 31/5/2016).
+3. Embargos de declaração rejeitados, com aplicação de multa.
+(EDcl no AgInt no MS 27.433/DF, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA SEÇÃO, julgado em 30/11/2021, DJe 03/12/2021)
+Diante do exposto, rejeito os embargos de declaração.
+Publique-se.
+EMENTA
