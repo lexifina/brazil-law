@@ -1,0 +1,18 @@
+DECISÃO
+Examinam-se embargos de declaração opostos por CONSTRUTORA JULIO & JULIO LTDA contra decisão unipessoal que, ao indeferir a petição inicial, julgou extinta a reclamação que ajuizara, nos termos da seguinte ementa (e-STJ fl. 1275):
+DIREITO PROCESSUAL CIVIL. RECLAMAÇÃO. PRECEDENTE EM REPETITIVO. CONTROLE DA APLICAÇÃO. SUPOSTO DESACERTO. SUCEDÂNEO RECURSAL. INVIABILIDADE. INICIAL INDEFERIDA.
+1. "A reclamação prevista no artigo 105, I, "f", da Constituição Federal destina-se exclusivamente a assegurar a autoridade das decisões do STJ em casos concretos ou a proteger sua competência contra usurpações, não sendo instrumento apto para dirimir divergências jurisprudenciais entre decisões das instâncias ordinárias e precedentes do STJ, ainda que vinculantes" (AgInt na Rcl 47.585/SP, Segunda Seção, DJEN 21/2/2025).
+2. Consoante definido pela Corte Especial na Rcl 36.476/SP, "não é cabível o ajuizamento de reclamação com vistas ao controle da aplicação, no caso concreto, de tese firmada pelo STJ em recurso especial repetitivo" (AgInt na Rcl 36.771/RJ, Segunda Seção, DJe 3/8/2020; AgInt na Rcl 37.420/SP, Segunda Seção, DJe 2/4/2020).
+3. Petição inicial indeferida. Processo extinto sem resolução de mérito.
+Em suas razões, aduz que "a decisão não enfrentou todas as teses capazes de infirmar a conclusão adotada pelo embargado/Egrégio Tribunal" (e-STJ fl. 1287). Diante disso, requer "sejam sanadas as omissões no STJ, com reflexo PROVIMENTO da Reclamação e processamento do Recurso Especial no TJSP, anulando-se a decisão estadual e determinando-se a complementação do julgado, com acolhimento das teses da embargante" (e-STJ fl. 1295).
+É O BREVE RELATÓRIO. DECIDE-SE.
+Os embargos de declaração são instrumento processual excepcional e, a teor do art. 1.022 do CPC, destinam-se ao aprimoramento do julgado que contenha obscuridade, contradição, erro material ou omissão sobre tema cujo pronunciamento se impunha manifestar o julgador. Não se prestam à simples reanálise da causa, nem são vocacionados a modificar o entendimento do órgão julgador.
+Segundo a jurisprudência desta Corte, a omissão justificadora de suprimento no julgado embargado é aquela concernente a ponto suscitado pela parte e sobre o qual o órgão julgador deveria se manifestar, por ser fundamental ao pleno desfecho da controvérsia (EDcl no AgInt no AREsp 1.694.301/PE, Terceira Turma, DJe 3/3/2021).
+Na espécie, contudo, verifica-se que o embargante pretende se valer dos embargos de declaração para rediscutir a conclusão adotada na decisão embargada e tentar fazer prevalecer o seu entendimento quanto a ela, pretensão essa que, todavia, não é compatível com os estreitos limites dessa espécie recursal.
+Portanto, não se constata, assim, a existência de qualquer vício na decisão embargada, na medida em que os embargos de declaração "não se prestam à simples reanálise da causa, nem são vocacionados a modificar o entendimento do órgão julgador" (EDcl no REsp 1.888.521/SP, Terceira Turma, DJEN 26/6/2025; EDcl no REsp 2.092.311/SP, Corte Especial, DJEN 2/6/2025; EDcl no REsp 2.080.023/MG, Corte Especial, DJEN 28/2/2025).
+Forte nessas razões, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA.
+1. Os embargos de declaração são instrumento processual excepcional e, a teor do art. 1.022 do CPC/2015, destinam-se ao aprimoramento do julgado que contenha obscuridade, contradição, erro material ou omissão sobre tema cujo pronunciamento se impunha manifestar o julgador. Não se prestam à simples reanálise da causa, nem são vocacionados a modificar o entendimento do órgão julgador.
+2. Embargos de declaração na reclamação rejeitados.
