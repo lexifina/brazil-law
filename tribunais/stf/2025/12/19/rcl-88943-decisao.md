@@ -1,0 +1,50 @@
+DECISÃO: Trata-se de reclamação constitucional, com pedido de medida liminar, ajuizada por Maria José de Souza Cavalcante, contra decisão proferida pela Sétima Turma Recursal de Fazenda Pública do Colégio Recursal dos Juizados Especiais de São Paulo, nos autos do Processo n. 1002857-77.2025.8.26.0114.
+Na petição inicial, a reclamante aduz, em síntese, que o Juízo reclamado teria descumprido a orientação firmada por esta Corte no RE-RG 841.526 (tema 592), paradigma da repercussão geral.
+Extrai-se da petição inicial o seguinte contexto fático:
+
+“A Reclamante ajuizou ação de indenização por danos morais em razão da morte de seu filho, detento sob custódia do Estado de São Paulo, ocorrida no interior do sistema prisional, em contexto de omissão estatal quanto ao dever de proteção e assistência à saúde do preso.
+A sentença de primeiro grau reconheceu a responsabilidade objetiva do Estado, julgando procedente o pedido indenizatório.
+Interposto Recurso Inominado pelo Estado de São Paulo, o Colégio Recursal reformou integralmente a sentença, afastando a responsabilidade estatal, sob fundamentos que contrariam diretamente a tese firmada por este Supremo Tribunal Federal no Tema 592 da Repercussão Geral.
+Posteriormente, a Reclamante buscou as vias cabíveis no âmbito dos Juizados, tendo sido recentemente publicado despacho que não conheceu do pedido de uniformização, determinando a certificação futura do trânsito em julgado, o que torna iminente a consolidação de decisão manifestamente contrária à jurisprudência vinculante do STF”. (eDOC 1, pp. 1-2)
+
+Diante disso, requer, liminarmente, a suspensão do trâmite processual na origem e, no mérito, a procedência da reclamação para cassar o ato reclamado.
+É o relatório.
+Decido.
+Inicialmente, dispenso a remessa dos autos à Procuradoria-Geral da República, por entender que o processo já está em condições de julgamento (RISTF, art. 52, parágrafo único).
+Superada a questão, rememoro que, conforme disposto na Constituição Federal, compete ao STF processar e julgar originariamente reclamação para a preservação de sua competência, garantia da autoridade de suas decisões e da observância das Súmulas Vinculantes (arts. 102, I, l, e 103-A, § 3º da CF/88).
+Nesse sentido, o Código de Processo Civil de 2015 também regulamentou a matéria e assentou as seguintes hipóteses de cabimento da reclamação:
+
+“Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+I - preservar a competência do tribunal;
+II - garantir a autoridade das decisões do tribunal;
+III - garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade;
+IV - garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência. (...)”.
+
+O § 4º do mesmo artigo esclarece que as hipóteses dos incisos III e IV compreendem a aplicação indevida da tese jurídica e sua não aplicação aos casos que a ela correspondem.
+Verifica-se, ainda, nos termos do § 5º, que é inadmissível reclamação proposta para garantir a observância de acórdão de recurso extraordinário com repercussão geral reconhecida, exceto quando comprovado o esgotamento das instâncias ordinárias, com a devida interposição e julgamento do agravo interno, previsto no art. 1.030, § 2º, do CPC, e a demonstração da teratologia da decisão.
+Nesses termos, a reclamatória proposta para garantir a observância de acórdão de recurso extraordinário com repercussão geral reconhecida somente será cabível quando presentes os seguintes pressupostos necessários e cumulativos, quais sejam: o esgotamento da instância de origem, com o julgamento do agravo interno contra a decisão que nega seguimento ao recurso extraordinário com fundamento na repercussão geral; a plausibilidade na tese de erronia na aplicação do entendimento do Supremo Tribunal Federal firmado na repercussão geral pelo Juízo a quo, a indicar teratologia da decisão reclamada.
+Na hipótese dos autos, incabível inferir-se, nesse momento processual, o descumprimento da orientação firmada por esta Corte no julgamento do Recurso Extraordinário 841.526, Tema 592, paradigma da repercussão geral, porquanto não se vislumbra o esgotamento das instâncias exigido para o conhecimento da reclamação.
+Cumpre registrar que para a configuração do esgotamento das instâncias ordinárias exigida para a propositura da reclamação é necessário que, além de o recurso extraordinário ter o seguimento negado com base na sistemática da repercussão geral (art. 1.030, I, do CPC), também tenha sido interposto e julgado o agravo interno previsto no art. 1.030, § 2º, do CPC.
+No ponto, registre-se que não há qualquer menção à interposição de recurso extraordinário contra quaisquer das decisões que a reclamante pretende cassar. E mesmo se porventura houvesse, o conhecimento da reclamação demandaria, ainda, a interposição do agravo interno art. 1.030, § 2º, do CPC, conforme explicado acima.
+Nestes termos, a jurisprudência desta Corte é firme no sentido de que a ausência de interposição de todos os recursos cabíveis demonstra a ausência de esgotamento das vias ordinárias, o que inviabiliza o manejo da reclamação. A propósito, confiram-se os seguintes precedentes:
+
+“DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO EM RECLAMAÇÃO. ALEGAÇÃO DE AFRONTA A TESE EM REPERCUSSÃO GERAL. AUSÊNCIA DE ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. 1. Agravo interno em reclamação ajuizada sob a alegação de ofensa à tese fixada pelo Supremo Tribunal Federal no julgamento do ARE 843.989, paradigma do Tema 1.199 da repercussão geral. 2. O Código de Processo Civil/2015 prevê como requisito para o ajuizamento de reclamação por alegação de afronta a tese firmada em repercussão geral o exaurimento das instâncias ordinárias (art. 988, § 5º, II, do CPC/2015). Requisito não cumprido na espécie. 3. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015.”(Rcl 61.661 AgR, Rel. Min. Luís Roberto Barroso, Primeira Turma, DJe 19.10.2023; grifo nosso)
+
+“RECLAMAÇÃO. ALEGADO DESRESPEITO À AUTORIDADE DE DECISÃO QUE O SUPREMO TRIBUNAL FEDERAL PROFERIU NO JULGAMENTO DE RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL. RECONHECIDA NECESSIDADE DE PRÉVIO E EFETIVO EXAURIMENTO DAS INSTÂNCIAS ORDINÁRIAS. INADEQUAÇÃO, NO CASO, DA UTILIZAÇÃO DA RECLAMAÇÃO, QUE, ADEMAIS, NÃO SE QUALIFICA COMO SUCEDÂNEO DE AÇÃO RESCISÓRIA, DE RECURSOS OU DE AÇÕES JUDICIAIS EM GERAL. INCOGNOSCIBILIDADE DO INSTRUMENTO RECLAMATÓRIO RECONHECIDA PELA DECISÃO AGRAVADA. RECURSO DE AGRAVO IMPROVIDO”. (Rcl 40.252 AgR, Rel. Min. Celso de Mello, Segunda Turma, DJe 20.8.2020; grifo nosso)
+
+Por fim, saliento que é assente na jurisprudência desta Corte que o instrumento processual da reclamação não pode ser empregado como sucedâneo recursal ou atalho processual para fazer chegar a causa diretamente ao Supremo Tribunal Federal, conforme ocorre nestes autos.
+Nesse sentido, cito precedentes de ambas Turmas deste Tribunal:
+
+“DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NA RECLAMAÇÃO. ALEGAÇÃO DE USURPAÇÃO DE COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. NÃO CONFIGURAÇÃO. TEMA 41 RG. NÃO ESGOTAMENTO DAS INSTÂNCIAS RECURSAIS ORDINÁRIAS. ALEGAÇÃO DE OFENSA À SÚMULA VINCULANTE 37. ADERÊNCIA ESTRITA. AUSÊNCIA. UTILIZAÇÃO DA RECLAMAÇÃO COMO SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE. AGRAVO DESPROVIDO. I. Caso em exame 1. Agravo regimental interposto contra decisão que julgou improcedente reclamação, a qual foi proposta por afirmado desrespeito à competência do Supremo Tribunal Federal, à Súmula Vinculante 37 e ao que decidido por esta Suprema Corte no RE 563.965/RN (Tema 41 da Repercussão Geral). II. Questão em discussão 2. A questão em discussão consiste em saber se houve usurpação de competência do Supremo Tribunal Federal ou ofensa aos paradigmas de controle indicados. III. Razões de decidir 3. O ato reclamado, ao aplicar o Tema 1.359 da Repercussão Geral, exerceu a competência estabelecida por lei, sendo, portanto, descabida a alegação de usurpação de competência desta Suprema Corte. 4. A jurisprudência do STF é pacífica no sentido de que o cabimento da reclamação, quando tem por finalidade garantir a observância de entendimento proferido sob a sistemática de repercussão geral, exige prévio exaurimento de todos os recursos cabíveis para a revisão do ato combatido, inclusive nos tribunais superiores. 5. A jurisprudência do Supremo Tribunal Federal exige, para o cabimento da reclamação, a demonstração de aderência estrita entre o ato reclamado e o paradigma apontado como violado, o que não se verifica no caso. 6. O agravante pretende, na verdade, usar o instrumento processual da reclamação como sucedâneo de recurso, finalidade essa que não converge com a sua destinação constitucional. IV. Dispositivo e tese 7. Agravo regimental desprovido. (...).” (Rcl 86.315 AgR, Rel. Min. Cristiano Zanin, Primeira Turma, DJe 1º.12.2025, grifo nossos)
+
+“AGRAVO REGIMENTAL NA RECLAMAÇÃO. ALEGAÇÃO DE EQUÍVOCO NA APLICAÇÃO DO INSTITUTO DA REPERCUSSÃO GERAL NA ORIGEM: NÃO CABIMENTO, NO CASO. USO COMO SUCEDÂNEO RECURSAL: VEDAÇÃO. 1. O Supremo Tribunal Federal decidiu, reiteradamente, pelo não cabimento da reclamação ajuizada com o escopo de corrigir eventuais equívocos na aplicação do instituto da repercussão geral, à exceção de evidente teratologia, o que não se vislumbra no caso. 2. Não se caracterizou usurpação da competência desta Corte, mas, tão somente, o exercício da competência própria do Juízo de origem para inadmitir os recursos relativos às próprias decisões. 3. Revela-se imprópria a formalização de reclamação com intuito de servir como sucedâneo recursal. 4. Agravo regimental ao qual se nega provimento”. (Rcl 53.941 AgR, Rel. Min. André Mendonça, Segunda Turma, DJe 24.3.2023; grifo nosso)
+
+Dessa forma, inadmissível a presente reclamação.
+Ante o exposto, nego seguimento à reclamação (art. 21, § 1º, do RISTF) e julgo prejudicado o pedido liminar.
+
+Publique-se.
+Brasília, 19 de dezembro de 2025.
+
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
