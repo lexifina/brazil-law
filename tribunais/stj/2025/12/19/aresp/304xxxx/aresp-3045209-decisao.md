@@ -1,0 +1,8 @@
+DECISÃO
+O presente recurso especial (fls. 517-530) versa sobre tema afetado à Segunda Seção do STJ, nos autos dos Recursos Especiais Representativos da Controvérsia n. 2.190.339/RN e 2.190.337/DF, se há "i) abusividade da cláusula contratual de plano de saúde que prevê carência para utilização dos serviços de assistência médica nas situações de emergência ou de urgência se ultrapassado o prazo máximo de 24 horas contado da data da contratação; e a ii) abusividade da cláusula contratual de plano de saúde que limita no tempo a internação hospitalar do segurado" (Tema n. 1.314/STJ).
+Discute-se também matéria afetada ao mencionado colegiado deste Superior Tribunal de Justiça , nos autos dos Recursos Especiais R epresentativos da Controvérsia n. 2.165.670/SP e 2.197.574/SP, no referente à "configuração de danos morais in re ipsa nas hipóteses de recusa indevida de cobertura médico-assistencial pela operadora de plano de saúde" (Tema n. 1.365/STJ).
+Nos termos do art. 256-L do RISTJ (Incluído pela Emenda Regimental n. 24, de 2016), o recurso especial distribuído nesta Corte que tenha como fundamento idêntica questão de direito afetada será devolvido ao Tribunal de origem, para nele permanecer suspenso.
+Assim, por razões de economia processual e em atenção aos objetivos das normas que disciplinam a matéria, faz-se necessário remeter os autos à origem, até o pronunciamento definitivo do Superior Tribunal de Justiça sobre os recursos especiais representativos da controvérsia.
+Diante do exposto, DETERMINO A DEVOLUÇÃO dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que, depois de publicados os acórdãos paradigmas, seja observada a sistemática prevista nos arts. 1.040 e 1.041 do CPC/2015.
+Publique-se e intimem-se.
+EMENTA
