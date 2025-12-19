@@ -1,0 +1,75 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu recurso especial por aplicação da Súmula n. 7 do STJ, bem como por inexistência de ofensa ao art. 1.022 do CPC (fls. 120-123).
+O Tribunal de origem negou provimento ao agravo da recorrente, em julgado que recebeu a seguinte ementa (fl. 45):
+AGRAVO DE INSTRUMENTO. RESPONSABILIDADE CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS. PRODUTOR AGRÍCOLA. INCIDÊNCIA DAS DISPOSIÇÕES DO CÓDIGO DE DEFESA DO CONSUMIDOR. PRESENÇA DA VULNERABILIDADE TÉCNICA. APLICAÇÃO DA TEORIA FINALISTA MITIGADA.
+1 . AÇÃO DO PRODUTOR RURAL CONTRA A PARTE DEMANDADA: O PRODUTOR RURAL AJUIZOU UMA AÇÃO CONTRA A PARTE DEMANDADA, SOLICITANDO INDENIZAÇÃO POR DANOS MATERIAIS, DEVIDO À APLICAÇÃO DE MULTA PELA FEPAM (FUNDAÇÃO ESTADUAL DE PROTEÇÃO AMBIENTAL). A MULTA FOI IMPOSTA EM RAZÃO DE IRREGULARIDADES VERIFICADAS EM PROJETO DE IRRIGAÇÃO DE LAVOURA, SENDO QUE A RESPONSABILIDADE POR ESSAS FALHAS, DE ACORDO COM A PEÇA INICIAL, ERA DA PARTE DEMANDADA.
+2. APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR: EMBORA NÃO EXISTA A FIGURA DO DESTINATÁRIO FINAL, JÁ QUE OS PRODUTOS E SERVIÇOS ADQUIRIDOS PELO PRODUTOR RURAL SERÃO UTILIZADOS NA ATIVIDADE PRODUTIVA, É POSSÍVEL APLICAR AS DISPOSIÇÕES DO CÓDIGO DE DEFESA DO CONSUMIDOR. ISSO SE BASEIA NA TEORIA FINALISTA MITIGADA, QUE ESTENDE A PROTEÇÃO DO CDC MESMO A EMPRESAS, COMO O PRODUTOR RURAL, QUANDO HÁ UMA SITUAÇÃO DE VULNERABILIDADE.
+3. VULNERABILIDADE TÉCNICA DO PRODUTOR RURAL: O PRODUTOR RURAL SE ENCONTRA EM VULNERABILIDADE TÉCNICA QUANTO À PRODUÇÃO DE PROVAS RELACIONADAS À OPERAÇÃO DE PIVÔS DE IRRIGAÇÃO E À OBTENÇÃO DAS LICENÇAS AMBIENTAIS NECESSÁRIAS. ESSA VULNERABILIDADE JUSTIFICA A APLICAÇÃO DA TEORIA FINALISTA MITIGADA, QUE BUSCA PROTEGER O PRODUTOR RURAL EM SITUAÇÕES ONDE ELE NÃO POSSUI A MESMA EXPERTISE TÉCNICA DAS EMPRESAS ENVOLVIDAS.
+4. CLÁUSULA DE ELEIÇÃO DE FORO E PRELIMINAR DE INCOMPETÊNCIA: MANTIDO O RECONHECIMENTO DA APLICAÇÃO DAS NORMAS DO CÓDIGO DE DEFESA DO CONSUMIDOR, VAI DESCARTADA A VALIDADE DA CLÁUSULA DE ELEIÇÃO DE FORO ESTABELECIDA NO CONTRATO, COM REJEIÇÃO DA PRELIMINAR DE INCOMPETÊNCIA LEVANTADA PELA PARTE AGRAVANTE.
+AGRAVO DE INSTRUMENTO DESPROVIDO.
+Os embargos de declaração (fls. 47-50) foram rejeitados (fls. 54-57).
+No recurso especial (fls. 59-78), fundamentado no art. 105, III, "a" e "c", da CF, a recorrente apontou violação dos seguintes dispositivos:
+(i) art. 1.022, II, do CPC, sustentando que ocorreu omissão na decisão recorrida, pois não foi analisado o fato de que a autora, ora recorrida, é produtora rural de grande porte, não sendo vulnerável na relação, e
+(ii) arts. 2º e 6º, VIII, do CDC, alegando a inaplicabilidade do Código de Defesa do Consumidor. Argumentou, nesse contexto, que "O contrato objeto do litígio não é regulado pelo Código de Defesa do Consumidor, já que inexiste qualquer aspecto de vulnerabilidade da recorrida, que é produtora rural de grande porte e possui expertise na produção agrícola" (fl. 71). Pontuou, por fim, que a recorrida não é destinatária final do produto, pois os pivôs de irrigação foram adquiridos para implementação em sua produção agrícola.
+Contrarrazões apresentadas (fls. 107-119).
+No agravo (fls. 126-138), foram refutados os fundamentos da decisão agravada e foi alegado o cumprimento de todos requisitos legais para recebimento do especial.
+Contraminuta apresentada (fls. 140-152).
+É o relatório.
+Decido.
+Inicialmente, a recorrente afirmou existir omissão no acórdão recorrido porque não foi analisado o fato de que a autora, ora recorrida, é produtora rural de grande porte, não sendo vulnerável na relação.
+Contudo, não há omissão, pois o acórdão recorrido considerou fundamentadamente a aplicação do Código de Defesa do Consumidor. Nessa linha, ressaltou que (fls. 55-56):
+Diversamente do sustentado, não há falar em omissão ou em contradição, uma vez que, pelo que se observa do julgado, restou reconhecido, clara e expressamente que, apesar de se tratar, a parte autora, de "uma produtora rural de médio porte, na questão debatida, que diz com a operação de pivôs de irrigação e obtenção das licenças respectivas, em razão da expertise da parte demandada na questão, por se tratar do seu ramo de atuação, encontra-se presente a vulnerabilidade técnica, a justificar a aplicação da Teoria Finalista Mitigada".
+Portanto, quanto à omissão suscitada, ao contrário do alegado, a Câmara julgadora conheceu do ponto.
+No mais, na origem, foi interposto agravo de instrumento contra decisão que, nos autos de indenização por danos materiais, rejeitou a preliminar de inaplicabilidade do Código de Defesa do Consumidor.
+O Juiz singular entendeu que (fl. 41):
+1. Das preliminares:
+1.1. Da alegação de incompetência territorial decorrente de foro de eleição arguida pela ré FOCKINK INDUSTRIAS ELETRICAS LTDA. e da incidência do Código de Defesa do Consumidor
+A requerida FOCKINK postula o reconhecimento da incompetência territorial deste Juízo em razão da existência de cláusula de eleição de foro no contrato firmado entre as partes (evento 1, CONTR6) a qual estabelece o foro da comarca de Panambi/RS como competente para dirimir os conflitos entre as partes.
+Nesse ponto, a ré afirma que não se aplica, ao caso em tela, o Código de Defesa do Consumidor, pois a autora é produtora rural, que adquiriu o bem objeto do presente como insumo à sua atividade produtiva, de modo que não se enquadra no conceito de consumidor.
+Afirma que o caso dos autos trata-se de relação de natureza comercial. Diz que a autora contratou os serviços da ré com a finalidade de incorporar e melhorar as atividades e operações agrícolas e comerciais desenvolvidas. Ainda, refere que a autora não é tecnicamente vulnerável em relação à ré, tratando-se de empresária do ramo com farta experiência e condições financeiras.
+Assevera que a autora não é destinatária final do produto, pois os equipamentos foram adquiridos para implementar a atividade de cultivo da fazenda. Reitera que as partes possuíam forças equivalentes para discutir e avaliar as cláusulas do contrato, no momento em que a relação jurídica foi firmada, postulando a inaplicabilidade do Código de Defesa do Consumidor.
+Não merecem prosperar as alegações da ré.
+Aponto que, apesar das explanações da requerida, o caso dos autos trata-se de relação consumerista.
+Saliento que a empresa ré possui como um de seus "segmentos" o sistema de irrigação para áreas rurais. Desse modo, trata-se de empresa especializada no ramo, portanto, não se pode comparar a experiência técnica da requerida aos conhecimentos práticos da produtora rural.
+Consigno que o fato de a autora tratar-se de empresária rural e proprietária de fazenda de médio porte não afasta a condição de consumidora, pois o objeto do contrato (instalação do sistema de irrigação) trata-se de operação complexa que engloba o conhecimento aprofundado de diversas áreas como a elétrica e hidráulica, que, por óbvio, não são conhecimentos esperados de um produtor rural.
+Ainda, rechaço a alegação de que a autora não é destinatária final do equipamento adquirido, uma vez que o equipamento foi adquirido para utilização em sua propriedade rural, tratando-se portanto de destinatário final do sistema de irrigação, além da evidente vulnerabilidade técnica da autora frente à demandada, aplicando-se, assim, a teoria finalista mitigada, adotada de forma bastante tranquila na jurisprudência. Assim, a relação está sujeita ao disposto no Código de Defesa do Consumidor, nos termos do artigo 3º, parágrafo 2º.
+No agravo de instrumento interposto, a agravante alegou que a decisão recorrida não levou em consideração os fatos dos autos, dado que ausente qualquer vulnerabilidade capaz de atrair a aplicação do CDC. Sustentou assim que as partes firmaram contratos de compra e venda de equipamentos, de modo que a motivação para a celebração do negócio jurídico é de natureza comercial (melhoria da produção agrícola).
+O TJRS negou provimento ao recurso, conforme acórdão do qual se transcreve o seguinte excerto (fls. 43-44):
+Conforme se observa da petição inicial (evento 1, INIC1), a autora realizou negociação com a parte demandada, ora agravante, para a aquisição de pivôs de irrigação para utilização em sua atividade agrícola.
+Em 01 de dezembro de 2022, as partes firmaram contrato de compra e venda, tendo a parte ré se comprometido a confeccionar o projeto com a obtenção de licenças prévias e de funcionamento necessárias.
+Pelo que se observa, no dia 08 de maio de 2023, a engenheira ambiental da parte ré informou que os empreendimentos de irrigação ainda não contavam com a outorga do uso de água, sendo que, em razão das irregularidades, a FEPAM esteve na propriedade e, diante das irregularidades observadas, lavrou 2 (dois) autos de infração, bem como, 2 (dois) termos de embargos e 2 (dois) termos de demolição.
+Após solicitação da parte autora para que a parte ré efetuasse o pagamento das multas e, diante da negativa, a autora efetuou o pagamento, com desconto de 50%, ante o intuito de regularizar seus empreendimentos.
+Diante deste quadro, em síntese, o ajuizamento da presente ação, com pedido de indenização por danos materiais no valor de R$ 148.261,08 (cento e quarenta e oito mil, duzentos e sessenta e um reais, oito centavos), correspondente ao valor despendido com o adimplemento das multas aplicadas pelo Órgão Ambiental.
+Em contestação, a demandada, ora agravante compareceu com preliminar de incompetência do juízo, ante a cláusula de eleição de foro da Comarca de Panambi, RS, expressamente prevista no contrato firmado entre as partes.
+Ao analisar a questão, o Juízo singular, entendendo por aplicáveis as disposições do Código de Defesa do Consumidor, afastou a cláusula de eleição de foro e, por consequência, a preliminar arguida, razão da interposição do presente recurso sob o argumento, em síntese, da inaplicabilidade do Estatuto Consumerista.
+Tenho que, no caso, diversamente do sustentado pela agravante, trata-se de uma relação de consumo, uma vez que, em que pese a parte autora seja um produtor rural de médio porte que não utiliza o produto ou serviço, como destinatário final, possível a aplicação das disposições do estatuto consumerista, a partir da Mitigação da Teoria Finalista, ante a hipossuficiência e vulnerabilidade frente ao fornecedor.
+Pontuo que, em que pese a autora seja uma produtora rural de médio porte, na questão debatida que diz com a operação de pivôs de irrigação e obtenção das licenças respectivas, em razão da expertise da parte demandada na questão, por se tratar do seu ramo de atuação, encontra-se presente a vulnerabilidade técnica da autora, a justificar a aplicação da Teoria Finalista Mitigada.
+Nesse contexto, o Tribunal local entendeu que, embora não exista a figura do destinatário final, seria possível a aplicação do CDC, tendo em vista a teoria finalista mitigada, a qual estende a proteção do Código de Defesa do Consumidor quando há uma situação de vulnerabilidade.
+Tal entendimento encontra amparo na jurisprudência do Superior Tribunal de Justiça, conforme se depreende dos seguintes julgados:
+CONSUMIDOR. TEORIA FINALISTA MITIGADA. CDC. INCIDÊNCIA. CLÁUSULA DE ELEIÇÃO DE FORO. ABUSIVIDADE. REEXAME DE PROVAS. DISSÍDIO
+JURISPRUDENCIAL. SÚMULAS N. 7 E 83/STJ. PRECEDENTES.
+1. O Superior Tribunal de Justiça adota a teoria finalista mitigada, havendo incidência das normas do CDC, quando verificada a hipossuficiência ou vulnerabilidade da parte.
+2. A cláusula de eleição de foro deve ser afastada, quando dificultar a defesa do consumidor, caracterizando-se como abusiva.
+3. A alteração da conclusão das instâncias ordinárias sobre a vulnerabilidade ou hipossuficiência do consumidor demanda o reexame de fatos e provas, cujo óbice é delimitado pela Súmula n. 7/STJ.
+4. Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida, nos termos da Súmula n. 83/STJ.
+Recurso especial não conhecido.
+(REsp n. 1.929.363/PR, relator Ministro Humberto Martins, Terceira Turma, julgado em 13/10/2025, DJEN de 16/10/2025.)
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INAPLICABILIDADE. CÓDIGO DE DEFESA DO CONSUMIDOR. ATIVIDADE ECONÔMICA REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO. SÚMULA N. 284 DO STF. DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão monocrática que negou provimento ao agravo em recurso especial.
+II. Razões de decidir
+2. O acórdão recorrido está em consonância com a orientação jurisprudencial desta Corte, de que "o Código de Defesa do Consumidor não se aplica no caso em que o produto ou serviço é contratado para implementação de atividade econômica, já que não estaria configurado o destinatário final da relação de consumo (teoria finalista ou subjetiva). Contudo, tem admitido o abrandamento da regra quando ficar demonstrada a condição de hipossuficiência técnica, jurídica ou econômica da pessoa jurídica, autorizando, excepcionalmente, a aplicação das normas do CDC (teoria finalista mitigada)" (AgInt no AREsp 2.189.393/AL, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 21/3/2023). Inafastável a Súmula n. 83/STJ.
+3. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+ ..
+III. Dispositivo
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.680.141/CE, de minha relatoria, Quarta Turma, julgado em 17/3/2025, DJEN de 25/3/2025.)
+Estando o acórdão recorrido de acordo com a jurisprudência desta Corte Superior, o recurso encontra óbice na Súmula n. 83 do STJ.
+Ainda que assim não fosse, o Tribunal de origem consignou que, "em que pese a autora seja uma produtora rural de médio porte, na questão debatida que diz com a operação de pivôs de irrigação e obtenção das licenças respectivas, em razão da expertise da parte demandada na questão, por se tratar do seu ramo de atuação, encontra-se presente a vulnerabilidade técnica da autora, a justificar a aplicação da Teoria Finalista Mitigada" (fls. 43-44).
+Contudo, no recurso especial, a recorrente sustentou tão somente a violação dos arts. 2º e 6º, VIII, do CDC, alegando a inaplicabilidade do Código de Defesa do Consumidor.
+Verifica-se, portanto, que as razões do especial não rebatem o fundamento do acórdão recorrido. Incide, assim, no pont o a Súmula n. 283 do STF.
+Por fim, a Corte local concluiu que, "no caso, diversamente do sustentado pela agravante, trata-se de uma relação de consumo, uma vez que, em que pese a parte autora seja um produtor rural de médio porte que não utiliza o produto ou serviço, como destinatário final, possível a aplicação das disposições do estatuto consumerista, a partir da Mitigação da Teoria Finalista, ante a hipossuficiência e vulnerabilidade frente ao fornecedor" (fl. 43).
+Essa ponderação foi extraída da apreciação fático-probatória da causa, ensejando o óbice da Súmula n. 7 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo em recurso especial.
+Publique-se e intimem-se.
+EMENTA
