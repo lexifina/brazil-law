@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus , impetrado em nome de CRISTIAN LUAN DE OLIVEIRA GALVAN - condenado por roubo circunstanciado e disparo de arma de fogo a 29 anos, 2 meses e 20 dias de reclusão, e 74 dias-multa - e CRISTIANO MANDZIROCHA - condenado pelos mesmos delitos a 38 anos, 7 meses e 16 dias de reclusão, e 95 dias-multa -, apontando-se como ato coator o acórdão proferido pelo Tribunal de Justiça de Santa Catarina na Revisão Criminal n. 5035653-61.2025.8.24.0000, que conheceu parcialmente e, na extensão, indeferiu o pedido revisional (fls. 16/19).
+A impetração busca a revisão da condenação proferida na Ação Penal n. 5000560-38.2020.8.24.0218 (fls. 38/69, Vara Única da comarca de Catanduvas/SC), alterada em grau de apelação (fls. 70/74), com:
+a) o reconhecimento de nulidade no aditamento à denúncia por suposta violação do art. 384 do CPP e do princípio da correlação, ante a inexistência de prova nova e a alegada "correção" tardia de falhas acusatórias (fls. 6/8); ou
+b) subsidiariamente, o reconhecimento do concurso formal próprio ou crime continuado entre os roubos praticados na ervateira (fls. 9/12).
+É o relatório.
+O writ é inadmissível, uma vez que se trata de impetração destinada a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias (HC n. 905.771/GO, de minha relatoria, Sexta Turma, DJEN de 16/9/2025), e não se verifica a ocorrência de flagrante constrangimento ilegal apto a subsidiar a superação do óbice, pois:
+a) a pretensão de reconhecimento do concurso formal próprio não comporta conhecimento, seja por supressão de instância - não foi apreciada pela Corte estadual no acórdão revisional hostilizado, o que configuraria prestação jurisdicional em indevida supressão de instância - ou por instrução deficiente, porque o acórdão da apelação criminal juntado aos autos (fls. 70/79) está incompleto, constando apenas a ementa; e
+b) o Tribunal estadual, no julgamento da revisão criminal, afastou a alegação de nulidade do aditamento, ao fundamento de que o procedimento de aditamento à denúncia se deu nos moldes do art. 384 do Código de Processo Penal, com prévia manifestação da defesa, não se constatando prejuízo (art. 563, CPP) e incidindo a preclusão temporal, uma vez que a nulidade não foi suscitada oportunamente na ação penal nem na apelação (fl. 18), em consonância com a jurisprudência desta Corte Superior, que exige demonstração efetiva de prejuízo.
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. ROUBO CIRCUNSTANCIADO E DISPARO DE ARMA DE FOGO. NULIDADE E DOSIMETRIA. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. UTILIZAÇÃO INDEVIDA DO WRIT. INVIABILIDADE. FORMULAÇÃO DE PRETENSÕES INFUNDADAS. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Inicial indeferida liminarmente.
