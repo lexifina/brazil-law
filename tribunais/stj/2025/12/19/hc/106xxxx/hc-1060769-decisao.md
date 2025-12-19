@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de LEANDRO DE MATOS FERREIRA, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS, em decorrência do julgamento da revisão criminal n. 0702334-23.2024.8.07.9000.
+Consta nos autos que o paciente foi inicialmente condenado pelo Juízo da 1ª Vara de Entorpecentes do Distrito Federal pela prática do artigo 28 da Lei n. 11.343/2006, com expedição de alvará de soltura.
+A acusação apelou ao Tribunal de Justiça do Distrito Federal e dos Territórios, que deu provimento ao recurso para condenar o paciente por infração ao artigo 33, caput, combinado com o artigo 40, inciso III, da Lei n. 11.343/2006, fixando a pena de 5 anos e 10 meses de reclusão, em regime inicial fechado, além de 583 dias-multa, mantidos os demais termos da sentença.
+Na presente impetração, busca-se a concessão da ordem para: (i) desclassificar a condenação do artigo 33, caput, combinado com o artigo 40, inciso III, da Lei n. 11.343/2006, para o artigo 28 da mesma lei, com adequação imediata da execução; e (ii) subsidiariamente, anular o acórdão da revisão criminal para novo julgamento conforme o Tema 506 do Supremo Tribunal Federal e a orientação deste Superior Tribunal.
+É o relatório. DECIDO.
+A Terceira Seção, no âmbito do HC n. 535.063/SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/6/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC n. 180.365/PB, de relatoria da Ministra Rosa Weber, julgado em 27/3/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Nesse sentido:
+ ..  A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.  ..  (AgRg no HC n. 908.122/MT, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 27/8/2024, DJe de 2/9/2024.)
+ ..  O habeas corpus não é conhecido quando impetrado em substituição a recurso próprio, salvo em caso de flagrante ilegalidade, conforme jurisprudência pacífica do STJ e do STF.  ..  (AgRg no HC n. 935.569/SP, de minha relatoria, Quinta Turma, julgado em 3/9/2024, DJe de 10/9/2024.)
+Em homenagem ao princípio da ampla defesa, contudo, necessário o exame da insurgência, a fim de se verificar eventual constrangimento ilegal passível de ser sanado pela concessão da ordem, de ofício.
+A controvérsia consiste em se aferir a possibilidade de desclassificação do delito de tráfico de drogas.
+Na hipótese, o presente habeas corpus foi impetrado contra uma revisão criminal de condenação com trânsito em julgado.
+Das razões expostas, contudo, o que se verifica é que sequer se enquadrariam nos parâmetros da revisão criminal, por ausência de seus pressupostos, quais sejam, os requisitos do art. 621, incisos, do Código de Processo Penal:
+Art. 621. A revisão dos processos findos será admitida:
+I - quando a sentença condenatória for contrária ao texto expresso da lei penal ou à evidência dos autos;
+II - quando a sentença condenatória se fundar em depoimentos, exames ou documentos comprovadamente falsos;
+III - quando, após a sentença, se descobrirem novas provas de inocência do condenado ou de circunstância que determine ou autorize diminuição especial da pena.
+Aliás, segundo a origem, sequer a hipótese seria de flagrante ilegalidade no caso concreto (fls. 14-15):
+REVISÃO CRIMINAL. CRIME DE TRÁFICO ILÍCITO DE ENTORPECENTES. NÃO CONHECIMENTO DA REVISÃO CRIMINAL. NULIDADE DA AÇÃO PENAL. PRELIMINARES REJEITADAS. MÉRITO. MATERIALIDADE DELITIVA. AUSÊNCIA DO LAUDO TOXICOLÓGICO. ABSOLVIÇÃO. DESCLASSIFICAÇÃO DA CONDUTA PARA O CRIME DE USO. DOSIMETRIA. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. REINCIDÊNCIA. JULGAMENTO IMPROCEDENTE.
+1. A ação revisional dispensa a juntada integral dos autos de referência para o seu conhecimento, quando a questão controvertida é exclusiva de direito e foi objeto de análise no provimento judicial impugnado, o qual tratou expressamente da ausência do documento que serve de arrimo para as principais teses da Defesa.
+2. Recai sobre o requerente o ônus da prova para desconstituir a decisão de condenação transitada em julgado, de modo que, havendo dúvida sobre a existência do erro de procedimento ou de julgamento, o pedido revisional deve ser julgado improcedente.
+3. A ausência do exame toxicológico não constitui impedimento para a configuração do crime de tráfico de drogas, nem é suficiente para desclassificar a conduta para o delito de posse para consumo pessoal, por ser comum a coexistência das condições de usuário e de traficante, pois o vício é geralmente sustentado com a venda de entorpecentes, especialmente no interior do estabelecimento prisional, em que a venda de entorpecentes também se transmuda em meio de sustento e sobrevivência do interno.
+4. É relativa a presunção estabelecida pelo Supremo Tribunal Federal, no julgamento do Tema 506 de Repercussão Geral (RE 635.659/SP), de que a posse de até 40g (quarenta gramas) de maconha configura uso pessoal, e pode ser afastada diante da presença de elementos que indiquem a traficância, tais como a forma de acondicionamento da droga e as circunstâncias da apreensão, dentre outras.
+5. A reincidência foi tratada pelo Código Penal como critério autônomo de transferência a regime prisional mais gravoso, de acordo com o art. 33, § 2º, além da quantidade de pena.
+6. Revisão criminal julgada improcedente. (grifei)
+Diante disso, o writ não deve ser conhecido, pois foi, ao fim, utilizado como substituto de um recurso especial em revisão criminal ou mesmo uma tentativa de nova revisão criminal em um Tribunal Superior.
+Conforme o artigo 105, inciso I, alínea "e", da Constituição Federal, compete a este STJ, originariamente e somente, "as revisões criminais e as ações rescisórias de seus julgados".
+Nessa linha:
+ ..  Na hipótese, a condenação transitou em julgado em 31/5/2023. Dessa forma, o presente writ seria sucedâneo de revisão criminal, sendo esta Corte incompetente para o processamento do pleito revisional.  ..  Agravo regimental desprovido (AgRg no HC n. 861.867/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/9/2024, DJe de 6/9/2024.)
+De todo modo, não verifico a presença de teratologia ou coação ilegal que desafie a concessão da ordem, nos termos do § 2º do artigo 654 do Código de Processo Penal.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
