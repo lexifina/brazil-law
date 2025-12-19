@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS contra decisão de fls. 567-570, que inadmitiu o recurso especial com fundamento na Súmula n. 7 do Superior Tribunal de Justiça.
+O recorrido foi condenado pelo juízo de primeiro grau, como incurso no art. 157, § 2º, II, e § 2º-A, I, do Código Penal, à pena de 10 anos, 4 meses e 13 dias de reclusão, em regime inicial fechado, e 23 dias-multa.
+Interposta apelação pela defesa, restou provida para absolver o réu com fundamento no art. 386, VII, do Código de Processo Penal.
+No recurso especial, sustenta-se violação dos arts. 157, § 2º, II, e § 2º-A, I, do Código Penal, e 386, VII, do Código de Processo Penal, aduzindo que a absolvição, por maioria, não teria valorado corretamente os elementos probatórios descritos no próprio acórdão, suficientes à condenação.
+No agravo em recurso especial, a parte sustenta a inaplicabilidade do óbice da Súmula 7/STJ, afirmando que não busca o reexame de provas, mas a revaloração jurídica de fatos incontroversos delineados no acórdão, notadamente: a apreensão do veículo VW/Golf, placa DSQ-5445, utilizado nos dois roubos; a proximidade temporal entre os delitos; a semelhança física apontada pela vítima quanto ao condutor; e os relatos policiais sobre a dinâmica dos fatos.
+Requer o processamento do agravo para que seja conhecido e provido o recurso especial.
+Contraminuta apresentada (fls. 590-601).
+O Ministério Público Federal manifestou-se pelo desprovimento do agravo, nos termos da seguinte ementa (fl. 618):
+AGRAVO EM RECURSO ESPECIAL. CRIMINAL. ROUBO. PLEITO DE CONDENAÇÃO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DO ÓBICE DA SÚMULA 7 DO STJ. PELO DESPROVIMENTO DO AGRAVO.
+É o relatório.
+Verifica-se que a decisão agravada resultou na inadmissão do recurso especial interposto pelo recorrente, sob o fundamento de que incide o óbice previsto na Súmula n. 7 do Superior Tribunal de Justiça.
+O Ministério Público do Estado de Minas Gerais, na tentativa de rebater o óbice acima destacado, alega que o recurso especial busca a revaloração dos pontos incontroversos, porquanto se viola frontalmente o art. 157, §2º, II, e §2º-A, I, do CP e o art. 386, VII, do CPP.
+Pois bem. Entendo que os requisitos de admissibilidade foram atendidos, inclusive tendo a defesa impugnado cada ponto da decisão agravada.
+Passo a análise do recurso especial.
+A tese central do p resente recurso especial é o restabelecimento da condenação do recorrido pelo delito de roubo majorado.
+Na análise do apelo, destaca-se o entendimento firmado pela Corte local (fls. 521-523):
+De fato, em análise do acervo probatório reunido, em atenção à ampla devolutividade do recurso defensivo e examinando detidamente a prova colhida, verifica-se haver sido a r. sentença condenatória lançada sem que houvesse a indispensável certeza quanto à autoria delitiva, que não restou evidenciada ao longo da instrução.
+A verdade é que o Ministério Público pretende a manutenção de uma decisão condenatória que não encontra respaldo no arcabouço probatório, data venia ao d. Sentenciante.
+Isso porque o caso dos autos nada revela além de parcos indícios contra o apelante, algo que motivou a combativa defensora a pugnar pela absolvição, diante da absoluta ausência de provas concretas para a sua condenação.  ..
+Na fase policial o apelante foi interrogado em duas oportunidades. Na inquirição inicial, as perguntas da Autoridade Policial restringiram-se ao roubo praticado contra a agência dos Correios, ocasião em que o recorrente confessou a prática delituosa. Já na segunda vez que foi ouvido na fase inquisitorial, e pela primeira vez interrogado quanto ao roubo ocorrido no posto de gasolina na cidade de Perdões, o acusado negou veementemente o seu envolvimento no delito.
+Em sede judicial, o acusado manteve a sua versão dos fatos, confessando o delito de roubo praticado contra a agência dos Correios e negando a subtração realizada no posto de gasolina.
+De outro lado, ressalte-se que a vítima, Sebastião Geraldo Martins, apresentou versões conflitantes dos acontecimentos, sendo que em sede policial disse "não é capaz de afirmar com absoluta certeza (..) que reconhece que FILIPE FRANSCICO REIS é muito semelhante ao condutor do veículo", e sob o crivo do contraditório, declarou que não poderia reconhecer os autores do delito, pois não conseguira ver o rosto do motorista e os outros dois assaltantes estavam de máscara.
+Na instrução foram ainda ouvidos policiais, que apenas descreveram a prisão do acusado, mas em momento algum teriam presenciado a prática do delito. O Militar Diovanni Paiva disse não ter atuado na ocorrência da cidade de Perdões, afirmando haver efetuado a prisão de Filipe, enfatizando que a sua confissão foi restrita ao crime de roubo na agência dos Correios.
+ ..
+Assim, na verdade o que se tem contra o réu é apenas o fato de os assaltantes do posto de gasolina dirigiam o carro Golf que o acusado foi encontrado, mas em uma cidade diferente e cerca de 09 (nove) horas após. Ademais, verifica-se que a vítima e as câmeras de segurança não foram aptas a identificar o agente, não sendo possível visualizar o seu rosto com a clareza necessária.
+Também chama a atenção o fato de o agente ter confessado firmemente a participação no crime de roubo praticado na agência dos Correios e ter negado envolvimento quanto ao crime no posto de gasolina. Obviamente, nada impediria que o acusado mentisse quanto a um dos crimes, mas, convenhamos, não seria algo comum a postura de confessar apenas a prática de um deles.
+Nada mais do que isso foi produzido contra o réu.
+Ora, pedindo venia ao d. Sentenciante, é muito pouco para uma condenação criminal o simples fato de que o veículo utilizado nos dois roubos tenha sido o mesmo.
+Ressalte-se que: a) o acusado não foi identificado pela vítima ou qualquer testemunha; b) a exata importância em dinheiro subtraída no posto de gasolina não foi encontrada com o réu; e c) o apelante foi encontrado em poder do referido veículo somente 09 (nove) horas após o roubo do posto de gasolina e em uma cidade distinta.
+A partir daí, qualquer afirmação mais assertiva encontra-se no campo da especulação - não chegando sequer perto da certeza que se exige para uma condenação criminal -, fazendo com que nada mais dos autos subsista a incriminar o réu.
+Diante dessas considerações, vê-se que na verdade o órgão acusatório não logrou êxito em desincumbir-se de seu ônus probatório. O cometimento do crime pelo apelante não passa de mera suspeita, devendo ser aplicado em seu favor o princípio in dubio pro reo.
+A vigorar a máxima da dúvida em favor do acusado, a absolvição é medida de rigor. A conclusão a que se chega é a de que é até possível que o apelante tenha cometido o crime, mas essa assertiva não passa de mera suspeita. E, nesse caso, como é cediço, o princípio in dubio pro reo conduz à conclusão de que é melhor absolver possível delinquente a correr o risco de condenar provável inocente.
+Analisando detidamente os argumentos colacionados no acórdão, caminho no sentido de que desconstituir o julgado, com o objetivo de condenar o recorrente pelo delito de roubo majorado, não encontra amparo na via eleita, tendo em vista que demandaria o revolvimento do conjunto fático-probatório, atividade reservada às instâncias ordinárias e inviável no âmbito do Superior Tribunal de Justiça, em sede de recurso especial, em razão do óbice previsto na Súmula n. 7/STJ.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO E LATROCÍNIO. ABSOLVIÇÃO E DESCLASSIFICAÇÃO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. CONTINUIDADE DELITIVA INAPLICÁVEL. AGRAVO REGIMENTAL DESPROVIDO.  ..  2. Alterar a conclusão a que chegaram as instâncias ordinárias e decidir pela desclassificação do delito ou absolvição dos agravantes demandaria revolvimento do acervo fático-probatório dos autos, procedimento que encontra óbice na Súmula 7/STJ.  ..
+(AgRg no AREsp n. 2.002.341/TO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 19/4/2022, DJe de 27/4/2022).
+Assim, modificar o entendimento firmado pelas instâncias ordinárias, com o propósito de reverter a conclusão da Corte local, esbarra no óbice previsto na Súmula n. 7 do Superior Tribunal de Justiça.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
