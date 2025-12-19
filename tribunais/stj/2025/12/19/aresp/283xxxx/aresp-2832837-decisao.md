@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da ausência de violação a dispositivo legal, incidência da Súmula n. 7 do STJ e falta do devido cotejo analítico (fls. 176-178).
+O acórdão recorrido encontra-se assim ementado (fl. 132):
+AGRAVO DE INSTRUMENTO. Decisão agravada que rejeitou a impugnação. JUSTIÇA GRATUITA. Empresa que se encontra inapta, por ausência de apresentação das declarações de Imposto de Renda, tendo sua conta bancária encerrada aos 31/08/2020, não havendo que se falar em movimentação financeira. Gratuidade judiciária deferida. EXCESSO DE EXECUÇÃO. Não observado. Cálculos efetuados de acordo com a sentença profligada. Discussão quanto à correção monetária e juros de mora que estão sob o manto da coisa julgada. Agravo provido em parte.
+Nas razões do recurso especial (fls. 136-150), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte recorrente alegou dissídio jurisprudencial e violação dos seguintes dispositivos legais:
+(i) art. 240 do CPC, afirmando que, "a constituição em mora do devedor pela citação válida no caso de reconvenção deve ser interpretada com a intimação do autor/reconvindo" (fl. 141); e
+(ii) art. 5º da LINDB, em razão da necessidade de interpretação teleológica/extensiva para evitar enriquecimento sem causa, ajustando os termos iniciais dos consectários à efetiva ciência da pretensão reconvencional (fl. 145).
+Requer o deferimento da gratuidade de justiça e o reconhecimento do excesso de execução.
+Contrarrazões apresentadas (fls. 167-175).
+No agravo (fls. 181-194), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (fls. 199-206).
+É o relatório.
+Decido.
+Inicialmente, no que diz respeito à renovação da assistência judiciária gratuita, a Corte Especial do Superior Tribunal de Justiça, ao apreciar o AgRg nos EAREsp n. 86.915/SP, Rel. Ministro RAUL ARAÚJO, julgado em 26/2/2015, DJe 4/3/2015), decidiu que o referido benefício, uma vez concedido, prevalecerá em todas as instâncias e para todos os atos processais.
+Portanto, ficou decidido que eventual pedido de renovação apenas seria necessário no caso de revogação do benefício no curso do processo ou de indeferimento anterior, não havendo previsão legal que determine o referido pedido no caso da gratuidade de justiça já concedida. Assim, deferida a assistência judiciária anteriormente em favor da parte (fl. 133), fica dispensado novo exame do pedido em sede de recurso especial.
+Ademais, a parte recorrente alega violação dos arts. 240 do CPC e 5º da LINDB. Porém, o fundamento autônomo e suficiente do acórdão atacado é a imutabilidade da decisão de mérito (coisa julgada material) sobre os critérios de incidência dos consectários legais.
+Nesse contexto, o recurso especial, ao sustentar a incorreta aplicação do referidos dispositivos, não impugna de forma específica e objetiva o fundamento central da coisa julgada sobre os termos iniciais que, segundo o TJSP, foram fixados na sentença e não foram objeto de apelação.
+A alegação de que a discussão é "puramente jurídica" (fl. 192), não supera o referido óbice, considerando que, em sede de execução/cumprimento de sentença, o título executivo judicial, após o trânsito em julgado, é imutável, e a matéria relativa à correção e juros, uma vez decidida e não impugnada na fase de conhecimento, não pode ser reaberta, sob pena de ofensa ao art. 502 do CPC.
+Além disso, o recurso especial não demonstra, de forma específica, como o acórdão recorrido afrontou o art. 240 do CPC e o art. 5º da LINDB, se o seu fundamento principal reside na coisa julgada da decisão que definiu os marcos temporais e que a parte não contestou no momento processual oportuno.
+Nesse sentido, o recurso restringe-se a reavivar a discussão jurídica sobre o termo a quo em reconvenção, sem demonstrar a inobservância, pelo Tribunal estadual, dos preceitos legais invocados em face do comando da coisa julgada.
+Assim, a deficiência na fundamentação do recurso especial, que deixa de impugnar o fundamento autônomo e suficiente do acórdão recorrido (coisa julgada), atrai, por analogia, a incidência da Súmula n. 283 do STF.
+Ademais, o dissídio jurisprudencial também não restou demonstrado. A parte recorrente aponta como paradigma acórdão do TJMG que trata do efeito da intimação na reconvenção para fins de interrupção da prescrição, afirmando a equivalência da intimação à citação para os efeitos do art. 240 do CPC.
+Contudo, a questão fática em discussão não é a interrupção da prescrição, mas sim a impossibilidade de modificação do título executivo judicial transitado em julgado no que concerne aos termos iniciais de juros e correção monetária.
+Nesse sentido, o acórdão recorrido julgou a (im)possibilidade de alteração de critérios fixados em sentença e não impugnados no recurso de apelação: coisa julgada. O acórdão paradigma trata da interrupção do prazo prescricional e seus marcos na reconvenção. Não há, portanto, a similitude fática estrita exigida para a comprovação da divergência, pois as premissas fáticas e as questões jurídicas centrais são distintas: uma trata da imutabilidade do título judicial e a outra, da prescrição e o momento da constituição em mora para tal fim.
+Assim, a ausência de demonstração da similitude fática entre os casos confrontados inviabiliza o conhecimento do recurso especial também pela alínea "c", ou seja, a divergência apoiada em premissas fáticas distintas ou em mera transcrição de ementas, sem o cotejo analítico substancial sobre a mesma base fática, é deficiente e atrai, novamente, a aplicação da Súmula n. 284 do STF.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+ EMENTA
