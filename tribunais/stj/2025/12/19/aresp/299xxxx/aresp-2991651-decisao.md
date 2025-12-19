@@ -1,0 +1,56 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC), interposto por CONSTRUTORA CANADÁ LTDA - EM RECUPERAÇÃO JUDICIAL, contra decisão que não admitiu recurso especial.
+O apelo extremo, fundamentado na alínea "a" do permissivo constitucional, desafiou acórdão proferido pelo Tribunal de Justiça do Estado de Goiás, assim ementado (fl. 591-592, e-STJ):
+"APELAÇÃO CÍVEL. AÇÃO DE RESCISÃO CONTRATUAL. ATRASO NA CONCLUSÃO DA OBRA. INADIMPLÊNCIA CONTRATUAL. CULPA DO VENDEDOR. IMPOSSIBILIDADE DE RETENÇÃO DE VALORES PELA CONSTRUTORA. MULTA. INVERSÃO DA CLÁUSULA PENAL EM FAVOR DO CONSUMIDOR. DANOS MORAIS. OCORRÊNCIA. SENTENÇA PARCIALMENTE REFORMADA.
+1. A relação jurídica estabelecida pelas partes é regida pela Legislação Consumerista, uma vez que eles se amoldam aos conceitos de consumidor e fornecedor de serviços, nos moldes dos artigos 2º e 3º, do Código de Defesa do Consumidor.
+2. Nos termos do artigo 6º, VIII, do Código de Defesa do Consumidor, deve ser estabelecida a inversão do ônus da prova.
+3. Da análise dos argumentos expendidos pela requerida/apelante, tanto na sua peça de defesa, quanto nas razões recursais, ficou demonstrado que ela admitiu expressamente o atraso na entrega da obra, tentando justificar-se no fato de estar em processo de recuperação judicial, além de invocar a crise decorrente da pandemia do vírus da COVID-19; todavia, está claro que houve descumprimento do prazo para a conclusão da obra, por culpa exclusiva dela, que por isso, deve restituir os valores pagos pela autora/apelada, integral e imediatamente (Súmula 543 do STJ).
+4. Considerando que a rescisão do contrato se deu por inadimplência (culpa) do vendedor, não há se falar em retenção de valores.
+5. Restando configurado o inadimplemento contratual pela construtora/incorporadora/vendedora, é possível a inversão da cláusula penal estipulada em contrato, a título de indenização em favor da consumidora apelada, em homenagem ao princípio da reciprocidade (Tema 971/STJ).
+6. O atraso na entrega do imóvel priva o adquirente de bens da vida não mensuráveis economicamente, causando-lhe notório sentimento de frustração, que, somado ao descaso e omissão da parte vendedora, justificam a indenização, não se cogitando falar em mero aborrecimento.
+7. O valor do dano moral deve ser fixado de acordo com a situação fática, levando em consideração a situação econômica das partes, a repercussão do dano, os princípios da proporcionalidade e razoabilidade, de forma a não ensejar o enriquecimento ilícito, nem frustrar a intenção da lei.
+8. Diante do novo desfecho dado ao processo, impõe-se o reconhecimento da sucumbência da parte requerida, de modo que a construtora requerida arcará integralmente com as custas processuais e honorários advocatícios, que ora arbitro em 15% (quinze por cento) sobre o valor da condenação, já observada a majoração prevista no art. 85, § 11, do CPC.
+PRIMEIRA APELAÇÃO CÍVEL CONHECIDA E PROVIDA. SEGUNDA APELAÇÃO CÍVEL CONHECIDA E DESPROVIDA."
+Opostos embargos declaratórios, foram rejeitados, nos termos do acórdão de fls. 661-662, e-STJ.
+Nas razões de recurso especial (fls. 677-698, e-STJ), a parte recorrente aponta violação aos arts. 47 da Lei n. 11.101/05, 395 do Código Civil e 85, §10, do CPC.
+Sustenta, em síntese: a) ausência de descumprimento da previsão de prorrogação do prazo de entrega da obra, conforme plano de recuperação judicial; b) possibilidade de retenção de valores pagos, em virtude de despesas administrativas e de gestão de recebíveis; c) aplicação do princípio da causalidade para atribuir os ônus sucumbenciais ao recorrido.
+Contrarrazões apresentadas às fls. 756-760, e-STJ.
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, dando ensejo ao presente agravo (fls. 788-801, e-STJ).
+Contraminuta apresentada às fls. 808-809, e-STJ.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. A parte recorrente sustenta violação do art. 47 da Lei n. 11.101/05, ao argumento de que, em razão do prazo estabelecido pelo plano de recuperação judicial para a entrega do bem imóvel, não há que se falar em atraso na entrega do imóvel.
+No particular, o Tribunal de origem concluiu que (fl. 596-597, e-STJ):
+A alegação de que o atraso da obra se deu por caso fortuito e força maior, a meu ver não merece guarida.
+Ora, a recuperação judicial ou crise financeira não integram o conceito de caso fortuito ou força maior. Ademais, não é o fato de estar a construtora em recuperação judicial que vai impedir o autor de obter a restituição do numerário e consectários, uma vez que o contrato foi rescindido.
+Por outro lado, no Estado de Goiás, as atividades ligadas à construção civil não chegaram a sofrer paralisação durante o período pandêmico, por serem consideradas essenciais à economia, conforme atesta o Decreto estadual nº 9.653, de 19 de abril de 2020:
+(..)
+Assim, a requerida/segunda apelante não fez prova do fato extintivo do direito do autor/segundo apelado, ou seja, de que a obra foi entregue na forma prometida e dentro do prazo estabelecido no contrato.
+Sendo assim, para derruir a conclusão a qual chegou o acórdão recorrido e concluir que houve motivo de força maior, aptos a afastar a responsabilidade da recorrente pelo atraso na entrega da obra, revelar-se-ia necessário incursionar sobre o acervo probatório constante dos autos, inviável na presente esfera processual, ante o óbice contido na Súmula 7/STJ.
+Nesse sentido:
+AGRAVOS EM RECURSO ESPECIAL. PROCESSO CIVIL. AÇÃO DE RESCISÃO CONTRATUAL. CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA DA OBRA. CLÁUSULA DE TOLERÂNCIA. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA N. 283/STF. CASO FORTUITO E FORÇA MAIOR. REEXAME DE PROVAS. SÚMULA N. 7/STJ. LUCROS CESSANTES. CABIMENTO. PROGRAMA MINHA CASA, MINHA VIDA. DANO MORAL. NÃO CONFIGURAÇÃO. MERO INADIMPLEMENTO CONTRATUAL. APLICAÇÃO DA TEORIA DO ADIMPLEMENTO SUBSTANCIAL. PEDIDO DE REFORMA. IMPOSSIBILIDADE. SÚMULA N. 7/STJ.
+1. A ausência de impugnação a fundamento do acórdão recorrido suficiente para mantê-lo hígido atrai a incidência, por analogia, da Súmula n. 283 do Supremo Tribunal Federal.
+2. A revisão da conclusão do Tribunal de origem sobre a inexistência de caso fortuito ou de força maior para justificar o atraso na entrega da obra demandaria o reexame de fatos e provas, providência vedada em recurso especial, nos termos da Súmula n. 7 do Superior Tribunal de Justiça.
+3. A jurisprudência desta Corte Superior é firme no sentido de que o atraso na entrega do imóvel gera para o promitente-comprador o direito à indenização por lucros cessantes, cujo prejuízo é presumido e decorre da simples privação do uso do bem, sendo cabível a condenação ainda que se trate de imóvel adquirido no âmbito do Programa Minha Casa, Minha Vida.
+4. O simples inadimplemento contratual, consubstanciado no atraso de poucos meses na entrega de imóvel, não é capaz, por si só, de gerar dano moral indenizável, exigindo-se a demonstração de circunstâncias excepcionais que configurem lesão a direito da personalidade, o que não ocorreu na hipótese.
+5. No caso, o Tribunal de origem, soberano na análise das provas, concluiu pela ocorrência do adimplemento substancial ao considerar ínfimo o período de atraso na entrega da obra (inferior a quatro meses), afastando o pedido de resolução do contrato. A reforma dessa conclusão encontra óbice na Súmula n. 7/STJ.
+6. Agravo conhecido para não conhecer do recurso especial interposto por WILLIAN SUTIL DA SILVA E OUTROS. Agravo conhecido para conhecer parcialmente do recurso interposto por MONTE AZUL INCORPORAÇÃO E EMPREENDIMENTOS IMOBILIÁRIOS LTDA. e CONDOMÍNIO MIRANTE II SPE LTDA. e, nessa extensão, dar-lhe parcial provimento.
+(AREsp n. 2.897.174/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 29/9/2025, DJEN de 2/10/2025.)
+2. Com efeito, esta Corte consolidou o entendimento, inclusive em sede de recurso repetitivo, de que, na hipótese de resolução de contrato de promessa de compra e venda de imóvel por culpa exclusiva do promitente vendedor/construtor, como o acórdão recorrido afirmou ser o caso dos autos (premissa essa que não pode ser modificada em sede de recurso especial ante o disposto na súmula 7 do STJ), é cabível a rescisão do contrato, com a restituição dos valores devidos de forma imediata e integral.
+Confira-se:
+RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C DO CPC. DIREITO DO CONSUMIDOR. CONTRATO DE COMPRA DE IMÓVEL. DESFAZIMENTO. DEVOLUÇÃO DE PARTE DO VALOR PAGO. MOMENTO.
+1. Para efeitos do art. 543-C do CPC: em contratos submetidos ao Código de Defesa do Consumidor, é abusiva a cláusula contratual que determina a restituição dos valores devidos somente ao término da obra ou de forma parcelada, na hipótese de resolução de contrato de promessa de compra e venda de imóvel, por culpa de quaisquer contratantes. Em tais avenças, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento.
+2. Recurso especial não provido.
+(REsp 1300418/SC, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 13/11/2013, DJe 10/12/2013)
+Esse, inclusive, é o enunciado da Súmula nº 543 deste Corte, in verbis: "Na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento".
+O acórdão recorrido, portanto, no ponto, encontra-se em perfeita consonância com a jurisprudência desta Casa, o que atrai a incidência da Súmula 83 desta Corte.
+3. Insurge-se ainda, com relação ao art. 85, §10, do CPC, na medida em que a culpa pela rescisão do contrato é da parte recorrida e, portanto, não é dever da recorrente arcar com o ônus sucumbencial, vez que não deu causa ao processo.
+No ponto, o Tribunal de origem entendeu o seguinte (fl. 771, e-STJ):
+Diante do novo desfecho dado ao processo, impõe-se o reconhecimento da sucumbência da parte requerida, de modo que a construtora requerida arcará integralmente com as custas processuais e honorários advocatícios, que ora arbitro em 15% (quinze por cento) sobre o valor da condenação, já observada a majoração prevista no art. 85, § 11, do CPC.
+Com efeito, com relação ao pedido de redistribuição do ônus sucumbencial, "a jurisprudência desta Corte é firme no sentido de não ser possível a apreciação do quantitativo em que as partes saíram vencedoras ou vencidas na demanda, bem como da existência de sucumbência mínima ou recíproca, e a fixação do respectivo quantum, por implicar incursão no suporte fático da demanda, esbarrando no óbice da Súmula 7/STJ" (AgInt no REsp n. 1.418.989/RS, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 14/09/2020, DJe 1º/10/2020).
+4. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ,
+conheço do agravo para, de plano, negar provimento ao recurso especial e, com base no art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) o valor dos honorários sucumbenciais fixados pelo Tribunal de origem.
+Publique-se.
+Intimem-se.
+EMENTA
