@@ -1,0 +1,71 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de JOÃO AIRTON LOPES, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA (Quinta Câmara Criminal), nos autos da Apelação Criminal n. 0004164-44.2019.8.24.0019/SC.
+Consta dos autos que o paciente foi condenado à pena de 4 anos e 6 meses de reclusão, em regime inicial fechado, e ao pagamento de 22 dias-multa, pela prática do crime previsto no art. 155, §§ 1º e 4º, I, do Código Penal; a apelação defensiva foi conhecida e desprovida pela Quinta Câmara Criminal do TJSC, com trânsito em julgado em 07/08/2025 (fls. 564, 581-593, 594-595).
+A impetrante sustenta que a qualificadora do rompimento de obstáculo (art. 155, § 4º, I, CP) deve ser afastada porque não houve realização do exame pericial indispensável, sem qualquer justificativa estatal para sua não confecção, o que impede a comprovação da materialidade específica da qualificadora.
+Alega que, em crimes que deixam vestígios, a perícia é imprescindível (CPP, arts. 158 e 171) e somente pode ser suprida por outros meios (CPP, art. 167) quando os vestígios houverem desaparecido sem culpa atribuível ao Estado, o que não ocorreu no caso.
+Argumenta que o TJSC manteve a qualificadora exclusivamente com base em imagens e depoimentos, sem demonstrar a impossibilidade de realização da perícia ou o desaparecimento dos vestígios, configurando coação ilegal (fls. 583-589; inicial do HC, fls. 4-6).
+Defende o conhecimento do habeas corpus substitutivo diante da manifesta ilegalidade do acórdão e da necessidade de tutela célere, requerendo, subsidiariamente, a concessão da ordem de ofício.
+Ressalta que, afastada a qualificadora, a pena deve ser readequada para 2 anos e 3 meses de reclusão e 22 dias-multa.
+Requer a concessão da ordem para que seja afastada a qualificadora do rompimento de obstáculo e readequada a pena para 2 anos e 3 meses de reclusão e 22 dias-multa. Subsidiariamente, caso não seja conhecido o habeas corpus, pugna pela concessão da ordem de ofício.
+É o relatório.
+Decido.
+A análise da presente impetração exige rigorosa observância aos limites constitucionais do habeas corpus, remédio constitucional de natureza específica destinado exclusivamente à proteção do direito fundamental de locomoção, nos termos do art. 5º, LXVIII, da Constituição Federal.
+O desvirtuamento funcional do instituto tem sido objeto de constante preocupação desta Corte Superior. Conforme destacado pelo Ministro Rogério Schietti Cruz no AgRg no HC n. 959.440/RO, o Superior Tribunal de Justiça "não admite que o remédio constitucional seja utilizado em substituição ao recurso próprio (apelação, recurso especial, recurso ordinário), tampouco à revisão criminal", ressalvadas situações excepcionais de flagrante ilegalidade. O precedente enfatiza que a utilização inadequada do writ implica "subversão da essência do remédio heroico e alargamento inconstitucional de sua competência".
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+Consta que, em 20/2/2018, por volta das 4h20, JOÃO AIRTON LOPES, aproveitando-se do horário noturno, ingressou no estabelecimento comercial Dispace/VR Máquinas mediante destruição/rompimento de obstáculo (arrombamento da porta de entrada e da gaveta do caixa com barra de ferro), subtraindo aproximadamente R$ 500,00 em espécie e, na sequência, evadiu-se do local; a materialidade e a autoria foram demonstradas por imagens de câmeras de segurança e depoimentos, culminando na condenação por furto qualificado pelo rompimento de obstáculo (art. 155, § 4º, I, do Código Penal) (fls. 408-414).
+A impetrante requer o afastamento da qualificadora do rompimento de obstáculo por ausência de laudo pericial.
+O pedido não comporta acolhimento.
+O acórdão recorrido está assim fundamentado (fls. 522-523):
+ii. Do pedido de desclassificação:
+A tese de desclassificação para a modalidade simples do furto, discute a imprescindibilidade de prova pericial para atestar a materialidade da qualificadora do rompimento de obstáculo (art. 155, §4º, I, CP).
+Novamente sem razão a defesa.
+O Superior Tribunal de Justiça "admite a prescindibilidade da perícia técnica quando há outros elementos de prova que comprovam de forma inconteste a qualificadora de rompimento de obstáculo" (AgRg no HC n. 906.288/DF, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 11/3/2025, DJEN de 18/3/2025).
+A jurisprudência da egrégia Quinta Câmara Criminal, acompanha o referido entendimento:
+APELAÇÃO CRIMINAL. CRIME DE FURTO QUALIFICADO PELO ROMPIMENTO DE OBSTÁCULOS (ARTIGO 155, § 4º, INCISO I, DO CÓDIGO PENAL). SENTENÇA CONDENATÓRIA. RECURSO DA DEFESA. AFASTAMENTO DA QUALIFICADORA DO ROMPIMENTO DE OBSTÁCULO. NÃO ACOLHIMENTO. LAUDO PERICIAL QUE NÃO É IMPRESCINDÍVEL. FOTOGRAFIAS, DEPOIMENTOS DA TESTEMUNHA OCULAR E DOS POLICIAIS QUE ATESTAM A QUALIFICADORA. MANUTENÇÃO.  ..  (TJSC, Apelação Criminal n. 5010627-64.2024.8.24.0075, do Tribunal de Justiça de Santa Catarina, rel. Luiz Neri Oliveira de Souza, Quinta Câmara Criminal, j. 23-01- 2025).
+Na hipótese dos autos, como exaustivamente tratado no tópico anterior, a ação criminosa foi filmada pelas câmeras de segurança da empresa vítima, sendo que as imagens comprovam de maneira indubitável o arrombamento não só da porta principal do estabelecimento, como também da gaveta do caixa, fato que permitiu a subtração do dinheiro.
+As imagens foram corroboradas pela prova oral, notadamente o depoimento da sócia da empresa, Senhora Rosali Fátima Port:
+que a depoente chegou de manhã para trabalhar, que a depoente que abre a empresa, que ao chegarem perceberam que a porta estava semi - arrombada, que o acusado forçou a porta e entrou rastejando; que o acusado só furtou a sobra do caixa, pois todo o final de tarde pé fechado o caixa e retirado o dinheiro, que a quantia que o acusado furtou era o troco que tinha ali para o dia seguinte que era aproximadamente R$500,00 (quinhentos reais); que na época, as câmeras de segurança estavam inativas; que depois disso foi ajustado, mas na época não teve imagens, que viram apenas o vulto nas câmeras; que viram que era um homem magro, mas não conseguiram ver a aparência de ninguém, que a depoente se refere ao fato do dia 20/02/2018 quando foi arrombada a loja; que a depoente não chegou a visualizar as imagens; que a depoente não conseguiu reaver o dinheiro furtado; que foi feito o boletim de ocorrência, mas depois não foram mais contactados, mas o dinheiro não foi recuperado; Que tiveram um custo para arrumar a porta, mas a depoente não sabe dizer o valor, que não foi muito, que foi forçado a fechadura e a parte de baixo da mola, que não chegou a quebrar, que a depoente não lembra os valores, mas que não foi muito. Que a depoente não consegue afirmar de certeza que tenha ficado algum objeto do furto na loja, mas que a depoente acha que o acusado deixou, na frente da loja, um pé de cabra; que faz muito tempo, que a depoente não pode afirmar com certeza, mas acredita que tenha sido isso na época. Que o valor levado do caixa era em torno de uns R$500,00 (quinhentos reais). Que não foi feito prova pericial do arrombamento, que só foi feito o boletim de ocorrência; que na época alguns policiais foram lá olhar, que teve alguns outros arrombamentos no mesmo estilo do deles, mas não houve uma perícia até onde a depoente se recorda, pois faz muito tempo (transcrição conforme a sentença).
+Dessa forma, conclui-se que o laudo pericial do arrombamento, na hipótese, é prescindível, o que afasta a pretensão defensiva de desclassificação.
+Na espécie, a tese defensiva foi expressamente enfrentada pelo Tribunal estadual, com fundamentação assentada em elementos autônomos de convicção: filmagens do estabelecimento e relato da vítima.
+A par da discussão sobre a imprescindibilidade da perícia, o acórdão recorrido consignou, com base em precedentes do STJ, a prescindibilidade do laudo pericial quando presentes "outros elementos de prova que comprovam de forma inconteste a qualificadora de rompimento de obstáculo" (AgRg no HC n. 906.288/DF, Quinta Turma), aplicando tais balizas ao caso concreto (fls. 523, 588).
+Nesse contexto, não se identifica, no exame dos elementos dos autos, teratologia, abuso de poder ou ilegalidade flagrante que autorize a concessão de ordem de ofício.
+O acórdão impugnado está em conformidade com a jurisprudência do Superior Tribunal de Justiça, que admite o reconhecimento da qualificadora por rompimento de obstáculo sem exame pericial, de maneira excepcional, quando comprovada por outros meios. Nesse sentido:
+PENAL E PROCESSUAL PENAL. RECURSO ESPECIAL. FURTO TENTADO QUALIFICADO PELO CONCURSO DE PESSOAS E ROMPIMENTO DE OBSTÁCULO. ATENUANTE DA CONFISSÃO ESPONTÂNEA. IMPOSSIBILIDADE DE REDUÇÃO DA PENA ABAIXO DO MÍNIMO LEGAL. INCIDÊNCIA DA SÚMULA 231/STJ. QUALIFICADORA DE ROMPIMENTO DE OBSTÁCULO. PRESCINDIBILIDADE DE PERÍCIA TÉCNICA, EM CARÁTER EXCEPCIONAL, QUANDO CABALMENTE COMPROVADA POR OUTROS MEIOS DE PROVA. PRECEDENTES. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, IMPROVIDO.
+I. Caso em exame
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça de Santa Catarina que manteve a qualificadora de rompimento de obstáculo no crime de furto, sem a realização de exame pericial.
+2. Fato relevante. Os recorrentes foram condenados por furto qualificado, com base em prova oral e documental, sem a realização de laudo pericial para comprovar o rompimento de obstáculo.
+II. Questão em discussão
+3. A discussão consiste em saber se a qualificadora de rompimento de obstáculo pode ser mantida sem a realização de exame pericial quando comprovada cabalmente por prova oral e documental.
+4. A questão também envolve a possibilidade de redução da pena abaixo do mínimo legal em virtude da atenuante da confissão espontânea.
+III. Razões de decidir
+5. Embora a incidência das qualificadoras previstas no art. 155, § 4º, I e II, do Código Penal dependa, em regra, da confecção de laudo pericial, em situações excepcionais, é possível reconhecê-las, mesmo sem a produção da prova técnica, se cabalmente demonstrada a escalada ou o rompimento de obstáculo por meio de outras provas.
+6. No caso, a prova testemunhal e documental, aliada à confissão de um dos acusados, foi considerada suficiente para comprovar o rompimento de obstáculo.
+7. A decisão está em sintonia com a jurisprudência desta Corte, que admite a manutenção da qualificadora com base em robusto conjunto probatório.
+8. Quanto à atenuante da confissão espontânea, a jurisprudência consolidada na Súmula 231 do STJ impede a redução da pena abaixo do mínimo legal, de modo que o conhecimento do recurso, no ponto, esbarra no óbice da Súmula 83 do STJ.
+IV. Dispositivo e tese
+9. Recurso parcialmente conhecido e, nessa extensão, improvido.
+Tese de julgamento: "1. A qualificadora de rompimento de obstáculo pode ser mantida sem exame pericial, em caráter excepcional, quando comprovada cabalmente por outros meios de prova. 2. A incidência da atenuante da confissão espontânea não pode conduzir à redução da pena abaixo do mínimo legal".
+Dispositivos relevantes citados: CP, art. 155, § 4º, I; CPP, arts.
+158 e 167.Jurisprudência relevante citada: STJ, AgRg no HC n. 958.409/SE, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 30/4/2025, DJEN de 8/5/2025; STJ, AgRg no AgRg no AREsp n. 2.346.932/SE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/8/2023, DJe de 14/8/2023.
+(REsp n. 2.172.321/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 24/6/2025, DJEN de 30/6/2025.)
+DIREITO PENAL. AGRAVO REGIMENTAL. FURTO QUALIFICADO. ROMPIMENTO DE OBSTÁCULO. AUSÊNCIA DE LAUDO PERICIAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra a decisão monocrática que não conheceu do habeas corpus, no qual se alegava constrangimento ilegal pela ausência de laudo pericial para comprovar o rompimento de obstáculo em furto qualificado.
+2. Os agravantes foram condenados pela prática de furto qualificado, com penas de reclusão em regime semiaberto e aberto, respectivamente.
+3. O Tribunal de origem negou provimento ao apelo defensivo e não acolheu embargos infringentes e de nulidade.
+II. Questão em discussão
+4. A discussão consiste em saber se a ausência de laudo pericial para comprovar o rompimento de obstáculo em furto qualificado configura constrangimento ilegal, considerando que a materialidade foi demonstrada por outros meios de prova.
+III. Razões de decidir
+5. A jurisprudência do STJ admite, excepcionalmente, a substituição do laudo pericial por outros meios de prova quando o rompimento de obstáculo é cabalmente demonstrado por elementos probatórios robustos.
+6. No caso, a Corte local considerou comprovado o rompimento de obstáculo por meio de confissão dos réus, prova testemunhal e imagens de câmeras de segurança, dispensando a perícia formal.
+7. A decisão monocrática está em sintonia com a jurisprudência desta Corte Superior, que admite a manutenção da qualificadora sem laudo pericial, desde que comprovada por outros meios idôneos.
+IV. Dispositivo e tese
+8. Agravo regimental não provido.
+Tese de julgamento: 1. A ausência de laudo pericial não impede a aplicação da qualificadora de rompimento de obstáculo, desde que comprovada por outros meios de prova robustos. 2. A substituição do laudo pericial por outros meios de prova é possível quando o rompimento de obstáculo é cabalmente demonstrado.
+Dispositivos relevantes citados: CP, art. 155, § 4º, I e II; CPP, art. 158.
+Jurisprudência relevante citada: STJ, AgRg no HC 797.935/SC, Rel. Min. Laurita Vaz, Sexta Turma, j. 02.10.2023; STJ, AgRg no HC 895.457/SC, Rel. Min. Messod Azulay Neto, Quinta Turma, j. 13.05.2024.
+(AgRg no HC n. 923.461/MS, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 30/4/2025, DJEN de 8/5/2025.)
+Em razão da comprovação do rompimento de obstáculo por outros meios de prova, a ausência do laudo pericial não impede o reconhecimento da qualificadora.
+Ante o exposto, não conheço do habeas corpus, inexistindo ilegalidade flagrante a justificar concessão de ofício.
+Publique-se. Intimem-se.
+EMENTA
