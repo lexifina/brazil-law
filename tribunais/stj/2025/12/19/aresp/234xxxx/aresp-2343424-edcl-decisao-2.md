@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por FRANCISCO ALVES DOS SANTOS contra decisão que conheceu do agravo para não conhecer do recurso especial.
+O embargante sustenta a ocorrência de omissões e contradições no julgado em relação às provas dos autos e aos argumentos deduzidos, especialmente ausência de dolo específico, ofensa à Súmula n. 24 do STF e à impossibilidade de prisão provisória.
+O Ministério Público distrital apresentou impugnação, requerendo a rejeição do recurso.
+É o relatório.
+Nos termos do art. 619 do Código de Processo Penal, é cabível a oposição de embargos de declaração quando houver no julgado ambiguidade, obscuridade, contradição ou omissão, hipóteses inexistentes.
+A decisão embargada foi clara e fundamentada quanto ao não conhecimento do recurso especial, deixando certo que (fls. 2.027-2.030):
+Da leitura das razões recursais, verifica-se que o recurso especial não deve ser conhecido.
+Quanto à primeira violação apontada, ao contrário do afirmado pela Defesa, o acórdão recorrido enfrentou todas as teses que entendeu relevantes para o deslinde do feito.
+O acórdão confirma a existência de materialidade e a exigibilidade do ICMS antecipado nas operações interestaduais de entrada de produtos de origem animal, com base na ausência de "termo de acordo" e na disciplina do art. 320, Anexo VIII, seção IV-A c/c art. 74, II, c, do Decreto 18.995/97 (RICMS/DF), além dos arts. 5º, XI, "a", e 46, § 1º, da Lei 1.254/96 (e-STJ fls. 1530, 1535-1536, 1555-1557). Afastou-se a nulidade do Auto de Infração nº 16.082/2014, registrando que a ação anulatória n. 0701991-46.2020.8.07.0018 foi julgada improcedente com trânsito em julgado em 26/03/2021 (e-STJ fls. 1537 e 1557).
+Além disso, o acórdão reconstruiu a natureza das operações e concluiu pela exigibilidade do tributo. Consta também da decisão recorrida que, conforme a jurisprudência do egrégio Superior Tribunal de Justiça, basta o dolo genérico para a configuração dos crimes em questão. O acórdão rejeita a desclassificação porque a prova dos autos confirma que o fato praticado coincide com o narrado na denúncia e se amolda ao tipo, mencionando a fraude à fiscalização e a omissão de operações tributáveis em livros fiscais exigidos por lei (AI 5.782/2008-DIFIT e AI 16.082/2014), com suporte testemunhal (e-STJ fls. 1534-1536 e fls. 1554-1557), notadamente os depoimentos dos auditores e do contador, evidenciando a dinâmica típica (e-STJ fls. 1535-1536 e fls. 1555-1557).
+Por fim, a decisão recorrida estabelece a responsabilidade penal dos administradores que detinham o domínio da gestão fiscal e da escrituração, afastando "responsabilidade objetiva" e afirmando, ao menos, o dolo eventual (e-STJ fls. 1537 e 1557), apontando que a regular constituição do crédito e inscrição em dívida ativa não impedem a responsabilização penal (fls. 1533-1534; 1546; 1566).
+Como se depreende do acórdão proferido pelo Tribunal de origem enfrentou todas as teses defensivas essenciais ao deslinde do feito. Ademais, conforme pontuado nos embargos de declaração, o julgador não é obrigado a se manifestar sobre todos os argumentos apresentados, notadamente aquelas que não sejam capazes de infirmar as conclusões do julgado. Nesse sentido:  ..
+Assim, foram afastadas as alegações e argumentos deduzidos pela Defesa, de forma que revisar as conclusões do Tribunal de origem a respeito da tipicidade das condutas encontra óbice no enunciado 7 da Súmula desta Corte. A propósito:  ..
+Quanto à prisão provisória, sustenta o recorrente a impossibilidade de execução provisória da pena. No entanto, o recurso não pode ser conhecido, pois não foi indicado o dispositivo de lei federal supostamente violado, atraindo a incidência da Súmula 284 do Supremo Tribunal Federal (e-STJ fl. 1644).
+Ausente,  pois,  causa  integrativa  no  acórdão  embargado,  impõe-se a rejeição d  os  embargos  de  declaração, que não se destinam  a provocar o rejulgamento da causa por mero inconformismo com o seu resultado.
+Por fim, a contradição que rende ensejo à oposição de embargos de declaração é a interna ao julgado, caracterizada por proposições inconciliáveis entre si, não em relação às provas dos autos.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
+Intimem-se.
+ EMENTA
