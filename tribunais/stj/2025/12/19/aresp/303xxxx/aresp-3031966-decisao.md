@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo interposto por VALTER ALVES BAIAO contra decisão que inadmitiu o recurso especial com base no óbice da Súmula n. 83 do Superior Tribunal de Justiça.
+O agravante foi condenado, como incurso no art. 33, caput, da Lei n. 11/343/2006, a 2 anos de reclusão, e mais 200 dias-multa, em regime inicial aberto, substituída a pena corporal por penas restritivas de direitos.
+Em apelação interposta pela defesa, o Tribunal de origem conheceu parcialmente do recurso e, nessa extensão, o desproveu.
+No recurso especial, apontou-se ofensa ao art. 157 do Código de Processo Penal. Para tanto, sustenta-se, em síntese, a nulidade do flagrante e dos atos subsequentes, devido à violência policial perpetrada em desfavor do recorrente .
+Alegou-se, ainda, ofensa aos arts. 59 do Código Penal e 42 da lei n. 11.343/2006, pois "o fato de ter sido o crime praticado durante a luz do dia e a alta nocividade de parte das drogas apreendidas (cocaína) não justificam a exasperação procedida pelo Juízo a quo, pois incapazes de fundamentar maior reprovação, deve ser afastada a desvaloração das circunstâncias do crime e a natureza e quantidade da droga, com a correspondente diminuição da pena-base" (fl. 300).
+Oferecidas as contrarrazões, o recurso especial foi inadmitido na origem.
+No agravo em recurso especial, alega a parte que o óbice da Súmula n. 83/STJ foi erroneamente aplicado, uma vez que não se pode afirmar que a decisão vergastada se coaduna com a orientação do STJ, pois esta Corte já proferiu decisões no sentido do recurso especial ora inadmitido.
+Aduz, ainda, que está consolidado na jurisprudência do Superior Tribunal de Justiça, quanto à valoração negativa das circunstâncias do crime, o fato de que a ocorrência do delito de tráfico de drogas acontecer em plena luz do dia - ou em local de grande circulação - não ultrapassa as próprias delimitações do tipo penal.
+Em parecer, o Ministério Público Federal opinou pelo desprovimento do agravo em recurso especial, consoante a seguinte ementa (fl. 379):
+ARESP. PENAL E PROCESSO PENAL. CRIME DE TRÁFICO DE DROGAS. SÚMULA 83/ STJ.
+- A impugnação da defesa não merece acolhida, em face da aplicação da decisão que deixou de admitir o recurso especial.
+- Parecer pelo desprovimento do agravo em recurso especial.
+É o relatório.
+O agravo é tempestivo, todavia não ultrapassa o juízo de admissibilidade para o exame do recurso especial.
+A decisão de inadmissibilidade assim dispôs (fls. 323-325):
+ ..  1. Da ofensa aos arts. 59, do Código Penal, 42 da Lei 11.342/06 e 157, do Código de Processo Penal.
+O acórdão recorrido não contrariou os dispositivos de leis federais supramencionados, porquanto, em face da comprovação da autoria e materialidade delitivas, condenou o recorrente pela prática do crime previsto no art. 33, caput, da Lei nº 11.343/2006, nos seguintes termos:
+ ..  A Defesa sustenta a ocorrência de agressões físicas perpetradas por agentes públicos no momento da abordagem e durante a condução do Acusado à Delegacia, pugnando pelo reconhecimento da nulidade das provas produzidas.
+Da análise do arcabouço probatório, nota-se que, no laudo de exame de lesões corporais, o perito médico-legal atestou a presença de "ferida abrasiva amorfa em cotovelo direito; escoriações amorfas em antebraço esquerdo e cotovelo homolateral; presença de curativo em prega anterior do cotovelo referido como local de medicação no HGE" (ID 76261470-71).
+Ademais, verifica-se que a prisão do Apelante ocorreu quando policiais, após tentarem abordar dois indivíduos em uma motocicleta, foram atraídos por um tumulto generalizado na localidade das "Casinhas", Ceasa, nesta Capital. Ao se aproximarem, várias pessoas empreenderam fuga, sendo o Apelante alcançado e abordado. Ao ser submetido à prisão, resistiu ativamente, razão pela qual precisou ser imobilizado.
+Nesse contexto, entendo que não foram registradas lesões de maior gravidade e não há elementos que indicassem emprego de violência perpetrado pelos policiais militares, tampouco que eles teriam agido de forma excessiva ou desproporcional.
+ ..  Assim, considerando todas as circunstâncias fáticas acima descritas, não se verifica qualquer nexo de causalidade entre as lesões constatadas e a obtenção das provas que sustentam a ação penal. Além disso, não restou comprovado que as escoriações decorreram da atuação policial.  .. Neste capítulo, a Defesa pretende a redução da pena-base, bem como a imposição do regime inicial aberto e a substituição da sanção corporal por pena restritiva de direitos.
+Na primeira fase, nota-se que o Juízo de origem teceu considerações acerca das circunstâncias judiciais descritas no art. 59, do CP, como culpabilidade, motivo, circunstâncias e consequências do crime e, considerando predominantemente a natureza de uma das drogas apreendidas (cocaína), fixou a pena-base em 6 (seis) anos de reclusão e 600 (seiscentos) dias-multa  ..  Vê-se, pois, que o fundamento utilizado para a majoração da pena basilar foi idôneo e converge com o quanto disposto no art. 42, da Lei nº 11.343/06, o qual determina que o Magistrado considere a quantidade e natureza do entorpecente de forma preponderante na fixação da reprimenda, porquanto foram apreendidos em poder do Acusado 98 (noventa e oito) pinos de cocaína, substância de alto teor toxicológico.
+Cumpre registrar, neste particular, que o Juízo primevo não observou o critério majoritariamente adotado pela jurisprudência pátria, segundo o qual o aumento decorrente de circunstância judicial desfavorável deve corresponder a 1/8 (um oitavo) da diferença entre os limites mínimo e máximo da pena cominada ao tipo penal em questão. No entanto, em atenção ao princípio do non reformatio in pejus, mantém-se a pena-base no quantum fixado na sentença combatida.
+Na segunda etapa, ausentes agravantes ou atenuantes.
+Na terceira fase, reconhecida a causa de diminuição descrita no §4º do art. 33 da Lei nº 11.343/2006, reduzida a pena na fração de 2/3 (dois terços), resultando em 2 (dois) anos de reclusão e 200 (duzentos) dias- multa. ..
+Assim, ao afastar o pleito do recorrente o acórdão combatido decidiu a matéria em conformidade com jurisprudência pacificada no Superior Tribunal de Justiça. ..
+Analisando as razões do agravo em recurso especial, observa-se que a parte não impugnou, em relação à violação do art. 157 do CPP, o óbice da Súmula n. 83/STJ, limitando-se a afirmar genericamente (fl. 344):
+ ..  Desse modo, foi erroneamente aplicado, na decisão agravada, o enunciado n. 83 da Súmula desta Corte Superior, visto que não se pode afirmar que a decisão vergastada se coaduna com a orientação do STJ, pois, conforme demonstrado acima, esta Colenda Corte Superior já proferiu decisões no sentido do recurso especial ora inadmitido. ..
+Assim, não é suficiente para impugnar a incidência da Súmula n. 83/STJ tecer críticas quanto à sua incidência, sendo indispensável que se indiquem precedentes recentes que infirmem o referido entendimento jurisprudencial ou que demonstrem sua inaplicabilidade, o que não ocorreu no caso, em que o agravante se limitou a afirmar, genericamente, a conformidade da pretensão recursal com a jurisprudência desta Corte.
+Tal circunstância atrai a incidência da Súmula n. 182 desta Corte, que dispõe: " é  inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ressalte-se que a simples repetição das razões de mérito do recurso especial não supre a exigência de impugnação concreta e pormenorizada, como exige o princípio da dialeticidade recursal. A propósito:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE. SÚMULA 182 DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A ausência de impugnação específica aos fundamentos da decisão agravada impede o conhecimento do recurso, nos termos do que dispõe a Súmula 182 do STJ.
+2. Na hipótese, o agravante deixou de refutar especificamente os fundamentos de inadmissão do recurso especial (no caso, Súmulas 7 e 83 do STJ), incidindo, portanto, o óbice da Súmula 182 do STJ.
+3. "Não ultrapassado o juízo de admissibilidade dos recursos, inviável a análise das questões de mérito neles deduzidas" (AgRg no AREsp 1.534.025/PR, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 24/9/2019, DJe 7/10/2019).
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.628.916/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 11/6/2024, DJe de 17/6/2024).
+Por fim, a decisão de admissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo. Desse modo, a falta de impugnação efetiva a um de seus fundamentos impede o conhecimento do respectivo agravo, nos termos do art. 932, III, do Código de Processo Civil.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
