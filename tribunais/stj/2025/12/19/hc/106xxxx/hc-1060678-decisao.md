@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de FRANCISCO NATANAEL MENDONCA DA SILVA, apontando-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PIAUÍ no julgamento do Habeas Corpus n. 0758480-78.2025.8.18.0000.
+Consta do processo que o paciente foi preso preventivamente pela suposta prática dos delitos previstos nos arts. 2º, caput, da Lei n. 12.850/2013, e 33, caput, da Lei n. 11.343/2006.
+Neste writ, alega que a prisão preventiva seria ilegal, sem fatos contemporâneos e sem reavaliação periódica (art. 316, parágrafo único, CPP), além de morosidade processual (fls. 3/11).
+Afirma cerceamento de defesa por indeferimento de acesso às mídias, e negativa de prova pericial, com ofensa ao contraditório e à ampla defesa (fls. 4/8).
+Sustenta fundamentação genérica e inidônea do acórdão e do decreto prisional (fls. 7/11).
+Requer, inclusive liminarmente, a rev ogação da prisão preventiva e a expedição de alvará de soltura, com ou sem cautelares alternativas (fls. 10/12).
+É o relatório.
+Inicialmente, no que concerne às alegações acerca de ausência de contemporaneidade da prisão, reavaliação periódica (art. 316, parágrafo único, CPP), excesso de prazo (morosidade) e cerceamento de defesa, verifico que tais questões não foram debatidas no acórdão impugnado, o que obsta o exame desta Corte, sob pena de indevida supressão de instância.
+Segundo o entendimento desta Corte, o prévio exame das alegações pelas instâncias ordinárias constitui requisito indispensável para sua apreciação nesta instância, ainda que se cuide de questão de ordem pública. A propósito: AgRg no RHC n. 189.567/RJ, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Sexta Turma, DJe de 11/4/2024.
+No mais, do atento exame dos autos, observo que a segregação cautelar do acusado se encontra fundamentada em elementos concretos que apontam sua atuação em facção criminosa e o risco de reiteração delitiva. O Tribunal de Justiça registrou dados de interceptações e extrações telemáticas, relatórios de inteligência e oitivas que o indicam como liderança da facção GDE, com prática reiterada de tráfico de drogas, gestão do grupo e vínculos com integrantes presos, além de histórico criminal no Estado do Ceará (fls. 18/22; 33/37).
+Com efeito, a jurisprudência desta Corte Superior compreende que a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente possuir maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade (ver, nesse sentido, o AgRg no RHC n. 159.385/SC, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 27/5/2022).
+Não bastasse isso, a necessidade de minorar ou interromper a atuação do paciente em organização criminosa, ainda que de modo emergencial, demonstra o perigo que sua permanência em liberdade representa para a ordem pública (ver, nesse sentido, o AgRg na PET no HC n. 809.193/RJ, Ministra Laurita Vaz, Sexta Turma, DJe 16/10/2023).
+Nessa conjuntura, mostra-se indevida a aplicação de medidas cautelares diversas da prisão, pois a segregação se encontra fundada na gravidade efetiva do delito, indicando que as providências menos gravosas seriam insuficientes para acautelar a ordem pública e evitar a prática de novos crimes (HC n. 550.688/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 17/3/2020; e HC n. 558.099/SP, Ministro Jorge Mussi, Quinta Turma, DJe 5/3/2020).
+Ante o exposto, indefiro liminarmente a petição inicial.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA E TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. ALEGAÇÃO DE AUSÊNCIA DE CONTEMPORANEIDADE, REAVALIAÇÃO PERIÓDICA, EXCESSO DE PRAZO E CERCEAMENTO DE DEFESA. SUPRESSÃO DE INSTÂNCIA. FUNDAMENTAÇÃO. ELEMENTOS CONCRETOS. NECESSIDADE DE RESGUARDAR A ORDEM PÚBLICA.
+Petição inicial liminarmente indeferida.
