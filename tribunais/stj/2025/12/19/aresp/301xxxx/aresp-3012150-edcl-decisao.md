@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de embargos de declaração em face da decisão de fls. 731-733, assim ementado:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. EXTINÇÃO EM RAZÃO DE SENTENÇA PROFERIDA EM AÇÃO ANULATÓRIA. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. ARBITRAMETO POR APRECIAÇÃO EQUITATIVA. ACÓRDÃO CONTRÁRIO À JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. RECURSO ESPECIAL EM PARTE PROVIDO.
+Sustenta a parte embargante, em síntese, que (fl. 739):
+Ora, se a pretensão recursal não visa alterar o critério de fixação dos honorários de sucumbência, mas exclui-los, por se tratar, em seus dizeres, de ato judicial em que não caiba sua fixação, não há de se acolher o recurso, mesmo que parcialmente para alterar o critério, se tal não consta da pretensão recursal.
+E, ainda, como já foi dito e cabe a repetição, a própria Recorrente aponta se trará de hipótese diversa do Tema 1.076, além de nãos e estar diante de causa de valor baixo, ou conteúdo econômico irrisório ou inestimável.
+Diante do exposto, por entender que a respeitável decisão é omissa em tais questões, fundamentais para o entendimento e decisão recursal, requer sejam os presentes recebidos para sambar a questão verificada e, ainda, lhes sejam atribuídos efeitos infringentes para modificar o julgado e negar provimento ao Recurso Especial.
+Sem impugnação.
+É o relatório. Decido.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material. Não se prestam à simples reanálise da causa, nem são vocacionados a modificar o entendimento do órgão julgador.
+De fato, a pretexto de apontar omissão, insurge-se contra a decisão singular, sem demonstrar ter havido contradição, obscuridade, omissão ou erro material a justificar a oposição dos embargos de declaração, em desalinho com o que prevê o art. 1.023, caput, do CPC/2015.
+Com efeito, cabe ao embargante ao apontar a existência de erro, contradição, obscuridade ou omissão, indicar, de forma fundamentada, clara e balizada, o ponto em que a decisão embargada incorreu no vício alegado, o que não ocorreu no caso em exame, em que a embargante limitou-se à insurgir-se contra o teor da decisão impugnada.
+Nesse contexto, a ausência de indicação dos vícios que justificariam a oposição dos Embargos de Declaração, além de inobservar a exigência do art. 1.023 do CPC/2015, impede a exata compreensão da controvérsia, atraindo a incidência da Súmula n. 284 do STF, por analogia.
+A propósito:
+PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS NO AGRAVO INTERNO NA RECLAMAÇÃO. AUSÊNCIA DE INDICAÇÃO DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL, NO ACÓRDÃO EMBARGADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS, COM ADVERTÊNCIA DE IMPOSIÇÃO DE MULTA.
+I. Embargos de Declaração opostos a acórdão prolatado pela Primeira Seção do Superior Tribunal de Justiça, publicado na vigência do CPC/2015.
+II. Segundo a jurisprudência do STJ, "a ausência de indicação, nas razões dos embargos declaratórios, da presença de quaisquer dos vícios enumerados no art. 1.022 do CPC/2015 implica o não conhecimento dos aclaratórios por descumprimento dos requisitos previstos no art. 1.023 do mesmo diploma legal, além de comprometer a exata compreensão da controvérsia trazida no recurso. Aplicação da Súmula n. 284 do STF" (STJ, EDcl no AgInt nos EAREsp 635.459/MG, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, DJe de 15/03/2017). Em igual sentido: STJ, EDcl no AgInt no AREsp 865.398/PR, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 08/03/2017.
+III. No caso, os Embargos de Declaração não podem ser conhecidos, pois a parte embargante não aponta omissão, contradição, obscuridade ou erro material existentes no acórdão embargado, demonstrando mero inconformismo com as conclusões do decisum. Incidência da Súmula 284/STF.
+IV. Embargos de Declaração não conhecidos, com advertência de imposição de multa, em caso de nova oposição de Declaratórios. (EDcl no AgInt na Rcl 35.322/RS, Rel. Min. Assusete Magalhães, Primeira Seção, DJe 19/6/2019; destaque acrescido).
+Com efeito, "a pretensão de rediscutir matéria devidamente abordada e decidida no julgado embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via eleita" (EDcl no AgInt nos EAREsp n. 2.282.191/SE, relator Ministro Humberto Martins, Corte Especial, julgado em 8/10/2024, DJe de 17/10/2024; grifo nosso.)
+Ante o exposto, não conheço dos embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AUSÊNCIA DE DEMONSTRAÇÃO DOS VÍCIOS PREVISTOS NO ARTIGO 1.022 DO CPC/2015. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS.
