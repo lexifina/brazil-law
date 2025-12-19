@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por MATHEUS ALVES MARTINS contra decisão da Presidência da Seção de Direito Criminal do Tribunal de Justiça do Estado de São Paulo que inadmitiu o recurso especial, com fundamento na Súmula n. 7, STJ (fls. 429-430).
+Consta dos autos que o agravante foi condenado pela prática do crime de tráfico de drogas, previsto no art. 33, caput, da Lei n. 11.343/2006, à pena de 5 (cinco) anos de reclusão, em regime inicial fechado, e ao pagamento de 500 (quinhentos) dias-multa (fls. 165-186). A 11ª Câmara de Direito Criminal do Tribunal de origem deu parcial provimento à apelação apenas para fixar a pena-base no mínimo legal, mantendo, no mais, a condenação, o afastamento da causa de diminuição do art. 33, § 4º, da Lei de Drogas e o regime inicial fechado (fls. 359-380).
+No recurso especial (fls. 387-413), a defesa sustentou violação aos arts. 158-A a 158-F, 254, 381, inciso III, e 386, inciso VII, do Código de Processo Penal, bem como ao art. 33, § 4º, da Lei n. 11.343/2006 e aos arts. 33, §§ 2º e 3º, e 59 do Código Penal, pleiteando, em síntese, o reconhecimento de nulidades por quebra da cadeia de custódia e por imparcialidade do magistrado, a absolvição por insuficiência probatória e, subsidiariamente, a aplicação da causa de diminuição do tráfico privilegiado e o abrandamento do regime prisional.
+A decisão agravada inadmitiu o recurso especial por entender que as teses defensivas demandam o revolvimento do acervo fático-probatório, atraindo a incidência da Súmula n. 7 desta Corte (fls. 429-430).
+No agravo (fls. 433-443), a parte sustenta, em síntese, que a análise das questões suscitadas não demanda reexame de provas, mas mera revaloração jurídica dos fatos já fixados pelo Tribunal de origem.
+O Ministério Público Federal opinou pelo não conhecimento do recurso (fls. 466-468).
+É o relatório. DECIDO.
+O agravo não comporta conhecimento.
+A decisão de inadmissibilidade proferida na origem constitui ato uno e incindível, de modo que todos os seus fundamentos devem ser especificamente impugnados pelo agravante, sob pena de subsistir razão suficiente para manter a negativa de seguimento do recurso especial. Trata-se de exigência decorrente do princípio da dialeticidade, positivado no art. 932, inciso III, do Código de Processo Civil, e cristalizado na Súmula n. 182, STJ.
+Examinando as razões do agravo, verifico que a defesa limitou-se a reiterar os mesmos argumentos deduzidos no recurso especial, afirmando genericamente que as teses versam sobre revaloração jurídica. Contudo, não demonstrou, em cotejo analítico com os fatos fixados pelo acórdão recorrido, de que modo cada uma das questões suscitadas poderia ser revista sem o revolvimento do acervo fático-probatório.
+Observe-se que as teses defensivas envolvem a valoração dos depoimentos policiais prestados em juízo, a correspondência entre lacres e laudos periciais para aferição da cadeia de custódia, a interpretação da postura do magistrado na condução da audiência e a análise dos elementos concretos que levaram as instâncias ordinárias a afastar a causa de diminuição do art. 33, § 4º, da Lei de Drogas  questões todas que, à evidência, demandam incursão sobre o conjunto probatório, cabendo ao agravante demonstrar o contrário de forma específica e pormenorizada, o que não fez.
+A jurisprudência desta Corte é firme no sentido de que a mera alegação de revaloração jurídica, desacompanhada de demonstração específica e concreta, não é suficiente para afastar o óbice da Súmula n. 7, STJ. A propósito:
+Direito processual penal. Agravo regimental. Impugnação específica de fundamentos da decisão de inadmissibilidade. Requisitos de admissibilidade recursal. Agravo regimental não provido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu do agravo em recurso especial, por ausência de impugnação específica de todos os fundamentos da decisão de inadmissibilidade proferida pelo Tribunal a quo.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a ausência de impugnação específica de todos os fundamentos da decisão de inadmissibilidade do recurso especial, nos termos do art. 932, inciso III, do CPC, obsta o conhecimento do agravo em recurso especial.
+III. Razões de decidir
+3. A decisão que não admite o recurso especial possui dispositivo único, ainda que a fundamentação contenha múltiplas causas impeditivas do julgamento do mérito recursal. Todos os fundamentos devem ser impugnados de forma específica, sob pena de incidência da Súmula 182/STJ.
+4. A jurisprudência do STJ é firme no sentido de que a ausência de impugnação adequada de todos os fundamentos da decisão de inadmissibilidade impede o conhecimento do agravo em recurso especial.
+5. A possibilidade de admissibilidade parcial do recurso especial não se aplica ao caso concreto, pois o Tribunal a quo inadmitiu integralmente o recurso especial com base em múltiplos fundamentos, não impugnados adequadamente pelo agravante.
+6. A exigência de impugnação específica de todos os fundamentos da decisão de inadmissibilidade, não configura formalismo excessivo, mas sim garantia de que o debate recursal seja travado de forma ordenada, clara e dialética.
+7. As teses deduzidas no agravo regimental não infirmam os fundamentos da decisão combatida, limitando-se a reiterar argumentos já apreciados e refutados nas decisões anteriores.
+IV. Dispositivo e tese
+8. Resultado do Julgamento:Agravo regimental não provido.
+Tese de julgamento:
+1. A decisão que não admite o recurso especial possui dispositivo único, e todos os fundamentos devem ser impugnados de forma específica, sob pena de incidência da Súmula 182/STJ.
+2. A ausência de impugnação adequada de todos os fundamentos da decisão de inadmissibilidade do recurso especial obsta o conhecimento do agravo em recurso especial.
+3. A exigência de impugnação específica de todos os fundamentos da decisão de inadmissibilidade, não constitui formalismo excessivo, mas sim garantia de que o debate recu rsal seja travado de forma ordenada, clara e dialética.
+Dispositivos relevantes citados:CPC, art. 932, III; CF/1988, art. 102, III, "a".
+Jurisprudência relevante citada:STJ, EAREsp 701.404/SC, Corte Especial; STJ, AgRg no AREsp 1.825.284/ES, Quinta Turma, Rel. Min. Jesuíno Rissato, DJe 21/10/2022; STJ, AgRg no HC 804.533/PE, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 17/3/2023; STJ, AgRg no HC 659.003/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe 30/3/2023.
+(AgRg nos EDcl no AREsp n. 2.468.140/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 11/11/2025, DJEN de 14/11/2025.)
+Do mesmo modo, esta Quinta Turma tem reiteradamente assentado que alegações genéricas de revaloração da prova, desacompanhadas de cotejo analítico com as premissas fáticas do acórdão recorrido, não suprem a exigência de impugnação específica:
+A jurisprudência do STJ é pacífica no sentido de que alegações genéricas de revaloração da prova, desacompanhadas de cotejo analítico com as premissas fáticas do acórdão recorrido, não afastam a incidência da Súmula n. 7, STJ. (AgRg no AREsp n. 2.592.264/SP, Rel. Min. Carlos Cini Marchionatti, Quinta Turma, j. 5/8/2025, DJe 14/8/2025.)
+No caso, a decisão agravada fundamentou-se na necessidade de reexame do conjunto probatório para acolher as teses defensivas, e o agravo não infirmou tal conclusão de forma específica e pormenorizada. Limitou-se a repetir as razões do recurso especial, sem demonstrar por que os pedidos de reconhecimento de nulidades, absolvição ou aplicação de benefícios legais não demandariam nova incursão sobre os elementos de prova valorados pelas instâncias ordinárias.
+Assim, remanesce íntegro o fundamento da inadmissibilidade, incidindo o óbice da Súmula n. 182, STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+Ante o exposto, NÃO CONHEÇO do agravo em recurso especial, restando prejudicado o pedido de expedição de alvará de soltura (fls. 442-443).
+Publique-se. Intimem-se.
+EMENTA
