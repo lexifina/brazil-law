@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo interposto por ADILSON LIMA DA CRUZ, FRANCISCO KYTAYAMA VARELA DA CUNHA e ELIAB FRANCO FERREIRA contra a decisão que inadmitiu o recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, apresentado contra o acórdão exarado pelo Tribunal de Justiça do Rio Grande do Norte no julgamento do Recurso em Sentido Estrito n. 0816662-37.2024.8.20.0000 (fls. 108/113).
+Nas razões do recurso especial (fls. 133/161), a parte agravante suscita violação do art. 4º, § 16, III, da Lei n. 12.850/2013.
+Alega, ainda, dissídio jurisprudencial, indicando como paradigmas os seguintes julgados: AREsp n. 2.236.994/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 28/11/2023; AgRg no AgRg no AREsp n. 2.481.507/CE, Ministro Ribeiro Dantas, Quinta Turma, DJe 19/4/2024; AREsp n. 2.502.315, Ministra Daniela Teixeira, Quinta Turma, DJe 5/2/2024; e AgRg no HC n. 927.747/AL, Ministra Daniela Teixeira, Quinta Turma, DJEN 5/3/2025.
+Sustenta que a decisão de pronúncia foi mantida pelo Tribunal de origem com base exclusiva nos depoimentos dos colaboradores José Maria de Morais e Lucianderson da Silva Campos, sem corroboração por elementos externos, o que viola o art. 4º, § 16, III, da Lei n. 12.850/2013, por não atender ao standard probatório exigido para indícios suficientes de autoria.
+Argumenta que não incide a Súmula 7 do Superior Tribunal de Justiça, pois o recurso demanda mera revaloração jurídica das premissas expressas no acórdão recorrido - que, quanto à autoria, referiu apenas os depoimentos dos colaboradores - sem necessidade de novo cotejo probatório, conforme orientação desta Corte.
+Defende que não incide a Súmula 83 do Superior Tribunal de Justiça, porque a jurisprudência atual desta Corte exige forte corroboração da hipótese acusatória para a pronúncia, com alto grau de probabilidade, por provas claras e convincentes, o que não se verifica no caso concreto; além disso, não se admite a utilização exclusiva de delação de corréu para fundamentar a pronúncia.
+A Corte de origem inadmitiu o reclamo com base nos seguintes fundamentos: 1) incidência da Súmula 83/STJ, por estar o acórdão em consonância com a jurisprudência sobre o juízo de admissibilidade da pronúncia; e 2) incidência da Súmula 7/STJ, por demandar o exame de fatos e provas (fls. 221/229), sendo a decisão atacada pelo presente agravo (fls. 230/239).
+Instado a se manifestar na condição de custos legis, o Ministério Público Federal opinou pelo desprovimento do agravo em recurso especial (fls. 275/277).
+É o relatório.
+Conheço do agravo, porquanto presentes os seus pressupostos de admissibilidade. Os agravantes lograram infirmar, com suficiência, os fundamentos para inadmissão do especial.
+Todavia, o recurso especial não comporta conhecimento.
+A defesa pretende a despronúncia dos réus, argumentando com a insuficiência dos depoimentos dos colaboradores.
+Consta dos autos que o Tribunal de origem, soberano na análise fático-probatória, concluiu pela suficiência de elementos indiciários relativamente à autoria, com base no relatório de investigação policial e declarações dos colaboradores Lucianderson da Silva Campos e José Maria de Morais (fls. 109/112).
+A desconstituição das premissas fáticas firmadas nas instâncias ordinárias, como pretende a defesa, demanda incursão no acervo fático-probatório dos autos, vedado pela Súmula 7/STJ.
+A propósito: as instâncias ordinárias, com base no acervo fático-probatório, concluíram pela existência de elementos hábeis a submeter ao Júri a análise do crime imputado. Assim, a revisão do julgado esbarra no óbice da Súmula 7/STJ (AREsp n. 2.847.385/ES, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/5/2025, DJEN de 1º/7/2025 - grifo nosso).
+Pelo exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. TRIBUNAL DO JÚRI. OPERAÇÃO LIMPIDARE . DUPLO HOMICÍDIO QUALIFICADO PELO MOTIVO TORPE, DE FORMA CRUEL E IMPOSSIBILIDADE DE DEFESA DOS OFENDIDOS, NO ÂMBITO DE GRUPO EXTERMÍNIO E ADULTERAÇÃO DE VEÍCULO AUTOMOTOR. DISSÍDIO JURISPRUDENCIAL E VIOLAÇÃO DO ART. 4º, § 16, III, DA LEI N. 12.850/2013. PLEITO DE DESPRONÚNCIA. SUFICIÊNCIA DE ELEMENTOS. SÚMULA 7/STJ.
+Agravo conhecido para não conhecer do recurso especial.
