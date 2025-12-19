@@ -1,0 +1,85 @@
+HABEAS CORPUS. PENAL E PROCESSUAL PENAL. CRIME DE APROPRIAÇÃO INDÉBITA. ARTIGO 168 DO CÓDIGO PENAL. PLEITO ABSOLUTÓRIO. ALEGADA ATIPICIDADE DA CONDUTA. MANDAMUS IMPETRADO APÓS O TRÂNSITO EM JULGADO DA DECISÃO CONDENATÓRIA. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO ENGENDRADO NOS AUTOS. INADMISSIBILIDADE NA VIA ELEITA. IMPOSSIBILIDADE DE UTILIZAÇÃO DO HABEAS CORPUS COMO SUCEDÂNEO DE RECURSO OU REVISÃO CRIMINAL. PARECER DA PROCURADORIA-GERAL DA REPÚBLICA PELA INCONOSCIBILIDADE DO WRIT.
+- Seguimento negado, com fundamento no artigo 21, § 1º, do RISTF.
+
+Decisão: Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão do Superior Tribunal de Justiça no Recurso Especial nº 2.215.933, in verbis:
+
+“DIREITO PENAL. RECURSO ESPECIAL. APROPRIAÇÃO INDÉBITA MAJORADA. DEPOSITÁRIO JUDICIAL. SÓCIO-ADMINISTRADOR. PESSOA JURÍDICA. AUTONOMIA PATRIMONIAL. ELEMENTAR "COISA ALHEIA". TIPICIDADE DA CONDUTA. RECURSO PROVIDO.
+I. CASO EM EXAME
+1. Recurso especial interposto pelo Ministério Público Federal contra acórdão do Tribunal Regional Federal da 4ª Região, que absolveu o sócio-administrador de sociedade empresária da condenação por apropriação indébita, sob o argumento de inexistência da elementar "coisa alheia", uma vez que os bens se incorporariam ao patrimônio da pessoa jurídica administrada pelo acusado.
+2. O sócio-administrador, na qualidade de depositário judicial, apropriou-se de bens móveis constritos em processo de execução fiscal, recusando-se a devolvê-los quando intimado judicialmente. Em primeira instância, foi condenado pelo delito previsto no art. 168, § 1º, II, do CP, decisão inicialmente confirmada em apelação, mas reformada em embargos infringentes, resultando na absolvição.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se a apropriação de bens por sócio-administrador, na qualidade de depositário judicial, configura o crime de apropriação indébita, considerando a autonomia patrimonial entre a pessoa jurídica e seus sócios.
+III. RAZÕES DE DECIDIR
+4. A autonomia patrimonial da pessoa jurídica, conforme o art. 49-A do CC, impede a confusão entre o patrimônio da sociedade e o de seus sócios, configurando os bens da sociedade empresarial como "coisa alheia" para fins penais.
+5. O depositário judicial, ainda que sócio-administrador da sociedade empresária proprietária dos bens penhorados, exerce posse qualificada por imposição judicial, não podendo dispor dos bens em benefício próprio, sob pena de configurar apropriação indébita majorada.
+6. O entendimento jurisprudencial consolidado pelo STJ reconhece a tipicidade penal da conduta do sócio-administrador, que, investido como fiel depositário, apropria-se de bens da pessoa jurídica, reafirmando a distinção entre responsabilidade civil e penal no âmbito da execução judicial.
+7. O afastamento da elementar “coisa alheia” por suposta confusão patrimonial entre sócio e sociedade viola o regime jurídico das pessoas jurídicas e esvazia a tutela penal conferida ao instituto do depósito judicial.
+8. A recusa injustificada em restituir bens penhorados ao juízo, quando detidos por força de depósito judicial, revela o dolo necessário à tipificação do delito previsto no art. 168, § 1º, II, do CP, sendo irrelevante a alegação de desconhecimento do paradeiro dos bens ou eventual sucessão na administração societária.
+IV. DISPOSITIVO E TESE
+9. Recurso provido para restabelecer a sentença condenatória de primeira instância.
+Tese de julgamento: "1. Os bens da pessoa jurídica, mesmo quando sob administração de seu sócio, configuram “coisa alheia” para fins de incidência do art. 168, § 1º, II, do CP. 2. O sócio-administrador nomeado depositário judicial responde penalmente por apropriação indébita qualificada se se apropria ou deixa de restituir bens penhorados pertencentes à sociedade empresária, independentemente de eventuais vínculos societários. 3. A destinação irregular dos bens, perpetrada por aquele que detém a posse qualificada em razão de depósito judicial, enquadra-se no tipo penal previsto no art. 168, § 1º, II, do CP".”
+
+Colhe-se dos autos que o paciente foi sentenciado à pena de 1 (um) ano e 4 (quatro) meses de reclusão, em regime inicial aberto, substituída por prestação de serviços à comunidade e prestação pecuniária, pela prática do crime previso no artigo 168, § 1º, II, do Código Penal.
+O recurso de apelação foi desprovido pelo Tribunal de origem. Em sede de embargos infringentes, o Tribunal, “por maioria, acolheu o recurso, reconhecendo a atipicidade do comportamento descrito e absolvendo o acusado”.
+Contra esse decisum, o Ministério Público interpôs recurso especial e o Superior Tribunal de Justiça deu “provimento do recurso especial interposto pelo Ministério Público Federal, com o consequente restabelecimento integral da sentença condenatória proferida originalmente em primeira instância”, nos termos da ementa acima transcrita.
+Irresignada, a defesa opôs embargos de declaração, os quais foram julgados rejeitados, verbis:
+
+“DIREITO PENAL. EMBARGOS DE DECLARAÇÃO. APROPRIAÇÃO INDÉBITA MAJORADA. DEPOSITÁRIO JUDICIAL. AUTONOMIA PATRIMONIAL. ELEMENTAR "COISA ALHEIA". EMBARGOS REJEITADOS.
+I. CASO EM EXAME
+1. Embargos de declaração opostos contra acórdão que deu provimento ao recurso especial do Ministério Público, restabelecendo a condenação de sócio-administrador de sociedade empresária pelo crime de apropriação indébita majorada, previsto no art. 168, § 1º, II, do CP.
+2. O embargante, na qualidade de depositário judicial, apropriou-se de bens móveis penhorados pertencentes à sociedade empresária, recusando-se a devolvê-los quando intimado judicialmente. Alegou inexistência da elementar "coisa alheia", invocando precedente do STF (HC 203.217/SC).
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em verificar se o acórdão embargado incorreu em omissão por não enfrentar adequadamente o precedente do STF (HC 203.217/SC), que reconheceu a atipicidade da conduta de sócio-administrador, também depositário judicial, em hipótese de penhora sobre faturamento societário.
+III. RAZÕES DE DECIDIR
+4. Os embargos de declaração têm cabimento restrito às hipóteses de omissão, obscuridade, contradição ou ambiguidade (CPP, art. 619), não servindo como meio de rediscussão do mérito do julgado.
+5. A autonomia patrimonial da pessoa jurídica, consagrada no art. 49-A do Código Civil, impede a confusão entre o patrimônio da sociedade e o de seus sócios, configurando os bens da sociedade como "coisa alheia" para fins penais.
+6. O precedente do STF (HC 203.217/SC) tratou de penhora sobre percentual de faturamento societário, sem individualização de bens, enquanto o caso concreto envolve bens móveis determinados, sob regime de depósito judicial, o que caracteriza posse qualificada e subsunção ao tipo penal de apropriação indébita.
+7. A recusa injustificada em restituir bens penhorados, mesmo sob alegação de desconhecimento do paradeiro ou alteração na administração societária, não afasta o dolo necessário à tipificação do delito, sendo irrelevante a existência de vínculos societários entre o agente e a pessoa jurídica proprietária dos bens.
+8. Inexistindo omissão, obscuridade ou contradição, os embargos revelam apenas inconformismo com o resultado, não podendo ser acolhidos.
+IV. DISPOSITIVO E TESE
+9. Resultado do Julgamento: Embargos de declaração rejeitados.
+Tese de julgamento: 1. Os bens da pessoa jurídica, mesmo quando sob administração de seu sócio, configuram "coisa alheia" para fins de incidência do art. 168, § 1º, II, do Código Penal. 2. O sócio-administrador nomeado depositário judicial responde penalmente por apropriação indébita qualificada se se apropria ou deixa de restituir bens penhorados pertencentes à sociedade empresária, independentemente de eventuais vínculos societários. 3. A destinação irregular dos bens, perpetrada por aquele que detém a posse qualificada em razão de depósito judicial, enquadra-se no tipo penal previsto no art. 168, § 1º, II, do Código Penal.”
+
+Neste mandamus, a defesa aponta constrangimento ilegal consubstanciado na condenação do paciente.
+Narra que o paciente “foi condenado pela prática do crime previsto no artigo 168, § 1º, II, do Código Penal, por suposta apropriação indébita de bens móveis que detinha na qualidade de depositário judicial. A peculiaridade deste caso reside em um detalhe fundamental: o paciente era o responsável pela empresa proprietária dos mesmos bens que, posteriormente penhorados em execução fiscal, permaneceram sob sua guarda por determinação judicial”. Ressalta que “a questão de fundo não reside em saber se formalmente existe distinção entre os patrimônios, mas em verificar se materialmente a conduta do agente realiza o desvalor da ação e do resultado que justificam a criminalização”. Entende que “a interpretação extensiva adotada pelo acórdão recorrido, ao equiparar a situação do sócio-administrador-depositário à hipótese clássica de apropriação indébita, viola o princípio constitucional da legalidade estrita” e arrazoa que “o descumprimento de obrigação processual por parte do depositário judicial pode e deve gerar consequências, mas no âmbito da execução. O que não se pode admitir, sob pena de afronta ao princípio da reserva legal, é a criação jurisprudencial de modalidade de apropriação indébita mediante interpretação analógica da elementar ‘coisa alheia’”. Argumenta, ainda, que “a condenação do paciente pelo crime do artigo 168, § 1º, II, do Código Penal revela, com a devida venia, tentativa dissimulada de ressuscitar a prisão civil do depositário infiel sob roupagem de sanção penal. Trata-se de contornar, pela via criminal, aquilo que a Constituição Federal e a Súmula Vinculante nº 25 dessa Suprema Corte expressamente vedam”.
+Ao final, formula pedido nos seguintes termos:
+
+“Posto isto, demonstrados os fatos e fundamentos jurídicos deste habeas corpus, requer a Vossa Excelência:
+a) a concessão de medida liminar, determinando-se a suspensão da execução da pena enquanto não julgado definitivamente o presente writ;
+b) a concessão da ordem, para que seja absolvido o paciente, repristinando-se a decisão proferida pelo e. TRF4 em sede de embargos infringentes.
+Pede, por fim, a intimação da Defensoria Pública da União de todos os atos processuais.”
+
+A Procuradoria-Geral da República, em parecer, se manifestou nos termos da seguinte ementa:
+
+“Habeas Corpus. Direito Penal e Processual Penal. Apropriação indébita majorada. Depositário Judicial. Tese defensiva de atipicidade da conduta por ausência da elementar "coisa alheia". Sócio-proprietário de pessoa jurídica nomeado depositário de bens penhorados em execução fiscal.
+Decisão impugnada transitada em julgado. Uso do writ como sucedâneo de revisão criminal. Impossibilidade. Não é o caso de concessão da ordem de ofício. Divergência de entendimento em precedentes dessa Corte. Manifesta ilegalidade ou teratologia não identificadas.
+A restrição da penhora sobre o bem não transfere seu domínio ao executante, mas por óbvio também não o transfere para o depositário, ainda que sócio da pessoa jurídica efetiva proprietária, considerando que o patrimônio da pessoa jurídica não se confunde com aquele do Paciente. Parecer pelo não conhecimento do writ e, acaso ultrapassada a preliminar, pela denegação da ordem.”
+
+É o relatório, DECIDO.
+
+Na espécie, em consulta ao sítio eletrônico do Superior Tribunal de Justiça, observo que a presente ação foi impetrada após o trânsito em julgado do ato coator, em 27/11/2025. Essa circunstância revela a manifesta incognoscibilidade deste writ. Nesse sentido:
+
+AGRAVO INTERNO EM HABEAS CORPUS. CONDENAÇÃO TRANSITADA EM JULGADO. UTILIZAÇÃO DE HABEAS CORPUS COMO SUCEDÂNEO DE REVISÃO CRIMINAL. INVIABILIDADE. ACORDO DE NÃO PERSECUÇÃO PENAL. PEDIDO DE REALIZAÇÃO FORMULADO APÓS O TRÂNSITO EM JULGADO DA CONDENAÇÃO. INADEQUAÇÃO. NEGATIVA DE SEGUIMENTO AO HABEAS CORPUS. 1. É inadmissível a utilização do habeas corpus como sucedâneo de revisão criminal. 2. Não cabe a realização de acordo de não persecução penal requerido após o trânsito em julgado da condenação. 3. Agravo interno desprovido. (HC 237.005-AgR, Segunda Turma, Rel. Min. Nunes Marques, DJe de 18/4/2024)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. IMPETRAÇÃO APÓS O TRÂNSITO EM JULGADO DA CONDENAÇÃO. DESCABIMENTO DE IMPETRAÇÃO CONTRA DECISÃO MONOCRÁTICA DO SUPERIOR TRIBUNAL DE JUSTIÇA. FUNDAMENTAÇÃO IDÔNEA PARA FIXAÇÃO DO REGIME FECHADO. AGRAVO REGIMENTAL DESPROVIDO. (HC 230.521-AgR, Primeira Turma, Rel. Min. Cármen Lúcia, DJe de 31/8/2023)
+A propósito, não cabe a rediscussão da matéria perante esta Corte e nesta via processual, porquanto o habeas corpus não é sucedâneo de recurso ou revisão criminal. Nesse sentido:
+
+AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. MATÉRIA CRIMINAL. WRIT UTILIZADO COMO SUCEDÂNEO DE REVISÃO CRIMINAL. IMPOSSIBILIDADE. REGIME. AUSÊNCIA DE ILEGALIDADE EVIDENTE OU TERATOROLOGIA A INFIRMAR JULGAMENTO ACOBERTADO PELA COISA JULGADA. AGRAVO REGIMENTAL DESPROVIDO. 1. O recurso ordinário em habeas corpus não merece conhecimento na medida em que funciona como sucedâneo de revisão criminal. Precedentes. 2. Devido ao caráter excepcional da superação da jurisprudência da Corte, a concessão da ordem de ofício configura providência a ser tomada tão somente em casos absolutamente aberrantes e teratológicos, o que não se verifica na espécie. 3. Agravo regimental desprovido. (RHC 213.694-AgR, Segunda Turma, Rel. Min. Edson Fachin, DJe de 26/8/2022)
+
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. WRIT SUCEDÂNEO DE RECURSO OU REVISÃO CRIMINAL. EXECUÇÃO PENAL. FALTA DISCIPLINAR GRAVE. ABSOLVIÇÃO OU DESCLASSIFICAÇÃO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. INVIABILIDADE. MANIFESTA ILEGALIDADE OU TERATOLOGIA NÃO IDENTIFICADAS. 1. Inadmissível o emprego do habeas corpus como sucedâneo de recurso ou revisão criminal. Precedentes. 2. Para concluir em sentido diverso das instâncias anteriores quanto ao pleito de absolvição ou desclassificação da imputação de falta grave, imprescindíveis o reexame e a valoração de fatos e provas, para o que não se presta a via eleita. Precedentes. 3. Agravo regimental conhecido e não provido. (RHC 217.371-AgR, Primeira Turma, Rel. Min. Rosa Weber, DJe de 9/9/2022)
+
+Nesse contexto, ante a pertinência de suas alegações, transcrevo trecho do parecer elaborado pela Procuradoria-Geral da República, in verbis:
+
+“[...] A impetração não deve ser conhecida, haja vista o trânsito em julgado da decisão impugnada pelo writ.
+Com efeito, a última decisão proferida no âmbito do Superior Tribunal de Justiça transitou em julgado no dia 27 de novembro de 2025 (fl. 206) e a impetração somente foi protocolada, nessa Corte, em 3 de dezembro de 2025, fls. 511.
+A jurisprudência desse Supremo Tribunal Federal consolidou-se pela inviabilidade da ação de habeas corpus como sucedâneo de revisão criminal. Nesse sentido: HC 144.323 AgR, Ministro Ricardo Lewandowski; HC 149.653 AgR, Ministro Dias Toffoli; HC 163.627, Ministro Alexandre de Moraes; HC 177.098, ministro Luiz Fux; HC 186.333 AgR, Ministra Rosa Weber; HC 193.043 AgR, Ministra Cármen Lúcia; e RHC 181.896 AgR, Ministro Edson Fachin. [...]”
+
+Outrossim, eventual exame da pretensão defensiva demandaria indevida incursão na moldura fática delineada nos autos. O habeas corpus é ação inadequada para a valoração e exame minucioso do acervo fático probatório engendrado nos autos. Destarte, não se revela cognoscível a insurgência que não se amolda à estreita via eleita. Nesse sentido:
+
+Direito processual penal. Agravo regimental no habeas corpus. Reiteração de impetração. Inadmissibilidade. Recurso desprovido. I. Caso em exame 1. Agravo regimental interposto contra decisão que negou seguimento a habeas corpus, o qual buscava caracterizar ilegalidade da condenação do agravante na Ação Penal 1501279-71.2021.8.26.0628. 2. O agravante argumenta que a decisão do Superior Tribunal de Justiça impugnada no HC 232.684 não havia se manifestado sobre o mérito da impetração, e que a decisão monocrática negativa nesse HC não foi confirmada pela Segunda Turma. II. Questão em discussão 3. A questão em discussão consiste em saber se é admissível a reiteração de habeas corpus para anular a mesma condenação, sob diversos argumentos de error in judicando. III. Razões de decidir 4. Não foi concedida a ordem de ofício, no precedente HC 232.684, pela impossibilidade de profundo revolvimento do acervo fático-probatório em sede de habeas corpus, o qual é o mesmo fundamento do apontado ato coator. 5. Embora a decisão em habeas corpus não forme coisa julgada material, ela constitui o pronunciamento da Corte sobre a controvérsia, que deve ser único, sob pena de instrumentalização do Tribunal pela repetição de impetrações até a obtenção de decisão favorável. IV. Dispositivo 6. Agravo regimental desprovido. (HC 260.818-AgR, Segunda Turma, Rel. Min. Gilmar Mendes, DJe de 22/10/2025)
+
+Ex positis, NEGO SEGUIMENTO ao habeas corpus, com fundamento no artigo 21, § 1º, do RISTF.
+Publique-se.
+Brasília, 19 de dezembro de 2025.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
