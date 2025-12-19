@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de Reclamação Constitucional com pedido liminar proposta por LUDEGÉRIO ALENCAR PEREIRA LTDA, com fundamento no art. 105, I, "f", da Constituição Federal e art. 988, IV, do CPC.
+A parte alega, em síntese, que: (i) foi citada em ação de cobrança por AR assinado por pessoa estranha à empresa, em local com múltiplas salas comerciais, o que configura nulidade absoluta da citação; (ii) não teve ciência válida do processo, só tomando conhecimento após a sentença, quando intimada por WhatsApp na fase de cumprimento; (iii) a juíza de origem rejeitou a impugnação à execução com base no Enunciado 5 do FONAJE, e o mandado de segurança interposto foi liminarmente indeferido pela 3ª Turma Recursal com base no Enunciado 143 do FONAJE, sem análise do mérito, contrariando jurisprudência do STJ quanto à admissibilidade do mandado em caso de ausência de recurso próprio e ato judicial manifestamente ilegal.
+Ao final, requer: (i) concessão de liminar para suspender os efeitos do acórdão da 3ª Turma Recursal e da decisão da juíza de origem, impedindo bloqueios via SISBAJUD; (ii) intimação da Turma Recursal para prestar informações; (iii) notificação da parte contrária, Scirea & Scirea Ltda - EPP, para manifestação; (iv) manifestação do Ministério Público Federal; e (v) provimento definitivo da Reclamação para cassar o acórdão que indeferiu o mandado de segurança, reconhecendo a nulidade da citação. Atribui-se à causa o valor de R$ 1.000,00 para fins fiscais.
+É o relatório.
+Decido.
+Nos termos do artigo 105, inciso I, alínea f da Constituição Federal - CF, é atribuição do Superior Tribunal de Justiça - STJ o processamento e julgamento original da reclamação para preservar sua competência e assegurar a autoridade de suas decisões.
+Em conformidade com esse dispositivo constitucional, o Regimento Interno do STJ estipula, em seu artigo 187, que "para salvaguardar a competência do Tribunal, garantir a autoridade de suas decisões e observar julgamento emitido em incidente de assunção de competência, é cabível a reclamação da parte interessada ou do Ministério Público, desde que, na primeira situação, tenha esgotado a instância ordinária".
+Sabe-se que, de acordo com a jurisprudência deste Superior Tribunal de Justiça, "É cabível reclamação dirigida ao Superior Tribunal de Justiça para a preservação de sua competência e para a garantia da autoridade de suas decisões (arts. 105, I, "f", da Constituição Federal; 13 da Lei 8.038/90; e 187 do RISTJ), não sendo, pois, via própria para confrontar decisão desta Corte, por não se tratar de sucedâneo recursal" (AgInt na Rcl n. 43.962/SC, relatora Ministra Maria Isabel Gallotti, Segunda Seção, julgado em 15/10/2024, DJe de 18/10/2024).
+No presente feito, contudo, a decisão reclamada foi proferida pela 3ª Turma Recursal dos Juizados Especiais do Estado do Paraná (e-STJ fls. 11-14).
+Nessas hipóteses, "a partir da Resolução STJ n. 3/2016, cabe às câmaras reunidas ou à seção especializada dos tribunais de justiça a competência para "processar e julgar as Reclamações destinadas a dirimir divergência entre acórdão prolatado por Turma Recursal Estadual e do Distrito Federal e a jurisprudência do Superior Tribunal de Justiça, consolidada em incidente de assunção de competência e de resolução de demandas repetitivas, em julgamento de recurso especial repetitivo e em enunciados das Súmulas do STJ, bem como para garantir a observância de precedentes"" (EDcl no AgInt no AREsp n. 2.230.425/MG, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 9/9/2025, DJEN de 16/9/2025).
+Sobre o tema, esta Segunda Seção já deliberou à unanimidade de votos em acórdão sob a minha relatoria (grifo acrescentado):
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. RECLAMAÇÃO. RESOLUÇÃO STJ N. 3/2016. AUSÊNCIA DE VIOLAÇÃO À AUTORIDADE DE DECISÃO DO STJ. INADEQUAÇÃO DA VIA ELEITA. MULTA DO ART. 1.021, § 4º, CPC. NÃO APLICAÇÃO. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto contra decisão monocrática do Ministro Marco Aurélio Bellizze, que não conheceu de reclamação por ausência de aderência às hipóteses previstas no art. 988 do CPC/2015, uma vez que fundamentada exclusivamente em suposta afronta à Resolução STJ n. 3/2016. A parte agravada apresentou contrarrazões e requereu aplicação da multa do art. 1.021, § 4º, do CPC.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em verificar a admissibilidade de reclamação ajuizada diretamente no STJ com fundamento na Resolução n. 3/2016 e a aplicação da multa legal por interposição de agravo interno.
+III. RAZÕES DE DECIDIR
+3. A Resolução STJ n. 3/2016 atribuiu aos Tribunais estaduais competência para processar e julgar reclamações fundadas em divergência entre acórdão de Turma Recursal estadual e a jurisprudência do STJ, não sendo possível a impugnação dessa atuação mediante nova reclamação ao STJ (EDcl na Rcl n. 41.540/SP, rel. Ministro Ricardo Villas Bôas Cueva, DJe de 3/5/2021).
+4. A reclamação somente é cabível para assegurar a competência do STJ ou a autoridade de suas decisões (art. 988, II, CPC/2015), não se admitindo a sua utilização para controle de admissibilidade ou mérito de reclamações processadas em Tribunais de Justiça estaduais (AgInt nos EDcl na Rcl n. 41.540/SP, rel. Ministro Ricardo Villas Bôas Cueva, DJe de 21/10/2021).
+5. No caso, a decisão agravada consignou corretamente a inadequação da via eleita, inexistindo violação a precedente ou decisão do STJ, sendo manifestamente incabível a reclamação.
+6. O relator pode decidir monocraticamente recurso inadmissível com base em jurisprudência consolidada, nos termos do art. 932, III e IV, CPC/2015, e Súmula 568/STJ.
+IV. DISPOSITIVO
+8. Agravo interno desprovido.
+9. Indeferido o pedido de aplicação da multa prevista no art. 1.021, § 4º, do CPC.
+(AgInt nos EDcl na Rcl n. 43.854/BA, relatora Ministra Daniela Teixeira, Segunda Seção, julgado em 19/8/2025, DJEN de 22/8/2025.)
+Mostra-se, portanto, manifestamente incabível o expediente manejado.
+Pelo exposto, não conheço da reclamação, restando prejudicado o pedido de concessão de liminar.
+Deixo de arbitrar honorários em razão da ausência de angularização da relação processual (STJ. 2ª Seção. EDcl no AgInt na Rcl 36.771/RJ, Rel. Min. Nancy Andrighi, julgado em 15/09/2020).
+Publique-se. Intimem-se.
+EMENTA
