@@ -1,0 +1,65 @@
+DECISÃO
+
+RECLAMAÇÃO CONSTITUCIONAL. ORDEM DA JUSTIÇA DO TRABALHO PARA DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA DE EMPRESA SUBMETIDA À FALÊNCIA. COMPETÊNCIA DO JUÍZO FALIMENTAR. INOBSERVÂNCIA DA SÚMULA VINCULANTE 10. OCORRÊNCIA. RECLAMAÇÃO CONSTITUCIONAL JULGADA PROCEDENTE.
+
+A presente reclamação foi ajuizada por EVERSON NAZARIO, em face da decisão proferida pelo Tribunal Regional do Trabalho da 9ª Região, nos autos do Processo n. 0000073-86.2023.5.09.0002, por suposta violação à Súmula Vinculante n. 10, ao afastar a aplicação do art. 82-A, caput e par. Único, da Lei nº 11.101/2005, com redação dada pela Lei nº 14.112/2020.
+
+Narra que a decisão reclamada manteve a competência da justiça trabalhista para processar o incidente de desconsideração da personalidade jurídica da empresa EQUIPE SEG INTELIGÊNCIA EM SEGURANÇA LTDA, “mesmo após a decretação de sua falência, e, por consequência, redirecionaram a execução provisória contra o patrimônio do Reclamante.” (fl. 1, e-doc. 1).
+
+Aduz que “O Reclamante interpôs Agravo de Petição para questionar a r. decisão de origem que o incluiu no polo passivo de uma execução provisória, por meio de incidente de desconsideração da personalidade jurídica. Dentre os diversos fundamentos, o Reclamante arguiu a incompetência material da Justiça do Trabalho para prosseguir com o IDPJ, especialmente após a decretação da falência da primeira Reclamada (Equip Seg), com data fixada em 24/08/2023 (sentença transitada em julgado em anexo)” (fl. 1, e-doc. 1).
+
+Defende que “a legislação específica sobre falências e recuperação judicial (Lei nº 11.101/2005, com as alterações da Lei nº 14.112/2020) é clara ao dispor sobre a competência para tais incidentes. O cerne da argumentação reside no artigo 82-A, parágrafo único, da Lei nº 11.101/2005, incluído pela Lei nº 14.112/2020” (fl. 2, e-doc. 1).
+
+Relata que “Não obstante a clareza do dispositivo legal, o Tribunal Regional do Trabalho da 9ª Região, ao julgar o Agravo de Petição do Reclamante (Acórdão ID 4ee4c75), manteve o entendimento do MM. Juízo Singular de que a Justiça do Trabalho seria competente para o IDPJ, mesmo em caso de empresas falidas. Mais gravemente, ao apreciar os Embargos de Declaração (Acórdão ID 0771eac), julgados com parcial provimento, o TRT, embora tenha se manifestado sobre os artigos 6º-C e 82-A da Lei nº 11.101/2005 para sanar omissão, o fez com uma interpretação que, na prática, afasta a incidência de tais normas.” (fl. 2, e-doc. 1).
+
+Assim, sustenta que “Ao assim decidir, tanto sobre o agravo de petição quanto aos embargos de declaração, o TRT/PR, na prática, afastou a incidência de norma legal expressa (o já citado Art. 82-A, parágrafo único, da Lei nº 11.101/2005), sem, contudo, declarar sua inconstitucionalidade pelo voto da maioria absoluta dos membros do Tribunal Pleno ou de seu Órgão Especial, em flagrante desrespeito à Súmula Vinculante nº 10 do Supremo Tribunal Federal.” (fl. 2, e-doc. 1).
+
+Por fim, requer, liminarmente, a “suspensão dos autos de Agravo de Petição nº 0000073-86.2023.5.09.0002, em trâmite perante o Egrégio Tribunal Regional do Trabalho da 9ª Região, e, consequentemente, a sustação de quaisquer atos executórios contra o Reclamante nos autos de origem, até o julgamento definitivo desta Reclamação.” (fl. 7, e-doc. 1).
+
+No mérito, a cassação das “decisões proferidas pelo Tribunal Regional do Trabalho da 9ª Região, nos autos do Agravo de Petição nº 0000073-86.2023.5.09.0002 (Acórdão ID 4ee4c75) e nos Embargos de Declaração (Acórdão ID 0771eac), determinando que outra seja proferida, em estrita observância à Súmula Vinculante nº 10 do Supremo Tribunal Federal e ao artigo 82-A, parágrafo único, da Lei nº 11.101/2005, que se encontra em plena validade e eficácia jurídica, não tendo sido declarado inconstitucional, e, por conseguinte, afastando-se qualquer fundamentação baseada em legislação anterior, teorias ou enunciados jurisprudenciais que se mostrem ultrapassados pela nova lei específica, reconhecendo-se a incompetência da Justiça do Trabalho para processar o IDPJ em face de empresa falida.” (fl. 7, e-doc. 1).
+
+Na oportunidade, juntou os seguintes documentos pertinentes à análise da demanda: a) decisão do Juízo de 1º grau pela desconsideração da pessoa jurídica, com determinação de citação do reclamante (e-doc. 7); b) sentença de embargos de declaração do Juízo de 1º grau (e-doc. 8); c) agravo de petição interposto pelo reclamante (e-doc. 9); d) decisões reclamadas, quais sejam, os acórdãos do Tribunal Regional do Trabalho da 9ª Região: d.1) pelo desprovimento do agravo de petição e manutenção da decisão de origem e d.2) parcial provimento de embargos de declaração para sanar a omissão quanto aos arts. 6º-C e 82-A da Lei 11.101/2005, sem imprimir efeito modificativo ao julgado (e-docs. 11 e 12).
+
+Em consulta pública dos autos, verifico a regular tramitação do feito, tendo em vista que ainda não ocorreu o trânsito em julgado.
+
+É o relatório. Decido.
+
+Dispenso a remessa dos autos à Procuradoria-Geral da República, por entender que o processo já está em condições de julgamento (RISTF, art. 52, parágrafo único e 161, par. único).
+
+A controvérsia objeto desta reclamação constitucional consiste na suposta afronta pelo Juízo reclamado quanto à Súmula Vinculante 10, abaixo transcrita:
+
+Súmula Vinculante 10: Viola a cláusula de reserva de plenário (CF, artigo 97) a decisão de órgão fracionário de tribunal que, embora não declare expressamente a inconstitucionalidade de lei ou ato normativo do Poder Público, afasta sua incidência, no todo ou em parte.
+
+Transcrevo o teor da decisão reclamada (e-doc. 11):
+
+“DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. DEVEDORA PRINCIPAL EM PROCESSO FALIMENTAR. POSSIBILIDADE DE DIRECIONAMENTO DA EXECUÇÃO CONTRA O SÓCIO. A falência faz presumir a inidoneidade financeira da empresa executada, o que permite o imediato direcionamento da execução aos sócios, nos termos do entendimento retratado no item VII, da OJ EX SE nº 28. Desnecessária prova de que o sócio tenha agido no exercício irregular de direito (abuso, fraude ou desvio de finalidade) para que seja desconsiderada a personalidade jurídica, bastando a insolvência da empresa devedora. Agravo de petição desprovido, no particular. (...)
+Incompetência material da Justiça do Trabalho - Desconsideração da personalidade jurídica
+Rebela-se o sócio executado contra a r. decisão que acolheu o incidente de desconsideração da personalidade jurídica e determinou a inclusão dos sócios da empresa executada no polo passivo da execução. (...) Nos termos do entendimento retratado no item I, da OJ EXSE nº 28, a execução contra a massa falida é de competência da Justiça do Trabalho até a fixação dos valores como incontroversos e a expedição da certidão de habilitação de crédito. De outro lado, conforme entendimento desta e.Seção Especializada, a atração exercida pelo Juízo Falimentar (artigo 76, da Lei 11.101/2005) alcança apenas a empresa falida ou em recuperação judicial. Portanto, em que pese eventual habilitação dos créditos trabalhistas junto ao Juízo em que se processa a falência, a execução pode continuar perante o Juízo Trabalhista em face dos sócios das empresas executadas. Nesse sentido, os itens II e VII, da OJ EX SE nº 28, desta e.Seção Especializada. Assim, embora possível eventual habilitação de crédito trabalhista no juízo universal da falência, a execução pode continuar perante esta e. Especializada, em face dos sócios. Ademais, de se ressaltar que a falência faz presumir a inidoneidade financeira das empresas executadas, o que permite o imediato direcionamento da execução em face dos sócios, nos termos do entendimento retratado no item VII, da OJ EX SE nº 28, consoante já mencionado. Conforme o entendimento retratado no item IV, da OJ EX SE nº 40, basta a inidoneidade financeira das executadas originais para que haja direcionamento da execução em face dos sócios. Em virtude da aplicação da teoria menor para fins de desconsideração da personalidade jurídica na execução trabalhista, com base no § 5º, do artigo 28, do CDC, não é preciso demonstrar todos os fundamentos usualmente exigidos na desconsideração da personalidade jurídica nas execuções comuns (consoante disposto no artigo 50, do Código Civil - desvio de finalidade ou confusão patrimonial). (...) O entendimento deste Colegiado é pela compatibilidade do prosseguimento da execução, mesmo quando expedida certidão de crédito, já que a habilitação representa apenas expectativa de satisfação do crédito. Isso não obsta o exequente de buscar a satisfação do seu crédito trabalhista por meio da execução dos sócios, sendo evidente que, com a satisfação do crédito em quaisquer dos autos, não receberá em duplicidade no outro. Dessa forma, ausente violação à Lei n° 11.101 /2005. Destarte, deve ser mantida a r. decisão que acolheu o incidente de desconsideração da personalidade jurídica da empresa executada e determinou a inclusão do agravante no polo passivo da presente demanda. Assim, embora possível eventual habilitação de crédito trabalhista no juízo universal da falência, a execução pode continuar perante esta e. Especializada, em face dos sócios. (...) Destarte, nada mais há a deferir, devendo ser mantida a r. decisão que acolheu o incidente de desconsideração da personalidade jurídica da empresa executada e determinou a inclusão do agravante no polo passivo da presente demanda. Nego provimento.”
+
+Após a oposição de embargos de declaração pelo reclamante, assim proferiu o Juízo reclamado (e-doc. 12):
+
+“Para sanar a omissão apontada, acrescente-se no tópico referente à ‘Incompetência material da Justiça do Trabalho - Desconsideração da personalidade jurídica’ que: Os artigos 6º-C e 82-A da Lei 11.101/2005 (incluídos pela Lei 14.112 /2020) são normas de caráter geral, aplicáveis apenas perante o Juízo Falimentar e não aos créditos trabalhistas e fiscais, por força do artigo 76 da Lei 11.101/2005, mantendo-se, assim, a competência desta Justiça Especializada para instaurar incidente de desconsideração da personalidade jurídica da empresa devedora. No mais, não há no acórdão embargado os demais defeitos alegados. (...) Do exposto, dou parcial provimento para sanar a omissão apontada quanto aos artigos 6º-C e 82-A da Lei 11.101/2005, sem imprimir efeito modificativo ao julgado.”
+
+Verifica-se que, no bojo de execução trabalhista, foi julgado procedente o incidente de desconsideração de pessoa jurídica com vistas a incluir no polo passivo da execução o sócio do executado, diante da decretação de falência da empresa nos autos do Processo n. 0033736-15.2023.8.16.0185 perante a 27ª Vara de Falências e Recuperação Judicial de Curitiba/PR (e-doc. 4).
+
+Como bem destacado pelo Min. Gilmar Mendes, ao julgar a RCL 83.535, “o juízo universal da falência se caracteriza como um juízo universal da execução coletiva, o que fundamenta a sua vis attractiva e o princípio da indivisibilidade de sua competência. Assim, compete-lhe processar e julgar todas as ações e medidas judiciais que versem sobre bens, interesses e relações jurídicas do falido, ressalvadas, entretanto, as competências constitucionais atribuídas aos juízos do trabalho e aos juízos federais, bem como a competência preventiva de outros juízos nas hipóteses de ações ilíquidas” (grifo do original).
+
+Demais disso,
+
+(...) admitir que outros juízos instaurem incidente de desconsideração de personalidade jurídica poderia gerar a diferenciação de tratamento entre credores, com a satisfação do crédito de alguns em momento e por critérios diferenciados em relação aos demais, o que não encontra respaldo no ordenamento constitucional vigente. Por fim, registre-se que não se trata de reconhecer a impossibilidade de desconsideração da personalidade jurídica no âmbito da Justiça trabalhista, mas de assegurar tratamento paritário a todos os credores de uma mesma categoria na percepção daquilo que lhes é devido, no âmbito do processo falimentar. Com efeito, verifico que a autoridade reclamada conferiu interpretação que resulta no esvaziamento da eficácia do citado órgão fracionário. (Trecho da RCL 83535, Rel. Min. Gilmar Mendes, grifo nosso)
+
+Referido entendimento também se aplica a estes autos. Manter a ordem da Justiça do Trabalho para desconsiderar a personalidade jurídica de empresa já decretada como falida, fora do juízo falimentar, esvazia o sentido do art. 82-A da Lei nº 11.101/2005.
+
+No mesmo sentido, cito decisões por mim proferidas, em casos de empresas submetidas ao processo de recuperação judicial, nos autos das Rcls. n. 87.492/MG e n. 86.457/SP.
+
+Por todo o exposto, julgo procedente o pedido, a fim de fixar a competência da Justiça falimentar para decidir sobre a desconsideração da personalidade jurídica da empresa.
+
+Assim, torno nulos os atos de desconsideração proferidos em relação ao reclamante e determino a remessa dos autos da origem à 27ª Vara de Falências e Recuperação Judicial de Curitiba/PR, para apreciação do feito.
+
+Publique-se.
+
+Brasília, 19 de dezembro de 2025.
+
+Ministro FLÁVIO DINO
+Relator
+Documento assinado digitalmente
