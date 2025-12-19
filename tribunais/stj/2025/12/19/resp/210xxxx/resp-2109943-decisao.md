@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto por J. T. R. VEÍCULOS E PEÇAS LTDA , com fundamentado no art. 105, III, a, da Constituição Federal, em desafio a acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado:
+AÇÃO DE REVISÃO CONTRATUAL - JULGADA PARCIALMENTE PROCEDENTE. APELAÇÃO CÍVEL - POSSIBILIDADE DE REVISÃO DO NEGÓCIO JURÍDICO FIRMADO ENTRE AS PARTES - JUROS REMUNERATÓRIOS - JUROS REMUNERATÓRIOS - AUSÊNCIA DE PRÉVIA PACTUAÇÃO - LIMITAÇÃO À TAXA MÉDIA DE MERCADO QUANDO ESTA EXCEDE A MÉDIA ANUAL - POSSIBILIDADE - NECESSIDADE DE PREVISÃO CONTRATUAL - CAPITALIZAÇÃO MENSAL DE JUROS - AUSÊNCIA DE PREVISÃO - TAXAS E TARIFAS REVERTIDAS EM BENEFÍCIO DO CORRENTISTA - IMPOSSIBILIDADE DE AFASTAMENTO - SENTENÇA PARCIALMENTE REFORMADA, APENAS NO QUE DIZ RESPEITO À LIMITAÇÃO DOS JUROS REMUNERATÓRIOS - RECURSO DE APELAÇÃO DA PARTE AUTORA CONHECIDO, A QUE SE DÁ PARCIAL PROVIMENTO - RECURSO DE APELAÇÃO DO BANCO CONHECIDO E DESPROVIDO. 1. Não ocorrendo a juntada dos contratos aos autos, de maneira que é não conhecido o percentual dos juros remuneratórios, circunstância fática e contratual alheia à instância especial, a jurisprudência do STJ firmou seu posicionamento no sentido de que prevalece a taxa média de mercado. (2ª Seção, R Esp 1.112.880/PR, Rel. Ministra Nancy Andrighi, D Je de 19.5.2010).
+Os embargos de declaração foram rejeitados, vide acórdão às fls. 1914-1917.
+Nas razões do recurso especial, a parte recorrente alega que o acórdão do Tribunal de Justiça do Paraná violou os artigos 6, inciso III, e 46, do Código de Defesa do Consumidor, e o artigo 422, do Código Civil, ao manter a cobrança de tarifas e encargos bancários em conta-corrente de pessoa jurídica sem contrato ou autorização expressa, contrariando a jurisprudência do Superior Tribunal de Justiça que exige previsão contratual ou autorização para tais lançamentos; além disso, aponta negativa de vigência aos artigos 1.022, inciso II, e 489, § 1º, inciso IV, do Código de Processo Civil, por omissão no enfrentamento específico da tese sobre a natureza dos lançamentos impugnados e a necessidade de prova da contratação, pleiteando o afastamento das cobranças e a repetição dos valores
+Contrarrazões às fls. 1949-1955(e-STJ).
+É o relatório. Passo a decidir.
+A irresignação não merece prosperar.
+Inicialmente, rejeita-se a alegada violação dos arts. 489 e 1.022 do CPC/2015, uma vez que o eg. TJ-PR analisou os pontos essenciais ao deslinde da controvérsia, dando-lhes robusta e devida fundamentação.
+Com efeito, é uníssona a jurisprudência desta eg. Corte no sentido de que o magistrado não está obrigado a responder a todos os argumentos apresentados pelos litigantes, desde que aprecie a lide em sua inteireza, com suficiente fundamentação. Nesse sentido, destacam-se:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015. INOVAÇÃO RECURSAL. VÍCIOS DE CONSTRUÇÃO. LEGITIMIDADE ATIVA DO CONDOMÍNIO. DECISÃO MANTIDA.
+(..)
+2. Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido analisou todas as questões pertinentes para a solução da lide, pronunciando-se, de forma clara e suficiente, sobre a controvérsia estabelecida nos autos.
+(..)
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1071467/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 10/10/2017, DJe 17/10/2017)
+Quanto à devolução das taxas e tarifas tidas por não contratadas, a Corte de origem assim decidiu a controvérsia:
+"TAXAS E TARIFAS No que diz respeito à cobrança de taxas e tarifas, o que se observa é que, ainda que sem pactuação, não é possível a devolução de tarifas cobradas a pedido, ou em benefício do correntista. Nesse sentido, já decidiu essa Câmara:
+(..)
+Ou seja, não podem ser restituídos eventuais débitos ou lançamentos que se reverteram em benefício do correntista, sob pena de enriquecimento sem causa do mesmo. No presente caso concreto, como se pode observar da listagem da própria parte autora ao mov. 1.5 dos autos, os lançamentos observados dizem respeito a transferências entre contas, pagamentos, adiantamentos, entre outros, todos revertidos em benefício próprio da parte autora, que, por sua vez, também não conseguiu apontar nenhum lançamento sem contraprestação ou que não tenha sido realizado em seu benefício, motivo pelo qual a sentença deve ser mantida quanto a tal quesito."
+Da leitura do excerto ora transcrito, verifica-se que o Tribunal de origem concluiu "não podem ser restituídos eventuais débitos ou lançamentos que se reverteram em benefício do correntista, sob pena de enriquecimento sem causa do mesmo. No presente caso concreto, como se pode observar da listagem da própria parte autora ao mov. 1.5 dos autos, os lançamentos observados dizem respeito a transferências entre contas, pagamentos, adiantamentos, entre outros, todos revertidos em benefício próprio da parte autora, que, por sua vez, também não conseguiu apontar nenhum lançamento sem contraprestação ou que não tenha sido realizado em seu benefício, motivo pelo qual a sentença deve ser mantida quanto a tal quesito."
+Contudo, diante das razões recursais, observa-se que a recorrente deixou de impugnar especificamente tal argumento, no sentido de que "não podem ser restituídos eventuais débitos ou lançamentos que se reverteram em benefício do correntista, sob pena de enriquecimento sem causa do mesmo", o qual se mostra autônomo e suficiente para a manutenção do acórdão estadual, incidindo, portanto, o óbice da Súmula 283/STF. Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÉDULA DE
+CRÉDITO RURAL. EXECUÇÃO. ALEGAÇÃO DE OFENSA AO ART. 535 DO CPC/73. INEXISTÊNCIA. JUROS REMUNERATÓRIOS. LIMITAÇÃO. POSSIBILIDADE. EFEITO SUSPENSIVO ATRIBUÍDO AOS EMBARGOS À EXECUÇÃO. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. INCIDÊNCIA DA SÚMULA 283/STF. MULTA MORATÓRIA. SÚMULA 83 DESTA CORTE. AGRAVO INTERNO DESPROVIDO.
+(..)
+3. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do aresto estadual atrai a incidência, por analogia, do óbice da Súmula 283 do STF.
+(..)
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp 682.499/SC, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 14/09/2020, DJe 01/10/2020)
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Com supedâneo no art. 85, § 11, do CPC/2015, majoro os honorários advocatícios sucumbenciais de 12% para 13% sobre o valor da condenação, observada eventual gratuidade de justiça, nos termos do art. 98, §3º, do CPC/2015
+Publique-se.
+EMENTA
