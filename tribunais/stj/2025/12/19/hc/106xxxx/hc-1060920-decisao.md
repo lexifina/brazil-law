@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de ADALBERTO DE ARAUJO SILVA, reeducando em execução penal, cumprindo pena privativa de liberdade em regime semiaberto (Execução Penal n. 0013004-82.2025.8.26.0502; Pedido de Providências n. 1001279-79.2025.8.26.0502).
+O impetrante aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, que, em acórdão, manteve o indeferimento da saída humanitária para acompanhamento de parto de risco da esposa do paciente.
+Alega quadro de gestação de alto risco da companheira do paciente, com data provável do parto em 22/12/2025, amparado por laudos médicos e recomendações expressas do corpo clínico quanto à necessidade de apoio emocional e presença do pai no parto e no pós-parto imediato.
+Destaca que o reeducando está em regime semiaberto, sem faltas graves, com histórico de quase dez anos sem reiteração delitiva, tendo se apresentado voluntariamente ao sistema prisional e mantido vínculos familiares e trabalho lícito.
+Afirma não se tratar de pedido de saída temporária pelos arts. 122 a 124 da Lei de Execução Penal, vinculada ao lapso de 1/6 de cumprimento da pena. Sustenta que o pleito é de liberação urgente, excepcional e pontual, com base no art. 120 da Lei de Execução Penal, para acompanhar exclusivamente o parto e o pós-parto imediato, sob condições que o Tribunal entender adequadas (escolta, monitoramento eletrônico, limitação de itinerário e de tempo).
+Argumenta a incoerência do sistema ao admitir, com escolta, saídas para velórios e não para partos, sobretudo em gestação de risco, afirmando que não há justificativa proporcional para impedir a presença do pai no nascimento da filha quando há possibilidade de controle por escolta e mecanismos de segurança.
+Invoca direitos fundamentais, tratados internacionais e diretrizes de humanização da execução penal: dignidade da pessoa humana, proteção da família, prioridade absoluta da criança, proteção especial à maternidade, direito à convivência familiar e o dever estatal de tratar pessoas privadas de liberdade com respeito à dignidade e de evitar a projeção indevida da pena sobre familiares inocentes.
+Sustenta que a negativa agrava desnecessariamente o sofrimento do preso e da gestante e priva a criança do contato inicial com o pai, enfraquecendo objetivos ressocializadores.
+Aponta constrangimento ilegal diante da negativa administrativa do Centro de Ressocialização de Sumaré, do indeferimento judicial pelo DEECRIM UR4 com interpretação restritiva do art. 120 da Lei de Execução Penal e do acórdão do Tribunal de Justiça do Estado de São Paulo que manteve essa compreensão, mesmo ante a iminência do parto e a ausência de risco concreto.
+Em caráter liminar, pede a suspensão imediata dos efeitos do acórdão do Tribunal de Justiça do Estado de São Paulo que manteve o indeferimento da saída humanitária; e a liberação excepcional do paciente para acompanhar o parto e o pós-parto imediato, sem escolta, com monitoramento eletrônico e condições que o Superior Tribunal de Justiça reputar adequadas, pelo período estritamente necessário
+No mérito, requer o conhecimento e o processamento do writ, e a confirmação da liminar, com a concessão definitiva da ordem (fls. 2/9).
+É o relatório.
+Ocorre que os autos não se encontram suficientemente instruídos com cópia do acórdão proferido pelo Tribunal de Justiça de São Paulo, circunstância que impede a verificação da verossimilhança das alegações.
+Com efeito, é ônus da defesa instruir adequadamente o habeas corpus, no momento da impetração, sob pena de ser ele inadmitido de plano, pois a ação constitucional depende de prova pré-constituída, não comportando instrução probatória (AgRg no HC n. 939.286/MG, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 25/10/2024).
+Em face do exposto, não conheço do writ.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. EXECUÇÃO PENAL. PRETENSÃO DE PERMISSÃO DE SAÍDA. AUSÊNCIA DE CÓPIA DO ACÓRDÃO. VERIFICAÇÃO DA VEROSSIMILHANÇA DAS ALEGAÇÕES. INVIABILIDADE.
+Writ não conhecido.
