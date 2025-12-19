@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se  de  conflito de  competência  instaurado  entre  o  JUÍZO FEDERAL DA 1A VARA DE SÃO BERNARDO DO CAMPO - SJ/SP e o JUÍZO DE DIREITO DA 3A VARA CÍVEL DE DIADEMA - SP.
+Inicialmente,  o  JUÍZO DE DIREITO DA 3A VARA CÍVEL DE DIADEMA - SP  declinou  de  sua  competência  em  razão  dos  seguintes  fundamentos  (fls.  20-21):
+Trata-se de carta precatória cuja ação principal tramita perante o Foro Federal de São Bernardo do Campo - SP. Contudo, respeitosamente e salvo melhor juízo, há vários motivos para o não cumprimento do quanto solicitado, pois:
+1) O artigo 255 do Código de Processo Civil assim preconiza:
+Art. 255. Nas comarcas contíguas de fácil comunicação e nas que se situem na mesma região metropolitana, o oficial de justiça poderá efetuar, em qualquer delas, citações, intimações, notificações, penhoras e quaisquer outros atos executivos.
+E é justamente o que ocorre no presente caso.
+2) As Comarcas de Diadema - SP e São Bernardo do Campo - SP são agrupadas como contíguas pela Corregedoria Geral de Justiça deste Tribunal de Justiça do Estado de São Paulo, o que foi reafirmado pela Resolução nº 742/2016, publicada no DOE em 16/06/2016, que assim prevê:
+Art. 1º. Nas Comarcas agrupadas, nos termos do art. 23 da Lei Estadual nº 3.396/82 e desta Resolução, a jurisdição de cada Vara é extensiva ao território da outra do mesmo Grupo para a prática de atos e diligências processuais cíveis, criminais, de execuções fiscais e relativas à Infância e Juventude. § 1º- Os atos e diligências processuais, nos agrupamentos previstos nos artigos 3º, 4º e 5º desta Resolução, deverão ser praticados diretamente pelo Juizo interessado, vedada a expedição de precatória, salvo motivo relevante mencionado no despacho que determinar a expedição e na carta expedida, observado ainda o disposto no art. 2º desta Resolução (grifos nossos). Art. 5º.  Ficam agrupadas, para efeito de atos e diligências, nos termos desta Resolução, as Comarcas abaixo indicadas:  GRUPO II: Diadema e São Bernardo do Campo.
+3) A deprecata veio deficientemente instruída, já que não consta contrafé, procuração e demais documentos pertinentes para seu pleno conhecimento por este Juízo.
+4) Não foram recolhidas a taxa judiciária de distribuição e as diligência do Oficial de Justiça.
+5) Não comprovação de utilização da regra prevista nos artigos 249 e 274 do Código de Processo Civil, segundo os quais:
+Art. 249. A citação serd feita por meio de oficial de justiça nas hipóteses previstas neste Código ou em lei, ou quando frustrada a citação pelo correio. Art. 274. Não dispondo a lei de outro modo, as intimações serão feitas às partes, aos seus representantes legais, aos advogados e aos demais sujeitos do processo pelo correio ou, se presentes em cartório, diretamente pelo escrivão ou chefe de secretaria.
+6) Conforme foi decidido pelo Superior Tribunal de Justiça no Conflito de Competência nº 181.458/SP:
+Como a cidade está na área de jurisdição do Juizo Federal, não faz sentido que a Justiça Federal transfira seus encargos para a Justiça do Estado. Primeiro porque ela possui servidores e meios para cumprir suas atribuições na área de sua jurisdição. Segundo, a expedição de carta precatória para a Justiça estadual somente é necessária se for para comarca fora da jurisdição do Juizo Federal deprecante. No presente caso, o Juizo Federal expediu carta precatória para cumprimento de ato a ser efetivado dentro da sua própria subseção judiciária, com o objetivo de ser cumprida por outro juizo no âmbito de território onde detém competência. A jurisdição do Juizo Federal não está limitada ao município de sua sede, mas ao território da subseção judiciária. Nesse contexto, o Juizo estadual não tem competência para a prática do ato processual, podendo assim recusar-se a cumprir a carta precatória, conforme reconhecido pela jurisprudência do STJ. Diante do exposto, CONHEÇO do presente conflito negativo de competência para DECLARAR COMPETENTE o JUÍZO FEDERAL DA 3º VARA DE SÃO BERNARDO DO CAMPO - SJ/SP  Ministro Antonio Carlos Ferreira, 28/09/2021.
+Por todos os motivos acima elencados, devolva-se a presente carta precatória, independentemente de cumprimento, encaminhando-se ao MM. Juízo Deprecante.
+Remetidos  os  autos,  o  JUÍZO FEDERAL DA 1A VARA DE SÃO BERNARDO DO CAMPO - SJ/SP  suscitou  o  presente  conflito,  defendendo  que  (fls.  25-27):
+No caso concreto, o Juízo de Direito da 3ª Vara Cível de Diadema tem competência em razão da matéria, não havendo, de outro lado, impeditivo de ordem hierárquica que impeça o cumprimento do ato deprecado, razões pelas quais, estando a carta revestida dos requisitos legais, bem como inexistindo dúvida acerca de sua autenticidade, não poderia recusar-se ao cumprimento, nisso não interferindo o fato de a Justiça Federal de São Bernardo do Campo ter competência para feitos de Diadema, pois, como se vê, esta cidade não é sede de Vara da Justiça Federal.
+A matéria é pacífica no âmbito do c. Superior Tribunal de Justiça, conforme recentíssimas decisões monocráticas lançadas no julgamento de conflitos de competência envolvendo a Justiça Federal de São Bernardo do Campo e a Justiça Estadual de Diadema, conforme a seguir exemplificativamente colacionadas:
+ ..
+Posto isso, suscito conflito negativo de competência, com encaminhamento ao C. Superior Tribunal de Justiça para deslinde da questão.
+Parecer  do  Ministério Público Federal,  às  fls.  32-33,  sem opinião meritória.
+É,  no  essencial,  o  relatório.
+Com  fundamento  na  orientação  contida  na  Súmula  n.  568/STJ,  procedo  ao  julgamento  monocrático  do  conflito,  tendo  em  vista  a  existência  de  precedentes  acerca  da  questão  ora  discutida  e  a  necessidade  de  se  reduzirem  as  pautas  já  bastante  numerosas  da  Segunda  Seção.
+De início, conheço do presente conflito de competência, porquanto envolve Juízos vinculados a Tribunais distintos, nos moldes do art. 105, inciso I, alínea "d", da Constituição Federal.
+Acerca da controvérsia posta, destaca-se que a jurisprudência da Segunda Seção firmou-se no sentido de que compete ao juízo estadual cumprir as cartas precatórias expedidas pelo juízo federal quando a localidade para o cumprimento da diligência não possuir sede de vara federal.
+A propósito, confira-se:
+CONFLITO DE COMPETÊNCIA. AÇÃO MONITÓRIA. CARTA PRECATÓRIA. JUSTIÇA FEDERAL. AUSÊNCIA DE VARA FEDERAL NO LOCAL DO CUMPRIMENTO DA DILIGÊNCIA. CUMPRIMENTO PELA JUSTIÇA ESTADUAL.
+1. Esta Corte Superior possui entendimento no sentido de que compete ao juízo estadual cumprir as cartas precatórias expedidas pelo juízo federal quando a localidade para o cumprimento da diligência não possuir sede de vara federal.
+2. Conflito de competência conhecido para declarar a competência do juízo estadual.
+(CC n. 212.621/SP, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 8/5/2025, DJEN de 19/5/2025, grifei.)
+Na  espécie, tendo em vista que não há na Comarca de Diadema Vara da Justiça Federal para cumprimento da diligência, compete à Justiça estadual o cumprimento da carta precatória em questão.
+Em casos análogos, cito: CC n. 216.530, Ministra Nancy Andrighi, DJEN de 27/10/2025; CC n. 214.545, Ministro Raul Araújo, DJEN de 25/9/2025; e CC n. 216.073, Ministro Antonio Carlos Ferreira, DJEN de 22/ 9/2025.
+Ante  o  exposto,  conheço  do  conflito  para  declarar  a  competência  do  JUÍZO DE DIREITO DA 3A VARA CÍVEL DE DIADEMA - SP.
+Comunique-se aos juízos suscitante e suscitado a presente decisão.
+Publique-se.  Intimem-se.
+EMENTA
