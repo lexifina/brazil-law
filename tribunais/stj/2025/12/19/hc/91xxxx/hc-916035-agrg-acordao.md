@@ -1,0 +1,72 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Maria Marluce Caldas, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito Processual Penal. Agravo Regimental. HABEAS CORPUS. SUBSTITUIÇÃO DE RECURSO PRÓPRIO. PRINCÍPIO DA NON REFORMATIO IN PEJUS. BIS IN IDEM. DOSIMETRIA DA PENA. CONTINUIDADE DELITIVA. INDIVIDUALIZAÇÃO DA PENA. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus, impetrado em substituição a recurso próprio, em razão da ausência de flagrante ilegalidade que justificasse a concessão da ordem de ofício.
+2. Os agravantes alegam: (i) cabimento do habeas corpus diante de flagrante ilegalidade; (ii) violação ao princípio da non reformatio in pejus; (iii) ocorrência de bis in idem; (iv) ausência de fundamentação idônea para a negativação das consequências do crime; (v) desproporcionalidade no aumento da pena-base e na aplicação da continuidade delitiva; e (vi) ausência de individualização das penas.
+II. Questão em discussão
+3. Há seis questões em discussão: (i) saber se o habeas corpus pode ser conhecido quando impetrado em substituição a recurso próprio, na ausência de flagrante ilegalidade; (ii) saber se houve violação ao princípio da non reformatio in pejus em razão da alteração da classificação de circunstâncias judiciais na dosimetria da pena; (iii) saber se houve bis in idem na valoração negativa das circunstâncias do crime; (iv) saber se houve ausência de fundamentação idônea para a negativação das consequências do crime; (v) saber se houve desproporcionalidade no aumento da pena-base e na aplicação da continuidade delitiva; (vi) saber se houve ausência de individualização das penas.
+III. Razões de decidir
+4. O habeas corpus não pode ser conhecido quando utilizado como substituto de recurso próprio, salvo em casos de flagrante ilegalidade, o que não se verifica no caso concreto.
+5. Não há violação ao princípio da non reformatio in pejus, pois a Corte de origem apenas alterou a classificação de um fato já valorado negativamente na sentença, sem agravar a situação dos réus.
+6. Não há ocorrência de bis in idem na valoração negativa das circunstâncias do crime, pois a dissimulação de alternância entre empresas do mesmo grupo econômico foi considerada uma circunstância concreta que demonstra maior sofisticação e reprovabilidade das condutas.
+7. A fundamentação para a negativação das consequências do crime foi adequada, considerando os prejuízos causados ao município, a multiplicidade de contratos irregulares, a reiteração das condutas e o comprometimento do serviço público de fornecimento de merenda escolar.
+8. A dosimetria da pena não segue critério matemático rígido, sendo o aumento de 1/3 da pena-base proporcional à gravidade das circunstâncias e consequências dos crimes.
+9. A aplicação da continuidade delitiva foi fundamentada adequadamente com base nos elementos dos autos, que demonstram a pluralidade de condutas delitivas praticadas em contexto de continuidade.
+10. Não houve violação ao princípio da individualização das penas, pois os réus atuaram em conjunto nas mesmas condutas delitivas, com grau de participação similar, o que justifica a aplicação dos mesmos fundamentos.
+IV. Dispositivo e tese
+11. Resultado do Julgamento: Agravo regimental não provido.
+Tese de julgamento:
+Dispositivos relevantes citados:CP, art. 59; STJ, Tema Repetitivo n. 1214.
+Jurisprudência relevante citada:STJ, Tema Repetitivo n. 1214.
+RELATÓRIO
+Trata-se de agravo regimental interposto por MARCO AURÉLIO RIBEIRO DA COSTA e CRISTIANE VETTURI contra decisão que não conheceu do habeas corpus (fls. 1179-1184).
+Nas razões do agravo, os recorrentes argumentam, em síntese, (i) o cabimento do writ diante de flagrante ilegalidade; (ii) a violação ao princípio da non reformatio in pejus; (iii) a ocorrência de bis in idem; (iv) ausência de fundamentação idônea para negativação das consequências do crime; (v) desproporcionalidade no aumento da pena-base e na aplicação da continuidade delitiva; e (vi) ausência de individualização das penas (fls. 1188-1206).
+Ao manter a decisão agravada por seus próprios e jurídicos fundamentos, submeto o agravo regimental à apreciação da Quinta Turma.
+É o relatório.
+EMENTA
+Direito Processual Penal. Agravo Regimental. HABEAS CORPUS. SUBSTITUIÇÃO DE RECURSO PRÓPRIO. PRINCÍPIO DA NON REFORMATIO IN PEJUS. BIS IN IDEM. DOSIMETRIA DA PENA. CONTINUIDADE DELITIVA. INDIVIDUALIZAÇÃO DA PENA. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus, impetrado em substituição a recurso próprio, em razão da ausência de flagrante ilegalidade que justificasse a concessão da ordem de ofício.
+2. Os agravantes alegam: (i) cabimento do habeas corpus diante de flagrante ilegalidade; (ii) violação ao princípio da non reformatio in pejus; (iii) ocorrência de bis in idem; (iv) ausência de fundamentação idônea para a negativação das consequências do crime; (v) desproporcionalidade no aumento da pena-base e na aplicação da continuidade delitiva; e (vi) ausência de individualização das penas.
+II. Questão em discussão
+3. Há seis questões em discussão: (i) saber se o habeas corpus pode ser conhecido quando impetrado em substituição a recurso próprio, na ausência de flagrante ilegalidade; (ii) saber se houve violação ao princípio da non reformatio in pejus em razão da alteração da classificação de circunstâncias judiciais na dosimetria da pena; (iii) saber se houve bis in idem na valoração negativa das circunstâncias do crime; (iv) saber se houve ausência de fundamentação idônea para a negativação das consequências do crime; (v) saber se houve desproporcionalidade no aumento da pena-base e na aplicação da continuidade delitiva; (vi) saber se houve ausência de individualização das penas.
+III. Razões de decidir
+4. O habeas corpus não pode ser conhecido quando utilizado como substituto de recurso próprio, salvo em casos de flagrante ilegalidade, o que não se verifica no caso concreto.
+5. Não há violação ao princípio da non reformatio in pejus, pois a Corte de origem apenas alterou a classificação de um fato já valorado negativamente na sentença, sem agravar a situação dos réus.
+6. Não há ocorrência de bis in idem na valoração negativa das circunstâncias do crime, pois a dissimulação de alternância entre empresas do mesmo grupo econômico foi considerada uma circunstância concreta que demonstra maior sofisticação e reprovabilidade das condutas.
+7. A fundamentação para a negativação das consequências do crime foi adequada, considerando os prejuízos causados ao município, a multiplicidade de contratos irregulares, a reiteração das condutas e o comprometimento do serviço público de fornecimento de merenda escolar.
+8. A dosimetria da pena não segue critério matemático rígido, sendo o aumento de 1/3 da pena-base proporcional à gravidade das circunstâncias e consequências dos crimes.
+9. A aplicação da continuidade delitiva foi fundamentada adequadamente com base nos elementos dos autos, que demonstram a pluralidade de condutas delitivas praticadas em contexto de continuidade.
+10. Não houve violação ao princípio da individualização das penas, pois os réus atuaram em conjunto nas mesmas condutas delitivas, com grau de participação similar, o que justifica a aplicação dos mesmos fundamentos.
+IV. Dispositivo e tese
+11. Resultado do Julgamento: Agravo regimental não provido.
+Tese de julgamento:
+1. O habeas corpus não pode ser conhecido quando utilizado como substituto de recurso próprio, salvo em casos de flagrante ilegalidade. 2. A correção de fundamentação dosimétrica, com alteração da classificação de circunstâncias judiciais já valoradas negativamente, não configura reformatio in pejus. 3. A valoração negativa das circunstâncias concretas do crime, que demonstram maior reprovabilidade das condutas, não caracteriza bis in idem . 4. A dosimetria da pena deve observar a gravidade e intensidade das circunstâncias judiciais, não sendo regida por critério matemático rígido. 5. A aplicação da continuidade delitiva deve ser fundamentada com base nos elementos dos autos que demonstrem a pluralidade de condutas delitivas. 6. A individualização da pena não exige fundamentação distinta quando as situações concretas dos réus são idênticas.
+Dispositivos relevantes citados:CP, art. 59; STJ, Tema Repetitivo n. 1214.
+Jurisprudência relevante citada:STJ, Tema Repetitivo n. 1214.
+VOTO
+Presentes os requisitos legais, conheço do agravo regimental.
+Em que pesem os argumentos contidos nas razões recursais, o agravo não comporta provimento, porquanto a parte agravante não trouxe argumentos capazes de ensejar a alteração do entendimento firmado por ocasião da decisão agravada, que deve ser mantida, máxime porque embasada em julgados desta Corte Superior.
+O presente writ foi impetrado em substituição de recurso próprio, circunstância que impede seu conhecimento. Ainda, não restou configurada nenhuma ilegalidade flagrante que pudesse justificar eventual concessão da ordem de ofício.
+Os agravantes insistem na tese de que houve violação ao princípio da non reformatio in pejus, e argumentam que o Tribunal de origem, ao afastar a negativação da "conduta social" e valorar negativamente as "circunstâncias do crime", teria impedido maior redução das penas. Sem razão.
+O princípio da non reformatio in pejus veda que a situação do réu seja agravada em recurso exclusivo da defesa. No caso dos autos, houve efetiva e substancial redução das penas em todas as condenações, demonstrando que a Corte local acolheu, em parte, as razões defensivas.
+A correção de fundamentação dosimétrica, com o afastamento de vetoriais inadequadamente valoradas (culpabilidade e conduta social) e o reconhecimento de outras efetivamente presentes nos autos (circunstâncias do crime), não configura reformatio in pejus, mas exercício regular do poder-dever jurisdicional de segundo grau.
+Esse entendimento está, inclusive, consolidado por esta Corte Superior no Tema Repetitivo n. 1214 que dispõe que: "É obrigatória a redução proporcional da pena base quando o tribunal de segunda instância, em recurso exclusivo da defesa, afastar circunstância judicial negativa reconhecida na sentença. Todavia, não implicam reformatio in pejus a mera correção da classificação de um fato já valorado negativamente pela sentença para enquadrá-lo como outra circunstância judicial, nem o simples reforço de fundamentação para manter a valoração negativa de circunstância já reputada desfavorável na sentença."
+Desse modo, tendo a Corte de origem apenas alterado a classificação de um fato, que inicialmente já havia sido valorado para negativar a conduta social e passou a sopesar as circunstâncias do crime, não há que se falar em reformatio in pejus.
+Da mesma forma, não prospera a tese de ocorrência de bis in idem pela valoração negativa das circunstâncias do crime, ao argumento de que a dissimulação de alternância entre empresas já integraria o próprio tipo penal de fraude à licitação.
+O acórdão impugnado fundamentou adequadamente que a dissimulação de alternância entre empresas do mesmo grupo econômico (SISTAL e EB), apresentadas como se fossem concorrentes autônomas, caracteriza circunstância concreta que demonstra maior sofisticação, planejamento e organização na execução dos delitos, o que justifica a exasperação da pena-base.
+Logo, não se trata de valorar a fraude em si como meio de execução e elemento abstrato do tipo penal, mas sim as circunstâncias concretas e particularmente graves como os crimes foram executados, o que revelou maior reprovabilidade das condutas.
+Ainda, no que concerne à ausência de fundamentação idônea para a negativação das consequências do crime, verifico que o acórdão impugnado fundamentou adequadamente o recrudescimento, com base nos prejuízos causados ao Município de Taubaté e demonstrados pela Nota Técnica da Controladoria-Geral da União que expressamente evidenciou a gravidade das consequências do delito e o desbordamento do resultado típico ao destacar: (i) a multiplicidade de contratos irregulares; (ii) a reiteração das condutas ao longo do tempo; e (iii) o comprometimento da regularidade do serviço público de fornecimento de merenda escolar.
+Assim, a ausência de quantificação exata do prejuízo, por si só, não é suficiente para invalidar a fundamentação do Tribunal de origem.
+No que se refere à tese de desproporcionalidade no aumento de 1/3 da pena-base, porque apenas duas circunstâncias judiciais foram valoradas negativamente, é cediço que a dosimetria da pena não segue critério matemático rígido, pois deve o julgador, dentro do espaço de discricionariedade conferido pelo art. 59 do Código Penal, valorar a intensidade e gravidade de cada circunstância judicial, e aplicar aumento proporcional à reprovabilidade da conduta.
+No caso concreto, o aumento de 1/3 mostra-se adequado e proporcional à gravidade das circunstâncias e consequências dos crimes, caracterizados por: (i) alto grau de planejamento e sofisticação; (ii) multiplicidade de contratos irregulares; (iii) reiteração ao longo do tempo; e (iv) comprometimento de serviço público essencial.
+Quanto à continuidade delitiva, o acórdão impugnado fundamentou adequadamente sua aplicação com base nos elementos dos autos, motivo pelo qual não se vislumbra ilegalidade manifesta. A alegação de que existiria apenas um único desvio de recursos não encontra respaldo nos elementos probatórios colacionados, que demonstram a pluralidade de condutas delitivas praticadas em contexto de continuidade.
+Por fim, a alegação de violação ao princípio da individualização das penas também não procede. O acórdão aplicou os mesmos fundamentos a ambos os pacientes em virtude da identidade de situações fáticas e jurídicas, pois ambos atuaram em conjunto, nas mesmas condutas delitivas, com grau de participação similar, o que não prejudica a análise individual de cada réu.
+A individualização da pena não exige, necessariamente, fundamentação distinta quando as situações concretas dos réus são idênticas.
+Assim, não há falar em possível reversão do antes julgado.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
