@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de agravo interposto por IDELMA DA SILVA ANDREAZZI contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o/a agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fls.159 - 165 ):
+APELAÇÃO. Compromisso de compra e venda de imóvel. COHAB. Ação de obrigação de fazer. Afastamento da obrigação de transferência da documentação de propriedade e posse do imóvel. Cabimento. Ausência de anuência da COHAB quanto à cessão de direitos a terceiro. Autora que assumiu o risco de celebrar contrato de cessão de direitos com o adquirente sem a anuência da COHAB. Inépcia da apelação. Afastada. Existência de irresignação contra os fundamentos da r. Sentença. Sentença reformada. RECURSO PROVIDO.
+Rejeitados os embargos de declaração opostos (fls.227 - 230 ).
+No recurso especial, a parte recorrente alega, preliminarmente, ofensa ao art.489, art. 1.022, do CPC, e no mérito violação dos art.206, § 5º, I, do Código Civil e ao art. 19 do CPC.
+Sustenta, em síntese, que : a) acórdão não afastou a aplicação do art. 206, §5º, inciso I, do CC, apenas se ateve ao fato da cessão de direitos sem anuência, porém silenciou para a prescrição da cobrança de dívida; b) a decisão recorrida entendeu não ter direito a transferência da propriedade, sob o argumento de ilegitimidade da parte recorrente diante da cessão de direitos sem anuência da COHAB; c) não é necessária, para pedir a adjudicação compulsória, a anuência da COHAB na cessão do direitos, pois o imóvel está quitado; d) prescrita a cobranc a de saldo do contrato e quitado o bem, existe legitimidade do cessionário para pleitear a declaração e com isso a outorga de escritura.
+Foram oferecidas contrarrazões ao recurso especial (fls.234 - 251).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls.252 - 255 ), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo (fls. ).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+- Da violação dos arts. 489 e 1.022 do CPC
+Inicialmente, quanto à alegação de violação dos arts.489 e 1.022 do CPC, a parte recorrente fez menção genérica. Não há no texto da petição recursal a especificação de qual inciso dos citados dispositivos, entende-se como violados, aplicando-se o óbice da Sumula 284 do STF.
+Ademais, o ponto crucial do acórdão do Tribunal de origem foi analisar a necessidade da anuência do órgão habitacional para o aperfeiçoamento da cessão de direito, entendendo que o adquirente somente possui legitimidade para pleitear adjudicação compulsória se o agente habitacional tiver concordado com a transação.
+De modo que se trata de questão que antecede o direito à adjudicação, e de matéria distinta e sem conexão com o argumento de quitação do bem ou da prescrição de cobrança.
+Para melhor compreensão, segue trecho do acórdão(fls.163-164):
+De qualquer sorte, contudo, em que pese a relação entabulada entre as partes esteja bem demonstrada, é cediço que, em se tratando de contrato envolvendo imóvel financiado pelo SFH, eventual cessão de direitos a terceiro deve conter a anuência do órgão habitacional, o que não ficou demonstrada nos autos.
+Em suma, a transferência de imóvel integrante de programa habitacional não é automática, e o terceiro adquirente somente possui legitimidade para pleitear adjudicação compulsória se o agente habitacional tiver concordado com a transação, o que não ficou comprovado no caso em tela.
+O negócio jurídico firmado entre as partes não é oponível à recorrente, razão pela qual não há como acolher os pedidos de outorga de escritura e regularização junto ao órgão habitacional.
+Vale dizer, a exigência de anuência da entidade gestora do programa de política urbana é legítima, pois a propriedade do imóvel lhe pertence, e porque tais exigências visam preservar o caráter social da recorrente, vez que conjuntos habitacionais são destinados às pessoas menos favorecidas financeiramente, e, para que seja contemplado, o beneficiário deve atender aos critérios legalmente estabelecidos.
+- Da violação dos arts. 206, § 5º, I, do CC e 19 do CPC.
+Os argumentos da parte agravante de ter o acórdão recorrido violado os arts. 206, § 5º, I, do CC e 19 do CPC., sob o argumento de não ser necessária, para a adjudicação compulsória, a anuência da COHAB na cessão do direitos, por estar o imóvel quitado ou prescrita a cobranc a de algum débito, não merece em razão de ser incabível, em recurso especial, nova análise dos fatos e provas.
+Na hipótese, rever a conclusão do acórdão impugnado acerca das teses descritas acima ensejaria, evidentemente, no reexame fático-probatório, o que é vedado em recurso especial pela Súmula 7/STJ.
+Sobre o tema, transcrevo o seguinte julgado desta Corte:
+RECURSO ESPECIAL. CONTRATO. COMPRA E VENDA DE IMÓVEL. PRESCRIÇÃO. EFEITOS. RESCISÃO. DIREITO POTESTATIVO. FACULDADE. EXERCÍCIO. PRAZO PRESCRICIONAL. COBRANÇA. CRÉDITO. SALDO DEVEDOR. EXISTÊNCIA. NÃO COMPROVAÇÃO. REEXAME PROBATÓRIO. IMPOSSIBILIDADE. DEFICIÊNCIA. FUNDAMENTAÇÃO RECURSAL. SÚMULAS NºS 7/STJ E 284/STF.
+1. A controvérsia dos autos está em definir se o reconhecimento da prescrição no tocante à ação de cobrança de eventual saldo remanescente decorrente de contrato de compra e venda de imóvel tem o condão de i) afastar o direito do credor à rescisão contratual e ii) impedir a adjudicação compulsória do objeto do ajuste.
+2. Nos casos de rescisão de negócio jurídico por inadimplemento, em que a lei não estabelece prazo extintivo, o direito potestativo de o credor promover a resolução do negócio se sujeita ao prazo prescricional relativo à pretensão de cobrança de eventual saldo em aberto decorrente do contrato firmado entre as partes. Precedentes.
+3. Na hipótese, o reconhecimento da prescrição quanto à pretensão de cobrança de eventual dívida decorrente do compromisso de compra e venda de imóvel fulmina a possibilidade de exercício do direito potestativo de rescisão contratual pelo credor.
+4. Na hipótese, é inviável rever o entendimento firmado pelas instâncias ordinárias acerca da ausência de comprovação da existência de saldo devedor sem a reanálise dos elementos de convicção produzidos nos autos, o que atrai a incidência da Súmula nº 7/STJ.
+5. É deficiente a argumentação do recurso especial que se sustenta em dispositivos legais que não contêm comando normativo capaz de conferir sustentação jurídica às teses defendidas nas razões recursais. Incidência da Súmula nº 284 do STF.
+6. Recurso parcialmente conhecido e, nessa extensão, não provido.
+(REsp n. 1.765.641/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 11/6/2024, DJe de 18/6/2024.)
+Por fim, em que pese o recurso ter indicado o permissivo da alínea c, III, do art.105 da Constituição Federal, não realizou o devido cotejo analítico entre os julgados, ou seja, não demonstrou a similitude dos casos. Acrescente-se que a incidência da Súmula n. 7 do STJ quanto à interposição pela alínea "a"" do permissivo constitucional impede, por conseguinte, o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 18%, sobre o valor da causa, observando-se o benefício da justiça gratuita concedido a parte recorrente.
+Publique-se. Intime-se.
+ EMENTA
