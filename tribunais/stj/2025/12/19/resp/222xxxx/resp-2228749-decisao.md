@@ -1,0 +1,7 @@
+DECISÃO
+Cuida-se de recurso especial no qual se discute a obrigação de a operadora de plano de saúde custear ou reembolsar despesas médico-hospitalares realizadas fora da rede credenciada, por insuficiência da rede, bem como a extensão desse reembolso (integral ou nos limites contratuais), conforme decidido no acórdão recorrido (fls. 1569-1576) e impugnado na petição recursal (fls. 1652-1665).
+A matéria encontra-se afetada à Segunda Seção do Superior Tribunal de Justiça, aguardando o julgamento, sob o rito dos recursos repetitivos (Tema 1375), os Recursos Especiais 2167029/RJ e 2196667/SP, de relatoria do Ministro Antonio Carlos Ferreira.
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que lá fiquem sobrestados aguardando o julgamento do referido tema pelo Superior Tribunal de Justiça e, após sua publicação, em observância ao art. 1.040 do CPC/2015: a) seja negado seguimento ao recurso se a decisão recorrida coincidir com a orientação desta Corte; ou b) proceda-se ao juízo de retratação na hipótese de o acórdão vergastado divergir do precedente qualificado.
+Publique-se. Intimem-se.
+EMENTA
