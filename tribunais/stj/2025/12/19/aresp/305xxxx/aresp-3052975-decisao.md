@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de agravo interposto por TRATENGE ENGENHARIA LTDA. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS cuja ementa guarda os seguintes termos (fl. 531):
+APELAÇÃO CÍVEL - DIREITO PROCESSUAL CIVIL - ATRASO NA ENTREGA DE UNIDADE HABITACIONAL - RELAÇÃO DE CONSUMO - APLICAÇÃO DO CDC - CULPA EXCLUSIVA DA CONSTRUTORA - VERIFICAÇÃO - EXCLUDENTE DE RESPONSABILIDADE - TEORIA DA IMPREVISÃO - NÃO APLICAÇÃO - DANOS MORAIS - OCORRÊNCIA - VALOR - PROPORCIONALIDADE E RAZOABILIDADE - OBSERVÂNCIA NECESSIDADE - DANOS MATERIAIS - ALUGUEIS SUPORTADOS PELO CONSUMIDOR. 1- A legitimidade passiva, como condição da ação, deve ser verificada mediante a análise abstrata da narrativa apresentada pela parte autora em suas razões iniciais, em conformidade com a "teoria da asserção". 2- A pessoa jurídica contratada para fins de assessorar a compradora não deve ser solidariamente condenada ao pagamento de indenizações decorrentes dos danos causados pelo inadimplemento contratual da construtora, que deixou de concluir as obras do empreendimento. 3- O descumprimento da legislação municipal não pode ser invocado pela construtora como fato extraordinário e imprevisível apto a afastar sua responsabilidade pelo descumprimento contratual. 4- Os danos morais visam a compensar vítima de abalos psicológicos ocasionados por ato ilícito praticado por outrem. 5- A completa inexecução do contrato, com comprovado abandono das obras de construção do empreendimento imobiliário adquirido pelo consumidor, justifica a condenação da construtora ao pagamento de indenização por danos morais. 6- O valor fixado a título de indenização por danos morais deve ser balizado pelos princípios da proporcionalidade e da razoabilidade, não podendo ser fonte de enriquecimento indevido à vítima, tampouco irrisório ao ofensor. 7- Cabível a condenação da construtora ao pagamento de indenização por danos materiais decorrentes dos gastos com aluguel que o consumidor.
+Rejeitados os embargos de declaração opostos (fl. 583).
+No recurso especial, a parte recorrente alega violação dos arts. 478, 479 e 480 do CC, pois entende que a teoria da imprevisão seria aplicável ao caso, justificando a revisão contratual.
+Aduz violação dos arts. 113, 421 e 422 do CC, pois entende que não foi responsável por inadimplemento contratual, sendo indevida a restituição de valores.
+Alega ainda violação do art. 186 do CPC, argumentando que o mero inadimplemento contratual não configura dano moral.
+Foram oferecidas contrarrazões ao recurso especial (fls. 606 - 614).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 624 - 626), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 638 - 642).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+O Tribunal de origem concluiu no sentido de que a construtora inadimpliu integralmente o contrato, sendo responsável pela rescisão e pelos danos, com base em laudo pericial e demais provas (fotos e cronograma), como se pode depreender do seguinte trecho extraído do acórdão recorrido (fl. 541):
+Conforme se observa pela tabela acima, o financiamento bancário deveria ter sido contratado pela compradora a partir de março de 2014, sete meses antes da data limite para finalização das obras. Contudo, não é razoável cobrar o cumprimento de tal obrigação se na data prevista para aquisição do financiamento o empreendimento ainda estava em fase inicial de construção, tal como demonstrado pelas fotos acostadas ao laudo pericial de ordem nº 70. Portanto, não há dúvidas de que a responsabilidade pela rescisão contratual é das responsáveis pela construção do empreendimento, devendo responder objetivamente pelos danos suportados pela autora, nos termos do artigo 18 do CDC.
+Afastar o referido entendimento para concluir no sentido de que não houve inadimplemento da construtora ou que a rescisão deve ser imputada à compradora, como pretende o recorrente, demandaria o reexame do material fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+Do mesmo modo, rever registrado no acórdão a respeito da configuração de danos morais implicaria reexame de fatos e provas, atraindo a incidência da Súmula n. 7/STJ (fl. 541):
+Quanto aos danos morais, não há dúvidas acerca da ocorrência. A autora adquiriu um imóvel "na planta", adimpliu substancialmente as parcelas ajustadas. Contudo, jamais recebeu seu imóvel, de forma que a construtora ré inadimpliu integralmente o contrato, abandonando o empreendimento e, consequentemente o consumidor, que viu seus planos mais relevantes se frustrarem.
+Irretocável, portanto, a condenação da apelante ao pagamento de danos morais.
+Nesse sentido, cito :
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. LEGITIMIDADE PASSIVA CONFIGURADA. DANO MORAL. CLÁUSULAS CONTRATUAIS. SÚMULAS 5, 7 E 182 DO STJ. RECURSO NÃO CONHECIDO.
+I. CASO EM EXAME
+1. Agravo em recurso especial interposto por CIDADE VERDE SERRA EMPREENDIMENTOS IMOBILIÁRIOS S/A e GRAN VIVER URBANISMO S/A contra decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, manejado em face de acórdão do TJES que, ao julgar apelação cível, manteve a sentença proferida em ação de rescisão contratual cumulada com devolução de valores e indenização por danos morais ajuizada por WANDERSON DUARTE e ADRIANA DONADONES, reconhecendo inadimplemento contratual pelo atraso na entrega de lote e condenando as empresas à restituição integral dos valores pagos e à indenização por danos morais.
+II. QUESTÃO EM DISCUSSÃO
+2. Há três questões em discussão: (i) verificar se a empresa GRAN VIVER URBANISMO S/A possui legitimidade passiva para figurar no polo da demanda, embora não seja parte contratual; (ii) determinar se é cabível a restituição integral dos valores pagos em razão do inadimplemento contratual; e (iii) definir se a indenização por danos morais é devida e se o valor arbitrado é proporcional.
+III. RAZÕES DE DECIDIR
+3. A instância de origem reconhece a legitimidade passiva da GRAN VIVER URBANISMO S/A com base na teoria da aparência e na constatação de sua participação ativa no empreendimento, além de vínculos evidentes com a outra ré, como endereço comum e publicidade conjunta.
+4. O atraso na entrega do loteamento supera quatro anos do prazo de tolerância, não sendo justificável por eventos como chuvas ou escassez de mão de obra, considerados fortuito interno, atraindo a responsabilidade das recorrentes.
+5. A jurisprudência do STJ (Súmula 543) estabelece a devolução integral das parcelas pagas pelo promitente comprador nos casos de inadimplemento exclusivo do vendedor, como no presente caso.
+6. A indenização por danos morais é mantida com base na extensão do prejuízo e no longo prazo de descumprimento contratual, configurando violação a direitos da personalidade.
+7. A revisão das conclusões do tribunal de origem demandaria reexame de fatos e provas e interpretação de cláusulas contratuais, providência vedada em recurso especial, nos termos das Súmulas 5 e 7 do STJ.
+8. A parte agravante não impugna especificamente todos os fundamentos da decisão recorrida, limitando-se a alegações genéricas, o que atrai a aplicação da Súmula 182 do STJ, que torna inviável o agravo que não ataca de forma específica os fundamentos da decisão agravada.
+IV.
+DISPOSITIVO
+9. Agravo em recurso especial não conhecido.
+(AREsp n. 2.947.462/ES, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 13/10/2025, DJEN de 16/10/2025.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 18% sobre o valor atualizado da condenação.
+Publique-se. Intimem-se.
+ EMENTA
