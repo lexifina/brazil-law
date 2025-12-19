@@ -1,0 +1,48 @@
+DECISÃO
+Cuida-se de agravo interposto por BRASILSEG COMPANHIA DE SEGUROS contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE cuja ementa guarda os seguintes termos (fls.771-782):
+APELAÇÃO CÍVEL - D I R E I T O D O CONSUMIDOR E PROCESSUAL CIVIL - A Ç Ã O DECLARATÓRIA DE INEXISTÊNCIA DE D É B I T O E REPETIÇÃO DE INDÉBITO COM PEDIDO DE TUTELA ANTECIPADA - SENTENÇA DE IMPROCEDÊNCIA - CONTRATOS DE SEGURO - BANCO ALEGA QUE OS CONTRATOS NUNCA FORAM VIGENTES - COMPROVAÇÃO DO PAGAMENTO DA PRIMEIRA PARCELA - INSTRUÇÃO DA SUPERINTENDÊNCIA D E S E G U R O S ( S U S E P ) - CANCELAMENTO DO SEGURO INDEVIDO - ADIMPLEMENTO DA PRIMEIRA P A R C E L A - C O N T R A T O S VÁLIDOS - VALOR DO SEGURO QUE DEVE SER PAGO A A U T O R A - R E C U R S O CONHECIDO E PARCIALMENTE P R O V I D O - DECISÃO POR UNANIMIDADE
+Os embargos de declaração opostos pelas partes foram acolhidos (fls. 790-798, 800-807 e 809-814), para:
+a) sanar as omissões alegadas e declarar a inexistência de débito oriundo da Cédula de Crédito Rural nº 386.401.311, por estar quitada mediante seguro vinculado, bem como aplicar o IPCA para correção monetária, sendo os juros de mora de 1,0% ao mês até 30/08/2024 e, após essa data, a aplicação da taxa Selic, dela deduzida a correção monetária, nos termos dos arts. 406 c/c art. 389, parágrafo único, do Código Civil e da Lei nº 14.905/2024;
+b) sanar omissão, nos termos do art. 85, § 2º, do CPC, e determinar a aplicação de honorários advocatícios sobre o valor da condenação, mantido o percentual fixado no acórdão.
+No recurso especial, a parte recorrente alega, além de divergência jurisprudencial, ofensa ao art. 46 do Código de Defesa do Consumidor, bem como aos arts. 757, 758, 759 e 781, todos do Código Civil.
+Sustenta, em síntese, que:
+a) ficou incontroverso que não houve o pagamento da primeira parcela do prêmio, condição essencial à formação e à vigência do contrato, fato reconhecido pela sentença;
+b) os extratos bancários comprovam que não houve o pagamento dos prêmios, os quais foram estornados por insuficiência de saldo na conta bancária;
+c) não se trata de cancelamento por inadimplência ou de recusa injustificada, mas de ausência de formalização do contrato de seguro proposto, o qual se formaliza, entre outros requisitos, mediante o pagamento da primeira parcela.
+Foram apresentadas contrarrazões ao recurso especial (fls. 849-860 e 863-864).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 867-874), o que ensejou a interposição do presente agravo.
+Foi apresentada contraminuta ao agravo (fl. 898).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Da violação do art. 46 do Código de Defesa do Consumidor e dos arts. 757, 758, 759 e 781 do Código Civil
+A parte recorrente sustenta que não houve o pagamento da primeira parcela do prêmio, condição essencial à formação e à vigência do contrato.
+Do exame do acórdão do Tribunal de origem, constata-se que o pronunciamento sobre esses argumentos foi, devidamente, realizado por meio de análise dos fatos e do conjunto probatório dos autos, bem como com base nas cláusulas contratuais, conforme trecho abaixo do citado acórdão (fls. 778-781):
+Em razão da relação de consumo estabelecida, devemo-nos pautar pelas regras e princípios da relação consumerista, entendendo a posição vulnerável do consumidor diante do mercado, como bem expõe o art. 4º, I do CDC.
+(..)
+Quanto a vigência dos contratos, alega a BRASILSEG que os contratos Seguro Penhor Rural (Proposta n.º 007303212) e Seguro Vida Agricultura Familiar (Proposta n.º 015107052) não tiveram sua contratação finalizada, uma vez que não formalizados, alegando que sequer houvera o primeiro pagamento.
+A Superintendência de Seguros Privados - SUSEP, autarquia da Administração Pública Federal nacional responsável pelo controle e fiscalização dos mercados de seguro, em seu Guia de Orientação e Defesa do Segurado explica que:
+"O não pagamento do prêmio nas datas previstas poderá acarretar a suspensão ou até mesmo o cancelamento do seguro, prejudicando o direito à indenização, caso o sinistro ocorra após. a data de suspensão ou cancelamento. As condições gerais, na cláusula "pagamento de prêmio", deverão informar em que hipóteses ocorrerão a suspensão e/ou o cancelamento do " (Guia de contrato em razão da falta de pagamento do prêmio. Orientação e Defesa do Segurado, pg. 12)
+(..)
+O contrato de Seguro de Vida Completo (Proposta nº 46174261 e Apólice 1103513), acostado aos autos do processo às fls. 20/24, é de periodicidade anual e parcela única, expressando os casos de suspensão e cancelamento do serviço nos itens 6), 7) e 8) do tópico "Observações" (fl. 21).
+(..)
+Somente não se considera válido o contrato de seguro que não teve sua primeira parcela adimplida, teve sua primeira parcela adimplida, cancelando-se automaticamente o contrato, ocorre que não há clausula contratual expressa nos instrumentos juntados às fls. 20/24 e 32/28, acerca do cancelamento dos seguros, não merecendo prosperar a alegação do cancelamento automático segundo a instrução da SUSEP, pois o primeiro pagamento fora realizado.
+Ocorre que os contratos possuem prazo de pagamento anual, onde os prêmios se mostram adimplidos, conforme fls. 563/564, não tendo o outro pagamento sido realizado em razão do falecimento do autor em 29/03/2020, conforme certidão de óbito acostada à fl. 29. Assim, tendo comprovado fato constitutivo de seu direito (art. 373, I do CPC), e não tendo a instituição financeira ré conseguido provar fato impeditivo, modificativo ou extintivo do direito autoral (art. 373, II do CPC), porquanto a primeira parcela se mostra adimplida conforme supramencionado, consideram-se válidos os contratos, é indubitável, portanto, portanto, que a seguradora deve pagar ao apelante.
+(..)
+Conforme o que se expôs, de fato, é imprescindível a demonstração de má fé do credor, o que não aparenta existir no caso, uma vez que a Instituição Financeira apenas apresenta uma confusão quanto ao adimplemento da primeira parcela.
+De tal modo, o banco réu deve apenas cumprir com sua parte do contrato firmado, uma vez que as obrigações da apelante se provaram adimplidas, não havendo que se falar em forma dobrada.
+Rever o entendimento acima, em relação ao adimplemento da obrigação contratual pela parte recorrida, isto é, se houve ou não o pagamento do prêmio do contrato de seguro e se isso resultaria no cancelamento do referido ajuste, implica no revolvimento de matéria fática-probatória e, principalmente, de interpretação das cláusulas do contrato em questão, o que é inviável em sede de recurso especial, à luz dos óbices contidos nas Súmulas 5 e 7 desta Corte.
+A respeito do tema, segue julgado da Terceira Turma do STJ:
+CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. SEGURO DE VEÍCULO. APELO NOBRE NÃO ADMITIDO NA ORIGEM PORQUE A MATÉRIA FOI JULGADA SEGUNDO O RITO DO DO ART 1.030, I, B, DO CPC (ART. 543-C DO CPC/73). AGRAVO EM RECURSO ESPECIAL. NÃO CABIMENTO. ALEGAÇÃO DE ILEGITIMIDADE ATIVA E NECESSIDADE DE FORMAÇÃO DE LITISCONSÓRCIO ATIVO AFASTADAS. DIREITO A INDENIZAÇÃO. INADIMPLÊNCIA DAS MENSALIDADES DE RATEIO. EFEITOS. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DAS CLÁUSULAS CONTRATUAIS. SÚMULAS NºS 5 E 7, AMBAS DO STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO ANTE A INCIDÊNCIA DE ÓBICE SUMULAR. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Descabimento do agravo previsto no art. 1.042, caput, do CPC quando a Corte estadual inadmite o recurso especial com base em recurso repetitivo, nos termos do art. 1.030, I, b, do CPC.
+2. Tendo o TJMG concluído que a agravada é parte legítima para promover, de forma solitária, a demanda indenizatória, reformar tal entendimento demandaria o revolvimento do conjunto fático- probatório e cláusulas contratuais, o que é inviável, na via eleita, ante o óbice das Súmulas nºs 5 e 7, ambas do STJ.
+3. O simples atraso no pagamento de parcela do prêmio pelo segurado, sem que tenha sido formalmente constituída em mora, não basta para impedir o exercício de seu direito à indenização prevista no contrato de seguro.
+4. Qualquer outra análise acerca da inadimplência das mensalidades de rateio e seus efeitos, da forma como trazida no apelo nobre, seria aqui inviável por força das Súmulas nºs 5 e 7, ambas do STJ.
+5. Esta Corte firmou o entendimento de não ser possível o conhecimento do recurso especial interposto pela divergência jurisprudencial, na hipótese em que o dissídio é apoiado em fatos e não na interpretação da lei. Isso porque a Súmula n. 7 do STJ também se aplica aos recursos especiais interpostos pela alínea c do permissivo constitucional.
+6. Agravo conhecido. Recurso especial não conhecido.
+(AREsp n. 2.380.390/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 28/4/2025, DJEN de 5/5/2025.)
+Por fim, em relação à divergência jurisprudencial, ressalte-se que a incidência da Súmula n. 7 do STJ quanto à interposição pela alínea "a" do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão. Ademais, a parte recorrente apenas citou o dissídio de julgados sem realizar o imprescindível cotejo analítico entre eles.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 18% (dezoito por cento) sobre o valor atualizado da causa.
+Publique-se. Intimem-se.
+ EMENTA
