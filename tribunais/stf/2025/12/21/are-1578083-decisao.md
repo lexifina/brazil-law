@@ -1,0 +1,43 @@
+DECISÃO
+
+Trata-se de Agravo em Recurso Extraordinário interposto em face de acórdão do Tribunal Superior do Trabalho assim ementado (Doc. 151):
+
+“AGRAVO. AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA INTERPOSTO NA VIGÊNCIA DA LEI 13.015/2014. EXECUÇÃO. LITIGÂNCIA DE MÁ - FÉ. A Corte de origem acolheu o pedido da exequente quanto à aplicação de multa por litigância de má - fé à executada, uma vez que a matéria suscitada em embargos à execução e agravo de petição direcionou-se exclusivamente a questões que já foram discutidas na fase de conhecimento, a qual já se prolongou até a última instância possível. Ao recorrer revolvendo matéria transitada em julgado, a parte revela o intuito protelatório da medida adotada, incidindo na conduta prevista no artigo 793-B, VII, da CLT. Devida, portanto, a multa por litigância de má-fé no importe de 1% do valor da causa. Agravo a que se nega provimento.”
+
+No Recurso Extraordinário (Doc. 153), interposto com fundamento no art. 102, III, “a”, da Constituição, a recorrente aponta violação ao art. 5º, II, XXXV e LV da CF/1988.
+Em suas razões, afirma que “a complementação de aposentadoria/pensão decorrente da Lei 4819/58 possui como fonte pagadora a Fazenda Pública do Estado de São Paulo, que também é a gestora do benefício. Logo, em decorrência disso, a CTEEP é parte ilegítima para figurar no polo passivo da lide e a regras do funcionalismo público devem ser aplicadas ao caso em tela nos termos do que determina a legislação infraconstitucional, que não pode ter sua vigência negada, sob pena de violação direta ao princípio da legalidade” (Doc. 153, fls. 6-7).
+Defende, ainda, a aplicação ao caso da ADC 58/STF, caso se entenda pela responsabilidade da recorrente.
+Em exame de admissibilidade, negou-se seguimento ao RE relativamente à matéria referente ao Tema 181/STF - aplicação de juros de mora; e, quanto à alegação de ilegitimidade passiva e responsabilidade do ESTADO DE SÃO PAULO, o inadmitiu com base na Súmula 282/STF (Doc. 177).
+No Agravo, a parte recorrente defende o prequestionamento da matéria. Reitera, ainda, os argumentos de mérito do RE (Doc. 179).
+
+É o relatório. Decido.
+
+Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral que demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+A obrigação do recorrente de apresentar, formal e motivadamente, a repercussão geral que demonstre, sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional, legal e regimental (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do Código de Processo Civil de 2015 e art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal), não se confunde com meras invocações, desacompanhadas de sólidos fundamentos e de demonstração dos requisitos no caso concreto, de que (a) o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico; (b) a matéria não interessa única e simplesmente às partes envolvidas na lide; ou, ainda, de que (c) a jurisprudência do SUPREMO TRIBUNAL FEDERAL é incontroversa no tocante à causa debatida, entre outras alegações de igual patamar argumentativo (ARE 691.595-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/2/2013; ARE 696.347-AgR-segundo, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14/2/2013; ARE 696.263-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; AI 717.821-AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 13/8/2012).
+Eis os fundamentos da parte para sustentar a repercussão geral da matéria (Doc. 153, fl. 6):
+
+“20. Nos termos do art. 102, §3º, da Constituição Federal, para que o Recurso Extraordinário seja conhecido, compete à parte Recorrente “demonstrar a repercussão geral das questões constitucionais discutidas no caso”.
+21. Conforme disposto no art. 896-A da CLT, a transcendência do recurso deverá ser econômica, social, jurídica ou política, tratando-se, nesse sentido, de rol exemplificativo, senão vejamos:
+(...)
+22. Logo, tem-se que a transcendência referida no artigo supracitado não se exaure nas hipóteses dos incisos I a IV do §1º.
+23. Inicialmente, consoante narrado pela Reclamada, há uma transcendência jurídica e social, uma vez que a ausência de reforma do julgado viola o art. 5º, II da Constituição Federal, pois a complementação de aposentadoria/pensão decorrente da Lei 4819/58 possui como fonte pagadora a Fazenda Pública do Estado de São Paulo, que também é a gestora do benefício.
+24. Logo, em decorrência disso, a CTEEP é parte ilegítima para figurar no polo passivo da lide e a regras do funcionalismo público devem ser aplicadas ao caso em tela nos termos do que determina a legislação infraconstitucional, que não pode ter sua vigência negada, sob pena de violação direta ao princípio da legalidade.
+25. Além disso, há transcendência social, haja vista a relevância do tema e a necessidade de processamento do apelo. Assim, se mantido o entendimento do Tribunal Regional do Trabalho, o reflexo desta decisão poderá influenciar em diversos outros processos ainda em trâmite, o que traria enorme insegurança jurídica, além de nítidos reflexos econômicos.
+26. Quanto a transcendência econômica, vale destacar que os cálculos homologados ultrapassam o valor de R$ 500.000,00 (quinhentos mil reais), sendo, portanto, o montante discutido elevado.
+27. Ademais, acerca da relevância da questão, lecionam Luiz Guilherme Marinoni e Daniel Mitidiero:
+(...)
+28. É inequívoco que a controvérsia debatida no presente recurso possui manifesta relevância, sendo um dos princípios fundamentais e que se tornou regra norteadora para todos os atos jurisdicionais.
+29. E para além disso, o debate tratado nos autos ultrapassa os interesses subjetivos da causa, na medida em que envolve aspectos ligados a princípios fundamentais, de forma a autorizar que este C. Supremo Tribunal Federal – em sua função de resguardar a direta vigência das normas insculpidas na Constituição Federal – conheça da hipótese e determine a correta solução constitucional para o caso.
+30. Conclui-se, portanto, que está caracterizada a demonstração da Repercussão Geral do tema versado no Recurso Extraordinário, bem como demonstrada a satisfação do binômio caracterizado pela relevância e transcendência, que dão ensejo a repercussão geral da questão constitucional, autorizando o conhecimento do presente apelo extraordinário.”
+
+Não havendo demonstração fundamentada da presença de repercussão geral, incabível o seguimento do Recurso Extraordinário.
+Além disso, quanto à alegação de afronta à ampla defesa e ao direito de ação, o apelo extraordinário não tem chances de êxito, pois esta CORTE, no julgamento do ARE 748.371-RG/MT (Rel. Min. GILMAR MENDES, Tema 660), rejeitou a repercussão geral da alegada violação ao direito adquirido, ao ato jurídico perfeito, à coisa julgada ou aos princípios da legalidade, do contraditório, da ampla defesa e do devido processo legal, quando se mostrar imprescindível o exame de normas de natureza infraconstitucional.
+No que diz respeito à ilegitimidade passiva e responsabilidade do Estado de São Paulo alegadas no RE, o Juízo de origem não analisou a questão constitucional veiculada, não tendo sido esgotados todos os mecanismos ordinários de discussão, INEXISTINDO, portanto, o NECESSÁRIO PREQUESTIONAMENTO EXPLÍCITO, que pressupõe o debate e a decisão prévios sobre o tema jurígeno constitucional versado no recurso. Incidência das Súmulas 282 (É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada)e 356 (O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento), ambas desta CORTE SUPREMA.
+Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO RECURSO EXTRAORDINÁRIO COM AGRAVO.
+Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que não houve fixação de honorários advocatícios nas instâncias de origem.
+Publique-se.
+Brasília, 21 de dezembro de 2025.
+
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
