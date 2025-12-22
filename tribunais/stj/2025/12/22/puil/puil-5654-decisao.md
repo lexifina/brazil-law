@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de pedido de uniformização de interpretação de lei federal formulado por Felipe Burgdurff de Albuquerque, com fundamento no art. 18, § 3º, da Lei n. 12.153/2009, contra acórdão da Turma Recursal Provisória da Fazenda Pública do Estado do Rio Grande do Sul, que negou provimento ao recurso inominado n. 5190245-15.2023.8.21.0001/RS, de modo a confirmar a improcedência do pedido de nulidade do AIT lavrado em decorrência de ter o autor, ora requerente, dirigido veículo automotor sobre a influência de álcool.
+Sustenta o requerente que o acórdão recorrido deu aos arts. 280, 281 e 282 do CTB interpretação divergente daquela a eles atribuída por este Superior Tribunal, quando do julgamento do PUIL n. 327/SP.
+A tanto, afirma que o referido julgado "deixou mais do que clara a necessidade de que a expedição se dê por carta simples, utilizando a Empresa de Correios e Telégrafos e que ocorra a comprovação nos autos" (fl. 625), o que não teria ocorrido na espécie, uma vez que "O DETRAN/RS  ..  anuncia nos autos da presente demanda a existência de convênio com os Correios, mas não acosta aos autos da presente demanda um único documento que comprove o encaminhamento da notificação àquele e tampouco indica código para que possibilite o rasteio da informação" (fls. 625/626).
+Requer, assim, o provimento do pedido de uniformização.
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Como cediço, " o  pedido de uniformização de interpretação de lei federal, nos termos do art. 18, § 3º, da Lei n. 12.153/2009, exige a demonstração clara e precisa do dispositivo de lei federal supostamente violado, bem como a indicação de divergência interpretativa entre Turmas Recursais de diferentes Estados ou contrariedade a súmula do Superior Tribunal de Justiça. A ausência de tais requisitos atrai, por analogia, a incidência da Súmula n. 284 do STF, que dispõe: " é  inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"" (PUIL n. 5.279/RO, relator Ministro Teodoro Silva Santos, Primeira Seção, DJEN de 22/10/2025, grifo nosso).
+In casu, a parte requerente apontou como paradigma acórdão prolatado em sede de pedido de uniformização de jurisprudência de lei federal, julgado por este Superior Tribunal, hipótese não prevista no art. 18, § 3º, da Lei n. 12.153/2009.
+Logo, incide na espécie a Súmula 284/STF.
+ANTE O EXPOSTO, não conheço do pedido de uniformização.
+Publique-se.
+EMENTA
