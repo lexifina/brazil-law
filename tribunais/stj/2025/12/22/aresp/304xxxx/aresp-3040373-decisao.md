@@ -1,0 +1,16 @@
+DECISÃO
+Estes autos foram a mim redistribuídos por prevenção do HC n. 977.561/SP (fl. 270).
+Trata-se de agravo em recurso especial interposto por ERICH GOMES DO SACRAMENTO contra a decisão do Tribunal de Justiça de São Paulo que inadmitiu recurso especial apresentado contra o acórdão exarado no julgamento da Apelação Criminal n. 1529116-84.2024.8.26.0050, que manteve a sua condenação como incurso no art. 311, § 2º, III, do Código Penal (fls. 186/196).
+O Ministério Público Federal apresenta parecer opinando pelo conhecimento do agravo para inadmitir ou desprover o recurso especial (fls. 277/283).
+É o relatório.
+O agravo é inadmissível.
+Inicialmente, esclareço que a decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos, inclusive de forma específica, suficiente e pormenorizada, não sendo suficientes meras alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência do óbice da Súmula 182/STJ (AgRg nos EDcl no AREsp n. 2.985.942/MA, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 16/9/2025, DJEN de 25/9/2025).
+No caso em apreço, o Tribunal de origem inadmitiu o apelo nobre mediante os seguintes fundamentos: 1) inadequação da alegação de matéria constitucional em sede de recurso especial; 2) deficiência de fundamentação, por ausência de impugnação a todos os fundamentos autônomos do acórdão, com incidência da Súmula 283/STF; e 3) necessidade de reexame de provas, com incidência da Súmula 7/STJ (fls. 232/234).
+Todavia, a parte agravante, nas razões do agravo em recurso especial, não impugnou, de maneira específica, a íntegra da decisão de inadmissão.
+Apenas sustenta, genericamente, que o recurso especial foi corretamente fundamentado, atendendo aos requisitos estabelecidos pelo artigo 1.029 do CPC. As alegações de deficiência na fundamentação não encontram respaldo na realidade dos autos, uma vez que todos os pontos essenciais foram adequadamente abordados, de modo que o Tribunal Superior possa analisar o mérito da questão (fl. 247), e que o recurso não buscou reanalisar provas, mas corrigir erros na aplicação da lei (fl. 248).
+Por conseguinte, aplica-se, à hipótese dos autos, o art. 932, inciso III, do Código de Processo Civil, c/c o art. 3º do Código de Processo Penal, e a Súmula 182/STJ por analogia. Nessa linha: AgRg no AREsp n. 2.826.542/SP, relatora Ministra Maria Marluce Caldas, Quinta Turma, julgado em 9/12/2025, DJEN de 17/12/2025; AgRg no AREsp n. 3.035.703/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 9/12/2025, DJEN de 16/12/2025; AgRg no AREsp n. 2.897.680/SC, relator Ministro Carlos Pires Brandão, Sexta Turma, julgado em 18/11/2025, DJEN de 12/12/2025; e AgRg no AREsp n. 2.606.290/SP, de minha relatoria, Sexta Turma, julgado em 3/12/2025, DJEN de 9/12/2025.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR. DECISÃO DE INADMISSÃO. INCINDIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA E INTEGRAL DOS FUNDAMENTOS. PRINCÍPIO DA DIALETICIDADE. SÚMULA 182/STJ.
+Agravo em recurso especial não conhecido.
