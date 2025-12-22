@@ -1,0 +1,103 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de RODRIGO CALIXTO PEREIRA apontando como coator o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO (Agravo em Execução n. 5012959-91.2025.8.19.0500, relator o Desembargador Cláudio Tavares de Oliveira Junior).
+Depreende-se dos autos que, em face do descumprimento das condições estabelecidas para o cumprimento do regime aberto na modalidade prisão albergue domiciliar, o Juízo singular determinou a regressão do paciente ao regime fechado (e-STJ fls. 24/26).
+A Corte de origem manteve a decisão impugnada em acórdão cuja ementa se reproduz a seguir (e-STJ fls. 15/16):
+DIREITO PROCESSUAL PENAL. AGRAVO EM EXECUÇÃO. DECISÃO QUE DETERMINOU A REGRESSÃO CAUTELAR DE REGIME. FALTA GRAVE. ALEGAÇÃO DE SI- TUAÇÃO DE VULNERABILIDADE SOCIAL. DESPROVIMENTO.
+I. CASO EM EXAME
+1. Agravo em Execução interposto contra a decisão que determinou a regressão cautelar de regime, em razão do descumprimento injustificado das condições impostas ao reeducando, para o cumprimento da pena no regime aberto.
+II. QUESTÃO EM DISCUSSÃO
+2. Discute-se se a situação de vulnerabilidade social do reeducando justifica o descumprimento das condições impostas para o cumprimento da pena no regime aberto.
+III. RAZÕES DE DECIDIR
+3. Não obstante as razões expendidas pela Defesa, não restou configurada nenhuma ilegalidade na de- cisão contra a qual se insurge o agravante, na medida em que o Magistrado de primeiro grau analisou, de forma fundamentada, as razões de fato e de direito que o convenceram a decretar a regressão cautelar do regime prisional.
+4. O fato de estar em situação de vulnerabilidade social, por si só, não exime o apenado de cumprir regularmente a pena que lhe foi imposta. A progressão para regime mais brando é um benefício previsto na legislação pátria, sendo certo que o réu tomou ciência pessoalmente acerca dos termos da monitoração eletrônica, inclusive no que se refere à necessidade de manutenção da bateria do equipa- mento carregada.
+5. Por outro lado, não se olvida o que dispõe o artigo 25 da Resolução CNJ 425/2021, que aponta para a priorização de medidas alternativas à monitoração eletrônica para pessoas em situação de rua. Contudo, deve-se avaliar a individualidade de cada caso, valendo destacar que o próprio dispositivo possibilita a fixação dessa medida, desde que sejam tomadas determinadas medidas para permitir o carregamento da bateria.
+6. No caso concreto, a manutenção do monitoramento eletrônico é medida proporcional e adequada para assegurar o efetivo cumprimento da pena e resguardar a sociedade, ainda que se trate de pessoa em situação de vulnerabilidade social, em razão do histórico de crimes do apenado, que cumpre pena pela prática de diversos delitos patrimoniais, alguns deles praticados com violência ou grave ame- aça. Precedentes do STJ e dessa Colenda Câmara Criminal.
+IV. DISPOSITIVO E TESE
+7. Recurso a que se nega provimento.
+Tese de julgamento: A condição de vulnerabilidade social do reeducando, por si só, não o exime de cumprir as obrigações estabelecidas para usufruir do regime aberto, mormente no caso em que o apenado possui histórico de crimes cometi- dos com violência e grave ameaça.
+Irresignada, a defesa sustenta que "o Paciente, atualmente em situação de extrema vulnerabilidade social, sem acesso a moradia, energia elétrica ou rede de apoio, enfrenta gravíssima dificuldade material para manter a tornozeleira carregada  exatamente o cenário protegido pela Resolução CNJ nº 425/2021, especialmente em seus arts. 23 a 26, que impõem prioridade absoluta à adoção de medidas alternativas para pessoas em situação de rua" (e-STJ fl. 5).
+Ressalta que "o Paciente já cumpriu mais de 98% (noventa e oito por cento) da pena, restando aproximadamente dois meses para a data estimada de término, o que reforça a necessidade de manutenção em regime menos gravoso, compatível com a fase final de ressocialização" (e-STJ fl. 5).
+Diante disso, requer (e-STJ fls. 13/14):
+b) A concessão de medida liminar, inaudita altera parte, para suspender imediatamente os efeitos da regressão cautelar, determinando-se o restabelecimento do regime aberto, na modalidade prisão albergue domiciliar (PAD), ou, subsidiariamente, a substituição da monitoração eletrônica por medida alternativa compatível com a condição de pessoa em situação de rua do Paciente;
+c) No mérito, a concessão definitiva da ordem, a fim de:
+anular a regressão cautelar imposta, por afronta aos princípios da proporcionalidade, razoabilidade e individualização da pena;
+restabelecer definitivamente o regime aberto/PAD, afastando-se a monitoração eletrônica nos termos do art. 25 da Resolução CNJ nº 425/2021;
+d) Subsidiariamente, caso não se entenda pelo imediato restabelecimento do regime mais brando, que seja determinada nova análise pelo Juízo da Vara de Execuções Penais, com:
+observância obrigatória dos arts. 23 a 26 da Resolução CNJ nº 425/2021;
+análise concreta da condição de pessoa em situação de rua;
+ponderação expressa do percentual superior a 98% da pena já cumprida;
+aplicação do Pacto de San José da Costa Rica, mediante controle de convencionalidade;
+e) Que seja reconhecida, de forma expressa, a violação aos arts. 7º, 8º e 26 da Convenção Americana sobre Direitos Humanos (Pacto de San José da Costa Rica - Decreto nº 678/1992), determinando-se interpretação conforme dos arts. 118 e 146-C da Lei de Execução Penal, de modo a afastar a regressão cautelar quando ela decorrer exclusivamente de vulnerabilidade social ou impossibilidade material imputável ao Estado;
+É relatório.
+Decido.
+No caso, consoante apontado pelo Juízo singular (e-STJ fls. 24/25):
+A prisão albergue domiciliar, enquanto forma excepcional de cumprimento de pena no regime aberto, pressupõe elevado grau de autodisciplina, responsabilidade e comprometimento do apenado com as condições estabelecidas pelo juízo da execução penal.
+Por sua vez, o deferimento da medida representa concessão baseada na confiança de que o sentenciado observará as obrigações impostas, demonstrando conduta compatível com a menor rigidez do regime.
+Nesse sentido, eventual descumprimento das medidas compromete a efetividade da execução penal e fragiliza a autoridade do sistema de justiça criminal, tornando imprescindível que tais transgressões sejam enfrentadas com a devida seriedade e com resposta proporcional à gravidade da conduta.
+No caso em exame, verifica-se que o histórico acostado à seq. 654.3 evidencia violações ao monitoramento eletrônico a partir do dia 21/02/2025, circunstância que denota o desinteresse do apenado no cumprimento da pena.
+No momento da colocação da tornozeleira eletrônica, o apenado é devidamente instruído, por meio de palestra explicativa, acerca de todas as condições impostas para o cumprimento da PAD, sendo-lhe ressaltada a importância da fiel observância de cada uma delas. Na ocasião, também recebe orientações detalhadas quanto ao funcionamento do dispositivo, inclusive sobre a obrigatoriedade de manter contato imediato com a central de monitoramento em caso de falha técnica, sendo seu dever apresentar-se prontamente para eventual manutenção ou substituição do equipamento
+Sendo assim, não se pode perder de vista que a conduta configura falta disciplinar de natureza grave, nos termos do art. 50, inciso V, da Lei nº 7.210/1984.
+Outrossim, nos termos do art. 146-C, parágrafo único, incisos I e VI, da Lei de Execução Penal, o descumprimento injustificado das condições do monitoramento eletrônico autoriza tanto a regressão de regime quanto a revogação da prisão albergue domiciliar.
+Sobre o tema, o art. 118, inciso I, da Lei de Execução Penal dispõe que a execução da pena privativa de liberdade deve observar o princípio da progressividade, admitindo-se, entretanto, a regressão do regime prisional sempre que o condenado praticar fato que constitua falta grave.
+Acrescenta-se, neste ponto, que embora a oitiva do apenado seja imprescindível para a regressão definitiva de regime, em observância aos princípios do contraditório e da ampla defesa, tal exigência não se aplica à regressão cautelar. Esta poderá ser decretada quando comprovada a ocorrência de fato tipificado como crime ou falta grave, com fundamento no poder geral de cautela, sendo cabível, inclusive de ofício, nas hipóteses de maior gravidade.
+Esse é o entendimento consolidado na jurisprudência do Tribunal de Justiça do ERJ. Confira-se:
+ ..
+Por sua vez, a Corte de origem apontou (e-STJ fls. 18/22):
+No caso em análise, o apenado foi condenado definitivamente à pena total de 14 (quatorze) anos, 2 (dois) meses e 3 (três) dias de reclusão, pela prática de crimes de roubo, furto simples, furto qualificado e falsa identidade. O réu já purgou 80% da sanção imposta e, desde fevereiro de 2025, cumpria pena em regime aberto, na modalidade prisão albergue domiciliar, com monitoramento eletrônico.
+O réu compareceu ao patronato em 11/02/2025, porém, entre os meses de fevereiro e abril de 2025, houve descumpri- mento das condições impostas ao apenado, com registro de nove violações no monitoramento eletrônico por desligamento (fim de bateria), o que configura falta grave, nos termos do disposto nos artigos 50, V e 118, I, da Lei de Execuções Penais.
+O apenado foi intimado para justificar o descumprimento, mas não foi localizado no endereço declinado nos autos executórios, havendo informação de que se encontra em situação de rua, após se recusar a fazer tratamento em uma clínica de reabilitação (certidão acostada aos autos executórios - item 675.1).
+Desse modo, em 06/08/2025, o MM. Juízo da Execução não acolheu a justificativa apresentada pela Defensoria Pública e determinou a regressão do reeducando para o regime semiaberto, em razão de violações no monitoramento eletrônico, conforme decisão a seguir transcrita:
+ ..
+Diante dessa realidade, não se verifica qualquer ilegalidade ou irregularidade na decisão atacada, que deve ser mantida. Ressalte-se que o fato de estar em situação de vulnerabilidade social, por si só, não exime o apenado de cumprir regularmente a pena que lhe foi imposta. A progressão para regime mais brando é um benefício previsto na legislação pátria, sendo certo que o réu tomou ciência pessoalmente acerca dos termos da monitoração eletrônica, inclusive no que se refere à necessidade de manutenção da bateria do equipamento carregada.
+Por outro lado, não se olvida o que dispõe o artigo 25 da Resolução CNJ 425/2021, que aponta para a priorização de medidas alternativas à monitoração eletrônica para pessoas em situação de rua. Contudo, deve-se avaliar a individualidade de cada caso, valendo destacar que o próprio dispositivo possibilita a fixação dessa medida, desde que sejam tomadas determinadas medidas para permitir o carregamento da bateria:
+Res. CNJ 425/2021. Art. 25. Será priorizada a adoção de medidas distintas da monitoração eletrônica para pessoas em situação de rua. Parágrafo único. No caso de fixação de monitoração eletrônica, o juízo deverá, em conjunto com a rede de proteção social, indicar local de fácil acesso à energia elétrica, para carregamento da bateria do dispositivo eletrônico, inclusive no período noturno, assegurando que o ônus da não garantia do direito à moradia não recaia sobre o sujeito ou família em situação de rua
+Outrossim, no caso concreto, a manutenção do monitoramento eletrônico é medida proporcional e adequada para assegurar o efetivo cumprimento da pena e resguardar a sociedade, ainda que se trate de pessoa em situação de vulnerabilidade social, em razão do histórico de crimes do apenado, que cumpre pena pela prática de diversos delitos patrimoniais, alguns deles praticados com violência ou grave ameaça.
+Esse, inclusive, é o entendimento da Sexta Turma do Superior Tribunal de Justiça: " A manutenção do monitoramento eletrônico para condenado em regime semiaberto não é desarrazoada ou desproporcional, especialmente quando o apenado possui histórico de crimes cometidos com violência e grave ameaça durante períodos em que cumpria pena nesse regime. A situação de rua, embora demande atenção especial, não afasta a necessidade da tornozeleira, que é essencial para localização e fiscalização do cumprimento da pena " (STJ. 6ª Turma. AgRg no HC 960.729-PR, Rel. Min. Og Fernandes, julgado em 3/6/2025 - Info 27 - Edição Extraordinária) (grifei).
+Os fundamentos consignados pela Corte estadual, para caracterizar a conduta como falta grave, não se mostram desarrazoados ou ilegais.
+Com efeito, o Superior Tribunal de Justiça já se manifestou no sentido de que, "nos termos do art. 146-C, I, da LEP, o apenado submetido a monitoramento eletrônico tem que observar as condições e limites estabelecidos para deslocamento. Ao violar a zona de monitoramento, o apenado desrespeitou ordem recebida, o que configura a falta grave tipificada no art. 50, VI, c/c o art. 39, V, ambos da LEP" (HC 438.756/RS, rel. Ministro FELIX FISCHER, QUINTA TURMA, j. 5/6/2018, DJe 11/6/2018)" (AgRg no HC n. 618.454/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 27/10/2020, REP DJe 12/11/2020, DJe 3/11/2020, grifei).
+No mesmo sentido:
+ ..
+1. A jurisprudência deste Superior Tribunal de Justiça encontra-se alinhada "no sentido de que o submetido a monitoramento eletrônico deve observar as condições e limites estabelecidos para o seu deslocamento, sob pena de cometer falta grave". (HC 527.452/SP, Rel. Ministro LEOPOLDO DE ARRUDA RAPOSO (Desembargador Convocado do TJ/PE), Quinta Turma, julgado em 12/11/2019, DJe 20/11/2019)  ..  (AgRg no RHC 129.736/RS, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 09/12/2020, DJe 14/12/2020, grifei).
+HABEAS CORPUS. EXECUÇÃO PENAL. REGIME ABERTO. FALTA GRAVE. INSTAURAÇÃO DE PROCESSO ADMINISTRATIVO DISCIPLINAR. MONITORAMENTO ELETRÔNICO. VIOLAÇÃO DE PERÍMETRO. ART. 50, V, DA LEI DE EXECUÇÃO PENAL. INCIDÊNCIA. POSSIBILIDADE. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+1. O Superior Tribunal de Justiça possui o entendimento de ser taxativo o rol de faltas graves previsto no art. 50 da Lei de Execução Penal, não sendo cabível a realização de interpretação extensiva ou complementar a fim de ampliar o alcance das condutas ali previstas. Precedentes.
+2. In casu, o paciente, durante o cumprimento de pena em regime aberto mediante o uso de tornozeleira eletrônica, violou o perímetro estabelecido como condição do benefício pelo Juízo da execução.
+3. Como houve, ao menos em tese, desrespeito às condições impostas no regime aberto, fato previsto como passível de configurar falta grave, nos termos do art. 50, V, da Lei de Execução Penal, não há falar em constrangimento ilegal decorrente da instauração de processo administrativo disciplinar com a finalidade de apurar a ocorrência desse tipo de infração.
+4. Ordem denegada, revogando-se a medida liminar anteriormente deferida. (HC 481.699/RS, relator Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 12/3/2019, DJe 19/3/2019, grifei.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. FALTA DISCIPLINAR DE NATUREZA GRAVE. CONFIGURAÇÃO. REGRESSÃO DE REGIME, PERDA DOS DIAS REMIDOS E ALTERAÇÃO DA DATA-BASE. CONSECTÁRIOS LEGAIS. CABIMENTO. FRAÇÃO APLICADA. FUNDAMENTAÇÃO IDÔNEA. AUSÊNCIA DE ILEGALIDADE. AGRAVO DESPROVIDO.
+1. De acordo com o entendimento desta Corte, a violação da zona de monitoramento pode configurar falta grave, nos termos dos arts. 50, inciso VI, e 39, inciso V, ambos da Lei de Execução Penal, o que autoriza a regressão de regime e a alteração da data-base para progressão.  ..
+3. Agravo regimental desprovido. (AgRg no HC 509.270/SP, relator Ministra LAURITA VAZ, SEXTA TURMA, julgado em 17/11/2020, DJe 27/11/2020, grifei.)
+Além disso, uma vez configurada a falta disciplinar de natureza grave, está devidamente fundamentada a regressão de regime como um dos consectários legais da transgressão.
+A propósito:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. REGRESSÃO DE REGIME. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu do habeas corpus.
+2. O juízo de primeiro grau reconheceu a falta disciplinar de natureza grave, devido à fuga do apenado durante o cumprimento de pena em regime semiaberto, com recaptura posterior, e determinou a regressão do regime prisional.
+3. O Tribunal a quo negou provimento ao agravo de execução, mantendo a decisão de primeiro grau, ao considerar que a conduta do apenado configurou falta grave, conforme o artigo 50, II, da Lei de Execuções Penais.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a decisão que reconheceu a falta grave e determinou a regressão de regime prisional deve ser reformada, considerando a alegação de desproporcionalidade na aplicação da penalidade.
+5. Outra questão em discussão é a possibilidade de desclassificação da falta grave para uma de natureza média ou leve, o que demandaria reexame de matéria fático-probatória.
+III. Razões de decidir
+6. A decisão agravada foi mantida por seus próprios fundamentos, uma vez que a defesa não apresentou impugnação específica aos fundamentos da decisão monocrática, conforme exigido pelo princípio da dialeticidade recursal.
+7. A prática de falta grave, no curso da execução penal, autoriza a regressão do regime prisional e a alteração da data-base para concessão de novos benefícios executórios, conforme jurisprudência do Superior Tribunal de Justiça.
+8. A desclassificação da falta grave para uma de natureza média ou leve demandaria reexame de matéria fático-probatória, o que é inviável na via estreita do habeas corpus.
+IV. Dispositivo e tese
+9. Agravo regimental não provido. (AgRg no HC n. 965.323/RS, relator Ministro Otávio de Almeida Toledo, Desembargador Convocado do TJSP, Sexta Turma, julgado em 11/6/2025, DJEN de 26/6/2025, grifei.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS SUBSTITUTIVO. FALTA GRAVE. REGRESSÃO DE REGIME. AGRAVO REGIMENTAL DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que indeferiu liminarmente habeas corpus, em razão de falta grave consistente na violação de área de circulação durante saída temporária, determinando a regressão ao regime fechado e a perda de 1/3 dos dias remidos.
+2. A parte recorrente alega que a conduta do apenado não configura falta grave, pois não está prevista no rol taxativo do art. 50 da Lei de Execução Penal (LEP), e que o conjunto probatório é frágil, não havendo violação dos deveres impostos.
+3. Requer o conhecimento e provimento do recurso para concessão da ordem com absolvição do agravante ou aplicação de sanção diversa da regressão prisional.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a conduta do apenado, ao violar a área de circulação durante saída temporária, configura falta grave que justifique a regressão de regime e a perda de dias remidos.
+III. Razões de decidir
+5. O habeas corpus não é conhecido quando impetrado em substituição a recurso próprio, salvo em caso de flagrante ilegalidade, conforme jurisprudência pacífica do STJ e do STF.
+6. As instâncias ordinárias, após regular processo administrativo disciplinar, com garantias do contraditório e da ampla defesa, impuseram a infração disciplinar de natureza grave ao agravante, não havendo ilegalidade a ser sanada.
+7. A análise da configuração da falta grave demanda incursão no acervo fático-probatório, o que é inviável na via estreita do habeas corpus.
+8. A regressão ao regime fechado é proporcional e justificada pela prática de falta disciplinar de natureza grave, conforme disposto nos artigos 118 e 146-C da Lei de Execução Penal.
+IV. Dispositivo e tese
+9. Agravo regimental desprovido. (AgRg no HC n. 980.380/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 14/4/2025, DJEN de 28/4/2025, grifei.)
+Por fim, destaque-se que " a  jurisprudência do STJ estabelece que, embora o descarregamento da tornozeleira eletrônica possa caracterizar falta grave, cabe ao juízo da execução avaliar, caso a caso, se a situação foi causada por intenção deliberada do apenado" (AREsp n. 2.287.685/RN, relatora Ministra Daniela Teixeira, Quinta Turma, DJ EN de 26/12/2024).
+Sob tal enfoque, é imperioso salientar que, a despeito da mencionada situação de rua em que se encontra o apenado, não se verificou qualquer esforço do reeducando em se apresentar à Justiça, a fim de justificar a impossibilidade de cumprimento das condições impostas, em razão de eventual vulnerabilidade.
+À vista do exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
