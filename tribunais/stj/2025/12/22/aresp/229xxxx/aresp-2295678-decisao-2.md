@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por UNIESP S.A. e outras contra a decisão que inadmitiu o recurso especial por ausência de demonstração de ofensa aos arts. 422, 476 e 884 do Código Civil, por vedação ao reexame do conjunto fático-probatório (Súmula n. 7 do STJ) e por improcedência do pedido de aplicação de multa por litigância de má-fé formulado nas contrarrazões.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Contraminuta às fls. 2.869-2.888.
+O recurso especial foi interposto, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo em apelação cível nos autos de ação de obrigação de fazer cumulada com indenizatória.
+O julgado foi assim ementado (fls. 1.954-1.955):
+APELAÇÃO CÍVEL Nº 1046405-56.2019.8.26.0602 APELANTES: UNIÃO DAS INSTITUIÇÕES EDUCACIONAIS DO ESTADO DE SÃO PAULO (UNIESP) E OUTRAS E MARCELA BIANCA PIRES DOS SANTOS (JUSTIÇA GRATUITA) APELADAS: AS MESMAS INTERDO: BANCO DO BRASIL S/A COMARCA: SOROCABA JUIZ DE 1º GRAU: MÁRCIO FERRAZ NUNES VOTO Nº 14.346
+AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZATÓRIA - CONTRATO DE SERVIÇOS EDUCACIONAIS - PROGRAMA "UNIESP PAGA" - INSTITUIÇÃO FINANCEIRA - POLO PASSIVO - LEGITIMIDADE - SOLIDARIEDADE - INTELIGÊNCIA DO ART. 7, PARÁGRAFO ÚNICO, DA LEI 8.078/90 - CONTRATOS - COLIGAÇÃO - DÍVIDA - ASSUNÇÃO PELA FORNECEDORA DO SERVIÇO - BANCO RÉU - COBRANÇA - ABSTENÇÃO EM RELAÇÃO À AUTORA - REDIRECIONAMENTO À CORRÉ.
+FINANCIAMENTO ESTUDANTIL - CONDIÇÕES INSERIDAS EM CONTRATO DE GARANTIA DE PAGAMENTO DAS PRESTAÇÕES DO FIES - PROGRAMA "UNIESP PAGA" - ART. 47 DA LEI Nº 8.078/90 - INTERPRETAÇÃO MAIS FAVORÁVEL À CONSUMIDORA - CLÁUSULA 3.2 (EXCELÊNCIA ACADÊMICA) - ABUSIVIDADE - ART. 51, IV, DO CDC - CRITÉRIO SUBJETIVO - AUSÊNCIA DE INFORMAÇÃO - DESCUMPRIMENTO DO ART. 6º, IV, DO CDC - CLÁUSULA 3.3 (RELATÓRIOS E COMPROVANTES DAS ATIVIDADES DE RESPONSABILIDADE CIVIL) - RÉ - NÃO DEMONSTRAÇÃO - VEDAÇÃO A COMPORTAMENTO CONTRADITÓRIO - "VENIRE CONTRA FACTUM PROPRIUM" - DEVER DA BOA-FÉ OBJETIVA - ART. 422 DO CÓDIGO CIVIL - CLÁUSULA 3.4 (NOTA MÍNIMA NO ENADE) - CUMPRIMENTO - CLÁUSULA 3.5 (PAGAMENTO DOS JUROS TRIMESTRAIS) - RÉ - AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA - PRESUNÇÃO DE VERACIDADE - ART. 341 DO CPC - NÃO DESINCUMBÊNCIA DO ÔNUS PROBATÓRIO - ART. 373, II, DO CPC - CLÁUSULA 3.6 (DEVER DE MANUTENÇÃO DA MATRICULADA ATÉ O FINAL DO CURSO) - AUTORA - COLAÇÃO DE GRAU NA INSTITUIÇÃO - RESPONSABILIDADE OBJETIVA - ART. 14 DO CDC - PUBLICIDADE - VEICULAÇÃO PELA FORNECEDORA - INTEGRAÇÃO AO CONTRATO - ART. 30 DO CDC - RÉ - DEVER
+DE ARCAR INTEGRALMENTE COM O FINANCIAMENTO PERANTE A INSTITUIÇÃO FINANCEIRA.
+AUTORA - NOME - INSCRIÇÃO NOS ÓRGÃOS CADASTRAIS - DANO MORAL - CONFIGURAÇÃO - INDENIZAÇÃO - VALOR - FIXAÇÃO - RESPEITO AOS PRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE - ART. 8º DO CPC.
+APELO DAS RÉS NÃO PROVIDO E DA AUTORA PROVIDO.
+Não foram opostos embargos de declaração.
+No recurso especial, a parte aponta violação dos seguintes artigos:
+a) 476 do Código Civil, porque o acórdão teria condenado a recorrente ao pagamento do FIES sem o cumprimento, pela autora, de contrapartidas contratuais como excelência acadêmica, prestação de serviço comunitário semanal com relatórios, pagamento de amortização trimestral, nota mínima e permanência até o final do curso;
+b) 884 do Código Civil, já que a manutenção da condenação à restituição de valores dos semestres cursados e usufruídos promoveria estudo gratuito e enriquecimento ilícito da recorrida em detrimento da recorrente;
+c) 422 do Código Civil, porquanto o acórdão teria desconsiderado a boa-fé objetiva e a cláusula que prevê rescisão por descumprimento das obrigações assumidas no "UNIESP PAGA";.
+Requer o provimento do recurso para julgar improcedente a demanda, reconhecendo a rescisão contratual por ofensa ao art. 476 do Código Civil; requer ainda o provimento para julgar improcedente a demanda ante a violação do art. 884 do Código Civil.
+Nas contrarrazões, a parte recorrida aduz que não há violação aos arts. 476 e 884 do Código Civil, por se tratar de relação de consumo; sustenta ausência de prequestionamento e requer condenação por litigância de má-fé com multa de 10% do valor da causa (fl. 2.438).
+É o relatório. Decido.
+A controvérsia diz respeito à ação de obrigação de fazer cumulada com indenizatória em que a parte autora pleiteou a assunção, pela instituição de ensino, do pagamento do financiamento estudantil (FIES) prometido no programa "UNIESP PAGA", a abstenção de cobrança pelo banco, a exclusão de seu nome de cadastros de inadimplentes e a indenização por dano moral.
+Na sentença, o Juízo de primeiro grau julgou parcialmente procedente para condenar as rés ao pagamento de danos morais e ao ressarcimento de tudo o que a autora viesse a pagar em vista do FIES; improcedentes os pedidos contra o Banco do Brasil; fixou honorários para cada polo, com suspensão em favor da autora.
+A Corte de origem negou provimento ao apelo das rés e deu provimento ao da autora, reconhecendo a legitimidade do Banco do Brasil, condenando solidariamente as rés ao pagamento do financiamento estudantil perante a instituição bancária, mantendo os danos morais, fixando honorários em 15% sobre o valor da condenação e deferindo tutela de urgência para exclusão do nome da autora dos cadastros e abstenção de cobrança, com multa diária.
+I - Art. 476 do CC
+No recurso especial, a parte recorrente alega que a condenação violou o dispositivo porque a autora não teria cumprido as contrapartidas previstas no "UNIESP PAGA" (excelência acadêmica, relatórios de serviço comunitário, nota mínima no ENADE, pagamento de juros trimestrais e permanência no curso).
+O acórdão recorrido concluiu que as cláusulas invocadas são abusivas e não demonstradas, que houve colação de grau, e que a ré não se desincumbiu do ônus de prova, devendo arcar com o financiamento, interpretando as cláusulas de forma favorável à consumidora, à luz do CDC.
+Com efeito, no Tribunal de origem, a controvérsia foi decidida com análise de documentos, histórico de cumprimento das condições e elementos probatórios do caso. Destacou o acórdão: "As cláusulas contratuais serão interpretadas de maneira mais favorável ao consumidor" (fl. 1.960) e que "a ré não se desincumbiu do ônus probatório quanto ao fato desconstitutivo do direito da autora" (fl. 1961).
+A revisão de tal entendimento demandaria o reexame de provas, o que é incabível em recurso especial ante o óbice da Súmula n. 7 do STJ.
+II - Art. 884 do CC
+A recorrente afirma que a decisão afrontou o dispositivo porque a manutenção da condenação importaria enriquecimento sem causa, já que os semestres foram cursados e usufruídos.
+O acórdão recorrido reconheceu a publicidade vinculante, a responsabilidade objetiva da fornecedora, a coligação contratual e a obrigação de arcar integralmente com o financiamento perante a instituição financeira, afastando a tese de enriquecimento ilícito.
+A Corte destacou que a oferta integra o contrato (art. 30 do CDC) e que a autora cumpriu os requisitos, inclusive com colação de grau, não havendo demonstração de descumprimento.
+A pretensão, tal como posta, exigiria reavaliação do acervo fático-probatório sobre o cumprimento das condições do programa e a assunção da dívida. Incide a Súmula n. 7 do STJ.
+III - Art. 422 do CC
+A parte recorrente alega que o acórdão desrespeitou a boa-fé objetiva ao não aplicar a cláusula contratual de rescisão por descumprimento das obrigações.
+O acórdão recorrido assentou a incidência da boa-fé objetiva e vedou o comportamento contraditório da ré, aplicando a máxima venire contra factum proprium, ao afirmar que a instituição não comprovou o descumprimento e, mesmo assim, dip lomou a autora. Reconheceu, ainda, a abusividade de cláusulas subjetivas e a falta de informação adequada.
+A revisão dessa conclusão, fundada na análise concreta de cláusulas, documentos e condutas, também esbarra no óbice da Súmula n. 7 do STJ.
+IV - Conclusão
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
