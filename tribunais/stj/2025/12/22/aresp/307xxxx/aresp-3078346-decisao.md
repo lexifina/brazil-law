@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial interposto contra decisão que inadmitiu o recurso especial.
+Segundo a parte agravante, o recurso preenche os requisitos necessários ao conhecimento e provimento.
+Intimada nos termos do art. 1.042, § 3º, do Código de Processo Civil, a parte agravada afirmou a inexistência de requisitos ou elementos aptos a promover a alteração do julgado impugnado
+É o relatório.
+DECIDO.
+O agravo é tempestivo, nos termos do art. 1.003, § 5º, do Código de Processo Civil.
+A análise dos argumentos recursais não indica, contudo, a existência de fundamentos que sustentem a reforma da decisão recorrida, cujos fundamentos transcrevo para que passem a fazer parte da presente decisão:
+A matéria versada no recurso especial envolve tutela provisória de urgência, concedida pelo Juízo a quo, relativa ao pagamento de alugueres e dever de guarda dos imóveis sob litígio, além de outros encargos próprios do imóvel, imputada à seguradora.
+1) Da ausência de cabimento de recursos excepcionais contra decisão de tutela provisória (enunciado nº 735 da súmula do STF).
+Em se tratando de recurso especial interposto contra acórdão em agravo interno contra decisão monocrática que negou agravo de instrumento que versa sobre tutela provisória, como ocorre no presente caso, o Superior Tribunal de Justiça vem decidindo que o recurso especial não é compatível com a impugnação de juízo provisório sobre questão controvertida. Neste sentido:
+"EMENTA: AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM. DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DO AGRAVANTE. (..) 3. Conforme a orientação jurisprudencial adotada por este Superior Tribunal de Justiça, é incabível, em regra, o recurso especial em que se postula o reexame do deferimento ou indeferimento de medida acautelatória ou antecipatória, ante a natureza precária e provisória do juízo de mérito desenvolvido em liminar ou tutela antecipada, cuja reversão, a qualquer tempo, é possível no âmbito da jurisdição ordinária, o que configura ausência do pressuposto constitucional relativo ao esgotamento de instância, imprescindível ao trânsito da insurgência extraordinária. Incidência da Súmula 735 do STF. 3.1. Ademais, a análise do preenchimento dos requisitos autorizadores da antecipação dos efeitos da tutela jurisdicional (art. 300 do CPC/15) e das razões que levaram a Corte de origem a manter a decisão reclama a reapreciação do contexto fático-probatório dos autos, providência inviável em sede de recurso especial, ante o óbice da Súmula 7/STJ. 4. Agravo interno desprovido. (AgInt no AR Esp 1904542/MT, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 29/11/2021, D Je 01/12/2021)" - Destaquei
+No mesmo sentido versa o verbete da Súmula nº 735 do STF: "Não cabe recurso extraordinário contra acórdão que defere medida liminar".
+No presente processo, a parte agravante afirma, em suma, que estão presentes os requisitos para o conhecimento e provimento de seu recurso.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, inadmitiu o recurso especial.
+Ressalte-se que a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula 182/STJ.
+Observa-se que, no presente caso, que o recurso de agravo não impugna de modo objetivo a fundamentação da decisão agravada deixando de evidenciar que eventual não aplicação da Súmula 735/STF não exigiria exame dos elementos de prova dos autos, mormente porque não trouxe fundamento do acórdão suficiente para demonstrar a viabilidade de superação do referido enunciado sumular.
+Do mesmo modo, não foram apresentados fatos novos ou elementos aptos a desconstituir a decisão impugnada, bem como não se demonstrou a inaplicabilidade dos julgados indicados pelas decisões que inadmitiram os recursos especiais ao presente caso, o que inviabiliza o conhecimento das insurgências.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA Nº 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. Não pode ser conhecido o recurso que não infirma especificamente os fundamentos da decisão agravada, por óbice da Súmula nº 182/STJ.
+4. Agravo regimental não provido.
+(AgRg no AREsp n. 726.599/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 20/3/2018, DJe de 3/4/2018.)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. VIOLAÇÃO DO ART. 557 DO CPC/73. INEXISTÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA Nº 182 DO STJ. AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO E NÃO PROVIDO.
+1. Inaplicáveis as disposições do NCPC a este julgamento ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+2. A possibilidade de interposição de agravo regimental contra decisão monocrática proferida com esteio no art. 557 do CPC/73, afasta qualquer alegação de ofensa ao princípio da colegialidade.
+3. O agravo regimental não impugnou as razões da decisão agravada, pois não refutou a aplicação das Súmulas nºs 282 e 356 do STF, em razão da ausência de prequestionamento dos arts. 113, § 2º, 128, 165, 183, § 1º, 267, § 3º, 301, 319, 322, parágrafo único, 458, II, III, 460 do CPC/73. Incide, no ponto, a Súmula nº 182 do STJ: É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+4. Agravo regimental parcialmente conhecido e, nessa parte, não provido.
+(AgRg no REsp n. 1.464.098/GO, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 10/10/2017, DJe de 20/10/2017.)
+Ademais, ainda que superado o referido óbice, as considerações específicas trazidas ao debate no presente agravo não foram objeto de exame pela Corte de origem que se limitou a avaliar os requisitos da tutela requerida na origem.
+É certo que, por força constitucional (art. 105, III, da CRFB/88), ao Superior Tribunal de Justiça somente é dado o julgamento em recurso especial "das causas decididas, em única ou última instância", uma vez que, presente a finalidade revisional da insurgência recursal, não se mostra viável o pronunciamento originário a respeito de matérias ainda não discutidas na origem.
+Destarte, "a falta de prequestionamento da matéria suscitada no recurso especial impede seu conhecimento, a teor da Súmula nº 282/STF." (AgInt no AREsp n. 2.582.153/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 26/8/2024, DJe de 29/8/2024.)
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. INDENIZAÇÃO SECURITÁRIA. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. VIOLAÇÃO DOS ARTS. 489 E 1022 DO CPC/15. INOCORRÊNCIA. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. SÚMULAS 5 E 7/STJ. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS 282 E 356/STF. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. DECISÃO MANTIDA.
+(..)
+5. A ausência de decisão acerca dos dispositivos legais indicados como violados e dos argumentos invocados pelo recorrente impede o conhecimento do recurso especial (súmulas 282 e 356/STF).
+6. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.228.031/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 28/8/2023, DJe de 30/8/2023.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OPERAÇÃO ENTERPRISE. PEDIDO DE RESTITUIÇÃO. BEM QUE AINDA INTERESSA AO PROCESSO. POSSIBILIDADE DE PERDIMENTO. INVIABILIDADE DO REEXAME DE FATOS E PROVAS. SÚMULA 7, STJ. TESE DE VIOLAÇÃO AO ART. 49-A, CC. FATOS CRIMINOSOS ATRIBUÍDOS AO ADMINISTRADOR DA EMPRESA. POSSIBILIDADE DE CONSTRIÇÃO DE BENS DE PESSOA JURÍDICA SUPOSTAMENTE UTILIZADA NA LAVAGEM DE CAPITAIS. PRECEDENTES. VIOLAÇÃO AO ART. 156, CPP. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 282, STF.
+I - É inviável o reexame de fatos e provas para afastar as conclusões do Tribunal a quo de que há fortes indícios de que foram utilizados recursos decorrentes de atividades criminosas para adquirir o veículo sobre o qual versa o pedido de restituição.
+Incidência da Súmula n. 7, STJ.
+II - Segundo a jurisprudência desta Corte, é possível determinar a constrição de bens de pessoas jurídicas quando houver indícios de que elas tenham sido utilizadas para a prática delitiva ou para ocultar ativos decorrentes de atividades ilícitas. Precedentes.
+III - Para que se configure o prequestionamento, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno do dispositivo legal tido como violado, a fim de que se possa, na instância especial, abrir discussão sobre a correta aplicação da lei federal.
+IV - No caso sob exame, não se verificou, a partir da leitura dos acórdãos recorridos, discussão efetiva acerca do ônus da prova e do art. 156 do Código de Processo Penal, de modo que deve ser mantido o óbice da Súmula n. 282, STF.
+Agravo regimental desprovido.
+(AgRg no AREsp 2333928 / PR, RELATOR Ministro MESSOD AZULAY NETO, QUINTA TURMA, DATA DO JULGAMENTO 04/06/2024, DATA DA PUBLICAÇÃO/FONTE DJe 07/06/2024)
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
