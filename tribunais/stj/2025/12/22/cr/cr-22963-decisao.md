@@ -1,0 +1,6 @@
+DECISÃO
+Cuida-se de Carta Rogatória por meio da qual a Justiça colombiana (Promotoria Geral da Nação da Colômbia) solicita que se proceda à intimação de Yesid Augusto Arocha Alarcón para participar, por videoconferência, de audiência destinada à colheita de seu depoimento como testemunha da Promotoria, em processo penal instaurado em face de Carlos Alberto Acero Arango, designada para os dias 28 e 29 de janeiro de 2026.
+A presente comissão foi autuada no Superior Tribunal de Justiça em 12 de dezembro de 2025. Consoante a Portaria Interministerial 501/2012, que dispõe sobre a tramitação da Carta Rogatória, nela deverá constar o prazo mínimo de designação de audiência nos seguintes termos: " ..  (i) 90 (noventa) dias, quando se tratar de matéria penal; e (ii) 180 (cento e oitenta) dias, quando se tratar de matéria cível".
+Considerando-se que, devido aos trâmites inerentes às Cartas Rogatórias, não será possível notificar a parte interessada para o cumprimento da diligência em tempo hábil, determino a devolução dos autos à Justiça rogante (art. 216-X do RISTJ) por intermédio da autoridade central competente, independentemente do trânsito em julgado e sem prejuízo da reapresentação com nova data.
+Publique-se.
+EMENTA
