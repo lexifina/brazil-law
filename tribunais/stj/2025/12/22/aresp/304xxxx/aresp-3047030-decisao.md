@@ -1,0 +1,67 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC), interposto por ALAN LUCIANO DE SANTANA E OUTROS, contra decisão que não admitiu recurso especial.
+O apelo extremo, fundamentado nas alíneas "a" e "c" do permissivo constitucional, desafiou acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA, assim ementado (fls. 1889-1890, e-STJ):
+AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO - MERA REPETIÇÃO DE TESES JÁ AFASTADAS - VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE RECURSAL - JULGAMENTO MONOCRÁTICO - POSSIBLIDADE - APLICAÇÃO DE PRECEDENTE QUALIFICADO - DECISÃO MANTIDA.
+1. Impõe-se ao recorrente o ônus de motivar o recurso, expondo as razões hábeis à reformar a decisão recorrida frente ao que nela foi decidido, justificando, assim, o prolongamento do direito de ação. Assim, a repetição das matérias - já julgadas - implicam em violação ao princípio da dialeticidade recursal.
+2. A suspensão das ações individuais, até o julgamento da ação coletiva, atinentes à macro-lide geradora de processos multitudinários está atrelada ao tema repetitivo 589 do STJ, bem como, em sede de Repercussão Geral no STF, sob o tema 675, que versa sobre a suspensão de ação individual em razão da existência de ação coletiva. Diante do exposto e com base no art. 932, IV, b, do NCPC, resta clara a possibilidade de julgamento monocrático do agravo de instrumento que rejeitou a preliminar de inadequação da via eleita, e no mérito, negou provimento ao recurso ora agravado.
+3. O recorrente, embora devidamente advertido, utiliza-se de sucessivos recursos versando repetidamente sobre os mesmos fundamentos, pelo que deve ser penalizado nos termos do §4º do art. 1.021 do NCPC.
+4. Agravo interno conhecido em parte e desprovido.
+Opostos embargos de declaração, foram rejeitados nos termos do acórdão de fls. 1979-1983, e-STJ.
+Nas razões de recurso especial (fls. 1991-2048, e-STJ), aponta a parte recorrente ofensa aos seguintes dispositivos: arts. 2º; 6º; 55, caput e §3º; 313, V, "a", §4º; 489, §1º, I, III, IV, V e VI; 503, caput e §1º; 1.022, do CPC; arts. 81; 103, §3º; 104, do CDC; art. 2º da Lei 7.347/85; e art. 93, IX, da Constituição Federal.
+Sustentaram,  em  síntese: i) a existência de omissões no acórdão recorrido, pois não houve manifestação da Corte local quanto aos artigos suscitados como violados e suas respectivas teses; ii) a inaplicabilidade do Tema 589 do STJ ao caso, devido à ausência de identidade entre as demandas; iii) que quanto à suspensão para aguardar o julgamento da ACP 034043-71.2020.8.05.000, em trâmite na Justiça baiana, aduz que não foi solicitada a suspensão da ação individual, não havendo risco de decisões conflitantes, além de a suspensão por tempo indeterminado violar o princípio da razoável duração do processo; iv) deve ser afastada a multa fixada na origem, pois os embargos de declaração opostos não tiveram o intuito protelatório.
+Contrarrazões apresentadas às fls. 3361-3372, e-STJ.
+Em juízo de admissibilidade (fls. 3429-3436, e-STJ), a Corte local negou seguimento ao apelo nobre ante a incidência do Tema 589/STJ no mérito e, quanto à violação dos arts. 589 e 1.022 do CPC, negou o processamento do recurso especial, dando ensejo ao presente agravo (fls. 3807-3833, e-STJ).
+Contraminuta apresentada às fls. 4157-4173, e-STJ.
+É o relatório.
+Decido.
+1. Conforme se observa, os recorrentes interpuseram agravo interno contra decisão de inadmissibilidade que negou seguimento ao recurso especial com base na aplicação do Tema n. 589 do STJ, julgado sob o rito do recurso repetitivo (fl. 3971-3998, e-STJ).
+Ocorre que, conforme entendimento desta Corte, interposto o agravo interno contra decisão que negou seguimento ao recurso especial e tendo o referido recurso sido apreciado pelo Tribunal de origem nos termos do entendimento consolidado sob o rito dos repetitivos, não cabe nova discussão acerca da matéria, que encontra-se, portanto, preclusa.
+2. Ademais, os recorrentes apontam violação aos artigos 489 e 1022 do CPC, aduzindo omissão e ausência de fundamentação no julgado, quanto às seguintes questões:
+i) a ausência de pedido do autor da ação individual para que esta fique suspensa até o julgamento da ação coletiva, afasta a projeção de efeitos da ação coletiva na ação individual e confere ao titular do direito material a prestação jurisdicional quando requerida;
+ii) a ausência de similitude quanto ao objeto principal ou causa de pedir das demandas;
+iii) a possibilidade de desfecho independente das demandas, não havendo que se falar em risco de decisões conflitantes, e
+iv) subsidiariamente, a necessidade de determinação de suspensão do processo jamais excedente a 1 (um) ano, nos termos do §4º do art. 313 do CPC, determinando o prosseguimento do processo assim que esgotado o prazo previsto (§ 5º), ou até a elaboração do Laudo Pericial na ação coletiva - o que ocorrer primeiro.
+Da leitura do aresto impugnado, verifica-se que a alegada violação não se configura, na medida em que a Corte Estadual, ao apreciar os recursos interpostos pela parte, dirimiu de forma clara e integralmente a controvérsia, sem omissões, abordando as teses apontadas, porém em sentido contrário ao pretendido pela parte recorrente, como se vê dos seguintes trechos do decisum no julgamento (fls. 1892 e 1894, e-STJ, grifou-se):
+1. Da ofensa ao princípio da dialeticidade recursal.
+Destaca-se, primeiramente, que o presente agravo interno interposto não ultrapassa a barreira de admissibilidade, pois é clara a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada, tornando incólume o entendimento nela firmado.
+ ..
+2. Da possibilidade de julgamento monocrático.
+Importante avultar que a suspensão das ações individuais, até o julgamento da ação coletiva, atinentes à macro-lide geradora de processos multitudinários está atrelada ao tema repetitivo 589 do STJ, bem como, em sede de Repercussão Geral no STF, sob o tema 675, que versa sobre a suspensão de ação individual em razão da existência de ação coletiva.
+Diante do exposto, e com base no art. 932, IV, b, do NCPC, resta clara a possibilidade de julgamento monocrático do agravo de instrumento que rejeitou a preliminar de inadequação da via eleita, e no mérito, negou provimento ao recurso ora agravado.
+Como visto, as teses das partes insurgentes foram apreciadas pelo Tribunal a quo, que as afastou apontando os fundamentos jurídicos para tal. Não há que se falar, portanto, em omissão ou contradição, sendo certo que os embargos de declaração não se constituem via própria para rejulgamento da causa, não havendo espaço para análise de inconformismo quanto ao entendimento adotado.
+Vale ressaltar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. AÇÃO DE OBRIGAÇÃO DE PAGAR QUANTIA CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. VIOLAÇÃO DO ART. 1.022 DO NCPC. CONTRADIÇÃO. OMISSÃO. NÃO CONFIGURADAS. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração constituem recurso de estritos limites processuais e destinam-se a suprir omissão, afastar obscuridade, eliminar contradição eventualmente existentes no julgado combatido, bem como corrigir erro material.
+2. Não se reconhece a violação do art. 1.022 do CPC quando há o exame, de forma fundamentada, de todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte.
+3. Embargos de declaração rejeitados.(EDcl no AgInt no AREsp n. 2.116.996/MS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 12/12/2022, DJe de 14/12/2022.)  grifou-se
+AGRAVO INTERNO. RECURSO ESPECIAL. ACIDENTE DE TRÂNSITO. OMISSÃO, CONTRADIÇÃO E OBSCURIDADE. NÃO CONFIGURAÇÃO. NEXO CAUSAL. DANO MORAL. OCORRÊNCIA. INDENIZAÇÃO. VALOR. VERIFICAÇÃO. IMPOSSIBILIDADE. SUCUMBÊNCIA. MONTANTE, PERCENTUAL E DECAIMENTO. AVERIGUAÇÃO. INVIABILIDADE. LITIGÂNCIA DE MÁ-FÉ. CARACTERIZAÇÃO. CONCLUSÕES ADOTADAS COM FASE EM ELEMENTOS FÁTICOS DOS AUTOS. JUROS E CORREÇÃO MONETÁRIA DOS HONORÁRIOS ADVOCATÍCIOS. NÃO DEMONSTRAÇÃO DE MOTIVOS PARA REFORMA DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA N.º 284 DO STF. NÃO PROVIMENTO.
+1. Não configurada a alegada omissão, contradição ou obscuridade, tendo em vista que houve manifestação suficiente e clara acerca dos temas postos em discussão desde a origem.
+2. A reanálise das conclusões acerca do nexo causal, dano moral, valor da indenização, montante, decaimento e percentual de sucumbência e à litigância de má-fé, fundamentadas nos fatos e provas dos autos, esbarra no óbice da Súmula n.º 7 do STJ.
+3. Não havendo esclarecimento suficiente acerca dos motivos aptos à modificação do entendimento adotado pela Corte de origem e da violação dos dispositivos legais trazidos ao debate, inviável o conhecimento do especial pelo óbice da Súmula n.º 284 do STF.
+4. Não evidenciada a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.139.665/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 5/12/2022, DJe de 7/12/2022.)  grifou-se
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. OMISSÃO, CONTRADIÇÃO E OBSCURIDADE NÃO CONFIGURADAS. ERRO MATERIAL CONSTATADO. MULTA PREVISTA NO ART. 1.026, § 2º, DO CPC/2015. NÃO CABIMENTO. EMBARGOS DE DECLARAÇÃO PARCIALMENTE ACOLHIDOS.
+1. Nos termos do art. 1.022, I, II e III, do CPC/2015, destinam-se os embargos de declaração a expungir do julgado eventual omissão, obscuridade ou contradição, ou ainda a corrigir erro material, não se caracterizando via própria ao rejulgamento da causa.
+2. É descabida a pretensão da parte embargada de aplicação da multa prevista no art. 1.026, § 2º, do CPC/2015, na hipótese, porquanto inexistente o caráter protelatório apontado.
+3. Embargos de declaração parcialmente acolhidos, sem efeitos modificativos .
+(EDcl no AgInt no AREsp n. 1.979.004/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 6/6/2022, DJe de 8/6/2022.)  grifou-se
+Afasta-se, portanto, a alegada ofensa aos artigos 489 e 1022 do CPC.
+3. Por fim, insurge-se a parte recorrente quanto à aplicação da multa de 3% sobre o valor da causa, em sede de embargos de declaração, ao argumento de que o acórdão recorrido viola o disposto no artigo 1.026, §2º, do CPC/15.
+Razão lhe assiste, neste ponto.
+Examinando o acórdão proferido em sede de embargos de declaração, constata-se que os aclaratórios foram manifestados também com o intento de prequestionar a matéria enfocada no âmbito do apelo especial, razão pela qual não há porque inquiná-los de protelatórios. Assim, aplicável ao caso a previsão constante da Súmula 98 desta Corte, in verbis:
+"Embargos de declaração manifestados com notório propósito de prequestionamento não tem caráter protelatório".
+Precedentes:
+EMBARGOS DECLARATÓRIOS NOS EMBARGOS DECLARATÓRIOS NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DECLARATÓRIOS. OPOSIÇÃO. CARÁTER PROTELATÓRIO. NÃO CONFIGURAÇÃO. MULTA. AFASTAMENTO. ACOLHIMENTO DOS EMBARGOS.
+1. A multa inserta no parágrafo único do art. 538 do CPC/1973, deve ser afastada em razão da orientação firmada no STJ de que "embargos de declaração manifestados com notório propósito de prequestionamento não tem caráter protelatório" (Súmula 98).
+2. Embargos de declaração acolhidos para afastamento da multa.
+(EDcl nos EDcl no AgInt no AREsp 927.064/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 22/08/2017, DJe 29/08/2017)  grifou-se
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. COMPROVAÇÃO DA TEMPESTIVIDADE DO RECURSO ESPECIAL EM AGRAVO REGIMENTAL. SUSPENSÃO DO EXPEDIENTE FORENSE. POSSIBILIDADE. VIOLAÇÃO DO ART. 535 DO CPC. NÃO OCORRÊNCIA. ART. 538, PARÁGRAFO ÚNICO, DO CPC. AUSÊNCIA DE CARÁTER PROTELATÓRIO. SÚMULA N. 98/STJ.
+ ..  3. É inviável a aplicação da multa prevista no parágrafo único do art. 538 do Código de Processo Civil se os embargos declaratórios foram opostos com o manifesto intento de prequestionar a matéria deduzida no apelo especial, e não com o propósito de procrastinar o feito. Aplicação da Súmula n. 98 do STJ.
+ ..  7. Agravo regimental provido para, conhecendo-se do agravo, conhecer parcialmente do recurso especial e dar-lhe provimento. (AgRg no AREsp 595.374/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 25/08/2015, DJe 01/09/2015)  grifou-se
+O entendimento em questão tem sido reafirmado, inclusive, em relação às multas aplicadas com fundamento no art. 1.026, §2º, do CPC/15 (correspondente ao art. 538, parágrafo único, do CPC/73). Neste sentido: AREsp 1218874/DF, Rel. Ministro LUIS FELIPE SALOMÃO, DJe 28/06/2018; REsp 1711305/PR, Rel. Ministro MOURA RIBEIRO, DJe 12/04/2018.
+Desta feita, os aclaratórios opostos com o propósito de prequestionar a matéria não têm caráter protelatório, como é o caso destes autos, devendo ser afastada a multa aplicada pelo Tribunal local no julgado de fls. 1889-1904, e-STJ.
+4. Do exposto, conheço do agravo para dar parcial provimento ao recurso especial, apenas para afastar a multa aplicada às fls. 1889-1904, e-STJ, nos termos da fundamentação.
+Publique-se. Intimem-se.
+EMENTA
