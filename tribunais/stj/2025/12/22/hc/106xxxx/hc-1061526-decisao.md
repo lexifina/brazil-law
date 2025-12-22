@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de LEANDRO APARECIDO DO PRADO NASCIMENTO apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal n. 0005037-25.2017.8.26.0127).
+Depreende-se dos autos que o paciente foi condenado, como incurso nas sanções do art. 121, § 2º, I, IV e VI, do Código Penal, à pena de 18 anos e 9 meses de reclusão, no regime fechado.
+A apelação defensiva mereceu parcial conhecimento e, nesta extensão, foi desprovida pelo Tribunal de origem (e-STJ fls. 40/48).
+Daí o presente writ, no qual alega a defesa que o paciente estaria sofrendo constrangimento ilegal, levantando três teses defensivas: a) a ocorrência de nulidade por violação ao art. 479 do Código de Processo Penal, pelo fato de a acusação ter exibido matéria jornalística não previamente disponibilizada com a antecedência legal, tendo tal insurgência sido registrada em ata e reiterada em apelação; b) ilegalidade da prisão por ausência de fundamentação idônea e contemporânea para a preventiva decretada na sentença e mantida em acórdão; e c) ilegalidade na dosimetria da pena, apontando indevida exasperação da pena-base mediante fundamentação genérica e valoração ilegal do "comportamento da vítima", circunstância que deve ser neutra ou favorável.
+Requer, ao final, a concessão da ordem para anular o julgamento por violação ao art. 479 do CPP ou, subsidiariamente, para reduzir a pena-base ao mínimo legal, reconhecendo-se a ilegalidade da prisão preventiva.
+É o relatório.
+Decido.
+A jurisprudência do Superior Tribunal de Justiça é uníssona no sentido de que não cabe a utilização de habeas corpus como sucedâneo de recurso próprio ou de revisão criminal, sob pena de desvirtuamento do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS.  ..  MANDAMUS IMPETRADO CONCOMITANTEMENTE COM RECURSO ESPECIAL INTERPOSTO NA ORIGEM. VIOLAÇÃO AO PRINCÍPIO DA UNIRRECORRIBILIDADE.  ..  AGRAVO REGIMENTAL DESPROVIDO.
+ ..  2. Não se conhece de habeas corpus impetrado concomitantemente com o recurso especial, sob pena de subversão do sistema recursal e de violação ao princípio da unirrecorribilidade das decisões judiciais.
+ ..  (AgRg no HC n. 904.330/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2/9/2024, DJe de 5/9/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL, IMPETRADO QUANDO O PRAZO PARA A INTERPOSIÇÃO DA VIA RECURSAL CABÍVEL NA CAUSA PRINCIPAL AINDA NÃO HAVIA FLUÍDO. INADEQUAÇÃO DO PRESENTE REMÉDIO. PRECEDENTES. NÃO CABIMENTO DE CONCESSÃO DA ORDEM DE OFÍCIO. PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. É incognoscível, ordinariamente, o habeas corpus impetrado quando em curso o prazo para interposição do recurso cabível. O recurso especial defensivo, interposto, na origem, após a prolação da decisão agravada, apenas reforça o óbice à cognição do pedido veiculado neste feito autônomo.
+ .. (AgRg no HC n. 834.221/DF, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 18/9/2023, DJe de 25/9/2023.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO "HABEAS CORPUS". ORGANIZAÇÃO CRIMINOSA. DOSIMETRIA. INEXISTÊNCIA DE ILICITUDE FLAGRANTE. RECURSO NÃO PROVIDO.
+1. A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+ ..  (AgRg no HC n. 921.445/MS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 3/9/2024, DJe de 6/9/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ABSOLVIÇÃO. APLICAÇÃO DO IN DUBIO PRO REO. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. POSSIBILIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+4. "Firmou-se nesta Corte o entendimento de que " n ão deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (HC n. 733.751/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 12/9/2023, DJe de 20/9/2023). Não obstante, em caso de manifesta ilegalidade, é possível a concessão da ordem de ofício, conforme preceitua o art. 654, § 2º, do Código de Processo Penal" (AgRg no HC n. 882.773/SP, relator Ministro Jesuíno Rissato - Desembargador Convocado do TJDFT, Sexta Turma, julgado em 24/6/2024, DJe de 26/6/2024).
+ ..  (AgRg no HC n. 907.053/SP, de minha relatoria, Sexta Turma, julgado em 16/9/2024, DJe de 19/9/2024.)
+Não se desconhece a orientação presente no art. 647-A, caput e parágrafo único, do Código de Processo Penal, segundo a qual se permite a qualquer autoridade judicial, no âmbito de sua competência jurisdicional e quando verificada a presença de flagrante ilegalidade, a expedição de habeas corpus de ofício em vista de lesão ou ameaça de lesão à liberdade de locomoção.
+Entretanto, tal não é o caso do presente writ, com exceção da alegação de ilegalidade na valoração negativa do comportamento da vítima.
+Em primeiro lugar, é preciso ressaltar que a condenação do paciente transitou em julgado em 17/4/2025. Nesse contexto, não há que se perquirir ilegalidade na prisão preventiva decretada em desfavor do réu, uma vez que trata-se de condenação definitiva.
+O segundo ponto é que, contra o acórdão da Corte de origem que julgou a apelação, a defesa já impetrou o HC n. 1004742/SP perante esta Corte, no qual não se insurgiu contra a nulidade agora apontada, configurando a presente impetração, portanto, a chamada nulidade de algibeira.
+Nesse sentido:
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. NULIDADE PROCESSUAL. PRECLUSÃO TEMPORAL. NULIDADE DE ALGIBEIRA OU GUARDADA. SUMULA 83/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+ ..
+3. A alegação de nulidade deve ser suscitada na primeira oportunidade em que a parte pode se manifestar nos autos, sob pena de preclusão, conforme o art. 278 do CPC/15.
+4. A prática de "nulidade de algibeira", onde a parte alega nulidade apenas quando lhe é conveniente, é rechaçada pela jurisprudência do STJ, por violar a boa-fé processual.
+ ..
+6. Agravo conhecido para não conhecer do recurso especial .
+(AREsp n. 2.966.078/MT, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 27/10/2025, DJEN de 30/10/2025, grifei.)
+De toda forma, não haveria qualquer reparo a fazer no acórdão da Corte de origem, que sobre o tema assim consignou (e-STJ fls. 44/45):
+Não se vislumbra ofensa à norma estatuída no artigo 479 do Código de Processo Penal, pois, ao revés do que sustenta a abnegada Defesa, a matéria jornalística exibida aos Senhores Jurados durante a réplica fora sim disponibilizada nos autos com mais de três dias de antecedência relativamente à sessão solene, consoante se verifica no petitório de fls. 724/5, cujos links ali apontados podem ser acessados por qualquer pessoa.
+De qualquer forma, não custa anotar que "o Ministério Público juntou novos links atualizados com as mesmas reportagens a fls. 1.268, cuja ciência foi dada à Defesa dentro do tríduo do artigo 479 do CPP (conforme publicação de fls. 1.271).
+Durante os debates, um dos links que continha a reportagem da TV - Bandeirantes foi normalmente exibido SEM QUALQUER INSURGÊNCIA DA DEFESA NA OPORTUNIDADE, até porque não havia nem argumentos para tanto.
+Ao contrário do colocado pela Defesa, o link funcionou perfeitamente em sessão plenária - conforme se verifica do vídeo dos debates que foi juntado - sendo que eventual indisponibilidade do conteúdo em data posterior não macula o julgamento.
+Ora, se fosse verdade que o vídeo do link estivesse indisponível no momento de sua exibição, deveria a Defesa insurgir-se imediatamente e fazer constar em ata que o link estava indisponível. Como não o fez - conforme se verifica dos debates - por óbvio está preclusa a insurgência" (contrarrazões, fls. 1.332/3).
+Contudo, deve-se ressaltar que, de fato, vislumbra-se ilegalidade diante da valoração negativa da vetorial "comportamento da vítima".
+Com efeito, é firme a jurisprudência desta Corte no sentido de que "o comportamento da vítima é circunstância judicial ligada à vitimologia, que deve ser necessariamente neutra ou favorável ao réu, sendo descabida sua utilização para incrementar a pena-base. Com efeito, se não restar evidente a interferência da vítima no desdobramento causal, como ocorreu na hipótese em análise, essa circunstância deve ser considerada neutra" (HC 541.177/AC, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 4/2/2020, DJe 12/2/2020).
+Assim, revela-se ilegal a negativação da vetorial referida, afirmando-se que "comportamento da vítima também não é favorável ao réu, pois a ofendida já estava separada dele e apenas o encontrou para entregar uma mala, de tal modo que em nada contribuiu para o crime" (e-STJ fl. 48).
+Nesse contexto, deve ser reduzida proporcionalmente a pena fixada na primeira fase do cálculo, para o patamar de 14 anos de reclusão; na segunda etapa, mantém-se o aumento de 1/4 em vista de qualificadoras sobejantes (motivo torpe e contra mulher por razões da condição do sexo feminino), exasperando-se a pena para 17 anos e 6 meses de reclusão, que consolida-se neste quantum em razão da ausência de causas de aumento ou diminuição de pena.
+Ante o exposto, concedo habeas corpus, de ofício, tão somente para redimensionar a reprimenda do paciente, nos termos acima delineados.
+Publique-se. Intimem-se.
+EMENTA
