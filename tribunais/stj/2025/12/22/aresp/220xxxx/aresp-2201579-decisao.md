@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15) interposto por JUCELINO LIMA SOARES em face da decisão acostada às fls. 853-855 e-STJ, que, em juízo prévio de admissibilidade, inadmitiu o recurso especial manejado pelo agravante.
+O apelo extremo, fundado nas alíneas "a" e "c" do permissivo constitucional, fora deduzido em desafio ao acórdão de fls. 721-747 e-STJ, proferido pelo Tribunal de Justiça do Distrito Federal e Territórios, assim ementado:
+AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. EMBARGOS À EXECUÇÃO. PRONUNCIAMENTO JUDICIAL SEM CONTEÚDO DECISÓRIO. DECISÃO DE SANEAMENTO E ORGANIZAÇÃO DO PROCESSO. ARTIGO 357 DO CPC. IRRECORRIBILIDADE. ARTIGO 1.015 DO CPC. ROL TAXATIVO MITIGADO APENAS QUANDO DEMONSTRADA URGÊNCIA. RECURSO REPETITIVO. SJT RESP 1696396/MT. SITUAÇÃO NÃO COMPROVADA. EMBARGOS DE DECLARAÇÃO. NATUREZA INTEGRATIVA. INAPTIDÃO PARA MODIFICAR A ESSÊNCIA DO ATO JUDICIAL EMBARGADO. RECURSO CONHECIDO E DESPROVIDO. 1. Agravo interno interposto contra decisão que não admitiu agravo de instrumento interposto contra decisão de saneamento e organização do processo. Não apresentação de pedido de esclarecimentos e ajustes, ensejando a estabilização do pronunciamento ordenador do feito. 2. A decisão combatida não integra o rol de hipóteses autorizadoras da interposição de agravo de instrumento, conforme elenco posto no artigo 1.015 do CPC. 3. Para a mitigação da taxatividade do artigo 1.015 do CPC, é imprescindível a demonstração da urgência decorrente da inutilidade do julgamento da questão no recurso de apelação, conforme tese firmada pelo Superior Tribunal de Justiça no Recurso Repetitivo R Esp 1696396/MT, não sendo suficiente mera alegação genérica de dano. Sem apresentação de elementos concretos autorizadores da aplicação de cláusula adicional de cabimento do agravo de instrumento à conta da taxatividade mitigada, mantém-se a orientação legislativa que restringe o uso desse recurso. 4. Os embargos de declaração servem à integração da decisão embargada, uma vez que voltados a saneá-la quando verificadas máculas por obscuridade, omissão ou contradição. Não constituem, portanto, meio adequado a satisfazer o interesse de reexame da matéria decidida para modificar a essência do pronunciamento judicial saneador embargado e com que não se conforma a parte agravante. 5. Segundo o § 1º do referido art. 357, a decisão saneadora possui regramento próprio de impugnação. Não o tendo observado a parte recorrente nem justificado o motivo pelo qual deixou de fazê-lo, inviável pretender utilizar os embargos de declaração que opôs como meio para modificar a ordenação dada ao processo pelo magistrado de primeira instância. 6. Agravo Interno conhecido e desprovido.
+Opostos embargos declaratórios (fls. 751-762 e-STJ), não foram acolhidos, conforme acórdão de fls. 784-803 e-STJ.
+Nas razões de recurso especial (fls. 808-836 e-STJ), alegou o insurgente, além da divergência jurisprudencial, que o acórdão recorrido violou os seguintes dispositivos de lei federal: (i) arts. 3º, 11, 489, § 1º, III e IV, e 1.022, parágrafo único, II, do CPC; (ii) art. 1.034 do CPC; (iii) art. 1.021, § 4º, do CPC; (iv) arts. 373, § 1º, 1.015, XI e parágrafo único, do CPC.
+Aduziu, em síntese, que há negativa de prestação jurisdicional pelo Tribunal a quo, bem como incabível a aplicação de multa por agravo interno manifestamente inadmissível. Ainda, aponta ser cabível o agravo de instrumento interposto e incorreta a inversão do ônus da prova realizada na origem.
+Contrarrazões às fls. 845-850 e-STJ.
+Em juízo prévio de admissibilidade, a Corte de origem inadmitiu o apelo nobre em virtude da ausência de recolhimento de multa processual aplicada.
+Inconformado, interpôs o presente agravo (art. 1.042 do CPC/15), cuja minuta está acostada às fls. 874-899 e-STJ, por meio do qual pretende ver admitido o recurso especial.
+Contraminuta às fls. 905-911 e-STJ.
+É o relatório.
+Decide-se.
+A pretensão recursal não merece prosperar.
+1. O apelo extremo não comporta conhecimento em virtude da ausência de recolhimento da multa aplicada nos termos do art. 1.021, § 5º, do CPC.
+O entendimento deste STJ firmou-se no sentido de que apenas se admite o recurso sem o prévio recolhimento da multa, quando a insurgência se limita a discutir a sua imposição, o que não é o caso dos autos. A propósito:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. DEPÓSITO PRÉVIO DA MULTA DO ART. 1.021, § 4º, DO CPC/2015. REQUISITO DE ADMISSIBILIDADE RECURSAL. AUSÊNCIA DE DIVERGÊNCIA.
+1. O depósito prévio da multa aplicada em razão da interposição de recurso meramente protelatório somente não constitui requisito de admissibilidade do recurso quando este tem por objetivo discutir, exclusivamente, a incidência da multa aplicada. Precedentes.
+2. Na espécie, não se constata a alegada divergência, haja vista que o aresto recorrido e o acórdão paradigma estão no mesmo sentido.
+3. Agravo interno não provido.
+(AgInt nos EAREsp n. 1.952.505/RS, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 3/10/2023, DJe de 5/10/2023.)
+Corroborando este entendimento: AgInt no AREsp n. 2.509.581/PA, relator Ministro Raul Araújo, Quarta Turma, julgado em 17/6/2024, DJe de 27/6/2024; AgInt no AREsp n. 2.012.684/MT, relator Ministro Marco Buzzi, Quarta Turma, julgado em 8/4/2024, DJe de 11/4/2024; AgInt no AREsp n. 2.556.725/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 16/9/2024, DJe de 18/9/2024.
+Na hipótese sob exame, o insurgente impugna o aresto da Corte local em diversos pontos e não apenas em relação à penalidade aplicada.
+Portanto, não realizado o recolhimento da multa, é incognoscível o recurso.
+2. Do exposto, conhece-se do agravo para não se conhecer do recurso especial.
+Por fim, não havendo fixação de honorários sucumbenciais pelas instâncias ordinárias, inaplicável a majoração prevista no art. 85, § 11, do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
