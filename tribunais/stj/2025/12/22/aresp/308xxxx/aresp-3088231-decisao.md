@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MARIA DE LIMA ALVES contra decisão que inadmitiu seu recurso especial, fundamentado no art. 105, inciso III, alínea a, da Constituição Federal, contra acórdão pr oferido pelo eg. Tribunal de Justiça da Paraíba, assim ementado (e-STJ, fl. 265):
+"APELAÇÃO CÍVEL. AÇÃO DE REPETIÇÃO DE INDÉBITO E INDENIZAÇÃO POR DANO MORAL. IMPROCEDÊNCIA DOS PEDIDOS. IRRESIGNAÇÃO. RELAÇÃO CONSUMERISTA. CONTA BANCÁRIA. DESCONTOS DA RUBRICA "ENCARGO LIMITE CRED". DESCONTOS EFETUADOS DE FORMA DEVIDA. UTILIZAÇÃO DO SERVIÇO PELO CORRENTISTA. SAQUES DE VALORES ACIMA DO CRÉDITO DISPONIBILIZADO. MANUTENÇÃO DA SENTENÇA. DESPROVIMENTO DO RECURSO.
+- Para que se reconheça o cabimento da indenização mostra-se necessária a constatação da conduta antijurídica que gere dano, bem como o nexo de causalidade entre a conduta e o dano.
+- O conjunto probatório anexado aos autos demonstra que o correntista utilizou o serviço disponibilizado pelo banco, ao sacar valor acima do crédito, o que ensejou a cobrança/desconto da rubrica denominada "encargo limite cred". Com isso, não há que se falar em cobrança indevida e em ato ilícito a ensejar a obrigação de fazer, repetição do indébito e/ou a indenização por danos morais."
+Os embargos de declaração opostos pela recorrente foram rejeitados (e-STJ, fls. 280-282).
+Em seu recurso especial, o recorrente alega violação dos seguintes dispositivos da legislação federal, com as respectivas teses:
+(i) arts. 1.022, I e II, do Código de Processo Civil, porque teria havido omissão e contradição no acórdão recorrido quanto às alegadas violações às leis federais e à ausência de contratação, configurando negativa de prestação jurisdicional.
+(ii) arts. 6, III e VIII, 39, III e 52, do Código de Defesa do Consumidor, e art. 373, II, do Código de Processo Civil, pois as cobranças de "Encargo Limite Cred" seriam indevidas sem contratação expressa e sem informação adequada; a instituição financeira não teria se desincumbido do ônus de provar a contratação e a autorização, impondo serviço não solicitado.
+(iii) arts. 104, III, 166, IV, 168, parágrafo único, 421 e 422, do Código Civil, porque a ausência de contrato formal e de observância da forma prescrita em lei para pessoa idosa tornaria nulo o negócio jurídico; além disso, teria sido violada a boa-fé e a função social do contrato.
+(iv) art. 927 do Código Civil, pois os descontos indevidos em benefício previdenciário idoso configurariam dano moral in re ipsa, impondo o dever de indenizar.
+(v) Lei 12.027/2021 do Estado da Paraíba (art. 1º e art. 2º), porque seria obrigatória a disponibilização e assinatura física de contratos de operações de crédito com idosos, inclusive quando firmados por meio eletrônico ou telefônico, o que não teria sido observado.
+(vi) Instrução Normativa INSS 28/2008 (arts. 3º e 5º), pois a averbação/efetivação de operações de crédito para beneficiários da Previdência Social dependeria de contrato assinado e autorização expressa, requisitos que não teriam sido cumpridos.
+Foram ofertadas contrarrazões (e-STJ, fls. 299-305).
+O recurso especial foi inadmitido na origem, dando ensejo à interposição do presente agravo.
+É o relatório. Passo a fundamentar e decidir.
+O recurso não merece prosperar.
+Constata-se, a partir da análise do acórdão da apelação e dos embargos de declaração, que o Tribunal de origem deixou de examinar as questões levantadas nos embargos, referentes à inexistência de contratação expressa e à falta de informação adequada. Ademais, considerando tratar-se de pessoa idosa, a ausência de contrato formal e o descumprimento da forma legalmente exigida para esse público acarretariam a nulidade do negócio jurídico, além de configurar violação aos princípios da boa-fé e da função social do contrato.
+Ademais, o conhecimento do recurso especial exige a manifestação da instância ordinária acerca da questão de direito suscitada. Recusando-se a Corte de origem a se manifestar, fundamentadamente, sobre o tema federal, fica obstaculizado o acesso à instância extrema, cabendo à parte vencida invocar, como no caso, a infringência do art.1.022 do Código de Processo Civil/2015, a fim de anular o v. acórdão recorrido para que seja suprida a omissão existente. Confira-se, por oportuno, o seguinte precedente:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. OMISSÃO A RESPEITO DA MULTA PROCESSUAL. CONSTATAÇÃO. INAPLICABILIDADE DA MULTA DO ART. 1.021, § 4º, DO CPC. MANIFESTA IMPROCEDÊNCIA OU INADMISSIBILIDADE DO RECURSO. NÃO DEMONSTRAÇÃO. EMBARGOS ACOLHIDOS PARA SANAR OMISSÃO.
+1. Os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado (art. 1.022 do CPC).
+2. A constatação de omissão no julgado impõe o acolhimento dos embargos declaratórios para correção do vício.
+3. Para a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil, não basta o mero desprovimento do agravo interno, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso para autorizar a aplicação do referido dispositivo.
+4. Embargos de declaração acolhidos para sanar a omissão apontada."
+(EDcl no AgInt no AR Esp n. 1.335.043/SP, relator Ministro JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 6/3/2023, DJe de 9/3/2023 - sem grifo no original).
+Dessa forma, está caracterizada a alegada ofensa ao art. 1.022 do Código de Processo Civil de 2015, ante a omissão da colenda Corte de origem em examinar fundamentadamente as questões suscitadas.
+Outrossim, mister acrescentar que, em razão do reconhecimento da preliminar de negativa de prestação jurisdicional, fica prejudicado o exame das demais questões articuladas nas razões recursais.
+Ante o exposto, dou parcial provimento ao recurso especial para determinar a remessa dos autos ao eg. Tribunal de origem para que novamente aprecie as razões recursais, com exame dos pontos alegados em embargos de declaração.
+Publique-se .
+EMENTA
