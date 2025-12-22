@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de Agravo apresentado pelo MUNICÍPIO DE OLINDA e OUTRO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO, assim resumido:
+Direito Previdenciário e Processual Civil. Remessa necessária e apelação cível. Pensão por morte. Início do pagamento. Reconhecimento da data do óbito como marco para concessão do benefício. Responsabilidade subsidiária do Município.
+I. Caso em exame
+Trata-se de remessa necessária e apelação interposta contra sentença que reconheceu o direito à pensão por morte com pagamento retroativo, a partir da data do óbito, e condenou a apelada ao pagamento de honorários advocatícios, além de discutir a legitimidade passiva e o pedido de gratuidade da justiça.
+II. Questão em discussão
+2. A questão em discussão consiste em: (i) saber se o pagamento da pensão por morte deve ser retroativo à data do óbito, conforme previsão na legislação municipal; (ii) avaliar a legitimidade passiva do Município de Olinda e sua responsabilidade subsidiária; (iii) examinar a adequação do pedido de justiça gratuita.
+III. Razões de decidir
+3. A data do óbito do instituidor da pensão por morte é o marco para o início do benefício, conforme o art. 47, I, da Lei Municipal nº 14/2002, e deve ser respeitada, pois o requerimento da apelada foi realizado dentro do prazo legal.
+4. O Município de Olinda é responsável subsidiariamente pelo pagamento da pensão, conforme a Lei Municipal nº 6.188/2021, que regula a gestão previdenciária local, não sendo excluído da lide.
+5. Quanto ao pedido de gratuidade de justiça, a simples alegação de hipossuficiência pela apelada não foi refutada de maneira suficiente pelo apelante, o que justifica a manutenção do deferimento.
+IV. Dispositivo e tese
+6. Não conhecimento da remessa necessária. Apelo parcialmente provido para reconhecer a sucumbência recíproca e condenar a apelada ao pagamento de honorários advocatícios.
+Tese de julgamento: "1. O pagamento da pensão por morte deve ser retroativo à data do óbito, nos termos da legislação municipal aplicável. 2. O Município de Olinda tem responsabilidade subsidiária pelo pagamento dos benefícios previdenciários, não sendo excluído da lide. 3. A alegação de hipossuficiência, não refutada de forma substancial, garante a concessão da justiça gratuita."
+Dispositivos relevantes citados: Lei Municipal nº 14/2002, arts. 46 e 47; Lei Municipal nº 6.188/2021, art. 44; CPC, art. 98.
+Jurisprudência relevante citada: STJ, AgInt no REsp n. 1.836.136/PR, rel. Min. Gurgel de Faria, Primeira Turma, DJe de 12.04.2022. (fls. 158-159)
+Quanto à controvérsia, a parte recorrente aduz ofensa aos arts. 17 e 485, VI, do CPC, no que concerne à necessidade de reconhecimento da ilegitimidade passiva do Município de Olinda, com extinção do processo, em razão de existir autarquia previdenciária própria (OLINPREV) responsável pelo pagamento da pensão por morte e pela gestão do regime próprio, trazendo a seguinte argumentação:
+O Tribunal de Justiça de Pernambuco entendeu que o Município é o responsável pelo repasse de verbas à previdência local, de modo a reconhecer a referida responsabilidade subsidiária pelo pagamento de benefício previdenciários, conforme prevê o art. 44 da Lei Municipal n.º 6.188/2021. O acórdão recorrido, ao manter a condenação do Município de Olinda ao pagamento da pensão por morte, divergiu do entendimento consolidado desta Corte Superior, que reconhece a ilegitimidade passiva ad causam do Município em casos como o dos autos. (fl. 180)
+A responsabilidade pelo pagamento de pensão por morte de ex-servidor público municipal é do fundo de previdência próprio do município, e não da pessoa jurídica de direito público interno que representa o ente municipal. Isso porque o fundo de previdência possui personalidade jurídica própria e patrimônio separado do Município, sendo o responsável pela gestão dos recursos previdenciários e pelo pagamento dos benefícios. (fls. 180-181)
+No caso em tela, o acórdão recorrido desconsiderou a existência do INSTITUTO DE PREVIDÊNCIA SOCIAL DOS SERVIDORES PÚBLICOS DO MUNICÍPIO DE OLINDA - OLINPREV, autarquia municipal responsável pela gestão da previdência dos servidores públicos de Olinda. A condenação do Município viola a jurisprudência do STJ e causa grave prejuízo ao recorrente, que está sendo compelido a arcar com uma obrigação que não lhe pertence. (fl. 181)
+É o relatório.
+Decido.
+Quanto à controvérsia, não é cabível o Recurso Especial porque interposto contra acórdão com fundamento em legislação local, ainda que se alegue violação ou interpretação divergente de dispositivos de lei federal. Aplicável, por analogia, a Súmula n. 280 do STF: "Por ofensa a direito local não cabe recurso extraordinário".
+Nesse sentido: "A tutela jurisdicional prestada pela Corte de origem com fundamento em legislação local impede o exame do apelo extremo, mediante aplicação da Súmula 280/STF". (REsp 1.759.345/PI, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 17.10.2019.)
+Confiram-se ainda os seguintes precedentes: ;AgInt no AREsp n. 2.593.766/RS, relatora Ministra Maria Thereza de Assi s Moura, Segunda Turma, DJEN de 24/2/2025; AgInt no AREsp n. 2.583.702/RS, relator Ministro Teodoro Silva Santos, Segunda Turma, DJEN de 16/12/2024; AgInt no REsp n. 2.165.402/DF, relator Ministro Benedito Gonçalves, Primeira Turma, DJEN de 12/12/2024; AgInt no AREsp n. 2.709.248/RJ, relator Ministro Francisco Falcão, Segunda Turma, DJEN de 9/12/2024; AgInt no REsp n. 2.149.165/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 3/10/2024; AgInt no AREsp n. 2.507.694/SP, relator Ministro Humberto Martins, Terceira Turma, DJe de 25/9/2024; AgInt no AREsp n. 2.278.229/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe de 19/12/2023; AgInt no AREsp n. 2.277.943/RN, relator Ministro Humberto Martins, Terceira Turma, DJe de 25/10/2023.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
