@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo manejado por Centro de Pesquisas Tecnológicas e Educacionais do Colégio Euclides da Cunha, desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fls. 101/102):
+DIREITO PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. PENHORA SOBRE O FATURAMENTO. POSSIBILIDADE. FLEXIBILIZAÇÃO DA ORDEM PREFERENCIAL. REDUÇÃO DO PERCENTUAL PARA 5%. A EXECUÇÃO FISCAL SE DESENVOLVE POR IMPULSO OFICIAL, SENDO VÁLIDA A DETERMINAÇÃO DA PENHORA DE OFÍCIO PELO JUÍZO, CONFORME O ART. 7º, II, DA LEI Nº 6.830/80. A ORDEM DE PENHORA PREVISTA NO ART. 11 DA LEI Nº 6.830/80 E NO ART. 835 DO CPC TEM NATUREZA PREFERENCIAL, PODENDO SER FLEXIBILIZADA PELO MAGISTRADO DIANTE DAS CIRCUNSTÂNCIAS DO CASO CONCRETO. A AUSÊNCIA DE PAGAMENTO VOLUNTÁRIO E A INEXISTÊNCIA DE BENS EM ESPÉCIE OU APLICAÇÕES FINANCEIRAS JUSTIFICAM A PENHORA SOBRE O FATURAMENTO DA EMPRESA, ASSEGURANDO A EFETIVIDADE DA EXECUÇÃO FISCAL. A BUSCA POR BENS VIA SISTEMAS BACENJUD E RENAJUD RESTOU INFRUTÍFERA, O QUE AUTORIZA A CONSTRIÇÃO SOBRE O FATURAMENTO, NÃO SENDO APLICÁVEL A SUSPENSÃO DO FEITO COM FUNDAMENTO NO TEMA 769 DO STJ. O PRINCÍPIO DA MENOR ONEROSIDADE DEVE SER PONDERADO COM O INTERESSE DO CREDOR NA SATISFAÇÃO DO CRÉDITO. NO CASO CONCRETO, A PENHORA CUMULATIVA DE 20% DO FATURAMENTO COMPROMETE O FUNCIONAMENTO DA EMPRESA, JUSTIFICANDO A REDUÇÃO PARA 5%, SEM PREJUÍZO DE FUTURA REVISÃO CASO A MEDIDA SE REVELE INEFICAZ. PARCIAL PROVIMENTO DO RECURSO. AGRAVO INTERNO PREJUDICADO.
+Opostos embargos declaratórios, foram rejeitados (fls. 149/158).
+Nas razões do recurso especial, a parte agravante aponta, além de dissídio pretoriano, violação aos arts. 2º, 854, 866 e 1.022 do CPC. Sustenta que "O Código Processual  ..  exige a provocação da parte exequente para que medidas de constrição ao patrimônio do devedor sejam autorizadas, o que reforça a vedação à atuação de ofício do magistrado" (fl. 482).
+Contrarrazões às fls. 235/240.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Na forma da jurisprudência desta Corte, "é deficiente a fundamentação do recurso especial em que a alegação de violação ao art. 1.022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão tornou-se omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284/STF" (AgInt no AREsp 1.805.328/MT, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 13/8/2021).
+Nesse mesmo sentido:
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 1.022 DO CPC. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. PENSÃO POR MORTE. INVALIDEZ ANTES DA MAIORIDADE. MANUTENÇÃO DA DEPENDÊNCIA. POSSIBILIDADE. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A jurisprudência desta Corte considera que quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284, do Supremo Tribunal Federal.
+III - Esta Corte possui entendimento no sentido de que faz jus à pensão por morte o beneficiário que, após a maioridade, manteve o direito à pensão devido à invalidez, haja vista que a incapacidade foi estabelecida antes de completar 21 anos, sem que houvesse a ruptura do vínculo de dependência.
+IV - A Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+V - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno improvido.
+(AgInt no REsp 1.838.289/PR, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 23/6/2021) - Grifo nosso
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO RECORRIDO. OMISSÃO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. FUNDAMENTO CONSTITUCIONAL INATACADO. SÚMULA 126/STJ.
+1. É deficiente a assertiva genérica de violação do art. 1.022 do CPC/2015, configurada quando o jurisdicionado não expõe objetivamente os pontos supostamente omitidos pelo Tribunal a quo e não comprova ter questionado as suscitadas falhas nos embargos de declaração. Incidência da Súmula 284/STF
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.768.968/DF, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 1º/7/2021) - Grifo nosso
+Ressalte-se, por oportuno, que a fundamentação deficiente do apelo, no tocante à negativa de prestação jurisdicional declaratória, não permite, por consequência e per saltum, ingressar no exame da alegada afronta à matéria normativa de fundo relativa aos arts. 2º, 854, 866 e 1.022 do CPC, porquanto remanesce ausente o indispensável prequestionamento.
+Por fim, fica prejudicado o exame do apelo especial na parte em que suscita divergência jurisprudencial, pois o não conhecimento do recurso quanto às razões invocadas pela alínea a diz respeito aos mesmos dispositivos legais e tese jurídica atinentes ao dissídio.
+No mesmo sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. SÚMULA N. 284/STF. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência do STJ é assente no sentido de que a impugnação de capítulos autônomos da decisão recorrida apenas induz à preclusão das matérias não impugnadas.
+2. Preliminarmente, a argumentação recursal não é suficiente ao acolhimento do especial com relação à negativa de prestação jurisdicional uma vez que a parte restou inerte acerca da relevância de cada uma das omissões apontadas ao resultado da demanda. Ausente a demonstração dos motivos pelos quais, caso enfrentadas, as omissões apontadas poderiam alterar a conclusão a que chegou a Corte local, incide, no ponto, o óbice da Súmula n. 284/STF.
+3. No que diz respeito à divergência jurisprudencial, inviabilizado o exame da tese de impossibilidade de inovação e exigência dos documentos pela alínea "a" em virtude da incidência da Súmula n. 280/STF, resta também inviabilizado, pelo mesmo óbice, o exame da questão pela alínea "c".
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.548.042/RJ, relator Ministro Mauro Campbell Marques,
+Segunda Turma, julgado em 24/6/2024, DJe de 1/7/2024.)
+ANTE O EXPOSTO, nego provimento ao agravo de Centro de Pesquisas Tecnológicas e Educacionais do Colégio Euclides da Cunha.
+Publique-se.
+EMENTA
