@@ -1,0 +1,89 @@
+DECISÃO
+Cuida-se de recurso especial interposto por GILMAR AGNELO DA SILVA, com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS assim ementado (fl. 762):
+APELAÇÃO CÍVEL - AÇÃO DE USUCAPIÃO - EXTINÇÃO DO FEITO SEM JULGAMENTO DE MÉRITO - AÇÃO POSSESSÓRIA PRÉVIA E PENDENTE DE JULGAMENTO - IDENTIDADE DE PARTES E DE OBJETO - INTELIGÊNCIA DO ART. 557, CPC - MANUTENÇÃO DA SENTENÇA QUE SE IMPÕE. - Nos termos do art. 240, § 1º e 4º, do CPC, a citação válida possui efeito retroativo à data de propositura da ação, inclusive no que tange à prescrição, a decadência e aos demais prazos extintivos previsto em lei. - Em se tratando de ação de usucapião ajuizada posteriormente à ação possessória, em que figuram as mesmas partes e o mesmo objeto, inafastável a aplicação da vedação prevista no art. 557, do CPC, quanto ao ajuizamento da demanda petitória na origem, haja vista a necessidade de se impedirem duas sentenças contrárias entre si. - Manutenção da sentença que se impõe.
+Opostos embargos de declaração, foram rejeitados (fls. 800-809).
+No presente recurso especial, o recorrente alega, preliminarmente, ofensa aos arts. 489 e 1.022, do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+No mérito, aduz que houve violação dos arts. 240, 312 e 557 do CPC, apontando, ainda, divergência jurisprudencial.
+Apresentadas as contrarrazões (fls. 863-885), sobreveio o juízo de admissibilidade positivo da instância de origem (fls. 891-893).
+É, no essencial, o relatório.
+A controvérsia recursal cinge-se à: 1) omissão do acórdão recorrido; 2) violação dos arts. 240, 312, 313 e 557 do CPC; e 3) divergência jurisprudencial.
+Da omissão do julgado (arts. 489 e 1.022 do CPC)
+O recorrente suscitou que houve violação dos arts. 489 e 1.022, do CPC.
+Não há falar em ofensa aos referidos dispositivos legais, uma vez que o Tribunal de origem, de forma clara e fundamentada, consignou que (fl. 798):
+Finalmente, quanto ao argumento dos apelantes acerca dos efeitos da citação, ressalto que todo o esforço argumentativo da parte não é suficiente para se afastar o fato de que art. 240, § 1º e 4º, do CPC, estabelece que a citação válida possui efeito retroativo à data de propositura da ação, inclusive no que tange à prescrição, a decadência e aos demais prazos extintivos previsto em lei.
+Logo, não está a merecer qualquer reparo a sentença em seu entendimento.
+Observa-se, portanto, que a lide foi solucionada em conformidade com o que foi apresentado em juízo. Assim, verifica-se que o acórdão recorrido possui fundamentação suficiente, inexistindo omissão ou contradição.
+Importante registrar que ausência de acolhimento da pretensão da parte não implica, necessariamente, em reconhecimento de omissão do julgado ou negativa de prestação jurisdicional, desde que o decisum impugnado contenha fundamentação que contemple a análise do caso concreto, decidindo suficientemente o litígio.
+A propósito, cito os seguintes precedentes:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. VÍCIO. INEXISTÊNCIA. EMBARGOS REJEITADOS.
+1. Os embargos de declaração, conforme dispõe o art. 1.022 do Código de Processo Civil, destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material.
+2. O descabimento dos embargos de divergência foi devidamente fundamentado, a partir da constatação de que não há similitude fático-processual entre os acórdãos confrontados no recurso, uma vez que a aferição da existência de conduta procrastinatória hábil a autorizar a aplicação da multa prevista no art. 1.026, § 2º, do CPC depende das circunstâncias processuais específicas dos autos.
+3. Salientou-se, ainda, ser desnecessária a cisão do julgamento dos embargos de divergência e a remessa do feito para a Seção quando a Corte Especial reconhece que não estão preenchidos os requisitos de admissibilidade do recurso uniformizador.
+4. De acordo com a jurisprudência do STJ, a solução integral da controvérsia com base em fundamentação suficiente não caracteriza afronta ao art. 1.022 do CPC, sendo desnecessário rebater expressamente todos os argumentos aduzidos pelas partes.
+5. Embargos de declaração rejeitados. (Grifei)
+(EDcl no AgInt nos EDcl no AREsp n. 2.258.321/SC, Rel. Ministro Og Fernandes, Corte Especial, Julgado em 10/6/2025, DJEN 16/6/2025.)
+PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. REEMBOLSO. COMPENSAÇÃO. FUNDAMENTO INATACADO. SÚMULA N. 283/STF. ATENDIMENTO DE URGÊNCIA/EMERGÊNCIA. COBERTURA OBRIGATÓRIA. SÚMULA N. 83/STJ. DANOS MORAIS CONFIGURADOS. REVISÃO. IMPOSSIBILIDADE. SÚMULAS N. 5 E 7/STJ.
+1. A lide foi solucionada em conformidade com o que foi apresentado em juízo. Assim, verifica-se que o acórdão recorrido possui fundamentação suficiente, inexistindo omissão ou contradição.
+2. A recorrente limita-se a suscitar a impossibilidade de reembolso de valor já quitado e deixa de impugnar o fundamento do acordão recorrido no sentido de que os valores já arcados pelo plano na forma integral deveriam ser compensados ou ressarcidos em liquidação. Súmula n. 283/STF.
+3. O Tribunal de origem decidiu a controvérsia em harmonia com a jurisprudência do STJ, quanto a considerar abusiva a negativa de cobertura em atendimento de urgência ou emergência, mesmo que estivesse em curso período de carência ou cobertura parcial temporária. Incidência da Súmula n. 83/STJ.
+4. Reconhecer, como alega o recorrente, que não teria havido recusa indevida do reembolso, a fim de afastar os danos morais fixados, demandaria o reexame de matéria fático-probatória e interpretação das cláusulas contratuais, procedimentos vedados a esta Corte, em razão dos óbices das Súmulas n. 5 e 7/STJ.
+Agravo interno improvido. (Grifei)
+(AgInt no AREsp n. 2.437.990/PE, Rel. Ministro Humberto Martins, Terceira Turma, Julgado em 12/8/2025, DJEN 15/8/2025.)
+Da violação da legislação federal
+O recorrente sustenta a violação dos arts. 240, 312, 313 e 557 do CPC.
+A propósito cito os precedentes:
+DIREITO CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO POSSESSÓRIA PENDENTE DE JULGAMENTO. AJUIZAMENTO DE AÇÃO REIVIDICATÓRIA. IDENTIDADE DE PARTES. INADMISSIBILIDADE. ART. 557 DO CPC/2015. EXTINÇÃO SEM RESOLUÇÃO DO MÉRITO.
+1. A controvérsia que envolve a tramitação concomitante de uma ação anulatória de escritura pública e de registro cumulada com pedido reivindicatório e uma ação possessória anteriormente proposta e pendente de julgamento.
+2. O Tribunal a quo concluiu que não existe relação de prejudicialidade externa entre a ação de manutenção de posse e a ação anulatória cumulada com reivindicatória, uma vez que essas lides tutelam bens jurídicos distintos e possuem naturezas diversas.
+3. Nos termos do art. 557 do CPC, "na pendência de ação possessória é vedado, tanto ao autor quanto ao réu, propor ação de reconhecimento do domínio, exceto se a pretensão for deduzida em face de terceira pessoa".
+4. O acórdão recorrido que destoa da jurisprudência desta Corte Superior, orientada no sentido de que, havendo identidade de partes, incide a vedação legal constante do art. 557 do CPC, de modo que, estando pendente de julgamento de ação possessória sob a área objeto do litígio, é vedado discutir o domínio do bem objeto da lide possessória. Tal norma visa preservar a autonomia e a celeridade das ações possessórias, cujo escopo principal é a proteção da posse, independentemente de eventual discussão acerca do direito de propriedade. Precedentes: REsp n. 1.909.196/SP, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 17/6/2021; REsp n. 2.171.801/PR, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 8/11/2024.
+Recurso especial provido. (Grifei)
+(REsp n. 2.199.860/GO, Rel. Ministro Humberto Martins, Terceira Turma, Julgado em 5/5/2025, DJEN 8/5/2025.)
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO DE NOTAS PROMISSÓRIAS RURAIS. INTERRUPÇÃO PELO DESPACHO CITATÓRIO. AGRAVO EM RECURSO ESPECIAL CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+I. Caso em exame
+1. Agravo interposto contra decisão do Tribunal de Justiça do Estado do Mato Grosso do Sul que inadmitiu o recurso especial com fundamento na Súmula 7 desta Corte Superior.
+2. O agravo interposto contra a decisão de inadmissibilidade na origem rebateu validamente o óbice invocado, recortando a moldura fática estabilizada no acórdão recorrido e indicando claramente a pretensão recursal.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a interrupção da prescrição, analisando a estrutura normativa do art. 240 do CPC, ocorre com o despacho que ordena a citação ou se ocorre com a citação válida.
+III. Razões de decidir
+4. A interrupção da prescrição não é efeito da citação válida: ela resulta diretamente, a teor da literalidade do § 1º do artigo 240 do Código de Processo Civil, do despacho do juízo singular que determina a citação do réu.
+5. O § 1º do artigo 240 do Código de Processo Civil contém, portanto, dois conteúdos normativos: o primeiro é que a interrupção da prescrição é operada pelo despacho que ordena a citação - não pela citação válida em si. O segundo conteúdo normativo do dispositivo é a indicação de que, em regra, o efeito interruptivo, já operado pelo despacho que ordena a citação, retroagirá à data da propositura da ação.
+6. A hipótese, portanto, enunciada pelo § 2º do artigo 240 do Código de Processo Civil - de que "incumbe ao autor adotar, no prazo de 10 (dez) dias, as providências necessárias para viabilizar a citação, sob pena de não se aplicar o disposto no § 1º" - diz respeito não ao efeito interruptivo do despacho que ordena a citação, mas sim à retroatividade do efeito interruptivo, já operado pelo despacho que ordena a citação, à data da propositura da ação.
+7. Não fosse esse o entendimento a prevalecer, faltaria inteligibilidade à indicação, pelo § 1º do artigo 240 do Código de Processo Civil, de dois marcos interruptivos distintos: i) o despacho que ordena a citação; e ii) a propositura da ação (retroatividade do efeito interruptivo).
+8. Por isso também a precaução inserida no § 3º do artigo em análise, no sentido de que a parte não será prejudicada pela demora imputável exclusivamente ao serviço judiciário: isto é, a demora na prolação do despacho citatório, inicialmente atribuível ao Judiciário - e só atribuível ao credor pela sua inércia quanto às providências necessárias para viabilizar a citação no prazo de 10 dias, a teor do § 2º, hipótese na qual o efeito retroativo da interrupção à data da propositura da ação não se materializa. Não se materializando o efeito retroativo, mantém-se como marco temporal de interrupção da prescrição o despacho que ordena a citação.
+9. A tese de violação aos artigos 355, I, e 917, VI, do CPC, quanto à realização de prova pericial, esbarra na Súmula 7 desta Corte Superior.
+IV. Dispositivo
+10. Recurso especial parcialmente conhecido e, nessa extensão, não provido. (Grifei)
+(AREsp n. 2.896.288/MS, Rel. Ministra Daniela Teixeira, Terceira Turma, Julgado em 22/9/2025, DJEN 25/9/2025.)
+AGRAVO INTERNO EM RECURSO ESPECIAL. PROCESSO CIVIL E CIVIL. AÇÃO DE USUCAPIÃO. AÇÃO POSSESSÓRIA ANTERIOR. AUSÊNCIA DE PREJUDICIALIDADE. IDENTIDADE ENTRE TODOS OS ELEMENTOS DA DEMANDA. PRESSUPOSTO AUSENTE. SUSPENSÃO DA AÇÃO POSSESSÓRIA. DEMANDA ANTERIOR À AÇÃO DE USUCAPIÃO. INAPLICABILIDADE DO ART. 11 DA LEI 10257/01. DIVERGÊNCIA JURISPRUDENCIAL. ORIENTAÇÃO ADOTADA EM SINTONIA COM A ATUAL JURISPRUDÊNCIA DO STJ. ENUNCIADO 83/STJ. A APLICAÇÃO DO ÓBICE SUMULAR TEM COMO REFERENTE O ACÓRÃO RECORRIDO. AGRAVO INTERNO NÃO PROVIDO.
+1. O STJ possui entendimento de que não há prejudicialidade externa que justifique a suspensão da demanda possessória até que se julgue a ação de usucapião. Precedentes.
+2. O art. 11 da referida lei 10.257/2001 determina que "na pendência da ação de usucapião especial, ficarão sobrestadas quaisquer outras ações, petitórias ou possessórias, que venham a ser propostas relativamente ao imóvel usucapiendo", não se aplicando ao inverso, em que se visa sobrestar ação de usucapião em razão de anterior ação de manutenção de posse.
+3. Considerando que a orientação adotada pelo Tribunal de origem está de acordo com a jurisprudência atual deste STJ; não se conhece do recurso especial pela alínea "c" do permissivo constitucional, ante o óbice do Enunciado 83/STJ.
+4. a aplicação do Enunciado 83/STJ tem como referente o acórdão recorrido, uma vez que ligado ao mérito do que decidido na origem, que estaria em conformidade com a jurisprudência do STJ, e não o acórdão paradigma - formalidade que serve unicamente para comprovar a divergência entre os julgados.
+5. Agravo interno não provido. (Grifei)
+(AgInt no REsp n. 1.915.674/RS, Rel. Ministro Luís Felipe Salomão, Quarta Turma, Julgado em 23/8/2021, DJEN 26/8/2021.)
+Depreende-se dos arestos colacionados que a orientação firmada nesta Corte Superior de Justiça é no sentido de: 1) a pendência de ação possessória impede o ajuizamento da ação de domínio. 2) o despacho que ordena a citação interrompe a prescrição, tendo aa citação válida efeitos que retroagem à propositura da ação. e 3) A ausência de prejudicialidade externa impede a suspensão da ação de usucapião, em face de ação possessória em trâmite.
+Neste contexto, constata-se que o entendimento esposado no acórdão vergastado não destoa da jurisprudência deste Sodalício, o que atrai o teor da Súmula n 83/STJ - Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida. .
+Da divergência jurisprudencial
+A aplicação da Súmula n. 83/STJ como óbice ao conhecimento do apelo pela alínea "a" do permissivo constitucional também impede o acesso à via extraordinária com base na alínea "c" do inciso III do art. 105 da CF.
+Nesse sentido, cito os precedentes:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284/STF. ARBITRAMENTO JUDICIAL DO PREÇO DOS SERVIÇOS DE PRATICAGEM. CARÁTER EXCEPCIONAL. SÚMULA N. 83/STJ. PREÇOS. ILEGALIDADE NA FIXAÇÃO. INCIDÊNCIA DAS SÚMULAS N. 5 E 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. FIXAÇÃO DE HONORÁRIOS RECURSAIS. AFASTAMENTO. FIXADOS NA ORIGEM EM GRAU MÁXIMO.
+1. A alegação genérica de violação do art. 1.022 do CPC de 2015, sem demonstrar especificamente quais os vícios no aresto vergastado.
+Incidência, na espécie, do óbice da Súmula n. 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+2. O Tribunal de origem aplicou jurisprudência pacífica desta Corte no sentido de que "A fixação do preço do serviço de praticagem se submete ao princípio constitucional da livre iniciativa e concorrência, sendo admitida a intervenção do Estado na relação entre o mercador e o prático apenas excepcionalmente, quando for indispensável para evitar a interrupção do serviço, nos termos do art. 14, parágrafo único, II, da Lei 9.537/97. Precedentes das Turmas de Direito Público do STJ" (REsp n. 1.538.162/AM, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 15/10/2020).
+Precedente. Incidência da Súmula 83/STJ.
+3. Rever o entendimento do Tribunal de origem quanto à legalidade do preço fixado demandaria interpretação de cláusulas contratuais e reexame de provas, o que é inviável em recurso especial, ante a incidência das Súmulas n. 5 e 7/STJ.
+4. Prejudicado o exame da divergência jurisprudencial quando a tese já foi afastada na análise do recurso especial pela alínea "a" em razão da incidência dos óbices das Súmulas n. 5, 7 e 83 /STJ.
+5. O Código de Processo Civil de 2015, nos termos do seu art. 85, § 11, assegura a majoração da verba advocatícia fixada anteriormente, levando em conta o trabalho adicional realizado em grau recursal. No caso dos autos, a verba honorária foi fixada em percentual máximo. Assim, a sua majoração deve ser afastada.
+Agravo interno provido em parte para afastar a majoração dos honorários advocatícios. (Grifei)
+(REsp n. 2.177.033/PA, rel. Ministro Humberto Martins, Terceira Turma, julgamento em 11/9/2023, DJEN 13/9/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PENHORA DE PERCENTUAL DA REMUNERAÇÃO. POSSIBILIDADE. SÚMULA N. 83 DO STJ. REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. NÃO PROVIDO.
+1. Segundo a jurisprudência desta Corte, a regra geral da impenhorabilidade das verbas salariais pode ser relativizada, em situações excepcionais, para atingir parte da remuneração do devedor, desde que preservado o suficiente para garantir sua subsistência digna. Incidência da Súmula n. 83/STJ.
+2. No caso, o Tribunal de origem, após a análise das provas produzidas no processo, concluiu que a penhora deferida não afetaria a dignidade da parte devedora. Alterar esse entendimento demandaria reexame do conjunto fático-probatório do feito, vedado em recurso especial. Incidência da Súmula n. 7/STJ.
+3. Fica prejudicado o exame da divergência jurisprudencial quando a tese já foi afastada na análise do recurso especial pela alínea "a" em razão da incidência dos óbices das Súmulas 7 e 83 do STJ.
+4. Agravo interno a que se nega provimento. (Grifei)
+(AgInt no AREsp n. 2.383.567/DF, rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgamento em 15/4/2024, DJEN 18/4/2024.)
+Ante o exposto, não conheço do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 15% sobre o valor atualizado da causa.
+Publique-se. Intimem-se.
+ EMENTA
