@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO RIO GRANDE DO SUL, com respaldo na alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 4ª Região assim ementado (e-STJ fl. 172):
+ADMINISTRATIVO. SERVIDOR PÚBLICO. PEDIDO DE REMOÇÃO POR MOTIVO DE SAÚDE. INSTITUIÇÃO FEDERAL DE ENSINO. POSSIBILIDADE.
+1. O art. 36, III, alínea "b", da Lei 8.112/90, faculta ao servidor obter remoção, independentemente do interesse da Administração, quando motivado por doença própria, do cônjuge ou de dependente, condicionada à comprovação do alegado estado de saúde por junta médica oficial, a ser instaurada no âmbito administrativo.
+2. Essa orientação é aplicável aos cargos técnico-administrativos, estruturados pela Lei n.º 11.091/2005, no âmbito das instituições federais de ensino, igualmente vinculadas ao Ministério da Educação.
+3. Não há divergência acerca do estado de saúde da servidora, o qual restou demonstrado pelos laudos médicos carreados aos autos, e pericial judicial, comprovando que sua doença foi agravada em virtude das condições de trabalho do próprio campus do IFRS de Sertão.
+4. Apelo provido. Sentença parcialmente reformada.
+Rejeitados os aclaratórios (e-STJ fls. 211/214).
+Nas suas razões, a parte recorrente aponta violação dos arts. 1.022, I e II, do CPC, 36 e 37 da Lei n. 8.112/1990, 21 e 22 Lei de Introdução às normas do Direito Brasileiro.
+Sustenta negativa de prestação jurisdicional, porquanto remanescente obscuridade decorrente da mera reprodução da exordial como se fosse opinião do perito.
+Aduz a necessidade de sobrestamento do feito em razão da afetação do Tema 1.322 do STJ.
+Defende a impossibilidade de utilização do instituto da remoção no caso dos autos, reputando ser " ..  a redistribuic a o, portanto, o instituto apropriado para o deslocamento de um cargo efetivo, ocupado ou na o, do quadro de uma autarquia para o quadro de outra, limitando-se a remoc a o a deslocar o servidor entre sedes de um mesmo o"rga o ou entidade (campus, polos, etc)" (e-STJ fl. 223).
+Tece, ao fim, arrazoado respeitante aos dispositivos da LINDB apontados como contrariados.
+Contrarrazões às e-STJ fls. 206/207.
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 229/230.
+Passo a decidir.
+A irresignação recursal não merece prosperar.
+Destaco, de início, que o caso dos autos, por envolver remoção de servidora do quadro técnico-administrativo entre campi da mesma instituição federal de ensino, não se subsume à controvérsia a ser pacificada por meio do Tema 1.322 do STJ (definir se é legal a remoção de professores integrantes da carreira do magistério superior federal entre instituições federais de ensino)
+Em relação ao art. 1.022, I e II, do CPC, cumpre destacar que, ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação.
+Ademais, consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater um a um de todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido: AgRg no AREsp 163.417/AL, rel. Ministro NAPOLEÃO NUNES MAIA FILHO, Primeira Turma, DJe 29/09/2014.
+In casu, o aresto hostilizado, com base nos elementos de convicção dos autos, de forma inequívoca, entendeu que, "muito embora a remoção por motivo de saúde constitua direito subjetivo do servidor que tem como fundamento, em princípio, causa temporária, na hipótese restou devidamente comprovado que a doença da qual é portadora está diretamente relacionada a sua atividade laboral naquela localidade. A determinação da remoção definitiva da servidora para o Campus de Erechim, portanto, se impõe" (e-STJ fl. 170).
+Dessa forma, contrariamente ao alegado pela parte recorrente, não há nenhuma obscuridade a ser sanada, já que a Corte de origem expressamente entendeu pela acolhida do pleito inicial de remoção, inexistindo a suposta leitura equivocada dos termos do laudo produzido.
+No concernente aos arts. 37 da Lei n. 8.112/1990, 21 e 22 Lei de Introdução às normas do Direito Brasileiro, registre-se que o presente apelo nobre carece do requisito constitucional do prequestionamento.
+Conquanto não seja exigida a menção expressa do dispositivo de lei federal, a admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pelo recorrente. Esse é o entendimento pretoriano consagrado na edição da Súmula 282 do STF: "é inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+Não há que falar, no caso em tela, em prequestionamento ficto uma vez que, embora apontada preliminar de negativa de prestação jurisdicional no apelo nobre, o suposto vício não solvido não tem correlação com as matérias respeitantes aos citados dispositivos, como visto anteriormente.
+No mais, verifica-se que a pretensão recursal, posta no sentido de impossibilidade de remoção de professor entre instituições de ensino diversas, está totalmente dissociada do caso tratado nos autos, devendo a argumentação ser considerada deficiente, o que enseja a aplicação da Súmula 284 do STF.
+Isso porque, como anotado no início da fundamentação, a controvérsia dos autos não envolve servidora ocupante de cargo de professor da carreira do magistério superior federal e, ainda, a remoção deferida se dá entre órgãos do mesmo instituto federal ora recorrente.
+Ante o exposto, com base no art. 255, § 4º, I e II, do RISTJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC, observados, caso aplicáveis os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
