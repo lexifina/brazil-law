@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial interposto contra decisão que inadmitiu o recurso especial.
+Segundo a parte agravante, o recurso preenche os requisitos necessários ao conhecimento e provimento (e-STJ fls. 712/721).
+Intimada nos termos do art. 1.042, § 3º, do Código de Processo Civil, a parte agravada afirmou a inexistência de requisitos ou elementos aptos a promover a alteração do julgado impugnado (e-STJ fls. 728/731).
+É o relatório.
+DECIDO.
+O agravo é tempestivo, nos termos do art. 1.003, § 5º, do Código de Processo Civil.
+A análise dos argumentos recursais não indica, contudo, a existência de fundamentos que sustentem a reforma da decisão recorrida, cujos fundamentos transcrevo para que passem a fazer parte da presente decisão:
+ ..
+I - Trata-se de recurso especial interposto com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pela Terceira Turma Cível deste Tribunal de Justiça, cuja ementa é a seguinte:
+PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. ACORDO. COMPARECIMENTO ESPONTÂNEO. VÍCIO DE REPRESENTAÇÃO. CARTA DE PREPOSIÇÃO. AUSÊNCIA. EXCLUSÃO. LITISCONSORTE. TEORIA DA APARÊNCIA. INAPLICABILIDADE. GRUPO ECONÔMICO. IRRELEVÂNCIA.
+1. Cuida-se de agravo de instrumento em face de decisão que reconheceu a ineficácia do acordo, entabulado entre as partes e homologado judicialmente, em relação à empresa agravada, ante a existência de vício de representação no momento da assinatura do acordo.
+2. A questão em debate consiste em aferir a legalidade da exclusão da agravada do polo passivo do cumprimento de sentença, ante a aplicação da teoria da aparência ao caso e a existência de grupo econômico entre a agravada e a outra empresa executada, que originalmente figurou como ré no feito originário.
+3. No caso, a empresa agravada, no momento da propositura da demanda originária não figurava como ré, não foi citada no feito originário, e seu suposto comparecimento espontâneo aos autos foi realizado por pessoa que não figura como sócio ou representante da empresa, que não portava carta de preposição e não apresentou o documento no prazo previsto no acordo.
+4. A citação e, por consequência, o comparecimento espontâneo ao processo, são atos personalíssimos e pressupostos de validade da relação processual. Portanto, não se admite desconfiança acerca da regularidade da citação, sob pena de tornar nulo o processo, mesmo em fase de cumprimento de sentença.
+5. A teoria da aparência não é aplicável ao caso, em que as partes tinham prévio conhecimento do vício de representação, consignado no termo de acordo, e não adotaram qualquer providência para saná-lo. 5.1 A teoria da aparência não pode ser aplicada a situações que causem insegurança jurídica, como é o presente caso, no qual pessoa não habilitada firmou compromisso em nome de pessoa jurídica da qual não figura como sócio ou representante legal.
+6. O fato de a empresa agravada figurar no mesmo grupo econômico da outra empresa executada, ré no feito originário, não autoriza a violação de princípios e regras fundamentais do direito processual, pois o próprio art. 50, §4º, do Código Civil dispõe que a mera existência de grupo econômico não autoriza a desconsideração da personalidade jurídica.
+7. Recurso conhecido e não provido. Decisão mantida.
+O recorrente aponta violação ao artigo 1.022 do Código de Processo Civil, alegando que o órgão julgador, mesmo instado a fazê-lo, por intermédio dos embargos de declaração, não teria sanado os vícios apontados, mantendo-se omisso a respeito da "anuência indireta" e da relevância do Termo de Anuência da INFINITE sob a ótica da participação acionária da MASTER na mesma empresa à época do acordo, impedindo a devida compreensão da controvérsia e aplicação do direito.
+II- O recurso é tempestivo, as partes são legítimas e está presente o interesse emII recorrer. Preparo regular.
+Passo ao exame dos pressupostos constitucionais de admissibilidade.
+O recurso especial não merece ser admitido quanto à mencionada contrariedade ao artigo 1.022 do Código de Processo Civil, pois, de acordo com o entendimento jurisprudencial pacífico da Corte Superior, "Inexiste a alegada violação ao art. 1.022 do Código de Processo Civil (CPC) porque a prestação jurisdicional foi dada na medida da pretensão deduzida. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade. Julgamento diverso do pretendido não (AgInt no R Esp n. 2.119.616/RJ, relator Ministroimplica ofensa ao dispositivo de lei invocado" Paulo Sérgio Domingues, Primeira Turma, julgado em 12/5/2025, DJEN de 16/5/2025).
+III- Ante o exposto, INADMITO o recurso especial.
+Publique-se (e-STJ fls. 702/705)
+No presente processo, a parte agravante afirma, em suma, que estão presentes os requisitos para o conhecimento e provimento de seu recurso.
+Ocorre, contudo, que a questão já foi enfrentada pela decisão recorrida, que analisou detidamente todas as questões jurídicas postas.
+De saída, no que tange a alegação de afronta aos artigos 1.022 e 489 do Código de Processo Civil, a ofensa ao art. 1.022, II, do Código de Processo Civil se caracteriza quando o órgão julgador, provocado por meio de embargos de declaração, deixa de suprir omissão sobre ponto relevante da controvérsia, cuja análise é indispensável à adequada prestação jurisdicional.
+De igual modo, o art. 489, §1º, IV, do CPC impõe um dever de fundamentação qualificada, estabelecendo que não se considera fundamentada a decisão judicial que não enfrenta todos os argumentos deduzidos pelas partes capazes, em tese, de infirmar a conclusão adotada.
+Esses dispositivos visam assegurar que o pronunciamento judicial seja efetivamente resolutivo, transparente e coerente, permitindo o controle pelas instâncias superiores e garantindo a observância ao devido processo legal substancial.
+Certo é que "Afasta-se a ofensa aos arts. 489 e 1.022 do CPC/2015, pois não se constatam omissão, obscuridade ou contradição nos acórdãos recorridos capazes de torná-los nulos. O colegiado originário apreciou a demanda de forma clara e precisa, deixando bem delineados os fundamentos dos julgados. " (AgInt no AREsp n. 2.441.987/DF, relator Ministro Humberto Martins, Terceira Turma, julgado em 17/2/2025, DJEN de 20/2/2025.)
+Sustenta o recorrente violação aos artigos citados, na medida em que não teria a Corte de origem se manifestado sobre a ""anuência indireta da MASTER PARTICIPAÇÕES E INVESTIMENTOS S/A", por meio do Termo de Anuência da INFINITE, e suas implicações jurídicas na eficácia do acordo, apesar de o Recorrente ter destacado que a MASTER era a principal acionista da INFINITE na época do acordo".
+A Corte de origem assim se manifestou sobre a controvérsia:
+ ..
+A teoria da aparência não pode ser aplicada a situações que causem insegurança jurídica, como é o presente caso, no qual pessoa não habilitada firmou compromisso em nome de pessoa jurídica da qual não figura como sócio ou representante legal. No mais, o fato de a empresa agravada figurar no mesmo grupo econômico da executada não autoriza a violação de princípios e regras fundamentais do direito processual, pois o próprio art. 50, §4º, do Código Civil dispõe que a mera existência de grupo econômico não autoriza a desconsideração da personalidade jurídica.
+Dessa forma, caso o agravante deseje alcançar o patrimônio da empresa agravada para satisfazer a dívida, deve se valer de algum incidente de desconsideração da personalidade jurídica, caso demonstre seus requisitos autorizadores  ..  (e-STJ fls. 546/554).
+Efetivamente, compulsados os autos, colhe-se que a Corte de origem analisou e rebateu, um a um, os argumentos levantados, sendo certo que a ausência de menção a um outro argumento invocado pela defesa não macula o comando decisório se, bem fundamentado, apresenta razões capazes de se sustentar por si.
+Assim, "Não procede a arguição de ofensa ao 1.022 do CPC, quando o Tribunal Estadual se pronuncia, de forma motivada e suficiente, sobre os pontos relevantes e necessários ao deslinde da controvérsia." (AgInt no REsp n. 1.899.000/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 21/8/2023, DJe de 23/8/2023.)
+Ressalte-se que não se pode confundir decisão desfavorável aos interesses da parte com negativa de prestação jurisdicional, tampouco fundamentação concisa com ausência de fundamentação.
+Nesse sentido, destaca-se o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO DO ART. 1.022 DO CPC. INEXISTÊNCIA. MULTA DIÁRIA. REVISÃO DA NECESSIDADE E DO VALOR FIXADO DEMANDA O REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7/STJ.
+1. "Não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional" (AgInt no AREsp n. 1.907.401/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 22/8/2022, DJe de 29/8/2022).
+(AgInt no AREsp n. 2.746.371/PE, relator Ministro Humberto Martins, Terceira Turma, julgado em 17/3/2025, DJEN de 20/3/2025.)
+Portanto, constatada a pronúncia expressa e suficiente acerca dos temas indicados como omissos, a questão do direito aplicado é matéria relativa ao mérito recursal, não se podendo cogitar, no presente feito, em prestação jurisdicional defeituosa.
+Ante o exposto, não conheço do agravo em recurso especial.
+Incabívrel a majoração de honorários.
+Publique-se. Intimem-se.
+EMENTA
