@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por Paulo de Lima Alves contra a decisão do Tribunal de Justiça de Rondônia que inadmitiu recurso especial apresentado contra o acórdão exarado no julgamento da Apelação Criminal n. 0015735-12.2018.8.22.0501 (fls. 3.885/3.934).
+O Ministério Público Federal apresentou parecer opinando pelo não conhecimento do agravo em recurso especial (fls. 4.594/4.604).
+É o relatório.
+O agravo é inadmissível.
+Inicialmente, esclareço que a decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos, inclusive de forma específica, suficiente e pormenorizada, não sendo suficientes meras alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência do óbice da Súmula 182/STJ (AgRg nos EDcl no AREsp n. 2.985.942/MA, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 16/9/2025, DJEN de 25/9/2025).
+No caso em apreço, o Tribunal de origem inadmitiu o apelo nobre pelos seguintes fundamentos (fls. 4.317/1.325): 1) inadequação do recurso especial para apreciação de matérias de índole constitucional (art. 5º, LV e LVII, da CF); 2) incidência da Súmula 284/STF (aplicação analógica), por deficiência de fundamentação no que se refere ao art. 318, III, do Código de Processo Penal; 3) ausência de violação do art. 315, § 2º, IV, do Código de Processo Penal; e 4) incidência da Súmula 7/STJ, por demandar reexame do conjunto fático-probatório nas pretensões de absolvição e de redimensionamento da pena (arts. 155, 153 e 386, V e VII, do CPP; 59 do CP; 33, caput e § 4º, 35, 40, V, e 42 da Lei n. 11.343/2006).
+Todavia, a parte agravante, nas razões do agravo em recurso especial, não impugnou, de maneira específica, a íntegra da decisão de inadmissão.
+Limitou- se a sustentar, de forma genérica, que  n ão se pretende reexaminar fatos e provas, mas sim discutir matéria eminentemente de direito e que o debate trazido à baila não importa reexame de provas. Ao revés, unicamente matéria de direito (fl. 4.529); deixou de impugnar, de modo específico, os fundamentos de inadmissão, especialmente quanto à indispensabilidade do revolvimento probatório tanto para a tese absolutória quanto para o pedido de revisão da dosimetria da pena (fl. 4.527).
+Além disso, nada disse acerca dos fundamentos de inadequação da via especial para a análise de matérias constitucionais e de deficiência de fundamentação (Súmula 284/STF), inexistindo, nas razões, refutação concreta aos vícios apontados.
+Por conseguinte, aplica-se, à hipótese dos autos, o art. 932, III, do Código de Processo Civil, c/c o art. 3º do Código de Processo Penal, e a Súmula 182/STJ por analogia.
+Na mesma linha: AgRg no AREsp n. 2.527.837/AL, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 21/10/2025, DJEN de 28/10/2025; e AgRg no AREsp n. 2.804.469/MS, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 17/6/2025, DJEN de 26/6/2025.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO INTERESTADUAL E ASSOCIAÇÃO PARA O TRÁFICO. OPERAÇÃO SATIVA-EFEUM DECISÃO DE ADMISSIBILIDADE DO TRIBUNAL DE ORIGEM. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA E INTEGRAL DOS FUNDAMENTOS. NÃO OBSERVÂNCIA DO PRINCÍPIO DA DIALETICIDADE RECURSAL. INCIDÊNCIA DA SÚMULA 182/STJ.
+Agravo em recurso especial não conhecido.
