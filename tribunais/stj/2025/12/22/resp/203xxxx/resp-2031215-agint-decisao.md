@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo interno interposto pelo INSTITUTO DE PREVIDÊNCIA DO ESTADO DO RIO GRANDE DO SUL contra a decisão de e-STJ fls. 621/625, em que dei parcial provimento ao recurso especial da parte adversa, a fim de determinar o retorno dos autos à origem para fixação da verba honorária correspondente à execução.
+A parte agravante busca a reforma da decisão.
+Passo a decidir.
+A Primeira Seção desta Corte de Justiça decidiu submeter os REsps 2201535/SP, 2204729/SP e 2204732/SP ao rito de recursos repetitivos (Tema 1.392), para dirimir a seguinte controvérsia: "Definir se, de acordo com o Código de Processo Civil/2015, são devidos honorários advocatícios sucumbenciais em cumprimento de sentença contra a Fazenda Pública, na hipótese de rejeição total ou parcial de impugnação à pretensão executória."
+Encontrando-se os temas afetados à sistemática dos recursos repetitivos, esta Corte Superior orienta que os recursos que tratam da mesma controvérsia devem aguardar o julgamento do paradigma representativo no Tribunal de origem, viabilizando, assim, o juízo de conformação, hoje disciplinado pelo art. 1.040 do CPC/2015.
+A esse respeito, confiram-se os seguintes precedentes: EDcl no REsp 1456224/MS, rel. Ministro Humberto Martins, Segunda Turma, DJe 5/2/2016; AgRg no AgRg no AREsp 552103/RS, rel. Min. Herman Benjamin, Segunda Turma, DJe 28/11/2014; AgRg no AREsp 153829/PI, rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 23/5/2012.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado para esta Corte Superior analisar as questões jurídicas nele suscitadas que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Registre-se que essa medida visa evitar, também, o desmembramento do apelo especial e, em consequência, eventual ofensa ao princípio da unirrecorribilidade ou da unicidade recursal.
+Ante o exposto, RECONSIDERO a decisão de e-STJ fls. 621/625 e DETERMINO A DEVOLUÇÃO DOS AUTOS ao T ribunal de origem, com a respectiva baixa, para que lá fiquem sobrestados aguardando o julgamento do recurso especial repetitivo e, após suas publicações , em observância ao art. 1.040 do CPC/2015: a) negue seguimento ao recurso, se a decisão recorrida coincidir com a orientação emanada por esta Corte; ou b) proceda ao juízo de retratação, na hipótese de o acórdão vergastado divergir da decisão sobre o tema posto em recurso especial repetitivo.
+Publique-se. Intimem-se.
+EMENTA
