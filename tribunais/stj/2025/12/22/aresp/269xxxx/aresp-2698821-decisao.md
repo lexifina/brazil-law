@@ -1,0 +1,39 @@
+DECISÃO
+Em análise, agravo interposto por OI S.A. - EM RECUPERACAO JUDICIAL , contra a decisão que inadmitiu o recurso especial com base na incidência da Súmula 7/STJ.
+Argumenta a parte agravante, em síntese, que: i) houve usurpação de competência do STJ e efetiva negativa de prestação jurisdicional nos termos dos arts. 489, § 1º, IV, e 1.022, II, p.u., II, do CPC (fls. 1104-1107); e ii) afastamento do óbice da Súmula 7/STJ, por se tratar de revaloração jurídica da moldura fática fixada no acórdão recorrido (fls. 1108-1111).
+Como certificado nos autos, transcorreu in albis o prazo para impugnação..
+Decido.
+Atendidos os pressupostos de admissibilidade do agravo, passo à análise do recurso especial, que, por sua vez, não merece prosperar.
+Em breve síntese, a parte argumenta, em suas razões do recurso especial: i) negativa de prestação jurisdicional por omissões sobre levantamento da caução na recuperação judicial, cerceamento de defesa no procedimento do PROCON e falta de distinção de precedentes locais, impondo a anulação do acórdão integrativo (arts. 489, § 1º, IV e VI, e 1.022, II, e parágrafo único, II, do CPC/2015) (fls. 1052-1058; 1062); e ii) violação à Lei 9.784/1999 e ao CDC por ausência de verdade material e motivação adequada, bem como contagem e conhecimento de recurso administrativo, pretendendo a reforma (arts. 2º, caput e parágrafo único, VI e X, 29, 36 e 50, I, II e § 1º, da Lei 9.784/1999; e arts. 55, § 4º, 56, caput e parágrafo único, e 57, caput, da Lei 8.078/1990) (fls. 1059-1061; 1062).
+Inicialmente, convém ponderar que "a alegação de afronta ao art. 1.022 do CPC, de forma genérica, sem a efetiva demonstração de omissão do acórdão recorrido no exame de teses imprescindíveis para o julgamento da lide, impede o conhecimento do recurso especial, ante a deficiência na fundamentação (Súmula 284 do STF)" (AgInt no AREsp n. 1.740.605/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+No caso, a parte recorrente não demonstra, de forma clara, qual seria o ponto omisso, contraditório ou obscuro do acórdão recorrido, bem como a sua importância para o deslinde da controvérsia.
+Tal conduta atrai a aplicação do óbice da Súmula 284 do STF, aplicável, por analogia, no âmbito desta Corte.
+Ademais, o acórdão recorrido assim consignou, em sede de julgamento de Embargos de Declaração:
+" ..  Já no tocante a questão de fundo e, analisando os autos originários, e os argumentos, esposados pela Agravante, verifico que inexistem novos fatos e fundamentos que convençam da reconsideração da decisão recorrida, porque pontuou todas as questões trazidas ao debate, e foi claro ao consignar que o processo administrativo teve regular processamento com as notificações para informações preliminares, notificação para audiência de conciliação, notificação para apresentar impugnação e notificação das decisões administrativas, em todas constando a apuração dos fatos/responsabilidade mediante decisões fundamentadas e, sobretudo, com a observância dos princípios constitucionais do contraditório e ampla defesa, tudo em consonância com o disposto artigo 5º, LIV e LV da CR/88.
+Nota-se, portanto, que não há falar em cerceamento de defesa na fase administrativa.
+Assim, pelas provas constantes nos autos que a multa questionada foi legitimamente imposta pelo PROCON, em decorrência de infração às normas de defesa do consumidor, tendo sido respeitado o devido processo administrativo para sua constituição. Consubstanciado no Decreto n. 3.571, de 27/07/04, art. 2 e seguintes, o PROCON, na qualidade de órgão que tem por objetivo a proteção e a defesa dos consumidores, está legitimado a apurar as infrações nas relações de consumo:
+ ..
+Assim, é plenamente válido o procedimento administrativo instaurado pelo órgão fiscalizador, porque o PROCON detém competência para, por ato próprio, fiscalizar o cumprimento do dispositivo da lei consumerista.
+Desse modo, como bem observado pelo Juiz singular, o órgão fiscalizatório, ao aplicar a multa administrativa objeto da presente demanda, obedeceu ao previsto em lei, uma vez que, considerando que referida multa tem força coercitiva, o valor arbitrado não se afigura excessivo, porquanto se deu com base na regulamentação dada à matéria, conforme predispõe o Código de Defesa do Consumidor. Veja-se:
+ ..
+Diante dessas premissas, não há falar em multa excessiva, porquanto esta foi determinada por meio de processo administrativo em estrita observância ao devido processo legal e dentro dos limites estabelecidos por lei, sendo, inclusive, assegurado o direito ao contraditório e à ampla defesa à parte Recorrida.
+Ademais, a Recorrente não trouxe nenhum indício de prova de que a multa acarretaria dano em seu ativo financeiro, ficando apenas no campo das alegações, ou seja, não há evidência do fato alegado.
+Frise-se que a multa aplicada pelo PROCON é decorrente do exercício do poder de polícia, e os documentos constantes dos autos não demonstram a ocorrência de vício no processo administrativo.
+ ..
+(fls. 1028-1037, grifos nossos).
+Especificamente quanto à alegação de omissão relativamente ao levantamento da garantia (fl. 1052), a decisão proferida no recurso de apelação é clara no sentido de que "No que tange ao pedido de levantamento da garantia depositada, tenho que o Juiz a quo, será o competente para analisar a questão, haja vista que foi encerrada a discussão, com o retorno dos autos a comarca de origem" (fl. 926).
+Nesse espeque, convém rememorar que o espectro de cognição do recurso especial não é amplo e ilimitado, como nos recursos comuns, mas, ao invés, é restrito aos lindes da matéria jurídica delineada pelas instâncias ordinárias.
+Assim sendo, observa-se que a alteração da conclusão do Tribunal a quo, ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7 do STJ.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. PRINCÍPIO DA COLEGIALIDADE. OFENSA. INEXISTÊNCIA NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. MULTA. PROCON. LEGALIDADE. DOSIMETRIA DA PENA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+1. Afastada a afronta ao princípio da colegialidade, porquanto o art. 932, III, do CPC/2015, c/c o art. 253, I e II, do RISTJ autoriza o relator a julgar monocraticamente o agravo em recurso especial, nas situações ali descritas.
+2. Não há violação do art. 489 do CPC/2015 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+2. É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+3. Hipótese em que o Tribunal de origem reconheceu a legalidade da sanção imposta pelo PROCON, registrando, ainda, que foram observados os critérios legais para fixação do valor da multa administrativa.
+4. A alteração do julgado demandaria a apreciação do processo administrativo, providência incompatível com a via estreita do recurso especial, sendo certo, ainda, que a revisão do valor da multa somente é possível em hipóteses excepcionais, quando verificada a ofensa aos princípios da razoabilidade e proporcionalidade, situação não evidenciada nos autos.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.158.659/GO, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 12/6/2023, DJe de 16/6/2023, grifo nosso).
+Isso posto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo, para não conhecer do recurso especial.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+EMENTA
