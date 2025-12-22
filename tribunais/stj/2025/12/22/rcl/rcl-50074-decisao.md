@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de Reclamação, com pedido liminar, ajuizada por VENICIO BACELLAR COSTA, apontando descumprimento de ordem emanada por esta Corte, no HC n. 1.037.486/BA, pelo Juízo da 2ª Vara das Garantias de Salvador/BA.
+Em suas razões, o reclamante relata que esta Corte, por meio de decisão proferida em 3/10/2025, no HC n. 1.037.486/BA, determinou a substituição de sua custódia preventiva por prisão domiciliar humanitária, na forma do art. 318, inciso III, do Código de Processo Penal, com a imposição de monitoração eletrônica, além de outras que o juízo julgasse pertinentes.
+Conta que, em 8/10/2025, o juízo determinou a substituição da cautelar constritiva domiciliar pela obrigatoriedade de comparecimento mensal em juízo para firmar termo de controle, tendo sido expedido alvará de soltura em seu favor, que não foi cumprido de imediato.
+Alega que, no dia 9/10/2025, sobreveio decisão do Juiz da 2ª Vara das Garantias de Salvador/BA que, acolhendo promoção ministerial, decretou a custódia preventiva do reclamante, com a expedição de mandado de prisão.
+Sustenta que houve uma "manobra jurídica" para mantê-lo encarcerado.
+Requer, liminarmente, a expedição de alvará de soltura em seu favor, até o julgamento final desta Reclamação.
+Ao final, pugna pela anulação da decisão reclamada, restabelecendo-se integralmente a autoridade da decisão proferida por esta Corte.
+Indeferida a liminar (e-STJ, fls. 325-327) e prestadas as informações (e-STJ, fls. 335-338 e 339-345), o Ministério Público opinou pela prejudicialidade do pedido (e-STJ, fls. 347-348).
+É o relatório.
+Decido.
+A reclamação constitucional, nos termos do art. 105, inciso I, alínea f, da Constituição da República e dos arts. 187 e seguintes do Regimento Interno do Superior Tribunal de Justiça, tem por finalidade preservar a competência desta Corte ou garantir a autoridade de suas decisões.
+No caso, a admissibilidade e o próprio interesse processual da presente reclamação pressupõem a subsistência e a eficácia da decisão proferida no habeas corpus de referência (HC n. 1.037.486/BA), cuja autoridade se pretende resguardar.
+Todavia, conforme bem destacado no parecer ministerial, verifica-se a ocorrência de fato superveniente apto a esvaziar o objeto da reclamação.
+Com efeito, nos autos do HC n. 1.037.486/BA, a decisão que havia concedido a prisão domiciliar humanitária ao ora reclamante foi expressamente reconsiderada, em razão do agravo regimental interposto pelo Ministério Público Federal. Em nova análise do feito, concluiu-se não estar demonstrada a imprescindibilidade do reclamante para os cuidados do filho menor portador de transtorno do espectro autista, uma vez constatado que a criança se encontra assistida diariamente pela genitora, com o auxílio de babá e de profissionais de saúde particulares.
+Diante dessa reconsideração, foi restabelecida a validade da prisão preventiva, afastando-se o fundamento que sustentava a concessão da prisão domiciliar humanitária.
+Nesse contexto, a decisão posteriormente proferida pelo Juízo da 2ª Vara das Garantias da Comarca de Salvador/BA, em 9/10/2025, que decretou a prisão preventiva do reclamante, já não pode ser compreendida como ato de descumprimento ou de afronta à autoridade de decisão deste Superior Tribunal de Justiça, porquanto inexistente, naquele momento, comando judicial vigente que assegurasse ao reclamante o direito à prisão domiciliar.
+Assim, ausente o pressuposto essencial ao processamento da reclamação - qual seja, a existência de decisão desta Corte cuja autoridade esteja sendo efetivamente violada -, resta configurada a perda superveniente do objeto.
+A jurisprudência desta Corte é firme no sentido de que a superveniência de decisão que revoga ou modifica o provimento judicial cuja autoridade se busca preservar conduz ao reconhecimento da prejudicialidade da reclamação, por ausência de interesse processual.
+Nos termos do parecer ministerial:
+A Reclamação Constitucional tem como finalidade precípua preservar a competência do Tribunal ou garantir a autoridade de suas decisões. A admissibilidade da presente Rcl 50.074/BA pressupõe a existência e a vigência da decisão proferida no habeas corpus de referência (HC 1.037.486/BA), cuja autoridade se busca resguardar.
+Contudo, uma análise dos autos do HC 1.037.486/BA demonstra a ocorrência de fato superveniente que esvazia o objeto da Reclamação: a própria decisão que concedia o benefício foi expressamente reconsiderada, em razão do agravo regimental interposto pelo Ministério Público Federal.
+Com efeito, o Ministro verificou, com base em melhor análise dos autos, que, embora o convívio do agravado com o filho (portador de transtorno do espectro autista de nível 3) proporcionasse maior bem-estar, não havia prova concreta da sua imprescindibilidade aos cuidados da criança. O menor estava sendo assistido diariamente pela mãe, com a ajuda de uma babá e profissionais de saúde particulares.
+Assim, com a revogação do comando judicial que concedia a prisão domiciliar humanitária, a nova prisão preventiva decretada pela 2ª Vara das Garantias de Salvador/BA em 09/10/2025 - a despeito das alegações de "manobra jurídica" pela defesa - não pode mais ser considerada um ato de descumprimento ou violação à autoridade do STJ.
+Dessa forma, o pressuposto fundamental para o processamento da Reclamação restou prejudicado. Pelo exposto, opina o Ministério Público Federal pelo reconhecimento da prejudicialidade da Reclamação Constitucional Criminal, em razão da perda superveniente do objeto. (e-STJ, fls. 347-348)
+Diante do exposto, julgo prejudicada a presente reclamação.
+Publique-se. Intime-se.
+EMENTA
