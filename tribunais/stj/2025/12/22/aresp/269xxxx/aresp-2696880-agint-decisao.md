@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo interno interposto pelo INSTITUTO ANJOS DO MAR -IAMB contra decisão da Presidência do Superior Tribunal de Justiça que não conheceu do respectivo recurso especial (fls. 1329-1330).
+Afirma a parte agravante, nas razões do agr avo interno (fls. 1338-1343), que, ao contrário do consignado na decisão agravada, a não indicação do permissivo constitucional não impede a compreensão da controvérsia, na medida em que foi devidamente esclarecido, nas razões do apelo nobre, que o acórdão proferido pela Corte de origem malferiu o inciso II do art. 25 da Lei n. 8.666/93, sendo, por conseguinte, incabível o óbice da Súmula n. 284 do STF.
+Foi apresentada impugnação (fl. 1353-1355).
+O Ministério Público Federal apresentou parecer, opinando pelo não conhecimento do agravo interno (fls. 1392-1395).
+É o relatório.
+Decido.
+Diante da relevância dos argumentos veiculados no presente agravo interno, reconsidero a decisão agravada (fls. 1329-1330) e passo a novo exame do agravo em recurso especial.
+Consta dos autos que o Juízo de primeiro grau julgou procedentes os pleitos veiculados na ação de reintegração de posse ajuizada pelos ora Agravados (fls. 1096-1100).
+O Tribunal de origem negou provimento às apelações (fls. 1211-1219). A propósito, a ementa do referido julgado (fl. 1218):
+ADMINISTRATIVO. PROCESSUAL CIVIL. JULGAMENTO ULTRA PETITA. INOCORRÊNCIA. QUESTÃO PREJUDICIAL. AÇÃO DE REINTEGRAÇÃO DE POSSE. CESSÃO DE USO NÃO ONEROSO. OCUPAÇÃO IRREGULAR. RELEVÂNCIA DAS ATIVIDADES DESENVOLVIDAS. AUSÊNCIA DE LEGITIMAÇÃO. DESOCUPAÇÃO DO BEM. DESPROVIMENTO.
+1. No caso dos autos, condicionar o início do prazo para desocupação do imóvel à conclusão do processo administrativo em que postulada a regularização da ocupação - independentemente da solução dada - não vai além das questões suscitadas no feito e, portanto, não caracteriza julgamento ultra petita. A questão debatida no processo administrativo revela-se prejudicial à execução da ordem reintegratória. Isso porque, deferida a regularização da cessão, não mais subsistiria razão para reintegração.
+2. Os bens públicos federais contam com regime jurídico especial próprio, tratado no Decreto-Lei 9.760/1946, que estabelece no art. 71 que, inexistindo autorização expressa do Poder Público Federal para a ocupação de área pública, o ocupante poderá ser sumariamente despejado e perderá, sem direito a qualquer indenização, tudo quanto haja incorporado ao solo.
+3. Findo o prazo estabelecido no contrato, a ocupação do bem público revela-se indevida e configura mera detenção, de natureza precária, cabendo a requisição pelo Poder Público a qualquer tempo. Assim, expressamente notificado o demandado para desocupação da área questionada, resta caracterizado o esbulho possessório e não há falar em permissão tácita para permanência.
+4. A circunstância de o Instituto-réu prestar serviços de interesse público à comunidade local, intrinsecamente ligados à atividade portuária, embora relevante e devidamente considerada pelo juízo de primeiro grau - que se empenhou em buscar uma solução consensual para a controvérsia, inclusive mediante regularização da ocupação - não legitima a ocupação, nem autoriza que permaneça na detenção de bem público sem ato administrativo correspondente.
+5. Apelos desprovidos.
+Sustenta a parte agravante, nas razões do apelo nobre, contrariedade ao art. 25, inciso II, da Lei n. 8.666/93; bem como aos arts. 11 e 56 da Resolução n. 2.240/2011 da Agência Nacional de Transportes Aquaviários - ANTAQ.
+Pondera que, na hipótese dos autos, a ANTAQ entendeu existir apenas uma ilegalidade, qual seja, ter havido arrendamento e não ter sido adotado o correto processo de cessão não onerosa, sendo certo que essa mácula poderia ser facilmente solucionada, por meio do reconhecimento de inexigibilidade de licitação, porquanto não existe caráter competitivo na espécie.
+Esclarece que "a alegada ausência de competitividade, além de tudo, pode ser comprovada por inúmeras formas, mas a principal, indubitavelmente, se dá pela inexistência de outra entidade pública ou privada em nosso país que realize o mesmo trabalho que o Recorrente, dada a singularidade da atividade" (fl. 1252).
+Foram apresentadas contrarrazões (fls. 1268-1276). O recurso especial não foi admitido (fls. 1283-1285). Foi interposto agravo (fls. 1303-1309).
+A Presidência do Superior Tribunal de Justiça não conheceu do recurso especial (fls. 1329-1330), a qual é reconsiderada no presente decisum.
+Pois bem, o Tribunal de origem não apreciou a tese de afronta ao inciso II do art. 25 da Lei n. 8.666/93 sob o enfoque trazido no recurso especial, sem que a parte recorrente tenha oposto embargos de declaração, motivo pelo qual está ausente o necessário prequestionamento, nos termos das Súmulas n. 282 do STF ("É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada") e 356 do STF ("O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento").
+Com efeito, para que a matéria seja considerada prequestionada, ainda que não seja necessária a menção expressa e numérica aos dispositivos violados, é indispensável que a controvérsia recursal tenha sido apreciada pela Corte de origem sob o prisma suscitado pela parte recorrente no apelo nobre.
+Nesse sentido:
+ ..
+5. Inviável o conhecimento do recurso especial quando a Corte a quo não examinou a controvérsia sob o enfoque do art. 386, tampouco foram opostos os competentes embargos de declaração a fim de suscitar omissão quanto a tal ponto. Aplicação do Enunciado Sumular 282/STF.
+ ..
+(AgInt no AREsp n. 2.344.867/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 9/10/2023, DJe de 16/10/2023.)
+ ..
+1. Nos termos da jurisprudência desta Corte, "para que se configure o prequestionamento, não basta que a parte recorrente devolva a questão controvertida para o Tribunal, em suas razões recursais. É necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a eles vinculada, interpretando-se a sua aplicação ou não, ao caso concreto."
+ ..
+(AgInt no REsp n. 1.997.170/CE, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 26/6/2023, DJe de 30/6/2023.)
+ ..
+3. Em face da ausência de prequestionamento da matéria, incabível o exame da pretensão recursal por esta Corte, nos termos das Súmulas ns. 282 e 356 do STF.
+ ..
+(AgInt no AREsp n. 1.963.296/SP, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 15/4/2024, DJe de 23/4/2024.)
+Na mesma linha de entendimento: AgInt no AREsp n. 2.109.595/MG, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 20/5/2024, DJe de 27/5/2024; AgInt no AREsp n. 2.312.869/RJ, relator Ministro Francisco Falcão, Segunda Turma, julgado em 25/9/2023, DJe de 27/9/2023.
+Por outro lado, o recurso especial não comporta conhecimento quanto à tese de violação aos arts. 11 e 56 da Resolução da ANTAQ n. 2.240/2011, pois Resoluções, Portarias e Instruções Normativas não se enquadram no conceito de lei federal constante do art. 105, inciso III, da Constituição da República. Nesse sentido: EDcl no AgInt nos EDcl no REsp n. 1.932.247/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 12/12/2023, DJe de 24/1/2024; AgInt no REsp n. 2.046.250/PR, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 20/11/2023, DJe de 23/11/2023.
+Ante o exposto, DOU PROVIMENTO ao agravo interno, a fim de reconsiderar a decisão de fls. 1329-1330 para CONHECER do agravo e, por outros fundamentos, NÃO CONHECER do recurso especial.
+Em atenção ao disposto no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado (fls. 1100 e 1216 ), respeitados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, bem como eventual concessão da gratuidade de justiça.
+Advirto as partes, desde logo, de que a eventual interposição de agravo interno, declarado manifestamente inadmissível ou improcedente, ou de embargos de declaração, manifestamente protelatórios, poderá ensejar a aplicação de multa, nos termos, respectivamente, do art. 1.021, § 4º, e art. 1.026, § 2º, ambos do Código de Processo Civil.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REINTEGRAÇÃO DE POSSE. OCUPAÇÃO IRREGULAR. ALEGAÇÃO DE AFRONTA AO ART. 25, INCISO II, DA LEI N. 8.666/93. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. PRETENSA CONTRARIEDADE AOS ARTS. 11 E 56 DA RESOLUÇÃO DA ANTAQ N. 2.240/2011. IMPOSSIBILIDADE DE EXAME NA VIA DO APELO NOBRE. DECISÃO RECONSIDERADA. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
