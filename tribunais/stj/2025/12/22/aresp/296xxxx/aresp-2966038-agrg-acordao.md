@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Maria Marluce Caldas votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CONDUÇÃO DE VEÍCULO AUTOMOTOR SOB INFLUÊNCIA DE ÁLCOOL. MATERIALIDADE. COMPROVAÇÃO. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O Superior Tribunal de Justiça consolidou a tese de que o crime de embriaguez ao volante é de perigo abstrato, dispensando a obrigatoriedade do teste do etilômetro e admitindo outros meios de prova para a comprovação da embriaguez (ut, (AgRg no AREsp n. 2.067.295/PR, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 9/5/2023, DJe de 12/5/2023.)
+2. Consta do acórdão (e-STJ fls. 599/602) que a materialidade delitiva foi comprovada por meio dos seguintes documentos: Termo de Alteração da Capacidade Psicomotora, na ficha de atendimento médico e no laudo pericial. Além disso, destaca-se o depoimento dos policiais, em juízo, afirmando que tiveram contado com o recorrente na UPA e puderam constatar a sua embriaguez.
+3. Para rever esse entendimento seria necessário o reexame dos fatos. Incidência da Súmula n. 7 do STJ.
+4. Agravo regimental não provido.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão de e-STJ fls. 770/773, de minha relatoria, em que conheci do agravo para negar provimento ao recurso especial por estar o acórdão recorrido em harmonia com a jurisprudência desta Corte, firme no sentido de que o crime de embriaguez ao volante é de perigo abstrato, dispensando a obrigatoriedade do teste do etilômetro e admitindo outros meios de prova para a comprovação da embriaguez.
+A defesa se insurge contra essa decisão alegando que os documentos utilizados para a comprovação da embriaguez são apócrifos, o que lhes retira a validade.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CONDUÇÃO DE VEÍCULO AUTOMOTOR SOB INFLUÊNCIA DE ÁLCOOL. MATERIALIDADE. COMPROVAÇÃO. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O Superior Tribunal de Justiça consolidou a tese de que o crime de embriaguez ao volante é de perigo abstrato, dispensando a obrigatoriedade do teste do etilômetro e admitindo outros meios de prova para a comprovação da embriaguez (ut, (AgRg no AREsp n. 2.067.295/PR, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 9/5/2023, DJe de 12/5/2023.)
+2. Consta do acórdão (e-STJ fls. 599/602) que a materialidade delitiva foi comprovada por meio dos seguintes documentos: Termo de Alteração da Capacidade Psicomotora, na ficha de atendimento médico e no laudo pericial. Além disso, destaca-se o depoimento dos policiais, em juízo, afirmando que tiveram contado com o recorrente na UPA e puderam constatar a sua embriaguez.
+3. Para rever esse entendimento seria necessário o reexame dos fatos. Incidência da Súmula n. 7 do STJ.
+4. Agravo regimental não provido.
+VOTO
+O agravo regimental não merece acolhida.
+Com efeito, dessume-se das razões recursais que o agravante não trouxe elementos suficientes para infirmar a decisão agravada, que, de fato, apresentou a solução que melhor espelha a orientação jurisprudencial do Superior Tribunal de Justiça sobre a matéria.
+Os elementos existentes nos autos informam que o recorrente foi condenado à pena de 6 meses de detenção, em regime aberto, substituída a pena corporal por restritiva de direitos, pelo cometimento do crime do art. 306 do Código de Trânsito Brasileiro.
+A defesa se insurge contra essa decisão, alegando que os documentos juntados aos autos são apócrifos, não servindo para comprovar a materialidade delitiva. Sobre o tema, o TJMG assim se pronunciou:
+Inicialmente, verifico que a materialidade do delito encontra suficiente comprovação no Termo de Alteração da Capacidade Psicomotora, na ficha de atendimento médico e no laudo pericial (doc. de ordem nº 04).
+A perícia indireta, não obstante a irresignação defensiva, indicou que o paciente estava embriagado pelo álcool, havendo relato de consumo de "destilados".
+Em relação à autoria, verifica-se suficientemente comprovada, na medida em que a palavra daqueles que tiveram contato direto com o réu evidencia que ele, no momento do acidente de carro que o vitimou, encontrava-se conduzindo veículo automotor em estado de embriaguez.
+O policial militar Douglas Alves de Oliveira, também em Juízo (PJE Mídias), disse que se recorda da ocorrência. Afirmou que houve o acionamento de policiais "via 190" e que, ao chegar no local, o réu já havia sido socorrido. Disse que viu o acusado na UPA, mas que não teve contato direto com ele. Questionado, disse que viu o acusado e pode perceber que o réu estava embriagado, destacando que ele apresentava olhos vermelhos, hálito etílico e fala desconexa.
+Vanderlúcio Vital de Souza, também policial militar, disse que houve acionamento da polícia em razão de um acidente de trânsito, razão pela qual foi ao local, onde já estava a equipe de socorro, que levou o réu para a UPA. Disse que compareceu ali em seguida, onde teve conversa com o réu, sendo possível ver que ele estava com olhos bem vermelhos, sem conseguir explicar direito o que havia acontecido, apresentando versões desconexas e confirmando que fez o uso de bebida alcoólica. Questionado, disse que o réu estava com olhos vermelhos, hálito etílico e sem noção de tempo e espaço. Questionado pela defesa, afirmou categoricamente que, pela sua experiência, ainda que sabendo que acidentes como aquele podem causar confusão mental no indivíduo, a situação verificada era de ingestão de bebida alcoólica.
+ ..
+Portanto, diferentemente do que pretende fazer crer a defesa, há nos autos suficientes elementos no sentido de que o ora recorrente, de fato, encontrava-se embriagado no momento em que conduziu veículo automotor, vindo a se acidentar, sendo flagrado em tal condição pelos policiais ouvidos ao longo da instrução e também pelo serviço médico que o atendeu e que assim atestou.
+A alegação de insuficiência probatória, no tocante ao crime do artigo 306 do CTB, não deve prosperar, portanto, já que robusta a prova colhida na instrução e ausente qualquer elemento que traga um mínimo de dúvida ao julgador.
+Ainda que tenha o réu sustentado que não havia feito uso de bebida alcoólica quando dos fatos, não há qualquer outro elemento que corrobore tal versão, não sendo a isolada negativa apresentada em autodefesa suficiente para infirmar todo o restante do arcabouço probatório. (e-STJ fls. 599/602)
+Assinala-se, de início, que o Superior Tribunal de Justiça consolidou a tese de que o crime de embriaguez ao volante é de perigo abstrato, dispensando a obrigatoriedade do teste do etilômetro e admitindo outros meios de prova para a comprovação da embriaguez (ut, AgRg no AREsp n. 2.067.295/PR, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 9/5/2023, DJe de 12/5/2023).
+Ainda nessa linha:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME DO ART. 302, PARÁGRAFO ÚNICO, INCISO II, E ART. 310, AMBOS DA LEI N. 9.503/1997. PRESCRIÇÃO. INDEVIDA SUPRESSÃO DE INSTÂNCIA. ABSOLVIÇÃO. REVOLVIMENTO FÁTICO PROBATÓRIO. IMPOSSIBILIDADE. CRIME DO ART. 310 DA LEI N. 9.503/1997. CRIME DE PERIGO ABSTRATO. REGIME INICIAL SEMIABERTO. INEXISTÊNCIA DE ILEGALIDADE. AGRAVO DESPROVIDO.
+1. O capítulo acerca da a prescrição do crime do artigo 310 do CTB não foi objeto de julgamento no acórdão impugnado, o que impede seu conhecimento por este Tribunal Superior, ainda que se fale ter sido pedido subsidiário, sob pena de indevida supressão de instância.
+2. O habeas corpus não se presta para a apreciação de alegações que buscam a absolvição do paciente ou alteração de classificação típica em razão de conclusões acerca do contexto fático, em virtude da necessidade de revolvimento do conjunto fático-probatório, o que é inviável na via eleita.
+3. No caso, as instâncias ordinárias, mediante valoração do acervo probatório produzido nos autos, entenderam, de forma fundamentada, haver prova da materialidade e de autoria do crime de homicídio culposo em estado de embriaguez, mediante prova testemunhal de transeuntes e dos policiais. De fato, restou reconhecida a coautoria do paciente com a condutora do veículo, haja vista ter ele entregado o volante à pessoa inabilitada, imperita e, ainda, embriagada, agindo de forma bastante imprudente. Inviável, pois, nesta célere via do habeas corpus, que exige prova pré-constituída, pretender conclusão diversa.
+ ..
+8. Agravo regimental desprovido. (AgRg no HC n. 660.844/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 10/5/2022, DJe de 16/5/2022).
+Exatamente como na espécie, em que a materialidade delitiva foi comprovada por meio dos seguintes documentos: Termo de Alteração da Capacidade Psicomotora, na ficha de atendimento médico e no laudo pericial. Além disso, destaca-se o depoimento dos policiais em juízo afirmando que tiveram contado com o recorrente na UPA e puderam constatar a sua embriaguez.
+Para rever esse entendimento seria necessário o reexame dos fatos. Incidência da Súmula n. 7 do STJ.
+Em arremate, consigna-se que "é pacífica a jurisprudência deste Superior Tribunal de Justiça no sentido de que os depoimentos prestados por policiais têm valor probante, na medida em que seus atos são revestidos de fé pública, sobretudo quando se mostram coerentes e compatíveis com os demais elementos de prova dos autos, e ausentes quaisquer indícios de motivos pessoais para a incriminação injustificada do investigado, como na espécie" (AgRg no AREsp n. 2.408.638/PA, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 21/11/2023, DJe 27/11/2023).
+Portanto, nenhuma censura merece o decisório ora recorrido, que deve ser mantido pelos seus próprios e jurídicos fundamentos.
+Com essas considerações, nego provimento ao agravo regimental.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
