@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por GILSONEI NEGREIRO RODRIGUES contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DA BAHIA que denegou a ordem no writ de origem.
+O recorrente foi denunciado em 2/9/2022, e teve a prisão preventiva decretada em 10/6/2025, pois incurso no art. 121, § 2º, I e IV, c/c o art. 14, II, do Código Penal.
+Neste recurso, a defesa alega, em síntese, ausência de fundamentação idônea para a prisão preventiva, bem como dos requisitos autorizadores previstos no art. 312 do CPP.
+Assevera que o paciente é primário, possui residência fixa, citado regularmente e por não ter sido preso em flagrante, vem respondendo o processo em liberdade, de modo que não haveria risco à aplicação da lei penal nem à ordem pública.
+Pontua que, após o acusado ser localizado e citado, o MP, por iniciativa própria, solicitou a revogação da prisão, ao entender que não havia fundamentos que justificassem a sua manutenção.
+Requer, liminarmente e no mérito, o provimento do recurso para revogar a prisão preventiva ou aplicar as medidas alternativas (art. 319 do CPP).
+A liminar foi indeferida (fls. 190-192).
+As informações foram prestadas (fls. 194-200).
+O Ministério Público Federal manifestou pelo não provimento do recurso (fls. 206-224).
+É o relatório.
+O recurso é tempestivo e deve ser conhecido. Passa-se ao exame do mérito.
+A prisão preventiva justifica-se apenas quando devidamente demonstrada sua imprescindibilidade para a preservação da ordem pública, a garantia da regularidade da instrução criminal ou a asseguração da eficácia da aplicação da lei penal, nos termos do art. 312 do Código de Processo Penal.
+O decreto prisional foi assim fundamentado (fls. 82-83):
+ ..  A materialidade delitiva está comprovada pelo Laudo de Exame de Lesões Corporais e os indícios de autoria pelos depoimentos testemunhais colhidos em sede policial, que foram "uníssonos em afirmar que o autor do disparo foi o ora indiciado", além da confissão do próprio acusado em seu interrogatório policial.
+O réu encontra-se em local incerto e não sabido, tendo se evadido do distrito da culpa. Mesmo com a implementação de medidas cautelares menos gravosas (suspensão de CNH e CPF), o acusado não compareceu em juízo, demonstrando claro intento de furtar-se à aplicação da lei penal.
+A gravidade do delito imputado (tentativa de homicídio qualificado), com pena máxima de 30 anos de reclusão, aliada à fuga do réu, evidencia o risco concreto de que se mantenha foragido, prejudicando o regular andamento do processo e a eventual execução de futura sentença condenatória.
+As medidas cautelares anteriormente aplicadas (suspensão de CNH e CPF) mostraram-se insuficientes para compelir o comparecimento do acusado em juízo, sendo necessária medida mais enérgica.
+A prisão preventiva revela-se necessária para assegurar que o réu não continue se furtando à aplicação da lei penal, e adequada ante a gravidade do delito e a ineficácia das medidas menos gravosas já implementadas. ..
+Conforme já antecipado no exame da liminar, há fundamentação idônea à decretação da prisão preventiva, diante da acentuada periculosidade do réu, ora recorrente, evidenciada em sua conduta violenta, destacando-se, ainda, o risco à aplicação da lei penal, pois se encontrava foragido.
+Nos termos da jurisprudência desta Corte, a constrição cautelar impõe-se pela gravidade concreta da prática criminosa, causadora de grande intranquilidade social, revelada no modus operandi do delito e diante da acentuada periculosidade do acusado, evidenciada na propensão à prática delitiva e conduta violenta.
+"Ademais, aliado ao quadro fático mencionado, o decreto prisional relata, em conformidade com informações extraídas de uma das execuções penais em andamento, a notícia de que o acusado "se evadiu por algum período", circunstância esta que parece indicar risco para a aplicação da lei penal. Segundo a Corte Suprema, "o fato de o paciente permanecer foragido constitui causa suficiente para caracterizar risco à aplicação da lei penal a autorizar a decretação da preventiva" (HC 215663 AgR, Rel. Ministra Rosa Weber, Primeira Turma, julgado em 04/07/2022, DJe 11/07/2022)." (AgRg no RHC n. 187.651/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/9/2024, DJe de 12/9/2024).
+Desse modo, são inaplicáveis quaisquer medidas cautelares alternativas previstas no art. 319 do CPP, uma vez que as circunstâncias do delito evidenciam a insuficiência das providências menos graves.
+Por fim , em relação à alegação de que o Parquet local requereu a revogação da prisão preventiva, após entender que já não havia mais fundamentos que a justificassem, a jurisprudência desta Corte entende que tal manifestação não vincula a decisão da autoridade judicial, pois pautada pelo princípio do livre convencimento motivado. Nesse sentido:
+RECURSO EM HABEAS CORPUS. OPERAÇÃO HEXAGRAMA. POLICIAIS MILITARES E CIVIS. ORGANIZAÇÃO CRIMINOSA. CORRUPÇÃO PASSIVA. EXPLORAÇÃO ILEGAL DE JOGOS DE AZAR. MANUTENÇÃO DA PRISÃO PREVENTIVA. AUSÊNCIA DE CONTEMPORANEIDADE. DESPROPORCIONALIDADE DA MEDIDA. SUPRESSÃO DE INSTÂNCIA. PERICULUM LIBERTATIS. MOTIVAÇÃO IDÔNEA. PARECER MINISTERIAL FAVORÁVEL À REVOGAÇÃO DA PRISÃO PREVENTIVA. INDEFERIMENTO DO PLEITO. ILEGALIDADE. NÃO CONFIGURAÇÃO. SUBSTITUIÇÃO POR MEDIDAS DIVERSAS. INSUFICIÊNCIA E INADEQUAÇÃO. RECURSO CONHECIDO EM PARTE E NÃO PROVIDO.
+ ..
+8. Conquanto a defesa não haja suscitado ilegalidade no indeferimento do pedido de revogação da prisão cautelar do réu, a despeito do parecer ministerial favorável, releva salientar que a decisão mencionada não configura a atuação vedada pela Lei n. 13.964/2019 - notadamente, a decretação da prisão preventiva pelo julgador sem prévia representação da autoridade policial ou do Ministério Público.
+9. Com efeito, a decisão que originariamente impôs a cautela extrema decorreu de provocação do Ministério Público, com o intuito de cessar as atividades da suposta organização criminosa em investigação. Apenas em momento posterior, o órgão acusatório manifestou-se favoravelmente a pedido defensivo de revogação da prisão cautelar, o que não foi acolhido pelo Juízo singular.
+10. Em situação que, mutatis mutandis, implica similar raciocínio, decidiu o STF que: "Muito embora o juiz não possa decretar a prisão de ofício, o julgador não está vinculado a pedido formulado pelo Ministério Público.  ..  Após decretar a prisão a pedido do Ministério Público, o magistrado não é obrigado a revogá-la, quando novamente requerido pelo Parquet" (HC n. 203.208 AgR, Rel. Ministro Gilmar Mendes, 2ª T., DJe 30/8/2021).
+11. Não há dúvidas de que configura constrangimento ilegal a conversão de ofício da prisão em flagrante em preventiva do paciente. No entanto, a decisão do magistrado em sentido diverso do requerido pelo Ministério Público, pela autoridade policial ou pelo ofendido não pode ser considerada como atuação ex officio, uma vez que lhe é permitido atuar conforme os ditames legais, desde que previamente provocado, no exercício de seu poder de jurisdição.
+12. Entender de forma diversa seria vincular a decisão do magistrado ao pedido formulado pelo Ministério Público, de modo a transformar o julgador em mero chancelador de suas manifestações, ou de lhe transferir a escolha do teor de uma decisão judicial, em total desapreço à função jurisdicional estatal.
+ ..
+15. Recurso conhecido em parte e não provido.
+(RHC n. 152.086/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 19/4/2022, DJe de 25/4/2022.)
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
