@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso especial interposto por ALISON HENRIQUE GERMANO, com fundamento na alínea a do permissivo constitucional, contra o acórdão proferido pelo Tribunal de Justiça de Minas Gerais na Apelação Criminal n. 1.0105.21.350058-7/001, assim ementado (fl. 199):
+APELAÇÃO CRIMINAL. FURTO. ROMPIMENTO DE OBSTÁCULO. AUSÊNCIA DE LAUDO PERICIAL. DECOTE DA QUALIFICAD ORA. NECESSIDADE. DOSIMETRIA. EXISTÊNCIA DE CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. FIXAÇÃO DA PENA-BASE NO MÍNIMO. DESCABIMENTO. ISENÇÃO DAS CUSTAS. PREJUDICIALIDADE.
+1. A incidência da qualificadora do rompimento de obstáculo depende da realização de perícia, admitindo-se a substituição por outros meios de prova somente em casos excepcionais, que não se verificam na hipótese. Precedente do Superior Tribunal de Justiça.
+2. A existência de circunstância judicial desfavorável impede a fixação da pena-base no mínimo legal.
+3. Concedida a isenção das custas em primeira instância, resta prejudicada a pretensão recursal formulada nesse sentido.
+No recurso especial, a defesa aponta a violação dos arts. 59 e 68 do Código Penal e 617 do Código de Processo Penal, sob a tese de que a Corte de origem incorreu em reformatio in pejus, ao utilizar fração maior do que a utilizada na sentença para o recrudescimento da pena-base em razão da presença de duas circunstâncias judiciais negativas (fls. 230/235).
+Argumenta que, mesmo que tenha sido aplicada a fração de 1/8 sobre a diferença, admitida jurisprudencialmente, o Tribunal de Justiça aumentou a pena-base em recurso exclusivo da defesa, o que deve implicar a redução proporcional da pena-base, já que o julgamento se restringe ao apelo defensivo (fls. 230/235).
+Ao final da peça recursal, requer o provimento da insurgência para que a pena-base seja reduzida de forma proporcional.
+Oferecidas contrarrazões (fls. 239/249), o recurso especial foi admitido na origem (fls. 252/255).
+O Ministério Público Federal opina pelo provimento do recurso especial, nos termos da seguinte ementa (fl. 269):
+RECURSO ESPECIAL. FURTO QUALIFICADO. FURTO SIMPLES. DOSIMETRIA DA PENA. REFORMATIO IN PEJUS. PENA-BASE. CIRCUNSTÂNCIAS JUDICIAIS. EXIGÊNCIA DE REDUÇÃO PROPORCIONAL.
+1. Recurso especial objetivando a reforma do acórdão que, ao desclassificar o furto qualificado para simples, em recurso exclusivo da defesa, manteve na primeira fase da dosimetria a valoração negativa de duas circunstâncias judiciais, porém, utilizou fração de aumento maior que a utilizada na sentença para o recrudescimento da pena-base.
+2. Consolidou-se o entendimento de que a pena-base deve ser reduzida proporcionalmente de acordo com o quantum atribuído pelo juízo sentenciante para cada vetor desabonado, sob pena de reformatio in pejus, na hipótese em que é acolhido recurso exclusivo da defesa, que resulte no afastamento de circunstâncias judiciais negativas, devendo ser desconsiderada a jurisprudência do STJ sobre as frações estipuladas (1/6 ou 1/8), se não tiverem sido observadas na origem.
+3. Parecer pelo provimento do recurso especial.
+É o relatório.
+A defesa alega que mesmo que tenha sido aplicada a fração de 1/8 sobre a diferença, admitida jurisprudencialmente, o Tribunal de Justiça aumentou a pena-base em recurso exclusivo da defesa, o que deve implicar a redução proporcional da pena-base, já que o julgamento se restringe ao apelo defensivo.
+No mesmo sentido, opinou o ilustre parecerista (fls. 68/69):
+
+No caso, a sentença de primeiro grau fixou a pena-base em 02 anos e 06 meses de reclusão, considerando desfavoráveis as circunstâncias e consequências do crime, com aumento de 1/8 sobre a pena mínima (de 2 anos) para cada circunstância negativa (fl. 143).
+O Tribunal de Justiça de Minas Gerais, ao dar parcial provimento ao recurso da defesa para desclassificar o crime de furto qualificado para simples, manteve a valoração negativa das circunstâncias e consequências, porém, ao refazer a dosimetria, utilizou fração de aumento proporcionalmente maior para o recrudescimento da pena-base. Aumentou a pena mínima (de 1 ano) em 5 meses, quando, pela fração utilizada na sentença, resultaria em apenas 3 meses de acréscimo.
+Portanto, essa alteração da metodologia de cálculo da pena-base, em recurso exclusivo da defesa, mesmo que a pena final tenha sido reduzida pela desclassificação do delito, agravou a situação do réu na primeira fase da dosimetria, configurando clara reformatio in pejus, em dissonância com a jurisprudência desse STJ.
+III. Diante do exposto, o parecer é pelo provimento do recurso especial.
+ ..
+A jurisprudência desta Corte estabelece que a exclusão de circunstância judicial na primeira fase da dosimetria impõe a correspondente redução proporcional da pena quando se trata de recurso exclusivo da defesa.
+Confira-se a ementa do julgado que deu origem ao Tema 1.214/STJ, que pacificou o entendimento desta Corte sobre a questão:
+RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA. PENAL. PROCESSO PENAL. APELAÇÃO CRIMINAL. RECURSO EXCLUSIVO DA DEFESA. VALORAÇÃO NEGATIVA DE CIRCUNSTÂNCIA JUDICIAL AFASTADA PELO TRIBUNAL DE ORIGEM. REDUÇÃO PROPORCIONAL DA PENA-BASE. NECESSIDADE.
+1. A questão posta no presente apelo nobre cinge-se a definir se é obrigatória a redução proporcional da pena-base, quando o Tribunal de origem, em sede de julgamento de recurso exclusivo da defesa, decotar circunstância judicial negativada na sentença condenatória, sob pena de, ao não fazê-lo, incorrer em violação da disposição contida no art. 617 do CPP (princípio ne reformatio in pejus).
+2. A Terceira Seção do Superior Tribunal de Justiça já teve oportunidade de se debruçar sobre o tema, quando do julgamento do EREsp n.1.826.799/RS, sufragando o entendimento de ser imperiosa a redução proporcional da pena-base quando o Tribunal de origem, em recurso exclusivo da defesa, afastar uma circunstância judicial negativa do art. 59 do CP reconhecida no édito condenatório.
+3. Ambas as Turmas de Terceira Seção são uníssonas quanto à aplicação do referido entendimento, havendo diversos julgados no mesmo sentido.
+4. Tese a ser fixada, cuja redação original foi acrescida das sugestões apresentadas pelo Ministro Rogério Schietti Cruz (Sessão de julgamento de 28/8/2024): É obrigatória a redução proporcional da pena-base quando o tribunal de segunda instância, em recurso exclusivo da defesa, afastar circunstância judicial negativa reconhecida na sentença. Todavia, não implicam reformatio in pejus a mera correção da classificação de um fato já valorado negativamente pela sentença para enquadrá-lo como outra circunstância judicial, nem o simples reforço de fundamentação para manter a valoração negativa de circunstância já reputada desfavorável na sentença.
+5. No caso concreto, o recorrente foi condenado à pena de 2 anos e 6 meses de reclusão, no regime semiaberto, e ao pagamento de 12 dias multa, pelo crime do art. 155, § 4º, I, do CP. No julgamento da apelação defensiva, o Tribunal de Justiça mineiro afastou a qualificadora do rompimento de obstáculo, sem promover a redução proporcional da pena na primeira fase da dosimetria.
+6. Recurso especial provido para fixar a pena de 1 ano e 2 meses de reclusão, além do pagamento de 11 dias-multa, no valor mínimo legal, mantido o regime semiaberto.
+(REsp n. 2.058.971/MG, de minha relatoria, Terceira Seção, DJe 12/9/2024 - grifo nosso).
+Pelas mesmas razões, mantidas as circunstâncias judiciais pelo Tribunal de origem, deve ser também mantido o mesmo parâmetro utilizado pelo Juiz de primeiro grau para o aumento da pena-base.
+Dessa forma, impõe-se a alteração da pena-base para que o aumento seja calculado em 1/8 da pena mínima abstratamente cominada para o delito para cada circunstância judicial (fl. 143).
+Com essas considerações e obedecidas as diretrizes fixadas pelas instâncias ordinárias não modificadas, passo ao redimensionamento da pena do recorrente.
+Na primeira fase, considerando o quantum de aumento utilizado na sentença, fixo a pena-base em 1 ano e 3 meses de reclusão, e pagamento de 11 dias-multa.
+Diante da compensação entre a atenuante da confissão espontânea e a agravante da reincidência realizada pelas instâncias de origem e, inexistindo causas de diminuição e aumento de pena, fica fixada a pena privativa de liberdade do réu, em definitivo, em 1 ano e 3 meses de reclusão, e pagamento de 11 dias-multa.
+Considerando a fundamentação lançada pelas instâncias ordinárias, mantenho o regime inicial semiaberto e as demais cominações constantes do acórdão.
+Ante o exposto, dou provimento ao recurso especial para reduzir proporcionalmente a pena-base e, em consequência, redimensionar a reprimenda, nos moldes acima expostos.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. FURTO SIMPLES. DOSIMETRIA. VIOLAÇÃO DO ART. 59 E 68 DO CP E ART. 617 DO CPP. TESE DE REFORMATIO IN PEJUS. DESCLASSIFICAÇÃO DO FURTO QUALIFICADO PARA FURTO SIMPLES. VALORAÇÃO NEGATIVA DAS CIRCUNSTÂNCIA E CONSEQUÊNCIAS. FRAÇÃO DE AUMENTO MAIOR. RECRUDESCIMENTO DA PENA-BASE. ILEGALIDADE. REDUÇÃO PROPORCIONAL DA PENA-BASE. NECESSIDADE.
+Recurso especial provido.
