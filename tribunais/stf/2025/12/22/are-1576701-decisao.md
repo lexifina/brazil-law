@@ -1,0 +1,36 @@
+DECISÃO
+
+Trata-se de Agravo em Recurso Extraordinário interposto em face de acórdão do Tribunal de Justiça de Rondônia, assim ementado (Doc. 21, fl. 15):
+
+“Apelação cível. Ação civil pública. Propaganda enganosa. Preliminares de ilegitimidade ativa e falta de interesse de agir, rejeitadas. Falha na prestação dos serviços. Recurso desprovido. O Ministério Público é parte legítima para a propositura de Ação Civil Pública no âmbito do consumidor. O interesse de agir se verifica com a demonstração da situação que entende ser violadora do direito dos consumidores, de forma coletiva e busca a proteção jurisdicional desse direito. Configura propaganda enganosa lançar “promoção” no mercado, induzindo o consumidor a aderir, quando, na verdade, se trata de “jogo” de perguntas e respostas, condicionando às respostas corretas para participar de sorteios.”
+
+Opostos Embargos de Declaração (Doc. 26), foram rejeitados (Doc. 30).
+No Recurso Extraordinário (Doc. 40), interposto com fundamento no art. 102, III, “a”, da Constituição, TIM S.A. aponta violação ao art. 93, IX, da CF/1988, por negativa de prestação jurisdicional.
+Aponta, por outro lado, afronta ao art. 5º, X, da CF/1988, pois fora “condenada ao pagamento de indenização por alegados danos morais coletivos, no valor de R$ 50.000,00 (cinquenta mil reais), SEM QUE TENHA HAVIDO QUALQUER PROVA DO ALEGADO DANO MORAL COLETIVO EM PRIMEIRA E SEGUNDA INSTÂNCIAS” (Doc. 40, fl. 12).
+Afirma que “ao veicular a publicidade da etapa “Clube Mais” da promoção “TIM Clube de Promoções”, a TIM não praticou qualquer ato visando ludibriar os usuários de seus serviços, motivo pelo qual não há que se falar em publicidade enganosa” (Doc. 40, fl. 13).
+Sustenta que “as mensagens recebidas pelo Sr. Jhonatan Borges de Souza não foram enviadas pela TIM, sendo impossível atribuir qualquer responsabilidade (objetiva ou subjetiva) à empresa quanto a supostos e eventuais danos causados por terceiros golpistas, que frustraram sua vítima com falsa notícia de prêmio” (Doc. 40, fl. 18).
+Em exame de admissibilidade (Doc. 48), o RE foi inadmitido aos seguintes argumentos: (a) quanto à violação ao art. 5º, X, da CF/1988, incide a Súmula 284/STF, pois a recorrente não demonstra de que forma teria ocorrido tal violação; e (b) relativamente à afronta ao art. 93, IX, da CF/1988, aplica-se a Súmula 279/STF.
+No Agravo (Doc. 50), a parte agravante refuta a incidência dos referidos óbices sumulares.
+É o relatório. Decido.
+
+Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral que demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+A obrigação do recorrente de apresentar, formal e motivadamente, a repercussão geral que demonstre, sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional, legal e regimental (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do Código de Processo Civil de 2015 e art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal), não se confunde com meras invocações, desacompanhadas de sólidos fundamentos e de demonstração dos requisitos no caso concreto, de que (a) o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico; (b) a matéria não interessa única e simplesmente às partes envolvidas na lide; ou, ainda, de que (c) a jurisprudência do SUPREMO TRIBUNAL FEDERAL é incontroversa no tocante à causa debatida, entre outras alegações de igual patamar argumentativo (ARE 691.595-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/2/2013; ARE 696.347-AgR-segundo, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14/2/2013; ARE 696.263-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; AI 717.821-AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 13/8/2012).
+Não havendo demonstração fundamentada da presença de repercussão geral, incabível o seguimento do Recurso Extraordinário.
+Além disso, quanto à suscitada ofensa ao art. 93, IX, da Carta Magna, o Juízo de origem não destoou do entendimento firmado por esta CORTE no julgamento do AI 791.292-QO-RG/PE (Rel. Min. GILMAR MENDES, Tema 339).
+Nessa oportunidade, o SUPREMO TRIBUNAL FEDERAL assentou que o inciso IX do art. 93 da Constituição Federal de 1988 “exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão”.
+No caso em apreço, a fundamentação do acórdão recorrido alinha-se às diretrizes desse precedente.
+Por fim, relativamente à alegação de inexistência de publicidade enganosa e consequente afastamento da condenação da recorrente ao pagamento de indenização por danos morais coletivos, a análise de tal questão demanda o reexame das provas dos autos, circunstância que atrai a incidência ao caso da Súmula 279/STF (Para simples reexame de prova não cabe recurso extraordinário).
+ Nesse sentido:
+
+“Ementa: Direito do Consumidor. Agravo regimental no recurso extraordinário com agravo. Ação civil pública. Dano moral coletivo. Propaganda enganosa. Interpretação de legislação infraconstitucional. Reexame de fatos e provas. Súmula 279/STF. Agravo regimental não provido. I. Caso em exame 1. Agravo regimental contra decisão que negou seguimento a recurso extraordinário com agravo, diante da incidência da Súmula 279 do STF e da ofensa reflexa ao texto constitucional. II. Questão em discussão 2. Saber se é possível, em sede de recurso extraordinário, o reexame de fatos e provas e a análise de legislação infraconstitucional para infirmar a condenação por dano moral coletivo, ou se tal procedimento é inviabilizado pela Súmula 279 do STF. III. Razão de decidir 3. Hipótese em que, para dissentir do entendimento firmado pelo Tribunal de origem, seria necessário reexaminar os fatos e as provas constantes dos autos e a legislação infraconstitucional pertinente, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 279 do STF e a ausência de ofensa direta à Constituição Federal. IV. Dispositivo 4. Agravo interno a que se nega provimento.” (ARE 1571943 AgR / SP, Relator(a): Min. EDSON FACHIN (Presidente), Tribunal Pleno, DJe de 17/12/2025)
+
+Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO RECURSO EXTRAORDINÁRIO COM AGRAVO.
+Ficam AMBAS AS PARTES advertidas de que:
+- a interposição de recursos manifestamente inadmissíveis ou improcedentes, ou meramente protelatórios, acarretará a imposição das sanções cabíveis;
+- decorridos 15 (quinze) dias úteis da intimação de cada parte sem a apresentação de recursos, será certificado o trânsito em julgado e dada baixa dos autos ao Juízo de origem.
+Publique-se.
+Brasília, 22 de dezembro de 2025.
+
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
