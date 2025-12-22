@@ -1,0 +1,30 @@
+DECISÃO
+Em análise, recurso especial interposto pela UNIÃO, com fundamento no art. 105, inciso III, a, da Constituição Federal, no qual se insurge contra o acórdão do Tribunal Regional Federal da 4ª Região assim ementado (fl. 73):
+ADMINISTRATIVO. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. AGRAVO DE INSTRUMENTO. AGRAVO INTERNO. RE N.º 638.115/STF. INCORPORAÇÃO DE QUINTOS. ART. 535, § 5.º, DO CPC. INAPLICABILIDADE. TEMA 395/STF.
+I. A decisão do STF proferida no RE n.º 638.115, que entendeu pela inexistência do direito de incorporação dos quintos no período de abril de 1998 a setembro de 2001, foi proferida em 18/03/2015.
+II. Inaplicável o disposto no art. 535, § 5.º, do CPC, eis que a decisão proferida pelo STF é posterior ao trânsito em julgado do título executivo. III. Com efeito, a questão envolvendo o Tema STF n.º 395 e sua aplicação, ou não, ao caso concreto foi debatida quando do julgamento da quaestio pelo TRF da 4ª Região e, ato contínuo, pelo próprio Supremo Tribunal Federal, concluindo-se pela modulação do referido tema ao caso concreto.
+Os embargos de declaração opostos foram parcialmente providos apenas para fins de prequestionamento.
+A parte recorrente alega violação dos arts. 927, inciso I, do Código de Processo Civil; 884 do Código Civil; 15 da Medida Provisória 1.595-14 (convertida na Lei 9.527/1997); 3º e 10 da Lei 8.911/1994; 3º da Lei 9.624/1998 e 2º, § 3º, da Lei 12.376/2010.
+Sustenta a inexigibilidade do título executivo judicial. Argumenta que o Supremo Tribunal Federal, no julgamento do RE 638.115 (Tema 395), declarou a inconstitucionalidade da incorporação de "quintos" no período de 8/4/1998 a 4/9/2001, e que a modulação de efeitos realizada pela Corte Suprema limitou-se a impedir a repetição de indébito e a manter o pagamento mensal das parcelas já incorporadas (para o futuro), não autorizando o pagamento de valores retroativos (atrasados). Aduz que a manutenção da execução enseja enriquecimento ilícito e viola o sistema de precedentes obrigatórios.
+Contrarrazões apresentadas às fls. 127-145, nas quais o recorrido sustenta a incidência da Súmula 7 do STJ e afirma que o próprio STF, no julgamento do RE 1.415.174/RS (nesse mesmo processo), reconheceu o direito ao recebimento dos valores administrativos com base na modulação.
+O recurso foi admitido na origem (fl. 148).
+É o relatório.
+Passo a decidir.
+O recurso não merece prosperar.
+O Tribunal de origem negou provimento à pretensão da União de extinguir a execução, fundamentando-se na premissa de que a aplicabilidade do Tema 395/STF e sua respectiva modulação já foram objeto de análise específica e definitiva na fase de conhecimento deste processo.
+Confira-se trecho da ementa acórdão recorrido (fl. 73):
+III. Com efeito, a questão envolvendo o Tema STF n.º 395 e sua aplicação, ou não, ao caso concreto foi debatida quando do julgamento da quaestio pelo TRF da 4ª Região e, ato contínuo, pelo próprio Supremo Tribunal Federal, concluindo-se pela modulação do referido tema ao caso concreto.
+Nas razões do recurso especial, a União limita-se a defender a tese geral de que a modulação de efeitos do Tema 395 não abarca o pagamento de valores retroativos, citando legislação infraconstitucional e o dever de observância aos precedentes.
+Contudo, para acolher a argumentação da recorrente e afastar a conclusão do Tribunal a quo  de que o título judicial exequendo foi formado considerando a decisão específica do STF para o caso concreto, a qual teria autorizado a aplicação da modulação  seria imprescindível o reexame do conjunto fático-probatório dos autos, notadamente a análise do título executivo e das decisões proferidas na fase de conhecimento.
+Tal providência é vedada em recurso especial, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. REGULAR E INTEGRAL QUITAÇÃO DOS DÉBITOS EXEQUENDOS E FORMAÇÃO DA COISA JULGADA NO PROCESSO DE EXECUÇÃO. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+4. Na via especial não cabe a análise de tese recursal que demande a incursão na seara fático-probatória dos autos, por orientação da Súmula 7 do STJ. Nessa linha, resta inviável a este Tribunal avaliar o alegado desacerto da Corte local quanto à observância do postulado da coisa julgada devido à impossibilidade de superar-se o referido óbice sumular.  ..
+6. Agravo interno a que se nega provimento(AgInt no REsp n. 1.996.432/DF, relator Ministro Herman Benjamin, Segunda Turma, julgado em 27/6/2023, DJe de 22/8/2023).
+Ademais, verifica-se que o Tribunal de origem decidiu a controvérsia com base no reconhecimento de que o STF, ao julgar o caso concreto, aplicou a modulação de efeitos. A União, no entanto, insiste na interpretação abstrata do precedente (Tema 395), deixando de impugnar especificamente o fundamento fático do acórdão recorrido referente à existência de decisão do STF no próprio processo validando o pagamento. Essa deficiência na fundamentação recursal atrai, por analogia, o óbice da Súmula 283 do STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Por fim, cumpre registrar que a discussão sobre a extensão da modulação de efeitos de julgado proferido pelo Supremo Tribunal Federal em controle de constitucionalidade possui natureza eminentemente constitucional, o que refoge à competência desta Corte Superior em sede de recurso especial.
+Isso posto, com fundamento no art. 932, inciso III, do Código de Processo Civil, não conheço do recurso especial.
+Considerando que o recurso foi interposto na vigência do Código de Processo Civil de 2015, majoro os honorários advocatícios anteriormente fixados em desfavor da parte recorrente em 1% (um por cento) sobre o valor atualizado da causa ou da condenação, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido dispositivo.
+Intimem-se.
+EMENTA
