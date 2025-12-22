@@ -1,0 +1,15 @@
+Art. 3º-A As instituições referidas no art. 1º devem estabelecer os seguintes requisitos de segurança adicionais, como parte integrante dos procedimentos e controles previstos em sua política de segurança cibernética de que trata o art. 3º: (Incluído pela Resolução CMN nº 5.274, de 18/12/2025.)
+I - no caso de comunicação eletrônica de dados na Rede do Sistema Financeiro Nacional – RSFN: (Incluído pela Resolução CMN nº 5.274, de 18/12/2025.)
+a) uso de múltiplos fatores de autenticação para o acesso administrativo aos ambientes Pix e Sistema de Transferência de Reservas – STR; (Incluída pela Resolução CMN nº 5.274, de 18/12/2025.)
+b) isolamento físico e lógico do ambiente Pix dos demais sistemas da instituição, mantendo instância dedicada e apartada dos demais ambientes nos casos de uso de serviços de computação em nuvem contratados; (Incluída pela Resolução CMN nº 5.274, de 18/12/2025.)
+c) isolamento físico e lógico do ambiente STR dos demais sistemas da instituição, mantendo instância dedicada e apartada dos demais ambientes nos casos de uso de serviços de computação em nuvem contratados; (Incluída pela Resolução CMN nº 5.274, de 18/12/2025.)
+d) monitoramento do uso de credenciais e certificados digitais, bem como estabelecimento de controles para a guarda dessas informações, especialmente as utilizadas no âmbito do Sistema de Pagamentos Instantâneos – SPI; (Incluída pela Resolução CMN nº 5.274, de 18/12/2025.)
+e) implementação de mecanismos de validação da integridade fim a fim das transações pela instituição antes da assinatura digital das mensagens associadas, assegurando que os dados não tenham sido corrompidos ou manipulados durante o processo de geração dessas mensagens; e (Incluída pela Resolução CMN nº 5.274, de 18/12/2025.)
+f) vedação do acesso de empresas prestadoras de serviços a terceiros às chaves privadas associadas a certificados digitais utilizados pela instituição para a assinatura de mensagens; e (Incluída pela Resolução CMN nº 5.274, de 18/12/2025.)
+II - no caso de conexão como participante de Sistemas do Mercado Financeiro – SMF autorizados a operar, a implementação de controles de segurança para prevenção, detecção e resposta a fraudes, a serem observados pela instituição. (Incluído pela Resolução CMN nº 5.274, de 18/12/2025.)
+Parágrafo único. As instituições devem observar este artigo de forma compatível com o disposto: (Incluído pela Resolução CMN nº 5.274, de 18/12/2025.)
+I - nesta Resolução; (Incluído pela Resolução CMN nº 5.274, de 18/12/2025.)
+II - na regulamentação em vigor; e (Incluído pela Resolução CMN nº 5.274, de 18/12/2025.)
+III - em todos os requisitos técnicos da RSFN previstos no Catálogo de Serviços do SFN, no Manual de Redes do SFN e no Manual de Segurança do SFN, publicados pelo Banco Central do Brasil. (Incluído pela Resolução CMN nº 5.274, de 18/12/2025.)
+Seção II
+Da Divulgação da Política de Segurança Cibernética
