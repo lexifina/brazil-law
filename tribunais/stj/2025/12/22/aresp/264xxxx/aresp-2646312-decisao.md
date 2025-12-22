@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por Bertilia Freire Hayashida e outros, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão prolatado pelo Tribunal Regional Federal da 3ª Região assim ementado (e-STJ, fl. 518):
+PROCESSUAL CIVIL PREVIDENCIÁRIO. AGRAVO LEGAL (ART.557, § 1º, DO CPC). REDISCUSSÃO DA MATÉRIA JÁ DECIDIDA. IMPOSSIBILIDADE. DECISÃO AGRAVADA MANTIDA. AUSÊNCIA DE ILEGALIDADE OU ABUSO DE PODER.
+1. O agravo previsto no art.557, §10,do Código de Processo Civil tem o propósito de submeter ao órgão colegiado o controle da extensão dos poderes do relator, bem como a legalidade da decisão monocrática proferida, não se prestando à rediscussão de matéria já decidida.
+2. Inexiste ilegalidade ou abuso de poder na decisão questionada, sendo que os seus fundamentos estão em consonância com a jurisprudência pertinente à matéria.
+3. Agravos legais desprovidos.
+Os embargos declaratórios opostos pelo INSS foram rejeitados (e-STJ, fls. 521-525).
+Recurso especial interposto pelos ora recorrentes nas fls. 556-577 (e-STJ). Alegam violação aos arts. 20, caput, e § 3º, e 260, caput, do CPC/1973, uma vez que os honorários advocatícios deveriam ter sido fixados sobre as parcelas vencidas até a decisão de segundo grau que julgou procedente o pedido, e não até a sentença.
+Sustentam que os juros de mora devem incidir desde o requerimento administrativo.
+Recurso especial do INSS às fls. 691-710 do e-STJ.
+Foi realizado juízo de retratação, com acórdão ementado nos seguintes termos:
+PREVIDENCIÁRIO. JUÍZO DE RETRATAÇÃO POSITIVO. TEMA 810 DO C. STF. TEMA 905 DO C. STJ. TEMA 96 DO STF. JUROS DE MORA.
+- O C. Supremo Tribunal Federal julgou o Recurso Extraordinário 870.947/SE ( ), transitado em julgado em 03/03/2020, e reconheceu aTema 810 constitucionalidade do artigo 1º-F da Lei n.9.494/1997, com a redação dada pela Lei n. 11.960/2009, no ponto em que fixa os juros de mora com base no índice oficial de remuneração da caderneta de poupança, excepcionadas apenas as condenações oriundas de relação jurídico-tributária.
+- Quanto aos juros de mora, o v. acórdão encontra-se em conformidade com o entendimento paradigmático (Tema 810 STF), razão pela qual desnecessário ajustamento a fim de que incidam nos termos do julgado em sede de repercussão geral.
+- Registre-se que, a partir da publicação da Emenda Constitucional n. 113, ocorrida em 08/12/2021, há incidência do índice da taxa referencial do Sistema Especial de Liquidação e de Custódia (SELIC), como único índice remuneratório até o efetivo pagamento, nos termos do disposto pelo seu artigo 3º.
+- No que se refere ao índice de atualização monetária, é de rigor a observância do Tema 810 do C. STF e do Tema 905 do C. STJ, que estabelecem a incidência do INPC para os benefícios previdenciários, até a alteração da ordem jurídica nacional operada pela EC n. 113/2021.
+- O C. Supremo Tribunal Federal, por ocasião do julgamento do RE 579.431/RS, também alçado como representativo de controvérsia ( ) e decidido sob aTema 96 sistemática de repercussão geral da matéria (artigo 1.036 do CPC), fixou o entendimento de que incidem os juros de mora no período compreendido entre a data da realização dos cálculos e a da requisição ou do precatório.
+- O v. acórdão encontra-se em desconformidade com o entendimento paradigmático ( ), razão pela qual necessário ajustamento a fim de que incidam nos termosTema 96 do julgado em sede de repercussão geral.
+- Juízo de retratação positivo. Agravo legal da parte autora parcialmente provido.
+O recurso especial do INSS não foi admitido (e-STJ, fls. 992-997), do que não resultou a interposição de agravo.
+O recurso especial dos ora recorrentes foi considerando prejudicado "no que toca ao capítulo recursal objeto da retratação realizada pela Turma julgadora", e, nos demais pontos, não foi admitido (e-STJ, fls. 999-1.010).
+O presente agravo foi interposto nas fls. 1.014-1.030.
+Preliminarmente, os recorrentes expressamente referiram que não possuem "interesse na impugnação acerca da inconstitucionalidade da Lei 11.960/2009, e nem quanto ao termo final dos juros moratórios, tendo em vista a retratação efetuada que adequou o acórdão recorrido às teses firmadas nos temas 810 e 96, ambas do STF" (e-STJ, fl. 1.019).
+Brevemente relatado, decido.
+No que diz respeito aos honorários advocatícios, a Súmula n. 111 dessa Corte de Justiça prevê que "Os honorários advocatícios, nas ações previdenciárias, não incidem sobre as prestações vencidas após a sentença".
+Conforme o Tema Repetitivo 1.105, "Continua eficaz e aplicável o conteúdo da Súmula 111/STJ (modificado em 2006), mesmo após a vigência do CPC/2015, no que tange à fixação de honorários advocatícios."
+Nos termos dos precedentes a seguir citados, os honorários advocatícios devem incidir sobre prestações vencidas até a decisão que concede o benefício, inclusive até o acórdão ou decisão de segundo que tenha julgado procedente o pedido reformando sentença de improcedência:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. TERMO FINAL PARA APURAÇÃO DA BASE DE CÁLCULO. DECISÃO EM QUE O DIREITO DO SEGURADO FOI RECONHECIDO. OBSERVÂNCIA DA JURISPRUDÊNCIA E DA SÚMULA N. 111 E TEMA N. 1.105 DO STJ.
+I - Na origem, trata-se de ação de percepção de benefício previdenciário de aposentadoria por tempo de serviço e/ou contribuição. Na sentença, julgou-se extinto o processo sem a resolução do seu mérito, pela perda superveniente do interesse processual, tendo em vista a concessão administrativa da aposentadoria por tempo de contribuição e consequente pensão por morte, com fundamento no art. 267, VI, § 3º, do CPC, sem arbitramento de honorários advocatícios.
+II - No Tribunal a quo, deu-se parcial provimento à apelação da parte autora, para determinar que o INSS efetuasse o pagamento das diferenças resultantes da aposentadoria por tempo de contribuição, com a incidência de verba honorária fixada em 10% sobre o valor da condenação das prestações vencidas, porém até a data da prolação da sentença, na qual se julgou extinto o processo sem a resolução de mérito.
+III - Ao julgar o Tema 1.105, o Superior Tribunal de Justiça entendeu que a Súmula n. 111/STJ permanece válida após a vigência do CPC/2015, in verbis: "Continua eficaz e aplicável o conteúdo da Súmula 111/STJ (com a redação modificada em 2006), mesmo após a vigência do CPC/2015, no que tange à fixação de honorários advocatícios."
+IV - A jurisprudência desta Corte Superior, mesmo após o advento da nova lei processual civil, manteve o posicionamento de que o marco final da verba honorária deve ser a decisão em que o direito do segurado foi reconhecido, nos termos preconizados pela Súmula n. 111 do Superior Tribunal de Justiça, sendo, in casu, o acórdão proferido pelo Tribunal de origem.  ..  (EDcl no AgInt no AREsp n. 2.695.141/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 30/4/2025, DJEN de 7/5/2025, grifos não originais)
+PREVIDENCIÁRIO. RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. TERMO FINAL PARA APURAÇÃO DA BASE DE CÁLCULO. OBSERVÂNCIA DA SÚMULA 111/STJ. RECURSO ESPECIAL PROVIDO.
+1. Este Superior Tribunal de Justiça, no julgamento dos Recursos Especiais 1.883.715/SP, 1.883.722/SP e 1.880.529/SP, submetidos ao rito do art. 1.036 e seguintes do CPC/2015 (Tema 1.105/STJ), pacificou entendimento segundo o qual, "continua eficaz e aplicável o conteúdo da Súmula 111/STJ (modificado em 2006), mesmo após a vigência do CPC/2015, no que tange à fixação de honorários advocatícios".
+2. Segundo o entendimento jurisprudencial desta Corte, nas ações previdenciárias, os honorários advocatícios incidem apenas sobre as prestações vencidas, consideradas, como tal, todas aquelas ocorridas até a data da prolação da decisão que reconheceu o direito do segurado, consoante o disposto na Súmula 111/STJ. Precedentes do STJ.
+3. No caso dos autos, o decisum proferido na apelação cível, que concedera o direito à aposentadoria por tempo de contribuição e invertera os ônus da sucumbência em favor do recorrente, deve ser considerado como termo final para fins de incidência dos honorários advocatícios, nos termos da Súmula 111/STJ.
+4. Recurso especial provido.
+(REsp n. 1.961.958/SP, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 14/3/2024, DJe de 21/3/2024, grifos não originais.)
+No caso, o benefício foi concedido pela decisão monocrática de fls. 459-469 (e- STJ), proferida em sede de apelação, em 09/10/2012.
+Sobre os juros, o acórdão recorrido está em conformidade com a orientação da Súmula 204 do STJ, segundo a qual "os juros de mora nas ações relativas a benefícios previdenciários incidem a partir da citação válida".
+Nesse sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. JUROS DE MORA. TERMO INICIAL. CITAÇÃO. HONORÁRIOS ADVOCATÍCIOS. REVISÃO. IMPOSSIBILIDADE.
+1. O acórdão regional está em conformidade com a orientação jurisprudencial deste Superior Tribunal, sintetizada na Súmula 204 do STJ, segundo a qual "os juros de mora nas ações relativas a benefícios previdenciários incidem a partir da citação válida".2.
+Esta Corte Superior admite o apelo especial para reapreciar honorários advocatícios fixados sob a égide do CPC/73 quando arbitrados em valor irrisório ou exorbitante, pois, nesses casos, a violação da aludida norma processual exsurge de maneira flagrante, a justificar a intervenção deste Sodalício como meio de preservar a aplicação da lei federal de regência.3. O entendimento do Tribunal recorrido, no sentido de fixar a verba honorária em 10% sobre o valor da condenação, não se mostra desarrazoado, sendo o caso de se obstar o presente recurso, em face da Súmula 7 do STJ.4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.437.744/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 12/8/2025, DJEN de 21/8/2025.)
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. JUROS DE MORA. INCIDÊNCIA ATÉ A DATA DA EXPEDIÇÃO DO PRECATÓRIO/RPV. RECURSO ESPECIAL NÃO CONHECIDO. INCIDÊNCIA DAS
+SÚMULAS N. 7, 83 e 204/STJ. DESPROVIMENTO DO AGRAVO INTERNO.
+ ..
+IV - Já no que tange à definição do termo inicial dos juros de mora, a decisão do Tribunal a quo harmoniza-se com as disposições do enunciado n. 204 da Súmula do STJ, segundo o qual "Os juros de mora nas ações relativas a benefícios previdenciários incidem a partir da citação válida".
+V - Ademais, em relação ao termo inicial dos juros de mora e à fixação dos honorários, verifica-se que o Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual:
+"Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida."
+VI - Agravo interno improvido.
+(AgInt no AREsp n. 2.679.924/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 13/11/2024, DJe de 18/11/2024.)
+Ante o exposto, conheço do agravo e dou dar parcial provimento ao recurso especial para determinar que os honorários advocatícios devem incidir sobre as prestações vencidas até a data da prolação da decisão que reconheceu o direito do segurado, no caso, a decisão de fls. 459-469 (e-STJ) .
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PREVIDENCIÁRIO. HONORÁRIOS ADVOCATÍCIOS. TERMO FINAL PARA APURAÇÃO DA BASE DE CÁLCULO. OBSERVÂNCIA DA SÚMULA 111/STJ. JUROS DE MORA. TERMO INICIAL. CITAÇÃO. AGRAVO CONHECIDO PARA DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL.
