@@ -1,0 +1,22 @@
+DECISÃO
+O presente writ, impetrado em benefício de SAULO MARCOS GOULART SIMOES, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Recurso em Sentido Estrito n. 1000332-59.2025.8.26.0426), comporta acolhimento.
+Com efeito, busca a impetração a expedição de salvo-conduto em favor do paciente, a fim de que lhe seja assegurado o direito de cultivar plantas de Cannabis sativa para uso medicinal, como exercício regular do direito à saúde, abstendo-se os órgãos de persecução penal de atentar contra sua liberdade de locomoção ou de apreender a matéria-prima utilizada no tratamento medicinal, ao argumento de que ostenta laudo e prescrição médica atualizados, bem como autorizações administrativas que comprovem a necessidade do tratamento para a enfermidade Transtorno de Ansiedade Generalizada - TAG.
+Sustenta, ainda, que o paciente fez prova do elevado custo da medicação prescrita, além de comprovar a sua hipossuficiência financeira. Ademais, destaca que o Superior Tribunal de Justiça já afastou a necessidade de comprovação da hipossuficiência financeira em casos de aquisição de fármacos importados.
+Pedido liminar indeferido às fls. 403/404.
+Informações prestadas às fls. 410/415 e 416/429.
+O Ministério Público Federal, às fls. 846/850, opinou pela denegação da ordem.
+É o relatório.
+De fato, da atenta análise dos autos, observa-se que os autos se encontram devidamente instruídos com a autorização de importação da ANVISA, válida até 31/3/2027 (fls. 50/5 1); laudo médico e prescrição do uso de Cannabis (fls. 38/43); laudo técnico agronômico (fls. 44/48); e certificado de curso de cultivo de Cannabis medicinal (fl. 315), a justificar a concessão da ordem.
+A propósito:
+ ..
+1. "Ambas as Turmas que integram a Terceira Seção desta Corte Superior pacificaram entendimento quanto à ausência de tipicidade material na conduta de cultivar cannabis sativa tão somente para fins medicinais, desde que nitidamente comprovada a imprescindibilidade do tratamento médico mediante relatórios e prescrições firmados por profissionais competentes. Assim, observadas essas premissas, mister se faz a concessão de salvo-conduto a fim de que pessoas que buscam efetivar o direito à saúde não sejam indevidamente responsabilizadas criminalmente" (AgRg no RHC n. 163.180/RN, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 4/3/2024, DJe de 6/3/2024).
+2. Hipótese na qual foi devidamente demonstrada a necessidade do uso medicinal da substância pelo agravado. Conforme receituário de controle especial, ele faz uso contínuo de óleo de cannabis. O relatório médico, por sua vez, relata que o agravado sofre de dores na coluna lombar há vários anos, com parestesia e irradiação das dores para os membros inferiores, tendo sido diagnosticada hérnia de disco. Consta ainda que os medicamentos utilizados para dor, após melhora parcial, provocaram em efeitos colaterais, os quais não foram observados com uso do óleo de cannabis. Desse modo, conclui pelo resultado satisfatório com o tratamento. Outrossim, consta autorização expedida pela ANVISA para permitir ao agravado a "importação excepcional de produto derivado de Cannabis". O laudo de engenheiro agrônomo atesta a quantidade de plantas necessárias para a produção requerida. Comprovada, portanto, sua necessidade de uso da substância para fins terapêuticos, na forma como requerida.
+ ..
+(AgRg no HC n. 916.389/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 18/9/2024 - grifo nosso).
+Em face do exposto, concedo a ordem impetrada para determinar a expedição de salvo-conduto ao paciente, autorizando a importação de 184 sementes, para o cultivo de 92 plantas de Cannabis sativa, por ano, para uso exclusivo e próprio, enquanto durar o tratamento, nos termos das prescrições médicas, impedindo-se qualquer medida de natureza penal, devendo manter atualizadas as prescrições médicas e autorizações administrativas necessárias junto à Agência Nacional de Vigilância Sanitária - ANVISA.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. CULTIVO ARTESANAL DE CANNABIS SATIVA PARA FINS MEDICINAIS. PRINCÍPIOS DA INTERVENÇÃO MÍNIMA, FRAGMENTARIEDADE E SUBSIDIARIEDADE. AUSÊNCIA DE OFENSA AO BEM JURÍDICO TUTELADO. EXISTÊNCIA DE DOCUMENTAÇÃO QUE COMPROVE A NECESSIDADE DO TRATAMENTO MEDICINAL. OMISSÃO REGULAMENTAR. DIREITO À SAÚDE. EXPEDIÇÃO DE SALVO-CONDUTO QUE SE IMPÕE.
+Ordem concedida.
