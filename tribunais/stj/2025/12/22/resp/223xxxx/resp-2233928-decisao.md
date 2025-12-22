@@ -1,0 +1,7 @@
+DECISÃO
+Cuida-se de recurso especial no qual se discute o termo inicial da prescrição aplicável à pretensão de reparação por falhas na gestão de conta individual do Programa de Formação do Patrimônio do Servidor Público (PASEP), notadamente se o prazo se inicia na data do saque integral ou na data de posterior ciência dos desfalques por meio de extratos (fls. 429-448 ).
+A matéria encontra-se afetada à Primeira Seção do Superior Tribunal de Justiça, aguardando o julgamento, sob o rito dos recursos repetitivos (Tema 1.387), os Recursos Especiais n. 2.214.879/PE e 2.214. 864/PE, de relatoria da Ministra Maria Thereza de Assis Moura.
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que lá fiquem sobrestados aguardando o julgamento do referido tema pelo Superior Tribunal de Justiça e, após sua publicação, em observância ao art. 1.040 do CPC/2015: a) seja negado seguimento ao recurso se a decisão recorrida coincidir com a orientação desta Corte; ou b) proceda-se ao juízo de retratação na hipótese de o acórdão vergastado divergir do precedente qualificado.
+Publique-se. Intimem-se.
+EMENTA
