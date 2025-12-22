@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto por ALDAIR RODRIGUES VITORINO, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra acórdão prolatado pelo Tribunal de Justiça do Distrito Federal e dos Territórios, na Apelação Criminal n. 0716458-27.2024.8.07.0006 (e-STJ fls. 405/408).
+Depreende-se dos autos que o recorrente foi condenado em primeira instância, como incurso nas sanções do art. 155, § 4º, II, do Código Penal, à pena de 2 anos, 11 meses e 22 dias de reclusão, em regime inicial fechado, além de 46 dias-multa
+A apelação defensiva foi desprovida pelo Tribunal de origem, nos termos da seguinte ementa (e-STJ fls. 405/407):
+DIREITO PENAL E PROCESSUAL PENAL. APELAÇÃO CRIMINAL. FURTO QUALIFICADO PELA ESCALADA. DOSIMETRIA DA PENA. CRITÉRIO DE EXASPERAÇÃO DA PENA-BASE. COMPENSAÇÃO ENTRE CIRCUNSTÂNCIAS. REGIME INICIAL. REINCIDÊNCIA. RECURSO DESPROVIDO.  ..
+3. A fração de aumento da pena-base na primeira fase da dosimetria não está vinculada a critério matemático fixo, sendo lícito ao julgador majorar a pena em fração diversa de 1/6, desde que fundamentadamente e observados os princípios da proporcionalidade e razoabilidade.  ..
+8. Recurso desprovido.
+Daí o recurso especial, no qual a defesa alega violação ao art. 59 do Código Penal, sustentando que o aumento da pena-base em 1/8 do intervalo entre as penas mínima e máxima mostra-se desproporcional e sem fundamentação concreta, requerendo a adoção da fração de 1/6 sobre a pena mínima, bem como a não incidência das Súmulas n. 7 e 83/STJ e a pertinência do Tema Repetitivo n. 1.351 (e-STJ fls. 464/481).
+Contrarrazões às e-STJ fls. 491/493.
+Instado a se manifestar, o Ministério Público Federal opinou pelo não conhecimento e desprovimento do recurso, ao fundamento de que a exasperação de 1/8 sobre o intervalo mínimo-máximo está em conformidade com a jurisprudência do STJ (Súmula 83/STJ), e que, embora não incida a Súmula n.7/STJ na espécie, não há excesso na dosimetria realizada, que inclusive poderia ser maior diante das circunstâncias judiciais desfavoráveis e da multirreincidência (e-STJ fls. 517/519).
+É o relatório.
+Decido.
+Tenho que, de fato, não assiste razão à defesa.
+Como é cediço, a primeira etapa de fixação da reprimenda tem como objetivo estabelecer a pena-base, partindo do preceito secundário simples ou qualificado do tipo incriminador, sobre o qual incidirão as circunstâncias judiciais descritas no art. 59 do Código Penal.
+As circunstâncias judiciais são valores positivos; para inverter essa polaridade, é imperioso ao julgador apresentar elementos concretos de convicção presentes no bojo do processo, sendo inadmissível o aumento da pena-base com fundamento em meras suposições ou em argumento de autoridade, sem indicação de dados concretos, objetivos e subjetivos, que justifiquem o afastamento da pena do mínimo legal estabelecido ao tipo penal.
+Nesse contexto, não há um critério matemático para a escolha das frações de aumento em função da negativação dos vetores contidos no art. 59 do Código Penal, sendo garantida a discricionariedade do julgador para a fixação da pena-base, dentro do seu livre convencimento motivado e de acordo com as peculiaridades do caso concreto.
+Assim, acerca do tema, a jurisprudência do Superior Tribunal de Justiça tem aplicado critérios que atribuem a fração de 1/6 sobre o mínimo previsto para o delito para cada circunstância desfavorável; a fração de 1/8 para cada circunstância desfavorável sobre o intervalo entre o mínimo e o máximo de pena abstratamente cominada ao delito; ou, ainda, a fixação da pena-base sem nenhum critério matemático, sendo necessário apenas, neste último caso, que estejam evidenciados elementos concretos que justifiquem a escolha da fração utilizada, para fins de verificação de legalidade ou proporcionalidade.
+Ilustrativamente:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIO DUPLAMENTE QUALIFICADO. DOSIMETRIA. PENA-BASE. AUMENTO SUPERIOR A 1/6. MAUS ANTECEDENTES. DUAS CONDENAÇÕES ANTERIORES DEFINITIVAS. FUNDAMENTAÇÃO IDÔNEA. CRITÉRIO MATEMÁTICO. PRETENSÃO. IMPOSSIBILIDADE. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. PRECEDENTES.
+1. A legislação penal não estabeleceu nenhum critério matemático (fração) para a fixação da pena na primeira fase da dosimetria. Nessa linha, a jurisprudência desta Corte tem admitido desde a aplicação de frações de aumento para cada vetorial negativa: 1/8, a incidir sobre o intervalo de apenamento previsto no preceito secundário do tipo penal incriminador (HC n. 463.936/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 14/9/2018); ou 1/6 (HC n. 475.360/SP, Ministro Felix Fischer, Quinta Turma, DJe 3/12/2018); como também a fixação da pena-base sem a adoção de nenhum critério matemático. ..  Não há falar em um critério matemático impositivo estabelecido pela jurisprudência desta Corte, mas, sim, em um controle de legalidade do critério eleito pela instância ordinária, de modo a averiguar se a pena-base foi estabelecida mediante o uso de fundamentação idônea e concreta (discricionariedade vinculada) - (AgRg no HC n. 603.620/MS, Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 6/10/2020, DJe 9/10/2020) - (AgRg no HC n. 558.538/DF, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 13/4/2021).
+ ..
+5. Agravo regimental improvido.
+(AgRg no HC n. 699.488/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 14/12/2021, DJe de 17/12/2021, grifei.)
+Não vislumbro, portanto, a aventada ilegalidade.
+À vista do exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
