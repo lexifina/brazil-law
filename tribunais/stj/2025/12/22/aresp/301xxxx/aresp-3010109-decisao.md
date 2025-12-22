@@ -1,0 +1,36 @@
+DECISÃO
+Em análise, agravo em recurso especial interposto por GEORGE MORAIS FERREIRA contra acórdão do Tribunal de Justiça do Estado de Goiás, assim ementado (fls. 82-89):
+AGRAVO INTERNO. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. MARCO INICIAL. PRESCRIÇÃO. MATÉRIA NÃO APRECIADA NO JUÍZO DE ORIGEM. VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE.
+1. Incumbe à parte recorrente impugnar "especificadamente os fundamentos da decisão agravada" (art. 1.021, § 1º, CPC), bem como trazer argumentos capazes de alterar o entendimento unipessoal anteriormente exposto.
+2. Inexiste incorreção no julgamento que não conheceu de recurso por violação ao princípio da dialeticidade recursal.
+3. Além disso, considerando que a cognição do agravo de instrumento é restrita aos limites da decisão agravada, não se revela possível, sob pena de indevida supressão de instância, o exame de questões não ventiladas perante o juízo de origem, ainda que referentes a matérias de ordem pública.
+4. O agravo interno deve ser desprovido quando as alegações apresentadas não são aptas a desconstituir os fundamentos que embasaram a decisão monocrática. AGRAVO INTERNO CONHECIDO. PROVIMENTO NEGADO.
+Os embargos de declaração foram rejeitados (fls. 110-117).
+Em suas razões recursais, a parte recorrente alega violação dos arts. 189 do Código Civil e 40, §§ 2º e 4º, da Lei 6.830/1980, vinculando tais dispositivos à tese de que a prescrição é matéria de ordem pública, cognoscível a qualquer tempo e grau de jurisdição, inclusive de ofício, e que, no caso, estaria configurada a prescrição da pretensão executória do Município de Trindade
+Argumenta, ainda, que o Supremo Tribunal Federal, no Tema 390 (RE 636562), reconheceu a constitucionalidade do art. 40 da Lei 6.830/1980 e a natureza processual do prazo de um ano de suspensão, com início automático da prescrição de cinco anos após esse período (fls. 128-130). Alega, por fim, que, no caso concreto, "computando-se cinco anos do ajuizamento da ação, tem-se que prescreveu em 23.04.2019, a pretensão estatal para a propositura de ação por eventual execução" e que "computando-se cinco anos de quando ocorreu o término do mandato do ora Recorrente, tem-se que prescreveu em 31.12.2013" (fl. 128-129).
+Contrarrazões apresentadas às fls. 151-160.
+É o relatório.
+Passo a decidir.
+O recurso especial tem origem em agravo de instrumento, no bojo de execução fiscal, em que se alegou prescrição da pretensão executória e se requereu o desbloqueio de bens. O agravo de instrumento não foi conhecido por violação ao princípio da dialeticidade e por inovação recursal quanto à prescrição.
+Ao analisar a controvérsia, o Tribunal de origem manteve a decisão monocrática que não conheceu do agravo de instrumento, sob os seguintes fundamentos:
+O ato judicial em revisão está devidamente fundamentado e foram apresentados os motivos que ensejaram o não conhecimento do recurso por violação ao princípio da dialeticidade, o qual estabelece que a parte recorrente deve manifestar sua inconformidade com o ato judicial impugnado e indicar os motivos de fato e de direito pelos quais requer um outro julgamento da questão.
+Na decisão judicial objeto do agravo de instrumento foi restituído o prazo ao excipiente para se manifestar acerca do não conhecimento da exceção de pré-executividade e mantida a constrição realizada nos autos (mov. 49/autos de origem).
+O recorrente, por sua vez, refuta a referida manifestação judicial sustentando a ocorrência de prescrição da pretensão executiva.
+Ressalto que a discussão afeta à prescrição não foi analisada em primeira instância, não sendo possível suscitá-la por meio do agravo de instrumento, mesmo se tratando de matéria de ordem pública, conforme entendimento prevalecente neste Tribunal de Justiça, vejamos:
+ .. . Agravo de Instrumento. Ação de execução fiscal. I. Prescrição intercorrente. Artigo 40 da Lei de Execução Fiscal. Inovação recursal. Alegações e argumentos não levados ao conhecimento do magistrado singular e tampouco por ele examinados não poderão ser objeto de análise pela Corte Revisora, ainda que se trate de matéria de ordem pública, porquanto tal prática configura inovação recursal, conduta não admitida no ordenamento jurídico, a fim de evitar supressão de instância e violação aos princípios do contraditório, ampla defesa e duplo grau de jurisdição.  .. . (TJGO, Agravo de Instrumento 5765723-97.2023.8.09.0132, Rel. Des(a). Ana Cristina Ribeiro Peternella França, 7ª Câmara Cível, D Je de 29/04/2024)
+ ..
+Nesse contexto, as razões recursais não confrontaram especificamente a decisão recorrida e expuseram questão não analisada na instância de origem, de modo que, consequentemente, é evidente a ausência do requisito de admissibilidade recursal dialeticidade, o que obsta o seu conhecimento (fls. 86-87).
+Dessume-se que a parte recorrente esquiva-se de rebater os fundamentos utilizados pelo Tribunal de origem, concentrando seus argumentos na possibilidade de suscitar a prescrição na fase recursal, por se tratar de matéria de ordem pública.
+A partir disso, a fundamentação utilizada pelo Tribunal local para firmar seu convencimento não foi inteiramente atacada pela parte recorrente e, sendo apta, por si só, para manter o decisum combatido, permite aplicar na espécie, por analogia, os óbices das Súmulas 283 e 284 do STF, ante a ausência de impugnação de fundamento autônomo e a deficiência na motivação.
+Nesse sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ACÓRDÃO COMBATIDO. FUNDAMENTO AUTÔNOMO. IMPUGNAÇÃO. INOCORRÊNCIA. AÇÃO CIVIL PÚBLICA. EXECUÇÃO INDIVIDUAL DE SENTENÇA. INTERRUPÇÃO DA PRESCRIÇÃO QUINQUENAL. TERMO INICIAL DO PRAZO PRESCRICIONAL. RECEBIMENTO. PARCELAS EM ATRASO. AJUIZAMENTO DA AÇÃO COLETIVA.
+1. Conforme entendimento sedimentado nas Súmulas 283 e 284 do STF, não se conhece de recurso especial quando inexistente impugnação específica a fundamento autônomo adotado pelo órgão judicial a quo.  ..
+4. Agravo interno desprovido (AgInt no AREsp n. 2.368.855/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 16/10/2023, DJe de 18/10/2023).
+PROCESSUAL CIVIL. AGRAVO INTERNO. REVISÃO DO BENEFÍCIO. INAPLICÁVEL À DECADÊNCIA PREVISTA NO ART. 103-A DA LEI 8.213/1991. FUNDAMENTO NÃO ATACADO. SÚMULAS 283 E 284 /STF.
+1. O Tribunal de origem consignou:  .. . A irresignação não merece prosperar, porquanto o Tribunal a quo utilizou fundamentos que a parte recorrente esquivou-se de rebater. Como os fundamentos não foram atacados pela parte recorrente e são aptos, por si sós, para manter o decisum combatido, permitem aplicar na espécie, por analogia, os óbices das Súmulas 284 e 283 do STF, ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo.
+ ..
+3. Agravo Interno não provido (AgInt no AREsp n. 2.289.600/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 21/8/2023, DJe de 21/9/2023).
+Isso posto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo, para não conhecer do recurso especial.
+Sem condenação em honorários advocatícios recursais, tendo em vista que o agravo em recurso especial origina-se de acórdão proferido em julgamento de agravo de instrumento, no qual não houve a fixação de honorários advocatícios sucumbenciais.
+Intimem-se.
+EMENTA
