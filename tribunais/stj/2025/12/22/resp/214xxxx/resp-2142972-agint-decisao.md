@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo interno interposto por CARMELITO DE JESUS FARIAS contra a decisão de e-STJ fls. 295/300, em que não conheci do recurso especial.
+A parte agravante busca a reforma da decisão recorrida.
+Passo a decidir.
+A Primeira Seção desta Corte de Justiça decidiu submeter o REsp 2231007/DF ao rito dos recursos repetitivos (Controvérsia 760), para dirimir a seguinte questão : "I - Definir se a sentença coletiva que condena a administração centralizada ao pagamento de verba remuneratória pode ser executada por servidores de autarquias efundações públicas. II - Saber se os servidores que integravam os quadros de autarquias e de fundações públicas do Distrito Federal na data da propositura da Ação Coletiva n. 32.159/97 foram beneficiados pela coisa julgada".
+Encontrando-se o tema afetado à sistemática dos recursos repetitivos, esta Corte Superior orienta que os recursos que tratam da mesma controvérsia devem aguardar o julgamento do paradigma representativo no Tribunal de origem, viabilizando, assim, o juízo de conformação, hoje disciplinado pelo art. 1.040 do CPC/2015.
+A esse respeito, confiram-se os seguintes precedentes: EDcl no REsp 1.456.224/MS, rel. Ministro Humberto Martins, Segunda Turma, DJe 05/02/2016; AgRg no AgRg no AREsp 552.103/RS, rel. Min. Herman Benjamin, Segunda Turma, DJe 28/11/2014; AgRg no AREsp 153.829/PI, rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 23/5/2012.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado para esta Corte Superior analisar as questões jurídicas nele suscitadas que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Registre-se que essa medida visa evitar, também, o desmembramento do apelo especial e, em consequência, eventual ofensa ao princípio da unirrecorribilidade ou unicidade recursal.
+Ante o exposto, RECONSIDERO a decisão de e-STJ fls. 295/300 e DETERMINO A DEVOLUÇÃO DOS AUTOS ao T ribunal de origem, com a respectiva baixa, para que lá fiquem sobrestados aguardando o julgamento do recurso especial repetitivo e, após suas publicações , em observância ao art. 1.040 do CPC/2015: a) negue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada por esta Corte; ou b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema posto em recurso especial repetitivo.
+Publique-se. Intimem-se.
+EMENTA
