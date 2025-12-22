@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de Carta Rogatória por meio da qual a Justiça romena (Tribunal Local de Craiova) solicita que se proceda à notificação de Fasttel Engenharia S. A. para tomar conhecimento da ação de créditos relativa ao Processo 23403/215/2023 e, se quiser, oferecer oposição no prazo de 25 dias.
+A parte interessada, representada por advogados, manifestou-se às fls. 87-88 e requereu a não concessão da Carta Rogatória, sob o argumento de que "desconhece os fatos narrados pela parte que moveu a ação de créditos relativa ao Processo n. 23403/215/2023, bem como não reconhece o contrato objeto da respectiva ação".
+O Ministério Público opinou pela concessão do exequatur com a remessa dos autos à Justiça rogante, por intermédio da autoridade central, por ter sido cumprido o pleito de cooperação. Acrescenta que as alegações da parte interessada se referem ao mérito da demanda, cuja análise compete à Justiça rogante.
+É o relatório.
+Decido.
+Como é sabido, a Carta Rogatória é tradicional instrumento de cooperação jurídica internacional que busca viabilizar o auxílio na realização de atos judiciais entre países soberanos.
+No caso de instrumentos passivos, a ordem constitucional exige a concessão do exequatur, cuja competência foi outorgada ao Superior Tribunal de Justiça, nos termos do art. 105, I, i, da Constituição Federal. O juízo de delibação, por sua vez, não envolve qualquer julgamento de mérito, mas tão somente dos aspectos formais relacionados à ordem pública, conceito abrangente que envolve a soberania e o resguardo da dignidade humana.
+As questões, a bem da verdade, pretendem vulnerar o direito em que a parte busca amparar as suas pretensões no foro estrangeiro, o que extrapola os limites de cognição restritos que dizem respeito à concessão do exequatur. Assim, os argumentos ali expostos estão fora dos estreitos limites da competência desta Corte, o que impede o seu exame por esta Presidência, pois transcendem os limites estabelecidos no art. 216-Q, § 2º, do RISTJ, e deve ser conferida à Justiça rogante a apreciação das razões relacionadas ao mérito da causa.
+Nesse sentido, j á se decidiu:
+CARTA ROGATÓRIA. AGRAVO INTERNO. ALEGAÇÃO DE OFENSA AO PRINCÍPIO DA COLEGIALIDADE. IMPROCEDÊNCIA. NECESSIDADE DE TRADUÇÃO JURAMENTADA DOS DOCUMENTOS. COMISSÃO. TRÂMITE POR INTERMÉDIO DA AUTORIDADE CENTRAL. TESE DE DEFICIÊNCIA NA INSTRUÇÃO. DOCUMENTAÇÃO SUFICIENTE PARA A COMPREENSÃO DA CONTROVÉRSIA. REQUISITO DO ART. 260 DO CPC. APLICAÇÃO APENAS ÀS CARTAS ROGATÓRIAS ATIVAS. CITAÇÃO. CONCESSÃO DE EXEQUATUR. VIOLAÇÃO DA ORDEM PÚBLICA. NÃO OCORRÊNCIA. QUESTÕES DE MÉRITO. COMPETÊNCIA DA JUSTIÇA ROGANTE.
+ ..
+7. Cabe ao Superior Tribunal de Justiça emitir juízo meramente de delibação acerca da concessão de exequatur a carta rogatória, sendo competência da Justiça rogante a análise de alegações relacionadas ao mérito da causa.
+8. Agravo interno improvido.
+(AgInt nos EDcl na CR n. 14.886/EX, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 9.6.2020, DJe de 16.6.2020.)
+Desse modo, o objeto da presente Carta Rogatória não atenta contra a soberania nacional, a dignidade da pessoa humana e/ou a ordem pública, razão pela qual, com fundamento no art. 216-O, c/c o art. 216-P do RISTJ, concedo o exequatur.
+Diante da manifestação da parte interessada (fls. 87-88), considero consumado o objeto da comissão, e torna-se desnecessária a remessa dos autos à Justiça Federal.
+A propósito:
+CARTA ROGATÓRIA. AGRAVO REGIMENTAL. CITAÇÃO. AÇÃO POR INADIMPLÊNCIA DE CONTRATO DE EMPRÉSTIMO. CONCESSÃO DE EXEQUATUR. VIOLAÇÃO DA ORDEM PÚBLICA. NÃO OCORRÊNCIA. QUESTÕES DE MÉRITO. COMPETÊNCIA DA JUSTIÇA ROGANTE. PRAZO PARA CONTESTAÇÃO. COMPARECIMENTO ESPONTÂNEO DA PARTE INTERESSADA. DEVOLUÇÃO DOS AUTOS À JUSTIÇA ROGANTE ANTE O CUMPRIMENTO DA DILIGÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. A citação da parte interessada acerca de ação em curso na Justiça rogante não constitui ofensa à ordem pública, pois é ato de comunicação processual.
+2. Os documentos que instruem a rogatória enviada pela via diplomática são considerados autênticos, sendo dispensadas a chancela consular e a tradução por profissional juramentado no Brasil.
+3. Cabe ao Superior Tribunal de Justiça emitir juízo meramente de delibação acerca da concessão do exequatur nas cartas rogatórias, sendo competência da Justiça rogante a análise de alegações relacionadas ao mérito da causa.
+4. O prazo para contestação, em regra, começa a fluir da juntada do mandado citatório devidamente cumprido aos autos em curso na Justiça rogante, o que, por si só, dá aos interessados prazo suficiente para constituição de advogado para representar seus interesses na Justiça rogante.
+5. A manifestação espontânea da parte interessada consuma o objeto da comissão, caso em que os autos são devolvidos à Justiça rogante por intermédio da autoridade central competente, sendo desnecessária a remessa à Justiça Federal.
+6. Agravo regimental desprovido.
+(AgInt nos EDcl na CR n. 14.431/EX, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 22/10/2019, DJe de 25/10/2019.)
+Ante o exposto, determino a devolução dos autos à Justiça rogante (art. 216-X do RISTJ) por intermédio da autoridade central competente.
+Publique-se.
+EMENTA
