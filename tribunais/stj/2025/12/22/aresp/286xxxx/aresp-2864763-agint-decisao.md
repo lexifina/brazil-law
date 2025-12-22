@@ -1,0 +1,34 @@
+DECISÃO
+Em análise, agravo interno interposto por JOANA PEREIRA COUTO contra decisão que não conheceu do agravo em recurso especial, em razão da ausência de impugnação específica quanto ao fundamento de deficiência de cotejo analítico.
+Argumenta a parte agravante que "ao contrário do que dispôs o r. despacho, foram atendidos todos os requisitos legalmente previstos para a apresentação do alegado dissídio jurisprudencial, visto que apresentada a reprodução de julgado disponível na internet, com indicação da respectiva fonte, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados" (fl. 416).
+Ao final, requer o conhecimento e provimento do recurso.
+Conforme certificado, transcorreu in albis o prazo para impugnação do agravo interno.
+Considerando a relevância dos argumentos apresentados pela parte agravante, reconsidero a decisão agravada e passo a nova análise do recurso.
+Em análise, agravo em recurso especial interposto por JOANA PEREIRA COUTO contra decisão que não admitiu o recurso especial pela ausência de afronta aos arts. 489 e 1.022 do CPC, assim como pela deficiência do cotejo analítico.
+O acórdão recorrido foi assim ementado (fl. 291):
+MEIO AMBIENTE. Ação civil pública ambiental. Invasão de área pública, localizada no "Parque Estadual do Jurupará"  Terras devolutas  Ocupação pela ré incontroversa  Área insuscetível de posse ou apropriação, sendo irrelevante a boa-fé  Ocupação de área pertencente à reserva florestal, por si só, é ilegal  Elementos evidenciam os danos ambientais gerados pela ocupação indevida da área, e que não foram infirmados pela ré. Ação julgada procedente em 1º grau  Decisão mantida em 2º instância. RECURSO DESPROVIDO, com observação do disposto no § 3º do art. 98 do CPC.
+Os embargos de declaração foram rejeitados (fls. 313-316).
+Sustenta a parte recorrente, em síntese: i) a tempestividade do recurso especial, com interrupção do prazo pelos embargos, contagem em dias úteis e isenção de preparo pela gratuidade (arts. 1.003, § 5º, e 219, do CPC/2015) (fls. 325-326); ii) violação aos arts. 489, II, § 1º, IV, e 1.022, II, do CPC/2015, por omissão quanto à ocupação anterior à criação do parque, boa-fé, ausência de autuações e inexistência de dano ou nexo (fls. 327-331); iii) dissídio jurisprudencial com acórdão do TJ-RS que exige comprovação de prejuízo e nexo, apesar da responsabilidade objetiva, afirmando inexistência de dano significativo (arts. 3º, IV, e 14, § 1º, da Lei 6.938/1981, e art. 225, § 3º, da Constituição Federal) (fls. 329-331); e iv) reforma integral para julgar pedido improcedente e condenar o recorrido em custas e honorários (art. 105, III, a e c, da Constituição Federal, e arts. 1.029 e seguintes, do CPC/2015) (fl. 332).
+É o relatório.
+Passo a decidir.
+De início, necessário registrar que o recurso não prospera quanto à alínea c.
+Com efeito, ""a divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional requisita comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não se oferecendo como bastante a simples transcrição de ementas, sem realizar o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações (arts. 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ)"" (REsp n. 1.888.242/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 29/3/2022, DJe de 31/3/2022)" (AgInt no REsp n. 2.168.918/RJ, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, julgado em 13/8/2025, DJEN de 18/8/2025).
+No mais, em relação à apontada violação aos arts. 489, II, § 1º, IV, 1.022, II, do CPC, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, consignando que (fls.292-294):
+A demanda versa sobre invasão de área pública, localizada no "Parque Estadual do Jurupará", e consequente dano ambiental em unidade de proteção integral de bioma Mata Atlântica.
+ ..
+A ocupação inserida nessa área é incontroversa, não negada pela ré que alega boa-fé e, nesse aspecto, em se tratando de bem público, reconhecido como terras devolutas na década de 50, é insuscetível de posse ou apropriação, sendo irrelevante a boa-fé.
+A ocupação de área pertencente à reserva florestal, por si só, é ilegal, tendo em vista tratar-se de bem que compõe patrimônio público, natural e cultural da região.
+No mais, o "Laudo de Caracterização Ambiental" de fls. 10/18 aponta que "houve supressão da vegetação nativa original" (fls. 11); que a área é ocupada pela ré "como sítio de cultivo e lazer", sendo considerada como "adventício não morador" (fls. 12), não reconhecida como ocupante com evidência de tradicionalidade (fls. 13). Aponta, ainda, que a ocupação impede ou dificulta a regeneração natural de florestas e demais formas de vegetação, e que introduz, sem critérios, espécies exóticas em Unidades de Conservação (fl. 13).
+São elementos que evidenciam os danos ambientais gerados pela ocupação indevida da área, e que não foram infirmados pela ré, ônus que lhe incumbia.
+E ainda, em sede de julgamento de embargos de declaração, a Corte de origem assim se manifestou sobre a matéria dos autos (fl. 315, grifo nosso):
+A embargante pode discordar da motivação expendida. - Entretanto, por clara e coerente que se mostra, não merece correção via embargos de declaração.
+Destaca-se que o momento da ocupação é ônus probatório da parte embargante, do qual não se desincumbiu. Ademais, anteriormente à criação do Parque Estadual a área já era pública e de proteção ambiental, de modo que a ocupação permaneceria ilegal, independente de boa-fé.
+Como se vê, a negativa de prestação jurisdicional não restou configurada.
+Por outro lado, a fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada.
+Vale lembrar que, mesmo à luz do art. 489 do CPC, o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pela parte, mas apenas sobre aqueles capazes de, em tese, infirmar a conclusão adotada.
+Assim, inexiste violação aos arts. 489, II, § 1º, IV, 1.022, II, do CPC.
+Isso posto, reconsidero a decisão de fls. 405-406 e, com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+EMENTA
