@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interposto pela UNIÃO contra decisão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, que não admitiu recurso especial, fundado na alínea "a" do permissivo constitucional, e que desafia acórdão assim ementado (e-STJ fl. 463):
+ADMINISTRATIVO E PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. REAJUSTE DE 28,86%. LIMITAÇÃO TERRITORIAL. TEMA 1.075/STF.
+Acerca do art. 16 da Lei nº 7.347/1985, que na redação dada pela Lei nº 9.494/1997, estabelece que a sentença civil fará coisa julgada erga omnes nos limites da competência territorial do órgão prolator, o Supremo Tribunal Federal apreciou a questão ao julgar recurso extraordinário sob a sistemática da repercussão geral, ocasião na qual restou armada tese no seguinte sentido: É inconstitucional a redação do art. 16 da Lei 7.347/1985, alterada pela Lei 9.494/1997, sendo repristinada sua redação original. (Tema 1075). Precedentes.
+À míngua de expressa limitação territorial no título judicial, o provimento sentencial beneficia todos os integrantes das categorias indicadas pelo Ministério Público Federal.
+No especial obstaculizado, a parte recorrente apontou violação dos arts. 5º, XXXVI, LIII, LIV, 22, I, da Constituição Federal, 16 da Lei n. 7.347/1985, 2º, 5º, 322, § 2º, 489, § 3º, 492, 502, 503, 507, 1.022, II do CPC e 24 da Lei de Introdução às normas do Direito Brasileiro.
+Sustentou negativa de prestação jurisdicional, porquanto não analisados os " ..  artigos 5o, XXXVI, e 102, § 2o, da Constituic a o Federal, art. 16 da Lei 7.347/1985, alterada pela Lei 9.494/1997 e artigos 2o, 5o, 322, §2o, 489, §3o, 492, 502, 503 e 507 do CPC/2015" (e-STJ fl. 467), apontados nos embargos de declaração.
+Aduziu, na sequência, a inaplicabilidade do Tema 1.075 do STF ao caso dos autos, uma vez que "embora o dispositivo do ti"tulo executivo na o tenha feito menc a o expressa aos limites territoriais da coisa julgada, o princi"pio da adstric a o impo e que os limites da coisa julgada seja delineado nos termos da postulac a o inicial" (e-STJ fl. 475).
+Ao fim, pleiteou o sobrestamento do feito em virtude do Tema 1.302 do STJ.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo havido negativa de seguimento quanto à matéria abrangida pelo Tema 1.075 do STF (e-STJ fls. 482/484).
+Contraminuta às e-STJ fls. 511/514.
+Passo a decidir.
+A irresignação recursal não merece prosperar.
+Em relação à matéria não abrangida pela negativa de seguimento com apoio no Tema 1.075 do STF, no que tange à alegação de contrariedade do art. 1.022, II, do CPC, note-se que nem sequer foram opostos embargos de declaração contra o aresto hostilizado, situação que afasta eventual interesse recursal no ponto destacado. A propósito: AgRg no REsp 1548287/MG, rel. Ministro MAURO CAMPBELL MARQUES, Segunda Turma, julgado em 6/10/2015, D Je 16/10/2015; AgRg no Ag 1340386/PR, rel. Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, julgado em 28/2/2012, DJe 7/3/2012.
+Destaco, por fim, que a hipótese dos autos não se amolda à controvérsia a ser pacificada por meio do Tema 1.302 do STJ (definir, caso não limitado expressamente na sentença, se todos os servidores da categoria são legitimados para propor o cumprimento individual de sentença decorrente de ação coletiva proposta por sindicato, independentemente de filiação ou de constar em lista), uma vez que proposta pelo MPF a ação civil pública que engendrou o título exequendo.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista, nos autos, prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC, observados, caso aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
