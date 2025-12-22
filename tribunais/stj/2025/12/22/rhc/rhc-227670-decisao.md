@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por RAFAEL GALVAN contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO que denegou a ordem nos autos do HC n. 1032249-33.2025.8.11.0000.
+Consta dos autos que o recorrente foi querelado em ação penal privada pela suposta prática dos crimes de difamação e injúria, com a causa de aumento do art. 141, III, do Código Penal.
+No mandamus originário, sustentou-se o trancamento da ação por nulidades iniciais e pela decadência do direito de queixa, tendo o Tribunal a quo denegado a ordem.
+Nas presentes razões, o recorrente sustenta a ilegalidade do acórdão denegatório, suscitando a nulidade da queixa-crime por ausência de mandato válido no prazo decadencial.
+Afirma que houve atuação de advogado do querelante sem procuração em três audiências, com impossibilidade de convalidação posterior.
+Alega, ainda, a existência de nulidade da citação eletrônica, por falta de confirmação idônea da identidade do querelado, acarretando prejuízo ao exercício da defesa.
+Argumenta ter havido violação ao art. 28-A do Código de Processo Penal, em razão da ausência de manifestação ministerial concreta e tempestiva sobre o oferecimento de Acordo de Não Persecução Penal - ANPP antes do recebimento da queixa.
+Defende a ocorrência da extrapolação dos embargos de declaração com efeitos modificativos substanciais sem nova oitiva do órgão ministerial.
+Aduz, por fim, a atipicidade material em contexto de crítica política e proteção constitucional da liberdade de expressão, enfatizando o constrangimento ilegal agravado por exposição midiática intensa e simultânea do recorrente, com quebra da regra da paridade de armas.
+Requer o provimento do recurso para determinar o trancamento da ação penal ou, alternativamente, reconhecer as teses de nulidades e a decadência.
+Subsidiariamente, pugna pelo refazimento dos atos processuais desde a origem, com análise prévia do ANPP.
+É o relatório.
+Decido.
+Dito isso, cumpre asseverar que o trancamento da ação penal constitui providência excepcional, admissível apenas quando se demonstrar, de plano, a atipicidade da conduta, a presença de causa extintiva da punibilidade ou a ausência manifesta de indícios de autoria ou de materialidade.
+Como  consabido,  o  entendimento  jurisprudencial  desta  Corte  é  de  que
+  o  trancamento  da  ação  penal  na  via  estreita  do  habeas  corpus  somente  é  possível,  em  caráter  excepcional,  quando  se  comprovar,  de  plano,  a  inépcia  da  denúncia,  a  atipicidade  da  conduta,  a  incidência  de  causa  de  extinção  da  punibilidade  ou  a  ausência  de  indícios  de  autoria  ou  de  prova  da  materialidade  do  delito  (AgRg  no  HC  n.  909.067/MG,  relator  Ministro  Reynaldo  Soares  da  Fonseca,  Quinta  Turma,  julgado  em  14/5/2024,  DJe  de  20/5/2024).
+No caso em tela, as teses defensivas não se enquadram em nenhuma dessas hipóteses, pois dependem de análise fática aprofundada, o que é vedado na via eleita.
+Com efeito, a Corte de origem consignou (fls. 273/ 274):
+Verte dos autos processuais eletrônicos e das informações fornecidas pela d. autoridade tida por coatora, analisados em conjunto com os dados disponíveis nos sistemas informatizados deste eg. Sodalício Estadual, que, em 25/10/2024, Mykaell Thiago dos Santos Vitorino Bandeira apresentou queixa-crime contra RAFAEL GALVAN, imputando-lhe a prática dos crimes de difamação (art. 139, CP) e injúria (art. 140, CP), ambos com causa de aumento de pena (art. 141, III, CP).
+Colhe-se da queixa-crime que, nos dias 22 e 23 de outubro 2024, Mykaell Thiago teria sido ofendido de forma gratuita por RAFAEL, tendo sido tais ofensas proferidas em vídeos publicados pelo querelado em suas redes sociais e, posteriormente, divulgados amplamente em grupos de WhatsApp no Município de Rondonópolis/MT.
+(..)
+Durante uma conversa via aplicativo de mensagens, RAFAEL iniciou ofensas aoRAFAEL querelante, exigindo o pagamento de uma quantia de R$ 80.000,00 (oitenta mil reais), fato que foi rechaçado pelo querelante e lhe pareceu ter sido o gatilho para iniciar uma série de ataques infundados e criminosos.
+Após a publicação dos vídeos, o querelante, através de seu advogado, confeccionou Boletim de Ocorrência narrando os fatos, todavia, RAFAEL continuou a disseminar as supostas inverdades em grupos de WhatsApp, sendo um deles o grupo "GIRO DE NOTÍCIAS", o qual possui 308 membros.
+Da leitura dos excertos supratranscritos, não se evidencia qualquer ilegalidade capaz de confirmar a atipicidade asserida pelo recorrente, haja vista a descrição detalhada dos fatos pela queixa-crime; os quais, para sua improcedência ou confirmação, demanda apuração em ação penal privada.
+Pesa, ainda, o fato de não se haver demonstrado, de modo inequívoco, pelo recorrente a aduzida atipicidade da conduta, o que afasta a nulidade suscitada, em virtude de tratar-se de premissa desacompanhada de qualquer elemento concreto de prova capaz de corroborá-la, de plano; e que, na embrionária fase processual, mostra-se incompatível com a estreita via de cognição própria recurso ordinário.
+Dessarte, eventual caso de atipicidade da conduta deve ser analisado por meio da produção das provas reservada à fase de instrução, revelando-se prematuro qualquer exame nesse sentido, tendo por base as informações trazidas nos autos.
+No que tange à aduzida mácula, decorrente da ausência de procuração com poderes especiais dentro do prazo decadencial de 06 (seis) meses, estabelecido pelo art. 38 do Código de Processo Penal, o acórdão recorrido mostra-se igualmente irretocável, porquanto acertadamente expôs que, consoante se extrai da prova pré-constituída, e conforme bem-pontuado pelo d. juízo de origem e pela Cúpula Ministerial, a queixa-crime foi assinada pelo próprio querelante Mykaell Thiago (..), o que, (..) supre a necessidade de procuração com poderes especiais (fl. 276).
+Vale dizer, o entendimento esposado pela Corte estadual não destoa da orientação jurisprudencial, há muito, sedimentada no âmbito deste Egrégio Tribunal Superior, segundo a qual,  a  assinatura do querelante na peça acusatória, juntamente com seu patrono, supre a deficiência da procuração (RHC n. 82.732/RS, Rel. Ministro Jorge Mussi, Quinta Turma, DJe 24/05/2017; HC n. 85.039/SP, Rel. Ministro Felix Fischer, Quinta Turma, DJe 30/03/2009; RHC n. 7.762/SP, Rel. Ministro Edson Vidigal, Quinta Turma, julgado em 20/08/1998, DJ 14/09/1998, p. 92).
+Com relação à invalidade da citação do querelado por meio do aplicativo Whatsapp, igualmente incabível o acolhimento da tese, haja vista expressa previsão normativa, além de não se verificar a demonstração, ao menos em tese, do efetivo prejuízo ao direito de defesa, decorrente do ato.
+Isso porque o art. 8º, caput, da Resolução CNJ n. 354/2020, expressamente preconiza (grifamos):
+Art. 8º Nos casos em que cabível a citação e a intimação pelo correio, por oficial de justiça ou pelo escrivão ou chefe de secretaria, o ato poderá ser cumprido por meio eletrônico que assegure ter o destinatário do ato tomado conhecimento do seu conteúdo.
+Cumpre, neste ponto, afastar o argumento defensivo que argui a nulidade da citação eletrônica por falta de confirmação idônea de identidade e prejuízo ao exercício da defesa; a uma, em razão da redação do art. 10 e incisos da mencionada resolução (grifamos):
+Art. 10. O cumprimento da citação e da intimação por meio eletrônico será documentado por:
+I - comprovante do envio e do recebimento da comunicação processual, com os respectivos dia e hora de ocorrência; ou
+II - certidão detalhada de como o destinatário foi identificado e tomou conhecimento do teor da comunicação.
+§ 1o O cumprimento das citações e das intimações por meio eletrônico poderá ser realizado pela secretaria do juízo ou pelos oficiais de justiça.
+A duas, porquanto, na hipótese, não se evidencia qualquer prejuízo à defesa; tendo o ato de citação atingido sua finalidade.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. DESCAMINHO E CONTRABANDO. TESE DE NULIDADE DA CITAÇÃO POR WHATSAPP. CIÊNCIA INEQUÍVOCA DA AÇÃO PENAL, INCLUSIVE COM APRESENTAÇÃO DE RESPOSTA À ACUSAÇÃO PELA DEFESA DO RECORRENTE. VALIDADE DO ATO. PREJUÍZO NÃO CONFIGURADO. AGRAVO DESPROVIDO.
+1. Consoante entendimento da Sexta Turma do Superior Tribunal de Justiça, embora não haja óbice à citação por WhatsApp, é necessária a certeza de que o receptor das mensagens se trata do Citando(a).
+2. Na hipótese, foram observadas todas as diretrizes previstas em lei para a prática do ato processual em questão, pois as informações consignadas pelo serventuário da Justiça - dotadas de fé pública - e a análise dos demais elementos do caso permitem concluir que o Agravante teve inequívoca ciência da ação penal contra si em curso.
+3. Ademais, não houve qualquer prejuízo processual demonstrado pelo Réu que importe em nulidade do ato de citação por meio eletrônico, tendo em vista que foi apresentada defesa prévia no prazo legal, apresentados documentos pela Defensoria, realizado interrogatório, apresentadas alegações finais e, ainda, recurso de apelação.
+4. Agravo desprovido.
+(AgRg no RHC n. 143.990/PR, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 6/3/2023, DJe de 20/3/2023.).
+Finalmente, no que respeita ao oferecimento do ANPP, considerando que as decisões proferidas nas instâncias ordinárias encontrarem-se livres de máculas, alinho-me ao opinativo exarado pela d. Subprocuradora-Geral da República e concluo pela pertinência a que seja instado o Ministério Público estadual, a fim de que se manifeste sobre o oferecimento (ou não) do acordo (fl. 475).
+Ante o exposto, nego provimento ao recurso ordinário, expedindo-se recomendação ao Juízo de primeiro grau de que oportunize ao parquet estadual sua manifestação acerca de eventual oferecimento do ANPP, nos termos do parecer do Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
