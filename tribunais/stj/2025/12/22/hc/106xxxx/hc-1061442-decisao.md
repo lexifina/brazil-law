@@ -1,0 +1,10 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de GEILSON RODRIGUES SANTOS - condenado por homicídio qualificado -, atacando-se o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL (Apelação Criminal n. 0912951-51.2024.8.12.0001), não comporta processamento.
+Com efeito, busca a impetração a nulidade do julgamento do Tribunal do Júri, perante o Juízo de Direito da 1ª Vara do Tribunal do Júri da comarca de Campo Grande/MS (Ação Penal n. 0912951-51.2024.8.12.0001), ao argumento de que a decisão dos jurados é intrinsecamente contraditória e manifestamente contrária à prova dos autos (fls. 9/11).
+Ocorre que, além de se tratar de impetração indevidamente utilizada como substitutivo de recurso próprio, o que afasta a competência desta Corte Superior para análise do pleito, não se verifica a ocorrência do ilegal constrangimento, pois o Tribunal estadual, no julgamento da apelação criminal, afastou a alegação de decisão manifestamente contrária à prova dos autos, ao fundamento de que a soberania dos veredictos impede a anulação quando houver mais de uma versão plausível, ainda que amparada em prova mínima, e de que os jurados podem optar por elementos indiciários inclusive extrajudiciais (fls. 898/905), razão pela qual obter entendimento diverso ensejaria profundo revolvimento de fatos e provas da ação penal, providência indesejável na via estreita do habeas corpus.
+Ademais, a pretensão de anular o julgamento por ausência de oitiva da servidora penitenciária Tatiane Bravo não pode ser conhecida, pois não foi apreciada pela Corte estadual no acórdão hostilizado, o que configuraria prestação jurisdicional em indevida supressão de instância.
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO. WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO. NULIDADE DO JULGAMENTO DO TRIBUNAL DO JÚRI. DECISÃO MANIFESTAMENTE CONTRÁRIA À PROVA DOS AUTOS. SOBERANIA DOS VEREDICTOS. ENTENDIMENTO DIVERSO. REVOLVIMENTO DE FATOS E PROVAS. IMPOSSIBILIDADE. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL MANIFESTO.
+Inicial indeferida liminarmente.
