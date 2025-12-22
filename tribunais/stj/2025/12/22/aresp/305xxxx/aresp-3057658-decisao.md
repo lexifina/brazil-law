@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por Rubens Patrick Morel contra a decisão do Tribunal de Justiça de Rondônia que inadmitiu recurso especial apresentado contra o acórdão exarado no julgamento da Apelação Criminal n. 0015735-12.2018.8.22.0501 (fls. 3.885/3.934).
+O Ministério Público Federal apresentou parecer opinando pelo não conhecimento do agravo, pela ausência de impugnação específica dos fundamentos da decisão agravada, com incidência da Súmula 182/STJ (fls. 4.594/4.604).
+É o relatório.
+O agravo é inadmissível.
+Inicialmente, esclareço que a decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos, inclusive de forma específica, suficiente e pormenorizada, não sendo suficientes meras alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência do óbice da Súmula 182/STJ (AgRg nos EDcl no AREsp n. 2.985.942/MA, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 16/9/2025, DJEN de 25/9/2025).
+No caso em apreço, o Tribunal de origem inadmitiu o apelo nobre pelos seguintes fundamentos: 1) incidência da Súmula 7/STJ - a pretensão absolutória quanto ao crime de associação para o tráfico (art. 35 da Lei n. 11.343/2006) demandaria revolvimento do conjunto fático-probatório, inclusive quanto à estabilidade e permanência do vínculo associativo; e 2) incidência da Súmula 7/STJ - a revisão da dosimetria, fixada com base na quantidade e natureza da droga (art. 42 da Lei n. 11.343/2006), igualmente exigiria reanálise de fatos e provas (fls. 4.313/4.317).
+Entretanto, nas razões do agravo, a defesa não impugnou especificamente esse fundamento. Limitou-se a sustentar genericamente que não se faz necessário o reexame de provas (fl. 4.510) e a citar precedentes sobre execução penal, estranhos ao caso, sem demonstrar como a tese defensiva prescindiria do reexame de provas. Quanto à dosimetria, restringiu-se a apontar a desproporcionalidade do quantum, sem atacar o óbice processual aplicado.
+Por conseguinte, aplica-se, à hipótese dos autos, o art. 932, III, do Código de Processo Civil, c/c o art. 3º do Código de Processo Penal, e a Súmula 182/STJ por analogia.
+Na mesma linha: AgRg no AREsp n. 2.527.837/AL, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 21/10/2025, DJEN de 28/10/2025 e AgRg no AREsp n. 2.804.469/MS, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 17/6/2025, DJEN de 26/6/2025.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. ASSOCIAÇÃO PARA O TRÁFICO INTERESTADUAL DE DROGAS. OPERAÇÃO SATIVA-EFEUM DECISÃO DE ADMISSIBILIDADE DO TRIBUNAL DE ORIGEM. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA E INTEGRAL DOS FUNDAMENTOS. NÃO OBSERVÂNCIA DO PRINCÍPIO DA DIALETICIDADE RECURSAL. INCIDÊNCIA DA SÚMULA 182/STJ.
+Agravo em recurso especial não conhecido.
