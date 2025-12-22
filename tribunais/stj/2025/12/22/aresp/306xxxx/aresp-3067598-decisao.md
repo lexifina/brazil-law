@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo interposto por SIMONE LOPES SOARES da decisão do TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO, que inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelação Cível n. 5000327-29.2021.4.02.5108/RJ, assim ementado (fl. 416):
+DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL. APELAÇÃO CÍVEL. DEPENDENTE DE MILITAR REFORMADO (SEGUNDA ESPOSA). ATENDIMENTO MÉDICO. SISTEMA DE SAÚDE DA AERONÁUTICA (ARTIGO 50, INCISO IV, ALÍNEA E, LEI Nº 6.880/1980). RECUSA EM FUNÇÃO DA NÃO EXCLUSÃO DA 1ª ESPOSA DO CADASTRO DE DEPENDENTES. RELAÇÃO JURÍDICA ADMINISTRATIVA E NÃO DE CONSUMO. ANÁLISE DO CASO CONCRETO. REGULAMENTAÇÃO INTERNA DA ADMINISTRAÇÃO MILITAR (NSCA 160-5, ITENS 7.1 E 7.3; ANEXO D, ITEM 1.4). ALEGADO ERRO DA ADMINISTRAÇÃO. NÃO CONFIGURAÇÃO. PERDA DE CHANCE DE TRATAMENTO. NÃO COMPROVAÇÃO. INDENIZAÇÃO A TÍTULO DE DANOS MATERIAIS E MORAIS. DESCABIMENTO. APELAÇÃO DOS AUTORES DESPROVIDA. SENTENÇA MANTIDA. VERBA SUCUMBENCIAL MAJORADA (ARTIGO 85, § 11, CPC/2015).
+Nas razões do recurso especial, interposto com base no art. 105, inciso III, alínea a, da Constituição Federal, a parte recorrente alega afronta aos seguintes dispositivos (fls. 529-540):
+a) quanto à gratuidade de justiça e ao acesso à justiça, sustenta que a assistência judiciária gratuita foi deferida no início e no curso do processo e que pode ser reconhecida em qualquer momento, inclusive de ofício, por se tratar de garantia constitucional (art. 5º, inciso LXXIV, e art. 5º, inciso XXXV, da Constituição Federal). Pede o deferimento da gratuidade (fls. 529-530 e 536-538);
+b) relativamente à extinção da execução por causas legais, a recorrente indica os arts. 485, inciso IV, e 924, inciso III, do Código de Processo Civil, afirmando a impossibilidade de prosseguimento da execução diante do risco de bloqueio de valores destinados integralmente ao tratamento de saúde. Pede o provimento do recurso para julgar extinta a execução (fls. 538 e 540); e
+c) como reforço argumentativo, a recorrente menciona o ato ilícito e o dever de indenizar com base nos arts. 186 e 927 do Código Civil (fl. 538).
+Ao final, requer o recebimento, reconhecimento, admissão e remessa do recurso ao Superior Tribunal de Justiça; o deferimento da gratuidade de justiça; e o provimento do recurso especial para julgar extinta a execução, nos termos dos arts. 924, inciso III, e 485, inciso IV, do Código de Processo Civil (fl. 540).
+Contrarrazões ao recurso especial às fls. 542-545.
+Não admitido o recurso especial pelo Tribunal de origem (fls. 547-549), seguiu-se o presente agravo em recurso especial (fls. 550-554).
+Contraminuta ao agravo em recurso especial às fls. 555-557.
+É o relatório.
+Decido.
+O agravo em recurso especial não pode ser conhecido.
+O Tribunal a quo não admitiu o apelo nobre, por considerar que o aresto atacado estaria em harmonia com a jurisprudência desta Corte Superior (Súmula n. 83 do STJ).
+Todavia, a parte agravante, nas razões do agravo em recurso especial, não cuidou de trazer qualquer julgado contemporâneo ao provimento judicial agravado e prolatado em moldura fática análoga, de forma a atestar que o acórdão recorrido não estaria em harmonia com a atual jurisprudência deste Superior Tribunal de Justiça, nem comprovou que os precedentes apontados na decisão agravada seriam inaplicáveis à hipótese dos autos. Nessas condições, não se desobrigou do ônus de comprovar a incorreção do decisum que não admitiu o apelo nobre.
+Na espécie, a parte agravante cingiu-se a sustentar, in verbis (fls. 552-554):
+III. DA CONTRARIEDADE À LEI FEDERAL E DA NECESSIDADE DE REFORMA DA DECISÃO AGRAVADA
+A decisão que inadmitiu o Recurso Especial fundamentou-se na Súmula 83/STJ, sob o argumento de que a concessão da gratuidade de justiça não possui efeitos retroativos. Contudo, a situação fática dos autos difere da premissa adotada pela decisão agravada, configurando contrariedade à lei federal, notadamente o art. 98, § 1º, do Código de Processo Civil.
+Conforme expressamente consignado na sentença de primeiro grau (Evento 1 da Petição nº 5004149-47.2021.4.02.5101/RJ), a gratuidade de justiça foi DEFERIDA à parte autora.
+O trecho da sentença é claro ao afirmar: "Sem custas em razão da gratuidade de justiça, que ora defiro".
+É fundamental destacar que o deferimento da gratuidade de justiça em primeira instância, no bojo da própria sentença que extinguiu o processo, implica que o benefício abrange todos os atos processuais desde o início da demanda, ou, no mínimo, desde o momento do requerimento. A tese de que a gratuidade não retroage aplica-se a situações em que o benefício é concedido em momento posterior à fixação dos honorários, o que não é o caso.
+No presente caso, a gratuidade foi deferida no mesmo ato em que se decidiu sobre as custas e honorários na primeira instância, e, mais importante, antes de qualquer condenação em honorários advocatícios em favor da União. A condenação em honorários ocorreu apenas em sede recursal, após o provimento do recurso da União.
+Portanto, a gratuidade de justiça já existia e era válida quando da prolação da sentença de primeiro grau, que, inclusive, não condenou a agravante em honorários.
+A jurisprudência do Superior Tribunal de Justiça, embora pacífica quanto à irretroatividade da gratuidade de justiça para alcançar honorários já fixados, não se aplica quando o benefício é deferido na própria sentença de primeiro grau, antes da fixação de honorários em favor da parte adversa. A Súmula 83/STJ, citada na decisão agravada, trata de situações em que o benefício é concedido após a fixação dos honorários, o que não se coaduna com a situação em tela.
+Ademais, a recorrente sustentou em seu Recurso Especial que a gratuidade foi deferida no curso do processo (evento 12) e chancelado no evento 135, inclusive com efeito ex tunc. Essa alegação, se comprovada, reforça a inaplicabilidade da Súmula 83/STJ, pois a gratuidade já estaria operando seus efeitos antes da condenação em honorários na instância recursal. É imperioso que o Superior Tribunal de Justiça analise a peculiaridade do caso, onde a gratuidade de justiça foi deferida na origem, antes da condenação em honorários que se deu apenas em sede recursal.
+A manutenção da decisão agravada implicaria em violação ao direito fundamental de acesso à justiça e à própria finalidade da gratuidade, que é assegurar que a parte hipossuficiente não seja onerada por custas e honorários processuais.
+IV. DO PEDIDO
+Diante do exposto, requer a agravante o conhecimento e provimento do presente AGRAVO EM RECURSO ESPECIAL, para que seja reformada a decisão que inadmitiu o Recurso Especial, determinando-se o seu regular processamento e, ao final, o seu provimento, a fim de que seja reconhecida a validade da gratuidade de justiça deferida em primeira instância e seus efeitos sobre a condenação em honorários advocatícios, afastando-se a aplicação da Súmula 83/STJ ao presente caso.
+A propósito:
+ ..
+1. É inviável o conhecimento do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão agravada.
+2. "A adequada impugnação ao fundamento do juízo negativo de admissibilidade que aplicou a Súmula n. 83 desta Corte pressupõe a demonstração por meio de precedentes atuais de que a jurisprudência do STJ não estaria no mesmo sentido do acórdão recorrido, ou que o caso dos autos seria distinto daqueles veiculados nos precedentes através de distinguishing, o que não ocorreu na hipótese" (AgInt no AREsp n. 2.168.637/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 13/2/2023, DJe de 16/2/2023.)
+Agravo interno improvido.
+(AgInt no AREsp n. 2.147.724/RS, relator Ministro Humberto Martins, Segunda Turma, julgado em 27/3/2023, DJe de 30/3/2023.)
+Nesse panorama, verifico que deixou de ser observada a dialeticidade recursal (art. 932, inciso III, do Código de Processo Civil). Por conseguinte, o agravo em recurso especial carece do indispensável pressuposto de admissibilidade atinente à impugnação adequada e concreta de todos os fundamentos empregados pela Corte local para não admitir o recurso especial, a atrair a incidência da Súmula n. 182 do STJ.
+Nesse sentido:
+ ..
+5. Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC.
+6. Agravo Interno não provido.
+(AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Ante o exposto, NÃO CONHEÇO do agravo em recurso especial.
+Em atenção ao disposto no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado (fl. 415), respeitados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, bem como eventual concessão da gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. DEPENDENTE DE MILITAR REFORMADO (SEGUNDA ESPOSA). ATENDIMENTO MÉDICO. SISTEMA DE SAÚDE DA AERONÁUTICA. INADMISSÃO DO APELO NOBRE PELO TRIBUNAL DE ORIGEM. FUNDAMENTO (SÚMULA N. 83 DO STJ). AUSÊNCIA DE IMPUGNAÇÃO CONCRETA. SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
