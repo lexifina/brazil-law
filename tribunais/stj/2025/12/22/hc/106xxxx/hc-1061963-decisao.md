@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de DELEY DA SILVA LIMA apontando como coator o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 2357188-67.2025.8.26.0000).
+Consta dos autos que o paciente encontra-se preso em flagrante, em 29/10/2025, pela suposta prática do delito tipificado no art. 33, caput, da Lei n. 11.343/06. Na ocasião, foram apreendidos aproximadamente 36kg (trinta e seis quilos) de maconha.
+Impetrado habeas corpus perante a Corte local, a ordem foi denegada nos termos do acórdão de e-STJ fl. 12, assim ementado:
+EMENTA: DIREITO PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. ORDEM DENEGADA.
+I. Caso em Exame Habeas corpus impetrado em favor de paciente preso preventivamente por tráfico de drogas, conforme artigo 33, caput, da Lei nº 11.343/06. Pedido de revogação da prisão preventiva, alegando fundamentação inidônea e ausência de requisitos para a medida extrema.
+II. Questão em Discussão
+2. A questão em discussão consiste em verificar a legalidade da prisão preventiva do paciente, considerando a alegação de fundamentação inidônea e a possibilidade de aplicação de medidas cautelares alternativas.
+III. Razões de Decidir 3. A prisão preventiva é adequada e encontra respaldo nos requisitos dos arts. 312 e 313, I, do CPP, com indícios suficientes de autoria e materialidade.
+4. A decisão de prisão preventiva foi suficientemente fundamentada, destacando a gravidade do crime e o risco de evasão ou obstrução da Justiça.
+IV. Dispositivo e Tese
+5. Ordem de habeas corpus denegada.
+Nas razões do habeas corpus, sustenta a defesa ausência de fundamentação idônea, bem como dos requisitos autorizadores da medida constritiva, elencados no art. 312 do Código de Processo Penal.
+Ressalta que o paciente possui condições pessoais favoráveis e afirma ser suficiente a aplicação de medidas cautelares alternativas. Afirma ser possível a aplicação da redutora prevista no art. 33, § 4º da Lei n. 11.343/2006, razão pela qual a prisão preventiva seria desproporcional.
+Requer, em liminar e no mérito, a revogação da prisão preventiva.
+É o relatório.
+Decido.
+Insta consignar que a regra, em nosso ordenamento jurídico, é a liberdade. Assim, a prisão de natureza cautelar revela-se cabível tão somente quando, a par de indícios do cometimento do delito (fumus commissi delicti), estiver concretamente comprovada a existência do periculum libertatis, nos termos do art. 312 do CPP.
+São estes os fundamentos invocados para a decretação da prisão preventiva (e-STJ fls. 23/24, grifei):
+O estado de flagrância decorre da notícia da apreensão de expressiva e notável quantidade de droga encontrada em poder do autuado (cerca de 36 quilos de maconha em 45 tijolos), além de além de dinheiro, balança de precisão e caderno de contabilidade e anotações de traficância, conforme boletim de ocorrência de p. 04/10, auto de exibição e apreensão de p. 27/28 e laudos preliminares de constatação de p. 24/26, a configurar, em tese, crime de tráfico ilícito de entorpecentes. A detenção se deu em via pública, depois de notícias e denúncias de traficância pelo autuado, destacando-se que ele tentou se evadir ao visualizar a presença da viatura policial, o que fez reforçar a fundada suspeita para abordagem veicular e o encontro das citadas drogas dentro do automóvel, tendo ele confessado o transporte dos entorpecentes perante os policiais.  .. . A conduta praticada, em tese, pelo autuado, é daquelas que tem subvertido a paz social, porquanto detido com magnânima quantidade de maconha. Registre-se que não soa razoável nem um pouco crível que um indivíduo a quem foi confiada a guarda e o transporte de expressiva quantidade de maconha para abastecimento de "biqueiras" não tenha alguma ligação com organizações criminosas ou que esteja envolvido de forma profunda na cadeia de participação do tráfico de drogas, pinçando-se evidente o risco concreto de sua evasão do distrito da culpa ou obstrução da Justiça, caso fique em liberdade.  .. . Outrossim, o custodiado foi detido com vultosa quantidade de drogas de altíssimo poder lancinante e quantia de dinheiro, além de caderno de anotações da traficância e balança de precisão, a indicar constância de participação na senda criminosa, a revelar não só desenganada inclinação ao mundo da traficância, mas também alguma sorte de ascensão na escalada criminosa.
+Como se vê, a segregação preventiva encontra-se devidamente motivada, pois destacou o Magistrado de piso a gravidade concreta da conduta, evidenciada pela quantidade de entorpecente apreendido, a saber, cerca de 36kg (trinta e seis quilos) de maconha, além de dinheiro, balança de precisão e contabilidade do tráfico, o que demonstra, por ora, a necessidade da segregação como forma de acautelar a ordem pública.
+A propósito:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Agravo regimental interposto contra decisão que denegou a ordem de habeas corpus, mantendo a prisão preventiva do agravante, acusado de tráfico de drogas e associação para o tráfico, conforme os arts. 33 e 35 da Lei n. 11.343/2006.
+2. A jurisprudência consolidada do Superior Tribunal de Justiça reconhece que a quantidade e a natureza das substâncias entorpecentes apreendidas constituem fundamentos adequados para a decretação da prisão preventiva.
+3. No caso, houve a apreensão de 676,72 g de maconha e 128 porções de crack, demonstrando a gravidade concreta do delito.
+4. Ademais, havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: AgRg no HC n. 801.412/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/3/2023, DJe de 13/3/2023; e AgRg no HC n. 771.854/ES, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 6/3/2023, DJe de 9/3/2023.
+5. Agravo regimental improvido.
+(AgRg no HC n. 939.711/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 12/2/2025, DJEN de 18/2/2025.)
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO ILÍCITO DE DROGAS. PRISÃO PREVENTIVA. ESPECIAL GRAVIDADE DOS FATOS. FUNDAMENTAÇÃO IDÔNEA. MEDIDAS CAUTELARES DIVERSAS DA CUSTÓDIA. INSUFICIÊNCIA, NA HIPÓTESE. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA, NO CASO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Hipótese em que a prisão preventiva foi suficientemente fundamentada pelas instâncias ordinárias, ao ser ressaltada a gravidade concreta da conduta dos agravantes, evidenciada pela quantidade dos entorpecentes apreendidos. Tal circunstância demonstra a potencial periculosidade do agente e é apta a justificar a segregação cautelar para garantia da ordem pública. Precedentes.
+2. Tendo sido concretamente demonstrada a necessidade da prisão preventiva nos autos, não se mostra suficiente a aplicação de medidas cautelares mais brandas, nos termos do art. 282, inciso II, do Código de Processo Penal.
+3. A suposta existência de condições pessoais favoráveis, por si só, não assegura a desconstituição da custódia antecipada, caso estejam presentes os requisitos autorizadores da custódia cautelar, como ocorre no caso.
+4. Agravo regimental não provido.
+(AgRg no RHC n. 205.781/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 12/2/2025, DJEN de 17/2/2025.)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. DECISÃO DEVIDAMENTE FUNDAMENTADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A prisão preventiva, nos termos do art. 312 do CPP, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, desde que presentes prova da existência do crime e indícios suficientes de autoria e de perigo gerado pelo estado de liberdade do imputado.
+2. A prisão cautelar está fundamentada na necessidade de garantia da ordem pública, haja vista a gravidade concreta da conduta. Isto porque, no caso, o agravante foi flagrado transportando expressiva quantidade e diversidade de entorpecentes (123,6 g de cocaína, 21,3 g de crack e 54,5 g de maconha), além de faca e balança de precisão. Precedentes do STJ.3.
+Agravo regimental não provido.
+(AgRg no HC n. 819.591/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 12/6/2023, DJe de 16/6/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO ILÍCITO DE DROGAS. PRISÃO PREVENTIVA. REQUISITOS. GRAVIDADE CONCRETA DOS FATOS. QUANTIDADE DE DROGA APREENDIDA. FUNDAMENTAÇÃO IDÔNEA. SUBSTITUIÇÃO DA CUSTÓDIA POR MEDIDAS CAUTELARES DIVERSAS. INSUFICIÊNCIA, NA HIPÓTESE. AGRAVO DESPROVIDO.
+1. Hipótese em que a prisão preventiva foi decretada com fundamento na gravidade concreta do delito, evidenciada pela expressiva quantidade de droga apreendida, de modo a justificar, nos termos da jurisprudência desta Corte Superior de Justiça, a segregação cautelar para garantia da ordem pública.
+2. No caso, mostra-se inviável a aplicação de medidas cautelares diversas da prisão, pois a gravidade concreta do delito demonstra serem insuficientes para acautelar a ordem pública.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 783.285/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 13/2/2023, DJe de 17/2/2023.)
+As circunstâncias que envolvem o fato demonstram que outras medidas previstas no art. 319 do CPP não surtiriam o efeito almejado para a proteção da ordem pública, sendo certo, ainda, que condições subjetivas favoráveis do paciente, por si sós, não impedem a prisão cautelar, caso se verifiquem presentes os requisitos legais para a decretação da segregação provisória.
+Por fim, não cabe a esta Corte, sob o pretexto de constatar a desproporcionalidade da prisão processual, realizar juízo intuitivo e de probabilidade para aferir eventual pena a ser aplicada ao recorrente, tampouco para concluir pela possibilidade de fixação de regime diverso do fechado e de substituição da reprimenda corporal, tarefas essas próprias do Juízo de primeiro grau por ocasião do julgamento do mérito da ação penal.
+Confira-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. SÚMULA N. 691 DO STF. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA DEVIDAMENTE FUNDAMENTADA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. VIOLAÇÃO DO PRINCÍPIO DA HOMOGENEIDADE. IMPOSSIBILIDADE DE AFERIÇÃO. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+4. É firme nessa Corte o entendimento de que, "em relação à alegação de desproporcionalidade da prisão em cotejo à futura pena a ser aplicada, trata-se de prognóstico que somente será confirmado após a conclusão do julgamento da ação penal, não sendo possível inferir, nesse momento processual e na estreita via ora adotada, o eventual regime prisional a ser fixado em caso de condenação (e consequente violação do princípio da homogeneidade)" (AgRg no RHC n. 171.448/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/10/2022, DJe de 24/10/2022).
+ ..
+6. Agravo regimental improvido.
+(AgRg no HC n. 913.363/PB, relator Ministro Jesuíno Rissato, Desembargador Convocado do TJDFT, Sexta Turma, julgado em 19/8/2024, DJe de 22/8/2024.)
+À vista do exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
