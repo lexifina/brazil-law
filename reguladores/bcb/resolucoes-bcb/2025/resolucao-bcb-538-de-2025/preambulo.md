@@ -1,0 +1,4 @@
+Resolução Nº 538 RESOLUÇÃO BCB Nº 538, DE 18 DE DEZEMBRO DE 2025
+Altera a Resolução BCB nº 85, de 8 de abril de 2021, que dispõe sobre a política de segurança cibernética e sobre os requisitos para a contratação de serviços de processamento e armazenamento de dados e de computação em nuvem a serem observados pelas instituições de pagamento, pelas sociedades corretoras de títulos e valores mobiliários, pelas sociedades distribuidoras de títulos e valores mobiliários e pelas sociedades corretoras de câmbio autorizadas a funcionar pelo Banco Central do Brasil.
+A Diretoria Colegiada do Banco Central do Brasil, em sessão realizada em 3 de dezembro de 2025, com base no art. 9º-A, caput, incisos I e II, da Lei nº 4.728, de 14 de julho de 1965, nos arts. 9º, caput, incisos II e IX, e 10 e 15 da Lei nº 12.865, de 9 de outubro de 2013,
+R E S O L V E :
