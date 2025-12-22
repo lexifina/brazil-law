@@ -1,0 +1,28 @@
+DECISÃO
+O Instituto Nacional do Seguro Social - INSS interpôs recurso especial, com fundamento no art. 105, III, alínea a, da Constituição Federal, contra acórdão do Tribunal Regional Federal da 2ª Região, assim ementado (e-STJ, fl. 717) :
+PREVIDENCIÁRIO. APELAÇÕES DO INSS E DA PARTE AUTORA. REVISÃO DE APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. REQUERIMENTO ADMINISTRATIVO. SUSPENSÃO DO PRAZO PRESCRICIONAL. EC 113/2021. TAXA SELIC.
+I- Afastada a preliminar de falta de interesse de agir, uma vez que a autarquia previdenciária apresentou contestação e requereu a improcedência do pedido, restando caracterizada a pretensão resistida e o interesse de agir da parte autora. II-O requerimento administrativo é causa suspensiva da prescrição e a suspensão mantém-se durante o período de tramitação do processo administrativo até a comunicação da decisão ao interessado.
+III- As parcelas trabalhistas reconhecidas em sentença trabalhista após a concessão do benefício, sobre as quais foram recolhidas as contribuições previdenciárias correspondentes, devem integrar os salários-de-contribuição utilizados no período-base de cálculo, com vista à apuração da nova renda
+mensal inicial, com integração daquelas parcelas.
+IV- Restou suficientemente demonstrada a majoração dos salários-de-contribuição da parte autora, por sentença judicial trabalhista, ante a recomposição do salário, e do direito à percepção das diferenças salariais com o devido recolhimento das cotas previdenciárias.
+V- Quanto à incidência ao caso da nova disposição introduzida pela Emenda Constitucional nº 113/2021, relativo à correção monetária e aos juros de mora, aplica-se a Taxa SELIC, e seus efeitos se darão a partir de sua vigência, 09/12/2021.
+VI- Improvido o recurso do INSS, deve ser determinada a majoração em 1% (um por cento) dos honorários advocatícios devidos a ser definido em fase de liquidação do julgado, nos termos do § 11 do artigo 85 do NCPC.
+VII- Apelação do INSS conhecida e desprovida. Apelação da parte autora conhecida e parcialmente provida.
+Os embargos de declaração foram rejeitados (e-STJ, fl. 772).
+Nas razões do recurso especial (e-STJ, fls. 782-790), o INSS sustenta violação ao art. 1022, II, do CPC, tendo em vista que o Tribunal de origem não se pronunciou sobre o disposto nos arts. 5º, XXXVI, 195, § 5º, e 201 (equilíbrio financeiro e atuarial), da Constituição Federal, no art. 33 da Lei n. 8.213/91 e no art. 28, § 5º, da Lei n. 8.212/91.
+A par disso, alega violação dos arts. 28, §5º, da Lei n. 8.212/91 e 33, da Lei n. 8.213/91, porque o julgado impugnado ignorou a impossibilidade de serem considerados no cálculo do benefício da parte autora salários de contribuição e de benefício superiores aos respectivos tetos no mês de competência.
+O recurso especial foi admitido pelo Tribunal de origem (e-STJ, fl. 841).
+Brevemente relatado, decido.
+A questão de fundo suscitada pela parte recorrente é a alegada impossibilidade de promover a revisão da renda mensal inicial do benefício, com a inclusão no cálculo de contribuições previdenciárias eventualmente vertidas em valores superiores ao teto de contribuição do mês de competência, decorrentes de diferenças salariais reconhecidas em favor do autor em sentença trabalhista. Esse provimento judicial impôs ao empregador o recolhimento das diferenças de contribuição previdenciária no período de FEV/2007 a ABR/2014.
+Tal questão foi suscitada pelo INSS na contestação (e-STJ, fl. 643). A despeito disso, o magistrado de primeiro grau não tratou daquela matéria defensiva (e-STJ, fls. 653-658).
+O INSS não apresentou embargos de declaração contra a sentença, tampouco incluiu aquela questão nas razões de apelação (e-STJ, fls. 682-690). Assim, ao julgar as apelações interpostas pelo INSS e pela parte autora (e-STJ, fls. 663-672), a Corte regional não se pronunciou sobre ela, conforme ementa do julgado acima transcrita.
+Em seguida, foram opostos embargos de declaração pela autarquia previdenciária, suscitando omissão do Tribunal de origem sobre aquela questão (e-STJ, fls. 742-744). Os embargos foram rejeitados, sob o fundamento de que não houve omissão (e-STJ, fl. 772).
+Essa sequência de eventos indica com clareza que a questão de fundo não foi prequestionada, tendo em vista que a Corte regional não tratou dela ao julgar a apelação nem ao julgar os subsequentes aclaratórios.
+Por conseguinte, em relação à alegação de violação do art. 33 da Lei n. 8.213/1991 e do art. 28, § 5º, da Lei n. 8.212/1991, não será possível conhecer do recurso pela ausência de prequestionamento, tendo aplicação a Súmula n. 211/STJ.
+Por outro lado, quanto à alegação de violação dos arts. 489 e 1.022 do CPC/2015, o recurso deve ser conhecido, porém não merece prosperar.
+O acórdão impugnado não incorreu em omissão, tendo em vista que a questão de fundo não foi tratada na sentença, não foi suscitada em embargos de declaração contra o provimento judicial de primeira instância e igualmente foi ignorada nas razões de apelação. Portanto, a decisão de rejeição dos embargos de declaração foi correta.
+Do exposto, conheço, em parte, do recurso especial e, nessa extensão, n ego-lhe provimento.
+Em razão do disposto no art. 85, § 11, do CPC, majoro em 1% (um ponto percentual) os honorários advocatícios sucumbenciais fixados na instância ordinária, observados os limites e parâmetros dos §§ 3º e 5º do mesmo dispositivo.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. PREVIDENCIÁRIO. VIOLAÇÃO AOS ARTS. 28, §5º, DA LEI N. 8.212/91 E 33, DA LEI N. 8.213/91. PREQUESTIONAMENTO. NÃO OCORRÊNCIA. SÚMULA 211/STJ. VIOLAÇÃO INEXISTENTE AOS ARTS. 489 E 1022, II, CPC. RECURSO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
