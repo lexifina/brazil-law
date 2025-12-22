@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de LUAN ARTUR DA SILVA SALLES - condenado por tráfico de drogas (277,76 g de cocaína e 1.289,04 g de crack - fl. 1.096) e associação para o tráfico a 9 anos e 4 meses de reclusão, e 1.400 dias-multa -, apontando-se como ato coator o acórdão de apelação criminal proferido pelo Tribunal de Justiça de Santa Catarina (fls. 1.293/1.307).
+A impetração busca a absolvição do paciente e, subsidiariamente, o reconhecimento do tráfico privilegiado - na condenação proferida na Ação Penal n. 5000144-79.2024.8.24.0008 (fls. 1.096/1.119, da 2ª Vara Criminal da comarca de Blumenau/SC) -, aos argumentos de:
+a) nulidade da quebra de sigilo de dados dos celulares, sustentando decisão judicial genérica e sem fundamentação concreta, em afronta aos arts. 5º, XII, e 93, IX, da Constituição Federal, art. 489, § 1º, do CPC e art. 564, V, do CPP (fls. 4/10);
+b) nulidade das buscas pessoal, veicular e domiciliar por ausência de fundada suspeita, aduzindo que a abordagem se pautou em subjetivismo e na mera notoriedade do local, sem elementos objetivos prévios (art. 244 do CPP), contaminando a cadeia probatória (fls. 16/22); e
+c) possibilidade de incidência da causa de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006, infirmando que não se comprovou dedicação a atividades criminosas e que mensagens de celular e a quantidade de droga apreendida, isoladamente, não bastam para afastar o redutor (fls. 24/25).
+Sem pedido liminar.
+É o relatório.
+O writ é inadmissível, uma vez que se trata de impetração destinada a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, e não se verifica a ocorrência de flagrante constrangimento ilegal apto a subsidiar a superação do óbice, pois:
+a) a pretensão de reconhecimento da nulidade da quebra de sigilo de dados não pode ser conhecida, por se tratar de reiteração de pedidos veiculados no HC n. 894.529/SC, impetrado em nome do ora paciente;
+b) o Tribunal estadual, no julgamento da apelação, afastou a alegação de nulidade de busca pessoal e veicular, ao fundamento de que a abordagem ocorreu em policiamento ostensivo em área conhecida pelo tráfico, onde o veículo de aplicativo, ao avistar as viaturas, realizou manobra suspeita (tentativa de retorno), legitimando a ordem de parada, a busca pessoal e a revista veicular (fls. 1.297/1.299), em consonância com o entendimento desta Corte Superior (AgRg no HC n. 925.900/PR, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 12/9/2024);
+c) a busca domiciliar foi fundamentada na apreensão de entorpecentes na busca pessoal e veicular e na informação da adolescente sobre anotações de tráfico em sua residência, somada à dinâmica dos fatos - agentes visualizando o arremesso de mochila com drogas, balanças e caderno, e o estado de flagrância (fls. 1296/1297 e 1303/1304), também de acordo com a jurisprudência deste Tribunal (AgRg no REsp n. 2.226.540/PR, Ministro Joel Ilan Paciornik, Quinta Turma, DJEN de 15/12/2025); e
+d) na dosimetria, o acórdão hostilizado afastou corretamente o tráfico privilegiado, indicando dedicação à narcotraficância e a própria condenação por associação (fl. 1.304).
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS (277,76 G DE COCAÍNA E 1.289,04 G DE CRACK) E ASSOCIAÇÃO PARA O TRÁFICO. DOSIMETRIA. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. UTILIZAÇÃO INDEVIDA DO WRIT. INVIABILIDADE. FORMULAÇÃO DE PRETENSÕES INFUNDADAS. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Inicial indeferida liminarmente.
