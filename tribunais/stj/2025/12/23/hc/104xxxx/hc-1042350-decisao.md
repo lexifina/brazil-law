@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JOHNNY FELIPE LOPES MIRANDA, no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Habeas Corpus Criminal n. 2272478-17.2025.8.26.0000).
+Segundo consta dos autos, o paciente foi preso preventivamente, no dia 17/12/2024, acusado da suposta prática dos crimes previstos nos arts. 33, caput, e 35 da Lei n. 11.343/2006 (Medida Cautelar n. 1535137-76.2024.8.26.005 - fls. 106/113).
+A defesa alega que a manutenção da prisão preventiva do paciente caracterizaria constrangimento ilegal, uma vez que a audiência de instrução do processo-crime foi designada apenas para o dia 24/11/2025, quase um ano após a data da sua prisão, apesar de a resposta à acusação ter sido apresentada já em 11/3/2025.
+Afirma que a morosidade na tramitação processual, em contrariedade ao prazo estabelecido no art. 400 do Código de Processo Penal, viola a garantia constitucional da razoável duração do processo e não pode ser atribuída à defesa.
+Argumenta que a continuidade da prisão provisória representaria inadmissível antecipação da pena.
+Ressalta que o paciente é primário, não registra antecedentes, tem residência fixa e exerce ocupação lícita.
+Ao final, pede, inclusive liminarmente, que seja determinada a soltura do paciente, mesmo que com a imposição de medidas cautelares previstas no art. 319 do Código de Processo Penal, em razão do excesso de prazo na duração da prisão preventiva.
+Não conheci do habeas corpus em razão da instrução deficiente da petição inicial (fls. 97/98), porém reconsiderei a decisão, após a impetrante ter apresentado cópia do decreto prisional (fls. 104/114 e 116/117).
+O Juízo de primeira instância prestou as informações solicitadas (fls. 125/129).
+O Ministério Público Federal se manifestou pelo não conhecimento do habeas corpus (fls. 139/146).
+É o relatório.
+No caso, não se constata a existência de flagrante constrangimento ilegal que autorize a concessão da ordem de habeas corpus.
+Pelo que consta dos autos, o entendimento do Tribunal local está em consonância com a jurisprudência do Superior Tribunal de Justiça, pois a prisão preventiva é cabível mediante decisão devidamente fundamentada e com base em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos do art. 312 e seguintes do Código de Processo Penal (HC n. 527.660/SP, da minha relatoria, Sexta Turma, DJe 2/9/2020).
+No caso, é legítima a prisão cautelar decretada com o fim de garantir a ordem pública, dada a gravidade concreta dos crimes de tráfico de drogas e de associação para o tráfico imputados ao paciente e os demais 15 corréus, que estariam diretamente envolvidos com a distribuição e comercialização de drogas ilícitas no bairro de Cidade Tiradentes, em São Paulo/SP, como revelaram diferentes medidas investigativas realizadas no curso do inquérito policial, incluindo a interceptação telefônica dos suspeitos.
+Está justificada, portanto, a manutenção da custódia cautelar, pois foi demonstrado o preenchimento dos requisitos legais, não sendo recomendável a aplicação de nenhuma medida cautelar referida no art. 319 do Código de Processo Penal. Nem mesmo as condições favoráveis do agente impedem a manutenção da prisão cautelar, pois as circunstâncias evidenciam que as providências menos gravosas seriam insuficientes para a manutenção da ordem pública.
+Nessa linha, por exemplo, HC n. 631.397/PE, Ministra Laurita Vaz, Sexta Turma, DJe 18/8/2021; e RHC n. 133.153/MG, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 21/9/2020.
+No que tange ao dito excesso de prazo, dizem nossos precedentes que deve ser aferido dentro dos limites da razoabilidade, considerando-se as circunstâncias excepcionais que venham a retardar o término da instrução criminal ou do processo, não se restringindo à simples soma aritmética de prazos processuais. Assim, devem ser sopesados o tempo de prisão provisória, as peculiaridades da causa, sua complexidade e outros fatores que eventualmente possam afetar o curso da ação penal. Por todos, colho estes da Sexta Turma: AgRg no RHC 132.777/AL, da minha relatoria, DJe 1º/12/2021; e RHC n. 140.433/RS, Ministro Antonio Saldanha Palheiro, DJe 10/3/2021.
+Na espécie, não há situação incompatível com o princípio da razoável duração do processo. Isso porque não há notícia de ato procrastinatório por parte das autoridades públicas, nem está demonstrada desídia estatal, pois o Juízo de primeiro grau está conduzindo diligentemente o feito, e há pluralidade de réus e de defensores, os quais têm apresentado reiterados pedidos de revogação da prisão preventiva.
+Nesse sentido, as informações prestadas pelo Juízo de primeira instância demonstram que o processo a que respondem o paciente e os corréus tem tido tramitação absolutamente regular (fls. 125/126):
+Em 25 de setembro de 2024, fora decretada a prisão temporária do paciente no processo cautelar nº 1535137-76.2024.8.26.0050 (fls. 97/108). Todavia, a diligência restou infrutífera, tendo em vista a sua não localização.
+Em 16 de dezembro de 2024, foi decretada a prisão preventiva do paciente (fls. 258/265).
+O mandado de prisão foi cumprido em 17 de dezembro de 2024 (fls. 422/424).
+Em 19 de dezembro de 2024, o Ministério Público ofereceu a denúncia imputando ao paciente a prática do delito previsto no 33, caput, e 35 da Lei 11.343/06, na forma do artigo 69, caput, do Códi go Penal, porque, antes de 30 de agosto de 2024 até período incerto, na cidade de São Paulo, na Rua Igarapé da Missão, Cidade Tiradentes, associou-se para o fim de praticar reiteradamente o crime do artigo 33 da Lei 11.343/06 (fls. 387/413).
+Em 09 de janeiro de 2025, a Defesa requereu a revogação da prisão preventiva. Após manifestação contrária pelo Ministério Público, o pedido foi indeferido (fls. 709/712).
+A denúncia foi recebida em 04 de fevereiro de 2025 (fls. 709/712).
+A Defesa apresentou resposta à acusação no dia 11 de março de 2025, pleiteando a rejeição da denúncia, por falta de justa causa (fls. 843/863).
+Em 10 de abril de 2025, a Defesa realizou novo pedido de revogação da prisão preventiva, o qual foi indeferido (fls. 1083/1084).
+No dia 03 de junho de 2025, a Defesa formulou outro pedido de revogação da pisão preventiva, sendo novamente indeferido por estarem inalterados os fundamentos presentes nas fls. 1083/1084 (fls. 1257/1259).
+Em decisão proferida no dia 12 de agosto de 2025, a audiência de instrução, debates e julgamento foi designada para o dia 12 de novembro de 2025 (fls. 1505/1507).
+O mesmo ato ocorreu em 11 de julho de 2025 e 17 de julho de 2025, havendo indeferimento em ambos os pedidos (fls. 1415/1418).
+Note-se que, estando próximo o término da instrução criminal, corrobora-se a convicção de que inexiste excesso de prazo na espécie (RHC n. 102.868/SP, da minha relatoria, Sexta Turma, DJe de 12/3/2019).
+No mais, deve ser igualmente registrado que o tempo de duração da prisão cautelar do paciente, de cerca de 1 ano, guarda relação de proporcionalidade com a pena privativa de liberdade que lhe poderá ser aplicada em caso de condenação, de sorte que é infundada a alegação de que a medida seria mantida de forma desproporcio nal.
+Por fim, anoto que a informação trazida pela defesa, de que a instrução processual foi encerrada em 15/12/2025 e que o feito se encontra, no momento, na fase de apresentação de memoriais, para posterior prolação da sentença (fls. 151/210), reforça a inexistência de constrangimento ilegal por excesso de prazo, sobretudo diante da proximidade do julgamento.
+Somado a isso, na oportunidade, o juiz analisou novamente a situação prisional do réu e concluiu pela necessidade de manutenção da preventiva, em consonância com a compreensão esposada na presente decisão.
+Isso posto, denego a ordem de habeas corpus.
+Publique-se.
+EMENTA
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. EXCESSO DE PRAZO. PROCESSO COM TRAMITAÇÃO REGULAR. PROPORCIONALIDADE.
+Ordem denegada.
