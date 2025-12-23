@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto pela COOPERATIVA CENTRAL DE CRÉDITO DE MINAS GERAIS LTDA. - SICOOB CENTRAL CREDIMINAS, fundado nas alíneas "a" e "c" do permissivo constitucional, para desafiar acórdão do TRF da 1ª Região assim ementado (e-STJ fl. 235):
+TRIBUTÁRIO - MS - COOPERATIVA DE CRÉDITO - PIS SOBRE FOLHA DE SALÁRIOS (LEI 5.764/71) - INCIDÊNCIA.
+1. A questão posta nos autos cinge-se ao reconhecimento da inexigibilidade do PIS incidente sobre a folha de salários de COOPERATIVA DE CRÉDITO, quando esta se utilizar das deduções especificas na base tributável do PIS faturamento/receita.
+2. "As cooperativas de crédito são equiparadas às empresas para fins da legislação trabalhista e previdenciária, por força da determinação contida no art. 91 da Lei 5.764/71. Estão sujeitas, portanto, às contribuições sociais incidentes sobre a folha de salários." (Processo Numeração Única: 0001602-24.2007.4.01.3813 AMS 2007.38.13.001602-2/MG; APELAÇÃO EM MANDADO DE SEGURANÇA Relator DESEMBARGADOR FEDERAL LUCIANO TOLENTINO AMARAL Órgão SÉTIMA TURMA Publicação 11/04/2014 e-DJF1 P. 671).
+3. In casu, considerando que a impetrante, COOPERATIVA CENTRAL DE CRÉDITO DE MINAS 410 GERAIS LTDA  SICOOB CENTRAL CREDIMINAS, tem como objeto social: "organização em comum e em maior escala dos serviços econômicos-financeiros e assistenciais de interesse das associadas"(art. 2º, fl. 22), deve recolher a contribuição ao PIS/folha.
+4. Apelação não provida. Sentença mantida.
+Embargos de declaração rejeitados (e-STJ fls. 248/253).
+No seu recurso especial, a parte aponta a existência de dissenso pretoriano e a violação dos arts. 3º, 9º, I, 97 e 114 do CTN e dos arts. 128, 460, 463, II, e 535, II, do CPC.
+Preliminarmente, aduz que o acórdão recorrido padeceria de omissão, porquanto o Tribunal de origem teria olvidado "que o inciso II do art. 2º da MP n. 1.212/1995 (convertida na Lei n. 9.715/1998) foi REVOGADO pela Medida Provisória n. 2.158-35/2001 anos antes da impetração do presente feito, razão pela qual, não se questiona a legalidade da citada MP n. 1.212/95, mas sim a exigência do PIS/Folha para as cooperativas de crédito presente na Lei n. 2.158/2001". (e-STJ fl. 260).
+No mérito, sustenta, em resumo, o seguinte (e-STJ fls. 2.72/273):
+(..) as únicas deduções que geram o dever de se pagar adicionalmente o PIS/folha são aquelas contidas no art. 15, incisos I a V, exatamente como dispõe o seu 2º, e que, como já se demonstrou, NÃO SE APLICAM AO COOPERATIVISMO DE CRÉDITO!
+Prosseguindo, em 29/08/2002 a Medida Provisória n. 66 17 (convertida na Lei n. 10.637/2002) - à qual se seguiu a MP n. 101, de 30/12/2002 18 (convertida na Lei n. 10.676/2002), de idêntico teor à primeira - veio possibilitar a dedução das sobras na base de cálculo do PIS faturamento/receita (já permitida desde 09/12/99 pela IN/SRF n. 145), ao passo que operou efeitos retroativos aos fatos geradores ocorridos a partir da vigência da MP n. 1.858-10, de 26/10/99. Entretanto, as referidas medidas provisórias NADA DISPUSERAM sobre a obrigatoriedade do recolhimento adicional do PIS/folha quando da dedução das sobras, 411 mesmo porque, LEGALMENTE, a exigência dessa modalidade (folha) continuou atrelada exclusivamente às deduções do art. 15 da MP n. 2.158-35/2001.
+A mácula de ilegalidade que permeia a exigência do PIS/folha da Recorrente nasceu com a edição da já revogada IN/SRF n. 145/99, conquanto dito normativo, mais tarde recapitulado por meio das IN"s/SRF ns. 247/2002 e 635/2006 e Decreto n. 4.524/2002, (i) SEM QUALQUER BASE LEGAL, (ii) impôs às sociedades cooperativas o recolhimento em duplicidade do PIS sobre duas bases de cálculo distintas - folha de salários e faturamento/receita. (iii) RECRIANDO tributo já revogado, e mais, (iv) com o maquiado objetivo de COMPENSAR os ajustes na base de cálculo do tributo permitidos pela legislação.
+Ora, o vício de ilegalidade das malfadadas IN"s/SRF ns. 145/99, 247/2002, 635/2006 e Decreto n. 4.524/2002 exsurge do fato de que estes EXTRAPOLARAM, sem qualquer pudor, as normas legais que regulamentam, e quando lhes competia, como normas emanadas do Poder Executivo e não do Legislativo, interpretar a legislação no estrito plano da obrigação nela estabelecida.
+A questão, pois, é de simples solução: se a MP n. 2.158-35/2001, impõe às sociedades cooperativas exclusivamente o recolhimento do PIS faturamento/receita, NADA DISPONDO ACERCA DA OBRIGATORIEDADE DO PAGAMENTO DO PIS/FOLHA QUANDO TAIS ENTIDADES OPTAREM POR USUFRUIR DAS DEDUÇÕES ELENCADAS NOS SEUS ARTS. 2º E 15 (e isso é confirmado pelas MP"s ns. 66/2002 e 101/2002 - hoje, respectivamente, Lei"s ns. 10.637/2002 e 10.676/2003), não podem os normativos guerreados fazê-lo.
+Contrarrazões às e-STJ fls. 339/348.
+Recurso especial admitido (e-STJ fl. 459).
+Passo a decidir.
+A irresignação merece prosperar.
+Controverte-se no recurso especial sobre a legalidade da cobrança de PIS sobre a folha de salários em face das cooperativas de crédito.
+Pois bem.
+Está devidamente caracterizada a omissão do julgado.
+Ao resolver a controvérsia, assim se manifestou a Corte a quo (e-STJ fls. 230/233):
+A questão posta nos autos cinge-se ao reconhecimento da inexigibilidade do PIS incidente sobre a folha de salários de COOPERATIVA DE CRÉDITO na forma imposta pelas Instruções Normativas SRF nº 145/99, 247/2002 e Decreto n. 4.524/2002 quando estas utilizarem das deduções especificas na base tributável do PIS faturamento/receita.
+Estabelece o art. 91 da Lei 5.764/71:
+(..)
+A jurisprudência deste tribunal orientou-se no sentido de que as cooperativas de crédito são equiparadas às empresas para fins de legislação trabalhista e previdenciária e que, portanto, as contribuições para o PIS deve incidir sobre a folha de salários.
+Nesse sentido, confiram-se os seguintes julgados:
+(..)
+Assim, considerando que impetrante, COOPERATIVA CENTRAL DE CRÉDITO DE MINAS GERAIS LTDA  SICOOB CENTRAL CREDIMINAS, tem como objeto social: "organização em comum e em maior escala dos serviços econômicos-financeiros e assistenciais de interesse das associadas" (art. 20, fl. 22), deve recolher a contribuição ao PIS/folha.
+Pelo exposto, nego provimento à apelação. Sentença mantida.
+Conforme se observa, nada disse o Tribunal de origem sobre a alegação da parte de que "o inciso II do art. 2º da MP n. 1.212/1995 (convertida na Lei n. 9.715/1998) foi REVOGADO pela Medida Provisória n. 2.158-35/2001 anos antes da impetração do presente feito, razão pela qual não se questiona a legalidade da citada MP n. 1.212/95, mas sim a exigência do PIS/Folha para as cooperativas de crédito presente na Lei n. 2.158/2001" (e-STJ fl. 260)".
+Como o acolhimento dessa tese defensiva poderia influir decisivamente no julgamento da causa, tem-se que seu exame era de rigor, sob pena de negativa de prestação jurisdicional e violação do art. 1.022, II, do CPC/2015 (antigo art. 535, II, do CPC/1973).
+Ante o exposto, com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial, de modo a determinar à Corte a quo o rejulgamento dos embargos de declaração opostos pela ora recorrente, com o expresso enfrentamento da alegação de que "o inciso II do art. 2º da MP n. 1.212/1995 (convertida na Lei n. 9.715/1998) foi REVOGADO pela Medida Provisória n. 2.158-35/2001 anos antes da impetração do presente feito, razão pela qual não se questiona a legalidade da citada MP n. 1.212/1995, mas sim a exigência do PIS/Folha para as cooperativas de crédito presente na Lei (MP) n. 2.158/2001" (e-STJ fl. 260).
+Publique-se. Intimem-se.
+EMENTA
