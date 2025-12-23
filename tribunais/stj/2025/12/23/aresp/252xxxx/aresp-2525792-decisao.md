@@ -1,0 +1,84 @@
+DECISÃO
+Cuida-se de agravo interposto por CONSTRUTORA TENDA S.A. e TENDA NEGÓCIOS IMOBILIÁRIOS S.A. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que as agravantes interpuseram recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL cuja ementa guarda os seguintes termos (fl. 581):
+APELAÇÕES CÍVEIS. PROMESSA DE COMPRA E VENDA. AÇÃO DE INDENIZAÇÃO POR VÍCIOS CONSTRUTIVOS. DANOS MATERIAIS E MORAIS. DEVER DE INDENIZAR. DANOS MATERIAIS. DANOS MORAIS. QUANTUM. SENTENÇA MANTIDA.
+I. DO DEVER DE REPARAR OS DANOS. O ÔNUS DA PROVA QUANTO À EXISTÊNCIA DE FATO IMPEDITIVO, MODIFICATIVO OU EXTINTIVO DO DIREITO DO AUTOR CABERIA À RÉ (ART. 373, II DO CPC/15). AS ALEGAÇÕES FORAM GENERALIZADAS ACERCA DA INEXISTÊNCIA DOS VÍCIOS, NÃO SENDO SUFICIENTE A AFASTAR A CONCLUSÃO DA PROVA PERICIAL.
+II. DO DANO MORAL. PRESENTE O NEXO CAUSAL ENTRE OS VÍCIOS CONSTRUTIVOS E A ANGÚSTIA EXPERIMENTADA PELOS CONSUMIDORES, DECORRENTES DOS INÚMEROS VÍCIOS APONTADOS E PELO LAPSO DE TEMPO CONSIDERÁVEL SEM SOLUÇÃO DOS PROBLEMAS, TORNA-SE INEQUÍVOCA A RESPONSABILIDADE EXTRAPATRIMONIAL.
+III. QUANTUM INDENIZATÓRIO. A VERBA INDENIZATÓRIA FIXADA PELO JUÍZO A QUO REVELA-SE ADEQUADA DIANTE DAS PECULIARIDADES DO CASO, ALÉM DE SE COADUNAR COM OS PARÂMETROS ADOTADOS POR ESTA CORTE EM SITUAÇÕES ANÁLOGAS. VERBA INDENIZATÓRIA MANTIDA. À UNANIMIDADE, NEGARAM PROVIMENTO AOS RECURSOS.
+Rejeitados os embargos de declaração opostos (fls. 617-622).
+No recurso especial, a parte recorrente alega, preliminarmente, ofensa aos arts. 489, II, e 1.022, II, do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre "as razões pelas quais rejeitou o argumento exposto pelas Recorrentes que justificavam a ausência de dano moral ao caso" (fl. 642).
+Aduz, no mérito, que o acórdão contrariou as disposições contidas nos artigos 884 e 944 do Código Civil, pois o mero inadimplemento contratual não enseja dano moral. Dessa forma, em razão da condenação em danos morais sem demonstração de dano indenizável gera enriquecimento sem causa do recorrido.
+Sustenta, ainda, violação dos arts. 371, 373 e 504, I, do CPC e arts. 884 e 944, §1º, do Código Civil, tendo em vista que o "acórdão partiu de premissas equivocadas, haja vista que manteve a condenação por danos materiais no valor equivalente ao conserto dos vícios construtivos e à obrigação de fazer consistente nos reparos necessários no imóvel" (fl. 649).
+Entretanto, afirma que o acórdão recorrido "desconsiderou que a parte dispositiva da sentença estabeleceu a indenização por danos materiais de forma diversa do que restou exposto na fundamentação do v. acórdão (artigo 504, I, do CPC), configurando bis in idem e permitindo o enriquecimento ilícito dos Recorridos (artigo 884 do Código Civil)" (fl. 650).
+Aponta divergência jurisprudencial com arestos desta Corte.
+Foram oferecidas contrarrazões ao recurso especial (fls. 659-667).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 672-678), o que ensejou a interposição do presente agravo (fls. 687-707).
+Apresentada contraminuta do agravo (fls. 723-730).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+O recurso especial tem origem em ação indenizatória fundada em vícios construtivos em unidade imobiliária adquirida das recorrentes, envolvendo pedidos de danos materiais e danos morais.
+De início, não prospera a alegada violação dos arts. 489 e 1.022 do CPC, uma vez que deficiente sua fundamentação.
+Com efeito, a recorrente limitou-se a alegar, genericamente, que o Tribunal estadual não enfrentou os argumentos que justificariam a ausência de dano moral, sem explicitar quais seriam esses argumentos que foram utilizados e supostamente ignorados, bem como qual a relevância do enfrentamento da legislação e das teses recursais não analisadas.
+A respeito de tais questões, esta Corte não pode e não deve tentar identificar as supostas máculas do acórdão recorrido e os dispositivos tidos por violados. Essa tarefa é da recorrente, que não se desincumbe dela pelo fato isolado de apontar os dispositivos legais tidos por afrontados.
+As razões do recurso especial devem exprimir, com transparência e objetividade, os motivos pelos quais a agravante visa reformar o decisum. Ausente tal diretriz, incide o óbice da Súmula n. 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia". Nesse sentido, cito:
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC se faz de forma genérica, sem a demonstração dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Incidência, por analogia, do óbice da Súmula 284/STF.
+(AgInt no AREsp n. 1.312.484/SP, relator Ministro Raul Araújo, Quarta Turma, DJEN de 25/3/2025.)
+2. Não se pode conhecer da apontada violação do art. 1.022, II, do CPC, porquanto as alegações que fundamentaram a suposta ofensa são genéricas, sem indicação efetiva dos pontos omissos, contraditórios ou obscuros. Tal deficiência, impede a abertura da instância especial, nos termos da Súmula n. 284 do STF, aplicável, por analogia, nesta Corte.
+(AgInt no AREsp n. 2.729.108/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJEN de 20/3/2025.)
+1. O recurso especial que indica violação do art. 1.022 do Código de Processo Civil, mas traz somente alegação genérica de negativa de prestação jurisdicional é deficiente em sua fundamentação, o que atrai o óbice da Súmula nº 284/STF, aplicada por analogia.
+(AgInt no AREsp n. 2.681.064/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 5/3/2025.)
+Ademais, não há falar em ofensa aos arts. 489 e 1.022 do CPC, uma vez que o Tribunal de origem, ao negar provimento à apelação, deixou claros os motivos que o levaram a reconhecer a configuração do dano moral, conforme se extrai (fl. 579):
+Está consolidado na doutrina e na jurisprudência que a dor, vexame, humilhação e o sofrimento não são requisitos da configuração do abalo moral, mas sim consequências dele. O dano moral poderá existir quando se constatar ofensa a direito da personalidade, como a intimidade, a vida privada, a honra e a imagem das pessoas, conforme art. 5º, X, da Constituição da República.
+Não há buscar a prova do dano moral, mas sim a prova do fato, na medida em que "o dano moral existe in re ipsa; deriva inexoravelmente do próprio fato ofensivo, de tal modo que, provada a ofensa, ipso facto está demonstrado o dano moral à guisa de uma presunção natural, uma presunção hominis ou facti, que decorre das regras da experiência comum" (CAVALIERI FILHO, Sérgio. Programa de responsabilidade civil. 5ª ed. São Paulo: Malheiros, 2004, p. 101).
+Caberá ao julgador, na linha do que dispõe o art. 375 do Código de Processo Civil, aplicar as regras de experiência comum subministradas pela observação do que ordinariamente acontece para verificar se o fato ocorrido viola ou não direito da personalidade. Veja-se, por exemplo, uma inscrição indevida em cadastros de inadimplentes sem anterior registro: não se tem como exigir prova da vergonha da vítima quando da ciência do fato, de modo que, provado o fato ofensivo, o dano decorre de sua própria gravidade.
+(..)
+Quanto ao dano moral dentro das relações obrigacionais, nos termos do Enunciado n. 411 das Jornadas de Direito Civil, "O descumprimento de contrato pode gerar abalo moral quando envolver valor fundamental protegido pela Constituição Federal de 1988".
+No caso, configurado está o dano moral em razão dos vícios constatados nos imóveis, pois notória a violação à imagem e honra da parte autora.
+Observa-se, portanto, que a lide foi solucionada em conformidade com o que foi apresentado em juízo. Assim, verifica-se que o acórdão recorrido está com fundamentação suficiente, inexistindo omissão ou contradição.
+Ademais, nos termos da jurisprudência do STJ, "não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional" (AgInt no AREsp n. 1.907.401/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 22/8/2022, DJe de 29/8/2022).
+Em relação à suposta infração dos artigos 884 e 944 do Código Civil e o argumento de que o mero inadimplemento contratual não ensejaria dano moral, o Tribunal local se manifestou da seguinte forma (fl. 579):
+Quanto ao dano moral dentro das relações obrigacionais, nos termos do Enunciado n. 411 das Jornadas de Direito Civil, "O descumprimento de contrato pode gerar abalo moral quando envolver valor fundamental protegido pela Constituição Federal de 1988".
+No caso, configurado está o dano moral em razão dos vícios constatados nos imóveis, pois notória a violação à imagem e honra da parte autora.
+Alterar o decidido no acórdão impugnado, no que se refere a verificar se houve, ou não, dano moral, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula n. 7/STJ. Cito os seguintes precedentes:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA DA OBRA. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO NCPC. NÃO OCORRÊNCIA. REDUÇÃO DE PERCENTUAL DA CLÁUSULA PENAL. IMPOSSIBILIDADE DE REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS 5 E 7/STJ. OCORRÊNCIA DE SITUAÇÃO EXCEPCIONAL QUE DEMONSTROU A EXISTÊNCIA DO DANO MORAL. ACÓRDÃO EM CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE. SÚMULA N. 83/STJ. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ.
+(..)
+3. A Terceira Turma desta Corte, no julgamento do REsp n. 1.642.314/SE, relatora Ministra Nancy Andrighi, DJe de 22/3/2017, firmou a seguinte premissa: "muito embora o simples descumprimento contratual não provoque danos morais indenizáveis, circunstâncias específicas do caso concreto podem configurar a lesão extrapatrimonial." Precedentes: AgRg no AREsp n. 809/935/RS, DJe de 11/3/2016 e REsp n. 1.551.968/SP, Segunda Seção, DJe de 6/9/2016. Incidência da Súmula n. 83/STJ.
+4. Alterar o decidido no acórdão impugnado, no que se refere à configuração do dano moral no caso concreto, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Agravo interno improvido.
+(AgInt no AREsp n. 2.487.801/RJ, relator Ministro Humberto Martins, Terceira Turma, julgado em 24/11/2025, DJEN de 27/11/2025.)
+DIREITO PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL. ATRASO NA ENTREGA DE IMÓVEL. DANO MORAL. PRETENSÃO DE AFASTAMENTO. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. O Tribunal de origem, ao manter a condenação por danos morais, não se limitou ao mero inadimplemento contratual, mas considerou as circunstâncias fáticas do caso, como o longo período de atraso e a ausência de perspectiva de conclusão da obra.
+5. A alteração da conclusão das instâncias ordinárias no sentido de que houve a configuração de dano moral indenizável demandaria, necessariamente, o reexame do acervo fático-probatório para verificar a extensão e a gravidade da mora, providência vedada em Recurso Especial, conforme a Súmula 7 do STJ.
+6. Embora a revaloração jurídica de fatos incontroversos seja permitida, caberia à parte Agravante demonstrar objetivamente que o quadro fático estabilizado não se enquadra na moldura jurídica de dano moral, ônus do qual não se desincumbiu, limitando-se a repisar a tese de presunção do dano.
+7. A decisão agravada, que aplicou a Súmula 7/STJ, está em consonância com a jurisprudência desta Corte Superior, que não possui vocação de Corte revisora para reexaminar fatos e provas.
+8. A parte agravante não demonstrou, de forma objetiva, que a análise do caso demandaria apenas revaloração jurídica, limitando-se a alegações genéricas sobre a inaplicabilidade da Súmula 7/STJ.
+9. A ausência de impugnação específica e robusta aos fundamentos da decisão agravada inviabiliza o provimento do agravo interno, conforme entendimento consolidado nesta Corte.
+IV. Dispositivo
+10. Agravo interno não provido.
+(AgInt no AREsp n. 2.982.972/MT, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 24/11/2025, DJEN de 27/11/2025.)
+Quanto à afirmação de que o acórdão afrontou os arts. 371, 373 e 504, I, do CPC e arts. 884 e 944, §1º, do Código Civil, alegando que o TJRS desconsiderou que o imóvel foi entregue sem vícios, que a origem dos problemas seria a ausência de manutenção e que o recorrido não teria se desincumbido do ônus probatório, enquanto as recorrentes teriam comprovado assistência técnica e reparos, bem como a declaração de que não houve proporcionalidade na indenização material diante de reformas que j á haviam sido realizadas, o recurso especial também não merece conhecimento.
+Neste capítulo, o Tribunal local concluiu que "o conjunto probatório foi suficiente a demonstrar a existência de vícios construtivos" (fl. 578). E continua (fls. 577-578):
+A perícia constatou a presença de manchas de umidade nas paredes e no piso da sala de estar/jantar, nas paredes e piso do primeiro dormitório, em decorrência de falha nas vedações das esquadrias e janelas, como segue:
+(..)
+O ônus da prova quanto à existência de fato impeditivo, modificativo ou extintivo do direito do autor caberia à ré. As alegações foram generalizadas acerca da inexistência dos vícios, não sendo suficiente a afastar a conclusão da prova pericial.
+A prova pericial foi elucidativa quanto aos inúmeros vícios construtivos, devendo assim ser mantida a sentença, por seus próprios fundamentos.
+Desse modo, considerando a fundamentação do acórdão objeto do recurso especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fático-probatória, procedimento vedado a esta Corte, em razão do óbice da Súmula n. 7/STJ. Nesse sentido, cito os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC INEXISTENTE. INCONFORMISMO. ÔNUS DA PROVA. SÚMULA N. 7/STJ. DIVERGÊNCIA PREJUDICADA.
+(..)
+3. A apuração de valores em favor da autora decorreu da análise fática dos autos, após elaboração de perícia, de modo que a revisão do julgado, mormente para acolher a alegação de que a parte autora não teria feito prova do direito alegado, demandaria reexame dos autos. Inafastável a incidência da Súmula n. 7/STJ.
+4. A incidência da Súmula n. 7 do STJ quanto à interposição pela alínea "a" do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Agravo interno improvido.
+(AgInt no AREsp n. 2.718.783/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 1/12/2025, DJEN de 4/12/2025.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO INDENIZATÓRIA. DANOS MATERIAIS. QUANTIFICAÇÃO DO QUANTUM DEBEATUR EM SEDE DE LIQUIDAÇÃO DE SENTENÇA. POSSIBILIDADE. PRECEDENTES. SÚMULA 83/STJ. REEXAME. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. O Tribunal de origem decidiu, de forma fundamentada e baseando-se no arcabouço probatório que integra os autos, pela manutenção dos termos da sentença proferida no primeiro grau.
+2. É pacífico o entendimento desta Corte de que, "não estando o juiz convencido da extensão do pedido certo, pode remeter as partes à liquidação de sentença, devendo o art. 459, parágrafo único do CPC, ser aplicado em consonância com o princípio do livre convencimento (art. 131, do CPC" (AgRg no AREsp 474.912/DF, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, DJe de 05/09/2014).
+3. O acórdão combatido encontra-se em harmonia com o entendimento desta Corte, o que atrai a aplicação da Súmula 83 do STJ.
+4. A respeito da análise sobre a suficiência de provas carreadas aos autos capazes de comprovar a existência ou não do dano material alegado, indispensável se faz a investigação do substrato fático-probatório dos autos, o que é inviável no recurso especial, a teor do disposto na Súmula 7 do STJ.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.301.831/PR, relator Ministro Raul Araújo, Quarta Turma, julgado em 12/6/2023, DJe de 19/6/2023.)
+Quanto ao dissídio jurisprudencial invocado, informo que a incidência da Súmula n. 7 do STJ quanto à interposição pela alínea "a" do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 20% sobre o valor atualizado da condenação.
+Publique-se. Intimem-se.
+ EMENTA
