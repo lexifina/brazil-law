@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual BRASBUNKER Participações S.A. se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do Tribunal Regional Federal da 3ª Região (TRF3) assim ementado (fl. 387):
+DIREITO TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. APRESENTAÇÃO DE SEGURO-GARANTIA EM AÇÃO ANULATÓRIA ANTERIOR. SUBSTITUIÇÃO DOS EMBARGOS À EXECUÇÃO. CPC, ARTIGO 313, V, "a" E LEI Nº 6.830/80, ARTIGO 9º, § 3º. NÃO SUSPENSÃO DA EXECUÇÃO FISCAL. AGRAVO DE INSTRUMENTO IMPROVIDO.
+1. Dissenso que diz respeito à suspensão da execução fiscal de origem em razão da apresentação de apólice de seguro-garantia em feito diverso.
+2. Deve ser reconhecida a possibilidade de a ação anulatória fazer as vezes de embargos à execução, mormente quando se atenta para a necessidade de garantia da execução fiscal, sendo acertada a unicidade da garantia do crédito tributário para efeito de discussão do débito para evitar exigir do contribuinte a injusta e onerada prestação de dupla garantia para o debate de um mesmo débito submetido ao crivo do Judiciário para deliberação última sobre a sua exigibilidade.
+3. Concluir em sentido contrário seria, em análise final, arrostar o próprio princípio da inafastabilidade do Judiciário, com evidente cerceamento de defesa ao contribuinte que pretende questionar a exigência de determinado tributo.
+4. De rigor lógico a aplicação do delineamento previsto para os embargos à execução no que toca à hipótese de suspensão da execução fiscal em curso, permitindo-se a atribuição de efeito suspensivo aos embargos desde que preenchidos os requisitos previstos no artigo 919, § 1º do CPC.
+5. Caso em que não foi demonstrada a plausibilidade do direito invocado que já foi apreciado em caráter liminar na ação anulatória, sendo o pleito antecipatório indeferido, inclusive em sede recursal.
+6. Agravo de Instrumento improvido.
+Não foram opostos embargos de declaração.
+Em suas razões, a parte agravante requer o conhecimento do agravo a fim de que seja determinado o processamento do recurso especial.
+O recurso não foi admitido (fls. 445/447), motivo por que foi interposto o agravo ora examinado.
+A parte adversa não apresentou contraminuta.
+É o relatório.
+Da irresignação não é possível conhecer visto que a parte agravante não refutou adequadamente a decisão agravada.
+O Tribunal de origem não admitiu o recurso especial por ausência de impugnação adequada aos fundamentos do acórdão recorrido (art. 919 do Código de Processo Civil), aplicando, por analogia, o óbice da Súmula 283 do STF. Ademais, consignou que a pretensão recursal demandaria o reexame do conjunto fático-probatório, incidindo também a Súmula 7 do STJ (fl. 446).
+Constato que a parte agravante apresentou impugnação quanto aos óbices da Súmula 7/STJ e da Súmula 283/STF, porém, quando ao último, não o fez adequadamente.
+Isso porque o agravo se limita a reproduzir o art. 919, § 1º, do CPC e a sustentar o preenchimento de seus requisitos, reforçando o mérito e narrando fatos supervenientes na ação anulatória, sem enfrentar, de forma técnica, o óbice formal da Súmula 283 do STF (fls. 458/462) .
+Não há indicação precisa de trechos do recurso especial capazes de afastar o vício de dialeticidade apontado na decisão de admissibilidade nem mesmo qualquer referência direta ao óbice. Assim, o agravo não refuta adequadamente o fundamento da inadmissão e não supera o óbice da Súmula 283 do STF.
+O objetivo do agravo em recurso especial é o de desconstituir a decisão de inadmissão do recurso especial, sendo, por isso, imprescindível a impugnação específica de todos os fundamentos nela lançados com o fim de demonstrar o seu desacerto, o que, como se vê, não foi feito no presente caso.
+Dessa forma, por faltar impugnação pertinente, aplico ao presente caso, por analogia, a Súmula 182 do Superior Tribunal de Justiça, segundo a qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Na mesma linha:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ. AGRAVO INTERNO DA FAZENDA NACIONAL NÃO CONHECIDO.
+1. A parte agravante deve infirmar os fundamentos da decisão impugnada, mostrando-se inadmissível o recurso que não se insurge contra todos eles - Súmula 182 do Superior Tribunal de Justiça.
+2. Em análise do Agravo Interno interposto, tem-se que a parte agravante não rebateu todos fundamentos da decisão que conheceu do Agravo para conhecer em parte e negar provimento ao Recurso Especial, pois deixou de se manifestar acerca da incidência das Súmulas 282 e 356/STF.
+3. Por fim, há de se registrar a necessidade de impugnação devida e específica de todos os fundamentos da decisão agravada, mesmo que sejam distintos e independentes entre si.
+4. Agravo Interno da FAZENDA NACIONAL não conhecido.
+(AgInt no AREsp n. 1.616.546/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 22/6/2020, DJe de 29/6/2020.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, TODOS OS FUNDAMENTOS DA DECISÃO QUE NÃO ADMITIU O RECURSO ESPECIAL. ART. 932, III, DO CPC/2015 E SÚMULA 182/STJ, POR ANALOGIA. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+II. Incumbe ao agravante infirmar, especificamente, todos os fundamentos da decisão que inadmitiu o Recurso Especial, demonstrando o seu desacerto, de modo a justificar o processamento do apelo nobre, sob pena de não ser conhecido o Agravo (art. 932, III, do CPC vigente). Nesse sentido: STJ, AgRg no AREsp 704.988/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 10/09/2015; EDcl no AREsp 741.509/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 16/09/2015; AgInt no AREsp 888.667/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 18/10/2016; AgInt no AREsp 895.205/PB, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 20/10/2016; AgInt no AREsp 800.320/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 13/10/2016; EAREsp 701.404/SC, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe de 30/11/2018; EAREsp 831.326/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe de 30/11/2018; EAREsp 746.775/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe de 30/11/2018.
+III. No caso, por simples cotejo entre o decidido e as razões do Agravo em Recurso Especial verifica-se a ausência de impugnação específica de todos os fundamentos da decisão que, em 2º Grau, inadmitira o Especial, o que atrai a aplicação do disposto no art. 932, III, do CPC/2015 - vigente à época da publicação da decisão então agravada e da interposição do recurso -, que faculta ao Relator "não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida", bem como do teor da Súmula 182 do Superior Tribunal de Justiça, por analogia.
+IV. Agravo interno improvido.
+(AgInt no AREsp 1.503.814/MA, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 17/10/2019, DJe de 28/10/2019.)
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
