@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de pedido de tutela de urgência formulado por SOLVE SECURITIZAD ORA DE CREDITOS FINANCEIROS S.A.
+A requerente alega que (fls. 9-10):
+O cumprimento provisório de sentença busca a execução de honorários de sucumbência fixados em execução extinta pela prescrição, situação que encontra resistência na jurisprudência consolidada do STJ.
+Com efeito, esta Corte já firmou o entendimento de que, em casos de extinção da execução por prescrição, não se mostra razoável condenar o exequente em honorários, devendo prevalecer a regra da sucumbência conjugada com o princípio da causalidade. Isso porque quem deu causa ao ajuizamento da execução foi o devedor inadimplente, e não o credor que buscava a satisfação de seu crédito.
+Ademais, conforme será demonstrado nos autos do cumprimento de sentença, há flagrante excesso de execução, apurado em aproximadamente 50% do valor cobrado, o que acentua ainda mais a gravidade da constrição patrimonial.
+Some-se a isso a circunstância de estar em curso outro cumprimento de sentença (autos nº 0202343-23.2025.8.04.0001), ajuizado por segundo avalista, em que se pleiteia a mesma verba, resultando em uma cobrança global que ultrapassa expressivos R$ 1.000.000,00 (um milhão de reais) em honorários de sucumbência, valor manifestamente desproporcional e capaz de gerar dano irreparável, acaso não acolhido o efeito suspensivo ativo.
+Ressalta-se que no referido processo nº 0202343-23.2025.8.04.0001, o Superior Tribunal de Justiça já apreciou pedido de idêntica natureza, deferindo a tutela de urgência para suspender o cumprimento provisório de sentença, reconhecendo a presença dos mesmos fundamentos jurídicos e fáticos que se verificam na presente hipótese.
+Afirma que, em sede de cumprimento provisório de sentença, não fora exigida contragarantia, sob o argumento de que honorários são verba alimentícia.
+É, no essencial, o relatório.
+Nos termos dos arts. 1.027, § 2º, 1.028, §§ 2º e 3º, e 1.029, § 5º, III, do Código de Processo Civil, a competência para apreciar o pedido de tutela provisória para suspender o processo na origem somente se transfere ao Superior Tribunal de Justiça após o processamento do recurso especial pelo Tribunal de origem.
+O STJ admite o abrandamento da incidência das Súmulas n. 634 e 635 do STF e, por conseguinte, o processamento das tutelas cautelares relativas a recursos especiais pendentes de juízo de admissibilidade na origem para coibir a eficácia de decisão teratológica ou em manifesta contrariedade à jurisprudência assentada pela Corte (AgInt na Pet n. 13.316/MT, relator Ministro Marco Buzzi, Quarta Turma, DJe de 3/8/2020).
+Verifico que a presente tutela antecipada antecedente, ao menos em cognição sumária, se dá com base no mesmo contexto fático da TUTANTANT n. 663, qual seja, a execução provisória de verbas honorárias em razão da extinção da execução em relação aos avalistas por prescrição e das Cédulas de Crédito Bancário n. 313513/001, 313515/001, 313872/001, 314954/001, 316680/001, 327783/001 e 314008/001, titularizadas pela requerente.
+Por estar presente o mesmo contexto fático e jurídico da TUTANTANT n. 663/AM, é o caso de se deferir, ao menos por hora, o efeito suspensivo.
+Ante o exposto, defiro o pedido e atribuo efeito suspensivo ao recurso especial para que seja suspensa a execução provisória até o julgamento do apelo nobre.
+Por se tratar de verba alimentar, determino à instância a quo que opere o juízo de admissibilidade e remeta eventual recurso especial ou agravo, em até 60 dias, dos recursos que digam respeito à TUTANTANT n. 663/AM e da TUTANTANT n. 770/AM.
+Publique-se. Intimem-se.
+ EMENTA
