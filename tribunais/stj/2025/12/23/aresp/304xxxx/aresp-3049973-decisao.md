@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo interposto por LOURENÇO CONSTRUTORA E INCORPORADORA LTDA. contra decisão que não admitiu recurso especial manejado, com base na alínea "a" e "c" do inciso III do art. 105 da Constituição Federal, em face de acórdão assim ementado (fls. 43-44):
+DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PEDIDO DE PESQUISA DE BENS VIA CNIB. IMPOSSIBILIDADE. FINALIDADE DO SISTEMA. SÚMULA Nº 77/TJGO. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo de instrumento interposto contra decisão que indeferiu o pedido de pesquisa de bens do executado por meio da Central Nacional de Indisponibilidade de Bens (CNIB), formulado no curso do cumprimento de sentença.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) saber se o CNIB pode ser utilizado como ferramenta de pesquisa patrimonial do devedor em execução; e (ii) saber se a decisão impugnada contrariou entendimento jurisprudencial sobre medidas executivas atípicas.
+III. RAZÕES DE DECIDIR
+3. A CNIB foi instituída pelo Provimento nº 39/2014 do Conselho Nacional de Justiça, com a finalidade de recepcionar e divulgar comunicações de indisponibilidade de bens decretadas por autoridade competente, não se prestando à pesquisa patrimonial.
+4. O Órgão Especial do TJGO consolidou esse entendimento por meio da Súmula nº 77, segundo a qual a decretação de indisponibilidade de bens via CNIB visa à efetividade de medidas previstas em leis específicas, não podendo ser utilizada para a busca de bens do devedor em execução forçada.
+5. A jurisprudência desta Corte é firme no sentido de que o CNIB não deve ser desvirtuado de sua função originária, cabendo ao exequente buscar alternativas típicas ou atípicas de pesquisa patrimonial, desde que observados os princípios da proporcionalidade e razoabilidade.
+IV. DISPOSITIVO E TESE
+6. Recurso conhecido e desprovido.
+Tese de julgamento: 1. A Central Nacional de Indisponibilidade de Bens - CNIB não pode ser utilizada como ferramenta de pesquisa patrimonial do devedor em execução forçada, nos termos da Súmula nº 77 do TJGO. 2. A decretação de indisponibilidade de bens via CNIB deve observar a finalidade do sistema, sendo inviável o deferimento de medidas executivas que desvirtuem sua função normativa.
+Nas razões do recurso especial, a parte recorrente alega, em síntese, que o acórdão recorrido violou os arts. 927, III, 1.040, 139, IV, e 805 do Código de Processo Civil.
+Sustenta que a utilização do Cadastro Nacional de Indisponibilidade de Bens (CNIB) é medida executiva atípica possível, desde que exauridos os meios executivos típicos, conforme orientação desta Corte, com fundamento no art. 139, IV, do CPC e precedentes que reconhecem a constitucionalidade das medidas atípicas, inclusive à luz do Provimento 39/2014 do Conselho Nacional de Justiça.
+Aduz que o Tribunal de origem aplicou de forma restritiva a Súmula 77/TJGO, desconsiderando a evolução jurisprudencial do Superior Tribunal de Justiça sobre o tema, e que houve esgotamento de diligências típicas de localização de bens, o que justificaria a adoção do CNIB para resguardar a efetividade da execução.
+Defende que os princípios da razoabilidade, proporcionalidade e menor onerosidade foram observados e que a medida não implica constrição indevida, mas publicidade de eventual indisponibilidade, sendo adequada ao cenário fático de ineficácia dos meios ordinários.
+Argumenta que há divergência jurisprudencial em torno da possibilidade de uso subsidiário do CNIB e da necessidade de exaurimento das medidas típicas, apontando cotejo com precedentes desta Corte.
+O recurso também aponta divergência jurisprudencial e discrimina teses sobre: possibilidade de utilização do CNIB como medida executiva atípica; exigência de esgotamento dos meios típicos; compatibilidade da medida com os princípios da razoabilidade, proporcionalidade e menor onerosidade; interpretação do Provimento 39/2014 do CNJ.
+Contrarrazões às fls. 153-155 na qual a parte recorrida alega ausência de cotejo analítico suficiente para caracterizar o dissídio, incidência da Súmula 7/STJ em razão da necessidade de reexame do quadro fático quanto ao alegado exaurimento dos meios típicos, inexistência de violação direta e literal de norma federal, e requer, ao final, o não conhecimento do recurso ou, subsidiariamente, seu não provimento com condenação em honorários.
+A não admissão do recurso na origem ensejou a interposição do presente agravo.
+Impugnação às fls. 182-185.
+Assim delimitada a questão, satisfeitos os requisitos de admissibilidade do agravo, dele conheço, passando à análise do recurso especial.
+Originariamente, trata-se de cumprimento de sentença arbitral promovido por LOURENÇO CONSTRUTORA E INCORPORADORA LTDA. em face de HUGO LUIZ DA PAZ ROSA, visando à satisfação de crédito reconhecido, com requerimento de adoção do CNIB como medida executiva atípica, diante da alegada ineficácia dos meios típicos de localização de bens.
+Na decisão singular, o Juízo indeferiu o pedido de utilização do CNIB, por considerá-lo medida grave e excepcional, afirmando sua inadequação como ferramenta de pesquisa patrimonial e apontando a necessidade de indicação de bens penhoráveis, sob pena de suspensão do feito.
+O Tribunal de origem conheceu e negou provimento ao agravo de instrumento, assentando a impossibilidade de uso do CNIB como ferramenta de pesquisa patrimonial, com fundamento no Provimento 39/2014 do CNJ e na Súmula 77/TJGO, consolidando o entendimento de que a finalidade do sistema não comporta a busca de bens em execução forçada.
+O recurso merece prosperar.
+Conforme relatado, a questão discutida no recurso especial consiste na análise da utilização do Cadastro Nacional de Indisponibilidade de Bens (CNIB) para fins de pesquisa de bens do devedor, nos autos da execução de cumprimento de sentença arbitral.
+Quanto ao ponto, destaco que a jurisprudência do STJ firmou o entendimento de que a utilização do CNIB - Central Nacional de Indisponibilidade de Bens de forma subsidiária, após o esgotamento das medidas ordinárias e sempre sob o crivo do contraditório, encontra apoio no art. 139, incisos II e IV, do Código de Processo Civil, e não viola os princípios da razoabilidade, proporcionalidade ou da menor onerosidade ao devedor.
+A propósito, confiram-se:
+PROCESSUAL CIVIL E CIVIL. EXECUÇÃO DE ALIMENTOS. ESGOTAMENTO DOS MEIOS ORDINÁRIOS. CONSULTA E EXPEDIÇÃO DE ORDEM DE INDISPONIBILIDADE DE BENS VIA CENTRAL NACIONAL DE INDISPONIBILIDADE DE BENS - CNIB. POSSIBILIDADE. PRINCÍPIO DA MENOR ONEROSIDADE RESPEITADO. PRINCÍPIOS DA EFETIVIDADE DO PROVIMENTO JURISDICIONAL E DA COOPERAÇÃO ENTRE OS SUJEITOS DO PROCESSO.
+1. Nos termos da previsão contida no artigo 2º do Provimento nº 39/2014 do CNJ, a Central Nacional de Indisponibilidade de Bens - CNIB tem por finalidade não somente a divulgação das ordens de indisponibilidade, como mecanismo de consulta, mas igualmente a recepção das ordens para a decretação "de indisponibilidades que atinjam patrimônio imobiliário indistinto, assim como direitos sobre imóveis indistintos, e a recepção de comunicações de levantamento das ordens de indisponibilidade nela cadastradas".
+2. Consoante o provimento nº 39/2014 do CNJ, o sistema foi instituído tendo em vista a "necessidade de racionalizar o intercâmbio de informações entre o Poder Judiciário e os órgãos prestadores de serviços notariais e de registro, visando celeridade e efetividade na prestação jurisdicional e eficiência do serviço público delegado".
+3. A utilização do CNIB de forma subsidiária, após o esgotamento das medidas ordinárias e sempre sob o crivo do contraditório, encontra apoio no art. 139, incisos II e IV do CPC, e não viola os princípios da razoabilidade, proporcionalidade ou da menor onerosidade ao devedor.
+4. Recurso especial parcialmente provido.
+(REsp n. 1.969.105/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 12/9/2023, DJe de 19/9/2023.)
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CENTRAL NACIONAL DE INDISPONIBILIDADE DE BENS (CNIB). UTILIZAÇÃO. POSSIBILIDADE. MEDIDA ATÍPICA. SUBSIDIARIEDADE. PRECEDENTES.
+1. Por se tratar de medida executiva atípica, a utilização da Central Nacional de Indisponibilidade de Bens (CNIB) será admissível somente quando exauridos os meios executivos típicos, ante a sua subsidiariedade.
+2. Agravo conhecido para conhecer e dar provimento ao recurso especial.
+(AREsp n. 2.702.711/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 28/4/2025, DJEN de 6/5/2025.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL - AGRAVO DE INSTRUMENTO - DECISÃO MONOCRÁTICA QUE DEU PARCIAL PROVIMENTO AO RECLAMO . INSURGÊNCIA RECURSAL DA PARTE AGRAVADA.
+1. Esta Corte Superior possui entendimento firmado no sentido de ser possível a utilização da Central Nacional de Indisponibilidade de Bens (CNIB) de forma subsidiária, após o esgotamento das medidas ordinárias, e sempre sob o crivo do contraditório (AgInt no AREsp n. 1.896.942/RJ, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 15/4/2024, DJe de 18/4/2024.)
+2. Agravo interno desprovido.
+(AgInt nos EDcl no REsp n. 2.121.008/SC, relator Ministro Marco Buzzi, Quarta Turma, julgado em 23/9/2024, DJe de 25/9/2024.)
+Com efeito, encontra-se sedimentada a necessidade de esgotamento dos meios ordinários e típicos antes da utilização do CNIB - Central Nacional de Indisponibilidade de Bens, dada a subsidiariedade do instituto, sempre sob o crivo do contraditório, visto que o intuito é impedir a frustação voluntária do processo executivo e não a punição do devedor em decorrência da ausência de bens.
+Dessa forma, entendo que os autos devem retornar ao Tribunal de origem para que analise a questão em conformidade com a Jurisprudência desta Corte.
+Em face do exposto, conheço do agravo e dou provimento ao recurso especial para determinar o retorno dos autos ao Tribunal de origem, a fim de que reexamine a questão da utilização do CNIB - Central Nacional de Indisponibilidade de Bens, à luz da jurisprudência desta Corte, acima declinada.
+Intimem-se.
+EMENTA
