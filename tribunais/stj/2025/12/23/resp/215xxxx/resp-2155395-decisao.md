@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto por Instituto Nacional do Seguro Social (INSS), com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do Tribunal Regional Federal da 4ª Região (TRF4) assim ementado (fl. 162):
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. REVISÃO. INTERESSE DE AGIR CONFIGURADO. MATÉRIA DE FATO JÁ REGISTRADA NO CNIS. DESNECESSIDADE DE PRÉVIO REQUERIMENTO ADMINISTRATIVO. TEMA 350 DO STF.
+Na hipótese de pretensão de revisão, restabelecimento ou manutenção de benefício anteriormente concedido, considerando que o INSS tem o dever legal de conceder a prestação mais vantajosa possível, o pedido poderá ser formulado diretamente em juízo. No caso em tela, a matéria de fato alegada (período prestado junto ao serviço militar) já constava no CNIS, e já estava, por isso, à disposição do INSS para a elaboração correta da RMI da parte autora. Tema 350 do Supremo Tribunal Federal.
+Apelo provido.
+Os embargos de declaração opostos foram rejeitados (fls. 184/185 e 187).
+A parte recorrente alega violação dos arts. 103 da Lei 8.213/1991 e 1.022, II, do Código de Processo Civil (CPC), porque entende que houve omissão do Tribunal de origem ao deixar de apreciar a decadência do direito de revisão do benefício precedente.
+Sustenta ofensa ao art. 103 da Lei 8.213/1991 ao argumento de que, pretendida a revisão da renda mensal inicial da aposentadoria por incapacidade permanente, derivada de benefício anterior (auxílio por incapacidade temporária/auxílio-acidente), o prazo decadencial decenal deve ser contado do benefício originário, fulminando o direito de revisão quando ultrapassado esse prazo.
+Sem contrarrazões, consoante certidão de decurso de prazo de fl. 202.
+O recurso foi admitido (fl. 205).
+É o relatório.
+Na origem cuida-se de ação de procedimento comum para revisar a renda mensal inicial da aposentadoria por incapacidade permanente, com inclusão de período de serviço militar já constante do Cadastro Nacional de Informações Sociais (CNIS).
+Inexiste a alegada violação do art. 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade.
+A parte recorrente sustentou haver omissão no acórdão recorrido no tocante à ocorrência de decadência do direito de revisão, considerando a data de concessão do benefício originário.
+Ao analisar o teor das alegadas omissões, constato que a irresignação da parte recorrente está relacionada a matérias já devidamente examinadas no acórdão recorrido, visto que o Tribunal de origem, de modo expresso, fundamentado e coeso, decidiu que o prazo decadencial deve ser contado a partir da data da concessão de cada benefício, sendo equivocada a interpretação dada pelo INSS ao dispositivo legal tido como violado.
+É importante destacar que julgamento diverso do pretendido, como neste caso, não implica ofensa ao dispositivo de lei invocado.
+Por outro lado, o presente recurso especial merece provimento no que tange à aplicação do prazo decadencial para a revisão do benefício previdenciário, considerando-se como termo inicial a data de sua concessão originária.
+Conforme jurisprudência desta Corte Superior, o prazo decadencial do direito à revisão da renda mensal inicial do benefício derivado é contado do ato de concessão do benefício originário.
+Nesse sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. PEDIDO DE REVISÃO DO BENEFÍCIO DE PENSÃO POR MORTE, MEDIANTE REVISÃO DA RENDA MENSAL INICIAL DA APOSENTADORIA ORIGINÁRIA. PRAZO DECADENCIAL. TERMO INICIAL. DATA DA CONCESSÃO DO BENEFÍCIO ORIGINÁRIO. DECADÊNCIA VERIFICADA, NA ESPÉCIE. RECURSO ESPECIAL PROVIDO.
+1. No julgamento do Tema Repetitivo n. 544/STJ, a Primeira Seção desta Corte firmou a tese de que "Incide o prazo de decadência do art. 103 da Lei n. 8.213/1991, instituído pela Medida Provisória 1.523-9/1997, convertida na Lei n. 9.528/1997, no direito de revisão dos benefícios concedidos ou indeferidos anteriormente a esse preceito normativo, com termo a quo a contar da sua vigência (28/6/1997)".
+2. Conforme a orientação firmada por esta Corte no julgamento do EREsp n. 1.605.554/PR, o termo inicial do prazo decadencial do direito à revisão do benefício de pensão por morte é contado do ato de concessão do benefício originário. Na ocasião, ressaltou-se, em suma, que, "se já havia decaído, para o instituidor da pensão, o direito à revisão de sua aposentadoria, o titular da pensão por morte não mais poderá exercê-lo, porquanto ele já perecera, situação que não pode ser mitigada, por força do princípio da actio nata, que diz respeito ao direito de ação, não fazendo ressurgir o direito material correspondente". Desse entendimento destoou o Tribunal a quo, impondo-se a reforma do acórdão recorrido.
+3. Recurso especial provido.
+(REsp n. 1.618.378/RS, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 18/6/2025, DJEN de 26/6/2025.)
+PROCESSUAL CIVIL. AGRAVO INTERNO. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. CASO CONCRETO QUE SE AMOLDA ÀS HIPÓTESES DE CABIMENTO DA VIA ELEITA. REVISÃO DA RENDA MENSAL INICIAL. APOSENTADORIA POR INVALIDEZ PRECEDIDA DE AUXÍLIO-DOENÇA. DECADÊNCIA. TERMO INICIAL. BENEFÍCIO ORIGINÁRIO. PROVIMENTO NEGADO.
+1. Conforme disposto no art. 14, § 4º, da Lei 10.259/2001, caberá pedido de uniformização de interpretação de lei federal quando julgado proveniente da Turma Nacional de Uniformização (TNU), em questões de direito material, contrariar a jurisprudência do Superior Tribunal de Justiça (STJ).
+2. A jurisprudência da Primeira Seção desta Corte Superior de Justiça firmou-se no sentido de que o prazo decadencial do direito à revisão da renda mensal inicial do benefício derivado é contado do ato de concessão do benefício originário.
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no PUIL n. 888/RS, relator Ministro Paulo Sérgio Domingues, Primeira Seção, julgado em 24/4/2024, DJe de 26/4/2024.)
+Desse modo, o acórdão recorrido diverge da jurisprudência firmada por esta Corte, devendo ser reformado.
+Ante o exposto, dou provimento ao recurso especial do Instituto Nacional do Seguro Social (INSS) para reconhecer a ocorrência de decadência do direito de revisão do benefício previdenciário de incapacidade permanente, considerando como termo inicial a data de concessão do benefício originário, restabelecendo-se os ônus da sucumbência fixados na sentença.
+Publique-se. Intimem-se.
+EMENTA
