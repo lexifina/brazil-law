@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto pelo MINISTÉRIO PÚBLICO FEDERAL contra decisão do Tribunal Regional Federal da 1ª Região que inadmitiu o recurso especial.
+O Tribunal de origem, em sede de habeas corpus, concedeu a ordem para determinar o trancamento da ação penal nº 1020640-94.2018.4.01.3400, em relação ao agravado, denunciado pela suposta prática do crime de peculato (art. 312, § 1º, do Código Penal), remanescente após absolvição sumária quanto ao delito previsto no art. 96, I, da Lei nº 8.666/1993 (fls. 344-379).
+Irresignado, o Ministério Público Federal interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição da República, alegando violação aos arts. 41 do Código de Processo Penal e 312, § 1º, do Código Penal, além de dissídio jurisprudencial. (fls. 383-401).
+A Vice-Presidência do Tribunal de origem inadmitiu o recurso, com fundamento na Súmula n. 7, STJ (fls. 424-426).
+No presente agravo, a defesa sustenta que a controvérsia seria estritamente jurídica, por versar sobre a correta interpretação dos dispositivos federais indicados, insistindo na tese de que o trancamento da ação penal teria sido indevidamente decretado (fls. 429-439).
+Em contrarrazões, a defesa pugna pela manutenção da decisão agravada e do acórdão concessivo da ordem de habeas corpus (fls. 440/450).
+O Ministério Público Federal manifestou-se pelo desprovimento do agravo (fls. 467-473).
+É o relatório. DECIDO.
+Tendo em vista os argumentos expendidos pela parte agravante para refutar os fundamentos da decisão de admissibilidade da origem, conheço do agravo e passo a examinar o recurso especial.
+Não obstante, verifico que o recurso especial não merece conhecimento, diante da incidência do óbice previsto na Súmula n. 7, STJ.
+Com efeito, o acórdão recorrido, ao conceder a ordem de habeas corpus para trancar a ação penal, não procedeu a mero juízo abstrato de tipicidade, mas realizou exame detido e circunstanciado do conteúdo da denúncia e do contexto fático-probatório delineado nos autos, concluindo pela ausência de justa causa, ante a inexistência de elementos mínimos aptos a demonstrar o dolo específico exigido pelo tipo penal do art. 312 do Código Penal, bem como o liame subjetivo do paciente com os demais acusados (fls. 347-349).
+A insurgência recursal, ao sustentar que a denúncia atenderia aos requisitos do art. 41 do CPP e que haveria justa causa para a persecução penal, pressupõe necessariamente a desconstituição das premissas fáticas firmadas pela Corte de origem, notadamente quanto ao conteúdo imputativo da peça acusatória, à natureza meramente burocrática do ato atribuído ao paciente e à ausência de qualquer indicação de proveito ilícito ou conluio delitivo.
+Não se cuida, portanto, de simples revaloração jurídica de fatos incontroversos, mas de pretensão de rediscussão do suporte fático que embasou a concessão da ordem, providência incompatível com a via estreita do recurso especial.
+Esta Corte Superior tem jurisprudência consolidada no sentido de que, uma vez reconhecida pelas instâncias ordinárias a ausência de justa causa para a ação penal, com base na análise concreta da denúncia e dos elementos indiciários disponíveis, a revisão desse entendimento esbarra no óbice da Súmula n. 7, STJ, salvo hipótese de flagrante ilegalidade, o que não se verifica no caso.
+Nesse sentido:
+"5. A falta de justa causa se caracteriza pela ausência de elementos indiciários mínimos que respaldem a pretensão punitiva, sendo insuficientes os depoimentos e imagens apresentados para indicar a agravada como autora ou partícipe do crime.
+6. A imputação de crime baseada apenas em presunções não pode servir como fundamento para comprovação da autoria ou dos indícios necessários ao recebimento da denúncia.
+7. A análise aprofundada dos fatos e provas para evidenciar justa causa não é adequada na via do recurso especial, conforme o óbice da Súmula 7 do STJ." (AREsp n. 3.015.716/AL, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 14/10/2025, DJEN de 21/10/2025)
+Do mesmo modo, a análise da suposta violação ao art. 312, § 1º, do Código Penal não pode ser dissociada do exame do elemento subjetivo da conduta, o qual, segundo consignado expressamente no acórdão recorrido, não foi minimamente demonstrado na inicial acusatória. Afastar tal conc lusão demandaria, novamente, incursão no substrato fático-probatório.
+Ressalte-se, ainda, que o dissídio jurisprudencial resta igualmente prejudicado, pois não é possível o cotejo analítico quando a tese recursal encontra óbice intransponível da Súmula n. 7, STJ, conforme orientação pacífica deste Superior Tribunal(EDcl no AgRg no REsp n. 2.188.179/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 3/9/2025, DJEN de 8/9/2025).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial, nos termos do art. 253, parágrafo único, inciso II, alínea "a", do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
