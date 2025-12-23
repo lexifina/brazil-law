@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo interposto por CONJUNTO RESIDENCIAL CASTOR contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, o qual não admitiu recurso especial fundado na deserção (e-STJ fls. 500/501).
+No seu agravo, a parte defende que não há lugar para o emprego da Súmula 187 do STJ, "pois o recurso fora devidamente preparado, o que realmente houve, é que fora solicitado complementação das custas, no entanto, conforme comprovado nos autos, não fora possível expedir a guia, sem remessa dos autos ao contador" (e-STJ fl. 505).
+Parecer ministerial às e-STJ fls. 523/527 pelo desprovimento do recurso.
+Passo a decidir.
+É certo que a falta de comprovação do recolhimento das custas processuais no ato da interposição do recurso não gera de imediato a sua deserção, que somente ocorrerá depois de concedida a oportunidade ao interessado para providenciar o saneamento do vício no prazo de 5 dias, consoante o art. 1.007, § 7º, do novo estatuto processual.
+S egundo anotado na decisão agravada, a parte recorrente, instada a efetuar a complementação do preparo recursal, limitou-se a requerer "sejam os autos remetidos ao i. Contador Judicial para calculo do valor a ser apurado a titulo de complementação das custas, pois em acesso ao e-proc, não foi possível verificar tal diferença, assim como também não foi possível verificar junto ao site do E. Superior Tribunal de Justiça" (e-STJ fl. 500).
+Nos termos da jurisprudência do STJ, constitui ônus da parte efetuar corretamente o preparo recursal, de modo que, "uma vez decorrido o prazo in albis após a sua regular intimação para recolhimento e não tendo comprovado a alegada concessão da justiça gratuita dentro do lapso estabelecido, tem-se por deserto o recurso" (AgInt no AREsp n. 2.497.615/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 8/4/2024, DJe de 11/4/2024).
+Nesse contexto, tem-se por incontornável o emprego do verbete da Súmula 187 do STJ (AgInt no AREsp n. 2.691.866/MT, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 12/3/2025, DJEN de 20/3/2025, e AgInt no AREsp n. 2.029.252/SC, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 26/9/2022, DJe de 3/10/2022).
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração de tal verba, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+ EMENTA
