@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo interposto por Instituto Nacional do Seguro Social contra decisão que inadmitiu o recurso especial, este, por sua vez, manejado com fundamento no art. 105, III, a, da Constituição Federal, desafiando o acórdão proferido pelo Tribunal Regional Federal da 4ª Região assim ementado (e-STJ, fl. 225):
+MANDADO DE SEGURANÇA. REME SSA NECESSÁRIA. INTERPOSIÇÃO DE OFÍCIO. PREVIDENCIÁRIO. AUXÍLIO-RECLUSÃO. REQUISITOS LEGAIS. BAIXA RENDA. MÉDIA DOS SALÁRIOS DE CONTRIBUIÇÃO.
+1. Remessa necessária tida por interposta, a teor do disposto no artigo 14, § 1º, da Lei nº 12.016/09.
+2. À luz da atual redação conferida pela Lei nº 13.846/19 ao artigo 80 da Lei nº 8.213/91, o auxílio-reclusão é devido aos dependentes do segurado recolhido à prisão que não receber remuneração da empresa, nem estiver em gozo de auxílio-doença, de pensão por morte, de salário- maternidade, de aposentadoria ou de abono de permanência em serviço, ter renda bruta mensal igual ou inferior ao limite legal e haver cumprido a carência de 24 contribuições mensais.
+3. A concessão de auxílio-reclusão rege-se pela legislação vigente à época do encarceramento, de modo que aplicável ao presente caso o disposto no § 4º do artigo 80 da Lei nº 8.213/91, incluído pela MP nº 871/2019, segundo o qual a aferição da renda do segurado se dará pela média dos salários de contribuição apurados no período de doze meses anteriores ao mês do recolhimento à prisão.
+4. Hipótese em que a média dos salários de contribuição não ultrapassa o limite estabelecido na legislação de regência.
+5. Preenchidos, cumulativamente, os requisitos necessários à percepção de auxílio- reclusão, tem a parte autora direito à concessão do benefício.
+Os embargos de declaração opostos em sequência foram rejeitados (e-STJ, fls. 245-248).
+Nas razões do recurso especial (e-STJ, fls. 256-259), a parte recorrente apontou violação aos arts. 1.022, II, do CPC/2015; e 80, §§ 3º e 4º, da Lei nº 8.213/1991.
+Preliminarmente, sustentou que o acórdão recorrido incorreu em omissão, porquanto deixou de se pronunciar acerca da "forma de aferição da renda do segurado preso, para fins de enquadramento no critério "baixa renda" e, consequentemente, possibilidade de concessão do auxílio reclusão aos seus dependentes", bem como "o sentido e alcance do artigo 80, §§3º e 4º, da Lei n. 8.213/91, atualizados e introduzidos pela MP nº 871/2019, convertida na Lei nº 13.846/2019" (e-STJ, fl. 257).
+No mérito, aduziu que para aferição da renda máxima para fins de concessão do auxílio reclusão, deve-se considerar a média da renda bruta nos últimos 12 (doze) meses. Nesse sentido, asseverou que o divisor a ser aplicado no cálculo da renda média deve ser o equivalente ao número de meses em que houve remuneração.
+Portanto, defendeu que "se existirem apenas três salários-de-contribuição no período de doze meses, o divisor aplicável será o número três, e não o número doze. Logo, o período de doze meses nada mais é senão o período de apuração, e não o divisor aplicável" (e-STJ, fl. 258).
+Contrarrazões às fls. 269-278 (e-STJ).
+O feito foi sobrestado em virtude da afetação do Tema n. 1.162/STJ (e-STJ, fls. 281-282). Posteriormente, entendendo se tratar de questão jurídica diversa da submetida ao rito das demandas repetitivas, a Terceira Seção do Tribunal de origem determinou o retorno dos autos à Vice-Presidência, para a realização do juízo de admissibilidade do recurso especial (e-STJ, fls. 362-364).
+O processamento do apelo especial não foi admitido pela Corte de origem (e-STJ, fls. 376-378), o que ensejou a interposição do presente agravo (e-STJ, fls. 390-393).
+Brevemente relatado, decido.
+Considerando os fundamentos trazidos no recurso, dou provimento ao agravo para determinar a sua conversão em recurso especial, sem prejuízo de nova análise dos requisitos de admissibilidade, a fim de que a matéria seja melhor examinada, com fulcro no art. 34, XVI, do RISTJ.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PREVIDENCIÁRIO. AUXÍLIO-RECLUSÃO. AFERIÇÃO DA CONDIÇÃO DE BAIXA RENDA DO SEGURADO. MÉDIA DOS DOZE SALÁRIOS DE CONTRIBUIÇÃO ANTERIORES À PRISÃO. DEBATE ACERCA DO DIVISOR A SER APLICADO. NECESSIDADE DE MELHOR EXAME DA MATÉRIA. AGRAVO PROVIDO PARA DETERMINAR A SUA CONVERSÃO EM RECURSO ESPECIAL.
