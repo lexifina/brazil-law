@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial interposto contra decisão que inadmitiu recurso especial fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS, assim ementado (e-STJ, fls. 428/429):
+DIREITO DO CONSUMIDOR. "PROTEÇÃO VEICULAR" COMERCIALIZADA POR ENTIDADE ASSOCIATIVA. SUJEIÇÃO À LEGISLAÇÃO CONSUMERISTA. RESSARCIMENTO RECUSADO SOB O ARGUMENTO DE QUE HOUVE CULPA DO CONSUMIDOR. CLÁUSULA QUE RESTRINGE DIREITO INERENTE AO CONTRATO E ESVAZIA O SEU OBJETO. AUSÊNCIA DE DESTAQUE REDACIONAL. NULIDADE RECONHECIDA. INDENIZAÇÃO DEVIDA. DANO MORAL INEXISTENTE. LITIGÂNCIA DE MÁ-FÉ. RECURSO PROTELATÓRIO NÃO CONFIGURADO.
+I. De acordo com a inteligência do artigo 3º da Lei 8.078/1990, é considerada fornecedora e, por via de consequência, se submete à legislação de proteção ao consumidor, entidade associativa que desenvolve no mercado de consumo atividade de "proteção veicular" mediante contrapartida remuneratória.
+II. Ainda que se trate de opção menos onerosa do que o seguro tradicional, "proteção veicular" que exclui o ressarcimento sempre que o condutor incorrer em alguma ação ou omissão culposa no acidente, por restringir direito inerente à natureza do contrato e esvaziar o seu objeto, encontra veto nos artigos 6º, inciso IV, e 51, inciso IV e § 1º, inciso II, do Código de Defesa do Consumidor.
+III. Cláusulas limitativas de direitos devem se sobressair em relação às demais cláusulas quanto ao destaque redacional, ainda que tenham sido gravadas em termos claros e com caracteres ostensivos e legíveis, nos termos do artigo 54, §§ 3º e 4º, do Código de Defesa do Consumidor.
+IV. Antinomia entre cláusulas contratuais a respeito da amplitude da "proteção veicular" deve ser suprida mediante interpretação favorável ao consumidor, segundo o que preceitua o artigo 47 do Código de Defesa do Consumidor.
+V. Não havendo prova de que o condutor do veículo incorreu em dolo ou culpa grave, deve ser mantida a condenação ao pagamento dos danos materiais verificados.
+VI. À falta de evidência de que o impasse contratual acerca da indenização violou diretamente atributos da personalidade jurídica do consumidor, não há que se cogitar de dano moral passível de compensação pecuniária, consoante a inteligência do artigo 5º, incisos V e X, da Constituição de 1988, dos artigos 12, 186, 389 e 927 do Código Civil, e do artigo 6º, inciso VI, do Código de Defesa do Consumidor.
+VII. Não incorre em litigância temerária a parte que exerce regularmente o direito de recorrer, presente o disposto nos dos artigos 80, inciso VII, e 81 do Código de Processo Civil.
+VIII. Apelação parcialmente provida.
+Segundo a parte recorrente, o recurso preenche os requisitos necessários ao conhecimento e provimento.
+Intimada nos termos do art. 1.030 do Código de Processo Civil, a parte recorrida afirmou a inexistência de requisitos ou elementos aptos a promover a alteração do julgado impugnado.
+É o relatório.
+DECIDO.
+O recurso especial é tempestivo e cabível, pois interposto em face de decisão que negou provimento ao recurso de apelação interposto na origem (art. 105, III, "a" e "c", da Constituição Federal).
+No presente processo, a parte afirma, em suma, que estão presentes os requisitos para o conhecimento e provimento de seu recurso.
+Ocorre, contudo, que a questão já foi enfrentada pela decisão recorrida, que analisou detidamente todas as questões jurídicas postas.
+De há muito se firmou o entendimento no sentido de que: "A falta de impugnação a fundamento suficiente para manter o acórdão recorrido acarreta o não conhecimento do recurso." (AgInt no AREsp n. 2.423.648/PE, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 11/11/2024, DJe de 13/11/2024.)
+Com efeito, presente na decisão recorrida fundamento fático ou jurídico que sustente, por si, o resultado impugnado, mostra-se destituído de utilidade o exame das teses recursais relativas aos demais aspectos, já que, mesmo que acolhidas, não alterarão o que decidido.
+Cuida-se de entendimento consagrado desde a edição da Súmula 283 pelo Supremo Tribunal Federal, segundo a qual: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Nestes autos, observa-se que o fundamento do acórdão recorrido no sentido de que a cláusula contratual limitativa de ressarcimento é abusiva nos termos do Código de Defesa do Consumidor não foi impugnado pela parte recorrente, a indicar que a decisão recorrida remanescerá hígida mesmo que afastados os aspectos salientados no recurso, de modo que o recurso não pode ser conhecido.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 2% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+ EMENTA
