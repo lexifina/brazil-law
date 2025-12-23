@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de Habeas Corpus impetrado em favor de CLEIDIVALDO PEREIRA SILVA em que se aponta como ato coator a decisão monocrática de Desembargador do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS que indeferiu o pedido de liminar formulado no HC n. 6016089-63.2025.8.09.0011.
+Consta dos autos a prisão em flagrante do paciente, posteriormente convertida em custódia preventiva, decorrente da suposta prática do delito capitulado no art. 147, § 1º, do Código Penal, termos em que denunciado.
+Em suas razões, sustenta o impetrante a ocorrência de constrangimento ilegal, porquanto teria havido nulidade da prisão em flagrante ante a não configuração de qualquer das hipóteses do art. 302 do Código de Processo Penal, especialmente por inexistir comprovação objetiva do momento das supostas ameaças enviadas por aplicativo de mensagens.
+Alega que está ausente a contemporaneidade dos motivos ensejadores da custódia cautelar, pois não há prova temporal mínima do envio das mensagens atribuídas ao paciente, tratando-se de delito instantâneo e sem indicação de data e horário.
+Argumenta que a segregação processual encontra-se despida de fundamentação idônea, porque amparada em premissas fáticas falsas, notadamente a afirmação de descumprimento de medidas protetivas anteriores, quando a única medida foi deferida após os fatos e jamais descumprida.
+Defende que não estão presentes os requisitos autorizadores da medida extrema previstos no art. 312 do Código de Processo Penal, por ausência de periculum libertatis, considerando residência fixa, cumprimento de pena em regime semiaberto com monitoramento eletrônico, inexistência de descumprimento de ordem judicial e submissão a medidas protetivas.
+Expõe que houve inovação indevida de fundamentos para manter a prisão preventiva, pois a decisão posterior teria acrescido a "conveniência da instrução criminal" sem fato novo, em violação ao art. 315, § 2º, III, do CPP.
+Afirma que se revelam adequadas e suficientes medidas cautelares diversas da prisão, inclusive à luz da fiança arbitrada pela autoridade policial, que reconheceu a suficiência de providência menos gravosa, inexistindo fato novo que justificasse a conversão em preventiva.
+Requer, assim, liminarmente e no mérito, o relaxamento da prisão cautelar ou sua revogação, ainda que mediante a aplicação de medidas cautelares alternativas não prisionais.
+É o relatório.
+Decido.
+Constata-se, desde logo, que a pretensão não pode ser acolhida por esta Corte Superior, pois a matéria não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+Aplica-se à hipótese o enunciado 691 da Súmula do STF:
+Não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar.
+Confiram-se, a propósito, os seguintes julgados:
+AGRAVO REGIMENTAL EM HABEAS CORPUS.  ..  WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. INCIDÊNCIA DA SÚMULA n. 691/STF. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. PRISÃO DOMICILIAR. AUSÊNCIA DE PROVA INEQUÍVOCA DE QUE O RÉU ESTEJA EXTREMAMENTE DEBILITADO. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2.  ..
+3.  ..
+4. A demora ilegal não resulta de um critério aritmético, mas de aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo injustificado na prestação jurisdicional.
+5.  ..
+6. Ausência de flagrante ilegalidade a justificar a superação da Súmula 691 do STF.
+7. Agravo regimental desprovido.
+(AgRg no HC n. 778.187/PE, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 16.11.2022.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. PETIÇÃO INICIAL IMPETRADA CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR PROFERIDA EM HABEAS CORPUS PROTOCOLADO NA ORIGEM, CUJO MÉRITO AINDA NÃO FOI JULGADO. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE TERATOLOGIA. IMPOSSIBILIDADE DE SUPERAÇÃO DO ÓBICE PROCESSUAL REFERIDO NA SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL. WRIT INCABÍVEL. AGRAVO DESPROVIDO.
+1. Em regra, não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, salvo nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade (por forçar o pronunciamento adiantado da Instância Superior e suprimir a jurisdição da Inferior, em subversão à regular ordem de competências). Na espécie, não há situação extraordinária que justifique a reforma da decisão em que se indeferiu liminarmente a petição inicial.
+2.  ..
+3. Agravo regimental desprovido.
+(AgRg no HC n. 763.329/SP, Rel. Ministra Laurita Vaz, Sexta Turma, DJe de 27.9.2022.)
+No caso, a situação dos autos não apresenta nenhuma excepcionalidade a justificar a prematura intervenção desta Corte Superior e superação do referido verbete sumular. Deve-se, por ora, aguardar o esgotamento da jurisdição do Tribunal de origem.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente Habeas Corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
+ EMENTA
