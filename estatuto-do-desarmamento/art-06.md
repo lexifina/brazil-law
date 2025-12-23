@@ -3,7 +3,7 @@ I - os integrantes das Forças Armadas;
 II - os integrantes de órgãos referidos nos incisos I, II, III, IV e V do caput do art. 144 da Constituição Federal e os da Força Nacional de Segurança Pública (FNSP);
 III - os integrantes das guardas municipais e dos Municípios, nas condições estabelecidas no regulamento desta Lei;
 V - os agentes operacionais da Agência Brasileira de Inteligência e os agentes do Departamento de Segurança do Gabinete de Segurança Institucional da Presidência da República;
-VI - os integrantes dos órgãos policiais referidos no art. 51, IV, e no art. 52, XIII, da Constituição Federal;
+VI - os integrantes das polícias legislativas referidas no art. 27, § 3º, no art. 51, inciso IV, e no art. 52, inciso XIII, da Constituição Federal;
 VII - os integrantes do quadro efetivo dos agentes e guardas prisionais, os integrantes das escoltas de presos e as guardas portuárias;
 VIII - as empresas de segurança privada e de transporte de valores constituídas, nos termos desta Lei;
 IX - para os integrantes das entidades de desporto legalmente constituídas, cujas atividades esportivas demandem o uso de armas de fogo, na forma do regulamento desta Lei, observando-se, no que couber, a legislação ambiental.
