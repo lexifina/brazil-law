@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de recurso especial interposto por Paulo Eduardo Nogueira de Oliveira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do Tribunal Regional Federal da 3ª Região assim ementado (fls. 319/320):
+PROCESSO CIVIL. PREVIDENCIÁRIO. AGRAVO DE INSTRUMENTO CUMPRIMENTO DE SENTENÇA. TEMA 1050/STJ. JUÍZO DE RETRATAÇÃO NEGATIVO. ACÓRDÃO MANTIDO.
+1. A Egrégia Primeira Seção do Colendo Superior Tribunal de Justiça, em julgamento realizado em 28/04/2021, negou provimento aos Recursos Especiais 1.847.680, 1.847731, 1.847.766 e 1.847.848, que são objeto do Tema 1050/STJ, firmando a seguinte tese: "o eventual pagamento de benefício previdenciário na via administrativa, seja ele total ou parcial, após a citação válida, não tem o condão de alterar a base de cálculo para os honorários advocatícios fixados na ação de conhecimento, que será composta pela totalidade dos valores devidos", cuja decisão transitou em julgado em 30/11/2021.
+2. O v. acórdão proferido por esta E. Oitava Turma dispôs que a questão tratada no presente recurso não guarda correspondência com a pacificada pelo C. STJ no Tema 1050, afastando eventual distinção ampliativa (ampliative distinguishing), uma vez que os valores recebidos administrativamente em decorrência do benefício originário, obtido na via administrativa, não integram a condenação, por se tratar de ação de revisão.
+3. E de fato, tratando-se de condenação em que o valor é exatamente a diferença entre o benefício concedido judicialmente e o deferido na esfera administrativa, não há como ampliar a base de cálculo dos honorários advocatícios para além do título executivo, excluindo-se os valores já pagos ao segurado.
+4. Juízo de retratação negativo. Acórdão mantido.
+Os embargos de declaração, opostos por Instituto Nacional do Seguro Social (INSS), foram acolhidos com efeitos modificativos para dar provimento ao agravo de instrumento e determinar que "a base de cálculo dos honorários advocatícios deve ser a diferença entre o valor do benefício revisado e o valor recebido administrativamente antes da revisão" (fls. 265/271 e 277/280).
+A parte recorrente alega violação dos arts. 1.036 do Código de Processo Civil (CPC) e 85, § 2º, do CPC, pois entende que, à luz da tese firmada no Tema 1050 do Superior Tribunal de Justiça (STJ), os honorários sucumbenciais devem incidir sobre "a totalidade dos valores devidos" do benefício previdenciário reconhecido judicialmente, sem exclusão das parcelas pagas administrativamente após a citação válida (fls. 287/290).
+Sustenta ofensa ao art. 5º, inciso XXXVI, da Constituição Federal, ao argumento de direito adquirido e de proteção ao título judicial, vinculando a tese à manutenção da base integral para honorários (fls. 290/292).
+Aponta violação do Tema 810 do Supremo Tribunal Federal (correção monetária dos débitos da Fazenda Pública), alegando que os valores devidos devem ser atualizados conforme esse precedente, além da observância do Tema 1050 quanto à base dos honorários (fl. 290).
+Aduz, ainda, referências à Lei 8.213/1991, aos arts. 105 e seguintes do Decreto 3.048/1999, à Súmula 7, e ao art. 5º, inciso LV, da Constituição Federal, vinculando-os ao pedido de reforma para reconhecer a base integral dos honorários e a atualização pelo Tema 810 (fl. 293).
+A Vice-Presidência do Tribunal de origem determinou o retorno dos autos à Turma julgadora para análise e eventual juízo de retratação (fls. 298/301).
+A Oitava Turma do Tribunal Regional Federal da 3ª Região, manteve o julgado (fls 314/318).
+O recurso foi admitido (fls. 331/337).
+É o relatório.
+Na origem cuida-se de agravo de instrumento em cumprimento de sentença previdenciário, visando definir a base de cálculo dos honorários de sucumbência após revisão de benefício, em face de pagamentos administrativos e da tese repetitiva do Tema 1050 do STJ.
+A falta de indicação precisa e específica do dispositivo de lei federal ao qual se tenha dado interpretação divergente daquela que a ele houver dado outro tribunal impede o conhecimento do recurso especial por deficiência na fundamentação recursal. Incidência, por analogia, da Súmula 284 do Supremo Tribunal Federal (STF).
+A parte recorrente não indicou nas razões de seu recurso especial qual seria o dispositivo de lei federal objeto de interpretação controvertida nos tribunais, providência exigida por esta Corte Superior para o conhecimento dos recursos especiais interpostos com fundamento na alínea c do art. 105, inciso III, da Constituição Federal.
+No presente caso, por analogia, incide a Súmula 284 do Supremo Tribunal Federal (STF).
+Nessa mesma direção:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. MAJORAÇÃO DOS VALORES FIXADOS A TÍTULO POR DANOS MORAIS. FUNDAMENTAÇÃO DEFICIENTE. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS DE LEI FEDERAL VIOLADOS. INCIDÊNCIA DA SÚMULA 284 DO STF. DISSÍDIO JURISPRUDENCIAL NÃO FOI ANAL DEMONSTRADO. AGRAVO INTERNO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+ ..
+2. Não é possível conhecer do Recurso Especial fundado no art. 105, III, alínea c da CF, uma vez que a parte recorrente não indicou qual seria o dispositivo de Lei Federal de interpretação controvertida, o que atrai a incidência do enunciado 284 da Súmula de jurisprudência do STF, por analogia.
+ ..
+4. Agravo Interno do Particular a que se nega provimento.
+(AgInt no REsp n. 1.848.965/AL, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 5/10/2020, DJe de 9/10/2020, sem destaques no original.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. EXPROPRIAÇÃO. HONORÁRIOS ADVOCATÍCIOS. PEDIDO DE REVISÃO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO DE LEI REPUTADO VIOLADO. SÚMULA 284 DO STF. JUROS COMPENSATÓRIOS. DIFERENÇA ENTRE 80% DO DEPÓSITO E O VALOR DA CONDENAÇÃO. JUROS MORATÓRIOS. INEXIGIBILIDADE.
+1. Segundo a firme jurisprudência assentada no Superior Tribunal de Justiça, a interposição do Recurso Especial com fundamento na alínea "c" não dispensa a indicação do dispositivo de lei federal ao qual o Tribunal de origem teria dado interpretação divergente daquela firmada por outros tribunais. O não cumprimento de tal requisito, como no caso, importa deficiência de fundamentação, atraindo também a incidência do contido no enunciado 284 da Súmula do Supremo Tribunal Federal.
+ ..
+5. Recurso Especial da ATAV não conhecido. Recurso Especial do METRÔ conhecido e, no mérito, não provido.
+(REsp n. 1.779.680/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 10/9/2019, DJe de 18/10/2019, sem destaques no original.)
+Em relação à alegada ofensa ao Tema 1050 do STJ, esta Corte já decidiu que "a via excepcional não se presta para análise de ofensa a tema de julgado repetitivo, resolução, portaria, regimento interno ou instrução normativa, atos administrativos que não se enquadram no conceito de lei federal" (AgInt nos EDcl no AREsp 2.547.577/RJ, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 18/11/2024, DJe de 22/11/2024, sem grifos no original.)
+Em relação à alegada afronta aos arts. 5º, inciso XXXVI e 60, §4º, inciso IV da Constituição Federal (CF), é incabível o recurso especial quanto ao ponto por se tratar de matéria a ser veiculada em recurso extraordinário, cuja apreciação é da competência do Supremo Tribunal Federal; o contrário implicaria usurpação de competência (art. 102, III, da CF).
+Nessa mesma linha:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INCORRÊNCIA. REINTERPRETAÇÃO DO ALCANCE DA TESE FIRMADA EM RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL RECONHECIDA. MATÉRIA CONSTITUCIONAL. COMPETÊNCIA DO STF. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+IV - Não compete a este Superior Tribunal a análise de suposta violação a dispositivos constitucionais, ainda que para efeito de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal. Precedentes.
+ ..
+VI - Agravo Interno improvido.
+(AgInt no REsp n. 1.836.774/PR, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 10/8/2020, DJe de 14/8/2020, sem destaques no original.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PENSÃO MILITAR. FILHA. REQUISITOS DO ART. 7º DA LEI 3.765/60 C/C LEI 8.216/91. ALEGADA OMISSÃO ACERCA DE VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. AFERIÇÃO. IMPOSSIBILIDADE DE ANÁLISE, EM SEDE DE RECURSO ESPECIAL. ALEGADA OFENSA AO ART. 535 DO CPC/73. NÃO OCORRÊNCIA. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL QUE, EM TESE, TERIA RECEBIDO INTERPRETAÇÃO DIVERGENTE DAQUELA FIRMADA POR OUTROS TRIBUNAIS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF, APLICADA POR ANALOGIA. IMPOSSIBILIDADE DE APRECIAÇÃO DE MATÉRIA CONSTITUCIONAL, EM SEDE DE RECURSO ESPECIAL, SOB PENA DE USURPAÇÃO DA COMPETÊNCIA DO STF. AGRAVO INTERNO IMPROVIDO.
+ ..
+V. Do exam e do julgado combatido e das razões recursais, verifica-se que a solução da controvérsia possui enfoque eminentemente constitucional. Dessa forma, compete ao Supremo Tribunal Federal eventual reforma do acórdão recorrido, no mérito, sob pena de usurpação de competência inserta no art. 102 da Constituição Federal. Precedentes do STJ (AgRg no AREsp 584.240/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 03/12/2014; AgRg no REsp 1.473.025/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 03/12/2014).
+VI. Agravo interno improvido.
+(AgInt no REsp n. 1.377.313/CE, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 18/4/2017, DJe de 26/4/2017, sem destaques no original.)
+Ante o exposto, não conheço do recurso especial.
+Deixo de majorar os honorários sucumbenciais por não ter sido fixada tal verba nas instâncias ordinárias, sendo inaplicável o art. 85, § 11, do CPC/2015.
+EMENTA
