@@ -1,0 +1,18 @@
+DECISÃO
+JOSE CLAUDIO PAULINO DOS SANTOS agrava de decisão que não admitiu seu recurso especial, interposto contra acórdão proferido pelo Tribunal de Justiça do Estado de Pernambuco (Apelação Criminal n. 0000244-39.2019.8.17.0510).
+Consta dos autos que o recorrente foi condenado a 5 anos de reclusão, em regime semiaberto, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+Nas razões do recurso especial, a defesa pede a aplicação da causa de diminuição de pena prevista no art. 33, 4º, da Lei n. 11.343/2006.
+O recurso especial foi inadmitido durante o juízo prévio de admissibilidade realizado pelo Tribunal de origem, o que ensejou a interposição deste agravo.
+O Ministério Público Federal opinou pelo não provimento do agravo em recurso especial.
+Decido.
+O Tribunal de origem manteve não incidência do redutor, pois "No presente caso restou comprovado nos autos, por meio dos depoimentos testemunhais, que o réu integra a organização criminosa conhecida por "Gangue do Táxi"" (fl. 227, grifei).
+No voto de revisão, o Desembargador destacou que, "conforme relatos dos policiais, especialmente Sidney da Silva Soares, o acusado já era acompanhado pela inteligência da polícia há mais de seis meses, sendo conhecido integrante da organização criminosa denominada "Taxi"" (fl. 230, grifei).
+Para a aplicação da minorante prevista no § 4º do art. 33 da Lei de Drogas, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa nem se dedique a atividades delituosas. Isso porque a razão de ser da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 é justamente punir com menor rigor o pequeno traficante.
+A propósito, confira-se o seguinte trecho de voto deste Superior Tribunal: "Como é cediço, o legislador, ao instituir o referido benefício legal, teve como objetivo conferir tratamento diferenciado aos pequenos e eventuais traficantes, não alcançando, assim, aqueles que fazem do tráfico de entorpecentes um meio de vida." (HC n. 437.178/SC, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 11/6/2019).
+No caso, a instância de origem - dentro do seu livre convencimento motivado - apontou elementos concretos dos autos a evidenciar que as circunstâncias em que perpetrado o delito em questão não se compatibilizariam com a posição de um pequeno traficante ou de quem não se dedica, com certa frequência e anterioridade, a atividades delituosas, notadamente ao tráfico de drogas.
+Vale ressaltar que, de acordo com a jurisprudência deste Superior Tribunal, "Podem ser considerados como outros elementos para afastar a minorante o modus operandi, a apreensão de apetrechos relacionados à traficância, por exemplo, balança de precisão, embalagens, armas e munições - especialmente quando o tráfico foi praticado no contexto de delito de armas ou quando, de modo fundamentado, ficar evidenciado o envolvimento do agente com organização criminosa" (AgRg no HC n. 749.116/RJ, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), 5ª T., DJe 28/10/2022, destaquei).
+Assim, não há como se olvidar que, para entender de modo diverso, afastando-se a conclusão de que o recorrente se dedicaria a atividades criminosas e/ou não integraria organização criminosa, seria necessário o revolvimento do conjunto fático-probatório amealhado durante a instrução criminal, providência inviável em recurso especial, a teor da Súmula n. 7 do STJ.
+Portanto, fica afastada a apontada violação legal decorrente da não incidência do art. 33, § 4º, da Lei n. 11.343/2006
+À vista do exposto, conheço do agravo e nego provimento ao recurso especial.
+Publ ique-se e intimem-se.
+EMENTA
