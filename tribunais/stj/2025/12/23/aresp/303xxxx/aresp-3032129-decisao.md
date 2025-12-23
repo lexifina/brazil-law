@@ -1,0 +1,103 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por GUILHERME BUENO OLIVEIRA contra decisão que inadmitiu recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional..
+Agravo em recurso especial interposto em: 11/7/2025.
+Concluso ao gabinete em: 14/10/2025.
+Ação: de indenização por danos materiais e morais, ajuizada por FÁTIMA APARECIDA CORREIA, em face de GUILHERME BUENO OLIVEIRA, na qual requer a declaração de nulidade de cláusula contratual de honorários, a restituição de valores retidos e compensação por danos morais.
+Sentença: julgou procedentes os pedidos, para: i) declarar a nulidade da cláusula segunda do contrato e limitar a remuneração do advogado em 30% (trinta por cento) do proveito econômico; ii) condenar o requerido ao pagamento de R$ 36.653,56 (trinta e seis mil, seiscentos e cinquenta e três reais e cinquenta e seis centavos), a título de danos materiais; iii) condenar o requerido ao pagamento de R$ 10.000,00 (dez mil reais), a título de compensação por danos morais.
+Acórdão: negou provimento ao recurso de apelação interposto por Guilherme Bueno Oliveira, nos termos da seguinte ementa (e-STJ fls. 173-174):
+EMENTA - APELAÇÃO CÍVEL - AÇÃO DE INDENIZAÇÃO - CONTRATO DE HONORÁRIOS ADVOCATÍCIOS - NULIDADE DE CLÁUSULA ABUSIVA - LESÃO - DANO MORAL CONFIGURADO - SENTENÇA MANTIDA - RECURSO CONHECIDO E DESPROVIDO.
+I. CASO EM EXAME
+1. Trata-se de apelação interposta por advogado contra sentença que declarou a nulidade de cláusula contratual abusiva e o condenou ao pagamento de indenização por danos materiais e morais à ex-cliente, beneficiária de ação previdenciária.
+II. QUESTÃO EM DISCUSSÃO
+2. Verifica-se como controvérsia principal a validade da cláusula contratual de honorários que previa a retenção integral dos valores recebidos em ação previdenciária, além da existência ou não de dano moral indenizável decorrente dessa prática.
+III. RAZÕES DE DECIDIR
+3. A preliminar de inépcia da inicial foi rejeitada, pois a peça vestibular apresenta causa de pedir e pedido certos e determinados, não sendo exigida condenação penal prévia para o ajuizamento da demanda cível.
+4. No mérito, entendeu-se caracterizada a lesão contratual (art. 157 do CC), diante da evidente desproporção da cláusula que previa o repasse integral dos valores retroativos do benefício previdenciário ao advogado, em contexto de urgência e inexperiência da autora.
+5. A cláusula mostra-se abusiva e afronta princípios como o da boa-fé objetiva, da função social do contrato e da dignidade da pessoa humana, sendo inaplicável a tese de liberdade contratual absoluta.
+6. A pretensão de majoração dos honorários para 50% foi rechaçada com base na jurisprudência do STJ (REsp 1.155.200/DF), que já fixou o limite razoável em 30% sobre o proveito econômico.
+7. Quanto aos danos morais, restou reconhecido o abalo à esfera anímica da autora, diante da privação de verbas de natureza alimentar, situação que ultrapassa o mero desacerto contratual.
+IV. DISPOSITIVO E TESE
+8. Recurso desprovido.
+Tese de julgamento: A cláusula contratual que prevê a retenção de 100% do valor retroativo de benefício previdenciário por advogado caracteriza lesão, nos termos do art. 157 do Código Civil, quando pactuada com pessoa em situação de vulnerabilidade e inexperiência, e deve ser declarada nula. A apropriação integral de valores de natureza alimentar mediante cláusula abusiva enseja indenização por danos morais, por violar a dignidade da pessoa humana e os princípios da boa-fé objetiva e da função social do contrato.
+Dispositivos relevantes citados: CF/1988, art. 1º, III; CC, arts. 138, 157, 421 e 422; Código de Ética e Disciplina da OAB, art. 50.
+Jurisprudência relevante citada: STJ, REsp 1.155.200/DF, Rel. Min. Massami Uyeda, Rel. p/ acórdão Min. Nancy Andrighi, DJe 2.3.2011; STJ, REsp 392.599/CE, Rel. Min. Fernando Gonçalves, DJ 10.5.2004.
+Embargos de Declaração: opostos por GUILHERME BUENO OLIVEIRA, foram rejeitados.
+Recurso especial: alega violação dos arts. 5º, LV, da CF, 10, 330, I, 373, I, 373, II, 485, I, e 1.022, II, do CPC, e 157 do CC, bem como dissídio jurisprudencial. Além da negativa de prestação jurisdicional, afirma que houve decisão surpresa ao se aplicar a lesão sem pedido expresso e sem oportunizar contraditório. Aduz que se inverte indevidamente o ônus probatório, exigindo do recorrente prova da inexistência de lesão. Argumenta que a inicial é inepta por inadequação do pedido e ausência de correlação lógica com a causa de pedir. Assevera que a lesão é reconhecida sem demonstração concreta de premente necessidade, inexperiência e desproporção. Sustenta que há cerceamento de defesa por violação ao contraditório e à ampla defesa.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: REsp n. 2.095.460/SP, Terceira Turma, DJe de 15/2/2024 e AgInt no AREsp n. 2.325.175/SP, Quarta Turma, DJe de 21/12/2023.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca da ausência de negativa de prestação jurisdicional e cerceamento de defesa, de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Do cerceamento de defesa
+De acordo com a jurisprudência do STJ, o juiz, como destinatário da prova, pode, em conformidade com os princípios da livre apreciação da prova e do livre convencimento motivado, decidir pelo indeferimento da prova requerida sem que isso configure cerceamento de defesa, o que ocorreu na hipótese. Nesse sentido: REsp n. 2.192.255/SP, Terceira Turma, DJEN de 28/2/2025; e AgInt no REsp n. 2.077.630/SP, Quarta Turma, DJe de 18/4/2024.
+No particular, o TJ/MS, ao examinar a alegação de cerceamento de defesa, entendeu que (e-STJ fls. 200-201):
+De início, ao reanalisar a apelação, verifico que, em nenhum momento, a parte embargante aduz que deveria ter sido oportunizada a produção de provas ou que as existentes fossem insuficientes para se concluir por qualquer defeito do negócio jurídico, limitando-se a confirmar a validade do contrato.
+Ainda, ao contrário do que tenta induzir o embargante, não houve decisão surpresa no caso dos autos, pois foram apenas analisadas as provas já contidas nos autos para enquadramento jurídico adequado - existência de lesão.
+ ..
+Ademais, conforme discorrido no acórdão, os elementos contidos nos autos foram suficientes para que se concluísse pela existência de lesão, notadamente pela própria essência da cláusula contratual - que pelo recorrente foi defendida como válida em apelação - e pelo intuito da contratação indicando a premente necessidade - aposentadoria, sendo a previsão de repasse de 100% do benefício econômico da parte claramente abusiva.
+Dessa forma, o que se observa não é a existência de vícios, mas disparidade entre o posicionamento exarado no julgado e a pretensão do embargante, sendo descabido novo enfrentamento das circunstâncias já debatidas, cabendo-lhe, caso queira, tentar modificá-lo através de outra via, que não a ora escolhida.
+Assim, houve apurada análise da controvérsia, com indicativo claro de todos os fundamentos suficientes que levaram à conclusão exarada no julgamento do recurso, sendo certo que, como é sabido, o julgador não é obrigado a responder todas as questões suscitadas pelas partes, tampouco a examinar minuciosamente, um a um, os dispositivos e precedentes persuasivos invocados, os documentos apresentados e as teses levantadas, sendo bastante o enfrentamento das questões capazes de, em tese, infirmar a conclusão adotada, o que ocorreu.
+Portanto, não se caracterizando nenhuma das hipóteses do artigo 1.022, do Código de Processo Civil, não há como se acolher os embargos declaratórios, pois mesmo os chamados embargos de declaração para fins de prequestionamento encontram seus limites na referida norma.
+Dessa forma, alterar o decidido no acórdão recorrido, acerca da ausência de cerceamento de defesa, por ter sido indeferida a realização de alguma prova e da decisão surpresa, demandaria o reexame de fatos e provas, o que não é permitido ante o óbice da Súmula 7 desta Corte. Na mesma linha: AgInt no AREsp n. 2.714.570/SP, Terceira Turma, DJEN de 20/2/2025; AgInt no REsp n. 2.000.839/RJ, Quarta Turma, DJEN de 23/12/2024.
+- Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+O TJ/MS ao analisar o recurso interposto pela parte recorrente, concluiu o seguinte (e-STJ fls. 177-185):
+1. Preliminar de inépcia da inicial
+Em suas razões, o recorrente sustenta a existência de inépcia da petição inicial, sob o argumento de que inexiste condenação penal transitada em julgado decorrente da alegada apropriação indébita, bem como de que a demanda ajuizada deveria ter sido veiculada sob a forma de ação revisional ou anulatória de contrato.
+ ..
+No caso concreto, a parte autora pleiteia a declaração de nulidade de contrato de honorários advocatícios celebrado com o requerido, bem como sua condenação ao pagamento de indenização por danos morais e materiais, sob a alegação de que o ajuste previa irregularmente o repasse integral (100%) dos valores devidos no processo de aposentadoria ao advogado, o qual teria se apropriado dos referidos montantes.
+Assim, é plenamente possível extrair da petição inicial a existência de causa de pedir e de pedido certos e determinados, de modo que estão satisfeitos os requisitos do art. 330 do CPC.
+De mais a mais, à luz do princípio da instrumentalidade das formas (CPC, art. 188) e da teoria da substanciação, é assente na jurisprudência que o nome atribuído à ação não vincula o julgador, cabendo a este a análise do conteúdo da demanda, conforme o pedido e a causa de pedir, sendo irrelevante, portanto, a nomenclatura conferida pela parte autora.
+ ..
+Outrossim, como bem pontuado na sentença recorrida, a ausência de condenação criminal transitada em julgado não impede a análise da controvérsia no juízo cível, uma vez que vigora o princípio da independência entre as esferas penal e civil.
+Dessa forma, rejeita-se a preliminar de inépcia da petição inicial suscitada pelo apelante.
+2. Mérito
+Cinge-se a controvérsia recursal à análise dos seguintes pontos: (a) se há nulidade no contrato de honorários advocatícios firmado entre as partes; (b) se o percentual fixado a título de honorários, com reflexo direto no valor dos danos materiais, deve ser majorado para 50%, conforme pretende o apelante; e (c) se é devida a indenização por danos morais.
+2.1 Da nulidade do contrato de honorários
+O apelante sustenta que o contrato foi regularmente celebrado, sem vício de consentimento que enseje sua nulidade. A autora, por sua vez, afirma que foi informada por seu sobrinho - que à época trabalhava com o advogado recorrente - de que os honorários seriam fixados em 30% sobre os valores obtidos. No entanto, posteriormente, foi surpreendida ao descobrir que a cláusula contratual previa a retenção de 100% dos valores do processo pelo advogado, a título de honorários.
+ ..
+No presente caso, divergindo do entendimento adotado pelo juízo de origem1, verifica-se que não há elementos robustos a evidenciar erro (sobretudo porque não há questionamento da autora quanto à assinatura do contrato), mas sim a configuração de lesão, nos termos do art. 157 do Código Civil.
+ ..
+No caso em exame, é patente que a autora, movida por premente necessidade de garantir sua subsistência mediante a obtenção da aposentadoria, firmou contrato com cláusula claramente abusiva, que previa o repasse integral dos valores retroativos recebidos ao advogado, sem que tivesse real compreensão da desproporcionalidade da obrigação.
+Uma pessoa leiga, estranha ao meio jurídico, como a autora, não teria condições de compreender, ao menos no momento da assinatura do contrato, a desproporção evidente da contraprestação a que se obrigara, especialmente porque profissionais do Direito sabem que a exigência de contrato quota litis com previsão de repasse de 100% do benefício econômico da parte é prática absolutamente atípica e, na essência, abusiva.
+A aceitação do referido contrato, diante das circunstâncias em que ajustado e da situação de vulnerabilidade da autora, ansiosa por garantir sua aposentadoria, deu-se de maneira manifestamente viciada, caracterizando evidente hipótese de lesão, nos termos do art. 157 do Código Civil.
+ ..
+Além disso, o ônus da prova dos fatos impeditivos, modificativos ou extintivos do direito da parte autora incumbia ao advogado recorrente (CPC, art. 373, II), do qual não se desincumbiu, limitando-se a afirmar que o contrato foi livremente firmado entre as partes e reafirmando, portanto, as cláusulas pactuadas.
+A liberdade contratual, embora assegurada em nosso ordenamento jurídico, não tem caráter absoluto, devendo ser exercida à luz dos princípios da boa-fé objetiva, da função social do contrato e da dignidade da pessoa humana (CRFB/88, art. 1º, III; CC, arts. 421 e 422).
+Não prospera, ainda, a alegação do apelante de que a retenção contratual de 100% seria mitigada pela circunstância de que os valores futuros do benefício previdenciário permaneceram com a autora. Tal argumento ignora a distinção técnica entre as obrigações decorrentes de condenações em ações previdenciárias: (a) obrigação de pagar os valores retroativos, de natureza patrimonial e líquida; e (b) obrigação de fazer consistente na implantação do benefício - esta última desprovida de proveito econômico imediato.
+O proveito econômico, para fins de cálculo de honorários quota litis, restringe-se aos valores atrasados efetivamente percebidos, não abrangendo prestações vincendas e incertas no tempo.
+Nesse ponto, inclusive, a cláusula contratual mostra-se ainda mais gravosa, por violar também o art. 50 do Código de Ética e Disciplina da OAB (Resolução 02/2015), que veda honorários superiores às vantagens auferidas pelo constituinte - ressaltando-se que o advogado recorrente também recebeu honorários de sucumbência do processo em questão, além da integralidade dos valores retroativos da aposentadoria da autora.
+Diante disso, impõe-se a declaração de nulidade da cláusula que estabeleceu a retenção de 100% dos valores recebidos pela autora, por configurar vício de consentimento na modalidade lesão e afronta à boa-fé objetiva e à função social do contrato.
+2. 2 Do valor dos honorários ajustados
+O apelante pugna pela majoração do percentual fixado em sentença, pretendendo que os honorários sejam estabelecidos em 50% do proveito econômico.
+Contudo, não assiste razão ao recorrente.
+O percentual de 30% (trinta por cento) sobre o proveito econômico, fixado em sentença a título de honorários - devendo, assim, o requerido ressarcir para a parte autora a quantia de R$ 36.653,56 (trinta e seis mil, seiscentos e cinquenta e três reais e cinquenta e seis centavos), mostra-se adequado e condizente com a jurisprudência do STJ acima mencionada (R Esp n. 1.155.200/DF), em que os honorários fixados inicialmente em 50% sobre o proveito econômico foram reduzidos, já que identificados como abusivos, para 30% do proveito econômico.
+Ademais, a proporcionalidade e a razoabilidade do percentual dos honorários também devem considerar a complexidade da demanda - uma ação previdenciária de aposentadoria por idade rural (autos n. 0800569-04.2018.8.12.0009), que, embora não seja trivial, não ostenta especial grau de complexidade.
+Some-se a isso a tramitação da causa durou cerca de três anos, incluso nesse período a expedição de alvará judicial e percepção cumulativa de honorários de sucumbência, o que reforça a inadequação de qualquer majoração do percentual fixado.
+Assim, mantém-se incólume o percentual de 30% fixado em sentença.
+2. 3. Dos danos morais
+ ..
+Na hipótese, a conduta do apelante ultrapassa o mero inadimplemento contratual: trata-se de apropriação integral de verba de natureza alimentar, mediante cláusula abusiva imposta a pessoa em situação de vulnerabilidade e inexperiência.
+A privação da autora dos valores retroativos da aposentadoria, por longo período, configura grave abalo à sua esfera anímica, com evidente comprometimento da dignidade da pessoa humana (CRFB/88, art. 1º, III), razão pela qual se justifica plenamente a indenização por danos morais.
+Não havendo pedido de modificação do valor fixado, deixa-se de analisar o quantum indenizatório.
+ ..
+Desse modo, alterar o decidido no acórdão impugnado, no que se refere à: i) inépcia da inicial, ii) ausência de negativa de prestação jurisdicional, iii) cerceamento de defesa, iv) proporcionalidade e razoabilidade do percentual dos honorários cobrados, exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+Desse modo, não é possível que sejam revisitados fatos ou que seja conferida nova interpretação de cláusula contratual, uma vez que são matérias ligadas à demanda e alheias à função desta Corte Superior que é a uniformização da interpretação da legislação federal.
+- Da divergência jurisprudencial
+Além disso, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente, quais sejam: configuração da lesão contratual, dano moral, negativa de prestação jurisdicional e decisão surpresa, impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Isso porque, a demonstração da divergência não pode estar fundamentada em questões de fato, mas apenas na interpretação do dispositivo legal. Nesse sentido: AgInt no AREsp n. 1.974.371/RJ, Terceira Turma, DJe de 22/11/2023 e REsp n. 1.907.171/RJ, Quarta Turma, DJe de 11/1/2024.
+- Da violação de dispositivo constitucional ou de súmula
+A interposição de recurso especial não é cabível quando ocorre violação de súmula, de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+Nesse sentido: REsp n. 2.150.045/SP, Terceira Turma, DJEN de 4/4/2025; AgInt nos EDcl no AREsp n. 2.547.577/RJ, Primeira Turma, DJe de 22/11/2024; AgInt no AREsp n. 2.377.757/TO, Segunda Turma, DJe de 29/11/2023.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 12% sobre o valor da condenação (e-STJ fls. 130 e 185) para 14% (quatorze por cento).
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. REEXAME DE FATOS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. DISSÍDIO PREJUDICADO. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. DESCABIMENTO.
+1. Ação de indenização por danos materiais e morais.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. A jurisprudência do STJ é no sentido de que o juiz, como destinatário da prova, pode, em conformidade com os princípios da livre apreciação da prova e do livre convencimento motivado, decidir pelo indeferimento da prova requerida sem que isso configure cerceamento de defesa. Precedentes.
+4. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+5. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+6. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional, de súmula ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+7. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
