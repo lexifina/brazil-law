@@ -1,0 +1,43 @@
+DECISÃO
+Em análise, agravo em recurso especial interposto por INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVAVEIS -IBAMA contra decisão que inadmitiu o recurso especial com fundamento na incidência da Súmula 7 deste STJ.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Contraminuta apresentada.
+É o relatório.
+Decido.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à análise do recurso especial interposto com fundamento no art. 105, III, a e c, da CF, contra acórdão do Tribunal Regional Federal da 1ª Região, assim ementado:
+ADMINISTRATIVO. PROCESSUAL CIVIL. AUTO DE INFRAÇÃO AMBIENTAL. PROCESSO ADMINISTRATIVO. MULTA. PRAZO PRESCRICIONAL PREVISTO NA LEI PENAL. PRESCRIÇÃO INTERCORRENTE. AUSÊNCIA DE CAUSA INTERRUPTIVA.
+1. No processo administrativo para apuração de infração contra o meio ambiente, incide a prescrição intercorrente, regulada pelo § 2º do art. 21 do Decreto 6.514/2008, quando interrompida a prescrição da pretensão punitiva pela notificação do autuado, seja o quinquenal indicado no Decreto 6.514/2008 ou o previsto na lei penal para o crime ambiental correspondente, indicado § 3º do art. 21 do Decreto 6.514/2008.
+2. Não são causas interruptivas da prescrição intercorrente o mero encaminhamento dos autos à equipe técnica, a juntada de certidão de agravamento (positiva ou negativa) e despachos de simples expediente proferidos nos autos, sem conteúdo decisório ou de instrução, nos termos do entendimento firmado nesta Quinta Turma.
+3. Na hipótese, entre a auto de infração em 14-10-2003 e a decisão administrativa em 22-12-2008 transcorreu o prazo prescricional trienal, visto que os atos praticados são desprovidos de caráter instrutório.
+4. Apelação e Remessa Necessária desprovidas. Os honorários advocatícios, estabelecidos em desfavor do apelante nos percentuais mínimos das faixas do § 3º do art. 20 do CPC/1973, não merecem reforma, pelo que mantenho o percentual fixado na sentença (fl. 390).
+Os embargos de declaração foram rejeitados (fls. 408-420).
+Nas razões do recurso especial, o IBAMA alega divergência jurisprudencial e aponta violação do art. 1º, §1º, da Lei 9.873/1999, afirmando que o acórdão recorrido restringiu indevidamente o alcance da expressão "pendente de julgamento ou despacho", entendendo que apenas atos decisórios ou instrutórios interromperiam a prescrição intercorrente, quando, segundo sustenta, qualquer despacho que movimente o processo seria apto a interromper o prazo.
+Aponta violação dos arts. 1.022, II, e 489, IV, do CPC, de forma subsidiária, para anular o acórdão dos embargos de declaração por omissão quanto às matérias suscitadas.
+O recurso especial tem origem em ação proposta por particular visando ao reconhecimento da prescrição intercorrente em processo administrativo ambiental, com anulação do auto de infração, multa e embargo.
+O Tribunal de origem negou provimento à apelação do IBAMA e à remessa necessária, mantendo a sentença que reconheceu a prescrição intercorrente, ao fundamento de que entre 14/10/2003 e 22/12/2008 não houve ato inequívoco de apuração dos fatos, sendo inaptos a interromper a prescrição atos de mero encaminhamento, juntadas e despachos sem conteúdo decisório ou instrutório.
+O recurso não merece prosperar.
+Com efeito, "a alegação de afronta ao art. 1.022 do CPC, de forma genérica, sem a efetiva demonstração de omissão do acórdão recorrido no exame de teses imprescindíveis para o julgamento da lide, impede o conhecimento do recurso especial, ante a deficiência na fundamentação (Súmula 284 do STF)" (AgInt no AREsp n. 1.740.605/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+No caso, a parte recorrente não demonstra, de forma clara, qual seria o ponto omisso, contraditório ou obscuro do acórdão recorrido, bem como a sua importância para o deslinde da controvérsia, o que atrai a aplicação do óbice da Súmula 284 do STF, aplicável, por analogia, no âmbito desta Corte.
+No mais, a pretensão da parte recorrente relativa à violação do art. 1º, §1º, da Lei 9.873/1999 encontra óbice na Súmula 7/STJ.
+O Tribunal de origem negou provimento à apelação do IBAMA e à remessa necessária, mantendo a sentença que reconheceu a prescrição intercorrente, consignando que:
+Trata-se a questão relativa à ocorrência da prescrição da pretensão punitiva da Administração Pública relativa ao auto de infração.
+A lavratura do auto de infração e a notificação do autuado em 9-9-2002 interrompeu o prazo prescricional, seja o quinquenal indicado no caput do art. 21 do Decreto 6.514/2008 ou o previsto na lei penal para o crime ambiental correspondente:  ..
+A sentença não merece reforma, porquanto em consonância com a prova dos autos e com a jurisprudência deste Tribunal a respeito da matéria.
+Em análise dos autos, verifica-se que não houve nenhum marco interruptivo do prazo prescricional entre a decisão de homologação do auto de infração em 14-10-2003 e a decisão administrativa em 22-12-2008.
+Nesse ínterim, os demais atos praticados, notificações, despachos e pareceres, não importam em efetiva apuração do fato, cujo teor refere-se, meramente, a juntada de documentos, encaminhamentos e elaboração de pareceres.
+Isto porque a Lei nº 9.873/99 traz as hipóteses em que ocorreria a interrupção da prescrição intercorrente:  ..
+Nesse sentido, consoante orientação jurisprudencial deste Tribunal, atos de mero encaminhamento interno do processo, sem conteúdo decisório ou de instrução (juntada de certidão de agravamento e despachos de simples expediente), são inaptos a interromper a prescrição:  ..
+Transcorrido mais de três anos sem a prática de nenhum ato inequívoco que importe em apuração dos fatos, configurou-se a prescrição da pretensão punitiva do Estado na esfera administrativa (fls. 386-388).
+Nesse contexto, para alterar as conclusões do órgão julgador no sentido de que "não houve nenhum marco interruptivo do prazo prescricional", configurando-se a prescrição da pretensão punitiva, seria imprescindível o reexame do acervo fático-probatório dos autos, providência vedada em sede de recurso especial, nos termos da Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO AO ART. 1.022 DO CPC/2015. DEFICIÊNCIA NA ARGUMENTAÇÃO. SÚMULA 284 DO STF. RESERVA LEGAL. FALTA DE INTERESSE DE AGIR. MATÉRIA QUE DEVERIA TER SIDO SUSCITADA EM AÇÃO CIVIL PÚBLICA ANTERIORMENTE AJUIZADA CONTRA O RECORRENTE. REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+ ..
+4. Para chegar a conclusão diversa da que chegou o Tribunal de origem, é inevitável novo exame do acervo fático-probatório constante dos autos, providência vedada em Recurso Especial, conforme o óbice previsto na Súmula 7/STJ.
+5. Agravo Interno não provido (AgInt no AREsp n. 2.168.672/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 22/5/2023, DJe de 5/6/2023, grifo nosso).
+Por fim, importante destacar que o mesmo óbice impede o conhecimento do apontado dissídio jurisprudencial.
+Conforme a jurisprudência deste STJ, "o mesmo óbice imposto à admissão do recurso pela alínea a do permissivo constitucional impede a análise recursal pela alínea c, restando prejudicada a análise do dissídio jurisprudencial" (AgInt no AREsp 1.372.011/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 30/8/2019).
+Ademais, importante destacar que o recurso especial interposto pela alínea c do permissivo constitucional, além da comprovação da divergência - por meio da juntada de certidões ou cópias autenticadas dos acórdãos apontados divergentes, permitida a declaração de autenticidade pelo próprio advogado ou a citação de repositório oficial, autorizado ou credenciado, em que os julgados se achem publicados -, nos termos do art. 541, parágrafo único, do CPC/1973; e do art. 255 do RISTJ, exige a demonstração do dissídio, com a realização do cotejo analítico entre os acórdãos confrontados, nos termos legais e regimentais, não bastando a mera transcrição de ementas ou mesmo a íntegra do voto condutor do julgado, sem a identificação das circunstâncias que identifiquem ou assemelhem os arestos confrontados.
+Isso posto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo, para não conhecer do recurso especial.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+ EMENTA
