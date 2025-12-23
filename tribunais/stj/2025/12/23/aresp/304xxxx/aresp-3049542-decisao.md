@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de agravo interposto por CLOVIS MESSIAS RIBEIRO LOBO e FRANCISCO DELANO SILVA RIBEIRO LOBO contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA cuja ementa guarda os seguintes termos (fl. 361):
+APELAÇÃO CÍVEL. CONSUMIDOR. AÇÃO DE RESCISÃO DE CONTRATO DE COMPRA E VENDA. IMPROCEDÊNCIA. IRRESIGNAÇÃO. PRELIMINARES ARGUIDAS EM SEDE CONTRARRAZÕES. IMPUGNAÇÃO À GRATUIDADE JUDICIÁRIA. REJEIÇÃO. ILEGITIMIDADE PASSIVA. REJEIÇÃO. ILEGITIMIDADE ATIVA. REJEIÇÃO. MÉRITO. IRREGULARIDADE NO LOTEAMENTO. AUSÊNCIA DE REGISTRO E APROVAÇÃO. POSTERIOR REGULARIZAÇÃO. DEMANDA AJUIZADA APÓS QUASE DOIS ANOS DA REGULARIZAÇÃO. PRINCÍPIO DA BOA-FÉ. AUSÊNCIA DE COMPROVAÇÃO DO ABANDONO DO LOTEAMENTO. DESPROVIMENTO DO APELO.
+- A relação havida entre as partes submete-se às normas do Código de Defesa do Consumidor, haja visa que a relação existente entre o comprador e a construtora/incorporadora é de natureza consumerista.
+- Na presente hipótese, os adquirentes mesmo tendo ciência da irregularidade do loteamento, somente ajuizaram a demanda a fim de pleitear a rescisão contratual com base no inadimplemento por parte da construtora, após quase dois anos da regularização do loteamento.
+- Além disso, o acervo probatório não comprovou o alegado abandono do loteamento pela empresa apelada, a ponto de justificar a decretação da resolução do contrato com a devolução dos valores pagos.
+- Forçoso concluir que a irregularidade apontadas não tenha sido o motivo que levou os demandantes a desfazer o contrato, inexistindo o nexo causal entre a causa de pedir e o pedido
+Rejeitados os embargos de declaração opostos (fls.399-403).
+No recurso especial, a parte recorrente alega violação dos arts. 373 e 489, § 1º, I, IV e VI, do Código de Processo Civil; 205, 421 do Código Civil; e 35, III, do CDC.
+Sustenta, em síntese, que o Tribunal de origem valorou inadequadamente as provas, concluindo pela ausência de comprovação do abandono do loteamento, apesar das fotos e documentos juntados, e que o acórdão "deixou de extrair das provas as devidas consequências jurídicas".
+Afirma que a decisão não enfrentou todos os argumentos capazes de infirmar a conclusão adotada, não apreciou as provas e precedentes colacionados sobre a necessidade de prévia regularização do loteamento para alienação, e incorreu em nulidade por falta de fundamentação adequada.
+Ainda, aponta prazo prescricional decenal para pretensão decorrente de inadimplemento contratual, rechaçando a negativa da rescisão com base apenas na data de ingresso da demanda.
+Alega que o acórdão violou a liberdade de contratar e de não permanecer vinculado, justificando a rescisão diante do inadimplemento e do estado de abandono do loteamento.
+Por fim, argumenta que a rescisão do contrato com restituição das quantias pagas e perdas e danos, em razão de propaganda enganosa/recusa de cumprimento da oferta por parte da fornecedora (registro falso/irregularidade dos lotes).
+Foram oferecidas contrarrazões ao recurso especial (fls. 431-434).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 438-440), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 454-457).
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+Com efeito, o Tribunal de origem analisou detidamente o recurso especial interposto, devendo a decisão de admissibilidade ser mantida por seus próprios fundamentos.
+Cuida-se, na origem, de ação de rescisão de contrato de compra e venda c/c devolução de quantias pagas, relativa à aquisição de lotes em loteamento que, à época da contratação, não possuía registro/aprovação, tendo sobrevindo regularização em 2016. O acórdão recorrido negou provimento à apelação, mantendo a improcedência, com os seguintes fundamento: regularização realizada em 2016; demanda proposta quase dois anos após a regularização, sem nexo causal entre causa de pedir e pedido; inexistência de prova do abandono do loteamento; observância da boa-fé objetiva e vedação ao comportamento contraditório.
+De início, inexiste a alegada violação do art. 489 do CPC, visto que o Tribunal de origem efetivamente enfrentou a questão levada ao seu conhecimento, qual seja (fl. 365):
+Contudo, mesmo tendo ciência da irregularidade do loteamento desde 06/2016, e que o registro e regularização se deu na data de 26/07/2016, somente em 27/03/2019, ou seja, após quase dois anos, veio o promovente a juízo pleitear a rescisão contratual com base no inadimplemento por parte da construtora.
+Desse modo, forçoso concluir que a irregularidade apontada não tenha sido o motivo que levou os demandantes a desfazer o contrato, inexistindo o nexo causal entre a causa de pedir e o pedido.
+Além disso, o acervo probatório não comprovou o alegado abandono do loteamento pela empresa apelada, a ponto de justificar a decretação da resolução do contrato com a devolução dos valores pagos.
+Convém asseverar que, acaso insatisfeitos com eventual descumprimento de contrato, os contratantes devem adotar as medidas necessárias ou reivindicar seus direitos tão logo verificada a infringência de cláusula contratual. Por outro lado, e considerando a boa-fé objetiva que permeia as relações contratuais, o princípio da proibição de comportamentos contraditórios deve ser obedecido.
+Observa-se, portanto, que o acórdão recorrido não carece de fundamento, visto que a fundamentação exigida nos termos do art. 489 do CPC é aquela revestida de coerência, explicitando suficientemente as razões de convencimento do julgador, ainda que incorreta ou mesmo não pormenorizada, pois decisão contrária ao interesse da parte não configura violação do indigitado normativo.
+Cumpre reiterar que entendimento contrário não se confunde com ausência de prestação jurisdicional. A propósito, "não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional" (AgInt no AREsp n. 1.907.401/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 29/8/2022).
+No mesmo sentido, cito:
+3. A alegada negativa de prestação jurisdicional não se sustenta, uma vez que o Tribunal de origem examinou de forma suficiente e fundamentada todas as questões necessárias ao deslinde da controvérsia (art. 489, CPC/2015), ainda que contrariamente ao interesse da parte agravante.
+(AgInt no AgInt no AREsp n. 1.752.570/GO, relatora Ministra Daniela Teixeira, Terceira Turma, DJEN de 23/4/2025.)
+Com efeito, da análise do acordão recorrido, observa-se que o Tribunal de origem, ao negar provimento à apelação, limitou-se a abordar a regularização do loteamento em 26/7/2016, o lapso temporal de quase dois anos até a propositura da ação, a ausência de comprovação do abandono do loteamento e a incidência da boa-fé e da vedação ao comportamento contraditório, sem abordar, de forma explícita e fundamentada, as questões relativas aos arts. 373 do Código de Processo Civil (discussão sobre o ônus da prova); aos arts. 205 (prescrição), 421 (liberdade de contratar), todos do Código Civil; e ao art. 35, III, (propaganda enganosa) do CDC.
+Logo, não foi cumprido o necessário e indispensável exame da questão pela decisão atacada, apto a viabilizar a pretensão recursal da recorrente, a despeito da oposição dos embargos de declaração.
+Assim, incide no caso o enunciado da Súmula n. 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo ".
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para R$ 1.500,00.
+Publique-se. Intimem-se.
+ EMENTA
