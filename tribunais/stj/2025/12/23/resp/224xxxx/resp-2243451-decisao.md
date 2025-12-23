@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de recurso especial interposto por TURIANO ADVOGADOS em que se discute a possibilidade de fixação de honorários quando rejeitada a impugnação, promovida pela Fazenda Pública. ao cumprimento de sentença.
+Passo a decidir.
+A Primeira Seção, afetou os Recursos Especiais 2201535/SP e 2204729/SP, de relatoria do eminente Ministro Paulo Sérgio Domingues, à sistemática dos recursos repetitivos para definir as seguintes tese controvertida (Tema n. 1.392):
+Definir se, de acordo com o Código de Processo Civil/2015, são devidos honorários advocatícios sucumbenciais em cumprimento de sentença contra a Fazenda Pública, na hipótese de rejeição total ou parcial de impugnação à pretensão executória.
+Encontrando-se o tema afetado à sistemática dos repetitivos, esta Corte Superior orienta que os recursos que tratam da mesma controvérsia devem aguardar o julgamento do paradigma representativo no Tribunal de origem, viabilizando, assim, o juízo de conformação, hoje disciplinado pelo art. 1.040 do CPC/2015.
+A esse respeito, confiram-se os seguintes precedentes: AgInt nos EDcl no AREsp n. 2.079.384/PR, Relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 12/12/2022, DJe de 14/12/2022; EDcl no AgInt no REsp n. 2.000.033/DF, Relator Ministro Mauro Campbell Marques, Segun da Turma, julgado em 7/12/2022, DJe de 12/12/2022; e EDcl no AgInt no REsp n. 2.003.948/SP, Relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 5/12/2022, DJe de 7/12/2022.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado para esta Corte Superior, para que aqui possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Registre-se que essa medida visa evitar, também, o desmembramento do apelo especial e, em consequência, eventual ofensa ao princípio da unirrecorribilidade ou da unicidade recursal.
+Ante o exposto, DETERMINO a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que, após a publicação do acórdão a ser proferido no recurso representativo da controvérsia e em observância ao art. 1.040 do CPC/2015: a) negue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pelo Tribunal Superior; ou b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema repetitivo.
+Publique-se. Intimem-se.
+EMENTA
