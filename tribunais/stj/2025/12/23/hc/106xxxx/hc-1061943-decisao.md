@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JEFFERSON CAMARA DOS SANTOS contra ato omissivo atribuído à Terceira Vice-Presidência do Tribunal de Justiça do Estado de Minas Gerais, consubstanciado na demora excessiva na análise do juízo de admissibilidade do Recurso Especial n. 1.0000.24.332037-1/003.
+Consta que o paciente foi preso em 11/11/2023 e, após a instrução, foi pronunciado em 06/06/2024 pela suposta prática de tentativa de homicídio qualificado, previsto no art. 121, § 2º, II e IV, c/c art. 14, II, do Código Penal (e-STJ fl. 2; e-STJ fls. 14/15).
+A defesa interpôs Recurso Especial nº 1.0000.24.332037-1/003, em 02/06/2025, visando à reforma da decisão de pronúncia, com razões que tratam, entre outros pontos, de (i) requisitos da prisão preventiva (art. 312 do CPP), (ii) indispensabilidade do exame de corpo de delito (art. 158 do CPP), (iii) cadeia de custódia (arts. 158-A e seguintes do CPP) e (iv) fundamentação da pronúncia (art. 413 do CPP) (e-STJ fls. 7/8 e 40/41; e-STJ fls. 41-46 e 47-53).
+Inconformada, a defesa afirma que interpôs Recurso Especial visando à reforma da decisão de pronúncia no processo n. 1.0000.24.332037-1/003. Dessa f orma, alega que o recurso encontra-se paralisado sem qualquer andamento na Terceira Vice-Presidência do TJMG desde junho de 2025, aguardando o mero juízo de admissibilidade, não obstante as petições e comunicações eletrônicas da defesa para impulsionamento do feito, que restaram infrutíferas (e-STJ fls. 2/3).
+No presente writ, a defesa alega excesso de prazo na análise de admissibilidade do Recurso Especial, com violação ao princípio da razoável duração do processo, previsto no art. 5º, LXXVIII, da CF, e configuração de coação ilegal, previsto no art. 648, II, do CPP.
+Afirma, ainda, a ineficácia prática da revisão periódica da prisão preventiva, conforme o art. 316, parágrafo único, do CPP, e afronta ao art. 7º, item 5, da Convenção Americana sobre Direitos Humanos.
+Diante disso, pede, liminarmente e no mérito, o relaxamento da prisão preventiva do paciente com a expedição do alvará de soltura e, subsidiariamente, a aplicação de medidas cautelares do do art. 319 do CPP. Além disso, requer a notificação da autoridade apontada como coatora para informações.
+É o relatório. Decido.
+Não há como prosseguir a irresignação.
+O writ foi deficitariamente instruído, pois não consta dos autos documentos comprobatórios de suas alegações, para que se avalie eventual constrangimento ilegal a prisão cautelar do paciente.
+O rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente.
+Com efeito, " a  jurisprudência do Supremo Tribunal Federal é firme no sentido da inadmissão do habeas corpus quando não instruído o writ com as peças necessárias à confirmação da efetiva ocorrência do constrangimento ilegal". (AgRg no HC n. 182.788, Rel. Ministra Rosa Weber, Primeira Turma, julgado em 22/5/2022, DJe 18/6/2020).
+No mesmo sentido, esta Corte assentou que " e m sede de habeas corpus, é cediço que a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado". (AgRg no HC n. 772.017/SC, Rel. Ministro Ribeiro Dantas, Quinta Turma, julgado em 28/11/2022, DJe 2/12/2022).
+Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Intimem-se.
+EMENTA
