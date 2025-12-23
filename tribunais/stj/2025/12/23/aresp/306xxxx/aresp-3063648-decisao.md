@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interposto por ANTONIO PINA LARANJEIRA contra decisão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS que inadmitiu o recurso especial.
+O acórdão proferido pelo Tribunal de Justiça do Distrito Federal e Territórios manteve sentença condenatória pelo crime de roubo majorado.
+O agravante interpôs recurso especial alegando violação ao artigo 26, parágrafo único, do Código Penal, sustentando que deveria ter sido aplicada a causa de diminuição de pena prevista para os casos de semi-imputabilidade. Argumentou que documentos médicos, receitas, relatórios e depoimentos orais, comprovam seu estado de saúde mental comprometido (dependente químico mesmo antes dos fatos), porém, o laudo pericial de exame psiquiátrico certificou situação diversa. Alegou fragilidade do laudo pericial, que não teria respondido de forma conclusiva aos quesitos formulados pela defesa (fls. 640-651).
+A Presidência do Tribunal de origem inadmitiu o recurso especial, em razão do óbice da sumula 7 do STJ (fls. 671-674).
+No presente agravo, a Defesa sustenta, em síntese, que o acórdão recorrido violou o artigo 26, parágrafo único, do Código Penal, ao negar aplicação da causa de diminuição de pena relativa à semi-imputabilidade. Alega que documentos médicos, receitas, relatórios e depoimentos demonstram seu estado de saúde mental comprometido (dependência química), tendo o laudo pericial psiquiátrico sido realizado de forma frágil e inconclusiva quanto aos quesitos formulados pela defesa. Argumenta que não pretende o reexame de provas, mas apenas a interpretação jurídica adequada da situação de saúde comprovada nos autos (fls. 683-693).
+O Ministério Público Federal opinou pelo não provimento do agravo em recurso especial (fls. 723-727).
+É o relatório. DECIDO.
+O agravo em recurso especial tem por finalidade a demonstração do desacerto da decisão de inadmissibilidade do recurso especial proferida pelo Tribunal de origem, de forma a viabilizar o exame do recurso especial por esta Corte de Justiça.
+Assim, o agravante tem o ônus de refutar especificamente cada um dos óbices recursais aplicados pela decisão de inadmissibilidade do recurso especial, em respeito ao princípio da dialeticidade.
+No caso concreto, a decisão agravada não conheceu do recurso especial por aplicação das Súmulas n. 7, STJ.
+Quanto à Súmula n. 7, STJ, incumbe ao agravante demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no acórdão recorrido. Nesse sentido: AgRg no AREsp n. 1.207.268/MG, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca.
+No caso, verifico que o agravante não enfrentou adequadamente os fundamentos da decisão que inadmitiu o recurso especial.
+A decisão da Presidência do Tribunal de origem fundamentou-se especificamente na incidência da Súmula nº 7 do STJ, citando inclusive trecho do acórdão recorrido que registrou a conclusão do laudo pericial no sentido de que o agravante "apresentava preservadas as capacidades de entendimento e autodeterminação, à época e quanto aos fatos".
+O agravante limita-se a reproduzir os mesmos argumentos já deduzidos no recurso especial inadmitido, sustentando genericamente que não pretende o reexame de provas, mas sim a "interpretação legal" da documentação juntada. Contudo, não demonstra, de forma concreta e pormenorizada, como a reforma do julgado independeria da reavaliação do conjunto probatório.
+Desse modo, a ausência de impugnação adequada dos fundamentos empregados pela Corte de origem para impedir o trânsito do recurso especial, nos termos do art. 932, inciso III, do CPC, e do art. 253, parágrafo único, inciso I, do RISTJ, obsta o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+A propósito:
+"AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO DEFICIENTE DA DECISÃO DE INADMISSÃO NA ORIGEM. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015 E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. TENTATIVA DE ACRESCER ARGUMENTOS, EM SEDE DE AGRAVO REGIMENTAL, COM VISTAS À IMPUGNAÇÃO DOS FUNDAMENTOS TIDOS COMO INATACADOS. INADMISSIBILIDADE, PRECLUSÃO CONSUMATIVA. PLEITO DE CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. DESCABIMENTO.
+1. A decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos (EAREsp n. 831.326/SP, Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018), inclusive, de forma específica, suficiente e pormenorizada (AgRg no AREsp n. 1.234.909/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 2/4/2018).
+2. No caso, a defesa do agravante não logrou impugnar, de forma efetiva, a íntegra da decisão de inadmissão na origem.
+ ..
+5. Agravo regimental improvido."
+(AgRg no AREsp n. 2.404.539/CE, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 12/9/2023, DJe de 21/9/2023.)
+Diante do exposto, nos termos do art. 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
