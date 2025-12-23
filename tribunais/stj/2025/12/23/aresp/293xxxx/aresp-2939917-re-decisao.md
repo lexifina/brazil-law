@@ -1,0 +1,63 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça que não conheceu do agravo em recurso especial.
+O julgado recorrido recebeu a seguinte ementa (fls. 722-723):
+AGRAVO EM RECURSO ESPECIAL. LOCAÇÃO DE IMÓVEL. SEGURO-FIANÇA LOCATÍCIA. ALEGADA VIOLAÇÃO AOS ARTS. 187 E 757 DO CÓDIGO CIVIL, 805 DO CÓDIGO DE PROCESSO CIVIL E 37, INCISO III, DA LEI N. 8.245/1991. FACULTATIVIDADE DO ACIONAMENTO DO SEGURO PELO LOCADOR. AUSÊNCIA DE ABUSO DE DIREITO. FUNDAMENTAÇÃO DEFICIENTE DO RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA N. 284/STF. PRETENSÃO QUE DEMANDA INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. ÓBICES DAS SÚMULAS N. 5 E 7/STJ. AGRAVO NÃO CONHECIDO.
+I. CASO EM EXAME
+1. Agravo em recurso especial interposto contra decisão que inadmitiu o recurso especial, em ação de cobrança de aluguéis inadimplentes decorrente de contrato de locação de imóvel com garantia de seguro-fiança locatícia.
+II. QUESTÃO EM DISCUSSÃO
+2. Alegada violação aos arts. 187 e 757 do Código Civil, 805 do Código de Processo Civil e 37, inciso III, da Lei n. 8.245/1991, sustentando-se que o locador deve acionar obrigatoriamente o seguro-fiança antes de cobrar diretamente o locatário, sob pena de abuso de direito e violação ao princípio pacta sunt servanda. III. RAZÕES DE DECIDIR
+3. Fundamentação deficiente do recurso especial, pois os dispositivos invocados não contêm comando normativo capaz de infirmar o acórdão recorrido, incidindo a Súmula n. 284/STF.
+4. Pretensão recursal que demanda interpretação de cláusulas contratuais, vedada pela Súmula n. 5/STJ.
+5. Necessidade de reexame de matéria fático-probatória para acolher as teses, o que atrai o óbice da Súmula n. 7/STJ.
+6. Facultatividade do acionamento do seguro pelo locador, sem configuração de abuso de direito ou existência de benefício de ordem.
+IV. DISPOSITIVO
+7. Agravo em recurso especial não conhecido. Majorados os honorários sucumbenciais para 12% (doze por cento) sobre o valor da causa, nos termos do art. 85, § 11, do CPC, com ressalva do art. 98, § 3º, do mesmo diploma legal.
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão impugnado, aos arts. 5º, XXXV, LIV e LV, e 93, IX, da Constituição Federal.
+Nesse sentido, argumenta que, ao invocar os enunciados sumulares genericamente, o acórdão guerreado não atendeu ao dever de motivação substancial.
+Aduz que a negativa de conhecimento do recurso por formalismo excessivo, quando a tese de direito está claramente delimitada e prequestionada, representa violação aos princípios do devido processo legal e da inafastabilidade da jurisdição.
+Requer, assim, a admissão e o provimento do recurso.
+É o relatório.
+2. No julgamento do paradigma vinculado ao Tema n. 339, o Supremo Tribunal Federal apreciou a seguinte questão:
+ ..  se decisão que transcreve os fundamentos da decisão recorrida, sem enfrentar pormenorizadamente as questões suscitadas nos embargos declaratórios, afronta o princípio da obrigatoriedade de fundamentação das decisões judiciais, nos termos do art. 93, IX, da Constituição Federal.
+Na ocasião, firmou-se a seguinte tese vinculante:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas.
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessária a apreciação de todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da Constituição Federal não está relacionada ao acerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso dos autos, foram apresentados, de forma satisfatória, os fundamentos da conclusão do acórdão recorrido, como se observa do seguinte trecho do referido julgado (fls. 725-729):
+A análise dos argumentos recursais não indica, contudo, a existência de fundamentos que sustentem a reforma da decisão recorrida, cujos fundamentos transcrevo para fazerem parte da presente decisão:
+O recurso é tempestivo, as partes são legítimas e está presente o interesse em recorrer. Sem preparo haja vista a concessão dos benefícios da gratuidade de justiça. Passo ao exame dos pressupostos constitucionais de admissibilidade. O recurso especial não merece ser admitido no que tange à suposta afronta aos artigos 187 e 757, ambos do Código Civil, 805 do Código de Processo Civil e 37, inciso III, da Lei 8.245/91, porquanto, "Considerando a fundamentação do acórdão objeto do recurso especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fático-probatória e interpretação das cláusulas contratuais, procedimentos vedados a esta Corte, em razão dos óbices das Súmulas " (AgInt nos EDcl no AREsp n. 2.616.085/SC, relator Ministro Humberto Martins, n. 5 e 7/STJ Terceira Turma, julgado em 2/12/2024, DJe de 5/12/2024).
+Em relação à pretendida condenação ao pagamento de multa por litigância de má-fé, a questão deverá ser submetida ao juízo natural para posterior análise, se o caso. Assim, não conheço do pedido.  ..
+No presente processo, a parte agravante afirma, em suma, que estão presentes os requisitos para o conhecimento e provimento de seu recurso.
+Ocorre, contudo, que as questões já foram enfrentadas pela decisão recorrida, que analisou detidamente todas as questões jurídicas postas.
+A análise das razões recursais indica que a parte recorrente limitou-se à menção dos preceitos legais que considera violados ou desconsiderados, sem deixar claro, de maneira argumentativa, objetiva e convincente, como ocorreu a efetiva contrariedade ou negativa de vigência, pelo Tribunal de origem.
+No caso em tela, o agravante alega afronta aos artigos 187 e 757, do Código Civil, 805, do Código de Processo Civil e 37, II, da Lei n. 8.245/91, asseverando que o acionamento do seguro não deve ser visto como faculdade do locador e que a aplicação do princípio da "pacta sunt servanda" é medida imperativa.
+No presente feito, percebe-se das razões recursais que a parte recorrente limitou-se a revolver as alegações de sua apelação, citando artigos incapazes de conferir sustentação jurídica às teses defendidas nas razões recursais.
+(..)
+Logo, uma vez que os artigos citados não têm comando normativo suficiente para infirmar os fundamentos do acórdão recorrido, deve incidir o disposto na súmula n. 284 do Supremo Tribunal Federal.
+A teor da jurisprudência desta Corte, "A simples interpretação de cláusula contratual não enseja recurso especial." (Súmula nº 5 do Superior Tribunal de Justiça).
+Com efeito, a discussão de questões afetas à interpretação contratual, notadamente a do teor e sentido de cláusulas, mostra-se incompatível com o propósito e rito dos recursos especiais, destinados à verificação da interpretação e aplicação do direito federal.
+Conforme dito pela decisão recorrida, o recurso especial não merece ser admitido no que tange à suposta afronta aos artigos anteriormente citados, porque os argumentos utilizados pela recorrente só poderiam ter sua procedência verificada mediante reexame da matéria fática-probatória e da interpretação das cláusulas contratuais (e-STJ fl. 673).
+Quanto às alegações da parte agravante, assim decidiu o Tribunal de origem:
+ .. sendo o seguro fiança locatícia pacto acessório ao principal, pode o locador, ao seu alvedrio, utilizar a garantia para realizar a indenização contratada, caso em que a seguradora se sub-rogará no direito de cobrar a dívida do locatário, ou cobrar seu crédito diretamente ao locatário inadimplente, sem que haja nesse proceder qualquer abusividade, porquanto a execução realiza-se no interesse do credor (art. 797, CPC) e inexiste solidariedade ou benefício de ordem entre a seguradora e o devedor.  ..
+A jurisprudência desta Corte tem reiterado ser: "inviável rever, na via do recurso especial, conclusões das instâncias de cognição plena resultantes do estrito exame do acervo fático-probatório carreado nos autos e da interpretação de cláusulas contratuais (Súmulas nº 5 e 7 do STJ)." (REsp n. 2.123.587/SC, relatora Ministra Nancy Andrighi, relator para acórdão Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 4/2/2025, DJEN de 19/2/2025.)
+(..)
+No presente feito, a análise da pretensão recursal demanda a revisão do conteúdo contratual, providência que, como visto, não se mostra compatível com o escopo legalmente conferido ao recurso especial, a evidenciar a inviabilidade de conhecimento da pretensão.
+Além disso, para conhecer da controvérsia apresentada neste recurso, mostra-se necessário o revolvimento do acervo fático-probatório dos autos, procedimento incompatível com o entendimento firmado pela súmula 7 deste Superior Tribunal de Justiça. Nesse sentido:
+(..)
+No caso em apreciação, o acolhimento da tese recursal demandaria inevitável revisão do quadro fático-probatório estabelecido na instância de origem, providência que, como visto, é inviável nesta sede.
+Ante o exposto, não conheço do agravo em recurso especial.
+Assim, fica inviabilizado o exame pretendido nesta insurgência.
+Com efeito, demonstrado que houve prestação jurisdicional compatível com a tese fixada pelo STF no Tema n. 339 sob o regime da repercussão geral, é inviável o prosseguimento do recurso extraordinário, que deve ter o seguimento negado.
+3. No tocante às demais alegações, nos termos do art. 102, § 3º, da Constituição Federal, o recurso extraordinário deve ser dotado de repercussão geral, requisito indispensável à sua admissão.
+Por sua vez, o STF já definiu que a discussão relativa ao preenchimento dos pressupostos de admissibilidade de recurso anterior, de competência de outro tribunal, não tem repercussão geral.
+Quando o STJ não analisar o mérito do recurso de sua competência, tal como verificado nestes autos, qualquer alegação do recurso extraordinário demandaria a rediscussão dos requisitos de admissibilidade do referido recurso, exigindo a apreciação dos dispositivos legais que versam sobre tais pressupostos.
+No Tema n. 181 do STF, a Suprema Corte afirmou que "a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional" (RE n. 598.365-RG, relator Ministro Ayres Britto, Tribunal Pleno, julgado em 14/8/2009, DJe de 26/3/2010).
+O entendimento em questão incide tanto em situações nas quais as razões do recurso extraordinário se referem ao não conhecimento do recurso anterior quanto naquelas em que as alegações se relacionam à matéria de fundo da causa.
+Essa conclusão foi adotada sob o regime da repercussão geral e é de aplicação obrigatória, devendo os tribunais, ao analisar a viabilidade prévia dos recursos extraordinários, negar seguimento àqueles que discutam questão à qual o Supremo Tribunal Federal não tenha reconhecido a existência de repercussão geral, nos termos do art. 1.030, I, a, do CPC.
+Como exemplos da aplicação do Tema n. 181 do STF em casos semelhantes, confiram-se: ARE n. 1.256.720-AgR, relator Ministro Dias Toffoli (Presidente), Tribunal Pleno, julgado em 4/5/2020, DJe de 26/5/2020; ARE n. 1.317.340-AgR, relatora Ministra Cármen Lúcia, Segunda Turma, julgado em 12/5/2021, DJe de 14/5/2021; ARE n. 822.158-AgR, relator Ministro Edson Fachin, Primeira Turma, julgado em 20/10/2015, DJe de 24/11/2015.
+Da mesma forma, o recurso extraordinário deve ter o seguimento negado por aplicação do Tema n. 181 do STF também nas hipóteses em que for alegada ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+4. Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Vale registrar não ser cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC) contra decisões que negam seguimento a recurso extraordinário, conforme o § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. NÃO CONHECIMENTO DE RECURSO ANTERIOR, DE COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. REQUISITOS DE ADMISSIBILIDADE. DEBATE OU SUPERAÇÃO. IMPOSSIBILIDADE. TEMA N. 181 DO STF, SOB A SISTEMÁTICA DA REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
