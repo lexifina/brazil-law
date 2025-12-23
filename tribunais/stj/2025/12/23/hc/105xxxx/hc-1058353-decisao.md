@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JOSIMAR DE JESUS GABRIEL, no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DE MINAS GERAIS, que denegou a ordem lá impetrada.
+O paciente teve a prisão em flagrante convertida em preventiva pela suposta prática do delito de tráfico de drogas (no art. 33 da Lei n. 11.343/2006).
+Sustenta o impetrante, em suma, que a decisão de primeiro grau limitou-se a invocar a gravidade abstrata do delito e apresenta fundamentação insuficiente e genérica, pautando-se exclusivamente na quantidade/natureza da droga apreendida e no fato do crime em discussão possuir pena maior de 04 anos.
+Alega que a quantidade e/ou natureza da droga apreendida, por si só, não são fundamentos aptos para a decretação da prisão preventiva e que o paciente possui predicados legais favoráveis, quais sejam, primariedade, bons antecedentes, residência fixa e emprego lícito.
+Requer, liminarmente e no mérito, que a revogação da prisão preventiva. Subsidiariamente, a aplicação das medidas cautelares diversas da prisão, previstas no art. 319 do CPP.
+É o relatório.
+A Quinta Turma do Superior Tribunal de Justiça firmou entendimento no sentido de ser inadequada a impetração de habeas corpus quando utilizado em substituição a recurso próprio.
+A teor do disposto no art. 105, II, a, da CF/88, o recurso cabível contra acórdão que denega a ordem na origem é o recurso ordinário, enquanto, consoante previsto no art. 105, III, da CF, o recurso cabível contra acórdão que julga apelação, recurso em sentido estrito e agravo em execução é o recurso especial.
+Nada impede, contudo, a concessão de habeas corpus de ofício quando constatada a existência de ilegalidade flagrante, abuso de poder ou teratologia, nos termos do art. 654, §2º, do CPP, o que ora se passa a examinar.
+A prisão preventiva reveste-se de caráter excepcional, sendo admissível apenas quando devidamente demonstrada sua imprescindibilidade para preservação da ordem pública, garantia da regularidade da instrução criminal ou asseguração da eficácia da aplicação da lei penal, nos termos do art. 312 do CPP.
+O decreto prisional foi assim fundamentado (fls. 22-26):
+(..)
+O flagranteado, por sua vez, exerceu seu direito constitucional de permanecer em silêncio. A materialidade é extraída do Auto de Apreensão (ID 10580095436), e dos Exames Preliminares de Drogas de Abuso (ID 10580091154), enquanto os indícios de autoria das declarações dos referidos Policiais Militares.
+O flagranteado, apesar de primário, confirmou que receberia R$1.500,00 para realizar o transporte do veículo contendo entorpecentes, tratando-se, ainda, de tráfico intermunicipal de entorpecentes, o que confere maior reprovabilidade à conduta do autor.
+Ademais, as circunstâncias suspeitas da tratativa para o transporte do veículo, que o flagranteado informa ter deixado em local ermo, com a chave no interior do veículo, buscando-o no dia seguinte, indiciam que o autuado tinha conhecimento de que participava de urna atividade criminosa.
+Ainda, ressalto que foi encontrada grande quantidade de substância ilícita - 60 (sessenta) tabletes de cocaína, perfazendo a massa total de 63,897 Kg.
+Logo, vislumbra-se não apenas a presença dos pressupostos e requisitos fáticos (artigo 312 do CPP), como a garantia da Ordem Pública, mas também um dos requisitos instrumentais (artigo 313, incisos I, do CPP), que é a prática de crime doloso punido com pena máxima, privativa de liberdade, superior a quatro (04) anos. Desta forma, presentes os requisitos do artigo 313 do CPP, necessária se faz a conversão em prisão em flagrante em preventiva.
+Nos casos de prisão em flagrante por tráfico de drogas, a conversão em prisão preventiva pode ser decretada quando a gravidade concreta da conduta se evidencia em fatores como a quantidade e a natureza da substância apreendida, a forma de acondicionamento ou a presença de instrumentos destinados à comercialização, circunstâncias que revelam maior potencial lesivo da conduta e indicam periculosidade do agente, ultrapassando a mera gravidade abstrata do delito.
+In casu, a prisão preventiva foi decretada por decisão fundamentada, evidenciada na necessidade de garantir a ordem pública, diante da apreensão de drogas em quantidade expressiva - 60 (sessenta) tabletes de cocaína, perfazendo a massa total de 63,897 Kg.. Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. CRIMES DE TRÁFICO DE DROGAS E ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO. ALEGAÇÃO DE INOCÊNCIA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. GRANDE QUANTIDADE DE DROGAS. INDÍCIOS DE ENVOLVIMENTO REITERADO. GRAVIDADE CONCRETA DA CONDUTA. SEGREGAÇÃO DEVIDAMENTE JUSTIFICADA PARA A GARANTIA DA ORDEM PÚBLICA. DESPROPORÇÃO EM RELAÇÃO À POSSÍVEL PENA A SER APLICADA. PROGNÓSTICO INVIÁVEL. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. RECURSO NÃO PROVIDO.
+ ..
+3. O entendimento da Suprema Corte é no sentido de que "Se as circunstâncias concretas da prática do crime indicam, pelo modus operandi, a periculosidade do agente ou o risco de reiteração delitiva, está justificada a decretação ou a manutenção da prisão cautelar para resguardar a ordem pública, desde que igualmente presentes boas provas da materialidade e da autoria" (HC n. 126.756/SP, Relatora Ministra ROSA WEBER, Primeira Turma, julgado em 23/6/2015, publicado em 16/9/2015). Prisão preventiva, no caso vertente, devidamente justificada para a garantia da ordem pública, nos termos do art. 312 do CPP.
+4. Ademais, "É pacífico o entendimento no sentido de que as circunstâncias fáticas do crime, como a quantidade apreendida, a variedade, a natureza nociva dos entorpecentes, a forma de acondicionamento, entre outros aspectos, podem servir de fundamentos para o decreto prisional quando evidenciarem a periculosidade do agente e o efetivo risco à ordem pública, caso permaneça em liberdade."(AgRg no HC n. 787.386/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/12/2022, DJe 19/12/2022).
+ ..
+7. Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando evidenciada a sua insuficiência para acautelar a ordem pública.
+8. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 957.245/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 12/2/2025, DJEN de 18/2/2025.)
+Logo, tendo sido exposta de forma fundamentada e concreta a necessidade da prisão, revela-se incabível sua substituição por medidas cautelares mais brandas.
+É descabida a alegação de desproporcionalidade da prisão cautelar, com base em futura e hipotética condenação a ser cumprida em regime mais brando, haja vista que o juízo só poderá dosar a pena e fixar o respectivo regime após o encerramento da instrução criminal. Não é possível antecipar tal análise em habeas corpus, por se exigir prévia produção de prova.
+Não há, portanto, flagrante ilegalidade que justifique a concessão da ordem de ofício.
+Ante o exposto, DENEGO liminarmente o habeas corpus, com fundamento no artigo 210, do RISTJ.
+Publique-se.
+Intimem-se.
+EMENTA
