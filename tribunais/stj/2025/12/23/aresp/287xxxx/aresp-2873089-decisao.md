@@ -1,0 +1,30 @@
+DECISÃO
+Em análise, recurso especial interposto pelo INSTITUTO CHICO MENDES DE CONSERVAÇÃO DA BIODIVERSIDADE contra acórdão assim ementado (fl. 1.889):
+ADMINISTRATIVO. AMBIENTAL. AÇÃO CIVIL PÚBLICA. EDIFICAÇÃO EM APA. APP DE DUNAS. ERRO NAS COORDENADAS DO IMÓVEL NO AUTO DE INFRAÇÃO. PERÍCIA. PRINCÍPIO DA VERDADE REAL. RETORNO DOS AUTOS A ORIGEM. REABERTURA DA INSTRUÇÃO.
+1. Embora o apelante não tenha requerido a produção de prova pericial, quando instado a especificar as provas que pretendia produzir, tendo postulado apenas, a produção de prova testemunhal, considerando que o único laudo técnico foi produzido unilateralmente pela Autora no processo administrativo e teve como objeto o loteamento, e não o lote específico do autor, e que neste há áreas mais preservadas e outras totalmente urbanizadas, se mostra imprescindível a individualização da situação do imóvel do autor, mormente quando este aventa a possibilidade de regularização fundiária e que apenas parte do imóvel estaria de fato, dentro da APA (e que, portanto, a demolição deveria ser parcial).
+2. Em observância ao princípio da verdade real, acolhem-se os pedidos do réus para converter o julgamento em diligência para a produção de prova pericial específica, a fim de afastar qualquer dúvida acerca da localização do imóvel, de quando foi edificado, do grau de urbanização do entorno, e, por óbvio, da existência de infração à lei ambiental, restando prejudicado o apelo do ICMBIO.
+Os embargos de declaração foram rejeitados (fls. 1.910-1.914).
+Sustenta a parte recorrente, em síntese: i) omissão e falta de fundamentação adequada no acórdão, com negativa de prestação jurisdicional ao não enfrentar teses relevantes (presunção de veracidade dos atos administrativos, in dubio pro natura e ausência de requerimento de perícia pelo réu), devendo ser anulados os acórdãos dos eventos 10 e 25 (arts. 1.022, II, e parágrafo único, II, e 489, II, e § 1º, IV, do CPC/2015) e ii) prevalência da inversão do ônus da prova nas ações ambientais, em homenagem ao princípio da precaução, com impropriedade do acolhimento de perícia extemporânea sob o rótulo de "verdade real" (art. 6º, VIII, da Lei 8.078/1990 e art. 21 da Lei 7.347/1985) (fls. 1926-1927).
+O MINISTÉRIO PÚBLICO FEDERAL opinou "pelo conhecimento do agravo para conhecer do recurso especial, porém negar-lhe provimento" (fl. 2.020).
+É o relatório.
+Passo a decidir.
+Quanto à apontada violação ao art. 1.022, II, parágrafo único, II, do CPC, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, consignando a necessidade da conversão do julgamento em produção de prova pericial. É o que se extrai do teor da ementa supratranscrita.
+E ainda, em sede de julgamento de embargos de declaração, a Corte de origem assim se manifestou sobre a matéria dos autos (fls. 1.911-1.912):
+Em que pese não ter havido manifestação expressa sobre as alegações de presunção de veracidade dos atos administrativos e do princípio in dubio pro natura, houve manifestação expressa sobre a ausência de requerimento de produção de prova pericial pelo réu.
+Ademais, diferente do que alega o Agravante não se põe em dúvida a veracidade do ato administrativo, o que se questiona é a sua validade enquanto prova, na medida em que se refere a um lote específico, mas a todo loteamento, considerando que, conforme o item 16 do referido laudo, há áreas mais preservadas e outras totalmente urbanizadas dentro da área objeto da perícia, sendo imprescindível a individualização da situação do imóvel objeto do auto de infração, como restou consignado na fundamentação.
+ ..  também foi expressamente analisada a ausência do pedido de perícia.
+Quanto à alegada omissão sobre o princípio in dubio pro natura, embora tal princípio oriente a inversão do ônus da prova em casos de dano ambiental, entendo que, envolvendo os autos medida drástica e irreversível como a demolição do imóvel, que põe em risco o direito à moradia e à dignidade do réu, entendo que, em observância ao princípio da verdade real, o pedido extemporâneo da prova pode e deve ser acolhido.
+Assim, inexiste violação ao art. 1.022, II, parágrafo único, II, do CPC.
+No mais, decidir de forma contrária quanto à inversão do ônus da prova, demandaria o reexame de matéria fática, o que é vedado em recurso especial, nos termos da Súmula 7/STJ.
+A propósito:
+PROCESSUAL CIVIL E AMBIENTAL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. SÚMULA 618/STJ. INVERSÃO DO ÔNUS DA PROVA. ANÁLISE DOS REQUISITOS. REEXAME FÁTICO-PROBATÓRIO. INVIABILIDADE.
+1. Não se configura ofensa ao art. 1.022 do CPC/2015 quando o Tribunal de origem aprecia integralmente a controvérsia, apontando as razões de seu convencimento, mesmo que em sentido contrário ao postulado, circunstância que não se confunde com negativa ou ausência de prestação jurisdicional.
+2. A aplicação da inversão do ônus da prova nas ações de degradação ambiental, nos termos do enunciado sumular n. 618 do STJ, não é automática e impositiva, devendo as instâncias ordinárias analisar os requisitos da redistribuição dos encargos probatórios.
+3. No caso, o Tribunal de origem concluiu pela ausência de elementos autorizadores da inversão do ônus probatório com base na realidade que se delineou à luz do suporte fático-probatório constante nos autos, cuja revisão é inviável no âmbito do recurso especial.
+Incidência da Súmula 7 do STJ.
+4. Agravo interno desprovido (AgInt no AREsp n. 2.638.879/MT, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 2/12/2024, DJEN de 11/12/2024).
+Isso posto, com fundamento no art. 253, parágrafo único, II, a e b, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Sem condenação em honorários advocatícios, nos termos do art. 18 da Lei 7.347/1985.
+Intimem-se.
+EMENTA
