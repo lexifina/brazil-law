@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual a Agência Nacional de Saúde Suplementar (ANS) se insurgira, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra o acórdão do Tribunal Regional Federal da 4ª Região assim ementado (fl. 501):
+ADMINISTRATIVO. ANS. OPERADORA DE PLANO DE SAÚDE. AUTO DE INFRAÇÃO. DOENÇA PRÉ-EXISTENTE. COBERTURA PARCIAL TEMPORÁRIA. RESSARCIMENTO INDEVIDO. HONORÁRIOS ADVOCATÍCIOS. JUROS DE MORA.
+1. A cobertura parcial temporária somente é aplicada pelo prazo máximo de 24 meses aos atendimentos decorrentes de doenças ou lesões preexistentes de conhecimento do beneficiário no momento da contratação, as quais devem estar discriminadas em declaração de saúde, perícia ou entrevista qualificada contemporânea.
+2. O requerimento do procedimento médico de Cintilografia do miocárdio perfusão ocorreu em março de 2019, não havendo o decurso do mencionado prazo vinte e quatro meses da assinatura do contrato em 01/2018.
+3. Correta a declaração da nulidade do auto de infração e, por consequência, da multa que foi imposta à Unimed.
+4. O termo inicial da incidência dos juros de mora sobre honorários advocatícios fixados em sentença é a data da intimação da autarquia para o respectivo pagamento. No caso, porém, o valor devido deve ser apurado nos termos do item 3.1 do Tema 905 do STJ, até a data da promulgação da EC 113/21 e, a partir de então, pelo índice da SELIC, acumulado mensalmente. Irrelevante, pois, a discussão sobre o termo inicial para contagem dos juros, que se dará na data da vigência da EC 113/21, eis que a SELIC já engloba os juros de mora.
+Os embargos de declaração opostos foram rejeitados (fls. 535/542).
+A parte recorrente alega violação dos arts. 1.022, I e II, 489, § 1º, IV, e 371, todos do Código de Processo Civil (CPC), por negativa de prestação jurisdicional e falta de enfrentamento de argumentos capazes de infirmar a conclusão adotada.
+Sustenta ofensa aos arts. 1.022, I e II, e 489, § 1º, IV, do CPC, afirmando omissão quanto a duas matérias: (a) alcance do inciso II do art. 2 da Resolução Normativa 162/2007 da Agência Nacional de Saúde Suplementar (ANS) sobre a exigência de exclusividade para aplicação da Cobertura Parcial Temporária (CPT); e (b) contradição/erro material e reformatio in pejus na fixação da taxa referencial do Sistema Especial de Liquidação e de Custódia (SELIC) para atualização e juros dos honorários sucumbenciais.
+Aponta violação do art. 371 do CPC, ao argumento de que o Tribunal de origem não apreciou a prova e os fundamentos apresentados nos embargos de declaração capazes de modificar o resultado do julgamento, mantendo decisão genérica sem enfrentar os pontos específicos levantados.
+Argumenta que o acórdão recorrido incorreu em omissão e contradição, pois não examinou: (a) a regra do inciso II do art. 2º da Resolução Normativa 162/2007, segundo a qual a CPT somente se aplica quando o procedimento estiver relacionado exclusivamente à doença ou lesão preexistente declarada pelo beneficiário; e (b) a indevida majoração indireta dos honorários pela adoção da SELIC não requerida em apelação, caracterizando reformatio in pejus (fls. 557/564).
+Aponta, ainda, divergência jurisprudencial sobre o art. 1.022 do CPC, requerendo anulação do acórdão dos embargos para retorno à origem e saneamento das omissões (fls. 565/566).
+Contrarrazões apresentadas às fls. 571/575.
+O recurso não foi admitido, razão pela qual foi interposto o agravo ora examinado (fls. 582/586 e 595/606).
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+Na origem, cuida-se de ação ordinária, na qual a parte autora pleiteia a anulação de auto de infração e multa administrativas aplicados pela ANS no Processo Administrativo 33910.014573/2019-25 (fls. 492/500).
+Assiste razão à parte recorrente.
+A alegada ofensa aos arts. 1.022 e 489, § 1º, IV, do Código de Processo Civil tem por base suposta omissão do acórdão recorrido sobre o alcance do inciso II do art. 2º da Resolução Normativa 162/2007 da Agência Nacional de Saúde Suplementar (ANS), bem como sobre a exigência de exclusividade para aplicação da Cobertura Parcial Temporária.
+Constato que, apesar de provocado em duas oportunidades, por meio do recurso de apelação às fls. 433/441 e dos embargos de declaração às fls. 507/511, o Tribunal de origem manteve-se silente sobre essa matéria.
+Para o Superior Tribunal de Justiça, presente algum dos vícios - omissão, contradição ou obscuridade -, e apontada a violação do art. 1.022 e 489, § 1º, IV, do CPC no recurso especial, deve ser anulado o acórdão proferido pelo Tribunal de origem ao examinar os embargos de declaração lá opostos, retornando-se os autos à origem para nova apreciação do recurso.
+A propósito, cito estes julgados:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. ACIDENTE DE TRÂNSITO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015 CONFIGURADA. ACÓRDÃO ESTADUAL OMISSO QUANTO A PONTO ESSENCIAL AO DESLINDE DA CONTROVÉRSIA. AGRAVO DESPROVIDO.
+1. Decisão atacada que deu provimento ao recurso especial da parte ora agravada para, reconhecendo violação ao art. 1.022 do CPC/2015, anular o acórdão que julgou os aclaratórios e determinar o retorno dos autos ao Tribunal de origem para novo julgamento dos embargos de declaração, como entender de direito, sanando a omissão reconhecida.
+2. Fica configurada a ofensa ao art. 1.022 do CPC/2015 quando o Tribunal a quo, apesar de devidamente provocado nos embargos de declaração, não se manifesta sobre tema essencial ao deslinde da controvérsia.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 1.914.275/PB, relator Ministro Raul Araújo, Quarta Turma, julgado em 28/6/2021, DJe de 9/8/2021.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. VIOLAÇÃO AO ART. 535 DO CPC/73 CONFIGURADA. OCORRÊNCIA DE OMISSÃO DE TEMA ESSENCIAL PARA DESLINDE DA CONTROVÉRSIA. AGRAVO INTERNO PROVIDO PARA DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL.
+1. Na hipótese de o eg. Tribunal local deixar de examinar questão nevrálgica ao desate do litígio, fica caracterizada a violação ao art. 535 do CPC/73.
+2. Reconhecida a existência de omissão essencial para o deslinde da controvérsia, deve-se determinar o retorno dos autos ao eg. Tribunal de origem para novo julgamento dos embargos de declaração, como entender de direito, sanando os vícios ora reconhecidos.
+3. Acolhida a alegada ofensa ao art. 535 do CPC/73, fica prejudicada a análise das demais teses trazidas no apelo nobre.
+4. Agravo interno provido para reconsiderar a decisão agravada e dar parcial provimento ao recurso especial e, reconhecendo a violação ao art. 535, II, do CPC/73, anular o v. acórdão de fls. 201/203, determinando o retorno dos autos ao eg. Tribunal a quo para promover novo julgamento dos embargos de declaração, como entender de direito.
+(AgInt no AREsp n. 218.092/RJ, relator Ministro Lázaro Guimarães - Desembargador Convocado do TRF da 5ª Região, Quarta Turma, julgado em 2/8/2018, DJe de 8/8/2018.)
+Assim, no presente caso constato o vício de omissão e contradição no acórdão impugnado, uma vez que o Tribunal de origem não apreciou o alcance do inciso II do art. 2º da Resolução Normativa 162/2007 da Agência Nacional de Saúde Suplementar (ANS) sobre a exigência de exclusividade para aplicação da Cobertura Parcial Temporária (CPT).
+Também observo contradição quanto à alegada ocorrência de omissão/erro material e reformatio in pejus na fixação da taxa referencial do Sistema Especial de Liquidação e de Custódia (SELIC) para atualização e juros dos honorários sucumbenciais
+O provimento do recurso especial prejudica as demais matérias nele suscitadas.
+Ante o exposto, conheço do agravo para conhecer do recurso especial e a ele dar provimento a fim de reconhecer o vício de omissão e contrariedade e, assim, anular o acórdão recorrido, determinando o retorno dos autos à origem para novo exame dos embargos de declaração.
+Publique-se. Intimem-se.
+ EMENTA
