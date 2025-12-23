@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por H M M LOGISTICA E TRANSPORTE LTDA contra a decisão em que determinei a devolução dos autos à origem em razão de a matéria tratada neste processo ter sido afetada pelo Superior Tribunal de Justiça (STJ) para ser apreciada sob o regime de julgamento de recursos repetitivos - Tema 1.350 (fls. 3.145/3.147).
+A parte recorrente alega que a decisão é omissa, porquanto a Fazenda Pública pretende substituir a Certidão de Dívida Ativa (CDA) após a sentença, o que não se amoldaria à hipótese do Tema 1.350/STJ, bem como há superveniência de fato novo, que foi o cancelamento da CDA objeto de litígio.
+Requer que o recurso seja acolhido com efeitos infringentes.
+A parte adversa não apresentou impugnação (fl. 3.167).
+Intimado para se pronunciar sobre o cancelamento da CDA, o ESTADO DO PARANÁ apontou o seguinte (fl. 3.174):
+Referida CDA 3229043-4, cumpre dizer, foi mesmo cancelada. Todavia, esse cancelamento ocorreu em cumprimento à decisão judicial proferida pelo TJPR nas fls. e-STJ 2905/2916 (que declarou nulo o título). É o que se verifica no procedimento administrativo instaurado pelo PGE/PR para cumprimento da ordem judicial, ora juntado aos autos.
+É o relatório.
+Observo que, embora a parte alegue que a Fazenda Pública pretende substituir a CDA após a sentença dos embargos, o que não se coadunaria com o objeto do Tema 1.350, o Tribunal de origem apenas decidiu que, "na hipótese dos autos, a embargante/apelante alega a nulidade da CDA n.º 03229043-4 por ausência de indicação dos fundamentos legais tanto em relação à constituição do crédito tributário quanto em relação aos juros de mora e correção monetária" (fl. 2.911), não indicando, contudo, em que momento teria ocorrido a alegada tentativa de substituição da CDA pela Fazenda Pública.
+O retorno dos autos, portanto, revela-se necessário justamente para que a Corte de origem verifique se a controvérsia se amolda ou não ao objeto do Tema 1.350.
+A orientação desta Corte Superior é firme quanto ao não cabimento de recurso contra a decisão que se limita a determinar o sobrestamento do processo e seu retorno ao Tribunal de origem para a observância da sistemática prevista no art. 1.040 do Código de Processo Civil, por tratar-se de ato despido de conteúdo decisório e que não gera prejuízo às partes.
+A esse respeito, confiram-se: AgInt nos EDcl no AREsp 2.079.384/PR, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 12/12/2022, DJe de 14/12/2022; e AgInt no CC 188.715/RS, relator Ministro Gurgel de Faria, Primeira Seção, julgado em 16/11/2022, DJe de 14/12/2022.
+O recurso apenas seria cabível, em tese, no caso de equívoco na identificação do tema ou para apontar distinção entre a controvérsia afetada e a matéria versada nos autos, o que não ocorre no presente caso.
+Esclareço que, embora a parte embargante sustente a ocorrência de perda superveniente do objeto, ao argumento de que a CDA, objeto do litígio, foi cancelada após a sentença, o ESTADO DO PARANÁ manifestou que o cancelamento não decorreu de reconhecimento espontâneo da inexigibilidade do crédito, mas do estrito cumprimento de decisão judicial proferida pelo Tribunal de origem, que declarou a nulidade do título. Assim, essa circunstância não afasta a controvérsia jurídica submetida ao julgamento do Tema 1.350/STJ.
+Ante o exposto, não conheço dos embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
