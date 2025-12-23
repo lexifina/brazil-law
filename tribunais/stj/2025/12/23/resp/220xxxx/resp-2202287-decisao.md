@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se  de  recurso  especial  interposto  por  SICOOB ADMINISTRADORA DE CONSÓRCIOS LTDA.,  com  fundamento  no  art.  105,  III,  "a" e "c",  da  Constituição  Federal,  contra  acórdão  do  TRIBUNAL  DE  JUSTIÇA  DO  ESTADO  DE SÃO PAULO  cuja  ementa  guarda  os  seguintes  termos  (fl.  51):
+AGRAVO DE INSTRUMENTO. DIREITO PROCESSUAL CIVIL. ALIENAÇÃO FIDUCIÁRIA. AÇÃO DE BUSCA E APREENSÃO. NECESSÁRIA COMPROVAÇÃO DE QUE A NOTIFICAÇÃO EXTRAJUDICIAL PARA CONSTITUIÇÃO EM MORA FOI ENVIADA PARA O ENDEREÇO DO DEVEDOR.
+1. Decisão que determinou à autora que comprove que o número do imóvel para o qual foi encaminhada a notificação corresponde ao do endereço do réu.
+2. Inconformismo da autora desacolhido.
+3. Determinação razoável, na medida em que não consta do contrato de alienação fiduciária o número em questão, o que põe em dúvida a validade da notificação devolvida. Autora que tem condições de cumprir a medida, pois em tese possui comprovante de residência do réu ou pode diligenciar nesse sentido.
+4. Recurso da autora desprovido. Decisão mantida.
+Em  suas  razões,  a  parte  recorrente  alega  violação do  art.  2º,  §§  2º  e  3º,  do  DL  n.  911/1969,  sustentando  que  deve  ser  considerada  válida  a  notificação  expedida  ao  endereço  informado no  contrato  para  constituição  em  mora  do  devedor.
+Sem contrarrazões, sobreveio  o  juízo  de  admissibilidade  positivo  na  instância  de  origem  (fls. 76-78).
+É,  no  essencial,  o  relatório.
+A controvérsia versada neste recurso especial diz respeito aos requisitos necessários para comprovação da mora em ação de busca e apreensão decorrente de inadimplemento em contrato de financiamento garantido por alienação fiduciária.
+Nos termos do art. 2º, § 2º, do Decreto-Lei n. 911/1969, a mora nos contratos de alienação fiduciária "decorrerá do simples vencimento no prazo para pagamento e poderá ser comprovada por carta registrada com aviso de recebimento, não se exigindo que a assinatura constante do referido aviso seja a do próprio destinatário".
+Essa questão de direito foi afetada à Segunda Seção como representativa de controvérsia e julgada sob o rito do art. 1.036 do Código de Processo Civil, em 9/8/2023, conforme acórdãos proferidos nos Recursos Especiais n. 1.951.888/RS e 1.951.662/RS, fixando-se a seguinte tese:
+Tema 1.132: Para a comprovação da mora nos contratos garantidos por alienação fiduciária, é suficiente o envio de notificação extrajudicial ao devedor no endereço indicado no instrumento contratual, dispensando-se a prova do recebimento, quer seja pelo próprio destinatário, quer por terceiros.
+No referido julgamento, prevaleceu a tese proposta pelo Ministro João Otávio de Noronha, segundo a qual a formalidade que a lei exige do credor para ajuizamento da ação de busca e apreensão é, tão somente, a prova do envio da notificação, via postal e com aviso de recebimento, ao endereço do devedor indicado no contrato, sendo desnecessária a prova do recebimento.
+Dessa forma, comprovado o envio:
+ ..  não cabe perquirir se a notificação será recebida pelo próprio devedor ou por terceiros, porque essa situação é mero desdobramento do ato, já que a formalidade exigida pela lei é a prova do envio ao endereço constante do contrato. Assim, se o devedor pretender eximir-se do recebimento da notificação e, para tanto, ausentar-se, isso é igualmente indiferente.
+Na mesma linha, não é exigível que o credor se desdobre para localizar o novo endereço do devedor. Ao contrário, cabe ao devedor que mudar de endereço informar a alteração ao credor.
+Isso se dá porque, ao formalizar um contrato com garantia da alienação fiduciária, já tem o devedor plena consciência das regras e das consequências do não pagamento. Inclusive, ao dar a garantia, ele já sabe que, até o final do contrato, deixa de ter a efetiva propriedade do bem, pois transfere ao credor fiduciário, durante a vigência do contrato, a propriedade e até mesmo o direito de tomar posse do bem, caso ocorra o inadimplemento da obrigação.
+ ..
+Essa conclusão abarca como consectário lógico situações outras igualmente submetidas à apreciação deste Tribunal, tais como quando a notificação enviada ao endereço do devedor retorna com aviso de "ausente", de "mudou-se", de "insuficiência do endereço do devedor" ou de "extravio do aviso de recebimento", reconhecendo-se que cumpre ao credor demonstrar tão somente o comprovante do envio da notificação com aviso de recebimento ao endereço do devedor indicado no contrato.
+No caso em exame, o Tribunal a quo manteve a decisão monocrática ao considerar ineficaz, para fins de comprovação da mora, a notificação expedida pelo recorrente, uma vez que não foi encaminhada ao endereço completo do recorrido informado no contrato, o que comprometeu a sua validade (fls. 53-54):
+Como se vê, há razoabilidade na ordem exarada pelo d. julgador, na medida em que é questionável a validade da notificação extrajudicial para constituição em mora do devedor, de fls. 81, pois nada nos autos indica que o réu efetivamente resida no endereço nela constante nº 1508 da Av. Prefeito Hercules Pereira Hortal uma vez que no instrumento de fls. 75/78 consta tão somente o nome do logradouro, sem informação de número.
+No mais, o aviso de recebimento de fl. 82 foi encaminhado para Av. Prefeito Hercules Pereira Hortal, nº 1.
+Ou seja, a notificação não foi encaminhada para o endereço informado no contrato, que está incompleto.
+Nesse contexto, a pretensão recursal não pode ser conhecida, porquanto a revisão do entendimento adotado pelo Tribunal de origem, que concluiu pela ineficácia da notificação para comprovação da mora, em razão do envio a endereço incompleto, demandaria o reexame do conjunto fático-probatório dos autos, providência vedada em sede de recurso especial, nos termos da Súmula 7/STJ.
+Ante o exposto, não conheço do recurso especial.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC, tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA. NOTIFICAÇÃO EXTRAJUDICIAL. ENDEREÇO INDICADO NO CONTRATO. TEMA N. 1.132/STJ. RECURSO ESPECIAL PROVIDO.
