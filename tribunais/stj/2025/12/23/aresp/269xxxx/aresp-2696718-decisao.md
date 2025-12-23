@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que não admitiu o recurso especial pelo qual a CENTRAIS ELETRICAS BRASILEIRAS SA ELETROBRAS se insurgira contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado (fl. 55):
+TRIBUTÁRIO. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. NÚCLEO DE CÁLCULOS JUDICIAIS. AUXILIAR DO JUÍZO.
+1. Deve ser prestigiado o labor realizado pela Contadoria, por se tratar de órgão da confiança do juízo e que busca apenas aplicar os parâmetros impostos pelo título executivo. Precedentes desta Corte.
+2. Agravo improvido.
+Os embargos de declaração opostos foram rejeitados (fls. 134/135).
+Em suas razões, a parte agravante requer o conhecimento do agravo a fim de que seja determinado o processamento do recurso especial.
+A parte adversa apresentou contraminuta (fls. 548/551).
+O recurso não foi admitido (fls. 554/556), motivo por que foi interposto o agravo ora examinado.
+É o relatório.
+Da irresignação não é possível conhecer visto que a parte agravante não refutou adequadamente a decisão agravada.
+O Tribunal de origem não admitiu o recurso especial porque o art. 1.022 do Código de Processo Civil não havia sido violado no acórdão recorrido e porque a reforma do acórdão demandaria revisão de fatos e de provas constantes nos autos.
+Confira-se este trecho da decisão de admissibilidade (fl. 554):
+"Em que pese a alegação de afronta ao art. 1.022 do Novo CPC, tendo em conta a ausência de suprimento da omissão indicada nos embargos declaratórios - ainda que opostos para efeito de prequestionamento - cumpre observar, quanto à questão de fundo, que o presente recurso não reúne as necessárias condições de admissibilidade, tornando despiciendo o exame da violação, em tese, ao apontado dispositivo infraconstitucional. O recurso não merece trânsito, porquanto a questão suscitada implica revolvimento do conjunto probatório, vedado em recurso especial, nos termos da Súmula nº 07 do Superior Tribunal de Justiça, que assim estabelece: a pretensão de simples reexame de prova não enseja recurso especial."
+Nas razões do agravo em recurso especial, a parte recorrente se limitou a a alegar apenas a inaplicabilidade da Súmula 7/STJ, com os seguintes argumentos (fls. 569):
+"Dessa forma, há violação ao art. 1º do Decreto nº 20.910/32, ao art. 189 do CC e aos artigos 489, II, e § 3º, 927, III, do CPC, ao não reconhecer a prescrição dos juros remuneratórios reflexos, incidentes sobre a diferença de correção monetária do principal, nos cinco anos que antecedem à data de ajuizamento da ação (ocorrida em 06/2010). 16.
+É evidente, portanto, que a Recorrente não pretende reexaminar quaisquer fatos, seja análise de cálculo ou valores apurados. Tão somente pretende que seja atribuído o devido valor jurídico a matéria fática incontroversa - observância do critério anual e prescrição dos juros remuneratórios reflexos -, à luz da legislação vigente e dos precedentes vinculantes aplicáveis. 17.
+Além disso, à vista da jurisprudência já pacificada do e. STJ, a revaloração jurídica dos fatos não se enquadra na proibição da Súmula 7 do STJ, uma vez que ela não pressupõe que a Corte Superior reanalise o contexto fático do caso concreto. Na revaloração jurídica dos fatos, parte-se de fatos incontroversos e apenas se discute a aplicação correta da tese jurídica a eles."
+Constata-se que a parte agravante alegou que a reforma do acórdão não demandaria a revisão de fatos e de provas constantes nos autos, mas não impugnou que o art. 1.022 do Código de Processo Civil não havia sido violado no acórdão recorrido.
+O objetivo do agravo em recurso especial é o de desconstituir a decisão de inadmissão do recurso especial, sendo, por isso, imprescindível a impugnação específica de todos os fundamentos nela lançados com o fim de demonstrar o seu desacerto, o que, como se vê, não foi feito no presente caso.
+Dessa forma, por faltar impugnação pertinente, aplico ao presente caso, por analogia, a Súmula 182 do Superior Tribunal de Justiça, segundo a qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Na mesma linha:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ. AGRAVO INTERNO DA FAZENDA NACIONAL NÃO CONHECIDO.
+1. A parte agravante deve infirmar os fundamentos da decisão impugnada, mostrando-se inadmissível o recurso que não se insurge contra todos eles - Súmula 182 do Superior Tribunal de Justiça.
+2. Em análise do Agravo Interno interposto, tem-se que a parte agravante não rebateu todos fundamentos da decisão que conheceu do Agravo para conhecer em parte e negar provimento ao Recurso Especial, pois deixou de se manifestar acerca da incidência das Súmulas 282 e 356/STF.
+3. Por fim, há de se registrar a necessidade de impugnação devida e específica de todos os fundamentos da decisão agravada, mesmo que sejam distintos e independentes entre si.
+4. Agravo Interno da FAZENDA NACIONAL não conhecido.
+(AgInt no AREsp n. 1.616.546/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 22/6/2020, DJe de 29/6/2020.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, TODOS OS FUNDAMENTOS DA DECISÃO QUE NÃO ADMITIU O RECURSO ESPECIAL. ART. 932, III, DO CPC/2015 E SÚMULA 182/STJ, POR ANALOGIA. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+II. Incumbe ao agravante infirmar, especificamente, todos os fundamentos da decisão que inadmitiu o Recurso Especial, demonstrando o seu desacerto, de modo a justificar o processamento do apelo nobre, sob pena de não ser conhecido o Agravo (art. 932, III, do CPC vigente). Nesse sentido: STJ, AgRg no AREsp 704.988/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 10/09/2015; EDcl no AREsp 741.509/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 16/09/2015; AgInt no AREsp 888.667/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 18/10/2016; AgInt no AREsp 895.205/PB, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 20/10/2016; AgInt no AREsp 800.320/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 13/10/2016; EAREsp 701.404/SC, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe de 30/11/2018; EAREsp 831.326/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe de 30/11/2018; EAREsp 746.775/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe de 30/11/2018.
+III. No caso, por simples cotejo entre o decidido e as razões do Agravo em Recurso Especial verifica-se a ausência de impugnação específica de todos os fundamentos da decisão que, em 2º Grau, inadmitira o Especial, o que atrai a aplicação do disposto no art. 932, III, do CPC/2015 - vigente à época da publicação da decisão então agravada e da interposição do recurso -, que faculta ao Relator "não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida", bem como do teor da Súmula 182 do Superior Tribunal de Justiça, por analogia.
+IV. Agravo interno improvido.
+(AgInt no AREsp 1.503.814/MA, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 17/10/2019, DJe de 28/10/2019.)
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
