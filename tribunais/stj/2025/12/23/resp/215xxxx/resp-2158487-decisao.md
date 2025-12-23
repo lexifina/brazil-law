@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto por Joao Carlos da Silva Moreira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do Tribunal Regional Federal da 4ª Região (TRF4) assim ementado (fl. 127):
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECLAMAÇÃO POR ALEGADA OFENSA AO ENTENDIMENTO FIRMADO NO IAC 5 DO TRF4. NEGATIVA DE SEGUIMENTO. AUSÊNCIA DE ELEMENTOS NOVOS. DESPROVIMENTO.
+- O manejo de reclamação, ação de competência originária que possui fundamentação vinculada, é restrito às hipóteses expressamente previstas na legislação processual, de modo que incabível a sua utilização como sucedâneo de recurso ou atalho em relação aos meios adequados de impugnação.
+- A reclamação constitui instrumento para proteção da tese jurídica  rmada pela Corte; não para veicular pretensão de reforma de decisão judicial a partir de principiologia que se possa extrair do precedente que deu origem à tese. Para tanto existe a via recursal.
+- A questão examinada no IAC/TRF nº 5 do TRF4 diz respeito aos parâmetros para avaliação de penosidade da atividade de motorista de ônibus. A hipótese em tela não se amolda à tese jurídica  xada no referido IAC, pois questiona a parte reclamante a necessidade de produção de prova pericial para comprovação de tempo de serviço especial, em atividade diversa da de motorista de ônibus.
+- Confirmação da decisão que negou seguimento à reclamação.
+Os embargos de declaração opostos foram parcialmente providos, apenas para fins de prequestionamento (fls. 160/163).
+A parte recorrente alega violação dos arts. 489, § 1º, incisos V e VI, 926, 927, inciso III, 985, § 1º, e 988, inciso IV, do Código de Processo Civil (CPC), por entender que o acórdão recorrido não observou os fundamentos determinantes do Incidente de Assunção de Competência (IAC) 5/TRF4 e deixou de considerar a uniformização e coerência da jurisprudência interna do TRF4 quanto à aplicação, por analogia, da tese do IAC 5 aos motoristas de caminhão.
+Sem contrarrazões pela parte adversa.
+O recurso foi admitido (fl. 200).
+É o relatório.
+A questão debatida nos autos foi afetada à Primeira Seção do Superior Tribunal de Justiça para ser decidida sob o rito de recursos repetitivos (Tema 1.307), e foi assim delimitada:
+"Definir se há possibilidade do reconhecimento da especialidade da atividade de motorista/cobrador de ônibus ou motorista de caminhão, por penosidade, após o advento da Lei n. 9.032/1995." (REsp n. 2.166.208/RS, relator Ministro Gurgel de Faria, Primeira Seção, julgado em 17/12/2024, DJEN de 10/2/2025.)
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+O envio do recurso especial a esta Corte Superior deve ocorrer somente após o esgotamento da instância ordinária, formalizado com o novo julgamento pelo Tribunal de origem, quando então será possível examinar, no âmbito do STJ, as matérias jurídicas que eventualmente permanecerem controvertidas. Essa cautela também evita o fracionamento do recurso e previne eventual violação ao princípio da unicidade recursal, que veda a interposição simultânea ou sucessiva de recursos contra a mesma decisão.
+Ante o exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil (CPC), após a publicação do acórdão do recurso representativo de controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do mesmo CPC.
+Publique-se. Intimem-se.
+EMENTA
