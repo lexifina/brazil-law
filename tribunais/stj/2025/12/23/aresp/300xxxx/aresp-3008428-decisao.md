@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BANCO DO BRASIL S/A contra decisão que inadmitiu seu recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"AGRAVO DE INSTRUMENTO AÇÃO CIVIL PÚBLICA EXPURGOS INFLACIONÁRIOS PLANO VERÃO RECURSO DO CREDOR - TEMA 677 DO STJ - Cálculos de atualização do saldo remanescente - Atualização do débito até efetivo pagamento e disponibilização Alteração da jurisprudência por meio do REsp nº 1.820.963/SP, com fixação da tese de que o depósito efetuado a título de garantia do juízo não isenta o devedor do pagamento dos consectários de sua mora Insurgência manifestada pela parte credora contra decisão que negou aplicação da nova tese fixada Cabimento - Aplicabilidade imediata do Tema 677 do STJ - Efeito vinculante imediato, conforme previsto no art. 1.040 do CPC. Precedentes do C STJ. Decisão reformada. Agravo provido." (e-STJ, fls. 105)
+Não foram opostos embargos de declaração.
+Em seu recurso especial, o recorrente alega violação dos seguintes dispositivos da legislação federal, com as respectivas teses:
+(i) arts. 926 e 927 do Código de Processo Civil e art. 24 da Lei de Introdução às Normas do Direito Brasileiro, pois a aplicação imediata do Tema 677 teria sido indevida, devendo observar-se a estabilidade, integridade e coerência dos precedentes e a segurança jurídica, com aplicação apenas após o exaurimento das vias recursais e/ou modulação;
+(ii) arts. 394, 395 e 401, inciso I, do Código Civil e Súmulas 179 e 272 do Superior Tribunal de Justiça, porque o depósito com animus solvendi, ainda que parcial, teria suspendido os efeitos da mora e afastado os encargos moratórios previstos no título até a efetiva disponibilização ao credor; e
+(iii) arts. 141, 322, § 1º, 492, 507 e 508 do Código de Processo Civil, na medida em que a homologação dos cálculos e a ausência de recurso da parte exequente teriam acarretado preclusão consumativa, sendo vedada a alteração posterior do quantum em afronta aos limites da lide e à coisa julgada.
+Foram ofertadas contrarrazões (e-STJ, fls. 167-175).
+O recurso especial foi inadmitido na origem, dando ensejo à interposição do presente agravo.
+É o relatório. Decido.
+O recurso especial não prospera.
+A controvérsia é relativa à aplicação imediata da seguinte tese fixada para o Tema 677 dos Recursos Repetitivos, após revisão em 19/10/2022:
+"Na execução, o depósito efetuado a título de garantia do juízo ou decorrente da penhora de ativos financeiros não isenta o devedor do pagamento dos consectários de sua mora, conforme previstos no título executivo, devendo-se, quando da efetiva entrega do dinheiro ao credor, deduzir do montante final devido o saldo da conta judicial"
+(REsp 1.820.963/SP, Relatora Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 19/10/2022, DJe de 16/12/2022).
+Os embargos de declaração opostos ao acórdão paradigma foram rejeitados, ocasião na qual houve reafirmação de que "o acórdão embargado é hialino acerca da necessidade e pertinência de alterar a redação do Tema 677/STJ, tendo sido afastada a necessidade de modulação dos efeitos da decisão, o que não revela qualquer falta de racionalidade interna ou contradição" (cf. EDcl no REsp n. 1.820.963/SP, relatora Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 3/4/2024, DJe de 18/4/2024).
+Além disso, embora pendente recurso extraordinário contra o acórdão, conforme pacífico entendimento desta Corte Superior, "é desnecessário o trânsito em julgado do acórdão proferido em recurso especial representativo da controvérsia para que se possa aplicá-lo como precedente em situações semelhantes" (AgRg nos EREsp n. 1.323.199/PR, relatora Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 26/2/2014, DJe de 7/3/2014.)
+No mesmo sentido:
+"CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. INOVAÇÃO RECURSAL. MATÉRIAS NÃO IMPUGNADAS. PRECLUSÃO. PRÉVIA LIQUIDAÇÃO DE SENTENÇA COLETIVA. AUSÊNCIA DE DIALETICIDADE. NÃO CONHECIMENTO. RECURSO REPETITIVO. APLICAÇÃO IMEDIATA DO ENTENDIMENTO. DECISÃO MANTIDA.
+1. É inviável o conhecimento da matéria suscitada apenas em agravo interno, constituindo indevida inovação recursal, ante a preclusão consumativa.
+2. "A ausência de impugnação, no agravo interno, de capítulo autônomo e/ou independente da decisão monocrática do relator - proferida ao apreciar recurso especial ou agravo em recurso especial - (..) acarreta a preclusão da matéria não impugnada (..)" (EREsp n. 1.424.404/SP, Rel. Ministro Luis Felipe Salomão, Corte Especial, julgado em 20/10/2021, DJe 17/11/2021).
+3. Ausente impugnação específica de fundamento da decisão agravada, em ofensa ao princípio da dialeticidade, impõe-se o não conhecimento do agravo no ponto (art. 932, III, do CPC/2015).
+4. "É desnecessário o trânsito em julgado do acórdão proferido em recurso especial representativo da controvérsia para que se possa aplicá-lo como precedente em situações semelhantes" (AgRg nos EREsp 1323199/PR, Rel. Ministra Nancy Andrighi, Segunda Seção, julgado em 26/2/2014, DJe 7/3/2014).
+5. Agravo interno parcialmente conhecido e não provido."
+(AgInt no REsp n. 2.030.958/SP, relator Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 22/5/2023, DJe de 29/5/2023.)
+No caso dos autos, o acórdão recorrido está em conformidade com o referido entendimento qualificado desta Corte.
+Com efeito, o Tribunal de origem deu provimento ao agravo de instrumento interposto pela parte ora recorrida, determinando a aplicação imediata da tese firmada para o Tema 677 dos Recursos Repetitivos, após a revisão em 19/10/2022, sob o fundamento de o depósito de valores pelo banco ter sido efetuado a título de mera garantia do Juízo, em vez de pagamento, não afastando os consectários de sua mora (e-STJ, fl. 109).
+Por fim, cumpre destacar que é inviável o conhecimento da tese de preclusão da discussão acerca da pendência de valores devidos, em relação à mora, pela prévia homologação de cálculos, por ausência de prequestionamento, óbice da Súmula 282/STF, na medida em que não foi analisada no acórdão recorrido nem foi objeto de embargos de declaração.
+Desse modo, constatada a conformidade entre o acórdão recorrido e o entendimento qualificado desta Corte Superior, é inviável o provimento do recurso especial.
+Diante do exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se.
+EMENTA
