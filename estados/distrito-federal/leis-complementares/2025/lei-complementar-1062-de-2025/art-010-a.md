@@ -1,0 +1,2 @@
+Art. 10-A. Os ocupantes dos imóveis de parcelamentos informais previstos na Estratégia de Regularização Fundiária de Interesse Social do Plano Diretor de Ordenamento Territorial que não atenderem ao disposto no art. 10 desta Lei têm direito à regularização fundiária, mediante venda direta, conforme disposto no art. 27 desta Lei.
+Parágrafo único. A aplicação do disposto no caput deve ser objeto de regulamento próprio a ser expedido pelo órgão executor da política habitacional de interesse social do Distrito Federal.
