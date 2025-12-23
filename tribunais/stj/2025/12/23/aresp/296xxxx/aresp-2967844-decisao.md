@@ -1,0 +1,80 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por JULIANA THOFEHRN contra decisão que inadmitiu seu recurso especial, fundamentado no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo eg. Tribunal de Justiça do Estado de Santa Catarina, assim ementado:
+"DIREITO CIVIL. APELAÇÃO CIVEL. EMPRÉSTIMO CONSIGNADO. FRAUDE. ILEGITIMIDADE AFASTADA. AUSÊNCIA FALHA NA PRESTAÇÃO DE SERVIÇO. SENTENÇA REFORMADA. RECURSO PARCIALMENTE CONHECIDO. RECURSO ADESIVO PREJUDICADO.
+1. Apelação contra sentença que julgou procedente em parte a ação de obrigação de fazer c/c indenização por danos materiais, reconhecendo a ausência de contrato válido que justificasse descontos nos proventos de aposentadoria do consumidor, caracterizando dano moral e a restituição em dobro das quantias descontadas indevidamente.
+2. A questão em discussão consiste em:(i) saber se a fraude praticada por terceiros afasta a legitimidade da instituição financeira; (ii) se houve falha na prestação de serviço; (iii) do dever de restituir os valores descontados indevidamente em dobro; (iv) a (in)existência de dano efetivo a caracterizar o abalo anímico. 3. Recurso Adesivo - saber se cabe condenação por danos materiais de valores transferidos por pix e boleto pago, todos em nome de terceiros.
+3. Recurso de Apelação (i) legitimidade da instituição financeira em figurar no polo passivo da deamanda (ii) A instituição financeira é objetivamente responsável por falhas na prestação de serviços que não garantem a segurança esperada pelo consumidor. A fraude na contratação não elide a responsabilidade do fornecedor, conforme jurisprudência do STJ. A sentença deve ser reformada para afastar a responsabilidade objetiva da instituição financeira, mantendo-se apenas a declaração de nulidade do contrato.
+4. Recurso Adesivo interposto pela autora - inviável a condenação por danos materiais de valores transferidos por pix e pagamento de boleto em nome de terceiros. Fortuito externo que afasta a responsabilidade do Banco em razão da comprovação de culpa exclusiva dp consumidor.
+5. Recurso de Apelação - Recurso parcialmente provido. 6. Recurso Adesivo - Prejudicado
+Tese de julgamento: A demonstração de culpa da vítima e de terceiro afasta a responsabilidade objetiva da instituição financeira, conforme previsão do art. 14, § 3º, do CDC.
+Dispositivos relevantes citados: CDC, art. 14, § 3º.
+Jurisprudência relevante citada: STJ, AgInt no REsp 1809916/SC, Rel. Min. Raul Araújo, 4ª Turma, j. em 3.9.2019; STJ, EAREsp 676608/RS, Rel. Min. Og Fernandes, CE, j. em 21.10.2020" (e-STJ, fls. 433-434)
+Os embargos de declaração opostos pela recorrente foram rejeitados (e-STJ, fls. 466).
+Em seu recurso especial, o recorrente alega violação dos seguintes dispositivos da legislação federal, com as respectivas teses:
+(i) arts. 14, caput e § 3º, do Código de Defesa do Consumidor (CDC), pois teria havido incorreta aplicação da excludente de responsabilidade por culpa exclusiva do consumidor ou de terceiro, uma vez que a instituição financeira seria objetivamente responsável por fraude na contratação de empréstimos e por falhas no dever de segurança.
+(ii) arts. 6, I e VI, e 8 do CDC, pois haveria violação aos direitos básicos à segurança e à adequada informação, sustentando-se que o banco teria deixado de assegurar procedimentos eficazes para evitar a fraude e de prestar informações suficientes sobre riscos e a fruição dos serviços.
+(iii) art. 14, § 1º, II, do CDC, pois o serviço bancário teria sido defeituoso, na medida em que não teria identificado ou impedido movimentações atípicas e alheias ao perfil da consumidora, o que configuraria falha de segurança e atrairia a responsabilidade objetiva da instituição.
+Foram ofertadas contrarrazões, conforme certidão de fl.. 530/537 (e-STJ)
+O recurso especial foi inadmitido na origem, dando ensejo à interposição do presente agravo.
+É o Relatório. Passo a decidir.
+A recorrente alega, em síntese, que a instituição financeira seria objetivamente responsável por fraude na contratação de empréstimos e por falhas no dever de segurança e que, no caso dos autos, o banco teria deixado de assegurar procedimentos eficazes para evitar a fraude e de prestar informações suficientes sobre riscos e a fruição dos serviços, na medida em que não teria identificado ou impedido movimentações atípicas e alheias ao perfil da consumidora, o que configuraria falha de segurança e atrairia a responsabilidade objetiva da instituição pelo golpe sofrido pela autora.
+Ao se manifestar sobre tais temas, a Corte de origem consignou:
+"Analisando o contexto fático-probatório, incontroverso que a autora foi contatada por fraudadores, que na posse de dados de contrato de empréstimo firmado com o Banco do Brasil, e não com o BMG, ofertaram a possibilidade de portabilidade que acarretaria na redução de 7,5% do empréstimo e mais um valor a ser restituído, realizado junto a instituição ré.
+Nota-se que no dia 30.03.2022, por meio do aplicativo whatsapp, foi realizada a suposta portabilidade, conforme prints juntados pela própria autora, onde se verifica que o contato estava sendo feito com Banco PAN Digital, ou seja, nem com o Banco do Brasil, nem com o BMG, mas uma terceira instituição:
+(..)
+Após alguns dias, a autora, ora apelada, notou em sua conta bancária dois depósitos, um no dia 13.04.2022 no valor de R$ 30.348,45 e outro em 29.04.2022 no importe de R$ 20.128,48, decorrentes de dois empréstimos, oriundos dos contratos sob n. 407161067 e 402768719.
+Nesse passo, evidente que a contratação dos empréstimos supramencionados foram realizados mediante fraude, circunstância esta que a instituição financeira ré não nega, porém busca afastar sua responsabilidade sobre a prática ilícita cometida por terceiros.
+(..)
+In casu , verifica-se que a instituição financeira, quando da aquisição dos empréstimos, recebeu toda documentação da apelada, inclusive selfie, mormente utilizado quando das contratações por meio digital, sendo medida utilizada para garantir a autenticidade dos documentos e a segurança no momento da contratação.
+(..)
+Na hipótese, evidente que o apelante tomou todas as precauções necessárias, utilizando os meios inerentes às práticas de contratações de empréstimos consignados, sendo a documentação apresentada legítima, corroborada mediante a selfie retrada pela própria agravada, fato este que não nega.
+Além disso, o contrato foi assinado digitalmente, conforme autenticação eletrônica.
+(..)
+Ademais, conforme assinalado pela própria apelada, o contrato que deu ensejo ao contato dos estelionatários era do Banco do Brasil e não do apelante, ora Banco BMG S.A, portanto, sequer há de se falar que o vazamento de dados teria ocorrido por culpa da parte ré.
+Nessa vertente, constata-se que não há liame entre a conduta do réu e o golpe sofrido pela autora, haja vista que esta concorreu à concretização do golpe, momento que deixou de tomar as cautelas necessárias quando do envio de seus documentos pessoais e realização de selfie, ou seja, sem certificar-se de que estaria efetivamente tratando da suposta proposta de portabilidade no canal o cial de comunicação da instituição financeira.
+Além disso, analisando o contexto fático-probatório, incontroverso que a autora foi contatada por fraudadores, que na posse de dados de contrato de empréstimo firmado com o Banco do Brasil, ofertaram a possibilidade de portabilidade que acarretaria na redução de 7,5% do empréstimo e mais um valor a ser restituído, a ser realizado junto à instituição ré.
+Nota-se que no dia 30.03.2022, por meio do aplicativo whatsapp, foi realizada a suposta portabilidade, conforme prints juntados pela própria autora.
+Após, alguns dias, autora, ora apelada, notou em sua conta bancária dois depósitos, um no dia 13.04.2022, no valor de R$ 30.348,45, e outro em 29.04.2022, no importe de R$ 20.128,48, decorrentes de dois empréstimos, oriundos dos contratos sob n. 407161067 e 402768719, circunstância em que constatou que não teria ocorrido a portabilidade do contrato que tinha com Banco do Brasil, conforme combinado com quem acreditava ser funcionário do BMG.
+Em face disso, foi orientada pelo estelionatário a devolver tais valores para que fosse realizado o cancelamento dos referidos contratos, para então proceder a operação combinada.
+Nessa vertente, conforme orientada, a autora realizou as transações bancária, para três CNPJ diferentes, o que deveria ter chamado sua atenção, vejamos:
+- 18.04.2022-R$ 30.000,00  R$ 348,45, totalizando R$ 30.348,45, via pix para a empresa Original Soluções Financeiras, CNPJ: 15.633.236/0001-32.
+- 09.06.2022- R$ 11.032,46, por boleto bancário para o CNPJ: 33.652.265/00001-50;
+- 09.06.2022 - R$ 5.700,00, através de TED, para a Empresa JPG Gestão Empresarial LTDA, CNPJ: 45.516.494/08;
+(..)
+Narra, ainda, que teria caido num terceiro golpe, quando o estelionatário deixou um valor de R$ 3.396,02, que seria supostamente o ressarcimento devido pela portabilidade. Assim, o falsário afimou ter dado baixa nos empréstimos, e que deveria a autora pagar o valor de R$ 18.000,00, o qual seria por ele (golpista) transferido para sua conta no Banco do Brasil (autora).
+Em seguida, o estelionatário encaminhou um contrato e um comprovante de depósito para a autora, vindo esta a realizar mais um pix no valor de R$ 18.000,00 para Original Soluções Financeiras, vindo a descobrir, logo após, que o depósito efetuado não creditou em sua conta-corrente e que se tratava de um comprovante falso, utilizado para ludibria-la.
+Nesse cenário, é possível afirmar que a autora realizou várias transações financeiras para empresas as quais não possuem qualquer vínculo com a instituição financeira ré, Banco BMG S.A, deixando de tomar as cautelas necessárias quando das transferências de valores e pagamento de Boleto para terceiros estranhos à casa bancária.
+Outrossim, a transferência de valores sem qualquer diligência para contas de terceiros que não possui qualquer conexão com o BMG S.A, circunstância que pretere qualquer tese de falha na prestação dos serviços ou no sistema de segurança. Em vista disso, evidente que os elementos probatórios dos autos aponta, de forma inequívoca, que se trata de fortuito externo, isto é, sem qualquer relação da instituição financeira.
+(..)
+Portanto, resta con gurada a culpa da vítima e de terceiro, o que afasta a responsabilidade objetiva da instituição financeira, conforme previsão do art. 14, § 3º, do CDC." (e-STJ fls. 429/432)
+Como visto, a Corte de origem, analisando o acervo fático-probatório dos autos, concluiu que a a instituição financeira, quando firmados os empréstimos impugnados, adotou todas as medidas necessárias para garantir a autenticidade dos documentos e a segurança no momento da contratação. Concluiu, ainda, que os dados obtidos pelos estelionatários eram oriundos do Banco do Brasil e não do recorrido (de modo que sequer há de se falar que o vazamento de dados teria ocorrido por culpa do recorrido) e que os elementos probatórios dos autos apontam, de forma inequívoca, que se trata de fortuito externo, isto é, sem qualquer relação da instituição financeira.
+A modificação de tal entendimento lançado no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório. Neste sentido:
+DIREITO CIVIL. RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DE INSTITUIÇÃO FINANCEIRA. FRAUDE EM OPERAÇÕES BANCÁRIAS. RECURSO ESPECIAL NÃO CONHECIDO.
+I. Caso em exame
+1. Recurso especial interposto contra acórdão que afastou a responsabilidade objetiva de instituição financeira por fraude em operação bancária, reconhecendo a culpa exclusiva da consumidora e de terceiro.
+2. O Tribunal de origem concluiu pela regularidade da contratação do empréstimo, realizada mediante selfie, geolocalização, IP e envio de documentos pessoais, com transferência voluntária dos valores pela autora a terceiros, sem acionamento dos canais oficiais do banco.
+3. A decisão de origem afastou a aplicação da Súmula 479 do STJ, considerando que a fraude decorreu de fato externo ao serviço bancário.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a responsabilidade objetiva da instituição financeira pode ser afastada diante da alegação de fraude em operação bancária, considerando a culpa exclusiva do consumidor ou de terceiro.
+III. Razões de decidir
+5. A responsabilidade civil das instituições financeiras, no âmbito das relações de consumo, está sujeita ao regime da responsabilidade objetiva, conforme o artigo 14 do Código de Defesa do Consumidor, podendo ser elidida mediante comprovação de inexistência de defeito na prestação do serviço ou culpa exclusiva do consumidor ou de terceiro.
+6. A análise do conjunto probatório dos autos evidenciou a regularidade da contratação do empréstimo e a culpa exclusiva da consumidora e de terceiro, afastando o nexo de causalidade necessário à responsabilização da instituição financeira.
+7. O reexame dos elementos fáticos que sustentaram a conclusão da instância ordinária é vedado em sede de recurso especial, conforme a Súmula 7 do STJ.
+IV. Dispositivo
+8. Recurso especial não conhecido.
+(REsp n. 2.209.919/SP, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 1/9/2025, DJEN de 4/9/2025.)
+RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO E INDENIZAÇÃO POR DANO MORAL. OFENSA A ATO NORMATIVO QUE NÃO SE ENQUADRA NO CONCEITO DE LEI FEDERAL. ALEGAÇÃO NÃO CONHECIDA. TESE DE REDUÇÃO DOS HONORÁRIOS DE SUCUMBÊNCIA. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO VIOLADO. SÚMULA 284/STF. RESPONSABILIDADE CIVIL. INSTITUIÇÃO FINANCEIRA. AUSÊNCIA DE FALHA NA PRESTAÇÃO DE SERVIÇOS. CULPA EXCLUSIVA DA VÍTIMA E DE TERCEIRO. REVISÃO DE FATOS E PROVAS. INVIABILIDADE. SÚMULA 7/STJ. RECURSO ESPECIAL DESPROVIDO.
+1. A
+interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a", da CF/88.
+2. A ausência de indicação do dispositivo de lei federal supostamente violado e a impossibilidade de compreensão da controvérsia impedem a abertura da instância especial, nos termos da Súmula 284 do Supremo Tribunal Federal, aplicável, por analogia, neste Tribunal.
+3. O Superior Tribunal de Justiça perfilha o entendimento de que se faz necessária a comprovação da existência de nexo de causalidade entre as atividades desempenhadas pela instituição financeira e o dano experimentado pela parte consumidora, excluindo-se a responsabilidade do banco em caso de fato exclusivo da vítima ou de terceiro, situação de força maior ou caso fortuito externo. Precedentes.
+4. No caso dos autos, o Tribunal de origem concluiu que as transações bancárias questionadas foram realizadas pelo próprio autor (recorrente), o qual agiu de forma imprudente ao seguir instruções de terceiros desconhecidos.
+Além disso, após análise detalhada das provas, a Corte estadual enfatizou que não houve demonstração do nexo causal entre a conduta do banco e os prejuízos decorrentes de fraude praticada por terceiro, reconhecendo a culpa exclusiva do consumidor, de modo a afastar a responsabilização da instituição financeira.
+5. A modificação do entendimento quanto à culpa exclusiva da vítima e de terceiro pelas transações bancárias demandaria o revolvimento do conjunto fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+6.
+Recurso especial desprovido.
+(REsp n. 2.222.191/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 13/10/2025, DJEN de 20/10/2025.)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos à parte recorrida de 10% sobre o valor da causa para 11% do respectivo valor, ressalvada eventual concessão de justiça gratuita.
+Publique-se.
+EMENTA
