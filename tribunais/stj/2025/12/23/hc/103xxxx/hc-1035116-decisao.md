@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de habeas corpus impetrado, em causa própria, por DANIEL VINICIUS CANONICO, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO (Agravo de Execução Penal nº 1010518-46.2024.4.01.4100).
+Narra a defesa que o paciente teve negada a possibilidade de matrícula em 2 cursos distintos simultaneamente. Em sede de agravo em execução, logrou a possibilidade de matrícula simultânea, mas com a vedação de remição que ultrapasse 12 horas de estudo a cada 3 dias.
+O impetrante requer a reforma do acórdão recorrido para que se possibilite a remição de todas as horas estudadas pelo paciente.
+As informações foram prestadas às fls. 91-98, fls. 99-104 e fls. 105-110.
+O Ministério Público Federal manifestou-se, às fls. 114-117, em parecer assim ementado:
+Habeas Corpus. Execução penal. Remição pelo estudo.
+- Embora a literalidade do artigo 126, §1º, I, da Lei de Execução Penal estabeleça a remição de 1 dia de pena a cada 12 horas, divididas no mínimo, em 3 dias, ou seja, sendo de 4 horas a jornada máxima de estudo por dia, o Superior Tribunal de Justiça há tempo firmou o entendimento de que, admitindo-se horas extras na remição pelo trabalho, não seria igualitário negá-las na remição por meio de estudos.
+Parecer pela concessão da ordem, a fim de que seja permitido o cômputo das horas de estudo que excederem o limite de 4 horas diárias, para fins do cálculo da remição.
+É o relatório. DECIDO.
+A presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida. A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Passo a analisar a presença de coação ilegal que desafie a concessão da ordem de ofício, em observância ao § 2º do artigo 654 do Código de Processo Penal.
+Como visto acima, a defesa pretende, em síntese, que seja permitida a possibilidade de remição de pena pelo estudo das horas que excederam a quantidade de 12 em 3 dias.
+Da análise dos elementos informativos constantes dos autos, verifica-se flagrante ilegalidade a legitimar a atuação desta Corte.
+O acórdão impugnado deu provimento ao agravo em execução da defesa para possibilitar a matrícula simultânea em dois cursos ao apenado, mas com a vedação de remição que ultrapasse 12 horas de estudo a cada 3 dias. Confira-se (fls. 72-73):
+A decisão recorrida indeferiu a pretensão na compreensão de que, ainda que recorrente participe de dois cursos profissionalizantes simultaneamente, ele não poderia fazer a remissão de dias de prisão por tempo que excedesse às 12 horas participação divididas em 3 dias previstas no art. 126, § 1º, inciso I, da LEP, que tem a seguinte redação:
+Art. 126. O condenado que cumpre a pena em regime fechado ou semiaberto poderá remir, por trabalho ou por estudo, parte do tempo de execução da pena. (Redação dada pela Lei nº 12.433, de 2011).
+§ 1o A contagem de tempo referida no caput será feita à razão de:
+I - 1 (um) dia de pena a cada 12 (doze) horas de frequência escolar - atividade de ensino fundamental, médio, inclusive profissionalizante, ou superior, ou ainda de requalificação profissional - divididas, no mínimo, em 3 (três) dias;
+É dizer, a lei somente autoriza a remissão de um dia de pena para cada 12 horas que tenham sido cursadas, desde que dentro do espaço mínimo de três. Portanto, qualquer quantitativo de horas que exceder essas 12 horas, não poderá ser utilizado pelo detento para aumentar a contagem de dias de pena a serem remidos.
+Fixada essa premissa e não obstante o que dela se conclui, não há previsão legal que desautorize a participação de detentos em mais de um curso de especialização, não sendo suficiente a tanto a alegação de impossibilidade de utilização do tempo que exceder às 12 horas previstas no art. 126 da LEP, se esta alegação não vem como justificativa para pedido.
+A Administração do presídio alude ao fato de a participação do detento em dois cursos não lhe ser benéfica, pois representaria dispersão da sua atenção entre as duas instruções com um menor aproveitamento de conteúdo para ambas, considerando que a pretensão estaria conduzida apenas pela vontade de aceleração do seu aprendizado, mas sem proveito sobre o cumprimento da sua pena.
+Conquanto a preocupação se revele bem intencionada, não esta na órbita da atuação administrativa do presídio decidir sobre essa conveniência de natureza pessoal, se dela não se pretende ter como conseqüência o aumento da remissão da pena, para além das 12 horas previstas em lei.
+Tal o contexto, dou provimento ao agravo em execução penal, para autorizar que o detento, na existência de cursos oferecidos pela unidade prisional, cursar mais de um deles de forma simultânea, ficando vedado a utilização do tempo de instrução que exceder às 12 horas de curso no prazo de 3 dias para a remissão da pena, em respeito à baliza temporal do art. 126 da LEP.
+De fato, o art. 126, § 1º, I, da Lei de Execução Penal prevê a remição de 1 dia de pena a cada 12 horas de estudo, distribuídas, no mínimo, em 3 dias, o que implica jornada diária máxima de 4 horas.
+Ocorre que, tendo a norma do art. 126 da LEP o objetivo de ressocialização do condenado, esta Corte Superior firmou o entendimento no sentido de que é possível a remição das horas excedentes de estudo, não se limitando a jornada de estudo em 4 horas por dia. Nesse sentido:
+ ..
+1. O art. 126 da Lei de Execução Penal determina que o condenado que cumpre a pena em regime fechado ou semiaberto poderá remir, por trabalho ou por estudo, parte do tempo de execução da pena.
+2. O entendimento atual de ambas as Turmas que compõe a Terceira Seção se orienta no sentido da flexibilização do art. 126 da LEP, para se reconhecer a remição pela leitura, pelo estudo por conta própria e realização de artesanato, não sendo, pois, razoável que também não se reconheça a remição da pena pelo labor interno, devidamente atestado pelo estabelecimento prisional, até mesmo "como forma de possibilitar aos apenados encarcerados em unidades sem outras atividades laborais receberem o benefício, desde que devidamente reconhecida pelo estabelecimento prisional" (AgRg no REsp 1.935.335/RS, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe 8/6/2021) 3. Não se mostra plausível admitir-se horas extras na remição pelo trabalho e, negá-las quando a remição é feita por meio do estudo.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 692.779/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 8/2/2022, DJe de 14/2/2022.)
+ ..
+1. Não se desconhece o entendimento desta Corte Superior no sentido de que a interpretação extensiva de que a jornada máxima de estudo fixada em 4 horas por dia decorre da especificada determinada pela literalidade normativa.
+2. Ocorre que, tendo a norma do art. 126 da LEP o objetivo de ressocialização do condenado, deve-se observar o recente entendimento da decisão proferida no âmbito da Sexta Turma desta Corte Superior, no julgamento do HC 461.047/SP, Rel. Ministra LAURITA VAZ, DJe 14/08/2020, no sentido de ser possível a remição das horas excedentes de estudo, não se limitando a jornada de estudo em 4 horas por dia.
+3. Não se mostra razoável admitir-se horas extras na remição pelo trabalho e, por outro lado, negá-las quando a remição é feita por meio do estudo.
+4. Agravo regimental não provido.
+(AgRg no AREsp n. 1.720.688/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 6/10/2020, DJe de 13/10/2020.)
+Dessa forma, estando o acórdão prolatado pelo Tribunal a quo em desconformidade com o entendimento desta Corte de Justiça quanto ao tema, incide, no caso o enunciado da Súmula 568/STJ, in verbis: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+Ante o exposto, não conheço do habeas corpus. No entanto, concedo habeas corpus de ofício para determinar que no cálculo da remição da pena pelo estudo seja feito considerado as horas que excederam as 4 horas diárias, nos termos da presente decisão.
+Intime-se, com urgência, a origem para cumprimento.
+Publique-se. Intimem-se.
+ EMENTA
