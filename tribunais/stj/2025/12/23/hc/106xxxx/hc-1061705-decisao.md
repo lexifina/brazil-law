@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habe as corpus impetrado em nome de SILVANIA MENESES LOUREDO DA SILVA, condenada por associação para o tráfico (art. 35 da Lei n. 11.343/2006) à pena de 5 anos, 9 meses e 20 dias, em regime inicial fechado (Processo n. 0017486-57.2011.8.26.0278, da 2ª Vara Criminal da comarca de Itaquaquecetuba/SP).
+O impetrante aponta como autoridade coatora o Desembargador do Tribunal de Justiça do Estado de São Paulo, que, em 15/12/2025, indeferiu o pedido liminar formulado no HC n. 2395199-68.2025.8.26.0000.
+Alega, em síntese, a necessidade de afastamento da Súmula 691/STF, por suposta flagrante ilegalidade e abuso de poder, admitindo-se a concessão da ordem de ofício.
+Sustenta nulidade da sentença por falta de fundamentação e desobediência ao sistema trifásico, com elevação da pena-base acima do mínimo legal sem apoio concreto nas circunstâncias judiciais (arts. 59 e 68 do Código Penal), bem como fixação de regime inicial fechado com base na gravidade abstrata do delito.
+Afirma ilegalidade da decretação da prisão preventiva de ofício, apesar de a paciente ter respondido solta por mais de 14 anos, sem requerimento da autoridade policial ou do Ministério Público.
+Em caráter liminar, pede a decretação da nulidade da sentença condenatória com expedição de contramandado de prisão; alternativamente, a observância estrita do sistema trifásico, com pena no mínimo legal e reconhecimento do direito de aguardar os recursos em liberdade; no mérito, requer a concessão integral do writ.
+É o relatório.
+Na espécie, aplica-se o enunciado da Súmula 691/STF, observado também por esta Corte, segundo o qual não cabe habeas corpus contra o indeferimento de pedido liminar formulado no Tribunal a quo.
+Com efeito, as questões trazidas na impetração não foram ainda enfrentadas pelo colegiado competente, não se admitindo a pretendida supressão de instância.
+Esse posicionamento pode ser afastado apenas em situações excepcionais, se evidenciada nos autos a configuração de flagrante ilegalidade ou abuso de poder, o que não ocorreu no caso em tela, diante das particularidades mencionadas no decisum impugnado.
+No ato coator, o Relator consignou que não se vislumbra mácula flagrante à liberdade, registrou a ausência de cópias integrais do feito e de peças essenciais (como por exemplo os memoriais do parquet e a manifestação do Ministério Público quando da audiência de instrução para certificar a ausência de pedido expresso da prisão), afastou, em juízo perfunctório, a alegada falta de fundamentação e a violação do sistema trifásico, e manteve a preventiva para garantia da ordem pública, destacando a pertinência de posterior ratificação pelo Ministério Público e a idoneidade da custódia cautelar, à luz da quantidade e natureza das drogas apreendidas.
+Ademais, para entender que ficou comprovada nos autos a ausência de pedido de prisão ou de saneamento posterior por parte da acusação, como pretende a defesa e em sentido oposto ao que concluiu o Tribunal a quo, seria imprescindível o reexame fático-probatório dos autos, circunstância incabível na via estreita do mandamus.
+Ante o exposto, com base no art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO. APLICAÇÃO DA SÚMULA 691. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. FUNDAMENTAÇÃO DA SENTENÇA E SISTEMA TRIFÁSICO AFASTADOS EM JUÍZO PERFUNCTÓRIO. PRISÃO PREVENTIVA PARA GARANTIA DA ORDEM PÚBLICA. INSTRUÇÃO DEFICIENTE NA ORIGEM. REVER DECISÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO.
+Habeas corpus indeferido liminarmente.
