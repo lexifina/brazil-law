@@ -1,0 +1,74 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por COMPANHIA USINA SÃO JOÃO, EDUARDO RIBEIRO COUTINHO e GILBERTO RIBEIRO COUTINHO contra a decisão que inadmitiu o recurso especial por incidência da Súmula n. 83 do STJ, por afastamento da alegação de violação do art. 489, § 1º, e do art. 1.022, II, do Código de Processo Civil, e por alinhamento do acórdão recorrido à jurisprudência do Superior Tribunal de Justiça.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Postula a concessão de efeito suspensivo ao agravo.
+O recurso especial foi interposto, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado da Paraíba em agravo de instrumento nos autos de execução de título extrajudicial.
+O julgado foi assim ementado (fl. 203):
+AGRAVO DE INSTRUMENTO. PRELIMINAR DE IRREGULARIDADE NA REPRESENTAÇÃO. REJEIÇÃO. PREJUDICIAL DA PRESCRIÇÃO NÃO ACOLHIDA. EXECUÇÃO DE TÍTULO. CÉDULA DE CRÉDITO BANCÁRIO. CERTEZA, LIQUIDEZ E EXIGIBILIDADE RECONHECIDAS. HIGIDEZ DA PLANILHA. VALOR CERTO. POSSIBILIDADE DE DEFESA. ENCARGOS DE INADIMPLÊNCIA. ILEGALIDADE NÃO DEMONSTRADA. HONORÁRIOS ADVOCATÍCIOS AFASTADOS. PROVIMENTO PARCIAL DO RECURSO. "  A Cédula de Crédito Bancário é título executivo extrajudicial, representativo de operações de crédito de qualquer natureza, circunstância que autoriza sua emissão para documentar a abertura de crédito em conta-corrente, nas modalidades de crédito rotativo ou cheque especial. O título de crédito deve vir acompanhado de claro demonstrativo acerca dos valores utilizados pelo cliente, trazendo o diploma legal, de maneira taxativa, a relação de exigências que o credor deverá cumprir, de modo a conferir liquidez e exequibilidade à Cédula (art. 28, § 2º, incisos I e II, da Lei n. 10.931/2004)" (REsp 1.291.575/PR, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 14/08/2013, DJe de 02/09/2013)
+"A execução proposta pelo embargado encontra-se revestida dos requisitos exigidos, verificando-se planilha de demonstração do débito, observando-se com a clareza necessária a descrição minuciosa da natureza da prestação, das condições gerais e dos direitos e obrigações de ambas as partes, o valor emprestado, taxa de juros, quantidade de parcelas e valor corrigido, e, ainda, as datas de vencimento das parcelas. (0801281-43.2017.8.15.0171, Rel. Des. Oswaldo Trigueiro do Valle Filho, APELAÇÃO CÍVEL, 4ª Câmara Cível, juntado em 05/08/2021)
+VISTOS, relatados e discutidos estes autos, acima identificados:
+ACORDA a Primeira Câmara Especializada Cível do Tribunal de Justiça da Paraíba, em sessão ordinária virtual realizada, por unanimidade, DAR PROVIMENTO PARCIAL AO RECURSO.
+Os embargos de declaração opostos foram decididos nestes termos (fl. 281):
+EMBARGOS DE DECLARAÇÃO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE NA EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. ALEGADA OMISSÃO. INOCORRÊNCIA. QUESTÕES ANALISADAS NO RECURSO. REJEIÇÃO DOS EMBARGOS.
+Os Embargos de Declaração são cabíveis contra decisão judicial que estiver eivada de omissão, contradição, obscuridade ou erro material, admitindo-se, excepcionalmente, a modificação do julgado, conforme dispõe o art. 1.022 do Código de Processo Civil.
+A pretensão de rediscutir os fundamentos da decisão atacada não se coaduna com a estreita via dos declaratórios.
+VISTOS, relatados e discutidos estes autos, acima identificados:
+ACORDA a Primeira Câmara Especializada Cível do Tribunal de Justiça da Paraíba, em sessão ordinária virtual realizada, por unanimidade, REJEITAR OS EMBARGOS DE DECLARAÇÃO.
+No recurso especial, a parte aponta violação dos seguintes artigos:
+a) 489, § 1º, IV e VI, do Código de Processo Civil, porque o acórdão rejeitou embargos de declaração sem enfrentar pontos essenciais, notadamente a ausência de especificação do cálculo do valor exequendo e a necessidade de extratos do débito para conferir liquidez ao título;
+b) 1.022, II, do Código de Processo Civil, já que o Tribunal deixou de sanar omissões relativas à validade e liquidez do título e à prescrição intercorrente, apesar de provocação específica nos embargos de declaração;
+c) 1.022, caput e parágrafo único, II, do Código de Processo Civil, pois a decisão embargada persistiu sem suprir vícios de omissão quanto a argumentos e precedentes apontados, inclusive sobre a exigência de demonstração exata do débito;
+d) 489, § 1º, I a IV, do Código de Processo Civil, porquanto faltou fundamentação analítica, com ausência de enfrentamento de teses capazes de infirmar a conclusão adotada, inclusive sobre a inexigibilidade do título na forma questionada;
+e) 206, § 5º, I, da Lei n. 10.406/2002, visto que foi sustentada a prescrição da pretensão executiva em cinco anos, com referência ao marco temporal e à ausência de causa interruptiva; e
+f) 924, V, do Código de Processo Civil, uma vez que foi suscitada a extinção da execução por prescrição intercorrente diante de desídia processual na promoção de atos úteis, inclusive citação.
+Requer o provimento do recurso para que se anule o acórdão recorrido e se determine o retorno dos autos ao Tribunal de origem, a fim de que sejam apreciadas, de forma expressa, as matérias suscitadas nos embargos de declaração; requer ainda o provimento do recurso para que se reconheça a gratuidade judiciária.
+Contrarrazões às fls. 304-325.
+É o relatório. Decido.
+A controvérsia diz respeito a agravo de instrumento interposto contra decisão que rejeitou a exceção de pré-executividade na ação de execução de título extrajudicial, mantendo-se a higidez do título e o prosseguimento da execução, com afastamento de honorários advocatícios na via incidental.
+Na decisão interlocutória, houve rejeição do incidente e fixação de honorários em 10%. A Corte de origem deu provimento parcial ao agravo de instrumento para afastar os honorários advocatícios, mantendo, no mais, a rejeição da exceção e o prosseguimento da execução.
+Os embargos de declaração foram rejeitados, sob fundamento de ausência de omissão, com enfrentamento da prescrição e da liquidez da cédula de crédito bancário.
+I - Arts. 489, § 1º, e 1.022, II, do CPC
+No recurso especial, a parte recorrente alega que o acórdão não teria enfrentado a liquidez do título e a prescrição intercorrente, além de não especificar os cálculos do valor exequendo, configurando falta de fundamentação; aduz, ainda, que os embargos apontaram omissões sobre a validade executiva da cédula e a prescrição, mas foram rejeitados sem sanar os vícios.
+O acórdão dos embargos concluiu que as questões foram analisadas no agravo, destacando: rejeição da prescrição por demora atribuída à máquina judiciária e liquidez da cédula com demonstrativo de cálculos nos termos do art. 28 da Lei n. 10.931/2004. Após reproduzir os fundamentos do agravo, assentou a inviabilidade de rediscussão na via estreita dos aclaratórios (fls. 277-278).
+Confira-se trecho do acórdão (fls. 279-280):
+Apesar da alegação dos recorrentes, no sentido de que teria ocorrido a prescrição intercorrente, vê-se que o argumento não merece guarida. Com efeito, embora a ação tenha sido proposta em 19/08/2014, observo que a demora para a citação dos executados se deu, exclusivamente, por culpa da máquina judiciária que, por inúmeras vezes, equivocou-se quanto à confecção do mandado de citação e penhora, não havendo como imputar-se ao recorrido o ônus com a demora.
+ ..
+No mérito. Inicialmente, destaco que a cédula de crédito bancário, veio acompanhada do demonstrativo de cálculos do débito atualizado (Id 656530) por ocasião da propositura da ação, o que lhe confere a certeza, liquidez e exigibilidade. Além do mais, nos termos do art. 28 da Lei nº. 10.931/2004, a cédula de crédito bancária é título executivo extrajudicial, presumidamente líquida e exigível, bastando que nela conste a soma do valor devido, que haja saldo devedor demonstrado em planilha de cálculo ou em extratos de conta-corrente:
+ ..
+De ressaltar que o STJ, em sede de recurso repetitivo decidiu pela liquidez deste tipo de cédula bancária.
+Afasta-se, dessa maneira, a alegada ofensa aos arts. 489, § 1º, e 1.022, II, do CPC, visto que a Corte de origem examinou e decidiu, de modo claro, objetivo e fundamentado, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+Assim, "não se reconhecem a omissão e negativa de prestação jurisdicional quando há o exame, de forma fundamentada, de todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte" (AgInt no AREsp n. 2.037.830/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 26/6/2023, DJe de 28/6/2023).
+II - Arts. 206, § 5º, I, do CC e 924, V, do CPC
+A recorrente afirma prescrição quinquenal e intercorrente, sustentando transcurso de cinco anos desde o despacho citatório sem causa interruptiva, com desídia da exequente.
+O acórdão recorrido rejeitou a prejudicial, afirmando que a demora na citação se deu exclusivamente por falha da máquina judiciária, não imputável ao exequente (fls. 201 e 279).
+Rever tal conclusão demandaria reexame de fatos e do andamento processual, o que é incabível em recurso especial ante o óbice da Súmula n. 7 do STJ.
+Nesse sentido:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. PRESCRIÇÃO QUINQUENAL RECONHECIDA PELO TRIBUNAL DE ORIGEM. ALEGAÇÃO DE VIOLAÇÃO DO ART. 240, CAPUT E § 3º, DO CPC. DEMORA NA CITAÇÃO NÃO ATRIBUÍDA EXCLUSIVAMENTE AO JUDICIÁRIO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA À APLICAÇÃO DO ÓBICE SUMULAR. REPETIÇÃO DE ARGUMENTOS. AGRAVO INTERNO NÃO PROVIDO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão do Ministro Presidente do Superior Tribunal de Justiça que conheceu do agravo em recurso especial para não conhecer do recurso especial, com fundamento na Súmula 7/STJ.
+2. A parte agravante sustenta que o recurso especial preenche os requisitos necessários ao seu conhecimento e provimento, alegando que não há necessidade de reexame de provas, mas apenas de revaloração dos fatos já descritos no acórdão do Tribunal de origem.
+II. Questão em discussão
+3. A questão em discussão consiste em definir se a reforma do acórdão recorrido, para afastar a prescrição, demanda o reexame do acervo fático-probatório dos autos, atraindo a Súmula 7/STJ, e se o Agravo Interno apresentou argumentos aptos a desconstituir tal óbice.
+III. Razões de decidir
+4. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que o reexame de fatos e provas é vedado em recurso especial, conforme a Súmula 7/STJ. A parte agravante não demonstrou, de forma objetiva, que a análise do caso demandaria apenas revaloração jurídica, e não reexame do contexto fático-probatório.
+5. A pretensão recursal de afastar a prescrição e a conclusão da Corte a quo de que a demora não se deveu exclusivamente ao mecanismo da Justiça implica necessariamente o reexame do contexto fático-probatório dos autos, providência vedada em Recurso Especial, conforme a Súmula 7/STJ.
+6. O princípio da dialeticidade exige que o agravante impugne especificamente os fundamentos da decisão agravada. A ausência de impugnação específica ou de fundamentação robusta e suficiente para desconstituir os argumentos da decisão recorrida justifica a manutenção do decidido.
+7. A decisão agravada está em consonância com precedentes do STJ, que reiteram a inaplicabilidade do recurso especial para revisão de quadro fático-probatório e a necessidade de impugnação específica dos fundamentos da decisão recorrida.
+IV. Dispositivo
+8. Agravo interno não provido. (AgInt no AREsp n. 2.970.361/MT, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 24/11/2025, DJEN de 27/11/2025.)
+III - Art. 28, caput e § 2º, I e II, da Lei n. 10.931/2004
+Alega a recorrente que a cédula não seria líquida sem todos os extratos do débito, e que a planilha unilateral não demonstraria exatidão, descumprindo os requisitos do § 2º.
+O Tribunal de origem afirmou que a cédula veio acompanhada de demonstrativo de cálculos e que, nos termos do art. 28, a liquidez se satisfaz com planilha de cálculo ou extratos, reconhecendo a higidez do demonstrativo e a liquidez do título, inclusive citando precedente repetitivo (fls. 201-202 e 278).
+Como visto, o Tribunal a quo analisou a controvérsia fundamentando-se em elementos do demonstrativo e na regularidade formal do título, aplicando o entendimento do STJ na espécie. Incide no caso, assim, o óbice da Súmula n. 83.
+Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E NEGAR-LHE PROVIMENTO. INSURGÊNCIA RECURSAL DA PARTE EMBARGANTE.
+1. As questões postas em discussão foram dirimidas pelo Tribunal de origem de forma suficiente, fundamentada e sem omissões, devendo ser afastada a alegada violação aos artigos 489 e 1022 do CPC.
+2. O acórdão recorrido decidiu em consonância com a jurisprudência desta Corte, fixada em recurso representativo de controvérsia: "a Cédula de Crédito Bancário é título executivo extrajudicial, representativo de operações de crédito de qualquer natureza, circunstância que autoriza sua emissão para documentar a abertura de crédito em conta corrente, nas modalidades de crédito rotativo ou cheque especial. O título de crédito deve vir acompanhado de claro demonstrativo acerca dos valores utilizados pelo cliente, trazendo o diploma legal, de maneira taxativa, a relação de exigên cias que o credor deverá cumprir, de modo a conferir liquidez e exequibilidade à Cédula (art. 28, § 2º, incisos I e II, da Lei n. 10.931/2004)" (REsp 1291575/PR, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 14/08/2013, DJe 02/09/2013). Incidência da Súmula 83/STJ.
+3. Agravo interno desprovido. (AgInt nos EDcl no AREsp n. 2.835.605/SC, relator Ministro Marco Buzzi, Quarta Turma, julgado em 3/11/2025, DJEN de 10/11/2025.)
+Sem prejuízo, é preciso destacar que rever tal entendimento demandaria o reexame de provas, o que é incabível em recurso especial ante o óbice da Súmula n. 7 do STJ.
+IV - Conclusão
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e negar-lhe provimento.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do Código de Processo Civil, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
+EMENTA
