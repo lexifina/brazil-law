@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto por Walter Knychala contra decisão que não admitiu o recurso especial manejado, com base na alínea "a" do inciso III do art. 105 da Constituição Federal, em face de acórdão proferido pelo Tribunal de Justiça do Estado de Goiás (TJGO) assim ementado (fl. 64):
+AGRAVO INTERNO NO AGRAVO DE INSTRUMENTO. CUMPRIMENTO PROVISÓRIO DE SENTENÇA. AUTOS APARTADOS. RECOLHIMENTO DE CUSTAS INICIAIS. DECISÃO MANTIDA. 1. Abordadas as teses levantadas, estão estampadas clara e coerentemente todas as razões fáticas e jurídicas, motivo pelo qual não prospera a alegação de fundamentação deficiente na decisão monocrática. 2. O rito do cumprimento provisório é o mesmo do definitivo, porém deve correr em eletrônicos apartados. Assim, são devidas as custas processuais, por não se tratar de mera fase processual, e havendo formação de nova autuação (arts. 520, caput, e 522, do CPC). 3. Ausentes argumentos novos capazes de derruir os fundamentos que alicerçam a decisão de gabinete, mostra-se imperativa sua manutenção. 4. Prequestionamento necessário ao ingresso nas instâncias superiores não exige menção expressa a todos os artigos indicados pelos litigantes. RECURSO CONHECIDO E DES PROVIDO.
+Nas razões do recurso especial, o recorrente alega que o acórdão recorrido violou os arts. 10, 520 e 522, parágrafo único, do Código de Processo Civil .
+Sustenta afronta ao art. 522 e ao seu parágrafo único do CPC, afirmando inexistir obrigatoriedade de autuação do cumprimento provisório em autos apartados quando os autos principais são eletrônicos, por se tratar de fase do processo originário, de modo que a exigência de autos suplementares apenas acarretaria custas desnecessárias.
+Aduz que, sendo eletrônicos os autos e já devolvidos ao juízo de origem, não há tumulto processual nem impedimento material para o cumprimento provisório nos próprios autos principais, em contrariedade à interpretação adotada no acórdão (art. 522, parágrafo único, do CPC).
+Além disso, afirma que a posição do acórdão estadual contraria doutrina e julgados de outros tribunais, e que a imposição de autos apartados e recolhimento de custas viola proporcionalidade, razoabilidade, legalidade, eficiência e fins sociais protegidos pelo art. 10 do CPC.
+Por fim, indica que o rito do cumprimento provisório é o mesmo do definitivo (art. 520, caput, do CPC), o que reforçaria a desnecessidade de autos apartados no caso concreto.
+Aponta, ainda, divergência jurisprudencial em torno da necessidade de processamento do cumprimento provisório em autos apartados e da cobrança de custas em processos eletrônicos, indicando julgados que admitiriam o cumprimento nos próprios autos em hipóteses análogas.
+O Espólio de Edwar Mendonça apresentou contrarrazões (fls. 98-115).
+A não admissão do recurso na origem ensejou a interposição do presente agravo.
+Impugnação juntada às fls. 145-158.
+Assim delimitada a controvérsia, passo à análise do recurso.
+No que tange aos artigos ditos violados, o Tribunal de origem assim decidiu (fls. 66-67):
+É que, conforme ponderado no decisum unipessoal outrora exarado, é firme o entendimento no âmbito desta Corte Recursal, de modo que consolidou-se a jurisprudência quanto a que cumprimento provisório de sentença deve obedecer a formação de autos apartados. Desse modo, os pedidos neles constantes deverão ser analisados pelo juízo competente, enquanto os autos principais estão na tramitação dos recursos pendentes.
+Isto porque, caso contrário, inócuo seria o procedimento, pois enquanto o processo principal, mesmo que eletrônico, está em trâmite perante a casa recursal, o juízo singular não teria acesso para promover os atos processuais necessários ao desenvolvimento do cumprimento provisório.
+Da mesma forma, a decisão ora recorrida pontuou que:
+"( ) Sendo assim, é forçoso concluir que é vedado o cumprimento provisório de sentença nos autos principais, vez que constitui medida importante para evitar tumulto processual e qualquer obstaculização à ação de conhecimento, ainda sujeita à modificação.(..)" Sobre o tema, o artigo 522, do CPC:
+"Art. 522. O cumprimento provisório da sentença será requerido por petição dirigida ao juízo competente. Parágrafo único. Não sendo eletrônicos os autos, a petição será acompanhada de cópias das seguintes peças do processo, cuja autenticidade poderá ser certificada pelo próprio advogado, sob sua responsabilidade pessoal:"
+Na hipótese dos autos, a revisão das conclusões proferidas pelo Colegiado estadual demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula 7/ STJ.
+Tratando-se de cumprimento provisório de sentença, a formação de autos apartados é decorrência lógica, já que o processo principal encontra-se na instância superior para julgamento de recurso pendente.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
+EMENTA
