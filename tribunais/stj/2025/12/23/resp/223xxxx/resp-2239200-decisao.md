@@ -1,0 +1,44 @@
+DECISÃO
+Em análise, recurso especial interposto por MUNICÍPIO DE JOÃO PESSOA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA.
+A ação de execução fiscal proposta em 2005 - relativa às parcelas de ISS em atraso 2003/11, 2004/01, 2004/02, 2004/03, 2004/04, 2004/05, 2004/06, 2004/07, 2004/09, 2004/10 - recebeu determinação de citação em janeiro de 2006 (fl.5). Frustrada em julho de 2006 (fl.10) e determinada a citação por carta em maio de 2008 (fls. 17-18). Foi deferido o pedido de penhora online (fl. 28) em junho de 2009. O processo foi suspenso em 2011 (fl. 30). Em 7/11/2011, determinou-se a intimação da municipalidade para indicar bens à penhora, sob pena de suspensão, por 1 (um) ano nos termos do art. 40 da LEF (fl. 33). Declarada a suspensão em 6 de março de 2012 (fl. 38). A sentença (fls. 40-42) em 31/1/2019 declarou a prescrição intercorrente.
+O acórdão foi assim ementado (fls. 118-125):
+AGRAVO INTERNO - DECISÃO QUE NEGA PROVIMENTO À APELAÇÃO - CONSONÂNCIA COM JURISPRUDÊNCIA E SÚMULA DESTA CORTE - POSSIBILIDADE - INTELIGÊNCIA DO ART. 932, IV, A DO CPC - AÇÃO DE EXECUÇÃO FISCAL - PRESCRIÇÃO INTERCORRENTE DECRETADA APÓS A OITIVA DA FAZENDA PÚBLICA ESTADUAL - BENS NÃO LOCALIZADOS - ART. 40 DA LEF - SUSPENSÃO DO FEITO PELO PRAZO DE UM ANO - ARQUIVAMENTO AUTOMÁTICO APÓS O PRAZO DE SUSPENSÃO - TRANSCURSO DE PRAZO POR MAIS DE CINCO ANOS - MARCO INICIAL DA CONTAGEM DA PRESCRIÇÃO INTERCORRENTE - DESPROVIMENTO DO AGRAVO INTERNO.
+"O termo a quo para a contagem da prescrição intercorrente inicia-se após findado o prazo de um ano de suspensão da execução, quando não encontrado o devedor ou localizados os seus bens.
+O enunciado da Súmula 314 do STJ assim dispõe:
+"Em execução fiscal, não localizados bens penhoráveis, suspende-se o processo por um ano, findo o qual se inicia o prazo da prescrição quinquenal intercorrente."
+Mantém-se a decisão monocrática que negou provimento à apelação por haver declarado que a sentença está em consonância com a jurisprudência dominante e súmula do Superior Tribunal de Justiça, nos termos do art. 932, IV, a do CPC.
+Os embargos de declaração foram rejeitados (fls. 140-145).
+Nas razões recursais, o Município de João Pessoa sustenta, em síntese, violação aos arts. 40, § 1º, da Lei 6830/1980, alegando:
+Dessa forma, não pode o processo ser extinto em razão de uma suposta prescrição já que o Exequente manteve-se diligente e ativo nos autos, assim como esse não se encontrava arquivado por mais de 05 anos, como prevê a súmula 314 do STJ:
+Súmula 314 do STJ: Em execução fiscal, não localizados bens penhoráveis, suspende-se o processo por um ano, findo o qual se inicia o prazo da prescrição quinquenal intercorrente.
+O instituto da prescrição intercorrente só ocorre quando há inércia de alguma das partes, e no caso em tela não houve nenhuma desídia por parte do Município de João Pessoa no traquejo do seu direito, inclusive o município diligenciou e continua diligenciando em busca de bens do devedor para saldar o débito.
+Logo, resta completamente demonstrada a inocorrência da prescrição intercorrente citada.
+Preleciona a Súmula 106 do STJ que "proposta a ação no prazo fixado para seu exercício, a demora na citação, por motivos inerentes ao mecanismo da Justiça, não justifica o acolhimento da arguição de prescrição ou decadência".
+E conforme artigo 40 da Lei de Execuções Fiscais:
+O Juiz suspenderá o curso da execução, enquanto não for localizado o devedor ou encontrados bens sobre os quais possa recair a penhora, e, nesses casos, não correrá o prazo de prescrição.
+É claro douto relator que se deve levar em contar a grande quantidade de processos que tramitam nas Varas de executivos fiscais, o que dificulta na análise de todas as movimentações, fato este inconteste.
+Verifica-se, portanto, que caberia apenas a suspensão da execução e não sua extinção.
+Outro ponto importante que se deve levar em consideração é a regra da vedação à decisão-surpresa que está consagrada no artigo 10 do Novo Código de Processo Civil brasileiro:
+Art. 10. O juiz não pode decidir, em grau algum de jurisdição, com base em fundamento a respeito do qual não se tenha dado às partes oportunidade de se manifestar, ainda que se trate de matéria sobre a qual deva decidir de ofi"cio.
+Atendendo aos reclamos da melhor doutrina, a regra insculpida no sobredito artigo impõe ao juiz que, ao vislumbrar a possibilidade de aplicação, na sentença, de fundamento jurídico não alvitrado por qualquer das partes no processo, conceda, antes da prolação da sentença, prazo para que os litigantes se manifestem sobre a matéria inovadora, não sendo possível, do contrário, empregar tal fundamento na motivação do decisum, sob pena de invalidade do ato.
+Está-se diante de regra que intenciona concretizar a nova dimensão dada ao princípio do contraditório no NCPC, decorrente da adoção do modelo cooperativo de processo, que tem por mote o recrudescimento do poder dos jurisdicionados na condução do feito e, por via de consequência, na resolução da lide.
+Essa nova dimensão do contraditório, já preconizada a longo tempo pela doutrina, e agora chancelada pelo texto legal, consiste no abandono de uma visão meramente formal dessa garantia - que se satisfaz com a oportunização da oitiva bilateral das partes e a cientificação dessas sobre os atos processuais - passando a enxergá-la pelo aspecto substancial, segundo o qual há direito subjetivo das partes a um efetivo poder de influência no julgamento da causa, vedando-se decisões cujos fundamentos não tenham sido postos em discussão no feito.
+Ademais, insiste-se no argumento de que a ausência de manifestação da Fazenda, no caso dos autos, deveria, no máximo, levar à suspensão da execução fiscal, e não a sua extinção, como ocorreu in casu.
+Há, inclusive, entendimento assentado pelo STJ em Recurso Repetitivo, nos casos em que não se encontra o devedor ou os bens do executado. Eis o teor da Ementa:
+(..) 4. Teses julgadas para efeito dos arts. 1.036 e seguintes do CPC/2015 (art. 543-C, do CPC/1973):
+4.1.) O prazo de 1 (um) ano de suspensão do processo e do respectivo prazo prescricional previsto no art. 40, §§ 1º e 2º da Lei n. 6.830/80 - LEF tem início automaticamente na data da ciência da Fazenda Pública a respeito da não localização do devedor ou da inexistência de bens penhoráveis no endereço fornecido, havendo, sem prejuízo dessa contagem automática, o dever de o magistrado declarar ter ocorrido a suspensão da execução;
+4.1.1.)  ..
+4.1.2.) Sem prejuízo do disposto no item 4.1., em se tratando de execução fiscal para cobrança de dívida ativa de natureza tributária (cujo despacho ordenador da citação tenha sido proferido na vigência da Lei Complementar n. 118/2005) e de qualquer dívida ativa de natureza não tributária, logo após a primeira tentativa frustrada de citação do devedor ou de localização de bens penhoráveis, o Juiz declarará suspensa a execução. (REsp 1340553 RS, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 12/09/2018, DJe 16/10/2018)
+Dessa forma, por tudo o que aqui foi dito, verifica-se a inaplicabilidade da ratio decidendi invocada pelo juízo para extinguir a presente execução fiscal, pois instituto da prescrição intercorrente só ocorre quan do há inércia de alguma das partes, e no caso em tela não houve nenhuma desídia por parte do Município de João Pessoa no traquejo do seu direito, razão pela qual a extinção decretada pelo juízo a quo merece ser revista.
+Não foram apresentadas contrarrazões ao recurso (fl. 155).
+O recurso aguardou adequação aos Temas 566 a 571, porém não houve retratação (fls. 170-177). Afirmou-se não haver colisão com o entendimento do STJ.
+O recurso especial foi admitido na origem (fls. 181-182).
+É o relatório.
+Passo a decidir.
+No caso dos autos, em 7/11/2011 determinou-se a intimação da municipalidade para indicar bens à penhora, sob pena de suspensão, por 1 (um) ano nos termos do art. 40 da LEF, a suspensão da execução se deu em 6 de março de 2012. Assim, a sentença (fls. 40-42) em 31/1/2019 declarou a prescrição intercorrente.
+A alteração da conclusão do Tribunal a quo acerca das infrutíferas diligências para localização de bens do devedor, impossibilitando o prosseguimento da execução ou mesmo do próprio reconhecimento da prescrição intercorrente, ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7 do STJ.
+Nesse sentido: "É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial"" (AgInt no AREsp n. 1.964.284/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+Isso posto, não conheço do recurso especial.
+Sem condenação em honorários advocatícios recursais em razão da ausência de fixação de honorários advocatícios sucumbenciais pela Corte de origem.
+Intimem-se.
+EMENTA
