@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por JONATAN RIBEIRO PICARELLI contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, que denegou a ordem lá impetrada.
+Consta dos autos que o recorrente foi preso preventivamente pela suposta prática do crime de embriaguez ao volante.
+Neste recurso, sustenta a defesa que não estão presentes os requisitos autorizadores para a decretação da prisão preventiva, ainda mais considerando os bons predicados pessoais do recorrente.
+Afirma que o princípio da proporcionalidade impõe que a custódia preventiva não pode ser mais gravosa do que a sanção aplicada em eventual condenação, pois mesmo que seja condenado, a pena máxima será de 3 anos de reclusão.
+Requer, assim, liminarmente e no mérito, a revogação da prisão preventiva ou, subsidiariamente, a imposição de medidas cautelares não prisionais.
+O pedido de liminar foi indeferido (fls. 70-72) e foram prestadas as informações (fls. 75-95 e 100-102).
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso, em parecer assim ementado (fl. 107):
+Recurso ordinário em habeas corpus. Crime de trân- sito. Preventiva. Periculum libertatis configurado pa- ra efeito da garantia da ordem pública, da aplicação da lei penal e por conveniência da instrução crimi- nal. Descumprimento de medidas cautelares diversas anteriormente impostas. Réu foragido. Fundamenta- ção idônea. Constrangimento ilegal não evidenciado. Parecer pelo não provimento do recurso ordinário.
+É o relatório.
+O recurso é tempestivo e deve ser conhecido. Passa-se, portanto, ao exame do mérito.
+A prisão preventiva justifica-se apenas quando devidamente demonstrada sua imprescindibilidade para a preservação da ordem pública, a garantia da regularidade da instrução criminal ou a asseguração da eficácia da aplicação da lei penal, nos termos do art. 312 do Código de Processo Penal.
+Depreende-se da decisão que decretou a prisão preventiva, a qual consta no acórdão recorrido, os seguintes fundamentados (fls. 39-40):
+ ..
+Analisando os elementos dos autos verifica-se que o pedido merece acolhida.
+Pois bem, como bem ressaltado pelo Ministério Público, foi concedida liberdade provisória ao acusado mediante o compromisso de comparecimento aos atos processuais a que for intimado e manutenção do endereço e telefone atualizados (processo 5006643-36.2022.8.21.0072/RS, evento 13, DESPADEC1).
+Ocorre que, o acusado não cumpriu os compromissos assumidos, porquanto mudou de endereço e não informou nos autos, bem como, não compareceu aos atos processuais quando chamado.
+Dessa forma, volta à tona a situação justificadora da decretação da prisão preventiva, em atenção ao disposto no art. 316 do CPP, motivo pelo qual passo a sua análise:
+Em conformidade com o ordenamento pátrio, a decretação de prisão preventiva somente é possível quando demonstrada a sua necessidade e adequação, uma vez preenchidos os requisitos legais dos artigos 312 e seguintes do CPP.
+O referido art. 312 do Código de Processo Penal prevê que a prisão preventiva poderá ser decretada quando houver provas da existência do fato e indícios suficientes da autoria, para garantia da ordem pública e econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal. Já o art. 313 elenca os crimes passíveis de prisão preventiva, dentre os quais os crimes punidos com reclusão.
+Os pressupostos para a decretação da preventiva, portanto, são a existência de prova da materialidade do crime e de indícios suficiente da sua autoria por parte do réu ou investigado.
+No caso dos autos, restando comprovada a materialidade do delito, conforme se verifica dos elementos de prova até então colhidos, bem como havendo indícios suficientes da autoria, a decretação da custódia provisória do acusado é necessária, a fim assegurar a manutenção da ordem pública, a conveniência da instrução penal e para assegurar a aplicação da lei penal.
+De outro canto, entendo que não é cabível a aplicação de qualquer outra medida cautelar, uma vez que, no caso em tela, estão presentes os pressupostos do art. 312 do CPP.
+Nessa linha, DECRETO A PRISÃO PREVENTIVA de JONATAN RIBEIRO PICARELLI, visando assegurar a manutenção da ordem pública, a conveniência da instrução penal e a aplicação da lei penal.
+Conforme já antecipado no exame da liminar, verifica-se a presença de fundamentos concretos para o desprovimento do recurso e manutenção da prisão cautelar, para assegurar a aplicação da lei penal, diante do descumprimento de medidas cautelares impostas, especialmente quando constatada a regular advertência sobre as consequências do descumprimento, aliado à não localização do recorrente.
+Com efeito, a jurisprudência desta Corte Superior considera que o descumprimento de medida cautelar imposta como condição para a liberdade provisória, evidencia a adequação da prisão preventiva para assegurar a aplicação da lei penal.
+Nesse mesmo sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. LESÃO CORPORAL PRATICADA EM ÂMBITO DOMÉSTICO. DESCMPRIMENTO DE MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. PRISÃO PREVENTIVA DECRETADA. DESCUMPRIMENTO DA DETERMINAÇÃO DE MANTER ATUALIZADO O ENDEREÇO. AGRAVANTE FORAGIDO. ALEGAÇÃO DE QUE O AGRAVANTE NÃO ESTARIA FORAGIDO DO DISTRITO DA CULPA. IMPOSSÍVEL DE ANÁLISE NA VIA ELEITA. TESE DE AUSÊNCIA DE CONTEMPORANEIDADE. INOCORRÊNCIA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS ALTERNATIVAS À PRISÃO. INAPLICABILIDADE AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO DESPROVIDO.
+ ..
+3. No particular, observo que as decisões que decretaram/mantiveram a prisão preventiva do paciente encontram-se amparadas no descumprimento da medida cautelar eis que este não teria sido localizado para ser citado nos termos da denúncia. Como se viu das transcrições, o paciente teve a prisão preventiva decretada porque, o recorrido, beneficiado com a liberdade provisória mediante imposição de outras medidas cautelares, dentre elas o "compromisso de comparecimento a todos os atos do processo e de manter atualizado seu endereço" (sic, f. 171 - doc. único) -, não cumpriu os termos do compromisso respectivo, não sendo, sequer, localizado para ser citado dos termos da denúncia. Segundo consta, o recorrido JAMERSON NONATO MARCIANO, mesmo ciente das medidas cautelares que lhe foram impostas, em clara desobediência à ordem judicial, descumpriu as determinações concernentes ao dever de manter seu endereço atualizado (e-STJ fl. 17).
+4. Ainda que assim não fosse, ao que tudo indica, o agravante está em lugar incerto e não sabido. Ora, ao acusado que comete delitos, o Estado deve propiciar meios para o processo alcançar um resultado útil. Assim, determinadas condutas, como a ausência do distrito da culpa, a fuga (mesmo após o fato) podem demonstrar o intento do agente de frustrar o direito do Estado de punir, justificando, assim, a custódia.
+ ..
+8. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 947.429/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 10/12/2024, DJEN de 17/12/2024.)
+Além disso, a evasão do distrito da culpa, comprovadamente demonstrada nos autos e reconhecida pelas instâncias ordinárias, constitui motivação suficiente a justificar a preservação da segregação cautelar para garantir a aplicação da lei penal. Confira-se: AgRg no RHC n. 117.337/CE, relator Ministro Jorge Mussi, Quinta Turma, julgado em 21/11/2019, DJe de 28/11/2019.
+No que concerne à desproporcionalidade da prisão em cotejo à futura pena a ser aplicada, é imperioso destacar que "trata-se de prognóstico que somente será confirmado após a conclusão do julgamento da ação penal, não sendo possível inferir, nesse momento processual e na estreita via ora adotada, o eventual regime prisional a ser fixado em caso de condenação (e consequente violação do princípio da homogeneidade)" (AgRg no HC n. 992.938/ES, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 3/6/2025, DJEN de 10/6/2025).
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se.
+Intimem-se
+EMENTA
