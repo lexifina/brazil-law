@@ -1,0 +1,18 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por SAMI ASSISTÊNCIA MÉDICA LTDA, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal.
+Ação: de inexistência de débito c/c obrigações de fazer, auxiliada por KATIA SILENE PINTO DE OLIVEIRA, em face de SAMI ASSISTÊNCIA MÉDICA LTDA., na qual requer a declaração de rescisão do contrato a partir do pedido e a inexigibilidade das mensalidades do período de aviso prévio.
+Sentença: julgou procedentes os pedidos, para: i) determinar a inexigibilidade do subsídio objeto dos automóveis; ii) confirmar a tutela de urgência anteriormente deferida.
+Acórdão: negou provimento ao recurso de apelação interposto pela SAMI ASSISTÊNCIA MÉDICA LTDA., nos termos da ementa seguinte:
+APELAÇÃO. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE EMPRESARIAL. Sentença que julgou procedente a pretensão inicial, para declarar inexigíveis as mensalidades cobradas após o pedido de rescisão contratual. Insurgência da requerida. Descabimento. Incidência das regras consumeristas. Exija que versa sobre plano de saúde "falso coletivo". Declaração de nulidade do artigo 17, parágrafo único, da Resolução Normativa da ANS nº 195/2009 em Ação Civil Pública (nº 0136265-83.2013.4.02.5101). Abusividade da cláusula de fidelidade e aviso prévio. Inteligência do artigo 23, da Resolução Normativa da ANS nº 557/2022 em cotejo com as regras consumeristas. Precedentes desta C. Câmara. Recurso desprovido. (e-STJ fl. 318)
+Decisão de admissibilidade do TJSP: inadmitiu o recurso especial em razão dos seguintes fundamentos:
+i) ausência de demonstração da ofensa aos arts. 46 do CDC, 1º da Lei 9961/2000, 1º §1º, da Lei 9656/98, 17 da RN 195/09 da ANS e 1º, §1º da RN 557/22; e
+ii) falta de demonstração da similitude fática entre os acórdãos confrontados.
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante defende a legalidade da exigência do aviso prévio para a rescisão unilateral do contrato de plano de saúde, a legalidade da cobrança de mensalidade, tendo em vista a prestação de serviço e reitera a alegação de dissídio jurisprudencial.
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade de nenhum dos óbices aplicados, uma vez que deixou transparecer que o recurso especial restou fundamentado quanto à demonstração das ofensas apontadas ou que a similitude fática entre os acórdão confrontados restou evidenciada.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, Terceira Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, Quarta Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em R$ 2.500,00 (dois mil e quinhentos reais) (e-STJ fl. 327) para R$ 3.500,00 (três mil e quinhentos reais)
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
