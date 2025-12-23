@@ -1,0 +1,32 @@
+DECISÃO
+LUAN DELFINO LEITE agrava de decisão que inadmitiu o recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 1502210-28.2023.8.26.0071.
+O agravante foi condenado a 7 anos de reclusão mais multa, no regime inicial aberto, pelo crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+Nas razões do recurso especial, a defesa alega violação dos arts. 386 do Código de Processo Penal; 28 da Lei de Drogas; e 22 do Código Penal.
+Requer a absolvição do réu ante a existência de coação moral irresistível ou a desclassificação da conduta para porte de drogas para consumo pessoal.
+O recurso foi inadmitido em juízo prévio de admissibilidade realizado pelo Tribunal local, o que motivou a interposição deste agravo.
+O Ministério Público Federal manifestou-se pelo não provimento do recurso.
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada, motivo pelo qual passo à análise do recurso especial.
+O Tribunal de origem manteve a condenação do réu pelos seguintes fundamentos (fls. 191-193, destaquei):
+A autoria também é certa, conforme demonstrado a seguir.
+Conforme constou da sentença (folha 141), foram ouvidos em juízo o agente de segurança penitenciário Marcelo Samuel da Silva e Gustavo Chan Escobar. Além disso, foi interrogado o réu Luan Delfino Leite.
+Os agentes de segurança penitenciários Marcelo Samuel da Silva e Gustavo Chan Escobar, em juízo (folha 141) afirmaram que: "naquela ocasião, o réu retornava do trabalho externo e foi submetido ao scanner corporal, o que permitiu contatar a presença de algo suspeito no interior de seu abdômen.
+Interpelado, ele admitiu que havia engolido invólucros de maconha. Então, ele foi encaminhado a uma das celas onde, nas presença das testemunhas, expeliu doze invólucros que continham aquela substância.".
+Não há motivo para que se receba com reservas as palavras dos agentes de segurança penitenciários, inclusive porque não se vislumbra nos autos nenhum indício de interesse por parte deles em incriminar um inocente.
+ ..
+O réu Luan Delfino Leite, em juízo (folha 141), admitiu a posse do entorpecente, esclarecendo que: "levaria a droga para o interior do presídio para, com isso, quitar uma dívida que havia contraído no ambiente carcerário.".
+Diante deste quadro, a condenação será mantida. A autoria restou bem demonstrada pelos depoimentos dos agentes de segurança penitenciários em Juízo (folha 141). Eles realizavam revista nos detentos que retornavam do trabalho externo, ocasião em que o réu foi submetido ao scanner corporal, quando constataram a presença de algo suspeito no interior do seu abdômen. Indagado, o acusado admitiu que havia engolido "maconha". Ele foi levado para uma das celas onde expeliu doze (12) invólucros de "maconha".
+Foram apreendidos 54,72 gramas de "maconha", dispostos em doze (12) invólucros (auto de exibição e apreensão de folha 07 e laudo do exame químico toxicológico definitivo de folhas 50/54).
+As palavras dos agentes de segurança penitenciários foram seguras, coerentes e convincentes, não havendo nenhum motivo para duvidar deles, inclusive, porque o réu Luan Delfino Leite admitiu que tentou entrar no presídio com a droga no estômago (folha 141).
+Não cabe a alegação de coação moral irresistível, ou mesmo de caráter resistível, por absoluta ausência de provas que corroborassem essa versão. Lembrando que o ônus desta prova, diante do interesse em ver aplicada a causa de exclusão de culpabilidade ou a atenuante genérica, incumbia ao réu.
+Diante dos princípios constitucionais da presunção de inocência e do "in dubio pro reo" bastaria a este juízo a mínima comprovação razoável da coação moral para se gerar a dúvida e, consequentemente, alcançar-se a absolvição. A coação moral irresistível levantada pela Defesa não foi provada no processo, ônus que a ela competia, razão pela qual deve ser afastada a tese levantada.
+Portanto, as circunstâncias em que ocorreu a apreensão da substância entorpecente materialmente comprovada nos autos, corroboradas pelos depoimentos altamente comprometedores dos agentes de segurança penitenciários demonstram, de modo inequívoco, que Luan Delfino Leite trazia consigo, ilegalmente, a "maconha". Sua conduta comprova e caracteriza de forma inequívoca o tráfico de drogas. Não se exige, para tanto, que haja prova concreta da mercancia, sendo suficiente a presença de elementos dos quais se possam inferir a sua ocorrência. Em outras palavras, o tráfico ficou bem provado e configurado. Enfim, como destacado na denúncia e acolhido na sentença, trazia consigo, ilegalmente, a droga mencionada e isso basta para reconhecer a traficância.
+Nesse contexto, entendo haver prova mais do que suficiente para a manutenção do édito de rigor, não havendo se falar em insuficiência probatória e em desclassificação para mera posse de droga para uso próprio (artigo 28 da lei nº 11.343/06), pois, inclusive, o acusado admitiu, em juízo, que trazia entorpecente em seu corpo ao adentrar no presídio para quitar uma dívida que havia contraído no ambiente carcerário (folha 141).
+As circunstâncias da prisão, bem como a quantidade da droga apreendida indicam que se destinava ao comércio (repasse a terceiro) e não ao consumo.
+Desse modo, não havendo dúvidas sobre a materialidade e autoria delitivas, a condenação será mantida.
+Pelo trecho anteriormente transcrito, verifico que a instância ordinária, depois de minuciosa análise do conjunto fático-probatório amealhado aos autos, especialmente da confissão do réu em juízo, concluiu pela existência de elementos a ensejar a condenação do acusado pelo crime de tráfico ilícito de entorpecentes (art. 33, caput, da Lei n. 11.343/2006).
+Por essas razões, é inadmissível a absolvição do agravante ou a desclassificação da conduta, sobretudo ao se considerar que, no processo penal, vigora o princípio do livre convencimento motivado, em que é dado ao julgador decidir pela condenação do agente, desde que o faça fundamentadamente, exatamente como verificado nos autos.
+Portanto, torna-se inviável a modificação do julgado, pois, para concluir em sentido diverso, seria necessário o revolvimento de todo o conjunto fático-probatório produzido nos autos, providência inadmissível em recurso especial, conforme disposição da Súmula n. 7 do STJ.
+À vista do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se e intimem-se.
+EMENTA
