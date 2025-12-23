@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de conflito de competência instaurado entre o TRIBUNAL REGIONAL ELEITORAL DO ESTADO DE GOIÁS, suscitante, e o JUÍZO DE DIREITO DA 3ª VARA CRIMINAL DE TRINDADE - GO, suscitado.
+O Juízo de Direito da 3ª Vara Criminal de Trindade - GO declinou da competência para processar e julgar queixa-crime, pela suposta prática do delito de difamação, sob o entendimento de que os fatos narrados se amoldariam ao delito previsto no artigo 325 do Código Eleitoral, que prevê pena para o crime de difamação ocorrida durante campanha eleitoral (fls. 220-222).
+O Tribunal Regional Eleitoral do Estado de Goiás, por sua vez, suscitou o conflito, por entender que não estariam presentes os requisitos formais e materiais para que o crime apreciado seja julgado na justiça especializada (fls. 340-349).
+O Ministério Público Federal, por sua vez, manifestou-se pela competência do Juízo de Direito da 3ª Vara Criminal de Trindade - GO (fls. 364-366).
+É o relatório. DECIDO.
+Conheço do conflito de competência, uma vez que instaurado entre juízes vinculados a tribunais diversos, nos termos do art. 105, inciso I, alínea "d", da Constituição Federal.
+Resume-se a controvérsia em definir se seria da Justiça Eleitoral ou da Justiça Comum a competência para processar e julgar queixa-crime, na qual se imputa o cometimento de crimes contra a honra por meio de redes sociais, fora do período de propaganda eleitoral.
+Narram os autos que os querelados, por meio de publicações feitas em redes sociais, aplicativos de mensagens e transmissões ao vivo, teriam acusado a Associação Educacional Reino Nobre, presidida por Luiz Ramilson Assis Galindo, de estar envolvida em práticas criminosas perante a Administração Pública de Trindade - GO.
+As publicações teriam sugerido que repasses de dinheiro público beneficiaram irregularmente a instituição de ensino e visariam gerar alarde e comprometer a reputação da instituição perante a opinião pública, supostamente para beneficiar determinado grupo político local.
+Contudo, não se observa da análise dos autos matéria de competência da justiça especializada.
+Ainda que referidas publicações tenham ocorrido às vésperas das eleições municipais, mas fora do período de campanha, constata-se que o conteúdo divulgado e compartilhado pelos envolvidos não teria relação com a regularidade das eleições nem configuraria propaganda eleitoral.
+Os autos dão conta de que as acusações feitas pelos querelados se relacionariam com fatos que se distanciam do campo da disputa política propriamente dita e aproximam-se do terreno da honra subjetiva e da reputação individual da instituição prejudicada.
+Nesse sentido, não se verifica relação entre os fatos noticiados e a prática dos crimes previstos nos artigos 325 e 326 do Código Eleitoral, os quais tipificam os crimes de injuriar e difamar alguém, na propaganda eleitoral, imputando-lhe fato ofensivo à sua reputação.
+Acrescente-se que as publicações feitas pela rede mundial de computadores não teriam visado promover candidatura, mas denunciar suposto ilícito decorrente de desvio de verba pública.
+Em casos como o dos autos, o Superior Tribunal de Justiça já firmou a competência da Justiça Comum. Vejam-se:
+"CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA ELEITORAL E JUSTIÇA COMUM DO ESTADO. INJÚRIA E DIFAMAÇÃO. SUPOSTAS OFENSAS PRATICADAS FORA DO PERÍODO ELEITORAL, SEM APARENTE FINALIDADE DE PROPAGANDA. COMPETÊNCIA DA JUSTIÇA COMUM.
+1. O que define a natureza eleitoral de crimes contra a honra é a circunstância de a ofensa ocorrer na propaganda eleitoral ou para fins desta.
+2. Os tipos penais dos arts. 325 e 326 do Código Eleitoral tutelam não apenas a honra subjetiva da vítima mas também o ambiente eleitoral, garantindo espaço ético para a veiculação das propostas dos candidatos.
+3. A ausência de circunstância elementar do tipo consubstanciada na ocorrência de ofensa durante o período de propaganda eleitoral ou para fins desta impede a subsunção dos fatos aos tipos previstos no Código Eleitoral.
+4. Conflito conhecido para declarar a competência do Juizado Criminal de Piracicaba (SP)." (CC n. 174.107/SP, relator Ministro João Otávio de Noronha, Terceira Seção, julgado em 25/11/2020, DJe de 30/11/2020.)
+"PENAL. CONFLITO DE COMPETÊNCIA. CRIMES CONTRA A HONRA. CARTA ABERTA E MATÉRIA DIVULGADA NA IMPRENSA LOCAL. PROPAGANDA ELEITORAL OU COM FINS DE PROPAGANDA. NÃO OCORRÊNCIA. COMPETÊNCIA DA JUSTIÇA COMUM.
+1. Os crimes de difamação e injúria prescritos, respectivamente, nos arts. 325 e 326 do Código Eleitoral, exigem finalidade eleitoral para que restem configurados. Ou seja, esse tipo de delito "somente se concretiza quando eventual ofensa ao decoro ou à dignidade ocorrer em propaganda eleitoral ou com fins de propaganda" (CC 134.005/PR, Rel. Ministro ROGÉRIO SCHIETTI CRUZ, TERCEIRA SEÇÃO, DJe 16/6/2014).
+2. Hipótese em que os crimes de difamação e injúria foram praticados por meio de "carta aberta nesta Cidade", bem como de matéria divulgada na imprensa local, o que não se confunde com "propaganda eleitoral" ou "visando a fins de propaganda", suporte fático a caracterizar as condutas tipificadas nos arts. 325 e 326 do Código Eleitoral.
+3. Conflito conhecido para declarar a competência do Juízo de Direito da 1ª Vara Criminal de Feira de Santana/BA, o suscitado." (CC n. 123.057/BA, relator Ministro Ribeiro Dantas, Terceira Seção, julgado em 11/5/2016, DJe de 19/5/2016)
+No mesmo sentido: CC n. 213.480/PR, Rel. Min. Joel Ilan Paciornik, DJEN de 22/7/2025; CC n. 214.321/AM, Rel. Min. Otávio de Almeida Toledo (Desembargador convocado do TJSP), DJEN de 3/7/2025; CC n. 212.907/SP, Rel. Min. Messod Azulay Neto, DJEN de 23/6/2025; CC n. 212.624 /BA, Rel. Min. Ribeiro Dantas, DJEN de 15/5/2025; CC n. 200.997/BA, Rel. Min. Og Fernandes, DJEN de 12/5/2025; CC n. 212.261/MG, Rel. Min. Rogerio Schietti Cruz, DJEN de 2/4/2025; CC n. 210.362/RS, Rel. Min. Reynaldo Soares da Fonseca, DJEN de 28/1/2025.
+Não, há, assim, circunstâncias e elementos que atraiam a competência da Justiça Eleitoral, pois as supostas ofensas não teriam sido cometidas em propaganda eleitoral e nem para fins de propaganda.
+Nesses termos, justifica-se fixar a competência da Justiça Comum.
+Ante exposto, conheço do conflito para declarar competente o Juízo de Direito da 3ª Vara Criminal de Trindade - GO.
+Publique-se. Intimem-se.
+EMENTA
