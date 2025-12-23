@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que não admitiu o recurso especial pelo qual AMIL ASSISTENCIA MÉDICA INTERNACIONAL S.A. se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO assim ementado (fls. 608/609):
+ADMINISTRATIVO. ANS. AUTUAÇÃO E MULTA. DEVER DE INFORMAR A ANS QUANDO HOUVER REDIMENSIONAMENTO DA REDE HOSPITALAR CAUSADO POR REDUÇÃO. ART. 17, § 4º, DA LEI Nº 9.656/98. VALOR DA MULTA. ART. 88 C.C. ART. 9ª DA RESOLUÇÃO ANS Nº 124/2006. OBSERVÂNCIA DOS PRINCÍPIOS DA PROPORCIONALIDADE E RAZOABILIDADE.
+- Trata-se de apelação interposta pela AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL LTDA. visando a reforma da r. sentença que julgou improcedente o pedido.
+- Em seu recurso, a AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL LTDA. reafirma os argumentos trazidos na inicial. Sustenta, em síntese, a inexistência de ilegalidade, haja vista que a iniciativa de descredenciamento foi do próprio hospital. Alega, também, que a exigência de multa, sem a devida fundamentação legal, constitui ato ilegal (art. 114 da Lei nº 8.112/1990). Subsidiariamente, no tocante ao valor da multa, pugna pela aplicação do princípio da proporcionalidade e da razoabilidade. Pede a redução da multa para R$ 206.350,00, com a condenação da apelada na devolução da diferença entre o valor devido e o valor pago.
+- No mérito, destaca-se que a AGÊNCIA NACIONAL DE SAÚDE SUPLEMENTAR - ANS, autarquia sob o regime especial, vinculada ao Ministério da Saúde, criada pela Lei nº 9.961/2000, possui, dentre suas diversas competências, fiscalizar as atividades das operadoras de planos privados de assistência à saúde e zelar pelo cumprimento das normas atinentes ao seu funcionamento, bem como fiscalizar o cumprimento das disposições da Lei nº 9.656/1998 (dispõe sobre os planos e seguros privados de assistência à saúde) e aplicar as penalidades cabíveis em caso de descumprimento das diretrizes estabelecidas na referida legislação.
+- No caso, extrai-se do processo administrativo nº 25789.040996/2011-68, que a apelante violou o art. 17, § 4º, da Lei 9.656/98, por redimensionar a rede Hospitalar, por redução, sem a autorização da ANS, com o descredenciamento do Hospital Daniel Lipp - CNPJ 73.372.427/0001-94, em julho de 2008, para todos os planos para os quais era credenciado.
+- Nos termos art. 17, § 4º, da Lei nº 9.656/98 (redação dada pela MP nº 2.177-44/2001, vigente à época), "a inclusão como contratados, referenciados ou credenciados dos produtos de que tratam o inciso I e o § 1º do art. 1º desta Lei, de qualquer entidade hospitalar, implica compromisso para com os consumidores quanto à sua manutenção ao longo da vigência dos contratos" ( ) "em caso de redimensionamento da rede hospitalar por redução, as empresas deverão solicitar à ANS autorização expressa para tanto".
+- O conjunto probatório ratifica os fundamentos expostos pela ANS no processo administrativo nº 25789.040996/2011-68. A apelante deixou de informar a Agência Nacional de Saúde quando houver redimensionamento da rede hospitalar causado por redução.
+- Quanto ao valor da multa, a Resolução ANS nº 124/2006 (dispõe sobre a aplicação de penalidades para as infrações à legislação dos planos privados de assistência à saúde), vigente à época, prevê, em caso da ocorrência da infração prevista no art. 88 (redimensionar rede hospitalar, por redução, sem autorização da ANS), multa de R$ 50.000,00.
+- Ademais, o art. 9º da referida resolução determina que o valor da multa poderá ser aumentado em até vinte vezes. Considerando o número de beneficiários da apelante, na data da lavratura do auto de infração, a multa foi fixada em R$ 347.140,63.
+- Como se vê, a multa foi fixada nos termos da legislação e em consonância com a proporcionalidade e a razoabilidade.
+- R. sentença mantida.
+- Apelação não provida.
+Os embargos de declaração opostos foram rejeitados quanto à AMIL e acolhidos quanto à Agência Nacional de Saúde Suplementar (ANS), com majoração dos honorários para 15% sobre o valor atualizado da causa (fls. 645/650).
+A parte recorrente alega violação do art. 17, § 4º, da Lei 9.656/1998, sustentando ser ilegal o auto de infração lavrado pela ANS, ao fundamento de que, "nos casos em que o redimensionamento é realizado unilateralmente pelo prestador, não se pode exigir da Operadora a solicitação de autorização da ANS" (fl. 666).
+Argumenta que, "ao realizar interpretação extensiva, para afirmar que haveria obrigação de comunicar, que não se confunde com a previsão legal ("solicitar à ANS autorização expressa para tanto"),  ..  o acórdão recorrido negou vigência ao §4º, do art. 17, da Lei 9.656/98" (fl. 666).
+Sustenta ter ocorrido ofensa ao art. 85, §§ 3º, 4º e 5º, do Código de Processo Civil (CPC), por fixação de honorários em 15% sobre o valor da causa sem observância das faixas e do escalonamento legal. Afirma que, "por se tratar de demanda envolvendo autarquia, a fixação dos honorários deve observar os limites impostos pelo §3º, do art. 85, do CPC" (fl. 671).
+Contrarrazões não apresentadas.
+O recurso não foi admitido, razão pela qual foi interposto o agravo ora examinado (fls. 681/683 e 685/689).
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+Na origem cuida-se de ação anulatória de multa administrativa aplicada pela Agência Nacional de Saúde Suplementar (ANS), com pedido de restituição do valor pago (fl. 599).
+A parte recorrente alegou violação ao art. 17, § 4º, da Lei 9.656/1998, uma vez que a operadora de plano de saúde não estaria obrigada a comunicar o redimensionamento da rede hospitalar caso o prestador tenha manifestado o interesse em continuar com o vínculo.
+Todavia, não é possível conhecer do recurso quanto ao ponto porque o dispositivo legal em questão, que versa sobre o dever de solicitação expressa à ANS para o redimensionamento da rede hospitalar por redução, não contém comando normativo capaz de sustentar a tese recursal e infirmar os fundamentos do acórdão recorrido.
+Isso porque o dispositivo de lei indicado versa exatamente sobre o dever da operadora de plano de saúde de solicitar a expressa autorização da ANS para o redimensionamento por redução da rede hospitalar, determinação que vai de encontro à pretensão recursal.
+A propósito, acerca do dever de comunicação do redimensionamento da rede hospitalar:
+PROCESSUAL CIVIL E ADMINISTRATIVO. OPERADORA DE PLANO DE SAÚDE. REDIMENSIONAMENTO DA REDE HOSPITALAR. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+1. Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+2. À luz do disposto no art. 17, §§ 1º e 4º, da Lei n. 9.656/1998, a operadora de plano de saúde poderá substituir qualquer entidade hospitalar cujos serviços e produtos foram contratados, referenciados ou credenciados, desde que o faça por outro equivalente e comunique, com 30 (trinta) dias de antecedência, os consumidores e a Agência Nacional de Saúde Suplementar (ANS).
+3. Hipótese em que o Tribunal de origem afastou o enquadramento da operadora agravada na infração prevista no art. 17, §§ 1º e 4º, da Lei n. 9.656/1998, entendendo que a autora não redimensionou a sua rede hospitalar, por redução, sem a autorização da ANS.
+4. A desconstituição das premissas fáticas estabelecidas pela instância a quo, à luz do material cognitivo produzido nos autos, esbarra no óbice estampado na Súmula 7 desta Corte.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 1.097.676/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 21/6/2021, DJe de 29/6/2021.)
+Cabe esclarecer, ainda, que, ao contrário do que defende a parte recorrente, se a lei dispõe acerca da necessidade de "autorização expressa" da ANS, é evidente o dever de comunicação prévia.
+Incide no presente caso, por analogia, a Súmula 284 do Supremo Tribunal Federal (STF).
+Pela pertinência, cito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. EMBARGOS À EXECUÇÃO FISCAL. COMPENSAÇÃO. HOMOLOGAÇÃO. MATÉRIA DE DEFESA. INVIABILIDADE. FUNDAMENTO NÃO IMPUGNADO. DEFICIÊNCIA DE FUNDAMENTAÇÃO.
+ ..
+4. Incide, por analogia, o óbice da Súmula 284 do STF quando os dispositivos indicados como violados não contêm comando normativo capaz de sustentar a tese deduzida e infirmar a validade dos fundamentos do acórdão recorrido.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.672.605/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 24/11/2025, DJEN de 1º/12/2025.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIÇOS DE ENFERMAGEM. CARACTERIZAÇÃO. DISPOSITIVOS VIOLADOS. ALEGAÇÃO. AUSÊNCIA DE COMANDO NORMATIVO. DEFICIÊNCIA DE FUNDAMENTAÇÃO DO RECURSO ESPECIAL. ÓBICE DO ENUNCIADO N. 284/STF. ILPI. NATUREZA JURÍDICA. ASSISTÊNCIA SOCIAL. CARACTERIZAÇÃO. REVOLVIMENTO DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. APLICAÇÃO.
+1. Considera-se deficiente a argumentação do recurso quando os dispositivos apontados como violados não contêm comando capaz de sustentar a tese recursal. Incidência do Enunciado n. 284/STF.
+2. A alteração das premissas adotadas pela Corte de origem, quanto à natureza jurídica da parte agravada, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o obstáculo previsto na Súmula n. 7/STJ.
+3. Agravo interno não provido.
+(AgInt no REsp n. 2.139.043/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 1º/12/2025, DJEN de 5/12/2025.)
+No presente caso, o Tribunal de origem decidiu que, "como bem observado pela r. sentença: "mesmo que o Hospital Daniel Lipp tenha notificado a autora da sua falta de interesse em continuar o vínculo contratual, era seu dever informar à Agência Nacional de Saúde sobre a eventual diminuição na rede de hospitais credenciados (..) Na verdade, a norma não se refere a uma situação específica sobre qual parte seria responsável pelo descredenciamento, mas a imposição de um dever de informar a Agência Nacional de Saúde quando houver redimensionamento da rede hospitalar causado por redução" (fl. 600).
+De outro lado, a parte recorrente não logrou êxito em demonstrar a ofensa ao art. 17, § 4º, da Lei 9.656/1998.
+Em relação aos honorários advocatícios, a pretensão também não comporta acolhimento.
+Os §§ 3º, 4º e 5º do art. 85 do CPC não foram apreciados pelo Tribunal de origem, e não foram opostos embargos de declaração com o objetivo de sanar eventual omissão da questão de direito controvertida.
+A falta de enfrentamento no acórdão recorrido da matéria objeto do recurso impede o acesso a esta instância por não ter sido preenchido o requisito constitucional do prequestionamento.
+Incidem no presente caso, por analogia, as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Majoro em 10% (dez por cento), em desfavor da parte recorrente, o valor dos honorários sucumbenciais já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos no § 2º desse dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+ EMENTA
