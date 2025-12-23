@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Hilda Figueiredo Vieira contra decisão que conheceu do conflito de competência e declarou competente o d. Juízo Federal da 4ª Vara Cível de Brasília - SJ/DF para processar e julgador a ação de cobrança proposta pela Caixa Econômica Federal, assinalando que a excepcional atração do microssistema do superendividamento (Lei n. 14.181/2021) limita-se ao próprio processo concursal de repactuação, não alcançando, por si, a ação obrigacional autônoma.
+A embargante alega omissão e obscuridade, sustentando que a controvérsia efetiva está vinculada ao procedimento judicial de superendividamento em trâmite no e. Tribunal de Justiça do Distrito Federal e Territórios, no qual teria havido suspensão da exigibilidade de créditos de credores ausentes, inclusive da CEF, e que a orientação desta Corte Superior nos conflitos sobre superendividamento atrairia, de modo concursal, a competência do Juízo Estadual para concentrar todos os créditos, devendo prevalecer a prevenção do juízo da repactuação.
+Pugna pelo reconhecimento da competência do d. Juízo de Direito da 2ª Vara Cível de Brasília/DF.
+É o relatório.
+Passo a decidir.
+Conheço dos embargos, pois tempestivos.
+No mérito, entendo que não procedem, porquanto a decisão embargada enfrentou diretamente a premissa de competência, ao reconhecer que o regime do superendividamento tem feição concursal e, por isso, pode excepcionalmente afastar a regra do art. 109, inc. I, da Constituição Federal, bem como explicitou que tal exceção incide no âmbito da própria ação de superendividamento, destinada à repactuação global das dívidas, e não se projeta automaticamente sobre ação de cobrança autônoma proposta pela CEF, a qual reativa a competência federal ratione personae.
+Ademais, consignou que questões de coordenação entre os feitos (como eventual suspensão por prejudicialidade externa) devem ser apreciadas pelo juízo federal competente.
+Não há, pois, ponto relevante não enfrentado, pois a conclusão de competência federal para a ação de cobrança decorreu precisamente dessa distinção entre a demanda concursal e a ação de obrigação autônoma.
+Os argumentos que invocam atos praticados no procedimento de repactuação não impõem alteração do resultado. Tais elementos dizem respeito à condução do processo concursal no e. Tribunal de Justiça do Distrito Federal e Territórios e podem, se for o caso, ser considerados pelo Juízo Federal para fins de sobrestamento, providência já contemplada no decisum embargado ao remeter essa avaliação ao juízo competente.
+Pretender, por meio dos aclaratórios, deslocar a ação de cobrança para o Juízo Estadual por prevenção do superendividamento equivale a atribuir efeitos infringentes para rediscutir critério de competência constitucional já definido, sem indicação de vício integrável.
+A propósito, esta Corte Superior já se posicionou:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. ART. 1.022 DO CPC. OMISSÃO, CONTRADIÇÃO E OBSCURIDADE NÃO VERIFICADAS. EFEITOS INFRINGENTES PRETENDIDOS. IMPOSSIBILIDADE.
+1. Ausentes quaisquer dos vícios ensejadores dos declaratórios, afigura-se patente o intuito infringente da irresignação, que objetiva não suprimir omissão, afastar obscuridade, eliminar contradição ou corrigir erro material, mas, sim, reformar o julgado por via inadequada.
+2. Embargos de declaração rejeitados.
+(EDcl no AgInt no CC 179.961/SP, Relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 03/09/2024, DJe 06/09/2024)
+Por fim, os precedentes citados pela embargante sobre a natureza concursal do superendividamento corroboram, em verdade, a própria distinção adotada: reconhecem a centralização no juízo da repactuação, mas não afirmam força atrativa automática sobre ações de cobrança autônomas ajuizadas por empresa pública federal, nas quais subsiste a regra do art. 109, inc. I, da Constituição Federal, salvo deliberação específica do Juízo Federal quanto à suspensão e/ou coordenação do trâmite.
+Ante o exposto, conheço dos embargos de declaração e os rejeito, mantendo-se, por seus próprios fundamentos, a decisão que declarou competente o d. Juízo Federal da 4ª Vara Cível de Brasília - SJ/DF.
+Publique-se.
+EMENTA
