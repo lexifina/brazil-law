@@ -1,0 +1,11 @@
+DECISÃO
+O presente writ, impetrado em benefício de RENATO RODRIGUES MARIMOTO - condenado como incurso no crime de roubo majorado - apontando-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL (Apelação Criminal n. 0931113-60.2025.8.12.0001), não comporta processamento.
+Busca a impetração a absolvição do paciente na ação penal que tramitou perante o Juízo de Direito da 6ª Vara Criminal da comarca de Campo Grande/MS, ao argumento de nulidade decorrente de ofensa ao disposto no art. 226 do Código de Processo Penal, bem como a ausência de outras provas suficientes para a comprovação da autoria delitiva.
+Ocorre que, além de se tratar de habeas corpus destinado a revisar condenação transitada em julgado, o que é inadmissível, consoante jurisprudência desta Corte Superior, o não cabimento do writ substitutivo de revisão criminal é corroborado quando o impetrante não indica que as razões de pedir estão previstas em alguma das hipóteses do art. 621 do CPP, como no presente caso (HC n. 829.748/GO, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 11/12/2023).
+No caso, a Corte estadual, ao revisar a sentença primeva, fê-lo destacando que, em momento posterior, ambas as vítimas, Elizângela e Elimarcos, reconheceram efetivamente o acusado Renato, ora apelado, como um dos autores do roubo, especificando, inclusive, ter sido ele o que desceu do veículo, ameaçando-as com a arma de fogo, apoderando-se dos celulares, enquanto o outro permanecia como motorista (fl. 19).
+Assim, inexiste ilegalidade flagrante que justifique a superação dos óbices constatados, pois se a vítima é capaz de individualizar o agente, não é necessário instaurar a metodologia legal (AgRg no HC n. 793.886/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 28/4/2023; e AgRg no HC 921.601/RR, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 5/9/2024).
+Ante o exposto, indefiro liminarmente o writ (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. ROUBO MAJORADO. PRETENSÃO DE REVISÃO DA CONDENAÇÃO. UTILIZAÇÃO INDEVIDA DO WRIT. RECONHECIMENTO PESSOAL. AGENTE INDIVIDUALIZADO PELAS VÍTIMAS. POSSIBILIDADE. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
