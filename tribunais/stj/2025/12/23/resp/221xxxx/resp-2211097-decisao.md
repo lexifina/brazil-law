@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão prolatado pelo Tribunal de origem, assim ementado (fls. 330/339, e-STJ):
+APELAÇÃO CÍVEL. AÇÃO DE RESCISÃO CONTRATUAL COM PEDIDO DE REINTEGRAÇÃO DE POSSE. CONTRATO DE COMPRA E VENDA COM POSSE PROVISÓRIA. PAGAMENTO NÃO EFETUADO. RETOMADA DO IMÓVEL APÓS A PROPOSITURA DA AÇÃO. DESISTÊNCIA DO PROCESSO. SUCUMBÊNCIA. PRINCÍPIO DA CAUSALIDADE. SENTENÇA REFORMADA. APELO CONHECIDO E PROVIDO.
+A retomada do imóvel que motivou a propositura da ação, e a constatação de que, com a situação financeira dos Réus, não seria possível eventual compensação de danos, motivou a desistência da ação.
+O pedido de desistência, homologado judicialmente, assim, representou perda superveniente do interesse processual, uma vez que o processo não se mostraria útil para a obtenção de todos os pedidos formulados na inicial.
+Em tal situação, deve ser afastada a regra do art. 90 do CPC, e aplicado o princípio da causalidade, segundo o qual aquele que que deu causa a propositura da ação deve responder pelas despesas daí decorrentes.
+Assim, no caso dos autos, sobre os Réus devem recair o ônus da sucumbência.
+Sentença reformada. Apelo provido.
+Opostos embargos de declaração, foram rejeitados (fls. 433/458, e-STJ).
+Em suas razões recursais, a recorrente aponta violação ao art. 85, § 10º, ao art. 90 e ao art. 485, VIII, todos do Código de Processo Civil. Aduz que: "Está claro que é uma hipótese de aplicação da norma específica em desfavor da norma geral. A real causa de extinção do feito foi o pedido realizado no dia 16/03/2017 expressamente fundamentado no art. 485, VIII, CPC". Para tanto, sustenta que as despesas e honorários devem ser pagos por quem desistiu. Por fim, pede que a condenação em honorários sucumbenciais seja direcionada aos autores/recorridos que desistiram da ação, nos termos do art. 90 do CPC.
+A recorrida, devidamente intimada, apresentou contrarrazões postulando pelo não provimento do recurso (fls. 523/532, e-STJ).
+Assim posta a questão, passo a decidir.
+Presentes os pressupostos de admissibilidade e ultrapassado o limite do conhecimento do presente recurso, verifico que não deve ser provido.
+Mediante análise dos autos, sobreveio sentença, em ação de rescisão contratual com pedido de reintegração de posse, que extinguiu o processo sem resolução do mérito e arbitrou os honorários sucumbenciais em 10% sobre o valor da execução em favor da ré/recorrente. Após, foram opostos embargos de declaração. O juízo sentenciante acolheu-os para "corrigir de ofício o valor originalmente atribuído à causa e fixar em observância aos parâmetros supramencionados, nos termos do § 3º do art. 292 do CPC, mantendo o quanto consta no dispositivo da sentença embargada".
+Em sede de apelação, o Tribunal de origem deu provimento ao recurso para inverter o ônus de sucumbência e condenar a ré/recorrente ao pagamento dos honorários sucumbenciais fixados em 10% sobre o valor da causa. Opostos novos embargos de declaração, também foram rejeitados. Irresignada, a recorrente interpôs o presente recurso especial.
+Desse modo, cinge-se a controvérsia ao ônus sucumbencial em ação de rescisão de contrato extinta por desistência da autora/recorrida.
+O Tribunal de origem, no acórdão recorrido, consignou que a parte autora celebrou contrato de compra e venda de imóvel em 23/07/2014, no valor de R$ 590.000,00, com pagamento de R$ 90.000,00 em permuta de móveis e o saldo em notas promissórias. A parte ré não pagou o saldo devedor e alegou falta de condições financeiras. A autora requereu desistência da ação em 16/03/2017. O Juízo a quo homologou a desistência, condenando a autora em custas e honorários (art. 90, CPC).
+Ademais, explicou que o pedido de desistência foi motivado pela retomada do bem e pela impossibilidade de recebimento de valores, devido à inadimplência incontroversa da ré. Inclusive, aceitou a retomada do bem em acordo extrajudicial para evitar maiores prejuízos. A ré deu causa à ação e seria sucumbente. O pedido de desistência representou perda superveniente do interesse processual, tornando o processo inútil para obter os pedidos iniciais.
+De fato, há diversos precedentes do STJ nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. COMPARECIMENTO ESPONTÂNEO DO RÉU. PAGAMENTO ADMINISTRATIVO. PERDA SUPERVENIENTE DE OBJETO. DESISTÊNCIA DA AÇÃO. PRINCÍPIO DA CAUSALIDADE. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. O Tribunal a quo julgou em consonância com a jurisprudência desta Corte, no sentido de que o comparecimento espontâneo supre eventual falta de citação. Correta, portanto, a incidência da Súmula 83/STJ.
+2. Nos termos da jurisprudência desta Corte, "a sucumbência é atribuída à luz do princípio da causalidade, o qual impõe a quem deu causa à propositura da ação o dever de arcar com os honorários advocatícios, mesmo ocorrendo a superveniente perda do objeto.
+Precedentes" (AgInt no AREsp 2.356.698/MG, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 29/4/2024, DJe de 2/5/2024).
+3. A desistência manifestada pela parte autora em razão do pagamento dos valores devidos pelo réu após o ajuizamento da demanda não configura, tecnicamente, desistência, pois derivada da perda superveniente de objeto da ação, razão pela qual cabe ao réu o pagamento da verba honorária.
+4. Agravo interno provido para, reconsiderando a decisão agravada, conhecer do agravo para negar provimento ao recurso especial.
+(AgInt no AREsp n. 2.758.115/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 10/2/2025, DJEN de 21/2/2025).
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. INTERVENÇÃO DO ESTADO NA PROPRIEDADE. DESAPROPRIAÇÃO INDIRETA. ESTABELECIMENTO EMPRESARIAL. DESISTÊNCIA DA AÇÃO DE DESAPROPRIAÇÃO INDIRETA. PERDA SUPERVENIENTE DE OBJETO NA DESAPROPRIAÇÃO INDIRETA. ÔNUS DA SUCUMBÊNCIA. VIOLAÇÃO A NORMATIVOS FEDERAIS. DISTRIBUIÇÃO DO ÔNUS SUCUMBENCIAL. PERDA DE OBJETO. REGRA DA CAUSALIDADE. EXEGESE DO ART. 85, § 10, DO CPC/2015.
+1. No contexto em que ocorreu a instauração de ação de desapropriação indireta por empresário locatário de prédio urbano apenas porque na ação de desapropriação direta desse bem figuravam como desapropriados somente os seus legítimos proprietários, e que durante a marcha processual de ambas as demandas o ente desapropriante fez esclarecer o seu intento de não indenizar o estabelecimento, a perda de objeto da ação de desapropriação indireta como decorrência de pedido de desistência da ação direta implica a observância do regime do art. 85, § 10, do CPC/2015, orientado pelo princípio da causalidade.
+2. Agravo conhecido para negar provimento ao recurso especial.
+(AREsp n. 1.404.216/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 19/2/2019, DJe de 26/2/2019).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO. CUMPRIMENTO DE SENTENÇA. DESISTÊNCIA. AUSÊNCIA DE BENS PENHORÁVEIS. HONORÁRIOS ADVOCATÍCIOS. PRINCÍPIO DA CAUSALIDADE. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ.
+1. Ação de execução, em fase de cumprimento de sentença.
+2. A orientação pacífica desta Corte é no sentido de que a extinção do procedimento executivo em razão da inexistência de bens penhoráveis (execução frustrada) não autoriza a fixação de honorários advocatícios em prol do procurador da parte executada.
+Atração do princípio da causalidade. Incidência da Súmula 83 do STJ.
+( )
+4. Agravo interno no agravo interno no agravo em recurso especial não provido.
+(AgInt no AgInt no AREsp n. 1.713.742/SC, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 4/10/2021, DJe de 6/10/2021).
+Desse modo, de forma análoga, a jurisprudência desta Corte ratifica que a extinção do processo de ação por perda superveniente de objeto não enseja a condenação da parte autora ao pagamento de honorários advocatícios de sucumbência. É preciso analisar o princípio da causalidade, conforme adequadamente realizado.
+Diante disso, afasta-se a possibilidade de arbitramento de verbas sucumbenciais em detrimento da recorrida. Por consequência, o Tribunal de origem adotou entendimento alinhado ao estabelecido pelo STJ e arbitrou honorários cabíveis e adequados.
+Em face do exposto, não havendo o que reformar, nego provimento ao recurso especial.
+Intimem-se.
+EMENTA
