@@ -1,0 +1,7 @@
+DECISÃO
+Por meio da petição de fls. 606-623, a requerente informa que está desistindo "expressamente e renunciar a quaisquer alegações de direito/defesa do débito objeto do presente processo, o qual decorre da Execução Fiscal nº 1509561-71.2017.8.26.0068, oriunda do AIIM 4.071.335-0 e consubstanciado na CDA nº 1.226.606.016, tendo em vista que o débito foi incluído no Programa de Transação Tributária do Estado de São Paulo - Acordo Paulista (vide comprovante de adesão em anexo - Doc. 01) e quitado em parcela única (Doc. 02), nos termos da Lei nº 17.843/2023" (fl. 606).
+O Estado de São Paulo "não se opõe à homologação pleiteada, desde que: (i) o processo seja extinto com resolução do mérito, nos termos do art. 487, III, "c", do CPC, conforme requerido pela própria agravante; e que (ii) haja a manutenção da condenação da agravante ao pagamento de honorários sucumbenciais, conforme determina o art. 90 do CPC ("Art. 90. Proferida a sentença com fundamento em desistência, em renúncia ou em reconhecimento do pedido, as despesas e honorários serão pagos pela parte que desistiu, renunciou, reconheceu")" (fl. 805).
+Ante o exposto, homologo a renúncia, extinguindo o processo com resolução de mérito, nos termos dos arts. 487, inc. III, "c", do CPC/2015 e 34, inc. IX, do RI/STJ.
+As parcelas de sucumbência eventualmente devidas e o levantamento/desentranhamento da Apólice de Seguro Garantia devem ser analisadas pelo juízo de primeiro grau.
+Publique-se. Intimem-se.
+EMENTA
