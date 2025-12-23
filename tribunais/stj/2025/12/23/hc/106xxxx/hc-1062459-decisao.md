@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de RAI FELIPE CONCEICAO - cumprindo pena em regime semiaberto -, em que a defesa aponta como autoridade coatora o Tribu nal de Justiça de São Paulo, que, em 17/12/2025, não conheceu do writ (HC n. 2397503-40.2025.8.26.0000).
+O impetrante alega que o paciente está submetido à constrangimento ilegal pela negativa de conhecimento do habeas corpus sem enfrentamento do mérito, destacando que a decisão que indeferiu a saída temporária fundamentou-se apenas em suposta revogação ampla do benefício pela Lei n. 14.843/2024, sem análise dos requisitos legais, configurando teratologia.
+Sustenta que a Lei n. 14.843/2024 não extinguiu de forma absoluta a saída temporária; que restrições legais devem ser interpretadas estritamente; que o paciente não foi condenado por crime hediondo com resultado morte; e que seus delitos - embriaguez ao volante (art. 306 do Código de Trânsito Brasileiro) e crimes da Lei n. 10.826/2003.
+Defende a admissibilidade do habeas corpus para correção de ilegalidades na execução penal quando a medida afeta diretamente a liberdade de locomoção, baseia-se em fundamento manifestamente ilegal e dispensa dilação probatória, apontando que a controvérsia é de direito e que exigir agravo em execução, no caso, é formalismo excessivo.
+Em caráter liminar, pede a suspensão dos efeitos da decisão que indeferiu a saída temporária; a reapreciação imediata do pedido pela autoridade coatora segundo os critérios legais e a situação concreta; ou, alternativamente, a concessão direta do benefício.
+No mérito, requer o conhecimento do habeas corpus e a concessão definitiva da ordem para afastar o óbice formal imposto pelo Tribunal de origem, reconhecer o constrangimento ilegal e assegurar o direito à saída temporária; subsidiariamente, determinar nova decisão fundamentada com análise concreta dos requisitos legais; e, ainda, a concessão da ordem ex officio para inclusão do sentenciado na lista de saída temporária Natal 2025 (fls. 2/8) - (Processo n. 0000222-83.2025.8.26.0521, da DEECRIM 10ª RAJ - Sorocaba/SP).
+É o relatório.
+Este habeas corpus foi impetrado contra decisão terminativa, monocrática, proferida no Tribunal local, para a qual há previsão legal de interposição de recurso interno a ser submetido ao colegiado competente, na mesma instância.
+Ora, a matéria deve ser previamente apreciada pelo órgão fracionário da Corte de origem, mediante o manejo do recurso interno adequado, exaurindo-se a instância antecedente. Não cabe a esta Corte Superior a análise direta da controvérsia.
+A esse respeito, entre outros, os seguintes julgados: AgRg no HC n. 903.069/SP, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Sexta Turma, DJe 26/6/2024; AgRg no HC n. 659.332/RJ, Ministro Olindo Menezes (Desembargador convocado do TRF 1ª Região), Sexta Turma, DJe 17/5/2021; AgRg no HC n. 625.731/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 18/12/2020; AgRg no HC 509.051/RJ, Ministro Nefi Cordeiro, Sexta Turma, DJe 13/6/2019; RCD no HC n. 447.287/SP, de minha relatoria, Sexta Turma, DJe 29/5/2018; e AgRg no HC n. 645.300/GO, Ministro Reynaldo Soares da Fonseca, DJe 15/3/2021.
+Afora isso, a hipótese não revela inquestionável teratologia nem ilegalidade manifesta.
+Pelo exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS IMPETRADO CONTRA OMISSÃO DO JUÍZO DA EXECUÇÃO. INSTÂNCIA NÃO EXAURIDA. ART. 105, I, C, DA CF. PRECEDENTE.
+Petição inicial indeferida liminarmente.
