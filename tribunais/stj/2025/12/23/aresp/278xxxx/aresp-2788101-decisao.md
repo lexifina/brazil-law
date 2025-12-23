@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual o INSTITUTO DE PESQUISA E PLANEJAMENTO URBANO DE LONDRINA - IPPUL se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ assim ementado (fl. 690):
+APELAÇÃO CÍVEL E REEXAME NECESSÁRIO - MANDADO DE SEGURANÇA - CONSULTA PRÉVIA DE VIABILIDADE TÉCNICA - ARQUIVAMENTO PRECOCE. SENTENÇA PROFERIDA EM ANTERIOR AÇÃO CIVIL PÚBLICA - DECLARAÇÃO INCIDENTAL DE INCONSTITUCIONALIDADE DAS LEIS MUNICIPAIS Nº 11664/12 E nº 12236/15 - DECISÃO QUE NÃO OBSTACULIZA A INSTALAÇÃO DE QUALQUER EMPREENDIMENTO NA ÁREA EM DISCUSSÃO - VIOLAÇÃO A DIREITO LÍQUIDO E CERTO - CONCESSÃO DA ORDEM PARA QUE O PROCEDIMENTO ADMINISTRATIVO TENHA SEQUÊNCIA - RECURSO DE APELAÇÃO CONHECIDO E NÃO PROVIDO - SENTENÇA MANTIDA EM REEXAME NECESSÁRIO.
+Os embargos de declaração opostos foram rejeitados (fls. 764/768).
+A parte recorrente alega violação aos arts. 3º da Lei 6.766/1979 e 49, parágrafo único, da Lei 9.985/2000, sustentando que, "em sede de Ação Civil Pública que tramitou sob o nº 18657- 05.2015.8.16.0014, restou consignado que a área em que está situado o imóvel cujo o ora recorrido pretende o prosseguimento de processamento administrativo, visando ao parcelamento do solo urbano, é considerado zona de amortecimento do Parque Estadual "Mata dos Godoy" e, enquanto tal, considerado zona rural" (fl. 787).
+Requer o provimento de seu recurso.
+A parte adversa apresentou contrarrazões (fls. 801/809).
+O recurso não foi admitido, razão pela qual foi interposto o agravo ora examinado.
+Parecer do Ministério Público Federal, opinando pelo conhecimento do ag ravo e pelo não conhecimento do recurso especial (fls. 891/894).
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+Na origem, cuida-se de mandado de segurança impetrado por ROMEIRA & FERNANDES LTDA em desfavor da DIRETORA DE PLANEJAMENTO URBANO DO MUNICÍPIO DE LONDRINA, buscando a invalidação de decisão administrativa que determinou o arquivamento de seu pedido de parcelamento do solo.
+A segurança foi concedida (fls. 568/573), tendo sido mantida a sentença pela Corte de origem.
+No acórdão recorrido, o Tribunal de origem decidiu que (fl. 693 - destaque acrescentado):
+Sendo assim, inexiste óbice intransponível para o funcionamento de empresa na área abrangida pela declaração de inconstitucionalidade, de modo a se determinar o arquivamento do pedido de consulta prévia de viabilidade técnica (CPVT), considerando que, a bem de ver, o que deve ser analisado é a compatibilidade das atividades a serem desenvolvidas, com as leis de posturas e regras de uso e ocupação do solo.
+ ..
+Destarte, é certo que o imóvel em discussão se encontra em zona de expansão urbana que, segundo os termos da norma contida no artigo 4º da Lei Municipal nº 11.661/2012, "é aquela externa à Zona Urbana onde se prevê ocupação ou implementação de equipamentos e empreendimentos considerados especiais e necessários à estrutura urbana".
+Ora, ao que se vê a determinação do arquivamento do procedimento administrativo se deu, tão somente, em virtude da inconstitucionalidade parcial das Leis Municipais n 11.661/12 e 12.236/15, por intermédio da sentença proferida na ação civil pública. Contudo, mencionado título judicial não impede a análise do CPVT, motivo pelo qual a concessão da segurança, tal qual proferida em primeira instância, é medida que se impõe, ante a prematuridade de seu arquivamento.
+Na peça recursal, todavia, a parte recorrente não se insurge contra aqueles fundamentos, limitando-se a afirmar, em síntese, que o imóvel estaria em área insuscetível de parcelamento do solo para fins urbanos.
+Incide no presente caso, por analogia, a Súmula 283 do Supremo Tribunal Federal, segundo a qual "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Ainda que fosse possível a superação daquele óbice, do recurso especial não se poderia conhecer, pois proferir entendimento diverso no sentido de que haveria título judicial dispondo que a área cujo parcelamento é buscado pela parte impetrante seria rural implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção (Súmula 7/STJ).
+Em sentido similar:
+AGRAVO INTERNO NO RECURSO ESPECIAL. ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA. REGULARIZAÇÃO DE LOTEAMENTO. LEI N. 6.766/1979. LEGITIMIDADE PASSIVA AD CAUSAM. REFORMA DO JULGADO QUE DEMANDARIA A INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL, BEM COMO O REVOLVIMENTO DO QUADRO FÁTICO-PROBATÓRIO. INCIDÊNCIA DAS SÚMULAS N. 5 E 7/STJ. INOVAÇÃO RECURSAL. AGRAVO INTERNO DESPROVIDO.
+1. Espécie em que foi ajuizada ação civil pública visando à regularização do loteamento Campo Alegre no Município de Juazeiro do Norte/CE, com a "elaboração de projeto e memorial descritivo, a ser aprovado pelos órgãos competentes e submetido ao registro imobiliário, obtendo-se o necessário licenciamento ambiental, e levando-se a cabo as obras de infraestrutura básica (tal como previsto nos arts. 2º, § 5º, e 18, inc. V, da Lei n. 6.766/79" (fl. 47), bem como à indenização pelos danos morais coletivos causados ao meio ambiente e à ordem urbanística.
+2. Excluída a parte ora agravada do polo passivo da demanda, o recurso especial limitou-se na alegação de que seria necessária a realização de instrução probatória para melhor verificar a dimensão e obrigações assumidas no contrato de parceria firmado com a loteadora.
+3. Nos termos em que desenvolvidas as razões recursais, a reforma do acórdão proferido pela Corte estadual demandaria a interpretação de cláusula contratual e o revolvimento do quadro fático-probatório, providências vedadas na via do recurso especial (Súmulas n. 5 e 7/STJ).
+4. Ademais, o presente agravo interno, em evidente inovação recursal, defende a imposição legal de corresponsabilidade da empresa agravada pelo cumprimento das regras urbanísticas.
+5. Agravo interno desprovido.
+(AgInt no REsp n. 1.848.260/CE, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 10/9/2024, DJe de 24/9/2024.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
