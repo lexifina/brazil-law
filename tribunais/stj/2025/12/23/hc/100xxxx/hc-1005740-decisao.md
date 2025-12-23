@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de FERNANDO AUGUSTO GOMES CARVALHEIRO - condenado pelos crimes de tráfico de drogas e associação para o tráfico, à pena de 8 anos e 10 meses de reclusão -, em que a defesa aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, que, em 19/5/2025, negou provimento ao recurso (Agravo de Execução Penal n. 0005264-46.2025.8.26.0996) (fls. 56/57; fl. 58).
+O impetrante alega violação do art. 126, § 1º, I, da Lei de Execução Penal, combinado com o art. 3º, parágrafo único, da Resolução n. 391/2021 do Conselho Nacional de Justiça, porque a conclusão prévia do ensino médio não impede a remição pela aprovação no ENCCEJA.
+Afirma que a finalidade da remição é recompensar o esforço do apenado e promover a reintegração social; defende a compatibilidade entre remição por estudo e por trabalho; requer máxima efetividade ao instituto da remição.
+Em caráter liminar, pede a imediata determinação da remição pela aprovação no ENCCEJA (fls. 9/10).
+No mérito, requer a cassação do acórdão atacado e o deferimento dos dias remidos, nos termos do art. 126, § 5º, da Lei de Execução Penal, c/c o art. 3º da Resolução n. 391/2021 do Conselho Nacional de Justiça (fl. 10) - (processo n. 0004752-23.2022.8.26.0041, do DEECRIM da 5ª RAJ - Presidente Prudente/SP).
+O pedido liminar foi indeferido (fls. 72/73).
+Foram prestadas informações às fls. 79/82.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ e, se conhecido, pela concessão da ordem (fls. 87/93).
+É o relatório.
+A impetração pretende o reconhecimento de remição pelo estudo em razão da aprovação no ENCCEJA, pois considera que ter concluído o ensino médio antes de iniciar o cumprimento da pena não impede o deferimento do respectivo benefício.
+Após análise dos autos e da jurisprudência deste Tribunal Superior, entendo assistir razão à impetração.
+O Tribunal local manteve a decisão que indeferiu a concessão da remição mediante os seguintes fundamentos (fls. 58/62 - grifo nosso):
+
+Consta na Execução 0004752-23.2022.8.26.0041 que o agravante é reincidente e cumpre atualmente a pena privativa de liberdade de 08 (oito) anos e 10 (dez) meses de reclusão, pelos crimes de tráfico de drogas e associação para o mesmo fim, com previsão de término da pena em 06 de novembro de 2032 (fls. 197/201).
+No caso vertente, o agravante, buscando otimizar o seu tempo intramuros e na intenção de melhor absorver a terapêutica prisional, que é proposta pelo Estado, realizou o ENCCEJA 2019 fundamental e 2022 ensino médio consoante os extratos juntados (fls. 242 e 246 da PEC) pleiteou a remição de sua pena e após manifestação do Ministério Público o culto Magistrado indeferiu sua pretensão, objeto de insurgência.
+ ..
+No caso vertente, verifica-se que, o sentenciado já havia concluído o ensino médio em 13 de dezembro de 2013, ou seja, antes mesmo do seu ingresso no cárcere, consoante se extrai do ofício encartado nos autos (fls. 256/257 da PEC), portanto, não se encontram presentes os requisitos do artigo 126, § quinto, da Lei de Execuções Penais, o qual, de forma expressa, exige que a conclusão do ensino fundamental, médio ou superior ocorra durante o cumprimento da pena, por que destoa do escopo da norma (Recomendação 44/2013, posteriormente substituída pela Resolução 391/2021) de recompensar e capacitar o esforço do sentenciado, que ainda não tenha concluído os seus estudos, pois o aprendizado para conclusão da educação básica ocorre apenas uma vez, não sendo no caso concreto devida a remição da pena pelo estudo, por ausência do preenchimento do requisito legal.
+ ..
+Portanto, conclui-se que a decisão atacada deve ser mantida, não havendo que se falar em ofensa aos princípios da razoabilidade ou da proporcionalidade.
+Nesse cenário, é nítido o constrangimento ilegal, uma vez que a jurisprudência do STJ, com base na interpretação extensiva do art. 126 da Lei de Execução Penal (LEP) e da Resolução CNJ nº 391/2021, reconhece que a aprovação em exames de certificação como o ENCCEJA é apta a gerar remição de pena, mesmo quando o apenado já possuía o grau de ensino antes do início da execução penal, valorizando o esforço e estudo realizado durante o cumprimento da pena (HC n. 925.437 /DF, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 15/10/2024, DJe de 22/10/2024).
+Ainda nesse sentido:
+PROCESSO PENAL. PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. REMIÇÃO DE PENA. APROVAÇÃO NO ENCCEJA APÓS CONCLUSÃO DO ENSINO MÉDIO. POSSIBILIDADE DE CONCESSÃO DA BENESSE. DIREITO À REMIÇÃO DE 20 DIAS DE PENA POR MATÉRIA EM QUE O EXECUTADO FOI APROVADO. INEXISTÊNCIA DE NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. AGRAVO REGIMENTAL DESPROVIDO.
+I - A Terceira Seção deste Superior Tribunal de Justiça, no julgamento do EREsp n. 1.979.591/SP, fixou o entendimento de que é possível a remição da pena, mesmo nos casos de aprovação parcial no Enem ou em caso de anterior aprovação no grau de ensino.
+II - No que se refere à base de cálculo a ser utilizada, a Resolução n. 391/2021 /CNJ determina que, para a remição decorrente do estudo individual com a aprovação total no Enem ou no Encceja, será considerada como base de cálculo para fins de cômputo das horas visando à remição da pena 50% (cinquenta por cento) da carga horária definida legalmente para cada nível de ensino, fundamental ou médio, o que corresponde o montante de 1.600 (mil e seiscentas) horas para os anos finais do ensino fundamental e 1.200 (mil e duzentas) horas para o ensino médio ou educação profissional técnica de nível médio.
+III - Firmou-se, ainda, o entendimento de que o total de 1.200 horas, pela aprovação em exame que certifica a conclusão do ensino médio deve incidir na proporção de 1 dia de pena para cada 12 horas de estudo, resultando em 100 dias de remição, o que equivale a 20 dias de remição para cada uma das cinco áreas de conhecimento avaliadas no exame.
+IV - No caso concreto, o apenado obteve aprovação parcial, ou seja, em 3 (três) das 5 (cinco) áreas de conhecimento no ENCCEJA 2022, o que corresponde a 60 dias de remição.
+V - O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão agravada pelos próprios fundamentos. Agravo regimental desprovido.
+(AgRg no HC n. 872.350/SP, Ministro Messod Azulay Neto, Quinta Turma, DJe de 29/10/2024.)
+Na espécie, consoante se extrai dos autos, o paciente pleiteou a remição por ter sido aprovado no ENCCEJA.
+Dessa forma, faz ele jus à remição de pena, sem o acréscimo de 1/3 caso já tenha concluído o referido nível escolar antes de iniciar o cumprimento da pena. A propósito: HC n. 925.437/DF, Ministra Daniela Teixeira, Quinta Turma, DJe de 22/10/2024; AgRg no HC n. 792.658/SP, Ministro Messod Azulay Neto, Quinta Turma, DJe de 2/8/2024; e HC n. 1.002.591/SP, da minha relatoria, Sexta Turma, DJEN de 15/9/2025.
+Ante o exposto, concedo a ordem para determinar que o Juízo da execução reanalise o pedido de remição por aprovação no ENCCEJA, nos termos desta decisão.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO PELO ESTUDO. APROVAÇÃO NO ENCCEJA. CONCLUSÃO DO REFERIDO NÍVEL DE ESCOLARIDADE ANTES DO INÍCIO DO CUMPRIM ENTO DA PENA. IRRELEVÂNCIA. DIREITO À REMIÇÃO SEM O ACRÉSCIMO DE 1/3 PREVISTO NO ART. 126, § 5º, DA LEI DE EXECUÇÕES PENAIS. PRECEDENTES.
+Ordem concedida.
