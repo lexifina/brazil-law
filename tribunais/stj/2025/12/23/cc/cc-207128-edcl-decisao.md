@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por RENAN RODRIGUES DA SILVA contra decisão singular de minha lavra na qual, em conflito negativo de competência, conheci do incidente para declarar competente o Juízo de Direito da 14ª Vara Cível e de Acidentes de Trabalho de Manaus/AM, por se tratar de competência territorial de natureza relativa, cuja declinação de ofício é vedada, nos termos da Súmula 33 do Superior Tribunal de Justiça.
+A decisão registrou, em síntese, que a ação de danos morais foi inicialmente ajuizada perante o Juizado Especial Cível de São Bernardo do Campo/SP, que a extinguiu sem julgamento do mérito, e, em seguida, foi ajuizada perante a 14ª Vara Cível e de Acidentes de Trabalho de Manaus/AM, a qual suscitou o conflito.
+Consignou-se, ainda, que a competência territorial se prorroga na ausência de exceção oportuna, não podendo o magistrado declarar de ofício a própria incompetência.
+Nas razões do seu recurso, a parte embargante alega, em síntese, o erro material no relatório quanto à identificação das partes e interessados, afirmando que o interessado correto é Renan Rodrigues da Silva, inventariante do espólio de Reinaldo Rodrigues da Silva, e não Valdemar Pereira, que seria apenas o requerido na ação.
+Aponta erro material na ordem cronológica dos fatos, afirmando que a demanda foi ajuizada, inicialmente, em Manaus/AM e, depois, em São Bernardo do Campo/SP, ao contrário do consignado na decisão.
+Alega obscuridade por ausência de clareza sobre o foro competente para a esfera penal, requerendo definição do juízo penal e expedição de ofícios ao Ministério Público, e a omissão por falta de manifestação sobre a esfera penal e sobre o pedido de gratuidade da Justiça formulado nos autos.
+Decorreu o prazo sem apresentação de impugnação (fl. 394).
+Assim delimitada a questão, passo a decidir.
+Os presentes embargos merecem parcial provimento.
+Inicialmente, ressalto que, nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração são cabíveis quando há omissão, contradição, obscuridade ou erro material no julgado.
+No que concerne às alegações de obscuridade quanto ao processamento da esfera penal, bem como de omissão quanto à análise da gratuidade da Justiça, não há vício a ser sanado.
+O julgado embargado limitou-se à definição do juízo competente no âmbito cível para a ação de reparação de danos e devolução de bem, nos estritos limites do conflito negativo de competência, não abrangendo matéria penal nem pedidos de gratuidade próprios da ação originária.
+Essas alegações, portanto, devem ser rejeitadas, por extrapolarem o objeto da decisão embargada.
+Na hipótese, verifico que a decisão embargada padece de erro material quanto à qualificação de interessado no cabeçalho/relatório, pois, de fato, consta a referência "VALDEMAR PEREIRA - ESPÓLIO" ao lado da indicação de interessados e respectivos advogados (fl. 333), quando, pelas próprias peças citadas no relatório, o interessado é o autor Renan Rodrigues da Silva, inventariante do espólio de Reinaldo Rodrigues da Silva, e o requerido é Valdemar Pereira.
+Desse modo, constatada a correção de erro material no julgado, impõe-se o acolhimento das alegações da parte embargante para sanar o aludido vício, em conformidade com o disposto no art. 1.022, II, do CPC.
+Cumpre consignar que permanece hígida a fundamentação e a conclusão quanto à competência da 14ª Vara Cível e de Acidentes de Trabalho de Manaus/AM (fls. 335-336), não havendo motivo para retificação da sequência fática à míngua de elementos que infirmem o que já se encontra registrado na decisão e no parecer do Ministério Público Federal (fls. 323-327).
+Em face do exposto, acolho parcialmente os embargos de declaração para corrigir erro material de qualificação no cabeçalho/relatório, a fim de constar que o interessado é RENAN RODRIGUES DA SILVA, inventariante do espólio de REINALDO RODRIGUES DA SILVA, sendo VALDEMAR PEREIRA o réu na ação de danos morais, suprimindo a referência "espólio" vinculada ao nome de Valdemar Pereira (fl. 333), sem efeitos infringentes.
+Intimem-se.
+EMENTA
