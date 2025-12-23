@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de Habeas Corpus impetrado em favor de ANDRYON RYAN SOUZA DA SILVA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Habeas Corpus n. 2329060-37.2025.8.26.0000).
+Consta dos autos que o paciente foi condenado à pena de 5 (cinco) anos de reclusão, em regime inicial fechado, pela prática do delito capitulado no art. 157, caput, do Código Penal, além de 12 (doze) dias-multa.
+Em suas razões, sustenta a impetrante a ocorrência de constrangimento ilegal, porquanto a condenação teria sido equivocadamente firmada por roubo, quando a dinâmica dos fatos revelaria furto, afirmando a inexistência de violência ou grave ameaça contra a vítima e seus familiares, com base no depoimento colhido em juízo.
+Alega que a fixação do regime inicial fechado carece de motivação idônea, pois amparada na gravidade em abstrato do delito e em referências genéricas a clamor público e intranquilidade social, sem apontamento de elementos concretos do caso, em violação aos parâmetros legais e sumulados para imposição de regime mais severo, notadamente diante da primariedade do paciente, da pena fixada em 5 (cinco) anos e da previsão do art. 33, § 2º, "b", do Código Penal.
+Argumenta que, ainda que mantida a tipificação por roubo, deve ser fixado o regime semiaberto, pois o paciente é primário, a pena não excede 8 (oito) anos e não há fundamentação individualizada que autorize regime mais gravoso, devendo ser observada, ademais, a detração do art. 387, § 2º, do Código de Processo Penal, já que o paciente está preso desde 7 de abril de 2025.
+Requer, liminarmente e no mérito, a desclassificação da conduta para o crime de furto e a alteração do regime inicial de cumprimento de pena para o semiaberto.
+É o relatório.
+Decido.
+O writ não merece prosperar.
+A decisão combatida foi proferida monocraticamente pelo Desembargador relator na origem, não havendo, pois, deliberação colegiada do Tribunal a quo sobre a matéria trazida na presente impetração, o que inviabiliza o seu conhecimento por esta Corte Superior devido à ausência de exaurimento de instância.
+Nesse sentido, confiram-se os seguintes julgados:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. INTERPOSIÇÃO DE DOIS RECURSOS. PRINCÍPIO DA UNIRRECORRIBILIDADE E DA PRECLUSÃO CONSUMATIVA. INVIABILIDADE DE ANÁLISE DO ÚLTIMO. TRÁFICO ILÍCITO DE ENTORPECENTES. WRIT CONTRA DECISÃO MONOCRÁTICA. QUESTÃO NÃO APRECIADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. NECESSIDADE DE INTERPOSIÇÃO DE AGRAVO REGIMENTAL. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. Não é cabível a impetração de habeas corpus contra decisão monocrática de desembargador, sendo necessária a interposição de recurso para submissão do decisum ao colegiado competente a fim de que ocorra o exaurimento de instância (art. 105, II, a, da Constituição Federal).
+ ..  (AgRg no HC n. 743.582/SP, Rel. Ministro João Otávio de Noronha, Quinta Turma, DJe de 17.6.2022.)
+EMBARGOS DE DECLARAÇÃO NO RECURSO EM HABEAS CORPUS RECEBIDOS COMO AGRAVO REGIMENTAL. PRINCÍPIO DA FUNGIBILIDADE. WRIT IMPETRADO CONTRA DECISÃO MONOCRÁTICA. NÃO CABIMENTO.
+1. Esta Corte entende que não é cabível a impetração do writ contra decisão monocrática proferida pelo Tribunal de origem, tendo em vista ser necessária a interposição do recurso adequado para a submissão do respectivo decisum ao colegiado daquele Tribunal, de modo a exaurir referida instância. Precedentes do STJ.
+2. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento. (EDcl no RHC n. 160.065/PE, Rel. Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, DJe de 11.3.2022.)
+Além disso, a Terceira Seção do STJ, no julgamento do HC n. 535.063/SP, firmou entendimento de que não cabe Habeas Corpus substitutivo de recurso próprio, impondo-se o não conhecimento da impetração, salvo quando constatada alguma teratologia no ato judicial impugnado (Rel. Ministro Sebastião Reis Júnior, DJe de 25.8.2020).
+Ademais, segundo entendimento firmado pela Terceira Seção do STJ no julgamento do HC n. 482.549/SP, havendo a simultânea interposição de recurso próprio e impetração de Habeas Corpus versando sobre os mesmos temas, inexiste ilegalidade em se reservar a análise das questões para o momento do julgamento do recurso que está pendente de análise na origem, salvo se o writ impetrado no Tribunal a quo fosse destinado à tutela direta e imediata da liberdade de locomoção, o que não é o caso dos autos (Rel. Ministro Rogerio Schietti Cruz, DJe 3.4.2020).
+Ainda nesse sentido: AgRg no RHC n. 194.676/PB, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 5.9.2024; AgRg no RHC n. 175.281/PR, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 22.5.2024; AgRg no HC n. 856.189/SP, Rel. Ministra Laurita Vaz, Sexta Turma, DJe de 20.10.2023; AgRg nos EDcl nos EDcl no HC n. 580.806/MG, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 4.8.2020; AgRg no HC n. 801.494/AP, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 17.8 .2023; AgRg no HC n. 809.553/SP, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 16.8.2023; AgRg no HC n. 809.199/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 28.4.2023.
+Na espécie, conforme afirmou o Tribunal a quo (fl. 11) já foi interposto Recurso de Apelação com o mesmo objeto do Habeas Corpus da origem, em clara ofensa ao princípio da unirrecorribilidade.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente Habeas Corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
+ EMENTA
