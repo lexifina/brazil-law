@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso especial interposto por GE CELMA LTDA., fundado nas alíneas "a" e "c" do permissivo constitucional, para desafiar acórdão do TRF da 2ª Região assim ementado (e-STJ fl. 2.419):
+TRIBUTÁRIO. APELAÇÃO. PEDIDO DE COMPENSAÇÃO TRIBUTÁRIA. DÉBITOS A TÍTULO DE IRPJ E DE CSLL. ADMINISTRAÇÃO. PERÍCIA JUDICIAL. HOMOLOGAÇÃO TÁCITA DAS CARTAS COBRANÇA 043/2009, 045/2009 E 047/2009. ART.74, §5º, DA LEI Nº 9.430/96. CRÉDITOS UTILIZADOS INSUFICIENTES PARA COMPENSAR OS DÉBITOS ACRESCIDOS DOS ENCARGOS LEGAIS. IRPJ DE 12/2004 INCLUÍDO NA CARTA-COBRANÇA Nº 047/2009.
+1. UNIÃO - FAZENDA NACIONAL e GE CELMA LTDA interpõem apelação em face de sentença do Juízo da 1ª Vara Federal de Petrópolis, que julgou parcialmente procedente o pedido para declarar a nulidade dos débitos de que tratam as cartas-cobrança 043/2009, 045/2009 e 047/2009, assegurando- se o direito da autora de não se sujeitar a qualquer tipo de cobrança relativa a saldos remanescentes das compensações realizadas.
+2. A perícia judicial concluiu que "De acordo com as exposições, análises e averiguações de toda documentação apresentada pela autora e respectivos documentos apensos aos autos, a perícia constatou que os créditos utilizados foram insuficientes para compensar os débitos acrescidos dos encargos legais (juros e multa de mora). A diferença apurada corresponde aos valores espelhados nas Notas de Cobrança nº 41, 42, 43, 44, 45, 46, 47 e 48, ora analisadas".
+3. Dessa maneira, assiste razão ao Fisco quando afirma que a contribuinte adotou o expediente de compensações extemporâneas sob alegação de denúncia espontânea, sem incluir no cálculo a multa de mora.
+4. A homologação de compensação declarada pelo sujeito passivo é de 5 anos, contado da data da entrega de declaração de compensação, conforme art. 74, §§ 4º e 5º, da Lei nº 9.430/96, vigente à época da transmissão.
+5. O laudo pericial consigna que a Carta Cobrança nº 47 foi transmitida em 30/jul/2004. Registra também que a autora foi comunicada da existência dos débitos em 24 de setembro de 2009. Assim, o perito judicial concluiu que "o prazo entre a data da transmissão e a data da cobrança do débito remanescente é superior a 5 (cinco) anos". No entanto, conforme já narrado, a Fazenda Nacional afirma que, antes do prazo de 5 anos findar, em 23/10/2007, houve a entrega de declaração retificadora pelo contribuinte. Consigna também que existem dois débitos a ela vinculados, um dos quais foi homologado de forma expressa e não tácita.
+6. Embora a União não tenha juntado aos autos os documentos referentes à mencionada retificadora enviada em 23/10/2007, observa-se que no citado Parecer EQMACO nº 030/09, consta o envio de retificadora concernente ao IRPJ referente a 12/2004, (sem especificação de data do envio), o que não foi observado pelo expert em seu laudo pericial.
+7. Apelação da UNIÃO - FAZENDA NACIONAL PROVIDA para declarar hígido o IRPJ de 12/2004 constante na Carta-cobrança nº 047/2009. Apelação de GE CELMA LTDA desprovida.
+Embargos de declaração rejeitados (e-STJ fls. 2.477/2.4).
+No seu recurso especial, a parte aponta a violação dos arts. 142, 146, 149 e 150 do CTN, do art. 74, § 2º, da Lei n. 9.430/1996 e dos arts. 489, § 1º, e 1.022, II, do CPC.
+Preliminarmente, aduz que o acórdão recorrido padeceria de omissão, bem como estaria desfundamentado, porquanto o Tribunal de origem teria deixado de examinar as seguintes questões relevantes (e-STJ fl. 2.507):
+(i) possibilidade, ou não, de revogação, pela Receita Federal, de despacho decisório que homologa integralmente o pedido de compensação do contribuinte;
+(ii) caso permitida a revogação do despacho decisório, em quais casos seria possível essa revisitação (apenas nas hipóteses elencadas no art. 149, do CTN ); bem como
+(iii) se deveria ser necessária a publicação de um novo despacho decisório, revogando o anterior e concedendo prazo para manifestação do contribuinte, ou a expedição de meras cartas de cobrança bastaria, com o saldo supostamente remanescente do débito, e sem direito ao contraditório.
+No mérito, sustenta que não seria possível a revisão do ato homologatório da compensação tributária e, mesmo que fosse, seria imprescindível a prolação de nova decisão administrativa a revogar expressamente a decisão homologatória anterior.
+Contrarrazões às e-STJ fls. 2.578/2.585.
+Recurso especial admitido (e-STJ fl. 2.604).
+Passo a decidir.
+A irresignação merece prosperar.
+Controverte-se no recurso especial sobre a necessidade e a possibilidade da revisão de ato homologatório de compensação tributária.
+Pois bem.
+Está devidamente caracterizada a omissão do julgado.
+Ao resolver a querela, assim se manifestou a Corte a quo (e-STJ fls. 2.416/2.417):
+GE CELMA LTDA., conforme relatado, pretende afastar a cobrança dos demais débitos impugnados na exordial. Pugna pela reforma da sentença para que se reconheça que a Administração Tributária homologou expressamente suas declarações de compensação por meio do Parecer EQMAC nº 030/2009, motivo pelo qual as Cartas-Cobrança nº 041/2009, 042/2009, 044/2009, 046/2009 e 048/2009 seriam indevidas. Além disso, entende que deve ser reconhecida a denúncia espontânea nos PAs nºs 15374.974.023/2009-28, 15374.978.339/2009-99 15374.974.024/2009-72 e 15374.978.340/2009-1 (evento 322).
+Após examinar os elementos inclusos no feito, entendo que as razões recursais de GE CELMA LTDA. não prosperam.
+Primeiramente, a autora afirma que o Parecer EQMACO nº 30/2009 teria reconhecido a suficiência de seus créditos e homologado expressamente as declarações de compensação apresentadas, conforme consignado no laudo pericial:
+"QUESITO nº 03: Queira o Sr. Perito informar se, de acordo com o parecer da Receita Federal (cf. fls. 361) as compensações declaradas foram expressamente homologadas;
+RESPOSTA: Responde-se afirmativamente".
+No entanto, é necessário interpretar o referido item à luz do quesito número 06 do laudo pericial, que afirmou que as notas de cobrança refletem a inadequação do crédito concedido em compensação:
+"6 - QUESITO nº 01: As DCOMPs em questão compensam os tributos referidos em sua totalidade
+RESPOSTA: Negativo. As notas de cobrança espelham a insuficiência do crédito dado em compensação".
+Isso fica mais clarividente diante da conclusão do laudo pericial, a seguir transcrita (evento 202, out 93, págs. 18, dos originários):
+"7 - CONCLUSÃO
+De acordo com as exposições, análises e averiguações de toda documentação apresentada pela autora e respectivos documentos apensos aos autos, a perícia constatou que os créditos utilizados foram insuficientes para compensar os débitos acrescidos dos encargos legais (juros e multa de mora). A diferença apurada corresponde aos valores espelhados nas Notas de Cobrança nº 41, 42, 43, 44, 45, 46, 47 e 48, ora analisadas".
+Dessa maneira, assiste razão ao Fisco quando afirma que a contribuinte adotou o expediente de compensações extemporâneas sob alegação de denúncia espontânea, sem incluir no cálculo a multa de mora. No ponto, vejamos o que consigna o parecer do assistente técnico da Fazenda Nacional (evento 213, out 99, p. 2, dos originários):
+"Verificou-se que não é a primeira vez que o contribuinte adota este procedimento, ou seja, retarda a declaração de um determinado débito, o faz posteriormente ao vencimento e recolhe em atraso, sem a multa de mora, no caso em tela o fez por meio de apresentação das DCOMP"S, sequer houve recolhimento, e sempre abre mão da manifestação na via administrativa.
+No caso prático, a DCTF do 4ª trimestre de 2003, recepcionada nos sistemas da RFB em 13/02/2004, (Número da Declaração: 0000.100.2004.71734342), sem débitos de IRPJ e CSLL no período, porém retificada (Número da Declaração: 0000.100.2007.32147131) e recepcionada em 19/10/2007, e só então foram incluídos os débitos de CSLL e IRPJ do período, todos vinculados as DCOMP"s apresentadas posteriormente ao vencimentos sem contemplar a multa prevista art. 61 da lei l 9.430/96".
+Restou demonstrado, portanto, a higidez das notas de cobranças Cartas-Cobrança nº 041/2009, 042/2009, 044/2009, 046/2009 e 048/2009.
+Conforme se observa, nada disse o Tribunal de origem sobre a alegação da parte de que não seria possível a revisão do ato homologatório da compensação tributária e, mesmo que fosse, seria imprescindível a prolação de nova decisão administrativa a revogar expressamente a decisão homologatória anterior.
+Como o acolhimento dessas teses defensivas poderia influir decisivamente no julgamento da causa, tem-se que seu exame era de rigor, sob pena de negativa de prestação jurisdicional e violação do art. 1.022, II, do CPC.
+Ante o exposto, com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial, de modo a determinar, à Corte a quo, o rejulgamento dos embargos de declaração opostos pela ora recorrente, com o expresso enfrentamento da alegação de que, supostamente, não seria possível a revisão do ato homologatório da compensação tributária e, mesmo que fosse, seria imprescindível a prolação de nova decisão administrativa a revogar expressamente a decisão homologatória anterior.
+Publique-se. Intimem-se.
+EMENTA
