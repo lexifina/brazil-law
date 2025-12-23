@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo interposto por ARNALDO FERREIRA MUNIZ em face da decisão que inadmitiu o recurso especial manejado contra acórdão do Tribunal de Justiça do Estado de Pernambuco, assim ementado (e-STJ fls. 826/827):
+EMENTA: PENAL E PROCESSO PENAL. HOMICÍDIO TRIPLAMENTE QUALIFICADO NA FORMA TENTADA (ART. 121, §2º, II, IV E VI C/C ART. 14, II, DO CP). RECURSO EM SENTIDO ESTRITO. 1ª PRELIMINAR: CERCEAMENTO DE DEFESA. REJEIÇÃO. INTERROGATÓRIO REALIZADO POR VIDEOCONFERÊNCIA MEDIANTE DECISÃO FUNDAMENTADA. INCIDÊNCIA DO ART. 185, §2º, DO CPP. 2ª PRELIMINAR: NULIDADE DA PRONÚNCIA POR EXCESSO DE LINGUAGEM. INOCORRÊNCIA. FUNDAMENTAÇÃO QUE NÃO EXTRAPOLOU A PREVISÃO CONTIDA NO ART. 413, §1º, DO CPP. PRONÚNCIA BASEADA EM PROVAS NÃO ANULADAS PELO STJ. MÉRITO. MATERIALIDADE COMPROVADA. PRESENÇA DE INDÍCIOS SUFICIENTES DE AUTORIA. PRESCINDIBILIDADE DE PROVA CABAL. APLICAÇÃO DO PRINCÍPIO DO IN DUBIO PRO SOCIETATE. INTELIGÊNCIA DO ART. 413, CAPUT, DO CPP. RECURSO IMPROVIDO. DECISÃO UNÂNIME.
+I - Interrogatório realizado por videoconferência mediante decisão fundamentada. Possibilidade prevista no art. 185, §2º, do CPP.
+II - Hipótese em que a pronúncia não extrapolou os termos do art. 413, §1º, do CPP e está baseada em provas não anuladas pelo STJ. Preliminar rejeitada, unanimemente.
+III - A pronúncia prescinde apenas do convencimento acerca da existência do crime e indícios suficientes de sua autoria. Inteligência do art. 413, caput, do Código de Processo Penal.
+IV - Nos crimes dolosos contra a vida e conexos, o juízo de certeza sobre a autoria, imprescindível para a condenação, reserva-se ao Tribunal do Júri, sendo certo que na fase da pronúncia exige-se apenas prova da materialidade e indícios de autoria, além de imperar o princípio do in dubio pro societate.
+V - No mérito, recurso improvido à unanimidade.
+Nas razões do recurso especial (e-STJ fls. 912/928), fundado na alínea "a" do permissivo constitucional, alega a defesa violação aos arts. 185 e 413, § 1º, do Código de Processo Penal, ao art. 8º, II, "d", da Convenção Americana sobre Direitos Humanos e à Resolução CNJ n. 481/2022, sustentando cerceamento de defesa pela realização do interrogatório por videoconferência e excesso de linguagem na decisão de pronúncia.
+Apresentadas contrarrazões (e-STJ fls. 932/941), o Tribunal de origem inadmitiu o recurso especial, com fundamento na Súmula 284/STF (deficiência de fundamentação) e na Súmula 83/STJ (acórdão em consonância com a jurisprudência do STJ) (e-STJ fls. 942/945).
+Contra essa decisão, foi interposto o presente agravo (e-STJ fls. 946/954), ao qual o Ministério Público do Estado de Pernambuco apresentou contraminuta (e-STJ fls. 958/964). O Ministério Público Federal, instado a se manifestar, opinou pelo não provimento do agravo (e-STJ fls. 989/993).
+É o relatório. Decido.
+O agravo em recurso especial não comporta conhecimento.
+A decisão agravada inadmitiu o recurso especial com fundamento nos óbices das Súmulas 284/STF e 83/STJ (e-STJ fls. 943/945). Nas razões do presente agravo, a parte agravante limitou-se, em essência, a reiterar os argumentos do apelo nobre sobre suposto cerceamento de defesa e excesso de linguagem, afirmando genericamente que não incidiria a Súmula 284/STF e que o acórdão recorrido não estaria amparado em "jurisprudência sedimentada" do Superior Tribunal de Justiça, sem, contudo, enfrentar de modo específico e pormenorizado os fundamentos autônomos da decisão de inadmissibilidade.
+Contudo, como tem reiteradamente decidido esta Corte, os recursos devem impugnar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. Não são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do agravo ou do recurso especial, tampouco a insistência no mérito da controvérsia.
+Oportuno lembrar que, consoante orientação jurisprudencial, não há como prosperar o recurso especial que não demonstra a correlação entre todos os dispositivos legais apontados como violados e os fundamentos recursais, situação que enseja acertadamente a aplicação do óbice da Súmula n. 284 do STF, não bastando que a parte faça uma indicação genérica de artigos legais, sem que seja demonstrada claramente a ligação entre os acontecimentos do caso concreto, os pleitos recursais, as afrontas aos direitos e comandos legais supostamente ocorridos e o teor dos dispositivos legais. (AgRg no AREsp n. 2.684.007/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 30/4/2025, DJEN de 7/5/2025.)
+De outro lado,  p ara infirmar a aplicação da Súmula n. 83 do STJ, é necessário que a parte comprove que o entendimento desta Corte Superior destoa da conclusão a que chegou o Tribunal de origem ou que o caso dos autos seria distinto daqueles veiculados nos precedentes mediante distinguishing, o que não ocorreu na hipótese. Precedentes. (AgRg no AgRg no AREsp n. 2.278.302/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 26/9/2023, DJe de 3/10/2023).
+Assim, na espécie, não há como se afastar a incidência do enunciado n. 182 da Súmula do STJ, que assim dispõe:
+É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Nesse sentido, os seguintes julgados:
+DIREITO PROCESSUAL PENAL. TRÁFICO DE DROGAS. AGRAVO REGIMENTAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. NÃO CONHECIMENTO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de recurso especial, com fundamento na ausência de impugnação específica aos fundamentos da decisão agravada e na impossibilidade de reexame de provas em instância especial, conforme a Súmula n. 7 do STJ.
+2. A defesa alega que os depoimentos policiais não são suficientes para condenação por tráfico de drogas e requer a desclassificação do delito para uso pessoal, conforme art. 28 da Lei n. 11.343/06.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a ausência de impugnação específica aos fundamentos da decisão agravada impede o conhecimento do agravo regimental.
+4. A questão também envolve a análise da possibilidade de reexame do conjunto fático- probatório em instância especial para desclassificação do delito de tráfico de drogas.
+III. Razões de decidir
+5. A ausência de impugnação específica aos fundamentos da decisão agravada atrai a incidência da Súmula n. 182 do STJ, que impede o conhecimento do agravo regimental.
+6. A modificação da conclusão da origem demandaria reexame do conjunto fático- probatório, o que é inviável na instância especial, conforme a Súmula n. 7 do STJ.
+7. A pequena quantidade de droga apreendida, por si só, é irrelevante diante das circunstâncias que indicam a destinação mercantil do entorpecente.
+IV. Dispositivo e tese
+8. Agravo regimental não conhecido.
+(AgRg no AREsp n. 2.645.466/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 20/3/2025, DJEN de 26/3/2025).
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FALTA DE DIALETICIDADE RECURSAL. SÚMULA 182/STJ AGRAVO DESPROVIDO.
+1. A decisão que inadmitiu o recurso especial na origem foi pautada nos óbices das Súmulas 7 e 83/STJ. Entrementes, o agravante ateve-se à negativa genérica da incidência dos óbices de admissibilidade das Súmula 83/STJ, pelo fundamento de haver inaplicabilidade do enunciado 83/STJ aos recursos interpostos com base na alínea "a" e de inexistir orientação jurisprudencial do Superior Tribunal de Justiça em sentido contrário às teses defensivas. Esse proceder viola o princípio da dialeticidade e torna inadmissível o agravo, nos termos da Súmula 182/STJ.
+2. No tocante à aplicação da Súmula 7/STJ, a parte agravante traz apenas razões genéricas de inconformismo, o que não satisfaz a exigência de impugnação específica para viabilizar o conhecimento do agravo. Isso porque, para que se considere adequadamente impugnada a Súmula 7/STJ, o agravo precisa empreender um cotejo entre os fatos estabelecidos no acórdão e as teses recursais, mostrando em que medida estas não exigem a alteração do quadro fático delineado pelo Tribunal local, o que não se observa na alegação genérica de ser prescindível reexame de fatos e provas.
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.060.997/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/8/2022, DJe de 10/8/2022).
+Ante o exposto, não conheço do agravo em recurso especial.
+Intimem-se.
+EMENTA
