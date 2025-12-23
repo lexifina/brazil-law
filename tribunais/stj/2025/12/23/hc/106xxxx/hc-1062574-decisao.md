@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de DAVID BERNARDINO DE SOUZA, condenado pelo crime do art. 33, caput, da Lei n. 11.343/2006, à pena de 2 anos de reclusão, em regime inicial aberto, substituída por duas penas restritivas de direitos, e 200 dias-multa (Processo n. 0000833-58.2023.8.17.5920, da Vara Criminal da comarca de Surubim/PE) - (fls. 19/34).
+A impetrante aponta como autoridade coatora o Tribunal de Justiça de Pernambuco, Câmara Regional de Caruaru - Segunda Turma, que, em 4/12/2025, negou provimento à apelação criminal, mantendo a condenação (fls. 26/26).
+Alega insuficiência probatória para o crime de tráfico, com ausência de atos de comercialização e condenação fundada exclusivamente em depoimentos policiais, em contexto de conflito de versões com o acusado - in dubio pro reo e violação do art. 386, II e VII, do Código de Processo Penal (fls. 2/3).
+Sustenta a ocorrência de dropsy testimony (espécie de testilying), com narrativa genérica de tentativa de desfazimento de objeto ao avistar a guarnição, sem gravação audiovisual, defendendo "especial escrutínio" do testemunho policial e a necessidade de corroboração por elementos independentes (fls. 6/11).
+Afirma inexistirem apetrechos típicos do tráfico, dinheiro em grande quantidade, arma de fogo, ou testemunhas independentes, e que a quantidade e o acondicionamento do entorpecente não autorizam, por si, a presunção de destinação mercantil (fls. 9/16).
+Em caráter liminar, pede o sobrestamento dos efeitos da condenação e a soltura do paciente, ante o fumus boni iuris e o periculum in mora (fls. 16/17). No mérito, requer a absolvição com fundamento no art. 386, II e VII, do Código de Processo Penal, ou, alternativamente, a desclassificação para o art. 28 da Lei n. 11.343/2006; e, em caso de não conhecimento do writ, a concessão de ofício (art. 654, § 2º, do Código de Processo Penal) - (fl. 17).
+É o relatório.
+No caso, o presente writ é incabível por consubstanciar inadequada substituição ao recurso próprio a ser dirigido ao Superior Tribunal de Justiça (AgRg no HC n. 753.464/SC, Ministra Laurita Vaz, Sexta Turma, DJe 29/9/2022).
+Além disso, inexiste ilegalidade flagrante que justifique a concessão de habeas corpus de ofício e a consequente superação do óbice constatado (art. 654, § 2º, do CPP), pois o Tribunal afastou a tese de insuficiência probatória e a desclassificação para uso porque entendeu robusta a prova da autoria e da materialidade, assentada em: apreensão de 28 pedras de crack (aprox. 9 g) acondicionadas em porções individualizadas, local de abordagem notoriamente conhecido como ponto de tráfico, tentativa do réu de ocultar o recipiente ao avistar a guarnição, posse de dinheiro em espécie e antecedentes do apelante, além de depoimentos policiais colhidos em juízo, coerentes e harmônicos, sem indícios de parcialidade (fls. 33/34).
+Além disso, alcançar conclusão inversa demandaria reexame de provas, inviável na via estreita do habeas corpus.
+Em face do exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. SUBSTITUTIVO DE RECURSO ESPECIAL. INADEQUAÇÃO DA VIA ELEITA. INSUFICIÊNCIA PROBATÓRIA E DESCLASSIFICAÇÃO. AMPLA ANÁLISE DE FATOS E PROVAS. IMPOSSIBILIDADE.
+Writ indeferido liminarmente.
