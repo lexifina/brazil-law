@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se  de  recurso  ordinário  em  habeas  corpus , com pedido de liminar,  interposto  por JEFFERSON SANTOS MACHADO DE PAULA, PABLO JUNIO PEREIRA DOS SANTOS e DANIEL DE JESUS SANTOS, contra  acórdão  do  Tribunal  de  Justiça  do  Estado  de Minas Gerais.
+Consta dos autos que os recorrentes tiveram a prisão preventiva decretada pela suposta prática dos crimes descritos nos arts. 33, caput, da Lei 11.343/2006 e 16, § 1º, da Lei 10.826/2003.
+Em suas razões, sustenta a defesa a ocorrência de constrangimento ilegal, porquanto a segregação processual encontra-se despida de fundamentação idônea e não estão presentes os requisitos autorizadores da medida extrema, previstos no art. 312 do CPP.
+Alega que, no caso, se revelam adequadas e suficientes as medidas cautelares alternativas positivadas no art. 319 do CPP.
+Requer a revogação da prisão cautelar dos recorrentes.
+É  o  relatório.
+Decido.
+O acórdão recorrido encontra-se fundamentado nos seguintes termos:
+ ..  Nesse sentido vejo que, de fato, após o recebimento de denúncias anônimas dando conta da prática de tráfico de drogas pelos pacientes, a equipe policial se deslocou até as proximidades do endereço indicado e, ao se depararem com o paciente Jefferson e realizarem busca pessoal, apreenderam 239 (duzentas e trinta e nove) buchas de maconha, além de material para dolagem. Na sequência, os policiais se deslocaram até local próximo e, durante varredura, apreenderam 498 (quatrocentas e noventa e oito) buchas de maconha, além de 01 (um) revólver calibre .38 com numeração suprimida, contendo uma munição de mesmo calibre. Em continuidade à diligência, os policiais se dirigiram até a residência alvo da denúncia e abordaram Pablo e Daniel, sendo encontrados mais 44 (quarenta e quatro) tabletes de maconha em sua posse.
+Dito isso, em uma análise sumária, tem-se que a decisão impugnada demonstrou que a medida extrema foi imposta com base na gravidade concreta da situação fática, evidenciada pela expressiva quantidade de entorpecentes apreendidos  781 (setecentas e oitenta e uma) buchas/tabletes de maconha  circunstância que revela, a princípio, a periculosidade social da conduta e o potencial risco à ordem pública.
+Como se verifica, a custódia cautelar atendeu ao disposto no art. 312 do CPP e está suficientemente fundamentada na garantia da ordem pública, haja vista a gravidade concreta da conduta delitiva, pois apreendido variada quantidade de droga e arma de fogo, em contexto de traficância.
+Sobre o tema, esta Corte entende "que o porte de arma ou munição, no contexto de tráfico de drogas, pode justificar a manutenção da prisão, por evidenciar a periculosidade do acusado e a necessidade da segregação como forma de acautelar a ordem pública" (AgRg no HC n. 921.106/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 13/11/2024, DJe de 18/11/2024).
+No mesmo sentido:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. TRÁFICO DE DROGAS, ASSOCIAÇÃO PARA O TRÁFICO E POSSE ILEGAL DE ARMA DE FOGO. GARANTIA DA ORDEM PÚBLICA. RECURSO IMPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu do habeas corpus, mantendo a prisão preventiva do agravante por tráfico de drogas, associação para o tráfico e posse ilegal de arma de fogo.
+2. A prisão preventiva foi decretada com base na apreensão de 92 comprimidos de ecstasy, 2.208 gramas de maconha, 25 gramas de cocaína, além de uma espingarda calibre 12 com 17 munições do mesmo calibre, um revólver calibre .38 com munições intactas, e uma espingarda 32 sem munição.
+3. O Tribunal de origem denegou a ordem de habeas corpus, destacando a gravidade concreta dos delitos e a elevada quantidade de drogas apreendidas, além de armas e munições.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a prisão preventiva do agravante é justificada pela presença dos requisitos do art. 312 do CPP.
+III. Razões de decidir
+5. A prisão preventiva está fundamentada na gravidade concreta do crime e na elevada quantidade de drogas apreendidas, justificando a necessidade de acautelar a ordem pública.
+6. A quantidade dos entorpecentes apreendidos e a apreensão de material bélico evidenciam a maior reprovabilidade do fato, servindo de fundamento para a prisão preventiva.
+7. A aplicação de medidas cautelares diversas da prisão é inviável, diante da gravidade concreta das condutas.
+IV. Dispositivo e tese
+8. Agravo regimental improvido.
+Tese de julgamento: "1. A quantidade e a diversidade dos entorpecentes apreendidos, aliados à apreensão de armas e munições, justificam a prisão preventiva para garantia da ordem pública. 2.
+Medidas cautelares diversas da prisão são insuficientes quando a prisão encontra fundamento na gravidade concreta da conduta".
+Dispositivos relevantes citados: CPP, art. 312; CPP, art. 319.
+Jurisprudência relevante citada: STJ, AgRg no HC 711.616/SP, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 22/02/2022;
+STJ, AgRg no HC 862.104/SC, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 27/11/2023.
+(AgRg no HC n. 984.432/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 9/4/2025, DJEN de 14/4/2025.)
+AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSO PENAL. TRÁFICO DE ENTORPECENTES. NULIDADE. INVASÃO DE DOMICÍLIO. PRESENÇA DE FUNDADAS RAZÕES PARA O INGRESSO. DENÚNCIAS PORMENORIZADAS. VISUALIZAÇÃO DAS DROGAS NO INTERIOR DA RESIDÊNCIA. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Supremo Tribunal Federal, por ocasião do julgamento do RE n. 603.616/RO, submetido à sistemática da repercussão geral, firmou o entendimento de que a "entrada forçada em domicílio sem mandado judicial só é lícita, mesmo em período noturno, quando amparada em fundadas razões, devidamente justificadas a posteriori, que indiquem que dentro da casa ocorre situação de flagrante delito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade, e de nulidade dos atos praticados".
+2. O Ministro Rogerio Schietti Cruz, ao discorrer acerca da controvérsia objeto desta irresignação no REsp n. 1.574.681/RS, bem destacou que "a ausência de justificativas e de elementos seguros a legitimar a ação dos agentes públicos, diante da discricionariedade policial na identificação de situações suspeitas relativas à ocorrência de tráfico de drogas, pode fragilizar e tornar írrito o direito à intimidade e à inviolabilidade domiciliar" (Sexta Turma, julgado em 20/4/2017, DJe 30/5/2017).
+3. No caso em exame, verifica-se não ter havido violação do art. 157 do Código de Processo Penal, porquanto destacaram as instâncias de origem que a residência do recorrente já era alvo de monitoramento, tendo em vista prévias denúncias relativas à prática do crime de tráfico de drogas no imóvel. Durante o monitoramento, os policiais militares observaram grande movimentação de usuários no local. Além disso, conseguiram visualizar porções de material tóxico em cima de um sofá.
+Desse modo, a atuação prévia da autoridade policial constatou haver fundadas suspeitas da ocorrência de crime no interior do imóvel, o que justificou a abordagem do réu e redundou na apreensão de entorpecentes. Tais as circunstâncias, a busca domiciliar obedeceu ao devido processo legal. Precedentes.
+4. A regra, em nosso ordenamento jurídico, é a liberdade. Assim, a prisão de natureza cautelar revela-se cabível tão somente quando, a par de indícios do cometimento do delito (fumus commissi delicti), estiver concretamente comprovada a existência do periculum libertatis, nos termos do art. 312 do Código de Processo Penal.
+5. No caso, o decreto de prisão preventiva teve como lastro para a segregação cautelar do agente a considerável quantidade e variedade de drogas apreendidas - a saber, 148 comprimidos de ecstasy; 117g (cento e dezessete gramas) de cocaína, 1 porção com 13g (treze gramas) de haxixe, 2 porções com 10g (dez gramas) de maconha, R$ 800,00 (oitocentos reais) em 8 notas de R$ 100,00 (cem reais) falsas, R$ 610,00 (seiscentos e dez reais) em notas diversas, apetrechos para o tráfico de drogas, tais como balança de precisão, faca com resquícios de drogas e rolo de embalagens) -, o que esta Corte tem admitido como fundamentação idônea para a decretação e manutenção da medida em razão da gravidade concreta da conduta.
+Precedentes.
+6. As condições subjetivas favoráveis do agravante, por si sós, não impedem a prisão cautelar, caso se verifiquem presentes os requisitos legais para a decretação da segregação provisória.
+7. De igual forma, as circunstâncias que envolvem o fato demonstram que outras medidas previstas no art. 319 do Código de Processo Penal não surtiriam o efeito almejado para a proteção da ordem pública, notadamente diante da gravidade concreta do delito em apreço.
+8. Agravo regimental a que se nega provimento.
+(AgRg no RHC n. 193.464/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 19/8/2024, DJe de 22/8/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO CONCRETA. GRAVIDADE CONCRETA DA CONDUTA. GARANTIA DA ORDEM PÚBLICA. PERICULOSIDADE DO AGENTE. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES DIVERSAS. INADEQUAÇÃO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A prisão preventiva é medida de natureza excepcional, justificada pela presença dos requisitos legais previstos no art. 312 do Código de Processo Penal, dentre eles a demonstração concreta da necessidade da custódia para garantia da ordem pública, com base em indícios de autoria e prova da materialidade delitiva.
+2. No caso, o agravante foi flagrado com 492g de maconha, além de balança de precisão, material para preparo e fracionamento da droga, e uma arma de fogo municiada, denotando o envolvimento estruturado com a atividade criminosa e evidenciando a periculosidade do agente.
+3. Conforme o entendimento do Supremo Tribunal Federal, "é idônea a prisão cautelar fundada na garantia da ordem pública quando revelada a periculosidade social do agente pela gravidade concreta da conduta". (HC 219565 AgR, Rel. Ministro Nunes Marques, Segunda Turma, julgado em 14/11/2022, DJe 23/11/2022).
+4. Condições subjetivas favoráveis ao agravante não são impeditivas à decretação da prisão cautelar, caso estejam presentes os requisitos autorizadores da referida segregação. Precedentes.
+5. Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando evidenciada a sua insuficiência para acautelar a ordem pública.
+6. Agravo regimental não provido.
+(AgRg no HC n. 1.001.657/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/6/2025, DJEN de 25/6/2025.)
+Ademais, consigne-se que é inviável a substituição da prisão preventiva por medidas cautelares diversas, pois a gravidade concreta da conduta delituosa indica que a ordem pública não estaria acautelada com a soltura dos recorrentes. Sobre o tema: AgRg no RHC n. 204.865/RJ, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/2/2025, DJEN de 24/2/2025; AgRg no HC n. 964.753/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do Tjsp), Sexta Turma, julgado em 26/2/2025, DJEN de 6/3/2025.
+Ante  o  exposto,  nego  provimento  ao  recurso  em  habeas  corpus .
+Publique-se.  Intimem-se.
+EMENTA
