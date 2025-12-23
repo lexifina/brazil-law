@@ -1,0 +1,23 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por PRESTES CONSTRUTORA E INCORPORADORA LTDA. contra decisão que inadmitiu recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional..
+Ação: de indenização por vícios construtivos, c/c compensação por danos morais, ajuizada por CLEUZA DE FATIMA PEREIRA, em face da agravante, na qual requer a reparação de danos materiais e a compensação por danos morais decorrentes de vícios construtivos em imóvel adquirido no âmbito do Programa Minha Casa Minha Vida.
+Acórdão: conheceu e negou provimento ao recurso de apelação interposto pela agravante, e conheceu e deu parcial provimento ao recurso adesivo interposto pela agravada, nos termos da seguinte ementa:
+RECURSO DE APELAÇÃO CÍVEL E RECURSO ADESIVO. AÇÃO DE INDENIZAÇÃO. VÍCIOS CONSTRUTIVOS. SENTENÇA QUE JULGOU PROCEDENTES OS PEDIDOS INICIAIS. PRELIMINAR DE CONTRARRAZÕES. PLEITO PELO NÃO CONHECIMENTO DO RECURSO DE APELAÇÃO CÍVEL QUANTO À TESE DE INAPLICABILIDADE DO CDC. NÃO ACOLHIMENTO. QUESTÃO QUE FOI APRECIADA PELO D. JUÍZO SINGULAR. RECURSO DE APELAÇÃO CÍVEL. PRELIMINAR. ALEGAÇÃO DE DECADÊNCIA /PRESCRIÇÃO. INOCORRÊNCIA. PRAZO PRESCRICIONAL DECENAL. ART. 205 DO CC. MÉRITO. PLEITO PELA INAPLICABILIDADE DO CDC. CONSTRUTORA QUE SE ENQUADRA COMO FORNECEDORA DE PRODUTOS E SERVIÇOS. ART. 12 DO CDC. PREVISÃO CONTRATUAL EXPRESSA. PRETENSÃO PELO AFASTAMENTO DO DANO MORAL OU, SUBSIDIARIAMENTE, PELA REDUÇÃO DO QUANTUM INDENIZATÓRIO. DANO MORAL CONFIGURADO. SITUAÇÃO QUE ULTRAPASSA O MERO DISSABOR. QUANTUM ESTABELECIDO EM R$ 5.000,00 (CINCO MIL REAIS) QUE SE MOSTRA PROPORCIONAL E RAZOÁVEL AS CIRCUNSTÂNCIAS DO CASO CONCRETO. MINORAÇÃO DESCABIDA. JULGADOS NESSE SENTIDO. RECURSO ADESIVO. PLEITO PELA MAJORAÇÃO DO DANO MORAL. NÃO ACOLHIMENTO. MONTANTE FIXADO QUE É CONDIZENTE COM AS CIRCUNSTÂNCIAS DO CASO. PLEITO PELA FIXAÇÃO DO TERMO INICIAL DOS JUROS DE MORA NA DATA DE CITAÇÃO. ACOLHIMENTO. RELAÇÃO CONTRATUAL. ART. 405 DO CC. PRECEDENTES. PEDIDO DE MAJORAÇÃO DOS HONORÁRIOS SUCUMBENCIAIS. IMPOSSIBILIDADE. PERCENTUAL FIXADO (10% SOBRE O VALOR DA CONDENAÇÃO) QUE ATENDE AO DETERMINADO NA LEGISLAÇÃO. ART. 85, §2º DO CPC. MAJORAÇÃO DESACOLHIDA. SENTENÇA PARCIALMENTE REFORMADA. MANUTENÇÃO DA DISTRIBUIÇÃO DO ÔNUS SUCUMBENCIAL. SUCUMBÊNCIA MÍNIMA. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. RECURSO DE APELAÇÃO CÍVEL CONHECIDO E DESPROVIDO. RECURSO ADESIVO CONHECIDO E PARCIALMENTE PROVIDO. (e-STJ fls. 850-851)
+Embargos de Declaração: opostos pela agravante, foram rejeitados.
+Decisão de admissibilidade do TJ/PR: inadmitiu o recurso especial em razão dos seguintes fundamentos:
+i) incidência da Súmula 283/STF (quanto à inovação recursal);
+ii) incidência da Súmula 284/STF (no tocante à alegada afronta à toda a Lei nº 11.977/2009, ao Código Civil e ao Código de Processo Civil, relativo à inaplicabilidade do Código de Defesa do Consumidor) e;
+iii) incidência da Súmula 284/STF - deixou de indicar o dispositivo legal violado (em relação à alegada inexistência de dano moral).
+Agravo em recurso especial: a parte agravante sustenta a inaplicabilidade das Súmulas 284 do STF e 7 do STJ. Requer o provimento do agravo para admitir o recurso especial, com julgamento de mérito pelo STJ.
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade dos seguintes óbices:
+i) incidência da Súmula 283/STF (quanto à inovação recursal);
+ii) incidência da Súmula 284/STF (no tocante à alegada afronta à toda a Lei nº 11.977/2009, ao Código Civil e ao Código de Processo Civil, relativo à inaplicabilidade do Código de Defesa do Consumidor) e;
+iii) incidência da Súmula 284/STF - deixou de indicar o dispositivo legal violado (em relação à alegada inexistência de dano moral).
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 5% os honorários fixados anteriormente, observada eventual gratuidade de justiça deferida.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+a
