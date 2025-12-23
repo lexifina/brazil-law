@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado (fls. 274/296, e-STJ):
+APELAÇÃO E ADESIVO - BANCÁRIOS - Ação de obrigação de fazer c.c. indenização por danos morais, pela qual a autora alega bloqueio indevido em sua conta bancária mantida junto à instituição financeira ré. Sentença de parcial procedência, determinando-se a reativação da conta, e fixando-se indenização por danos morais no importe de R$ 8 mil Recursos da autora e do réu.
+BLOQUEIO DE CONTA - Relação consumerista - Ônus de prova da plataforma a comprovar os motivos para o bloqueio havido - Suspensão imotivada da conta da autora junto à plataforma - Ausência de Comunicação prévia à consumidora oportunizando defesa e contraditório - Não comprovação pelo réu do alegado comportamento inadequado ou em desacordo com termos contratuais - Retenção indevida do valor pertencente à autora - Falha na prestação de serviço configurada - Obrigação de desbloquear a conta devidamente reconhecida na sentença.
+DANOS MORAIS - Verificados - Falha na prestação de serviço e no dever de informação que extrapolam o mero dissabor e aborrecimento cotidiano - Autora, gestante de cinco meses, que ficou privada de seus rendimentos como autônoma durante período de festas de final de ano - Indenização fixada em R$ 8 mil Minoração pleiteada pelo réu, e majoração ao importe de R$ 60 mil pleiteado pela autora - Não cabimento - Valor arbitrado na origem que observa os princípios da razoabilidade e proporcionalidade.
+ÔNUS DA SUCUMBÊNCIA - Ajustada a r. sentença ao fixá-lo integralmente em face do réu - Indenização por danos morais fixada em valor abaixo do pleiteado que não implica sucumbência recíproca - Inteligência da súmula 326, C. STJ.
+HONORÁRIOS ADVOCATÍCIOS - Fixação por apreciação equitativa, em R$ 1.412,00 - inteligência do art. 85, § 8º, CPC - Inaplicabilidade do §8º-A, do art. 85, do CPC/15.
+SENTENÇA MANTIDA - Recursos desprovidos, com majoração de honorários.
+Em suas razões recursais, o recorrente sustenta violação ao artigo 85, §§ 8º e 8º-A, do Código de Processo Civil, pois os honorários fixados por equidade não respeitaram a Tabela de Honorários da OAB.
+A recorrida, devidamente intimada, não se manifestou.
+Assim posta a questão, passo a decidir.
+Presentes os pressupostos de admissibilidade e ultrapassado o limite do conhecimento do presente recurso, verifico que não deve ser provido.
+Quanto à violação ao art. 85, §§ 8º e 8º-A, do CPC, cinge-se a controvérsia à fixação dos honorários de sucumbência por equidade e o respeito à tabela de honorários da OAB.
+A ação de reparação de danos ajuizada pela recorrente foi julgada procedente. Condenou-se a recorrida ao pagamento de indenização por danos morais no valor de R$ 8.000,00, em favor da recorrente. Quanto aos honorários de sucumbência, foram fixados em R$ 1.412,00, nos termos do artigo 85, § 8º-A, do Código de Processo Civil.
+O Tribunal de origem utilizou o critério da equidade para o arbitramento dos honorários. No caso, contudo, não há previsão legal para tanto. O Tema 1.076/STJ tampouco autoriza a fixação com base na equidade.
+O artigo 85, § 8º, do CPC, limita a fixação dos honorários de sucumbência por equidade, "nas causas em que for inestimável ou irrisório o proveito econômico ou, ainda, quando o valor da causa for muito baixo". O Tema 1.076/STJ também estabelece:
+"ii) Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo" (REsp n. 1.906.623/SP, relator Ministro Og Fernandes, Corte Especial, julgado em 16/3/2022, DJe de 31/5/2022).
+Portanto, fixado o valor da condenação, essa deveria ser a base de cálculo para a fixação de honorários de sucumbência, nos termos do art. 85, § 2º, do CPC. Dessa forma, se nem ao menos caberia a fixação de honorários de sucumbência por equidade, por óbvio não é cabível a majoração dos honorários. Sabe-se que "( ) a condenação da exequente ao pagamento de honorários não pode ser afastada em virtude do princípio non reformatio in pejus. Contudo, não há falar em modificação de sua base de cálculo" (AgInt no REsp n. 2.106.012/MG, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 18/11/2024, DJe de 22/11/2024).
+Portanto, não existem razões para o arbitramento de verbas sucumbenciais de forma diversa da fixada pelas instâncias ordinárias.
+Em face do exposto, nego provimento ao recurso especial.
+Intimem-se.
+EMENTA
