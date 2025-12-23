@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de RAFAEL ALVES FERREIRA - na execução da condenação à pena de 16 anos, 3 meses e 22 dias de reclusão, em razão da condenação por receptação simples, roubo circunstanciado e por integrar organização criminosa armada -, apontando-se como ato coator o acórdão proferido pelo Tribunal de Justiça de Minas Gerais (fls. 9/17 - Agravo em Execução Penal n. 1.0000.23.268740-0/004).
+A impetração busca a concessão de comutação do Decreto n. 12.338/2024 - referente à Execução n. 0011210-75.2016.8.07.0015 (fls. 27/28, da Vara de Execução Penal em Meio Fechado e Semiaberto da comarca de Ribeirão das Neves/MG) -, aos argumentos de cumprimento de 2/3 do crime impeditivo, suficiente para iniciar a contagem do crime não impeditivo (fls. 5/6); e de desnecessidade de cumprimento integral da pena do crime impeditivo e de cômputo sucessivo apenas após sua integralidade (fls. 6/8).
+Sem pedido liminar.
+É o relatório.
+O writ é inadmissível, uma vez que se trata de medida substitutiva de recurso próprio, o que afasta a competência desta Corte Superior para análise do pleito (AgRg no HC n. 978.148/SP, Ministro Og Fernandes, Sexta Turma, DJEN de 7/7/2025), e não se verifica a ocorrência de flagrante constrangimento ilegal apto a subsidiar a superação do óbice, pois o Tribunal estadual, no julgamento do agravo em execução penal, afastou a alegação de cumprimento suficiente dos requisitos objetivos para comutação, ao fundamento de que o Decreto n. 12.338/2024 impõe o cumprimento autônomo e sucessivo das frações mínimas relativas aos crimes impeditivos e não impeditivos - art. 7º, parágrafo único, e art. 13, constatando que, embora atingidos 2/3 do crime impeditivo, não foi cumprido 1/4 da pena do crime comum (fls. 14/15), em consonância com a literalidade do decreto presidencial e o entendimento desta Corte (HC n. 1.054.444, Ministro Og Fernandes, DJEN de 18/12/2025; e HC n. 1.043.807, Ministro Joel Ilan Paciornik, DJEN de 11/12/2025).
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+EXECUÇÃO PENAL. HABEAS CORPUS. COMUTAÇÃO. NECESSIDADE DE CUMPRIMENTO AUTÔNOMO E SUCESSIVO DAS FRAÇÕES DOS CRIMES IMPEDITIVOS E NÃO IMPEDITIVOS. VEDAÇÃO DO CÔMPUTO GLOBAL. INDEFERIMENTO FUNDAMENTADO. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL MANIFESTO.
+Inicial indeferida liminarmente.
