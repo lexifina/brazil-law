@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ELENILDO SOUZA DOS SANTOS contra decisão de fls. 443-450 (e-STJ) que conheceu do agravo para conhecer em parte do recurso especial e, nesta extensão, negar-lhe provimento.
+Neste recurso, o embargante sustenta omissão na decisão embargada, quanto à tese de aplicação da teoria do esquecimento, diante do argumento da defesa de que "as condenações cujas penas foram extintas há mais de 10 anos antes da prática do falso testemunho não podem ser valoradas como circunstância desfavorável na primeira fase da dosimetria, diante do princípio da proporcionalidade e do direito ao esquecimento" (e-STJ, fl. 456).
+Para tanto, cita, ainda, julgados desta Corte Superior a respeito do tema, e alega obscuridade no decisum, por entender que não teria esclarecido "se houve  ou não  cumprimento dos requisitos formais de demonstração do dissídio jurisprudencial, ou se a negativa está relacionada a uma discordância sobre o mérito da tese" (e-STJ, fl. 460).
+Pleiteia, assim, o acolhimento dos embargos declaratórios para sanar o vício apontado.
+O Ministério Público do Estado de São Paulo, às fls. 473-476 (e-STJ), manifestou-se pelo desacolhimento dos embargos declarat órios.
+É o relatório.
+Decido.
+Os embargos merecem ser acolhidos.
+Consoante disposto no art. 619 do Código de Processo Penal, os embargos de declaração, como recurso de correção, destinam-se a suprir omissão, contradição, ambiguidade ou obscuridade existente em julgado.
+No mesmo sentido, esta Corte possui entendimento de que "são cabíveis embargos declaratórios quando houver, na decisão embargada, contradição, omissão ou obscuridade a ser sanada. Podem também ser admitidos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e pela jurisprudência, sendo possível, excepcionalmente, a alteração ou modificação do decisum embargado" (EDcl no AgRg no RHC n. 163.279/RS, relator Ministro Jesuíno Rissato (desembargador Convocado do Tjdft), Quinta Turma, DJe de 30/5/2022).
+Segundo constou na decisão embargada (e-STJ, fls. 449-450):
+"Já em relação à alegada inidoneidade das condenações pretéritas (uma pelo tráfico de drogas e outra por roubo duplamente majorado, cujas penas haviam sido extintas desde 2007, dez anos antes da suposta prática do falso testemunho) para elevar a pena na primeira fase da sua dosimetria, o pleito do recorrente também não procede.
+É que, como já consignado em outros julgados deste Tribunal, "A jurisprudência desta Corte é firme no sentido de que as condenações criminais alcançadas pelo período depurador de 5 anos, previsto no art. 64, inciso I, do Código Penal, afastam os efeitos da reincidência, contudo, não impedem a configuração de maus antecedentes. Ademais, o Plenário do Supremo Tribunal Federal, no julgamento do RE 593.818/SC (Relator Ministro ROBERTO BARROSO, Tribunal Pleno, D Je 31/8/2020), em regime de repercussão geral, firmou tese no sentido de que não se aplica para o reconhecimento dos maus antecedentes o prazo quinquenal de prescrição da reincidência, previsto no art. 64, I, do Código Penal" (AgRg no HC n. 908.220/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/11/2024, D Je de 18/11/2024.)
+Ainda, "Por ocasião do julgamento do RE n. 593.818/SC, com repercussão geral reconhecida, o Supremo Tribunal Federal decidiu que: ""Não se aplica ao reconhecimento dos maus antecedentes o prazo quinquenal de prescrição da reincidência, previsto no art. 64, I, do Código Penal"." (AgRg no R Esp n. 2.044.827/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 2/9/2024, D Je de 4/9/2024)."
+Inicialmente, cabe registrar que não há obscuridade na decisão embargada, porquanto a tese jurídica - direito à teoria do esquecimento, em relação aos maus antecedentes - não foi apreciada pela Corte local, malgrado a oposição, na origem, de embargos de declaração. Desse modo, fica esta Corte Superior impossibilitada de examinar a matéria, pois ausente o necessário prequestionamento.
+Nesse sentido, com destaques:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO. DOSIMETRIA. ANTECEDENTES. DIREITO AO ESQUECIMENTO. INOVAÇÃO RECURSAL. PREQUESTIONAMENTO INEXISTENTE. MAUS ANTECEDENTES. PERÍODO DEPURADOR. NÃO APLICÁVEL. FRAÇÃO DE AUMENTO. PROPORCIONAL. DETRAÇÃO. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+1. É incabível a inovação recursal em sede de agravo regimental, vedada pela preclusão consumativa.
+2. A instância anterior não apreciou a tese de incidência da teoria do esquecimento aos antecedentes penais, inviabilizando a análise nesta oportunidade, ante a falta do devido prequestionamento.
+3. A individualização da pena é uma atividade na qual o julgador está vinculado a parâmetros abstratamente cominados pela lei, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada.
+4. É firme a jurisprudência desta Corte Superior no sentido de que "não existe critério matemático obrigatório para a fixação da pena-base. Pode o magistrado, consoante a sua discricionariedade motivada, aplicar a sanção básica necessária e suficiente à repressão e prevenção do delito, pois as infinitas variações do comportamento humano não se submetem, invariavelmente, a uma fração exata na primeira fase da dosimetria" (AgRg no HC 563.715/RO, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 15/9/2020, DJe 21/9/2020).
+5. Considerando a presença de sete condenações anteriores, utilizadas para a valoração dos antecedentes penais, não se mostra desproporcional a elevação da pena-base em 1/2 (metade).
+6. Irrelevante a detração do período de prisão cautelar, nos termos do art. 387, § 2º, do CPP, considerando que o regime prisional mais gravoso foi estabelecido em virtude dos antecedentes do agravante.
+7. Agravo regimental parcialmente conhecido e, nessa extensão, desprovido."
+(AgRg no AREsp n. 2.481.141/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 19/3/2024, DJe de 5/4/2024.)
+"DIREITO PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO. ACORDO DE COLABORAÇÃO PREMIADA. COMPETÊNCIA. DOSIMETRIA DA PENA. REGIME INICIAL. EMBARGOS PARCIALMENTE ACOLHIDOS PARA CORREÇÃO DE ERRO
+MATERIAL.
+ ..
+9. A ausência de prequestionamento impede a análise das teses defensivas relativas ao dolo específico e à nulidade do acordo de colaboração premiada, conforme a Súmula 211/STJ.
+10. Não compete ao Superior Tribunal de Justiça examinar dispositivos constitucionais para fins de prequestionamento, sob pena de usurpação da competência do Supremo Tribunal Federal.
+IV. Dispositivo e tese
+11. Resultado do Julgamento: Embargos de declaração parcialmente acolhidos para correção de erro material.
+Teses de julgamento:
+1. A ausência de prequestionamento específico impede a análise de teses defensivas em sede de recurso especial.
+2. Constatada a suficiência de provas para a condenação, o pleito absolutório esbarra no óbice da Sumula n. 7/STJ.
+3. A fixação de regime inicial mais gravoso é admissível quando presentes circunstâncias judiciais negativas, ainda que em número reduzido.
+4. A reavaliação da dosimetria da pena pelo STJ somente é possível em casos de flagrante desproporcionalidade.
+5. Não compete ao Superior Tribunal de Justiça examinar dispositivos constitucionais para fins de prequestionamento, sob pena de usurpação da competência do Supremo Tribunal Federal.
+Dispositivos relevantes citados: CPP, arts. 28-A, 619; CPC, art. 1.022; Súmula 211/STJ; Súmula 7/STJ.
+Jurisprudência relevante citada: STJ, AgRg no REsp n. 2.051.812/SP, Rel. Min. Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 27/8/2025, DJEN de 1/9/2025."
+(EDcl no AREsp n. 2.852.274/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 21/10/2025, DJEN de 28/10/2025.)
+Por outro lado, verifica-se das razões do recurso especial (e-STJ, fls. 88-89), que a defesa apontou ofensa ao art. 619 do Código de Processo Penal, aduzindo omissão do acórdão recorrido quanto à análise da tese, mesmo após a oposição de embargos (e-STJ, fls. 64-72).
+A análise do acórdão recorrido revela que, apesar de ter enfrentado a questão relativa à possibilidade de se considerar condenações transitadas em julgado há mais de 5 anos como maus antecedentes, a Corte de origem permaneceu silente quanto ao pedido de reconhecimento da teoria do esquecimento, aos antecedentes penais cujas penas teriam sido extintas há mais de 10 anos.
+O embargante suscitou essa questão de forma clara nos embargos de declaração, buscando manifestação expressa do Tribunal sobre a viabilidade da tese. No entanto, a decisão embargada não se pronunciou sobre o tema, configurando violação ao artigo 619 do Código de Processo Penal.
+A ausência de fundamentação sobre ponto essencial da controvérsia impede o adequado exame da matéria pelo Superior Tribunal de Justiça, sob pena de supressão de instância. A jurisprudência pacífica desta Corte exige que a instância ordinária analise as teses defensivas de forma fundamentada, especialmente aquelas que podem impactar significativamente a pena imposta ao réu.
+No caso, eventual reconhecimento do direito ao esquecimento pode resultar em modificação da reprimenda, circunstância que deveria ter sido apreciada pelo Tribunal de origem. Ao não fazê-lo, restou configurada negativa de prestação jurisdicional, impondo-se a anulação do acórdão proferido nos embargos de declaração para que a matéria seja devidamente examinada.
+Ante o exposto, acolho os embargos de declaração, a fim de declarar nulo o acórdão proferido no julgamento dos Embargos de Declaração Criminal n. 2124739-74.2024.8.26.0000/50000, determinando-se ao Tribunal de origem que aprecie, fundamentadamente, a tese apresentada pelo embargante, quanto à teoria do direito ao esquecimento, quando as condenações utilizadas se tornaram definitivas há mais de 10 anos.
+Publique-se. Intimem-se.
+EMENTA
