@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de WALLACY LUA ALVES BORBA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL.
+Narra a defesa que em 20/05/2025, o paciente foi preso em flagrante pela suposta prática de delito de tráfico de drogas e associação para o tráfico. O juízo a quo concedeu liberdade provisória. Irresignado, o Ministerio Público interpôs Recurso em Sentido Estrito. Foi prolatada decisão monocrática decretando-se a prisão preventiva do paciente. Dessa decisão foi manejado o agravo interno. O acórdão ora combatido corrigiu o suposto erro material da relatora e, no mérito, manteve a prisão decretada, desprovendo o agravo interno.
+No presente writ, a Defesa alega a existência de constrangimento ilegal consubstanciado no encarceramento provisório determinado em desfavor da paciente.
+Sustenta a ocorrência de cerceamento de defesa.
+Aduz que "Surpreendentemente, foi prolatada decisão monocrática (evento 10 do RSE em segundo grau, em anexo), decretando-se a prisão preventiva do paciente, sem que haja fundamento legal ou regimental para tanto e, ainda, com base em circunstância não submetida a contraditório" (fl. 4).
+Argumenta que "Não bastasse tal ilegalidade, verifica-se, ainda, que a relatora utilizou como principal fundamento para a decretação da prisão preventiva do paciente circunstância ocorrida após a apresentação de contrarrazões por esta defesa, qual seja, a prisão em flagrante do paciente - ocorrida dentro de sua casa, na companhia da namorada e com quantidade compatível com uso compartilhado" (fl. 6).
+Requer a revogação da decisão que decretou a segregação cautelar e, subsidiariamente, a aplicação de medidas cautelares alternativas à prisão.
+Pedido de liminar indeferido às fls. 159-161.
+Informações prestadas às fls. 167-184. Juntada de petição às fls. 200-202.
+O Ministério Público Federal, às fls. 188-197, manifestou-se "pelo não conhecimento do habeas corpus".
+É o relatório. DECIDO.
+Primeiramente, acerca da ocorrência de cerceamento de defesa, não assiste razão a defesa, uma vez que o Tribunal a quo manifestou que:
+"O Ministério Público interpôs recurso em sentido estrito contra a decisão que concedeu liberdade provisória a Maicon William da Conceicao e Wallacy Lua Alves Borba. Instada esta Corte a revisar tal pronunciamento judicial, a defesa apresentou contrarrazões, sendo oportunamente ouvida no regular trâmite do recurso .. Ressalta-se, ainda, que a própria defesa teve a oportunidade de impugnar a decisão monocrática por intermédio do presente agravo interno, exercendo plenamente o contraditório e a ampla defesa."- fl. 147.
+Da análise do acórdão objurgado que deu provimento ao recurso ministerial para decretar a prisão preventiva do paciente, permite a conclusão de que a prisão cautelar impo sta encontra-se devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório, notadamente se considerado o fundado receio de reiteração criminosa, uma vez que o paciente pouco menos de um mês após a sua soltura, ocorrida em 21/05/2025 voltou a reincidir, sendo preso em flagrante em 12/06/2025 pela suposta prática do crime de tráfico de drogas, circunstância ensejadora da manutenão da segregação cautelar.
+Conforme pacífica jurisprudência desta Corte:
+"como sedimentado em farta jurisprudência desta Corte, maus antecedentes, reincidência ou até mesmo outras ações penais ou inquéritos em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública" (RHC n. 156.048/SC, Rel. Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 15/02/2022, DJe 18/02/2022)."(AgRg no RHC n. 196.193/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1/7/2024, DJe de 3/7/2024.)
+Outrossim, conforme a jurisprudência desta Corte, a contumácia delitiva justifica a prisão cautelar para a garantia da ordem pública. Nesse sentido: AgRg no HC n. 910.540/CE, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 3/7/2024; AgRg no HC n. 902.557/SP, Sexta Turma; Rel. Min. Antonio Saldanha Palheiro, DJe de 3/7/2024 e AgRg no HC n. 912.267/MG, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 28/6/2024.
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Ante o exposto, denego o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
