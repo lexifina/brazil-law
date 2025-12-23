@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto por Espólio de Alidor Bornhofen, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal (CF), no qual se insurge contra o acórdão do Tribunal Regional Federal da 4ª Região (TRF4) assim ementado (fl. 177):
+PREVIDENCIÁRIO. AUXÍLIO SUPLEMENTAR. PERCENTUAL. LEI 9.032/1995. IRRETROATIVIDADE.
+Em respeito ao princípio tempus regit actum, o auxílio suplementar, no percentual de 20% do valor de que trata o inciso II do art. 5º da Lei 6.367/1976, não pode ser elevado para 50% em face das alterações introduzidas pela Lei 9.032/1995 no tocante ao auxílio-acidente.
+Incidência da orientação traçada pelo Plenário do Supremo Tribunal Federal, contrária à pretensão, quando do julgamento dos Recursos Extraordinários 416.827-8 e 415.454-4.
+Não foram opostos embargos de declaração.
+A parte recorrente alega violação dos arts. 29, § 2º, e 86, § 1º, da Lei 8.213/1991, sustentando que o acórdão de origem desconsiderou a garantia legal de que o salário-de-benefício não pode ser inferior a um salário mínimo, o que implica que o auxílio-acidente não pode ser inferior a meio salário mínimo.
+Sustenta ofensa ao princípio da dignidade da pessoa humana, no sentido de que benefício previdenciário pago em valor inferior a meio salário mínimo afronta a proteção constitucional mínima ao segurado.
+Aponta divergência jurisprudencial, afirmando que a lei nova mais benéfica se aplica de imediato às relações jurídicas continuativas, inclusive para readequar o percentual e assegurar a base mínima do salário-de-benefício.
+Argumenta que o Tribunal de origem restringiu-se ao princípio tempus regit actum e ignorou a natureza continuativa da relação e a aplicação do art. 29, § 2º, da Lei 8.213/1991 ao cálculo da base mínima do salário-de-benefício para fins de incidência do percentual do auxílio-acidente, o que viola a legislação federal e a jurisprudência do STJ (fls. 186/190).
+Não foram apresentadas contrarrazões (fls. 195 e 197).
+O recurso foi admitido (fl. 200).
+É o relatório.
+Na origem, cuida-se de ação previdenciária, em que a parte autora busca a revisão do auxílio-acidente para assegurar que o valor não seja inferior a meio salário mínimo.
+A sentença concluiu pela aplicação da legislação vigente à época da concessão do benefício (Lei 6.367/1976), afirmando que a base de cálculo do auxílio suplementar percebido pelo falecido deve levar em conta os parâmetros estabelecidos na época da sua concessão, pois a legislação de regência, na época, não previa a vinculação ao salário mínimo, sendo inócua a pretensão de revisão do benefício por eventual afronta ao disposto no art. 86, §1º da Lei 8.213/1991. Com isso, julgou improcedentes os pedidos e declarou a isenção de custas e sucumbência, na forma do art. 129, parágrafo único, da Lei 8.213/1991.
+O Tribunal Regional Federal da 4ª Região negou provimento à apelação do autor, mantendo integralmente a sentença, pois o evento gerador ocorreu em 1980, impondo a aplicação da Lei 6.367/1976, cujo art. 9º fixava o auxílio-suplementar em 20% do valor de que trata o inciso II do artigo 5º desta lei. Assentou, ainda, a irretroatividade da Lei 9.032/1995 e aplicou o princípio tempus regit actum, à luz da orientação do Plenário do Supremo Tribunal Federal firmada nos Recursos Extraordinários 416.827-8 e 415.454-4.
+O recurso especial devolve a esta Corte Superior as seguintes questões: (a) violação do art. 29, §2º, da Lei 8.213/1991, sob o argumento de que o salário-de-benefício não pode ser inferior a um salário mínimo, com repercussão no cálculo do auxílio-acidente; (b) violação do art. 86, §1º, da Lei 8.213/1991, pela necessidade de observar o percentual de 50% do salário-de-benefício e assegurar valor não inferior a meio salário mínimo; (c) divergência jurisprudencial quanto à aplicação da lei mais benéfica e ao piso do salário-de-benefício em benefícios de natureza indenizatória; (d) aplicação imediata de lei mais benéfica em relações jurídicas continuativas, com possibilidade de revisão de benefícios concedidos antes da Lei 9.032/1995; (e) afronta ao princípio da dignidade da pessoa humana, por admitir pagamento inferior a meio salário mínimo.
+No entanto, a pretensão da parte autora não pode prosperar.
+Em que pese o teor da tese fixada no Tema 18/STJ, a orientação que veio a se consolidar nessa Corte Superior, consoante o quanto pacificado no Supremo Tribunal Federal, é a de que não se aplica retroativamente a majoração prevista na Lei 9.032/95 aos benefícios de auxílio-acidente concedidos anteriormente à vigência deste diploma.
+Nesse sentido:
+PROCESSUAL CIVIL. AUXÍLIO-ACIDENTE. MAJORAÇÃO DO PERCENTUAL. LEI 9.032/1995. REPERCUSSÃO GERAL RECONHECIDA PELO SUPREMO TRIBUNAL FEDERAL.
+1. O Superior Tribunal de Justiça acolheu a tese adotada pela Suprema Corte, por ocasião do julgamento do RE 613.033/SP, de relatoria do Ministro Dias Toffoli, publicado no DJe de 9.6.2011, que reconheceu a repercussão geral da questão constitucional nele suscitada e, no mérito, consolidou o entendimento acerca da impossibilidade de aplicação retroativa da majoração prevista na Lei 9.032/1995 aos benefícios concedidos em data anterior à vigência da respectiva norma.
+2. Recurso Especial provido.
+(REsp n. 1.565.466/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 24/11/2015, DJe de 4/2/2016.)
+PREVIDENCIÁRIO. RECURSO ESPECIAL. AUXÍLIO-ACIDENTE. MAJORAÇÃO DO BENEFÍCIO. CUMULAÇÃO COM APOSENTADORIA.
+1. O Supremo Tribunal Federal, no julgamento do RE nº 613.033, SP, relator o Ministro Dias Toffoli, decidiu, com repercussão geral, no sentido da impossibilidade de aplicação retroativa da majoração prevista na Lei nº 9.032, de 1995, aos benefícios de auxílio-acidente concedidos em data anterior à vigência da respectiva norma.
+2. A Primeira Seção do Superior Tribunal de Justiça, no julgamento do REsp nº 1.296.673, MG, reafirmou sua jurisprudência no sentido de que a cumulação de auxílio-acidente com aposentadoria é devida quando a lesão incapacitante e o início da aposentadoria forem anteriores à alteração do art. 86, §§ 2º e 3º, da Lei nº 8.213, de 1991, promovida pela Lei nº 9.528, de 1997.
+Recurso especial do segurado não provido. Recurso especial do Instituto Nacional do Seguro Social provido.
+(REsp n. 1.316.374/RS, relator Ministro Ari Pargendler, Primeira Turma, julgado em 2/9/2014, DJe de 10/9/2014.)
+Do precedente citado adveio o Tema 388/STF, "É inviável a aplicação retroativa da majoração prevista na Lei nº 9.032/1995 aos benefícios de auxílio-acidente concedidos em data anterior à sua vigência".
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
