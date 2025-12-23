@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de agravo interposto por ODAIR DONIZETE RIBEIRO contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fls. 79)
+EMBARGOS DE TERCEIRO - PRETENSÃO À RETOMADA DE BEM MÓVEL  VEÍCULO AUTOMOTOR  EMBARGANTE QUE DEFENDE SER A LEGÍTIMA PROPRIETÁRIA DO BEM OBJETO DA PRESENTE DEMANDA  ADUZ QUE A APREENSÃO DO BEM MÓVEL EM COMENTO É ILEGÍTIMA  PUGNA PELA SUA DESCONSTITUIÇÃO  SENTENÇA DE IMPROCEDÊNCIA  APELO DA EMBARGANTE  CABIMENTO  ÔNUS DA PROVA DO EXEQUENTE  AUSÊNCIA DE PROVA CABAL DE QUE O EXECUTADO É VERDADEIRO POSSUIDOR DO BEM MÓVEL OBJETO DESTA DEMANDA  ELEMENTOS COLACIONADOS AOS AUTOS INCAPAZES DE INFIRMAR, CABALMENTE, QUE A EMBARGANTE É LEGÍTIMA POSSUIDORA DO VEÍCULO AUTOMOTOR EM COMENTO  ELEMENTOS SUFICIENTES A ACOLHER AS ALEGAÇÕES DO TERCEIRO EMBARGANTE  NECESSÁRIA REFORMA DA R. DECISÃO AGRAVADA  PENHORA DE VEÍCULO DE PROPRIEDADE DE TERCEIRO ESTRANHO À LIDE, CONSIDERANDO AS PECULIARIDADES DO CASO CONCRETO  CARÊNCIA DE PROVAS HÁBEIS A COMPROVAR AQUISIÇÃO FRAUDULENTA DO VEÍCULO PELO EXECUTADO  AUSENTE PROVA SEGURA A EMBASAR E LEGITIMAR PENHORA QUE RECAIA SOBRE O BEM MÓVEL INDICADO  MÁ-FÉ QUE NÃO SE PRESUME  LEVANTAMENTO DA CONSTRIÇÃO DO AUTOMÓVEL QUE DEVE SER DETERMINADA NA PRESENTE OPORTUNIDADE  SENTENÇA REFORMADA PARA JULGAR PROCEDENTES OS EMBARGOS OPOSTOS  RECURSO PROVIDO.
+Sem embargos de declaração.
+No recurso especial, alega, preliminarmente, ofensa ao art. 1.022, do CPC, sem, contudo, especificar de forma clara os pontos omitidos.
+Aponta violação do art. 1.267 do Código Civil, afirmando que "a propriedade das coisas não se transfere pelos negócios jurídicos antes da tradição", que "o domínio de bens móveis se transfere pela tradição", e que a indicação do nome da apelante no registro do veículo "por si, não é prova suficiente de que exercia o domínio do veículo" (fls. 95-96), com citação de precedentes para reforço da tese.
+Foram oferecidas contrarrazões ao recurso especial (fls. 103-110).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 111-112), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 133-136).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+De início, verifica-se que quanto a alegada ofensa ao art. 1.022, II, do CPC a parte não especificou a suposta omissão do acórdão, mas apenas alegou genericamente a negativa de prestação. Assim, é inviável o conhecimento do Recurso Especial nesse ponto, ante o óbice da Súmula 284/STF.
+Ademais, da análise do acórdão recorrido, observa-se que o Tribunal de origem, ao dar provimento à apelação, limitou-se a consignar a ausência de prova segura da propriedade do executado sobre o veículo, a distribuição do ônus da prova ao exequente, a vedação da presunção de má-fé e a proteção ao direito de propriedade (fls. 81-83), sem abordar a questão de que a tradição é o modo de transferência do domínio de bens móveis, nos termos do art. 1.267 do Código Civil, e sem enfrentar a apontada violação ao art. 1.022 do Código de Processo Civil.
+Com efeito, verifica-se que a Corte de origem não analisou, sequer implicitamente, o art. 1.267 do Código Civil e a tese da tradição como fundamento impeditivo da penhora do bem móvel, tampouco apreciou, de modo específico, a alegada violação ao art. 1.022 do Código de Processo Civil.
+Logo, não foi cumprido o necessário e indispensável exame da questão pela decisão atacada, apto a viabilizar a pretensão recursal da recorrente. Assim, incide, no caso, o enunciado das Súmulas n. 282 e 356 do excelso Supremo Tribunal Federal.
+Súmula 282: "É inadmissível o Recurso Extraordinário, quando não ventilada, na decisão recorrida a questão federal suscitada".
+Súmula 356: "O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento".
+Nesse sentido:
+1. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 e 356 do STF.
+(AgInt nos EDcl no AREsp n. 2.611.383/AL, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJEN de 28/2/2025.)
+1. A falta de prequestionamento da matéria suscitada no recurso especial impede seu conhecimento, a teor da Súmula nº 282/STF, aplicada por analogia.
+(AgInt no AgInt no AREsp n. 2.604.963/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 20/12/2024.)
+Por seu turno, se a recorrente entendesse existir alguma eiva no acórdão impugnado, ainda que a questão federal tenha surgido somente no julgamento perante o Tribunal a quo , deveria ter oposto embargos declaratórios, a fim de que fosse suprida a exigência do prequestionamento e viabilizado o conhecimento do recurso em relação aos referidos dispositivos legais e, caso persistisse tal omissão, imprescindível a alegação devidamente fundamentada de violação do art. 1.022 do CPC, quando da interposição do recurso especial com fundamento na alínea "a" do inciso III do art. 105 da Constituição Federal, sob pena de incidir no intransponível óbice da ausência de prequestionamento.
+A propósito:
+1. O recurso especial não comporta conhecimento por ausência de prequestionamento dos dispositivos legais mencionados (artigos 47 e 54 do CDC, artigo 129 do Código Civil). O acórdão recorrido não analisou explicitamente tais dispositivos, e os agravantes não indicaram violação do art. 1.022 do CPC, o que inviabiliza o conhecimento do recurso especial, aplicando-se as Súmulas n. 211 do STJ e 282 do STF.
+(AgInt no REsp n. 2.114.449/SP, relator Ministro João Otávio de Noronha, Quarta Turma, DJe de 6/11/2024.)
+2. A questão referente à ofensa ao princípio do devido processo legal não foi debatida pelas instâncias ordinárias, não havendo, portanto, o devido prequestionamento, tampouco arguiu-se ofensa ao art. 1.022 do CPC/2015, o que atrai o óbice das Súmulas 282/STF e 211/STJ.
+(REsp n. 1.931.087/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 26/10/2023.)
+2. A matéria referente à impenhorabilidade do valor poupado até o total de 40 salários mínimos não foi apreciada pelo Tribunal de origem, sendo certo que a parte agravante não apontou violação ao art. 1.022 do CPC nas razões do recurso especial. Assim, não houve o devido prequestionamento da matéria, ensejando o não conhecimento do recurso, no ponto, por força das Súmulas 282 e 356 do STF.
+(AgInt no REsp n. 2.061.290/SP, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 23/8/2023.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 15%, sobre o valor da causa.
+Publique-se. Intime-se.
+ EMENTA
