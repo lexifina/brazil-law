@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto por Paula Maria Carneiro Costa, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do Tribunal de Justiça do Estado do Tocantins assim ementado (fls. 421/422):
+"EMENTA: APELAÇÃO CÍVEL. DIREITO ADMINISTRATIVO. PROMOÇÃO MILITAR. PRESCRIÇÃO DO FUNDO DE DIREITO. DECRETO Nº 20.910/32. PRAZO QUINQUENAL. LEI Nº 2.578/2012. PRESCRIÇÃO CONSUMADA. RECURSO CONHECIDO E NÃO PROVIDO.
+1. De acordo com o art. 1º do Decreto nº 20.910/32, todos os direitos ou ações contra a Fazenda Pública prescrevem em cinco anos a partir da data do ato, ou fato que os originou.
+2. O Superior Tribunal de Justiça entende que a data de entrada em vigor da lei que retirou o direito dos militares é o marco inicial para a contagem do prazo prescricional (STJ - AgInt no REsp: 1723929 BA).
+3. A supressão de vantagem a servidor público caracteriza ato comissivo da Administração Pública, e que cada ato promocional na carreira do policial militar é único, de efeitos concretos e permanentes, estabelecendo-se, assim, o marco do prazo prescricional para o questionamento do direito à promoção (AgInt no AREsp n. 2.238.127/TO).
+4. O feito foi atingido pela prejudicial de mérito alegada em sede recursal, uma vez que a ação foi movida depois de decorridos mais de cinco anos do ato que deu origem à situação de preterição, que, neste caso, foi à publicação da Lei Estadual de 20 de abril de 2012.
+5. Recurso conhecido e não provido.
+Não foram opostos embargos de declaração (fl. 470).
+A parte recorrente alega violação dos arts. 1º e 3 do Decreto-Lei 20.910/1932, pois entende que se trata de relação de trato sucessivo, na qual a prescrição quinquenal não alcança o fundo do direito, limitando-se às parcelas vencidas anteriormente ao quinquênio anterior ao ajuizamento, conforme a Súmula 85 do Superior Tribunal de Justiça (fls. 439/441). Transcreve o art. 1º e sustenta a aplicação do art. 3 do Decreto-Lei 20.910/1932 para afirmar que "quando o pagamento se dividir por dias, meses ou anos, a prescrição atingirá progressivamente as prestações à medida que completarem os prazos estabelecidos pelo presente decreto" (fl. 439).
+Sustenta ofensa ao art. 105, inciso III, alínea a, da Constituição Federal, ao argumento de que o acórdão negou vigência ao Decreto-Lei 20.910/1932 ao aplicar prescrição do fundo de direito em hipótese de omissão administrativa quanto à promoção de militar, devendo incidir a Súmula 85 do Superior Tribunal de Justiça (fls. 435/441).
+Aponta violação do art. 13, inciso IV, do Regimento Interno do Superior Tribunal de Justiça, alegando a competência do Superior Tribunal de Justiça (STJ) para julgar o recurso especial contra acórdão que contraria lei federal (fl. 436).
+Argumenta que não houve recusa formal da Administração, mas omissão continuada na implementação da promoção funcional, o que caracteriza relação de trato sucessivo e afasta a prescrição do fundo de direito, alcançando apenas parcelas anteriores ao quinquênio (fls. 440/446). Indica precedentes e a Súmula 85 do STJ para reforço da tese de trato sucessivo em progressão funcional sem negativa expressa (fls. 441/446)."
+Aponta o recorrente violação ao disposto no art. 1º do Decreto 20.910/1932 ao argumento de que deve ser aplicado ao caso o disposto na Súmula 85/STJ, em razão de ter havido omissão da administração pública na sua promoção. Assim, afirma que não há prescrição do fundo de direito do Apelado, mas apenas das prestações vencidas antes do quinquênio que antecedeu a propositura da ação.
+Contrarrazões apresentadas às fls. 457/463.
+O recurso foi admitido (fls. 469/471).
+É o relatório.
+Na origem, cuida-se de ação ordinária visando à promoção à graduação de 1º Sargento com efeitos retroativos.
+No caso dos autos, a sentença fixou como premissa fática que houve negativa do direito de promoção à graduação de 1º Sargento em 15/11/2015, razão pela qual considerou prescrita a pretensão da Autora ante o fato de a propositura da ação ter ocorrido em 12/12/2022, mais de 05 anos, portanto, da negativa de promoção.
+Por sua vez, o acórdão impugnado trouxe premissa fática diversa em que afirma que a contagem do prazo prescricional teria tido início em 20/4/2021, quando então passou a viger a Lei 2.578/2012.
+Já o recorrente afirma que o caso se trata de omissão por parte do Poder Público em realizar a sua promoção quando teria direito, de sorte a ser aplicada a Súmula 85 do Superior Tribunal de Justiça/STJ.
+Como se vê, o caso demandaria reanálise de fatos e provas, o que é vedado pela Súmula 7/STJ, já que haveria a necessidade de verificar o que efetivamente ocorreu no caso concreto. Afinal, não ficou claro se houve inércia da Administração em realizar a sua promoção, se houver recusa da Administração em realizá-la, ou se teria havido alguma supressão de eventual vantagem a que o recorrente faria jus.
+Ante o exposto, não conheço do presente recurso especial.
+Majoro em 10% (dez por cento), em desfavor da parte recorrente, o valor dos honorários sucumbenciais já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos no § 2º desse dispositivo, bem como os termos do art. 98, § 3º, desse diploma legal.
+Publique-se. Intimem-se.
+EMENTA
