@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de CARLOS HENRIQUE PEREIRA DOS SANTOS contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 1514840-82.2023.8.26.0050).
+Consta dos autos que o paciente foi condenado como incurso no art. 157, parágrafo 2º, incisos II e V, do Código Penal, às penas de 5 anos e 6 meses de reclusão, no regime inicial fechado, e pagamento de 13 dias-multa (e-STJ fls. 181/187).
+Interposta apelação, o Tribunal local negou provimento ao recurso defensivo, mantendo a condenação nos termos proferidos pela sentença (e-STJ fls. 259/279).
+No presente writ (e-STJ fls. 14/16), a impetrante alega que o paciente está sofrendo constrangimento ilegal, em razão da dosimetria realizada. Afirma que a pena deve ser revista, em razão do montante arbitrado. Aduz que o paciente alega sofrer constrangimento ilegal acarretado pelas decisões das instâncias ordinárias e, assim, requer, seja revista a dosimetria da pena aplicada haja vista que pelo somatório das penas aplicadas pelos delitos por ele cometidos chegou-se ao montante de 17 anos e 9 meses de reclusão em regime fechado pela prática do crime previsto no art. 157, do Código Penal (e-STJ fl. 15).
+Sustenta que somente foi fornecido pelo eg. Tribunal de Justiça de São Paulo a cópia dos autos 1514840-82.2023.8.26.0050 e que, no presente momento, se faz juntar a esta petição, sendo que o réu responde também as ações penais de números 15343967020238260050; 15346045420238260050 junto ao mesmo Tribunal de Justiça de São Paulo sendo que embora solicitada, tais cópias de processos não foram encaminhadas para a DPU, razão pela qual se requer que esta eg. Corte Superior solicite ao Tribunal de Justiça de São Paulo a cópia dos outros 02 processos retro mencionados, para fins de instruir o presente habeas corpus (e-STJ fl. 15).
+Dessa forma, requer a concessão da ordem para redimensionar a pena.
+É o relatório. Decido.
+Não obstante as razões deduzidas na petição inicial, não é possível dar seguimento ao presente writ.
+Afinal, verifico que a defesa não desenvolveu argumentos para demonstrar especificamente de que forma houve ilegalidade por parte das instâncias ordinárias, tendo apenas requerido a redução das penas. Assim, inviável a análise da insurgência.
+Cabe ressaltar que o acórdão e a sentença objeto das insurgências (Sentença e Apelação Criminal n. 1514840-82.2023.8.26.0050) estão presentes no habeas corpus.
+Quanto ao pleito de juntada de outras apelações de outros processos que o paciente respondeu, cabe consignar que para cada ato coator deve ser impetrado um habeas corpus, sendo inviável a apreciação de mais de um ato coator em uma única impetração (v.g. HC n. 389631/SP, Rel. Min. Reynaldo Soares da Fonseca, DJe de 08/03/2017), ainda que para fins de economia processual ou de celeridade" (AgRg no RHC n. 108.528/AM, relator Ministro Jorge Mussi, Quinta Turma, julgado em 18/6/2019, DJe de 27/6/2019).
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do STJ, indefiro liminarmente a petição inicial do habeas corpus.
+Intimem-se.
+EMENTA
