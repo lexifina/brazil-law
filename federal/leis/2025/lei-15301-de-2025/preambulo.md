@@ -1,0 +1,4 @@
+LEI Nº 15.301, DE 22 DE DEZEMBRO DE 2025
+Denomina "Rodovia Álvaro Gaudêncio Filho" o trecho da BR-412 entre o km 0, na localidade de Farinha, no Município de Pocinhos, Estado da Paraíba, e o km 129, no Município de Monteiro, Estado da Paraíba.
+O PRESIDENTE DA REPÚBLICA
+Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
