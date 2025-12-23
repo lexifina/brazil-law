@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de DOUGLAS JESUS DE SANTANA, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA, em decorrência do julgamento do HC n. 8033377-34.2025.8.05.0000.
+Consta dos autos que o paciente foi condenado pelo Juízo da Vara Criminal da Comarca de Ribeira do Pombal à pena de 8 (oito) anos, 10 (dez) meses e 20 (vinte) dias de reclusão, em regime inicial fechado, além de 22 (vinte e dois) dias-multa, pela prática do delito previsto no artigo 157, § 2º, incisos I e II, combinado com o artigo 14, incisos I e II, à luz do artigo 71, todos do Código Penal (fl. 41).
+A defesa interpôs apelação ao Tribunal de Justiça do Estado da Bahia, que negou provimento ao recurso, mantendo integralmente a reprimenda de 8 (oito) anos, 10 (dez) meses e 20 (vinte) dias de reclusão, em regime inicial fechado, e 22 (vinte e dois) dias-multa (fl. 43).
+Após o trânsito em julgado, a defesa impetrou o HC n. 8033377-34.2025.8.05.0000 perante o Tribunal de Justiça do Estado da Bahia, que denegou a ordem (fls. 36-44), sendo este o título judicial ora impugnado.
+Na presente impetração, busca-se a concessão da ordem para: (i) substituir o regime inicial fechado por regime semiaberto ou aberto; e (ii) subsidiariamente, afastar a qualificadora do uso de arma de fogo e o reconhecimento da continuidade delitiva (fls. 33-34).
+É o relatório. DECIDO.
+A controvérsia cinge-se à alegação de possível coação ilegal decorrente da manutenção do regime inicial fechado, bem como da negativa em afastar a causa de aumento pelo uso de arma de fogo e a aplicação da regra da continuidade delitiva.
+A presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida. A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Da análise do acórdão (fls. 36-44) , não vislumbro a presença de coação ilegal que justifique a concessão da ordem de ofício, na forma do § 2º do artigo 654 do Código de Processo Penal. A pena definitiva foi fixada em 8 (oito) anos, 10 (dez) meses e 20 (vinte) dias de reclusão, sendo adequado o regime inicial fechado ao quantitativo de pena estabelecido, nos termos do artigo 33, § 2º, alínea a, do Código Penal.
+No tocante à negativa de afastamento da causa de aumento de pena prevista no § 2º-A, inciso I, do Código Penal, bem como da negativa de afastamento da regra da continuidade delitiva, verifico que o Tribunal de Justiça do Estado da Bahia não chegou a ser provocado pela defesa a se manifestar sobre tais questões (fls. 36-44). Assim, o Superior Tribunal de Justiça fica impedido de conhecer diretamente da matéria, sob pena de incorrer em indevida supressão de instância.
+A propósito, destaco o seguinte precedente desta Corte:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. APROPRIAÇÃO E DESVIO DE VERBAS PÚBLICAS. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. QUESTÃO NÃO PLEITEADA NA ORIGEM. NECESSIDADE DE AFERIÇÃO DOS MARCOS TEMPORAIS PELAS INSTÂNCIAS ORDINÁRIAS. SUPRESSÃO DE INSTÂNCIA. WRIT NÃO CONHECIDO. AGRAVO IMPROVIDO.
+1. Conforme reiterada jurisprudência do Superior Tribunal de Justiça, o prévio exame das alegações pelas instâncias ordinárias constitui requisito indispensável para sua apreciação nesta instância, ainda quando se cuide de questão de ordem pública.
+Precedentes.
+2. Ademais, consoante orientação jurisprudencial desta Corte, "é inadequada a pretensão de concessão de habeas corpus de ofício com intuito de superar, por via transversa, óbice(s) reconhecido(s) na admissibilidade do recurso interposto" (AgRg no AgRg no AREsp n. 1.965.559/SC, Quinta Turma, Rel. Min. Jesuíno Rissato - Desembargador Convocado do TJDFT, DJe de 16/12/2021).
+3. Agravo regimental improvido.
+(AgRg no HC n. 828.844/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 30/10/2023, DJe de 3/11/2023.)
+De toda sorte, não verifico a presença de ilegalidade flagrante que autorize a concessão da ordem, nos termos do artigo 654, § 2º, do Código de Processo Penal.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
