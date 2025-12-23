@@ -1,0 +1,46 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15) interposto por LAURENA DA SILVA DE SOUZA em face da decisão acostada às fls. 198-200 e-STJ, que, em juízo prévio de admissibilidade, inadmitiu o recurso especial manejado pela ora agravante.
+O apelo extremo, fundado nas alíneas "a" e "c" do permissivo constitucional, fora deduzido em desafio ao acórdão de fls. 58-60 e-STJ, proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, assim ementado:
+CUMPRIMENTO DE SENTENÇA. DECISÃO QUE NÃO CONHECEU DA EXCEÇÃO DE PRÉ- EXECUTIVIDADE APRESENTADA PELA EXEQUENTE. PRETENSÃO DA CREDORA RELACIONADA À ALTERAÇÃO DO TERMO INICIAL DA CORREÇÃO MONETÁRIA. QUESTÃO JÁ DEBATIDA E DECIDIDA EM DECISÃO PRECLUSA. IMPOSSIBILIDADE DE REANÁLISE. RECURSO DESPROVIDO.
+Nas razões de recurso especial (fls. 68-81 e-STJ), alegou a insurgente que o acórdão recorrido violou os artigos artigos 389, 394, 396, 757 e 772 do Código Civil, bem como o artigo 1º da Lei n. 6.899/81, aduzindo que a correção monetária é questão de ordem pública, não estando sujeita à preclusão - sendo imperiosa, no caso, a readequação de seu termo inicial, que deve ser a data de assinatura do contrato. Aduz, ainda, a existência de dissídio jurisprudencial.
+Contrarrazões às fls. 187-195 e-STJ.
+Em juízo prévio de admissibilidade (fls. 198-200 e-STJ), a Corte de origem inadmitiu o apelo nobre, ensejando a interposição do presente agravo (art. 1.042 do CPC/15), às fls. 208-218 e-STJ, por meio do qual pretende ver admitido o recurso especial.
+Contraminuta às fls. 222-226 e-STJ.
+É o relatório.
+Decide-se.
+1. Imperioso registrar, inicialmente, que o recurso especial é de fundamentação vinculada, no qual o efeito devolutivo se opera tão somente nos termos do que foi impugnado.
+Ademais, compete à parte demonstrar o cabimento do recurso, indicando expressamente os dispositivos legais tidos por vulnerados ou objeto de interpretação divergente - sob pena de, ausente tal indicação, restar inviabilizado o exame da ofensa à legislação federal infraconstitucional ou da divergência jurisprudencial (mesmo em relação às matérias de ordem pública).
+Outrossim, a alegação de ofensa à lei federal pressupõe a realização do cotejo entre o conteúdo preceituado na norma e os argumentos aduzidos nas razões recursais, de maneira a demonstrar a devida correlação jurídica entre o fato e o mandamento legal, que deve conter carga normativa suficiente para permitir a alteração do julgado buscada pela parte.
+A apresentação de razões recursais que não preenchem estes requisitos atrai a incidência da Súmula 284/STF.
+Nesse sentido: AgInt no AREsp 1742169/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 08/03/2021, DJe 10/03/2021; AgInt no AREsp 1739182/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 08/03/2021, DJe 15/03/2021; AgInt no AREsp 944.639/SE, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 08/03/2021, DJe 12/03/2021; AgInt no AREsp 1614511/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 07/12/2020, DJe 16/12/2020; AgInt no AREsp 1376071/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 07/12/2020, DJe 14/12/2020; AgInt no AREsp 1264572/PE, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 14/08/2018, DJe 24/08/2018; AgInt no AREsp 1202430/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 26/06/2018, DJe 29/06/2018.
+1.1. Na hipótese, foram apontados como violados diversos dispositivos atinentes ao mérito da controvérsia - direito material (correção monetária).
+Todavia, a controvérsia recursal diz respeito à preclusão - sendo esse o fundamento do acórdão recorrido.
+Trata-se de questão de direito processual.
+Ocorre que o apelo nobre, em que pese aponte razões recursais buscando debater a preclusão, não apontou qualquer dispositivo de lei (processual) com carga normativa apta a justificar a reforma do acórdão recorrido.
+Já os dispositivos efetivamente apontados como violados tratam da questão de mérito (termo inicial da correção monetária) - que, todavia, não foi examina pela Corte local, em razão da preclusão.
+Assim, além da deficiência (Súmula 284/STF), infere-se a dissonância entre as razões do apelo extremo e a fundamentação utilizada na decisão impugnada, fazendo incidir os óbices das Súmulas 283 e 284/STF.
+Nesse sentido, confiram-se os seguintes precedentes: AgInt no REsp n. 2.023.459/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 3/5/2023, DJe de 10/5/2023; AgInt no AREsp n. 1.979.431/PE, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 26/9/2022, DJe de 28/9/2022; AgInt no AREsp n. 2.030.763/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 27/6/2022, DJe de 1/7/2022.
+2. Em relação ao dissídio suscitado, observa-se que a recorrente deixou de apontar o dispositivo cuja interpretação foi divergente.
+Todavia, "O conhecimento do recurso especial interposto com fundamento na alínea c do permissivo constitucional exige, além da demonstração analítica do dissídio jurisprudencial, a indicação clara e precisa dos dispositivos de lei federal supostamente violados ou objeto de interpretação divergente. Incidência da Súmula nº 284 do STF" (AgInt no AREsp n. 2.236.231/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 21/8/2023, DJe de 23/8/2023).
+Neste sentido, ainda: AgInt no AREsp n. 2.299.016/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 14/8/2023, DJe de 18/8/2023; AgInt no AREsp n. 2.193.027/PR, relator Ministro Raul Araújo, Quarta Turma, julgado em 3/4/2023, DJe de 25/4/2023; AgInt no AREsp n. 2.190.736/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 13/3/2023, DJe de 15/3/2023.
+Ainda que fosse possível considerar os dispositivos apontados como violados (alínea "a" do permissivo), o dissídio suscitado, em relação à preclusão, estaria sujeito ao mesmo óbice indicado no tópico anterior.
+2.1. Ademais, não foi realizado o necessário cotejo analítico a fim de demonstrar a similitude fática entre os acórdãos recorrido e paradigma.
+A realização de cotejo analítico pressupõe não apenas o destaque de trechos das ementas dos acórdãos indicados como paradigmas. Exige-se que seja exposta, de forma argumentativa, a similitude fática entre os arestos recorrido e paradigma, demonstrado haver oposição de teses jurídicas. Ausente essa argumentação, torna-se inviável a admissão do apelo extremo.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE ARBITRAMENTO DE HONORÁRIOS ADVOCATÍCIOS DE ÊXITO. RESCISÃO IMOTIVADA. ARTS. 1.022 E 489 DO CÓDIGO DE PROCESSO CIVIL DE 2015 . OMISSÃO. AUSÊNCIA. FUNDAMENTAÇÃO SUFICIENTE. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE DEMONSTRAÇÃO.
+ ..
+5. A divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional, nos termos do art. 1.029, § 1º, do CPC/2015 e do art. 255, § 1º, do RISTJ, exige comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos arestos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não sendo bastante a simples transcrição de ementas sem o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.020.560/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 5/12/2022, DJe de 9/12/2022.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ATRASO NA ENTREGA DE OBRA. DANOS MORAIS. DESCARACTERIZAÇÃO. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. DECISÃO MANTIDA.
+1. Conforme o entendimento desta Corte Superior, "a mera transcrição de ementas de acórdão e/ou trechos isolados de voto, não caracteriza o cotejo analítico, inviabilizando-se, por consequência, a abertura da via especial, pelo dissídio jurisprudencial" (AgInt no AREsp n. 1.835.604/SP, relator Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 23/8/2021, DJe de 26/8/2021), essa é a situação dos autos.
+ ..
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.114.811/BA, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 26/9/2022, DJe de 30/9/2022.)
+3. Por fim, registre-se, em obiter dictum, que "a jurisprudência do Superior Tribunal de Justiça é firme no sentido de que até mesmo as matérias de ordem pública sujeitam-se aos efeitos da preclusão consumativa quando objeto de decisão anterior" (AgInt nos EREsp n. 2.110.890/RJ, relator Ministro Ricardo Villas Bôas Cueva, Corte Especial, julgado em 8/10/2024, DJe de 14/10/2024).
+Ainda: AREsp n. 2.952.972/RS, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 20/10/2025, DJEN de 23/10/2025; REsp n. 1.963.341/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 26/5/2025, DJEN de 29/5/2025; e, EDcl no AgInt no REsp n. 1.925.562/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 17/3/2025, DJEN de 24/3/2025.
+4. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conhece-se do agravo para não conhecer do recurso especial.
+Incabível a majoração de honorários (artigo 85, § 11, do CPC/15), pois inexistente condenação desde a origem no presente feito recursal.
+Publique-se.
+Intimem-se.
+EMENTA
