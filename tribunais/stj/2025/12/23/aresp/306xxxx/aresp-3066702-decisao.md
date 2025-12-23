@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de Agravo apresentado por LAUREN FERREIRA COLVARA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+DIREITO CIVIL. APELAÇÃO CÍVEL. AÇÃO DE EXIGIR CONTAS. RECURSO DESPROVIDO.
+I. Caso em Exame
+1. Recurso de apelação interposto pela terceira interessada contra sentença que julgou improcedente a ação de exigir contas, aprovando as contas prestadas pela inventariante e deferindo o levantamento de valores depositados judicialmente. A autora e a terceira interessada foram condenadas ao pagamento de custas e honorários advocatícios.
+II. Questão em Discussão
+2. A questão em discussão consiste em (i) a possibilidade de condenação da terceira interessada ao pagamento de honorários advocatícios, e (ii) a legalidade do levantamento dos valores deferidos pela sentença.
+III. Razões de Decidir
+3. Pelo princípio da causalidade, é cabível a condenação da terceira interessada ao pagamento de honorários advocatícios, dado o efetivo trabalho da patrona da parte ré.
+4. A pretensão resistida da terceira interessada justifica a condenação, pois houve contestação e requerimento para o desacolhimento das contas prestadas.
+5. A devolução dos valores não deve prevalecer, pois o montante refere-se a saldo credor em favor da inventariante, evitando enriquecimento ilícito do espólio.
+6. O montante de R$ 4.415,94 refere-se a alugueres do imóvel do espólio, cuja gestão não requer depósito judicial, conforme decisão proferida em sede de agravo de instrumento.
+IV. Dispositivo e Tese 7. Recurso desprovido.
+8. Tese de julgamento: 1. A condenação da terceira interessada aos honorários é justificada pelo princípio da causalidade. 9. O levantamento dos valores deferidos é legal, evitando enriquecimento ilícito.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação ao art. 85 do CPC, no sentido de que inexiste cabimento à condenação da parte ora recorrente ao pagamento de honorários advocatícios sucumbenciais, porquanto não deu causa à demanda, estando ausentes tanto a pretensão resistida quanto a necessária relação de causalidade, trazendo a seguinte argumentação:
+Tribunal da cidadania, quanto à tese da condenação da recorrente em custas e honorários advocatícios sucumbenciais porque haveria pretensão resistida(i), houve lavor da advogada da recorrida (ii) e está-se diante da causalidade (iii) é mera fantasia jurídica do acórdão, com todo o respeito para com quem pensa diversamente. Detalhe: majorou a sucumbência na sequência.
+ ..
+Portanto, mostra-se, indene de dúvidas, que o caso tratado a julgamento é de condenação em cusas processuais honorários advocatícios mesmo diante da inexistência de causalidade a ser direcionada à recorrente, muito embora tenha sucumbido porque houve autorização de extração dos frutos de seus imóveis em condomínio com o de cujus para pagamento do inventário - questão que será apreciada na ação de partilha própria já julgada procedente, com negativa de provimento de apelo e que aguarda resolução deste STJ.
+E por que inexiste causalidade  Simples: a recorrente não deu causa à demanda, considerando que nunca exigiu contas da recorrida; nunca a notificou extrajudicialmente sobre sua gestão como inventariante - exceto sobre pagamento de aluguel; nunca exigiu transparência; nada! Quem propôs essa demanda foi unicamente a recorrida por sua conta e risco, o qual está sendo, infelizmente, terceirizado.
+Abrindo parênteses, a condenação da recorrente em custas e honorários advocatícios sucumbenciais, com todo o respeito, fomenta a propositura de demandas e demandas desenfreadas - e isso tem sido praxe da recorrida porque propõe ação de prestação de contas para justificar sua gestão de tempos em tempos -, abarrotando o Judiciário desnecessariamente.
+Somente a título de exemplo, poderia a recorrida apresentar suas contas administrativamente - até através de e-mail - para a terceira interessada, a qual poderia concordar ou discordar externando possíveis soluções para a querela.
+Poderia justificar a recorrida, igualmente, sua gestão dentro dos autos de inventário quando das últimas declarações, com intimação da terceira interessada a se manifestar nos autos.
+Mas não! Preferiu demandar porque quis. Daí inexiste causalidade dada pela recorrente e, portanto, não deve ser condenada em nenhum ônus sucumbencial.
+De mais a mais, este STJ tem entendimento firme no sentido que o princípio da causalidade tem prevalência sobre o princípio da sucumbência, ou seja, considera que demandar contra alguém que não deu causa à ação redundaria apenas em premiação ao comportamento contraditório e serviria apenas a remunerar o advogado desta mesma parte, o qual é o responsável técnico pelas estratégias processuais e não poderia beneficiar-se da sua própria torpeza.
+ ..
+No caso, a sucumbência ocorrida em desfavor da recorrente em face da existência das premissas que autorizaram trazer em Juízo a sua qualidade de condômina dos bens cujos frutos integralmente estão sendo utilizados para pagamento de inventário do outro condômino, sem reservar a sua meação, jamais infirma e/ou supera a causalidade.
+Repetindo: a causalidade decorreu expressamente da própria recorrida em vir com ações desnecessárias, tal qual como anteriormente mencionado, e se o acórdão continuar a gerar efeitos no mundo jurídico o Judiciário dará carta de alforria para o comportamento contraditório (venire contra factum proprium) (fls. 643/647).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+6. Pelo princípio da causalidade é cabível a condenação da terceira interessada ao pagamento de honorários advocatícios, sendo inegável que existiu o efetivo trabalho da i. patrona da parte ré, não se podendo afastar o direito aos honorários.
+7. Inegável que houve pretensão resistida da terceira interessada, inclusive com a apresentação de contestação, requerendo expressamente o desacolhimento das contas prestadas pela inventariante, bem como alegando que as verbas pertencentes à sua meação não podem ser utilizadas para o pagamento das despesas do espólio (fls. 636/637)
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: AgInt no REsp n. 2.113.579/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.691.829/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJEN de 28/3/2025; AREsp n. 2.839.474/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 26/3/2025; AgInt no REsp n. 2.167.518/RS, relatora Ministra Nancy Andrighi, Terceira Turma, DJEN de 27/3/2025; AgRg no AREsp n. 2.786.049/SP, relator Ministro Messod Azulay Neto, Quinta Turma, DJEN de 26/3/2025; AgRg no AREsp n. 2.753.116/RN, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJEN de 25/3/2025; AgInt no REsp n. 2.185.361/CE, relatora Ministra Regina Helena Costa, Primeira Turma, DJEN de 28/3/2025; AgRg no REsp n. 2.088.266/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 25/3/2025; AREsp n. 1.758.201/AM, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.643.894/DF, relator Ministro Raul Araújo, Quarta Turma, DJEN de 31/3/2025; AgInt no AREsp n. 2.636.023/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 28/3/2025; AgInt no REsp n. 1.875.129/PE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJEN de 21/3/2025.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
