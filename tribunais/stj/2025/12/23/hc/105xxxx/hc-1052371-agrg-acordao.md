@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Joel Ilan Paciornik, Messod Azulay Neto, Maria Marluce Caldas e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito Processual Penal. Agravo Regimental no Habeas Corpus. Tráfico de drogas. Busca domiciliar. Alegação de nulidade. Trancamento de inquérito policial. Agravo regimental improvido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus, no qual se pleiteava o trancamento de inquérito policial, sob alegação de nulidade da busca domiciliar realizada sem mandado judicial ou fundadas razões que justificassem a conduta policial.
+2. A defesa sustentou que a entrada no domicílio teria sido forçada, em violação ao Tema 280/STF, e que a nulidade da busca domiciliar contaminaria as demais provas dos autos, com base na teoria dos frutos da árvore envenenada.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a busca domiciliar realizada sem mandado judicial ou sem fundadas razões que a justificassem, conforme alegado pela defesa, é nula e se tal invalidade contamina as demais provas dos autos, ensejando o trancamento do inquérito policial.
+III. Razões de decidir
+4. O trancamento de ação penal, inquérito policial ou procedimento investigativo por meio de habeas corpus é medida excepcional, cabível apenas quando há inequívoca comprovação da atipicidade da conduta, da incidência de causa de extinção da punibilidade ou da ausência de indícios de autoria ou de prova sobre a materialidade do delito.
+5. A decisão combatida afirmou que houve videomonitoramento da conduta dos acusados, sendo possível a verificação da prática das atividades criminosas , não se verificando, de plano, manifesta violação domiciliar.
+6. A análise de questões de natureza probatória, como a alegação de nulidade da busca domiciliar, deve ser realizada pelas instâncias ordinárias, competentes para examinar os fatos com profundidade e delinear os elementos para eventual exame pelo Superior Tribunal de Justiça.
+IV. Dispositivo e tese
+7. Resultado do Julgamento: Agravo regimental improvido.
+Tese de julgamento:
+1. O trancamento de ação penal, inquérito policial ou procedimento investigativo por meio de habeas corpus é medida excepcional, cabível apenas quando há inequívoca comprovação da atipicidade da conduta, da incidência de causa de extinção da punibilidade ou da ausência de indícios de autoria ou de prova sobre a materialidade do delito. 2. A análise de questões de natureza probatória, como a alegação de nulidade da busca domiciliar, deve ser realizada pelas instâncias ordinárias, competentes para examinar os fatos com profundidade e delinear os elementos para eventual exame pelo Superior Tribunal de Justiça.
+Dispositivos relevantes citados:
+CPP, art. 312.
+Jurisprudência relevante citada:STJ, AgRg no HC 925.678/SP, Rel. Min. Ribeiro Dantas, Quinta Turma, julgado em 09.09.2024.
+RELATÓRIO
+Trata-se de agravo regimental interposto por CAUAN SOUZA OLIVEIRA e JAILSON DE SOUZA STRAPAZZON contra decisão na qual não conheci do habeas corpus.
+Nas razões recursais, a defesa reitera que a entrada no domicílio do agravante teria sido forçada em clara violação ao Tema 280/STF. Afirma que não existiu mandado judicial ou presença de fundadas razões que justificassem a conduta policial. Alega, ainda, que a nulidade da busca domiciliar irá contaminar as demais provas, conforme a teoria dos frutos da árvore envenenada, sendo necessário o trancamento do feito.
+Requer o provimento do agravo regimental para reconsiderar a decisão monocrática ou a submissão do feito à Quinta Turma, a fim de que a ordem seja concedida e se determine o trancamento do IP n. 003519-82.2025.8.21.0058.
+É o relatório.
+EMENTA
+Direito Processual Penal. Agravo Regimental no Habeas Corpus. Tráfico de drogas. Busca domiciliar. Alegação de nulidade. Trancamento de inquérito policial. Agravo regimental improvido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus, no qual se pleiteava o trancamento de inquérito policial, sob alegação de nulidade da busca domiciliar realizada sem mandado judicial ou fundadas razões que justificassem a conduta policial.
+2. A defesa sustentou que a entrada no domicílio teria sido forçada, em violação ao Tema 280/STF, e que a nulidade da busca domiciliar contaminaria as demais provas dos autos, com base na teoria dos frutos da árvore envenenada.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a busca domiciliar realizada sem mandado judicial ou sem fundadas razões que a justificassem, conforme alegado pela defesa, é nula e se tal invalidade contamina as demais provas dos autos, ensejando o trancamento do inquérito policial.
+III. Razões de decidir
+4. O trancamento de ação penal, inquérito policial ou procedimento investigativo por meio de habeas corpus é medida excepcional, cabível apenas quando há inequívoca comprovação da atipicidade da conduta, da incidência de causa de extinção da punibilidade ou da ausência de indícios de autoria ou de prova sobre a materialidade do delito.
+5. A decisão combatida afirmou que houve videomonitoramento da conduta dos acusados, sendo possível a verificação da prática das atividades criminosas , não se verificando, de plano, manifesta violação domiciliar.
+6. A análise de questões de natureza probatória, como a alegação de nulidade da busca domiciliar, deve ser realizada pelas instâncias ordinárias, competentes para examinar os fatos com profundidade e delinear os elementos para eventual exame pelo Superior Tribunal de Justiça.
+IV. Dispositivo e tese
+7. Resultado do Julgamento: Agravo regimental improvido.
+Tese de julgamento:
+1. O trancamento de ação penal, inquérito policial ou procedimento investigativo por meio de habeas corpus é medida excepcional, cabível apenas quando há inequívoca comprovação da atipicidade da conduta, da incidência de causa de extinção da punibilidade ou da ausência de indícios de autoria ou de prova sobre a materialidade do delito. 2. A análise de questões de natureza probatória, como a alegação de nulidade da busca domiciliar, deve ser realizada pelas instâncias ordinárias, competentes para examinar os fatos com profundidade e delinear os elementos para eventual exame pelo Superior Tribunal de Justiça.
+Dispositivos relevantes citados:
+CPP, art. 312.
+Jurisprudência relevante citada:STJ, AgRg no HC 925.678/SP, Rel. Min. Ribeiro Dantas, Quinta Turma, julgado em 09.09.2024.
+VOTO
+Os agravantes não trouxeram argumentos suficientes para infirmar a decisão impugnada, razão pela qual mantenho-a por seus próprios fundamentos.
+O trancamento da ação penal, inquérito policial ou procedimento investigativo por meio do é medida excepcional. Por isso, será cabível somente habeas corpus quando houver inequívoca comprovação da atipicidade da conduta, da incidência de causa de extinção da punibilidade ou da ausência de indícios de autoria ou de prova sobre a materialidade do delito.
+No caso, a Corte de origem refutou a alegada nulidade da busca domiciliar com os seguintes fundamentos:
+Verifica-se que a materialidade e autoria estão demonstradas minimamente pela apreensão da droga e pelo relato dos policiais envolvidos na ocorrência. Com efeito, os autos revelam que a prisão em flagrante dos pacientes não ocorreu de forma acidental. Conforme informações constantes no expediente policial, "A Brigada Militar, através de equipe de Força Tática, composta pelo Declarante e os Soldados PM Anjos e Soares vinham recebendo diversas denúncias da prática de tráfico de drogas por Cauan Souza Oliveira e Jailson de Souza Strapazzon, para a facção criminosa "Os Abertos" no bairro São João Bosco, inclusive já tendo sido feito monitoramento do ponto de tráfico na Rua 12 de Outubro, 161, conforme BA 2019/983350/2025 onde foi possível flagrar a intensa movimentação de usuários adquirindo entorpecentes no local. Na data de hoje, após novas denúncias de intenso movimento típico da traficância, a equipe passou a monitorar a residência, flagrando o instante em que um veículo GM/Corsa CRK9345, chegou até o local e o motorista foi até o imóvel par adquirir entorpecentes, saindo rapidamente, não sendo possível realizar a abordagem. Instantes depois, foi visto Jailson e Cauan saindo do interior da residência, sendo flagrado o momento em que Jailson guardava uma arma de fogo em sua cintura, sendo prontamente realizada a abordagem de ambos. Durante a revista pessoal, o ega Soares localizou com Jailson um revólver Cal. 32 municiado com 06 munições intactas e 10 porções de cocaína, e o Declarante localizou com Cauan 12 porções de cocaína e 01 telefone celular. No interior da residência, foram localizadas em cima de uma mesa, 08 porções de cocaína, 01 balança de precisão, 01 munição intacta cal. 32, um bloco de anotações e 02 telefones celulares. Posteriormente, foi constatado que o revolver se encontrava com a numeração suprimida. Diante dos fato, Jailson e Cauan foram presos e encaminhados ao hospital para exame de lesões, sendo após, conduzidos a DPPA de Lagoa Vermelha. Salienta que o monitoramento efetuado pelo Declarante e seus colegas era feito pelas câmeras de videomonitoramento da cidade pois tem uma no bairro São João Bosco, e por policiais no terreno" (Evento 1, DECL10). (e-STJ, fl. 15)
+No caso, o Tribunal local afirmou que não há demonstração, de plano, de que a busca domiciliar, da qual recolhidos elementos probatórios para subsidiar o inquérito policial contra os agravantes, foi efetivada sem justa causa ou mediante desvio de finalidade, porque existia videomonitoramento da conduta dos acusados (e-STJ, fl. 15).
+Assim não é possível ao Superior Tribunal de Justiça, nesta fase da persecução penal, debruçar-se sobre questão de natureza probatória antes dos pronunciamentos definitivos das instâncias ordinárias, competentes para examiná-las com profundidade, a fim de que delineiem os fatos para futuro exame do Tribunal, mormente porque, a princípio, houve exercício do poder de polícia para o ingresso domiciliar e prisão dos acusados.
+Nesse sentido:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE. BUSCAS PESSOAL E DOMICILIAR. TRANCAMENTO. INVIABILIDADE. CONTROVÉRSIA A SER DIRIMIDA NO ÂMBITO DA INSTRUÇÃO PROCESSUAL. PRISÃO PREVENTIVA. REVOGAÇÃO. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO. 1. No que se refere à alegada nulidade pelas buscas pessoal e domiciliar, não é possível ao Superior Tribunal de Justiça, nesta fase da persecução penal, debruçar-se sobre questão de natureza probatória antes dos pronunciamentos definitivos das instâncias ordinárias, competentes para examiná-las com profundidade, a fim de que delineiem os fatos para futuro exame do Tribunal, mormente porque, a princípio, drogas compartimentadas foram encontradas com o agravante, o que justificaria o ingresso domiciliar pelo vislumbre externo da prática de crime.
+2. De acordo com o art. 312 do Código de Processo Penal, a prisão preventiva poderá ser decretada como garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, quando houver prova da existência do crime e indício suficiente de autoria e de perigo gerado pelo estado de liberdade do imputado.
+3. O fundado receio de reiteração delitiva, ante a recalcitrância específica do agravante, é justificativa suficiente da custódia cautelar, razão pela qual deve ser mantida.
+4. Agravo regimental desprovido. (agRG no HC n. 925.678/SP, relator Mi nistro Ribeiro Dantas, Quinta Turma, julgado em 9/9/2024, DJe de 12/9/2024).
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
