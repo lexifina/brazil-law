@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de SILVIO CARLOS PEREIRA SANTOS, apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, nos autos da Apelação n. 1502020-38.2022.8.26.0544.
+Consta dos autos que o paciente foi condenado à pena de 2 anos, 8 meses e 20 dias de reclusão, em regime inicial semiaberto, e ao pagamento de 14 dias-multa, pela prática do crime de disparo de arma de fogo em local habitado (art. 15, caput, da Lei n. 10.826/2003).
+O Tribunal de origem negou provimento ao apelo defensivo (fls. 9-23).
+Neste writ, o impetrante sustenta que há constrangimento ilegal na fixação do regime inicial semiaberto, por se tratar de pena inferior a 4 anos e por ter sido fundamentado apenas na reincidência.
+Requer, liminarmente, a suspensão da decisão que determinou o início do cumprimento da pena em regime semiaberto e de qualquer ordem de prisão até o julgamento do mérito. No mérito, pugna pela concessão da ordem para fixar o regime inicial aberto.
+É o relatório.
+Decido.
+Inicialmente, saliento que é consolidada a jurisprudência deste Superior Tribunal de Justiça no sentido de que a prerrogativa do relator para julgar monocraticamente o habeas corpus e o respectivo recurso não é afastada pelas normas regimentais que preveem a oitiva prévia do Ministério Público Federal (arts. 64, III, e 202 do RISTJ), notadamente quando a matéria se conforma com o entendimento dominante desta Corte (AgRg no HC n. 856.046/SP, de relatoria do Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 24/10/2023, DJe de 30/10/2023).
+Outrossim, cumpre registrar que o presente habeas corpus foi impetrado contra acórdão do Tribunal de origem já transitado em julgado. Nesse cenário, não se deve conhecer do presente writ, manejado como substitutivo de revisão criminal, em hipótese em que não se inaugurou a competência desta Corte.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. ATO APONTADO COMO COATOR TRANSITADO EM JULGADO. INCOMPETÊNCIA DO STJ. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. DOIS FURTOS EM CONTINUIDADE DELITIVA. REINCIDÊNCIA ESPECÍFICA. MAUS ANTECEDENTES. INSIGNIFICÂNCIA NÃO CONFIGURADA. AGRAVO NÃO PROVIDO.
+1. A competência do STJ para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados. A defesa busca, diretamente perante esta Corte Superior, a desconstituição do trânsito em julgado da apelação. Assim, não há como conhecer da impetração, por não ser o STJ o órgão competente para examinar o pleito.
+2. Ademais, não há flagrante ilegalidade na espécie, uma vez que o acórdão combatido atuou em consonância com a jurisprudência desta Corte Superior ao rejeitar a aplicação do princípio da insignificância.
+3. A análise das circunstâncias que permeiam a prática ilícita - dois crimes com mesmo modus operandi, na mesma data -, somada à dupla reincidência específica e aos maus antecedentes do réu, impede, nos termos da jurisprudência desta Corte Superior, o reconhecimento da atipicidade da conduta. Precedentes 4. Agravo não provido.
+(AgRg no HC n. 1.014.9 03/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 1/10/2025, DJEN de 6/10/2025; grifamos.)
+Assim, passo à análise das razões da impetração, de form a a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+O acórdão impugnado está assim fundamentado (fls. 20-22; sem grifos no original):
+Desta feita, descabida a fixação da reprimenda basilar em seu patamar mínimo legal, eis que valoradas em plena conformidade com os ditames previstos no artigo 59 do Código Penal, sendo de rigor a manutenção da majoração levada a efeito, perfazendo a reprimenda de 02 (dois) anos e 04 (quatro) meses de reclusão, além do pagamento de 12 (doze) dias-multa, no mínimo legal.
+Na segunda fase, ausentes circunstâncias atenuantes, mas presente a circunstância agravante da reincidência (certidão de objeto e pé de fls. 48/52 e antecedentes fls. 184/186 autos 0000010-63.2018.8.26.0115 e nº 0002309-81.2016.8.2.0115), pela qual a pena foi majorada em 1/6 (um sexto), resultando em 02 (dois) anos, 08 (oito) meses e 20 (vinte) dias de reclusão, bem como o pagamento de 14 (catorze) dias-multa, tornando-se definitiva, uma vez que ausentes causas de aumento ou de diminuição da pena na terceira fase.
+ ..
+No tocante ao regime prisional fixado, tem-se não ser caso de fixação de regime diverso do semiaberto, uma vez que a fixação de regime menos gravoso, seria insuficiente para a reprovação e prevenção do crime. Com efeito, o acusado ostenta condenações definitivas em seu desfavor, sendo reincidente e possuidor de maus antecedentes, demonstrando possuir personalidade voltada para a prática de crimes, indicando que a aplicação de regime mais brando não surtiria efeito.
+No que tange ao regime prisional, o art. 33, §§ 2º e 3º, do Código Penal, estabelece que a fixação do regime inicial de cumprimento da pena privativa de liberdade deve observar a quantidade de pena aplicada, a reincidência e as circunstâncias judiciais previstas no art. 59 do mesmo diploma legal.
+É cediço na jurisprudência desta Corte Superior que, em se tratando de pena inferior a 4 (quatro) anos, a fixação de regime prisional diverso do aberto exige fundamentação concreta e idônea, não sendo suficiente a mera referência à gravidade abstrata do delito. Contudo, a existência de circunstância judicial desfavorável (maus antecedentes) e a reincidência do paciente constituem elementos aptos a autorizar a imposição de regime prisional mais gravoso.
+A esse respeito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. DELITOS CONTRA O PATRIMÔNIO. REITERAÇÃO DELITIVA. FURTOS PRATICADOS EM CONTINUIDADE DELITIVA. NÃO APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. CRIME IMPOSSÍVEL. SÚMULA N. 567 DO STJ. REGIME INICIAL SEMIABERTO. PENA INFERIOR A 4 ANOS. MAUS ANTECEDENTES. JURISPRUDÊNCIA DO STJ.
+ ..
+4. Fixada a pena em 1 ano e 2 meses de reclusão, não se verifica ilegalidade na fixação do regime mais gravoso, pois, não obstante a pena seja inferior a 4 anos, houve a valoração negativa de circunstância judicial relacionada aos maus antecedentes, o que denota fundamento válido na fixação do regime semiaberto, nos termos do art. 33, §§ 2º e 3º, do CP.
+5 . Agravo regimental improvido. (AgRg no HC n. 809.669/SC, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 28/8/2023, DJe de 30/8/2023; sem grifos no original.)
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO DUPLAMENTE QUALIFICADO. VALORAÇÃO DA QUALIFICADORA REMANESCENTE COMO CIRCUNSTÂNCIA JUDICIAL DESABONADORA. POSSIBILIDADE. REINCIDÊNCIA. VETORIAL NEGATIVADA. REGIME PRISIONAL SEMIABERTO CABÍVEL. ÓBICE À CONVERSÃO DA PENA CORPORAL EM RESTRITIVA DE DIREITOS. AGRAVO DESPROVIDO.
+ ..
+4. No que se refere ao regime prisional, não se infere qualquer desproporcionalidade na imposição do meio inicialmente mais gravoso para o desconto da reprimenda, pois, nada obstante ser a pena inferior a 4 (quatro) anos de reclusão, a pena base foi estabelecida acima do piso legal com fundamento lícito, tendo, ainda, sido reconhecida a sua reincidência, não havendo se falar em negativa de vigência à Súmula 269/STJ.
+ ..
+6. Agravo regimental desprovido. (AgRg no HC n. 804.667/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 26/6/2023, DJe de 29/6/2023; sem grifos no original.)
+Ante o exposto, indefiro liminarmente o pedido de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
