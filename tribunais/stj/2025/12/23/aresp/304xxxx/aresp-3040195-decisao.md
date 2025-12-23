@@ -1,0 +1,49 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por YOUNG RAN CHANG JU contra decisão que inadmitiu recurso especial fundamentado nas disposições "a" e "c" do permissivo constitucional..
+Agravo em recurso especial interposto em: 29/5/2025.
+Conclusão ao gabinete em: 30/10/2025.
+Ação: cominatória c/c indenização por danos materiais, auxiliada por YOUNG RAN CHANG JU, em face da SUL AMÉRICA COMPANHIA DE SEGURO SAÚDE S/A e QUALICORP ADMINISTRADORA DE BENEFÍCIOS SA, na qual requer o afastamento dos reajustes por sinistralidade, a adoção dos índices anuais da ANS e a restituição dos valores pagos a maior.
+Sentença: julgou parcialmente procedentes os pedidos, para: i) declarar abusivas as cláusulas de aumento de mensalidade por sinistralidade; ii) determinar o pagamento das mensalidades sem o aumento por sinistralidade, permitindo apenas reajuste anual pelo índice da ANS; iii) condenar a requerida a ressarcir os valores pagos a maior, apurar em cumprimento de sentença.
+Acórdão: deu provimento ao recurso de apelação interposto pela SUL AMÉRICA COMPANHIA DE SEGURO SAÚDE S/A e deu provimento ao recurso de apelação interposto pela QUALICORP ADMINISTRADORA DE BENEFÍCIOS SA, nos termos da seguinte ementa :
+SEGURO. PLANO DE ASSISTÊNCIA À SAÚDE. CONTRATO COLETIVO. CLÁUSULA QUE PREVÊ REAJUSTE POR AUMENTO DE SINISTRALIDADE E REAJUSTE POR VARIAÇÃO DE CUSTO MÉDICO-HOSPITALARES. AVENÇA CELEBRADA ENTRE DUAS PESSOAS JURÍDICAS. INEXISTÊNCIA DE RESTRIÇÃO LEGAL ACERCA DA REFERIDA CLÁUSULA. INAPLICABILIDADE DAS RESTRIÇÕES VIGENTES PARA O CONTRATO INDIVIDUAL. SENTENÇA REFORMADA. RECURSO PROVIDO. (e-STJ fl. 568)
+Embargos de Declaração: opostos por YOUNG RAN CHANG JU, foram rejeitados.
+Recurso especial: alegação de violação dos arts. 4º, 6º, III, VIII, 39, V, 47, 51, IV e X, e 54, § 4º, do CDC, 355, 369, 370, 373, § 1º, 480, e 1.022 do CPC, 341, 421, 422, e 757 do CC, e 16, XI, da Lei 9.656/98, bem como dissídio jurisprudencial.
+Aponta, de início, ocorrência de cerceamento de defesa ante o não atendimento da expressa oposição ao julgamento virtual, sendo nulo o acórdão, nos termos do art. 281 do CPC.
+Ademais, alega cerceamento de defesa ante a ausência de documentação comprobatória da validade e regularidade dos reajustes implementados, considerando estudo atuarial idôneo, e omissão relevante sobre este tema.
+Consequentemente, sustenta que ausente o dever de informação e transparência, resta caracterizada a abusividade, devendo ser afastado o reajuste por sinistralidade, aplicado somente os percentuais anuais da ANS.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da existência de fundamento não impugnado
+Quanto ao tema da alegada nulidade do julgamento da apelação de forma virtual, a parte agravante não impugnou o fundamento utilizado pelo TJSP a respeito da legitimidade do julgamento virtual ante a calamidade pública da pandemia de COVID-19, bem como sobre a ausência de demonstração de quaisquer prejuízos advindos da forma de julgamento, razão pela qual deve ser mantido o acórdão recorrido. Aplica-se, na hipótese, a Súmula 283/STF.
+Nesse sentido: AgInt no REsp 2.072.391/SP, Quarta Turma, DJe de 25/4/2024; e AgInt no REsp n. 2.013.576/SP, Terceira Turma, DJe de 11/4/2024.
+- Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: REsp n. 2.095.460/SP, Terceira Turma, DJe de 15/2/2024 e AgInt no AREsp n. 2.325.175/SP, Quarta Turma, DJe de 21/12/2023.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca da legalidade da previsão de reajuste por sinistralidade nos contratos firmados sob a modalidade coletiva, de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da violação do art. 489 do CPC
+Do exame do acórdão recorrido, constata-se que as questões de mérito foram devidamente analisadas e discutidas, de modo que a prestação jurisdicional foi esgotada.
+É importante salientar que a ausência de manifestação a respeito de determinado ponto não deve ser confundida com a adoção de razões contrárias aos interesses da parte. Logo, não há contrariedade ao art. 489 do CPC, pois o Tribunal de origem decidiu de modo claro e fundamentado.
+No mesmo sentido: AgInt nos EDcl no AREsp n. 1.547.208/SP, Terceira Turma, DJe 19/12/2019 e AgInt no AREsp n. 1.480.314/RJ, Quarta Turma, DJe 19/12/2019.
+- Do cerceamento de defesa
+De acordo com a jurisprudência do STJ, o juiz, como destinatário da prova, pode, em conformidade com os princípios da livre apreciação da prova e do livre convencimento motivado, decidir pelo indeferimento da prova requerida sem que isso configure cerceamento de defesa, o que ocorreu na hipótese. Nesse sentido: REsp n. 2.192.255/SP, Terceira Turma, DJEN de 28/2/2025; e AgInt no REsp n. 2.077.630/SP, Quarta Turma, DJe de 18/4/2024.
+No particular, o TJSP julgou o tema da validade do reajuste por sinistralidade ante a efetiva previsão contratual do reajuste e da avaliação da variação dos custos médicos hospitalares que o justificariam.
+Dessa forma, alterar o decidido no acórdão recorrido quanto à suficiência da demonstração da validade do reajuste demandaria o reexame de fatos e provas, o que não é permitido ante o óbice da Súmula 7 desta Corte. Na mesma linha: AgInt no AREsp n. 2.714.570/SP, Terceira Turma, DJEN de 20/2/2025; AgInt no REsp n. 2.000.839/RJ, Quarta Turma, DJEN de 23/12/2024.
+- Dos reajustes por sinistralidade. Súmula 568/STJ.
+A legalidade da cláusula contratual de reajuste por sinistralidade ou por variação dos custos médico-hospitalares encontra-se em conformidade com a jurisprudência do STJ, consolidada no sentido de que "é possível o reajuste de contratos de saúde coletivos sempre que a mensalidade do seguro ficar cara ou se tornar inviável para os padrões da empresa contratante, seja por variação de custos ou por aumento de sinistralidade" (AgRg nos EDcl no AREsp 235.553/SP, 3ª Turma, DJe de 10/6/2015). Nessa
+mesma linha: AgInt no REsp 1.883.615/SP, 3ª Turma, DJe 12/2/2021 e AgInt no AREsp 1.696.601/SP, 4ª Turma, DJe 20/10/2020.
+Na hipótese, entretanto, verifica-se que a Corte de origem, a partir do exame do conteúdo fático-probatório dos autos, concluiu pela validade dos percentuais de reajuste por sinistralidade, uma vez que devidamente previstos contratualmente, incluindo a verificação da variação dos custos médicos e hospitalares, o que se coaduna com a jurisprudência do STJ, atraindo-se a aplicação da Súmula 568/STJ.
+Quanto à pretensão de implementação do reajuste de acordo com os índices estabelecidos pela ANS para os contratos individuais ou familiares, o que foi afastado pelo Tribunal de origem, tem-se que esta Corte Superior de Justiça tem firme entendimento no sentido de que, "no plano coletivo, o reajuste anual é apenas acompanhado pela ANS, para fins de monitoramento da evolução dos preços e de prevenção de abusos, não havendo que se falar, portanto, em aplicação dos índices previstos aos planos individuais. Precedentes" (AgInt no AREsp 1.894.750/SP, 4ª Turma, DJe 01/12/2021). Nessa mesma toada: AgInt no REsp 1.989.063/SP, 3ª Turma, DJe de 10/8/2022; AgInt no REsp 1.897.040/SP, 4ª Turma, DJe de 6/5/2022; AgInt no AREsp 1.894.750/SP, 4ª Turma, DJe de 1/12/2021; AgInt no REsp 1.874.264/SP, 3ª Turma, DJe de 1/9/2020.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, majoro em 5% os honorários fixados anteriormente.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO COMINATÓRIA C/C INDENIZAÇÃO POR DANOS MATERIAIS. PLANO DE SAÚDE COLETIVO. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. CERCEAMENTO DE DEFESA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. REAJUSTE POR SINISTRALIDADE. LEGALIDADE. SÚMULA 568/STJ. ÍNDICES DA ANS PARA CONTRATOS INDIVIDUAIS E FAMILIARES. NÃO CABIMENTO.
+1. Ação cominatória c/c indenização por danos materiais.
+2. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+3. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+4. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+5. O reexame de fatos e provas em recurso especial é inadmissível.
+6. Segundo a jurisprudência do STJ, é possível o reajuste de contratos de plano de saúde coletivos sempre que a mensalidade do seguro ficar cara ou se tornar inviável para os padrões da empresa contratante, seja por variação de custos ou por aumento de sinistralidade. Precedentes.
+7. No plano de saúde coletivo, o reajuste anual é apenas acompanhado pela ANS, para fins de monitoramento da evolução dos preços e de prevenção de abusos, não havendo que se falar, portanto, em aplicação dos índices previstos aos planos individuais. Precedentes.
+8. Agravo conhecido. Recurso especial parcialmente conhecido e desprovido.
