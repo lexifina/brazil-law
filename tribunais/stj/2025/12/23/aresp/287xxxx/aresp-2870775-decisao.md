@@ -1,0 +1,81 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial interposto pelo ESPÓLIO DE RUBENS FERNANDES PINTO contra decisão que inadmitiu o recurso especial (fls. 136-139).
+Segundo a parte agravante, o recurso preenche os requisitos necessários ao conhecimento e provimento, uma vez que a controvérsia é exclusivamente de direito, não incidindo o óbice da Súmula 7/STJ, pois se discute a invalidade, ineficácia e consequente inexigibilidade da Cédula de Produto Rural (CPR) pela ausência de registro ou depósito em entidade autorizada pelo Banco Central do Brasil, exigência expressa no art. 12, II, da Lei n. 8.929/1994; além disso, aponta violação aos arts. 3º e 12, II, da Lei n. 8.929/1994 e ao art. 783 do CPC e requer o processamento do especial (fls. 141-152).
+Intimada nos termos do art. 1.042, § 3º, do Código de Processo Civil, a parte agravada afirmou a inexistência de requisitos ou elementos aptos a promover a alteração do julgado impugnado, sustentando, de um lado, a ausência de impugnação específica de todos os fundamentos da decisão de inadmissibilidade, à luz do art. 932, III, do CPC e do art. 253, parágrafo único, I, do RISTJ; e, de outro, a incidência dos óbices sumulares, em especial da Súmula 7/STJ e, por analogia, da Súmula 182/STJ (fls. 160-165).
+É o relatório.
+DECIDO.
+O agravo é tempestivo, nos termos do art. 1.003, § 5º, do Código de Processo Civil.
+A análise dos argumentos recursais não indica, contudo, a existência de fundamentos que sustentem a reforma da decisão recorrida, cujos fundamentos transcrevo para que passem a fazer parte da presente decisão:
+VISTOS, etc.
+Trata-se de RECURSO ESPECIAL interposto por RUBENS FERNANDES PINTO ESPÓLIO, em desfavor de AGRÍCOLA URTIGÃO COMÉRCIO REPRESENTAÇÕES E TRANSPORTES LTDA, parte também devidamente qualificada, o que faz com fundamento nos artigos 105, III, "a", da Constituição Federal, insurgindo-se contra acórdão oriundo deste Tribunal de Justiça, alegando, em suma, ter o aresto violado o art. 783 do CPC e os arts. 3º e 12, da Lei 8.929/94.
+Requereram o conhecimento do presente recurso, pleiteando a emissão de JUÍZO POSITIVO DE ADMISSIBILIDADE para seu julgamento perante o Egrégio Tribunal Superior competente, a fim de reverter o acórdão proveniente deste E. Tribunal de Justiça para reconhecer a inexigibilidade do título executivo.
+Após regular intimação, sobrevieram nos autos contrarrazões ao recurso às fls. 32/44, em que foram engendrados fundamentos a favor da manutenção do decisum objurgado, sustentando fosse exarado juízo negativo de admissibilidade.
+É O RELATÓRIO.
+DECIDO.
+I.
+Trata-se de recurso constitucionalmente previsto e fundamentado, sendo, portanto, cabível.
+O recurso é tempestivo.
+A parte recorrente efetuou o devido recolhimento do preparo recursal.
+Há tanto a legitimidade de parte quanto, de igual forma, o interesse processual, eis que o recurso foi interposto por parte vencida no acórdão objeto da insurgência recursal, constituindo-se meio processual idôneo e adequado para pretensão de reversão do resultado do julgamento proferido por este Tribunal, se, evidentemente, presentes os demais requisitos previstos no ordenamento constitucional e infraconstitucional.
+Não consta do caderno processual fato impeditivo, modificativo ou extintivo do direito de recorrer.
+Quanto aos requisitos específicos de admissibilidade, previstos na Constituição Federal e na legislação processual, serão objeto de exame adiante.
+II.
+Ao dirimir a controvérsia, este Sodalício assim decidiu:
+"AGRAVO DE INSTRUMENTO - EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - CÉDULA DE PRODUTO RURAL - REGISTRO OU DEPÓSITO PERANTE O BANCO CENTRAL - DESNECESSIDADE, POR SE TRATAR DE TÍTULO EXECUTIVO EXTRAJUDICIAL - ALEGAÇÃO DE NULIDADE DA EXECUÇÃO PELA INEXIGIBILIDADE DO TÍTULO - IMPOSSIBILIDADE - RECURSO DESPROVIDO A Cédula de Produto Rural é título líquido, certo e exigível na quantidade e qualidade de produto nela previsto, possuindo a necessária força executiva, independentemente de registro ou depósito perante o Banco Central do Brasil, o que pode render, quando muito, sanções meramente administrativas do controlador do sistema financeiro nacional." (TJMS. Agravo de Instrumento n. 1410149-26.2024.8.12.0000, Caarapó, 4ª Câmara Cível, Relator (a): Des. Luiz Tadeu Barbosa Silva, j: 31/07/2024, p: 02/08/2024)
+"EMBARGOS DE DECLARAÇÃO EM AGRAVO DE INSTRUMENTO - VÍCIOS INEXISTENTES - REDISCUSSÃO DA MATÉRIA - PREQUESTIONAMENTO - RECURSO DESPROVIDO. I - Embargos de declaração é recurso horizontal destinado ao órgão singular ou colegiado para suprir as falhas existentes no julgado. Inexistindo tais vícios, é de se negar provimento ao recurso. II - O colegiado não está obrigado a mencionar dispositivos da Constituição Federal, de lei ou de norma infralegal, para fins de prequestionamento, bastando declinar as razões pelas quais chegou à conclusão exposta no acórdão, fundamentando-o como ocorreu no caso em destaque." (TJMS. Embargos de Declaração Cível n. 1410149-26.2024.8.12.0000, Caarapó, 4ª Câmara Cível, Relator (a): Des. Luiz Tadeu Barbosa Silva, j: 27/08/2024, p: 29/08/2024)
+III.
+Superada a análise dos requisitos extrínsecos e intrínsecos, os específicos, previstos na Constituição Federal e na legislação processual, serão objeto de exame adiante.
+1.
+QUANTO À ALEGAÇÃO DE OFENSA A DISPOSITIVOS LEGAIS (art. 105, III, alínea "a", da C.F).
+No tocante à propalada violação doart. 783 do CPC e os arts. 3º e 12, da Lei 8.929/94, rever o convencimento obtido por este Tribunal com base nas provas produzidas e as premissas fáticas adotadas pelo acórdão recorrido, para assim modificar o julgado e acolher o pleito recursal, quanto à exigibilidade do título executivo, implicaria, necessariamente, no reexame do conjunto fático-probatório, o que é vedado, no âmbito de recurso especial, por força da Súmula 7 1 do Tribunal da Cidadania.
+Nesse norte, dentre muitos outros, os seguintes arestos:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. AUSÊNCIA DE IMPUGNAÇÃO DE CAPÍTULO AUTÔNOMO EM DECISÃO MONOCRÁTICA DO RELATOR EM AGRAVO INTERNO. PRECLUSÃO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC/15. NÃO OCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Embargos à execução.
+2. A ausência de impugnação, no agravo interno, de capítulo autônomo e/ou independente da decisão monocrática do relator - proferida ao apreciar recurso especial ou agravo em recurso especial - apenas acarreta a preclusão da matéria não impugnada. Precedente da Corte Especial.
+3. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+4. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+5. Alterar o decidido no acórdão impugnado, no que se refere à constatação da presença dos requisitos da liquidez, da certeza e da exigibilidade, em relação aos títulos que instrumentalizam a presente execução, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+6. Agravo interno não provido."
+(AgInt no AREsp n. 2.340.817/DF, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 25/9/2023, DJe de 27/9/2023 - destacamos).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE AUTORA.
+1. As questões postas em discussão foram dirimidas pelo Tribunal de origem de forma suficiente, fundamentada e sem omissões, devendo ser afastada a alegada violação aos arts. 489 e 1.022 do CPC/15. Consoante entendimento desta Corte, não importa negativa de prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pela parte recorrente, decidindo de modo integral a controvérsia posta. Precedentes.
+2. Rever o entendimento do Tribunal de origem, no sentido de aferir a presença dos requisitos necessários ao título executivo extrajudicial (certeza, liquidez e exigibilidade), ensejaria em rediscussão de matéria fática, com o revolvimento das provas juntadas ao processo, o que é vedado pela Súmula 7 do STJ. Precedentes.
+3. Segundo a jurisprudência deste Superior Tribunal de Justiça, "o documento particular, que não contenha a assinatura de duas testemunhas, não preenche os requisitos do art. 585, II, do CPC/73, desautorizando a utilização da via executiva para a cobrança do crédito nele inscrito" (AgInt no AREsp 1843911/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 13/12/2021, DJe 15/12/2021). Incidência da Súmula 83 do STJ. Precedentes.
+4. Agravo interno desprovido
+(AgInt no AREsp n. 2.006.817/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 23/5/2022, DJe de 30/5/2022 - destacamos).
+À vista disso, independentemente do ângulo de análise, imperioso reconhecer que o reclamo esbarra em impeditivos formais e não supera todas as exigências legais em sede de juízo de prelibação, motivo pelo qual o prosseguimento do presente recurso deve ser obstaculizado.
+IV.
+POSTO ISSO, com fundamento no artigo 1.030, V, do CPC, INADMITO o presente RECURSO ESPECIAL interposto por RUBENS FERNANDES PINTO ESPÓLIO.
+No presente processo, a parte agravante afirma, em suma, que estão presentes os requisitos para o conhecimento e provimento de seu recurso.
+Ocorre, contudo, que a questão já foi enfrentada pela decisão recorrida, que analisou detidamente todas as questões jurídicas postas.
+Para conhecer da controvérsia apresentada neste recurso, mostra-se necessário o revolvimento do acervo fático-probatório dos autos, procedimento incompatível com o entendimento firmado pela Súmula nº 7 deste Superior Tribunal de Justiça, que estabelece que: "A pretensão de simples reexame de prova não enseja recurso especial."
+De fato, presente a função uniformizadora do Recurso Especial, não se pode cogitar de seu emprego para a realização de rejulgamento do contexto fático-probatório, em atitude típica de revisão promovida por nova instância.
+Diante disso, é reiterada a jurisprudência desta Corte que assenta que "o reexame de fatos e provas (é) vedado em recurso especial pela Súmula nº 7 do STJ."(AgInt no REsp n. 2.151.760/SC, relator Ministro Humberto Martins, Terceira Turma, julgado em 9/12/2024, DJEN de 12/12/2024.)
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM RESTITUIÇÃO DE VALORES E INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7 DO STJ. RESTITUIÇÃO DE QUANTIA PAGA. CONTRATO DE COMPRA E VENDA DE IMÓVEL. RESOLUÇÃO POR CULPA DA CONSTRUTORA/VENDEDORA. DEVOLUÇÃO DA COMISSÃO DE CORRETAGEM. PRESCRIÇÃO. PRAZO TRIENAL. INAPLICABILIDADE. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA.
+1. Ação de rescisão contratual cumulada com restituição de valores e indenização por danos morais e materiais.
+2. Alterar o decidido no acórdão impugnado no que se refere às teses atinentes à alegada ilegitimidade passiva dos recorrentes no tocante à relação jurídica havida entre as partes e à delimitação de suposta responsabilidade, envolve o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+(..)
+(AgInt nos EDcl no AREsp n. 2.627.058/MG, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 11/11/2024, DJe de 13/11/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE PRODUÇÃO ANTECIPADA DE PROVAS. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. APLICAÇÃO DA SÚMULA N.º 283 DO STF, POR ANALOGIA. CERCEAMENTO DE DEFESA. NÃO CONFIGURAÇÃO. REFORMA DO JULGADO. ANÁLISE DE MATÉRIA FÁTICO-PROBATÓRIA. NÃO CABIMENTO. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. TEMA NÃO DEBATIDO PELAS INSTÂNCIAS ORDINÁRIAS. APLICAÇÃO DA SÚMULA N.º 282 DO STF. PREQUESTIONAENTO. MATÉRIA DE ORDEM PÚBLICA. NECESSIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. A falta de impugnação a fundamento suficiente para manter o acórdão recorrido acarreta o não conhecimento do recurso.
+Inteligência da Súmula n.º 283 do STF, aplicável, por analogia, ao recurso especial.
+2. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula n.º 7 do STJ.
+(..)
+(AgInt no AREsp n. 2.662.287/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 28/10/2024, DJe de 30/10/2024.)
+Não se quer dizer, contudo, que o debate do quadro fático não possa ser revisado nesta instância especial. Ao revés, é também pacífico o entendimento de que: "a revaloração jurídica de fatos e provas incontroversos delineados no acórdão impugnado afasta a aplicação da Súmula nº 7 do STJ na espécie." (AgInt no AREsp n. 1.742.678/MT, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 8/6/2021, DJe de 11/6/2021.)
+Cuida-se, contudo, de ônus imputado à parte recorrente, que não pode se limitar a afirmar que sua pretensão demanda apenas o reenquadramento fático à moldura legal pretendida, devendo, isto sim, evidenciar, objetivamente, que a análise fática estabilizada melhor se enquadra em outra forma jurídica.
+Daí porque este colegiado também tem afirmado, reiteradamente, que "No tocante às Súmulas nºs 5 e 7/STJ, não basta a parte sustentar genericamente a não aplicação dos óbices, sem explicitar, à luz do contexto fático delineado no acórdão e da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame fático-probatório ou da análise das cláusulas contratuais." (AgInt no AREsp n. 2.250.305/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 2/10/2023, DJe de 6/10/2023.)
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE RESCISÃO DE CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. INDENIZAÇÃO. DANOS MATERIAIS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A TODOS OS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, DO NCPC (ART. 544, § 4º, I, DO CPC/73). AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do NCPC (544, § 4º, I, do CPC/73), não impugna os fundamentos da respectiva inadmissibilidade (incidência das Súmulas n.ºs 5 e 7 do STJ e 284 do STF).
+3. Não basta para considerar "especificamente impugnados" os fundamentos da decisão recorrida a mera transcrição de súmulas ou reprodução de dispositivos legais violados. Necessário, além das indicações expressas e claras, a sua vinculação aos fatos tal como analisados pelo acórdão ou decisão para então, mediante enfrentamento dialético desse conjunto de permissivos constitucionais em face do exame soberano do material de cognição pela Corte estadual, se chegar ao almejado entendimento de que a classificação jurídica concluída não espelha o melhor direito ao caso.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.925.017/SC, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 5/9/2022, DJe de 8/9/2022.)
+No presente feito, o acolhimento da tese recursal demandaria inevitável revisão do quadro fático-probatório estabelecido na instância de origem, providência que, como visto, é inviável nesta sede.
+Ante o exposto, não conheço do agravo em recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 2% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+ EMENTA
