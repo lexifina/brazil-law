@@ -1,0 +1,69 @@
+DECISÃO
+Trata-se de agravo interposto por ALISSON DE SOUSA GOMES, em adversidade à decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Estado do Pará, cuja ementa, na parte que interessa, é a seguinte (e-STJ fls. 318/321):
+APELAÇÃO CRIMINAL. ROUBO MAJORADO PELO CONCURSO DE AGENTES E EMPREGO DE ARMA DE FOGO (ARTIGO 157, §2º, II E §2º-A, I, DO CÓDIGO PENAL) .
+ ..
+2. DA EXCLUSÃO DA QUALIFICADORA DO EMPREGO DE ARMA DE FOGO. NÃO ACOLHIMENTO. O PLEITO DE RETIRADA DA MAJORANTE DO EMPREGO DE ARMA DE FOGO SOB O ARGUMENTO DE NÃO TER HAVIDO PERÍCIA E NEM APREENSÃO DO ARMAMENTO NÃO TEM COMO PROSPERAR, POIS, OS AUTOS REVELARAM QUE O DELITO EM TELA FOI PRATICADO COM GRAVE AMEAÇA, MEDIANTE O USO DE ARMA DE FOGO, CONFORME AFIRMOU COM CLAREZA A VÍTIMA E OS POLICIAIS QUE TROCARAM TIROS COM O ACUSADO NO MOMENTO DE SUA PRISÃO. AINDA QUE A ARMA NÃO TENHA SIDO APREENDIDA E PERICIADA, SE POR OUTROS MEIOS A SUA UTILIZAÇÃO NO COMETIMENTO DO DELITO FICOU COMPROVADA, ESPECIALMENTE PELOS DEPOIMENTOS FORNECIDOS EM JUÍZO, QUE SÃO INCISIVOS AO DEMONSTRAREM QUE HOUVE A UTILIZAÇÃO DA ARMA DE FOGO, TORNA IMPOSSÍVEL O AFASTAMENTO DA MAJORANTE. ALÉM DISSO, A FALTA DE EXAME PERICIAL NÃO IMPOSSIBILITA A APLICAÇÃO DA REFERIDA CAUSA AUMENTATIVA, TENDO EM VISTA QUE, EM SE TRATANDO DE CRIME DE ROUBO, O PODER LESIVO DO INSTRUMENTO É PRESUMIDO
+ ..
+Recurso CONHECIDO e DESPROVIDO, porém, alterou-se a pena-base e consequentemente a pena definitiva da apelante para 07 (sete) anos, 09 (nove) meses e 10 (dez) dias de reclusão no regime Semiaberto, além de 10 (dez) dias-multa.
+Nas razões do recurso especial (e-STJ fls. 323/329), fundado na alínea "a" do permissivo constitucional, alega a parte recorrente violação do artigo 157, §2º-A, inciso I, do CP. Sustenta o afastamento da incidência da majorante do uso de arma de fogo, ante a ausência de potencial lesivo do simulacro identificado no local do crime.
+Apresentadas contrarrazões (e-STJ fls. 332/337), o Tribunal a quo não admitiu o recurso especial (e-STJ fls. 339/343), tendo sido interposto o presente agravo (e-STJ fls. 346/354).
+O Ministério Público Federal, instado a se manifestar, opinou pelo não provimento do agravo em recurso especial (e-STJ fls. 393/394).
+É o relatório. Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+O recurso não merece acolhida.
+No que tange à causa de aumento do delito de roubo prevista no art. 157, § 2º, inciso I, do Código Penal, a Terceira Seção deste Tribunal Superior decidiu ser desnecessária a apreensão da arma utilizada no crime e a realização de exame pericial para atestar a sua potencialidade lesiva, quando presentes outros elementos probatórios que atestem o seu efetivo emprego na prática delitiva (EREsp n. 961.863/RS, Relator Ministro CELSO LIMONGI - Desembargador Convocado do TJ/SP), Relator p/ acórdão Ministro GILSON DIPP, Terceira Seção, julgado em 13/12/2010, DJe 6/4/2011).
+Salienta-se que, mesmo após a superveniência das alterações trazidas, em 24/5/2018, pela Lei n. 13.654/2018, essa Corte Superior, no que tange à causa de aumento do delito de roubo prevista no art. 157, § 2º, I , do Código Penal - nos casos em que utilizada arma de fogo -, manteve o entendimento exarado por sua Terceira Seção, no sentido de ser desnecessária a apreensão da arma utilizada no crime e a realização de exame pericial para atestar a sua potencialidade lesiva, quando presentes outros elementos probatórios que atestem o seu efetivo emprego na prática delitiva, uma vez que seu potencial lesivo é in re ipsa (AgRg no HC n. 473.117/MS, Relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 5/2/2019, DJe 14/2/2019).
+Nessa linha, os seguintes julgados:
+RECURSO ESPECIAL. PENAL. ROUBO MAJORADO. VIOLAÇÃO DO ART. 157, § 2º-A, I, DO CP. RESTABELECIMENTO DA MAJORANTE DO EMPREGO DE ARMA DE FOGO. POSSIBILIDADE. APREENSÃO E PERÍCIA. DESNECESSIDADE. UTILIZAÇÃO DO ARTEFATO DEMONSTRADA POR OUTROS ELEMENTOS DE CONVICÇÃO. SIMULACRO. ÔNUS DEFENSIVO.
+1. A jurisprudência desta Corte é firme no sentido de que é prescindível a apreensão e a perícia da arma para a incidência da majorante do emprego de arma de fogo no crime de roubo, quando existirem nos autos outros elementos de prova capazes de comprovar a sua utilização no delito. Ademais, a pretensão de decote da majorante sob a alegação de que se trata de simulacro dependeria da apreensão e perícia no artefato, prova que caberia à defesa produzir.
+1.1. No caso, há prova oral - depoimento da vítima -, como reconhecido na sentença de primeiro grau e no voto vencido do acórdão recorrido, no sentido do emprego de arma de fogo no roubo descrito na denúncia. Logo, deve ser restabelecida a incidência da majorante.
+2. Recurso especial provido nos termos do dispositivo. (REsp n. 2.181.529/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 15/10/2025, DJEN de 21/10/2025.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ROUBO MAJORADO. NULIDADE DO RECONHECIMENTO PESSOAL. NÃO VERIFICADA. FORMALIDADES DO ART. 226 DO CPP FORAM CUMPRIDAS. OUTROS ELEMENTOS DE PROVAS. ILEGALIDADE NÃO VERIFICADA. DOSIMETRIA. AFASTAMENTO DA CAUSA DE AUMENTO DO EMPREGO DE ARMA DE FOGO. IMPOSSIBILIDADE. COMPROVAÇÃO POR PROVA ORAL. RECURSO IMPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática que negou provimento a recurso especial, mantendo a condenação por roubo majorado, com fundamento em reconhecimento fotográfico e emprego de arma de fogo.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) a validade do reconhecimento fotográfico realizado sem observância das formalidades do art. 226 do CPP; e (ii) a possibilidade de aplicação da majorante de emprego de arma de fogo sem apreensão e perícia do artefato.
+III. RAZÕES DE DECIDIR
+3. Não há violação ao art. 226 do Código de Processo Penal, uma vez que o reconhecimento do agravante foi realizado em estrita observância às formalidades nele previstas.
+4. Ademais, a condenação foi fundamentada em outros elementos de prova colhidos sob o crivo do contraditório, como depoimentos de testemunhas e da vítima, além de provas materiais.
+5.
+A jurisprudência consolidada do STJ permite a aplicação da majorante de emprego de arma de fogo com base em prova oral, sem necessidade de apreensão e perícia, desde que outros elementos probatórios demonstrem seu uso.
+IV. DISPOSITIVO
+6. Agravo regimental desprovido. (AgRg no REsp n. 2.097.038/MG, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 2/9/2025, DJEN de 8/9/2025.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSO PENAL. ROUBO. RECONHECIMENTO FOTOGRÁFICO. APREENSÃO DE ARMA DE FOGO, DESNECESSIDADE. PENA BASE E DISCRICIONARIEDADE DO JULGADOR. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A nulidade do reconhecimento fotográfico, por inobservância do art. 226 do CPP, não implica no trancamento da ação penal quando há outras provas independentes que atestam a autoria delitiva. 2. A existência de provas independentes e aptas a atestar a autoria e a materialidade delitivas permite a continuidade da ação penal, mesmo com a anulação do reconhecimento fotográfico.
+2. A jurisprudência pacífica desta Corte dispensa a apreensão e perícia da arma de fogo para a aplicação da majorante, desde que existam outros meios de prova que comprovem seu uso.
+3. A dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade.
+4. É válida a fixação de regime inicial fechado com base em circunstâncias judiciais desfavoráveis.
+5. Agravo regimental desprovido. (AgRg no HC n. 825.168/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 20/8/2025, DJEN de 26/8/2025.)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. PRESCINDIBILIDADE DA APREENSÃO E PERÍCIA DE ARMA DE FOGO. UTILIZAÇÃO EVIDENCIADA POR OUTROS MEIOS DE PROVA. SÚMULA N. 568 DO STJ. REVISÃO DAS PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ.
+1. O entendimento do Superior Tribunal de Justiça é no sentido da prescindibilidade da apreensão e perícia da arma de fogo para a incidência da majorante, desde que evidenciada sua utilização por outros meios de provas, tais como a palavra da vítima ou o depoimento de testemunhas, como é o caso dos autos.
+2. A reforma do julgado, com o objetivo de reconhecer a fragilidade do elemento probatório quanto ao uso de arma de fogo na ação delituosa, demanda o reexame do conjunto fático-probatório dos autos, providência inviável em razão do óbice da Súmula n. 7 do STJ.
+3. No âmbito do Superior Tribunal de Justiça, o relator poderá, monocraticamente, dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema (Súmula n. 568 do STJ).
+4. Agravo regimental improvido. (AgRg no AREsp n. 2.428.752/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 13/8/2025, DJEN de 18/8/2025.)
+DIREITO PENAL. AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. EMPREGO DE ARMA DE FOGO .PERÍCIA DESNECESSIDADE. REGIME PRISIONAL MAIS GRAVOSO. FUNDAMENTAÇÃO CONCRETA. RECURSO NÃO PROVIDO.
+I. Caso em exame
+1. Agravo interposto contra decisão que inadmitiu recurso especial contra acórdão do Tribunal de Justiça do Estado de São Paulo, que manteve a condenação por roubo majorado, com emprego de arma de fogo e concurso de agentes, na forma do art. 70 do Código Penal.
+2. A defesa alega violação dos arts. 33 e 157, § 2º-A, I, do Código Penal, sustentando o afastamento da majorante do emprego de arma de fogo devido à ausência de apreensão e perícia, e pleiteia a fixação do regime inicial semiaberto, considerando a primariedade do recorrente e a pena-base fixada no mínimo legal.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a ausência de apreensão e perícia da arma de fogo impede a aplicação da majorante prevista no art. 157, § 2º-A, I, do Código Penal.
+4. Outra questão em discussão é a adequação do regime prisional fixado, considerando a primariedade do réu e a pena-base no mínimo legal.
+III. Razões de decidir
+5. A jurisprudência do Superior Tribunal de Justiça dispensa a apreensão e perícia da arma de fogo para a incidência da majorante, quando outros elementos probatórios, como relatos de vítimas e testemunhas, comprovam seu uso.
+6. O regime prisional mais gravoso foi justificado com base em circunstâncias concretas do crime, como o concurso de múltiplos agentes e de uso de arma de fogo, sendo suficiente para fixar o regime fechado, mesmo com a pri mariedade do réu e a pena-base no mínimo legal.
+IV. Dispositivo e tese
+7. Recurso não provido.
+Tese de julgamento: "1. A apreensão e perícia da arma de fogo não são necessárias para a aplicação da majorante do art. 157, § 2º-A, I, do Código Penal, quando comprovada sua utilização por outros meios de prova. 2. A fixação de regime prisional mais gravoso exige motivação concreta baseada nas circunstâncias do crime ou reincidência."
+Dispositivos relevantes citados: CP, art. 157, § 2º-A, I; CP, art. 33; CP, art. 59.Jurisprudência relevante citada: STJ, EREsp 961.863/RS, Rel. Min. Celso Limongi, Terceira Seção, julgado em 13/12/2010; STJ, AgRg no HC 699.286/SP, Rel. Min. Olindo Menezes, Sexta Turma, julgado em 28/6/2022. (AREsp n. 2.851.782/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/5/2025, DJEN de 21/5/2025.)
+No presente caso, o Tribunal de origem, ao manter a causa de aumento do artigo 157, §2º-A, inciso I, do CP, consignou (e-STJ fls. 307/309):
+O pleito de retirada da majorante do emprego de arma sob o argumento de não ter havido perícia e nem apreensão da arma não tem como prosperar, pois, os autos revelaram que o delito em tela foi praticado com grave ameaça, mediante o uso de arma de fogo, conforme afirmou com clareza a vítima em juízo.
+A manutenção da causa de aumento de pena pelo uso de arma é medida que se impõe, ainda que a arma não tenha sido apreendida e periciada, se por outros meios a sua utilização no cometimento do delito ficou comprovada, especialmente pelos depoimentos fornecidos pela vítima, que é incisiva ao demonstrar que houve a utilização da arma de fogo.
+A vítima Isac Gomes do Nascimento relata em juízo que sua moto foi roubada na comunidade do Mocajuba, estando os envolvidos armados com arma de fogo, anunciando o assalto e depois se evadindo do local.
+Além disso, importante ressaltar que a falta de exame pericial não impossibilita a aplicação da referida causa aumentativa, tendo em vista que, em se tratando de crime de roubo, o poder lesivo do instrumento é presumido.
+Os policiais militares afirmaram em juízo que chegaram a trocar tiros com os envolvidos.
+ ..
+Assim, não há que se cogitar a retirada da causa de aumento de pena pelo emprego de arma de fogo, pois a palavra da vítima tem especial relevância, em razão do contato direto mantido com o agente criminoso, podendo conduzir ao reconhecimento pessoal ou ao domodus operandi autor. O valor de tal meio de prova ganha importância principalmente nos casos que não contam com testemunhas presenciais, bem como quando inexistem motivos para falsa acusação.
+Assim, tendo ficado expressamente registrado o emprego da arma de fogo  segundo afirmação da vítima e dos policiais, que afirmaram em juízo que chegaram a trocar tiros com os envolvidos  , deve ser mantida a incidência da referida causa de aumento.
+Ante o exposto, com fundamento no art. 932, inciso VIII, do Código de Processo Civil, c/c o art. 253, parágrafo único, inciso II, alínea "b", do RISTJ e na Súmula n. 568/STJ, conheço do agravo para negar provimento ao recurso especial.
+Intimem-se.
+EMENTA
