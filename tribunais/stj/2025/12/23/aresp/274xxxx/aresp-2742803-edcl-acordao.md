@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. ART. 619 DO CÓDIGO DE PROCESSO PENAL. ALEGAÇÃO DE OMISSÃO. INEXISTÊNCIA. PRETENSÃO DE REDISCUSSÃO DA CAUSA. DESCABIMENTO.
+1. Nos termos do comando normativo insculpido no art. 619 do CPP, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou ambiguidades eventualmente existentes no provimento judicial.
+2. O voto condutor concluiu que a defesa não impugnou, na petição de agravo, os óbices apontados, nas decisões vergastadas, referentes à impossibilidade de conhecimento do recurso especial em razão da Súmula 83 do STJ, em relação ao pleito de nulidade pela ausência de suposto quesito obrigatório, e em razão da Súmula 282 do STF, no tocante ao pleito de descabimento da qualificadora do recurso que dificultou a defesa da vítima (fl. 214). Diante dessa omissão, aplicou-se o enunciado da Súmula n. 182 do STJ, culminando no não conhecimento do agravo regimental.
+3. N ão há que se falar em omissão, porquanto o agravo regimental deixou de ser conhecido em virtude da ausência de impugnação específica aos fundamentos da decisão agravada, evidenciando a deficiência da petição recursal.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por LILIA MARIA ALVES COSTA E ADRIANA ALVES DE SOUZA ao acórdão assim ementado (fls. 211/212):
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO TENTADO. REVISÃO CRIMINAL. RAZÕES QUE NÃO INFIRMARAM TODOS OS FUNDAMENTOS DO DECISUM ATACADO. INCIDÊNCIA DO ENTENDIMENTO DA SÚMULA 182/STJ. HOMICÍDIO QUALIFICADO TENTADO. REVISÃO CRIMINAL. SUPOSTA NULIDADE NA FORMULAÇÃO DOS QUESITOS. ALEGAÇÃO TARDIA. PRECLUSÃO TEMPORAL. SÚMULA 83/STJ. QUALIFICADORA DO RECURSO QUE DIFICULTOU A DEFESA DA VÍTIMA. MATÉRIA NÃO DEBATIDA NA INSTÂNCIA DE ORIGEM. FALTA DE PREQUESTIONAMENTO. SÚMULA 82/STF. DIMINUIÇÃO DA PENA PELA TENTATIVA. CRITÉRIOS JUSTIFICADOS. NECESSIDADE DE REEXAME PROBATÓRIO. SÚMULA 7/STJ. DECISÕES MANTIDAS.
+1. Não infirmados especificamente todos fundamentos das decisões recorridas, é de ser negada a simples pretensão de reforma (Súmula 182 desta Corte). Precedentes.
+2. No mais, reitero os fundamentos esposados nas decisões monocráticas.
+3. Na ausência de argumento apto a afastar as razões consideradas nos julgados agravados, que estão em sintonia com a jurisprudência desta Corte Superior de Justiça, devem ser mantidas as decisões por seus próprios termos.
+4. Agravo regimental não conhecido.
+Aponta omissão quanto ao não enfrentamento, pelo acórdão, dos argumentos deduzidos no agravo regimental visando o conhecimento, julgamento e provimento do recurso especial, notadamente a nulidade absoluta por ausência de quesito obrigatório, insuscetível de preclusão.
+Sustenta omissão quanto à desnecessidade de reexame de provas para a análise da fração de redução pela tentativa, afirmando que a questão demandaria apenas o exame da fundamentação empregada na dosimetria.
+Aduz omissão relativamente ao "equívoco" do acórdão ao afirmar ausência de prequestionamento sobre a qualificadora do recurso que dificultou a defesa, tópico que, segundo a defesa, não teria sido objeto do recurso especial tal como indicado no julgado.
+Alega omissão pelo não enfrentamento do pleito de concessão de habeas corpus de ofício, com fundamento no art. 647-A, parágrafo único, do Código de Processo Penal, introduzido pela Lei n. 14.836/2024.
+Pugna, assim, pela supressão dos vícios apontados (fls. 223/227).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. ART. 619 DO CÓDIGO DE PROCESSO PENAL. ALEGAÇÃO DE OMISSÃO. INEXISTÊNCIA. PRETENSÃO DE REDISCUSSÃO DA CAUSA. DESCABIMENTO.
+1. Nos termos do comando normativo insculpido no art. 619 do CPP, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou ambiguidades eventualmente existentes no provimento judicial.
+2. O voto condutor concluiu que a defesa não impugnou, na petição de agravo, os óbices apontados, nas decisões vergastadas, referentes à impossibilidade de conhecimento do recurso especial em razão da Súmula 83 do STJ, em relação ao pleito de nulidade pela ausência de suposto quesito obrigatório, e em razão da Súmula 282 do STF, no tocante ao pleito de descabimento da qualificadora do recurso que dificultou a defesa da vítima (fl. 214). Diante dessa omissão, aplicou-se o enunciado da Súmula n. 182 do STJ, culminando no não conhecimento do agravo regimental.
+3. N ão há que se falar em omissão, porquanto o agravo regimental deixou de ser conhecido em virtude da ausência de impugnação específica aos fundamentos da decisão agravada, evidenciando a deficiência da petição recursal.
+4. Embargos de declaração rejeitados.
+VOTO
+Os aclaratórios são manifestamente improcedentes.
+Como é sabido, nos termos do comando normativo insculpido no art. 619 do CPP, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou ambiguidades eventualmente existentes no provimento judicial.
+No caso, o acórdão embargado assentou, de forma clara e suficiente, que o agravo regimental não infirmou todos os fundamentos das decisões monocráticas que, por sua vez, repeliram: (i) a tese de nulidade por ausência de quesito obrigatório, pela ocorrência de preclusão e pela desnecessidade lógica do quesito diante do reconhecimento do homicídio tentado, com aplicação da Súmula 83 do Superior Tribunal de Justiça; (ii) a pretensão referente à qualificadora do recurso que dificultou a defesa, pela ausência de prequestionamento, nos termos da Súmula 282 do Supremo Tribunal Federal; e (iii) a revisão da fração de redução pela tentativa, por exigir reexame fático-probatório, atraindo a Súmula 7 do Superior Tribunal de Justiça.
+O voto condutor concluiu que a defesa não impugnou, na petição de agravo, os óbices apontados, nas decisões vergastadas, referentes à impossibilidade de conhecimento do recurso especial em razão da Súmula 83 do STJ, em relação ao pleito de nulidade pela ausência de suposto quesito obrigatório, e em razão da Súmula 282 do STF, no tocante ao pleito de descabimento da qualificadora do recurso que dificultou a defesa da vítima (fl. 214).
+Diante dessa omissão, aplicou-se o enunciado da Súmula n. 182 do STJ, culminando no não conhecimento do agravo regimental.
+Assim, não há que se falar em omissão, porquanto o agravo regimental deixou de ser conhecido em virtude da ausência de impugnação específica aos fundamentos da decisão agravada, evidenciando a deficiência da petição recursal.
+Quanto ao pleito de habeas corpus de ofício, a via dos embargos de declaração reclama vício do julgado. No acórdão embargado, não se vislumbra ilegalidade flagrante apta a ensejar concessão de ordem de ofício, e o núcleo decisório - não conhecimento do agravo regimental pela incidência da Súmula 182 do Superior Tribunal de Justiça - foi adequadamente motivado nos fundamentos recursais não impugnados.
+Com efeito, o que se verifica das razões dos embargos é a tentativa da parte embargante de, por via oblíqua, rediscutir o julgamento que lhe fora desfavorável, providência descabida na via eleita. A propósito, confiram-se os EDcl no HC n. 335.663/RS, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 11/3/2016.
+Ante o exposto, rejeito os embargos de declaração.
