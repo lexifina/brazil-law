@@ -1,0 +1,3 @@
+# LEI Nº 23.068, DE 11 DE NOVEMBRO DE 2024
+Altera a Lei nº 13.909, de 25 de setembro de 2001, que dispõe sobre o Estatuto e o Plano de Cargos e Vencimentos do Pessoal do Magistério, a Lei nº 20.422, de 7 de março de 2019, a Lei nº 20.757, de 28 de janeiro de 2020, a Lei nº 20.917, de 21 de dezembro de 2020, a Lei nº 21.085, de 13 de dezembro de 2021, e autoriza o Chefe do Poder Executivo a instituir, na Secretaria de Estado da Educação, o Bônus por Resultado no ano de 2025.
+A ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:
