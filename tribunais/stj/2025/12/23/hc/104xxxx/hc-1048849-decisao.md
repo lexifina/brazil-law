@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ADEMIRCO ALVES EMIDIO JUNIOR contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO.
+Depreende-se dos autos que o paciente foi sentenciado à pena de 25 anos de reclusão, em regime inicial fechado, pela suposta prática do delito previsto no art. 157, §3º, e artigo 29, ambos do Código Penal; negado o direito de recorrer em liberdade.
+Neste writ a defesa interpôs recurso de apelação e aponta excesso de prazo não atribuível à sua atuação, mas decorrente de inércia do Ministério Público, que, embora intimado em 04/09/2025, com termo inicial em 05/09/2025 e final em 12/09/2025, deixou transcorrer in albis o prazo de 8 dias e, mesmo após novo despacho de intimação em 22/09/2025, permaneceu inerte, o que obsta a inclusão do feito em pauta e a realização de sustentação oral
+Requer o relaxamento da segregação cautelar e, subsidiariamente, a substituição da prisão por medidas cautelares alternativas previstas no art. 319 do Código de Processo Penal.
+A liminar foi indeferida às fls. 173-174.
+Informações prestadas às fls. 183-361 e 363-368.
+O Ministério Público Federa l em parecer, às fls. 388-390, opinou pela denegação da ordem.
+É  o  relatório. DECIDO.
+Pretende  o  Paciente,  em  síntese,  o  reconhecimento  de  constrangimento  ilegal  consubstanciado  no  excesso  de  prazo  para  o  julgamento  da  apelação.
+Inicialmente,  deve  se  ressaltar  que  os  prazos  processuais  não  têm  as  características  de  fatalidade  e  de  improrrogabilidade,  fazendo-se  imprescindível  raciocinar  com  o  juízo  de  razoabilidade  para  definir  o  excesso  de  prazo.
+Na  hipótese, o paciente afirma que; tendo sido prolatada sentença condenatória em seu desfavor, no dia 27 de agosto de 2024, e considerando que o recurso de apelação interposto, ainda não teria sido apreciado; restou configurado constrangimento ilegal em razão de excesso de prazo.
+Transcrevo, por oportuno, trecho das informações prestadas pelo Tribunal local:
+Em cumprimento ao previsto no art. 58, inciso XLVIII, do RITJES, venho respeitosamente prestar as devidas informações para o julgamento do referido writ.
+Cuida-se de recurso de apelação criminal interposto por ADEMIRÇO ALVES EMÍDIO JÚNIOR em face de sentença proferida pelo Juízo da Vara Criminal da Comarca de Marataízes/ES, que, nos autos da ação penal movida pelo MINISTÉRIO PÚBLICO DO ESTADO DO ESPÍRITO SANTO, condenou o apelante pela prática do crime previsto no artigo 157, § 3º c/c artigo 29, ambos do Código Penal, à pena de 25 (vinte e cinco) anos de reclusão.
+Nas razões recursais, a defesa alega, em síntese, que a condenação do apelante amparou-se em reconhecimentos fotográficos e depoimentos testemunhais que revelam inconsistências e contradições, não sendo possível afirmar que o acusado esteve presente no momento do disparo fatal ou, ainda, determinar com segurança a efetiva participação que teria desempenhado nos fatos.
+Os autos foram remetidos para a 2ª instância, visando a análise do recurso interposto, em 27/06/2025, sendo inicialmente distribuído ao Gabinete do Desembargador Eder Pontes da Silva que, verificando prevenção, determinou a redistribuição ao meu Gabinete em 11/07/2025.
+Recebidos os autos neste Gabinete, foi determinada a intimação da defesa do acusado para cumprimento das disposições do art. 600, § 4º, do CPP e posterior remessa à Procuradoria de Justiça para emissão de parecer (11/07/2025).
+Após a apresentação das razões recursais em 22/08/2025, os autos foram remetidos para o Ministério Público para oferecimento de contrarrazões em 25/08/2025, contudo a Promotoria de Justiça deixou transcorrer in albis o prazo.
+Ato contínuo, em despacho datado de 05/11/2025 os autos retornaram sem contrarrazões, oportunidade em que foi determinada de remessa do feito à Procuradoria de Justiça para manifestação, estando o feito no aguardo do fim do prazo concedido (15 dias), que irá findar em 02/12/2025.
+Por fim, esclareço que em razão da pena fixada (25 anos de reclusão), não há que se falar em excesso de prazo, consoante entendimento do c. STJ, que dispõe que "a elevada reprimenda estabelecida na sentença condenatória deve ser considerada para fins de análise de suposto excesso de prazo no julgamento do recurso defensivo" (HC n. 992.660/PA, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 24/6/2025, DJEN de 30/6/2025.). (fls. 364-365).
+In casu,  não  se  verifica  a  existência  de  demora  exacerbada  a  configurar  o  constrangimento  ilegal  suscitado,  levando  em  consideração  a  gravidade  concreta  da  conduta ,  tendo  sido  aplicada  ao  paciente substancial reprimenda de  25 anos de reclusão, pela suposta prática do delito de latrocínio;  não  apresentando  qualquer  irregularidade  capaz  de  justificar  o  relaxamento  da  prisão  cautelar  sob  o  fundamento  de  excesso  de  prazo.
+No  ponto,  cumpre  registrar  que,  de  acordo  com  a  jurisprudência  desta  Corte,  o  excesso  de  prazo  para  o  julgamento  da  apelação  deve  levar  em  consideração  o  quantum  da  pena  aplicada  pela  sentença  condenatória:
+"Ademais, eventual excesso de prazo deve ser mensurado de acordo com a quantidade de pena imposta na sentença condenatória" (AgRg no RHC n. 197.741/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 26/8/2024, DJe de 30/8/2024.)
+Outrossim, não restou demonstrado que, em razão de eventual demora para a apreciação do recurso de apelação, o Paciente se encontra impedido de usufruir de benefícios relativos à execução da pena:
+"Não há demonstração de que, em razão de eventual demora para a apreciação da apelação, os agravantes se encontrem impedidos de usufruir de benefícios relativos à execução da pena" (AgRg no RHC n. 148.614/SP, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região),Sexta Turma, DJe de 18/2/2022)
+Por fim, no que concerne ao pedido de imposição de medidas cautelares alternativas à prisão; verifico que a quaestio não foi apreciada pelo Tribunal de origem, o que obsta o exame desta Corte, sob pena de indevida supressão de instância.
+A propósito:
+"Sob pena de indevida supressão de instância, mostra-se inviável a manifestação desta Corte sobre questão não debatida pelo Tribunal de origem, como ocorre no caso, quanto ao pleito de aplicação de medidas cautelares alternativas" (AgRg no HC n. 874.145/PE, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 4/3/2024, DJe de 7/3/2024.)
+Diante  de  tais  considerações,  portanto,  não  se  vislumbra  a  existência  de  qualquer  flagrante  ilegalidade  passível  de  ser  sanada  pela  concessão  da  ordem.
+Ante o exposto, denego a ordem.
+Publique-se . Intimem-se.
+EMENTA
