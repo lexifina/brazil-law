@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de ISTANIEL DE SOUZA BASILIO, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DE MINAS GERAIS que denegou a ordem no writ de origem.
+Consta nos autos que o paciente foi preso em flagrante, tendo sido posteriormente convertida a prisão em preventiva, pelo suposto crime previsto no art. 33, caput, da Lei n. 11.343/06.
+A defesa alega, em síntese, a ausência de fundamentação idônea do decreto prisional, uma vez que baseada na gravidade abstrata do delito, reputando ausentes os requisitos autorizadores da medida extrema (art. 312 do CPP).
+Afirma que as condições pessoais favoráveis, a pequena quantidade de droga apreendida e os maus antecedentes, por si só, não podem justificar a prisão cautelar, sendo possível a aplicação de medidas cautelares diversas, previstas no art. 319 do Código de Processo Penal.
+Aponta que a prisão preventiva vem sendo utilizada como antecipação de pena, em afronta ao princípio constitucional da presunção de inocência.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva ou aplicação de medidas cautelares diversas (art. 319 do CPP).
+É o relatório.
+A Quinta Turma do Superior Tribunal de Justiça firmou entendimento no sentido de ser inadequada a impetração de habeas corpus quando utilizado em substituição a recurso próprio.
+A teor do disposto no art. 105, II, a, da CF/88, o recurso cabível contra acórdão que denega a ordem na origem é o recurso ordinário, enquanto, consoante previsto no art. 105, III, da CF, o recurso cabível contra acórdão que julga apelação, recurso em sentido estrito e agravo em execução é o recurso especial.
+Nada impede, contudo, a concessão de habeas corpus de ofício quando constatada a existência de ilegalidade flagrante, abuso de poder ou teratologia, nos termos do art. 654, §2º, do CPP, o que ora se passa a examinar.
+A prisão preventiva justifica-se apenas quando devidamente demonstrada sua imprescindibilidade para a preservação da ordem pública, a garantia da regularidade da instrução criminal ou a asseguração da eficácia da aplicação da lei penal, nos termos do art. 312 do Código de Processo Penal.
+O decreto prisional foi assim fundamentado (fls. 286-287):
+ ..  A materialidade delitiva e os indícios de autoria (fumus comissi delicti) permanecem robustos, consubstanciados no Auto de Prisão em Flagrante e, corroborados pelos Laudos Toxicológicos Preliminares que atestaram a natureza entorpecente das substâncias apreendidas: 130 pedras de crack, 95 buchas de maconha, 347 pinos de cocaína, 5 comprimidos de ecstasy e 12 porções de haxixe.
+Quanto ao periculum libertatis, a necessidade da segregação cautelar mantém-se imperiosa para a garantia da ordem pública, nos termos do art. 312 do CPP.
+A gravidade concreta da conduta é evidenciada não apenas pela elevada quantidade e expressiva variedade de entorpecentes apreendidos (cocaína, crack, maconha, haxixe e ecstasy), mas também pelo modus operandi descrito no APFD, indicando operação de tráfico estruturada no Aglomerado Cabana Pai Tomás, com divisão de tarefas e venda na modalidade "drive-thru". Tais circunstâncias ultrapassam a normalidade do tipo penal e indicam dedicação habitual ao comércio espúrio.
+Além da gravidade concreta, a análise individualizada dos investigados reforça o risco de reiteração delitiva:
+ISTANIEL DE SOUZA BASILIO: Conforme apontado pelo Ministério Público e confirmado pela Certidão de Antecedentes Criminais (CAC), o investigado é reincidente específico, ostentando condenação anterior por tráfico de drogas (Autos nº 0356543-74.2019.8.13.0024). Tal fato demonstra que a aplicação da lei penal anterior não foi suficiente para frear seu ímpeto delituoso.
+ ..
+Diante desse cenário, as medidas cautelares diversas da prisão (art. 319 do CPP) revelam-se insuficientes e inadequadas para conter a atividade delitiva e resguardar o meio social.  ..
+Como visto, há fundamentação idônea à decretação da prisão preventiva, evidenciada na necessidade de garantir a ordem pública, face à apreensão de expressiva quantidade e a variedade de drogas destinadas à comercialização - 489,13g de cocaína, 90g de crack, 148,6g de maconha, 6,3g de haxixe e 3,15g de ecstasy - (fl. 23), e no modus operandi da conduta, com divisão de tarefas e comercialização na modalidade "drive-thru", aliada à noticiada reincidência específica, circunstâncias que revelam maior potencial lesivo da conduta e indicam periculosidade do agente.
+Com efeito, nos casos de prisão em flagrante por tráfico de drogas, a conversão em prisão preventiva pode ser decretada quando a gravidade concreta da conduta se evidencia em fatores como a quantidade e a natureza da substância apreendida, a forma de acondicionamento ou a presença de instrumentos destinados à comercialização, circunstâncias que revelam maior potencial lesivo da conduta e indicam periculosidade do agente, ultrapassando a mera gravidade abstrata do delito.
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. CRIMES DE TRÁFICO DE DROGAS E ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO. ALEGAÇÃO DE INOCÊNCIA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. GRANDE QUANTIDADE DE DROGAS. INDÍCIOS DE ENVOLVIMENTO REITERADO. GRAVIDADE CONCRETA DA CONDUTA. SEGREGAÇÃO DEVIDAMENTE JUSTIFICADA PARA A GARANTIA DA ORDEM PÚBLICA. DESPROPORÇÃO EM RELAÇÃO À POSSÍVEL PENA A SER APLICADA. PROGNÓSTICO INVIÁVEL. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. RECURSO NÃO PROVIDO.
+ .. .
+4. Ademais, "É pacífico o entendimento no sentido de que as circunstâncias fáticas do crime, como a quantidade apreendida, a variedade, a natureza nociva dos entorpecentes, a forma de acondicionamento, entre outros aspectos, podem servir de fundamentos para o decreto prisional quando evidenciarem a periculosidade do agente e o efetivo risco à ordem pública, caso permaneça em liberdade."(AgRg no HC n. 787.386/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/12/2022, DJe 19/12/2022).
+ ..
+7. Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando evidenciada a sua insuficiência para acautelar a ordem pública.
+8. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 957.245/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 12/2/2025, DJEN de 18/2/2025.)
+Ademais, esta Corte Superior possui orientação no sentido de que a gravidade concreta do delito imputado e a periculosidade do agente, evidenciadas no modus operandi empregado, são circunstâncias aptas a justificar a prisão preventiva para a garantia da ordem pública. Nesse entendimento:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIO DUPLAMENTE QUALIFICADO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. PERICULOSIDADE DO AGENTE. GRAVIDADE CONCRETA. RÉU QUE SE MANTEVE FORAGIDO DURANTE VÁRIOS ANOS. SEGREGAÇÃO DEVIDAMENTE JUSTIFICADA PARA A GARANTIA DA ORDEM PÚBLICA E APLICAÇÃO DA LEI PENAL. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. RECURSO NÃO PROVIDO.
+ ..
+4. Esta Corte possui jurisprudência consolidada no sentido de que "a gravidade concreta da conduta, reveladora do potencial elevado grau de periculosidade do Agente e consubstanciada na alta reprovabilidade do modus operandi empregado na empreitada delitiva, é fundamento idôneo a lastrear a prisão preventiva, com o intuito de preservar a ordem pública". (AgRg no HC n. 687.840/MS, Rel. Ministra Laurita Vaz, Sexta Turma, julgado em 13/12/2022, DJe 19/12/2022).
+ ..
+9. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 939.735/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 30/10/2024, DJe de 5/11/2024.)
+Além disso, esta Corte Superior firmou orientação no sentido de que a prisão preventiva poderá ser decretada ante o risco concreto de reiteração delitiva, evidenciada na presença de maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo ações penais em andamento, porquanto indicativos de periculosidade. Veja-se:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. RÉU CONDENADO POR ROUBO MAJORADO. NEGATIVA DE RECURSO EM LIBERDADE. FUNDAMENTAÇÃO. PERICULOSIDADE DO AGENTE. REITERAÇÃO DELITIVA. SEGREGAÇÃO DEVIDAMENTE JUSTIFICADA PARA A GARANTIA DA ORDEM PÚBLICA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. RECURSO NÃO PROVIDO.
+ ..
+3. Conforme pacífica jurisprudência desta Corte, "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (RHC n. 107.238/GO, Relator Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 26/2/2019, DJe 12/3/2019). Prisão preventiva, no caso vertente, devidamente justificada para a garantia da ordem pública, nos termos do art. 312 do CPP, visando frear a reiteração delitiva.
+ ..
+7. Agravo regimental a que se nega provimento.
+(AgRg no RHC n. 187.651/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/9/2024, DJe de 12/9/2024.)
+Desse modo, "tendo sido exposta de forma fundamentada e concreta a necessidade da prisão, revela-se incabível sua substituição por outras medidas cautelares mais brandas" (AgRg no HC n. 965.960/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/3/2025, DJEN de 10/3/2025).
+Ressalte-se, ainda, que a prisão preventiva é compatível com a presunção de inocência quando amparada em fundamentos concretos que evidenciem a necessidade da medida para a garantia da ordem pública, nos termos do art. 312 do Código de Processo Penal. Neste sentido: AgRg no RHC n. 201.499/BA, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2/4/2025, DJEN de 8/4/2025; HC n. 856.198/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 15/10/2024, DJe de 12/11/2024.
+Não há, portanto, flagrante ilegalidade que justifique a concessão da ordem de ofício.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
