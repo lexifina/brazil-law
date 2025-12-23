@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de pedido de uniformização de interpretação de lei suscitado por José Vítor Alves de Oliveira, com fundamento no art. 18 da Lei n. 12.153/2009, contra acórdão da Terceira Turma Recursal da Fazenda Pública do Tribunal de Justiça de São Paulo assim ementado (e-STJ fl. 127):
+EMENTA: DIREITO ADMINISTRATIVO. RECURSO INIMINADO. INFRA ÇÃO DE TRÂNSITO. SENTENÇA MANTIDA. RECURSO DESPROVIDO.
+I. Caso em Exame
+Recurso inominado interposto pelo autor em face da r. sentença que julgou improcedente o pedido de nulidade do auto de infração de trânsito nº 1DG3734701 lavrado por infração ao artigo 175 do Código de Trânsito Brasileiro.
+II. Questão em Discussão
+A questão em discussão consiste em verificar se há vícios formais no auto de infração que justificam sua anulação.
+III. Razões de Decidir
+Os atos administrativos possuem presunção de legalidade, veracidade e legitimidade, e exigem robusta prova em sentido contrário, para que sejam anulados.
+O auto de infração atende aos requisitos do artigo 280 do CTB, incluindo a tipificação da infração e a descrição da conduta, conforme relatado pelo agente de trânsito.
+IV. Dispositivo e Tese
+Recurso improvido. Tese de julgamento: 1. Atos administrativos gozam de presunção de legitimidade e veracidade. 2. Auto de infração válido, pois, atendeu aos requisitos legais.
+O requerente afirma que o aresto combatido violou a Súmula 473 do STF e deu interpretação divergente daquela conferida por Turma Recursal do Tribunal de Justiça do Estado do Rio Grande do Sul quanto ao art. 281, §1º, I, do Código de Trânsito Brasileiro, uma vez que, nos termos do Manual Brasileiro de Fiscalização de Trânsito, para configuração da infração ao art. 175 do CTB, é necessária a apresentação de elementos concretos no campo de observações do auto de infração.
+Decorrido o prazo legal sem oferecimento de contrarrazões (e-STJ fl. 146).
+Passo a decidir.
+Dispõem os arts. 18, §§ 1º, 2º e 3º, e 19 da Lei n. 12.153/2009:
+Art. 18. Caberá pedido de uniformização de interpretação de lei quando houver divergência entre decisões proferidas por Turmas Recursais sobre questões de direito material.
+§ 1º O pedido fundado em divergência entre Turmas do mesmo Estado será julgado em reunião conjunta das Turmas em conflito, sob a presidência de desembargador indicado pelo Tribunal de Justiça.
+§ 2º No caso do § 1º, a reunião de juízes domiciliados em cidades diversas poderá ser feita por meio eletrônico.
+§ 3º Quando as Turmas de diferentes Estados derem a lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade com súmula do Superior Tribunal de Justiça, o pedido será por este julgado.
+Art. 19. Quando a orientação acolhida pelas Turmas de Uniformização de que trata o § 1º do art. 18 contrariar súmula do Superior Tribunal de Justiça, a parte interessada poderá provocar a manifestação deste, que dirimirá a divergência.
+Consoante previsto nos referidos dispositivos, bem como no art. 67, parágrafo único, VIII-A, do Regimento Interno do Superior Tribunal de Justiça, o pedido de interpretação de lei submetido ao crivo do Superior Tribunal de Justiça, no âmbito dos Juizados Especiais da Fazenda Pública, somente é cabível - em questão de direito material - em três hipóteses: (i) quando as Turmas Recursais dos Juizados Especiais de Fazenda Pública de diferentes Estados derem, à lei federal, interpretações divergentes; (ii) quando a decisão proferida estiver em contrariedade com súmula do Superior Tribunal de Justiça; (iii) quando a Turma de Uniformização contrariar súmula desta Corte.
+Da simples leitura do dispositivo acima transcrito, exsurge que o mecanismo de uniformização de jurisprudência e de submissão das decisões das Turmas Recursais ao crivo do Superior Tribunal de Justiça, no âmbito dos Juizados Especiais da Fazenda Pública, restringe-se a questões de direito material, em duas hipóteses capitais: a) quando as Turmas de diferentes Estados derem, à lei federal, interpretações divergentes; b) quando a decisão proferida estiver em contrariedade à súmula do Superior Tribunal de Justiça.
+Cumpre ainda registrar que, conforme jurisprudência do STJ, deve-se demonstrar a divergência aduzida mediante: juntada de certidão ou de cópia autenticada do acórdão paradigma, ou, em sua falta, da declaração pelo advogado da autenticidade dessas; citação de repositório oficial, autorizado ou credenciado, em que o acórdão divergente foi publicado; e de adequado cotejo analítico, com a transcrição dos trechos dos acórdãos em que se funda a divergência e a demonstração das circunstâncias que identificam ou assemelham os casos confrontados.
+No caso, a parte requerente não juntou cópia do acórdão paradigma e não realizou o adequado cotejo analítico, pois transcreveu as ementas e trouxe um fragmento dos acórdãos, sendo que o trecho do acórdão recorrido nem sequer trata da fundamentação do julgado, e, calcada nisto, mencionou que existiria discrepância jurisprudencial, circunstâncias que inviabilizam seu conhecimento.
+Nesse sentido:
+AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. AUSÊNCIA DE COTEJO ANALÍTICO.
+1. Dispõe o § 3º do art. 18 da Lei n. 12.153/2009 que caberá o Pedido de Uniformização de Interpretação de Lei para o STJ: "Quando as Turmas de diferentes Estados derem a lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade com súmula do Superior Tribunal de Justiça, o pedido será por este julgado".
+2. É pacifico o entendimento de que a simples transcrição de ementas e de trechos de julgados não é suficiente para caracterizar o cotejo analítico.
+3. Para demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, indicar a similitude fática e jurídica entre eles. Indispensável a transcrição de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar a interpretação legal divergente, o que não ocorreu no caso em análise. Precedentes.
+Agravo interno desprovido.
+(AgInt no PUIL n. 2.667/SC, relator Ministro Humberto Martins, Primeira Seção, julgado em 8/3/2023, DJe de 13/3/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI, COM FUNDAMENTO NO ART. 18, § 3º, DA LEI 12.153/2009. DISSÍDIO NÃO COMPROVADO.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. "Esta Corte já pacificou o entendimento de que a simples transcrição de ementas e de trechos de julgados não é suficiente para caracterizar o cotejo analítico, uma vez que requer a demonstração das circunstâncias identificadoras da divergência entre o caso confrontado e o aresto paradigma, mesmo no caso de dissídio notório" (AgInt no AREsp n. 1.242.167/MA, Relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 5/4/2019). Em igual sentido: AgInt no AREsp 1.657.171/MT, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 28/10/2020; AgRg no AREsp 535.444/PR, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 1º/4/2019; REsp 1.773.244/RJ, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe 5/4/2019; e AgInt no AREsp 1.358.026/RS, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe 1º/4/2019.
+3. É entendimento pacífico desta Corte que o Pedido de Uniformização de Interpretação de Lei não pode ser conhecido quando não demonstrada a similitude fática e jurídica entre os julgados confrontados.
+4. Agravo interno não provido.
+(AgInt no PUIL n. 2.292/PR, relator Ministro Benedito Gonçalves, Primeira Seção, julgado em 12/4/2022, DJe de 19/4/2022.)
+Além disso, o cerne da controvérsia estaria na inobservância da Resolução do Contran que teria instituído o Manual Brasileiro de Fiscalização de Trânsito, o qual não se enquadra no conceito de lei federal de que trata o art. 18, § 3º, da Lei n. 12.153/2009.
+A propósito: AgInt no PUIL n. 4.571/SP, relator Ministro Sérgio Kukina, Primeira Seção, julgado em 13/8/2025, DJEN de 20/8/2025; e AgInt no PUIL n. 4.067/DF, relator Ministro Afrânio Vilela, Primeira Seção, julgado em 18/2/2025, DJEN de 21/2/2025.
+Registro, ainda, que, apesar de o requerente fazer menção a violação à súmula, não especifica como ela teria sido contrariada. Também verifica-se que a questão nela disposta - possibilidade de a Administração anular seus próprios atos - não foi discutida pela Turma Recursal paulista, o que inviabiliza seu conhecimento.
+Confiram-se: PUIL n. 5.273/RS, relator Ministro Teodoro Silva Santos, Primeira Seção, julgado em 14/10/2025, DJEN de 22/10/2025; AgInt no PUIL n. 3.414/CE, relator Ministro Afrânio Vilela, Primeira Seção, julgado em 18/2/2025, DJEN de 21/2/2025; e AgInt no PUIL n. 4.453/SP, relator Ministro Sérgio Kukina, Primeira Seção, julgado em 18/2/2025, DJEN de 21/2/2025.
+Ante o exposto, com fundamento no art. 34, XVIII, "a", do RISTJ, NÃO CONHEÇO do pedido de uniformização.
+Publique-se. Intimem-se.
+EMENTA
