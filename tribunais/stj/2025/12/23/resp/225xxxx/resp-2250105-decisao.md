@@ -1,0 +1,47 @@
+DECISÃO
+Examina-se recurso especial interposto por ELIZABETE MACHADO DA SILVA, fundamentado nas alíneas "a" e "c" do permissivo constitucional..
+Recurso especial interposto em: 17/10/2025.
+Concluso ao gabinete em: 15/12/2025
+Ação: de rescisão contratual c/c reparação de danos materiais e compensação por danos morais e consignação em depósito de coisa móvel, ajuizada por ELIZABETE MACHADO DA SILVA, em face de INGAS COMERCIO DE VEICULOS LTDA e AYMORÉ CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A., na qual requer a rescisão dos contratos de compra e venda e de financiamento, a restituição dos valores pagos, reparação de danos materiais no valor de R$ 2.150,00 e compensação por danos morais no valor de R$ 50.000,00.
+Sentença: com fundamento no art. 485, VIII, do CPC, homologou o requerimento de desistência e, como consequência direta, julgou extinto o processo, sem a resolução do mérito. (e-STJ fls. 225-226)
+Acórdão: negou provimento ao recurso de apelação interposto por ELIZABETE MACHADO DA SILVA, nos termos da seguinte ementa:
+DIREITO PROCESSUAL CIVIL. RECURSO DE APELAÇÃO. AÇÃO DE RESCISÃO CONTRATUAL C/C INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. COMPRA E VENDA DE VEÍCULO USADO. CONTRATO DE FINANCIAMENTO COM GARANTIA DE ALIENAÇÃO FIDUCIÁRIA. VÍCIO OCULTO. ACORDO EXTRAJUDICIAL COM REVENDEDORA (1ª RÉ) PARA SUBSTITUIÇÃO DO PRODUTO. PEDIDOS SUBSIDIÁRIOS RELACIONADOS À INSTITUIÇÃO FINANCEIRA. REQUERIMENTO DA PARTE AUTORA PELA EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DO MÉRITO. ALEGADA PERDA SUPERVENIENTE DO INTERESSE PROCESSUAL. DISTINÇÃO. DESISTÊNCIA DA AÇÃO. ÔNUS SUCUMBENCIAIS DE RESPONSABILIDADE DA PARTE QUE DESISTIU. RECURSO CONHECIDO E DESPROVIDO.
+I. CASO EM EXAME
+Apelação interposta pela autora contra sentença que extinguiu o feito sem resolução do mérito, com fulcro no art. 485, VIII, do CPC, e condenou a parte autora ao pagamento de despesas processuais e honorários advocatícios.
+II. QUESTÃO EM DISCUSSÃO
+As questões em discussão consistem em definir: (i) se a extinção do processo deve ser fundamentada no art. 485, VI (perda do interesse processual) ou no art. 485, VIII (desistência da ação); (ii) se a condenação da autora ao pagamento de honorários sucumbenciais viola o princípio da causalidade; (iii) se, mantida a condenação, a base de cálculo deve ser limitada à parte remanescente da lide ou proporcionalmente dividida entre os réus.
+III. RAZÕES DE DECIDIR
+A perda superveniente do interesse processual ocorre quando o objeto da demanda se torna inútil ou irrelevante, ou pela obtenção da satisfação da pretensão do autor, que passa a não mais necessitar da intervenção do Estado-Juiz, o que difere da desistência, na qual a parte abdica da tutela judicial.
+A celebração de acordo entre a autora e uma das rés que não contempla integralmente os pedidos formulados na inicial, aliada à manifestação expressa de desinteresse na continuidade do feito, configura desistência tácita da ação.
+Em casos de desistência da lide, a regra geral é que a parte que desistiu arca com os ônus sucumbenciais, nos termos do art. 90 do Código de Processo Civil.
+Tendo em vista que os pedidos formulados contra a instituição financeira estavam intrinsecamente ligados à rescisão do contrato principal de compra e venda, a aceitação de solução diversa pela autora inviabiliza o prosseguimento da ação apenas em relação à instituição financeira.
+A base de cálculo dos honorários advocatícios em caso de desistência da ação é o valor integral da causa, não havendo fundamento legal para sua fragmentação quando a desistência abrange todos os pedidos formulados na inicial.
+IV. DISPOSITIVO
+Recurso desprovido. (e-STJ fls. 281-282)
+Embargos de Declaração: opostos por ELIZABETE MACHADO DA SILVA, foram rejeitados. (e-STJ fls. 317-320)
+Recurso especial: alega violação dos arts. 11, 85, § 2º, § 10, § 11, 90, 485, IV, VI, VIII, 489, § 1º, IV, e 1.022, II, do CPC, e 54-F do CDC, bem como dissídio jurisprudencial.
+Afirma que a extinção deve ser qualificada como perda superveniente do interesse de agir, e não desistência. Aduz que os honorários sucumbenciais devem observar o princípio da causalidade, impondo-se à parte que deu causa ao processo. Argumenta que há responsabilidade solidária da instituição financeira em razão da coligação contratual prevista no CDC. Além da negativa de prestação jurisdicional, sustenta que a base de cálculo dos honorários deve refletir apenas a pretensão remanescente ou ser dividida proporcionalmente em cenário de responsabilidade solidária. (e-STJ fls. 327-348)
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação dos arts. 489 e 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. A propósito, confira-se: AgInt no REsp 1.726.592/MT, Terceira Turma, DJe de 31/8/2020; e AgInt no AREsp 1.518.178/MG, Quarta Turma, DJe de 16/3/2020.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca distinção entre os institutos da perda superveniente do interesse processual e da desistência da ação, consignando expressamente que a primeira hipótese difere da desistência, na qual a parte abdica da tutela judicial, de modo que os embargos de declaração opostos pela parte recorrente, de fato, não comportavam acolhimento no ponto.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC.
+Ademais, devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+Além disso, conforme entendimento desta Corte, "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte, como ocorreu na espécie. Violação do art. 489, § 1º, do CPC/2015 não configurada" (AgInt no REsp 1.584.831/CE, Segunda Turma, DJe 21/6/2016). No mesmo sentido: AgInt nos EDcl no AREsp 1.547.208/SP, Terceira Turma, DJe 19/12/2019 e AgInt no AREsp 1.480.314/RJ, Quarta Turma, DJe 19/12/2019.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca do 54-F do CDC, apesar da oposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+- Da divergência jurisprudencial
+A comprovação da divergência jurisprudencial demanda que a parte recorrente realize uma análise comparativa detalhada entre o acórdão recorrido e o paradigma, de modo a identificar as semelhanças entre as situações de fato e a existência de interpretações jurídicas diferentes sobre mesmo dispositivo legal, além de observar os requisitos formais, consoante previsão dos arts. 1.029, § 1º, do CPC e 255, §§ 1º e 3º, do RISTJ.
+No entanto, neste recurso, evidencia-se a ausência do cotejo analítico. Importante destacar que a mera transcrição das ementas dos acórdãos não é suficiente para comprovar o dissídio jurisprudencial. É necessário realizar uma comparação minuciosa entre os trechos dos acórdãos recorrido e o paradigma, explicitando como os tribunais interpretam de forma divergente, porém em situações semelhantes, o mesmo artigo de lei federal. Nesse sentido: AgInt no AREsp 2.396.088/PR, Terceira Turma, DJe de 22/11/2023, e AgInt no AREsp 2.334.899/SP, Quarta Turma, DJe de 7/12/2023.
+Forte nessas razões, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, majoro em 2% os honorários fixados anteriormente, observada eventual gratuidade de justiça deferida.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL C/C REPARAÇÃO DE DANOS MATERAIS E COMPENSAÇÃO POR DANOS MORAIS E CONSIGNAÇÃO EM DEPÓSITO DE COISA MÓVEL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. INOCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE. AUSÊNCIA.
+1. Ação de rescisão contratual c/c reparação de danos materiais e compensação por danos morais e consignação em depósito de coisa móvel.
+2. Ausentes os vícios do art. 1022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. Recurso especial parcialmente conhecido e, nessa parte, não provido.
