@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso especial interposto em face do acórdão assim ementado (fls. 401/413, e-STJ):
+APELAÇÃO CÍVEL. PROCESSO CIVIL. AÇÃO ORDINÁRIA DE REPETIÇÃO DE INDÉBITO E PERDAS E DANOS, COM PEDIDO DE ANTECIPAÇÃO DE TUTELA. Preliminares sustentadas pela apelante quanto à não intimação para manifestação sobre os embargos declaratórios e exceção de pré-executividade. Situação não veficada. Intimação para se manifestar a respeito dos embargos aclaratórios confirmada. Ofensa ao devido processo legal e aos princípios da ampla defesa e do contraditório. Inocorrência. Ausência de demonstração do prejuízo. Preliminares indeferidas. Pedido de anulação da sentença. Impossibilidade. Sentença extintiva da execução em virtude da desistência da parte exequente. Honorários advocatícios. Possibilidade, nos termos do art. 90 do Código de Processo Civil. Recurso conhecido e Improvido. Sentença mantida.
+Em suas razões recursais (fls. 485/495, e-STJ), suscita ofensa ao art. 20, §§ 3º e 4º, do CPC/73, pois os honorários de sucumbência foram fixados em valor extremamente elevado.
+A recorrida, devidamente intimada, apresentou contrarrazões pugnando pelo não provimento do recurso (fls. 521/526, e-STJ).
+Assim posta a questão, passo a decidir.
+Presentes os pressupostos de admissibilidade e ultrapassado o limite do conhecimento do presente recurso, verifico que não deve ser provido.
+A Súmula nº 568, desta Corte, dispõe que "relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+Quanto à violação ao art. 20, §§ 3º e 4º, do CPC/73, o pedido não deve ser acolhido.
+Prevalece nesta Corte o entendimento de que, quando fixados na vigência do CPC/73, "não se mostra possível, em recurso especial, a revisão do valor fixado a título de honorários advocatícios, pois tal providência exigiria novo exame do contexto fático-probatório constante dos autos, providência vedada pela Súmula 7/STJ" (AgInt no AREsp n. 2.437.415/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 11/11/2024, DJe de 14/11/2024). Só se admitia rever o valor, na vigência do CPC/73, se fosse teratológico ou manifestamente inadequado: para mais ou para menos. Nada disso ocorreu no presente caso. O recurso apenas demonstra irresignação e intenção de procrastinar o feito.
+Portanto, não existem razões para o arbitramento de verbas sucumbenciais de forma diversa da fixada pelas instâncias ordinárias. Os honorários foram fixados em 5% do valor da causa pelo juiz de primeira instância. O Tribunal de origem manteve o patamar de honorários fixado pelo juiz da causa, nos termos do art. 20, § 4º, do CPC/73. Portanto, para rever os critérios de fixação estabelecidos pelas instâncias ordinárias, seria necessário rever a matéria fática, em flagrante ofensa ao óbice da Súmula 7/STJ.
+Em face do exposto, nego provimento ao recurso especial.
+Intimem-se.
+EMENTA
