@@ -1,0 +1,22 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade do recurso extraordinário, com base no art. 102, III, “a”, da Constituição Federal, apresentado por Cosma do Brasil Produtos e Serviços Automotivos Ltda., em face do acórdão do Tribunal Regional Federal da 3ª Região assim ementado:
+
+“TRIBUTÁRIO. APELAÇÃO EM MANDADO DE SEGURANÇA. LIMITE DE VINTE SALÁRIOS MÍNIMOS. ART. 4º, PARÁGRAFO ÚNICO, DA LEI N. 6.950/1981. REVOGAÇÃO PELO DECRETO-LEI N. 2.318/1986. TEMA 1079 DO STJ. MODULAÇÃO DE EFEITOS. IMPOSSIBILIDADE.” (Apelação cível nº 5003805-41.2020.4.03.6114, 4ª Turma do Tribunal Regional Federal da 3ª Região, Rel. Des. Fed. Mônica  Nobre, j. 19.9.2024)
+
+Na minuta, sustenta-se violação dos arts. 145, §1º, 150, II e 170, IV, da Constituição da República.
+É o relatório.
+Decido.
+O recurso não comporta provimento.
+De plano, verifica-se que o presente caso trata sobre a limitação da base de cálculo das contribuições destinadas a terceiros ao teto de 20 (vinte) salários-mínimos diante da revogação do art. 4º, parágrafo único, da Lei nº 6.950/1981 pelo Decreto-Lei nº 2.318/1986.
+Ocorre que, no julgamento do Tema nº 1393 da Repercussão Geral, esta Corte firmou a seguinte tese: “É infraconstitucional a controvérsia sobre a limitação da base de cálculo das contribuições destinadas a terceiros ao teto de 20 (vinte) salários-mínimos previsto na Lei nº 6.950/1981”. Nesse sentido:
+
+“Direito tributário. Recurso extraordinário com agravo. Contribuições destinadas a terceiros. Limitação da base de cálculo. Matéria infraconstitucional. I. Caso em exame 1. Recurso extraordinário contra acórdão do Tribunal Regional Federal da 4ª Região, que rejeitou pedido de limitação da base de cálculo de contribuições destinadas a terceiros ao teto de 20 salários-mínimos. Isso porque o limite previsto no art. 4º, parágrafo único, da Lei nº 6.950/1981 teria sido revogado pelo Decreto-Lei nº 2.318/1986. II. Questão em discussão 2. A questão em discussão consiste em saber se a base de cálculo das contribuições destinadas a terceiros está sujeita ao limite de 20 (vinte) salários-mínimos. III. Razões de decidir 3. A jurisprudência do Supremo Tribunal Federal afirma a natureza infraconstitucional da controvérsia sobre a limitação da base de cálculo de contribuições destinadas a terceiros ao teto de 20 (vinte) salários-mínimos. 4. O debate sobre a revogação do art. 4º, parágrafo único, da Lei nº 6.950/1981 pelo Decreto-Lei nº 2.318/1986 exige o exame da legislação infraconstitucional. Inexistência de questão constitucional. IV. Dispositivo e tese 5. Recurso conhecido e desprovido. Tese de julgamento: “É infraconstitucional a controvérsia sobre a limitação da base de cálculo das contribuições destinadas a terceiros ao teto de 20 (vinte) salários-mínimos previsto na Lei nº 6.950/1981”.” (ARE 1535441 RG, Rel. Ministro Presidente, Tribunal Pleno, DJe-148 09-05-2025)
+“Agravo regimental em recurso extraordinário com agravo. 2. Direito Tributário. 3. Contribuições parafiscais ou destinadas a terceiros. 4. Limite para o salário de contribuição. Lei 6.950/1981. Decreto-Lei 2.318/1986. 5. Matéria infraconstitucional. Ofensa reflexa à Constituição Federal. 6. Ausência de argumentos capazes de infirmar a decisão agravada. 7. Negativa de provimento ao agravo regimental.” (ARE 1529497 AgR-segundo, Rel. Min. Gilmar Mendes, Segunda Turma,  DJe 05-03-2025)
+
+Ainda que a parte recorrente busque afastar a aplicação do Tema 1393 sob o argumento de que o recurso extraordinário se volta exclusivamente contra a modulação de efeitos fixada no Tema 1079 do Superior Tribunal de Justiça, essa alegação não viabiliza o conhecimento do apelo extremo. Isso porque, conforme reiteradamente decidido por esta Corte, a impugnação à modulação de efeitos realizada por tribunal infraconstitucional, ainda que sob a ótica de afronta a princípios constitucionais, não configura ofensa direta à Constituição Federal, mas sim reflexa, o que afasta a competência do Supremo Tribunal Federal para o exame da controvérsia por meio de recurso extraordinário. Nesse sentido, cito as decisões monocráticas: ARE 1537782, Min. Luiz Fux, DJe 10.03.2025; ARE 1533896, Rel. Min. Luís Roberto Barroso (Presidente), DJe 04.02.2025; e RE 1532026 ED, Rel. Min. Luís Roberto Barroso (Presidente), DJe 31.01.2025.
+Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+Publique-se.
+Brasília, 23 de dezembro de 2025.
+
+Ministro FLÁVIO DINO
+Relator
+Documento assinado digitalmente
