@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por SUATA SERVIÇO UNIFICADO DE ARMAZENAGEM E TERMINAL ALFANDEGADO S.A., ATLÂNTICO TERMINAIS S/A e MOVECTA S.A. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o Tribunal de origem negou provimento à apelação interposta pelas partes ora agravantes, mantendo a sentença de improcedência.
+O acórdão recorrido foi assim ementado (fl. 2351):
+"Apelação. Ação monitória. Embargos monitórios. Sentença de rejeição dos embargos e constituição do título executivo judicial. Irresignação das Rés. Não acolhimento. Cerceamento de defesa. Inocorrência. Prova pericial e testemunhal despiciendas ao deslinde do feito. Prova documental suficiente. Inteligência do art. 370 do CPC. Mérito. Contrato de prestação de serviços e fornecimento de equipamentos. Alegação de exceção do contrato não cumprido e onerosidade excessiva. Descabimento. Ausência de comprovação de inadimplemento da Autora ou de fato imprevisível capaz de gerar desequilíbrio contratual. Multa contratual. Redução. Impossibilidade. Ausência de abusividade. Sentença mantida. Honorários majorados. Recurso não provido."
+Opostos embargos de declaração, foram rejeitados (fls. 2382-2390).
+Nas razões do recurso especial (fls. 2393-2415), interposto com fundamento no art. 105, III, "a" e "c", da Constituição Federal, as partes recorrentes alegaram violação aos arts. 413 e 884 do Código Civil. Sustentaram, em síntese, a necessidade de redução equitativa da cláusula penal (multa contratual), sob o argumento de que o valor fixado seria manifestamente excessivo e geraria enriquecimento sem causa da recorrida, considerando o cumprimento parcial da obrigação e a desproporção econômica.
+A decisão de admissibilidade (fls. 2503-2506) negou seguimento ao recurso especial, aplicando o óbice da Súmula 7/STJ, ao fundamento de que a revisão da multa contratual exigiria reexame fático-probatório.
+Inconformadas, as partes agravantes interpuseram o presente agravo (fls. 2509-2525), impugnando especificamente os fundamentos da decisão recorrida e alegando que a questão versa sobre valoração jurídica de fatos incontroversos.
+A contraminuta foi apresentada (fls. 2528-2571).
+É, no essencial, o relatório. Passo a decidir.
+Da admissibilidade do agravo
+O agravo em recurso especial preenche os requisitos de admissibilidade, uma vez que as partes agravantes impugnaram especificamente os fundamentos da decisão que inadmitiu o apelo nobre na origem, afastando, nesta etapa inicial, a incidência da Súmula 182/STJ.
+Assim, passo à análise do recurso especial.
+Da incidência da Súmula 7/STJ
+A controvérsia central do recurso especial reside na pretensão de redução da multa contratual (cláusula penal), com base nos arts. 413 e 884 do Código Civil. As recorrentes argumentam que o montante fixado é excessivo e que a sua manutenção enseja enriquecimento ilícito.
+Contudo, o Tribunal de origem (fls. 2351-2369), soberano na análise das provas e das cláusulas contratuais, concluiu pela validade da multa pactuada e pela ausência de abusividade que justificasse a intervenção judicial para sua redução.
+Extrai-se dos autos que a Corte local, ao julgar os embargos de declaração integradores do acórdão recorrido, fundamentou sua convicção na análise concreta do cumprimento das obrigações, consignando o seguinte (fl. 2390):
+"Foi pactuado o pagamento de forma parcelada/financiada, período em que havia garantia contra defeitos de fabricação, o que estava sendo devidamente cumprido pela requerida. Deste modo, descabia a pretensão de rescisão para cessação dos pagamentos de serviços já foram efetivamente prestados, pois nada mais são do que a contraprestação pelo que já lhe foi entregue e está usufruindo desde fev/2016, caso contrários, resultaria em enriquecimento ilícito das contratantes."
+A revisão do valor estabelecido a título de cláusula penal, para fins de redução equitativa prevista no art. 413 do Código Civil, demanda a incursão no acervo fático-probatório.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREQUESTIONAMENTO FICTO. NÃO OCORRÊNCIA. SÚMULA 211/STJ . IMÓVEL. PROMESSA DE COMPRA E VENDA. COMISSÃO DE CORRETAGEM. CABÍVEL COM RESULTADO ÚTIL DO CORRETOR . REEXAME DE PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULA 7/STJ. SÚMULA 5/STJ . 1. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas n. 5 e 7 do Superior Tribunal de Justiça). 2 . A comissão de corretagem é devida, quando caracterizado o resultado útil da atuação do corretor. 3. Agravo interno a que se nega provimento. (STJ - AgInt no AREsp: 2243705 SP 2022/0351683-2, Relator.: Ministra MARIA ISABEL GALLOTTI, Data de Julgamento: 16/10/2023, T4 - QUARTA TURMA, Data de Publicação: DJe 20/10/2023).
+Para alterar a conclusão do acórdão recorrido e acolher a tese de que a multa é excessiva ou desproporcional, seria imprescindível o reexame do contexto fático-probatório dos autos e das cláusulas do contrato celebrado entre as partes. Tal procedimento é vedado em sede de recurso especial, nos termos da Súmula 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios fixados pelo Tribunal de origem para 17% (dezessete por cento) sobre o valor atualizado da causa, observada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
