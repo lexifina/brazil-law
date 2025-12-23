@@ -1,0 +1,21 @@
+DECISÃO
+Vistos.
+Verifico que a controvérsia objeto do presente recurso guarda relação com o Tema Repetitivo n. 1388 afetado por desta Corte  Necessidade de observância dos parâmetros mínimos estabelecidos no art. 85, § 8º-A, do CPC, quando da fixação dos honorários advocatícios por apreciação equitativa  , no qual foi determinada a suspensão dos recursos especiais e dos agravos em recurso especial que versem sobre idêntica questão jurídica, nos termos do art. 1.037, II, do Código de Processo Civil, consoante os fundamentos estampados na seguinte ementa:
+PROPOSTA DE AFETAÇÃO. RECURSO ESPECIAL. PROCESSAMENTO SOB O RITO DOS RECURSOS ESPECIAIS REPETITIVOS. ART. 256-H DO RISTJ C/C O ART. 1.037 DO CPC/2015. CAUSA-PILOTO. HONORÁRIOS ADVOCATÍCIOS FIXADOS POR EQUIDADE. OBSERVÂNCIA DOS PARÂMETROS DO ART. 85, § 8º-A, DO CPC. AFASTAMENTO DE DIVERGÊNCIA INTERPRETATIVA. AFETAÇÃO AO RITO DOS REPETITIVOS.
+I. CASO EM EXAME
+1. Recurso especial encaminhado à Comissão Gestora de Precedentes pelo reconhecimento de multiplicidade de processos com controvérsia idêntica relativa à observância dos parâmetros mínimos do art. 85, § 8º-A, do CPC na fixação equitativa dos honorários advocatícios.
+Após manifestação favorável da Procuradoria-Geral da República e declaração de suspeição da Ministra inicialmente relatora, o presente voto propõe a afetação da matéria à sistemática dos repetitivos.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se, na fixação equitativa dos honorários sucumbenciais, o juiz deverá observar os valores recomendados pelo Conselho Seccional da OAB ou o limite mínimo de 10% previsto no § 2º do art. 85 do CPC, aplicando-se o que for maior, nos termos do § 8º-A do mesmo artigo.
+III. RAZÕES DE DECIDIR
+3. O art. 256-E do RISTJ confere ao relator a competência para propor a afetação de recurso especial representativo da controvérsia ao rito dos repetitivos, desde que demonstrados os requisitos legais e regimentais. 4. A multiplicidade da controvérsia está evidenciada por dezenas de acórdãos no STJ e centenas no TJPE, além de processos em trâmite abordando a mesma matéria. 5. A jurisprudência da Segunda Seção do STJ já reconheceu que, na fixação equitativa dos honorários, deve ser aplicado o parâmetro mais vantajoso entre os valores da tabela da OAB e o limite de 10% do § 2º do art. 85 do CPC, conforme decidido no AgInt na Rcl n. 47.536/SP, rel. Min. Antonio Carlos Ferreira, DJe de 5/11/2024.6.
+Apesar disso, persistem divergências entre as Turmas do STJ, havendo julgados que reconhecem a natureza meramente referencial da tabela da OAB, afastando a obrigatoriedade de sua observância. 7. A instabilidade jurisprudencial e a relevância do tema justificam a fixação de tese vinculante com base na sistemática dos repetitivos, para fins de uniformização da interpretação do art. 85, § 8º-A, do CPC.
+8. Presentes os pressupostos do art. 1.036 e seguintes do CPC/2015 e do art. 256-I do RISTJ, é cabível a afetação do presente recurso ao rito dos repetitivos, com proposta de suspensão, no âmbito desta corte e dos Tribunais, dos recursos especiais e agravos em recursos especiais que versam sobre a matéria.
+IV. DISPOSITIVO
+9. Recurso afetado ao rito dos repetitivos. 10. Determinada a suspensão do processamento, no âmbito desta corte e dos Tribunais, dos recursos especiais e agravos em recursos especiais que versam sobre a matéria.
+(ProAfR no REsp n. 2.159.431/SP, relatora Ministra DANIELA TEIXEIRA, SEGUNDA SEÇÃO, j. 30.9.2025, REPDJEN 7.11.2025, DJEN 24.10.2025.)
+Assim, não houve a manifestação do Tribunal de origem a teor do determinado nos arts. 1.039 e 1.040 do Código de Processo Civil, portanto, somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado para esta Corte Superior, para que aqui possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento da Corte a quo.
+Posto isso, DETERMINO a devolução dos autos ao tribunal de origem, com a devida baixa, para que o processo permaneça suspenso até a publicação dos acórdãos dos recursos referentes ao Tema acima identificado, a fim de que a Corte de origem, posteriormente, proceda ao juízo de conformidade
+Prejudicado o exame do recurso especial.
+Publique-se e intimem-se.
+EMENTA
