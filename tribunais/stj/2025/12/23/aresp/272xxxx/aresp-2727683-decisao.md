@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto por PASSOS CAMPOS COMÉRCIO S.A. (e-STJ fls. 1.043/1.053), contra acórdão do Tribunal de Justiça de Minas Gerais assim ementado (e-STJ fls. 451/461):
+APELAÇÃO CÍVEL - AÇÃO DE INDENIZAÇÃO - DANOS EM IMÓVEL LOCADO AO MUNICÍPIO - PRESCRIÇÃO QUINQUENAL -TERMO INICIAL - ENTREGA DAS CHAVES - PRINCÍPIO "ACTIO NATA" - HONORÁRIOS SUCUMBENCIAIS - FAZENDA PÚBLICA - VALOR DA CAUSA - PERCENTUAIS PROGRESSIVOS.
+- O prazo para a prescrição, em ação indenizatória ajuizada em face da Fazenda Pública é o prazo quinquenal, previsto no art. 1º do Decreto nº 20.190/32, conforme entendimento adotado pelo STJ, em recurso especial representativo de controvérsia (REsp 1251993/PR, Rel. Min. MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, D Je 19/12/2012).
+- Pelo princípio da "actio nata", a lesão ao direito ocorre no momento do evento danoso, sendo esta a data inicial de contagem do prazo prescricional.
+- Os honorários de sucumbência, nas causas em que for parte a Fazenda Pública, serão arbitrados observando-se que até o valor de 2.000 salários mínimos, devem ser fixados entre 8% e 10%, conforme § 3º, II, art. 85 CPC.
+A recorrente, com base na alínea "a" do inciso III do art. 105 da Constituição Federal, afirma que o acórdão contraria a legislação federal nos seguintes termos:
+Primeiro, por violar o art. 205 do Código Civil, porque reconheceu o prazo de prescrição como quinquenal - previsto no decreto n. 20.910/32 - em vez de decenal, previsto no Código Civil.
+Também por violar os arts. 189, 944 e 946 do Código Civil e o art. 292, V, do CPC, porque não se poderia considerar a data da devolução do imóvel - em 30/11/2015 - como sendo o marco inicial para a contagem do prazo prescricional, mas a data da identificação de todas as extensões e as quantificações dos danos provocados ao imóvel locado ao Município de Belo Horizonte,
+Por fim, declara que a pandemia de Covid-19 teve o condão de suspender a contagem do prazo prescricional, por se tratar de caso fortuito e de força maior, consoante disposto no parágrafo único do art. 393 do Código Civil.
+O recurso não foi admitido na origem (e-STJ fls. 1.103/1.109).
+O recorrente interpôs agravo dessa decisão (e-STJ fls. 1.112/1.128).
+Passo a decidir.
+No caso, uma vez que o agravo infirmou adequadamente as razões de inadmissão do recurso especial, passo ao exame desse último recurso mencionado.
+Quanto à alegada violação ao art. 205 do Código Civil, não é possível conhecer do recurso especial quando o artigo de lei apontado como violado nas razões do apelo não contém comando normativo capaz de infirmar o fundamento do acórdão atacado, o que atrai a aplicação, por analogia, da Súmula 284 do STF - "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Sobre a questão:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL.  ..  DEFICIÊNCIA DE FUNDAMENTAÇÃO. APLICAÇÃO, POR ANALOGIA, DA SÚMULA N. 284/STF.  ..  AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. RAZÕES RECURSAIS DISSOCIADAS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DAS SÚMULAS N. 283 E 284/STF  ..
+II - A jurisprudência desta Corte considera deficiente a fundamentação do recurso quando os dispositivos apontados como violados não têm comando normativo suficiente para infirmar os fundamentos do aresto recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal  ..
+VIII - Agravo Interno improvido.
+(AgInt no REsp 1.656.968/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 06/06/2017, DJe 16/06/2017).
+No caso, o conteúdo jurídico do art. 205 do Código Civil está dissociado da questão suscitada, que trata de prescrição de pretensão formulada contra o Poder Público, regulada pelo decreto n. 20.910/32. A falta de pertinência temática revela, assim, deficiência da irresignação, nos termos da Súmula 284 do STF.
+Quanto ao segundo fundamento do recurso, para que houvesse utilidade ao provimento buscado, a recorrente teria que demonstrar que, na data de devolução do imóvel pelo Município de Belo Horizonte, seria inviável apurar os danos, pois, desde a devolução das chaves, cessou a possibilidade de haver danos decorrentes do uso e passou a estar na posse do imóvel, podendo fazer o levantamento de vícios porventura existentes.
+Isso posto, a revisão é inviável no âmbito do recurso especial, ante o óbice estampado na Súmula 7 do STJ, uma vez que envolveria a análise de fatos.
+Mais do que isso, no ponto, não levou, ao tribunal de origem, nenhuma discussão relacionada à complexidade que teria demandado tempo alongado para a apuração dos danos, ao ponto de não se poder utilizar a data da devolução como marco inicial da contagem. O recurso especial, logo, carece do requisito constitucional do prequestionamento.
+Por fim, em relação à alegada ofensa ao art. 393 do Código Civil, a instância ordinária não tratou da suspensão do prazo prescricional em razão da pandemia de Covid-19, pois tal argumento não foi trazido quando da interposição do recurso de apelação (e-STJ fls. 405/411), tendo sido veiculado apenas na apresentação dos embargos de declaração (e-STJ fls. 937/946).
+Assim, o presente recurso carece, no ponto, do requisito constitucional do prequestionamento, circunstância que atrai a aplicação analógica da Súmula 282 do STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada". Neste ponto, não conheço do agravo interposto.
+Isso posto, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista, nos autos, prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração de tal verba, em desfavor da parte recorrente, no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se e intimem-se.
+EMENTA
