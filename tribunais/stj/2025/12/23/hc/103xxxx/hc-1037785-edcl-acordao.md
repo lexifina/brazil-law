@@ -1,0 +1,82 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+EMENTA
+PENAL E PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. TRANCAMENTO DE AÇÃO PENAL (ESTELIONATO). IMPETRAÇÃO CONTRA INDEFERIMENTO DE LIMINAR NO TRIBUNAL A QUO. APLICAÇÃO DA SÚMULA N. 691/STF. ALEGAÇÃO DE ERRO DE FATO E OMISSÃO. INOCORRÊNCIA. SUPOSTA ILEGALIDADE DA ATUAÇÃO DO MPF. IRRELEVANTE. MERA PRETENSÃO DE REDISCUSSÃO DO JULGADO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+I. CASO EM EXAME
+1. Embargos de Declaração opostos contra acórdão que negou provimento a agravo regimental, mantendo o indeferimento liminar do Habeas Corpus com base na Súmula n. 691/STF, por ausência de ilegalidade flagrante e vedação à supressão de instância.
+2. O embargante alega erro de fato e omissão, ao argumento central de que o acórdão incorreu em premissa equivocada ao afirmar que os fatos novos (bloq ueio de acesso e extinção cível) não foram objeto de análise no Tribunal de origem, ignorando Memoriais e Questão de Ordem que provariam a negativa de jurisdição naquela instância.
+3. Suposta ilegalidade da atuação do Ministério Público Federal.
+II. QUESTÃO EM DISCUSSÃO
+4. A questão em discussão consiste em verificar a ocorrência de vício de omissão ou erro de fato no acórdão embargado capaz de ensejar sua modificação.
+III. RAZÕES DE DECIDIR
+5. Os embargos de declaração constituem instrumento processual de fundamentação vinculada, cujas hipóteses de cabimento estão restritas à existência de ambiguidade, obscuridade, contradição ou omissão no julgado, nos termos do art. 619 do Código de Processo Penal. A finalidade do recurso não é a reanálise do mérito.
+6. No caso, não merecem acolhimento as alegações da parte embargante. O Acórdão expressou de forma clara e suficiente que a vedação à supressão de instância se mantém, pois o mérito das teses centrais do Habeas Corpus ainda pende de julgamento no Tribunal a quo, e a análise dos fatos novos (bloqueio de acesso e extinção cível) implicaria dupla supressão de instância, independentemente de haverem sido alvo de decisões monocráticas no Tribunal de origem.
+7. A omissão relativa à alegada inovação na tese acusatória pelo Ministério Público Federal também não se configura, uma vez que a decisão se pautou no juízo de admissibilidade do writ e na aplicação da Súmula 691/STF, sendo irrelevante adentrar no mérito da manifestação do Parquet em tal fase processual.
+8. A pretensão do embargante demonstra mero inconformismo com o teor do julgado e busca, indevidamente, a rediscussão da matéria.
+IV. DISPOSITIVO
+9. Embargos de Declaração rejeitados.
+RELATÓRIO
+Trata-se  de  embargos  de declaração no agravo regimental  opostos  por LUIZ GUSTAVO DA ROCHA contra  acordão  da  Sexta  Tu  rma  desta Corte Superior (fls. 235-239) que, por unanimidade, negou provimento ao Agravo Regimental, mantendo a decisão que indeferiu liminarmente o habeas corpus com base na Súmula n. 691/STF, por não vislumbrar ilegalidade flagrante ou teratologia e por entender que a análise dos fatos novos supervenientes implicaria indevida supressão de instância, assim  ementado (fls. 235-236) :
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ESTELIONATO MAJORADO. IMPETRAÇÃO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. SÚMULA N. 691/STF. AUSÊNCIA DE ILEGALIDADE FLAGRANTE OU TERATOLOGIA. FATOS NOVOS SUPERVENIENTES. NOVOS ATOS JUDICIAIS. ANÁLISE. IMPOSSIBILIDADE. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática da Presidência que indeferiu liminarmente o habeas corpus, com fundamento no enunciado da Súmula n. 691/STF.
+2. O agravante sustenta a necessidade de mitigação do verbete sumular, alegando a ocorrência de teratologia na ação penal de origem, bem como a superveniência de fatos novos que comprovariam o cerceamento absoluto de defesa e o agravamento da situação processual.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em verificar se a decisão monocrática que indeferiu a liminar no Tribunal de origem é manifestamente ilegal ou teratológica e se os fatos novos supervenientes autorizam a superação da Súmula n. 691/STF.
+III. RAZÕES DE DECIDIR
+4. A jurisprudência desta Corte Superior é pacífica no sentido do não cabimento de habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, salvo nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade.
+5. No caso, a decisão que indeferiu a liminar no Tribunal Regional Federal não se mostra flagrantemente ilegal, pois as teses de atipicidade da conduta e de cerceamento de defesa pela DPU confundem-se com o próprio mérito da impetração originária, ainda pendente de julgamento, não se vislumbrando a excepcionalidade apta a superar o óbice sumular.
+6. Os fatos novos supervenientes, referentes a novas decisões proferidas na ação penal (determinação de bloqueio de acesso do réu aos autos) e na ação cível (extinção do feito prejudicial), constituem novos atos judiciais. Tais atos não foram objeto de análise pelo Tribunal de origem no writ impugnado, não podendo ser apreciados originariamente por esta Corte Superior, sob pena de indevida supressão de instância.
+IV. DISPOSITIVO
+7. Agravo regimental não provido.
+Em  suas  razões,  o  embargante alega a ocorrência de omissões e erro de fato no julgado.
+Sustenta que o acórdão partiu de premissa fática equivocada ao afirmar que os fatos novos supervenientes não foram objeto de análise pelo Tribunal de origem, sob pena de indevida supressão de instância.
+Alega omissão quanto à análise dos Memoriais (fls. 158-182) e da Questão de Ordem (fls. 216-219), que demonstrariam que o TRF1 já havia sido provocado sobre os fatos novos e negado jurisdição monocraticamente (fls. 245-246).
+Alega, ainda, omissão quanto à ilegalidade da atuação do Ministério Público Federal, que teria utilizado a extinção do feito prejudicial para inovar na tese acusatória, sem que a Defesa tivesse sua contra-argumentação (nos Memoriais ignorados) analisada, em violação à jurisprudência do STF.
+Ao final, requer o acolhimento dos embargos com efeitos infringentes para, sanando as omissões e corrigindo o erro de premissa fática, afastar a Súmula 691/STF e dar provimento ao Agravo Regimental, trancando a ação penal ou, subsidiariamente, determinando o desbloqueio imediato do acesso aos autos e da autodefesa.
+É  o  relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. TRANCAMENTO DE AÇÃO PENAL (ESTELIONATO). IMPETRAÇÃO CONTRA INDEFERIMENTO DE LIMINAR NO TRIBUNAL A QUO. APLICAÇÃO DA SÚMULA N. 691/STF. ALEGAÇÃO DE ERRO DE FATO E OMISSÃO. INOCORRÊNCIA. SUPOSTA ILEGALIDADE DA ATUAÇÃO DO MPF. IRRELEVANTE. MERA PRETENSÃO DE REDISCUSSÃO DO JULGADO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+I. CASO EM EXAME
+1. Embargos de Declaração opostos contra acórdão que negou provimento a agravo regimental, mantendo o indeferimento liminar do Habeas Corpus com base na Súmula n. 691/STF, por ausência de ilegalidade flagrante e vedação à supressão de instância.
+2. O embargante alega erro de fato e omissão, ao argumento central de que o acórdão incorreu em premissa equivocada ao afirmar que os fatos novos (bloq ueio de acesso e extinção cível) não foram objeto de análise no Tribunal de origem, ignorando Memoriais e Questão de Ordem que provariam a negativa de jurisdição naquela instância.
+3. Suposta ilegalidade da atuação do Ministério Público Federal.
+II. QUESTÃO EM DISCUSSÃO
+4. A questão em discussão consiste em verificar a ocorrência de vício de omissão ou erro de fato no acórdão embargado capaz de ensejar sua modificação.
+III. RAZÕES DE DECIDIR
+5. Os embargos de declaração constituem instrumento processual de fundamentação vinculada, cujas hipóteses de cabimento estão restritas à existência de ambiguidade, obscuridade, contradição ou omissão no julgado, nos termos do art. 619 do Código de Processo Penal. A finalidade do recurso não é a reanálise do mérito.
+6. No caso, não merecem acolhimento as alegações da parte embargante. O Acórdão expressou de forma clara e suficiente que a vedação à supressão de instância se mantém, pois o mérito das teses centrais do Habeas Corpus ainda pende de julgamento no Tribunal a quo, e a análise dos fatos novos (bloqueio de acesso e extinção cível) implicaria dupla supressão de instância, independentemente de haverem sido alvo de decisões monocráticas no Tribunal de origem.
+7. A omissão relativa à alegada inovação na tese acusatória pelo Ministério Público Federal também não se configura, uma vez que a decisão se pautou no juízo de admissibilidade do writ e na aplicação da Súmula 691/STF, sendo irrelevante adentrar no mérito da manifestação do Parquet em tal fase processual.
+8. A pretensão do embargante demonstra mero inconformismo com o teor do julgado e busca, indevidamente, a rediscussão da matéria.
+IV. DISPOSITIVO
+9. Embargos de Declaração rejeitados.
+VOTO
+De início, registro que os embargos de declaração são cabíveis quando houver ambiguidade, obscuridade, contradição ou omissão, a teor do art. 619 do Código de Processo Penal - CPP, e erro material, conforme art. 1022, III, do Código de Processo Civil - CPC.
+Apenas excepcionalmente, se constatada a necessidade de mudança no resultado do julgamento em decorrência do próprio reconhecimento da existência de algum desses vícios, é que se descortina a possibilidade de emprestarem-se efeitos infringentes aos aclaratórios.
+A omissão ou contradição capaz de ensejar a integração do julgado pela via dos embargos, por seu turno, é aquela referente às questões de fato ou de direito trazidas à apreciação do julgador e capazes de influenciar no resultado do julgamento, e não a que é apresentada com o manifesto propósito de rediscutir o mérito da causa ou a reapreciação de matéria já decidida, principalmente quando se busca a modificação do julgado. Nesse sentido já decidiu esta sexta turma:
+ ..
+1. Os embargos de declaração são cabíveis nas hipóteses do art. 619 do CPP e são inadmissíveis quando objetivam a mera reapreciação do caso. Somente pode haver modificação do julgado se caracterizadas ambiguidade, obscuridade, contradição ou omissão que importem a alteração de sua conclusão. (AgRg nos EDcl no RHC n. 201.566/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 20/8/2025, DJEN de 26/8/2025.)
+Não  obstante  os  esforços  perpetrados  pelo  ora  embargante,  não  verifico  fundamentos  suficientes  para  infirmar  a  decisão  embargada,  cuja  conclusão  mantenho.
+Da análise dos autos, o que a parte embargante demonstra é mero inconformismo com o teor do acórdão embargado. A matéria em discussão foi analisada de forma clara e explícita, com fundamento nos elementos constantes dos autos e na jurisprudência aplicável à espécie.
+O cerne dos embargos reside no alegado erro de premissa fática, decorrente da omissão na análise dos Memoriais e da Questão de Ordem, que comprovariam que o TRF1 já havia sido provocado monocraticamente sobre os fatos novos (bloqueio de acesso e extinção cível) .
+Contudo, o Acórdão embargado não incorreu em erro ou omissão. O julgado fundamentou, de maneira expressa e suficiente, as razões pelas quais não era possível a superação da Súmula n. 691/STF, independentemente da provocação monocrática do TRF1 sobre fatos novos. Conforme o trecho a seguir (fl. 239):
+No que tange aos Fatos Novos Supervenientes, trazidos no bojo deste agravo regimental e nas petições subsequentes (fls. 122/124 e fls. 146/148), a situação é ainda mais clara.
+O agravante informa sobre (1) uma nova decisão proferida na Ação Penal n. 1039879-11.2023.4.01.3400 que teria bloqueado seu acesso aos autos e proibido seu peticionamento, e (2) a sentença proferida na Ação Cível n. 1001671- 55.2023.4.01.3400 que extinguiu o feito prejudicial.
+Ocorre que tais fatos constituem novos atos judiciais, proferidos por autoridades distintas (Juízo da 12ª Vara Criminal e Juízo da 18ª Vara Cível), e que, por razões óbvias, não foram objeto de análise pelo Tribunal Regional Federal da 1ª Região no bojo do HC n. 1034685-74.2025.4.01.0000, que é o ato coator original impugnado neste writ.
+A apreciação originária desses novos atos por esta Corte Superior, como fundamento para afastar a configuraria manifesta e dupla supressão de Súmula 691/STF, instância. As supostas ilegalidades neles contidas devem ser impugnadas pelas vias processuais adequadas perante o Tribunal de origem, seja por meio de recurso próprio (no caso cível) ou pela impetração de novo habeas corpus (no caso criminal).
+O fundamento principal para a manutenção do óbice sumular não se limita à mera ausência de provocação, mas sim ao fato de que: a) as teses centrais do Habeas Corpus original (atipicidade e cerceamento de defesa pela DPU) ainda estão pendentes de julgamento de mérito pelo Tribunal de origem; e b) os fatos novos (bloqueio de acesso e extinção cível), ainda que levados monocraticamente ao Tribunal a quo, não fizeram parte do ato coator original (decisão que indeferiu a liminar inicial).
+A apreciação dos novos atos judiciais (proferidos por autoridades distintas), como pretendido pelo embargante, implicaria a manifesta e dupla supressão de instância. O fato de o embargante ter protocolado Memoriais ou Questão de Ordem, ou o fato de o TRF1 ter proferido decisões monocráticas sobre esses novos fatos, não altera a conclusão jurídica do Acórdão de que a jurisdição colegiada do Tribunal a quo não foi exaurida sobre a matéria de fundo. Não há erro de premissa fática, mas sim a adoção de um entendimento jurídico que a Defesa busca, a todo custo, rediscutir.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS, ASSOCIAÇÃO PARA O TRÁFICO, POSSE ILEGAL DE ARMA DE FOGO E RECEPTAÇÃO. INDEFERIMENTO LIMINAR DA IMPETRAÇÃO PELA PRESIDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. SÚMULA N. 691 DO STF. TERATOLOGIA OU FLAGRANTE ILEGALIDADE. INEXISTÊNCIA. JULGAMENTO MERITÓRIO. SUPRESSÃO DE INSTÂNCIA. AGRAVO DESPROVIDO.
+1. A jurisprudência desta Corte é firme na compreensão de que não tem cabimento o habeas corpus para desafiar decisão do relator que indeferiu o pedido liminar. Inteligência do enunciado sumular 691 do Supremo Tribunal Federal. Precedentes.
+2. Os rigores do mencionado verbete somente são abrandados nos casos de manifesta teratologia da decisão ou constatação de falta de razoabilidade.
+3. Encontrando-se a decisão suficientemente motivada e fundamentada, não há como afastar o óbice ao conhecimento do remédio constitucional, devendo-se aguardar o julgamento meritório da impetração perante o Tribunal de origem, sob pena de indevida supressão de instância.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 1.045.800/MT, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 3/12/2025, DJEN de 10/12/2025.)
+E, ainda, quanto à alegação de omissão sobre a suposta ilegalidade da atuação do Ministério Público Federal (MPF), que teria inovado na tese acusatória ao utilizar a extinção do feito cível como fundamento contra o writ, tampouco se configura o vício.
+A decisão embargada, ao aplicar a Súmula n. 691/STF, limitou-se à análise dos pressupostos de admissibilidade do Habeas Corpus (juízo prévio da Corte de origem e ausência de teratologia), reconhecendo a inviabilidade de análise dos fatos novos por supressão de instância. A menção à extinção cível no Acórdão apenas serviu para demonstrar a existência de um dos fatos novos trazidos pelo próprio agravante, que não poderia ser apreciado nesta instância.
+Não havia necessidade de o Colegiado adentrar o mérito da atuação do MPF, uma vez que a decisão se pautou em óbice processual (Súmula 691/STF) e não no mérito das alegações (suposta inovação do MPF). O exame da manifestação do Parquet em relação à extinção cível estaria prejudicado pela própria inadmissibilidade do writ e pela vedação à supressão de instância.
+O que se percebe é a tentativa de obter, por via oblíqua, um novo julgamento da causa, finalidade para a qual não se prestam os embargos de declaração.
+Ante o exposto, rejeito os embargos de declaração.
+É  o  voto.
