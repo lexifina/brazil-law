@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de AGRAVO EM RECURSO ESPECIAL interposto por MARCOS APARECIDO RODRIGUES DA SILVA contra decisão da Presidência da Seção de Direito Criminal do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que negou seguimento ao recurso especial, com fundamento na incidência das Súmulas 283 do STF e 7 do STJ, bem como na deficiência de demonstração do dissídio jurisprudencial (e-STJ fls. 1805/1808).
+O agravante foi condenado pela prática dos crimes previstos no art. 89 da Lei nº 8.666/1993 e no art. 168 do Código Penal, à pena definitiva, após julgamento da apelação, de 3 (três) anos e 6 (seis) meses de detenção e 1 (um) ano e 2 (dois) meses de reclusão, em regime inicial semiaberto, além de multa e reparação mínima do dano (e-STJ fls. 1437/1438).
+Segundo o acórdão recorrido, o réu, na condição de proprietário da empresa contratada, ajustou-se verbalmente com o então Prefeito para a realização de concurso público, recebeu valores públicos sem respaldo legal e apropriou-se de quantias arrecadadas com inscrições, mesmo após a anulação do certame (e-STJ fls. 1445/1452).
+Opostos embargos de declaração, estes foram rejeitados (e-STJ fls. 1472/1483).
+No recurso especial, o recorrente alegou, em síntese, violação ao art. 89 da Lei nº 8.666/1993, sustentando ausência de dolo específico, bem como dissídio jurisprudencial (e-STJ fls. 1815/1822).
+O recurso foi inadmitido na origem, sob os fundamentos já mencionados (e-STJ fls. 1805/1808), o que ensejou a interposição do presente agravo em recurso especial.
+O Ministério Público Estadual apresentou contraminuta (e-STJ fls. 1836/1838). O Ministério Público Federal manifestou-se pelo não provimento do agravo, destacando que o acórdão reconheceu expressamente o dolo específico e o prejuízo ao erário, o que inviabiliza a pretensão recursal (e-STJ fls. 1864/1879).
+É o relatório. DECIDO.
+O agravo não merece acolhimento.
+Consoante consignado no acórdão recorrido, o agravante não foi um mero executor de serviços, mas beneficiário direto da contratação ilegal, tendo recebido valores públicos e se apropriado de quantias pertencentes tanto ao Município quanto aos candidatos do concurso público, fatos reconhecidos com base em prova documental e testemunhal robusta .
+A pretensão de afastar o dolo específico, sob o argumento de boa-fé, contraria frontalmente as premissas fáticas firmadas pelas instâncias ordinárias, que reconheceram a consciência da ilicitude e o proveito econômico indevido, incidindo, de forma inafastável, a Súmula 7/STJ.
+Nesse sentido:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. ART. 89 DA LEI N. 8.666/1993. PEDIDO DE ABSOLVIÇÃO POR FALTA DE PROVAS DO DOLO ESPECÍFICO. SÚMULA N. 7/STJ. PRESCRIÇÃO DA PRETENSÃO PUNITIVA NÃO VERIFICADA QUANTO AO CRIME REMANESCENTE. ART. 115 DO CP. INAPLICABILIDADE AO CASO DOS AUTOS. POSSIBILIDADE DE SUBSTITUIÇÃO DA PENA CORPORAL.
+1. A Corte de origem aplicou o entendimento consolidado no Superior Tribunal de Justiça acerca do crime então previsto no art. 89 da Lei n.
+8.666/1993 e considerou comprovada, de forma fundamentada, a presença do dolo específico de causar dano ao erário, de forma necessária e suficiente para a subsunção típica. A reversão do entendimento proferido pelo colegiado local, sob o enfoque pretendido pela defesa, demandaria imprescindível reexame dos elementos fático-probatórios constantes dos autos, o que é defeso em recurso especial, em virtude do que preceitua a Súmula n. 7 desta Corte.
+2. No que se refere à prescrição da pretensão punitiva do crime do art. 89 da Lei n. 8.666/1993, observa-se que "o art. 115 do Código Penal admite a redução do lapso prescricional pela metade "quando o criminoso era  .. , na data da sentença, maior de 70 (setenta) anos", e não a qualquer tempo, até o trânsito em julgado do aresto condenatório" (AgRg nos EDcl no AREsp n. 2.065.313/SP, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 5/3/2024, DJe de 15/3/2024).
+3. De outra parte, procede o pedido de substituição da sanção corporal por medidas restritivas de direitos, pois, após o reconhecimento de que os delitos do art. 90 da Lei n. 8.666/1993 estavam prescritos e a readequação da pena definitiva para 3 anos de detenção quanto ao crime remanescente, passou a inexistir o óbice objetivo para o deferimento do benefício do art. 44 do CP.
+4. Agravo regimental parcialmente provido.
+(AgRg nos EDcl no AREsp n. 1.820.397/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 18/3/2025, DJEN de 25/3/2025.)
+Além disso, o recurso especial não impugnou todos os fundamentos autônomos do acórdão recorrido, especialmente aqueles relacionados à apropriação indébita, o que atrai, por analogia, a Súmula 283/STF.
+O dissídio jurisprudencial igualmente não foi demonstrado de forma adequada, por ausência de cotejo analítico e de similitude fática.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial, na forma do art. 253, inciso II, alínea a, do RISTJ.
+Pu blique-se. Intimem-se.
+EMENTA
