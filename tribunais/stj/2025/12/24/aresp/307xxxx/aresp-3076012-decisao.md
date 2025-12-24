@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo em recurso especial apresentado pelo ESTADO DE SÃO PAULO contra decisão que inadmitiu o apelo nobre interposto com fundamento no art. 105, III, "a", da Constituição Federal.
+Passo a decidir.
+Impende destacar que não deve ser conhecido o agravo que não ataque especificamente todos os fundamentos da decisão agravada, nos termos do art. 932, III, do CPC e do art. 253, parágrafo único, I, do RISTJ. Confira-se o teor dos dispositivos citados:
+Art. 932. Incumbe ao relator:
+ ..
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamento s da decisão recorrida;
+Art. 253. O agravo interposto de decisão que não admitiu o recurso especial obedecerá, no Tribunal de origem, às normas da legislação processual vigente. (Redação dada pela Emenda Regimental n. 16, de 2014)
+Parágrafo único. Distribuído o agravo e ouvido, se necessário, o Ministério Público no prazo de cinco dias, o relator poderá: (Redação dada pela Emenda Regimental n. 16, de 2014)
+I - não conhecer do agravo inadmissível, prejudicado ou daquele que não tenha impugnado especificamente todos os fundamentos da decisão recorrida;  ..
+A Corte Especial do Superior Tribunal de Justiça, no julgamento dos Embargos de Divergência em Agravo em Recurso Especial 701404/SC, 746775/PR e 831326/SP, decidiu pela necessidade de a parte agravante impugnar expressamente todos os fundamentos adotados pela decisão a quo, autônomos ou não, para justificar a inadmissão do recurso especial, sob pena de seu recurso não ser conhecido.
+Da análise dos autos, verifico que essa inadmissão deu-se com base na incidência das Súmula 280 do STF e 7 do STJ.
+Por outro lado, no agravo, foi dito que: (i) os pressupostos fáticos necessários ao exame do recurso estão colocados no acórdão recorrido; (ii) a legislação paulista, na forma do art. 128 do CTN, estabelece a responsabilidade tributária do alienante que não efetua a comunicação de transferência de propriedade (arts. 5º, 6º, II, e 34 da Lei Estadual n. 13.296/2008; e 3º e 4º, III, da Lei n. 6.606/1989); e (iii) houve usurpação da competência do STJ.
+Esse quadro revela que o agravante não demonstrou a desnecessidade da interpretação de normas locais para a resolução da controvérsia. Muito pelo contrário.
+Afinal, o decisum impugnado estabeleceu o seguinte (e-STJ fls. 262/263):
+No que diz respeito à questão referente à responsabilidade solidária do alienante pelo pagamento do IPVA, no julgamento do REsp nº 1.937.040/RJ, Tema nº 1118 do STJ, de 23.11.2022, publicada no DJe de 01.12.2022, o Col. Superior Tribunal de Justiça fixou a seguinte tese:
+"Somente mediante lei estadual/distrital específica poderá ser atribuída ao alienante responsabilidade solidária pelo pagamento do Imposto sobre a Propriedade de Veículos Automotores - IPVA do veículo alienado, na hipótese de ausência de comunicação da venda do bem ao órgão de trânsito competente"
+Neste ponto, a douta Turma Julgadora afastou a responsabilidade solidária do ex-proprietário do veículo, com base na Súmula 385/STJ  sic  e na Arguição de Inconstitucionalidade nº 0055543- 95.2017.8.26.0000, do Órgão Especial deste Tribunal.
+Assim sendo, o fundamento utilizado para interposição somente poderia ter sua procedência verificada mediante o reexame de direito local. Atuante a Súmula 280 do Col. Supremo Tribunal Federal, adotada pela Corte Superior (AgInt no AREsp 1479758/AL, Rel. Min. FRANCISCO FALCÃO, DJe 26/09/2019 e AREsp 1.761.931/PR, Rel. Min. HUMBERTO MARTINS, DJe de 13/01/2021).
+A conclusão, observe-se, é a de que não há norma estadual que autorize a pretendida responsabilização tributária.
+Para demonstrar que a solução da controvérsia independe da aplicação de dispositiv os de lei local, além de apresentar a tese recursal fundada na assertiva de violação de legislação federal, deve o jurisdicional transcrever excertos do acórdão que evidenciem a alegação, ou seja, que exponham ter o Colegiado a quo chegado a entendimento fundado na intepretação de lei federal e aplicável, em tese, em qualquer outra unidade da Federação. Em resumo, é necessário comprovar que a lide não foi julgada pelo Tribunal de origem à luz de interpretação de legislação municipal, estadual ou distrital.
+Destaco, por oportuno, não ser suficiente a apresentação de razões genéricas sobre o óbice apontado pela decisão de inadmissibilidade, sendo exigível da parte agravante o efetivo ataque aos seus fundamentos.
+Cumpre ressaltar que o Tribunal de origem, ao realizar o juízo de admissibilidade do apelo nobre, deve analisar os pressupostos específicos e constitucionais concernentes ao mérito da controvérsia, não havendo que se falar em usurpação da competência do STJ. Nesse sentido: AgInt no AREsp 2107891/PR, relator Ministro Humberto Martins, Segunda Turma, julgado em 14/11/2022, DJe de 30/11/2022; AgInt no AREsp 2164815/RS, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 28/11/2022, DJe de 30/11/2022; e AgInt no AREsp 2098383/BA, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF5), Primeira Turma, julgado em 15/8/2022, DJe de 17/8/2022.
+Ante o exposto, com base no art. 253, parágrafo único, I, do RISTJ, NÃO CONHEÇO do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
