@@ -1,0 +1,63 @@
+DECISÃO
+OTON FELIPE DA ROCHA FERNANDES alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado da Bahia no HC n. 8056371-56.2025.8.05.0000.
+A defesa pretende a soltura do recorrente, ao argumento de que a prisão se protrai por tempo indefinido, em razão do reagendamento sucessivo da continuação da instrução, sem justificativa idônea.
+Sustenta que a "mera oitiva de duas testemunhas em uma audiência isolada, realizada após quase um ano de custódia, não tem o condão de afastar o excesso de prazo" (fl. 146).
+Entende ser possível a substituição da custódia por outras medidas cautelares, máxime por se " mostrar problemática a fundamentação aviada para a manutenção da prisão preventiva - feita com base na garantia a ordem pública, conceito vago e impreciso" (fl. 151).
+Em petição acostada às fls. 232-236, a defesa ressalta que a audiência marcada para 26/11/2025 foi adiada para 10/2/2026 e alerta que esse ato processual não será o último, "uma vez que o processo conta com cinco réus, e apenas de OTON, arrolou sete testemunhas a serem escutadas. Assim, ao menos, 12 pessoas ainda serão ouvidas em sede de instrução" (fl. 233).
+O Ministério Público Federal opinou pelo desprovimento do recurso.
+Decido.
+Extrai-se dos autos que o paciente foi denunciado, junto a outros quatro acusados, pelos crimes de homicídio qualificado, homicídio qualificado tentado, e associação criminosa.
+Ao denegar a ordem no writ originário, a Corte estadual assim se manifestou (fls. 108-120, grifei):
+De início, vale destacar que este é o terceiro Habeas Corpus impetrado pelo mesmo Paciente alegando excesso de prazo no julgamento da ação penal.
+No primeiro, tombado sob n. 8010888-03.2025.8.05.0000, de Relatoria do Ex. Des. Mario Alberto Hirs, julgado em 05 de junho de 2025, entendeu-se pela inexistência de excesso de prazo.
+Após, impetrou-se o Habeas Corpus de nº 8034257- 26.2025.8.05.0000, de minha relatoria, julgado em 24/07/2025, no qual a tese de excesso de prazo foi novamente rechaçada.
+No julgamento do mandamus referido, entendeu-se que a Magistrada está impulsando o feito de forma diligente e que a ação penal se encontra em regular andamento, com velocidade compatível as peculiaridades do caso em questão (cinco réus com patronos distintos e expedição de cartas precatórias).
+Ressaltou-se que a eventual demora é condizente com obstáculos inerentes ao percurso processual.
+Todavia, somente 02 meses após o referido julgamento, o Impetrante maneja o presente Habeas Corpus requerendo nova análise da tese de excesso de prazo.
+Nestes termos, todas as alegações relacionadas aos Habeas Corpus anteriores não merecem ser conhecidas, pois já foram julgadas.
+Destarte, o exame do presente mandamus cinge-se ao excesso de prazo alegado após a impetração do writ de nº 8034257-26.2025.8.05.0000, no qual se ponderou que a audiência de instrução estava marcada para data próxima, em 29/07/2025.
+Assim, passemos ao exame das alegações de agendamentos sucessivos de audiência e risco de contágio por moléstias após a data de 29/07/2025.
+Consoante os informes judiciais, a instrução processual já se iniciou.
+Em 29/07/2025, foram ouvidas duas testemunhas (Kaio Vinicius Costa e Fabrício Almeida). Em razão da ausência de testemunhas, a audiência em continuação foi agendada para o dia 26/08/2025.
+Após, houve redesignação para o dia 11/09/2025, porém não foi possível a realização da audiência em continuação em virtude de um surto de meningite e catapora. Destarte, a audiência foi redesignada para o dia 21/10/2025, às 08:30 horas.
+Consoante os informes judiciais, o "relatório médico emitido pela Dra. Renata Ferreira da Silva Rêgo (CRM 31646-BA), médica infectologista, atestou surto de varicela (catapora) no Raio 2 da Cadeia Pública de Salvador, com último caso confirmado em 22 de agosto de 2025, tendo sido recomendado um período de 21 dias após o último caso confirmado, ou seja, até 12 de setembro de 2025." Assim, resta evidenciado que o prazo de quarentena já se encerrou há cerca de um mês e que a audiência em continuação se realizou em 21/10/2025, na qual foi ouvida a vítima Marcelo. Houve redesignação da audiência para a condução de testemunhas que, apesar de intimadas, se fizeram ausentes. Assim, resta demonstrado que não há desídia estatal, mas morosidade inerente à complexidade do feito.
+Quanto à possibilidade de desmembramento do feito, verifica-se ser discricionariedade do juiz e, no presente caso, não se vislumbra morosidade excessiva que o justifique.
+Ademais, o exame dos elementos coligidos a estes autos demonstra tramitação regular do feito, que não se altera em razão do período de quarentena já ultrapassado. Neste sentido:
+ ..
+Ante todo o exposto, resta desacolhida a tese de excesso de prazo.
+DA POSSIBILIDADE DE APLICAÇÃO DE MEDIDAS CAUTELARES DISTINTAS DA PRISÃO
+A defesa requer a adoção de uma das cautelares previstas no art. 319 do CPP, no que não lhe assiste razão, diante da gravidade concreta da conduta.
+Segundo a denúncia, em tese, no dia 03 de agosto de 2024, por volta das 02h45min, próximo à rotatória da Urbis III, no Município de São Sebastião do Passé, o Paciente e outros quatro corréus, em comunhão de desígnios, previamente ajustados, ceifaram a vida da vítima Rayan Diego Couto de Jesus e tentaram contra a vida de Marcelo de Almeida Rosa, mediante uso compartilhado de uma arma de fogo e fazendo referência a uma facção criminosa.
+Ressalte-se que a gravidade concreta da conduta constitui fundamento idôneo a afastar as cautelares diversas, conforme se depreende da seguinte decisão:
+ ..
+seriam inócuas para garantia da ordem pública.
+CONCLUSÃO
+Ante todo o exposto, CONHEÇO do Habeas Corpus e DENEGO a ordem.
+Faço lembrar que os prazos processuais previstos na legislação pátria devem ser computados de maneira global e o reconhecimento do excesso deve-se pautar sempre pelos critérios da razoabilidade e da proporcionalidade (art. 5º, LXXVIII, da CF), considerando cada caso e suas particularidades.
+O Pacto Internacional sobre Direitos Civis e Políticos, vigente no cenário jurídico brasileiro por meio do Decreto n. 592 de 6/7/1992, estabelece, em seu art. 9º, § 3º, que:
+Qualquer pessoa presa ou encarcerada em virtude de infração penal deverá ser conduzida, sem demora, à presença do juiz ou de outra autoridade habilitada por lei a exercer funções judiciais e terá o direito de ser julgada em prazo razoável ou de ser posta em liberdade. A prisão preventiva de pessoas que aguardam julgamento não deverá constituir a regra geral, mas a soltura poderá estar condicionada a garantias que assegurem o comparecimento da pessoa em questão à audiência, a todos os atos do processo e, se necessário for, para a execução da sentença (destaquei).
+No mesmo sentido, a Convenção Americana sobre Direitos Humanos (Pacto de São José da Costa Rica), promulgada pelo Decreto n. 678 de 6/11/1992, estipula, em seu art. 7º - sobre direito à liberdade pessoal -, § 5º, que toda pessoa "tem direito a ser julgada dentro de um prazo razoável".
+No caso, não observo haver flagrante ilegalidade na hipótese, consistente na demora excessiva para a prolação de sentença.
+Conquanto o acusado esteja preso há mais de um ano, as instâncias ordinárias ressaltam a complexidade do feito que segue o rito do Tribunal do Júri, com cinco réus, defesas técnicas distintas e necessidade de expedição de cartas precatórias.
+Além disso, não se pode ignorar as notícias de ausência de testemunhas e de impossibilidade de participação dos réus em audiências, tendo em vista a necessidade de quarentena advinda de surtos de meningite e de catapora na unidade prisional, situações que justificam uma maior delonga no encerramento da instrução.
+Nesse contexto, não constato, por ora, ofensa aos princípios da razoabilidade e da proporcionalidade ao ponto de malferir o caráter de provisoriedade da prisão, porquanto razoável o lapso temporal decorrido, o que afasta a suposta alegação de incúria na prestação jurisdicional.
+Quanto ao pedido de substituição da prisão preventiva por outras cautelas, lembro que o STJ tem a compreensão de que é "Indevida a aplicação de medidas cautelares diversas da prisão quando a constrição se encontra justificada e mostra-se necessária, dada a potencialidade lesiva da infração indicando que providências mais brandas não seriam suficientes para garantir a ordem pública" (RHC n. 120.305/MG, relator Ministro Jorge Mussi, Quinta Turma, julgado em 17/12/2019, DJe de 19/12/2019).
+Na hipótese, o Tribunal de origem entendeu pela impossibilidade de se realizar a substituição pretendida, tendo em vista a gravidade concreta das condutas atribuídas ao acusado - homicídio e tentativa de homicídio cometidos em concurso de agentes, com uso de arma de fogo e referência a uma facção criminosa.
+Não obstante a compreensão defensiva, as situações acima descritas bem demonstram a necessidade da constrição provisória e evidenciam a insuficiência de outras cautelas para assegurar a ordem pública. Assim, não há que se falar na apontada ilegalidade na manutenção da prisão provisória.
+Vejam-se:
+HABEAS CORPUS. HOMICÍDIO. NEGATIVA DE AUTORIA. INADEQUAÇÃO DA VIA ELEITA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DA AÇÃO DELITUOSA. PERICULOSIDADE SOCIAL.
+1. Na via do habeas corpus, não há como se discutir a negativa de autoria e a ausência de provas, pois demandariam o reexame aprofundado do conjunto fático-probatório que compõe o processo principal. O envolvimento ou não do agente no delito que lhe é imputado é matéria cuja análise é reservada à ação penal, bastando, para justificar a prisão cautelar, haver indícios de autoria, o que, in casu, aconteceu, como detalhadamente demonstrado pelo Magistrado de primeiro grau.
+2. A constrição cautelar encontra-se amparada em elementos válidos, em especial a gravidade concreta do delito, evidenciada no modus operandi - crime praticado em concurso de agentes, com disparos de arma de fogo em direção a residência em que estavam a vítima fatal, seu companheiro e seu sogro - tendo sido consignado na decisão que há nos autos elementos que indicam ser o representado membro de facção criminosa Comando Vermelho - CV, tendo a morte da vítima ocorrido, supostamente, por ter ela se aliado aos membros do grupo rival GDE.
+3. Não é cabível a aplicação de medidas cautelares diversas da prisão, posto que a segregação encontra-se fundada na gravidade efetiva do delito e na periculosidade social do réu, sendo que providências menos gravosas seriam insuficientes para acautelar a ordem pública.
+4. Ordem de habeas corpus denegada.
+(HC n. 715.127/CE, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 8/3/2022, DJe de 15/3/2022.)
+PROCESSO PENAL. RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. ASSOCIAÇÃO CRIMINOSA. CORRUPÇÃO DE MENORES. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. MEDIDAS CAUTELARES DIVERSAS. IMPOSSIBILIDADE. FALTA DE CONTEMPORANEIDADE. SUPRESSÃO DE INSTÂNCIA.
+1. A validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos no art. 312 do Código de Processo Penal, revelando-se indispensável a demonstração de em que consiste o periculum libertatis.
+2. No caso, a prisão foi decretada em decorrência do modus operandi empregado na conduta delitiva, revelador da periculosidade do recorrente, consistente na prática, em tese, de homicídio qualificado pelo concurso de agentes e participação de menor, com vários disparos de arma de fogo contra a vítima, por causa de tráfico de drogas na região, bem como em razão do fato de o acusado ter passagem criminal por porte ilegal de arma de fogo. Ademais, há suspeita de ser o réu integrante de facção criminosa, além de estar ameaçando testemunhas e familiares das vítimas. Assim, faz-se necessária a segregação provisória como forma de acautelar a ordem pública.
+3. Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando a segregação encontra-se fundada na gravidade efetiva do delito, indicando que as providências menos gravosas seriam insuficientes para acautelar a ordem pública e evitar a prática de novos crimes.
+4. O pleito de falta de contemporaneidade entre os fatos imputados e o decreto prisional não foi debatido pelo Tribunal de origem, o que impede a análise por esta Corte, sob pena de indevida supressão de instância.
+5. Recurso conhecido em parte e, nessa extensão, desprovido.
+(RHC n. 146.693/AL, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 28/9/2021, DJe de 7/10/2021.)
+À vista do exposto, nego provimento ao recurso ordinário.
+Publique-se e intimem-se.
+EMENTA
