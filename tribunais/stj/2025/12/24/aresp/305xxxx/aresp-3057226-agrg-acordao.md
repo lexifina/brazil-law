@@ -1,0 +1,119 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Joel Ilan Paciornik, Messod Azulay Neto, Maria Marluce Caldas e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito Penal. Agravo Regimental NO AGRAVO EM RECURSO ESPECIAL. Lavagem de dinheiro. Prequestionamento. Inovação recursal. Agravo regimental IMPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que, com fundamento no art. 253, parágrafo único, II, "a" e "b", do Regimento Interno do STJ, conheceu do agravo para conhecer em parte do recurso especial e, nesta extensão, negou-lhe provimento.
+II. Questão em discussão
+2. Há três questões em discussão: (i) saber se há prequestionamento do art. 41 do Código de Processo Penal, considerando a ausência de manifestação do Tribunal de origem sobre a matéria tratada no dispositivo legal apontado pela parte recorrente e a não demonstração de ofensa ao art. 619 do CPP; (ii) saber se é possível o reexame de provas nesta instância; e (iii) saber se os argumentos da parte agravante sobre a dosimetria da pena configuram inovação recursal.
+III. Razões de decidir
+3. A alegação defensiva referente à Súmula 284/STF é estranha aos autos, pois tal óbice não foi abordado na decisão impugnada.
+4. Não há prequestionamento do art. 41 do Código de Processo Penal, pois o Tribunal de origem não se manifestou sobre a matéria tratada no dispositivo legal apontado pela parte recorrente, atraindo a incidência da Súmula 211/STJ. Não foi demonstrada ofensa ao art. 619 do CPP, o que impossibilita aferir eventual omissão da Corte local.
+5. A inversão do julgado quanto à tese absolutória demandaria o reexame do conjunto fático-probatório dos autos, providência inviável nesta instância especial, nos termos da Súmula 7/STJ.
+6. Os argumentos da parte agravante sobre a dosimetria da pena configuram inovação recursal, vedada pela preclusão consumativa, pois não foram devidamente trabalhados no recurso especial.
+IV. Dispositivo e tese
+7. Resultado do Julgamento: Agravo regimental improvido.
+Tese de julgamento:
+1. O prequestionamento é requisito indispensável para a análise de matéria em recurso especial, mesmo em se tratando de questões de ordem pública. 2. É inviável o reexame de provas em recurso especial. 3. A inovação recursal no agravo regimental é vedada pela preclusão consumativa.Dispositivos relevantes citados:
+CPP, arts. 41 e 619; Regimento Interno do STJ, art. 253, parágrafo único, II, "a" e "b"; Lei nº 9613/98; Súmula 7/STJ; Súmula 211/STJ.
+Jurisprudência relevante citada:STJ, AgRg no AREsp n. 2.372.482/SP, Rel. Min. Ribeiro Dantas, Quinta Turma, julgado em 8/8/2023, DJe de 15/8/2023; STJ, AgRg no AREsp 1789841/SP, Rel. Min. Laurita Vaz, Sexta Turma, julgado em 14/10/2021, DJe de 19/10/2021; STJ, AgRg no REsp n. 1.902.294/SP, Rel. Min. Ribeiro Dantas, Quinta Turma, julgado em 2/3/2021; STJ, AgRg no AREsp n. 2.342.806/PR, Rel. Min. Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 5/8/2025; STJ, AgRg no REsp n. 1.948.179/MT, Rel. Min. Laurita Vaz, Sexta Turma, julgado em 7/12/2021; STJ, RHC n. 204.309/RJ, Rel. Min. Sebastião Reis Júnior, Sexta Turma, julgado em 24/6/2025; STJ, AgRg no HC n. 957.961/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/2/2025.
+RELATÓRIO
+Trata-se de agravo regimental interposto por MÁRCIO SOUZA DA SILVA contra decisão monocrática que, com fundamento no art. 253, parágrafo único, II, "a" e "b", do Regimento Interno do STJ, conheceu do agravo para conhecer em parte do recurso especial e, nesta extensão, negou-lhe provimento (fls. 2.214-2.221).
+A parte agravante aduz, em síntese, não ser hipótese de incidência da Súmula 284/STF. Afirma ter indicado "expressamente os dispositivos violados e fundamentou, com base na jurisprudência reiterada do STJ, que inexiste crime de lavagem quando inexistente o delito antecedente" (fl. 2.250). Subsidiariamente, "requer o redimensionamento da pena aplicada para que a pena-base seja fixada no mínimo legal. Alternativamente, que a pena seja elevada em 1/6, respeitando a proporcionalidade. Além disso, também deve ser redimensionada a pena para que seja afastada a causa de aumento em 1/2" (fl. 2.251).
+Pede, ao final, o provimento deste agravo regimental, para que o recurso especial seja conhecido e provido.
+É o relatório.
+EMENTA
+Direito Penal. Agravo Regimental NO AGRAVO EM RECURSO ESPECIAL. Lavagem de dinheiro. Prequestionamento. Inovação recursal. Agravo regimental IMPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que, com fundamento no art. 253, parágrafo único, II, "a" e "b", do Regimento Interno do STJ, conheceu do agravo para conhecer em parte do recurso especial e, nesta extensão, negou-lhe provimento.
+II. Questão em discussão
+2. Há três questões em discussão: (i) saber se há prequestionamento do art. 41 do Código de Processo Penal, considerando a ausência de manifestação do Tribunal de origem sobre a matéria tratada no dispositivo legal apontado pela parte recorrente e a não demonstração de ofensa ao art. 619 do CPP; (ii) saber se é possível o reexame de provas nesta instância; e (iii) saber se os argumentos da parte agravante sobre a dosimetria da pena configuram inovação recursal.
+III. Razões de decidir
+3. A alegação defensiva referente à Súmula 284/STF é estranha aos autos, pois tal óbice não foi abordado na decisão impugnada.
+4. Não há prequestionamento do art. 41 do Código de Processo Penal, pois o Tribunal de origem não se manifestou sobre a matéria tratada no dispositivo legal apontado pela parte recorrente, atraindo a incidência da Súmula 211/STJ. Não foi demonstrada ofensa ao art. 619 do CPP, o que impossibilita aferir eventual omissão da Corte local.
+5. A inversão do julgado quanto à tese absolutória demandaria o reexame do conjunto fático-probatório dos autos, providência inviável nesta instância especial, nos termos da Súmula 7/STJ.
+6. Os argumentos da parte agravante sobre a dosimetria da pena configuram inovação recursal, vedada pela preclusão consumativa, pois não foram devidamente trabalhados no recurso especial.
+IV. Dispositivo e tese
+7. Resultado do Julgamento: Agravo regimental improvido.
+Tese de julgamento:
+1. O prequestionamento é requisito indispensável para a análise de matéria em recurso especial, mesmo em se tratando de questões de ordem pública. 2. É inviável o reexame de provas em recurso especial. 3. A inovação recursal no agravo regimental é vedada pela preclusão consumativa.Dispositivos relevantes citados:
+CPP, arts. 41 e 619; Regimento Interno do STJ, art. 253, parágrafo único, II, "a" e "b"; Lei nº 9613/98; Súmula 7/STJ; Súmula 211/STJ.
+Jurisprudência relevante citada:STJ, AgRg no AREsp n. 2.372.482/SP, Rel. Min. Ribeiro Dantas, Quinta Turma, julgado em 8/8/2023, DJe de 15/8/2023; STJ, AgRg no AREsp 1789841/SP, Rel. Min. Laurita Vaz, Sexta Turma, julgado em 14/10/2021, DJe de 19/10/2021; STJ, AgRg no REsp n. 1.902.294/SP, Rel. Min. Ribeiro Dantas, Quinta Turma, julgado em 2/3/2021; STJ, AgRg no AREsp n. 2.342.806/PR, Rel. Min. Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 5/8/2025; STJ, AgRg no REsp n. 1.948.179/MT, Rel. Min. Laurita Vaz, Sexta Turma, julgado em 7/12/2021; STJ, RHC n. 204.309/RJ, Rel. Min. Sebastião Reis Júnior, Sexta Turma, julgado em 24/6/2025; STJ, AgRg no HC n. 957.961/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/2/2025.
+VOTO
+As alegações da parte agravante não são suficientes para alterar a decisão agravada, que deve ser mantida por seus próprios fundamentos.
+De início, observa-se que a alegação defensiva referente à Súmula 284/STF é totalmente estranha aos autos, pois tal óbice nem sequer foi abordado na decisão impugnada (fls. 2.214-2.221).
+No mais, como se constatou quando do julgamento monocrático, não há prequestionamento do art. 41, do Código de Processo Penal. Com efeito, apesar da oposição dos embargos de declaração, o Tribunal de origem não se manifestou sobre a matéria tratada no dispositivo legal apontado pela parte recorrente, o que atrai a incidência da Súmula 211/STJ. Tampouco pode ser admitido o prequestionamento ficto do tema, pois o recurso especial não demonstrou ofensa ao art. 619 do CPP, para que fosse possível aferir eventual omissão da Corte local. Nesse sentido:
+"PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. PREQUESTIONAMENTO FICTO. INAPLICABILIDADE. REINCIDÊNCIA DO RÉU E PENA-BASE ESTABELECIDA NO MÍNIMO LEGAL. REGIME SEMIABERTO. POSSIBILIDADE. CRIMES DE VIOLAÇÃO DE DOMICÍLIO E LESÃO CORPORAL. DELITOS AUTÔNOMOS. BENS JURÍDICOS DISTINTOS. APLICAÇÃO DO PRINCÍPIO DA CONSUNÇÃO. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. "Entende esta Corte que o prequestionamento ficto é possível até mesmo na esfera penal, desde que no recurso especial tenha o recorrente apontado violação ao art. 619 do CPP (dispositivo do CPP correspondente ao art. 1.022 do CPC), a fim de permitir que o órgão julgador analise a (in)existência do vício assinalado e, acaso constatado, passe desde então ao exame da questão suscitada, suprimindo a instância inferior, se necessário, consoante preleciona o art. 1.025 do CPC. Precedentes." (AgRg no REsp 1.669.113/MG, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 19/4/2018, DJe 11/5/2018).
+ ..
+4. Agravo regimental desprovido".
+(AgRg no REsp n. 1.902.294/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/3/2021, DJe de 8/3/2021.)
+Ressalte-se que, consoante o entendimento desta Corte Superior, mesmo as matérias de ordem pública exigem prequestionamento. Nesse sentido:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO. NECESSÁRIO DEMONSTRAR PREJUÍZO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. NULIDADE. IRRELEVÂNCIA. NECESSIDADE DE PREENCHIMENTO DOS PRESSUPOSTOS DE ADMISSIBILIDADE.
+I - A ausência de impugnação dos fundamentos da decisão que não admitiu o recurso especial impõe o não conhecimento do agravo em recurso especial.
+II - In casu, parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial com relação à incidência das Súmulas 282, 356 e 284, todas do STF.
+III - "A alegação de que seriam matérias de ordem pública ou traduziriam nulidade absoluta não constitui fórmula mágica que obrigaria as Cortes a se manifestar acerca de temas que não foram oportunamente arguidos ou em relação aos quais o recurso não preenche os pressupostos de admissibilidade" (AgRg no AREsp n. 982.366/SP, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 12/03/2018).
+Agravo regimental desprovido".
+(AgRg nos EDcl no AREsp n. 1.721.960/SC, relator Ministro Felix Fischer, Quinta Turma, julgado em 20/10/2020, DJe de 12/11/2020.)
+Sobre a tese absolutória, a Corte de origem constatou não restar dúvida quanto à prática dos crimes de lavagem de dinheiro atribuídos ao ora recorrente. É o que se colhe do acórdão recorrido (fl. 1.840):
+"Portanto, não restam dúvidas quanto à prática dos crimes de "lavagem" de dinheiro imputados aos acusados Fabricio, Marcos e Marcio. As teses defensivas, de que as aquisições de bens e movimentações registradas eram lícitas, não vieram respaldadas por elementos capazes de desfazer as provas que atestam a prática de crimes previstos na Lei nº 9613/98.
+ ..
+Cabe pontuar que há elementos suficientes nos autos quanto à prática de ilícitos diversos pelo grupo, sobretudo o tráfico de drogas. Ademais, para configuração dos crimes de lavagem de dinheiro, não é necessária condenação quanto ao delito antecedente".
+Assim, a inversão do julgado, no ponto, demandaria o reexame do conjunto fático- probatório dos autos, providência inviável nesta instância especial, nos termos da Súmula 7/STJ. A propósito:
+"DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. LAVAGEM DE DINHEIRO. UTILIZAÇÃO DE CONTAS DE TERCEIROS. DOLO ESPECÍFICO. SÚMULA 7/STJ. REEXAME DE FATOS E PROVAS. AGRAVO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática constante no AREsp 2.342.806/PR, que inadmitiu o recurso especial fundado na alegação de ausência de dolo específico na condenação por lavagem de dinheiro (art. 1º da Lei 9.613/1998), sob o fundamento da Súmula 7/STJ. A defesa sustenta que a movimentação de valores em contas bancárias de terceiros, inclusive da convivente do agravante, não configura por si só o crime de lavagem, tratando-se de mero exaurimento do tráfico de drogas. Requer o conhecimento e provimento do recurso especial, com a consequente absolvição nos termos do art. 386, III, do CPP.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se a utilização de contas bancárias de terceiros por membro de organização criminosa configura, por si só, o crime de lavagem de dinheiro; (ii) estabelecer se a revaloração jurídica da prova, sem reexame do conjunto fático-probatório, afasta a incidência da Súmula 7/STJ.
+III. RAZÕES DE DECIDIR
+3. A instância ordinária reconhece que os depósitos em contas de familiares de membros da organização criminosa, acompanhados de posterior pagamento a fornecedores, configuram conduta voltada à ocultação da origem ilícita dos valores provenientes do tráfico de drogas, preenchendo os elementos típicos da lavagem de capitais.
+4. A alegação de ausência de dolo específico é afastada com base na estrutura organizada e reiterada das transações, revelando intenção de dissimular a origem dos recursos, sendo irrelevante o fato de as contas estarem em nome de pessoas próximas ao agente.
+5. O reconhecimento da autoria e da materialidade foi firmado com base em amplo conjunto probatório, sendo inviável a rediscussão em recurso especial, por implicar reexame de fatos e provas, vedado pela Súmula 7/STJ.
+6. As razões recursais reproduzem os argumentos anteriormente apresentados, sem apresentar elementos novos aptos a infirmar a decisão agravada, limitando-se à tentativa de rediscutir o mérito.
+IV. AGRAVO REGIMENTAL DESPROVIDO".
+(AgRg no AREsp n. 2.342.806/PR, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 5/8/2025, DJEN de 14/8/2025.)
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. ART. 1.º, INCISOS V E VII, § 1.º, INCISO II, E § 4.º, DA LEI N. 9.613/98. ALEGAÇÃO DE AFRONTA A DISPOSITIVO CONSTITUCIONAL. INVIABILIDADE DE ANÁLISE NA VIA DO APELO NOBRE. IRRESIGNAÇÃO NO TOCANTE AO QUANTUM DE DIAS-MULTA. AUSÊNCIA DE PREQUESTIONAMENTO. PLEITO PELO RECONHECIMENTO DE ABOLITIO CRIMINIS. INSUBSISTENTE. PRECEDENTES. CONDENAÇÃO PELO CRIME ANTECEDENTE. PRESCINDÍVEL. PRECEDENTES. ALEGAÇÃO DE QUE NÃO FORAM COMPROVADAS MATERIALIDADE E AUTORIA DOS DELITOS IMPUTADOS AO RÉU. INVERSÃO DO JULGADO, INCIDÊNCIA DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA. EXASPERAÇÃO DA PENA-BASE. FUNDAMENTAÇÃO IDÔNEA. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não foi analisada pelo Tribunal a quo, nem objeto de embargos de declaração, a alegação segundo a qual a quantidade de dias-multa não guarda correspondência com o quantum da pena privativa de liberdade imposta ao Réu, sendo patente a ausência de prequestionamento e a incidência das Súmulas n. 282 e 356, ambas do Supremo Tribunal Federal.
+2. A jurisprudência desta Corte Superior de Justiça está fixada no sentido de que a entrada em vigor da Lei n. 12.683/2012 não representou abolitio criminis quanto aos delitos preconizados na Lei n. 9.613/98, " ..  haja vista a continuidade normativa. De fato, o crime de lavagem de dinheiro continua a existir no ordenamento jurídico, tendo apenas se tornado mais ampla sua tipificação, uma vez que não precisa que o crime antecedente esteja previsto em rol taxativo antes trazido na lei  .. ". (HC 276.245/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 13/06/2017, DJe 20/06/2017).
+3. O entendimento pacificado do Superior Tribunal de Justiça é no sentido de que, "para configuração do crime do artigo art. 1º da Lei n. 9.613/98, não é necessário que o acusado tenha sido condenado pelo delito antecedente, pois embora derivado ou acessório, o delito de lavagem de dinheiro é autônomo, também não se exigindo processo criminal ou condenação pelo prévio delito, nem mesmo que o acusado seja o autor do delito, bastando, para tanto, a presença de indícios suficientes de sua existência, o que se verifica da peça acusatória que ora se analisa, bem como porque a ação penal que apura o delito de peculato não foi trancada em relação aos demais denunciados." (RHC 94.233/RN, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 21/08/2018, DJe 03/09/2018).
+4. O Tribunal de origem concluiu que foram devidamente comprovadas a materialidade e autoria dos delitos imputados ao Réu. A inversão do julgado encontra óbice na Súmula n. 7 do Superior Tribunal de Justiça.
+5. No que diz respeito à valoração negativa dos vetores atinentes à culpabilidade e consequências do delito, a fixação da pena-base acima do mínimo legal foi suficientemente fundamentada, tendo sido declinados elementos que emprestaram à conduta do Recorrente especial reprovabilidade e que não se afiguram inerentes ao próprio tipo penal.
+6. A demonstração do dissídio jurisprudencial não se contenta com meras transcrições de ementas, tal como ocorreu no presente caso, sendo absolutamente indispensável o cotejo analítico, de sorte a demonstrar a devida similitude fática entre os julgados confrontados.
+7. Agravo regimental desprovido".
+(AgRg no REsp n. 1.948.179/MT, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 7/12/2021, DJe de 16/12/2021.)
+No mais, o entendimento adotado no aresto está em consonância com a orientação firmada por esta Corte Superior, segundo a qual, para a configuração do delito de lavagem de capitais, não se exige prova cabal do crime antecedente, bastando a demonstração de indícios suficientes de sua ocorrência, por se tratar de delito autônomo e independente de condenação ou mesmo da existência de processo relativo ao crime anterior. No caso, as instâncias ordinárias concluíram pela existência de elementos suficientes que evidenciam o crime antecedente (tráfico de drogas). A esse respeito, convém a transcrição dos seguintes precedentes:
+"DIREITO PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. EXTENSÃO DE ABSOLVIÇÃO SUMÁRIA. CRIME DE LAVAGEM DE DINHEIRO. AUSÊNCIA DE IDENTIDADE DE SITUAÇÕES FÁTICO-PROCESSUAIS ENTRE OS CORRÉUS. RECURSO IMPROVIDO.
+I. Caso em exame
+1. Recurso ordinário interposto contra o acórdão do Tribunal de Justiça do Rio de Janeiro que denegou habeas corpus, mantendo a ação penal contra os recorrentes por crimes de lavagem de dinheiro e associação criminosa, apesar da absolvição sumária do corréu Luiz Teixeira da Silva Junior.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se é possível estender aos recorrentes a absolvição sumária concedida ao corréu Luiz Teixeira da Silva Junior, considerando a autonomia do crime de lavagem de dinheiro em relação ao crime antecedente.
+III. Razões de decidir
+3. O crime de lavagem de dinheiro é autônomo e não requer condenação ou prova concreta do crime antecedente, bastando indícios de que o capital seja proveniente de infração penal.
+4. A absolvição do corréu Luiz Teixeira se deu por precariedade de provas, não por inexistência do fato, e os recorrentes não figuram no mesmo processo em que ele foi absolvido.
+5. Não há identidade de situações fático-processuais entre os recorrentes e o corréu absolvido, o que impede a aplicação do art. 580 do Código de Processo Penal para extensão dos efeitos da absolvição.
+IV. Dispositivo e tese
+6. Recurso improvido.
+Tese de julgamento: "1. O crime de lavagem de dinheiro é autônomo e não depende de condenação pelo crime antecedente. 2. A ausência de identidade fático-processual impede a extensão dos efeitos da absolvição de um corréu aos demais, conforme o art. 580 do Código de Processo Penal".
+Dispositivos relevantes citados: CPP, art. 386, VII; CPP, art. 397, III; CPP, art. 580; Lei n. 9.613/1998, art. 2º, §1º.Jurisprudência relevante citada: STJ, AgRg no HC 920.152/SP, Min. Messod Azulay Neto, Quinta Turma, julgado em 12/3/2025, DJEN de 18/3/2025; STJ, AgRg no HC 690.504/SP, Min. Joel Ilan Paciornik, Quinta Turma, julgado em 5/10/2021, DJe de 8/10/2021; STJ, AgRg no PExt no HC 851.993/SP, Min. Otávio de Almeida Toledo, Sexta Turma, julgado em 4/11/2024, DJe de 6/11/2024".
+(RHC n. 204.309/RJ, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 24/6/2025, DJEN de 30/6/2025.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL E PROCESSO PENAL. CRIME DE LAVAGEM OU OCULTAÇÃO DE BENS, DIREITOS OU VALORES. CRIME ANTECEDENTE DE TRÁFICO DE DROGAS. AUTONOMIA E INDEPENDÊNCIA. MODIFICAÇÃO DAS PREMISSAS FÁTICAS. IMPOSSIBILIDADE NA SEDE MANDAMENTAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. A aptidão da denúncia relativa ao crime de lavagem de dinheiro não exige uma descrição exaustiva e pormenorizada do suposto crime prévio, bastando, com relação às condutas praticadas antes da Lei 12.683/12, a presença de indícios suficientes de que o objeto material da lavagem seja proveniente, direta ou indiretamente, de uma daquelas infrações penais mencionadas nos incisos do art. 1º da Lei 9.613/98 (STJ, Corte Especial, APn 922/DF, relatora ministra Nancy Andrighi, julgado em 5/6/2019).
+2. No caso, o relator do acórdão de apelação apontou a existência de elementos do crime antecedente (tráfico de drogas), o que é suficiente para a condenação pelo crime de lavagem de dinheiro (crime subsequente), pois a jurisprudência deste Superior Tribunal de Justiça consolidou-se no sentido de que o delito de lavagem de dinheiro é crime autônomo e independe do processamento e da condenação do paciente pelo delito antecedente.
+3. Por fim, modificar as premissas fáticas estabelecidas no acórdão de apelação no sentido da inexistência de crime antecedente de tráfico de drogas, como pretende a defesa, demandaria o revolvimento do material fático-probatório dos autos, expediente vedado na sede mandamental.
+4. Agravo regimental a que se nega provimento".
+(AgRg no HC n. 957.961/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/2/2025, DJEN de 19/2/2025.)
+Já os argumentos da parte agravante sobre a dosimetria da pena configuram inovação recursal, pois não foram devidamente trabalhados no recurso especial. Assim, a preclusão consumativa veda a apresentação dessa tese no agravo regimental. A propósito:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NÃO EXAURIMENTO DAS INSTÂNCIAS ORDINÁRIAS. SÚMULA 281/STF. PRISÃO DOMICILIAR. INOVAÇÃO RECURSAL. DESCABIMENTO. AGRAVO REGIMENTAL CONHECIDO EM PARTE E, NESTA EXTENSÃO, DESPROVIDO.
+ ..
+2. É incabível a inovação recursal no agravo regimental, pela preclusão consumativa.
+3. Agravo regimental conhecido em parte e, nesta extensão, desprovido".
+(AgRg no AREsp n. 2.372.482/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 8/8/2023, DJe de 15/8/2023.)
+" ..
+2. O pleito relativo à liberação de, ao menos, 1/3 (um terço) dos valores bloqueados, não foi suscitado nas razões do recurso especial e, portanto, constitui-se em inovação recursal, descabida no âmbito do agravo regimental, pela preclusão consumativa.
+ ..
+6. Agravo regimental parcialmente conhecido e, nessa extensão, desprovido".
+(AgRg no AREsp 1789841/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/10/2021, DJe de 19/10/2021.)
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
