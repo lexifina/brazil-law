@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interno interposto pela ASSOCIAÇÃO BENEFICENTE HOSPITAL SANTO ANTONIO contra decisão do Presidente desta Casa de Justiça, às e-STJ fls. 1.053/1.054, em que não conheceu do agravo em recurso especial, cuja controvérsia, entre outras questões, aborda a possibilidade de revisão dos valores da Tabela SUS, com alegada recomposição do equilíbrio econômico-financeiro dos serviços contratados, mediante aplicação da TUNEP/IVR e pagamento das diferenças pretéritas.
+Passo a decidir.
+A Primeira Seção, na sessão virtual de 11 a 17 de dezembro de 2024, afetou os Recursos Especiais 2176897/DF, 2176896/DF, 2184221/DF e 2182 157/DF, de relatoria da eminente Ministra Regina Helena Costa, à sistemática dos recursos repetitivos para definir as seguintes teses controvertidas (Tema n. 1.305):
+a) se a União deve figurar no polo passivo de demanda em que se pretende a revisão da Tabela de Procedimentos Ambulatoriais e Hospitalares do Sistema Único de Saúde - SUS;
+b) a (in)existência de litisconsórcio passivo necessário entre os entes federativos para integrarem a lide; e
+c) se é possível equiparar os valores da Tabela de Procedimentos Ambulatoriais e Hospitalares do Sistema Único de Saúde - SUS aos estabelecidos pela Agência da Nacional de Saúde - ANS (TUNEP/IVR), com o objetivo de preservar o equilíbrio econômico-financeiro de contrato ou convênio firmado com hospitais privados, para prestação de serviços de saúde em caráter complementar.
+Dessa forma, encontrando-se o tema afetado à sistemática dos recursos repetitivos, esta Corte Superior orienta que os recursos que tratam da mesma controvérsia devem aguardar, no Tribunal de origem, o julgamento do paradigma representativo, viabilizando, assim, o juízo de conformação, hoje disciplinado pelo art. 1.040 do CPC/2015.
+A esse respeito, confiram-se os seguintes precedentes: AgInt nos EDcl no AREsp 2.079.384/PR, Relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 12/12/2022, DJe de 14/12/2022; EDcl no AgInt no REsp 2.000.033/DF, Relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 7/12/2022, DJe de 12/12/2022; e EDcl no AgInt no REsp 2.003.948/SP, Relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 5/12/2022, DJe de 7/12/2022.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado para esta Corte Superior, para que aqui possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Registre-se que essa medida visa evitar, também, o desmembramento do apelo especial e, em consequência, eventual ofensa ao princípio da unirrecorribilidade ou da unicidade recursal.
+Ante o exposto:
+a) RECONSIDERO a decisão às e-STJ fls. 1.053/1.054, tornando-a sem efeito; e
+b) DETERMINO a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que, após a publicação do acórdão a ser proferido no recurso representativo da controvérsia e em observância ao art. 1.040 do CPC/2015: a) negue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pelo Tribunal Superior; ou b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema repetitivo.
+Publique-se. Intimem-se.
+EMENTA
