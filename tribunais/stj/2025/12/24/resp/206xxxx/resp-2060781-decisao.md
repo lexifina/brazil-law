@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão assim ementado (fl. 92):
+Recuperação judicial - Incidente de impugnação de crédito - Deliberação que acolheu em parte a pretensão, para determinar a retificação do crédito trabalhista, conforme a classe e o valor (R$ 22.732,68) indicados nos pareceres do administrador judicial e do MP - Inconformismo do credor - Não acolhimento - Higidez da conta elaborada pelo administrador judicial, que proporcionalmente calculou os valores que devem integrar o concurso de credores e excluiu as verbas (aviso prévio e multas de 40% do FGTS e do art. 467, da CLT) oriundas de fato gerador (demissão sem justa causa) ocorrido após o pedido de recuperação judicial - Estrita observância do art. 49, da Lei n. 11.101/2005 e do tema repetitivo n. 1051, do C. STJ - Em caso de revisão da decisão superveniente que convolou a recuperação judicial em falência, a parte do crédito não submetida ao concurso de credores poderá ser reclamada, de imediato - Decisão mantida - Recurso desprovido, com observação.
+No recurso especial (fls. 105-113), interposto com fundamento no art. 105, III, "a", da CF, a parte recorrente aponta violação do art. 49 da Lei n. 11.101/2005.
+Alega que o acórdão recorrido teria incorrido em erro ao incluir o crédito do recorrente no quadro geral de credores pela quantia de R$ 22.732,68 (vinte e dois mil, setecentos e trinta e dois reais e sessenta e oito centavos), na classe trabalhista, em vez de considerar o valor acordado entre as partes perante a Justiça do Trabalho, no montante de R$ 45.000,00 (quarenta e cinco mil reais).
+Sustenta que o crédito oriundo da Justiça do Trabalho deveria ser habilitado como privilegiado em sua integralidade, independentemente de a quantia inscrita incluir multa, uma vez que o valor decorrente da multa devida ao empregado também constitui crédito de natureza privilegiada, por se tratar de indenização.
+Argumenta, ainda, que, tendo os créditos reclamatórios origem em decisão proferida pela Justiça do Trabalho, teria se operado a coisa julgada, não sendo possível, em sede de juízo falimentar, a sua revisão.
+Foram apresentadas contrarrazões (fls. 116-121).
+Juízo positivo de admissibilidade (fls. 129-130).
+O Ministério Público Federal se manifestou pelo improvimento do recurso especial (fls. 139-141).
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+O Tribunal de origem, com base nos fatos e nas provas dos autos, assim se pronunciou (fls. 95-97):
+ ..  Ainda, vê-se que o vínculo de trabalho perdurou entre novembro de 2010 e março de 2019, enquanto o pedido de recuperação judicial foi materializado em dezembro de 2018.
+Nos termos do art. 49, caput, da Lei 11.101/05, "estão sujeitos à recuperação judicial todos os créditos existentes na data do pedido, ainda que não vencidos". Em outras palavras, todas as obrigações constituídas após a data do pedido de recuperação não se sujeitam ao concurso de credores.
+Com essa diretriz, irrepreensível a conta elaborada pelo administrador judicial, que proporcionalmente calculou os valores que devem integrar o concurso de credores, nos autos da recuperação judicial, na hipótese de reforma da decisão que convolou em falência.
+O referido cálculo consta a fls. 425, de origem, e foi reproduzido a fls. 31, deste recurso, sendo que, corretamente, foram excluídos a integralidade do aviso prévio e as multas de 40% do FGTS e do art. 467, da CLT, visto que tais créditos são extraconcursais, pois oriundos de fato gerador (demissão sem justa causa, vide termo de rescisão do contrato de trabalho a fls. 27) ocorrido após o pedido de recuperação.
+ ..  A expressa alusão, no acordo, de que o montante pactuado (R$ 45.000,00) deveria ser habilitado na recuperação judicial (fls. 29) não tem eficácia para suplantar o disposto no art. 49, da legislação de regência, e a orientação jurisprudencial sedimentada no tema repetitivo n. 1051, pelo C. STJ..
+ ..  Portanto, os valores pactuados em data posterior à recuperação e relativos a créditos cujos fatos geradores também ocorreram após o pedido de recuperação não podem ser integralmente habilitados na recuperação judicial, como pretendido pelo agravante.
+O cerne da controvérsia reside na definição da sujeição, ou não, ao regime da recuperação judicial, de crédito trabalhista oriundo de rescisão contratual ocorrida após o pedido de recuperação, não obstante a existência de acordo na Justiça do Trabalho estipulando a habilitação integral do valor.
+O art. 49 da Lei n. 11.101/2005 é claro ao estabelecer que "estão sujeitos à recuperação judicial todos os créditos existentes na data do pedido, ainda que não vencidos". A interpretação deste dispositivo foi pacificada pela Segunda Seção do STJ no julgamento do Tema 1.051 dos recursos repetitivos.
+Portanto, acertada a decisão que segregou o crédito. As verbas salariais correspondentes ao trabalho prestado antes do pedido de recuperação submetem-se ao concurso de credores. Todavia, as verbas cujo fato gerador é a rescisão (demissão) ocorrida após o pedido de recuperação possuem natureza extraconcursal, conforme o art. 49 da Lei 11.101/05.
+Ressalte-se que acordo trabalhista homologado determinando a habilitação integral do valor de R$ 45.000,00 (quarenta e cinco mil reais) não tem o condão de alterar a natureza jurídica do crédito em face da Lei de Falências e Recuperação de Empresas. A competência da Justiça do Trabalho limita-se a liquidar o valor devido (o quantum), mas a classificação do crédito para fins de concurso (se concursal ou extraconcursal) é matéria de ordem pública, regida pela Lei n. 11.101/2005 e de competência do Juízo Universal.
+Ademais, o acórdão combatido está em consonância com a jurisprudência do STJ. A propósito:
+RECURSO ESPECIAL REPETITIVO. DIREITO EMPRESARIAL. RECUPERAÇÃO JUDICIAL. CRÉDITO. EXISTÊNCIA. SUJEIÇÃO AOS EFEITOS DA RECUPERAÇÃO JUDICIAL. ART. 49, CAPUT, DA LEI Nº 11.101/2005. DATA DO FATO GERADOR.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Ação de obrigação de fazer, cumulada com reparação de danos e devolução dos valores pagos indevidamente. Discussão acerca da sujeição do crédito aos efeitos da recuperação judicial.
+3. Diante da opção do legislador de excluir determinados credores da recuperação judicial, mostra-se impresc indível definir o que deve ser considerado como crédito existente na data do pedido, ainda que não vencido, para identificar em quais casos estará ou não submetido aos efeitos da recuperação judicial.
+4. A existência do crédito está diretamente ligada à relação jurídica que se estabelece entre o devedor e o credor, o liame entre as partes, pois é com base nela que, ocorrido o fato gerador, surge o direito de exigir a prestação (direito de crédito).
+5. Os créditos submetidos aos efeitos da recuperação judicial são aqueles decorrentes da atividade do empresário antes do pedido de soerguimento, isto é, de fatos praticados ou de negócios celebrados pelo devedor em momento anterior ao pedido de recuperação judicial, excetuados aqueles expressamente apontados na lei de regência.
+6. Em atenção ao disposto no art. 1.040 do CPC/2015, fixa-se a seguinte tese: Para o fim de submissão aos efeitos da recuperação judicial, considera-se que a existência do crédito é determinada pela data em que ocorreu o seu fato gerador.
+7. Recurso especial provido.
+(REsp n. 1.842.911/RS, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 9/12/2020, DJe de 17/12/2020.)
+Inafastável a Súmula n. 83 do STJ.
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Publique-se e intimem-se.
+EMENTA
