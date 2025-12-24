@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial interposto em face de acórdão assim ementado (fl. 1219):
+APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. INTERESSE RECURSAL DA INSTITUIÇÃO FINANCEIRA. SENTENÇA PROFERIDA NO SENTIDO DEFENDIDO. AUSÊNCIA. VÍCIO OCULTO. MOMENTO DA CONSTATAÇÃO. REJEIÇÃO DA PREJUDICIAL DE MÉRITO DE DECADÊNCIA. RESCISÃO DE CONTRATO DE COMPRA E VENDA DE IMÓVEL. DEVOLUÇÃO DE PARCELAS PAGAS. RECURSO DO BANCO NÃO CONHECIDO. RECURSO DA CONSTRUTORA CONHECIDO E NÃO PROVIDO. 1. Inexiste interesse recursal quando os pontos sustentados no recurso foram acolhidos pela Sentença. 2. O prazo decadencial previsto no parágrafo 3º do art. 26 do Código de Defesa do Consumidor para reclamar vícios ocultos inicia-se no momento da efetiva constatação do defeito. Prejudicial de mérito afastada. 3. A construtora é responsável pelos defeitos decorrentes de falhas construtivas que comprometam a habitabilidade do imóvel, permitindo a rescisão do contrato de compra e venda. 4. Recurso do banco não conhecido. Recurso da construtora conhecido e não provido.
+Os embargos de declaração foram rejeitados, com aplicação de multa.
+No recurso especial, a parte recorrente aponta violação dos artigos 46, 47, 1.022, II, 1.026, § 2º, do Código de Processo Civil; 108 e 1.227 do Código Civil.
+Sustenta negativa de prestação jurisdicional, visto que a Corte estadual não se manifestou em relação a ponto indispensável à solução da lide, qual seja: "a) o recorrido busca a rescisão de uma escritura pública de compra e venda registrada em cartório, já constante da matrícula do imóvel; b) a ação que almeja a rescisão de escritura pública de compra e venda de imóvel devidamente registrada no cartório imobiliário possui, necessariamente, natureza de ação real (e não apenas pessoal), pois atinge diretamente (e não somente de forma reflexa) o direito de propriedade, o que, como consequência lógica, atrai o foro de situação da coisa como regra de competência, à luz do artigo 47 do Código de Processo Civil" (fls. 1281-1282).
+Defende a competência absoluta do foro da situação do imóvel em questão, porquanto, enquanto a promessa de compra e venda só pode versar sobre obrigações pessoais - o que justifica a aplicação do artigo 46 do Código de Processo Civil -, a escritura pública de compra e venda devidamente registrada implica, por excelência, a constituição de direito real sobre imóvel (fl. 1285).
+Pugna pelo afastamento da multa aplicada no julgamento dos embargos de declaração.
+Contrarrazões apresentadas às fls. 1.317-1.322 e 1.326-1.332.
+Assim delimitada a controvérsia, passo a decidir.
+Assiste razão à parte recorrente.
+O Tribunal de origem, ao analisar a controvérsia, não se pronunciou a respeito da tese da parte recorrente no sentido da competência absoluta do foro da situação do imóvel em questão.
+A parte recorrente opôs embargos de declaração, ressaltando que o acórdão era omisso, visto que não se manifestou a respeito da aludida tese.
+O tribunal local, porém, rejeitou os embargos de declaração sob o fundamento de que "não obstante, ainda que por consequência da rescisão do contrato haja alteração no direito de propriedade, ainda assim a demanda preserva sua natureza pessoal" (fl.1.267).
+Ocorre que é evidente a negativa de prestação jurisdicional no caso concreto, considerando que o Tribunal de origem quedou-se inerte quanto à alegação suscitada pela parte recorrente, reconhecendo-se, portanto, a violação do art. 1.022 do CPC.
+Do acima transcrito, verifica-se que o acórdão recorrido efetivamente foi omisso, não abordando a questão segundo a qual o recorrido almeja a rescisão de uma escritura pública de compra e venda registrada em cartório, já constante da matrícula do imóvel, atraindo, assim, a competência absoluta do foro da situação do imóvel em comento.
+Impõe-se, portanto, o retorno dos autos ao Tribunal de origem, para que tal omissão seja sanada.
+Por conseguinte, afasto a multa imposta em sede de embargos de declaração.
+Fica prejudicada a análise das demais questões.
+Em face do exposto, conheço do agravo para dar provimento ao recurso especial, determinando a devolução dos autos ao Tribunal de origem, para que proceda a novo julgamento dos embargos de declaração opostos pela parte recorrente, como entender de direito, apreciando detidamente todos os pontos suscitados pela parte embargante, nos termos da fundamentação acima; bem como para afastar a multa imposta no julgamento dos embargos de declaração.
+Intimem-se.
+EMENTA
