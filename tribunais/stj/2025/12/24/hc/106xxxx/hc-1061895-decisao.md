@@ -1,0 +1,22 @@
+DECISÃO
+LEONARDO MARTINS MELO alega sofrer coação ilegal em decorrência de decisão proferida por Desembargador do Tribunal de Justiça do Estado de São Paulo, que indeferiu o pedido de retirada do feito de sessão virtual, a fim de que fosse incluído em julgamento presencial para sustentação oral.
+Neste writ, afirma o impetrante que "a manutenção do julgamento virtual com a sustentação oral assíncrona (gravada) em um processo criminal, onde a liberdade do paciente está em jogo, configura constrangimento ilegal por violar garantias constitucionais e processuais penais" (fl. 4).
+Requer, liminarmente, a suspensão do julgamento da apelação criminal na origem. No mérito, pretende a anulação do decisum monocrático e a determinação de que o julgamento do recurso seja em sessão presencial ou em sessão por videoconferência com sustentação oral ao vivo.
+Decido.
+É cabível o avanço para julgamento in limine de questões pacificadas pelo colegiado. Nesse sentido: AgRg no HC n. 894.234/SE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 1/7/2024, DJe de 3/7/2024.
+De fato, "o direito à sustentação oral constitui prerrogativa de essencial importância, cuja frustração afeta o princípio constitucional da amplitude de defesa" (HC n. 364.512/RJ, Rel. Ministro Rogerio Schietti, DJe 6/2/2017, destaquei).
+No caso, entretanto, observo que não houve o aventado óbice ao direito de defesa, consubstanciado na impossibilidade de sustentação oral; embora a apelação criminal interposta pela defesa haja sido indicada para julgamento a ser realizado em pauta virtual (ambiente eletrônico), também ficou assegurada a defesa a realização da sustentação oral, que deveria ser encaminhada, em consonância com os procedimentos e regras internas do Tribunal a quo, por meio de texto escrito ou mídia (áudio e vídeo).
+É que se extrai da decisão impugnada, nestas passagens (fls. 58-59):
+Consoante o disposto na Resolução nº 984/20251 deste Tribunal de Justiça do Estado de São Paulo, que instituiu o procedimento das sessões de julgamento assíncronas, bem como nos Comunicados CG nº 594/2024 e correlatos, é possível a realização de sustentações orais por meio de arquivos de áudio ou vídeo, encaminhados eletronicamente dentro do prazo regimental, atendendo-se, assim, ao direito de manifestação da defesa sem necessidade de presença física.
+Nos termos do ato normativo citado, entende- se por sessão assíncrona aquela em que o julgamento ocorre em ambiente eletrônico, sem simultaneidade temporal entre os votos dos integrantes do colegiado, preservando-se a publicidade, a ampla defesa e o contraditório, e facultando-se às partes a apresentação de memoriais e sustentações por meios eletrônicos.
+Também estabelece o regramento interno que, nos feitos em que há previsão de sustentação oral, o(a) advogado(a), defensor(a) público(a) ou procurador(a) poderá encaminhar sustentação de argumentos (em áudio ou vídeo), observados o tempo regimental e as especificações técnicas divulgadas pela Secretaria do órgão julgador.
+Esgotado o prazo, os arquivos são disponibilizados aos magistrados para exame juntamente com os autos, de modo a assegurar o pleno exercício da defesa.
+ ..
+Desta forma, não há ilegalidade ou cerceamento de defesa no julgamento em sessão assíncrona, desde que assegurada a possibilidade de sustentação oral por meio eletrônico.
+Ausente situação excepcional a justificar a modificação da forma de julgamento adotada, indefere-se os pedidos.
+Tal diretriz, como ficou bem evidenciada na decisão impugnada, encontra ressonância nos procedimentos internos adotados pelo Supremo Tribunal Federal e também por este Superior Tribunal, como explicitado, por exemplo, no seguinte aresto:
+Entretanto, conforme divulgado na página eletrônica do STJ, as inscrições para realização de sustentação oral nos processos incluídos nas pautas de julgamento virtual foram viabilizadas a partir do dia 10 de agosto de 2022 .. , e sujeitam-se ao prazo estabelecido no art. 4º, I, da Resolução STJ/GP 9/2022. Cabe ao interessado, portanto, acessar a página eletrônica do STJ e, no prazo legal, preencher o formulário "Sustentação Oral e Preferência de Julgamento".
+Diante do exposto, por se encontrar o presente feito incluído em sessão virtual de julgamento para a qual já se encontra disponível a inserção de mídia eletrônica com vistas à sustentação oral, indefiro o requerimento de exclusão de pauta. (AREsp n. 2.117.477/RJ, Rel. Ministro Herman Benjamin, DJe 7/12/2022).
+À vista do exposto,denego a ordem, in limine.
+Publique-se e intimem-se.
+EMENTA
