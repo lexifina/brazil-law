@@ -1,0 +1,19 @@
+DECISÃO
+WEVERTON DAMASCENO VILARES DOS SANTOS alega ser vítima de coação ilegal em decorrência de decisão proferida por Desembargador do Tribunal de Justiça do Estado da Bahia, que indeferiu a liminar do HC n. 8078771-64.2025.805.0000.
+A defesa busca o relaxamento da prisão em flagrante do paciente, ocorrida em 8/12/2025, uma vez que, até a presente data, não haveria sido realizada audiência de custódia e análise da legalidade do encarceramento.
+Decido.
+De acordo com o explicitado na Constituição Federal (art. 105, I, "c"), não compete a este Superior Tribunal conhecer de habeas corpus impetrado contra decisão denegatória de liminar, por desembargador, antes de prévio pronunciamento do órgão colegiado de segundo grau.
+Em verdade, o remédio heroico, em que pesem sua altivez e sua grandeza como garantia constitucional de proteção da liberdade humana, não deve servir de instrumento para que se afastem as regras de competência e se submetam à apreciação das mais altas Cortes do país decisões de primeiro grau às quais se atribui suposta ilegalidade, salvo se evidenciada, sem necessidade de exame mais vertical, a apontada violação ao direito de liberdade do paciente.
+Somente em tal hipótese a jurisprudência, tanto do STJ quanto do STF, admite o excepcional afastamento do rigor da Súmula n. 691 do STF (aplicável ao STJ), expressa nos seguintes termos: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+Na hipótese, o Juízo da 3ª Vara Criminal de Feira de Santana/BA, ao receber o ADFP, em 10/12/2025, proferiu a seguinte decisão (fl. 72):
+Dispõe o parágrafo único, do art. 70 do CPP, que a competência, será, de regra, determinada pelo lugar que se consumar a infração, ou, no caso de tentativa, pelo lugar em que for praticado o último ato de execução.
+Com essas breves considerações, reconheço a incompetência territorial deste Juízo e determino a remessa imediata dos autos a Vara Criminal de Candeias/ Bahia.
+Impetrado habeas corpus perante o Tribunal estadual, a liminar foi indeferida, oportunidade na qual o Desembargador relator não vislumbrou "os elementos autorizadores da concessão segura da medida liminar suplicada" e indeferiu a liminar pleiteada.
+Pela análise dos autos, constato que, dos elementos que o instruem, não é possível constatar a ilegalidade apontada pela parte, pois não foi colacionado o andamento do Processo n. 8041996-04.2025.8.05.0080.
+Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória.
+É cogente ao impetrante - sobretudo quando se tratar de advogado constituído - apresentar elementos documentais suficientes para se permitir aferir a suscitada existência de constrangimento ilegal no ato atacado no writ.
+Ademais, o Desembargador relator do prévio writ já solicitou informações ao Juízo de origem, a fim de constatar a presença ou não do constrangimento ilegal a que a defesa afirma estar submetido ao paciente, circunstância que evidencia que aquela deverá ser analisada em momento oportuno pelo órgão colegiado competente, quando serão minuciosamente examinados os fundamentos embasadores do pedido.
+Não identifico, portanto, manifesta ilegalidade que permita inaugurar a competência constitucional deste Tribunal Superior. Ressalto, todavia, que a análise feita nesta oportunidade não preclui o exame mais acurado da matéria, em eventual impetração que venha a ser aforada, já a partir da decisão colegiada da Corte estadual.
+À vista do exposto, indefiro liminarmente este habeas corpus, com fulcro na Súmula n. 691 do STF e no art. 210 do RISTJ.
+Publique-se e intimem-se.
+EMENTA
