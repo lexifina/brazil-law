@@ -1,0 +1,24 @@
+DECISÃO
+JOHNN EVERTON ALMEIDA DA SILVA e TAUA ALMEIDA SELESTINO DA SILVA alegam sofrer coação ilegal diante de acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS, que denegou a ordem no HC n. 0803456-20.2025.8.02.0000.
+Os pacientes, na ocasião do recebimento da denúncia, tiveram suas prisões preventivas decretadas, pela prática, em tese, do crime de homicídio qualificado tentado, tipificado no art. 121, § 2º, II, III e IV, c/c o art. 14, II, do Código Penal.
+Neste habeas corpus, a defesa pede, liminarmente e no mérito, a revogação da prisão preventiva, ainda que com a imposição de medidas cautelares alternativas ao cárcere, sob os argumentos de ausência de contemporaneidade, falta de fundamentação concreta e idônea para a manutenção da custódia provisória, condições subjetivas favoráveis e cabimento das constrições disp ostas no art. 319 do CPP.
+Decido.
+É cabível o avanço para julgamento in limine de questões pacificadas pelo colegiado. Nesse sentido: AgRg no HC n. 894.234/SE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 1/7/2024, DJe de 3/7/2024.
+A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+A custódia preventiva foi decretada em decisão assim fundamentada (fl. 90-93, grifei):
+No presente caso, no que toca à materialidade (prova da existência do crime), considero, em mero juízo sumário, que resta devidamente comprovada por meio dos documentos médicos de págs. 30/32 encartados nos autos.
+ ..
+Assim, ao menos em uma análise superficial própria para o deferimento da medida cautelar pleiteada, entendo que também resta preenchido este requisito, pois verifica-se das peças colacionadas aos autos que os réus supostamente praticaram o delito descrito na denúncia.
+ ..
+Com efeito, em face da gravidade em concreto e repercussão do crime, posto que fora supostamente praticado com os réus agarrando o pescoço da vítima e prendendo seus braços, a após, desferindo golpes de faca em sua barriga, costela, braço e costas, em um total de 6 (seis) facadas.
+Ao fazer alusão aos elementos indiciários da investigação e da denúncia, o Juízo de primeira instância caracterizou suficientemente o fumus comissi delicti. Alterar esse entendimento implicaria análise de inocência, procedimento que, na estreita via do habeas corpus, demandaria aprofundamento no conjunto de fatos e provas, o que não se admite no rito célere da ação constitucional manejada.
+Quanto ao periculum libertatis, a custódia preventiva foi validamente fundamentada com base na gravidade concreta da conduta, evidenciada pela alta reprovabilidade de seu modus operandi, e na periculosidade dos acusados, que agarraram o pescoço da vítima, imobilizaram seus braços, desferiram golpes de faca em sua barriga, suas costelas, seu braço e suas costas, em um total de seis facadas.
+Ao caso, aplico o seguinte entendimento sedimentado nesta Corte:
+A gravidade concreta da conduta, reveladora do potencial elevado grau de periculosidade do agente e consubstanciada na alta reprovabilidade do modus operandi empregado na empreitada delitiva, é fundamento idôneo a lastrear a prisão preventiva, com o intuito de preservar a ordem pública (AgRg no HC n. 687.840/MS, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 13/12/2022, DJe de 19/12/2022).
+Ademais, não se há de cogitar ausência de contemporaneidade. Isso porque os fatos ocorreram em 23/8/2024 (fl. 57), os mandados de prisão foram cumpridos em 20/3/2025 (fl. 165), e "a prisão preventiva pode ser mantida quando devidamente fundamentada na gravidade concreta dos fatos e na necessidade de garantia da ordem pública, não se esgotando o periculum libertatis pelo simples decurso do tempo" (AgRg no HC n. 995.705/SP, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 11/6/2025, DJEN de 18/6/2025).
+Outrossim, a gravidade dos fatos denota que as medidas alternativas à prisão seriam insuficientes para acautelar a ordem pública e evitar a prática de novos crimes (art. 282, § 6º, c/c o art. 319 do CPP).
+Ressalto, por oportuno, que:
+Eventuais condições subjetivas favoráveis, tais como primariedade, residência fixa e trabalho lícito, por si sós, não obstam a segregação cautelar, quando presentes os requisitos legais para a decretação da prisão preventiva (AgRg no HC n. 1.025.561/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 16/9/2025, DJEN de 23/9/2025).
+À vista do exposto, in limine, denego a ordem.
+Publique-se e intimem-se.
+EMENTA
