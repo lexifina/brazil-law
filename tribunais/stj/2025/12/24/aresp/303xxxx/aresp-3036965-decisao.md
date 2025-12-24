@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto pelo MUNICÍPIO DE SANTA TERESINHA contra decisão do Tribunal de Justiça do Estado da Bahia, que não admitiu recurso especial, fundado nas alíneas "a" e "c" do permissivo constitucional, e que desafia acórdão assim ementado (e-STJ fls. 373/374):
+APELAÇÃO CÍVEL. DIREITO ADMINISTRATIVO. VERBAS REMUNERATÓRIAS. SERVIDOR TEMPORÁRIO. PEDIDO DE HORAS EXTRAORDINÁRIAS E ADICIONAL NOTURNO. REQUERIMENTO DE PRODUÇÃO DE PROVA ORAL INDEFERIDO. NULIDADE DA SENTENÇA POR CERCEAMENTO DE DEFESA. NECESSIDADE DE DILAÇÃO PROBATÓRIA. CONVERSÃO DE OFÍCIO REALIZADA SOMENTE NA SENTENÇA, PARA O RITO DOS JUIZADOS ESPECIAIS DA FAZENDA PÚBLICA. IMPOSSIBILIDADE. AUSÊNCIA DE JUIZADO INSTALADO NA COMARCA. OPÇÃO DE RITO DO AUTOR QUE DEVE PREVALECER. ANULAÇÃO DA SENTENÇA. RETORNO DOS AUTOS À ORIGEM. RECURSO PROVIDO.
+I. Caso em exame: Apelação com o objetivo de reformar sentença de improcedência, buscando o reconhecimento e pagamento de verbas remuneratórias decorrentes de vínculo de trabalho temporário firmado sem prévia aprovação em concurso público, abrangendo salários, férias acrescidas de 1/3, 13º salário, horas extras, adicional noturno e outras vantagens.
+II. Questão em discussão: Análise de alegado cerceamento de defesa pelo indeferimento de prova testemunhal e documental solicitadas no curso da instrução processual. Discussão sobre a adequação da conversão do rito processual comum ao rito dos Juizados Especiais da Fazenda Pública, feita de ofício, em comarca onde tal estrutura não está instalada.
+III. Razões de decidir: O julgamento antecipado da lide, sem a produção da prova testemunhal requerida, violou os princípios do contraditório e da ampla defesa, previstos na Constituição Federal (art. 5º, LIV e LV). A conversão de ofício para o rito dos Juizados Especiais em comarca desprovida de tal unidade viola os dispositivos normativos da Lei nº 12.153/2009, que exige instalação formal do juizado para aplicação da competência absoluta. IV. Dispositivo e tese: Recurso provido. Anulação da sentença. Tese de julgamento:
+"1. O indeferimento imotivado de provas essenciais requeridas oportunamente caracteriza cerceamento de defesa, sendo imprescindível sua realização em demandas que envolvam controvérsia fática complexa.
+2. A conversão do rito processual comum para o rito dos Juizados Especiais da Fazenda Pública exige a prévia instalação do juizado competente na comarca de tramitação."
+Os embargos de declaração foram rejeitados (e-STJ fls. 440/458).
+No recurso especial, o Município recorrente apontou, além de divergência jurisprudencial, violação dos arts. 373, I, e 1.022 do CPC/2015.
+As contrarrazões foram oferecidas (e-STJ fls. 520/527).
+O Tribunal de origem inadmitiu o recurso especial, e o Município interpôs agravo em recurso especial.
+A contraminuta foi apresentada.
+Passo a decidir
+O agravo em recurso especial não deve ser conhecido, pois deixa de atacar especificamente os fundamentos da decisão agravada, nos termos do art. 932, III, do CPC/2015 e do art. 253, parágrafo único, I, do RISTJ. Confira-se o teor dos dispositivos citados:
+Art. 932. Incumbe ao relator:
+ ..  III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida; (Grifos acrescidos)
+Art. 253. O agravo interposto de decisão que não admitiu o recurso especial obedecerá, no Tribunal de origem, às normas da legislação processual vigente. (Redação dada pela Emenda Regimental n. 16, de 2014)
+Parágrafo único. Distribuído o agravo e ouvido, se necessário, o Ministério Público no prazo de cinco dias, o relator poderá: (Redação dada pela Emenda Regimental n. 16, de 2014)
+I - não conhecer do agravo inadmissível, prejudicado ou daquele que não tenha impugnado especificamente todos os fundamentos da decisão recorrida; (Redação dada pela Emenda Regimental n. 22, de 2016)
+A Corte Especial do Superior Tribunal de Justiça, no julgamento dos Embargos de Divergência em Agravo em Recurso Especial 701404/SC, 746775/PR e 831326/SP, decidiu pela necessidade de o agravante impugnar especificamente todos os fundamentos adotados pela decisão a quo, autônomos ou não, para justificar a inadmissão do recurso especial, sob pena de seu recurso não ser conhecido.
+No caso, da análise dos autos, verifico que a parte agravante deixou de impugnar, específica e adequadamente, os seguintes fundamentos da decisão agravada (e-STJ fls. 540/543):
+1. Da alegação de contrariedade ao art. 1.022, do Código de Processo Civil:
+Insta destacar que a alegação de violação genérica a lei federal, sem a individualização precisa e compreensível do dispositivo legal supostamente ofendido, isto é, sem a específica indicação numérica do artigo de lei, parágrafos, incisos e das alíneas, bem como a efetiva demonstração de contrariedade de lei federal impedem o conhecimento do recurso especial, atraindo a incidência do enunciado da Súmula 284 do STF, aplicada analogicamente à hipótese  ..
+4. Do dissídio jurisprudencial:
+Por derradeiro, quanto ao suposto dissídio de jurisprudência, alavancado sob o pálio da alínea "c" do permissivo constitucional, insta destacar que o Superior Tribunal de Justiça orienta-se no sentido de que "É pacífico o entendimento desta Corte Superior de que os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c, ficando prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica." (AgInt no AREsp n. 1.994.736/SP, relator Ministro PAULO SÉRGIO DOMINGUES, D Je 07/12/2023)
+Como se sabe, em observância ao princípio da dialeticidade, a impugnação deve ser feita de forma específica, concret, pormenorizada e relativamente a todos os fundamentos adotados pela decisão a quo, trazendo argumentações capazes de demonstrar o seu desacerto.
+Ante o exposto, com base no art. 253, parágrafo único, I, do RISTJ, NÃO CONHEÇO do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
