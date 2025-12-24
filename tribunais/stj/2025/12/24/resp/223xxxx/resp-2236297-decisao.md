@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto pela ROHR MAQUINAS LTDA., com respaldo nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL assim ementado (e-STJ fl. 291):
+AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. MANDADO DE SEGURANÇA. LICITAÇÃO. DECISÃO QUE CONCEDE OU NEGA EFEITO SUSPENSIVO OU ANTECIPAÇÃO DE TUTELA RECURSAL.
+1 . DESCABE A INTERPOSIÇÃO DE RECURSOS CONTRA DECISÕES DO RELATOR QUE CONCEDE OU NEGA EFEITO SUSPENSIVO OU ANTECIPAÇÃO DE TUTELA, EIS QUE, EMBORA HAJA CONTEÚDO DECISÓRIO, ESTE SE MOSTRA PRECÁRIO, DE CURTA DURAÇÃO E QUE SE MANTÉM SOMENTE ATÉ O JULGAMENTO DO RECURSO PRINCIPAL.
+2. AINDA, O TRÂMITE DO AGRAVO DE INSTRUMENTO É CÉLERE, AO PASSO QUE ADMITIR O RECURSO CONTRA MERO DESPACHO DO RELATOR CONTRARIA A DETERMINAÇÃO CONSTITUCIONAL DE QUE O PROCESSO DEVE TER DURAÇÃO RAZOÁVEL (ART. 5º, LXXVIII, DA CF), COMPROMISSO ESTE TAMBÉM ASSUMIDO PELO CÓDIGO PROCESSUAL EM VIGÊNCIA (ARTIGOS 4º E 6º DO CPC).
+AGRAVO INTERNO NÃO CONHECIDO. UNÂNIME.
+Embargos de declaração desacolhidos (e-STJ fls. 299/300).
+Em suas razões, a parte recorrente aponta, além de dissídio jurisprudencial, violação do art. 1.021 do CPC, sustentando que não há ressalvas quanto ao cabimento do agravo interno contra decisão proferida por relator, abrangendo, portanto, pronunciamentos sobre efeito suspensivo ou antecipação de tutela recursal.
+Acrescenta que o § 2º do art. 1.021 do CPC não estabelece nenhuma vedação ao cabimento do agravo interno na hipótese aqui discutida, uma vez que apenas disciplina o processamento (encaminhamento ao colegiado em caso de não retratação).
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 327/329.
+Parecer ministerial às e-STJ fls. 340/344.
+Passo a decidir.
+Na origem, cuida-se de agravo interno interposto contra decisão que concedeu a antecipação da tutela recursal no agravo de instrumento.
+No acórdão recorrido, o Tribunal de origem não conheceu do recurso, por entender ser incabível agravo interno contra decisão precária do relator que concede ou nega efeito suspensivo ou antecipação de tutela recursal, por se tratar de medida de curta duração e destinada a subsistir apenas até o julgamento do recurso principal. Confiram-se os seguintes excertos do acórdão (e-STJ fls. 288/290):
+Deixo de conhecer a insurgência, ante a ausência de previsão legal de recursos contra decisões que deferem ou indeferem o efeito suspensivo, eis que embora haja conteúdo decisório, este se mostra precário, de curta duração e que se mantém somente até o julgamento do recurso principal.
+Entender que caberia agravo interno contra toda e qualquer decisão ou despacho do Relator contraria a determinação constitucional de que o processo deve ter duração razoável (art. 5º, LXXVIII, da CF), compromisso este também assumido pelo Código Processual em vigência (artigos 4º e 6º do CPC).
+Nesse sentido, é precisa a decisão da 1ª Câmara Cível, no Agravo Interno nº 70072145113, julgado em 31/01/2017, em acórdão da lavra do e. Des. Irineu Mariani, cujos fundamentos reproduzo, com a vênia do Relator:
+ ..
+Também nesse sentido é a jurisprudência desta Corte, com grifos meus:
+ ..
+Por fim, aponto para o disposto no art. 1.021, §2º, do CPC, que diz que, em caso de não haver retratação, o agravo interno deve ser encaminhado ao Colegiado. Tal dispositivo evidencia que a matéria passível de ser analisada no agravo interno é aquela que pode ser conhecida pelo Colegiado. Ocorre que a análise dos efeitos que deve ser recebido o recurso não é da competência da Câmara e sim do Relator (artigos 932, II, e 1.019, I, do CPC), assim, é até antagônico que tal matéria seja objeto de agravo interno.
+Se o legislador quisesse que fosse de forma diversa, determinaria expressamente que a admissibilidade recursal fosse feita pelo Colegiado e não somente pelo Relator.
+Pelo exposto, voto por não conhecer do agravo interno.
+Observa-se que o entendimento firmado pelo Tribunal de origem diverge da jurisprudência desta Corte, segundo a qual "a decisão monocrática de relator que defere ou nega efeito suspensivo ou ativo a agravo de instrumento interposto no tribunal de segunda instância pode ser impugnada por recurso interno ao colegiado. Aplica-se, in casu, o princípio constitucional da colegialidade dos tribunais e do art. 39 da Lei 8.039, de 1990" (REsp 770620/PA, relator Ministro Castro Meira, Segunda Turma, julgado em 1/9/2005, DJ de 3/10/2005, p. 236.).
+A propósito:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. IMPROPRIEDADE DA VIA ELEITA. RECURSO CABÍVEL. AGRAVO REGIMENTAL NO TRIBUNAL DE ORIGEM. PRINCÍPIO DA COLEGIALIDADE DAS DECISÕES. (AGRAVO DE INSTRUMENTO COM PEDIDO DE TUTELA ANTECIPADA PARA CONCEDER EFEITO SUSPENSIVO. DECISÃO LIMINAR EM MANDADO DE SEGURANÇA.)
+1. É cabível a interposição de agravo regimental contra qualquer decisão monocrática de relator de tribunal.
+2. O art. 39 da Lei nº 8.038/90, que disciplina o cabimento do agravo interno contra decisão singular proferida por membro do Superior Tribunal de Justiça e ao Supremo Tribunal Federal, deve ser aplicado, por analogia, aos demais tribunais pátrios, ainda que inexista previsão no Regimento Interno do Tribunal de Segunda Instância. Precedentes: (AgRg no AG n. 556508/TO, de minha relatoria. DJ. 30.05.2005; AG n. 712619/PI. Rel. Min. Teori Albino Zavascki. DJ. 10.11.2005; Ag no AG n. 421168/SP. Rel. Min. Eliana Calmon. DJ. 24.06.2002).
+3. "A decisão monocrática de relator indeferindo antecipação de tutela recursal em agravo de instrumento interposto perante tribunal de segunda instância pode ser impugnada por recurso interno ao colegiado. Aplicação do princípio constitucional da colegialidade dos tribunais e do art. 39 da Lei 8.038, de 1990.(MC 6566, Rel. Min. Teori Zavascki)" 4. A lei 8.038/90 prevê, no art. 39, o direito de a parte reiterar o pedido perante o próprio colegiado. Nestes casos, cabe à parte sucumbente impugnar os fundamentos da decisão monocrática através de agravo regimental, como forma de assegurar o princípio da colegialidade, garantia fundamental do processo que visa neutralizar o individualismo das decisões.
+5. A súmula 622/STF, que desautoriza o cabimento do agravo regimental contra decisão do relator que concede ou indefere liminar em mandado de segurança, não se harmoniza com o próprio artigo 317 do RISTF, que prevê agravo regimental contra qualquer decisão monocrática de um dos seus membros que cause prejuízo ao direito da parte, outra não é a exegese do art. 258 do RISTJ.
+6. É da natureza dos tribunais superiores o exercício colegiado da jurisdição. Consectariamente, se a lei ou o Regimento conferem a um dos membros do Tribunal, por razões de urgência e de abreviação do serviço judiciário, o exercício de função jurisdicional, ele a desempenha em nome do colegiado, mas sem poder tolher o acesso do jurisdicionado ao colegiado, que é o juiz natural da causa.
+7. Agravo Regimental desprovido.
+(AgRg no Ag n. 827.242/MT, relator Ministro Luiz Fux, Primeira Turma, julgado em 7/12/2006, DJ de 1/2/2007, p. 427.).
+No mesmo sentido, ainda: AREsp 2739859, Ministro Marco Buzzi, DJEN de 23/12/2024.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial, DETERMINANDO o retorno dos autos ao Tribunal de origem, a fim de que proceda ao julgamento do agravo interno lá interposto, conforme entender de direito.
+Publique-se. Intimem-se.
+EMENTA
