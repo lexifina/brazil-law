@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de ADRIANE DE MATOS FRESSATO e REGINALDO STEPENOSKI RIBAS apontando como autoridade coatora a 2ª Câmara Criminal do Tribunal de Justiça do Estado do Paraná.
+A defesa impetrou habeas corpus perante o Tribunal a quo, alegando a ausência de fundamentação concreta para a imposição de monitoramento eletrônico quando da substituição da prisão preventiva por cautelares diversas, a desnecessidade e desproporcionalidade da medida em face do avanço da instrução e do comportamento dos pacientes, bem como a identidade de situações com corréus que tiveram o monitoramento revogado pelo TJPR e pelo STJ, pleiteando a extensão dos efeitos nos termos do art. 580 do CPP (e-STJ fls. 3/4).
+O Tribunal a quo teria mantido a imposição de monitoramento eletrônico aos pacientes, embora haja registro de revogação da medida quanto a corréus (JONAS COSTA PEREIRA, NENEU JOSÉ ARTIGAS e ELOISE SABRINA PEREIRA), segundo afirma a impetração (e-STJ fl. 3).
+No presente writ, a defesa sustenta: a) ausência de fundamentação idônea e específica para a monitoração eletrônica, em afronta aos arts. 282 e 319 do CPP; b) violação ao princípio da isonomia e aplicabilidade do art. 580 do CPP, ante a identidade fático-processual com corréus beneficiados; c) desproporcionalidade da medida, mantida há mais de cinco meses, sem descumprimentos e com participação funcional limitada dos pacientes (e-STJ fls. 3/4).
+Diante disso, requer-se, em liminar e no mérito, a imediata revogação do monitoramento eletrônico ou a extensão dos efeitos das decisões favoráveis já proferidas aos corréus mencionados, com base no art. 580 do CPP (e-STJ fl. 4).
+É o relatório. Decido.
+Não há como do habeas corpus.
+Primeiro, porque não foram juntadas aos autos peças processuais indispensáveis à compreensão da controvérsia, notadamente o ato praticado pelo Tribunal estadual.
+O rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente.
+Com efeito, " a  jurisprudência do Supremo Tribunal Federal é firme no sentido da inadmissão do habeas corpus quando não instruído o writ com as peças necessárias à confirmação da efetiva ocorrência do constrangimento ilegal". (AgRg no HC n. 182.788, Rel. Ministra Rosa Weber, Primeira Turma, julgado em 22/5/2022, DJe 18/6/2020).
+No mesmo sentido, esta Corte assentou que " e m sede de habeas corpus, é cediço que a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado". (AgRg no HC n. 772.017/SC, Rel. Ministro Ribeiro Dantas, Quinta Turma, julgado em 28/11/2022, DJe 2/12/2022).
+Segundo , porque, pela narrativa da inicial, a alegação sequer foi submetida a exame na Corte estadual, inclusive a defesa aponta como autoridade coatora o juízo de primeiro grau, o que igual mente inviabiliza o exame direto neste Tribunal Superior por configurar indevida supressão de instância.
+Nesse sentido:
+A jurisprudência do STJ é pacífica em reconhecer a incompetência desta Corte para conhecer de habeas corpus impetrado contra ato de juiz singular, sob pena de indevida supressão de instância e afronta ao princípio do juiz natural. (..). (RCD no HC n. 1.038.910/SP, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 24/11/2025, DJEN de 27/11/2025.)
+(..) 1. O tribunal de justiça não é competente para conhecer de habeas corpus impetrado contra ato de juiz de primeiro grau e julgá-lo quando já decidido o recurso de apelação.
+2. Subsistindo um dos motivos constantes do decreto de segregação cautelar inicial, é possível a manutenção da custódia com remissão aos fundamentos antes expendidos.
+3. Não cabe ao Superior Tribunal de Justiça manifestar-se acerca da falta de contemporaneidade se não houve pronunciamento das instâncias ordinárias acerca do tema, sob pena de indevida supressão de instância. (..). (RHC n. 128.951/MT, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 6/4/2021, DJe de 9/4/2021.)
+Ante o exposto, com fundamento no art. 34, XX do RISTJ, não conheço do habeas corpus.
+Intimem-se.
+EMENTA
