@@ -1,0 +1,35 @@
+DECISÃO
+Em análise, recurso ordinário em mandado de s egurança impetrado por ELDER STIVAL CEZARETTI, objetivando a reforma do acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 613):
+NULIDADE DA SENTENÇA. CARÊNCIA DE FUNDAMENTAÇÃO. Inocorrência. A sentença decidiu a lide nos termos do pedido. Fundamentação concisa que não se confunde com falta de fundamentação. Ademais, a discordância das razões de decidir não implica em nulidade do julgado. Preliminar rejeitada.
+CONCURSO PÚBLICO. Processo de promoção destinado aos servidores das classes de Especialista Ambiental.
+Impetrante não alcançou a pontuação necessária para sua aprovação. Pretensão de anular 05 questões, sob o argumento de englobar matéria não prevista no edital.
+Inadmissibilidade. Indeferimento do recurso administrativo devidamente motivado. Inexistência de vícios no exame realizado. Observância aos princípios da isonomia, legalidade e formalidade do ato administrativo.
+CONCURSO PÚBLICO. Insurgência contra a aplicação de 05 questões. Inadmissível a ingerência do Poder Judiciário nos critérios utilizados pela banca examinadora na formulação e correção de questões de provas de concurso público. Observância do entendimento consolidado pelo Tema nº 485/STF. Edital que faz lei entre as partes.
+Ausência de ilegalidade do ato impugnado. Precedentes.
+Improcedência da ação. Recurso improvido.
+O recorrente alega, em síntese, que:
+O direito à ampla defesa e o respeito aos princípios da legalidade e da isonomia são pilares fundamentais do ordenamento jurídico brasileiro, especialmente no contexto de concursos públicos. A intervenção do Judiciário em questões relacionadas a certames é não apenas desejável, mas necessária quando se verifica a ocorrência de ilegalidades que comprometem a legitimidade dos atos administrativos.
+A situação em questão demanda uma análise cuidadosa, uma vez que a negativa de segurança pela instância inferior ignorou as alegações do impetrante sobre a presença de questões irregulares na prova.
+A aplicação desse princípio é evidente no caso em tela, considerando que o conhecimento exigido nas questões 22, 27, 32, 38 e 40 da prova objetiva não se encontravam no Anexo I do edital. Tal violação não apenas compromete a integridade do concurso, mas também fere o princípio da vinculação ao edital, que visa assegurar que todos os candidatos sejam avaliados com base nos mesmos critérios e conteúdo. A falta de previsibilidade e clareza em relação ao conteúdo das provas gera insegurança e desconfiança, prejudicando a isonomia entre os concorrentes.
+Contrarrazões apresentadas às fls. 712-721.
+O Ministério Público Federal ofereceu parecer pelo não conhecimento do recurso.
+É o relatório.
+Passo a decidir.
+Mediante análise dos autos, verifica-se que o acórdão recorrido foi proferido no recurso de apelação em mandado de segurança.
+A jurisprudência do STJ firmou-se no sentido de não ser "cabível recurso ordinário em mandado de segurança interposto contra acórdão que julgou apelação em mandado de segurança. Inaplicável o princípio da fungibilidade ante a ausência de dúvida objetiva" (AgInt no RMS n. 68.385/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 22/11/2022, DJe de 24/11/2022).
+A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. LICITAÇÃO E CONTRATOS ADMINISTRATIVOS. EDITAL DE CONCORRÊNCIA PARA CONCESSÃO DE TRANSPORTE COLETIVO MUNICIPAL. ACÓRDÃO NA APELAÇÃO EM MANDADO DE SEGURANÇA IMPETRADO NO PRIMEIRO GRAU. INTERPOSIÇÃO DE RECURSO ORDINÁRIO AO INVÉS DE RECURSO ESPECIAL. ERRO GROSSEIRO. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. INAPLICABILIDADE. AGRAVO INTERNO IMPROVIDO.
+1. Nos termos da jurisprudência do STJ, "Não cabe recurso ordinário contra acórdão que, no processo mandamental, julga a apelação interposta contra a sentença denegatória da ordem, nem há cogitar de fungibilidade uma vez configurado o erro grosseiro" (RMS n. 72.519/PE, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 20/2/2024, DJe de 27/2/2024).
+2. Agravo interno não provido (AgInt no RMS n. 67.673/RS, de minha relatoria, Segunda Turma, julgado em 22/4/2024, DJe de 25/4/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. RECURSO ORDINÁRIO INTERPOSTO CONTRA ACÓRDÃO PROFERIDO EM SEDE DE APELAÇÃO. ART. 105, II, DA CONSTITUIÇÃO FEDERAL E ART. 1.027 DO CPC/2015. NÃO CABIMENTO DO RECURSO ORDINÁRIO, À MÍNGUA DAS HIPÓTESES LEGALMENTE PREVISTAS. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. INAPLICABILIDADE. ERRO GROSSEIRO. AGRAVO INTERNO IMPROVIDO.
+I. Trata-se de Agravo interno aviado contra decisão que julgara recurso interposto contra acórdão publicado na vigência do CPC/2015.
+II. Trata-se, na origem, de Mandado de Segurança, impetrado pela agravante, apontando, como autoridade coatora, Romes Gomes e Silva, prefeito do Município de Abadia de Goiás/GO, objetivando, em síntese, suspender os efeitos do Decreto 219-A, para manter a vigência da Lei Municipal 647/2017, a fim de determinar o pagamento dos vencimentos integrais da impetrante, servidora pública municipal. O Tribunal de origem, em sede de Apelação, manteve a sentença que concedeu parcialmente a segurança, apenas para reconhecer indevida a restituição ao erário dos valores recebidos pela impetrante, no período de 22/05/2017 a 08/03/2018.
+III. Nos termos do art. 105, II, da Constituição Federal e do art. 1.027 do CPC/2015, o cabimento de recurso ordinário para o STJ dá-se, única e exclusivamente, contra acórdão proferido, em única instância, pelos Tribunais Regionais Federais ou pelos Tribunais de Justiça dos Estados e do Distrito Federal, no julgamento de Habeas Corpus e Mandado de Segurança, quando denegatória a decisão, e nos processos em que forem partes, de um lado, Estado estrangeiro ou organismo, e, de outro lado, Município ou pessoa residente ou domiciliada no país.
+IV. No caso em exame, o acórdão recorrido foi proferido em sede de Apelação, revelando-se, portanto, incabível o presente Recurso Ordinário, porquanto ausente qualquer das hipóteses legais taxativamente previstas no art. 105, II, da Constituição Federal e no art. 1.027 do CPC/2015.
+V. A aplicabilidade do princípio da fungibilidade recursal pressupõe a existência de dúvida objetiva acerca do recurso cabível, a inexistência de erro grosseiro e a observância do prazo do recurso cabível. No caso, não há dúvida objetiva, na doutrina e na jurisprudência, acerca de qual recurso seria cabível, ao STJ, para impugnação do acórdão recorrido, em razão da expressa previsão constitucional do cabimento de Recurso Especial, a impedir a aplicação do princípio da fungibilidade recursal. Precedentes.
+VI. Agravo interno improvido (AgInt no RMS n. 68.620/GO, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 8/8/2022, DJe de 12/8/2022, grifos acrescidos).
+Isso posto, não conheço do recurso.
+Custas pela parte recorrente, ressalvada a eventual concessão da gratuidade da justiça.
+Sem honorários advocatícios (art. 25 da Lei 12.016/09).
+Intimem -se.
+EMENTA
