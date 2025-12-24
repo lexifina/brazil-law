@@ -1,0 +1,26 @@
+DECISÃO
+ALEXANDRE DORE DE SOUZA interpõe recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 1525593-20.2021.8.26.0228.
+Nas razões recursais, a defesa aponta a violação do art. 65, III, "d", do Código Penal, ao argumento de que o recorrente faz jus ao reconhecimento da confissão espontânea.
+Requer o provimento do recurso, a fim de que seja reduzida a reprimenda.
+Apresentadas as contrarrazões e admitido o recurso, o Ministério Público Federal manifestou-se pelo seu não conhecimento (fls. 359-363).
+Decido.
+Observo que o especial suplanta o juízo de prelibação, haja vista a ocorrência do necessário prequestionamento, além de estarem presentes os demais pressupostos de admissibilidade (cabimento, legitimidade, interesse, inexistência de fato impeditivo, tempestividade e regularidade formal), motivos pelos quais avanço na análise de mérito da controvérsia.
+Extrai-se dos autos que o recorrente foi condenado à pena de 2 anos e 8 meses de reclusão mais 13 dias-multa, em regime semiaberto, pela prática do delito previsto no art. 155, § 4º, II, do Código Penal.
+Quanto ao pretendido reconhecimento da atenuante da confissão espontânea, certo é que este Superior Tribunal possui o entendimento de que, se a confissão do acusado foi utilizada para corroborar o acervo probatório e fundamentar a condenação, deve incidir a atenuante prevista no art. 65, III, "d", do Código Penal, sendo irrelevante o fato de a confissão haver sido espontânea ou não, total ou parcial, ou mesmo que tenha havido posterior retratação.
+Nesse sentido foi editada a Súmula n. 545 do STJ, verbis: "Quando a confissão for utilizada para a formação do convencimento do julgador, o réu fará jus à atenuante prevista no art. 65, III, d, do Código Penal".
+Em 10/9/2025, no julgamento do Tema Repetitivo n. 1.194 (REsp n. 2.001.973/RS), a Terceira Seção modificou os entendimentos sobre a matéria e firmou as seguintes teses:
+DIREITO PENAL. RECURSO ESPECIAL REPETITIVO. TEMA N. 1.194 DO STJ. CONFISSÃO ESPONTÂNEA. INFLUÊNCIA NA FORMAÇÃO DO CONVENCIMENTO DO JULGADOR. DESNECESSIDADE. RETRATAÇÃO. EFEITOS. CONFISSÃO PARCIAL E QUALIFICADA. PROPORCIONALIDADE. RECURSO PARCIALMENTE PROVIDO. TESES FIXADAS COM MODULAÇÃO DE EFEITOS.
+ ..
+Teses do Tema n. 1.194 do STJ:
+1. A atenuante genérica da confissão espontânea, prevista no art. 65, III, d, do Código Penal, é apta a abrandar a pena independentemente de ter sido utilizada na formação do convencimento do julgador e mesmo que existam outros elementos suficientes de prova, desde que não tenha havido retratação, exceto, neste último caso, que a confissão tenha servido à apuração dos fatos.
+2. A atenuação deve ser aplicada em menor proporção e não poderá ser considerada preponderante no concurso com agravantes quando o fato confessado for tipificado com menor pena ou caracterizar circunstância excludente da tipicidade, da ilicitude ou da culpabilidade.
+ ..
+(REsp n. 2.001.973/RS, relator Ministro Og Fernandes, Terceira Seção, julgado em 10/9/2025, DJEN de 16/9/2025.)
+No entanto, verifico que, no caso, as instâncias ordinárias, em nenhum momento, fizeram menção às declarações prestadas pelo réu para concluir pela sua condenação no tocante ao crime de furto. Ao contrário, o Juiz sentenciante consignou que o réu, durante seu interrogatório judicial, "negou o furto. Disse que parou para ajudar um motorista que estava com o carro com o pneu furado. Disse para ele que era melhor ir para um posto, pois o local era perigoso. Voltou para sua moto e pisou em um celular. Achou que era o seu, que tinha caído, e o pôs no bolso" (fl. 201).
+Na mesma linha argumentativa, destacou a Corte estadual (fl. 282):
+Na segunda fase, não prospera pleito defensivo para aplicação da circunstância atenuante da confissão espontânea, tendo em vista que o réu não confessou a prática do crime. Ele negou, alegando que encontrou o celular no chão e o pegou, pois acreditava ser o seu. Importante ressaltar que mesmo uma eventual confissão informal, quando de sua prisão em flagrante, não foi considerada, porque totalmente desnecessária, além, como ficou óbvio, de que retratada posteriormente, para fundamentar a condenação, não existindo, então, quaisquer motivos para acolhimento da atenuante.
+Assim, uma vez que os depoimentos prestados pelo recorrente não foram utilizados para a formação do convencimento dos julgadores - que, conforme visto, se valeram dos demais elementos fático-probatórios colacionados aos autos para concluir pela condenação -, não identifico a apontada violação legal.
+O que se concluiu é que o réu não admitiu os fatos. Para afastar a conclusão do acórdão estadual e entender pela incidência da atenuante, seria necessário o revolvimento de todo o conjunto fático-probatório produzido nos autos, providência que, conforme cediço, é incabível na via do recurso especial, consoante o enunciado na Súmula n. 7 do STJ, in verbis: "A pretensão de simples reexame de prova não enseja recurso especial".
+À vista do exposto, com fundamento no art. 932, III, do CPC, c/c o art. 34, XVIII, "a", do RISTJ, não conheço do recurso especial.
+Publique-se e intimem-se.
+EMENTA
