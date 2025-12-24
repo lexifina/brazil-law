@@ -1,0 +1,22 @@
+DECISÃO
+ALCENIR DA SILVA AMARAL interpõe recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Pará na Apelação Criminal n. 0001449-36.2013.8.14.0013.
+Nas razões recursais, a defesa aponta violação do art. 59 do Código Penal. Para tanto, sustenta a inidoneidade dos fundamentos adotados para considerar negativa a culpabilidade do agente, razão pela qual requer a redução da pena.
+Apresentadas as contrarrazões e admitido o recurso, o Ministério Público Federal manifestou-se pelo provimento do reclamo (fls. 583-585).
+Decido.
+O especial preenche os requisitos constitucionais, legais e regimentais, razão pela qual merece conhecimento.
+Extrai-se dos autos que o recorrente foi condenado pela prática do delito previsto no art. 157, caput, do Código Penal, à pena de 7 anos de reclusão mais 17 dias-multa, em regime semiaberto.
+A Corte estadual manteve os termos da sentença e, sobre a pena-base do agente, concluiu (fl. 540):
+Mantenho a culpabilidade como desfavorável, diante da maior reprovabilidade da conduta do réu, ou seja, o quão censurável foi a ação criminosa. Assim, constato nos autos que o réu abordou uma das vítimas quando ela estava saindo da Universidade, nas proximidades de uma encruzilhada, ocasião em que anunciou o assalto fazendo gesto de quem portava uma arma de fogo. Logo, verifico alto o grau de reprovação da conduta do sentenciado.
+A fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, nos arts. 5º, XLVI, da Constituição Federal, 59 do Código Penal e 387 do Código de Processo Penal.
+Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o quantum de pena a ser aplicada ao condenado criminalmente, visando à prevenção e à repressão do delito perpetrado.
+O conceito de culpabilidade, envolto em intensos debates doutrinários, costuma ser utilizado em três sentidos no Direito Penal pátrio, que aqui sintetizo apenas para compreensão do julgado: a) como princípio, querendo traduzir a limitação à responsabilidade penal objetiva; b) como limite à sanção estatal, vinculada ao grau de reprovabilidade da conduta; c) como pressuposto da aplicação da pena ou, para os que adotam a teoria tripartida do delito, como elemento analítico do crime.
+Para a análise da dosimetria e da aventada violação do art. 59 do CP, interessa-nos a culpabilidade como limite à sanção estatal, circunstância judicial introduzida no art. 59 do CP pela reforma penal de 1984, em substituição ao critério da intensidade do dolo ou do grau de culpa, que permite a mensuração da reprovabilidade que recai sobre o agente, ante o bem jurídico ofendido.
+No caso, entendo que o elemento apresentado pelas instâncias antecedentes - potencial conhecimento sobre a ilicitude do comportamento -, é inerente à elementar do crime de roubo, razão pela qual não pode ser usada como fundamento para considerar elevada a reprovabilidade da conduta.
+Nesse sentido:
+ ..
+5. A valoração negativa da culpabilidade, sem motivação concreta e específica, constitui ilegalidade, devendo ser afastada da dosimetria da pena. No caso concreto, as instâncias ordinárias limitaram-se a declarar o réu culpável, porque imputável e dotado de potencial consciência da ilicitude, sendo-lhe exigível uma conduta diversa, mas não cuidaram de avaliar a extensão da imputabilidade, o nível da consciência da ilicitude e a medida de exigibilidade de conduta diversa.  ..  (AREsp n. 2.184.882/MG, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 4/2/2025, DJEN de 14/2/2025.)
+Identificada a ilegalidade, afasto a análise desfavorável da culpabilidade e passo à readequação da pena.
+Partindo dos critérios adotados pelas instâncias ordinárias e verificada a exasperação ilegal na primeira etapa, afasto a análise desfavorável da culpabilidade e fixo a pena-base no mínimo legal, em 4 anos de reclusão mais 10 dias-multa. Na segunda etapa, a pena permaneceu inalterada. Por fim, a sanção foi aumentada em 1/6 pela continuidade delitiva, o que a torna definitivamente estabelecida em 4 anos e 8 meses de reclusão mais 11 dias-multa.
+À vista do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. art. 34, XVIII, "b", parte final, do RISTJ, dou provimento ao recurso especial, a fim de afastar a análise desfavorável da culpabilidade e redimensionar a pena para 4 anos e 8 meses de reclusão mais 11 dias-multa.
+Publique-se e intimem-se.
+EMENTA
