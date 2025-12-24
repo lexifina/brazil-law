@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o Juízo de Direito da Vara de Execuções Penais do Distrito Federal, o suscitante, e o Juízo de Direito da Vara de Execuções Penais - Meio Fechado e Semiaberto de Ribeirão das Neves/MG, o suscitado.
+Versam os autos acerca da execução de pena de Ademildo Gomes da Silva, que cumpria reprimenda em Ribeirão das Neves/MG - 11 anos, 4 meses e 10 dias de reclusão, pela prática dos crimes de receptação, tráfico de drogas e corrupção de menores -, tendo sido deferida comutação apenas quanto aos delitos não impeditivos (receptação), mantida a execução pelos crimes impeditivos (tráfico e corrupção de menores) em regime semiaberto, com alteração da data-base em razão de prisão em flagrante ocorrida em Brasília/DF.
+O Juízo suscitado, com fundamento no art. 7º da Resolução n. 113 do CNJ, remeteu os autos ao Distrito Federal, por ser o local da custódia atual do apenado (fls. 651/652).
+O Juízo suscitante, por sua vez, rechaçou sua competência para processar a execução, considerando a ausência de condenação oriunda da Justiça do Distrito Federal e suscitou o conflito (fls. 660/663).
+Instado a se manifestar na condição de custos legis, o Ministério Público Federal opinou pela competência do Juízo de Direito da Vara de Execuções Penais - Meio Fechado e Semiaberto de Ribeirão das Neves/MG, destacando que a execução da pena se mantém no juízo da condenação e onde o apenado cumpre reprimenda, não havendo deslocamento de competência em razão de prisão em flagrante em comarca diversa (fls. 674/676).
+É o relatório.
+Com razão o parecerista.
+Colhe-se dos autos que a execução penal tramitava regularmente na comarca de Ribeirão das Neves/MG até que o apenado foi preso em flagrante em Brasília/DF, circunstância essa que fundou a decisão do Juízo suscitado no sentido de declinar da competência em favor do Juízo de Brasília/DF.
+Ocorre que tal circunstância não consubstancia causa modificativa de competência para a execução penal, de modo que a competência para processar a execução remanesce com o Juízo suscitado:
+CONFLITO NEGATIVO DE COMPETÊNCIA. EXECUÇÃO PENAL. CUMPRIMENTO DE PENA PRIVATIVA DE LIBERDADE. CONFLITANTES: JUÍZOS DE DIREITO NOS ESTADOS DO PARANÁ E SANTA CATARINA. RÉU SEGREGADO EM COMARCA DIVERSA DAQUELA EM QUE FOI CONDENADO. COMPETÊNCIA PARA A EXECUÇÃO, EM REGRA, DO JUÍZO DA CONDENAÇÃO. EXECUÇÃO DEPRECADA UNILATERALMENTE. IMPOSSIBILIDADE. NECESSIDADE DE CONSULTA AO JUÍZO DESTINATÁRIO, PARA QUE ESCLAREÇA A VIABILIDADE MATERIAL DO CUMPRIMENTO DA REPRIMENDA EM UNIDADE PRISIONAL NA COMARCA EM QUE FOI IMPLEMENTADA A PRISÃO DO APENADO. MANIFESTAÇÃO DA PROCURADORIA-GERAL DA REPÚBLICA ACOLHIDA. CONFLITO CONHECIDO PARA DECLARAR A COMPETÊNCIA DO JUÍZO SUSCITADO.
+1. A deprecação unilateral da execução criminal não é admissível. A prévia consulta ao Juízo da Comarca em que foi cumprido o mandado de prisão é imprescindível, para que seja esclarecida a viabilidade material de que o cumprimento da pena privativa de liberdade prossiga em presídio local. Precedentes.
+2. A execução da pena, em regra, compete ao Juízo da condenação, não implicando deslocamento de competência o implemento da prisão em comarca diversa, em razão da possibilidade de ser deprecada a fiscalização do cumprimento da pena.
+3. Parecer ministerial acolhido. Conflito negativo conhecido, para declarar a competência do Juízo de Direito das Execuções Penais da Comarca de Cianorte - PR, o Suscitado.
+(CC n. 196.571/SC, Ministra Laurita Vaz, Terceira Seção, julgado em 24/5/2023, DJe de 30/5/2023).
+Ante o exposto, acolhendo o parecer, conheço do conflito para declarar competente o Juízo de Direito da Vara de Execuções Penais - Meio Fechado e Semiaberto de Ribeirão das Neves/MG, o suscitado.
+Dê-se ciência aos Juízes em conflito.
+Publique-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. EXECUÇÃO PENAL. PRISÃO EM FLAGRANTE DO APENADO EM LOCALIDADE DISTINTA DA EXECUÇÃO. CIRCUNSTÂNCIA INAPTA A MODIFICAR A COMPETÊNCIA. PRECEDENTE DA TERCEIRA SEÇÃO. COMPETÊNCIA DO JUÍZO SUSCITADO. PARECER ACOLHIDO.
+Conflito conhecido para declarar a competência do Juízo de Direito da Vara de Execuções Penais - Meio Fechado e Semiaberto de Ribeirão das Neves/MG, o suscitado.
