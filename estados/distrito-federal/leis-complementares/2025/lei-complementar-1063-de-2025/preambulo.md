@@ -1,0 +1,4 @@
+# LEI COMPLEMENTAR Nº 1.063, DE 24 DE DEZEMBRO DE 2025
+(Autoria: Poder Executivo)
+Institui o Programa de Apoio ao Futebol do Distrito Federal - PAFDF e dá outras providências.
+O GOVERNADOR DO DISTRITO FEDERAL, FAÇO SABER QUE A CÂMARA LEGISLATIVA DO DISTRITO FEDERAL DECRETA E EU SANCIONO A SEGUINTE LEI:
