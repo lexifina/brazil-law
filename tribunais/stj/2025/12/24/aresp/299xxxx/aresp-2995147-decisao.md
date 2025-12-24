@@ -1,0 +1,43 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC), interposto por TRANSPORTADORA BLZ LTDA., contra decisão que não admitiu recurso especial.
+O apelo extremo, fundamentado na alínea "a" do permissivo constitucional, desafiou acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 52):
+AGRAVO DE INSTRUMENTO. SEGUROS. AÇÃO DE ADIMPLÊNCIA. INDENIZAÇÃO SECURITÁRIA. CONTRATO DE SEGURO DE RESPONSABILIDADE CIVIL. PRAZO PRESCRICIONAL ÂNUO. TERMO INICIAL. CITAÇÃO.
+TRATANDO-SE DE DEMANDA QUE ENVOLVE CONTRATO DE SEGURO DE RESPONSABILIDADE CIVIL, O PRAZO PRESCRICIONAL APLICÁVEL É O PREVISTO NO ART. 206, §1º, INCISO II, ALÍNEA "A", DO CÓDIGO CIVIL. ENTENDIMENTO DO E. STJ NO SENTIDO DE QUE O TERMO INICIAL DO PRAZO PRESCRICIONAL É A DATA EM QUE O SEGURADO É CITADO NA AÇÃO DE INDENIZAÇÃO PROPOSTA PELO TERCEIRO PREJUDICADO.
+NO CASO DOS AUTOS, CONSIDERANDO QUE A CITAÇÃO DA PARTE AUTORA NA AÇÃO TRABALHISTA MOVIDA PELOS FAMILIARES DA VÍTIMA OCORREU EM 12/06/2015, TENDO A PRESENTE DEMANDA SIDO AJUIZADA SOMENTE EM 31/03/2022, O RECONHECIMENTO DA PRESCRIÇÃO ÂNUA É MEDIDA QUE SE IMPÕE, SENDO O CASO, POR CONSEGUINTE, DE DAR PROVIMENTO AO RECURSO INTERPOSTO, PARA JULGAR EXTINTO O FEITO, NOS TERMOS DO ART. 487, INCISO II, DO CÓDIGO DE PROCESSO CIVIL.
+AGRAVO DE INSTRUMENTO PROVIDO.
+Opostos embargos declaratórios (fls. 53-56), foram rejeitados, nos termos do acórdão de fls. 73-81.
+Nas razões de recurso especial (fls. 83-88), a parte recorrente aponta violação aos arts. 189 e 934 do Código Civil.
+Sustenta, em síntese, o prazo prescricional da ação de regresso deve ter início com o pagamento integral da dívida, e não na data da citação na ação originária.
+Contrarrazões apresentadas às fls. 92-103.
+Em juízo de admissibilidade (fls. 104-107), negou-se o processamento do recurso especial, dando ensejo ao presente agravo (fls. 109-115).
+Contraminuta às fls. 117-127.
+É o relatório.
+Decido.
+A irresignação merece prosperar.
+1. Cinge-se a controvérsia em definir o termo inicial do prazo prescricional para o ajuizamento de ação de regresso em face de seguradora, sustentando o insurgente que a actio nata é o pagamento integral da dívida ao terceiro.
+O Tribunal de origem estabeleceu que o marco inicial do prazo prescricional é a citação na ação judicial ajuizada por terceiro em desfavor do segurado. Confira-se (fls. 47-48):
+Para a melhor compreensão da controvérsia, cumpre expor a cronologia dos fatos que antecederam o ajuizamento da demanda sub judice, delimitando-se os principais marcos temporais discutidos no feito, a saber:
+Em 27/04/2014, ocorre o evento danoso envolvendo o falecimento do motorista Vanderlei Carlos Batista do Nascimento (vide certidão de óbito juntada ao evento 1, OUT6, fl. 21; e boletim de ocorrência acostado ao evento 24, OUT6); Em 22/05/2015, verifica-se a propositura da Ação Trabalhista nº 0000253-72.2015.5.04.0471 ( evento 1, OUT6 , fls. 5/11 e evento 24, OUT5);Em 12/06/2015, a reclamada, TRANSPORTADORA BLZ LTDA, é citada na demanda trabalhista, consoante alegado pela seguradora à contestação de evento 24, CONT1 , com base na consulta processual juntada ao  evento 24, OUT5 , sem impugnação pela parte autora; Em setembro de 2015, sobrevém sentença julgando parcialmente procedentes os pedidos deduzidos na Ação Trabalhista nº 0000253-72.2015.5.04.0471, para condenar a reclamada ao pagamento de indenização por danos materiais, em parcelas vencidas e vincendas, e por danos morais (evento 1, OUT10, fls. 6/18); Em 24/01/2020, na fase de cumprimento de sentença, a reclamada e os reclamantes transacionam a respeito dos alimentos devidos (evento 1, OUT6, fls. 39/41), protocolando o respectivo acordo nos autos (evento 1, OUT11, fls. 182/184); Em fevereiro de 2020, a Transportadora encaminha notificação extrajudicial à MAPFRE SEGUROS GERAIS S. A. (evento 1, OUT6, fls. 2/4); Em setembro de 2021, ocorre a quitação do acordo judicial no tocante aos alimentos pretéritos, cujo pagamento restou acordado em 25 parcelas de R$ 2.000,00 (evento 1, OUT7). Diante desse contexto, considerando que a citação da agravada na ação indenizatória proposta pelos terceiros prejudicados ocorreu em 12/06/2015, tendo a presente demanda sido ajuizada somente em 31/03/2022, quando já ultrapassado o prazo prescricional previsto no art. 206, §1º, inciso II, alínea "a", do CC, o reconhecimento da prescrição ânua é medida que se impõe, ainda que levado em conta o disposto na Súmula nº 229 do STJ ("O pedido do pagamento de indenização à seguradora suspende o prazo de prescrição até que o segurado tenha ciência da decisão").
+Salienta-se que o acórdão recorrido está em dissonância com a jurisprudência desta Corte Superior, firmada no sentido de "o termo inicial do prazo prescricional nas ações regressivas de cobrança contra seguradora subordina-se ao princípio da actio nata, ou seja, somente após satisfeita a obrigação é que nasce o direito de ressarcimento em face da seguradora; isso, porque não há que se falar em ação regressiva de cobrança sem a ocorrência efetiva e concreta de um dano patrimonial" (AgInt nos EDcl no AREsp 362.427/MG, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 16.11.2020).
+Precedentes:
+DIREITO CIVIL. RECURSO ESPECIAL. SEGURO DE VIDA COLETIVO. SUB-ROGAÇÃO. PRESCRIÇÃO. CONEXÃO ENTRE AÇÕES. RECURSO PARCIALMENTE PROVIDO.
+(..)
+II. Questão em discussão
+4. Há três questões em discussão: (i) saber se o direito de sub-rogação da estipulante é legítimo, considerando a condenação trabalhista decorrente de ato ilícito; (ii) saber se houve prescrição da pretensão com base no prazo previsto no art. 206, § 1º, II, b do Código Civil; e (iii) saber se há conexão entre as ações que envolvem o mesmo sinistro e cobertura securitária, para evitar decisões conflitantes.
+III. Razões de decidir
+5. O direito de sub-rogação da estipulante foi reconhecido pelo acórdão recorrido com base na existência de contrato de seguro vigente à época do sinistro e na cobertura do risco, sendo inviável o reexame de fatos e provas em sede de recurso especial, conforme Súmula 7/STJ.
+6. A prescrição foi afastada com fundamento no princípio da actio nata, considerando como termo inicial a data do pagamento da última parcela da indenização trabalhista, em consonância com a jurisprudência do STJ.
+7. A ausência de manifestação do acórdão sobre a conexão entre ações configura negativa de prestação jurisdicional, violando o art. 1.022 do CPC. A análise da conexão é relevante para evitar decisões conflitantes e dupla condenação.
+8. As alegações sobre esgotamento da cobertura securitária e aplicação da Taxa SELIC não foram objeto de manifestação no acórdão recorrido, atraindo a incidência das Súmulas 211/STJ e 282/STF.
+9. Recurso especial parcialmente provido. (REsp n. 2.209.806/SC, relator Ministro Raul Araújo, Quarta Turma, julgado em 20/10/2025, DJEN de 29/10/2025.) (grifa-se)
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL. AÇÃO REGRESSIVA DE INDENIZAÇÃO SECURITÁRIA. PRESCRIÇÃO, OCORRÊNCIA. REVISÃO DO JULGADO. NÃO CABIMENTO.
+1. Conforme a jurisprudência do Superior Tribunal de Justiça, inexiste a alegada violação ao art. 1.022, do CPC/2015, quando a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido.
+2. A Segunda Seção, no julgamento do Incidente de Assunção de Competência no REsp n.º 1303374/ES, fixou a tese segundo a qual é ânuo o prazo prescricional para exercício de qualquer pretensão do segurado em face do segurador - e vice-versa.
+3. Por segundo, há entendimento no âmbito do Superior Tribunal de Justiça no sentido de que a contagem do prazo prescricional para o ajuizamento de ação regressiva tem início com o pagamento integral da dívida.
+4. Ademais, no que tange à inexistência de implemento da prescrição, a revisão do julgado demandaria a apreciação de fatos, provas e termos contratuais, o que atrai a incidência dos Enunciado n.º 5 e 7/STJ.
+5. Não apresentação de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada. 6. AGRAVO INTERNO CONHECIDO E DESPROVIDO. (AgInt no REsp n. 1.854.841/MG, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 13/6/2022, DJe de 17/6/2022.) (grifa-se)
+Nesse contexto, no ponto, é de rigor a reforma do acórdão recorrido, para afastar a prescrição.
+2. Do exposto, com fundamento no art. 932 do CPC c/c Súmula 568/STJ, conheço do agravo e dou provimento ao recurso especial, para afastar a incidência da prescrição, determinando o retorno dos autos à origem para que proceda ao julgamento do feito como entender de direito.
+Publique-se.
+Intimem-se.
+EMENTA
