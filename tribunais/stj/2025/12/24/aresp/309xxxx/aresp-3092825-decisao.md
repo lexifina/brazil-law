@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto por CONTAX PARTICIPAÇÕES S.A. EM RECUPERAÇÃO JUDICIAL e CONTAX S.A. - EM RECUPERAÇÃO JUDICIAL contra decisão que não admitiu recurso especial manejado, com base na alínea "a" do inciso III do art. 105 da Constituição Federal, contra acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. JUSTIÇA GRATUITA. Elementos dos autos que não comprovam a alegada insuficiência financeira. Incidência, na espécie, da Súmula 481 do STJ. EXTINÇÃO EXECUÇÃO. Possibilidade. Crédito habilitado na recuperação judicial. Novação da dívida. Aplicação do art. 59 da Lei nº 11.101/2005. AGRAVO PARCIALMENTE PROVIDO.
+No presente recurso especial, as agravantes alegam, em síntese, que o acórdão recorrido violou os arts. 98 e 99 do Código de Processo Civil, ao indeferir a gratuidade de Justiça mesmo diante de documentação contábil robusta que demonstraria sua hipossuficiência financeira, em divergência à Súmula 481 do STJ.
+Sustentam que o Tribunal de origem desconsiderou os prejuízos acumulados, o patrimônio líquido negativo e a própria situação de recuperação judicial.
+Alegam, ainda, violação aos arts. 1.022, II, e 489, § 1º, VI, do CPC, ao argumento de que o Tribunal local deixou de enfrentar questões relevantes suscitadas nos embargos de declaração, notadamente quanto ao significado e à pertinência do critério do "volume operacional" frente às provas constantes dos autos, configurando omissão apta a infirmar a conclusão adotada.
+Contrarrazões apresentadas às fls. 957 - 963.
+Assim posta a questão, passo a decidir.
+O Tribunal de origem, com base nos documentos juntados pelas próprias empresas agravantes, manteve a decisão que indeferiu o pedido de gratuidade da Justiça, por entender que não ficou comprovada a efetiva insuficiência de recursos. Veja-se (fls. 824-825):
+"Em verdade, os elementos dos autos não são suficientes para comprovar a insuficiência financeira das recorrentes, ao menos quanto à alegada impossibilidade do recolhimento das custas e despesas do processo, sobretudo diante do volume operacional das empresas.
+ ..
+Ou seja, não basta a asserção no sentido de que foi requerida a recuperação judicial ou que há dívidas acumuladas, quando não é possível se averiguar as dificuldades impeçam a parte de custear a demanda."
+Inicialmente, quanto ao alegado vício na prestação jurisdicional, o recurso especial não deve ser acolhido, uma vez que a controvérsia relativa à concessão da gratuidade de Justiça foi devidamente analisada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada sobre a matéria, ainda que em sentido contrário à pretensão da parte agravante.
+Ressalto, no ponto, que, de acordo com a jurisprudência deste Tribunal, o julgador não é obrigado a abordar todos os temas invocados pela parte se, para decidir a controvérsia, apenas um deles é suficiente ou prejudicial dos outros (AgRg no AREsp n. 2.322.113/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 6/6/2023, DJe de 12/6/2023; AgInt no AREsp n. 1.728.763/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 21/3/2023, DJe de 23/3/2023; e AgInt no AREsp n. 2.129.548/GO, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 28/11/2022, DJe de 1/12/2022).
+Ademais, verifica-se que o entendimento do TJSP está alinhado à jurisprudência do STJ, consubstanciado na Súmula 481 desta Corte, segundo a qual é possível a concessão do benefício da gratuidade de Justiça à pessoa jurídica, com ou sem fins lucrativos, desde que comprovada a precariedade de sua situação financeira  não havendo que se falar em presunção de miserabilidade (AgInt no AREsp 1976408/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 22/02/2022, DJe 07/03/2022).
+Desse modo, diante das premissas estabelecidas pelo Tribunal de origem, não há contrariedade entre o acórdão recorrido e o entendimento do STJ sobre o tema. Sendo assim, incide, no caso, o óbice da Súmula 83 do STJ. Ademais, alterar essas premissas esbarraria, necessariamente, no óbice da Súmula nº 7 do STJ. A propósito:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. CONFORMIDADE DO ACÓRDÃO RECORRIDO COM TEMA DO STJ. RECURSO CABÍVEL. AGRAVO INTERNO. GRATUIDADE DE JUSTIÇA. RECUPERAÇÃO JUDICIAL. NECESSIDADE DE COMPROVAÇÃO. REQUISITOS. REEXAME DE FATOS E PROVAS. SÚMULA 7 STJ.
+1. De acordo com o art. 1.030, § 2º, do Código de Processo Civil, o recurso cabível da decisão que nega seguimento a recurso especial contrário a orientação firmada em julgamento de recurso repetitivo é o agravo interno.
+2. Nos termos da jurisprudência desta Corte, a concessão do benefício de gratuidade da justiça a pessoa jurídica somente é possível quando comprovada a precariedade de sua situação financeira, inexistindo, em seu favor, presunção de insuficiência de recursos.
+3. Rever a conclusão do acórdão recorrido quanto ao preenchimento dos requisitos para fins de concessão dos benefícios da gratuidade de justiça implica o reexame das provas dos autos, providência vedada pela Súmula 7/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.379.853/RO, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 22/4/2024, DJe de 13/5/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. GRATUIDADE DE JUSTIÇA. PEDIDO FORMULADO POR PESSOA JURÍDICA. INDEFERIMENTO NA ORIGEM. NECESSIDADE DE COMPROVAÇÃO DA HIPOSSUFICIÊNCIA. SÚMULA 481/STJ. AUSÊNCIA DE DEMONSTRAÇÃO NA HIPÓTESE. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Segundo o disposto na Súmula 481/STJ, "faz jus ao benefício da justiça gratuita a pessoa jurídica com ou sem fins lucrativos que demonstrar sua impossibilidade de arcar com os encargos processuais".
+2. No caso, as instâncias ordinárias concluíram que não ficou demonstrada a impossibilidade de a agravante pessoa jurídica arcar com os encargos processuais. A alteração do acórdão implica reexame de provas, vedado pela Súmula 7/STJ.
+3. O entendimento adotado pelo acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.771.823/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 14/4/2025, DJEN de 25/4/2025.)
+Em face do exposto, nego provimento ao agravo em recurso especial .
+Intimem-se.
+EMENTA
