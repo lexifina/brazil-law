@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo interposto por HIGOR ANACLETO VIEIRA EIRELI contra decisão que não admitiu recurso especial manejado, com base na alínea "a" do inciso III do art. 105 da Constituição Federal, contra acórdão assim ementado (fls. 1.390-1.392):
+EMBARGOS DE DECLARAÇÃO. NULIDADE POR AUSÊNCIA DE INTIMAÇÃO DO JULGAMENTO APÓS RETORNO DO STJ. NÃO OCORRÊNCIA. CONTRADIÇÃO. INEXISTÊNCIA. EMBARGOS NÃO ACOLHIDOS.
+I. CASO EM EXAME
+1. Embargos de Declaração opostos contra acórdão que deu provimento ao Recurso de Apelação para anular a sentença e os atos processuais subsequentes, em cumprimento ao disposto no acórdão proferido pelo Superior Tribunal de Justiça no AgInt no AREsp n. 2401047/MT, em razão da ausência de intimação válida de ambos os patronos da parte recorrente. A parte embargante sustenta (i) nulidade por falta de intimação das partes após o retorno dos autos do STJ para julgamento da apelação e (ii) existência de contradição interna no acórdão embargado.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se houve nulidade por ausência de intimação das partes para o julgamento da Apelação após retorno dos autos do STJ; (ii) estabelecer se o acórdão embargado incorreu em contradição interna ao aplicar o conteúdo do dispositivo do julgado do STJ.
+III. RAZÕES DE DECIDIR
+3. A legislação processual assegura o direito à sustentação oral mediante prévia inclusão em pauta e correspondente intimação (CPC, art. 937, § 1º), o que foi regularmente observado, conforme certificado nos autos, com a intimação de ambas as partes da sessão realizada em 9/4/2025.
+4. A ausência de nova intimação após retorno dos autos do STJ não configura nulidade, pois o princípio da finalidade foi respeitado, tendo as partes plena ciência do julgamento, inexistindo prejuízo.
+5. Os embargos de declaração visam sanar vícios como obscuridade, omissão ou contradição interna (CPC, art. 1.022), sendo inaplicáveis para rediscutir o mérito ou modificar o julgado.
+6. A contradição alegada é inexistente, pois o acórdão embargado apenas deu cumprimento à parte dispositiva do julgado do STJ, que possui eficácia de coisa julgada (CPC, arts. 502 e 504), independentemente de possíveis divergências entre os fundamentos e o dispositivo.
+7. A jurisprudência do STJ e dos tribunais superiores é pacífica no sentido de que, havendo contradição entre fundamentação e dispositivo, deve prevalecer este último.
+IV. DISPOSITIVO E TESE
+8. Recurso não provido. Tese de julgamento:
+1. A ausência de nova intimação das partes após o retorno dos autos do STJ não configura nulidade quando previamente observada a intimação da pauta de julgamento da Apelação.
+2. A contradição que enseja embargos de declaração é aquela interna ao julgado, sendo incabível sua arguição para questionar o teor da decisão de instância superior.
+3. Prevalece o conteúdo do dispositivo sobre a fundamentação quando há divergência entre ambos, por força dos arts. 502 e 504 do CPC.
+Nas razões do recurso especial, a parte recorrente alega violação dos arts. 502 e 504 do Código de Processo Civil/2015.
+Sustenta que houve violação direta da coisa julgada e da autoridade da decisão do Superior Tribunal de Justiça, pois o AgInt no AREsp 2.401.047/MT transitou em julgado em 13/3/2025, negando provimento ao recurso da seguradora e, por consequência, mantendo a extinção da ação de exibição.
+Aduz que o Tribunal de origem aplicou incorretamente o art. 504 do CPC/2015, ao interpretar o dispositivo do acórdão do STJ de forma dissociada do seu comando, dando provimento à apelação e anulando a sentença, quando o dispositivo do STJ havia negado provimento ao agravo da seguradora.
+Defende que houve gravosa alteração da classe de recurso e reabertura indevida da discussão após trânsito em julgado, com conversão de embargos de declaração já julgados em novo julgamento da apelação, sem previsão legal, afrontando segurança jurídica e devido processo legal.
+Argumenta pela necessidade de reforma do acórdão recorrido, com o restabelecimento da sentença que extinguiu a ação de exibição de documentos, em respeito à coisa julgada e à hierarquia das decisões.
+Contrarrazões às fls. 1.429-1.441 nas quais a parte recorrida alega ausência de dialeticidade, falta de prequestionamento e incidência de óbices sumulares, afirma conformidade do acórdão recorrido com a orientação do STJ quanto à prevalência do dispositivo sobre a fundamentação, aponta vedação ao reexame de provas e sustenta a nulidade das intimações por inobservância do art. 272, § 5º, do Código de Processo Civil, requerendo a negativa de seguimento ou, no mérito, o não provimento do recurso.
+A não admissão do recurso na origem ensejou a interposição do presente agravo.
+Assim delimitada a questão, satisfeitos os requisitos de admissibilidade do agravo, dele conheço, passando à análise do recurso especial.
+Originariamente, trata-se de ação de exibição de documentos proposta pela seguradora com o objetivo de obter documentos necessários à regulação do sinistro coberto pela apólice n. 01485396, tendo o réu juntado os documentos e, em seguida, sobreveio sentença que extinguiu a ação por atingimento do objeto, com referência à natureza probatória e à conversão em produção antecipada de provas.
+Na sequência, o Tribunal de origem deu provimento à apelação da seguradora, reconheceu nulidade por deficiência de intimação em nome de ambos os patronos e anulou os atos processuais subsequentes, reabrindo a marcha processual.
+Os embargos de declaração da recorrente foram rejeitados, sob fundamentos de regular intimação de pauta, inexistência de contradição interna e prevalência do dispositivo do julgado do STJ.
+A parte recorreu e, após a não admissão do seu recurso especial, o AResp 2.401.047/MT foi julgado.
+De fato, a primeira decisão proferida no julgamento do Aresp 2.401.047/MT foi no sentido de dar provimento ao recurso especial da seguradora e determinar a adequação da intimação e reputar nulos os atos praticados posteriormente (11/9/2023).
+Após a interposição do agravo interno pelo ora recorrente, contudo, a citada decisão foi reconsiderada, tendo sido realizada nova análise do agravo em recurso especial da seguradora. Vejamos:
+Trata-se de agravo interno interposto contra decisão mediante a qual conheci do agravo para dar provimento ao recurso especial, ao fundamento de que havendo pedido expresso para que as intimações ocorram em nome de determinados patronos, é inválida a publicação realizada na pessoa de apenas um deles, determinando, em consequência, a adequação da intimação da ID 69662182 e reputar nulos os atos praticados posteriormente.
+Em suas razões, o agravante aponta que a intimação dos dois patronos indicados não ocorreu porque um deles não teria se habilitado no processo, não podendo a parte arcar com a desídia do patrono da adversa. Impugnação às fls. 1.170/1.174 e-STJ.
+Em vista do alegado, reconsidero a decisão agravada e passo a nova análise do agravo em recurso especial  ..
+Nesse novo julgamento, o recurso da seguradora não foi provido, tendo sido consignado na decisão que, "conforme bem salientado pelo Tribunal origem, o advogado da parte agravante não promoveu sua habilitação nos autos, ocasionando a impossibilidade de ser intimado. Assim, por decorrência lógica, não pode alegar nulidade do procedimento".
+Portanto, o dispositivo desta decisão, qual seja: negando provimento ao agravo, se refere ao agravo em recurso especial interposto pela seguradora, e não ao agravo interno interposto pelo ora reclamante, como equivocadamente sustentou o Tribunal de origem.
+A sucumbência da seguradora fica evidente com a subsequente interposição de agravo interno no qual ela reafirmou a necessidade da intimação, e, posteriormente, dos embargos de declaração, ambos rejeitados.
+Assim, fica configurado o descumprimento da decisão transitada em julgado no âmbito do julgamento do ARESP 2.401.047/MT, uma vez que não há como prosperar a afirmação do Tribunal de origem de que o recurso da seguradora foi provido para determinar a adequação da intimação, sendo evidente que um novo julgamento do recurso e o afastamento da nulidade da intimação, tal como consignado no acórdão ora reclamado.
+O Tema já foi decidido na Reclamação 49411/MT, a qual foi provida, tendo sido reconhecida a nulidade do segundo julgamento do recurso de apelação proferido pelo Tribunal de origem nos autos n. 1026855-58.2021.8.11.0041.
+Em face do exposto, conheço do agravo para dar provimento ao recurso especial e restabelecer a sentença de extinção da ação.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, ônus suspensos no caso de beneficiário da justiça gratuita.
+Intimem-se.
+EMENTA
