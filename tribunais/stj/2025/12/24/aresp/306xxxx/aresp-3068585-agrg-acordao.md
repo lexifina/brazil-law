@@ -1,0 +1,108 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Joel Ilan Paciornik, Messod Azulay Neto, Maria Marluce Caldas e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito Penal. Agravo Regimental NO AGRAVO EM RECURSO ESPECIAL. Tráfico de drogas. Redutora do tráfico privilegiado. Dedicação a atividades criminosas. Agravo regimental IMprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que conheceu do agravo para não conhecer do recurso especial, fundamentada no art. 253, parágrafo único, II, "a", do Regimento Interno do STJ.
+2. A agravante foi condenada, em primeira instância, à pena de 2 anos e 6 meses de reclusão, mais 250 dias-multa, pela prática do crime previsto no art. 33, caput, c/c o §4º, da Lei n. 11.343/2006, e 1 ano de reclusão e 10 dias-multa, em decorrência do delito tipificado no art. 180, caput, do Código Penal. Reconhecido o concurso material, a reprimenda definitiva foi estabelecida em 3 anos e 6 meses de reclusão, em regime inicialmente aberto, além de 260 dias-multa.
+3. O Ministério Público recorreu pleiteando o afastamento da incidência da redutora do tráfico privilegiado, o que foi deferido pela Corte Estadual, que considerou a dedicação da ré ao tráfico de drogas demonstrada por mensagens encontradas em seu celular, evidenciando sua habitualidade na prática criminosa.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a agravante faz jus à aplicação da redutora do tráfico privilegiado prevista no art. 33, §4º, da Lei n. 11.343/2006, considerando os elementos fáticos e probatórios que indicam sua dedicação a atividades criminosas.
+III. Razões de decidir
+5. A concessão da redutora do tráfico privilegiado depende do preenchimento cumulativo dos requisitos previstos no art. 33, §4º, da Lei n. 11.343/2006, quais sejam: primariedade, bons antecedentes, não dedicação a atividades criminosas e não integração a organização criminosa.
+6. Na espécie, o benefício foi indeferido, com base nas mensagens extraídas do aparelho celular da ré, as quais evidenciam que ela integrava grupo de whatsapp, cujo objetivo era alertar seus membros sobre a chegada da polícia e, assim, possibilitar-lhes a fuga, circunstância que demonstra sua efetiva dedicação às atividades ilícitas.
+7. A quantidade e a natureza das drogas apreendidas, aliadas às circunstâncias fáticas do caso concreto, são elementos aptos a demonstrar a habitualidade da agravante na prática do crime .
+8. A modificação do acórdão recorrido para aplicar a redutora demandaria reexame do conteúdo probatório dos autos, o que é vedado em sede de recurso especial, conforme a Súmula 7 do STJ.
+IV. Dispositivo e tese
+9. Resultado do Julgamento: Agravo regimental improvido.
+Tese de julgamento:
+1. A concessão da redutora do tráfico privilegiado prevista no art. 33, §4º, da Lei n. 11.343/2006 exige o preenchimento cumulativo dos requisitos legais, incluindo a ausência de dedicação a atividades criminosas. 2. A dedicação a atividades criminosas pode ser demonstrada por elementos concretos, como mensagens extraídas de dispositivos eletrônicos que evidenciem o exercício habitual da traficância. 3. A modificação de acórdão que afasta a incidência da redutora do tráfico privilegiado com base nas provas dos autos esbarra no óbice da Súmula 7 do STJ.
+Dispositivos relevantes citados: Lei n. 11.343/2006, art. 33, §4º; Código Penal, STJ, Súmula 7.
+Jurisprudência relevante citada:
+STJ, HC 401.121/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27.06.2017; STJ, AgRg no REsp 1.390.118/PR, Rel. Min. Roge rio Schietti Cruz, Sexta Turma, julgado em 23.05.2017; STJ, AgRg no HC 835.080/SC, Rel. Min. Messod Azulay Neto, Quinta Turma, julgado em 17.10.2023; STJ, AgRg no HC 609.916/PR, Rel. Min. Nefi Cordeiro, Sexta Turma, julgado em 09.02.2021; STJ, AgRg no AREsp 1.714.857/RJ, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 24.11.2020; STJ, AgRg no AREsp 1.660.519/RS, Rel. Min. Nefi Cordeiro, Sexta Turma, julgado em 23.06.2020.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ISADORA GONÇALVES HENRIQUE contra decisão de minha Relatoria que, fundamentada no art. 253, parágrafo único, II, "a", do Regimento Interno do STJ, conheceu do agravo para não conhecer do recurso especial (e-STJ, fls. 551-557).
+A defesa argumenta, em síntese, que o acórdão que julgou a apelação diverge da jurisprudência consolidada desta Egrégia Corte.
+Sustenta, ademais, que não se trata de reexame do conjunto fático-probatório, mas sim da análise do fundamento equivocado adotado pela instância ordinária, segundo o qual a mera existência de um grupo de WhatsApp destinado a informar a localização de uma policial militar no bairro seria suficiente para caracterizar a dedicação do réu a atividades criminosas.
+Requer, assim, o conhecimento e provimento do presente agravo, com consequente admissibilidade, seguimento e provimento do Recurso Especial (e-STJ, fls. 565-571).
+É o relatório.
+EMENTA
+Direito Penal. Agravo Regimental NO AGRAVO EM RECURSO ESPECIAL. Tráfico de drogas. Redutora do tráfico privilegiado. Dedicação a atividades criminosas. Agravo regimental IMprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que conheceu do agravo para não conhecer do recurso especial, fundamentada no art. 253, parágrafo único, II, "a", do Regimento Interno do STJ.
+2. A agravante foi condenada, em primeira instância, à pena de 2 anos e 6 meses de reclusão, mais 250 dias-multa, pela prática do crime previsto no art. 33, caput, c/c o §4º, da Lei n. 11.343/2006, e 1 ano de reclusão e 10 dias-multa, em decorrência do delito tipificado no art. 180, caput, do Código Penal. Reconhecido o concurso material, a reprimenda definitiva foi estabelecida em 3 anos e 6 meses de reclusão, em regime inicialmente aberto, além de 260 dias-multa.
+3. O Ministério Público recorreu pleiteando o afastamento da incidência da redutora do tráfico privilegiado, o que foi deferido pela Corte Estadual, que considerou a dedicação da ré ao tráfico de drogas demonstrada por mensagens encontradas em seu celular, evidenciando sua habitualidade na prática criminosa.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a agravante faz jus à aplicação da redutora do tráfico privilegiado prevista no art. 33, §4º, da Lei n. 11.343/2006, considerando os elementos fáticos e probatórios que indicam sua dedicação a atividades criminosas.
+III. Razões de decidir
+5. A concessão da redutora do tráfico privilegiado depende do preenchimento cumulativo dos requisitos previstos no art. 33, §4º, da Lei n. 11.343/2006, quais sejam: primariedade, bons antecedentes, não dedicação a atividades criminosas e não integração a organização criminosa.
+6. Na espécie, o benefício foi indeferido, com base nas mensagens extraídas do aparelho celular da ré, as quais evidenciam que ela integrava grupo de whatsapp, cujo objetivo era alertar seus membros sobre a chegada da polícia e, assim, possibilitar-lhes a fuga, circunstância que demonstra sua efetiva dedicação às atividades ilícitas.
+7. A quantidade e a natureza das drogas apreendidas, aliadas às circunstâncias fáticas do caso concreto, são elementos aptos a demonstrar a habitualidade da agravante na prática do crime .
+8. A modificação do acórdão recorrido para aplicar a redutora demandaria reexame do conteúdo probatório dos autos, o que é vedado em sede de recurso especial, conforme a Súmula 7 do STJ.
+IV. Dispositivo e tese
+9. Resultado do Julgamento: Agravo regimental improvido.
+Tese de julgamento:
+1. A concessão da redutora do tráfico privilegiado prevista no art. 33, §4º, da Lei n. 11.343/2006 exige o preenchimento cumulativo dos requisitos legais, incluindo a ausência de dedicação a atividades criminosas. 2. A dedicação a atividades criminosas pode ser demonstrada por elementos concretos, como mensagens extraídas de dispositivos eletrônicos que evidenciem o exercício habitual da traficância. 3. A modificação de acórdão que afasta a incidência da redutora do tráfico privilegiado com base nas provas dos autos esbarra no óbice da Súmula 7 do STJ.
+Dispositivos relevantes citados: Lei n. 11.343/2006, art. 33, §4º; Código Penal, STJ, Súmula 7.
+Jurisprudência relevante citada:
+STJ, HC 401.121/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27.06.2017; STJ, AgRg no REsp 1.390.118/PR, Rel. Min. Roge rio Schietti Cruz, Sexta Turma, julgado em 23.05.2017; STJ, AgRg no HC 835.080/SC, Rel. Min. Messod Azulay Neto, Quinta Turma, julgado em 17.10.2023; STJ, AgRg no HC 609.916/PR, Rel. Min. Nefi Cordeiro, Sexta Turma, julgado em 09.02.2021; STJ, AgRg no AREsp 1.714.857/RJ, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 24.11.2020; STJ, AgRg no AREsp 1.660.519/RS, Rel. Min. Nefi Cordeiro, Sexta Turma, julgado em 23.06.2020.
+VOTO
+A pretensão não merece êxito, na medida em que o agravante não apresentou argumentos capazes de modificar o entendimento anteriormente adotado, o qual submeto à apreciação do Colegiado.
+Conforme consignado na decisão agravada, a ré foi condenada, em primeira instância, à pena de 02 anos e 06 meses de reclusão, mais 250 dias-multa, pela prática do crime previsto no art. 33, caput, c/c o §4º da Lei n. 11.343/06 e 01 ano de reclusão e 10 dias-multa, em decorrência do delito tipificado no art. 180, caput, do Código Penal.
+Reconhecido o concurso material, a reprimenda definitiva foi estabelecida em 03 anos e 06 meses de reclusão, em regime inicialmente aberto, além de 260 dias-multa.
+Irresignado, o Ministério Público recorreu pleiteando o afastamento da incidência da redutora do tráfico privilegiado, o que foi deferido pela Corte Estadual, com base nos seguintes fundamentos:
+"2.2 Da pretendida reforma na dosimetria da pena imposta a apelada Isadora O representante ministerial requer o afastamento da redutora do tráfico privilegiado, aplicada em favor de Isadora, sob o argumento de que a ré se dedicava ao tráfico de drogas.
+O pleito comporta provimento, adianta-se.
+Ao aplicar a redutora do tráfico privilegiado, assim consignou o magistrado a quo (ev. 202.1):
+Por outro lado, extrai-se do caderno processual, notadamente das certidões de antecedentes criminais, que ISADORA GONCALVES HENRIQUE preenche os requisitos expostos pela lei para a concessão da redutora em questão, haja vista sua primariedade e seus bons antecedentes, bem como porque inexistem nos autos provas de que se dedicava com perene habitualidade a atividades criminosas ou integrava organização criminosa à época dos fatos.
+Como se sabe, a concessão da benesse depende do preenchimento dos requisitos cumulativos dispostos no § 4º do da quais sejam: a) art. 33 Lei n. 11.343/06, primariedade do agente;
+b) bons antecedentes; c) não se dedicar às atividades criminosas; d) não integrar organização criminosa.
+Ocorre que, conforme ressaltado pelo Ministério Público, a dedicação da ré ao tráfico de drogas foi demonstrada pelas diversas mensagens encontradas em seu celular. Inclusive, Isadora participava de um grupo que tinha a finalidade de avisar sobre a presença da polícia militar no bairro.
+Apenas a título ilustrativo, colacionam-se algumas das mensagens extraídas do celular da apelada (evento 172.5, fls. 15-16):
+(..)
+Assim, ainda que a ré seja tecnicamente primária, a dedicação às atividades criminosas afasta a aplicação da benesse.
+Portanto, acolho o pleito ministerial, para afastar a incidência do § 4º do art. 33 da Lei n. 11.343/06 em relação à ré Isadora.
+3 Da readequação das reprimendas
+(..)
+3.2 Da acusada Isadora Gonçalves Henrique
+Do delito de tráfico de drogas (art. 33, caput , da Lei n. 11.343/06).
+Primeira fase - mantida a análise das circunstâncias judiciais realizada pelo juízo a quo, mantenho a pena-base em 5 (cinco) anos de reclusão e 500 (quinhentos) dias-multa.
+Segunda fase - ausentes agravantes. Por outro lado, presente a atenuante da menoridade relativa (art. 65, inciso I, do Código Penal), conforme reconhecido pelo juízo a quo . No entanto, como a pena já está fixada no mínimo legal, deixo de reduzi-la, em observância à Súmula 231 do STJ, permanecendo a pena intermediária em 5 (cinco) anos de reclusão e 500 (quinhentos) dias-multa.
+Terceira fase - inexistindo causas de aumento ou diminuição de pena, tendo sido afastada a redutora do tráfico privilegiado, torno definitiva a pena de 5 (cinco) anos de reclusão e (quinhentos) dias-multa.
+Diante do concurso material entre os crimes (art. 69 do Código Penal), procedo à soma das reprimendas, as quais totalizam 6 (seis) anos de reclusão e 510 (quinhentos e dez) dias-multa.
+Em razão da quantidade de pena, fixo o regime inicial semiaberto. Pelo mesmo motivo, deixo de substituir a pena corpórea por restritiva de direitos (art. 44, incisos I e III do Código Penal) e de aplicar o sursis (art. 77, caput, e inciso II do Código Penal)." (e- STJ, fls. 495-497, grifou-se)
+A teor do disposto no § 4º do da os condenados pelo crime art. 33 Lei n. 11.343/2006, de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas.
+Como é cediço, o legislador ao instituir o referido benefício legal, teve como objetivo conferir tratamento diferenciado aos pequenos e eventuais traficantes, não alcançando, assim, aqueles que fazem do tráfico de entorpecentes um meio de vida.
+Na falta de parâmetros legais para se fixar o quantum dessa redução, os Tribunais Superiores decidiram que a quantidade e a natureza da droga apreendida, além das demais circunstâncias do delito, podem servir para a modulação de tal índice ou até mesmo para impedir a sua aplicação, quando evidenciarem o envolvimento habitual do agente com o narcotráfico (HC 401.12l/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 27/6/2017, DJe 1/8/2017 e AgRg no REsp 1.390.118/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 23/5/2017, DJe 30/5/2017).
+Na espécie, conforme já exposto, o benefício foi indeferido em razão do conteúdo das diversas mensagens extraídas do aparelho celular da ré, as quais revelam sua vinculação a grupo destinado a alertar seus integrantes sobre a presença de policiais no bairro em que praticava os ilícitos, com o objetivo de possibilitar a fuga dos traficantes.
+Verifica-se, portanto, que os fundamentos utilizados pela Corte de origem para não aplicar o pretendido redutor de pena estão em consonância com a jurisprudência desta Corte Superior, na medida em que dizem respeito à dedicação da recorrente à prática de atividade criminosa - tráfico de drogas - evidenciada pelas circunstâncias da prisão, pelas diversas mensagens encontradas em seu celular e a apreensão, em seu poder, de 43,3g de cocaína e 93,8g de crack, além de uma balança de precisão (e-STJ, fl. 317).
+Em situações análogas à presente, assim decidiu esta Corte Superior:
+"PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. DOSIMETRIA. PLEITO DE RECONHECIMENTO DA REDUTORA DO TRÁFICO PRIVILEGIADO. IMPOSSIBILIDADE. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. FUNDAMENTAÇÃO CONCRETA. MENSAGENS DE CELULAR. CONFISSÃO JUDICIAL. REVOLVIMENTO FÁTICO-PROBATÓRIO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO REGIMENTAL DESPROVIDO.
+I - A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+II - O Superior Tribunal de Justiça consolidou entendimento no sentido de que o vetor natureza e quantidade das drogas, embora deva ser considerado na fixação da pena-base, nos termos do art. 42 da Lei n. 11.343/2006, pode ser utilizado de forma supletiva na terceira fase da dosimetria da pena, para afastamento da diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/2016, quando conjugado com outras circunstâncias do caso concreto que, unidas, caracterizem a dedicação do agente à atividade criminosa ou a integração a organização criminosa.
+III - No presente caso, houve fundamentação concreta, idônea e suficiente para o afastamento do tráfico privilegiado, lastreada não apenas na apreensão de 31,3g de cocaína no momento em que a paciente realizaria sua venda, mas nas circunstâncias concretas do cometimento do presente delito, em especial em razão das mensagens extraídas de seu aparelho celular.
+IV - A Corte de origem consignou que, da análise das conversas constantes do aparelho celular da paciente, é possível verificar negociações com usuários já um mês antes dos fatos em comento, atestando a frequência da venda de entorpecentes. Ademais, consoante confissão da paciente, detalhando o modus operandi do delito, os fornecedores encaminhavam os pedidos com os respectivos endereços para entrega, abastecendo-a com as drogas e fazendo o recolhimento do dinheiro ao final do dia, elementos aptos a ensejar a conclusão pela dedicação a atividades criminosas.
+V - Qualquer incursão que escape a moldura fática apresentada demandaria inegável revolvimento fático-probatório, não condizente com os estreitos lindes deste átrio processual, ação constitucional de rito célere e de cognição sumária. Precedentes.
+Agravo regimental desprovido."
+(AgRg no HC n. 835.080/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 17/10/2023, DJe de 20/10/2023.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DO § 4º, DA AFASTADA ART. 33, LEI 11.343/2006 FUNDAMENTADAMENTE. PRESENÇA DE INDICATIVOS DE DEDICAÇÃO AO TRÁFICO. REVISÃO. VIA IMPRÓPRIA. DECISÃO MANTIDA. AGRAVO IMPROVIDO.
+1. Devidamente fundamentada a negativa da minorante do tráfico privilegiado, em razão não apenas da quantidade de droga apreendida, - consubstanciada em mais de 2 quilos e meio de maconha -, mas também em outros elementos dos autos, notadamente as mensagens contidas no aparelho de celular do réu, o que evidenciaria a dedicação ao tráfico - , a pretendida revisão do entendimento, com vistas à aplicação da redutora não se coaduna com a estreita via do writ. Precedentes.
+2. Agravo regimental improvido."
+(AgRg no HC n. 609.916/PR, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 9/2/2021, DJe de 17/2/2021.)
+Diante desse contexto, a modificação do acórdão recorrido, para o fim de aplicar a minorante prevista na Lei de Drogas, demandaria o necessário reexame do conteúdo probatório dos autos, o que é inadmissível nesta via especial, a teor da Súmula 7 do STJ.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL. ÓBICE DA SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL - STF. LEI DE DROGAS. APLICAÇÃO DE MINORANTE. DEDICAÇÃO À ATIVIDADE CRIMINOSA. DESCABIMENTO. REVISÃO. IMPOSSIBILIDADE. ÓBICE DA SÚMULA N. 7 DO SUPÉRIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO DESPROVIDO.
+1. O apontamento de dissídio jurisprudencial sem indicação do dispositivo porventura violado conduz à deficiência de fundamentação e à aplicação do enunciado n. 284 da Súmula do Supremo Tribunal Federal - STF.
+2. Nos termos da jurisprudência deste Sodalício, "para a aplicação da minorante prevista no § 4º do art. 33 da Lei de Drogas, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa nem se dedique a atividades delituosas. Isso porque a razão de ser da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 é justamente punir com menor rigor o pequeno traficante, ou seja, aquele indivíduo que não faz do tráfico de drogas o seu meio de vida; antes, ao cometer um fato isolado, acaba incidindo na conduta típica prevista no art. 33 da mencionada lei federal" (AgRg no REsp 1819027/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 15/9/2020, DJe 23/9/2020).
+3. Na hipótese, a decisão expressamente consignou que o réu se dedicava à atividade criminosa, sendo descabida a aplicação da referida causa de diminuição e, rever o referido entendimento esbarra diretamente no óbice da Súmula n. 7/STJ ante o necessário reexame fático-probatório da demanda.
+4. Agravo regimental desprovido."
+(AgRg no AREsp n. 1.714.857/RJ, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 24/11/2020, DJe de 27/11/2020.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. ATIVIDADE CRIMINOSA. DEDICAÇÃO. REDUTOR DO § 4º DO ART. 33 DA LEI 11.343/06. INAPLICABILIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+1. A incidência da minorante do art. 33, § 4º, da Lei 11.343/06 pressupõe o preenchimento dos requisitos legais de primariedade, bons antecedentes, ausência de dedicação às atividades criminosas e não integração à organização criminosa.
+2. Concluindo as instâncias ordinárias que o agravante não se trata de traficante eventual, pois integra organização criminosa, salientando, inclusive, a grande quantidade de drogas apreendidas, a reversão das premissas fáticas encontra óbice nas Súmulas 7 e 83, ambas do STJ.
+3. Agravo regimental improvido."
+(AgRg no AREsp n. 1.660.519/RS, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 23/6/2020, DJe de 29/6/2020.)
+Ante o expo sto, nego provimento ao agravo regimental.
+É o voto.
