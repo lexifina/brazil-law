@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO PARANÁ contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, no julgamento da Apelação Criminal n. 0000139-83.2018.8.16.0006/1, assim ementado (fl. 1377):
+APELAÇÃO CRIMINAL - HOMICÍDIO SIMPLES (ART. 121, CAPUT , DO CÓDIGO PENAL) - INSURGÊNCIA DA DEFESA - JUSTIÇA GRATUITA - ANÁLISE AFETA AO JUÍZO DA EXECUÇÃO - PARTE NÃO CONHECIDA - MÉRITO - PEDIDO RESTRITO À DOSIMETRIA DA PENA - FIXAÇÃO DA PENA-BASE NO MÍNIMO LEGAL - ACOLHIMENTO - AFASTAMENTO DA VALORAÇÃO NEGATIVA DA CULPABILIDADE E CONSEQUÊNCIAS DO CRIME - PREMEDITAÇÃO NÃO CONFIGURADA - CONSEQUÊNCIA DO CRIME INERENTE AO TIPO PENAL - PLEITO DE IDENTIFICAÇÃO DA CONFISSÃO ESPONTÂNEA E DA VIOLENTA EMOÇÃO - ACOLHIMENTO - CONFISSÃO QUALIFICADA - PRECEDENTES DO EGRÉGIO SUPERIOR TRIBUNAL DE JUSTIÇA E DESTA CÂMARA CRIMINAL - VÍTIMA PRATICOU PRÉVIO ATO INJUSTO CONTRA A RÉ - DOSIMETRIA REFORMADA E PENA REDIMENSIONADA - ALTERAÇÃO DE REGIME - APLICAÇÃO DO REGIME SEMIABERTO, PELO QUANTUM DA SANÇÃO E AFASTAMENTO DE VALORAÇÃO DAS CIRCUNSTÂNCIAS JUDICIAIS - INTELIGÊNCIA DO ART. 33, § 2º, ALÍNEA "B", DO CÓDIGO PENAL - PEDIDO PARA RECORRER EM LIBERDADE - LIMINAR EM HABEAS CORPUS QUE CONCEDEU O DIREITO. APELO PARCIALMENTE CONHECIDO E PROVIDO.
+No caso, a ré confessa a prática de homicídio simples por golpe de faca, em via pública, na madrugada, em contexto de agressões e discussão com a vítima, circunstâncias em que se registra a apreensão de um simulacro de arma e lesões corporais na acusada. Afirma ter agido em legítima defesa e sob violenta emoção.
+Os elementos centrais incluem laudo de lesões, depoimentos sobre a dinâmica dos fatos e notícias de que a vítima deixa três filhos menores, sendo o primogênito em acompanhamento psicológico.
+O Tribunal do Júri condenou a ré à pena de 9 (nove) anos e 6 (seis) meses de reclusão, em regime fechado, pela prática do art. 121, caput, do CP.
+O acórdão reformou a dosimetria, afastou a premeditação e a negativação das consequências, reconheceu a confissão qualificada e a violenta emoção, e reduziu a pena de 6 (seis) anos de reclusão, em regime inicial semiaberto (fls. 1386-1388).
+Nas razões do recurso especial, o Parquet alega violação do art. 59 do Código Penal, ao fundamento de que as consequências do crime extrapolaram as próprias do tipo penal, pois a vítima deixou 3 (três) filhos menores e o primogênito necessitou de acompanhamento psicológico.
+Argumenta que tais elementos concretos autorizam a negativação da vetorial "consequências do crime" na primeira fase da dosimetria.
+Sustenta, ainda, com base no art. 33, § 3º, do Código Penal, que o restabelecimento da valoração desfavorável deve implicar aumento da pena e fixação do regime inicial fechado, dada a existência de circunstâncias judiciais desfavoráveis (fls. 1398-1407).
+Requer, ao final, a reforma do acórdão para restabelecer a negativação das consequências do crime prevista no art. 59 do Código Penal, com o consequente aumento da pena e a fixação do regime inicial fechado (fl. 1407).
+Contrarrazões apresentadas às fls. 1413-1426.
+Decisão de admissibilidade do recurso especial às fls. 1427-1428.
+O Ministério Público Federal manifestou-se pelo provimento do recurso especial (fls. 1441-1444).
+É o relatório.
+Decido.
+Preenchidos os requisitos formais, passo ao exame do recurso especial.
+A controvérsia cinge-se à possibilidade de se negativar a circunstância judicial "consequências do crime" (art. 59 do Código Penal) em homicídio, a partir de dados reconhecidos pelas instâncias ordinárias: existência de filhos menores e notícia de acompanhamento psicológico do primogênito por algum tempo.
+O acórdão recorrido, com base em avaliação específica do conjunto probatório, assentou que tais elementos não demonstram, no caso concreto, sofrimento que extrapole o resultado típico do homicídio, destacando, inclusive, a fragilidade do depoimento do irmão da vítima, que se revelou distante de sua realidade social e familiar (fls. 1384-1385). Nessa linha, fixou pena-base no mínimo legal e aplicou o regime inicial semiaberto, por inexistirem circunstâncias judiciais negativas remanescentes (fls. 1384-1388).
+O Superior Tribunal de Justiça possui jurisprudência sobre a possibilidade de exasperar a pena-base em razão das consequências do delito quando o homicídio deixa filhos menores órfãos, todavia a matéria está, atualmente, afetada ao Tema Repetitivo 1394 (ainda pendente de julgamento final pela 3ª Seção), sem suspensão automática do julgamento dos processos:
+Definir se é válida a exasperação da pena-base, em razão das consequências do delito, na hipótese de a vítima de homicídio haver deixado filhos órfãos menores de idade.
+A leitura do art. 59 do Código Penal impõe que a exasperação da pena-base se apoie em elementos concretos e individualizados do caso, extraídos da conduta e de seus efeitos, não bastando generalizações:
+Art. 59 - O juiz, atendendo à culpabilidade, aos antecedentes, à conduta social, à personalidade do agente, aos motivos, às circunstâncias e consequências do crime, bem como ao comportamento da vítima, estabelecerá, conforme seja necessário e suficiente para reprovação e prevenção do crime:
+I - as penas aplicáveis dentre as cominadas;
+II - a quantidade de pena aplicável, dentro dos limites previstos;
+III - o regime inicial de cumprimento da pena privativa de liberdade;
+IV - a substituição da pena privativa da liberdade aplicada, por outra espécie de pena, se cabível.
+Embora exista jurisprudência reconhecendo que o desamparo concreto de dependentes menores pode ensejar o desfavorecimento da vetorial "consequências", a orientação desta Corte também exige fundamentação lastreada em dados específicos que evidenciem repercussão anormal e superior à dor ordinária do resultado morte.
+No caso, as instâncias locais registraram apenas que o filho mais velho "frequentou psicóloga por algum tempo", sem demonstração de desestruturação familiar, dependência econômica relevante, ou outros impactos permanentes e intensos que permitissem concluir pela transcendência das consequências ordinárias do tipo (fls. 1384-1385).
+Destacou ainda que:
+ ..  o caso em questão ficou muito próximo de ser analisado pelas lentes da excludente da ilicitude de legítima defesa, considerando que foi uma única facada desferida e que a ré estava sim sofrendo ataques da vítima, o qual ainda portava um simulacro de arma de pistola na cor preta consigo, encontrado embaixo do corpo da vítima (mov. 14.20), contudo, pela falta de insurgência defensiva pelo pedido de anulação do júri, as mãos encontram-se atadas.
+Assim, a compreensão do Tribunal de origem, de que não houve extrapolação das consequências, encontra amparo na leitura estrita do art. 59 do Código Penal, que demanda concreta individualização da resposta penal.
+Quanto ao regime inicial, à luz do art. 33, § 2º, alínea b, do Código Penal, ausentes circunstâncias judiciais negativas, é adequada a manutenção do regime semiaberto para pena de 6 (seis) anos aplicada à recorrida.
+A pretensão de impor regime mais gravoso com base no art. 33, § 3º, do Código Penal pressupõe circunstâncias desfavoráveis idôneas, o que não se verifica uma vez afastado o desvalor das consequências.
+Diante do exposto, conheço do recurso especial e nego-lhe provimento, mantendo-se o acórdão recorrido que fixou a pena de 6 (seis) anos de reclusão, em regime inicial semiaberto, sem negativação das circunstâncias judiciais.
+Publique-se. Intimem-se.
+EMENTA
