@@ -1,0 +1,24 @@
+DECISÃO
+EVERSON RICARDO BARBATI agrava de decisão que inadmitiu o recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal n. 0007321-72.2015.8.26.0451).
+Nas razões do recurso especial, a defesa aponta violação dos arts. 387, § 2º, do CPP e 44 do CP, sob a tese de que o tempo de prisão provisória não foi considerado pelas instâncias originárias ao fixar o regime inicial de cumprimento de pena.
+Requer, assim, o provimento do recurso para que o juízo originário analise a detração e reconheça a possibilidade de substituição da reprimenda por restritiva de direitos.
+O recurso especial foi inadmitido pelo Tribunal de origem por aplicação das Súmulas n. 7 do STJ e 283 do STF.
+As informações solicitadas foram prestadas pela Corte estadual (fls. 2.131-2.132).
+O Ministério Público Federal manifestou-se pelo não conhecimento do recurso especial (fls. 2.134-2.139).
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada, motivo pelo qual passo à análise do recurso especial.
+I. Negativa de vigência ao art. 387, § 2º, do CPP.
+Ao tratar da detração, o Tribunal de origem assim consignou (fl. 1.909, grifei):
+Relativamente ao regime prisional imponível às espécies, correta a adoção da modalidade inicial fechada, tendo em vista o quantum de pena ora aplicado, os maus antecedentes e a reincidência ostentados pelo agente, em consonância com o disposto no artigo 33, § 2º, alínea "a", do Código Penal. Neste passo, não há falar-se no estabelecimento de regime mais brando, em observância ao artigo 387, § 2º, do Código de Processo Penal. Com efeito, tal dispositivo, incluído pela Lei nº 12.736/2012, dispõe que "O tempo de prisão provisória, de prisão administrativa ou de internação, no Brasil ou no estrangeiro, será computado para fins de determinação do regime inicial de pena privativa de liberdade". Todavia, deverá ser analisado em sede de execução penal se o acusado preenche os requisitos necessários para sua colocação na modalidade prisional aberta (tais como bom comportamento carcerário e ausência de faltas disciplinares).
+Nos termos do art. 387, § 2º, do Código de Processo Penal, modificado pela Lei n. 12.736/2012, o tempo de prisão provisória, de prisão administrativa ou de internação, no Brasil ou no estrangeiro, será computado para fins de determinação do regime inicial de pena privativa de liberdade, o que não se confunde com progressão de regime.
+Exemplificativamente:
+ ..  A previsão inserida no § 2º do art. 387 do Código de Processo Penal não se refere à verificação dos requisitos para a progressão de regime, instituto que se restringe à execução penal, mas à possibilidade de o Juízo de 1º Grau, no momento oportuno da prolação da sentença, estabelecer regime inicial mais brando, em razão da detração. Assim, cabe ao sentenciante descontar da pena aplicada ao réu o período em que fora mantido em prisão provisória. Realizada tal operação, observados os parâmetros do art. 33, § 2º, do Código Penal e as circunstâncias do art. 59 do Código Penal, é possível ao juiz alterar o regime, aplicando modalidade menos gravosa  ..  (HC n. 382.692/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 24/2/2017)
+ ..  É certo que o § 2º do art. 387 do Código de Processo Penal - CPP, acrescentado pela Lei n. 12.736/2012, determina que o tempo de segregação cautelar deve ser considerado na pena imposta, para o estabelecimento do regime prisional fixado pela sentença condenatória, não se confundindo como instituto da progressão de regime, próprio da execução penal.  ..  (HC n. 368.485/SP, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 28/10/2016)
+Ainda de acordo com a jurisprudência deste Superior Tribunal, a verificação da ocorrência de detração penal, em sentença proferida após a vigência da Lei n. 12.736/2012, como no caso dos autos, é matéria afeta ao Juiz sentenciante.
+Ademais:
+"ao final da dosimetria da pena, o juiz deve descontar da pena privativa de liberdade imposta ao condenado o período de prisão provisória, de prisão administrativa ou de internação. Se, com o tempo descontado, à luz do art. 33, § 2º, do Código Penal, for possível a alteração do regime, poderá o juiz estabelecer novo regime inicial de cumprimento, se as circunstâncias do art. 59 do Código Penal assim recomendarem" (HC n. 307.521/SP, Rel. Ministro Walter de Almeida Guilherme (Desembargador convocado do TJ/SP), 5ª T., DJe 3/12/2014).
+Assim, verifico a violação ao dispositivo legal apontado, uma vez que as instâncias originárias fixaram o regime inicial de cumprimento de pena, sem, contudo, realizar o desconto do período que o recorrente ficou preso provisoriamente.
+II. Dispositivo
+À vista do exposto, conheço do recurso e dou provimento ao especial para determinar o retorno dos autos ao Tribunal de origem, a fim de que aplique a detração penal.
+Publique-se e intimem-se.
+EMENTA
