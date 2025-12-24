@@ -1,0 +1,39 @@
+DECISÃO
+Em análise agravo em recurso especial interposto contra a decisão que, na origem, inadmitiu o recurso especial, com fundamento na Súmula n. 283 do STF.
+A agravante foi condenada como incursa no art. 140, §3º (redação anterior à Lei n. 14.532/2023) c/c art. 61, II, alínea "h", do CP, às penas de 2 anos e 6 meses de reclusão, em regime inicial aberto, e de 25 dias-multa, substituída a pena privativa de liberdade por duas restritivas de direitos, consistentes em prestação de serviços à comunidade e prestação pecuniária no valor de 2 salários mínimos, a ser revertida em favor da vítima ou, na impossibilidade, à instituição de caridade.
+O Tribunal de origem negou provimento à apelação defensiva (e-STJ fls. 442-459).
+No recurso especial, interposto com fundamento no art. 105, III, "a", da CF, a defesa alega negativa de vigência ao art. 59 do CP, porque "o vetor da culpabilidade não pode ser presumido a partir de expectativas sociais vinculadas à profissão exercida pela recorrente", de modo que a condição de docente não autoriza, por si só, a majoração da pena; bem como em razão da fundamentação inidônea utilizada para valoração negativa das consequências do crime, com base apenas em elementos inerentes ao tipo penal (e-STJ fls. 466-473).
+O recurso especial foi inadmitido (e-STJ fls. 486-487) e interposto o presente agravo (e-STJ fls. 490-494).
+O Ministério Público Federal oficiou pelo conhecimento agravo para não conhecer do recurso especial (e-STJ fls. 518-519).
+É o relatório.
+Decido.
+O agravo em recurso especial é tempestivo e infirmou os argumentos da decisão do Tribunal a quo, razão pela qual, nos termos do art. 253, parágrafo único, inciso II, do RISTJ, conheço do agravo e passo ao exame do recurso especial.
+O recurso especial é tempestivo e está com a representação processual correta. O recorrente indicou o art. 105, III, "a", da CF que embasa o recurso e o dispositivo de lei federal supostamente violado, demonstrando pertinência na fundamentação (não incidência da Súmula n. 284 do STF).
+Observa-se, ainda, que o acórdão recorrido apresentou fundamentos de cunho infraconstitucional (não incidência da Súmula n. 126 do STJ), todos rebatidos nas razões recursais (não incidência da Súmula n. 283 do STF).
+Por fim, a tese da recorrente não exige o reexame de provas, pois parte de fatos incontroversos nos autos, não incidindo a Súmula n. 7 do STJ, portanto.
+Sendo assim, conheço do recurso especial, ao qual, contudo, deve ser negado provimento.
+Extraem-se do voto condutor do acórdão recorrido, as seguintes razões de decidir (e-STJ fls. 457-458):
+"Assim, era caso de condenação, pelo que mantenho a r. sentença por seus próprios e jurídicos fundamentos.
+Em relação à pena-base, foi dobrada pela culpabilidade e consequências do delito, pois "tratava-se de docente cujas condutas e ações devem ser não só das mais adequadas, mas inclusive repressoras e combativas a preconceitos daquele tipo, ou seja, justamente da sua condição de atingir mentes e afetos de seus próprios alunos. Dito isso, e também das graves consequências que os fatos impuseram à vítima menor que, triste e desanimada, chegou a se recusar a voltar à escola e depois teve de se mudar" (fls. 316).
+O MM. Juízo "a quo" bem observou que a legislação vigente à época dos fatos se mostra mais benéfica à acusada, pois o crime foi praticado anteriormente à Lei n. 14.532/2023, quando o crime em comento estava tipificado no art. 140, §3º, do CP, com pena de reclusão, e 01 a 03 anos, e multa.
+Quanto à culpabilidade, o fato de ser professora e ter cometido o crime em sala de aula, na presença dos demais alunos, deixa evidente "a maior reprovabilidade do agir do réu, devendo, pois, ser mantido o incremento da básica a título de culpabilidade" (STJ: AgRg no HC 670.215, 5ª Turma, rel. Min. Ribeiro Dantas, j. 10.8.2021).
+A respeito das consequências do delito, assim entendidas como "o mal causado pelo delito, que transcende o resultado típico" (Guilherme de Souza Nucci: Individualização da pena, 8ª ed., 2022, Forense, p. 135), comportam consideração, pois a prova colhida deixou evidente que vítima ficou bastante abalada com a situação, se recusando a frequentar a escola, fazendo com que sua genitora buscasse inclusive uma transferência da instituição de ensino.
+Não se trata, pois, de elementos inerentes ao tipo penal, tampouco há incidência de "bis in idem".
+Deve-se ressaltar que "a adoção do parâmetro de aumento de 1/6 (um sexto) para cada circunstância judicial negativa afigura-se como importante baliza para a realização do cálculo da pena" (STJ: AgRg no HC 703403, 6ª Turma, rel. Min. Laurita Vaz, j. 13.09.2022)."
+Como se observa do excerto acima transcrito, a culpabilidade foi avaliada de modo negativo, não somente pelo fato de a recorrente ser professora, mas também, e principalmente, porque, sendo professora, praticou o delito em sala de aula, na presença dos demais alunos.
+Já as consequências do crime foram desfavoráveis à recorrente, tendo em vista que a vítima ficou bastante abalada com a situação, "se recusando a frequentar a escola, fazendo com que sua genitora buscasse inclusive uma transferência da instituição de ensino", circunstâncias fáticas estas que transbordam aquelas que são inerentes ao tipo penal.
+Logo, considerando que "A dosimetria da pena deve observar a discricionariedade do julgador, sendo revisada apenas em caso de flagrante ilegalidade." (AgRg no HC 890659 / PI, relator Ministro Messod Azulay Neto Quinta Turma, julgado em 19/11/2024, DJe 29/11/2024), inexistente na presente hipótese, não merece provimento o recurso especial.
+A propósito, em igual sentido, confiram-se os seguintes arestos:
+DIREITO PENAL. AGRAVO REGIMENTAL. DOSIMETRIA DA PENA. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. AGRAVO REGIMENTAL NÃO PROVIDO.
+(..) III. Razões de decidir 5. A jurisprudência do STJ permite a majoração da pena-base sem atrelamento a fração genericamente fixada, desde que haja fundamentação concreta, como ocorreu no caso concreto.
+6. A revisão da dosimetria da pena exigiria o reapreciação do acervo fático-probatório, o que é vedado em recurso especial, conforme a Súmula n. 7 do STJ.
+7. O entendimento do Tribunal de origem está em consonância com a consolidada jurisprudência do STJ, que admite a discricionariedade do juiz na individualização da pena, sujeita à revisão apenas em casos de flagrante ilegalidade ou abuso de poder.
+IV. Dispositivo e tese 8. Agravo regimental não provido. (..) (AgRg no AREsp 2779660 / SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 13/5/2025. DJEN 19/5/2025)
+DIREITO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DOSIMETRIA DA PENA. PRIMEIRA FASE. NATUREZA E QUANTIDADE DE DROGAS. PROPORCIONALIDADE E RAZOABILIDADE. AGRAVO IMPROVIDO.
+(..) III. Razões de decidir 5. O Tribunal de origem apresentou fundamentação adequada para a fixação do quantum de aumento da pena-base, não havendo que se falar em omissão no acórdão recorrido.
+6. Em relação ao crime do art. 33 da Lei 11.343/2006, a Corte antecedente entendeu que a exasperação da pena-base perpetrada pelo magistrado de 1º grau, em razão da quantidade de droga apreendida em poder dos recorridos, se deu de forma desproporcional, razão pela qual reduziu esse aumento.
+7. A individualização da pena constitui atividade discricionária do julgador, passível de revisão por este Superior Tribunal de Justiça apenas nos casos de flagrante ilegalidade ou teratologia - circunstâncias que não se verificam no caso concreto.
+IV. Dispositivo e tese 8. Resultado do Julgamento: Agravo improvido. (..) (AgRg no AREsp 2975069 / MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 7/10/2025, DJEN 15/10/2025)
+Ante o exposto, com fulcro no art. 253, parágrafo único, inciso II, "b", do Regimento Interno do STJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intime-se.
+EMENTA
