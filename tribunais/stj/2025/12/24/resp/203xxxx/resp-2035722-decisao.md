@@ -1,0 +1,47 @@
+DECISÃO
+Em análise, recurso especial interposto por REMO ANDRADE SILVA E OUTROS contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO assim ementado:
+CONSTITUCIONAL E ADMINISTRATIVO. SERVIDOR PÚBLICO. NÍVEL MÉDIO. SOBREPOSIÇÃO DE TABELAS REMUNERATÓRIAS. LEI 9.421/1996. RECEBIMENTO DE REMUNERAÇÃO DA ÚLTIMA CLASSE, PADRÃO, ANALISTA JUDICIÁRIO. IMPOSSIBILIDADE.
+Os embargos de declaração foram rejeitados.
+Nas razões recursais, os recorrentes sustentam, em síntese, divergência jurisprudencial e violação dos arts. 489, § 1º, e 1.022, I e II, e parágrafo único, do Código Processual Civil de 2015. Alegam negativa de prestação jurisdicional, porquanto a questão sobre a sobreposição de tabelas remuneratórias não foi analisada.
+Afirmam que o pedido de justiça gratuita não pode ser revogado em decorrência dos autores possuírem remuneração mensal bruta superior a cinco salários mínimos, porquanto esse entendimento contraria o art. 99, § 3º, do Código Processual Civil (fl. 662).
+Contrarrazões apresentadas.
+É o relatório.
+Passo a decidir.
+I. Histórico da Lide
+Trata-se, na origem, de demanda proposta pelos recorrentes - técnicos judiciários - com o objetivo de obterem o aumento remuneratório pago "ao analista judiciário (classe "C", Padrão "13"), por força das previsões normativas da Lei 9.421/1996 e, posteriormente, das Leis 10.475/2002, 11.416/2006 e 12.774/2012, tudo conforme sobreposições de tabelas remuneratórias impostas pela primeira (e mantidas para todos os que ingressaram aos quadros do Poder Judiciário da União antes do seu advento), além dos reflexos remuneratórios" (fl. 497).
+II. Inexistência de Infringência aos arts. 489 e 1.022, II, do CPC
+Quanto à apontada violação aos arts. 489, § 1º, IV, e 1.022, II, parágrafo único, II, do CPC, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, consignando (fl. 497):
+Não é crível, dessa forma, que autores, que declaradamente ingressaram na respectiva carreira mediante a conclusão apenas de nível médio, ou equivalente, sejam remunerados com os mesmos vencimentos do cargo de Analista Judiciário, para cujo acesso e investidura o próprio edital do concurso público prevê a conclusão do nível superior com o grau de escolaridade e um nível de complexidade bem maior nas provas.
+Como se vê, a negativa de prestação jurisdicional não resultou configurada.
+Por outro lado, a fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada.
+Vale lembrar que, mesmo à luz do art. 489 do CPC, o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pela parte, mas apenas sobre aqueles capazes de, em tese, infirmar a conclusão adotada.
+Assim, inexiste violação aos arts. 489, § 1º, IV, e 1.022, II, parágrafo único, II, do CPC.
+III. Ausência Parcial de Prequestionamento - Súmula 211/STJ
+Quanto à análise do art. 371 do CPC, a matéria não foi objeto de exame pelas instâncias ordinárias, mesmo após o julgamento dos embargos de declaração.
+Assim, em razão da falta do indispensável prequestionamento, não se pode conhecer do recurso especial, incidindo o teor da Súmula 211 deste STJ: "inadmissível recurso especial quanto à questão que, a despeito da oposição dos embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. ART. 927, III, DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. DISSÍDIO JURISPRUDENCIAL NÃO REALIZADO. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. A jurisprudência desta Corte já se firmou no sentido de que "não há incompatibilidade entre a inexistência de ofensa ao art. 1.022 do CPC/2015 e a ausência de prequestionamento, com a incidência do enunciado n. 211 da Súmula do STJ, quanto às teses invocadas pela parte recorrente, que, entretanto, não são debatidas pelo Tribunal local, por entender suficientes para a solução da controvérsia outros argumentos utilizados pelo colegiado" (AgInt no AREsp n. 2.536.934/BA, relator Ministro Francisco Falcão, Segunda Turma, julgado em 19/8/2024, DJe de 21/8/2024).
+2. A despeito da oposição de embargos de declaração, não foi configurado o prequestionamento exigido para o recurso especial, nos termos do enunciado n. 211 da Súmula do STJ.
+ ..
+4. Agravo interno não provido (AgInt no AREsp n. 2.578.117/RN, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, julgado em 7/10/2024, DJe de 14/10/2024).
+Quanto ao prequestionamento ficto, a jurisprudência desta Corte firmou-se no sentido de que "o  art. 1025 do CPC/2015 condiciona o prequestionamento ficto ao reconhecimento por esta Corte de omissão, erro, omissão, contradição ou obscuridade, ou seja, pressupõe o provimento do recurso especial por ofensa ao art. 1022 do CPC/2015, com o reconhecimento da negativa de prestação jurisdicional sobre a matéria" (AgInt no AREsp n. 2.528.396/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 2/9/2024, DJe de 4/9/2024).
+IV. Concessão de Justiça Gratuita
+O entendimento adotado pelo Tribunal de origem, ao condicionar a concessão dos benefícios da justiça gratuita à demonstração de renda inferior a cinco salários mínimos, revela-se dissidente da jurisprudência consolidada do Superior Tribunal de Justiça. Isso porque o STJ tem reiteradamente afastado a adoção de critérios exclusivamente objetivos para a concessão da assistência judiciária gratuita, enfatizando a necessidade de análise concreta da situação econômica da parte requerente.
+Conforme precedentes da Corte, a simples fixação de um teto de renda não é suficiente para indeferir o benefício, sendo imprescindível avaliar se a parte possui condições de arcar com os custos do processo sem prejuízo de seu sustento ou de sua família. Tal entendimento visa garantir o amplo acesso à justiça, conforme previsto no art. 5º, LXXIV, da Constituição Federal. Nesse sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. JUSTIÇA GRATUITA. CRITÉRIO ABSTRATO. INADMISSIBILIDADE.
+1. É assente na jurisprudência do STJ que a simples declaração de hipossuficiência da pessoa natural, ainda que dotada de presunção iuris tantum, é suficiente ao deferimento do pedido de gratuidade de justiça quando não ilidida por outros elementos dos autos.
+2. Esta Corte Superior rechaça a adoção única de critérios abstratos, como a aferição de renda inferior a cinco salários mínimos, por não representar fundadas razões para a denegação da gratuidade de justiça.
+3. Agravo interno desprovido (AgInt no REsp n. 1.940.053/AL, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 4/10/2021, DJe de 21/10/2021).
+PROCESSUAL CIVIL. ASSISTÊNCIA JUDICIÁRIA GRATUITA. CRITÉRIOS DE CONCESSÃO. PARÂMETRO OBJETIVO. RENDA INFERIOR A CINCO SALÁRIOS MÍNIMOS. IMPOSSIBILIDADE. VIOLAÇÃO DOS ARTS. 2º, 4º E 5º DA LEI 1.060/1950. RETORNO DOS AUTOS À ORIGEM. PRELIMINAR DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015 REJEITADA.
+1. O Tribunal de origem, ao estabelecer que apenas fazem jus aos benefícios da justiça gratuita aqueles que possuem renda inferior a cinco salários mínimos, dissentiu da jurisprudência do STJ, que afasta a utilização de critérios exclusivamente objetivos para a concessão do benefício da Assistência Judiciária Gratuita, devendo ser efetuada avaliação concreta da possibilidade econômica de a parte postulante arcar com os ônus processuais. A propósito: REsp 1.706.497/PE, Rel. Ministro Og Fernandes, Segunda Turma, DJe 16.2.2018; AgInt no AgInt no AREsp 868.772/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 26.9.2016; AgRg no AREsp 239.341/PR, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 3.9.2013;
+AgInt no REsp 1.703.327/RS, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe 12.3.2018; e EDcl no AgRg no AREsp 753.672/RS, Rel. Ministro João Otávio de Noronha, Terceira Turma, DJe 29.3.2016.
+2. Os autos devem retornar ao Tribunal de origem para que reanalise o pedido de Assistência Judiciária Gratuita à luz dos parâmetros aqui fixados.
+3. Recurso Especial parcialmente provido (REsp n. 1.797.652/CE, relator Ministro Herman Benjamin, Segunda Turma, julgado em 9/4/2019, DJe de 29/5/2019).
+V. Conclusão
+Portanto, deve ser parcialmente provido o recurso especial, para que o Tribunal de origem reaprecie a questão de acordo com os precedentes desta Corte, com fundamento na orientação contida na Súmula 568/STJ: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+Isso posto, com fundamento no art. 255, § 4º, II e III, do RISTJ, conheço em parte do recurso especial e, nessa extensão, dou-lhe parcial provimento.
+No caso, não há necessidade de fixação de honorários recursais, nos termos do Tema 1.059/STJ: "A majoração dos honorários de sucumbência prevista no art. 85, § 11, do CPC pressupõe que o recurso tenha sido integralmente desprovido ou não conhecido pelo tribunal, monocraticamente ou pelo órgão colegiado competente. Não se aplica o art. 85, § 11, do CPC em caso de provimento total ou parcial do recurso, ainda que mínima a alteração do resultado do julgamento ou limitada a consectários da condenação".
+Intimem-se.
+ EMENTA
