@@ -1,0 +1,43 @@
+DECISÃO
+Cuida-se de recurso especial interposto por JULIANO FRAGA DOMINGOS, fundamentado nas alíneas "a" e "c" do permissivo constitucional, no intuito de reformar acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, assim ementado (fl. 369):
+APELAÇÃO CÍVEL. AÇÃO DE BUSCA E APREENSÃO. SENTENÇA QUE HOMOLOGOU O PEDIDO DE DESISTÊNCIA E JULGOU EXTINTO O FEITO, SEM RESOLUÇÃO DO MÉRITO. INSURGÊNCIA DA PARTE RÉ. PRETENSÃO DE ARBITRAMENTO DE HONORÁRIOS SUCUMBENCIAIS. NÃO ACOLHIMENTO. DEFESA APRESENTADA ANTES DA CITAÇÃO E DO CUMPRIMENTO DA MEDIDA LIMINAR. PROTOCOLO DE CONTESTAÇÃO QUE, EM DEMANDAS DESTA NATUREZA, NÃO TEM O CONDÃO DE SUPRIR A FALTA DE CITAÇÃO. HONORÁRIOS DE SUCUMBÊNCIA QUE, DIANTE DA NÃO FORMAÇÃO DA RELAÇÃO PROCESSUAL, NÃO SÃO DEVIDOS. SENTENÇA MANTIDA. RECURSO CONHECIDO E DESPROVIDO.
+Opostos embargos declaratórios (fls. 372-379), foram rejeitados, nos termos do acórdão de fls. 381-383.
+Nas razões de recurso especial (fls. 386-412), a parte recorrente aponta violação aos arts. 1.022, 105, 218, § 4º, 239, § 1º, 85, § 2º, e 90, do Código de Processo Civil, além de divergência jurisprudencial.
+Sustenta, em síntese: a) omissão quanto à análise das teses de violação aos dispositivos legais apontadas nos aclaratórios; b) o comparecimento espontâneo do réu, inclusive com apresentação de contestação antes da execução da liminar na ação de busca e apreensão, supre a citação, perfectibilizando a relação processual, razão pela qual devem ser fixados honorários sucumbenciais em favor do réu em decorrência do pedido de desistência da ação pelo autor.
+Contrarrazões apresentadas às fls. 414-425.
+Em juízo prévio de admissibilidade (fls. 430-432), admitiu-se o recurso, ascendendo os autos a esta Corte.
+É o relatório.
+Decido.
+A irresignação merece prosperar em parte.
+1. O recorrente assevera que o acórdão recorrido violou o art. 1.022 do CPC.
+Contudo, nas razões do apelo extremo não foram expostos os fundamentos do referido pedido, somente se limitando a indicar negativa de vigência aos dispositivos legais desrespeitados, mas sem discriminar os pontos efetivamente omissos, contraditórios ou obscuros sobre os quais tenha incorrido o acórdão impugnado.
+Consequentemente, não se pode conhecer do recurso quando as alegações que fundamentam o apelo extremo são genéricas, incidindo, por analogia, a Súmula 284/STF.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO DA DECISÃO RECORRIDA. SÚMULA 284/STF. COBERTURA SECURITÁRIA. INOPONIBILIDADE DE RESTRIÇÃO CONTRATUAL SEM DESTAQUE À PARTE CONTRÁRIA. SÚMULAS 283/STF E 5 E 7 STJ. PRECLUSÃO. CONHECIMENTO DE MATÉRIA DE ORDEM PÚBLICA (PRESCRIÇÃO) OBJETO DE PRÉVIA DECISÃO NÃO IMPUGNADA. IMPOSSIBILIDADE. PRECEDENTES. AGRAVO DESPROVIDO. 1. A alegação de omissão não prescinde da indicação do vício do acórdão recorrido por ocasião do exame das questões (fáticas ou jurídicas) ou das teses desenvolvidas em torno dos dispositivos legais arrolados, não sendo suficiente a indicação abstrata da pretensão de prequestionamento, sob pena de incidência da Súmula 284/STF. (..) 4. Agravo interno desprovido. (AgInt no AREsp 1352510/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 03/12/2018, DJe 06/12/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE COBRANÇA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DO DEMANDADO. 1. Não se conhece da alegada violação do art. 1022 do CPC/2015, quando a causa de pedir recursal se mostra genérica, sem a indicação precisa dos pontos considerados omissos, contraditórios, obscuros ou que não receberam a devida fundamentação, sendo aplicável a Súmula 284 do STF. Precedentes. (..) 4. Agravo interno desprovido. (AgInt no AREsp 1702142/GO, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 07/12/2020, DJe 16/12/2020)
+2. No tocante à violação aos arts. 105, 218, § 4º, 239, § 1º, 85, § 2º, e 90 do CPC, o insurgente aduz que o comparecimento espontâneo do réu, inclusive com apresentação de contestação antes da execução da liminar na ação de busca e apreensão, supre a citação, perfectibilizando a relação processual, razão pela qual devem ser fixados honorários sucumbenciais em decorrência do pedido de desistência da ação pelo autor.
+O Tribunal de origem concluiu que a apresentação de contestação não supre a falta de citação em ação de busca e apreensão. Confira-se (fl. 367):
+Sustenta, em síntese, que o comparecimento espontâneo do Réu supre a falta de citação. Assim, considerando que foi apresentada contestação, devem ser arbitrados honorários em seu favor.
+Imperioso ressaltar, outrossim, que a apresentação de contestação não tem o condão de suprir a falta de citação, isso porque, em demandas desta natureza, se procede a apreensão do bem objeto de discussão nos autos para que aí sim se realize o ato citatório da demandada.
+E, da análise do processo, observo não ter havido sequer a apreensão veicular por meio de mandado judicial.
+Assim, por não ter ocorrido a citação do Réu, não há que se falar em arbitramento de honorários de sucumbência em seu favor.
+Contudo, o entendimento do aresto recorrido está em dissonância com a jurisprudência desta Corte Superior, que está firmada no sentido de "o comparecimento espontâneo do réu, com a apresentação de defesa, importa angularização da relação processual" (AgInt no AREsp n. 1.943.130/MG).
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO DE BUSCA E APREENSÃO. DESISTÊNCIA DA AÇÃO. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DO MÉRITO. ÔNUS DE SUCUMBÊNCIA. ART. 90 DO CPC/2015. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Agravo interno contra decisão da Presidência que não conheceu do agravo em recurso especial, em razão da falta de impugnação específica de fundamentos decisórios. Reconsideração.
+2. A desistência do processo atrai a norma do art. 90 do CPC/2015, que atribui à parte que desistiu o ônus pelo pagamento das despesas processuais e honorários advocatícios.
+3. O comparecimento espontâneo do réu, com a apresentação de defesa, importa angularização da relação processual, sendo devidos os honorários advocatícios em seu favor, pela parte autora que desistiu da ação, haja vista que a referida verba tem por escopo remunerar o esforço laboral desenvolvido pelo procurador da parte adversa.
+Precedentes.
+4. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial. (AgInt no AREsp n. 1.943.130/MG, relator Ministro Raul Araújo, Quarta Turma, julgado em 9/10/2023, DJe de 16/10/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. COMPARECIMENTO ESPONTÂNEO DO RÉU. PAGAMENTO ADMINISTRATIVO. PERDA SUPERVENIENTE DE OBJETO. DESISTÊNCIA DA AÇÃO. PRINCÍPIO DA CAUSALIDADE. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. O Tribunal a quo julgou em consonância com a jurisprudência desta Corte, no sentido de que o comparecimento espontâneo supre eventual falta de citação. Correta, portanto, a incidência da Súmula 83/STJ.
+2. Nos termos da jurisprudência desta Corte, "a sucumbência é atribuída à luz do princípio da causalidade, o qual impõe a quem deu causa à propositura da ação o dever de arcar com os honorários advocatícios, mesmo ocorrendo a superveniente perda do objeto.
+Precedentes" (AgInt no AREsp 2.356.698/MG, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 29/4/2024, DJe de 2/5/2024).
+(..)
+4. Agravo interno provido para, reconsiderando a decisão agravada, conhecer do agravo para negar provimento ao recurso especial. (AgInt no AREsp n. 2.758.115/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 10/2/2025, DJEN de 21/2/2025.)
+Consequentemente, tendo em vista que resta comprovada a angularização da relação processual, são devidos honorários advocatícios no feito.
+Como a matéria não foi enfrentada pelo Tribunal de origem, forçoso reconhecer a necessidade de anulação do aresto recorrido, para novo julgamento quanto à fixação dos honorários advocatícios à luz do princípio da causalidade.
+4. Do  exposto,  com  fulcro  no  artigo  932  do  CPC  c/c  a Súmula  568  do  STJ, conheço em parte do recurso especial e, nessa extensão, dou-lhe parcial provimento para anular o acórdão recorrido e determinar o retorno dos autos ao Tribunal de origem para que seja proferido um novo julgamento quanto à fixação dos honorários advocatícios à luz do princípio da causalidade, afastando o entendimento de falta de citação e de angularização da relação processual.
+Publique-se.
+Intimem-se.
+EMENTA
