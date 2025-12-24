@@ -1,0 +1,20 @@
+DECISÃO
+DENIS FRANCO DE ASSIS alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 1502256-43.2024.8.26.0536).
+Consta dos autos que o paciente foi condenado a 7 anos, 9 meses e 10 dias de reclusão mais multa, no regime fechado, pela prática do delito de tráfico de drogas.
+A defesa pleiteia, por meio deste writ, o redimensionamento da pena ante a ausência de motivação válida para a exasperação da reprimenda-base.
+Dispensadas as informações, o Ministério Público Federal opinou pela denegação da ordem.
+Decido.
+Este habeas corpus foi impetrado em 13/11/2025 e se insurge contra acórdão de apelação proferido em 16/1/2025 (fl. 46). Conforme mencionado pela própria defesa na impetração, a decisão transitou em julgado, de modo que não se observa o ajuizamento de revisão criminal.
+Esta Corte, em diversas ocasiões, reconheceu a impossibilidade de uso do habeas corpus concomitante à interposição de recurso especial ou em substituição à revisão criminal, posicionando-se no sentido de que "o trânsito em julgado do acórdão que julga a apelação criminal, sem que haja a inauguração da competência deste Sodalício, torna incognoscível o pedido de habeas corpus" (AgRg no HC n. 805.183/SP, Rel. Ministro Teodoro Silva Santos, 6ª T., julgado em 12/3/2024, DJe de 15/3/2024).
+Contudo, verifica-se ilegalidade flagrante, passível de concessão de habeas corpus de ofício, visto que a pena-base foi exasperada em razão da apreensão de 194 g de maconha, 30 g de haxixe e 60 g de crack.
+Certo é que, segundo o disposto no art. 42 da Lei n. 11.343/2006, "O Juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente".
+No entanto, embora tal elemento constitua, de fato, circunstância preponderante a ser sopesada na dosimetria da pena, considero que a quantidade de substância apreendida em poder do paciente não foi expressiva, de maneira que se mostra manifestamente desproporcional sopesar, no caso ora analisado, apenas a natureza das substâncias para justificar a exasperação da pena-base.
+Do contrário, qualquer agente que fosse apreendido com crack ou com cocaína, ainda que com uma porção com peso de 5 g, por exemplo, deveria ter a sua pena-base estabelecida acima do mínimo legal - a pretexto de correta aplicação do disposto no art. 42 da Lei n. 11.343/2006 -, o que, evidentemente, não se coaduna com os princípios da razoabilidade e da proporcionalidade.
+Além disso, o Ministério Público não requereu no recurso de apelação a majoração da reprimenda-base pela valoração negativa da conduta social, de modo que resulta em ilegalidade, pois o Tribunal de Justiça julgou além dos limites da apelação interposta pelo Ministério Público (restringida apenas pela alteração da fração de aumento na primeira fase pelas circunstâncias judiciais da quantidade de drogas e dos maus antecedentes).
+Assim, uma vez verificada a inadequação parcial da análise das circunstâncias judiciais e considerando que remanesce desfavorável apenas os maus antecedentes, reduzo proporcionalmente a pena-base do delito de tráfico de drogas para 5 anos, 6 meses e 20 dias de reclusão.
+Na segunda fase, presente a agravante da reincidência, preservo a majoração em 1/6, de modo que fica a sanção definitiva em 6 anos, 5 meses e 23 dias de reclusão e 680 dias-multa ante a ausência de outras causas modificativas.
+Considerando o total da reprimenda e a reincidência, admissível o regime fechado, nos termos do art. 33, §§ 2º e 3º, do CP.
+À vista do exposto, concedo parcialmente o habeas corpus para afastar a valoração negativa da quantidade de drogas e da conduta social e, por conseguinte, reduzir a pena para 6 anos, 5 meses e 23 dias de reclusão e 647 dias-multa, no regime fechado.
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias ordinárias, para as providências cabíveis.
+Publique-se e intimem-se.
+EMENTA
