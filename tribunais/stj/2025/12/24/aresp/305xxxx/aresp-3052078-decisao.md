@@ -1,0 +1,73 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo MUNICÍPIO DE ANGRA DOS REIS contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fls. 303-304):
+AGRAVO DE INSTRUMENTO. RECURSOS OPOSTOS CONTRA DECISÃO QUE DEFERIU EM PARTE A TUTELA PROVISÓRIA DE URGÊNCIA. DETERMINAÇÃO PARA INSTALAÇÃO DE GERADORES DE MODO A PERMITIR A MANUTENÇÃO DA ENERGIA EM CASO DE DESCONTINUIDADE DO SERVIÇO. IRRESIGNAÇÕES DA MUNICIPALIDADE E DA CONCESSIONÁRIA.
+1. Na origem, cuida-se de ação civil pública proposta pelo Município de Angra dos Reis, visando à condenação da ré a regularizar a prestação de serviço de fornecimento de energia elétrica em Angra dos Reis e suas ilhas.
+2. Insurgem-se os litigantes, contra decisão que concedeu, em parte, o pedido liminar, tão somente quanto à determinação para que a concessionária proceda à instalação de geradores que permita a manutenção da energia na Ilha Grande em caso de descontinuidade do serviço por fator imprevisível, no prazo de 90 dias, enquanto não apresentado e implantado cronograma de trabalho para evitar as interrupções no local, sob pena de multa diária de R$ 5.000,00.
+3. A tutela de urgência se revela gênero, no qual se inserem a tutela antecipada (com natureza satisfativa) e a tutela cautelar. Excepcionalidade da medida, diante da possibilidade de fruição antecipada e imediata do direito vindicado, antes da tutela definitiva.
+4. Agravo de instrumento da ré. Pretensão de afastar a determinação para instalação de geradores. Provimento. Determinação do Juízo para emenda da exordial com detalhamento do pedido não cumprida pela Municipalidade.
+5. Parte que se limitou a juntar o Memorando nº 071/2023, subscrito pelo Secretário Executivo da Ilha Grande, no qual é sugerida a instalação de grupos de geradores, com a ressalva de que esta atuação estaria vinculada a um estudo técnico detalhado e à obtenção de licenças.
+6. Manifestação da ré, em contraditório, a informar a instalação, em momento pretérito, de dois geradores nas localidades de Abraão e Provetá. Memorando do Município que sugere a instalação do gerador também em Abraão, sem fazer qualquer alusão ao existente no local. Ofício da Municipalidade a consignar a paralisação dos serviços nas localidades providas de gerador. Matéria a demandar dilação probatória a partir de conclusão técnica.
+7. Agravo de instrumento do Município. Desprovimento. Restauração do fornecimento do serviço de energia elétrica interrompida. Memorando da Secretaria de Desenvolvimento Regional a esclarecer que, em novembro de 2023, o fornecimento não se encontrava interrompido.
+8. Influência da vegetação sobre os aparelhos utilizados pela concessionária para prestação dos serviços. Ausência de prova acerca da obrigação da ré de realizar a poda da vegetação.
+9. Pedido para substituição de equipamentos e modernização da rede. Tema a demandar maior análise. Embora não se desconheça a essencialidade do serviço em exame, há uma Agência Reguladora (ANEEL) vinculada ao Poder Concedente, a fixar normas e diretrizes atreladas a políticas públicas, de competência da União, na forma do art. 22, IV, da CRFB e art. 29 da Lei 8987/1995.
+10. Reforma da decisão agravada.
+11. DÁ-SE PROVIMENTO AO AGRAVO DA RÉ.
+12. NEGA-SE PROVIMENTO AO RECURSO DO MUNICÍPIO.
+Houve oposição de embargos declaratórios, os quais foram rejeitados, em ementa assim sumariada (fls. 393-394):
+DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. AÇÃO CIVIL PÚBLICA. FORNECIMENTO DE ENERGIA ELÉTRICA. ALEGAÇÃO DE OMISSÃO. INEXISTÊNCIA. REJEIÇÃO DOS EMBARGOS.
+I. Caso em exame
+1. Embargos de declaração interpostos pelo Município em ambos os agravos interpostos. Ação civil pública proposta pelo ora embargante, visando a condenação da concessionária ré a regularizar o fornecimento de energia elétrica. Agravo da concessionária provido e do embargante desprovido. O Município alega omissão no acórdão, argumentando que o Código de Defesa do Consumidor (CDC) garante a inversão do ônus da prova e requer o prequestionamento dos dispositivos legais mencionados, afirmando que a análise da tutela de urgência deveria combinar o art. 300 do CPC com o art. 6º, VIII, do CDC.
+II. Questão em discussão
+2. A questão em discussão consiste em determinar se há omissão no acórdão quanto à análise dos requisitos para concessão da tutela de urgência.
+III. Razões de decidir
+3. Os embargos de declaração são cabíveis apenas para sanar erro material, obscuridade, contradição ou omissão em ponto ou questão sobre os quais o magistrado deveria ter se pronunciado, conforme o art. 1.022 do CPC.
+4. Não há omissão no acórdão, pois os fundamentos para a decisão sobre a tutela de urgência foram adequadamente analisados, incluindo a exigência de emenda da inicial, não cumprida pelo embargante, para especificação dos locais onde seriam instalados geradores e a constatação de que a pretensão do Município demanda dilação probatória. Conclusão extraída a partir das provas carreadas pelo próprio embargante aos autos.
+5. A decisão fundamenta-se na verificação de que a instalação de geradores em local já abastecido, conforme os documentos apresentados, não justificava a medida antecipatória pretendida.
+6. O julgador não está obrigado a enfrentar expressamente todos os dispositivos legais indicados pelas partes, desde que a decisão seja devidamente fundamentada, o que ocorreu no presente caso.
+7. O prequestionamento pode ser presumido ("ficto"), nos termos do art. 1.025 do CPC, desde que a matéria tenha sido apreciada, ainda que sem menção expressa aos dispositivos legais.
+IV. Dispositivo e tese
+8. Desprovimento dos recursos.
+Tese de julgamento:
+1. Os embargos de declaração têm como objetivo a integração da decisão em caso de omissão, contradição, obscuridade ou erro material, nos termos do art. 1.022 do CPC.
+2. Não há necessidade de indicação expressa de todos os dispositivos legais indicados pelas partes, desde que a decisão esteja devidamente fundamentada.
+3. O prequestionamento "ficto" é admitido nos termos do art. 1.025 do CPC, dispensando menção expressa aos dispositivos legais quando a matéria é devidamente apreciada.
+Dispositivos relevantes citados: CPC, arts. 1.022 e 1.025; CDC, art. 6º, VIII; CPC, art. 300.
+Jurisprudência relevante citada: STJ, AgRg no AREsp 681.828/PI, Rel. Min. Mauro Campbell Marques, Segunda Turma, julgado em 18/06/2015, DJe 26/06/2015.
+Em seu recurso especial de fls. 434-449, a parte recorrente alega o preenchimento dos requisitos autorizadores da tutela provisória (fl. 442):
+A probabilidade do direito foi comprovada pelos dispositivos referidos e pelos documentos que instruíram a peça vestibular, os quais demonstram a má prestação do serviço de energia elétrica no Município de Angra dos Reis.
+Ainda à probabilidade do direito se mostra transparente pela flagrante violação ao Código de Defesa do Consumidor, Lei Federal nº 8.987/95 e a própria CF, além das provas carreadas.
+Já o perigo de dano, é justificado pelo fato de que o serviço de distribuição de energia elétrica é um serviço público essencial, pois atende as necessidades básicas do ser humano, sendo, atualmente, absolutamente indispensável a uma vida digna, sendo que a má prestação desse serviço constitui em prática de atos atentatórios aos direitos e interesses do cidadão e do consumidor.
+Aduz que o acórdão recorrido, ao negar provimento ao agravo de instrumento, violou os artigos 6º, inciso VIII, 14 e 22 do Código de Defesa do Consumidor e os artigos 10, inciso I, e 11, parágrafo único, ambos da Lei Federal n.º 7.783/1989 (Lei de Greve), consoante a seguinte argumentação: (fl. 444):
+(..) nos casos de direito do consumidor há que ser concedida a inversão do ônus da prova apenas com a presença da verossimilhança das alegações, não havendo que se falar em necessidade de prova. As concessionárias são obrigadas a fornecer serviços adequados, eficientes, seguros e, quanto aos essenciais, contínuos, são considerados serviços ou atividades essenciais tratamento e abastecimento de água; produção e distribuição de energia elétrica, gás e combustíveis.
+Além disso, são necessidades inadiáveis da comunidade aquelas que, não atendidas, coloquem em perigo iminente, a saúde ou a segurança da população.
+Como se sabe os serviços de produção e distribuição de energia elétrica são considerados essenciais (art. 10 da Lei nº 7.783/89). Portanto, a produção e distribuição de energia elétrica são atividades e serviços que são inadiáveis da comunidade e que, não atendidas, colocam em perigo iminente, a saúde e a segurança da população (parágrafo único do art. 11 da Lei nº 7.783/89).
+O Tribunal de origem, às fls. 468-476, não admitiu o recurso especial sob os seguintes fundamentos:
+O detido exame das razões recursais revela que o recorrente pretende impugnar a decisão que concedeu, em parte, a tutela provisória de urgência, requerida, objetivando, por via transversa, a revisão de matéria de fato, apreciada e julgada com base nas provas produzidas nos autos, que não perfaz questão de direito, mas tão somente reanálise fático-probatória, inadequada para interposição de recurso especial.
+Oportuno realçar, a esse respeito, o consignado no julgamento do REsp 336.741/SP, Rel. Min. Fernando Gonçalves, DJ 07/04/2003, "(..) se, nos moldes em que delineada a questão federal, há necessidade de se incursionar na seara fático-probatória, soberanamente decidida pelas instâncias ordinárias, não merece trânsito o recurso especial, ante o veto da súmula 7-STJ".
+Dessa maneira, pelo que se depreende da leitura do acórdão recorrido, verifica-se que eventual modificação da conclusão do Colegiado passaria pela seara fático-probatória, soberanamente decidida pelas instâncias ordinárias, de modo que não merece trânsito o recurso face ao óbice do Enunciado nº 7 da Súmula de Jurisprudência do Superior Tribunal de Justiça (A pretensão de simples reexame de prova não enseja recurso especial).
+(..)
+Além disso, a solução dos autos passa, necessariamente, pelo reexame de decisão que deferiu o pedido de tutela antecipada por estarem presentes os requisitos para concessão da liminar pretendida.
+E, neste sentido, esbarra no óbice da Súmula nº 735 do STF ("Não cabe recurso extraordinário contra acórdão que defere medida liminar."), aplicável por analogia ao recurso especial.
+(..)
+À vista do exposto, em estrita observância ao disposto no art. 1.030, V do Código de Processo Civil, INADMITO o recurso especial interposto, nos termos da fundamentação supra.
+Em seu agravo, às fls. 487-502, a parte agravante aborda a incidência da Súmula n.º 7 do STJ e da Súmula n.º 735 do STF, nos seguintes termos:
+No caso em tela, com a devida vênia, a decisão recorrida merece reforma porque o recurso especial em comento, apesar de postular a reforma da decisão que não concedeu a tutela de urgência em sua integralidade, não se pauta em normas sobre o mérito da causa, relacionadas à presença, ou não, dos requisitos autorizadores da medida, o que obstaria a admissibilidade recursal, nos termos dos aludidos enunciados, mas, ao revés, se insurge contra a violação a normas processuais que disciplinam o deferimento da medida em face da Fazenda Pública.
+Ou seja, a questão apresentada no recurso especial não se confunde com a análise fático-probatória, mas tão somente ao exame de matéria exclusivamente jurídica. Logo, não há que se falar no óbice da nº 735 do E. STF, bem como da Súmula 07 do E. STJ
+As contrarrazões foram apresentadas às fls. 506-518 pela parte agravada.
+É o relatório.
+A insurgência não pode ser conhecida.
+De início, verifica-se que não foi impugnada a integralidade da fundamentação da decisão agravada, uma vez que a parte agravante não contestou, de forma específica e suficiente, os fundamentos utilizados para a inadmissão do seu recurso especial.
+Em verdade, a decisão monocrática que negou a subida do apelo raro, ora agravada, assentou-se em dois fundamentos distintos e autônomos: (i) - incidência do enunciado 7 da Súmula do STJ, ante a impossibilidade de reexame de fatos e provas na instância especial; e (ii) - aplicação, por analogia, do enunciado 735 da Súmula do STF, ante a impossibilidade de impugnação, pela via especial, de acórdão proferido em sede de liminar, em razão da ausência de pronunciamento definitivo sobre o tema.
+Todavia, no seu agravo, a parte agravante não refutou suficientemente todos os referidos fundamentos, os quais, à míngua de impugnação específica e pormenorizada, permanecem hígidos, produzindo todos os efeitos no mundo jurídico.
+Assim, ao deixar de infirmar a fundamentação do juízo de admissibilidade realizado pelo Tribunal de origem, a parte recorrente fere o princípio da dialeticidade e atrai a incidência da previsão contida nos artigos 932, inciso III, do Código de Processo Civil, e 253, parágrafo único, inciso I, do Regimento Interno do STJ, no sentido de que não se conhece de agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida". Nesse sentido:
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. A falta de efetivo combate de quaisquer dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, consoante preceituam os arts. 253, I, do Regimento Interno do Superior Tribunal de Justiça e 932, III, do Código de Processo Civil e a Súmula 182 do STJ.
+5. Agravo interno n ão provido.
+(AgInt no AREsp n. 2.419.582/SP, rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 14/3/2024)
+Ante o exposto, com fundamento no artigo 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da agravante, no importe de 10% sobre o valor já arbitrado, nos termos do artigo 85, §11, do Código de Processo Civil. Deverão ser observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do dispositivo legal acima referido, bem como eventuais legislações extravagantes que tratem do arbitramento de honorários e as hipóteses de concessão de gratuidade de justiça.
+Publique-se.
+Intime-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL QUE NÃO COMBATEU OS FUNDAMENTOS DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DOS ARTS. 932, III, DO CPC, E 253, P. Ú, I, DO RISTJ. AGRAVO NÃO CONHECIDO.
