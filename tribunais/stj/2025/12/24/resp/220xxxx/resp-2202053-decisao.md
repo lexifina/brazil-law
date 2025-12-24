@@ -1,0 +1,25 @@
+DECISÃO
+DECISÃO
+Trata-se de recurso especial interposto por CLEIDE APARECIDA MALUF E OUTROS, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (e-STJ fl. 40):
+AGRAVO DE INSTRUMENTO - Cumprimento individual de sentença coletiva - Ação coletiva ajuizada pelo Sindicato dos Professores-APEOESP - Recálculo da sexta-parte - Decisão agravada que determinou que os exequentes comprovem sua filiação ao sindicato - Título judicial expresso no sentido de restringir seus efeitos aos filiados da APEOESP - Limites subjetivos da coisa julgada a serem observados, inobstante a substituição ampla e irrestrita dos sindicatos - Decisão agravada mantida - Recurso de agravo de instrumento desprovido.
+Embargos de declaração rejeitados nos termos da ementa a seguir (e-STJ fl. 57):
+EMBARGOS DE DECLARAÇÃO - Cumprimento individual de sentença coletiva Pretensão de recálculo da sexta parte, limitada pelo substituto processual, a seus filiados -Relativização da coisa julgada - Impossibilidade - Afronta à segurança jurídica- Omissão e erro material não configurados - Inexistem vícios a sanar, quando o julgado analisa a matéria devolvida à apreciação do Tribunal, com base na lei, jurisprudência e doutrina sobre a matéria - Embargos de declaração rejeitados.
+Nas razões do recurso especial (e-STJ fls. 65/78), a parte recorrente aponta violação (i) preliminarmente, ao art. 1.022, II, do Có digo de Processo Civil (CPC); (ii) ao art. 1.025 do CPC; (iii) dissídio jurisprudencial.
+Sustenta a existência de negativa de prestação jurisdicional por omissão quanto à tese de desnecessidade de filiação para execução de título coletivo obtido por sindicato e a inobservância da tese de legitimidade extraordinária ampla dos sindicatos.
+Contrarrazões às e-STJ fls. 104/109.
+O apelo nobre recebeu juízo positivo de admissibilidade pelo Tribunal de origem (e-STJ fls. 126/127).
+Passo a decidir.
+Quanto à alegada violação ao art. 1.022, II, do CPC, verifica-se que o Tribunal de origem apreciou fundamentadamente a controvérsia, apontando as razões de seu convencimento.
+O acórdão recorrido analisou expressamente a questão da legitimidade e da extensão do título executivo. Consignou-se que, não obstante a ampla legitimidade extraordinária dos sindicatos, o título judicial formado na fase de conhecimento restringiu expressamente o benefício aos filiados:
+Inobstante a ampla legitimidade do sindicato, o substituto processual restringiu, de maneira expressa e literal, a pretensão deduzida aos seus filiados, de acordo com o pedido constante na petição inicial (fl. 81 do processo principal), o que foi acolhido pelo título judicial, conforme dispositivo do acórdão:
+Dessa forma, JULGA-SE PROCEDENTE A AÇÃO, para condenar a requerida à readequação do cálculo da sexta-parte dos filiados da APEOESP, que fazem jus ao benefício, considerando, para tanto, os vencimentos integrais recebidos, observada a prescrição quinquenal.
+Ficam excluídas as verbas de natureza eventual e transitória (grifei).
+Assim, como os limites da execução se fixam pelo que foi decidido no processo de conhecimento, sob pena de violação à coisa julgada, reconhece-se que os efeitos do julgado devem ser limitados aos filiados do sindicato.
+Assim, a preliminar de nulidade por negativa de prestação jurisdicional não deve ser acolhida. O Tribunal de origem apreciou fundamentadamente a controvérsia, apenas em sentido contrário à pretensão da recorrente, o que não se confunde com o vício apontado.
+No que diz respeito ao mérito, o dispositivo apontado como violado (art. 1.025 do CPC) não tem relação direta com a tese desenvolvida no apelo nobre quanto à legitimidade para execução individual de título coletivo.
+A fundamentação deficiente, nesse particular, motiva óbice de conhecimento do recurso com base na analogia à Súmula 284 do STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.").
+Por fim, "a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Precedentes" (AgInt nos EDcl no REsp 1998539/PB, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 3/4/2023, DJe de 11/4/2023).
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, CONHEÇO EM PARTE do recurso especial e, essa extensão, NEGO-LHE PROVIMENTO.
+Caso exista, nos autos, prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+ EMENTA
