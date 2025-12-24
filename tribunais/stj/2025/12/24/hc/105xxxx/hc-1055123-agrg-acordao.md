@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Joel Ilan Paciornik, Messod Azulay Neto, Maria Marluce Caldas e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito Processual Penal. Agravo Regimental NO Habeas Corpus. Tráfico de drogas. BUSCA DOMICILIAR. VALIDADE. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA. CABIMENTO. Habeas corpus substitutivo de REVISÃO CRIMINAL. Agravo IMprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus impetrado contra acórdão transitado em julgado.
+2. Nas razões recursais, a defesa alegou constrangimento ilegal, sustentando que a abordagem policial e o ingresso domiciliar ocorreram sem mandado judicial e sem consentimento formal válido, baseados apenas em denúncia anônima desacompanhada de diligência prévia. Argumentou que as provas derivadas seriam ilícitas e que o caso autorizaria o exame do mérito ou a concessão da ordem de ofício, conforme jurisprudência do STJ e do STF. Requereu a nulidade das provas obtidas e derivadas, com expedição de alvará de soltura, ou, subsidiariamente, o reconhecimento do tráfico privilegiado (art. 33, § 4º, Lei 11.343/2006) com readequação da pena e do regime inicial, além da substituição por penas restritivas de direitos.
+3. A decisão recorrida não conheceu do habeas corpus, considerando que a defesa buscava desconstituir condenação acobertada pela coisa julgada, caracterizando o habeas corpus como substitutivo de revisão criminal, o que não é admitido pelo STJ e pelo STF, salvo em casos de manifesta ilegalidade.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se o habeas corpus pode ser conhecido como substitutivo de recurso próprio para desconstituir condenação transitada em julgado, diante da alegação de ilegalidade na abordagem policial e no ingresso domiciliar sem mandado judicial ou consentimento válido.
+5. Saber se há manifesta ilegalidade na decisão que não conheceu do habeas corpus mantido afastado o tráfico privilegiado.
+III. Razões de decidir
+6. A Corte possui competência para revisão criminal apenas de seus próprios julgados, conforme o art. 105, inciso I, alínea "e", da Constituição da República.
+7. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, salvo em casos de manifesta ilegalidade no ato judicial impugnado, conforme entendimento do STF e do STJ.
+8. No caso concreto, não se verifica manifesta ilegalidade na decisão recorrida, pois a busca domiciliar decorreu de flagrante, com o agravante previamente surpreendido em via pública na posse de drogas, além de haver denúncias anônimas sobre tráfico em sua residência, bem como há elementos probatórios corroborados pelas instâncias ordinárias, como mensagens extraídas de seu celular e apreensão de balança de precisão que indicam a habitualidade na traficância.
+IV. Dispositivo e tese
+9. Resultado do Julgamento: Agravo regimental improvido.
+Tese de julgamento:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, salvo em casos de manifesta ilegalidade no ato judicial impugnado".Dispositivos relevantes citados:
+CR/1988, art. 5º, XI, LVI e LXIII; CR/1988, art. 105, I, "e"; CPP, art. 157, caput e § 1º; Lei nº 11.343/2006, art. 33, § 4º.
+Jurisprudência relevante citada:STJ, AgRg no HC 958.212/SP, Rel. Min. Messod Azulay Neto, Quinta Turma, julgado em 12/3/2025, DJEN de 19/3/2025; STJ, AgRg no HC 940.391/MG, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 19/3/2025, DJEN 24/3/2025; STJ, AgRg no HC n. 961.564/SC, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, julgado em 5/3/2025, DJEN de 11/3/2025.
+RELATÓRIO
+Trata-se de agravo regimental interposto por GABRIEL AUGUSTO FERREIRA LIMA BERTOCHI, contra decisão que não conheceu do habeas corpus impetrado contra acórdão transitado em julgado.
+Nas razões recursais, a defesa reafirma que há flagrante constrangimento ilegal, pois a persecução penal teve origem em abordagem policial seguida de ingresso domiciliar sem mandado judicial e sem consentimento formal válido, baseado apenas em denúncia anônima desacompanhada de diligência prévia; e em "confissão informal" colhida sem prévia informação do direito constitucional ao silêncio (art. 5º, LXIII, Constituição da República), o que torna ilícitas as provas derivadas (arts. 5º, XI e LVI, Constituição da República; art. 157, caput e § 1º, CPP); que, mesmo diante do entendimento restritivo quanto ao habeas corpus substitutivo, o caso autoriza o exame do mérito ou a concessão da ordem de ofício, à luz da jurisprudência do STJ e do STF. Sustenta, ainda, ser devida a incidência do tráfico privilegiado (art. 33, § 4º, Lei 11.343/2006), dada a primariedade, a menoridade relativa à época dos fatos e a apreensão de pequena quantidade de maconha (195,68 g), pugnando pela redução máxima, regime inicial aberto e substituição da pena por restritivas (e-STJ, fls. 3368-3372).
+Requer: a) a apresentação do feito em mesa e a concessão de medida liminar para reconsiderar a decisão agravada e conceder a ordem, reconhecendo a ilegalidade da abordagem e da invasão de domicílio, declarando nula toda a prova obtida e as derivadas, com expedição de alvará de soltura; b) subsidiariamente, o reconhecimento do tráfico privilegiado (art. 33, § 4º, Lei 11.343/2006) em seu patamar máximo, com readequação da pena e do regime inicial e substituição por restritivas (art. 44 do CP); c) em eventual não conhecimento do habeas corpus, a concessão da ordem de ofício, nos mesmos termos (e-STJ, fls. 3373).
+É o relatório.
+EMENTA
+Direito Processual Penal. Agravo Regimental NO Habeas Corpus. Tráfico de drogas. BUSCA DOMICILIAR. VALIDADE. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA. CABIMENTO. Habeas corpus substitutivo de REVISÃO CRIMINAL. Agravo IMprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus impetrado contra acórdão transitado em julgado.
+2. Nas razões recursais, a defesa alegou constrangimento ilegal, sustentando que a abordagem policial e o ingresso domiciliar ocorreram sem mandado judicial e sem consentimento formal válido, baseados apenas em denúncia anônima desacompanhada de diligência prévia. Argumentou que as provas derivadas seriam ilícitas e que o caso autorizaria o exame do mérito ou a concessão da ordem de ofício, conforme jurisprudência do STJ e do STF. Requereu a nulidade das provas obtidas e derivadas, com expedição de alvará de soltura, ou, subsidiariamente, o reconhecimento do tráfico privilegiado (art. 33, § 4º, Lei 11.343/2006) com readequação da pena e do regime inicial, além da substituição por penas restritivas de direitos.
+3. A decisão recorrida não conheceu do habeas corpus, considerando que a defesa buscava desconstituir condenação acobertada pela coisa julgada, caracterizando o habeas corpus como substitutivo de revisão criminal, o que não é admitido pelo STJ e pelo STF, salvo em casos de manifesta ilegalidade.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se o habeas corpus pode ser conhecido como substitutivo de recurso próprio para desconstituir condenação transitada em julgado, diante da alegação de ilegalidade na abordagem policial e no ingresso domiciliar sem mandado judicial ou consentimento válido.
+5. Saber se há manifesta ilegalidade na decisão que não conheceu do habeas corpus mantido afastado o tráfico privilegiado.
+III. Razões de decidir
+6. A Corte possui competência para revisão criminal apenas de seus próprios julgados, conforme o art. 105, inciso I, alínea "e", da Constituição da República.
+7. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, salvo em casos de manifesta ilegalidade no ato judicial impugnado, conforme entendimento do STF e do STJ.
+8. No caso concreto, não se verifica manifesta ilegalidade na decisão recorrida, pois a busca domiciliar decorreu de flagrante, com o agravante previamente surpreendido em via pública na posse de drogas, além de haver denúncias anônimas sobre tráfico em sua residência, bem como há elementos probatórios corroborados pelas instâncias ordinárias, como mensagens extraídas de seu celular e apreensão de balança de precisão que indicam a habitualidade na traficância.
+IV. Dispositivo e tese
+9. Resultado do Julgamento: Agravo regimental improvido.
+Tese de julgamento:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, salvo em casos de manifesta ilegalidade no ato judicial impugnado".Dispositivos relevantes citados:
+CR/1988, art. 5º, XI, LVI e LXIII; CR/1988, art. 105, I, "e"; CPP, art. 157, caput e § 1º; Lei nº 11.343/2006, art. 33, § 4º.
+Jurisprudência relevante citada:STJ, AgRg no HC 958.212/SP, Rel. Min. Messod Azulay Neto, Quinta Turma, julgado em 12/3/2025, DJEN de 19/3/2025; STJ, AgRg no HC 940.391/MG, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 19/3/2025, DJEN 24/3/2025; STJ, AgRg no HC n. 961.564/SC, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, julgado em 5/3/2025, DJEN de 11/3/2025.
+VOTO
+O agravante não trouxe argumentos suficientes para infirmar a decisão impugnada, razão pela qual mantenho-a por seus próprios fundamentos.
+Conforme posto na decisão recorrida, a defesa busca desconstituir condenação acobertada pela coisa julgada, o que confere a este habeas corpus nítidas características revisionais.
+Todavia, a esta Corte cabe tão somente a revisão criminal dos seus próprios julgados, de acordo com o art. 105, inciso I, alínea "e", da Constituição da República. Ademais, uma vez priorizando o uso racional do habeas corpus e a sistemática recursal estabelecida pelo CPP, o Supremo Tribunal Federal e o Superior Tribunal de Justiça não tem admitido o habeas corpus substitutivo de recurso próprio, ressalvadas as hipóteses de manifesta ilegalidade no ato judicial impugnado.
+No caso, da leitura atenta do acórdão impugnado, não se identifica o manifesto constrangimento sustentado pela defesa, pois a busca domiciliar decorreu nos limites do flagrante, uma vez que o ora agravante foi previamente surpreendido em via pública na posse de drogas e já havia denúncias anônimas sobre a prática da traficância em sua residência. Anote-se, ainda, que as instâncias ordinárias concluíram pela habitualidade delitiva do condenado em razão das mensagens extraídas do seu celular e da apreensão de balança de precisão na residência - objeto comumente utilizado na traficância. Tem-se a hipótese, portanto, de não conhecimento do habeas corpus (e-STJ, fl. 18).
+No mesmo sentido, confira: STJ, AgRg no HC 958.212/SP, Rel. Min. Messod Azulay Neto, Quinta Turma, julgado em 12/3/2025, DJEN de 19/3/2025; STJ, AgRg no HC 940.391/MG, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 19/3/2025, DJEN 24/3/2025; STJ, AgRg no HC n. 961.564/SC, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, julgado em 5/3/2025, DJEN de 11/3/2025.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
