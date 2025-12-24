@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interposto por CONSELHO REGIONAL DE CORRETORES DE IMÓVEIS 1ª REGIÃO - CRECI-RJ da decisão do TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO, que inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelação Cível n. 5004983-03.2019.4.02.5107/RJ, assim ementado (fl. 260):
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. CONSELHO DE FISCALIZAÇÃO PROFISSIONAL. CRECI-RJ. ANUIDADES. MULTA DE ELEIÇÃO. FUNDAMENTAÇÃO DO TÍTULO EXECUTIVO. ATUALIZAÇÃO DE VALORES NÃO PAGOS. TAXA SELIC. VÍCIO INSANÁVEL.
+1. A execução fiscal foi ajuizada para cobrança de créditos referentes às anuidades dos anos de 2013 a 2018, além de multa de eleição/2015 com a seguinte fundamentação: Anuidade - art. 16, VII, §§ 1º e 2º c.c. art. 20, inciso X, da Lei n. 6.530/1978, com alterações promovidas pela Lei n. 10.795/2003; Multa Eleitoral - art. 11 da Lei n. 6.530/1978, com alterações promovidas pela Lei n. 10.795/2003.
+2. As anuidades cobradas pelo Conselho Regional dos Corretores de Imóveis têm fundamento legal na Lei n. 10.795/2003, que inseriu os §§ 1º e 2º ao art. 16 da Lei n. 6.530/1978, que dispõe sobre a fixação do valor das anuidades, taxas e emolumentos devidos ao CRECI, fixando os limites para o valor das anuidades devidas, em atendimento ao princípio da legalidade tributária. Outrossim, a Lei n. 10.795/2003 também alterou a redação do art. 11 da Lei n. 6.530/1978, passando a prever a cobrança de multa de eleição aos inscritos que deixassem de votar nas eleições do Conselho.
+3. No que diz respeito aos índices de atualização monetária, o art. 37-A da Lei n. 10.522/2002 estabelece que os créditos das autarquias e fundações públicas federais, de qualquer natureza, não pagos nos prazos previstos na legislação, serão acrescidos de juros e multa de mora, calculados nos termos e na forma da legislação aplicável aos tributos federais, aos quais, por sua vez, aplica-se a Taxa SELIC (arts. 29 e 30 da Lei n. 10.522/2002 c.c. art. 5º, § 3º, da Lei n. 9.430/1996 e REsp n. 879.844/MG, julgado sob a sistemática dos recursos repetitivos). Precedente desta Corte (AC 0169001-93.2014.4.02.5110).
+4. A utilização de índice de atualização monetária diverso do previsto em lei não constitui mero erro material, mas, sim, vício no próprio lançamento do crédito, pelo que inviável a emenda ou substituição da CDA, não sendo aplicável o enunciado n. 392 da Súmula do STJ. Precedente desta Corte (AC n. 5022150-80.2021.4.02.5101).
+5. Apelação desprovida.
+Os embargos de declaração não foram conhecidos (fl. 272).
+Recurso especial, interposto com base no art. 105, inciso III, alínea a, da Constituição Federal, alegando violação aos arts. 2º, § 8º, da Lei n. 6.830/1980; 6º, caput, 9º, caput, e 10, caput, do Código de Processo Civil; bem como à Súmula n. 392 do STJ. Defende a possibilidade de emenda ou substituição da Certidão de Dívida Ativa (CDA), até a decisão de primeira instância, para simples correção do índice de atualização (adequação para a Taxa SELIC), sem alteração do sujeito passivo ou da natureza do crédito, tratando-se de erro material/formal. Alega violação do dever de cooperação processual, por ausência de oportunidade para regularizar a CDA (ajuste do índice de correção) antes da extinção da execução. Destaca afronta ao princípio da não surpresa, pois houve decisão de extinção sem prévia oitiva da exequente acerca dos índices aplicáveis ou oportunidade de alteração do título (CDA).
+Não houve apresentação de contrarrazões ao recurso especial.
+O recurso não foi admitido na origem diante de sua intempestividade, o que ensejou a interposição do presente agravo (fls. 291-292).
+É o relatório. Decido.
+O recurso especial é manifestamente intempestivo. A parte ora recorrente foi intimada eletronicamente do acórdão recorrido em 18/10/2024, conforme indicado pelo sistema e-Proc (evento 29). A contagem do prazo para interposição do recurso especial se iniciou no dia 29/10/2024, findando em 17/12/2024. O presente recurso, contudo, foi interposto no dia 25/3/2025 (evento 64), ultrapassando o prazo legal.
+A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que os embargos de declaração não conheci dos em razão de afronta ao princípio da dialeticidade, tal como ocorreu na hipótese dos autos (fls. 94-95), por serem incabíveis, não interrompem o prazo para interposição de recursos. A título ilustrativo:
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO. TEMPESTIVIDADE. RECURSO NÃO CONHECIDO POR AUSÊNCIA DE DIALETICIDADE. AUSÊNCIA. INTERRUPÇÃO PRAZO RECURSAL. SOLUÇÃO IDÊNTICA À DOTADA NO ARESP 1.739.868/MS ENVOLVENDO CORRÉU. SEGURANÇA JURÍDICA. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, COM EFEITOS MODIFICATIVOS, PARA NÃO CONHECER DO RECURSO ESPECIAL.
+I - O entendimento do Superior Tribunal de Justiça é no sentido de que os embargos de declaração não interrompem o prazo recursal quando não conhecidos. Precedentes: AgInt nos EAREsp n. 2.586.035/MT, relator Ministro Benedito Gonçalves, Corte Especial, julgado em 11/2/2025, DJEN de 17/2/2025; AgInt no AREsp n. 2.577.955/PE, relator Ministro Francisco Falcão, Segunda Turma, julgado em 9/9/2024, DJe de 11/9/2024.
+II - O não conhecimento dos embargos de declaração por ausência de dialeticidade não interrompe o prazo recursal. Entendimento aplicado por esta Corte no AREsp 1.739.868/MS, relacionado ao corréu, deve ser aplicado ao caso vertente, sob pena de violação do postulado da segurança jurídica.
+III - Embargos de declaração acolhidos, com efeitos modificativos, para não conhecer do recurso especial interposto pelo Ministério Público do Estado do Mato Grosso do Sul.
+(EDcl no AgInt no AREsp n. 1.707.884/MS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 30/4/2025, DJEN de 7/5/2025.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS NA ORIGEM, POR MANIFESTAMENTE INCABÍVEIS. ALEGADA INTERRUPÇÃO DO PRAZO PARA INTERPOSIÇÃO DO RECURSO ESPECIAL NÃO CONFIGURADA. AGRAVO IMPROVIDO.
+1. "Em se tratando de embargos de declaração não conhecidos, não há nem a suspensão nem a interrupção do prazo para a interposição de recursos. Precedente" (AgInt nos EDcl no AREsp n. 1.671.408/MS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 26/10/2020, DJe de 29/10/2020).
+2. Agravo interno improvido.
+(AgInt no AREsp n. 2.726.657/CE, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 19/3/2025, DJEN de 24/3/2025.)
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. INTEMPESTIVIDADE DE RECURSO ESPECIAL. NÃO INTERRUPÇÃO DO PRAZO POR EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS. AGRAVO INTERNO IMPROVIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto contra decisão monocrática que negou provimento ao agravo em recurso especial, sob o fundamento de intempestividade do recurso especial, em razão de embargos de declaração não conhecidos pelo Tribunal de Justiça.
+2. O prazo recursal iniciou-se em 21/3/2023, findando em 11/4/2023, mas o recurso especial foi interposto apenas em 15/2/2024, sendo considerado intempestivo.
+3. A defesa opôs embargos de declaração, que não foram conhecidos, não interrompendo o prazo para interposição de novos recursos.
+II. QUESTÃO EM DISCUSSÃO
+4. A questão em discussão consiste em saber se os embargos de declaração não conhecidos interrompem o prazo para a interposição de recurso especial.
+5. A questão também envolve a análise da tempestividade do recurso especial interposto.
+III. RAZÕES DE DECIDIR
+6. O recurso especial foi considerado intempestivo, pois foi interposto fora do prazo legal, que se iniciou em 21/3/2023 e terminou em 11/4/2023.
+7. Os embargos de declaração não conhecidos não interrompem o prazo para a interposição de novos recursos, conforme jurisprudência do Superior Tribunal de Justiça.
+8. A parte não demonstrou eventual suspensão do expediente forense no Tribunal de origem, o que poderia justificar a intempestividade.
+IV. AGRAVO INTERNO IMPROVIDO.
+(AgInt no AREsp n. 2.731.604/RS, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Terceira Turma, julgado em 24/2/2025, DJEN de 28/2/2025.)
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Sem honorários recursais, pois ausente condenação em verba de sucumbência, em favor do advogado da parte ora recorrida, nas instâncias ordinárias.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. CONSELHO DE FISCALIZAÇÃO PROFISSIONAL. CRECI-RJ. ANUIDADES. MULTA DE ELEIÇÃO. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS POR AUSÊNCIA DE DIALETICIDADE. RECURSO ESPECIAL INTEMPESTIVO. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS NÃO INTERROMPEM PRAZO RECURSAL. PRECEDENTES DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
