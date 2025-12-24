@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus impetrado pela Defensoria Pública do Estado do Rio de Janeiro em favor de Francisco das Chagas de Mesquita, insurgindo-se contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro que denegou ordem de habeas corpus, mantendo a validade de confissão extrajudicial obtida sem a devida advertência sobre o direito ao silêncio.
+O paciente foi denunciado pela suposta prática do crime previsto no art. 121, § 2º, II e III, c/c o art. 14, II, do Código Penal (tentativa de homicídio qualificado). A acusação fundamentou-se, expressamente, em confissão extrajudicial prestada em sede policial, onde o denunciado não foi advertido sobre seu direito ao silêncio e à não autoincriminação.
+A defesa pleiteou o desentranhamento da confissão, alegando sua ilicitude. O juízo de primeiro grau rejeitou o pedido, entendendo tratar-se de nulidade relativa sem prejuízo demonstrado. O Tribunal de Justiça manteve essa decisão.
+Decido.
+A controvérsia cinge-se a definir se a confissão extrajudicial obtida sem o "Aviso de Miranda" constitui prova ilícita apta a contaminar todo o processo, e se sua manutenção nos autos configura constrangimento ilegal.
+O direito ao silêncio encontra-se expressamente previsto no art. 5º, LXIII, da Constituição Federal, que estabelece que "o preso será informado de seus direitos, entre os quais o de permanecer calado". Tal garantia decorre do princípio da não autoincriminação (nemo tenetur se detegere).
+O Código de Processo Penal igualmente exige que o investigado/acusado seja cientificado de seu direito ao silêncio antes de qualquer interrogatório formal.
+Nos termos da jurisprudência desta Corte Superior, tal prática é exigida nos interrogatórios policial e judicial.
+No caso, é incontroverso que o paciente não foi advertido sobre tal direito quando de sua oitiva policial, conforme reconhecido pelas próprias instâncias ordinárias.
+Reconheço que, mesmo tratando-se de garantia constitucional, a declaração de nulidade processual - ainda que absoluta - depende da demonstração de efetivo prejuízo, por aplicação do princípio "pas de nullité sans grief", conforme orientação desta Corte Superior e do Supremo Tribunal Federal.
+Contudo, no presente caso, o prejuízo é manifesto e pode ser aferido sob dupla perspectiva:
+a) Prejuízo material: A análise da decisão que recebeu a denúncia revela que, embora o magistrado tenha mencionado diversos elementos probatórios, não especificou adequadamente quais deles efetivamente demonstram indícios de autoria quanto aos fatos imputados. O juízo limitou-se a enumerar folhas dos autos sem discriminar seu conteúdo ou relevância para a imputação específica.
+b) Prejuízo processual: A confissão ilícita, além de constituir elemento autônomo de convicção, contamina toda a cadeia probatória posterior, direcionando investigações e conferindo aparente legitimidade a outros indícios que, isoladamente, podem mostrar-se insuficientes.
+Examinando-se a fundamentação do recebimento da denúncia, verifica-se que o magistrado não demonstrou de forma clara e específica como os elementos probatórios mencionados (relatórios, ofícios, procedimentos administrativos) estabelecem nexo causal entre o paciente e os fatos criminosos imputados.
+A mera enumeração de folhas dos autos, sem especificação de seu conteúdo probatório, não atende ao standard necessário para justificar o recebimento de uma denúncia por crime tão grave quanto a tentativa de homicídio qualificado.
+A permanência da confissão ilícita nos autos gera presunção de que influenciou não apenas a formação da opinio delicti do Ministério Público, mas também a própria decisão de recebimento da denúncia, já que expressamente mencionada na peça acusatória e no recebimento.
+Tal circunstância configura a teoria dos "frutos da árvore envenenada", tornando inadmissíveis as provas dela derivadas, nos termos do art. 157, § 1º, do CPP.
+Ante o exposto, CONHEÇO do habeas corpus e CONCEDO A ORDEM para declarar a nulidade da confissão extrajudicial constante dos autos, determinando seu desentranhamento, bem como a supressão de qualquer referência a ela na denúncia.
+Determino que o juízo de origem proceda a nova análise sobre o recebimento da denúncia, considerando exclusivamente as provas lícitas remanescentes, fundamentando adequadamente a existência de justa causa.
+EMENTA
