@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de recurso especial interposto por TELEFÔNICA BRASIL S.A, com base nas alíneas "a" e "c" do art. 105, inciso III, da Constituição Federal, em face de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado (fl. 1.252):
+PRESTAÇÃO DE SERVIÇOS TELEFONIA AÇÃO DE OBRIGAÇÃO DE FAZER AÇÃO PROCEDENTE SENTENÇA CONFIRMADA POR SEUS FUNDAMENTOS ART. 252 DO RITJSP RECURSO NÃO PROVIDO. Não trazendo a apelante fundamentos suficientes a modificar a sentença de primeiro grau, que acolheu a pretensão inicial e condenou a requerida na obrigação de fazer consistente na apresentação de todos os dados relativos às linhas de titularidade da requerente do quinquênio indicado na inicial, inclusive sob pena de aplicação de multa diária, de rigor a manutenção integral da sentença, cujos fundamentos se adotam como razão de decidir na forma do art. 252 do Regimento Interno deste Tribunal.
+Os embargos de declaração opostos foram rejeitados (fls. 1.277-1.280).
+Nas razões do recurso especial, a parte recorrente alega, além de divergência jurisprudencial, violação aos arts. 1.022 e 1.046, § 1º, do Código de Processo Civil de 2015 e 461-A, § 2º, e 844 do Código de Processo Civil de 1973.
+Sustenta que foi indevida a fixação de multa cominatória nos autos, visto que tal providência somente seria cabível nas ações que tinham por objeto obrigações de fazer e não fazer (art. 461 do CPC/1973), mas não nas que tinham por objeto a entrega de coisa (art. 461-A, § 2º, do CPC/1973).
+Aduz que o processo, na origem, buscava a exibição de documento, portanto não cabível a fixação de multa em razão do atraso.
+Argumenta que o feito ainda não havia sido sentenciado quando ocorreu o início da vigência do CPC/2015, motivo pelo qual, nos termos do art. 1.046, § 1º, ele permanece sendo regido pelas normas do código anterior.
+Informa que o código anterior previa medida cautelar típica para a exibição de documentos (art. 844 do CPC/1973), que foi revogado, por isso a demanda deve ser analisada à luz da legislação passada.
+Aponta que a jurisprudência se orienta pelo não cabimento de multa cominatória em obrigação de exibição de documento, independentemente da natureza da ação, nos termos da Súmula 372 e do Tema Repetitivo n. 705, ambos do STJ.
+Defende que o valor da multa poderia ter sido revisto, na forma do art. 537, §1º, do CPC/2015, o que foi negado ao fundamento de que o tema já foi julgado anteriormente.
+Pondera que há omissões no julgado acerca das teses acima indicadas e sobre a necessidade de anulação da sentença, visto que prolatada após a ordem de suspensão do Tema Repetitivo n. 1.000/STJ, que trata do cabimento de multa cominatória em ação de exibição de documentos.
+Contrarrazões juntadas às fls. 1.492-1.503.
+Assim delimitada a controvérsia, passo à análise do recurso especial.
+Na origem, trata-se de ação proposta pela recorrida ROBERT BOSCH LIMITADA visando compelir a recorrente TELEFÔNICA BRASIL S.A. a fornecer "todos os dados referentes às linhas de titularidade da Bosch que ela possui em sua base de dados nos últimos cinco anos", viabilizando a realização de auditoria interna (fl. 9).
+A controvérsia se relaciona ao cabimento e ao valor da multa cominatória estabelecida contra a recorrente em razão da demora no cumprimento da antecipação de tutela.
+Acerca do tema, o Tribunal de origem decidiu que a natureza jurídica da ação, o cabimento da multa e o seu valor já foram decididos anteriormente. Confira-se:
+Ademais, não comporta nova discussão a questão da natureza jurídica da ação proposta (obrigação de fazer), bem como em relação ao cabimento da multa pecuniária em caso de descumprimento e seu respectivo valor.
+Assim, conforme já decidido por este Relator em recurso anterior (Agravo de Instrumento nº 2119548-97.2014.8.26.0000):
+"Mostra-se também justificada a aplicação de multa diária ante o descumprimento da obrigação, cujo objetivo é assegurar "a efetivação da medida ou o resultado prático equivalente", nos termos dos artigos 273, § 3º cc. 461, §§ 3º, 4º e 5º, ambos do Código de Processo Civil.
+Ora, se a decisão combatida determina que a ré forneça os dados referentes a algumas linhas telefônicas de titularidade da empresa agravante, basta que obedeça ao que foi determinado para que não tenha contra si a "surpresa" da cobrança da multa por descumprimento.
+É perfeitamente possível a imposição de multa quando se determina que uma parte seja obrigada a fazer ou não fazer algo, justamente para reforçar a necessidade de cumprimento da determinação judicial, estando prevista no art. 461 do CPC, e seus parágrafos.
+Outrossim, o valor fixado a título de multa não é excessivo. As astreintes constituem técnica de tutela coercitiva que tem por objetivo compelir o devedor a cumprir a determinação judicial, sendo possível sua redução quando desproporcional e incompatível com a realidade, o que não ocorre no presente caso." g. n.
+O valor da multa também foi confirmado quando do julgamento de novo Agravo de Instrumento (autos nº 2225125-64.2014.8.26.0000).
+Destaca-se, ainda, que a ação foi ajuizada como de obrigação de fazer baseada em relação contratual existente entre as partes, e assim foi admitida (fl.67), sendo que a requerida não impugnou o procedimento no momento oportuno, tanto na contestação como nos dois recursos de agravo de instrumento interpostos.
+(..)
+Logo, a sentença deve ser mantida por seus próprios fundamentos, que aqui se adotam integralmente como razão de decidir, na forma do art. 252 do Regimento. (fls. 1.254-1.255, grifou-se).
+Diante de tais considerações, verifica-se que o acórdão está alinhado à jurisprudência mais recente da Corte Especial do STJ no sentido de que não é cabível rever o valor da multa cominatória se tal valor já foi revisado e definitivamente estabelecido em recurso anterior, em razão da ocorrência da preclusão consumativa pro judicato. Confira-se:
+DIREITO PROCESSUAL CIVIL. EXECUÇÃO DE OBRIGAÇÃO DE FAZER. MULTA PERIÓDICA (ASTREINTES). VALOR ACUMULADO DA MULTA VENCIDA. REVISÃO. IMPOSSIBILIDADE. REGRA ESPECÍFICA NO CPC/2015. DESESTÍMULO À RECALCITRÂNCIA. REDUÇÕES SUCESSIVAS. IMPOSSIBILIDADE. PRECLUSÃO PRO JUDICATO CONSUMATIVA.
+1. A jurisprudência do Superior Tribunal de Justiça sedimentou-se, sob a égide do CPC/1973, no sentido da possibilidade de revisão do valor acumulado da multa periódica a qualquer tempo. No entanto, segundo o art. 537, § 1º, do CPC/2015, a modificação somente é possível em relação à "multa vincenda".
+2. A alteração legislativa tem a finalidade de combater a recalcitrância do devedor, a quem compete, se for o caso, demonstrar a ocorrência de justa causa para o descumprimento da obrigação.
+3. No caso concreto, ademais, ocorreu preclusão pro judicato consumativa, pois o montante alcançado com a incidência da multa já havia sido reduzido por meio de decisão transitada em julgado.
+4. Embargos de divergência conhecidos e não providos.
+(EAREsp n. 1.766.665/RS, relator Ministro Francisco Falcão, relator para acórdão Ministro Ricardo Villas Bôas Cueva, Corte Especial, julgado em 3/4/2024, DJe de 6/6/2024, grifou-se.)
+No que tange ao valor estabelecido, verifica-se do acórdão que os valores da multa cominatória fixada não são objetivamente excessivos (R$ 500,00 por dia, majorados para R$ 1.000,00 por dia), de modo que o montante final, que nem sequer foi informado no recurso especial, somente foi alcançado pela inércia da recorrente em cumprir a determinação.
+A este respeito, a jurisprudência da Corte Especial está orientada no sentido de que a revisão do valor, quando cabível, somente alcança as parcelas vincendas, mas não possui efeitos retroativos. Veja-se:
+DIREITO PROCESSUAL CIVIL. EFETIVAÇÃO DE OBRIGAÇÃO DE FAZER. MULTA PERIÓDICA (ASTREINTES). VALOR ACUMULADO DA MULTA VENCIDA. REVISÃO. IMPOSSIBILIDADE. REGRA ESPECÍFICA NO CPC/2015. DESESTÍMULO À RECALCITRÂNCIA E À LITIGÂNCIA ABUSIVA REVERSA. PRECEDENTE VINCULANTE DA CORTE ESPECIAL. OBSERVÂNCIA OBRIGATÓRIA. AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA PARA SUPERAÇÃO. ESTABILIDADE, INTEGRIGADE E COERÊNCIA DA JURISPRUDÊNCIA DO TRIBUNAL. MANUTENÇÃO. PENDÊNCIA DE DISCUSSÃO SOBRE A MULTA. RELAÇÃO COM O VENCIMENTO. INEXISTÊNCIA. ABUSO DO CREDOR. CONVERSÃO EM PERDAS E DANOS DE OFÍCIO. POSSIBILIDADE. RESULTADO PRÁTICO EQUIVALENTE AO ADIMPLEMENTO. ORDENS JUDICIAIS A ÓRGÃOS PÚBLICOS E INSTITUIÇÕES PRIVADAS. PREFERÊNCIA.
+1. Consoante a regra do art. 537, § 1º, do CPC, a modificação das astreintes somente é possível em relação à "multa vincenda". Precedente vinculante da Corte Especial.
+2. Não se justifica a alteração de entendimento fixado em precedente vinculante apenas em virtude de divergência interna do órgão colegiado.
+3. Nos termos do art. 926 do CPC, "os tribunais devem uniformizar sua jurisprudência e mantê-la estável, íntegra e coerente".
+4. A multa periódica é uma técnica processual importante no combate à litigância abusiva reversa e para garantir a efetividade da tutela jurisdicional.
+5. A pendência de discussão sobre a multa periódica não tem relação com o seu vencimento, o qual ocorre de pleno direito diante do decurso do prazo para o cumprimento da obrigação, observado o período fixado no preceito.
+6. O problema dos valores elevados alcançados com a incidência da multa periódica deve ser combatido preventivamente das seguintes formas: i) conversão da obrigação de fazer em perdas e danos, de ofício, quando verificada a inércia abusiva do credor em relação ao exercício da faculdade prevista no art. 499 do CPC; e ii) preferência pela expedição de ordens judiciais a órgãos públicos e instituições privadas visando ao alcance do resultado prático equivalente ao adimplemento, substituindo a atuação do obrigado, quando possível.
+7. Recurso conhecido e desprovido.
+(EAREsp n. 1.479.019/SP, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Ricardo Villas Bôas Cueva, Corte Especial, julgado em 7/5/2025, DJEN de 19/5/2025.)
+Como a ordem já foi cumprida em 15/6/2016 (fls. 176-177), antes da própria sentença de mérito, mostra-se inviável promover revisão com efeitos retroativos.
+Ainda que assim não fosse, modificar a conclusão do Tribunal de origem, já preclusa por falta de recurso, acerca da adequação do valor da multa, exigiria o reexame dos fatos e das provas dos autos, providência vedada pela Súmula 7/STJ.
+Assim, com fulcro na Súmula 568/STJ, rejeito a alegação de violação aos arts. 1.046, § 1º, do CPC/2015 e 461-A, § 2º, e 844 do CPC/1973.
+Não há que se falar, ainda, em omissão no julgado.
+Isso, porque ao considerar que se trata de ação de obrigação de fazer, e não de ação cautelar de exibição de documentos, as teses da recorrente (baseadas na exibição de documentos) ficam prejudicadas.
+Por sua vez, a tese de possibilidade de revisão da multa mesmo à luz do CPC/2015 foi afastada quando se tratou da preclusão.
+Por fim, desnecessária a análise da controvérsia à luz da divergência em razão dos mesmos fundamentos.
+Em face do exposto, nego provimento ao recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro em 10% (dez por cento) a quantia já arbitrada (R$ 1.800,00 - fl. 1.256) a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, ônus suspensos no caso de beneficiário da justiça gratuita.
+Intimem-se.
+EMENTA
