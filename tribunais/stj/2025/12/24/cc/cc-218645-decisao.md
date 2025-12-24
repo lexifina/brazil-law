@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de conflito negativo de competência suscitado por Marcel Castor de Abreu em face do Juízo Federal da 7ª Vara Criminal da Seção Judiciária de Mato Grosso e do Juízo de Direito da 2ª Vara Criminal de Rondonópolis/MT.
+Versam os autos acerca de inquérito policial instaurado pela Delegacia de Polícia Federal em Rondonópolis/MT, a partir do Relatório de Inteligência Financeira (RIF) n.º 135912, para apurar a suposta prática do crime de lavagem de dinheiro, tipificado no art. 1º da Lei n.º 9.613/1998, por MARCEL CASTOR DE ABREU, em razão de movimentações financeiras incompatíveis com sua capacidade econômica declarada (fl. 337).
+No curso da investigação, o investigado, ora suscitante, foi preso em flagrante (em 19/11/2025) ao realizar um saque de R$ 800.000.00 (oitocentos mil reais), sendo a prisão convertida, inicialmente, em preventiva, mas subsequentemente revogada por decisão oriunda do Tribunal Regional Federal da 1ª Região, remanescendo, no entanto, o bloqueio de valores.
+Na inicial, o suscitante alega que há dissenso entre os Juízes suscitados acerca da competência pra processar o inquérito, argumentando que o procedimento, atualmente, tramita na 7ª Vara Federal Criminal de Cuiabá - SJ/MT, tendo o Ministério Público Federal (MPF) se manifestado formalmente pela incompetência da Justiça Federal, pugnando pelo retorno dos autos à Justiça Estadual (fl. 5).
+Na sequência, discorre acerca da nulidade dos atos praticados, da ilegalidade na manutenção da constrição patrimonial, inclusive por excesso no bloqueio e de prazo, pugnando, em caráter liminar, pela designação de um juízo provisório para análise dos pedidos de desbloqueio de bens e determinação imediata de suspensão e/ou levantamento de valores.
+No mérito, requer o julgamento pela procedência do conflito e, consequentemente, a declaração de nulidade dos atos decisórios constritivos (bloqueios), determinando-se a liberação total dos valores de R$ 3.671.091,03, R$64.591,03, R$ 8.936,15, R$ 800.000,00, bem como a restituição do aparelho celular Samsung S20 FE, por manifesta desproporcionalidade e ausência de periculum in mora, conforme reconhecido na concessão do Habeas Corpus pelo TRF-1. E, em caráter subsidiário, a liberação imediata de, no mínimo, 30% (trinta por cento) do montante total bloqueado (aproximadamente R$ 1.363.385,47), valor este imprescindível para o custeio da subsistência digna da família (verbas alimentares), pagamento de funcionários e garantia do mínimo existencial do requerente (fl. 30).
+É o relatório.
+Não há conflito a ser dirimido por esta Corte.
+Dispõe o art. 114 do Código de Processo Pena (grifo nosso):
+Haverá conflito de jurisdição:
+I - quando duas ou mais autoridades judiciárias se considerarem competentes, ou incompetentes, para conhecer do mesmo fato criminoso;
+II - quando entre elas surgir controvérsia sobre unidade de juízo, junção ou separação de processos.
+No caso, embora o segundo suscitado tenha firmado a competência da Justiça Federal para processar o inquérito policial, ante a existência de indícios da prática de crimes federais conexos (Súmula 122/STJ), circunstância essa que fun dou a decisão declinatória da competência em prol da Justiça Federal (fls. 337/341), verifica-se que o primeiro suscitado não dissentiu daquela conclusão, tendo se limitado a determinar a redistribuição interna do procedimento a outro Juízo Federal (fl. 1.554):
+ ..
+Em primeiro lugar, convém mencionar que a Resolução PRESI 71/2024 do Tribunal Regional Federal da 1ª Região, prevê, em seu artigo 1º, incisoVI, a especialização da 5ª e 7ª Varas Federais da Seção Judiciária de Mato Grosso para o processamento e julgamento de crimes contra o sistema financeiro nacional e de lavagem de dinheiro ou ocultação de bens, direitos e valores, e os praticados por organizações criminosas. Ademais, em seu artigo 2º, a Resolução consignou que a especialização das referidas Varas importa sua competência na área de todo o Estado de Mato Grosso.
+Desse modo, forçoso convir pelo declínio de competência.
+Ante o exposto, na esteira da manifestação do MPF de id 2227359923, com fulcro nos artigos 2º e 4º na Resolução PRESI 71/2024 do Tribunal Regional Federal da 1ª Região, e no artigo 74 do Código de Processo Penal, DECLARO A INCOMPETÊNCIA DESTE JUÍZO para processamento do presente feito e dos incidentes processuais a ele vinculados, razão por que DETERMINO a respectiva redistribuição via PJe a uma das varas criminais da SJMT.
+ ..
+Logo, é nítido que, ao menos por ora, não há dissenso entre os Juízes suscitados acerca da competência da Justiça Federal para processar o inquérito, de modo que o caso sob exame não se amolda às hipóteses previstas no art. 114 do CPP.
+Reforço qu e nem mesmo o fato de os autos terem sido redistribuídos ao Juízo da 7ª Vara Federal Criminal de Cuiabá--SJ/MT e o Ministério Público Federal oficiante naquela Vara ter opinado pela incompetência da Justiça Federal, não firma per se dissenso passível de equacionamento pela via do conflito de competência, sendo adequado aguardar a decisão definitiva do Magistrado federal acerca da competência da Justiça Federal para processar o inquérito.
+Ante o exposto, não conheço do conflito.
+Dê-se ciência aos Juízes envolvidos.
+Publique-se.
+EMENTA
+CONFLITO DE COMPETÊNCIA. INQUÉRITO POLICIAL. INEXISTÊNCIA DE DISSENSO. CASO QUE, POR ORA, NÃO SE AMOLDA ÀS HIPÓTESES PREVISTAS NO ART. 114 DO CPP.
+Conflito não conhecido.
