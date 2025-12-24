@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de GEOVANE DE JESUS NAVARRO contra decisão do Juízo da 1ª Vara Criminal da Comarca de Toledo/PR.
+Consta dos autos que o paciente foi denunciado, no bojo da denominada "Operação Hydra", pela suposta prática dos crimes de associação para o tráfico de drogas (art. 35 c/c art. 40, incisos V e VI, da Lei n. 11.343/2006) e tráfico de drogas (art. 33 da Lei n. 11.343/2006).
+No curso da ação penal, sobreveio decisão de primeiro grau que, em cumprimento de liminar concedida pelo Superior Tribunal de Justiça em favor do corréu EMERSON NICOLETTI DO NASCIMENTO, determinou a expedição de alvará de soltura, deixando, contudo, de aplicar medidas cautelares diversas por entender que apenas a segregação seria apta à salvaguarda da ordem pública. No mesmo ato, o Juízo não conheceu do pedido de revogação da prisão preventiva formulado pela defesa, por entender necessária a tramitação em incidente apartado,.
+No presente writ, a defesa sustenta: a) identidade fático-processual com os corréus beneficiados por decisões deste Superior Tribunal, e o cabimento da aplicação do art. 580 do CPP; b) ausência de contemporaneidade dos fundamentos da prisão preventiva, à luz do art. 312, § 2º, do CPP; c) ínfima quantidade de droga apreendida (7,3g de maconha) e ausência de petrechos típicos da traficância; e d) possibilidade de superação da orientação da Súmula 691 do STF, diante de teratologia e flagrante ilegalidade.
+Pleiteia, em liminar e no mérito, a revogação da prisão preventiva do paciente por extensão dos benefícios concedidos aos corréus (art. 580 do CPP) ou, subsidiariamente, a substituição da custódia por medidas cautelares do art. 319 do CPP.
+É o relatório. Decido.
+A impetração se dirige contra ato de magistrado de primeiro grau, cujo exame não compete a esta Corte, nos termos do art. 105, inciso I, alínea "c" da Constituição Federal.
+Nesse sentido, entende esta Corte que "falece competência a este Superior Tribunal de Justiça, a teor do art. 105, inciso I, alínea "c", da CF, para julgar habeas corpus impetrado diretamente, contra ato de Juiz de primeiro grau (AgRg no HC 427.217/PR, Relator Ministro Felix Fischer, Quinta Turma, julgado em 8/2/2018, DJe 20/2/2018).
+Diante do exposto, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.
+Intimem-se.
+EMENTA
