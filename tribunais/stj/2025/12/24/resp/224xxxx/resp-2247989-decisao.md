@@ -1,0 +1,75 @@
+DECISÃO
+Trata-se de recurso especial interposto por Ministério Público do Estado de Minas Gerais com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais assim ementado (e-STJ, fls. 672-674):
+DIREITO PROCESSUAL CIVIL. APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO OPOSTOS NO ÂMBITO DO CUMPRIMENTO DE SENTENÇA. FUNGIBILIDADE ENTRE MEIOS DE DEFESA DO DEVEDOR. POSSIBILIDADE. APLICAÇÃO DO PRINCÍPIO DA INSTRUMENTALIDADE DAS FORMAS. RECURSO PROVIDO.
+I. CASO EM EXAME
+Apelação cível interposta contra sentença que não conheceu dos embargos à execução opostos pelo devedor em fase de cumprimento de sentença, sob o fundamento de inadequação da via eleita. O apelante sustenta a aplicação do princípio da fungibilidade para que os embargos sejam recebidos como impugnação ao cumprimento de sentença, em atenção à finalidade do ato e à ausência de prejuízo à parte contrária.
+II. QUESTÃO EM DISCUSSÃO
+A questão em discussão consiste em definir se é possível aplicar o princípio da fungibilidade para admitir os embargos à execução como impugnação ao cumprimento de sentença, quando demonstrada a intenção do devedor de resistir à pretensão executiva e ausente prejuízo processual.
+III. RAZÕES DE DECIDIR
+A formalidade no processo judicial tem relevância para a segurança jurídica, mas não deve comprometer a efetividade da tutela jurisdicional, especialmente quando não há prejuízo processual identificável. O Código de Processo Civil adota o princípio da instrumentalidade das formas, determinando que, mesmo quando a lei prescreve forma específica, o ato será considerado válido se atingir sua finalidade (CPC, art. 277). A designação equivocada da peça defensiva como "embargos à execução", em lugar de "impugnação ao cumprimento de sentença", não impede seu conhecimento, desde que reste evidente a intenção do devedor de se opor à pretensão executiva. O Superior Tribunal de Justiça admite a fungibilidade entre os embargos do devedor e a impugnação ao cumprimento de sentença, reconhecendo que a defesa do executado deve ser apreciada segundo a sua substância, e não apenas sob o rótulo jurídico adotado (AgInt no AREsp 2.781.123, rel. Min. Raul Araújo, 4ª Turma, DJEN 10/4/2025).
+IV. DISPOSITIVO E TESE
+Recurso provido.
+Tese de julgamento: É possível aplicar o princípio da fungibilidade para admitir embargos à execução como impugnação ao cumprimento de sentença, quando demonstrada a intenção do devedor de se opor à pretensão executiva.
+O erro na forma do meio de defesa do devedor não impede seu conhecimento se o ato processual atingir sua finalidade e não causar prejuízo à parte contrária.
+O princípio da instrumentalidade das formas prevalece sobre o apego excessivo à nomenclatura utilizada pela parte.
+Dispositivos relevantes citados: CPC, art. 277. Jurisprudência relevante citada: STJ, AgInt no AREsp 2.781.123, Rel. Min. Raul Araújo, 4ª Turma, DJEN 10/4/2025.
+(V.V.) EMENTA: DIREITO PROCESSUAL CIVIL. APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. CUMPRIMENTO DE SENTENÇA. INADEQUAÇÃO DA VIA ELEITA. IMPOSSIBILIDADE DE SUBSTITUIÇÃO PELO PRINCÍPIO DA FUNGIBILIDADE. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+Apelação cível interposta por Omar Silva da Costa contra sentença que indeferiu a petição inicial e extinguiu, sem resolução de mérito, os embargos à execução opostos contra o Ministério Público do Estado de Minas Gerais, com fundamento na inadequação da via eleita, nos termos do art. 330, III c/c art. 485, VI, do CPC. O apelante alegou a possibilidade de utilização dos embargos com fundamento no art. 917, §1º, do CPC, sustentando questões relativas à impenhorabilidade do bem e supostas irregularidades na penhora.
+II. QUESTÃO EM DISCUSSÃO
+A questão em discussão consiste em verificar se a via dos embargos à execução é adequada para impugnar o cumprimento de sentença, à luz da legislação processual vigente.
+III. RAZÕES DE DECIDIR
+O art. 525 do CPC estabelece que a impugnação ao cumprimento de sentença é o meio processual adequado para o executado apresentar defesa, inclusive quanto à penhora e à inexigibilidade da obrigação. A utilização de embargos à execução, ação autônoma, para impugnar o cumprimento de sentença constitui erro grosseiro, não sanável pelo princípio da fungibilidade, por ausência de dúvida objetiva. Precedentes do TJMG confirmam que os embargos à execução não são admissíveis na fase de cumprimento de sentença, sob pena de ofensa ao devido processo legal e à economia processual. Alegações relevantes sobre impenhorabilidade e falhas processuais devem ser formuladas por impugnação nos próprios autos do cumprimento de sentença, e não por via inadequada. A sentença de extinção, fundada na inépcia da inicial por inadequação da via processual, encontra amparo legal e jurisprudencial, não merecendo reparos.
+IV. DISPOSITIVO E TESE
+Recurso desprovido. Tese de julgamento: A impugnação ao cumprimento de sentença é o meio processual adequado para a defesa do executado, nos termos do art. 525 do CPC. A propositura de embargos à execução para impugnar o cumprimento de sentença configura erro grosseiro, que inviabiliza a aplicação do princípio da fungibilidade. A inadequação da via processual autoriza a extinção do feito sem resolução do mérito, nos termos do art. 485, VI, do CPC.
+Em suas razões (e-STJ, fls. 690-696), a parte recorrente aponta violação do art. 525 do Código de Processo Civil, ao argumento de que a defesa do executado, em cumprimento de sentença, deve ser apresentada, nos próprios autos, por meio de impugnação, razão pela qual a oposição de embargos à execução constitui erro grosseiro e afasta a aplicação do princípio da fungibilidade.
+Sustenta a inexistência de dúvida objetiva sobre o meio de defesa cabível, motivo pelo qual pretende ade reforma do acórdão que aplicou a instrumentalidade das formas e recebeu embargos como impugnação.
+Não foram apresentadas contrarrazões (e-STJ, fl. 700).
+O recurso foi admitido na origem (e-STJ, fls. 701-703).
+O Ministério Público Federal, em seu parecer, opinou pelo não provimento do recurso (e-STJ, fls. 715-722).
+Brevemente relatado, decido.
+O recurso especial tem origem em apelação cível interposta por devedor contra sentença que extinguiu, sem resolução de mérito, embargos à execução opostos no âmbito de cumprimento de sentença, tendo o Tribunal de origem, por maioria, dado provimento para cassar a sentença e determinar o processamento dos embargos como impugnação ao cumprimento de sentença.
+Em primeiro grau, a parte devedora havia apresentado embargos à execução no cumprimento de sentença veiculado pelo MPMG em ação civil pública de ressarcimento ao Erário (R$ 7.591,58). A parte devedora buscou, por meio dos embargos, obter o reconhecimento de que bem imóvel bloqueado no cumprimento de sentença possuía o caráter constitucional de pequena propriedade rural, sendo, portanto, impenhorável.
+No recurso especial, o Ministério Público aponta a violação, pelo acórdão recorrido, do art. 525 do CPC/2015, ao argumento de que a defesa do executado, em cumprimento de sentença, deve ser apresentada, nos próprios autos, por meio de impugnação, razão pela qual a oposição de embargos à execução constitui erro grosseiro e afasta a aplicação do princípio da fungibilidade.
+Acerca do tema, o Superior Tribunal de Justiça tem o entendimento de que é possível reconhecer a fungibilidade entre os embargos de devedor e a impugnação ao cumprimento de sentença.
+Ilustrativamente (sem destaques no original):
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. CONTRATO BANCÁRIO. CUMPRIMENTO DE SENTENÇA. 1. VIOLAÇÃO DO ART. 1.022 DO CPC. OMISSÃO. NÃO CONFIGURAÇÃO. 2. EQUIVOCO NA NOMEAÇÃO DA PEÇA DEFENSIVA. RECEBIMENTO DOS EMBARGOS À EXECUÇÃO COMO IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. ADMISSBILIDADE. PRINCÍPIO DA FUNGIBILIDADE. INCIDÊNCIA. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Não se reconhece a violação do art. 1.022 do CPC quando há o exame, de forma fundamentada, de todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte.
+2. O acórdão impugnado está em desacordo com o entendimento desta Corte Superior, que admite a aplicação do princípio da instrumentalidade no recebimento dos embargos à execução como impugnação ao cumprimento de sentença.
+3. Agravo conhecido para dar provimento ao recurso especial.
+(AREsp n. 2.808.180/BA, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 25/8/2025, DJEN de 28/8/2025.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. RECONSIDERAÇÃO. EMBARGOS À EXECUÇÃO E IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. PRINCÍPIO DA FUNGIBILIDADE. APLICABILIDADE. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL PROVIDO.
+1. O agravante realizou a impugnação específica dos fundamentos da decisão de inadmissibilidade do recurso especial. Decisão da Presidência reconsiderada.
+2. Esta Corte Superior perfilha o entendimento de que é possível reconhecer a fungibilidade entre os embargos de devedor e a impugnação ao cumprimento de sentença. Precedentes.
+3. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para dar provimento ao recurso especial, com o fim de, reconhecendo a possibilidade de recebimento dos embargos à execução como impugnação ao cumprimento de sentença, determinar o retorno do autos à origem, para que prossiga à análise das razões recursais, como entender de direito.
+(AgInt no AREsp n. 2.781.123/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 31/3/2025, DJEN de 10/4/2025.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE IMPENHORABILIDADE DE BEM DE FAMÍLIA. CUMPRIMENTO DE SENTENÇA. SIMPLES PETIÇÃO. APRESENTAÇÃO DE EMBARGOS À EXECUÇÃO. FUNGIBILIDADE. HONORÁRIOS ADVOCATÍCIOS. RESISTÊNCIA DA PARTE ADVERSA. CABIMENTO.
+1. A impenhorabilidade de bem de família pode ser alegada, por simples petição, no curso do processo de execução. Precedentes.
+2. Sendo possível alegar-se a impenhorabilidade de bem de família por simples petição nos autos, a oposição, em seu lugar, de embargos à execução, pode não necessariamente acarretar a condenação do embargado ao pagamento da verba sucumbencial, se este de pronto anui com o levantamento da constrição, o que não é a hipótese dos autos.
+3. Se o credor embargado resiste ao pedido de exclusão da penhora, apresentando impugnações de várias espécies, dando causa ao prosseguimento da lide, a sua derrota atrai a condenação ao pagamento das custas e honorários advocatícios.
+4. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp n. 2.160.071/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 2/9/2024, DJe de 4/9/2024.)
+AGRAVO INTERNO PROCESSO CIVIL. PRINCÍPIO DA INSTRUMENTALIDADE. EMBARGOS À EXECUÇÃO. USO DA IMPUGNAÇÃO. RELEVÂNCIA DO MÉRITO. RESPEITO AO PRAZO DA MEDIDA PROCESSUAL CORRETA. VIABILIDADE. SOCIEDADE DE ECONOMIA MISTA PRESTADORA DE SERVIÇO PÚBLICO. EQUIPARAÇÃO À FAZENDA PÚBLICA. PROCEDIMENTO PREVISTO NO ART. 730 DO CPC. PRECATÓRIOS. AGRAVO INTERNO NÃO PROVIDO.
+1. A oposição de impugnação à execução em vez dos embargos pode ser conhecida, desde que respeitado o prazo da medida adequada e evidenciada a relevância do direito pretenso. Aplica-se no caso o princípio da instrumentalidade. Precedentes.
+2. O regime de precatório somente pode ser aplicado às sociedades de economia mista prestadoras de serviço público primário e em regime de exclusividade. Precedentes.
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.922.191/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 29/6/2021, DJe de 3/8/2021.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO
+ADMINISTRATIVO Nº 3/STJ. SERVIDOR PÚBLICO. DECISÃO TRANSITADA EM
+JULGADO. EMBARGOS À EXECUÇÃO E IMPUGNAÇÃO AO CUMPRIMENTO PROVISÓRIO DA SENTENÇA. ADVENTO DA LEI Nº 11.232/2005. PRINCÍPIO DA
+FUNGIBILIDADE. PRECEDENTES DO STJ.
+1. A orientação do Tribunal a quo está em consonância com a desta Corte Superior, no sentido de que é possível a fungibilidade entre os embargos de devedor e a impugnação ao cumprimento de sentença.
+2. Agravo interno não provido.
+(AgInt no REsp n. 1.730.788/PE, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 11/9/2018, DJe de 18/9/2018.)
+"PROCESSO CIVIL. EXECUÇÃO DE SENTENÇA HOMOLOGATÓRIA DE ACORDO CELEBRADO ENTRE AS PARTES. EMBARGOS À EXECUÇÃO. LEI 10.444/02. CABIMENTO. HIPÓTESE EXCEPCIONAL. EFEITO SUSPENSIVO. CONCESSÃO. POSSIBILIDADE.
+1. Em algumas situações excepcionais, não é possível aplicar o regime de execução indireta prevista pelo art. 461 do CPC. Por essa razão, o art. 644 do CPC autoriza a aplicação subsidiária da disciplina tradicionalmente prescrita ao processo de execução por obrigações de fazer ou não fazer (arts. 632 a 643 do CPC).
+2. A oposição de embargos à execução, em vez de impugnação, ao cumprimento de sentença deve ser examinada sob o prisma dos princípios constitucionais da proporcionalidade e razoabilidade. Se a medida eleita pela parte é necessária e pode ser aproveitada, atende ao fim precípuo do processo, que é mero instrumento para a concretização do direito material.
+3. Se os embargos à execução foram admitidos pelo Juízo de primeiro grau e se à época do recebimento o regime processual vigente determinava a paralisação do processo executivo (art. 739, § 1º, do CPC), não há porque negar essa prerrogativa ao devedor.
+4. Tanto o art. 475-M quanto o art. 739-A, § 1º, do CPC, com a redação que lhes foi dada pelas recentes reformas do CPC, admitem a excepcional concessão de efeito suspensivo à impugnação ou aos embargos à execução, "desde que relevantes seus fundamentos e o prosseguimento da execução seja manifestamente suscetível de causar ao executado dano grave ou de difícil reparação".
+5. Recursos especiais a que se nega provimento.
+(REsp n. 1.027.019/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 8/2/2011, DJe de 2/3/2011, g.n.)
+Ao registrar que "é possível aplicar o princípio da fungibilidade para admitir embargos à execução como impugnação ao cumprimento de sentença, quando demonstrada a intenção do devedor de se opor à pretensão executiva. O erro na forma do meio de defesa do devedor não impede seu conhecimento se o ato processual atingir sua finalidade e não causar prejuízo à parte contrária" (e-STJ, fl. 672), o acórdão recorrido emitiu conclusão que converge ao entendimento desta Corte Superior na temática processual, razão pela qual não está a merecer reparos. Incidência da Súmula 83/STJ.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO OPOSTOS NO ÂMBITO DE CUMPRIMENTO DE SENTENÇA EM AÇÃO CIVIL PÚBLICA PARA RESSARCIMENTO DE DANO AO ERÁRIO. ALEGAÇÃO DE IMPENHORABILIDADE DE BEM IMÓVEL. PREVISÃO LEGAL DE IMPUGNAÇÃO NOS PRÓPRIOS AUTOS. FUNGIBILIDADE ENTRE INSTRUMENTOS DE DEFESA DO DEVEDOR. PRECEDENTES DESTA CORTE SUPERIOR. INCIDÊNCIA DA SÚMULA 83/STJ. RECURSO ESPECIAL IMPROVIDO.
