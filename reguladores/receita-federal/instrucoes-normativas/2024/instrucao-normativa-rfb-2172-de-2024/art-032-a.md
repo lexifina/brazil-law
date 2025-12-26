@@ -1,0 +1,1 @@
+Art. 32-A. O documento de identificação dos Estados Partes do Mercosul e Estados associados, admitido em acordo internacional, permanece válido para os atos cadastrais no CPF até 31 de dezembro de 2026.
