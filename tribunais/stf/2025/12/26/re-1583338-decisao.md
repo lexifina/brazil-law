@@ -1,0 +1,38 @@
+RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. EXECUÇÃO. MANDADO DE SEGURANÇA IMPETRADO CONTRA ATO JUDICIAL QUE LIMITOU O DESTAQUE DOS HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS A 30% (TRINTA POR CENTO) DO CRÉDITO, POR OCASIÃO DA EXPEDIÇÃO DA REQUISIÇÃO DE PEQUENO VALOR - RPV. ALEGAÇÃO DE OFENSA AO ARTIGO 5º, INCISOS II, XII, LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. RECURSO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. MANDADO DE SEGURANÇA. INAPLICABILIDADE DO ARTIGO 85, § 11, DO CÓDIGO DE PROCESSO CIVIL DE 2015. RECURSO DESPROVIDO.
+
+DECISÃO: Trata-se de recurso extraordinário manejado, com arrimo na alínea a do permissivo constitucional, contra acórdão que denegou mandado de segurança “impetrado em face de ato judicial, proferido na fase de execução do julgado, que limitou o destaque de honorários advocatícios em 30% por ocasião da expedição da RPV” (Doc. 23, p. 1).
+Não foram opostos embargos de declaração.
+Nas razões do apelo extremo, Alexandro Cardoso da Costa e Nathalia Paim Gava apresentam preliminar de repercussão geral e, no mérito, apontam violação ao artigo 5º, incisos II, XII, LIV e LV, da Constituição da República. Narram que o acórdão ora recorrido “limitou o percentual dos honorários advocatícios contratuais a 30%, com fundamento em precedentes jurisprudenciais, em detrimento de cláusula contratual válida firmada pelas partes que é de 33%” (Doc. 25, p. 2). Sustentam que o artigo 22, § 4º, da Lei 8.906/1994 “autoriza o destaque dos honorários contratuais diretamente no processo judicial, sem limitação percentual prevista em lei” (Doc. 25, p. 3). Alegam que a “jurisprudência do Supremo Tribunal Federal vem reconhecendo que a interferência judicial em cláusulas livremente pactuadas deve respeitar os limites constitucionais e legais, sob pena de violação ao princípio da legalidade e à autonomia da vontade” (Doc. 25, p. 3). Requerem, ao final, o provimento do recurso extraordinário, “com a consequente concessão da segurança e reconhecimento da validade do destaque integral dos honorários contratuais pactuados” (Doc. 25, p. 3).
+O Gabinete da Admissibilidade do Tribunal a quo proferiu juízo positivo de admissibilidade do recurso extraordinário (Doc. 26).
+É o relatório. DECIDO.
+O recurso não merece prosperar.
+Ab initio, verifica-se que o artigo 5º, incisos II, XII, LIV e LV, da Constituição da República, que as partes ora recorrentes consideram violado, não foi debatido no acórdão recorrido. Além disso, não foram opostos embargos de declaração para sanar tal omissão, faltando, ao caso, o necessário prequestionamento da matéria constitucional, o que inviabiliza a pretensão de exame do recurso extraordinário.
+Incidem, portanto, os óbices das Súmulas 282 e 356 do Supremo Tribunal Federal: “É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada” e “o ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento”.
+Esta Corte firmou entendimento no sentido de que a interposição do recurso extraordinário impõe que o dispositivo constitucional tido por violado, como meio de se aferir a admissão da impugnação, tenha sido debatido no acórdão recorrido, certo que a exigência do prequestionamento não é mero rigorismo formal que pode ser afastado pelo julgador a qualquer pretexto. Ele consubstancia a necessidade de obediência aos limites impostos ao julgamento das questões submetidas a este Supremo Tribunal Federal, cuja competência fora outorgada pela Constituição da República, em seu artigo 102. Nesse dispositivo não há previsão de apreciação originária por este Pretório Excelso de questões como as que ora se apresentam. A competência para a apreciação originária de pleitos no Supremo Tribunal Federal está exaustivamente arrolada no citado dispositivo constitucional, não podendo sofrer ampliação na via do recurso extraordinário. Por oportuno, trago à colação trecho do voto condutor do AI 140.623-AgR, Rel. Min. Sepúlveda Pertence, Primeira Turma:
+
+“Ora, o fato de não estar explícito na Constituição, não afeta a exigibilidade do prequestionamento como pressuposto do recurso extraordinário. Antiga e firme jurisprudência desta Corte o reputa da própria natureza do recurso extraordinário. Ao julgá-lo, o Tribunal não se converte em terceiro grau de jurisdição, mas se detém no exame do acórdão recorrido e verifica se nele a regra de direito recebeu boa ou má aplicação. Daí a necessidade de que no julgamento impugnado se tenha discutido a questão constitucional posta no extraordinário.” (DJ de 18/09/1992)
+
+A respeito da aplicação das aludidas súmulas, assim discorre Roberto Rosas:
+
+“A Constituição de 1891, no art. 59, III, a, dizia: ‘quando se questionar sobre a validade de leis ou aplicação de tratados e leis federais, e a decisão for contra ela’.
+De forma idêntica dispôs a Constituição de 1934, no art. 76, III, a: ‘quando a decisão for contra literal disposição de tratado ou lei federal, sobre cuja aplicação se haja questionado’.
+Essas Constituições eram mais explícitas a respeito do âmbito do recurso extraordinário. Limita-se este às questões apreciadas na decisão recorrida. Se foi omissa em relação a determinado ponto, a parte deve opor embargos declaratórios. Caso não o faça, não poderá invocar essa questão não apreciada na decisão recorrida. (RTJ 56/70; v. Súmula 356 do STF e Súmula 211 do STJ; Nelson Luiz Pinto, Manual dos Recursos Cíveis, Malheiros Editores, 1999, p. 234; Carlos Mário Velloso, Temas de Direito Público, p. 236).
+(...)
+Os embargos declaratórios visam a pedir ao juiz ou juízes prolatores da decisão que espanquem dúvidas, supram omissões ou eliminem contradições. Se esse possível ponto omisso não foi aventado, nada há que se alegar posteriormente no recurso extraordinário. Falta o prequestionamento da matéria.
+A parte não considerou a existência de omissão, por isso não opôs os embargos declaratórios no devido tempo, por não existir matéria a discutir no recurso extraordinário sobre essa questão (RE 77.128, RTJ 79/162; v. Súmula 282).
+O STF interpretou o teor da Súmula no sentido da desnecessidade de nova provocação, se a parte opôs os embargos, e o tribunal se recusou a suprir a omissão (RE 176.626, RTJ 168/305; v. Súmula 211 do STJ).” (Direito Sumular. 14. ed. São Paulo: Malheiros, 2012. p. 139-140 e 175-176)
+
+Nesse sentido, AI 738.029-AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe de 25/06/2013; e ARE 737.360-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe de 24/06/2013, assim ementado:
+
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. AGRAVO IMPROVIDO.
+I – É inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, nos termos da Súmula 356 do STF.
+II – Agravo regimental improvido.”
+
+Por fim, observo que o presente recurso foi interposto sob a égide da nova lei processual. Nada obstante, por se cuidar de mandado de segurança, não há falar em majoração de honorários advocatícios (Súmula 512 do Supremo Tribunal Federal).
+Ex positis, DESPROVEJO o RECURSO EXTRAORDINÁRIO, com fundamento no artigo 932, inciso VIII, do Código de Processo Civil de 2015 c/c o artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal.
+Publique-se.
+Brasília, 26 de dezembro de 2025.
+
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
