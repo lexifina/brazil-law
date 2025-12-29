@@ -1,0 +1,37 @@
+DECISÃO
+Examina-se agravo em recurso especial, interposto por AL LITORAL NORTE 3 EMPREENDIMENTOS IMOBILIARIOS LTDA, contra decisão que inadmitiu recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional..
+Agravo em Recurso Especial interposto em: 10/7/2025.
+Concluso ao Gabinete em: 24/10/2025.
+Ação: de rescisão contratual c/c restituição de valores e compensação por danos morais, ajuizada por ANA KARINE FIGUEIREDO AMARAL GIDI em desfavor da agravante, em virtude de promessa de compra e venda de bem imóvel firmado entre as partes.
+Acórdão: deu provimento ao recurso de apelação interposto pela parte agravada e negou provimento ao recurso de apelação interposto pela agravante, nos termos da seguinte ementa:
+APELAÇÕES CÍVEIS SIMULTÂNEAS. DIREITO DO CONSUMIDOR. PROMESSA DE COMPRA E VENDA DE IMÓVEL. RESCISÃO CONTRATUAL PELO COMPRADOR, MOTIVADA APÓS DESCONTO DE CHEQUE PRÉ-DATADO, PELA ACIONADA, ANTES DA DATA ACORDADA. PREJUÍZOS ACARRETADOS À AUTORA. RETENÇÃO DE 10% DAS QUANTIAS PAGAS. DIREITO DO PROMITENTE VENDEDOR. OBRIGATORIEDADE DE DEVOLUÇÃO IMEDIATA DE VALORES. PRECEDENTE DO STJ. DESCUMPRIMENTO CONTRATUAL POR PARTE DA RÉ. VIOLAÇÃO DA BOA-FÉ CONTRATUAL. PAGAMENTO DA MULTA PREVISTA NA CLÁUSULA DEZENOVE DO INSTRUMENTO CONTRATUAL. DANO MORAL. CONFIGURAÇÃO. SÚMULA 370 DO STJ. QUANTUM FIXADO EM R$ 10.000,00 (dez mil reais). APELAÇÃO DA AUTORA CONHECIDA E PROVIDA. APELAÇÃO DA RÉ CONHECIDA E IMPROVIDA. SENTENÇA REFORMADA EM PARTE.
+1. Em contratos de promessa de compra e venda de imóvel regidos pelo CDC, é abusiva a cláusula que estipula a devolução dos valores pagos de forma parcelada em caso de rescisão contratual, devendo a restituição ocorrer em parcela única, conforme precedente do STJ.
+2. Configura-se devido o pagamento de multa contratual de 10% (dez por cento) sobre os valores pagos, conforme estipulado na cláusula dezenove no contrato, em razão do descumprimento contratual da ré ao antecipar o desconto de cheque pré-datado, violando o princípio da boa-fé objetiva e da confiança.
+3. A antecipação indevida do desconto de cheque pré-datado, resultando na negativação do nome da autora em cadastros de inadimplentes, caracteriza dano moral presumido (in re ipsa), nos termos da Súmula 370 do STJ, sendo devida a indenização no valor de R$ 10.000,00 (dez mil reais), corrigida monetariamente desde o arbitramento e acrescida de juros de mora a partir da citação.
+4. Diante do exposto, voto para DAR PROVIMENTO ao recurso da autora para (i) reconhecer o direito à indenização por danos morais, no valor de R$ 10.000,00 (dez mil reais), acrescidos de juros de mora desde a citação, com base no art. 405, do Código Civil e correção monetária desde o arbitramento, por força da súmula 362 do STJ; (ii) aplicação da multa contratual de 10% (dez por cento) disposta na cláusula dezenove do instrumento contratual; e NEGAR PROVIMENTO ao recurso da ré, mantendo-se a sentença nos seus demais termos.
+5. Considerando que a autora venceu em todos os pedidos, condeno a ré ao pagamento integral das custas processuais e honorários advocatícios que, com fulcro no art. 85, §11, do CPC, majoro para 15% (quinze por cento) sobre o valor da condenação. (e-STJ fls. 489-492)
+Embargos de declaração: opostos pela parte agravante, foram rejeitados.
+Decisão de admissibilidade do TJ/BA: inadmitiu o recurso especial da ora agravante em razão dos seguintes fundamentos:
+i) incidência da Súmula 284/STF no que tange aos arts. 389, parágrafo único, e 406, § 1º, do CC;
+ii) quanto aos arts. 421 e 422, incidência das Súmulas 5 e 7 do STJ, considerando as particularidades de e-STJ Fls. 608-609 e a ofensa à boa-fé objetiva; e
+iii) com relação aos arts. 186, 187 e 927 do CC (ato ilícito a ensejar o dever de indenizar), incidência da Súmula 7/STJ.
+Agravo em recurso especial: nas razões do presente recurso, a agravante alega, em síntese, que:
+i) o recurso interposto preenche todos os requisitos de admissibilidade, tendo ocorrido usurpação de competência;
+ii) são inaplicáveis as Súmulas 5 e 7 do STJ à espécie, sendo desnecessário o reexame de provas ou a interpretação de cláusulas contratuais; e
+iii) deve ser afastada a incidência da Súmula 284/STF, tendo em vista ter sido demonstrada a efetiva afronta aos dispositivos legais apontados.
+RELATADO O PROCESSO, DECIDE-SE.
+Preliminarmente, aponto que, contra a decisão de inadmissão (e-STJ Fls. 605-618), foram interpostos dois agravos em recurso especial pela agravante, sendo o primeiro em 10/7/2025 (e-STJ Fls. 620-628), e o segundo em 25/7/2025 (e-STJ Fls. 635-644).
+A interposição do segundo recurso especial revela-se manifestamente incabível, porquanto, no momento de sua interposição, já ocorrera o fenômeno da preclusão consumativa, pela anterior interposição de recurso com idêntico teor. Nesse sentido: AI 629.337 AgR, STF, Primeira Turma, DJe de 30/4/2009; e AgRg nos EREsp 983.690/SP, Corte Especial, DJe de 3/2/2014.
+Verificada, assim, a duplicidade de recursos interpostos pela mesma parte agravante, ante a incidência da preclusão consumativa, impõe-se o não conhecimento daquele que foi protocolizado por último.
+De toda sorte, quanto ao primeiro agravo em recurso especial interposto, verifica-se, da sua análise, que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade dos seguintes óbices:
+i) quanto aos arts. 421 e 422, incidência das Súmulas 5 e 7 do STJ, considerando as particularidades de e-STJ Fls. 608-609 e a ofensa à boa-fé objetiva; e
+ii) com relação aos arts. 186, 187 e 927 do CC (ato ilícito a ensejar o dever de indenizar), incidência da Súmula 7/STJ.
+Nesse passo, o agravante limitou-se a tecer alegações meramente genéricas, deixando de demonstrar o efetivo desacerto da decisão e dos óbices invocados no caso concreto, em atenção às particularidades e dispositivos citados.
+É firme o entendimento desta Corte no sentido de que, inadmitido o recurso especial pela incidência do enunciado n. 7/STJ, incumbe à parte interessada demonstrar, de forma específica e consistente, a desnecessidade de revolvimento do contexto fático-probatório dos autos. Nesse sentido: AgInt nos EDcl no AREsp n. 2.189.780/SP, Terceira Turma, DJe de 31/3/2023; AgInt no AREsp n. 2.199.998/SP, Quarta Turma, DJe de 10/3/2023; AgInt no AREsp n. 2.144.317/RS, Quarta Turma, DJe de 16/2/2023.
+Frise-se ainda que, quanto à Súmula 7/STJ, não basta a mera alegação de que a hipótese prescinde de reexame de provas, alegando a parte agravante genericamente ser a questão de direito ou requerer a revaloração ou a correta aplicação da legislação que entende violada.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC, majoro em 2% os honorários fixados anteriormente à parte agravante (e-STJ Fl. 488).
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
