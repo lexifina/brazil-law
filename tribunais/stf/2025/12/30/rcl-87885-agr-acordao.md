@@ -1,0 +1,874 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 19
+
+22/12/2025
+
+PRIMEIRA TURMA
+
+AG.REG. NA RECLAMAÇÃO 87.885 RIO DE JANEIRO
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+ADV.(A/S)
+INTDO.(A/S)
+ADV.(A/S)
+INTDO.(A/S)
+ADV.(A/S)
+INTDO.(A/S)
+ADV.(A/S)
+
+: MIN. CRISTIANO ZANIN
+: LEONARDO FAGUNDES FERREIRA
+: LEONARDO FAGUNDES FERREIRA
+: LUCIANA LOPES DE ALMEIDA
+: SEM REPRESENTAÇÃO NOS AUTOS
+: VILMA DE JESUS FERNANDES
+: SEM REPRESENTAÇÃO NOS AUTOS
+: JUIZ DO TRABALHO DA 30ª VARA DO TRABALHO
+DO RIO DE JANEIRO
+: SEM REPRESENTAÇÃO NOS AUTOS
+: TRIBUNAL REGIONAL DO TRABALHO DA 1ª
+REGIÃO
+: SEM REPRESENTAÇÃO NOS AUTOS
+
+Ementa: DIREITO TRABALHISTA
+E
+CONSTITUCIONAL.
+AGRAVO REGIMENTAL EM RECLAMAÇÃO. SUSPENSÃO DE
+PASSAPORTE E CNH. ALEGAÇÃO DE AFRONTA À AUTORIDADE
+DA DECISÃO PROFERIDA PELO SUPREMO TRIBUNAL FEDERAL NA
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE 5.941/DF. AUSÊNCIA
+DE ADERÊNCIA ESTRITA. ANÁLISE DO CONJUNTO FÁTICOPROBATÓRIO.
+IMPOSSIBILIDADE.
+UTILIZAÇÃO
+DA
+RECLAMAÇÃO
+COMO
+SUCEDÂNEO
+RECURSAL.
+INVIABILIDADE. AGRAVO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão que julgou
+improcedente a reclamação, a qual foi proposta para garantir a
+observância da tese fixada pelo Supremo Tribunal no julgamento da Ação
+Direta de Inconstitucionalidade 5.941/DF.
+II. QUESTÃO EM DISCUSSÃO
+2. Definir se, no caso concreto, a determinação do Tribunal de
+origem que suspendeu o passaporte e a CNH do agravante ofendeu o
+conteúdo da decisão paradigma indicada como violada.
+III. RAZÕES DE DECIDIR
+3. No julgamento da ADI 5.941/DF, esta Suprema Corte assentou
+que cabe às instâncias do Poder Judiciário, de acordo com as suas
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 4DAA-C83B-80A6-992F e senha D47B-EFA3-27E2-9306
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 2 de 19
+
+RCL 87885 AGR / RJ
+competências, efetuar o juízo de proporcionalidade sobre as medidas
+coercitivas atípicas, aplicadas no caso concreto.
+4. O ato reclamado entendeu que era necessária e proporcional a
+suspensão da CNH e do passaporte do executado.
+5. Não há aderência estrita entre o ato reclamado e o conteúdo do
+paradigma apontado como violado, o que, nos termos da jurisprudência
+firme do Supremo Tribunal Federal, torna inviável o manejo da
+reclamação nesses casos.
+6. A reclamação não pode ser utilizada como sucedâneo recursal ou
+para reexame de fatos e provas.
+IV. DISPOSITIVO E TESE
+7. Agravo regimental desprovido.
+_________
+Jurisprudência relevante citada: STF, ADI 5.941/DF, Rel. Min. Luiz Fux,
+Tribunal Pleno, DJe 28/4/2023; Rcl 62.594 AgR/GO, Rel. Min. Dias Toffoli,
+Segunda Turma, DJe 15/4/2024; Rcl 65.995 AgR/SP, Rel. Min. Flávio Dino,
+Primeira Turma, DJe 28/6/2024; Rcl 80.127 ED, Rel. Min. Cristiano Zanin,
+Primeira Turma, DJe 8/8/2025.
+ACÓRDÃO
+Acordam os Ministros do Supremo Tribunal Federal, em sessão
+virtual da Primeira Turma, na conformidade da ata de julgamentos, por
+unanimidade, negar provimento ao agravo regimental, nos termos do
+voto do Relator.
+Brasília, 22 de dezembro de 2025.
+CRISTIANO ZANIN - Relator
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 4DAA-C83B-80A6-992F e senha D47B-EFA3-27E2-9306
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 19
+
+AG.REG. NA RECLAMAÇÃO 87.885 RIO DE JANEIRO
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+ADV.(A/S)
+INTDO.(A/S)
+ADV.(A/S)
+INTDO.(A/S)
+
+: MIN. CRISTIANO ZANIN
+: LEONARDO FAGUNDES FERREIRA
+: LEONARDO FAGUNDES FERREIRA
+: LUCIANA LOPES DE ALMEIDA
+: SEM REPRESENTAÇÃO NOS AUTOS
+: VILMA DE JESUS FERNANDES
+: SEM REPRESENTAÇÃO NOS AUTOS
+: JUIZ DO TRABALHO DA 30ª VARA DO TRABALHO
+DO RIO DE JANEIRO
+: SEM REPRESENTAÇÃO NOS AUTOS
+: TRIBUNAL REGIONAL DO TRABALHO DA 1ª
+REGIÃO
+: SEM REPRESENTAÇÃO NOS AUTOS
+
+ADV.(A/S)
+INTDO.(A/S)
+ADV.(A/S)
+
+RELATÓRIO
+O Senhor Ministro CRISTIANO ZANIN (Relator): Trata-se de agravo
+regimental contra decisão que julgou improcedente a reclamação (doc.
+15).
+De início, o agravante defende que há aderência entre o ato
+reclamado e o teor da ADI 5.941/DF (doc. 16, p. 2).
+Na sequência, alega que:
+[...] A reclamação não pede que o STF reavalie provas —
+pede justamente que reconheça que elas inexistem, e que, ainda
+assim, o juízo reclamado presumiu ocultação de patrimônio;
+presumiu má-fé; presumiu capacidade econômica; presumiu
+comportamento protelatório, para tentar justificar o
+injustificável (doc. 16, p. 3).
+
+Aduz, ainda, que:
+[...] A reclamação aqui não substitui um recurso: ela é
+
+genuinamente o único meio existente para restaurar o
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 9A9D-7DCF-D7A9-7F96 e senha 025E-EE64-BE98-285A
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 4 de 19
+
+RCL 87885 AGR / RJ
+precedente vinculante violado e impedir que medidas atípicas
+se transformem em sanção civil inconstitucional (doc. 16, p. 4).
+
+Requer, ao final, o conhecimento e o provimento do agravo
+regimental.
+É o relatório.
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 9A9D-7DCF-D7A9-7F96 e senha 025E-EE64-BE98-285A
+
+Supremo Tribunal Federal
+Voto - MIN. CRISTIANO ZANIN
+
+Inteiro Teor do Acórdão - Página 5 de 19
+
+AG.REG. NA RECLAMAÇÃO 87.885 RIO DE JANEIRO
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+ADV.(A/S)
+INTDO.(A/S)
+ADV.(A/S)
+INTDO.(A/S)
+ADV.(A/S)
+INTDO.(A/S)
+ADV.(A/S)
+
+: MIN. CRISTIANO ZANIN
+: LEONARDO FAGUNDES FERREIRA
+: LEONARDO FAGUNDES FERREIRA
+: LUCIANA LOPES DE ALMEIDA
+: SEM REPRESENTAÇÃO NOS AUTOS
+: VILMA DE JESUS FERNANDES
+: SEM REPRESENTAÇÃO NOS AUTOS
+: JUIZ DO TRABALHO DA 30ª VARA DO TRABALHO
+DO RIO DE JANEIRO
+: SEM REPRESENTAÇÃO NOS AUTOS
+: TRIBUNAL REGIONAL DO TRABALHO DA 1ª
+REGIÃO
+: SEM REPRESENTAÇÃO NOS AUTOS
+VOTO
+
+O Senhor Ministro CRISTIANO ZANIN (Relator): Bem reexaminados
+os autos, entendo que o agravo regimental não merece prosperar.
+Por oportuno, transcrevo trecho da decisão recorrida:
+[...] A demanda não merece prosperar, por falta de
+aderência estrita do caso concreto à decisão vinculante
+proferida pelo Supremo Tribunal Federal, como será
+demonstrado.
+No caso, alega-se que o ato reclamado teria violado a
+decisão proferida pelo Supremo Tribunal Federal na ADI
+5.941/DF, que foi assim ementada:
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE.
+OS ARTIGOS 139, IV; 380, PARÁGRAFO ÚNICO; 400,
+PARÁGRAFO ÚNICO; 403, PARÁGRAFO ÚNICO; 536,
+CAPUT E §1º E 773, TODOS DO CÓDIGO DE PROCESSO
+CIVIL. MEDIDAS COERCITIVAS, INDUTIVAS OU SUBROGATÓRIAS.
+ATIPICIDADE
+DOS
+MEIOS
+EXECUTIVOS. PEDIDO DE DECLARAÇÃO DE
+INCONSTITUCIONALIDADE, SEM REDUÇÃO DE
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código F36C-8E70-396E-5F53 e senha 27BE-8476-50D7-DDC9
+
+Supremo Tribunal Federal
+Voto - MIN. CRISTIANO ZANIN
+
+Inteiro Teor do Acórdão - Página 6 de 19
+
+RCL 87885 AGR / RJ
+TEXTO, PARA AFASTAR, EM QUALQUER HIPÓTESE,
+A POSSIBILIDADE DE IMPOSIÇÃO JUDICIAL DE
+MEDIDAS COERCITIVAS, INDUTIVAS OU SUBROGATÓRIAS CONSISTENTES EM SUSPENSÃO DO
+DIREITO DE DIRIGIR, APREENSÃO DE PASSAPORTE E
+PROIBIÇÃO DE PARTICIPAÇÃO EM CONCURSOS
+PÚBLICOS OU EM LICITAÇÕES. AUSÊNCIA DE
+VIOLAÇÃO À PROPORCIONALIDADE. MEDIDAS QUE
+VISAM A TUTELAR AS GARANTIAS DE ACESSO À
+JUSTIÇA E DE EFETIVIDADE E RAZOÁVEL DURAÇÃO
+DO PROCESSO. INEXISTÊNCIA DE VIOLAÇÃO
+ABSTRATA E APRIORÍSTICA DA DIGNIDADE DO
+DEVEDOR. AÇÃO CONHECIDA E JULGADA
+IMPROCEDENTE. 1. O acesso à justiça reclama tutela
+judicial tempestiva, específica e efetiva sob o ângulo da
+sua realização prática. 2. A morosidade e inefetividade das
+decisões judiciais são lesivas à toda a sociedade,
+porquanto, para além dos efeitos diretos sobre as partes
+do processo, são repartidos pela coletividade os custos
+decorrentes da manutenção da estrutura institucional do
+Poder Judiciário, da movimentação da sua máquina e da
+prestação de assistência jurídica integral e gratuita aos que
+comprovarem insuficiência de recursos. 3. A efetividade e
+celeridade das decisões judiciais constitui uma das linhas
+mestras do processo civil contemporâneo, como se infere
+da inclusão, no texto constitucional, da garantia expressa
+da razoável duração do processo (artigo 5º, LXXVIII, após
+a Emenda Constitucional nº 45/2004) e da positivação,
+pelo Novo Código de Processo Civil, do direito das partes
+“de obter em prazo razoável a solução integral do mérito,
+incluída a atividade satisfativa” (grifei). 4. A execução ou
+satisfação daquilo que devido representa verdadeiro
+gargalo na prestação jurisdicional brasileira, mercê de os
+estímulos gerados pela legislação não terem logrado
+suplantar o cenário prevalente, marcado pela
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código F36C-8E70-396E-5F53 e senha 27BE-8476-50D7-DDC9
+
+Supremo Tribunal Federal
+Voto - MIN. CRISTIANO ZANIN
+
+Inteiro Teor do Acórdão - Página 7 de 19
+
+RCL 87885 AGR / RJ
+desconformidade geral e pela busca por medidas
+protelatórias e subterfúgios que permitem ao devedor se
+evadir de suas obrigações. 5. Os poderes do juiz no
+processo, por conseguinte, incluem “determinar todas as
+medidas indutivas, coercitivas, mandamentais ou subrogatórias necessárias para assegurar o cumprimento de
+ordem judicial, inclusive nas ações que tenham por objeto
+prestação pecuniária” (artigo 139, IV), obedecidos o
+devido processo legal, a proporcionalidade, a eficiência, e,
+notadamente, a sistemática positivada no próprio NCPC,
+cuja leitura deve ser contextualizada e razoável à luz do
+texto legal. 6. A amplitude semântica das cláusulas gerais
+permite ao intérprete/aplicador maior liberdade na
+concretização da fattispecie – o que, evidentemente, não o
+isenta do dever de motivação e de observar os direitos
+fundamentais e as demais normas do ordenamento
+jurídico e, em especial, o princípio da proporcionalidade.
+7. A significação de um mandamento normativo é
+alcançada quando se agrega, à filtragem constitucional, a
+interpretação sistemática da legislação infraconstitucional
+– do contrário, de nada aproveitaria a edição de códigos,
+microssistemas, leis interpretativas, meta-normas e
+cláusulas gerais. Essa assertiva assume ainda maior
+relevância diante do Direito codificado: o intérprete não
+pode permanecer indiferente ao esforço sistematizador
+inerente à elaboração de um código, mercê de se exigir do
+Legislador a repetição, ad nauseam, de preceitos
+normativos já explanados em títulos, capítulos e seções
+anteriores. 8. A correção da proporcionalidade das
+medidas executivas impostas pelo Poder Judiciário reside
+no sistema recursal consagrado pelo NCPC. 9. A
+flexibilização da tipicidade dos meios executivos visa a
+dar concreção à dimensão dialética do processo,
+porquanto o dever de buscar efetividade e razoável
+duração do processo é imputável não apenas ao Estado-
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código F36C-8E70-396E-5F53 e senha 27BE-8476-50D7-DDC9
+
+Supremo Tribunal Federal
+Voto - MIN. CRISTIANO ZANIN
+
+Inteiro Teor do Acórdão - Página 8 de 19
+
+RCL 87885 AGR / RJ
+juiz, mas, igualmente, às partes. 10. O Poder Judiciário
+deve gozar de instrumentos de enforcemente accountability
+do comportamento esperado das partes, evitando que
+situações antijurídicas sejam perpetuadas a despeito da
+existência de ordens judiciais e em razão da violação dos
+deveres de cooperação e boa-fé das partes – o que não se
+confunde com a punição a devedores que não detêm
+meios de adimplir suas obrigações. 11. A variabilidade e
+dinamicidade dos cenários com os quais as Cortes podem
+se deparar (e.g. tutelas ao meio ambiente, à probidade
+administrativa, à dignidade do credor que demanda
+prestação essencial à sua subsistência, ao erário e
+patrimônio públicos), torna impossível dizer, a priori, qual
+o valor jurídico a ter precedência, de modo que se impõe
+estabelecer o emprego do raciocínio ponderativo para
+verificar, no caso concreto, o escopo e a proporcionalidade
+da medida executiva, vis-à-vis a liberdade e autonomia da
+parte devedora. 12. In casu, o argumento da eventual
+possibilidade teórica de restrição irrazoável da liberdade
+do cidadão, por meio da aplicação das medidas de
+apreensão de carteira nacional de habilitação e/ou
+suspensão do direito de dirigir, apreensão de passaporte,
+proibição de participação em concurso público e proibição
+de participação em licitação pública, é imprestável a
+sustentar, só por si, a inconstitucionalidade desses meios
+executivos, máxime porque a sua adequação, necessidade
+e proporcionalidade em sentido estrito apenas ficará clara
+à luz das peculiaridades e provas existentes nos autos. 13.
+A excessiva demora e ineficiência do cumprimento das
+decisões judiciais, sob a perspectiva da análise econômica
+do direito, é um dos fatores integrantes do processo
+decisório de escolha racional realizado pelo agente
+quando deparado com os incentivos atinentes à
+propositura de uma ação, à interposição de um recurso, à
+celebração de um acordo e à resistência a uma execução.
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código F36C-8E70-396E-5F53 e senha 27BE-8476-50D7-DDC9
+
+Supremo Tribunal Federal
+Voto - MIN. CRISTIANO ZANIN
+
+Inteiro Teor do Acórdão - Página 9 de 19
+
+RCL 87885 AGR / RJ
+Num cenário de inefetividade generalizada das decisões
+judiciais, é possível que o devedor não tenha incentivos
+para colaborar na relação processual, mas, ao contrário,
+seja motivado a adotar medidas protelatórias, contexto em
+que, longe de apresentar estímulos para a atuação proba,
+célere e cooperativa das partes no processo, a legislação (e
+sua respectiva aplicação pelos julgadores) estará
+promovendo incentivos perversos, com maiores payoffs
+apontando para o descumprimento das determinações
+exaradas pelo Poder Judiciário. 14. A efetividade no
+cumprimento das ordens judiciais, destarte, não serve
+apenas para beneficiar o credor que logra obter seu
+pagamento ao fim do processo, mas incentiva,
+adicionalmente, uma postura cooperativa dos litigantes
+durante todas as fases processuais, contribuindo,
+inclusive, para a redução da quantidade e duração dos
+litígios. 15. In casu, não se pode concluir pela
+inconstitucionalidade de toda e qualquer hipótese de
+aplicação dos meios atípicos indicados na inicial, mercê de
+este entendimento, levado ao extremo, rechaçar quaisquer
+espaços de discricionariedade judicial e inviabilizar,
+inclusive, o exercício da jurisdição, enquanto atividade
+eminentemente criativa que é. Inviável, pois, pretender,
+apriorística e abstratamente, retirar determinadas medidas
+do leque de ferramentas disponíveis ao magistrado para
+fazer valer o provimento jurisdicional. 16. Ação direta de
+inconstitucionalidade conhecida e, no mérito, julgada
+improcedente (ADI 5.941/DF, Rel. Min. Luiz Fux, Tribunal
+Pleno, DJe 28/4/2023).
+A decisão proferida no mandado de segurança cível
+apresenta os seguintes fundamentos:
+[...] 5. A decisão de primeiro grau que indeferiu o
+pedido de prescrição intercorrente e determinou as
+medidas atípicas é uma decisão interlocutória proferida
+na fase de execução. Contra decisões interlocutórias
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código F36C-8E70-396E-5F53 e senha 27BE-8476-50D7-DDC9
+
+Supremo Tribunal Federal
+Voto - MIN. CRISTIANO ZANIN
+
+Inteiro Teor do Acórdão - Página 10 de 19
+
+RCL 87885 AGR / RJ
+proferidas na fase de execução, o recurso cabível é o
+agravo de petição, conforme o artigo 897, "a", da CLT,
+que, por sua vez, exige a garantia do juízo para sua
+admissibilidade, conforme o artigo 884 da CLT.
+6. No caso dos autos, o Agravo de Petição interposto
+pelo
+Impetrante não foi conhecido justamente por
+ausência de garantia do juízo, conforme o acórdão da 5ª
+Turma do TRT da 1ª Região (ID. 08466d1, fls. 8-10).
+7. Ocorre que a impossibilidade de conhecimento de
+um recurso
+por ausência de pressuposto de
+admissibilidade, como a garantia do juízo, não transmuda
+a natureza da decisão judicial impugnada para ato
+irrecorrível que justifique o mandado de segurança. A
+ausência de garantia do juízo é uma condição imposta
+pela própria legislação trabalhista para o prosseguimento
+da discussão recursal na fase de
+execução. A via
+processual adequada para discutir a manutenção da
+suspensão da CNH e das demais medidas restritivas,
+ainda que consideradas atípicas e gravosas, era
+a
+interposição regular do agravo de petição, com a devida
+garantia do juízo, ou a demonstração da impossibilidade
+de fazê-lo por hipossuficiência econômica efetiva e
+comprovada nos autos originários, o que não se confunde
+com o pedido de gratuidade no presente writ.
+8. Ademais, é fundamental destacar que o
+indeferimento de recurso por falta de pressuposto de
+admissibilidade não pode ser equiparado a um ato ilegal
+ou abusivo de autoridade que enseje o mandado de
+segurança. A decisão da 5ª Turma do TRT da 1ª Região,
+ao negar provimento ao agravo de instrumento em agravo
+de petição por ausência de garantia do juízo, pautou-se
+estritamente na aplicação do artigo 884 da CLT, que exige
+a segurança do juízo para a interposição de recursos na
+fase de execução. Essa é uma norma processual cogente e
+sua aplicação, per se, não configura ato abusivo ou ilegal,
+
+6
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código F36C-8E70-396E-5F53 e senha 27BE-8476-50D7-DDC9
+
+Supremo Tribunal Federal
+Voto - MIN. CRISTIANO ZANIN
+
+Inteiro Teor do Acórdão - Página 11 de 19
+
+RCL 87885 AGR / RJ
+mas sim o exercício regular da jurisdição. A insurgência
+do Impetrante, portanto, não se volta contra um ato
+judicial que viola direito líquido e certo de forma
+manifesta e teratológica, mas sim contra uma decisão que
+se alinha à sistemática processual trabalhista.
+9. Mesmo o aspecto da manutenção da suspensão da
+CNH, explicitado no acórdão da 5ª Turma (ID. 08466d1,
+fls. 8), quando se referiu ao indeferimento do pedido de
+"Tutela Cautelar Incidental", não altera o entendimento
+sobre a inadequação do mandado de segurança. Esta
+questão, igualmente, deveria ser objeto de recurso próprio
+no âmbito da execução, após a garantia do juízo. A
+discussão sobre a aplicabilidade, proporcionalidade e
+razoabilidade das medidas atípicas em execução, por
+mais relevante que seja, demanda a análise de provas e a
+observância do devido processo legal nos autos da
+execução, não podendo ser subvertida pela via estreita e
+excepcional do mandado de segurança. O
+mandamus
+como sucedâneo recursal, nem para contornar a ausência
+de pressupostos de admissibilidade de outros recursos.
+não pode ser utilizado
+10.A pretensão do Impetrante de que este Tribunal,
+via mandado de segurança, revogue medidas que foram
+objeto de decisão judicial transitada em julgado quanto à
+sua irrecorribilidade por ausência de garantia do juízo,
+implicaria em subversão da sistemática recursal e da
+própria finalidade do mandado de segurança. O ato
+judicial que o impetrante aponta como coator, em sua
+essência, está amparado em norma legal e foi proferido
+no âmbito do procedimento recursal próprio, ainda que
+tenha resultado no não conhecimento do recurso. A
+jurisprudência é pacífica no sentido de que o mandado de
+segurança não se presta para impugnar decisão judicial
+da qual caiba recurso, ainda que este não seja conhecido
+por ausência de pressuposto.
+
+7
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código F36C-8E70-396E-5F53 e senha 27BE-8476-50D7-DDC9
+
+Supremo Tribunal Federal
+Voto - MIN. CRISTIANO ZANIN
+
+Inteiro Teor do Acórdão - Página 12 de 19
+
+RCL 87885 AGR / RJ
+Do exposto, INDEFIRO a petição inicial e JULGO
+EXTINTO sem resolução do mérito. Custas de R$0,01,
+pelo impetrante, dispensado do pagamento (doc. 11, pp.
+4-5).
+Posteriormente, o Tribunal Superior do Trabalho – TST
+decidiu:
+[...] Conforme referido na decisão agravada, o
+Tribunal Regional não determinou a
+apreensão do
+passaporte do impetrante, tendo apenas destacado que
+não se revela cabível o agravo de petição quando não
+garantido o juízo.
+Desse modo, a suposta violência ou coação em sua
+liberdade de locomoção não partiu de ordem emanada do
+Tribunal Regional, mas do Juízo de primeiro grau, de
+modo que carece esta Corte Superior de competência para
+apreciação e julgamento do presente habeas corpus, sob
+pena violação ao princípio do Juiz natural.
+Ora, estabelece o art. 245, parágrafo único, VII, do
+RITST que compete ao Tribunal Superior do Trabalho
+julgar os recursos ordinários interpostos contra decisões
+definitivas proferidas pelos Tribunais Regionais em
+habeas corpus, bem como os habeas corpus originários
+substitutivos dos mencionados recursos ordinários, na
+medida em que o Tribunal Regional, ao proferir decisão
+definitiva, "passa a ser a autoridade coatora no momento
+em que examina o mérito do ‘habeas corpus’ impetrado
+no âmbito da Corte local" (Orientação Jurisprudencial n.
+156 da SbDI-2 do TST).
+Isso, todavia, não ocorreu no presente caso. Ao
+contrário, o presente habeas
+corpus originário foi
+impetrado contra ato praticado pelo Juízo da 30ª Vara do
+Trabalho do Rio de Janeiro, de modo que, reitere-se, não
+cabe à SbDI-2 deste TST apreciar e julgar o presente writ.
+Nesse sentido, já decidiu esta Subseção II
+Especializada em Dissídios Individuais,
+conforme
+
+8
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código F36C-8E70-396E-5F53 e senha 27BE-8476-50D7-DDC9
+
+Supremo Tribunal Federal
+Voto - MIN. CRISTIANO ZANIN
+
+Inteiro Teor do Acórdão - Página 13 de 19
+
+RCL 87885 AGR / RJ
+recentes decisões monocráticas proferidas nos processos
+TST-HCCiv-1001236 08.2024.5.00.0000, DEJT 24/12/2024,
+Relator Ministro Presidente Aloysio Silva Corrêa da Veiga,
+TST HCCiv-1001168-58.2024.5.00.0000, Relator Ministro
+Douglas Alencar Rodrigues, DEJT 9/12/2024 e TST HCCiv1001171-13.2024.5.00.0000, Relatora Ministra Liana Chaib,
+DEJT 3/12/2024.
+Ante o exposto, NEGO PROVIMENTO ao agravo
+(doc. 9, pp. 3-4).
+Constato que o Juízo de origem determinou:
+[...] DESPACHO - PJe - JT
+Inicialmente, dê-se ciência acerca do documento de
+id 128643e.Ato contínuo, verifico que a executada,
+devedora há anos nestes autos, requer a declaração da
+prescrição intercorrente, sem mencionar qualquer tipo de
+acordo ou possibilidade de pagamento do que é devido.
+Indefiro. Nesse passo, determino:
+[...]
+- Oficie-se à Polícia Federal, por meio
+eletrônico, determinando a inclusão de restrição de
+impedimento de expedição de passaporte e de saída do
+país no STI-MAR (Sistema de Tráfego Internacional Módulo de Alerta e Restrição), bem omo a suspensão
+dos respectivos passaportes no SINPA (Sistema
+Nacional de Passaportes), vinculados aos nacionais
+supracitados;
+5 - Oficie-se ao DETRAN/RJ e DETRAN/MG
+determinando a suspensão da CNH, bem como a
+restrição de circulação e transferência de quaisquer
+veículos de propriedade dos executados;
+6 - Ative-se o convênio INFOJUD/DIRPF para acesso
+à informação das últimas três declarações de imposto de
+renda dos executados;
+[...] Cumpra-se.
+Em apreço aos princípios da economia e celeridade
+processuais,o presente despacho tem força de ofício e
+
+9
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código F36C-8E70-396E-5F53 e senha 27BE-8476-50D7-DDC9
+
+Supremo Tribunal Federal
+Voto - MIN. CRISTIANO ZANIN
+
+Inteiro Teor do Acórdão - Página 14 de 19
+
+RCL 87885 AGR / RJ
+dispensa a confecção de expediente pela Secretaria da
+Vara (doc. 10).
+Na ADI 5.941/DF, o Supremo Tribunal Federal declarou a
+constitucionalidade dos arts. 139, IV; 297, caput; 380, parágrafo
+único; 403, parágrafo único; 536, caput e § 1º; e 773 do Código
+de Processo Civil, que cuidam de meios executivos atípicos. O
+paradigma, no entanto, deixou claro que cabe às instâncias do
+Poder Judiciário, de acordo com as suas competências, efetuar o
+juízo de proporcionalidade sobre as medidas coercitivas
+atípicas, aplicadas no caso concreto.
+Desse modo, a decisão reclamada, com base em
+elementos fáticos do caso concreto, e interpretando dispositivos
+e princípios processuais, entendeu que era necessária e
+proporcional a suspensão da CNH e do passaporte do
+executado.
+Nesse contexto, entendo que não há aderência estrita
+entre o ato reclamado e o conteúdo do paradigma apontado
+como violado, o que, em regra, nos termos da jurisprudência
+firme do Supremo Tribunal Federal, torna inviável o manejo da
+reclamação, em casos como este.
+Ademais, é incabível, em reclamação, o reexame dos fatos
+e provas nos quais se baseou a decisão reclamada.
+Com efeito, o julgamento da ADI 5.941/DF não deslocou
+para o Supremo Tribunal Federal a análise sobre a
+implementação ou não de medidas coercitivas de execução em
+cada processo existente no país. Conforme expresso na ementa
+do acórdão paradigma, “a correção da proporcionalidade das
+medidas executivas impostas pelo Poder Judiciário reside no
+sistema recursal consagrado pelo NCPC”.
+Nesse sentido é a jurisprudência de ambas as Turmas
+desta Suprema Corte:
+Agravo regimental em embargos de declaração em
+reclamação. ADI nº 5.941. Controvérsia acerca da
+proporcionalidade e da razoabilidade das medidas
+atípicas requeridas. Necessidade de reexame de fatos e
+
+10
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código F36C-8E70-396E-5F53 e senha 27BE-8476-50D7-DDC9
+
+Supremo Tribunal Federal
+Voto - MIN. CRISTIANO ZANIN
+
+Inteiro Teor do Acórdão - Página 15 de 19
+
+RCL 87885 AGR / RJ
+provas. Sucedâneo recursal. Agravo regimental não
+provido. 1. Segundo a decisão reclamada, os meios
+executivos atípicos requeridos não gozam de
+proporcionalidade e efetividade para o cumprimento da
+obrigação, ante a ausência de elementos concretos que
+demonstrem comportamento do devedor voltado à
+ocultação patrimonial. 2. O julgado na ADI nº 5.941 não
+atrai para o STF a análise da implementação ou não de
+medidas coercitivas de execução pretendidas no caso
+concreto, estando igualmente consignado na ementa do
+julgado
+paradigma
+que
+“[a]
+correção
+da
+proporcionalidade das medidas executivas impostas pelo
+Poder Judiciário reside no sistema recursal consagrado
+pelo NCPC”. 3. A pretensão veiculada na reclamação
+demanda o revolvimento do conjunto fático-probatório do
+caso concreto, providência incompatível com a atribuição
+constitucional do STF. 4. Agravo regimental não provido
+(Rcl 62.594 AgR/GO, Rel. Min. Dias Toffoli, Segunda
+Turma, DJe 15/4/2024 – grifei).
+AGRAVO REGIMENTAL EM RECLAMAÇÃO
+CONSTITUCIONAL.
+MEDIDAS
+ATÍPICAS
+DE
+EXECUÇÃO. SUPOSTA AFRONTA À ADI 5941.
+RECLAMAÇÃO CUJO SEGUIMENTO FOI NEGADO EM
+DECISÃO MONOCRÁTICA. AUSÊNCIA DE ESTRITA
+ADERÊNCIA. IMPOSSIBILIDADE DE REVOLVER
+FATOS E PROVAS E DE SE UTILIZAR A
+RECLAMAÇÃO COMO SUCEDÂNEO RECURSAL.
+AGRAVO
+REGIMENTAL
+A
+QUE
+SE
+NEGA
+PROVIMENTO. I. CASO EM EXAME 1. Cuida-se de
+agravo regimental interposto contra decisão monocrática
+que negou seguimento à reclamação constitucional
+ajuizada em face de decisão judicial que indeferiu pedido
+de medidas atípicas de execução nos autos de processo
+trabalhista. II. QUESTÃO EM DISCUSSÃO 2. Sustenta-se
+a inobservância do entendimento firmado por esta Corte
+
+11
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código F36C-8E70-396E-5F53 e senha 27BE-8476-50D7-DDC9
+
+Supremo Tribunal Federal
+Voto - MIN. CRISTIANO ZANIN
+
+Inteiro Teor do Acórdão - Página 16 de 19
+
+RCL 87885 AGR / RJ
+na ADI 5941, oportunidade em que restou assentada a
+constitucionalidade do art. 139, IV, do art. 380, parágrafo
+único, do art. 400, parágrafo único, do art. 403, parágrafo
+único, do art. 536, caput e §1º, e do art. 773 do CPC/2015.
+III. RAZÕES DE DECIDIR 3. Cabe ao juiz determinar
+todas as medidas indutivas, coercitivas, mandamentais ou
+sub-rogatórias necessárias para assegurar o cumprimento
+de ordem judicial, inclusive nas ações que tenham por
+objeto prestação pecuniária (art. 139, inciso IV, do Código
+de Processo Civil de 2015). 4. O julgador deverá aferir a
+adequação, necessidade e proporcionalidade em sentido
+estrito das medidas atípicas de execução à luz das
+peculiaridades e provas do caso concreto. 5. O
+entendimento firmado na ADI nº 5941 não desloca para o
+Supremo Tribunal Federal a análise da implementação
+ou não de medidas coercitivas de execução pretendidas
+em cada processo. Precedentes. 6. A análise do conjunto
+fático-probatório é imprescindível para o deferimento de
+medida atípica de execução. O revolvimento de fatos e
+provas é providência incompatível com a atribuição
+constitucional do Supremo Tribunal Federal. 7.
+Impossibilidade de a reclamação servir como sucedâneo
+recursal. IV. DISPOSITIVO 8. Agravo regimental a que se
+nega provimento (Rcl 65.995 AgR/SP, Rel. Min. Flávio
+Dino, Primeira Turma, DJe 28/6/2024 – grifei).
+EMBARGOS DE DECLARAÇÃO RECEBIDOS
+COMO AGRAVO REGIMENTAL. RECLAMAÇÃO
+CONSTITUCIONAL PROPOSTA PARA GARANTIR A
+AUTORIDADE DA DECISÃO PROFERIDA PELO
+SUPREMO TRIBUNAL FEDERAL NA AÇÃO DIRETA
+DE INCONSTITUCIONALIDADE 5.941/DF. AUSÊNCIA
+DE
+ADERÊNCIA
+ESTRITA.
+REANÁLISE
+DO
+CONJUNTO FÁTICO-PROBATÓRIO. INVIABILIDADE.
+RECLAMAÇÃO COMO SUCEDÂNEO RECURSAL.
+INVIABILIDADE. AGRAVO DESPROVIDO. I. Caso em
+
+12
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código F36C-8E70-396E-5F53 e senha 27BE-8476-50D7-DDC9
+
+Supremo Tribunal Federal
+Voto - MIN. CRISTIANO ZANIN
+
+Inteiro Teor do Acórdão - Página 17 de 19
+
+RCL 87885 AGR / RJ
+exame 1. Agravo regimental interposto contra decisão que
+julgou improcedente a reclamação, a qual foi proposta
+para garantir a observância da tese fixada pelo Supremo
+Tribunal no julgamento da Ação Direta de
+Inconstitucionalidade 5.941/DF. II. Questão em discussão
+2. Definir se, no caso concreto, as determinações do
+Tribunal de origem ofenderam o conteúdo da decisão
+paradigma indicada como violado. III. Razões de decidir
+3. No julgamento da ADI 5.941/DF, esta Suprema Corte
+assentou que cabe às instâncias do Poder Judiciário, de
+acordo com as suas competências, efetuar o juízo de
+proporcionalidade sobre as medidas coercitivas atípicas,
+aplicadas no caso concreto. 4. No caso, os meios
+executivos atípicos não foram considerados abstratamente
+inconstitucionais. A decisão da autoridade reclamada
+fundamentou-se na proporcionalidade da medida. 5. Não
+há aderência estrita entre o ato reclamado e o conteúdo
+dos paradigmas apontados como violados, o que, nos
+termos da jurisprudência firme do Supremo Tribunal
+Federal, torna inviável o manejo da reclamação nesses
+casos. 6. Dissentir das razões adotadas pela Justiça
+Trabalhista demandaria o reexame do conjunto fáticoprobatório dos autos, circunstância também não admitida
+em reclamação constitucional. 7. A intenção da agravante
+é utilizar a reclamação como sucedâneo recursal,
+finalidade que não se compatibiliza com a sua destinação
+constitucional. IV. Dispositivo e tese 8. Agravo regimental
+desprovido (Rcl 80.127 ED, da minha relatoria, Primeira
+Turma, DJe 8/8/2025).
+Veja-se também a decisão proferida na Rcl 69.940/SP, da
+minha relatoria, DJe 13/8/2024.
+O que pretende o reclamante, na verdade, é usar o
+instrumento processual da reclamação como sucedâneo
+recursal, finalidade essa que não converge com a sua destinação
+constitucional (Rcl 20.807 AgR/PB, Rel. Min. Celso de Mello,
+
+13
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código F36C-8E70-396E-5F53 e senha 27BE-8476-50D7-DDC9
+
+Supremo Tribunal Federal
+Voto - MIN. CRISTIANO ZANIN
+
+Inteiro Teor do Acórdão - Página 18 de 19
+
+RCL 87885 AGR / RJ
+Segunda Turma, DJe 16/9/2015; e Rcl 58.093 AgR/BA, da minha
+relatoria, Primeira Turma, DJe 31/8/2023).
+Ante o exposto, julgo improcedente esta reclamação (art.
+161, parágrafo único, do RISTF). Em consequência, fica
+prejudicado o exame do pedido de liminar.
+Sem condenação em honorários, pois não houve
+angularização processual (doc. 15).
+
+No julgamento da ADI 5.941/DF, esta Suprema Corte assentou que
+cabe às instâncias do Poder Judiciário, de acordo com as suas
+competências, efetuar o juízo de proporcionalidade sobre as medidas
+coercitivas atípicas, aplicadas no caso concreto.
+A decisão reclamada, com base em elementos fáticos do caso
+concreto, e interpretando dispositivos e princípios processuais, entendeu
+que era necessária e proporcional a suspensão da CNH e do passaporte
+do executado.
+Nesse cenário, não há aderência estrita entre os fundamentos do ato
+impugnado e o conteúdo do paradigma apontado como violado, o que,
+em regra, nos termos da jurisprudência firme do Supremo Tribunal
+Federal, torna inviável o manejo da reclamação.
+Ademais, dissentir das razões adotadas pelas instâncias ordinárias
+demandaria o reexame do conjunto fático-probatório dos autos, o que não
+se admite em reclamação.
+Ressalto, ainda, que a reclamação não pode ser utilizada como
+sucedâneo de recurso, conforme jurisprudência consolidada desta
+Suprema Corte.
+Posto isso, nego provimento ao agravo regimental.
+É como voto.
+14
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código F36C-8E70-396E-5F53 e senha 27BE-8476-50D7-DDC9
+
+Supremo Tribunal Federal
+Extrato de Ata - 30/12/2025
+
+Inteiro Teor do Acórdão - Página 19 de 19
+
+PRIMEIRA TURMA
+
+EXTRATO DE ATA
+
+AG.REG. NA RECLAMAÇÃO 87.885 RIO DE JANEIRO
+PROCED. : RIO DE JANEIRO/RJ
+RELATOR(A): MIN. CRISTIANO ZANIN
+AGTE.(S): LEONARDO FAGUNDES FERREIRA
+ADV.(A/S): LEONARDO FAGUNDES FERREIRA (148888/MG)
+AGDO.(A/S): LUCIANA LOPES DE ALMEIDA
+ADV.(A/S): SEM REPRESENTAÇÃO NOS AUTOS
+INTDO.(A/S): VILMA DE JESUS FERNANDES
+ADV.(A/S): SEM REPRESENTAÇÃO NOS AUTOS
+INTDO.(A/S): JUIZ DO TRABALHO DA 30ª VARA DO TRABALHO DO RIO DE
+JANEIRO
+ADV.(A/S): SEM REPRESENTAÇÃO NOS AUTOS
+INTDO.(A/S): TRIBUNAL REGIONAL DO TRABALHO DA 1ª REGIÃO
+ADV.(A/S): SEM REPRESENTAÇÃO NOS AUTOS
+Decisão: A Turma, por unanimidade, negou provimento ao agravo
+regimental, nos termos do voto do Relator, Ministro Cristiano Zanin.
+Primeira Turma, Sessão Virtual de 12.12.2025 a 19.12.2025.
+Composição: Ministros Flávio Dino (Presidente), Cármen Lúcia,
+Alexandre de Moraes e Cristiano Zanin.
+Cintia da Silva Gonçalves
+Secretária da Primeira Turma
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código ED7F-C74F-2F90-8F0C e senha FADE-F075-DBBF-E648
