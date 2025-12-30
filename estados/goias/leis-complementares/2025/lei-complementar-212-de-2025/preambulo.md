@@ -1,0 +1,3 @@
+# LEI COMPLEMENTAR Nº 212, DE 30 DE DEZEMBRO DE 2025
+Altera a Lei Complementar nº 169, de 29 de dezembro de 2021, que reformula e disciplina a Rede Metropolitana de Transporte Coletivo da Grande Goiânia, também reestrutura a Câmara Deliberativa de Transportes Coletivos e a Companhia Metropolitana de Transportes Coletivos, e a Lei nº 21.792, de 16 de fevereiro de 2023, que estabelece a organização administrativa básica do Poder Executivo e dá outras providências.
+A ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei Complementar:
