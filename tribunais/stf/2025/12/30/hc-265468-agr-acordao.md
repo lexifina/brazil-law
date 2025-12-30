@@ -1,0 +1,1642 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 35
+
+30/12/2025
+
+SEGUNDA TURMA
+
+AG.REG. NO HABEAS CORPUS 265.468 SÃO PAULO
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+
+: MIN. LUIZ FUX
+: JARDELSON GALVAO SERRA
+: DOUGLAS TEODORO FONTES E OUTRO(A/S)
+: SUPERIOR TRIBUNAL DE JUSTIÇA
+
+EMENTA: AGRAVO INTERNO NO HABEAS CORPUS. PENAL E
+PROCESSUAL PENAL. CRIMES DE TRÁFICO ILÍCITO DE
+ENTORPECENTES E DE CORRUPÇÃO ATIVA. ARTIGO 33 DA LEI
+Nº 11.343/2006 E ART. 333 DO CÓDIGO PENAL. ALEGADA
+NULIDADE DE PROVA. PLEITO ABSOLTÓRIO. PEDIDO DE
+DESCLASSIFICAÇÃO. REDISCUSSÃO DE CRITÉRIOS DE
+DOSIMETRIA DA PENA. INOCORRÊNCIA DE TRÁFICO
+PRIVILEGIADO.
+FUNDAMENTAÇÃO
+IDÔNEA
+PELAS
+INSTÂNCIAS ORDINÁRIAS. REVOLVIMENTO DO CONJUNTO
+FÁTICO-PROBATÓRIO
+ENGENDRADO
+NOS
+AUTOS.
+INADMISSIBILIDADE NA VIA ELEITA. IMPOSSIBILIDADE DE
+UTILIZAÇÃO DO HABEAS CORPUS COMO SUCEDÂNEO DE
+RECURSO OU REVISÃO CRIMINAL. REITERAÇÃO DAS RAZÕES.
+AGRAVO INTERNO DESPROVIDO.
+1. A busca pessoal e domiciliar realizada pela autoridade policial
+diante da presença de elementos mínimos a caracterizar fundadas razões
+(justa causa) para a medida, ainda que ausente autorização judicial
+prévia, é admitida pela jurisprudência do STF, sendo certa a possibilidade
+de controle jurisdicional posterior, no bojo da ação penal, seara adequada
+ao revolvimento do arcabouço fático-probatório. Precedentes: HC
+212.682-AgR, Primeira Turma, Rel. Min. Rosa Weber, DJe de 18/4/2022;
+HC 213.895-AgR, Segunda Turma, Rel. Min. Edson Fachin, DJe de
+17/2/2023; HC 228.060-AgR, Segunda Turma, Rel. Min. Dias Toffoli, DJe
+de 4/7/2023.
+2. O pedido de desclassificação da conduta é incognoscível na via do
+habeas corpus quando indissociável da indevida incursão na moldura
+fática. Precedentes: HC nº 240.168-AgR, Segunda Turma, Rel. Min. Nunes
+Marques, DJe de 19/9/2024; HC nº 222.957-AgR, Primeira Turma, Rel.
+Min. Roberto Barroso, DJe de 27/2/2023; HC nº 232.036-AgR, Primeira
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 1736-D986-D871-833F e senha 8C9C-B2A8-657F-391A
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 2 de 35
+
+HC 265468 AGR / SP
+Turma, Rel. Min. Cristiano Zanin, DJe de 16/10/2023; RHC nº 243.443AgR, Primeira Turma, Rel. Min. Flávio Dino, DJe de 16/9/2024; HC nº
+240.693-AgR, Segunda Turma, Rel. Min. Dias Toffoli, DJe de 14/6/2024.
+3. O habeas corpus é incompatível com o exame de suposta
+insuficiência probatória, porquanto indissociável da indevida incursão na
+moldura fática. Precedentes: RHC nº 203.155-AgR, Segunda Turma, Rel.
+Min. Nunes Marques, DJe de 17/12/2021; HC nº 206.244-AgR, Primeira
+Turma, Rel. Min. Alexandre de Moraes, DJe de 22/10/2021.
+4. A dosimetria da pena, bem como os critérios subjetivos
+considerados pelos órgãos inferiores para a sua realização, são
+insindicáveis na via estreita do habeas corpus por demandar minucioso
+exame fático e probatório inerente a meio processual diverso.
+Precedentes: HC nº 114.650, Primeira Turma, Rel. Min. Luiz Fux, DJe de
+14/8/2013; HC 240.022-AgR, Segunda Turma, Rel. Min. Dias Toffoli, DJe
+de 10/6/2024; RHC nº 247.538-AgR, Rel. Min. Nunes Marques, Segunda
+Turma, DJe de 21/5/2025.
+5. O reconhecimento do tráfico privilegiado requer o preenchimento
+cumulativo dos vetores estabelecidos pelo legislador. Precedentes: HC
+194.313-AgR, Segunda Turma, Rel. Min. Edson Fachin, DJe de 12/8/2021;
+HC 232.620-AgR, Primeira Turma, Rel. Min. Cristiano Zanin, DJe de
+2/2/2024.
+6. In casu, o paciente foi condenado à pena de 09 (nove) anos, 06
+(seis) meses e 10 (dez) dias de reclusão, pela prática dos crimes tipificados
+nos artigos 33 da Lei nº 11.343/2006 e 333 do Código Penal. A condenação
+transitou em julgado.
+7. O habeas corpus é ação inadequada para a valoração e exame
+minucioso do acervo fático-probatório engendrado nos autos.
+8. O habeas corpus é impassível de ser manejado como sucedâneo de
+recurso ou revisão criminal.
+9. O Relator guarda poderes para, monocraticamente, negar
+seguimento a pedido ou recurso manifestamente inadmissível,
+improcedente ou contrário a jurisprudência dominante ou a súmula do
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 1736-D986-D871-833F e senha 8C9C-B2A8-657F-391A
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 3 de 35
+
+HC 265468 AGR / SP
+Tribunal, sendo certa a ausência de violação ao princípio da colegialidade
+quando do exercício dessa faculdade (art. 21, § 1º, RISTF).
+10. A impugnação específica da decisão agravada, quando ausente,
+conduz ao desprovimento do agravo interno. Precedentes: HC nº 221.579AgR, Segunda Turma, Rel. Min. Edson Fachin, DJe de 3/2/2023; HC nº
+222.412-AgR, Primeira Turma, Rel. Min. Roberto Barroso, DJe de
+28/2/2023.
+11. A reiteração dos argumentos trazidos pelo agravante na petição
+inicial da impetração é insuscetível de modificar a decisão agravada.
+Precedentes: HC 136.071-AgR, Segunda Turma, Rel. Min. Ricardo
+Lewandowski, DJe de 9/5/2017; HC 122.904-AgR, Primeira Turma, Rel.
+Min. Edson Fachin, DJe de 17/5/2016; RHC 124.487-AgR, Primeira Turma,
+Rel. Min. Roberto Barroso, DJe de 1º/7/2015.
+12. Agravo interno DESPROVIDO.
+ACÓRDÃO
+A Segunda Turma do Supremo Tribunal Federal, na conformidade
+da ata de julgamento virtual de 12 a 19/12/2025, por unanimidade, negou
+provimento ao agravo regimental, nos termos do voto do Relator,
+Ministro Luiz Fux.
+Publique-se.
+Brasília, 22 de dezembro de 2025.
+Ministro LUIZ FUX
+Relator
+
+Documento assinado digitalmente
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 1736-D986-D871-833F e senha 8C9C-B2A8-657F-391A
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 4 de 35
+
+AG.REG. NO HABEAS CORPUS 265.468 SÃO PAULO
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+
+: MIN. LUIZ FUX
+: JARDELSON GALVAO SERRA
+: DOUGLAS TEODORO FONTES E OUTRO(A/S)
+: SUPERIOR TRIBUNAL DE JUSTIÇA
+RELATÓRIO
+
+O SENHOR MINISTRO LUIZ FUX (RELATOR): Trata-se de agravo
+interno, interposto por JARDELSON GALVAO SERRA, contra decisão de
+minha relatoria que negou seguimento a pedido de habeas corpus e restou
+assim ementada:
+“HABEAS CORPUS. PENAL E PROCESSUAL PENAL.
+CRIMES DE TRÁFICO ILÍCITO DE ENTORPECENTES E DE
+CORRUPÇÃO ATIVA. ARTIGO 33 DA LEI Nº 11.343/2006 E
+ART. 333 DO CÓDIGO PENAL. ALEGADA NULIDADE DE
+PROVA.
+PLEITO
+ABSOLTÓRIO.
+PEDIDO
+DE
+DESCLASSIFICAÇÃO. REDISCUSSÃO DE CRITÉRIOS DE
+DOSIMETRIA DA PENA. INOCORRÊNCIA DE TRÁFICO
+PRIVILEGIADO. FUNDAMENTAÇÃO IDÔNEA PELAS
+INSTÂNCIAS
+ORDINÁRIAS.
+REVOLVIMENTO
+DO
+CONJUNTO FÁTICO-PROBATÓRIO ENGENDRADO NOS
+AUTOS.
+INADMISSIBILIDADE
+NA
+VIA
+ELEITA.
+IMPOSSIBILIDADE DE UTILIZAÇÃO DO HABEAS CORPUS
+COMO SUCEDÂNEO DE RECURSO OU REVISÃO
+CRIMINAL.”
+
+A defesa manejou habeas corpus contra acórdão do Superior Tribunal
+de Justiça no HC nº 1.044.614, in verbis:
+“DIREITO
+PROCESSUAL
+PENAL.
+AGRAVO
+REGIMENTAL. HABEAS CORPUS SUBSTITUTIVO DE
+REVISÃO
+CRIMINAL.
+INDEFERIMENTO
+LIMINAR.
+AUSÊNCIA DE ILEGALIDADE FLAGRANTE. AGRAVO
+REGIMENTAL DESPROVIDO.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 380E-7AA2-71DD-B5B3 e senha 5B61-5E72-DADE-6372
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 5 de 35
+
+HC 265468 AGR / SP
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática que
+indeferiu liminarmente habeas corpus substitutivo de revisão
+criminal, impetrado contra acórdão do Tribunal de Justiça do Estado
+de São Paulo.
+2. O paciente foi condenado à pena de 10 anos, 10 meses e 20
+dias de reclusão e 791 diasmulta pela prática dos crimes previstos nos
+artigos 33, caput, da Lei n. 11.343/2006 e 333 do Código Penal. Em
+sede de apelação, o Tribunal de Justiça do Estado de São Paulo
+redimensionou a pena para 9 anos, 6 meses e 10 dias de reclusão e 692
+dias-multa, com trânsito em julgado em 17 de maio de 2024.
+3. Após o trânsito em julgado, foi impetrado habeas corpus, em
+substituição à revisão criminal, com o objetivo de anular a busca e
+apreensão que embasou a condenação e obter a absolvição do
+agravante. Subsidiariamente, pleiteou-se a desclassificação da conduta
+para o tipo previsto no art. 28 da Lei n. 11.343/2006, o
+reconhecimento do tráfico privilegiado ou a fixação de regime inicial
+mais brando para o cumprimento da pena.
+4. O habeas corpus foi indeferido liminarmente, com
+fundamento na jurisprudência do Superior Tribunal de Justiça, que
+não admite habeas corpus substitutivo de revisão criminal.
+5. No agravo regimental, o agravante defendeu a possibilidade
+de concessão da ordem de ofício, mesmo sendo o habeas corpus
+substitutivo de revisão criminal.
+II. QUESTÃO EM DISCUSSÃO
+6. A questão em discussão consiste em saber se há ilegalidade
+flagrante que autorize a concessão da ordem de ofício em habeas corpus
+substitutivo de revisão criminal.
+III. RAZÕES DE DECIDIR
+7. O habeas corpus foi indeferido liminarmente por ser
+substitutivo de revisão criminal, em conformidade com a
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 380E-7AA2-71DD-B5B3 e senha 5B61-5E72-DADE-6372
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 6 de 35
+
+HC 265468 AGR / SP
+jurisprudência do Superior Tribunal de Justiça.
+8. Não foi constatada ilegalidade flagrante no acórdão
+impugnado que justificasse a concessão da ordem de ofício.
+9. A busca e apreensão foi considerada válida pelo Tribunal de
+origem, que afastou a tese de nulidade e de flagrante forjado, com base
+na dinâmica dos fatos e nos depoimentos dos agentes.
+10. A desclassificação para o artigo 28 da Lei n. 11.343/2006 foi
+indeferida, considerando-se a expressiva quantidade de droga
+apreendida, os apetrechos encontrados e os elementos que evidenciam o
+dolo de tráfico.
+11. O reconhecimento do tráfico privilegiado foi afastado em
+razão dos maus antecedentes e da reincidência específica do agravante,
+que demonstram habitualidade delitiva e impedem a concessão do
+benefício.
+12. O pedido de fixação de regime inicial mais brando foi
+considerado prejudicado em razão da pena restritiva de liberdade
+estabelecida.
+IV. DISPOSITIVO E TESE
+13. Resultado do Julgamento: Agravo regimental desprovido.
+Tese de julgamento:1. O habeas corpus não pode ser utilizado como
+sucedâneo de revisão criminal, salvo em casos de flagrante ilegalidade.
+2. A busca e apreensão realizada com autorização do acusado e de sua
+genitora, corroborada por elementos probatórios, é válida e não
+caracteriza flagrante forjado. 3. A desclassificação para o artigo 28 da
+Lei n. 11.343/2006 é inviável quando há elementos que evidenciem o
+dolo de tráfico, como quantidade expressiva de droga e apetrechos
+relacionados à mercancia. 4. O tráfico privilegiado não pode ser
+reconhecido em casos de reincidência específica e maus antecedentes,
+que demonstram habitualidade delitiva.”
+
+Colhe-se dos autos que o paciente foi condenado à pena de 10 (dez)
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 380E-7AA2-71DD-B5B3 e senha 5B61-5E72-DADE-6372
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 7 de 35
+
+HC 265468 AGR / SP
+anos, 10 (dez) meses e 20 (vinte) dias de reclusão, pela prática dos crimes
+tipificados nos artigos 33 da Lei nº 11.343/2006 e 333 do Código Penal.
+O recurso de apelação foi parcialmente provido pelo Tribunal de
+origem para redimensionar a pena para 09 (nove) anos, 06 (seis) meses e
+10 (dez) dias de reclusão. A condenação transitou em julgado.
+Foi manejado habeas corpus perante o Superior Tribunal de Justiça,
+que indeferiu liminarmente o writ. O agravo regimental interposto foi
+julgado nos termos da ementa acima transcrita.
+Na presente impetração, a defesa sustentou a ocorrência de
+constrangimento ilegal consubstanciado em supostas nulidades de prova,
+na condenação do paciente e na dosimetria da pena.
+Aduziu que “a entrada na residência foi através de autorização escrita pelo
+paciente e por sua genitora. Ocorre que tal autorização não consta nos autos e o
+depoimento do paciente e sua genitora é contrário aos dos policiais, alegando eles
+que não autorizaram o ingresso na residência”. Argumentou que “denúncias
+anônimas ou informações sem qualquer lastro ou verificação de sua origem não
+podem servir, nem de longe, de justificativa apta a validar a invasão de domicílio
+de um cidadão presumidamente inocente, muito menos para deflagrar uma ação
+penal, já que, para tanto, necessário justa causa”. Sustentou a “atipicidade da
+conduta por ausência dos elementos objetivos e subjetivos do tipo penal previsto
+no art. 33 da Lei 11.343/06” e alegou que “caso não seja o entendimento de
+Vossas Excelências pela absolvição do paciente, tem-se que a conduta merece ser
+desclassificada para o delito de menor potencial ofensivo de posse de drogas”.
+Ponderou, também, que o tráfico privilegiado “é perfeitamente aplicável ao
+caso concreto, posto que exige o preenchimento de alguns requisitos, quais sejam:
+apesar de portador de maus antecedentes, era reú ressocializado e as provas
+carreadas aos autos demonstraram a ínfima quantidade de droga que o paciente
+trazia consigo e, ainda, não há nos autos nenhum elemento probatório que
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 380E-7AA2-71DD-B5B3 e senha 5B61-5E72-DADE-6372
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 8 de 35
+
+HC 265468 AGR / SP
+comprove a participação dele em organizações criminosas, o que justifica a
+aplicação do redutor”. Ainda, defendeu que “a imputação referente ao delito de
+corrupção ativa (art. 333, caput, do Código Penal) não encontra amparo
+probatório mínimo capaz de sustentar a condenação imposta” e que “não foi
+dosada a pena imputada ao paciente da maneira cabível”.
+Negado seguimento ao writ, sobreveio o presente agravo interno, no
+qual a defesa reitera as razões anteriormente expendidas e arrazoa que
+“por se tratar de matéria de ordem pública, deve ser analisado pelo colegiado”.
+Por fim, formula pedido recursal nos seguintes termos:
+“Ante os fatos e fundamentos aqui expostos, requer se digne essa
+Colenda turma a dar provimento ao presente Agravo, para:
+a) Declarar a nulidade da decisão proferida pelo relator do
+Habeas Corpus.
+b) Seja dado INTEGRAL PROVIMENTO ao presente agravo
+regimental.
+c) Como critério de ordem pública, que seja reconhecido as
+nulidades avençadas no habeas corpus.
+d) Caso entenda pela mantença da sentença condenatória,
+entende-se que a prisão e a pena imposta para o agravante são
+desproporcionais, portanto, requer que o regime inicial seja alterado
+para o aberto ou no máximo o regime semiaberto e a pena seja
+exasperada no mínimo legal.
+a) Isto tudo para o fim de adequar a pena e o regime em que foi
+condenado o agravante, para um regime e uma pena mais proporcional
+ao caso em tela, sendo que este não traz qualquer risco para a sociedade
+ou para ordem econômica, entendimento este à luz dos postulados
+constitucionalmente consagrados.”
+
+É o relatório.
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 380E-7AA2-71DD-B5B3 e senha 5B61-5E72-DADE-6372
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 9 de 35
+
+AG.REG. NO HABEAS CORPUS 265.468 SÃO PAULO
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+
+: MIN. LUIZ FUX
+: JARDELSON GALVAO SERRA
+: DOUGLAS TEODORO FONTES E OUTRO(A/S)
+: SUPERIOR TRIBUNAL DE JUSTIÇA
+VOTO
+
+O SENHOR MINISTRO LUIZ FUX (RELATOR): A presente irresignação
+não merece prosperar.
+Em que pese as alegações expendidas no agravo, resta evidenciado
+das razões recursais que a parte recorrente não trouxe nenhum
+argumento capaz de infirmar a decisão hostilizada, razão pela qual deve
+ela ser mantida, por seus próprios fundamentos.
+Inicialmente, cabe pontuar que esta Corte sufraga o entendimento no
+sentido de a exegese do artigo 21, § 1º, do Regimento Interno do Supremo
+Tribunal Federal conferir ao Relator a prerrogativa de, monocraticamente,
+negar seguimento a pedido ou recurso manifestamente inadmissível,
+improcedente ou contrário a jurisprudência dominante ou a súmula do
+Tribunal. Por oportuno, trago à colação:
+Direito processual penal. Agravo regimental em habeas corpus.
+Crimes contra crianças e adolescentes. Alegação de nulidade.
+Inexistência. Jurisprudência do Supremo Tribunal Federal. 1. O
+entendimento do Supremo Tribunal Federal é no sentido de que
+inexiste violação ao princípio da colegialidade quando o Ministro
+Relator decide monocraticamente com base nos arts. 21, § 1º, e 192 do
+RI/STF, “especialmente na hipótese em que a decisão reproduz
+compreensão consolidada da Corte. Precedentes” (HC 215.226-AgR,
+Rel. Min. Edson Fachin). Precedentes. 2. No caso, o Relator do AREsp
+1.922.934, no Superior Tribunal de Justiça, Ministro Antonio
+Saldanha Palheiro, deu provimento ao recurso especial para afastar a
+aplicação do princípio da consunção, restabelecendo integralmente a
+sentença condenatória, tendo em vista que o acórdão regional estava
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 9BE4-D57F-3D4E-7E87 e senha AF66-D4A3-EBA8-E237
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 10 de 35
+
+HC 265468 AGR / SP
+em dissonância com a orientação jurisprudencial daquela Corte. De
+modo que, em razão do julgamento monocrático do referido recurso,
+não há falar em intimação da defesa para sustentar oralmente suas
+razões. 3. Agravo regimental a que se nega provimento. (HC 220.271AgR, Primeira Turma, Rel. Min. Roberto Barroso, DJe de
+1º/12/2022)
+AGRAVO REGIMENTAL EM HABEAS CORPUS.
+INCIDÊNCIA DA SÚMULA 283 DESTA SUPREMA CORTE.
+ALEGADA VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE:
+NÃO OCORRÊNCIA. AGRAVO AO QUAL SE NEGA
+PROVIMENTO. I - Ao apenas questionar a possibilidade de
+Ministros desta Suprema Corte decidirem questões de mérito
+monocraticamente, o agravante deixou de infirmar os fundamentos
+lançados no decisum ora atacado, mantendo-os hígidos. Assim, incide
+na espécie, por analogia, a Súmula 283 desta Suprema Corte. II – O
+art. 192, caput, do Regimento Interno do Supremo Tribunal Federal
+estabelece que, “[quando] a matéria for objeto de jurisprudência
+consolidada do Tribunal, o Relator poderá desde logo denegar ou
+conceder a ordem, ainda que de ofício, à vista da documentação da
+petição inicial ou do teor das informações”. Deste modo, “[a] atuação
+monocrática, com observância das balizas estabelecidas nos arts. 21, §
+1°, e 192, caput, do RISTF, não traduz violação ao princípio da
+colegialidade, especialmente na hipótese em que a decisão reproduz
+compreensão consolidada da Corte” (HC 213.933-ED-AgR/RJ, Rel.
+Min. Edson Fachin, Segunda Turma). III - Agravo ao qual se nega
+provimento. (HC 221.172-AgR, Segunda Turma, Rel. Min.
+Ricardo Lewandowski, DJe de 16/11/2022)
+
+Ademais, observo que a parte recorrente se limitou a reiterar parte
+dos argumentos expostos na petição inicial e já refutados exaustivamente
+na decisão ora agravada. Assim, ao insistir em repetir os argumentos
+constantes da exordial, silenciando sobre os fundamentos da decisão
+concernentes i) à insuscetibilidade de revolvimento do conjunto fático
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 9BE4-D57F-3D4E-7E87 e senha AF66-D4A3-EBA8-E237
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 11 de 35
+
+HC 265468 AGR / SP
+probatório engendrado nos autos; ii) à consonância do entendimento
+sufragado pelo Tribunal a quo com a jurisprudência desta Suprema Corte;
+e iii) à impossibilidade de utilização do habeas corpus como sucedâneo de
+recurso ou revisão criminal, deixou-se de impugnar fundamentos da
+decisão agravada, não sendo suficiente a mera negação genérica. Nesse
+sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS.
+PROCESSUAL PENAL. TRÁFICO DE ENTORPECENTE.
+REITERAÇÃO DE IMPETRAÇÃO ANTERIOR JULGADA PELO
+SUPREMO
+TRIBUNAL
+FEDERAL:
+IMPOSSIBILIDADE.
+AUSÊNCIA
+DE
+IMPUGNAÇÃO
+ESPECÍFICA
+DE
+FUNDAMENTO
+DA
+DECISÃO
+MONOCRÁTICA:
+INVIABILIDADE. AGRAVO REGIMENTAL NÃO CONHECIDO.
+(HC 218.637-AgR, Primeira Turma, Rel. Min. Cármen Lúcia, DJe
+de 15/9/2022)
+AGRAVO
+INTERNO
+EM
+HABEAS
+CORPUS.
+PRETENDIDO
+ABRANDAMENTO
+DE
+REGIME
+DE
+CUMPRIMENTO DE PENA. AUSÊNCIA DE IMPUGNAÇÃO
+ESPECIFICADA. TRÁFICO PRIVILEGIADO AFASTADO COM
+FUNDAMENTO
+NA
+DEDICAÇÃO
+A
+ATIVIDADES
+CRIMINOSAS. NECESSÁRIO REEXAME DO CONTEXTO
+FÁTICO-PROBATÓRIO. HABEAS CORPUS INDEFERIDO. 1. É
+inviável o agravo interno que deixa de atacar especificadamente os
+fundamentos da decisão agravada (CPC, art. 1.021, § 1º, c/c CPP, art.
+3º). 2. A dosimetria da pena é matéria sujeita a certo grau de
+discricionariedade, o que não afasta o controle de legalidade e
+constitucionalidade dos critérios e da motivação utilizados. 3. A
+aplicação da causa de diminuição prevista no § 4º do art. 33 da Lei n.
+11.343/2006 foi afastada com fundamento na dedicação a atividades
+criminosas. 4. É inadmissível, na via estreita do habeas corpus, a qual
+não comporta dilação probatória, o reexame, com vistas ao acolhimento
+da tese defensiva – descaracterização da dedicação do agravante a
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 9BE4-D57F-3D4E-7E87 e senha AF66-D4A3-EBA8-E237
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 12 de 35
+
+HC 265468 AGR / SP
+atividades criminosas –, do conjunto fático-probatório produzido nas
+instâncias ordinárias. 5. Agravo interno parcialmente conhecido e
+desprovido. (HC 214.068 AgR, Segunda Turma, Rel. Min. Nunes
+Marques, DJe de 15/9/2022)
+
+Noutro giro, consoante estabelecido na decisão impugnada, inexiste
+situação que permita a concessão da ordem de ofício, ante a ausência de
+teratologia na decisão atacada, flagrante ilegalidade ou abuso de poder.
+Por oportuno, vale a transcrição da fundamentação adotada no âmbito do
+Superior Tribunal de Justiça, naquilo que interessa, in verbis:
+“[...] O agravante pretende que o agravo regimental seja
+conhecido e provido, para que o habeas corpus seja conhecido e a ordem
+concedida com o objetivo de anular a busca e apreensão que
+fundamentou
+a
+condenação,
+resultando
+na
+absolvição.
+Alternativamente, requer a desclassificação da conduta para o tipo
+previsto no artigo 28 da Lei 11.343/2006 ou o reconhecimento do
+tráfico privilegiado, com a fixação de regime inicial mais brando para o
+cumprimento da pena.
+Conforme apontado na decisão agravada, o habeas corpus não foi
+indeferido liminarmente por ter sido utilizado em substituição à
+revisão criminal, em conformidade com a jurisprudência do Superior
+Tribunal de Justiça.
+Não identifiquei ilegalidade flagrante no acórdão impugnado.
+Quanto à busca e apreensão, o Tribunal afastou a alegação de nulidade
+e de flagrante forjado, considerando a coerência dos depoimentos dos
+policiais, que relataram estar em patrulhamento quando receberam
+denúncia anônima. A abordagem resultou na apreensão de maconha e
+dinheiro com o réu, outra porção nas imediações e, após autorização do
+acusado e de sua mãe, foi realizada busca domiciliar com cão farejador,
+que localizou uma mochila com drogas e materiais relacionados ao
+tráfico.
+O pedido de desclassificação para o artigo 28 da Lei 11.343/2006
+foi indeferido com base na quantidade significativa de maconha
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 9BE4-D57F-3D4E-7E87 e senha AF66-D4A3-EBA8-E237
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 13 de 35
+
+HC 265468 AGR / SP
+apreendida (671,90 g), armazenada em “tijolo” e porções fracionadas,
+além da presença de balança de precisão, plástico filme, faca e dinheiro,
+elementos que indicam o dolo de tráfico. A prática do crime se
+consuma com o simples ato de guardar ou manter a droga em depósito.
+O reconhecimento do tráfico privilegiado foi negado devido aos
+maus antecedentes e à reincidência específica, que demonstram
+habitualidade delitiva e afastam os requisitos legais para a concessão
+do benefício.
+Diante do quantitativo de pena privativa de liberdade aplicada,
+fica prejudicado o pedido de fixação de regime inicial mais brando.
+Assim, não vislumbro a presença de ilegalidade flagrante que
+autorize a concessão da ordem de ofício, devendo a decisão monocrática
+ser mantida pelos seus próprios fundamentos.
+Com essas considerações, nego provimento ao agravo
+regimental.”
+
+Na espécie, no que concerne à aduzida ilegitimidade do ato de busca
+e apreensão, registro que o habeas corpus é ação inadequada para a
+valoração e exame minucioso do acervo fático probatório engendrado nos
+autos. Destarte, não se revela cognoscível a insurgência que não se
+amolda à estreita via eleita. Nesse sentido:
+HABEAS CORPUS. IMPETRAÇÃO VOLTADA CONTRA
+DECISÃO MONOCRÁTICA DE MINISTRO DE TRIBUNAL
+SUPERIOR. IMPOSSIBILIDADE DE SUPRESSÃO DE
+INSTÂNCIA. TRÁFICO DE DROGAS. ALEGADA AUSÊNCIA
+DE FUNDADAS RAZÕES PARA INGRESSO EM DOMICÍLIO.
+CRIME DE NATUREZA PERMANENTE. NECESSIDADE DE
+REEXAME
+DO
+CONJUNTO
+PROBATÓRIO.
+VIA
+INADEQUADA. 1. Incidência de óbice ao conhecimento da ordem
+impetrada neste SUPREMO TRIBUNAL FEDERAL, uma vez que se
+impugna decisão monocrática de Ministro do Superior de Tribunal de
+Justiça. O exaurimento da instância recorrida é, como regra,
+pressuposto para ensejar a competência do STF, conforme vem sendo
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 9BE4-D57F-3D4E-7E87 e senha AF66-D4A3-EBA8-E237
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 14 de 35
+
+HC 265468 AGR / SP
+reiteradamente proclamado por esta CORTE (HC 129.142, Rel. Min.
+MARCO AURÉLIO, Rel. p/ Acórdão Min. ALEXANDRE DE
+MORAES, Primeira Turma, DJe de 10/8/2017; HC 97.009, Rel. p/
+Acórdão: Min. TEORI ZAVASCKI, Tribunal Pleno, DJe de 4/4/2014;
+HC 118.189, Rel. Min. RICARDO LEWANDOWSKI, Segunda
+Turma, DJe de 24/4/2014). 2. Inexistência de teratologia ou caso
+excepcional caracterizadores de flagrante constrangimento ilegal. 3. A
+CONSTITUIÇÃO FEDERAL dispõe que a casa é asilo inviolável do
+indivíduo, ninguém nela podendo penetrar sem consentimento do
+morador, salvo em caso de flagrante delito ou desastre, ou para prestar
+socorro, ou, ainda, durante o dia, por determinação judicial.
+Estabelece, portanto, hipóteses possíveis de violabilidade domiciliar,
+para que a “casa” não se transforme em garantia de impunidade de
+crimes, que em seu interior se pratiquem ou se pretendam ocultar. 4.
+Em se tratando de delito de tráfico de drogas praticado, em tese, na
+modalidade "ter em depósito", a consumação se prolonga no tempo e,
+enquanto configurada essa situação, a flagrância permite a busca
+domiciliar, independentemente da expedição de mandado judicial,
+desde que presentes fundadas razões de que em seu interior ocorre a
+prática de crime, como ocorreu na hipótese (RE 603616, Rel. Min.
+GILMAR MENDES, Tribunal Pleno, DJe de 10/5/2016). A justa
+causa, nesse contexto, não exige a certeza da ocorrência de delito, mas,
+sim, fundadas razões a respeito. Precedentes. 5. Qualquer conclusão
+desta SUPREMA CORTE em sentido contrário, notadamente no que
+concerne à alegada ausência de fundadas razões para proceder à busca
+domiciliar, além de acarretar clara supressão de instância, demandaria
+minuciosa reanálise das questões fáticas suscitadas pela defesa,
+providência incompatível por esta via processual. 6. Habeas Corpus
+não conhecido. (HC 169.788, Tribunal Pleno, Red. p/ Acórdão
+Min. Alexandre de Moraes, DJe de 6/5/2024)
+
+Ademais, o Tribunal a quo consignou “o Tribunal afastou a alegação de
+nulidade e de flagrante forjado, considerando a coerência dos depoimentos dos
+policiais, que relataram estar em patrulhamento quando receberam denúncia
+6
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 9BE4-D57F-3D4E-7E87 e senha AF66-D4A3-EBA8-E237
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 15 de 35
+
+HC 265468 AGR / SP
+anônima. A abordagem resultou na apreensão de maconha e dinheiro com o réu,
+outra porção nas imediações e, após autorização do acusado e de sua mãe, foi
+realizada busca domiciliar com cão farejador, que localizou uma mochila com
+drogas e materiais relacionados ao tráfico”. À luz do que decidido pela Corte
+antecedente, a hipótese sub examine guarda consonância com a orientação
+sufragada pelo Supremo Tribunal Federal. A propósito, colaciono os
+seguintes julgados:
+Agravo regimental em habeas corpus. Penal e processual penal.
+Tráfico de drogas. Nulidade. Ilicitude de prova. Invasão domiciliar.
+Não ocorrência. Flagrante de crime permanente. Reexame de fatos e
+provas. Apreensão de arma em automóvel. Busca pessoal. Inexistência
+de ilegalidade. Decisão agravada em harmonia com entendimento
+consolidado pela Suprema Corte. Reiteração dos argumentos expostos
+na inicial, os quais não infirmam os fundamentos da decisão agravada.
+Manutenção da decisão por seus próprios fundamentos. Agravo ao
+qual se nega provimento. (HC 228.060-AgR, Segunda Turma, Rel.
+Min. Dias Toffoli, DJe de 4/7/2023)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME
+DE TRÁFICO DE DROGAS. PRISÃO PREVENTIVA.
+GARANTIA DA ORDEM PÚBLICA. FUNDAMENTAÇÃO
+IDÔNEA.
+BUSCA
+PESSOAL.
+INEXISTÊNCIA
+DE
+ILEGALIDADE. PRISÃO EM FLAGRANTE. REEXAME DO
+ACERVO FÁTICO-PROBATÓRIO. MANIFESTA ILEGALIDADE
+OU TERATOLOGIA NÃO IDENTIFICADAS. 1. Prisão preventiva
+decretada forte na garantia da ordem pública, presentes as
+circunstâncias concretas reveladas nos autos. Precedentes. 2. Se as
+circunstâncias concretas da prática do ilícito indicam, pelo modus
+operandi, a periculosidade do agente ou o risco de reiteração delitiva,
+está justificada a decretação ou a manutenção da prisão cautelar para
+resguardar a ordem pública, desde que igualmente presentes boas
+provas da materialidade e da autoria, à luz do art. 312 do CPP.
+Precedentes. 3. Nos termos dos arts. 240, § 2º e 244 do CPP, cabe a
+
+7
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 9BE4-D57F-3D4E-7E87 e senha AF66-D4A3-EBA8-E237
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 16 de 35
+
+HC 265468 AGR / SP
+busca pessoal, independente de autorização judicial, quando houver
+fundada suspeita de ocultação pelo investigado de elementos de
+convicção. Precedentes. 4. Para concluir em sentido diverso das
+instâncias anteriores quanto às circunstâncias do flagrante,
+imprescindíveis o reexame e a valoração de fatos e provas, para o que
+não se presta a via eleita. Precedentes. 5. Agravo regimental conhecido
+e não provido. (HC 212.682-AgR, Primeira Turma, Rel. Min. Rosa
+Weber, DJe de 18/4/2022)
+AGRAVO REGIMENTAL EM HABEAS CORPUS.
+MATÉRIA
+CRIMINAL.
+WRIT
+UTILIZADO
+COMO
+SUCEDÂNEO DE REVISÃO CRIMINAL. IMPOSSIBILIDADE.
+AUSÊNCIA
+DE
+ILEGALIDADE
+EVIDENTE
+OU
+TERATOLOGIA. CRIME DE TRÁFICO DE DROGAS.
+ALEGAÇÃO DE OFENSA À INVIOLABILIDADE DOMICILIAR.
+EXISTÊNCIA DE FUNDADAS RAZÕES. FLAGRANTE
+DELITO. APREENSÃO DE ENTORPECENTE NA BUSCA
+PESSOAL REALIZADA EM MOMENTO ANTERIOR AO
+INGRESSO
+DOMICILIAR.
+AGRAVO
+REGIMENTAL
+DESPROVIDO. 1. No caso concreto, por contrariar frontalmente a
+jurisprudência do Supremo Tribunal Federal, o habeas corpus não
+merece conhecimento, na medida em que funciona como sucedâneo de
+revisão criminal. Precedentes. 2. Não há ilegalidade evidente ou
+teratologia a justificar a excepcionalíssima concessão da ordem de
+ofício. 3. As instâncias ordinárias, soberanas quanto à matéria fáticoprobatória, entenderam que o ingresso no domicílio estava amparado
+em fundadas razões, mormente porque os policiais apreenderam drogas
+na busca pessoal do recorrente em momento anterior à entrada na
+residência, não exigindo-se, nesse caso, mandado judicial ou
+autorização do morador. 4. Não cabe a esta Corte rever as premissas
+decisórias encampadas pelas instâncias ordinárias, na medida em que
+tal proceder pressupõe aprofundado reexame de fatos e provas,
+providência incompatível com a estreita via do habeas corpus. 5.
+Agravo regimental desprovido. (HC 213.895-AgR, Segunda Turma,
+Rel. Min. Edson Fachin, DJe de 17/2/2023)
+
+8
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 9BE4-D57F-3D4E-7E87 e senha AF66-D4A3-EBA8-E237
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 17 de 35
+
+HC 265468 AGR / SP
+
+Ainda, o referido entendimento está de acordo com a orientação
+sufragada no âmbito do Supremo Tribunal Federal no sentido da
+ausência de nulidade na adoção de medida cautelar precedida de
+diligências preliminares destinadas a averiguar o que aduzido em
+denúncia anônima. Nesse sentido:
+Agravo Regimental no Habeas Corpus. 2. Penal e Processo
+Penal. 3. Tráfico de drogas e associação para o tráfico. 4. Alegação de
+nulidade das provas decorrentes de denúncia anônima, diligências
+policiais sem determinação judicial e em razão de invasão de domicílio.
+Não ocorrência. 5. A denúncia anônima não macula a ação penal
+quando seguida de diligência, tal qual o apresentado nos autos. 6.
+Busca domiciliar com consentimento da moradora. Ilicitude afastada
+pelo Tribunal estadual. 7. A pretensão defensiva demanda amplo
+revolvimento fático-probatório, providência vedada na via estreita do
+habeas corpus. 8. Agravo Regimental desprovido. (HC 234.665.AgR,
+Segunda Turma, Rel. Min. Gilmar Mendes, DJe de 28/2/2024)
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL
+NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL.
+PROCESSO PENAL. 1. INTEMPESTIVIDADE DO AGRAVO
+REGIMENTAL: PRAZO DE CINCO DIAS. ART. 39 DA LEI N.
+8.038/1990. INOCORRÊNCIA DE NULIDADE DE INTIMAÇÃO.
+2. TRÁFICO DE DROGAS ILÍCITAS. AFRONTA À
+INVIOLABILIDADE DE DOMICÍLIO NÃO EVIDENCIADA.
+MONITORAMENTO POLICIAL. BUSCA E APREENSÃO
+DOMICILIAR SEM MANDADO JUDICIAL EM CASO DE
+CRIME PERMANENTE. POSSIBILIDADE. TEMA 280 DE
+REPERCUSSÃO GERAL. 3. INVIABILIDADE DE CONCESSÃO
+DE HABEAS CORPUS DE OFÍCIO: AUSÊNCIA DE
+FLAGRANTE CONSTRANGIMENTO ILEGAL. AGRAVO
+REGIMENTAL DESPROVIDO. (RE 1.449.307-AgR-AgR,
+
+9
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 9BE4-D57F-3D4E-7E87 e senha AF66-D4A3-EBA8-E237
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 18 de 35
+
+HC 265468 AGR / SP
+Primeira Turma, Rel. Min. Cármen Lúcia, DJe de 11/4/2024)
+
+Noutro giro, cumpre destacar a orientação sufragada no âmbito do
+Supremo Tribunal Federal no sentido de que o pedido de desclassificação
+de crime não se coaduna com a via estreita do habeas corpus, porquanto é
+indissociável da indevida incursão na moldura fática delineada nos autos.
+Nesse sentido:
+AGRAVO
+INTERNO
+EM
+HABEAS
+CORPUS.
+INVESTIGADO. POSSE DE ELEMENTOS QUE CONSTITUAM
+CORPO DE DELITO. FUNDADA SUSPEITA. BUSCA
+PESSOAL. LICITUDE. TRÁFICO DE DROGAS. PRETENDIDA
+DESCLASSIFICAÇÃO. PORTE DE ENTORPECENTE PARA
+USO
+PESSOAL.
+ABSOLVIÇÃO.
+REEXAME
+FÁTICOPROBATÓRIO.
+INVIABILIDADE.
+NEGATIVA
+DE
+SEGUIMENTO AO HABEAS CORPUS. 1. É lícita a busca pessoal
+em caso de fundada suspeita de que o investigado esteja em posse de
+elementos que constituam corpo de delito, nos termos dos arts. 240, §
+2º, e 244 do Código de Processo Penal. 2. Não se admite, na via
+estreita do habeas corpus, a qual não comporta dilação probatória, o
+reexame, com vistas ao acolhimento da tese defensiva – desclassificação
+do crime de tráfico de drogas para o delito de porte de entorpecente
+para uso pessoal –, do conjunto fático produzido nas instâncias
+ordinárias. 3. Agravo interno desprovido. (HC 240.168-AgR,
+Segunda Turma, Rel. Min. Nunes Marques, DJe de 19/9/2024)
+Processual penal. Agravo regimental em habeas corpus. Tráfico
+de drogas. Posse irregular de arma de fogo de uso permitido.
+Inadequação da via eleita. Pedido de desclassificação. Fatos e provas.
+Jurisprudência do Supremo Tribunal Federal. 1. Do ponto de vista
+processual, o caso é de habeas corpus substitutivo de agravo
+regimental (cabível na origem). Nessas condições, tendo em vista a
+jurisprudência da Primeira Turma do Supremo Tribunal Federal
+
+10
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 9BE4-D57F-3D4E-7E87 e senha AF66-D4A3-EBA8-E237
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 19 de 35
+
+HC 265468 AGR / SP
+(STF), entendo que o processo deve ser extinto sem resolução de
+mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz
+Fux). 2. Inexistindo pronunciamento colegiado do Superior Tribunal
+de Justiça, não compete ao STF examinar a questão de direito
+implicada na impetração. Precedentes: HC 113.468, Rel. Min. Luiz
+Fux; HC 117.502, Redator para o acórdão o Ministro Luís Roberto
+Barroso; HC 108.141-AgR, Rel. Min. Teori Zavascki; e o HC
+122.166-AgR, julgado sob a relatoria do Ministro Ricardo
+Lewandowski. 3. A orientação jurisprudencial do STF é no sentido de
+que “o pleito de desclassificação de crime não tem lugar na estreita via
+do habeas corpus por demandar aprofundado exame do conjunto
+fático-probatório da causa, e não mera revaloração” (RHC 120.417,
+Rel. Min. Ricardo Lewandowski). 4. Agravo regimental a que se nega
+provimento. (HC 222.957-AgR, Primeira Turma, Rel. Min.
+Roberto Barroso, DJe de 27/2/2023)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PENAL.
+PACIENTE CONDENADO PELO CRIME DE LATROCÍNIO
+TENTADO (ART. 157, § 3º, II, COMBINADO COM O ART. 14,
+II, DO CP). CORRETA TIPIFICAÇÃO. PEDIDO DE
+DESCLASSIFICAÇÃO PARA TENTATIVA DE ROUBO
+SEGUIDO DE LESÃO CORPORAL GRAVE (ART. 157, § 3º, I,
+COMBINADO
+COM
+O
+ART.
+14,
+II,
+DO
+CP).
+IMPOSSIBILIDADE.
+REVALORAÇÃO
+DO
+ACERVO
+PROBATÓRIO NA VIA DO HABEAS CORPUS. DECISÃO
+IMPUGNADA EM SINTONIA COM A JURISPRUDÊNCIA
+DESTE
+SUPREMO
+TRIBUNAL
+FEDERAL.
+AGRAVO
+REGIMENTAL A QUE SE NEGA PROVIMENTO. I – Pela
+dinâmica dos fatos e diante do acervo probatório produzido na
+instrução criminal, as instâncias ordinárias concluíram, no que foram
+seguidas pelo Superior Tribunal de Justiça, que a conduta do paciente
+tipifica-se como latrocínio tentado (art. 157, § 3º, II, combinado com o
+art. 14, II, do CP), porquanto a morte da vítima atingida pelo disparo
+da arma de fogo só não ocorreu por circunstâncias alheias à vontade do
+
+11
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 9BE4-D57F-3D4E-7E87 e senha AF66-D4A3-EBA8-E237
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 20 de 35
+
+HC 265468 AGR / SP
+agente. II – Esse entendimento está em sintonia com a jurisprudência
+deste Supremo Tribunal Federal, firmada no sentido de que “o crime
+latrocínio, na modalidade tentada, para a sua configuração, prescinde
+da aferição da gravidade das lesões experimentadas pela vítima, sendo
+suficiente a comprovação de que o agente tenha atentado contra a sua
+vida com animus necandi, não atingindo o resultado morte por
+circunstâncias alheias à sua vontade” (HC 113.049/SC, Primeira
+Turma, Rel. Min. Luiz Fux, DJe de 10/9/2013). III – No mais, a
+orientação jurisprudencial desta Suprema Corte é firme no sentido de
+que “[a] ação de habeas corpus constitui remédio processual
+inadequado quando ajuizada com objetivo (a) de promover a análise da
+prova penal, (b) de efetuar o reexame do conjunto probatório
+regularmente produzido, (c) de provocar a reapreciação da matéria de
+fato e (d) de proceder à revalorização dos elementos instrutórios
+coligidos no processo penal de conhecimento”. (HC 101.450 AgR/SP,
+Rel. Min. Celso de Mello, Segunda Turma, DJe de 18/8/2014). IV –
+Agravo regimental a que se nega provimento. (HC 232.036-AgR,
+Primeira Turma, Rel. Min. Cristiano Zanin, DJe de 16/10/2023)
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM
+HABEAS CORPUS. TRÁFICO DE DROGAS. AUSÊNCIA DE
+IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS
+DA DECISÃO AGRAVADA. WRIT SUCEDÂNEO DE
+RECURSO
+OU
+REVISÃO
+CRIMINAL.
+PLEITO
+DE
+ABSOLVIÇÃO E DESCLASSIFICAÇÃO. REEXAME DE FATOS
+E PROVAS. INVIABILIDADE. DOSIMETRIA. INCIDÊNCIA DA
+ATENUANTE
+DA
+CONFISSÃO
+ESPONTÂNEA.
+REVOLVIMENTO DE FATOS E PROVAS. IMPOSSIBILIDADE.
+INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE OU
+TERATOLOGIA. 1. Na linha da orientação jurisprudencial desta
+Suprema Corte, o Agravante tem o dever de impugnar, de forma
+específica, todos os fundamentos da decisão agravada, sob pena de não
+provimento do agravo regimental. Precedentes. 2. Inadmissível o
+emprego do habeas corpus como sucedâneo de recurso ou revisão
+
+12
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 9BE4-D57F-3D4E-7E87 e senha AF66-D4A3-EBA8-E237
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 21 de 35
+
+HC 265468 AGR / SP
+criminal. Precedentes. 3. O acórdão recorrido não diverge da
+orientação jurisprudencial desta Suprema Corte no sentido de que
+inviável aquilatar a qualidade da prova valorada nas instâncias
+anteriores, para fins de acolher as teses de absolvição e desclassificação
+do crime de tráfico de drogas para o de posse de entorpecente para
+consumo pessoal, em sede de habeas corpus . Precedentes. 4. Para
+concluir em sentido diverso quanto à incidência da atenuante da
+confissão espontânea, imprescindíveis o reexame e a valoração de fatos
+e provas, para o que não se presta a via eleita. Precedentes. 5. Agravo
+regimental conhecido e não provido. (RHC 243.443-AgR, Primeira
+Turma, Rel. Min. Flávio Dino, DJe de 16/9/2024)
+Agravo regimental em habeas corpus. Tráfico de drogas. Pleito
+desclassificatório. Afastamento da pretendida desclassificação por
+tribunal de origem. Pretendido reconhecimento do redutor previsto no
+§ 4º do art. 33 da Lei de Drogas. Necessidade de revolvimento de fatos
+e provas que já foram valorados nas instâncias ordinárias.
+Inviabilidade. Decisão agravada em harmonia com o entendimento
+consolidado pela Suprema Corte. Reiteração dos argumentos expostos
+na inicial, os quais não infirmam os fundamentos da decisão agravada.
+Manutenção da decisão por seus próprios fundamentos. Agravo ao
+qual se nega provimento. 1. A decisão ora atacada não merece reforma,
+uma vez que seus fundamentos se harmonizam estritamente com o
+entendimento consolidado pela Suprema Corte. 2. O presente recurso
+mostra-se inviável, na medida em que contém apenas a reiteração dos
+argumentos de defesa anteriormente expostos, sem, no entanto, revelar
+quaisquer elementos capazes de afastar as razões expressas na decisão
+agravada, a qual deve ser mantida por seus próprios fundamentos. 3.
+Agravo ao qual se nega provimento. (HC 240.693-AgR, Segunda
+Turma, Rel. Min. Dias Toffoli, DJe de 14/6/2024)
+
+A propósito, registro que este Supremo Tribunal Federal sufraga o
+entendimento no sentido de o habeas corpus não se consubstanciar na via
+
+13
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 9BE4-D57F-3D4E-7E87 e senha AF66-D4A3-EBA8-E237
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 22 de 35
+
+HC 265468 AGR / SP
+adequada ao exame da alegação de insuficiência probatória. Nesse
+sentido:
+AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM
+HABEAS CORPUS. PEDIDO DE TRANCAMENTO DA AÇÃO
+PENAL. INVIABILIDADE. EXCEPCIONALIDADE NÃO
+DEMONSTRADA. ALEGADA INÉPCIA DA DENÚNCIA.
+IDONEIDADE
+DA
+PEÇA
+ACUSATÓRIA.
+SUPOSTA
+AUSÊNCIA DE JUSTA CAUSA. NECESSIDADE DE REEXAME
+DO
+CONTEÚDO
+FÁTICO-PROBATÓRIO.
+RECURSO
+ORDINÁRIO DESPROVIDO. 1. O habeas corpus é via adequada ao
+trancamento da ação penal apenas em casos excepcionais, de evidente
+atipicidade da conduta, extinção da punibilidade ou ausência de justa
+causa. 2. A denúncia observou todas as exigências formais do art. 77
+do Código de Processo Penal Militar. 3. É inadmissível, na via estreita
+do habeas corpus, a qual não comporta dilação probatória, o reexame,
+com vistas ao acolhimento das teses defensivas – ausência de justa
+causa, por insuficiência probatória e inépcia da denúncia –, do
+conjunto fático-probatório produzido nas instâncias ordinárias. 4.
+Ausente, nos autos, demonstração de alguma excepcionalidade, não se
+justifica o trancamento da ação penal. 5. Agravo interno desprovido.
+(RHC 203.155-AgR, Segunda Turma, Rel. Min. Nunes Marques,
+DJe de 17/12/2021)
+AGRAVO REGIMENTAL EM HABEAS CORPUS.
+TENTATIVAS DE HOMICÍDIO QUALIFICADO. PRONÚNCIA.
+FUNDAMENTAÇÃO
+IDÔNEA.
+ALEGAÇÃO
+DE
+INSUFICIÊNCIA PROBATÓRIA. VIA INADEQUADA. 1. Nos
+termos do artigo 413 do Código de Processo Penal, a decisão de
+pronúncia configura um juízo de admissibilidade da acusação,
+aplicável nas situações em que o julgador se mostra convencido (a) da
+materialidade do delito e (b) da existência de indícios – e não certeza –
+de autoria ou de participação. 2. Os indícios declinados pela instância
+ordinária, ao menos nesta sede processual, revelam-se idôneos para
+
+14
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 9BE4-D57F-3D4E-7E87 e senha AF66-D4A3-EBA8-E237
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 23 de 35
+
+HC 265468 AGR / SP
+submissão do paciente ao Conselho de Sentença. 3. Para acolher a
+alegação de insuficiência probatória, tal como já afirmou o STJ, seria
+necessário proceder à análise de fatos e provas, providência
+incompatível com a via do Habeas Corpus. 4. Agravo Regimental a
+que se nega provimento. (HC 206.244-AgR, Primeira Turma, Rel.
+Min. Alexandre de Moraes, DJe de 22/10/2021)
+
+Sob outra vertente, “a dosimetria da pena, bem como os critérios
+subjetivos considerados pelos órgãos inferiores para a sua realização, não são
+passíveis de aferição na via estreita do habeas corpus, por demandar minucioso
+exame fático e probatório inerente a meio processual diverso” (HC nº 114.650,
+Primeira Turma, Rel. Min. Luiz Fux, DJe de 14/8/2013). Nesse sentido:
+Agravo regimental em habeas corpus. Penal e processual penal.
+Homicídios qualificados, consumados e tentados, roubos qualificados,
+sequestro e cárcere privado. Dosimetria. Reexame de fatos e provas
+incompatível com o habeas corpus. Ausência de impugnação de todos
+os fundamentos da decisão agravada. Não conhecimento do agravo
+regimental. (HC 240.022-AgR, Segunda Turma, Rel. Min. Dias
+Toffoli, DJe de 10/6/2024)
+
+Trata-se de matéria sujeita a certa discricionariedade judicial,
+sindicável apenas em casos de flagrante teratologia, ilegalidade ou abuso
+de poder. No mesmo sentido o RHC nº 247.538-AgR, de relatoria do Min.
+Nunes Marques, Segunda Turma, DJe de 21/5/2025:
+DIREITO PROCESSUAL PENAL. AGRAVO INTERNO
+EM RECURSO ORDINÁRIO EM HABEAS CORPUS.
+SUCEDÂNEO DE REVISÃO CRIMINAL. INADEQUAÇÃO.
+MATÉRIA NÃO APRECIADA NA ORIGEM. SUPRESSÃO DE
+INSTÂNCIA. DOSIMETRIA DA PENA. FUNDAMENTAÇÃO
+ADEQUADA. AUSÊNCIA DE ILEGALIDADE FLAGRANTE.
+RECURSO DESPROVIDO.
+
+15
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 9BE4-D57F-3D4E-7E87 e senha AF66-D4A3-EBA8-E237
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 24 de 35
+
+HC 265468 AGR / SP
+I. CASO EM EXAME
+1. Agravo interno interposto de decisão que negou seguimento a
+recurso ordinário em habeas corpus apresentado contra acórdão do
+STJ.
+2. A parte agravante postula a fixação da pena-base em patamar
+mínimo e a revisão da fração aplicada na segunda fase da dosimetria
+da pena.
+II. QUESTÃO EM DISCUSSÃO
+3. Há três questões em discussão: (i) saber se o habeas corpus
+pode ser utilizado como sucedâneo de revisão criminal; (ii) analisar se
+é adequado recurso ordinário em habeas corpus quando a matéria
+articulada não houver sido apreciada pelo tribunal apontado como
+coator; e (iii) verificar se há ilegalidade ou vício de fundamentação nos
+critérios adotados para a fixação da pena-base e na segunda fase da
+dosimetria da pena.
+III. RAZÕES DE DECIDIR
+4. A jurisprudência do STF é firme no sentido da
+inadmissibilidade do habeas corpus como sucedâneo de revisão
+criminal.
+5. É inviável recurso ordinário em habeas corpus quando as
+razões apresentadas não tiverem sido previamente examinadas pelo
+tribunal apontado como coator, sob pena de supressão de instância.
+6. A dosimetria da pena é matéria que possui certo grau de
+discricionariedade judicial, vinculada às particularidades
+fáticas do caso concreto, ficando o controle pelos tribunais
+superiores limitado à aferição da legalidade e da
+constitucionalidade dos critérios utilizados, no que inviável a
+reanálise em sede de habeas corpus por demandar dilação
+probatória.
+7. Ausentes ilegalidade flagrante ou vício de fundamentação nos
+critérios adotados, não cabe refazer a dosimetria da pena na via estreita
+
+16
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 9BE4-D57F-3D4E-7E87 e senha AF66-D4A3-EBA8-E237
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 25 de 35
+
+HC 265468 AGR / SP
+do habeas corpus.
+IV. DISPOSITIVO
+8. Agravo interno desprovido.
+
+Ademais, no que concerne à aplicabilidade da causa de diminuição
+de pena prevista no artigo 33, § 4º, da Lei nº 11.343/2006, comprovado o
+não preenchimento cumulativo dos critérios estabelecidos pelo legislador
+para a caracterização do tráfico privilegiado, é impossível a sua aplicação.
+Nessa linha:
+AGRAVO REGIMENTAL EM HABEAS CORPUS.
+PROCESSO PENAL. TRÁFICO DE DROGAS. AFASTAMENTO
+DO REDUTOR DO ART. 33, § 4º, DA LEI 11.343/06.
+FUNDAMENTAÇÃO
+IDÔNEA.
+APONTADAS
+CIRCUNSTÂNCIAS
+FÁTICAS
+QUE
+DENOTAM
+A
+DEDICAÇÃO DO AGENTE A ATIVIDADES CRIMINOSAS.
+NECESSÁRIO
+REEXAME
+DE
+FATOS
+E
+PROVAS.
+INADEQUAÇÃO DA VIA ELEITA. AGRAVO REGIMENTAL
+DESPROVIDO. 1. A causa de diminuição prevista no § 4º do art. 33
+da Lei 11.343/2006 é aplicada desde que o agente seja primário, possua
+bons antecedentes, não se dedique às atividades criminosas nem
+integre organização criminosa. 2. Em se tratando de requisitos
+negativos a serem avaliados pelas instâncias próprias segundo as
+particularidades de cada caso, não há ilegalidade na decisão que não
+aplica a minorante com respaldo em evidências de que o agravante se
+dedica à atividade criminosa. 3. Conclusão diversa somente poderia ser
+alcançada mediante reexame das premissas fático-probatórias que
+lastrearam o entendimento das instâncias antecedentes, providência
+inviável em sede de habeas corpus. 4. Agravo regimental desprovido.
+(HC 194.313-AgR, Segunda Turma, Rel. Min. Edson Fachin, DJe
+de 12/8/2021)
+
+17
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 9BE4-D57F-3D4E-7E87 e senha AF66-D4A3-EBA8-E237
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 26 de 35
+
+HC 265468 AGR / SP
+AGRAVO REGIMENTAL EM HABEAS CORPUS.
+PRETENDIDO TRÁFICO PRILEGIADO. REINCIDÊNCIA.
+INVIABILIDADE. MAJORANTE, DO ART. 40, III, DA LEI
+11.343/2006. NATUREZA OBJETIVA. INAPLICABILIDADE AO
+CASO CONCRETO. REITERAÇÃO DOS ARGUMENTOS
+EXPOSTOS NA INICIAL QUE NÃO INFIRMAM OS
+FUNDAMENTOS DA DECISÃO AGRAVADA. AGRAVO
+REGIMENTAL AO QUAL SE NEGA PROVIMENTO. I Estabelece o art. 33, § 4°, da Lei 11.343/2006 que, nos delitos definidos
+no caput e no § 1º, deste mesmo dispositivo, as penas poderão ser
+reduzidas de um sexto a dois terços, desde que o agente seja primário,
+de bons antecedentes, não se dedique às atividades criminosas nem
+integre organização criminosa. No caso, a reincidência do paciente,
+reconhecida nas instâncias antecedentes, inviabiliza a aplicação da
+minorante. II - A majorante, do art. 40, III, da Lei 11.343/2006, é de
+natureza objetiva e, por conseguinte, aperfeiçoa-se com a constatação
+de ter sido o crime cometido em um dos lugares indicados naquele
+dispositivo, no caso, nas dependências de estabelecimento prisional. III
+- O presente recurso contém apenas a reiteração dos argumentos
+anteriormente expostos, sem, no entanto, indicar quaisquer elementos
+concretos capazes de afastar os fundamentos da decisão agravada. IV Agravo ao qual se nega provimento. (HC 232.620-AgR, Primeira
+Turma, Rel. Min. Cristiano Zanin, DJe de 2/2/2024)
+
+Como se depreende da fundamentação do Superior Tribunal de
+Justiça, a decisão combatida apresentou fundamentação idônea, com base
+em fatos e elementos existentes no caso concreto aptos a justificar o
+indeferimento do pedido, uma vez que, “o reconhecimento do tráfico
+privilegiado foi negado devido aos maus antecedentes e à reincidência específica,
+que demonstram habitualidade delitiva e afastam os requisitos legais para a
+concessão do benefício”.
+Deveras, o tráfico privilegiado restou afastado em razão de se ter
+
+18
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 9BE4-D57F-3D4E-7E87 e senha AF66-D4A3-EBA8-E237
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 27 de 35
+
+HC 265468 AGR / SP
+identificado a dedicação do agente a atividades criminosas. Nesse
+contexto, o referido entendimento não diverge da posição deste Supremo
+Tribunal Federal. Nessa linha:
+AGRAVO
+INTERNO
+EM
+HABEAS
+CORPUS.
+CONDENAÇÃO TRANSITADA EM JULGADO. SUCEDÂNEO
+DE REVISÃO CRIMINAL. INVIABILIDADE. TRÁFICO
+PRIVILEGIADO AFASTADO COM FUNDAMENTO NA
+DEDICAÇÃO A ATIVIDADES CRIMINOSAS. NECESSÁRIO
+REEXAME FÁTICO-PROBATÓRIO. REGIME FECHADO
+DEVIDAMENTE
+FUNDAMENTADO.
+NEGATIVA
+DE
+SEGUIMENTO AO HABEAS CORPUS. 1. É inviável a utilização
+do habeas corpus como sucedâneo de revisão criminal. 2. Não se
+admite, na via estreita do habeas corpus, a qual não comporta dilação
+probatória, o reexame, com vistas ao acolhimento da tese defensiva –
+ausência de dedicação a atividades criminosas –, do conjunto fáticoprobatório produzido nas instâncias ordinárias. 3. A natureza e a
+quantidade de substância entorpecente apreendida são fundamentos
+idôneos para a imposição de regime mais gravoso. 4. Agravo interno
+desprovido. (HC 227.706-AgR, Segunda Turma, Rel. Min. Nunes
+Marques, DJe de 28/9/2023)
+AGRAVO REGIMENTAL EM HABEAS CORPUS.
+ENTRADA FORÇADA EM DOMICÍLIO SEM MANDADO
+JUDICIAL AMPARADA EM FUNDADAS RAZÕES. LICITUDE.
+TRÁFICO PRIVILEGIADO. DEDICAÇÃO DO PACIENTE A
+ATIVIDADES CRIMINOSAS. ELEMENTOS CONCRETOS.
+INAPLICABILIDADE.
+DISSENTIR
+DO
+ACÓRDÃO
+IMPUGNADO DEMANDARIA O NECESSÁRIO REEXAME DE
+FATOS E PROVAS. INVIABILIDADE. AGRAVO AO QUAL SE
+NEGA PROVIMENTO. I - Ao julgar o RE 603.616 AgR/RO, de
+relatoria do Ministro Gilmar Mendes, o Plenário deste Supremo
+Tribunal Federal decidiu, sob o regime de repercussão geral, que a
+entrada forçada em domicílio sem mandado judicial é lícita quando
+
+19
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 9BE4-D57F-3D4E-7E87 e senha AF66-D4A3-EBA8-E237
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 28 de 35
+
+HC 265468 AGR / SP
+amparada em fundadas razões, devidamente justificadas a posteriori,
+que indiquem que dentro da casa há situação de flagrante delito. II - Se
+“[...] as circunstâncias concretas do delito ou outros elementos
+probatórios revelam a dedicação do paciente a atividades criminosas,
+não tem lugar o redutor do § 4º do art. 33 da Lei 11.343/2006” (HC
+123.042, Rel. Min. Rosa Weber, Primeira Turma, DJe 31/10/2014).
+III - Dissentir da Quinta Turma do Superior Tribunal de Justiça
+demandaria o necessário reexame de fatos e provas, o que é inviável na
+estreita via do habeas corpus. IV - Agravo ao qual se nega provimento.
+(HC 232.578-AgR, Primeira Turma, Rel. Min. Cristiano Zanin,
+DJe de 2/2/2024)
+AGRAVO INTERNO EM HABEAS CORPUS. TRÁFICO
+PRIVILEGIADO AFASTADO COM FUNDAMENTO NA
+DEDICAÇÃO A ATIVIDADE CRIMINOSA. NECESSÁRIO
+REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. HABEAS
+CORPUS INDEFERIDO. 1. A dosimetria da pena é matéria sujeita a
+certo grau de discricionariedade, o que não afasta o controle de
+legalidade e constitucionalidade dos critérios e da motivação
+utilizados. 2. A conduta social, os maus antecedentes, a reincidência, o
+concurso de agentes, a quantidade de drogas apreendidas, as
+circunstâncias da apreensão e a existência de ações penais em curso
+são exemplos de elementos aptos a indicar a dedicação do agente a
+atividade criminosa, fundamento idôneo para o afastamento da
+minorante do tráfico privilegiado. 3. A aplicação da causa de
+diminuição prevista no § 4º do art. 33 da Lei n. 11.343/2006 foi
+afastada em razão do “envolvimento reiterado nesta prática delitiva”.
+4. É inadmissível, na via estreita do habeas corpus, a qual não
+comporta dilação probatória, o reexame, com vistas ao acolhimento da
+tese defensiva – descaracterização da dedicação do agravante a
+atividade criminosa – do conjunto fático-probatório produzido nas
+instâncias ordinárias. 5. Agravo interno desprovido. (HC 209.928AgR, Segunda Turma, Rel. Min. Nunes Marques, DJe de
+19/4/2022)
+
+20
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 9BE4-D57F-3D4E-7E87 e senha AF66-D4A3-EBA8-E237
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 29 de 35
+
+HC 265468 AGR / SP
+
+Demais disso, no tocante ao pleito de absolvição pelo crime de
+corrupção ativa, verifico que o Superior Tribunal de Justiça não se
+manifestou sobre a matéria.
+Nesse contexto, o conhecimento desse ponto da impetração sem que
+a instância precedente tenha examinado a matéria consubstancia
+indevida supressão de instância e, por conseguinte, violação das regras
+constitucionais definidoras da competência dos Tribunais Superiores,
+valendo conferir os seguintes precedentes desta Corte:
+AGRAVO REGIMENTAL EM HABEAS CORPUS.
+MATÉRIA CRIMINAL. AUSÊNCIA DE IMPUGNAÇÃO
+ESPECÍFICA
+DOS
+FUNDAMENTOS
+DA
+DECISÃO
+MONOCRÁTICA. ART. 317, § 1º, DO RISTF. IMPETRAÇÃO
+CONTRA DECISÃO MONOCRÁTICA DE MINISTRO DO STJ.
+INVIABILIDADE
+DE
+O
+WRIT
+FIGURAR
+COMO
+SUBSTITUTIVO DE AGRAVO REGIMENTAL. SUCEDÂNEO
+DE REVISÃO CRIMINAL. INEXISTÊNCIA DE ILEGALIDADE
+EVIDENTE OU TERATOLOGIA. AGRAVO REGIMENTAL
+DESPROVIDO. 1. É inadmissível o agravo regimental que não
+impugna de modo especificado todos os fundamentos da decisão
+agravada. Manutenção da decisão recorrida. Precedentes. 2. O
+Supremo Tribunal Federal tem posição firme pela impossibilidade de
+admissão de writ impetrado contra decisão proferida por membro de
+Tribunal Superior, uma vez que, a teor do art. 102, I, “i”, da
+Constituição da República, sob o prisma da autoridade coatora, a
+competência originária desta Suprema Corte somente se perfectibiliza
+na hipótese em que Tribunal Superior, por meio de órgão colegiado,
+atue nessa condição. 3. O habeas corpus não merece conhecimento na
+medida em que funciona como sucedâneo de revisão criminal.
+Precedentes. 4. Devido ao caráter excepcional da superação da
+jurisprudência da Corte, a concessão da ordem de ofício configura
+providência a ser tomada tão somente em casos absolutamente
+
+21
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 9BE4-D57F-3D4E-7E87 e senha AF66-D4A3-EBA8-E237
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 30 de 35
+
+HC 265468 AGR / SP
+aberrantes e teratológicos, o que não se verifica na espécie. 5. Agravo
+regimental desprovido. (HC 210.524-AgR, Segunda Turma, Rel.
+Min. Edson Fachin, DJe de 20/7/2022)
+Direito processual penal. Agravo regimental em habeas corpus.
+Crimes de tortura, roubo majorado e corrupção de menores. Pedido de
+prisão domiciliar. Inadequação da via eleita. Supressão de instâncias.
+Jurisprudência do Supremo Tribunal Federal. 1. Do ponto de vista
+processual, o caso é de habeas corpus substitutivo de agravo
+regimental (cabível na origem). Nessas condições, tendo em vista a
+jurisprudência da Primeira Turma do Supremo Tribunal Federal
+(STF), entendo que o processo deve ser extinto sem resolução de
+mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz
+Fux). 2. Inexistindo pronunciamento colegiado do Superior Tribunal
+de Justiça (STJ), não compete ao STF examinar a questão de direito
+implicada na impetração. Precedentes. 3. As alegações da defesa não
+foram sequer analisadas pelas instâncias de origem (Tribunal de
+Justiça do Estado de São Paulo e STJ). Fato que impede o imediato
+exame da matéria pelo STF, sob pena de dupla supressão de instâncias.
+4. A Segunda Turma do STF, no julgamento do HC 143.641, Rel.
+Min. Ricardo Lewandowski, decidiu pela “substituição da prisão
+preventiva pela domiciliar – sem prejuízo da aplicação concomitante
+das medidas alternativas previstas no art. 319 do CPP – de todas as
+mulheres presas, gestantes, puérperas ou mães de crianças e
+deficientes, nos termos do art. 2º do ECA e da Convenção sobre
+Direitos das Pessoas com Deficiências (Decreto Legislativo 186/2008 e
+Lei 13.146/2015), relacionadas neste processo pelo DEPEN e outras
+autoridades estaduais, enquanto perdurar tal condição, excetuados os
+casos de crimes praticados por elas mediante violência ou grave
+ameaça, contra seus descendentes ou, ainda, em situações
+excepcionalíssimas, as quais deverão ser devidamente fundamentadas
+pelos juízes que denegarem o benefício” (grifos acrescentados). Na
+sequência, determinou a “extensão da ordem de ofício a todas as
+demais mulheres presas, gestantes, puérperas ou mães de crianças e de
+pessoas com deficiência, bem assim às adolescentes sujeitas a medidas
+
+22
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 9BE4-D57F-3D4E-7E87 e senha AF66-D4A3-EBA8-E237
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 31 de 35
+
+HC 265468 AGR / SP
+socioeducativas em idêntica situação no território nacional, observadas
+as restrições acima” (grifos acrescentados). 5. Trata-se de paciente
+presa preventivamente pela suposta prática dos crimes de tortura,
+roubo majorado e corrupção de menores. De modo que, tendo os crimes
+sido praticados com violência, não é possível estender à acionante os
+efeitos da decisão proferida pela Segunda Turma do STF. Precedente: o
+HC 156.026-AgR, Rel. Min. Edson Fachin. 6. Agravo regimental a
+que se nega provimento. (HC 216.782-AgR, Primeira Turma, Rel.
+Min. Roberto Barroso, DJe de 31/8/2022)
+
+Outrossim, o exame das questões de fato suscitadas pela defesa,
+demanda indevida incursão na moldura fática delineada nos autos. O
+habeas corpus é ação inadequada para a valoração e exame minucioso do
+acervo fático probatório engendrado nos autos. Assim, não se revela
+cognoscível a insurgência que não se amolda à estreita via eleita. Nesse
+seguimento:
+Direito processual penal. Agravo regimental no habeas corpus.
+Reiteração de impetração. Inadmissibilidade. Recurso desprovido. I.
+Caso em exame 1. Agravo regimental interposto contra decisão que
+negou seguimento a habeas corpus, o qual buscava caracterizar
+ilegalidade da condenação do agravante na Ação Penal 150127971.2021.8.26.0628. 2. O agravante argumenta que a decisão do
+Superior Tribunal de Justiça impugnada no HC 232.684 não havia se
+manifestado sobre o mérito da impetração, e que a decisão monocrática
+negativa nesse HC não foi confirmada pela Segunda Turma. II.
+Questão em discussão 3. A questão em discussão consiste em saber se é
+admissível a reiteração de habeas corpus para anular a mesma
+condenação, sob diversos argumentos de error in judicando. III.
+Razões de decidir 4. Não foi concedida a ordem de ofício, no precedente
+HC 232.684, pela impossibilidade de profundo revolvimento do acervo
+fático-probatório em sede de habeas corpus, o qual é o mesmo
+fundamento do apontado ato coator. 5. Embora a decisão em habeas
+corpus não forme coisa julgada material, ela constitui o
+
+23
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 9BE4-D57F-3D4E-7E87 e senha AF66-D4A3-EBA8-E237
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 32 de 35
+
+HC 265468 AGR / SP
+pronunciamento da Corte sobre a controvérsia, que deve ser único, sob
+pena de instrumentalização do Tribunal pela repetição de impetrações
+até a obtenção de decisão favorável. IV. Dispositivo 6. Agravo
+regimental desprovido. (HC 260.818-AgR, Segunda Turma, Rel.
+Min. Gilmar Mendes, DJe de 22/10/2025)
+
+Ainda, não cabe a rediscussão da matéria perante esta Corte e nesta
+via processual, porquanto o habeas corpus não é sucedâneo de recurso ou
+revisão criminal. Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM
+HABEAS CORPUS. WRIT SUCEDÂNEO DE RECURSO OU
+REVISÃO
+CRIMINAL.
+EXECUÇÃO
+PENAL.
+FALTA
+DISCIPLINAR
+GRAVE.
+ABSOLVIÇÃO
+OU
+DESCLASSIFICAÇÃO. REEXAME DO ACERVO FÁTICOPROBATÓRIO. INVIABILIDADE. MANIFESTA ILEGALIDADE
+OU TERATOLOGIA NÃO IDENTIFICADAS. 1. Inadmissível o
+emprego do habeas corpus como sucedâneo de recurso ou revisão
+criminal. Precedentes. 2. Para concluir em sentido diverso das
+instâncias anteriores quanto ao pleito de absolvição ou desclassificação
+da imputação de falta grave, imprescindíveis o reexame e a valoração
+de fatos e provas, para o que não se presta a via eleita. Precedentes. 3.
+Agravo regimental conhecido e não provido. (RHC 217.371-AgR,
+Primeira Turma, Rel. Min. Rosa Weber, DJe de 9/9/2022)
+AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM
+HABEAS CORPUS. MATÉRIA CRIMINAL. WRIT UTILIZADO
+COMO
+SUCEDÂNEO
+DE
+REVISÃO
+CRIMINAL.
+IMPOSSIBILIDADE. REGIME. AUSÊNCIA DE ILEGALIDADE
+EVIDENTE
+OU
+TERATOROLOGIA
+A
+INFIRMAR
+JULGAMENTO ACOBERTADO PELA COISA JULGADA.
+AGRAVO REGIMENTAL DESPROVIDO. 1. O recurso ordinário
+em habeas corpus não merece conhecimento na medida em que
+funciona como sucedâneo de revisão criminal. Precedentes. 2. Devido
+
+24
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 9BE4-D57F-3D4E-7E87 e senha AF66-D4A3-EBA8-E237
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 33 de 35
+
+HC 265468 AGR / SP
+ao caráter excepcional da superação da jurisprudência da Corte, a
+concessão da ordem de ofício configura providência a ser tomada tão
+somente em casos absolutamente aberrantes e teratológicos, o que não
+se verifica na espécie. 3. Agravo regimental desprovido. (RHC
+213.694-AgR, Segunda Turma, Rel. Min. Edson Fachin, DJe de
+26/8/2022)
+
+Por fim, a reiteração dos argumentos aduzidos na petição de habeas
+corpus, os quais já foram objeto de exame pelo relator, não possuem o
+condão de infirmar os fundamentos da decisão agravada. Nesse sentido,
+in verbis:
+AGRAVO REGIMENTAL EM HABEAS CORPUS.
+REITERAÇÃO DOS ARGUMENTOS EXPOSTOS NA INICIAL
+QUE NÃO INFIRMAM OS FUNDAMENTOS DA DECISÃO
+AGRAVADA. WRIT CONTRA DECISÃO LIMINAR DO
+SUPERIOR
+TRIBUNAL
+DE
+JUSTIÇA.
+POSTERIOR
+JULGAMENTO DO MÉRITO: PREJUDICIALIDADE DA
+IMPETRAÇÃO. AGRAVO AO QUAL SE NEGA PROVIMENTO.
+I - O agravante reitera os argumentos anteriormente expostos na
+inicial do habeas corpus, sem, contudo, aduzir novos elementos
+capazes de afastar as razões expendidas na decisão agravada. II - A
+superveniência do julgamento do mérito de habeas corpus pelo
+Superior Tribunal de Justiça torna prejudicada a impetração que ataca
+a decisão que indeferiu a liminar. III – Agravo ao qual se nega
+provimento. (HC 136.071-AgR, Segunda Turma, Rel. Min.
+Ricardo Lewandowski, DJe de 9/5/2017)
+AGRAVO REGIMENTAL EM HABEAS CORPUS.
+PROCESSO
+PENAL.
+DECISÃO
+MONOCRÁTICA.
+INEXISTÊNCIA DE ARGUMENTAÇÃO APTA A MODIFICÁLA. MANUTENÇÃO DA NEGATIVA DE SEGUIMENTO.
+DELITO DE TRÁFICO ILÍCITO DE DROGAS. RITO ESPECIAL.
+RESPOSTA À ACUSAÇÃO. PRESCINDIBILIDADE. PRISÃO
+
+25
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 9BE4-D57F-3D4E-7E87 e senha AF66-D4A3-EBA8-E237
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 34 de 35
+
+HC 265468 AGR / SP
+PREVENTIVA.
+MOTIVAÇÃO
+IDÔNEA.
+AGRAVO
+REGIMENTAL DESPROVIDO. 1. A inexistência de argumentação
+apta a infirmar o julgamento monocrático conduz à manutenção da
+decisão recorrida. 2. O artigo 396 do CPP, que assegura ao acusado a
+apresentação de resposta à acusação após a admissão da imputação,
+não se aplica ao rito disciplinado na Lei 11.343/06, hipótese em que a
+defesa escrita precede ao recebimento da denúncia. Ademais, ambas as
+defesas são direcionadas a evitar a persecução criminal temerária, de
+modo que, forte no princípio da especialidade, não há direito subjetivo
+à acumulação das oportunidades de defesa. 3. Não há ilegalidade na
+decisão que impõe prisão preventiva com lastro em argumentos que
+evidenciam o fundado receio de reiteração delituosa. 4. Agravo
+regimental desprovido. (HC 122.904-AgR, Primeira Turma, Rel.
+Min. Edson Fachin, DJe de 17/5/2016)
+Direito Penal e Processo Penal. Agravo Regimental. Recurso
+Ordinário em Habeas Corpus. Ação Penal. Desobediência. Coação no
+Curso do Processo. Nulidade do Processo em que Ocorreu o Crime. 1.
+O crime de coação no curso do processo é formal. Sua consumação
+independe de resultado naturalístico, bastando a simples ameaça
+praticada contra qualquer pessoa que intervenha no processo, seja
+autoridade, parte ou testemunha. É irrelevante que a conduta produza
+o resultado pretendido. 2. A conduta foi praticada quando o processo
+se encontrava em curso, o que atende à descrição típica do art. 344 do
+Código Penal. 3. A reiteração dos argumentos trazidos pelo agravante
+na inicial da impetração não é suficiente para modificar a decisão
+agravada (HC 115.560-AgR, Rel. Min. Dias Toffoli). 4. Agravo
+regimental a que se nega provimento. (RHC 124.487-AgR, Primeira
+Turma, Rel. Min. Roberto Barroso, DJe de 1º/7/2015)
+
+Ex positis, DESPROVEJO o agravo interno.
+É como voto.
+
+26
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 9BE4-D57F-3D4E-7E87 e senha AF66-D4A3-EBA8-E237
+
+Supremo Tribunal Federal
+Extrato de Ata - 30/12/2025
+
+Inteiro Teor do Acórdão - Página 35 de 35
+
+SEGUNDA TURMA
+
+EXTRATO DE ATA
+
+AG.REG. NO HABEAS CORPUS 265.468 SÃO PAULO
+PROCED. : SÃO PAULO/SP
+RELATOR(A): MIN. LUIZ FUX
+AGTE.(S): JARDELSON GALVAO SERRA
+ADV.(A/S): DOUGLAS TEODORO FONTES (114515/PR, 222732/SP)
+AGDO.(A/S): SUPERIOR TRIBUNAL DE JUSTIÇA
+Decisão: A Turma, por unanimidade, negou provimento ao agravo
+regimental, nos termos do voto do Relator, Ministro Luiz Fux. Segunda
+Turma, Sessão Virtual de 12.12.2025 a 19.12.2025.
+Composição: Ministros Gilmar Mendes (Presidente), Dias Toffoli,
+Luiz Fux, Nunes Marques e André Mendonça.
+Maria Clara Viotti Beck
+Secretária da Segunda Turma
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código E976-64D1-A796-6151 e senha EC29-BBD8-4AA3-5B07
