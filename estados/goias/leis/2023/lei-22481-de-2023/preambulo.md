@@ -1,0 +1,3 @@
+# LEI Nº 22.481, DE 20 DE DEZEMBRO DE 2023
+Altera a Lei nº 17.663, de 14 de junho de 2012, que dispõe sobre a reestruturação da Carreira dos Servidores do Poder Judiciário do Estado de Goiás, a Lei nº 19.256, de 13 de abril de 2016, que institui o auxílio-creche para os servidores efetivos em atividade integrantes da carreira do Poder Judiciário do Estado de Goiás, e a Lei nº 20.509, de 11 de julho de 2019, que autoriza a transformação de cargos em comissão e funções por encargo de confiança no âmbito da estrutura administrativa do Tribunal de Justiça do Estado de Goiás, e dá outras providências.
+A ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:
