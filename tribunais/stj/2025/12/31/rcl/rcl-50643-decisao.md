@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de Reclamação com pedido de liminar, proposta por VITOR EDUARDO DE SOUZA SEVERINO com fundamento no art. 105, I, f, da Constituição Federal, contra despacho do Juiz da 2.ª Vara Criminal da Comarca de Blumenau - SC, proferido no Processo n. 5021229-92.2022.8.24.0008/SC, por não ter atendido ao que foi determinado no REsp 2.147.274/SC.
+Consta dos autos que, no julgamento monocrático do mencionado Recurso Especial, a pena do reclamante foi reduzida para 2 (dois) anos e 6 (seis) meses de reclusão e pagamento de 250 (duzentos e cinquenta) dias-multa, em razão do reconhecimento da causa de diminuição do tráfico de drogas. Os dois Agravos Regimentais interpostos pelos acusados encontram-se pendentes de apreciação até o momento.
+Na presente Reclamação, o peticionário pugna, preliminarmente, pela concessão dos benefícios da justiça gratuita, diante da natureza da proposição e do disposto do art. 98 do Código de Processo Civil.
+No mérito, sustenta que o magistrado de primeira instância foi comunicado da decisão deste Tribunal Superior em 10.2.2025 e somente no dia 16.12.2025 requereu a manifestação do Ministério Público no prazo de 5 (cinco) dias.
+Argumenta que, como já se encontra em monitoramento eletrônico desde 24.5.2022, perfazendo um período de 3 (três) anos e 6 (seis) meses, a sanção imposta, com a redução pelo Tribunal da Cidadania, já está devidamente cumprida.
+Afirma já ter pleiteado, em primeiro grau, a retirada do dispositivo eletrônico, mas o julgador se declarou incompetente porque os autos estavam, até então, em análise no STJ, e nem mesmo instaurou o processo de execução criminal, destacando que o reclamante não se encontrava preso.
+Aduz que, agora, "a cessação do monitoramento eletrônico foi implicitamente concedida, como decorrência lógica da readequação da pena" (fl. 5), entretanto continua com a liberdade restrita, sob o risco de perdurar a constrição com o início do recesso forense.
+Informa que, nos autos do Recurso Especial, não foi examinado o pedido de retirada da tornozeleira eletrônica, haja vista a redução da reprimenda imposta.
+Alega não se tratar apenas de indevida protelação, mas, sim, de um risco de dano irreparável e de difícil reparação, com a presença do fumus boni iuris e do periculum in mora em virtude da ausência de justa causa para a continuidade do monitoramento eletrônico e do indevido prolongamento da medida constritiva.
+Aponta a competência desta Corte Superior para preservar sua autoridade e garantir a eficácia de suas decisões.
+Requer, liminarmente e no mérito, a revogação do monitoramento eletrônico (fls. 7-9). Subsidiariamente, pugna para que seja determinado ao Juízo de primeiro grau o cumprimento imediato da decisão do Superior Tribunal de Justiça, que readequou a pena do reclamante.
+É o relatório.
+Decido.
+De plano, defiro o pleito de gratuidade de justiça.
+Nos termos do art. 105, I, f, da Constituição Federal, dos art. 988 do Código de Processo Civil e do art. 187 do Regimento Interno desta Corte, compete ao Superior Tribunal de Justiça processar e julgar, originariamente, a Reclamação para a preservação de sua competência e garantia da autoridade de suas decisões, em caso de descumprimento de seus julgados.
+No caso em apreço, observa-se que o pleito de retirada da monitoração eletrônica foi incidentalmente veiculado nos autos do Recurso Especial, e o Ministro Relator o indeferiu por configurar indevida supressão de instância, visto que a matéria não havia sido objeto do apelo nobre (fls. 3.194-3.195 do REsp 2.147.274/SC).
+Novamente requerido o afastamento da tornozeleira eletrônica ou, subsidiariamente, o cumprimento da decisão de readequação da pena, o Relator, Ministro Rogerio Schietti, não conheceu dos pedidos por inadequação da via eleita (fls. 3.318-3.319 do REsp 2.147.274/SC).
+Acrescente-se que se encontra pendente a análise de dois Agravos Regimentais interpostos pelo reclamante e por corréu contra a decisão unipessoal proferida no REsp 2.147.274/SC, na qual foi reduzida a sanção imposta ao ora postulante, além de ainda ser possível a interposição recursal pelo Ministério Público, cujo prazo está em curso atualmente.
+Por fim, emerge dos nítidos contornos dos autos que a decisão monocrática indicada como descumprida apenas promoveu a redução da reprimenda imposta, sem abordar a questão sobre a persistência ou não da medida cautelar de monitoramento eletrônico. Tampouco sobressai qualquer descumprimento ao decidido no Recurso Especial pelo Juiz de primeiro grau, o qual, após a decisão unipessoal datada de 10.12.2025 deste Tribunal Superior (fls. 11-23), apenas proferiu despacho para manifestação do órgão ministerial no dia 16.12.2025 (fl. 32).
+Portanto, não há falar em descumprimento de decisão desta Corte Superior no caso concreto, o que torna manifestamente incabível a presente Reclamação.
+A propósito, vejam-se estes precedentes:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NA RECLAMAÇÃO. TRÁFICO DE DROGAS. ALEGAÇÃO DE DESCUMPRIMENTO DE DECISÃO PROFERIDA POR ESTA CORTE QUE DECLAROU A NULIDADE DO FLAGRANTE EM RAZÃO DA VIOLAÇÃO DE DOMICÍLIO. NOVA CONDENAÇÃO JUSTIFICADA EM ELEMENTOS AUTÔNOMOS DE PROVA. PEDIDO IMPROCEDENTE. AGRAVO DESPROVIDO.
+1. Nos termos do art. 105, I, f, da Constituição Federal e do art. 187 do Regimento Interno do Superior Tribunal de Justiça, cabe reclamação da parte interessada ou do Ministério Público para preservar a competência do Superior Tribunal de Justiça ou para garantir a autoridade das suas decisões na análise do caso concreto.
+2. In casu, o reclamante sustenta a configuração da hipótese prevista no citado art. 988, inciso II, do CPC, alegando que houve desrespeito da decisão proferida pelo STJ em que se reconheceu a nulidade do flagrante em razão da violação do domicílio e determinou-se que o Juízo de primeiro grau avaliasse se remanesciam elementos autônomos de prova nos autos para condenação.
+3. Não se pode dizer que o Juízo de origem não tenha cumprido o quanto determinado por esta Corte, já que declarou a nulidade da prova decorrente do ingresso desautorizado no domicílio e justificou a nova condenação na existência de prova independente (conduta anterior à entrada na residência do acusado e prova oral colhida em juízo).
+4. É incabível a reclamação para a análise do acerto ou desacerto da decisão reclamada, cabendo ao reclamante valer-se dos meios processuais cabíveis para questionar a superveniente decisão do Juízo de origem quanto aos aspectos não abrangidos pela decisão do STJ, sob pena, inclusive, de indevida supressão de instância.
+5. Agravo regimental desprovido.
+(AgRg na Rcl n. 42.643/SP, relator Ministro Antonio Saldanha Palheiro, Terceira Seção, julgado em 8/3/2023, DJe de 14/3/2023.)
+RECLAMAÇÃO. HABEAS CORPUS. PENAL. EXECUÇÃO. FALTA GRAVE. INTERRUPÇÃO DO PRAZO. AFASTAMENTO. NOVO INDEFERIMENTO. DESRESPEITO À ORDEM CONCEDIDA NO HC N. 274.235/SP. INEXISTÊNCIA. NOVA FALTA GRAVE. RECLAMAÇÃO IMPROCEDENTE.
+1. Não se vislumbra desrespeito ao julgado deste Tribunal Superior, porquanto a ordem concedida nos autos do HC 274.235 limita-se a afastar o efeito interruptivo relativo àquela falta grave objeto do writ, qual seja, o abandono do regime semiaberto.
+2. Uma vez que a questão não foi objeto de exame pelo Tribunal de 2º Grau, não pode esta Corte Superior apreciá-la, diretamente, sob pena de indevida supressão de instância. Precedentes.
+3. Reclamação julgada improcedente.
+(Rcl n. 15.149/SP, relator Ministro Nefi Cordeiro, Terceira Seção, julgado em 25/2/2016, DJe de 2/3/2016.)
+Ante o exposto, à luz dos arts. 21-E, V, e 34, XVIII, a, do Regimento Interno do Superior Tribunal de Justiça, não conheço da presente Reclamação.
+Publique-se.
+Intimem-se.
+EMENTA
