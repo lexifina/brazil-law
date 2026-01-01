@@ -22,6 +22,7 @@ IV - a comunicação, às autoridades competentes, da prática de ilícitos pena
 V - a revelação de informações sigilosas com o consentimento expresso dos interessados;
 VI - a prestação de informações nos termos e condições estabelecidos nos artigos 2º, 3º, 4º, 5º, 6º, 7º e 9 desta Lei Complementar.
 VII - o fornecimento de dados financeiros e de pagamentos, relativos a operações de crédito e obrigações de pagamento adimplidas ou em andamento de pessoas naturais ou jurídicas, a gestores de bancos de dados, para formação de histórico de crédito, nos termos de lei específica.
+VIII - a prestação ou publicação de informações relativas à identificação dos beneficiários pessoas jurídicas e dos valores aproveitados na concessão de incentivo ou benefício de natureza tributária, financeira ou creditícia que implique diminuição de receita ou aumento de despesa.
 § 4º A quebra de sigilo poderá ser decretada, quando necessária para apuração de ocorrência de qualquer ilícito, em qualquer fase do inquérito ou do processo judicial, e especialmente nos seguintes crimes:
 I - de terrorismo;
 II - de tráfico ilícito de substâncias entorpecentes ou drogas afins;
