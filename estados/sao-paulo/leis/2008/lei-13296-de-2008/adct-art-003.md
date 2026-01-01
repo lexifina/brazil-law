@@ -1,0 +1,1 @@
+Artigo 3° - Enquanto não for instituído o Cadastro de Contribuintes do IPVA a que se referem os artigos 30 e 31 desta lei, serão utilizadas as informações constantes do cadastro de veículos do Departamento Estadual de Trânsito - DETRAN.

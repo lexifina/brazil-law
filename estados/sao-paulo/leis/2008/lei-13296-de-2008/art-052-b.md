@@ -1,0 +1,1 @@
+Artigo 52-B - Em se tratando de veículos cujo primeiro dígito do código que identifica a marca, o modelo e a versão seja 2 (dois), ficam convalidados os procedimentos administrativos relativos à aplicação da alíquota do Imposto sobre a Propriedade de Veículos Automotores - IPVA adotados para fatos geradores ocorridos até 1° de janeiro de 2015. (NR)

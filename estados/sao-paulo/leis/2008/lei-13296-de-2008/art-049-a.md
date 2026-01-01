@@ -1,0 +1,1 @@
+Artigo 49-A - Fica o Secretário da Fazenda e Planejamento autorizado a prorrogar ou suspender os prazos de recolhimento do IPVA, como medida emergencial e temporária diante da ocorrência de situações excepcionais que impossibilitem o recolhimento do imposto no prazo previsto nesta lei. (NR)

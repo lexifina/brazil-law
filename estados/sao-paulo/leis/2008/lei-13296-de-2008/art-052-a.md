@@ -1,0 +1,1 @@
+Artigo 52-A - Ficam cancelados os débitos de IPVA, não inscritos em dívida ativa, em decorrência de inconsistências cadastrais, relativamente a fatos geradores ocorridos até 31 de dezembro de 2010. (NR)

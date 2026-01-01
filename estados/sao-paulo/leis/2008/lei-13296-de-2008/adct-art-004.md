@@ -1,0 +1,1 @@
+Artigo 4° - Ficam isentos do Imposto sobre a Propriedade de Veículos Automotores - IPVA, no período de 1° de janeiro de 2025 a 31 de dezembro de 2029, os ônibus ou caminhões movidos exclusivamente a hidrogênio ou gás natural, inclusive biometano, observado, quando o caso, o disposto no § 1° do artigo 13 do corpo permanente desta lei. (NR);
