@@ -1,0 +1,1 @@
+Art. 25-A. Os dados dos documentos fiscais e declarações de qualquer espécie serão compartilhados entre as administrações tributárias da União, dos Estados, do Distrito Federal e dos Municípios, na forma estabelecida pelo CGSN.
