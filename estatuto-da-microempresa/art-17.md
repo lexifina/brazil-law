@@ -1,6 +1,6 @@
 Art. 17. Não poderão recolher os impostos e contribuições na forma do Simples Nacional a microempresa ou empresa de pequeno porte:
 I - que explore atividade de prestação cumulativa e contínua de serviços de assessoria creditícia, gestão de crédito, seleção e riscos, administração de contas a pagar e a receber, gerenciamento de ativos (asset management) ou compra de direitos creditórios resultantes de vendas mercantis a prazo ou de prestação de serviços (factoring) ou que execute operações de empréstimo, de financiamento e de desconto de títulos de crédito, exclusivamente com recursos próprios, tendo como contrapartes microempreendedores individuais, microempresas e empresas de pequeno porte, inclusive sob a forma de empresa simples de crédito;
-II - que tenha sócio domiciliado no exterior;
+II - cujo titular ou sócio seja domiciliado no exterior;
 III - de cujo capital participe entidade da administração pública, direta ou indireta, federal, estadual ou municipal;
 IV - (REVOGADO)
 V - que possua débito com o Instituto Nacional do Seguro Social - INSS, ou com as Fazendas Públicas Federal, Estadual ou Municipal, cuja exigibilidade não esteja suspensa;
@@ -23,7 +23,7 @@ XI - (Revogado);
 XII - que realize cessão ou locação de mão-de-obra;
 XIII - (Revogado);
 XIV - que se dedique ao loteamento e à incorporação de imóveis.
-XV - que realize atividade de locação de imóveis próprios, exceto quando se referir a prestação de serviços tributados pelo ISS.
+XV - que realize atividade de locação de imóveis próprios;
 XVI - com ausência de inscrição ou com irregularidade em cadastro fiscal federal, municipal ou estadual, quando exigível.
 § 1º As vedações relativas a exercício de atividades previstas no caput deste artigo não se aplicam às pessoas jurídicas que se dediquem exclusivamente às atividades referidas nos §§ 5º-B a 5º-E do art. 18 desta Lei Complementar, ou as exerçam em conjunto com outras atividades que não tenham sido objeto de vedação no caput deste artigo.
 I - (REVOGADO)
