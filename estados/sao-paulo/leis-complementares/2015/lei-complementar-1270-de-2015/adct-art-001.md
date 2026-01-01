@@ -1,0 +1,3 @@
+## TÍTULO VIII
+## Das Disposições Transitórias
+Artigo 1° - Os cargos, de provimento em comissão, de Procurador do Estado Assessor Chefe, de Procurador do Estado Assessor, de Procurador do Estado Assistente e de Procurador do Estado Chefe do Quadro da Procuradoria Geral do Estado e da Casa Civil serão extintos 30 (trinta) dias após a entrada em vigor da lei complementar mencionada no artigo 202 das disposições finais desta lei complementar, fixando-se, a partir da extinção dos cargos prevista neste artigo, o cargo de Procurador do Estado Nível V, como paradigma para cálculo de direitos referenciados aos mencionados cargos extintos.
