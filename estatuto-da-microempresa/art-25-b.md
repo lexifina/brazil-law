@@ -1,0 +1,2 @@
+Art. 25-B. O MEI, definido no art. 18-A, deverá apresentar anualmente à Secretaria Especial da Receita Federal do Brasil declaração única e simplificada de informações socioeconômicas e fiscais, observados prazo e modelo aprovados pelo CGSN.
+Parágrafo único. As informações da declaração referida no caput têm caráter declaratório, constituindo confissão de dívida e instrumento hábil e suficiente para a exigência dos tributos e contribuições que não tenham sido recolhidos resultantes das informações nela prestadas.
