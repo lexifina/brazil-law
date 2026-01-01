@@ -1,2 +1,1 @@
 Art. 22. A partir de 12 (doze) meses após a publicação desta Lei, a CDE custeará as componentes tarifárias não associadas ao custo da energia incidentes e não remuneradas pelo consumidor-gerador sobre a energia elétrica compensada pelas unidades consumidoras participantes do SCEE nas distribuidoras de energia elétrica com mercado inferior a 700 GWh (setecentos gigawatts-hora) por ano.
-Parágrafo único. Os custos de que trata o caput deste artigo serão suportados somente pelas unidades consumidoras que compram energia em condições reguladas.
