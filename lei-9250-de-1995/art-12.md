@@ -1,4 +1,4 @@
-Art. 12. Do imposto apurado na forma do artigo anterior, poderão ser deduzidos:
+Art. 12. Do imposto apurado conforme a tabela progressiva anual, poderão ser deduzidos:
 I - as contribuições feitas aos Fundos controlados pelos Conselhos Municipais, Estaduais e Nacional dos Direitos da Criança e do Adolescente e pelos Conselhos Municipais, Estaduais e Nacional do Idoso;
 II - as contribuições efetivamente realizadas em favor de projetos culturais, aprovados na forma da regulamentação do Programa Nacional de Apoio à Cultura - PRONAC, instituído pelo art. 1º da Lei nº 8.313, de 23 de dezembro de 1991;
 III - os investimentos feitos a título de incentivo às atividades audiovisuais, na forma e condições previstas nos arts. 1º e 4º da Lei nº 8.685, de 20 de julho de 1993;
