@@ -1,0 +1,4 @@
+LEI Nº 15.320, DE 26 DE DEZEMBRO DE 2025
+Altera a Lei nº 5.070, de 7 de julho de 1966, a Lei nº 11.652, de 7 de abril de 2008, a Medida Provisória nº 2.228-1, de 6 de setembro de 2001, e a Lei nº 14.173, de 15 de junho de 2021, para prorrogar até 31 de dezembro de 2030 os benefícios tributários relativos às taxas de fiscalização de instalação e de funcionamento, à Contribuição para o Fomento da Radiodifusão Pública e à Contribuição para o Desenvolvimento da Indústria Cinematográfica Nacional (Condecine) incidentes sobre estações de telecomunicações integrantes de sistemas de comunicação máquina a máquina e estações satelitais de pequeno porte.
+O PRESIDENTE DA REPÚBLICA
+Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
