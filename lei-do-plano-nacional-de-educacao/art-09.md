@@ -1,1 +1,0 @@
-Art. 9º Os Estados, o Distrito Federal e os Municípios deverão aprovar leis específicas para os seus sistemas de ensino, disciplinando a gestão democrática da educação pública nos respectivos âmbitos de atuação, no prazo de 2 (dois) anos contado da publicação desta Lei, adequando, quando for o caso, a legislação local já adotada com essa finalidade.

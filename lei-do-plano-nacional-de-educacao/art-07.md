@@ -1,8 +1,0 @@
-Art. 7º A União, os Estados, o Distrito Federal e os Municípios atuarão em regime de colaboração, visando ao alcance das metas e à implementação das estratégias objeto deste Plano.
-§ 1º Caberá aos gestores federais, estaduais, municipais e do Distrito Federal a adoção das medidas governamentais necessárias ao alcance das metas previstas neste PNE.
-§ 2º As estratégias definidas no Anexo desta Lei não elidem a adoção de medidas adicionais em âmbito local ou de instrumentos jurídicos que formalizem a cooperação entre os entes federados, podendo ser complementadas por mecanismos nacionais e locais de coordenação e colaboração recíproca.
-§ 3º Os sistemas de ensino dos Estados, do Distrito Federal e dos Municípios criarão mecanismos para o acompanhamento local da consecução das metas deste PNE e dos planos previstos no art. 8º.
-§ 4º Haverá regime de colaboração específico para a implementação de modalidades de educação escolar que necessitem considerar territórios étnico-educacionais e a utilização de estratégias que levem em conta as identidades e especificidades socioculturais e linguísticas de cada comunidade envolvida, assegurada a consulta prévia e informada a essa comunidade.
-§ 5º Será criada uma instância permanente de negociação e cooperação entre a União, os Estados, o Distrito Federal e os Municípios.
-§ 6º O fortalecimento do regime de colaboração entre os Estados e respectivos Municípios incluirá a instituição de instâncias permanentes de negociação, cooperação e pactuação em cada Estado.
-§ 7º O fortalecimento do regime de colaboração entre os Municípios dar-se-á, inclusive, mediante a adoção de arranjos de desenvolvimento da educação.
