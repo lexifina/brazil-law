@@ -1,0 +1,1 @@
+Artigo 3° - Fica mantido o regime de trabalho dos integrantes da carreira de Procurador do Estado que na data da publicação desta lei complementar estejam sujeitos à Jornada Parcial de Trabalho, caracterizada pela exigência da prestação de 30 (trinta) horas semanais de trabalho, não se lhes aplicando o disposto no inciso VIII do artigo 118 desta lei complementar.
