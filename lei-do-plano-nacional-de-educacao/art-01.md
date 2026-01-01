@@ -1,1 +1,0 @@
-Art. 1º É aprovado o Plano Nacional de Educação - PNE, com vigência por 10 (dez) anos, a contar da publicação desta Lei, na forma do Anexo, com vistas ao cumprimento do disposto no art. 214 da Constituição Federal.

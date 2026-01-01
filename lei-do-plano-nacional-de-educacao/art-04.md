@@ -1,2 +1,0 @@
-Art. 4º As metas previstas no Anexo desta Lei deverão ter como referência a Pesquisa Nacional por Amostra de Domicílios - PNAD, o censo demográfico e os censos nacionais da educação básica e superior mais atualizados, disponíveis na data da publicação desta Lei.
-Parágrafo único. O poder público buscará ampliar o escopo das pesquisas com fins estatísticos de forma a incluir informação detalhada sobre o perfil das populações de 4 (quatro) a 17 (dezessete) anos com deficiência.
