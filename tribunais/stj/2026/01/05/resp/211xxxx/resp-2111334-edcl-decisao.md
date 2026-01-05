@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra a decisão que acolheu o recurso anterior para consignar que a segunda qualificadora (motivo fútil) fosse considerada como circunstância agravante.
+O embargante opõe novos embargos de declaração, com fundamento no art. 619 do Código de Processo Penal, apontando omissão na decisão que acolheu embargos anteriores, mas sem proceder à nova dosimetria da pena (fl. 1.021).
+Sustenta que o acórdão do recurso especial, em 14/6/2024, restabeleceu a sentença condenatória, a qual fixou a pena total em 21 anos de reclusão em regime inicial fechado, sem reconhecer a atenuante da confissão espontânea, e já havia convertido a qualificadora do motivo fútil em agravante, majorando a pena intermediária em 1/5 (fl. 1.022).
+Argumenta, contudo, que, nos recursos ao Tribunal de Justiça de Minas Gerais, houve reforma para reconhecer a atenuante da confissão espontânea, com redução de 7 meses e concretização da pena em 14 anos de reclusão, conforme trecho transcrito: "Assim, faço incidir a atenuante prevista no artigo 65, III, "d", do CP, em favor do apelante, reduzindo a pena em 07 (sete) meses de reclusão  concretizando a pena em 14 (quatorze) anos de reclusão" (fl. 1.023).
+Diante disso, afirma que não houve restabelecimento integral da sentença originária, pois o reconhecimento superveniente da atenuante impõe ajuste da pena, e requer, por consequência, o acolhimento dos embargos para sanar a omissão e realizar nova dosimetria, reconhecendo-se, na segunda fase, a atenuante da confissão espontânea (fls. 1.021-1.023).
+A impugnação foi apresentada no sentido da rejeição dos embargos de declaração.
+É o relatório.
+Os embargos de declaração são cabíveis somente nas hipóteses previstas no art. 619 do Código de Processo Penal, quando houver na decisão embargada ambiguidade, obscuridade, contradição ou omissão, tendo a jurisprudência os admitido, também, para sanar eventual erro material na decisão embargada.
+São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, novo julgamento do caso.
+Na espécie, é viável o acolhimento da pretensão recursal, diante da divergência existente entre o acórdão e a sentença em relação à dosimetria da pena, conforme explicitado na decisão embargada (fls. 1.014-1.015).
+Assim, com o acolhimento dos embargos de declaração para "consignar que foi dado provimento ao recurso especial para que a segunda qualificadora (motivo fútil) seja considerada como circunstância agravante do condenado" (fl. 1.015), se faz necessário novo redimensionamento da pena.
+Ante o exposto, acolho os embargos de declaração para alterar o dispositivo da decisão de fls. 942-946, a fim de consignar que foi dado provimento ao recurso especial do Ministério Público para que a segunda qualificadora (motivo fútil) seja considerada como circunstância agravante do condenado, devendo o Tribunal de origem proceder à nova fixação da pena.
+Publique-se. Intimem-se.
+EMENTA
