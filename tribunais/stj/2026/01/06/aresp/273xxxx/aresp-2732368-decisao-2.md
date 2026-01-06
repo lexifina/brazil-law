@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por GILMAR PEREIRA BORGES contra decisão do Tribunal de origem que inadmitiu o recurso especial, ante o óbice da Súmula n. 7 do STJ e ausência de demonstração do dissídio constitucional.
+Consta dos autos que os agravantes foram condenados às penas de 10 (dez) anos e 7 (sete) meses de reclusão e 10 (dez) anos, 2 (dois) meses e 15 (quinze) dias de reclusão, em regime fechado, e 23 (vinte e três) dias-multa para cada um, como incursos nas sanções dos arts. 157, § 2º, II e § 2º-A, I c/c art. 71, caput, do Código Penal.
+A parte agravante sustenta, em nome de GILMAR, violação ao art. 155 e 226 do Código de Processo Penal, afirmando que a condenação se apoiou em provas frágeis e desconexas.
+Alega que os reconhecimentos fotográfico e pessoal foram realizados em descompasso com o art. 226 do Código de Processo Penal, por terem ocorrido por videoconferência, sem adequado perfilamento e condições de contraditório efetivo.
+Afirma que há divergência jurisprudencial, apontando acórdão estadual que absolve em hipóteses de prova controvertida e reconhecimento comprometido, e requer o reconhecimento do dissídio.
+Defende que, por tais vícios, devem ser reconhecidas as irregularidades dos reconhecimentos e, por consequência, a absolvição, à luz dos princípios da presunção de inocência e do "in dubio pro reo". (fls. 1096-1097)
+Requer o provimento do recurso, com a consequente repercussão jurídica.
+Em contrarrazões, o recorrido alega que a pretensão demanda reexame do conjunto fático-probatório, incidindo a Súmula n. 7 do STJ, e que não houve demonstração adequada do dissídio jurisprudencial (fls. 1144-1158 e 1159-1174).
+O parecer do Ministério Público Federal é pelo não conhecimento dos agravos em recursos especiais, por ausência de impugnação específica aos fundamentos da decisão de inadmissão (fls. 1272-1278)
+Determinada a baixa dos autos a fim de que fosse aplicado o Tema Repetitivo n. 1.258 do STJ, sobreveio decisão do Tribunal de origem às fls. 1317-1319, negando seguimento a parte do recurso, em relação ao art. 226 do CPP, permanecendo a inadmissibilidade no restante.
+É o relatório.
+A conclusão sobre a inadmissibilidade do recurso deve ser mantida, como se passa a explicar.
+Como consignado na decisão de admissibilidade, embora impugnado o fundamento de inadmissibilidade no agravo, inexiste obediência aos parâmetros necessários para interposição do recurso especial em razão de divergência jurisprudencial.
+Portanto , quanto à deficiência de comprovação do dissídio jurisprudencial, apesar das alegações defensivas, tem-se que a parte agravante não conseguiu refutar a deficiência no cotejo analítico, pois deixou de comprovar que o realizou, contrapondo o paradigma indicado e o caso dos autos para demonstrar a semelhança entre as circunstâncias e a aplicação de teses divergentes. Nesse sentido: AgRg no AREsp n. 2.096.679/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 6/3/2023, DJe de 9/3/2023; e AgRg no AREsp n. 2.247.257/PA, relator Ministro Jesuíno Rissato - Desembargador convocado do TJDFT, Sexta Turma, julgado em 20/2/2024, DJe de 23/2/2024.
+No caso, além da inobservância dos requisitos dos arts. 1.029, § 1º, do Código de Processo Civil, e 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça, não ficou comprovada a similitude fática entre o acórdão paradigma e o acórdão recorrido.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. COMPROVAÇÃO DA DIVERGÊNCIA. AUSÊNCIA DA JUNTADA DO INTEIRO TEOR DO ACÓRDÃO PARADIGMA. INDICAÇÃO DO DIÁRIO DA JUSTIÇA ELETRÔNICO E DO SITE DO STJ. INSUFICIÊNCIA. VÍCIO SUBSTANCIAL. INAPLICABILIDADE DO PARÁGRAFO ÚNICO DO ART. 932 DO CPC. JURISPRUDÊNCIA CONSOLIDADA. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça está consolidada no sentido de que: (a) a certidão de julgamento compõe o inteiro teor do acórdão, não se admitindo, para comprovação da divergência, julgado dela desacompanhado; (b) a referência ao site do Tribunal (www.stj.jus.br) não é suficiente para substituir a juntada do inteiro teor do acórdão paradigma, sendo necessária a indicação de link específico que leve diretamente ao inteiro teor do julgado; (c) a menção ao Diário da Justiça em que publicado o aresto divergente não atende às exigências formais para comprovação do dissídio jurisprudencial, ante a ausência de inteiro teor do acórdão naquela fonte; e (d) a inobservância desses requisitos constitui vício substancial, o que afasta a aplicação do parágrafo único do art. 932 do CPC.
+2. Agravo interno desprovi do.
+(AgInt nos EREsp n. 1.943.393/AM, relator Ministro João Otávio de Noronha, Segunda Seção, julgado em 30/4/2024, DJe de 6/5/2024.)
+Por fim, registro que, n  os termos do art. 932, III, do Código de Processo Civil, incumbe monocraticamente ao relator "não conhecer de recurso inadmissível", hipótese amparada também pelo art. 253, parágrafo único, II, a, do Regimento Interno do Superior Tribunal de Justiça.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
