@@ -1,0 +1,10 @@
+Artigo 26-A - O militar do Estado transferido para a reserva poderá ser designado para exercer, especificamente, funções administrativas, técnicas ou especializadas nas Organizações Policiais-Militares, enquanto não atingir a idade-limite de permanência na reserva. (NR)
+§ 1° - Revogado.
+§ 2° - O militar da reserva designado terá as mesmas prerrogativas e deveres do militar do serviço ativo em igual situação hierárquica, fazendo jus, enquanto perdurar sua designação, a: (NR)
+1. férias; e (NR)
+2. diária, com valor a ser fixado por meio de decreto. (NR)
+§ 3° - Além da avaliação médica e de aptidão física prevista no § 2° do artigo 26, o Comandante Geral definirá critérios disciplinares e técnicos para a designação de militar da reserva nos termos deste artigo. (NR)
+§ 4° - A administração pública ou o militar da reserva, a qualquer tempo e por ato unilateral, poderá encerrar a designação. (NR)
+§ 5° - Caberá: (NR)
+1. ao Governador, mediante decreto, estabelecer a quantidade de militares que podem ser designados anualmente; e (NR)
+2. ao dirigente do órgão de pessoal da Polícia Militar, designar e exonerar o militar da reserva. (NR)
