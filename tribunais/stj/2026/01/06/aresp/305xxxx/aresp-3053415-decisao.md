@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por GENOVEZ SANTOS DE BRITO contra a decisão do Tribunal de origem que inadmitiu o recurso especial, ante o óbice da Súmula n. 283 do STF.
+Consta dos autos que o agravante foi condenado às penas de 5 anos, 5 meses e 10 dias em regime inicial fechado e de pagamento de 12 dias-multa, como incurso nas sanções do art. 157, caput, do Código Penal.
+O agravante alega que houve negativa de vigência aos arts. 65 e 67 do Código Penal e 617 do Código de Processo Penal, porque reconhecida a confissão sem redução da pena, impondo-se a compensação integral com a reincidência e o consequente redimensionamento da reprimenda.
+O recurso especial foi alvo de decisão de admissibilidade, na qual houve negativa de seguimento no tocante aos arts. 65 e 67 do CP, em razão do Tema repetitivo n. 585, e inadmitido quanto ao art. 617 do CPP.
+Aduz que o recurso é tempestivo, por prerrogativa da Defensoria Pública de intimação pessoal com vista e prazo em dobro, tratando-se de matéria estritamente jurídica, sem necessidade de reexame probatório.
+Afirma que o cabimento decorre do art. 105, III, a, da Constituição Federal, com prequestionamento estabelecido no acórdão e nos embargos de declaração, suficientes ao conhecimento do especial.
+Defende que a confissão, utilizada para formar a convicção judicial, impõe o reconhecimento da atenuante, devendo produzir reflexo concreto na pena, à luz da Súmula n. 545 do STJ.
+Entende que, no concurso de circunstâncias, a confissão traduz dado subjetivo positivo e deve se equilibrar com a reincidência, sem preponderância automática desta, impondo compensação integral.
+Pondera que a jurisprudência do STJ admite a compensação da confissão com a reincidência e que, no caso, a manutenção do aumento de 1/6 sem redução, após reconhecer a confissão, viola o art. 617 do CPP em apelação exclusiva da defesa.
+Relata que a decisão de inadmissibilidade equivocou-se ao aplicar óbice processual, pois o especial cumpriu os requisitos formais do art. 1.029 do CPC e refutou os fundamentos pertinentes do acórdão.
+Informa que não incide a Súmula n. 283 do STF, porque todos os pontos impugnados foram devidamente enfrentados de forma compartimentada nas razões do especial.
+Assevera que não incide a Súmula n. 7 do STJ, por se tratar de questão de direito aferível pela leitura dos atos decisórios, sem necessidade de revolvimento de provas.
+Requer o provimento do recurso, com a consequente repercussão jurídica.
+Em contrarrazões, o recorrido alega que o agravante não impugnou especificamente os fundamentos da decisão agravada, atraindo a Súmula n. 182 do STJ, e sustenta ausência de utilidade do agravo, pugnando pela manutenção da inadmissão (fls. 253-254).
+O parecer do Ministério Público Federal é pelo conhecimento do agravo legal, para conhecer em parte do recurso especial defensivo e, nessa parte, negar-lhe provimento (fls. 294-297).
+É o relatório.
+A conclusão da instância de origem no sentido da inadmissibilidade do recurso deve ser mantida.
+A respeito da violação do art. 617 do CPP, assim constou do acórdão (fl. 169):
+Na segunda fase da dosimetria, o digno magistrado sentenciante reconheceu que GENOVEZ é reincidente (vide Certidão de fls. 31/36 e Folha de Antecedentes de fls. 20/30 Procs. nº 1509652-30.2021; 0024031-73.2011); majorando a reprimenda em 1/6 (um sexto).
+Nada obstante, há de ser reconhecida a atenuante da confissão espontânea, mesmo que esta tenha sido parcial, de forma que ocorra a compensação entre a reincidência e a confissão, tal como pleiteado pela defesa técnica. No entanto, existindo duas condenações aptas a gerar a reincidência, uma delas sendo compensada com a referida atenuante, deve ser mantida a majoração em 1/6 (um sexto), considerando-se os princípios da proporcionalidade e da individualização da pena.
+Considerando a aplicação pelo Tribunal de origem do Tema repetitivo n. 585 do STJ, segundo o qual é cabível a compensação parcial em caso de réu multirreincidente, cabe pontuar que não há falar em reformatio in pejus.
+A fundamentação do acórdão faz transcrição do que já estava contido na sentença na segunda fase para reconhecimento da agravante da reincidência (fl. 106), ou seja, a menção a dois processos anteriores que caracterizavam a recidiva, embora se tenha optado por aumento de 1/6. Assim, entendendo-se pela incidência da atenuante da confissão espontânea, é viável a compensação parcial.
+Saliente-se, ademais, que não se trata de confissão plena, mas parcial, de modo que indevido proceder em compensação integral, conforme se depreende do Tema repetitivo n. 1.194 do STJ:
+1. A atenuante genérica da confissão espontânea, prevista no art. 65, III, "d", do Código Penal, é apta a abrandar a pena independentemente de ter sido utilizada na formação do convencimento do julgador e mesmo que existam outros elementos suficientes de prova, desde que não tenha havido retratação, exceto, neste último caso, que a confissão tenha servido à apuração dos fatos;
+2. A atenuação deve ser aplicada em menor proporção e não poderá ser considerada preponderante no concurso com agravantes quando o fato confessado for tipificado com menor pena ou caracterizar circunstância excludente da tipicidade, da ilicitude ou da culpabilidade.
+Portanto, "é pacífico o entendimento deste Tribunal Superior no sentido de que o efeito devolutivo da a pelação autoriza a Corte estadual, quando instada a se manifestar acerca da dosimetria, regime inicial e demais questões relativas às peculiaridades do crime, a realizar nova ponderação e revaloração dos fatos e circunstâncias da conduta delitiva, ainda que no julgamento de recurso exclusivo da defesa, desde que a situação final do réu não seja agravada, o que não configura reformati o in pejus" (AgRg no AREsp n. 2.601.641/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/8/2024, DJe de 20/8/2024).
+Por fim, registre-se que, n  os termos do art. 932, III, do Código de Processo Civil, incumbe monocraticamente ao relator "não conhecer de recurso inadmissível", hipótese amparada também pelo art. 253, parágrafo único, II, a, do Regimento Interno do Superior Tribunal de Justiça.
+Ante o exposto, conheço do agravo e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
