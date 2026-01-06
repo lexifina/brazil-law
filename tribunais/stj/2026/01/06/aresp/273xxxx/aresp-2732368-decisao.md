@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ORLANDO DANIEL FRANCO MARTINS contra decisão do Tribunal de origem que inadmitiu o recurso especial, ante o óbice da Súmula n. 7 e 518 do STJ e 284 do STF.
+Consta dos autos que o agravante foi conde nado a 10 (dez) anos, 2 (dois) meses e 15 (quinze) dias de reclusão, em regime fechado, e a 23 (vinte e três) dias-multa, como incurso nas sanções dos arts. 157, § 2º, II e § 2º-A, I c.c. art. 71, caput, do Código Penal.
+A parte agravante sustenta negativa de vigência ao art. 386, VII, do Código de Processo Penal, por insuficiência probatória e dúvida razoável sobre autoria.
+Alega violação ao art. 226 do Código de Processo Penal, porque o reconhecimento foi feito por fotografias e sem observância do procedimento legal, inexistindo reconhecimento pessoal válido em juízo.
+Aduz que o laudo papiloscópico oficial é inconfiável, por baixa resolução das imagens, coleta antiquada e quebra da cadeia de custódia, não servindo como único suporte condenatório.
+Assevera que nenhuma vítima ou testemunha reconheceu o agravante em juízo, o que reforça a necessidade de absolvição por dúvida.
+Afirma que a condenação não pode se apoiar exclusivamente em perícia controversa, impondo absolvição com base no art. 386, IV, V e VII, do Código de Processo Penal.
+Defende que a exasperação de 2/3 na terceira fase carece de fundamentação concreta, em desatenção à Súmula 443 do STJ.
+Entende que, ausente apreensão e perícia da arma, não há base idônea para aumento acima do mínimo legal pela causa de aumento do emprego de arma de fogo.
+Pondera que o agravo deve ser remetido ao Superior Tribunal de Justiça após o prazo de resposta e inexistindo retratação, nos termos do art. 1.042, § 4º, do Código de Processo Civil.
+Informa que sua insurgência não demanda reexame de fatos, mas controle jurídico da valoração da prova e da conformidade com a lei federal.
+Relata vícios técnicos na coleta e na análise das impressões digitais, com múltiplos borrões e pontos de baixa resolução que impedem identificação segura.
+Requer o provimento do recurso, com a consequente repercussão jurídica.
+Em contrarrazões, o recorrido alega ausência de impugnação específica aos fundamentos da decisão agravada, incidindo a Súmula n. 182 (cento e oitenta e dois) do STJ (fls. 1251-1253).
+O parecer do Ministério Público Federal é pelo não conhecimento dos agravos em recursos especiais (fl. 1278).
+Determinada a baixa dos autos a fim de que fosse aplicado o Tema Repetitivo n. 1258 do STJ, sobreveio decisão do Tribunal de origem às fls. 1314-1316, negando seguimento a parte do recurso, em relação ao art. 226 do CPP, permanecendo a inadmissibilidade no restante.
+É o relatório.
+Como relatado, o recurso especial foi inadmitido por aplicação dos seguintes fundamentos: (i) a análise pretendida exigiria o reexame de fatos e provas, atraindo o óbice da Súmula n. 7 do STJ; (ii) falha construtiva do recurso especial, fazendo incidir o óbice da Súmula n. 284 do STF; (iii) e Súmula n. 518 do STJ.
+Porém, as razões do agravo em recurso especial não enfrentam, de modo suficiente, todos os fundamentos referidos, não bastando para tanto que a parte recorrente mencione cada um deles, pois, para atendimento do princípio da dialeticidade, devem ser demonstradas, de modo específico e concreto, quais seriam as razões pelas quais a decisão recorrida deveria ser reformada.
+Vale esclarecer, quanto aos óbices referidos nas Súmulas n. 284 do STF e 518 do STJ a falta de menção no agravo, com reiteração das teses do recurso especial.
+No que se refere à incidência da Súmula n. 284 do STF, aplicada analogicamente ao caso, as razões do agravo em recurso especial não afastam a conclusão de falha na indicação clara e específica dos dispositivos alegadamente violados, bem como na exposição das razões pelas quais o acórdão recorrido teria afrontado cada um deles, o que confirma a impossibilidade de afastamento do referido óbice (AgRg no AREsp n. 2.512.162/CE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 9/4/2024, DJe de 15/4/2024; AgRg no AREsp n. 2.340.943/DF, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 26/9/2023, DJe de 2/10/2023).
+Como se constata, a efetiva impugnação dos fundamentos que levaram o Tribunal de orige m a inadmitir o recurso especial exigia o expresso e efetivo enfrentamento de cada um dos respectivos fundamentos, sem o que não se pode cogitar do desacerto da decisão agravada.
+Aplica-se, em consequência, a conclusão prevista na Súmula n. 182 do STJ, que estabelece ser "inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". A propósito: AgRg no AREsp n. 2.706.517/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 15/10/2024, DJe de 23/10/2024; AgRg no AREsp n. 2.564.761/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 16/10/2024, DJe de 22/10/2024; AgRg no AREsp n. 2.126.667/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 15/10/2024, DJe de 18/10/2024; AgRg no AREsp n. 2.262.869/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/6/2024, DJe de 25/6/2024.
+Por fim, registro que, n  os termos do art. 932, III, do CPC, incumbe monocraticamente ao relator "não conhecer de recurso  ..  que não tenha impugnado especificamente os fundamentos da decisão recorrida", hipótese amparada também pelo art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO SUFICIENTE. SÚMULA N. 182 DO STJ. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
