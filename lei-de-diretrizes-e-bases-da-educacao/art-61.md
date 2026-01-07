@@ -4,8 +4,9 @@ II - trabalhadores em educação portadores de diploma de pedagogia, com habilit
 III - trabalhadores em educação, portadores de diploma de curso técnico ou superior em área pedagógica ou afim.
 IV - profissionais com notório saber reconhecido pelos respectivos sistemas de ensino, para ministrar conteúdos de áreas afins à sua formação ou experiência profissional, atestados por titulação específica ou prática de ensino em unidades educacionais da rede pública ou privada ou das corporações privadas em que tenham atuado, exclusivamente para atender ao inciso V do caput do art. 36;
 V - profissionais graduados que tenham feito complementação pedagógica, conforme disposto pelo Conselho Nacional de Educação.
-Parágrafo único. A formação dos profissionais da educação, de modo a atender às especificidades do exercício de suas atividades, bem como aos objetivos das diferentes etapas e modalidades da educação básica, terá como fundamentos:
+§ 1º A formação dos profissionais da educação, de modo a atender às especificidades do exercício de suas atividades, bem como aos objetivos das diferentes etapas e modalidades da educação básica, terá como fundamentos:
 I - a presença de sólida formação básica, que propicie o conhecimento dos fundamentos científicos e sociais de suas competências de trabalho;
 II - a associação entre teorias e práticas, mediante estágios supervisionados e capacitação em serviço;
 III - o aproveitamento da formação e experiências anteriores, em instituições de ensino e em outras atividades.
 IV - a proteção integral dos direitos de crianças e adolescentes e o apoio à formação permanente dos profissionais de que trata o caput deste artigo para identificação de maus-tratos, de negligência e de violência sexual praticados contra crianças e adolescentes.
+§ 2º São considerados professores da educação infantil, devendo ser enquadrados na carreira do magistério, independentemente da designação do cargo que ocupam, os que exercem função docente e atuam diretamente com as crianças educandas, com formação no magistério ou em curso de nível superior e aprovados em concurso público.
