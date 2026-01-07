@@ -1,0 +1,1 @@
+Art. 124-G. O tratamento de dados pessoais pelo INSS deverá observar as disposições da Lei nº 13.709, de 14 de agosto de 2018 (Lei Geral de Proteção de Dados Pessoais), inclusive quanto às sanções administrativas, à segurança e à vedação de compartilhamento não autorizado de dados dos beneficiários, sem prejuízo das responsabilidades penal e civil.
