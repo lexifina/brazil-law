@@ -1,0 +1,1 @@
+Art. 4º-A. As disposições dos arts. 260-C a 260-L da Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), aplicam-se aos Conselhos Municipais, Estaduais e Nacional do Idoso, no que couber.
