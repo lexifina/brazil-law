@@ -1,0 +1,35 @@
+DECISÃO: Trata-se de habeas corpus impetrado pela Defensoria Pública da União, em favor de Alcir Batista de Carvalho, contra acórdão proferido pelo Superior Tribunal de Justiça, nos autos do REsp 2203169.
+Colho da decisão impugnada:
+
+Trata-se de agravo regimental interposto por ALCIR BATISTA DE CARVALHO em face de decisão proferida às fls. 431/433, que negou provimento ao recurso especial.
+Nas razões do agravo, às fls. 444/447, a parte recorrente argumenta, em síntese: (i) que os antecedentes criminais datados de 2009 e 2010 são vetustos e não deveriam fundamentar a exasperação da pena-base, sob pena de perpetuação da pena; (ii) que a quantidade de 29 cédulas falsas apreendidas não justifica a valoração negativa das circunstâncias do crime, por não destoar da normalidade do tipo penal; (iii) que o aumento de 2 anos e 3 meses na pena-base é flagrantemente excessivo, devendo observar o patamar de 1/6 por circunstância desfavorável.
+Ao manter a decisão agravada por seus próprios e jurídicos fundamentos, submeto o agravo regimental à apreciação da Quinta Turma.
+
+O recurso especial e o agravo regimental não foram providos.
+Nesta Corte, a impetrante requer ”c) a concessão da presente ordem de habeas corpus a fim de reformar o acórdão atacado nos termos pleiteados.”
+É o relatório.
+Decido.
+
+Para melhor compreensão da controvérsia, observem-se trechos do ato impugnado:
+
+A jurisprudência desta Corte é firme no sentido de que condenações anteriores transitadas em julgado, mesmo após o período depurador quinquenal, podem ser consideradas como maus antecedentes na dosimetria da pena, conforme precedente expressamente citado na decisão agravada: "Condenações anteriores transitadas em julgado, mesmo após o período depurador de cinco anos, podem ser consideradas como maus antecedentes na dosimetria da pena" (AgRg no HC n. 993.220/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 1/7/2025).
+No caso concreto, o lapso temporal entre os antecedentes mais antigos (2009 /2010 - com trânsito em julgado em 2014) e o delito sob análise é inferior a 10 anos, conforme expressamente consignado na decisão monocrática.
+Ademais, a existência de mais de 20 anotações criminais em período que se estende até 2023 demonstra inequivocamente a habitualidade delitiva e a ausência de qualquer processo de ressocialização, afastando por completo a tese de "direito ao esquecimento" invocada pela defesa. No tocante às circunstâncias do crime, a irresignação defensiva também não merece acolhida.
+A decisão agravada fundamentou a valoração negativa desta vetorial na "elevada quantidade de cédulas falsas apreendidas (29 unidades)", destacando que, embora apenas uma tenha sido efetivamente colocada em circulação, "as demais evidenciam a potencialidade lesiva do delito e o maior desvalor da conduta". Contrariamente ao alegado pela defesa, a apreensão de 29 cédulas de R$ 100,00 (totalizando R$ 2.900,00 em moeda falsa) não se enquadra na normalidade do tipo penal, mas revela conduta com potencialidade lesiva significativamente superior ao crime praticado mediante uma única cédula falsificada. A jurisprudência desta Corte reconhece que a quantidade de moedas falsas em poder do réu projeta maior potencialidade lesiva sobre a fé pública, bem jurídico tutelado pelo tipo penal, justificando a majoração da pena-base, conforme precedente mencionado na decisão agravada (AgRg no AR Esp 1476822/SP, Rel. Ministro Nefi Cordeiro, Sexta Turma). A tentativa da defesa de estabelecer parâmetros quantitativos mínimos (148, 197 ou 327 cédulas) para justificar a exasperação não encontra respaldo na legislação ou na jurisprudência consolidada.
+Cada caso deve ser analisado segundo suas particularidades concretas, cabendo ao julgador, mediante fundamentação adequada, valorar a extensão do desvalor da conduta. No presente caso, a posse de 29 cédulas falsas demonstra conduta que extrapola em muito o elementar do tipo, revelando maior planejamento, organização e potencial de dano ao bem jurídico tutelado. Quanto ao argumento de que o aumento deveria limitar-se a 1/6 da pena mínima por circunstância desfavorável, impõe-se relembrar que a jurisprudência desta Corte é pacífica no sentido de que não existe direito subjetivo do acusado a frações específicas, sendo garantida a discricionariedade do julgador para fixação da pena dentro de seu livre convencimento motivado.
+[...]
+A dosimetria da pena constitui atividade discricionária do julgador, vinculada às particularidades do caso concreto.
+No presente feito, considerando-se: (i) a existência de mais de 20 anotações criminais distribuídas ao longo de 14 anos (2009-2023); (ii) a apreensão de 29 cédulas falsas, com valor total de R$ 2.900,00; e (iii) a necessidade de reprovação adequada da conduta, o aumento aplicado revela-se proporcional e razoável, não configurando qualquer ilegalidade ou abusividade.
+A revisão da dosimetria na via recursal somente é admissível quando constatada flagrante desproporcionalidade, o que inequivocamente não se verifica na hipótese dos autos. As razões apresentadas no agravo regimental não trouxeram argumentos novos aptos a modificar o entendimento anteriormente firmado. A decisão agravada encontra-se em perfeita harmonia com a jurisprudência pacificada desta Corte Superior, tendo sopesado adequadamente as circunstâncias concretas do caso para a fixação da pena-base.
+A pretensão defensiva de afastar a valoração negativa dos antecedentes e das circunstâncias do crime, bem como de reduzir o quantum de aumento aplicado, esbarra na jurisprudência consolidada que confere ao julgador discricionariedade fundamentada para a dosimetria da pena, desde que observados os princípios da proporcionalidade e da razoabilidade, o que inequivocamente ocorreu no caso concreto. Assim, a matéria restou devidamente debatida na decisão recorrida, de forma que não há que se falar em possível reversão do antes julgado. Por fim, destaque-se que, no presente agravo regimental, não se aduziu qualquer argumento apto a ensejar a alteração da decisão ora agravada, devendo ser mantida por seus próprios fundamentos. Acerca do tema: AgRg no HC n. 804.533/PE, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 17/3/2023; e AgRg no HC n. 659.003/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 30/3/2023.(www.stj.jus.br)
+
+Esta Corte tem o entendimento consolidado no sentido de que cabe às instâncias ordinárias fixar as penas. O controle de proporcionalidade das sanções pelas Cortes Superiores apenas pode ocorrer em situações teratológicas, para aumentos muito superiores ao adotado no caso, não verificadas na espécie. Precedentes: HC 232.473 AgR, Rel. Min. Flávio Dino, Primeira Turma, DJe 21.3.2024, e HC 232.344 AgR, Rel. Min. Nunes Marques, Segunda Turma, DJe 7.12.2023.
+Inexiste qualquer teratologia na majoração da pena em razão da quantidade de cédulas apreendidas, tampouco na valoração das mais de vinte anotações criminais do paciente.
+Ante o exposto, denego a ordem. (art. 192, caput, RISTF)
+
+Publique-se.
+Brasília, 7 de janeiro de 2026.
+
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
