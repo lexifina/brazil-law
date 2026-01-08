@@ -1,0 +1,36 @@
+DECISÃO: Trata-se de habeas corpus impetrado por Thiago dos Santos Carvalho, em favor de Kennedy Florêncio Borges, contra acórdão proferido pelo Superior Tribunal de Justiça, nos autos do HC 1009204/SP.
+Colho da decisão impugnada:
+
+KENNEDY FLORÊNCIO BORGES agrava regimentalmente contra decisão de minha Relatoria, na qual não conheci do writ porque substitutivo de recurso próprio. Não obstante isso, ao analisar os autos, concluí que as pretensões formuladas pelo impetrante encontravam óbice na jurisprudência desta Corte Superior, sendo, portanto, manifestamente improcedentes.
+Afirma a defesa do agravante, contudo, que a decisão hostilizada encerra flagrante constrangimento ilegal, pois a) violou a técnica trifásica (art. 68 CP) ao aplicar a fração de 2/3 sobre a pena-base (4 a 8 m) desconsiderando as atenuantes já reconhecidas (confissão e menoridade; b) exasperou a pena-base em 1/6 usando elementos inerentes ao tipo penal (grave ameaça com arma e restrição da liberdade), praticando bis in idem; c) fixou fração de 2/3 pelas majorantes sem motivação concreta, limitando-se à sua quantidade, ofendendo a Súmula n. 443/STJ; d) impôs regime inicial fechado a pena inferior a 8 anos, valendo-se novamente de elementos já empregados na 1. ª fase, contrariando os arts. 59 e 33, § 2.º, “b”, Código Penal, e as Súmulas ns. 718/719 STF. (e-STJ fl. 339).
+Pugna, por isso, pela reconsideração do decisum ou pela submissão do feito ao órgão Colegiado, para que seja revisada a dosimetria da pena do agravante, nos termos reportados na inicial. (eDOC 9)
+No STJ, o impetrante não teve êxito. O acórdão impugnado transitou em julgado em 2.9.2025.
+Nesta Corte, requer “a.1) A concessão de medida liminar para determinar que o Paciente KENNEDY FLORÊNCIO BORGES aguarde o julgamento definitivo deste habeas corpus em regime prisional semiaberto, expedindo-se, se necessário, o competente alvará de soltura em favor de quem por outro motivo não estiver preso. b) Do mérito b.1) O conhecimento e a procedência da presente ordem de habeas corpus, para: b.1.1) Anular a dosimetria da pena fixada pelo Tribunal de Justiça do Estado de São Paulo, determinando-se que nova dosimetria observe: • Pena-base no mínimo legal (4 anos de reclusão), afastando-se o aumento de 1/6 pela culpabilidade, ante a configuração de bis in idem; b.1.2) Fixar o regime inicial semiaberto, em estrita observância ao disposto no artigo 33, § 2º, alínea "b", do Código Penal, afastando-se o regime fechado por ausência de fundamentação idônea (Súmulas 718 e 719 do STF).”
+É o relatório.
+Decido.
+Para melhor compreensão da controvérsia, observem-se trechos do ato impugnado:
+
+Pela leitura do recorte acima, constatei que pena-base do paciente foi exasperada na fração de 1/6, em razão do desvalor conferido à sua culpabilidade, sendo que essa vetorial circunstância judicial estava afeta ao grau de reprovabilidade da conduta perpetrada pelo agente, a qual deveria destoar do tipo penal a ele imputado; e, na espécie, ela foi considerada desfavorável, em virtude de o paciente e os corréus haverem premeditado a prática delitiva, pois foram até o local com o intuito de roubar veículo e cargas específicas (e-STJ, fl. 45). Essas circunstâncias demonstraram, sem sombra de dúvidas, a maior gravidade da conduta perpetrada, a merecer o desvalor dessa vetorial.
+[...]
+Desse modo, não constatei nenhuma ilegalidade a ser sanada, na fundamentação utilizada para exasperar a basilar, tampouco a ocorrência do aduzido bis in idem, com as majorantes do roubo.
+II. Da redução da pena intermediária para patamar aquém do piso legal, em decorrência do reconhecimento de circunstâncias atenuantes
+Sobre o tema, ressaltei que ambas as Turmas da Terceira Seção do Superior Tribunal de Justiça têm julgados recentes no sentido de que, sendo fixada a pena-base no mínimo legal previsto, é inviável a redução da pena pelo reconhecimento de quaisquer das circunstâncias atenuantes do rol do art. 65 do Código Penal, como dispõe a Súmula n. 231 do STJ, in verbis:
+[...]
+III. Da fração de aumento pelas majorantes do roubo
+Neste tópico, alegava-se violação à Súmula 443 do STJ, ao argumento de que o incremento operado na terceira fase, em 2/3, levou em consideração apenas o número de majorantes. Preliminarmente, observei que não havia ilegalidade flagrante, em tese, na cumulação de causas de aumento da parte especial do Código Penal, sendo razoável a interpretação da lei no sentido de que eventual afastamento da dupla cumulação deveria ser feito apenas no caso de sobreposição do campo de aplicação ou excessividade do resultado (ARE n. 896.843/MT, Relator Ministro GILMAR MENDES, Segunda Turma, DJe 23/9/2015).
+Ademais, asseverei que a depender do caso, a presença de mais de uma causa de aumento do crime de roubo, associada a outros elementos indicativos da gravidade em concreto do delito praticado, poderia ensejar o incremento cumulativo da reprimenda, mas tais circunstâncias deveriam estar devidamente explicitadas na motivação empregada, conforme exige o art. 93, IX, da Constituição da República.
+[...]
+Compulsando os autos, constatei que foram declinadas motivações idôneas para justificar a aplicação cumulativa das causas de aumento previstas no § 2º do art. 157 do Código Penal, haja vista o modus operandi da conduta delitiva – roubo cometido em concurso de cinco indivíduos, com emprego de arma de fogo, e no qual a vítima foi subjugada e obrigada a dirigir o caminhão por quilômetros, após o que ainda teve que caminhar até uma estrada deserta para ser libertado, evento que constituiu um lapso temporal juridicamente relevante (e-STJ fl. 35) –; acrescente-se, ainda, que foi disparado um tiro próximo ao pé do ofendido (e-STJ fl. 30), o que denotou uma periculosidade acentuada da conduta ante o maior poder intimidativo da ação e o acentuado risco à integridade física da vítima.
+Nesse contexto, na esteira da permissiva regra prevista no parágrafo único do art. 68 do Código Penal, não verifiquei nenhuma ilegalidade a ser sanada na aplicação da fração de 2/3, pela incidência das causas de aumento de pena.
+Nesses termos, concluí que as pretensões formuladas pelo impetrante encontravam óbice na jurisprudência desta Corte de Justiça sendo, portanto, manifestamente improcedentes.
+Ante o exposto, nego provimento ao agravo regimental. (eDOC 5)
+
+Esta Corte tem o entendimento consolidado no sentido de que cabe às instâncias ordinárias fixar as penas. O controle de proporcionalidade das sanções pelas Cortes Superiores apenas pode ocorrer em situações teratológicas, para aumentos muito superiores ao adotado no caso, não verificadas na espécie. Precedentes: HC 232.473 AgR, Rel. Min. Flávio Dino, Primeira Turma, DJe 21.3.2024, e HC 232.344 AgR, Rel. Min. Nunes Marques, Segunda Turma, DJe 7.12.2023.
+Quanto à redução da pena abaixo do mínimo, sobre a qual se pronunciou o STJ, a controvérsia foi apreciada no Tema 158 da sistemática da repercussão geral, em que fixada a seguinte tese: “Circunstância atenuante genérica não pode conduzir à redução da pena abaixo do mínimo legal.”
+Ante o exposto, denego a ordem. (art. 192, caput, RISTF)
+Publique-se.
+Brasília, 8 de janeiro de 2026.
+
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
