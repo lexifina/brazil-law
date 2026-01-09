@@ -1,0 +1,1 @@
+Art. 7º-C. O Radialista não sindicalizado também fará jus à carteira profissional de Radialista, desde que seja habilitado e registrado perante o órgão regional do Ministério do Trabalho e Emprego, nos termos da legislação que regulamenta a atividade profissional.
