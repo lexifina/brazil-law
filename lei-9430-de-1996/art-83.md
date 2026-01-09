@@ -3,5 +3,8 @@ Art. 83. A representação fiscal para fins penais relativa aos crimes contra a 
 § 2º É suspensa a pretensão punitiva do Estado referente aos crimes previstos no caput, durante o período em que a pessoa física ou a pessoa jurídica relacionada com o agente dos aludidos crimes estiver incluída no parcelamento, desde que o pedido de parcelamento tenha sido formalizado antes do recebimento da denúncia criminal.
 § 3º A prescrição criminal não corre durante o período de suspensão da pretensão punitiva.
 § 4º Extingue-se a punibilidade dos crimes referidos no caput quando a pessoa física ou a pessoa jurídica relacionada com o agente efetuar o pagamento integral dos débitos oriundos de tributos, inclusive acessórios, que tiverem sido objeto de concessão de parcelamento.
-§ 5º O disposto nos §§ 1º a 4º não se aplica nas hipóteses de vedação legal de parcelamento.
+§ 5º O disposto nos §§ 1º a 4º não se aplica:
+I - às hipóteses de vedação legal de parcelamento; e
+II - ao agente declarado devedor contumaz em decisão administrativa definitiva e inscrito no Cadastro Informativo dos créditos não quitados do setor público federal (Cadin), previsto na Lei nº 10.522, de 19 de julho de 2002.
 § 6º As disposições contidas no caput do art. 34 da Lei nº 9.249, de 26 de dezembro de 1995, aplicam-se aos processos administrativos e aos inquéritos e processos em curso, desde que não recebida a denúncia pela juiz.
+§ 7º O fato de o agente deixar de ser considerado devedor contumaz não afasta o disposto no inciso II do § 5º deste artigo em relação aos atos praticados no período em que era assim considerado.

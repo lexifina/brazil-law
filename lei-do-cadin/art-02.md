@@ -6,6 +6,7 @@ b) declarada inapta perante o Cadastro Geral de Contribuintes - CGC.
 III - estejam inscritas na dívida dos Estados, do Distrito Federal e dos Municípios, conforme convênio firmado com a União, representada pela Procuradoria-Geral da Fazenda Nacional, nesse sentido;
 IV - estejam inscritas na dívida ativa de autarquias profissionais e conselhos de classe;
 V - estejam irregulares perante o Fundo de Garantia do Tempo de Serviço (FGTS).
+VI - sejam enquadradas como devedores contumazes, na forma da legislação específica.
 § 1º Os órgãos e as entidades a que se refere o inciso I procederão, segundo normas próprias e sob sua exclusiva responsabilidade, às inclusões no Cadin, de pessoas físicas ou jurídicas que se enquadrem nas hipóteses previstas neste artigo.
 § 2º A inclusão no Cadin far-se-á em até 30 (trinta) dias após a comunicação ao devedor da existência do débito passível de inscrição naquele Cadastro, fornecendo-se todas as informações pertinentes ao débito.
 § 3º Tratando-se de comunicação expedida por via postal ou telegráfica, para o endereço indicado no instrumento que deu origem ao débito, considerar-se-á entregue após 15 (quinze) dias da respectiva expedição.
@@ -15,3 +16,5 @@ V - estejam irregulares perante o Fundo de Garantia do Tempo de Serviço (FGTS).
 § 7º A inclusão no Cadin sem a expedição da comunicação ou da notificação de que tratam os §§ 2º e 4º, ou a não exclusão, nas condições e no prazo previstos no § 5º, sujeitará o responsável às penalidades cominadas pela Lei nº 8.112, de 11 de dezembro de 1990, e pelo Decreto-Lei nº 5.452, de 1º de maio de 1943 (Consolidação das Leis do Trabalho).
 § 8º O disposto neste artigo não se aplica aos débitos referentes a preços de serviços públicos ou a operações financeiras que não envolvam recursos orçamentários.
 § 9º Convênio entre a União, representada pela Procuradoria-Geral da Fazenda Nacional, e os titulares dos créditos previstos nos incisos III e IV do caput deste artigo poderá estabelecer regras de cooperação que favoreçam a recuperação desses ativos.
+§ 10. Os Estados, o Distrito Federal e os Municípios informarão ao Ministério da Fazenda a inclusão e a exclusão do contribuinte da condição de devedor contumaz, para fins de registro da informação no Cadin.
+§ 11. A União adotará ações com vistas a garantir a integração, a sincronização e o compartilhamento obrigatório, gratuito e tempestivo dos dados de que trata o § 10 deste artigo.
