@@ -37,6 +37,17 @@ XXXV - estabelecer princípios básicos para a elaboração dos códigos de cond
 XXXVI - regular e autorizar as atividades relacionadas à produção, ao carregamento, ao processamento, ao tratamento, à importação, à exportação, à armazenagem, à estocagem, ao acondicionamento, ao transporte, à transferência, à distribuição, à revenda e à comercialização de hidrogênio, bem como avaliação de conformidade e certificação de sua qualidade, e fiscalizá-las diretamente ou mediante convênios com outros órgãos da União, dos Estados, do Distrito Federal ou dos Municípios;
 XXXVII - regular e autorizar, no âmbito de suas competências, as atividades relacionadas à produção de hidrogênio renovável e de baixa emissão de carbono a partir do uso de energia elétrica, na forma de regulamento;
 XXXVIII - regular e autorizar, em conjunto com outras agências reguladoras, as atividades relacionadas à produção de hidrogênio renovável e de baixa emissão de carbono que utilizem em seus processos produtivos insumos regulados por essas agências, na forma de regulamento.
-Parágrafo único. No exercício das atribuições de que trata este artigo, com ênfase na garantia do abastecimento nacional de combustíveis, desde que em bases econômicas sustentáveis, a ANP poderá exigir dos agentes regulados, conforme disposto em regulamento:
+§ 1º No exercício das atribuições de que trata este artigo, com ênfase na garantia do abastecimento nacional de combustíveis, desde que em bases econômicas sustentáveis, a ANP poderá exigir dos agentes regulados, conforme disposto em regulamento:
 I - a manutenção de estoques mínimos de combustíveis e de biocombustíveis, em instalação própria ou de terceiro;
 II - garantias e comprovação de capacidade para atendimento ao mercado de combustíveis e biocombustíveis, mediante a apresentação de, entre outros mecanismos, contratos de fornecimento entre os agentes regulados.
+§ 2º No exercício da competência prevista no inciso XV do caput deste artigo, a ANP estabelecerá os seguintes valores mínimos de capital social a ser integralizado obrigatoriamente em moeda corrente nacional:
+I - R$ 1.000.000,00 (um milhão de reais) para o exercício da atividade de revenda de combustíveis líquidos;
+II - R$ 10.000.000,00 (dez milhões de reais) para o exercício da atividade de distribuição de combustíveis líquidos;
+III - R$ 200.000.000,00 (duzentos milhões de reais) para o exercício da atividade de produção de combustíveis líquidos.
+§ 3º A obtenção de autorização junto à ANP para o exercício das atividades referidas no § 2º deste artigo dependerá da comprovação da:
+I - origem e licitude dos recursos financeiros utilizados para a integralização do capital social; e
+II - identificação do titular efetivo da pessoa jurídica interessada.
+§ 4º Considera-se titular efetivo a pessoa natural ou jurídica que, em última instância, detenha ou controle, direta ou indiretamente, a pessoa jurídica interessada, nos termos da regulamentação vigente.
+§ 5º A ANP, em colaboração com os Estados e o Distrito Federal, poderá prever valores menores que os previstos no § 2º deste artigo, observadas:
+I - as peculiaridades de cada região, Estado ou Distrito Federal; e
+II - a pesquisa de custos do setor por região, Estado ou Distrito Federal.
