@@ -1,0 +1,2 @@
+Art. 20-A. Para os fins do disposto no art. 20 desta Lei, a União é autorizada a prever no instrumento convocatório a hipótese de realização das despesas iniciais de estruturação do fundo de investimento, observada a disponibilidade financeira e orçamentária.
+Parágrafo único. As despesas de que trata o caput deste artigo serão amortizadas por meio do recebimento de cotas equivalentes aos valores despendidos.

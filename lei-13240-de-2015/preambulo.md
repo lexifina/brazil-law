@@ -1,0 +1,2 @@
+Dispõe sobre a administração, a alienação, a transferência de gestão de imóveis da União e seu uso para a constituição de fundos; altera a Lei nº 9.636, de 15 de maio de 1998, e os Decretos-Lei nº s 3.438, de 17 de julho de 1941, 9.760, de 5 de setembro de 1946, 271, de 28 de fevereiro de 1967, e 2.398, de 21 de dezembro de 1987; e revoga dispositivo da Lei nº 13.139, de 26 de junho de 2015.
+A PRESIDENTA DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
