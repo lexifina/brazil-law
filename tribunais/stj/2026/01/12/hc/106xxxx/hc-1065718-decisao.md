@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de Habeas Corpus com pedido de liminar impetrado em favor de GUSTAVO COSTA DA SILVA, em que se aponta como ato coator a decisão monocrática de Desembargador do TRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS que indeferiu o pedido de liminar formulado no HC n. 0000002-83.2026.8.27.2700/TO.
+Consta dos autos que, em 29.12.2025, o paciente foi preso em flagrante como incurso nos arts. 33 da Lei n. 11.343/2006, 12 da Lei n. 10.826/2003 e 147 do Código Penal, sobrevindo decisão que converteu a custódia em preventiva.
+Os impetrantes sustentam a necessidade de superação do óbice da Súmula n. 691/STF, porquanto a autoridade apontada como coatora, ao validar invasão domiciliar desprovida de mandado judicial específica e baseada unicamente na intuição policial, teria afrontado diretamente o Tema n. 280/STF.
+Afirmam que os policiais teriam adentrado o domicílio do paciente em razão de mandado de prisão expedido contra terceira pessoa, inexistindo mandado de busca e apreensão domiciliar expedido por juiz competente.
+Alegam que o mandado de prisão autorizaria a captura do alvo, não conferindo salvo-conduto para a realização de devassa exploratória (fishing expedition) na residência.
+Acrescentam que a legalidade do ingresso policial deveria ser aferida ex ante, pelas razões conhecidas antes da entrada, e não ex post, pelo que foi encontrado no local.
+Argumentam que o decreto constritivo careceria de fundamentação idônea, estando lastreado na gravidade abstrata dos delitos, violando o art. 315, § 2º, do Código de Processo Penal.
+Aduzem não haver elementos concretos que indiquem risco de reiteração delitiva ou ameaça à instrução, notadamente diante das condições pessoais favoráveis do paciente, que seria primário, com bons antecedentes e residência fixa.
+Destacam que, em caso de condenação, o paciente faria jus à causa de diminuição prevista no § 4º do art. 33 da Lei n. 11.343, o que resultaria no cumprimento de pena em regime diverso do fechado e na substituição da reprimenda corporal por sanções restritivas de direitos, de modo que a segregação provisória afrontaria o princípio da homogeneidade, subvertendo a lógica cautelar e transformando o processo em instrumento de punição antecipada.
+Defendem a adequação e suficiência das medidas cautelares não prisionais previstas no art. 319 do CPP.
+Requerem, liminarmente, a suspensão dos efeitos da decisão que decretou a prisão preventiva do paciente, ou, subsidiariamente, a aplicação de medidas cautelares alternativas.
+No mérito, pugnam pela concessão da ordem para que seja declarada a nulidade das provas obtidas mediante a invasão domiciliar, bem como das demais dela derivadas, determinando-se o seu desentranhamento dos autos e o trancamento da Ação Penal no tocante ao paciente. Subsidiariamente, pleiteiam a confirmação da medida de urgência, a fim de que seja revogada a custódia cautelar.
+É o relatório.
+Decido.
+Constata-se, desde logo, que a pretensão não pode ser acolhida pelo Superior Tribunal de Justiça, pois a matéria não foi examinada pela Corte local, que ainda não julgou o mérito do writ originário.
+Aplica-se à hipótese o enunciado 691 da Súmula do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+Confira-se, a propósito, o seguinte julgado:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. SÚMULA N. 691/STF. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GRAVIDADE CONCRETA. EXPRESSIVA QUANTIDADE DE DROGAS (18 TABLETES, PESANDO 11,3KG DE MACONHA). PRISÃO DOMICILIAR. RÉU PAI DE CRIANÇA MENOR DE 12 ANOS. IMPRESCINDIBILIDADE NÃO DEMONSTRADA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça é assente no sentido de não caber habeas corpus contra decisão que indefere liminar na origem, na esteira da Súmula n. 691 do Supremo Tribunal Federal, aplicável por analogia, salvo no caso de flagrante ilegalidade ou teratologia da decisão impugnada.
+ ..
+8. Ausência de flagrante ilegalidade apta a justificar a superação da Súmula n. 691 do STF.
+9. Agravo regimental desprovido.
+(AgRg no HC n. 914.866/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1º/7/2024, DJe de 3/7/2024; grifos acrescidos)
+No caso, a situação dos autos não justifica a prematura intervenção desta Corte Superior, porquanto a autoridade apontada como coatora fundamentou, suficientemente, a manutenção da prisão preventiva do paciente, nos seguintes termos (fls. 218-219):
+A principal tese defensiva reside na suposta ilicitude da prova, decorrente da violação de domicílio. A Autoridade apontada como coatora, ao analisar a questão, fundamentou a regularidade da ação policial na existência de um quadro de flagrante delito. A decisão combatida menciona investigações prévias, as quais apontavam a ocorrência de tráfico de drogas no local. Indica, também, a natureza permanente do crime de tráfico, circunstância que, em tese, protrai o estado de flagrância no tempo.
+Ao que tudo indica, o ingresso dos agentes públicos não decorreu unicamente do cumprimento do mandado de prisão expedido contra o corréu. Aparentemente, a ação foi motivada por um conjunto de elementos prévios e contemporâneos indicativos da prática de um crime permanente no interior do imóvel. A decisão judicial de primeiro grau descreve um cenário de investigações anteriores, declarações de outras pessoas presas e um fluxo intenso de indivíduos no local, elementos que, a princípio, poderiam configurar as "fundadas razões" exigidas pela jurisprudência para a mitigação da inviolabilidade domiciliar.
+A matéria, portanto, é complexa. A aferição da legalidade da entrada no domicílio demanda uma análise aprofundada dos elementos de informação colhidos no inquérito policial, o que transborda os limites de uma cognição sumária. A controvérsia sobre a existência de uma mera "pescaria probatória" ou de uma legítima atuação estatal diante de um crime em andamento deve ser dirimida no julgamento de mérito deste writ.
+ ..
+Do mesmo modo, a fundamentação utilizada para decretar a prisão preventiva não se revela, em um primeiro exame, patentemente ilegal ou desprovida de base concreta. A decisão de origem justificou a necessidade da segregação para a garantia da ordem pública, destacando a gravidade concreta da conduta. A apreensão de considerável quantidade de entorpecentes distintos, sendo crack e maconha (do tipo skunk), somada a outros apetrechos relacionados ao tráfico, fornece, ao menos em tese, suporte fático para a medida.
+Ainda que o Paciente seja tecnicamente primário, o juízo de origem apontou seu suposto envolvimento em uma dinâmica criminosa estruturada, atribuindo-lhe uma função operacional relevante. A análise sobre a proporcionalidade da prisão preventiva e a suficiência de medidas cautelares alternativas exige um exame mais detido dos fatos, incompatível com este juízo preliminar. A decisão atacada não parece ter se baseado em meras conjecturas ou na gravidade abstrata do delito, mas em elementos concretos extraídos dos autos.
+Assim, não sendo possível identificar de plano o alegado constrangimento ilegal, a prudência recomenda aguardar o processamento regular do feito para uma análise exauriente da matéria.
+Deve-se, por ora, aguardar o esgotamento da jurisdição do Tribunal de origem.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente Habeas Corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
+ EMENTA
