@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de Agravo apresentado por FAZENDA DO ESTADO DE SÃO PAULO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+EXECUÇÃO FISCAL. ITCMD. EXCEÇÃO DE PRÉ- EXECUTIVIDADE. LANÇAMENTO POR HOMOLOGAÇÃO. FATO GERADOR OCORRIDO COM A DECLARAÇÃO E RECOLHIMENTO A MENOR DE ITCMD. HIPÓTESE DE DECADÊNCIA (ART. 155; § 4º; CTN). DECISÃO REFORMADA. EXECUÇÃO EXTINTA. ÔNUS DE SUCUMBÊNCIA A CARGO DA EXEQUENTE. RECURSO PROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz contrariedade ao art. 173, I, do CTN, no que concerne à necessidade de aplicação do prazo decadencial de cinco anos contado do primeiro dia do exercício seguinte em que o lançamento poderia ter sido efetuado para o ITCMD recolhido a menor, em razão de o Fisco estadual somente ter tomado ciência do fato gerador a partir da DIRPF 2014/2013 e de a constituição do crédito, via lançamento de ofício, ter ocorrido em 2018, trazendo a seguinte argumentação:
+Aplica-se ao caso o prazo previsto no artigo 173, I, do Código Tributário Nacional (CTN). O Fisco somente tomou ciência do fato gerador do ITCMD a partir da DIRPF 2014/2013, entregue à Receita Federal do Brasil no exercício de 2014. (fl. 461)
+
+Considerando ainda que todo o trabalho fiscal teve seu iniciou com a notificação fiscal em 05/10/2018 e terminou com a ciência do AIIM por via postal em 04/12/2018, verifica-se que a constituição do crédito tributário por meio de lançamento de ofício se deu dentro do prazo decadencial de 05 (cinco) anos. (fl. 461)
+
+Somente depois de o Fisco tomar conhecimento do fato gerador do tributo e dos elementos constitutivos do crédito é que se pode entender iniciada a contagem do prazo de extinção de seu direito. (fl. 461)
+
+O contribuinte não declarou ao Fisco paulista, por meio de lançamento de ITCMD, os valores de transferência patrimonial constantes na DIRPF, havendo necessidade de lançamento de ofício da diferença apurada, em decorrência de omissão do contribuinte, com a multa correspondente. (fl. 461)
+
+Ocorre que a v. decisão colegiada contraria texto de lei federal, a saber, inciso I do art. 173 do CTN, segundo o qual  (fl. 462)
+
+O exercício em que o lançamento poderia ter sido efetuado, indicando o marco inicial do prazo dos cinco anos, ocorre no ano em que se instaura a possibilidade jurídica de a Fazenda Pública efetuar o lançamento. (fl. 462)
+
+Não é razoável exigir a onisciência do Fisco sobre todos os atos dos cidadãos, especialmente aqueles esporádicos. Para tanto, a legislação sistematiza procedimentos para que o ente público tome conhecimento desses atos particulares, mormente os de natureza tributária. (fl. 462)
+
+Em resumo: a possibilidade de realizar o lançamento do tributo ocorre exclusivamente quando os elementos necessários para o lançamento estão presentes. (fl. 462)
+
+A Fazenda Pública tão somente pôde efetuar o lançamento do crédito tributário com o conhecimento da ocorrência do fato gerador. (fl. 462) (fls. 461-462).
+É o relatório.
+Decido.
+Quanto à controvérsia, o acórdão recorrido assim decidiu:
+Respeitado o entendimento da Juíza de Direito, a despeito de ter havido o recolhimento a menor de ITCMD pelo contribuinte (fls. 80 dos autos de origem), é certo que, cuidando-se de lançamento por homologação, aplica-se ao caso de omissão do Fisco a norma do art. 150,§ 4o., do Código Tributário Nacional.
+Com efeito, recolhido o ITCMD em 31 de outubro de 2012 (fato gerador), reputa-se homologado o lançamento e extinto eventual crédito tributário ao final do prazo dos cinco anos seguintes, isto é, em 31 de outubro de 2017.
+E a hipótese não comporta nenhuma exceção a justificar a aplicação do prazo previsto no art. 173, I, do Código Tributário Nacional, já que sequer ventilada a ocorrência de dolo, fraude ou simulação (fl. 452).
+Aplicável, portanto, a Súmula n. 284/STF, tendo em vista que as razões delineadas no Recurso Especial estão dissociadas dos fundamentos utilizados no aresto impugnado, pois a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia" (AgInt no AREsp n. 2.604.183/PR, relator Ministro Francisco Falcão, Segunda Turma, DJEN de 2/12/2024).
+Confiram-se ainda os seguintes julgados: AgInt no AREsp n. 2.734.491/SP, relator Ministro Raul Araújo, Quarta Turma, DJEN de 25/3/2025; AgInt no AREsp n. 2.267.385/ES, relator Ministro Sérgio Kukina, Primeira Turma, DJEN de 21/3/2025; AgInt no AREsp n. 2.638.758/RJ, relator Ministro Afrânio Vilela, Segunda Turma, DJEN de 20/3/2025; AgInt no AREsp n. 2.722.719/PE, relator Ministro Francisco Falcão, Segunda Turma, DJEN de 5/3/2025; AgInt no AREsp n. 2.787.231/PR, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Terceira Turma, DJEN de 28/2/2025; AgRg no AREsp n. 2.722.720/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, DJEN de 26/2/2025; AgInt no AREsp n. 2.751.983/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJEN de 21/2/2025; AgInt no REsp n. 2.162.145/RR, relatora Ministra Regina Helena Costa, Primeira Turma, DJEN de 20/2/2025; AgInt nos EDcl no AREsp n. 2.256.940/SP, relator Ministro Marco Buzzi, Quarta Turma, DJEN de 9/12/2024; AgRg no AREsp n. 2.689.934/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJEN de 9/12/2024; AgInt nos EDcl no AREsp n. 2.421.997/SP, relator Ministro Teodoro Silva Santos, Segunda Turma, DJe de 19/11/2024; EDcl no AgRg nos EDcl no AREsp n. 2.563.576/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 7/11/2024; AgInt no AREsp n. 2.612.555/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 5/11/2024; AgInt nos EDcl no AREsp n. 2.489.961/PR, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 28/10/2024; AgInt no AREsp n. 2.555.469/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 20/8/2024; AgInt no AREsp n. 2.377.269/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 7/3/2024.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
