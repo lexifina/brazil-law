@@ -1,0 +1,1 @@
+Art. 98-B. A suspensão do pagamento do IBS e da CBS decorrente da aplicação de regime aduaneiro especial converte-se em alíquota zero na hipótese em que o bem material for destruído, sob controle aduaneiro e às expensas do interessado, como providência para extinção da aplicação do regime.

@@ -1,0 +1,8 @@
+Art. 218-A. Para viabilizar a operacionalização do disposto no § 3º do art. 214, o regulamento deverá:
+I – prever prazos de recolhimentos específicos para o instituidor e os diferentes participantes do arranjo, inclusive mais curtos que aqueles aplicáveis aos participantes do arranjo que liquidem valores diretamente aos credenciados e demais destinatários do arranjo;
+II – estabelecer:
+a) hipóteses de retenção do IBS e da CBS, que deverão observar o disposto no art. 36 desta Lei Complementar;
+b) hipótese pela qual instituidor do arranjo e os demais participantes que iniciem o fluxo financeiro para outro participante do arranjo, inclusive por meio de câmara de compensação ou liquidação, efetuem a extinção antecipada dos tributos incidentes sobre o valor da sua própria remuneração, por quaisquer das modalidades previstas no art. 27 desta Lei Complementar; e
+c) que, nos casos em que o regulamento permitir o registro consolidado de operações, o documento de arrecadação relativo ao recolhimento de que trata a alínea “a” deste inciso deverá identificá-lo.
+§ 1º O contribuinte que liquidar valores diretamente aos credenciados fornecerá as informações necessárias para lhes atribuir os créditos do IBS e da CBS de que trata o art. 218 desta Lei Complementar, bem como para a destinação do produto do recolhimento, na forma do regulamento, dispensando o instituidor do arranjo e os demais participantes dessa obrigação.
+§ 2º A regulamentação dos procedimentos previstos neste artigo deverá buscar a não alteração dos fluxos financeiros e operacionais dos instituidores e demais participantes do arranjo.

@@ -1,0 +1,1 @@
+Art. 98-A. O regulamento poderá prever hipóteses em que os regimes aduaneiros especiais de que tratam os arts. 84, 85, 88 e 90 desta Lei Complementar serão aplicados a bens materiais com destino ao exterior, inclusive em caso de saída temporária do País.

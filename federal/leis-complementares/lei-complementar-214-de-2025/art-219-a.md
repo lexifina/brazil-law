@@ -1,0 +1,4 @@
+Art. 219-A. A administração de programas de fidelização será tributada na forma deste artigo, hipótese em que:
+I – a base de cálculo do IBS e da CBS corresponderá, a cada período de apuração, ao valor dos pontos emitidos, deduzidos os valores pagos no resgate dos pontos e os ressarcidos por pontos não utilizados computados como receita;
+II – o adquirente dos pontos não terá direito ao crédito de IBS e de CBS.
+Parágrafo único. O regime específico de que trata este artigo aplica-se inclusive aos programas de fidelidade próprios em que os pontos sejam utilizados como contraprestação no fornecimento de bens e serviços pelo próprio emissor dos pontos, hipótese em que os pontos utilizados como contraprestação serão deduzidos da base de cálculo tendo por base o valor considerado na fixação da base de cálculo do IBS e da CBS na operação, nos termos do inciso III do § 4º do art. 12 desta Lei Complementar.

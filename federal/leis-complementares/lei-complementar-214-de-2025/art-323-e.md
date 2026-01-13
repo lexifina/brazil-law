@@ -1,0 +1,4 @@
+Art. 323-E. O tributo objeto da matéria consultada não será lançado em relação ao sujeito passivo que agir em estrita consonância com a solução de consulta, de que tenha sido intimado, enquanto não revogada, total ou parcialmente.
+§ 1º A reforma de orientação não obriga ao pagamento do tributo considerado devido cujo fato gerador tenha ocorrido entre a data da intimação da solução reformada e a da nova orientação.
+§ 2º Na pendência de resposta à consulta formulada, o sujeito passivo é também considerado intimado da solução de consulta com a publicação de qualquer ato normativo que verse sobre a mesma matéria.
+§ 3º A superveniência de norma de legislação tributária faz cessar os efeitos da resposta à consulta naquilo que aquela conflitar com esta, independentemente de comunicação ao consulente.

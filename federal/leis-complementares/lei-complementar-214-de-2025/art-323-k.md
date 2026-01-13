@@ -1,0 +1,1 @@
+Art. 323-K. A proposição do incidente de uniformização de que trata o inciso II do caput do art. 323-H deverá estar acompanhada da indicação do provimento vinculante que deixou de ser aplicado pela decisão de segunda instância.

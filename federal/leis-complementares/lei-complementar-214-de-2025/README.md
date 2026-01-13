@@ -1,6 +1,6 @@
 # Institui o Imposto sobre Bens e Serviços (IBS), a Contribuição Social sobre Bens e Serviços (CBS) e o Imposto Seletivo (IS) (Lei Complementar nº 214, de 16 de janeiro de 2025)
 
-LCP 214 · 3 versions, from 2025-01-16 (latest in force: 2026-01-01) · <https://normas.leg.br/?urn=urn:lex:br:federal:lei.complementar:2025-01-16;214>
+LCP 214 · 4 versions, from 2025-01-16 (latest in force: 2026-01-13) · <https://normas.leg.br/?urn=urn:lex:br:federal:lei.complementar:2025-01-16;214>
 
 Text: normas.leg.br (Congresso Nacional), CC BY 4.0. Provisions whose effects start on 1.1.2027, 1.1.2029 or 1.1.2033 (art. 544 III-V) are not in this history yet.
 
@@ -8,38 +8,39 @@ Text: normas.leg.br (Congresso Nacional), CC BY 4.0. Provisions whose effects st
 | --- | --- | ---: | --- |
 | Art. 1º | [art-001.md](art-001.md) | 0 |  |
 | Art. 2º | [art-002.md](art-002.md) | 0 |  |
-| Art. 3º | [art-003.md](art-003.md) | 0 |  |
-| Art. 4º | [art-004.md](art-004.md) | 0 |  |
-| Art. 5º | [art-005.md](art-005.md) | 0 |  |
-| Art. 6º | [art-006.md](art-006.md) | 0 |  |
+| Art. 3º | [art-003.md](art-003.md) | 1 | 2026-01-13 |
+| Art. 4º | [art-004.md](art-004.md) | 1 | 2026-01-13 |
+| Art. 5º | [art-005.md](art-005.md) | 1 | 2026-01-13 |
+| Art. 6º | [art-006.md](art-006.md) | 1 | 2026-01-13 |
+| Art. 7º-A. | [art-007-a.md](art-007-a.md) | 0 |  |
 | Art. 7º | [art-007.md](art-007.md) | 0 |  |
 | Art. 8º | [art-008.md](art-008.md) | 0 |  |
 | Art. 9º | [art-009.md](art-009.md) | 0 |  |
-| Art. 10. | [art-010.md](art-010.md) | 0 |  |
-| Art. 11. | [art-011.md](art-011.md) | 0 |  |
-| Art. 12. | [art-012.md](art-012.md) | 0 |  |
+| Art. 10. | [art-010.md](art-010.md) | 1 | 2026-01-13 |
+| Art. 11. | [art-011.md](art-011.md) | 1 | 2026-01-13 |
+| Art. 12. | [art-012.md](art-012.md) | 1 | 2026-01-13 |
 | Art. 13. | [art-013.md](art-013.md) | 0 |  |
 | Art. 14. | [art-014.md](art-014.md) | 0 |  |
 | Art. 15. | [art-015.md](art-015.md) | 0 |  |
-| Art. 16. | [art-016.md](art-016.md) | 0 |  |
+| Art. 16. | [art-016.md](art-016.md) | 1 | 2026-01-13 |
 | Art. 17. | [art-017.md](art-017.md) | 0 |  |
 | Art. 18. | [art-018.md](art-018.md) | 0 |  |
 | Art. 19. | [art-019.md](art-019.md) | 0 |  |
 | Art. 20. | [art-020.md](art-020.md) | 0 |  |
 | Art. 21. | [art-021.md](art-021.md) | 0 |  |
-| Art. 22. | [art-022.md](art-022.md) | 0 |  |
+| Art. 22. | [art-022.md](art-022.md) | 1 | 2026-01-13 |
 | Art. 23. | [art-023.md](art-023.md) | 0 |  |
 | Art. 24. | [art-024.md](art-024.md) | 0 |  |
 | Art. 25. | [art-025.md](art-025.md) | 0 |  |
-| Art. 26. | [art-026.md](art-026.md) | 0 |  |
+| Art. 26. | [art-026.md](art-026.md) | 1 | 2026-01-13 |
 | Art. 27. | [art-027.md](art-027.md) | 0 |  |
-| Art. 28. | [art-028.md](art-028.md) | 0 |  |
-| Art. 29. | [art-029.md](art-029.md) | 0 |  |
+| Art. 28. | [art-028.md](art-028.md) | 1 | 2026-01-13 |
+| Art. 29. | [art-029.md](art-029.md) | 1 | 2026-01-13 |
 | Art. 30. | [art-030.md](art-030.md) | 0 |  |
-| Art. 31. | [art-031.md](art-031.md) | 0 |  |
-| Art. 32. | [art-032.md](art-032.md) | 0 |  |
-| Art. 33. | [art-033.md](art-033.md) | 0 |  |
-| Art. 34. | [art-034.md](art-034.md) | 0 |  |
+| Art. 31. | [art-031.md](art-031.md) | 1 | 2026-01-13 |
+| Art. 32. | [art-032.md](art-032.md) | 1 | 2026-01-13 |
+| Art. 33. | [art-033.md](art-033.md) | 1 | 2026-01-13 |
+| Art. 34. | [art-034.md](art-034.md) | 1 | 2026-01-13 |
 | Art. 35. | [art-035.md](art-035.md) | 0 |  |
 | Art. 36. | [art-036.md](art-036.md) | 0 |  |
 | Art. 37. | [art-037.md](art-037.md) | 0 |  |
@@ -52,7 +53,7 @@ Text: normas.leg.br (Congresso Nacional), CC BY 4.0. Provisions whose effects st
 | Art. 44. | [art-044.md](art-044.md) | 0 |  |
 | Art. 45. | [art-045.md](art-045.md) | 0 |  |
 | Art. 46. | [art-046.md](art-046.md) | 0 |  |
-| Art. 47. | [art-047.md](art-047.md) | 0 |  |
+| Art. 47. | [art-047.md](art-047.md) | 1 | 2026-01-13 |
 | Art. 48. | [art-048.md](art-048.md) | 0 |  |
 | Art. 49. | [art-049.md](art-049.md) | 0 |  |
 | Art. 50. | [art-050.md](art-050.md) | 0 |  |
@@ -62,30 +63,31 @@ Text: normas.leg.br (Congresso Nacional), CC BY 4.0. Provisions whose effects st
 | Art. 54. | [art-054.md](art-054.md) | 0 |  |
 | Art. 55. | [art-055.md](art-055.md) | 0 |  |
 | Art. 56. | [art-056.md](art-056.md) | 0 |  |
-| Art. 57. | [art-057.md](art-057.md) | 0 |  |
-| Art. 58. | [art-058.md](art-058.md) | 1 | 2026-01-01 |
-| Art. 59. | [art-059.md](art-059.md) | 0 |  |
-| Art. 60. | [art-060.md](art-060.md) | 1 | 2026-01-01 |
+| Art. 57. | [art-057.md](art-057.md) | 1 | 2026-01-13 |
+| Art. 58. | [art-058.md](art-058.md) | 2 | 2026-01-13 |
+| Art. 59. | [art-059.md](art-059.md) | 1 | 2026-01-13 |
+| Art. 60. | [art-060.md](art-060.md) | 2 | 2026-01-13 |
 | Art. 61. | [art-061.md](art-061.md) | 0 |  |
 | Art. 62. | [art-062.md](art-062.md) | 0 |  |
 | Art. 63. | [art-063.md](art-063.md) | 0 |  |
-| Art. 64. | [art-064.md](art-064.md) | 0 |  |
+| Art. 64. | [art-064.md](art-064.md) | 1 | 2026-01-13 |
 | Art. 65. | [art-065.md](art-065.md) | 0 |  |
 | Art. 66. | [art-066.md](art-066.md) | 0 |  |
 | Art. 67. | [art-067.md](art-067.md) | 0 |  |
 | Art. 68. | [art-068.md](art-068.md) | 0 |  |
 | Art. 69. | [art-069.md](art-069.md) | 0 |  |
 | Art. 70. | [art-070.md](art-070.md) | 0 |  |
-| Art. 71. | [art-071.md](art-071.md) | 0 |  |
+| Art. 71. | [art-071.md](art-071.md) | 1 | 2026-01-13 |
 | Art. 72. | [art-072.md](art-072.md) | 0 |  |
-| Art. 73. | [art-073.md](art-073.md) | 0 |  |
+| Art. 73. | [art-073.md](art-073.md) | 1 | 2026-01-13 |
 | Art. 74. | [art-074.md](art-074.md) | 0 |  |
 | Art. 75. | [art-075.md](art-075.md) | 0 |  |
-| Art. 76. | [art-076.md](art-076.md) | 0 |  |
+| Art. 76. | [art-076.md](art-076.md) | 1 | 2026-01-13 |
 | Art. 77. | [art-077.md](art-077.md) | 0 |  |
 | Art. 78. | [art-078.md](art-078.md) | 0 |  |
 | Art. 79. | [art-079.md](art-079.md) | 0 |  |
-| Art. 80. | [art-080.md](art-080.md) | 0 |  |
+| Art. 80. | [art-080.md](art-080.md) | 1 | 2026-01-13 |
+| Art. 81-A. | [art-081-a.md](art-081-a.md) | 0 |  |
 | Art. 81. | [art-081.md](art-081.md) | 0 |  |
 | Art. 82. | [art-082.md](art-082.md) | 0 |  |
 | Art. 83. | [art-083.md](art-083.md) | 0 |  |
@@ -94,7 +96,7 @@ Text: normas.leg.br (Congresso Nacional), CC BY 4.0. Provisions whose effects st
 | Art. 86. | [art-086.md](art-086.md) | 0 |  |
 | Art. 87. | [art-087.md](art-087.md) | 0 |  |
 | Art. 88. | [art-088.md](art-088.md) | 0 |  |
-| Art. 89. | [art-089.md](art-089.md) | 0 |  |
+| Art. 89. | [art-089.md](art-089.md) | 1 | 2026-01-13 |
 | Art. 90. | [art-090.md](art-090.md) | 0 |  |
 | Art. 91. | [art-091.md](art-091.md) | 0 |  |
 | Art. 92. | [art-092.md](art-092.md) | 0 |  |
@@ -103,6 +105,8 @@ Text: normas.leg.br (Congresso Nacional), CC BY 4.0. Provisions whose effects st
 | Art. 95. | [art-095.md](art-095.md) | 0 |  |
 | Art. 96. | [art-096.md](art-096.md) | 0 |  |
 | Art. 97. | [art-097.md](art-097.md) | 0 |  |
+| Art. 98-A. | [art-098-a.md](art-098-a.md) | 0 |  |
+| Art. 98-B. | [art-098-b.md](art-098-b.md) | 0 |  |
 | Art. 98. | [art-098.md](art-098.md) | 0 |  |
 | Art. 99. | [art-099.md](art-099.md) | 0 |  |
 | Art. 100. | [art-100.md](art-100.md) | 0 |  |
@@ -111,7 +115,7 @@ Text: normas.leg.br (Congresso Nacional), CC BY 4.0. Provisions whose effects st
 | Art. 103. | [art-103.md](art-103.md) | 0 |  |
 | Art. 104. | [art-104.md](art-104.md) | 0 |  |
 | Art. 105. | [art-105.md](art-105.md) | 0 |  |
-| Art. 106. | [art-106.md](art-106.md) | 0 |  |
+| Art. 106. | [art-106.md](art-106.md) | 1 | 2026-01-13 |
 | Art. 107. | [art-107.md](art-107.md) | 0 |  |
 | Art. 108. | [art-108.md](art-108.md) | 0 |  |
 | Art. 109. | [art-109.md](art-109.md) | 0 |  |
@@ -122,7 +126,7 @@ Text: normas.leg.br (Congresso Nacional), CC BY 4.0. Provisions whose effects st
 | Art. 114. | [art-114.md](art-114.md) | 0 |  |
 | Art. 115. | [art-115.md](art-115.md) | 0 |  |
 | Art. 116. | [art-116.md](art-116.md) | 0 |  |
-| Art. 117. | [art-117.md](art-117.md) | 0 |  |
+| Art. 117. | [art-117.md](art-117.md) | 1 | 2026-01-13 |
 | Art. 118. | [art-118.md](art-118.md) | 0 |  |
 | Art. 119. | [art-119.md](art-119.md) | 0 |  |
 | Art. 120. | [art-120.md](art-120.md) | 0 |  |
@@ -131,7 +135,7 @@ Text: normas.leg.br (Congresso Nacional), CC BY 4.0. Provisions whose effects st
 | Art. 123. | [art-123.md](art-123.md) | 0 |  |
 | Art. 124. | [art-124.md](art-124.md) | 0 |  |
 | Art. 125. | [art-125.md](art-125.md) | 0 |  |
-| Art. 126. | [art-126.md](art-126.md) | 0 |  |
+| Art. 126. | [art-126.md](art-126.md) | 1 | 2026-01-13 |
 | Art. 127. | [art-127.md](art-127.md) | 0 |  |
 | Art. 128. | [art-128.md](art-128.md) | 0 |  |
 | Art. 129. | [art-129.md](art-129.md) | 0 |  |
@@ -147,21 +151,21 @@ Text: normas.leg.br (Congresso Nacional), CC BY 4.0. Provisions whose effects st
 | Art. 139. | [art-139.md](art-139.md) | 0 |  |
 | Art. 140. | [art-140.md](art-140.md) | 0 |  |
 | Art. 141. | [art-141.md](art-141.md) | 0 |  |
-| Art. 142. | [art-142.md](art-142.md) | 0 |  |
+| Art. 142. | [art-142.md](art-142.md) | 1 | 2026-01-13 |
 | Art. 143. | [art-143.md](art-143.md) | 0 |  |
 | Art. 144. | [art-144.md](art-144.md) | 0 |  |
 | Art. 145. | [art-145.md](art-145.md) | 0 |  |
-| Art. 146. | [art-146.md](art-146.md) | 0 |  |
+| Art. 146. | [art-146.md](art-146.md) | 1 | 2026-01-13 |
 | Art. 147. | [art-147.md](art-147.md) | 0 |  |
 | Art. 148. | [art-148.md](art-148.md) | 0 |  |
-| Art. 149. | [art-149.md](art-149.md) | 0 |  |
+| Art. 149. | [art-149.md](art-149.md) | 1 | 2026-01-13 |
 | Art. 150. | [art-150.md](art-150.md) | 0 |  |
 | Art. 151. | [art-151.md](art-151.md) | 0 |  |
-| Art. 152. | [art-152.md](art-152.md) | 0 |  |
+| Art. 152. | [art-152.md](art-152.md) | 1 | 2026-01-13 |
 | Art. 153. | [art-153.md](art-153.md) | 0 |  |
 | Art. 154. | [art-154.md](art-154.md) | 0 |  |
 | Art. 155. | [art-155.md](art-155.md) | 0 |  |
-| Art. 156. | [art-156.md](art-156.md) | 0 |  |
+| Art. 156. | [art-156.md](art-156.md) | 1 | 2026-01-13 |
 | Art. 157. | [art-157.md](art-157.md) | 0 |  |
 | Art. 158. | [art-158.md](art-158.md) | 0 |  |
 | Art. 159. | [art-159.md](art-159.md) | 0 |  |
@@ -173,11 +177,7 @@ Text: normas.leg.br (Congresso Nacional), CC BY 4.0. Provisions whose effects st
 | Art. 165. | [art-165.md](art-165.md) | 0 |  |
 | Art. 166. | [art-166.md](art-166.md) | 0 |  |
 | Art. 167. | [art-167.md](art-167.md) | 0 |  |
-| Art. 168. | [art-168.md](art-168.md) | 0 |  |
-| Art. 169. | [art-169.md](art-169.md) | 0 |  |
-| Art. 170. | [art-170.md](art-170.md) | 0 |  |
-| Art. 171. | [art-171.md](art-171.md) | 0 |  |
-| Art. 172. | [art-172.md](art-172.md) | 0 |  |
+| Art. 172. | [art-172.md](art-172.md) | 1 | 2026-01-13 |
 | Art. 173. | [art-173.md](art-173.md) | 0 |  |
 | Art. 174. | [art-174.md](art-174.md) | 0 |  |
 | Art. 175. | [art-175.md](art-175.md) | 0 |  |
@@ -187,8 +187,8 @@ Text: normas.leg.br (Congresso Nacional), CC BY 4.0. Provisions whose effects st
 | Art. 179. | [art-179.md](art-179.md) | 0 |  |
 | Art. 180. | [art-180.md](art-180.md) | 0 |  |
 | Art. 181. | [art-181.md](art-181.md) | 0 |  |
-| Art. 182. | [art-182.md](art-182.md) | 0 |  |
-| Art. 183. | [art-183.md](art-183.md) | 0 |  |
+| Art. 182. | [art-182.md](art-182.md) | 1 | 2026-01-13 |
+| Art. 183. | [art-183.md](art-183.md) | 1 | 2026-01-13 |
 | Art. 184. | [art-184.md](art-184.md) | 0 |  |
 | Art. 185. | [art-185.md](art-185.md) | 0 |  |
 | Art. 186. | [art-186.md](art-186.md) | 0 |  |
@@ -197,16 +197,16 @@ Text: normas.leg.br (Congresso Nacional), CC BY 4.0. Provisions whose effects st
 | Art. 189. | [art-189.md](art-189.md) | 0 |  |
 | Art. 190. | [art-190.md](art-190.md) | 0 |  |
 | Art. 191. | [art-191.md](art-191.md) | 0 |  |
-| Art. 192. | [art-192.md](art-192.md) | 0 |  |
+| Art. 192. | [art-192.md](art-192.md) | 1 | 2026-01-13 |
 | Art. 193. | [art-193.md](art-193.md) | 0 |  |
 | Art. 194. | [art-194.md](art-194.md) | 0 |  |
 | Art. 195. | [art-195.md](art-195.md) | 0 |  |
 | Art. 196. | [art-196.md](art-196.md) | 0 |  |
-| Art. 197. | [art-197.md](art-197.md) | 0 |  |
+| Art. 197. | [art-197.md](art-197.md) | 1 | 2026-01-13 |
 | Art. 198. | [art-198.md](art-198.md) | 0 |  |
 | Art. 199. | [art-199.md](art-199.md) | 0 |  |
 | Art. 200. | [art-200.md](art-200.md) | 0 |  |
-| Art. 201. | [art-201.md](art-201.md) | 0 |  |
+| Art. 201. | [art-201.md](art-201.md) | 1 | 2026-01-13 |
 | Art. 202. | [art-202.md](art-202.md) | 0 |  |
 | Art. 203. | [art-203.md](art-203.md) | 0 |  |
 | Art. 204. | [art-204.md](art-204.md) | 0 |  |
@@ -217,13 +217,15 @@ Text: normas.leg.br (Congresso Nacional), CC BY 4.0. Provisions whose effects st
 | Art. 209. | [art-209.md](art-209.md) | 0 |  |
 | Art. 210. | [art-210.md](art-210.md) | 0 |  |
 | Art. 211. | [art-211.md](art-211.md) | 0 |  |
-| Art. 212. | [art-212.md](art-212.md) | 0 |  |
+| Art. 212. | [art-212.md](art-212.md) | 1 | 2026-01-13 |
 | Art. 213. | [art-213.md](art-213.md) | 0 |  |
-| Art. 214. | [art-214.md](art-214.md) | 0 |  |
+| Art. 214. | [art-214.md](art-214.md) | 1 | 2026-01-13 |
 | Art. 215. | [art-215.md](art-215.md) | 0 |  |
 | Art. 216. | [art-216.md](art-216.md) | 0 |  |
-| Art. 217. | [art-217.md](art-217.md) | 0 |  |
+| Art. 217. | [art-217.md](art-217.md) | 1 | 2026-01-13 |
+| Art. 218-A. | [art-218-a.md](art-218-a.md) | 0 |  |
 | Art. 218. | [art-218.md](art-218.md) | 0 |  |
+| Art. 219-A. | [art-219-a.md](art-219-a.md) | 0 |  |
 | Art. 219. | [art-219.md](art-219.md) | 0 |  |
 | Art. 220. | [art-220.md](art-220.md) | 0 |  |
 | Art. 221. | [art-221.md](art-221.md) | 0 |  |
@@ -236,14 +238,14 @@ Text: normas.leg.br (Congresso Nacional), CC BY 4.0. Provisions whose effects st
 | Art. 228. | [art-228.md](art-228.md) | 0 |  |
 | Art. 229. | [art-229.md](art-229.md) | 0 |  |
 | Art. 230. | [art-230.md](art-230.md) | 0 |  |
-| Art. 231. | [art-231.md](art-231.md) | 0 |  |
+| Art. 231. | [art-231.md](art-231.md) | 1 | 2026-01-13 |
 | Art. 232. | [art-232.md](art-232.md) | 0 |  |
-| Art. 233. | [art-233.md](art-233.md) | 0 |  |
+| Art. 233. | [art-233.md](art-233.md) | 1 | 2026-01-13 |
 | Art. 234. | [art-234.md](art-234.md) | 0 |  |
 | Art. 235. | [art-235.md](art-235.md) | 0 |  |
 | Art. 236. | [art-236.md](art-236.md) | 0 |  |
 | Art. 237. | [art-237.md](art-237.md) | 0 |  |
-| Art. 238. | [art-238.md](art-238.md) | 0 |  |
+| Art. 238. | [art-238.md](art-238.md) | 1 | 2026-01-13 |
 | Art. 239. | [art-239.md](art-239.md) | 0 |  |
 | Art. 240. | [art-240.md](art-240.md) | 0 |  |
 | Art. 241. | [art-241.md](art-241.md) | 0 |  |
@@ -257,15 +259,15 @@ Text: normas.leg.br (Congresso Nacional), CC BY 4.0. Provisions whose effects st
 | Art. 249. | [art-249.md](art-249.md) | 0 |  |
 | Art. 250. | [art-250.md](art-250.md) | 0 |  |
 | Art. 251. | [art-251.md](art-251.md) | 0 |  |
-| Art. 252. | [art-252.md](art-252.md) | 0 |  |
-| Art. 253. | [art-253.md](art-253.md) | 0 |  |
+| Art. 252. | [art-252.md](art-252.md) | 1 | 2026-01-13 |
+| Art. 253. | [art-253.md](art-253.md) | 1 | 2026-01-13 |
 | Art. 254. | [art-254.md](art-254.md) | 0 |  |
 | Art. 255. | [art-255.md](art-255.md) | 0 |  |
 | Art. 256. | [art-256.md](art-256.md) | 0 |  |
 | Art. 257. | [art-257.md](art-257.md) | 0 |  |
-| Art. 258. | [art-258.md](art-258.md) | 0 |  |
+| Art. 258. | [art-258.md](art-258.md) | 1 | 2026-01-13 |
 | Art. 259. | [art-259.md](art-259.md) | 0 |  |
-| Art. 260. | [art-260.md](art-260.md) | 0 |  |
+| Art. 260. | [art-260.md](art-260.md) | 1 | 2026-01-13 |
 | Art. 261. | [art-261.md](art-261.md) | 0 |  |
 | Art. 262. | [art-262.md](art-262.md) | 0 |  |
 | Art. 263. | [art-263.md](art-263.md) | 0 |  |
@@ -285,7 +287,7 @@ Text: normas.leg.br (Congresso Nacional), CC BY 4.0. Provisions whose effects st
 | Art. 277. | [art-277.md](art-277.md) | 0 |  |
 | Art. 278. | [art-278.md](art-278.md) | 0 |  |
 | Art. 279. | [art-279.md](art-279.md) | 0 |  |
-| Art. 280. | [art-280.md](art-280.md) | 0 |  |
+| Art. 280. | [art-280.md](art-280.md) | 1 | 2026-01-13 |
 | Art. 281. | [art-281.md](art-281.md) | 0 |  |
 | Art. 282. | [art-282.md](art-282.md) | 0 |  |
 | Art. 283. | [art-283.md](art-283.md) | 0 |  |
@@ -298,7 +300,7 @@ Text: normas.leg.br (Congresso Nacional), CC BY 4.0. Provisions whose effects st
 | Art. 290. | [art-290.md](art-290.md) | 0 |  |
 | Art. 291. | [art-291.md](art-291.md) | 0 |  |
 | Art. 292. | [art-292.md](art-292.md) | 0 |  |
-| Art. 293. | [art-293.md](art-293.md) | 0 |  |
+| Art. 293. | [art-293.md](art-293.md) | 1 | 2026-01-13 |
 | Art. 294. | [art-294.md](art-294.md) | 0 |  |
 | Art. 295. | [art-295.md](art-295.md) | 0 |  |
 | Art. 296. | [art-296.md](art-296.md) | 0 |  |
@@ -314,28 +316,35 @@ Text: normas.leg.br (Congresso Nacional), CC BY 4.0. Provisions whose effects st
 | Art. 306. | [art-306.md](art-306.md) | 0 |  |
 | Art. 307. | [art-307.md](art-307.md) | 0 |  |
 | Art. 308. | [art-308.md](art-308.md) | 0 |  |
-| Art. 309. | [art-309.md](art-309.md) | 0 |  |
-| Art. 310. | [art-310.md](art-310.md) | 0 |  |
-| Art. 311. | [art-311.md](art-311.md) | 0 |  |
-| Art. 312. | [art-312.md](art-312.md) | 0 |  |
-| Art. 313. | [art-313.md](art-313.md) | 0 |  |
-| Art. 314. | [art-314.md](art-314.md) | 0 |  |
-| Art. 315. | [art-315.md](art-315.md) | 0 |  |
 | Art. 316. | [art-316.md](art-316.md) | 0 |  |
 | Art. 317. | [art-317.md](art-317.md) | 0 |  |
 | Art. 318. | [art-318.md](art-318.md) | 0 |  |
 | Art. 319. | [art-319.md](art-319.md) | 0 |  |
 | Art. 320. | [art-320.md](art-320.md) | 0 |  |
-| Art. 321. | [art-321.md](art-321.md) | 0 |  |
-| Art. 322. | [art-322.md](art-322.md) | 0 |  |
+| Art. 321. | [art-321.md](art-321.md) | 1 | 2026-01-13 |
+| Art. 322. | [art-322.md](art-322.md) | 1 | 2026-01-13 |
+| Art. 323-A. | [art-323-a.md](art-323-a.md) | 0 |  |
+| Art. 323-B. | [art-323-b.md](art-323-b.md) | 0 |  |
+| Art. 323-C. | [art-323-c.md](art-323-c.md) | 0 |  |
+| Art. 323-D. | [art-323-d.md](art-323-d.md) | 0 |  |
+| Art. 323-E. | [art-323-e.md](art-323-e.md) | 0 |  |
+| Art. 323-F. | [art-323-f.md](art-323-f.md) | 0 |  |
+| Art. 323-G. | [art-323-g.md](art-323-g.md) | 0 |  |
+| Art. 323-H. | [art-323-h.md](art-323-h.md) | 0 |  |
+| Art. 323-I. | [art-323-i.md](art-323-i.md) | 0 |  |
+| Art. 323-J. | [art-323-j.md](art-323-j.md) | 0 |  |
+| Art. 323-K. | [art-323-k.md](art-323-k.md) | 0 |  |
+| Art. 323-L. | [art-323-l.md](art-323-l.md) | 0 |  |
+| Art. 323-M. | [art-323-m.md](art-323-m.md) | 0 |  |
 | Art. 323. | [art-323.md](art-323.md) | 0 |  |
 | Art. 324. | [art-324.md](art-324.md) | 0 |  |
-| Art. 325. | [art-325.md](art-325.md) | 0 |  |
+| Art. 325. | [art-325.md](art-325.md) | 1 | 2026-01-13 |
 | Art. 326. | [art-326.md](art-326.md) | 0 |  |
+| Art. 327-A. | [art-327-a.md](art-327-a.md) | 0 |  |
 | Art. 327. | [art-327.md](art-327.md) | 0 |  |
 | Art. 328. | [art-328.md](art-328.md) | 0 |  |
 | Art. 329. | [art-329.md](art-329.md) | 0 |  |
-| Art. 330. | [art-330.md](art-330.md) | 0 |  |
+| Art. 330. | [art-330.md](art-330.md) | 1 | 2026-01-13 |
 | Art. 331. | [art-331.md](art-331.md) | 0 |  |
 | Art. 332. | [art-332.md](art-332.md) | 0 |  |
 | Art. 333. | [art-333.md](art-333.md) | 0 |  |
@@ -346,16 +355,24 @@ Text: normas.leg.br (Congresso Nacional), CC BY 4.0. Provisions whose effects st
 | Art. 338. | [art-338.md](art-338.md) | 0 |  |
 | Art. 339. | [art-339.md](art-339.md) | 0 |  |
 | Art. 340. | [art-340.md](art-340.md) | 0 |  |
+| Art. 341-A. | [art-341-a.md](art-341-a.md) | 0 |  |
+| Art. 341-B. | [art-341-b.md](art-341-b.md) | 0 |  |
+| Art. 341-C. | [art-341-c.md](art-341-c.md) | 0 |  |
+| Art. 341-D. | [art-341-d.md](art-341-d.md) | 0 |  |
+| Art. 341-E. | [art-341-e.md](art-341-e.md) | 0 |  |
+| Art. 341-F. | [art-341-f.md](art-341-f.md) | 0 |  |
+| Art. 341-G. | [art-341-g.md](art-341-g.md) | 0 |  |
+| Art. 341-H. | [art-341-h.md](art-341-h.md) | 0 |  |
 | Art. 341. | [art-341.md](art-341.md) | 0 |  |
 | Art. 342. | [art-342.md](art-342.md) | 0 |  |
 | Art. 343. | [art-343.md](art-343.md) | 0 |  |
-| Art. 344. | [art-344.md](art-344.md) | 0 |  |
+| Art. 344. | [art-344.md](art-344.md) | 1 | 2026-01-13 |
 | Art. 345. | [art-345.md](art-345.md) | 0 |  |
 | Art. 346. | [art-346.md](art-346.md) | 0 |  |
 | Art. 347. | [art-347.md](art-347.md) | 0 |  |
-| Art. 348. | [art-348.md](art-348.md) | 0 |  |
+| Art. 348. | [art-348.md](art-348.md) | 1 | 2026-01-13 |
 | Art. 349. | [art-349.md](art-349.md) | 0 |  |
-| Art. 350. | [art-350.md](art-350.md) | 0 |  |
+| Art. 350. | [art-350.md](art-350.md) | 1 | 2026-01-13 |
 | Art. 351. | [art-351.md](art-351.md) | 0 |  |
 | Art. 352. | [art-352.md](art-352.md) | 0 |  |
 | Art. 353. | [art-353.md](art-353.md) | 0 |  |
@@ -366,11 +383,11 @@ Text: normas.leg.br (Congresso Nacional), CC BY 4.0. Provisions whose effects st
 | Art. 358. | [art-358.md](art-358.md) | 0 |  |
 | Art. 359. | [art-359.md](art-359.md) | 0 |  |
 | Art. 360. | [art-360.md](art-360.md) | 0 |  |
-| Art. 361. | [art-361.md](art-361.md) | 0 |  |
-| Art. 362. | [art-362.md](art-362.md) | 0 |  |
-| Art. 363. | [art-363.md](art-363.md) | 0 |  |
-| Art. 364. | [art-364.md](art-364.md) | 0 |  |
-| Art. 365. | [art-365.md](art-365.md) | 0 |  |
+| Art. 361. | [art-361.md](art-361.md) | 1 | 2026-01-13 |
+| Art. 362. | [art-362.md](art-362.md) | 1 | 2026-01-13 |
+| Art. 363. | [art-363.md](art-363.md) | 1 | 2026-01-13 |
+| Art. 364. | [art-364.md](art-364.md) | 1 | 2026-01-13 |
+| Art. 365. | [art-365.md](art-365.md) | 1 | 2026-01-13 |
 | Art. 366. | [art-366.md](art-366.md) | 0 |  |
 | Art. 367. | [art-367.md](art-367.md) | 0 |  |
 | Art. 368. | [art-368.md](art-368.md) | 0 |  |
@@ -389,7 +406,7 @@ Text: normas.leg.br (Congresso Nacional), CC BY 4.0. Provisions whose effects st
 | Art. 381. | [art-381.md](art-381.md) | 0 |  |
 | Art. 382. | [art-382.md](art-382.md) | 0 |  |
 | Art. 383. | [art-383.md](art-383.md) | 0 |  |
-| Art. 384. | [art-384.md](art-384.md) | 0 |  |
+| Art. 384. | [art-384.md](art-384.md) | 1 | 2026-01-13 |
 | Art. 385. | [art-385.md](art-385.md) | 0 |  |
 | Art. 386. | [art-386.md](art-386.md) | 0 |  |
 | Art. 387. | [art-387.md](art-387.md) | 0 |  |
@@ -397,7 +414,7 @@ Text: normas.leg.br (Congresso Nacional), CC BY 4.0. Provisions whose effects st
 | Art. 389. | [art-389.md](art-389.md) | 0 |  |
 | Art. 390. | [art-390.md](art-390.md) | 0 |  |
 | Art. 391. | [art-391.md](art-391.md) | 0 |  |
-| Art. 392. | [art-392.md](art-392.md) | 0 |  |
+| Art. 392. | [art-392.md](art-392.md) | 1 | 2026-01-13 |
 | Art. 393. | [art-393.md](art-393.md) | 0 |  |
 | Art. 394. | [art-394.md](art-394.md) | 0 |  |
 | Art. 395. | [art-395.md](art-395.md) | 0 |  |
@@ -413,13 +430,13 @@ Text: normas.leg.br (Congresso Nacional), CC BY 4.0. Provisions whose effects st
 | Art. 405. | [art-405.md](art-405.md) | 0 |  |
 | Art. 406. | [art-406.md](art-406.md) | 0 |  |
 | Art. 407. | [art-407.md](art-407.md) | 0 |  |
-| Art. 408. | [art-408.md](art-408.md) | 0 |  |
+| Art. 408. | [art-408.md](art-408.md) | 1 | 2026-01-13 |
 | Art. 409. | [art-409.md](art-409.md) | 0 |  |
 | Art. 410. | [art-410.md](art-410.md) | 0 |  |
 | Art. 411. | [art-411.md](art-411.md) | 0 |  |
 | Art. 412. | [art-412.md](art-412.md) | 0 |  |
 | Art. 413. | [art-413.md](art-413.md) | 0 |  |
-| Art. 414. | [art-414.md](art-414.md) | 0 |  |
+| Art. 414. | [art-414.md](art-414.md) | 1 | 2026-01-13 |
 | Art. 415. | [art-415.md](art-415.md) | 0 |  |
 | Art. 416. | [art-416.md](art-416.md) | 0 |  |
 | Art. 417. | [art-417.md](art-417.md) | 0 |  |
@@ -427,9 +444,9 @@ Text: normas.leg.br (Congresso Nacional), CC BY 4.0. Provisions whose effects st
 | Art. 419. | [art-419.md](art-419.md) | 0 |  |
 | Art. 420. | [art-420.md](art-420.md) | 0 |  |
 | Art. 421. | [art-421.md](art-421.md) | 0 |  |
-| Art. 422. | [art-422.md](art-422.md) | 0 |  |
+| Art. 422. | [art-422.md](art-422.md) | 1 | 2026-01-13 |
 | Art. 423. | [art-423.md](art-423.md) | 0 |  |
-| Art. 424. | [art-424.md](art-424.md) | 0 |  |
+| Art. 424. | [art-424.md](art-424.md) | 1 | 2026-01-13 |
 | Art. 425. | [art-425.md](art-425.md) | 0 |  |
 | Art. 426. | [art-426.md](art-426.md) | 0 |  |
 | Art. 427. | [art-427.md](art-427.md) | 0 |  |
@@ -439,17 +456,16 @@ Text: normas.leg.br (Congresso Nacional), CC BY 4.0. Provisions whose effects st
 | Art. 431. | [art-431.md](art-431.md) | 0 |  |
 | Art. 432. | [art-432.md](art-432.md) | 0 |  |
 | Art. 433. | [art-433.md](art-433.md) | 0 |  |
-| Art. 434. | [art-434.md](art-434.md) | 0 |  |
+| Art. 434. | [art-434.md](art-434.md) | 1 | 2026-01-13 |
 | Art. 435. | [art-435.md](art-435.md) | 0 |  |
 | Art. 436. | [art-436.md](art-436.md) | 0 |  |
 | Art. 437. | [art-437.md](art-437.md) | 0 |  |
 | Art. 438. | [art-438.md](art-438.md) | 0 |  |
 | Art. 439. | [art-439.md](art-439.md) | 0 |  |
-| Art. 440. | [art-440.md](art-440.md) | 0 |  |
+| Art. 440. | [art-440.md](art-440.md) | 1 | 2026-01-13 |
 | Art. 441. | [art-441.md](art-441.md) | 0 |  |
-| Art. 442. | [art-442.md](art-442.md) | 0 |  |
+| Art. 442. | [art-442.md](art-442.md) | 1 | 2026-01-13 |
 | Art. 443. | [art-443.md](art-443.md) | 0 |  |
-| Art. 444. | [art-444.md](art-444.md) | 0 |  |
 | Art. 445. | [art-445.md](art-445.md) | 0 |  |
 | Art. 448. | [art-448.md](art-448.md) | 0 |  |
 | Art. 451. | [art-451.md](art-451.md) | 0 |  |
@@ -461,34 +477,41 @@ Text: normas.leg.br (Congresso Nacional), CC BY 4.0. Provisions whose effects st
 | Art. 457. | [art-457.md](art-457.md) | 0 |  |
 | Art. 458. | [art-458.md](art-458.md) | 0 |  |
 | Art. 459. | [art-459.md](art-459.md) | 0 |  |
-| Art. 460. | [art-460.md](art-460.md) | 0 |  |
-| Art. 462. | [art-462.md](art-462.md) | 0 |  |
+| Art. 460. | [art-460.md](art-460.md) | 1 | 2026-01-13 |
 | Art. 463. | [art-463.md](art-463.md) | 0 |  |
 | Art. 466. | [art-466.md](art-466.md) | 0 |  |
 | Art. 468. | [art-468.md](art-468.md) | 0 |  |
 | Art. 469. | [art-469.md](art-469.md) | 0 |  |
 | Art. 470. | [art-470.md](art-470.md) | 0 |  |
+| Art. 471-A. | [art-471-a.md](art-471-a.md) | 0 |  |
+| Art. 471-B. | [art-471-b.md](art-471-b.md) | 0 |  |
+| Art. 471-C. | [art-471-c.md](art-471-c.md) | 0 |  |
+| Art. 471-D. | [art-471-d.md](art-471-d.md) | 0 |  |
+| Art. 471-E. | [art-471-e.md](art-471-e.md) | 0 |  |
+| Art. 471-F. | [art-471-f.md](art-471-f.md) | 0 |  |
 | Art. 471. | [art-471.md](art-471.md) | 0 |  |
-| Art. 472. | [art-472.md](art-472.md) | 0 |  |
-| Art. 473. | [art-473.md](art-473.md) | 0 |  |
-| Art. 475. | [art-475.md](art-475.md) | 0 |  |
+| Art. 472. | [art-472.md](art-472.md) | 1 | 2026-01-13 |
+| Art. 473. | [art-473.md](art-473.md) | 1 | 2026-01-13 |
+| Art. 475. | [art-475.md](art-475.md) | 1 | 2026-01-13 |
 | Art. 476. | [art-476.md](art-476.md) | 0 |  |
 | Art. 477. | [art-477.md](art-477.md) | 0 |  |
 | Art. 478. | [art-478.md](art-478.md) | 0 |  |
 | Art. 479. | [art-479.md](art-479.md) | 0 |  |
 | Art. 480. | [art-480.md](art-480.md) | 0 |  |
-| Art. 481. | [art-481.md](art-481.md) | 0 |  |
-| Art. 482. | [art-482.md](art-482.md) | 0 |  |
-| Art. 483. | [art-483.md](art-483.md) | 0 |  |
-| Art. 484. | [art-484.md](art-484.md) | 0 |  |
-| Art. 485. | [art-485.md](art-485.md) | 0 |  |
-| Art. 486. | [art-486.md](art-486.md) | 0 |  |
-| Art. 487. | [art-487.md](art-487.md) | 0 |  |
+| Art. 481. | [art-481.md](art-481.md) | 1 | 2026-01-13 |
+| Art. 482-A. | [art-482-a.md](art-482-a.md) | 0 |  |
+| Art. 482. | [art-482.md](art-482.md) | 1 | 2026-01-13 |
+| Art. 483. | [art-483.md](art-483.md) | 1 | 2026-01-13 |
+| Art. 484. | [art-484.md](art-484.md) | 1 | 2026-01-13 |
+| Art. 485. | [art-485.md](art-485.md) | 1 | 2026-01-13 |
+| Art. 486. | [art-486.md](art-486.md) | 1 | 2026-01-13 |
+| Art. 487. | [art-487.md](art-487.md) | 1 | 2026-01-13 |
 | Art. 488. | [art-488.md](art-488.md) | 0 |  |
 | Art. 489. | [art-489.md](art-489.md) | 0 |  |
 | Art. 490. | [art-490.md](art-490.md) | 0 |  |
 | Art. 491. | [art-491.md](art-491.md) | 0 |  |
 | Art. 492. | [art-492.md](art-492.md) | 0 |  |
+| Art. 493-A. | [art-493-a.md](art-493-a.md) | 0 |  |
 | Art. 493. | [art-493.md](art-493.md) | 0 |  |
 | Art. 494. | [art-494.md](art-494.md) | 0 |  |
 | Art. 495. | [art-495.md](art-495.md) | 0 |  |
@@ -506,4 +529,4 @@ Text: normas.leg.br (Congresso Nacional), CC BY 4.0. Provisions whose effects st
 | Art. 539. | [art-539.md](art-539.md) | 0 |  |
 | Art. 540. | [art-540.md](art-540.md) | 0 |  |
 | Art. 541. | [art-541.md](art-541.md) | 0 |  |
-| Art. 544. | [art-544.md](art-544.md) | 0 |  |
+| Art. 544. | [art-544.md](art-544.md) | 1 | 2026-01-13 |

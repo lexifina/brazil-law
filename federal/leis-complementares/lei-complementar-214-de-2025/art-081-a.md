@@ -1,0 +1,3 @@
+Art. 81-A. A exportação de bens materiais, inclusive nos casos em que não haja saída física do território nacional de que trata o art. 81, será comprovada mediante registro pelo órgão competente ou documentação e procedimentos estabelecidos na legislação aduaneira, nos termos do regulamento.
+§ 1º Decorrido o prazo de 180 (cento e oitenta) dias, contado da emissão do documento fiscal eletrônico, sem a comprovação da exportação, considera-se ocorrida operação onerosa e serão exigidos do exportador, com os devidos acréscimos, a CBS e o IBS incidentes na operação, inclusive os relativos às operações de que trata o inciso II do § 1º do art. 80.
+§ 2º O regulamento poderá prever hipóteses de ampliação do prazo previsto no § 1º deste artigo.
