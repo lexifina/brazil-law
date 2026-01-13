@@ -1,0 +1,2 @@
+Altera a Lei Complementar nº 173, de 27 de maio de 2020, para prever a autorização de pagamentos retroativos de anuênio, triênio, quinquênio, sexta-parte, licença-prêmio e demais mecanismos equivalentes ao quadro de pessoal de entes federativos que decretaram estado de calamidade pública decorrente da pandemia da covid-19.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei Complementar:
