@@ -1,0 +1,42 @@
+DECISÃO:
+Vistos.
+Trata-se de habeas corpus, com pedido liminar, impetrado contra decisão monocrática proferida por Ministro do Superior Tribunal de Justiça (STJ), que denegou liminarmente o HC nº 1.053.606/PR.
+Consta dos autos que a paciente foi presa preventivamente pela suposta prática dos crimes de tráfico de drogas, de associação para o tráfico de entorpecentes e de corrupção de menores.
+A defesa sustenta a inidoneidade dos fundamentos do decreto prisional, pois nenhum elemento concreto foi apresentado para justificar a segregação cautelar da paciente, bem como que seria o caso de substituição da prisão preventiva por medidas cautelares diversas, em razão da ausência de requisitos concretos do art. 312 do CPP.
+Aduz que a paciente é primária e com bons antecedentes.
+Requer, ao final:
+
+“I – Seja concedida a medida liminar para a imediata soltura da paciente, com a fixação de medidas cautelares diversa de prisão, quais sejam; recolhimento domiciliar no período noturno e dias de folga, monitoração eletrônica e proibição de comunicar-se com outros réus.
+II - Seja no mérito concedida e/ou confirmada a Ordem de Habeas Corpus, a fim de, conceder à Kaylaine a liberdade provisória, aplicando medidas cautelares diversas da prisão.”
+
+É o relatório. Fundamento e decido.
+Transcrevo, no que interessa à impetração, trecho da decisão monocrática combatida:
+
+A prisão preventiva é compatível com a presunção de não culpabilidade do acusado, desde que não assuma natureza de antecipação da pena, e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315, ambos do CPP).
+A cautela extrema foi assim fundamentada (fl. 73, grifei):
+
+ No que tange aos demais envolvidos, as investigações conduzidas pela autoridade policial indicam com clareza que Francine Vitória Bueno(companheira de Gabriel), David Emanuel Fernandes da Silva(vulgo “Cabelo”), Alifer Guilherme Ricardo da Silva (vulgo “Alifinho”) e Kaylaine dos Santos Silva (namorada de Alifinho) atuam como fornecedores imediatos de drogas para Alessandro e Gabriel . Tal atuação se dá sob ordens de Helivelton Alves dos Santos, apontado como liderança da organização criminosa responsável pela remessa de entorpecentes oriundos da região de Foz do Iguaçu/Paraguai com destino às localidades de, Bairro do Grêmio, Jardim Braúna, Vila Eucaliptos e Vila Progresso todas situadas neste município de Sengés/PR.
+[...]
+Os dados extraídos do celular indicam que os investigados mantêm vínculos diretos com diversos indivíduos já conhecidos no meio policial, entre eles Gabriel Miranda Pereira (vulgo Glock), David Emanuel Fernandes da Silva (vulgo Cabelo), Alifer Guilherme Ricardo da Silva (vulgo Alifinho), Francine Vitória Bueno, Kaylaine dos Santos Silva, Jaqueline Pedroso Moraes, Alisson Alex dos Santos Pereira, e o menor G. P. A., este último reiteradamente envolvido na traficância e alvo de pedido de internação.
+[...]
+As conversas interceptadas demonstram a prática reiterada de tráfico de drogas, inclusive com a utilização de menores, ocultação de substâncias ilícitas em imóveis de terceiros, movimentações financeiras suspeitas via PIX, e a existência de uma rede de distribuição abastecida por remessas oriundas de Foz do Iguaçu/PR, sob comando de Helivelton Alves dos Santos, apontado como liderança da organização.
+Como se observa, para a garantia da ordem pública, a prisão preventiva foi validamente fundamentada com base na na participação da investigada em associação criminosa. Isso porque a acusada foi apontada como integrante de grupo criminoso estruturado, voltado para prática de tráfico de drogas, inclusive com o uso dos serviços de menor de idade, no qual ela exerce fornecimento imediato de drogas para outros dois investigados, conduta essa devidamente individualizada no decreto prisional. Nesse contexto, há notícia de intensa comunicação e movimentação financeira entre os agentes, envolvidos em uma rede de distribuição de entorpecentes.
+Com efeito, "Não há ilegalidade na decisão que decreta a prisão preventiva com base em elementos concretos aptos a revelar a real necessidade de se fazer cessar ou diminuir a atuação de suposto integrante de organização criminosa para assegurar a ordem pública" (RHC 144.284 AgR, Rel. Ministro Edson Fachin, Segunda Turma, DJe 27/08/2018).
+Além disso, "As investigações e o transcurso do prazo descortinaram situações graves, e outros contextos da suposta reiteração delitiva" (AgRg no HC n. 804.162/PA, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/6/2023, DJe de 7/6/2023).
+A quebra da cadeia de custódia da prova não foi debatida no acórdão recorrido, o que atrai indevida supressão de instância. Ainda que assim não fosse, a defesa não trouxe prova pré-constituída de que houve adulteração nas conversas obtidas por meio de print screen, o que impede o acolhimento de sua alegação na via sumária do habeas corpus.
+Ressalto, por oportuno, que a avaliação da veracidade das capturas de tela implica análise de inocência, procedimento que, na estreita via do habeas corpus, demandaria aprofundamento no conjunto de fatos e provas, o que não se admite no rito célere da ação constitucional manejada.” (e-doc. 17)
+
+O art. 102, I, i, da Constituição Federal preceitua que a competência do Supremo Tribunal Federal para processar e julgar originariamente o habeas corpus será inaugurada “[...] quando o coator for Tribunal Superior ou quando o coator ou o paciente for autoridade ou funcionário cujos atos estejam sujeitos diretamente à jurisdição do Supremo Tribunal Federal, ou se trate de crime sujeito à mesma jurisdição em uma única instância”.
+Na espécie, a ausência da análise pelo colegiado de Tribunal Superior, dos fundamentos constantes da decisão monocrática, impede o conhecimento do writ nesta Suprema Corte.
+Ademais, não verifico a existência de teratologia, flagrante ilegalidade ou abuso de poder para que se realize uma análise “per saltum” das questões trazidas no presente habeas corpus.
+Nesse sentido:
+
+“HABEAS CORPUS CONTRA DECISÃO MONOCRÁTICA DE MINISTRO DE TRIBUNAL SUPERIOR. RECORRIBILIDADE. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE ILEGALIDADE. PRECEDENTES. 1. Incidência de óbice ao conhecimento da ordem impetrada neste Supremo Tribunal Federal, uma vez que se impugna decisão monocrática de Ministro do Superior de Tribunal de Justiça (HC 151.344-AgR, Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 21/3/2018; HC 122.718/SP, Rel. Min. ROSA WEBER, Primeira Turma, DJe de 3/9/2014; HC 121.684-AgR/SP, Rel. Min. TEORI ZAVASCKI, Segunda Turma, DJe de 16/5/2014; HC 138.687-AgR, Rel. Min. CELSO DE MELLO, Segunda Turma, DJe de 1º/3/2017; HC 116.875/AC, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 17/10/2013; HC 117.346/SP, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 22/10/2013; HC 117.798/SP, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 24/4/2014; HC 119.821/TO, Rel. Min. GILMAR MENDES, Segunda Turma, DJe de 29/4/2014; HC 122.381-AgR/SP, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 9/10/2014; RHC 114.737/RN, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 18/4/2013; RHC 114.961/SP, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 8/8/2013). 2. O exaurimento da instância recorrida é, como regra, pressuposto para ensejar a competência do Supremo Tribunal Federal, conforme vem sendo reiteradamente proclamado por esta Corte (HC 129.142, Rel. Min. MARCO AURÉLIO, Rel. p/ Acórdão Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 10/8/2017; RHC 111.935, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 30/9/2013; HC 97.009, Rel. p/ Acórdão: Min. TEORI ZAVASCKI, Tribunal Pleno, DJe de 4/4/2014; HC 118.189, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 24/4/2014). 3. Inexistência de teratologia ou caso excepcional que caracterizem flagrante constrangimento ilegal. 4. Habeas corpus não conhecido” (HC 165.860/SP, Rel. Min. Marco Aurélio, redator p/ acórdão Min. Alexandre de Moraes, Primeira Turma).
+
+Ante o exposto, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente habeas corpus, ficando prejudicado o pedido de liminar.
+Publique-se.
+Brasília, 13 de janeiro de 2026.
+
+Ministro DIAS TOFFOLI
+Relator
+Documento assinado digitalmente
