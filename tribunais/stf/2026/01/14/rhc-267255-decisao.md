@@ -1,0 +1,65 @@
+Recurso ordinário em habeas corpus. Acordo de não persecução penal. Remessa dos autos ao órgão ministerial para análise do cabimento do ANPP. Alegação de nulidade da condenação. Validade das decisões já proferidas. Suspensão da exequibilidade da condenação. Princípio pas de nullité sans grief. Manifesta ilegalidade ou teratologia não identificadas. Negativa de seguimento.
+
+Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto por Gilcilene de Souza Lemos contra acórdão do Superior Tribunal Justiça, que negou provimento ao agravo regimental no HC 1.024.146/RN (evento 39).
+
+No presente recurso, a Defesa aponta constrangimento ilegal, porquanto suspensa a ação penal e remetidos os autos ao Ministério Público para análise do oferecimento do acordo de não persecução penal, sem a prévia anulação da sentença condenatória. Argumenta que “[o] oferecimento do ANPP é regra de pressuposto processual de constituição e validade do procedimento judicial quanto ao oferecimento da denúncia, de modo que a inexistência de sua oferta acarreta a NULIDADE de todos os atos processuais constituídos sem sua observação, inclusive a da própria sentença proferida, já que, pela regra do art. 28-A, §§8º e 10, do CPP, a propositura/recusa/descumprimento do acordo é condição para o oferecimento da denúncia”. Sustenta a ocorrência de prejuízo às garantias processuais do Recorrente, em razão da existência de sentença condenatória a macular o procedimento de negociação pré-processual e de não ser mais possível interpor novo recurso de apelação, caso não seja oferecido o acordo. Defende a possibilidade de conhecimento do writ substitutivo de recurso próprio. Requer, em medida liminar, a suspensão da ação penal na origem e dos efeitos da condenação até o julgamento final do presente recurso ordinário. No mérito, pugna pela anulação da sentença penal condenatória (evento 44).
+
+É o relatório. Decido.
+
+Colho a ementa do ato dito coator (evento 39):
+
+“PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT MANEJADO COMO SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. EXAME DE OFÍCIO DO MÉRITO EM HOMENAGEM À AMPLA DEFESA. ACORDO DE NÃO PERSECUÇÃO PENAL (ANPP). RETROATIVIDADE. TESES FIXADAS NO HC N. 185.913/DF (STF) E NO TEMA N. 1.098/STJ. VALIDADE DAS DECISÕES JÁ PROFERIDAS. SUSPENSÃO DA EXEQUIBILIDADE DA CONDENAÇÃO ENQUANTO O MINISTÉRIO PÚBLICO SE MANIFESTA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. MANUTENÇÃO DA DECISÃO AGRAVADA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O habeas corpus não pode ser utilizado como substituto de recurso próprio, consoante o art. 105, II, “a”, e III, da Constituição Federal. Excepcionalmente, é possível a concessão de ordem de ofício diante de flagrante ilegalidade.
+2. O Plenário do Supremo Tribunal Federal, no HC n. 185.913/DF, firmou as teses de que: (i) o ANPP pode ser oferecido em momento posterior, quando a denúncia original for modificada no curso do processo; (ii) em todos os casos, se o Ministério Público deixar de oferecer o ANPP ao acusado, deverá apresentar justificativa dessa decisão; (iii) o julgamento em questão (HC n. 185.913/DF) não afeta, em nenhuma medida, as decisões já proferidas; e (iv) a deliberação sobre o cabimento, ou não, do ANPP deverá ocorrer na instância em que o processo se encontrar.
+3. A Terceira Seção deste Superior Tribunal, no Tema n. 1.098/STJ, consolidou que, em processos em andamento em 18/9/2024, o Ministério Público deve, na primeira oportunidade em que falar nos autos, manifestar-se motivadamente sobre o cabimento do ANPP quando não houver oferta anterior ou justificativa idônea.
+4. No caso, o Tribunal de origem determinou a suspensão da ação penal e a remessa dos autos ao Ministério Público para análise do ANPP, sem anular a sentença, providência que se harmoniza com as teses firmadas, pois a validade das decisões já proferidas não é afetada, devendo permanecer suspensa a exequibilidade da condenação enquanto analisado o cabimento do benefício.
+5. Agravo regimental não provido.”
+
+Inicialmente, ressalto que o acórdão recorrido não diverge da jurisprudência desta Corte no sentido da inviabilidade, como regra, de utilização do writ como sucedâneo recursal ou revisão criminal (HC 233.726-AgR, Rel. Min. Cristiano Zanin, Primeira Turma, DJe 26.02.2024; HC 235.844-AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe 22.02.2024).
+
+Além disso, mesmo que superado o referido óbice, não detecto constrangimento ilegal ou teratologia hábil à concessão da ordem de ofício.
+
+Extraio do voto condutor do acórdão do Superior Tribunal Justiça os seguintes fundamentos que motivaram a denegação da ordem:
+
+“Como é de conhecimento, a Lei n. 13.964/2019, de 24/12/2019, com vigência superveniente a partir de 23/1/2020, conhecida como “Pacote Anticrime”, inseriu no Código de Processo Penal o art. 28-A, que disciplina o instrumento de política criminal denominado acordo de não persecução penal (ANPP), consistente em um negócio jurídico pré-processual entre o Ministério Público e o investigado, juntamente com seu defensor, como alternativa à propositura de ação penal, para certos crimes, mediante o cumprimento de algumas condições e desde que preenchidos os requisitos legais.
+Sobre o tema, como é cediço, o Plenário do Supremo Tribunal Federal, na apreciação do HC n. 185.913/DF, em julgamento realizado em 18/9/2024, sob a relatoria do Ministro Gilmar Mendes, firmou relevante entendimento acerca da matéria, consoante se verifica, a seguir, na tese fixada no referido julgamento (e-STJ fls. 423/424):
+(...)
+No precedente acima mencionado, além da fixação da referida tese, o Plenário do STF estabeleceu importantes diretrizes acerca do benefício despenalizador do art. 28-A, do CPP, com destaque para as seguintes: (i) o ANPP pode ser oferecido em momento posterior, quando a denúncia original for modificada no curso do processo; (ii) em todos os casos, se o Ministério Público deixar de oferecer o ANPP ao acusado, deverá apresentar justificativa dessa decisão; (iii) o julgamento em questão (HC n. 185.913/DF) não afeta, em nenhuma medida, as decisões já proferidas; e (iv) a deliberação sobre o cabimento, ou não, do ANPP deverá ocorrer na instância em que o processo se encontrar.
+Alinhando-se às diretrizes interpretativas firmadas pelo STF, a Terceira Seção deste Superior Tribunal, na apreciação dos recursos especiais representativos da controvérsia (REsp n. 1.890.343/SC e REsp n. 1.890.344/RS), de minha relatoria, sob o rito dos recursos repetitivos (Tema n. 1098), em julgamento realizado em 23/10/2024, fixou a tese de que, "Nos processos penais em andamento em 18/09/2024 (data do julgamento do HC n. 185.913/DF pelo Plenário do Supremo Tribunal Federal), nos quais seria cabível em tese o ANPP, mas ele não chegou a ser oferecido pelo Ministério Público ou não houve justificativa idônea para o seu não oferecimento, o Ministério Público, agindo de ofício, a pedido da defesa ou mediante provocação do magistrado da causa, deverá, na primeira oportunidade em que falar nos autos, manifestar-se motivadamente acerca do cabimento ou não do acordo no caso concreto".
+Na hipótese dos autos, o agravante foi denunciado pela suposta prática da conduta prevista no art. 14 da Lei n. 10.826/2003, sendo a denúncia recebida em 30/8/2018. Após a instrução criminal, o Juízo da Vara Única da Comarca de Martins julgou procedente a ação penal, condenando o acusado às penas de 2 anos de reclusão no regime aberto e pagamento de 10 dias-multa, como incurso nas sanções do art. 14 da Lei n. 10.826/2003, sendo a pena privativa de liberdade substituída por duas restritivas de direito, em sentença proferida em 27/3/2022 (e-STJ fls. 34/38).
+A situação se insere, portanto, na tese acima transcrita pois o processo já estava em andamento quando da entrada em vigor da Lei n. 13.964 de 2019.
+A Corte Local, por sua vez, ao dar parcial provimento à apelação criminal interposta pela defesa, suspendeu a ação penal e determinou a remessa dos autos ao Órgão ministerial para a análise do cabimento do ANPP, assim fundamentando (e-STJ fl. 21):
+In casu, considerando que a sentença condenatória ainda não transitou em julgado, é possível a aplicação retroativa da lei mais benéfica, de modo que os autos devem ser remetidos ao órgão ministerial, para que o Ministério Público averigue o preenchimento dos requisitos legais e decida por oferecer, ou não, o acordo de não persecução penal – ANPP.
+Por outro lado, não merece acolhimento o pleito de declaração de nulidade da sentença.
+Isso porque o referido ato processual foi realizado em observância aos princípios constitucionais da ampla defesa, do contraditório e da motivação das decisões, bem como foram preenchidas as demais formalidades legais.
+O que se verifica, na verdade, é o surgimento superveniente do direito à remessa dos autos ao Ministério Público, para que haja a possibilidade do oferecimento do ANPP, de modo que, embora não se tenha motivos para anular a referida decisão, é cabível a suspensão da presente ação penal para fins de início das tratativas do acordo.
+Portanto, merece acolhimento parcial o pleito defensivo, para que seja suspensa a presente ação penal e remetidos os autos ao órgão ministerial, restando prejudicada a análise dos demais pedidos.
+Dos trechos colacionados não se constata constrangimento ilegal na conclusão adotada pela Corte estadual porquanto encontra amparo na jurisprudência desta Corte no sentido de que a validade das decisões já proferidas não é afetada em nenhuma medida, devendo, no entanto, permanecer a condenação com sua exequibilidade suspensa enquanto analisado o cabimento do benefício processual.
+No ponto:
+(...)
+Inexistente, portanto, o alegado constrangimento ilegal a justificar a concessão da ordem, devendo ser mantida a decisão agravada.
+Ante o exposto, nego provimento ao agravo regimental.”
+
+Assento que, em 18/09/2024, o Plenário desta Corte concluiu o julgamento do HC 185.913, com a fixação da seguinte tese:
+
+“1. Compete ao membro do Ministério Público oficiante, motivadamente e no exercício do seu poder-dever, avaliar o preenchimento dos requisitos para negociação e celebração do ANPP, sem prejuízo do regular exercício dos controles jurisdicional e interno;
+2. É cabível a celebração de Acordo de Não Persecução Penal em casos de processos em andamento quando da entrada em vigência da Lei nº 13.964, de 2019, mesmo se ausente confissão do réu até aquele momento, desde que o pedido tenha sido feito antes do trânsito em julgado;
+3. Nos processos penais em andamento na data da proclamação do resultado deste julgamento, nos quais, em tese, seja cabível a negociação de ANPP, se este ainda não foi oferecido ou não houve motivação para o seu não oferecimento, o Ministério Público, agindo de ofício, a pedido da defesa ou mediante provocação do magistrado da causa, deverá, na primeira oportunidade em que falar nos autos, após a publicação da ata deste julgamento, manifestar-se motivadamente acerca do cabimento ou não do acordo;
+4. Nas investigações ou ações penais iniciadas a partir da proclamação do resultado deste julgamento, a proposição de ANPP pelo Ministério Público, ou a motivação para o seu não oferecimento, devem ser apresentadas antes do recebimento da denúncia, ressalvada a possibilidade de propositura, pelo órgão ministerial, no curso da ação penal, se for o caso”.
+Por fim, o Tribunal definiu que este julgamento não afeta, em nenhuma medida, as decisões já proferidas e, ainda, que a deliberação sobre o cabimento, ou não, do ANPP deverá ocorrer na instância em que o processo se encontrar. Tudo nos termos do voto do Relator. Ausente, por motivo de licença médica, o Ministro Dias Toffoli. Presidência do Ministro Luís Roberto Barroso. Plenário, 18.9.2024.
+
+Nesse contexto, não há ilegalidade a ser sanada nesta via, porquanto este Supremo Tribunal Federal definiu que o julgamento do HC 185.913 não afeta, em nenhuma medida, as decisões já proferidas, tal como no caso ora em exame.
+
+Ademais, “A jurisprudência do Supremo Tribunal Federal é pacífica no sentido de que não haverá declaração de nulidade quando não demonstrado o efetivo prejuízo causado à parte (pas de nullité sans grief) (HC 180.657, Rel. Min. Alexandre de Moraes)” (HC 232.138-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 18.10.2023); “A pacífica jurisprudência desta Corte estabelece que não se declara nulidade processual sem a demonstração de efetivo prejuízo, em conformidade com o princípio ‘pas de nullité sans grief’” (HC 259.685-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 7.10.2025); “No processo penal, o postulado pas de nullité sans grief exige a efetiva demonstração de prejuízo para o reconhecimento de nulidade, o que, no caso, não ocorreu”(HC 190.569-AgR, Rel. Min. Edson Fachin, Segunda Turma, DJe 29.04.2021).
+
+Inexistente, pois, manifesta ilegalidade ou arbitrariedade no ato hostilizado passível de correção na presente via.
+
+Ante o exposto, nego seguimento ao presente recurso ordinário em habeas corpus (art. 21, § 1º, do RISTF).
+
+Publique-se.
+
+Brasília, 14 de janeiro de 2026.
+
+Ministro FLÁVIO DINO
+Relator
+Documento assinado digitalmente
