@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de Habeas Corpus, com pedido de liminar, impetrado em favor de RAFAEL GODOY RAZUK, em que se aponta como ato coator a decisão monocrática de Desembargador do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL que indeferiu o pedido de liminar formulado no HC n. 1421283-16.2025.8.12.0000.
+Consta dos autos que, em decorrência da Operação Successione, na qual são apurados os crimes de organização criminosa, roubo, corrupção passiva e ativa, violação de sigilo funcional, lavagem de dinheiro e contravenção penal de estabelecimento e exploração de jogos azar, bem como de outras infrações correlatas, o paciente teve a prisão preventiva decretada em 4.11.2025, com mandado cumprido em 25.11.2025.
+Sobreveio o oferecimento de denúncia imputando ao paciente a prática dos delitos previstos nos arts. 2º, §§ 2º, 3º e 4º, II, da Lei n. 12.850/2013, 58 do Decreto-Lei n. 3.688/1941 e 1º, §§ 1º, I e II, 2º, I, e 4º da Lei n. 9.613/1998.
+Os impetrantes sustentam que, embora no mandado de prisão conste que o paciente teria cometido os delitos tipificados nos arts. 157, 317 e 333 do Código Penal, não haveria, quer no pedido de decretação da custódia formulado pelo Ministério Público, quer no decreto prisional ou na denúncia posteriormente oferecida, menção a qualquer conduta que indicasse a sua participação nos referidos ilícitos.
+Alegam que o único elemento apontado como caracterizador do crime de integrar organização criminosa seria uma conversa que o paciente teve com o irmão no mês de outubro de 2023. Assim, nesse contexto, defendem que não estariam presentes os requisitos autorizadores da decretação da segregação antecipada, inexistindo, outrossim, contemporaneidade entre os fatos e a medida extrema.
+Argumentam que o paciente não teria sido acusado da prática de crimes violentos, de modo que sua prisão preventiva seria desnecessária e desproporcional.
+Destacam que o paciente seria portador de patologias psiquiátricas, ostentando quadro de saúde que tenderia a se agravar com a manutenção da constrição antecipada, fazendo jus à substituição da prisão por medida cautelar diversa, menos gravosa.
+Ponderam que o paciente seria primário e possuiria bons antecedentes, residência fixa, renda própria e 3 (três) filhos, um dos quais com 9 (nove) anos de idade, que necessitariam de sua presença.
+Requerem, liminarmente e no mérito, a revogação da prisão preventiva do paciente, substituindo-a por medidas alternativas não prisionais, nos termos do art. 319 do Código de Processo Penal.
+É o relatório.
+Decido.
+Constata-se, desde logo, que a pretensão não pode ser acolhida pelo Superior Tribunal de Justiça, pois a matéria não foi examinada pela Corte local, que ainda não julgou o mérito do writ originário.
+Aplica-se à hipótese o enunciado 691 da Súmula do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+Confira-se, a propósito, o seguinte julgado:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. SÚMULA N. 691/STF. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GRAVIDADE CONCRETA. EXPRESSIVA QUANTIDADE DE DROGAS (18 TABLETES, PESANDO 11,3KG DE MACONHA). PRISÃO DOMICILIAR. RÉU PAI DE CRIANÇA MENOR DE 12 ANOS. IMPRESCINDIBILIDADE NÃO DEMONSTRADA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça é assente no sentido de não caber habeas corpus contra decisão que indefere liminar na origem, na esteira da Súmula n. 691 do Supremo Tribunal Federal, aplicável por analogia, salvo no caso de flagrante ilegalidade ou teratologia da decisão impugnada.
+ ..
+8. Ausência de flagrante ilegalidade apta a justificar a superação da Súmula n. 691 do STF.
+9. Agravo regimental desprovido.
+(AgRg no HC n. 914.866/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1º/7/2024, DJe de 3/7/2024; grifos acrescidos)
+No caso, a situação dos autos não justifica a prematura intervenção desta Corte Superior, porquanto a autoridade apontada como coatora fundamentou suficientemente a manutenção da prisão preventiva do paciente, nos seguintes termos (fls. 413-414):
+Trata-se de pedido de concessão de medida liminar formulado às p. 485/497, por meio do qual os impetrantes pleiteiam a substituição da prisão preventiva do paciente por medidas cautelares diversas, ao argumento de que, quando da impetração originária do habeas corpus, não foi formulado pedido liminar em razão da expectativa legítima de que haveria tempo hábil para o julgamento do mérito antes do recesso forense, o que, todavia, não se concretizou.
+Sustentam, em síntese, que não estariam presentes os requisitos autorizadores da custódia cautelar, nos termos dos arts. 312 e 313 do Código de Processo Penal, afirmando, ainda, a ausência de contemporaneidade entre os fatos imputados ao paciente e a decretação da prisão preventiva, circunstância que, segundo defendem, retiraria a atualidade do periculum libertatis, tornando a medida extrema desproporcional e inadequada.
+Diante desse contexto, requereram a concessão da liminar, com o objetivo de revogar a prisão preventiva e substituí-la por medida cautelar menos gravosa, nos moldes do art. 319 do Código de Processo Penal.
+Constata-se que, de fato, não houve pedido liminar na petição inicial do writ, circunstância expressamente reconhecida pelos próprios impetrantes. Todavia, verifica-se que às p. 437/439 já houve a devida análise da legalidade da decisão proferida pelo Juízo de primeiro grau, ocasião em que se concluiu, de forma fundamentada, pela regularidade da custódia cautelar decretada, à luz dos elementos concretos dos autos.
+Registre-se, ainda, que o recesso forense, por si só, não configura fundamento autônomo para a concessão de tutela de urgência em habeas corpus, sobretudo quando não demonstrada a ocorrência de ilegalidade manifesta, abuso de poder ou flagrante desproporcionalidade na manutenção da custódia cautelar, circunstâncias que, conforme já analisado, não se verificam no caso em exame.
+Ademais, observa-se que a marcha processual manteve-se regular, com a prática dos atos necessários à apreciação da impetração, o que afasta qualquer alegação de inércia jurisdicional ou de prejuízo concreto ao paciente.
+Portanto, inexistindo constrangimento ilegal superveniente ou fato novo relevante, bem como não se evidenciando qualquer alteração do quadro fático-jurídico anteriormente apreciado, não há falar em modificação do entendimento já expendido, devendo ser mantido o indeferimento da medida liminar, nos exatos termos anteriormente fundamentados.
+Deve-se, por ora, aguardar o esgotamento da jurisdição do Tribunal de origem.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente Habeas Corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
+ EMENTA
