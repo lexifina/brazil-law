@@ -30,7 +30,7 @@ Impôsto sôbre a Propriedade Territorial Rural
 Seção II
 Impôsto sôbre a Propriedade Predial e Territorial Urbana
 Seção III
-Impôsto sôbre a Transmissão de Bens Imóveis e de Direitos a êles Relativos
+Do Imposto sobre a Transmissão Inter vivos, por Ato Oneroso, de Bens Imóveis e de Direitos a Eles Relativos
 Seção IV
 Impôsto sôbre a Renda e Proventos de Qualquer Natureza
 CAPÍTULO IV
@@ -57,6 +57,7 @@ TÍTULO IV
 Taxas
 TÍTULO V
 Contribuição de Melhoria
+TÍTULO V-A
 DA CONTRIBUIÇÃO PARA O CUSTEIO, A EXPANSÃO E A MELHORIA DO SERVIÇO DE ILUMINAÇÃO PÚBLICA E DE SISTEMAS DE MONITORAMENTO PARA SEGURANÇA E PRESERVAÇÃO DE LOGRADOUROS PÚBLICOS
 TÍTULO VI
 Distribuições de Receitas Tributárias

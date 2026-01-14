@@ -13,6 +13,7 @@ IV - realizar operações de terceiros, com intuito de acobertar seus reais bene
 V - tiver participado, segundo evidências, de organização constituída com o propósito de não recolher tributos ou de burlar os mecanismos de cobrança de débitos fiscais, inclusive por meio de emissão de documentos fiscais que relatem operações fictícias ou cessão de créditos inexistentes ou de terceiros;
 VI - tiver sido constituída, segundo evidências, para a prática de fraude fiscal estruturada, inclusive em proveito de terceiras empresas; ou
 VII - encontrar-se suspensa por no, mínimo, 1 (um) ano.
+VIII - praticar reiteradamente as infrações de que trata o art. 471-D, nos termos do art. 471-E, ambos da Lei Complementar nº 214, de 16 de janeiro de 2025.
 § 1º (Revogado).
 § 2º Para fins do disposto no inciso II do caput deste artigo, a comprovação da origem de recursos provenientes do exterior dar-se-á mediante, cumulativamente:
 I - prova do regular fechamento da operação de câmbio, inclusive com a identificação da instituição financeira no exterior encarregada da remessa dos recursos para o País;
