@@ -1,0 +1,24 @@
+DECISÃO:
+Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+O recurso foi interposto com fundamento na alínea "a" do permissivo constitucional.
+O acórdão recorrido  ficou assim ementado:
+
+JUÍZO DE RETRATAÇÃO. ARTIGOS 1.030, II, 1.039, CAPUT, E 1.040, II, DO CPC (ART. 543-B, § 3º, DO CPC DE 1973). TERCEIRIZAÇÃO DE SERVIÇOS. EMPRESA DE CONCESSIONÁRIA DE ENERGIA ELÉTRICA. LABOR EM ATIVIDADE-FIM. LICITUDE. Os autos retornam para juízo de retratação, com fundamento nos artigos 1.030, II, 1.039, caput, e 1.040, II, do CPC (art. 543-B, § 3º, do CPC de 1973), ante a decisão do Supremo Tribunal Federal na ADC 26/DF e no Recurso Extraordinário nº 958.252, com repercussão geral.
+AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA DA RECLAMADA EMPRESA TOMADORA DE SERVIÇOS. TERCEIRIZAÇÃO DE SERVIÇOS. EMPRESA CONCESSIONÁRIA DE ENERGIA ELÉTRICA. LABOR EM ATIVIDADE-FIM. LICITUDE. Agravo de instrumento provido ante possível violação do art. 25, § 1º, da Lei 8.987/95.
+RECURSO DE REVISTA DA RECLAMADA EMPRESA TOMADORA DE SERVIÇOS. EMPRESA CONCESSIONÁRIA DE ENERGIA ELÉTRICA. LABOR EM ATIVIDADE-FIM. LICITUDE. POSSIBILIDADE APENAS DE CONDENAÇÃO SUBSIDIÁRIA. DECISÃO DO STF NA ADC 26/DF. O Supremo Tribunal Federal, ao apreciar a Ação Declaratória de Constitucionalidade nº 26 do Distrito Federal decidiu pela constitucionalidade do art. 25, § 1º, da Lei 8.987/95. E, na apreciação do Recurso Extraordinário (RE) nº 958.252, com repercussão geral reconhecida, decidiu pela licitude da terceirização em todas as etapas do processo produtivo. Naquele recurso, o STF firmou tese de repercussão geral, com efeito vinculante, no sentido de que “é lícita a terceirização ou qualquer outra forma de divisão do trabalho entre pessoas jurídicas distintas, independentemente do objeto social das empresas envolvidas, mantida a responsabilidade subsidiária da empresa contratante”. No julgamento do ARE 791.932/DF, ocorrido em 11/10/2018 e transitado em julgado em 14/03/2019, representativo da controvérsia e com repercussão geral (Tema 739), o Supremo Tribunal Federal firmou tese jurídica vinculante, na qual ficou redigida que “é nula a decisão de órgão fracionário que se recusa a aplicar o art. 94, II, da Lei 9.472/97, sem observar a cláusula de reserva de Plenário (CF, art. 97), observado o artigo 949 do CPC”. Não há alusão no acórdão regional acerca da efetiva existência de pessoalidade e subordinação jurídica com a tomadora de serviços, à luz do entendimento do STF e do art. 25, § 1º, da Lei 8.987/95, e, portanto, não há falar em fraude à terceirização. Afastada a ilicitude da terceirização de serviços, é possível manter a condenação subsidiária pelos créditos deferidos na ação, se existir pedido exordial para a condenação solidária ou subsidiária. No caso concreto dos autos, há pedido de condenação solidária das rés, o que autoriza a condenação na espécie. Recurso de revista conhecido e parcialmente provido.
+
+No recurso extraordinário sustenta-se violação do(s) art.(s) 7º, incisos XXX e XXXII; 37, caput e inciso II; e 173 da Constituição Federal.
+Decido.
+Analisados os autos, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente e reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário, nos termos da Súmula 279/STF. Sobre o tema, a propósito:
+
+“Agravo regimental no recurso extraordinário com agravo. Direito do Trabalho. Vínculo de emprego. Caracterização. Fatos e provas. Reexame. Impossibilidade. Legislação infraconstitucional. Ofensa reflexa. Precedentes. 1. Inadmissível, em recurso extraordinário, o reexame dos fatos e das provas dos autos (Súmula nº 279/STF), bem como da legislação infraconstitucional. 2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC)” (ARE nº 1.219.118/CE - ED-AgR, Tribunal Pleno, Rel. Min. Dias Toffoli, DJe de 28/10/2019).
+
+“Agravo regimental em recurso extraordinário com agravo. 2. Direito do Trabalho. 3. Reconhecimento de relação de emprego e fixação de salário com base no art. 460 da CLT. 4. Controvérsia decidida à luz da legislação infraconstitucional e do conjunto fático-probatório dos autos. Súmula 279 do Supremo Tribunal Federal. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento” (ARE nº 1.078.406/RS-AgR, Segunda Turma, Rel. Min. Gilmar Mendes, DJe de 27/03/2018).
+
+Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 16 de janeiro de 2026.
+
+Ministro EDSON FACHIN
+Presidente
+Documento assinado digitalmente
