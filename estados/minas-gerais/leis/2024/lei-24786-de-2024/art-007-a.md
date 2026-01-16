@@ -1,0 +1,1 @@
+Art. 7º-A - Fica garantido à pessoa com TEA com necessidades específicas de alimentação o acesso a estabelecimentos públicos e privados de uso público, bem como a sua permanência nesses estabelecimentos, portando alimentos para consumo próprio e utensílios para sua alimentação, na forma de regulamento.
