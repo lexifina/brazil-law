@@ -1,0 +1,37 @@
+DECISÃO
+
+Trata-se de Pedido de Suspensão de Liminar proposto pelo Município de Guarulhos em face de decisão proferida na Ação Civil Pública 1038239-44.2015.8.26.0224, em trâmite perante a 1ª Vara da Fazenda Pública de Guarulhos.
+Informa o Município requerente que “a decisão liminar proferida na ação civil pública de origem determinou a demolição imediata de mais de 140 famílias em situação de vulnerabilidade social, encontrando-se atos executórios já iniciados, com mobilização de equipes, maquinário e apoio de força pública”.
+Sustenta que “a decisão judicial que determina a remoção forçada e demolição imediata de moradias ocupadas por populações vulneráveis, sem prévio reassentamento, sem medidas de mitigação social e sem atuação interinstitucional coordenada, configura violação direta e atual a direitos humanos de aplicação imediata, bem como a direitos fundamentais expressamente protegidos pela Constituição da República.”
+Assevera o Município que “No presente caso, a demolição imediata de mais de 140 edificações: • não assegura recuperação ambiental imediata; • cria risco concreto de degradação ambiental secundária; • inviabiliza planejamento técnico e atuação interinstitucional; • compromete a construção de solução ambientalmente mais eficiente”.
+Pede ao final “b) a IMEDIATA APRECIAÇÃO DO PEDIDO DE SUSPENSÃO DE LIMINAR, nos termos do art. 4º da Lei nº 8.437/92; c) a suspensão imediata dos efeitos da decisão liminar proferida na ação civil pública de origem; d) a determinação de paralisação imediata de quaisquer atos executórios ou demolições em curso ou iminentes, até decisão final do pedido de suspensão; e) a expedição de comunicações urgentes às autoridades envolvidas, por meio eletrônico ou institucional, dada a gravidade do caso.”.
+Tendo em vista não terem sido juntados documentos, determinei a intimação do Município para instruir adequadamente o Pedido em 24 horas, sob pena de extinção.
+O Município de Guarulhos anexou documentos.
+É o relatório.
+O presente Pedido ampara-se no art. 4º da Lei 8.437/1992:
+
+“Art. 4° Compete ao presidente do tribunal, ao qual couber o conhecimento do respectivo recurso, suspender, em despacho fundamentado, a execução da liminar nas ações movidas contra o Poder Público ou seus agentes, a requerimento do Ministério Público ou da pessoa jurídica de direito público interessada, em caso de manifesto interesse público ou de flagrante ilegitimidade, e para evitar grave lesão à ordem, à saúde, à segurança e à economia públicas.”
+
+A documentação juntada aos autos revela que foi deferida antecipação de tutela na Ação Civil Pública 1038239-44.2015.8.26.0224, nos seguintes termos:
+
+“O Juízo deferiu o pedido de tutela antecipada para determinar que os requeridos se abstivessem de realizar o parcelamento do imóvel descrito na petição inicial e de publicarem por todos os meios e mesmo que por interpostas pessoas ofertas de lotes do imóvel e retirar qualquer oferta que estivesse disponível para o público, paralisasse qualquer atividade de movimentação de terra ou supressão de vegetação e deveriam os requeridos apresentar relação de todas as alienações de lotes realizadas; providenciassem a colocação de placas na área informando que é vedado o seu parcelamento e proibida a alienação de lotes em razão desta decisão; os réus deverão zelar pela manutenção das placas; o descumprimento de quaisquer das obrigações sujeitam à multa de R$ 5.000,00 por dia, sem prejuízo de indenização ao autor, quando cabível. Determinou ainda que se oficiasse à Fundação para a Conservação e a Produção Florestal para que fiscalizasse as atividades na área e realizassem relatório para constatação do atual estado da área, devendo, ainda, zelar para que não ocorresse novos parcelamentos, movimentações de terra ou supressão de vegetação e para que as placas acima referidas não fossem retiradas; que se oficie-se à CFA para que realizasse fiscalização periódica na área, comunicando-se a este Juízo caso constatasse alguma infração ambiental; revogou a inspeção judicial antes determinada, reservada a possibilidade de perícia na fase de instrução (página(s) 834/835).”
+
+Posteriormente, foi ampliada a concessão da liminar:
+
+“O Juízo acolheu o pedido de defiro a tutela liminar para determinar a desocupação e o desfazimento de quaisquer construções realizadas no Parque Estadual de Itaberaba desde a edição do Decreto Estadual n.º 55.662, de 30 de março de 2010 (posteriores às sete pequenas construções identificadas na figura 4 de página 1772), fixando o prazo de 30 dias para a desocupação voluntária; determinou a expedição de mandado para que o oficial de Justiça compareça ao local, acompanhado de preposto da parte autora, e intime aqueles que encontrar da decisão; a expedição do edital para o conhecimento dos demais ocupantes porventura não encontrados, com prazo de 30 dias. Decorrido os prazos, autorizo o Estado, nos termos do art. 249 do Código Civil e 536,§ 1°, do Código de Processo Civil, a prover a desocupação e o desfazimento das obras por seus prepostos. Para tanto, deverá ser informada a data para o cumprimento da diligência pelo Estado com antecedência de 10 dias nestes autos, expedindo-se imediatamente mandado para acompanhamento da diligência por dois oficiais de justiça e requisitado o concurso da Força Pública, autorizado o arrombamento das construções fechadas, conforme art. 536, § 2°, do CPC, devendo, os oficiais, observarem o disposto no art. 846 do mesmo Código”.
+
+Documento da Procuradoria-Geral do Estado, endereçado ao Juízo prolator da decisão, indica que a desocupação deverá ocorrer na segunda quinzena deste mês de janeiro.
+Todos estes elementos amparam a afirmação do requerente, de que se revela iminente a remoção de famílias carentes das áreas indicadas nas decisões.
+Consta ainda dos autos Relatório da Secretaria de Desenvolvimento Social do Município de Guarulhos, demonstrando que, apesar de a situação estar sendo monitorada há quase 10 anos, a iminente remoção de número expressivo de famílias carentes não poderá ser suportada pela rede de acolhimento institucional da municipalidade.
+Esse quadro indica a possibilidade de expressiva lesão à ordem pública e social, seja pela perda de moradia de pessoas carentes, seja pelos inevitáveis transtornos por que passará o Município, diante do porte dessa desocupação.
+Considerando a plausibilidade do direito alegado, reconhecido pelo PLENÁRIO desta SUPREMA CORTE em importantes precedentes (ADPF 828 TPI-segunda Ref, Rel. Min ROBERTO BARROSO, DJ de 26/5/2022; ADPF 976 MC-Ref, Rel. Min ALEXANDRE DE MORAES, DJ de 21/9/2023), mostram-se presentes os requisitos necessários para o efeito suspensivo liminar de que trata o  § 7º do art. 4º da Lei 8.437/1992.
+Por todo o exposto, DEFIRO A LIMINAR, para suspender as decisões que concederam a antecipação da tutela na Ação Civil Pública 1038239-44.2015.8.26.0224.
+Comunique-se COM URGÊNCIA ao Tribunal de Justiça do Estado de São Paulo, que deverá dar ciência da presente decisão ao Juízo prolator da decisão.
+Solicitem-se informações ao Juízo da 1ª Vara da Fazenda Pública de Guarulhos, que as deverá prestar em 5 (cinco) dias.
+Após, concedo o prazo legal para manifestação do ESTADO DE SÃO PAULO e da Procuradoria-Geral da República, sucessivamente.
+Publique-se.
+Brasília, 16 de janeiro de 2026.
+
+Ministro ALEXANDRE DE MORAES
+Vice-Presidente no exercício da Presidência
+Documento assinado digitalmente
