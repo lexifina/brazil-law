@@ -1,0 +1,1 @@
+Art. 31-A - A totalidade dos membros do Ministério Público junto ao Tribunal compõe o Colégio de Procuradores, órgão administrativo e deliberativo máximo, presidido pelo Procurador-Geral e regulamentado por ato normativo próprio.

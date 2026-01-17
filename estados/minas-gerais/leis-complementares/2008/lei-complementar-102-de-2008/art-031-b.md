@@ -1,0 +1,2 @@
+Art. 31-B - A Corregedoria do Ministério Público junto ao Tribunal é o órgão orientador e fiscalizador das atividades funcionais e da conduta dos Procuradores e será regulamentada por ato normativo do Colégio de Procuradores, observado o disposto no art. 30 desta lei complementar.
+Parágrafo único - O Corregedor do Ministério Público junto ao Tribunal será eleito pelo Colégio de Procuradores e nomeado pelo Procurador-Geral, para mandato de dois anos, permitida uma recondução.
