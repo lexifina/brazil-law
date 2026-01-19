@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de Habeas Corpus com pedido de liminar impetrado em favor de JOAO VICTOR DA SILVA FEITOSA, no qual se aponta como ato coator decisão de inadmissibilidade de recurso interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO.
+Consta dos autos que o paciente foi condenado a 8 (oito) anos e 9 (nove) meses de reclusão no regime inicial fechado e ao pagamento de 875 (oitocentos e setenta e cinco) dias-multa, como incurso no art. 33, caput, da Lei n. 11.343/2006.
+A impetrante sustenta que o presente writ seria cabível diante de teratologia na decisão monocrática do Vice-Presidente do Tribunal de origem que, em 7/1/2026, teria negado seguimento e inadmitido o recurso especial interposto, criando óbice formal indevido e cerceando o acesso do paciente ao Superior Tribunal de Justiça.
+Afirma que seria inaplicável a Súmula 126/STJ ao caso, pois a controvérsia versaria sobre matéria infraconstitucional  nulidade de provas por violação aos arts. 157 e 244 do Código de Processo Penal  não havendo fundamento constitucional autônomo apto a impedir o exame do Recurso Especial pela Corte Superior.
+Argumenta que também não subsistiria o óbice da Súmula 83/STJ quanto ao art. 157 do CPP, porque o acórdão estadual teria validado invasão domiciliar amparada em denúncias anônimas e no nervosismo de terceira, sem demonstração de consentimento voluntário e sem elementos objetivos de fundada suspeita, em dissonância da jurisprudência desta Corte.
+Expõe que as buscas pessoal e domiciliar seriam ilícitas, por ausência de fundadas razões e de autorização para ingresso na residência, o que contaminaria a prova por derivação, impondo-se o reconhecimento da ilicitude dos elementos colhidos e o restabelecimento da sentença absolutória proferida em primeiro grau, nos termos do art. 386, II, do CPP.
+Ressalta que a dosimetria da pena teria violado o art. 42 da Lei n. 11.343/2006, ao exasperar a pena-base em 50% com fundamento na natureza e na quantidade de aproximadamente 150 g de cocaína, sem demonstração concreta de maior desvalor da conduta, razão pela qual a reprimenda deveria ser redimensionada, com neutralização da circunstância judicial e redução ao patamar mínimo legal.
+Requer, liminarmente, a suspensão dos efeitos do acórdão condenatório proferido na Apelação Criminal n. 0015133-65.2019.8.10.0001 até julgamento final do writ e, no mérito, a concessão da ordem para que sejam declaradas ilícitas as provas obtidas, com o restabelecimento da sentença absolutória. Subsidiariamente, pugna pela readequação da dosimetria da pena, com redução da pena-base ao mínimo legal.
+É o relatório.
+Decido.
+O writ não merece prosseguir.
+É imperiosa a necessidade de racionalização do emprego dos Habeas Corpus, em prestígio ao âmbito de cognição da garantia constitucional e em observância à lógica do sistema recursal.
+O presente Habeas Corpus foi impetrado para contornar o atendimento dos requisitos de admissibilidade de recurso especial/recurso extraordinário interposto na origem, o que não se admite. Nesse sentido:
+CONSTITUCIONAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. AGRAVO EM RECURSO EXTRAORDINÁRIO. REMESSA AO SUPREMO TRIBUNAL FEDERAL. INCOMPETÊNCIA. INADEQUAÇÃO DA VIA ELEITA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se presta o habeas corpus para superar óbices verificados no exercício do juízo de admissibilidade de recurso especial ou extraordinário.
+2. Ademais, não obstante o ato da autoridade apontada como coatora, ratione personae, esteja sujeito à jurisdição deste Superior Tribunal de Justiça, pretende a agravante providência que se refere a recurso destinado ao Supremo Tribunal Federal, refugindo, pois, a competência desta Corte para o exame do tema.
+3. Agravo regimental desprovido. (AgRg no HC n. 720.926/GO, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 22/8/2022.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DIREITO DE LOCOMOÇÃO. INEXISTÊNCIA. CONTROVÉRSIA ATINENTE A TEMPESTIVIDADE RECURSAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O habeas corpus, em especial o coletivo, não é "meio hábil para discutir questões alheias à liberdade de locomoção, tais como tempestividade ou ausência dos pressupostos de admissibilidade recursal de outro tribunal. Precedentes" (STF, HC n. 202.958 AgR, Rel. Ricardo Lewandowski, 2ª T., DJe 6/8/2021).
+2. A discussão sobre eventual intempestividade de agravo em execução interposto pelo Ministério Público não traz reflexos, ainda que indiretos, ao direito de ir e vir dos pacientes, uma vez que, a teor do art. 197 do CPP, o recurso não é dotado de efeito suspensivo.
+3. Agravo regimental não provido. (AgRg no HC n. 742.495/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 23/8/2022.)
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. SUBSTITUTIVO DE AGRAVO EM RECURSO EXTRAORDINÁRIO E ESPECIAL. IMPOSSIBILIDADE DE ANÁLISE. DESCABIMENTO DO MANDAMUS. AGRAVO REGIMENTAL DESPROVIDO.
+1. "O manejo, portanto, de habeas corpus com o desiderato único e exclusivo de (re)discutir os pressupostos de admissibilidade dos recursos ditos extraordinários não encontra guarida na legislação de regência, tampouco o é autorizado pela jurisprudência, tanto desta Corte quanto do Supremo Tribunal Federal. A parte deveria ter se valido do recurso de agravo, meio idôneo para tal mister, consoante previa o art. 544 do CPC/1973 (AgRg no HC n. 438.020/RN, Sexta Turma, Ministro Antonio Saldanha Palheiro, DJe 9/4/2018)" (AgRg no HC n. 449.748/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 22/6/2018).
+2. Agravo regimental desprovido. (AgRg nos EDcl no HC n. 757.850/PB, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 16/8/2022.)
+Posto isso, com fundamento nos arts. 34, XX, e 210 do Regimento Interno desta Corte, indefiro liminarmente este Habeas Corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
