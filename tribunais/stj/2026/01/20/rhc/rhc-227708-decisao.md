@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por RODRIGO BRAGA DA SILVA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA no julgamento do habeas corpus criminal n. 0806312-91.2025.8.15.0000.
+Extrai-se dos autos que o TJPB julgou prejudicado o writ, uma vez que foi proferida sentença condenatória em desfavor do recorrente, a qual afastou as alegações formuladas e ainda denegou o direito de apelar em liberdade, em acórdão a seguir ementado:
+"HABEAS CORPUS. CRIME DE TRÁFICO DE DROGAS. ALEGADA AUSÊNCIA DE FUNDAMENTAÇÃO DA PRISÃO PREVENTIVA. SENTENÇA CONDENATÓRIA PROFERIDA. MANUTENÇÃO DA SEGREGAÇÃO CAUTELAR POR OUTROS FUNDAMENTOS. ORDEM PREJUDICADA. A prolação de sentença condenatória, com a manutenção da segregação provisória do paciente por outros fundamentos, caracteriza a perda superveniente do objeto do presente habeas corpus, cujo pedido se consubstancia na alegação de ausência dos requisitos da prisão preventiva. Assim, deve-se considerar prejudicada a ordem." (fl. 195)
+No presente recurso o recorrente pleiteia, em suma, a) o reconhecimento da atipicidade da conduta, com o consequente trancamento da ação penal; b) subsidiariamente, a revogação da prisão preventiva, visto que não subsistem motivos para o segregamento cautelar, uma vez que ausentes os requisitos para a decretação da preventiva; c) ainda que se entendam presentes os requisitos previstos no art. 312 do CPP, seria possível a substituição da prisão por medidas cautelares diversas.
+Parecer do MPF opinando pelo não conhecimento do recurso às fls. 310/315.
+É o relatório.
+Decido.
+Em consulta ao Portal do Judiciário (www.jus.br), verifica-se que, em 30/9/2025, foi prolatado acórdão no âmbito do recurso de apelação interposto pelo recorrente, tendo sido mantida a condenação do recorrente, com apenas redimensionamento da pena.
+Assim, uma vez prolatado Acórdão, emergiu fato superveniente que fez superar a relação anterior, sob a qual se discutia todas as matérias aventadas no habeas corpus que originou o presente recurso. Nesse contexto, verifica-se a perda superveniente de objeto do presente recurso. Confiram-se:
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS.
+SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. PERDA DE OBJETO. RECURSO PREJUDICADO. I. CASO EM EXAME 1. Habeas corpus interposto contra prisão preventiva da paciente, que foi condenada à pena de 5 anos e 10 meses de reclusão, em regime fechado, e ao pagamento de 583 dias-multa, pela prática do crime descrito no art. 33, caput, da Lei n. 11.343/2006. O Tribunal de origem negou à ré o direito de recorrer em liberdade, considerando o quantum da pena e o regime inicial de cumprimento. II. QUESTÃO EM DISCUSSÃO 2. A questão em discussão consiste em verificar se a superveniência de sentença condenatória torna prejudicado o recurso que visava impugnar a prisão preventiva da ré. III. RAZÕES DE DECIDIR 3. A superveniência de sentença condenatória altera substancialmente o contexto jurídico da impetração, prejudicando o objeto do recurso, que originalmente questionava a legalidade da prisão preventiva.
+4. A condenação com decisão proferida pelo Juízo de primeiro grau, conforme o art. 387, § 1º, do Código de Processo Penal, constitui novo título judicial, que desafia impugnação própria, impedindo o prosseguimento do habeas corpus em razão da perda de objeto.
+5. A interposição de recurso de apelação, ainda pendente de julgamento, permite a análise ampla e exauriente das questões relativas à condenação, devendo ser respeitado o efeito devolutivo dessa via recursal.
+IV. HABEAS CORPUS PREJUDICADO.
+(HC n. 860.922/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 15/10/2024, DJe de 12/11/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS. PRISAO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA.
+COGNIÇÃO PROFUNDA E EXAURIENTE DA INSURGÊNCIA. NOVO TÍTULO. TESE PREJUDICADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. "Sobrevindo decisão condenatória, o pedido em que se busca a revogação da prisão preventiva anteriormente decretada ou a substituição por outras medidas cautelares está prejudicado, pois, consoante iterativa jurisprudência do Superior Tribunal de Justiça, a superveniência de sentença condenatória recorrível constitui novo título a justificar a custódia cautelar, devendo os seus fundamentos ser submetidos à análise do Tribunal de origem antes de serem aqui apreciados, vedada a supressão de instância" (AgRg no RHC n. 158.359/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 25/4/2022).
+2. Ademais, exame dos excertos contidos na sentença condenatória e no decreto de prisão preventiva, evidencia que o disposto no art. 387, § 1º, do Código de Processo Penal foi devidamente observado, pois foram indicados fundamentos concretos para a manutenção da prisão cautelar anteriormente imposta ao agente - maus antecedentes e duas condenações anteriores pelo crime de roubo. Precedentes.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 865.095/SP, relator Ministro Antonio Saldanha Palheiro, Sexta T urma, julgado em 4/11/2024, DJe de 6/11/2024.)
+Pelo exposto, com fundamento no art. 34, XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o recurso em habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
