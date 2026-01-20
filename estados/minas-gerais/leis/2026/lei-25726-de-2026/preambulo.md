@@ -1,0 +1,2 @@
+# Dispõe sobre a reserva de vagas para pessoas negras no provimento de cargos efetivos e empregos públicos no âmbito da administração pública estadual, das autarquias, fundações públicas, empresas públicas e sociedades de economia mista controladas pelo Estado e dos Poderes Legislativo e Judiciário do Estado.
+O povo do Estado de Minas Gerais, por seus representantes, aprovou, e eu, em seu nome, nos termos do § 8º do art. 70 da Constituição do Estado de Minas Gerais, promulgo a seguinte lei:
