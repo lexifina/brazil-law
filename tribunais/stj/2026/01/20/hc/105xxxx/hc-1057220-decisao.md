@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de THIAGO KUMAGAI RODRIGUES OLIVEIRA (ou TIAGO KUMAGAI RODRIGUES OLIVEIRA), no qual se menciona o descumprimento da decisão por mim proferida no julgamento do HC 1.011.774.
+Para tanto, a defesa alega:
+"De igual modo, importante frisar que, consta na decisão, in verbis:
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente, mas concedo a habeas corpus ordem, de ofício, para que o Juízo da Execução Penal análise no prazo de 30 dias o pleito de progressão de regime formulado pela defesa, sem a necessidade de realização do exame criminológico, nada impedindo que use o referido exame desde que já tenha sido elaborado. (grifo nosso)
+Ocorre que, a decisão que negou o benefício ao Paciente, considerou o exame criminológico realizado (docs.07/10).
+Veja, Excelência, esta Corte, constou ser possível a utilização do exame, desde que, o mesmo já tivesse sido realizado, quando proferido o acórdão.
+No presente caso, consta que o relatório psicológico foi realizado no dia 05 de setembro de 2.025 (doc.09). Enquanto, o relatório final foi realizado no dia 11 de setembro de 2.025 (doc.10).
+Ou seja, Excelências, diferentemente do apontado em acórdão, os relatórios não foram elaborados antes da decisão proferida por Vossa Excelência, de modo que, não pode ser considerado para fins da análise do benefício.
+Neste sentido, importante salientar que restou anexo aos autos o acórdão no dia 22 de agosto de 2.025, porém, a decisão negativa quanto ao benefício restou proferida no dia 12 de setembro de 2.025.
+Isto posto, em considerando os excessos da r. decisão, requer seja ela reformada, sendo determinada a análise da progressão do Paciente, pelo Magistrado a quo, haja visto a clara ilegalidade e desrespeito a ordem proferida por este Ministro." (fls. 4/5)
+O Ministério Público Federal opinou pelo não conhecimento do writ ou pela denegação da ordem, em parecer de fls. 57/59.
+É o relatório.
+Decido.
+A irresignação não alcança melhor sorte.
+Por oportuno, confira-se o que dispõe a Constituição Federal acerca da competência originária deste Tribunal Superior:
+"Art. 105. Compete ao Superior Tribunal de Justiça:
+I - processar e julgar, originariamente:
+a) nos crimes comuns, os Governadores dos Estados e do Distrito Federal, e, nestes e nos de responsabilidade, os desembargadores dos Tribunais de Justiça dos Estados e do Distrito Federal, os membros dos Tribunais de Contas dos Estados e do Distrito Federal, os dos Tribunais Regionais Federais, dos Tribunais Regionais Eleitorais e do Trabalho, os membros dos Conselhos ou Tribunais de Contas dos Municípios e os do Ministério Público da União que oficiem perante tribunais;
+b) os mandados de segurança e os habeas data contra ato de Ministro de Estado, dos Comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal;
+c) os habeas corpus, quando o coator ou paciente for qualquer das pessoas mencionadas na alínea a, ou quando o coator for tribunal sujeito à sua jurisdição, Ministro de Estado ou Comandante da Marinha, do Exército ou da Aeronáutica, ressalvada a competência da Justiça Eleitoral;
+d) os conflitos de competência entre quaisquer tribunais, ressalvado o disposto no art. 102, I, "o", bem como entre tribunal e juízes a ele não vinculados e entre juízes vinculados a tribunais diversos;
+e) as revisões criminais e as ações rescisórias de seus julgados;
+f) a reclamação para a preservação de sua competência e garantia da autoridade de suas decisões;
+g) os conflitos de atribuições entre autoridades administrativas e judiciárias da União, ou entre autoridades judiciárias de um Estado e administrativas de outro ou do Distrito Federal, ou entre as deste e da União;
+h) o mandado de injunção, quando a elaboração da norma regulamentadora for atribuição de órgão, entidade ou autoridade federal, da administração direta ou indireta, excetuados os casos de competência do Supremo Tribunal Federal e dos órgãos da Justiça Militar, da Justiça Eleitoral, da Justiça do Trabalho e da Justiça Federal;
+i) a homologação de sentenças estrangeiras e a concessão de exequatur às cartas rogatórias;
+j) os conflitos entre entes federativos, ou entre estes e o Comitê Gestor do Imposto sobre Bens e Serviços, relacionados aos tributos previstos nos arts. 156-A e 195, V;
+II - julgar, em recurso ordinário:
+a) os habeas corpus decididos em única ou última instância pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios, quando a decisão for denegatória;
+b) os mandados de segurança decididos em única instância pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios, quando denegatória a decisão;
+c) as causas em que forem partes Estado estrangeiro ou organismo internacional, de um lado, e, do outro, Município ou pessoa residente ou domiciliada no País;
+III - julgar, em recurso especial, as causas decididas, em única ou última instância, pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios, quando a decisão recorrida:
+a) contrariar tratado ou lei federal, ou negar-lhes vigência;
+b) julgar válido ato de governo local contestado em face de lei federal;
+c) der a lei federal interpretação divergente da que lhe haja atribuído outro tribunal."
+Como visto, o presente mandamus é manifestamente incabível, pois a Constituição Federal prevê o uso da reclamação para garantir a autoridade das decisões desta Corte, conforme preconiza o art. 105, I, "f".
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
