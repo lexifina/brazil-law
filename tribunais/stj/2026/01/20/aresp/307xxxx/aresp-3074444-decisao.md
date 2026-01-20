@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de Agravo apresentado pela UNIÃO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO, assim resumido:
+ADMINISTRATIVO. PRESCRIÇÃO. TRATO SUCESSIVO. FAZENDA PÚBLICA. QUINQUENIO ANTERIOR A PROPOSITURA DA AÇÃO. REVISÃO GERAL DA REMUNERAÇÃO DOS SERVIDORES. LEI 8.880/1994. ÍNDICE DE 3,17% DEVIDOS. PROVIMENTO.
+Quanto à controvérsia, a parte recorrente violação ao art. 485, VI, do CPC, no que concerne à necessidade de reconhecimento da ilegitimidade passiva ad causam, em razão de a demanda versar sobre empregados celetistas vinculados à empresa pública EBCT, que possuam personalidade jurídica própria e autonomia financeira, trazendo a seguinte argumentação:
+No caso, verifica-se que houve violação ao art. 485, VI do CPC/2015 (art. 267, VI do CPC73), uma vez que a União, claramente, não possui legitimidade para figurar no polo passivo da presente demanda.
+Cumpre registrar que tal argumento foi levantado Por este Ente Público em sede de embargos de declaração, o que foi rejeitado expressamente e de forma equívoca pelo Tribunal no acórdão de 8.1451148. (fl. 186)
+
+Nesse contexto, relevante esclarecer que o EBCT - Empresa Brasileira de Correios e Telégrafos possui natureza jurídica de empresa pública, com personalidade Jurídica própria, autonomia financeira e orçamentária.
+Desta feita, caberia à parte autora ajuizar a demanda vertente tão somente em face da citada empresa pública.
+A associação autora representa EMPREGADOS CELETISTAS aposentados e pensionistas vinculados àquela entidade. que pretendem obter pagamento de diferença salarial (3.17%) de sorte que somente a mesma figura como sua unidade pagadora direta. (fl. 187)
+É o relatório.
+Decido.
+Quanto à controvérsia, incide a Súmula n. 211/STJ, porquanto a questão não foi examinada pela Corte de origem, a despeito da oposição de Embargos de Declaração. Assim, ausente o requisito do prequestionamento.
+Nesse sentido: "A ausência de enfrentamento da questão objeto da controvérsia pelo Tribunal a quo, não obstante oposição de embargos declaratórios, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula n. 211/STJ" (AgInt nos EDcl no REsp n. 1.738.596/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, ;DJEN de 26/3/2025).
+Na mesma linha: "A alegada violação ao art. 489, § 1º, I, II, III e IV, do CPC não foi examinada pelo Tribunal de origem, nada obstante a oposição de embargos de declaração. Logo, incide a Súmula n. 211/STJ, porquanto ausente o indispensável prequestionamento" (AgInt no AREsp n. 2.100.337/MG, relator Ministro Sérgio Kukina, Primeira Turma, DJEN de 21/3/2025).
+Confiram-se ainda os seguintes julgados: EDcl nos EDcl no AgRg no AREsp n. 2.545.573/ES, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 25/3/2025; AgRg no AREsp n. 2.466.924/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJEN de 26/3/2025; AREsp n. 2.832.933/GO, relator Ministro Moura Ribeiro, Terceira Turma, DJEN de 21/3/2025; AREsp n. 2.802.139/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, DJEN de 27/3/2025; AREsp n. 1.354.597/PR, relator Ministro Humberto Martins, Terceira Turma, DJEN de 20/3/2025; REsp n. 2.073.535/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 20/3/2025; AgInt no AREsp n. 2.623.773/GO, relator Ministro Teodoro Silva Santos, Segunda Turma, DJEN de 18/3/2025; AgInt no AREsp n. 2.243.277/SP, relator Ministro Marco Aurélio Bellizze, Segunda Turma, DJEN de 19/3/2025; AgRg no REsp n. 2.100.417/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 10/3/2025; AgInt nos EDcl no AREsp n. 2.569.581/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJEN de 28/2/2025; AgInt no AREsp n. 2.503.989/MG, relator Ministro Raul Araújo, Quarta Turma, DJEN de 27/2/2025.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
