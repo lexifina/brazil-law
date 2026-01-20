@@ -1,0 +1,6 @@
+DECISÃO
+Observa-se que o objeto do presente feito se alinha, estritamente, à discussão pendente de deliberação por esta corte no Tema Repetitivo 1250, no qual se debate "Definir se é devida a condenação em honorários advocatícios sucumbenciais - em caso de acolhimento do incidente de impugnação ao crédito - nas ações de recuperação judicial e de falência."
+Em tais feitos, deliberou-se, por ocasião da análise da afetação, "determinação de suspensão do processamento de todos os processos individuais ou coletivos que versem sobre a mesma matéria, nos quais tenha havido a interposição de recurso especial ou de agravo em recurso especial na segunda instância, ou que estejam em tramitação no STJ, respeitada, no último caso, a orientação prevista no art. 256-L do RISTJ."
+Observe-se que, por ocasião da deliberação da Tese, poder-se-á, se o caso, tratar da base de cálculo e da aplicabilidade do comando do Tema 1076 do STJ ao caso.
+Diante disso, determino a devolução dos autos à origem para que, na forma do art. 1.040 do CPC c/c art. 256-L, I do RISTJ, aguarde o julgamento definitivo do Tema Repetitivo 1250 e, ao fim, promova juízo de adequação à tese eventualmente firmada.
+EMENTA
