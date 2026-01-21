@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de Habeas Corpus com pedido de liminar impetrado em favor de ADEMIR CELESTINO DE MATOS, em que se aponta como ato coator a decisão monocrática de Desembargador do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS que indeferiu o pedido de liminar formulado no HC n. 1.0000.26.000785-1/000.
+Consta dos autos que, em 18.12.2025, o paciente foi preso preventivamente pela suposta prática do delito previsto no art. 157, § 2º-B, do Código Penal, decisão fundamentada na salvaguarda da ordem pública.
+Informações prestadas pelo Juízo de 1º Grau descrevem que o delito de roubo de que o paciente é acusado foi cometido com extremada gravidade concreta, mediante planejamento da atividade criminosa, concurso de agentes, emprego de armas de fogo, cárcere privado e agressões físicas contra as vítimas, e que há indícios de que o paciente integre a organização criminosa em apuração na posição de articulação e liderança, coordenando etapas de planejamento, execução e transporte da carga subtraída, participando de forma estável na organização criminosa na função de "batedor".
+O impetrante informa que o paciente possui 56 (cinquenta e seis) anos de idade e assevera que a grave situação de saúde do paciente motiva que seja superada a Súmula n. 691 do STF, com a determinação de sua soltura imediata, diante do risco de morte iminente por tuberculose e outras doenças de que é portador, sendo listadas hipertensão arterial, diabetes mellitus, dislipidemia e gota.
+Aduz que o presídio não prestou informações quando oficiado e que não garante regularidade na administração de medicamentos, não possui acompanhamento clínico contínuo, apresenta condições insalubres, de superlotação e de risco infeccioso.
+Adverte que a manutenção do paciente doente em isolamento sem condições sanitárias adequadas configura tratamento desumano, noticiando que, em 6.1.2026, uma visita para atendimento do paciente foi cancelada por ele se encontrar em isolamento para tratamento da tuberculose. Enfatiza que não se pode inverter o ônus da prova e impor à defesa que comprove que o presídio não tem condições de prover o tratamento de saúde necessário. Expõe que o estado de incomunicabilidade do paciente é inconstitucional por impedir o contato com a defesa técnica.
+Afirma que a prisão cautelar está fundada em presunções e juízo de probabilidade e não possui lastro probatório mínimo. Destaca a inexistência de prova direta da participação do paciente nos fatos, a ambiguidade de anotações encontradas em aparelho telefônico de terceiro, a tese inverossímil de uso compartilhado de telefone e a neutralidade de fotografia do paciente diante da carreta BWN1F29, relacionada como prova nos autos do processo.
+Alega que medidas invasivas de investigação, como a perícia na conta Google do paciente, tiveram resultado negativo. Adiciona que dados de geolocalização não o colocaram no local do crime, configurando a prática de pescaria probatória e a utilização indevida da prisão como instrumento de investigação.
+Argumenta que haveria violação ao contraditório e à ampla defesa por referência judicial a "outra lista" não juntada aos autos e não periciada, supostamente vinculando o nome do paciente a valor de R$ 10.000,00 (dez mil reais) em "outro crime", o que não poderia servir de fundamento à custódia cautelar.
+Sustenta a ausência dos requisitos da prisão preventiva (arts. 312 e 313 do CPP), por inexistirem elementos concretos e individualizados de risco à ordem pública, à instrução criminal ou à aplicação da lei penal. Pontua que o paciente primário, tem bons antecedentes, endereço fixo e trabalho lícito, o que recomenda a substituição da custódia preventiva por medidas cautelares diversas da prisão.
+Requer, liminarmente, a concessão de prisão domiciliar humanitária ao paciente, com a imediata expedição de alvará de soltura. No mérito, pugna pela concessão da ordem para que a prisão preventiva seja revogada, ainda que com a aplicação de medidas cautelares diversas da prisão.
+É o relatório.
+Decido.
+Constata-se, desde logo, que a pretensão não pode ser acolhida pelo Superior Tribunal de Justiça, pois a matéria não foi examinada pela Corte local, que ainda não julgou o mérito do writ originário.
+Aplica-se à hipótese o enunciado 691 da Súmula do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+Confira-se, a propósito, o seguinte julgado:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. SÚMULA N. 691/STF. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GRAVIDADE CONCRETA. EXPRESSIVA QUANTIDADE DE DROGAS (18 TABLETES, PESANDO 11,3KG DE MACONHA). PRISÃO DOMICILIAR. RÉU PAI DE CRIANÇA MENOR DE 12 ANOS. IMPRESCINDIBILIDADE NÃO DEMONSTRADA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça é assente no sentido de não caber habeas corpus contra decisão que indefere liminar na origem, na esteira da Súmula n. 691 do Supremo Tribunal Federal, aplicável por analogia, salvo no caso de flagrante ilegalidade ou teratologia da decisão impugnada.
+ ..
+8. Ausência de flagrante ilegalidade apta a justificar a superação da Súmula n. 691 do STF.
+9. Agravo regimental desprovido.
+(AgRg no HC n. 914.866/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1º/7/2024, DJe de 3/7/2024; grifos acrescidos)
+No caso, a situação dos autos não justifica a prematura intervenção desta Corte Superior. Deve-se, por ora, aguardar o esgotamento da jurisdição do Tribunal de origem.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente Habeas Corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
+ EMENTA
