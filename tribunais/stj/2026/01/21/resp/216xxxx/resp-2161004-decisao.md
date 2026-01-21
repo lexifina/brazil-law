@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de Recurso Especial interposto por JOSÉ CARLOS BARLETTO, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (e-STJ, fls. 204-210).
+A ementa do acórdão recorrido originalmente dispõe (e-STJ, fl. 205):
+AÇÃO DECLARATÓRIA DE PRESCRIÇÃO E INEXIGIBILIDADE DE DÉBITO C/C OBRIGAÇÃO DE FAZER. Plataforma Serasa Limpa Nome. Cobrança de dívida prescrita. Sentença de parcial procedência. Pretensão do autor de procedência total da ação. DESCABIMENTO: Inutilidade da ação com relação à pretensão de declaração de prescrição do débito, porque não foi provada a cobrança judicial da dívida. Não ocorre, tão pouco, cobrança extrajudicial, uma vez que a Plataforma Serasa Limpa Nome busca apenas a facilitação de acordos de dívidas, sem caracterizar imputação pública da condição de inadimplente, sendo descabida a pretensão de exclusão do nome da plataforma. Desnecessidade de declaração de inexigibilidade de dívida prescrita se não há cobrança. Ausência de caráter vinculante do Enunciado 11 do TJ. Sucumbência em maior parte do autor - Art. 86, par. único do CPC. Sentença mantida, porque sua modificação de acordo com o entendimento ora adotado ensejaria a "reformatio in pejus". Honorários recursais - Art. 85, § 11 do CPC. RECURSO DESPROVIDO."
+Nas razões recursais (e-STJ, fls. 212-220), a parte recorrente aponta violação do art. 85, §§ 2º, 8º e 8º-A, do Código de Processo Civil, bem como dissídio jurisprudencial. Sustenta, em síntese, que os honorários de sucumbência foram fixados em valor irrisório, porquanto o percentual de 10% (dez por cento) incidiu sobre o baixo valor do proveito econômico obtido (R$ 1.537,33 - mil quinhentos e trinta e sete reais e trinta e três centavos).
+Requer, assim, a majoração da verba honorária, com sua fixação por apreciação equitativa.
+Intimada, a parte recorrida apresentou contrarrazões (e-STJ, fls. 223-231), pugnando pelo não conhecimento ou desprovimento do recurso.
+Posteriormente, em juízo de retratação, o Tribunal de origem deu parcial provimento ao recurso de apelação do ora recorrente (e-STJ, fls. 256-263).
+A parte recorrida, por sua vez, noticiou o cumprimento voluntário da condenação (e-STJ, fls. 278-279).
+É o relatório.
+DECIDO.
+O recurso especial está prejudicado.
+O recorrente interpôs o presente recurso especial com o objetivo único de majorar os honorários advocatícios de sucumbência, pleiteando sua fixação por equidade, nos termos do art. 85, § 8º-A, do Código de Processo Civil.
+O assunto foi afetado pelo Superior Tribunal de Justiça, sob o rito dos recursos repetitivos (Tema 1388), conforme acórdão da Segunda Seção, nos autos dos REsps n. 2.159.431/SP, 2.135.007/SP, 2.199.761/PE, 2.199.776/PE e 2.199.778/PE, confira-se:
+PROPOSTA DE AFETAÇÃO. RECURSO ESPECIAL. PROCESSAMENTO SOB O RITO DOS RECURSOS ESPECIAIS REPETITIVOS. ART. 256-H DO RISTJ C/C O ART. 1.037 DO CPC/2015. CAUSA-PILOTO. HONORÁRIOS ADVOCATÍCIOS FIXADOS POR EQUIDADE. OBSERVÂNCIA DOS PARÂMETROS DO ART. 85, § 8º-A, DO CPC. AFASTAMENTO DE DIVERGÊNCIA INTERPRETATIVA. AFETAÇÃO AO RITO DOS REPETITIVOS.
+I. CASO EM EXAME
+1. Recurso especial encaminhado à Comissão Gestora de Precedentes pelo reconhecimento de multiplicidade de processos com controvérsia idêntica relativa à observância dos parâmetros mínimos do art. 85, § 8º-A, do CPC na fixação equitativa dos honorários advocatícios.
+Após manifestação favorável da Procuradoria-Geral da República e declaração de suspeição da Ministra inicialmente relatora, o presente voto propõe a afetação da matéria à sistemática dos repetitivos.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se, na fixação equitativa dos honorários sucumbenciais, o juiz deverá observar os valores recomendados pelo Conselho Seccional da OAB ou o limite mínimo de 10% previsto no § 2º do art. 85 do CPC, aplicando-se o que for maior, nos termos do § 8º-A do mesmo artigo.
+III. RAZÕES DE DECIDIR
+3. O art. 256-E do RISTJ confere ao relator a competência para propor a afetação de recurso especial representativo da controvérsia ao rito dos repetitivos, desde que demonstrados os requisitos legais e regimentais. 4. A multiplicidade da controvérsia está evidenciada por dezenas de acórdãos no STJ e centenas no TJPE, além de processos em trâmite abordando a mesma matéria. 5. A jurisprudência da Segunda Seção do STJ já reconheceu que, na fixação equitativa dos honorários, deve ser aplicado o parâmetro mais vantajoso entre os valores da tabela da OAB e o limite de 10% do § 2º do art. 85 do CPC, conforme decidido no AgInt na Rcl n. 47.536/SP, rel. Min. Antonio Carlos Ferreira, DJe de 5/11/2024.6.
+Apesar disso, persistem divergências entre as Turmas do STJ, havendo julgados que reconhecem a natureza meramente referencial da tabela da OAB, afastando a obrigatoriedade de sua observância. 7. A instabilidade jurisprudencial e a relevância do tema justificam a fixação de tese vinculante com base na sistemática dos repetitivos, para fins de uniformização da interpretação do art. 85, § 8º-A, do CPC.
+8. Presentes os pressupostos do art. 1.036 e seguintes do CPC/2015 e do art. 256-I do RISTJ, é cabível a afetação do presente recurso ao rito dos repetitivos, com proposta de suspensão, no âmbito desta corte e dos Tribunais, dos recursos especiais e agravos em recursos especiais que versam sobre a matéria.
+IV. DISPOSITIVO
+9. Recurso afetado ao rito dos repetitivos. 10. Determinada a suspensão do processamento, no âmbito desta corte e dos Tribunais, dos recursos especiais e agravos em recursos especiais que versam sobre a matéria.
+(ProAfR no REsp n. 2.159.431/SP, relatora Ministra Daniela Teixeira, Segunda Seção, julgado em 30/9/2025, REPDJEN de 7/11/2025, DJEN de 24/10/2025.)
+Ante o exposto, DETERMINO a suspensão do andamento do processo nesta Corte até o julgamento definitivo do Recurso Especial n. 2.159.431/SP e outros (Tema n. 1388/STJ), nos termos dos arts. 1.039 a 1.041 do CPC/2015.
+Publique-se e intimem-se.
+EMENTA
