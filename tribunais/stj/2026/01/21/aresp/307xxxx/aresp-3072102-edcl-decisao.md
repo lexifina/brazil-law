@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por PEFISA SA CREDITO FINANCIAMENTO E INVESTIMENTO à decisão de fls. 287/288, que não conheceu do recurso.
+Sustenta a parte embargante:
+1. Foi proferida a decisão monocrática ora embargada, que não conheceu do agravo em recurso especial, sob o fundamento de que supostamente não ter ocorrido o esgotamento de instância. A decisão ora recorrida entendeu que o recurso especial foi interposto contra a decisão monocrática que rejeitou os embargos de declaração, indo contra a Súmula 281 do STF.
+2. Contudo, a decisão foi omissa no que tange à análise dos argumentos da Embargante aventados no agravo, sobre o princípio da instrumentalidade das formas, ou seja, o recurso especial deveria ter sido recebido como agravo interno.
+3. A Embargante foi taxativa ao submeter a este Superior Tribunal de Justiça a análise sobre a violação ao artigo 188 do CPC no presente caso, haja vista que a finalidade essencial do recurso seria mantida, de modo que entendendo o Tribunal a quo pelo não cabimento de recurso especial, este deveria ter sido recebido como agravo interno. Tratando-se de artigo de lei federal, não há qualquer impedimento para apreciação da referida argumentação (fls. 293/294).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Consta da decisão embargada que o Recurso Especial foi interposto contra decisão monocrática proferida pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA (fls. 244/251).
+O STJ, com base na Súmula n. 281 do STF, aplicável também aos recursos especiais, pacificou o entendimento de que é necessário que a parte interponha todos os recursos ordinários no Tribunal a quo antes de buscar a instância especial, ou seja, a apresentação de Recurso Especial pressupõe o julgamento de questão controvertida pelo órgão colegiado de origem.
+Essa orientação também se aplica a hipóteses como a dos autos, em que contra o acórdão proferido na origem foram opostos embargos de declaração, julgados de forma monocrática, e, contra essa decisão, foi interposto Recurso Especial sem que houvesse o necessário exaurimento das instâncias ordinárias (EDcl no AgInt nos EAREsp n. 1.732.139/MA, Rel. Ministra Laurita Vaz, Corte Especial, DJe de 19.4.2022; e AgInt no AREsp n. 2.171.248/SP, Rel. Ministro Villas Bôas Cueva, Terceira Turma, DJe de 24.3.2023.)
+Consoante o STJ, "não é possível a aplicação dos princípios da fungibilidade recursal e da instrumentalidade das formas na hipótese de recurso especial interposto em face de decisão unipessoal. Isso porque, nessa situação, observa-se a ocorrência de erro grosseiro, pois não existe nenhuma dúvida quanto ao cabimento do recurso especial o qual somente é cabível contra acórdão proferido por Tribunal de Justiça ou por Tribunal Regional Federal" (AgInt no AREsp n. 2.134.942/SP, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 29/9/2022.).
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 28.8.2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se.
+Intimem-se.
+ EMENTA
