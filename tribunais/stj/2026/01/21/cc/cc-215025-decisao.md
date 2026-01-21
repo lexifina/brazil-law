@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de conflito negativo de competência, de fl. 152, instaurado pelo JUÍZO DE DIREITO DA VARA DE EXECUÇÕES PENAIS - ABERTO - DE SÃO RAIMUNDO DAS MANGABEIRAS - MA, o suscitante, o qual aponta o JUÍZO DE DIREITO DA VARA ADJUNTA DE EXECUÇÕES CRIMINAIS DE SÃO MARCOS - RS, como suscitado, no âmbito da Execução Penal n. 8000141-05.2022.8.21.0048.
+O Juízo da Vara de Execução da Comarca de São Marcos/RS assim se manifestou:
+"Trata-se de Processo de Execução Penal (PEC) de Gilmar Corso, condenada ao cumprimento de 02 (anos) anos de reclusão pela prática do crime previsto no art. 14, caput, do CP.
+Aportou aos autos a informação de que o reeducando está residindo no endereço Rua Antônio Jacobino, 72, Casa/05, Condomínio, São Raimundo das Mangabeiras/MA - 45201029, (Seq. 49).
+Sendo assim, com fulcro no art. 65 da Lei nº 7.210/84, declino da competência e determino a remessa dos autos à Comarca de Mangabeiras/MA." (fl. 137)
+De outro lado, o Juízo das Execuções da Comarca de Mangabeiras/MA suscitou o presente incidente, mediante os seguintes fundamentos:
+"O artigo 65 da Lei de Execução Penal (LEP) estabelece:
+"Art. 65. A execução penal competirá ao Juiz indicado na lei local de organização judiciária e , na sua ausência, ao da sentença."
+O artigo 23 da Resolução nº 417/2021 do Conselho Nacional de Justiça dispõe que:
+"Art. 23. Transitada em julgado a condenação ao cumprimento de pena em regime semiaberto ou aberto, a pessoa condenada será intimada para dar início ao cumprimento da pena, previamente à expedição de mandado de prisão, sem prejuízo da realização de audiência admonitória e da observância da Súmula Vinculante nº 56."
+Entretanto, a jurisprudência consolidada do Superior Tribunal de Justiça é no sentido de que o domicílio do condenado não transfere a competência para a execução penal, devendo apenas ser expedida carta precatória para intimação e fiscalização do cumprimento da pena. Nesse sentido:  ..
+Dessa forma, a mudança de endereço do condenado não autoriza, por si só, o deslocamento da competência da execução penal, a qual deve permanecer com o Juízo da comarca de São Marcos/RS, responsável pela sentença condenatória. Diante desse cenário, resta caracterizado conflito negativo de competência. Suscito conflito negativo de competência, nos termos do artigo 105, inciso I, alínea "d", da Constituição Federal, encaminhando-se os autos ao Superior Tribunal de Justiça (STJ) para dirimi-lo." (fl. 152)
+Os autos do presente conflito foram encaminhados ao Ministério Público Federal atuante nesta instância superior, o qual ofereceu parecer que recebeu o seguinte sumário:
+"PENAL. PROCESSUAL PENAL. CONFLITO NEGATIVO DE COMPETÊNCIA. EXECUTADO COM DOMICÍLIO EM LOCAL DIVERSO DO JUÍZO DA EXECUÇÃO.
+1. A jurisprudência do Superior Tribunal de Justiça consolidou o entendimento de que a competência para a execução penal cabe ao Juízo da condenação, sendo deprecada ao Juízo do domicílio do Apenado somente a supervisão e acompanhamento do cumprimento da pena determinada, inexistindo deslocamento de competência;
+2. Na espécie, a condenação judicial foi proferida pelo Juízo da Comarca de São Marcos/RS. Sendo assim, este deve ser declarado competente para a execução penal (Juízo Suscitado). Contudo, devido ao Apenado ter se mudado para o Maranhão, a supervisão e o acompanhamento do cumprimento da pena compete ao Juízo Suscitante;
+3. Parecer pelo conhecimento do conflito, para que seja declarada a competência do JUÍZO DE DIREITO DA VARA ADJUNTA DE EXECUÇÕES CRIMINAIS DE SÃO MARCOS/RS, ora Suscitado, incumbindo ao JUÍZO DE DIREITO DA VARA DE EXECUÇÕES PENAIS - ABERTO - DE SÃO RAIMUNDO DAS MANGABEIRAS/MA, o Suscitante, a supervisão e acompanhamento do cumprimento da pena determinada." (fl. 167)
+É o relatório.
+Decido.
+Conheço do conflito considerando cuidar-se de juízos vinculados a Tribunais diversos, conforme determina o art. 105, I, "d", da Constituição Federal - CF.
+O núcleo da controvérsia consiste em definir a competência para o processamento da Execução Penal n. 8000141-05.2022.8.21.0048, notadamente quanto ao cumprimento da pena restritiva de direitos imposta ao apenado.
+Extrai-se dos autos que GILMAR CORSO, ora interessado, foi condenado pelo Juízo da Vara Criminal da Comarca de Farroupilha/RS, às penas de 3 anos de reclusão e 6 meses de detenção, no regime inicial aberto, pela prática, respectiva, dos crimes tipificados no art. 16 da Lei n. 10.826/2003 e art. 311 do Código de Trânsito Brasileiro - CTB, na forma do art. 69 do Código Penal - CP.
+O Tribunal de Justiça do Rio Grande do Sul deu parcial provimento à apelação criminal, para reconhecer a prescrição da pretensão punitiva para o crime previsto no art. 311 do CTB e desclassificar a conduta de porte de arma de uso restrito para aquela inserta no art. 14, caput, da Lei n. 10.826/2003, redimensionando a pena ao patamar de 2 anos de reclusão, mantida a substituição da pena privativa de liberdade por duas restritivas de direitos.
+A sentença condenatória transitou em julgado em 24/1/2020, sendo o processo remetido à Vara de Execuções Penais da Comarca de São Marcos/RS, para o início do cumprimento das penas restritivas de direitos impostas ao ora interessado - oportunidade em que foi informada a alteração do seu domicílio para a cidade de Mangabeiras/MA.
+O art. 65 da Lei de Execução Penal - LEP prevê que "a execução penal competirá ao Juiz indicado na lei local de organização judiciária e, na sua ausência, ao da sentença condenatória".
+A jurisprudência consolidada no âmbito desta Corte superior é no sentido de que, nos casos de cumprimento de pena em meio aberto, na hipótese do domicílio do apenado não ser abrangido territorialmente pela competência do Juízo das execuções deve ser deprecada ao Juízo do domicílio do apenado apenas a supervisão e o acompanhamento do cumprimento da pena, sem o deslocamento de competência.
+Nesse sentido:
+AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. FIXAÇÃO DA COMPETÊNCIA. JUÍZO DA CONDENAÇÃO. ALTERAÇÃO DE DOMICÍLIO. DESNECESSIDADE DE TRANSFERÊNCIA DA EXECUÇÃO PENAL. DELEGAÇÃO DE MEROS ATOS DE FISCALIZAÇÃO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Há muito se firmou jurisprudência nesta Corte Superior no sentido de que, nas penas restritivas de direito, bem como nas penas privativas de liberdade, a competência para a execução penal cabe ao Juízo da condenação, sendo deprecada ao Juízo do domicílio do apenado, quando for o caso, somente a supervisão e acompanhamento do cumprimento da pena determinada, inexistindo deslocamento de competência.
+2. A competência permanece com o Juízo responsável pela condenação (Santa Catarina), sendo somente deprecada ao Juízo do domicílio da sentenciada (Rio Grande do Sul) a fiscalização do cumprimento da pena.
+3. Agravo regimental desprovido.
+(AgRg no CC n. 198.927/RS, relator Ministro Ribeiro Dantas, Terceira Seção, julgado em 25/10/2023, DJe de 31/10/2023.)
+AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. EXECUÇÃO PENAL. MUDANÇA DE ENDEREÇO. EXPEDIÇÃO DE CARTA PRECATÓRIA PARA FISCALIZAÇÃOE ACOMPANHAMENTO DA PENA IMPOSTA. COMPETÊNCIA DO JUÍZO SUSCITANTE.
+Terceira Seção já pacificou o entendimento no sentido de que a competência para atos decisórios na execução penal continua sendo do juízo que proferiu a condenação, ainda que o condenado venha a mudar de domicílio, cabendo apenas a expedição de precatória para a fiscalização das condições e medidas impostas.
+Agravo regimental desprovido.
+(AgRg no CC n. 198.819/DF, relator Ministro Messod Azulay Neto, Terceira Seção, julgado em 17/10/2023, DJe de 25/10/2023.)
+O referido entendimento não sofre alteração para os casos em que a pena privativa de liberdade tenha sido convertida em restritivas de direitos, e o condenado resida em jurisdição diversa do juízo sentenciante, sendo deprecada ao juízo da localidade em que reside o executado apenas o acompanhamento e a fiscalização do cumprimento da reprimenda.
+Com igual orientação:
+CONFLITO NEGATIVO DE COMPETÊNCIA. PENAL. ACORDO DE NÃO PERSECUÇÃO PENAL. ART. 28-A, § 6.º, DO CÓDIGO DE PROCESSO PENAL. APLICAÇÃO DAS REGRAS ATINENTES À EXECUÇÃO PENAL. COMPETÊNCIA. CUMPRIMENTO. JUÍZO QUE HOMOLOGOU O ACORDO. CONFLITO CONHECIDO PARA DECLARAR COMPETENTE O JUÍZO SUSCITADO.
+1. O art. 28-A, § 6.º, do Código de Processo Penal, ao determinar que o acordo de não persecução penal será executado no juízo da execução penal, implicitamente, estabeleceu que o cumprimento das condições impostas no referido acordo deverá observar, no que forem compatíveis, as regras pertinentes à execução das penas.
+2. Segundo pacífica orientação desta Corte Superior, a competência para a execução das penas é do Juízo da condenação. No caso específico de execução de penas restritivas de direitos, em se tratando de condenado residente em jurisdição diversa do Juízo que o condenou, também é sedimentada a orientação de que a competência para a execução permanece com o Juízo da condenação, que deprecará ao Juízo da localidade em que reside o apenado tão-somente o acompanhamento e a fiscalização do cumprimento da reprimenda.
+3. Em se tratando de cumprimento das condições impostas em acordo de não persecução penal, a competência para a sua execução é do Juízo que o homologou, o qual poderá deprecar a fiscalização do cumprimento do ajuste e a prática de atos processuais para o atual domicílio do Apenado.
+4. Conflito conhecido para declarar competente o JUÍZO FEDERAL DA 1 ª VARA CRIMINAL DE SÃO PAULO - SJ/SP, o Suscitado.
+(CC n. 192.158/MT, relatora Ministra Laurita Vaz, Terceira Seção, julgado em 9/11/2022, DJe de 18/11/2022.)
+Ante o exposto, conheço do presente conflito para declarar o JUÍZO DE DIREITO DA VARA ADJUNTA DE EXECUÇÕES CRIMINAIS DE SÃO MARCOS - RS, o suscitado , competente para dar prosseguimento à execução penal da sanção imposta a GILMAR CORSO, sendo o juízo suscitante r esponsável apenas pelo acompanhamento e supervisão do seu cumprimento.
+Publique-se.
+Intimem-se.
+EMENTA
