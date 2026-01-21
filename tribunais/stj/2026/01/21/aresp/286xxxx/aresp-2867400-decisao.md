@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ESPÓLIO DE NADYR THEREZINHA MARTINS GONÇALVES (espólio) e por GERSON BRANCO ADVOGADOS contra a decisão que inadmitiu o recurso especial, pelos óbices à pretensão de reexame de provas (Súmula n. 7 do STJ), à orientação do acórdão em consonância com a jurisprudência do STJ (Súmula n. 83 do STJ), à deficiência de fundamentação (Súmula n. 284 do STF), e ao prejuízo da análise pela alínea c diante da incidência dos óbices pela alínea a.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial foi interposto com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal Regional Federal da 4ª Região em apelação cível, nos autos de embargos à execução extrajudicial.
+O julgado foi assim ementado (fls. 339-340):
+ADMINISTRATIVO. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO EXTRAJUDICIAL. APELAÇÃO. SUBSTITUIÇÃO DE ADVOGADO NO CURSO DO PROCESSO. HONORÁRIOS DE SUCUMBÊNCIA. DIVISÃO PROPORCIONAL ENTRE O ATUAL E O ADVOGADO SUBSTITUÍDO. QUESTÃO JURÍDICA A SER SOLVIDA NA JURISDIÇÃO ESTADUAL. MATÉRIA ESTRANHA À LIDE. QUESTÃO PRIVADA. RECURSO DE APELAÇÃO EM EMBARGOS À EXECUÇÃO. ISENÇÃO DE CUSTAS. ART. 7º DA LEI Nº 9.289/96. FIXAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS COM BASE NO ART. 338 DO CPC. EXCLUSÃO DO POLO PASSIVO POR ILEGITIMIDADE AD CAUSAM. SUBSTITUIÇÃO DA PARTE E PROSSEGUIMENTO DA EXECUÇÃO.
+1. A discussão concernente à divisão dos honorários advocatícios entre os procuradores que atuaram na causa, os anteriores e atuais, não constitui matéria sujeita à competência da Justiça Federal na medida em que trata de litígio entre particulares, pressupondo veiculação por meio de ação própria perante a Justiça Estadual.
+2. Consoante o comando do art. 7º da Lei 9.289/96 isenta do pagamento das custas os Embargos à Execução processados perante a Justiça Federal. Assim, conforme a jurisprudência do STJ, tal inexigibilidade estende-se ao recolhimento do preparo na interposição de Apelação contra sentença proferida nos embargos à execução.
+3. A incidência do comando estampado no art. 338 do CPC/15 decorre na hipótese em que há a extinção do processo em relação ao réu originário, com a inauguração de um novo processo, por iniciativa do autor, em relação a um novo réu. Assim, suscitada a ilegitimidade passiva ad causam na contestação e acolhida pelo autor da ação, levando-se à substituição dos réus originalmente demandados, tem-se por concretizada a subsunção do referido dispositivo processual em relação ao arbitramento dos honorários devidos aos advogados do executado excluído da lide, a prever a sua fixação entre 3 e 5% do valor atualizado da causa.
+Os embargos de declaração opostos foram decididos nestes termos (fl. 393):
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NA APELAÇÃO. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC/2015. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE. ACRÉSCIMO DE FUNDAMENTAÇÃO INTEGRATIVA. DECISÃO SURPRESA.
+1. A reti cação do acórdão por meio de embargos de declaração só tem cabimento na hipótese de inexatidão material, omissão, contradição ou obscuridade.
+2. Os embargos declaratórios não servem ao objetivo de rediscutir o mérito da causa.
+3. O julgador não está obrigado a se manifestar sobre todas as teses levantadas pelas partes, bastando que os fundamentos utilizados tenham sido suficientes para embasar a decisão.
+4. O inconformismo da parte embargante não se amolda aos contornos da via dos embargos de declaração, previsto no art. 1.022 do CPC/2015, porquanto o acórdão ora combatido não padece de vícios de omissão, contradição, obscuridade ou erro material, não se prestando o manejo de tal recurso para o fim de rediscutir os aspectos jurídicos anteriormente debatidos e decididos.
+5. Adicionada fundamentação integrativa no que tange à decisão-surpresa, sem efeitos modi cativos, pois a decisão-surpresa, vedada pelo ordenamento jurídico, não se pode falar em estranheza quando o magistrado, diante dos limites da causa de pedir, do pedido e do substrato fático-probatório delineado no feito, realiza a tipi cação jurídica da pretensão com fulcro no ordenamento jurídico reinante, aplicando a lei adequada à solução do con ito, ainda que as partes não a tenham invocado e independentemente de ouvi-las, já que não se pode alegar desconhecimento da lei, pois deve ser conhecida de todos (Art. 3o Ninguém se escusa de cumprir a lei, alegando que não a conhece - LINDB), não podendo ninguém se dizer surpreendido com sua subsunção ao caso concreto.
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação dos seguintes artigos:
+a) 338, do Código de Processo Civil, porque o acórdão teria aplicado indevidamente o parágrafo único ao reduzir os honorários a 3% sem a ocorrência de substituição do polo passivo, já que apenas houve exclusão do espólio e prosseguimento contra os demais executados;
+b) 85, § 2º, do Código de Processo Civil, já que os honorários deveriam ter sido fixados na regra geral entre 10% e 20% sobre o valor atualizado da causa, mantendo-se os 10% estabelecidos na sentença;
+c) 10, do Código de Processo Civil, porquanto o acórdão teria incorrido em decisão-surpresa ao aplicar o art. 338, parágrafo único, sem prévia manifestação das partes sobre sua incidência.
+Sustenta que o Tribunal de origem, ao decidir que os honorários dos patronos do réu excluído deveriam ser fixados entre 3% e 5% por aplicação do art. 338, parágrafo único, divergiu do entendimento dos julgados apontados (REsp n. 1.895.919/PR; REsp n. 1.800.330/SP; AgInt no AREsp n. 1.317.147/PR).
+Requer o provimento do recurso para que se mantenham os honorários em 10% do valor atualizado da causa, nos termos do art. 85, § 2º, do Código de Processo Civil.
+Requer ainda, subsidiariamente, a anulação do acórdão por violação ao art. 10 do Código de Processo Civil.
+É o relatório. Decido.
+A controvérsia diz respeito a ação de embargos à execução extrajudicial em que a parte autora pleiteou o reconhecimento da ilegitimidade passiva do ESPÓLIO DE NADYR THEREZINHA MARTINS GONÇALVES para figurar no processo executivo e a condenação da CAIXA ECONÔMICA FEDERAL ao pagamento de honorários sucumbenciais. O valor da causa foi fixado em R$ 2.733.460,16.
+Na sentença, o Juízo de primeiro grau extinguiu o processo, sem resolução de mérito, com base no art. 485, VI, do Código de Processo Civil, e fixou honorários sucumbenciais em 10% sobre o valor atualizado da causa.
+A Corte de origem deu parcial provimento à apelação da CAIXA ECONÔMICA FEDERAL para aplicar o art. 338, parágrafo único, do Código de Processo Civil e reduzir os honorários a 3% sobre o valor atualizado da causa, e afastou, por incompetência da Justiça Federal, a discussão sobre divisão de honorários entre advogados, julgando prejudicado o apelo dos procuradores.
+Nos embargos de declaração, integrou-se a fundamentação quanto à inexistência de decisão-surpresa.
+I - Art. 338, do Código de Processo Civil
+A parte recorrente afirma que o art. 338, parágrafo único, foi indevidamente aplicado, pois não houve substituição do réu, apenas exclusão do espólio e prosseguimento contra os demais executados, devendo incidir a regra do art. 85, § 2º.
+O acórdão recorrido concluiu pela incidência do art. 338, parágrafo único, ao reconhecer a ilegitimidade do espólio, a sua exclusão da lide e a fixação da verba entre 3% e 5% do valor da causa, alinhando precedentes.
+Assim, ao decidir que a fixação dos honorários ao patrono do réu excluído se daria entre 3% e 5% do valor da causa por aplicação do art. 338, parágrafo único, está em sintonia com o entendimento do STJ. Caso, pois, de aplicação da Súmula n. 83 do STJ.
+Nesse sentido, os seguintes julgados: REsp n. 1.935.852/GO; AgInt no AREsp n. 1.448.283/MS; AgRg no AREsp n. 1.475.277/MA; AgInt no REsp n. 1.388.043/SC; AgInt no AREsp n. 990.806/MG; REsp n. 1.670.574/SP; AgInt no AREsp n. 1.077.226/RS (fls. 550-553).
+II - Art. 85, § 2º, do Código de Processo Civil
+No recurso especial, a parte recorrente alega que os honorários deveriam permanecer em 10% do valor atualizado da causa, porque a sentença aplicou corretamente a regra geral do art. 85, § 2º, diante da mera exclusão do espólio.
+O acórdão recorrido reformou a sentença para reduzir a verba a 3% por subsunção ao art. 338, parágrafo único, considerando a extromissão do espólio e a continuidade contra os demais, e reforçando a proporcionalidade e razoabilidade do percentual.
+Assim, ao decidir que a redução a 3% guarda conformidade com o regramento do art. 338, parágrafo único, está em sintonia com o entendimento do STJ. Caso, pois, de aplicação da Súmula n. 83 do STJ.
+Nesse sentido, os seguintes julgados: REsp n. 1.935.852/GO; AgInt nos EDcl no REsp n. 1.902.149/DF (fls. 551-552).
+III - Art. 10, do Código de Processo Civil
+Alega a parte recorrente que houve decisão-surpresa, já que o Tribunal aplicou o art. 338, parágrafo único, sem prévia oitiva das partes.
+Nos embargos de declaração, a Corte de origem afastou o vício, ao fundamento de que não há decisão-surpresa quando o magistrado, à luz dos limites da causa de pedir e do substrato fático, aplica a lei adequada, independentemente de provocação, citando a LINDB e precedentes.
+Assim, ao concluir pela inexistência de decisão-surpresa, está em sintonia com o entendimento do STJ. Caso, pois, de aplicação da Súmula n. 83 do STJ.
+Nesse sentido, os seguintes julgados: AgInt no AREsp n. 2.028.275/MS; AgInt no AREsp n. 2.489.262/SP (fls. 390-391, 393).
+IV - Divergência jurisprudencial
+A part e agravante invoca dissídio para sustentar a inaplicabilidade do art. 338, parágrafo único, e a manutenção dos honorários em 10%.
+A imposição do óbice da Súmula n. 83 do STJ quanto à alínea a do permissivo constitucional impede a análise do recurso pela alínea c sobre o mesmo tema.
+V - Conclusão
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
