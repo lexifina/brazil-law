@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de recurso especial interposto pela Fazenda do Estado de São Paulo, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado o voto condutor (fl. 73):
+Mandado de segurança - CASSAÇÃO DE APOSENTADORIA - Sentença na esfera criminal, com o decreto de perda do cargo público, como efeito da condenação, nos termos do artigo 92, I, "a" e "b" do Código Penal - INTERPRETAÇÃO AMPLIATIVA que não se admite - Regular PROCEDIMENTO ADMINISTRATIVO que se impõe - PRECEDENTES DO C. STJ - Demonstração de direito líquido e certo violado - Segurança concedida.
+Não foram opostos embargos de declaração.
+Nas razões do recurso especial, a parte recorrente alega violação do art. 92 do Código Penal (CP), pois entende que a cassação da aposentadoria é consequência lógica da perda do cargo decretada na sentença penal transitada em julgado, sendo desnecessária a instauração de processo administrativo disciplinar e que inexistente ofensa ao contraditório e à ampla defesa, já exercidos no processo penal (fls. 122/131).
+Contrarrazões apresentadas às fls. 134/145.
+O recurso especial foi admitido na origem (fl. 174).
+É o relatório.
+Na origem, cuida-se de mandado de segurança que busca anular o ato de cassação da aposentadoria e determinar sua manutenção até finalização do processo administrativo.
+i) Do efeito automático da cassação da aposentadoria
+Inicialmente, no que se refere ao alegado efeito automático de cassação da aposentadoria decorrente de sentença penal transitada em julgado, o entendimento jurisprudencial desta Corte é no sentido de que não se trata de efeito automático, devendo ser instaurado o devido procedimento administrativo.
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO. EFEITO EXTRAPENAL DA CONDENAÇÃO CRIMINAL. ART. 92, I, b, DO CP. NUMERUS CLAUSUS. CASSAÇÃO DA APOSENTADORIA E PERDA DOS PROVENTOS. IMPOSSIBILIDADE. SEGURANÇA CONCEDIDA.
+I - É pacífica a jurisprudência desta Corte no sentido de que não é possível empregar analogia para determinar o desfazimento do ato de aposentadoria do condenado com fundamento no art. 92, I, do Código Penal, sob pena de violar o princípio da reserva legal do Direito Penal.
+II - Possibilidade, não obstante, da imposição da penalidade após regular processo administrativo disciplinar, no qual se assegure ao acusado a ampla defesa e contraditório.
+III - Segurança concedida.
+(MS n. 25.732/DF, relatora Ministra Regina Helena Costa, Primeira Seção, julgado em 2/3/2023, DJe de 6/3/2023, sem grifos no original.)
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. AGENTE DE POLÍCIA DA POLÍCIA CIVIL DO DISTRITO FEDERAL. CRIME DE TORTURA. ART. 1º, I, A, DA LEI 9.455/97. EFEITOS EXTRAPENAIS DA CONDENAÇÃO PENAL TRANSITADA EM JULGADO. ART. 92, I, DO CÓDIGO PENAL. ROL TAXATIVO. CRIME COMETIDO NA ATIVIDADE, ANTERIOR À APOSENTADORIA. CASSAÇÃO DE APOSENTADORIA. IMPOSSIBILIDADE. PRECEDENTES DO STJ. NECESSIDADE DE PROCESSO ADMINISTRATIVO DISCIPLINAR. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra acórdão publicado na vigência do CPC/73.
+II. In casu, trata-se de Ação Ordinária proposta por agente de polícia da Polícia Civil do Distrito Federal, objetivando a anulação do ato administrativo do Governador do Distrito Federal, que determinou a cassação de sua aposentadoria, além da condenação ao pagamento dos valores devidos desde a cassação. Julgada improcedente a ação, a sentença restou reformada pelo Tribunal de Justiça do Distrito Federal e dos Territórios, à consideração de que "não é possível dar interpretação extensiva à norma penal, ou seja, estender a perda do cargo à aposentadoria, sob pena de violação ao princípio da reserva legal".
+III. A previsão legal contida no art. 92, I, do Código Penal, que cuida dos efeitos extrapenais da sentença penal condenatória, é dirigida à perda de cargo, função pública ou mandato efetivo, hipóteses que não autorizam a cassação de aposentadoria concedida ao servidor, sob pena de afronta ao princípio da legalidade.
+Precedentes do STJ.
+IV. O art. 1º, I, a, § 5º, da Lei 9.455/97, que trata do crime de tortura, também dispõe que "a condenação acarretará a perda do cargo, função ou emprego público e a interdição para seu exercício pelo dobro do prazo da pena aplicada". Na hipótese, a sentença condenatória expressamente aplicou, nos estritos termos do art. 1º, I, a, § 5º, da Lei 9.544/97, ao ora agravado, a pena de perda do cargo público, e não de cassação de aposentadoria.
+V. A jurisprudência do STJ tem "entendimento de que não é possível a cassação da aposentadoria de servidor público como efeito da condenação criminal, ainda que a sentença penal tenha mencionado a perda do cargo como efeito secundário, uma vez que os efeitos da condenação penal contidos no art. 92 do Código Penal são previstos em relação numerus clausus, não sendo permitida nenhuma interpretação extensiva. Apesar de não ser possível a cassação da aposentadoria de servidor público apenas como efeito da condenação criminal, a referida punição pode ser aplicada na esfera administrativa, após regular processo administrativo disciplinar" (STJ, AgInt nos EDcl no RMS 54.091/MS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 05/05/2021).
+VI. Agravo interno improvido.
+(AgInt no REsp n. 1.582.304/DF, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 17/4/2023, DJe de 24/4/2023, sem grifos no original.)
+ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. CONDENAÇÃO CRIMINAL. APOSENTADORIA. CASSAÇÃO AUTOMÁTICA. IMPOSSIBILIDADE. NECESSIDADE DE REGULAR PROCESSO ADMINISTRATIVO DISCIPLINAR. OBSERVÂNCIA DO CONTRADITÓRIO E DA AMPLA DEFESA. PRECEDENTES. RECURSO ESPECIAL NÃO PROVIDO.
+1. O Supremo Tribunal Federal, no julgamento da ADPF 418/DF, afirmou a constitucionalidade do disposto no arts. 127, IV, e 134 da Lei n. 8.112/1990, entendendo cabível a penalidade de cassação da aposentadoria ao servidor que, na atividade, praticou falta grave.
+2. Este Tribunal Superior já estabeleceu a impossibilidade da interpretação extensiva do art. 92, I, do Código Penal, inadmitindo a cassação da aposentadoria como efeito da condenação criminal imposta com base nesse dispositivo legal.
+3. Entretanto, à luz da orientação da Corte Maior, é possível a imposição da penalidade no regular processo administrativo disciplinar. Precedente.
+4. A apuração da irregularidade cometida no serviço público deve ser realizada em procedimento que assegure ao acusado a ampla defesa, seja ela em sindicância ou processo administrativo disciplinar.
+Ademais, o art. 153 da Lei n. 8.112/1990 impõe a observância do princípio do contraditório no inquérito.
+5. Recurso especial a que se nega provimento.
+(REsp n. 1.589.697/MT, relator Ministro Og Fernandes, Segunda Turma, julgado em 9/11/2021, DJe de 17/12/2021, sem grifos no original.)
+ii) Da impossibilidade de análise fático-probatória
+Ao analisar a pretensão da parte recorrente, observo que a insurgência esbarra em óbice intransponível nesta instância especial.
+A parte recorrente aponta que, publicado o ato administrativo em cumprimento à sentença penal que decretou a perda do cargo, não há necessidade de notificação prévia do interessado, porque se trata de mero cumprimento da coisa julgada penal, suficiente para fundamentar a cassação dos proventos de aposentadoria.
+Todavia, da análise do acórdão recorrido e das peças que instruem o feito, verifico que a moldura fática delineada impede o acolhimento da tese sem o revolvimento de provas.
+Conforme registrado pelo Tribunal de origem (fl. 76):
+No caso específico, foi decretada a perda do cargo público, como efeito da condenação criminal, nos termos do artigo 92,1, "a" e "b" do Código Penal. De fato, tal como arguido pelo impetrante, não há previsão para a cassação de aposentadoria. Ademais, alegou que não foi citado no DGP-66-2023, razão pela qual teriam sido violados direito ao contraditório, ampla defesa e devido processo legal e quanto a este ponto o impetrado argumentou que o ato foi proferido em cumprimento de decisão judicial, transitada em julgado.
+A autoridade impetrada não juntou aos autos qualquer documento, sinalizando que o ato de cassação de aposentadoria não passou de um efeito automático à condenação de perda do cargo por sentença criminal.
+Tenho que os dois argumentos do impetrante são relevantes e merecem acolhimento.
+Nesse contexto, para que se possa concluir pela legalidade do ato ou pela não ocorrência de vício no processo administrativo (DGP-66-2023), seria indispensável analisar documentos e fatos que foram devidamente colacionados ou detalhados na origem, inexistindo tal informação no acórdão prolatado.
+No presente caso, não constam as informações necessárias para fins de realizar a análise da observância ao contraditório e ampla defesa no DGP-66-2023 que culminou com a cassação da aposentadoria, mormente porque, como bem observou o Tribunal de origem, a parte recorrente "não juntou aos autos qualquer documento, sinalizando que o ato de cassação de aposentadoria não passou de um efeito automático à condenação de perda do cargo por sentença criminal" (fl. 76).
+Ainda, tal como formulado o recurso, haveria a necessidade de que esta Corte Superior reanalisasse documentos e elementos fáticos, que, inclusive, inexistem nos autos.
+A ausência de elementos que permitam a análise puramente de direito forçam o intérprete a retornar ao acervo probatório, o que é juridicamente inadmissível nesta fase processual. A jurisprudência é pacífica quanto a este impedimento, incidindo o óbice do disposto na Súmula 7 do Superior Tribunal de Justiça.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
