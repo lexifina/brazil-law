@@ -1,0 +1,30 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por MOYSES FRIEDHEIM e ACIR PEREIRA contra decisão que inadmitiu recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 23/4/2025.
+Concluso ao gabinete em: 15/9/2025.
+Ação: de prestação de contas, ajuizada por CÉLIA MARIA BEZERRA DE QUEIROZ, em face de MOYSES FRIEDHEIM e ACIR PEREIRA, na qual requer a prestação de contas de pagamentos e saques realizados em benefício do Grupo Nova Saúde, com exibição de documentos e extratos bancários.
+Sentença: julgou procedentes os pedidos, para: i) homologar o laudo pericial; ii) declarar saldo em favor da CLÍNICA SÃO CAETANO LTDA de R$ 561.516,90 (quinhentos e sessenta e um mil, quinhentos e dezesseis reais e noventa centavos); iii) determinar a distribuição e delimitação do valor em apuração de haveres.
+Acórdão: negou provimento ao recurso de apelação interposto por MOYSES FRIEDHEIM e ACIR PEREIRA, nos termos da seguinte ementa:
+APELAÇÃO. AÇÃO DE PRESTAÇÃO DE CONTAS. A condenação na primeira fase obriga os réus a comprovarem a legitimidade das contas. Laudo pericial hígido que não verificou a legitimidade das contas por ausência de comprovação dos gastos. A alegação de existência de grupo econômico não retira o dever de comprovar a legitimidade dos gastos, não sendo possivel deduzir se tratar de operações de gestão. Incidência de juros, legalmente estabelecida, decorre da ilegitimidade das despesas. Apuração de haveres, em razão de liquidação, não é matéria afota à ação de prestação de contas. RECURSO NÃO PROVIDO (e-STJ fl. 1891).
+Embargos de Declaração: opostos por MOYSES FRIEDHEIM e ACIR PEREIRA, foram rejeitados.
+Recurso especial: alega violação dos arts. 489, § 1º, II e IV, 1.022, II, e parágrafo único, II, do CPC; 396 e 397 do CC. Além da negativa de prestação jurisdicional, afirma que não incidem juros de mora desde a citação porque a obrigação não era líquida e a credora não integra a lide. Aduz que, subsidiariamente, o termo inicial dos juros deve ser a data da sentença. Argumenta que os movimentos financeiros questionados consubstanciam atos de gestão empresarial, sem indícios de fraude ou desvio, com participação da recorrida.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação dos arts. 489 e 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, Terceira Turma, DJe de 2/2/2018 e AgInt no AREsp 1.089.677/AM, Quarta Turma, DJe de 16/2/2018.
+Os recorrentes sustentam negativa de prestação jurisdicional, afirmando omissões no acórdão quanto ao enfrentamento de pontos essenciais, inclusive sobre respostas a quesitos e esclarecimentos do laudo pericial, além da necessidade de análise específica de supostos atos de gestão empresarial; apontam, ainda, que o Tribunal limitou-se a adotar a sentença sem responder objetivamente às matérias suscitadas em apelação e embargos de declaração.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca de que após a sentença da primeira fase, incumbia aos réus comprovar a legitimidade das contas, ônus do qual não se desincumbiram. Ainda que se admitisse a existência de grupo empresarial  questão estranha ao objeto da ação  , tal circunstância não legitimaria transações injustificadas ou desprovidas de respaldo contábil. Ademais, a apuração de haveres não integra a finalidade da demanda, devendo ser realizada em via própria, razão pela qual não há omissão na sentença. (e-STJ fls. (e-STJ fls. 1892-1893)
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento, não havendo que se falar em violação dos arts. 489 e 1.022 do CPC.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos argumentos invocados pela parte agravante em seu recurso especial, de que é indevida a fixação do termo inicial dos juros de mora a partir da citação, a título de alegação de violação dos arts. 396 e 397 do CC, o que inviabiliza o seu julgamento. Aplica-se, na hipótese, a Súmula 282/STF.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 15% sobre o valor da causa (e-STJ fls. 1893) para 17%, observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL AÇÃO DE PRESTAÇÃO DE CONTAS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF.
+1. Ação de prestação de contas.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. A ausência de decisão acerca dos argumentos invocados pela parte agravante em suas razões recursais impede o conhecimento do recurso especial.
+5. Agravo conhecido. Recurso especial parcialmente conhecido e, nesta extensão, não provido.
