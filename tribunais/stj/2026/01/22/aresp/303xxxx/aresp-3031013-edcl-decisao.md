@@ -1,0 +1,25 @@
+DECISÃO
+Examinam-se embargos de declaração opostos por CONDOMÍNIO DO EDIFÍCIO JOAQUIM DE PAULA contra decisão unipessoal que conheceu do agravo para não conhecer do recurso especial, pelos seguintes fundamentos: i) reexame de matéria fático-probatória (Súmula 7/STJ); ii) não cabimento do pedido de redução do valor da compensação por danos morais; iii) falta de comprovação do dissídio jurisprudencial.
+Em suas razões recursais, a parte embargante alega omissões na decisão desta Corte Superior, no que diz respeito à matéria contida nos arts. 982 e 985 do CPC.
+Aponta, ainda, a nulidade do acórdão recorrido, por não ter reconhecido a modulação dos efeitos do Tema 47, visto que o embargante comprovou a instauração e o julgamento procedente de IRDR no TJ/MG, cuja observância implicaria a suspensão dos processos e a incidência da tese aos feitos com idêntica questão de direito.
+Requer, ainda, a aplicação dos efeitos do Tema 1.368/STJ, fixado no julgamento do REsp repetitivo 2.199.164 em 15/10/2025, para aplicar a Taxa SELIC como fator de juros e correção monetária às dívidas de natureza civil, por ser esta a taxa em vigor para a atualização monetária e da mora no pagamento de impostos devidos à Fazenda Nacional.
+Postula, ao final, o acolhimento dos embargos de declaração para sanar as omissões apontadas.
+É O BREVE RELATÓRIO.
+Nos termos do art. 1.022 do CPC, somente é cabível o recurso de embargos de declaração nas hipóteses em que haja obscuridade, contradição, omissão ou erro material no julgado impugnado.
+Não há omissão a ser sanada acerca da inaplicabilidade do Tema 47 do TJ/MG, pois a decisão desta Corte fundamentou que o Tribunal de origem declarou a preclusão da matéria, porque o agravante não interpôs agravo de instrumento contra a decisão que afastou a prescrição. É o que se extrai da seguinte fundamentação (e-STJ fl. 1767):
+ ..
+No tocante à alegação de inobservância, por esta turma julgadora, da modulação de efeitos estabelecida no âmbito do IRDR deste Tribunal de nº 1.0338.17.000435-6/003, tem-se que, anteriormente ao transito em julgado do incidente, o Superior Tribunal de Justiça já havia decidido, reiteradamente, ser cabível a interposição de agravo de instrumento em face da decisão interlocutória que decide sobre prescrição, com base no art. 1.015, II, do CPC.
+ ..
+Salienta-se, no ponto, o teor da decisão proferida pelo Superior Tribunal de Justiça, no sentido de que "havendo expressa previsão legal de cabimento do agravo de instrumento contra decisão interlocutória que versar sobre o mérito do processo, o que inclui, a teor do art. 487, inciso II, do CPC/2015, a questão relativa à ocorrência da prescrição, não há como afastar a ocorrência da preclusão consumativa na hipótese" (REsp n. 1.972.877/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 27/9/2022, DJe de 29/9/2022).
+Desta forma, conforme constou no acórdão embargado, havendo sido a matéria atinente à prescrição analisada e rejeitada pelo juízo de primeiro grau (doc. de ordem nº 57 do sequencial 002), bem como verificada a não interposição de recurso de agravo de instrumento em face da decisão interlocutória, a matéria se encontra preclusa, não podendo ser renovada a sua discussão em sede de apelação.
+O embargante invoca, ainda, a aplicação do tema 1368/STJ, para reconhecer a incidência da Taxa Selic, como índice de juros e de correção monetária sobre o débito devido.
+No entanto, esta pretensão foi apresentada, pela primeira vez, nos presentes embargos de declaração, não tendo sido suscitado anteriormente. O recurso especial tratou tão somente das matér ias relativas à prescrição, ilegitimidade passiva e ausência de comprovação de danos.
+Assim, a insurgência do embargante não comporta conhecimento, caracterizando-se como indevida inovação recursal, já que não constou das razões do recurso especial. Portanto,  com  a  configuração  da  inovação  recursal,  incide,  no  ponto,  a  preclusão,  de  forma  a  impedir  o  exame  da  questão.
+Nesse sentido: AgInt no REsp n. 1.923.813/SP, Terceira Turma, julgado em 9/9/2024, DJe de 11/9/2024; AgInt no REsp n. 2.063.074/PR, Terceira Turma, julgado em 2/9/2024, DJe de 6/9/2024; AgInt no AREsp n. 2.518.506/MT, Quarta Turma, julgado em 26/8/2024, DJe de 28/8/2024.
+Assim, dissociado o pleito de qualquer um dos pressupostos de oposição dos embargos de declaração, desautorizada está a pretensão declinada, impondo-se, então, a sua rejeição.
+Forte nessas razões, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. INEXISTÊNCIA. REDISCUSSÃO DE MATÉRIAS JÁ DECIDIDAS. IMPOSSIBILIDADE.
+1. Os embargos de declaração constituem-se em recurso de natureza integrativa destinado a sanar vícios - obscuridade, contradição, omissão ou erro material -, não podendo, portanto, ser acolhidos quando a parte embargante pretende, essencialmente, reformar o decidido.
+2. Embargos de declaração rejeitados.
