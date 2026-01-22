@@ -1,0 +1,24 @@
+DECISÃO
+Examina-se recurso especial interposto por SIBÉLIUS DONATO TENÓRIO, fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Recurso especial interposto em: 5/10/2021.
+Ação: de rescisão de contrato c/c compensação por danos morais, ajuizada por SIBÉLIUS DONATO TENÓRIO, em face de CARNEIRO AUTOMOTORES LTDA. e NISSAN DO BRASIL AUTOMÓVEIS LTDA., na qual requer a rescisão do contrato de compra e venda do veículo, a restituição de R$ 70.000,00 (setenta mil reais) e compensação por danos morais.
+Sentença: i) declarou extinto o processo quanto à requerida NISSAN DO BRASIL AUTOMÓVEIS LTDA., sem resolução do mérito; ii) julgou improcedentes os pedidos.
+Acórdão: deu provimento ao recurso de apelação interposto por SIBÉLIUS DONATO TENÓRIO, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL - AÇÃO ORDINÁRIA - IMPROCEDÊNCIA DO PEDIDO - IRRESIGNAÇÃO DO PROMOVENTE - PRELIMINAR DE IRREGULARIDADE FORMAL - RAZÕES RECURSAIS QUE ATACAM DEVIDAMENTE A SENTENÇA - RESPEITO AO ART. 1.010 DO CPC - RECURSO CONHECIDO - MÉRITO - VEÍCULO QUE SOFREU AQUECIMENTO E QUEBRA DA CAIXA DE CÂMBIO - NÃO REALIZADAS TODAS AS REVISÕES PELO CONSUMIDOR - CAUSA DO AQUECIMENTO - AUSÊNCIA DE MANUTENÇÃO DO VEÍCULO QUANTO AO FLUIDO DO RADIADOR E NÍVEL DE ÁGUA E ÓLEO - CONCLUSÃO PERICIAL - SEGUNDO VÍCIO - SITUAÇÃO DIVERSA - AUSÊNCIA DE USO INADEQUADO POR PARTE DO CONSUMIDOR - PROBLEMA MECÂNICO NÃO SANADO DENTRO DO PRAZO LEGAL - POSSIBILIDADE CONFERIDA POR LEI DE RESTITUIÇÃO DO VALOR PAGO COM ATUALIZAÇÃO MONETÁRIA - QUEBRA DE CONFIANÇA E PREJUÍZOS AO CONSUMIDOR - PRODUTO - VEÍCULO NOVO - DANO MORAL - ELEMENTOS EVIDENCIADOS - DESGASTE EMOCIONAL QUE SUPERA O MERO DISSABOR - PROCEDÊNCIA DOS PEDIDOS - PROVIMENTO DO RECURSO. (e-STJ fls. 667-668)
+Embargos de Declaração: opostos por CARNEIRO AUTOMOTORES LTDA., NISSAN DO BRASIL AUTOMÓVEIS LTDA. e SIBÉLIUS DONATO TENÓRIO, foram acolhidos parcialmente e acolhidos, respectivamente, para o fim de delimitar o valor a ser restituído em R$ 11.000,00 (onze mil reais), fixar INPC e juros a partir da citação, determinar a devolução do veículo livre de ônus à concessionária e estabelecer como termo inicial da correção monetária 2/9/2009.
+Recurso especial: alega violação dos arts. 18, § 1º, II, do CDC, e 884 do CC. Afirma que, não sanado o vício no prazo legal, é devida a restituição da quantia efetivamente paga pelo consumidor, comprovada por nota fiscal. Aduz que a fixação da devolução em R$ 11.000,00 (onze mil reais), com base em recibo de transferência, contraria a disciplina de proteção ao consumidor. Assevera que a redução do valor enseja enriquecimento sem causa da requerida, pois mantém o bem e devolve fração ínfima do preço.
+RELATADO O PROCESSO, DECIDE-SE.
+- Do reexame de fatos e provas
+Em suas razões, o recorrente alega que o entendimento do Tribunal de origem quanto ao valor a ser reembolsado pela compra do automóvel deve ser no montante de R$ 70.000,00 (setenta mil reais), valor este que ele alega que foi o que pagou, e não os R$ 11.000,00 (onze mil reais) fixados no acórdão recorrido.
+Sobre o tema, o Tribunal local, autoridade no exame de fatos e provas, assim decidiu:
+"O veículo foi comprado pelo autor da demanda contando com dois anos de uso, pelo valor de R$ 11.000,00, o qual é o valor que está provado nos autos, não sendo lícito que subsistam as suposições táticas levantadas pelo autor que, inclusive, se acolhidas, retirariam dele a legitimidade para figurar na ação, em que pese a estranheza numa análise da razoabilidade da venda (que, no sistema capitalista, sempre visa o lucro), já que se trata de um bem adquirido novo porR$ 70.000,00.
+Noutras palavras, para todos os efeitos jurídicos, o veículo pertencia à pessoa jurídica "Comércio de Alimentos do Gordo Ltda" e foi adquirido pelo autor, prevalecendo que a propriedade é de quem consta no recibo registrado no órgão de trânsito." (e-STJ Fl.725)
+Alterar o decidido no acórdão impugnado, no que se refere ao valor que foi efetivamente pago pelo recorrente pelo automóvel que ora se discute, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, NÃO CONHEÇO do recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 12% sobre o valor da condenação (e-STJ fls. 676) para 15%, observada eventual concessão da gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL C/C INDENIZAÇÃO POR DANOS MORAIS. REEXAME DE FATOS E PROVAS E/OU INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE.
+1. Ação de rescisão contratual cumulado com indenização por danos morais.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. Recurso especial não conhecido.
