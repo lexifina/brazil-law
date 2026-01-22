@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de Recurso Especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO, com fundamento no artigo 105, inciso III, alínea a, da Constituição Federal, contra acórdão proferido pela 12ª Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo que, em agravo em execução penal, deu provimento parcial ao recurso para desclassificar falta disciplinar de natureza grave para falta de natureza média, afastando as sanções de regressão ao regime fechado, perda de 1/3 dos dias remidos e interrupção do lapso temporal para progressão de regime.
+O recorrido Rúbio Oliveira Silva foi flagrado com tatuagens realizadas no interior do estabelecimento prisional, utilizando materiais artesanais, conduta que ensejou o reconhecimento de falta grave pelo Juízo de primeiro grau, com fundamento nos artigos 50, incisos III e VI, c/c artigo 39, incisos II e V, todos da Lei de Execução Penal (Lei nº 7.210/84).
+O Tribunal a quo reformou a decisão, entendendo que a conduta não caracterizaria falta grave por ausência de subversão da ordem e segurança prisional, desclassificando-a para falta de natureza média.
+O Ministério Público recorre alegando violação aos artigos 50, III e VI, da Lei de Execução Penal, sustentando que a realização de tatuagens em ambiente prisional caracteriza falta grave independentemente da comprovação de subversão concreta da ordem prisional.
+O parecer do Ministério Público Federal foi pelo provimento do recurso (fls. 148/153)
+É o breve relatório. Fu ndamento e decido.
+O recurso especial é tempestivo. O prequestionamento está configurado, uma vez que a matéria objeto da insurgência (artigos 50, III e VI, da Lei nº 7.210/84) foi expressamente debatida e decidida pelo acórdão recorrido, que fundamentou a desclassificação da falta disciplinar no entendimento de que tais dispositivos revelam casos de desobediência que levem à subversão da ordem interna do presídio, exigindo indícios concretos de tal subversão. Por fim, inexiste óbice jurisprudencial à admissão do recurso, pois a tese defendida pelo Ministério Público está em consonância com a jurisprudência consolidada desta Corte Superior, conforme se demonstrará adiante.
+Assim, admito o presente recurso especial por estarem preenchidos todos os requisitos de admissibilidade.
+O recurso merece provimento.
+A questão central consiste em definir se a realização de tatuagens em estabelecimento prisional configura falta disciplinar de natureza grave, nos termos dos artigos 50, III e VI, da Lei de Execução Penal, ou se é necessária a demonstração concreta de subversão da ordem e segurança prisional para tanto.
+Com efeito, a Lei de Execuções Penais estabelece em seu artigo 50, III, que comete falta grave o condenado que possuir, indevidamente, instrumento capaz de ofender a integridade física de outrem. O inciso VI do mesmo artigo prevê como falta grave inobservar os deveres previstos nos incisos II e V, do artigo 39, desta Lei destacando-se o dever de obediência ao servidor e respeito a qualquer pessoa com quem deva relacionar-se.
+A realização de tatuagens em ambiente prisional necessariamente pressupõe a utilização de instrumentos perfurantes (agulhas adaptadas) para aplicação subcutânea de pigmentos. Tais instrumentos, pela sua própria natureza, são capazes de ofender a integridade física, subsumindo-se perfeitamente ao tipo legal previsto no artigo 50, III, da LEP.
+A lei não exige, para a caracterização da falta grave, a demonstração do propósito de utilizar o instrumento para lesionar terceiros. Basta a posse indevida de objeto apto a ofender a integridade física. Mesmo nos casos em que o instrumento foi utilizado por outro preso para realização da tatuagem, aquele que se submete ao procedimento concorre para a utilização e posse do artefato proibido.
+Ademais, resta configurada a violação ao artigo 50, VI, da LEP, pois o recorrido foi expressamente advertido pela administração penitenciária, ao ingressar na unidade prisional, sobre a proibição de realizar tatuagens em si mesmo e em terceiros. A desobediência a essa determinação caracteriza inequívoca violação ao dever de obediência ao servidor previsto no artigo 39, II, da LEP.
+O acórdão recorrido, ao exigir a demonstração de indícios concretos de subversão da ordem prisional e ao afastar a tipificação da falta grave sob o fundamento de que as tatuagens não aparentam representar conteúdo atentatório às normas prisionais, agregou requisitos não previstos em lei, violando frontalmente a literalidade dos artigos 50, III e VI, da Lei nº 7.210/84.
+A jurisprudência desta Corte Superior é pacífica no sentido de que a realização de tatuagens em ambiente prisional configura falta disciplinar de natureza grave, independentemente da demonstração de efetiva subversão da ordem ou de intenção lesiva.
+Nesse sentido, o recente julgado da Quinta Turma no AgRg no HC nº 939.127/SP (Rel. Min. Messod Azulay Neto, DJe 17/2/2025), que estabeleceu a seguinte tese de julgamento:
+DIREITO PENAL. AGRAVO REGIMENTAL. EXECUÇÃO PENAL. FALTA GRAVE. REALIZAÇÃO DE TATUAGENS EM AMBIENTE PRISIONAL. AGRAVO NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que indeferiu liminarmente habeas corpus, mantendo a caracterização de falta grave por realização de tatuagens e posse de máquina artesanal em ambiente prisional, conforme artigos 50, incisos III e VI, e 39, incisos II e V, da Lei de Execução Penal.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a realização de tatuagens e a posse de máquina artesanal em ambiente prisional configuram falta grave, conforme a Lei de Execução Penal, ou se a conduta deve ser desclassificada para falta média.
+III. Razões de decidir
+3. As instâncias ordinárias concluíram que a conduta do agravante configura falta grave, com base na análise das provas e no devido procedimento administrativo disciplinar.
+4. A realização de tatuagens e a posse de máquina artesanal em ambiente prisional violam as normas de segurança e disciplina, justificando a tipificação como falta grave.
+5. A jurisprudência do STJ corrobora a tipificação da conduta como falta grave, considerando o potencial de desordem e risco à integridade física no ambiente prisional.
+6. A revisão da decisão demandaria reexame de provas, o que é inviável na via estreita do habeas corpus ou do agravo regimental.
+IV. Dispositivo e tese
+7. Agravo regimental não provido.
+Tese de julgamento: "1. A realização de tatuagens e a posse de máquina artesanal em ambiente prisional configuram falta grave, conforme a Lei de Execução Penal. 2. A revisão de decisão que tipifica a conduta como falta grave demanda reexame de provas, inviável na via do habeas corpus ou do agravo regimental."
+Dispositivos relevantes citados: LEP, art. 50, III e VI; art. 39, II e V. Jurisprudência relevante citada: STJ, AgRg no HC 521.858/SP, Rel. Min. Rogerio Schietti Cruz, DJe de 29/10/2019; STJ, AgRg no HC 725.349/SP, Rel. Min. Reynaldo Soares da Fonseca, DJe de 14/3/2022.
+(AgRg no HC n. 939.127/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 12/2/2025, DJEN de 17/2/2025.)
+No mesmo sentido, a Sexta Turma firmou entendimento:
+HABEAS CORPUS. FALTA GRAVE. TATUAGEM EFETIVADA NO INTERIOR DO ESTABELECIMENTO PRISIONAL. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. PRECEDENTES DESTA CORTE.
+Ordem denegada.
+(HC n. 974.769/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 30/4/2025, DJEN de 7/5/2025.)
+A orientação consolidada desta Corte reconhece que a proibição de tatuagens em ambiente prisional decorre de razões de segurança, disciplina e saúde. A utilização de instrumentos artesanais perfurantes representa risco concreto à integridade física dos internos (pela natureza lesiva dos instrumentos e pelas condições insalubres de confecção), além de violar frontalmente as normas disciplinares do estabelecimento prisional.
+O acórdão recorrido, ao desclassificar a falta para natureza média, divergiu manifestamente da jurisprudência pacífica deste Superior Tribunal de Justiça, incorrendo em violação aos artigos 50, III e VI, da Lei nº 7.210/84.
+Tal interpretação contraria a literalidade dos dispositivos legais. O artigo 50, III, da LEP tipifica como falta grave a mera posse indevida de instrumento capaz de ofender a integridade física, sem condicionar sua configuração à demonstração de efetiva utilização lesiva ou de intenção de causar dano.
+Quanto ao inciso VI do artigo 50, este sanciona a desobediência aos deveres previstos no artigo 39, II e V, dentre os quais se destaca a obediência ao servidor. A advertência expressa da administração penitenciária sobre a proibição de tatuagens, somada à confissão do recorrido de que tinha conhecimento dessa proibição (fl. 34 dos autos de origem), configura inequívoca desobediência, independentemente de qualquer resultado lesivo.
+A legislação de execução penal adota um sistema de tipificação objetiva das faltas disciplinares. A exigência de demonstração de subversão concreta, como pretendeu o acórdão recorrido, equivale a criar requisito não previsto em lei, violando o princípio da legalidade e esvaziando a eficácia da norma disciplinar.
+Ademais, a simples existência de instrumentos perfurantes em ambiente prisional já representa, por si só, potencial lesivo à ordem e à segurança do estabelecimento, independentemente da verificação de dano efetivo. A prevenção é elemento essencial do sistema disciplinar prisional.
+Ante o exposto, na forma da Súmula n. 568/STJ, dou provimento ao recurso especial, para restabelecer a decisão de primeiro grau que reconheceu a prática de falta disciplinar de natureza grave pelo reeducando Rúbio Oliveira Silva, com fundamento nos artigos 50, III e VI, c/c artigo 39, II e V, da Lei nº 7.210/84, determinando:
+a) regressão ao regime fechado;
+b) perda de 1/3 (um terço) dos dias remidos;
+c) interrupção do lapso temporal para progressão de regime.
+Publique-se. Intimem-se.
+EMENTA
