@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de conflito negativo de competência, de fls. 136/139, instaurado pelo JUÍZO DE DIREITO DA VARA DE EXECUÇÕES PENAIS DO DISTRITO FEDERAL - DF, o suscitante, o qual aponta o JUÍZO DE DIREITO DA VARA DE EXECUÇÃO PENAL MEIO FECHADO E SEMIABERTO DE PATOS DE MINAS - MG como suscitado, para fins da execução penal do interessado, CLAUDIO MOREIRA DE SANTANA, em razão do cumprimento de Mandado de Prisão referente ao Processo n. 0757534-12.2025.8.07.0001.
+O suscitante discorda do suscitado, que determinou a transferência da execução para o Juízo da Execução Penal da Comarca de Brasília/DF ao ser informado que o sentenciado foi transferido para a Penitenciária de Brasília/DF, invocando a Portaria Conjunta 344/2014 do TJMG, que estabelece como competente o Juízo do local em que o sentenciado estiver recolhido (fl. 123).
+Segundo o suscitante, inexiste ordem de segregação, execução ou condenação criminal no âmbito da justiça do Distrito Federal e Territórios. Acresce que a transferência ocorreu sem prévia consulta, preconizada no art. 4º, §§ 1º e 2º, da Resolução n. 404/2021 do Conselho Nacional de Justiça.
+Requer seja declarada a competência do juízo suscitado, com designação do juízo suscitado para a solução das questões urgentes.
+Em decisão de fls. 159/161, designei o suscitado para decidir, em caráter provisório, as medidas urgentes, com determinação de vista ao Ministério Público Federal.
+O MPF opinou pelo reconhecimento da competência do suscitado.
+É o relatório.
+Decido.
+De início, não vislumbro óbice ao conhecimento do conflito, estando preenchida a hipótese do art. 105, I, "d", in fine, da Constituição Federal - CF/88.
+Tratando-se de execução penal, a divergência nos autos está relacionada com a competência em razão do cumprimento, no Distrito Federal, de mandado de prisão expedido no Estado de Minas Gerais.
+O suscitado determinou a remessa da execução penal em razão do recolhimento do interessado em Penitenciária de Brasília/DF.
+De plano, registra-se que o suscitante não possui informação de que o interessado possua qualquer ordem de segregação expedida pela Justiça do DF.
+Logo, considerando que o recolhimento do interessado em Penitenciária de Brasília/DF decorreu de mero cumprimento no DF de mandado de prisão expedido pela Justiça de MG, não há alteração na competência do juízo da execução. No mesmo sentido, precedente:
+AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. INCIDENTE INSTAURADO ENTRE JUÍZO DE DIREITO DA VARA DE EXECUÇÕES PENAIS E CORREGEDORIA DOS PRESÍDIOS DE CASCAVEL/PR E O JUÍZO DE DIREITO DA UNIDADE REGIONAL DE DEPARTAMENTOS ESTADUAL DE EXECUÇÃO CRIMINAL DEECRIM 2ª RAJ DE ARAÇATUBA/SP. RECURSO INTERPOSTO PELO INTRESSADO. LEGITIMIDADE. EXECUÇÃO PENAL. COMPETÊNCIA DO JUÍZO DA CONDENAÇÃO. ART. 65 DA LEI DE EXECUÇÃO PENAL. TRANSFERÊNCIA CONDICIONADA À CONSULTA PRÉVIA SOBRE EXISTÊNCIA DE VAGAS NO SISTEMA PRISIONAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Tendo em vista que o apenado, na qualidade de interessado, pode interpor conflito de competência (art. 115, I, do Código de Processo Penal - CPP e art. 195 do Regimento Interno do Superior Tribunal de Justiça - RISTJ), por decorrência lógica possui legitimidade para interpor o presente agravo regimental. Precedentes: AgRg no CC n. 182.880/BA, de minha relatoria, Terceira Seção, DJe de 27/6/2022;
+AgRg no CC 150.024/DF, Rel. Ministro Antônio Saldanha Palheiro, Terceira Seção, DJe 13/11/2017 e AgRg no CC 143.256/RO, Rel. Ministro Rogerio Schietti Cruz, Terceira Seção, DJe 17/6/2016.
+2. Em se tratando de pena privativa de liberdade, o simples fato de o condenado ter sido preso em Comarca diversa, em cumprimento a mandado de prisão expedido pelo Juiz prolator da sentença penal condenatória, não constitui causa legal de deslocamento de competência originária para a execução da pena.
+3. Ademais, este Sodalício firmou a compreensão de que "a transferência da execução da pena não pode ser determinada de maneira unilateral: é necessária a prévia consulta ao juízo para o qual o sentenciado pretende ser transferido, notadamente a fim de se verificar a disponibilidade de vagas ou de condições adequadas para o cumprimento da reprimenda no sistema prisional local" (AgRg no CC n. 189.921/SC, relator Ministro Rogerio Schietti Cruz, Terceira Seção, DJe de 21/9/2022).
+4. Agravo regimental não provido.
+(AgRg no CC n. 206.855/PR, relator Ministro Joel Ilan Paciornik, Terceira Seção, julgado em 12/3/2025, DJEN de 18/3/2025.)
+Como bem observado no parecer ministerial:
+"Como ficou claro, a hipótese dos autos versa, justamente, sobre transferência unilateral, absolutamente despida de prévia consulta ao juízo de destino. Logo, merece acolhimento a tese do juízo suscitante.
+Com efeito, como visto, nem mesmo o fato de o apenado vir a ser preso em comarca diversa da condenação tem o condão de alterar a competência. E isso vale também para casos em que o apenado já esteja, ao tempo da condenação, preso em local diverso do juízo que impôs a reprimenda.
+Nas palavras desta Corte Superior, " o  simples fato de o condenado estar preso em Comarca diversa daquela competente para a execução da sentença, em cumprimento de mandado de prisão preventiva expedido por um terceiro Juízo, não constitui causa legal de deslocamento da competência originária para a execução da pena. Precedentes" (STJ, CC n. 148.926/RS, rel. Min. Reynaldo Soares da Fonseca, Terceira Seção, julgado em 28/9/2016, D Je de 27/10/2016)." (fls. 175/176).
+Diante do exposto, com fulcro no art. 34, XXII, do RISTJ, conheço do conflito para declarar competente o JUÍZO DE DIREITO DA VARA DE EXECUÇÃO PENAL MEIO FECHADO E SEMIABERTO DE PATOS DE MINAS - MG, o suscitado.
+Publique-se. Intimem-se.
+EMENTA
