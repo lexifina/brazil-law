@@ -1,0 +1,47 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por FRANCISCO WILSON ALMEIDA PIRAJÁ JÚNIOR e ROSSANA GOMES SCALASSARA PIRAJÁ contra decisão que inadmitiu recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional..
+Agravo em recurso especial interposto em: 3/9/2025.
+Concluso ao gabinete em: 12/1/2026.
+Ação: embargos à execução, ajuizados pelos agravantes, em face de RURAL BRASIL LTDA., nos quais requerem a extinção da execução fundada em Cédula de Produto Rural (CPR) por desvio de finalidade, com reconhecimento de excesso de execução e de onerosidade excessiva.
+Sentença: julgou parcialmente procedentes os pedidos, para: i) reconhecer o excesso de execução de 2.753,46 sacas de soja, sendo devida a quantia de 76.793,68 sacas de soja; ii) corrigir o valor atribuído à execução para R$ 12.901.338,82 (doze milhões, novecentos e um mil, trezentos e trinta e oito reais e oitenta e dois centavos), devendo a agravada providenciar o recolhimento das custas complementares; iii) corrigir o valor dos embargos para R$ 12.901.338,82 (doze milhões, novecentos e um mil, trezentos e trinta e oito reais e oitenta e dois centavos).
+Acórdão: negou provimento ao recurso de apelação interposto pelos agravantes, nos termos da seguinte ementa:
+DIREITO PROCESSUAL CIVIL. APELAÇÃO. EMBARGOS À EXECUÇÃO. CÉDULA DE PRODUTO RURAL (CPR). DESVIO DE FINALIDADE. TEORIA DA IMPREVISÃO. ONEROSIDADE EXCESSIVA. EXCESSO DE EXECUÇÃO. RECURSO IMPROVIDO.
+I. CASO EM EXAME
+1. Trata-se de Apelação interposta contra Sentença que julgou improcedentes os Embargos à Execução, mantendo a Execução baseada em Cédula de Produto Rural. Os Embargantes alegam nulidade da Sentença por cerceamento de defesa, desvio de finalidade na emissão da CPR, nulidade da Execução por descumprimento contratual, aplicação das teorias da imprevisão e da onerosidade excessiva em razão de chuvas excessivas, e excesso de execução.
+II. QUESTÃO EM DISCUSSÃO
+2. As questões em discussão são: (i) se houve cerceamento de defesa; (ii) se ocorreu desvio de finalidade na emissão da CPR; (iii) se a execução é nula por descumprimento contratual; (iv) se são aplicáveis as teorias da imprevisão e da onerosidade excessiva; e (v) se houve excesso de execução.
+III. RAZÕES DE DECIDIR
+3. Não houve cerceamento de defesa, pois o julgamento se baseou em provas documentais, sendo desnecessária a prova pericial e testemunhal. A alegação de vício de consentimento na emissão da CPR é afastada pela celebração de outros contratos similares.
+4. Não houve desvio de finalidade na emissão da CPR, pois este é título não causal e a jurisprudência do STJ admite sua utilização para quitar dívidas anteriores. O alegado descumprimento contratual não foi comprovado documentalmente pelos Apelantes. A imprevisibilidade de eventos climáticos e a onerosidade excessiva não se configuram, pois os riscos climáticos são inerentes à atividade agrícola.
+5. A alegação de excesso de execução também não prospera, uma vez que não houve comprovação da entrega de produtos em desacordo com o contrato, tampouco demonstração de que o valor da CPR excedeu o financiamento da lavoura.
+IV. DISPOSITIVO E TESE
+5. Recurso improvido. Manutenção da Sentença. Majoração dos honorários sucumbenciais para 12% do valor da causa.
+"1. O cerceamento de defesa não se configura quando o julgamento se baseia em provas documentais suficientes. 2. A emissão de CPR para quitar dívidas anteriores não configura desvio de finalidade. 3. Riscos climáticos inerentes à atividade agrícola impedem a aplicação das teorias da imprevisão e da onerosidade excessiva. 4. A falta de prova documental do descumprimento contratual e do excesso de execução inviabiliza tais alegações."
+Dispositivos relevantes citados: CPC, art. 487, I; art. 85, § 2º, § 11, art. 86, p.u.; art. 98, § 3º; Código Civil, art. 478; art. 360, I.
+Jurisprudências relevantes citadas: STJ, AgInt no AgInt no AREsp n. 1.396.391/GO; AgInt no AREsp n. 946.792/PR; AgInt no AREsp n. 1.027.435/GO; TJGO; AC 5311717-20.2021.8.09.0087.
+Como citar este Acórdão: TJGO. Recurso de Apelação n. 5343836- 45.2023.8.09.0093. 2ª Câmara Cível. Relator Denival Francisco da Silva, Juiz Substituto em 2º Grau (em substituição ao Des. Reinaldo Alves Ferreira). Sessão Virtual iniciada em 02/06/2025 e encerrada em 06/06/2025. Publicação s/d. (e-STJ fls. 524-525)
+Recurso especial: alegam violação dos arts. 4º da Lei 8.929/94, 458, 476 e 478 do CC, 86, parágrafo único, do CPC, e 5º, XXXV e LV, da CF, bem como dissídio jurisprudencial. Afirmam que a CPR foi emitida com desvio de finalidade para garantir dívidas pretéritas, sendo inválida como título exigível e permitindo a discussão da causa debendi. Aduzem que eventos climáticos extremos impuseram onerosidade excessiva, autorizando resolução ou adaptação da avença para preservar o equilíbrio contratual. Argumentam que, reconhecido excesso de execução relevante, a distribuição dos ônus sucumbenciais deve observar a causalidade, com condenação integral da requerida, ou, ao menos, sucumbência recíproca. Asseveram que houve cerceamento de defesa pelo julgamento antecipado com indeferimento de provas essenciais.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação de dispositivo constitucional
+Os agravantes alegam violação do art. 5º, XXXV e LV, da CF. Entretanto, a interposição de recurso especial não é cabível quando ocorre violação de súmula, de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 4º da Lei 8.929/94 e 458 e 476 do CC, indicados como violados, não tendo a parte agravante oposto embargos de declaração com vistas a suprir eventual omissão perpetrada pelo Tribunal de origem.
+Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 282/STF.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à inexistência de cerceamento de defesa, à ausência de onerosidade excessiva e à distribuição da sucumbência, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da Súmula 568/STJ
+Ao concluir pela ausência de desvio de finalidade na emissão do título e pela não ocorrência de onerosidade excessiva do contrato, o TJ/GO aplicou corretamente a jurisprudência do STJ no sentido de que: i) a emissão de cédula de crédito rural para quitar débitos anteriores do emitente não nulifica a cártula como título executivo, não havendo que se falar em desvio de finalidade (AgInt no AREsp n. 946.792/PR, Quarta Turma, DJe de 2/6/2017; e AgRg no Ag n. 1.081.023/SP, Terceira Turma, DJe de 12/2/2009); e ii) nos contratos agrícolas, o risco é inerente ao negócio, de forma que eventos como seca, pragas, ou estiagem, entre outros, não são considerados fatores imprevisíveis ou extraordinários, que autorizem a adoção da teoria da imprevisão (AgInt no AREsp n. 2.169.148/GO, Terceira Turma, DJe de 16/2/2023; AgRg no AREsp n. 155.702/MS, Quarta Turma, DJe de 27/6/2013; e REsp n. 783.404/GO, Terceira Turma, DJ de 13/8/2007).
+Logo, o recurso especial não merece provimento, nos termos da Súmula 568/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 12% sobre o valor da causa (e-STJ fl. 535) para 15%, observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. DESCABIMENTO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. CÉDULA DE PRODUTO RURAL EMITIDA PARA QUITAR DÉBITOS ANTERIORES. DESVIO DE FINALIDADE. NÃO OCORRÊNCIA. CONTRATOS AGRÍCOLAS. INTEMPÉRIES CLIMÁTICAS. CIRCUNSTÂNCIA PREVISÍVEL. ONEROSIDADE EXCESSIVA. INEXISTÊNCIA. TEORIA DA IMPREVISÃO. INAPLICABILIDADE. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+1. Embargos à execução.
+2. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. A emissão de cédula de crédito rural para quitar débitos anteriores do emitente não nulifica a cártula como título executivo, não havendo que se falar em desvio de finalidade. Precedentes.
+6. Nos contratos agrícolas, o risco é inerente ao negócio, de forma que eventos como seca, pragas, ou estiagem, entre outros, não são considerados fatores imprevisíveis ou extraordinários, que autorizem a adoção da teoria da imprevisão. Precedentes.
+7. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
