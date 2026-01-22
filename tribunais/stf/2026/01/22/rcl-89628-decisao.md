@@ -1,0 +1,78 @@
+DECISÃO
+
+Trata-se de reclamação, com pedido liminar, proposta pelo ESTADO DO ACRE, em face da decisão proferida pela 5ª Turma do Tribunal Superior do Trabalho, nos autos do processo n. 0000241-56.2019.5.14.0401, por suposta afronta às decisões proferidas na ADC n. 16 e nos Recursos Extraordinários n. 760.931 (Tema n. 246 - RG) e n. 1.298.647 (Tema n. 1.118 - RG).
+
+A decisão reclamada condenou subsidiariamente o ente público ao pagamento de verbas trabalhistas de trabalhadora terceirizada.
+
+O reclamante narra que a sentença de 1º grau reconheceu a responsabilidade subsidiária do Ente público, a qual foi mantida pela 2ª Turma do Tribunal Regional do Trabalho da 14ª Região (e-doc. 3).
+
+Afirma que interpôs Recurso de Revista, ao qual foi negado seguimento e, em face dessa decisão, interpôs Agravo de Instrumento, que também teve seguimento negado (e-doc. 6). Opostos embargos declaratórios, foram rejeitados (e-doc. 7).
+
+Após negativa de seguimento ao Recurso Extraordinário, o reclamante interpôs Agravo, ao qual foi negado provimento (e-doc. 4).
+
+O reclamante afirma argumenta que a decisão reclamada concluiu pela responsabilidade subsidiária do Estado do Acre, por meio de mera presunção de culpa, pelo fato do “ente público não ter se desincumbido do ônus de provar o cumprimento do seu dever de fiscalização, assim como pelo fato de que o simples inadimplemento da empresa contratada já é motivo para responsabilizar a administração pública pela culpa in vigilando, o que permitiria concluir que a Fazenda não foi criteriosa em todo o processo que culminou com a contratação da empresa prestadora de serviços.” (fl. 7, e-doc. 1)
+
+Aduz que “o acordão reclamado, ao inverter o ônus da prova, viola os Temas 246 e 1118 e a ADC 16.“ (fl. 11, e-doc. 1).
+
+Com base nesses fundamentos, requer, liminarmente, a suspensão da decisão reclamada, a fim de evitar a execução do julgado, e, no mérito, a procedência da reclamação, a fim de que seja cassada a decisão reclamada, excluindo a responsabilidade subsidiária do Estado do Acre.
+
+É o relatório. Decido.
+
+Dispenso a remessa dos autos à Procuradoria-Geral da República, por entender que o processo já está em condições de julgamento (RISTF, art. 52, parágrafo único).
+
+Nos termos do parágrafo único do art. 161 do Regimento Interno do Supremo Tribunal Federal (RISTF), “o Relator poderá julgar a reclamação quando a matéria for objeto de jurisprudência consolidada do Tribunal”. É o caso dos autos.
+
+A controvérsia objeto desta reclamação constitucional consiste na suposta afronta pelo Juízo reclamado ao quanto decidido por esta Suprema Corte no julgamento da ADC nº 16 e nos Recursos Extraordinários nº 760.931 (Tema n. 246 - RG) e 1.298.647 (Tema n. 1.118 - RG).
+
+No Recurso Extraordinário nº 760.931, firmou-se a seguinte tese de repercussão geral:
+
+Tema 246 - RG: “O inadimplemento dos encargos trabalhistas dos empregados do contratado não transfere automaticamente ao Poder Público contratante a responsabilidade pelo seu pagamento, seja em caráter solidário ou subsidiário, nos termos do art. 71, § 1º, da Lei nº 8.666/93.”
+
+Por sua vez, a tese firmada no Tema 1.118 estabelece que:
+
+“1. Não há responsabilidade subsidiária da Administração Pública por encargos trabalhistas gerados pelo inadimplemento de empresa prestadora de serviços contratada, se amparada exclusivamente na premissa da inversão do ônus da prova, remanescendo imprescindível a comprovação, pela parte autora, da efetiva existência de comportamento negligente ou nexo de causalidade entre o dano por ela invocado e a conduta comissiva ou omissiva do poder público. 2. Haverá comportamento negligente quando a Administração Pública permanecer inerte após o recebimento de notificação formal de que a empresa contratada está descumprindo suas obrigações trabalhistas, enviada pelo trabalhador, sindicato, Ministério do Trabalho, Ministério Público, Defensoria Pública ou outro meio idôneo. 3. Constitui responsabilidade da Administração Pública garantir as condições de segurança, higiene e salubridade dos trabalhadores, quando o trabalho for realizado em suas dependências ou local previamente convencionado em contrato, nos termos do art. 5º-A, § 3º, da Lei nº 6.019/1974. 4. Nos contratos de terceirização, a Administração Pública deverá: (i) exigir da contratada a comprovação de capital social integralizado compatível com o número de empregados, na forma do art. 4º-B da Lei nº 6.019/1974; e (ii) adotar medidas para assegurar o cumprimento das obrigações trabalhistas pela contratada, na forma do art. 121, § 3º, da Lei nº 14.133/2021, tais como condicionar o pagamento à comprovação de quitação das obrigações trabalhistas do mês anterior.”
+
+No julgamento da ADC n. 16, o Supremo Tribunal Federal declarou a constitucionalidade de dispositivo da antiga Lei de Licitações (Lei n. 8.666/93) que expressamente afastava a possibilidade de transferência ao Poder Público da responsabilidade pelo adimplemento de verbas trabalhistas devidas por empresa contratada a seus empregados (art. 71, §1º) Transcrevo a ementa do julgado:
+
+“RESPONSABILIDADE CONTRATUAL. Subsidiária. Contrato com a administração pública. Inadimplência negocial do outro contraente. Transferência consequente e automática dos seus encargos trabalhistas, fiscais e comerciais, resultantes da execução do contrato, à administração. Impossibilidade jurídica. Consequência proibida pelo art. 71, § 1º, da Lei federal nº 8.666/93. Constitucionalidade reconhecida dessa norma. Ação direta de constitucionalidade julgada, nesse sentido, procedente. Voto vencido. É constitucional a norma inscrita no art. 71, § 1º, da Lei federal nº 8.666, de 26 de junho de 1993, com a redação dada pela Lei nº 9.032, de 1995. (ADC n. 16, Tribunal Pleno, Rel. Min. Cezar Peluso, DJe 09/09/2011).”
+
+No presente caso, a decisão reclamada manteve a responsabilidade do ente público com base nas seguintes razões  (e-doc. 6):
+
+O recurso de revista teve seu processamento denegado no âmbito do Tribunal Regional pelos seguintes fundamentos:
+“Responsabilidade Solidária / Subsidiária / Tomador de Serviços / Terceirização / Ente Público
+[...]
+O acórdão recorrido decidiu em sintonia com a Súmula n. 331 do TST, o que inviabiliza o seguimento do recurso de revista, inclusive por dissenso jurisprudencial (Súmula n. 333/TST), conforme a seguinte transcrição (Id. 1c47eb0):
+ "RESPONSABILIDADE SUBSIDIÁRIA DA ADMINISTRAÇÃO PÚBLICA. DECLARAÇÃO DE CONSTITUCIONALIDADE DO ART. 71, § 1º, DA LEI Nº 8.666/93. ADC Nº 16. TESE DE REPERCUSSÃO GERAL FIXADA NO RE 760.931/DF. SÚMULA Nº 331 DO TST. COMPATIBILIDADE ENTRE AMBOS. A Súmula nº 331, itens IV e V, do TST disciplina a responsabilidade subsidiária do ente público, tomador de serviços terceirizados, quando demonstrada a inobservância do seu dever de fiscalização do contrato administrativo firmado com a prestadora de serviços, tomando-se como premissa o dever legal dos atores contratuais de implementar medidas que impeçam lesão ou ameaça a direito. A declaração de constitucionalidade do art. 71, § 1º, da Lei nº 8.666/93, no julgamento da ADC nº 16, pelo STF, e reafirmada na tese de repercussão geral fixada no julgamento do RE nº 760.931/DF, não exclui a conclusão sumular ou mesmo as premissas que a fundamentam, revelando, em verdade, harmonia entre ambas. SÚMULA Nº 331 DO TST. ALCANCE. A declaração de responsabilidade subsidiária do tomador de serviços implica no pagamento da totalidade dos créditos destinados ao trabalhador, inclusive as multas e indenizações de ordem material e moral por ventura deferidas."
+Dessa forma, nego seguimento a este apelo de natureza extraordinária, em virtude do disposto na Súmula n. 333 do TST.
+[...]
+(...)
+Tendo em vista que o acórdão regional está fundado na ausência de demonstração pelo ente da Administração Pública da fiscalização do contrato de prestação de serviços, matéria infraconstitucional em que o Supremo Tribunal Federal não fixou tese no exame do RE 760.931/DF, segundo o entendimento da SBDI-1 do TST, impõe-se o não provimento do agravo de instrumento, com ressalva de entendimento deste Relator.
+Nego provimento.
+ISTO POSTO ACORDAM os Ministros da Quinta Turma do Tribunal Superior do Trabalho, por unanimidade, conhecer do agravo de instrumento e, no mérito, negar-lhe provimento.
+
+Transcrevo a ementa da decisão reclamada (e-doc. 6 – grifos nossos):
+
+AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA. APELO SUBMETIDO À LEI Nº 13.467/2017. TRANSCENDÊNCIA JURÍDICA. EXISTÊNCIA. RESPONSABILIDADE SUBSIDIÁRIA. TEMA DE REPERCUSSÃO GERAL Nº 246 DO STF. ADMINISTRAÇÃO PÚBLICA. CULPA IN VIGILANDO. COMPROVAÇÃO. ÔNUS DA PROVA. 1. Considerando a controvérsia jurisprudencial acerca de a qual parte do processo incumbe o ônus da prova sobre a culpa da Administração Pública na fiscalização do cumprimento das obrigações trabalhistas devidas pela empresa prestadora de serviços contratada, reconheço a transcendência jurídica da questão. 2. O Supremo Tribunal Federal, ao julgar o precedente vinculante constituído pelo Tema 246 da Repercussão Geral (RE nº 760.931/DF), fixou a tese jurídica segundo a qual “o inadimplemento dos encargos trabalhistas dos empregados do contratado não transfere automaticamente ao Poder Público contratante a responsabilidade pelo seu pagamento, seja em caráter solidário ou subsidiário, nos termos do art. 71, § 1º, da Lei nº 8.666/93.” 3. Com isso, o Pretório Excelso deixou claro que a dicção do art. 71, § 1º, da Lei nº 8.666/1993, apesar de constitucional, como delimitado por ocasião do julgamento da ADC nº 16, não representa o afastamento total da responsabilidade civil do Estado em contratos de terceirização, mas, ao revés, indica a existência de tal responsabilidade em caso de haver elementos de comprovação da culpa do ente público pelo inadimplemento dos encargos trabalhistas da empresa terceirizada. 4. A Subseção I Especializada em Dissídios Individuais desta Corte, em sua Composição Plena, em sessão realizada em 12/12/2019, por ocasião do julgamento do Processo TST-E-RR-925-07.2016.5.05.0281, da Relatoria do Exmo. Ministro Cláudio Brandão, em avaliação da tese firmada pelo Supremo Tribunal Federal nos autos do Recurso Extraordinário nº 760.931/DF, concluiu que a matéria pertinente ao ônus da prova não foi definida pela Suprema Corte, ao fixar o alcance do Tema 246, firmando que é do Poder Público o ônus de demonstrar que fiscalizou de forma adequada o contrato de prestação de serviços. 5. Tendo em vista que o acórdão regional está fundado na ausência de demonstração pelo ente da Administração Pública da fiscalização do contrato de prestação de serviços, matéria infraconstitucional em que o Supremo Tribunal Federal não fixou tese no exame do RE 760.931/DF, segundo o entendimento da SBDI-1 do TST, impõe-se o não provimento do agravo de instrumento, com ressalva de entendimento deste Relator. Agravo de instrumento conhecido e não provido.
+
+A controvérsia apresentada na presente reclamação não demanda reexame do conjunto fático-probatório dos autos, mas sim a adequada subsunção das premissas fáticas já reconhecidas pelo Tribunal Regional do Trabalho aos parâmetros jurídicos fixados por esta Suprema Corte nos julgamentos do RE 760.931/DF (Tema 246), da ADC 16/DF e do RE 1.298.647 (Tema 1.118), que tratam da responsabilidade subsidiária da Administração Pública em contratos de terceirização.
+
+O ato reclamado limitou-se a alegar que o ente público não logrou êxito em comprovar a fiscalização adequada do contrato de prestação de serviços. Tais premissas, contudo, não evidenciam concretamente falha na fiscalização contratual que justifique a responsabilização subsidiária do ente estatal.
+
+A referência genérica à suposta ausência de fiscalização, desacompanhada da indicação de condutas específicas, falhas concretas ou elementos objetivos que evidenciem omissão qualificada do ente público, revela-se insuficiente para caracterizar a culpa exigida pela jurisprudência consolidada desta Corte.
+
+Tal fundamentação configura transferência automática da responsabilidade ao Poder Público, o que foi expressamente vedado por este Supremo Tribunal, tanto na ADC 16, quanto nos Temas 246 e 1118 da Repercussão Geral. Nesse sentido:
+
+“DIREITO CONSTITUCIONAL, PROCESSUAL CIVIL E DO TRABALHO. AGRAVO REGIMENTAL NA RECLAMAÇÃO. TERCEIRIZAÇÃO. RESPONSABILIDADE SUBSIDIÁRIA DA ADMINISTRAÇÃO PÚBLICA. ART. 71, § 1º, DA LEI 8.666/93. CONSTITUCIONALIDADE. ADC 16. TEMAS 246 E 1.118 DA REPERCUSSÃO GERAL. CONDENAÇÃO SUBUSIDIÁRIA DO ENTE PÚBLICO. AUSÊNCIA DE COMPROVAÇÃO DE COMPORTAMENTO NEGLIGENTE DA ADMINISTRAÇÃO PÚBLICA. RECLAMAÇÃO PROCEDENTE PARA AFASTAR A RESPONSABILIDADE SUBSIDIÁRIA DA PARTE RECLAMANTE. AGRAVO INTERNO PROVIDO. O Plenário do Supremo Tribunal Federal, no julgamento da ADC 16, Rel. Min. Cezar Peluso, Tribunal Pleno, DJe 9.9.2011, declarou a constitucionalidade do art. 71, § 1º, da Lei 8.666/1993, que dispõe sobre a impossibilidade jurídica de transferência de responsabilidade à Administração Pública de encargos decorrentes do não cumprimento, pelo contratado, de obrigações trabalhistas, fiscais ou comerciais. Ao apreciar o tema 246 da repercussão geral, o STF confirmou o entendimento adotado na ADC 16, no sentido de proibir a responsabilização automática da Administração Pública, só cabendo condenação se houver prova inequívoca de sua conduta omissiva ou comissiva na fiscalização dos contratos. No julgamento do mérito do tema 1.118, reafirmou-se o entendimento já assentado pela Corte no sentido de que é imprescindível que se comprove o conhecimento, pela Administração Pública, da situação de ilegalidade e sua inércia em adotar providências para saná-la, vedada a condenação fundamentada unicamente no pressuposto da inversão do ônus da prova. Consignou-se também que, permanecendo o ente público inerte após notificação formal do descumprimento das obrigações trabalhistas pela empresa prestadora de serviços contratada, restará configurado o comportamento negligente da Administração, a ensejar sua responsabilização subsidiária. É imprescindível, portanto, que se comprove de forma inequívoca o conhecimento, pela Administração Pública, da situação de ilegalidade e sua inércia em adotar providências para saná-la. No caso, a Justiça trabalhista, ao atribuir à Administração o ônus probatório ou até mesmo desqualificar toda e qualquer prova levada a Juízo, sem demonstrar sua ciência inequívoca do inadimplemento das obrigações trabalhistas pela empresa contratada e sua inércia em adotar providências para solucionar a questão, incorre na figura da responsabilização automática, combatida por esta Corte. Agravo regimental provido, para julgar procedente a reclamação”.
+(Rcl 74435 AgR, Relator(a): EDSON FACHIN, Relator(a) p/ Acórdão: GILMAR MENDES, Segunda Turma, julgado em 20-05-2025, DJe de  20-08-2025 - grifos acrescidos)
+
+Na mesma linha: Rcl 89.071/SP, Rel. Min. Alexandre de Moraes, DJe de 07/01/2026; Rcl 88.970/AL, Rel. Min. Cristiano Zanin, DJe de 07/01/2026; Rcl 86.663/SP, de minha relatoria, DJe de 24/10/2025; Rcl 84.374/RS, Rel. Min. Dias Toffoli, DJe de 15/09/2025; Rcl 79.477/MA, Rel. Min. Gilmar Mendes, DJe de 09/09/2025; e Rcl 83.380/RS, Rel. Min. André Mendonça, DJe de 25/08/2025.
+
+Ante o exposto, com base no art. 21, § 2º, do Regimento Interno do Supremo Tribunal Federal, JULGO PROCEDENTE a Reclamação para cassar a decisão proferida pelo Tribunal Superior do Trabalho, nos autos do processo n. 0000241-56.2019.5.14.0401 e afastar a responsabilidade subsidiária do Estado do Acre no presente caso.
+
+Publique-se.
+
+Brasília, 22 de janeiro de 2026.
+
+Ministro FLÁVIO DINO
+Relator
+Documento assinado digitalmente
