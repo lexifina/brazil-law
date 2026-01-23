@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por COOPERATIVA DE CRÉDITO POUPANÇA E INVESTIMENTO VANGUARDA DA REGIÃO DAS CATARATAS DO IGUAÇU E DO VALE DO PARAÍBA (SICREDI VANGUARDA PR/SP/RJ) contra a decisão que inadmitiu o recurso especial por incidência da Súmula n. 7 do STJ (fls. 642-646). Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos (fls.673-677).
+Na contraminuta, a parte agravada aduz que o agravo deve ser desprovido, pois o especial demandaria reexame de fatos e provas (Súmula n. 7 do STJ), apresenta deficiência de fundamentação (Súmula n. 284 do STF) e a decisão recorrida está em consonância com a orientação do STJ (Súmula n. 83 do STJ) (fls. 683-691).
+O recurso especial foi interposto com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Paraná em apelação cível nos autos de ação declaratória de inexigibilidade.
+O julgado foi assim ementado (fls. 335-336):
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE. CÉDULA DE CRÉDITO RURAL PIGNORATÍCIA. PEDIDO GENÉRICO. NÃO VERIFICAÇÃO. SENTENÇA. REFORMA. ART. 1.013, §2º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. EXECUÇÃO ANTERIORMENTE AJUIZADA. ACORDO DE PARCELAMENTO (ART. 916, DO CÓDIGO DE PROCESSO CIVIL). INADIMPLEMENTO PARCIAL. PROSSEGUIMENTO DA EXECUÇÃO. NOVO CÁLCULO. EXCESSO. VERIFICAÇÃO. PARCELAS PAGAS. DEDUÇÃO DO MONTANTE DEVIDO. IMPOSIÇÃO. JUROS REMUNERATÓRIOS. TAXA APLICADA. LEGALIDADE. JUROS DE MORA. LEGISLAÇÃO ESPECIAL. LIMITE 1% AO ANO. COMISSÃO DE PERMANÊNCIA. INCIDÊNCIA NO PERÍODO DE INADIMPLEMENTO. ILEGALIDADE. CAPITALIZAÇÃO. SÚMULA N.º 96, DO SUPERIOR TRIBUNAL DE JUSTIÇA. COBRANÇA. POSSIBILIDADE. ENCARGOS SUCUMBENCIAIS. REDISTRIBUIÇÃO.
+1. Em ação declaratória, não se configura pedido genérico, quando a parte autora indicar de maneira específica e fundamentada os valores que entende cobrados indevidamente pela parte ré.
+2. Afastada a improcedência da inicial por pedido genérico, aplica-se o art. 1.013, §2º, do Código de Processo Civil, para examinar as demais matérias controvertidas pelas partes.
+3. O prosseguimento de execução, após inadimplemento parcial de acordo de parcelamento de débito, impõe que sejam abatidas do valor remanescente as quantias pagas em virtude de sua celebração.
+4. Rejeita-se o pedido de limitação de juros remuneratórios, quando os percentuais cobrados pela credora são inferiores à taxa de 12% (doze por cento) ao ano, prevista no Decreto-Lei n.º 167/1967.
+5. O Decreto-Lei n.º 167/1967 limita os juros de mora nas cédulas de crédito rural em 1% (um por cento) ao ano.
+6. É ilícita a incidência de comissão de permanência no âmbito do crédito rural.
+7. "A legislação sobre cédulas de crédito rural, comercial e industrial admite o pacto de capitalização de juros" (Súmula n.º 93, do Superior Tribunal de Justiça).
+8. O parcial provimento do recurso, que importa na alteração da parcela de vitória e derrota de cada parte, impõe a redistribuição dos encargos sucumbenciais.
+9. Apelação cível conhecida e parcialmente provida.
+Os embargos de declaração opostos pela agravada foram decididos nestes termos (fl. 432):
+EMBARGOS DE DECLARAÇÃO. APELAÇÃO CÍVEL. ACÓRDÃO. DISTRIBUIÇÃO SUCUMBENCIAL. OMISSÃO NÃO VERIFICADA. INEXISTÊNCIA DE VÍCIO NESSE PONTO. HONORÁRIOS ADVOCATÍCIOS. MANUTENÇÃO DA VERBA FIXADA NA SENTENÇA. ALUSÃO À INEXISTÊNCIA DE PLEITO RECURSAL DE ALTERAÇÃO. OBSCURIDADE NESSE TOCANTE. PEDIDO EXISTENTE, PORÉM NÃO FUNDAMENTADO. CIRCUNSTÂNCIAS DO CASO CONCRETO QUE JUSTIFICAM A MANUTENÇÃO DOS HONORÁRIOS MESMO DIANTE DO EFEITO TRANSLATIVO DA APELAÇÃO. EMBARGOS PARCIALMENTE ACOLHIDOS, A FIM DE SANAR OBSCURIDADE, SEM ATRIBUIÇÃO DE EFEITOS INFRINGENTES.
+Os embargos de declaração opostos pela agravante foram decididos nestes termos (fl. 538):
+EMBARGOS DE DECLARAÇÃO. APELAÇÃO CÍVEL. PROVEITO ECONÔMICO. FORMA DE APURAÇÃO. VÍCIOS. INEXISTÊNCIA. PERCENTUAL DE HONORÁRIOS. FUNDAMENTAÇÃO. OMISSÃO. NECESSIDADE DE INTEGRAÇÃO DA MOTIVAÇÃO.
+1. Inexistentes no acórdão quaisquer dos vícios acerca de forma de apuração do proveito econômico, impõe-se a rejeição dos embargos de declaração nesse tocante.
+2. Não expostos no acórdão embargado os motivos que ensejaram a fixação do percentual dos honorários sucumbenciais, impõe-se a integração de sua fundamentação, com a averbação da motivação a esse respeito.
+3. Embargos de declaração conhecidos e parcialmente acolhidos, apenas para esclarecer os fundamentos do percentual fixado para os honorários advocatícios, sem alteração do julgado.
+No recurso especial, a parte aponta violação dos seguintes artigos:
+a) 85, § 2º, do Código de Processo Civil, porque o acórdão, ao fixar os honorários em 20% do proveito econômico, teria aplicado o percentual máximo sem observar os critérios dos incisos I, II, III e IV, deixando de individualizar o grau de zelo, o lugar da prestação do serviço e o trabalho realizado por cada patrono;
+b) 85, § 11, do Código de Processo Civil, visto que foi mencionado nas razões do apelo para honorários recursais, sem desenvolvimento de tese específica de violação.
+Requer o provimento do recurso para que se fixe a verba honorária no patamar mínimo de 10% sobre o valor da condenação, do proveito econômico obtido ou, subsidiariamente, sobre o valor atualizado da causa (fls. 591-596).
+Nas contrarrazões, a parte recorrida aduz que o especial é inadmissível, por deficiência de fundamentação (Súmula n. 284 do STF), por estar o acórdão alinhado à jurisprudência do STJ (Súmula n. 83 do STJ) e por demandar reexame de fatos e provas (Súmula n. 7 do STJ) (fls. 605-629).
+É o relatório. Decido .
+A controvérsia diz respeito a ação declaratória de inexigibilidade em que a parte autora pleiteou a dedução das parcelas pagas na execução anterior, a limitação dos juros de mora em 1% ao ano, o expurgo da comissão de permanência e a revisão dos encargos.
+Na sentença, o Juízo de primeiro grau julgou improcedentes os pedidos e condenou as autoras ao pagamento das custas e honorários fixados em R$ 1.300,00.
+A Corte de origem reformou parcialmente a sentença para julgar parcialmente procedentes os pedidos de dedução das parcelas pagas, limitação dos juros de mora em 1% ao ano e expurgo da comissão de permanência, rejeitou a limitação dos juros remuneratórios e a vedação da capitalização, redistribuiu os encargos sucumbenciais em 50% para cada parte e, em posterior juízo de retratação, fixou os honorários em 20% do proveito econômico, distribuídos na proporção de 50% para cada parte (fls. 335-351; 538; 558).
+Passo à análise das supostas violações.
+I - Art. 85, § 2º, do Código de Processo Civil
+O art. 85, § 2º, do CPC estabelece os critérios objetivos para a fixação dos honorários advocatícios, fixando a faixa percentual entre 10% e 20% sobre o valor da condenação, do proveito econômico ou do valor atualizado da causa, considerados o grau de zelo profissional, o lugar da prestação do serviço, a natureza e a importância da causa, bem como o trabalho realizado e o tempo exigido.
+No caso concreto, o Tribunal de origem, em juízo de retratação, fixou os honorários em 20% do proveito econômico obtido, com fundamentação expressa acerca da base de cálculo e, posteriormente, integrou a motivação em sede de embargos de declaração, explicitando os elementos dos incisos I a IV do § 2º do art. 85 do CPC.
+A pretensão recursal, ao sustentar que o percentual máximo teria sido aplicado sem observância dos critérios legais, demanda a reavaliação do juízo de adequação e proporcionalidade realizado pelo Tribunal local, o que implica reexame das circunstâncias fáticas e da atuação profissional no caso concreto, providência vedada na via especial, conforme a Súmula n. 7 do STJ.
+Ademais, o acórdão recorrido encontra-se em plena consonância com a orientação firmada no Tema 1.076/STJ, bem como com a jurisprudência consolidada desta Corte quanto à impossibilidade de arbitramento por equidade fora das hipóteses legais, incidindo, portanto, o óbice da Súmula n. 83 do STJ.
+A fixação sobre o proveito econômico, considerando o excesso reconhecido pelo tribunal de origem alinha-se, igualmente, com precedente recente desta Corte de Justiça:
+DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. EXCESSO DE EXECUÇÃO. HONORÁRIOS ADVOCATÍCIOS. PROVEITO ECONÔMICO. RECURSO PARCIALMENTE PROVIDO.
+I. Razões de decidir 1. O recurso especial não comporta exame de questões que impliquem interpretação de cláusulas contratuais e revolvimento de elementos fático-probatórios dos autos (Súmulas n. 5 e 7 do STJ).
+2. O recurso especial que não impugna fundamento do acórdão recorrido independente e suficiente para mantê-lo, no ponto controvertido, não deve ser admitido, a teor da Súmula n. 283/STF.
+3. Segundo a jurisprudência desta Corte, "o reconhecimento do excesso de execução em sede de impugnação do cumprimento de sentença resultou na redução da quantia a ser executada, de modo que o executado faz jus à fixação de honorários advocatícios em seu favor, fixados em percentual sobre o valor decotado do inicialmente cobrado (proveito econômico), nos termos do art. 85, § 2º, do CPC/2015" (AgInt no AREsp 1.724.132/SC, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 19/04/2021, DJe de 24/05/2021).
+II. Dispositivo 4. Recurso especial parcialmente provido. (REsp n. 2.020.520/CE, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 16/12/2025, DJEN de 19/12/2025.)
+II - Art. 85, § 11, do Código de Processo Civil
+O art. 85, § 11, do CPC dispõe sobre a majoração dos honorários advocatícios em grau recursal, condicionada à atuação do patrono no recurso e à manutenção da sucumbência.
+A alegada violação ao dispositivo não foi objeto de debate específico nem de deliberação pelo Tribunal de origem, limitando-se a parte recorrente a mencionar genericamente a norma, sem que houvesse pronunciamento expresso sobre a sua incidência.
+Os embargos de declaração opostos tampouco suscitaram discussão concreta acerca da aplicação do § 11 do art. 85 do CPC. Ausente, portanto, o indispensável prequestionamento, incide o óbice da Súmula n. 211 do STJ, o que impede o conhecimento da matéria na via especial.
+III - Conclusão
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão do atingir do percentual máximo, conforme fixação pelo tribunal de origem.
+Publique-se.
+Intimem-se.
+EMENTA
