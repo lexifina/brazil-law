@@ -1,0 +1,16 @@
+DECISÃO
+CARLA CAROL PIVA CAETANO opõe embargos de declaração, com efeito modificativo, ao ato decisório de fls. 269-272, que indeferiu o pedido de tutela cautelar antecedente formulado pela embargante.
+A decisão ora embargada concluiu pela ausência do fumus boni iuris, a propiciar o provável êxito da pretensão recursal, pois a não impugnação dos fundamentos da decisão que inadmitiu o recurso especial implica o não conhecimento do agravo, de acordo com os arts. 932, III, do CPC e 253, parágrafo único, I, do RISTJ e a Súmula n. 182 do STJ, ficando, por conseguinte, inviabilizada a análise da tutela cautelar sob a ótica do periculum in mora.
+Em suas razões, a embargante aponta que há omissão quanto aos seguintes pontos: a) a aquisição do imóvel pela genitora da embargante em 13/6/1988, anterior ao ajuizamento da ação e ao registro da penhora; b) a impenhorabilidade do imóvel, como bem de família, nos termos da Lei n. 8.009/1990, por ser utilizado como moradia, e a necessidade de enfrentamento dessas questões à luz do art. 489, § 1º, IV, do Código de Processo Civil.
+Requer o acolhimento dos embargos de declaração, com efeito modificativo, para que, em juízo de retratação, seja deferida tutela antecedente; e, subsidiariamente, o suprimento das omissões apontadas e o prequestionamento dos dispositivos legais indicados.
+Não foram apresentadas contrarrazões aos embargos (fl. 289).
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a aclarar obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado.
+No presente caso, a parte aponta omissão quanto às teses de aquisição pretérita do imóvel e de impenhorabilidade do bem de família, e afirma que tais questões deveriam ter sido enfrentadas como pressupostos do fumus boni iuris.
+Na decisão de fls. 269-272, consoante já exposto no relatório acima, restou claro que o pedido da tutela cautelar foi indeferido porque o agravo em recurso especial não impugnou, de forma específica, todos os fundamentos do juízo de inadmissibilidade do apelo especial, circunstância que, atraindo óbices legal, regimental e sumular ao conhecimento do recurso, patenteou a não demonstração da plausibilidade do direito para fins do fumus boni iuris, inviabilizando, portanto, a análise do periculum in mora.
+Ora, não há que falar em omissão a ser sanada, pois, diante da inviabilidade de conhecimento do agravo, não haveria mesmo que se adentrar na análise das razões de mérito da demanda .
+Dessa forma, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação do STJ foi analisada, não padecendo a decisão recorrida de vícios que autorizariam sua oposição (obscuridade, contradição, omissão e erro material).
+A propósito, segundo orientação firmada pela Corte Especial do STJ, o recurso aclaratório possui finalidade integrativa e, portanto, não se presta à reforma do entendimento aplicado ou ao rejulgamento da causa (EDcl no AgRg no RE nos EDcl no AgRg nos EDcl no AREsp n. 1.571.819/RJ, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 25/8/2020, DJe de 28/8/2020).
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
