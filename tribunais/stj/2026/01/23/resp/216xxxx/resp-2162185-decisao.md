@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de recurso especial interposto por Emanuela José da Silva, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do Tribunal Regional Federal da 5ª Região assim ementado (fls. 149/150):
+Tributário e Processual Civil. Apelação Cível. Execução fiscal. Anuidade. Conselhos Profissionais. O montante da dívida inscrita com seus encargos legais atinge o patamar mínimo fixado na Lei nº 12.514/2011. Prescrição não configurada. Prosseguimento regular da execução. Desprovimento à apelação do particular.
+1. Cuida-se de apelação cível interposta por Emanuela José da Silva ante sentença que julgou improcedente o pedido, nos termos do art. 487, inc. I, do Código de Processo Civil, mantendo hígida a ação executiva fiscal, sem honorários advocatícios em decorrência do encargo legal previsto na CDA.
+2. O apelante requer, em síntese, a reforma da sentença para que seja reconhecida a extinção do crédito tributário, visto que não exerceu a profissão de técnica de enfermagem nos períodos cobrados.
+3. Segue aduzindo a parte recorrente que a CDA que alicerça o presente feito executivo fiscal está eivada de nulidade, em razão de que não deveria haver sido inscrito, logo, deve ser extinta a ação de execução fiscal.
+4. No caso sob análise, refere-se à execução fiscal promovida pelo Conselho Regional de Enfermagem  COREN-PB , com o propósito de obrigar ao executado a realizar o pagamento das anuidades em atraso, referentes ao seu registro junto ao respectivo conselho.
+5. O Conselho Profissional foi constituído para exercer o poder regulamentar e de polícia para determinadas profissões, consoante se observa no art. 5º, inc. XII, da Constituição, dessa forma, os profissionais inscritos nos respectivos conselhos têm a obrigação legal tributária e recolher suas anuidades.
+6. Ao exame dos autos, verifica-se que a execução fiscal em destaque objetiva a cobrança das anuidades de 2016 a 2020 de Emanuela José da Silva, inscrita no COREN-PB, sob o nº 284719-TE, como técnica de enfermagem.
+7. Inicialmente, deve ser registrado que não há nos autos a comprovação de que a apelante efetuou o cancelamento de sua inscrição, sendo prescindível o fato de exercer ou não a sua profissão.
+8. A decadência é uma das causas de extinção do crédito tributário, haja vista que o ente tributante tem o prazo de cinco anos contados a partir do primeiro dia útil do exercício financeiro seguinte, consoante o art. 173, inc. I, do Código Tributário Nacional.
+9. Nessa senda, constata-se que o entendimento consolidado desta Quarta Turma é no sentido de que o valor correspondente a quatro anuidades no ano do ajuizamento, inclusive com seus consectários legais, e não somente o número de parcelas em atraso.
+10. Com efeito. Desde o advento da Lei nº 12.514/2011 há estipulação de valor mínimo para cobrança das anuidades devidas pelos profissionais inscritos nos Conselhos de Fiscalização, que deve corresponder ao patamar de 4 (quatro) vezes o valor cobrado anualmente da pessoa física ou jurídica inadimplente (art. 8º).
+11. Desse modo, constata-se que o regramento jurídico estabeleceu condições para o ajuizamento de execuções fiscais dos conselhos profissionais, quais sejam, a interposição da ação executiva fiscal fica permitida quando o valor da dívida atualizada alcançar o montante de 4 (quatro) vezes o valor da anuidade vigente; logo, o marco inicial da prescrição se dá no momento que o somatório das anuidades atingir o piso para o ajuizamento do feito executivo, vez que, a partir daí, os créditos ganham exigibilidade.
+12. Dito isso, no caso concreto, a cobrança abarca 05 anuidades, frise-se, compreendendo os períodos de 2016 a 2020. Conforme CDA na execução correlata, o limite mínimo legal foi alcançado para o marco inicial do prazo prescricional, no tocante à anuidade de 2018, vez que o montante da dívida inscrita com seus encargos legais, atingiu o patamar mínimo estabelecido pela Lei nº 12.514/2011, portando, não houve o transcurso do prazo quinquenal antes do ajuizamento da presente demanda executiva em 26 de fevereiro de 2021.
+13. Desprovimento à apelação do particular.
+Os embargos de declaração opostos foram rejeitados (fls. 204/208).
+A parte recorrente alega violação dos arts. 489, inciso III, e 1.022, inciso II, do Código de Processo Civil, ao argumento de que o Tribunal de origem deixou de se manifestar sobre a nulidade da certidão de dívida ativa em razão da inclusão indevida de honorários advocatícios.
+Sustenta ofensa ao art. 39, parágrafo 2º, da Lei 4.320/1964, alegando que honorários advocatícios não se enquadram no conceito de dívida ativa tributária ou não tributária, uma vez que dependem de pronunciamento judicial para serem devidos, não podendo ser inscritos unilateralmente pela Administração Pública.
+Contrarrazões apresentadas às fls. 241/254.
+O recurso foi admitido (fl. 275).
+É o relatório.
+A parte recorrente alega violação dos arts. 489, inciso III, e 1.022, inciso II, do Código de Processo Civil, ao argumento de que o Tribunal de origem deixou de se manifestar sobre a nulidade da certidão de dívida ativa em razão da inscrição indevida de honorários advocatícios.
+A parte recorrente opôs embargos de declaração na origem com os seguintes argumentos (fls. 167/178):
+(a) não se manifestou sobre a nulidade da CDA que tem inscrita honorários advocatícios, malgrado haja pedido veiculado expressamente no recurso de apelação para apreciação desta matéria (fl. 175).
+Ao apreciar o recurso integrativo, o Tribunal Regional Federal da 5ª Região decidiu o seguinte (fls. 204/208):
+"No cotejo do teor do recurso em tela com o julgado, observa-se estar o decisório completo, cercado do fundamento devido, não se fazendo necessária qualquer outra abordagem."
+Da análise detida dos autos, verifico que a questão dos honorários advocatícios incluídos na CDA não foi efetivamente enfrentada pelo Tribunal de origem.
+O acórdão de apelação, ao analisar o tópico 1 da ementa (fl. 149), registrou: "mantendo hígida a ação executiva fiscal, sem honorários advocatícios em decorrência do encargo legal previsto na CDA".
+Ao analisarmos o tópico 1 da ementa de fl. 149, a menção aos honorários, ao que tudo indica, está relacionada à descrição do objeto da apelação interposta pela parte ora recorrente, e não a um efetivo enfrentamento da questão jurídica de fundo sobre a possibilidade de inscrição de honorários advocatícios em certidão de dívida ativa.
+O Tribunal de origem não apreciou especificamente se os honorários advocatícios podem ou não ser inscritos em certidão de dívida ativa à luz do art. 39, § 2º, da Lei 4.320/1964. Não houve análise sobre a natureza jurídica dos honorários advocatícios, sobre a necessidade de pronunciamento judicial prévio para sua exigibilidade, ou sobre a compatibilidade da inscrição desses valores com o conceito de dívida ativa tributária ou não tributária.
+A mera menção genérica da ementa do acórdão recorrido não supre a necessidade de fundamentação específica sobre a questão jurídica controvertida, especialmente quando a parte recorrente suscitou expressamente, em seus embargos de declaração, argumentos jurídicos detalhados sobre a impossibilidade dessa inscrição.
+A jurisprudência desta Corte Superior é firme no sentido de que configura violação ao art. 1.022 do Código de Processo Civil a ausência de manifestação específica sobre questão relevante suscitada em embargos de declaração, quando essa omissão impede o adequado exame da controvérsia.
+Confira-se:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. RECURSO ESPECIAL. AFASTAMENTO DA MULTA DO ART. 1.026, § 2º, DO CPC. PROVIMENTO NEGADO.
+1. A mera rejeição dos embargos de declaração não é suficiente para a aplicação da multa prevista no art. 1.026, § 2º, do Código de Processo Civil (CPC), que se justifica quando é observada a intenção de retardar injustificadamente o andamento normal do processo, em prejuízo da parte contrária e do Poder Judiciário. É necessária a configuração da manifesta improcedência do recurso a autorizar sua aplicação, o que não ocorreu no presente caso.
+2. Mantido o afastamento da multa do art. 1.026, § 2º, do Código de Processo Civil.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.832.193/RS, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 9/9/2024, DJe de 13/9/2024.)
+Ante o exposto, conheço do recurso especial e a ele dou provimento para reconhecer o vício de omissão e, assim, anular o acórdão recorrido, determinando o retorno dos autos à origem para novo exame dos embargos de declaração.
+O provimento do recurso especial prejudica as demais matérias nele suscitadas.
+Publique-se. Intimem-se.
+EMENTA
