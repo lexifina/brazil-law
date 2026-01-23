@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de embargos de divergência interposto por DIEGO ALVES EVANGELISTA contra acórdão proferido pela QUINTA TURMA DO SUPERIOR TRIBUNAL DE JUSTI ÇA assim ementado (fl. 582):
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. RECONHECIMENTO PESSOAL. ELEMENTOS PROBATÓRIOS AUTÔNOMOS. SUFICIÊNCIA PARA A CONDENAÇÃO. BUSCA E APREENSÃO DOMICILIAR. MATÉRIA NÃO APRECIADA PELAS INSTÂNCIAS ORDINÁRIAS. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE DE ANÁLISE. FUNDAMENTAÇÃO ADEQUADA DO ACÓRDÃO RECORRIDO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Hipótese na qual, a despeito da realização irregular de reconhecimento pessoal em fase investigativa, o procedimento foi repetido em juízo respeitando-se as disposições legais. Ademais, a prova foi corroborada por outros elementos probatórios independentes, os quais foram utilizados para justificar a condenação.
+2. A questão relativa à busca e apreensão domiciliar não foi suscitada oportunamente nas instâncias ordinárias, sendo debatida apenas em sede de embargos de declaração, o que configura inovação recursal e impede sua análise em recurso especial.
+3. O acórdão recorrido apresentou fundamentação adequada e suficiente, não havendo nulidade por ausência de motivação.
+4. É firme a jurisprudência deste Egrégio Superior Tribunal de Justiça no sentido de que "não há se falar em omissão do Tribunal local quanto às teses ora deduzidas, porquanto efetivamente houve pronunciamento do Tribunal a quo acerca dos temas, cumprindo asseverar que o julgador não é obrigado rebater, um a um, todos os argumentos das partes, bastando que resolva a situação que lhe é apresentada sem se omitir sobre os fatores capazes de influir no resultado do julgamento, o que ocorreu na espécie. (..)". (AgRg nos EDcl no REsp n. 1.284.383/PR, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 4/12/2024, DJe de 10/12/2024).
+5. Agravo regimental não provido.
+Os embargos de declaração opostos na sequência foram rejeitados (fls. 624-625) pelos seguintes motivos:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ART. 619 DO CÓDIGO DE PROCESSO PENAL. ALEGADA CONTRADIÇÃO E OBSCURIDADE. AUSÊNCIA DE VÍCIOS. REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração são cabíveis, nos termos do art. 619 do Código de Processo Penal, quando a decisão judicial for omissa, contraditória, obscura ou contiver erro material. Não se prestam, contudo, à rediscussão do mérito da decisão embargada.
+2. No caso concreto, todas as questões relevantes foram apreciadas de forma suficiente e fundamentada, não se verificando contradições e obscuridades.
+3. A contradição invocada pela parte embargante não se verifica, pois o acórdão embargado distinguiu a situação dos autos dos precedentes em que o reconhecimento judicial decorre diretamente de ato anterior irregular. Na espécie, o reconhecimento em juízo foi formalizado com observância das disposições legais, e a condenação decorrente dos demais elementos de prova que, avaliados em seu conjunto, revelaram um quadro autônomo e suficiente para a manutenção do juízo condenatório.
+4. Igualmente, não se constata obscuridade quanto à suficiência probatória, tendo sido indicadas no acórdão diversas provas autônomas, como o rastreamento do aparelho subtraído, os depoimentos das testemunhas e a apreensão de objetos compatíveis com a descrição da vítima.
+5. A simples discordância com a conclusão adotada pelo colegiado não se confunde com vício passível de correção por meio de embargos de declaração.
+6. Nos termos da jurisprudência desta Corte, "é incabível a utilização de embargos de declaração para fins de prequestionamento de matéria constitucional, com o objetivo de permitir a interposição de recurso extraordinário". (EDcl no AgInt no AREsp n. 2.583.861/SC, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 30/9/2024 , DJe de 2/10/2024).
+7. Embargos de declaração rejeitados.
+A parte embargante alega que há divergência de entendimento entre o acórdão embargado e o proferido no julgamento do AgRg no REsp n. 2.040.092, proferido pela Sexta Turma.
+Articula, em síntese, que as conclusões em questão divergem quanto à possibilidade de utilização de reconhecimento em juízo após a realização de reconhecimentos irregulares anteriores e sobre o efeito convalidante da repetição judicial.
+A defesa sustenta que, segundo o entendimento da Sexta Turma, o reconhecimento é prova cognitivamente irrepetível e que a repetição em juízo não convalida vícios pretéritos, devendo os atos irregulares e seus derivados serem expurgados do processo (fls. 642-643 e 657-658).
+Em seu pedido, requer que se reconheça a divergência para reformar o acórdão embargado e declarar ilícito o reconhecimento em juízo, por ter sido precedido de reconhecimentos irregulares, com a nulidade dos atos deles derivados (fls. 658-659).
+É o relatório.
+Nos termos do § 4º do art. 1.043 do Código de Processo Civil, são cabíveis embargos de divergência quando houver divergência de entendimento entre o acórdão embargado e os parad igmas indicados, o que pressupõe o dissenso de conclusões alcançadas em casos dotados das mesmas particularidades fáticas.
+O acórdão paradigma indicado pelo embargante descreve um roubo cometido em farmácia, com emprego de arma de fogo, seguido de reconhecimento fotográfico na fase policial, em que foi apresentada às vítimas apenas a fotografia do acusado.
+Posteriormente, houve reconhecimento pessoal em juízo, por videoconferência, com perfilamento, e a condenação foi mantida nas instâncias ordinárias com base nesses reconhecimentos e em elementos como descrições das vítimas e refutação do álibi.
+No referido julgado, o Superior Tribunal de Justiça verificou que a condenação se apoiou, exclusivamente, em reconhecimento feito em desacordo com o art. 226 do CPP e que a repetição em juízo não afastou a irregularidade inicial. Cita-se (fls. 675-676):
+Conforme se depreende dos excertos acima, a condenação do acusado teve por base apenas o reconhecimento pessoal realizado sem observância do art. 226 do CPP, uma vez que exibido, na primeira oportunidade, o acusado sozinho às vítimas, o que está em manifesta contrariedade ao entendimento consolidado nesta Corte Superior.
+Por outro lado, embora no caso do acórdão embargado conste que o procedimento de reconhecimento "foi repetido em juízo respeitando-se as disposições legais" (fl. 582), ficou esclarecido que a prova da conduta criminosa e os fundamentos da condenação utilizaram "outros elementos probatórios independentes" (fl. 582).
+Com o mesmo raciocínio, a resposta aos embargos de declaração também esclareceu o ponto de distinção, afastando qualquer dúvida (fls. 628-629, grifei):
+No tocante às alegadas obscuridades, sustenta-se que o acórdão não explicitaria como outras provas teriam o condão de afastar a suposta ilicitude do reconhecimento judicial. Todavia, a fundamentação é clara ao indicar que, além do reconhecimento em juízo, a condenação amparou-se em depoimentos da vítima e de testemunhas, em especial os policiais civis que confirmaram as diligências realizadas, no rastreamento do aparelho subtraído, e na apreensão de objetos na residência do acusado compatíveis com a descrição da vítima. A conclusão do aresto foi no sentido de que tais elementos, avaliados em seu conjunto, revelaram um quadro probatório autônomo e suficiente para a manutenção do juízo condenatório.
+Ainda, a embargante alega que todas as provas seriam contaminadas pelo reconhecimento pretérito irregular. Contudo, tal premissa não foi reconhecida no acórdão, nem se evidencia dos autos relação de causa e efeito necessária entre os atos investigativos e o conjunto de provas utilizado para fundamentar a condenação. A argumentação da defesa, portanto, revela apenas seu inconformismo com as conclusões do julgado.
+Depreende-se, assim, que não há efetiva contrariedade entre as conclusões contrastadas, constatando-se a existência de premissas fático-processuais diversas nos acórdãos, pois, enquanto no acórdão paradigma "a condenação do réu teve por base apenas o reconhecimento pessoal realizado sem observância do art. 226 do CPP" (fl. 664), no acórdão embargado foram constatadas "diversas provas autônomas" (fl. 626).
+A discussão, portanto, não é viável em embargos de divergência, recurso no qual não se pode reexaminar premissas fáticas do acórdão embargado, viabilizando-se tão somente a comparação de conclusões alcançadas em casos semelhantes, consideradas as premissas que ficaram assentadas no acórdão embargado e nos paradigmas e que não podem ser modificadas ou ter rediscutido o acerto de sua fixação nesta espécie recursal.
+No ponto (destaque acrescido):
+EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. SIMILITUDE FÁTICA ENTRE O ACÓRDÃO EMBARGADO E O PARADIGMA. AUSÊNCIA. RECURSO NÃO CONHECIDO.
+ ..
+IV - Nesta Corte, é assente o entendimento de que, inexistente similitude fática, decorrente das peculiaridades existentes em cada caso, o recurso de embargos de divergência não merece ser conhecido.
+Precedentes: AgInt nos EREsp n. 1.430.325/PE, Rel. Ministro Francisco Falcão, Primeira Seção, julgado em 11/12/2019, DJe 17/12/2019; AgInt nos EDv nos EREsp n. 1.756.344/RJ, Rel. Ministro Gurgel de Faria, Primeira Seção, julgado em 3/12/2019, DJe 6/12/2019; AgInt nos EREsp n. 1,580,178/SP, Rel. Ministro Mauro Campbell Marques, Corte Especial, julgado em 22/10/2019, DJe 25/10/2019.
+V - Recurso de embargos de divergência não conhecido.
+(EREsp n. 1.707.423/RS, relator Ministro Francisco Falcão, Corte Especial, julgado em 15/2/2023, DJe de 23/2/2023.)
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO QUE NÃO APRECIOU A CONTROVÉRSIA DE MÉRITO. NÃO CABIMENTO. SÚMULA 315/STJ. SIMILITUDE. AUSÊNCIA.
+ ..
+2. Tratando os acórdãos confrontados de questões essencialmente distintas, não há falar em dissídio jurisprudencial a ser sanado na via dos embargos de divergência.
+3. Agravo interno não provido.
+(AgInt nos EAREsp n. 2.056.572/SP, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 13/12/2022, DJe de 16/12/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS ACÓRDÃOS CONFRONTADOS. NÃO CONFIGURAÇÃO DA DIVERGÊNCIA JURISPRUDENCIAL. CISÃO DO JULGAMENTO. NECESSIDADE. AGRAVO DESPROVIDO.
+1. Verificada a diversidade da moldura fática entre os acórdãos confrontados, não se tem por caracterizado o dissídio jurisprudencial apto a ensejar o cabimento de embargos de divergência.
+ ..
+(AgInt nos EREsp n. 1.755.379/RJ, relator Ministro Raul Araújo, Corte Especial, julgado em 16/11/2022, DJe de 2/12/2022.)
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE SIMILITUDE FÁTICA. EXAME DE REGRAS TÉCNICAS DE ADMISSIBILIDADE. IMPOSSIBILIDADE.
+1. A admissão dos embargos de divergência está condicionada à comprovação da divergência jurisprudencial, por meio da demonstração da similitude fático-processual entre o acórdão embargado e o julgado paradigma, o que não se v erificou na hipótese dos autos.
+ ..
+3. Agravo interno não provido.
+(AgInt nos ER Esp n. 1.679.420/MT, Rel. Min. Nancy Andrighi, Segunda Seção, DJe de 20.4.2023).
+Dessa forma, falta aos embargos de divergência pressuposto básico de admissibilidade, qual seja, a constatação de discrepância entre julgados que tenham debatido questões efetivamente similares, porquanto a conclusão que ampara o acórdão embargado possui premissas fáticas diversas e mais amplas, insuscetíveis de adequado contraste.
+Ante o exposto, com base no art. 266-C, do RISTJ, indefiro liminarmente os embargos de divergência.
+Publique-se. Intimem-se.
+EMENTA
