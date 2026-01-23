@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto por DJANIRA PEREIRA contra acórdão proferido pela Oitava Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo nos autos do Agravo em Execução Penal n. 0002380-72.2024.8.26.0319.
+Nas razões do recurso, a defesa alega violação do art. 927, III, do CPC, pois o acórdão não observou a tese firmada pelo STJ no Tema 931 (fls. 104/108).
+Aduz que o sentenciado é hipossuficiente e que não há elementos concretos nos autos que demonstrem capacidade de pagamento sem afetar o seu sustento (fls. 104, 108/110).
+Pontua que a assistência pela Defensoria Pública é indicador da hipossuficiência e da presunção relativa de pobreza, conforme fundamentos da tese (fls. 108/109).
+Destaca, ainda, que os dias-multa foram fixados no mínimo legal, o que corrobora a insuficiência econômica, nos termos do art. 60, caput e § 1º, do CP (fl. 109).
+Acrescenta a inexistência de bens ou recursos que evidenciem capacidade de adimplemento sem prejuízo do sustento familiar, conforme art. 50, § 2º, do CP (fl. 109).
+Requer o provimento do recurso para que seja julgada extinta a punibilidade (fl. 111).
+Contrarrazões apresentadas nas fls. 117/129.
+Decisão de admissibilidade do recurso especial nas fls. 131/132.
+Intimado, o Ministério Público Federal opinou pelo provimento do recurso especial, conforme parecer de fls. 144/153.
+É o relatório.
+Sobre a pena de multa, ao julgar os REsps n. 2.090.454/SP e n. 2.024.901/SP (Ministro Rogerio Schietti Cruz, Terceira Seção, DJe 1º/3/2024), a Terceira Seção estabeleceu que o inadimplemento da pena de multa, após cumprida a pena privativa de liberdade ou restritiva de direitos, não obsta a extinção da punibilidade, ante a alegada hipossuficiência do condenado, salvo se diversamente entender o juiz competente, em decisão suficientemente motivada, que indique concretamente a possibilidade de pagamento da sanção pecuniária.
+No caso dos autos, ao manter a decisão do Juízo da execução, o Tribunal a quo firmou pela possibilidade de adimplemento da sanção pecuniária (fl. 90):
+Assim, não obstante o precedente advindo do Recurso Especial Repetitivo, em que firmada a tese de que nos casos em que haja condenação a pena privativa de liberdade e multa, cumprida a primeira, o inadimplemento da sanção pecuniária não obsta o reconhecimento da extinção da punibilidade (Tema 931), o Egrégio Supremo Tribunal Federal, ao julgar a Ação Direta de Inconstitucionalidade nº 3150, objetivando seja conferida interpretação conforme a Constituição Federal ao artigo 51 do Código Penal, decidiu, por maioria de votos, julgar parcialmente procedente o pedido, para explicitar que este dispositivo, ao referir a multa como dívida de valor, não exclui a legitimação prioritária do Ministério Público para sua cobrança na Vara de Execução Penal.
+Assim, diante do atual entendimento do Pretório Excelso e do disposto no inciso IV do artigo 927 da Lei Processual, a emprestar efeito vinculante a esses decisórios, não há que se falar em extinção da punibilidade, enquanto pendente de pagamento a pena pecuniária, o que só ocorrerá ao azo de sua satisfação.
+Veja-se que, em relação a extinção da punibilidade pela aplicação do Tema Repetitivo n. 931, o entendimento adotado pelo Tribunal de Justiça diverge da atual orientação desta Corte Superior, no sentido de que se deve privilegiar a declaração da defesa acerca da hipossuficiência do recorrente, cabendo ao Ministério Público o ônus de comprovar que o apenado possui condições de adimplir com o pagamento da multa.
+No mais, verifica-se dos autos que a recorrente deixou de adimplir o valor da multa, no valor de R$ 22.340,12 (vinte e dois mil, trezentos e quarenta reais e doze centavos) e, realizadas medidas constritivas com a finalidade de pagamento da multa, foram bloqueados na conta corrente R$ 180,97 (cento e oitenta reais e noventa e sete centavos), além de ter sido verificada a existência dos veículos CBX 250 Twister e Ford Corcel II, L, elementos que, somados ao fato de a recorrente estar sendo assistida pela Defensoria Pública, são insuficientes para afastar a presunção de hipossuficiência.
+Diante do exposto, nos termos do art. 932, VIII, do Código de Processo Civil de 2015, c/c o art. 253, parágrafo único, II, c, do RISTJ, dou provimento ao recurso especial, a fim de determinar a extinção da pena de multa imposta.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. EXECUÇÃO PENAL. INADIMPLEMENTO DA PENA DE MULTA. PLEITO DE EXTINÇÃO DA PUNIBILIDADE COM BASE NA HIPOSSUFICIÊNCIA. ACÓRDÃO ATACADO EM DESACORDO COM O TEMA N. 931/STJ. REVISÃO. ADMISSIBILIDADE. AUSÊNCIA DE MOTIVAÇÃO QUE INDIQUE CONCRETAMENTE A POSSIBILIDADE DE PAGAMENTO DA MULTA PELO APENADO.
+Recurso especial provido.
