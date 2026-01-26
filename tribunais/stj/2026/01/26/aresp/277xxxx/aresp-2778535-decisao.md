@@ -1,0 +1,42 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por PATRICIA FERREIRA DO NASCIMENTO E OUTROS contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a ação de reintegração de posse foi julgada procedente pelo Juízo de primeiro grau.
+Interposta apelação pela parte adversa, o Tribunal de Justiça do Estado de Minas Gerais deu provimento ao recurso para julgar improcedentes os pedidos iniciais. O acórdão recorrido foi assim ementado (fl. 622):
+"EMENTA: APELAÇÃO CÍVEL - PEDIDO DE ATRIBUIÇÃO DE EFEITO SUSPENSIVO AO RECURSO - VIA INADEQUADA - NÃO CONHECIMENTO - AÇÃO DE REINTEGRAÇÃO DE POSSE - PRELIMINAR DE SOBRESTAMENTO DO FEITO - AÇÃO DE USUCAPIÃO AJUIZADA POSTERIORMENTE - INEXISTÊNCIA DE PREJUDICIALIDADE - ENTENDIMENTO DO STJ - REJEIÇÃO - MÉRITO - REQUISITOS LEGAIS DA PROTEÇÃO POSSESSÓRIA - ART. 561 DO CPC - COMODATO VERBAL - AUSÊNCIA DE PROVA - SENTENÇA REFORMADA - RECURSO PROVIDO.
+O pedido de atribuição de efeito suspensivo ao recurso de apelação deve ser formulado em petição incidental em apartado e não no bojo da própria peça recursal, consoante disposto no Código de Processo Civil.
+Consoante entendimento do Superior Tribunal de Justiça, não há prejudicialidade externa entre demandas possessórias e de usucapião, não se justificando, portanto, o sobrestamento do feito.
+Na ação possessória, incumbe à parte autora provar os fatos constitutivos do direito alegado, ou seja, a posse anterior, o esbulho e sua data, bem como a perda da posse para a parte requerida, nos termos do art. 561 do CPC.
+Ausente a comprovação do comodato verbal firmado entre as partes, a autora não faz jus à proteção possessória vindicada.
+Recurso provido. Sentença reformada."
+Opostos embargos de declaração, foram rejeitados (fls. 682-687).
+Nas razões do recurso especial (fls. 704-728), a parte recorrente alega, preliminarmente, ofensa aos arts. 489 e 1.022 do CPC, sustentando negativa de prestação jurisdicional. No mérito, aponta violação dos arts. 11, 77, I e II, 80, II, III e V, 81, 560, 561 e 1.210 do CPC, bem como do art. 32 do Estatuto da OAB. Sustenta, em síntese, que restaram comprovados a posse anterior e o esbulho possessório, devendo ser reconhecido o comodato verbal e mantida a reintegração de posse. Alega ainda a configuração de litigância de má-fé da parte recorrida. Suscita divergência jurisprudencial.
+A decisão de admissibilidade da origem (fls. 747-750) negou seguimento ao recurso especial com fundamento na Súmula 7/STJ.
+Diante disso, foi interposto o presente agravo (fls. 767-799), no qual a parte recorrente impugna os fundamentos da decisão agravada.
+Apresentada contraminuta (fls. 808-809).
+É, no essencial, o relatório. Passo a decidir.
+Da admissibilidade do agravo
+Considerando que a parte agravante impugnou a fundamentação da decisão de admissibilidade, conheço do agravo.
+Passo ao exame do recurso especial.
+Da suposta violação aos arts. 489 e 1.022 do CPC
+No que tange à alegada violação dos arts. 489 e 1.022 do CPC, não assiste razão à parte recorrente.
+O Tribunal de origem decidiu a matéria de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando encontrar motivação suficiente para dirimir o litígio.
+No caso, o acórdão recorrido enfrentou expressamente as questões fáticas relevantes, concluindo pela ausência de comprovação do comodato verbal e da posse anterior sobre a construção específica ocupada pela recorrida.
+Confira-se trecho do acórdão dos embargos de declaração que rejeitou a alegação de omissão (fl. 685):
+"No acordão embargado restou devidamente analisado o acervo probatório, inclusive, fazendo menção às provas produzidas, de forma a embasar a conclusão de que não houve posse, tampouco esbulho por parte da requerida. Veja excerto extraído do julgado embargado: "No presente caso, verifico que a autora não logrou comprovar que celebrou um contrato verbal com a ré, referente à construção na qual esta residiu com seu marido, filho da autora, durante vários anos, tendo a ré ali permanecido por décadas sem qualquer oposição. (..) Ocorre que a construção na qual a apelante reside, embora situada no mesmo lote, é distinta, também possui ligações de energia elétrica e água próprias, que haviam sido feitas em nome dela e de seu marido (doc. 21). Portanto, a documentação da apelada não demonstrava, sob nenhum prisma, a posse anterior sobre o imóvel no qual a apelante reside.""
+Verifica-se, portanto, que não houve negativa de prestação jurisdicional, mas sim o julgamento da causa com base nas provas dos autos, de modo que a insatisfação da parte com o resultado não caracteriza vício no acórdão.
+Do reexame de provas (Súmula 7/STJ)
+Quanto ao mérito, a pretensão recursal esbarra no óbice da Súmula 7/STJ.
+O Tribunal de origem, soberano na análise das provas, reformou a sentença para julgar improcedente o pedido de reintegração de posse, consignando expressamente que não restou comprovado o comodato verbal nem a posse anterior da autora sobre a construção ocupada pela ré.
+Confira-se o seguinte trecho do voto condutor do acórdão recorrido:
+"No presente caso, verifico que a autora não logrou comprovar que celebrou um contrato verbal com a ré, referente à construção na qual esta residiu com seu marido, filho da autora, durante vários anos, tendo a ré ali permanecido por décadas sem qualquer oposição. Com efeito, junto à inicial vieram documentos nominados "comprovação da posse" que, na verdade, comprovavam apenas a posse de uma das construções existentes no local, que possui ligação de energia elétrica própria (doc. 3). Ocorre que a construção na qual a apelante reside, embora situada no mesmo lote, é distinta, também possui ligações de energia elétrica e água próprias, que haviam sido feitas em nome dela e de seu marido (doc. 21). Portanto, a documentação da apelada não demonstrava, sob nenhum prisma, a posse anterior sobre o imóvel no qual a apelante reside. E a prova oral colhida em audiência, a meu aviso, não demonstrou, com a segurança necessária, a pactuação de um suposto comodato verbal entre as litigantes, apta a alijar a apelante da moradia que ali estabeleceu há décadas." (fls. 632-633)
+E concluiu:
+"Assim sendo, o que se depreende do caderno processual é que a autora, ora apelada, cedeu a posse da área à ré / apelante e seu marido, sem qualquer pretensão de reavê-la no futuro, muito menos sob o título de um comodato verbal. (..) Nesse contexto, a apelante não faz jus à proteção possessória, porquanto não comprovou sua posse anterior, advinda do alegado comodato verbal, nem o dito esbulho surgido após a pretensa notificação." (fl. 634)
+Para alterar a conclusão do Tribunal a quo e reconhecer a existência de comodato verbal, a posse anterior e o esbulho, seria imprescindível o reexame do contexto fático-probatório dos autos, providência vedada em sede de recurso especial, nos termos da Súmula 7/STJ.
+Da mesma forma, quanto à alegação de litigância de má-fé, a revisão do entendimento adotado pela Corte de origem demandaria nova incursão no acervo probatório.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREQUESTIONAMENTO FICTO. NÃO OCORRÊNCIA. SÚMULA 211/STJ . IMÓVEL. PROMESSA DE COMPRA E VENDA. COMISSÃO DE CORRETAGEM. CABÍVEL COM RESULTADO ÚTIL DO CORRETOR . REEXAME DE PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULA 7/STJ. SÚMULA 5/STJ . 1. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas n. 5 e 7 do Superior Tribunal de Justiça). 2 . A comissão de corretagem é devida, quando caracterizado o resultado útil da atuação do corretor. 3. Agravo interno a que se nega provimento. (STJ - AgInt no AREsp: 2243705 SP 2022/0351683-2, Relator.: Ministra MARIA ISABEL GALLOTTI, Data de Julgamento: 16/10/2023, T4 - QUARTA TURMA, Data de Publicação: DJe 20/10/2023).
+Ademais, consoante a jurisprudência desta Corte, a incidência da Súmula 7/STJ impede o conhecimento do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios fixados pelo Tribunal de origem para 17% (dezessete por cento) sobre o valor atualizado da causa, observada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
