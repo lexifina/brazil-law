@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de agravo interposto por JULIART COMERCIO TEXTIL LTDA. e PAULO SERGIO VIEL RISSATO contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fls. 202-206):
+Bens móveis. Equipamentos diversos. Compra e venda parcelada. Previsão de reajuste das 86 parcelas mensais pela variação do IGP-M. Demanda revisional ajuizada pelo comprador, fundada em desequilíbrio contratual decorrente da desproporcional elevação do indexador contratual. Pretensão de substituição do índice de reajuste, do IGP-M para o IPCA. Pertinência. Variação notoriamente desproporcional dos índices de inflação divulgados pela FGV (IGP-M e IGP-DI, em especial), nos anos de 2020 e 2021), se considerados os índices oficiais ou divulgados por outras entidades idôneas, com diferenças da ordem de 500% a 600%. Hipótese em que ponderável o reconhecimento da quebra da base objetiva do negócio, conquanto não se cogite de nulidade no pacto originário, propriamente dito. Descaracterização da finalidade de mera atualização monetária, com expressão da variação do custo de vista, subjacente à escolha do indexador. Situação econômica excepcional que autoriza a correção do valor da prestação pelo juiz. Inteligência do art. 317 do Código Civil. Revisão das cláusulas 2.1. b e 2.1.1 do contrato, com a substituição do IGP-M pelo IPCA. Recálculo das prestações. Sentença reformada. Demanda procedente. Apelação do autor provida.
+Rejeitados os embargos de declaração opostos (fls. 215-218).
+No recurso especial, alega a parte recorrente, preliminarmente, ofensa ao art. 1.022 do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, no mérito, que o acórdão contrariou as disposições contidas nos artigos 141 e 492 do Código de Processo Civil, bem como nos artigos 313, 314 e 482 do Código Civil.
+Sustenta, em síntese, a ocorrência de julgamento extra petita e violação do pacta sunt servanda.
+Aponta divergência jurisprudencial com arestos de outros tribunais.
+Foram oferecidas contrarrazões ao recurso especial (fls. 260-267).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 268-271), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 296-301).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Cuida-se de insurgência do recorrente quanto ao índice de correção monetária aplicável na ação revisional.
+- Da violação dos arts. 489 e 1.022 do CPC
+Inicialmente, afasto a alegação de negativa de prestação jurisdicional e ausência de fundamentação.
+O recorrente alega omissão no acórdão recorrido quanto ao índice de correção monetária adotado, modificado de IGP-M para IPCA.
+Quanto ao ponto, o tribunal se manifestou expressamente:
+É o caso, então, de acolher o pleito autoral e, de modo a restabelecer a função meramente atualizatória do indexador, além de preservar a expressão monetária das prestações pelas quais se obrigou o comprador dos adquirentes, alterar o conteúdo das cláusulas 2.1. b e 2.1.1 do contrato, de modo que prevaleça como índice de correção contratual o IPCA, divulgado pelo IBGE, em lugar do IGP-M (a opção pelo IPCA se faz em função do pedido do autor à luz de diversas alternativas disponíveis e igualmente idôneas). (fl. 205)
+Observa-se, portanto, que a lide foi solucionada em conformidade com o que foi apresentado em juízo. Assim, verifica-se que o acórdão recorrido está com fundamentação suficiente, inexistindo omissão ou contradição.
+- Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+Nas razões do recurso especial, o recorrente sustenta que devem ser respeitadas as pactuações firmadas entre as partes, com destaque para o índice de correção monetária aplicado.
+Sobre o ponto, o tribunal concluiu que:
+É preciso não esquecer que a cláusula de correção monetária visa a manutenção do valor da moeda no tempo, com a mera recomposição da variação inflacionária, coisa que os índices referidos (e, em particular, o adotado no contrato) acabaram por não fazer, com o violento descolamento da média expressada pelos demais indexadores disponíveis, com isso desvirtuando sua função e, sem dúvida, desequilibrando a relação jurídica, provocando interferência no valor das parcelas capaz de afetar a substância do próprio preço nelas fragmentado.
+Do ponto de vista jurídico, tal situação econômica excepcional se encaixa na hipótese descrita no art. 317 do Código Civil, que autoriza a adequação do valor da obrigação pelo juiz, a pedido da parte, com vistas a assegurar o seu valor real, "quando, por motivos imprevisíveis, sobrevier desproporção manifesta entre o valor da prestação devida e o do momento de sua execução".
+Referida distorção permite, enfim, vislumbrar hipótese de quebra na base objetiva do contrato, fundamento para a respectiva revisão, de modo a proporcionar o reequilíbrio das prestações recíprocas. (fl. 205)
+No caso, a pretensão da parte recorrente, de que sejam reexaminadas cláusulas relacionadas ao índice de correção monetária adotado, vai de encontro à Súmula 5 desta Corte.
+Ademais, com relação à alegada ocorrência de julgamento extra petita, o tribunal concluiu que, por se tratar de contrato de execução diferida, "a modificação operada, por coerência, deve atingir o valor da obrigação como um todo, não apenas os novos ciclos vencidos a partir da iniciativa da parte prejudicada".
+Há que se observar, ainda, a repercussão da modificação, postulada em fevereiro de 2019, quanto a um contrato datado de outubro de 2018, que previu o pagamento à vista de parte do preço, e o parcelamento de outra parte, em 86 prestações, com vencimento a partir de janeiro de 2019 e correção monetária mensal, sujeita a ajuste de contas anual. Como se trata, em relação a essa parte do preço, de mera execução diferida, e não propriamente de obrigação de trato sucessivo, a modificação operada, por coerência, deve atingir o valor da obrigação como um todo, não apenas os novos ciclos vencidos a partir da iniciativa da parte prejudicada, de modo que a revisão ora deferida implica o recálculo das parcelas, em relação à respectiva atualização, desde o momento inicial, promovendo-se o devido acerto de contas no tocante aos desembolsos já efetuados. (fls. 205-206)
+Sobre o tema, o STJ entende que adentrar na questão de ocorrência ou não de julgamento extra petita atrai a incidência da Súmula 7, por demandar reexame de fatos e provas:
+ ..  Incide a Súmula n. 7 do STJ para obstar o reexame do conjunto fático-probatório quanto à regularidade da inscrição, à inexistência de dano moral, à alegação de julgamento extra petita e à litigância de má-fé. (AREsp n. 2.536.496/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 16/12/2025, DJEN de 22/12/2025.)
+Desse modo, considerando a fundamentação do acórdão objeto do recurso especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fático-probatória e interpretação das cláusulas contratuais, procedimentos vedados a esta Corte, em razão dos óbices das Súmulas n. 5 e 7/STJ.
+- Da divergência jurisprudencial
+A incidência da Súmula n. 7 do STJ quanto à interposição pela alínea "a " do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa parte, negar-lhe provimento .
+- Honorários recursais
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 12% (doze por cento) sobre o valor atualizado da causa.
+Publique-se. Intime-se.
+ EMENTA
