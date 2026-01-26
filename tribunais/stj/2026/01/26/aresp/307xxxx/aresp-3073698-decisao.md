@@ -1,0 +1,53 @@
+DECISÃO
+Cuida-se de agravo interposto por SOLVE SECURITIZADORA DE CRÉDITOS FINANCEIROS S/A. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO cuja ementa guarda os seguintes termos (fls. 583-584):
+DIREITO CIVIL E PROCESSUAL CIVIL. APELAÇÃO CÍVEL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CÉDULA DE CRÉDITO BANCÁRIO. PRESCRIÇÃO DIRETA. INÉRCIA PROCESSUAL. FALTA DE CITAÇÃO VÁLIDA EM PRAZO LEGAL. IMPOSSIBILIDADE DE INTERRUPÇÃO PRESCRICIONAL. SENTENÇA MANTIDA. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Apelação cível interposta contra sentença que acolheu exceção de pré-executividade apresentada por GEOVANI POTRICH e declarou a prescrição da pretensão executiva deduzida em face de cédula de crédito bancário, proposta por SOLVE SECURITIZADORA DE CRÉDITOS FINANCEIROS S/A, sucessora da instituição financeira original.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se, no curso da Ação de Execução ajuizada com base em título extrajudicial, houve efetiva diligência da parte exequente para realizar a citação válida do devedor dentro do prazo legal, a fim de configurar a interrupção da prescrição direta nos termos do art. 240, § 2º, do CPC.
+III. RAZÕES DE DECIDIR
+3. A Cédula de Crédito Bancário em execução tem prazo prescricional de 03 (três) anos, conforme art. 70 da LUG c/c art. 44 da L. 10.931/2004.
+4. A propositura da ação em 25/11/2011 ocorreu antes do vencimento da última parcela do contrato (15/08/2012), mas a citação válida do devedor só se efetivou em 19/08/2022, mais de 10 anos após o ajuizamento.
+5. Embora alegada diligência da parte autora, houve lapsos significativos de inércia, sem providências úteis para efetivar a citação, inclusive desatendimento de intimações judiciais em 2019, 2020 e 2021.
+6. Nos termos do art. 240, § 2º, do CPC, a falta de citação válida no prazo legal obsta a retroação dos efeitos interruptivos da prescrição à data da propositura.
+7. A jurisprudência consolidada do STJ (Súmula n. 106) e desta Corte reconhece que a simples propositura da ação não interrompe a prescrição sem que a parte autora promova efetiva citação no prazo legal.
+IV. DISPOSITIVO E TESE
+8. Recurso de apelação desprovido.
+Teses de julgamento: "1. O prazo prescricional da pretensão executiva fundada em cédula de crédito bancário é de três anos. 2. A simples propositura da ação não interrompe a prescrição, sendo imprescindível a citação válida realizada no prazo legal. 3. A inércia da parte autora em impulsionar o feito e viabilizar a citação válida impede a interrupção da prescrição com efeito retroativo."
+Rejeitados os embargos de declaração opostos (fls. 639-640).
+No recurso especial, a recorrente alega, preliminarmente, ofensa aos arts.489, §1º, VI, e 1.022, II e parágrafo único, II, do Código de Processo Civil - CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia, deixando de enfrentar as questões e as normas legais arguidas e questionadas exaustiva e reiteradamente. Além disso, afirma que o acórdão recorrido violou o art. 1.013 do CPC, por extrapolar os limites da devolutividade da apelação e ferir o princípio da non reformatio in pejus, bem como o art. 240 do CPC, por imputar ao recorrente prejuízo atribuível exclusivamente à demora do serviço judiciário e a atos de ocultação do devedor.
+Sustenta, em síntese, que não houve abandono da causa nem inércia capaz de justificar a extinção do processo, pois sempre adotou todas as providências necessárias para o regular andamento do feito, sendo a demora na citação exclusivamente imputável ao próprio Poder Judiciário. Por fim, aponta divergência jurisprudencial com arestos de outros tribunais e desta Corte.
+Apresentadas contrarrazões ao recurso especial (fls. 730-737).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 739-741), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 798-809).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Inicialmente, afasto a alegação de negativa de prestação jurisdicional e ausência de fundamentação, ou seja, não não há que se falar em ofensa aos arts. 489 e 1.022 do CPC. Isto porque a Corte de origem, ao negar provimento à apelação interposta pela parte autora, deixou claro que "os autos evidenciam que houve lapsos consideráveis de tempo sem impulsionamento útil ao feito, aptos a justificar o reconhecimento da prescrição, como corretamente entendeu a sentença guerreada" (fl. 577).
+Observa-se, portanto, que a questão foi solucionada em conformidade com o que foi apresentado em juízo. Assim, verifica-se que o acórdão recorrido está com fundamentação suficiente e adequada, inexistindo deficiência de fundamentação, omissão ou contradição.
+Além disso, a recorrente limitou-se a alegar, genericamente, ofensa aos referidos dispositivos do CPC, sem explicitar os pontos em que o acórdão recorrido teria sido omisso, contraditório ou obscuro, bem como a relevância do enfrentamento da legislação e das teses recursais não analisadas. Incidência da Súmula n. 284/STF, no ponto, que dispõe: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO DO ART. 489 DO CPC. POSSE MANSA E PACÍFICA E ABANDONO DO IMÓVEL NÃO CONFIGURADOS. MÁ-FÉ DO RECORRENTE RECONHECIDA. IMPOSSIBILIDADE DE RETENÇÃO PELAS BENFEITORIAS. REFORMA DO ACÓRDÃO QUE DEMANDA REEXAME DE PROVAS. ÓBICE DA SÚMULA N. 7/STJ. ARTIGOS DE LEI VIOLADOS. DEFICIÊNCIA DA FUNDAMENTAÇÃO. SÚMULA N. 284/STF. PRECEDENTES.
+1. Não ficou configurada a violação do art. 489 do CPC/2015, uma vez que a Corte de origem se manifestou de forma fundamentada sobre todas as questões que entendeu necessárias para o deslinde da controvérsia. O simples inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. O Tribunal de origem, com base nas premissas fáticas e probatórias dos autos, atestou que a alegada posse mansa e pacífica da parte recorrente não foi demonstrada, e que não teria ocorrido o abandono do imóvel por parte dos recorridos, e ainda, reconheceu a má-fé dos recorrentes afastando a possibilidade de retenção pelas benfeitorias, que não se enquadram como benfeitorias úteis. A alteração destas premissas demandaria nova incursão no conjunto fáticoprobatório. Óbice da Súmula n. 7/STJ.
+3. A alegação de ofensa a dispositivos legais, sem a particularização da violação pelo aresto recorrido, implica deficiência de fundamentação, conforme pacífico entendimento desta Corte Superior, fazendo incidir a Súmula n. 284/STF. Precedentes. Agravo interno improvido.
+(AgInt no AREsp n. 2.383.897/MG, relator Ministro Humberto Martins, Terceira Turma, julgado em 24/2/2025, DJEN de 27/2/2025)
+Nesse ponto, cabe ressaltar que a Corte de origem concluiu que a prescrição se consumou porquanto a citação não foi efetivada por culpa exclusiva da exequente, ora recorrente, afastando a aplicação da Súmula n. 106/STJ, já que não houve demora imputável ao Judiciário.
+É o que se extrai do seguinte trecho (fl. 578):
+No caso concreto, a exequente demonstrou, sim, episódios de inércia que comprometem a eficácia de qualquer causa interruptiva da prescrição. Conforme bem detalhado na sentença, verifica-se que:
+  Em 25/11/2019, a exequente foi intimada para indicar novo endereço do devedor, e, embora tenha requerido dilação de prazo, não apresentou qualquer informação posterior no prazo concedido;
+  Em 29/10/2020, foi novamente intimada para impulsionar o feito, tendo se limitado a informar a cessão do crédito, sem indicar novo endereço ou requerer providências para a citação;
+  Em 26/10/2021, foi intimada para recolher custas para nova tentativa de citação, mas, conforme certidão de 14/06/2022, nada foi feito até então, configurando total inércia processual.
+Tais lapsos demonstram culpa exclusiva da parte exequente, que não diligenciou para a formação válida do processo, impedindo a interrupção da prescrição com eficácia retroativa. Nesse ponto, é irrelevante o argumento de que a citação foi finalmente realizada em 2022, pois, àquela altura, a prescrição já se encontrava consumada.
+Assim, alterar o decidido no acórdão recorrido no que se refere à atribuição de responsabilidade pela demora na citação exige o reexame de fatos e provas, procedimento que é vedado pelo óbice contido na Súmula n. 7/STJ.
+Nesse sentido, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CONTRATO PARTICULAR DE CONFISSÃO DE DÍVIDA. PRESCRIÇÃO MATERIAL RECONHECIDA DE OFÍCIO PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE CITAÇÃO. NÃO INTERRUPÇÃO DO PRAZO PRESCRICIONAL. CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE SUPERIOR. INÉRCIA. MATÉRIA DE PROVA. SÚMULA 7/STJ. AUSÊNCIA DE SIMILITUDE FÁTICA. RECURSO NÃO PROVIDO.
+1. "É consequência inarredável das normas de regência que não há interrupção da prescrição (i) se a citação ocorre depois da implementação do prazo prescricional, salvo demora imputável à administração judiciária (§ 3.º do art. 240 do CPC/2015); ou, mesmo antes, (ii) se a citação não obedece a forma da lei processual" (EAREsp 1.294.919/PR, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 05/12/2018, DJe de 13/12/2018)" (AgInt no AREsp 455.146/RN, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 24/08/2020, DJe de 15/09/2020).
+2. Concluindo o Tribunal de origem pela falha exclusiva do exequente e inexistência de demora inerente ao Poder Judiciário, a modificação desse entendimento exige o reexame de matéria fática, inviável em sede de recurso especial (Súmula 7/STJ).
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.731.734/PR, relator Ministro Raul Araújo, Quarta Turma, julgado em 9/8/2021, DJe de 31/8/2021)
+Por fim, deve ser ressaltado que a incidência da Súmula n. 7 do STJ quanto à interposição pela alínea "a " do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo d e condenar em honorários recursais em razão da ausência de fixação da verba na origem (fl. 582).
+Publique-se. Intime-se.
+ EMENTA
