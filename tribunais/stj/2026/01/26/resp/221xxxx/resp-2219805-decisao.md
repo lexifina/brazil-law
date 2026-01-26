@@ -1,0 +1,47 @@
+DECISÃO
+Cuida-se de recurso especial interposto por GILBERTO DONIZETI CAPELETO, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO assim ementado (fls. 89-90 e 111):
+AGRAVO DE INSTRUMENTO - AÇÃO AUTONOMA DE EXIGIR CONTAS - INTERESSE DE AGIR DOS LEGITIMADOS CONFIGURADO - PRESCRIÇÃO - NÃO OCORRÊNCIA - PROPOSITURA DA PRESENTE AÇÃO APÓS A REMOÇÃO DO INVENTARIANTE, OBSERVADO O PRAZO PRESCRICIONAL DECENAL - DECISÃO MANTIDA - RECURSO DESPROVIDO.
+Em prestação de contas em inventário, o prazo prescricional decenal tem como termo inicial a data de cessação da inventariança. Precedentes.
+Os embargos de declaração opostos foram desprovidos (fls. 156-163).
+Nas razões do presente apelo especial (fls. 178-188), a parte recorrente alegou violação do art. 205 do Código Civil, além de dissídio jurisprudencial. Sustenta, em suma, que deve ser reconhecida a prescrição parcial da pretensão de exigir contas, limitando-se a obrigação aos atos praticados nos dez anos anteriores ao ajuizamento da ação autônoma. Defende que, tendo a ação sido proposta em 21/1/2021, estariam prescritas as contas referentes aos atos de gestão ocorridos antes de 21/1/2011, independentemente da data de remoção do inventariante, pugnando pela reforma do acórdão para fixar tal marco temporal.
+Contrarrazões apresentadas às fls. 210-220.
+Sobreveio o juízo de admissibilidade na instância de origem (fls. 229-235), determinando a remessa dos autos a esta Corte Superior, após interposição de agravo (fls. 239-256).
+Conforme decisão de fls. 294, foi determinada a conversão do agravo em recurso especial.
+É, no essencial, o relatório.
+O apelo nobre tem origem em ação autônoma de exigir contas ajuizada pelo Espólio recorrido contra o ora recorrente, ex-inventariante removido do encargo em 06/11/2017.
+Discute-se, no mérito recursal, o termo inicial da prescrição da pretensão de exigir contas e a abrangência temporal da obrigação de prestar contas, especificamente se a prescrição atinge os atos de gestão praticados há mais de dez anos do ajuizamento da ação, ainda que esta tenha sido proposta dentro do prazo prescricional contado da cessação do encargo.
+No tocante à alegação de que a prescrição deveria incidir sobre os atos de gestão anteriores a dez anos da propositura da demanda, o Tribunal de origem, ao analisar a controvérsia, entendeu que o termo inicial do prazo prescricional decenal é a data da remoção do inventariante ou a cessação da inventariança, e não a data de cada ato de gestão isolado.
+O acórdão recorrido destacou que, tendo o recorrente sido removido do encargo em 6/11/2017 e a ação proposta em 21/1/2021, não houve o transcurso do prazo prescricional de dez anos, sendo devidas as contas de todo o período da gestão.
+Extrai-se do acórdão recorrido (fls. 91-92):
+Consoante o artigo 618, inciso VII, do Código de Processo Civil, na ação de inventário, existe o dever legal do inventariante de demonstrar precisamente a destinação dos bens e direitos sob a sua administração. Significa dizer que incumbe ao inventariante prestar contas de sua gestão ao deixar o cargo ou sempre que o juiz lhe determinar quanto a períodos anteriores à remoção do inventariante. É sabido que após o ato de remoção do anterior inventariante, ainda é possível a propositura de ação autônoma de exigir contas por qualquer dos legitimados contra o inventariante removido - observado, nesse caso, o prazo prescricional de dez anos previsto pelo artigo 205 do Código Civil de 2002.
+(..)
+No caso em exame, a remoção do inventariante agravante se deu em 06/11/2017 enquanto a ação autônoma de exigir contas foi ajuizada em 21/01/2021, ou seja, dentro do prazo decenal. De modo que não há falar em prescrição.
+Com efeito, a decisão da Corte de origem encontra-se em perfeita sintonia com a jurisprudência dominante do Superior Tribunal de Justiça, atraindo a incidência da Súmula 83/STJ, ao afirmar que a ação de exigir/prestar contas tem natureza pessoal; submete-se à prescrição decenal do art. 205 do Código Civil; e o termo inicial do prazo prescricional é a data da remoção do inventariante ou o término da gestão, momento em que surge a pretensão exercitável (actio nata).
+Nesse sentido, cito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE PRESTAÇÃO DE CONTAS. PRETENSÃO DE NATUREZA PESSOAL. PRESCRIÇÃO DECENAL. ART. 205 DO CC/02. PRIMEIRA FASE. DECISÃO PARCIAL DE MÉRITO. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+1. Ação de prestação de contas.
+2. A ação de prestação de contas tem por base obrigação de natureza pessoal, a ela se aplicando a prescrição decenal prevista no art . 205 do CC/02. Precedentes.
+3. Consoante a jurisprudência desta Corte, com a procedência do pedido do autor (condenação à prestação das contas exigidas), o réu fica vencido na primeira fase da ação de exigir contas, devendo arcar com os honorários advocatícios como consequência do princípio da sucumbência.
+4. Agravo interno no recurso especial não provido.
+(AgInt nos EDcl no REsp: 1952570 PR 2021/0081348-2, Relator.: Ministra NANCY ANDRIGHI, Data de Julgamento: 06/12/2021, T3 - TERCEIRA TURMA, Data de Publicação: DJe 09/12/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXIGIR CONTAS. DECISÃO QUE ENCERRA A PRIMEIRA FASE. FIXAÇÃO DE VERBA SUCUMBENCIAL. CABIMENTO. PRESCRIÇÃO. PRAZO DE DEZ ANOS. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Esta Corte Superior entende que é cabível a fixação de verba honorária sucumbencial na decisão que encerra a primeira fase da ação de exigir contas (Súmula 83/STJ) (AgInt no AREsp 1 .425.481/SP, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 28/9/2020, DJe de 1º/10/2020).
+2. A ação de prestação de contas tem por base obrigação de natureza pessoal, a ela se aplicando a prescrição decenal prevista no art . 205 do CC/02. Precedentes  (AgInt nos EDcl no REsp 1.952.570/PR, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 6/12/2021, DJe de 9/12/2021).
+3. Agravo interno desprovido.
+(AgInt no AREsp: 2165736 SP 2022/0210724-9, Relator.: RAUL ARAÚJO, Data de Julgamento: 28/11/2022, T4 - QUARTA TURMA, Data de Publicação: DJe 02/12/2022)
+PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. AÇÃO DE PRESTAÇÃO DE CONTAS. SEGUNDA FASE . HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. SÚMULAS 5 E 7/STJ.
+1. Ação de prestação de contas (segunda fase).
+2. O rito especial da ação de prestação de contas não comporta a pretensão de alterar ou revisar cláusula contratual, em razão das limitações ao contraditório e à ampla defesa. Tema repetitivo 908.
+3. A cobrança da capitalização anual de juros nos contratos bancários depende de previsão contratual expressa. Súmula 568/STJ.
+4. Alterar o decidido no acórdão impugnado, no que se refere à ausência de previsão contratual expressa em relação à capitalização de juros em periodicidade anual, exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, procedimentos que são vedados pelas Súmulas 5 e 7, ambas do STJ.
+5. A ação de prestação de contas tem por base obrigação de natureza pessoal, a ela se aplicando, na vigência do CC/16 a prescrição vintenária prevista no art. 177 ou na vigência do CC/02 a prescrição decenal. Súmula 568/STJ. 6. Agravo interno não provido.
+(AgInt no REsp: 1809429 PR 2019/0106139-4, Relator.: Ministra NANCY ANDRIGHI, Data de Julgamento: 26/10/2020, T3 - TERCEIRA TURMA, Data de Publicação: DJe 29/10/2020.)
+Incide, portanto, o teor da Súmula 83/STJ, aplicável tanto aos recursos interpostos pela alínea a quanto pela alínea c do permissivo constitucional.
+Ressalte-se que, tendo a ação sido ajuizada dentro do prazo de 10 anos contado da remoção do inventariante  fato incontroverso nos autos, visto que a remoção ocorreu em 2017, e a ação foi proposta em 2021  , é plenamente exigível a prestação de contas de todo o período de gestão, não havendo amparo jurídico para a pretensão recursal de delimitação temporal retroativa.
+O prazo prescricional regula o tempo para o exercício da pretensão de exigir as contas (o direito de ação), cujo marco inicial é o fim da gestão ou a remoção do cargo, momento em que a obrigação de prestar contas se torna exigível em sua totalidade.
+Ademais, cumpre esclarecer que a prescrição não fraciona atos de gestão, mas apenas limita o prazo para o exercício da pretensão de fundo. Sendo assim, é juridicamente impertinente a tese de que apenas parte do período administrado estaria sujeita à prestação de contas, uma vez que a obrigação do gestor de bens alheios é contínua e global durante o exercício do encargo. Se a ação foi proposta tempestivamente, a análise deve abarcar a integralidade do período em que o recorrente esteve à frente da inventariança.
+Ademais, a obrigação de prestar contas nasce de forma unitária com o encerramento da gestão, razão pela qual eventual análise de atos específicos, recibos ou despesas deve ocorrer na segunda fase da ação, momento processual adequado para o acertamento das contas e verificação de saldo credor ou devedor.
+Ante o exposto, não conheço do recurso especial.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC, tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+Publique-se. Intimem-se.
+ EMENTA
