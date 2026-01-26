@@ -1,0 +1,52 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por RAFAEL FERREIRA contra decisão monocrática de minha relatoria que não conheceu dos primeiros embargos de declaração opostos (fls. 147-149).
+A parte embargante alega que (fls. 153-156):
+No caso em exame, a parte ora peticionante tomou ciência acerca do presente conflito de competência por meio da juntada de ofício deste É. Tribunal nos autos principais, em tramite na comarca de Caxias do Sul/RS. Do conhecimento, a parte apresentou manifestação neste Conflito de Competência, contudo, dada a vinculação aos autos de origem, entendeu pela desnecessidade de juntada de procuração. Inclusive o próprio suscitante ao apresentar o pedido em 22/11/2024 deixou de acostar a procuração, sando tal vício somente após a devida intimação (fl.69), em 05/12/2024 .. .
+Em sequência, apresentada a manifestação do Embargante a folhas 88, este D. Tribunal Superior, em que pese conste certidão (fl.93, nº 30) de que não foi localizado a procuração do Embargante, tal certidão não foi objeto de publicação  .. .
+A certidão de nº 31 refere-se à ausência de análise de um pedido anteriormente feito por uma das partes. E posteriormente foi dado prosseguimento chegando o feito a transitar em julgado em 08/05/2025, (nº 59, fl.136).
+Contudo, esta procuradora sequer foi habilitada nos autos de modo que a publicação não atingiu o seu real destinatário, privando a parte de ciência efetiva.
+Assim, a sequência dos atos levou ao indeferimento das manifestações subsequentes e ao reconhecimento de intempestividade, sem que a parte tivesse, de fato, sido validamente intimada. Importante esclarecer que somente agora foi expedida intimação formal referente a essa decisão, quando já consumado o prejuízo à parte.
+ ..
+Nos termos do art. 272, §2º, do CPC, as intimações devem ser realizadas em nome do advogado constituído nos autos, sob pena de nulidade. No presente caso, a publicação genérica no DJe, sem qualquer patrono regularmente habilitado, não pode ser considerada intimação válida, porquanto não houve destinatário apto a receber a comunicação.
+A finalidade da intimação é dar ciência inequívoca do ato processual, possibilitando o exercício do contraditório e da ampla defesa. A ausência de intimação regular resultou em prejuízo manifesto, uma vez que a parte foi privada de apresentar a procuração e de impugnar oportunamente a decisão que determinou a baixa dos autos.
+ ..
+Cumpre salientar, ainda, que o Conflito de Competência instaurado perante este Egrégio Superior Tribunal de Justiça não constitui processo autônomo e isolado, mas incidente processual cuja decisão projeta efeitos imediatos e diretos sobre os autos principais em trâmite perante o Juízo da Vara de Caxias do Sul.
+Nesse contexto, a observância do contraditório exige que todos os sujeitos processuais diretamente atingidos pela decisão sejam devidamente intimados para se manifestar no incidente, sob pena de nulidade. O simples manejo do conflito pela parte adversa não afasta a necessidade de oportunizar manifestação à parte contrária, justamente porque a decisão proferida neste Tribunal Superior poderá vincular de maneira definitiva o juízo de origem.
+Ocorre que a parte ora Embargante apenas tomou conhecimento da existência do conflito quando intimada nos autos do processo principal, já após a prática de atos decisórios no STJ, o que revela grave afronta ao contraditório, ampla defesa e da segurança jurídica (art. 5º, LIV e LV, CF). Em nenhum momento houve intimação formal e direta no incidente, circunstância que comprometeu a possibilidade de atuação tempestiva, inclusive para sanar eventual irregularidade de representação.
+ ..
+Se não houve intimação válida, não se pode falar em início de prazo recursal. Logo, não há que se cogitar em intempestividade dos embargos de declaração, pois o prazo sequer teve início. Reconhecer o contrário seria admitir que a parte fosse penalizada por falha na forma de comunicação processual, em afronta ao art. 5º, LV, da Constituição Federal, o que não pode ser admitido por esse Egrégio Tribunal Superior.
+Requer a reforma da decisão embargada, com efeitos modificativos.
+A parte embargada , instada a manifestar-se, apresentou contrarrazões às fls. 166-169.
+É, no essencial, o relatório.
+Nos termos do art. 1.022 do CPC, os embargos de declaração destinam-se a corrigir erro material, esclarecer obscuridade, eliminar contradição ou suprir omissão existente na decisão embargada.
+No caso, alega o embargante que não foi devidamente intimado acerca das decisões proferidas nos autos, razão pela qual não poderia ter sido declarada a intempestividade dos primeiros embargos de declaração opostos, que objetivavam a análise de petição que alega não ter sido considerada no julgamento do conflito.
+Ocorre que, nos termos da jurisprudência desta Corte, é inviável a postulação de declaração de nulidade dos atos processuais ou de inexistência de conflito de competência após o trânsito em julgado da decisão que resolveu o incidente, por meio de recurso reconhecidamente intempestivo.
+A propósito, confiram-se precedentes:
+EXPEDIENTE AVULSO. AGRAVO REGIMENTAL EM CONFLITO DE COMPETÊNCIA. DECISÃO MONOCRÁTICA. AUSÊNCIA DE INTIMAÇÃO PRÉVIA DA DEFESA. NULIDADE. INOCORRÊNCIA. INTEMPESTIVIDADE. CUMPRIMENTO DA PENA PRÓXIMO AO MEIO SOCIAL E FAMILIAR. DIREITO RELATIVO. AGRAVO NÃO CONHECIDO.
+1. "Esgotada a competência jurisdicional desta Corte Superior com o trânsito em julgado da decisão que resolveu o conflito de competência, inviável, por meio de petição avulsa - após a certificação do trânsito em julgado - postular a declaração de nulidade dos atos bem como a inexistência de conflito de competência" (AgInt no CC 161.623/MG, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 26/06/2019, DJe 28/06/2019).
+2. Conforme jurisprudência desta Corte, o conflito de competência tem natureza de incidente processual, não recursal, destinado à solução de divergência sobre o órgão competente para o exercício da atividade jurisdicional. Por isso, não há litígio nem direito subjetivo a ser tutelado que justifique a intervenção de eventuais interessados, inexistindo previsão legal de intimação dos interessados para manifestação.
+ ..
+4. Agravo não conhecido.
+(AgRg no CC n. 175.871/GO, relator Ministro Ribeiro Dantas, Terceira Seção, julgado em 10/2/2021, DJe de 12/2/2021, grifo meu.)
+AGRAVO INTERNO. CONFLITO DE COMPETÊNCIA. INTERPOSIÇÃO APÓS O TRÂNSITO EM JULGADO. EXPEDIENTE AVULSO. INTEMPESTIVIDADE. PRETENSÃO DE DECLARAÇÃO DE NULIDADE DOS ATOS PRATICADOS E DO NÃO CONHECIMENTO DO CONFLITO. NÃO CABIMENTO.
+1. Esgotada a competência jurisdicional desta Corte Superior com o trânsito em julgado da decisão que resolveu o conflito de competência, inviável, por meio de petição avulsa - após a certificação do trânsito em julgado - postular a declaração de nulidade dos atos bem como a inexistência de conflito de competência, com o consequente prosseguimento da execução trabalhista em face do devedor subsidiário, por meio de agravo interno reconhecidamente intempestivo.
+2. Agravo interno a que se não conhece.
+(AgInt no CC n. 161.623/MG, relator Ministro Luis Felipe Salomão, Segunda Seção, julgado em 26/6/2019, DJe de 28/6/2019, grifo meu.)
+Ademais, não há que se falar em nulidade por ausência de intimação do embargante, uma vez que não há previsão legal ou regimental garantindo a intimação pessoal do terceiro interessado para se manifestar quanto ao incidente de conflito de competência, que não possui natureza recursal. Nesse sentido, cito:
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. TERCEIRO INTERESSADO. AUSÊNCIA DE INTIMAÇÃO. NULIDADE. NÃO OCORRÊNCIA. INTEMPESTIVIDADE CONFIGURADA. PRAZO RECURSAL DE 15 DIAS ÚTEIS ESCOADO. ART. 1.021, C/C OS ARTS. 219, CAPUT, 1.003, § 5º, E 1.070 DO CPC/2015. AGRAVO NÃO CONHECIDO.
+1. Com efeito, "Não há falar em intimação pessoal de terceiro interessado para se manifestar no incidente de conflito de competência, por inexistência de previsão legal e regimental que lhe confiram tal prerrogativa" (AgInt no CC n. 151.683/ES, relator Ministro Sérgio Kukina, Primeira Seção, julgado em 15/10/2019, DJe de 18/10/2019).
+2. É intempestivo o agravo interno interposto após o transcurso do prazo de 15 (quinze) dias úteis, nos termos do art. 1.021, c/c os arts. 219, caput, 1.003, § 5º, e 1.070 do Código de Processo Civil de 2015.
+3. Agravo interno não conhecido.
+(AgInt no CC n. 200.726/SP, relator Ministro Marco Aurélio Bellizze, Segunda Seção, julgado em 30/4/2024, DJe de 6/5/2024, grifo meu.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ACÓRDÃO PROFERIDO EM CONFLITO DE COMPETÊNCIA. ALEGAÇÃO DE NULIDADE POR FALTA DE INTIMAÇÃO DA DEFESA. INEXISTÊNCIA. JUSTIÇA CRIMINAL COMUM. DESCLASSIFICAÇÃO. REMESSA AO JUIZADO ESPECIAL. DECISÃO DO PRIMEIRO JUÍZO. NÃO VINCULAÇÃO DO JUÍZO RECEBEDOR.
+1. Trata-se o conflito de competência de incidente processual, sem natureza recursal, destinado à solução de divergência sobre o órgão competente para o exercício da atividade jurisdicional, não havendo, portanto, litígio nem direito subjetivo a ser tutelado que justifique a intervenção de eventuais interessados, inexistindo previsão legal para intimação dos interessados para manifestação.
+(HC 198.110/SP, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 14/2/2017, DJe 17/2/2017). Assim, a falta de intimação da defesa para se manifestar no conflito de competência não caracteriza nulidade.
+ ..
+3. Agravo regimental não provido.
+(AgRg no REsp n. 1.779.309/MS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 21/2/2019, DJe de 1/3/2019, grifo meu.).
+Por fim, cumpre consignar que a argumentação exposta na petição de fls. 88-92 foi claramente afastada pela decisão de fls. 126-129, na qual restaram reconhecidas a concursalidade do crédito e a sua submissão aos efeitos da recuperação judicial, com fundamento nas informações prestadas pelo Juízo recuperacional.
+Assim, a pretensão de rediscutir matéria devidamente abordada e decidida no julgado embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via eleita. Portanto, é evidente que os presentes embargos são incabíveis, pois veiculam pretensão exclusivamente infringente do julgado, sem o propósito específico de sanar obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração.
+Considerando a certificação de trânsito em julgado de fl. 136, dê-se baixa imediata dos autos ao arquivo.
+Publique-se. Intimem-se.
+EMENTA
