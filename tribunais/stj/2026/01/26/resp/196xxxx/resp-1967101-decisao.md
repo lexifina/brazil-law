@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de recurso especial no qual se discute, entre outros temas, a legitimidade concorrente do advogado e da parte para promover a execução dos honorários advocatícios.
+Em sessão realizada no dia 30/09/2025, a Segunda Seção afetou a referida questão para julgamento sob o rito dos recursos repetitivos, nos autos do REsp 2.035.284/SP - Tema n. 1.242, o que impõe a suspensão do presente recurso perante o Tribunal de origem, até a publicação do acórdão paradigma, nos termos do art. 256-L, I, do RISTJ.
+A propósito, cito o teor da ementa das referidas propostas de afetação:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. PROPOSTA DE AFETAÇÃO. LEGITIMIDADE CONCORRENTE PARA POSTULAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. ART. 23 DA LEI 8.906/1994 E ART. 18 DO CÓDIGO DE PROCESSO CIVIL. SUSPENSÃO DE PROCESSOS EM TRÂMITE. PRINCÍPIO DA PROPORCIONALIDADE. AFETAÇÃO À CORTE ESPECIAL DO STJ.
+1. Delimitação da controvérsia: "definir se há legitimidade concorrente do advogado e da parte para promover a execução dos honorários advocatícios.".
+2. Recurso Especial afetado ao rito do art. 1.036 e seguintes do CPC/2015 (art. 256-I c/c art. 256-E do RISTJ, na redação da Emenda Regimental 24, de 28.9.2016.).
+3. Análise da legitimidade concorrente do advogado e da parte para solicitar fixação ou majoração dos honorários advocatícios, com base no art. 23 da Lei 8.906/1994 e no art. 18 do Código de Processo Civil.
+4. Em virtude da relevância do tema e da quantidade significativa de casos análogos, aliadas à observação de decisões incongruentes entre Seções do Superior Tribunal de Justiça, incontornável a afetação dos Recursos à Corte Especial do STJ com vistas a consolidar, de maneira definitiva, o entendimento jurisprudencial a ser seguido pelos Tribunais de primeira e segunda instâncias, minimizando assim as divergências entre as Seções deste Tribunal.
+5. A necessidade de uniformização jurisprudencial não pode ser perseguida a despeito de outros princípios e direitos igualmente importantes. A suspensão indiscriminada dos processos em trâmite poderia comprometer a efetivação de outros direitos subjacentes, em violação ao princípio da proporcionalidade.
+6. Decretada a suspensão de processos em grau de Recurso de segunda instância, bem como de Recursos Especiais e Agravos em Recurso Especial que versem exclusivamente sobre a questão de honorários advocatícios no âmbito do tema aqui delimitado.
+7. Acolhida a proposta de afetação do Recurso Especial como Representativo da Controvérsia, para que seja julgado na Corte Especial (afetação conjunta do REsp 2.035.272/SP, do REsp 2.035.262/SP e do REsp 2.035.052/SP).
+(ProAfR no REsp n. 2.035.284/SP, relator Ministro Herman Benjamin, Corte Especial, julgado em 19/12/2023, DJe de 9/4/2024.)
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, com a respec tiva baixa, para que lá fiquem sobrestados aguardando o julgamento dos Tema n. 1.242 p elo Superior Tribunal de Justiça e, após a publicação dos respectivos acórdãos, em observância ao art. 1.040 do CPC/2015: a) seja negado seguimento ao recurso se a decisão recorrida coincidir com a orientação desta Corte; ou b) proceda-se ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre os temas postos em repercussão geral.
+Publique-se. Intimem-se.
+ EMENTA
