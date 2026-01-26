@@ -1,0 +1,68 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+Terceira Turma Recursal DOS JUIZADOS ESPECIAIS DO DISTRITO FEDERAL
+Processo N.RECURSO INOMINADO CÍVEL 0711276-26.2025.8.07.0006RECORRENTE(S)QUALLITY PRO SAUDE ASSISTENCIA MEDICA AMBULATORIAL LTDA e JOSE LEAO FILHORECORRIDO(S)JOSE LEAO FILHO e QUALLITY PRO SAUDE ASSISTENCIA MEDICA AMBULATORIAL LTDARelatorJuiz MARCO ANTONIO DO AMARAL
+ Acórdão Nº2082280
+
+EMENTA
+
+RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL.  CONSUMIDOR. PLANO DE SAÚDE. COBERTURA AMBULATORIAL. NEGATIVA DE INTERNAÇÃO LÍCITA. DANO MORAL INEXISTENTE. MIGRAÇÃO (UPGRADE) DEVIDA. IMPOSIÇÃO DE CARÊNCIA LEGÍTIMA PARA COBERTURAS ADICIONAIS.  RECURSOS CONHECIDOS. RECURSO DO AUTOR PARCIALMENTE PROVIDO. RECURSO DA RÉ PARCIALMENTE PROVIDO.
+
+1. Trata-se de recursos inominados interpostos em face da sentença exarada pelo Juízo do 2º Juizado Especial Cível e Criminal de Sobradinho que julgou procedentes os pedidos formulados pelo autor e condenou a ré a, no prazo máximo de 2 dias, realizar a migração do seguimento de plano de saúde do autor para o plano Master Senior Mais  AS (ANS.500.012/2402), sem exigência de novo período de carência, bem como a condenou a arcar com indenização a título de dano moral no valor de R$ 5.000,00.
+
+2. Na origem o autor ajuizou ação alegando que em 04.06.2012 contratou com a ré o plano de saúde no seguimento ambulatorial, mas após mais de uma década de contratação, devido ao diagnóstico de doença real crônica, teve o quadro de saúde agravado, chegando ao ponto de enfrentar início de sepse, e não obstante a gravidade, os diversos e reiterados pedidos de internação foram negados pela ré, sob a justificativa de ausência de cobertura, o que o sujeitou a buscar tratamento na rede pública de saúde, bem como na rede privada, obrigando os familiares a arcarem com os respectivos custos dos tratamentos. A seguir, no dia 20.06.2025 o autor solicitou junto à ré a migração do seu plano de saúde para outro mais abrangente, com cobertura de assistência hospitalar, mas a ré não respondeu ao requerimento do autor, obrigando-o a ajuizar ação com o objetivo de alcançar sua pretensão. Preiteia ainda a condenação por dano moral, ao argumento de que a recusa ao atendimento médico necessário, quando necessitava se submeter a diversos tratamentos que exigiam internação configurou ato ilícito.
+
+3. Recursos tempestivos e adequados à espécie. No recurso de id 79211328 a Quallity Pro Saúde Assistência Médica Ambulatorial ltda alega que se mostra necessária a reforma da sentença, vez que na verdade o que ocorreu não foi migração, mas sim contratação de novo produto, com segmentação diversa (de ambulatorial para ambulatorial + hospitalar) com acesso à rede credenciada e abrangência superior, o que enseja o cumprimento dos novos prazos de carência para coberturas que excedem o plano anterior, sob pena de ofensa ao equilíbrio atuarial e ao princípio da mutualidade. Defende ainda a ausência de prática de ato ilícito a amparar a condenação extrapatrimonial, pois a negativa possui fundamento contratual, bem como não restou comprovado que ela agravou o quadro de saúde do autor. Ao final, pleiteia a improcedência dos pedidos formulados na inicial.
+
+4. Já no recurso de id 79211328 o autor alega que a ré não cumpriu a liminar deferida, mas na verdade impôs nova contratação, além de suspender o plano de saúde poucos dias após a repactuação do contrato.   Aduz ainda que a sentença incorreu em omissão ao não analisar o pedido de aplicação de multa cominatória, pelo descumprimento da liminar. O autor defende que a liminar concedida foi descumprida, pois a migração deveria ocorrer sem cumprimento de novo prazos de carência, mas não houve resposta adequada. Além disso, apesar de nunca ter sido interesse do autor, foi incluída nova contratação, com produto não solicitado, consistente em plano odontológico, cujos boletos já foram remetidos ao segurado vencidos.
+
+5. Preparo regular, Id 79211327, em relação ao recurso manejado pela ré. Recurso manejado pelo autor sem preparo, em virtude do pedido de gratuidade de justiça, que ora lhe defiro, pois comprovou que é merecedor do benefício em questão. Foram ofertadas contrarrazões no Id 79211329 e id 79211332, nas quais as partes pleiteiam a rejeição do recurso manejado pela parte contrária.
+
+6. A questão devolvida ao conhecimento desta Turma Recursal consiste em aferir se o segurado que contrata plano de saúde ambulatorial tem direito a tratamento de internação e outros atendimentos médicos que demandam o apoio de estrutura hospitalar. Igualmente, é necessário verificar se no caso em apreço houve defeito na prestação do serviço e prática de ilícito apto a ensejar a condenação por dano moral. Por fim, é necessário definir se, conforme defendido pelo autor, a liminar foi descumprida, ensejando a incidência de multa processual cominatória.
+
+7.  De acordo com o art. 7º da Resolução Normativa nº 465/2021 da ANS, as operadoras de planos de saúde podem ofertar planos nas segmentações ambulatorial, hospitalar, hospitalar com obstetrícia, odontológica ou em suas combinações. Ainda, o art. 18 da mesma resolução dispõe que o plano ambulatorial cobre atendimentos realizados em consultórios ou ambulatórios, além de situações de urgência e emergência, mas exclui internação hospitalar, procedimentos que exijam estrutura hospitalar por período superior a 12 (doze) horas, bem como serviços como internação em Unidade de Terapia Intensiva (UTI).   Por seu lado, o art. 2º da Resolução nº 13/1998 do CONSU determina que os planos ambulatoriais devem garantir cobertura para atendimentos de urgência e emergência, limitada às primeiras 12 (doze) horas.
+
+8. Ainda, sobre o mesmo tema, em recente julgado o STJ assim se manifestou: “a Terceira Turma já decidiu que, “nos casos de urgência e emergência, após o lapso temporal de 12 (doze) horas, no qual se prestou todos os serviços médicos próprios do segmento ambulatorial, a eventual necessidade de internação hospitalar, por definição legal e regulamentar, refoge daquela segmentação ajustada”, e que “a operadora de saúde, a partir de então, não mais se responsabiliza, exceto quanto à obrigação de promover a remoção do paciente para unidade hospitalar (da rede pública ou privada, indicada pelo paciente ou familiar) na qual seja possível o prosseguimento do atendimento hospitalar, se, no local, não houver condições para tanto” (REsp n. 1.764.859/RS, Terceira Turma, julgado em 6/11/2018, DJe de 8/11/2018; AgInt no REsp n. 1.760.667/DF, Terceira Turma, julgado em 18/3/2019, DJe de 22/3/2019). A cessação dessa responsabilidade financeira não autoriza a operadora a abandonar o beneficiário que, tendo sido inicialmente atendido em hospital da rede credenciada, não possua condições de arcar com os custos da internação, seja no próprio ou em outro hospital privado, circunstância em que a operadora tem a obrigação de garantir a continuidade do atendimento do beneficiário, assegurando-lhe a sua remoção para um hospital público (arts. 2° e 7° da Resolução Consu n° 13/1998). (STJ - AgInt no AREsp: Nº 2.162.676/RJ. Relator.: Ministra NANCY ANDRIGHI, Data de Julgamento: 24/05/2025, Data de Publicação 28/05/2025.
+
+9. Logo, a negativa de atendimento de internação ou outro tratamento médico que exija apoio de estrutura hospitalar em plano de cobertura unicamente ambulatorial é legítima e obedece aos termos do contrato firmado entre as partes, bem como à legislação de regência.  Igualmente, se a recusa de cobertura é legítima, não há prática de ato ilícito a ensejar a reparação a título de dano moral, devendo a sentença ser reformada nesta parte. Neste sentido, oportuno citar o acórdão 2058042. Processo 0733007-96.2025.8.07.0000. Relator: JANSEN FIALHO DE ALMEIDA. 4ª Turma Cível.  Julgado 16/10/2025. Publicado no DJE: 29/10/2025, sem página cadastrada.
+
+10. Por outro lado, inegável que o autor possui direito à migração do plano de saúde para outro com cobertura assistencial mais abrangente, que atenda melhor as suas necessidades, e, como restou comprovado, é produto comercializado pela ré. Mas neste caso é legítima a exigência de carência contratual para as coberturas adicionais não contratadas originalmente, salvo as hipóteses de atendimento de urgência ou emergência, conforme previsão do artigo 35-C, incisos I e II, da Lei 9.656/199, que estabelece prazo de carência de apenas 24 horas após a contratação. A exigência de cumprimento de carências para novas coberturas contratadas, salvo urgência e emergência, encontra suporte no art. Art. 7º da Resolução Normativa 438 da ANS, que oportuno, transcrevo: “O plano de destino poderá possuir coberturas não previstas na segmentação assistencial do plano de origem, sendo que, nesses casos, poderá ser exigido o cumprimento de períodos de carências para as coberturas não previstas na segmentação assistencial do plano de origem (...)”.
+
+11. Aliás, no caso em apreço a migração já ocorreu, nos termos do contrato de id 79211301, a qual possui caráter irrevogável, nos termos do artigo 25 da Resolução 562/2022, não havendo que se falar em descumprimento da medida liminar, vez que esta não reconheceu direito do autor à migração sem prazo de carência adicional, mas sim determinou que a ré “respondesse ao pedido do autor em relação ao pedido de upgrade do plano”. Se não houve descumprimento da liminar, não há que se falar em fixação de multa processual, não merecendo prosperar tal alegação do autor no recurso apresentado. Igualmente, apesar de alegar, o autor não comprovou que o plano de saúde repactuado foi suspenso, vez que, pelas informações dos autos, a negativa de atendimento à dependente deu-se em virtude de inobservância do prazo de carência da contratação adicional.
+
+12. Contudo, tendo em vista que efetivamente foi incluído outro produto, plano odontológico adicional, conforme id 79211286, que não é do interesse do autor, é cabível a exclusão do plano odontológico, com a declaração de ilegalidade das cobranças realizadas a tal título.
+
+13.  Recursos conhecidos. Recurso do autor parcialmente provido para determinar a exclusão do plano odontológico, que não é do seu interesse, com a declaração de ilegalidade das cobranças realizadas.  Recurso da ré parcialmente provido para reconhecer como legítima a recusa de atendimento médico de internação quando a cobertura contratada era apenas ambulatorial, conforme plano de origem. Inexistente a prática de ato ilícito, impõe-se a rejeição do pedido de condenação por dano moral.  Igualmente, é legítima a exigência de prazo de carência pela contratação adicional realizada, salvo as hipóteses de atendimento de urgência e emergência, conforme previsão do artigo 35-C, da Lei 9.656/1998, incisos I e II. Sentença parcialmente reformada.
+
+14. Diante da sucumbência preponderante do autor, condeno-o a arcar com honorários advocatícios no valor de 10% do valor atribuído à causa, cuja exigibilidade resta suspensa, em razão dos benefícios da gratuidade de justiça que lhe foram concedidos.
+
+15. A súmula de julgamento servirá de acórdão, com fulcro no art. 46 da Lei n.º 9.099/95.
+
+ACÓRDÃO
+
+Acordam os Senhores Juízes da Terceira Turma Recursal dos Juizados Especiais do Distrito Federal do Tribunal de Justiça do Distrito Federal e dos Territórios, MARCO ANTONIO DO AMARAL - Relator, MARGARETH CRISTINA BECKER - 1º Vogal e GABRIELA JARDON GUIMARAES DE FARIA - 2º Vogal, sob a Presidência da Senhora Juíza MARGARETH CRISTINA BECKER, em proferir a seguinte decisão: RECURSO DE QUALLITY PRÓ SAÚDE ASSISTÊNCIA MÉDICA AMBULATORIAL LTDA. CONHECIDO. PARCIALMENTE PROVIDO. RECURSO DE JOSÉ LEÃO FILHO CONHECIDO. PARCIALMENTE PROVIDO. MAIORIA, VENCIDA A 2ª VOGAL, de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 02 de Fevereiro de 2026
+
+Juiz MARCO ANTONIO DO AMARALRelator
+
+RELATÓRIO
+
+Dispensado o relatório (Lei n. 9099/95, art. 46).
+
+VOTOS
+
+O Senhor Juiz MARCO ANTONIO DO AMARAL - RelatorA súmula de julgamento servirá de acórdão, com fulcro no art. 46 da Lei n.º 9.099/95.
+
+A Senhora Juíza MARGARETH CRISTINA BECKER - 1º Vogal Com o(a) relator(a)A Senhora Juíza GABRIELA JARDON GUIMARAES DE FARIA - 2º Vogal p{text-align: justify;}Eminentes Pares,
+Peço vênia para divergir do voto do Ilustre Relator, negando provimento a ambos os recursos e mantendo a sentença.
+A respeito do recurso da Quallity, como bem delineado na sentença, o art. 13 da Resolução Normativa 245/2011 da ANS, com redação dada pela RN 437/2018, garante o direito de migrar de plano de saúde dentro da mesma operadora sem que haja nova contagem de carências.
+O autor mantinha plano de saúde ativo, modalidade ambulatorial, com a ré desde 2012. Ao manifestar seu interesse em migrar para um plano mais abrangente, modalidade ambulatorial e hospitalar, não poderia ter sido submetido a novo prazo de carência, como o foi, em evidente ato ilícito praticado pela operadora do plano de saúde.
+Face ao referido ato ilícito, o dano moral emerge, tal qual também colocado pela sentença. O valor arbitrado - R$ 5.000,00 - é condizente com a situação vivenciada pelo beneficiário, pelo o que deve ser mantido.
+Com relação ao recurso do autor, não vislumbro descumprimento da medida liminar, tendo em vista que a decisão monocrática determinou apenas que a Quallity respondesse o pedido de alteração de plano do autor e não que realizasse a alteração em si.
+Assim, voto pelo desprovimento de ambos os recursos e consequente manutenção da sentença.
+
+DECISÃO
+
+RECURSO DE QUALLITY PRÓ SAÚDE ASSISTÊNCIA MÉDICA AMBULATORIAL LTDA. CONHECIDO. PARCIALMENTE PROVIDO. RECURSO DE JOSÉ LEÃO FILHO CONHECIDO. PARCIALMENTE PROVIDO. MAIORIA, VENCIDA A 2ª VOGAL
