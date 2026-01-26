@@ -1,0 +1,70 @@
+DECISÃO
+
+HABEAS CORPUS. CONSTITUCIONAL. PENAL. EXECUÇÃO PENAL. TRÁFICO DE ENTORPECENTE E ROUBO CIRCUNSTANCIADO. PEDIDO DE RETIFICAÇÃO DOS CÁLCULOS PARA PROGRESSÃO DE REGIME. LEI
+N. 13.964/2019. RECONHECIMENTO DE REINCIDÊNCIA ESPECÍFICA PELO JUÍZO DA EXECUÇÃO PENAL
+NA UNIFICAÇÃO DAS PENAS. PRECEDENTES. HABEAS CORPUS AO QUAL SE NEGA SEGUIMENTO.
+
+Relatório
+1. Habeas corpus, com requerimento de medida liminar, impetrado pela Defensoria Pública da União em favor de Hanattan Larucy Pereira da Paixão, contra acordão da Quinta Turma do Superior Tribunal de Justiça, que, em 16.12.2025, negou provimento ao Agravo Regimental no Habeas Corpus n. 1.019.810/PR, Relator o Ministro Joel Ilan Paciornik.
+O caso
+2. Consta do processo que o paciente cumpria pena por crime de tráfico de entorpecente quando sobreveio condenação pelo crime de roubo circunstanciado na Ação Penal n. 0001194-08.2023.8.16.0196. Ao unificar as penas, o juízo da Vara de Execuções Penais de Curitiba/PR reconheceu a reincidência específica e determinou a aplicação do percentual de 60% para progressão de regime prisional.
+3. Contra a decisão do juízo de primeira instância, o paciente impetrou habeas corpus manuscrito no Superior Tribunal de Justiça, n. 1.019.810/PR. Em 10.9.2025, o Relator, Ministro Joel Ilan Paciornik, não conheceu da impetração (fls. 25-28, e-doc. 3).
+
+4. Contra esta decisão, a Defensoria Pública da União interpôs agravo regimental. Em 16.12.2025, a Quinta Turma do Superior Tribunal de Justiça, Relator o Ministro Joel Ilan Paciornik, negou provimento ao recurso. Esse acórdão é o objeto do presente habeas corpus.
+
+Narrou a impetrante que “o paciente cumpre pena unificada, tendo sido condenado em 2023 pelo crime de roubo majorado (art. 157, § 2º, II e § 2º-A, I, CP). Possui, ainda, condenação anterior por tráfico de drogas (art. 33, Lei 11.343/06) ocorrida em 2014/2015, portanto, antes da vigência da Lei nº 13.964/2019 (Pacote Anticrime). O Juízo da Execução e o TJPR fixaram o lapso para progressão em 60%, sob o argumento de ‘reincidência específica’ em crime hediondo/equiparado” (fl. 2, e-doc. 1).
+
+Afirmou que “a decisão do STJ sustenta que o ‘fato gerador’ é o crime de 2023. Contudo, para que o réu seja considerado ‘reincidente específico’ em crimes hediondos para fins de 60%, a lei nova está, retroativamente, conferindo um efeito jurídico muito mais gravoso à condenação por tráfico de 2014” (fl. 3, e-doc. 1).
+
+Asseverou que, “se o primeiro crime (tráfico) foi cometido sob uma lei que não previa o patamar de 60% para progressão em caso de novo crime hediondo, aplicar esse percentual agora é punir o paciente hoje por uma condição estabelecida em 2014 com regras de 2019. A aplicação do índice de 60% para a progressão de regime, fundamentada em condenação por fato ocorrido anteriormente à vigência da Lei nº 13.964/2019, materializa uma retroatividade maléfica expressamente vedada pela Constituição Federal” (fl. 5, e-doc. 1).
+
+Estes os requerimentos e os pedidos:
+“Ante o exposto, a Defensoria Pública da União requer:
+1. A concessão da medida liminar, para suspender os efeitos do acórdão da Quinta Turma do STJ e determinar cautelarmente a retificação do cálculo de penas do paciente para o patamar de 40% (quarenta por cento).
+2. No mérito, a concessão definitiva da ordem de habeas corpus, para anular a decisão do STJ e fixar o patamar de 40% para a progressão de regime, em respeito ao princípio da irretroatividade da lei penal mais gravosa” (fl. 6, e-doc. 1).
+
+5. Em 26.12.2025, o Ministro Edson Fachin, Presidente deste Supremo Tribunal, decidiu não haver circunstância que justificasse a análise deste habeas corpus pelo plantão judicial e determinou o encaminhamento dos autos digitais a esta Relatora (e-doc. 16)
+
+Examinada a matéria posta à apreciação, DECIDO.
+
+6. Os elementos constantes do processo não autorizam o prosseguimento desta ação no Supremo Tribunal Federal.
+
+7. O exame do pedido formulado pela impetrante neste momento resultaria em supressão de instância. O mérito da impetração não foi julgado pelo Tribunal de Justiça do Paraná, que se restringiu a examinar a a apelação interposta na Ação Penal n. 1.722.854-7 (fls. 7-19, e-doc. 3). Em habeas corpus manuscrito, o paciente questionou a decisão do juízo da Vara de Execuções Penais de Curitiba/PR diretamente no Superior Tribunal de Justiça.
+
+Este Supremo Tribunal não admite conhecimento de habeas corpus sem apreciação da matéria de fundo pelas instâncias antecedentes, por incabível supressão de instância. Confiram-se, por exemplo, os seguintes julgados:
+
+“AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIMES DE ORGANIZAÇÃO CRIMINOSA, TRÁFICO DE DROGAS, POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO, LAVAGEM DE DINHEIRO E FALSIFICAÇÃO, CORRUPÇÃO, ADULTERAÇÃO OU ALTERAÇÃO DE PRODUTO DESTINADO A FINS TERAPÊUTICOS OU MEDICINAIS. INSTRUÇÃO DEFICIENTE DO WRIT. INVIABILIDADE DE CONHECIMENTO DA IMPETRAÇÃO. SÚMULA 691/STF. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE TERATOLOGIA OU ILEGALIDADE MANIFESTA. ALEGAÇÃO DE EXCESSO DE PRAZO. PREJUDICADO. SUBSTITUIÇÃO DO ATO APONTADO COMO COATOR. PERDA DE OBJETO. 1. A jurisprudência do Supremo Tribunal Federal é firme no sentido da inadmissão do habeas corpus quando não instruído o writ com as peças necessárias à confirmação da efetiva ocorrência do constrangimento ilegal. Precedentes. 2. Não se conhece de habeas corpus impetrado contra indeferimento de liminar por Relator em habeas corpus requerido a Tribunal Superior. Súmula nº 691. Óbice superável apenas em hipótese de manifesta ilegalidade ou teratologia. 3. Inviável o exame de teses defensivas não analisadas pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância. Precedentes. 4. A superveniência de decisão da autoridade apontada coatora corresponde a novo ato a desafiar recurso próprio. Precedentes. 5. Agravo regimental conhecido e não provido” (HC n. 264.726-AgR/GO, Relator o Ministro Flávio Dino, Primeira Turma, DJe 19.12.2025).
+
+“AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. DUPLA TENTATIVA DE HOMICÍDIO QUALIFICADO. COMPROVAÇÃO DA MATERIALIDADE DELITIVA. HABEAS CORPUS LIMINARMENTE INDEFERIDO NO SUPERIOR TRIBUNAL DE JUSTIÇA: SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL. DUPLA SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE COMPROVAÇÃO DE ILEGALIDADE MANIFESTA OU TERATOLOGIA. REEXAME DE PROVAS. INEXISTÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA: INVIABILIDADE. AGRAVO REGIMENTAL DESPROVIDO” (HC n. 237.832-AgR/SP, Relatora a Ministra Cármen Lúcia, Primeira Turma, DJe 20.3.2024).
+
+“AGRAVO REGIMENTAL EM HABEAS CORPUS. PENAL. IMPETRAÇÃO CONTRA DECISÃO MONOCRÁTICA. DUPLA SUPRESSÃO DE INSTÂNCIA. NULIDADE. PREJUÍZO NÃO DEMONSTRADO. PRECEDENTE. PEDIDO MANIFESTAMENTE IMPROCEDENTE E CONTRÁRIO À JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (HC n. 210.325-AgR, Relatora a Ministra Cármen Lúcia, Primeira Turma, DJe 24.2.2022).
+
+8. Este Supremo Tribunal tem admitido, em circunstâncias excepcionais, a superação desses óbices jurisprudenciais. A excepcionalidade é demonstrada em casos nos quais se patenteie flagrante ilegalidade ou contrariedade a princípios constitucionais ou legais na decisão questionada, o que não se comprova na espécie vertente.
+
+9. Ao julgar o agravo regimental no Habeas Corpus n. 1.019.810/PR, a Quinta Turma do Superior Tribunal de Justiça decidiu:
+“AGRAVO REGIMENTAL. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. REINCIDÊNCIA ESPECÍFICA. PERCENTUAL APLICÁVEL. OFENSA AO PRINCÍPIO DA IRRETROATIVIDADE DA LEI PENAL MAIS GRAVOSA. INOCORRÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+I. CASO EM EXAME 1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus, em que se pleiteava a aplicação do percentual de 40% para progressão de regime, sob o argumento de que a condenação anterior por tráfico de drogas não poderia ser considerada como marco legal para reincidência específica, por ser anterior à vigência da Lei n. 13.964/2019.
+II. QUESTÃO EM DISCUSSÃO 2. A questão em discussão consiste em saber se a condenação anterior por tráfico de drogas, ocorrida antes da vigência da Lei n. 13.964/2019, pode ser utilizada como marco legal para reincidência específica, aplicando-se o percentual de 60% para progressão de regime.
+III. RAZÕES DE DECIDIR 3. A reincidência é circunstância de caráter pessoal que deve ser considerada na fase de execução penal, estendendo-se sobre a totalidade das penas somadas para efeito de cálculo dos benefícios executórios. 4. A condenação pelo delito do art. 157, § 2º, II, e § 2º-A, I, do Código Penal, ocorrida em 2023, já sob a vigência da Lei n. 13.964/2019, atrai a incidência das disposições mais gravosas previstas no Pacote Anticrime. 5. Não há ofensa ao princípio da irretroatividade da lei penal mais gravosa, pois a reincidência específica decorre de fato gerador ocorrido após a vigência da nova legislação.
+IV. DISPOSITIVO E TESE 6. Resultado do Julgamento: Agravo regimental desprovido. Tese de julgamento: 1. A reincidência é circunstância de caráter pessoal que deve ser considerada na fase de execução penal, estendendo-se sobre a totalidade das penas somadas para efeito de cálculo dos benefícios executórios. 2. A aplicação do percentual de 60% para progressão de regime é válida quando o fato gerador da reincidência específica ocorre sob a vigência da Lei n. 13.964/2019. Dispositivos relevantes citados: LEP, art. 112; Código Penal, art. 157, § 2º, II, e § 2º-A, I. Jurisprudência relevante citada: STJ, AgRg no HC 761.742/RS, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 14.11.2022; STJ, REsp 1.957.657/MG, Rel. Min. João Otávio de Noronha, Quinta Turma, julgado em 23.11.2021; STJ, AgRg no HC 834.406/SC, Rel. Min. Daniela Teixeira, Quinta Turma, julgado em 12.08.2024” (e-doc. 2).
+
+Sem adentrar o mérito da causa, mas para afastar eventual possibilidade de concessão da ordem de ofício, é de se anotar que, no momento da unificação das penas, a aplicação do percentual de 60% para progressão de regime decorreu do reconhecimento da reincidência específica do paciente. Ao decidir pela extensão dos efeitos da reincidência à totalidade dos crimes pelos quais condenado o paciente, o Superior Tribunal de Justiça observou a orientação deste Supremo  Tribunal sobre o tema. Assim, por exemplo:
+“AGRAVO REGIMENTAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. EXECUÇÃO PENAL. SUPERVENIÊNCIA DE NOVA CONDENAÇÃO. UNIFICAÇÃO DAS PENAS. EXTENSÃO DOS EFEITOS DA REINCIDÊNCIA À TOTALIDADE DOS DELITOS. PROGRESSÃO DE REGIME. REINCIDENTE ESPECÍFICO EM CRIME HEDIONDO OU EQUIPARADO. NECESSÁRIO CUMPRIMENTO DE 60% (3/5) DA PENA IMPOSTA. I. Caso em exame 1. Unificação de penas e progressão de regime. II. Questão em discussão 2. Pretendidas retificação no cálculo da unificação das penas impostas ao recorrente e progressão de regime. III. Razões de decidir 3. Estabelece o art. 111, parágrafo único, da Lei de Execução Penal, que, [sobrevindo] condenação no curso da execução, somar-se-á a pena ao restante da que está sendo cumprida, para determinação do regime. E, nesse contexto, a jurisprudência do Supremo Tribunal Federal fixou-se no sentido de que ‘[a] unificação das penas, em razão de superveniência de nova condenação, tem como consequência a extensão dos efeitos da reincidência à totalidade dos delitos’ (HC 236.298 AgR/SC, Rel. Min. Kássio Nunes, Segunda Turma, DJe 30/9/2024). 4. A alteração do
+art. 112, da Lei de Execução Penal, promovida pela Lei n. 13.964/2019, trouxe novos parâmetros objetivos para a progressão de regimes. Estabeleceu-se, assim, que, em se tratando de apenado por crime hediondo ou equiparado, a progressão se realizará com o cumprimento de ao menos 40% da pena privativa de liberdade. Entretanto, no caso de reincidente específico em crime hediondo ou equiparado, a progressão se dá com o cumprimento de 60% (3/5) da pena. É o que se dá no caso concreto. IV. Dispositivo 5. Agravo regimental ao qual se nega provimento” (RHC n. 247.563-AgR, Relator o Ministro Cristiano Zanin, Primeira Turma, DJe 22.11.2024).
+
+“AGRAVO INTERNO EM HABEAS CORPUS. EXECUÇÃO PENAL. UNIFICAÇÃO DAS PENAS. REINCIDÊNCIA. INCIDÊNCIA SOBRE A TOTALIDADE DOS DELITOS. NEGATIVA DE SEGUIMENTO AO HABEAS CORPUS. 1. A unificação das penas, em razão de superveniência de nova condenação, tem como consequência a extensão dos efeitos da reincidência à totalidade dos delitos. Precedentes. 2. Agravo interno desprovido” (HC n. 236.298-AgR, Relator o Ministro Nunes Marques, Segunda Turma, DJe 3.9.2024).
+
+“Agravo regimental nos embargos de declaração no habeas corpus. 2 Alegação de que teria direito a cumprir 40% da pena para progredir de regime, porquanto teria sido condenado por tráfico privilegiado. Improcedência. 3. Quando implementada a terceira condenação (crime hediondo), o agravante já tinha contra si uma segunda condenação por crime hediondo, de modo que se tornou reincidente em crime hediondo. 4. Unificadas as três execuções, aplica-se o percentual de 60% para a progressão de regime, diante da impossibilidade de se executar cada pena separadamente. 5. Agravo improvido” (HC n. 231.110-ED-AgR, Relator o Ministro Gilmar Mendes, Segunda Turma, DJe 25.10.2023).
+
+No mesmo sentido, as seguintes decisões monocráticas: RHC n. 263.527/SP, Relator a Ministra Cármen Lúcia, DJe 28.10.2025, HC n. 265.387/SP, Relator o Ministro Flávio Dino, DJe 1.12.025, HC n. 261.761/RS, Relator o Ministro André Mendonça, DJe 19.9.2025.
+
+10. Este Supremo Tribunal firmou jurisprudência de que “pode o Relator, com fundamento no art. 21, § 1º, do Regimento Interno, negar seguimento ao habeas corpus manifestamente inadmissível, improcedente ou contrário à jurisprudência dominante, embora sujeita a decisão a agravo regimental“ (HC n. 96.883-AgR, Relatora a Ministra Cármen Lúcia, DJe 1º.2.2011).
+
+11. Pelo exposto, nego seguimento ao habeas corpus (§ 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal), prejudicada a medida liminar requerida.
+
+Publique-se.
+
+Brasília, 26 de janeiro de 2026.
+
+Ministra CÁRMEN LÚCIA
+Relatora
