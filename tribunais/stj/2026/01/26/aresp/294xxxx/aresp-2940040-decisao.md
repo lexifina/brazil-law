@@ -1,0 +1,61 @@
+DECISÃO
+Cuida-se de agravo interposto por WAGNER CHIARELLA GODOY, RODRIGO BAGAIOLO GODOY, MARISTELA BAGAIOLO GODOY contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ cuja ementa guarda os seguintes termos (fls. 497-498):
+" DIREITO CIVIL E PROCESSUAL CIVIL. APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER. NÃO CUMPRIMENTO DE OBRIGAÇÃO CONTRATUAL DE AVERBAÇÃO NO REGISTRO DE IMÓVEIS DE ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. SENTENÇA DE PROCEDÊNCIA. INSURGÊNCIA RECURSAL. PREVISÃO CONTRATUAL DE AVERBAÇÃO NO REGISTRO DE IMÓVEIS. VIOLAÇÃO AO PRINCÍPIO DA BOA-FÉ OBJETIVA. COMPROVADA TENTATIVA DE RESOLUÇÃO DO CASO PELA VIA EXTRAJUDICIAL. NECESSIDADE DE MANUTENÇÃO DA SENTENÇA. RECURSO CONHECIDO E DESPROVIDO.
+1. Caso em exame
+1.1 Recurso de Apelação Cível interposto contra a sentença que julgou procedente o pedido inicial, condenando os requeridos/Apelantes ao "registro do contrato de compra e venda firmado entre as partes, Instrumento Particular de Venda e Compra de Imóvel Garantia de Alienação Fiduciária nº. 071773230011943, na matrícula nº 40.949 do 2º Ofício de Registro de Imóveis da Comarca de Maringá/PR, incluindo o registro da alienação fiduciária em garantia, no prazo de 10 (dez) dias corridos".
+1.2 Em razões de recurso, os Apelantes argumentaram que o contrato não está condicionado ao registro. Sustentaram que o recorrido não logrou êxito na comprovação da hipotética obrigação contratual conferida ao credor no que tange à realização do registro do contrato de compra e venda na matrícula do imóvel dado em garantia. Defenderam que o ônus da respectiva averbação terá de recair sobre o credor fiduciário. Afirmaram que não há prazo legal para a averbação contratual.
+1.3 Em contrarrazões, o BANCO SANTANDER (BRASIL) S.A. alegou que o artigo 23 da Lei 9.514/97 prevê o registro como condição de eficácia da alienação fiduciária em garantia. Defendeu que a instituição financeira demonstrou desde a propositura da demanda que as cláusulas contratuais 11.1 e 1.5 do Instrumento Particular de Venda e Compra de Imóvel Garantia de Alienação Fiduciária nº 071773230011942 estabelecem o dever de levar o contrato ao registro na matrícula do imóvel. Ressaltou que os requeridos nunca impugnaram a veracidade do instrumento contratual, bem como somente em sede de apelação pretendem disputar a validade de outras provas. Destacou que os requeridos não cumpriram o prazo originalmente estabelecido no contrato, que era de 60 (sessenta) dias, conforme a cláusula 1.5.
+2. Questão em discussão
+2.1 A questão em discussão consiste em analisar se os Apelantes possuem o dever de averbar no registro de imóveis o contrato de alienação fiduciária em garantia, nos termos negociados com o Banco recorrido.
+3. Razões de decidir
+3.1 Preenchidos os pressupostos de admissibilidade, o recurso de Apelação Cível deve ser conhecido.
+3.2 No mérito, o apelo cível deve ser desprovido. O contrato previu expressamente o dever de registro, nos itens 1.1.1 e 1.5, do Instrumento Particular de Venda e Compra de Imóvel com Garantia Fiduciária, sob número 071773230011943, firmado em 31 de janeiro de 2019, no valor de R$ 1.400.000,00 (um milhão e quatrocentos mil reais), em 420 (quatrocentos e vinte) parcelas mensais decrescentes.
+3.3 Ademais, como apontou acertadamente o Juízo a quo, ocorreu empecilho ao cumprimento de tal obrigação aos Apelados, mesmo diante da tentativa do recorrente de resolver a situação em sede extrajudicial - notificação extrajudicial datada de 22/02/2021 (movs. 3.11 e 3.12-origem).
+3.4 Por seu turno, não há como alegar que a obrigação esteja resolvida, pois o contrato é válido na forma do art. 22 da Lei nº 9.514/1997, sendo certo que os requeridos/Apelantes reverteram em seu benefício o conteúdo negocial da celebração, restando apenas o competente registro para o atingimento da respectiva eficácia. Portanto, o descumprimento da cláusula contratual acima referida significa violação ao princípio da boa-fé objetiva (art. 422 do Código Civil).
+3.5 Ressalte-se que a alegada falta de previsão legal do dever de registro não deve servir de obstáculo ao cumprimento da obrigação, uma vez que fixada em contrato por autonomia da vontade das partes.
+4. Dispositivo
+4.1 Apelação cível conhecida e desprovida.
+Dispositivos relevantes citados: art. 22 e 23 da Lei nº 9.514/1997; art. 422 do Código Civil; art. 85, §11, do Código de Processo Civil."
+Sem embargos de declaração.
+No recurso especial, alega que o acórdão contrariou as disposições contidas nos artigos 104 e 112 do CC.
+Sustenta, em síntese, que:
+"Contudo, entende-se que o acórdão violou dispositivos do Código Civil e merece reforma, uma vez que a decisão desconsidera que o registro do contrato, embora pactuado entre as partes, não é condição indispensável para a validade e eficácia da obrigação principal assumida.
+Ainda que o princípio da boa-fé objetiva imponha o cumprimento das obrigações contratuais, a ausência de previsão legal que obrigue o registro não pode ser compensada por uma interpretação extensiva que imponha obrigação não prevista na legislação aplicável e tal interpretação contraria os artigos 104 e 112 do Código Civil, que delimitam o alcance da vontade contratual e a interpretação dos negócios jurídicos."
+Foram oferecidas contrarrazões ao recurso especial (fls. 522-538).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 558-560), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 573-575).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+- Da violação dos artigos 104 e 112 do CC.
+A parte recorrente aduz que o acórdão recorrido incorreu em violação ao disposto nos artigos 104 e 112 do Código Civil ao determinar cumprimento de obrigação de fazer consistente no registro, na matrícula do imóvel dado em garantia, de Instrumento Particular de Venda e Compra de Imóvel com Garantia Fiduciária celebrado entre os litigantes, vez que tal ação é desnecessária para a existência de validade do referido negócio jurídico, bem como, inexistente dever legal de a parte recorrente fazê-lo.
+Ao se manifestar sobre o tópico, a corte estadual assim consignou:
+" A sentença deve ser mantida.
+Com efeito, ao se examinar os autos originários, nota-se que os Apelantes, que são os requeridos na obrigação de fazer, tinham a obrigação contratual de averbar o contrato no registro de imóveis, referente ao Instrumento Particular de Venda e Compra de Imóvel com Garantia Fiduciária, sob número 071773230011943, firmado em 31 de janeiro de 2019, no valor de R$ 1.400.000,00 (um milhão e quatrocentos mil reais), em 420 (quatrocentos e vinte) parcelas mensais decrescentes.
+(..)
+Nesse sentido, não procede a tese dos Apelantes/Requeridos de que "a parte requerente não logrou êxito na comprovação da hipotética obrigação contratual conferida ao credor no que tange a realização do registro do contrato de compra e venda na matrícula do imóvel dado em garantia." (mov. 207.1-origem). Ademais, como apontou acertadamente o Juízo a quo, houve recusas injustificadas ao cumprimento do registro do contrato, mesmo após inúmeras tratativas feitas extrajudicialmente entre o Banco Apelado e o então procurador da parte Apelante (mov. 3.16-origem), tal como a notificação extrajudicial datada de 22/02/2021 (movs. 3.11 e 3.12-origem). Por seu turno, não há como alegar que a obrigação esteja resolvida, pois o contrato é válido na forma do art. 22 da Lei nº 9.514/1997, sendo certo que os Apelantes/Requeridos reverteram em seu benefício o conteúdo negocial da celebração, restando apenas o competente registro para o atingimento da respectiva eficácia.
+Há, nessa situação, violação ao art. 422 do Código Civil (princípio da boa-fé objetiva) pelos contraentes do negócio jurídico, impondo-se o cumprimento da obrigação de registro para resolver a adequação da conduta aos termos do contrato.
+(..)
+O fato de haver previsão contratual expressa da obrigação de se efetuar o registro do contrato no Cartório de Registro de Imóveis, especialmente diante da pactuação da alienação fiduciária no contrato firmado entre as partes, torna imperativa a observância da boa-fé objetiva, que impõe às partes o dever de realizar as obrigações inerentes ao contrato, especialmente para salvaguardar direitos do credor fiduciário e permitir a observância integral das obrigações do devedor fiduciante. Ressalte-se que a alegada falta de previsão legal do dever de registro não deve servir de obstáculo ao cumprimento da obrigação, uma vez que fixada em contrato por autonomia da vontade das partes.
+Nesse sentido, VOTO pelo CONHECIMENTO e DESPROVIMENTO do apelo cível em epígrafe, mantendo a sentença nos seus devidos termos. " (fls. 504-506)
+Do trecho transcrito se extrai que a corte estadual, ao proferir a sua decisão, reconhecendo o dever da parte ora recorrente de levar a registro na matrícula do imóvel termo de compra e venda com alienação fiduciária em garantia, levou em consideração aspectos da avença celebrada entre as partes, interpretando as cláusulas contratuais por elas ajustadas.
+Dessa forma, para rever as conclusões alcançadas acerca da existência do dever contratual impugnado, necessário se faz o reexame das cláusulas contratuais aludidas, o que é inviável nos termos da Súmula 5 do STJ.
+A propósito:
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ALIENAÇÃO FIDUCIÁRIA DE IMÓVEL. MULTA CONTRATUAL DE 10%. CLÁUSULA CONTRATUAL. REEXAME DE PROVAS. INTERPRETAÇÃO CONTRATUAL. INCIDÊNCIA DAS SÚMULAS 5 E 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+I. CASO EM EXAME
+1. Agravo interposto contra decisão que inadmitiu recurso especial manejado em ação condenatória relativa à alienação fiduciária em garantia de imóvel. O acórdão recorrido concluiu que, diante do inadimplemento contratual e da consolidação da propriedade, aplica-se o regime previsto nos arts. 26 e 27 da Lei nº 9.514/1997, sendo incabível afastar tais dispositivos em razão de cláusula contratual que previa multa de 10%. A parte agravante sustenta que tal cláusula deve prevalecer em respeito à autonomia da vontade e ao princípio do pacta sunt servanda.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se a cláusula contratual que prevê retenção de 10% do valor pago pode afastar a disciplina específica da Lei nº 9.514/1997; (ii) verificar se é possível, em recurso especial, revisar a interpretação do contrato firmada pelas instâncias ordinárias.
+III. RAZÕES DE DECIDIR
+3. A instância de origem analisou o contexto fático e contratual e concluiu que a cláusula de multa de 10% não tem o condão de extinguir a dívida garantida pela alienação fiduciária, sendo aplicáveis os arts. 26 e 27 da Lei nº 9.514/1997.
+4. A revisão da interpretação da cláusula contratual e da conclusão sobre a intenção das partes demanda reexame de matéria contratual e fático-probatória, o que é vedado pela Súmula 5/STJ ("A simples interpretação de cláusula contratual não enseja recurso especial") e pela Súmula 7/STJ ("A pretensão de simples reexame de prova não enseja recurso especial").
+5. A jurisprudência consolidada do STJ assenta que não compete ao recurso especial funcionar como nova instância de revisão de provas ou de reinterpretação contratual.
+IV.
+DISPOSITIVO
+6. Agravo conhecido para não conhecer do recurso especial.
+(AREsp n. 2.823.667/DF, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 3/11/2025, DJEN de 6/11/2025.)
+Registre-se que, mesmo que não expressamente previstas em lei, as partes podem firmar entre si obrigações mediante contrato, desde observada a boa-fé objetiva e a sua função social, devendo ser cumpridas em observância ao pacta sunt servanda, consubstanciado nos artigos 421 e 422 do Código Civil.
+Ante o exposto, conheço do agravo p ara não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 12% sobre o valor atualizado do proveito econômico.
+Publique-se. Intime-se.
+ EMENTA
