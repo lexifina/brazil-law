@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de agravo interposto por IGREJA EVANGELICA ASSEMBLEIA DE DEUS ALIANCA ETERNA COM CRISTO - MINISTERIO DE ILHABELA - ADAECC contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fls. 521-525):
+COMPROMISSO DE VENDA E COMPRA DE BEM IMÓVEL AÇÃO DE CONSIGNAÇÃO EM PAGAMENTO C. C OBRIGAÇÃO DE FAZER Rescisão da avença pelos compromissários vendedores Possibilidade Compromisso de compra e venda anterior, firmado em 1962, registrado na matrícula do imóvel Suposta desistência do negócio pelo terceiro não comprovada nos autos - Ação improcedente Recurso desprovido, com observação.
+Acolheram-se os embargos de declaração, com efeitos modificativos, para corrigir erro material, em acórdão assim ementado (fls. 541-543):
+EMBARGOS DE DECLARAÇÃO Erro material sanado - Recurso acolhido, com efeito modificativo.
+Após, rejeitaram-se outros embargos de declaração opostos (fls. 563-565).
+No recurso especial, alega a parte recorrente, preliminarmente, ofensa aos arts. 489, § 1º, IV, e 1.022, II, do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, no mérito, que o acórdão contrariou as disposições contidas nos artigos 369, 370, 371 e 373, II, do Código de Processo Civil.
+Sustenta, em síntese, que houve negativa de prestação jurisdicional e que houve cerceamento de defesa quando da negativa de produção de prova testemunhal apta a alterar o deslinde da causa.
+Foram oferecidas contrarrazões ao recurso especial (fls. 601-614).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 615-617), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 648-664).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Cinge-se a controvérsia a saber se houve negativa de prestação jurisdicional e se houve cerceamento de defesa em virtude do indeferimento de prova testemunhal quando o juízo afirma a insuficiência de prova documental unilateralmente produzida.
+Inicialmente, não há falar em ofensa aos arts. 489 e 1.022 do CPC, uma vez que o Tribunal de origem, ao negar provimento à apelação, deixou claro que (fl. 523):
+Alega a Igreja apelante que adquiriu, por meio de compromisso de compra e venda, terreno de propriedade do espólio de Marta de Carvalho Laurito, negociação essa que cumpre todos os requisitos de validade, razão pela qual deve produzir seus regulares efeitos.
+Contudo, conforme averbado na matrícula do imóvel (fls. 140/141), em 19/12/1962, este foi objeto de compromisso de compra e venda, sendo o compromissário comprador José Carlos Barreto Barbosa, o qual não participou da negociação em questão. Portanto, uma vez levado a registro o compromisso de compra e venda firmado com José Carlos, o bem não pode ser novamente alienado a terceiro.
+Nesse sentido, conforme consignado em primeiro grau "ainda que o imóvel em questão esteja registrado em nome de MARTA DE CARVALHO LAURITO e JOÃO BAPTISTA LAURITO, consta na matrícula do imóvel a Av. 2/37.581 que "por força do instrumento particular de 19 de dezembro de 1962, o imóvel objeto desta matrícula foi compromissado à JOSÉ CARLOS BARRETO BARBOSA" (fls. 140/141), ou seja, já recaía sobre o imóvel em questão direito real pertencente à terceiro, o qual não participou da negociação entabulada entre as partes. (..). Anoto, que o fato de transcorrer quase 60 (sessenta) anos da lavratura do compromisso de compra e venda, devidamente averbado na matrícula do imóvel (fls. 140/141), em nada compromete sua validade e higidez, como tenta transparecer a autora em sua réplica" (fls. 162).
+Não prospera a tese da apelante de que o compromissário comprador José Carlos Barreto Barbosa havia desistido da transação, conforme termo datado de 26/09/1974, juntado a fls. 177. Pois, referida rescisão contratual não foi averbada na matrícula do imóvel, sendo documento unilateral insuficiente para afastar os efeitos do registro do compromisso de venda e compra.
+Observa-se, portanto, que a lide foi solucionada em conformidade com o que foi apresentado em juízo. Assim, verifica-se que o acórdão recorrido está com fundamentação suficiente, inexistindo omissão ou contradição.
+Ademais, não merece prosperar a alegação da recorrente no sentido de que seria contraditório o acórdão recorrido ao afirmar, ao mesmo tempo, que documento unilateral seria insuficiente para afastar os efeitos do registro, mas também indeferir produção de prova testemunhal. Isso porque se alegou que a declaração unilateral não afastaria os efeitos de outro documento hígido (registro de compra e venda) a fundamentar a convicção das instâncias ordinárias. Ou seja, consignou-se que as provas produzidas seriam suficientes a formar o decidido.
+Outrossim, é assente na jurisprudência desta Corte que o juiz é o destinatário das provas, cabendo a ele a definição de quais seriam bastantes ao julgamento da causa. Sendo assim, alterar o decidido no acórdão impugnado, no que se refere à suficiência do que fora produzido, bem como a decidir se houve, na origem, cerceamento de defesa, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. CERCEAMENTO DE DEFESA. AFASTAMENTO. FALHA NA PRESTAÇÃO DO SERVIÇO. DANO MORAL CONFIGURADO. QUANTUM. RAZOABILIDADE. RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Desconstituir o entendimento proferido no acórdão recorrido quanto a inexistência de cerceamento de defesa, exige o reexame do conjunto fático-probatório dos autos, inviável na via eleita ante o óbice da Súmula nº 7 do STJ.  ..
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.558.062/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 3/11/2025, DJEN de 6/11/2025. Grifo.)
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 18% sobre o valor atualizado da causa (fl. 543).
+Publique-se. Intime-se.
+ EMENTA
