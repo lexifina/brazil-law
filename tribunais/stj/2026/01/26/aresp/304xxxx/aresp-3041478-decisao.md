@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de agravo interposto por CAIXA DE ASSIST DO MINISTERIO PUBLICO DO ESTADO DO RIO DE JANEIRO contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO cuja ementa guarda os seguintes termos (fl. 357):
+APELAÇÃO CÍVEL. PLANO DE SAÚDE ADMINISTRADO POR ENTIDADE DE AUTOGESTÃO. INCIDÊNCIA DO DIPLOMA CIVILISTA. PROCEDIMENTO CIRÚRGICO CONSISTENTE EM IMPLANTE PERCUTÂNEO DE VÁLVULA AÓRTICA. SENTENÇA DE PROCEDÊNCIA QUE, CONFIRMANDO A TUTELA DE URGÊNCIA DEFERIDA NOS AUTOS, CONDENARA A OPERADORA E O HOSPITAL DEMANDADOS AO CUMPRIMENTO DA OBRIGAÇÃO DE FAZER, NOS MOLDES REQUERIDOS PELO MÉDICO ASSISTENTE, E AO PAGAMENTO DE DANOS MORAIS EM FAVOR DA AUTORA NO IMPORTE DE R$ 10.000,00 (DEZ MIL REAIS), BEM COMO AO PAGAMENTO DAS CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS DE 10% SOBRE O VALOR PACTUADO DA CIRURGIA E 20% SOBRE O VALOR DA CONDENAÇÃO EM DANOS MORAIS. IRRESIGNAÇÃO DA ENTIDADE DE AUTOGESTÃO, QUE PUGNA PELO RECONHECIMENTO DA IMPROCEDÊNCIA DOS PEDIDOS EM RELAÇÃO A SI OU, AINDA, PELA REDUÇÃO DO QUANTUM INDENIZATÓRIO E DOS HONORÁRIOS FIXADOS. NO QUE CONCERNE À RESPONSABILIZAÇÃO DA RECORRENTE, A SENTENÇA SE REVELA ESCORREITA. DEMORA ATRIBUÍVEL A AMBOS OS RÉUS, QUE PASSARAM A NEGOCIAR OS TERMOS DE UM POSSÍVEL "PACOTE" PARA O PROCEDIMENTO, EM QUE PESE O RISCO IMINENTE DE MORTE SÚBITA QUE PAIRAVA SOBRE A AUTORA. INCIDÊNCIA DOS ARTIGOS 186, 187, 422 E 927, PARÁGRAFO ÚNICO, DO CÓDIGO CIVIL. PESSOA IDOSA, QUE CONTAVA COM 85 ANOS À ÉPOCA DOS FATOS, E QUE NECESSITAVA DE CIRURGIA CARDÍACA URGENTE. DANOS MORAIS FIXADOS EM R$ 10.000,00 (DEZ MIL REAIS) QUE SE REVELAM RAZOÁVEIS E PROPORCIONAIS, DIANTE DAS PARTICULARIDADES DO CASO CONCRETO. HONORÁRIOS ADVOCATÍCIOS CUJO PERCENTUAL, CONTUDO, MERECE REDUÇÃO PARA 10% (DEZ POR CENTO) SOBRE O VALOR TOTAL DA CONDENAÇÃO, DIANTE DA SIMPLICIDADE TÉCNICA E DURAÇÃO DA DEMANDA, EM ATENÇÃO AO TRABALHO DO CAUSÍDICO E AOS REQUISITOS CONTIDOS NOS INCISOS DO ARTIGO 85, § 2º, DO CPC. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Rejeitados os embargos de declaração opostos (fls. 388-390).
+No recurso especial, a parte recorrente alega que o acórdão estadual violou os arts. 186 e 927 do CC e 85, §§ 2º e 8º, do CPC.
+Sustenta que "não houve a comprovação de nenhum dano que pudesse gerar à recorrida direito à indenização por danos extrapatrimoniais, sendo impositiva a improcedência do pedido indenizatório" (fl. 398).
+Aduz que "a sucumbência deveria ser fixada unicamente considerando o valor da condenação ao pagamento de danos morais (ou sobre o valor da causa, caso seja esta afastada), e não da obrigação de fazer cumprida antes mesmo do ajuizamento da demanda" (fl. 398).
+Foram oferecidas contrarrazões ao recurso especial (fls. 415-424).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 426-435), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 451-460).
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+Com efeito, o Tribunal de origem analisou detidamente o recurso especial interposto, devendo a decisão de admissibilidade ser mantida por seus próprios fundamentos.
+Verifica-se que, em relação à apontada ofensa aos arts. 186 e 927 do CC, o recurso especial não merece prosperar, porquanto encontra óbice na Súmula n. 7 do Superior Tribunal de Justiça.
+O Tribunal de origem, à luz do conjunto probatório, reconheceu que a operadora de plano de saúde participou ativamente de tratativas comerciais com o hospital, as quais retardaram a autorização de procedimento cardíaco urgente, apesar de laudo médico indicando "risco iminente de morte súbita" (fl. 361).
+Modificar essa conclusão, para acolher a tese de inexistência de ato ilícito em razão de autorização supostamente concedida em três dias e ausência de agravamento do quadro clínico, como sustenta o recorrente, exigiria reexame de fatos e provas, vedado pelo enunciado da Súmula n. 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+Em relação aos honorários, a CAIXA sustenta que a base de cálculo deve incidir apenas sobre os danos morais, ou, subsidiariamente, sobre o valor da causa, além de apontar indevida aplicação de equidade (art. 85, § 8º, do CPC).
+O acórdão recorrido, porém, fixou como base o valor total da condenação - soma da obrigação de fazer com os danos morais - com fundamento expresso no art. 85, § 2º, do CPC e em precedente do Superior Tribunal de Justiça (AgInt no AREsp n. 2.387.769/DF), sem enfrentar a tese de equidade do art. 85, § 8º, do CPC.
+Registre-se, ainda, que os embargos de declaração não versaram sobre honorários, restringindo-se à responsabilidade e ao dano moral.
+Logo, não foi cumprido o necessário e indispensável exame da questão pela decisão atacada, apto a viabilizar a pretensão recursal da recorrente, a despeito da oposição dos embargos de declaração.
+Assim, incide no caso o enunciado da Súmula n. 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo".
+Nesse sentido, cito:
+1. A ausência de debate acerca dos dispositivos legais tidos por violados, a despeito da oposição de embargos declaratórios, inviabiliza o conhecimento da matéria na instância especial, por falta de prequestionamento. Incidência das Súmulas n. 211 do STJ.
+(AgInt nos EDcl no AREsp n. 1.433.979/SP, relator Ministro João Otávio de Noronha, Quarta Turma, DJEN de 17/2/2025.)
+3. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de aclaratórios, impede seu conhecimento, a teor da Súmula nº 211/STJ.
+(AgInt no AREsp n. 1.714.930/SC, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 20/12/2024.)
+2. Não se verifica o exame pelo Tribunal de origem, mesmo após a interposição dos embargos de declaração, da tese em torno da violação dos arts. 171 e 182 do Código Civil, razão pela qual incide, na espécie, a Súmula 211/STJ, ante a ausência do necessário prequestionamento viabilizador do recurso especial, requisito indispensável para o acesso às instâncias excepcionais.
+(AgInt no AREsp n. 2.713.012/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 13/11/2024.)
+Acrescente-se que se o recorrente entendesse persistir algum vício no acórdão impugnado, imprescindível a alegação de violação do art. 1.022 do CPC quando da interposição do recurso especial com fundamento na alínea "a" do inciso III do artigo 105 da Constituição Federal, sob pena de incidir no intransponível óbice da ausência de prequestionamento.
+Nesse sentido:
+1. O recurso especial não comporta conhecimento por ausência de prequestionamento dos dispositivos legais mencionados (artigos 47 e 54 do CDC, artigo 129 do Código Civil). O acórdão recorrido não analisou explicitamente tais dispositivos, e os agravantes não indicaram violação do art. 1.022 do CPC, o que inviabiliza o conhecimento do recurso especial, aplicando-se as Súmulas n. 211 do STJ e 282 do STF.
+(AgInt no REsp n. 2.114.449/SP, relator Ministro João Otávio de Noronha, Quarta Turma, DJe de 6/11/2024.)
+2. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de declaratórios, impede seu conhecimento, a teor da Súmula nº 211/STJ.
+3. Apesar de opostos embargos de declaração na origem, a recorrente não indicou a contrariedade ao artigo 1.022 do Código de Processo Civil, a fim de sanar eventual omissão.
+(AgInt no AREsp n. 2.370.076/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 12/9/2024.)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 12% sobre o valor atualizado da condenação, guardadas as proporções fixadas no acórdão recorrido.
+Publique-se. Intimem-se.
+ EMENTA
