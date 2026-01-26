@@ -1,0 +1,65 @@
+Trata-se de habeas corpus com pedido de liminar impetrado contra despacho proferido por Ministro do Superior Tribunal de Justiça – STJ nos autos do Habeas Corpus — HC 1.063.275/SP. Ao final, busca-se a concessão da ordem para:
+
+[...] determinar que a paciente que é genitora de filha menor de 12 anos de idade, grávida de 02 (dois) meses, faz uso de medicação controlada, possa aguardar a instrução criminal em liberdade, ou outra medida alternativa que não seja prisão preventiva (ou afins), uma vez que não há quaisquer indícios de periculosidade, ou de que a mesma irá se furtar a aplicação da lei penal, sendo inclusive ré primária, tendo bons antecedentes e endereço certo, SUBSTITUINDO A PRISÃO PREVENTIVA POR PRISÃO DOMICILIAR (IN LIMINE).
+Seja substituída a prisão preventiva por prisão domiciliar, com fundamento no artigo 318 – A, inciso V, do CPP, bem como no HC 143.641/SP do STF, com a colocação de monitoração eletrônica (tornozeleira eletrônica), cumulada com outras medidas cautelares nos moldes do artigo 319 do CPP, medida suficiente para que a ordem de habeas corpus seja concedida.
+Presentes aos requisitos necessários, seja deferido o pedido de medida liminar, para, até final julgamento desta ação de “habeas corpus”, suspender, cautelarmente, a eficácia da decisão que decretou a prisão preventiva, ou alternativamente SUBSTITUIR A PRISÃO PREVENTIVA POR PRISÃO DOMICILIAR para a paciente (doc. 1, p. 21).
+
+Durante o período de recesso e férias forenses, o Ministro Presidente desta Suprema Corte solicitou informações ao Tribunal de Justiça do Estado de São Paulo sobre as alegações veiculadas na petição inicial (docs. 6 e 20), as quais foram prestadas por meio do Ofício n. 27.507/2025 (doc. 25).
+
+É o relatório. Decido.
+
+O despacho impugnado tem o seguinte conteúdo:
+
+Trata-se de Habeas Corpus com pedido de liminar impetrado em favor de FRANCIELE CRISTINA DA SILVA CAVALCANTE, no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que, em 15/12/2025, a paciente foi presa em flagrante pela suposta prática dos delitos previstos no art. 33, caput, c/c art. 40, III, ambos da Lei n. 11.343/2006, e que, em 16/12/2025, a custódia foi convertida em preventiva.
+O impetrante sustenta que o indeferimento da liminar na origem teria sido proferido com base em fundamentação referente a pessoa estranha aos autos, especificamente Rafaela Leal Pereira, em patente erro de identificação que acarretaria constrangimento ilegal à paciente.
+Argumenta que a paciente possui condições pessoais favoráveis e faz jus à substituição da prisão preventiva por domiciliar.
+Aduz, ainda, que o decreto de primeiro grau que converteu o flagrante em prisão preventiva carece de fundamentação idônea por se apoiar na gravidade abstrata do delito.
+Requer, liminarmente e no mérito, a substituição da prisão preventiva por domiciliar.
+É o relatório.
+Diante das peculiaridades do caso concreto, entendo prudente, antes de apreciar o pedido de liminar, solicitar informações atualizadas ao Desembargador Plantonista do Tribunal a quo, notadamente sobre a alegação de que as razões da decisão impetrada referem-se a terceira pessoa (fls. 4-6 e-STJ).
+As informações deverão ser prestadas, preferencialmente, por malote digital e com senha de acesso para consulta aos autos.
+Após, tornem os autos conclusos para apreciação (doc. 3).
+
+Este pleito não deve prosseguir.
+
+Isso porque o despacho de mero expediente proferido pelo Ministro Relator do STJ, que solicitou informações ao Tribunal de Justiça do Estado de São Paulo — TJSP antes da análise do mérito da impetração, é desprovido de conteúdo decisório e, como tal, não pode servir de subterfúgio para formular pedido idêntico diretamente no Supremo Tribunal Federal. Com essa compreensão, menciono os seguintes precedentes proferidos em casos análogos:
+
+RECURSO. Agravo Regimental. Habeas Corpus. Decisão que não reconhece a existência de prevenção. Ato de mero expediente. Falta de lesividade. Ato processual insuscetível de causar gravame às partes. Incidência do art. 504 do CPC. Agravo regimental não conhecido. É inadmissível agravo regimental contra despacho que não reconhece a existência de prevenção (HC 89.965 AgR/RJ, Rel. Min. Cezar Peluso, Plenário, DJe 7/2/2012).
+
+AGRAVO REGIMENTAL NO HABEAS CORPUS. MATÉRIA NÃO APRECIADA PELO ÓRGÃO APONTADO COMO COATOR: SUPRESSÃO DE INSTÂNCIA. INSURGÊNCIA CONTRA DESPACHO SEM CONTEÚDO DECISÓRIO. INADEQUAÇÃO DA VIA ELEITA. 1. A jurisprudência deste Supremo Tribunal Federal consolidou-se no sentido da inviabilidade de exame per saltum de questões não apreciadas pelas instâncias antecedentes. 2. A ausência de qualquer conteúdo decisório no despacho proferido pela Ministra Presidente do STJ implica incompetência desta Suprema Corte para examinar a questão de direito versada. Precedentes. 3. Agravo regimental não conhecido (HC 244.365 AgR/SP, Rel. Min. André Mendonça, Segunda Turma, DJe 16/10/2024).
+
+“HABEAS CORPUS” – ATO JUDICIAL QUE DETERMINA O ARQUIVAMENTO DOS AUTOS – RECURSO DE AGRAVO INTERPOSTO CONTRA DESPACHO DE MERO EXPEDIENTE – IRRECORRIBILIDADE – AGRAVO NÃO CONHECIDO.
+- Os despachos de mero expediente – como aqueles que ordenam o arquivamento de autos –, por não se revestirem de qualquer conteúdo decisório, não são passíveis de impugnação mediante recurso (CPC, art. 162, § 3º, c/c o art. 504). Precedentes (HC 109.317 AgR/DF, Rel. Min. Celso de Mello, Segunda Turma, DJe 1º/8/2014).
+
+HABEAS CORPUS. AGRAVO REGIMENTAL. PEDIDO DE INFORMAÇÕES. POSTERIOR NEGATIVA DE SEGUIMENTO. POSSIBILIDADE. IMPETRAÇÃO CONTRA DECISÃO LIMINAR. SÚMULA 691 DO SUPREMO TRIBUNAL FEDERAL. RECURSO A QUE SE NEGA PROVIMENTO. Simples pedido de informações não tem conteúdo decisório quanto ao cabimento da via eleita. Assim, é permitido negar seguimento ao habeas corpus depois do referido despacho, inexistindo preclusão. Inexistência de decisão teratológica que conduza à superação do entendimento firmado na Súmula 691 do Supremo Tribunal Federal. Eventual pronunciamento do Supremo Tribunal Federal resultaria em indevida supressão de instância. Habeas corpus de que não se conhece. Agravo regimental a que se nega provimento (HC 87.754 AgR/SP, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 24/11/2006).
+
+Ademais, não se constata, no ato impugnado, qualquer ilegalidade flagrante ou abuso de poder. Muito pelo contrário: se a argumentação do impetrante não foi, a priori, suficiente para convencer o Magistrado, caberá ao relator ou ao colegiado competente, após a devida instrução do processo, proceder à análise da questão posta em exame — inexistindo, nesse agir, qualquer constrangimento ilegal.
+
+Também não se verifica teratologia, ilegalidade manifesta ou abuso de poder que justifique, de plano, a mitigação da vedação à análise per saltum da matéria suscitada no presente habeas corpus, sobretudo a partir dos esclarecimentos prestados pelo TJSP, cujo teor transcrevo:
+
+Ao apreciar o pedido de liminar nos autos de Habeas Corpus nº 2402763-98.2025.8.26.0000 o despacho respectivo se restringiu ao pedido formulado pelo Impetrante em favor da Paciente e, em que pese conste outro nome no Relatório do despacho (“RAFAELA LEAL PEREIRA”), verifica-se que houve a identificação correta do Processo de origem (nº 1511284-36. 2025.8.26.0395), inclusive com transcrição de partes da sua inicial do HC, portanto, o indeferimento, com a devida vênia, se deu nos limites do pedido.
+Como consignado expressamente:
+“... Alega, que ‘... A paciente encontra-se encarcerada no CENTRO DE DETENÇÃO PROVISÓRIA DE TUPI PAULISTA - SP desde a data de 18 dezembro de 2025, necessitando urgentemente da sua liberdade, para retornar ao trabalho, diga-se de passagem, emprego fixo com carteira assinada, possibilitando cuidar de sua filha menor de 12 anos de idade, assegurando a mesma a dignidade da pessoa humana, o que enseja a substituição da prisão preventiva em prisão domiciliar, caso não seja possível a concessão da liberdade provisória. ...’.
+E mais, ‘... é mãe de criança menor de 12 (doze) anos, está gravida de 02 (dois) meses, faz uso de medicação controlada, por outro lado o CRIME EM TELA NÃO FOI PRATICA ‘EM TESE’ MEDIANTE GRAVE AMEAÇA OU VIOLÊNCIA À PESSOA, são final da ação penal a paciente poderá ser absolvida. ...’.
+Logo, ‘... No caso em tela, a paciente é mãe de 01 (uma) filha, menor de 12 (doze) anos de idade, sendo portanto inquestionável o fato de que a paciente possui a qualidade de mulher com filhos (mãe) de até 12 anos de idade incompletos, artigo 318, inciso V do Código de Processo Penal, bem como ser imprescindível aos cuidados de pessoa menor, ambos requisitos da lei. ...”.
+Destaco que constou do Despacho que indeferiu o pedido de liminar:
+“... A medida liminar em ‘habeas corpus’, por não prevista expressamente entre os art. 647 a art. 667, todos do Código de Processo Penal, é excepcional, razão pela qual está reservada para os casos em que avulta flagrante o constrangimento ilegal. E essa não é a hipótese dos autos.
+Ademais, a análise do pedido revela-se inadequada à esfera da cognição sumária, haja vista confundir-se com o mérito, devendo ser reservado à Colenda Turma Julgadora a solução da questão em toda a sua extensão, sendo que, não foi demonstrado regularmente, de pronto, o fumus boni iuris e o periculum in mora, necessários para concessão da liminar. ...”.
+Observa-se que o pedido de liminar foi analisado de forma fundamentada por este Plantonista, bem como o pleito de prisão domiciliar pelo Juízo das Garantias, que concluiu:
+“... em que pese a custodiada ser primária, estar grávida e possuir filhos menores de 12 anos, a situação excepcionalíssima dos autos impede a concessão da prisão domiciliar prevista no art. 318 do CPP e no HC 143.641/SP do STF. A espírito da norma é a proteção da infância, contudo, no caso em tela, a própria genitora colocou em risco seus filhos e outras crianças. As investigações demonstraram que a residência da autuada, onde vivem seus filhos, foi transformada em verdadeiro depósito para o armazenamento de tijolos de cocaína e ‘crack’, ocultos inclusive na máquina de lavar e no guarda-roupas, locais de fácil acesso aos menores. Ou seja, a custodiada utilizou o próprio lar (e a presença dos filhos) como fachada para ocultar grande quantidade de drogas. Conceder a prisão domiciliar neste cenário seria, na prática, permitir o retorno da agente ao seu local de atividade ilícita (o depósito das drogas), perpetuando a situação de risco às crianças que ali residem e à ordem pública. Tal entendimento encontra amparo na jurisprudência recente do Superior Tribunal de Justiça, que firmou posição no sentido de ser incabível a substituição da prisão preventiva pela domiciliar quando evidenciado que a prática delitiva ocorria no ambiente doméstico, expondo a prole à rotina do tráfico. ...”.
+Evidente o manifesto equívoco ao não se excluir do modelo utilizado apenas o nome de outra Paciente, em outros autos, evidenciando mero erro material comportando retificação até mesmo ex officio, sem que isso implicasse em qualquer prejuízo a ela, pois não passou despercebido qualquer fato que pudesse eventualmente beneficiá-la.
+Nota-se a excepcionalidade do caso a recomendar a prisão preventiva, pois a Paciente, NÃO ENCONTRA-SE GRÁVIDA DE 02 MESES COMO ALEGA O IMPETRANTE (cf. ofício de hoje da SAP); praticou, ao menos em tese, crime de tráfico de drogas em sua própria residência, mantendo em depósito “tijolos” de cocaína e crack - no guarda-roupas e na máquina de lavar - onde sua filha (nascida em 29.12.2013) residia e tinha fácil acesso, a justificar o afastamento do pedido de prisão domiciliar.
+É certo, a Paciente tem filha, de 12 anos de idade, no entanto, não menos certo é que não foi produzida prova alguma de excepcionalidade, de que ela realmente seja a única cuidadora da filha, até porque morava em terreno comum aos seus pais e, a filha, desde o momento de sua prisão encontrava-se com os avós (fls. 15 – autos de HC); não amamenta, até porque o outro filho conta com 15 anos de idade; e, atualmente encontra-se custodiada na Penitenciária Feminina de Tupi Paulista que, segundo informações da SAP - Secretaria de Administração Penitenciária do Estado de São Paulo, dispõe de Ala de Amamentação, onde permanecem bebês com até o sexto mês de vida, conforme se observa no link: https://www1.sap.sp.gov.br/noticias/not2531.html.
+[...]
+Trata-se de Paciente primária, sem nenhum registro de antecedentes, mas a prisão preventiva, medida extrema, mesmo assim, se apresenta mesmo necessária, nos precisos termos em que decretada.
+Buscou-se, com os termos do indeferimento do pedido de liminar, evitar, ao máximo, antecipar juízo de valor quanto ao mérito da pretensão deduzida o que deveria ser reservado ao Relator Sorteado e Colegiado (doc. 25 — grifos meus e no original).
+
+Posto isso, nego seguimento a este habeas corpus (art. 21, § 1°, do Regimento Interno do Supremo Tribunal Federal).
+
+Publique-se.
+
+Brasília, 26 de janeiro de 2026.
+
+Ministro Cristiano Zanin
+Relator
