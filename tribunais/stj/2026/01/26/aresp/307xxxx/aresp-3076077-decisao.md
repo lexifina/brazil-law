@@ -1,0 +1,40 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por MÁRIO BARRETO DE ALMEIDA contra decisão que inadmitiu recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 25/4/2025.
+Concluso ao gabinete em: 28/11/2025.
+Ação: de anulação de registro imobiliário, ajuizada por MÁRIO BARRETO DE ALMEIDA em desfavor de RAFAEL TEIXEIRA BARRETO e LUCIENE MARQUES DE SOUSA BARRETO, na qual requer a declaração de nulidade do registro dos imóveis e a retificação registral para a transferência das matrículas ao seu nome. Alega que, em razão da relação de confiança entre as partes, registrou os imóveis em nome do seu filho e da sua esposa, ora agravados. Afirma que se tratava apenas de uma formalidade para facilitar a administração dos bens, contudo, os agravados passaram a se recusar a transferir os imóveis de volta ao verdadeiro proprietário, caracterizando simulação e abuso de confiança.
+Sentença: julgou improcedentes os pedidos, considerando que não houve alegação de vício de vontade, mas, sim, de vício social, consistente na simulação da qual o próprio agravante teria participado. Conclui, portanto, não ser ser lícito que a parte que conscientemente aderiu a um determinado negócio jurídico, venha, posteriormente, insurgir-se contra ele, sob pena de ofensa ao princípio da boa-fé objetiva.
+Acórdão: negou provimento ao recurso de apelação interposto por MÁRIO BARRETO DE ALMEIDA, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. DIREITO CIVIL E PROCESSUAL CIVIL. CONTRATO VERBAL DE COMPRA E VENDA DE IMÓVEL. GRATUIDADE DE JUSTIÇA. INDEFERIDA. ALEGAÇÃO DE SIMULAÇÃO ENTRE PAI, FILHO E NORA. SIMULAÇÃO ALEGADA PELA PRÓPRIA PARTE. POSSIBILIDADE. CAUSA DE NULIDADE DE NEGÓCIO JURÍDICO. ÔNUS DA PROVA. NÃO DESINCUMBÊNCIA. SENTENÇA MANTIDA. RECURSO CONHECIDO E NÃO PROVIDO.
+1. A gratuidade de justiça somente será deferida aos reconhecidamente necessitados, que não puderem pagar as custas do processo e os honorários advocatícios sem prejuízo do seu sustento ou de sua família, nos termos do art. 99, § 2º, do Código de Processo Civil. 1.1 Os elementos coligidos nos autos não são suficientes para demonstrar a hipossuficiência alegada.
+2. Consoante entendimento do Superior Tribunal de Justiça, "com o advento do CC/2002 ficou superada a regra que constava do art. 104 do CC/1916, pela qual, na simulação, os simuladores não poderiam alegar o vício um contra o outro, pois ninguém poderia se beneficiar da própria torpeza. O art. 167 do CC/2002 alçou a simulação como motivo de nulidade do negócio jurídico. Sendo a simulação uma causa de nulidade do negócio jurídico, pode ser alegada por uma das partes contra a outra (Enunciado nº 294/CJF da IV Jornada de Direito Civil). Precedentes e Doutrina." (REsp n. 2.037.095/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 19/3/2024, DJe de 11/4/2024.)
+3. Apesar da parte confessar ter concorrido para a simulação, o pedido de nulidade pode ser analisado pelo órgão julgador, subsistindo "o que se dissimulou, se válido for na substância e na forma" , consoante art. 167, caput , do Código Civil.
+4. O ônus da prova é de quem alega, em atenção ao art. 373 do Código de Processo Civil. Incumbe ao autor o ônus da prova quanto ao fato constitutivo de seu direito, comprovando que adquiriu o imóvel com recursos próprios e a existência de acordo verbal de administração com a parte ré. A parte autora, ora apelante, contudo, não se desincumbiu desse ônus.
+Recurso conhecido e não provido. (e-STJ fls. 378-379)
+Recurso especial: alega violação dos arts. 167 do CC e 373, § 1º, do CPC. Afirma que a simulação configura nulidade absoluta do negócio jurídico e pode ser reconhecida com a revaloração jurídica de fatos incontroversos, dispensando revolvimento probatório. Aduz que a distribuição dinâmica do ônus da prova deve ser aplicada, por deterem os agravados melhores condições de produzir documentos e informações sobre a aquisição e registro dos imóveis.
+RELATADO O PROCESSO, DECIDE-SE.
+- Do reexame de fatos e provas
+O TJDFT, ao analisar o recurso interposto pelo agravante, concluiu o seguinte (e-STJ fl.383):
+Incumbe ao autor o ônus da prova quanto ao fato constitutivo de seu direito, comprovando que adquiriu o imóvel com recursos próprios e a existência de acordo verbal de administração com a parte ré.
+A parte autora, ora apelante, contudo, não se desincumbiu desse ônus.
+A parte autora não junta comprovante de pagamento do preço, somente alega que os réus deveriam comprovar o pagamento e afirma que estes não possuem condições financeiras de adquirir um bem desse porte. Todavia, se o autor alega pagamento, deveria ter condições de demonstrá-lo.
+De outra banda, documento sem assinatura não possui nenhuma validade jurídica (ID 71114769) e recibos unilaterais não servem como comprovante de propriedade (ID 71114771). Do mesmo modo, procuração com poderes administrativos não comprova propriedade (ID 71114768).
+O documento de ID 71114770, nominado como "Sociedade Rafael e Mário" apesar de apresentar um indício, não se convola como prova definitiva de propriedade frente ao conjunto probatório, podendo se extrair a existência de negócios jurídicos informais e verbais entre as partes, mas sem registro nas propriedades, o que demanda conjunto probatório próprio para comprovação da veracidade da declaração prestada.
+As declarações de prestadores de serviço acostadas em réplica (I Ds 71114797, 71114798, 71114799 e 71114800) vão de encontro ao fato que o autor possuía poderes de administração e gerência da propriedade, consoante procuração, mas não comprovam que, de fato, era o dono.
+Os réus, por outro lado, além de possuíram a propriedade registral, também comprovam o exercício de poderes de administração sobre o bem, consoante documentos de ID 71114787 e 71114788.
+Assim, à míngua de elementos probatórios quanto à comprovação de que o bem seria de propriedade da parte autora e não dos réus, é o caso de manutenção da Sentença
+Desse modo, alterar o decidido no acórdão impugnado, no que se refere à existência ou não de simulação na hipótese, a ensejar a nulidade do negócio jurídico, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos argumentos invocados pela parte agravante em seu recurso especial quanto à necessidade de inversão do ônus da prova, nos termos do art. 373, §1º, do CPC, tido por violado, o que inviabiliza o seu julgamento.
+Frise-se que a matéria somente foi alegada quando da interposição do recurso especial, revelando-se verdadeira inovação recursal a inviabilizar seu conhecimento. Não houve sequer oposição de embargos de declaração pela parte agravante, a fim obter a prestação jurisdicional pretendida.
+Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 282/STF.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 11% sobre o valor da causa (e-STJ fl. 384) para 12%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE ANULAÇÃO DE REGISTRO IMOBILIÁRIO. SIMULAÇÃO. NÃO VERIFICADA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. INVERSÃO DO ÔNUS DA PROVA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF.
+1. Ação de anulação de registro imobiliário.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+4. Agravo conhecido. Recurso especial não conhecido.
