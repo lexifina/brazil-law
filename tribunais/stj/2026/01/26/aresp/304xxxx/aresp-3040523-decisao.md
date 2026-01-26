@@ -1,0 +1,47 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por RONALDO DE JESUS NASCIMENTO contra decisão que inadmitiu recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional..
+Agravo em recurso especial interposto em: 1/8/2025.
+Concluso ao gabinete em: 30/10/2025.
+Ação: demarcação de terra, ajuizada por RONALDO DE JESUS NASCIMENTO, em face de BENEDITA RODRIGUES, na qual requer promover o desmembramento das áreas adquiridas e a outorga de escritura definitiva.
+Sentença: julgou improcedentes os pedidos. Julgou parcialmente procedentes os pedidos reconvencionais, para: i) decretar a rescisão dos contratos firmados em 2013, 2015 e 2018; ii) condenar a requerida a restituir ao requerido a quantia de R$ 5.000,00 (cinco mil reais).
+Acórdão: negou provimento ao recurso de apelação interposto por RONALDO DE JESUS NASCIMENTO, nos termos da seguinte ementa:
+Direito civil e processo civil. Apelação. Compra e venda de imóveis. Obrigação de fazer. Preliminares. Prescrição. Julgamento extra petita. Inocorrência. Mérito. Outorga de escritura definitiva. Adimplemento não demonstrado. Art. 476 do Código Civil.
+O reflexo do reconhecimento da nulidade do contrato é justamente a sua rescisão. O magistrado não age além do pedido quando aplica a consequência jurídica relativa ao reconhecimento formalmente pretendido pela parte. Por isso, não está configurado o julgamento extra petita nesta hipótese.
+A prescrição é matéria de ordem pública, podendo ser suscitada a qualquer tempo e grau de jurisdição, não se submetendo, assim, à preclusão temporal. No entanto, uma vez decidida e não recorrida a matéria a tempo e a modo, ocorre a preclusão consumativa.
+É do devedor o ônus de comprovar o cumprimento da sua obrigação contratual. No presente caso, o comprador não demonstrou o pagamento integral dos imóveis em relação aos quais recai a obrigação imposta à parte adversa na qualidade de vendedora, razão pela qual não prosperou o seu intento, já que o pagamento permaneceu sendo ponto controvertido. Desse modo, é correta a aplicação do art. 476 do Código Civil, que preconiza que, nos contratos bilaterais - como são os de compra e venda -, nenhum dos contratantes, antes de cumprida a sua obrigação, pode exigir o implemento da do outro. (e-STJ fls. 355-356)
+Embargos de Declaração: opostos por RONALDO DE JESUS NASCIMENTO, foram rejeitados.
+Recurso especial: alega violação dos arts. 5º, LV, da CF, 111, 206 e 421 do CC, e 141 e 492 do CPC, bem como dissídio jurisprudencial. Afirma que a pretensão de resolução contratual por inadimplemento está prescrita no prazo trienal, com pedido de reconhecimento da matéria de ordem pública. Aduz que houve julgamento extra petita ao rescindir contratos sem pedido expresso, em afronta aos limites da causa e ao princípio da congruência. Argumenta que a distribuição do ônus da prova foi invertida, incumbindo à requerida demonstrar fato impeditivo, modificativo ou extintivo do direito do autor. Assevera que a boa-fé objetiva e a vedação ao comportamento contraditório foram desrespeitadas, impondo o reconhecimento do adimplemento e a outorga de escritura.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação de dispositivo constitucional ou de súmula
+A interposição de recurso especial não é cabível quando ocorre violação de súmula, de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+Nesse sentido: REsp n. 2.150.045/SP, Terceira Turma, DJEN de 4/4/2025; AgInt nos EDcl no AREsp n. 2.547.577/RJ, Primeira Turma, DJe de 22/11/2024; AgInt no AREsp n. 2.377.757/TO, Segunda Turma, DJe de 29/11/2023.
+Desse modo, o recurso especial não merece conhecimento em relação ao art. 5º, LV, da CF.
+- Da Súmula 568 do STJ
+A Corte de origem, ao julgar o recurso de apelação interposto pelo recorrente, concluiu o seguinte (e-STJ fls. 352-354):
+Não prospera o argumento de que o julgamento extrapolou o limite do pedido reconvencional, pois na peça de reconvenção (ID 26133724) a Apelada formulou o seguinte pleito: "Que seja declarado a nulidade das simulações dos contratos, por falta de pagamento, coação, objeto divergente, e também sobre a área apontada que não condiz área real da Requerida e valores abaixo pelo preço praticado no comércio." (sic)
+O reflexo do reconhecimento da nulidade do contrato é justamente a sua rescisão. Logo, o magistrado não agiu fora do limite do pedido, mas aplicou a consequência jurídica relativa ao reconhecimento formalmente pretendido pela parte. Por isso, deve ser afastada a preliminar. (..)
+A discussão acerca da prescrição foi suscitada na instrução processual e decidida pelo magistrado na decisão saneadora (ID 26133743), a qual não foi objeto de recurso.
+De fato a prescrição é matéria de ordem pública, podendo ser suscitada a qualquer tempo e grau de jurisdição, não se submetendo, assim, à preclusão temporal. No entanto, uma vez decidida e não recorrida a matéria a tempo e a modo, ocorre a preclusão consumativa, conforme entende o STJ (..)
+Logo, considerando que a alegação de prescrição foi submetida ao crivo do primeiro grau e nele decidida mediante decisão saneadora, e que não houve recurso interposto sobre aquela decisão, constata-se a ocorrência de preclusão consumativa na hipótese, tendo-se formado coisa julgada formal e material, sendo, assim, impossibilitada a reanálise da matéria no apelo por esta Corte. Por isso, fica afastada a prejudicial (grifos acrescidos).
+Da leitura dos trechos acima, verifica-se a decisão proferida pelo Tribunal local não destoa da jurisprudência do STJ que é no sentido de que sujeitam-se à preclusão as questões decididas no processo, inclusive as de ordem pública, que não tenham sido oportunamente impugnadas.
+Nesse sentido: AgInt nos EDcl no AREsp 2.607.389/RS, Terceira Turma, DJEN 27/3/2025; AgInt no REsp. 2.134.225/SP, Terceira Turma, DJe 14/8/2024.
+Outrossim, nos termos da jurisprudência pacífica desta Corte "não configura julgamento ultra petita ou extra petita o provimento jurisdicional proferido nos limites do pedido, o qual deve ser interpretado lógica e sistematicamente a partir do pedido como um todo" (AgInt no AREsp 2.492.102/RS, Quarta Turma, DJe 12/9/2024).
+Nesse sentido: REsp 2.124.854/AP, Terceira Turma, DJEN 6/11/2025; AREsp 2.234.032/RJ, Terceira Turma, DJEN 6/11/2025; REsp 1.677.672/SC, Quarta Turma, DJEN 11/4/2025.
+Assim, com fundamento na Súmula 568/STJ, o recurso não deve ser provido.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere ônus do devedor de comprovar o cumprimento da sua obrigação contratual e a análise sobre a boa-fé contratual, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da divergência jurisprudencial
+Além disso, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente (ônus do devedor de comprovar o cumprimento da sua obrigação contratual e a análise sobre a boa-fé contratual), impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Isso porque, a demonstração da divergência não pode estar fundamentada em questões de fato, mas apenas na interpretação do dispositivo legal. Nesse sentido: AgInt no AREsp n. 1.974.371/RJ, Terceira Turma, DJe de 22/11/2023 e REsp n. 1.907.171/RJ, Quarta Turma, DJe de 11/1/2024.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 12% sobre o valor da causa (e-STJ fls. 355) para 15%, observada a gratuidade de justiça concedida nos autos.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DEMARCAÇÃO DE TERRAS. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL OU DE SÚMULA. DESCABIMENTO. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO PREJUDICADO. SÚMULA 568/STJ.
+1. Ação de demarcação de terras.
+2. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional, de súmula ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+3. A jurisprudência do STJ é no sentido de que sujeitam-se à preclusão as questões decididas no processo, inclusive as de ordem pública, que não tenham sido oportunamente impugnadas. Precedentes.
+4. Nos termos da jurisprudência pacífica desta Corte "não configura julgamento ultra petita ou extra petita o provimento jurisdicional proferido nos limites do pedido, o qual deve ser interpretado lógica e sistematicamente a partir do pedido como um todo" (AgInt no AREsp 2.492.102/RS, Quarta Turma, DJe 12/9/2024).
+5. O reexame de fatos e provas em recurso especial é inadmissível.
+6. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+7. Agravo conhecido. Recurso especial parcialmente conhecido e, nesta extensão não provido.
