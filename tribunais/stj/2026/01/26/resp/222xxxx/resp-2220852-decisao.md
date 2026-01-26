@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso especial interposto por Torquata Aires Pereira, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, no qual se insurge contra o acórdão do Tribunal de Justiça do Estado do Tocantins (TJTO) assim ementado (fls. 67/68):
+DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. PAGAMENTO DO DÉBITO PRINCIPAL APÓS O AJUIZAMENTO. HONORÁRIOS ADVOCATÍCIOS FIXADOS NO DESPACHO INICIAL. PRINCÍPIO DA CAUSALIDADE. PROSSEGUIMENTO DA EXECUÇÃO PARA A COBRANÇA DOS HONORÁRIOS. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Trata-se de agravo de instrumento interposto contra decisão que determinou a constrição de valores via Sistema de Busca de Ativos do Poder Judiciário (Sisbajud), referente aos honorários advocatícios arbitrados no despacho inaugural de execução  scal. A parte agravante sustenta que parcelou o débito executado por meio de Programa de Recuperação Fiscal (Re s) antes de sua citação, motivo pelo qual a execução deveria ser extinta sem a imposição de honorários advocatícios. Requereu a concessão de efeito suspensivo, o qual foi indeferido. No mérito, pugna pelo provimento do recurso para afastar a cobrança da verba honorária.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em determinar se, havendo pagamento do débito principal após o ajuizamento da execução  scal, subsiste a obrigação do executado de arcar com os honorários advocatícios fixados no despacho inicial.
+III. RAZÕES DE DECIDIR
+3. O pagamento do débito principal não afasta a obrigação de quitação dos honorários advocatícios arbitrados no despacho inicial, pois estes possuem natureza alimentar e são devidos ao advogado público, nos termos do artigo 85, § 19, do Código de Processo Civil (CPC).
+4. Pelo princípio da causalidade, a parte que deu causa à propositura da demanda deve responder pelas despesas processuais, incluindo os honorários advocatícios, independentemente da posterior quitação do débito principal.
+5. Nos termos do § 2º do artigo 2º da Lei de Execução Fiscal (Lei nº 6.830/1980), a satisfação da obrigação compreende não apenas o pagamento do crédito  scal exequendo, mas também das custas processuais e honorários advocatícios.
+6. A tese  rmada no Tema 1184 do Supremo Tribunal Federal (STF), que autoriza a extinção de execuções  scais de baixo valor, não se aplica a hipóteses em que a execução persiste exclusivamente para a cobrança dos honorários advocatícios.
+7. O percentual  xado para os honorários advocatícios, em 10% do valor do débito, está em consonância com o artigo 85, § 2º, do CPC, inexistindo excesso a ser corrigido.
+IV. DISPOSITIVO E TESE
+8. Recurso desprovido.
+Tese de julgamento:
+1. O pagamento do débito principal pelo executado após o ajuizamento da execução  scal não afasta a obrigação de arcar com os honorários advocatícios arbitrados no despacho inicial, que possuem natureza alimentar e são devidos ao advogado público.
+2. O princípio da causalidade impõe que a parte que deu causa à propositura da execução deve responder pelas despesas processuais, incluindo os honorários advocatícios, mesmo após a quitação do débito exequendo.
+3. A extinção da execução  scal exige o pagamento integral das verbas devidas, incluindo honorários advocatícios e custas processuais, conforme o artigo 2º, § 2º, da Lei de Execução Fiscal.
+Não foram opostos embargos de declaração.
+A parte recorrente alega violação dos arts. 26 da Lei 6.830/1980; 6º, §1º, da Lei 11.941/2009; e 85, §10, do Código de Processo Civil (CPC), pois entende que a adesão ao Programa de Recuperação Fiscal (Refis) e o pagamento integral do débito antes da citação válida impõem a extinção da execução fiscal sem condenação em honorários, por ausência de formação da relação processual e perda de objeto, além de haver previsão legal específica de dispensa de honorários nos parcelamentos (fls. 82/89).
+Sustenta ofensa ao art. 6º, §1º, da Lei 11.941/2009 ao argumento de que "Ficam dispensados os honorários advocatícios em razão da extinção da ação na forma deste artigo", aplicando-se a hipótese de extinção por adesão ao parcelamento antes da citação (fls. 85/86).
+Aponta violação do art. 85, §10, do CPC alegando que, na perda de objeto decorrente do pagamento anterior à citação, os honorários devem ser atribuídos a quem deu causa ao processo, o que não se verifica quando o executado quita o débito espontaneamente sem resistência e sem atuação útil da Procuradoria Municipal (fls. 86/87).
+Aduz que o art. 26 da Lei 6.830/1980 conduz à extinção da execução sem ônus quando, antes da decisão de primeira instância, ocorre cancelamento da Certidão de Dívida Ativa (CDA), devendo ser interpretado em conformidade com a extinção por pagamento voluntário antes da citação, que evidencia ausência de sucumbência e de atuação processual útil da Fazenda Pública (fls. 87/89).
+A parte recorrente aponta, ainda, a existência de divergência jurisprudencial às fls. 83/85, indicando acórdão do Tribunal de Justiça de Pernambuco (TJPE) e o Tema 663 do Superior Tribunal de Justiça (STJ) para afirmar o descabimento de honorários quando há extinção por pagamento espontâneo/adesão a parcelamento antes da citação.
+Contrarrazões apresentadas às fls. 98/110.
+O recurso foi admitido (fls. 119/120), apenas pela alínea a do inciso III do art. 105 da Constituição Federal, quanto à alegada violação do art. 85, §10, do CPC, com negativa de seguimento quanto à alínea c e às demais dispositivos por falta de prequestionamento e deficiência formal, à luz das Súmulas 284 e 356 do Supremo Tribunal Federal (STF).
+É o relatório.
+Na origem cuida-se de execução fiscal, objetivando a cobrança de débitos inscritos em Certidões de Dívida Ativa (CDA) do Município de Palmas.
+A controvérsia cinge-se à possibilidade de fixação de honorários sucumbenciais em execução fiscal extinta pelo pagamento administrativo do débito realizado antes da citação do executado.
+O acórdão recorrido adotou o entendimento de que, mesmo sendo inexistente a citação, é devida a condenação do devedor ao pagamento dos ônus sucumbenciais.
+Nos termos da jurisprudência consolidada desta Corte Superior, firmada sob a sistemática dos recursos repetitivos, a definição dos ônus sucumbenciais deve observar o princípio da causalidade, impondo-se a responsabilidade à parte que deu causa à instauração da demanda.
+Na espécie, é incontroverso que o executado deixou de adimplir o crédito tributário no prazo legal, circunstância que ensejou o ajuizamento da execução fiscal. O pagamento posterior, ainda que realizado antes da citação, não afasta o fato de que a inadimplência inicial foi a causa direta da propositura da ação.
+A Primeira Seção do Superior Tribunal de Justiça consolidou entendimento no sentido de que, com base no princípio da causalidade, são devidos honorários advocatícios pela parte executada quando a execução fiscal é extinta em decorrência de pagamento extrajudicial realizado após o ajuizamento da ação, ainda que não efetivada a citação, conforme assentado no julgamento do AgInt nos EAREsp n. 2.271.119/TO, relator Ministro Afrânio Vilela, Primeira Seção, julgado em 18/2/2025, DJEN de 21/2/2025:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. CONSONÂNCIA DO ACÓRDÃO EMBARGADO E DA DECISÃO AGRAVADA COM A JURISPRUDÊNCIA DESTE TRIBUNAL DE JUSTIÇA. SÚMULA 168/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O acórdão impugnado nos embargos de divergência e a decisão ora agravada estão em consonância com a orientação firmada pelas Turmas que compõem a Primeira Seção deste Tribunal de Justiça, no sentido de que, com base no princípio da causalidade, os honorários advocatícios são devidos pela parte executada, havendo a extinção da execução fiscal em decorrência do pagamento extrajudicial do quantum devido, após ajuizada a ação, ainda que não efetivada a citação. Precedentes. Diante desse contexto, mantém-se o não conhecimento dos embargos de divergência, com base na Súmula 168/STJ: "Não cabem embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado."
+2. Agravo interno não provido.
+(AgInt nos EAREsp n. 2.271.119/TO, relator Ministro Afrânio Vilela, Primeira Seção, julgado em 18/2/2025, DJEN de 21/2/2025.)
+Nesse contexto, o acórdão recorrido observou a orientação firmada por esta Corte Superior quanto à aplicação do princípio da causalidade, razão pela qual deve ser mantido.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
