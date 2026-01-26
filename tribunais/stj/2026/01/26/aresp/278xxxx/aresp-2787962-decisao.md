@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de agravo interposto por JOSE VINICIUS DE CAMPOS, NORMA ANTONIETA THUME CAMPOS e THOMASIA JUSSARA SOUSA THUME contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que os agravantes interpuseram recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS cuja ementa guarda os seguintes termos (fls. 1167-1186):
+"EMENTA: AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA - DIRECIONAMENTO EQUIVOCADO A RÉUS EXCLUÍDOS DA LIDE - MERO ERRO MATERIAL - ARTIGO 940 DO CÓDIGO CIVIL - INAPLICABILIDADE - PERÍCIA PARA APURAÇÃO DO VALOR DEVIDO - DESNECESSIDADE - IMPOSSIBILIDADE DE DISCUSSÃO QUANTO AO QUE RESTOU DECIDIDO EM SENTENÇA - DECISÃO RECORRIDA MANTIDA. - A despeito do cumprimento de sentença ter prosseguido em desfavor das requeridas excluídas da lide certo é que não passou de um mero erro material, na medida em que, por um equívoco, após o trânsito em julgado, os nomes destas não foram excluídos do PJE. - Não há nenhuma malícia ou perversidade por parte do Exequente em suas manifestações, tendo o equívoco decorrido de uma sucessão de erros processuais, os quais não podem ser atribuídos exclusivamente ao credor, razão pela qual não há que se falar em aplicação do artigo 940 do CC. - O agravante pretende, através de via transversa, modificar a coisa julgada decorrente da sentença transitada em julgado, na medida em que, na fase de conhecimento, já foi reconhecida a sua responsabilidade pelo pagamento dos débitos de aluguel, taxas condominiais e IPTU. - Desnecessária a realização de perícia para apuração do quantum debeatur, sendo necessário simples cálculos aritméticos. "
+Rejeitados os embargos de declaração opostos (fls. 1200-12 04).
+No recurso especial requer sejam os recorridos condenados ao pagamento da repetição de indébito em favor de Norma e Thomasia, bem como seja o executado José Vinicius de Campos submetido ao cumprimento de sentença, apurando-se o período em que o executado permaneceu residindo no imóvel.
+Sem contrarrazões ao recurso especial (fl.1398).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls.1399-1400), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls.1507-1516).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+- Súmula 284 do STF.
+Verifica-se, das razões do recurso especial, que o recorrente deixou de estabelecer, com a precisão necessária, quais os dispositivos de lei federal considera violados, para sustentar a irresignação pela alínea "a" do permissivo constitucional. Incidência da Súmula n. 284 do STF.
+Da detida análise da peça recursal não se aponta quais os dispositivos de lei federal foram violados, nem restou demonstrado o dissídio jurisprudencial, pelo que se afigura inadmissível o conhecimento do recurso.
+Nesse sentido:
+"A jurisprudência desta Corte considera que quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284, do Supremo Tribunal Federal. Em relação à afronta aos arts. 13 da Lei n. 10.559/2002 e 943 do Código Civil, verifica-se a ausência de demonstração precisa de como tal violação teria ocorrido, limitando-se a parte recorrente em apontá-la de forma vaga, o que impede o conhecimento do recurso especial". (AgInt no REsp n. 1.496.338/RS, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 27/8/2020.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.826.355/RN, relator Ministro Og Fernandes, Segunda Turma, DJe de 4/8/2020; AgInt no AREsp n. 1.552.950/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 8/5/2020; AgInt no AREsp n. 1.617.627/RJ, AgInt no AREsp n. 1.617.627/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 14/8/2020; AgRg no REsp n. 1.690.449/MG, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 5/12/2019; AgRg no AREsp n. 1.562.482/SP, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 28/11/2019.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+- Honorários recursais
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+Publique-se. Intime-se.
+ EMENTA
