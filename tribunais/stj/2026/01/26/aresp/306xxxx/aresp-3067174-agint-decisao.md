@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de agravo interno interposto pela ERRES TREINAMENTO, DESENVOLVIMENTO E COMERCIO LTDA contra decisão monocrática proferida pela Presidência do STJ, que aplicou a Súmula 182 do STJ (fls. 1.347-1.348).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS assim ementado (fl. 787):
+APELAÇÃO CÍVEL - AÇÃO INDENIZATÓRIA - CONTRATO DE FRANQUIA - AUSÊNCIA DE COMPROVAÇÃO DAS CONDIÇÕES CONTRATUAIS PREVIAMENTE ESTABELECIDAS ENTRE AS PARTES - COMPORTAMENTO DESLEAL OU DESCUMPRIMENTO CONTRATUAL NÃO COMPROVADOS. - O artigo 373, inciso II, do CPC, dispõe acerca da distribuição do ônus da prova que incumbe ao autor demonstrar os fatos constitutivos do seu direito e ao réu o dever de comprovar a existência de qualquer situação modificativo, impeditivo ou extintivo do direito do demandante. - A ausência de juntada do contrato de franquia firmado entre as partes, bem como ausente a comprovação das condições que foram previamente estabelecidas, inviabiliza a aferição do alegado descumprimento contratual. - Não há que se falar no reconhecimento de prática de ato ilícito, ensejador de dever de indenizar, se não ficar comprovada a prática comercial desleal pela ré, ou até mesmo o descumprimento contratual por sua parte.
+Embargos de declaração rejeitados (fl. 820):
+EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL - ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL - VÍCIO DE OBSCURIDADE INEXISTENTE - IMPOSSIBILIDADE DE MERA REDISCUSSÃO DA MATÉRIA E APRESENTAÇÃO DE ARGUMENTOS NOVOS - FIXAÇÃO DE MULTA. - Os embargos de declaração têm o objetivo de introduzir o estritamente necessário para eliminar a obscuridade, contradição ou erro material ou, ainda, suprir omissão existente no julgado (vícios elencados no art. 1.022 do CPC), não permitindo em seu bojo a rediscussão das matérias que foram amplamente debatidas e analisadas. - O Superior Tribunal de Justiça possui entendimento consolidado no sentido de que a "contradição sanável pelos embargos de declaração é a interna, e não a contradição entre este e o entendimento da parte". - Deve ser aplicada a multa prevista no art. 1026, §2º, do CPC quando os embargos declaratórios apresentarem nítido caráter protelatório.
+No presente agravo interno, sustenta a parte agravante que todos os fundamentos da decisão agravada foram especificamente impugnados (fls. 1.351-1.358).
+Pugna, por fim, cas o não seja reconsid erada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+Foram apresentadas contrarrazões (fls. 1.363-1.366).
+É, no essencial, o relatório.
+Assiste razão à parte agravante quanto à necessidade de afastamento da Súmula 182/STJ, porquanto houve impugnação específica de todos os fundamentos da decisão agravada.
+Assim, reconsidero a decisão de fls1.347-1.348 , que não conheceu do agravo em recurso especial, e dou provimento ao agravo interno.
+Retornem conclusos os autos para análise do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
