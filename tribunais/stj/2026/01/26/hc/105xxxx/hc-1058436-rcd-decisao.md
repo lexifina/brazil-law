@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de FABIO GERMANY DA SILVEIRA apontando como autoridade coatora o Tribunal de Justiça do Estado do Rio Grande do Sul (Recurso em Sentido Estrito n. 5018177-90.2024.8.21.0141/RS).
+Consta dos autos que o paciente foi pronunciado como incurso no art. 121, § 2º, incisos I e IV, combinado com o art. 14, II, todos do Código Penal, por tentativa de homicídio qualificado, em concurso de agentes. Irresignada, a defesa interpôs recurso em sentido estrito assim ementado (e-STJ fls. 1308):
+RECURSOS EM SENTIDO ESTRITO N. S 5018178- 75.2024.8.21.0141/RS E 5018177-90.2024.8.21.0141/RS. JULGAMENTO CONJUNTO. HOMICÍDIO DUPLAMENTE QUALIFICADO NA FORMA TENTADA. IRRESIGNAÇÕES DEFENSIVAS. PRESERVAÇÃO DA COMPETÊNCIA CONSTITUCIONAL DO TRIBUNAL DO JÚRI. IMPRONÚNCIA.
+IMPOSSIBILIDADE. EXISTÊNCIA DE PROVA DA MATERIALIDADE E DE INDICATIVOS SUFICIENTES DE AUTORIA. DECLARAÇÕES PRESTADAS EM JUÍZO PELA TESTEMUNHA E EM SEDE POLICIAL PELO OFENDIDO. RELATO DA VÍTIMA APENAS NA FASE POLICIAL, DEVIDO A SEU POSTERIOR FALECIMENTO POR FATO INDEPENDENTE DAQUELE APURADO NOS AUTOS. PROVA IRREPETÍVEL.
+ARTIGO 155 DO CÓDIGO DE PROCESSO PENAL. IMPOSSIBILIDADE DE DESCLASSIFICAÇÃO PARA DELITO ALHEIO À COMPETÊNCIA DO TRIBUNAL DO JÚRI.
+INDICATIVOS DA PRESENÇA DO DOLO DE MATAR. MANUTENÇÃO DAS QUALIFICADORAS DO MOTIVO TORPE E DO CRIME COMETIDO MEDIANTE EMBOSCADA, QUE NÃO SE AFIGURAM MANIFESTAMENTE IMPROCEDENTES E ENCONTRAM LASTRO PROBANTE MÍNIMO NO CADERNO PROCESSUAL.
+RECURSOS DEFENSIVOS DESPROVIDOS.
+No presente mandamus, a defesa aduz, em síntese, que o único elemento que vincula o paciente aos fatos é um reconhecimento fotográfico ilícito em sede de inquérito policial. Salienta o posterior óbito da vítima, sem que o reconhecimento pudesse ser confirmado, e a inexistência de outras provas de autoria, verificando-se a impossibilidade de se manter a pronúncia do paciente.
+Requer, liminarmente e no mérito, seja reconhecida a ilegalidade da prova obtida mediante reconhecimento fotográfico ilícito, com a despronúncia do paciente. Subsidiariamente, que, reconhecida a aludida ilegalidade, seja cassada a decisão de pronúncia, com determinação de retorno dos autos ao juízo de primeiro grau para que reavalie se há outros elementos probatórios independentes e suficientes para basear a pronúncia do paciente.
+O mandamus foi indeferido liminarmente, às e-STJ fls. 1284/1287, em virtude de sua deficiente instrução, haja vista a ausência de cópia integral do acórdão impugnado.
+Sobreveio pedido de reconsideração, às e-STJ fls. 1292, noticiando a juntada integral do acórdão às e-STJ fls. 1293/1306 (Recurso em Sentido Estrito n. 5018177-90.2024.8.21.0141/RS).
+É o relatório. Decido.
+Diante da apresentação do pedido dentro do prazo recursal e da constatação de que o acórdão impugnado efetivamente foi juntado aos autos, reconsidero a decisão de e-STJ fls. 1284/1287, e passo ao exame da irresignação.
+A alegação defensiva relativa à nulidade do reconhecimento fotográfico não foi previamente submetida ao crivo do Tribunal de origem. Portanto, não houve manifestação da Corte local sobre o tema, motivo pelo qual não é possível conhecer do writ, sob pena de indevida supressão de instância.
+Com efeito, "é vedada a apreciação per saltum da pretensão defensiva, sob pena de supressão de instância, uma vez que compete ao Superior Tribunal de Justiça, na via processual do habeas corpus, apreciar ato de um dos Tribunais Regionais Federais ou dos Tribunais de Justiça estaduais (art. 105, inciso II, alínea a, da Constituição da República)" (EDcl no HC 609.741/MG, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 15/9/2020, DJe 29/9/2020).
+No mesmo sentido:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. NULIDADES. AUSÊNCIA DE FUNDAMENTAÇÃO PARA O RECEBIMENTO DA DENÚNCIA. PROLAÇÃO DE SENTENÇA CONDENATÓRIA QUE PREJUDICA A APRECIAÇÃO DO TEMA. AUSÊNCIA DE APRECIAÇÃO DAS TESES DEFENSIVAS PELA SENTENÇA. SUPRESSÃO DE INSTÂNCIA. EXCESSO DE PRAZO PARA O TÉRMINO DA INSTRUÇÃO . ENUNCIADO N. 52, DA SÚMULA DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. As alegadas nulidades decorrentes da sentença condenatória não foram examinadas pelo Tribunal de origem, de modo que inviável a análise inaugural por esta Corte, sob pena de indevida supressão de instância. Outrossim, prolatada a sentença condenatória, fica obstada a análise de eventuais nulidades decorrentes do recebimento da denúncia.
+2. No que se refere ao alegado excesso de prazo para o encerramento da instrução, incide o Enunciado n. 52, da Súmula do STJ, que afirma que "Encerrada a instrução criminal, fica superada a alegação de constrangimento ilegal por excesso de prazo". Nesse contexto, prolatada a sentença condenatória, inviável o reconhecimento do excesso de prazo.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 837.966/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 23/10/2023, DJe de 27/10/2023.)
+Pelo exposto, reconsidero a decisão e-STJ fls. 1284/1287 para não conhecer do mandamus.
+Publique-se.
+EMENTA
