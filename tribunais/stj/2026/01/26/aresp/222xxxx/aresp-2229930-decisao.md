@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de agravo interposto por AMADEU BARBOSA PESSOA DE QUEIROZ e FLÁVIO HENRIQUE RAMOS DOS SANTOS contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fls. 3.133):
+PRESTAÇÃO DE SERVIÇOS - Fornecimento de energia elétrica - Ação de rescisão contratual precedida de tutela cautelar antecedente - Extinção sem resolução do mérito - Pretensão voltada a obter o prosseguimento de reconvenção, a divisão proporcional da verba honorária de sucumbência e o reconhecimento da legitimidade do advogado do reconvinte para perseguir honorários que entende devidos - Decisão de primeiro grau que indefere tais pedidos - Agravo interposto pelo reconvinte e por seu advogado - Reconvenção oposta por quem não é parte no feito e que sequer teve o processamento deferido - Ausência de legitimidade do advogado para postular o recebimento de honorários - Recurso desprovido
+Rejeitados os embargos de declaração opostos (fls. 3.163-3.167).
+No recurso especial, os recorrentes alegam, preliminarmente, ofensa aos arts. 1.022 e 489, § 1º, do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduzem, no mérito, que o acórdão estadual contrariou as disposições contidas nos arts. 134, § 2º, 342, § 2º, e 343, § 2º, do CPC.
+Apontam, por fim, divergência jurisprudencial com arestos de outros tribunais, fundamentando o recurso também na alínea "c" do permissivo constitucional.
+Foram oferecidas contrarrazões ao recurso especial (fls. 3.224-3.235 e 3.237-3.252).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls.3.260-3.262 ), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 3.302-3.312 e 3.316-3.331).
+É, no essencial, o relatório.
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial por entender que, pela alínea "a", não houve ofensa aos artigos 489 e 1.022 do CPC, uma vez que as questões foram devidamente apreciadas; não foi demonstrada a vulneração aos artigos 134, § 2º, e 342, § 2º, do CPC, tratando-se de argumentação genérica (Súmula 284/STF); e a alegação de ofensa a normas constitucionais extrapola a competência do STJ. Pela alínea "c", considerou que o dissídio jurisprudencial não foi comprovado nos moldes do artigo 1.029, § 1º, do CPC, por ausência do cotejo analítico.
+Entretanto, a parte agravante, em suas razões de agravo, deixou de impugnar especificamente a incidência da Súmula n. 284/STF. Em vez de atacar os fundamentos da decisão de inadmissibilidade, limitou-se a reiterar os mesmos argumentos de mérito já expostos no recurso especial, como se buscasse uma nova análise da controvérsia principal.
+Tal postura viola o princípio da dialeticidade recursal, que impõe ao recorrente o ônus de contestar, ponto a ponto, os fundamentos da decisão que pretende reformar. O agravo em recurso especial destina-se a combater a decisão de inadmissibilidade, e não a rediscutir o mérito da causa.
+Ao se furtar a esse dever e apenas reiterar as teses de mérito, a parte agravante permite que o fundamento relativo à Súmula 284/STF, suficiente por si só para obstar o recurso, permaneça inabalado. Essa falha processual atrai a incidência direta da Súmula 182 do Superior Tribunal de Justiça, que estabelece ser "inviável o agravo que deixa de atacar especificamente os fundamentos da decisão agravada".
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial.
+A propósito, confiram-se os seguintes julgados:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. IMPUGNAÇÃO ESPECÍFICA DA DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. AUSÊNCIA. SÚMULA 182/STJ.
+1. Ação de indenização por danos materiais e compensação por danos morais.
+2. O agravo interposto contra decisão denegatória de processamento de recurso especial. Agravo em recurso especial que não impugna, especificamente, todos os fundamentos por ela utilizados, não deve ser conhecido.
+3. Agravo interno não provido. (AgInt no AREsp n. 1.904.501/MG, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 25/11/2021.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO ATACADOS NO AGRAVO EM RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA STJ. ARTIGO 1021, § 1º, DO CÓDIGO DE PROCESSO CIVIL CPC. CORREÇÃO DAS DEFICIÊNCIAS EM SEDE DE AGRAVO REGIMENTAL. PRECLUSÃO CONSUMATIVA. INVIABILIDADE. JUÍZO DE ADMISSIBILIDADE NÃO ULTRAPASSADO. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. "É inviável o agravo regimental ou interno que deixa de atacar especificamente todos os fundamentos da decisão agravada, consoante o disposto no art. 1.021, § 1º, do CPC e na Súmula 182 do STJ. Precedentes" (AgRg nos EAREsp 1206558/RS, Rel. Ministro NEFI CORDEIRO, TERCEIRA SEÇÃO, DJe 18/9/2018).
+2. Pela ocorrência de preclusão consumativa, mostra-se inviável buscar, no agravo regimental, suprir as deficiências existentes na fundamentação das razões do agravo em recurso especial.
+3. Agravo regimental não conhecido. (AgRg no AREsp n. 1.929.489/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 3/11/2021.)
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ.
+Ante o exposto, não conheço do agravo em recurso especial.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+Publique-se. Intimem-se.
+ EMENTA
