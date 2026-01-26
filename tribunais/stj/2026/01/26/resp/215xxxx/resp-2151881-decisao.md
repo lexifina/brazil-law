@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Estado do Maranhão, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do Tribunal de Justiça do Estado do Maranhão assim ementado (fls. 21/22):
+EMENTA: AGRAVO DE INSTRUMENTO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. HONORÁRIOS SUCUMBENCIAIS SOBRE O EXCESSO DE EXECUÇÃO. IMPOSSIBILIDADE. EXECUÇÃO ANTERIOR À TESE FIRMADA NO IAC Nº 18.193/2018. RECURSO DESPROVIDO.
+I - "O excesso de execução existente na hipótese, apontado pelo Estado do Maranhão para pleitear a condenação da parte agravada no pagamento de honorários sucumbenciais da execução, única tese defendida pelo ente público no presente recurso, somente passou a existir após a definição dos termos inicial e final da execução no bojo do IAC nº 18.193/2018, não podendo a parte exequente ser penalizada por ter elaborado, anteriormente, cálculos embasados nos períodos que se acreditava fossem os corretos, com base inclusive em decisões desta Corte anteriores à fixação das teses do Incidente de Assunção de Competência." (TJMA. Ag.Inst. nº 0808157- 70.2023.8.10.0000, 1ª C. Dir. Público. Des. Kleber Costa Carvalho. Julg. 08 a 15.06.2023. Pub.: 20.06.2023).
+II - Recurso desprovido.
+A parte recorrente alega violação dos arts. 82, §2º, 85, 98, §2º e §3º, todos do Código de Processo Civil (CPC), pois entende que deve haver condenação da parte exequente ao pagamento de honorários sucumbenciais sobre o excesso de execução reconhecido, inclusive quando a execução foi proposta antes da tese firmada no Incidente de Assunção de Competência (IAC) 18.193/2018 e ainda que a parte seja beneficiária da gratuidade da justiça (fls. 42/47).
+Não foram interpostos embargos de declaração.
+O recurso especial foi admitido (fls. 53/54).
+É o relatório.
+Na origem, cuida-se de cumprimento de sentença, visando ao pagamento de diferenças remuneratórias do magistério estadual decorrentes do reajuste da tabela de vencimentos.
+Quanto à alegada violação dos arts. 82, §2º, 85, 98, §§ 2º e 3º, todos do Código de Processo Civil (CPC), do acórdão recorrido do Tribunal de Justiça do Estado do Maranhão assim constou (fls. 25/26):
+"Verifica-se que a agravada ajuizou cumprimento individual de sentença coletiva no dia 01.08.2016, juntando à inicial planilha de cálculos, que tiveram por base elementos extraídos dos autos da Ação Coletiva nº 14.440/2000, cujo termo final da cobrança das diferenças remuneratórias de que trata a aludida ação seria dezembro de 2012.
+Ocorre que, após o ajuizamento da execução, sobreveio a instauração do IAC nº 0049106-50.2015.8.10.0001 (18.193/2018), onde restou aprovada a tese definindo novo período dessa cobrança, apresentando como marco inicial o dia 1º de fevereiro de 1998 e como termo final a data de 24 de novembro de 2004.
+Nesse contexto, não pode a agravada ser penalizada com condenação ao pagamento de honorários de sucumbência sobre o indigitado excesso de execução, que somente passou a existir após o ajuizamento do cumprimento de sentença, quando foram definidos os termos inicial e final da execução no bojo do referido IAC, pois acreditava que seus cálculos fossem os corretos, levando em consideração as decisões prolatadas por esta Corte de Justiça antes mesmo da fixação das teses do Incidente de Assunção de Competência.
+ ..
+Diante do exposto, NEGO PROVIMENTO AO RECURSO, mantendo a decisão agravada.
+O Tribunal de origem reconheceu que "não pode a agravada ser penalizada com condenação ao pagamento de honorários de sucumbência sobre o indigitado excesso de execução, que somente passou a existir após o ajuizamento do cumprimento de sentença" (fl. 25).
+Nesse ponto, verifica-se a inviabilidade do recurso especial por ausência de prequestionamento. O Tribunal de origem não se manifestou acerca dos critérios de fixação ou quantificação do montante dos honorários sucumbenciais e, diante da omissão, não foram opostos embargos de declaração para suprir a lacuna.
+A falta de enfrentamento no acórdão recorrido da matéria objeto do recurso impede o acesso a esta instância por não ter sido preenchido o requisito constitucional do prequestionamento.
+Incidem no presente caso, por analogia, as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+A inexistência de manifestação específica sobre tais critérios de fixação impede o exame da pretensão recursal, uma vez que sua análise exigiria o reexame do acervo fático-probatório, providência vedada pela Súmula 7 do Superior Tribunal de Justiça: "a pretensão de simples reexame de prova não enseja recurso especial".
+Ness e mesmo sentido, em casos análogos ao aqui versado:
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. EXCESSO DE EXECUÇÃO. RECONHECIMENTO. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ.
+1. À luz do princípio da causalidade, o Tribunal de origem entendeu que o reconhecimento da existência de excesso de execução não induz à condenação da parte agravada ao pagamento de honorários advocatícios, pois (a) os cálculos foram elaborados segundo o entendimento que então prevalecia no âmbito da jurisprudência do Tribunal de origem, que (b) somente foi alterado a partir do julgamento do IAC n. 18.193, situação que revela (c) a inexistência de má-fé da parte exequente.
+2. A revisão das premissas fáticas delineadas no acórdão recorrido esbarra no óbice da Súmula 7/STJ.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 2.175.551/MA, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 10/2/2025, DJEN de 17/2/2025. sem grifos no original.)
+PROCESSUAL CIVIL. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA ACOLHIDA NA ORIGEM. AGRAVO DE INTRUMENTO. JURISPRUDÊNCIA CONSOLIDADA DO STJ. SÚMULA N. 83 DO STJ. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Trata-se de agravo de instrumento contra decisão que acolheu impugnação ao cumprimento de sentença, para reconhecer o excesso de execução e, em razão dos princípios da causalidade e da sucumbência, condenou a credora a arcar com as custas da impugnação e com os honorários advocatícios dos patronos da impugnante, fixados em 10% da diferença entre o crédito inicialmente pleiteado e o homologado, observada eventual gratuidade. No Tribunal a quo, a decisão foi mantida. Agravo interno interposto contra decisão que não conheceu do recurso especial.
+II - Consoante a jurisprudência do STJ, "a aferição do percentual em que cada litigante foi vencedor ou vencido ou a conclusão pela existência de sucumbência mínima ou recíproca das partes é questão que não comporta exame em recurso especial, por envolver aspectos fáticos e probatórios, aplicando-se à hipótese a Súmula 7/STJ". (AgInt no AREsp n. 866.420/MS, relator Ministro Marco Buzzi, Quarta Turma, DJe 3/3/2020.)
+III - Quanto ao arbitramento de honorários advocatícios na impugnação ao cumprimento de sentença, tendo sido acolhida, a Corte a quo analisou as alegações da parte no mesmo sentido do entendimento consolidado do STJ, "pelo princípio da simetria, é devida a verba sucumbencial, se vencida a parte exequente, no julgamento da impugnação apresentada ao cumprimento de sentença".
+(RCD no REsp n. 2.095.903/RJ, relator Ministro Francisco Falcão, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023.)
+Ressalte-se que o teor do referido enunciado aplica-se, inclusive, aos recursos especiais interpostos com fundamento na alínea a do permissivo constitucional.
+IV - Agravo interno improvido.
+(AgInt no REsp n. 2.106.223/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 12/8/2024, DJe de 15/8/2024. sem grifos no original.)
+Logo, nesse ponto, o recurso especial não pode ser conhecido, pois a análise esbarraria no óbice da Súmula 7 do Superior Tribunal de Justiça .
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
