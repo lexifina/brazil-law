@@ -1,0 +1,21 @@
+DECISÃO
+Examina-se conflito positivo de competência, com pedido liminar, suscitado por ALO SERVIÇOS EMPRESARIAIS LTDA. - EM RECUPERAÇÃO JUDICIAL, em face do JUÍZO DE DIREITO DA VARA REGIONAL EMPRESARIAL DE PORTO ALEGRE - RS e do JUÍZO DA 8ª VARA DO TRABALHO DE LONDRINA - PR.
+Ação em trâmite na Justiça Estadual: recuperação judicial da suscitante, cujo processamento foi deferido em 21/7/2025, nos autos do Processo nº 5167373-35.2025.8.2160001.
+Ação em trâmite na Justiça do Trabalho: execução deflagrada por BRUNA DEL CONSULO COUTO, registrada sob o nº 0000706-70.2024.5.09.0129.
+Conflito de competência: alega, em síntese, que o juízo da recuperação judicial detém competência exclusiva para deliberar acerca dos atos de constrição que recaiam sobre o patrimônio da suscitante, inclusive quanto aos valores bloqueados nos autos da execução trabalhista. Pleiteia, liminarmente, a suspensão dos atos constritivos já realizados, bem como a designação provisória do juízo recuperacional para apreciação das medidas urgentes.
+Tutela antecipada: deferida pela Presidência, às e-STJ fls. 43-45.
+Parecer do MPF: opinou pela competência do juízo da recuperação judicial.
+RELATADO O PROCESSO, DECIDE-SE.
+É firme a jurisprudência desta Corte no sentido de que o compete ao juízo da recuperação judicial a prática de atos de execução que incidam sobre o patrimônio da sociedade em processo de soerguimento, inclusive no que concerne à destinação de valores objeto de depósitos judiciais ou de constrições efetivadas em reclamações trabalhistas, ainda que anteriores ao pedido de soerguimento. Confira-se:
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. EXECUÇÃO DE CRÉDITO TRABALHISTA. ATOS DE CONSTRIÇÃO. PROSSEGUIMENTO. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL. AGRAVO INTERNO DESPROVIDO.
+1. O Superior Tribunal de Justiça considera ser da competência precípua do Juízo singular apenas a apreciação e julgamento das ações versando sobre apuração de créditos requeridos em face de empresas falidas ou em recuperação judicial, mas que, ultrapassada essa fase, os valores, ainda que relativos a anteriores depósitos recursais ou penhoras, deverão ser habilitados, conquanto de forma retardatária, no Juízo da falência ou da recuperação judicial para posterior pagamento.
+2. Agravo interno desprovido. (AgInt nos EDcl no CC 165.079/SP, Segunda Seção, DJe 08/05/2020).
+No mesmo sentido: AgInt no CC 206.989/SP, Segunda Seção, DJe 21/3/2025; AgInt no CC 205.895/SP, Segunda Seção, DJe 19/9/2024; CC 175.655/RJ, Segunda Seção, DJe 13/2/2023; AgInt nos EDcl no CC 165.079/SP, Segunda Seção, DJe 8/5/2020.
+Na hipótese, verifica-se que a recuperação judicial da suscitante encontra-se regularmente em curso perante a Justiça Comum do Estado do Rio Grande do Sul (Vara Empresarial de Porto Alegre). Não obstante, a Justiça Laboral suscitada determinou a manutenção da constrição dos valores de titularidade da recuperanda, sob o fundamento de que o bloqueio teria sido efetivado em momento anterior ao pedido de soerguimento.
+A atuação do Juízo Trabalhista, portanto - nos termos da orientação jurisprudencial desta Corte Superior -, invadiu a esfera de competência do juízo recuperacional.
+Forte nessas razões, CONHEÇO do conflito para declarar a competência do JUÍZO DE DIREITO DA VARA REGIONAL EMPRESARIAL DE PORTO ALEGRE - RS para deliberar, no âmbito da reclamação trabalhista indicada na inicial, acerca da constrição ou liberação dos valores de titularidade da suscitante.
+Publique-se. Intimem-se. Comunique-se aos juízos suscitados.
+EMENTA
+CONFLITO POSITIVO DE COMPETÊNCIA. EXECUÇÃO TRABALHISTA E RECUPERAÇÃO JUDICIAL. ATOS DE CONSTRIÇÃO PATRIMONIAL. BLOQUEIO DE VALORES ANTERIOR AO PEDIDO DE SOERGUIMENTO. COMPETÊ NCIA DO JUÍZO RECUPERACIONAL.
+1. Nos termos da jurisprudência consolidada desta Corte, compete ao juízo da recuperação judicial deliberar sobre atos de execução que recaiam sobre o patrimônio da sociedade em processo de soerguimento, inclusive quanto à destinação de valores objeto de depósitos judiciais ou de constrições efetivadas em reclamações trabalhistas, ainda que anteriores ao pedido de recuperação judicial.
+2. Conflito conhecido. Estabelecida a competência do JUÍZO DE DIREITO DA VARA REGIONAL EMPRESARIAL DE PORTO ALEGRE - RS.
