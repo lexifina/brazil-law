@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por KAYO DE OLIVEIRA MATOS à decisão que indeferiu liminarmente o presente habeas corpus, nos seguintes termos:
+"Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça.
+Ademais, a possibilidade de análise da matéria para eventual concessão da ordem, de ofício, não se mostra adequada no presente caso.
+A presente impetração traz pedido idêntico ao formulado no AREsp 3.029.679/MG, ainda em trâmite perante esta Corte Superior, e em ambos se ataca acórdão do Tribunal de Justiça do Estado de Minas Gerais na Apelação Criminal n. 1.0000.24.216522-3/001.
+Assim, diante de inadmissível reiteração de pedidos, resta obstaculizado o conhecimento deste mandamus, reservada a análise da controvérsia aos autos da primeira impetração.
+Nesse sentido:
+AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. FEMINICÍDIO QUALIFICADO E ABORTO PROVOCADO POR TERCEIRO TENTADOS. RECURSO ORDINÁRIO INTERPOSTO SEM PROCURAÇÃO. DEFICIÊNCIA NÃO SANADA EM SEDE DE AGRAVO REGIMENTAL. IMPOSSIBILIDADE DE SUPERAÇÃO DO ÓBICE PARA CONHECIMENTO DA MATÉRIA DE OFÍCIO. INEFICÁCIA DE EVENTUAL REGULARIZAÇÃO. OBJETO DO RECURSO QUE CONSISTE EM MERA REITERAÇÃO DE IMPETRAÇÃO ANTERIOR. PRISÃO DOMICILIAR PARA TRATAMENTO DE SAÚDE. AUSÊNCIA DE DEMONSTRAÇÃO DE ALTERAÇÃO QUE JUSTIFIQUE NOVO JULGAMENTO. AGRAVO REGIMENTAL QUE SE LIMITA A REPETIR AS ALEGAÇÕES PRÉVIAS. PRINCÍPIO DA DIALETICIDADE. INOBSERVÂNCIA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Hipótese na qual não consta dos autos procuração outorgada ao patrono do agravante, o que, nos termos do enunciado n. 115 da Súmula desta Corte, torna inexistente o recurso. Ademais, embora apontada a ausência na decisão ora atacada, não houve a regularização com a interposição do agravo regimental.
+2. Embora a jurisprudência desta Corte admita, em homenagem aos princípios da economia processual e da primazia da decisão de mérito, o afastamento, de ofício, de eventual ilegalidade patente, ou a concessão de prazo para a regularização do pressuposto de admissibilidade, nos termos do art. 76, caput, e art. 932, parágrafo único, do Código de Processo Civil, não é cabível, no caso, a apreciação do mérito do recurso, e também seria inócua a regularização do feito, eis que as alegações ora apresentadas consistem em mera reiteração de recurso prévio (RHC 185348/SP), cujo provimento foi negado em 11/9/2023 - ou seja, em data recente.
+3. "A mera reiteração de pedido, que se limita a reproduzir, sem qualquer inovação de fato e/ou de direito, os mesmos fundamentos subjacentes a postulação anterior, torna inviável o próprio conhecimento da ação de habeas corpus". (AgRg no HC n. 190.293, Rel. Min. Celso de Mello, julgado em 20/10/2020, DJe 19/11/2020).
+4. Ademais, o agravante se limitou a reproduzir as razões do recurso ordinário, sem impugnar especificamente a decisão agravada.
+Todavia, " ..  a jurisprudência deste Superior Tribunal de Justiça orienta que o princípio da dialeticidade exige da parte a demonstração específica do desacerto da fundamentação no decisum atacado. Precedentes" (AgRg no HC n. 752.579/BA, Rel. Ministro JOÃO BATISTA MOREIRA (Desembargador Convocado do TRF1), Quinta Turma, DJe de 3/7/2023).
+5. Agravo não conhecido .
+(AgRg no RHC n. 186.154/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 17/10/2023, DJe de 27/10/2023.)
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus." (fls. 309/311)
+Sustenta-se que não foi devidamente apreciada a possibilidade de concessão da ordem, de ofício, com base na fundamentação apresentada a respeito da suposta nulidade das buscas pessoal e domiciliar, além do pedido subsidiário de desclassificação da conduta para a do art. 28 da Lei de Drogas.
+Assim, sob a alegação de omissão no julgado, requer-se o acolhimento dos presentes embargos, com efeitos modificativos, para que seja analisada a possibilidade de concessão da ordem, de ofício, para que seja declarada a nulidade das buscas pessoal e domiciliar, com a consequente absolvição do paciente e, subsidiariamente, a desclassificação da conduta para a do art. 28 da Lei de Drogas.
+É o relatório.
+Decido.
+Os embargos de declaração são cabíveis quando houver ambiguidade, obscuridade, contradição ou omissão na decisão, nos termos do art. 619 do Código de Processo Penal.
+Em sentido diverso do que sustenta o embargante, a decisão ora impugnada consignou, de maneira clara e suficiente, que o habeas corpus foi indeferido liminarmente em razão da configuração de reiteração de tese ainda pendente de apreciação nesta Corte Superior, com fundamento expresso no art. 210 do RISTJ, amparando-se, ademais, em precedentes que vedam a duplicidade de exame da mesma matéria por meios distintos, quando já submetida à análise no recurso próprio, circunstância bastante para a caracterização do óbice processual adotado.
+Outrossim, no caso concreto, não se evidencia a alegada omissão no julgado. As razões apresentadas pelo embargante revelam, na realidade, mero inconformismo com o desfecho do julgamento que, em decisão devidamente motivada, reconheceu que a presente impetração reproduz pedido idêntico àquele formulado no AREsp n. 3.029.679/MG, ainda em trâmite nesta Corte Superior, sendo certo que, em ambas as demandas, impugna-se o acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais na Apelação Criminal n. 1.0000.24.216522-3/001.
+Desse modo, diante da inadmissível reiteração de pedidos, restou inviabilizado o conhecimento do writ, ficando reservada a apreciação da controvérsia aos autos da primeira impetração.
+Nesse contexto, verifica-se que o embargante objetiva, em verdade, a rediscussão de matéria já apreciada e decidida em sentido desfavorável à sua pretensão, sem, contudo, demonstrar a ocorrência de ambiguidade, obscuridade, contradição ou omissão, nos termos do art. 619 do Código de Processo Penal.
+Por conseguinte, não se constata a presença de quaisquer dos vícios aptos a autorizar o manejo dos embargos de declaração, razão pela qual se mostra inviável o seu acolhimento, destacando-se, ainda, que a via eleita não se presta à revisão do julgado. A simples irresignação com o entendimento adotado na decisão embargada não autoriza a oposição dos aclaratórios.
+Nesse sentido, destaco os seguintes precedentes do STJ:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VÍCIOS INEXISTENTES. MERA REDISCUSSÃO.
+1. Apenas se admitem embargos de declaração quando evidenciada deficiência no acórdão recorrido com efetiva obscuridade, contradição, ambiguidade ou omissão, conforme o art. 619 do CPP, situações que não se fazem presentes.
+2. As matérias foram decididas com a devida e clara fundamentação, no sentido da inexistência de ilegalidade no acórdão que considerou a quantidade e natureza da droga na primeira fase para exasperar a pena-base, consoante art. 42 da Lei 11.343/2006, sendo incabível o deslocamento para a terceira fase, para fins de modulação da causa de diminuição do tráfico drogas, por configurar "bis in idem".
+3. Não há falar-se em vícios integrativos, não se prestando os embargos de declaração à rediscussão livre do aresto recorrido, tanto mais que revelam, em essência, mero inconformismo com o resultado do julgamento.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp n. 2.068.669/MG, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 22/11/2022, DJe de 25/11/2022.)
+PENAL E PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CHACINA DE UNAÍ. INEXISTÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU AMBIGUIDADE. EMBARGOS DE DECLARAÇÃO CONHECIDOS EM PARTE E, NESTA EXTENSÃO, REJEITADOS.
+1. Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração, como recurso de correção, destinam-se a suprir omissão, contradição, ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, para sua revisão no caso de mero inconformismo da parte. No caso, não há vício a ser sanado.
+2. É incabível a inovação recursal em embargos de declaração, pela preclusão consumativa.
+3. A contradição que autoriza o manejo dos embargos é aquela interna, entre as premissas e conclusões do próprio acórdão embargado, e não a suposta contradição entre este a as provas dos autos, a sentença ou a interpretação legal defendida pelo embargante.
+4. Embargos de declaração conhecidos em parte e, nesta extensão, rejeitados.
+(EDcl no REsp n. 1.973.397/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 11/10/2022, DJe de 18/10/2022.)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. REQUERIMENTO DE INTEGRAÇÃO DO ACÓRDÃO. NOTA TAQUIGRÁFICA DE VOTO PROFERIDO NO TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE. MERO INCONFORMISMO DA PARTE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração destinam-se a desfazer ambiguidade, aclarar obscuridade, eliminar contradição ou suprir omissão existentes no julgado (art. 619 do CPP).
+2. Não há razão para determinar a integração do acórdão embargado com nota taquigráfica de voto proferido na instância ordinária quando todas as teses defensivas foram devidamente enfrentadas pelo STJ.
+3. O mero inconformismo da parte com o resultado do julgamento não é suficiente para o acolhimento dos embargos de declaração.
+4. Embargos rejeitados.
+(EDcl no AgRg no RHC n. 154.789/BA, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 24/5/2022, DJe de 27/5/2022)
+Ante o exposto, com fulcro no art. 264, § 1º, do Regimento Interno do Superior Tribunal de Justiça, rejeito os embargos de declaração.
+Publique-se.
+Intimem-se.
+EMENTA
