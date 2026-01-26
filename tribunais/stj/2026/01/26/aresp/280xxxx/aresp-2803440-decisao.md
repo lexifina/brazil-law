@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que não admitiu o recurso especial pelo qual JOEL MUNIZ DE OLIVEIRA se insurgira, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS assim ementado (fl. 582):
+APELAÇÃO CÍVEL. AÇÃO DE REINTEGRAÇÃO DE POSSE. SERVIDÃO ADMINISTRATIVA. LINHA DE TRANSMISSÃO DE ENERGIA ELÉTRICA. FAIXA DE SEGURANÇA. OCUPAÇÃO IRREGULAR. BENFEITORIAS NÃO INDENIZÁVEIS. SUCUMBÊNCIA RECURSAL. MAJORAÇÃO. 1. As limitações impostas pela servidão de energia elétrica sujeitam um bem imóvel a suportar uma utilidade pública, com restrição parcial dos poderes do proprietário quanto ao uso e gozo do terreno situado na faixa de servidão, em razão da necessidade de manutenção de equipamentos e de preservar moradores de eventuais riscos, sendo denominadas faixas de segurança. 2. Na espécie, restando constatada e comprovada a existência de servidão, impõe-se o reconhecimento da condição da concessionária requerente de legítima possuidora da área utilizada como passagem de linhas de transmissão de energia elétrica, bem como da faixa de segurança, inexistindo benfeitorias indenizáveis ao requerido, pois se trata de bem público insuscetível de apossamento. 3. Evidenciada a sucumbência recursal, impende majorar a verba honorária anteriormente fixada, conforme previsão do artigo 85, § 11, do Código de Processo Civil. 4. O beneficiário da assistência judiciária gratuita não está isento do pagamento das custas processuais e dos honorários de sucumbência. Entretanto, estas obrigações ficam sob condição suspensiva de exigibilidade e somente podem ser executadas se, nos 05 (cinco) anos subsequentes ao trânsito em julgado da decisão que as certificou, o credor demonstrar que deixou de existir a situação de insuficiência de recursos que justificou a concessão de gratuidade, extinguindo-se, passado esse prazo, tais obrigações do beneficiário. APELAÇÃO CÍVEL CONHECIDA E DESPROVIDA. SENTENÇA MANTIDA.
+Não foram opostos embargos de declaração.
+Em seu recurso, a parte recorrente alega violação aos arts. 1.196 e 1.197 do Código Civil (CC) e 1.022, II, do Código de Processo Civil (CPC), ao argumento de que a residência não ocuparia a área de transmissão, razão pela qual inexistiria motivo para a desocupação do imóvel.
+A parte adversa apresentou contraminuta (fls. 617/626).
+O recurso não foi admitido, razão pela qual foi interposto o agravo em recurso especial ora em análise.
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+O recurso especial tem como uma de suas características a fundamentação vinculada, sendo imprescindível que em suas razões sejam apontados os dispositivos de lei que teriam sido violados pelo acórdão recorrido, com a indicação, de forma clara e direta, da interpretação que se entende deva ser dada à norma, não bastando a mera citação dos dispositivos de lei.
+Neste caso, no que se refere à alegação de violação aos arts. 1.196 e 1.197 do CC (fl. 599) e 1.022, II, do CPC (fl. 602), a parte recorrente não fez sua indicação acompanhada de argumentação específica sobre o modo como foram violados, assim, há deficiência de fundamentação, razão pela qual incide no ponto, por analogia, a Súmula 284 do Supremo Tribunal Federal, e dessa parte do recurso não é possível conhecer.
+No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. ALEGAÇÃO DE ERRO NOS CÁLCULOS DE CORREÇÃO MONETÁRIA E JUROS MORATÓRIOS. ADEQUAÇÃO DA MEMÓRIA DE CÁLCULO AO TÍTULO JUDICIAL EXECUTIVO. SÚMULA 7/STJ. REEXAME DE MATÉRIA FÁTICA. SÚMULA 284/STF. DEFICIÊNCIA NA FUNDAMENTAÇÃO.
+ ..
+3. O recorrente não enfrentou especificamente os fundamentos da decisão agravada, limitando-se a apresentar argumentação genérica sobre a suposta violação legal, o que atrai a incidência da Súmula 284 do Supremo Tribunal Federal, por analogia, em razão da deficiência na fundamentação do Recurso.
+4. A jurisprudência do STJ é pacífica no sentido de ser inadmissível o Recurso Especial quando o agravante não demonstra de forma adequada e específica o equívoco na decisão que não admitiu o Recurso, conforme princípio da dialeticidade.
+ ..
+6. Agravo Interno não provido.
+(AgInt no AREsp n. 2.409.038/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 14/3/2024, DJe de 7/5/2024, sem destaque no original.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ALEGAÇÃO GENÉRICA DE OFENSA A DISPOSITIVO DE LEI FEDERAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. CONSELHO PROFISSIONAL. ANUIDADE. REGULAR CONSTITUIÇÃO DO CRÉDITO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 07/STJ. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. INADEQUADA AO CASO CONCRETO.
+ ..
+II - Revela-se deficiente a argumentação quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284, do Supremo Tribunal Federal.
+ ..
+VII - Agravo Interno improvido.
+(AgInt no REsp n. 1.921.863/RS, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 22/3/2021, DJe de 25/3/2021, sem destaque no original.)
+Quanto à interposição do recurso pela alínea c do permissivo constitucional, verifico que a parte não apresentou julgados, nem discorreu sobre possível divergência jurisprudencial, de forma a fazer incidir, mais uma vez, a Súmula 284 do STF.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Majoro em 10% (dez por cento), em desfavor da parte recorrente, o valor dos honorários sucumbenciais já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos no § 2º desse dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+ EMENTA
