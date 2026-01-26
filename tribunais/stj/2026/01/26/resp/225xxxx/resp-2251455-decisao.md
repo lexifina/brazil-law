@@ -1,0 +1,46 @@
+DECISÃO
+Examina-se recurso especial interposto por BRB BANCO DE BRASILIA S.A., fundamentado nas alíneas "a" e "c" do permissivo constitucional..
+Recurso especial interposto em: 27/10/2025.
+Concluso ao gabinete em: 29/12/2025.
+Ação: de obrigação de fazer, ajuizada por MARIA DOS REIS MUNIZ DA SILVA, em face de BRB BANCO DE BRASILIA S.A., na qual requer a suspensão de descontos de empréstimos em conta corrente/salário sem autorização.
+Sentença: julgou improcedentes os pedidos. (e-STJ fls. 456-460)
+Acórdão: deu provimento ao recurso de apelação interposto por MARIA DOS REIS MUNIZ DA SILVA, nos termos da seguinte ementa:
+Ementa: Direito do consumidor. Apelação cível. Contrato bancário. Empréstimo com débito automático em conta corrente. Cancelamento da autorização. Possibilidade. Recurso provido.
+I. Caso em exame
+1 - Trata-se de apelação interposta contra sentença que julgou improcedente o pedido formulado em ação de obrigação de fazer com tutela de urgência, na qual a parte autora pleiteava a suspensão dos descontos referentes a empréstimos bancários realizados diretamente em sua conta corrente. 2 - A sentença recorrida entendeu pela validade da cláusula contratual de autorização de débito, considerando-a essencial ao negócio jurídico e amparada pelo Tema Repetitivo 1.085 do STJ, que estabelece a permanência da autorização enquanto vigente o contrato.
+II. Questão em discussão
+3 - A questão jurídica consiste em definir se é lícito ao correntista revogar, a qualquer tempo, a autorização para desconto de parcelas de empréstimo comum em sua conta-corrente, mesmo que essa modalidade de pagamento tenha sido pactuada como condição contratual.
+III. Razões de decidir
+4 - A relação jurídica entre as partes é de consumo, sujeitando-se às normas do Código de Defesa do Consumidor, conforme o enunciado da Súmula nº 297 do Superior Tribunal de Justiça.
+5 - O artigo 6º da Resolução n. 4.790/2020 do Conselho Monetário Nacional assegura expressamente ao titular da conta o direito de cancelar a autorização de débitos a qualquer tempo, prerrogativa já prevista na Resolução n. 3.694/2009 do BACEN.
+6 - O Superior Tribunal de Justiça, no julgamento do Tema Repetitivo 1.085, fixou a tese de que os descontos em conta-corrente são lícitos, desde que previamente autorizados e enquanto esta autorização perdurar, o que confirma a natureza precária e revogável da autorização.
+7 - A revogação da autorização, devidamente comunicada à instituição financeira, não caracteriza comportamento contraditório (venire contra factum proprium) nem viola o princípio do pacta sunt servanda, pois altera apenas a forma de pagamento, e não a existência ou a exigibilidade da dívida, que permanece hígida e pode ser cobrada por outros meios legais.
+8 - A manutenção dos descontos após o pedido de cancelamento do correntista viola a autonomia da vontade (art. 5º, II, da CF/88) e os direitos básicos do consumidor à modificação de cláusulas abusivas e à vedação de cobranças coercitivas (art. 6º, V, e art. 42 do CDC).
+IV. Dispositivo e tese
+9. Recurso conhecido e provido.
+Tese de julgamento: "1 - É assegurado ao consumidor, com base no art. 6º da Resolução n. 4.790/2020 do BACEN e na autonomia privada, o direito de revogar, a qualquer tempo, a autorização para débito automático de parcelas de empréstimo em conta-corrente. 2 - Conforme o Tema Repetitivo 1.085/STJ, a licitude dos descontos está condicionada à manutenção da autorização pelo mutuário, sendo, portanto, revogável. 3 - O cancelamento da autorização de débito não extingue a dívida, mas apenas modifica a forma de pagamento, facultando ao credor a utilização dos meios de cobrança ordinários." (e-STJ fls. 517-519)
+Recurso especial: alega violação dos arts. 313, 314, 421 e 422 do CC. Afirma que não se admite a modificação unilateral da forma de pagamento ajustada, pois o credor não é obrigado a receber prestação diversa da pactuada. Aduz que a liberdade contratual impede a desconstituição de cláusula livremente estabelecida, ressalvada a função social. Argumenta que a revogação da autorização de débito após a fruição do crédito afronta a boa-fé objetiva e configura venire contra factum proprium. Assevera que a aplicação da Resolução Bacen 4.790/2020 não pode prevalecer sobre normas legais e sobre a tese firmada no Tema 1.085/STJ. (e-STJ fls. 550-556).
+RELATADO O PROCESSO, DECIDE-SE.
+- Da Súmula 568/STJ
+A Corte de origem, ao julgar o recurso de apelação interposto pela ora recorrente, decidiu pela ilicitude do desconto realizado em conta, após o cancelamento da autorização pela mutuária (e-STJ fls. 516-529):
+" ..  Decido.
+Verifica-se que a parte apelante acostou a Notificação Extrajudicial encaminhada ao banco agravado para o cancelamento dos descontos feitos diretamente em conta-corrente (ID 75413092), não tendo obtido resposta adequada do banco.
+A Resolução nº4.790/2020 do Conselho Monetário Nacional, em seu art.6º, caput e parágrafo único , prevê expressamente que o titular da conta pode cancelar, a qualquer tempo, a autorização para débito automático, seja de parcelas contratuais ou qualquer outra natureza. Tal disposição reflete o princípio da autonomia privada (art.5º, II, da CF/88), assegurando ao correntista plena liberdade para gerir seu patrimônio. Importante ressaltar que a Resolução Bacen nº3.694/2009 já havia estabelecido, em seu art .3º, que os descontos em conta só são legítimos mediante autorização prévia e expressa do cliente, sendo vedados após sua revogação.
+O Superior Tribunal de Justiça, ao julgar o AgInt no REsp 1.500.846/DF, reconheceu a regularidade do cancelamento dessa autorização, cujo efeito deve ser observado a partir da data em que a instituição financeira é formalmente comunicada. Consoante ao Tema 1.085/STJ, firmou-se o entendimento de que os descontos em conta-corrente de empréstimos bancários comuns  mesmo que utilizada para recebimento de salários  são válidos enquanto perdurar a autorização, não se aplicando, por analogia, os limites da Lei 10.820/2003 (empréstimo consignado).
+Esse entendimento está subordinado aos princípios da função social do contrato (art.421 do CC) e da boa-fé objetiva (art.422 do CC), pois visam readequar a forma de cumprimento sem alterar a substância da obrigação  cuja exigibilidade subsiste  nem permitir comportamento contraditório do credor. Em mesmo sentido, a tese firmada protege os princípios fundamentais do Código de Defesa do Consumidor, tais como o direito à transparência (art. 6º, III, CDC), à modificação de cláusulas abusivas (art. 6º, V, CDC) e à vedação da cobrança coercitiva (art. 42, CDC).
+Por sua vez, o TJDFT, conforme decidido pela 5ª Turma Cível (Ac. 1794679, Rel. Desa. Maria Ivatônia), consolidou o entendimento de que a manutenção dos descontos após a revogação viola a autonomia da vontade e impõe restituição, bem como nas ações de cobrança ordinária, sem esvaziar o vínculo contratual (pacta sunt servanda).
+O cancelamento da autorização, portanto, configura prerrogativa válida do consumidor, não caracteriza má-fé, dado que não importa em ofensa aos artigos 313 e 314, do CC, e não altera a exigibilidade da dívida  o que permanece devido, facultando-se ao credor valer-se dos meios de cobrança regulares.
+Referido entendimento se prolifera no âmbito do Colendo Superior Tribunal de Justiça e nesta Egrégia Casa de Justiça, consoante as ementas abaixo (grifos nossos):
+ ..  (e-STJ fls. 523-528)
+Da leitura dos trechos acima, verifica-se que a decisão proferida pelo Tribunal local não destoa da jurisprudência do STJ, sedimentada no Tema 1.085, na qual houve a fixação da seguinte tese:
+"São lícitos os descontos de parcelas de empréstimos bancários comuns em conta-corrente, ainda que utilizada para recebimento de salários, desde que previamente autorizados pelo mutuário e enquanto esta autorização perdurar, não sendo aplicável, por analogia, a limitação prevista no § 1º do art. 1º da Lei n. 10.820/2003, que disciplina os empréstimos consignados em folha de pagamento".
+Portanto, como a decisão adotada no acórdão recorrido está em consonância com a jurisprudência desta Corte, o recurso não deve ser provido, incidente a Súmula 568/STJ.
+Forte nessas razões, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, majoro em 2% os honorários fixados anteriormente.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. DESCONTO EM CONTA. AUTORIZAÇÃO CANCELADA. MANUTENÇÃO DO DESCONTO. ATO ILÍCITO. TEMA 1085/STJ.
+1. Ação de obrigação de fazer.
+2. A jurisprudência desta Corte é no sentido da licitude dos descontos de parcelas de empréstimos bancários comuns em conta-corrente, ainda que utilizada para recebimento de salários, desde que previamente autorizados pelo mutuário e enquanto esta autorização perdurar. Tema 1085/STJ.
+3. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
