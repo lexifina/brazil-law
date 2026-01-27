@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de Recurso Especial interposto por MARIANA MARTINS REIS LUCENA, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA, assim ementado (e-STJ, fls. 144/145):
+PROCESSUAL CIVIL - Apelação cível - Contrarrazões da promovida - Preliminar - Ofensa ao princípio da dialeticidade recursal - Inocorrência - Rejeição.
+- Embora o recurso de apelação devolva ao Juízo "ad quem" toda a matéria objeto de controvérsia, o seu efeito devolutivo encontra limites nas razões suscitadas pelo recorrente e em homenagem ao princípio da dialeticidade, deve a parte insurgente, sob as penas do art. 932, III, do CPC, observar a indispensável pertinência temática entre as razões de decidir e os argumentos fornecidos pelo recurso para justificar o pedido de reforma do julgado combatido, diretriz essa observada no recurso em pauta.
+APELAÇÃO CÍVEL - Ação ordinária - Honorários fixados sobre o valor da condenação - Inconformismo - Pretensão de fixação na sobre o proveito econômico - Não acolhimento - Aplicação da regra geral do art. 85, § 2º, do código de processo civil - Precedentes do STJ - Recurso Especial nº 1.746.072/PR e AgInt no AR Esp: 1534083 - Desprovimento.
+- O STJ já decidiu que para fixação dos honorários advocatícios sucumbenciais a ordem legal do CPC (Art. 85, § 2º) é: a condenação; o proveito econômico e, excepcionalmente, o valor da causa. Assim, havendo condenação, não se justifica calcular a verba sobre o proveito econômico como critério alternativo para fixação dos honorários.
+Segundo a parte recorrente, o recurso preenche os requisitos necessários ao conhecimento e provimento.
+Intimada nos termos do art. 1.030 do Código de Processo Civil, a parte recorrida afirmou a inexistência de requisitos ou elementos aptos a promover a alteração do julgado impugnado.
+É o relatório.
+DECIDO.
+O recurso especial é tempestivo e cabível, pois interposto em face de decisão que negou provimento ao recurso de apelação interposto na origem (art. 105, III, "a", da Constituição Federal).
+No presente processo, a parte afirma, em suma, que estão presentes os requisitos para o conhecimento e provimento de seu recurso, alegando violação ao art. 85, § 2º, do CPC, sob o argumento de que os honorários advocatícios devem incidir sobre o proveito econômico obtido (valor da dívida declarada inexistente somado à indenização), e não apenas sobre o valor da condenação.
+Ocorre, contudo, que a questão já foi enfrentada pela decisão recorrida, que analisou detidamente todas as questões jurídicas postas.
+A análise dos autos indica que a Corte de origem adotou entendimento alinhado ao perfilhado pela jurisprudência desta Corte, o que atrai a incidência do comando da Súmula n. 83 deste Superior Tribunal de Justiça ("não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida").
+No caso concreto, o Tribunal de origem consignou expressamente que (e-STJ, fl. 150):
+Assim, a ordem legal do CPC é: a condenação; o proveito econômico e, excepcionalmente, o valor da causa. Assim, havendo condenação, não se justifica calcular a verba sobre o proveito econômico como critério alternativo para fixação dos honorários. Deste modo, verifica-se que os honorários advocatícios, quando existe condenação, devem ser fixados de acordo com o § 2º do art. 85, do Código de Processo Civil acima transcrito, observando-se o grau de zelo do profissional, o lugar da prestação do serviço, a natureza e importância da causa, bem como o trabalho realizado pelo advogado e o tempo exigido para o seu serviço, como sabiamente fez o magistrado.
+Ao julgar o Tema 1.076 sob a sistemática dos recursos repetitivos, a Segunda Seção do STJ vedou a fixação de honorários por apreciação equitativa em causas de valor elevado. Nestas hipóteses, é impositiva a observância dos percentuais estipulados nos §§ 2º ou 3º do art. 85 do CPC, incidentes sobre o valor da condenação, do proveito econômico ou, subsidiariamente, do valor atualizado da causa.
+Com efeito, em demandas com a mesma causa de pedir, este colegiado vem se manifestando da seguinte forma:
+Direito processual civil. Recurso especial. Embargos de terceiro.
+Fixação de honorários advocatícios sucumbenciais. Aplicação do art. 85, § 2º, do CPC.
+I. Caso em exame
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça do Estado de Mato Grosso que, em sede de agravo de instrumento, reconheceu a intempestividade dos embargos de terceiro e extinguiu o processo sem resolução de mérito, fixando honorários advocatícios sucumbenciais por equidade no valor de R$ 1.500,00, com fundamento no art. 85, § 8º, do CPC.
+2. O recorrente alega violação ao art. 85, § 2º, do CPC, sustentando que os honorários advocatícios deveriam ter sido fixados com base nos percentuais previstos nesse dispositivo, considerando o valor da causa ou proveito econômico do feito.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se, em embargos de terceiro extintos sem resolução de mérito, é aplicável a regra do art. 85, § 2º, do CPC para a fixação de honorários advocatícios sucumbenciais, ou se seria cabível a fixação por equidade, conforme o art. 85, § 8º, do CPC.
+III. Razões de decidir
+4. O art. 85, § 8º, do CPC tem aplicação excepcional e restrita às hipóteses em que o proveito econômico obtido pelo vencedor seja inestimável ou irrisório, ou o valor da causa seja muito baixo, conforme entendimento firmado no Tema 1076 do STJ.
+5. A jurisprudência do STJ estabelece que, mesmo em casos de extinção do processo sem resolução de mérito, os honorários advocatícios sucumbenciais devem ser fixados com observância dos percentuais previstos no art. 85, § 2º, do CPC, considerando o valor da causa, o proveito econômico ou a condenação.
+6. No caso concreto, não se verifica a presença de circunstâncias que justifiquem a aplicação do art. 85, § 8º, do CPC, uma vez que o valor da causa não é baixo e o proveito econômico é estimável.
+7. A fixação de honorários por equidade, em desacordo com o Tema 1076 do STJ, não encontra respaldo na jurisprudência consolidada, sendo necessário observar os critérios objetivos previstos no art. 85, § 2º, do CPC.
+IV. Dispositivo e tese
+8. Resultado do Julgamento: Recurso especial provido para fixar os honorários advocatícios em 10% sobre o valor do proveito econômico, nos termos do art. 85, § 2º do CPC.
+(REsp n. 2.147.104/MT, relator Ministro Humberto Martins, Terceira Turma, julgado em 20/10/2025, DJEN de 23/10/2025. Grifo Acrescido)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C COMPENSAÇÃO POR DANO MORAL. PLANO DE SAÚDE. COBERTURA DE TRATAMENTO EM REGIME DE HOME CARE. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. CRITÉRIO DA APRECIAÇÃO EQUITATIVA AFASTADO. TEMA 1076/STJ. ART. 85 § 2º DO CPC. APLICAÇÃO.
+1. Ação de obrigação e fazer c/c compensação por dano moral, alegando indevida negativa de cobertura de tratamento em regime de home care.
+2. A Corte Especial do STJ, no julgamento dos recursos especiais repetitivos vinculados ao Tema 1.076, fixou as seguintes teses: "i) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória nesses casos a observância dos percentuais previstos nos §§ 2º ou 3º do artigo 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa;
+ii) Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo" (REsp 1.850.512/SP, Corte Especial, julgado em 16/3/2022, DJe 31/5/2022, Tema 1076).
+3. Agravo interno não provido.
+(AgInt no REsp n. 2.185.381/GO, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 22/9/2025, DJEN de 26/9/2025. Grifo Acrescido)
+Na esteira da jurisprudência dominante desta Corte, a superação do óbice da Súmula n. 83/STJ exige que o recorrente colacione precedentes deste Superior Tribunal de Justiça, contemporâneos ou supervenientes a seu favor, ou demonstre alguma distinção entre os julgados mencionados na decisão agravada e o caso em exame, o que não fez. Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ADMISSIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DA DECISÃO AGRAVADA. ART. 544, § 4º, I, DO CÓDIGO DE PROCESSO CIVIL.
+1. Incumbe ao agravante infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo (art. 544, § 4º, I, do CPC).
+2. Não basta, para afastar o óbice da Súmula nº 83/STJ, a alegação genérica de que o acórdão recorrido não está em consonância com a jurisprudência desta Corte, devendo a parte recorrente demonstrar que outra é a positivação do direito na jurisprudência desta Corte, com a indicação de precedentes contemporâneos ou supervenientes aos referidos na decisão agravada.
+3. Agravo regimental não provido.
+(AgRg no AREsp n. 238.064/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 7/8/2014, DJe de 18/8/2014. Grifo Acrescido)
+A análise das razões recursais indica que, embora afirme o adequado superamento dos óbices apontados, a parte recorrente não traz precedente contemporâneo que contemple a tese defendida.
+Ante o exposto, não conheço do recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 2% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
