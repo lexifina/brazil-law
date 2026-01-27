@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo SINDICATO DOS SERVIDORES DO PODER JUDICIÁ RIO NO ESTADO DO ESPÍRITO SANTO, contra decisão (fls. 571-573) de não conhecimento do recurso especial (fls. 520-539), com base no seguinte fundamento:
+" ..  por força da preclusão consumativa e do princípio da unirrecorribilidade, o presente apelo nobre não pode ser conhecido, pois, ao tempo da interposição, o recorrente já havia manejado outro recurso de agravo (fls. 338-59) em face do mesmo decisum. Cabe ressaltar que a decisão de fls. 330-4 que julgou os embargos de declaração, negando-lhes provimento, passou a integrar a decisão que inadmitiu o recurso extraordinário (fls. 301-4)." (fl. 571).
+Nas razões recursais, a parte agravante alega não ser caso de ofensa ao princípio da unirrecorribilidade, além de considerar ausente a preclusão consumativa, pois:
+" ..  decisão recorrida possui diferentes capítulos, de naturezas jurídicas distintas, um de natureza infraconstitucional e outra de natureza constitucional.  ..  O recurso especial se insurgiu especifica e unicamente contra o capítulo da decisão que deu uma incorreta interpretação jurídica ao art. 1.026 do CPC, que trata da interrupção do prazo pelos embargos de declaração.  ..  O esclarecimento destes fatos deixa claro que o presente caso se diferencia dos julgados utilizados pela decisão recorrida como fundamento. Isso porque naqueles casos (diferentemente desses) os recursos foram apresentados contra todo o teor decisão, impugnando-a de forma integral. Conquanto que, por outro lado, no presente caso os recursos apresentados (Recurso Especial em Agravo em RE) têm como objeto capítulos distintos da decisão e se referem a diferentes matérias de direito, um infraconstítucional e outra constitucional." (fls. 592-593).
+Requer, ao fim, que seja conhecido do agravo em recurso especial para conhecer do recurso especial e, no mérito, provê-lo.
+Contraminuta da parte agravada pelo não provimento do agravo (fls. 655-662).
+É o que importa relatar.
+De pronto, verifico a existência dos requisitos intrínsecos e extrínsecos de admissibilidade relativos à regularidade formal do agravo interposto e à tempestividade.
+Diante disso, passo, primeiramente, à análise de admissibilidade do recurso especial.
+Pois bem. Em análise do autos, constata-se a não existência de um dos pressupostos intrínsecos de admissibilidade relativos ao recurso especial ora interposto, qual seja, o cabimento.
+No caso em apreço, a parte recorrente interpôs recurso especial (fls. 520-539) contra decisão de inadmissão do recurso extraordinário (fls. 442-448), sendo que, nessa ocasião, o único recurso cabível é agravo em recurso extraordinário, conforme preceitua o art. 1.030, §1º, do CPC.
+E, mesmo que não fosse o caso, deve-se ressaltar que a decisão de admissibilidade, quer seja de recurso especial ou extraordinário, é ausente de questão controvertida dedicida por órgão colegiado, o que atrai a incidência do enunciado, por analogia, da Súmula n. 281 do STF (É inadmissível o recurso extraordinário, quando couber na justiça de origem, recurso ordinário da decisão impugnada).
+Nesse sentido, é o entendimento desta Colenda Corte de Justiça:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTERPOSIÇÃO DO RECURSO CONTRA DECISÃO MONOCRÁTICA. INVIABILIDADE DE CONHECIMENTO DA PRETENSÃO. SÚMULA 281/STF. AGRAVO INTERNO DESPROVIDO.
+1. É pacífico o entendimento do STJ de que a interposição do recurso especial pressupõe o julgamento da questão controvertida pelo órgão colegiado da instancia ordinária, conforme a Súmula 281/STF.
+Precedente.
+2. Agravo interno desprovido.
+(AgInt no AREsp n. 2.996.887/PB, rel. Min. Marco Aurélio Bellize, Segunda Turma, DJe de 17/12/2025) grifo acrescido
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. NULIDADE DE PAD. RECURSO ESPECIAL DESACOMPANHADO DAS RAZÕES RECURAIS. NECESSIDADE DE ESGOTAMENTO DAS VIAS ORDINÁRIAS PARA A INTERPOSIÇÃO DE RESP. INCIDÊNCIA DA SÚMULA N. 281/STF. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de ação de nulidade objetivando a anulação de PAD e a reintegração de cargo público, além do pagamento dos valores retroativos e de indenização por danos morais. Na sentença o pedido foi julgado improcedente. No Tribunal a quo, a sentença foi mantida. Nesta Corte, o recurso especial não foi conhecido. O valor da causa foi fixado em R$ 1.000,00 (mil reais).
+II - Constata-se que o recurso especial de fls. 1.338-1.339 encontra-se desacompanhado das razões recursais, além de ter sido interposto da decisão monocrática proferida por Desembargadora do Tribunal de Justiça do Estado do Mato Grosso.
+III - Consoante orientação firmada pelo Supremo Tribunal Federal, é necessário que a parte interponha todos os Recursos Ordinários na Corte de origem antes de buscar a instância especial (Súmula n. 281 do STF).
+IV - É, pois, pacífico o entendimento do STJ de que a interposição do recurso especial pressupõe o julgamento da questão controvertida pelo órgão colegiado do Tribunal de origem (AgInt nos EDcl no AREsp 1.571.531/SC, relator Ministro Og Fernandes, Segunda Turma, DJe de 20.5.2020), não se prestando ao esgotamento de instância os embargos de declaração opostos à decisão monocrática, ainda que decididos pelo órgão colegiado do Tribunal a quo (AgInt no AREsp n. 2.049.602/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 2.9.2024.)
+V - Agravo interno improvido.
+(AgInt no AREsp n. 2.819.754 /MT, rel. Min. Francisco Falcão, Segunda Turma, DJe de 30/04/2025) grifo acrescido
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial, porquanto incabível.
+Publique-se.
+Intime-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INTERPOSTO CONTRA DECISÃO DE INADMISSIBILIDADE DE RECURSO EXTRAORDINÁRIO. IMPOSSIBILIDADE. AGRAVO EM RECURSO EXTRAORDINÁRIO SENDO ÚNICO RECURSO CABÍVEL PREVISTO NO ART. 1.030, §1 º, DO CPC. AUSÊNCIA DE MANIFESTAÇÃO CONTROVERTIDA DE ÓRGÃO COLEGIADO DE INSTÂNCIA ORDINÁRIA. INCIDÊNCIA DO ENUNCIADO, POR ANALOGIA, DA SÚMULA. 281 DO STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
