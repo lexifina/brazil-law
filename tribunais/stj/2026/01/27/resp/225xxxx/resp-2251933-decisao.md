@@ -1,0 +1,71 @@
+DECISÃO
+Trata-se de recurso especial interposto por AMAURI CALHEIROS AMORIM, com fundamento na alínea "a" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de Alagoas, cuja ementa é a seguinte (e-STJ fl. 760):
+DIREITO PENAL E PROCESSUAL PENAL. APELAÇÃO CRIMINAL. HOMICÍDIO QUALIFICADO POR MOTIVO FÚTIL. DOSIMETRIA DA PENA. VALORAÇÃO NEGATIVA DAS CIRCUNSTÂNCIAS DO CRIME. CONFISSÃO QUALIFICADA. FRAÇÃO 1/12. FRAÇÃO DE REDUÇÃO. MANUTENÇÃO DA SENTENÇA. RECURSO CONHECIDO E NÃO PROVIDO.
+I. CASO EM EXAME
+1. Apelação criminal interposta em face de sentença que condenou o réu à pena de 13 (treze) anos e 23 (vinte e três) dias de reclusão, em regime inicialmente fechado, pela prática do crime de homicídio qualificado por motivo fútil, previsto no art. 121, §2º, II, do Código Penal.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) verificar se houve fundamentação idônea para a valoração negativa das circunstâncias do crime na primeira fase da dosimetria; (ii) definir se a fração de 1/12 (um doze avos) aplicada para a atenuante da confissão espontânea é adequada.
+III. RAZÕES DE DECIDIR
+3. A valoração negativa das circunstâncias do crime encontra fundamento idôneo no fato de que o delito foi praticado em local público, na presença de terceiros, colocando em risco concreto outras pessoas além da vítima, revelando maior reprovabilidade da conduta.
+4. A confissão qualificada justifica a aplicação da atenuante em patamar inferior ao usualmente aplicado para confissões integrais, sendo proporcional e adequada a fração de 1/12 (um doze avos), considerando que o réu confessou a autoria mas apresentou tese defensiva.
+5. A fundamentação apresentada pelo magistrado de primeiro grau é idônea e suficiente para justificar tanto a valoração negativa das circunstâncias do crime quanto a fração aplicada à atenuante da confissão qualificada.
+IV. DISPOSITIVO
+6. Recurso conhecido e não provido.
+Opostos embargos de declaração, o Tribunal a quo se pronunciou nos termos do acórdão que espelha a seguinte ementa (e-STJ fl. 797):
+DIREITO PENAL E PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO. ALEGAÇÃO DE OMISSÃO QUANTO A DOSIMETRIA DA PENA. CONFISSÃO QUALIFICADA. APLICAÇÃO DA FRAÇÃO DE 1/12 (UM DOZE AVOS). MERO INCONFORMISMO. RECURSO CONHECIDO E NÃO PROVIDO.
+I. CASO EM EXAME
+II. Embargos de declaração opostos em face de acórdão que negou provimento à apelação criminal e manteve os termos da sentença condenatória, sob alegação de omissão no tocante à fundamentação da dosimetria da pena, especificamente quanto à aplicação da fração de 1/12 (um doze avos) para a atenuante da confissão espontânea.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se o acórdão embargado incorreu em omissão ao não fundamentar adequadamente a aplicação da fração de 1/12 (um doze avos) para a atenuante da confissão qualificada na segunda fase da dosimetria da pena.
+III. RAZÃO DE DECIDIR
+3. A omissão apta a ensejar embargos declaratórios consiste na ausência de manifestação acerca de pedido ou argumento relevante da parte no decisum, não sendo parâmetro válido o mero não acolhimento de tese.
+4. O acórdão embargado fundamentou suficientemente a matéria em discussão, com explicação clara e robusta sobre a aplicação da fração de 1/12 (um doze avos) para a confissão qualificada, em que o réu confessou a prática do crime mas apresentou tese defensiva de legítima defesa.
+5. O magistrado não é obrigado a manifestar-se expressamente acerca de todos os dispositivos mencionados pelas partes para fins de prequestionamento, sendo suficiente o enfrentamento fundamentado da matéria.
+V. DISPOSITIVO
+6. Recurso conhecido e não provido.
+Nas razões do recurso especial (e-STJ fls. 810-818), alega o recorrente violação aos artigos 59 e 65, III, "d", do Código Penal, bem como ao artigo 489, § 1º, IV, do Código de Processo Civil.
+Argumenta que o acórdão recorrido incorreu em ofensa ao art. 489, § 1º, IV, do CPC, por não enfrentar adequadamente a tese de que a fração redutora aplicável à atenuante da confissão espontânea deveria ser de 1/6 (um sexto), e não de 1/12 (um doze avos), o que configuraria negativa de prestação jurisdicional quanto à fundamentação específica sobre o critério de redução.
+Sustenta, quanto aos arts. 59 e 65, III, "d", do Código Penal, que, reconhecida a atenuante da confissão espontânea, a fração de redução correta é a de 1/6 (um sexto), sobretudo em feitos do Tribunal do Júri - em que os jurados decidem por íntima convicção -, sendo inviável precisar o grau de influência da confissão, ainda que parcial ou qualificada, na decisão condenatória, devendo prevalecer a proporcionalidade e a individualização da pena. Para tanto, invoca a Súmula 545/STJ, bem como precedentes nos quais se reconhece a aplicação da fração de 1/6 à atenuante da confissão, inclusive quando parcial ou qualificada, no âmbito do Júri, além de mencionar entendimento no sentido de que a confissão, ainda que parcial, deve ser reconhecida para fins de atenuação e, uma vez reconhecida, a redução em 1/6 é de rigor.
+Ao final, requer o provimento do recurso para redimensionar a pena com aplicação da fração de 1/6 na segunda fase da dosimetria, fixando-a no mínimo legal de 12 anos, em razão da vedação de redução abaixo do mínimo legal, conforme a Súmula 231 do STJ.
+Apresentadas contrarrazões (e-STJ fls. 825-829), o Tribunal a quo admitiu o recurso especial (e-STJ fls. 832-833). O Ministério Público Federal manifestou-se pelo não conhecimento do recurso especial (e-STJ fls. 845-846).
+É o relatório. Decido.
+O recorrente foi condenado como incurso no art. 121, § 2º, II, do Código Penal, à pena de 13 anos e 23 dias de reclusão, em regime inicialmente fechado. Em apelação, a sentença condenatória foi mantida.
+A controvérsia jurídica do recurso especial cinge-se à aplicação da atenuante da confissão espontânea, defendendo a fração de 1/6 em substituição à fração de 1/12 adotada, além de suscitar negativa de prestação jurisdicional por ausência de enfrentamento específico da tese sobre o patamar de redução, com alegada violação aos arts. 59 e 65, III, "d", do Código Penal, e ao art. 489, § 1º, IV, do Código de Processo Civil (e-STJ fls. 811-818).
+Prefacialmente , ressalto que a alegação de negativa de prestação jurisdicional não procede. Depreende-se do acórdão recorrido que o órgão colegiado enfrentou, de forma motivada, o argumento relativo ao patamar de redução da atenuante da confissão, explicitando a razão pela qual, na espécie, a fração de 1/12 se mostra proporcional e adequada diante da confissão qualificada.
+De acordo com o voto condutor do acórdão recorrido (e-STJ fls. 766-768):
+"16. O recorrente sustenta que a fração de 1/12 (um doze avos) aplicada para a atenuante da confissão espontânea é inadequada, argumentando que a fração correta seria de 1/6 (um sexto), conforme entendimento jurisprudencial consolidado.
+17. Entretanto, tal argumento não merece prosperar.
+18. No caso em análise, constata-se que a confissão do recorrente foi qualificada, ou seja, o réu confessou a prática do crime, mas apresentou uma tese defensiva (legítima defesa) para excluir sua responsabilidade penal.
+19. O Superior Tribunal de Justiça possui entendimento pacífico no sentido de que, em casos de confissão qualificada, é possível a aplicação da atenuante prevista no art. 65, III, "d", do Código Penal, em fração inferior à usualmente aplicada para as confissões integrais.
+(..)
+20. A jurisprudência tem considerado que, em casos de confissão qualificada, a atenuação da pena pode ser realizada em patamar inferior àquele aplicado às confissões totais, em respeito ao princípio da individualização da pena.
+21. Assim, a aplicação da fração de 1/12 (um doze avos) para a atenuante da confissão qualificada mostra-se proporcional e adequada, considerando as peculiaridades do caso concreto, em que o réu confessou a autoria do crime, mas apresentou uma tese defensiva (legítima defesa) para excluir sua responsabilidade penal.
+22. Ressalte-se que a determinação da fração de redução da pena na segunda fase da dosimetria insere-se no âmbito da discricionariedade regrada do julgador, que deve observar as peculiaridades do caso concreto para fixar o quantum adequado.
+23. No caso dos autos, considerando que a confissão do recorrente foi qualificada, não há que se falar em desproporcionalidade na aplicação da fração de 1/12 (um doze avos) para a atenuante da confissão espontânea."
+Em complemento, o Tribunal a quo se pronunciou nos seguintes termos quando do julgamento dos embargos de declaração (e-STJ fls. 800-803):
+"9. Em suma, o caso em deslinde versa sobre embargos de declaração, no qual a parte recorrente sustenta existência de omissão no julgado, tendo em vista que, em tese, não foram analisadas as alegações recursais quanto ao cabimento da aplicação de 1/12 (um doze avos) para a confissão espontânea do recorrente na segunda fase da dosimetria da pena.
+10. Sobre o vício apontado, verifico que não merecem prosperar, tendo o decisum fundamentado suficientemente a matéria discutida nesses autos, inclusive com explicação clara e robusta acerca dos pontos levantados. (..)
+11. Portanto, não há no acórdão recorrido o vício alegado, uma vez que os pontos suscitados foram devidamente examinados e fundamentados com relação à aplicação da fração de 1/12 (um doze avos) no presente caso para a confissão do réu, não havendo que se falar em ausência de enfrentamento da matéria.
+12. Ademais, conforme entendimento do STJ, o patamar de 1/12 (um doze avos) para exasperar a pena na segunda fase da dosimetria é amplamente aceito, quando o réu apresenta confissão do crime e alega excludente de ilicitude, conforme o presente caso, em que fora alegada tese de legítima defesa. (..)"
+O acórdão recorrido, portanto, assentou que a confissão foi qualificada  o réu admitiu a autoria e sustentou excludente de ilicitude  e, por isso, a redução inferior ao padrão de 1/6 se mostra adequada, em respeito à individualização da pena. Tal conclusão alinha-se à orientação desta Corte, segundo a qual, nas hipóteses de confissão parcial ou qualificada, é possível a incidência da atenuante do art. 65, III, "d", do Código Penal em patamar inferior a 1/6, desde que fundamentado nas peculiaridades do caso concreto, como ocorreu na hipótese dos autos, em que foi considerado que o recorrente alegou legítima defesa.
+Quanto ao tema, destaco os seguintes julgados:
+DIREITO PENAL. RECURSO ESPECIAL. DOSIMETRIA DA PENA. ATENUANTE DA CONFISSÃO ESPONTÂNEA. CONFISSÃO QUALIFICADA. FRAÇÃO APLICADA DE FORMA IDÔNEA. RECURSO CONHECIDO E DESPROVIDO.
+1. Recurso especial interposto contra acórdão que manteve a aplicação da atenuante da confissão espontânea em patamar de 1/12 (um doze avos), por se tratar de confissão qualificada.
+2. O Recorrente foi condenado por infração ao artigo 129, § 3º, combinado com o artigo 61, inciso II, alínea "h", do Código Penal, sendo-lhe imposta pena de 4 (quatro) anos, 3 (três) meses e 10 (dez) dias de reclusão. A defesa alegou violação ao art. 65, III, "d", do Código Penal, pleiteando a aplicação da atenuante da confissão espontânea no patamar de 1/6.
+3. A questão em discussão consiste em saber se a atenuante da confissão espontânea, quando parcial, retratada, ou qualificada, pode ser aplicada em patamar inferior a 1/6, conforme precedentes do STJ.
+4. A decisão recorrida concluiu que a aplicação da atenuante em 1/12 é adequada, considerando a confissão e qualificada, em que o recorrente alegou legítima defesa.
+5. A jurisprudência deste Superior Tribunal de Justiça permite a aplicação da atenuante em patamar inferior a 1/6 em casos de confissão parcial ou qualificada, respeitando os princípios da individualização da pena e da proporcionalidade.
+6. A aplicação da atenuante deve respeitar os princípios da individualização da pena e da proporcionalidade".
+7. Recurso conhecido e desprovido.
+(REsp n. 2.052.193/SC, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 17/12/2024, DJEN de 23/12/2024.)
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. HOMICÍDIO QUALIFICADO. CONFISSÃO ESPONTÂNEA QUALIFICADA. REDUÇÃO DA PENA INFERIOR A 1/6. MOTIVAÇÃO IDÔNEA DECLINADA. WRIT NÃO CONHECIDO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. A individualização da pena é submetida aos elementos de convicção judiciais acerca das circunstâncias do crime, cabendo às Cortes Superiores apenas o controle da legalidade e da constitucionalidade dos critérios empregados, a fim de evitar eventuais arbitrariedades.
+Dessarte, salvo flagrante ilegalidade, o reexame das circunstâncias judiciais e os critérios concretos de individualização da pena mostram-se inadequados à estreita via do habeas corpus, pois exigiriam revolvimento probatório.
+3. O Código Penal olvidou-se de estabelecer limites mínimo e máximo de aumento ou redução de pena a serem aplicados em razão das agravantes e das atenuantes genéricas. Assim, a jurisprudência reconhece que compete ao julgador, dentro do seu livre convencimento e de acordo com as peculiaridades do caso, escolher a fração de aumento ou redução de pena, em observância aos princípios da razoabilidade e da proporcionalidade. Todavia, a aplicação de fração superior a 1/6 exige motivação concreta e idônea.
+4. No caso, o Colegiado de origem limitou-se a reduzir a reprimenda na fração de 1/12 pela incidência da atenuante do art. 65, III, "d", do CP, pois o réu afirmou ter agido em legítima defesa, bem como em razão da existência de um vasto conjunto probatório a respaldar a condenação do réu, notadamente declarações de testemunhas presenciais do fato, não havendo, portanto, ilegalidade na segunda fase da dosimetria a justificar a concessão da ordem de ofício, porquanto restou declinada motivação idônea para a redução inferior a 1/6.
+5. Writ não conhecido.
+(HC n. 449.831/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 12/6/2018, DJe de 20/6/2018.)
+Por essas razões, nego provimento ao recurso especial.
+Intimem-se.
+EMENTA
