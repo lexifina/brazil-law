@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de recurso especial interposto por MARCIA CRISTIANE JARDIM DOS SANTOS NASCIMENTO, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que julgou demanda relativa à cobrança de tarifa de água por estimativa e instalação de hidrômetros individuais nos termos desta ementa:
+ALIENAÇÃO FIDUCIÁRIA BUSCA E APREENSÃO JULGADA PROCEDENTE AÇÃO DE EXIGIR CONTAS PRIMEIRA FASE DECISÃO DE PROCEDÊNCIA QUE DETERMINA A PRESTAÇÃO DE CONTAS FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS POSSIBILIDADE ART. 85, § 8º DO CPC RECURSO PROVIDO.
+1. De acordo com a jurisprudência do C. Superior Tribunal de Justiça, é cabível a condenação da parte vencida ao pagamento de verba honorária na primeira fase da ação de prestação de contas;
+2. Não há que se falar em aplicação do artigo 85, § 8º-A, do CPC, pois esta norma deve ser aplicada de forma conjunta com os parágrafos 2º e 8º, observando-se os critérios de razoabilidade e proporcionalidade.
+Rejeitados os embargos de declaração opostos (fl. 42).
+A parte recorrente alega violação dos arts. 85, § 8º-A, do Código de Processo Civil, 1.036, § 1º, do Código de Processo Civil e sustenta dissídio jurisprudencial nos termos do art. 105, inciso III, alínea c, da Constituição Federal.
+Sustenta ofensa ao art. 85, § 8º-A, do Código de Processo Civil de 2015, afirmando que o Tribunal de origem "viola regra expressamente prevista no CPC/2015" ao considerar o § 8º-A "norma meramente sugestiva e não impositiva", quando, segundo a recorrente, o dispositivo impõe que, na hipótese de fixação equitativa de honorários sucumbenciais (art. 85, § 8º), o juiz "deverá observar os valores recomendados pelo Conselho Seccional da Ordem dos Advogados do Brasil  ou o limite mínimo de 10%  aplicando-se o que for maior" (fls. 48-49 e 53-55).
+Apresentadas contrarrazões ao recurso especial (fls. 63-68), sobreveio juízo de admissibilidade positivo da instância de origem (fls.69-71).
+É, no essencial, o relatório.
+A controvérsia tratada nestes autos está sendo rediscutida em recurso repetitivo. Entretanto, não se trata do tema 1076, como alega a recorrente.
+Na verdade, a Seg unda Seção desta Corte, nos autos do REsp 2159431/SP, decidiu fixar tese no Tema Repetitivo n.1388/STJ, qual seja, a necessidade de observância dos parâmetros mínimos estabelecidos no art. 85, § 8º-A, do CPC, quando da fixação dos honorários advocatícios por apreciação equitativa.
+Logo, por medida de economia processual e para evitar decisões dissonantes entre Cortes integrantes do mesmo sistema de Justiça, os recursos que versam sobre a mesma controvérsia devem retornar à origem, dando ensejo à aplicação uniforme da tese vinculante.
+Somente depois de realizada tal providência, isto é, com o exaurimento da instância ordinária, os recursos excepcionais deverão ser encaminhados para os Tribunais Superiores para análise dos pontos jurídicos neles suscitados, a menos que estejam prejudicados pelo novo pronunciamento do Tribunal local.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, para observação da disciplina processual dos arts. 1.039 e 1.040 do CPC/2015, devendo-se: i) negar seguimento ao recurso, se o acórdão recorrido coincidir com a tese vinculante do Tribunal Superior; ou ii) proceder ao juízo de retratação, na hipótese de ter o Colegiado local divergido da interpretação fixada no precedente qualificado.
+Publique-se. Intimem-se.
+ EMENTA
