@@ -1,0 +1,62 @@
+DECISÃO
+Cuida-se de recurso especial interposto por ESTEIO ENGENHARIA e AERO LEVANTAMENTOS S.A., com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS assim ementado (fls. 267-273):
+EMENTA: APELAÇÃO CIVEL - EMBARGOS DE TERCEIRO - PENHORA - DINHEIRO - BEM FUNGÍVEL - PROPRIEDADE - TITULAR DA CONTA CORRENTE. 1. É de se presumir como de propriedade do titular de conta corrente bancária os depósitos havidos em seu nome. 2. O valor em dinheiro constitui bem fungível, cujo domínio se transfere com a tradição, razão por que não há como considerar que os valores penhorados em conta corrente ainda pertenceriam ao embargante.
+Os embargos de declaração opostos foram rejeitados (fls. 320-326).
+Nas razões do recurso especial, a parte recorrente apontou violação dos arts. 489, §§ 1º, III e IV, 1.022, II e III, e 1.025, todos do Código de Processo Civil; arts. 10, 141 e 333 (atual 373), I e II, do CPC; e art. 37, I, da Lei n. 8.245/91.
+Sustentou a nulidade do acórdão por negativa de prestação jurisdicional, aduzindo omissão quanto à análise das provas de titularidade do valor bloqueado e ocorrência de julgamento extra petita quanto à fundamentação sobre contrato de conta corrente.
+No mérito, defendeu que o valor bloqueado lhe pertence, tratando-se de caução locatícia depositada na conta da administradora do imóvel (executada), conforme contrato e comprovante de transferência, não podendo ser penhorado por dívida da administradora. Alegou dissídio jurisprudencial.
+Contrarrazões não apresentadas (certidão de fl. 408).
+Sobreveio o juízo de admissibilidade positivo na instância de origem (fls. 409-411).
+É, no essencial, o relatório.
+A controvérsia devolvida a esta Corte tem origem em embargos de terceiro opostos pela recorrente visando desconstituir penhora sobre valores bloqueados em conta corrente de titularidade da empresa executada (ISTO É IMÓVEIS LTDA.), sob a alegação de que tais valores seriam de sua propriedade, referentes a uma caução locatícia.
+O Tribunal local, ao manter a sentença de improcedência, concluiu que o dinheiro é bem fungível e que se presume a propriedade do titular da conta bancária, não tendo a embargante logrado êxito em comprovar, de forma inequívoca, a titularidade exclusiva dos valores constritos ou que a conta da executada movimentava apenas recursos de terceiros.
+Os embargos de declaração opostos pela parte recorrente foram rejeitados, sob o fundamento de que a decisão havia enfrentado adequadamente as questões suscitadas, inexistindo omissão, contradição ou obscuridade a sanar.
+Quanto aos artigos 489, §§ 1º, III e IV, artigos 1.022, II e III, e art. 1.025, todos do CPC, voltados a tentar demonstrar uma suposta negativa de prestação jurisdicional, a pretensão não merece acolhimento por se tratar de mera rediscussão com resultado desfavorável.
+O Tribunal de origem manifestou-se de forma clara e fundamentada sobre as questões suscitadas, ainda que em sentido contrário aos interesses da parte recorrente. A propósito, confira-se o fundamento adotado no aresto que julgou os embargos de declaração (fls. 320-326):
+No caso em exame, constata-se que o acórdão embargado não apresenta qualquer omissão, contradição, obscuridade ou erro material.
+Em rigor, busca a parte embargante o reexame da questão decidida, com a prevalência do entendimento por ela esposado, visando modificar a decisão recorrida, o que não é próprio do recurso de embargos de declaração.
+Conforme ressaltado no acórdão embargado:
+"Conforme bem ressaltado na decisão que julgou os embargos de declaração"não houve julgamento extra petita, sendo a fundamentação apresentada condizente com o julgamento do mérito da demanda, não tendo sido apreciado ou concedido pedido não realizado. As demais alegações de nulidade e erro material se referem ao próprio mérito do julgado, não se verificando a procedência das alegações apresentadas"(f. 127 - documento único).
+Da leitura do artigo 674 do Código de Processo Civil de 2015, extrai-se que"quem não sendo parte no processo, sofrer constrição ou ameaça de constrição sobre bens que possua ou sobre os quais tenha direito incompatível com o ato constritivo, poderá requerer seu desfazimento ou sua inibição por meio de embargos de terceiro."
+É necessário que a parte embargante comprove ter a posse ou a propriedade do bem constrito judicialmente para procedência dos embargos opostos.
+No caso em exame, pretende o embargante desconstituir a penhora de numerário no montante de R$ 6.588,48 (seis mil, quinhentos e oitenta e oito reais e quarenta e oito centavos) dados em garantia em razão de contrato de locação celebrado com a empresa Expressa Engenharia e Construções Ltda.
+Relata que embora o montante acima tenha sido depositado em conta da empresa Isto  Imóveis Ltda este numerário jamais lhe pertenceu sendo fruto de uma caução dada em garantia em contrato de locação por ela administrado ".
+Analisando a controvérsia instaurada, em que pese o inconformismo do embargante, os documentos juntados aos autos não fazem prova dos elementos constitutivos do seu direito.
+Com efeito, de se presumir como de propriedade do titular de conta corrente bancária os depósitos havidos em seu nome, sendo certo que, qualquer alegação contrária a tal premissa há de ser eficazmente demonstrada.
+No caso em tela, a juntada do contrato de locação firmado entre a embargante e a empresa Isto é Imóveis Ltda e o demonstrativo de transferência bancária, por si sós, não são suficiente a comprovar a propriedade dos valores reclamados nesta ação (f. 15/32).
+Ademais, não se pode presumir que a conta corrente de uma empresa ligada ao ramo de administração de imóveis seja movimentada, apenas, com valores pertencentes de terceiros.
+Por outro lado, verifica-se do documento juntado às f. 38 que o valor penhorado na conta corrente da executada foi de R$ 7.230,41 (sete mil, duzentos e trinta reais e quarenta e um centavos) e não de R$ 6.588,48 (seis mil, quinhentos e oitenta e oito reais e quarenta e oito centavos).
+Não bastasse isso o valor em dinheiro constitui bem fungível, cujo domínio se transfere com a tradição, razão por que não há como considerar que os valores penhorados ainda pertenceriam ao apelante."
+Entendimento diverso deve ser defendido em recurso próprio, pois, como já dito, os embargos de declaração não se prestam à rediscussão de matéria examinada e decidida no acórdão embargado.
+Com tais considerações, não acolho os embargos de declaração.
+Com efeito, o Tribunal local enfrentou as preliminares como matéria de mérito e, com base nos elementos probatórios, entendeu não demonstrada a propriedade/posse do numerário bloqueado, mantendo a improcedência dos embargos de terceiro. O voto consignou que se presume como de propriedade do titular da conta os depósitos feitos em seu nome, e que dinheiro é bem fungível, cujo domínio se transfere com a tradição (fls. 269-271).
+Dessa forma, não há falar em negativa de prestação jurisdicional, porquanto todas as questões fundamentais ao deslinde da controvérsia e devolvidas tempestivamente foram apreciadas pelo Tribunal a quo, ainda que em sentido desfavorável à recorrente.
+Cumpre destacar que não caracteriza omissão ou ausência de fundamentação o simples fato de o julgado não ter acolhido as teses deduzidas pela parte, pois o magistrado não está obrigado a examinar, um a um, todos os argumentos expendidos, bastando que fundamente adequadamente sua decisão e indique as razões do convencimento adotado.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO E CONTRADIÇÃO INEXISTENTES. VIOLAÇÃO DO ART. 1022 DO CPC NÃO VERIFICADA. PRETENSÃO DE REJULGAMENTO. IMPOSSIBILIDADE. DECISÃO FUNDAMENTADA. ART. 489, § 1º, DO CPC. REEXAME DE PROVAS. SÚMULA 7/STJ. HÍPÓTESE. COISA JULGADA. REDISCUSSÃO. TERMO. INICIAL. JUROS REMUNERATÓRIOS. INVIÁVEL. PRECEDENTE. SÚMULA 83/STJ. MULTA. ART. 1.021, § 4º, DO CPC. INAPLICABILIDADE.
+1 Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, ainda que de forma sucinta, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. Mesmo à luz do art. 489 do CPC, o órgão julgador não estaria obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pelas partes, mas apenas a respeito daqueles capazes de, em tese, de algum modo, infirmar a conclusão adotada pelo órgão julgador (inciso IV).
+3. Na hipótese, tendo sido verificada a efetiva existência de coisa julgada, fica afastada a possibilidade de discussão da matéria relativa ao termo final dos juros de mora. Incidência da Súmula 83/STJ.
+4. No caso, não há como afastar a incidência da Súmula 7/STJ, haja vista que o acolhimento da pretensão recursal para infirmar a assertiva de que operou a preclusão consumativa, demandaria o reexame das circunstâncias fáticas dos autos, procedimento incompatível no recurso especial.
+5. Quanto ao pedido formulado pela parte contrária relativo à multa prevista no art. 1.021, § 4º, do CPC/2015, a Segunda Seção decidiu que a aplicação da referida penalidade não é automática, pois não se trata de mera decorrência lógica da rejeição do agravo interno.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.319.758/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/6/2024, DJe de 26/6/2024.)
+No que concerne aos artigos 37, I, da Lei n. 8.245/91, e a afronta à regra dos artigos 10, 141, 333 (atual 373), I e II, todos do CPC, as razões do recurso especial não permitem compreender a controvérsia com a clareza necessária, uma vez que a recorrente não demonstra de forma analítica como o acórdão recorrido teria violado os dispositivos legais no que tange especificamente ao erro procedimental alegado, limitando-se a narrar o ocorrido.
+Assim, verifica-se que a recorrente deixou de estabelecer, com a precisão necessária, a fundamentação relativa aos dispositivos de lei federal que considera violados para sustentar a irresignação. Incidência da Súmula n. 284 do STF.
+Ademais, o Tribunal de origem, no entanto, concluiu que não ficou comprovado que os valores bloqueados pertenciam à recorrente. Alterar tal premissa exigiria reexame das provas documentais, providência inviável em recurso especial, diante do óbice da Súmula n. 7 do STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO E PENHORA DE VALORES EM CONTA-CORRENTE. AGRAVO EM RECURSO ESPECIALDESPROVIDO.
+(..)
+4. A presunção de que os valores existentes em conta bancária pertencem ao titular da conta não foi afastada por prova inequívoca. A revisão das premissas fáticas quanto à origem e titularidade dos depósitos demanda reexame de provas, vedado pela Súmula n. 7 do STJ.
+(..)
+(AREsp: 2505269 SP 2023/0353843-3, Relator.: Ministro JOÃO OTÁVIO DE NORONHA, Data de Julgamento: 17/11/2025, T4 - QUARTA TURMA, Data de Publicação: DJEN 24/11/2025.)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. MATÉRIA TRATADA NOS ARTS. 647, 659, 708, I, e 709 DO CPC/73. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 211/STJ E 282/STF. PENHORA. AUSÊNCIA DE INTERESSE DE AGIR DO EMBARGANTE. BEM PENHORADO DE TERCEIRO. REEXAME. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+(..)
+IV. O Tribunal de origem, no caso, com base no contexto fático-probatório dos autos, asseverou que o numerário penhorado não seria de propriedade ou estaria na posse do ora agravante, de modo que julgou extintos os Embargos de Terceiro, sem resolução de mérito, por ausência de interesse de agir do embargante. A revisão desse entendimento demandaria reexame de peças processuais e de matéria de fato, providência vedada, em Recurso Especial, nos termos da Súmula 7/STJ.
+V. Agravo interno improvido.
+(AgInt no AREsp: 270543 ES 2012/0264128-5, Relator.: Ministra ASSUSETE MAGALHÃES, Data de Julgamento: 17/10/2017, T2 - SEGUNDA TURMA, Data de Publicação: DJe 24/10/2017.)
+Por fim, em razão dos óbices processuais apontados, fica inviabilizado o processamento do apelo nobre quanto ao dissídio jurisprudencial.
+Ante o exposto, não conheço do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro para 20% (vinte por cento) a verba honorária fixada em desfavor da parte recorrente, mantendo a base de cálculo estabelecida pelas instâncias ordinárias.
+Publique-se. Intimem-se.
+ EMENTA
