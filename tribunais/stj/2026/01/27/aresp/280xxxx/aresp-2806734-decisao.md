@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de agravo interposto por KALIANE BALDOINO DOS SANTOS RIBEIRO contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Goiás assim ementado (fls. 264-265):
+APELAÇÃO CÍVEL E RECURSO ADESIVO. AÇÃO DE BUSCA E APREENSÃO. RECONVENÇÃO. ATRIBUIÇÃO DE EFEITO SUSPENSIVO AO RECURSO. AUSÊNCIA DE INTERESSE. CAPITALIZAÇÃO DIÁRIA DE JUROS REMUNERATÓRIOS. COBRANÇA NÃO DEMONSTRADA. MORA CARACTERIZADA. DEPÓSITO INTEGRAL DO VALOR DO DÉBITO. NÃO EFETUADO. CONSOLIDAÇÃO DA PROPRIEDADE DO BEM ALIENADO AO CREDOR FIDUCIÁRIO. DECISÃO REFORMADA. 1. Há carência de interesse de agir em relação ao pedido de atribuição de efeito suspensivo ao recurso, haja vista que a presente Apelação Cível é dotada de efeito suspensivo ope legis, e o caso dos autos não se amolda à nenhuma das exceções previstas nos incisos do § 1º, do art. 1.012, do CPC. 2. Constatado que o reconvinte não comprovou a cobrança da capitalização diária dos juros remuneratórios, ônus que lhe competia (art. 373, I, CPC), não há falar em abusividade contratual. 3. Conforme dispõe o art. 3º, §2º, do Decreto Lei n. 911/1969 (com redação pela Lei n. 13.043/2014), no prazo de cinco dias após executada a liminar de busca e apreensão, o devedor fiduciante poderá pagar a integralidade da dívida pendente, hipótese na qual o bem lhe será restituído livre do ônus. 4. Não efetuada a purgação da mora no prazo legal, é medida impositiva a consolidação da propriedade do bem apreendido liminarmente ao patrimônio do credor fiduciário, conforme disposições legais aplicáveis. APELAÇÃO CÍVEL CONHECIDA E PROVIDA. RECURSO ADESIVO PREJUDICADO.
+Não foram opostos embargos de declaração.
+Nas razões recursais (fls. 288-302), a recorrente alegou que o acórdão violou os artigos 6º, V, 46, 51, IV e §1º, III, do Código de Defesa do Consumidor, além de divergir da jurisprudência do STJ, ao não reconhecer a abusividade da cláusula de capitalização diária de juros sem a devida informação da taxa diária, o que descaracterizaria a mora.
+Não foram apresentadas as contrarrazões (fl. 354).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 357-359), o que ensejou a interposição do presente agravo (fls. 363-376).
+Apresentada contraminuta do agravo (fls. 422-438).
+É, no essencial, o relatório.
+A irresignação não merece prosperar.
+O Tribunal de origem, ao analisar o conjunto probatório dos autos, concluiu que a parte recorrente não se desincumbiu do ônus de comprovar a efetiva cobrança da capitalização diária dos juros remuneratórios. Confira-se o seguinte trecho do voto condutor (fl. 276):
+ ..  em análise à reconvenção e ao contrato anexado pela instituição bancária (mov. 01, arq. 07), observa-se que o reconvinte, ora aderente, não comprovou à saciedade a efetiva cobrança - a qual não se confunde com a mera previsão contratual - de capitalização diária dos juros remuneratórios, ônus que lhe incumbia (art. 373, I, CPC), especialmente porque a planilha de cálculos acostada com a inicial da busca e apreensão também não indica claramente a incidência.
+Logo, se não incide, não há como um fato jurídico inexistente causar efeitos jurídicos, especialmente o de contaminar por abusividade a totalidade do contrato.
+Dessa forma, para modificar a conclusão a que chegou o acórdão recorrido, seria necessário o reexame do acervo fático-probatório dos autos, procedimento vedado em recurso especial, nos termos da Súmula 7 do Superior Tribunal de Justiça.
+Por fim, a incidência da Súmula n. 7 do STJ também obsta o conhecimento do recurso especial pela alínea "c" do permissivo constitucional, uma vez que a ausência de similitude fática entre os arestos confrontados, requisito indispensável à demonstração da divergência, impede o conhecimento do recurso.
+A propósito, cito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ASTREINTES. ART. 3º DA LEI N. 13.979/2020. AUSÊNCIA DE PREQUESTIONAMENTO. CUMPRIMENTO DA OBRIGAÇÃO DE FAZER. VALOR DA MULTA. REVISÃO DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7 /STJ. DISSÍDIO PREJUDICADO.
+1. Não cumprido o necessário e indispensável prequestionamento da questão na decisão atacada, apto a viabilizar a pretensão recursal da recorrente, incide o enunciado das Súmulas n. 282 e 356 do Supremo Tribunal Federal.
+2. A pretensão recursal, no tocante ao cumprimento de decisão judicial que justifica a aplicação da sanção, bem como à alegação de desproporcionalidade e excessividade do valor das astreintes, no caso, exige o reexame de fatos e provas, o que é vedado, em recurso especial, pela Súmula n. 7 do STJ.
+3. A incidência da Súmula n. 7 do STJ quanto à interposição pela alínea "a" do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Agravo interno improvido.
+(AgInt no AREsp n. 2.896.253/CE, relator Ministro Humberto Martins, Terceira Turma, julgado em 13/10/2025, DJEN de 16/10/2025.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Majoro os honorários de sucumbência em desfavor da parte recorrente para 12% (doze por cento) sobre o valor da causa, nos termos do art. 85, § 11, do CPC, observada a suspensão de sua exigibilidade, nos termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
