@@ -1,0 +1,62 @@
+DECISÃO
+VAIRAN LIMA agrava da decisão que não admitiu seu recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região na Apelação Criminal n. 5003390-05.2019.4.04.7104/RS.
+No recurso especial, a defesa sustenta violação do art. 386, V e VII, do Código de Processo Penal, por considerar que a moldura fática delineada nos autos não é suficiente para a condenação do réu. Requer, assim, o provimento do recurso, para que o réu seja absolvido.
+A Corte regional inadmitiu o recurso, o que ensejou a interposição deste agravo.
+O Ministério Público Federal opinou pelo conhecimento do agravo para não conhecer do recurso especial.
+Decido.
+O agravo é tempestivo e infirmou as razões da decisão que inadmitiu o recurso especial.
+Extrai-se dos autos que o recorrente foi denunciado pela prática dos crimes previstos nos arts. 15 da Lei n. 10.826/03, c/c o art. 29 do Código Penal (1º fato) e 121, § 2º, I e IV, na forma do art. 14, c/c o art. 29, caput, todos do Código Penal (2º fato).
+Ao final da instrução e após sentença de impronúncia em relação ao 2º fato, o Juízo singular condenou o ora agravante às seguintes reprimendas: 2 anos de reclusão, em regime aberto, mais multa, por infração ao art. 15 da Lei n. 10.826/2003. A pena privativa de liberdade foi substituída por duas penas restritivas de direitos, quais sejam, prestação de serviços à comunidade à razão de uma hora para cada dia de condenação e prestação pecuniária no valor de 1 salário mínimo. O decreto condenatório consignou que:
+ ..
+A autoria em relação a este acusado decorre dos depoimentos dados por Pedro Paulo Cardoso, Romancir Mateus e Taffarel Paulo de que o viram e testemunharam os tiros, tendo, também, visualizado os acusados portando armas de fogo.
+Igualmente, foi reconhecido por Ari Domingos, que disse ter escutado a voz do mesmo, e pelo filho daquele, que afirmou que o teria visto/ouvido, assim como os tiros disparados pelo aludido réu e demais acusados.
+O denunciado, na esfera policial disse que se encontrava em Guaporé a trabalho, no período do fato. Sem prejuízo de que, em audiência, deu a entender que estaria em casa e não naquela cidade, algo que já denota a ausência de verossimilhança na sua fala, pertinente o exame do álibi por ele apresentado.
+Conquanto tenha sustentado que estava em Guaporé naquela época, lá tendo permanecido por quase um mês, tal informação é destituída de qualquer fundamento, relevando pontuar que nos autos do Pedido de Prisão Temporária nº 5003867-57.2017.404.7117 declarou, quando dos seus comparecimentos à Justiça Federal, feitos em 31.08.2018, e também em 28.09.2018 e 30.10.2018, que estava residindo na Reserva do Ligeiro (E206, 216 e 225, daquele feito).
+Acrescenta-se a isso levantamento acostado nos autos do Pedido de Quebra de Sigilo de Dados Telefônicos nº 5003562-44.2019.404.7104, o qual revela que o celular nº 54 9-9703-9840 - que, apesar de estar cadastrado em nome de sua esposa, Simone Palhano, era de uso pessoal do mesmo, tanto que, por ocasião dos comparecimentos acima indicados, informou dito telefone como sendo seu - sensibilizou as ER Bs localizadas em Charrua, nas proximidades da Reserva do Ligeiro, isto nos dias 20 e 21.09.2018, datas bem próximas do fato em questão (E14, ANEXO8, daquele feito).
+O exame dos dados telefônicos em cotejo com as informações sobre o seu endereço residencial levam à compreensão de que estava morando na TI do Ligeiro à época do Fato 1 (e também do Fato 2), não havendo nenhum indicativo de que teria saído de lá para trabalhar em outra cidade.
+Noutro vértice, registro que o acusado contou em audiência que teria ouvido os tiros, o que só seria possível caso estivesse na área indígena em comento. Mais que isso, deveria estar em local próximo aos disparos, não podendo ser o acampamento no Setor Paraná, já que situado há uma distância de mais de 3 km do Setor Farias, onde se deu o tiroteio.
+Em verdade, o réu formulou tal declaração para referir que só teria escutado os tiros, desconhecendo quem os teria dado.
+Não obstante, ao prestar tal informação acabou por confirmar que não estava em Guaporé ou mesmo no acampamento montado no Setor Paraná, depreendo-se, partir das demais provas colhidas, que foi ele um dos autores dos disparos.
+Para sustentar que o mesmo não teria praticado o fato, a defesa aduziu que os depoimentos prestados pelos integrantes da liderança estariam viciados e teriam se dado para o efeito de induzir em erro o julgador, com a consequente prolação de sentença condenatória em desfavor do acusado.
+No entanto, não se tratam os relatos das aludidas testemunhas de versões desencontradas e/ou insuficientes para o esclarecimento do fato.
+Com efeito, preciso ter em mente que VAIRAN era um dos líderes do grupo dissidente, ao lado de seu irmão TEXEIRINHA e demais réus, isto referido não apenas pela liderança de Ligeiro, como também pela de Ventarra.
+Estava, deste modo, diretamente envolvido nos conflitos indígenas que seguidamente ocorriam, tanto que já teve prisão cautelar decretada em outro processo.
+Além do mais, tinha acesso a armas, as quais estavam disponíveis ao grupo dissidente, tendo, inclusive, sido feita foto do arsenal, cujas características condizem com as das armas utilizadas no fato em comento, ponto já anteriormente abordado.
+Nesta linha, tendo em vista que os depoimentos dados pelos líderes da TI do Ligeiro mostraram-se harmônicos entre si e compatíveis com os demais elementos acostados nos autos, não se pode desacreditá-los pelo simples fato de terem sido prestados pelos membros do cacicado. Pelas mesmas razões, e sobretudo porque as oitivas não destoaram das informações prestadas pelos aludidos depoentes na fase policial, deve ser rechaçada a alegação de que teriam sido condicionados a concordar com as afirmações feitas pela acusação.
+Também não pode prosperar a alegação de que já era noite e seria impossível reconhecer os atiradores, haja vista o referido por Romancir Mateus, Pedro Paulo Cardoso, Taffarel Paulo e Ari Jr. de que ainda não estava completamente escuro, tendo sido possível, em função disso, visualizar quem estava atirando. Outrossim, VAIRAN foi também reconhecido pela sua voz.
+No que tange especificamente à testemunha Ari Jr., a mera alegação de que estava no ginásio, no momento em que os disparos começaram é insuficiente para deslegitimar as suas declarações, eis que, tendo ele deixado imediatamente aquele local, poderia, durante a sua saída, ter realizado o reconhecimento do acusado.
+Em tal cenário, as menções feitas por mais de um indígena de que viram o denunciado no local dos fatos, havendo, também, relato de que foi identificado pela sua voz, já se mostram perfeitamente suficientes para que se possa inferir, com a certeza necessária, que foi ele um dos responsáveis pelos disparos, sendo despiciendo maiores detalhamentos, como sugeriu a defesa.
+Por fim, relativamente ao aventado de que a denúncia se deu de forma abstrata e genérica, consigno que dita tese já foi afastada no E111, cumprindo reiterar que as condutas foram devidamente individualizadas, o que não se confunde com exaustão de minúcias.
+ ..
+Após apresentação de recurso de apelação pela defesa, o Tribunal a quo negou provimento ao pleito defensivo e manteve integralmente a sentença condenatória e a dosimetria da pena. Confira-se:
+ ..
+Na fase policial, VAIRAN negou a participação nos fatos sob o argumento de que, na ocasião, estava trabalhando como pedreiro na cidade de Guaporé (processo 5004626- 84.2018.4.04.7117/RS, evento 76, AUTO_QUALIFIC3). Já na fase judicial, alterou a versão, afirmando que estava em casa com seus filhos, no Setor Paraná, e de lá não saiu quando ouviu o tiroteio. Disse não saber quem participou e afirmou que "por um vulto (..) estão me acusando de uma coisa que não cometi". Alegou que nunca teve arma de fogo. Disse que jamais teve "intriga" com Ari e Taffarel (evento 394, VIDEO4 e evento 394, VIDEO5).
+Como se depreende, as explicações apresentadas pelo réu não merecem crédito, seja porque as versões apresentadas em sede policial e judicial são contraditórias entre si, seja porque se trata de negativa genérica, desamparada de qualquer elemento de prova.
+No que tange aos dados telefônicos indicando sua presença na reserva, contrariamente ao que afirma o recorrente, não se trata de prova de que ele cometeu os disparos em questão. Não obstante, trata-se de mais um elemento que descredibiliza suas afirmações, especialmente a versão apresentada em sede policial de que ele se encontrava em Guaporé na época dos fatos.
+Ainda, o próprio acusado afirmou jamais ter tido "intriga" com Ari e Taffarel, o que confere ainda mais credibilidade às informações das testemunhas, que disseram, respectivamente, ter ouvido e visto o réu na ocasião.
+Portanto, ao contrário do que aduz a defesa técnica, há provas suficientes da autoria delitiva.
+Com efeito, como já mencionado, VAIRAN foi apontado como um dos autores do crime no B. O. nº 1889/2018; Pedro, Romancir e Taffarel afirmaram tê-lo visto; e Ari Domingos e Ari Domingos Júnior disseram ter reconhecido a sua voz.
+A propósito, diversamente do arguido pelo recorrente, não se trata de inversão do ônus da prova, mas sim da regra disposta no art. 156 do CPP, a qual dispõe que a prova da alegação caberá a quem a fizer. No caso, a tese defensiva é genérica, não veio corroborada por nenhum elemento de prova e as declarações de VAIRAN são contraditórias e inverossímeis. Assim, não tiveram o condão de afastar as provas que pesam em seu desfavor.
+Dessa feita, adequada a sentença que condenou VAIRAN LIMA nas penas do art. 15 da Lei 10.826/2003.
+ ..
+Quanto ao sistema de valoração das provas, no processo penal brasileiro, vigora o princípio do livre convencimento motivado, em que é dado ao julgador decidir o mérito da pretensão punitiva, para condenar ou absolver, desde que o faça fundamentadamente.
+No caso, pela análise dos excertos transcritos, noto que o Tribunal de origem, após minuciosa análise do acervo fático-probatório carreado aos autos, concluiu pela existência de elementos concretos e coesos a ensejar a condenação do acusado pelo crime previsto no art. 15 da Lei n. 10.826/2003.
+Com efeito, o acórdão mencionou a presença de provas suficientes a embasar a condenação.
+Logo, para se entender pela insuficiência de provas, seria necessária a incursão no conjunto fático-probatório, procedimento vedado no âmbito do recurso especial, conforme a Súmula n. 7 do Superior Tribunal de Justiça. Nesse sentido:
+ ..
+2. A absolvição pretendida, fundada na ausência de provas de autoria e materialidade e na alegação de que a vítima teria criado a situação de privação da liberdade e lesionado a si própria, implica, necessariamente, o reexame de todo o conjunto fático-probatório (Súmula 7/STJ).
+3. Agravo regimental improvido.
+(AgRg no AREsp n. 625.214/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 19/3/2015, DJe de 30/3/2015.)
+ ..
+A pretensão do agravante de reverter a condenação para que seja absolvido do delito de cárcere privado implicaria necessariamente análise do conjunto probatório, o que é inviável na via eleita, ante o óbice da Súmula 7 do STJ.
+Consoante entendimento desta Corte, o não conhecimento do recurso especial pela alínea "a" do permissivo constitucional, em face da incidência da Súmula 7 do STJ, prejudica o exame do dissídio jurisprudencial.
+Agravo regimental desprovido.
+(AgRg no AREsp n. 710.396/ES, relator Ministro Gurgel de Faria, Quinta Turma, julgado em 27/10/2015, DJe de 13/11/2015.)
+Nesse sentido, aliás, foi o parecer do Ministério Público Federal (fl. 1.642):
+ ..
+Sem maiores delongas, verifica-se que na hipótese dos autos a revisão da conclusão do Acórdão impugnado importa em nova imersão no acervo probatório da demanda, procedimento inviável em sede de Recurso Especial, não existindo ilegalidade aparente que pudesse abonar o pleito de absolvição dos ora Agravantes.
+No mais, no Recurso Especial de Odair não houve indicação de precedentes relacionados a alínea "c" do permissivo constitucional, não sendo o caso de conhecimento do Recurso nesse ponto. Não bastasse, a incidência da Súmula 07 do Superior Tribunal de Justiça também alcança o Especial no que se refere a divergência jurisprudencial.
+ ..
+À vista do exposto, conheço do agravo para não conhecer do recurso especial interposto por VAIRAN LIMA.
+Publique-se e intimem-se.
+EMENTA
