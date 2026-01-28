@@ -1,0 +1,46 @@
+DECISÃO
+CEZAR AUGUSTO PEREIRA DE SOUSA JÚNIOR agrava da decisão que não admitiu seu recurso especial, interposto com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado da Paraíba na Apelação Criminal n. 0000669-04.2009.815.0371.
+No recurso especial, a defesa sustenta violação dos arts. 155, 299, 492, 599, 617 do CPP, 44, 59 e 68 do CP, por entender que houve julgamento extra petita e reformatio in pejus pelo Tribunal de origem e consideração equivocada na dosimetria da pena dos vetores culpabilidade, conduta social, personalidade e circunstâncias do crime, além de consideração de provas fora do contraditório judicial e fixação de regime inicial de pena mais gravoso que o devido.
+A Corte local inadmitiu o recurso com fundamentos nas Súmulas 83 e 7 do STJ, o que ensejou a interposição deste agravo.
+Decido.
+O agravo é tempestivo e infirmou as razões da decisão que inadmitiu o recurso especial.
+O recurso especial, por sua vez, não supera o juízo de admissibilidade no que se refere ao art. 105, III, c, da CF, porque a defesa não fez prova da divergência, nem realizou o cotejo das circunstâncias que identifiquem ou assemelhem os casos confrontados, não apresentou "impugnação específica, pormenorizada e concreta" quanto ao argumento de ausência das condições exigidas pelo CPC, pelo Regimento Interno do Superior Tribunal de Justiça e pela própria Constituição Federal para o reconhecimento da divergência jurisprudencial.
+Extrai-se dos autos que o recorrente foi condenado pela prática do art. 171, caput c/c o art. 14, II, do CP, por duas vezes, na forma do art. 69 do mesmo diploma legal, à pena de 4 anos, 1 mês e 22 dias de reclusão, em regime inicial fechado.
+Após a interposição de recurso de apelação, o Tribunal de origem reformou a sentença condenatória e condenou o réu pela prática dos crimes previstos nos arts. 297 e 298 do CP à pena de 8 anos e 6 meses de reclusão, em regime inicial fechado, nos seguintes termos (fls. 1.119-1.139):
+ ..
+Antes de adentrarmos na análise das alegações recursais, se faz mister destacar que, por possuir amplo efeito devolutivo, o recurso de apelação traz ao julgador ad quem toda matéria de fato e de direito contida nos autos, de modo que, eventuais equívocos praticados pelo juízo primevo, devem ser sanados, mesmo que não tenham sido suscitados pelas partes recorrentes.
+No caso em epígrafe, verifico que a decisão proferida pelo juízo sentenciante, que, por meio do instituto da emendattio libelli, condenou o acusado como incurso no delito de estelionato tentado, não se coaduna com o entendimento pacificado pela jurisprudência pátria, o qual nos orienta que a figura do "estelionato judicial", consistente no emprego manobras ardilosas no exercício do direito de ação, é conduta criminalmente atípica em nosso ordenamento jurídico.
+ ..
+Desse modo, verifica-se atipicidade penal da conduta de invocar causa de pedir remota inexistente para alcançar consequências jurídicas pretendidas, mesmo que a parte ou seu procurador tenham ciência da ilegitimidade da demanda.
+Portanto, não havendo que falar em estelionato judicial, devemos analisar se as condutas perpetradas pelo acusado caracterizam os delitos descridos na exordial acusatória (crimes de falsificação de documento particular, falsificação de documento público e uso de documento falso).
+É de bom alvitre esclarecer que a readequação do tipo penal é plenamente viável nesta seara recursal, já que também é possível a aplicação da emendatio libelli no segundo grau de jurisdição, nos termos do artigo 383 do Código de Processo Penal, pois o réu se defende de fatos e não da definição jurídica.
+ ..
+Conforme visto, o réu foi acusado de falsificar documento público e documentos de natureza particular, e utilizá-los em demanda judicial para auferir vantagens em detrimento de determinadas pessoas jurídicas.
+Da análise detida do almanaque processual, verifica-se, de modo inquestionável, que os documentos utilizados pelo acusado para demandar ação judicial de cobrança de DPVAT eram falsos, de modo que a autoria e a materialidade dos delitos narrados na denúncia restam devidamente demonstrados.
+ ..
+Assim, entendo que há todo um contexto tático e indícios que depõem contra o acusado/apelante e o apontam como autor das falsificações dos documentos público e particular  objetos da presente ação penal -, de modo que a autoria delitiva resta sobejamente demonstrada.
+Pelo que foi exposto até o momento, imperiosa a condenação do acusado César Augusto Pereira de Sousa Júnior pela prática dos delitos de falsificação de documento público (art. 297, do CP) e falsificação de documento particular (art. 298, também do CP).
+ ..
+Por tais razões, reformo a sentença ora combatida para aplicar o instituto da emendatio libelli e condenar o acusado César Augusto Pereira de Sousa Júnior como incurso nas penas dos artigos 297 e 298, ambos do CP, bem como absolvê-lo da prática delitiva esculpida no art. 304, também do CP. Verifica-se que entre a primeira conduta  falsificações dos documentos, público e particular relativos a Francinaldo Saturnino da Silva (processo n. 037.2006.003.759-7) e a segunda - falsificação de documento particulares referente aos documentos de Crezivaldo Porfirio Lemos, utilizados no processo n. 037.2006.000.708-7 - deve incidir a regra do concurso material (art. 69 do CP), aplicando-se cumulativamente as penas cominadas.
+Antes de realizarmos a dosimetria da pena, importante ressaltar que, em virtude da reforma aqui operada, resta prejudicado o pleito ministerial, que, nas razões de seu apelo, pugnava pela majoração da pena para o crime de estelionato.
+ ..
+É sabido que no processo penal o réu se defende dos fatos que lhe são imputados. Nas palavras de Eugênio Pacelli e Douglas Fischer (Comentários ao Código de Processo Penal e sua Jurisprudência. 8 ed. rev., atual. e ampl. - São Paulo: Atlas, 2016, p. 845, grifo no original), "não se exige sequer que a acusação deva apontar com rigoroso acerto o tipo penal aplicável aos fatos que narra e imputa ao réu. Se a classificação foi equivocada, poderá o juiz corrigi-la, como analisado ao exame do dispositivo anterior"  art. 383 do CPP - emendatio libelli .
+A jurisprudência desta Corte é firme em assinalar: "o acusado se defende dos fatos narrados na denúncia e não da capitulação legal nela contida, sendo permitido ao órgão julgador conferir-lhes definição jurídica diversa, conforme dispõe o art. 383 do Código de Processo Penal" (RHC 131.086/PB, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe de 14/09/2020, grifei).
+Além disso, o posicionamento consolidado do Superior Tribunal de Justiça é pela possibilidade de emendatio libelli em segunda instância, ainda que no julgamento de recurso exclusivo da defesa. Confira-se:
+ ..
+2. O entendimento desta Corte é "no sentido de que a emendatio libelli pode ser aplicada em segundo grau, desde que nos limites do art. 617 do Código de Processo Penal, que proíbe a reformatio in pejus" (HC 437.730/DF, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 21/06/2018, DJe 01/08/2018).
+3. Na hipótese, não restou configurada reformatio in pejus pelo Tribunal de origem, ao aplicar a emendatio libelli a fim de reconhecer a prática do crime de facilitação ao contrabando, uma vez que não houve alteração dos fatos delineados na sentença.
+4. Agravo regimental improvido.
+(AgRg no HC n. 745.716/PR, Rel. Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), 6ª T., DJe 11/11/2022, destaquei)
+ ..
+2. É cabível a emendatio libelli em segundo grau de jurisdição, ainda que sem recurso ministerial, desde que o Tribunal se atenha aos fatos declinados na sentença e não haja piora da situação do réu. Observados esses requisitos, não há reformatio in pejus. Precedentes.
+3. Não se aplica a atenuante da confissão quando não há a mínima admissão dos fatos, ainda que de forma parcial ou qualificada, pelo réu.
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.010.255/PR, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 10/5/2022, grifei)
+Assim, ainda que seja possível alterar a capitulação jurídica do fato, é imperioso reconhecer a impossibilidade de aplicação da norma penal mais grave, sob pena de violação do art. 617 do CPP, que proíbe a reformatio in pejus.
+Considerando que, no caso concreto, a acusação não recorreu da capitulação jurídica e seu recurso não detinha pedido que pudesse implicar na piora ora experimentada pelo réu, é o caso de reconhecer a reformatio in pejus e cassar o acórdão proferido para que outro seja prolatado em seu lugar, com observância dos limites processuais penais.
+Com esse entendimento, fica prejudicada a análise do recurso especial no que se refere à dosimetria da pena.
+À vista do exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, dar-lhe provimento para, reconhecida a impossibilidade de reformatio in pejus decorrente da emendatio libelli, determinar o retorno dos autos ao Tribunal de Justiça do Estado da Paraíba, a fim de que prossiga no julgamento da Apelação Criminal n. 0000669-04.2009.815.0371, nos limites do art. 617 do CPP.
+Comunique-se, com urgência, o inteiro teor desta decisão ao Tribunal de origem, para as providências cabíveis.
+Publique-se e intimem-se.
+EMENTA
