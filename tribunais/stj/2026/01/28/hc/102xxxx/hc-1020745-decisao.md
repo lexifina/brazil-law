@@ -1,0 +1,85 @@
+DECISÃO
+Trata-se de habeas corpus impetrado por FLAVIO TORRES em favor de FERNANDO RODRIGUES DE BARROS contra acórdão do Tribunal de Justiça do Estado de São Paulo (HC n. 2098986-81.2025.8.26.0000).
+Consta dos autos que o paciente foi con denado pela prática do delito previsto no art. 41-B, § 1º, incisos I e II, da Lei n. 10.761/2003, na forma do art. 69 do Código Penal, à pena de 1 ano e 2 meses de reclusão, em regime inicial semiaberto, e 11 dias-multa (e-STJ fl. 246). A sentença condenatória foi publicada em 30/10/2019 (e-STJ fl. 26). O acórdão que desproveu a apelação defensiva foi publicado em 06/09/2023, com trânsito em julgado para ambas as partes em 20/10/2023 (e-STJ fl. 26; e-STJ fl. 13).
+Na execução, o Juízo do DEECRIM indeferiu, em 28/01/2025, o pedido de reconhecimento da prescrição, afastando a prescrição da pretensão punitiva retroativa e determinando a expedição de mandado de prisão para início do cumprimento da pena em regime semiaberto, com previsão de medidas alternativas (prisão domiciliar e monitoração eletrônica) na hipótese de indisponibilidade de vaga (e-STJ fls. 24/28).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de Justiça alegando constrangimento ilegal decorrente do indeferimento da prescrição intercorrente, sustentando que o trânsito em julgado para a acusação ocorreu em 05/10/2023 e que a prescrição teria se consumado em 25/09/2023 (e-STJ fls. 11/12).
+O Tribunal a quo denegou a ordem, mantendo o entendimento de que o acórdão confirmatório da sentença condenatória constitui causa interruptiva da prescrição e que não transcorreu lapso superior a 4 anos entre os marcos interruptivos (e-STJ fl. 9).
+No presente writ, a defesa alega que a prescrição intercorrente deveria ter sido reconhecida, porquanto o trânsito em julgado ocorreu em 05/10/2023 e a prescrição da pretensão punitiva em 25/09/2023, nos termos do art. 109 do Código Penal (e-STJ fl. 246). Afirma, ainda, que o paciente é primário, possui trabalho fixo e foi condenado a pena inferior a quatro anos, o que autorizaria o cumprimento da pena em regime aberto (e-STJ fl. 246).
+Requer o reconhecimento da prescrição intercorrente, com a consequente extinção da punibilidade; subsidiariamente, pleiteia a determinação de cumprimento da pena no regime aberto (e-STJ fl. 246).
+A liminar foi indeferida em 24/07/2025, com a solicitação de informações ao Tribunal de origem e remessa ao Ministério Público Federal para parecer (e-STJ fls. 246/247).
+As informações foram prestadas (e-STJ fls. 254/289) e o Ministério Público Federal ofereceu o parecer de e-STJ fls. 392/396, ocasião em que opinou pela denegação da ordem.
+É o relatório. Decido.
+De acordo com a nossa sistemática recursal, o recurso cabível contra acórdão do Tribunal de origem que denega a ordem no habeas corpus é o recurso ordinário, consoante dispõe o art. 105, II, a, da Constituição Federal. Do mesmo modo, o recurso adequado contra acórdão que julga apelação é o recurso especial, nos termos do art. 105, III, da Constituição Federal. Assim, o habeas corpus não pode ser utilizado como substituto de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+A controvérsia cinge-se ao reconhecimento da prescrição intercorrente da pretensão punitiva e ao pedido subsidiário de fixação do regime aberto para início de cumprimento da pena.
+A respeito da negativa de prescrição, o Juízo da execução criminal, ao indeferir o pedido, assentou o seguinte (e-STJ fls. 24/26):
+O caso é de não reconhecimento da prescrição.
+O(A) sentenciado(a) foi condenado(a) à pena de 01 ano e 2 meses de reclusão, em regime inicial semiaberto, por infração ao artigo 41-B, §1º, I da Lei nº10.671/03.
+A hipótese dos autos é de análise da prescrição da pretensão punitiva retroativa, ou seja, regula-se com base na pena aplicada e leva em conta prazo anterior à própria sentença.
+Com a alteração trazida pela Lei nº12.234/2010, que revogou o artigo 110, §2º, do Código Penal, tem-se que a prescrição da pretensão punitiva retroativa somente pode ocorrer entre a denúncia ou queixa e a publicação da sentença condenatória, conforme expresso no artigo 110 do Código Penal:
+"Art. 110 - A prescrição depois de transitar em julgado a sentença condenatória regula-se pela pena aplicada e verifica-se nos prazos fixados no artigo anterior, os quais se aumentam de um terço, se o condenado é reincidente. (Redação dada pela Lei nº 7.209, de 11.7.1984)
+§ 1º A prescrição, depois da sentença condenatória com trânsito em julgado para a acusação ou depois de improvido seu recurso, regula-se pela pena aplicada, não podendo, em nenhuma hipótese, ter por termo inicial data anterior à da denúncia ou queixa. (Redação dada pela Lei nº 12.234, de 2010).
+§ 2º (Revogado pela Lei nº 12.234, de 2010)."
+Em consonância ao artigo supramencionado deve-se analisar as causas interruptivas previstas no artigo 117 do Código Penal, vejamos:
+"Art. 117 - O curso da prescrição interrompe-se:
+I - pelo recebimento da denúncia ou da queixa; (Redação dada pela Lei nº 7.209, de 11.7.1984)
+II - pela pronúncia; (Redação dada pela Lei nº 7.209, de 11.7.1984)
+III - pela decisão confirmatória da pronúncia; (Redação dada pela Lei nº 7.209, de 11.7.1984)
+IV - pela publicação da sentença ou acórdão condenatórios recorríveis; (Redação dada pela Lei nº 11.596, de 2007)."
+V - pelo início ou continuação do cumprimento da pena; (Redação dada pela Lei nº 9.268, de 1º.4.1996)VI
+VI - pela reincidência. (Redação dada pela Lei nº 9.268, de 1º.4.1996)
+§ 1º - Excetuados os casos dos incisos V e VI deste artigo, a interrupção da prescrição produz efeitos relativamente a todos os autores do crime. Nos crimes conexos, que sejam objeto do mesmo processo, estende-se aos demais a interrupção relativa a qualquer deles. (Redação dada pela Lei nº 7.209, de 11.7.1984)
+§ 2º - Interrompida a prescrição, salvo a hipótese do inciso V deste artigo, todo o prazo começa a correr, novamente, do dia da interrupção. (Redação dada pela Lei nº 7.209, de 11.7.1984)"
+Desse modo, diante do imposto pelo §2º do artigo referido, deve-se verificar se ocorreu a prescrição entre os marcos interruptivos acima citados.
+Na situação em análise a denúncia foi recebida em 09/04/2018 (fls.22/26). A sentença foi publicada em 30/10/2019 (fls.130). O v. Acórdão que negou provimento ao apelo defensivo foi publicado em 06/09/2023 (fls.128).
+Nos termos dos artigos 109, do Código Penal, o prazo prescricional aplicável ao caso, considerando a pena aplicada é de 04 anos.
+Observa-se ademais, que entre os marcos interruptivos apontados não decorreu o prazo de 04 anos.
+Assim, fica afastado o pedido de reconhecimento da prescrição da pretensão punitiva retroativa.
+O Tribunal de Justiça, por sua vez, manteve as razões do Juízo singular, desenvolvendo fundamentos próprios, nos seguintes termos (e-STJ fls. 12/15):
+O presente writ não comporta concessão.
+Trata-se de paciente condenado à pena de 1 ano e 2 meses de reclusão, em regime inicial semiaberto, e ao pagamento de 11 dias-multa, pela prática do delito previsto no 41- B, § 1º, I e II, da Lei n. 10.761/2003, na forma do art. 69 do CP. Inconformada, a Defesa interpôs recurso de apelação, ao qual, em 31 de agosto de 2023, foi negado provimento por esta Colenda 9ª Câmara, mantendo-se o decreto condenatório tal como foi lançado.
+Ante todo o relatado, não obstante as ponderações da i. Defesa impetrante, é de ressaltar-se não ter ocorrido a prescrição da pretensão punitiva, em quaisquer de suas modalidades a serem consideradas.
+No presente caso, considerada a pena aplicada para o crime de "promover tumulto, praticar ou incitar a violência, ou invadir local restrito aos competidores em eventos esportivos", que foi de 1 ano e 2 meses de reclusão, nos termos do art. 110, § 1º, do CP, o prazo prescricional é de 04 anos (art. 109, V, do CP).
+Observe-se que lapso superior a esse não transcorreu entre a data do recebimento da denúncia (9 de abril de 2018) e a data da publicação da sentença condenatória (30 de outubro de 2019).
+Mencionado interregno temporal tampouco fluiu entre a publicação da sentença condenatória e o próximo marco interruptivo da prescrição da pretensão punitiva, qual seja, a publicação do acórdão que negou provimento à apelação defensiva (6 de setembro de 2023 com trânsito em julgado para ambas as partes em 20 de outubro de 2023 fls. 129).
+Com relação à pretendida extinção da punibilidade, em razão de suposta prescrição intercorrente, não mais existe controvérsia jurisprudencial acerca de ser ou não o acórdão confirmatório da sentença condenatória marco interruptivo do lapso prescricional.
+Sob o rito dos recursos especiais repetitivos (Tema 1.100), a Terceira Seção do Superior Tribunal de Justiça (STJ) estabeleceu a tese de que o acórdão que confirma a sentença condenatória terá sempre o efeito de interromper a prescrição (REsp 1920091/RJ):
+ ..
+Tem-se por mais acertado, com efeito, o entendimento de que esta espécie de decisão rompe a continuidade temporal dos prazos fixados no art. 109 do CP.
+A inserção do acórdão condenatório como causa interruptiva do prazo prescricional na nova redação do art. 117, IV, do CP, efetuada pela Lei n. 11.596/07, não estabelece distinção entre as decisões de 2º Grau que reformam sentença absolutória, ou simplesmente confirmam eventual condenação do Juízo a quo. Estando patente que o legislador não contemplou essas duas situações separadamente por uma questão de evidente opção legislativa, inexiste motivo para que o intérprete da lei o faça.
+No presente writ, sustenta-se que a prescrição teria ocorrido em 25/9/2023, pois o trânsito em julgado para a acusação é de 5/10/2023, além de se pleitear, subsidiariamente, a fixação de regime aberto em razão de suposta primariedade (e-STJ fl. 246).
+A tese não prospera. As instâncias ordinárias identificaram os marcos interruptivos: recebimento da denúncia em 9/4/2018, publicação da sentença condenatória em 30/10/2019 e publicação do acórdão em 6/9/2023, consignando não ter transcorrido lapso de 4 anos entre os marcos, conforme art. 109, V, do Código Penal (e-STJ fls. 24/26 e 12/13). Ademais, o entendimento consolidado nesta Corte, sob a sistemática dos repetitivos, é no sentido de que o acórdão confirmatório de sentença condenatória interrompe a prescrição (REsp n. 1.920.091/RJ, relator Ministro João Otávio de Noronha, Terceira Seção, DJe de 22/8/2022). Nessa linha, não se vislumbra flagrante ilegalidade apta a ensejar concessão de ofício.
+Nesse sentido:
+DIREITO PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO, AMBIGUIDADE OU OBSCURIDADE. REJEIÇÃO.
+I. CASO EM EXAME
+1. Embargos de declaração opostos contra acórdão da Quinta Turma que negou provimento a agravo regimental, com alegação de omissão quanto à substituição da pena privativa de liberdade por penas restritivas de direitos e possível ocorrência de prescrição da pretensão punitiva.
+2. A parte embargante sustenta primariedade, antecedentes favoráveis, maternidade de menor de doze anos, ausência de novos registros criminais desde os fatos de 2006/2007 e a ocorrência de bis in idem na fundamentação do acórdão. Requer a substituição da pena corporal por restritivas de direitos ou, de forma subsidiária, a declaração de extinção da punibilidade pela prescrição.
+II. QUESTÃO EM DISCUSSÃO
+3. Há duas questões em discussão: (i) saber se há omissão no acórdão quanto à substituição da pena privativa de liberdade por penas restritivas de direitos; e (ii) saber se houve prescrição da pretensão punitiva em razão do transcurso de prazo superior a oito anos desde a sentença de primeiro grau.
+III. RAZÕES DE DECIDIR
+4. Os embargos de declaração, conforme o art. 619 do CPP, destinam-se a suprir omissão, contradição, ambiguidade ou obscuridade no julgado, não sendo cabíveis para revisão do mérito por mero inconformismo da parte.
+5. O acórdão embargado declinou claramente as razões para negar provimento ao agravo regimental, não havendo omissão quanto à substituição da pena privativa de liberdade por restritivas de direitos.
+6. A prescrição da pretensão punitiva não se configura, pois o prazo de oito anos previsto no art. 109, IV, do CP não transcorreu entre a publicação da sentença condenatória e a publicação do acórdão que confirmou a condenação.
+7. O acórdão confirmatório da condenação constitui marco interruptivo do prazo prescricional, conforme entendimento do STF no HC 176.473/RR.
+IV. DISPOSITIVO E TESE
+8. Resultado do Julgamento: Embargos de declaração rejeitados.
+Tese de julgamento:
+1. Os embargos de declaração são cabíveis apenas para suprir omissão, contradição, ambiguidade ou obscuridade no julgado, não se prestando para revisão do mérito por mero inconformismo da parte. 2.
+A prescrição da pretensão punitiva não se configura quando o prazo previsto no art. 109, IV, do Código Penal não transcorreu entre a publicação da sentença condenatória e a publicação do acórdão confirmatório da condenação. 3. O acórdão confirmatório da condenação constitui marco interruptivo do prazo prescricional, conforme o art. 117, IV, do Código Penal. 4. É vedada a inovação recursal em embargos de declaração, em razão da preclusão consumativa. Dispositivos relevantes citados:
+CPP, art. 619; CP, arts. 33, §§ 2º e 3º, 44, inciso III, 59, 109, IV, e 117, IV.
+Jurisprudência relevante citada:STJ, AgRg no AREsp 1.737.521/PR, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 15.06.2021; STF, HC 176.473/RR, Plenário, julgado em 30.08.2023;
+STJ, AgRg no HC 661.815/SC, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 28.08.2023; STJ, EDcl no REsp 1.973.397/MG, Rel. Min. Ribeiro Dantas, Quinta Turma, julgado em 11.10.2022.
+(EDcl no AgRg no REsp n. 1.977.628/GO, relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 16/12/2025, DJEN de 24/12/2025.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. NÃO CONFIGURAÇÃO. TEMA REPETITIVO N. 1100. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. AUSÊNCIA DE PREQUESTIONAMENTO. NÃO PROVIMENTO DO AGRAVO.
+1. Como já explicitado, o Tribunal a quo, ao julgar recurso em sentido estrito interposto pelo Ministério Público estadual, reformou a decisão do Juízo de primeiro grau, que havia reconhecido a prescrição da pretensão punitiva, por considerar que o acórdão confirmatório da condenação constitui marco interruptivo da prescrição.
+2. Assim, pode-se constatar que o objeto do recurso em sentido estrito - e único tema, portanto, tratado no acórdão - foi a questão relacionada à prescrição da pretensão punitiva. Em nenhum momento, portanto, o Tribunal a quo analisou a eventual configuração da prescrição da pretensão executória. Logo, está correta a conclusão da decisão agravada, ao declarar que a matéria não podia ser conhecida, por ausência do devido prequestionamento.
+3. O Tema 788 de repercussão geral do Supremo Tribunal Federal, mencionado pela defesa nas razões do agravo regimental, está relacionado à prescrição da pretensão executória - matéria não apreciada neste recurso.
+4. A decisão agravada foi clara ao recordar que o Plenário do Supremo Tribunal Federal compreendeu que o Código Penal não faz distinção entre acórdão condenatório inicial ou confirmatório da decisão, para fins de interrupção da prescrição. Por isso, o acórdão que confirma a sentença condenatória, por revelar pleno exercício da jurisdição penal, interrompe o prazo prescricional, de acordo com o art. 117, IV, do Código Penal.
+5. Ademais, é aplicável ao caso o Tema Repetitivo n. 1.100, que consolidou o posicionamento de que "o acórdão condenatório de que trata o inciso IV do art. 117 do Código Penal interrompe a prescrição, inclusive quando confirmatório de sentença condenatória, seja mantendo, reduzindo ou aumentando a pena anteriormente imposta".
+6. Esse entendimento abrange os fatos praticados após a edição da Lei n. 11.596/2007, que determinou a nova redação do inciso IV do art. 117 do Código Penal. Precedente.
+7. No caso em análise, os fatos delitivos ocorreram no ano de 2012 - após a alteração legislativa. Fica mantida a conclusão de que o acórdão confirmatório da condenação é marco interruptivo do prazo prescricional e, por isso mesmo, não ocorreu a prescrição da pretensão punitiva na espécie.
+8. Não provimento do agravo.
+(AgRg no REsp n. 1.964.496/SP, relator Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 3/9/2025, DJEN de 8/9/2025.)
+Quanto ao regime, não há suporte para a alteração pretendida. A reprimenda foi fixada em 1 ano e 2 meses de reclusão, em regime inicial semiaberto, com fundamento na reincidência do paciente, afastando-se a substituição por restritivas de direitos exatamente por não ser primário (e-STJ fls. 3/4, 12/13 e 24/27). Na via estreita do habeas corpus, não se admite rediscussão de dosimetria e regime sem demonstração de ilegalidade manifesta, o que não se verifica.
+Diante do exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do habeas corpus.
+Intimem-se.
+EMENTA
