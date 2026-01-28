@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial interposto por JOSÉ CARLOS MOREIRA NUNES e OUTROS do acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO assim ementado (fls. 97/98):
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. GAT. INCIDÊNCIA. VENCIMENTO BÁSICO. REFLEXO REMUNERATÓRIO. RESP. 1.585.353/DF. DESCABIMENTO. AUSÊNCIA DE TÍTULO JUDICIAL QUE RESPALDE A PRETENSÃO EXECUTIVA. EXECUÇÃO INDIVIDUAL EXTINTA. HONORÁRIOS ADVOCATÍCIOS.
+1. Buscam os ora agravados, na ação principal, executar o título judicial proferido nos autos da Ação Ordinária nº 2007.34.00.000424-0), ajuizada pelo Sindicato Nacional dos Auditores Fiscais da Receita Federal do Brasil - UNAFISCO, que tramitou na 15ª Vara Federal da Seção Judiciária do Distrito Federal.
+2. De acordo com o entendimento, ora unânime, desta Turma Julgadora, ora unânime, desta Turma Julgadora, não há título judicial que respalde a pretensão dos exequentes de incorporação da GAT aos seus vencimentos básicos ou que a referida vantagem integre a base de cálculo de outras rubricas, de modo que a ação de execução deve ser extinta, nos termos do art. 535, III, e art. 925 do CPC/2015.
+3. O Superior Tribunal de Justiça já se manifestou no sentido de que o § 8º do artigo 85 do CPC de 2015 deve ser interpretado de acordo com a reiterada jurisprudência daquela Corte Superior no sentido de que o juízo equitativo é aplicável tanto na hipótese em que a verba honorária se revela ínfima como excessiva, à luz dos parâmetros do art. 20, § 3º, do CPC/1973 (atual art. 85, § 2º, do CPC/2015). Precedente: R Esp 1789913/DF, Ministro Herman Benjamin, Segunda Turma, D Je 11/03/2019.
+4. Considerando a complexidade do tema em discussão e o tempo de tramitação do feito, os três exequentes remanescentes, ora agravados, devem ser condenados ao pagamento de honorários advocatícios fixados, por apreciação equitativa, em R$ 15.000,00 (quinze mil reais), pro rata.
+5. Agravo de instrumento conhecido e provido.
+Os embargos de declaração opostos foram rejeitados (fls. 160/169).
+Nas razões de seu recurso, a parte recorrente afirma (fl. 205) :
+iii) de qualquer sorte, excluir a condenação dos recorrentes em honorários advocatícios sucumbenciais, como consequência lógico-jurídica da desconstituição do título judicial, preservando a segurança jurídica dos jurisdicionados, em garantia a boa-fé objetiva destes, preservando a observância aos princípios da sucumbência e causalidade, conforme dispõe o art. 85 do CPC.
+A parte adversa apresentou contrarrazões (fls. 261/269).
+O recurso foi admitido na origem (fl. 275 ).
+É o relatório.
+Uma das questões debatidas nos autos foi afetada à Primeira Seção do Superior Tribunal de Justiça para ser decidida sob o rito de recursos repetitivos (Tema 1.399/STJ), e foi assim delimitada:
+"Definir se, na execução individual de sentença coletiva, extinta em decorrência da desconstituição do título judicial que lhe dava suporte, operada pela procedência de ação rescisória manejada pela Fazenda Pública, é cabível ou não a condenação da parte exequente ao pagamento de honorários advocatícios" (RE sps 2.199.392/RJ e 2.182.044/RN, relator Ministro Marco Aurélio Bellizze).
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+O envio do recurso especial a esta Corte Superior deve ocorrer somente após o esgotamento da instância ordinária, formalizado com o novo julgamento pelo Tribunal de origem, quando então será possível examinar, no âmbito do STJ, as matérias jurídicas que eventualmente permanecerem controvertidas. Essa cautela também evita o fracionamento do recurso e previne eventual violação ao princípio da unicidade recursal, que veda a interposição simultânea ou sucessiva de recursos contra a mesma decisão.
+Ante o exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil (CPC), o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do mesmo CPC.
+Publique-se. Intimem-se.
+ EMENTA
