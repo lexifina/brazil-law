@@ -1,0 +1,44 @@
+DECISÃO
+JOSÉ HENRIQUE SILVA TIGRE agrava de decisão que inadmitiu o recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal Regional Federal da 1ª Região no Agravo Interno n. 0007919-79.2017.4.01.0000.
+Nas razões do recurso especial, a defesa alegou violação dos arts. 69, VII, e 84 do Código de Processo Penal.
+Afirmou que "a matéria objeto de julgamento, pelo STF, na Questão de Ordem na Ação Penal nº. 937 restringiu-se aos membros do Congresso Nacional, não se aplicando aos prefeitos municipais" (fl. 3.928).
+Pleiteou o provimento do recurso a fim de que "seja mantida a competência do Egrégio TRF1 para processar e julgar a ação penal proposta contra o Recorrente" (fl. 3.931).
+O recurso foi inadmitido em juízo prévio de admissibilidade realizado pelo Tribunal regional, o que motivou a interposição deste agravo.
+O Ministério Público Federal manifestou-se pelo não provimento do agravo em recurso especial.
+Decido.
+I. Admissibilidade
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada, razões pelas quais comporta conhecimento.
+II. Contextualização
+O réu foi denunciado pela suposta prática dos crimes previstos nos arts. 89 e 90 da Lei n. 8.666/1993 e 1º, I, do Decreto-Lei n. 201/1.967.
+Após a diplomação do corréu no cargo de Prefeito Municipal, os autos foram remetidos ao Tribunal Regional Federal da 1ª Região. Contudo, a Corte regional declinou da competência para a Seção Judiciária do Estado da Bahia pelos seguintes fundamentos (fls. 3.911-3.921, grifei):
+A denúncia foi oferecida em desfavor de ELBSON DIAS SOARES, JOSÉ HENRIQUE TIGRE, ELVE CARDOSO, ADRIANO ALVES BASTOS MOITINHO e TERESINHA DOS SANTOS SILVA ATHAYDE, pela prática dos crimes envolvendo fraude em licitações e desvio de recursos públicos advindos do Fundo Nacional da Saúde - Programa de Atenção Básica - através de contratações ilícitas e participação das pessoas jurídicas: Associação do Corpo Clínico da Santa Casa de Misericórdia de Vitória da Conquista (ASCSMV), Sociedade Arquelau da Maia de Administração e Serviços Ltda (SOMAS) e Serviço de Apoio Municipal Estratégico Ltda (SAME) no período de 2009 a 2010 (Doc. 210623523).
+Em razão da posterior diplomação dos denunciados José Henrique Silva Tigre e Ednaldo Meira Silva como prefeitos, respectivamente, dos Municípios de Belo Campo/BA e de Bom Jesus da Serra/BA, os autos foram remetidos a esta Corte (Doc. 210623560).
+Contudo, por decisão monocrática declinou-se a competência para a Seção Judiciária do Estado da Bahia (Doc. 210628041), ao fundamento de que a Questão de Ordem 937 do Supremo Tribunal Federal determinou a remessa de ações penais, inquéritos policiais e demais medidas cautelares à primeira instância, quando os fatos supostamente criminosos tenham sido praticados em período anterior à diplomação de cargos eletivos com prerrogativa de foro nesta segunda instância, com exceção aos casos em que o prazo de alegações finais já esteja aberto por publicação (Rel. Desembargador Federal CANDIDO RIBEIRO, julgado em 3/10/2018, unânime).
+A jurisprudência deste Tribunal tem entendido que o foro por prerrogativa de função possui natureza temporal e funcional, ou seja, para sua manutenção faz-se necessário que os fatos criminosos em apuração tenham sido praticados durante o exercício do cargo e nas hipóteses relacionadas às funções desempenhadas.
+Nessa linha de entendimento, esclarece-se que Elbson Soares foi prefeito de Anagé/BA no período de 1º/1/2009 a 18/12/2012 e que José Henrique Tigre foi eleito, em 2016, prefeito de Belo Campo/BA e reeleito em 2020.
+Observa-se, entretanto, que não há relação de causalidade entre os fatos apurados em 2009 e 2010 com o cargo de José Henrique Tigre, eleito em 2016, que possa justificar a permanência da competência nesta segunda instância. Denota-se, que à época dos fatos José Henrique Tigre sequer detinha o cargo de prefeito Municipal.
+Nesse sentido:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM R E C U R S O E S P E C I A L . A P R O P R I A Ç Ã O D E B E N S P Ú B L I C O S E CORRUPÇÃO. RESTRIÇÃO AO FORO POR PRERROGATIVA DE FUNÇÃO INSTITUÍDA PELO STF NO JULGAMENTO DA QO NA AP 937/DF. APLICABILIDADE AO CHEFE DO EXECUTIVO. ATOS PRATICADOS POR PREFEITO MUNICIPAL. SOLUÇÃO DE CONTINUIDADE ENTRE OSMANDATOS. COMPETÊNCIA DO JUÍZO DE PRIMEIRA INSTÂNCIA. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. "O foro por prerrogativa de função aplica-se apenas aos crimes cometidos durante o exercício do cargo e relacionados às funções desempenhadas" (STF, AP 937 QO, Rel. Ministro ROBERTO BARROSO, TRIBUNAL PLENO, julgado em 3/5/2018, D Je 11/12/2018).
+2. Referido entendimento não é restrito aos membros do Poder Legislativo, aplicando-se também aos Prefeitos Municipais. Precedentes.
+3. Havendo solução de continuidade entre os mandatos, que não foram exercidos pelo réu de maneira ininterrupta, cessa o foro por prerrogativa de função referente a atos praticados durante o primeiro deles. Orientação do STJ e do STF.
+4. "Praticado o crime em um mandato e existindo reeleição ao mesmo cargo, verifica-se a prorrogação do foro por prerrogativa de função acaso os diferentes mandatos sejam exercidos em ordem sequencial e ininterrupta" (HC 529.095/SC, Rel. Ministro NEFI CORDEIRO, TERCEIRA SEÇÃO, julgado em 28/10/2020, D Je 24/11/2020).
+5. Agravo regimental desprovido. (STJ, AgRg no AR Esp 2.027.276/BA, relator ministro Ribeiro Dantas, Quinta Turma, D Je de 28/4/2022) (Sem grifos no original).
+Ante o exposto, nego provimento aos agravos internos.
+III. Competência por prerrogativa de função
+A partir das premissas fáticas consignadas pelo Tribunal de origem, embora um prefeito figure como corréu na Ação Penal n. 0007919-79.2017.4.01.0000, os crimes em apuração não se relacionam com o cargo eletivo que ocupou e foram praticados anteriormente à diplomação.
+Constou do julgado que "não há relação de causalidade entre os fatos apurados em 2009 e 2010 com o cargo de José Henrique Tigre, eleito em 2016, que possa justificar a permanência da competência nesta segunda instância. Denota-se, que, à época dos fatos, José Henrique Tigre sequer detinha o cargo de prefeito Municipal" (fl. 3.911).
+As conclusões da Corte de origem estão em consonância com a jurisprudência do Supremo Tribunal Federal, segundo a qual "o foro por prerrogativa de função restringe-se apenas aos crimes cometidos durante o exercício do cargo e relacionados às funções desempenhadas" (AP n. 937 QO, Tribunal Pleno, Rel. Min. Roberto Barroso, DJe de 10/12/2018, destaquei).
+Ressalte-se que, conforme os precedentes desta Corte, o "Referido entendimento não é restrito aos membros do Poder Legislativo, aplicando-se também aos Prefeitos Municipais" (AgRg no AREsp n. 2.027.276/BA, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 26/4/2022, DJe de 28/4/2022).
+Nesse sentido:
+ ..
+2. O privilégio de foro tem sido objeto de discussão e as hipóteses estão sendo reduzidas, com clara tendência à extinção. O Supremo Tribunal Federal, seguindo essa tendência, tem adotado uma abordagem restritiva e, por ocasião do julgamento da Questão de Ordem na Ação Penal n. 937/RJ, firmou entendimento no sentido de somente admitir o foro por prerrogativa de função apenas aos crimes cometidos durante o exercício do cargo e relacionados às funções desempenhadas.
+3. A prerrogativa de foro é outorgada ratione muneris a determinadas autoridades em razão da natureza de certos cargos ou ofícios titularizados por aquele que sofre persecução penal. Originalmente pensado como uma necessidade de assegurar a independência de órgãos e garantir o livre exercício de cargos constitucionalmente relevantes, esse foro atualmente, dada a evolução do pensamento social, provocada por situações inexistentes no passado, impõe a necessidade de que normas constitucionais que o estabelecem sejam interpretadas de forma restritiva. Assim, deve-se conferir ao texto do art. 105, I, "a", da CF a interpretação de que as hipóteses de foro por prerrogativa de função no STJ restringem-se aos casos de crime praticado em razão e durante o exercício de cargo ou função.
+(QO na APn n. 857/DF, Rel. Ministro Mauro Campbell Marques, relator para acórdão Ministro JOÃO OTÁVIO DE NORONHA, Corte Especial, julgado em 20/6/2018, DJe de 28/2/2019.)
+4. Recurso ordinário em habeas corpus não provido.
+(RHC n. 168.508/ES, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/5/2023, DJe de 29/5/2023, grifei)
+Assim, como o entendimento do Tribunal de origem está em consonância com a jurisprudência desta Corte Superior, imperioso o não conhecimento do recurso especial, ante o óbice do verbete sumular n. 83 do STJ.
+IV. Dispositivo
+À vista do exposto, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se e intimem-se.
+EMENTA
