@@ -1,0 +1,17 @@
+DECISÃO
+DANILO VERONEZ alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Revisão Criminal n. 2279172-07.2022.8.26.0000.
+Consta dos autos que o paciente foi condenado à pena de 23 anos e 4 meses de reclusão, em regime inicial fechado, pela prática dos crimes de homicídio qualificado, organização criminosa e porte de arma de fogo de uso restrito.
+O impetrante busca, em síntese, a declaração de nulidade da apreensão e da quebra de sigilo dos dados de aparelhos telefônicos pertencentes aos familiares do paciente e dos demais investigados, por violação do sistema acusatório. Alega que o pedido da autoridade policial se restringia ao telefone do réu.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ (fls. 301-307).
+Decido.
+Na origem, a autoridade policial representou, expressamente, pela busca e apreensão, dentre outros objetos, dos " ..  telefones celulares dos apontados e de seus familiares" e formulou pedido de "acesso de policiais civis desta Unidade ou do Instituto de Criminalística aos dados constantes nos aparelhos celulares e/ou eventuais mídias apreendidas" (fl. 112, grifei).
+Logo, a decisão do Magistrado de origem  deferindo, a apreensão de " ..  qualquer celular encontrado dentro das residências, ainda que na posse de familiares dos investigados" e, inclusive, ressalvando que "tão logo inspecionados os aparelhos, detectando-se que não contenham qualquer indício necessário para a investigação, deverão ser devolvidos  .. , expressamente autorizando "a quebra de sigilo de todos os dados e material gravado nos celulares que eventualmente forem apreendidos" (fl. 178, destaquei)  não extrapolou os limites do que foi postulado.
+Veja-se que foi expressamente pleiteada e, posteriormente, deferida a inspeção visual e a extração de todos os dados dos aparelhos telefônicos dos réus e de seus familiares. A limitação a medidas investigativas em celulares específicos foi unicamente em relação à obtenção, junto às operadoras de telefonia, do detalhamento das ligações efetuadas e recebidas .
+Por fim, de ser ressaltado que, quanto às provas, assim manifestou o Tribunal de origem (fls. 215-216):
+Isso porque o peticionário não trouxe à baila qualquer razão idônea a demonstrar que a judiciosa decisão impugnada fosse manifestamente contrária ao texto expresso da Lei Penal ou à evidência dos autos, se limitando a, pleiteando, preliminarmente, a nulidade da decisão que autorizou a apreensão dos celulares de seus familiares e, no mérito, a absolvição quanto aos crimes de organização criminosa e por porte de arma de fogo de uso restrito, ressuscitar argumentos exaustivamente debatidos durante a formação da culpa e em sede de apelação.(fls. 215-216)
+Portanto, a decisão da Corte local está em conformidade com o entendimento deste Tribunal Superior, no sentido de que a pretensão de modificação não se coaduna às hipóteses de cabimento da revisão criminal, na qual é necessário que haja contrariedade ao texto expresso de lei ou à evidência dos autos.
+Sabe-se que " a  revisão criminal não pode ser utilizada para que a parte, a qualquer tempo, busque novamente rediscutir questões de mérito, por mera irresignação quanto ao provimento jurisdicional obtido" (AgRg na RvCr n. 4.730/CE, relator Ministro Ribeiro Dantas, DJe 14/9/2020).
+Por fim, realço que, na hipótese dos autos, não houve demonstração de contrariedade à lei ou a evidência dos autos, a autorizar a pretendida revisão.
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
+EMENTA
