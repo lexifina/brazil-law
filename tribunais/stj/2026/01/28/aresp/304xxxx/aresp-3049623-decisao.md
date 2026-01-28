@@ -1,0 +1,19 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL agrava de decisão que não admitiu seu recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça daquele Estado na Apelação Criminal n. 5017978-28.2023.8.21.0004.
+Consta dos autos que o agravado foi condenado a 1 ano, 11 meses e 10 dias de reclusão, em regime aberto, mais multa, pela prática do crime previsto no art. 33, caput, e § 4º, da Lei n. 11.343/2006, substituída a pena privativa de liberdade por duas restritivas de direito.
+Nas razões do recurso especial, o Ministério Público estadual aponta violação do art. 33, § 4º, da Lei n. 11.343/2006. Requer o provimento do recurso para que seja decotada a minorante do tráfico.
+O recurso especial foi inadmitido durante o juízo prévio de admissibilidade realizado pelo Tribunal de origem, o que ensejou a interposição deste agravo.
+O Ministério Público Federal opinou pelo provimento do agravo para conhecer e prover o recurso especial.
+Decido.
+Para a aplicação da minorante descrita no § 4º do art. 33 da Lei de Drogas, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa nem se dedique a atividades delituosas. Isso porque a razão de ser da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 é justamente punir com menor rigor o pequeno traficante.
+A propósito, confira-se o seguinte trecho de voto deste Superior Tribunal: "Como é cediço, o legislador, ao instituir o referido benefício legal, teve como objetivo conferir tratamento diferenciado aos pequenos e eventuais traficantes, não alcançando, assim, aqueles que fazem do tráfico de entorpecentes um meio de vida." (HC n. 437.178/SC, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 11/6/2019).
+No caso, entendo que não assiste razão ao Ministério Público ao pleitear seja afastada a incidência da causa especial de diminuição da pena. Isso porque, conforme esclareceu o Tribunal de origem (fl. 187, grifei):
+Requer a defesa seja reconhecida a incidência do tráfico privilegiado Primeiramente, a natureza e quantidade de entorpecentes apreendidos não integram os requisitos exigidos para a concessão, ou não, da privilegiadora prevista no art. 33, §4º, da Lei Antidrogas, em que pese possam ser valoradas negativamente na primeira fase da dosimetria - mas, no caso concreto, trata-se de quantia que não demanda eventual valoração negativa.
+Sabidamente, o §4º do artigo 33 da Lei n.º 11.343/2006 exige, para tornar possível sua aplicação, o preenchimento cumulativo de requisitos, a saber, que (i) o agente seja primário, (ii) possua bons antecedentes; (iii) não se dedique às atividades criminosas; e, por fim, (iv) não integre organização criminosa.
+Nesse contexto, vê-se que Everson é absolutamente primário e não possui maus antecedentes (evento 57, CERTANTCRIM1 ), inexistindo qualquer comprovação nos autos de que se dedicasse às atividades criminosas ou de que integrasse organização criminosa.
+Assim, aplico a redutora em apreço ao recorrido, porque preenchidos todos os requisitos legais pertinentes e em grau máximo (2/3).
+No caso em exame, a instância de origem foi clara ao afirmar que as circunstâncias do delito apurado não apontam dedicar-se o réu a atividades delituosas; e, por isso mesmo, reconheceu a incidência do tráfico privilegiado. Vejo, portanto, que a Corte estadual justificou, de modo fundamentado, a incidência do benefício. Logo, para concluir que o réu se dedica às atividades criminosas, seria imprescindível o revolvimento do contexto fático-probatório dos autos, o que é vedado em recurso especial, conforme a Súmula n. 7 do STJ.
+Logo, não há como acolher o pedido da acusação.
+À vista do exposto, conheço do agravo e nego provimento ao recurso especial.
+Publique-se e intimem-se.
+EMENTA
