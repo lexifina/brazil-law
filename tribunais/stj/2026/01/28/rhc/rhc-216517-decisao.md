@@ -1,0 +1,40 @@
+DECISÃO
+JOÃO VICTOR SILVA GONÇALVES alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado da Paraíba no HC n. 0806753-72.2025.8.15.0000.
+A defesa pretende a soltura do paciente/recorrente - preso preventivamente pela suposta prática do crime previsto no art. 33 da Lei n. 11.343/2006 - sob os argumentos de que: a) a segregação cautelar carece de fundamentação idônea; b) outras medidas cautelares diversas da prisão são suficientes para resguardar a ordem pública.
+O Ministério Público Federal opinou pelo não provimento do recurso ordinário (fls. 119-121).
+Decido.
+I. Prisão preventiva
+A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+O Juízo singular, ao converter a prisão em flagrante do recorrente em preventiva, assim fundamentou, no que interessa (fls. 9-17):
+ ..
+3. Da Prisão Preventiva de João Victor Silva Gonçalves
+A conduta imputada ao custodiado configura, em tese, crime de tráfico de drogas, punido com pena superior a quatro anos de reclusão (art. 33 da Lei 11.343/06), satisfazendo o requisito objetivo do art. 313, I, do CPP.
+Verifico ainda a presença dos pressupostos do art. 312 do CPP: materialidade demonstrada pelo laudo preliminar de constatação da droga e indícios suficientes de autoria, consubstanciados nos depoimentos dos policiais e na tentativa de fuga da blitz, mesmo não sendo habilitado.
+A gravidade concreta da conduta, a quantidade significativa de entorpecente, o risco de reiteração delitiva e a possibilidade de desarticulação de eventual associação voltada ao tráfico justificam a medida extrema. Destarte, revela-se inadequada e insuficiente a imposição de medidas cautelares diversas da prisão.
+De mais a mais, preenchidos os requisitos de índole subjetiva, o crime provisoriamente imputado ao flagranteado também se enquadra no requisito objetivo estabelecido pelo art. 313, I, do CPP, a se admitir, pois, a decretação da prisão preventiva.
+ ..
+O Tribunal de origem, a seu turno, manteve a decisão de primeiro grau nos termos a seguir (fls. 64-69):
+ ..
+Extraem-se da impetração que o paciente foi preso em flagrante no contexto de tráfico de droga. Consta do auto do flagrante que estava sendo realizada uma blitz de trânsito, quando o paciente pilotando uma moto tentou fugir da blitz, subindo a calçada e retornando pela contramão.
+Tenho que o posicionamento da autoridade coatora decidindo pela conversão em preventiva do paciente se revela absolutamente acertado e está lastreado em elementos concretos, extraídos das circunstâncias colhidas nos autos, devidamente fundamentado na garantia da ordem pública. Confira-se o que diz a decisão:
+Prisão Preventiva de João Victor Silva Gonçalves
+A conduta imputada ao custodiado configura, em tese, crime de tráfico de drogas, punido com pena superior a quatro anos de reclusão (art. 33 da Lei 11.343/06), satisfazendo o requisito objetivo do art. 313, I, do CPP. Verifico ainda a presença dos pressupostos do art. 312 do CPP: materialidade demonstrada pelo laudo preliminar de constatação da droga e indícios suficientes de autoria, consubstanciados nos depoimentos dos policiais e na tentativa de fuga da blitz, mesmo não sendo habilitado. A gravidade concreta da conduta, a quantidade significativa de entorpecente, o risco de reiteração delitiva e a possibilidade de desarticulação de eventual associação voltada ao tráfico justificam a medida extrema. Destarte, revela-se inadequada e insuficiente a imposição de medidas cautelares diversas da prisão. De mais a mais, preenchidos os requisitos de índole subjetiva, o crime provisoriamente imputado ao flagranteado também se enquadra no requisito objetivo (idestabelecido pelo art. 313, I, do CPP, a se admitir, pois, a decretação da prisão preventiva. 34099145).
+Conforme demonstrado nas peças juntadas pelo impetrante e especialmente no trecho da decisão acima, tenho que restou suficientemente demonstrado no caso concreto a necessidade de manter o paciente acautelado, diante da gravidade da conduta, envolvendo trafico de droga, havendo a possibilidade de suposta associação voltada à traficância, o que demonstra a necessidade de manutenção da custódia preventiva para garantia da ordem pública.
+ ..
+Neste momento, não vislumbro elementos claros de que a prisão preventiva tenha perdido seu fundamento, pois ainda que sucinta motivou suficiente para a justificar a custódia cautelar, destacando a gravidade do crime e o risco de comprometimento da ordem pública, não comportando, a princípio, a possibilidade de aplicação de outras medidas cautelares a indicar que a sociedade não estaria acautelada com sua soltura.
+Por último, o habeas corpus não pode ser usado para entrar na questão que originou o flagrante. O mérito é a questão central que magistrado analisará em tempo oportuno.
+ ..
+Embora, por um lado, a decisão impugnada pudesse conter elementos mais robustos a indicar a necessidade da restrição da liberdade do recorrente, não há como perder de vista, por outro lado, que o Juízo de primeiro grau mencionou a quantidade e a natureza das drogas apreendidas.
+Tal circunstância, na compreensão do Juízo de primeiro grau, evidenciaria a necessidade de manutenção da custódia cautelar para o bem da ordem pública.
+Sem embargo, a despeito da reprovabilidade social do comportamento atribuído ao acusado - a ensejar-lhe, se demonstrada a imputação, correspondente e proporcional sanção penal -, considero ser suficiente e adequada, na hipótese, a substituição da prisão preventiva por outras medidas cautelares a ela alternativas.
+É plenamente possível que, embora presentes os motivos ou os requisitos que tornariam cabível a prisão preventiva, o juiz - à luz do princípio da proporcionalidade e das novas alternativas fornecidas pela Lei n. 12.403/2011 - considere a opção por uma ou mais das medidas indicadas no art. 319 do Código de Processo Penal o meio suficiente e adequado para obter o mesmo resultado - a proteção do bem jurídico sob ameaça - de forma menos gravosa.
+Tal opção judicial produzirá o mesmo resultado cautelar - no caso em exam e, evitar a prática de novos crimes, de maneira a proteger a ordem pública - sem a necessidade de suprimir, de modo absoluto, a liberdade de locomoção do acusado, notadamente porque a quantidade de droga apreendida (1 Kg de cocaína, fl. 22), embora relevante, também não é tão grande a ponto de justificar a prisão, por si só, sobretudo no contexto de uma abordagem em blitz, sem outros elementos que explicitem a periculosidade do recorrente. além do fato de o paciente ser primário e de bons antecedentes ao tempo do delito.
+II. Dispositivo
+À vista do exposto, dou provimento ao recurso para, à luz das peculiaridades do caso concreto, substituir a prisão preventiva do paciente pelas seguintes medidas cautelares:
+a) comparecimento periódico em juízo, sempre que for intimado para os atos do processo e no prazo e nas condições a serem fixados pelo Juiz, a fim de informar seu endereço (que deverá ser informado também ao ser solto) e justificar suas atividades;
+b) proibição de ausentar-se da Comarca, quando a permanência seja conveniente ou necessária para a investigação ou instrução;
+c) monitoramento eletrônico.
+Alerte-se ao acusado que a violação das medidas cautelares importará o restabelecimento da prisão preventiva, que poderá ser novamente aplicada se sobrevier situação que configure a exigência da cautelar mais gravosa.
+Comunique-se, com urgência, o inteiro teor desta decisão ao Juízo de primeiro grau e ao Tribunal de origem, para as providências cabíveis.
+Publique-se e intimem-se.
+EMENTA
