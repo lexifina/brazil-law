@@ -1,0 +1,75 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+Primeira Turma Recursal DOS JUIZADOS ESPECIAIS DO DISTRITO FEDERAL
+Processo N.RECURSO INOMINADO CÍVEL 0702385-77.2025.8.07.0018RECORRENTE(S)APRELINO FERNANDES DA SILVARECORRIDO(S)DISTRITO FEDERAL e INSTITUTO DE PREVIDENCIA DOS SERVIDORES DO DISTRITO FEDERAL - IPREVRelatorJuiz FLÁVIO FERNANDO ALMEIDA DA FONSECA
+ Acórdão Nº2080674
+
+EMENTA
+
+ Ementa. JUIZADO ESPECIAL. DIREITO PREVIDENCIÁRIO. RECURSO INOMINADO. PRELIMINAR DE ILEGITIMIDADE PASSIVA. PENSÃO POR MORTE. GENITOR. DEPENDÊNCIA ECONÔMICA. COMPROVADA. RECURSO CONHECIDO. PRELIMINAR REJEITADA E PROVIDO.
+
+I. Caso em exame
+
+1. Trata-se de recurso inominado interposto pela parte autora em face da sentença que julgou improcedentes os pedidos formulados na inicial. Em seu recurso destaca que o artigo 217, I, “d” da Lei nº 8.112/90 assegura pensão vitalícia aos pais do servidor falecido que comprovem a hipossuficiência econômica, o que é o caso dos autos. Assinala que a sua falecida filha sempre residiu na casa dos pais, sendo a principal provedora do lar, custeando despesas essenciais e o plano de saúde dos genitores, no qual constavam como dependentes o pai e a mãe. Alega que o fato de receber aposentadoria por idade, sendo um benefício de valor mínimo insuficiente para a sua subsistência digna, não afasta a sua dependência econômica, visto que não se exige ausência de rendimentos por parte do beneficiário, mas tão somente a comprovação de que a contribuição da falecida era essencial para a manutenção das condições do autor. Destaca que as provas testemunhais confirmam que a filha custeava as despesas básicas e o sustento dos pais, além dos documentos comprovarem que residiam no mesmo lar. De todo modo, aponta que a pensão por morte concedida em momento anterior à sua esposa (mãe da sua falecida filha) também demonstra, ainda que indiretamente, a dependência econômica do pai quanto àqueles rendimentos. Assim, durante anos o núcleo familiar foi mantido pela pensão por morte recebida pela sua esposa face o falecimento da filha do casal. Todavia, relembra que aquela pensão por morte cessou quando do falecimento da sua esposa, sendo que o autor também tem direito a pleitear a pensão por morte deixada pela sua filha.
+
+2. Recurso próprio, tempestivo e dispensado de preparo ante pedido formulado de concessão da gratuidade de justiça. Contrarrazões apresentadas.
+
+II. Questão em discussão
+
+3. Discute-se, preliminarmente, a ilegitimidade passiva do Distrito Federal.
+
+4. No mérito, a questão em discussão consiste em determinar se o autor preenche os requisitos para a percepção da pensão por morte em decorrência do falecimento da sua filha.
+
+III. Razões de decidir
+
+5. É manifesta a legitimidade passiva ad causam do Distrito Federal, pois “constitui-se em garantidor das obrigações do IPREV/DF, respondendo subsidiariamente pelo custeio dos benefícios previdenciários devidos aos seus segurados e dependentes, cobrindo qualquer insuficiência financeira do Regime Próprio de Previdência Social do Distrito Federal”, consoante prevê o artigo 4º, §2º da Lei Complementar Distrital 769/2008. Preliminar de ilegitimidade passiva rejeitada.
+
+6. Desde já, convém elucidar que o direito à previdência social constitui direito fundamental, de modo que não deve ser afetado pelo decurso do tempo, não existindo prazo prescricional ou decadencial para pleitear a concessão inicial do benefício previdenciário. O que existe é tão somente a possibilidade de eventual prescrição quando da negativa do pedido na via administrativa, o que não é o caso dos autos, visto que a negativa ocorreu no ano de 2025, de modo que inexiste transcurso do prazo prescricional.
+
+7. A filha do autor, “Maria Aparecida”, faleceu no ano de 2003, sendo habilitada para percepção da sua pensão por morte a sua filha “Eliane” bem como a sua genitora “Maria de Lourdes”. Contudo, face o falecimento de Maria de Lourdes no ano de 2023 o benefício foi cessado. Assim, no ano de 2023 o autor, “Aprelino”, que era cônjuge de “Maria de Lourdes” e pai de “Maria Aparecida”, pleiteou a percepção da pensão por morte decorrente do falecimento da sua filha naquele ano de 2003. Contudo, o benefício foi negado na via administrativa sob o fundamento de que não foi comprovado que existia a dependência econômica no momento da morte de Maria Aparecida (ID 78649390), face o entendimento de que a “declaração da Interlife de que a ex-servidora Maria Aparecida da Silva manteve Aprelino Fernandes da Silva como seu dependente, no período de outubro de 2000 até 2003” e as declarações testemunhais de que a ex-servidora era provedora de seus genitores e de que conviviam no mesmo domicílio foi insuficiente para comprovar a dependência econômica. (ID 78649567, pág. 59). Ainda, o Distrito Federal esclareceu que “nesta via administrativa não consideramos como prova de dependência econômica depoimentos testemunhais” (ID 78649567, pág. 66).
+
+8. Nos termos do artigo 217 da Lei nº 8.112/90 (com a redação da época do falecimento da filha do autor) “Art. 217. São beneficiários das pensões: I - vitalícia: (...) d) a mãe e o pai que comprovem dependência econômica do servidor”. Assim, a concessão da pensão por morte no caso de falecimento da filha exige a comprovação, na data do falecimento, de dependência econômica daquele que pretende a percepção do benefício em face do instituidor da pensão. Ademais, relembra-se que “A lei aplicável à concessão de pensão previdenciária por morte é aquela vigente na data do óbito do segurado” (Súmula 340/STJ).
+
+9. Na hipótese dos autos a parte requerente trouxe comprovante de que era dependente da sua filha no plano de assistência Interlife (no período de 31/10/2000 até 2003), conforme ID 78649405 e ID 78649567, pág. 14. Ainda, juntou declaração da testemunha Ariadna Hemsing Lima, vizinha do autor desde 1979, declarando que a filha do requerente “era a provedora principal da família, incluindo os pais (Maria de Lourdes da Silva e Aprelino Fernandes da Silva), e que ‘Tenho o conhecimento de que, após o falecimento da senhora Maria Aparecida, a família ficou à mercê de ajuda financeira de terceiros, até começar a receber a pensão gerada pelo trabalho da falecida, que passou a ser recebida por sua mãe, que também se chamava Maria’ – ID 78649398, sendo que as informações também foram ratificadas pela testemunha Ivone Hemsing Lima, que era vizinha do autor desde 1979 até 2008. No mesmo sentido, também constou nos autos a declaração da testemunha Siloni dos Santos Ferreira, também vizinho do requerente, atestando que mora no local há muitos anos (desde a fundação da “P Norte”) e que Maria Aparecida era a provedora principal de toda a família, incluindo os pais (ID 78649399). Ainda, destaca-se que aquela testemunha Ariadna compareceu na audiência de instrução e julgamento, afirmando que a filha “Maria Aparecida” mantinha a casa e “que cuidava deles e ela que sustentava todo mundo”, ressaltando que sabia disso porque convivia com eles, por ser vizinho e porque Maria Aparecida era a única amiga da depoente (ID 78649576, 01:50). Ademais, na audiência de instrução e julgamento, a testemunha Maria do Socorro ressaltou desconhecer se o autor trabalhava, visto que, pelo que ela sabe, “quem trabalhava era a filha dele, que mantinha ele e a esposa dele”. Inclusive, ressaltou que a filha contribuía com as despesas da casa, visto que “era ela que cuidava deles” e “porque ela falava e a gente via também”, bem como que a filha comentava que pagava um plano de saúde para os pais (ID 78649575 01:30 e 03:35). Também foi juntado aos autos a certidão de óbito de Maria Aparecida da Silva (filha do autor), indicando seu endereço de residência como sendo o mesmo dos pais (ID 78649394), o que também é corroborado pelos documentos ID 78649400 e 78649567, págs. 40-43, bem como pela declaração de várias testemunhas no ID 78649567, págs. 4/6. Enfim, também há comprovação de que naquele ano de 2003 a conta de telefone da residência dos pais da instituidora da pensão era emitida no seu nome, o que indica que era responsável pelo pagamento da conta de telefone da casa dos pais (ID 78649567, págs. 18-22 e 35-39).
+
+10. Não se desconhece que a dependência econômica dos genitores em relação aos filhos não é presumida, devendo ser comprovada. Por outro lado, não obstante a prova testemunhal não ser admitida na via administrativa (conforme informações prestadas pela parte ré no ID 78649567, pág. 66), relembra-se que a dependência econômica pode ser demonstrada por qualquer meio probatório, inclusive prova exclusivamente testemunhal, conforme entendimento do STJ: “1. Esta Corte Superior possui jurisprudência no sentido de que a prova exclusivamente testemunhal pode ser utilizada para a comprovação da dependência econômica dos pais em relação aos filhos, com fins de percepção do benefício de pensão por morte, porquanto a legislação previdenciária não exige início de prova material para tal comprovação”. (STJ, AREsp 891.154/MG, relator Ministro GURGEL DE FARIA, Primeira Turma, data de julgamento: 14/02/2017, publicado no DJE: 23/02/2017).
+
+11. Os diversos elementos probatórios atestam que naquele ano de 2003 a filha “Maria Aparecida” contribuía com as despesas do lar, auxiliando seus genitores, o que foi reiterado pelas testemunhas e corroborado, inclusive, por conta de telefone em nome próprio demonstrando o auxílio com as despesas. Ainda, naquela época o autor já recebia aposentadoria por idade no valor de um salário-mínimo (ID 78649578), o que não obsta o recebimento da pensão por morte pleiteada. Isso porque, em conformidade com a Súmula 229 do extinto Tribunal Federal de Recursos “A mãe do segurado tem direito à pensão previdenciária, em caso de morte do filho, se provada a dependência econômica, mesmo não exclusiva”. Assim, constata-se que a filha, que faleceu com 46 anos, residia com seus genitores e contribuía para a sua manutenção, ainda que de forma não exclusiva (visto o rendimento auferido pelo genitor), de modo que a parte autora se desincumbiu do ônus de provar os fatos constitutivos do seu direito, demonstrando a dependência econômica da sua filha. Em consequência, deve a sentença ser reformada para declarar o direito da parte autora à percepção da pensão por morte decorrente do falecimento da sua filha.
+
+12. Precedentes: “Demonstrada a relação de dependência econômica entre a filha falecida e sua genitora, ainda que seu sustento não fosse custeado de forma exclusiva por aquela, há de ser reconhecido o direito à pensão por morte acidentária. Inteligência da Súmula 229 do extinto TFR.” (Acórdão 557592, 20100110313452APC, Relator(a): CRUZ MACEDO, 4ª TURMA CÍVEL, data de julgamento: 07/12/2011, publicado no DJe: 09/01/2012.); e Acórdão 1824065, 0718328-42.2022.8.07.0018, Relator(a): SILVANA DA SILVA CHAVES, SEGUNDA TURMA RECURSAL, data de julgamento: 04/03/2024, publicado no DJe: 12/03/2024; Acórdão 1249674, 0737266-33.2018.8.07.0016, Relator(a): AISTON HENRIQUE DE SOUSA, PRIMEIRA TURMA RECURSAL, data de julgamento: 18/05/2020, publicado no DJe: 03/06/2020; e Acórdão 1210735, 0706101-71.2018.8.07.0014, Relator(a): ALMIR ANDRADE DE FREITAS, SEGUNDA TURMA RECURSAL, data de julgamento: 23/10/2019, publicado no DJe: 29/10/2019.
+
+13. A parte autora pleiteia o pagamento retroativo do benefício a partir de cessada a pensão por morte para “Maria de Lourdes”. Pontue-se que o termo inicial da pensão por morte é definido pelo art. 219 da Lei 8.112/90, devendo ser observada a lei vigente na época do falecimento, conforme a mencionada Súmula 340/STJ. No mesmo sentido: Acórdão 1681015, 0708407-30.2020.8.07.0018, Relator(a): DIAULAS COSTA RIBEIRO, 8ª TURMA CÍVEL, data de julgamento: 30/03/2023, publicado no DJe: 11/04/2023. Assim, aquele dispositivo estabelecia que “Art. 219. A pensão poderá ser requerida a qualquer tempo, prescrevendo tão-somente as prestações exigíveis há mais de 5 (cinco) anos”. Portanto, diante do pedido formulado na inicial, considerando que o benefício da pensão por morte cessou com o falecimento do beneficiário e diante da comprovação do óbito de Maria de Lourdes no dia 10/10/2023, deve o Distrito Federal ser condenado ao pagamento dos valores retroativos a partir de 11/10/2023, a ser apurado mediante simples cálculos aritméticos.
+
+IV. Dispositivo e tese
+
+14. RECURSO CONHECIDO. PRELIMINAR REJEITADA E PROVIDO. Sentença reformada para declarar que Aprelino Fernandes da Silva é dependente econômico da sua filha Maria Aparecida da Silva para fins de percepção da pensão por morte decorrente do seu falecimento, bem como para condenar o IPREV e, subsidiariamente, o Distrito Federal, ao pagamento dos valores retroativos a título de pensão por morte a partir de 11/10/2023, a ser apurado mediante simples cálculos aritméticos. O valor deve ser atualizado exclusivamente pela SELIC na forma da EC 113/2021. Sem custas e honorários, ante a ausência de recorrente vencido, a teor do art. 55 da Lei 9.099/95.
+
+15. A ementa servirá de acórdão, conforme art. 46 da Lei nº 9.099/95.
+
+_____
+
+Dispositivo relevante citado: Lei 8.112/1990, art. 217; Súmula 340/STJ; Súmula 229/TFR.
+
+Jurisprudência relevante citada: STJ, AREsp 891.154/MG, relator Ministro GURGEL DE FARIA, Primeira Turma, data de julgamento: 14/02/2017; TJDFT, Acórdão 557592, 20100110313452APC, Relator(a): CRUZ MACEDO, 4ª TURMA CÍVEL, data de julgamento: 07/12/2011; TJDFT, Acórdão 1824065, 0718328-42.2022.8.07.0018, Relator(a): SILVANA DA SILVA CHAVES, SEGUNDA TURMA RECURSAL, data de julgamento: 04/03/2024; TJDFT, Acórdão 1249674, 0737266-33.2018.8.07.0016, Relator(a): AISTON HENRIQUE DE SOUSA, PRIMEIRA TURMA RECURSAL, data de julgamento: 18/05/2020; TJDFT, Acórdão 1210735, 0706101-71.2018.8.07.0014, Relator(a): ALMIR ANDRADE DE FREITAS, SEGUNDA TURMA RECURSAL, data de julgamento: 23/10/2019; TJDFT, Acórdão 1681015, 0708407-30.2020.8.07.0018, Relator(a): DIAULAS COSTA RIBEIRO, 8ª TURMA CÍVEL, data de julgamento: 30/03/2023.
+
+ACÓRDÃO
+
+Acordam os Senhores Juízes da Primeira Turma Recursal dos Juizados Especiais do Distrito Federal do Tribunal de Justiça do Distrito Federal e dos Territórios, FLÁVIO FERNANDO ALMEIDA DA FONSECA - Relator, RITA DE CASSIA DE CERQUEIRA LIMA ROCHA - 1º Vogal e LUIS EDUARDO YATSUDA ARIMA - 2º Vogal, sob a Presidência da Senhora Juíza RITA DE CASSIA DE CERQUEIRA LIMA ROCHA, em proferir a seguinte decisão: CONHECIDO. PRELIMINAR REJEITADA. PROVIDO. UNÂNIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 28 de Janeiro de 2026
+
+Juiz FLÁVIO FERNANDO ALMEIDA DA FONSECARelator
+
+RELATÓRIO
+
+A ementa servirá de acórdão, conforme inteligência dos arts. 2º e 46 da Lei n. 9.099/95.
+
+VOTOS
+
+O Senhor Juiz FLÁVIO FERNANDO ALMEIDA DA FONSECA - RelatorA ementa servirá de acórdão, conforme inteligência dos arts. 2º e 46 da Lei n. 9.099/95.
+A Senhora Juíza RITA DE CASSIA DE CERQUEIRA LIMA ROCHA - 1º Vogal Com o(a) relator(a)O Senhor Juiz LUIS EDUARDO YATSUDA ARIMA - 2º Vogal Com o(a) relator(a)
+
+DECISÃO
+
+CONHECIDO. PRELIMINAR REJEITADA. PROVIDO. UNÂNIME.
