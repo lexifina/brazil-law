@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de embargos de divergência opostos por JEAN PIERRE DE SIQUEIRA ao acórdão proferido pela Quinta Turma desta Corte, assim ementado (fls. 2.503/2.504):
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO E HOMICÍDIO QUALIFICADO TENTADO. IRREGULARIDADES NO RECONHECIMENTO PELA VÍTIMA. FALTA DE PREQUESTIONAMENTO. VIOLAÇÃO AO ART. 226 DO CPP. INEXISTÊNCIA DE RECONHECIMENTO PROPRIAMENTE DITO. VÍTIMA QUE JÁ CONHECIA O CORRÉU E INDICOU A AUTORIA DELITIVA. EXISTÊNCIA DE OUTRAS PROVAS AUTÔNOMAS. PRONÚNCIA. PROVA DA MATERIALIDADE E INDÍCIOS DE AUTORIA CONFIRMADOS. ALTERAÇÃO QUE DEMANDA REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Inafastável a incidência das Súmulas n. 282 e 356 do STJ, pois depreende-se do aresto recorrido que não houve debate acerca da alegação defensiva de que não consta a assinatura de testemunhas no auto de reconhecimento e que a autoridade policial induziu a vítima Maria a apontar inicialmente o acusado Felix como autor dos disparos, estando, portanto, ausente o indispensável prequestionamento viabilizador do recurso especial.
+2. Não há se falar em nulidade, por ofensa ao art. 226 do CPP, tendo em vista que não houve o reconhecimento fotográfico propriamente dito, pois, conforme consignado pelas instâncias ordinárias, a vítima sobrevivente conhecia o corréu indicado como autor do delito, tendo, ainda no hospital, informado sua identidade como sendo o suposto autor dos disparos de arma. Consta do aresto recorrido que a vítima conhecia o corréu também acusado, sabia seu nome e o que fazia, não havendo necessidade do reconhecimento, apenas a confirmação perante a autoridade policial do seu envolvimento no delito. Ademais, verifica-se a falta de interesse recursal nesse ponto, tendo em vista que a materialidade e os indícios de autoria foram indicados a partir de elementos de prova diversos e autônomos em relação ao reconhecimento apontado como viciado.
+3. In casu, as instâncias ordinárias indicaram a prova da materialidade e a presença de indícios de autoria, a partir dos depoimentos, confirmados em juízo, de testemunhas que presenciaram parte do delito, bem como de outros corréus, que indicaram a participação do ora recorrente no delito imputado. Nesse contexto, é certo que o afastamento da conclusão acerca das premissas fáticas acerca dos indícios de autoria evidenciados nos autos demandaria análise de prova, com óbice na Súmula n. 7 do STJ. Precedentes.
+4. Agravo regimental desprovido.
+Apontou o embargante dissídio jurisprudencial acerca da tese - reconhecimento de pessoa sem observância do art. 226 do Código de Processo Penal e sua insuficiência isolada para firmar autoria, exigindo corroboração judicial -, indicando, como paradigma, o acórdão exarado no julgamento do REsp n. 1.992.811/SP (Sexta Turma).
+Indicou, ainda, divergência quanto à incidência da Súmula 182/STJ em agravo interno com capítulos autônomos, sustentando que a falta de impugnação de fundamento independente acarreta apenas preclusão parcial, sem obstar o conhecimento dos demais pontos, apontado, como paradigma, o acórdão proferido no AgRg no AgRg no Ag 1.161.747/SP (Segunda Turma).
+Em petição subsequente, protocolizada em 9/1/2025, o embargante aditou os embargos de divergência, a fim de incluir um novo acórdão paradigmático (AgRg no AREsp n. 2.495.661/MG, Quinta Turma) - fls. 2.648/2.694.
+Instado a se manifestar na condição de custos legis, o Ministério Público Federal opinou pelo indeferimento dos embargos de divergência (fls. 2.702/2.707).
+A Presidência desta Corte indeferiu liminarmente os embargos de divergência no tocante ao paradigma oriundo da Segunda Turma (fls. 2.709/2.712).
+Em nova petição, protocolizada em 2/7/2025, o embargante pugnou pela aplicação da tese fixada no julgamento do Tema n. 1.258/STJ quando do julgamento dos embargos de divergência (fls. 2.713/2.716).
+Em 10/7/2025, o embargante interpôs agravo regimental contra a decisão exarada às fls. 2.709/2.712. A Corte Especial, no entanto, não conheceu do reclamo conforme acórdão exarado às fls. 3.122/3.128, sendo o aresto objeto de aclaratórios, que foram rejeitados (fls. 3.159/3.164).
+A parte embargante, então, interpôs recurso extraordinário e após a juntada das contrarrazões, os autos foram distribuídos a mim e vieram conclusos para análise da divergência no tópico de competência da Terceira Seção (fl. 3.207).
+É o relatório.
+Inicialmente, reputo inviável conhecer do teor das petições juntadas às fls. 2.648/2.694 e 2.713/3.076, pois veiculam julgados paradigmáticos que não foram invocados nos primeiros embargos de divergência opostos às fls. 2.518/2.541, o que é vedado à luz do princípio da preclusão consumativa:
+PROCESSUAL CIVIL AGRAVO REGIMENTAL. EMBARGOS DE DIVERGÊNCIA. ADITAMENTO. PRECLUSÃO CONSUMATIVA. SEGUIMENTO NEGADO. ART. 557, CAPUT, CPC. RISTJ, ART. 266, § 3º. DISSÍDIO NÃO CONFIGURADO.
+I. É defeso à parte, praticado o ato, com a interposição do recurso, ainda que lhe reste prazo, adicionar elementos ao inconformismo, pelo princípio da preclusão consumativa.
+II. Não basta à configuração da divergência a mera enunciação de tese genérica, mas que haja rigorosa similitude fático-jurídica entre as espécies.
+III. Agravo improvido.
+(AgRg nos EREsp n. 710.599/SP, Ministro Aldir Passarinho Junior, Corte Especial, julgado em 1/10/2008, DJe de 10/11/2008).
+Assim, cumpre frisar que a análise do recurso ficará adstrita ao acórdão paradigmático oriundo da Sexta Turma, exarado no julgamento do REsp n. 1.992.811/SP, pois foi o único apontado na petição de embargos de divergência, cuja competência para equacionamento do dissídio é da Terceira Seção.
+Esclarecida essa questão, passo ao exame da insurgência, consignando, desde logo, que o recurso não pode ser conhecido.
+Ora, o embargante inobservou a diretiva estabelecida em norma regimental para fins de demonstração do dissídio. Explico.
+Nos termos do art. 266, § 4º, do RISTJ, o recorrente provará a divergência com certidão, cópia ou citação de repositório oficial ou credenciado de jurisprudência, inclusive em mídia eletrônica, em que foi publicado o acórdão divergente, ou com a reprodução de julgado disponível na internet, indicando a respectiva fonte, e mencionará as circunstâncias que identificam ou assemelham os casos confrontados.
+No caso, o embargante não demonstrou, de forma analítica, a identidade fática entre o aresto hostilizado e aquele indicado como paradigma e, por conseguinte, não logrou demonstrar a existência de soluções jurídicas distintas dos órgãos julgadores desta Corte sob uma mesma base fática, condição essa indispensável para a configuração do dissídio jurisprudencial.
+Sobre o tema, confiram-se: AgInt nos EAREsp n. 1.723.304/DF, Ministro Francisco Falcão, Corte Especial, julgado em 7/2/2024, DJe 14/2/2024; AgInt nos EREsp n. 2.023.615/SP, Ministra Maria Isabel Gallotti, Segunda Seção, julgado em 12/12/2023, DJe 15/12/2023; AgInt nos EAREsp n. 2.266.711/RS, Ministra Nancy Andrighi, Corte Especial, julgado em 12/12/2023, DJe 15/12/2023; e AgInt nos EREsp n. 1.926.062/SP, Ministra Nancy Andrighi, Corte Especial, julgado em 12/12/2023, DJe 15/12/2023.
+Ademais, é nítido que os acórdãos ostentam bases fáticas distintas, circunstância essa que per si afasta a divergência aventada.
+Ora, o acórdão impugnado firmou que não houve o reconhecimento fotográfico propriamente dito, pois a vítima sobrevivente conhecia o corréu indicado como autor do delito, tendo, ainda no hospital, informado sua identidade como sendo o suposto autor dos disparos de arma (fl. 2.510 - grifo nosso).
+Circunstância fática essa que não se verificou no acórdão paradigmático (fls. 2.542/2.532).
+Logo, não há falar em dissídio entre os julgados, pois as soluções, aparentemente antagônicas, decorrem da moldura fático-probatória peculiar de cada processo, circunstância que rechaça a divergência alegada:
+ ..
+2. Não se conhece da divergência jurisprudencial quando os julgados dissidentes tratam de situações fáticas diversas.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.520.023/MG, Ministro João Otávio de Noronha, Quarta
+Turma, julgado em 24/6/2024, DJe 27/6/2024 - grifo nosso).
+Ante o exposto, indefiro liminarmente os embargos de divergência (art. 266-C do RISTJ).
+Publique-se.
+EMENTA
+EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. INADMISSIBILIDADE. AUSÊNCIA DE COTEJO ANALÍTICO E BASES FÁTICAS DISTINTAS.
+Embargos de divergência indeferidos liminarmente.
