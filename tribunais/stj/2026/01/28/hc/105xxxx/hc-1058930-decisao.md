@@ -1,0 +1,23 @@
+DECISÃO
+JEAN CARLOS LEUTZ FURTADO alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, que denegou o HC n. 5090325-19.2025.8.24.0000.
+Consta dos autos que o paciente foi preso em flagrante e, posteriormente, teve a custódia convertida em preventiva, nos autos do processo em que foi denunciado pela suposta prática do crime de tráfico de drogas.
+A defesa pleiteia a concessão da ordem, "para revogar a prisão preventiva do Paciente, ainda que com imposição de todas as cautelares alternativas do artigo 319 do CPP" (fl. 14).
+A liminar foi por mim deferida, nos termos da decisão de fls. 78-81, para substituir a custódia preventiva do réu por medidas cautelares a ela alternativas.
+Depois de as informações haverem sido prestadas, o Ministério Público Federal manifestou-se pela denegação da ordem.
+Decido.
+O Juiz de primeiro grau, ao converter a prisão em flagrante do paciente em preventiva, assim fundamentou, no que interessa (fl. 69, destaquei):
+De acordo com as informações trazidas aos autos, durante a ocorrência, os policiais apreenderam 223 g de maconha, 65 g de crack e 104 g de cocaína.
+Repise-se, nesse ponto, que a quantidade expressiva de entorpecente mantido em depósito foge da normalidade, especialmente porque essa quantidade fracionada se traduziria em centenas de pequenas porções, gerando inúmeros delitos, ou, ainda, a venda do todo a uma única pessoa caracterizaria possivelmente uma espécie de tráfico vultuoso a outro traficante que então igualmente destinaria o produto a incontáveis usuários, pois toda essa quantidade não estaria ao alcance de um mero consumo individual, indicando, portanto, no caso concreto, a necessidade da segregação provisória do conduzido.
+Embora, por um lado, a decisão impugnada pudesse conter elementos mais robustos a indicar a necessidade da restrição da liberdade do paciente - o que se mostraria consentâneo com a sólida jurisprudência desta Corte, notadamente com o que tenho externado em outros casos (v. g., RHC n. 61.356/MG, DJe 6/11/2015) -, não há como perder de vista, por outro lado, que o Magistrado de primeiro grau mencionou que "os policiais apreenderam 223 g de maconha, 65 g de crack e 104 g de cocaína" (fl. 69).
+Tal circunstância, na compreensão do Juízo de primeiro grau, evidenciaria a necessidade de manutenção da custódia cautelar para o bem da ordem pública.
+Sem embargo, a despeito da reprovabilidade social do comportamento atribuído ao réu - a ensejar-lhe, se demonstrada a imputação, correspondente e proporcional sancionamento penal -, considero ser suficiente e adequada, na hipótese, a substituição da prisão preventiva por outras medidas cautelares a ela alternativas.
+É plenamente possível que, embora presentes os motivos ou os requisitos que tornariam cabível a prisão preventiva, o juiz - à luz do princípio da proporcionalidade e das novas alternativas fornecidas pela Lei n. 12.403/2011 - considere a opção por uma ou mais das medidas indicadas no art. 319 do Código de Processo Penal o meio suficiente e adequado para obter o mesmo resultado - a proteção do bem jurídico sob ameaça - de forma menos gravosa.
+Tal opção judicial produzirá o mesmo resultado cautelar - no caso em exame, evitar a prática de novos crimes, de maneira a proteger a ordem pública - sem a necessidade de suprimir, de modo absoluto, a liberdade de locomoção do acusado, notadamente porque, conforme reconheceu o próprio Magistrado de primeiro grau, era tecnicamente primário ao tempo do delito e possuidor de bons antecedentes (fl. 69).
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, concedo a ordem para, confirmada a liminar anteriormente deferida, substituir a prisão preventiva do paciente pelas seguintes medidas cautelares:
+a) compareci mento periódico em juízo, sempre que for intimado para os atos do processo e no prazo e nas condições a serem fixados pelo Juiz, a fim de informar seu endereço (que deverá ser informado também ao ser solto) e justificar suas atividades;
+b) proibição de ausentar-se da Comarca, quando a permanência seja conveniente ou necessária para a investigação ou instrução;
+c) recolhimento domiciliar noturno (das 20h de um dia às 6h do dia seguinte), sem prejuízo de imposição de outras medidas que o prudente arbítrio do Juiz natural da causa entender cabíveis e adequadas.
+Alerte-se ao paciente que a violação das medidas cautelares importará o restabelecimento da prisão preventiva, que poderá ser novamente aplicada se sobrevier situação que configure a exigência da cautelar mais gravosa.
+Comunique-se, com urgência, o inteiro teor desta decisão ao Juízo de primeiro grau e ao Tribunal de origem, para as providências cabíveis.
+Publique-se e intimem-se.
+EMENTA
