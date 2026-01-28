@@ -1,0 +1,10 @@
+DECISÃO
+RENATO GABRIEL DE LIMA alega ser vítima de constrangimento ilegal em decorrência do indeferimento do pedido de exclusão do processo da pauta de julgamento virtual para sessão presencial, porquanto teria interesse em realizar sustentação oral.
+O caso permite o julgamento antecipado do habeas corpus, por se adequar à pacífica orientação desta Corte em casos análogos, todos desfavoráveis à pretensão defensiva.
+Segundo a pacífica orientação desta corte, " n em mesmo o pedido de sustentação oral justifica a necessidade de julgamento presencial, pois esta Corte implementou plataforma e funcionalidade para que, também no plenário virtual, os advogados possam enviar aos ministros os arquivos de áudio ou vídeo com seus pronunciamentos orais" (EDcl no AgRg no RHC 196634 / DF, relator Ministro Rogério Schietti, DJe 29/10/2024), situação análoga ao que ocorreu na origem, conforme destacou a decisão impugnada, nestes termos (fl. 6):
+Como constou a fls.2227/2228, não há neste caso excepcionalidade (ou por complexidade fática, ou por teses jurídicas) que justifique repita-se - exceção à regra do Julgamento Eletrônico (artigos 2º e 3º da Resolução nº 984/2025) no qual está garantida às Partes oportunidade de manifestação oral (artigo 12 e parágrafos da Resolução nº 984/2025 desta Corte), como já decidiu o Superior Tribunal de Justiça (AgInt na TutPrv no AR Esp nº 2.650.438-DF, Rel. Min. Daniela Teixeira, 3ª T., j. em 06.05.2025)  ..
+Nesse sentido, ainda, " a  jurisprudência do STJ orienta que a oposição ao julgamento virtual não configura direito absoluto da parte, exigindo-se a demonstração fundamentada da imprescindibilidade da sessão presencial. A ausência de demonstração de prejuízo concreto, especialmente quando facultada a sustentação oral por meio eletrônico, afasta a alegação de cerceamento de defesa e a nulidade do julgado" (REsp 2155872 / P, relator Ministro Moura Ribeiro, DJe 6/11/2025).
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, denego in limine a ordem.
+Dê-se ciência ao Ministério Público Federal.
+Publique-se e intimem-se.
+EMENTA
