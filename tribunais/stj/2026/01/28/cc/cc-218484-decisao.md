@@ -1,0 +1,20 @@
+DECISÃO
+O JUÍZO DE DIREITO DA VARA CRIMINAL DE BARBOSA FERRAZ - PR suscita conflito de competência, em processo penal, diante do JUÍZO DE DIREITO DA VARA CRIMINAL DE AMAMBAI - MS.
+Cinge-se a controvérsia estabelecida neste incidente processual a saber qual o juízo competente para a realização de audiência de oitiva de testemunha residente no Mato Grosso do Sul, notadamente quando há expedição de carta precatória com essa finalidade.
+Ouvido, manifestou-se o Ministério Público Federal pelo conhecimento do conflito para que seja declarado competente o Juízo de Direito da Vara Criminal de Amambai - MS, ora suscitado, para realização do ato (fls. 13-16).
+Decido.
+Depreende-se dos autos que o Juízo suscitante expediu carta precatória para o Juízo suscitado, com a finalidade de que fosse ouvida testemunha residente naquela localidade. Entretanto, o referido Juízo devolveu a precatória. Ao suscitar o conflito, destacou o Juízo suscitante, com razão, o seguinte (fl. 6):
+ ..
+O §3º, do art. 222 do CPP, disciplina que a oitiva de testemunha residente fora da jurisdição do juiz, por meio do sistema de videoconferência, se trata de uma faculdade do Juízo.
+Cabe ao Juízo Deprecado a recusa no cumprimento de carta precatória somente nas hipóteses taxativas do artigo 267 do Código de Processo Civil, aplicável por força do artigo 3º do Código de Processo Penal, hipóteses essas ausentes no caso em tela.
+De fato, a realização de videoconferência é uma faculdade conferida ao Magistrado que conduz o processo e, portanto, não compete ao Juízo deprecado recusar o cumprimento da carta precatória, com exceção das hipóteses previstas no art. 267 do Código de Processo Civil, nem determinar forma de audiência diversa daquela que lhe foi deprecada.
+Nesse sentido:
+CONFLITO NEGATIVO DE COMPETÊNCIA. EXECUÇÃO PENAL. PENA PRIVATIVA DE LIBERDADE SUBSTITUÍDA POR RESTRITIVAS DE DIREITOS. CARTA PRECATÓRIA EXPEDIDA PELO JUÍZO SUSCITANTE. AUDIÊNCIA ADMONITÓRIA. RECUSA DO JUÍZO DEPRECADO. REALIZAÇÃO DE VIDEOCONFERÊNCIA DETERMINADA PELO JUÍZO DEPRECADO. IMPOSSIBILIDADE. FACULDADE DO JUÍZO DEPRECANTE. CONFLITO CONHECIDO. COMPETÊNCIA PARA A EXECUÇÃO DO JUÍZO SUSCITANTE. IMPOSSIBILIDADE DE O JUÍZO SUSCITADO DETERMINAR MODALIDADE DIVERSA DE REALIZAÇÃO DO ATO PROCESSUAL DEPRECADO.
+1. O presente conflito de competência deve ser conhecido, por se tratar de incidente instaurado entre juízos vinculados a Tribunais distintos, nos termos do art. 105, inciso I, alínea d, da Constituição Federal - CF.
+2. "A competência para a execução penal cabe ao Juízo da condenação, sendo deprecada ao Juízo do domicílio do apenado somente a supervisão e acompanhamento o cumprimento da pena determinada, inexistindo deslocamento de competência" (CC 113.112/SC, Terceira Seção, Rel Ministro Gilson Dipp, DJe 17/11/2011).
+3. A videoconferência - não obstante seja medida que visa agilizar a prestação jurisdicional, recomendada pelo Conselho Nacional de Justiça e pelo Conselho da Justiça Federal - é faculdade conferida ao Juízo da causa, não podendo o Juízo deprecado determinar modalidade de oitiva diversa daquela que lhe foi deprecada (CC 145.457/PA, de minha relatoria, TERCEIRA SEÇÃO, DJe 16/10/2017).
+4. Conflito de competência conhecido para declarar que a execução da pena compete ao Juízo Federal da 4ª Vara de Foz do Iguaçu - SJ/PR, o suscitante, e que incumbe ao Juízo Federal da 2ª Vara Criminal Especializada da Seção Judiciária do Estado do Amazonas, o suscitado, o cumprimento da carta precatória, da forma como determinada pelo Juízo deprecante. (CC n. 170.751/PR, relator Min. Joel Ilan Paciornik, DJe de 1º/6/2020, destaquei)
+Como destacou o Parquet Federal, ao se manifestar pelo reconhecimento da necessidade de cumprimento da precatória, a recusa do juízo suscitado não está fundamentada em quaisquer das hipóteses previstas na regra do art. 267 do CPC.
+À vista do exposto, conheço do conflito a fim de declarar competente o Juízo de Direito da Vara Criminal de Amambai - MS, ora suscitado, para o cumprimento da carta precatória expedida pelo Juízo suscitante.
+Publique-se. Dê-se ciência aos Juízos suscitante e suscitado.
+EMENTA
