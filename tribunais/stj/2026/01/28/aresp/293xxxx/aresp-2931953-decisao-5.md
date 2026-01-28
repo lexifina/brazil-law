@@ -1,0 +1,43 @@
+DECISÃO
+YAN GABRIEL SILVA agrava da decisão que inadmitiu o recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Santa Catarina na Apelação Criminal n. 5005496-89.2022.8.24.0007.
+O agravante foi condenado à pena de 3 anos e 6 meses de reclusão, em regime inicial aberto, mais multa, pela prática do crime de associação para o tráfico de drogas (art. 35 da Lei n. 11.343/06) .
+Nas razões de recurso especial, a defesa alega afronta aos arts. 157, caput e §1º, 158, 159, 240, 244, 386, VII, 564, III ou V, do Código Processo Penal, arts. 2º, I, e 6º, §§ 1º e 2, da Lei 9.296/2006, arts. 35, caput, e 42, da Lei 11.343/2006.
+O Tribunal de origem inadmitiu o recurso especial, sob fundamento da incidência das Súmulas n. 7 do STJ, e 284 do STF.
+O Ministério Público Federal apresentou parecer pelo não conhecimento ou não provimento do agravo (fls. 11553-11575).
+Decido.
+O agravo não comporta conhecimento, uma vez que não infirmou as motivações lançadas na decisão agravada.
+Em juízo de admissibilidade, a Corte de origem não admitiu o recurso especial em virtude da incidência das Súmulas n. 7 do STJ e 284 do STF (às fls. 10.189-10.191):
+- Óbice da Súmula 7 do STJ
+Nas razões do apelo especial, aponta a defesa a violação (1) do art. 157, caput, § 1.º, art. 240 e art. 244, todos do Código de Processo Penal para requerer o reconhecimento de nulidade por suposta violação do domicílio do corréu Mikael Kons, o que faz sob a tese de que a existência de mandado de prisão em aberto não excepcionaliza o ingresso e denota a ilegalidade da apreensão de seu aparelho celular, e ainda, requerer o reconhecimento de nulidade ante a indicação (no mandado de busca e apreensão) de endereço diverso daquele em que cumprido o mandado de prisão temporária; (2) do art. 6.º, §§ 1º e 2º, da Lei n. 9.296/1996, e arts. 158 e 159, § 1º, 157, § 1º, e 564, III ou V, todos do Código de Processo Penal, para requerer o reconhecimento de nulidade na ocorrência de suposta degravação parcial das informações extraídas do aparelho celular do corréu Mikael Kons, (3) do art. 35, caput, da Lei n. 11.343/06 e ao art. 386, inc. VII, do Código de Processo Penal para requerer sua absolvição da prática do crime de associação para o narcotráfico, pela insuficiência de provas da autoria delitiva, em especial, dos elementos subjetivos do crime (habitualidade e permanência).
+A respeito, a insurgência transborda as funções do Superior Tribunal de Justiça de primar pela correta interpretação do direito federal infraconstitucional e uniformizar a jurisprudência pátria, para o fim de reforma, pois a alteração do entendimento citado demandaria o revolvimento da moldura fática delineada no acórdão combatido, o que é vedado nesta via recursal, conforme preconizado na Súmula 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial").
+Recurso inadmitido.
+- Óbice da Súmula 284 do STF
+Relativamente à alegada violação ao art. 157, § 1.º, do Código de Processo Penal e ao art. 2 º, inc. I, da Lei n. 9.296/2006, o que faz a parte recorrente para buscar o reconhecimento de nulidade pela quebra de sigilo de dados do aparelho telefônico apreendido em posse do corréu Mikael Kons, pois lastreada em denúncia anônima ofertada à Polícia Civil, e ainda, ao art. 42 da Lei n. 11.343/06, diante do aumento da pena-base em razão da inexistência de apreensão de entorpecentes que suporte a exasperação, a admissão do recurso encontra óbice na Súmula 284 do STF, aplicável ao Recurso Especial por similitude, pois, das razões recursais, não se extrai impugnação específica aos fundamentos da decisão recorrida.
+Ao manifestar seu inconformismo, a parte recorrente traz a debate ilegalidade gerada pelo recebimento de denúncia anônima pelos agentes policiais, quando, em verdade, deveria ter se insurgido quanto suficiência ou não de fundamentos na autorização judicial que, diante da representação policial, deferiu o pleito. Ainda, relativamente ao art. 42 da Lei n. 11.343/06, lança a defesa a tese de inexistência de entorpecentes na posse do recorrente, quando, no voto objurgado, resta clara a exasperação com fundamento na apreensão de 70 (setenta) peças de maconha de qualidade "fita vermelha" e 70 (setenta) peças de maconha de qualidade "papel de presente", o que configura a deficiência na sua fundamentação, o que impede a exata compreensão da controvérsia.
+Recurso não admitido.
+É pacífico o entendimento desta Corte no sentido de que é ônus do agravante infirmar, de maneira específica e fundamentada, todos os fundamentos da decisão que inadmitiu o recurso especial, sob pena de incidência da Súmula 182 do STJ.
+O agravante não infirmou especificamente os óbices apontados. Da leitura do agravo, depreende-se que se limitou a impugnar as questões de forma abstrata, senão vejamos (fls. 10.593-10.625):
+Basta uma leitura atenta das decisões proferidas nos autos de origem para que se veja, às claras, que as contradições apontadas por esta defesa pairam justamente no tom genérico, e na consequente carência de fundamentação das decisões anteriormente proferidas, inexistindo necessidade de revolvimento da matéria fático- probatória, tão somente busca-se sua revaloração.
+ ..
+não se faz necessário um novo reexame das provas, mas em verdade uma mera análise das decisões de primeiro e de segundo grau
+ ..
+busca-se apenas a correta valoração dos fatos e provas já assentados - e reputados incontroversos.
+ ..
+não se procura o reexame de provas, mas, no máximo, uma revaloração das provas que já foram produzidas ao longo da instrução processual convalidadas pelo acórdão guerreado.
+ ..
+Aliás, mais do que apontar detida e detalhadamente cada uma das divergências, apresentou os acórdãos apontados como paradigma, em demonstração de cautela e diligência.
+Para tanto, deve-se reconhecer que as decisões anteriores, contrariaram manifestamente os dispositivos de Lei Federal, dando-os interpretação dissonante do entendimento jurisprudencial aplicado atualmente. (..) não merece prosperar a argumentação de que a deficiência da fundamentação não permite a ascensão do Recurso ao tribunal de destino, sendo, portanto, inaplicável a incidência do conteúdo inserto no Verbete Sumular 284 do Supremo Tribunal Federal, em analogia, já que toda a fundamentação apresentada é clara e suficiente para que se compreenda com absoluta exatidão os contornos da insurgência defensiva.
+Conforme aduzi, a Corte estadual obstou o prosseguimento do recurso especial com base nos óbices das Súmulas n. 7 do STJ e n. 284 do STF.
+Em relação ao primeiro óbice, todavia, a parte não esclareceu concretamente, entretanto, o porquê de ser dispensável o reexame de provas no caso em tela. Deveras, são insuficientes, para refutar esse fundamento de inadmissibilidade, assertivas genéricas de que a apreciação do recurso não demanda reexame de provas. A parte deve expor, com particularidade, que a alteração do entendimento adotado pelo Tribunal de origem independe da apreciação fático-probatória dos autos.
+Nessa perspectiva:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXIGÊNCIA DE IMPUGNAÇÃO
+ESPECÍFICA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. A teor do § 1.º do art. 1.021 do Código de Processo Civil, aplicável por força do art. 3.º do Código de Processo Penal, dispõe-se que "na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada".
+2. Não basta a mera afirmação em sentido oposto ao óbice, com argumentos que se contrapõem a qualquer decisão que se funde no conteúdo do Enunciado n.º 7 da Súmula do Superior Tribunal de Justiça, deve-se particularizar o fundamento de inadmissão, na medida da admissibilidade, sob pena de vê-lo mantido.
+3. Agravo regimental não conhecido.
+(AgRg no AREsp n. 1.575.387/SP, Rel. Ministra Laurita Vaz, 6ª T., DJe 21/2/2020, grifei).
+Portanto, verifica-se que o agravante não rebateu, concretamente, todos os óbices de admissão do REsp. Assim, é inegável que a defesa não se desincumbiu do ônus de expor integral, específica e detalhadamente os motivos de fato e de direito por que entende incorreta a decisão agravada, a atrair, à espécie, a Súmula n. 182 desta Corte Superior, segundo a qual "É inviável o agravo do art. 1.021, § 1º, do novo CPC que deixa de atacar especificamente todos os fundamentos da decisão agravada".
+À vista do exposto, com fundamento no art. 932, III, do CPC, c/c o art.
+253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se e intimem-se.
+EMENTA
