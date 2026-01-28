@@ -1,0 +1,11 @@
+DECISÃO
+A JUSTIÇA MILITAR DA UNIÃO (JUÍZO DA AUDITORIA DA 5ª CIRCUNSCRIÇÃO JUDICIÁRIA MILITAR DA UNIÃO) suscita conflito de competência, em inquérito policial, diante do JUÍZO FEDERAL DA 1ª VARA DE JOINVILLE - SJ/SC.
+A controvérsia estabelecida neste incidente processual cinge-se a saber qual o juízo competente para a adoção de eventual medida judicial que se faça necessária em investigação deflagrada pela suposta prática de crime de furto de veículo militar, utilizado pela Marinha do Brasil em missão operacional.
+Ouvido, manifestou-se o Ministério Público Federal pelo conhecimento do conflito para que seja declarado competente a Justiça Militar da União, ora suscitante (fls. 23-26).
+Decido.
+Conforme entendimento desta Corte, " a  definição da competência, cuidando-se de crime militar  .. , depende do bem jurídico tutelado pela norma, ou seja, da ocorrência ou não de violação de dever restrito e específico que caracteriza os crimes militares, cujas balizas se encontram exaustivamente delineadas no art. 9º do Código Penal Militar" (CC n. 147.828/RS, relator Ministro Rogerio Schietti, DJe 7/11/2016).
+No caso, como assinalou o Juízo suscitado, com a adoção dos fundamentos expostos pelo Ministério Público Federal, " o  veículo da Marinha é um bem que integra o patrimônio sob a administração das Forças Armadas do Brasil. No caso dos autos, configura-se crime militar impróprio (art. 155 do CP e art. 240 do CPM), a prática de crime de furto por civis de bem de propriedade da Marinha do Brasil, o que atrai a competência da Justiça Militar para análise dos fatos" (fl. 6, destaquei).
+Logo, " c onsiderando que o bem jurídico afetado pela conduta supostamente praticada pelos agentes teria sido o patrimônio da Administração Militar, é certo que, tratando-se de crime militar  .. , deve incidir ao caso a norma prevista no art. 9º do CPM, atraindo, portanto, a competência da justiça castrense para a análise e julgamento do feito, embora se trate de afronta aos comandos da Lei 8.666/93" (CC n. 146.761/RJ, relator Ministro Joel Ilan Paciornik, DJe de 20/10/2017).
+Diante do exposto, conheço do conflito para declarar competente a Justiça Militar da União (Juízo da Auditoria da 5ª Circunscrição Judiciária Militar da União), ora suscitante.
+Publique-se. Dê-se ciência aos Juízos suscitante e suscitado.
+EMENTA
