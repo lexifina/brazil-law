@@ -1,0 +1,30 @@
+DECISÃO
+GABRIEL RIBEIRO BRAGA agrava de decisão que não admitiu seu recurso especial interposto contra acórdão proferido pelo Tribunal de Justiça do Estado de Tocantins (Apelação Criminal n. 0016703-24.2024.8.27.2722).
+Consta dos autos que o recorrente foi condenado a 6 anos, 1 mês e 10 dias de reclusão, em regime fechado, mais multa, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+Nas razões do recurso especial, a defesa pretende a fixação da pena-base no mínimo legal e a fixação de regime inicial menos gravoso.
+O recurso especial foi inadmitido durante o juízo prévio de admissibilidade realizado pelo Tribunal de origem, o que ensejou a interposição deste agravo.
+O Ministério Público Federal opinou pelo conhecimento e provimento do agravo em recurso especial.
+Decido.
+I. Pena-base
+No que tange à pretendida redução da pena-base, cumpre salientar que a fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, no art. 5º, XLVI, da Constituição Federal, e nos arts. 59 do Código Penal e 387 do Código de Processo Penal.
+Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o quantum de pena a ser aplicada ao condenado criminalmente, visando à prevenção e à repressão do delito perpetrado.
+Assim, para chegar a uma aplicação justa da lei penal, o sentenciante, dentro dessa discricionariedade juridicamente vinculada, deve atentar-se para as singularidades do caso concreto, cumprindo-lhe, na primeira etapa do procedimento trifásico, guiar-se pelas circunstâncias relacionadas no caput do art. 59 do Código Penal, as quais não deve se furtar de analisar individualmente. São elas: culpabilidade; antecedentes; conduta social; personalidade do agente; motivos, circunstâncias e consequências do crime; comportamento da vítima.
+No caso, o Tribunal de origem entendeu pela manutenção da pena-base acima do mínimo legal nos seguintes termos (fls. 182-183, grifei):
+Ao fixar a pena-base, o juiz singular entendeu pela valorização negativa da circunstância judicial denominada natureza do produto por ser o crack uma substância extremamente nociva e de alto grau de dependência química.
+Ora, não tem razão o recorrente, pois idônea a fundamentação apresentada pelo juiz singular, porquanto, por força do art. 42 da Lei n. 11.343/2006, a quantidade e a natureza da droga têm preponderância sobre as circunstâncias judiciais do art. 59 do Código Penal e, na espécie, "A natureza e a quantidade da substância (art. 42 da Lei nº 11.343/06) devem ser interpretadas em desfavor do réu, ainda que a quantidade apreendida seja considerada pequena, em razão da natureza do entorpecente. Ressalta-se que o crack é uma substância extremamente nociva e de alto grau de dependência química, conforme evidenciado por estudos especializados  ..
+Ademais, não há que se falar que a natureza das drogas apreendidas (crack) é ínsita ao tipo penal, pois existe a possibilidade de condenação pelo crime de tráfico pela apreensão de diversos tipos de drogas e nem todas possuem a nocividade que a crack possui.
+E ainda, a definição da pena-base, não obedece a um critério objetivo e matemático, mas sim à discricionariedade do juiz que poderá aplicá-la, dentro das balizas legais e mediante fundamentação idônea, no patamar que entender necessário e suficiente à reprovação e prevenção do crime.
+No caso dos autos, onde se imputa ao apelante o crime de trafico de drogas, com pena mínima de 05 (cinco) e a máxima de 15 anos, o aumento de pena base em 01 (um) ano 01 (um) mês e 10 (dez) dias, em razão da qualidade do produto apreendido, revela-se proporcional e razoável.
+Pelo trecho transcrito, constato que a instância de origem, ao analisar as circunstâncias judiciais, considerou como desfavorável a natureza da droga apreendida (duas pequenas porções de crack).
+No entanto, embora a natureza do entorpecente constitua, de fato, circunstância preponderante a ser considerada na dosimetria da reprimenda e, apesar da droga ser, realmente, de alto poder viciante, entendo que a quantidade de material apreendido não foi tão expressiva a ponto de justificar o aumento da pena-base, de maneira que se mostra manifestamente desproporcional sopesar, no caso ora analisado, somente tal elemento para justificar a exasperação da pena-base.
+Ademais, entendo que a apreensão de certa quantidade de drogas, em contexto como o dos autos, é inerente ao próprio crime previsto no art. 33, caput, da Lei n. 11.343/2006, até porque o delito em questão exige, para fins de comprovação da sua materialidade, a apreensão de droga e a realização de laudo toxicológico definitivo, conforme entendimento, aliás, externado no AgRg no REsp n. 1.448.529/RJ, de relatoria da Ministra Maria Thereza de Assis Moura (DJe 23/4/2015).
+Diante de tais considerações, evidencio a ocorrência da apontada violação legal, a fim de reduzir a pena-base do recorrente para o mínimo legalmente previsto, ou seja, 5 anos de reclusão e pagamento de 500 dias-multa, porquanto todas as demais circunstâncias judiciais lhes foram tidas como favoráveis.
+II. Nova dosimetria
+Diante do redimensionamento da pena-base, deve ser realizada nova dosimetria da pena.
+Na primeira fase, a pena-base foi fixada em 5 anos de reclusão e 500 dias-multa, conforme acima analisado. Na segunda etapa, houve a compensação da agravante da reincidência com a atenuante da confissão. Na terceira fase, não há nenhuma causa de aumento ou de diminuição, motivo pelo qual fica a sanção do réu fixada em 5 anos de reclusão e pagamento de 500 dias-multa.
+Tendo em vista a reincidência do recorrente, mantenho o regime inicial fechado de cumprimento de pena.
+III. Dispositivo
+À vista do exposto, conheço do agravo e dou parcial provimento ao recurso especial, a fim de redimensionar a pena-base do acusado e, por conseguinte, reduzir a sua reprimenda para 5 anos de reclusão e pagamento de 500 dias-multa, mantido o regime inicial fechado.
+Comunique-se, com urgência.
+Publ ique-se e intimem-se.
+EMENTA
