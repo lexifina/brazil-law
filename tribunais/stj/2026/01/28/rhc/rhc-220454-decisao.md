@@ -1,0 +1,56 @@
+DECISÃO
+FRANCISCO ROMILDO PEREIRA VIANA alega sofrer coação ilegal em decorrência de acórdão do Tribunal de Justiça do Estado de Goiás que manteve a validade das provas obtidas e a persecução penal em seu desfavor.
+O Tribunal de origem denegou a ordem, assentando que não há ofensa à intimidade ou à privacidade na captação de imagens em local público, visto que tais locais são de acesso coletivo e não exigem autorização judicial, consignando ainda que as imagens teriam sido entregues espontaneamente por populares aos policiais.
+Nas razões deste recurso ordinário, a defesa reitera a tese de nulidade, alegando que a prisão em flagrante foi forjada, com invasão de domicílio e implantação de provas pelos policiais.
+Requer, ao final, o reconhecimento da ilicitude das provas obtidas sem autorização judicial, o seu desentranhamento dos autos e a anulação das provas ilícitas, nos termos do art. 157 do Código de Processo Penal.
+A liminar foi indeferida.
+O Ministério Público Federal manifestou-se pelo não provimento do recurso (fls. 157-160).
+Decido.
+O recurso não comporta provimento. Analiso as teses defensivas pontualmente.
+I. Ilicitude da prova de vídeo (captação de imagens)
+A defesa sustenta que a prova consistente em mídia de vídeo é ilícita, sob o argumento de que a câmera teria sido instalada por policiais no interior de um estabelecimento privado (bar), sem autorização judicial, violando o art. 5º, X, da Constituição Federal.
+Contudo, as instâncias ordinárias, soberanas na análise fática, assentaram premissa diversa. O Tribunal de origem, ao denegar a ordem, consignou expressamente que as imagens captadas referiam-se a local público e foram entregues espontaneamente por populares, afastando a tese de "ação controlada" ou intervenção estatal direta que exigisse reserva de jurisdição.
+Confira-se trecho do acórdão recorrido (fl. 63):
+A autoridade impetrada revelou que, em meados de 2018, a Polícia Militar recebeu diversas denúncias indicando a ocorrência de tráfico de drogas, com indicação das características do suspeito e do local do cometimento do delito. Posteriormente, em fevereiro de 2020, um popular não identificado entregou ao Comandante do Destacamento da Polícia Militar de Hidrolândia-GO, PM Thiago de Freitas Stecca, uma mídia física contendo imagens, de local público, demonstrando a intensa movimentação de pessoas na residência do paciente, supostamente usuários.
+Diante disso, após prévias investigações e diante da fundada suspeita, dirigiram-se até o local e realizaram a busca pessoal e domiciliar, encontrando, dentro de um tijolo furado, 23 (vinte e três) porções de crack, individualizadas, prontas para o meio consumidor, ensejando a prisão em flagrante delito pela prática de crime permanente.
+E prossegue a Corte estadual (fls. 64-65):
+Todavia, não há que se falar em ofensa à intimidade ou à privacidade, tampouco em ilicitude da prova obtida por meio da captação de imagens em local público, haja vista a desnecessidade de autorização judicial para sua realização, uma vez que foram entregues espontaneamente aos policiais por populares inconformados com a ocorrência de tráfico de drogas na região.
+Assim, não expõe ilegalidade a decisão que indeferiu o desentranhamento da prova, devidamente fundamentada na legalidade das imagens, ausente vício ou defeito na sua obtenção, captadas em local público, ausente qualquer violação à intimidade ou ao domicílio do investigado, nos termos do art. 5º, inciso X, da Constituição Federal, não havendo constrangimento ilegal a ser reparado pela via mandamental.
+Insta salientar que o Superior Tribunal de Justiça, em recente julgamento, consignou que a câmera instalada em local público, com o registro de local aberto e de acesso coletivo, não compromete o direito à intimidade nem configura interceptação ou captação ilícita de dados privados, em conformidade com o princípio constitucional da segurança pública, não configurando ação controlada, prevista no art. 53, inciso II, da Lei 11.343/2006, a exigir autorização judicial.
+A jurisprudência desta Corte Superior é firme no sentido de que não há ilicitude na captação de imagens em locais públicos ou abertos ao público, tampouco violação à intimidade quando tais registros são utilizados para a elucidação de delitos, mormente quando inexiste expectativa de privacidade no local monitorado.
+Nessa perspectiva:
+ ..
+3. O Tribunal de origem considerou que a diligência consistiu apenas no monitoramento de um suspeito de tráfico de drogas, deixando de configurar ação controlada, conforme previsto na Lei de Drogas e dispensando a necessidade de autorização judicial.
+4. A jurisprudência do egrégio Superior Tribunal de Justiça estabelece que inexiste nulidade pela configuração de ação controlada sem prévia autorização judicial quando se trata de mera observação e monitoramento da movimentação do suspeito para constatar a prática do crime.
+5. O monitoramento realizado deixa de violar o direito à intimidade, pois a câmera foi instalada em um poste de energia elétrica, captando imagens da via pública (espaço de acesso coletivo, e não privado), em conformidade com o princípio constitucional da segurança pública. Então, descaracteriza-se ação controlada, prevista no art. 53, II, da Lei 11.343/2006, a exigir autorização judicial. A câmera exclusivamentre registrou a movimentação do investigado em espaço público, sem invasão à privacidade protegida constitucionalmente, algo que poderia ser feito por qualquer agente policial de forma presencial, com a natural posterior admissão em juízo a título de prova testemunhal, e a captação por meio de filmagem resguarda a ampla defesa e o contraditório, na medida em que é fidedigna aos fatos.
+(AgRg no RHC n. 203.030/SC, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 1/4/2025, DJEN de 8/4/2025, grifei.)
+Ademais, para desconstituir a conclusão do Tribunal a quo, de que as imagens foram captadas em via pública e entregues por terceiros, e acolher a versão defensiva, seria imprescindível o revolvimento aprofundado de matéria fático-probatória, providência incompatível com a via estreita do habeas corpus.
+II. Busca e apreensão
+No mesmo sentido, não prospera a alegação de que a obtenção do pendrive configurou busca e apreensão ilegal realizada pela polícia. Conforme as informações prestadas pelo Juízo de primeiro grau (fl. 127), a prova não foi fruto de medida invasiva estatal, mas de colaboração popular:
+O pedido foi indeferido, em razão da ausência de ilicitude, tendo em vista que as imagens foram entregues espontaneamente por populares ao comandante da Polícia Militar de Hidrolândia, com o objetivo de colaborar com a investigação. Tais imagens estão referidas no termo de exibição e apreensão e foram utilizadas, em conjunto com denúncias anônimas, para subsidiar o procedimento investigativo que resultou na prisão em flagrante do acusado, na posse de substâncias entorpecentes, conforme relatório de investigação.
+Assim, não houve atuação coercitiva do Estado para a obtenção da mídia, mas sim entrega voluntária por particular ("fonte independente"), não há que se falar em violação às normas constitucionais que regem a busca e apreensão (art. 240 do CPP).
+III. Nulidade do flagrante e invasão de domicílio
+A defesa alega que a prisão foi forjada e que houve invasão de domicílio sem mandado judicial. Ocorre que o crime de tráfico de drogas, na modalidade "manter em depósito" (art. 33 da Lei n. 11.343/2006), possui natureza permanente, protraindo-se sua consumação no tempo.
+Nesse sentido:
+ ..
+Nos crimes permanentes, admite-se o ingresso no domicílio sem mandado judicial quando constatadas fundadas razões que indiquem a situação de flagrância, sendo prescindível a certeza prévia da prática delitiva, bastando que as circunstâncias objetivas autorizem a medida.
+ ..
+(AgRg no HC n. 844.245/MS, relator Ministro Og Fernandes, Sexta Turma, julgado em 1/7/2025, DJEN de 7/7/2025.)
+O ingresso policial foi justificado por fundadas razões (justa causa), amparadas não apenas em denúncias anônimas, mas na superveniência de elementos concretos (vídeos demonstrando mercancia/movimentação atípica) que indicavam a flagrância delitiva no interior da residência.
+Extrai-se das informações processuais (fl. 126):
+Relata ainda a denúncia que, no mês de julho de 2018, a Polícia Militar passou a receber diversas informações de que o paciente estaria comercializando entorpecentes no endereço onde residia, gerando insatisfação na comunidade local. Em fevereiro de 2020, um popular não identificado entregou ao Comandante do Destacamento da Polícia Militar de Hidrolândia-GO, PM Thiago de Freitas Stecca, uma mídia física (pendrive) contendo imagens que demonstravam intensa movimentação de pessoas na residência do paciente, supostamente usuários.
+Diante dos fortes indícios de tráfico no local, os policiais dirigiram-se à residência do paciente, abordando-o em frente à casa, onde também se encontrava sua irmã, Márcia Daiane Pereira Viana, que acompanhou toda a ação policial.
+Consta, ainda, que o imóvel é composto por um lote com três barracões, sendo o acesso à casa do paciente separado por um corredor. As substâncias entorpecentes estavam acondicionadas em saco plástico, escondidas na parede do corredor de entrada do barraco do paciente.
+Conforme entendimento consolidado no STJ (Tema n. 280 do STF e precedentes da Sexta Turma), a entrada forçada em domicílio sem mandado judicial é lícita quando amparada em fundadas razões, devidamente justificadas a posteriori, que indiquem a ocorrência de crime permanente, como verificado no caso em tela.
+Quanto à tese de que a droga teria sido "plantada" pelos policiais ou de que o flagrante foi "forjado", trata-se de alegação que demanda dilação probatória para ser verificada, o que é inviável na via do recurso ordinário em habeas corpus. As instâncias ordinárias consideraram válidos os depoimentos policiais e a apreensão das "23 (vinte e três) porções de crack", prova que não foi elidida de pela defesa (fl. 63).
+IV. Julgamento citra petita
+Por fim, não se verifica a nulidade do acórdão por julgamento citra petita. Ao reconhecer a licitude das provas que fundamentaram a ação policial (vídeos e denúncias) e, consequentemente, validar a justa causa para a prisão em flagrante, o Tribunal de origem repeliu, lógica e implicitamente, as teses de "flagrante forjado" e "invasão de domicílio".
+O julgador não está obrigado a rebater, um a um, todos os argumentos das partes, quando já tiver encontrado motivo suficiente para fundar a decisão, nesse sentido:
+ ..
+Não há se falar em omissão do Tribunal local quanto às teses outrora deduzidas, porquanto efetivamente houve pronunciamento do Tribunal a quo acerca dos temas, cumprindo asseverar que o julgador não é obrigado rebater, um a um, todos os argumentos das partes, bastando que resolva a situação que lhe é apresentada sem se omitir sobre os fatores capazes de influir no resultado do julgamento, o que ocorreu na espécie.
+ ..
+(AgRg no REsp n. 2.197.503/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 3/12/2025, DJEN de 10/12/2025.)
+V. Dispositivo
+À vista do exposto, nego provimento ao recurso em habeas corpus.
+Publique-se e intimem-se.
+EMENTA
