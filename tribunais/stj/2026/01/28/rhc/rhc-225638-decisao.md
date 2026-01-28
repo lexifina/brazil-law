@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso em habeas corpus de JONATHAN PEREIRA BRAGA contra o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo nos autos do HC n. 2242206-40.2025.8.26.0000, que denegou a ordem (fls. 79/86).
+Em embargos de declaração, houve parcial acolhimento apenas para desconsiderar um parágrafo, preservando-se a denegação da ordem (fls. 104/112).
+O recorrente alega, em síntese, que o acórdão recorrido desconsiderou o objeto do pedido - declarar a ilicitude do reconhecimento pessoal feito no distrito policial - e tratou indevidamente de autoria e de trancamento da ação penal.
+Afirma que, ainda que absolutamente nulo, o reconhecimento nem sequer pode servir de base para o oferecimento da denúncia.
+Aduz que o procedimento de reconhecimento não observou o art. 226 do Código de Processo Penal, porque as vítimas, em nenhum momento, descreveram previamente os supostos roubadores, e não foram colocadas pessoas semelhantes ao lado do paciente no ato, havendo, inclusive, divergência quanto à cor da pele atribuída ao reconhecido.
+Sustenta a inadmissibilidade da prova ilícita, devendo ser desentranhada, bem como a incidência da teoria dos frutos da árvore envenenada.
+Pede, ao final, o provimento do recurso para reconhecer a ilicitude do reconhecimento pessoal realizado no distrito policial, com seu desentranhamento dos autos e a ressalva de impossibilidade de repetição em juízo em razão da contaminação dos reconhecedores (fls. 92/98) - processo de origem: n. 1500409-81.2025.8.26.0338, em trâmite perante o Juízo de Direito da 1ª Vara Judicial da Comarca de Mairiporã (fls. 81/82).
+Contrarrazões apresentadas pelo Procurador de Justiça Maurício Augusto Gomes, aduzindo que o habeas corpus não comporta dilação probatória; que eventual invalidação do reconhecimento deve ser buscada na origem; que o reconhecimento fotográfico ou pessoal realizado na fase policial pode alicerçar a denúncia e instruir a ação penal, dependendo de outros elementos para eventual condenação; e que, no caso, há outros elementos, como o reconhecimento da corrente de ouro em poder do paciente, afastando a nulidade alegada (fls. 121/126).
+É o relatório.
+Quanto à alegada ilicitude do reconhecimento pessoal realizado em solo policial, assim fundamentou o acórdão atacado (fls. 83/85):
+Consta das informações que o paciente buscou, com o habeas corpus impetrado na origem, a nulidade do procedimento de reconhecimento pessoal.
+Todavia, este cumpriu com as normas e entendimentos jurisprudenciais vigentes e não se tratou de prova isolada nos autos, tendo em vista que acompanhada pelo reconhecimento da corrente de ouro pertencente à vítima, que estava em poder do paciente.
+(..)
+Anote-se que nesta fase processual, não se exige prova plena da imputação para autorizar o recebimento da denúncia, assim como não é imprescindível que o magistrado examine de forma aprofundada e valorativa os elementos probatórios constantes dos autos, bastando que eles apresentem a verossimilhança da acusação.
+O habeas corpus não comporta dilação probatória, cabendo a análise acerca da absolvição do paciente ser feito pelo d. juízo a quo, em momento oportuno.
+Da mesma forma, a respeito da alegação de ilegalidade no reconhecimento pessoal do paciente. Qualquer tentativa de invalidação deve ser realizada na ação penal de origem, pois o writ não comporta dilação probatória.
+Ademais, o reconhecimento pessoal pode ser válido para alicerçar a denúncia e instruir a ação penal, mas dependerá de outros elementos probatórios para eventual condenação.
+(..)
+Ainda, conforme consta, o reconhecimento pessoal não foi o único elemento de prova a ser considerado pela autoridade policial, existindo, em tese, outros que fizeram entender pela autoria delitiva.
+Da atenta leitura dos autos afigura-se inviável acolher-se a pretensão, porquanto não constatado o alegado constrangimento ilegal, já que o acórdão atacado registrou que o reconhecimento pessoal cumpriu com as normas e entendimentos jurisprudenciais vigentes (fl. 83).
+Da mesma forma, o juízo a quo apontou a ausência de ilegalidade no reconhecimento (fl. 20):
+Por fim, este Juízo proferiu a decisão de fls 68/73, que denegou a ordem, uma vez que não há nulidade no reconhecimento fotográfico efetuado em solo policial, quando mais que o procedimento foi realizado em continuidade às investigações iniciadas, após levantamento de conjunto probatório robusto, que bem demonstrou os indícios de autoria.
+Assim, tendo as instâncias ordinárias firmado a premissa de ausência de nulidade no reconhecimento pessoal, desconstituir tal afirmação implicaria incursionar no acervo fático-probatório, o que se mostra incabível na via eleita.
+Ademais, entendo que o mencionado reconhecimento, somado à apreensão de parte da res furtivae em poder do recorrente, se mostram como provas inicialmente angariadas suficientes para, neste momento processual, a continuidade da ação penal, já que constituem indícios de autoria.
+Cabe lembrar que tais indícios probatórios serão ainda confrontados com as provas produzidas ao longo da instrução criminal, momento adequado para a devida análise minuciosa da autoria, inclusive porque, repito, nesta via estreita do habeas corpus não é possível a análise detalhada de questões que necessitem incursão profunda no acervo probatório dos autos.
+Com efeito, embora a jurisprudência mais recente desta Corte tenha se alinhado no sentido de que eventual reconhecimento fotográfico e/ou pessoal efetuado em sede inquisitorial em descompasso com os ditames do art. 226 do CPP não podem ser considerados provas aptas, por si sós, a engendrar uma condenação sem o apoio do restante do conjunto probatório produzido na fase judicial, isso não implica em que não possam ser considerados indícios mínimos de autoria aptos a autorizar a prisão cautelar e a deflagração da persecução criminal (AgRg no RHC n. 158.163/MG, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 15/2/2022).
+Somado a isso, ainda que eventualmente fosse reconhecida pelo juízo de origem a invalidade do reconhecimento, tal circunstância não implicaria, por si só, a impossibilidade de condenação do recorrente, caso existissem nos autos outras provas autônomas e indepen dentes aptas a embasar o édito condenatório.
+Portanto, descabido o pleito de desentranhamento dos autos do reconhecimento realizado.
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+Publiqu e-se.
+EMENTA
+RECURSO ORDINÁRIO EM HABEAS CORPUS. ROUBO. ILICITUDE DO RECONHECIMENTO PESSOAL REALIZADO EM SOLO POLICIAL. ART. 226 DO CÓDIGO DE PROCESSO PENAL. PREMISSA DE AUSÊNCIA DE NULIDADE FIRMADA PELAS INSTÂNCIAS ORDINÁRIAS. IMPOSSIBILIDADE DE DESCONSTITUIÇÃO POR MEIO DA VIA ELEITA. RECONHECIMENTO CORROBORADO PELA APREENSÃO DE PARTE DA RES FURTIVAE. EXISTÊNCIA DE INDÍCIOS DE AUTORIA. NECESSIDADE DE AGUARDAR A INSTRUÇÃO PROCESSUAL.
+Recurso ordinário improvido.
