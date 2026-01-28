@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por HAMILTON RODRIGUES contra acórdão da Sexta Câmara Criminal do Tribunal de Justiça do Estado de São Paulo, no Habeas Corpus n. 2179402-36.2025.8.26.0000.
+Consta nos autos que o paciente responde à Ação Penal n. 0022084-75.2022.8.26.0114, em trâmite perante a 6ª Vara Criminal da Comarca de Campinas/SP. A defesa, em resposta à acusação, alegou a incompetência do juízo e requereu a remessa dos autos à 1ª Vara Criminal de Campinas/SP, por entender que esta seria a prevento. O pedido foi indeferido pela juíza da 6ª Vara em decisão de 28/04/2025.
+A defesa impetrou habeas corpus perante o Tribunal de origem, que não conheceu da ordem (e-STJ, fls. 143-149).
+Daí o presente recurso ordinário em habeas corpus, a defesa alega constrangimento ilegal, pois houve violação ao princípio do juiz natural e ao devido processo legal.
+Argumenta que a prevenção da 1ª Vara Criminal se consolidou: (i) pela análise inicial do flagrante de Luís Henrique; (ii) pela decretação de medidas cautelares relacionadas às apreensões.
+Alega que a distribuição à 6ª Vara foi viciada desde o início, não podendo ser convalidada por posterior julgamento de fatos conexos.
+Rechaça a aplicação da Súmula n. 235 do STJ, por entender que esta não afasta a prevenção quando já estabelecida no nascedouro da persecução penal.
+Sustenta que a comunicação administrativa da 1ª Vara, indicando "engano", não tem força para afastar a competência legalmente fixada.
+Requer, ao final: (a) a reforma integral do acórdão da 6ª Câmara de Direito Criminal do TJSP, para superar a tese de não cabimento e conceder a ordem de habeas corpus; (b) a remessa imediata dos autos da ação penal à 1ª Vara Criminal de Campinas/SP, reconhecendo-a como juízo competente por prevenção; (c) a declaração de nulidade dos atos decisórios praticados pela 6ª Vara Criminal, em observância ao princípio do juiz natural.
+Sem pedido liminar e dispensadas as informações, o Ministério Público opinou pelo não provimento do recurso (e-STJ, fls. 183-185).
+É o relatório.
+Decido.
+O Tribunal de origem permaneceu silente diante das questões suscitadas.
+Embora seja pacífico que o magistrado não está obrigado a rebater todos os argumentos trazidos pelas partes, é imperativo que se manifeste sobre os pontos centrais da controvérsia, expondo os fundamentos que embasam sua decisão.
+Isso porque o exercício da magistratura, guiado pelos pilares da persuasão racional e da jurisdição democrática, encontra seu alicerce no dever inafastável de fundamentação. Tal exigência, consagrada no art. 315, § 2º, do Código de Processo Penal e art. 489, § 1º, do Estatuto Processual Civil, em harmonia com o art. 93, inciso IX, da Constituição da República, não apenas legitima a decisão judicial, como a insere no universo do controle jurisdicional, permitindo que seja examinada, compreendida e, se necessário, contestada. É pela força da razão exposta que o juiz dialoga com a sociedade e assegura a transparência do poder que exerce.
+No caso em apreço, a Corte deixou de enfrentar questão expressamente suscitada e relevante para a solução do litígio, alegando, para tanto, a inadequação do habeas corpus.
+Todavia, a impetração de habeas corpus revela-se plenamente cabível quando se busca a verificação da competência jurisdicional, pois tal exame está diretamente vinculado à garantia constitucional do juiz natural, prevista no art. 5º, inciso LIII, da Constituição da República. Esse dispositivo consagra que ninguém será processado nem sentenciado senão pela autoridade competente, assegurando ao acusado não apenas a imparcialidade do julgador, mas também a estrita observância das regras de competência estabelecidas em lei. Assim, o habeas corpus, como instrumento de tutela da liberdade, torna-se meio legítimo e adequado para afastar constrangimento ilegal decorrente da atuação de juízo incompetente, reafirmando o compromisso do Estado de Direito com a legalidade, a segurança jurídica e a preservação das garantias fundamentais.
+Confira-se:
+PROCESSUAL PENAL. HABEAS CORPUS. FORO PRIVILEGIADO POR PRERROGATIVA DE FUNÇÃO. CABIMENTO DO WRIT. AÇÃO PENAL POR ATO ADMINISTRATIVO PRATICADO NO EXERCÍCIO DO CARGO. EX-PREFEITO. COMPETÊNCIA DO TRIBUNAL DE APELAÇÃO. PREVALÊNCIA DA LEI 10.628/2002 ENQUANTO NÃO SOBREVIER O JULGAMENTO DE MÉRITO DA ADIN Nº 2.797. ORDEM CONCEDIDA.
+1. Segundo a jurisprudência dominante, é cabível a impetração de habeas corpus para verificar questão relativa à competência jurisdicional, em face da garantia constitucional expressa no art. 5º, inc. LIII, da Constituição Federal.
+ ..
+4. Ordem concedida, sem prejuízo dos atos processuais praticados anteriormente, considerando que o processo penal foi ajuizado em data anterior à edição da lei atacada. (HC n. 35.853/PR, relator Ministro Arnaldo Esteves Lima, Quinta Turma, julgado em 4/11/2004, DJ de 6/12/2004, p. 345.)
+HABEAS CORPUS. AÇÃO PENAL. NULIDADE. INCOMPETÊNCIA DO JUÍZO. PRINCÍPIO DO JUIZ NATURAL. ALEGADA OFENSA. NULIDADE ABSOLUTA. CONHECIMENTO DO MANDAMUS.
+1. Possível o conhecimento de remédio constitucional em que se alega a incompetência material da Justiça Militar, ou seja, ofensa ao postulado do Juiz Natural, pois a situação enquadra-se, embora por vias oblíquas, na dicção do art. 5º, LXVIII, da CF, que prevê o habeas corpus como ação constitucional que presta-se a repelir constrangimento ilegal ou ameaça à liberdade de locomoção, por abuso de poder ou ato de autoridade, já que uma ação criminal sempre acarreta gravames que importam ou podem importar em restrição à liberdade do acusado.
+ ..
+4. Ordem denegada, cassando-se a liminar anteriormente concedida, que apenas suspendia o curso da ação penal em questão. (HC n. 114.825/PR, relator Ministro Jorge Mussi, Quinta Turma, julgado em 29/9/2009, DJe de 9/11/2009.)
+Ante o exposto, dou provimento ao recurso ordinário em habeas corpus, a fim de conceder a ordem para determinar que o Tribunal de origem realize novo julgamento, com a devida apreciação das alegações vertidas na impetração originária, como bem entender de direito.
+Publique-se. Intimem-se.
+EMENTA
