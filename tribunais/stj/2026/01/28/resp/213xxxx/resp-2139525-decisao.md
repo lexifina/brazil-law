@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto por LICÍ NIO COSTA SIQUARA e OUTROS do acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO assim ementado (fls. 146/147):
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. GAT. INCIDÊNCIA. VENCIMENTO BÁSICO. REFLEXO REMUNERATÓRIO. RESP. 1.585.353/DF. DESCABIMENTO. AUSÊNCIA DE TÍTULO JUDICIAL QUE RESPALDE A PRETENSÃO EXECUTIVA. EXECUÇÃO INDIVIDUAL EXTINTA.
+1. Trata-se de agravo de instrumento interposto pela UNIÃO FEDERAL visando à reforma da decisão proferida nos autos da execução de título judicial nº 00756237120184025101, em que se assentou o entendimento segundo o qual, no título judicial exequendo, restou reconhecido que a GAT possui natureza de vencimento básico e que, portanto, sobre ela devem incidir os demais reflexos remuneratórios, conforme defendido pelos exequentes.
+2. Alega a agravante que a execução iniciada pelos servidores/aposentados/pensionistas extrapolou os limites objetivos da coisa julgada, afigurando-se incongruente em relação ao título. Afirma que nada mais é devido pela União Federal tendo em vista que os valores cobrados pelos exequentes referem-se aos reflexos remuneratórios decorrentes da integração equivocada da Gratificação de Atividade Tributária - GAT ao vencimento básico, o que não está previsto no julgado exequendo.
+3. A Sétima Turma Especializada, em sessão com composição ampliada, reconheceu que não há título judicial que respalde a pretensão dos exequentes de incidência da GAT na base de cálculo de outras rubricas, não compondo, assim, a referida gratificação o vencimento básico dos servidores, conforme precedentes: processos nº 0000924- 52.2019.4.02.0000, nº 0001002-46.2019.4.02.0000 e nº 0008806- 02.2018.4.02.0000.
+4. Deve a execução, dessa forma, ser extinta, nos termos do art. 535, III, e art. 925 do CPC.
+5. Honorários advocatícios devidos pelos agravados em R$ 20.000,00 (vinte mil reais), pro rata, nos termos do art. 85, parágrafo 8º, do CPC/2015.
+6. Agravo de instrumento da União Federal provido.
+Os embargos de declaração opostos foram rejeitados (fls. 196/202).
+Nas razões de seu recurso, a parte recorrente afirma (fl. 236) :
+iii) de qualquer sorte, excluir a condenação dos recorrentes em honorários advocatícios sucumbenciais, como consequência lógico-jurídica da desconstituição do título judicial, preservando a segurança jurídica dos jurisdicionados, em garantia a boa-fé objetiva destes, preservando a observância aos princípios da sucumbência e causalidade, conforme dispõe o art. 85 do CPC.
+A parte adversa apresentou contrarrazões (fls. 272/280).
+O recurso foi admitido na origem (fl. 286).
+É o relatório.
+Uma das questões debatidas nos autos foi afetada à Primeira Seção do Superior Tribunal de Justiça para ser decidida sob o rito de recursos repetitivos (Tema 1.399/STJ), e foi assim delimitada:
+"Definir se, na execução individual de sentença coletiva, extinta em decorrência da desconstituição do título judicial que lhe dava suporte, operada pela procedência de ação rescisória manejada pela Fazenda Pública, é cabível ou não a condenação da parte exequente ao pagamento de honorários advocatícios" (RE sps 2.199.392/RJ e 2.182.044/RN, relator Ministro Marco Aurélio Bellizze).
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+O envio do recurso especial a esta Corte Superior deve ocorrer somente após o esgotamento da instância ordinária, formalizado com o novo julgamento pelo Tribunal de origem, quando então será possível examinar, no âmbito do STJ, as matérias jurídicas que eventualmente permanecerem controvertidas. Essa cautela também evita o fracionamento do recurso e previne eventual violação ao princípio da unicidade recursal, que veda a interposição simultânea ou sucessiva de recursos contra a mesma decisão.
+Ante o exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil (CPC), o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do mesmo CPC.
+Publique-se. Intimem-se.
+ EMENTA
