@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Estado de Minas Gerais, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do Tribunal de Justiça do Estado de Minas Gerais assim ementado (fl. 387):
+APELAÇÃO CÍVEL - EXECUÇÃO FISCAL - EXTINÇÃO - AUSÊNCIA DE INTERESSE DE AGIR - VALOR IRRISÓRIO - POSSIBILIDADE - PRECEDENTE - STF - TEMA 1.184 - SENTENÇA MANTIDA. Conforme reconhecido pelo Supremo Tribunal Federal, ao apreciar o Tema 1.184, é legítima a extinção de execução fiscal de baixo valor em razão da ausência de interesse de agir.
+Os embargos de declaração, opostos pelo Estado de Minas Gerais, foram parcialmente providos, sem efeitos modificativos, apenas para correção material quanto ao polo passivo (fls. 442/451).
+A parte recorrente alega violação dos arts. 1.022, inciso II, e parágrafo único, II, c/c 489, § 1º, IV e V, do Código de Processo Civil (CPC), pois entende que o acórdão deixou de enfrentar argumentos relevantes e limitou-se a invocar precedente sem demonstrar a adequação do caso concreto.
+A tese recursal sustenta: (i) omissão quanto ao valor atualizado do título (superior a R$ 10.000,00); (ii) necessidade de somatório das execuções apensadas nos termos do art. 1º, § 2º, da Resolução 547/2024 do Conselho Nacional de Justiça (CNJ); (iii) caracterização de grande devedor pela dívida global superior a R$ 1.500.000,00; (iv) execução exitosa com penhora e quitação parcial; e (v) inexistência de paralisação indevida (fls. 465/468). Afirma, ainda, que a decisão "invocou precedente vinculante sem demonstrar que o caso em julgamento efetivamente se ajusta aos seus fundamentos" (fl. 468).
+Sustenta ofensa aos arts. 17 e 485, VI, do CPC, ao argumento de que há interesse processual da Fazenda Pública diante de critérios objetivos de desjudicialização e de eficiência administrativa que, no presente caso, recomendam o prosseguimento da execução, considerando valor atualizado acima do patamar de baixo valor, soma de execuções apensadas, grande devedor e efetividade do processo com penhora e pagamento parcial (fls. 468/471).
+Aponta violação do art. 1º, parágrafo único, da Lei 9.492/1997, alegando que o protesto extrajudicial da Certidão de Dívida Ativa (CDA) não é, por si só, medida mais eficiente neste caso, em razão do perfil econômico do devedor e da existência de outras execuções em andamento.
+Aponta, também, violação do art. 14, § 3º, II, da Lei Complementar 101/2000 (Lei de Responsabilidade Fiscal), afirmando que o parâmetro legal de cancelamento de créditos inferiores ao custo de cobrança não se aplica mecanicamente e indistintamente a execuções com resultado útil comprovado, devendo prevalecer a análise de eficiência administrativa contextual (fls. 466/449).
+Argumenta que a correta interpretação do Tema 1184 do Supremo Tribunal Federal (STF) exige cotejo de eficiência e interesse de agir com base em um conjunto de fatores e não apenas no valor histórico do débito.
+Contrarrazões apresentadas às fls. 478/481.
+O recurso foi admitido (fls. 486/487).
+É o relatório.
+Na origem cuida-se de execução fiscal, cobrança de crédito tributário inscrito em dívida ativa.
+A parte recorrente alega ofensa ao art. 1.022 do Código de Processo Civil porque o Tribunal de origem não teria se manifestado sobre os seguintes aspectos essenciais ao deslinde da controvérsia:
+a) "No presente caso, as execuções apensadas somam quase R$150.000,00, e o valor global da dívida do executado ultrapassa R$1.500.000,00. Desconsiderar este somatório e a capacidade econômica do devedor viola a própria lógica da eficiência administrativa e premia a sonegação fiscal" (fl. 469);
+b) "Houve penhora nos autos com quitação parcial da dívida, mediante transferência de R$8.324,58 para a conta do Tesouro Estadual. Tal fato demonstra a utilidade e a efetividade da execução judicial"(fl. 469).
+Constato que, apesar de provocado nos embargos de declaração às fls. 414/423, o Tribunal de origem manteve-se silente sobre essas questões.
+Para o Superior Tribunal de Justiça, presente algum dos vícios - omissão, contradição ou obscuridade -, e apontada a violação do art. 1.022 do CPC no recurso especial, deve ser anulado o acórdão proferido pelo Tribunal de origem ao examinar os embargos de declaração lá opostos, retornando-se os autos à origem para nova apreciação do recurso.
+A propósito, cito estes julgados:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. ACIDENTE DE TRÂNSITO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015 CONFIGURADA. ACÓRDÃO ESTADUAL OMISSO QUANTO A PONTO ESSENCIAL AO DESLINDE DA CONTROVÉRSIA. AGRAVO DESPROVIDO.
+1. Decisão atacada que deu provimento ao recurso especial da parte ora agravada para, reconhecendo violação ao art. 1.022 do CPC/2015, anular o acórdão que julgou os aclaratórios e determinar o retorno dos autos ao Tribunal de origem para novo julgamento dos embargos de declaração, como entender de direito, sanando a omissão reconhecida.
+2. Fica configurada a ofensa ao art. 1.022 do CPC/2015 quando o Tribunal a quo, apesar de devidamente provocado nos embargos de declaração, não se manifesta sobre tema essencial ao deslinde da controvérsia.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 1.914.275/PB, relator Ministro Raul Araújo, Quarta Turma, julgado em 28/6/2021, DJe de 9/8/2021.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. VIOLAÇÃO AO ART. 535 DO CPC/73 CONFIGURADA. OCORRÊNCIA DE OMISSÃO DE TEMA ESSENCIAL PARA DESLINDE DA CONTROVÉRSIA. AGRAVO INTERNO PROVIDO PARA DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL.
+1. Na hipótese de o eg. Tribunal local deixar de examinar questão nevrálgica ao desate do litígio, fica caracterizada a violação ao art. 535 do CPC/73.
+2. Reconhecida a existência de omissão essencial para o deslinde da controvérsia, deve-se determinar o retorno dos autos ao eg. Tribunal de origem para novo julgamento dos embargos de declaração, como entender de direito, sanando os vícios ora reconhecidos.
+3. Acolhida a alegada ofensa ao art. 535 do CPC/73, fica prejudicada a análise das demais teses trazidas no apelo nobre.
+4. Agravo interno provido para reconsiderar a decisão agravada e dar parcial provimento ao recurso especial e, reconhecendo a violação ao art. 535, II, do CPC/73, anular o v. acórdão de fls. 201/203, determinando o retorno dos autos ao eg. Tribunal a quo para promover novo julgamento dos embargos de declaração, como entender de direito.
+(AgInt no AREsp n. 218.092/RJ, relator Ministro Lázaro Guimarães - Desembargador Convocado do TRF da 5ª Região, Quarta Turma, julgado em 2/8/2018, DJe de 8/8/2018.)
+Ante o exposto, conheço do recurso especial e a ele dou provimento para reconhecer o vício de omissão e, assim, anular o acórdão recorrido, determinando o retorno dos autos à origem para novo exame dos embargos de declaração.
+O provimento do recur so especial prejudica as demais matérias nele suscitadas.
+Publique-se. Intimem-se.
+EMENTA
