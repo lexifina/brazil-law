@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto pelo MINISTÉRIO PÚBLICO DO CEARÁ contra a decisão que inadmitiu o recurso especial (fundado no art. 105, III, a e c, da CF) apresentado contra o acórdão proferido pelo Tribunal de Justiça local (Agravo de Execução n. 0059007-63.2009.8.06.000).
+Nas razões do recurso especial, o órgão ministerial alegou negativa de vigência ao art. 123 da Lei de Execução Penal, sustentando que o acórdão recorrido, ao conceder a saída temporária ao agravado, contrariou os parâmetros legais ao ignorar que o benefício deve ser obstado pelo histórico de reincidência em práticas criminosas após interrupções anteriores no cumprimento da pena e pela expressiva quantidade de pena remanescente. Afirmou que o apenado cumpriu apenas 38% da sanção imposta, havendo 42 anos de pena remanescente, o que evidenciaria a incompatibilidade do benefício com os objetivos da sanção penal.
+A Corte de origem inadmitiu o recurso com fundamento na Súmula 83/STJ (fls. 86/90).
+Contra o decisum, o órgão ministerial interpôs o presente agravo (fls. 97/101).
+O Ministério Público Federal opinou, às fls. 130/136, pelo conhecimento do agravo e provimento do recurso especial.
+É o relatório.
+O agravo preenche os requisitos de admissibilidade, pois é tempestivo e impugnou o fundamento da decisão de inadmissão.
+O recurso especial comporta provimento.
+Embora seja pacífico o entendimento de que a longa pena a cumprir, isoladamente, não constitui fundamento suficiente para a negativa do benefício, essa orientação não autoriza a concessão automática da saída temporária mediante o mero preenchimento do requisito objetivo temporal, desconsiderando elementos concretos desfavoráveis.
+A jurisprudência deste Superior Tribunal é firme no sentido de que a análise do requisito subjetivo do comportamento adequado deve abranger a valoração global da vida carcerária do apenado, incluindo antecedentes de evasões, tentativas de fuga e registros que demonstrem risco concreto de frustração da execução penal. Assim, por exemplo:: AgRg no HC 977.655/RJ, Relator Ministro Carlos Cini Marchionatti, Quinta Turma, julgado em 18/6/2025.
+Conforme se extrai da decisão de primeiro grau, o indeferimento da benesse não se fundamentou exclusivamente na pena remanescente, mas em circunstâncias concretas (fls. 12/13 - grifo nosso):
+Diante dos elementos apresentados, observa-se que o perfil do apenado exige uma análise criteriosa para a concessão do benefício de saída temporária, em razão de sua alta periculosidade e do elevado risco de evasão, evidenciado pelo histórico de fuga e reincidência, o que reforça a necessidade de rigor na apreciação do presente pedido.
+O apenado cumpre pena total de 68 anos e 7 meses de reclusão, restando ainda 42 anos, 2 meses e 8 dias a serem cumpridos, por crimes de alta gravidade. Registra-se, ainda, histórico de reincidência em práticas criminosas após interrupções anteriores no cumprimento da pena, o que evidencia a inadequação de medidas cautelares mais brandas neste momento.
+O acórdão recorrido, ao desconsiderar tais fundamentos e conceder a saída temporária com base apenas no cumprimento do requisito objetivo temporal, violou o art. 123 da Lei de Execução Penal, além de contrariar jurisprudência consolidada desta Corte Superior.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial, cassando o acórdão recorrido e restabelecendo a decisão de primeiro grau que indeferiu o benefício da saída temporária ao agravado.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. SAÍDA TEMPORÁRIA. ART. 123 DA LEI DE EXECUÇÃO PENAL. REQUISITOS CUMULATIVOS. COMPORTAMENTO ADEQUADO. COMPATIBILIDADE COM OS OBJETIVOS DA PENA. ANÁLISE CONCRETA. HISTÓRICO DE FUGA E REINCIDÊNCIA. ELEVADO RISCO DE EVASÃO. PENA REMANESCENTE EXPRESSIVA. INADEQUAÇÃO DO BENEFÍCIO. FUNDAMENTAÇÃO CONCRETA PELO JUÍZO DE ORIGEM. ACÓRDÃO RECORRIDO DISSONANTE DA JURISPRUDÊNCIA CONSOLIDADA DESTE SUPERIOR TRIBUNAL.
+Agravo conhecido para dar provimento ao recurso especial.
