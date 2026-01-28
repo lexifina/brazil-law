@@ -1,0 +1,16 @@
+DECISÃO
+DOUGLAS FABIÃO DA SILVA alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro na Revisão Criminal n. 0029334-06.2025.8.19.0000.
+Consta dos autos que o paciente foi condenado à pena de 6 anos e 9 meses e 20 dias de reclusão, em regime inicial fechado, mais multa, pela prática do crime previsto no art. 33, caput, c/c o art. 40, III, ambos da Lei n. 11.343/2006.
+A defesa aduz, inicialmente, que não há prova suficiente de que o apenado concorreu para o delito, motivo por que pleiteia a sua absolvição com fundamento no art. 386, V, do Código de Processo Penal.
+Sustenta, ainda, que a apreensão de maconha em quantidade inferior a 40g para consumo pessoal não constitui infração penal, razão pela qual postula a absolvição do paciente ou, subsidiariamente, a desclassificação da conduta.
+O Ministério Público Federal apresentou parecer pelo não conhecimento do writ ou, se conhecido, pela denegação da ordem (fls. 458-463).
+Decido.
+Este habeas corpus se insurge contra acórdão de revisão criminal proferido em 6/8/2025, contra o qual não houve interposição de recurso, conforme certificado em 16/9/2025 (fl. 72), data em que foi determinado o arquivamento definitivo do feito. Em 25/10/2025, a defesa impetrou este habeas corpus, de modo que o presente writ é substitutivo de revisão criminal.
+Por força do art. 105, I, "e", da Constituição Federal, a competência desta Corte para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados. Como não existe no STJ julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência deste Tribunal para o processamento do presente pedido.
+Importante destacar que esta Corte, em diversas ocasiões, reconheceu a impossibilidade de uso do habeas corpus em substituição à revisão criminal, assim se posicionando: "o trânsito em julgado do acórdão que julga a apelação criminal, sem que haja a inauguração da competência deste Sodalício, torna incognoscível o pedido de habeas corpus" (AgRg no HC n. 805.183/SP, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/3/2024, DJe de 15/3/2024).
+Na mesma direção, cito, ainda, as seguintes decisões monocráticas: HC n. 905.628/SP, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe 17/4/2024; HC n. 905.340/SP, Rel. Ministra Daniela Teixeira, DJe 17/4/2024; HC n. 905.232/SP, Rel. Ministro Messod Azulay Neto, DJe 17/4/2024; HC n. 904.932/PR, Rel. Ministro Antonio Saldanha Palheiro, DJe 16/4/2024.
+Muito embora não se ignore a ampliação do uso do habeas corpus nem a importância dessa ação constitucional para a defesa da liberdade de locomoção, a crescente quantidade de impetrações, que, antes, deveriam ser examinadas em instâncias diversas, prejudica as funções constitucionais desta Cortem em detrimento da eficácia do recurso especial, o que enfraquece a delimitação de teses para trazer uniformidade e previsibilidade ao sistema jurídico.
+Registro, por oportuno, que não constato a presença de manifesta ilegalidade que autorize a concessão da ordem de habeas corpus de ofício.
+À vista do exposto, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
