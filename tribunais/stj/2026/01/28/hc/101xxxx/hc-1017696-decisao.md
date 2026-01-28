@@ -1,0 +1,18 @@
+DECISÃO
+O presente habeas corpus, impetrado em favor de THIAGO MOSTIACK DE SOUSA contra o ato coator proferido pelo TRIBUNAL DE JUSTIÇA DE SANTA CATARINA que, nos autos do Agravo em Execução n. 8000811-32.2025.8.24.0023/SC, deu provimento ao recurso do Ministério Público estadual, indeferindo a remição pretendida (Execução n. 8000829-87.2024.8.24.0023, Vara de Execuções Penais da comarca de Florianópolis/SC), não merece acolhimento.
+A defesa requer a concessão da remição por estudo (45 dias), alegando, em síntese, que o paciente realizou três cursos profissionalizantes na modalidade EAD - Copeiro (180 horas), Direção Defensiva (180 horas) e Jardineiro (180 horas) - totalizando 540 horas, com matrícula, estudo, provas realizadas no estabelecimento prisional, aprovação e emissão de certificados, posteriormente homologados no sistema da unidade.
+Aduz que a CENED possui registro junto ao Ministério da Educação e é signatária de termo de cooperação com a Secretaria de Administração Prisional e Socioeducativa de Santa Catarina, atendendo às exigências legais e pedagógicas para certificação de cursos e remição por estudo, inclusive na modalidade a distância.
+In casu, não verifico a ilegalidade alegada .
+O Tribunal de origem destacou que (fl. 40 - grifo nosso):
+Nos diplomas acostados à execução n. 8000829-87.2024.8.24.0023 (sequencial 47.2 do SEEU), consta que a instituição de ensino e os respectivos cursos têm registro no Sistema de Nacional de Informações da Educação Profissional e Tecnológica - SISTEC do Ministério da Educação, mais precisamente sob n. 43.079, o que tornaria a formação regular, conforme lista de cadastro disponibilizada pelo Centro de Educação Profissional - CENED na sua página eletrônica: https://www.cenedqualificando.com.br/Arquivos/relacao-cursos-cadastrados- mec-sistec.pdf.
+Ocorre que ao consultar o registro n. 43.079 no SISTEC/MEC no site do Ministério da Educação (Attps://sistec.mec.gov.br/consultapublicaunidadeensino#), consta que a instituição CENED tem autorização para ministrar à distância os cursos de Técnico em Secretaria Escolar e Técnico em Transações Imobiliárias, não constando regularização quanto aos cursos de "Direção Defensiva", "Formação para Copeiro", e "Formação para Jardineiro".
+Se não há autorização à instituição para fornecimento dos cursos, pelo órgão responsável, não há como considerá-los válidos para fins de remição, sob pena de desvirtuar o instituto e permitir o aceite de cursos irregulares e que não atendem aos critério da lei de execução penal e da Resolução CNJ n. 391/2021.
+Ora, nos termos do art. 126, § 2º, da Lei de Execução Penal, a remição de pena em virtude de estudo realizado pelo apenado, seja presencialmente, seja na modalidade à distância, exige tanto a apresentação de certificado emitido por entidade educacional devidamente credenciada perante o Ministério da Educação, a fim de cumprir os requisitos exigidos na Recomendação n. 44 do Conselho Nacional de Justiça, quanto a demonstração de que o reeducando participou efetivamente das atividades educacionais (AgRg no HC n. 721.471/SP, de minha relatoria, Sexta Turma, DJe 31/3/2022).
+No caso, os cursos realizados pelo paciente não se encontram autorizados pelo Ministério da Educação, não sendo possível reconhecer seus efeitos para fins de remição pelo estudo.
+Assim, ausente flagrante ilegalidade a ser sanada.
+Nesse mesmo sentido: AgRg no HC n. 921.964/SC, Ministro Ribeiro Dantas, Quinta Turma, julgado em 9/9/2024, DJe de 12/9/2024.
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO. CURSO A DISTÂNCIA. INSTITUIÇÃO DE ENSINO NÃO AUTORIZADA. IMPOSSIBILIDADE. PRECEDENTE. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+Ordem denegada.
