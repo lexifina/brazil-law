@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto pela Fazenda Nacional, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do Tribunal Regional Federal da 2ª Região assim ementado (fls. 596/597):
+APELAÇÃO. TRIBUTÁRIO. EXECUÇÃO FISCAL. PRESCRIÇÃO MATERIAL. HONORÁRIOS. LEI N. 10.522/2002. CABIMENTO.
+1. UNIÃO FEDERAL interpõe apelação em face da sentença do evento 138, proferida pela 10ª Vara Federal de Execução Fiscal do Rio de Janeiro, que acolheu a exceção de pré-executividade para reconhecer a prescrição ordinária da pretensão executiva fazendária, julgando extinta a presente execução fiscal, com base no art. 487, II do CPC. A sentença condenou a União em honorários, nos limites dos percentuais mínimos do artigo 85 do Código de Processo Civil de 2015 (Temas 961 e 1076 do STJ).
+2. De acordo com a atual redação do inciso I do § 1º do art. 19 da Lei nº 10.522/2002, que foi dada pela Lei n. 12.844/2013, a Fazenda Nacional é isenta da condenação em honorários de sucumbência nos casos em que, citada para apresentar resposta, inclusive em embargos à execução fiscal e em exceções de pré-executividade, reconhecer a procedência do pedido nas hipóteses dos arts. 18 e 19 da Lei n. 10.522/2002.
+3. No caso, no evento 126, datado de 11/2022, a executada, ora apelada apresentou exceção de pré- executividade requerendo o reconhecimento da prescrição material, com a extinção da execução, bem como a exclusão das multas e dos juros de mora, além da condenação da União em honorários.
+4. Instada a se manifestar sobre a exceção, a União reconheceu a procedência do pedido em relação à multa moratória e aos juros, requerendo sua isenção de honorários, nos termos do art. 19, 1º, I, da Lei 10.522/2002. Além disso, no tocante à prescrição, requereu nova vista dos autos, por se tratar de débitos muito antigos
+5. Como se vê, não é cabível, na hipótese, a aplicação do disposto no art. 19, § 1º, inc. I, da Lei 10.522/2002. Isso porque, a questão de isenção de honorários passa necessariamente pela análise da presença de uma das hipóteses dos incisos dos artigos 18 e 19 da Lei nº 10.522/2002.
+6. Nesta perspectiva, não incide a norma que isenta a União do pagamento de honorários, prevista no artigo 19, § 1º, I, da Lei nº 10.522/2002, uma vez que, apesar do reconhecimento do pedido pela exequente (após a alegação do executado de prescrição material na exceção de pré-executividade), a ocorrência de prescrição material/originária não se enquadra em nenhuma das hipóteses elencadas no dispositivo em análise.
+7. Além disso, incabível a aplicação do art. 90, § 4º do CPC ("Proferida sentença com fundamento em desistência, em renúncia ou em reconhecimento do pedido, as despesas e os honorários serão pagos pela parte que desistiu, renunciou ou reconheceu").
+8. Isto porque a União em nenhum momento reconheceu a procedência da prescrição material/originária do crédito tributário, limitando-se a requerer, no evento 135, prazo de 30 dias para análise dos débitos por serem muito antigos.
+9. Desta forma, deve a União ser condenada ao pagamento de honorários, tal qual consignado na sentença.
+10. Apelação da União desprovida.
+Os embargos de declaração opostos foram rejeitados (fls. 639/640).
+A parte recorrente alega violação dos arts. 489, § 1º, IV, e 1022, II, do CPC, sustentando o acórdão recorrido incorreu em omissão quanto à alegação do ente fazendário no sentido de que o reconhecimento do pedido teve como base o Parecer da PGFN/CDA 877/2007, aprovado pela Procuradoria Geral da Fazenda Nacional, o que enquadraria o caso no disposto no art. 19, II, da Lei 10.522/2002.
+Sustenta ofensa ao arts. 19, II e § 1º, I, da Lei 10.522/2002, ao argumento de que o reconhecimento da procedência do pedido, com base em parecer vigente aprovado pelo Procurador-Geral da Fazenda Nacional, afasta a condenação em honorários de sucumbência, inclusive em exceção de pré-executividade.
+Subsidiariamente, a recorrente pleiteou que seja aplicado ao caso o disposto no art. 94, §4º, do CPC, já que reconheceu o pedido e cumpriu a prestação reconhecida.
+Contrarrazões apresentadas às fls. 667/675.
+O recurso foi admitido (fl. 681).
+É o relatório.
+Inexiste a alegada violação do art. 1.022 e do art. 489, § 1º, IV, do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, tendo o Tribunal de origem apreciado fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade.
+A parte recorrente sustenta omissão da instância ordinária no tocante à ausência de manifestação do Tribunal de origem quanto ao reconhecimento do pedido teve como base o Parecer da PGFN/CDA 877/2007, aprovado pela Procuradoria Geral da Fazenda Nacional.
+Todavia, conforme se depreende da análise do acórdão recorrido, o Tribunal de origem, de modo expresso, fundamentado e coeso, enfrentou cada um dos pontos supostamente omissos, tendo concluído que a União em nenhum momento reconheceu a procedência da prescrição material/ordinária do crédito tributário, limitando-se a requerer prazo de 30 dias para análise dos débitos por serem muito antigos.
+É importante ressaltar que o contraponto aos argumentos das partes não demanda a citação literal de suas palavras ou dos mesmos dispositivos legais. É suficiente que haja fundamentação fática e jurídica coerente e adstrita ao que se debate nos autos.
+Inexiste, portanto, qualquer omissão no acórdão recorrido.
+Por sua vez, não há como se conhecer do recurso especial por violação dos art. 19, II e § 1º, I, da Lei 10.522/2002 e art. 94, §4º, do CPC, pois o Tribunal de origem expressamente consignou que não houve reconhecimento algum por parte da recorrente que apenas solicitou prazo de 30 dias para analisar o caso por se tratar de débitos muito antigos.
+Assim, rever a conclusão a que chegou o Tribunal de origem implicaria necessidade de reexame de fatos e provas, o que e vedado por força da Súmula 7/STJ.
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
