@@ -1,0 +1,67 @@
+DECISÃO
+Trata-se de recurso especial interposto pela União, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra decisão monocrática (fls. 263/271) e acórdão em agravo interno do Tribunal Regional Federal da 3ª Região assim ementado (fls. 310/321):
+AGRAVO INTERNO. ART. 1.021, § 3º DO NCPC. REITERAÇÃO. RECOLHIMENTO DE IRPJ E CSLL COM ALÍQUOTA REDUZIDA. SERVIÇOS HOSPITALARES. REQUISITOS IMPLEMENTADOS. AGRAVO DESPROVIDO.
+A vedação insculpida no art. 1.021, §3º do CPC/15 contrapõe-se ao dever processual estabelecido no §1º do mesmo dispositivo.
+Se a parte agravante apenas reitera os argumentos ofertados na peça anterior, sem atacar com objetividade e clareza os pontos trazidos na decisão que ora se objurga, com fundamentos novos e capazes de infirmar a conclusão ali manifestada, decerto não há que se falar em dever do julgador de trazer novéis razões para rebater alegações genéricas ou repetidas, que já foram amplamente discutidas.
+Agravo interno desprovido.
+Os embargos de declaração opostos foram rejeitados (fls. 374/380).
+A parte recorrente alega violação dos arts. 15, § 1º, inciso III, alínea a, e 20, inciso III, da Lei n. 9.249/1995, pois entende que o benefício fiscal (alíquotas de 8% para o Imposto de Renda de Pessoa Jurídica (IRPJ) e de 12% para a Contribuição Social sobre o Lucro Líquido (CSLL)) exige, cumulativamente, prestação de serviços hospitalares, constituição sob a forma de sociedade empresária e atendimento às normas da Agência Nacional de Vigilância Sanitária (ANVISA), e que tais requisitos somente foram satisfeitos a partir de 29/6/2022, data do alvará sanitário, não podendo alcançar período anterior.
+Sustenta ofensa ao art. 1.022, inciso II, do Código de Processo Civil (CPC), ao argumento de que o acórdão da apelação/agravo interno não enfrentou questão relevante e potencialmente modificativa do resultado: a definição do termo inicial do direito às alíquotas reduzidas à luz do cumprimento dos requisitos legais, em especial o atendimento às normas da ANVISA, apesar da oposição de embargos de declaração (fls. 395/399).
+Aponta violação dos arts. 15, §1º, inciso III, alínea a, e 20, inciso III, da Lei n. 9.249/1995, alegando que o Tribunal de origem reconheceu o direito às alíquotas reduzidas desde novembro de 2019 sem a comprovação, naquele período, de atendimento às normas sanitárias e de objeto social compatível com "atividade médica ambulatorial com recursos para realização de procedimentos cirúrgicos", incluída apenas em 11/5/2022, e com licença sanitária emitida em 29/6/2022).
+Argumenta que o ônus da prova (art. 373 do CPC) impõe ao contribuinte comprovar, documentalmente, o atendimento às normas da ANVISA em cada estabelecimento onde presta serviços hospitalares, e que, por se tratar de benefício fiscal, aplica-se a interpretação literal (art. 111 do Código Tributário Nacional (CTN)), o que reforça a necessidade de observância estrita dos requisitos legais para a fruição das alíquotas reduzidas.
+Contrarrazões apresentadas às fls. 407/426.
+O recurso foi admitido (fls. 427/430).
+É o relatório.
+Na origem cuida-se de mandado de segurança, com pedido de reconhecimento do direito ao recolhimento do IRPJ e da CSLL com alíquotas reduzidas (8% e 12%) para serviços hospitalares e o direito à compensação do indébito, observados os limites legais.
+Nos termos do que dispõe o art. 1.022 do Código de Processo Civil (CPC), cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição ou suprir omissão de ponto ou questão sobre a qual o juiz devia se pronunciar de ofício ou a requerimento, bem como para corrigir erro material.
+No que importa à controvérsia de que trata o recurso especial, confira-se os seguintes trechos da decisão monocrática que negou provimento à remessa necessária e ao recurso da rejeitou o recurso de apelação da União (fls. 268/270):
+Destarte, a partir da vigência da Lei Federal nº 11.727/08, em 1º de janeiro de 2009, a redução de alíquotas apenas é aplicável às sociedades empresárias que atendam às normas da ANVISA mediante alvará da vigilância sanitária estadual ou municipal.
+A respeito dos serviços "Home Care", esta E. Corte Regional possui entendimento de que se trata de atividade em continuidade ao tratamento hospitalar enquadrando-se aos termos do art. 15 § 1º, inciso III, "a", da Lei 9.249/95:
+(..)
+Verifica-se, ainda, que a impetrante é constituída sob a forma de sociedade empresária, conforme consta no contrato social.
+E ainda, como salientou o juízo a quo:
+Consoante os dizeres da decisão exarada, à exclusão das simples consultas, as demais atividades, ainda que prestadas fora do estabelecimento hospitalar, desde que estejam voltadas diretamente à promoção da saúde, devem ser consideradas "atividades tipicamente hospitalares" gozando da redução das alíquotas dos tributos, na forma da legislação de regência.
+Assim, passo ao exame dos documentos colacionados pela impetrante, de modo a propiciar o julgamento da controvérsia.
+De acordo com o contrato social apresentado nos autos, a parte possui o seguinte objeto social (ID. 262136191 - fls.4/5):
+"Cláusula Primeira
+A sociedade gira sob o nome empresarial SOPED GESTÃO HOSPITALAR LTDA. e tem sua sede social à Avenida Conselheiro Carrão, nº830 - Conj.4 - Chácara Califórnia - São Paulo/SP, CEP 03402-000, e tem por objeto social:
+Atividade Principal:
+8610-1/01 - Atividades de atendimento hospitalar, exceto pronto socorro e unidades para atendimento a urgências
+Atividades Secundárias:
+8610-1/02 - Atividades de atendimento em pronto-socorro e unidades hospitalares para atendimento a urgências
+8630-5/01 - Atividade médica ambulatorial com recursos para realização de procedimentos cirúrgicos
+8630-5/02 - Atividade médica ambulatorial com recursos para realização de exames complementares
+8630-5/03 - Atividade médica ambulatorial restrita a consultas.
+8630-5/06 - Serviços de vacinação e imunização humana
+8599-6/04 - Treinamento em desenvolvimento profissional e gerencial.
+O "Comprovante de Inscrição e Situação Cadastral" de ID. 262136192 enuncia como atividade econômica principal da impetrante: "86.10-1-01 - Atividades de atendimento hospitalar, exceto pronto-socorro e unidades para atendimento a "urgências
+A par disso, a Licença de Funcionamento expedida pela Prefeitura da Cidade de São Paulo - Vigilância Sanitária igualmente atesta autorização para a prestação de serviços de saúde, notadamente atividade médica ambulatorial com recursos para realização de procedimento cirúrgicos (ID. 262136194).
+O "Certificado de Inscrição de Pessoa Jurídica" emitido pelo CREMESP, por seu turno, classifica a atividade da impetrante como "Prestação de serviços médicos terceirizados " (ID 262136195).
+Outrossim, a impetrante encontra-se inscrita no Cadastro Nacional de Estabelecimentos de Saúde, de acordo com os documentos de I Ds. 264613249 e 264613852.
+Com esse necessário registro acerca da documentação, passo ao exame do pedido formulado.
+A impetrante, em consonância com as notas fiscais apresentadas nos autos e dizeres da inicial, postula as reduções das alíquotas para a prestação de serviços de pediatria, com realização de procedimentos e plantões, que são considerados como tipicamente hospitalares.
+Em consonância com as autorizações firmadas pelas autoridades administrativas, acima explicitadas, a impetrante demonstrou realizar procedimentos relativos a serviço hospitalar em plantão pediátrico (ID. 264613247 - fl.2), bem como exames clínicos pediátricos (ID. 264613247 - fl.3)."
+Deste modo, adequado o reconhecimento do direito da impetrante aos benefícios do artigo 15, § 1º, III, "a", e artigo 20, caput, ambos da Lei 9.249/1995, bem como à restituição ou compensação do indébito.
+Mesmo após o oferecimento de agravo interno (fls. 276/282), a decisão foi mantida (fls. 310/321).
+Ofertados embargos de declaração (fls. 339/343), também foram rejeitados por considerar-se ausente qualquer omissão e/ou contradição (fls. 374/380).
+Observa-se que em nenhuma das decisões monocráticas fora analisada a questão, devidamente prequestionada, concernente ao termo a quo para se considerarem preenchidos o s requisitos hábeis ao reconhecimento de redução de alíquotas, mais especificamente o que diz respeito à data do registro perante a ANVISA, comprovado mediante expedição do alvará respectivo.
+Nas contrarrazões ao recurso especial (fls. 407/426), a recorrida afirma nos itens 43/50 e 53/54 que:
+43. A ausência de licença específica não descaracteriza a prestação de serviços hospitalares, visto que a RDC nº 50/2002 da ANVISA não prevê qualquer certificação prévia da agência para a execução dos serviços.
+44. Sobre essa questão, a própria ANVISA esclareceu que a regularização da atividade hospitalar ocorre via Cadastro Nacional de Estabelecimentos de Saúde (CNES), vinculado ao Ministério da Saúde, com posterior comunicação à Receita Federal para fins de enquadramento tributário:
+Nota da ANVISA sobre o tema: "Para atendimento do disposto na Lei nº 9.249/1995, o solicitante terá que se enquadrar num dos serviços de saúde relacionados pela Receita Federal, a partir da realização de cadastro no Cadastro Nacional de Estabelecimentos de Saúde (CNES) no âmbito do Ministério da Saúde, e posterior encaminhamento à Receita Federal do Brasil."
+45. Ademais, a própria Fazenda Nacional reconhece que sociedades empresárias médicas fazem jus à tributação reduzida, independentemente do local da prestação dos serviços. O Parecer SEI nº 7689/2021/ME, documento oficial da Procuradoria-Geral da Fazenda Nacional, afirma expressamente que a tributação diferenciada se aplica a serviços hospitalares prestados em ambiente de terceiros, desde que respeitadas as normas sanitárias: Trecho do Parecer SEI nº 7689/2021/ME: "As alíquotas reduzidas para os prestadores de serviços hospitalares alcançam serviços de Home Care e sociedades que se utilizam da estrutura de terceiro, desde que organizadas sob a forma de sociedade empresária e obedeçam às normas da ANVISA, possuindo alvará de funcionamento."
+46. No caso concreto, a Recorrida atende integralmente a esses requisitos, possuindo autorização de funcionamento e licença da vigilância sanitária para realizar consultas pediátricas, terapias, imunizações e pequenos procedimentos cirúrgicos, conforme documentação acostada em sua peça inaugural (ID 262136192 e 262136194).
+47. O direito à tributação reduzida, portanto, não se vincula à posse de um alvará específico, mas sim à natureza da atividade exercida e ao cumprimento das normas sanitárias gerais, já que o STJ já afastou a exigência de comprovação de estrutura hospitalar complexa e funcionamento ininterrupto para a fruição do benefício tributário (REsp nº 924.947/PR). (grifos nossos).
+48. Essa interpretação é reforçada pelo próprio entendimento deste E. STJ no REsp nº 1.116.399/BA, que afasta qualquer exigência subjetiva baseada na estrutura física da empresa e adota um critério objetivo vinculado à natureza do serviço prestado.
+49. Analisando a Lei n. 9.249/95, é possível observar que o legislador não dispôs expressamente sobre a necessidade de que o serviço seja obrigatoriamente executado na sede da empresa e não prevê a obtenção de licenças e alvarás. 50. Portanto, a ANVISA não emite um certificado de cumprimento das regras, o que denota um procedimento repressivo em caso de descumprimento da legislação e não um movimento preventivo de autorização prévia do órgão para confirmação da obediência aos procedimentos das RDCs.
+(..)
+53. Por fim, o Tribunal de origem já reconheceu, com base nas provas dos autos, que a Recorrida exerce atividade hospitalar e cumpre as normas sanitárias exigidas, sendo inviável qualquer reexame probatório nesta instância, conforme estabelecido pela Súmula 7 do STJ: Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+54. Assim, resta demonstrado que o argumento da União carece de fundamento jurídico e fático, sendo inviável a sua pretensão recursal.
+Não obstante, seus argumentos não procedem.
+Efetivamente não houve análise específica quanto ao termo inicial do benefício pretendido e, ao contrário de sua interpretação, as decisões proferidas nos Resp"s 924.947/PR e 1.116.399/BA, sendo este último o que originou o Tema 217/STJ, não dispensam a comprovação do preenchimento dos requisitos formais aptos à fruição do benefício fiscal.
+A parte recorrente opôs embargos de declaração a fim de provocar o TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO a se manifestar sobre a ausência de disposição do termo inicial para o reconhecimento do benefício fiscal. Entretanto, o Tribunal a quo rejeitou o recurso integrativo, sem apreciar o questionamento a ele feito.
+Verifico a ocorrência de omissão no julgado, quanto ao estabelecimento da data em que a integralidade do cumprimento dos requisitos aptos à outorga do benefício fiscal foi constatada.
+Reconhecida a violação ao art. 1.022 do Código de Processo Civil, os autos devem retornar à origem para que seja sanado o vício apontado nos embargos de declaração por meio de novo julgamento do recurso, com manifestação expressa a respeito da questão não apreciada.
+Ante o exposto, dou provimento ao recurso especial para anular o acórdão proferido em embargos de declaração; determino a devolução dos autos ao Tribunal de origem para novo exame do recurso integrativo.
+Publique-se. Intimem-se.
+EMENTA
