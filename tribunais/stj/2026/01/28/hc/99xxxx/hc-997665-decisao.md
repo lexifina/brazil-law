@@ -1,0 +1,58 @@
+DECISÃO
+JOSÉ CARLOS DE MATOS SOARES alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado da Bahia na Ação Penal Originária n. 8029722-88.2024.8.05.0001.
+Consta dos autos que o paciente foi denunciado pela prática dos crimes previstos nos arts. 337-E do Código Penal e 1º, I, do Decreto-Lei n. 201/1967, ambos em concurso material. A peça acusatória foi recebida pela Primeira Câmara Criminal do Tribunal de Justiça da Bahia sem determinação de afastamento do cargo.
+A defesa aduz, em síntese: a) inexistência de justa causa para a instauração da ação penal; e b) impossibilidade de recebimento da peça acusatória com base no princípio do in dubio pro societate.
+Indeferida a liminar, o Ministério Público Federal opinou pela denegação da ordem.
+Decido.
+I. Contextualização
+Trata-se de habeas corpus impetrado contra acórdão da Primeira Câmara Criminal do Tribunal de Justiça da Bahia que recebeu a denúncia contra o paciente, Prefeito do Município de Riachão do Jacuípe/BA, por supostas irregularidades em contratações diretas com base em inexigibilidade e dispensa de licitação.
+II. Inexistência de justa causa para a ação penal
+Dispôs o acórdão acerca da justa causa (fls. 44-45):
+Segundo as Defesas dos Acusados a denúncia carece de elementos mínimos de prova a ensejar a deflagração da ação penal.
+Em que pesem os argumentos defensivos, convém esclarecer que, na análise preliminar de uma denúncia, verifica-se apenas se há prova da materialidade (ou seja, a existência do fato criminoso) e indícios mínimos de autoria (indícios que apontem à participação do denunciado na prática do delito). Não se exige, nesse momento, a certeza sobre a ocorrência do crime ou sobre a autoria, pois isso será objeto de apuração durante a instrução processual, em que se produzirão as provas.
+No caso em análise, a denúncia encontra-se fundamentada em elementos técnicos e documentais que apontam para a materialidade e indícios de autoria dos delitos, tendo em vista que, apesar de o Prefeito contar com a Procuradoria Jurídica, a Comissão de Licitação, e a Comissão de Contratações, celebrou o contrato nº 005/2022, com o escritório de advocacia Mahmed Advogados associados, e em seguida, por meio de inexigibilidade de licitação, realizou o contrato nº 001/2022, com a empresa Railson Novais Useda Pinho ME - Dinâmica Assessoria e Consultoria, em sobreposição de objetos, pois ambos tinham a mesma finalidade, é dizer consultoria e assessoria especializada em processos licitatórios e contratos administrativos.
+Além disso, indicam a inobservância do procedimento legal de inexigibilidade de licitação, bem como a celebração de aditivos contratuais firmado com a Dinâmica Assessoria, para a execução de objeto já pactuado no contrato nº 001/2022, anteriormente celebrado com a mesma empresa.
+Outrossim, noticiam que a Prefeitura de Riachão do Jacuípe contratou a empresa TREINECAP, por dispensa de licitação, para ministrar um seminário sobre a Nova Lei de Licitações, quando, dentre as obrigações da outra empresa do denunciado Railson Pinho, a Dinâmica Assessoria, incluía o dever de "Treinamento de setores chaves, como compras e controle interno" e "Treinamento e orientações aos ordenadores de despesas e secretários municipais".
+Estas circunstâncias, sob o viés acusatório, configuram conflito de interesses, superposição de serviços e direcionamento indevido do contrato, em violação aos princípios da isonomia, moralidade e impessoalidade, além dos crimes previstos nos art. 337-E do Código Penal e art. 1º, I, do Decreto-Lei 201/1967.
+Portanto, a justa causa está vinculada à plausibilidade da acusação, sendo avaliada em juízo de cognição sumária, com a exigência de elementos mínimos que demonstrem a viabilidade da denúncia, os quais estão devidamente evidenciados nos autos.
+Diante desse cenário, não há que se falar em ausência de justa causa para o oferecimento da denúncia.
+Com isso em pauta, faço lembrar que um juízo de mérito sobre a materialidade e a autoria delitivas demandaria o exame das provas eventualmente colhidas, o que é inviável na via estreita da ação constitucional, dada a necessidade de dilação probatória.
+Nesse sentido:
+ ..
+2. Tendo o magistrado singular atestado que os elementos de convicção constantes dos autos não afastariam a autoria do delito atribuído à recorrente na denúncia, e consignado que as demais matérias suscitadas pela defesa se refeririam ao mérito e dependeriam de dilação probatória, não se constata qualquer eiva na decisão, pois atende, nos limites que lhe são próprios, o preceito contido no artigo 93, inciso IX, da Constituição Federal.
+TRANCAMENTO DA AÇÃO PENAL. FALTA DE JUSTA CAUSA. ARREPENDIMENTO EFICAZ. NECESSIDADE DE DILAÇÃO PROBATÓRIA. VIA INADEQUADA. DESPROVIMENTO DO RECLAMO.
+ ..
+2. Estando a decisão impugnada em total consonância com o entendimento jurisprudencial firmado por este Sodalício, não há falar em trancamento da ação penal, pois, de uma superficial análise dos elementos probatórios contidos no presente mandamus , não se vislumbra estarem presentes quaisquer das hipóteses que autorizam a interrupção prematura da persecução criminal por esta via, já que seria necessário o profundo estudo das provas, as quais deverão ser oportunamente valoradas pelo juízo competente.
+3. Recurso improvido.
+(RHC n. 47.291/RS, Rel. Ministro Jorge Mussi, 5ª T., DJe 19/8/2014.)
+ ..
+1. O trancamento da ação penal por meio do habeas corpus só é cabível quando houver comprovação, de plano, da ausência de justa causa, seja em razão da atipicidade da conduta supostamente praticada pelo acusado, seja da ausência de indícios de autoria e materialidade delitivas, ou ainda da incidência de causa de extinção da punibilidade.
+2. É afastada a inépcia quando a denúncia preencher os requisitos do art. 41 do CPP, com a individualização da conduta do réu, descrição dos fatos e classificação dos crimes, de forma suficiente para dar início à persecução penal na via judicial, bem como para o pleno exercício da defesa.
+3. O reconhecimento da inexistência de justa causa para a ação penal exigiria aprofundamento probatório, o que é inadmissível na via estreita do presente writ.
+4. Recurso ordinário em habeas corpus improvido.
+(RHC n. 19.549/ES, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 17/3/2015.)
+Rejeito, assim, a alegação.
+III. Inépcia da denúncia
+Quanto à inépcia da denúncia, afirmou o acórdão (fls. 43-44):
+Sustenta a Defesa a inépcia da peça acusatória por não restar demonstrada, de forma clara, a conduta praticada pelo Acusado.
+Nos termos do art. 41 do Código de Processo Penal, a denúncia deve conter a exposição dos fatos típicos em tese cometidos, descrevendo perfeitamente as condutas, com todas as suas circunstâncias e elementares, a qualificação do acusado e a classificação dos crimes.
+No caso sub oculi, observa-se que a inicial acusatória cumpriu esses requisitos, senão vejamos:
+a. Expôs os fatos de forma clara e objetiva, detalhando as irregularidades na contratação das empresas TREINECAP - Treinamento e Capacitação Ltda e Railson Novais Useda Pinho ME - Dinâmica Assessoria e Consultaria em Licitações, ambos do sócio e acusado Railson Novais Useda Pinho, tipificando a sua conduta, na forma do art. 337-E, c/c o art. 29 do Código Penal e art. 1º, I, do Decreto-Lei 201/1967, em concurso material - por duas vezes, com o Alcaide;
+b. Apresentou documentos para demonstrar a manifesta sobreposição de objetos contratados, entre as contratações do escritório Mahmed Advogados Associados, na área do Direito Administrativo e Direito Público Municipal e nos processos licitatórios e contratações públicas (Contrato nº 005/2022), e da empresa Railson Novais Useda Pinho ME - Dinâmica Assessoria e Consultoria em Licitações, para a assessoria técnica administrativa especializada em Licitações e Contratos Administrativos (Contrato nº 001/2022), e da empresa TREINECAP - Treinamento e Capacitação LTDA, para prestação de serviços de qualificação e treinamento de servidores da Prefeitura Municipal de Riachão do Jacuípe por meio do curso específico - Seminário sobre a Nova Lei de Licitações, com vigência de 02/05/2022 a 02/06/2022 (Contrato nº 137/2022); além do não cumprimento da normatização sobre inexigibilidade licitatória, bem como do conflito de interesses na dispensa de licitação ao contratar a empresa TREINECAP, tudo isso a causar prejuízo ao erário municipal no importe de R$ 250.373,39 (duzentos e cinquenta mil trezentos e setenta e três reais e trinta e nove centavos).
+c. Indicou os elementos de autoria, na qualidade de Prefeito Municipal e de Railson Novais Useda Pinho, empresário e sócio das empresas Railson Novais Useda Pinho ME - Dinâmica Assessoria e Consultoria em Licitações e TREINECAP - Treinamento e Capacitação LTDA.
+Assim, e em conjunto com as 33 (trinta e três) laudas da denúncia, que expõe de forma clara como se sucederam os fatos e as condutas consideradas criminosas, não há falar em peça inepta, inclusive foi oportunizado a manifestação defensiva, garantido o contraditório e a ampla defesa.
+Conforme reiterada jurisprudência desta Corte Superior, o trancamento do processo em habeas corpus, por ser medida excepcional, somente é cabível quando ficarem demonstradas, de maneira inequívoca e a um primeiro olhar, a atipicidade da conduta, a absoluta falta de provas da materialidade do crime e de indícios de autoria ou a existência de causa extintiva da punibilidade, situações que não constato caracterizadas na espécie.
+Tendo em vista que a denúncia é uma peça processual por meio da qual o órgão acusador submete ao Poder Judiciário o exercício do jus puniendi, o legislador estabeleceu alguns requisitos essenciais para a formalização da acusação, a fim de que seja assegurado ao acusado o escorreito exercício do contraditório e da ampla defesa. Na verdade, a própria higidez da denúncia opera como uma garantia do acusado.
+Segundo o disposto no art. 41 do Código de Processo Penal, "A denúncia ou queixa conterá a exposição do fato criminoso, com todas as suas circunstâncias, a qualificação do acusado ou esclarecimentos pelos quais se possa identificá-lo, a classificação do crime e, quando necessário, o rol das testemunhas".
+Por sua vez, a respeito do juízo de admissibilidade da acusação, em grau de cognição superficial e limitado, prevê o art. 395 do CPP:
+Art. 395. A denúncia ou queixa será rejeitada quando: (Redação dada pela Lei nº 11.719, de 2008).
+I - for manifestamente inepta; (Incluído pela Lei nº 11.719, de 2008).
+II - faltar pressuposto processual ou condição para o exercício da ação penal; ou (Incluído pela Lei nº 11.719, de 2008).
+III - faltar justa causa para o exercício da ação penal.
+Logo, a peça deve ser recebida se, atendido seu aspecto formal (art. 41, c/c o art. 395, I, do CPP) e identificada a presença tanto dos pressupostos de existência e validade da relação processual quanto das condições para o exercício da ação penal (art. 395, II, do CPP), a peça vier acompanhada de lastro probatório mínimo a amparar a acusação (art. 395, III, do CPP).
+No caso, não identifico nenhum fator a ensejar o pretendido encerramento prematuro do Processo n. 8029722-88.2024.8.05.000.
+A denúncia apontou, suficientemente, os fatos tidos por criminosos e as suas circunstâncias, com a classificação dos delitos. O acórdão também a reconheceu como correta, por apresentar os elementos do caso concreto que respeitam o art. 41 do CPP.
+Além disso, não se verifica nenhuma das hipóteses do art. 395 do CPP, de modo que a peça acusatória é escorreita.
+IV. Dispositivo
+À vista do exposto, denego a ordem de habeas corpus .
+EMENTA
