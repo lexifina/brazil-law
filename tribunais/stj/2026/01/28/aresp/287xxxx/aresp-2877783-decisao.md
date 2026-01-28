@@ -1,0 +1,27 @@
+DECISÃO
+REINALDO CARLITO ALVES DE SOUZA agrava da decisão que inadmitiu seu recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Mato Grosso, na Apelação Criminal n. 0017499-34.2013.8.11.0042.
+Consta dos autos que o agravante foi condenado à pena de 8 anos de reclusão, em regime inicial fechado, e ao pagamento de 10 dias-mulga, pela prática dos crimes de homicídio simples e porte ilegal de arma de fogo, em concurso material.
+A defesa aponta violação dos arts. 283 e 593, III, "d", do Código de Processo Penal. Aduz que a condenação é manifestamente contrária à prova dos autos, porque se baseou exclusivamente em depoimentos indiretos e elementos da fase inquisitorial, sem lastro probatório judicializado, com a arma de fogo apreendida com terceiro.
+Alega que tendo o Juízo de primeiro grau concedido ao sentenciado o direito de recorrer em liberdade e havido apenas apelação defensiva, a referida concessão deve prevalecer até o trânsito em julgado.
+Requer o provimento da insurgência, a fim de que seja determinada a suspensão da execução provisória da pena e a anulação do julgamento, com a determinação de realização de novo júri.
+O recurso foi inadmitido em juízo prévio de admissibilidade, com base na Súmula n. 7 do Superior Tribunal de Justiça, o que motivou a interposição deste agravo.
+O Ministério Público Federal apresentou parecer pelo não conhecimento do recurso (fls. 164-167).
+Decido.
+I. Admissibilidade
+O agravo é tempestivo e impugnou adequadamente os fundamentos da decisão agravada. O recurso especial, embora tempestivo, suplanta parcial juízo de prelibação, nos termos a seguir delineados.
+II. Contextualização
+Infere-se dos autos que o recorrente, submetido a julgamento perante o Júri Popular, foi condenado, como incurso nos arts. 121, caput, do CP e 14 da Lei n. 10.826/2003, à pena de 8 anos, 3 meses e 28 dias de reclusão, em regime inicial fechado.
+Inconformada, a defesa interpôs recurso especial, ao qual o Tribunal estadual negou provimento, mantida a condenação e a reprimenda aplicada pelo Juízo sentenciante. Na mesma oportunidade, determinou-se "o encaminhamento ao Juízo singular para ordenar a execução provisória da pena, pelo Juízo da Execução Penal competente, nos termos do art. 637 do CPP, visto que "a soberania dos veredictos do Tribunal do Júri autoriza a imediata execução de condenação imposta pelo corpo de jurados, independentemente do total da pena ", consoante decisão proferida pelo c. STF, em repercussão geral (Tema 1068 - RE 1235340/S Caplicada - Relator: Min. Luís Roberto Barroso - 12.9.2024)" (fl. 1.032, destaquei).
+III. Violação do art. 593, III, "d", e § 3º, do CPP
+Para que se acolha a pretensão defensiva - reconhecer que condenação foi contrária à prova dos autos, pois baseada em depoimentos indiretos -, é necessário desconstituir o entendimento das instâncias ordinárias de que haveriam provas judicializadas a amparar o édito condenatório. Isso porque, segundo o Tribunal estadual, "o julgamento popular não pode ser considerado contrário à prova dos autos quando existem elementos de convicção, produzidos sob o crivo do contraditório, que legitimam a decisão do Conselho de Sentença" (fl. 1.031, destaquei).
+Assim, a despeito de o recorrente haver indicado como violado o art. 593, III, "d" e § 3º, do CPP, não apontou o art. 155 do mesmo codex, que se relaciona com a tese central a ser dirimida na presente insurgência, circunstância que evidencia a deficiência recursal e enseja a aplicação do óbice previsto na Súmula n. 284 do STF.
+A propósito, menciono que "a ausência de indicação precisa dos dispositivos legais violados impede o conhecimento do recurso especial, conforme a Súmula n. 284 do STF, que exige fundamentação clara e precisa" (AgRg no REsp n. 2.205.353/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 24/6/2025, DJEN de 30/6/2025).
+Dessa forma, o recurso especial não comporta conhecimento, quanto ao ponto.
+IV. Negativa de vigência ao art. 283 do CPP
+O STF, no RE n. 1.235.340/SC (Tema n. 1.068), julgado em 12/9/2024, fixou a seguinte tese vinculante: "A soberania dos veredictos do Tribunal do Júri autoriza a imediata execução de condenação imposta pelo corpo de jurados, independentemente do total da pena aplicada".
+Esta orientação, de observância obrigatória (art. 927, CPC c/c art. 3º, CPP), fundamenta-se na soberania constitucional dos veredictos (art. 5º, XXXVIII, "c", CF) e tem aplicação imediata, conforme já reconhecido por esta Corte: "O acórdão de mérito julgado sob o rito da repercussão geral possui efeito vinculante e eficácia erga omnes desde o momento de sua prolação, independentemente de publicação. Nada impede, portanto, que o Ministério Público requeira a qualquer tempo e em qualquer grau de jurisdição a execução imediata da condenação do réu" (AgRg no HC n. 985.783/MG, Rel. Min. Og Fernandes, Sexta Turma, julgado em 6/5/2025, DJe 12/5/2025).
+Assim, a execução provisória decorre automaticamente da condenação pelo júri, sem necessidade de análise dos requisitos da prisão preventiva, razão pela qual, afasto a alegada negativa de vigência ao art. 283 do CPP.
+V. Dispositivo
+À vista do exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se e intimem-se.
+EMENTA
