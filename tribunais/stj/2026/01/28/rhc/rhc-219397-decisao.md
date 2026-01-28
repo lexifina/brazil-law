@@ -1,0 +1,42 @@
+DECISÃO
+ALESSANDRO NIETO FERREIRA BERNARDO e OUTROS interpõem recurso em habeas corpus, no qual alegam sofrer coação ilegal em decorrência de acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, que manteve o curso da ação penal.
+Consta dos autos que os recorrentes foram denunciados pela suposta prática dos delitos capitulados no art. 1º, II, e art. 2º, II, da Lei n. 8.137/1990; art. 1º, § 1º, I, da Lei n. 9.613/1998; e art. 288 do Código Penal.
+A Corte estadual denegou a ordem, assentando que o acordo de renegociação do débito mediante penhora de faturamento e compensação com precatórios não se equipara ao parcelamento da dívida para fins de aplicação analógica do disposto no art. 9º da Lei n. 10.684/2003 e não autoriza a suspensão do feito.
+No presente recurso ordinário, os recorrentes sustentam que o pedido de parcelamento foi formalizado em dezembro de 2019, data anterior ao recebimento da denúncia, ocorrido em 24/11/2020.
+Alegam que, em 2021, foi firmado acordo com o Estado do Rio Grande do Sul, o que ensejou a suspensão do processo criminal com a concordância do Ministério Público e deferimento pelo Juízo de primeiro grau.
+Relatam que, após descumprimento e retomada do feito em 2022, houve novo acordo em 08/11/2024 para prosseguir com o pagamento, caracterizando um reparcelamento e a continuidade das tratativas iniciadas em 2019, sem novação.
+O Ministério Público Federal opinou pelo não provimento do recurso (fls. 175-179).
+Decido.
+De início registro que a decisão do Tribunal de origem alinha-se à jurisprudência consolidada desta Corte Superior e não evidencia ilegalidade flagrante que justifique a reforma do julgado.
+I. Natureza jurídica do ajuste: "penhora de faturamento" e "compensação com precatórios" não se equiparam a parcelamento para fins de suspensão da ação penal
+A tese central da defesa é de que o novo acordo firmado em 08/11/2024 seria uma continuidade ("reparcelamento") das tratativas iniciadas em 2019 e, portanto, deveria ensejar a suspensão da ação penal nos termos do art. 83, § 2º, da Lei n. 9.430/1996.
+Contudo, a análise detida dos autos revela que o ajuste celebrado não configura o parcelamento tributário típico (adesão a programa de refinanciamento instituído por lei), mas sim uma modalidade híbrida de garantia e compensação.
+Conforme assentado pelo Tribunal a quo, o novo acordo envolve "renegociação do débito mediante penhora de faturamento e compensação com precatórios" (fl. 48), nesses termos (fl. 49, grifo no original):
+Ressalto que, embora o juízo a quo tenha deferido a suspensão do feito, pelo prazo de 30 dias, em 04/09/2024, a fim de propiciar que os acusados pudessem retomar as negociações iniciadas em 2019 para adimplemento do débito fiscal, sobreveio aos autos, em data posterior ao período referido, tão somente a juntada de acordo de renegociação do débito mediante penhora de faturamento e compensação com precatórios.
+O acórdão recorrido foi preciso ao consignar que: "O aludido ajuste, todavia, não se equipara ao parcelamento da dívida para fins de aplicação analógica do disposto no artigo 9º da Lei 10.684/03, conforme jurisprudência consolidada no âmbito do Superior Tribunal de Justiça" (fl. 49).
+Este entendimento deve ser mantido. A penhora de faturamento é medida constritiva, típica de execução fiscal ou garantia de juízo, e não se confunde com o parcelamento voluntário do débito, única hipótese (ao lado do pagamento integral) autorizada pelo legislador para suspender a pretensão punitiva.
+Da mesma forma, o pedido de compensação com precatórios sujeita-se à homologação da autoridade administrativa e não possui o efeito automático de suspensão da exigibilidade do crédito tributário equiparável ao parcelamento para fins penais.
+Nesse sentido:
+ ..
+5. A garantia do crédito tributário na execução fiscal - procedimento necessário para que o executado possa oferecer embargos - não possui, consoante o Código Tributário Nacional, natureza de pagamento voluntário ou de parcelamento da exação e, portanto, não fulmina a justa causa para a persecução penal, pois não configura hipótese taxativa de extinção da punibilidade ou de suspensão do processo penal.
+6. Como alinhavado pela instância ordinária, a legislação penal em matéria de crimes contra a ordem tributária já é benevolente com aqueles que incorrem nestes delitos, pois prevê formas de extinção da punibilidade e de suspensão do processo não proporcionadas aos crimes em geral.
+7. Assim, não deve ser admitida a ampliação da benesse legal de forma automática, toda vez que o agente garantir a execução fiscal para oferecer embargos, sem que haja prova inequívoca do pagamento ou do parcelamento do tributo, máxime porque o crime pressupõe, além do inadimplemento, a prática de conduta ardilosa para violar a ordem tributária.
+8. Recurso ordinário não provido.
+(RHC n. 65.221/PE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 7/6/2016, DJe de 27/6/2016, destaquei.)
+A defesa tenta caracterizar o ato como "reparcelamento", mas a mudança na natureza da garantia (de parcelamento ordinário para penhora de faturamento/precatórios) altera a qualificação jurídica do fato, impedindo a aplicação da benesse penal.
+II. Violação à boa-fé objetiva (art. 505 do CPC)
+Os recorrentes alegam comportamento contraditório (venire contra factum proprium) por parte do Ministério Público, que teria concordado com a suspensão anteriormente e mudado de posição sem fato novo. Sustentam, ainda, preclusão pro judicato (art. 505 do CPC), pois o juízo já havia deferido suspensão anterior.
+Não assiste razão aos recorrentes.
+A concordância anterior do Parquet e o deferimento da suspensão em 2021 deram-se em um contexto fático distinto, onde se verificava um parcelamento nos moldes tradicionais. O próprio histórico processual demonstra que aquele acordo foi descumprido, levando à retomada do feito em 2022.
+A recente suspensão de 30 dias, deferida em audiência de 3/9/2024, teve por objetivo precípuo "viabilizar eventual acordo com o fisco estadual" (fl. 48). O fato de o Ministério Público ter concordado com o prazo para negociação não o vincula a aceitar qualquer resultado dessa negociação, especialmente quando o instrumento jurídico apresentado ao final (penhora de faturamento e precatórios) não possui amparo legal para suspender a ação penal.
+Como bem fundamentou o Tribunal de origem: "Assim, não vislumbro, no caso concreto, violação da boa-fé processual e/ou fair play, como sugere o impetrante, considerando-se, sobretudo, que a decisão combatida apresenta como ratio essendi a natureza do ajuste que fundamenta o pedido de nova suspensão" (fl. 49).
+Portanto, não houve mudança de entendimento sobre a mesma situação fática, mas sim a constatação de que o novo ajuste não preenche os requisitos legais para a suspensão do processo criminal. Não há, assim, violação do art. 505 do CPC, pois a matéria decidida (natureza jurídica do acordo de 2024) é diversa daquela analisada em 2021.
+III. Marco temporal e da consolidação da dívida
+A defesa insiste que o pedido de parcelamento foi formalizado em 18/12/2019, antes do recebimento da denúncia (24/11/2020), buscando atrair a regra do art. 83, § 2º, da Lei n. 9.430/1996.
+Contudo, o e-mail apresentado pela defesa como prova da formalização refere-se a uma "nova proposta de pagamento" no bojo de tratativas que resultaram no acordo de 2021 (fl. 8), o qual, frise-se, foi rescindido por inadimplemento em 08/11/2022.
+O atual pedido de suspensão baseia-se em um contrato assinado apenas em 08/11/2024, muito tempo após o recebimento da denúncia. Ainda que as partes tenham inserido cláusula de "ratificação" dos termos de 2021, tal disposição contratual privada não tem o condão de sobrepor-se à realidade processual penal e à exigência legal de que o parcelamento (válido e ativo) tenha sido formalizado tempestivamente (fl. 7).
+Uma vez rescindido o parcelamento original que suspendia a punibilidade, a retomada da ação penal é impositiva. A celebração de novo ajuste anos depois, mormente quando desprovido da natureza estrita de parcelamento tributário, não restaura o status quo ante nem obriga nova suspensão do processo criminal, sob pena de permitir que a ação penal fique indefinidamente à mercê de sucessivas renegociações privadas que não garantem a efetiva satisfação do crédito tributário.
+IV. Dispositivo
+À vista do exposto, com fundamento no art. 34, XX, c/ art. 246, ambos do RISTJ, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se e intimem-se.
+EMENTA
