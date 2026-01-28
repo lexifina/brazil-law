@@ -1,0 +1,17 @@
+DECISÃO
+COMÉRCIO DE COMBUSTÍVEL INDUSTRIÁRIO LTDA. opõe embargos de declaração à decisão de fls. 580-591, que deu parcial provimento ao recurso para reconhecer a ilegitimidade passiva da segunda recorrente, extinguindo o processo em relação a ela com fundamento no art. 485, VI, do Código de Processo Civil, com inversão dos ônus sucumbenciais; e para afastar a cobrança da capitalização diária dos juros relativamente à cédula de crédito bancário n. F436478, fixando honorários em favor dos patronos da parte recorrente, no percentual de 10% sobre o proveito econômico obtido com o afastamento da capitalização diária.
+Em suas razões, a embargante sustenta que a decisão incorreu em omissão, pois deixou de readequar a condenação sucumbencial que lhe foi imposta no acórdão recorrido, afastando a majoração de 15% fixada pelo Tribunal de origem, diante do parcial provimento do recurso especial.
+Requer o provimento dos embargos para sanar a omissão, afastar a majoração aplicada pelo Tribunal de origem e fixar honorários em 10% sobre o valor final condenatório.
+As contrarrazões foram apresentadas às fls. 601-603, pugnando a embargada pela rejeição dos embargos de declaração.
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a aclarar obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado.
+No presente caso, a parte aponta omissão, alegando que a decisão não readequou a condenação sucumbencial devida pelo embargante à parte autora, em razão do parcial provimento do recurso especial.
+Nos termos da decisão embargada, o recurso especial foi parcialmente provido para reconhecer a ilegitimidade passiva de ILAINE PRISCILA REDEZ, com inversão dos ônus sucumbenciais apenas quanto a ela, e para afastar a capitalização diária dos juros na cédula F436478, fixando honorários em favor dos patronos da parte recorrente no equivalente a 10% do proveito econômico decorrente do afastamento da capitalização diária. Confira-se o trecho da decisão (fl. 591):
+Ante o exposto, dou parcial provimento ao recurso para reconhecer a ilegitimidade passiva da recorrente ILAINE PRISCILA REDEZ e para afastar a cobrança da capitalização da taxa de juros relativamente à cédula de crédito bancário n. F436478.
+Em relação à recorrente ILAINE PRISCILA REDEZ, julgo extinto o processo com fundamento no art. 485, VI, do Código de Processo Civil, com inversão do ônus sucumbenciais.
+Em razão do provimento do recurso, fixo honorários advocatícios em favor dos patronos da parte recorrente no valor equivalente a 10% do proveito econômico obtido decorrente do afastamento da cobrança da capitalização da taxa de juros relativamente à cédula de crédito bancário n. F436478, a ser apurado pelo juízo de primeiro grau.
+Não há omissão a ser sanada, pois, com o provimento parcial do recurso especial disciplinou-se nova fixação dos honorários sucumbenciais, não sendo caso de se discutir a majoração pelo Tribunal de origem, prevista no art. 85, § 11, do CPC, diante do efeito substitutivo da decisão proferida nesta instância.
+Dessa forma, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreci ação do STJ foi analisada, não padecendo a decisão recorrida de vícios que autorizariam sua oposição (obscuridade, contradição, omissão e erro material).
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+ EMENTA
