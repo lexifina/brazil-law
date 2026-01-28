@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de agravo interposto por LAURIMAR TRANSPORTES GERAIS LTDA. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fls. 586-591):
+PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS - Ação monitória - Embargos rejeitados - Juntada do "Contrato de Prestação de Serviços e Honorários Advocatícios" celebrado entre as partes após a oposição dos embargos pela ré - Admissibilidade, pois foi devidamente respeitado o princípio do contraditório - Princípios da instrumentalidade das formas e da busca da verdade real - Documentos juntados aos autos que se tem por suficientes para comprovação do débito - Existência de prova escrita da obrigação, a teor da disciplina prevista no artigo 700, do Código de Processo Civil - Sentença mantida - Apelação não provida.
+Sem embargos de declaração.
+No recurso especial, a parte recorrente alega ofensa aos artigos 434, 435, 485, inciso IV, 489 e 700 do Código de Processo Civil, porquanto o recorrido propôs a Ação Monitória ora discutida sem instruir a sua petição inicial com a documentação necessária para comprovar o direito de exigir da recorrente o pagamento dos supostos honorários advocatícios contratuais.
+Aduz que o pedido formulado pelo recorrido em sua exordial fundamenta-se única e exclusivamente na existência de previsão contratual, sendo que o contrato apenas fora colacionado aos autos após a oposição dos embargos à monitória pela Recorrente, não havendo, portanto, menção inicial de quaisquer outros documentos ou provas que pudessem corroborar o aludido crédito.
+Sustenta, ainda, violação do art. 113, I, do CPC, ante a existência de litisconsórcio ativo necessário, pois além de o recorrido, outra pessoa física figura como parte na relação jurídica, qual seja, a advogada VALÉRIA MARINO, não podendo o recorrido exigir a totalidade do débito hipoteticamente devido pela recorrente sem a anuência/consentimento expresso da contratada Valéria.
+Argumenta, por fim, violação do artigo 22, §4º, da Lei nº 8.906/94, pois o percentual pactuado de verba honorária é abusivo e desproporcional e deveria ter sido modificado pelo Tribunal de Origem.
+Foram oferecidas contrarrazões ao recurso especial (fls. 623-628).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 630-632), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 657-660).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+Com relação à alegada violação dos arts. 113, I, 434, 435, 485, inciso IV, 489 e 700, todos do Código de Processo Civil e do artigo 22, §4º, da Lei nº 8.906/1994, não merece prosperar o recurso especial.
+O Tribunal de origem, ao negar provimento ao apelo, considerou que os documentos colacionados pelo autor, ainda que após a apresentação dos embargos a monitória, já que submetidos ao crivo do contraditório, eram suficientes para a comprovação do débito. Outrossim, entendeu que a cessão de direito firmada pela advogada VALÉRIA MARINO afastava a necessidade de formação de litisconsórcio ativo necessário, bem como entendeu que a fixação de honorários advocatícios ad exitum em 30% sobre o valor a ser recuperado pelo cliente é usual e comum na advocacia, não vislumbrando nenhuma abusividade ou desproporcionalidade.
+Desse modo, considerando a fundamentação do acórdão objeto do recurso especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fático-probatória e interpretação das cláusulas contratuais, procedimentos vedados a esta Corte, em razão dos óbices das Súmulas n. 5 e 7/STJ.
+Nesse sentido segue precedente:
+AGRAVO INTERNO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. 1. OMISSÃO DO ACÓRDÃO RECORRIDO. INEXISTÊNCIA. 2. OFENSA AOS ARTS. 52, III, DO CDC, 115 DO CC/1916 E 122 DO CC/2002. FALTA DE PREQUESTIONAMENTO. 3. PETIÇÃO INICIAL SATISFATORIAMENTE INSTRUÍDA. SÚMULA 247/STJ. JULGADO FUNDADO EM FATOS, PROVAS E TERMOS CONTRATUAIS. SÚMULAS 5 E 7 DO STJ. 4. JUNTADA DE DOCUMENTOS PELA AUTORA APÓS A PROPOSITURA DA AÇÃO. POSSIBILIDADE. EXERCÍCIO PLENO DO CONTRADITÓRIO. VIOLAÇÃO DO ART. 396 DO CPC/1973 NÃO CONFIGURADA. 5. RECURSO IMPROVIDO.
+1. Não há violação do art. 535 do CPC/1973, porquanto o acórdão recorrido dirimiu a causa com base em fundamentação sólida, sem nenhuma omissão ou contradição. O órgão julgador não está obrigado a responder questionamentos das partes, mas apenas a declinar as razões de seu convencimento motivado, o que de fato ocorreu nos autos.
+2. O conteúdo normativo dos arts. 52, II e III, do CDC, 115 do CC/1916 e 122 do CC/2002 não foi debatido no acórdão recorrido, esbarrando a insurgência, quanto a eles, na falta de prequestionamento. Em que pese à oposição de aclaratórios, os referidos dispositivos legais não foram apreciados, porquanto o julgado se utilizou de fundamentos diferentes dos previstos nesses artigos, mas suficientes para a elucidação da controvérsia. Incidência, no ponto, do texto da Súmula 211/STJ.
+3. Afastar a conclusão de que a inicial fora devidamente instruída - não havendo falar em inépcia (Súmula 247/STJ) - perpassa pela análise fático-probatória da causa, o que encontra óbice nesta Corte Superior, conforme entendimento consolidado na Súmula 7/STJ.
+4. "A jurisprudência desta Corte Superior de Justiça admite a juntada extemporânea de documentos ao processo, desde que ouvida a parte contrária e inexistente o espírito de ocultação premeditada ou de surpresa para o Juízo" (AgRg no AREsp 63.501/SP, Rel. Ministro João Otávio de Noronha, Terceira Turma, DJe 4/5/2015).
+5. Agravo interno desprovido.
+(AgInt no REsp n. 1.614.060/SE, relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 8/8/2017, DJe de 17/8/2017.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Honorários recursais
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 18% sobre o valor atualizado da condenação.
+Publique-se. Intimem-se.
+ EMENTA
