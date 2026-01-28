@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por MATHEUS HENRIQUE DICONCILI contra o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA que denegou o Habeas Corpus n. 5086252-04.2025.8.24.0000 (fls. 22/26), mantendo a prisão preventiva imposta pelo Juízo da 2ª Vara Criminal da Comarca de Palhoça, em razão da suposta prática do crime de tráfico de drogas. (Autos n. 5004659-07.2025.8.24.0564).
+No recurso, a defesa sustenta que as buscas veicular e domiciliar foram realizadas sem justa causa, amparadas apenas em informação vaga do setor de inteligência, não aportada aos autos, o que torna ilícitas as provas e impõe o trancamento da ação penal (fls. 29/34).
+Afirma que houve abordagem e busca pessoal em três indivíduos, sem apreensão de ilícitos, seguida de busca no veículo e ingresso domiciliar, quando então apreendidos entorpecentes, sem demonstração de fundada suspeita prévia (fls. 31/32).
+Registra que a alegada visualização de "masculino com pacote na mão" não foi comprovada e que a mera referência a dados de inteligência não supre a exigência legal, mencionando, de forma sucinta, precedentes do Superior Tribunal de Justiça e a orientação do Supremo Tribunal Federal sobre fundadas razões para ingresso domiciliar (fls. 33/34).
+Pede o provimento do recurso para declarar a nulidade das buscas e reconhecer a ilicitude das provas, com o trancamento da ação penal (fl. 34).
+Instado, o Ministério Público opinou pelo não provimento do recurso (fls. 48/60).
+Estes autos foram a mim distribuídos por prevenção.
+É o relatório.
+O recurso não merece prosperar.
+No caso concreto, verifica-se que a atuação policial foi precedida de fundadas razões do cometimento de crime, tendo em vista que o serviço de inteligência informou dados concretos e específicos, identificando o veículo (VW/Golf cinza, placas MCQ7F77), descrevendo a cor e a placa, e vinculando-o a um trajeto e localidade específicos onde estaria ocorrendo entrega de entorpecentes (fls. 21/22).
+Ou seja, diante da denúncia qualificada, seguida de monitoramento da equipe de inteligência policial, foram constatadas fundadas suspeitas de que os réus estariam praticando a traficância, o que ensejou a apreensão de dois tabletes de substância análoga à cocaína no veículo.
+Logo, considera-se lícita a busca veicular efetivada, em via pública, em contexto fático que corroborava a notitia criminis.
+De fato, a fundada suspeita é um conceito legal que avalia as circunstâncias específicas para determinar se há motivos razoáveis de envolvimento em atividades criminosas. Essa avaliação considera fatores como comportamento suspeito, informações recebidas e características do indivíduo ou veículo (AgRg no AgRg nos EDcl no AgRg no HC n. 791.510/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 27/6/2023 - grifo nosso).
+Na mesma linha, confira-se o precedente:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. BUSCA PESSOAL E VEICULAR. ALEGADA NUIDADE. DENÚNCIA ANÔNIMA. DADOS OBJETIVOS. FUNDADA SUSPEITA. RECURSO NÃO PROVIDO.
+1. De acordo com os artigos 240, § 2º, e 244 do CPP, a busca pessoal/veicular será válida quando houver fundada suspeita de que a pessoa esteja na posse de arma proibida ou de objetos ou papéis que constituam corpo de delito, como ocorreu na hipótese dos autos.
+2. No caso, o acórdão registrou que, no dia dos fatos, os policiais receberam a informação sobre um possível transporte de drogas ilícitas, as quais seriam trazidas pelo condutor de um veículo GM/CORSA de placas BRG-3833, o que motivou a abordagem.
+3. Assim, verifica-se que a denúncia foi minimamente confirmada, uma vez que os agentes de segurança visualizaram o veículo com as características descritas na delação, o que evidencia a fundada suspeita apta a justificar a abordagem policial em via pública.
+4. A fundada suspeita é uma noção legal que se baseia na avaliação das circunstâncias específicas de cada caso para determinar se há motivos razoáveis para suspeitar que uma pessoa esteja envolvida em atividades criminosas. Nesses casos, não se exige certeza absoluta, mas sim uma base objetiva que justifique a conjectura do agente de segurança, ao qual deve ser assegurada a autonomia necessária para exercer suas atividades de fiscalização, a fim de garantir efetivamente o combate ao tráfico de substâncias ilícitas e exercer sua função constitucional de polícia ostensiva.
+5. É bem verdade que a fundada suspeita não pode ser baseada em estereótipos, discriminação ou preconceitos, devendo ser fundamentada em fatos e circunstâncias objetivas, o que, no caso, foi atendido, uma vez que as características do veículo abordado eram idênticas às mencionadas na denúncia anônima recebida pelas autoridades. Logo, considera-se lícita a busca pessoal e veicular efetivada.
+6. Por fim, somente é cabível o trancamento da persecução penal por meio do habeas corpus quando houver comprovação, de plano, da ausência de justa causa, seja em razão da atipicidade da conduta praticada pelo acusado, seja pela ausência de indícios de autoria e materialidade delitiva, ou, ainda, pela incidência de causa de extinção da punibilidade" (AgRg no RHC n. 157.728/PR, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 15/2/2022), hipóteses não verificadas nos autos.
+7 . Agravo regimental desprovido.
+(AgRg no HC n. 842.561/SP, Ministro Ribeiro Dantas, Quinta Turma, julgado em 9/10/2023, DJe 16/10/2023 - grifo nosso).
+Por sua vez, encontradas as substâncias ilícitas, configurou-se situação de flagrância, o que determinou a justa causa para ingresso no domicílio do apelante, onde foram visualizados, pela janela, pacotes semelhantes e apreendidos mais 19 tabletes da mesma substância, totalizando mais de 20 kg de cocaína (fls. 22/23).
+Torna-se, portanto, perfeitamente válidas as diligências, já que ocorreram na situação de prévia investigação, denúncia qualificada, justa causa e flagrante delito, conforme excepciona o artigo 5º, inciso XI, da Constituição Federal, o que está de acordo com a atual orientação desta Corte e dos Tribunais Superiores.
+Assim, não há que se falar em ilicitude das provas que lastreiam o feito.
+Ante o exposto, ne go provimento ao recurso em habeas corpus.
+Publique- se.
+EMENTA
+PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. SUPOSTA ILICITUDE DA PROVA OBTIDA NA BUSCA VEICULAR E DOMICILIAR. IMPROCEDÊNCIA. MOLDURA FÁTICA APTA A INDICAR EXISTÊNCIA DE FUNDADAS SUSPEITAS. PRECEDENTE DESTA CORTE. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Recurso em habeas corpus improvido.
