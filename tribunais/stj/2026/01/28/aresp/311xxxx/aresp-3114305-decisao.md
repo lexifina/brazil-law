@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo interposto por MAURICIO GARCIA DE CAMPOS contra decisão proferida pelo Tribunal de Justiça do Estado de São Paulo, que não admitiu o recurso especial manejado com apoio no artigo 105, III, "a", da Constituição da República.
+Nas razões recursais, aduz a defesa violação dos artigos 33, 44, 59 e 61 do Código Penal.
+Alega que a condenação por furto qualificado, sem violência ou grave ameaça, com reprimenda definitiva de 3 anos e 1 mês de reclusão e 15 dias-multa, deveria permitir a fixa ção de regime inicial aberto ou semiaberto e a substituição por penas restritivas de direitos, por força dos artigos 33, § 2º, "c", e § 3º, 44 e 59 do Código Penal, bem como dos princípios da individualização e proporcionalidade das penas.
+Sustenta que a imposição do regime fechado e a negativa de substituição se fundaram apenas na reincidência, configurando bis in idem e carecendo de fundamentação concreta idônea.
+Invoca, ainda, a confissão reconhecida e compensada com a reincidência (Súmula 545/STJ), para reforçar a necessidade de resposta penal proporcional.
+Requer o provimento do recurso para que seja reformado o acórdão recorrido, fixando-se o regime inicial aberto ou semiaberto e substituindo-se a pena privativa de liberdade por restritivas de direitos.
+Contrarrazões às fls. 286-292 (e-STJ).
+O recurso foi inadmitido (e-STJ, fls. 293-296). Daí este agravo (e-STJ, fls. 301-312).
+O Ministério Público Federal opina pelo improvimento do recurso especial (e-STJ, fls. 342-347).
+É o relatório.
+Decido.
+No que tange à dosimetria penal, o Tribunal de origem assim se manifestou no recurso de apelação e nos embargos declaratórios, respectivamente:
+" ..  Na dosimetria da pena, na primeira fase, a basilar foi exasperada em 1/3, ante a presença de duas qualificadoras remanescentes, maus antecedentes (fls. 104/112, tráfico de drogas: nº. 0060025-82.2007.8.26.0050, t. j. 25/5/2011; nº. 0065024-49.2005.8.26.0050, t. j. 27/1/2009; e nº. 0010559-76.2002.8.26.0606, t. j. 10/2/2006) e pelas circunstâncias do delito, haja vista a subtração de patrimônio de uma escola municipal ("Local onde crianças sem condições financeiras estudam e muito precisam em um país tão pobre quanto o Brasil. Sabe-se que a reposição de materiais é dificultosa e tal causa enorme prejuízo ao ensino das crianças, sem os apetrechos para tanto" fl. 185), perfazendo 2 anos e 8 meses de reclusão e pagamento de 13 dias-multa.
+A fixação da pena-base constitui o cenário mais rico e complexo no âmbito da individualização da sanção penal, porque o art. 59, caput, do Código Penal, indica vários elementos, sem os definir, nem mesmo mensurar o seu valor unitário.
+(..)
+Na segunda fase, escorreita a incidência da agravante da reincidência (roubo, nº. 0060747-72.2014.8.26.0050, t. j. 6/9/2016, fls. 105/106).
+Ainda nesta etapa, a magistrada sentenciante entendeu sobre a impossibilidade de se atenuar a pena em razão da confissão do acusado, vez que parcial, pois ele admitiu a culpa apenas quanto ao primeiro delito de furto que lhe foi imputado na peça acusatória.
+Ocorre que o decisum se valeu da confissão do apelante para formar o seu convencimento, inclusive, quanto à prática do segundo crime de furto, consoante se denota de fls. 184/185, a saber: "Nota-se que a negativa pura e simples do réu sobre o segundo furto não merece crédito, até porque admitiu que o carro estava ali a todo tempo".
+Incidente, portanto, a Súmula nº. 545, do Superior Tribunal de Justiça.
+Reconhecida a atenuante da confissão, e em vistas da reincidência do réu, sendo ambas as circunstâncias preponderantes, importam compensação integral.
+Por derradeiro, irreprochável o reconhecimento da continuidade delitiva entre os dois delitos de furto, com recrudescimento da reprimenda em 1/6, nos moldes da Súmula nº. 659 do Superior Tribunal de Justiça. Dessa forma, à míngua de outras causas modificadoras, as penas se tornam definitivas em 3 anos e 1 mês de reclusão e 15 dias-multa.
+(..)
+Considerando a pena aplicada, os maus antecedentes e a reincidência, a teor do art. 33, § 2º, do Código Penal, mantém-se o regime fechado, conforme fundamentado pela magistrada a quo." (e-STJ, fls. 230-233 - destaque no original).
+" ..  Destarte, tem-se que o v. acórdão embargado tratou do regime inicial do cumprimento de pena, mantendo o fechado ante os maus antecedentes e reincidência do embargante, que também obstam a substituição por restritiva de direitos (benesse sequer requerida em sede de apelação).
+Em síntese, as alegações trazidas à baila pelo embargante ultrapassam os fins declaratórios, razão pela qual não comportam acolhimento." (e-STJ, fls. 272).
+Como é cediço, a individualização da pena é uma atividade em que o julgador está vinculado a parâmetros abstratamente cominados pelo legislador, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Destarte, cabe às Cortes Superiores, apenas, o controle de legalidade e da constitucionalidade dos critérios utilizados no cálculo da pena.
+Com relação ao regime inicial fechado, em que pese tenha sido imposta reprimenda inferior a 4 anos de reclusão, tratando-se de réu reincidente e com circunstâncias judiciais desfavoráveis, não há que se falar em fixação do regime prisional semiaberto, por não restarem preenchidos os requisitos do art. 33, § 2º, "b", c/c § 3º, do Código Penal e da Súmula 269/STJ.
+Sobre o tema:
+"DIREITO PENAL. RECURSO ESPECIAL. FURTO TENTADO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. REINCIDÊNCIA E MAUS ANTECEDENTES. ITER CRIMINIS. MINORANTE DA TENTATIVA. FRAÇÃO FIXADA EM 1/3. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. REGIME INICIAL FECHADO. FUNDAMENTAÇÃO IDÔNEA. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. REINCIDÊNCIA ESPECÍFICA. IMPOSSIBILIDADE. RECURSO NÃO PROVIDO.
+I. CASO EM EXAME
+ ..
+5. O regime inicial fechado está fundamentado na reincidência específica e nos maus antecedentes do recorrente, circunstâncias que justificam a maior gravidade da resposta penal, em consonância com as Súmulas 718 e 719/STF e 440/STJ.
+6. A substituição da pena privativa de liberdade por restritiva de direitos não é cabível, nos termos do art. 44, II e III, do Código Penal, em razão da reincidência específica e dos antecedentes do recorrente, que demonstram personalidade voltada à prática de delitos patrimoniais, tornando a medida socialmente inadequada.
+IV. DISPOSITIVO E TESE
+7. Recurso especial não provido." (REsp n. 2.085.026/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 18/2/2025, DJEN de 25/2/2025.);
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ABSOLVIÇÃO. INSUFICIÊNCIA DE PROVAS. DOSIMETRIA. ILEGALIDADE. WRIT SUBSTITUTIVO. NÃO CONHECIMENTO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A condenação do ora agravante está transitada em julgado, e, em casos como o presente, a jurisprudência do Superior Tribunal de Justiça é uníssona no sentido de que não cabe a utilização de habeas corpus como sucedâneo de recurso próprio ou de revisão criminal, sob pena de desvirtuamento do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+2. Não obstante a orientação presente no art. 647-A, caput e parágrafo único, do Código de Processo Penal, não é o caso de se conceder habeas corpus, nem mesmo de ofício. Com efeito, a esta Corte cabe a revisão apenas de seus julgados, não sendo a via do habeas corpus própria para a revisão de condenação transitada em julgado, notadamente quando o pleito defensivo de absolvição demanda, para o eventual acolhimento, sensível incursão no material fático-probatório existente.
+3. No mais, não há nenhuma ilegalidade em vista da proporcional exasperação da pena-base pelos maus antecedentes e pela quantidade e variedade de entorpecentes apreendidos, tampouco em virtude da exasperação da reprimenda na segunda etapa do cálculo em virtude da reincidência, situação que indica a ausência de ilegalidade em relação à fixação de regime fechado.
+4. Agravo regimental desprovido." (AgRg no HC n. 960.491/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 12/2/2025, DJEN de 17/2/2025. ) .
+No tocante à conversão da pena corporal por restritivas de direito, o art. 44, I, do Código Penal estabelece que será admitida a conversão da pena corporal por restritiva de direitos se "aplicada pena privativa de liberdade não superior a quatro anos e o crime não for cometido com violência ou grave ameaça à pessoa ou, qualquer que seja a pena aplicada, se o crime for culposo".
+Do mesmo modo, o art. 44, III, do Código Penal estabelece que será admitida a conversão da pena corporal por restritiva de direitos se "a culpabilidade, os antecedentes, a conduta social e a personalidade do condenado, bem como os motivos e as circunstâncias indicarem que essa substituição seja suficiente".
+No caso em análise, tendo sido reconhecidas circunstâncias judiciais desfavoráveis ao agravante, tanto que a pena-base foi fixada acima do mínimo legal, não é admissível a concessão do benefício, sem que se possa inferir bis in idem ou arbitrariedade em tal conclusão.
+Assim, tratando-se de réu reincidente, que ainda possui circunstâncias judiciais desfavoráveis, tanto que sua pena-base foi fixada acima do mínimo legal, deve ser reconhecida a inviabilidade da concessão da benesse prevista no art. 44 do Código Penal.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "b", do Regimento Interno do STJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
