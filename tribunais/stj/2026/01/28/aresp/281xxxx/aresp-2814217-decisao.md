@@ -1,0 +1,64 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que não admitiu o recurso especial pelo qual o ESTADO DE RORAIMA se insurgira, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE RORAIMA assim ementado (fl. 584):
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. VERBAS INDENIZATÓRIAS. DIÁRIAS DE DESLOCAMENTO. SERVIDOR EX-TERRITÓRIO CEDIDO AO ESTADO DE RORAIMA. RESPONSABILIDADE PELO PAGAMENTO DAS VERBAS INDENIZATÓRIAS APÓS A VIGÊNCIA DO CONVÊNIO Nº 044, DE AGOSTO DE 2022. RECURSO CONHECIDO E DESPROVIDO.
+Os embargos de declaração opostos foram acolhidos, nos termos da seguinte ementa (fl. 634):
+EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL. VÍCIO DE OMISSÃO. PAGAMENTO PARCIAL DO DÉBITO COBRADO. COMPROVAÇÃO. ABATIMENTO DOS VALORES COBRADOS. EMBARGOS DE DECLARAÇÃO ACOLHIDOS.
+Nas razões de seu recurso especial, a parte recorrente alega que foram violados os arts. 374, II, do Código de Processo Civil (CPC), 884 do Código Civil, 1º da Lei 9.784/1999, assim como o art. 31 da Emenda Constitucional 19/1998, o art. 31 da Emenda Constitucional 98/2017 e os arts. 5º, caput, e 37 da Constituição Federal.
+Afirma que "o acórdão recorrido incorreu em flagrante negativa de prestação jurisdicional ao se omitir quanto à análise de uma questão de ordem pública essencial: a quitação das verbas cobradas em duplicidade pelo Recorrido" (fl. 644).
+Argumenta que "o pagamento de verbas indenizatórias, como as diárias de deslocamento, permanece sob a responsabilidade da União, mesmo quando o servidor atua sob a gestão do Estado cessionário" (fl. 647).
+Pondera que o acórdão recorrido violou a legalidade que rege os atos administrativos ao interpretar de forma equivocada o Convênio 004/2002, atribuindo ao Estado recorrente a responsabilidade pelo pagamento das diárias pleiteadas pelo servidor federal cedido, uma vez que "o convênio reafirma que a União permanece como responsável pelos encargos financeiros relacionados aos servidores federais cedidos, incluindo o pagamento de diárias" (fl. 648).
+Sustenta que, uma vez que foi comprovado o pagamento das verbas pleiteadas, por documentos que gozam de presunção de veracidade, houve violação ao art. 374, II, do CPC. Defende que a manutenção da condenação levará ao enriquecimento sem causa da parte adversa.
+Requer que seja dado provimento ao recurso.
+A parte adversa não apresentou contrarrazões.
+O recurso não foi admitido, razão pela qual foi interposto o agravo em recurso especial ora em análise.
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+Em relação à alegada afronta ao art. 31 da Emenda Constitucional 19/1998, ao art. 31 da Emenda Constitucional 98/2017 e aos arts. 5º, caput, e 37 da Constituição Federal (CF), é incabível o recurso especial quanto ao ponto por se tratar de matéria a ser veiculada em recurso extraordinário, cuja apreciação é da competência do Supremo Tribunal Federal; o contrário implicaria usurpação de competência (art. 102, III, da CF).
+Nessa mesma linha:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INCORRÊNCIA. REINTERPRETAÇÃO DO ALCANCE DA TESE FIRMADA EM RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL RECONHECIDA. MATÉRIA CONSTITUCIONAL. COMPETÊNCIA DO STF. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+IV - Não compete a este Superior Tribunal a análise de suposta violação a dispositivos constitucionais, ainda que para efeito de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal. Precedentes.
+ ..
+VI - Agravo Interno improvido.
+(AgInt no REsp n. 1.836.774/PR, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 10/8/2020, DJe de 14/8/2020, sem destaques no original.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PENSÃO MILITAR. FILHA. REQUISITOS DO ART. 7º DA LEI 3.765/60 C/C LEI 8.216/91. ALEGADA OMISSÃO ACERCA DE VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. AFERIÇÃO. IMPOSSIBILIDADE DE ANÁLISE, EM SEDE DE RECURSO ESPECIAL. ALEGADA OFENSA AO ART. 535 DO CPC/73. NÃO OCORRÊNCIA. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL QUE, EM TESE, TERIA RECEBIDO INTERPRETAÇÃO DIVERGENTE DAQUELA FIRMADA POR OUTROS TRIBUNAIS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF, APLICADA POR ANALOGIA. IMPOSSIBILIDADE DE APRECIAÇÃO DE MATÉRIA CONSTITUCIONAL, EM SEDE DE RECURSO ESPECIAL, SOB PENA DE USURPAÇÃO DA COMPETÊNCIA DO STF. AGRAVO INTERNO IMPROVIDO.
+ ..
+V. Do exame do julgado combatido e das razões recursais, verifica-se que a solução da controvérsia possui enfoque eminentemente constitucional. Dessa forma, compete ao Supremo Tribunal Federal eventual reforma do acórdão recorrido, no mérito, sob pena de usurpação de competência inserta no art. 102 da Constituição Federal. Precedentes do STJ (AgRg no AREsp 584.240/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 03/12/2014; AgRg no REsp 1.473.025/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 03/12/2014).
+VI. Agravo interno improvido.
+(AgInt no REsp n. 1.377.313/CE, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 18/4/2017, DJe de 26/4/2017, sem destaques no original.)
+No que diz respeito à alegação de negativa de prestação jurisdicional pelo Tribunal de origem (fls. 644/645), o recurso especial encontra-se deficientemente fundamentado uma vez que não foi indicado expressamente qual dispositivo de lei federal teria sido contrariado no acórdão recorrido, ou seria objeto de dissídio interpretativo.
+Incide no presente caso, por analogia, a Súmula 284 do Supremo Tribunal Federal (STF): "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Nesse mesmo sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. DISPOSITIVO LEGAL. INDICAÇÃO. AUSÊNCIA. DEFICIÊNCIA NA FUNDAMENTAÇÃO.
+1. Não se conhece de recurso especial quando a parte insurgente deixar de apontar o dispositivo de lei federal supostamente contrariado ou interpretado de maneira divergente pela Corte de origem, circunstância que atrai a incidência da Súmula 284 do STF por deficiência de sua fundamentação.
+2. Agravo interno desprovido.
+(AgInt no AREsp n. 2.980.816/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 24/11/2025, DJEN de 1º/12/2025.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIÇO DE ESGOTAMENTO SANITÁRIO. FALHA NA PRESTAÇÃO DO SERVIÇO. ILEGITIMIDADE PASSIVA DA RECORRENTE E ATIVA DO AUTOR. SUPOSTA VIOLAÇÃO ÀS LEIS Nº 7.347/85, 8.078/90 E 11.445/2007. AUSÊNCIA DE INDICAÇÃO ESPECÍFICA DOS DISPOSITIVOS SUPOSTAMENTE VIOLADOS PELO ACÓRDÃO RECORRIDO. SÚMULA 284/STF. FALHA NA PRESTAÇÃO DO SERVIÇO. DANOS MORAIS. LAUDO PERICIAL. ACÓRDÃO BASEADO NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS 5 E 7/STJ. ACÓRDÃO FUNDAMENTADO EM MATÉRIA CONSTITUCIONAL. INVIABILIDADE DE ANÁLISE EM RECURSO ESPECIAL. AGRAVO INTERNO NÃO PROVIDO.
+1. Não havendo a indicação precisa e específica dos dispositivos legais supostamente violados, é inadmissível o inconformismo por deficiência na sua fundamentação. Aplicação da Súmula nº 284 do Supremo Tribunal Federal.
+ ..
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.859.333/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 14/9/2021, DJe de 16/9/2021, sem destaques no original.)
+O art. 374, II, do CPC, o art. 884 do Código Civil e o art. 1º da Lei 9.784/1999 não foram apreciados pelo Tribunal de origem, nem foram objeto dos embargos de declaração apresentados.
+A falta de enfrentamento no acórdão recorrido da matéria objeto do recurso impede o acesso a esta instância por não ter sido preenchido o requisito constitucional do prequestionamento.
+Incidem no presente caso, por analogia, as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+Para que se configure o prequestionamento, não basta que a parte recorrente devolva a questão controvertida para o Tribunal. É necessário que a causa seja decidida à luz da legislação federal indicada, bem como que seja exercido juízo de valor sobre o dispositivo legal indicado e a tese recursal a ele vinculada, interpretando-se sua incidência ou não no caso concreto.
+Ausente pronunciamento do TRIBUNAL DE JUSTIÇA DO ESTADO DE RORAIMA sobre o ponto, caberia, inicialmente, suscitá-lo em embargos de declaração. Mantida a omissão, deveria a parte interessada deduzir a nulidade do julgamento por violação do art. 1.022 do Código de Processo Civil, o que não foi feito no caso dos autos.
+Para o Superior Tribunal de Justiça, a parte recorrente deve proceder ao cotejo analítico entre os julgados comparados e transcrever os trechos dos acórdãos que configurem o dissídio jurisprudencial, sendo insuficiente, para tanto, a mera transcrição de ementa, pois a demonstração da divergência jurisprudencial deve ser manifestada de forma escorreita, com a necessária demonstração de similitude fática entre os acórdãos confrontados; a inobservância do disposto no art. 1.029, § 1º, do Código de Processo Civil impede o conhecimento do recurso especial pela alínea c do permissivo constitucional.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO PARA IMPUGNAR DECISÃO QUE DEFERIU LIMINAR EM PRODUÇÃO ANTECIPADA DE PROVA. NÃO CABIMENTO. ART. 382, § 4º, DO CPC/2015. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO.
+ ..
+3. Não se conhece do recurso especial interposto com base na alínea "c" do permissivo constitucional quando a divergência não é demonstrada nos termos em que exigido pela legislação processual de regência (1.029, § 1º, do CPC/2015 e do art. 255, §§ 1º e 2º, do RISTJ). Na espécie, o dissídio não foi comprovado, tendo em vista que não foi realizado o devido cotejo analítico, com a demonstração clara do dissídio entre os casos confrontados, identificando os trechos que os assemelhem, não se oferecendo, como bastante, a simples transcrição de ementas ou votos.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.893.155/PR, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 26/4/2021, DJe de 28/4/2021, sem destaque no original.)
+ADMINISTRATIVO. SERVIDOR PÚBLICO. ABONO PERMANÊNCIA. PRESCRIÇÃO. ALEGAÇÃO DE RELAÇÃO DE TRATO SUCESSIVO. INCABÍVEL. AUSÊNCIA DE PREQUESTIONAMENTO. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE. INCIDÊNCIA DO ENUNCIADO N. 83. DIVERGÊNCIA NÃO COMPROVADA.
+ ..
+VII - Para a caracterização da divergência, nos termos do art. 1.029, § 1º, do CPC/2015 e do art. 255, §§ 1º e 2º, do RISTJ, exige-se, além da transcrição de acórdãos tidos por discordantes, a realização do cotejo analítico do dissídio jurisprudencial invocado, com a necessária demonstração de similitude fática entre o aresto impugnado e os acórdãos paradigmas, assim como a presença de soluções jurídicas diversas para a situação, sendo insuficiente, para tanto, a simples transcrição de ementas, como no caso. Nesse sentido: AgInt no AREsp 1.235.867/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 17/5/2018, DJe 24/5/2018; AgInt no AREsp 1.109.608/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 13/3/2018, DJe 19/3/2018; REsp 1.717.512/AL, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/4/2018, DJe 23/5/2018.
+VIII - Agravo interno improvido.
+(AgInt no AREsp n. 1.656.796/PR, relator Ministro Francisco Falcão, Segunda Turma, julgado em 26/4/2021, DJe de 29/4/2021, sem destaque no original.)
+No caso dos autos, a parte recorrente não procedeu ao devido cotejo analítico dos julgados confrontados, ela apenas transcreveu suas ementas.
+Além disso, é pacífico o entendimento desta Corte Superior de que os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c; em razão disso, fica prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica.
+A propósito, confiram-se as decisões proferidas nestes processos: (1) Aglnt no REsp 1.878.337/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 16/12/2020, DJe de 18/12/2020; e (2) Aglnt no REsp 1.503.880/PE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 27/2/2018, DJe de 8/3/2018.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Majoro em 10% (dez por cento), em desfavor da parte recorrente, o valor já arbitrado dos honorários sucumbenciais, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º desse mesmo dispositivo, bem como os termos do art. 98, § 3º, desse diploma legal.
+Publique-se. Intimem-se.
+ EMENTA
