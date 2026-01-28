@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de pedido de tutela cautelar antecedente formulado por SGO INVESTIMENTO E PARTICIPACOES LTDA EM RECUPERACAO JUDICIAL e OUTRO, que visa à atribuição de efeito suspensivo ao recurso especial.
+Alega que o indeferimento do pedido liminar na origem estaria contrariando a jurisprudência do STJ, pois o acórdão recorrido tratou como automática a incidência do art. 6º, §13, da Lei n. 11.101/05 (LFRE), sem cotejo com a necessidade de centralização no juízo universal e com o marco temporal do art. 49 da referida lei , ignorando a governança funcional do juízo recuperacional.
+Sustenta a existência da probabilidade do direito, pois o acórdão recorrido teria tratado a exceção da extraconcursalidade como padrão, bem como haveria erro de enquadramento funcional quanto ao art. 6º, caput, da LFRE, uma vez que a tese de que a competência organizadora do juízo da recuperação se extingue com o término d o stay period não se mantém. Aduz, ainda, vícios formais, com as violações dos arts. 489, §1º, e 1.022, II, do CPC.
+Afirma o perigo da demora, pois a execução prossegue no juízo de origem com bloqueios SISBAJUD já convertidos em penhora, produzindo drenagem imediata de liquidez e tensionando o fluxo de caixa operacional da recuperanda.
+Requer a atribuição de efeito suspensivo ao recurso especial para sustar imediatamente os efeitos do acórdão recorrido e da decisão executiva de origem, com sobrestamento de quaisquer atos de constrição ou expropriação no juízo de origem, bem como determinação de centralização para que toda e qualquer medida urgente relativa ao crédito em discussão seja submetida previamente ao juízo da recuperação.
+Após determinação para que seja complementada a documentação dos autos (fls. 431-432), a parte requerente apresentou petição às fls. 441-689 juntando cópia das contrarrazões ao recurso especial e da decisão de indeferimento da liminar na origem, esclarecendo ainda que não foi proferida até o momento decisão de admissibilidade do recurso especial.
+É o relatório.
+Decido.
+Nos termos dos arts. 1.027, § 2º, 1.028, §§ 2º e 3º, e 1.029, § 5º, III, do Código de Processo Civil, a competência para apreciar o pedido de tutela provisória para suspender o processo na origem somente se transfere ao Superior Tribunal de Justiça após o processamento do recurso especial pelo tribunal de origem.
+Por oportuno:
+Art. 1.029.  ..
+ ..
+§ 5º O pedido de concessão de efeito suspensivo a recurso extraordinário ou a recurso especial poderá ser formulado por requerimento dirigido:
+I - ao tribunal superior respectivo, no período compreendido entre a publicação da decisão de admissão do recurso e sua distribuição, ficando o relator designado para seu exame prevento para julgá-lo;
+II - ao relator, se já distribuído o recurso;
+III - ao presidente ou ao vice-presidente do tribunal recorrido, no período compreendido entre a interposição do recurso e a publicação da decisão de admissão do recurso, assim como no caso de o recurso ter sido sobrestado, nos termos do art. 1.037. (grifos acrescidos).
+No caso, conforme narrado pela parte requerente, não ocorreu, ainda, o juízo de admissibilidade do recurso especial na origem, motivo pelo qual o Superior Tribunal de Justiça não é competente para processar o pedido de tutela provisória.
+A propósito:
+AGRAVO INTERNO NO PEDIDO DE TUTELA CAUTELAR. AÇÃO DE INTERDITO PROIBITÓRIO. CONVERSÃO EM REINTEGRAÇÃO DE POSSE. PRINCÍPIO DA FUNGIBILIDADE DAS AÇÕES POSSESSÓRIAS. ESBULHO. REQUISITOS PREENCHIDOS. EFEITO SUSPENSIVO A RECURSO ESPECIAL AINDA NÃO INTERPOSTO. EXCEPCIONALIDADE DA MEDIDA. INSTÂNCIA ORDINÁRIA NÃO ESGOTADA. PRETENSÃO INADMISSÍVEL. REITERAÇÃO DE PEDIDO JÁ INDEFERIDO POR ESTA CORTE. AGRAVO INTERNO DESPROVIDO.
+1. Trata-se de mera reiteração de pedido anterior, já indeferido na TutCautAnt 285/TO, sem nenhum fato novo que justifique o reexame das alegações.
+2. A competência do Superior Tribunal de Justiça para a apreciação de pleito objetivando a concessão de efeito suspensivo a Recurso Especial instaura-se após realizado o juízo de admissibilidade pelo Tribunal de origem (art. 1.029, § 5º, I, II e III, do CPC/2015).
+3. Na espécie, é inviável a análise de eventual manifesta ilegalidade, pois nem sequer foi esgotada a jurisdição do Tribunal Estadual, uma vez que estão pendentes de julgamento embargos de declaração opostos ao acórdão proferido na apelação. Não se trata, portanto, de Recurso Especial pendente de admissibilidade, pois o acórdão estadual ainda será integrado por outro que vier a julgar os embargos de declaração.
+4. Agravo interno desprovido.
+(AgInt na Pet n. 16.585/TO, Rel. Min. Raul Araújo, Quarta Turma, DJe de 22/3/2024, grifos acrescidos)
+Vale destacar que o abrandamento das previsões legais acima citadas somente é admitido "em casos excepcionalíssimos, para coibir a eficácia de decisão teratológica ou em manifesta contrariedade à jurisprudência assentada pelo STJ (AgInt na Pet n. 13.316/MT, relator Ministro Marco Buzzi, Quarta Turma, DJe de 3/8/2020), o que não se verifica de plano nos acórdãos de fls. 318-323 e 360-364. Restou consignado que o julgado reconheceu expressamente que o crédito executado ostenta natureza extraconcursal por decorrer de ato cooperativo, nos termos do art. 6º, §13, da Lei n. 11.101/2005. Além disso, o entendimento recente do STJ firmado no CC 196.846/RN pela Segunda Seção, assentou que, após o término do período de blindagem, não subsiste competência do juízo da recuperação judicial para deliberar sobre atos constritivos em execução de crédito extraconcursal.
+Ademais, conforme consta às fls. 398-401, verifica-se que o pedido liminar foi formulado junto ao TJGO, já decidido e indeferido em 13.11.2025, pois a parte não demonstrou o perigo da demora, nem a existência da probabilidade do direito, "haja vista que as teses jurídicas por ela apresentadas exigem a reapreciação de provas dos autos, o que, frise-se, não convém seja realizada no estreito limite do juízo superficial que ora se faz".
+Dessa forma, ao menos nesse momento, constata-se inexistir motivo apto a inaugurar a competência desta Corte.
+Ante o exposto, com fundamento no art. 34, XVIII, a, do RISTJ, não conheço do pedido de tutela cautelar antecedente.
+Publique-se. Intimem-se.
+ EMENTA
