@@ -1,0 +1,113 @@
+DECISÃO
+Trata-se de agravo interposto por DELVINO MAGRI contra inadmissão, na origem, de recurso especial fundamentado nas alíneas "a" e "c" do inciso III do art. 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado de São Paulo (fls. 809-825), assim ementado:
+PROCESSUAL CIVIL - CUMPRIMENTO INDIVIDUAL DE SENTENÇA - AÇÃO COLETIVA - EXTINÇÃO DO FEITO SEM RESOLUÇÃO DO MÉRITO POR AUSÊNCIA DE PRESSUPOSTO VÁLIDO E REGULAR DO PROCESSO - Decreto de extinção por ilegitimidade ativa de parte não afiliada à Entidade Sindical autora, à época da propositura da ação de conhecimento - O cumprimento de sentença visando dar efetividade ao julgado, deve observância às estritas lindes do título judicial formado no processo de conhecimento - Sindicato que possui ampla legitimidade extraordinária para representação da categoria na qualidade de substituto processual, mas que ajuizou a ação em favor de grupo nomeado, restrito aos servidores associados, conforme lista integrada à inicial, trazendo o rol de substituídos - Sentença que acolheu o pleito formulado, restringindo seus efeitos aos associados constantes na relação que instruiu a inicial, confirmada em sede recursal, e se encontra acobertada pela imutabilidade da coisa julgada - Necessidade de observância aos limites da coisa julgada subjetiva, com a consequente comprovação da condição de associado - Inviabilidade dos integrantes da categoria não filiados ao tempo da propositura da ação se valerem do título em execução individual - Situação que diverge do contexto e não ofende a tese firmada nos Temas 499 e 823 do C. STF, as quais não afastam a coisa julgada quanto aos sujeitos beneficiados na ação Recorrente que não comprovou a condição de afiliada - Inocorrência de ofensa ao princípio da isonomia ou a preceito constitucional na espécie - Recurso desprovido.
+No recurso especial, às fls. 830-847, a parte recorrente alega violação dos arts. 17 do CPC, 81, III, 95, 97 e 103 da Lei n. 8.078/90, bem como divergência jurisprudencial. Sustenta, em síntese:
+i) afronta à ampla legitimidade extraordinária dos sindicatos para a defesa de toda a categoria representada, bem como ao princípio da isonomia e à intangibilidade da coisa julgada; (fl. 838)
+ii) o caráter genérico da condenação e o efeito erga omnes da coisa julgada em sentença coletiva; (fl. 840)
+iii) eventual limitação subjetiva da abrangência do título executivo deverá ser fundamentada em critérios condizentes com as especificidades do próprio direito reconhecido na ação coletiva, o que não existe no caso concreto, haja vista que os benefícios obtidos pela APEOESP na demanda coletiva originária beneficiam a todos os professores do Estado de São Paulo, indistintamente, e não apenas aqueles que se encontravam em situação de filiados a referida entidade sindical; (fl. 842) e
+iv) o acórdão recorrido decidiu em sentido contrário ao entendimento do STJ. (fl. 842)
+Pugna, ao final, pelo provimento do recurso especial, a fim de que se reconheça a legitimidade do recorrente na execução do título judicial, independentemente de ser filiado ao sindicato na data da propositura da ação coletiva.
+Contrarrazões às fls. 882-890.
+O Tribunal de origem, às fls. 891-892, não admitiu o apelo nobre, por entender pela incidência do enunciado 7 da Súmula do STJ e, também, pelo descumprimento dos requisitos previstos no art. 1.029, § 1º, do CPC, e no art. 255, § 1º, do RISTJ.
+Em seu agravo, às fls. 914-941, a parte agravante aduz que a análise do recurso especial prescinde o reexame de fatos e de provas, e que demonstrou o dissídio jurisprudencial na forma exigida pelo RISTJ e pelo CPC.
+Pugna pelo conhecimento do agravo em recurso especial, para que seja conhecido e provido o recurso especial.
+Contraminuta, às fls. 946-951, pelo não conhecimento do agravo.
+É o relatório.
+A insurgência não merece prosperar.
+De início, quanto a alegada violação dos arts. 81, III, 95, 97 e 103 do CDC (Lei n. 8.078/90) não foram objeto de análise pelo Tribunal de origem e, tampouco, foram opostos embargos de declaração para tal fim.
+Dessa forma, ausente o indispensável prequestionamento, incide, por analogia, o óbice dos enunciados n. 282 ("É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.") e n. 356 ("O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento. ") da Súmula do STF.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA CONTRA A FAZENDA PÚBLICA. LIMITES DA COISA JULGADA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. AFERIÇÃO DOS LIMITES DO TÍTULO EXECUTIVO. NECESSIDADE DE COMPARAÇÃO DE PEÇAS PROCESSUAIS. IMPOSSIBILIDADE. NECESSÁRIO REEXAME DO CONJUNTO FÁTICO. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não se conhece da violação a dispositivos infraconstitucionais quando a questão não foi enfrentada pelo acórdão recorrido, carecendo o recurso especial do necessário prequestionamento (Súmulas 282 e 356 do STF).
+ ..
+(AgRg no AREsp n. 543.975/SC, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 4/11/2014, DJe de 10/11/2014.).
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. INOCORRÊNCIA. QUESTIONAMENTO SOBRE A COISA JULGADA. SOLUCIONADO PELA CORTE DE ORIGEM COM BASE NA IMPOSSIBILIDADE DE SUPRESSÃO DE INSTÂNCIA, E NÃO SOB A ÓTICA DOS DISPOSITIVOS LEGAIS TIDOS POR VIOLADOS. SÚMULA N. 211/STJ. PRESCRIÇÃO. MATÉRIA NÃO PRQUESTIONADA. SÚMULA N. 282/STF. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+II - A coisa julgada não foi examinada pela Corte de origem sob a ótica dos dispositivos legais tidos por violados. Nesse ponto, o Colegiado a quo concluiu que o agravo de instrumento apenas devolve ao tribunal as matérias enfrentadas na origem, pois esse recurso, diferentemente da apelação, é destituído de efeito translativo, ficando vinculado de modo estrito ao conteúdo e ao objeto da decisão impugnada, sob pena de se incorrer em indevida supressão de instância, tornando-se inviável o exame da preliminar de coisa julgada suscitada pela agravante.
+III - O prequestionamento significa o prévio debate da questão no tribunal a quo, à luz da legislação federal indicada, com emissão de juízo de valor acerca dos dispositivos legais apontados como violados. Incidência da Súmula n. 211/STJ.
+ ..
+VII - Agravo Interno improvido.
+(AgInt no REsp n. 2.169.568/PE, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 25/11/2024, DJEN de 29/11/2024.).
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+ ..
+VI - Sobre a alegada violação do art. 987, do CPC/2015, verifica-se que, no acórdão recorrido, não foi analisado o conteúdo do dispositivo legal, nem foi alvo de pedido de aclaramento nos embargos de declaração opostos, pelo que carece o recurso do indispensável requisito do prequestionamento. Incidência do Enunciado Sumular n. 282 do STF.
+VII - Não constando do acórdão recorrido análise sobre a matéria referida no dispositivo legal indicado no recurso especial, restava ao recorrente pleitear seu exame por meio de embargos de declaração, a fim de buscar o suprimento da suposta omissão e provocar o prequestionamento, o que não ocorreu na hipótese dos autos.
+VIII - O requisito do prequestionamento é exigido por esta Corte Superior inclusive nas matérias de ordem pública. No mesmo sentido:
+AgInt no AREsp 1661808/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 14/09/2020, DJe 21/09/2020; AgInt no REsp 1800628/PE, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 24/08/2020, DJe 15/09/2020.
+ ..
+XIII - Agravo interno improvido.
+(AgInt no REsp n. 2.166.453/PE, relator Ministro Francisco Falcão, Segunda Turma, julgado em 9/4/2025, DJEN de 14/4/2025.).
+Ressalta-se que "o prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial, inclusive para as matérias de ordem pública." (AgInt no AREsp n. 2.541.737/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 24/6/2024, DJe de 26/6/2024.).
+Em relação ao art. 17 do CPC, observa-se que o STF, sob a sistemática de repercussão geral, fixou o entendimento de que é ampla a legitimidade extraordinária dos sindicatos para defenderem em juízo os direitos e os interesses coletivos ou individuais dos integrantes da categoria que representam, independentemente de autorização dos substituídos (Tema 823). Confira-se a ementa do precedente:
+RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. ART. 8º, III, DA LEI MAIOR. SINDICATO. LEGITIMIDADE. SUBSTITUTO PROCESSUAL. EXECUÇÃO DE SENTENÇA. DESNECESSIDADE DE AUTORIZAÇÃO. EXISTÊNCIA DE REPERCUSSÃO GERAL. REAFIRMAÇÃO DE JURISPRUDÊNCIA.
+I - Repercussão geral reconhecida e reafirmada a jurisprudência do Supremo Tribunal Federal no sentido da ampla legitimidade extraordinária dos sindicatos para defender em juízo os direitos e interesses coletivos ou individuais dos integrantes da categoria que representam, inclusive nas liquidações e execuções de sentença, independentemente de autorização dos substituídos.
+(RE 883642 RG, Relator(a): MINISTRO PRESIDENTE, Tribunal Pleno, julgado em 18-06-2015, ACÓRDÃO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe-124 DIVULG 25-06-2015 PUBLIC 26-06-2015.).
+Assim, à luz da tese fixada pela Suprema Corte, o STJ assentou que : i) a listagem dos substituídos não se faz necessária na propositura da ação coletiva pelo sindicato; e ii) a eventual juntada de tal relação não gera, por só, a limitação subjetiva da abrangência da sentença coletiva aos substituídos nela indicados.
+Situação diversa, e excepcional, é aquela em que o título executivo limita expressamente a sua abrangência subjetiva diante de particularidades do direito tutelado.
+Nessas situações, esta Corte compreende que é indevida a inclusão de pessoa que não integrou a ação coletiva, sob pena de ofensa à coisa julgada. Na mesma direção, os seguintes julgados:
+PROCESSUAL CIVIL. AGRAVO INTERNO NA EXECUÇÃO EM MANDADO DE SEGURANÇA. LEGITIMIDADE ATIVA. LISTA DE SUBSTITUÍDOS. LIMITAÇÃO EXPRESSA DO TÍTULO EXECUTIVO. COISA JULGADA.
+1. Nos casos de expressa limitação subjetiva no título judicial, o entendimento firmado nesta Corte é no sentido de que, por respeito à coisa julgada, não é possível a inclusão de novos beneficiários.
+2. Agravo Interno não provido.
+(AgInt na ExeMS n. 20.231/DF, relatora Ministra Regina Helena Costa, Primeira Seção, julgado em 18/3/2025, DJEN de 21/3/2025, sem grifos no original.).
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO INDIVIDUAL. ILEGITIMIDADE ATIVA. AÇÃO COLETIVA 5047166-48.2011.4.04.7100. ASSUFRGS. PCCTAE. LISTA NOMINAL DE SUBSTITUÍDOS. TEMA 823/STF. EXPRESSA LIMITAÇÃO SUBJETIVA. IMPOSSIBILIDADE. OFENSA À COISA JULGADA. PARECER 117/2008. AUSÊNCIA DE TÍTULO EXECUTIVO. RECURSO PROVIDO.
+1. A Associação dos Servidores da Universidade Federal do Rio Grande do Sul (ASSUFRGS) optou pela limitação subjetiva do título, tendo mencionado expressamente que estava substituindo apenas os servidores constantes em lista anexada à petição inicial. Desse modo, não pode o servidor que estava incluído no rol de uma ação de conhecimento ser beneficiado pelo resultado de outra demanda.
+ ..
+4. Agravo interno provido para, conhecendo do agravo, dar provimento ao recurso especial.
+(AgInt no AREsp n. 2.312.335/RS, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 11/3/2025, DJEN de 18/3/2025, sem grifos no original.).
+PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. EXECUÇÃO INDIVIDUAL. SENTENÇA EM AÇÃO COLETIVA. LIMITAÇÃO DO TÍTULO JUDICIAL AOS SUBSTITUÍDOS DO SINDICATO-AUTOR CONSTANTES DE LISTA E DO PEDIDO. EXPRESSA FORMAÇÃO DA COISA JULGADA EM RELAÇÃO AOS NOMINADOS.
+ ..
+2. A jurisprudência do STJ é firme no sentido de que a entidade sindical tem ampla legitimidade extraordinária para defender os interesses da respectiva categoria dos substituídos, estejam eles nominados ou não em listagem, seja para promover a ação de conhecimento ou mesmo a execução do julgado, porquanto representa toda a categoria que congrega, em observância à orientação do STF (Tema n. 823), à exceção de expressa limitação dos beneficiários pelo título executivo, ocasião em que deve ser respeitada a coisa julgada. Precedentes. Incidência da Súmula n. 83/STJ.
+ ..
+Agravo interno provido.
+(AgInt no REsp n. 2.016.517/SP, relator Ministro Humberto Martins, Segunda Turma, julgado em 13/3/2023, DJe de 16/3/2023, sem grifos no original.).
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. ILEGITIMIDADE ATIVA. OFENSA À COISA JULGADA. LISTA DE BENEFICIADOS. INCLUSÃO. IMPOSSIBILIDADE. ACÓRDÃO RECORRIDO ALINHADO COM A JURISPRUDÊNCIA DO STJ.
+ ..
+II - A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que, por respeito à coisa julgada, não é possível a inclusão do recorrente em lista de beneficiários cujo título executivo tenha, expressamente, limitado o seu alcance subjetivo.
+Nesse sentido confiram-se: (AgInt no REsp 1.691.620/DF, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 3/11/2021, DJe 5/11/2021, EREsp 1.770.377/RS, relator Ministro Herman Benjamin, Primeira Seção, julgado em 27/11/2019, DJe 7/5/2020 e AgInt no REsp 1.614.030/RS, relator Ministra Regina Helena Costa, Primeira Turma, julgado em 11/2/2019, DJe 13/2/2019.)
+ ..
+IV - Agravo interno improvido.
+(AgInt no AREsp n. 1.883.024/ES, relator Ministro Francisco Falcão, Segunda Turma, julgado em 16/5/2022, DJe de 18/5/2022, sem grifos no original.).
+No caso dos autos, o Tribunal de origem assim se manifestou sobre o cerne da insurgência (fls. 817-824, grifado no original):
+Atrelada ao pleito formulado, a r. sentença refere que foi proposta ação "objetivando que os associados da autora percebam os adicionais". E ao final, julgou procedente a demanda, fazendo constar expressamente no dispositivo a delimitação condicionante:
+Efeito restrito aos filiados da autora que foram identificados nos documentos que instruíram a inicial.
+ ..
+Insta consignar que nos autos do cumprimento de sentença coletivo, atenta aos termos do título judicial obtido na ação a MMª. Juíza condutora do feito percucientemente anotou:
+O pedido inicial deduzido nesta ação coletiva foi acolhido de forma integral para:
+1. Determinar a incidência dos adicionais por tempo de serviço sobre todo o conjunto da remuneração regular dos servidores associados do Sindicato autor, com exceção das vantagens de natureza ocasional;
+ ..
+7. Limitar os efeitos do título executivo aos filiados da autora que foram identificados nos documentos que instruíram a petição inicial; (decisão proferida em 16 de agosto de 2018).
+E nesse mesmo Cumprimento de Sentença coletivo (proc. nº 0019717-09.2018.8.26.0053), em audiência de conciliação realizada na dada de 26/03/2019 as partes formularam acordo no qual restou decidido, entre outras questões que:
+ ..
+7) Caberá ao sindicato apresentar as listagens dos credores (ativos e inativos), observada a restrição feita pelo título executivo no sentido de que este título beneficiará apenas quem já era associado quando da propositura da ação, em formato .Doc (word) ou .Xls (Excel). A listagem deverá corresponder à listagem que compõem seis ou sete volumes destes autos, apresentada quando da propositura da ação.
+Nesse contexto, era mesmo de rigor reconhecer a impossibilidade da extensão do direito reconhecido a um determinado grupo nesta ação, e não à toda categoria (apesar da pertença desse grupo à categoria), em razão da imutabilidade da decisão que delimitou (restringiu) na demanda, o direito reconhecido aos "sujeitos nomeados", quais sejam, indivíduos pertencentes ao quadro de magistério estadual, associados à entidade de classe autora (APEOESP) na ocasião da propositura da ação, cuja lista nominal integrou a inicial.
+ ..
+À guisa de arremate, não se desconhece a tese firmada no Tema 823 do C. STF sobre a ampla legitimidade dos sindicatos, como já acima explicitado. Porém, a orientação voltada à legitimação do sindicato na atuação representativa, não afasta a coisa julgada quanto aos sujeitos beneficiados na ação.
+ ..
+Em suma, o título executivo acobertado pela imutabilidade da coisa julgada limitou seus efeitos aos associados indicados na relação que integrou a petição inicial, inviabilizando a extensão dos efeitos do julgado à toda categoria, circunstância que impede o cumprimento de sentença individual àqueles que não comprovarem a condição de filiados na interposição da ação coletiva intentada, por falta de legitimidade.
+Do exposto, verifica-se que o acórdão recorrido está em consonância com o entendimento desta Corte segundo o qual, no caso de expressa limitação no título executivo quanto aos beneficiários da ação coletiva, é indevida a inclusão de pessoa que não preenche esse requisito, sob pena de ofensa à coisa julgada.
+Assim, diante da jurisprudência dominante desta Corte acerca do tema, é de rigor a aplicação da orientação prevista no enunciado 568 da Súmula do Superior Tribunal de Justiça, in verbis: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.".
+Acrescente-se, ainda, sobre a alegação das partes recorrentes de que "no caso concreto, benefícios obtidos pela APEOESP na demanda coletiva originária beneficiam a todos os professores do Estado de São Paulo, indistintamente, e não apenas aqueles que se encontravam em situação de filiados a referida entidade sindical (fl. 842), que o Tribunal de origem, com base no acervo fático e nas provas dos autos, reconheceu a existência de limitação subjetiva do título executivo sobre a qual se operou a coisa julgada, tendo verificado a expressa manifestação do sindicato pelos "efeitos restritos aos filiados da autora que foram identificados nos documentos que instruíram a inicial." (fl. 818).
+Assim, para se chegar à conclusão diversa, no sentido de entender pela inexistência de limitação subjetiva, seria necessário o reexame dos fatos e das provas, o que é vedado pelo enunciado 7 da Súmula do STJ, que assim dispõe: "A pretensão de simples reexame de provas não enseja recurso especial".
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO INDIVIDUAL DE TÍTULO FORMADO EM AÇÃO COLETIVA. LIMITES SUBJETIVOS DO TÍTULO. COISA JULGADA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ. PROVIMENTO NEGADO.
+1. O acórdão recorrido está em consonância com a jurisprudência dominante desta Corte segundo a qual no caso de expressa limitação no título executivo quanto aos beneficiários da ação coletiva é indevida a inclusão de servidor que não integrou a listagem, sob pena de ofensa à coisa julgada. Precedentes.
+2. Rever o teor do título executivo para desconstituir a conclusão do Tribunal de origem, nos termos pretendidos no recurso, é providência que esbarra no óbice contido na Súmula 7/STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.257.270/RJ, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 4/9/2023, DJe de 8/9/2023, sem grifos no original.).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA PROFERIDA EM AÇÃO COLETIVA AJUIZADA PELO SINDICATO NACIONAL DOS TÉCNICOS DA RECEITA FEDERAL - SINDTTEN. LIMITAÇÃO. COISA JULGADA. SÚMULA 7/STJ.
+1. A jurisprudência do Superior Tribunal de Justiça entende que, havendo o Tribunal a quo reconhecido a existência de limitação subjetiva do título executivo sobre a qual se operou a coisa julgada, decidir em sentido contrário, afastando a ocorrência de tal limitação, pressupõe reexame do conjunto fático-probatório, o que é vedado por força da Súmula 7/STJ. Precedentes.
+ ..
+5. Agravo Interno não provido.
+(AgInt no REsp 2.019.640/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022, sem grifos no original.).
+AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. AÇÃO COLETIVA. SINDICATO. TÍTULO EXECUTIVO. LIMITAÇÃO SUBJETIVA. ANÁLISE. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ.
+ ..
+2. No caso, o Tribunal de origem entendeu pela legitimidade ativa da parte exequente, ao concluir que o título executivo não limitou o benefício aos filiados do sindicato. Assim, a alteração das conclusões adotadas pela Corte de origem, a fim de que se entenda pela limitação subjetiva do título executivo, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+ ..
+4. Agravo interno não provido.
+(AgInt no REsp n. 2.005.449/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 9/11/2022, DJe de 14/11/2022, sem grifos no original.).
+Por derradeiro, no que concerne à interposição do especial pela alínea "c" do permissivo constitucional, é inviável a análise do dissídio jurisprudencial quando a tese sustentada já foi afastada no exame do apelo nobre pela alínea "a". Nessa direção: AgInt no AREsp n. 2.238.489/ES, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 3/10/2024.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, alíneas "a" e "b", do Regimento Interno desta Corte, conheço do agravo, para conhecer em parte do recurso especial e, na parte conhecida, negar-lhe provimento.
+Publique-se.
+Intime-se.
+EMENTA
+PROCESSO CIVIL E ADMINISTRATIVO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. AGRAVO EM RECURSO ESPECIAL. OFENSA AOS 81, III, 95, 97 E 103 DA LEI N. 8.078/90. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E N. 356 DO STF, POR ANALOGIA. CONTRARIEDADE AO ART. 17 DO CPC. LEGITIMIDADE. BENEFICIÁRIOS DA AÇÃO COLETIVA. INCLUSÃO. IMPOSSIBILIDADE. ACÓRDÃO EM SINTONIA COM A ORIENTAÇÃO CONSOLIDADA DESTA CORTE. SÚMULA 568/STJ. ALTERAR CONCLUSÃO DO TRIBUNAL DE ORIGEM SOBRE EXISTÊNCIA DE LIMITAÇÃO SUBJETIVA DO TÍTULO EXECUTIVO. INVIABILIDADE. INCURSÃO NO QUADRO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. EXAME PREJUDICADO. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO, E NA PARTE CONHECIDA, NÃO PROVIDO.
