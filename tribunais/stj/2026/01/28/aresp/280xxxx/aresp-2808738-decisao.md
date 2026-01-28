@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual Ruth de Lima Assis se insurgira, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal (CF), contra o acórdão do Tribunal Regional Federal da 4ª Região assim ementado (fl. 275):
+PREVIDENCIÁRIO. APOSENTADORIA POR IDADE HÍBRIDA. TEMPO DE SERVIÇO RURAL. AUSÊNCIA DE INÍCIO DE PROVA MATERIAL. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DE MÉRITO. HONORÁRIOS ADVOCATÍCIOS.
+1. É devida a aposentadoria por idade mediante conjugação de tempo rural e urbano durante o período aquisitivo do direito, a teor do disposto na Lei nº 11.718, de 2008, que acrescentou o § 3º ao art. 48 da Lei nº 8.213, de 1991, desde que cumprido o requisito etário de 60 anos para mulher e de 65 anos para homem.
+2. Considera-se comprovado o exercício de atividade rural havendo início de prova material complementada por prova testemunhal idônea.
+3. Hipótese que não há início de prova material acerca do período rural pretendido, não sendo admitida prova exclusivamente testemunhal.
+4. A ausência de conteúdo probatório válido a instruir a inicial implica a carência de pressuposto de constituição e desenvolvimento válido do processo, impondo a sua extinção sem o julgamento do mérito. Dessa forma, possibilita-se que a parte autora ajuíze nova ação, caso obtenha prova material hábil a demonstrar o exercício do labor rural durante o período de carência necessário para a concessão da aposentadoria pleiteada. Precedente do STJ.
+5. Verba honorária majorada em razão do comando inserto no § 11 do art. 85 do CPC, cuja exigibilidade fica suspensa em virtude da concessão de AJG.
+Os embargos de declaração opostos foram rejeitados (fls. 295/299).
+Em suas razões, a parte agravante requer o conhecimento do agravo a fim de que seja determinado o processamento do recurso especial.
+O recurso não foi admitido (fls. 432/435), razão pela qual foi interposto o agravo ora examinado.
+A parte adversa não apresentou contraminuta, consoante a certidão de fl. 452.
+É o relatório.
+Da irresignação não é possível conhecer visto que a parte agravante não refutou adequadamente a decisão agravada.
+O Tribunal de origem não admitiu o recurso especial sob os seguintes fundamentos: (1) incabível recurso especial contra enunciado de súmula, atraindo a incidência da Súmula 518/STJ; (2) incidência da Súmula 7/STJ; e (3) prejudicada a análise da divergência jurisprudencial.
+Nas razões do agravo em recurso especial, a parte recorrente alegou o seguinte:
+3. RAZÕES PARA REFORMA DA DECISÃO DE INADMISSIBILIDADE 3.1. DA ALEGADA INCIDENCIA DA SUMULA 518 DO STJ:
+Constou no acórdão que o recurso não merece trânsito, uma vez que, para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula.
+Releva demonstrar que a agravante, o presente recurso especial demonstrando a divergência jurisprudencial, em conformidade com o artigo 105, III, C, bem como também, interpôs o recurso especial consubstanciado na demonstrada violação de lei federal, atendendo os requisitos do art. 105, III, alínea "a" pela violação do art. 55, §3º da lei 8.213/91 que já fora interpretado pelo Tema 638 e Súmula 577 do STJ, portanto, as condições de admissibilidade foram devidamente demonstradas, o que não impede o processamento do presente recurso especial.
+Nobre Ministro, a agravante demonstrou claramente a violação de lei federal na decisão recorrida, qual seja: art. 55, §3º (ao não considerar como válida a prova material constante nos autos, deixando de ampliar a eficácia probatória, mesmo diante da prova testemunhal coerente e robusta) conforme pode ser observado nas razões do recurso especial.
+Desta forma, resta comprovado a violação da lei federal - art. 55, §3º da lei 8.213/91 que permite a prova material extemporânea, desde que seja ampliada pela prova testemunhal, o que efetivamente ocorreu nos autos, conforme pontos incontroversos.
+3.2. DA NÃO INCIDÊNCIA DA SÚMULA 7/STJ A IMPEDIR O PROCESSAMENTO DO RECURSO ESPECIAL:
+ ..
+Preclaro Julgador, o impedimento destacado pela Súmula 7 do STJ - A pretensão de simples reexame de prova não enseja recurso especial - foi herdado de enunciado equivalente tradicionalmente aplicado pelo Supremo Tribunal Federal (STF), de número 279, o qual dispõe de modo análogo que, para simples reexame de prova não cabe recurso extraordinário.
+Entretanto, o mero reexame da prova não pode ser confundido com revaloração jurídica, que são questões diferentes e que ensejam, sem dúvida, a interposição de recurso especial. É incontroverso nos autos a juntada dos documentos aceitos como início de prova material bem como da prova testemunhal robusta.
+Portanto, perfeitamente possível avaliar os pontos incontroversos dos autos, sem que isso implique em reexame de prova como interpretado pelo Tribunal ao não admitir o recurso especial  ..
+3.3. DA COMPETÊNCIA DO STJ PARA ANALISAR OFENSAS A DISPOSITIVO CONSTITUCIONAL
+ ..
+Nobre Ministro, a agravante demonstrou claramente a violação de lei federal na decisão recorrida, qual seja: art. 55, §3º (ao não considerar como válida a prova material constante nos autos, deixando de ampliar a eficácia probatória, mesmo diante da prova testemunhal coerente e robusta) conforme pode ser observado nas razões do recurso especial.
+Assim, devidamente preenchido o requisito do artigo 105, III "a" da Constituição Federal.
+Ante o exposto, requer o agravante a análise do recurso especial apresentado com fundamento no artigo 105, III "a" e "c" da Constituição Federal.
+Constato que a parte agravante não rebateu, de modo adequado e fundamentado, todos os fundamentos da decisão agravada. Houve refutação parcial da aplicação da Súmula 518/STJ, sem se enfrentar o ponto específico de que não se conhece de violação a enunciado sumular em recurso especial. Além disso, não houve enfrentamento efetivo do núcleo fático fixado na origem - ausência de início de prova material - que sustenta a incidência da Súmula 7/STJ e afasta a tese de mera nova valoração jurídica.
+O objetivo do agravo em recurso especial é o de desconstituir a decisão de admissibilidade do recurso especial, sendo, por isso, imprescindível a impugnação específica de todos os fundamentos nela lançados com o fim de demonstrar o seu desacerto, o que, como se vê, não foi feito no presente caso.
+Dessa forma, por faltar impugnação pertinente, aplico ao presente caso, por analogia, a Súmula 182 do Superior Tribunal de Justiça, segundo a qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Na mesma linha:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ. AGRAVO INTERNO DA FAZENDA NACIONAL NÃO CONHECIDO.
+1. A parte agravante deve infirmar os fundamentos da decisão impugnada, mostrando-se inadmissível o recurso que não se insurge contra todos eles - Súmula 182 do Superior Tribunal de Justiça.
+2. Em análise do Agravo Interno interposto, tem-se que a parte agravante não rebateu todos fundamentos da decisão que conheceu do Agravo para conhecer em parte e negar provimento ao Recurso Especial, pois deixou de se manifestar acerca da incidência das Súmulas 282 e 356/STF.
+3. Por fim, há de se registrar a necessidade de impugnação devida e específica de todos os fundamentos da decisão agravada, mesmo que sejam distintos e independentes entre si.
+4. Agravo Interno da FAZENDA NACIONAL não conhecido.
+(AgInt no AREsp n. 1.616.546/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 22/6/2020, DJe de 29/6/2020.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, TODOS OS FUNDAMENTOS DA DECISÃO QUE NÃO ADMITIU O RECURSO ESPECIAL. ART. 932, III, DO CPC/2015 E SÚMULA 182/STJ, POR ANALOGIA. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+II. Incumbe ao agravante infirmar, especificamente, todos os fundamentos da decisão que inadmitiu o Recurso Especial, demonstrando o seu desacerto, de modo a justificar o processamento do apelo nobre, sob pena de não ser conhecido o Agravo (art. 932, III, do CPC vigente). Nesse sentido: STJ, AgRg no AREsp 704.988/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 10/09/2015; EDcl no AREsp 741.509/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 16/09/2015; AgInt no AREsp 888.667/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 18/10/2016; AgInt no AREsp 895.205/PB, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 20/10/2016; AgInt no AREsp 800.320/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 13/10/2016; EAREsp 701.404/SC, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe de 30/11/2018; EAREsp 831.326/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe de 30/11/2018; EAREsp 746.775/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe de 30/11/2018.
+III. No caso, por simples cotejo entre o decidido e as razões do Agravo em Recurso Especial verifica-se a ausência de impugnação específica de todos os fundamentos da decisão que, em 2º Grau, inadmitira o Especial, o que atrai a aplicação do disposto no art. 932, III, do CPC/2015 - vigente à época da publicação da decisão então agravada e da interposição do recurso -, que faculta ao Relator "não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida", bem como do teor da Súmula 182 do Superior Tribunal de Justiça, por analogia.
+IV. Agravo interno improvido.
+(AgInt no AREsp 1.503.814/MA, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 17/10/2019, DJe de 28/10/2019.)
+Ante o exposto, não conheço do agravo em recurso especial.
+Majoro em 10% (dez por cento), em desfavor da parte recorrente, o valor já arbitrado dos honorários sucumbenciais, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º desse mesmo dispositivo, bem como os termos do art. 98, § 3º, desse diploma legal.
+Publique-se. Intimem-se.
+EMENTA
