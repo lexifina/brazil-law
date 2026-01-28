@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interposto por FABIO LUIZ MORAES contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA que inadmitiu recurso especial dirigido contra o acórdão prolatado no Recurso em Sentido Estrito n. 5003288-79.2025.8.24.0023.
+Aponta o agravante, no recurso especial, violação dos arts. 41 e 395, III do CPP, argumentando que a queixa-crime preenche todos os requisitos legais, há justa causa e lastro probatório mínimo para instauração da ação penal, requerendo seja determinado o recebimento da queixa-crime e regular prosseguimento da ação penal privada.
+Inadmitido o recurso na origem (fls. 160/161), subiram os autos ao Superior Tribunal de Justiça por meio do presente agravo (fls. 163/175).
+O Ministério Público Federal manifesta-se pelo não provimento do agravo (fls. 213/218).
+É o relatório.
+O presente agravo deve ser conhecido, uma vez que reúne os requisitos intrínsecos e extrínsecos de admissibilidade.
+O recurso especial, contudo, não comporta conhecimento.
+A questão central envolve determinar se há ou não justa causa (indícios suficientes de autoria e materialidade) dos crimes de calúnia e difamação, o que, segundo reiterada jurisprudência do STJ, demanda inevitável análise do conjunto probatório. Confira-se: RHC n. 159.305/GO, de minha relatoria, Sexta Turma, julgado em 15/8/2023, DJe de 21/8/2023; RHC n. 100.494/PE, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 12/2/2019, DJe de 7/3/2019.
+No caso, o Tribunal de origem assentou que não se verifica a presença de indicativos mínimos de que Danieli Galvani  e  Thiago Costa  tenham caluniado ou difamado o recorrente. O que existiu foi um desdobramento de fato que, lamentavelmente, teria ocorrido em momento anterior, envolvendo o ataque, em plena via pública, de um cão de grande porte (nos moldes da raça pitbull) ao filho dos querelados, de apenas 10 (dez) meses de idade, e à cadela de estimação do casal - a qual não resistiu aos ferimentos, vindo a óbito na sequência.  ..  Assim, além da ausência de demonstração do preenchimento das elementares objetivas dos crimes contra a honra, não há evidência mínima de que a recorrida possa ter agido com animus caluniandi, diffamandi e injuriandi (fls. 107/108). Rever esse entendimento demandaria revolvimento da matéria fático-probatória, providência que, a toda evidência, é vedada pelo enunciado da Súmula 7/STJ.
+Por fim, cumpre lembrar que o Superior Tri bunal de Justiça não é terceira instância revisora ou Corte de apelação sucessiva. O recurso especial é excepcional, de fundamentação vinculada, com forma e conteúdo próprios, que se destina a atribuir a adequada interpretação e uniformização da lei federal, e não ao rejulgamento da causa, à moda de recurso ordinário ou de apelação, sob pena de se tornar uma terceira instância recursal (AgRg no AREsp 2.231.594/MS, relator Ministro Jesuíno Rissato, Sexta Turma, julgado em 13/8/2025, DJe de 16/8/2025).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. CRIMES CONTRA A HONRA. CALÚNIA E DIFAMAÇÃO. QUEIXA-CRIME. REJEIÇÃO. AUSÊNCIA DE JUSTA CAUSA. RECURSO ESPECIAL INADMITIDO NA ORIGEM. SÚMULA 7/STJ. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE.
+Agravo conhecido para não conhecer do recurso especial.
