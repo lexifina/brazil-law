@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de recurso especial interposto por LUCIANE MACEDO ROCHA, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que julgou demanda relativa à cobrança de tarifa de água por estimativa e instalação de hidrômetros individuais nos termos desta ementa:
+Ação de exigir contas Primeira fase Decisão que julgou procedente a ação Insurgência do agravante diante da ausência de condenação por honorários advocatícios sucumbenciais Necessidade de fixação da verba sucumbencial, por equidade, em vista do baixo valor da causa e da impossibilidade de se calcular o proveito econômico da agravante Entendimento do C. Superior Tribunal de Justiça Recurso provido.
+Rejeitados os embargos de declaração opostos (fl.36).
+A parte recorrente alega violação dos arts. 85, § 8º e § 8º-A, do Código de Processo Civil (Lei n. 13.105/2015), por suposta negativa de vigência e não aplicação, sustentando que, nas hipóteses de fixação equitativa de honorários sucumbenciais, o julgador deve observar os valores recomendados pelo Conselho Seccional da Ordem dos Advogados do Brasil ou, alternativamente, o limite mínimo de 10% previsto no § 2º, aplicando-se o que for maior (fls. 41-47).
+Apresentada contrarrazões ao recurso especial (fls. 56-63), sobreveio juízo de admissibilidade positivo da instância de origem (fls. 64-66).
+É, no essencial, o relatório.
+A controvérsia tratada nestes autos está sendo rediscutida em recurso repetitivo. Entretanto, não é o caso do repetitivo 1.076, como alega o recorrente.
+A Seg unda Seção desta Corte, nos autos do REsp 2159431/SP, decidiu fixar tese no Tema Repetitivo n.1388/STJ, qual seja, a necessidade de observância dos parâmetros mínimos estabelecidos no art. 85, § 8º-A, do CPC, quando da fixação dos honorários advocatícios por apreciação equitativa.
+Logo, por medida de economia processual e para evitar decisões dissonantes entre Cortes integrantes do mesmo sistema de Justiça, os recursos que versam sobre a mesma controvérsia devem retornar à origem, dando ensejo à aplicação uniforme da tese vinculante.
+Somente depois de realizada tal providência, isto é, com o exaurimento da instância ordinária, os recursos excepcionais deverão ser encaminhados para os Tribunais Superiores para análise dos pontos jurídicos neles suscitados, a menos que estejam prejudicados pelo novo pronunciamento do Tribunal local.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, para observação da disciplina processual dos arts. 1.039 e 1.040 do CPC/2015, devendo-se: i) negar seguimento ao recurso, se o acórdão recorrido coincidir com a tese vinculante do Tribunal Superior; ou ii) proceder ao juízo de retratação, na hipótese de ter o Colegiado local divergido da interpretação fixada no precedente qualificado.
+Publique-se. Intimem-se.
+ EMENTA
