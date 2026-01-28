@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de embargos de declaração oposto por ANDERSON MARIN e OUTROS contra a decisão de fls. 867/875.
+A parte embargante aponta os seguintes vícios na decisão embargada: i) omissão quanto à aplicação integral do princípio da precaução e da inversão do ônus da prova decorrente da responsabilidade objetiva ambiental, prevista no art. 14, § 1º, da Lei 6.938/1981; (ii) omissão sobre a equiparação dos autores a consumidores, nos termos do art. 17 do Código de Defesa do Consumidor (CDC), e a incidência do art. 6º, VIII, do CDC; (iii) contradição entre o reconhecimento de dano ambiental e a exigência de prova do dano moral, sustentando a natureza in re ipsa do dano extrapatrimonial; (iv) omissão sobre inexistência de pedido para que a Companhia de Saneamento do Paraná (SANEPAR) provasse fato negativo, tendo sido requerido que produzisse prova positiva da regularidade da operação e dos controles ambientais, nos termos do art. 373, § 1º, do Código de Processo Civil (CPC); (v) omissão quanto ao afastamento indevido da inversão probatória integral, embora reconhecida a existência de dano ambiental e a necessidade de investigação.
+Requer que o recurso seja acolhido com efeitos infringentes.
+A parte adversa apresentou impugnação (fls.891/893).
+É o relatório.
+Os embargos declaratórios não apresentam vícios formais, foram opostos dentro do prazo e cogitam, objetivamente, de matéria própria dessa espécie recursal (arts. 1.022 e 1.023 do CPC). Nada há, enfim, que impeça o seu conhecimento.
+Na decisão recorrida, a controvérsia foi solucionada nestes termos (fls. 871):
+A ocorrência do dano ambiental, portanto, foi abordada no acórdão recorrido. O Tribunal de origem reconheceu a existência dos danos, decidindo que a sua extensão deveria ser comprovada pela parte autora, pois do contrário se estaria impondo a obrigação de comprovar fato negativo.
+Vê-se que inexiste a alegada violação do do CPC, pois a prestação art. 1.022 jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade. É importante destacar que julgamento diverso do pretendido, como neste caso, não implica ofensa ao dispositivo de lei invocado.
+Ressalto que, embora a responsabilidade civil por dano ambiental seja objetiva, não está dispensada a comprovação do nexo causal entre o resultado lesivo e a ação ou a omissão do agente causador.
+ ..
+Do trecho do acórdão recorrido anteriormente destacado, depreende-se que o Tribunal de origem entendeu que cabia aos autores comprovar "que residem no local supostamente afetado, assim como o alegado odor insuportável" (fl. 468). Dessa forma, não houve o reconhecimento da existência do nexo causal entre o dano e a conduta da SANEPAR, mas apenas a determinação de que a parte ora recorrente comprovasse a existência desse nexo de causalidade; para tanto, os autores da ação deveriam comprovar a existência do odor insuportável na localidade em que residiam.
+Entender de maneira diversa, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ) - "a pretensão de simples reexame de prova não enseja recurso especial".
+ ..
+Também não procede a alegação de que o dano moral se opera in re ipsa no presente caso, porque a intolerabilidade da lesão à natureza é condição desse tipo de dano moral, o que não foi reconhecido no presente caso.
+Novamente, decidir de maneira diversa exigiria o reexame do contexto fático- probatório dos autos, o que não é permitido em razão da Súmula 7/STJ.
+A respeito das questões apontadas no recurso ora examinado, foi estabelecido na decisão monocrática que a responsabilidade civil ambiental não prescinde da demonstração do nexo de causalidade entre o dano e a ação ou omissão do agente, cabendo aos autores a demonstração desse nexo. Além disso, o Tribunal de origem não reconheceu a intolerabilidade da lesão causada, de maneira que não estão presentes todos os requisitos necessários à configuração do dano moral.
+O inconformismo da parte embargante não se enquadra nas hipóteses de cabimento dos embargos de declaração, previstas no art. 1.022 do Código de Processo Civil (CPC).
+Rever as matérias alegadas no recurso ora examinado acarretaria rediscutir entendimento já manifestado e devidamente embasado. O recurso integrativo não se presta à inovação, à rediscussão da matéria tratada nos autos ou à correção de eventual error in judicando.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+ EMENTA
