@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MARCOS ANTONIO DA SILVA ONORIO, RAMON JOAO DA SILVA e ADENILSON JOSE BORGES DA SILVA contra a decisão do Tribunal de Justiça do Distrito Federal e dos Territórios que inadmitiu recurso especial apresentado contra o acórdão exarado no julgamento da Apelação Criminal n. 0724315-47.2021.8.07.0001 (fls. 8.126/8.209).
+O Ministério Público Federal apresentou parecer opinando pelo não conhecimento do agravo em recurso especial (fls. 8.853/8.856).
+É o relatório.
+O agravo é inadmissível.
+Inicialmente, esclareço que a decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos, inclusive de forma específica, suficiente e pormenorizada, não sendo suficientes meras alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência do óbice da Súmula 182/STJ (AgRg nos EDcl no AREsp n. 2.985.942/MA, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 16/9/2025, DJEN de 25/9/2025).
+Ao que se observa, o Tribunal de origem inadmitiu o apelo nobre pelos seguintes fundamentos: 1) incidência da Súmula 283/STF, por ausência de impugnação a fundamento autônomo do acórdão - Os réus  não recorreram -, suficiente à manutenção do julgado; 2) incidência da Súmula 7/STJ, quanto à pretensão de absolvição por insuficiência probatória (art. 386, VII, do CPP); e 3) incidência da Súmula 83/STJ, por estar o acórdão em consonância com a jurisprudência do Superior Tribunal de Justiça quanto ao regime mais gravoso diante da reincidência (fls. 8.682/8.684).
+Todavia, a parte agravante, nas razões do agravo em recurso especial, não impugnou, de maneira específica, a íntegra da decisão de inadmissão.
+Alega que afastou a Súmula 283/STF por ter abrangido todos os pontos relevantes e a impugnação específica de todos os itens, sem indicar qual fundamento autônomo do acórdão foi efetivamente enfrentado, nem as folhas em que isso teria ocorrido, permanecendo hígida a constatação de falta de ataque ao fundamento suficiente do acórdão (fls. 8.728/8.729).
+Argumenta que não pretende reexaminar provas, mas apenas discutir matéria de direito e revalorar a moldura fática, citando precedentes genéricos, sem demonstrar, à luz das premissas fáticas do acórdão recorrido, como suas teses poderiam ser acolhidas por mera revaloração, o que não afasta o óbice da Súmula 7/STJ (fls. 8.729/8.735).
+Sustenta que a Súmula 83/STJ seria inaplicável, por suposta limitação a recursos pela alínea c, e invoca julgados sobre regime prisional sem distinguir os precedentes utilizados na decisão de inadmissão nem apontar alteração jurisprudencial contemporânea, deixando de infirmar concretamente a conclusão de consonância do acórdão com a orientação do Superior Tribunal de Justiça (fls. 8.736/8.737).
+Po r conseguinte, aplica-se, à hipótese dos autos, o art. 932, inciso III, do Código de Processo Civil, c/c o art. 3º do Código de Processo Penal, e a Súmula 182/STJ por analogia.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. OPERAÇÃO TRÍADE. ORGANIZAÇÃO CRIMINOSA. INSURGÊNCIA NÃO CONHECIDA POR INCIDÊNCIA DAS SÚMULAS 7 E 83/STJ, 283/STF. IMPUGNAÇÃO DEFICIENTE DA DECISÃO DE INADMISSÃO NA ORIGEM. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015 E 253, PARÁGRAFO ÚNICO, I, DO RISTJ.
+Agravo em recurso especial não conhecido.
