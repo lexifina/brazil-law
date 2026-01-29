@@ -1,0 +1,42 @@
+DECISÃO
+Tratam-se de recursos especiais que se insurgem contra o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado (fl. 49):
+AGRAVO DE INSTRUMENTO. ICMS. EXCEÇÃO DE PREEXECUTIVIDADE. JUROS MORATÓRIOS INCIDENTES SOBRE MULTA PUNITIVA. CABIMENTO. Cabível a incidência de juros moratórios sobre a multa punitiva, limitado ao valor respectivo a 100% do valor do tributo e respeitado o artigo 96, II, da Lei nº 13.918/2009. Decisão reformada. RECURSO PROVIDO.
+Os embargos de declaração opostos pela parte contribuinte foram rejeitados (fls. 64/67) e, posteriormente, aqueles opostos pela Fazenda do Estado de São Paulo foram acolhidos com efeitos modificativos para negar provimento ao agravo de instrumento quanto à não incidência da Taxa Selic como índice de atualização monetária da base de cálculo da multa (fls. 101/105).
+Nas razões de seu recurso especial às fls. 115/122, o Estado de São Paulo alega ofensa ao arts. 1.022, inciso II, do Código de Processo Civil (CPC) por omissão do acórdão quanto à possibilidade de atualização da base de cálculo da multa punitiva pela Taxa Selic e à tese de que a limitação da multa a 100% do tributo não afastaria a atualização da base de cálculo.
+Aponta violação dos arts. 113 e 161 do Código Tributário Nacional (CTN) ao afirmar que o crédito tributário abrange penalidade pecuniária e que incidem juros de mora sobre crédito não pago, legitimando a atualização da base da multa e a incidência de juros, inclusive sobre multas. Argumenta que a não atualização da base de cálculo da multa implica diminuição real da sanção e benefício indevido ao infrator, sendo necessária a atualização "para que a multa aplicada não tenha seu valor e, portanto, sua eficácia, deteriorados pelo passar dos anos" (fl. 121).
+Jorge Alex Calçados Eireli, por sua vez, nas razões de seu recurso especial às fls. 72/86, alega violação dos arts. 202, inciso III, do CTN; 2º, § 5º, inciso III, da Lei 6.830/1980; 85, § 9º, da Lei 6.374/1989; 489, § 1º, incisos II e IV, 803, incisos I e III, 924, inciso I, e 1.022, inciso II, do CPC.
+Sustenta ofensa aos arts. 489, § 1º, II e IV, e 1.022, II, do CPC por negativa de prestação jurisdicional, afirmando omissão quanto à nulidade das Certidões de Dívida Ativa (CDA), à base de cálculo da multa e à aplicação dos percentuais do Tema 214 do Supremo Tribunal Federal (STF).
+Aponta violação dos arts. 202, III, do CTN e 2º, § 5º, III, da Lei 6.830/1980, por ausência, nas CDAs, de menção à origem, natureza e fundamento legal da dívida, o que impediria o exercício da defesa.
+Indica ofensa ao art. 803, I e III, do CPC, por vícios que invalidariam a execução, e ao art. 924, I, do CPC, por não reconhecer a extinção da execução diante da nulidade.
+Afirma violação do art. 85, § 9º, da Lei 6.374/1989, ao sustentar que a base de cálculo da multa deve observar os "valores básicos atualizados" e que somente a partir da lavratura do Auto de Infração e Imposição de Multa (AIIM) pode haver cobrança de juros sobre a multa.
+Argumenta que, à luz do Tema 214 do STF, a multa não pode assumir caráter confiscatório, pleiteando limitação proporcional (fl. 80).
+Contrarrazões apresentadas às fls. 124/137.
+Quando do juízo de admissibilidade (fls. 141/142 e 143/145), os recursos especiais não foram admitidos, razão pela qual foram interpostos os agravos em recurso especial por ambas as partes.
+É o relatório.
+Não é possível conhecer dos agravos em recurso especial visto que os agravantes não refutaram adequadamente a decisão agravada.
+O Tribunal de origem inadmitiu o recurso especial de Jorge Alex Calçados Eireli, com os seguintes fundamentos (fls. 141/142):
+(1) não houve afronta aos arts. 489 e 1.022 do CPC;
+(2) a revisão do entendimento firmado pelo Tribunal de origem demandaria reexame de matéria fática, o que faz incidir a Súmula 7 do STJ; e
+(3) incide, na hipótese dos autos, a Súmula 280 do STF, pois "o fundamento utilizado para interposição somente poderia ter sua procedência verificada mediante o reexame de direito local" (fl. 142).
+Também o recurso especial de iniciativa do Estado de São Paulo não foi admitido na origem com base nos seguintes fundamentos:
+(1) o Tribunal de origem apreciou a controvérsia dos autos de forma fundamentada, o que afasta a violação dos arts. 489 e 1.022 do CPC; e
+(2) quanto à aplicabilidade da Taxa Selic na cobrança da multa punitiva, o exame das razões recursais demandam a análise de lei local, incidindo a Súmula 280 do STF.
+Todavia, observo que os agravantes não refutaram a incidência da Súmula 280 do STF.
+O agravo em recurso especial tem por objetivo desconstituir a decisão de inadmissão de recurso especial, sendo, por isso, imprescindível a impugnação específica de todos os fundamentos nela lançados com o fim de demonstrar o seu desacerto, o que, como se vê, não foi feito no presente caso.
+Dessa forma, à míngua de impugnação pertinente, aplico ao presente caso, por analogia, a Súmula 182 do Superior Tribunal de Justiça, segundo a qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Confiram-se os seguintes julgados deste Tribunal sobre o tema:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ. AGRAVO INTERNO DA FAZENDA NACIONAL NÃO CONHECIDO.
+1. A parte agravante deve infirmar os fundamentos da decisão impugnada, mostrando-se inadmissível o recurso que não se insurge contra todos eles - Súmula 182 do Superior Tribunal de Justiça.
+2. Em análise do Agravo Interno interposto, tem-se que a parte agravante não rebateu todos fundamentos da decisão que conheceu do Agravo para conhecer em parte e negar provimento ao Recurso Especial, pois deixou de se manifestar acerca da incidência das Súmulas 282 e 356/STF.
+3. Por fim, há de se registrar a necessidade de impugnação devida e específica de todos os fundamentos da decisão agravada, mesmo que sejam distintos e independentes entre si.
+4. Agravo Interno da FAZENDA NACIONAL não conhecido.
+(AgInt no AREsp n. 1.616.546/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 22/6/2020, DJe de 29/6/2020.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, TODOS OS FUNDAMENTOS DA DECISÃO QUE NÃO ADMITIU O RECURSO ESPECIAL. ART. 932, III, DO CPC/2015 E SÚMULA 182/STJ, POR ANALOGIA. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+II. Incumbe ao agravante infirmar, especificamente, todos os fundamentos da decisão que inadmitiu o Recurso Especial, demonstrando o seu desacerto, de modo a justificar o processamento do apelo nobre, sob pena de não ser conhecido o Agravo (art. 932, III, do CPC vigente). Nesse sentido: STJ, AgRg no AREsp 704.988/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 10/09/2015; EDcl no AREsp 741.509/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 16/09/2015; AgInt no AREsp 888.667/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 18/10/2016; AgInt no AREsp 895.205/PB, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 20/10/2016; AgInt no AREsp 800.320/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 13/10/2016; EAREsp 701.404/SC, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe de 30/11/2018; EAREsp 831.326/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe de 30/11/2018; EAREsp 746.775/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe de 30/11/2018.
+III. No caso, por simples cotejo entre o decidido e as razões do Agravo em Recurso Especial verifica-se a ausência de impugnação específica de todos os fundamentos da decisão que, em 2º Grau, inadmitira o Especial, o que atrai a aplicação do disposto no art. 932, III, do CPC/2015 - vigente à época da publicação da decisão então agravada e da interposição do recurso -, que faculta ao Relator "não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida", bem como do teor da Súmula 182 do Superior Tribunal de Justiça, por analogia.
+IV. Agravo interno improvido.
+(AgInt no AREsp 1.503.814/MA, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 17/10/2019, DJe de 28/10/2019.)
+Ante o exposto, não conheço dos agravos.
+Publique-se. Intimem-se.
+EMENTA
