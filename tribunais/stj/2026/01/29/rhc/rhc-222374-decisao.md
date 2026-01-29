@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por KAUYN FREITAS DO NASCIMENTO contra o acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina nos autos do HC n. 5058743-98.2025.8.24.0000, que denegou a ordem, mantendo a prisão preventiva do recorrente, sob fundamento de multirreincidência e risco de reiteração delitiva, e remetendo a alegação de bis in idem às apelações já interpostas nas ações penais correlatas.
+Narram os autos que, na Ação Penal n. 5000456-29.2025.8.24.0167, o recorrente foi condenado a 6 anos e 8 meses de reclusão, em regime inicial fechado, como incurso no art. 155, § 4º, I e IV, do Código Penal, por duas vezes, em concurso material. Na oportunidade, foi-lhe mantida a prisão cautelar, vedando-lhe o direito de recorrer em liberdade.
+Neste recurso, o recorrente alega, em síntese, que a manutenção da prisão preventiva configura indevida antecipação de pena, pois responde a duas ações penais ainda pendentes de julgamento definitivo, sendo que a imputação de receptação e adulteração recai sobre o mesmo veículo subtraído na ação de furto qualificado, caracterizando bis in idem (fls. 63/64).
+Alega que está preso desde 15/1/2025, após abordagem da Polícia Militar em barreira na BR-101, e que a prisão em flagrante foi homologada e convertida em preventiva exclusivamente com fundamento na reincidência, sem motivação concreta quanto à necessidade da medida extrema.
+Aduz que permanece custodiado há mais de sete meses, com instrução encerrada e sem previsão de julgamento das apelações, o que violaria o princípio da presunção de inocência e a vedação de antecipação de pena.
+Pede o conhecimento e o provimento do recurso para concessão da ordem de habeas corpus, permitindo que responda em liberdade até o trânsito em julgado; subsidiariamente, requer a aplicação de medidas cautelares diversas da prisão, como monitoramento eletrônico e recolhimento domiciliar noturno.
+Não houve pedido liminar.
+O Ministério Público Federal opinou, pelas palavras do Subprocurador-Geral da República José Adonis Callou de Araújo Sá, pelo não provimento do presente recurso.
+Em informações prestadas pelo Juízo de origem, tem-se que a apelação criminal interposta, na ação penal objeto destes autos, foi julgada parcialmente procedente para reconhecer a continuidade delitiva, reduzindo a reprimenda para 3 anos, 10 meses e 20 dias de reclusão e 16 dias-multa, mantidas as demais cominações da sentença (evento 49.1). O processo transitou em julgado em 6/1/2026 (fl. 201 - grifo nosso).
+É o relatório.
+Destaco, de início, que o trânsito em julgado da Ação Penal n. 5000456-29.2025.8.24.0167/SC, tornando a pena do recorrente definitiva, prejudica as alegações referentes à fundamentação da prisão cautelar, pois estamos diante de pena definitiva.
+A propósito, nesse sentido, vem entendendo esta Corte Superior de Justiça que a superveniência do trânsito em julgado da condenação prejudica o exame da manutenção da prisão preventiva, uma vez que o ora paciente cumpre pena em execução definitiva (HC n. 1.015.312/MS, de minha relatoria, Sexta Turma, DJEN 2/12/2025).
+Quanto à alegação de bis in idem, tem-se que, nem o acórdão do habeas corpus aqui impugnado (fl. 160) nem o acórdão da apelação criminal (fls. 179/192) analisaram essa questão, o que inviabiliza o enfrentamento por esta Corte, sob pena de supressão de instância.
+Ante o exposto, conheço parcialmente do recurso em habeas corpus e, nessa extensão, julgo-o prejudicado.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. FURTO QUALIFICADO. PRISÃO MANTIDA NA SENTENÇA CONDENATÓRIA. APELAÇÃO CRIMINAL JULGADA. TRÂNSITO EM JULGADO DA CONDENAÇÃO. PENA DEFINITIVA. PERDA DO OBJETO. ALEGAÇÃO DE BIS IN IDEM. SUPRESSÃO DE INSTÂNCIA.
+Recurso parcialmente conhecido e, nessa extensão, prejudicado.
