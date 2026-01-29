@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que não admitiu o recurso especial pelo qual o MUNICIPIO DE PINDARE MIRIM se insurgira contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO assim ementado (fl. 114):
+CONSTITUCIONAL. PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO REJEITADA. PROSSEGUIMENTO DA EXECUÇÃO. HOMOGOLAÇÃO DOS CÁLCULOS APRESENTADOS PELA EXEQUENTE. DETERMINAÇÃO DE EXPEDIÇÃO DE PRECATÓRIO. JUROS DE MORA. TERMO INICIAL. CITAÇÃO. TEMA 810 DO STF. VALOR DAS ASTREINTES EM CASO DE DESCUMPRIMENTO RAZOÁVEL E PROPORCIONAL. DESPROVIMENTO DO RECURSO.
+I. Não há que se falar em excesso de execução nos cálculos apresentados pela agravada/exequente, vez que, apresentado de forma analítica seus cálculos, nos termos do quanto especificado no dispositivo da sentença, a exequente/impugnada aplica ao caso juros de mora, os quais, aplicáveis sobre as obrigações ilíquidas devidas pela Fazenda Pública, são devidos a partir da citação, na linha do que entende o Superior Tribunal de Justiça;
+II. revela-se razoável e proporcional o valor das astreintes arbitrado, não se mostrando viável sua exclusão ante a recalcitrância do executado em cumprir o comando judicial;
+III. agravo de instrumento desprovido.
+Os embargos de declaração opostos foram rejeitados (fls. 196/204).
+A parte agravante requer o conhecimento do agravo a fim de que seja determinado o processamento do recurso especial.
+O recurso não foi admitido (fls. 292/294), motivo por que foi interposto o agravo ora examinado.
+A parte adversa apresentou contraminuta (fls. 338/366).
+É o relatório.
+Da irresignação não é possível conhecer visto que a parte agravante não refutou adequadamente a decisão agravada.
+O Tribunal de origem não admitiu o recurso especial porque:
+(i) aplicou a Súmula 284/STF quanto à alegada violação ao art. 535 do CPC, ao fundamento de que a parte recorrente não teria indicado corretamente o dispositivo legal supostamente violado, uma vez que, no tópico relativo ao cabimento, mencionou dispositivo inexistente (art. 535, § 1º, I, do CPC) e, no tópico referente ao mérito, limitou-se a apontar genericamente o art. 535 do CPC, sem especificar o inciso correspondente (fl. 292);
+(ii) aplicou o óbice da Súmula 282/STF em relação à suposta afronta aos arts. 300 e 525 do CPC, diante da ausência de prequestionamento dos dispositivos legais invocados (fl. 293);
+(iii) aplicou a Súmula 7/STJ quanto à alegada violação ao art. 537, § 1º, do CPC, por entender que a revisão do valor fixado a título de astreintes exigiria o reexame do conjunto fático-probatório dos autos (fls. 293/294).
+Nas razões do agravo em recurso especial, a parte recorrente deixou de impugnar, de forma específica e objetiva, os óbices apontados na decisão de inadmissão do recurso especial. Ao contrário, limitou-se a reiterar a alegação de violação aos dispositivos legais invocados, mediante a reprodução integral das razões do próprio recurso especial, sem enfrentar os fundamentos autônomos utilizados pelo Tribunal de origem para obstar o seu seguimento (fls. 307/335).
+O objetivo do agravo em recurso especial é o de desconstituir a decisão de inadmissão do recurso especial, sendo, por isso, imprescindível a impugnação específica de todos os fundamentos nela lançados com o fim de demonstrar o seu desacerto, o que, como se vê, não foi feito no presente caso.
+Dessa forma, por faltar impugnação pertinente, aplico ao presente caso, por analogia, a Súmula 182 do Superior Tribunal de Justiça, segundo a qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Na mesma linha:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REITERAÇÃO DAS RAZÕES RECURSAIS. SÚMULA 182 DO STJ. INCIDÊNCIA. SÚMULA 284 DO STF E ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. FUNDAMENTAÇÃO GENÉRICA. AGRAVO INTERNO IMPROVIDO.
+1. A mera reiteração das razões do recurso especial importa no não conhecimento do agravo em recurso especial, pois impõe-se a aplicação da Súmula 182 do STJ.
+2. A alegada violação ao art. 1.022 do CPC/2015 deu-se de forma genérica, circunstância que impede o conhecimento do recurso especial, no ponto, por deficiência na fundamentação. Aplicação da Súmula 284 do STF, por analogia.
+3. Agravo interno improvido
+(AgInt nos EDcl no AREsp n. 2.676.272/SP, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 24/9/2025, DJEN de 30/9/2025, sem destaques no original.)
+PROCESSUAL CIVIL E DIREITO DE FAMÍLIA. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. REPRODUÇÃO DAS RAZÕES DO RECURSO ESPECIAL. ART. 932, III, DO CPC. SÚMULA 182/STJ. APLICAÇÃO POR ANALOGIA. ALIMENTOS ENTRE EX-CÔNJUGES. OBRIGAÇÃO EXCEPCIONAL E, EM REGRA, TEMPORÁRIA. REDUÇÃO MANTIDA. DECISÃO AGRAVADA INTEGRALMENTE MANTIDA.
+1. É inadmissível o agravo em recurso especial cujas razões não impugnam, de modo específico e suficiente, todos os fundamentos da decisão que negou seguimento ao recurso especial, nos termos do art. 932, III, do Código de Processo Civil e do art. 253, parágrafo único, I, do RISTJ.
+2. A mera reprodução das razões do recurso especial não configura impugnação específica, atraindo, por analogia, a incidência da Súmula 182 do STJ.
+3. O acórdão recorrido assentou que os alimentos entre ex-cônjuges constituem obrigação excepcional e, em regra, por prazo determinado, inexistindo demonstração de incapacidade permanente da alimentanda ou redução da capacidade financeira do alimentante, mantendo-se a pensão no valor de um salário-mínimo até a partilha de bens.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.928.853/GO, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 1º/12/2025, DJEN de 4/12/2025, sem destaques no original.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, TODOS OS FUNDAMENTOS DA DECISÃO QUE NÃO ADMITIU O RECURSO ESPECIAL. ART. 932, III, DO CPC/2015 E SÚMULA 182/STJ, POR ANALOGIA. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+II. Incumbe ao agravante infirmar, especificamente, todos os fundamentos da decisão que inadmitiu o Recurso Especial, demonstrando o seu desacerto, de modo a justificar o processamento do apelo nobre, sob pena de não ser conhecido o Agravo (art. 932, III, do CPC vigente). Nesse sentido: STJ, AgRg no AREsp 704.988/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 10/09/2015; EDcl no AREsp 741.509/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 16/09/2015; AgInt no AREsp 888.667/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 18/10/2016; AgInt no AREsp 895.205/PB, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 20/10/2016; AgInt no AREsp 800.320/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 13/10/2016; EAREsp 701.404/SC, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe de 30/11/2018; EAREsp 831.326/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe de 30/11/2018; EAREsp 746.775/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe de 30/11/2018.
+III. No caso, por simples cotejo entre o decidido e as razões do Agravo em Recurso Especial verifica-se a ausência de impugnação específica de todos os fundamentos da decisão que, em 2º Grau, inadmitira o Especial, o que atrai a aplicação do disposto no art. 932, III, do CPC/2015 - vigente à época da publicação da decisão então agravada e da interposição do recurso -, que faculta ao Relator "não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida", bem como do teor da Súmula 182 do Superior Tribunal de Justiça, por analogia.
+IV. Agravo interno improvido.
+(AgInt no AREsp 1.503.814/MA, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 17/10/2019, DJe de 28/10/2019.)
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
