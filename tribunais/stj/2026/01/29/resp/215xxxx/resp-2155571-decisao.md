@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto por VCA Empreendimentos, Participações e Serviços S/A, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do Tribunal Regional Federal da 2ª Região (TRF2) assim ementado (fl. 413):
+TRIBUTÁRIO. EXECUÇÃO FISCAL. CNPJ BAIXADO POR SUCESSÃO EMPRESARIAL. DISSOLUÇÃO IRREGULAR DA EMPRESA VERIFICADA. EXTINÇÃO DO FEITO SEM RESOLUÇÃO DO MÉRITO. IMPOSSIBILIDADE. SENTENÇA ANULADA. RECURSO DA CVM PROVIDO.
+1. Na origem, cuida-se de execução fiscal ajuizada pela CVM, com o fito de cobrança de Taxa de Fiscalização do Mercado de Valores Imobiliários, engendrada a partir do Procedimento Administrativo RJ/2003-11885, cf. se depreende da CDA. Restou incontroverso nos autos que a empresa Executada encontra-se com o CNPJ baixado, tendo em vista que foi dissolvida por opção dos administradores, com fins de sucessão empresarial.
+2. Sobreveio sentença de extinção do processo sem resolução do mérito, ao fundamento de que o CNPJ da Executada encontra-se baixado.
+3. A não localização da empresa no endereço constante de seus assentamentos fiscais não acarreta a ausência de interesse de agir superveniente da Exequente, mas a presunção de dissolução irregular, a teor do Enunciado 435 da Súmula do STJ, o que abre à Exequente a possibilidade de redirecionamento da execução. Assim, o encerramento das atividades da empresa, com baixa no CNPJ, enseja o redirecionamento da execução fiscal, e não a extinção do processo sem resolução do mérito.
+4. Diante das conclusões apresentadas, a Apelação da Executada, requerendo a condenação da CVM ao pagamento de honorários advocatícios, deve ser julgada prejudicada.
+5. Apelação da Exequente provida, para anular a sentença e determinar o retorno dos autos ao Juízo de origem, para prosseguimento da execução. Apelação da Executada julgada prejudicada.
+Os embargos de declaração opostos foram rejeitados. (fls. 450/453)
+A parte recorrente alega violação dos arts. 489, § 1º, IV, e 1.022, II e parágrafo único, II, do Código de Processo Civil (CPC), por omissão e contradição no acórdão, pois entende que o Tribunal de origem não enfrentou o fato relevante de que houve incorporação regular da executada, com extinção da personalidade jurídica antes do ajuizamento, o que afastaria a legitimidade passiva e impediria o redirecionamento da execução fiscal.
+Sustenta ofensa aos arts. 485, IV, VI e § 3º, do CPC, ao argumento de que a execução foi proposta contra pessoa jurídica extinta por incorporação em 22/8/2003, o que impõe a extinção do processo sem resolução do mérito por ilegitimidade passiva e ausência de capacidade processual.
+Aponta violação dos arts. 132 do Código Tributário Nacional (CTN) e 227 da Lei 6.404/1976, alegando que a incorporação extingue a sociedade incorporada e transfere integralmente o passivo à incorporadora, configurando sucessão tributária. Defende que não houve dissolução irregular, que é inviável modificar o sujeito passivo direto na execução fiscal, e que é vedada a substituição da Certidão de Dívida Ativa (CDA), com aplicação da Súmula 392 do Superior Tribunal de Justiça (STJ) e referência ao Recurso Especial 1.848.993.
+Contrarrazões apresentadas às fls. 489/498.
+O recurso foi admitido (fl. 504).
+É o relatório.
+Na origem, cuida-se de execução fiscal visando à cobrança de Taxa de Fiscalização do Mercado de Valores Imobiliários.
+Inexiste a alegada violação do art. 1.022 e do art. 489, § 1º, IV, do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, tendo o Tribunal de origem apreciado fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade.
+A parte recorrente sustenta omissão da instância ordinária no tocante ao fato de que houve incorporação regular da executada, com extinção da personalidade jurídica antes do ajuizamento, o que afastaria a legitimidade passiva e impediria o redirecionamento da execução fiscal.
+Todavia, conforme se depreende da análise do acórdão recorrido, o Tribunal de origem, de modo expresso, fundamentado e coeso, enfrentou cada um dos pontos supostamente omissos, tendo concluído que com a sucessão empresarial a recorrente teria legitimidade passiva para a execução fiscal.
+É importante ressaltar que o contraponto aos argumentos das partes não demanda a citação literal de suas palavras ou dos mesmos dispositivos legais. É suficiente que haja fundamentação fática e jurídica coerente e adstrita ao que se debate nos autos.
+Por sua vez, com relação à alegação de ofensa aos arts. 132 do CTN, 227 da Lei 6.404/1976 e 485, IV, VI e § 3º, do CPC, o recurso não comporta conhecimento.
+Com efeito, o Tribunal de origem concluiu que, em verdade, o que teria ocorrido seria a dissolução irregular da sociedade executada, razão pela qual foi reconhecida a possibilidade de redirecionamento da execução fiscal à recorrente.
+No entanto, rever esse entendimento para concluir que não houve dissolução e sim incorporação nos termos da legislação societária implicaria necessidade de reexame de fatos e provas o que é vedado pela Súmula 7/STJ.
+Ante o exposto, conheço parcialmente do recurso especial e, ness a extensão, nego provimento.
+Publique-se. Intimem-se.
+EMENTA
