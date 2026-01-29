@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que não admitiu o recurso especial pelo qual EVERTON WILLIAM PONCE NARCISO se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 183):
+Acidente do trabalho. Acidente de trajeto. Fratura em ossos do membro inferior direito (tíbia e fíbula). Laudo pericial conclusivo. Incapacidade laborativa comprovada. Nexo causal demonstrado. Benefício devido. Auxílio-acidente. Sentença de procedência mantida. Revisão da renda mensal inicial nos termos do art. 29, II, da Lei nº 8.213/91, mediante a média aritmética simples dos 80% maiores salários-de-contribuição. Inadmissibilidade. Infortúnio ocorrido após a entrada em vigor da EC 103/2019, cujo art. 26 prevê a média aritmética simples de 100% do período contributivo a partir de julho/1994. Ressalvada, entretanto, a necessidade de se observar o que vier a ser decidido pelo Colendo Supremo Tribunal Federal na ADI 6.279. Termo inicial. Dia seguinte ao da cessação do auxílio- doença. Correção monetária. Índices econômicos pertinentes. Observância à repercussão geral n. 810 e 905. Juros de mora. Art. 1º-f da lei 9.494/97, com redação dada pela lei 11.960/2009. EC 113/21, considerada a fixação da DIB em data posterior à vigência da respectiva emenda. Verba honorária prorrogada para a fase de liquidação. Possibilidade. Sentença ilíquida. Art. 85, §4º, II do CPC. Súmula 111. Aplicável. Tema 1.105 do STJ. Recurso do autor improvido. Reexame necessário parcialmente provido (honorários advocatícios).
+Não foram opostos embargos de declaração.
+Nas razões de seu recurso especial, a parte recorrente alega que houve violação ao art. 29, II, da Lei 8.213/1991.
+Sustenta que "o método de cálculo do salário-de-benefício do auxílio por incapacidade temporária deve seguir a regra correspondente à média aritmética simples dos 80% dos maiores salários-de-contribuição" (fl. 198).
+Para tanto, defende que (fls. 197/198):
+ ..  o texto da Emenda Constitucional n. 103/19 não trata, em nenhum momento, sobre o auxílio-doença ou auxílio por incapacidade temporária.
+Com efeito, o cálculo de salário-de-benefício disposto no artigo 26 da Emenda Constitucional n. 103/2019 não se aplica ao auxílio-doença, por ausência de expressa previsão constitucional.
+Ademais, trata-se de regra transitória, a qual demanda uma lei para a regulamentação da nova formula proposta, não bastando apenas as Portarias expedidas pelo INSS para tanto.
+Requer que seja dado provimento ao recurso.
+A parte adversa não apresentou contrarrazões.
+O recurso não foi admitido, razão pela qual foi interposto o agravo em recurso especial ora em análise.
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+No caso em questão, embora a parte recorrente tenha indicado nas razões do recurso especial violação de dispositivos de lei federal, é incabível o recurso especial pois interposto contra acórdão com fundamento eminentemente constitucional.
+O Tribunal de origem fixou a forma de cálculo do auxílio-acidente fundamentado na interpretação do art. 26 da Emenda Constitucional 103/2019, nestes termos (fls. 184/185):
+Pretende o obreiro a apuração do salário-de-benefício do auxílio-doença que recebeu (NB-91/ 640.889.015-0 02/10/22 a 19/1/2023), através da média aritmética simples dos maiores salários-de-contribuição correspondentes a oitenta por cento de todo o período contributivo, nos termos do art. 29, II, da Lei nº 8.213/91.
+Entretanto, o acidente sofrido ocorreu em 16/9/2022, na vigência da Emenda Constitucional 103/2019, cujo art. 26 dispõe que a média aritmética deverá ser de cem por cento do período contributivo:
+ ..
+O Colendo Supremo Tribunal firmou jurisprudência no sentido de que "vige no direito brasileiro o postulado de que lei formal goza de presunção de constitucionalidade até declaração em contrário" (ARE 1.182.358-ED-AgR, Rel. Min. EDSON FACHIN, Segunda Turma, DJe 13.8.2020).
+Assim, por ora, fica mantida a forma de cálculo adotada pelo INSS, com base no art. 26 da EC 103/2019.
+Entretanto, como está sendo questionada a constitucionalidade de alguns dispositivos da EC 103/2019, dentre os quais o mencionado artigo 26, fica ressalvado que o pedido de revisão da RMI do auxílio-doença deverá observar o que vier a ser decidido pelo Colendo Supremo Tribunal Federal na ADI 6.279.
+Neste sentido: RE 1.447.816, Rel. Min. GILMAR MENDES; ARE 1.431.979, Rel(a). Min(a). CARMEN LUCIA; RE 1.412.276, Rel. Min. ALEXANDRE DE MORAES, dentre outros.
+Dessa forma, é forçoso reconhecer que, possuindo o acórdão recorrido fundamento eminentemente constitucional, revela-se descabida sua revisão pela via do recurso especial, sob pena de usurpação de competência do Supremo Tribunal Federal (STF), prevista no art. 102 da Constituição Federal.
+Além disso, as teses recursais vinculadas ao art. 29, II, da Lei 8.213/1991 - segundo as quais "o texto da Emenda Constitucional n. 103/19 não trata, em nenhum momento, sobre o auxílio-doença ou auxílio por incapacidade temporária" (fl. 197) e essa norma constitucional é "regra transitória, a qual demanda uma lei para a regulamentação da nova formula proposta, não bastando apenas as Portarias expedidas pelo INSS para tanto" (fl. 198) - não foram apreciadas pelo Tribunal de origem, e não foram opostos embargos de declaração com o objetivo de sanar eventual omissão da questão de direito controvertida.
+A falta de enfrentamento no acórdão recorrido da matéria objeto do recurso impede o acesso a esta instância por não ter sido preenchido o requisito constitucional do prequestionamento.
+Incidem no presente caso, por analogia, as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+Para que se configure o prequestionamento, não basta que a parte recorrente devolva a questão controvertida para o Tribunal. É necessário que a causa seja decidida à luz da legislação federal indicada, bem como que seja exercido juízo de valor sobre o dispositivo legal indicado e a tese recursal a ele vinculada, interpretando-se sua incidência ou não no caso concreto.
+Ausente pronunciamento do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO sobre o ponto, caberia, inicialmente, suscitá-lo em embargos de declaração. Mantida a omissão, deveria a parte interessada deduzir a nulidade do julgamento por violação do art. 1.022 do Código de Processo Civil, o que não foi feito no caso dos autos.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
