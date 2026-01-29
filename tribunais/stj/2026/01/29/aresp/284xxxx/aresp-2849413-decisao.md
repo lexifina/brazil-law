@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de agravo interposto por OSMAR FORMIGHIERI DA SILVA e OUTROS contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, alíneas "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL cuja ementa guarda os seguintes termos (fl. 79):
+AGRAVO DE INSTRUMENTO. NEGÓCIOS JURÍDICOS BANCÁRIOS. EXPURGOS INFLACIONÁRIOS. CUMPRIMENTO DE SENTENÇA COLETIVA. SUSPENSÃO POR FORÇA DE ORDEM DO STJ. TEMA 1169. AGRAVO DE INSTRUMENTO DESPROVIDO.
+Opostos embargos de declaração (fls. 95-99), foram rejeitados pelo tribunal de origem (fls. 110).
+No recurso especial (fls. 126-138), o recorrente alega violação dos arts. 64, § 4º, 223, 505 e 507 do CPC, sustentando preclusão quanto à necessidade de liquidação prévia da sentença coletiva, ratificação dos atos praticados no juízo federal e inaplicabilidade da suspensão determinada em razão do Tema 1.169/STJ. Suscita, ainda, dissídio jurisprudencial com paradigmas dos Tribunais de Justiça de Santa Catarina, Paraná e Mato Grosso do Sul.
+Foram oferecidas contrarrazões ao recurso especial (fls. 201-206), arguindo, em síntese, incidência das Súmulas n. 7/STJ e 83/STJ, ausência de prequestionamento e deficiência na demonstração analítica do dissídio.
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 209-210), o que ensejou a interposição do presente agravo (fls. 226-233).
+Apresentada contraminuta do agravo (fls. 278-279).
+É, no essencial, o relatório.
+Conforme relatado, a parte recorrente sustenta preclusão quanto à necessidade de liquidação prévia da sentença coletiva, razão pela qual se tornaria inaplicável a suspensão determinada em razão do Tema 1.169/STJ.
+Entrementes, o presente cumprimento provisório de sentença decorre do título judicial extraído dos autos da Ação Civil Pública nº 94.008514-1, a chamada "ACP Rural", que determinou o pagamento de diferenças de correção monetária no mês de março de 1990 na atualização do financiamento por cédulas de crédito rural.
+O Plenário Virtual do STF reconheceu a existência de repercussão geral da questão constitucional suscitada relativa ao "critério de reajuste do saldo devedor das cédulas de crédito rural, no mês de março de 1990, nos quais prevista a indexação aos índices da caderneta de poupança" (RE n. 1.445.162 RG - Tema n. 1.290).
+Segue a ementa do julgado:
+RECURSO EXTRAORDINÁRIO. CRITÉRIO DE REAJUSTE DO SALDO DEVEDOR DAS CÉDULAS DE CRÉDITO RURAL, NO MÊS DE MARÇO DE 1990, NAS QUAIS PREVISTA A INDEXAÇÃO AOS ÍNDICES DA CADERNETA DE POUPANÇA. REPERCUSSÃO GERAL RECONHECIDA.
+1. Revela especial relevância, na forma do art. 102, § 3º, da CONSTITUIÇÃO FEDERAL, definir o critério de reajuste do saldo devedor das cédulas de crédito rural, no mês de março de 1990, cujos contratos estabelecem a indexação aos índices da caderneta de poupança.
+2. Repercussão geral da matéria reconhecida, nos termos do art. 1.035 do CPC.
+Em decisão singular publicada no DJe de 11.3.2024, o r elator do recurso, Ministro Alexandre de Moraes, decretou a suspensão do processamento de "todas as demandas pendentes que tratem da questão em tramitação no território nacional, inclusive as liquidações e cumprimentos provisórios de sentença lastreados nos acórdãos proferidos pelo Superior Tribunal de Justiça nestes autos."
+Tendo em vista que o presente recurso enquadra-se no tema sujeito à repercussão geral acima descrito, em observância ao princípio da economia processual e à finalidade dos precedentes vinculantes, deve-se determinar o retorno dos autos à origem, onde ficarão sobrestados até a publicação da tese vinculante.
+Nesse sentido, cito precedentes desta Corte: AgInt no AREsp n. 2.993.180, Ministro Humberto Martins, DJEN de 10/10/2025; AREsp n. 2.912.436, Ministra Nancy Andrighi, DJEN de 24/09/2025; AgInt no AREsp n. 2.018.369, Ministro Antonio Carlos Ferreira, DJEN de 15/04/2025; REsp n. 2.193.664, Ministro Gurgel de Faria, DJEN de 03/09/2025; REsp n. 2.172.801, Ministro Marco Aurélio Bellizze, DJe de 21/10/2024.
+Ante o exposto, determino a devolução dos autos ao tribunal de origem, com a respectiva baixa, para que lá fiquem sobrestados aguardando o julgamento do RE n. 1.445.162 (Tema n. 1.290) pelo Supremo Tribunal Federal e, após sua publicação, em observância ao art. 1.040 do CPC/2015: a) seja negado seguimento ao recurso se a decisão recorrida coincidir com a orientação da Suprema Corte; ou b) proceda-se ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema posto em repercussão geral.
+Publique-se. Intimem-se.
+EMENTA
