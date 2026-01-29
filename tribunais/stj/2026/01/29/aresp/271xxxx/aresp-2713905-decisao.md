@@ -1,0 +1,42 @@
+DECISÃO
+Cuida-se de agravo interposto por GUERRA LOGÍSTICA EIRELI ME contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fls. 961-962):
+RESPONSABILIDADE CIVIL SEGURO TRANSPORTE RODOVIÁRIO DE CARGAS Ação declaratória de inexigibilidade dos débitos atinentes aos prêmios exigidos pela seguradora, porquanto o embarque já se encontrava segurado por contrato firmado pela embarcadora UNILEVER em seu favor, sendo desnecessária dupla cobertura Ação julgada improcedente, ao fundamento de que a autora averbou os embarques junto à sua apólice, sem informar a seguradora sobre a pretensão de exclusão de cobertura de riscos, dando azo à cobrança dos prêmios pelo serviço prestado Insurgência pela autora Descabimento Pleito à aplicação do CDC que não foi fomentado em primeiro grau, tratando se de inovação em sede recursal Mesmo que assim não fosse já assentado na jurisprudência do C. STJ que o seguro estipulado para cobrir riscos de terceiros não constitui relação de consumo, porquanto o contratante não se enquadra no conceito de destinatário final previsto no art. 2º/CDC Autora que confirma a averbação do embarque junto à sua apólice, sem provar ter informado a ré sobre a pretensão de exclusão de cobertura dos riscos Arguição de que o embarque já estava segurado por outro contrato estipulado pela embarcadora em seu favor, de quem recebeu, também, carta de dispensa de direito de regresso (DDR), que não lhe desoneram do dever de pagamento pelo serviço efetivamente prestado pela ré Possibilidade de contratação de dois seguros sobre o mesmo objeto que se encontra estampada no art. 782/CC e dever de pagamento do prêmio, independente da ocorrência de sinistro, que se encontra previsto no art. 764/CC Improcedência que era mesmo imperativa Honorários recursais devidos e elevados para 15% sobre o valor da causa da ação principal Recurso desprovido.
+Rejeitados os embargos de declaração opostos (fls. 991-999).
+No recurso especial, a parte recorrente alega violação dos arts. 782, 884 e 885 do Código Civil.
+Sustenta, em síntese, que a manutenção da cobrança dos prêmios securitários configura enriquecimento sem causa da seguradora, uma vez que o risco já estava integralmente coberto por outra apólice contratada por seu cliente, o que torna o contrato com a recorrida sem objeto e, portanto, inexigível a contraprestação. Argumenta, ademais, que o Tribunal de origem interpretou equivocadamente o art. 782 do Código Civil, pois este dispositivo não autorizaria a contratação de dois seguros para o mesmo objeto, mas apenas regularia a transição entre apólices, e que a existência de uma segunda apólice eliminaria o risco da primeira, esvaziando sua função social e sua própria existência jurídica.
+Foram oferecidas contrarrazões ao recurso especial (fls. 1.051-1.084).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 1.085-1.087), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 1.104-1.142).
+É, no essencial, o relatório.
+Da admissibilidade do agravo
+Verifica-se que a parte agravante impugnou especificamente os fundamentos da decisão de inadmissibilidade, notadamente a incidência da Súmula 7 do STJ.
+Assim, presentes os pressupostos de admissibilidade, conheço do agravo e passo à análise do recurso especial.
+Da contextualização Fática
+Cuida-se, na origem, de ação declaratória de inexistência de débito ajuizada por GUERRA LOGÍSTICA EIRELI ME em face de TOKIO MARINE SEGURADORA S.A., objetivando o reconhecimento da inexigibilidade de prêmios de seguro de transporte de cargas, ao argumento de duplicidade de cobertura. A ré, em sua defesa, apresentou reconvenção, pugnando pela condenação da autora ao pagamento dos valores inadimplidos.
+Em primeira instância, o pedido principal foi julgado improcedente e a reconvenção procedente, para condenar a autora/reconvinda ao pagamento de R$ 62.139,58 (sessenta e dois mil, cento e trinta e nove reais e cinquenta e oito centavos), com os consectários legais (fls. 861-865, com integração às fls. 882-883).
+Interposta apelação, o Tribunal de Justiça do Estado de São Paulo negou provimento ao recurso, mantendo hígida a sentença, em acórdão que ressaltou a ausência de prova da comunicação à seguradora acerca da exclusão dos embarques e a plena validade da cobrança pelo serviço que foi expressamente solicitado por meio de averbação (fls. 960-970).
+O recurso especial foi inadmitido com fundamento na incidência da Súmula n. 7/STJ e na ausência de demonstração de vulneração aos dispositivos legais arrolados (fls. 1.085-1.087).
+Da alegada violação dos arts. 884 e 885 do Código Civil
+Quanto à tese de enriquecimento sem causa e infração aos arts. 884 e 885 do Código Civil, observa-se que o Tribunal de origem não emitiu juízo de valor sobre referidos dispositivos, carecendo o recurso do necessário prequestionamento. Incide, no ponto, a Súmula n. 211/STJ.
+Da alegada violação do art. 782 do Código Civil
+No ponto, a pretensão recursal esbarra nos óbices da Súmula n. 5/STJ e Súmula n. 7/STJ.
+O Tribunal a quo, soberano na análise do contexto fático e contratual, assentou que a empresa GUERRA LOGÍSTICA EIRELI ME procedeu voluntariamente à averbação dos embarques junto ao sistema da TOKIO MARINE SEGURADORA S.A. No regime de apólice por averbação, a comunicação do embarque pelo segurado é o ato que deflagra a cobertura e, consequentemente, o dever de pagar o prêmio. Como bem destacado no acórdão recorrido, a seguradora disponibilizou a garantia e constituiu provisões técnicas a partir da informação prestada pela própria recorrente.
+Para infirmar a conclusão de que houve a prestação do serviço ou de que a recorrente não comprovou o pedido de exclusão dos embarques para evitar a duplicidade, seria necessário o reexame de provas e de cláusulas das apólices, o que é vedado em sede de recurso especial.
+Nesse sentido:
+DIREITO CIVIL. RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA POR ACIDENTE DE TRÂNSITO. ATROPELAMENTO. PENSÃO MENSAL VITALÍCIA. RECUPERAÇÃO TOTAL DA CAPACIDADE LABORAL. NÃO CABIMENTO. SÚMULA N. 83/STJ. DANOS MORAIS. VALOR. REVISÃO. SÚMULA N. 7/STJ.
+ ..
+5. A jurisprudência do Superior Tribunal de Justiça estabelece que o recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, conforme a Súmula n. 7/STJ.
+6. A comprovação da divergência jurisprudencial para o conhecimento do recurso especial exige a demonstração do dissídio mediante cotejo analítico entre os casos confrontados, o que não foi realizado pela recorrente.
+7. A incidência da Súmula n. 7/STJ quanto à interposição pela alínea "a" do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+IV. DISPOSITIVO
+Recurso especial não conhecido.
+(REsp n. 2.091.139/SC, minha relatoria, Terceira Turma, julgado em 15/12/2025, DJEN de 18/12/2025.)
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. LOTEAMENTO. ATRASO. DANO MATERIAL E MORAL. LEGITIMIDADE PASSIVA. CADEIA DE CONSUMO. JURISPRUDÊNCIA. LUCROS CESSANTES E DANOS MORAIS. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. No caso, o acórdão recorrido decidiu em consonância com a jurisprudência desta Corte, tanto no que se refere à legitimidade passiva da loteadora, como na fixação excepcional de danos morais e lucros cessantes, haja vista o atraso excessivo na entrega do lote, que inviabilizou sua edificação. Precedentes.
+2. Diante do exame das circunstâncias particulares do caso concreto pelo acórdão recorrido, o recurso especial é inviável, na medida em que se faz imprescindível o vedado o reexame do conjunto fático-probatório dos autos (Súmula nº 7/STJ).
+3. Agravo conhecido para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+(AREsp n. 3.008.707/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/11/2025, DJEN de 1/12/2025.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios fixados pelo Tribunal de origem para 17% sobre o valor da condenação na reconvenção, observada eventual gratuidade de justiça.
+EMENTA
