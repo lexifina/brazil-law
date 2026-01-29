@@ -1,0 +1,19 @@
+DECISÃO
+RENON TOMAS DA COSTA aponta constrangimento ilegal decorrente de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no HC n. 2172751-27.2021.8.26.0000.
+A defesa pretende a soltura do recorrente - condenado pela prática do crime previsto no art. 33 da Lei n. 11.343/2006- sob o argumento de que o mandado de busca e apreensão que deu origem à ação penal foi declarado nulo pela Sexta Turma do Superior Tribunal de Justiça no HC n. 566.977.
+Negada a ordem pelo Tribunal a quo e apresentado recurso ordinário, o Ministério Público Federal opinou pelo não provimento.
+Decido.
+Compulsando os autos, verifico que a condenação impugnada é oriunda dos autos de Ação Penal n. 0035972-56.2011.8.26.0451, em trâmite perante a Segunda Vara Criminal da Comarca de Piracicaba/SP. O mandado de busca e apreensão, cuja nulidade se requer, é oriundo da medida cautelar n. 0013520-41.2011.8.26.0196 e deu origem à Ação Penal n. 0005865-81.2012.8.26.0196 que tramitou perante a Segunda Vara Criminal da Comarca de Franca/SP.
+Durante o cumprimento do mandado, foram encontrados entorpecentes em poder do recorrente que originaram a ação penal na Comarca de Piracicaba, cuja nulidade se alega.
+O Tribunal de origem, ao analisar a tese do recorrente, decidiu nos termos a seguir (fls. 328-332):
+Examinando-se os registros eletrônicos desta Corte, verifica-se que a questão já foi examinada em sede de Apelação (nº 0035972-56.2011.8.26.0451) e em sede de Revisão Criminal (nº 0004883-63.2018.8.26.0000), oportunidade em que ambas as decisões destacaram o fato de que "o delito aqui tratado não está sendo investigado na Comarca de Franca e também não integra a denúncia oferecida pelo Ministério Público, no Juízo da 2ª Vara Criminal de Franca".
+Considerando a afirmação da Corte de origem de que houve não se trata do mesmo crime, não houve ilegalidade decorrente das provas produzidas durante o cumprimento da ordem de busca e apreensão no imóvel alvo da operação policial, já que não há impedimento a que se reconheça a descoberta fortuita das provas ali presentes.
+Aliás, esta Corte Superior de Justiça tem entendimento consolidado de que o encontro fortuito de provas no interior do imóvel alvo de cumprimento de mandado de busca e apreensão não configura ilegalidade da prisão em flagrante.
+Exemplificativamente:
+ ..  4. A legalidade do ingresso policial no domicílio foi constatada, uma vez que o mandado de busca e apreensão abrangia o imóvel e as pessoas presentes no local, conforme previsão do art. 244 do CPP. 5. A jurisprudência admite a validade de provas encontradas fortuitamente, desde que não haja desvio de finalidade na execução do mandado.  ..  (HC n. 880.253/SC, Rel. Ministra Daniela Teixeira, 5ª T., julgado em 27/11/2024, DJ 4/12/2024).
+ ..  4. Segundo a Teoria do Encontro Fortuito de Provas (princípio da serendipidade), admitida pela jurisprudência desta Corte, independentemente da ocorrência da identidade de investigados ou réus, consideram-se válidas as provas encontradas casualmente pelos agentes da persecução penal, relativas à infração penal até então desconhecida, por ocasião do cumprimento de medidas de investigação de outro delito regularmente autorizadas, ainda que inexista conexão ou continência com o crime supervenientemente encontrado, desde que não haja desvio de finalidade na execução das diligências das quais se originaram os elementos probatórios. 5. Agravo regimental desprovido. (AgRg no HC n. 861.941/SP, Rel. Ministro Ribeiro Dantas, 5ª T., julgado em 4/12/2023, DJe 11/12/2023.)
+Assim, dentro dos limites da cognição possível neste writ, não constato ilegalidade patente a justificar o excepcional trancamento do processo ou desconstituição da condenação, já abarcada pelo manto da coisa julgada.
+II. Dispositivo
+À vista do exposto, nego provimento ao recurso ordinário.
+Publique-se e intimem-se.
+EMENTA
