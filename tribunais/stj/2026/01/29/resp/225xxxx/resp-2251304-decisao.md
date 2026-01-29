@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS, com fundamento no art. 105, III, a, e §§ 2º e 3º, I, da Constituição da República, contra o acórdão proferido pelo Segundo Núcleo de Justiça 4.0 - Criminal Especializado do Tribunal de Justiça do Estado de Minas Gerais, nos autos do Agravo em Execução Penal n. 1.0000.25.120.798-1/001 (fl. 148).
+No caso, a defesa interpôs agravo em execução contra decisão do Juízo da Vara de Execuções Criminais da comarca de Belo Horizonte/MG que indeferiu o pedido de indulto com base no Decreto Presidencial n. 11.846/2023 (fl. 148). Houve contrarrazões ministeriais e manutenção da decisão em juízo de retratação (fl. 148). Posteriormente, o Tribunal de Justiça deu parcial provimento ao recurso defensivo para afastar óbice imposto na origem e determinar ao Juízo da execução que aprecie os requisitos objetivos e subjetivos do Decreto n. 11.846/2023 (fls. 148 e 151).
+O Ministério Público sustenta que o acórdão recorrido contrariou o art. 6º, caput, do Decreto n. 11.846/2023, por entender que a concessão do benefício deve ser obstada quando houver notícia de falta grave praticada nos 12 meses anteriores à data-base do decreto, ainda que sua homologação judicial ocorra posteriormente (fls. 149/155).
+Requer o conhecimento e provimento do recurso especial para reformar o acórdão recorrido, afastando o indulto até a apuração da falta grave atribuída ao sentenciado, com a instauração do incidente e realização de audiência de justificação, por influir na aferição do requisito subjetivo do art. 6º do Decreto n. 11.846/2023 (fls. 155/156).
+Contrarrazões nas fls. 160/165.
+Decisão de admissibilidade nas fls. 169/170.
+Intimado, o Ministério Público Federal manifestou-se pelo não conhecimento do recurso especial (fls. 184/188).
+É o relatório.
+Cinge-se a controvérsia em delimitar se a existência de falta grave nos 12 meses anteriores à concessão do indulto, ainda que não homologada, impede o deferimento do benefício.
+Ao julgar o agravo em execução interposto pela defesa, o Tribunal de Justiça adotou a seguinte fundamentação (fl. 132 - grifo nosso):
+No presente caso, verifica-se que, ao ser progredido ao regime aberto, foi concedida ao agravante a prisão domiciliar em 17/11/2022, mediante condições (SEEU - autos nº 4400015-43.2022.8.13.0027 - Seq. 44.1). Contudo, foi noticiado aos autos que ele não comparece em Juízo desde novembro de 2023 (Seq. 70.1).
+Diante da certidão acostada (Seq. 70.1), o Órgão de Execução do Ministério Público manifestou-se pela revogação do benefício da prisão domiciliar e expedição de mandado de prisão em desfavor do sentenciado, com designação de audiência de justificação.
+Ocorre que o alegado descumprimento não foi homologado pelo Juízo da execução. Observa-se que, até o momento, nem mesmo houve a instauração de incidente para apuração da falta disciplinar, com a devida designação de audiência de justificação, garantindo-se o contraditório e a ampla defesa, conforme exige o ato mencionado.
+Verifica-se que o entendimento adotado pela instância antecedente está de acordo com a jurisprudência firmada nesta Corte, no sentido de que, embora se admita, em algumas hipóteses, que a homologação da falta grave se dê após a publicação do Decreto Presidencial, desde que aquela tenha sido praticada durante o período que antecede os 12 meses da sua publicação, em qualquer situação referida homologação deve ocorrer antes da decisão denegatória do benefício, o que, ao que tudo indica, não se efetivou no caso em apreço (AgRg no HC n. 342.454/DF, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 7/3/2017, DJe 13/3/2017).
+A propósito:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. INDULTO. DECRETO N. 11.846/2023. COMETIMENTO DE INFRAÇÃO DISCIPLINAR. AUSÊNCIA DE INSTAURAÇÃO DE PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR. ART. 6º DO REFERIDO DIPLOMA LEGAL. IMPOSSIBILIDADE DE CONSIDERAÇÃO DA FALTA GRAVE COMO ÓBICE À CONCESSÃO DA BENESSE. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+3/5
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, "embora se admita, em algumas hipóteses, que a homologação da falta grave se dê após a publicação do Decreto Presidencial, desde que aquela tenha sido praticada durante o período que antecede os 12 meses da sua publicação, em qualquer situação referida homologação deve ocorrer antes da decisão denegatória do benefício, o que, ao que tudo indica, não se efetivou no caso em apreço" (AgRg no HC 342.454/DF, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 7/3/2017, DJe 13/3/2017.)
+2. No caso, consoante apontado pela Corte de origem, "até o momento, nem mesmo houve a instauração de incidente para apuração da falta disciplinar, com a devida designação de audiência de justificação, garantindo-se o contraditório e a ampla defesa, conforme exige o ato mencionado".
+3. Agravo regimental não provido.
+(AgRg no REsp n. 2.233.299/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 3/12/2025, DJEN de 10/12/2025 - grifo nosso).
+Assim, ao rever a decisão do Juízo das execuções para deferir o indulto ao condenado que, muito embora tenha praticado fato que pode caracterizar falta grave nos 12 meses anteriores à data do decreto, mas sem que tenha sido nem sequer instaurado procedimento para a sua homologação, agiu o Tribunal de Justiça em conformidade com a jurisprudência do STJ.
+Aplica-se, em consequência, a Súmula 83/STJ, que estabelece que não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida.
+Diante do exposto, não conheço do recurso especial.
+Publique-se.
+EMENTA
+DIREITO PENAL. RECURSO ESPECIAL. INDULTO. DECRETO N. 11.846/2023. CONDUTA QUE EXPRESSA FALTA GRAVE. AUSÊNCIA DE APURAÇÃO E HOMOLOGAÇÃO. AUSÊNCIA DE IMPEDIMENTO PARA A CONCESSÃO DO INDULTO. PRECEDENTES. SÚMULA 83/STJ.
+Recurso especial não conhecido.
