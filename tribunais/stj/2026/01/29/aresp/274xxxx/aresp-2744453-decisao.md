@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por LUIZ FERNANDO DA SILVA PINTO contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o agravante ajuizou ação de reintegração de posse de bem móvel (veículo) em desfavor do agravado.
+O Juízo de primeiro grau julgou improcedente o pedido (conforme sentença relatada à fl. 759).
+O Tribunal de origem negou provimento à apelação. O acórdão recorrido foi assim ementado (fl. 764):
+"APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. AÇÃO DE REINTEGRAÇÃO DE POSSE DE BEM MÓVEL (VEÍCULO). REQUISITOS LEGAIS DO ARTIGO 561 DO CPC NÃO PREENCHIDOS. AUSÊNCIA DE PROVA DA POSSE ANTERIOR PELO PROPRIETÁRIO REGISTRAL. ALEGAÇÃO DE QUE O AUTOR DEIXOU O VEÍCULO PARA VENDA COM O RÉU NÃO COMPROVADA. MENSAGENS ELETRÔNICAS JUNTADAS COM A DEFESA QUE COMPROVAM QUE O IRMÃO DO AUTOR ERA POSSUIDOR DO VEÍCULO E O ENTREGOU AO APELADO PARA AMORTIZAÇÃO DE DÉBITO DE ALUGUEL, ADUZINDO A CONDIÇÃO DE PROPRIETÁRIO DE FATO. DETENÇÃO PELO TERCEIRO NÃO DEMONSTRADA. INDEFERIMENTO DO PEDIDO DE EXPROPRIAÇÃO DO BEM NA AÇÃO EXECUTIVA MOVIDA PELO RÉU QUE NÃO TRAZ REFLEXO PARA A PRESENTE AÇÃO, QUE SE DISCUTE A POSSE. MEIO PROCESSUAL INADEQUADO PARA A PRETENSÃO PETITÓRIA. SENTENÇA DE IMPROCEDÊNCIA MANTIDA. ÔNUS SUCUMBENCIAL INALTERADO. HONORÁRIOS ADVOCATÍCIOS MAJORADOS EM GRAU RECURSAL. APELO DESPROVIDO."
+Opostos embargos de declaração, foram rejeitados (fls. 796-800).
+Nas razões do recurso especial, a parte recorrente alegou violação aos arts. 561 do CPC e 1.275, II e III, do Código Civil. Sustentou, em síntese, que comprovou a posse anterior e o esbulho praticado pelo réu, bem como a perda da propriedade por abandono por parte do demandado, uma vez que o bem foi encontrado em estado precário. Aduz que a propriedade registral e a outorga de procuração comprovam seus direitos sobre o bem.
+A decisão da Presidência da Seção de Direito Privado do Tribunal de origem negou seguimento ao recurso especial (fls. 847-850), aplicando os óbices das Súmulas 7 e 83 do STJ.
+No agravo em recurso especial, a parte recorrente impugna os fundamentos da decisão agravada (fls. 857-900).
+É, no essencial, o relatório. Passo a decidir.
+Da admissibilidade do agravo
+O agravante impugnou os fundamentos da decisão de inadmissibilidade. Presentes os pressupostos de admissibilidade do agravo, passo à análise do recurso especial.
+Da Súmula 83 do STJ
+O Tribunal de origem, ao analisar a controvérsia, consignou que a discussão sobre a propriedade do bem não é cabível em sede de ação possessória, salvo se a posse for disputada com base no domínio, o que não se verificou no caso, pois a discussão girava em torno da posse fática anterior.
+Nesse sentido, o acórdão recorrido alinha-se à jurisprudência desta Corte Superior, no sentido de que, nas ações possessórias, a discussão deve se limitar à posse, sendo irrelevante, via de regra, a alegação de propriedade (exceptio proprietatis).
+A propósito:
+" ..  De acordo com a jurisprudência desta Corte Superior, "em sede de ação possessória é inviável a discussão a respeito da titularidade do imóvel sob pena de se confundir os institutos, ou seja, discutir a propriedade em ação possessória" ( AgRg no REsp n. 1.389 .622/SE, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 18/2/2014, DJe 24/2/2014), o que foi observado pelo Tribunal de origem. 7. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83/STJ) . 8. É inviável o agravo previsto no art. 1.021 do CPC/2015 que deixa de atacar especificamente os fundamentos da decisão agravada (Súmula n . 182/STJ). 9. Conforme jurisprudência consolidada desta Corte Superior, "a errônea valoração da prova que enseja a incursão desta Corte na questão é a de direito, ou seja, quando decorre de má aplicação de regra ou princípio no campo probatório e não para que se colham novas conclusões sobre os elementos informativos do processo" ( AgInt no AREsp n. 970 .049/RO, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 4/5/2017, DJe de 9/5/2017), o que não ocorreu no caso. 10. Agravo interno a que se nega provimento.
+(STJ - AgInt no REsp: 1777692 PA 2018/0286330-7, Relator.: Ministro ANTONIO CARLOS FERREIRA, Data de Julgamento: 18/05/2020, T4 - QUARTA TURMA, Data de Publicação: DJe 21/05/2020).
+Incide, portanto, a Súmula 83/STJ.
+Da Súmula 7 do STJ
+A pretensão recursal demanda o revolvimento do conjunto fático-probatório dos autos.
+O Tribunal a quo, soberano na análise das provas, concluiu que o autor não comprovou a posse anterior sobre o veículo, requisito indispensável para a reintegração de posse (art. 561 do CPC), e que as provas indicavam que o bem estava na posse do irmão do autor, sendo entregue ao réu para amortização de dívida.
+Confira-se trecho do voto condutor (fls. 760-761):
+"A decisão recorrida está vincada no fundamento de que a prova documental produzida pelo réu-apelado, comprova que o veículo estava na posse do irmão do apelante, que o ofertou como forma de abatimento de um débito derivado de contrato de locação. (..) As conversas estabelecidas entre o demandado e irmão do autor, via whats App, demonstram que o bem nunca esteve na posse do autor, não preenchendo assim o pressuposto básico para a ação possessória. (..) Consoante anotado no acórdão, a condição de proprietário do veículo, por si só, não legitima o apelante a postular a proteção possessória invocada, que reclama a prova da posse anterior e do esbulho, nos termos do artigo 561 do CPC, que no caso em apreço não estão comprovados."
+Assim, alterar a conclusão do Tribunal de origem quanto à ausência de comprovação da posse anterior e do esbulho exigiria o reexame de fatos e provas, o que é vedado em recurso especial.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios fixados pelo Tribunal de origem para 15% sobre o valor atualizado da causa, observada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
