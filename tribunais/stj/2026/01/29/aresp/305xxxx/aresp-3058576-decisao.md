@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial interposto contra decisão que inadmitiu o recurso especial.
+Segundo a parte agravante, o recurso preenche os requisitos necessários ao conhecimento e provimento.
+Intimada nos termos do art. 1.042, § 3º, do Código de Processo Civil, a parte agravada afirmou a inexistência de requisitos ou elementos aptos a promover a alteração do julgado impugnado.
+É o relatório.
+DECIDO.
+O agravo é tempestivo, nos termos do art. 1.003, § 5º, do Código de Processo Civil.
+A análise dos argumentos recursais não indica, contudo, a existência de fundamentos que sustentem a reforma da decisão recorrida, cujos fundamentos transcrevo para que passem a fazer parte da presente decisão:
+Deveras, a análise de eventual ofensa aos dispositivos apresentados, referente ao reconhecimento, ou não, da prescrição intercorrente para extinção do processo executivo, por certo, esbarra no óbice da Súmula 7 do Superior Tribunal de Justiça, pois a conclusão sobre o acerto ou desacerto do acórdão recorrido demandaria sensível incursão no acervo fático-probatório (cf. mm. STJ, 4ª T., AgInt no AREsp n. 2.179.758/SC, Rel. Min. Raul Araújo, DJe de 7/6/20231). E isso, por certo, impede o trânsito do recurso especial.
+No presente processo, a parte agravante afirma, em suma, que estão presentes os requisitos para o conhecimento e provimento de seu recurso.
+Ocorre, contudo, que a questão já foi enfrentada pela decisão recorrida, que analisou detidamente todas as questões jurídicas postas.
+A controvérsia trazida aos autos consiste em definir se, em execução de título extrajudicial fundada em duplicata, a realização de sucessivos pedidos infrutíferos de busca patrimonial em sistemas eletrônicos e a penhora de valor irrisório são suficientes para afastar a prescrição intercorrente, bem como se há necessidade de intimação pessoal da exequente para seu reconhecimento.
+O agravante alega que o acórdão recorrido violou os arts. 921, § 4º, do CPC e 202, VI, do CC.
+Para conhecer da controvérsia apresentada neste recurso, mostra-se necessário o revolvimento do acervo fático-probatório dos autos, procedimento incompatível com o entendimento firmado pela Súmula nº 7 deste Superior Tribunal de Justiça, que estabelece que: "A pretensão de simples reexame de prova não enseja recurso especial."
+De fato, presente a função uniformizadora do Recurso Especial, não se pode cogitar de seu emprego para a realização de rejulgamento do contexto fático-probatório, em atitude típica de revisão promovida por nova instância.
+Diante disso, é reiterada a jurisprudência desta Corte que assenta que "o reexame de fatos e provas (é) vedado em recurso especial pela Súmula nº 7 do STJ."(AgInt no REsp n. 2.151.760/SC, relator Ministro Humberto Martins, Terceira Turma, julgado em 9/12/2024, DJEN de 12/12/2024.)
+No mesmo sentido:
+AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL. INTIMAÇÃO. DEMORA. CULPA DO JUDICIÁRIO. PRESCRIÇÃO INTERCORRENTE. NÃO OCORRÊNCIA. VERIFICAÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA N. 83 DO STJ. NÃO PROVIMENTO. SOBRESTAMENTO DO FEITO. INOCORRÊNCIA. RAZÕES DO ACÓRDÃO NÃO COMBATIDAS. SÚMULA N. 283 DO STJ. PARCIAL CONHECIMENTO. NÃO PROVIMENTO.
+1. A reanálise do entendimento de que não ocorrida a prescrição da pretensão, fundamentado nos fatos e provas dos autos, esbarra no óbice da Súmula n. 7 do STJ.
+2. O recurso especial interposto contra acórdão que decidiu em consonância com a jurisprudência deste Superior Tribunal de Justiça esbarra no óbice da Súmula n. 83 do STJ.
+3. A ausência de combate aos fundamentos do acórdão recorrido, suficientes por si sós, para a manutenção do decidido, acarreta a incidência da Súmula n. 283 do STF.
+4. Recurso especial conhecido em parte e, nessa extensão, não provido.
+(AREsp n. 2.337.937/AL, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 16/6/2025, DJEN de 24/6/2025.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL. CHEQUE. PRESCRIÇÃO INTERCORRENTE. NÃO OCORRÊNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ.
+1. Nos termos da jurisprudência pacífica do STJ, o prazo de prescrição intercorrente corresponde ao prazo prescricional definido em lei para requerer o direito material que, no caso dos autos, é de 6 meses, nos termos do art. 59 da Lei n. 7.357/1985.
+2. O reconhecimento da prescrição intercorrente demanda a concomitância de dois requisitos: a) o decurso do tempo previsto em lei; e b) a inércia do titular da pretensão resistida em adotar providências necessárias ao andamento do feito (AgInt nos EDcl no AREsp n. 2.580.673/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 14/4/2025, DJEN de 24/4/2025).
+3. Hipótese em que o Tribunal de origem, soberano na análise fática, afastou a ocorrência da prescrição intercorrente em razão da ausência de inércia do exequente na promoção dos atos e procedimentos de impulsão processual.
+4. A modificação das conclusões a que chegou o Tribunal de origem acerca da não ocorrência da prescrição intercorrente requer, necessariamente, o reexame de fatos e provas, o que é vedado ao STJ, em recurso especial, por esbarrar no óbice da Súmula n. 7/STJ.
+Agravo interno improvido.
+(AgInt no AREsp n. 2.734.043/MG, relator Ministro Humberto Martins, Terceira Turma, julgado em 9/6/2025, DJEN de 12/6/2025.)
+Não há, portanto, dúvida acerca da inaptidão do recurso especial para promover a revisão do quadro fático-probatório, viabilizando reformar da compreensão firmada pela Corte de origem acima do tema.
+Não se quer dizer, contudo, que o debate do quadro fático não possa ser revisado nesta instância especial. Ao revés, é também pacífico o entendimento de que: "a revaloração jurídica de fatos e provas incontroversos delineados no acórdão impugnado afasta a aplicação da Súmula nº 7 do STJ na espécie." (AgInt no AREsp n. 1.742.678/MT, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 8/6/2021, DJe de 11/6/2021.)
+Cuida-se, contudo, de ônus imputado à parte recorrente, que não pode se limitar a afirmar que sua pretensão demanda apenas o reenquadramento fático à moldura legal pretendida, devendo, isto sim, evidenciar, objetivamente, que a análise fática estabilizada melhor se enquadra em outra forma jurídica.
+Daí porque este colegiado também tem afirmado, reiteradamente, que "No tocante às Súmulas nºs 5 e 7/STJ, não basta a parte sustentar genericamente a não aplicação dos óbices, sem explicitar, à luz do contexto fático delineado no acórdão e da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame fático-probatório ou da análise das cláusulas contratuais." (AgInt no AREsp n. 2.250.305/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 2/10/2023, DJe de 6/10/2023.)
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE RESCISÃO DE CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. INDENIZAÇÃO. DANOS MATERIAIS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A TODOS OS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, DO NCPC (ART. 544, § 4º, I, DO CPC/73). AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do NCPC (544, § 4º, I, do CPC/73), não impugna os fundamentos da respectiva inadmissibilidade (incidência das Súmulas n.ºs 5 e 7 do STJ e 284 do STF).
+3. Não basta para considerar "especificamente impugnados" os fundamentos da decisão recorrida a mera transcrição de súmulas ou reprodução de dispositivos legais violados. Necessário, além das indicações expressas e claras, a sua vinculação aos fatos tal como analisados pelo acórdão ou decisão para então, mediante enfrentamento dialético desse conjunto de permissivos constitucionais em face do exame soberano do material de cognição pela Corte estadual, se chegar ao almejado entendimento de que a classificação jurídica concluída não espelha o melhor direito ao caso.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.925.017/SC, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 5/9/2022, DJe de 8/9/2022.)
+No presente feito, o acolhimento da tese recursal demandaria inevitável revisão do quadro fático-probatório estabelecido na instância de origem, providência que, como visto, é inviável nesta sede.
+Ante o exposto, não conheço do agravo em recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 2% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
