@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo em r ecurso especial interposto por CHARLES FELICIANO BATISTA contra a decisão do Tribunal Regional Federal da 4ª Região que inadmitiu recurso especial apresentado contra o acórdão exarado no julgamento da Apelação Criminal n. 5006666-25.2020.4.04.7002/PR (fls. 1.192/1.249).
+O Ministério Público Federal apresentou parecer opinando pelo conhecimento do agravo para não conhecer do recurso especial (fls. 1.591/1.597).
+É o relatório.
+O agravo é inadmissível.
+Inicialmente, esclareço que a decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos, inclusive de forma específica, suficiente e pormenorizada, não sendo suficientes meras alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência do óbice da Súmula 182/STJ (AgRg nos EDcl no AREsp n. 2.985.942/MA, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 16/9/2025, DJEN de 25/9/2025).
+Ao que se observa, o Tribunal de origem inadmitiu o apelo nobre pelos seguintes fundamentos: 1) incidência da Súmula 7/STJ quanto à pretensão de revisão da dosimetria da pena, por demandar revolvimento do conjunto fático-probatório - a pretensão de simples reexame de prova não enseja recurso especial (fl. 1.486); 2) incidência da Súmula 83/STJ, por estar o acórdão em consonância com a jurisprudência do Superior Tribunal de Justiça: (i) quanto à conversão do julgamento em diligência do art. 616 do Código de Processo Penal; (ii) quanto ao reconhecimento da agravante do art. 61, II, d, do Código Penal e ao princípio da correlação (fls. 1.486/1.487); e 3) prejuízo do exame pela alínea c do art. 105, III, da Constituição Federal, em razão do óbice imposto pela alínea a (fl. 1.487).
+Todavia, a parte agravante, nas razões do agravo em recurso especial, não impugnou, de maneira específica, a íntegra da decisão de inadmissão.
+Alega que a decisão agravada violou o art. 93, IX, da Constituição Federal e afirma ser "totalmente desnecessário o reexame da prova", sem explicitar quais fatos incontroversos fixados no acórdão recorrido permitiriam mera revaloração jurídica suficiente para afastar o óbice da Súmula 7/STJ (fls. 1.539/1.540).
+Argumenta que não incide a Súmula 83/STJ, porém se limita a invocar paradigmas não provenientes do Superior Tribunal de Justiça, sem demonstrar a inaplicabilidade específica dos precedentes indicados na decisão de inadmissão (fls. 1.537/1.542 e 1.486/1.487).
+Sustenta dissídio jurisprudencial pela alínea c, mas não enfrenta o fundamento de que o óbice pela alínea a impede a análise recursal pela alínea c, tal como consignado na decisão de origem (fl. 1.487).
+Defende, em termos genéricos, que seus pleitos não demandam reexame probatório, sem enfrentar concretamente os fundamentos utilizados para negativar as circunstâncias e consequências na dosimetria, os quais repousam sobre o modus operandi e o vultoso valor subtraído, bases fáticas expressamente delineadas no acórdão (fls. 1.239/1.245 e 1.486).
+Por conseguinte, aplica-se, à hipótese dos autos, o art. 932, inciso III, do CPC, c/c o art. 3º do CPP, e a Súmula 182/STJ por analogia.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. OPERAÇÃO RESPOSTA INTEGRADA. LATROCÍNIO. ROUBO MAJORADO. USO DE DOCUMENTO PÚBLICO FALSO E FALSIDADE IDEOLÓGICA. INSURGÊNCIA NÃO CONHECIDA POR INCIDÊNCIA DAS SÚMULAS 7 E 83/STJ. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015 E 253, PARÁGRAFO ÚNICO, I, DO RISTJ.
+Agravo em recurso especial não conhecido.
