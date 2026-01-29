@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto por VIVIANE MARIA MARQUES, com fundamento na alínea a do permissivo constitucional, contra o acórdão proferido pelo Tribunal de Justiça de Minas Gerais, na Apelação Criminal n. 1.0000.25.055369-0/001, assim ementado (fl. 432):
+APELAÇÃO CRIMINAL - FURTO - ABSOLVIÇÃO - IMPOSSIBILIDADE - MATERIALIDADE E AUTORIA DEVIDAMENTE COMPROVADAS - REDUÇÃO DAS PENAS-BASE - INADMISSIBILIDADE - RECURSO DESPROVIDO. - 1. Restando devidamente comprovadas nos autos a materialidade e a autoria do crime de furto, diante da prova oral colhida, confirmada sob o crivo do contraditório e da ampla defesa, não há que se falar em absolvição da acusada, impondo-se, pois, a manutenção da condenação firmada em primeira instância, por seus próprios fundamentos. 2. Constatado que as penas-base foram fixadas em perfeita consonância com os elementos extraídos dos autos e com os parâmetros elencados no art. 59 do Código Penal, sendo devidamente justificada a sua aplicação um pouco acima do mínimo legal, sobretudo em virtude da apreciação desfavorável dos antecedentes da ré, descabida a sua redução.
+Nas razões, a parte recorrente aponta a violação do art. 59 do Código Penal. Sustenta que a pena-base foi exasperada com fundamentação inidônea no que se refere à valoração do vetor consequências, pois calcada em característica própria de delito patrimonial - ausência de restituição total da res furtiva.
+Ao final da peça recursal, requer o provimento da insurgência para decotar o vetor judicial das consequências, reduzindo a pena-base.
+Oferecidas contrarrazões (fls. 461/463), o recurso especial foi admitido na origem (fls. 466/468).
+Instado a se manifestar na condição de custos legis, o Ministério Público Federal opina pelo não provimento da insurgência (fls. 482/487).
+É o relatório.
+Cinge-se a discussão a determinar se seria idônea a fundamentação empregada pelas instâncias ordinárias para justificar o incremento da pena-base do crime de furto simples, no que tange ao vetor consequências.
+Quanto ao ponto, o Tribunal de origem manteve a valoração negativa do referido vetor judicial, que foi assim fundamentada pelo Juízo de primeira instância: verifico que o numerário foi restituído apenas de forma parcial, de modo que valorarei de forma negativa (fl. 340 - grifo nosso).
+Como se observa, a instância de origem não logrou apontar fundamentos idôneos para valorar de forma negativa o vetor consequências do crime. O simples fato de a res furtiva não ter sido restituída à vítima, sem qualquer indicação de que tenha ocorrido um prejuízo exacerbado, trata-se de consequência normal de delito patrimonial.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO. PENA-BASE. CONSEQUÊNCIAS DO CRIME. FUNDAMENTAÇÃO INIDÔNEA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A análise negativa das consequências do crime foi realizada por meio de fundamentação inidônea, haja vista que o prejuízo é elemento inerente dos crimes contra o patrimônio e não foram apresentados elementos concretos, como o valor exacerbado da res furtiva ou do próprio dano gerado, que pudessem fundamentar o recrudescimento da pena pela referida vetorial.
+2. Agravo regimental não provido.
+(AgRg no AREsp n. 2.213.274/GO, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 31/5/2023 - grifo nosso).
+AGRAVO REGIMENTAL NO RECURO ESPECIAL. FURTO. DOSIMETRIA. VALORAÇÃO NEGATIVA DAS CONSEQUÊNCIAS DO CRIME ANTE A NÃO RESTITUIÇÃO DA RES FURTIVA. FUNDAMENTO INIDÔNEO. PERDA PATRIMONIAL INERENTE AO TIPO PENAL. AGRAVO MINISTERIAL DESPROVIDO.
+1. A individualização da pena é uma atividade em que o julgador está vinculado a parâmetros abstratamente cominados pela lei, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, ressalvadas as hipóteses de manifesta ilegalidade ou arbitrariedade, é inadmissível às Cortes Superiores a revisão dos critérios adotados na dosimetria da pena.
+2. No tocante às consequências do crime, nos termos da jurisprudência do Superior Tribunal de Justiça, "o fato de à vítima não ter tido restituída inteiramente a res furtiva não autoriza a exasperação da pena-base pelas consequências do delito, visto que a subtração de coisa alheia móvel constitui elementar do próprio tipo penal violado, de natureza patrimonial" (HC 219.582/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 1º/2/2013).
+3. Agravo regimental desprovido.
+(AgRg no REsp n. 2.067.325/MG, Ministro Ribeiro Dantas, Quinta Turma, DJe de 22/9/2023 - grifo nosso).
+Ressalto, ademais, que o montante não restituído (R$ 150,00 - cento e cinquenta reais - fl. 334) não ostenta relevância suficiente para justificar o aumento da pena-base.
+Dessa forma, de rigor o decote da citada circunstância judicial e, consequentemente, a redução proporcional da pena-base a 1 ano, 4 meses e 15 dias de reclusão, e 11 dias-multa. Na segunda fase, a pena foi aumentada em 1/6 pela reincidência, resultando em 1 ano, 7 meses e 7 dias de reclusão, e 13 dias-multa. Inexistentes causas de aumento ou redução, a pena final fica estabelecida no referido patamar.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial, a fim de decotar o vetor consequências da pena-base e redimensionar a pena para 1 ano, 7 meses e 7 dias de reclusão, e 13 dias-multa.
+Publique -se.
+EMENTA
+DIREITO PENAL. RECURSO ESPECIAL. FURTO. ART. 59 DO CP. DOSIMETRIA. PENA-BASE ESTABELECIDA ACIMA DO MÍNIMO LEGAL. CONSEQUÊNCIAS DO CRIME. NÃO RESTITUIÇÃO DA RES FURTIVA. FUNDAMENTO INIDÔNEO. CONSEQUÊNCIA INERENTE AO TIPO PENAL.
+Recurso especial provido nos termos do dispositivo.
