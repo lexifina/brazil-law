@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de revisão criminal ajuizada por ROGÉRIO AVELINO DA SILVA, por meio da qual se pretende desconstituir a decisão monocrática exarada pelo Ministro Ribeiro Dantas, no julgamento do REsp n. 2.115.821/RJ, que restabeleceu a prorrogação da permanência do requerente no Sistema Penitenciário Federal.
+Colhe-se da inicial que o pleito revisional - fundado no art. 621, I e III, do Código de Processo Penal - está calcado em alegado erro de valoração jurídica (fundamentação genérica e ausência de demonstração atual e individualizada da subsistência dos motivos da medida) e na superveniência de fatos e provas, consistentes em: documentos oficiais do Sistema Penitenciário Federal que atestam inexistência de vínculos atuais com organização criminosa, decisões que autorizaram visitas de suas filhas menores, boa conduta carcerária devidamente certificada e casamento ocorrido em 27/11/2025.
+Requer-se, em caráter liminar, o afastamento imediato da custódia federal, com retorno ao estado de origem; ou, subsidiariamente, a reavaliação concreta e individualizada da medida.
+No mérito, postula-se a procedência da revisão criminal para afastar integralmente a custódia federal; subsidiariamente, o reconhecimento da nulidade da fixação automática do prazo máximo de 3 anos.
+A liminar foi indeferida pela Presidência desta Corte (fls. 85/86).
+Instado a se manifestar na condição de custos legis, o Ministério Público Federal opina pela inadmissibilidade da ação revisional (fls. 92/102).
+É o relatório.
+A pretensão é manifestamente descabida.
+Ora, a revisão criminal (art. 621 do CPP) tem escopo restrito: destina-se a desconstituir sentença penal condenatória transitada em julgado, nas hipóteses taxativas de: 1) contrariedade ao texto expresso da lei penal ou à evidência dos autos; 2) condenação fundada em prova falsa; e 3) advento de novas provas de inocência ou de circunstância que autorize diminuição especial da pena.
+No caso, a decisão que se objetiva rescindir não se enquadra na previsão contida no art. 621 do CPP, pois exarada em sede de julgamento de recurso especial interposto contra acórdão emanado do julgamento de agravo em execução penal - apresentado em incidente de execução -, de modo que não se verificou nela qualquer debate acerca da condenação em si, nem mesmo sobre a pena aplicada.
+Sobre o tema, destaco precedente da Suprema Corte (grifo nosso):
+EMENTA: - DIREITO PENAL E PROCESSUAL PENAL. REVISÃO CRIMINAL: INCIDENTE DE EXECUÇÃO: UNIFICAÇÃO DE PENAS. "HABEAS CORPUS". 1. Ao contrário do que pareceu ao Ministério Público federal, o acórdão impugnado, na impetração, não foi o proferido no Recurso em Sentido Estrito, conhecido como Agravo em Execução, mas, sim, o da Revisão Criminal, como está expresso na inicial, instruída, aliás, com cópia desse aresto e não do outro. 2. Também no tópico destinado ao pedido de "Habeas Corpus" é apontada, como decisão a ser modificada, aquela "denegatória da Revisão". 3. Sucede que o Tribunal de Justiça limitou-se a não conhecer do pedido de Revisão Criminal, porque nele não se impugnava sentença condenatória, mas, sim, decisão proferida em incidente de execução, sobre unificação de penas. 4. E, na verdade, Revisão Criminal só é mesmo cabível contra sentença condenatória (art. 621 do C.P.Penal). Não, assim, contra decisão incidental de execução. 5. Correto, pois, o acórdão impugnado. 6. "H.C." indeferido.
+(HC 75137, Relator(a): SYDNEY SANCHES, Primeira Turma, julgado em 12-08-1997, DJ 26-09-1997 PP-47477 EMENT VOL-01884-02 PP-00272)
+Ante o exposto, não conheço do pedido revisional.
+Publique-se.
+EMENTA
+REVISÃO CRIMINAL. AÇÃO AJUIZADA EM FACE DE DECISÃO QUE ACOLHEU RECURSO ESPECIAL INTERPOSTO CONTRA ACÓRDÃO EXARADO NO JULGAMENTO DE AGRAVO EM EXECUÇÃO PENAL. AUSÊNCIA DE DEBATE ACERCA DA CONDENAÇÃO EM SI OU APENAMENTO. PRETENSÃO DESCABIDA. PRECEDENTE DO STF.
+Pedido não conhecido.
