@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de ANDRE DOMINGUES PERDIGAO, preso preventivamente e acusado pela prática do crime de tráfico de drogas (art. 33, caput, da Lei n. 11.343/2006) - (Processo n. 5002275-36.2025.8.13.0610, da Vara Única da comarca de São Domingos do Prata/MG).
+O impetran te aponta como autoridade coatora o Tribunal de Justiça do Estado de Minas Gerais, cuja Quinta Câmara Criminal, em sessão de Turma, denegou a ordem (HC n. 1.0000.25.461152-8/000) - (fls. 11/19).
+Alega que o acórdão manteve a prisão preventiva com base em premissas fáticas ampliadas - referência à suposta prática de lavagem de capitais e organização criminosa - quando a denúncia foi posteriormente oferecida apenas por tráfico de drogas, o que fragiliza o suporte empírico da medida extrema, impondo sua revogação.
+Sustenta que a quantidade de droga apreendida é diminuta e, isoladamente, não demonstra gravidade concreta, risco atual à ordem pública, nem periculosidade acentuada, afastando a necessidade da prisão (fls. 5/6).
+Argumenta que as condições pessoais favoráveis - primariedade, residência fixa e trabalho lícito - autorizam a substituição da prisão por medidas cautelares diversas, previstas no art. 319 do Código de Processo Penal (fls. 7/9).
+Defende a possibilidade de incidência do "tráfico privilegiado" (art. 33, § 4º, da Lei n. 11.343/2006) em eventual condenação, o que reforça a desproporcionalidade da preventiva (fls. 8/9).
+Em caráter liminar, pede a concessão da ordem para o relaxamento da prisão preventiva do paciente (fl. 9); e, no mérito, requer, alternativamente, a revogação da prisão preventiva (fl. 10) ou a substituição por medidas cautelares diversas, inclusive monitoração eletrônica ou prisão domiciliar (fls. 9/10).
+A liminar foi indeferida às fls. 111/112.
+As informações foram prestadas às fls. 118/358 e 359/379.
+O Ministério Público Federal, às fls. 381/385, opinou pelo não conhecimento do habeas corpus.
+É o relatório.
+Infere-se dos autos que a prisão preventiva foi fundamentada na garantia da ordem pública, asseverando o Magistrado de primeira instância que há necessidade da segregação cautelar do autuado visando à garantia da ordem pública e evitando a reiteração criminosa, uma vez que, o crime de tráfico de drogas é hediondo e dotado de grande censurabilidade e gravidade, gerador de ampla repercussão no meio social, causando preocupação e insegurança. Aliás, o tráfico de drogas é um delito diferenciado em relação a todos os demais, uma vez que, toda a coletividade sofre as danosas consequências de tal prática criminosa (fl. 125).
+Por sua vez, o Tribunal de origem, ao manter a custódia cautelar, partiu da premissa de que o paciente supostamente teria incorrido também nos delitos de lavagem de capitais e organização criminosa. Todavia, o réu foi denunciado apenas pelo delito de tráfico de drogas (fls. 93/96).
+Com efeito, a custódia cautelar não pode ser imposta com base, essencialmente, na gravidade abstrata do delito, assentada a motivação em elementos inerentes ao próprio tipo penal. Cumpre ao magistrado vincular seu decisum a fatores reais de cautelaridade.
+Ora, do atento exame dos autos, observo que, além de não terem sido apontados elementos concretos que denotem a necessidade da medida excepcional, as circunstâncias pessoais do imputado (primariedade e ausência de antecedentes) e da prisão em flagrante, em que foram apreendidos 82,75 g de cocaína, em crime cometido sem violência ou grave ameaça, demonstram a suficiência de medidas alternativas à prisão.
+Importante salientar que, com o advento da Lei n. 12.403/2011, a prisão cautelar passou a ser, mais ainda, a mais excepcional das medidas, devendo ser aplicada somente quando comprovada a inequívoca necessidade, devendo-se sempre verificar se existem medidas alternativas à prisão adequadas ao caso concreto" (HC n. 305.905/SP, Relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 4/12/2014, DJe 17/12/2014) - (AgRg no RHC n. 210.080/RS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN 26/2/2025).
+Confiram-se, também: AgRg no RHC n. 212.290/MS, Ministro Rogerio Schietti Cruz, Sexta Turma, DJEN 26/5/2025; e AgRg no HC n. 1.003.410/PR, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN 17/6/2025.
+Assim, concedo a ordem para substituir a prisão cautelar imposta ao paciente por medidas alternativas à prisão, a serem estabelecidas e fiscalizadas pelo Magistrado singular, salvo se estiver preso por outro motivo, podendo o Juízo de primeiro grau decretar novamente a segregação cautelar, desde que fundamentadamente.
+Comunique-se, com urgência, o teor desta decisão ao Tribunal estadual e ao Juízo a quo.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. INDICAÇÃO DE ELEMENTOS CONCRETOS. AUSÊNCIA. MENÇÃO, APENAS, À GRAVIDADE ABSTRATA DO CRIME. QUANTIDADE NÃO EXORBITANTE DE DROGAS (82,75 G DE COCAÍNA). DELITO COMETIDO SEM VIOLÊNCIA OU GRAVE AMEAÇA. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem concedida nos termos do dispositivo.
