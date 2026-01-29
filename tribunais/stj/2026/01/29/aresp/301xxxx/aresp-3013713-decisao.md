@@ -1,0 +1,61 @@
+DECISÃO
+Cuida-se de agravo interposto por COOPERFORTE COOPERATIVA DE ECONOMIA E CRÉDITO MÚTUO DOS FUNCIONÁRIOS DE INSTITUIÇÕES FINANCEIRAS PÚBLICAS FEDERAIS LTDA. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS cuja ementa guarda os seguintes termos (fl. 519):
+AGRAVO DE INSTRUMENTO - EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - VERBA SALARIAL - RELATIVIZAÇÃO DA IMPENHORABILIDADE - INOBSERVÂNCIA ÀS DIRETRIZES JURISPRUDENCIAIS - INCIDÊNCIA DA PROTEÇÃO LEGAL
+De acordo com o art. 833 do CPC, são impenhoráveis os salários, vencimentos e remunerações destinados ao sustento do devedor e de sua família, bem como a quantia depositada em caderneta de poupança, até o limite de 40 (quarenta) salários mínimos, salvo se comprovada má fé, abuso de direito ou fraude e nas situações excepcionais descritas na própria lei, quais sejam pagamento de verba alimentícia e importâncias excedentes ao teto máximo estipulado. Com relação aos salários, vencimentos e remunerações, o Superior Tribunal de Justiça, por ocasião do julgamento do EREsp n. 1.874.222/DF, e o Tribunal de Justiça do Estado de Minas Gerais, no âmbito do julgamento do IRDR n. 1.0182.16.001439 1/001, consolidaram interpretação acerca da natureza da proteção dada pelo legislador, consignando que é permitida, de forma excepcional, a penhora dessas verbas para pagamento de dívida não alimentar, independentemente do montante recebido pelo devedor, desde que i) inviabilizados outros meios executórios; ii) a constrição não supere o limite de 30% da aludida verba líquida; iii) seja preservado valor que assegure a subsistência digna do devedor e de sua família.
+Rejeitados os embargos de declaração opostos (fls. 430-434).
+No recurso especial, a parte recorrente alega violação dos arts. 373, II, 797, 805 e 833 do Código de Processo Civil; e 1º e 6º, § 5º, da Lei n. 10.820/2003.
+Sustenta, em síntese, que a impenhorabilidade de verbas salariais deve ser relativizada, permitindo-se a constrição de parte dos proventos do devedor para a satisfação de dívida de natureza não alimentar, notadamente quando o devedor aufere rendimentos que permitem a penhora sem comprometer sua subsistência digna e não indica outros bens para garantir o débito (fls. 437-488). Argumenta que a decisão recorrida, ao indeferir a medida, diverge de precedentes desta Corte e de outros tribunais, além de contrariar os dispositivos legais que regem a execução e o ônus da prova.
+Aponta divergência jurisprudencial com arestos de outros tribunais e desta Corte.
+Foram oferecidas contrarrazões ao recurso especial (fl. 519).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 519-520), o que ensejou a interposição do presente agravo.
+Sem contraminuta do agravo.
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+Com efeito, o Tribunal de origem analisou detidamente o recurso especial interposto, devendo a decisão de admissibilidade ser mantida por seus próprios fundamentos.
+Cuida-se, na origem, de cumprimento de sentença oriundo de ação monitória, no qual a exequente, ora agravante, pleiteou a penhora de 30% dos proventos auferidos pelo executado.
+Em primeira instância, o pedido foi indeferido ao fundamento de que a constrição salarial é medida gravosa e excepcional, a qual somente seria cabível após o esgotamento de outras diligências executivas, o que não teria ocorrido no caso concreto (fl. 442).
+Interposto agravo de instrumento, o tribunal de origem negou provimento ao recurso, mantendo a decisão de primeiro grau. O acórdão recorrido reconheceu a possibilidade de relativização da impenhorabilidade do salário, com base em precedentes do Superior Tribunal de Justiça (EREsp n. 1.874.222/DF) e do próprio Tribunal mineiro (IRDR n. 1.0182.16.001439-1/001), mas ressaltou que tal medida excepcional exige o preenchimento de requisitos cumulativos, entre os quais a inviabilização de outros meios executórios. O colegiado concluiu que, no caso dos autos, tal requisito não foi atendido, conforme expressamente consignado (fl. 404):
+Reportando ao caso dos autos, verifica se que nem sequer foi atendido o primeiro requisito anteriormente mencionado, pois ainda não restaram inviabilizados os outros meios executórios, conforme destacado pelo juízo de origem: "Compulsando os atos, verifico que até o momento a parte exequente apenas utilizou pesquisa ao SISBAJUD com intuito de localizar bens do devedor, restando uma larga variedade de possibilidades que antecedem a constrição de salário do executado, por ser esta medida mais gravosa. Assim, indefiro, ao menos por ora, o pedido formulado em ID 10210991300".
+O recurso especial foi inadmitido com fundamento na Súmula n. 7/STJ, pois a pretensão de reformar o acórdão demandaria o reexame do conjunto fático-probatório para afastar a premissa de que não foram esgotados os meios de execução (fl. 520).
+Sem razão o agravante, pois a revisão das conclusões alcançadas pela Corte de origem sobre o não exaurimento das vias ordinárias para a localização de bens penhoráveis demandaria, de fato, o revolvimento de fatos e provas, providência vedada no âmbito do recurso especial, nos termos da Súmula n. 7/STJ. A jurisprudência desta Corte é pacífica no sentido de que a análise acerca do esgotamento das diligências para localização de bens do devedor é questão fática, cuja aferição é soberana às instâncias ordinárias.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PENHORA SOBRE FATURAMENTO DA EMPRESA. POSSIBILIDADE. PRINCÍPIO DA MENOR ONEROSIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+2. No caso concreto, a análise das razões apresentadas pela recorrente de que não foram esgotados todos os meios para localização de outros bens penhoráveis, bem como de que a penhora sobre o faturamento da empresa colocaria em risco a atividade empresarial demandaria o revolvimento de fatos e provas, o que é vedado em recurso especial.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 343.773/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 28/6/2016, DJe de 1/7/2016.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO PELO DEVEDOR DE BENS A SEREM PENHORADOS. CONFIGURAÇÃO DE ATO ATENTATÓRIO À DIGNIDADE DA JUSTIÇA. POSSIBILIDADE. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. A Corte de origem, analisando o acervo fático-probatório dos autos, concluiu que o credor esgotou os meios de localização de bens penhoráveis do devedor e apresentou demonstrativo atualizado do débito, o que autoriza a intimação do devedor para indicar bens à penhora, sob pena de incidência na penalidade prevista pelo art. 774, parágrafo único, do CPC/2015.
+2. A modificação de tal entendimento demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+3. A incidência da multa no caso concreto, vale frisar, não é objeto de discussão no presente recurso, uma vez que, para sua aplicação, será necessário verificar o elemento subjetivo, consistente no dolo ou culpa grave do devedor, que deve ser reconhecido pelas instâncias ordinárias.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.559.242/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 4/5/2020, DJe de 18/5/2020.)
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. PENHORA DE COTAS SOCIAIS EM SOCIEDADE LIMITADA UNIPESSOAL. ALEGAÇÃO DE VIOLAÇÃO AOS ARTS. 797, 789, 805, 831, 835 E 861 DO CPC/2015. PRINCÍPIO DA MENOR ONEROSIDADE AO DEVEDOR. ORDEM PREFERENCIAL DE BENS. INEXISTÊNCIA DE OFENSA. QUESTÕES DEVIDAMENTE ENFRENTADAS PELO ACÓRDÃO RECORRIDO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. ENTENDIMENTO ALINHADO À JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ. AGRAVO NÃO CONHECIDO.
+I. CASO EM EXAME
+1. Processual civil. Agravo em recurso especial interposto contra decisão que inadmitiu o recurso especial em execução de título extrajudicial, na qual se determinou a penhora de cotas sociais em sociedade limitada unipessoal, da qual o agravante é o único sócio, após infrutíferas tentativas de localização de outros bens.
+II. QUESTÃO EM DISCUSSÃO
+2. Alegada violação aos arts. 797, 789, 805, 831, 835 e 861 do CPC/2015, sob o argumento de que a penhora de cotas sociais seria excessivamente onerosa, contrariaria o princípio da menor onerosidade ao devedor, desrespeitaria a ordem preferencial de bens para penhora e ensejaria dissolução forçada da sociedade, sem esgotamento de meios menos gravosos.
+III. RAZÕES DE DECIDIR
+3. As questões jurídicas foram devidamente enfrentadas pelo acórdão recorrido e pela decisão agravada, que observaram a possibilidade de penhora de cotas sociais nos termos do art. 835 do CPC/2015, sem caráter absoluto da ordem preferencial, considerando o patrimônio do devedor e a infrutífera tramitação da execução por quase cinco anos, com diversas medidas constritivas anteriores.
+4. Não se verifica ofensa aos dispositivos invocados, pois a penhora não importa em dissolução imediata da sociedade e atende ao objetivo de satisfação do crédito, sem violação ao princípio da menor onerosidade, especialmente ante a ausência de indicação de bens alternativos pelo executado.
+5. O acolhimento das teses recursais demandaria reexame do acervo fático-probatório dos autos, o que é vedado em sede de recurso especial pela súmula 7/STJ.
+6. O entendimento adotado pelo tribunal de origem alinha-se à jurisprudência do STJ, inclusive ao tema repetitivo 769, atraindo a incidência da súmula 83/STJ, sem demonstração de distinção ou precedente superveniente pela parte agravante.
+IV. DISPOSITIVO
+7. Agravo não conhecido.
+(AREsp n. 2.975.540/SP, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 29/9/2025, DJEN de 2/10/2025.)
+Desse modo, para se chegar a uma conclusão diversa daquela adotada no acórdão recorrido, seria imprescindível reexaminar os atos processuais e as diligências realizadas no processo de execução, a fim de verificar se, de fato, todas as tentativas de encontrar outros bens do devedor restaram frustradas, o que encontra óbice no referido enunciado sumular.
+A incidência da Súmula n. 7/STJ prejudica, por consequência, a análise do recurso especial pela alínea "c" do permissivo constitucional, uma vez que a divergência jurisprudencial não pode ser demonstrada quando a solução da controvérsia depende do reexame do substrato fático-probatório dos autos.
+Nesse sentido:
+DIREITO CIVIL. RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA POR ACIDENTE DE TRÂNSITO. ATROPELAMENTO. PENSÃO MENSAL VITALÍCIA. RECUPERAÇÃO TOTAL DA CAPACIDADE LABORAL. NÃO CABIMENTO. SÚMULA N. 83/STJ. DANOS MORAIS. VALOR. REVISÃO. SÚMULA N. 7/STJ.
+ ..
+5. A jurisprudência do Superior Tribunal de Justiça estabelece que o recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, conforme a Súmula n. 7/STJ.
+6. A comprovação da divergência jurisprudencial para o conhecimento do recurso especial exige a demonstração do dissídio mediante cotejo analítico entre os casos confrontados, o que não foi realizado pela recorrente.
+7. A incidência da Súmula n. 7/STJ quanto à interposição pela alínea "a" do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+IV. DISPOSITIVO
+Recurso especial não conhecido.
+(REsp n. 2.091.139/SC, minha relatoria, Terceira Turma, julgado em 15/12/2025, DJEN de 18/12/2025) .
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários advocatícios por tratar-se, na origem, de recurso interposto contra decisão interlocutória, na qual não houve prévia fixação de honorários.
+Publique-se. Intimem-se.
+EMENTA
