@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de recurso especial interposto por Espólio de Joseph Khalil Obeid, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (fls. 100/104):
+APELAÇÃO EMBARGOS À EXECUÇÃO FISCAL - AUSÊNCIA DE NOTIFICAÇÃO DE VACINAÇÃO DE ANIMAIS AO SERVIÇO DE DEFESA AGROPECUÁRIA, EM AFRONTA AO ART. 13, INCISO VI C.C. ART. 53, INCISO II, AMBOS DO DECRETO ESTADUAL Nº. 45.781/2001 - O caráter acessório da obrigação não exime o infrator da multa imposta - Ilegitimidade passiva não configurada - Possibilidade de assunção do polo passivo pelos herdeiros sem prejuízo ao direito de defesa - Inaplicabilidade da Súmula 392, do STJ - Ausência de ilegalidade do ato administrativo impugnado - Sentimento de injustiça quanto à consequência legal da conduta praticada que não é suficiente ao afastamento da autuação - Redução de 15% do valor da multa não aplicável ao caso dos autos, pois ausente a conduta prevista no §5º, do art. 53 do Decreto Estadual nº. 45.781/2001 - Excesso de juros não demonstrado na forma do art. art. 917, §4º, inciso II, do CPC - Sentença de improcedência mantida - Recurso não provido.
+Não foram opostos embargos de declaração.
+A parte recorrente alega violação do art. 485, inciso VI, do Código de Processo Civil (CPC), sob o argumento de que a execução fiscal foi distribuída contra pessoa já falecida, o que imporia a extinção do processo sem resolução do mérito por ilegitimidade passiva e vedaria a substituição do sujeito passivo na Certidão de Dívida Ativa (CDA), à luz da Súmula 392 do Superior Tribunal de Justiça (STJ).
+Sustenta ofensa ao art. 150, inciso IV, da Constituição Federal (CF), ao argumento de que a multa e os juros aplicados teriam efeito confiscatório, requerendo a redução e a limitação dos juros aos índices da Taxa Selic.
+Aponta violação do art. 53, § 5º, do Decreto 45.871/2001 do Estado de São Paulo, alegando que houve comunicação do fato à autoridade competente, ainda que intempestiva, o que imporia a redução de até 15% do valor da multa.
+Aponta violação do art. 37 da CF e do art. 111 da Constituição do Estado de São Paulo (CE/SP), ao argumento de ausência de motivação nas decisões administrativas que embasaram a autuação, com nulidade do ato e cerceamento de defesa.
+Aponta ofensa ao art. 805 do CPC, defendendo a aplicação do modo menos gravoso de execução, diante da peculiaridade de se tratar de obrigação acessória cumprida intempestivamente (fl. 118).
+Aduz que a vacinação do rebanho foi realizada tempestivamente, tendo havido apenas atraso na comunicação, por equívoco decorrente de mudanças sistêmicas, o que exigiria aplicação dos princípios da razoabilidade e proporcionalidade, bem como reconhecimento da primariedade do espólio e do caráter meramente acessório da obrigação, com anulação da multa ou sua redução.
+Contrarrazões apresentadas às fls. 134/142.
+O recurso especial foi admitido (fls. 143/148).
+É o relatório.
+Na origem, cuida-se de embargos à execução fiscal, que buscam o cancelamento da Certidão de Dívida Ativa e a extinção da execução fiscal.
+Os arts. 485, inciso VI, e 805 do Código de Processo Civil não foram apreciados pelo Tribunal de origem, e não foram opostos embargos de declaração com o objetivo de sanar eventual omissão da questão de direito controvertida.
+A falta de enfrentamento no acórdão recorrido da matéria objeto do recurso impede o acesso a esta instância por não ter sido preenchido o requisito constitucional do prequestionamento.
+Incidem no presente caso, por analogia, as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+Para que se configure o prequestionamento, não basta que a parte recorrente devolva a questão controvertida para o Tribunal. É necessário que a causa seja decidida à luz da legislação federal indicada, bem como que seja exercido juízo de valor sobre o dispositivo legal indicado e a tese recursal a ele vinculada, interpretando-se sua incidência ou não no caso concreto.
+Ausente pronunciamento do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO sobre o ponto, caberia, inicialmente, suscitá-lo em embargos de declaração. Mantida a omissão, deveria a parte interessada deduzir a nulidade do julgamento por violação do art. 1.022 do Código de Processo Civil, o que não foi feito no caso dos autos.
+Em relação à alegada afronta aos arts. 37 e 150, inciso IV, da Constituição Federal (CF), é incabível o recurso especial quanto ao ponto por se tratar de matéria a ser veiculada em recurso extraordinário, cuja apreciação é da competência do Supremo Tribunal Federal; o contrário implicaria usurpação de competência (art. 102, III, da CF).
+Nessa mesma linha:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INCORRÊNCIA. REINTERPRETAÇÃO DO ALCANCE DA TESE FIRMADA EM RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL RECONHECIDA. MATÉRIA CONSTITUCIONAL. COMPETÊNCIA DO STF. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+IV - Não compete a este Superior Tribunal a análise de suposta violação a dispositivos constitucionais, ainda que para efeito de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal. Precedentes.
+ ..
+VI - Agravo Interno improvido.
+(AgInt no REsp n. 1.836.774/PR, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 10/8/2020, DJe de 14/8/2020, sem destaques no original.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PENSÃO MILITAR. FILHA. REQUISITOS DO ART. 7º DA LEI 3.765/60 C/C LEI 8.216/91. ALEGADA OMISSÃO ACERCA DE VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. AFERIÇÃO. IMPOSSIBILIDADE DE ANÁLISE, EM SEDE DE RECURSO ESPECIAL. ALEGADA OFENSA AO ART. 535 DO CPC/73. NÃO OCORRÊNCIA. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL QUE, EM TESE, TERIA RECEBIDO INTERPRETAÇÃO DIVERGENTE DAQUELA FIRMADA POR OUTROS TRIBUNAIS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF, APLICADA POR ANALOGIA. IMPOSSIBILIDADE DE APRECIAÇÃO DE MATÉRIA CONSTITUCIONAL, EM SEDE DE RECURSO ESPECIAL, SOB PENA DE USURPAÇÃO DA COMPETÊNCIA DO STF. AGRAVO INTERNO IMPROVIDO.
+ ..
+V. Do exame do julgado combatido e das razões recursais, verifica-se que a solução da controvérsia possui enfoque eminentemente constitucional. Dessa forma, compete ao Supremo Tribunal Federal eventual reforma do acórdão recorrido, no mérito, sob pena de usurpação de competência inserta no art. 102 da Constituição Federal. Precedentes do STJ (AgRg no AREsp 584.240/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 03/12/2014; AgRg no REsp 1.473.025/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 03/12/2014).
+VI. Agravo interno improvido.
+(AgInt no REsp n. 1.377.313/CE, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 18/4/2017, DJe de 26/4/2017, sem destaques no original.)
+Quanto à alegada violação art. 53, § 5º, do Decreto 45.871/2001 do Estado de São Paulo e art. 111 da Constituição do Estado de São Paulo (CE/SP), registro que, de acordo com a pacífica jurisprudência desta Corte Superior, o conceito de tratado ou lei federal, inserto no art. 105, inciso III, alínea a, da Constituição Federal, deve ser considerado em seu sentido estrito, sendo inadmissível o recurso especial que aponte como violados aqueles atos normativos.
+A propósito:
+PROCESSUAL CIVIL. ADMINISTRATIVO. MANDADO DE SEGURANÇA. FILHA DE MILITAR. REINCLUSÃO EM FUNDO DE SAÚDE DA AERONÁUTICA. REVISÃO DAS CONCLUSÕES DO TRIBUNAL A QUO. NECESSIDADE DE INTERPRETAÇÃO DE NORMAS INFRALEGAIS. IMPOSSIBILIDADE. PRECEDENTES.
+ ..
+III - Conforme entende a jurisprudência do Superior Tribunal de Justiça, o conceito de tratado ou lei federal, previsto no art. 105, inciso III, a, da Constituição da República, deve ser considerado em seu sentido estrito, não compreendendo súmulas, atos administrativos normativos e instruções normativas.
+ ..
+V - Agravo interno improvido.
+(AgInt no REsp n. 1.865.474/CE, relator Ministro Francisco Falcão, Segunda Turma, julgado em 8/2/2021, DJe de 12/2/2021, sem destaques no original.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. PREQUESTIONAMENTO. AUSÊNCIA. INSTRUÇÃO NORMATIVA. ANÁLISE. INVIABILIDADE. IMPOSTO DE RENDA RETIDO NA FONTE (IRRF). NEGOCIAÇÃO DE ORTN"S ANTES DO VENCIMENTO. DISCIPLINA DE INCIDÊNCIA. INAPLICABILIDADE.
+ ..
+3. A via excepcional não se presta para análise de ofensa a resolução, portaria, regimento interno ou instrução normativa, atos administrativos que não se enquadram no conceito de lei federal.
+ ..
+6. Recurso especial conhecido em parte e, nessa extensão, provido, a fim de restabelecer os efeitos da sentença.
+(REsp n. 1.404.038/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 2/6/2020, DJe de 29/6/2020, sem destaques no original.)
+No tocante ao argumento da parte recorrente de que a vacinação do rebanho foi realizada tempestivamente, tendo havido apenas atraso na comunicação, por equívoco decorrente de mudanças sistêmicas, o que exigiria aplicação dos princípios da razoabilidade e proporcionalidade, bem como reconhecimento da primariedade do espólio e do caráter meramente acessório da obrigação, com anulação da multa ou sua redução (fls. 114/118), o Tribunal de origem assim se manifestou (fls. 99/104):
+O embargante assume que não notificou a tempo a vacinação dos animais, embasando a defesa em nulidade do ato administrativo por ausência de motivação, bem como na desproporcionalidade da multa aplicada.
+O ato administrativo não é nulo, pois a autuação contém todos os elementos de identificação do fato gerador da multa, e sua capitulação jurídica, sendo plenamente possível o exercício do direito de defesa pelo autuado.
+Ademais, o próprio embargante assume que tem expertise no processo de vacinação de animais, realizando-o há anos, de forma que a posterior alegação de que agiu de boa-fé imaginando que o fornecedor dos insumos da vacina é quem seria o responsável pela notificação ao serviço de Defesa Agropecuária da circunscrição, não é plausível, beirando a má-fé.
+Incontroversa, portanto, a violação dos dispositivos supratranscritos pelo executado, de forma que não cabe ao Poder Judiciário excluir a aplicação da lei, com base num sentimento de injustiça sobre o descumprimento de "simples" obrigação acessória.
+5. Descabida também a redução da multa em 15% (quinze por cento) de seu valor, pois a aplicação do §5º, do art. 53 do Decreto Estadual nº. 45.781/2001, é condicionada à "comunicação do fato pelo infrator a autoridade competente" e, por óbvio, que tal comunicação deve ser feita antes da ocorrência de autuação por ausência de notificação, o que não ocorreu.
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ), segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Ante o exposto, não conheço do recurso especial.
+Majoro em 10% (dez por cento), em desfavor da parte recorrente , o valor de honorários sucumbenciais já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º desse mesmo dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
