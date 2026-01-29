@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso especial interposto por Companhia Estadual de Distribuição de Energia Elétrica (CEEE-D), com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul (TJRS) assim ementado (fl. 67):
+AGRAVO DE INSTRUMENTO. DIREITO PÚBLICO NÃO ESPECIFICADO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. COMPANHIA ESTADUAL DE DISTRIBUIÇÃO DE ENERGIA ELÉTRICA - CEEE-G. CERTIDÃO DO TRIBUNAL DE CONTAS - PROCESSO Nº 008434-0200/09-1, CONSUBSTANCIADO NA CERTIDÃO Nº 0487/2015. PREFACIAL. FALTA DE ELEMENTOS ACERCA DA ORIGEM E NATUREZA DO CRÉDITO - MULTA, RESSARCIMENTO, ETC.; NULIDADE DO TÍTULO.
+A falta de elementos no título executivo - certidão do TCE -, acerca da origem da dívida - multa, ressarcimento, etc. -; e da natureza do crédito posto no título executivo.
+Conforme posição da jurisprudência, em especial o entendimento  rmado em precedente análogo desta 3ª Câmara Cível - AP nº 50038311920218216001 -, evidenciada a inutilidade na perseguição de suposto crédito constante de título executivo eivado do vício de nulidade - matéria de ordem pública -, a evidenciar a extinção da presente execução de título extrajudicial.
+PRELIMINAR SUSCITADA EM CONTRARRAZÕES ACOLHIDA. EXTINÇÃO DA EXECUÇÃO DE TÍTULO EXTRAJUDICIAL.
+Os embargos de declaração opostos foram rejeitados (fls. 91/104).
+A parte recorrente alega violação dos arts. 1.022, incisos I e II, do Código de Processo Civil (CPC), por negativa de prestação jurisdicional, sustentando omissão e obscuridade do acórdão que "tão-somente reiterou os exatos termos do acórdão, sem qualquer análise ou manifestação quanto às questões de fato e de direito" e deixou de se pronunciar sobre: a) violação ao contraditório; b) ausência de força vinculante do precedente considerado análogo; c) obscuridade relativa à nulidade do título; e d) irretroatividade da Lei 14.230/2021 (fls. 114/115).
+Sustenta ofensa ao art. 489, § 1º, inciso IV, do CPC, ao argumento de que a decisão carece de fundamentação e não enfrentou os argumentos capazes de infirmar a conclusão adotada, notadamente: a) cerceamento de defesa e decisão surpresa; b) inexistência de força vinculante do precedente utilizado; c) inexistência de nulidade do título; d) irretroatividade da Lei 14.230/2021.
+Aponta violação dos arts. 9º, 10, 493, parágrafo único, e 933, do CPC, alegando decisão surpresa pelo acolhimento, em contrarrazões, da preliminar de nulidade do título, sem prévia intimação para manifestação e sem contraditório específico, o que teria implicado cerceamento de defesa.
+Indica violação dos arts. 507 e 784, inciso XII, do CPC e do art. 33 da Lei Estadual 11.424/2000, afirmando: a) inadequação do agravo de instrumento para declarar nulidade de título executivo; b) força executiva das decisões do Tribunal de Contas do Estado do Rio Grande do Sul (TCE/RS); c) preclusão consumativa e temporal; d) impossibilidade de revisão do mérito administrativo pelo Poder Judiciário, admitindo-se apenas controle de legalidade e vício de procedimento.
+Argumenta que o julgamento análogo citado não possui trânsito em julgado, não tem identidade de partes e versa sobre outra diretoria e empresa (CEEE-G), além de ter sido proferido em embargos à execução, o que afastaria qualquer efeito vinculante no presente agravo de instrumento.
+Afirma, ainda, a irretroatividade da Lei 14.230/2021 (Lei de Improbidade Administrativa), conforme Tema 1.199 do Supremo Tribunal Federal, motivo pelo qual não seria possível exigir elemento subjetivo em decisão administrativa transitada em julgado em 2015.
+Contrarrazões apresentadas às fls. 148/163.
+O recurso especial foi admitido (fl. 178).
+É o relatório.
+Na origem, cuida-se de execução de título extrajudicial fundada em certidão do TCE/RS, visando ao ressarcimento ao erário.
+A alegada ofensa aos arts. 1.022 e 489 do Código de Processo Civil tem por base suposta omissão do acórdão recorrido que não teria enfrentado a alegação da parte recorrente de violação aos arts. 9º e 10 do CPC, que vedam a prolação de decisão surpresa, o que sustenta ter ocorrido no presente caso, pois o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL teria acolhido preliminar trazida em contrarrazões de recurso para extinguir a execução sem oportunizar prévia ciência e manifestação da parte recorrente (fls. 53/66).
+Constato que, apesar de provocado por meio do recurso de embargos de declaração às fls. 68/69, o Tribunal de origem não apreciou a matéria no acórdão (fls. 91/103):
+ ..
+Nesse contexto, evidenciada a motivação do acórdão, no sentido da nulidade do título executivo, haja vista a inviabilidade de ultrapassar o pressuposto da prova da culpa ou mesmo do dolo do devedor, para fins da responsabilização pessoal nos atos de gestão formadores da CDA, notadamente com vistas à indenização - ressarcimento -, em observância ao art. 37, §6º, da Constituição da República, especialmente em favor de empresa privada de capital aberto.
+Portanto, não demonstrados os vícios apontados, a indicar a nítida pretensão de rediscussão da matéria, incabível na via aclaratória.
+De igual modo, não evidenciada a suposta violação do contraditório, na disciplina dos arts. 9 e 10 do CPC de 2015.
+Ante o exposto, voto por desacolher os embargos de declaração.
+Para o Superior Tribunal de Justiça, presente algum dos vícios - omissão, contradição ou obscuridade -, e apontada a violação do art. 1.022 do CPC no recurso especial, deve ser anulado o acórdão proferido pelo Tribunal de origem ao examinar os embargos de declaração lá opostos, retornando-se os autos à origem para nova apreciação do recurso.
+A propósito, cito estes julgados:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. ACIDENTE DE TRÂNSITO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015 CONFIGURADA. ACÓRDÃO ESTADUAL OMISSO QUANTO A PONTO ESSENCIAL AO DESLINDE DA CONTROVÉRSIA. AGRAVO DESPROVIDO.
+1. Decisão atacada que deu provimento ao recurso especial da parte ora agravada para, reconhecendo violação ao art. 1.022 do CPC/2015, anular o acórdão que julgou os aclaratórios e determinar o retorno dos autos ao Tribunal de origem para novo julgamento dos embargos de declaração, como entender de direito, sanando a omissão reconhecida.
+2. Fica configurada a ofensa ao art. 1.022 do CPC/2015 quando o Tribunal a quo, apesar de devidamente provocado nos embargos de declaração, não se manifesta sobre tema essencial ao deslinde da controvérsia.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 1.914.275/PB, relator Ministro Raul Araújo, Quarta Turma, julgado em 28/6/2021, DJe de 9/8/2021.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. VIOLAÇÃO AO ART. 535 DO CPC/73 CONFIGURADA. OCORRÊNCIA DE OMISSÃO DE TEMA ESSENCIAL PARA DESLINDE DA CONTROVÉRSIA. AGRAVO INTERNO PROVIDO PARA DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL.
+1. Na hipótese de o eg. Tribunal local deixar de examinar questão nevrálgica ao desate do litígio, fica caracterizada a violação ao art. 535 do CPC /73.
+2. Reconhecida a existência de omissão essencial para o deslinde da controvérsia, deve-se determinar o retorno dos autos ao eg. Tribunal de origem para novo julgamento dos embargos de declaração, como entender de direito, sanando os vícios ora reconhecidos.
+3. Acolhida a alegada ofensa ao art. 535 do CPC/73, fica prejudicada a análise das demais teses trazidas no apelo nobre.
+4. Agravo interno provido para reconsiderar a decisão agravada e dar parcial provimento ao recurso especial e, reconhecendo a violação ao art. 535, II, do CPC/73, anular o v. acórdão de fls. 201/203, determinando o retorno dos autos ao eg. Tribunal a quo para promover novo julgamento dos embargos de declaração, como entender de direito.
+(AgInt no AREsp n. 218.092/RJ, relator Ministro Lázaro Guimarães - Desembargador Convocado do TRF da 5ª Região, Quarta Turma, julgado em 2/8/2018, DJe de 8/8/2018.)
+O provimento do recurso especial prejudica as demais matérias nele suscitadas.
+Ante o exposto, conheço do recurso especial e a ele dou provimento para reconhecer o vício de omissão e, assim, anular o acórdão recorrido, determinando o retorno dos autos à origem para novo exame dos embargos de declaração.
+Publique-se. Intimem-se.
+ EMENTA
