@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por LEONARDO ADRIANO PONCIO LEIRIA contra a decisão do Tribunal de Justiça do Rio Grande do Sul que inadmitiu recurso especial apresentado contra o acórdão exarado no julgamento da Apelação Criminal n. 5051987-32.2022.8.21.0010/RS.
+O Ministério Público Federal apresentou parecer opinando pelo não conhecimento do agravo e, no mérito, pelo não provimento (fls. 1.872/1.879).
+É o relatório.
+O agravo é inadmissível.
+Inicialmente, esclareço que a decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos, inclusive de forma específica, suficiente e pormenorizada, não sendo suficientes meras alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência do óbice da Súmula 182/STJ (AgRg nos EDcl no AREsp n. 2.985.942/MA, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 16/9/2025, DJEN de 25/9/2025).
+Ao que se observa, o Tribunal de origem inadmitiu o apelo nobre pelos seguintes fundamentos: 1) incidência da Súmula 283/STF, por fundamento não impugnado - ausência de demonstração de prejuízo (art. 563 do CPP) na preliminar de quebra da cadeia de custódia dos dados extraídos de celulares (fls. 1.764/1.766); e 2) incidência da Súmula 7/STJ, por demandar reexame do conjunto fático-probatório quanto ao pedido de absolvição pelo art. 35 da Lei n. 11.343/2006 (estabilidade e permanência) e à suficiência probatória em geral (fls. 1.766/1.772).
+Todavia, a parte agravante, nas razões do agravo em recurso especial, não impugnou, de maneira específica, a íntegra da decisão de inadmissão.
+Sustenta nulidade por quebra da cadeia de custódia, reproduzindo tese de irregularidades técnicas e citando precedentes, mas não enfrenta o fundamento autônomo do acórdão recorrido referente à falta de demonstração de prejuízo - art. 563 do Código de Processo Penal: Nenhum ato será declarado nulo, se da nulidade não resultar prejuízo para a acusação ou para a defesa - atraindo a Súmula 283/STF: É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles (fls. 1.764/1.766).
+No mais, afirma tratar-se de matéria "exclusivamente de direito" e de "mera revaloração", porém fundamenta a pretensão em alegações de fragilidade da prova, supressão de mensagens, imprecisões e necessidade de aferição da integridade dos vestígios digitais, providências que implicam revolvimento do acervo probatório, incidindo a Súmula 7/STJ: a pretensão de simples reexame de prova não enseja recurso especial (fl. 1.766).
+Por conseguinte, aplica-se, à hipótese dos autos, o art. 932, inciso III, do CPC, c/c o art. 3º do CPP, e a Súmula 182/STJ por analogia.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. OPERAÇÃO ESPLANADA. ÓBICES DAS SÚMULAS 283/STF E 7/STJ. IMPUGNAÇÃO DEFICIENTE DA DECISÃO DE INADMISSÃO NA ORIGEM. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015 E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA 182/STJ.
+Agravo não conhecido.
