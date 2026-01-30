@@ -1,0 +1,4 @@
+Art. 98-A. Devem ser observados os seguintes prazos em relação aos testes formais de homologação de que trata o art. 43-A: (Incluído pela Instrução Normativa BCB nº 679, de 30/10/2025.)
+I - realização com sucesso dos testes entre 10 de novembro de 2025 e 20 de novembro de 2025 para as instituições participantes do Pix; (Incluído pela Instrução Normativa BCB nº 679, de 30/10/2025.)
+II - realização com sucesso dos testes entre 10 de novembro de 2025 e 20 de novembro de 2025 para as instituições em adesão ao Pix que concluam a etapa homologatória antes do final desse período; e (Incluído pela Instrução Normativa BCB nº 679, de 30/10/2025.)
+III - realização com sucesso dos testes durante a etapa homologatória para as instituições em adesão ao Pix que não concluírem essa etapa até 20 de novembro de 2025. (Incluído pela Instrução Normativa BCB nº 679, de 30/10/2025.)
