@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de agravo interposto por EDSON ROBERTO BRUSANTIN contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 206):
+CUMPRIMENTO DE SENTENÇA Ação indenizatória Deferimento de penhora sobre imóvel do executado Alegação de que o imóvel constitui bem de família Situação comprovada nos autos Fato constitutivo de direito Ônus da referida demonstração que compete ao devedor Aplicação do art. 373, do Código de Processo Civil/2015 Precedente do Superior Tribunal de Justiça Insurgência do credor que resultou bem afastada pelo d. juízo a quo Decisão mantida AGRAVO NÃO PROVIDO.
+Rejeitados os embargos de declaração opostos (fls. 228-231).
+No recurso especial, a parte recorrente alega violação dos arts. 489, § 1º, IV, e 1.022, II, do Código de Processo Civil e art. 1º da Lei n. 8.009/1990. Sustenta, em síntese, que o acórdão recorrido incorreu em negativa de prestação jurisdicional ao não se manifestar sobre o argumento de que o imóvel penhorado teria natureza comercial, o que afastaria a proteção da impenhorabilidade conferida ao bem de família (fls. 215-219). Argumenta que, ao reconhecer a impenhorabilidade de imóvel com finalidade comercial, a decisão violou diretamente o disposto no art. 1º da Lei n. 8.009/19 90, que protege exclusivamente o imóvel residencial (fl. 220).
+Foram oferecidas contrarrazões ao recurso especial (fls. 235-248).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 249-252), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 261-273).
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+Com efeito, o Tribunal de origem analisou detidamente o recurso especial interposto, devendo a decisão de admissibilidade ser mantida por seus próprios fundamentos.
+Cuida-se, na origem, de cumprimento de sentença em ação indenizatória, no qual foi determinada a penhora de imóvel de propriedade dos executados, ora agravados. Em primeira instância, o juízo acolheu a alegação de impenhorabilidade do bem de família e determinou o levantamento da constrição, decisão que foi mantida pelo Tribunal de Justiça em sede de agravo de instrumento (fl. 209). O recurso especial interposto pelo credor foi inadmitido na origem com fundamento na ausência de violação ao art. 1.022 do Código de Processo Civil, na incidência da Súmula n. 7/STJ e na ausência de comprovação do dissídio jurisprudencial (fls. 249-251).
+Sem razão o agravante.
+Conforme reiterada jurisprudência desta Corte Superior, "não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional" (AgInt no AREsp n. 1.907.401/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 22/8/2022, DJe de 29/8/2022). O Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, apenas não no sentido pretendido pela parte.
+A exigência do art. 489, § 1º, IV, do CPC é a de que sejam enfrentados os argumentos capazes, em tese, de infirmar a conclusão adotada, o que não se confunde com a obrigação de esgotar todas as alegações que, em última análise, visam apenas a reforçar uma tese fática já rechaçada.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO INDENIZATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE DEMANDADA.
+1. As questões postas em discussão foram dirimidas pelo Tribunal de origem de forma suficiente, fundamentada e sem omissões, devendo ser afastada a alegada violação aos arts. 489 e 1.022 do CPC. Consoante entendimento desta Corte, não importa negativa de prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, decidindo de modo integral a controvérsia posta. Precedentes.
+2. De acordo com a jurisprudência desta Corte Superior, a ação que busca a cobrança da multa devida em razão do não adiantamento do vale-pedágio (art. 8º da Lei 10.209/2001), referente a período anterior à vigência da Lei 14.229/2021, está sujeita ao prazo prescricional decenal previsto no art. 205 do Código Civil. Incidência da Súmula 83 /STJ.
+3. Agravo interno desprovido.
+(AgInt no REsp 2154629 / RS, Rel. Min. MARCO BUZZI, j. 18/8/2025, DJEN 22/8/2025)
+A prestação jurisdicional foi entregue de forma completa e fundamentada, ainda que contrária aos interesses da recorrente. O que se observa não é uma omissão, mas um inconformismo com o mérito da decisão, o que não pode ser sanado pela via estreita dos embargos de declaração e, tampouco, justifica a anulação do julgado por este Superior Tribunal.
+O julgador não está obrigado a rebater, um a um, os argumentos deduzidos pelas partes, desde que a decisão se encontre devidamente fundamentada e resolva a controvérsia de modo integral.
+Assim, não há que se falar em violação dos arts. 489, § 1º, IV, e 1.022, II, do Código de Processo Civil. O acórdão recorrido, ao entender pela caracterização do bem como de família, enfrentou a controvérsia de maneira fundamentada, ainda que de forma contrária aos interesses do recorrente, o que não configura omissão ou negativa de prestação jurisdicional. Apenas se constata o inconformismo da parte com o resultado que lhe foi desfavorável.
+Quanto à alegada violação ao art. 1º da Lei n. 8.009/90, a Corte de origem, soberana na análise do acervo fático-probatório, concluiu que o imóvel em questão se enquadrava no conceito de bem de família. Para tanto, considerou os elementos apresentados nos autos, como a certidão que atestava ser o único imóvel de propriedade do devedor e a inércia do credor em se manifestar sobre a impugnação à penhora na instância ordinária. A pretensão do recorrente de afastar essa conclusão, sob o argumento de que se trata de imóvel comercial, demandaria, inevitavelmente, o reexame de fatos e provas para se aferir a real destinação e utilização do bem, o que é vedado na via estreita do recurso especial, a teor do que dispõe a Súmula n. 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. ILEGITIMIDADE. BEM DE FAMÍLIA. IMPENHORABILIDADE. REVISÃO. SÚMULAS 5 E 7/STJ.
+Inviável alterar o entendimento a que chegou o Tribunal de origem acerca da ilegitimidade para embargar como terceiro e à impenhorabilidade do bem de família, sem que se analise cláusulas contratuais e elementos fático-probatórios, fatos e provas.
+Agravo interno improvido.
+(AgInt no AREsp n. 2.152.819/SC, minha relatoria, Terceira Turma, julgado em 3/11/2025, DJEN de 6/11/2025.)
+Ante o expos to, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários advocatícios por tratar-se, na origem, de recurso interposto contra decisão interlocutória, na qual não houve prévia fixação de honorários.
+Publique-se. Intimem-se.
+EMENTA
