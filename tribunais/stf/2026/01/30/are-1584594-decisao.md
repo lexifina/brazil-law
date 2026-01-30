@@ -1,0 +1,65 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSO PENAL. BUSCA PESSOAL. AUSÊNCIA DE FUNDADA SUSPEITA. ILICITUDE DA PROVA RECONHECIDA PELO TRIBUNAL DE JUSTIÇA. PRETENSÃO DE REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 279/STF. OFENSA REFLEXA À CONSTITUIÇÃO. NEGATIVA DE SEGUIMENTO.
+
+1. Trata-se de recurso extraordinário interposto pelo Ministério Público do Estado do Rio  Grande do Sul contra acórdão do Tribunal de Justiça, proferido julgamento de apelação da defesa, pelo qual foi reconhecida a nulidade da busca pessoal realizadas por policiais militares. Eis a ementa do julgado:
+
+“DIREITO PENAL. APELAÇÃO CRIMINAL. TRÁFICO DE DROGAS. NULIDADE DA PROVA. BUSCA PESSOAL ILEGAL. AUSÊNCIA DE FUNDADA SUSPEITA. ABSOLVIÇÃO. I. Caso em exame 1. A decisão anterior. Ação penal julgada parcialmente procedente condenar o réu como incurso nas sanções do artigo 33, caput, da Lei nº 11.343/06, às penas de 06 (seis) anos e 03 (três) meses de reclusão, em regime inicial semiaberto e multa. 2. O recurso. Recurso de apelação interposto pela defesa do acusado alegando, preliminarmente, a inépcia da denúncia e a nulidade da busca pessoal. No mérito, sustentou a absolvição em razão da insuficiência probatória. Subsidiariamente, requereu o redimensionamento da pena-base para o mínimo legal, a fixação do regime inicial aberto e a isenção da pena de multa. Por fim, prequestionou a matéria. II. Questão em discussão 3. As questões em discussão consistem em analisar: (i) se a denúncia é inepta; (ii) se há nulidade por ausência de fundada suspeita; (iii) saber se o conjunto probatório é suficiente para a condenação pelo crime de tráfico de drogas; (iv) saber se é possível reduzir o apenamento aplicado; (v) analisar a possibilidade de fixação do regime aberto para o início do cumprimento de pena e (vi) saber se é possível isenção da pena de multa III. Razões de decidir 4. A utilização de imagens na peça acusatória não configura violação à dignidade da pessoa humana, tampouco fere os direitos fundamentais do acusado. Dessa forma, rejeitado o pleito de reconhecimento da inépcia da denúncia por utilização de fotografia do acusado. 5. A realização de revista pessoal, consoante o artigo 244 do CPP, prescinde de justa causa concreta, definida como situação anterior que configure flagrante delito ou motivadas razões suficientes que permitam a ação policial. 6. Dos elementos colhidos durante a instrução, verifica-se que os policiais militares realizavam patrulhamento de rotina em local conhecido como ponto de tráfico de drogas. Ao avistarem o acusado acompanhado de outro indivíduo, procederam à abordagem. Ou seja, a partir do depoimento dos policiais, não é possível extrair sequer qual teria sido a atitude anterior que justificasse a abordagem e a consequente revista ao apelante. Embora, na fase administrativa, os policiais tenham informado ter presenciado a troca de objetos entre o acusado e o suposto usuário, tal atitude suspeita não foi confirmada em juízo. A partir disso, cumpre alegar que é preciso que haja a produção probatória por parte do órgão acusador, sendo que tais provas devem, ainda, respeitar o crivo do contraditório e ampla defesa, isto é, se não forem provas irrepetíveis, devem ser produzidas perante o Juízo de origem, em sede de instrução e julgamento. 7. Reconhecida a ilegalidade na busca pessoal realizada, inviável a manutenção da condenação imposta na origem, tendo em vista a ilicitude da prova que, em sua totalidade, decorreu da abordagem policial. Impõe-se a absolvição do acusada por insuficiência probatória, fulcro no artigo 386, inciso VII, do Código de Processo Penal. 8. Prequestionamento dos dispositivos legais mencionados resta atendido nos fundamentos do julgado, dispensando manifestação expressa acerca de cada artigo apontado. IV. Dispositivo e tese 9. Recurso defensivo parcialmente provido, por maioria. Tese de julgamento: "1. A presença da fotografia do acusado na peça acusatória não configura violação a direito fundamental, nem constrangimento ilegal, pois somente complementa e melhor identifica os acusados. " "2. A busca pessoal baseada apenas em menção genérica à atitude suspeita é ilegal e contamina as provas dela derivadas."” (e-doc. 98, p. 8-9)
+
+2. Os embargos de declaração opostos pelo Ministério Público foram rejeitados (e-doc. 101).
+
+3. Nas razões do recurso extraordinário (e-doc. 103), o recorrente sustenta que havia fundada suspeita concreta da posse de objeto constitutivo de corpo de delito em poder do acusado, consistente na abordagem realizada em local conhecido como ponto de tráfico, associada a comportamentos suspeitos previamente observados pelos policiais. Afirma que a declaração de ilicitude da busca pessoal conferiu interpretação excessiva ao art. 5º, X, da Constituição Federal, esvaziando a atuação legítima das forças de segurança pública.
+
+3.1. Alega, ainda, que o acórdão recorrido viola o art. 144, §5º, da Constituição, ao restringir indevidamente o exercício do policiamento ostensivo e da preservação da ordem pública pelas Polícias Militares, criando exigência de certeza absoluta para abordagem, em afronta à jurisprudência do STF que admite a busca pessoal fundada em elementos objetivos de suspeita.
+
+4. O recurso teve seguimento negado (e-doc. 106), ao fundamento de ausência de prequestionamento dos dispositivos constitucionais invocados, incidindo as Súmulas 282 e 356 do STF.
+
+5. No presente agravo, o agravante insiste ter havido debate prévio sobre a matéria constitucional deduzida.
+
+É o relatório.
+
+Decido.
+
+6. O recurso não merece prosperar.
+
+7. Nos termos dos arts. 240, § 2º e 244 do CPP, cabe a busca pessoal, independente de autorização judicial, quando houver fundada suspeita de ocultação pelo indivíduo de elementos de convicção. O Supremo Tribunal Federal sedimentou entendimento de que a medida é lícita, na hipótese de flagrante delito, conquanto justificadas a posteriori as fundadas razões que levaram à sua realização. Recentemente, no julgamento do HC nº 208.240, de relatoria do eminente Ministro Edson Fachin, assentou-se a seguinte tese:
+
+A busca pessoal independente de mandado judicial deve estar fundada em elementos indiciários objetivos de que a pessoa esteja na posse de arma proibida ou de objetos ou papéis que constituam corpo de delito, não sendo lícita a realização da medida com base na raça, sexo, orientação sexual, cor da pele ou aparência física. - (grifos acrescidos)
+
+8. O que não se admite, portanto, é a atuação policial aleatória ou abusiva, baseada em mera intuição, convicção íntima ou que se exprima pelo emprego vazio da só locução “atitude suspeita”.
+
+9. No caso dos autos, o Tribunal de Justiça, a partir do quadro fático delimitado pelas instâncias ordinárias, concluiu pela inexistência de justa causa para a realização da busca pessoal. Assentou que, em juízo, não se produziu qualquer elemento que justificasse a abordagem policial. Não houve, segundo consignado, relato de dado concreto que pudesse configurar fundada suspeita. Esse contexto foi assim sintetizado no acórdão do TJSP:
+
+“Pois bem. Dos elementos colhidos durante a instrução, verifica-se que os policiais militares realizavam patrulhamento de rotina em local conhecido como ponto de tráfico de drogas. Ao avistarem o acusado acompanhado de outro indivíduo, procederam à abordagem. Ou seja, a partir do depoimento dos policiais, não é possível extrair sequer qual teria sido a atitude anterior que justificasse a abordagem e a consequente revista ao apelante.
+(...)
+É cediço que, para a realização de revista pessoal, deve haver justa causa concreta, definida esta como situação anterior que configure flagrante delito ou motivadas razões suficientes que permitam a ação policial, o que não estava presente no caso concreto. O mero encontro posterior de objetos ilícitos não justifica a medida, porque a fundada suspeita era de ser tida precisamente antes da diligência.
+O atual paradigma das Cortes Superiores é no sentido de que deve haver justa causa concreta, definida esta como situação anterior que configure flagrante delito ou motivadas razões suficientes que permitissem aos agentes a revista pessoal, o que não estava presente no caso concreto.
+(...)
+Assim, uma vez que o contexto fático não indica a existência de fundada suspeita anterior de que o réu estivesse praticando qualquer delito no momento anterior de sua abordagem, resta caracterizada a ilegalidade da busca pessoal realizada. Destaco novamente que os policias militares não declararam em juízo qualquer atitude suspeita que justificasse a abordagem.
+Reconhecida a ilegalidade na busca pessoal realizada, inviável a manutenção da condenação imposta na origem, tendo em vista a ilicitude da prova que, em sua totalidade, decorreu da abordagem policial 4 .
+” (e-doc. 45, p. 7 e 8; grifos nossos)
+
+10. Diante disso, e segundo o conjunto fático-probatório demarcado pelo acórdão recorrido, tem-se a consonância com o entendimento deste Supremo Tribunal Federal, uma vez que não foi reconhecido nenhum elemento suficientemente específico e objetivo que integrasse a atitude suspeita ou a fundada razão para a abordagem. Nesse sentido:
+
+“EMENTA AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. BUSCA PESSOAL. AUSÊNCIA DE JUSTA CAUSA. ILICITUDE. ACÓRDÃO EM CONFORMIDADE COM O ENTENDIMENTO DO SUPREMO. 1. É lícita a busca pessoal em caso de fundada suspeita de que o investigado esteja em posse de elementos que constituam corpo de delito. 2. Uma vez não configurada justa causa, revelada a partir do contexto fático delineado pelo acórdão do Colegiado de origem, o reconhecimento da ilicitude da busca pessoal está em conformidade com o entendimento do Supremo. Precedentes. 3. Agravo interno desprovido.”
+(ARE nº 1.501.370-AgR, Rel. Min. Nunes Marques,  Segunda Turma, j. 06/11/2024, p. 28/11/2024; grifos nossos)
+
+11.  Desse modo, para divergir da análise empreendida, acolhendo a tese de que teria havido fundada suspeita a autorizar a medida, seria necessário não apenas reexaminar os elementos fático-probatórios constantes dos autos — providência vedada pela Súmula 279 do STF (“Para simples reexame de prova não cabe recurso extraordinário”) —, como também proceder a uma nova interpretação da legislação infraconstitucional aplicável (arts. 240 e 244 do CPP). Ambas as operações se mostram inviáveis na via extraordinária, em que se exige violação direta à Constituição. Cito outros precedentes:
+
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. MATÉRIA CRIMINAL. TRÁFICO DE DROGAS. BUSCA PESSOAL E PRISÃO EM FLAGRANTE. ABSOLVIÇÃO PELA AUSÊNCIA DE FUNDADAS SUSPEITAS. REEXAME DE FATOS E PROVAS. SÚMULA 279 DO STF. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA À CONSTITUIÇÃO FEDERAL. AGRAVO REGIMENTAL DESPROVIDO. 1. Para se chegar a conclusão diversa daquela adotada pelo Superior Tribunal de Justiça, notadamente em relação à existência, ou não, de fundadas suspeitas para legitimar a busca pessoal e a prisão em flagrante, seria necessário o reexame de fatos e provas e da legislação infraconstitucional aplicável à espécie, o que inviabiliza o processamento do apelo extremo, nos termos da cristalizada jurisprudência desta Corte Suprema. Precedentes. 2. Agravo regimental desprovido.
+(ARE nº 1.475.053-AgR, Rel. Min. Edson Fachin, Segunda Turma, j. 18/03/2024, p. 09/05/2024; grifos nossos)
+
+Direito penal e Processual Penal. Agravo regimental em recurso extraordinário com agravo. Tráfico de drogas. Busca pessoal. Fundada suspeita. Súmula 279/STF. 1. Agravo regimental contra decisão que negou seguimento a recurso extraordinário com agravo, o qual tem por objeto acórdão que manteve a improcedência da ação. 2. Hipótese em que, para dissentir do entendimento firmado pelas instâncias de origem, seria necessário analisar a legislação infraconstitucional aplicada ao caso, assim como reexaminar fatos e provas constantes dos autos, procedimentos vedados neste momento processual (Súmulas 279 /STF). 3. Agravo regimental a que se nega provimento.
+(ARE nº 1.470.302-AgR, Rel. Min. Luís Roberto Barroso, j. 21/02/2024, p. 18/03/2024).
+
+Agravo regimental em recurso extraordinário com agravo. Matéria criminal. Tráfico de drogas. Tema nº 280/RG. Busca pessoal. Inviolabilidade da intimidade. A Corte estadual afirmou que a busca pessoal foi efetuada sem a existência de fundadas suspeitas. Soberania na análise da matéria. Reapreciação de fatos e provas. Inadmissibilidade. Incidência da Súmula nº 279/STF. Precedentes. Agravo regimental não provido. 1. Conclusão em sentido diverso daquele do acórdão recorrido demandaria, na espécie, o reexame aprofundado do conjunto fático-probatório dos autos, o qual é inviável na via eleita, segundo o enunciado da Súmula nº 279/STF. 2. Agravo regimental ao qual se nega provimento.
+(ARE 1.460.775-AgR, Rel. Min. Dias Toffoli, j. 19/12/2023, p. 07/03/2024).
+
+12. Ante o exposto, nego seguimento ao recurso, nos termos do art. 21, § 1º, do RISTF.
+
+Publique-se.
+
+Brasília, 30 de janeiro de 2026.
+
+Ministro ANDRÉ MENDONÇA
+Relator
