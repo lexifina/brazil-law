@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de Recurso Especial interposto por MARINEZ APARECIDA SILVEIRA BUENO, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim ementado (e-STJ, fls. 51):
+AGRAVO DE INSTRUMENTO. DIREITO PRIVADO NÃO ESPECIFICADO. CUMPRIMENTO DE SENTENÇA. PENHORA NO ROSTO DOS AUTOS. AÇÃO INDENIZATÓRIA. AUXÍLIO DOENÇA. POSSIBILIDADE. IMPENHORABILIDADE AFASTADA. PERDA DO CARÁTER ALIMENTAR. VERBA INDENIZATÓRIA. AFASTADA A PROTEÇÃO DO ARTIGO 833, INCISO IV, DO CÓDIGO DE PROCESSO CIVIL. DECISÃO MANTIDA. AGRAVO DE INSTRUMENTO DESPROVIDO.
+Nas razões do Recurso Especial (e-STJ Fls. 58-69), a parte recorrente alega, em síntese, que o acórdão recorrido violou os arts. 832 e 833, IV, do Código de Processo Civil (CPC).
+Quanto à suposta ofensa ao art. 833, IV, do CPC, sustenta que os valores penhorados são oriundos de benefício previdenciário (auxílio-doença) perseguido nos autos nº 5000004-73.2013.8.21.0021, possuindo natureza estritamente alimentar. Argumenta que o fato de o pagamento ocorrer de forma acumulada e retroativa não retira o caráter alimentar da verba, nem a transforma em indenizatória, mantendo-se a proteção da impenhorabilidade.
+Aponta divergência jurisprudencial, colacionando julgados do TRF4 e do TJSP que reconhecem a manutenção da natureza alimentar de benefícios previdenciários pagos com atraso.
+Contrarrazões ao recurso especial foram apresentadas às fls. 113-122 (e-STJ), nas quais o recorrido defende a manutenção do julgado, alegando que verbas pretéritas assumem caráter indenizatório e que a análise demandaria reexame fático (Súmula n. 7/STJ).
+O recurso especial foi admitido na origem pela 3ª Vice-Presidência do TJRS (e-STJ Fls. 125-128), sob o fundamento de que a tese recursal encontra amparo na jurisprudência do STJ, citando como paradigma o AgInt no REsp 1.828.770/RS.
+É o relatório.
+DECIDO.
+O recurso especial é tempestivo e cabível, pois interposto em face de decisão que negou provimento ao recurso de apelação interposto na origem (art. 105, III, "a" e "c", da Constituição Federal).
+Não incidem, no caso, os óbices das Súmulas n. 7 e 83 do STJ. A controvérsia não exige reexame de provas, pois é fato incontroverso nos autos que a penhora recaiu sobre créditos provenientes de ação previdenciária (auxílio-doença) pagos acumuladamente.
+A discussão limita-se à qualificação jurídica desses valores (se perdem ou não a natureza alimentar pelo decurso do tempo), o que constitui matéria de direito. Ademais, a Súmula n. 83/STJ não se aplica, visto que o acórdão recorrido está em dissonância com a orientação desta Corte Superior.
+A controvérsia cinge-se a definir se valores decorrentes de benefício previdenciário (auxílio-doença), recebidos de forma acumulada em virtude de decisão judicial, perdem o caráter alimentar, tornando-se penhoráveis.
+O Tribunal de origem entendeu que "os referidos valores decorrem de parcelas pretéritas, perdendo a sua natureza alimentar e passando a deter caráter indenizatório" (e-STJ Fl. 60).
+A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que a natureza alimentar do crédito não se altera pelo mero decurso do tempo ou pelo fato de o pagamento ser realizado de forma acumulada.
+O art. 833, IV, do CPC é claro ao dispor que são impenhoráveis "os vencimentos, os subsídios, os soldos, os salários, as remunerações, os proventos de aposentadoria, as pensões, os pecúlios e os montepios". A ratio legis visa garantir o mínimo existencial e a dignidade do devedor.
+Se o segurado foi privado do recebimento do benefício na época devida, obrigando-se a buscar a tutela jurisdicional, não é razoável penalizá-lo novamente com a perda da proteção legal sobre esses valores quando finalmente os recebe.
+Nesse sentido, destaco precedente desta Corte:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PENHORA DE VALORES PROVENIENTES DE BENEFÍCIO PREVIDENCIÁRIO. VERBAS PRETÉRITAS. NATUREZA ALIMENTAR QUE NÃO SE ALTERA COM O DECURSO DO TEMPO. DISSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. 1. Execução de título extrajudicial. 2. Nos termos da jurisprudência do STJ, a natureza do crédito alimentar não se altera com o mero decurso do tempo. Precedentes. 3. Recurso especial conhecido e provido. (REsp n. 2.231.927/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 27/10/2025, DJEN de 30/10/2025.) grifo inserido
+No caso concreto, a penhora recaiu sobre verbas de auxílio-doença, benefício previdenciário substitutivo da renda do trabalhador incapacitado, cuja natureza é eminentemente alimentar. A transformação dessa natureza em "indenizatória" pela Corte local viola o art. 833, IV, do CPC.
+Vale ressaltar que a relativização da impenhorabilidade (mitigação) tem sido admitida pelo STJ em situações excepcionais, desde que preservada a subsistência digna do devedor e de sua família.
+Todavia, o acórdão recorrido não realizou essa ponderação concreta com base em sobras ou montantes vultosos que excedessem a necessidade de sustento; ao contrário, fundou-se na premissa equivocada de mutação da natureza jurídica da verba.
+Sendo verba alimentar, a regra é a impenhorabilidade, cabendo ao credor demonstrar a exceção, o que não se verifica fundamentado no acórdão sob a ótica da preservação do mínimo existencial, mas sim sob a ótica da perda do atributo alimentar.
+Portanto, deve ser restabelecida a proteção legal sobre os valores constritos.
+Ante o exposto, conheço do recurso especial e dou-lhe provimento para reformar o acórdão recorrido e declarar a impenhorabilidade dos valores provenientes do benefício previdenciário (auxílio-doença) penhorados no rosto dos autos do processo nº 5000004-73.2013.8.21.0021, determinando o levantamento da constrição.
+Inverto os ônus sucumbenciais fixados na origem, se houver, observada a gratuidade de justiça deferida à recorrente.
+É o voto.
+EMENTA
