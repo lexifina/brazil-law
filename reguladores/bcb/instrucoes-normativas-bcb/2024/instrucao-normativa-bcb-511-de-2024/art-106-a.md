@@ -1,0 +1,8 @@
+Art. 106-A. Cabe recurso em face das decisões emanadas no âmbito dos processos: (Incluído, a partir de 1º/1/2025, pela Instrução Normativa BCB nº 581, de 30/12/2024.)
+I - de adesão ao Pix; (Incluído, a partir de 1º/1/2025, pela Instrução Normativa BCB nº 581, de 30/12/2024.)
+II - de alteração na modalidade de participação no Pix; (Incluído, a partir de 1º/1/2025, pela Instrução Normativa BCB nº 581, de 30/12/2024.)
+III - de alteração na forma de acesso ao DICT e de participação no SPI; (Incluído, a partir de 1º/1/2025, pela Instrução Normativa BCB nº 581, de 30/12/2024.)
+IV - de alteração de participante responsável e de participante liquidante; e (Incluído, a partir de 1º/1/2025, pela Instrução Normativa BCB nº 581, de 30/12/2024.)
+V - de alteração na oferta de produtos e de serviços facultativos. (Incluído, a partir de 1º/1/2025, pela Instrução Normativa BCB nº 581, de 30/12/2024.)
+§ 1º O recurso de que trata o caput deve ser apresentado impreterivelmente em até 15 dias, contados a partir do dia seguinte ao comunicado da decisão a que se destina. (Incluído, a partir de 1º/1/2025, pela Instrução Normativa BCB nº 581, de 30/12/2024.)
+§ 2º O recurso apresentado intempestivamente será considerado nulo e não será apreciado. (Incluído, a partir de 1º/1/2025, pela Instrução Normativa BCB nº 581, de 30/12/2024.)

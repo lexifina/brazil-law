@@ -1,0 +1,5 @@
+Art. 43-A. Devem ser aprovadas nos testes da mensageria relativa ao envio de transações Pix liquidadas nos sistemas dos próprios participantes as instituições pleiteantes a serem participantes na modalidade provedor de conta transacional e com participação no SPI: (Incluído pela Instrução Normativa BCB nº 679, de 30/10/2025.)
+I - direta; e (Incluído pela Instrução Normativa BCB nº 679, de 30/10/2025.)
+II - indireta. (Incluído pela Instrução Normativa BCB nº 679, de 30/10/2025.)
+§ 1º Fica dispensada da realização dos testes de que trata o caput a instituição cooperativa singular de crédito filiada a uma cooperativa central de crédito que tenha essa central como seu liquidante no SPI. (Incluído pela Instrução Normativa BCB nº 679, de 30/10/2025.)
+§ 2º As instituições com participação indireta no SPI deverão organizar a realização do teste junto ao seu participante liquidante. (Incluído pela Instrução Normativa BCB nº 679, de 30/10/2025.)
