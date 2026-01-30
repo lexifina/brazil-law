@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo interno interposto por BOA VISTA SERVIÇOS S.A. contra decisão monocrática proferida por esta relatoria, que deu provimento ao recurso especial interposto por RICARDO MATEUS PEGORARO.
+Em suas razões recursais, a parte agravante alega que "é absolutamente lícito o tratamento de dados pessoais e não sensíveis do consumidor sem o seu prévio consentimento. Contrariamente ao que decidiu a r. decisão agravada, trata-se de interpretação lógica e sistemática da LGPD, que não apenas permite esse tratamento, como também defende a sua possibilidade em observância a preceitos e princípios norteadores do ordenamento jurídico brasileiro."
+Ao final, "confia a agravante em que V. Exa. reconsiderará a r. decisão monocrática, como autoriza o art. 1.021, § 2º, do Código de Processo Civil ou, caso assim não se entenda, seja reformada a r. decisão agravada, que deu provimento ao recurso especial interposto pelo ora agravado, mantendo-se intacto o v. acórdão recorrido."
+Impugnação às fls. 536-545, e-STJ.
+É o relatório. Decido.
+A questão de direito objeto do recurso especial foi afetada à Segunda Seção para julgamento sob o rito dos recursos repetitivos, nos termos dos artigos 1.036 e 1.037 do CPC, conforme o Tema nº 1.404, nos termos da seguinte ementa:
+PROPOSTA DE AFETAÇÃO. RECURSO ESPECIAL. PROCESSUAL CIVIL. DEFINIÇÃO SOB O RITO DOS RECURSOS ESPECIAIS REPETITIVOS. VIABILIDADE DA FIXAÇÃO DE TESE CONCENTRADA E DE EFEITOS VINCULANTES.
+1. Delimitação da controvérsia: Para os efeitos dos arts. 927 e 1.036 do CPC, propõe-se a afetação do seguinte tema repetitivo:
+"Definir se: (i) é lícita a disponibilização ou comercialização a terceiros de dados pessoais não sensíveis, por gestor de banco de dados de entidades de proteção ao crédito, sem prévia comunicação ou consentimento do cadastrado; (ii) há configuração de dano moral in re ipsa na hipótese de ilicitude da conduta."
+2. RECURSO ESPECIAL AFETADO AO RITO DO ART. 1.036 DO CPC/2015 (REsp nº 2.226.946/SP e o REsp nº 2.226.097/SP).
+(ProAfR no REsp n. 2.226.097/SP, relator Ministro Raul Araújo, Segunda Seção, julgado em 16/12/2025, DJEN de 23/12/2025.)
+Nesse contexto, em observância à economia processual e ao art. 256-L do RISTJ, os recursos que tratam da mesma controvérsia no STJ devem aguardar, no Tribunal de origem, a solução do questão, viabilizando, assim, o juízo de conformação, atualmente disciplinado pelos arts. 1.039 e 1.040 do CPC/2015.
+Cumpre destacar que, em conformidade com o art. 1.041, § 2º, do CPC/2015, apenas após essas providências é que o recurso especial, se for o caso, deverá ser reencaminhado a este Tribunal Superior, independentemente de ratificação, para análise das demais questões jurídicas nele suscitadas que eventualmente não fiquem prejudicadas pela conformidade do acórdão recorrido com a decisão sobre o tema repetitivo ou pelo novo pronunciamento do Tribunal de origem.
+Diante do exposto, em reconsideração, determino a remessa dos autos ao Tribunal de origem, com a respectiva baixa, a fim de que, nos termos dos arts. 1.039 e 1.040 do CPC/2015, após o julgamento do tema de recurso repetitivo: i) negue-se seguimento ao recurso especial no caso de o acórdão recorrido coincidir com a tese firmada sobre o aludido tema; ou ii) proceda-se a novo exame da matéria, no órgão prolator da decisão vergastada, na hipótese desta última divergir da referida tese.
+Publique-se.
+EMENTA
