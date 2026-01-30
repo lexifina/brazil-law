@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial interposto por ESPÓLIO DE JULIA MURAKAMI E TAKASHI MURAKAMI, fundado no art. 105, III, "a" e "c", da Constituição Federal, contra v. acórdão do Tribunal de Justiça do Estado do Paraná, assim ementado (fls. 1091):
+"APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE IMPENHORABILIDADE DE IMÓVEL RURAL. ALEGAÇÃO DE IMPENHORABILIDADE. PEQUENA PROPRIEDADE RURAL. TRÊS IMÓVEIS CONTÍGUOS. PROTEÇÃO ATÉ O LIMITE DE 4 (QUATRO) MÓDULOS RURAIS. ÁREA QUE NÃO ULTRAPASSA TAL LIMITE. EXISTÊNCIA DE PROVAS DE QUE OS IMÓVEIS SÃO TRABALHADOS PELA PARTE DEVEDORA E SUA FAMÍLIA. PRECEDENTES DO STJ E DESTA CORTE. IMPENHORABILIDADE RECONHECIDA. SENTENÇA REFORMADA. RECURSO CONHECIDO E PROVIDO."
+Os embargos de declaração foram acolhidos.
+Em suas razões recursais, as agravantes alegam violação aos arts.: art. 292, § 3º, do Código de Processo Civil (fls. 1207-1211).
+Sustenta que:
+i) Houve fixação indevida do valor da causa da ação declaratória de impenhorabilidade, pois há que corresponder ao conteúdo patrimonial efetivamente discutido  o valor dos imóveis protegidos  e não ao montante da execução de título extrajudicial (fls. 1207-1210).
+ii) Há interpretação divergente fixada pelo Superior Tribunal de Justiça quanto ao critério do valor da causa em demandas que visam afastar constrição, firmando que o conteúdo econômico corresponderia ao valor do bem penhorado, de modo que o acórdão recorrido diverge desse entendimento (fls. 1211-1216).
+Contrarrazões às fls. 1256-1264.
+O recurso especial foi inadmitido na origem, dando ensejo à interposição do presente agravo.
+É o relatório. Passo a fundamentar e decidir.
+O recurso não merece provimento.
+No caso em epígrafe, não houve violação ao artigo 292, §3º, do Código de Processo Civil, uma vez que o Tribunal de origem, ao analisar o acervo fático-probatório e a natureza das pretensões almejadas no processo, no julgamento dos embargos de declaração, entendeu que o valor da causa deveria ser readequado para o valor da dívida perseguida no processo de execução que originou toda a discussão e no qual os proprietários dos imóveis são devedores, senão vejamos (fls. 1143-1144):
+"Com o provimento do recurso para reconhecer a impenhorabilidade da pequena propriedade rural e, consequentemente, julgar procedentes os pedidos iniciais da ação, deve haver a inversão do ônus da sucumbência.
+O acórdão embargado, contudo, foi omisso em relação a isso e, portanto, a ele deve ser acrescentada tal inversão.
+Além disso, deve-se observar o disposto no art. 292, § 3º, do CPC, que possibilita a correção do valor da causa, de ofício, quando verificado que o valor unilateralmente atribuído pela parte autora não corresponde ao conteúdo patrimonial em discussão.
+Veja-se que a ação declaratória de impenhorabilidade dos imóveis de matrículas nº 348 e nº 815 foi ajuizada em razão de, nos autos de apelação nº 0061796- 65.2019.8.16.0014, ter sido confirmada a impenhorabilidade do bem de matrícula nº 22.262, declarada nos autos de embargos à execução opostos em face da execução de título extrajudicial nº 0084530- 44.2018.8.16.0014.
+Após a oposição dos embargos à execução, a instituição financeira indicou à penhora os dois imóveis, o que impediu que fossem pleiteadas novas impenhorabilidades e ensejou o ajuizamento da ação que resultou no acórdão recorrido.
+Assim, embora o valor dado à causa seja de R$ 500.000,00 (quinhentos mil reais), o que corresponderia ao valor dos dois imóveis rurais objetos de pedido de impenhorabilidade (matrículas nº 348 e nº 815), conforme exposto na petição inicial de mov. 1.1 dos autos nº 0043271-98.2020.8.16.0014, em verdade, o valor da causa deve ser readequado para o valor da dívida perseguida no processo de execução que originou toda a discussão e no qual os proprietários dos imóveis são devedores.
+Na execução de título extrajudicial nº 0084530-44.2018.8.16.0014 ajuizada em face dos devedores (autores da ação declaratória de impenhorabilidade dos imóveis de matrículas nº 348 e nº 815), o valor da causa foi de R$158.522,93, correspondente ao valor do débito, ou seja, ao conteúdo patrimonial discutido (mov. 1.1 dos autos nº 0084530- 44.2018.8.16.0014)."
+Sobre o tema, o Superior Tribunal de Justiça possui entendimento no sentido de que o proveito econômico, parâmetro da fixação do valor da causa nos casos de defesas atípicas à execução de título executivo extrajudicial, como na espécie, deve levar em conta o potencial que a ação ajuizada ou o expediente utilizado possui na esfera patrimonial das partes. Nesse sentido:
+"PROCESSUAL CIVIL. RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. EMBARGOS À EXECUÇÃO FISCAL. REDIRECIONAMENTO. SÓCIO-GERENTE. HONORÁRIOS ADVOCATÍCIOS. PROVEITO ECONÔMICO.
+1. A controvérsia diz respeito à identificação de qual seria o proveito econômico a ser considerado na fixação dos honorários advocatícios pelo acolhimento dos embargos do devedor.
+2. Os honorários advocatícios, por expressa disposição legal, devem ser fixados com base no proveito econômico obtido, na forma do § 2º do art. 85 do CPC/2015. Esse regramento torna evidente que a sucumbência é o parâmetro fundamental para a definição da verba advocatícia.
+3. Deve-se ter em conta, como proveito econômico, o potencial que a ação ajuizada ou o expediente utilizado possui na esfera patrimonial das partes, pois, no caso dos autos, se fosse permitido o curso do executivo fiscal, os bens do embargante estariam sujeitos à constrição até o limite da dívida excutida, e não unicamente ao montante em que efetivada a penhora.
+4. Recurso especial a que se nega provimento."
+(REsp 1.671.930/SC, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 27/06/2017, DJe de 30/06/2017, grifou-se)
+Percebe-se assim, que o entendimento do Tribunal de origem está em consonância com a orientação jurisprudencial firmada por esta Colenda Corte, atraindo assim a incidência da Súmula 83/STJ.
+Além di sso, é evidente que a controvérsia foi solvida sob premissas fáticas, revelando a inadmissibilidade do reclamo, porquanto, para se suplantar a conclusão a que chegou a Corte de origem, seria necessário revisitar o substrato fático-probatório da causa, providência vedada a este Tribunal, na via eleita pelo recorrente, nos exatos termos da Súmula 7 do STJ.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Por fim, destaco que "a incidência de óbices sumulares processuais inviabiliza o recurso especial também pela alínea "c" do inciso III do art. 105 da Constituição Federal", ficando, portanto, prejudicado o exame da divergência jurisprudencial (AgInt no REsp n. 1.900.682/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 29/3/2021, DJe de 6/4/2021). No mesmo sentido:
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. NULIDADE DE AVALIAÇÃO E IMPENHORABILIDADE DE BEM DE FAMÍLIA. PRECLUSÃO. MATÉRIAS JÁ DECIDIDAS ANTERIORMENTE. DECISÃO MANTIDA.
+1. Deve ser reconhecida a preclusão a respeito da tese de nulidade do laudo de avaliação quando a parte, intimada da decisão, opta por não interpor o recurso cabível.
+2. A falta de impugnação do recorrente ao único fundamento adotado pelo acórdão recorrido enseja o não conhecimento do recurso, nos termos da Súmula 284 do STF, por analogia.
+3. Nos termos da jurisprudência do STJ, as matérias já decididas anteriormente no processo estão sujeitas à preclusão, ainda que sejam de ordem pública.
+4. No caso, alterar a conclusão do Tribunal de origem sobre o preenchimento dos requisitos para caracterização do imóvel como bem de família exigiria o reexame de fatos e provas, providência vedada pela Súmula 7 do STJ.
+5. A incidência de óbices sumulares processuais inviabiliza o recurso especial também pela alínea "c" do inciso III do art. 105 da Constituição Federal.
+6. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 2.862.189/GO, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 27/10/2025, DJEN de 3/11/2025, g.n.)
+"PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL COM MEDIDA INFERIOR À ACORDADA. VENDA AD MENSURAM. HIPÓTESE QUE CONTA COM REGRAMENTO DECADENCIAL IDENTIFICADO NO ACÓRDÃO RECORRIDO. FUNDAMENTO NÃO IMPUGANADO. RAZÕES DE RECORRER DISSOCIADAS. SÚMULA 284/STF. INCIDÊNCIA. APLICAÇÃO DO ART. 501 DO CC. INTERPRETAÇÃO CONFORME O ENTENDIMENTO DESTA CORTE. SÚMULA 83/STJ. APLICAÇÃO. DISSÍDIO JURISPRUDENCIAL. ALEGAÇÃO. PREJUÍZO.
+(..)
+2. A impossibilidade de compreensão da argumentação oferecida pela recorrente atrai o óbice da Súmula n. 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+(..)
+4. Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida. Incidência da Súmula n. 83 do STJ.
+5. O dissídio não pode ser conhecido, seja pela deficiência do cotejo analítico apresentado, seja porque os mesmos óbices impostos à admissão do recurso pela alínea "a" do art. 105 da CF impedem a análise recursal pela alínea "c" do mesmo dispositivo constitucional, ficando prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica.
+Agravo interno improvido."
+(AgInt no AREsp n. 2.831.183/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 16/6/2025, DJEN de 23/6/2025, g.n.)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Se houver nos autos a prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor das partes recorrentes, no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2.º e 3.º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+EMENTA
