@@ -1,0 +1,51 @@
+DECISÃO
+Cuida-se de agravo interposto por MARIA DAS GRACAS FERREIRA contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS cuja ementa guarda os seguintes termos (fl. 479):
+APELAÇÃO CÍVEL - AÇÃO DE IMISSÃO DE POSSE - PROVA DO DOMÍNIO E DA POSSE INJUSTA - EXISTÊNCIA - PRETENSÃO DE IMITIR-SE NA POSSE - PROCEDÊNCIA - AQUISIÇÃO DA PROPRIEDADE POR USUCAPIÃO NÃO DEMONSTRADA - RECURSO DESPROVIDO. 1- A ação de imissão de posse, fundada no direito de propriedade, se destina a tutelar o direito de quem detenha título de domínio sobre um bem, mas se vê privado de exercer as faculdades a ele inerentes, em virtude de embaraço criado pelo alienante ou por terceiro que exerça posse injusta. 2 - Demonstrada a propriedade do imóvel, bem como a posse injusta da parte ré, procede o pedido de imissão na posse. 3 - Para o reconhecimento da usucapião, ainda que como matéria de defesa, é imprescindível que o possuidor exerça a posse de forma mansa e pacífica, sem contestações ou oposições por parte de terceiros, nos termos do que preceitua o artigo 1.238 do Código Civil.
+Os embargos de declaração opostos pela parte recorrente (fls. 498-505) foram contrarrazoados pelo recorrido (fls. 512-540) e rejeitados pelo Tribunal local (fls. 569-573).
+No recurso especial, alega a parte recorrente, preliminarmente, ofensa ao art. 489, § 1º, do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não enfrentou com profundidade as provas constantes dos autos, especialmente quanto ao fato de "que o imóvel/terreno objeto da ação foi comprado entre 1977/1980 pelos irmãos Maria, José e Antônio Clarindo dos Santos, juntamente com a mãe Rita Maria Luiza" (fl. 591).
+Aduz, no mérito, que o acórdão contrariou a disposição contida no artigo 371 do CPC porque violou o dever de apreciação das provas e de indicação das razões do convencimento.
+Foram oferecidas contrarrazões ao recurso especial (fls. 601-642).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 649-651), o que ensejou a interposição do presente agravo (fls. 660-681).
+Apresentada contraminuta do agravo (fls. 687-715).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+O recurso especial tem origem em ação de imissão de posse, e o cerne da controvérsia reside na verificação da fundamentação do acórdão exarada pelo Tribunal Estadual de Minas Gerais.
+Inicialmente, não há falar em ofensa ao art. 489 do CPC, uma vez que o Tribunal de origem deixou claro que a recorrente não provou a aquisição do imóvel e que há " existência de provas suficientes a comprovar a propriedade do autor sobre o bem, o que, por si só, afasta a alegação de inadequação da ação de imissão de posse" (fl. 572), conforme se depreende do acórdão (fls. 482-487):
+Por sua vez, a ré, em sua contestação, alegou que o bem em comento foi comprado entre 1977 e 1980 pelos irmãos Maria, José e Antônio, juntamente com a mãe Rita, sendo que todos participaram com esforço braçal e financeiramente para a construção da edificação ali existente.
+Pontuou, ainda, já ter adquirido a posse integral do imóvel por meio da prescrição aquisitiva, uma vez que desde que se estabeleceu no imóvel exerceu posse contínua e sem qualquer oposição.
+(..)
+Sendo assim, uma vez comprovada a propriedade do bem, faz jus a parte autora à imissão na sua posse, nos termos do artigo 1.228 do Código Civil, a seguir transcrito:
+Artigo 1.228 - O proprietário tem a faculdade de usar, gozar e dispor da coisa, e o direito de reavê-la do poder de quem quer que injustamente a possua ou detenha.
+Compulsando os autos observa-se que autor juntou contrato de compra e venda do bem em comento, com firma reconhecida em cartório (ordem nº 07), comprovantes de pagamento de IPTU (ordem nº 08 e 10), Cadastro Econômico Imobiliário emitido pela Prefeitura de Muriaé (ordem nº 10), Ficha de Cadastro Imobiliário emitida pela Prefeitura de Muriaé (ordem nº 11).
+Extrai-se dos documentos juntados que o autor figura como proprietário do bem em questão nos cadastros do Município de Muriaé pelo menos desde o ano de 2003, conforme se infere do documento de ordem nº 09.
+Outrossim, a testemunha Marta Soares e o informante Bruno Andrade de Oliveira afirmaram que a propriedade do terreno era do Sr. José dos Santos do Nascimento, que construiu a casa de baixo e o filho Sydney construiu a casa de cima e reformou a construção antiga (https://drive. google. com/file/d/1YfxKj_SDUH3lcYQJ26cRzw7yS2dxlOC L/view usp=sharing).
+É de se pontuar que a testemunha Marta Soares relatou que o terreno foi vendido ao autor pela mesma pessoa que lhe vendeu o seu imóvel.
+Nesse contexto, como bem pontuado pelo juízo de origem, não há provas nos autos de que o imóvel tenha sido adquirido pela Sra. Rita, conjuntamente com o autor, a ré e o irmão Antônio. Conforme consignado em sentença:
+"Logo, não há prova convicta da alegação feita pela ré nos autos de que a mãe das partes, e os três irmãos, José Santos, Antônio e Maria das Graças, adquiram o imóvel objeto da lide em conjunto, não havendo assim prova da copropriedade, até porque a mãe deles, Sra. Rita Ferreira, faleceu no ano de 2013, e até a presente data não se tem notícia da abertura de inventário para partilhar referido imóvel. Assim, demonstrado que o autor José Santos adquiriu o imóvel objeto da lide, e como a ré se recusa a desocupá-lo, apesar de notificada extrajudicialmente, a procedência da presente ação, com o deferimento da imissão na posse em favor da parte autora é medida que se impõe."
+Desta feita, entendo ter ficado devidamente comprovada a propriedade de José dos Santos do Nascimento sobre o imóvel localizado à Rua Muriaé, nº 220, Bairro Santa Terezinha, no Município de Muriaé/MG.
+Noutro giro, relativamente à alegação de estar configurada a prescrição aquisitiva em favor da recorrente, não ficou demonstrada na espécie dos autos.
+(..)
+Ao que se colhe dos relatos prestados pelas testemunhas e informantes ouvidos na audiência de instrução, a ré não residia na residência até pouco tempo antes da mãe falecer, o que ocorreu em 2013.
+O irmão das partes, Antônio Clarindo dos Santos, relatou que a ré, antes de a mãe adoecer, residia em Macaé/RJ, tendo ido residir com a mãe algumas semanas antes desta falecer (https://drive. google. com/file/d/1YfxKj_SDUH3lcYQJ26cRzw7yS2dxlOC L/view usp=sharing).
+Insta pontuar que o autor ajuizou, em 04/08/2017, Ação de Reintegração de Posse, com vistas a destituir a ré da posse do imóvel em comento, portanto, não ficou demonstrada a posse contínua da ré sobre o bem pelo período determinado na legislação de regência.
+Demais disso, ausente, também, o requisito da posse mansa, já que em 30/05/2017 o autor notificou a ré para desocupar o imóvel (ordem nº 12), além de verificar-se da oitiva dos informantes Antônio Clarindo dos Santos e Elisabete Clemente Nunes que a posse da autora sempre foi conturbada.
+Insta consignar que a própria apelante, em sua contestação, afirma ter havido oposição do autor quanto a sua posse sobre o bem. Senão vejamos:
+"- Por volta de 2008/2009 o autor começou a tentar ficar com o imóvel de forma exclusiva, a fim de prejudicar os irmãos e a mãe, numa atitude totalmente reprovável. A mãe então foi contra e impediu o autor de tal conduta, causando grande confusão familiar. - Em 2013 a mãe faleceu e aí o autor cresceu pra cima de todos os irmãos, porquanto deseja o bem de forma exclusiva para si, não tendo o apoio nem da ré, nem do outro irmão, Antônio; (ordem nº 31)"
+Destarte, não há como reconhecer a usucapião do bem pela ré, já que não estão demonstrados os requisitos indispensáveis à sua caracterização.
+Assim, tendo em vista a propriedade do autor sobre o bem e a recusa da ré em desocupá-lo, a manutenção da sentença é medida imperativa.
+Observa-se, portanto, que a lide foi solucionada em conformidade com o que foi apresentado em juízo. Assim, verifica-se que o acórdão recorrido está com fundamentação suficiente, tendo abordado e considerado os argumentos indicados no recurso especial.
+Em relação à alegação de desrespeito ao art. 371 do CPC, o acórdão discorreu e fundamentou sua conclusão, de modo que os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fático -probatória, procedimento vedado a esta Corte, em razão do óbice da Súmula n. 7/STJ. Cito o seguinte precedente:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. REEXAME DE PROVAS E CLÁUSULAS CONTRATUAIS; NEGATIVA DE PRESTAÇÃO JURISDICIONAL; ÔNUS DA PROVA. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+I. CASO EM EXAME
+(..)
+6. Não há negativa de prestação jurisdicional: o acórdão enfrentou os pontos essenciais, e a revisão pretendida demanda reexame de provas e de cláusulas contratuais, o que atrai a incidência das Súmulas n. 5 e 7 do STJ e, por estar em conformidade com a jurisprudência desta Corte, da Súmula n. 83 do STJ.
+7. A valoração da prova observou o art. 371 do Código de Processo Civil, pois o Tribunal indicou a inexistência de cobrança de comissão de permanência e a conformidade dos encargos com o contrato, prevalecendo documentos da exequente.
+8. Não houve inversão do ônus probatório do art. 373, II, do Código de Processo Civil: a conclusão baseou-se nos elementos dos autos que afastam o excesso de execução, e sua revisão exigiria revolvimento fático-probatório, vedado pela Súmula n. 7 do STJ.
+9. O ônus do art. 373, I, do Código de Processo Civil não foi cumprido de modo a demonstrar anatocismo ou ilegalidade, e a pretensão de restabelecer a sentença demanda nova apreciação do laudo e das cláusulas contratuais, obstada pelas Súmulas n. 5 e 7 do STJ.
+(..)
+(AREsp n. 2.648.587/RJ, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 1/12/2025, DJEN de 4/12/2025.)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 15% sobre o valor atualizado da causa, devendo ser observada a gratuidade da justiça.
+Publique-se. Intime-se.
+ EMENTA
