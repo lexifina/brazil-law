@@ -1,0 +1,49 @@
+DECISÃO
+Cuida-se de agravo interposto por VALTER SILVA GAVIGLIA contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fls. 247-250):
+AGRAVO DE INSTRUMENTO CUMPRIMENTO DE SENTENÇA Decisão que determinou a realização de perícia contábil para apuração do débito exequendo Irresignação do exequente, sob a alegação de que o executado teria concordado com o valor apontado em momento anterior Não acolhimento Memória de cálculo apresentada pelo exequente que padece de evidente erro material Possibilidade de reconhecimento de ofício pelo magistrado Excesso de penhora que também pode ser reconhecido de ofício Decisão mantida - Recurso desprovido.
+Os embargos de declaração opostos foram rejeitados (fls. 265-269).
+No recurso especial, a parte recorrente alega, preliminarmente, ofensa ao art. 1.022, do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, no mérito, que o acórdão contrariou as disposições contidas nos artigos 5º, 6º, 507, 525 e 507 do Código de Processo Civil.
+Sustenta que houve preclusão consumativa, lógica e temporal da manifestação do executado sobre os cálculos, pois: (a) concordou expressamente com os cálculos em 28/11/2022 (fl. 121); (b) reiterou a concordância em 23/6/2023 (fl. 184); e (c) somente depois impugnou os mesmos cálculos em 30/6/2023 (fls. 188-197)
+Foram apresentadas contrarrazões ao recurso especial (fls. 292-298).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 299-301), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 311-314).
+A presidência do STJ não conheceu do agravo (fls. 321-322). Opostos embargos de declaração (fls. 325-327) que foram acolhidos com efeitos infringentes para tornar sem efeito a decisão embargada (fls. 345-346).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Inicialmente, não há falar em ofensa aos arts. 489 e 1.022 do CPC, uma vez que o Tribunal de origem ao negar provimento ao agravo deixou claro que "não merece prosperar a alegação do exequente de que haveria preclusão em relação à insurgência quanto ao débito exequendo, pois os cálculos apresentados padecem de erro material perceptível primo ictu oculi. Outrossim, entendimento em sentido diverso permitiria o enriquecimento sem causa da parte, pois a memória apresentada destoa dos parâmetros do título executivo" (fl. 249).
+Observa-se, portanto, que a lide foi solucionada em conformidade ao que foi apresentado em juízo. Verifica-se que o acórdão recorrido possui fundamentação suficiente, inexistindo omissão ou contradição.
+O que a parte recorrente aponta como "omissão" ou "falta de fundamentação" traduz, na verdade, mero inconformismo com a tese jurídica adotada. O julgador não está obrigado a rebater, um a um, todos os argumentos e dispositivos legais invocados pelas partes, quando já encontrou motivo suficiente para fundamentar sua decisão. O Poder Judiciário não funciona como um órgão consultivo, obrigado a responder a um "questionário" das partes.
+A propósito, cito os seguintes precedentes:
+PROCESSUAL CIVIL. DESAPROPRIAÇÃO DIRETA. UTILIDADE PÚBLICA. CONCESSIONÁRIA DE VEÍCULOS. RECURSO ESPECIAL. OFENSA AO ARTIGO 1022, II, DO CPC/15. INOCORRÊNCIA. DEVOLUÇÃO TOTAL DA MATÉRIA EM REEXAME NECESSÁRIO. SÚMULA 325/STJ. NECESSIDADE DE ALUGAR IMÓVEL LINDEIRO PARA ALTERAR ACESSO A LOJA. INDENIZAÇÃO AFASTADA PELO Tribunal de origem. REVISÃO. SÚMULA 7/ STJ.
+1. Os arts. 489, § 1º, e 1.022 do Código de Processo Civil não foram ofendidos. A pretexto de apontar a existência de erros materiais, omissão e premissas erradas, a parte agravante quer modificar as conclusões adotadas pelo aresto vergastado a partir das informações detalhadas do laudo pericial.
+ ..
+5. Agravo Interno não provido.
+(AgInt no AREsp n. 1.974.188/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/10/2022, DJe de 4/11/2022.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. DANO MORAL. SUSPENSÃO DO FORNECIMENTO DO SERVIÇO DE ÁGUA . DEMORA INJUSTIFICADA NO RESTABELECIMENTO DO SERVIÇO. ARTS. 489, § 1º, E 1022, II, DO CPC. OMISSÃO NÃO CONFIGURADA. DEVER DE INDENIZAR. REQUISITOS PARA A RESPONSABILIZAÇÃO DA CONCESSIONÁRIA. ACÓRDÃO ANCORADO NO SUBSTRATO FÁTICO-PROBATÓRIO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. VALOR DA INDENIZAÇÃO. EXCESSO NÃO CARACTERIZADO.
+1. Cuida-se de ação de procedimento ordinário ajuizada em desfavor de SAMAR - Soluções Ambientais de Araçatuba, com o fim de obter indenização pelos danos morais que alega ter sofrido com suspensão do serviço de água na residência da autora.
+2. Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489, § 1º, e 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos.
+ ..
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.118.594/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 22/11/2022, DJe de 25/11/2022 - grifo nosso.)
+No mérito, verifica-se que o Tribunal de origem afastou a preclusão em relação aos cálculos afirmando que houve erro na incidência dos consectários da condenação, de vez que foi indevidamente acrescida a conta de juros de mora. Confira-se (fls. 248):
+ ..  na memória de cálculo apresentada pelo exequente à fl. 28, o valor original da causa (R$ 7.464,92, em 11/06/1997), além de ter sido atualizado pela Tabela Prática do E. TJSP, foi indevidamente acrescido de juros de mora. Dessa forma, o valor da causa, que deveria alcançar somente R$ 33.594,93 na data de atualização (janeiro de 2022), foi elevado ao patamar de R$ 121.675,23, devido ao injustificado acréscimo de juros de mora.
+A incorreção na memória de cálculo deu azo a excesso de execução no valor de R$ 88.080,30, atualizado para janeiro de 2022, e ao consequente excesso de penhora às fls. 40/41.
+Havendo erro material claramente identificável, como a indevida inclusão de juros de mora, não há impedimento para que o magistrado determine a conferência dos cálculos pela contadoria, pelo que o entendimento do acórdão recorrido está em consonância coma jurisprudência desta Corte. Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. OBSERVÂNCIA AO TÍTULO EXECUTIVO. CORREÇÃO DE ERRO DE CÁLCULO. POSSIBILIDADE. AGRAVO INTERNO PROVIDO.
+1. À luz do princípio da fidelidade da execução ao título, o julgador deve verificar a adequação do cálculo do credor ao título sob cumprimento, corrigindo eventuais discrepâncias, desde que não se trate de questão preclusa. Precedentes.
+2. De acordo com a jurisprudência deste Tribunal Superior, o erro de cálculo evidente, decorrente de simples equívoco aritmético ou inexatidão material, é passível de correção pelo magistrado, de ofício e a qualquer tempo. Precedentes.
+3. Na hipótese, uma vez constatada a existência de erro de cálculo, este decorrente da aplicação de valor diverso daquele estabelecido na coisa julgada, deve ser corrigido, não havendo que se falar em preclusão.
+4. Agravo interno provido.
+(AgInt nos EDcl no REsp n. 1.930.477/PR, relator Ministro Luis Felipe Salomão, relator para acórdão Ministro Raul Araújo, Quarta Turma, julgado em 23/8/2022, DJe de 20/10/2022.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. CUMPRIMENTO DE SENTENÇA. ERRO NOS CÁLCULOS. PRECLUSÃO. NÃO OCORRÊNCIA. ENUNCIADO 83/STJ. HONORÁRIOS SUCUMBENCIAIS. MINORAÇÃO. REEXAME. INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. Não ocorre negativa de prestação jurisdicional quando o Tribunal de origem examina, de forma fundamentada, todas as questões que lhe foram submetidas, ainda que decida em sentido contrário à pretensão da parte. Nesse contexto, esta Corte tem orientação de que "não há que se confundir decisão contrária aos interesses da parte e negativa de prestação jurisdicional, nem fundamentação sucinta com ausência de fundamentação" (EDcl no AgRg nos EREsp 1.213.226/SC, Relator o Ministro Raul Araújo, Corte Especial, julgado em 24/10/2016, DJe 22/11/2016).
+2. A jurisprudência do STJ se consolidou no sentido de que eventuais erros materiais nos cálculos apresentados para o cumprimento de sentença não estão sujeitos à preclusão, sendo possível ao magistrado, inclusive, encaminhar os autos à contadoria, de ofício, para apurar se os cálculos estão em conformidade com o título em execução. Incidência do enunciado sumular n. 83 deste Superior Tribunal.
+3. Em relação aos honorários advocatícios fixados, nos termos da jurisprudência firmada pela Segunda Seção do Superior Tribunal de Justiça, o cálculo dos honorários sucumbenciais deve observar a ordem estabelecida pelo art. 85, § 2º, do CPC/2015, a qual prevê que "os honorários serão fixados entre o mínimo de dez e o máximo de vinte por cento sobre o valor da condenação, do proveito econômico obtido ou, não sendo possível mensurá-lo, sobre o valor atualizado da causa."
+4. Agravo interno improvido.
+(AgInt nos EDcl no REsp n. 1.720.927/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 15/12/2020, DJe de 18/12/2020.)
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC, tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+Publique-se. Intimem-se.
+EMENTA
