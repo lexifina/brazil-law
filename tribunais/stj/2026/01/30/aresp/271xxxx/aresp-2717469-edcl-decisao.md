@@ -1,0 +1,15 @@
+DECISÃO
+1. Cuida-se de embargos de declaração opostos por ESPÓLIO DE UBIRATAN ANTÔNIO DOS REIS LOUREIRO contra a decisão de fls. 213-219 que conheceu do agravo para negar provimento ao recurso especial.
+Sustenta que:
+i) "o acórdão proferido pelo e. TJRS, consigna que ainda deve ser objeto de análise pelo Juízo monocrático a quo: o termo inicial da incidência das astreintes, além da incidência dos juros e correção monetária".
+ii) "a referência lançada nos fundamentos da decisão ora embargada, no sentido de que "houve o trânsito em julgado sobre o montante alcançado pela multa", apresenta-se CONTRADITÓRIA em relação ao trecho supra destacado, no sentido de que resta pendente de análise pelo Juízo a quo o termo inicial de incidência das astreintes".
+É o relatório.
+2. Assiste razão ao embargante.
+Como asseverado na decisão monocrática de fls. 213-219, nos termos da jurisprudência do STJ, "a regra do art. 537, § 1º, do CPC, a modificação das astreintes somente é possível em relação à "multa vincenda". Precedente vinculante da Corte Especial" (EAREsp n. 1.479.019/SP, relator Ministro João Otávio de Noronha, relator para acórdão Ministro RICARDO VILLAS BÔAS CUEVA, Corte Especial, julgado em 7/5/2025, DJEN de 19/5/2025.), bem como que houve o trânsito em julgado da discussão sobre o montante alcançado pela multa em questão, o que impede a sua reanálise, salvo quanto à multa vincenda.
+No entanto, por um lapso, a decisão incorreu em erro material, haja vista que deixou de realizar o devido decote com o que fora decidido pelo TJRS.
+Com efeito, o acórdão recorrido reconheceu a exigibilidade da multa coercitiva, limitada ao valor nominal de R$ 100.000,00 (cem mil reais), a ser oportunamente atualizado, dispensando, por conseguinte, a produção de provas pelo juízo de primeiro grau, haja vista a preclusão da matéria. Ademais, definiu as questões atinentes à impugnação apresentada que deverão prosseguir no julgamento e as que não merecerão ser conhecidas, seja por não serem matérias de ordem pública, seja por excederem os limites definidos com a apresentação da referida impugnação.
+Assim, o referido corte efetivado pelo acórdão recorrido deverá ser mantido, sob pena de reformatio in pejus.
+No entanto, quanto ao mais, a decisão embargada está correta, nos termos de sua fundamentação, não se podendo alterar o julgado que definiu a exigibilidade da multa coercitiva, afastando a necessidade de produção de provas, diante do trânsito em julgado do acórdão que decidiu a questão. Assim, a referida modificação só será possível em relação à "multa vincenda", nos termos do EAREsp n. 1.479.019/SP, relator Ministro João Otávio de Noronha, relator para acórdão Ministro RICARDO VILLAS BÔAS CUEVA, Corte Especial, julgado em 7/5/2025, DJEN de 19/5/2025.) Incidência, como dito, da Súm 83 do STJ.
+3. Ante o exposto, acolho parcialmente os embargos de declaração para, reconhecendo a ocorrência de erro material do julgado, definir que, em relação aos astreintes, não é possível reanalisar a questão de sua exigibilidade, mantendo-se o acórdão recorrido em sua integralidade.
+Publique-se.
+EMENTA
