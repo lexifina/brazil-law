@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por JOSE APARECIDO RODRIGUES DURAES contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais que, em sede de apelação, manteve a sentença de reintegração de posse e confirmou a decretação da revelia (fls. 242-246).
+O acórdão recorrido foi assim ementado (fl. 242):
+"EMENTA: APELAÇÃO CÍVEL - AÇÃO DE REINTEGRAÇÃO DE POSSE - JUNTADA AOS AUTOS DO MANDADO DE CITAÇÃO - REVELIA - PROCEDÊNCIA DO PEDIDO. 1. Quando a parte ré, embora devidamente citada, deixa de apresentar contestação, mostra-se correta a aplicação dos efeitos da revelia. 2. Hipótese em que a carta precatória, com o respectivo mandado de citação devidamente cumprido, foi juntada aos autos, transcorrendo in albis o prazo para contestação."
+Opostos embargos de declaração, foram rejeitados (fls. 271-277).
+Nas razões do recurso especial (fls. 280-287), a parte recorrente alega violação dos arts. 231, VI, e 232 do Código de Processo Civil. Sustenta, em síntese, a nulidade da decretação da revelia, argumentando que o prazo para contestação não se iniciou, uma vez que a juntada da carta precatória aos autos foi realizada pela própria parte autora, e não mediante a devolução oficial pelo juízo deprecado ou comunicado eletrônico, como exige a legislação processual.
+A decisão da Presidência do Tribunal de origem inadmitiu o recurso especial sob o fundamento da incidência da Súmula 7/STJ (fls. 311-312).
+Inconformado, o recorrente interpôs o presente agravo (fls. 315-325), impugnando o fundamento da decisão de admissibilidade.
+Sem contraminuta.
+É, no essencial, o relatório. Passo a decidir.
+DA ADMISSIBILIDADE DO AGRAVO
+O agravante impugnou, de forma específica, os fundamentos utilizados pela decisão recorrida para inadmitir o recurso especial. Dessa forma, presentes os pressupostos de admissibilidade, conheço do agravo e passo à análise do recurso especial.
+DO REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA (SÚMULA 7/STJ)
+A controvérsia central reside na verificação do termo inicial do prazo para contestação em casos de citação por carta precatória e na regularidade da decretação da revelia.
+O Tribunal de origem, ao analisar o acervo fático-probatório dos autos, concluiu que a carta precatória foi devidamente juntada aos autos, com o mandado cumprido, o que deflagrou o prazo para defesa.
+Nesse sentido, a Corte local, soberana na análise das provas, consignou expressamente:
+"Analisando-se os autos, verifica-se que à ordem 41/43 foi devidamente juntada a carta precatória, não havendo que se falar em violação dos artigos 231, VI e 232 do CPC. À ordem 43, consta inclusive a assinatura do apelante no mandado de citação, bem como a respectiva certidão de citação datada de 27/11/2020. Depreende-se do documento de ordem 42 do processo eletrônico que a juntada da carta e do mandado ocorreu em 17/02/2021, data em que começou a fluir o prazo para contestação. Ocorre que, embora devidamente intimada, a parte ré deixou de apresentar contestação, razão pela qual se considera correta a aplicação dos efeitos da revelia na sentença prolatada em 23/04/2021." (fl. 245)
+Para acolher a pretensão recursal e reconhecer que a juntada ocorrida nos autos não atendeu aos requisitos legais ou que se tratou de ato unilateral da parte incapaz de gerar os efeitos de ciência processual previstos no art. 231, VI, do CPC, seria imprescindível o revolvimento das provas constantes dos autos, especificamente os documentos de ordem 41, 42 e 43 citados no acórdão, a fim de verificar a natureza e a regularidade formal da juntada da precatória.
+Tal providência é vedada em sede de recurso especial, nos termos da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREQUESTIONAMENTO FICTO. NÃO OCORRÊNCIA. SÚMULA 211/STJ . IMÓVEL. PROMESSA DE COMPRA E VENDA. COMISSÃO DE CORRETAGEM. CABÍVEL COM RESULTADO ÚTIL DO CORRETOR . REEXAME DE PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULA 7/STJ. SÚMULA 5/STJ . 1. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas n. 5 e 7 do Superior Tribunal de Justiça). 2 . A comissão de corretagem é devida, quando caracterizado o resultado útil da atuação do corretor. 3. Agravo interno a que se nega provimento. (STJ - AgInt no AREsp: 2243705 SP 2022/0351683-2, Relator.: Ministra MARIA ISABEL GALLOTTI, Data de Julgamento: 16/10/2023, T4 - QUARTA TURMA, Data de Publicação: DJe 20/10/2023).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial. Nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios fixados pelo Tribunal de origem para 12% (doze por cento) sobre o valor atualizado da causa, observada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
