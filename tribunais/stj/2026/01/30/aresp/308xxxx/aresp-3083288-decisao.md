@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MARIA APARECIDA DOS SANTOS contra decisão que inadmitiu seu recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO c.c. REPARAÇÃO DE DANOS. ASSISTÊNCIA JUDICIÁRIA GRATUITA. INDEFERIMENTO. MANUTENÇÃO. Os rendimentos da autora estão acima do patamar utilizado pela Defensoria Pública do Estado de São Paulo para reputar economicamente necessitada a pessoa natural. Além do benefício previdenciário líquido (R$4.751,31), a conta bancária da autora recebe diversas transferências por meio de pix, incrementando seus rendimentos mensais. Sintomaticamente, ela está representada nos autos por advogado contratado, havendo dispensado os serviços prestados de forma gratuita por aquela Instituição aos efetivamente necessitados algo que, apesar de não ser empeço à concessão da benesse, é sintoma da capacidade financeira. Deferir o benefício postulado seria o mesmo que carrear à população os ônus que deveriam ser pagos pela autora, o que não poderia ser admitido, pois, em última análise, ele é custeado pelo Estado. Agravo não provido." (e-STJ, fl. 249)
+Os embargos de declaração foram rejeitados (e-STJ, fls. 318-320).
+Em seu recurso especial, o recorrente alega violação dos seguintes dispositivos da legislação federal, com as respectivas teses:
+(i) arts. 1.022, parágrafo único, II, e 489, § 1º, VI, do Código de Processo Civil, por omissão e negativa de prestação jurisdicional no acórdão recorrido, ao não enfrentar pontos relevantes, como a origem fraudulenta de depósitos que inflaram a renda e o erro material quanto ao valor líquido do benefício previdenciário considerado.
+(ii) arts. 98 e 99, § 4º, do Código de Processo Civil, pois o indeferimento da gratuidade de justiça se baseou em renda bruta e na contratação de advogado particular como "sintoma" de capacidade financeira, o que contraria o § 4º do art. 99 e desconsidera a insuficiência de recursos efetivamente disponíveis.
+(iii) art. 98 do Código de Processo Civil, pois a análise da hipossuficiência teria desconsiderado que a aferição deveria recair sobre recursos disponíveis (renda líquida) e endividamento decorrente de descontos indevidos e fraude, o que evidenciaria incapacidade de arcar com custas sem prejuízo do mínimo existencial.
+Não foram ofertadas contrarrazões.
+O recurso especial foi inadmitido na origem, dando ensejo à interposição do presente agravo.
+É o Relatório. Passo a decidir.
+Inicialmente, no tocante à suposta negativa de prestação jurisdicional, tendo em vista as omissões alegadas, não assiste razão à parte recorrente.
+Com efeito, da análise acurada dos autos, verifica-se que o Tribunal a quo apreciou todas as questões levadas à sua análise, mormente, aquelas relativas à aferição da renda líquida da parte recorrente, para fins de concessão de gratuidade de justiça, conforme se afere dos excertos do aresto objurgado às fls. 250-251 e 320 (e-STJ):
+É indevido conjecturar-se acerca da deficiência de fundamentação ou da existência de omissão, de obscuridade ou de contradição no julgado apenas porque decidido em desconformidade com os interesses da parte. No mesmo sentido, podem ser mencionados os seguintes julgados: : EDcl no AgInt no REsp n. 2.114.250/MG, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 4/2/2025, DJEN de 6/3/2025; REsp n. 2.086.697/SP, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 24/2/2025, DJEN de 5/3/2025; EDcl no AgInt na Rcl n. 45.542/SP, Relator Ministro JOÃO OTÁVIO DE NORONHA, SEGUNDA SEÇÃO, julgado em 18/2/2025, DJEN de 24/2/2025; e EDcl no AgInt nos EDcl nos EREsp n. 1.859.857/PR, Relator Ministro MAURO CAMPBELL MARQUES, CORTE ESPECIAL, julgado em 25/2/2025, DJEN de 12/3/2025.
+Por fim, quanto à insurgência acerca da violação dos arts. 98 e 99, § 4º, do Código de Processo Civil, o Tribunal de origem assim se manifestou:
+No caso concreto, os rendimentos da autora estão acima do patamar utilizado pela Defensoria Pública do Estado de São Paulo para reputar economicamente necessitada a pessoa natural: renda familiar até três salários-mínimos art. 2º, inc. I, da Deliberação CSDP 137, de setembro de 2009.
+Além do benefício previdenciário líquido (R$4.751,31), a conta bancária da autora recebe diversas transferências por meio de pix, incrementando seus rendimentos mensais. (e-STJ fls. 250-251)
+No acórdão dos embargos de declaração, assim se manifestou o Tribunal de origem:
+"Ora, a questão que serve de base aos presentes embargos já foi suficientemente dirimida no v. acórdão.
+A renda líquida da embargante é considerada a renda bruta com abatimento dos descontos legais. No caso, sua renda bruta é de R$5.111,56. Após o abatimento do imposto de renda (R$360,25), obtém-se a renda líquida de R$4.751,31, como constou no v. acórdão.
+Descontos em folha para pagamento de parcelas de empréstimos não devem ser considerados para o cálculo de seus rendimentos líquidos, mormente porque descontrole financeiro não é escusa para fins de obtenção de gratuidade judiciária." (e-STJ fl. 320)
+Do excerto transcrito, constata-se que o egrégio Tribunal a quo, após o exame acurado dos autos, das provas, dos documentos e da natureza da avença, concluiu que "Deferir o benefício postulado seria o mesmo que carrear à população os ônus que deveriam ser pagos pela autora, o que não poderia ser admitido, pois, em última análise, ele é custeado pelo Estado" (e-STJ fl. 251). Dessa forma, cuida-se, evidentemente, de matéria que envolve o reexame dos fatos e provas, o que é inadmissível em sede de recurso especial, por vedação da Súmula 7 do STJ.
+A propósito:
+"DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. GRATUIDADE DE JUSTIÇA. INDEFERIMENTO. PARCELAMENTO DE CUSTAS. RECURSO NÃO CONHECIDO.
+I. Caso em exame
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça do Estado do Tocantins que manteve o indeferimento da gratuidade de justiça, concedendo, de ofício, o parcelamento das custas processuais e da taxa judiciária.
+2. O recorrente alegou insuficiência de recursos para arcar com as despesas processuais, enquanto o acórdão recorrido fundamentou sua decisão na análise de extratos bancários e declarações de imposto de renda, que indicaram posses significativas.
+3. Embargos de declaração opostos foram rejeitados, e o juízo de admissibilidade do recurso especial foi positivo na instância de origem.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se houve violação aos artigos 489, §1º, IV, 1.022, II, e 99, §§2º, 3º e 4º, do Código de Processo Civil, em razão do indeferimento da gratuidade de justiça e da fundamentação do acórdão recorrido.
+III. Razões de decidir
+5. O acórdão recorrido está devidamente fundamentado, tendo analisado os documentos apresentados, como extratos bancários e declarações de imposto de renda, que indicaram suficiência financeira do recorrente.
+6. Não há violação dos artigos 489 e 1.022 do CPC, pois o Tribunal de origem enfrentou as questões submetidas de forma clara e fundamentada.
+7. A alegação de insuficiência de recursos não foi comprovada de forma inequívoca, conforme exigido pelo artigo 5º, LXXIV, da Constituição Federal e pelos artigos 98 e 99 do CPC.
+8. A análise de matéria fática-probatória, como a suficiência financeira do recorrente, é vedada em sede de recurso especial, conforme o óbice da Súmula 7 do STJ.
+IV. Dispositivo e tese Resultado do Julgamento: Recurso especial não conhecido."
+(REsp n. 2.176.181/TO, relator Ministro HUMBERTO MARTINS, Terceira Turma, julgado em 17/11/2025, DJEN de 24/11/2025.)
+"RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. LOTE. CONTRATO ANTERIOR À LEI DO DISTRATO. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM RESTITUIÇÃO DE VALORES E INDENIZAÇÃO. ALEGAÇÃO DE VIOLAÇÃO DO ARTIGO 1.022 DO CPC. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. REEXAME DE NORMAS LOCAIS. IMPOSSIBILIDADE. SÚMULA 280/STF. GRATUIDADE DE JUSTIÇA. REQUISITOS. REEXAME DE FATOS E PROVAS. SÚMULA 7 STJ. PERCENTUAL DE RETENÇÃO. TAXA FRUIÇÃO. LOTE NÃO EDIFICADO. NÃO CABIMENTO. HONORÁRIOS ADVOCATÍCIOS. CRITÉRIO DE EQUIDADE. INAPLICABILIDADE. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+1. Recurso especial que suscita violação do art. 1.022 do CPC de maneira genérica é deficiente em sua fundamentação e atrai a aplicação do óbice da Súmula 284/STF.
+2. Não compete a esta Corte, como guardiã da legislação federal, reformar entendimento julgado com base em norma de direito local, a teor do disposto na Súmula 280, do STF, por analogia.
+3. Rever a conclusão do acórdão recorrido quanto ao preenchimento dos requisitos para fins de concessão dos benefícios da gratuidade de justiça implica o reexame das provas dos autos, providência vedada pela Súmula 7/STJ.
+4. Nos termos da jurisprudência desta Corte, em contrato anterior à Lei 13.786/2018, deve prevalecer o parâmetro estabelecido pela Segunda Seção, a saber o percentual de retenção de 25% (vinte e cinco por cento) dos valores pagos pelos adquirentes.
+5. Nos termos da jurisprudência pacífica do STJ, é indevida a taxa de ocupação ou fruição após o desfazimento de promessa de compra e venda de lote não edificado, porquanto a resilição não enseja enriquecimento do comprador ou empobrecimento do vendedor.
+6. Se o proveito econômico buscado com a instauração da lide possui valor discriminado nos autos, inviável o pedido de arbitramento dos honorários com base no critério de equidade.
+7. Recurso especial a que se dá parcial provimento."
+(REsp n. 2.132.805/SP, relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 16/12/2025, DJEN de 19/12/2025.)
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+E, quanto ao ônus da sucumbência recursal, deixo de majorar os honorários advocatícios na forma do art. 85, §11, do CPC/2015, posto que o recurso especial tem origem em agravo de instrumento.
+Publique-se.
+EMENTA
