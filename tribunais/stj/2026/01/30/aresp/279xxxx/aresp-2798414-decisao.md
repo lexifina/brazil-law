@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MARIA DE FÁTIMA CHAVES COIMBRA EPP. contra decisão que inadmitiu seu recurso especial, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo eg. Tribunal de Justiça do Estado do Amazonas, assim ementado (e-STJ, fls. 736-740):
+"APELAÇÃO CÍVEL. PROCESSO CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. GRUPO ECONÔMICO DE FATO. SOLIDARIEDADE. INOCORRÊNCIA. NECESSIDADE DE APURAÇÃO DE ABUSO PATRIMONIAL. SENTENÇA REFORMADA. RECURSO CONHECIDO E PROVIDO. 1. A existência de grupo econômico não autoriza, por si só, a solidariedade obrigacional ou a desconsideração da personalidade jurídica. Precedentes do STJ; 2. Enquanto não houver prova do excesso por parte da pessoa jurídica contra a qual se levanta o título executivo, não poderá haver a responsabilização patrimonial das demais empresas componentes do grupo econômico, descabendo o ajuizamento de execução de título extrajudicial em face de todas as pessoas jurídicas do grupo antes dessa apuração; 3. Recurso conhecido e provido; 7. Sentença reformada."
+Em seu recurso especial, a recorrente alega violação dos artigos 7º, parágrafo único, e 25, § 1º, do Código de Defesa do Consumidor, ao argumento de que a agravada possui responsabilidade objetiva e solidária pelo adimplemento do débito perseguido, uma vez que integra o mesmo grupo econômico da coexecutada.
+Não foram apresentadas contrarrazões.
+O recurso especial foi inadmitido na origem, dando ensejo à interposição do presente agravo.
+É o relatório. Passo a decidir.
+Insurge-se a recorrente contra o acórdão que, em ação de execução de título extrajudicial, acolheu os embargos opostos pela ora agravada para reconhecer sua ilegitimidade para figurar no polo passivo da demanda, ao fundamento de que a mera existência de grupo econômico, ainda que demonstrada, não autorizaria, por si só, o reconhecimento da solidariedade obrigacional das pessoas jurídicas dele integrantes.
+Entretanto, verifica-se que o conteúdo normativo dos dispositivos indicados como violados - artigos 7º, parágrafo único, e 25, § 1º, do Código de Defesa do Consumidor - não foi apreciado pelo Tribunal a quo, tampouco foram opostos embargos de declaração para sanar eventual omissão. Dessa forma, à falta do indispensável prequestionamento, incide, por analogia, o óbice das Súmulas 282 e 356 do STF. Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ARTIGO 1.022 DO CPC/15. OMISSÃO NÃO VERIFICADA. RESPONSABILIDADE CIVIL POR VÍCIO DE CONSTRUÇÃO. PRESCRIÇÃO DECENAL (CC/2002, ART. 205). SÚMULA 83/STJ. ARTIGOS 186 E 927 DO CÓDIGO CIVIL. DEFICIÊNCIA NA CONCEPÇÃO DO PROJETO DA OBRA. CAUSALIDADE ADEQUADA. REEXAME DE PROVAS. SÚMULA N. 7/STJ. ARTIGO 884 DO CÓDIGO CIVIL. SÚMULAS 282 E 356/STF. ART. 1.026 DO CPC/15. OMISSÃO NA DECISÃO AGRAVADA. VIA INADEQUADA. NÃO PROVIDO.
+1. Não há falar-se em omissão ou falta de justificativa adequada nos casos em que o Tribunal de origem resolve a controvérsia na extensão da matéria devolvida.
+2. A pretensão do consumidor de ser indenizado pelo prejuízo decorrente da entrega de imóvel com vícios de construção está sujeita ao prazo decenal previsto no artigo 205 do Código Civil. Súmula 83/STJ.
+3. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+4. Não se admite o recurso especial quando a questão federal nele suscitada não foi enfrentada no acórdão recorrido. Incidem as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+5.O agravo interno não é o recurso cabível (adequado) para apontar suposta omissão da decisão agravada. Precedentes.
+6. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 2.506.495/MG, relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 23/6/2025, DJEN de 26/6/2025).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. PLANO DE SAÚDE. OBRIGAÇÃO DE FAZER. CERCEAMENTO DE DEFESA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 256 DO STJ. RECUSA INDEVIDA DE COBERTURA DE PROCEDIMENTOS CIRÚRGICOS. DANO MORAL CARACTERIZADO. ACÓRDÃO ESTADUAL EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E NÃO PROVIDO.
+1. Esta Corte de Justiça consagra orientação no sentido da necessidade de prequestionamento dos temas ventilados no recurso especial, nos termos das Súmulas 282 e 356 do STF.
+2. A jurisprudência desta Corte é no sentido de que o mero descumprimento contratual não enseja indenização por dano moral. No entanto, nas hipóteses em que há recusa de cobertura por parte da operadora do plano de saúde para tratamento de urgência ou emergência, segundo entendimento jurisprudencial desta Corte, há configuração de danos morais indenizáveis. Precedentes.
+3. O entendimento adotado no acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+4. Agravo interno provido. Decisão reconsiderada. Agravo conhecido. Recurso especial parcialmente conhecido e desprovido."
+(AgInt no AREsp n. 2.891.207/SP, relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 10/11/2025, DJEN de 17/11/2025).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do artigo 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos à parte recorrida de 10% (dez por cento) para 11% (onze por cento) sobre o valor da causa.
+Publique-se.
+EMENTA
