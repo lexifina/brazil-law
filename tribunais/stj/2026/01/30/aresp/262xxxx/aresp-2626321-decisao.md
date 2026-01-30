@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de agravo interposto por PORTO SEGURO COMPANHIA DE SEGUROS GERAIS contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a" da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS cuja ementa guarda os seguintes termos (fls.951-956):
+"EMENTA: AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO - PRELIMINAR - AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO RECORRIDA - REJEIÇÃO - DECISÃO QUE NÃO CONHECE DE NULIDADES PROCEDIMENTAIS OCORRIDAS EM JULGAMENTO DE RECURSO DE APELAÇÃO - NÃO AGRAVÁVEL - ART. 1.015, DO CPC/15 - ROL TAXATIVO - MITIGAÇÃO - INVIABILIDADE NO CASO - RECURSO DESPROVIDO. 1. Impugnando a recorrente especificamente os fundamentos da decisão agravada, a rejeição da preliminar de ofensa ao princípio da dialeticidade é medida que se impõe. 2. Deve ser mantida a decisão que não conhece de agravo de instrumento interposto contra decisão que deixa de conhecer de supostas nulidades ocorridas em sede de julgamento de recurso de apelação, haja vista não ser hipótese prevista no rol taxativo do art. 1.015, do CPC/15, tampouco ser possível sua mitigação, segundo entendimento adotado pelo Superior Tribunal de Justiça, sobretudo por se valer a parte de via processual transversa para obter sua pretensão. "
+Rejeitados os embargos de declaração opostos (fls. 985-992).
+No recurso especial, alega que a partir da interposição de recurso, a recorrente não mais recebeu qualquer publicação referente ao feito; que não há qualquer registro de comunicação e/ou intimação enviada seja da inclusão em pauta de julgamento, seja da publicação do acórdão e, consequentemente, não há, também, qualquer registro de intimação lida pelo sistema JPE MG em sede recursal, de forma que não há como se entender pela intimação dos patronos da recorrente naqueles autos.
+Aduz, que a ausência de intimação acarreta a nulidade dos atos praticados, nos exatos termos do artigo 272 do CPC. Assim, todo o feito, a partir do encaminhamento dos autos ao E. TJMG encontra-se eivado de vício e não pode prevalecer sob pena de ferir-se de morte o princípio do contraditório
+Sem contrarrazões ao recurso especial (fl. 1047).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls.1048-1050), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo (fl.1080).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+- Súmula 284 do STF.
+O Recorrente discorre sobre eventuais nulidades ocorridas ao longo do julgamento do recurso na segunda instância, porém não indica de maneira expressa quais dispositivos de lei entende por violados, nem como o Tribunal de Origem teria incorrido nessas violações.
+Verifica-se que a parte recorrente não demonstrou, de forma clara, direta e particularizada, quais os dispositivos de lei violados pelo acórdão recorrido, o que atrai, por conseguinte, a aplicação da Súmula 284 do STJ: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido:
+"A jurisprudência desta Corte considera que quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284, do Supremo Tribunal Federal. Em relação à afronta aos arts. 13 da Lei n. 10.559/2002 e 943 do Código Civil, verifica-se a ausência de demonstração precisa de como tal violação teria ocorrido, limitando-se a parte recorrente em apontá-la de forma vaga, o que impede o conhecimento do recurso especial". (AgInt no REsp n. 1.496.338/RS, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 27/8/2020.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.826.355/RN, relator Ministro Og Fernandes, Segunda Turma, DJe de 4/8/2020; AgInt no AREsp n. 1.552.950/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 8/5/2020; AgInt no AREsp n. 1.617.627/RJ, AgInt no AREsp n. 1.617.627/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 14/8/2020; AgRg no REsp n. 1.690.449/MG, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 5/12/2019; AgRg no AREsp n. 1.562.482/SP, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 28/11/2019.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+- Honorários recursais
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+Publique-se. Intime-se.
+ EMENTA
