@@ -1,0 +1,81 @@
+Trata-se de habeas corpus impetrado contra decisão monocrática proferida por Ministro do Superior Tribunal de Justiça — STJ, que indeferiu liminarmente o Habeas Corpus — HC 1.063.996/SP.
+
+Ao final, requer-se:
+
+1) A concessão LIMINAR DA ORDEM para que seja a paciente posta em liberdade provisória até o julgamento do presente writ e expedido alvará de soltura;
+2) E, ao final, a CONCESSÃO DEFINITIVA DA ORDEM DE HABEAS CORPUS para que seja CONCEDIDA A LIBERDADE PROVISÓRIA a fim de que responda ao processo em liberdade, fixando, se o caso, MEDIDAS CAUTELARES DIVERSAS DA PRISÃO, nos termos do artigo 319 do Código de Processo Penal, confirmando-se, ainda, o pedido liminar (doc. 1, p. 15).
+
+É o relatório. Decido.
+
+A decisão impugnada tem a seguinte fundamentação:
+
+Cuida-se de Habeas Corpus com pedido de liminar impetrado em favor de ALESSANDRA ALVES DE OLIVEIRA, no qual se aponta como ato coator a decisão monocrática de Desembargador do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que indeferiu pleito de urgência formulado no HC n. 2399180-08.2025.8.26.0000.
+Consta dos autos que, em 16.12.2025, a paciente foi presa em flagrante pela suposta prática do delito previsto no art. 33, caput, da Lei n. 11.343/2006, com a posterior conversão da custódia em preventiva.
+A impetrante defende a superação da Súmula 691/STF para permitir o exame do presente Habeas Corpus, por se tratar de decisão teratológica e flagrantemente ilegal, com fundamentação deficiente, que mantém prisão cautelar sem lastro concreto.
+Sustenta que a prisão preventiva foi decretada apenas por estar a paciente em situação de rua, em afronta ao art. 19, § 1º, da Resolução CNJ n. 425/2021, ao Protocolo I da Resolução CNJ n. 213 e ao art. 8º, VIII, da Resolução CNJ n. 425/2021.
+Destaca a suficiência do comparecimento periódico em juízo, a possibilidade de endereço de referência (Centro POP) e a necessidade de medidas cautelares adequadas à realidade da pessoa em situação de rua.
+Argumenta que a primariedade da paciente e a ínfima quantidade de droga apreendida - 12 (doze) porções de crack, equivalentes a 5 (cinco) gramas - revelam a desproporcionalidade da prisão preventiva e atraem a aplicação do princípio da homogeneidade.
+Alega a possibilidade de fixação de regime diverso do fechado e a substituição da pena em caso de eventual condenação, nos termos da Súmula Vinculante 59/STF e conforme precedentes das Cortes Superiores.
+Aponta a ausência de elementos concretos que indiquem risco à ordem pública ou à aplicação da lei penal e de fundamentos idôneos para a manutenção da custódia.
+Afirma serem suficientes medidas cautelares diversas da prisão, à luz dos arts. 282, 312, 315 e 319 do Código de Processo Penal, e indica julgados do STJ que têm assentado a suficiência de cautelares alternativas em hipóteses análogas.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva da paciente, com a concessão de liberdade.
+É o relatório.
+Decido.
+Constata-se, desde logo, que a pretensão não pode ser acolhida pelo Superior Tribunal de Justiça, pois a matéria não foi examinada pela Corte local, que ainda não julgou o mérito do writ originário.
+Aplica-se à hipótese o enunciado 691 da Súmula do STF:
+[...]
+No caso, a situação dos autos não justifica a prematura intervenção desta Corte Superior. Deve-se, por ora, aguardar o esgotamento da jurisdição do Tribunal de origem.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente Habeas Corpus (doc. 3).
+
+A liminar foi deferida pelo Ministro Alexandre de Moraes, Vice-Presidente do STF, durante o período de recesso forense, “para suspender a prisão preventiva decretada contra a paciente, nos autos do Processo 1502169-44.2025.8.26.0442 (Vara Regional das Garantias da 4ª Região Administrativa Judiciária da Comarca de Campinas/SP), com a ressalva de que o Juízo competente fica autorizado a impor medidas cautelares diversas (CPP, art. 319)” (doc. 6).
+
+É o relatório. Decido.
+
+Nos termos do art. 102, I, i, da Constituição Federal, a competência do Supremo Tribunal Federal — STF para processar e julgar originariamente a ação constitucional do habeas corpus será inaugurada quando o coator for Tribunal Superior ou quando o coator ou o paciente for autoridade ou funcionário cujos atos estejam sujeitos diretamente à jurisdição do STF, ou se trate de crime sujeito à mesma jurisdição em uma única instância.
+
+Assim, no caso, a ausência da análise dos fundamentos constantes do ato coator por órgão colegiado de Tribunal Superior impede o prosseguimento deste writ.
+
+Nesse sentido:
+
+AGRAVO REGIMENTAL. HABEAS CORPUS IMPETRADO CONTRA DECISÃO MONOCRÁTICA DE MINISTRO DO SUPERIOR TRIBUNAL DE JUSTIÇA. INVIABILIDADE. INEXISTÊNCIA DE TERATOLOGIA, FLAGRANTE ILEGALIDADE OU ABUSO DE PODER. RECURSO IMPROVIDO.
+I – O art. 102, I, i, da Constituição Federal estabelece que a competência do Supremo Tribunal Federal - STF para processar e julgar originariamente a ação constitucional do habeas corpus será inaugurada quando o coator for Tribunal Superior ou quando o coator ou o paciente for autoridade ou funcionário cujos atos estejam sujeitos diretamente à jurisdição do STF, ou se trate de crime sujeito à mesma jurisdição em uma única instância.
+II – A não interposição de agravo regimental no Superior Tribunal de Justiça ou a ausência da análise da decisão monocrática pelo Colegiado daquela Corte impedem o conhecimento do habeas corpus pelo Supremo Tribunal Federal, pois, do contrário, permitiria ao jurisdicionado a escolha do Tribunal para conhecer e julgar a sua causa, o que configuraria evidente abuso do direito de recorrer. Precedentes.
+III – Ausência de teratologia, flagrante ilegalidade ou abuso de poder que possa abrandar a impossibilidade de superação do óbice aqui reconhecido, a permitir a análise das questões trazidas neste habeas corpus.
+IV – Agravo regimental improvido (HC 235.104 AgR/GO, da minha relatoria, Primeira Turma, DJe 14/12/2023).
+
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO VOLTADA CONTRA DECISÃO MONOCRÁTICA DE MINISTRO DE TRIBUNAL SUPERIOR. IMPOSSIBILIDADE DE SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE ILEGALIDADE. PRECEDENTES.
+1. Incidência de óbice ao conhecimento da ordem impetrada neste SUPREMO TRIBUNAL FEDERAL, uma vez que se impugna decisão monocrática de Ministro do Superior Tribunal de Justiça (HC 219.841-AgR, Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 6/10/2022; HC 219.672-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 6/10/2022; HC 216.953-AgR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 29/9/2022; HC 217.751-AgR, Rel. Min. CÁRMEN LÚCIA, Primeira Turma, DJe de 27/9/2022; HC 208.035-AgR, Rel. Min. EDSON FACHIN, Segunda Turma, DJe de 21/9/2022; RHC 213.550-AgR, Rel. Min. ANDRÉ MENDONÇA, Segunda Turma, DJe de 1º/9/2022; HC 216.979-AgR, Rel. Min. GILMAR MENDES, Segunda Turma, DJe de 25/8/2022; HC 216.955-AgR, Rel. Min. ROSA WEBER, Primeira Turma, DJe de 25/8/2022; HC 217.067-AgR, Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 24/8/2022; RHC 214.783-AgR, Rel. Min. NUNES MARQUES, Segunda Turma, DJe de 4/8/2022).
+2. O exaurimento da instância recorrida é, como regra, pressuposto para ensejar a competência do SUPREMO TRIBUNAL FEDERAL, conforme vem sendo reiteradamente proclamado por esta CORTE (HC 211.364-AgR, Rel. Min. EDSON FACHIN, Segunda Turma, DJe de 24/8/2022; HC 172.384, Rel. Min. MARCO AURÉLIO, Rel. p/ Acórdão Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 10/2/2021; HC 180.895-AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe de 18/6/2020; HC 262.350, Rel. p/ Acórdão: Min. ROSA WEBER, Primeira Turma, DJe de 30/8/2019).
+3. Inexistência de teratologia ou caso excepcional caracterizadores de flagrante constrangimento ilegal.
+4. Agravo Regimental a que se nega provimento (HC 228.736 AgR/BA, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe 27/6/2023).
+
+Porém, considerando as excepcionais circunstâncias do caso, bem como os fundamentos expostos pelo Ministro Vice-Presidente, entendo que a liminar deferida nestes autos deve ser mantida. Eis os seus fundamentos:
+
+[...]
+Incidiria, como regra, óbice ao conhecimento da ordem impetrada neste SUPREMO TRIBUNAL FEDERAL, uma vez que se impugna decisão monocrática de Ministro do Superior Tribunal de Justiça (HC 260309 AgR, Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 17/9/2025; HC 260318 AgR, Rel. Min. CRISTIANO ZANIN, Primeira Turma, DJe de 17/9/2025; HC 260219 AgR, Rel. Min, FLÁVIO DINO, Primeira Turma, DJe de 22/9/2025; HC 259789 AgR, Rel. Min. DIAS TOFFOLI, Segunda Turma, DJe de 10/9/2025; HC 208.035-AgR, Rel. Min. EDSON FACHIN, Segunda Turma, DJe de 21/9/2022; RHC 213.550-AgR, Rel. Min. ANDRÉ MENDONÇA, Segunda Turma, DJe de 1º/9/2022; HC 216.979-AgR, Rel. Min. GILMAR MENDES, Segunda Turma, DJe de 25/8/2022; HC 216.955-AgR, Rel. Min. ROSA WEBER, Primeira Turma, DJe de 25/8/2022; HC 217.067-AgR, RHC 214.783-AgR, Rel. Min. NUNES MARQUES, Segunda Turma, DJe de 4/8/2022).
+De fato, o exaurimento da instância recorrida é, como regra, pressuposto para ensejar a competência do SUPREMO TRIBUNAL FEDERAL, conforme vem sendo reiteradamente proclamado por esta CORTE (HC 211.364-AgR, Rel. Min. EDSON FACHIN, Segunda Turma, DJe de 24/8/2022; HC 172.384, Rel. Min. MARCO AURÉLIO, Redator p para o Acórdão: Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 10/2/2021; HC 180.895-AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe de 18/6/2020; HC 262.350, Redatora p/ Acórdão: Min. ROSA WEBER, Primeira Turma, DJe de 30/8/2019).
+Como bem apontado pelo Ministro LUIZ FUX, com base em diversos outros precedentes desta Primeira Turma, em regra, a flexibilização dessa norma implicaria afastamento do texto da Constituição, pois a competência deste SUPREMO TRIBUNAL, sendo matéria de direito estrito, não pode ser interpretada de forma ampliada para alcançar autoridades, no caso, membros de Tribunais Superiores, cujos atos não estão submetidos à apreciação do SUPREMO TRIBUNAL FEDERAL (HC 181.447-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 21/5/2020).
+Esta Primeira Turma vem autorizando, somente em circunstâncias específicas, o exame de habeas corpus quando não encerrada a análise na instância competente, óbice superável apenas em hipótese de teratologia (HC 2156.951-AgR, Primeira Turma, DJe de 25/8/2022) ou em casos excepcionais (HC 212.368-AgR, Primeira Turma, DJe de 25/4/2022), como bem destacado pela Ministra ROSA WEBER.
+No entanto, ao menos neste juízo preliminar, é possível afirmar que o presente caso apresenta excepcionalidade a ensejar a atuação deste TRIBUNAL.
+O essencial em relação às liberdades individuais, em especial a liberdade de ir e vir, não é somente sua proclamação formal nos textos constitucionais ou nas declarações de direitos, mas a absoluta necessidade de sua pronta e eficaz consagração no mundo real, de maneira prática e eficiente, a partir de uma justa e razoável compatibilização com os demais direitos fundamentais da sociedade, de maneira a permitir a efetividade da Justiça Penal.
+MAURICE HAURIOU ensinou a importância de compatibilização entre a Justiça Penal e o direito de liberdade, ressaltando a consagração do direito à segurança, ao salientar que em todas as declarações de direitos e em todas as Constituições revolucionárias figura a segurança na primeira fila dos direitos fundamentais, inclusive apontando que os publicistas ingleses colocaram em primeiro plano a preocupação com a segurança, pois, conclui o Catedrático da Faculdade de Direito de Toulouse, por meio do direito de segurança, se pretende garantir a liberdade individual contra o arbítrio da justiça penal, ou seja, contra as jurisdições excepcionais, contra as penas arbitrárias, contra as detenções e prisões preventivas, contra as arbitrariedades do processo criminal (Derecho Público y constitucional. 2. ed. Madri: Instituto editorial Réus, 1927. p. 135-136).
+Essa necessária compatibilização admite a relativização da liberdade de ir e vir em hipóteses excepcionais e razoavelmente previstas nos textos normativos, pois a consagração do Estado de Direito não admite a existência de restrições abusivas ou arbitrárias à liberdade de locomoção, como historicamente salientado pelo grande magistrado inglês COKE, em seus comentários a CARTA MAGNA, de 1642, por ordem da Câmara dos Comuns, nos estratos do Segundo Instituto, ao afirmar: que nenhum homem seja detido ou preso senão pela lei da terra, isto é, pela lei comum, lei estatutária ou costume da Inglaterra (capítulo 29). Com a consagração das ideias libertárias francesas do século XVIII, como lembrado pelo ilustre professor russo de nascimento e francês por opção, MIRKINE GUETZÉVITCH, essas limitações se tornaram exclusivamente trabalho das Câmaras legislativas, para se evitar o abuso da força estatal (As novas tendências do direito constitucional. Companhia editora nacional, 1933. p. 77 ss).
+No presente caso, não houve a devida compatibilização, em virtude das circunstâncias e condições em que se desenvolveu a ação, uma vez que a paciente foi presa preventivamente com base em acusação por tráfico ilícito de entorpecentes em decorrência da apreensão de “12 porções de crack com peso de 5 gramas”, tendo o Juízo de origem, inclusive, consignado que a paciente é “primária”.
+Em casos similares, esta CORTE tem decidido pela ilegalidade da prisão preventiva: HC 258294, Rel. Min. ALEXANDRE DE MORAES, DJe de 18/7/2025; HC 253040, Rel. Min. ALEXANDRE DE MORAES, DJe de 21/3/2025; HC 135.250, Rel. Min. TEORI ZAVASCKI, Segunda Turma, DJe de 29/9/2016; HC 128.454, Rel. Min. GILMAR MENDES, Segunda Turma, DJe de 29/10/2015; HC 121.537, Relator Min. MARCO AURÉLIO, Relator para o Acórdão: Min. ROBERTO BARROSO, Primeira Turma, DJe de 3/2/2015; RHC 118.200, Relator Min. LUIZ FUX, Primeira Turma, DJe de 3/9/2014; HC 95.790, Relator Min. EROS GRAU, Segunda Turma, DJe de 21/11/2008.
+Não estão, portanto, presentes os requisitos necessários para a manutenção da medida extrema, sendo possível sua substituição por medidas cautelares diversas (CPP, art. 319), que se revelam, na presente hipótese, suficientes para garantir a ordem pública, a aplicação da lei penal e a regular instrução criminal.
+Enfim, como nenhum homem ou mulher poderá ser privado de sua liberdade de ir e vir sem expressa autorização constitucional e de acordo com os excepcionais e razoáveis requisitos legais, pois o direito à liberdade de locomoção resulta da própria natureza humana, como ensinou o grande constitucionalista do Império, Pimenta Bueno (Direito público brasileiro e análise da Constituição do Império. Rio de Janeiro: Ministério da Justiça e Negócios Interiores, 1958. p. 388); o presente Habeas Corpus é meio idôneo para garantir todos os direitos legais previstos ao paciente e relacionados com sua liberdade de locomoção, mesmo que, como salientado pelo Ministro CELSO DE MELLO, na simples condição de direito-meio, essa liberdade individual esteja sendo afetada apenas de modo reflexo, indireto ou oblíquo (Constituição Federal anotada. 2. ed. São Paulo: Saraiva, 1986. p. 459).
+Diante do exposto, DEFIRO O PEDIDO DE LIMINAR para suspender a prisão preventiva decretada contra a paciente, nos autos do Processo 1502169-44.2025.8.26.0442 (Vara Regional das Garantias da 4ª Região Administrativa Judiciária da Comarca de Campinas/SP), com a ressalva de que o Juízo competente fica autorizado a impor medidas cautelares diversas (CPP, art. 319).
+Comunique-se, com urgência, ao Juízo de origem, solicitando-lhe informações. Após, remetam-se os autos ao Ministro relator (doc. 6 — grifos meus e no original).
+
+Posto isso, superando o óbice quanto ao não conhecimento, concedo a ordem de habeas corpus (art. 192 do Regimento Interno do STF), para confirmar a liminar deferida e, como corolário, revogar a prisão preventiva decretada contra a paciente, nos autos do Processo 1502169-44.2025.8.26.0442 (Vara Regional das Garantias da 4ª Região Administrativa Judiciária da Comarca de Campinas/SP), com a ressalva de que o Juízo competente fica autorizado a impor medidas cautelares diversas previstas no art. 319 do CPP.
+
+Publique-se.
+
+Comunique-se.
+
+Atribua-se a esta decisão força de mandado/ofício.
+
+Brasília, 31 de janeiro de 2026.
+
+Ministro Cristiano Zanin
+Relator
