@@ -1,0 +1,44 @@
+DECISÃO
+
+1. A defesa de Guilherme Henrique de Avila impetrou habeas corpus contra acórdão do Superior Tribunal de Justiça que está assim ementado:
+
+DIREITO PENAL. AGRAVO REGIMENTAL. TRANCAMENTO DA AÇÃO PENAL. ORGANIZAÇÃO CRIMINOSA. ALEGAÇÃO DE AUSÊNCIA DE JUSTA CAUSA E INÉPCIA DA DENÚNCIA. REQUISITOS ATENDIDOS. REEXAME DE PROVAS. AGRAVO REGIMENTAL NÃO PROVIDO. I. CASO EM EXAME 1. Agravo regimental interposto contra decisão que negou provimento a recurso em habeas corpus, em virtude da ausência de flagrante ilegalidade apta a ensejar a interrupção da ação penal ajuizada contra o agravante. 2. A defesa sustenta a tese de inépcia da denúncia, alegando que esta se baseia exclusivamente em declarações de colaboradores, sem o necessário lastro probatório mínimo de corroboração quanto à conduta atribuída ao agravante, então prefeito. 3. Alega-se que as reintegrações de servidores seguiram orientações técnicas e legais, baseadas em pareceres e recursos administrativos, e que os servidores reintegrados devolveram os valores indevidamente recebidos, o que contradiz a existência de esquema criminoso vinculado às decisões administrativas questionadas. 4. Requer-se a reconsideração da decisão ou o provimento do agravo para rejeitar a denúncia ofertada em desfavor do agravante. II. QUESTÃO EM DISCUSSÃO 5. A questão em discussão consiste em saber se a denúncia, que descreve de forma objetiva e suficiente as condutas delituosas do agravante, está em conformidade com os requisitos do art. 41 do Código de Processo Penal e permite o exercício da ampla defesa e do contraditório. 6. Saber se há ausência de justa causa para a ação penal, considerando a alegação de inépcia da denúncia por estar embasada exclusivamente em depoimentos de colaboradores, sem lastro probatório mínimo de corroboração. III. RAZÕES DE DECIDIR 7. A denúncia qualifica devidamente o acusado, descreve de forma objetiva e suficiente as condutas delituosas, demonstra indícios suficientes de autoria, prova da materialidade e existência de nexo causal, estando em conformidade com os requisitos do art. 41 do Código de Processo Penal e do art. 5º, LV, da Constituição Federal. 8. A ampla defesa e o contraditório são garantidos pela narrativa delitiva, sendo reservado para a instrução criminal o detalhamento mais preciso das condutas dos acusados. 9. A alegação de ausência de justa causa para a ação penal deve ser debatida durante a instrução processual, pois depende de aprofundada análise do conjunto fático-probatório. 10. O trancamento da ação penal é medida excepcional, cabível apenas quando a ilegalidade seja identificável sem esforço interpretativo, o que não se verifica no caso dos autos. 11. A análise da nulidade da denúncia embasada exclusivamente em depoimento de colaborador não pode ser realizada diretamente por esta Corte, sob pena de supressão de instância. IV. DISPOSITIVO E TESE 12. Resultado do Julgamento: Agravo regimental não provido. Tese de julgamento: 1. A denúncia que descreve de forma objetiva e suficiente as condutas delituosas, demonstra indícios suficientes de autoria, prova da materialidade e existência de nexo causal, está em conformidade com os requisitos do art. 41 do Código de Processo Penal e do art. 5º, LV, da Constituição Federal. 2. A alegação de ausência de justa causa para a ação penal deve ser debatida durante a instrução processual, pois depende de análise aprofundada do conjunto fático-probatório. 3. O trancamento da ação penal é medida excepcional, cabível apenas quando a ilegalidade seja identificável sem esforço interpretativo. 4. A análise da nulidade da denúncia embasada exclusivamente em depoimento de colaborador não pode ser realizada diretamente por esta Corte, sob pena de supressão de instância.
+(RHC 221.005 AgRg, ministro Joel Ilan Paciornik)
+
+Em suas razões, a defesa pretende seja rejeitada “a peça acusatória ofertada nos autos da Ação Penal n.º 1012060-81.2023.8.26.0066, em curso perante a 1.ª Vara Criminal da Comarca de Barretos (SP), nos termos dos artigos 4.º, §16, II, da Lei n.º 12.850/2013, e 395, III, do Código de Processo Penal”.
+É o relatório.
+
+2. O processo está em condições de ser julgado, nos termos do art. 52, parágrafo único, do Regimento Interno. Dispenso a remessa ao Ministério Público Federal.
+
+Tal o contexto, entendo não assistir razão à parte impetrante.
+
+Inicialmente, o Superior Tribunal de Justiça, ao afastar as alegações da parte impetrante, assim se manifestou(com meus grifos):
+
+Como outrora afirmado, no caso, na esteira da fundamentação dada pelo Tribunal de origem, a denúncia faz a devida qualificação do acusado, descreve de forma objetiva e suficiente as condutas delituosas por ele perpetradas, que, em tese, configuram o crime do art. 2º, § 3º e § 4º, inciso II, da Lei n. 12.850/13, porquanto o ora recorrente, na qualidade de prefeito, integrava organização criminosa que atuava na Prefeitura de Barretos/SP, juntamente com outros diversos servidores e contratados, voltada para a prática de crimes patrimoniais contra o erário, mediante manipulação ilícita de folhas de pagamento, para recebimento de valores maiores do que os devidos, demostrando indícios suficientes de autoria, prova da materialidade e a existência de nexo causal e, ao revés do alegado nas razões recursais, não faz imputações genéricas, traz, outrossim, relação de testemunhas, pelo que se mostra em conformidade com o comando pertinente do Estatuto Processual Penal (requisitos exigidos pelo art. 41 do CPP) e de acordo com o art. 5º, LV, da CF/88, de modo a permitir o exercício da ampla defesa e do contraditório.
+De outra parte, não se pode descuidar do fato de que da narrativa delitiva deve ser possível o exercício da ampla defesa e do contraditório, bem como lembrar que os acusados se defendem dos fatos e não da tipificação dada pelo Parquet, sendo reservado para a instrução criminal o detalhamento mais preciso de suas condutas, a fim de que se permita a correta e equânime aplicação da lei penal.
+Outrossim, demonstrada a materialidade do delito, bem como indícios de autoria, a alegação de ausência de justa causa para a ação penal somente deverá ser debatida durante a instrução processual, na medida em que depende de aprofundada incursão no conjunto fático-probatório da demanda.
+[...]
+Como se vê, a jurisprudência desta Corte Superior é uníssona no sentido de que o trancamento da ação penal é medida excepcional, cabível apenas quando a ilegalidade seja identificável sem esforço interpretativo e, no caso dos autos, os fundamentos do Tribunal a quo demonstram a existência de justa causa para o prosseguimento da ação penal. Destarte, não identifica-se flagrante ilegalidade apta a ensejar a açodada interrupção da ação penal em relação ao agravante.
+
+Com efeito, este Supremo Tribunal Federal consolidou sua jurisprudência no sentido de que o trancamento da ação penal só é viável por meio de habeas corpus em casos excepcionais, quando for evidente a atipicidade da conduta, a extinção da punibilidade ou a ausência de justa causa (HC 186.154 AgR, ministro Gilmar Mendes; HC 187.227 AgR, ministro Ricardo Lewandowski):
+
+“1. O trancamento da ação penal, por meio do habeas corpus, só é possível quando estiverem comprovadas, de plano, a atipicidade da conduta, a extinção da punibilidade ou a evidente ausência de justa causa. Precedentes.”
+(HC 191.216 AgR, ministro Roberto Barroso)
+
+Nesse contexto conforme exposto pelo ato dito coator “demonstrada a materialidade do delito, bem como indícios de autoria, a alegação de ausência de justa causa para a ação penal somente deverá ser debatida durante a instrução processual, na medida em que depende de aprofundada incursão no conjunto fático-probatório da demanda”.
+
+Por fim, no tocante à alegação de nulidade da denúncia embasada exclusivamente em depoimento de colaborador, reputo inadmissível o presente habeas corpus, eis que o acórdão ora impugnado não apreciou, no ponto, a pretensão formulada pela parte impetrante.
+
+Ressalte-se que esta Suprema Corte consolidou sua jurisprudência no sentido de não se conhecer de habeas corpus, quando as razões apresentadas pela parte impetrante não houverem sido apreciadas pelo Tribunal apontado como coator, por caracterizar-se inadmissível supressão de instância (HC 192.077 AgR, ministra Cármen Lúcia; HC 157.575 AgR, ministro Dias Toffoli; HC 164.611 AgR, ministro Edson Fachin;    HC 190.387, ministro Gilmar Mendes; HC 189.201 AgR, ministro Luiz Fux; HC 190.319 AgR, ministro Ricardo Lewandowski; HC 188.702 AgR, ministro Roberto Barroso).
+
+Em síntese, não vislumbro demonstrada nestes autos excepcionalidade apta a justificar o trancamento da ação penal instaurada contra o paciente.
+
+3. Em face do exposto, nego seguimento ao presente habeas corpus (art. 21, §1º, do RISTF).
+
+4. Intime-se. Publique-se.
+
+Brasília, 1º de fevereiro de 2026.
+
+Ministro NUNES MARQUES
+Relator
+Documento assinado digitalmente
