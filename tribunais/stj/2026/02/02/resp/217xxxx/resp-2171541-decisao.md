@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de Recurso Especial interposto por GENERALI BRASIL SEGUROS S A, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL, assim ementado (e-STJ, fls. 580):
+APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA DE INDENIZAÇÃO SECURITÁRIA - DOENÇA DEGENERATIVA AGRAVADA PELA ATIVIDADE LABORAL - LAUDO PERICIAL CONCLUSIVO - INVALIDEZ PERMANENTE PARCIAL POR ACIDENTE - INDENIZAÇÃO DEVIDA - VALOR DA INDENIZAÇÃO DE MODO PROPORCIONAL AO GRAU DA LESÃO - OBSERVÂNCIA À TESE FIRMADA NO JULGAMENTO DO TEMA N.º 1.112 DO STJ - DEVER DA ESTIPULANTE DE PRESTAR INFORMAÇÕES QUANTO ÀS CLÁUSULAS RESTRITIVAS AO SEGURADO - VALOR DO SEGURO LIMITADO TABELA SUSEP - CORREÇÃO MONETÁRIA SEGUNDO A SÚMULA 632 DO STJ - SENTENÇA REFORMADA - RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Se a atividade laboral exercida pelo segurado contribuiu para o agravamento de suas lesões degenerativas, atuando como concausa para a incapacidade ao exercício da sua atividade habitual, deve ser equiparada a acidente de trabalho, sendo devida a indenização por invalidez permanente por acidente.
+De acordo com a tese firmada pelo STJ no julgamento dos Recursos Especiais n.º 1.874.811/SC e 1.874.788/SC, sob o rito dos recursos repetitivos - Tema n.º 1.112 -, "na modalidade de contrato de seguro de vida coletivo, cabe exclusivamente ao estipulante, mandatário legal e único sujeito que tem vínculo anterior com os membros do grupo segurável (estipulação própria), a obrigação de prestar informações prévias aos potenciais segurados acerca das condições contratuais quando da formalização da adesão, incluídas as cláusulas limitativas e restritivas de direito previstas na apólice mestre".
+Por ser de responsabilidade da empresa estipulante a prestação de informações ao segurado acerca das limitações contratuais, verificada expressa previsão contratual de pagamento de indenização securitária proporcionalmente às lesões apuradas, conforme tabela da SUSEP, não é possível impor à Seguradora o pagamento integral da indenização.
+Nos contratos de seguro regidos pelo Código Civil, a correção monetária sobre a indenização securitária incide a partir da contratação até o efetivo pagamento (Súmula n.º 632 do STJ).
+Segundo a parte recorrente, o recurso preenche os requisitos necessários ao conhecimento e provimento.
+Intimada nos termos do art. 1.030 do Código de Processo Civil, a parte recorrida não se manifestou.
+É o relatório.
+DECIDO.
+O recurso especial é tempestivo e cabível, pois interposto em face de decisão que proveu parcialmente recurso de apelação interposto na origem (art. 105, III, "a", da Constituição Federal).
+No presente processo, a parte afirma, em suma, que estão presentes os requisitos para o conhecimento e provimento de seu recurso.
+Prospera a irresignação recursal.
+A controvérsia do presente recurso resume-se em definir se seria devida indenização securitária pelo recorrido ao recorrente, com base em contrato de seguro coletivo.
+Ao enfrentar a questão, o Tribunal de origem assim se manifestou (e-STJ, fls. 583 e 585):
+Ou seja, o periciado possui invalidez parcial permanente decorrente de doença ocupacional, de grau moderado (50%).
+Após tais constatações, é claro que as moléstias que acometem a requerente são de cunho degenerativo, pois decorrentes das atividades profissionais e com elas se agravam, como se infere, perfeitamente, da perícia médica elaborada nos autos.
+Essa afirmativa é essencial para o enquadramento da situação como equiparada a acidente de trabalho, uma vez que a doença tem concausa com as atividades desempenhadas no serviço.
+(..) Portanto, evidente que o caso trata de acidente caracterizado como pessoal ocorrido no trabalho e, sendo certo que do sinistro decorreu perda parcial e permanente das estruturas articulares superiores (ombros), resta configurado o dever de indenizar, ante a cobertura do risco na apólice, nos moldes das disposições dos art. 757 e 760, ambos do Código Civil, observado o entendimento jurisprudencial supracitado.
+Esclareço que, vislumbrada a configuração da invalidez permanente total ou parcial por acidente - IPA, é desnecessário discorrer sobre a invalidez funcional permanente e total por doença - IFPD, que, embora tenha cobertura contratual e também tenha sido mencionada nas razões do recurso, não guarda relação com a discussão em análise.
+Verifica-se que a instância originária reconheceu o direito à indenização securitária procedendo à equiparação de doença profissional desenvolvida pelo recorrido com acidente de trabalho.
+A doença profissional, contudo, não constava expressamente como acobertada no contrato, sendo que foi necessária sua equiparação com acidente para, então, fosse entedida ser devida a indenização.
+Nesse cenário, a posição da Corte local não guarda harmonia com a jurisprudência do Superior Tribunal de Justiça, no sentido de que a interpretação do contrato de seguro de ordem coletiva deve ser restriva, não cabendo a equipação entre a moléstia profissional e causa acidentária.
+Nesse sentido:
+AGRAVO EM RECURSO ESPECIAL. SEGURO DE SAÚDE E/OU ACIDENTES PESSOAIS. APÓLICE EM GRUPO. AÇÃO DE COBRANÇA DE INDENIZAÇÃO. ARGUIÇÃO DE QUE A DOENÇA DO TRABALHO É EQUIPARADA AO ACIDENTE DE TRABALHO PARA EFEITOS DE INDENIZAÇÃO SECURITÁRIA. INCIDÊNCIA DAS SÚMULAS NºS 5, 7 E 83/STJ. DISSÍDIO PREJUDICADO.
+1. A jurisprudência do Superior Tribunal de Justiça é no sentido de que, nos contratos de seguro de vida em grupo, diante da necessidade de interpretação restritiva das cláusulas do seguro, é inviável a equiparação entre doença profissional e acidente de trabalho para recebimento de indenização securitária, notadamente quando há exclusão de cobertura da invalidez parcial por doença laboral.
+2. A revisão da conclusão a que chegou o Tribunal de origem, de que a incapacidade laboral parcial se deu por doença ocupacional não coberta pela apólice, esbarra no óbice das Súmulas nºs 5 e 7/STJ. 3.
+A incidência dos referidos óbices sumulares prejudica a análise da alegada divergência jurisprudencial, porquanto não é possível identificar similitude fática entre o acórdão recorrido e os julgados paradigmas, visto que as divergências de conclusão não derivam de interpretações diversas, mas sim das particularidades dos fatos, das provas e das circunstâncias específicas do caso em questão.
+4. Agravo conhecido para não conhecer do recurso especial.
+(AREsp n. 2.738.976/MS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 18/8/2025, DJEN de 21/8/2025. Grifo Acrescido)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO SECURITÁRIA. SEGURO DE VIDA EM GRUPO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. IMPOSSIBILIDADE DE EQUIPARAÇÃO ENTRE DOENÇA PROFISSIONAL E ACIDENTE PESSOAL.
+1. Ação de indenização securitária, fundada em contrato de seguro de vida em grupo.
+2. Ausentes os vícios do art. 1022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. Nos termos da jurisprudência do STJ, a modalidade de seguro IPA (Invalidez por Acidente Pessoal) não estende sua cobertura à doença profissional.
+5. A jurisprudência desta Corte Superior orienta que a existência de cláusula que exclui as "doenças profissionais" do conceito de acidente pessoal é válida, sendo descabido, nessa hipótese, equiparar os microtraumas repetitivos decorrentes da atividade laboral a um acidente pessoal, para fins de cobertura securitária.
+6. Recurso especial conhecido e parcialmente provido.
+(REsp n. 2.201.253/MS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 19/5/2025, DJEN de 23/5/2025. Grifo Acrescido)
+Assim, trata-se de hipótese de improcedência do pedido, tal pronunciou-se o magistrado de primeira instância, cuja sentença deverá ser restabelecida (e-STJ, fl. 552):
+O laudo pericial (fls. 487/503) consigna que "o periciado apresenta INVALIDEZ PARCIAL PERMANENTE POR DOENÇA OCUPACIONAL de grau moderado (50%), para o trabalho genérico (de qualquer natureza, exercido por todas as pessoas, independente da especialização)", notando-se que não infirmada as conclusões do perito do juízo pela parte autora.
+Assim, porque a incapacidade da parte autora não decorria de acidente, mas sim de doença, lícita a recusa da Requerida ao pagamento de indenização relativa à cobertura securitária oriunda de acidente, salientando-se que é ônus da estipulante (empregadora) prestar as informações acerca das "condições gerais" do contrato de seguro (e não da parte ré) (..).
+Ante o exposto, conheço do recurso especial e dou-lhe provimento para, em reforma do acórdão impugnado, restabelecer a sentença de primeira instância (e-STJ, fls. 551/533), julgando-se improcedente o pedido deduzido na inicial, com a condenação do autor, ora recorrido, ao ônus sucumbencial, nos termos daquela decisão.
+Publique-se. Intimem-se.
+EMENTA
