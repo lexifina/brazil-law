@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Instituto Nacional do Seguro Social (INSS), com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do Tribunal Regional Federal da 4ª Região (TRF4) assim ementado (fl. 17):
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO DE INSTRUMENTO. REAFIRMAÇÃO DA DER NA EXECUÇÃO. AUSÊNCIA DE PREVISÃO NO TÍTULO EXECUTIVO. IMPOSSIBILIDADE. OBSERVÂNCIA DO ACÓRDÃO. CONCESSÃO DE APOSENTADORIA INTEGRAL SEM A INCIDÊNCIA DO FATOR PREVIDENCIÁRIO. A reafirmação da DER, ainda que se trate de matéria que vem sendo admitida pela Terceira Seção deste Tribunal, constitui técnica de julgamento da pretensão previdenciária que constrói o regramento em torno da certificação do direito do autor, e não mera fórmula de cumprimento da sentença. Na fase de cumprimento de sentença deve ser observada a determinação contida no título judicial. Se o acórdão concede a aposentadoria integral por tempo de contribuição, sem a incidência do fator previdenciário, deve o benefício ser implantado nestes moldes, cabendo ao INSS, se entender que está equivocado o título (não foi possível afastar o fator previdenciário, tal fato se deu em razão de irregularidade no título) ajuizar a ação rescisória.
+Os embargos de declaração opostos foram acolhidos em parte, para agregar fundamentação, sem alteração de resultado (fls. 27/29).
+A parte recorrente alega violação dos arts. 463, inciso I, do Código de Processo Civil (CPC), 48, parágrafo único, da Lei 9.099/1995, e 57 da Lei 8.213/1991, afirmando tratar-se de "erro material" na soma do tempo de contribuição, o qual pode ser corrigido de ofício e a qualquer tempo, sem ofensa à coisa julgada (fls. 32/36).
+Sustenta ofensa ao art. 1.022, inciso II, do CPC, por negativa de prestação jurisdicional, porque o Tribunal de origem teria sido omisso quanto à aplicabilidade dos arts. 463, inciso I, do CPC, 48, parágrafo único, da Lei 9.099/1995, e 57 da Lei 8.213/1991, mesmo após a oposição de embargos de declaração, necessários ao prequestionamento (fls. 32/33).
+Aponta violação das Súmulas 98 do Superior Tribunal de Justiça (STJ), 356 do Supremo Tribunal Federal (STF) e 211 do STJ, ao argumento de que os embargos de declaração, opostos com propósito de prequestionamento, não têm caráter protelatório (Súmula 98/STJ); de que o ponto omisso não pode ser objeto de recurso extraordinário sem prévio embargos (Súmula 356/STF); e de que é inadmissível o recurso especial quando, a despeito da oposição de embargos de declaração, a questão não foi apreciada pelo Tribunal de origem (Súmula 211/STJ) (fls. 33/34).
+Argumenta que, na execução, a unidade técnica do INSS constatou o cômputo correto de 33 anos, 5 meses e 3 dias, ao passo que o título judicial teria consignado, por equívoco, "79 anos, 3 meses e 20 dias", caracterizando mero erro aritmético sanável de ofício, sem revisão de mérito ou reexame probatório (fls. 32/36).
+Contrarrazões apresentadas às fls. 38/42.
+O recurso foi admitido (fl. 43).
+É o relatório.
+Na origem cuida-se de ação ordinária previdenciária, com pedido de concessão de aposentadoria por tempo de contribuição na data de entrada do requerimento de 30/03/2017, sem incidência do fator previdenciário.
+Rejeito a alegação de ofensa aos arts. 463, I, e 1.022, II, do CPC. Diversamente do alegado, a controvérsia foi resolvida com base em fundamentos suficientes.
+Quanto à questão de fundo, a tese jurídica consolidada foi:
+(a) A reafirmação da DER não é ato de execução do título, mas técnica de julgamento do mérito, inadmissível em execução quando não prevista no título, sendo limitada, nos termos do Incidente de Assunção de Competência nº 5007975-25.2013.4.04.7003/PR, até a data do julgamento da apelação ou da remessa necessária (fl. 16); (b) Prevalece a coisa julgada material e deve ser cumprido o título judicial que concedeu aposentadoria integral por tempo de contribuição, sem incidência do fator previdenciário, na DER de 30/03/2017; eventual inconformismo do INSS deve ser deduzido por ação rescisória (fls. 16/17 e 28); (c) A correção de erro material, prevista no art. 494, inciso I, do CPC, não autoriza, na execução, reabrir discussão de mérito ou promover revolvimento da causa quando há trânsito em julgado que definiu a forma de concessão do benefício (fls. 27/28).
+Pois bem, é firme o entendimento no âmbito deste Tribunal Superior segundo o qual somente o erro material derivado de simples cálculo aritmético ou inexatidão material pode ser corrigido a qualquer tempo, enquanto os erros sobre os elementos ou critérios de cálculo, inclusive no que concerne a juros moratórios e correção monetária, sujeitam-se à preclusão.
+Na espécie, se está diante de erro relacionado a critérios de cálculo.
+A propósito:
+PROCESSUAL CIVIL. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. JUROS E CORREÇÃO MONETÁRIA. COISA JULGADA. SENTENÇA POSTERIOR AO CÓDIGO CIVIL DE 2002. PRECLUSÃO PRO JUDICATO.
+1. Na hipótese dos autos, verifica-se às fls. 185-186/e-STJ, que a sentença exequenda foi exarada em 18.3.2014, ou seja, posteriormente ao novo Código Civil.
+2. Nos termos da jurisprudência do STJ: "proferida a sentença após a entrada em vigor do Código Civil de 2002, é inviável a alteração do percentual fixado a título de juros moratórios na execução, sob pena de ofensa à coisa julgada".
+3. Outrossim, é firme o entendimento do STJ de que a preclusão pro judicato afasta a necessidade de novo pronunciamento judicial acerca de matérias novamente alegadas, mesmo as de ordem pública, por se tratar de matéria já decidida.
+4. Agravo Interno não provido.
+(AgInt nos EDcl no AREsp 1887018/DF, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 28/03/2022, DJe 12/04/2022).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO. HONORÁRIOS ADVOCATICIOS. PAGAMENTO SUPLEMENTAR. PRETENSO ERRO MATÉRIAL EM SUA BASE DE CALCULO. PRECLUSÃO.
+1. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que o erro material, passível de alteração a qualquer tempo, é aquele derivado de simples cálculo aritmético, ou inexatidão material, e não o decorrente de elementos ou critérios de cálculo, como ocorre no presente caso em que a base de cálculo utilizada na conta apresentada pela recorrente foi equivocada.
+Precedentes.
+2. Agravo interno não provido. (AgInt no AREsp 964.335/CE, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 18/8/2021).
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. CÁLCULOS. OFENSA À COISA JULGADA E PRECLUSÃO. CONSTATAÇÃO. IMPOSSIBILIDADE. ÍNDICE DE CORREÇÃO MONETÁRIA. SÚMULA 283 DO STF. MULTA POR LITIGÂNCIA DE MÁ-FÉ. AFASTAMENTO. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. INVIABILIDADE. DIVERGÊNCIA JURISPRUDENCIAL. EXAME. PREJUÍZO.
+(..)
+4. Este Tribunal Superior entende que apenas "o erro material pode ser corrigido a qualquer tempo, enquanto os erros sobre os critérios do cálculo, inclusive, no que concerne juros moratórios e correção monetária sujeitam-se à preclusão" (AgInt no REsp 1718803/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 02/04/2019, DJe 04/04/2019).
+(..)
+9. Agravo interno desprovido. (AgInt no AREsp 1.311.173/MS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. VALOR DO DÉBITO. CRITÉRIOS DE CÁLCULO. INSURGÊNCIA POSTERIOR. PRECLUSÃO. SÚMULA Nº 568/STJ.
+1. O entendimento desta Corte Superior é no sentido de que o erro passível de correção a qualquer tempo é somente o material, ou seja, o erro aritmético evidente, sendo os critérios utilizados no cálculo dos juros e correção monetária passíveis de preclusão se não impugnados oportunamente. Precedentes.
+2. Os magistrados da instância ordinária decidiram em perfeita consonância com a jurisprudência desta Corte, circunstância que atrai a incidência da Súmula nº 568/STJ.
+3. Agravo interno não provido (AgInt no AREsp 1.042.254/PR, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe 20/11/2017).
+ADMINISTRATIVO E PROCESSUAL CIVIL. SERVIDOR PÚBLICO ESTADUAL. EXECUÇÃO DE SENTENÇA. CÁLCULO DO VALOR DEVIDO. ALÍQUOTA PREVIDENCIÁRIA. ALTERAÇÃO EM FASE DE EXECUÇÃO. IMPOSSIBILIDADE. AUSÊNCIA DE OPORTUNA IMPUGNAÇÃO DOS VALORES. PRECLUSÃO. ERRO MATERIAL. NÃO CONFIGURAÇÃO.
+1. Consoante a jurisprudência do STJ, erro material, passível de alteração a qualquer tempo, é aquele derivado de simples cálculo aritmético, ou inexatidão material, e não decorrente de elementos ou critérios de cálculo.
+2. Recurso Especial não provido (REsp 1.650.676/RS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 18/4/2017).
+Assim, constata-se que o aresto impugnado está em sintonia com a orientação do STJ, motivo pelo qual não merece prosperar a irresignação.
+Incide na espécie o princípio estabelecido na Súmula 83/STJ: "Não se conhece do Recurso Especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Ante o exposto, não conheço d o recurso especial.
+Publique-se. Intimem-se.
+EMENTA
