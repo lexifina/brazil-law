@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto por VANESSA MARIA DOS SANTOS contra decisão proferida pelo Tribunal de Justiça do Estado de Pernambuco, que não admitiu o recurso especial manejado com apoio no artigo 105, III, "a", da Constituição da República.
+Nas razões recursais, aduz a defesa violação do artigo 33, § 4º, da Lei n. 11.343/2006.
+Alega que a negativa do tráfico privilegiado carece de fundamento idôneo, pois: a quantidade de droga apreendida, por si só, não comprova dedicação a atividades criminosas; a apreensão de balança de precisão é elemento inerente ao próprio tipo penal e não demonstra habitualidade; a referência à participação de adolescentes não evidencia estabilidade ou permanência; e, ausente condenação por associação para o tráfico, não há base para presumir dedicação criminosa.
+Sustenta, ainda, que a conduta de "guardar" substância entorpecente para terceiro não identificado não justifica o afastamento do referido redutor.
+Requer o provimento do recurso para que seja reformado o acórdão recorrido.
+Contrarrazões às fls. 241-251 (e-STJ).
+O recurso foi inadmitido (e-STJ, fls. 252-257). Daí este agravo (e-STJ, fls. 260-263).
+O Ministério Público Federal opina pelo improvimento do recurso (e-STJ, fls. 293-294).
+É o relatório.
+Decido.
+O Tribunal de origem, ao afastar a condenação da recorrente pelo delito de associação para o tráfico e redimensionar a pena imposta pelo crime de tráfico de drogas, assim consignou, acerca da controvérsia (e-STJ, fl. 194):
+"Em relação ao tráfico privilegiado, entendo que o mesmo não deve ser reconhecido na hipótese. Com efeito, embora não reconhecida a associação para o tráfico, os elementos concretos do caso indicam, com segurança, a efetiva dedicação da acusada às atividades criminosas.
+Além da quantidade de droga apreendida (490g de maconha), acondicionada em mais de 100 (cem) porções, houve efetiva participação de adolescentes na empreitada e, em seu depoimento, a mesma informou que "guardava" a droga e os apetrechos (balança de precisão) a pedido de uma terceira pessoa não identificada, cuja identidade foi nitidamente protegida em seu depoimento, indicando que, de fato, não se tratou de conduta isolada, justificando o afastamento da referida causa de diminuição da pena."
+De acordo com o § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas.
+Na falta de parâmetros legais para se fixar o quantum dessa redução, os Tribunais Superiores decidiram que a quantidade e a natureza da droga apreendida, além das demais circunstâncias do delito, podem servir para a modulação de tal índice ou até mesmo para impedir a sua aplicação, quando evidenciarem o envolvimento habitual do agente com o narcotráfico (HC 401.121/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 27/6/2017, DJe 1º/8/2017 e AgRg no REsp 1.390.118/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julga do em 23/5/2017, DJe 30/5/2017).
+Os fundamentos utilizados pela Corte de origem para não aplicar o referido redutor ao caso concreto estão em consonância com a jurisprudência desta Corte Superior, na medida em que a recorrente mantinha um ponto de venda de drogas ("boca de fumo") e contratava adolescentes para venderem a droga, local onde foram apreendidos quase meio quilo de maconha, fracionada em mais de cem porções.
+Registre-se que, embora tenha sido absolvida do crime de associação para o tráfico de drogas, por ausência de comprovação da estabilidade e permanência dessa atuação conjunta, consta dos autos que os adolescentes teriam sido chamados por ela para morarem em sua casa e traficarem drogas (e-STJ, fl. 127 da sentença).
+Desse modo, para modificar o entendimento adotado nas instâncias inferiores de que a prática do tráfico de drogas e a dedicação em atividade criminosa estão configuradas e aplicar a minorante prevista na Lei de Drogas, seria necessário reexaminar o conteúdo probatório dos autos, o que é inadmissível, a teor da Súmula 7 do STJ.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. REGIME INICIAL DE CUMPRIMENTO. CAUSA ESPECIAL DE DIMINUIÇÃO (ART. 33, § 4.º, DA LEI N. 11.343/2006). FUNDAMENTAÇÃO. IDONEIDADE. QUESTÕES APRECIADAS NO HC N. 559.473/SP. PRECLUSÃO. REVISÃO POR ESTA CORTE SUPERIOR. FALTA DE COMPETÊNCIA. MINORANTE. REQUISITOS. AFERIÇÃO. INVIABILIDADE. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. No julgamento do Habeas Corpus n. 559.473/SP, em que o Agravante figurou como Paciente, foi reconhecida a idoneidade da fundamentação utilizada, pelas instâncias ordinárias, para negar a aplicação da causa de diminuição do art. 33, § 4.º, da Lei n. 11.343/2006.
+ ..
+4. Considerados idôneos os fundamentos utilizados pelas instâncias ordinárias para obstar a aplicação da minorante do tráfico privilegiado, para rever a conclusão, seria necessário o reexame de matéria fático-probatória, descabido em recurso especial, e não apenas a valoração das provas. Aplicação da Súmula n. 7 do STJ.
+5. Agravo regimental desprovido."
+(AgRg no AREsp 1780831/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 02/03/2021, DJe 11/03/2021)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL. ÓBICE DA SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL - STF. LEI DE DROGAS. APLICAÇÃO DE MINORANTE. DEDICAÇÃO À ATIVIDADE CRIMINOSA. DESCABIMENTO. REVISÃO. IMPOSSIBILIDADE. ÓBICE DA SÚMULA N. 7 DO SUPÉRIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO DESPROVIDO.
+ ..
+2. Nos termos da jurisprudência deste Sodalício, "para a aplicação da minorante prevista no § 4º do art. 33 da Lei de Drogas, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa nem se dedique a atividades delituosas. Isso porque a razão de ser da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 é justamente punir com menor rigor o pequeno traficante, ou seja, aquele indivíduo que não faz do tráfico de drogas o seu meio de vida; antes, ao cometer um fato isolado, acaba incidindo na conduta típica prevista no art. 33 da mencionada lei federal" (AgRg no REsp 1819027/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 15/9/2020, DJe 23/9/2020).
+3. Na hipótese, a decisão expressamente consignou que o réu se dedicava à atividade criminosa, sendo descabida a aplicação da referida causa de diminuição e, rever o referido entendimento esbarra diretamente no óbice da Súmula n. 7/STJ ante o necessário reexame fático-probatório da demanda.
+4. Agravo regimental desprovido."
+(AgRg no AREsp 1714857/RJ, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 24/11/2020, DJe 27/11/2020)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "a", do Regimento Interno do STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
