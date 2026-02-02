@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de Recurso Especial interposto por GUSTAVO PEIXOTO SCARANO, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado (e-STJ, fls. 467):
+APELAÇÃO RECURSO DA RÉ AÇÃO DESCONSTITUTIVA E CONDENATÓRIA PROMESSA DE COMPRA E VENDA SUBMISSÃO AO REGIME DE PATRIMÔNIO DE AFETAÇÃO CONTRATO POSTERIOR À LEI DO DISTRATO APLICAÇÃO DAS NORMAS POSITIVADAS ACERCA DA RESILIÇÃO UNILATERAL POR INICIATIVA DOS PROMITENTES COMPRADORES PERCENTUAL DE RETENÇÃO FIXADO EM 50% PREVISÃO LEGAL E PRECEDENTE DESTA C. CÂMARA R. SENTENÇA PARCIALMENTE REFORMADA RECURSO PROVIDO Considerando que o contrato foi celebrado na vigência da Lei do Distrato e que o imóvel se submete ao regime de patrimônio de afetação, aplica-se o percentual previsto em lei para retenção das parcelas pagas na hipótese de resilição unilateral por iniciativa dos promitentes compradores (50%), nos termos do art. 67-A, § 5º, da Lei Federal n. 4.591/64. Precedente desta C. Câmara. RECURSO DA RÉ PROVIDO
+Segundo a parte recorrente, o recurso preenche os requisitos necessários ao conhecimento e provimento.
+Intimada nos termos do art. 1.030 do Código de Processo Civil, a parte recorrida afirmou a inexistência de requisitos ou elementos aptos a promover a alteração do julgado impugnado.
+É o relatório.
+DECIDO.
+O recurso especial é tempestivo e cabível, pois interposto em face de decisão que negou provimento ao recurso de apelação interposto na origem (art. 105, III, "a" e "c", da Constituição Federal).
+No presente processo, a parte afirma, em suma, que estão presentes os requisitos para o conhecimento e provimento de seu recurso.
+Ocorre, contudo, que a questão já foi enfrentada pela decisão recorrida, que analisou detidamente todas as questões jurídicas postas.
+Analisando os autos, tem-se que a controvérsia apresentada, consiste em definir o percentual de retenção sobre as parcelas pagas em caso de desfazimento do contrato de promessa de compra e venda de imóvel, por iniciativa da adquirente, em incorporação submetida ao regime de patrimônio de afetação, validade da cláusula contratual de retenção de 50% (com base no art. 67-A, § 5º, da Lei nº 4.591/1964, incluído pela Lei nº 13.786/2018) e a aplicação luz do Código de Defesa do Consumidor e da jurisprudência.
+O acórdão recorrido entendeu pela aplicação do art. 67-A, § 5º, da Lei nº 4.591/1964 (com redação da Lei nº 13.786/2018) para autorizar retenção de 50% nas incorporações com patrimônio de afetação, diante de resilição unilateral dos compradores, com reforma da sentença que previa restituição de 80%.
+O recorrente alega violação aos arts. art. 51, IV,do CDC e 413 do Código Civil.
+A jurisprudência desta Corte Superior firmou-se no sentido de que o art. 67-A da Lei nº 4.591/1964 estabelece um teto máximo de retenção, não afastando a incidência do Código de Defesa do Consumidor nem suprimindo o controle judicial acerca da razoabilidade e proporcionalidade das cláusulas contratuais.
+A interpretação sistemática do dispositivo legal, em conjunto com os arts. 6º, V, e 51, IV e § 1º, III, do CDC, impõe a conclusão de que a retenção somente pode ser mantida em patamar que não implique vantagem exagerada ao fornecedor ou enriquecimento sem causa.
+Com efeito, em demandas com a mesma causa de pedir, este colegiado vem se manifestando da seguinte forma:
+AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL. COMPROMISSO DE COMPRA E VENDA. RESCISÃO CONTRATUAL. RESTITUIÇÃO PARCIAL DE VALORES. RECURSO PROVIDO.
+1. A jurisprudência do STJ admite a rescisão unilateral de contrato de promessa de compra e venda por iniciativa do adquirente, desde que o vendedor seja ressarcido pelas despesas decorrentes da execução contratual, conforme Súmula 543/STJ.
+2. A retenção de 20% dos valores pagos está em consonância com o entendimento consolidado do STJ, que considera razoável a retenção entre 10% e 25%, conforme as circunstâncias do caso concreto.
+3. No caso, a sentença de primeiro grau observou os parâmetros jurisprudenciais ao fixar a devolução de 80% dos valores pagos, com retenção de 20%, afastando a taxa de fruição por se tratar de lotes não edificados.
+4. O acórdão recorrido, ao negar a possibilidade de rescisão unilateral e imotivada, divergiu da jurisprudência do STJ, que reconhece o direito potestativo do adquirente à rescisão contratual, desde que observadas as condições de restituição parcial.
+5. Agravo conhecido para dar provimento ao recurso especial, reformando o acórdão recorrido e restabelecendo a sentença de primeiro grau.
+(AREsp n. 2.570.132/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 24/11/2025, DJEN de 3/12/2025.)
+PROCESSUAL CIVIL E CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO DE CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. INICIATIVA DO PROMITENTE COMPRADOR. CONTRATO CELEBRADO APÓS A VIGÊNCIA DA LEI Nº 13.786/2018 (LEI DO DISTRATO). EMPREENDIMENTO COM PATRIMÔNIO DE AFETAÇÃO. CLÁUSULA PENAL. PERCENTUAL DE RETENÇÃO.
+CORREÇÃO MONETÁRIA.
+1. Ação de rescisão de promessa de compra e venda de imóvel, ajuizada pelo promitente comprador, fundada em impossibilidade financeira de prosseguir com o pagamento das parcelas. Contrato firmado após a vigência da lei nº 13.786/2018.
+2.
+O propósito recursal consiste em definir: (I) a legalidade da cláusula contratual que estabelece a retenção de 50% (cinquenta por cento) dos valores pagos pelo adquirente, conforme previsão do art. 67-A, § 5º, da Lei nº 4.591/64, para empreendimentos com patrimônio de afetação; e (II) a possibilidade de substituição judicial do índice de correção monetária pactuado (INCC) por outro (IGP-M).
+3.
+Não há falar em violação dos arts. 489 e 1.022 do CPC/15 quando o tribunal de origem, apesar de contrário aos interesses da parte, aprecia e decide, de maneira clara e fundamentada, as questões relevantes ao julgamento da lide, não estando obrigado a rebater, um a um, todos os argumentos aventados pelas partes.
+4. A Lei nº 13.786/2018, ao introduzir o art. 67-A na Lei de Incorporações Imobiliárias, estabeleceu um teto para a cláusula penal em caso de distrato ou rescisão por culpa do adquirente, mas não afastou a possibilidade de controle judicial de abusividade, sobretudo nas relações de consumo.
+5. O percentual de retenção de 25% (vinte e cinco por cento) dos valores pagos, fixado pelo tribunal de origem, está em consonância com a jurisprudência desta corte, que o considera razoável para compensar o vendedor pelas despesas inerentes ao negócio. A revisão desse entendimento para aplicar o teto legal de 50% (cinquenta por cento) implicaria reexame de fatos e provas, o que é vedado pelas súmulas 5 e 7 do STJ.
+6. A escolha do índice de correção monetária pelas instâncias ordinárias, quando fundamentada na premissa de que o índice eleito melhor reflete a recomposição do poder de compra da moeda, constitui questão fático-probatória cuja análise é inviável em sede de recurso especial, ante o óbice da súmula 7/STJ.
+7. Recurso especial desprovido.
+(AREsp n. 2.795.369/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 22/9/2025, DJEN de 26/9/2025.)
+DIREITO PROCESSUAL CIVIL E CIVIL. RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL C/C RESTITUIÇÃO DE VALORES PAGOS. CONTRATO CELEBRADO APÓS A LEI Nº 13.786/2018. PREVALÊNCIA DO CDC EM HIPÓTESE DE CONFLITO DE NORMAS. RESTITUIÇÃO DE VALORES. LIMITE DE RETENÇÃO DE 25% DOS VALORES PAGOS.
+1. Ação de rescisão de contrato de compra e venda de imóvel c/c restituição de valores pagos.
+2. A Terceira Turma do STJ definiu que o Código de Defesa do Consumidor prevalece sobre a Lei do Distrato, considerando que o CDC se aplica quando preenchido um requisito adicional: a caracterização de uma relação de consumo.
+3. Desse modo, restou decidido que os descontos previstos na Lei do Distrato podem ser efetuados como regra geral, mas, "quando se tratar de relação de consumo, a soma dos descontos deve respeitar o limite máximo de retenção de 25% (vinte e cinco por cento) dos valores pagos, com exceção da taxa de fruição", em observância à interpretação conferida aos arts. 51, IV, e 53 do CDC por esta Corte (REsp 2.106.548/SP, Terceira Turma, DJEN 19/9/2025).
+4. Recurso especial conhecido e provido.
+(REsp n. 2.222.022/MS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 9/12/2025, DJEN de 12/12/2025.)
+No caso dos autos, o acórdão recorrido limitou-se a aplicar o percentual máximo previsto no art. 67-A, § 5º, da Lei nº 4.591/1964, sem proceder à análise da razoabilidade da cláusula contratual e sem demonstrar a existência de prejuízos concretos que justificassem a retenção de metade dos valores pagos, em dissonância com a jurisprudência desta Corte Superior.
+Dessa forma, ao chancelar a retenção de 50% de forma automática, o acórdão recorrido violou os arts. 51, IV, do Código de Defesa do Consumidor e 413 do Código Civil, impondo desvantagem excessiva à parte adquirente.
+Ante o exposto, conheço do recurso especial e lhe dou provimento para determinar a restituição de 80% dos valores pagos pela parte recorrente, mantidas as demais disposições, observada a correção monetária e os juros conforme fixados na origem.
+Inverto os ônus sucumbenciais fixados pela origem.
+EMENTA
