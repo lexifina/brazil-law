@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por MOZART PEREIRA VIEIRA contra a decisão que obstou a subida do recurso especial.
+Por decisão monocrática de minha relatoria, foi determinada a devolução dos autos ao Tribunal de origem para que o recurso especial permaneça suspenso até a publicação do acórdão paradigma a ser proferido quando do julgamento do Tema n. 1.033/STJ, observando-se, em seguida, o procedimento dos arts. 1.040 e 1.041 do CPC/2015 (fls. 528-530).
+Com a baixa dos autos, a Presidência da Seção de Direito Privado do Tribunal de Justiça do Estado de São Paulo informa que "O recurso interposto pelo poupador restringe-se à questão atinente ao termo inicial da recontagem do prazo prescricional, se da data do ajuizamento da própria cautelar, como consignado no acórdão recorrido, ou se do último ato praticado na demanda que o interrompeu, como sustenta o recorrente, ausente qualquer controvérsia, nestes autos, quanto à matéria afetada no tema 1033" (fls. 535-536).
+Por tal motivo, vislumbrando não se tratar da hipótese inserida no âmbito do referido tema, entendeu por bem reencaminhar os autos a esta Corte, para eventual nova orientação.
+Com razão a zelosa Presidência de Seção do Tribunal de origem quando afirma não guardar o presente recurso especial perfeita consonância com a questão submetida a julgamento no Tema Repetitiv o n. 1.033/STJ, do seguinte teor: "Interrupção do prazo prescricional para pleitear o cumprimento de sentença coletiva, em virtude do ajuizamento de ação de protesto ou de execução coletiva por legitimado para propor demandas coletivas."
+Não é objeto de discussão neste especial se a ação cautelar de protesto ajuizada pelo Ministério Público do Distrito Federal interrompeu ou não o prazo prescricional para ajuizamento da execução individual da sentença proferida em ação coletiva (objeto do Tema n. 1.033/STJ).
+O acórdão recorrido consignou que, mesmo com a interrupção decorrente da ação cautelar de protesto, escoou-se o prazo prescricional.
+Porém, a controvérsia gira em torno de quando se reinicia o prazo prescricional, uma vez interrompido pela ação cautelar de protesto. O Tribunal de origem consignou ser da data de ajuizameto da ação cautelar. O recorrente defende ser do último ato praticado em referida ação.
+Embora, como visto, o Tema n. 1.033/STJ não verse, a princípio, especificamente sobre essa questão, há possibilidade de que também venha a ser objeto de deliberação por esta Corte de uniformização de jurisprudência, acaso se entenda que a ação cautelar de protesto realmente interrompe o prazo prescricional.
+Dessa forma, mostra-se mais prudente que se aguarde o julgamento do Tema n. 1.033/STJ.
+Retornem os autos ao Tribunal de origem, nos termos da decisão de fls. 528-530.
+Publique-se. Intimem-se.
+ EMENTA
