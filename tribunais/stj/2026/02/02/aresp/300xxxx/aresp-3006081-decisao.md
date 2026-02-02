@@ -1,0 +1,54 @@
+DECISÃO
+Cuida-se de agravo interposto por FERNANDA LOBATO e GABRIEL LOBATO contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS cuja ementa guarda os seguintes termos (fls. 492):
+AGRAVO DE INSTRUMENTO - AÇÃO DE EXIGIR CONTAS - JUSTIÇA GRATUITA - PESSOA FÍSICA - INSUFICIÊNCIA FINANCEIRA NÃO COMPROVADA - INDEFERIMENTO. O DIREITO AO BENEFÍCIO DA ASSISTÊNCIA JUDICIÁRIA GRATUITA DEVE SER INTERPRETADO EM CONJUNTO COM O INCISO LXXIV, DO ART. 5º, DA CONSTITUIÇÃO FEDERAL. NÃO HAVENDO NOS AUTOS ELEMENTOS QUE DEMONSTREM A IMPOSSIBILIDADE DE A PARTE RECORRENTE ARCAR COM AS DESPESAS DO PROCESSO SEM PREJUÍZO DE SEU PRÓPRIO SUSTENTO, HÁ QUE SE INDEFERIR A GRATUIDADE DE JUSTIÇA PLEITEADA.
+Sem embargos de declaração.
+No recurso especial, alega a recorrente que o acórdão estadual contrariou as disposições contidas nos artigos 98 e 99, §§ 2º e 3º, do Código de Processo Civil.
+Sustenta, em síntese, que a assistência judiciária pode ser requerida a qualquer tempo e grau de jurisdição, sendo suficiente para seu deferimento a afirmação, pela pessoa física, de que não tem condições de arcar com as despesas do processo.
+Aduz que o Tribunal de origem indeferiu a gratuidade de justiça com amparo apenas na falta de comprovação de hipossuficiência, o que contraria a presunção legal.
+Aponta divergência jurisprudencial com arestos de outros tribunais.
+Sem contrarrazões ao recurso especial (fl. 730).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 731-732), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo (fl. 758).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+O objetivo do recurso especial é a reforma do acórdão recorrido, que manteve decisão interlocutória que indeferiu o benefício da gratuidade judiciária à recorrente, tendo em vista que não foram preenchidos os pressupostos para sua concessão.
+Quanto ao ponto, o Tribunal de origem manifestou-se nos seguintes termos (fls. 662-663):
+Em análise detida dos documentos apresentados e dos fatos trazidos aos autos, verifica-se que os agravantes não preenchem os requisitos legais para a concessão da justiça gratuita.
+Isso porque, o agravante Gabriel Lobato, conforme demonstrativos de rendimento do mês de agosto de 2023, demonstrou o recebimento de renda líquida de R$5.201,73, após descontos de INSS e IR, com renda bruta de R$6.721,00. Além disso, no Imposto de Renda relativo ao exercício de 2024, consta a propriedade de um veículo Argo avaliado em R$54.000,00 e saldo bancário de R$7.083,34.
+Observa-se, ainda, que o recorrente reside na Savassi, região notoriamente de padrão elevado, o que vai de encontro à alegada hipossuficiência financeira, considerando também o aluguel de R$1.700,00 que paga mensalmente. A seu turno, a agravante Fernanda Lobato, demonstrou ter auferido renda líquida de R$4.000,83 no mês outubro de 2023, além de contas bancárias com saldos de R$15.598,66 e R$2.904,34, conforme declarado no Imposto de Renda do exercício de 2024. De igual modo, a agravante demonstrou residir em bairro bem localizado (Buritis), pagando aluguel no valor de R$1.000,00 mensais.
+Ademais, as despesas demonstradas são de natureza rotineira e não excepcionais, portanto, insuficientes para o deferimento da benesse requerida.
+Assim, do cotejo dos elementos constantes dos autos, tem-se que os agravantes não demonstraram condições reais que justifiquem a concessão das benesses pleiteadas.
+Além disso, não é cabível a postergação do pagamento das custas e despesas processuais para o final do processo, com base em eventual recebimento de valores decorrentes de partilha de bens, mormente porque os elementos de convicção reunidos nos autos indicam que as condições financeiras atuais dos agravantes não compactuam com a alegação de hipossuficiência financeira, sendo suficiente para o custeio das despesas processuais sem comprometer o sustento próprio ou de suas famílias.
+Percebe-se que a aplicação da Súmula 7/STJ ao caso mostra-se imperiosa, tendo em vista que a Corte de origem delimitou e especificou detalhadamente os motivos que a levaram a considerar que a recorrente não faz jus à concessão da gratuidade judiciária.
+Desse modo, considerando a fundamentação do acórdão objeto do recurso especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fático-probatória, procedimento vedado a esta Corte, em razão do óbice da Súmula n. 7/STJ.
+Nesse sentido, cito:
+RECURSO ESPECIAL. GRATUIDADE DE JUSTIÇA. INDEFERIMENTO. RECURSO NÃO CONHECIDO.
+I. CASO EM EXAME
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo que indeferiu o pedido de gratuidade de justiça em ação de cobrança, sob o fundamento de ausência de comprovação de hipossuficiência econômica.
+2. O Tribunal de origem concluiu pela inexistência de verificação da hipossuficiência alegada, considerando que a parte recorrente não apresentou documentos suficientes para comprovar a situação de miserabilidade, bem como pela ausência de elementos que justifiquem o diferimento ou o parcelamento das despesas processuais pretendida.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em definir se o indeferimento da concessão do benefício da gratuidade de justiça à parte recorrente foi devidamente fundamentado.
+III. RAZÕES DE DECIDIR
+4. O critério jurídico para avaliação de concessão do benefício da gratuidade de justiça se perfaz com a análise da condição econômico-financeira do requerente.
+5. A análise da condição econômico-financeira da parte autora foi realizada com base nos elementos dos autos, não sendo possível, em sede de recurso especial, reexaminar o conjunto fático-probatório.
+6. O acórdão recorrido está em consonância com a jurisprudência do STJ, atraindo a aplicação da Súmula n. 83 do STJ, que impede o conhecimento do recurso especial quando o acórdão recorrido está alinhado com a orientação do Tribunal.
+IV. DISPOSITIVO E TESE
+7. Recurso especial não conhecido.
+Tese de julgamento: "1. O critério jurídico para avaliação de concessão do benefício da gratuidade de justiça se perfaz com a análise da condição econômico-financeira do requerente. 2. A decisão sobre a concessão de gratuidade de justiça não pode ser revista em recurso especial por implicar o reexame de fatos e provas".
+Dispositivos relevantes citados: CPC, arts. 98, §§ 5º e 6º; 99, § 3º.
+Jurisprudência relevante citada: STJ, AgInt no AREsp n. 1.983.350/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 21/3/2022; STJ, AgInt no AREsp n. 1.837.835/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 27/9/2021; STJ, AgInt no AREsp n. 1.372.130/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 13/11/2018; STJ, AgInt no AREsp n. 2.610.781/RO, de minha relatoria, Quarta Turma, julgado em 11/11/2024; STJ, AgInt no AREsp n. 1.022.432/RS, relator Ministro LuisFelipe Salomão, Quarta Turma, julgado em 16/5/2017; STJ, AgInt no AREsp n. 2.610.781/RO, de minha relatoria, Quarta Turma, julgado em 11/11/2024; STJ, AgInt no AREsp n. 2.481.355/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 20/5/2024; STJ, AgInt no REsp n. 2.040.477/DF, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 11/9/2023. (REsp n. 2.200.209/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 7/4/2025, DJEN de 10/4/2025.)  Grifei.
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. GRATUIDADE DE JUSTIÇA. PESSOA FÍSICA. INDEFERIMENTO NA ORIGEM. NECESSIDADE DE COMPROVAÇÃO DA HIPOSSUFICIÊNCIA. AUSÊNCIA DE DEMONSTRAÇÃO NA HIPÓTESE. APLICAÇÃO DA SÚMULA 7/STJ. DIVERGÊNCIA PREJUDICADA. AGRAVO INTERNO DESPROVIDO.
+1. Segundo a jurisprudência do Superior Tribunal de Justiça, "a presunção de veracidade da condição de hipossuficiência do postulante da assistência judiciária gratuita é relativa, e não absoluta, não acarretando o acolhimento automático do pedido" (AgInt no AREsp 1.671.512/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 23/10/2020).
+2. Concluindo o Tribunal originário que a hipossuficiência da parte requerente não foi comprovada nos autos, fica impedido o Superior Tribunal de Justiça de modificar a conclusão acolhida, ante a incidência da Súmula 7/STJ.
+3. A incidência da Súmula n. 7/STJ impossibilita o conhecimento do recurso especial por ambas as alíneas do permissivo constitucional, porquanto não é possível encontrar similitude fática entre o acórdão recorrido e os arestos paradigmas, uma vez que as suas conclusões díspares ocorreram não em virtude de entendimentos diversos sobre uma mesma questão legal, mas sim de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+4. Agravo interno a que se nega provimento. (AgInt no AREsp n. 2.657.329/MS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 16/9/2024, DJe de 18/9/2024.)  Grifei.
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. AGRAVO DE INSTRUMENTO. GRATUIDADE DE JUSTIÇA. PESSOA FÍSICA INDEFERIMENTO NA ORIGEM. NECESSIDADE DE COMPROVAÇÃO DA HIPOSSUFICIÊNCIA. AUSÊNCIA DE DEMONSTRAÇÃO NA HIPÓTESE. APLICAÇÃO DA SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência desta Corte Superior estabelece que, em se tratando de pessoa natural, a simples declaração de pobreza tem presunção juris tantum, bastando, a princípio, o simples requerimento para que lhe seja concedida a assistência judiciária gratuita. O benefício, todavia, pode ser indeferido quando o magistrado se convencer, com base nos elementos acostados aos autos, de que não se trata de hipótese de miserabilidade jurídica.
+2. Tendo o Tribunal de origem entendido que a parte agravante não teria comprovado a sua hipossuficiência, a revisão da convicção formada depende do reexame de fatos e provas, providência vedada na via eleita, ante a incidência do enunciado n. 7 da Súmula do Superior Tribunal de Justiça.
+3. Agravo interno desprovido. (AgInt no AREsp n. 2.481.355/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 20/5/2024, DJe de 23/5/2024.)  Grifei.
+A incidência da Súmula n. 7 do STJ quanto à interposição pela alínea "a" do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+Publique-se. Intimem-se.
+ EMENTA
