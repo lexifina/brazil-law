@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo regimental interposto por MINISTÉRIO PÚBLICO DO ESTADO DE SANTA CATARINA contra a decisão monocrática que conheceu do conflito para declarar a competência do Juízo Federal da 1ª Vara de Chapecó - SJ/SC, suscitado (e-STJ, fls. 151-153).
+Consta dos autos que o Ministério Público Federal denunciou João Ereni Varela pelos crimes dos arts. 45 e 51 da Lei nº 9.605/98, em razão do corte, em 09/05/2024, de um exemplar de Araucaria angustifolia, espécie da flora brasileira incluída na lista oficial de ameaçadas de extinção.
+Concluída a instrução e apresentadas as alegações finais, os autos foram remetidos ao Juízo Federal da 1ª Vara de Chapecó/SC, que se declarou incompetente, em atenção a recente decisão do Supremo Tribunal Federal, segundo a qual a Justiça Federal não detém competência absoluta em casos semelhantes quando ausente o caráter transnacional do delito.
+O Juízo de Direito da Vara Única de Anita Garibaldi/SC, amparado na jurisprudência do STJ que reconhece o interesse da União quando espécies ameaçadas constam em listas nacionais, suscitou conflito de competência em favor da Justiça Federal.
+Nesta instância, o Ministério Público Federal manifestou-se pelo conhecimento do conflito, para declarar competente o Juízo Federal da 1ª Vara de Chapecó - SJ/SC, suscitado.
+No regimental (e-STJ, fls. 161-177), a parte agravante alega que, nos termos dos arts. 23, incisos VI e VII, e 24, inciso VI, da Constituição da República, a responsabilidade pela elaboração e atualização da lista de espécies da fauna e da flora ameaçadas de extinção é compartilhada por órgãos federais e estaduais.
+Argumenta que o art. 53 da Lei n. 9.985/2000 atribui ao IBAMA a tarefa de elaborar a lista de espécies da flora e fauna ameaçadas de extinção no Brasil. Contudo, essa previsão não implica, por si só, a caracterização de interesse exclusivo da União, já que a norma também incentiva os órgãos estaduais a produzirem listas equivalentes, voltadas às espécies sob sua própria jurisdição.
+Pondera que a competência da Justiça Federal para julgar crimes ambientais é de caráter residual. Assim, conforme o inciso IV do art. 109 da Constituição da República, somente se configura quando a infração penal atinge bens, serviços ou interesses diretos e específicos da União, de suas autarquias ou empresas públicas.
+Aduz que o STF, ao julgar o RE n. 835.558/SP em regime de repercussão geral, firmou a tese do Tema 648, estabelecendo que compete à Justiça Federal processar e julgar crimes ambientais de caráter transnacional que envolvam animais silvestres, espécies ameaçadas de extinção, exóticas ou protegidas por compromissos internacionais assumidos pelo Brasil.
+Expõe que na hipótese em análise não há transnacionalidade do crime.
+Ao final, pugna pela reconsideração da decisão agravada.
+É o relatório.
+Em face dos argumentos trazidos no agravo regimental, reconsidero a decisão agravada.
+A Terceira Seção do STJ, ao apreciar casos análogos, afirmava existir interesse da União sempre que o crime ambiental envolvesse espécie vegetal incluída na lista nacional de ameaçadas de extinção.
+Em 25/6/2025, no AgR no RE n. 1.551.297/SC, relatado pelo Ministro Dias Toffoli, o STF divergiu da orientação do STJ e, com base na tese do Tema 648 da repercussão geral (RE n. 835.558/SP), firmou que a mera inclusão da espécie vegetal em lista nacional de ameaçadas não basta para fixar a competência da Justiça Federal, exigindo-se transnacionalidade do delito ou outro elemento que evidencie interesse jurídico específico da União.
+Em seguida, a Primeira e a Segunda Turmas do STF passaram a adotar esse entendimento: RE n. 1.559.309-AgR, relatora Ministra Cármen Lúcia, Primeira Turma, julgado em 25/8/2025, DJe de 28/8/2025; HC n. 261.398-AgR, relator Ministro André Mendonça, Segunda Turma, julgado em 13/10/2025, DJe de 28/10/2025.
+Neste contexto, a Terceira Seção do STJ decidiu que a mera inclusão da espécie vegetal envolvida no crime ambiental em lista oficial de ameaçadas de extinção não é suficiente para atribuir competência à Justiça Federal, salvo se houver transnacionalidade da conduta ou outra ofensa direta a bem, serviço ou interesse da União.
+Confira-se:
+AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. DIREITO PENAL E PROCESSUAL PENAL. CRIME AMBIENTAL. DESTRUIÇÃO DE ESPÉCIE VEGETAL AMEAÇADA DE EXTINÇÃO. COMPETÊNCIA DA JUSTIÇA ESTADUAL. PRECEDENTES DO SUPREMO TRIBUNAL FEDERAL. RECURSO PROVIDO.
+1. Conflito negativo de competência instaurado entre o Juízo da Vara Criminal de Caçador - SC e o Juízo da 1ª Vara Federal de Joinville - SJ/SC.
+2. Discussão acerca da competência para processar e julgar crime ambiental envolvendo variedade vegetal constante de lista oficial de espécies ameaçadas de extinção.
+3. A jurisprudência do STF, com fundamento na tese do Tema n. 648 da Repercussão Geral (RE n. 835.558/SP), orienta que a competência da Justiça Federal para julgar crimes ambientais depende da presença de interesse direto e específico da União ou da transnacionalidade da conduta delituosa.
+4. O fato de a variedade vegetal envolvida no crime ambiental constar de lista oficial de espécies ameaçadas de extinção não é suficiente para a fixação da competência da Justiça Federal quando ausente qualquer ofensa direta a bem, serviço ou interesse da União.
+Precedentes do Supremo Tribunal Federal.
+5. No caso dos autos, a suposta prática delituosa ocorreu no Município de Rio das Antas - SC, consistindo na destruição de vegetação nativa pertencente ao bioma Mata Atlântica, sem evidência de transnacionalidade do delito ou de outros elementos específicos que indiquem o interesse da União.
+6. Agravo regimental provido para conhecer do conflito e declarar competente o Juízo da Vara Criminal de Caçador - SC. (AgRg no CC n. 217.180/SC, relator Ministro Reynaldo Soares da Fonseca, relator para acórdão Ministro Og Fernandes, Terceira Seção, julgado em 10/12/2025, DJEN de 23/12/2025.)
+Diante do exposto, reconsidero a decisão de fls. 151-153 (e-STJ) para declarar competente o Juízo de Direito da Vara Única de Anita Garibaldi - SC, suscitante.
+Comunique-se. Publique-se.
+Cientifique-se o Ministério Público Federal e, oportunamente, encaminhem-se os autos ao Juízo competente.
+EMENTA
