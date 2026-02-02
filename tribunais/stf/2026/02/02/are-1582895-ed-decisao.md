@@ -1,0 +1,24 @@
+Decisão: Cuida-se de embargos de declaração (eDOC 135) opostos em face de decisão monocrática (eDOC 134), na qual foi negado seguimento ao recurso, com apoio na Súmula 279 do  STF e por ausência de ofensa direta  à Constituição Federal.
+Nas razões dos presentes embargos, alega-se, em suma, vícios na decisão recorrida, tendo em vista que “deixou de enfrentar questão constitucional autônoma e juridicamente relevante, devidamente suscitada desde a origem e reiterada no recurso extraordinário, consistente nos efeitos diretos da manutenção da penhora sobre terceiros vulneráveis, filhos menores e genitora idosa, que não integram a relação processual executiva.” (eDOC 135, p. 2).
+Acrescenta-se que “O núcleo da controvérsia não reside na valoração do acervo probatório, mas sim: a) na exigência de produção de prova negativa absoluta, consistente na demonstração de inexistência de outros imóveis em nome da Embargante, prova esta reconhecidamente inexistente no sistema registral brasileiro;” (eDOC 135, p. 3).
+Ao final, postula-se o provimento dos embargos, a fim de que sejam afastados os apontados vícios.
+É o relatório. Decido.
+Em nome da celeridade processual (art. 5º, LXXVIII, da CF) e ante a inexistência de prejuízo, visto que não há, na hipótese, efeitos modificativos, deixo de intimar a parte Embargada para apresentação de contrarrazões.
+Acentuo que o princípio do contraditório exige a manifestação das partes a fim de se evitar decisão surpresa, o que não é o caso, pois a decisão recorrida será mantida
+Com efeito,  não assiste razão à parte Embargante.
+Nos termos do art. 1.024, §2º, do CPC/15, “Quando os embargos de declaração forem opostos contra decisão de relator ou outra decisão unipessoal proferida em tribunal, o órgão prolator da decisão embargada decidi-los-á monocraticamente.”
+Registre-se que, conforme o artigo 1.022 do Código de Processo Civil, os embargos de declaração são cabíveis nos casos de obscuridade, contradição ou omissão da decisão impugnada, bem como para corrigir eventual erro material. Na hipótese, não se constata nenhum dos referidos vícios.
+Na verdade, observa-se nítido caráter infringente nas alegações recursais.
+É que os embargos não merecem ser acolhidos, tendo em vista que a decisão recorrida aplicou corretamente os óbices processuais apontados e as razões do presente recurso não são hábeis a afastá-los.
+Eis, no ponto, o teor da ementa do acórdão proferido pela instância de origem (eDOC  18, p. 1):
+
+“Agravo de Instrumento. Execução de Título Extrajudicial. Civil. Processual Civil. Decisão de rejeição da impugnação à penhora ofertada pela Agravante. Irresignação da 1ª Executada. Previsão constante no art. 5º da Lei nº 8.009/90 no sentido de que, para fins de impenhorabilidade, se considera “residência um único imóvel utilizado pelo casal ou pela entidade familiar para moradia permanente”, e de que, “[n]a hipótese de o casal, ou entidade familiar, ser possuidor de vários imóveis utilizados como residência, a impenhorabilidade recairá sobre o de menor valor, salvo se outro tiver sido registrado, para esse fim, no Registro de Imóveis e na forma do art. 70 do Código Civil”. Desnecessidade de prova de que o imóvel onde reside o devedor seja o único de sua propriedade para o reconhecimento da impenhorabilidade do bem de família, consoante entendimento do Insigne Tribunal da Cidadania. 1ª Executada a quem cabe, contudo, a demonstração do preenchimento das condições estabelecidas pelo art. 5º da Lei nº 8.009/90 para o reconhecimento da proteção almejada. Agravante que, apesar de alegar que o imóvel objeto da constrição seria impenhorável, restringe-se a apresentar documentos que, embora indiquem de fato que o imóvel é utilizado para fins de moradia, não evidenciam de forma inequívoca as condições previstas pelo referido dispositivo. Mera alegação da Recorrente de que “não declara imposto de renda” para justificar a ausência de apresentação de elementos a respeito de seu efetivo patrimônio que, além de não ser verossímil, diante do próprio valor estimado do imóvel objeto da constrição – avaliado em R$1.958.689,69 (um milhão novecentos e cinquenta e oito mil seiscentos e oitenta e nove reais e sessenta e nove centavos) –, não se revela hábil a afastar a pretensão de constrição formulada pela Exequente. 1ª Executada que, ademais, na qualidade de parte, também deve observar o dever de cooperação, na forma do art. 6º do CPC. Precedentes deste Nobre Sodalício. Manutenção da decisão que se impõe. Conhecimento e desprovimento do recurso.”
+
+Diante de tal contexto, deve ser mantida a decisão ora embargada.
+Assim, em virtude da inexistência de vícios a serem sanados na decisão impugnada, rejeito os embargos de declaração, nos termos do art. 1.024, §2º, do CPC e 21, § 1º, do RISTF.
+Publique-se.
+Brasília, 2 de fevereiro de 2026.
+
+Ministro EDSON FACHIN
+Presidente
+Documento assinado digitalmente
