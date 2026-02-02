@@ -1,0 +1,41 @@
+DECISÃO
+
+Trata-se de Embargos de Divergência opostos por CALIL BASSIT NETO contra acórdão da Primeira Turma desta CORTE que acolheu os Embargos de Declaração opostos por RADIO TRANSAMERICA DE SAO PAULO LTDA, nos termos da seguinte ementa (Doc. 172):
+
+“EMENTA: EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. AÇÃO DE INDENIZAÇÃO PROPOSTA PELA EMPRESA CONTRA EX-EMPREGADO. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. MODULAÇÃO DE EFEITOS DAS NOVAS COMPETÊNCIAS ATRIBUÍDAS PELA EC Nº 45/04. MANUTENÇÃO EXCEPCIONAL DE COMPETÊNCIA DA JUSTIÇA COMUM, NA QUAL PROFERIDA SENTENÇA DE MÉRITO ANTES DA EMENDA 45/04. EMBARGOS DE DECLARAÇÃO ACOLHIDOS.
+1. Ao julgar o CC 7.204/MG, de relatoria da Min. AYRES BRITTO, esta CORTE, apesar de reconhecer a competência da Justiça do Trabalho para o julgamento das ações de indenização por danos morais e patrimoniais decorrentes de acidente do trabalho, ainda que movidas pelo empregado contra seu (ex-)empregador, estabeleceu que o marco temporal da competência da Justiça trabalhista é o advento da EC nº 45/04, que explicitou a competência da Justiça Laboral na matéria em apreço.
+2. Definiu o SUPREMO TRIBUNAL FEDERAL que, mesmo reconhecendo a competência da Justiça Trabalhista para apreciação daquele tema - tanto na redação original da CF/88, quanto após a alteração promovia pela EC nº 45/04 -, em razão do entendimento jurisprudencial anterior, as ações que já tramitavam perante a Justiça comum dos Estados, com sentença de mérito anterior à promulgação da EC 45/04, lá deveriam continuar até o trânsito em julgado e correspondente execução.
+3. Essa orientação jurisprudencial foi posteriormente consolidada no enunciado da Súmula Vinculante nº 22 ( “A Justiça do Trabalho é competente para processar e julgar as ações de indenização por danos morais e patrimoniais decorrentes de acidente de trabalho propostas por empregado contra empregador, inclusive aquelas que ainda não possuíam sentença de mérito em primeiro grau quando da promulgação da Emenda Constitucional nº 45/04.”), que excepciona da competência da Justiça Trabalhista as ações que possuíam sentença de mérito em primeiro grau quando da promulgação da EC nº 45/04.
+4. A jurisprudência do SUPREMO TRIBUNAL FEDERAL quanto às alterações promovidas pela EC nº 45/2004 se consolidou no sentido de modular os efeitos das novas competências atribuídas pelo art. 114, da Constituição Federal, à Justiça Trabalhista, para manter na Justiça Comum os processos já sentenciados antes da Emenda.
+5. Deve ser aplicado ao presente processo o critério temporal estabelecido por esta CORTE no julgamento do CC 7.204/MG, para que, apesar do reconhecimento do vínculo trabalhista, seja mantida excepcionalmente a competência da Justiça Comum para o julgamento de ação de indenização proposta pela empresa contra o ex-empregado, uma vez que houve a prolação de sentença de mérito em momento anterior à promulgação da EC nº 45/04.
+6. Embargos de Declaração acolhidos para suprir omissão do acórdão recorrido quanto à apreciação da alegação de aplicação do critério temporal estabelecido em razão das alterações promovidas pela EC nº 45/04, e, por consequência, atribuir efeitos infringentes aos presentes embargos e negar provimento ao recurso extraordinário.”
+
+Opostos Embargos de Declaração (Doc. 175), foram rejeitados (Doc. 186).
+Nos Embargos de Divergência (Doc. 190), a parte embargante alega que “Todos esses paradigmas tratam da mesma questão de direito aqui controvertida: alcance material e temporal da competência da Justiça do Trabalho após a EC 45/2004, bem como extensão e limites da exceção criada para ações já sentenciadas na Justiça Comum.” (Doc. 190, fl. 06).
+Afirma que “Enquanto os paradigmas restringem a modulação e a exceção (competência residual da Justiça Comum) às ações indenizatórias por acidente de trabalho propostas pelo empregado (ou seus sucessores), o acórdão embargado projeta essa mesma exceção para demanda distinta – ação de responsabilidade civil ajuizada pelo empregador contra ex - empregado, sem qualquer relação com acidente de trabalho – ampliando, na prática, o âmbito da Súmula Vinculante 22 e da tese do Tema 242 .” (Doc. 190, fl. 06).
+Sustenta que “em nenhum dos paradigmas o Supremo aplicou a Súmula Vinculante 22 fora do contexto de acidente de trabalho ou estendeu, de forma geral, o critério de “sentença anterior à EC 45/2004” para qualquer ação decorrente da relação de trabalho , muito menos para ação de responsabilidade civil ajuizada por empregador contra empregado” (Doc. 190, fl. 14).
+Defende que “não há qualquer razão que justifique a exportação dessa exceção para demandas como a presente, em que a ação não versa sobre acidente de trabalho, que não há regime constitucional especial em disputa (matéria acidentária) e que o próprio STF já reconheceu, no acórdão anterior da Primeira Turma, a competência da Justiça do Trabalho para o presente caso.” (Doc. 190, fl. 21).
+É o relatório. Decido.
+
+Os embargos de divergência não são instrumento de mero reexame da decisão anterior, sendo irrecusável a total correspondência entre os julgados colocados em confronto. Cumpre ao recorrente demonstrar cabalmente a existência de precedente que tenha dado solução diversa, em contexto fático idêntico.
+Nestes Embargos, o ora embargante faz exatamente o oposto: dedica-se a analisar os acórdãos do Plenário que julgaram o CC 7204 e o Tema 242 da repercussão geral, buscando demonstrar que tratam de situações distintas do caso concreto destes autos.
+Ora, o acórdão embargado em nenhum momento sustenta que os precedentes citados tratam da mesma questão. A fundamentação foi no sentido de que a diretriz jurisprudencial apresentada deve ser aplicada na presente hipótese.
+Já o acórdão da Segunda Turma na Rcl 57898 AgR não aborda a aplicação da modulação de efeitos constante da parte final da Súmula Vinculante 22. Portanto, ausente  a identidade ou a similitude entre o acórdão embargado e o aresto apontado como divergente, incabível o presente recurso.
+Nesse sentido: AI 840355 AgR-EDv-AgR, Relator(a): Min. DIAS TOFFOLI, Tribunal Pleno, DJe 18-05-2016; e RE 631228 AgR-EDv-AgR, Relator(a): Min. EDSON FACHIN, Tribunal Pleno, DJe 24-02-2017, este último assim ementado:
+
+“AGRAVO REGIMENTAL EM EMBARGOS DE DIVERGÊNCIA EM AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. DIREITO ADMINISTRATIVO. NÃO PREENCHIMENTO DOS PRESSUPOSTOS DE ADMISSIBILIDADE RECURSAL. ARTIGOS 330 E 331 DO RISTF. AUSÊNCIA DE IDENTIDADE ENTRE O ACÓRDÃO EMBARGADO E OS PARADIGMAS APONTADOS COMO DIVERGENTES. DEFICIÊNCIA DO COTEJO ANALÍTICO. DESPROVIMENTO DO AGRAVO.
+1. A ausência de similitude entre a tese do acórdão embargado e os paradigmas de divergência invocados, bem como a deficiência do cotejo analítico obstam o seguimento do recurso de embargos de divergência.
+2. Agravo regimental desprovido.”
+
+“PROCESSUAL CIVIL. SEGUNDO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. APLICAÇÃO DA SÚMULA 283/STF PELO ACÓRDÃO EMBARGADO. DISSENSO JURISPRUDENCIAL. NÃO CONFIGURAÇÃO. AUSÊNCIA DE SIMILITUDE ENTRE OS JULGADOS CONFRONTADOS.
+1. Os embargos de divergência têm como finalidade uniformizar entendimentos do Tribunal porventura dissonantes, não visando à mera revisão de acórdãos. Seu cabimento, assim, restringe-se à decisão de Turma que, em recurso extraordinário ou em agravo de instrumento, divergir de julgado de outra Turma ou do Plenário, nos termos do art. 330 do RISTF.
+2. Ainda que se admita o cabimento de embargos de divergência para a discussão acerca da aplicação de óbices processuais atinentes ao conhecimento de recurso extraordinário, é evidente que debate dessa natureza só pode ocorrer nesta via quando houver estrita similitude fática e jurídica entre os arestos confrontados, sob pena de descaracterização da finalidade uniformizadora dessa espécie recursal.
+3. Agravo regimental a que se nega provimento. (AI 720117 AgR-ED-EDv-AgR-segundo, Rel. Min. TEORI ZAVASCKI, Tribunal Pleno, DJe de 5/4/2016)”
+Diante do exposto, com base nos arts. 21, § 1º, e 335, § 1º, do Regimento Interno do Supremo Tribunal Federal, NÃO ADMITO OS EMBARGOS DE DIVERGÊNCIA.
+Publique-se.
+
+Brasília, 2 de fevereiro de 2026.
+
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
