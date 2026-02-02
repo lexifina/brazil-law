@@ -1,0 +1,1 @@
+Art. 36-A. O Banco Central do Brasil, no curso da análise dos assuntos tratados nesta Resolução, poderá solicitar informações, esclarecimentos ou documentos adicionais considerados necessários ao exame e à decisão. (Incluído pela Resolução BCB nº 547, de 30/1/2026.)
