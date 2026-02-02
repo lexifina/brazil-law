@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo regimental interposto por DEVANILDO BORGES GONÇALVES contra a decisão que não conheceu do habeas corpus (fls. 80-86).
+Nas razões do presente recurso, o agravante afirma que, mesmo quando o habeas corpus é tido como sucedâneo do recurso próprio e dele não se conheça, este Superior Tribunal costuma conceder a ordem de ofício diante de constrangimento evidente.
+Alega que a ilegalidade é manifesta: inexistem unidades aptas ao semiaberto em Uberlândia, faltam tornozeleiras e não se asseguram os direitos do regime, realidade reconhecida pelo Juízo da Execução ao instituir o semiaberto harmonizado com monitoração.
+Afirma que a Súmula Vinculante n. 56, derivada do RE n. 641.320/RS, impede manter o condenado em regime mais rigoroso por falta de vaga ou unidade adequada, impondo ao Juízo da execução a adoção de soluções menos gravosas, como saída antecipada, monitoramento eletrônico ou prisão domiciliar.
+Sustenta que, no caso concreto, manter o paciente em condição fática equivalente a regime mais severo, por inexistir semiaberto minimamente exequível em Uberlândia, contraria a Súmula Vinculante n. 56, o RE n. 641.320 e a tese fixada no REsp n. 1.710.674/MG (Tema n. 993), que admite prisão domiciliar com monitoração eletrônica na ausência de vaga ou estabelecimento compatível ao semiaberto.
+Assevera que há precedente idêntico da mesma comarca e do mesmo estabelecimento prisional em que o Superior Tribunal de Justiça restabeleceu a prisão domiciliar no semiaberto de Uberlândia - MG, tendo sido comprovadas, em ambos, a ausência de albergue, a superlotação e a inviabilidade de conferir o tratamento próprio do semiaberto.
+Destaca que a medida deferida na origem não antecipa o regime aberto, mas harmoniza o semiaberto diante da inexistência de albergue local, evitando que o paciente suporte, de fato, regime mais rigoroso, até que o Estado regularize as condições ou disponibilize vaga compatível.
+Aduz que a Súmula Vinculante n. 56 não diferencia pela natureza do delito e que o RE n. 641.320/RS, embora estabeleça prioridades na gestão de vagas, não impede a adoção da medida menos gravosa, inclusive prisão domiciliar com monitoração, em casos mais graves, quando necessária para evitar cumprimento em regime superior ao fixado.
+Aponta que o paciente progrediu regularmente, tem boa conduta e exerce labor externo, conforme condições fixadas pelo Juízo ao estabelecer o semiaberto harmonizado, sem notícia de falta grave recente.
+Por isso, requer a reconsideração da decisão agravada ou a submissão do pleito ao colegiado a fim de que seja dado provimento ao recurso e concedida a ordem para manter o agravante no regime semiaberto harmonizado, com monitoração eletrônica, até que o Estado providencie vaga em estabelecimento compatível.
+É o relatório.
+Em consulta realizada na  página  eletrônica  do Sistema Eletrônico de Execução Unificado - SEEU, verifica-se que, no dia 15/12/2025, nos autos do Processo n. 4400190-54.2019.8.13.0702, o Juízo da Vara de Execução Penal da Comarca de Uberlândia - MG, em razão do descumprimento, pelo agravante, das condições impostas ao regime, consubstanciado no não retorno à unidade prisional nas datas de 27/10/2025, 1º/11/2025, 2/11/2025, 4/11/2025, 17/11/2025, 19/11/2025 e 1º/12/2025, determinou a regressão cautelar ao regime fechado.
+Essa circunstância evidencia a perda do objeto da presente impetração, que objetivava a manutenção do agravante no regime semiaberto harmonizado.
+Ante o exposto, julgo prejudicado o agravo regimental.
+Publique-se. Intimem-se.
+EMENTA
