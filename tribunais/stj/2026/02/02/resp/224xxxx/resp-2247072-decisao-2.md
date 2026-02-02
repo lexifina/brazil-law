@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de recurso especial interposto por LUIS CARLOS SOUZA VON RONDOW com fundamento no art. 105, III, "a", da Constituição da República, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais.
+Nas razões recursais, a defesa aponta violação do art. 617 do Código de Processo Penal.
+Sustenta que, em apelação exclusiva da defesa, o Tribunal de origem redimensionou a pena-base do roubo para patamar superior ao fixado na sentença, incorrendo em reformatio in pejus e contrariando o art. 617 do CPP.
+Afirma que, embora o acórdão tenha adotado fração mais benéfica (3/8), aplicou-a sobre o intervalo entre as penas mínima e máxima, elevando a pena-base para 7 anos e 3 meses, quando a sentença havia fixado 6 anos a partir de fração de 4/8 sobre o mínimo.
+Alega, ainda, erro material, pois "3/8 de 06 anos equivale a 02 anos e 03 meses, ao passo que a pena restaria fixada em 06 anos e 03 meses, e não 07 anos e 03 meses" (e-STJ, fl. 721).
+Defende que a proibição de reforma para pior "deve ser analisada item por item" da dosimetria, citando precedente desta Corte no sentido de que, em recurso exclusivo da defesa, não se pode agravar direta ou indiretamente o quantum atribuído às vetoriais remanescentes.
+Requer o provimento do recurso para reconhecer a violação ao art. 617 do CPP e aplicar a fração de 3/8 sobre o mínimo legal na pena-base. Subsidiariamente, pede o reconhecimento de erro material na exasperação fixada no acórdão, para adequar o aumento a 2 anos e 3 meses, em vez de 3 anos e 3 meses.
+Apresentadas as contrarrazões (e-STJ, fls. 731-733).
+O recurso especial foi admitido às fls. 737-739 (e-STJ) e os autos foram encaminhados ao Superior Tribunal de Justiça.
+O Ministério Público Federal opina pelo provimento do recurso especial (e-STJ, fls. 779-785).
+É o relatório.
+Decido.
+A individualização da pena é uma atividade vinculada a parâmetros abstratamente cominados na lei, sendo, contudo, permitido ao julgador atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Destarte, às Cortes Superiores é possível, apenas, o controle da legalidade e da constitucionalidade na dosimetria.
+Na hipótese, o Tribunal a quo, ao rever a dosimetria, entendeu que, consideradas três circunstâncias judiciais desfavoráveis, a pena deve ser majorada em 3/8 e não 4/8, como efetuado pelo Juízo singular. Contudo, redimensionou a pena nos seguintes termos:
+" ..  Passa-se à análise da dosimetria da pena do crime de roubo.
+A pena-base foi fixada em 06 (seis) anos de reclusão e 15 (quinze) dias-multa, sendo valorados negativamente a culpabilidade, os antecedentes e as circunstâncias do crime:
+a) culpabilidade: o grau de censura incidente sobre o fato praticado excedeu ao inerente ao crime, na medida em que o autor agiu em concurso de pessoas. Em virtude da existência de múltiplas causas de aumento, o concurso de pessoas será exasperado nesta fase (adotada fração de 1/8) ;
+b) antecedentes: O réu possui quatro condenações criminais transitadas em julgado, conforme demonstrado pela Certidão de Antecedentes Criminais (CAC) e pelo atestado de pena. Diante disso, uma dessas condenações será considerada para fins de reincidência, enquanto as demais serão avaliadas como maus antecedentes, justificando a exasperação da pena nesta fase (como são mais de três condenações, adotada fração de 2/8);
+c) conduta social: não é passível de valoração negativa, por falta de provas nesse sentido;
+d) personalidade: não é passível de valoração negativa, por falta de provas nesse sentido;
+e) circunstâncias: As circunstâncias excedem aquelas inerentes ao crime em questão, uma vez que houve a restrição da liberdade da vítima. Em virtude da existência de múltiplas causas de aumento, a restrição da liberdade da vítima será valorada nesta fase e não na terceira (1/8);
+f) motivo: os motivos não são outros senão as próprias do tipo penal;
+g)consequências: As consequências não são outras senão as próprias do tipo penal;
+h) comportamento de vítima: O comportamento da vítima em nada influenciou para a prática do delito.
+Apesar de terem sido consideradas como desfavoráveis três circunstâncias judiciais, a pena foi majorada em 4/8, uma vez que foram utilizadas três condenações transitadas em julgado para sua exasperação.
+Contudo, pela regra legal (princípio da reserva legal), deve o sentenciante fixar a pena dentre o quanto mínimo e máximo preceituado no tipo penal sancionador que, para o tipo penal de roubo, é de 04 a 10 anos de reclusão.
+Nítido, ainda, que dentre os 8 (oito) critérios normatizados e presentes nas circunstâncias judiciais (art. 59 do CP), é preciso correlação no lapso de 06 anos existente entre as penas máxima e mínima. Inequívoco, portanto, que cada moduladora, em tese, perfaz 09 meses de reclusão. Diga-se, em tese, porque o julgador tem discricionariedade, desde que o faça motivadamente, quando se afastar da lógica legal contida nos preceitos alhures descritos.
+Nítido, ainda, que dentre os 8 (oito) critérios normatizados e presentes nas circunstâncias judiciais (art. 59 do CP), é preciso correlação no lapso de 06 anos existente entre as penas máxima e mínima. Inequívoco, portanto, que cada moduladora, em tese, perfaz 09 meses de reclusão. Diga-se, em tese, porque o julgador tem discricionariedade, desde que o faça motivadamente, quando se afastar da lógica legal contida nos preceitos descritos.
+Trata-se de atendimento à Teoria das Margens pela qual o intérprete da lei vincula-se aos padrões estabelecidos legalmente para a fixação da pena, permitindo que todos os imputados tenham um mesmo critério para a fixação das sanções penais, mantendo-se a discricionariedade do julgador na análise das circunstâncias judiciais propriamente ditas e, também, a devida vinculação às regras estabelecidas (princípio da legalidade).
+Dessa forma, consideradas três circunstâncias judiciais desfavoráveis, deve a pena-base ser exasperada em 3/8, não 4/8, fixando-a em 07 anos e 03 meses de reclusão e 13 dias-multa.
+Presente a agravante da reincidência, razão pela qual aumenta- se a pena em 1/6, fixando-a em 08 anos, 05 meses e 15 dias de reclusão, e 15 dias-multa.
+As causas de aumento de pena de concurso de pessoas e restrição da liberdade da vítima foram utilizadas quando da fixação da pena-base, o reconhecimento nesta fase da dosimetria, ainda que decotada a causa de aumento de emprego de arma de fogo, incorreria em reformatio em pejus.
+Dessa forma, concretiza-se a pena em 08 anos, 05 meses e 15 dias de reclusão, e 15 dias-multa.
+A pena de multa foi fixada no mínimo legal e estabelecido o regime fechado, o que compatível com a pena que, associada à prática de grave ameaça, impede a substituição por PRD e o sursis (art. 33, §2º, "c"; art. 44, I e art. 77, caput, todos do CP)." (e-STJ, fls. 663-664 - destaques no original).
+O recorrente sustenta que, apesar de a Corte Estadual ter reduzido a fração utilizada para aumentar a pena na primeira fase da dosimetria, aumentou a pena-base, ocasionando indevida reformatio in pejus.
+Decerto, o Tribunal de origem reduziu a fração de aumento de 4/8 para 3/8, contudo aumentou a pena-base aplicada ao recorrente, de 6 anos para 7 anos e 3 meses de reclusão.
+Ao que se extrai dos autos, o Juízo sentenciante aplicou o aumento de 4/8 sobre a pena mínima cominada ao delito - 4 anos -, enquanto a Corte Estadual, apesar de ter reduzido a fração, aplicou o aumento sobre o intervalo de pena abstratamente estabelecido no preceito secundário do tipo penal incriminador - 6 anos -, o que resultou em uma reprimenda básica maior que aquela inicialmente cominada ao recorrente.
+Neste contexto, apesar de a pena final do recorrente ter sido menor que aquela fixada na sentença, tendo em vista que o Tribunal a quo também afastou a causa de aumento de pena do emprego de arma de fogo, resta configurada indevida reformatio in pejus, eis que agravada a situação do réu em recurso exclusivo da defesa.
+Considerando que o Juízo sentenciante reconheceu "três circunstâncias judiciais negativas, uma das quais valorada de forma mais gravosa (multireincidência)" (e-STJ, fl. 552), não se mostra desproporcional o aumento da reprimenda no patamar de 4/8 sobre a pena mínima cominada ao delito.
+Passa-se, assim, à nova dosimetria da reprimenda imposta ao recorrente.
+Na primeira fase, mantidas três circunstâncias judiciais desfavoráveis e reconhecida a ocorrência de reformatio in pejus, deve ser restabelecida a pena-base fixada 4/8 acima do mínimo legal, em 6 anos de reclusão, mais o pagamento de 15 dias-multa.
+Na segunda fase, presente a agravante da reincidência e majorada a pena em 1/6, a reprimenda fica estabelecida em 7 anos de reclusão, mais o pagamento de 17 dias-multa.
+Na terceira fas e, tendo o recurso especial interposto pelo Órgão ministerial sido provido por este Superior Tribunal de Justiça para restabelecer a causa de aumento de pena do uso de arma de fogo, deve a reprimenda ser aumentada de 2/3, restando fixada em 11 anos e 8 meses de reclusão, mais 28 dias-multa.
+Aplicado o concurso material entre o roubo e a adulteração de sinal identificador de veículo - 3 anos, 11 meses e 7 dias de reclusão, mais 11 dias-multa -, resta a pena totalizada em 15 anos, 7 meses e 7 dias de reclusão, mais o pagamento de 39 dias-multa.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial, a fim de reconhecer a ocorrência de reformatio in pejus na dosimetria da pena e redimensionar a reprimenda do recorrente, fixando-a em 15 anos, 7 meses e 7 dias de reclusão, a ser cumprida no regime inicial fechado, mais o pagamento de 39 dias-multa.
+Publique-se. Intimem-se.
+EMENTA
