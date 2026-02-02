@@ -1,0 +1,2 @@
+Art. 30-A. O PSTI credenciado nos termos desta Resolução deve comunicar ao Banco Central do Brasil, na forma por este definida, a designação e o desligamento de administradores. (Incluído pela Resolução BCB nº 547, de 30/1/2026.)
+Parágrafo único. Caso os administradores não atendam às condições estabelecidas nos arts. 5º e 5º-B, o Banco Central do Brasil concederá prazo para que o PSTI regularize a situação, sob pena do seu descredenciamento. (Incluído pela Resolução BCB nº 547, de 30/1/2026.)

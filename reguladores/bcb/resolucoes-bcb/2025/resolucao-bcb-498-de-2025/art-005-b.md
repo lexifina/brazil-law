@@ -1,0 +1,4 @@
+Art. 5º-B Os administradores devem ter capacitação técnica compatível com as funções a serem exercidas no curso do mandato. (Incluído pela Resolução BCB nº 547, de 30/1/2026.)
+§ 1º A comprovação do atendimento do requisito de capacitação técnica dos administradores, mencionado no caput, envolve as competências e as qualificações necessárias ao exercício das funções, compatíveis com a natureza, o porte, a complexidade e os riscos incorridos pelo PSTI. (Incluído pela Resolução BCB nº 547, de 30/1/2026.)
+§ 2º O Banco Central do Brasil poderá dispensar a comprovação de capacitação técnica de que trata o caput, no caso de administrador cujo nome já tenha sido objeto de apreciação pela Autarquia para o exercício da função. (Incluído pela Resolução BCB nº 547, de 30/1/2026.)
+§ 3º Os administradores poderão exercer suas funções por período de, no máximo, quatro anos, podendo ser renovado por iguais períodos. (Incluído pela Resolução BCB nº 547, de 30/1/2026.)

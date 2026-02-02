@@ -1,0 +1,7 @@
+Art. 5º-A Na comprovação do cumprimento do requisito de reputação ilibada, mencionado no art. 5º, caput, inciso I, deverá ser considerada a existência de: (Incluído pela Resolução BCB nº 547, de 30/1/2026.)
+I - processo criminal ou inquérito policial; (Incluído pela Resolução BCB nº 547, de 30/1/2026.)
+II - processo judicial ou administrativo que tenha relação com o Sistema Financeiro Nacional, o Sistema de Consórcios, o Sistema de Pagamentos Brasileiro ou a prestação de serviços de ativos virtuais; (Incluído pela Resolução BCB nº 547, de 30/1/2026.)
+III - processo relativo à insolvência, liquidação, intervenção, falência ou recuperação judicial; (Incluído pela Resolução BCB nº 547, de 30/1/2026.)
+IV - inadimplemento de obrigações; e (Incluído pela Resolução BCB nº 547, de 30/1/2026.)
+V - outras situações, ocorrências ou circunstâncias análogas. (Incluído pela Resolução BCB nº 547, de 30/1/2026.)
+Parágrafo único. Na análise das situações e ocorrências previstas no caput, serão consideradas a relevância, a gravidade, a recorrência e as circunstâncias de cada caso. (Incluído pela Resolução BCB nº 547, de 30/1/2026.)

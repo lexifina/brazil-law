@@ -1,0 +1,1 @@
+Art. 15-A. O PSTI deve estabelecer estrutura de gestão de riscos, controles internos e conformidade compatível com sua natureza, porte, complexidade, estrutura e perfil de risco. (Incluído pela Resolução BCB nº 547, de 30/1/2026.)
