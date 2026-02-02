@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de Recurso Especial interposto por VOLCA FASHION CONFECÇÕES DE ROUPAS LTDA - FALIDA, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim ementado (e-STJ Fl.44/51):
+AGRAVO DE INSTRUMENTO. HABILITAÇÃO DE CRÉDITO. ALUGUÉIS VENCIDOS ANTES E DEPOIS DA RECUPERAÇÃO JUDICIAL. AÇÃO DE DESPEJO AJUIZADA ANTES DO PEDIDO DE RECUPERAÇÃO JUDICIAL. PERMANÊNCIA DA RECUPERANDA NO IMÓVEL COM PAGAMENTO DE ALGUMAS PARCELAS DO ALUGUEL. DECISÃO QUE DETERMINOU A INCLUSÃO DA TOTALIDADE DO CRÉDITO NO QUADRO GERAL DE CREDORES. INCONFORMISMO DO CREDOR. INCIDÊNCIA DA SÚMULA 1051 DO STJ. "PARA FINS DE SUBMISSÃO AOS EFEITOS DA RECUPERAÇÃO JUDICIAL, CONSIDERA-SE QUE A EXISTÊNCIA DO CRÉDITO É DETERMINADA PELA DATA EM QUE OCORREU O SEU FATO GERADOR. NO CASO O FATO GERADOR É A DATA DO VENCIMENTO DOS ALUGUÉIS. CRÉDITO DE NATUREZA EXTRACONCURSAL POR TER SE CONSTITUÍDO APÓS O DEFERIMENTO DA RECUPERAÇÃO JUDICIAL. REFORMA PARCIAL DA DECISÃO. PROVIMENTO DO RECURSO.
+Segundo a parte recorrente, o recurso preenche os requisitos necessários ao conhecimento e provimento. Alega, em síntese, que o acórdão recorrido violou o artigo 49 da Lei nº 11.101/05.
+Intimada nos termos do art. 1.030 do Código de Processo Civil, a parte recorrida não se manifestou (e-STJ Fl.127).
+Ouvido, o Ministério Público Federal afastou a necessidade de sua intervenção (e-STJ Fl.555/559).
+É o relatório.
+DECIDO.
+O recurso especial é tempestivo e cabível, pois interposto em face de decisão que negou provimento ao recurso de apelação interposto na origem (art. 105, III, alineas, da Constituição Federal).
+No presente processo, a parte afirma, em suma, que estão presentes os requisitos para o conhecimento e provimento de seu recurso.
+Ocorre, contudo, que a questão já foi enfrentada pela decisão recorrida, que analisou detidamente todas as questões jurídicas postas.
+A análise das razões recursais indica que a parte recorrente limitou-se à menção dos preceitos legais que considera violados ou desconsiderados (artigo 49 da Lei nº 11.101/05), sem deixar claro, de maneira argumentativa objetiva e convincente, a forma como ocorreu a efetiva contrariedade ou negativa de vigência, pelo Tribunal de origem.
+A hipótese atrai, portanto, a incidência do entendimento exposto pela súmula 284 do STF, na medida em que: "A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema." (AgInt no AREsp n. 2.444.719/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 26/2/2024, DJe de 28/2/2024.)
+Com efeito, "As razões do recurso especial devem exprimir, com transparência e objetividade, os motivos pelos quais a agravante visa reformar o decisum." (AgInt no AREsp n. 2.562.537/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 19/8/2024, DJe de 22/8/2024.)
+No presente feito, percebe-se das razões recursais que a parte recorrente limitou-se a revolver suas alegações, sem, contudo, indicar de forma clara qual dispositivo de lei a interpretação do Tribunal de origem vilipendiou.
+A análise dos autos indica, ainda, que a Corte de origem adotou entendimento alinhado ao perfilhado pela jurisprudência desta Corte, o que atrai a incidência do comando da Súmula n. 83 deste Superior Tribunal de Justiça ("não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida").
+Nesse aspecto, tem-se que o fato gerador, na hipótese de crédito decorrente do inadimplemento de valor relativo a aluguéis, será o vencimento de cada parcela e não a contratação que deu origem à obrigação.
+Com efeito, em demandas com a mesma causa de pedir, este colegiado vem se manifestando da seguinte forma:
+"Para o fim de submissão aos efeitos da recuperação judicial, considera-se que a existência do crédito é determinada pela data em que ocorreu o seu fato gerador". (REsp n. 1.843.382/RS, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 9/12/2020, DJe de 17/12/2020.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DESTA CORTE. RECONSIDERAÇÃO. CRÉDITO DECORRENTE DE COBRANÇA DE ALUGUÉIS. EMPRESA RÉ EM RECUPERAÇÃO JUDICIAL. FATO GERADOR ANTERIOR AO PEDIDO DE RECUPERAÇÃO. ART. 49, CAPUT, DA LEI N. 11.101/2005. RECURSO PROVIDO.
+1. "Na hipótese, tratando-se de crédito derivado de fato ocorrido em momento anterior àquele em que requerida a recuperação judicial, deve ser reconhecida sua sujeição ao plano de soerguimento da sociedade devedora" (REsp n. 1.727.771/RS, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 15/5/2018, D Je 18/5/2018).
+2. Agravo interno a que se dá provimento para reconsiderar a decisão da Presidência desta Corte e conhecer do agravo nos próprios autos, a fim de dar provimento ao recurso especial.
+(AgInt no AREsp n. 1.573.613/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 11/2/2020, DJe de 18/2/2020.)
+Na esteira da jurisprudência dominante desta Corte, a superação do óbice da Súmula n. 83/STJ exige que o recorrente colacione precedentes deste Superior Tribunal de Justiça, contemporâneos ou supervenientes a seu favor, ou demonstre alguma distinção entre os julgados mencionados na decisão agravada e o caso em exame, o que não fez. Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ADMISSIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DA DECISÃO AGRAVADA. ART. 544, § 4º, I, DO CÓDIGO DE PROCESSO CIVIL.
+1. Incumbe ao agravante infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo (art. 544, § 4º, I, do CPC).
+2. Não basta, para afastar o óbice da Súmula nº 83/STJ, a alegação genérica de que o acórdão recorrido não está em consonância com a jurisprudência desta Corte, devendo a parte recorrente demonstrar que outra é a positivação do direito na jurisprudência desta Corte, com a indicação de precedentes contemporâneos ou supervenientes aos referidos na decisão agravada.
+3. Agravo regimental não provido.
+(AgRg no AREsp n. 238.064/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 7/8/2014, DJe de 18/8/2014. Grifo Acrescido)
+A análise das razões recursais indica que, embora afirme o adequado superamento dos óbices apontados, a parte agravante não traz precedente contemporâneo que contemple a tese defendida sem a necessidade de reanálise fático-probatória.
+Ante o exposto, não conheço do recurso especial.
+Deixo de majorar os honorários recursais, posto que a providência é incabível na espécie.
+ EMENTA
