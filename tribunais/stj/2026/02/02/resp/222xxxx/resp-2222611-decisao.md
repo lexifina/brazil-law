@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de Recurso Especial interposto por COOPERATIVA DE CREDITO, POUPANCA E INVESTIMENTO SICREDI SERIGY - SICREDI SERIGY SE/BA, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE, assim ementado (e-STJ, fl. 368):
+APELAÇÃO CÍVEL. AÇÃO MONITORIA. CONTRATOS BANCÁRIOS. EMPRÉSTIMO E ABERTURA DE CONTA CORRENTE (CARTÃO DE CRÉDITO). INADIMPLÊNCIA. PROCEDÊNCIA DO PEDIDO INICIAL. CONSTITUIÇÃO DO TÍTULO EXECUTIVO JUDICIAL. PRELIMINAR REJEITADA. DA INCIDÊNCIA DE ENCARGOS DE MORA. JUÍZO SENTENCIANTE DETERMINOU A APLICAÇÃO DE ENCARGOS LEGAIS NA ATUALIZAÇÃO DO DÉBITO, A PARTIR DO VALOR ORIGINÁRIO. PRETENSÃO RECURSAL DE OBSERVÂNCIA AOS ENCARGOS CONTRATUAIS PACTUADOS ATÉ O VENCIMENTO. INSUBSISTÊNCIA. NA LINHA DA JURISPRUDÊNCIA PÁTRIA, OS ENCARGOS CONTRATUAIS INCIDEM, NO PERÍODO DE INADIMPLÊNCIA, ATÉ O AJUIZAMENTO DA AÇÃO. PRECEDENTES. APLICAÇÃO DOS ENCARGOS CONTRATUAIS ATÉ O AJUIZAMENTO DA AÇÃO, E ENCARGOS LEGAIS POSTERIORMENTE. REFORMA PARCIAL DA SENTENÇA. RECURSO CONHECIDO E PROVIDO PARCIALMENTE. DECISÃO UNÂNIME.
+Segundo a parte recorrente, o recurso preenche os requisitos necessários ao conhecimento e provimento, sustentando violação aos artigos 9º, 10, 141 e 492 do Código de Processo Civil, além de divergência jurisprudencial.
+Argumenta que o acórdão recorrido, ao limitar a incidência dos encargos contratuais ao ajuizamento da ação monitória, contraria a jurisprudência consolidada do Superior Tribunal de Justiça, que admite a cobrança dos encargos pactuados até o efetivo pagamento do débito. Alega que a limitação imposta configura decisão extra petita e viola os princípios do contraditório e da vedação à decisão surpresa, caracterizando enriquecimento sem causa dos recorridos.
+Intimada nos termos do art. 1.030 do Código de Processo Civil, a parte recorrida não se manifestou.
+É o relatório.
+DECIDO.
+O recurso especial é tempestivo e cabível, pois interposto em face de decisão que negou provimento ao recurso de apelação interposto na origem (art. 105, III, "a" e "c", da Constituição Federal).
+No presente feito, a controvérsia reside na aplicação dos encargos contratuais de inadimplência até o efetivo pagamento da dívida, em uma ação monitória convertida em título executivo judicial.
+Da análise dos autos, observa-se que o Tribunal de Justiça entendeu que, após o ajuizamento da ação monitória, os encargos contratuais deixam de incidir, sendo substituídos pelos encargos legais (correção monetária pelo INPC e juros moratórios de 1% ao mês a partir da citação).
+A recorrente, por sua vez, alega violação aos artigos 9º, 10, 141 e 492 do Código de Processo Civil e aponta divergência jurisprudencial com o entendimento do Superior Tribunal de Justiça.
+A jurisprudência do Superior Tribunal de Justiça possui entendimento consolidado no sentido de que, em caso de inadimplência contratual, os encargos livremente pactuados, desde que não abusivos e não cumulados indevidamente, devem incidir até o efetivo pagamento da dívida.
+Desse modo, a propositura da ação monitória e a subsequente conversão do mandado monitório em título executivo judicial não alteram a natureza dos encargos moratórios originalmente contratados e válidos.
+Com efeito, em demandas com a mesma causa de pedir, o STJ vem se manifestando da seguinte forma:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. DISSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ.
+1. Ação monitória.
+2.Havendo inadimplência, admite-se a cobrança dos encargos contratados até o efetivo pagamento, e não, limitadamente, ao ajuizamento da ação executiva. Precedentes. Ante o entendimento dominante do tema nesta Corte Superior, aplica-se, no particular, a Súmula 568/STJ.
+3. Agravo conhecido. Recurso especial conhecido e provido.
+(AREsp n. 2.782.387/MT, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 17/3/2025, DJEN de 21/3/2025.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. INADIMPLÊNCIA CONTRATUAL. CORREÇÃO MONETÁRIA. TERMO FINAL. DATA DO EFETIVO PAGAMENTO DO DÉBITO. PRECEDENTES. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência desta Corte Superior é no sentido de que, "havendo inadimplência contratual, admite-se a cobrança dos encargos contratados até o efetivo pagamento do débito, e não, limitadamente, ao ajuizamento da ação executiva" (AgInt nos EDcl no AREsp n. 1.750.502/SC, relator Ministro Raul Araújo, Quarta Turma, julgado em 21/6/2021, DJe de 1/7/2021).
+2. Agravo interno desprovido.
+(AgInt no AREsp n. 2.288.299/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 11/12/2023, DJe de 14/12/2023.)
+De fato, a subsistência dos encargos contratuais até o efetivo pagamento é medida que prestigia o princípio do pacta sunt servanda, basilar do direito contratual, que só cede espaço em face de comprovada abusividade, ilegalidade ou onerosidade excessiva.
+No caso em apreço, não houve a comprovação de tais vícios pelas partes recorridas, que permaneceram inertes ao longo do processo.
+Ao contrário, a ação monitória se funda em contratos de empréstimo e abertura de crédito, que foram constituídos em títulos executivos pela revelia dos devedores, e a alegação de revisão de ofício dos encargos contratuais fere a autonomia da vontade e os limites da atuação judicial.
+Desse modo, a decisão do Tribunal de origem, ao afastar a aplicação dos encargos contratuais válidos e substituí-los por encargos legais a partir do ajuizamento da ação, sem que houvesse comprovação de sua ilegalidade ou abusividade, e sem que tal pleito tivesse sido formulado pelas partes, violou os artigos 9º, 10, 141 e 492 do Código de Processo Civil, que preveem a necessidade de observância do contraditório, da vedação à decisão surpresa e dos limites da demanda.
+Dessa forma, diante da divergência com a jurisprudência desta Corte Superior e da inobservância dos artigos de lei federal indicados, o recurso merece provimento para que os encargos contratuais de inadimplência, conforme pactuado e comprovado nos autos, incidam até o efetivo pagamento da dívida.
+Ante o exposto, conheço do recurso especial e lhe dou provimento, para reformar o acórdão proferido pelo Tribunal de origem e determinar que os encargos contratuais de inadimplência incidam sobre o valor da dívida até o seu efetivo pagamento.
+Inverto os ônus sucumbencias eventualmente impostos em função do capítulo reformado.
+ EMENTA
