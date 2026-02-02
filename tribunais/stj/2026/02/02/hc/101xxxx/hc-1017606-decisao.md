@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus ajuizado em benefício de Marcio Jose Nisiguchi - condenado à pena de 8 anos de reclusão, em regime inicial fechado, além do pagamento de 1.200 dias-multa, pela prática dos crimes de tráfico de drogas e associação para o tráfico -, em que o impetrante aponta como autoridade coatora o TRIBUNAL DE JUSTI ÇA DE SÃO PAULO (Apelação Criminal n. 1500020-65.2019.8.26.0578).
+Após a concessão da ordem no HC n. 974.736 para alterar o regime prisional fechado pelo semiaberto, writ impetrado em favor do mesmo paciente contra idêntico acórdão, a defesa agora busca a absolvição da imputação penal prevista no art. 35 da Lei n. 11.343/2006.
+Para tanto, alega a falta de comprovação da estabilidade, da permanência e da divisão de tarefas a justificar a condenação.
+Processado sem pedido liminar (fl. 175), depois de prestadas informações (fls. 178/181 e 185/267), o Ministério Público Federal manifestou-se pela denegação da ordem (fls. 271/275).
+É o relatório.
+A impetração não prospera, visto que a insurgência apresentada pela defesa neste writ tem nítidas feições de revisão criminal. Já houve o trânsito em julgado da condenação imposta ao paciente, o que denota flagrante impropriedade do meio processual ora utilizado.
+Além disso, o mesmo advogado impetrou recentemente outro habeas corpus nesta Corte, sem abordar a tese agora formulada.
+Assim, houve evidente fracionamento de pedidos em oportunidades diversas pela Defesa, procedimento igualmente refutado por esta Corte Superior de Justiça, por representar verdadeiro tumulto processual e ferir os deveres de ética e lealdade processuais (AgRg no HC n. 760.334/SP, Ministro Teodoro Silva Santos, Sexta Turma, DJe 5/3/2024).
+Por fim, como bem observado pela Subprocuradora-Geral da República Raquel Elias Ferreira Dodge, as instâncias ordinárias, soberanas na análise das provas, concluíram pela existência de associação estável e duradoura entre os pacientes com o objetivo de comercializar entorpecentes. O acórdão afirmou que o caso não revelou mera coautoria ou concurso de pessoas, mas sim de uma organização sólida entre indivíduos, com funções bem definidas entre ambos os integrantes, todos atuantes e vinculados subjetivamente entre si para o aperfeiçoamento do tráfico ilícito de entorpecentes na cidade de Ipaussu/SP, de modo a configurar concretamente o delito autônomo tipificado no artigo 35 da Lei n. 11.343/20 06 (fl. 271).
+Afora isso, o pleito de absolvição é incompatível com a via eleita, por demandar profundo revolvimento do material fático-probatório, tarefa para a qual não se presta o habeas corpus (EDcl no AgRg nos EDcl no HC n. 895.396/MS, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 9/9/2025).
+Pelo exposto, denego a ordem.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. OPERAÇÃO GAME OVER. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O MESMO FIM. CONDENAÇÃO TRANSITADA EM JULGADO. ABSOLVIÇÃO PELO CRIME DO ART. 35 DA LEI N. 11.343/2006. FRACIONAMENTO DE PEDIDO. REVOLVIMENTO FÁTICO-PROBATÓRIO. DESCABIMENTO DO WRIT. INSTÂNCIAS ORDINÁRIAS CONCLUÍRAM PELA ORGANIZAÇÃO SÓLIDA, COM FUNÇÕES BEM DEFINIDAS ENTRE OS INTEGRANTES. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER ACOLHIDO.
+Ordem denegada.
