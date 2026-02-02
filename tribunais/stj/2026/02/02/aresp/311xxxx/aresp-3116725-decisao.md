@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo (e-STJ, fls. 401-408) contra a decisão de fls. 376-379, que inadmitiu o recurso especial interposto por ANTONIEL DA SILVA MATA, com fundamento no artigo 105, inciso III, alínea "a", da Constituição da República, contra acórdão proferido pelo Tribunal de Justiça do Estado do Maranhão (e-STJ, fls. 368).
+No recurso especial inadmitido, o recorrente aponta violação aos seguintes dispositivos da legislação processual penal: art. 625, § 1º, e § 3º, do Código de Processo Penal (e-STJ, fls. 367-371).
+Pleiteia, em primeiro lugar, a reforma do acórdão proferido pela Seção de Direito Criminal do Tribunal de Justiça do Maranhão, a fim de afastar o indeferimento liminar da revisão criminal e determinar o seu regular processamento, com retorno dos autos para análise do mérito do pedido revisional (e-STJ, fls. 371-372).
+Instado, o recorrido apresentou contrarrazões ao recurso especial (e-STJ, fls. 380-384).
+O recurso especial foi inadmitido na origem (e-STJ, fls. 376-379), ao que se seguiu a interposição do presente agravo (e-STJ, fls. 401-408).
+Remetidos os autos a esta Corte Superior, o Ministério Público Federal manifestou-se pela prejudicialidade do recurso especial por perda superveniente de objeto (e-STJ, fls. 436-438).
+É o relatório.
+Decido.
+O recorrente foi condenado pelo crime de tráfico de drogas (art. 33, caput, da Lei n. 11.343/2006) à pena de 5 anos de reclusão, em regime inicial semiaberto. Após o trânsito em julgado, foi proposta revisão criminal ao TJMA, indeferida liminarmente por ausência da certidão de trânsito em julgado exigida pelo art. 625, § 1º, do CPP, decisão mantida em agravo regimental (e-STJ, fls. 347-361).
+A questão jurídica central cinge-se a saber se o indeferimento liminar por ausência da certidão, posteriormente juntada no curso do agravo regimental, poderia ser superado à luz da primazia do julgamento de mérito, e se a aplicação do óbice da Súmula 83/STJ na inadmissibilidade do recurso especial foi adequada.
+No caso, sobreveio decisão desta Corte no HC n. 1.027.828/MA, de minha relatoria, que cassou o acórdão prolatado pelo Tribunal de origem na revisão criminal n. 0811293-07.2025.8.10.0000 e determinou a apreciação dos argumentos contidos na ação revisional, com comunicação urgente ao TJMA (e-STJ, fls. 437-438).
+Consta do referido julgado: "o acórdão está correto do ponto de vista formal, mas malfere os princípios da economia processual e da celeridade, haja vista que a defesa juntou, em sede de agravo regimental, a certidão de trânsito em julgado, permitindo a devida apreciação da revisão criminal, que avalia, em última análise, o direito de liberdade do indivíduo. Nesse contexto, em atendimento ao princípio da eficiência, a fim de que se evite o ajuizamento de nova revisão criminal, deve o Tribunal apreciar o que requerido na inicial revisional" (e-STJ, fls. 437).
+Assim, à vista da superveniente cassação do acórdão recorrido no âmbito do habeas corpus concedido nesta Corte, com determinação de processamento da revisão criminal, verifica-se a perda de objeto do recurso especial. Com efeito, o mérito que se pretendia alcançar pelo apelo excepcional já foi solucionado por esta Corte, por prevenção, no writ, com trânsito em julgado mencionado nos autos (e-STJ, fls. 438), o que torna inútil a apreciação das teses veiculadas no especial.
+Ante o exposto, com fundamento no art. 253, parágraf o único, II, "a", do Regimento Interno do STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
