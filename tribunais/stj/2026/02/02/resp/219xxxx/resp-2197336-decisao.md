@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de Recurso Especial interposto por B2 REAL ASSETS LTDA, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado (e-STJ, fls. 112):
+EMENTA. Agravo de instrumento. Falência. Decisão indeferiu a arrematação de imóvel pela agravante. Inconformismo. Descabimento. Reforma da Lei n. 11.101/2005 afastou a figura de preço vil do processo de falência. Inexistência de autorização para alienação dos bens da massa falida por qualquer valor. Oferta de preço inferior a meio por cento do valor atualizado do imóvel. Prejuízo à coletividade de credores configurado. Indeferimento da arrematação de rigor. Decisão mantida. Recurso não provido.
+Segundo a parte recorrente, o recurso preenche os requisitos necessários ao conhecimento e provimento.
+Intimada nos termos do art. 1.030 do Código de Processo Civil, a parte recorrida afirmou a inexistência de requisitos ou elementos aptos a promover a alteração do julgado impugnado.
+É o relatório.
+DECIDO.
+O recurso especial é tempestivo e cabível, pois interposto em face de decisão que negou provimento ao recurso de apelação interposto na origem (art. 105, III, "a" e "c", da Constituição Federal).
+No presente processo, a parte afirma, em suma, que estão presentes os requisitos para o conhecimento e provimento de seu recurso.
+Ocorre, contudo, que a questão já foi enfrentada pela decisão recorrida, que analisou detidamente todas as questões jurídicas postas.
+A análise dos autos indica que a Corte de origem adotou entendimento desalinhado ao perfilhado pela jurisprudência desta Corte. Com efeito, em recentemente, este colegiado firmou entendimento de que, no procedimento falimentar, após a promoção das alterações efetivadas pela Lei nº 14.112/2020, "Respeitadas as formalidades legais, garantida a competitividade, com a ampla divulgação do leilão ou outra forma de alienação escolhida, não se mostra possível anular o leilão com base na alegação de arrematação por preço irrisório sem a respectiva proposta de melhor oferta." (REsp n. 2.174.514/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 16/9/2025, DJEN de 19/9/2025.)
+Confira-se, por oportuno, o teor do acórdão:
+RECURSO ESPECIAL. FALÊNCIA. REALIZAÇÃO DO ATIVO. LEILÃO. TERCEIRA CHAMADA. LEI Nº 14.112/2020. PREÇO VIL. NÃO INCIDÊNCIA. IMPUGNAÇÃO. PROPOSTA. OFERTA FIRME. NECESSIDADE.
+1. A controvérsia dos autos resume-se em definir se na falência é possível a venda de bem do ativo pelo equivalente a 2% (dois por cento) do valor da avaliação.
+2. Com as modificações trazidas pela Lei nº 14.112/2020 ao processo de falência, buscou-se otimizar a utilização produtiva dos bens, promover a liquidação célere de empresas inviáveis com vistas à realocação eficiente dos recursos e permitir o retorno do falido ao exercício da atividade econômica.
+3. Dentre as alterações promovidas na realização do ativo, está previsto que a alienação de bens não está sujeita ao conceito de preço vil. Ademais, as impugnações baseadas no valor de venda somente serão recebidas se acompanhadas de oferta firme do impugnante ou de terceiro para aquisição do bem.
+4. Respeitadas as formalidades legais, garantida a competitividade, com a ampla divulgação do leilão ou outra forma de alienação escolhida, não se mostra possível anular o leilão com base na alegação de arrematação por preço irrisório sem a respectiva proposta de melhor oferta.
+5. Na impugnação deve ficar demonstrada a ocorrência de alguma irregularidade que comprometeu o lance do impugnante.
+6. Na hipótese dos autos, diante da não apresentação de proposta de melhor preço, não é possível anular leilão de imóvel no qual foram respeitadas as formalidades legais, com base tão somente na alegação de arrematação por preço vil.
+7. Recurso especial provido.
+(REsp n. 2.174.514/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 16/9/2025, DJEN de 19/9/2025.)
+Dessa forma, observa-se que a corte de origem inobservou o entendimento pacificado nesta Terceira Turma ao assentar que "Ainda que se tenha afastado a figurado preço vil do processo falimentar, de forma a tornar mais ágil a liquidação dos ativos da massa falida, não há se falar em autorização para a dilapidação dos ativos da massa falida por valores irrisórios, o que poderia dar causa a prejuízo à coletividade de credores e ao enriquecimento indevido do arrematante, circunstâncias inadmissíveis em nosso ordenamento jurídico." (e-STJ Fl.113)
+Com efeito, como apontado no recurso supracitado, o valor da arrematação mostra-se irrelevante no regime da Lei nº 14.112/2020, devendo o controle judicial se limitar às "formalidades legais, garantida a competitividade, com a ampla divulgação do leilão" bem como à apuração da existência de "proposta de melhor oferta."
+Assim, há de ser anulado o acórdão recorrido para que novo seja proferido em atenção aos elementos firmados por esta Terceira Turma no REsp n. 2.174.514/SP no exercício do controle de legalidade à arrematação.
+Ante o exposto, conheço do recurso especial e lhe dou provimento para anular o acórdão recorrido e determinar que novo seja proferido em atenção aos elementos firmados por esta Terceira Turma no REsp n. 2.174.514/SP no exercício do controle de legalidade à arrematação.
+Não preenchidos os termos do art. 85, § 11, do Código de Processo Civil, deixo de majorar a verba sucumbencial. Deixo de inverter a sucumbência arbitrada diante da anulação do comando decisório colegiado.
+EMENTA
