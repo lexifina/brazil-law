@@ -1,0 +1,73 @@
+DECISÃO
+
+RECLAMAÇÃO. DIREITO EMPRESARIAL. FALÊNCIAS. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA PARA SATISFAÇÃO DE CRÉDITO TRABALHISTA. ALEGADO DESRESPEITO À SÚMULA VINCULANTE N. 10 DO SUPREMO TRIBUNAL FEDERAL: INOCORRÊNCIA. IMPOSSIBILIDADE DE UTILIZAÇÃO DE RECLAMAÇÃO COMO SUCEDÂNEO RECURSAL: PRECEDENTES. RECLAMAÇÃO À QUAL SE NEGA SEGUIMENTO.
+
+Relatório
+1. Reclamação, com requerimento de medida liminar, ajuizada por Lucas Fernandes Falanchi e outro, em 30.1.2026, contra a seguinte decisão do Ministro Relator do Tribunal Superior do Trabalho no Recurso de Revista n. 1001794-55.2016.5.02.008, pela qual teria sido contrariada a Súmula Vinculante n. 10 deste Supremo Tribunal:
+“’EMPRESA FALIDA - REDIRECIONAMENTO DA EXECUÇÃO – DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA – COMPETÊNCIA DA JUSTIÇA DO TRABALHO’
+(...) Conforme se constata da decisão recorrida, o Tribunal Regional do Trabalho entendeu pela incompetência da Justiça do Trabalho para dirimir o presente feito, afastando a competência material desta Justiça Especializada para apreciar a instauração do incidente de desconsideração da personalidade jurídica da executada, que se constitui como empresa falida.
+Todavia, a jurisprudência predominante nesta Corte Superior, a qual me filio, vem se posicionando em sentido contrário à tese firmada pelo juízo a quo.
+(...) Desta forma, conclui-se que a decisão regional que considerou a Justiça do Trabalho incompetente para o prosseguimento de atos executórios em face dos sócios da massa falida, encontra-se em desarmonia com o atual entendimento desta Corte Superior.
+Por fim, nem se invoque a nova redação do art. 82-A, parágrafo único, da Lei 11.101/2005, que foi incluído pela Lei 14.112, de 24 de dezembro de 2020, para afastar a competência da Justiça Especializada trabalhista. Isso porque, em recente julgado, prevaleceu nesta 2ª Turma, a partir do voto da Exma. Min. Maria Helena Mallmann, o entendimento segundo o qual tal dispositivo apenas determina que, quando a desconsideração for determinada pelo juízo falimentar, o procedimento deve observar os pressupostos definidos no Código Civil e no Código de Processo Civil.
+(...) Com esses fundamentos, conheço do recurso de revista por violação ao art. 114, I, da Constituição Federal. MÉRITO Como consequência do conhecimento do recurso de revista por violação ao art. 114, I, da Constituição Federal, dou-lhe provimento para restabelecer a sentença que reconheceu a competência da Justiça do Trabalho para julgar o Incidente de Desconsideração da Personalidade Jurídica, determinando o retorno dos autos ao Tribunal Regional, para que prossiga no exame do incidente como entender de direito” (doc. 4).
+
+Contra essa decisão, os reclamantes opuseram embargos de declaração acolhidos somente para prestar esclarecimentos adicionais sem efeitos modificativos. Opuseram novamente embargos de declaração rejeitados e agravo regimental pendente de análise até a presente data.
+
+2. Os reclamantes alegam que, na origem, “trata-se de reclamação trabalhista ajuizada por WAGNER PEREIRA LUIZ, na qual, após frustradas tentativas executivas, foi instaurado Incidente de Desconsideração da Personalidade Jurídica, com o objetivo de atingir o patrimônio pessoal dos ora reclamantes. Ocorre que a principal empresa executada teve a falência decretada, (proc 1019178-11.2020.8.26.0100 – 2ª Vara de Falência do Tribunal de Justiça de São Paulo), circunstância que atrai a incidência direta do art. 82-A da Lei nº 11.101/2005, dispositivo que estabelece, de forma clara, que a apuração de responsabilidade de sócios e administradores deve ser submetida ao juízo universal da falência, como decorrência lógica do princípio da par conditio creditorum (igualdade entre credores)” (fl. 3).
+
+Apontam que “o Tribunal Regional do Trabalho da 2ª Região, em acórdão proferido pela 13ª Turma, reconheceu a improcedência do IDPJ, assentando expressamente a incompetência da Justiça do Trabalho para o exame do incidente, justamente em razão da falência” (fl. 4), entretanto a autoridade reclamada reformou essa decisão e decidiu “ser competente a Justiça do Trabalho para o processamento do IDPJ, afastando a incidência do art. 82-A da Lei nº 11.101/2005” (fl. 5).
+
+Afirmam que, “no julgamento da Reclamação Constitucional nº 83.535/SP, de relatoria do Min. Gilmar Mendes, o Supremo Tribunal Federal firmou entendimento inequívoco no sentido de que o art. 82-A da Lei nº 11.101/2005 possui natureza definidora de competência (...). Naquele precedente, esta Corte reconheceu que o deslocamento da análise do IDPJ para fora do juízo falimentar viola o modelo constitucional de tratamento da insolvência, compromete a igualdade entre credores e afronta diretamente o juízo universal da falência” (fl. 7).
+
+Sustentam que “o acórdão proferido pela 2ª Turma do TST afastou a aplicação do art. 82-A da Lei nº 11.101/2005 sem submissão da matéria ao órgão plenário, sob fundamento de interpretação infraconstitucional, em sentido diametralmente oposto ao decidido no precedente desta Corte” (fl. 8, grifos nossos).
+
+Requerem “a concessão de medida liminar, para suspender imediatamente o processamento do Incidente de Desconsideração da Personalidade Jurídica e quaisquer atos constritivos dele decorrentes, até o julgamento final desta Reclamação” (fl. 16).
+
+No mérito, pedem “o julgamento procedente da Reclamação, para cassar o acórdão reclamado, determinando-se a observância do art. 82-A da Lei nº 11.101/2005, com o reconhecimento da competência exclusiva do juízo falimentar para o processamento e julgamento do incidente de desconsideração da personalidade jurídica de empresa com falência decretada” (fl. 16).
+
+Examinados os elementos havidos nos autos, DECIDO.
+
+3. No parágrafo único do art. 161 do Regimento Interno do Supremo Tribunal Federal, dispõe-se que “o Relator poderá julgar a reclamação quando a matéria for objeto de jurisprudência consolidada do Tribunal”, como se tem na espécie.
+
+4. Põe-se em foco na presente ação se a autoridade reclamada teria afastado o art. 82-A da Lei n. 11.101/2005 (Lei de Falências), contrariando a Súmula Vinculante n. 10 deste Supremo Tribunal.
+
+5. A reclamação é instrumento constitucional processual posto no sistema como dupla garantia formal da jurisdição: primeiro, para o jurisdicionado que tenha recebido resposta a pleito formulado judicialmente e vê a decisão proferida afrontada, fragilizada e despojada de plena eficácia; segundo, para o Supremo Tribunal Federal (al. l do inc. I do art. 102 da Constituição da República) ou para o Superior Tribunal de Justiça (al. f do inc. I do art. 105 da Constituição), que podem ter as suas competências enfrentadas e menosprezadas por outros órgãos do Poder Judiciário e a autoridade das decisões proferidas mitigada em face de atos questionados.
+
+Busca-se pela reclamação fazer que a prestação jurisdicional se mantenha dotada de vigor jurídico próprio ou que o órgão judicial de instância superior tenha sua competência resguardada.
+
+A reclamação não se presta a antecipar julgados, atalhar julgamentos, fazer sucumbirem decisões sem que se atenham à legislação processual específica discussão ou litígio a serem solucionados judicialmente.
+
+6. O instituto da súmula vinculante inaugurou hipótese de cabimento de reclamação para o Supremo Tribunal Federal, conforme disposto no § 3º do art. 103-A da Constituição da República.
+
+A contrariedade a determinada súmula ou a sua aplicação indevida por ato administrativo ou decisão judicial possibilitam a atuação do Supremo Tribunal Federal, que, ao julgar a reclamação procedente, pode anular o ato ou cassar a decisão e determinar outra seja proferida, com ou sem a aplicação da súmula, conforme o caso.
+
+Tem-se na Súmula Vinculante n. 10 do Supremo Tribunal Federal:
+“Viola a cláusula de reserva de plenário (CF, artigo 97) a decisão de órgão fracionário de Tribunal que, embora não declare expressamente a inconstitucionalidade de lei ou ato normativo do poder público, afasta sua incidência, no todo ou em parte”.
+
+7. Não se comprova contrariedade à Súmula Vinculante n. 10 deste Supremo Tribunal por inobservância do princípio da reserva de plenário.
+8. No caso em exame, ao fundamentar a decisão impugnada, a autoridade reclamada não afastou a aplicação da Lei n. 11.101/2005. Diferente da exposição feita, limitou-se o órgão julgador a interpretá-la de forma sistemática, em harmonia com o ordenamento jurídico vigente, aplicando seus dispositivos conforme previsto, levando em consideração a legislação subjacente – incluindo o Código Civil e o Código de Processo Civil – e a jurisprudência consolidada nos tribunais superiores. Nesse sentido, por exemplo:
+“AGRAVO REGIMENTAL NA RECLAMAÇÃO. TRABALHISTA. DIREITO EMPRESARIAL. FALÊNCIAS. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA PARA SATISFAÇÃO DE CRÉDITO TRABALHISTA. ALEGADO DESRESPEITO À SÚMULA VINCULANTE N. 10 DO SUPREMO TRIBUNAL FEDERAL: INOCORRÊNCIA. IMPOSSIBILIDADE DE UTILIZAÇÃO DE RECLAMAÇÃO COMO SUCEDÂNEO RECURSAL: PRECEDENTES. . AGRAVO REGIMENTAL DESPROVIDO” (Rcl n. 86.811-AgR, Relatora a Ministra Cármen Lúcia, Primeira Turma, DJe 10.12.2025).
+
+“Agravo interno. Reclamação constitucional. Súmula Vinculante 10. Desconsideração da personalidade jurídica em execução trabalhista. Inexistência de afastamento de lei ou ato normativo com base em fundamento constitucional. Mera interpretação de norma infraconstitucional. Utilização da reclamação como sucedâneo de recurso. Inviabilidade. Agravo a que se nega provimento. 1. Na esteira da jurisprudência desta Suprema Corte, quando ocorrer tão-somente processo de hermenêutica infraconstitucional, função inerente a toda atividade jurisdicional, não há falar em afronta à Súmula Vinculante 10. 2. Ausente contrariedade à Súmula Vinculante 10 a autorizar o cabimento da reclamação, nos moldes do art. 103-A, § 3º, da Constituição da República. 3. A reclamação constitucional é ação vocacionada para a tutela específica da competência e autoridade das decisões proferidas por este Supremo Tribunal Federal, pelo que não se consubstancia como sucedâneo recursal, ação rescisória, incidente de uniformização de jurisprudência ou via adequada para o reexame do conteúdo do ato reclamado. Precedentes. 4. Agravo interno conhecido e não provido, com aplicação da penalidade prevista no art. 1.021, § 4º, do CPC/2015, calculada à razão de 1% (um por cento) sobre o valor atualizado da causa, se unânime a votação” (Rcl n. 49.282-AgR, Relatora a Ministra Rosa Weber, Primeira Turma, DJe 27.4.2022).
+
+No mesmo sentido são as seguintes decisões monocráticas: Rcl n. 74.663, Relator o Ministro Flávio Dino, DJe 13.2.2025; Rcl n. 71.533, Relator o Ministro Nunes Marques, DJe 7.1.2025; Rcl n. 74.499, Relator o Ministro Nunes Marques, DJe 7.1.2025; Rcl n. 73.707, Relator o Ministro Edson Fachin, 5.12.2024; e Rcl n. 69.891, Relator o Ministro André Mendonça, DJe 22.7.2024.
+
+9. O objetivo da reclamação é a preservação da competência e a garantia da autoridade das decisões proferidas pelo Supremo Tribunal Federal. Ela não se qualifica como sucedâneo recursal nem configura instrumento processual viabilizador do reexame do conteúdo do ato reclamado. Nesse sentido, por exemplo:
+“O remédio constitucional da reclamação não pode ser utilizado como um (inadmissível) atalho processual destinado a permitir, por razões de caráter meramente pragmático, a submissão imediata do litígio ao exame direto do Supremo Tribunal Federal. Precedentes. – A reclamação, constitucionalmente vocacionada a cumprir a dupla função a que alude o art. 102, I, l, da Carta Política (RTJ 134/1033), não se qualifica como sucedâneo recursal nem configura instrumento viabilizador do reexame do conteúdo do ato reclamado, eis que tal finalidade revela-se estranha à destinação constitucional subjacente à instituição dessa medida processual. Precedentes” (Rcl n. 4.381-AgR, Relator o Ministro Celso de Mello, Plenário, DJe 5.8.2011).
+
+“AGRAVO REGIMENTAL NA RECLAMAÇÃO. DIREITO ADMINISTRATIVO. AUSÊNCIA DE INDICAÇÃO DO PARADIGMA VINCULANTE OU DA USURPAÇÃO DE COMPETÊNCIA DO STF. PRETENSÃO DE REVISÃO DO MÉRITO DO ATO RECLAMADO. IMPOSSIBILIDADE. PRECEDENTES. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. 1. A Reclamação, por expressa determinação constitucional, destina-se a preservar a competência desta Suprema Corte e a garantir a autoridade de suas decisões, ex vi do artigo 102, I, l, além de salvaguardar a estrita observância de preceito constante em enunciado de Súmula Vinculante, nos termos do artigo 103-A, § 3º, ambos da Constituição Federal. 2. In casu, o Tribunal reclamado, no exercício de suas competências, deixou de conhecer agravo interno, ao argumento de que deveria ter sido manejado o agravo em recurso extraordinário. Não há que se falar, diante da circunstância narrada, em usurpação da competência desta Corte. Precedente: Rcl 28070 AgR, Relator Min. Alexandre de Moraes, Primeira Turma, DJe de 14/12/2017.3. A reclamação ‘não se qualifica como sucedâneo recursal nem configura instrumento viabilizador do reexame do conteúdo do ato reclamado, eis que tal finalidade revela-se estranha à destinação constitucional subjacente à instituição dessa medida processual’(Rcl 4.381-AgR, Rel. Min. Celso de Mello, Tribunal Pleno, Dje de 05/08/2011). 4. A reiteração dos argumentos trazidos pelo agravante na petição inicial da impetração é insuscetível de modificar a decisão agravada. Precedente: Rcl 22.048-ED, Tribunal Pleno, DJe de 23/08/2016.5. Agravo regimental desprovido” (Rcl n. 31.239-AgR, Relator o Ministro Luiz Fux, Primeira Turma, DJe 8.11.2018).
+
+“Agravo regimental em reclamação. 2. Direito Civil e Processual Civil. 3. Alegado descumprimento de decisão proferida por esta Corte. 4. Não ocorrência de nenhuma das hipóteses de cabimento previstas no art. 102, I, ‘l’, da Constituição Federal. 5. Reclamação como sucedâneo recursal. 6. Agravo regimental a que se nega provimento” (Rcl n. 28.917-AgR, Relator o Ministro Gilmar Mendes, Segunda Turma, DJe 9.4.2018).
+
+Ausentes, na espécie, os requisitos processuais viabilizadores do regular trâmite desta reclamação.
+
+10. Pelo exposto, nego seguimento à presente reclamação (§ 1º do art. 21 e parágrafo único do art. 161 do Regimento Interno do Supremo Tribunal Federal), prejudicada a medida liminar requerida.
+
+Ressalte-se que eventual recurso manifestamente inadmissível contra esta decisão demonstraria apenas inconformismo e resistência em pôr termo a processos que se arrastam em detrimento da eficiente prestação jurisdicional, o que sujeitaria a parte à aplicação da multa processual.
+
+Publique-se.
+
+Brasília, 3 de fevereiro de 2026.
+
+Ministra CÁRMEN LÚCIA
+Relatora
