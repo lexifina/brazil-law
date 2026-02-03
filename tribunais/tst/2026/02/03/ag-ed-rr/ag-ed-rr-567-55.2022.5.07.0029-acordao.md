@@ -1,0 +1,580 @@
+Poder Judiciário
+Justiça do Trabalho
+Tribunal Superior do Trabalho
+PROCESSO Nº TST-Ag-ED-RR-567-55.2022.5.07.0029
+A C Ó R D Ã O
+4ª Turma
+GMMCP/afe/ac
+AGRAVO DO RECLAMANTE – AGRAVO DE INSTRUMENTO EM
+RECURSO DE REVISTA DO MUNICÍPIO DE TIANGUÁ -
+RESPONSABILIDADE SUBSIDIÁRIA - ADMINISTRAÇÃO PÚBLICA
+- TERCEIRIZAÇÃO – SÚMULA Nº 331, V, DO TST - CULPA - ÔNUS
+DA PROVA – TEMAS 246 E 1118 DA REPECUSSÃO GERAL DO E.
+STF – TRANSCENDÊNCIA NÃO RECONHECIDA
+1. A jurisprudência do E. Supremo Tribunal Federal atribui o
+ônus da prova da conduta culposa da Administração Pública ao
+trabalhador, para fins de responsabilização subsidiária do ente
+público (Temas 246 e 1.118 de Repercussão Geral).
+2. A Eg. Corte de origem não registrou elementos concretos
+hábeis a evidenciar a conduta culposa do ente público, não
+sendo possível atribuir responsabilidade subsidiária por
+presunção e/ou inversão do ônus probatório.
+3. Agravo a que se nega provimento.
+Vistos, relatados e discutidos estes autos de Agravo em Embargos de Declaração
+em Recurso de Revista nº TST-Ag-ED-RR-567-55.2022.5.07.0029, em que é Agravante ELIAKIM DE BRITO
+NASCIMENTO e são Agravados MUNICÍPIO DE TIANGUÁ e MXM SERVIÇOS E LOCAÇÕES EIRELI.
+Trata-se de Agravo (fls. 831/838) interposto pelo Reclamante à decisão de fls.
+798/808, que deu provimento ao Agravo de Instrumento e, desde já, conheceu e deu provimento ao
+Recurso de Revista do
+Município de Tianguá para afastar a condenação subsidiária que lhe fora imposta.
+Não foram apresentadas contrarrazões, conforme a certidão de fl. 844.
+Dispensada a remessa dos autos ao Ministério Público do Trabalho, nos termos
+regimentais.
+É o relatório.
+V O T O
+I - CONHECIMENTO
+Regularmente processado, conheço do Agravo.
+II - MÉRITO
+Eis o teor da decisão agravada:
+O ente público interpõe Agravo de Instrumento ao despacho que negou seguimento ao
+Recurso de Revista que versava o tema “responsabilidade subsidiária – ente público – ônus da
+prova”.
+Ouvido o MPT, nos termos legais e regimentais.
+É o breve relatório. Decido.
+O Eg. TRT reconheceu a responsabilidade subsidiária do ente público, enquanto tomador de
+serviços.
+O Agravante afirma que o Recurso de Revista comporta processamento. Reitera que sua
+responsabilização subsidiária encontra obstáculo no art. 71, § 1º, da Lei nº 8.666/1993. Alega que não
+ficou demonstrada pela parte Autora a conduta culposa da Administração. Aponta violações legais
+e/ou constitucionais.
+O acórdão regional está contrário à jurisprudência vinculante e reiterada do E. STF, razão pela
+qual identifico transcendência política da questão debatida.
+No julgamento da Ação Direta de Constitucionalidade nº 16, o E. Supremo Tribunal Federal, ao
+declarar a constitucionalidade do art. 71, § 1º, da Lei nº 8.666/1993, firmou o entendimento de que a mera inadimplência do contratado, em relação às parcelas trabalhistas, não autoriza a
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100664E4B574584C2E.
+responsabilização subsidiária do ente da Administração Pública, tomador de serviços. É necessário
+evidenciar a conduta culposa na fiscalização das obrigações contratuais e legais da prestadora de
+serviços.
+Com base nesse entendimento, o Eg. TST acrescentou o item V à Súmula nº 331, nestes termos:
+CONTRATO DE PRESTAÇÃO DE SERVIÇOS. LEGALIDADE (NOVA REDAÇÃO DO ITEM
+IV E INSERIDOS OS ITENS V E VI À REDAÇÃO) - RES. 174/2011, DEJT DIVULGADO EM 27, 30
+E 31.05.2011.
+(...)
+V - Os entes integrantes da Administração Pública direta e indireta respondem
+subsidiariamente, nas mesmas condições do item IV, caso evidenciada a sua conduta
+culposa no cumprimento das obrigações da Lei n.º 8.666, de 21.06.1993, especialmente
+na fiscalização do cumprimento das obrigações contratuais e legais da prestadora de
+serviço como empregadora. A aludida responsabilidade não decorre de mero
+inadimplemento das obrigações trabalhistas assumidas pela empresa regularmente
+contratada.
+(...)
+Quanto ao ônus da prova, na Reclamação 41.305/BA, divulgação no DJe em 4/6/2020, de
+relatoria do Exmo. Ministro Alexandre de Moraes, acórdão do TST foi cassado sob o fundamento de
+que, no RE 760.931, “(...) o Plenário, por maioria, afirmou que inexiste responsabilidade do Estado por
+débitos trabalhistas de terceiros, alavancada pela premissa da inversão do ônus da prova em favor
+do trabalhador, e, conforme declarei em meu voto (...)”.
+Esse entendimento vem sendo adotado pela C. 1ª Turma do E. STF:
+RECLAMAÇÃO. RESPONSABILIDADE SUBSIDIÁRIA DA ADMINISTRAÇÃO. ALEGADO
+DESCUMPRIMENTO DAS DECISÕES PROFERIDAS NA AÇÃO DECLARATÓRIA DE
+CONSTITUCIONALIDADE N. 16 E NO RECURSO EXTRAORDINÁRIO N. 760.931, TEMA 246.
+AUSÊNCIA DE COMPROVAÇÃO DA CULPA DA ENTIDADE ADMINISTRATIVA. TERCEIRA
+RECLAMAÇÃO NO MESMO PROCESSO DA ORIGEM. RECALCITRÂNCIA DA AUTORIDADE
+RECLAMADA EM APLICAR DECISÃO VINCULANTE DESTE SUPREMO TRIBUNAL.
+RECLAMAÇÃO JULGADA PROCEDENTE.
+Relatório
+1. Reclamação, com requerimento de medida liminar, ajuizada pelo Município de
+Sapucaia do Sul, em 16.2.2022, contra o seguinte acórdão da Oitava Turma do Tribunal
+Superior do Trabalho no Processo n. 20544-80.2017.5.04.0291, pelo qual se teria
+desrespeitado as decisões proferidas por este Supremo Tribunal na Reclamação n.
+48.250, na Ação Declaratória de Constitucionalidade n. 16 e no Recurso Extraordinário n.
+760.931, Tema 246:
+“AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA DO SEGUNDO RECLAMADO
+REGIDO PELA LEI 13.467/2017. TRANSCENDÊNCIA JURÍDICA. RESPONSABILIDADE
+SUBSIDIÁRIA. ADMINISTRAÇÃO PÚBLICA. FISCALIZAÇÃO NÃO DEMONSTRADA. ÔNUS DA
+PROVA. 1. No caso, a responsabilidade subsidiária foi mantida em face da ausência de
+comprovação de fiscalização do contrato de prestação de serviços pelo ente da
+Administração Pública, decisão em harmonia com o disposto na Súmula 331, V, desta
+Corte. Tal entendimento também está em sintonia com a tese com repercussão geral
+firmada pelo Supremo Tribunal Federal, no RE-760931/DF, pela qual se considerou
+possível a responsabilização subsidiária da Administração Pública pelo pagamento das
+verbas trabalhistas devidas aos empregados das empresas terceirizadas, quando
+constatada a omissão na fiscalização, sendo vedada a presunção de culpa. 2. Por ocasião
+do julgamento dos embargos de declaração nos autos do RE-760931/DF, o Supremo
+Tribunal Federal apenas reafirmou o seu entendimento acerca da possibilidade de
+responsabilização subsidiária da Administração Pública, não tendo firmado tese
+processual acerca da distribuição do ônus da prova. Diante do silêncio da Suprema Corte
+sobre a quem caberia o ônus da prova da efetiva fiscalização do ente público, é de se
+entender pela manutenção do entendimento que já vinha sendo adotado no âmbito
+desta Corte, no sentido de que, por ser o natural detentor dos meios de prova sobre a
+fiscalização das obrigações contratuais, pertence ao ente público o ônus de comprovar
+que desempenhou a contento esse encargo. Agravo de instrumento não provido” (fls. 1-
+2, e-doc. 14).
+2. O reclamante alega que, na “decisão monocrática [proferida na Reclamação n.
+48.250, este Supremo Tribunal] cassou acórdão da 8ª Turma do TST, para afastar a
+responsabilidade subsidiária por créditos trabalhistas do Município. Entretanto, após
+[essa] decisão da Excelsa Corte, o TST reiterou o mesmo acórdão” (fl. 2).
+Afirma que, “negar-se a dar efetividade a uma decisão proveniente de qualquer
+Corte é desatender ao comando Constitucional implícito e inerente ao Estado
+Democrático de Direito [e que] a inexecução de decisão desta Corte de Justiça é ilegal, e merece ser cassada na forma do art. 988, inciso II, do CPC/2015, a fim de que o juízo
+reclamado profira nova decisão em atenção ao que já foi decidido” (fls. 5-6).
+Requer medida liminar, para “que seja suspensa a tramitação do AIRR-20544-
+80.2017.5.04.0291, em trâmite no Tribunal Superior do Trabalho, a fim de atender tutela
+da evidência e afastar perigo de dano irreparável ao erário público, conforme
+argumentos do item IV da presente” (fls. 6-7).
+No mérito, pede “a procedência da presente Reclamação Constitucional, para
+garantir a autoridade da decisão monocrática da Rcl 48250, do STF, para que seja
+cassado o acórdão dos autos AIRR - 20544-80.2017.5.04.0291, exorbitante de seu
+julgamento, ou determinar medida adequada à observância de sua jurisdição, nos
+termos do art. 161, inciso III, do RISTF” (fl. 7).
+Examinados os elementos havidos nos autos, DECIDO.
+3. Põe-se em foco nesta reclamação se, ao negar provimento ao Agravo de
+Instrumento no Recurso de Revista n. 20544-80.2017.5.04.0291, a Oitava Turma do
+Tribunal Superior do Trabalho teria desrespeitado as decisões proferidas por este
+Supremo Tribunal na Reclamação n. 48.250, na Ação Declaratória de Constitucionalidade
+n. 16 e no Recurso Extraordinário n. 760.931, Tema 246.
+4. Verifica-se, no caso, tratar-se da terceira reclamação ajuizada, neste Supremo
+Tribunal, pelo Município de Sapucaia do Sul contra decisões proferidas no Agravo de
+Instrumento em Recurso de Revista n. AIRR-20544-80.2017.5.04.0291, sendo evidente a
+insistência da Oitava Turma do Tribunal Superior do Trabalho em desaplicar o decidido
+por este Supremo Tribunal Federal nos precedentes vinculantes suscitados.
+5. Em 19.3.2021, julguei procedente a Reclamação n. 45.905 (DJe 23.3.2021)
+ajuizada pelo Município de Sapucaia do Sul, para cassar decisão proferida pelo Ministro
+Relator do Processo n. AIRR – 20544-80.2017.5.04.0291, no Tribunal Superior do
+Trabalho, que, ao negar seguimento ao agravo de instrumento no recurso de revista por
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100664E4B574584C2E.
+ausência de transcendência, usurpou a competência deste Supremo Tribunal para
+apreciar controvérsia sobre contrariedade ao que decidido no Recurso Extraordinário n.
+760.931-RG, Tema 246, e na Ação Declaratória de Constitucionalidade n. 16 .
+Consta do sítio eletrônico do Tribunal Superior do Trabalho que, em 30.6.2021,
+nova decisão foi proferida, tendo a Oitava Turma daquele Tribunal reconhecido a
+transcendência do recurso e mantido a decisão do Tribunal Regional pela qual
+responsabilizado subsidiariamente o ente público no tocante às verbas trabalhistas não
+adimplidas pela empresa prestadora.
+Em 8.7.2021, julguei procedente a Reclamação n. 48.250, ajuizada pelo Município
+de Sapucaia do Sul, “para cassar [essa] decisão proferida pela Oitava Turma do Tribunal
+Superior do Trabalho no Processo n. 20544-80.2017.5.04.0291 quanto à atribuição ao
+reclamante de responsabilidade subsidiária pelos débitos trabalhistas inadimplidos pela
+prestadora contratada” (DJe 12.7.2021).
+Comunicada essa decisão à autoridade reclamada, novo acórdão foi proferido, em
+8.12.2021, surpreendentemente negando provimento ao agravo de instrumento no
+recurso de revista e atribuindo novamente ao Município reclamante responsabilidade
+subsidiária pelos débitos trabalhistas da empresa contratada (e-doc. 14).
+6. Na espécie vertente, a responsabilização da entidade administrativa nega
+vigência ao § 1º do art. 71 da Lei n. 8.666/1993 e contraria a decisão do Supremo
+Tribunal Federal na Ação Declaratória de Constitucionalidade n. 16/DF, porque se deu
+sem a necessária comprovação de culpa.
+Não se pode admitir a transferência para a Administração Pública, por presunção
+de culpa, da responsabilidade pelo pagamento dos encargos trabalhistas, fiscais e
+previdenciários devidos ao empregado da empresa terceirizada, sequer sendo de se lhe
+atribuir a prova de que não falhou em seus deveres legais, do que decorreria alguma
+responsabilização.
+7. Ao proferir, pela segunda vez, decisão de mesmo teor daquela já cassada por
+este Supremo Tribunal, atribuindo à Administração Pública responsabilidade subsidiária
+pelos débitos trabalhistas da empresa prestadora, a autoridade reclamada simula o
+cumprimento da decisão proferida na Reclamação n. 48.250 e segue contrariando o
+decidido pelo Supremo Tribunal Federal na Ação Declaratória de Constitucionalidade n.
+16 e no Recurso Extraordinário n. 760.931, Tema 246.
+Na espécie, a decisão reclamada revela injustificável e obstinada relutância da
+autoridade reclamada em dar fiel cumprimento às ordens emanadas deste Supremo
+Tribunal, o que não se pode admitir.
+A insistência da Oitava Turma do Tribunal Superior do Trabalho em aplicar
+entendimento contrário ao estabelecido em precedentes vinculantes deste Supremo
+Tribunal não pode prevalecer, pois desprestigia a autoridade do Supremo Tribunal
+Federal e estabelece a insegurança jurídica no Poder Judiciário.
+8. Pelo exposto, julgo procedente a presente reclamação, para cassar a decisão
+reclamada quanto à responsabilização subsidiária do ente público reclamante e
+determinar a exclusão do Município de Sapucaia do Sul do polo passivo da ação
+trabalhista da origem. (Rcl 51899, Rel. Min. Cármen Lúcia,DJE nº 54, divulgado em
+21/3/2022)
+CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO INTERNO. RECLAMAÇÃO CONTRA
+DECISÃO QUE ATRIBUIU RESPONSABILIDADE SUBSIDIÁRIA À RECLAMANTE SEM A
+DEMONSTRAÇÃO DE COMPORTAMENTO SISTEMATICAMENTE NEGLIGENTE OU DE NEXO
+DE CAUSALIDADE ENTRE A CONDUTA DO PODER PÚBLICO E O DANO SOFRIDO PELO
+TRABALHADOR. ALEGADA VIOLAÇÃO AO QUE DECIDIDO NA ADC 16 E NO RE 760.931.
+OCORRÊNCIA. RECURSO PROVIDO. 1. Por ocasião do julgamento do RE 760.931, sob a
+sistemática da Repercussão Geral, o Plenário desta SUPREMA CORTE afirmou que
+inexiste responsabilidade do Estado por débitos trabalhistas de terceiros, alavancada
+pela premissa da inversão do ônus da prova em favor do trabalhador. 2. No caso sob
+exame, não houve a comprovação real de um comportamento sistematicamente
+negligente da agravante, tampouco há prova do nexo de causalidade entre a conduta
+comissiva ou omissiva do Poder Público e o dano sofrido pelo trabalhador, a revelar
+presunção de responsabilidade da reclamante, conclusão não admitida por esta CORTE
+quando do julgamento da ADC 16. 3. Recurso de agravo ao qual se dá provimento. (Rcl
+34503 AgR, Relator Ministra Rosa Weber, Relator p/ Acórdão Min. Alexandre de Moraes,
+1ª Turma, DJe 21/5/2020 - destaquei)
+Por sua vez, em Medida Cautelar na Reclamação nº 41.364/BA, divulgação no DJe em 4/6/2020,
+o Exmo. Ministro Gilmar Mendes, Relator, em juízo preliminar, adotou o mesmo entendimento:
+No presente caso, verifico que a autoridade reclamada não empreendeu análise
+da espécie fática, tratando o caso apenas em abstrato, como mais um episódio da
+recorrente controvérsia gerada pelo inadimplemento de obrigações trabalhistas pelos
+contratados da Administração Pública, atribuindo-lhe o ônus probatório.
+(...)
+Na hipótese, a Corte de origem não registra elementos concretos hábeis a evidenciar a
+conduta culposa do ente público, tendo atribuído a responsabilidade subsidiária por presunção e/ou
+inversão do ônus probatório.
+Ao assim proceder, o acórdão regional violou a literalidade do art. 71, § 1º, da Lei 8.666/1993,
+de constitucionalidade reconhecida na ADC 16, contrariando, ainda, o disposto na Súmula Vinculante
+nº 10 do E. STF. No mesmo sentido:
+O Supremo Tribunal Federal, ao revisitar o tema específico da responsabilidade
+subsidiária, após o reconhecimento da constitucionalidade do art. 71, § 1º, da Lei
+8.666/93 , que exime a administração pública nos casos de terceirização de serviços (ADC
+16 , Rel. Min. Cezar Peluso , DJe de 08/09/11), reafirmou o entendimento anterior, que
+veda a responsabilização automática da administração pública , só cabendo sua
+condenação se houver prova inequívoca de sua conduta omissiva ou comissiva na
+fiscalização dos contratos ( RE 760.931, Red. Min. Luiz Fux, julgado em 30/03/17, leading
+case do Tema 246 de Repercussão Geral do STF). Na ocasião, ficou vencida a Relatora
+originária, Min. Rosa Weber, que sustentava que caberia à administração pública
+comprovar que fiscalizou devidamente o cumprimento do contrato, pois não se poderia
+exigir dos terceirizados o ônus de provar o descumprimento desse dever legal por parte
+da administração pública, beneficiada diretamente pela força de trabalho. Ressalte-se
+que a decisão recorrida do TST, de relatoria do Min. Freire Pimenta , cassada pela
+Suprema Corte, sustentava expressamente a tese do ônus da prova da administração
+pública. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100664E4B574584C2E.
+Ademais, por ocasião do julgamento dos embargos declaratórios, que foram
+rejeitados, o STF assentou estar indene de esclarecimentos a decisão embargada, que
+restou finalmente pacificada pelo Pretório Excelso (RE 760.931-ED, Red. Min. Edson
+Fachin, DJe de 06/09/19).
+Ou seja, de acordo com o entendimento do STF, apenas nas hipóteses em que
+fique claro na decisão regional que foi comprovada pelo reclamante a culpa in eligendo
+ou in vigilando da administração pública é que se poderia condená-la subsidiariamente.
+As hipóteses de culpa presumida ou decorrente de inversão do ônus da prova, como a
+de atribuição da responsabilidade por mero inadimplemento das obrigações trabalhistas
+por parte da prestadora de serviços, foram descartadas pelo Pretório Excelso nesse
+último julgamento.
+Em que pesem tais decisões do Pretório Excelso, a SBDI-1 do TST, em 12/12/19, em
+sua composição plena, entendendo que a Suprema Corte não havia firmado tese quanto
+ao ônus da prova da culpa in vigilando ou in eligendo da Administração Pública tomadora
+dos serviços, atribuiu-o ao ente público, em face da teoria da aptidão da prova (E-RR-925-
+07.2016.5.05.0281, Rel. Min. Cláudio Mascarenhas Brandão).
+Ora, após tal posicionamento da SBDI-1 do TST, o STF, por suas 2 Turmas, em
+reclamações, deixou claro que, de acordo com o figurino dos precedentes da ADC 16 e
+do RE 760.931, é do reclamante o ônus da prova da culpa in eligendo ou in vigilando da
+administração pública quanto ao cumprimento das obrigações trabalhistas pelas
+empresas terceirizadas.
+A 1ª Turma, no AgRg-ED-Rcl 36.836-MA (Red. Min. Alexandre de Moraes), assentou
+que "por ocasião do julgamento do RE 760.931, sob a sistemática da Repercussão Geral,
+o Plenário desta SUPREMA CORTE afirmou que inexiste responsabilidade do Estado por
+débitos trabalhistas de terceiros, alavancada pela premissa da inversão do ônus da
+prova em favor do trabalhador", vencidos os Ministros Marco Aurélio e Rosa Weber
+(julgado em 14/02/20).
+Já a decisão da 2ª Turma, por unanimidade, no AgRg-Rcl 37.035-MA (Rel. Min.
+Cármen Lúcia), registrou que "não se pode admitir a transferência para a Administração
+Pública, por presunção de culpa, da responsabilidade pelo pagamento dos encargos
+trabalhistas, fiscais e previdenciários devidos ao empregado da empresa terceirizada",
+em hipótese na qual a decisão do TST foi mantida, por entender que o ônus da prova da
+culpa in vigilando é do reclamante (julgado em 19/12/19).
+Assinala-se que a tese de que o ônus da prova quanto à fiscalização do contrato de
+prestação de serviços não recai sobre a administração pública foi reafirmada pela 1ª
+Turma do STF, da forma mais explícita possível, em julgamento no qual ficou novamente
+vencida a Min. Rosa Weber, cuja ementa se reproduz abaixo:
+"AGRAVO INTERNO NA RECLAMAÇÃO. CONSTITUCIONAL. TRABALHISTA.
+TERCEIRIZAÇÃO. RESPONSABILIDADE SUBSIDIÁRIA DA ADMINISTRAÇÃO PÚBLICA.
+DECISÃO RECLAMADA QUE A ADMITE A EXISTÊNCIA DE PRESUNÇÃO DE CULPA IN
+VIGILANDO. ALEGAÇÃO DE AFRONTA AO QUE DECIDIDO NO JULGAMENTO RECURSO
+EXTRAORDINÁRIO 760.931 – TEMA 246 DA REPERCUSSÃO GERAL. OCORRÊNCIA.
+IMPOSSIBILIDADE DE RESPONSABILIZAÇÃO AUTOMÁTICA DA ADMINISTRAÇÃO PELO
+INADIMPLEMENTO DE OBRIGAÇÕES TRABALHISTAS POR PARTE DA EMPRESA
+CONTRATADA. NECESSIDADE DE EXISTÊNCIA DE PROVA TAXATIVA. ÔNUS DE PROVA QUE
+NÃO RECAI SOBRE A ADMINISTRAÇÃO. ARTIGO 71, PARÁGRAFO 1º, DA LEI 8.666/1993.
+PRECEDENTES. AGRAVO A QUE SE DÁ PROVIMENTO.
+1. No julgamento do Recurso Extraordinário 760.931, Tema 246 da Repercussão
+Geral, que interpretou o julgamento desta Corte na ADC 16, o STF assentou tese segundo
+a qual ‘o inadimplemento dos encargos trabalhistas dos empregados do contratado não
+transfere automaticamente ao Poder Público contratante a responsabilidade pelo seu
+pagamento, seja em caráter solidário ou subsidiário, nos termos do art. 71, § 1º, da Lei nº
+8.666/93’.
+2. Consequentemente, a responsabilização subsidiária da Administração Pública
+por débitos de empresa contratada para com seus empregados, embora possível, é
+excepcional e condicionada à existência de prova taxativa da existência de culpa in
+vigilando.
+3. A leitura do acórdão paradigma revela que os votos que compuseram a corrente majoritária no julgamento do RE 760.931 (Tema 246 da sistemática da repercussão geral)
+assentaram ser incompatível com reconhecimento da constitucionalidade do art. 71, §
+1º, da Lei 8.666/1993 o entendimento de que a culpa do ente administrativo seria
+presumida e, consectariamente, afastaram a possibilidade de inversão do ônus
+probatório na hipótese.
+4. In casu, a decisão reclamada atribuiu à agravante a responsabilidade subsidiária
+pelos encargos trabalhistas decorrentes da contratação de serviços por intermédio de
+empresa terceirizada conquanto inexistente prova taxativa de culpa in vigilando ,
+fundando-se exclusivamente na inversão do ônus probatório. Verifica-se, destarte, o
+descompasso entre a decisão reclamada e o paradigma invocado, haja vista ser
+insuficiente para a responsabilização a mera afirmação genérica de culpa in vigilando ou
+a presunção de culpa embasada exclusivamente na ausência de prova da fiscalização do
+contrato de terceirização.
+5. Agravo a que se dá provimento, a fim de julgar procedente a reclamação,
+determinando a cassação da decisão reclamada na parte em que atribui
+responsabilidade subsidiária ao ente administrativo." (STF-AgRg-Rcl 40.137, 1ª Turma,
+Red. Min. Luiz Fux , DJe de 12/08/20) (grifos nossos)
+Mesmo assim, a SBDI-1 voltou a reafirmar o ônus da prova da administração
+pública, em 10/09/20, no julgamento do processo E-ED-RR-62-40.2017.5.20.0009 (Rel. Min. Márcio Eurico Vitral Amaro), em sua composição completa, vencidos apenas os Ministros
+Alexandre Ramos (que abriu a divergência), Maria Cristina Peduzzi, Aloysio Corrêa da
+Veiga e Breno Medeiros.
+Ademais, a 2ª Turma do STF também reafirmou, de forma cristalina, o
+entendimento de que o ônus da prova, nos casos de responsabilidade subsidiária da
+Administração Pública, recai sobre o reclamante, sendo indevida a sua inversão em
+desfavor da Administração, in verbis:
+"Agravo regimental na reclamação. 2. Direito do Trabalho. 3. Terceirização.
+Responsabilidade subsidiária da Administração Pública. Art. 71, § 1º, da Lei nº 8.666/93 .
+4. Violação ao decidido na ADC 16 e ao teor da Súmula Vinculante 10. Configuração.
+Reclamação julgada procedente . 5. Impossibilidade de responsabilização automática da
+Administração Pública pelo inadimplemento das obrigações trabalhistas. Necessidade de
+comprovação inequívoca do seu comportamento reiteradamente negligente. Ausência
+de fiscalização ou falta de documentos que a comprovem não são suficientes para
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100664E4B574584C2E.
+caracterizar a responsabilização. 6. Inversão do ônus da prova em desfavor da
+Administração Pública. Impossibilidade. Precedentes de ambas as Turmas. 7. Ausência
+de argumentos capazes de infirmar a decisão agravada. 8. Agravo regimental não
+provido" (AgRg-Rcl 40.505-SP, Rel. Min. Gilmar Mendes, 2ª Turma, julgado em 17/11/20,
+vencidos os Min. Ricardo Lewandowski e Edson Fachin ) (grifos nossos).
+Penso que o STF, em suas decisões quanto ao tema, tem sido superlativamente
+claro, quanto à questão do ônus da prova, e o TST tem sido perseverantemente
+refratário à jurisprudência da Suprema Corte.
+Ora, tendo em vista o caráter vinculante das decisões do STF em temas de
+repercussão geral, o que não se dá com decisões da SBDI-1 do TST, é de se sobrepor
+aquelas a estas.
+Note-se, em suma, que, pela literalidade do art. 71, § 1º, da Lei 8.666/93, a regra é
+a não responsabilização da administração pública pelos créditos judiciais trabalhistas de
+empregados terceirizados, e a contemporização do STF, abrindo exceção à regra, fica
+limitada e balizada pelas decisões da própria Suprema Corte, que, portanto, não
+comportam elastecimento por parte da Justiça do Trabalho.
+Assim, a transcendência política da questão exsurge do eventual descompasso da
+decisão regional com a orientação do STF em precedente vinculante em relação à
+questão do ônus da prova da culpa in vigilando ou in eligendo da administração pública
+quanto à empresa terceirizada, para efeito da fixação de sua responsabilidade
+subsidiária quanto aos débitos trabalhistas desta última.
+No caso dos autos, o Regional decidiu nos seguintes termos:
+"Quanto à responsabilidade subsidiária, in casu, não restou demonstrada sua
+efetiva fiscalização quanto ao cumprimento das obrigações trabalhistas em relação à
+reclamante. É para a Administração possível verificar se o empregador direto cumpre
+com as obrigações trabalhistas, tais como pagamentos de salários, férias, com seu terço,
+13ºs. salários e FGTS (depósitos regulares), dentre outros. Basta cobrar recibos de
+quitação de tais verbas antes do repasse do pagamento pelos serviços prestados. Afinal,
+em tal contraprestação o patrão direto já incluiu em seu preço todas estas verbas. Se as
+recebe e não as repassa aos seus trabalhadores se locupleta indevidamente. Sem este
+cuidado da Administração, não demonstrado nos autos, é evidente a culpa in vigilando.
+[...]
+O Estado recorrente não fiscaliza seus contratos administrativos e o direitos dos
+empregados terceirizados , que fazem tocar seus serviços essenciais ao público" (págs.
+139 e 140, grifos nossos).
+Como se pode verificar, o Regional extraiu a culpain vigilando da ausência de
+demonstração, pelo 2º Reclamado, da ocorrência da efetiva fiscalização do contrato de
+prestação de serviços, conjugada com o inadimplemento de obrigações trabalhistas por
+parte da 1ª Reclamada, invertendo o ônus da prova. Destaca-se que o TRT em nenhum
+momento registra de que modo ficara positivamente demonstrada a falta de fiscalização
+pelo Ente Público, de modo a constatar a culpa in vigilando.
+Dessa forma, a questão em debate não diz respeito a reexame de fatos e provas,
+vedado nesta instância superior pela Súmula 126 do TST, pois o cerne da discussão
+refere-se ao ônus da prova. E a sua inversão, ao arrepio do precedente vinculante do STF
+no RE 760.931, leva à conclusão da violação literal do art. 71, § 1º, da Lei 8.666/93, pois o
+ônus da prova cabe a quem alega o fato, que, no caso, é a culpa in vigilando, condição
+exigida para que, excepcionalmente, possa-se responsabilizar subsidiariamente a
+administração pública pelos débitos trabalhistas não adimplidos por empresa
+terceirizada que tenha contratado. (RR-2366-07.2016.5.11.0006, 4ª Turma, Relator Ministro Ives Gandra Martins Filho, DEJT 18/06/2021)
+Revela-se, manifesta, pois, na hipótese, a violação ao art. 71, § 1º, da Lei nº 8.666/1993, bem
+como a contrariedade à jurisprudência do E. STF.
+Ante o exposto, com fundamento no art. 932, inciso V, do CPC, c/c art. 5º, inciso LXXVIII, da
+Constituição da República, e reconhecida a transcendência política da matéria, dou provimento ao
+Agravo de Instrumento para processar e, desde já, conhecer e prover o Recurso de Revista do ente
+público para afastar a condenação subsidiária imposta ao Recorrente.
+Em Agravo, o Reclamante insurge-se contra o processamento, conhecimento e
+provimento do Recurso de Revista do Município de Tianguá. Afirma, em síntese, que a Administração
+Pública deve responder subsidiariamente pelos créditos trabalhistas deferidos.
+Sobre o tema, a Corte de origem, às fls. 626/628, decidiu:
+(...)
+Assim, vê-se claramente que, a despeito da validade do art. 71 da Lei 8.666/93, a norma contida
+nele não pode ser utilizada como fundamento para a irresponsabilidade dos órgãos da
+administração pública direta e indireta, de modo que a sua interpretação conjunta com os demais
+dispositivos legais do ordenamento jurídico pátrio levaram o TST à correta conclusão segundo a qual
+ocorrerá a responsabilização subsidiária em casos de danos oriundos da terceirização de serviços
+contratadas pela administração, quando esta incorrer em culpa, sendo esta exatamente a hipótese
+dos autos.
+No que tange à comprovação da atuação culposa da administração, esclareça-se que cabia ao
+ente público demonstrar a sua atuação diligente na escolha da contratada e na fiscalização dos
+serviços por esta prestados.
+Isto porque incumbe ao Município recorrente a prova de fato impeditivo do direito do
+reclamante, entendimento reforçado pelo princípio da aptidão para a prova.
+É o que se depreende da leitura do recente e esclarecedor julgado proferido pela SBDI-I,
+divulgado no Informativo TST nº 214, a seguir transcrito:
+(...)
+Na hipótese em debate, o recorrente não se desvencilhou do ônus que lhe competia, tendo em
+vista não constar nos autos qualquer elemento ou indício que comprove o efetivo cumprimento da
+obrigação concernente à fiscalização do primeiro reclamado. Destaque-se que, na hipótese em
+comento, foram violados os mais comezinhos direitos laborais do reclamante como, por exemplo,
+pagamentos verbas rescisórias, horas extras e FGTS.
+Assim, tendo o primeiro reclamado se tornado inadimplente no pagamento das obrigações
+trabalhistas relativas aos direitos do empregado, conclui-se que o recorrente incorreu nas culpas in
+eligendo e in vigilando, porquanto a este incumbiria a tarefa de perscrutar acerca da idoneidade
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100664E4B574584C2E.
+econômico-financeira da empresa prestadora dos serviços, bem como fiscalizar o cumprimento das
+obrigações de cunhos trabalhista, previdenciário e fiscal no que tange ao pessoal terceirizado, pelo
+que é de se reconhecer a sua responsabilidade subsidiária, já que também se beneficiou das
+violações dos direitos trabalhistas.
+Importante ressaltar que a responsabilidade subsidiária da Administração Pública abrange
+todas as verbas objeto da condenação, relativas ao contrato de trabalho do qual se beneficiou,
+inclusive multas, a teor do item VI da já citada Súmula nº 331 do TST.
+Por fim, a responsabilidade subsidiária do Município já implica o reconhecimento do benefício
+de ordem, cujo eventual descumprimento deverá ser questionado na fase própria de execução.
+Dessa forma, agiu acertadamente o magistrado do primeiro grau ao reconhecer a
+responsabilidade subsidiária do Município de Tianguá pelo pagamento das verbas deferidas em
+sentença.
+(...)
+Como assinalado pela decisão agravada, no julgamento da Ação Direta de
+Constitucionalidade nº 16, o E. Supremo Tribunal Federal, ao declarar a constitucionalidade do artigo 71,
+§ 1º, da Lei nº 8.666/1993, firmou o entendimento de que a mera inadimplência do contratado, em
+relação às parcelas trabalhistas, não autoriza a responsabilização subsidiária do ente da
+Administração Pública, tomador de serviços. É necessário evidenciar a conduta culposa na
+fiscalização das obrigações contratuais e legais da prestadora de serviços. Com base nesse
+entendimento, o Eg. TST acrescentou o item V à Súmula nº 331, nestes termos:
+CONTRATO DE PRESTAÇÃO DE SERVIÇOS. LEGALIDADE (NOVA REDAÇÃO DO ITEM IV E
+INSERIDOS OS ITENS V E VI À REDAÇÃO) - RES. 174/2011, DEJT DIVULGADO EM 27, 30 E 31.05.2011.
+(...)
+V - Os entes integrantes da Administração Pública direta e indireta respondem
+subsidiariamente, nas mesmas condições do item IV, caso evidenciada a sua conduta culposa no
+cumprimento das obrigações da Lei n.º 8.666, de 21.06.1993, especialmente na fiscalização do
+cumprimento das obrigações contratuais e legais da prestadora de serviço como empregadora. A
+aludida responsabilidade não decorre de mero inadimplemento das obrigações trabalhistas
+assumidas pela empresa regularmente contratada. (...) (destaquei)
+Por sua vez, é do trabalhador o ônus da prova de eventual conduta culposa
+hábil a atrair a responsabilização subsidiária do ente público.
+A questão encontra-se definitivamente pacificada pelo julgamento do Tema 1.118
+de repercussão geral (RE 1.298.647/SP) pelo E. STF, oportunidade em foi fixada a seguinte tese
+vinculante:
+1 . Não há responsabilidade subsidiária da Administração Pública por encargos
+trabalhistas gerados pelo inadimplemento de empresa prestadora de serviços contratada, se
+amparada exclusivamente na premissa da inversão do ônus da prova, remanescendo
+imprescindível a comprovação, pela parte autora, da efetiva existência de comportamento
+negligente ou nexo de causalidade entre o dano por ela invocado e a conduta comissiva ou
+omissiva do poder público. (...) (destaquei)
+Na hipótese em exame, contudo, a Corte de origem não registrou elementos
+concretos hábeis a evidenciar a conduta culposa do ente público, tendo atribuído a responsabilidade
+subsidiária por presunção e/ou inversão do ônus probatório. Inaplicável, pois, à espécie, o óbice da
+Súmula nº 126 do TST.
+Ao assim proceder, o acórdão regional violou a literalidade do art. 71, § 1º, da Lei
+8.666/1993, de constitucionalidade reconhecida na ADC 16, e contrariou o disposto na Súmula
+Vinculante nº 10 do E. STF, o que evidencia a transcendência política da matéria, bem como a viabilidade
+de processamento, conhecimento e provimento do recurso do ente público.
+Ressalte-se que os entendimentos vinculantes e dominantes do E. STF prevalecem
+sobre qualquer julgamento de Corte inferior em sentido contrário, não havendo falar, ainda, na
+necessidade de sobrestamento processual, uma vez que já transitou em julgado o aludido precedente
+da Suprema Corte firmado em regime de repercussão geral (Tema 1.118).
+Com essas considerações, nego provimento ao Agravo.
+ISTO POSTO
+ACORDAM os Ministros da Quarta Turma do Tribunal Superior do Trabalho, por
+unanimidade, negar provimento ao Agravo.
+Brasília, 3 de fevereiro de 2026.
+Firmado por assinatura digital (MP 2.200-2/2001)
+MARIA CRISTINA IRIGOYEN PEDUZZI
+Ministra Relatora
+Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100664E4B574584C2E.
+Fir
+m
+a
+d
+o
+p
+o
+r
+a
+s
+sin
+a
+t
+u
+r
+a
+digit
+al e
+m
+0
+4
+/
+0
+2
+/
+2
+0
+2
+6
+p
+elo
+sis
+t
+e
+m
+a
+A
+s
+sin
+eJ
+u
+s
+d
+a
+J
+u
+s
+tiç
+a
+d
+o
+T
+r
+a
+b
+alh
+o, c
+o
+n
+f
+o
+r
+m
+e
+M
+P
+2.2
+0
+0
+-
+2
+/
+2
+0
+0
+1, q
+u
+e in
+s
+tit
+uiu
+a In
+f
+r
+a
+-
+E
+s
+t
+r
+u
+t
+u
+r
+a
+d
+e
+C
+h
+a
+v
+e
+s
+P
+ú
+blic
+a
+s
+B
+r
+a
+sileir
+a. Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código 100664E4B574584C2E.
