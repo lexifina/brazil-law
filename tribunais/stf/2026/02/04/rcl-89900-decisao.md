@@ -1,0 +1,42 @@
+DECISÃO:
+Cuida-se de reclamação constitucional, com pedido liminar, ajuizada pelo Município de Campo Bom/RS em face de acórdão proferido pelo Tribunal Regional do Trabalho da 4ª Região (TRT4), nos autos do Processo nº 0020251-20.2024.5.04.0371, que teria desrespeitado a autoridade do Supremo Tribunal Federal e a eficácia do que decidido na ADC nº 16/DF, no RE nº 760.931/DF (Tema nº 246 RG), no RE nº 1.268.647/DF (Tema nº 1118 RG), bem como o enunciado da Súmula Vinculante nº 10.
+O Município de Campo Bom/RS narra que, nos autos em referência nesta reclamatória, foi condenado, em caráter subsidiário, a pagar verbas trabalhistas inadimplidas a Eliane Lazzari por sua empregadora, a Associação Beneficente São Miguel.
+Defende que há violação aos paradigmas, pois
+
+“a decisão objeto da presente reclamação constitucional responsabilizou de forma automática o ente público pelo inadimplemento das obrigações trabalhistas. O julgador ignorou por completo os parâmetros traçados na ADC 16 e do conteúdo do enunciado da Súmula Vinculante n. 10 e RE 1298647, dentre eles a necessidade de comprovação inequívoca da existência de um comportamento reiteradamente negligente quando do exercício do poder fiscalizatório do Ente Público” (e-doc. 1, p. 3)
+
+Sustenta que
+
+“a simples ausência de fiscalização ou a falta de documentos que comprovem a fiscalização do Ente Público não são suficientes para caracterizar a responsabilização, necessitando a aferição da culpa, evitando assim a responsabilização automática do Ente Público“ (e-doc. 1, p. 3)
+
+Assevera que sua condenação no caso concreto caracteriza a negativa de vigência da regra do § 1º do art. 71 da Lei nº 8.666/93 em desrespeito à Súmula Vinculante nº 10.
+Requer, ao final, que
+
+“1.Seja deferida a liminar, nos termos do art. 989, inciso II, do Código de Processo Civil, para que seja suspensa a tramitação da Reclamatória Trabalhista de nº 0020251-20.2024.5.04.0371, em trâmite no Tribunal Regional do Trabalho, a fim de atender tutela da evidência e afastar perigo de dano irreparável ao erário público, conforme argumentos do item IV da presente;
+2.Seja julgada a procedência da presente Reclamação Constitucional para que seja cassado o acórdão dos autos nº 0020251-20.2024.5.04.0371, exorbitante de seu julgamento, ou determinar medida adequada à observância de sua jurisdição, nos termos do art. 161, inciso III, do RISTF” (e-doc. 1, p. 11).
+
+É o relatório. Decido.
+Registro que a jurisprudência do STF admite a mitigação da regra do inc. III do art. 989 do CPC, de modo que eventual contraditório se estabeleça após o juízo de procedência fundado em precedente vinculante e/ou reiterada jurisprudência da Corte em torno do paradigma, propiciando maior reflexão no exercício da contraposição em sede reclamatória, em atenção ao princípio da cooperação processual disciplinado no art. 6º do CPC (v.g. Rcl nº 67657 AgR, Rel. Min. Flávio Dino, Primeira Turma, DJe de 10/10/24; Rcl nº 68599 AgR, de minha relatoria, Segunda Turma, DJe de 18/9/24 e Rcl nº 58665 AgR, Rel. Min. André Mendonça, Segunda Turma, DJe de 2/7/24).
+Passo à análise da reclamação.
+Em sessão de julgamento de 13/2/25, o Plenário do STF decidiu o RE nº 1.298.647 (vinculado ao Tema nº 1.118 da RG), fixando a seguinte tese:
+
+“1. Não há responsabilidade subsidiária da Administração Pública por encargos trabalhistas gerados pelo inadimplemento de empresa prestadora de serviços contratada, se amparada exclusivamente na premissa da inversão do ônus da prova, remanescendo imprescindível a comprovação, pela parte autora, da efetiva existência de comportamento negligente ou nexo de causalidade entre o dano por ela invocado e a conduta comissiva ou omissiva do poder público. 2. Haverá comportamento negligente quando a Administração Pública permanecer inerte após o recebimento de notificação formal de que a empresa contratada está descumprindo suas obrigações trabalhistas, enviada pelo trabalhador, sindicato, Ministério do Trabalho, Ministério Público, Defensoria Pública ou outro meio idôneo. 3. Constitui responsabilidade da Administração Pública garantir as condições de segurança, higiene e salubridade dos trabalhadores, quando o trabalho for realizado em suas dependências ou local previamente convencionado em contrato, nos termos do art. 5º-A, § 3º, da Lei nº 6.019/1974. 4. Nos contratos de terceirização, a Administração Pública deverá: (i) exigir da contratada a comprovação de capital social integralizado compatível com o número de empregados, na forma do art. 4º-B da Lei nº 6.019/1974; e (ii) adotar medidas para assegurar o cumprimento das obrigações trabalhistas pela contratada, na forma do art. 121, § 3º, da Lei nº 14.133/2021, tais como condicionar o pagamento à comprovação de quitação das obrigações trabalhistas do mês anterior.”
+
+O Município de Campo Bom vale-se da presente reclamação para questionar decisão judicial mediante a qual foi condenado a pagar, em caráter subsidiário, verbas trabalhistas inadimplidas a trabalhadora contratada por entidade à qual transferida a gestão do serviço público de saúde mediante contrato administrativo, estando sua responsabilização fundamentada em acórdão do TRT 4 assim ementado, na parte de interesse:
+
+“RECURSO ORDINÁRIO INTERPOSTO PELO SEGUNDO RECLAMADO. MUNICÍPIO DE CAMPO BOM. RESPONSABILIDADE SUBSIDIÁRIA. O inadimplemento de parcelas trabalhistas pela empregadora implica a responsabilidade subsidiária do tomador de serviços beneficiado com a mão de obra do trabalhador, mesmo em se tratando de ente público, quando não comprovada a efetiva fiscalização. Recurso desprovido.”
+
+Compulsados os autos, extraio, do acórdão proferido pelo TRT 4 no caso concreto, que o ente público “[expediu] notificações [...] à primeira ré [entidade contratada administrativamente], com pedidos de esclarecimentos sobre débitos com fornecedores, falta de energia nas dependências do Hospital Dr. Lauro Réus em abril de 2021 e ausências de médicos plantonistas (ID. b7b9c58)”, “[abriu] processo administrativo para apuração de descumprimento contratual” – o qual teria resultado na decisão da Administração Pública pela rescisão unilateral do contrato administrativo – e ajuizou ação consignatória, de número nº 0020497-84.2022.5.04.0371, com intuito de garantir o pagamento dos trabalhadores”.
+Nesse conjuntura, entendo que a conclusão de que estaria caracterizada a “culpa ‘in vigilando’ [do Município de Campo Bom]”, a qual fundamenta a solução no caso concreto, vai de encontro à norma constitucional que se extrai do item 2 da tese do Tema nº 1118 da RG, com o qual o STF explicitou diretriz para a concretização do entendimento vinculante firmado na ADC nº 16 e confirmado no julgamento do RE nº 760.931 (vinculado ao Tema nº 246 da RG), o qual transcrevo novamente:
+
+“2. Haverá comportamento negligente quando a Administração Pública permanecer inerte após o recebimento de notificação formal de que a empresa contratada está descumprindo suas obrigações trabalhistas, enviada pelo trabalhador, sindicato, Ministério do Trabalho, Ministério Público, Defensoria Pública ou outro meio idôneo.” (grifo nosso)
+
+Não se extraem, das decisões proferidas pela Justiça do Trabalho, razões fundadas em elementos concretos acerca de eventual comportamento negligente do ente público ou o nexo de causalidade entre a conduta da Administração Pública e o dano sofrido pelo trabalhador para justificar a condenação; decorrendo a responsabilidade subsidiária do poder público da falha ou omissão fiscalizatória (culpa in vigilando) concluída a partir da existência de débitos trabalhistas da prestadora de serviços, entendimento que diverge da norma de interpretação constitucional de observância obrigatória firmada no Tema nº 246 da RG e minuciada no Tema nº 1118 da RG.
+Ante o exposto, julgo procedente a reclamação para afastar a responsabilidade do poder público no caso concreto.
+Envie-se cópia dessa decisão à autoridade reclamada para que junte aos autos do processo em referência, dando publicidade ao ato de juntada para ciência à parte beneficiária do ato reclamado (ora cassado) do trâmite da presente ação e início do prazo recursal no STF, ficando essa parte beneficiária igualmente certificada de que, na hipótese da apresentação de recurso no STF, deverá necessariamente comprovar a data em que foi notificada, sob pena de não conhecimento.
+Publique-se.
+Brasília, 4 de fevereiro de 2026.
+
+Ministro DIAS TOFFOLI
+Relator
+Documento assinado digitalmente
