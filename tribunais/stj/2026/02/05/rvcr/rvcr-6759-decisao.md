@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de revisão criminal ajuizada por ALAN DA SILVA PARÉ, com fundamento no art. 621, inciso I, do Código de Processo Penal, em face de condenação transitada em julgado proferida nos autos da Ação Penal n. 5012642-64.2022.8.21.0073, oriunda do Tribunal do Júri da Comarca de Capão da Canoa/RS.
+Conforme se extrai dos autos, o revisionando foi pronunciado e submetido a julgamento pelo Tribunal do Júri, tendo sido condenado pelo crime de homicídio qualificado, com absolvição quanto a outro fato imputado, resultando na fixação da pena definitiva em 21 anos de reclusão. Interpostos recursos de apelação, estes foram desprovidos pelo Tribunal de Justiça do Estado do Rio Grande do Sul, operando-se o trânsito em julgado da condenação. Posteriormente, foi manejada revisão criminal perante o Tribunal de origem, a qual não foi conhecida. Na presente ação, reiteram-se alegações de nulidade do reconhecimento fotográfico, condenação contrária à prova dos autos, erro na dosimetria da pena e pedido de indenização por erro judiciário.
+É o relatório.
+Decido.
+O Superior Tribunal de Justiça não detém competência para o processamento e julgamento da presente revisão criminal.
+A condenação impugnada foi proferida pelo Tribunal do Júri da Justiça Estadual do Rio Grande do Sul e mantida, em grau recursal, pelo Tribunal de Justiça local. Em nenhum momento houve apreciação do mérito da ação penal por este Superior Tribunal, circunstância que afasta, de modo absoluto, a sua competência para o exame da ação revisional.
+A circunstância de a revisão criminal anteriormente ajuizada perante o Tribunal de origem não ter sido conhecida não tem o condão de deslocar a competência para esta Corte Superior, por se tratar de matéria de competência absoluta, insuscetível de prorrogação ou modificação em razão de decisões negativas de admissibilidade. Tampouco o fato de as alegações defensivas envolverem suposta violação à lei federal ou à jurisprudência do Superior Tribunal de Justiça autoriza o processamento da revisão criminal nesta instância, uma vez que tais questões devem ser veiculadas pelos meios processuais adequados, observadas as regras constitucionais e legais de competência.
+Diante desse cenário, impõe-se o reconhecimento da incompetência do Superior Tribunal de Justiça para o julgamento da presente revisão crimina.
+Ante o exposto, não conheço da revisão criminal.
+Publique-se. Intime-se.
+EMENTA
