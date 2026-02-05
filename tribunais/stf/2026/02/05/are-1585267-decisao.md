@@ -1,0 +1,41 @@
+DECISÃO:
+Vistos.
+Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado (e-doc nº 36):
+
+APELAÇÃO CÍVEL. DIREITO TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. IPTU. ISENÇÃO POR LEI MUNICIPAL DE PRAZO DETERMINADO. CAUSA DE EXCLUSÃO DO CRÉDITO TRIBUTÁRIO. A norma de isenção tributária deve ser interpretada literalmente (art. 111 do CTN). A concessão de isenção e sua revogação ou modificação devem se dar por lei, salvo hipóteses de prazo determinado e imposição de condições para gozo do benefício (art. 150, §6º da CF e art. 178 do CTN). Na hipótese dos autos, verifica-se que a Lei Municipal de Serafina Corrêa n. 2.442/07 concedeu expressamente isenção de IPTU ao imóvel de matrícula n. 6.261, pelo prazo de 10 anos, a fim de instalação de loteamento a ser promovido pelo ente público na área. Inexistindo revogação da lei e verificando-se que houve posse e construção de edificações na área pelo ente público, inviável a pretensão de cobrar IPTU pelo período em que vigia a isenção. Extinto o processo de execução fiscal em relação aos tributos de 2009 a 2012 executados, decorrentes do imóvel de matrícula n. 6.261. Mantida a execução em relação aos tributos executados relativos a outro imóvel. Sentença parcialmente reformada. APELAÇÃO PARCIALMENTE PROVIDA.
+
+Opostos embargos de declaração por ambas as partes, foram parcialmente acolhidos para fins de prequestionamento e para ajuste na verba de sucumbência, nos seguintes termos (e-doc nº 43):
+
+EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL. DIREITO TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. IPTU. ISENÇÃO POR LEI MUNICIPAL DE PRAZO DETERMINADO. CAUSA DE EXCLUSÃO DO CRÉDITO TRIBUTÁRIO. OMISSÃO VERIFICADA E SANADA. Exsurge da intelecção do art. 1.022 do CPC que a oposição de embargos declaratórios se afigura viável somente quando detectada omissão quanto a questão controvertida, contradição interna ao julgado, obscuridade ou erro material, haja vista sua finalidade eminentemente integrativa e aclaratória. No caso, verifica-se omissão em relação à distribuição dos ônus da sucumbência, vício que deve ser sanado. Evidenciada sucumbência mínima da executada-embargante, deve haver a imposição da integralidade dos ônus de sucumbência ao ente público exequente-embargado (art. 86 do CPC). Outrossim, ainda que para fins de prequestionamento, descabe o manejo de embargos quando ausentes as hipóteses autorizadoras do art. 1.022 do CPC. EMBARGOS DE DECLARAÇÃO ACOLHIDOS EM PARTE.
+
+EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL DIREITO TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. IPTU. ISENÇÃO POR LEI MUNICIPAL DE PRAZO DETERMINADO. CAUSA DE EXCLUSÃO DO CRÉDITO TRIBUTÁRIO. OMISSÃO VERIFICADA E SANADA. Exsurge da intelecção do art. 1.022 do CPC que a oposição de embargos declaratórios se afigura viável somente quando detectada omissão quanto a questão controvertida, contradição interna ao julgado, obscuridade ou erro material, haja vista sua finalidade eminentemente integrativa e aclaratória. No caso, verifica-se omissão em relação à atualização da base de cálculo dos honorários advocatícios de sucumbência arbitrados sobre o proveito econômico obtido, vício que deve ser sanado. A base de cálculo deve ser atualizada pelo IPCA-E desde o ajuizamento da demanda até 08/12/2021, quando, então, passa a ser aplicável exclusivamente a Taxa Selic, nos termos da Emenda Constitucional nº 113. EMBARGOS DE DECLARAÇÃO ACOLHIDOS.
+
+A parte recorrente afirma que o acórdão negou vigência aos artigos 1º, inciso IV, 2º, 3º, incisos I e III, 5º, caput, inciso XXXV, 7º, inciso V, 37, caput, e 170 da Constituição da República, porque (I) a "imposição de honorários exorbitantes, num único e singelo processo tributário, afronta o princípio da proporcionalidade e razoabilidade", (II) violou o princípio da separação dos poderes, da isonomia e do acesso à justiça, (III) ao "onerar indevidamente o erário, a decisão contraria os princípios da eficiência, moralidade e supremacia do interesse público, que exigem o uso responsável dos recursos públicos para o bem comum", (IV) "imposição de valores desmedidos, ao privar de recursos o poder público, dificulta a promoção do bem de todos, agravando cenários de precariedade e desigualdade que a própria Constituição pretende erradicar" e (V) "imposição de verbas sucumbenciais excessivas desvirtua os valores sociais do trabalho e da livre iniciativa".
+Pede a aplicação do Tema 1.255 do Supremo Tribunal Federal ao caso dos autos.
+Em suas razões, aduz, in verbis, que:
+
+“(...) Após sentença de improcedência, o Tribunal de Justiça do Estado do Rio Grande do Sul deu parcial provimento à apelação da embargante, reconhecendo a exclusão da maior parte do crédito tributário, em razão de incidência da isenção legal, e determinando a extinção parcial da execução fiscal.
+No entanto, ao fixar os honorários advocatícios, o acórdão recorrido estabeleceu a condenação do Município ao pagamento de verba honorária no percentual de 10% sobre o proveito econômico obtido, ou seja, sobre a diferença entre o valor total da execução fiscal e o montante excluído do crédito tributário. Considerando o valor elevado do crédito exequendo (R$ 374.238,413, não contabilizados juros), a aplicação do referido percentual resultará em honorários advocatícios manifestamente exorbitantes, em afronta aos princípios da razoabilidade e da proporcionalidade, o que enseja a interposição do presente recurso extraordinário”.
+
+Decido.
+O inconformismo não merece prosperar.
+Com efeito, colhe-se da decisão mediante a qual a Corte de Origem inadmitiu o apelo extremo (e-doc nº 55):
+
+“No âmbito do RE 1.412.069 (Tema 1.255), Supremo Tribunal Federal reconheceu a repercussão geral da questão constitucional relativa à ‘possibilidade da fixação dos honorários por apreciação equitativa (artigo 85, §8º, do Código de Processo Civil) quando os valores da condenação, da causa ou o proveito econômico da demanda forem exorbitantes’.
+A questão posta em exame, todavia, refoge, pois, ao Tema 1.255 do Supremo Tribunal Federal, já que não dizer com ‘valores da condenação, da causa ou o proveito econômico da demanda’ exorbitantes, ao efeito de ‘fixação dos honorários por apreciação equitativa (artigo 85, § 8º, do Código de Processo Civil)’.
+De efeito, consoante assentado no voto condutor do acórdão, o Órgão Julgador limitou-se a fixar ‘honorários em favor dos procuradores da executada-embargante no patamar de 10% sobre o proveito econômico obtido, qual seja, a diferença entre o valor executado e o valor excluído do crédito tributário’. Não houve discussão quanto às possibilidade de fixação dos honorários pela equidade. Inaplicável, assim, o aludido precedente qualificado”.
+
+Devidamente realizado o distinguish, não há falar em sobrestamento em razão do Tema nº 1255 da Repercussão Geral.
+De resto, as questões relativas à aplicação das regras processuais atinentes à sucumbência não desafiam recurso extraordinário, haja vista demandarem a análise e interpretação da legislação infraconstitucional, fim aos qual não se presta o recurso extraordinário.
+Nesse sentido:
+
+“AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. INEXISTÊNCIA DE CONTRARIEDADE AO INC. IX DO ART. 93 DA CONSTITUIÇÃO DA REPÚBLICA: ACÓRDÃO RECORRIDO SUFICIENTEMENTE FUNDAMENTADO. PRECLUSÃO DA PRELIMINAR DE ILEGITIMIDADE PASSIVA. PERCENTUAL DE HONORÁRIOS ADVOCATÍCIOS. MATÉRIAS INFRACONSTITUCIONAIS. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. MANUTENÇÃO DE FUNDAMENTO INFRACONSTITUCIONAL AUTÔNOMO E SUFICIENTE: SÚMULA N. 283 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL DESPROVIDO” (RE nº 1.433.814-AgR, Primeira Turma, Rel. Min. Cármen Lúcia, DJe de 14/6/24).
+
+Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+Publique-se.
+Brasília, 5 de fevereiro de 2026.
+
+Ministro DIAS TOFFOLI
+Relator
+Documento assinado digitalmente
