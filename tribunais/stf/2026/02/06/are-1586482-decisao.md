@@ -1,0 +1,66 @@
+DECISÃO
+
+Direito Penal e processual penal. Recurso extraordinário com agravo. Execução Penal. Remição da pena pelo trabalho. Debate de âmbito infraconstitucional. Alegada violação ao Art. 2º da Constituição Federal. Ofensa reflexa. Compreensão diversa. Reexame do Conjunto Fático-probatório. Impossibilidade. Súmula 279/STF. Precedentes. Negativa de seguimento.
+
+Trata-se de agravo interposto contra decisão de inadmissibilidade do recurso extraordinário, com base no art. 102, III, “a”, da Constituição Federal, apresentado pelo Ministério Público do Estado do Rio Grande do Sul, em face do acórdão do Superior Tribunal de Justiça assim ementado (Doc. 80):
+
+“EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS CONCEDIDO. REMIÇÃO DA PENA PELO TRABALHO. ATIVIDADE ATESTADA PELO ESTABELECIMENTO PRISIONAL. PROVA TESTEMUNHAL. CABIMENTO. CONSTRANGIMENTO ILEGAL CONFIGURADO. AGRAVO REGIMENTAL IMPROVIDO.
+1. As razões trazidas no regimental não são suficientes para infirmar a decisão agravada, devendo ser mantida por seus próprios fundamentos.
+2. A autoridade administrativa da unidade prisional, a quem compete a supervisão sobre a regularidade do trabalho, emitiu o Atestado de Efetivo Trabalho – AET, cabendo, assim, a remição da pena, visto que devidamente comprovado o trabalho exercido pelo agravado.
+3. "Esta Corte, em recentes julgados, vem flexibilizando as regras previstas do art. 126 da LEP a fim de se reconhecer a remição pela leitura, pelo estudo por conta própria e por tarefas de artesanato, não sendo, portanto, razoável que se afaste a remição da pena por atividade laboral devidamente reconhecida pelo estabelecimento prisional [...], sob pena de se inviabilizar o benefício para apenados que estejam encarcerados em unidades sem outras atividades laborais" (REsp n. 1.804.266/RS, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 11/6/2019, DJe de 25/6/2019).
+4. A norma prevista no art. 126 da LEP não faz distinção entre trabalho formal ou informal para a aplicação da remição, de modo que o Juízo da execução pode reconhecer o labor com base em outros elementos de prova, como a prova testemunhal.
+5. Agravo regimental improvido.”
+(AgRg no Habeas Corpus nº 952762 - RS (2024/0386991-7), Sexta Turma, Relator: Ministro OG Fernandes, Sessão Virtual de 12/06/2025 a 18/06/2025)
+
+Na minuta do recurso extraordinário, sustenta-se violação ao art. 2º da Constituição da República. Argumenta-se, em síntese, a impossibilidade de conceder a remição ao recorrido em razão dos dias trabalhados. Alega que “a partir do momento em que o juízo da origem (Poder Judiciário) determina que o Diretor do Presídio (autoridade vinculada ao Poder Executivo) expeça atestado de efetivo trabalho (AET) com base em prova testemunhal de outro preso, acabou por violar o princípio constitucional da separação de poderes, previsto no artigo 2º da Carta Magna”.
+Aduz que “não há qualquer documento que ateste, adequadamente, as tarefas supostamente executadas pelo apenado, tampouco a comprovação da jornada mínima de trabalho exigida, de modo que inviável o deferimento da remição por inobservância dos ditames legais atinentes à espécie (artigo 33, caput, da Lei de Execução Penal)”.
+Requer o conhecimento e o provimento do recurso extraordinário para restabelecer a decisão do Tribunal de Justiça que cassou a decisão que concedeu a remição ao recorrido.
+É o relatório.
+Decido.
+O recurso não comporta seguimento.
+Colho dos autos que o agravado foi condenado definitivamente à pena de 16 anos e 01 mês de reclusão, em regime inicial fechado, pela prática do crime de tráfico de drogas.
+No curso da execução penal, o Ministério Público interpôs agravo em execução contra decisão que deferiu a remição de 146 dias de pena em favor do recorrido. O Tribunal de Justiça deu provimento ao recurso para cassar a decisão agravada e a remição alcançada ao recorrido, à seguinte fundamentação  (Doc. 8):
+
+“(...)
+O art. 126, caput, da LEP preceitua que o preso que cumpre pena no regime fechado ou semiaberto poderá remir sua pena por trabalho ou estudo.
+E, ressabido, o referido dispositivo não faz distinção acerca a natureza do trabalho, se interno ou externo ao presídio, em entidade pública ou privada e, ainda, se exercido, ou não, de forma remunerada, fins de concessão da benesse.
+E, para fazer jus à remição de um dia de pena, o detento deve trabalhar durante três dias, observada jornada diária não inferior a seis, nem superior a oito horas, com descanso aos domingos e feriados, como determina o artigo 33, caput, da LEP.
+Outrossim, levando-se em consideração que uma das finalidades da Lei de Execução Penal é assistir e ajudar o condenado a obter meios capazes de permitir seu retorno ao meio social, em condições favoráveis para sua integração, não se mostra desarrazoada a remição dos dias trabalhados pelo apenado, dentro da casa prisional, desde que devidamente comprovada a efetiva atividade.
+Nesse norte, estabeleceu ainda, o poder legiferante, nos moldes do artigo 129 da LEP, a necessidade de a autoridade administrativa encaminhar mensalmente ao juízo da execução cópia do registro de todos os condenados que estejam trabalhando ou estudando, com informação dos dias de trabalho ou das horas de frequência escolar ou de atividades de ensino de cada um deles.
+No presente feito, inexiste qualquer informação oficial sobre a prática do trabalho pelo apenado, sendo que a determinação pelo juízo de origem, da confecção de AET após oitiva de testemunhas, não encontra amparo legal a recomendar o deferimento da benesse fulcrado tão somente em prova testemunhal.
+Ademais, ainda que a administração prisional tenha confeccionado o atestado de efetivo trabalho, após determinação judicial, entendo que ainda assim não existe demonstração de qualquer controle do labor realizado, até porque, ao que consta, inexistente qualquer documento nesse sentido, não sendo suficiente, para tanto, eventual atestado que será produzido a posteriori, mediante determinação do juízo.
+Em reforço argumentativo, assentando a legitimidade do ato administrativo, leciona Nucci, ao elencar os requisitos para a remição1 : a) três dias de trabalho ou de estudo, à razão de 6 horas de trabalho por dia e 4 horas de estudo; b) atestado de trabalho ou frequencia escolar apresentado pela direção do presídio, que goza de presunção de veracidade; c) exercício de trabalho ou estudo reconhecido pelo estabelecimento prisional."
+Na casuística, o AET foi emitido por força de determinação judicial (Evento 199), com base tão somente nos testemunho do apenado Fernando Santos de Moraes, que estava recolhido junto do agravado no período indicado para a remição.
+Com efeito, no caso em exame, não há certeza de efetivo trabalho do condenado, tampouco carga horária desempenhada ou a especificação do trabalho e, sobretudo, fiscalização, pois o documento foi baseado em oitiva de testemunha.
+Nessa linha, a remição atestada representa uma premiação de um benefício que não restou comprovado de que o apenado tenha preenchido o requisito para tanto.
+Assim ainda que exista a declaração do apenado Fernando Santos de Moraes, que testemunhou a favor do agravado, tal situação não é suficiente para autorizar a remição por trabalho realizado sem o mínimo de fiscalização.
+Frente ao exposto, voto por dar provimento ao agravo em execução para cassar a decisão agravada e a remição alcançada ao agravado.”
+
+O Superior Tribunal de Justiça, por sua vez, concedeu a ordem de habeas corpus para restabelecer a decisão do Juízo da Execução, que reconheceu a remição dos dias de trabalho exercido pelo paciente, nos seguintes termos (Doc. 56):
+
+“Inicialmente, a despeito do não cabimento deste writ, utilizado como substituto de recurso próprio, procedo à análise do feito, a fim de verificar a ocorrência de eventual constrangimento ilegal.
+Conforme relatado, a defesa postula que os dias de trabalho exercido pelo paciente sejam computados para remição da pena.
+O Tribunal de origem cassou a decisão que deferiu o benefício com a seguinte fundamentação (fls. 347-348):
+(...)
+Nesse contexto, o Tribunal de origem contrariou o entendimento do Superior Tribunal de Justiça no sentido de que o atestado de efetivo trabalho (AET) emitido pela autoridade administrativa da unidade prisional, responsável pela supervisão do trabalho, deve ser considerado suficiente para comprovar o trabalho realizado pelo preso.
+Ademais, é assente a jurisprudência desta Corte Superior de que, "em recentes julgados, vem flexibilizando as regras previstas do art. 126, da LEP, para admitir a remição da pena pela atividade laboral de auxiliar de 'plantão de galeria', como forma de possibilitar aos apenados encarcerados em unidades sem outras atividades laborais receberem o benefício, desde que devidamente reconhecida pelo estabelecimento prisional. Precedentes" (AgRg no REsp n. 1.935.335/RS, Quinta Turma, relator Ministro Reynaldo Soares da Fonseca, DJe de 8/6/2021).
+Nesse sentido:
+(...)
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente do habeas corpus, contudo concedo a ordem, de ofício, para restabelecer a decisão do Juízo da Execução, que reconheceu a remição dos dias de trabalho exercido pelo paciente.”
+
+Portanto,  observa-se que, para dissentir do entendimento firmado pelas instâncias anteriores e examinar das pretensões do agravante, seria necessário analisar a legislação infraconstitucional aplicada ao caso, assim como reexaminar fatos e provas constantes dos autos, o que torna oblíqua e reflexa eventual ofensa, a inviabilizar o conhecimento do recurso extraordinário. Nessas circunstâncias, devidamente fundamentada a decisão de inadmissibilidade do agravo em recurso extraordinário, em razão da incidência da Súmula nº 279/STF. Nesse sentido:
+
+“AGRAVO INTERNO NO HABEAS CORPUS. EXECUÇÃO PENAL. PRETENDIDA REMIÇÃO PENAL. SUPOSTO ADIMPLEMENTO DOS REQUISITOS LEGAIS. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. INADMISSIBILIDADE NA VIA ELEITA. REITERAÇÃO DAS RAZÕES. INOVAÇÃO RECURSAL. AGRAVO INTERNO DESPROVIDO. 1. A remição pelo estudo ou trabalho pressupõe a comprovação inequívoca da atividade desenvolvida pelo condenado. Precedentes: HC 208.468-AgR, Segunda Turma, Rel. Min. Nunes Marques, DJe de 28/04/2022; HC 207.781-AgR, Primeira Turma, Rel. Min. Alexandre de Moraes, DJe de 30/11/2021; HC 124.520, Primeira Turma, Rel. p/ Acórdão, Min. Roberto Barroso, DJe de 27/06/2018. 2. O habeas corpus é ação inadequada para a valoração e exame minucioso do acervo fático-probatório engendrado nos autos. 3. In casu, o paciente teve indeferido o pleito de remição de 80 (oitenta) dias em razão da conclusão dos cursos realizados à distância sem a devida comprovação. 4. A impugnação específica da decisão agravada, quando ausente, conduz ao desprovimento do agravo regimental. Precedentes: HC 137.749-AgR, Primeira Turma, Rel. Min. Roberto Barroso, DJe de 17/5/2017; e HC 133.602-AgR, Segunda Turma, Rel. Min. Cármen Lúcia, DJe de 8/8/2016. 5. A reiteração dos argumentos trazidos pela parte agravante na petição inicial da impetração é insuscetível de modificar a decisão agravada. Precedentes: HC 136.071-AgR, Segunda Turma, Rel. Min. Ricardo Lewandowski, DJe de 9/5/2017; HC 122.904-AgR, Primeira Turma, Rel. Min. Edson Fachin, DJe de 17/5/2016; e RHC 124.487-AgR, Primeira Turma, Rel. Min. Roberto Barroso, DJe de 1º/7/2015. 6. A irresignação recursal é incompatível com a realização de inovação argumentativa preclusa, ante a ausência de insurgência em momento processual anterior. Precedentes: HC 127.975-AgR, Segunda Turma, Rel. Min. Teori Zavascki, DJe 3/8/2015, RHC 124.715-AgR, Primeira Turma, Rel. Min. Roberto Barroso, DJe 19/5/2015, e AI 518.051-AgR, Segunda Turma, Rel. Min. Ellen Gracie, DJ de 17/2/2006. 7. Agravo interno desprovido.”
+(HC 223946 AgR, Relator(a): LUIZ FUX, Primeira Turma, julgado em 06-03-2023, PROCESSO ELETRÔNICO DJe-s/n  DIVULG 13-03-2023  PUBLIC 14-03-2023)
+
+“Direito Penal. Execução Penal. Agravo regimental em recurso extraordinário com agravo. Remição de Pena. Matéria infraconstitucional. Incidência da Súmula 279/STF. Agravo não provido. I. Caso em exame 1.Agravo regimental contra decisão que negou seguimento a recurso extraordinário com agravo. II. Questão em discussão 2.Preenchimento dos pressupostos de admissibilidade do recurso extraordinário com agravo. III. Razão de decidir 3.A petição de agravo não trouxe novos argumentos aptos a desconstituir a decisão agravada, a qual deve ser mantida pelos seus próprios fundamentos. 4.Para dissentir do entendimento firmado pelo Tribunal de origem, seria necessário analisar a legislação infraconstitucional aplicada ao caso, assim como reexaminar os fatos e as provas constantes dos autos, procedimentos vedados nesta sede processual (Súmula 279/STF). IV. Dispositivo 5.Agravo regimental não provido.”
+(ARE 1568618 AgR, Relator(a): EDSON FACHIN (Presidente), Tribunal Pleno, julgado em 11-11-2025, PROCESSO ELETRÔNICO DJe-s/n  DIVULG 19-11-2025  PUBLIC 24-11-2025)
+
+Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+Publique-se.
+
+Brasília, 6 de fevereiro de 2026.
+
+Ministro FLÁVIO DINO
+Relator
+Documento assinado digitalmente
