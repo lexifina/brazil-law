@@ -1,0 +1,38 @@
+DECISÃO
+
+Elisa Frank interpõe agravo (eDoc 51) contra a decisão (eDoc 49) que, à anotação de que o acórdão está em conformidade com o decidido pelo Supremo Tribunal Federal na ADI 7026, bem assim pela incidência dos enunciados 279 e 280 da Súmula do STF, inadmitiu o recurso extraordinário (eDoc 46) manejado em face de acórdão assim ementado (eDoc 38):
+ RECURSO INOMINADO. JUIZADO DA FAZENDA. AÇÃO DECLARATÓRIA E CONDENATÓRIA. SERVIDOR PÚBLICO DO ESTADO DE SANTA CATARINA APOSENTADO. PRETENSÃO DE MANUTENÇÃO DA COBRANÇA DE CONTRIBUIÇÃO PREVIDENCIÁRIA NOS MOLDES DA LEGISLAÇÃO ANTERIOR (LC N. 412/2008). SENTENÇA DE IMPROCEDÊNCIA. RECURSO DA PARTE AUTORA. PROMULGAÇÃO DA LC N. 773/2021 - APÓS A EC N. 103/2019 - PARA REGULAMENTAR AS CONTRIBUIÇÕES PREVIDENCIÁRIAS DOS SERVIDORES ESTADUAIS, ALTERANDO A LEGISLAÇÃO ANTERIOR (LC N. 412/2008). RECONHECIMENTO DA CONSTITUCIONALIDADE DA FORMA DE COBRANÇA PREVISTA NO ARTIGO 17, §2º, DA LC N. 773/2021, PELO SUPREMO TRIBUNAL FEDERAL NO JULGAMENTO DA ADI 7026: O TRIBUNAL, POR UNANIMIDADE, JULGOU IMPROCEDENTE O PEDIDO FORMULADO NA AÇÃO DIRETA, PARA DECLARAR: A) CONSTITUCIONAL O DISPOSTO NO INC. I E NO § 2º DO ART. 17 DA LEI COMPLEMENTAR N. 412/2008 DE SANTA CATARINA, ALTERADO PELO ART. 7º DA LEI COMPLEMENTAR ESTADUAL N. 773/2021; B) CONSTITUCIONAL A REVOGAÇÃO DAS NORMAS DE TRANSIÇÃO DO REGIME JURÍDICO PREVIDENCIÁRIO ENTÃO VIGENTES NO ESTADO, PREVISTO NOS ARTS. 65 E SEGUINTES DA LEI COMPLEMENTAR ESTADUAL N. 412/2008, ALTERADOS PELA LEI COMPLEMENTAR ESTADUAL N. 773/2021. LEGALIDADE, PORTANTO, DA COBRANÇA DA FORMA COMO REALIZADA. SENTENÇA DE IMPROCEDÊNCIA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. SÚMULA DO JULGAMENTO QUE SERVE COMO ACÓRDÃO. INTELIGÊNCIA DO ARTIGO 46, DA LEI N. 9.099/95. RECURSO CONHECIDO E DESPROVIDO.
+Em suas razões, a recorrente alega, em síntese, inexistirem óbices à abertura da instância extraordinária, forte na violação dos arts. 5º, caput e inciso XXXVI, 40, §18º, 150, IV, todos da Constituição Federal.
+
+Sustenta que a cobrança questionada viola diretamente o art. 40, § 18, da Constituição Federal, que limita a contribuição previdenciária dos inativos apenas sobre valores que superem o teto do RGPS; e que, ademais, o desconto de 14% em proventos de natureza alimentar revela caráter confiscatório, em desrespeito ao art. 150, IV, da CF, além de afrontar os princípios da isonomia (pela desigualdade em relação aos segurados do RGPS) e da proteção ao direito adquirido e ao ato jurídico perfeito (art. 5º, XXXVI, CF), pois a aposentadoria da recorrente constitui situação jurídica consolidada.
+
+Ressalta que a matéria já é objeto de apreciação pelo Supremo Tribunal Federal no julgamento das ADIs nºs 6.255 e correlatas, em cujo âmbito se formara maioria pela inconstitucionalidade do art. 149, §1º-A, da EC 103/2019, que permitia a ampliação da base de cálculo da contribuição dos inativos, tese idêntica àquela aqui discutida.
+
+É o relatório. Decido.
+
+Correto o acórdão recorrido.
+
+Ao adequado enfrentamento da controvérsia, transcrevo as razões de decidir adotadas pela Corte de origem, nos termos da sentença (eDoc 19):
+Indefiro o pedido de suspensão do feito, uma vez que a questão já foi apreciada nos autos da Ação Direta de Inconstitucionalidade - ADI n. 7026, cujos fundamentos devem ser aplicados ao presente feito.
+Pretende a parte autora suspender a cobrança da contribuição previdenciária sob o argumento da inconstitucionalidade do artigo 17, § 2º c/c artigo 92 da LCE nº 412/2008, alterado pela Lei Complementar nº 848/2023.
+A EC n. 103/2019, sensível à necessidade de se adotar medidas para a sustentabilidade do regime de previdência, além de suprimir a imunidade tributária que prevista no art. 40, §21, da Constituição Federal, conferiu mais autonomia aos entes federativos para que eles disciplinassem a cobrança das alíquotas que entendessem adequadas para o RPPS de seus servidores ativos, aposentados e pensionistas, trazendo exceção à regra do art. 40, § 18, para permitir, inclusive, que "quando houver deficit atuarial, a contribuição ordinária dos aposentados e pensionistas poderá incidir sobre o valor dos proventos de aposentadoria e de pensões que supere o salário-mínimo", nos termos do art. 149, 1º-A, da Constituição Federal .
+Assim, atualmente, cabe apenas ao ente federativo estadual instituir e regulamentar as contribuições previdenciárias de seus servidores, e respectivas imunidades ou isenções. Isso porque o §21 do artigo 40 da Constituição Federal foi revogado pela EC n. 103/2019, que, por força do art. 36, II, no âmbito do Estado de Santa Catarina, entrou em vigor em 12/08/2021, data de publicação da LCE n. 773/2021, de iniciativa privativa do respectivo Poder Executivo Catarinense (conferindo eficácia ao art. 35, I, a, da EC 103/2019).
+De resto, o Supremo Tribunal Federal - STF, em sede de repercussão geral - Tema 317 decidiu que "O art. 40, § 21, da Constituição Federal, enquanto esteve em vigor, era norma de eficácia limitada e seus efeitos estavam condicionados à edição de lei complementar federal ou lei regulamentar específica dos entes federados no âmbito dos respectivos regimes próprios de previdência social.".
+Considerando a prerrogativa do art. 149, §§ 1º a 1º-C da Constituição Federal, o Estado de Santa Catarina editou a LCE n. 773/2021 e a LCE n. 848/2023, versando sobre as alíquotas dos inativos.
+(...)
+Não bastasse isso, o Supremo Tribunal Federal, nos autos da ADI n. 7026, reconheceu a constitucionalidade dos dispositivos da LCE n. 773/2021, mesma interpretação que é possível aplicar à presente lide.
+A respeito da matéria, verifico que ainda está pendente de julgamento nesta Suprema Corte a ADI 6.255, no bojo da qual se avalia a constitucionalidade dos arts. 1º,  9º, §§ 4º e 5º , e 11, caput e §§ 1º, 2º, 3º e 4º, todos da Emenda Constitucional nº 103, de 12 de novembro de 2019. Ressalto que as razões de decidir a serem adotadas na apreciação da supradita ação direta alcançarão a controvérsia deste processo, pelo que apropriado o retorno dos autos à origem, a fim de que aguarde a conclusão do paradigma e, caso necessário, exerça eventual juízo de retratação.
+
+Em situação fronteiriça, na qual adotada a mesma solução processual, aponto, entre muitos outros, o RE 1.538.152 ED/SC, de minha relatoria; o ARE 1.560.552 ED, Rel. Min. André Mendonça; o RE 1.538.151, Rel. Min. Luiz Fux; o RE 1.538.158, Rel. Min. Dias Toffoli; além do seguinte acórdão da Primeira Turma:
+
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. OBJETO RECURSAL SOB ANÁLISE DO PLENÁRIO DO SUPREMO TRIBUNAL FEDERAL EM AÇÕES DE CONTROLE CONCENTRADO. NECESSIDADE DE SOBRESTAMENTO DO RECURSO EXTRAORDINÁRIO. DEVOLUÇÃO PARA ORIGEM COM ANULAÇÃO DAS DECISÕES E ACÓRDÃOS PROFERIDOS PELO SUPREMO TRIBUNAL FEDERAL. EMABARGOS RECEBIDOS. I — O objeto do recurso extraordinário encontra-se em Julgamento conjunto pelo Plenário do Supremo Tribunal Federal nas ADIs 6.254, 6.255, 6.256, 6.258, 6.271, 6.279, 6.289, 6.361, 6.367, 6.384, 6.385, 6.916 e 6.731. II — Necessidade de sobrestamento do RE na origem para evitar decisões conflitante e prestigiar a segurança jurídica. III — Embargos de declaração recebidos para tornar nulos a decisão monocrática e o acórdão embargado, determinando o sobrestamento dos autos na origem. (ARE 1.550.836 AgR-ED, Rel. Min. Cristiano Zanin)
+
+Em face do exposto, considerado o inciso I do art. 927 do Código de Processo Civil, determino a devolução dos autos à Corte de origem para que aguarde o julgamento da ADI 6.255 e, após, exerça eventual juízo de retratação.
+
+Publique-se.
+
+Brasília, 9 de fevereiro de 2026.
+
+Ministro NUNES MARQUES
+Relator
+Documento assinado digitalmente
