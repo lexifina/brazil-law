@@ -1,0 +1,45 @@
+DECISÃO
+
+1. O Município de Angra dos Reis/RJ interpôs, com fundamento na alínea ‘a’ do inciso III do art. 102 da Constituição Federal, recurso extraordinário (eDoc 37) contra do acórdão do Tribunal de Justiça do Estado do Rio de Janeiro (eDoc 21), assim ementado:
+APELAÇÃO CÍVEL. SUS. AÇÃO PROPOSTA POR PACIENTE HIPOSSUFICIENTE E PORTADOR DE DIABETES, BUSCANDO O FORNECIMENTO DOS MEDICAMENTOS/INSUMOS NECESSÁRIOS AO SEU TRATAMENTO. SENTENÇA DE IMPROCEDÊNCIA, QUE SE REFORMA. DIREITO À VIDA E À SAÚDE. ART. 196 DA CONSTITUIÇÃO FEDERAL. A ADEQUAÇÃO DOS MEDICAMENTOS À ENFERMIDADE DO AUTOR FOI CORROBORADA PELO PARECER TÉCNICO DO NATJUS. INOCORRÊNCIA DE OFENSA A DISPOSITIVOS DA LEI Nº 8.080/90. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. TEMA Nº 106. DADO PROVIMENTO AO RECURSO.
+
+Sustenta que o pronunciamento a quo, ao determinar, em caráter solidário, tanto ao recorrente como ao Estado do Rio de Janeiro, o fornecimento, à parte recorrida, de insumos (insulinas Lantus e Humalog, bem assim fitas de medição accu-check) para o tratamento de Diabetes Mellitus, viola preceitos constitucionais.
+Diz, nesse contexto, que, por serem medicamentos incorporados ao SUS, porém com dispensação imputada ao Estado do Rio de Janeiro conforme as regras de repartição de competências no âmbito desse sistema de saúde, não caberia impor, na espécie, obrigação condenatória em face do ente municipal.
+Requer, ao final, o conhecimento e o provimento do recurso excepcional para que, reformado o acórdão recorrido, seja julgado improcedente o pedido contra o Município de Angra dos Reis.
+Considerados os Temas nºs 793 e 1.234/RG, o julgado foi submetido a juízo de retratação, o qual restou rejeitado em manifestação resumida nos termos a seguir:
+JUÍZO DE CONFORMIDADE. REMESSA DO FEITO À CÂMARA POR DETERMINAÇÃO DA 3ª VICE-PRESIDÊNCIA PARA FINS DE EVENTUAL EXERCÍCIO DE RETRATAÇÃO OU CONFIRMAÇÃO DO ACÓRDÃO PROFERIDO, VIS A VIS AO DECIDIDO PELO STF NOS TEMAS Nº 793 E 1234. AÇÃO PROPOSTA POR PACIENTE HIPOSSUFICIENTE E PORTADOR DE DIABETES, BUSCANDO O FORNECIMENTO DOS MEDICAMENTOS/INSUMOS NECESSÁRIOS AO SEU TRATAMENTO. FÁRMACOS PADRONIZADOS. JULGADO PROFERIDO NESTES AUTOS QUE NÃO DIVERGE DO RESULTADO DOS JULGAMENTOS NA CORTE SUPREMA, ADEQUANDO-SE A TODOS OS PARÂMETROS NELES FIXADOS. EXERCÍCIO DO JUÍZO DE RETRATAÇÃO QUE NÃO SE IMPÕE.
+
+É, no essencial, o relato. Decido.
+2.  Destaco, desde logo, que o Supremo, ao apreciar embargos de declaração no RE 855.178 ED, Redator do acórdão o Ministro Edson Fachin, Tema n. 793/RG, fixou tese no sentido de que “Os entes da federação, em decorrência da competência comum, são solidariamente responsáveis nas demandas prestacionais na área da saúde, e diante dos critérios constitucionais de descentralização e hierarquização, compete à autoridade judicial direcionar o cumprimento conforme as regras de repartição de competências e determinar o ressarcimento a quem suportou o ônus financeiro”.
+
+No âmbito do julgamento do recurso aclarador, essa orientação foi, nos termos do voto do Ministro Edson Fachin, esmiuçada nos termos a seguir:
+
+3) Quanto ao desenvolvimento da tese da solidariedade enuncia-se o seguinte:
+i) A obrigação a que se relaciona a reconhecida responsabilidade solidária é a decorrente da competência material comum prevista no artigo 23, II, CF, de prestar saúde, em sentido lato, ou seja: de promover, em seu âmbito de atuação, as ações sanitárias que lhe forem destinadas, por meio de critérios de hierarquização e descentralização (arts. 196 e ss. CF);
+ii) Afirmar que “o polo passivo pode ser composto por qualquer um deles (entes), isoladamente ou conjuntamente” significa que o  usuário, nos termos da Constituição (arts. 196 e ss.) e da legislação pertinente (sobretudo a lei orgânica do SUS n. 8.080/90) tem direito a uma prestação solidária, nada obstante cada ente tenha o dever de  responder por prestações específicas;
+
+iii) Ainda que as normas de regência (Lei 8.080/90 e alterações, Decreto 7.508/11, e as pactuações realizadas na Comissão Intergestores Tripartite) imputem expressamente a determinado ente a responsabilidade principal (de financiar a aquisição) pela prestação pleiteada, é lícito à parte incluir outro ente no polo passivo, como responsável pela obrigação, para ampliar sua garantia, como decorrência da adoção da tese da solidariedade pelo dever geral de prestar saúde;
+iv) Se o ente legalmente responsável pelo financiamento da obrigação principal não compuser o polo passivo da relação jurídico-processual, compete a autoridade judicial direcionar o cumprimento conforme as regras de repartição de competências e determinar o ressarcimento a quem suportou o ônus financeiro, sem prejuízo do redirecionamento em caso de descumprimento;
+v) Se a pretensão veicular pedido de tratamento, procedimento, material ou medicamento não incluído nas políticas públicas (em todas as suas hipóteses), a União necessariamente comporá o polo passivo, considerando que o Ministério da Saúde detém competência para a incorporação, exclusão ou alteração de novos medicamentos, produtos, procedimentos, bem como constituição ou a alteração de protocolo clínico ou de diretriz terapêutica (art. 19-Q, Lei 8.080/90), de modo que recai sobre ela o dever de indicar o motivo da não padronização e eventualmente iniciar o procedimento de análise de inclusão, nos termos da fundamentação;
+ vi) A dispensa judicial de medicamentos, materiais, procedimentos e tratamentos pressupõe ausência ou ineficácia da prestação administrativa e a comprovada necessidade, observando, para tanto, os parâmetros definidos no artigo 28 do Decreto federal n. 7.508/11.
+
+Além desse julgamento, o Supremo, no Tema n. 1.234 (RE 1.366.243, Rel. Min. Gilmar Mendes) do repertório da repercussão geral, examinado na Sessão Virtual do Plenário de 6.9.2024 a 13.9.2024, também fixou orientação a especificar o alcance do dever do Estado de fornecer, aos hipossuficientes, medicamentos para o tratamento de moléstias, inclusive naqueles casos de medicamentos ainda não padronizados no Sistema Único de Saúde.
+Nesse último precedente e no que se refere à adequada distribuição, entre os entes federados, foi dado contornos mais precisos ao ônus do custeio e da oferta de insumos incorporados para utilização no SUS. A propósito, veja-se:
+VI. MEDICAMENTOS INCORPORADOS
+6) Em relação aos medicamentos incorporados, conforme conceituação estabelecida no âmbito da Comissão Especial e constante do Anexo I, os Entes concordam em seguir o fluxo administrativo e judicial detalhado no Anexo I, inclusive em relação à competência judicial para apreciação das demandas e forma de ressarcimento entre os Entes, quando devido.
+6.1) A(o) magistrada(o) deverá determinar o fornecimento em face de qual ente público deve prestá-lo (União, Estado, Distrito Federal ou Município), nas hipóteses previstas no próprio fluxo acordado pelos Entes Federativos, integrantes do presente acórdão.
+
+Entretanto, na espécie, do exame dos pronunciamentos objurgados, especialmente do proferido em nível de retratação após o julgamento do mérito do Tema nº 1.234, contata-se não ter havido manifestação sobre a repartição do cumprimento das obrigações nos moldes declinados no item 6 da ementa deste precedente qualificado.
+O Tribunal de origem, nesse aspecto, limitou-se a declarar que o direcionamento, aos réus, do cumprimento da obrigação poderia ocorrer na fase de cumprimento de sentença. Confira-se, nesse sentido, trecho do acórdão:
+A determinação de fornecimento dos medicamentos por ambos os réus, solidariamente, não obsta eventual divisão entre os entes federativos visando à organização do Sistema Único de Saúde, podendo o Município pleitear do Estado ou da União o ressarcimento dos gastos efetuados, segundo a tese fixada pelo STF no julgamento do Tema nº 793, sendo certo que o direcionamento do cumprimento da obrigação conforme as regras de repartição de competências pelo Poder Judiciário poderá ocorrer na fase de cumprimento de sentença, com o ressarcimento daquele que indevidamente venha a suportar o ônus financeiro.
+Todavia, entendo que os limites da imposição condenatória a um e/ou outro requerido, nos termos do paradigma vinculante declinado no RE 1.366.243, devem estar explicitados já na fase de conhecimento.
+Assim, deve a Corte a quo reexaminar a causa de forma a, eventualmente, adequar julgamento proferido ao item 6 da ementa do julgamento de mérito do Tema nº 1.234/RG, com a manutenção, em todos os termos, até esse reexame, dos efeitos dos assentimentos prolatados nos autos.
+3. Em face do exposto, dou provimento ao recurso extraordinário para que, como entender de direito, o Tribunal de Justiça do Estado do Rio Janeiro reaprecie a causa em face do que restou definido no item nº 6 da ementa do julgamento de mérito do Tema nº 1.234/RG (RE 1.366.243), mantidos, até o reexame, os efeitos dos julgamentos proferidos na origem.
+
+4. Publique-se. Intime-se.
+
+Brasília, 9 de fevereiro de 2026.
+
+Ministro NUNES MARQUES
+Relator
+Documento assinado digitalmente
