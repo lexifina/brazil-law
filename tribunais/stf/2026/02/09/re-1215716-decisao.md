@@ -1,0 +1,59 @@
+DECISÃO
+
+1. O Ministério Público do Estado do Rio de Janeiro interpôs, com fundamento na alínea ‘a’ do inciso III do art. 102 da Constituição, recurso extraordinário (eDoc 54, p. 51) contra acórdão proferido pela 17ª Câmara Cível do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (eDoc 46):
+
+APELAÇÃO. AÇÃO CIVIL PÚBLICA. CERCEAMENTO  DE DEFESA. REJEIÇÃO. APRESENTAÇÃO DE PLANO E  IMPLANTAÇÃO DE POLÍTICAS PÚBLICAS DE  SANEAMENTO BÁSICO, PAVIMENTAÇÃO,  DRENAGEM DE ÁGUAS PLUVIAIS, ABASTECIMENTO DE ÁGUA E COLETA DE ESGOTO EM LOCALIDADE ESPECÍFICA. NECESSIDADE DE OBSERVÂNCIA DO CRONOGRAMA  ESTABELECIDO PELA  MUNICIPALIDADE. PRINCÍPIO DA RESERVA DO  POSSÍVEL E DA SEPARAÇÃO DOS PODERES.  MANUTENÇÃO DA SENTENÇA DE IMPROCEDÊNCIA.
+  1. Tendo em vista a desnecessidade de produção de novas  provas, em razão do conjunto probatório já acostado aos autos,  bem como a ausência de prejuízos, afasta-se a preliminar de cerceamento de defesa. 2. Legitimidade ativa do Ministério  Público, nos termos dos artigos 129, inciso III, da Constituição Federal. 3. Inicial que não é inepta, pois o pedido é certo, claro e determinado, com aproveitamento lógico da  narração dos fatos e da conclusão efetuada a fim de que sejam apresentados planos para implantação das melhorias, com existência de prova mínima dos fatos narrados na peça inicial. 4. Pedido que não é juridicamente impossível porque admitido no ordenamento jurídico. 5. Inexiste a alegada conexão com as  demais ações civis públicas ajuizadas pelo Ministério Público,  pois se referem a localidades distintas, que obviamente  possuem planos políticos distintos, com metas diferenciadas.  6. A pretensão deduzida pelo Ministério Público de impor aos  réus, no âmbito de suas atribuições, a obrigação de  apresentação de plano de pavimentação, de saneamento, de  macro e microdrenagem de águas pluviais, ligação de água,  inclusive com a determinação de inclusão de previsão  orçamentária, e ainda a adoção de medidas de engenharia e  intervenção urbanística em localidade específica, constitui  matéria de reserva discricionária no âmbito da gestão de  políticas públicas, descabendo ao Poder Judiciário substituir a  escolha do administrador pelas suas. 7. Não compete ao  Judiciário determinar ao ente público a execução de obras  urbanas em favor de determinada comunidade já incluída no  cronograma elaborado pela municipalidade, cuja prioridade  foi estabelecida com base nos critérios técnicos e objetivos, em detrimento de outras, também já objeto de mapeamento,  diante da complexidade de fatores técnicos e orçamentários que devem ser levados em consideração, o que constituiria atentado à discricionariedade e aos critérios políticos de escolha do Administrador, além do risco de comprometimento do equilíbrio das finanças públicas. 8. Há limites materiais  orçamentários que não podem ser ignorados, especialmente no  âmbito municipal, o que conduz à relevância no caso concreto do princípio da reserva do possível, sendo certo que o  Ministério Público, não obstante a nobre função fiscalizadora  que exerce, não é o gestor de finanças e de políticas públicas,  cabendo ao governante, escolhido pelo povo, nos limites da  legalidade, da eficiência e da probidade, realizar as escolhas  para as quais foi sufragado. 9. Desprovimento do recurso.
+
+O recorrente aponta violação aos arts. 23, IX, 196 e 197 da Constituição Federal. Sustenta que há omissão e deficiência na prestação de serviços públicos essenciais, com impacto direto sobre direitos fundamentais. Alega que o acórdão recorrido, ao invocar os princípios da separação dos poderes, da reserva do possível e da discricionariedade administrativa para afastar a intervenção judicial, acabou por negar vigência às normas constitucionais indicadas.
+
+Requer, ao final, o conhecimento e provimento do apelo excepcional para, reformado do acórdão recorrido, declarar a procedência do pleito inicial, consistente na condenação dos recorridos a adotar, no âmbito de suas competências, medidas que resultarão na melhoria das condições de vida dos moradores de Itaipuaçu, distrito do Município de Maricá/RJ, consubstanciadas em elaboração e execução de planos de saneamento, com previsão de drenagem de águas pluviais, de pavimentação e de abastecimento de água e iluminação pública.
+
+Foi determinada a devolução dos autos ao Tribunal de origem para observância do regime da repercussão geral (Tema 698/RG), porém a retratação foi rejeitada (eDoc 75).
+
+É o relatório. Decido.
+
+2. Inicialmente, consigno que ambas as Turmas da Suprema Corte possuem assentimento no sentido de que, em situações excepcionais, é possível ao Poder Judiciário determinar, ao Poder Executivo, a implementação de políticas públicas para garantir direitos assegurados na Constituição da  República. Nesse sentido, menciono os seguintes precedentes:
+
+Agravo regimental no recurso extraordinário. Constitucional. Ação civil pública. Defesa do meio ambiente. Implementação de políticas públicas. Possibilidade. Violação do princípio da separação dos poderes. Não ocorrência. Insuficiência orçamentária. Invocação. Impossibilidade. Precedentes.
+1. A Corte Suprema já firmou a orientação de que é dever do Poder Público e da sociedade a defesa de um meio ambiente ecologicamente equilibrado para as presentes e futuras gerações.
+2. Assim, pode o Poder Judiciário, em situações excepcionais, determinar que a Administração pública adote medidas assecuratórias desse direito, reputado essencial pela Constituição Federal, sem que isso configure violação do princípio da separação de poderes.
+3. A Administração não pode justificar a frustração de direitos previstos na Constituição da República sob o fundamento da insuficiência orçamentária.
+4. Agravo regimental não provido.
+(RE 658.171 AgR, Primeira Turma, Rel. Min. Dias Toffoli)
+
+AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. INTERPOSIÇÃO EM 17.03.2017. AÇÃO CIVIL PÚBLICA. RISCO DE DESLIZAMENTO. MEDIDAS DE ENGENHARIA, GEOTECNIA E INTERVENÇÃO URBANÍSTICA.
+1. É firme o entendimento deste Tribunal de que o Poder Judiciário pode, sem que fique configurada violação ao princípio da separação dos Poderes, determinar a implementação de políticas públicas em defesa de direitos fundamentais.
+2. São inidôneas a abrir a via do apelo extremo               alegadas violações meramente reflexas ao texto          constitucional.
+[...]
+(ARE 1.013.143 AgR, Segunda Turma, Rel. Min. Edson Fachin)
+
+Fixada essa premissa – da qual não se afastou o acórdão              recorrido –, observo que o Tribunal de origem, para anuir com a improcedência da pretensão veiculada na ação civil pública, baseou-se nos fatos e nas provas, consoante transparece dos seguintes fragmentos do aresto objurgado:
+
+Cumpre mencionar a celebração de diversos contratos pelo Município de Maricá com a União, Caixa Econômica Federal para a execução de ações relativas ao Programa Gestão da Política de Desenvolvimento, e outros órgãos, tais como FUNDERJ (fls. 627-632) para execução de inúmeras obras de drenagem e pavimentação em diversas localidades de Maricá, conforme documentos acostados aos autos.
+Ressalte-se o documento de fls. 549-550 prevendo a implantação do sistema de abastecimento de água nas localidades de Inoã e Itaipuaçu, inclusive com previsão orçamentária, conforme documentos de fls. 549-551.
+Desse modo, deve-se observar o cronograma estabelecido pelo Município para a implantação das medidas planejadas, conforme fls. 401-726, sob pena de inviabilizar a execução dos demais programas, projetos e medidas, cuja implantação já foi iniciada pela municipalidade, em observância à prioridade estabelecida a partir de critérios técnicos e objetivos.
+Em que pese a relevância e importância do documento contendo centenas de assinaturas de moradores da localidade dirigido ao Prefeito de Maricá e apresentado nos autos pelo Ministério Público (fls. 850-854 e fls. 935-938) relatando a precariedade de diversas ruas de Itaipuaçu, não se pode acolher a pretensão autoral.
+Não há como se operacionalizar, de uma só vez, tantas frentes de obras de saneamento básico, pavimentação, ligação de água ao mesmo tempo. Isso justifica o fato de as ruas apontadas nas fotografias de fls. 846-849 e 855-862 e nos documentos de fls. 926-957 acostados pelo Ministério Público relativos ao bairro de Itaipuaçu.
+Conforme relata a edilidade (fls. 366), o Município de Maricá vem implementando diversas obras de pavimentação, drenagem, ligação de água e saneamento em todo o território municipal. Tais obras foram e estão sendo realizadas com base em um estudo prévio de definição de prioridades para alocação dos recursos públicos, visando, gradativamente, a implementação das medidas programadas.
+Nesse contexto, não existe omissão injustificável ou inércia do Município ou da Cedae apta a revelar o descumprimento do dever constitucional de agir, o que não se constatou não caso concreto. Verifica-se que a Municipalidade desenvolveu ações consistentes, tecnicamente fundamentadas, e que têm em conta o complexo de direitos fundamentais que colidem na hipótese, resultando na hipótese de deferência para com a escolha do Administrador, que caracteriza na espécie não o voluntarismo ao qual sempre se associou a ideia de discricionariedade, mas o exercício tecnicamente fundado de sua atribuição constitucional de formulação de políticas públicas. O Município já vem executando uma quantidade elevada de obras de pavimentação e saneamento, sendo necessário que os cronogramas sejam respeitados, pois o Poder Público não tem recursos em quantidade suficiente para contratar todas as obras necessárias, nem pessoal suficiente para geri-las, como também não tem o mercado de construção civil empresas habilitadas à execução simultânea de todas elas.
+Assim, se os problemas relatados na inicial dependem de empreitada de largo espectro, com execução de plano de medidas de engenharia e intervenção urbanística, na área em questão, a pretensão autoral esbarra no princípio da separação dos poderes, podendo o governante escolher, à luz das limitações materiais dos cofres públicos, qual política de obra pública priorizar diante das flagrantes necessidades da população a que serve.
+No que diz respeito à Cedae, destaca-se o Convênio de cooperação celebrado entre o Estado do Rio de Janeiro e o Município de Maricá (fls. 646-726), para a organização e planejamento dos serviços públicos de abastecimento de água e esgotamento sanitário, com a autorização da execução de tais serviços para a companhia estadual de águas e esgotos - CEDAE, por intermédio de contrato de programa de novembro de 2008, constando expressamente a fls. 682, 686, 697, 710, 711, 717, 719 e 720 a localidade de Itaipuaçu.
+Ademais, o contrato com o Estado prevê a implantação do sistema de abastecimento de água de Inoã e Itaipuaçu, obra sendo iniciada, com previsão orçamentária de R$ 75.079.776,12 e a ampliação e melhorias operacionais do sistema (fls. 190-191).
+Consta ainda o total de investimentos visa a universalização dos serviços de água no Município de Maricá, que hoje está em torno de 35% e que alcançará 90% da população, cumprindo gradativamente as metas de ampliação dos sistemas de abastecimento de água, coleta e tratamento de esgoto (fls. 191).
+[...]
+Portanto, não merece reparo a douta sentença que julgou improcedentes os pedidos.
+
+Ante esse quadro, tem-se a incidência do comando contido no enunciado n. 279 da Súmula do Supremo Tribunal Federal para obstar a admissibilidade do recurso.
+
+3. Ante o exposto, não conheço do recurso extraordinário.
+
+Incabível a majoração da verba honorária prevista no § 11 do art. 85 do Código de Processo Civil, dada a ausência de sua prévia fixação na origem.
+
+4. Publique-se. Intime-se.
+
+Brasília, 9 de fevereiro de 2026.
+
+Ministro NUNES MARQUES
+Relator
+Documento assinado digitalmente
